@@ -1,0 +1,691 @@
+# Évaluation des risques de financement d'activités terroristes 2018
+
+[![](/images/download.png)
+
+Évaluation des risques de financement d'activités terroristes 2018 (PDF, 441 ko)](tfa-2018-fra.pdf)
+
+## Sur cette page
+
+* [Introduction](#Introduction)
+* [Moyen-Orient](#Moyen-Orient)
+  + [Syrie](#Syrie)
+  + [Irak](#Irak)
+  + [Turquie](#Turquie)
+  + [Liban](#Liban)
+  + [Jordanie](#Jordanie)
+  + [Yémen](#Yemen)
+  + [Qatar](#Qatar)
+  + [Émirats arabes unis](#Emirats-arabes-unis)
+  + [Daech](#Daech)
+  + [Al-Qaïda](#Al-Qaida)
+  + [Hezbollah](#Hezbollah)
+* [Asie du Sud](#Asie-du-Sud)
+  + [Afghanistan](#Afghanistan)
+  + [Pakistan](#Pakistan)
+  + [Talibans](#Talibans)
+  + [Lashkar-e-Taiba](#Lashkar-e-Taiba)
+  + [Réseau Haqqani](#Reseau-Haqqani)
+* [Autres territoires et groupes à surveiller](#Autres)
+  + [Somalie](#Somalie)
+  + [Al-Chabaab](#Al-Chabaab)
+  + [Philippines](#Philippines)
+  + [Groupe Abou Sayyaf](#Groupe-Abou-Sayyaf)
+* [Activités financières associées aux voyageurs extrémistes](#Activites)
+  + [Étapes et acteurs du phénomène des voyageurs extrémistes](#Etapes)
+* [Enjeux émergents et lacunes dans l'information](#Enjeux)
+  + [Attaques de petite envergure à faible coût](#Attaques-de-petite-envergure-a-faible-cout)
+  + [Méthodes de paiement parallèles](#Methodes-de-paiement-paralleles)
+  + [Importance croissante des indicateurs géographiques](#Importance-croissante-des-indicateurs-geographiques)
+* [Lectures supplémentaires](#Lectures-supplementaires)
+* [Annexe 1 : Indicateurs d'activités financières associées aux voyageurs extrémistes](#Annexe-Indicateurs)
+* [Annexe 2 : Méthode de sélection des pays et des groupes](#Annexe-Evaluation)
+
+## Introduction
+
+Comme en font foi les dernières années, la menace posée par les terroristes solitaires et les groupes terroristes pèse sur tous les pays. Il en va de même du risque de financement des activités terroristes. Cependant, la nature de ce risque précis varie d'un pays à l'autre, selon le régime de lutte contre le financement du terrorisme et le degré auquel le système financier est exposé à celui d'un pays ou territoire à risque plus élevé.
+
+En vue d'aider les entités déclarantes à améliorer la pertinence et la qualité de leurs déclarations d'activités présumées de financement du terrorisme, la présente évaluation porte sur les risques de financement d'activités terroristes dans des pays ou territoires retenus selon au moins un des deux critères suivants :
+
+* le degré d'exposition au terrorisme ou aux activités terroristes; ou
+* la position au sein du système financier mondial et l'ampleur des relations financières avec le Canada, selon le volume des déclarations reçues par CANAFE, et l'ampleur des relations commerciales et économiques générales avec le Canada.
+
+Dans certains cas, même s'il n'existe pas de relations financières substantielles avec le Canada, l'état du régime de lutte contre le financement du terrorisme d'un pays ou territoire et la présence de nombreux terroristes sur son territoire peuvent faire en sorte que même une exposition financière limitée se traduit par un risque élevé pour les entités financières canadiennes.
+
+De même, dans certains territoires où le risque d'actes terroristes est faible, les caractéristiques du système financier et le rôle du pays dans l'économie d'une région donnée entraînent des risques relativement élevés en matière de financement d'activités terroristes.
+
+Certains pays satisfont aux deux critères de sélection; on considère donc qu'ils sont particulièrement à risque. Voir l'annexe 2 pour obtenir de l'information sur la méthodologie utilisée par CANAFE pour ce rapport.
+
+Ce rapport constitue une évaluation de base que peuvent consulter les entités déclarantes canadiennes pour s'informer sur les risques de financement d'activités terroristes dans différents pays, de même que sur les méthodes de financement caractéristiques de certaines organisations terroristes dans ces pays. Il convient de souligner, toutefois, que l'omission d'un pays ou d'un groupe dans la présente évaluation ne signifie en aucun cas que le risque est nul. Ce rapport vise plutôt à informer les entités déclarantes au sujet de la question du financement des activités terroristes. Des alertes ou des rapports opérationnels ultérieurs seront produits sur les risques et les enjeux émergents en matière de financement du terrorisme dont les entités déclarantes devraient être informées, mais qui ne sont pas couverts dans ce document.
+
+Si un pays est inclus dans ce rapport, c'est que CANAFE juge qu'il pose un haut risque de financement d'activités terroristes; les entités déclarantes devraient tenir compte de cette information dans leurs analyses axées sur les risques.
+
+Pour en savoir plus sur les répercussions de la menace terroriste pour le Canada, outre les sources énumérées dans la section « Lectures complémentaires », les entités déclarantes peuvent consulter le [Rapport public de 2017 sur la menace terroriste pour le Canada](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/pblc-rprt-trrrst-thrt-cnd-2017/index-fr.aspx) de Sécurité publique Canada.
+
+## Moyen-Orient
+
+![Cette carte géographique du Moyen-Orient représente 8 pays : la Turquie, la Syrie, le Liban, la Jordanie, l'Irak, le Qatar, l'ÉAU et le Yémen.](images/2018_MAP_MIDDLE_EAST_FR.png)
+
+Le Moyen-Orient, la Syrie, l'Irak et la Turquie au premier plan, est la principale source de risque de financement d'activités terroristes pour le Canada. Des conflits persistants (non seulement en Syrie et en Irak, mais également au Yémen et dans la péninsule du Sinaï en Égypte) entretiennent des conditions de grande instabilité dans la région. Certains des principaux risques de financement du terrorisme pour le Canada au cours des dernières années sont associés à la montée en puissance de Daech en Syrie et en Irak : le phénomène des voyageurs extrémistes, aussi appelés des combattants terroristes étrangers, se rendant au Moyen-Orient pour participer au conflit, les personnes offrant un soutien financier pour la perpétration d'activités terroristes à l'étranger, et l'incitation de particuliers à commettre des attentats terroristes en sol canadien. Si Daech a perdu une grande partie de ses territoires dans les deux dernières années, cette évolution par ailleurs positive de la situation n'est pas sans son propre lot de risques, notamment liés au retour potentiel de voyageurs extrémistes. Les revers de Daech n'ont pas non plus empêché l'instabilité, les attentats terroristes et les actes de violence insurrectionnelle de perdurer en Syrie et en Irak.
+
+La montée en puissance de Daech et l'adoption de sanctions par le Canada et d'autres pays à l'égard de la Syrie ont fait en sorte d'isoler financièrement ce pays et certaines régions de l'Irak de la communauté internationale. Ce résultat a cependant eu certains effets indésirables : le risque d'exposition financière à Daech s'est partiellement déplacé vers des pays tiers utilisés par Daech pour accéder aux systèmes financiers régional et international, comme la Turquie. On a observé un effet de transfert semblable au Liban, où de nombreux membres de Daech et d'Al-Qaïda, ainsi que des voyageurs extrémistes et leurs familles et partisans se livrent à des activités de facilitation.
+
+Les pertes territoriales de Daech n'ont pas atténué le risque de financement du terrorisme dans la région. Un certain nombre de groupes terroristes, y compris des groupes affiliés à Al-Qaïda, mènent des activités dans des parties de la Syrie. De plus, Daech continue de poser une menace d'attaques terroristes en Irak et dans le reste de la région. Par ailleurs, plusieurs organisations s'opposant à Daech, dont certaines sont considérées comme des groupes terroristes par les États-Unis ou d'autres pays, ont pris de l'ampleur en Irak et en Syrie et bénéficient du soutien de l'Iran et du Hezbollah. En raison de ces dynamiques régionales, le risque de financement d'activités terroristes reste haut dans l'ensemble de la région, surtout à court et à moyen termes.
+
+### Syrie
+
+Le début de la guerre civile en 2011 a eu des répercussions négatives marquées sur le secteur financier syrien et les relations financières entre la Syrie et le Canada. Les sanctions imposées par le Canada et à l'échelle internationale contre la Syrie, y compris son inscription à la liste des États appuyant le terrorisme a contribué à l'isolation financière de la Syrie. Avant 2011, ces relations avec le Canada étaient déjà plutôt ténues comparativement à celles d'autres pays de la région, le secteur bancaire syrien s'étant développé relativement tardivement et les Syriens ayant tendance à utiliser des pays tiers, comme le Liban et la France, pour leurs activités bancaires. À ce jour, le volume des opérations entre le Canada et la Syrie reste minime, tout particulièrement dans le secteur bancaire.
+
+Depuis 2014, les déclarations d'opérations douteuses se rapportant à la Syrie concernent principalement des soupçons se rapportant au financement de voyageurs extrémistes, au soutien à des particuliers adhérant à Daech et au détournement de fonds transitant par des organisations caritatives actives dans la région. On signale également un risque additionnel attribuable aux opérations concernant des personnes désignées ou des personnes politiquement vulnérables; il est toutefois d'ampleur relativement mineure par rapport au risque de financement du terrorisme. Étant donné l'isolement du secteur bancaire syrien, les déclarations d'opérations douteuses reçues se rapportent souvent à des pays tiers, notamment la Turquie, les Émirats arabes unis et le Liban. Les banques libanaises servent d'intermédiaires particulièrement importants entre la Syrie et le système financier mondial.
+
+### Irak
+
+Les conflits faisant rage dans de grandes portions de l'Irak n'ont pas mené à un isolement financier aussi marqué que celui de la Syrie, à tout le moins dans les zones qui ne sont pas sous le contrôle de Daech. Il n'en demeure pas moins qu'un nombre relativement faible de déclarations transmises à CANAFE concerne l'Irak comparativement à d'autres territoires de la région. Si CANAFE ne reçoit pratiquement plus aucune déclaration visant des opérations entre le Canada et les régions contrôlées par Daech, elle reçoit toujours des déclarations se rapportant à des zones contrôlées par le gouvernement central ou les autorités kurdes, encore qu'en nombre réduit.
+
+Daech n'a plus de possessions territoriales substantielles en Irak, mais le pays présente toujours un haut risque de financement des activités terroristes. Ce risque est particulièrement grand dans les zones récemment libérées, où les insurgés et les terroristes sont encore actifs. La présence de nombreux groupes armés sur le territoire irakien, dont certains sont considérés comme des entités terroristes par d'autres pays, est aussi un facteur de risque. Étant donné la faiblesse de la réglementation de lutte contre le financement du terrorisme en Irak et l'utilisation répandue des entreprises de services monétaires et des bureaux de change, il est difficile de déterminer la véritable origine des fonds. Les entités déclarantes devraient tenir compte de ces éléments lorsqu'elles évaluent le risque associé aux opérations concernées.
+
+### Turquie
+
+Le volume des opérations entre la Turquie et le Canada continue d'être particulièrement élevé par rapport aux autres pays de la région. Le rôle de la Turquie comme pôle économique et commercial de la région est en cause, de même que l'existence de relations commerciales bilatérales substantielles entre le pays et le Canada dans plusieurs secteurs.
+
+Au vu de sa proximité avec l'Irak et la Syrie, de sa relative stabilité et de son accès au système financier international, la Turquie présente un haut risque de financement des activités terroristes. Si Daech ne contrôle plus de territoires limitrophes de la Turquie ni en Irak ni en Syrie, les mouvements transfrontaliers de personnes, de marchandises et de fonds restent vulnérables à l'exploitation par des partisans et des agents du groupe. Ainsi, le risque est particulièrement élevé dans les villes turques situées près des frontières, en particulier lorsque des opérations concernant ces endroits sont conjuguées à d'autres indicateurs de financement du terrorisme ou à des comportements caractéristiques des voyageurs extrémistes.
+
+En tant que points névralgiques pour les allées et venues avec l'Irak et la Syrie, les établissements financiers situés près des principaux points d'entrée ou de sortie de la Turquie, comme Istanbul, Antalya, Ankara et Izmir, risquent également d'être exploités à leur insu par ceux qui entrent ou sortent des zones de conflit et par ceux qui fomentent des attaques contre des cibles situées dans des pays tiers.
+
+Le nombre considérable d'entreprises non enregistrées en Turquie constitue un autre facteur majeur de risque de financement d'activités terroristes; ces entreprises représentent une portion non négligeable de l'activité économique du pays. Comme l'encadrement réglementaire des entreprises non enregistrées est nettement inférieur à celui des entreprises enregistrées, elles sont particulièrement vulnérables à l'exploitation par des groupes et des agents terroristes. Les entités déclarantes devraient porter une attention toute particulière aux entreprises qui semblent s'adonner à des activités de remise de fonds, mais portent un nom suggérant un autre domaine d'activité. C'est particulièrement vrai dans le cas des entreprises qui ne font qu'envoyer ou recevoir des virements internationaux. Les opérations effectuées par ces entreprises pour le compte de multiples entreprises ou particuliers sans lien apparent avec la Turquie (relations commerciales légitimes, par exemple) devraient également être considérées comme à haut risque.
+
+Enfin, toujours en raison de la proximité de zones de conflit actif et du rôle du pays dans les interventions humanitaires répondant à la situation en Syrie, la Turquie est utilisée comme base par des organisations caritatives qui sont favorables à certaines des factions du conflit syrien.
+
+### Liban
+
+Le Liban est un des chefs de file du Moyen-Orient sur le plan de l'activité bancaire; les entreprises du pays fournissent des services aux clients de l'ensemble de la région. Une importante diaspora libanaise est également présente au Canada, et plusieurs de ses membres entretiennent des liens financiers avec leur pays d'origine. Le financement du terrorisme est criminel au Liban, mais de nombreux aspects de la situation politique du pays justifient une cote de risque élevé. Le Canada a désigné les ailes politiques et militaires du Hezbollah comme étant des entités terroristes en vertu du Code criminel, cependant, le Hezbollah demeure un acteur politique important au Liban. Le Hezbollah occupe actuellement un certain nombre de sièges dans le parlement libanais et est responsable de portefeuilles ministériels.
+
+Dans ce contexte politique, un certain nombre d'aspects du régime libanais de lutte contre le financement des activités terroristes soulèvent des préoccupations pour les entités déclarantes. Entre autres :
+
+* l'insuffisance ou l'absence des exigences de vigilance à l'égard de la clientèle hors du secteur bancaire;
+* l'absence d'exigences en matière de personnes politiquement vulnérables (catégorie à laquelle appartiendraient les représentants politiques du Hezbollah);
+* les lacunes dans la vigilance à l'égard de la clientèle pour ce qui est des virements internationaux;
+* le manque de transparence en matière de bénéficiaires effectifs;
+* l'absence de signalement actif des activités soupçonnées d'être liées au financement du terrorisme.
+
+Le Liban est un des pays de la région qui apparaît le plus souvent dans les déclarations transmises à CANAFE. Si l'on tient compte en plus de l'influence du Hezbollah dans le pays, le Liban présente un risque particulièrement élevé de financement d'activités terroristes. Les entités déclarantes devraient tenir compte des vulnérabilités suivantes, en conjonction avec les autres indicateurs, dans leurs analyses axées sur les risques :
+
+* opérations concernant des personnes politiquement vulnérables;
+* virements internationaux de montants inhabituellement bas, tout particulièrement dans les régions étroitement associées au Hezbollah (voir ci-dessous);
+* opérations dans le secteur bancaire pour lesquelles l'expéditeur ou le destinataire semble fournir des services de change ou de remise de fonds;
+* opérations dans lesquelles le Liban est un pays intermédiaire pour un pays tiers, en particulier lorsque le pays tiers est à haut risque de financement du terrorisme.
+
+### Jordanie
+
+La Jordanie apparaît avec une fréquence modérée dans les déclarations transmises à CANAFE par rapport aux autres pays de la région. Elle a mis en place un régime de lutte contre le terrorisme robuste et participe aux efforts internationaux visant à contrer Daech. Les entreprises de remise de fonds et les bureaux de change jordaniens sont fortement exposés aux territoires à risque plus élevé de la région, notamment l'Irak. Un grand nombre de Jordaniens se sont rendus en Irak ou en Syrie pour combattre pour des organisations terroristes. Le pays compte aussi des idéologues extrémistes bien connus associés à Al-Qaïda.
+
+Les virements internationaux entrants ou sortants de Jordanie par l'intermédiaire de bureaux de change présentent un haut risque de financement des activités terroristes. Plus particulièrement, il y a lieu de faire preuve de vigilance accrue dans le cas d'opérations où le nom de l'expéditeur ou du bénéficiaire n'est pas clair, de même que celles où la raison donnée pour le virement semble suspecte à la lumière d'autres renseignements.
+
+### Yémen
+
+Un nombre relativement faible de déclarations transmises à CANAFE concerne le Yémen; le volume des virements entre le pays et le Canada est faible par rapport à d'autres pays de la région. Ce faible volume d'opérations signifie que l'exposition financière est faible, mais le conflit en cours dans le pays, la présence de nombreux groupes terroristes actifs et la faible capacité de l'État placent le Yémen parmi les pays à haut risque de financement d'activités terroristes.
+
+Les entités déclarantes devraient considérer comme risquées les opérations de faible valeur qui sont conjuguées à d'autres indicateurs, particulièrement les opérations concernant des endroits où Al-Qaïda dans la péninsule arabe (AQPA) est établie. Les déplacements vers le Yémen ou en provenant, lorsqu'ils sont conjugués à des indicateurs d'activités financières associées aux voyageurs extrémistes (voir l'annexe 1), doivent aussi être jugés à haut risque.
+
+### Qatar
+
+Par rapport aux autres pays de la région, le Qatar apparaît moyennement souvent dans les déclarations transmises à CANAFE. Au cours des deux dernières années, d'autres pays ont accusé le Qatar (ou plus précisément des donateurs résidants dans le pays) d'être impliqué dans le financement d'activités terroristes. De même, les États-Unis et les Nations unies ont inscrit un certain nombre de citoyens et d'organisations caritatives qataris sur leur liste d'entités participant au financement du terrorisme.
+
+En ce qui concerne l'évaluation des risques posés par des opérations particulières, les entreprises de remise de fonds et les bureaux de change du Qatar présentent un risque de financement d'activités terroristes moins élevé que leurs homologues d'autres pays de la région. Cependant, les entités déclarantes devraient tenir compte de l'exposition de ces entreprises à des territoires à risque plus élevé, comme le Pakistan et l'Afghanistan. Les entités déclarantes devraient également être conscientes du risque que des opérations liées à des pays à risque élevé, comme la Syrie et l'Irak, transitent par le système financier qatari.
+
+### Émirats arabes unis
+
+En raison d'un certain nombre de facteurs, les Émirats arabes unis (ÉAU) sont un pays à haut risque en matière de financement des activités terroristes :
+
+* les ÉAU constituent le principal centre financier et commercial du Moyen-Orient;
+* le pays comporte des zones de libre-échange dont l'accès n'est soumis à pratiquement aucune restriction;
+* le pays est considérablement exposé à des territoires à risque élevé à l'extérieur de la région, dont la Somalie, l'Afghanistan et le Pakistan.
+
+Al-Qaïda, les talibans et Daech dans la province de Khorasan génèrent tous des revenus substantiels aux ÉAU. Les fonds transitent généralement par Dubaï en passant par l'Iran ou le Pakistan. Ils sont aussi souvent transférés au moyen du système hawala ou de livraisons en espèces, ou par la manipulation d'opérations commerciales d'import-export.
+
+Ainsi, les entités déclarantes devraient tenir compte des facteurs de risque suivants pour évaluer le risque de financement d'activités terroristes posé par une opération concernant les ÉAU :
+
+* ils comptent un nombre appréciable de sociétés de commerce général sur les clients desquelles il est difficile d'obtenir de l'information, en particulier celles qui sont situées dans des zones de libre-échange;
+* ils sont fréquemment utilisés comme intermédiaire dans des transferts financiers internationaux;
+* les hawalas, les bureaux de change et les entreprises de remise de fonds y jouent un rôle prépondérant.
+
+Les sociétés de commerce général qui effectuent des opérations sans lien apparent avec leur activité commerciale avec un grand nombre de parties sans liens les unes avec les autres présentent un risque particulièrement élevé, leur rôle d'intermédiaire pouvant servir à obscurcir l'identité de l'expéditeur ou du bénéficiaire réel des fonds.
+
+### Daech
+
+Daech a constitué la principale menace de financement d'activités terroristes pour l'année 2017. En particulier, le groupe a attiré des personnes qui se rendent à l'étranger pour participer à des activités terroristes ou extrémistes, qui risquent ensuite de chercher à retourner dans leur pays d'origine ou à s'établir ailleurs.
+
+Les méthodes de financement de Daech sont en constante évolution, l'organisation continuant de perdre du terrain et se trouvant progressivement cantonnée de nouveau au rôle d'un groupe terroriste ou insurrectionnel conventionnel. Ces dernières années, Daech tirait le gros de ses revenus des territoires sous son occupation, notamment de sa capacité à taxer la population locale, à extraire des ressources comme le pétrole et le gaz naturel et à s'approprier les ressources financières et matérielles d'entreprises et d'institutions gouvernementales dans les zones contrôlées.
+
+Les revenus tirés de ces sources se sont asséchés au cours de la dernière année en raison des efforts de la coalition, mais le groupe terroriste pose toujours un important risque de financement d'activités terroristes. Sans qu'il soit possible d'obtenir des renseignements détaillés, on sait que Daech a transféré des sommes d'une ampleur indéterminée vers la Syrie, l'Irak et d'autres pays pour les mettre à l'abri. Daech pourra ensuite utiliser ces fonds pour perpétrer des attaques terroristes en Syrie, en Irak et ailleurs. On sait également que le groupe finance des organisations affiliées ailleurs dans le monde, et il continuera probablement de chercher à transférer des fonds de Syrie et d'Irak vers les territoires où se trouvent ces organisations affiliées.
+
+En raison de la perte des revenus tirés des territoires ayant échappé à son contrôle, Daech devra probablement diversifier ses sources de revenus pour continuer à exercer ses activités. Par ailleurs, on peut s'attendre à ce que ses dépenses globales diminuent, puisque le groupe n'aura plus à assumer les coûts associés à la gouvernance et au contrôle des civils. En définitive, Daech pourrait se trouver affaibli sur le plan financier, mais conserver la capacité de financer des attaques terroristes marquantes en Irak, en Syrie et ailleurs dans le monde.
+
+En dehors de l'Irak et de la Syrie, Daech a toujours des sympathisants. Sans avoir de relations formelles avec l'organisation ou ses membres, ces personnes peuvent néanmoins présenter un risque majeur pour la sécurité publique s'ils décident de perpétrer des attaques en solitaire. La surveillance des flux financiers liés à ce type d'activités est ardue, ces personnes finançant souvent leurs propres attaques et n'adoptant pas nécessairement de comportements détonnant par rapport à leurs activités financières habituelles.
+
+Outre la perte de territoires, un nombre de combattants provenant d'autres pays que la Syrie et l'Irak, y compris le Canada, ont, ou pourraient tenter de retourner dans leur pays ou de se rendre dans d'autres régions. Certains de ces adhérents à Daech pourraient également perpétrer des attaques en solitaire ou en petite cellule dans leur pays d'origine ou ailleurs. Il y a aussi un risque que ces personnes se consacrent à soutenir financièrement l'organisation depuis leur pays en mettant à profit les relations tissées avec des membres de Daech au Moyen-Orient.
+
+#### Perspectives
+
+Daech restera une source majeure de risque de financement d'activités terroristes pour le Canada au cours de l'année à venir, l'organisation revenant à ses origines de groupe terroriste insurrectionnel. Beaucoup d'attaques inspirées par Daech à l'extérieur de la Syrie et de l'Irak étaient conçues pour causer un nombre maximal de victimes; nous incitons donc les entités déclarantes à rester à l'affût de toute opération qui pourrait trahir la préparation de pareilles attaques.
+
+Daech restera également un risque majeur en Syrie et en Irak. Dans ces pays et leurs voisins, comme la Turquie et la Jordanie, le groupe continuera d'utiliser les infrastructures financières à ses fins.
+
+#### Indicateurs géographiques
+
+##### Irak
+
+* Mossoul
+* Hawija
+* Diyala
+* Bakouba
+
+### Al-Qaïda
+
+Au cours des dernières années, Daech a attiré beaucoup d'attention internationale, ce qui a fait un peu d'ombre à Al-Qaïda. Cette dernière demeure toutefois une organisation redoutable dans l'ensemble du Moyen-Orient. De fait, elle dispose de groupes affiliés et de partisans dans de nombreux pays de la région, y compris le Yémen et l'Arabie saoudite (Al-Qaïda dans la péninsule arabique, ou AQPA), de même que la Syrie (Al-Qaïda en Syrie, ou Hayat Tahrir al-Cham). Il existe également de nombreuses organisations affiliées à Al-Qaïda en Asie du Sud, en Afrique du Nord, ainsi qu'en Afrique de l'Est et de l'Ouest (voir ci-dessous).
+
+Contrairement à celles de Daech, les activités d'Al-Qaïda ne sont pas concentrées dans une zone géographique particulière. Les éléments centraux de l'organisation fixent plutôt les orientations générales du mouvement, assurent la coordination des organisations affiliées par diverses méthodes clandestines et redistribuent les ressources financières selon les besoins du moment. Le système de financement d'Al-Qaïda semble présenter des similarités avec celui de Daech dans son aspect opportuniste. C'est-à-dire que l'organisation mise sur des actions ponctuelles propres à générer des sommes substantielles. Par exemple, en 2011, des membres d'AQPA ont volé des millions de dollars dans une banque provinciale à Zinjibar, au Yémen. En avril 2015, l'organisation a fait main basse sur environ 60 M$ de dollars appartenant à la principale banque de la ville portuaire de Mukalla, également au Yémen.
+
+De telles occasions peuvent donner accès à des ressources substantielles, mais ne constituent pas une source de revenus stables. AQPA génère des fonds de façon plus prévisible en taxant le pétrole et le gaz naturel transporté dans les régions sous son autorité ou son influence, en s'adonnant à l'enlèvement contre rançon et en mettant sur pied des organisations caritatives factices acceptant des dons. L'organisation profite également du soutien d'autres groupes affiliés à Al-Qaïda, qui lui fournissent des combattants. Elle impose également des taxes sur les marchandises et le carburant lorsqu'un territoire est sous son contrôle, comme Mukalla en 2015. Cependant, depuis qu'AQPA a perdu sa mainmise sur la ville, on ne sait pas avec certitude si elle a toujours accès à ce type de revenus, ni dans quelle mesure.
+
+En Syrie, Hayat Tahrir al-Cham a eu recours à certaines des mêmes stratégies de financement qu'AQPA. Par exemple, Hayat Tahrir al-Cham s'adonne à l'enlèvement contre rançon, taxe la population locale, notamment pour l'accès à l'eau, et vend le produit de ses pillages (antiquités, par exemple). Le groupe reçoit aussi du soutien d'autres organisations et de donateurs liés à Al-Qaïda. Comme pour Daech, cependant, les sources de revenus de Hayat Tahrir al-Cham se sont raréfiées avec l'amenuisement de ses capacités et de son territoire.
+
+#### Perspectives
+
+Les conflits et l'agitation au Moyen-Orient continueront d'offrir à Al-Qaïda et à ses affiliés des occasions de prendre de l'expansion; l'organisation pourrait profiter du déclin de Daech pour renforcer ses appuis et son accès aux ressources financières. Lesdites ressources seront sans doute moins importantes et moins stables que lorsque les deux groupes contrôlaient des territoires, mais le faible coût des attaques protège dans une certaine mesure Al-Qaïda contre les perturbations financières.
+
+Le Canada n'est une source de financement majeure pour ni l'un ni l'autre de ces groupes, mais les entités déclarantes devraient rester à l'affût des risques posés par des opérations concernant certains territoires associés à Al-Qaïda au Yémen et en Syrie (voir ci-dessous). Plus particulièrement, elles devraient surveiller les typologies des voyageurs extrémistes (voir l'annexe 1) qui peuvent caractériser les opérations effectuées dans ces territoires, de même que les dons destinés à des organisations caritatives de ces régions qui ont mauvaise presse.
+
+#### Indicateurs géographiques
+
+##### Yémen
+
+AQPA est bien établie dans certaines régions du Yémen. Des opérations concernant ces régions, lorsqu'elles sont conjuguées à d'autres indicateurs, pourraient justifier la transmission d'une déclaration d'opérations douteuses. Par ailleurs, étant donné le conflit se déroulant actuellement dans le pays, la faiblesse des structures étatiques et la présence de nombreux groupes violents, le Yémen dans son ensemble présente un haut risque de financement d'activités terroristes. On sait que des organisations terroristes sont bien établies dans les villes yéménites suivantes :
+
+* Rada
+* Jaar
+* Zinjibar
+* Mahfad
+* Azzan
+* Al-Mukalla
+* Sanaa
+* Aden
+
+##### Syrie
+
+Hayat Tahrir al-Cham, comme Daech, a perdu de grandes portions du territoire autrefois sous l'autorité du groupe en Syrie. Malgré ce revers, il est toujours présent dans certaines régions du pays. La mise en cause des subdivisions administratives suivantes peut constituer un élément contextuel additionnel à prendre en considération dans l'évaluation d'opérations soupçonnées d'être liées au financement d'activités terroristes :
+
+* Alep
+* Idlib
+* Daraa
+* Azaz
+* Al-Bab
+* Al-Safira
+* Manbij
+* Soueïda
+* Jisr ash Shugur
+
+##### Liban
+
+* Saïda
+* Aïn El-Heloué
+
+Les analyses ci-dessus portent principalement sur Hayat Tahrir Al Cham, mais il convient de souligner que les alliances et les affiliations entre les organisations terroristes participant aux combats en Syrie sont extrêmement mouvantes. Il peut donc être difficile de faire une évaluation d'un groupe particulier, surtout en ce qui concerne les opérations douteuses. C'est pourquoi CANAFE recommande aux entités déclarantes de porter leur attention sur les zones géographiques à risque, notamment les villes syriennes où se déroulent des conflits, sans égard aux alliances entre les groupes concernés. La liste d'endroits ci-dessus n'est pas exhaustive, mais représente certains des lieux les plus disputés au moment de la rédaction du rapport. Dans tous les cas, la Syrie dans son ensemble est un pays à haut risque de financement d'activités terroristes.
+
+### Hezbollah
+
+Sur le plan financier, le Hezbollah compte parmi les organisations terroristes les plus complexes; il s'agit en outre de l'un des partis politique les plus puissants au Liban à l'heure actuelle. L'organisation est bien enracinée dans le paysage politique et économique libanais, ce qui lui permet de jouer le rôle d'un État dans l'État. Outre des structures officielles, toutefois, le Hezbollah exploite une structure de soutien logistique très variée et de portée mondiale. L'organisation utilise ce réseau de soutien pour augmenter sa capacité financière de mener des opérations tant au Moyen-Orient qu'à l'extérieur de la région.
+
+Depuis des dizaines d'années, l'Iran fournit un soutien financier appréciable au Hezbollah, si bien que de nombreux pays l'ont désigné comme un pays appuyant le terrorisme. Sans pouvoir compter sur des données précises, on soupçonne néanmoins que le financement iranien représente une portion substantielle du budget global du Hezbollah.
+
+Après le soutien étatique, la deuxième source de financement du Hezbollah est un nombre important de bailleurs de fonds particuliers. Ces hommes d'affaires ou professionnels prospères fournissent des ressources, financières ou autres, à l'organisation. Ils sont répartis dans de nombreux pays, au Moyen-Orient ou ailleurs, y compris le Canada. Souvent, ces personnes n'ont pas de liens directs avec les organes officiels du Hezbollah et exploitent des entreprises légitimes et prospères. Toutefois, certaines des ressources produites par ces entreprises sont en fin de compte détournées pour soutenir les activités officielles du Hezbollah.
+
+Le Hezbollah entretient également un réseau international d'organismes caritatifs, d'organisations sans but lucratif et d'autres organismes appuyant ses visées. Ces organisations se trouvent dans des pays répartis sur toute la planète, y compris, encore une fois, le Canada. Les relations financières entre le Hezbollah et ces organisations ne sont cependant pas toujours nettes. Dans certains cas, une portion des fonds recueillis par les organisations se retrouve dans les coffres du Hezbollah au Moyen-Orient; dans d'autres, ce sont les organisations qui reçoivent des fonds du Hezbollah.
+
+Enfin, le Hezbollah peut bénéficier de façon indirecte de dons ou d'autres ressources provenant de représentants de la diaspora libanaise chiite sensibles à sa cause. Souvent, ces personnes n'ont aucune affiliation directe ni même indirecte avec l'organisation, mais peuvent simplement avoir certaines affinités politiques avec elle. Ce type de soutien peut même concerner des criminels, comme il a été observé à quelques occasions dans des lieux aussi divers que l'Afrique de l'Ouest, les États-Unis et l'Amérique du Sud.
+
+#### Perspectives
+
+Le Hezbollah demeure une source de préoccupation majeure en matière de financement des activités terroristes. En effet, sa portée mondiale, sa structure de financement diversifiée et son rôle dans le système politique libanais lui assurent une certaine durabilité. L'organisation jouit aussi d'une influence grandissante en Syrie et en Irak, attribuable à sa participation à la lutte contre Daech. Le risque de détournement de fonds au profit du Hezbollah reste élevé au Canada étant donné que ce dernier entretient de longue date d'étroites relations financières avec le Liban; le volume de ces mouvements de fonds peut compliquer la détection des opérations douteuses pour les entités déclarantes.
+
+#### Indicateurs géographiques
+
+##### Liban
+
+Le Hezbollah est fermement établi dans certaines régions du Moyen-Orient et dispose d'une présence plus ténue dans bien d'autres. Les opérations mettant en cause les villes et les régions suivantes, lorsqu'elles sont conjuguées à d'autres indicateurs, pourraient justifier la transmission d'une déclaration d'opérations douteuses.
+
+* Haret Hreik
+* Dahieh (banlieue sud de Beyrouth)
+* Baalbek
+* Hermel
+* Tyr (Sour)
+* Bint Jbeil
+* Nabatieh
+
+## Asie du Sud
+
+![Cette carte géographique de l'Asie du Sud représente 2 pays : l'Afghanistan et le Pakistan.](images/2018_MAP_SOUTH_ASIA_FR.png)
+
+L'Asie du Sud, l'Afghanistan et le Pakistan au premier chef, est une région prépondérante en ce qui concerne le risque de financement d'activités terroristes pour le Canada.
+
+Depuis que la responsabilité de la sécurité du pays a été confiée aux Forces nationales afghanes de défense et de sécurité par la Force internationale d'assistance à la sécurité dirigée par l'OTAN, au début de 2013, la situation sécuritaire en Afghanistan n'a cessé de se détériorer. Dans la dernière année, le pays a connu une recrudescence d'attaques terroristes attribuées aux talibans et au réseau Haqqani, une organisation qui leur est affiliée. En parallèle, des groupes comme Daech dans la province de Khorasan et Lashkar-e-Taiba continuent d'essayer de se tailler une place en commettant des attentats meurtriers et marquants.
+
+Le Pakistan est aux prises depuis longtemps avec un niveau élevé d'activité terroriste, et des attentats cherchant à faire le maximum de victime parmi les civils, les représentants du gouvernement et les minorités religieuses continuent d'être perpétrés dans l'ensemble du pays. Le nombre de morts civils attribuable au terrorisme diminue depuis 2016, mais un grand nombre d'organisations terroristes continue de se livrer à des attentats dans le pays et à l'étranger. Le territoire pakistanais sert de théâtre d'opérations à des groupes comme le réseau Haqqani, les talibans et Lashkar-e-Taiba.
+
+L'insécurité persistante et la prolifération d'organisations terroristes actives dans la plus grande partie de l'Afghanistan et d'importantes zones du Pakistan posent de grandes difficultés aux régimes de lutte contre le financement du terrorisme. Malgré les efforts des deux pays pour battre en brèche les activités de financement du terrorisme, la faiblesse des contrôles de lutte contre le blanchiment d'argent et le financement des activités terroristes et l'insuffisance des capacités et des ressources institutionnelles permettent aux organisations terroristes d'utiliser le système financier international pour se financer. Il est peu probable que ces facteurs régionaux en matière de financement du terrorisme s'estompent à courte échéance.
+
+Par ailleurs, le Canada est exposé financièrement à ces territoires en raison de son importante diaspora afghane et pakistanaise; en fait foi le volume considérable des fonds transférés entre le Canada et les deux pays. La dégradation de la situation sécuritaire en Afghanistan et au Pakistan, de même que le renforcement des organisations terroristes présentes dans la région, sont source de préoccupations pour le Canada sur le plan du financement du terrorisme. Tout transfert de fonds entre le Canada et les régions sous l'emprise ou l'influence d'organisations terroristes risque d'être taxé ou détourné au profit de ces organisations.
+
+### Afghanistan
+
+L'exposition du Canada aux activités financières afghanes est assez faible et se limite essentiellement à des remises de fonds depuis le retrait des troupes canadiennes en mars 2014. Une part importante des opérations analysées est constituée de virements de faible valeur entrants ou sortants de territoires à risque particulièrement élevé de financement du terrorisme en Afghanistan, ou à l'envoi de fonds vers des pays tiers à haut risque. Les opérations sont principalement effectuées par l'intermédiaire d'entreprises de services monétaires et de banques. Selon l'analyse de CANAFE, il s'agit d'opérations de remise de fonds, mais ces fonds sont acheminés vers des villes ou des provinces contrôlées par les talibans et Daech dans la province de Khorasan. La présence de nombreux groupes terroristes actifs dans le pays signifie que le risque de détournement de fonds au profit d'activités terroristes est élevé.
+
+Les indicateurs d'opérations douteuses en Afghanistan comprennent aussi les indices de détournement potentiel de fonds transitant par des organisations caritatives; les opérations concernant des étrangers politiquement vulnérables ou relevant de la corruption; les achats et les activités d'import-export d'automobiles à risque; les arnaques amoureuses et les fraudes du type « parent en besoin urgent ».
+
+### Pakistan
+
+Par rapport aux autres pays de la région, le Pakistan figure de façon prépondérante dans les déclarations reçues par CANAFE. Le pays est sujet à des attentats terroristes très fréquents et de nombreux groupes terroristes y sont présents, ce qui justifie une cote de risque particulièrement élevé en matière de financement d'activités terroristes.
+
+Entre autres facteurs de risques dont devraient tenir compte les entités déclarantes en ce qui a trait au Pakistan, nommons les opérations se rapportant à des villes situées près de la frontière avec l'Afghanistan; les opérations concernant des entreprises dont les activités semblent être celles d'entreprises de services monétaires sans qu'il s'agisse de leur secteur d'activité apparent; les opérations se rapportant à d'autres pays à haut risque, notamment l'Afghanistan et les Émirats arabes unis.
+
+### Talibans
+
+Les talibans sont toujours un groupe insurrectionnel résilient et actif malgré les missions menées par la Force internationale d'assistance à la sécurité de l'OTAN et les Forces nationales afghanes de défense et de sécurité. Contrairement à Al-Qaïda, les talibans concentrent leurs attaques dans une zone géographique principale. Depuis 2016, ils ont nettement réussi à gagner du terrain en Afghanistan et cherchent à instaurer un gouvernement parallèle. Contrairement à ses activités militaires, toutefois, les activités de financement, de soutien et de logistique du groupe dépassent de loin le cadre de l'Afghanistan et du Pakistan.
+
+La résilience des talibans s'explique par leur capacité à exploiter l'économie mal réglementée de l'Afghanistan et la situation d'insécurité chronique du pays pour diversifier ses sources de revenus. Si le groupe mène des campagnes de financement traditionnelles en Afghanistan et au Pakistan, de même que dans les États du golfe Persique, il tire une grande partie de ses ressources du trafic d'opium et de hachich. Les talibans utilisent de plus en plus des réseaux criminels pour se financer en taxant la production, la vente et le trafic d'héroïne et de hachich; ils offrent également des services de protection ou d'escorte à des trafiquants de drogues indépendants. Des services de protection et de sécurité du même genre leur sont aussi utiles pour soutirer des fonds aux organismes d'aide et de développement internationaux présents en Afghanistan. La présence d'organisations militaires et civiles au pays leur donne par ailleurs l'occasion de générer des revenus en s'adonnant à l'enlèvement contre rançon.
+
+De plus, les talibans tirent des revenus importants de l'économie informelle (marché gris ou noir), soit les activités d'import-export et de contrebande qui échappent au contrôle de l'État. Enfin, dans les régions qu'il contrôle, le groupe exploite les ressources naturelles, saisit des biens et perçoit des taxes auprès des cultivateurs d'opium, des particuliers et des entreprises.
+
+Les talibans utilisent des moyens informels pour faire circuler des fonds en Afghanistan et entre l'Afghanistan et d'autres pays. Ces moyens comprennent les passeurs, le commerce de marchandises et les systèmes financiers informels. Étant donné la petite taille du secteur bancaire en Afghanistan et l'insuffisance des mesures de vérification des clients et de tenue de dossiers, les hawalas sont un moyen courant de se soustraire à la surveillance gouvernementale et aux mesures de lutte contre le blanchiment d'argent et le financement du terrorisme. La faiblesse des contrôles frontaliers visant la circulation des espèces permet au groupe de déplacer des sommes importantes en espèces ou en marchandises comme l'or.
+
+#### Perspectives
+
+La présence des talibans dans l'ensemble de l'Afghanistan contribue à un haut risque de financement d'activités terroristes. Le groupe organise des attaques fréquentes en vue de prendre certains districts aux Forces nationales afghanes de défense et de sécurité et affiche sa présence même dans les districts contrôlés par le gouvernement. Étant donné la présence de forces alliées dans le pays, ainsi que l'importante diaspora afghane au Canada envoyant des fonds vers son pays d'origine, les talibans sont toujours une source de risque de financement d'activités terroristes pour le Canada.
+
+#### Indicateurs géographiques
+
+##### Afghanistan
+
+Les talibans sont bien établis dans plusieurs provinces de l'Afghanistan. Selon les affirmations du groupe, il était en situation de contrôle ou d'influence dans 211 districts en mars 2017. Les opérations concernant des villes situées dans les provinces suivantes, lorsqu'elles sont conjuguées à d'autres indicateurs d'opérations douteuses, posent un risque particulièrement élevé de financement d'activités terroristes et pourraient justifier la transmission d'une déclaration d'opérations douteuses.
+
+* Badakhchan
+* Balkh
+* Ghazni
+* Helmand
+* Hérat
+* Jawzjan
+* Kaboul
+* Kandahar
+* Kapisa
+* Khost
+* Konar
+* Nangarhar
+* Laghman
+* Logar
+* Paktia
+* Paktika
+* Takhar
+* Wardak
+
+##### Pakistan
+
+* Karachi
+
+### Lashkar-e-Taiba
+
+Fondé au Pakistan dans les années 1990, le Lashkar-e-Taiba est la branche militante de l'organisation Markaz-ad-Dawa-wal-Irshad. En 2002, cette dernière s'est renommée Jamaat-ud-Dawa (JuD) pour établir une distinction de façade avec le Lashkar-e-Taiba. Aujourd'hui, le Lashkar-e-Taiba se sert de JuD comme d'écran et les deux groupes travaillent ensemble à mettre en pratique leur idéologie.
+
+Le Lashkar-e-Taiba a un mode de fonctionnement exceptionnel; le groupe met à profit le capital social que ses activités lui ont permis de se constituer. La plus grande partie de ses fonds est consacrée à prêcher son programme, à fournir des services sociaux et à réaliser ses objectifs idéologiques grâce au recrutement, à l'entraînement et à l'achat d'armes et d'équipement. L'organisation dirige un grand nombre d'institutions musulmanes et de madrasa, d'organismes de services sociaux, d'hôpitaux et de cliniques au Pakistan. Cela lui permet d'asseoir sa légitimité et de recruter de nouveaux membres. Par l'intermédiaire de JuD, le groupe fait œuvre de charité et offre du soutien aux populations pour s'attirer leur bienveillance et leur loyauté.
+
+Le Lashkar-e-Taiba dispose de sources de revenus variées. Une partie importante des moyens financiers et matériels du groupe lui est fournie par l'État pakistanais. Il reçoit aussi des dons substantiels provenant des pays du golfe, d'organisations caritatives et de partisans et d'entrepreneurs établis à l'étranger. Le Lashkar-e-Taiba exploite aussi de façon systématique les réseaux de services sociaux et les membres de JuD pour recueillir des fonds. Aussi, l'organisation dispose de boîtes de dons dans les marchés, les bureaux de JuD, les entreprises et les lieux de rassemblement à travers le Pakistan.
+
+Le groupe tire aussi du financement d'entreprises légitimes qui lui appartiennent ou qui sont sous son contrôle, par exemple des entreprises de pisciculture et des exploitations agricoles. Il a aussi recours à la fausse facturation, à l'extorsion et à la taxation pour accumuler des fonds. Une autre de ses sources de financement consiste à détourner une partie des revenus et des frais de scolarité perçus par ses établissements musulmans, ses madrasas, ses cliniques et autres lieux de services. Le faux-monnayage et le trafic de drogue font aussi partie des méthodes de financement illicite du Lashkar-e-Taiba.
+
+Comme les autres groupes terroristes d'Asie, le Lashkar-e-Taiba utilise abondamment les systèmes parallèles de transfert d'argent, comme les hawalas et les porteurs d'espèces. Le groupe se sert de prédicateurs de JuD qui voyagent à l'étranger comme passeurs de fonds dans l'ensemble de la région. Il exploite aussi le système bancaire officiel en affichant sur son site Web des numéros de comptes dans des banques pakistanaises où les partisans établis à l'étranger peuvent effectuer légalement des virements sous couvert de charité.
+
+#### Perspectives
+
+Le Canada n'est pas une source de financement importante pour le Lashkar-e-Taiba. Cependant, l'influence majeure du groupe dans l'économie pakistanaise pose un risque élevé de détournement de fonds canadiens au profit d'activités terroristes. L'utilisation par le groupe de JuD et d'autres organisations caritatives pour recueillir des fonds soulève aussi un risque pour la diaspora canado-pakistanaise, qui pourrait faire des dons au groupe sans s'en douter. Les entités déclarantes devraient continuer de surveiller les opérations concernant des organisations caritatives qui pourraient se rapporter au Lashkar-e-Taiba et à JuD.
+
+#### Indicateurs géographiques
+
+##### Pakistan
+
+Le Lashkar-e-Taiba est actif de part et d'autre de la frontière pakistanaise, en Inde et en Afghanistan. Sa base d'opérations est située dans l'est du Pakistan et dans la portion pakistanaise du Cachemire, et il exploite une multitude de camps d'entraînement, de bureaux de recrutement et d'entreprises dans l'ensemble du Pakistan. Les opérations concernant les subdivisions territoriales suivantes du Pakistan, lorsqu'elles sont conjuguées à d'autres indicateurs d'activité douteuse, présentent un risque élevé de financement du terrorisme et pourraient justifier la transmission d'une déclaration d'opérations douteuses.
+
+* Abbotabad
+* Akora Khattak
+* Chamkani
+* Kohat
+* Bannu
+* Dera Ismail Khan
+* Dera Ghazi Khan
+* Jhang
+* Muzaffarabad
+* Lahore
+* Peshawar
+* Islamabad
+* Rawalpindi
+* Karachi
+* Multan
+* Quetta
+* Gujranwala
+* Sialkot
+* Muridke
+
+### Réseau Haqqani
+
+Le réseau Haqqani s'est taillé une place prépondérante dans les années 1990 en combattant l'invasion soviétique de l'Afghanistan aux côtés des talibans. Aujourd'hui, le groupe se concentre dans la partie basse de l'agence de Kurram, au Pakistan, et mène aussi des activités de l'autre côté de la frontière afghane. Il s'agit d'une ressource entièrement acquise aux talibans, mais qui conserve son indépendance financière et tactique.
+
+La résilience du réseau est attribuable à sa capacité à s'insérer à la fois dans l'économie légitime et dans l'économie illicite de l'Afghanistan et du Pakistan. Le groupe met aussi à profit des alliances avec diverses factions terroristes d'Afghanistan et du Pakistan, certains États du golfe Persique et certains éléments de l'appareil sécuritaire pakistanais, qui lui fournit du soutien, de la protection et du financement. De plus, le réseau récolte des dons dans les États du Golfe et les territoires où il est établi.
+
+Le réseau Haqqani a mis beaucoup d'effort et de temps à diversifier ses revenus. Il entretient un large réseau de sociétés de façade et d'intérêts commerciaux légitimes dans des secteurs clés, y compris l'immobilier, les communications, la construction, l'import-export, l'extraction des ressources naturelles, l'armement et le transport. Le groupe exploite également un réseau de madrasas, dont il se sert, en plus de ses intérêts commerciaux, pour cacher et blanchir les profits de ses activités licites et illicites.
+
+Le réseau Haqqani extorque de l'argent ou impose des taxes aux entreprises locales, régionales et internationales, de même qu'aux habitants du territoire qu'il contrôle. Il pratique l'enlèvement contre rançon et cible de plus en plus les entrepreneurs et autres habitants prospères ou influents de préférence aux Occidentaux, car il est plus facile de leur soutirer des fonds. La protection et la taxation du trafic de drogue et de la contrebande des produits chimiques servant à en fabriquer sont aussi une de ses sources de financement.
+
+L'étendue de l'influence du réseau Haqqani dans les économies afghane et pakistanaise est un élément clé de sa capacité à faire circuler et à gérer son argent. Le groupe se sert de ses madrasas comme relais pour les passeurs de fonds qui entrent ou sortent d'Afghanistan et pour verser leurs salaires mensuels à ses agents dans le pays. Outre les passeurs de fonds, le réseau Haqqani a recours aux hawalas, aux banques et aux autres institutions financières locales pour conserver et recycler ses avoirs.
+
+#### Perspectives
+
+Les zones contrôlées par le réseau Haqqani au Pakistan et en Afghanistan présentent des risques de financement des activités terroristes pour le Canada au même titre que celles qui sont contrôlées par le Lashkar-e-Taiba. Des opérations financières légitimes pourraient être détournées inopinément vers des sociétés de façade du réseau ou des entreprises légitimes. Les entités déclarantes devraient rester à l'affût des renseignements de sources ouvertes et de la couverture médiatique négative pour déterminer quelles opérations concernent des entreprises à haut risque liées au réseau Haqqani.
+
+#### Indicateurs géographiques
+
+La base d'opérations du réseau Haqqani se situe à Thal et à Saïda, dans la partie basse de l'agence de Kurram, au Pakistan. Les opérations concernant les subdivisions territoriales suivantes, lorsqu'elles sont conjuguées à d'autres indicateurs d'activité douteuse, présentent un haut risque de financement du terrorisme et pourraient justifier la transmission d'une déclaration d'opérations douteuses.
+
+##### Pakistan
+
+* Thal
+* Saida
+* Peshawar
+* Kohat
+
+##### Afghanistan
+
+* Paktia
+* Paktika
+* Khost
+
+## Autres territoires et groupes à surveiller
+
+![Cette carte géographique représente 2 pays : la Somalie et les Philippines.](images/2018_MAP_OTHER_FR.png)
+
+### Somalie
+
+La Somalie ne paraît pas très souvent dans les déclarations transmises à CANAFE. Cependant, l'importante diaspora somalienne au Canada pose un relativement haut risque d'exposition aux remises d'argent dans le pays. Étant donné l'extrême faiblesse du secteur bancaire somalien, la plus grande partie des opérations financières entre le pays et le Canada se font par l'intermédiaire d'entreprises de services monétaires. Comme beaucoup d'autres pays africains, la Somalie utilise énormément les services bancaires mobiles en raison de la rareté relative des banques et autres institutions financières sur le terrain. Les vulnérabilités particulières dont devraient tenir compte les entités déclarantes en ce qui concerne le risque de financement d'activités terroristes en Somalie comprennent les activités financières donnant l'impression qu'un particulier agit à titre d'entreprise de services monétaires non enregistrée, de même que les indicateurs financiers associés à de potentiels voyageurs extrémistes entrants ou sortants du pays.
+
+### Al-Chabaab
+
+Al-Chabaab est principalement basée dans le sud et l'ouest de la Somalie. À différents moments, l'organisation a contrôlé des portions importantes du territoire somalien, y compris des quartiers de la capitale, Mogadiscio, et de la ville portuaire de Kismayo. Depuis 2013, Al-Qaïda reconnaît officiellement Al-Chabaab comme sa branche somalienne. Le groupe ne possède plus de centres urbains majeurs dans le pays, mais est toujours bien établi dans le sud et dispose de réseaux à Mogadiscio, dans le nord et dans certaines régions du Kenya voisin, notamment près de la frontière avec la Somalie.
+
+Al-Chabaab a eu recours à diverses sources de financement au cours des dernières années, y compris la taxation de différentes marchandises ou activités, ce qui lui était possible en raison de son emprise territoriale. Par exemple, Al-Chabaab a taxé les exportations de sucre et de charbon à destination de pays avoisinants, de même que les ventes et les salaires des habitants des zones sous son autorité. Les taxes levées sur les activités portuaires ont aussi constitué une source de revenus importante, mais le groupe n'y a plus accès depuis qu'il a perdu la ville de Kismayo en 2012. Les revenus de la taxation du charbon se sont aussi quelque peu amenuisés en raison de l'embargo imposé par les Nations unies sur les exportations de cette marchandise par le pays. La taxation du qat, une drogue d'usage courant dans la région, est une autre source de financement.
+
+On ne sait pas dans quelle mesure les autres affiliés d'Al-Qaïda soutiennent financièrement Al-Chabaab, mais selon certaines indications parcellaires, le groupe aurait reçu des dons substantiels de partisans fortunés et d'autres dons de moins grande valeur de membres de la diaspora établis dans différents États du Golfe, parfois à leur insu. Des partisans kenyans ont aussi récolté des fonds pour l'organisation par l'intermédiaire d'entreprises de services monétaires utilisées par la diaspora somalienne.
+
+Il y a quelques années, un petit nombre de résidents canadiens sont partis pour la Somalie joindre les rangs d'Al-Chabaab. Cette tendance s'est cependant estompée pour l'essentiel. Quoi qu'il en soit, des indicateurs financiers révélateurs d'un comportement de voyageur extrémiste se rapportant à la Somalie doivent être considérés comme à haut risque, surtout lorsqu'ils sont conjugués aux indicateurs géographiques ci-dessous.
+
+#### Indicateurs géographiques
+
+##### Somalie
+
+La Somalie dans son entier est un pays à haut risque de financement d'activités terroristes; cependant Al-Chabaab est particulièrement active dans les zones suivantes :
+
+* Bosaaso
+* Galkacyo
+* Dhusamareb
+* Beledweyne
+* Hudur
+* Baidoa
+* Bardera
+* Marka
+* Mogadiscio
+* Jilib
+* Kismayo
+
+##### Kenya
+
+Outre les villes somaliennes susmentionnées, Al-Chabaab a aussi une présence forte dans les endroits suivants au Kenya :
+
+* Mandera
+* El Wak
+* Dadaab
+* Kolbio
+
+### Philippines
+
+Les Philippines sont fortement représentées dans les déclarations transmises à CANAFE par rapport aux autres pays de l'Asie du Sud-Est. C'est sans doute en raison de l'importante diaspora philippine au Canada et du volume de remises d'argent sortantes qui l'accompagne. Le pays compte de nombreux groupes terroristes ou séparatistes, y compris le groupe Abou Sayyaf, affilié à Daech. De plus, la Philippine est depuis longtemps une plaque tournante du trafic de stupéfiants. Il s'agit donc d'un territoire présentant des risques élevés de financement d'activités terroristes.
+
+Sur le plan du financement du terrorisme aux Philippines, la principale préoccupation est le détournement de remises de fonds par la taxation ou l'extorsion dans les villes et les provinces où se déroulent des activités terroristes. Les opérations sont principalement effectuées par des entreprises de services monétaires et des banques. Elles peuvent être interceptées et détournées par des groupes terroristes, qui utilisent généralement les mêmes systèmes parallèles de transfert d'argent pour déplacer et gérer les fonds.
+
+Les groupes terroristes philippins ont tiré parti de la perte du territoire principal de Daech en Syrie et en Irak et de l'incapacité pour les voyageurs extrémistes de se rendre dans ces pays en faisant des Philippines un terrain d'activités terroristes émergent. Les opérations douteuses associées aux activités de voyageurs extrémistes et les flux internationaux entre les Philippines et le Moyen-Orient, qui peuvent dissimuler des transferts entre le quartier général de Daech ou d'Al-Qaïda et leurs affiliés philippins, sont des facteurs de risque particuliers à surveiller aux Philippines.
+
+### Groupe Abou Sayyaf
+
+Le groupe Abou Sayyaf (GAS) est un réseau rassemblant différents groupements actifs dans le sud des Philippines. Il a acquis une réputation internationale en 2014 en prêtant allégeance à Daech, puis en enlevant et en décapitant brutalement trois Occidentaux — deux Canadiens et un Allemand. Le GAS mène des activités terroristes dans les îles méridionales du pays, tant à des fins lucratives que pour promouvoir la création d'un État islamique philippin indépendant.
+
+Lors de sa création, le GAS a reçu des appuis financiers et logistiques de diverses organisations terroristes, y compris Al-Qaïda et Jemaah Islamiyah. Avec la diminution des revenus des groupes de son acabit, le GAS s'est principalement tourné vers la violence et le crime pour assurer son financement. En particulier, le groupe s'adonne à l'enlèvement contre rançon et prend pour cible les Occidentaux, les riches étrangers, les politiciens locaux, les entrepreneurs et les citoyens ordinaires. Il perçoit des taxes et des paiements de protection auprès des entreprises et des habitants des régions qu'il contrôle. Le GAS tire également des revenus de la taxation des plantations de marijuana et de la vente de ce produit dans l'archipel de Sulu.
+
+Les remises de fonds de la diaspora philippine sont une composante importante de l'économie du pays, et le GAS et d'autres organisations terroristes qui y sont actives peuvent tenter de les détourner. Le GAS utilise les mêmes systèmes parallèles de transfert d'argent que les membres de la diaspora philippine et peut intercepter et détourner les fonds entrant au pays par l'intermédiaire des entreprises de services monétaires.
+
+#### Perspectives
+
+Le GAS a profité de la réputation de Daech et a fait de certaines régions des Philippines une nouvelle destination potentielle pour les voyageurs extrémistes incapables de se rendre en Syrie ou en Irak. Cependant, après la mort en 2017 d'Isnilon Hapilon, un chef du GAS associé à Daech, le groupe est entré dans une phase d'accalmie pour se restructurer et préparer de futures attaques. Depuis sa fondation, le GAS a fait preuve de résilience et rien n'indique qu'il ait été complètement éliminé du paysage philippin. CANAFE est persuadé que le GAS continuera de s'adonner à des activités criminelles pour se financer.
+
+L'exposition du Canada au financement d'activités terroristes par le GAS est faible, mais les entités déclarantes devraient continuer de surveiller les typologies des voyageurs extrémistes dans le contexte philippin, de même que les opérations concernant certains territoires associés au GAS (voir ci-dessous).
+
+#### Indicateurs géographiques
+
+##### Philippines
+
+La plus grande partie des activités du GAS prend place dans le sud des Philippines. Si le groupe a réalisé des enlèvements contre rançon dans tout le pays au cours des dernières années, sa principale base d'opérations se trouve néanmoins dans l'archipel de Sulu et sur l'île de Mindanao. Les opérations concernant les subdivisions territoriales suivantes du pays, lorsqu'elles sont conjuguées à d'autres indicateurs d'opérations douteuses, présentent haut risque de financement des activités terroristes et pourraient justifier la transmission d'une déclaration d'opérations douteuses à CANAFE.
+
+* Mindanao
+* Davao
+* Jolo
+* Marawi
+* Pagadian
+* Zamboanga
+* Misamis
+* Ipil
+* Kabacan
+* Ville d'Isabela
+* Ville d'Ozamiz
+* Monkayo
+* Ville de General Santos
+* Ville de Kidapawan
+* Datu Piang
+* Cagayan de Oro
+* Ville de Koronadal
+* Ville de Butuan
+* Cortabato
+* Île de Basilan
+* Île de Sulu
+* Île de Tawi-Tawi
+
+## Activités financières associées aux voyageurs extrémistes
+
+![Ce diagramme représente les 5 étapes du phénomène des voyageurs extrémistes : Préparation au départ; déplacement; activités sur place; retour et voyageur extrémiste qui a échoué.](images/2018_INFO_FR.png)
+
+Le phénomène des voyageurs extrémistes fait partie des principaux risques de financement d'activités terroristes pour le Canada depuis plusieurs années; environ 190 personnes ayant un lien avec le Canada se sont rendues dans différentes zones de conflits à travers le monde. Si le phénomène existait avant la création de Daech, le récent conflit en Syrie et en Irak a attiré des milliers de personnes du monde entier vers les territoires sous le contrôle du groupe. En 2017, environ 60 personnes sont rentrés au Canada après avoir combattu à l'étranger.
+
+Malgré les pertes territoriales de Daech en 2017 et le départ ou la mort de nombreux voyageurs extrémistes en Syrie ou en Irak, le phénomène général des individus qui se rendent à l'étranger prendre part à des conflits pour des raisons politiques ou idéologiques est sans doute là pour durer. Il est donc crucial que les institutions financières canadiennes continuent de rester à l'affût des indicateurs financiers relatifs à ce type d'activité et du contexte dans lequel elles se déroulent.
+
+Le phénomène des voyageurs extrémistes n'a rien de nouveau, mais a gagné en importance pour la lutte contre le financement du terrorisme dans le cadre de la montée en puissance de Daech. Il semble que les départs d'individus cherchant à participer à des activités violentes aient diminué en ce qui concerne la Syrie et l'Irak, mais ils pourraient se poursuivre lors de conflits courants et futurs.
+
+Le renseignement financier continuera de jouer un rôle important dans la détection et la prévention des départs de combattants en devenir, et les indicateurs de ce type d'activité resteront une composante importante de la production de renseignement. C'est pourquoi nous incitons les entités déclarantes à se fier aux indicateurs énumérés à l'annexe 1 comme base, tout en les perfectionnant en fonction de l'évolution des activités terroristes mondiales.
+
+### Étapes et acteurs du phénomène des voyageurs extrémistes
+
+CANAFE estime que ceux qui partent à l'étranger pour combattre ou commettre des actes terroristes passent par plusieurs étapes. Les quatre principales étapes sont la préparation au départ, le déplacement, les activités sur place et le retour. Dans certains cas, le combattant en devenir échoue à atteindre la destination souhaitée pour diverses raisons, ce qui entraîne l'interruption de leur voyage ou un refus de voyager. Enfin, les activités des voyageurs extrémistes peuvent aussi être soutenues par des personnes qui, sans participer activement aux conflits, aident les autres à le faire. Cette dernière catégorie est celle du facilitateur ou du donateur.
+
+Ces distinctions peuvent être utiles pour déterminer des indicateurs financiers se rapportant aux voyageurs extrémistes. En effet, chacune de ces étapes peut être détectée grâce au renseignement financier.
+
+## Enjeux émergents et lacunes dans l'information
+
+### Attaques de petite envergure à faible coût
+
+Depuis quelques années, la tendance est aux attaques terroristes de petite envergure à faible coût contre des cibles vulnérables ou peu protégées. Le phénomène des voitures ou camions béliers utilisés pour attaquer des groupes de personnes au hasard, souvent dans le cadre de grands évènements, en est un exemple des plus inquiétants.
+
+Ce type d'attaque est révélateur de l'efficacité des mesures antiterroristes et d'autres facteurs pour prévenir des attentats utilisant des armes plus dangereuses. Par contre, elles représentent un problème difficile à résoudre pour les programmes de lutte contre le financement du terrorisme. Le très faible coût de ces attaques et la nature routinière des activités financières nécessaires pour les mener à bien mettent à mal la capacité du renseignement financier à détecter des activités terroristes potentielles.
+
+La persistance des attaques de ce type signifie qu'il faudra examiner en continu les méthodologies d'évaluation des risques et les stratégies de surveillance pour déterminer des indicateurs financiers exploitables. Il sera probablement aussi nécessaire de mettre en place davantage de partenariats public-privé et de nouvelles méthodes d'échange d'information pour veiller à ce que le renseignement financier ne soit pas dépassé.
+
+### Méthodes de paiement parallèles
+
+On entend par méthodes de paiement parallèles toute une gamme de produits rendant possible le transfert des valeurs, qui sont devenus un outil d'activité économique clé dans plusieurs régions de la planète. Ces produits constituent des composantes essentielles du commerce moderne, mais plusieurs d'entre eux comportent des vulnérabilités qui peuvent être exploitées aux fins du financement d'activités terroristes.
+
+Les produits qui permettent d'anonymiser les parties aux opérations, comme les cartes prépayées qui ne sont pas liées à un compte dans une institution financière, ont les mêmes caractéristiques de risque que les espèces, mais sont ont l'avantage d'être nettement plus faciles à faire circuler, tout particulièrement à travers les frontières. Pour l'instant, il ne semble pas que ces produits aient été largement adoptés dans le cadre du financement d'activités terroristes, mais il s'agira d'une tendance à surveiller au cours des prochaines années.
+
+Les paiements par appareil mobile et autres solutions électroniques de remplacement aux services bancaires et aux services de change traditionnels sont également de plus en plus liés à des risques de financement des activités terroristes, surtout lorsqu'ils permettent de dissimuler l'identité de l'une ou des deux parties à une opération, ce qui complique la production de renseignements financiers exploitables.
+
+### Importance croissante des indicateurs géographiques
+
+Au cours des dernières années, parallèlement à la montée en puissance de Daech et à l'expansion du phénomène des voyageurs extrémistes, les indicateurs géographiques ont pris une place de premier plan dans l'évaluation des risques de financement d'activités terroristes. Cependant, il est devenu crucial d'analyser l'information géographique liée aux opérations de façon beaucoup plus précise qu'auparavant. Il ne suffit plus de tenir compte des pays à haut risque de financement d'activités terroristes; les déclarations d'opérations soupçonnées d'être liées au financement des activités terroristes doivent maintenant tenir compte du contexte à l'échelle de la localité.
+
+Le phénomène des voyageurs extrémistes illustre bien l'importance croissante de ce changement de paradigme. Comme mentionné dans ce rapport, certaines villes particulières dans des pays comme la Turquie, qui sont voisinent des territoires autrefois sous l'emprise de Daech, ont pendant un temps constitué un indicateur de risque révélateur. En effet, les villes étaient utilisées comme points d'accès pour les personnes et les biens aidant les groupes extrémistes dans la région. Les déclarations concernant ces endroits étaient donc d'une utilité nettement plus grande que ceux qui se rapportaient à la Turquie en général.
+
+L'amélioration de la précision géographique de la surveillance et des déclarations permettra aux entités déclarantes de mieux gérer leur risque d'exposition au financement d'activités terroristes, tout en augmentant l'utilité et l'exploitabilité des renseignements financiers transmis à CANAFE.
+
+## Lectures supplémentaires
+
+Le monde du financement des activités terroristes est en constante évolution, et le niveau de risque d'un pays ou territoire donné varie souvent selon les fluctuations de la situation politique. Il est donc recommandé que les entités déclarantes utilisent les sources d'information publique suivantes sur le financement du terrorisme et les activités terroristes en général pour renseigner leurs activités de surveillance et d'évaluation des risques.
+
+### Groupe d'action financière
+
+<http://www.fatf-gafi.org/fr/pays/>
+
+Le groupe et ses composantes régionales sont une source d'information utile en matière de risques de financement d'activités terroristes. Entre autres, les rapports d'évaluations mutuelles constituent une mine de renseignement sur les vulnérabilités particulières des régimes de lutte contre le financement du terrorisme des pays membres.
+
+### Service canadien du renseignement de sécurité
+
+<https://www.canada.ca/fr/service-renseignement-securite.html>
+
+Le Service canadien du renseignement de sécurité publie divers rapports publics traitant des enjeux de sécurité actuels, y compris en matière de terrorisme.
+
+### Affaires mondiales Canada
+
+<http://international.gc.ca/world-monde/country-pays/index.aspx?lang=fra>
+
+Affaires mondiales Canada met à la disposition des voyageurs des fiches de conseils sur les pays étrangers, y compris certaines régions présentant des risques de sécurité particuliers, par exemple pour cause d'activité terroriste.
+
+### Chatham House
+
+<http://www.chathamhouse.org/> (en anglais seulement)
+
+Chatham House est un organisme de politique indépendant situé à Londres qui produit des conseils et des rapports d'experts sur les enjeux de sécurité internationaux, y compris le terrorisme et les conflits.
+
+### National Consortium for the Study of Terrorism and Responses to Terrorism
+
+<http://www.start.umd.edu/> (en anglais seulement)
+
+Le National Consortium for the Study of Terrorism and Responses to Terrorism (groupe national d'étude du terrorisme et de réponse au terrorisme) se consacre à l'étude scientifique du terrorisme. Il fait de la recherche et diffuse des connaissances sur les activités terroristes à travers le monde. Il tient également à jour la Global Terrorism Database (base de données sur le terrorisme mondial), une liste exhaustive des attentats terroristes perpétrés depuis 1970.
+
+### Studies in Conflict and Terrorism
+
+<https://www.tandfonline.com/toc/uter20/current> (en anglais seulement)
+
+Le périodique Studies in Conflict and Terrorism (étude des conflits et du terrorisme) publie des articles théoriques et des analyses empiriques sur le terrorisme, les conflits et les insurrections.
+
+### Terrorism and Political Violence
+
+<https://www.tandfonline.com/toc/ftpv20/current> (en anglais seulement)
+
+Terrorism and Political Violence (le terrorisme et la violence politique) est un périodique multidisciplinaire qui publie des articles sur les causes des violences terroristes et étatiques, sur les liens entre le terrorisme et le crime organisé et sur les interventions de politiques publiques pertinentes.
+
+### SITE Intelligence Group
+
+<https://ent.siteintelgroup.com/> (en anglais seulement)
+
+Cette organisation non gouvernementale de lutte contre le terrorisme surveille et analyse les activités en ligne des mouvements et des organisations extrémistes et terroristes.
+
+### RUSI Centre for Financial Crime and Security Studies
+
+<https://www.rusi.org/> (en anglais seulement)
+
+Le Centre for Financial Crime and Security Studies (centre d'étude des crimes financiers et de la sécurité) du Royal United Services Institute (RUSI) se consacre à la recherche sur les enjeux et les répercussions des crimes financiers et du financement des menaces.
+
+### Center on Sanctions and Illicit Finance
+
+<https://www.fdd.org/issue/sanctions-and-illicit-finance/> (en anglais seulement)
+
+Le Center on Sanctions and Illicit Finance (centre sur les sanctions et les activités financières illégales) produit des analyses approfondies sur les activités financières illégales et les aspects sécuritaires des activités financières.
+
+## Annexe 1 : Indicateurs d'activités financières associées aux voyageurs extrémistes
+
+### Étapes et acteurs du phénomène des voyageurs extrémistes
+
+CANAFE estime que ceux qui partent combattre ou perpétrer des actes terroristes à l'étranger passent par plusieurs étapes. La connaissance de ces étapes peut renseigner la définition des indicateurs financiers relatifs aux activités des voyageurs extrémistes, puisque chacune des étapes est susceptible d'être détectée grâce au renseignement financier.
+
+### Préparation au départ
+
+Les personnes qui décident de se rendre à l'étranger pour combattre dans une zone de conflit ont besoin de temps et de ressources pour se préparer. Les voyageurs extrémistes en devenir mettent leurs affaires en ordre, planifient leur déplacement (moyens de transport, horaire et itinéraires) et se procurent les fonds nécessaires à l'achat des nécessités, y compris les billets.
+
+#### Indicateurs
+
+* Personne faisant part d'une date prévue de fin des activités du compte
+* Personne ou activité du compte évoquant la vente d'effets personnels
+* Achat d'un billet d'avion à destination d'un pays voisin d'une zone de conflit (Syrie ou Irak, p. ex.)
+* Autres achats liés aux voyages
+* Dons à des organisations à but non lucratif associées au financement des activités terroristes
+* Utilisation de fonds provenant de prestations d'assistance sociale, de prêts étudiants ou d'autres produits de crédit (financement par emprunt)
+* Abus des produits de crédit accessibles (utilisation de la limite maximale des cartes de crédit, omission d'effectuer les paiements, transfert de soldes vers le compte bancaire personnel)
+
+### Déplacement
+
+Cette étape couvre la période s'étendant du départ du pays d'origine jusqu'à l'arrivée à la destination finale. En général, les personnes concernées utilisent des moyens de transport multiples (transport aérien, autobus, train) et font plusieurs escales. Selon l'endroit où se trouve le conflit, certains voyageurs peuvent emprunter un itinéraire détourné ou apparemment irrationnel de façon à dissimuler leur destination réelle.
+
+#### Indicateurs
+
+* Client avisant l'entité déclarante qu'il voyagera vers un pays tiers en transitant par une zone de conflit, alors que selon les activités financières le reste du déplacement n'a pas été effectué
+* Activité financière (p. ex. utilisation de la carte de débit ou de crédit) s'inscrivant dans un corridor connu d'accès à une zone de conflit
+* Réception de virements dans une zone de conflit ou des zones limitrophes
+
+#### Activités sur place
+
+Cette étape correspond à l'activité de la personne concernée une fois dans la zone de conflit. Comme les combats et les sanctions internationales font souvent en sorte qu'il n'existe pas de services financiers dans certaines zones de conflit contemporaines, les activités financières sont souvent plus opaques à cette étape. Cependant, les voyageurs extrémistes sur place peuvent encore avoir accès à certaines ressources personnelles ou à celles d'amis, de parents ou de soutiens demeurés hors de la zone de conflit.
+
+#### Indicateurs
+
+* Personne recevant des virements de parents ou d'amis dans une zone de conflit ou dans ses environs
+* Informations accessibles au public et couverture médiatique indiquant qu'une personne s'est rendue dans une zone de conflit
+* Suspension des activités des comptes du client
+
+### Retour
+
+Certains voyageurs extrémistes demeurent sur place une fois le conflit terminé, mais d'autres tentent de retourner chez eux ou de se rendre dans un pays tiers. Cette étape est cruciale sur le plan de la sécurité publique, car les voyageurs extrémistes qui font leur retour ont acquis l'expérience du combat et des relations avec des groupes terroristes en territoire national. Les personnes rentrant au pays peuvent aussi soutenir des activités terroristes ou même prendre part à des attentats ultérieurement.
+
+#### Indicateurs
+
+* Reprise des activités à un compte inactif
+* Apparition de nouvelles sources de revenus (emploi, assistance sociale)
+* Envoi ou réception de virements intérieurs ou internationaux inhabituels
+
+### Voyage interrompu
+
+Certaines personnes peuvent échouer à se rendre dans une zone de conflit en raison de l'intervention des autorités ou renoncer à leurs plans pour d'autres raisons. Dans certains cas, comme il a été observé au Canada, ces personnes finissent par planifier ou appuyer des attentats intérieurs, ou encore aident d'autres personnes à quitter le pays. Les attaques de ce type sont rares, mais peuvent avoir un impact important sur la sécurité publique.
+
+#### Indicateurs
+
+* Remboursement de dépenses liées à un déplacement (billets d'avion, visas)
+* Client prévenant d'un voyage à l'étranger qui ne semble pas s'être réalisé selon l'activité au compte
+* Renseignements publics selon lesquels le client a été empêché de voyager pour des raisons de sécurité
+
+### Donateur ou facilitateur
+
+Outre les personnes qui tentent ou planifient de voyager pour appuyer des groupes terroristes étrangers, certaines personnes ne prévoient pas se déplacer, mais appuient ceux qui le font. Ces personnes peuvent tenir le rôle de donateur, c'est-à-dire fournir des contributions monétaires modestes aux futurs voyageurs, ou de facilitateur, c'est-à-dire participer à la planification du voyage et fournir un soutien logistique en plus du soutien financier. Ces personnes peuvent avoir des liens établis avec des organisations terroristes étrangères et mener leurs activités sous couvert d'une entreprise commerciale ou d'une organisation à but non lucratif légitime.
+
+Les donateurs et les facilitateurs peuvent se trouver dans n'importe quel pays ou territoire, mais se situent parfois dans un pays voisin de la zone de conflit, souvent un pays ayant accès aux systèmes financiers et aux réseaux de transport internationaux et offrant un certain degré de confidentialité. La Turquie, par exemple, a été utilisée par un certain nombre de réseaux de facilitateurs de Daech pendant le conflit en Irak et en Syrie.
+
+Ces activités de soutien dans des pays tiers ont aussi pris place lors d'autres conflits. Par exemple, Al-Chabaab s'est servi du Kenya pour appuyer son insurrection, tandis que les talibans ont recours au nord du Pakistan et à certains États du Golfe jouant un rôle économique important. On peut en conclure que ce phénomène sera très probablement présent dans les conflits futurs.
+
+## Annexe 2 : Méthode de sélection des pays et des groupes
+
+L'évaluation des risques de financement d'activités terroristes sert de référence aux entités déclarantes canadiennes en ce qui a trait aux risques de financement d'activités terroristes associés à différents pays et territoires ainsi qu'aux organisations terroristes établies dans ceux-ci. Les tendances soulignées dans la présente évaluation reflètent les données de renseignements financiers de 2017.
+
+La sélection des pays et des groupes terroristes a été faite en fonction d'un certain nombre de facteurs.
+
+Ainsi, les pays présentant des risques plus élevés de financement d'activités terroristes ont été déterminés selon la présence de terroristes et l'activité terroriste, la position du pays dans le système financier mondial, le cadre réglementant la lutte contre le financement des activités terroristes et le régime d'application connexe, et l'exposition financière du Canada au pays. Ce dernier facteur a été mesuré en fonction des déclarations transmises à CANAFE, des données de la Banque mondiale sur remises de fonds et des données de Statistique Canada sur le volume des échanges commerciaux. CANAFE a également évalué les caractéristiques financières des organisations terroristes se trouvant dans des territoires présentant des risques élevés de financement d'activités terroristes. La détermination des groupes terroristes prépondérants, soit ceux qui présentent un risque immédiat d'acte violent ou de financement d'activités terroristes en territoire canadien ou visant le Canada, s'est aussi fondée sur plusieurs facteurs. Les groupes terroristes ont été évalués en fonction de leur létalité et de leur degré d'activité, mesurés par le nombre d'attaques menées au cours des 18 mois précédents. Le contexte du ou des pays dans lesquels les groupes sont établis et utilisent le système financier pour amasser des fonds, de même que le degré d'activité au Canada, l'hostilité à l'égard du Canada et la capacité à mener des opérations ou des attaques sophistiquées à l'extérieur du principal théâtre d'opérations du groupe ont aussi été pris en considération.
+
+Si tous les facteurs ci-dessus ont servi à déterminer les pays et les groupes terroristes retenus, il convient de souligner que l'exclusion d'un pays ou territoire ou d'un groupe de la liste ne signifie pas qu'il ne présente aucun risque de financement d'activités terroristes. Le présent rapport se veut une simple entrée en matière sur la question du financement des activités terroristes.
+
+Date de modification :
+:   2018-12-13

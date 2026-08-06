@@ -1,0 +1,1 @@
+Summary: # Reduction of Stated Capital

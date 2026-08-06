@@ -1,0 +1,84 @@
+# Materiality Criteria for Related Party Transactions - Bulletin (1999)
+
+Information
+
+Publication type
+
+Bulletin
+
+Category
+
+Prudential Limits and Restrictions
+
+Date
+
+May 31, 1999
+
+Sector
+
+Banks,
+
+Trust and Loan Companies
+
+No
+
+E-6
+
+[Generate PDF](/en/print/pdf/node/2014)
+
+Table of contents
+
+This bulletin establishes criteria for determining whether a transaction with a related party is nominal or immaterial for banks, trust and loan companies and cooperative credit associations.
+
+Parts XI of the *Bank Act*and the *Trust and Loan Companies Act*and Part XII of the *Cooperative Credit Associations Act*define who are related parties of banks, trust and loan companies and cooperative credit associations and set out rules for undertaking transactions with related parties. Except as provided in these Parts, transactions with related parties are prohibited whether entered into directly or indirectly. The legislation subsequently identifies a number of situations where related party transactions are permitted, one of these being transactions that are of "nominal or immaterial" value.
+
+The legislation provides that federally regulated financial institutions (FRFIs) may enter into a transaction with related parties, if the value of the transaction is nominal or immaterial to the FRFI when measured by criteria established by the FRFI's conduct review committee, and approved in writing by the Superintendent.
+
+To establish a uniform definition for transactions of "nominal or immaterial" value, OSFI worked with the Canadian Bankers Association and met with industry officials. The outcome of this process is the attached table that sets out the materiality criteria for related party transactions for banks, trust and loan companies, and cooperative credit associations. These criteria require that nominal or immaterial transactions be carried out on terms and conditions that are at least as favourable to the FRFI as market terms and conditions.
+
+The attached table divides related party transactions into 11 categories based on the nature of the transaction and the degree of risk associated with it. Each category has a transaction threshold and an aggregate threshold. There are also specific rules for determining the materiality of a transaction and for aggregating transactions. Except for the commercial and corporate credit transactions thresholds, the thresholds restrict transactions on a per related party basis. These rules are set out at the end of the table.
+
+The materiality criteria are designed to allow FRFIs to undertake transactions with related parties in a timely manner, while simultaneously respecting the mandate of the conduct review committee. Accordingly, transaction and aggregate thresholds are generally linked to regulatory capital as defined in the legislation. Transactions that are "nominal or immaterial" based on these criteria do not have to be individually approved by the conduct review committee.
+
+OSFI believes that the term "transaction" should be interpreted broadly, consistent with the manner in which it is defined in the legislation. Virtually any act or agreement in which more than one person is concerned, and through which relations between the persons are altered, will be considered a transaction. Further, OSFI requires that all transactions be valued on a "gross" basis. OSFI considers it inappropriate for a FRFI to measure a transaction against materiality criteria based on the transaction's "net" impact. Accordingly, for example, the sale of a $10 million building to a related party for consideration of another building valued at $9.9 million and cash of $100,000 constitutes a $10 million transaction. OSFI does not subscribe to the view that this transaction has no net impact on the FRFI and hence, is immaterial to it.
+
+OSFI expects that FRFIs will adopt materiality criteria at least as stringent as the criteria set out in this bulletin. FRFIs that adopt such criteria will be deemed to have OSFI approval. If a FRFI wishes to establish other materiality criteria, OSFI will assess these individually.
+
+## Materiality Criteria for Banks, Trust and Loan Companies, and Cooperative Credit Associations
+
+A. Credit transactions
+
+| Type of Transaction | Transaction Threshold | Aggregate Threshold |
+| --- | --- | --- |
+| 1. Commercial and corporate credit transactions; investments in securities | Greater of $250,000 or 1/10 of 1% of regulatory capital | 1/2 of 1% of regulatory capital per financial year |
+| 2. Non-business loans to individuals (excluding officers) | $250,000 | None |
+
+B. Non-credit transactions
+
+| Type of Transaction | Transaction Threshold | Aggregate Threshold |
+| --- | --- | --- |
+| 3. Retail transactions (deposits, credit cards, mutual funds, travellers cheques, etc.) | None | None |
+| 4. Taking and realizing on security interests in securities of related parties from unrelated third parties | None | 1/2 of 1% of regulatory capital per financial year if held for 90 days after realization |
+| 5. Fees for non-credit financial services to entities | Greater of $200,000 or 1/50 of 1% of regulatory capital | 1/8 of 1% of regulatory capital per financial year (may be aggregated by transaction type) |
+| 6. Receipt of deposits (all forms of interest bearing and discount notes, deposits, GICs, etc.) | 1% of regulatory capital per deposit | N/A |
+| 7. Actively traded products (fx, T-bills, BAs, etc.) | None | None |
+| 8. Intermediated asset transactions in active markets | None | None |
+| 9. Purchase and sale of goods and services; lease of real estate (category involves non-depreciable assets) | Greater of $200,000 or 1/50 of 1% of regulatory capital | 1/8 of 1% of regulatory capital per financial year |
+| 10. Liquid asset transactions, purchase or sale of real estate, capitalized leases (category involves depreciable assets) | Greater of $225,000 or 1/25 of 1% of regulatory capital | 1/4 of 1% of regulatory capital per financial year |
+| 11. Consulting or professional services contracts with directors, officers and spouses | $100,000 | $250,000 per financial year |
+
+**Note: All transactions to be on terms and conditions at least as favourable to the FRFI as market terms and conditions.**
+
+### Aggregation rules
+
+1. For commercial and corporate credit transactions, transactions with related parties that are a common risk should be totalled to determine whether the "transaction threshold" or "aggregate threshold" has been exceeded. (Common risk should be determined according to the credit policy of the bank, trust and loan company, or cooperative credit association.)
+2. Transactions under the "transaction threshold" are nominal or immaterial and are not included in calculating the "aggregate threshold."
+3. Transactions over the "transaction threshold" are included in calculating the "aggregate threshold."
+4. Calculation of the "aggregate threshold" does not include a transaction that has been specifically approved by the conduct review committee.
+5. Transactions over the "transaction threshold" are nominal or immaterial until their total value exceeds the "aggregate threshold."
+6. Once the "aggregate threshold" has been surpassed, transactions exceeding the "transaction threshold" require approval of the conduct review committee.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2013-06-14

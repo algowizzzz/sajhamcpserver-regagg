@@ -1,0 +1,5 @@
+# Deregistration Under Section 8(f) of the Investment Company Act of 1940
+
+Applicant seeks an order declaring that it has ceased to be an investment company. On November 29, 2025, applicant made liquidating distributions to its shareholders based on net asset value. Expenses of $140,000 incurred in connection with the liquidation were paid by the adviser and the fund, with the adviser paying legal expenses of $120,000 and the fund paying proxy solicitation fees of $20,000. Filing Date: The application was filed on April 23, 2026, and amended on June 12, 2026. Applicant's Address: 1605 Main Street, Suite 912, Sarasota, Florida 34236.
+
+> Full text pending: source page is bot-gated; this is the official API abstract.

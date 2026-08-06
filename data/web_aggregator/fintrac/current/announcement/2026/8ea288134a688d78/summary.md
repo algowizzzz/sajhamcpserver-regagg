@@ -1,0 +1,1 @@
+Summary: # Speaking Notes for Sarah Paquet, Director and Chief Executive Officer, Financial Transactions and Reports Analysis Centre of Canada to the Association of Certified Fraud Examiners Canadian Conference

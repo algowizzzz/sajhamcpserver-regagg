@@ -1,0 +1,77 @@
+# FinCEN Form 105 – Currency and Other Monetary Instruments Report
+
+[fin-2011-r001.pdf](/system/files/administrative_ruling/fin-2011-r001.pdf "fin-2011-r001.pdf")
+(69.59 KB)
+
+FIN-2011-R001
+
+FinCEN Form 105 – Currency and Other Monetary Instruments Report
+
+Issued Date
+
+April 07, 2011
+
+Financial Crimes Enforcement Network
+
+Dear []:
+
+This responds to your letter of May 14, 2010, in which you request an administrative ruling concerning the proper completion of FinCEN Form 105 - Currency and Other Monetary Instruments Report ("CMIR"). Your letter, essentially, raises two questions: (1) whether Canadian Silver Maple Leaf coins are reportable on the CMIR, and (2) in case they are not, whether FinCEN requires any other report to be filed on their importation into the U.S.
+
+BSA regulations stipulate that a CMIR must be used to report the physical transportation of "currency or other monetary instruments" in an aggregate amount exceeding $10,000 at one time1 ("reportable material"), from the United States to any place outside the United States, or into the United States from any place outside the United States. The obligation to report falls on each person who physically transports, mails, or ships, or causes to be physically transported, mailed, or shipped, or attempts to physically transport, mail, or ship, or attempts to cause to be physically transported, mailed, or shipped reportable material.2 The obligation to report also falls on each person who receives in the United States reportable material which has been transported, mailed, or shipped from any place outside the United States with respect to which a report has not been filed. 3
+
+The term "currency" is defined in our regulation as "the coin and paper money of the United States or of any other country that (1) is designated as legal tender, (2) circulates, and (3) is customarily used and accepted as a medium of exchange in the country of issuance."4 Coins or paper money must satisfy all three conditions to be considered ’currency’; a failure to satisfy one prong means that the payment instrument is not ’currency’ for CMIR purposes. Our regulation further enumerates certain payment instruments that it considers "currency": U.S. silver certificates, U.S. notes and Federal Reserve notes, and official foreign bank notes that are customarily used and accepted as a medium of exchange in a foreign country. 5
+
+With respect to your first question, i.e., whether Canadian Silver Maple Leaf coins must be reported on a CMIR, please note the definition of "currency" as described above. FinCEN will not provide case-by-case confirmation on whether an individual type of coin or paper money item constitutes "currency" under the BSA. When a person finds itself in the circumstances described by 31 CFR § 103.23(a) or (b),6 such person must use all public information at its disposal7 and apply the test described above to determine whether a certain payment instrument satisfies the three parts of the test and therefore constitutes "currency" under our regulation, and is covered by the reporting requirements of the CMIR.
+
+Regarding your second question, at this time FinCEN does not require the filing of any other report on the importation of non-monetary instruments into the U.S. Please note that an item that does not constitute reportable material under the CMIR might be subject to other Federal reporting requirements (such as the U.S. Customs and Border Protection Declaration Form 6059B) when taken into or out of the United States in certain quantities or for certain values specified by other, non-BSA regulation.
+
+This ruling is provided in accordance with the procedures set forth at 31 CFR § 103.81. In arriving at the conclusions in this letter, we have relied upon the accuracy and completeness of your representations. Nothing precludes us from reaching a different conclusion or taking further action if circumstances change or any of the information provided is inaccurate or incomplete. We reserve the right, after redacting your name and address and the [names of the companies involved], to publish this letter as guidance to financial institutions in accordance with our regulations for requesting an administrative ruling.8 You have fourteen days from the date of this letter to identify any other information you believe should be redacted and the legal basis for redaction.
+
+If you have questions about this ruling, please contact FinCEN’s regulatory helpline at (800) 949-2732.
+
+Sincerely,  
+/ signed /  
+Jamal El-Hindi  
+Associate Director  
+Regulatory Policy and Programs Division
+
+---
+
+1 31 CFR § 103.11(b).
+
+2 *See* 31 CFR § 103.23(a).
+
+3 *See* 31 CFR § 103.23(b).
+
+4 31 CFR § 103.11(h).
+
+5 *Seesupra Footnote 4.*
+
+6 The reporting responsibility described would apply to those persons that are not exempted under the terms of 31 CFR § 103.23(c).
+
+7 Public information that might substantiate the definition of "currency" includes the coinage and currency laws of the country of issuance, the channel used for the distribution of the item (either exclusively to collectors or through the regular banking system), the generalized use of the item to pay for goods and services at any level of economic activity, at face value, without premiums or discounts negotiated by the parties to the transaction, etc
+
+8 *See* 31 CFR §§ 103.81-87.
+
+[Accessibility](/accessibility)
+
+Financial Institution
+
+Depository Institutions
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

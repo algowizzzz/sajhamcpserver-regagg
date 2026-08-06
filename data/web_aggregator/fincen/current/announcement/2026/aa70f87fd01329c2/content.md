@@ -1,0 +1,33 @@
+# FinCEN Advisory FIN-2020-A005 Spanish
+
+## Advisory Information
+
+FinCEN Advisory FIN-2020-A005 Spanish
+
+[FinCEN Advisory Covid Cybercrime Spanish 508.pdf](/system/files/advisory/2020-09-28/FinCEN%20Advisory%20Covid%20Cybercrime%20Spanish%20508.pdf "FinCEN Advisory Covid Cybercrime Spanish 508.pdf")
+(445.44 KB)
+
+Issued Date
+
+September 28, 2020
+
+Subject
+
+Aviso sobre delitos cibernéticos y delitos perpetrados mediante tecnologías cibernéticas que explotan la pandemia de la enfermedad del coronavirus 2019 (COVID-19)
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

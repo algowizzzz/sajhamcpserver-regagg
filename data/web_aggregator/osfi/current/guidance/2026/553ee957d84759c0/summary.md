@@ -1,0 +1,1 @@
+Summary: # Life Insurance Capital Adequacy Test (2025) – Chapter 12 Life Insurers Operating in Canada on a Branch Basis

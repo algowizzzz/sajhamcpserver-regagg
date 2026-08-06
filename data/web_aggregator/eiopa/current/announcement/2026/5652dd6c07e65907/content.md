@@ -1,0 +1,22 @@
+Page Content
+
+On 19 September 2018, at its inaugural meeting, the EIOPA Insurance and Reinsurance Stakeholder Group Members elected Greg van Elsen as its Chair. Greg is academic advisor to the European Consumer Organisation (BEUC) and does research on European Union financial consumer protection at the Ghent University.
+
+Michaela Koller, Director General of Insurance Europe, was elected as the Group's Vice Chair representing the insurance industry.
+
+In June, the Board of Supervisors of EIOPA appointed new Members to its two stakeholder groups: the Insurance and Reinsurance Stakeholder Group and Occupational Pensions Stakeholder Group. The term of both groups started on 4 September and runs for 2½ years.
+
+#### Background
+
+The [Insurance & Reinsurance Stakeholder Group](https://www.eiopa.europa.eu/about/working-stakeholders/insurance-and-reinsurance-stakeholder-group_en) and the [Occupational Pensions Stakeholder Group](https://www.eiopa.europa.eu/about/working-stakeholders/occupational-pensions-stakeholder-group_en) include 30 members each and are established to facilitate EIOPA's consultation with stakeholders in Europe on issues such as regulatory and implementing technical standards as well as guidelines and recommendation s that apply to the insurance and occupational pensions industry.
+
+Members of the stakeholder groups can submit opinions and advice to EIOPA on any issue related to its task. Additionally, the stakeholder groups are expected to notify EIOPA of inconsistent application of European Union law as well as inconsistent supervisory practices in the different European member states.
+
+Publication date
+:   21 September 2018
+
+## Related links
+
+[Greg Van Elsen](/document/download/402136bd-5643-44ca-989f-7d7f63f403a5_en?filename=Greg%20Van%20Elsen.pdf)
+
+[Michaela Koller](/document/download/2b6c18b9-e532-4bb0-899d-5ec9bce496dc_en?filename=Michaela%20Koller.pdf)

@@ -1,0 +1,7 @@
+# 'I feel like I dug my own grave': The workers caught in the AI transition
+
+AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.
+
+[Read the full story at the source](https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

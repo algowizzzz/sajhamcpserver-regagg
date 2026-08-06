@@ -1,0 +1,26 @@
+{
+  "doc_id": "3c539b3bd7419307",
+  "regulator_id": "hkma",
+  "doc_type": "announcement",
+  "title": "Hong Kong Monetary Authority - Registers and Lists",
+  "language": "en",
+  "source_url": "https://www.hkma.gov.hk/eng/regulatory-resources/registers/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b76520867b710a77de7e041343b16ba4ee72c1cf404d6637bf798018ca3afb3a",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_hkma_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/hkma/current/announcement/2026/3c539b3bd7419307",
+  "tags": [
+    "hong_kong",
+    "banking"
+  ],
+  "final_url": "https://www.hkma.gov.hk/eng/regulatory-resources/registers/",
+  "fetch_method": "html_to_md"
+}

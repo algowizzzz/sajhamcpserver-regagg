@@ -1,0 +1,25 @@
+{
+  "doc_id": "8534750f258aa3be",
+  "regulator_id": "boe_pra",
+  "doc_type": "announcement",
+  "title": "Bank Rate maintained at 3.75% - April 2026 Monetary Policy Summary and Minutes",
+  "language": "en",
+  "source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/april-2026",
+  "reference_number": null,
+  "published_date": "2026-04-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4d63ae7869718575ca139413aefcb2bbd4149840404412477a421c4d49105283",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boe_pra_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boe_pra/current/announcement/2026/8534750f258aa3be",
+  "tags": [
+    "uk",
+    "prudential",
+    "banking"
+  ]
+}

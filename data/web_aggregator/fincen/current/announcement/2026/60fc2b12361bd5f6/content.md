@@ -1,0 +1,75 @@
+# The Financial Action Task Force
+
+The Financial Action Task Force (FATF) is an inter-governmental policymaking body whose purpose is to establish international standards, and to develop and promote policies, both at national and international levels, to combat money laundering and the financing of terrorism. It was formed in 1989 to set out measures to be taken in the fight against money laundering. Since then, the FATF has issued 40 recommendations to fight money laundering and 9 special recommendations to fight terrorist financing. FinCEN supports the Department of the Treasury's efforts to promote the adoption of international standards involving anti-money laundering and the counter-financing of terrorism (AML/CFT), including through the FATF where FinCEN led the delegation from 1994 through 1998. The FATF membership is currently made up of 32 countries and territories and two regional organizations. Eight regional bodies similar to FATF, known as FATF Style Regional Bodies, have also developed. The FATF Style Regional Bodies have similar forms and functions to those of the FATF, and some FATF members are also members of these bodies. For more information on the FATF and FATF Style Regional Bodies, consult their Web sites:
+
+* [Financial Action Task Force (FATF)](http://www.fatf-gafi.org/)
+* [Asia/Pacific Group on Money Laundering (APG)](http://www.apgml.org/)
+* [Caribbean Financial Action Task Force (CFATF)](http://www.cfatf.org/)
+* [Council of Europe Select Committee of Experts on the Evaluation of Anti-Money Laundering Measures (MONEYVAL)](http://www.coe.int/t/dghl/monitoring/moneyval/)
+* [Eurasian Group (EAG)](http://www.eurasiangroup.org/)
+* [Eastern and Southern Africa Anti-Money Laundering Group (ESAAMLG)](http://www.esaamlg.org/)
+* [Intergovernmental Action Group against Money-Laundering in Africa (GIABA)](http://www.giaba.org/)
+* [Financial Action Task Force on Money Laundering in South America (GAFISUD)](http://www.gafisud.org/home.htm)
+* [Middle East and North Africa Financial Action Task Force (MENAFATF)](http://www.menafatf.org)
+
+**FATF Issues Revised Recommendations**
+
+The FATF Recommendations are the international standards set by the FATF to combat money laundering, terrorist financing, and more recently, the financing of proliferation. They cover the comprehensive set of measures that countries should have in place within their criminal justice and regulatory systems; the preventive measures to be taken by financial institutions and other businesses and professions; measures to ensure transparency on the ownership of legal persons and arrangements; the establishment of competent authorities with appropriate functions, and powers and mechanism for cooperation; and arrangements to cooperate with other countries.
+
+On Feb. 16, 2012, the FATF issued revised Recommendations. A number of significant and important changes have been made to the FATF Recommendations. These have strengthened the standards in the following key areas:
+
+> * The risk-based approach to implementing AML/CFT measures has been clarified and more fully elaborated within the Standards. This would allow countries to adopt an effective and appropriate response commensurate to the risks.
+> * The requirements to ensure timely access to adequate and accurate information on the beneficial ownership of legal persons and arrangements have been strengthened and clarified.
+> * Tax offenses have been made predicate offenses for money laundering.
+> * The powers and responsibilities of law enforcement and the FIU has been elaborated and the scope for international cooperation strengthened.
+> * The definition of politically exposed persons (PEPs) has been broadened to include domestic PEPs and PEPs from international organizations.
+> * The scope for financial group (or consolidated) supervision has been elaborated and enhanced.
+> * The transparency of wire transfers has been enhanced.
+> * A new standard has been added concerning the implementation of targeted financial sanctions related to the proliferation of weapons of mass destruction.
+
+For more information, please see the FATF's [announcement](http://www.fatf-gafi.org/document/17/0,3746,en_32250379_32236920_49656209_1_1_1_1,00.html) on the revised Recommendations. In addition, please see a [statement](http://www.treasury.gov/press-center/press-releases/Pages/tg1423.aspx) on the revised recommendations by David Cohen, Under Secretary for Terrorism and Financial Intelligence at the Department of the Treasury and [remarks](/news/speeches/prepared-remarks-james-h-freis-jr-director-financial-crimes-enforcement-network-us-8) by FinCEN Director Jim Freis before the Florida International Bankers Association.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+  + [Egmont Group of FIUs](/resources/international/egmont-group-financial-intelligence-units)
+  + [Financial Action Task Force](/resources/international/financial-action-task-force)
+  + [International AMLCFT Events](/resources/international/significant-international-amlcft-events)
+  + [Transnational Organized Crime](/resources/international/combating-transnational-organized-crime)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)
+
+Header
+
+Quick Links
+
+* [Significant International AML/CFT Events](/significant-international-amlcft-events)
+* [2014-2015 Egmont Group Annual Report](https://egmontgroup.org/en/filedepot_download/1660/22)
+* [FinCEN Statement Noting the Release of the Egmont Group’s White Paper on Enterprise-wide STR Sharing](/fincen-statement-noting-release-egmont-groups-white-paper-enterprise-wide-str-sharing-issues-and)
+* [Section 311](/resources/statutes-regulations/311-special-measures)
+* [Egmont Group](http://www.egmontgroup.org/)
+* [FATF](http://www.fatf-gafi.org/pages/0,2987,en_32250379_32235720_1_1_1_1_1,00.html)
+* [APG](http://www.apgml.org/)
+* [CFATF](http://www.cfatf.org/)
+* [MONEYVAL](http://www.coe.int/t/dghl/monitoring/moneyval/)
+* [EAG](http://www.eurasiangroup.org/)
+* [ESAAMLG](http://www.esaamlg.org/)
+* [GIABA](http://www.giaba.org/)
+* [GAFILAT](http://www.gafilat.org/)
+* [MENAFATF](http://www.menafatf.org/)
+* [OFAC](http://www.treas.gov/offices/enforcement/ofac/)
+* [UN Office on Drugs and Crime](http://www.unodc.org/unodc/en/money-laundering/index.html)
+* [IMF](http://www.imf.org/external/np/exr/facts/aml.htm)
+* [World Bank](http://www.worldbank.org)
+* [International Narcotics Control Strategy Report](http://www.state.gov/j/inl/rls/nrcrpt/index.htm)

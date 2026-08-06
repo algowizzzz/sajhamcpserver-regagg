@@ -1,0 +1,1 @@
+Summary: # Change of name – by-law

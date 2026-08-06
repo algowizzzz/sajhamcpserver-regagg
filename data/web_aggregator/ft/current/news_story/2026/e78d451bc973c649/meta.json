@@ -1,0 +1,25 @@
+{
+  "doc_id": "e78d451bc973c649",
+  "regulator_id": "ft",
+  "doc_type": "news_story",
+  "title": "Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab",
+  "language": "en",
+  "source_url": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fd1dd3fc622b02b4e1908d39bffd49f8b16d1da8c5ae082d083901870b3a8e95",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_ft_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/ft/current/news_story/2026/e78d451bc973c649",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1",
+  "fetch_method": "feed_summary"
+}

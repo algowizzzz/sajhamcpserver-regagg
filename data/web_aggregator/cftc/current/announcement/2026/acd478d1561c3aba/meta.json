@@ -1,0 +1,26 @@
+{
+  "doc_id": "acd478d1561c3aba",
+  "regulator_id": "cftc",
+  "doc_type": "announcement",
+  "title": "ICYMI: Members of the CFTC\u2019s Agricultural Advisory Committee Join Chairman Selig in Washington at First Meeting of 2026",
+  "language": "en",
+  "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9275-26",
+  "reference_number": null,
+  "published_date": "2026-07-31",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5e24ea335a3f9b94bd68b545b8250ab372125a58970a2ee519f7e5f1e8760d46",
+  "version_ts": "2026-08-03T02-27-25Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:27:25.940758+00:00",
+  "run_id": "2026-08-02_cftc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cftc/current/announcement/2026/acd478d1561c3aba",
+  "tags": [
+    "us",
+    "derivatives",
+    "clearing",
+    "margin"
+  ]
+}

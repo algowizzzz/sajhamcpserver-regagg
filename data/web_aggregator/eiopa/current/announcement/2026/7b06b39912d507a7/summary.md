@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) welcomes the European Commission's proposal "[Reinforcing integrated supervision to strengthen Capital Markets Union and financial integration in a changing environment](https://ec.europa.eu/info/publications/1709

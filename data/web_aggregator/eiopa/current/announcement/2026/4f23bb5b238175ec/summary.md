@@ -1,0 +1,1 @@
+Summary: The adoption Blockchain and smart contracts in the insurance industry is still at an early stage compared to other technologies such as IoT and AI. However, it could theoretically be used throughout the entire insurance value chain.

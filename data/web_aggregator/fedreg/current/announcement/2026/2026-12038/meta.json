@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12038",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Transaction Rebates Applicable to Members of the Exchange",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12038/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-and-immediate-effectiveness",
+  "reference_number": "2026-12038",
+  "published_date": "2026-06-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8a5926427b832b368ed147a57dabb0e48120c357509da17ac832677f40e0f42a",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12038",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

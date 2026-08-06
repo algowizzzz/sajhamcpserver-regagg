@@ -1,0 +1,24 @@
+{
+  "doc_id": "f2efea0498262e42",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Le r\u00f4le des guichets automatiques de monnaie virtuelle dans le blanchiment des produits de la criminalit\u00e9",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/intel/advisories-avis/atm-ga-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c61d4ca99a8aa84a715540f40f2c09c394e18a020fb4680ac4a3d6be8e575233",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/f2efea0498262e42",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

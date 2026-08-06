@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) published today its advice to the European Commission on sustainability in the areas of risk management, investment strategy, stewardship and product oversight.

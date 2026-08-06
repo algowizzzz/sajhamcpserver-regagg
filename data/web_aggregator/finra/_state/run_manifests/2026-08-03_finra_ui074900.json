@@ -1,0 +1,1596 @@
+{
+  "run_id": "2026-08-03_finra_ui074900",
+  "regulator_id": "finra",
+  "logical_date": "2026-08-03",
+  "trigger": "rerun",
+  "detected": 395,
+  "fetched": 92,
+  "ingested": 92,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 303,
+  "status": "failed",
+  "error_list": [
+    {
+      "url": "https://www.finra.org/rules-guidance/rulebooks/updates",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/rulebooks/updates"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/interpreting-rules",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/interpreting-rules"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/guidance",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/guidance"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/guidance/faqs",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/guidance/faqs"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/key-topics",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/key-topics"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/interpretive-questions",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/interpretive-questions"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/rulemaking-process",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/rulemaking-process"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/rule-filings",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/rule-filings"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/requests-for-comments",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/requests-for-comments"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/rulemaking-process/regulatory-policy-agenda",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/rulemaking-process/regulatory-policy-agenda"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/rulebook-consolidation",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/rulebook-consolidation"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/adjudication-decisions",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/adjudication-decisions"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/adjudication-decisions/national-adjudicatory-council-nac",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/adjudication-decisions/national-adjudicatory-council-nac"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/adjudication-decisions/office-hearing-officers-oho/about",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/adjudication-decisions/office-hearing-officers-oho/about"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/enforcement",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/enforcement"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/oversight-enforcement/disciplinary-actions-online",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/oversight-enforcement/disciplinary-actions-online"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/oversight-enforcement/disciplinary-actions",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/oversight-enforcement/disciplinary-actions"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/oversight-enforcement/sanction-guidelines",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/oversight-enforcement/sanction-guidelines"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/enforcement/individuals-barred-finra",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/enforcement/individuals-barred-finra"
+    },
+    {
+      "url": "https://www.finra.org/filing-reporting",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/filing-reporting"
+    },
+    {
+      "url": "https://www.finra.org/filing-reporting/finra-gateway",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/filing-reporting/finra-gateway"
+    },
+    {
+      "url": "https://www.finra.org/filing-reporting/entitlement",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/filing-reporting/entitlement"
+    },
+    {
+      "url": "https://www.finra.org/filing-reporting/fifc",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/filing-reporting/fifc"
+    },
+    {
+      "url": "https://www.finra.org/filing-reporting/market-transparency-reporting",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/filing-reporting/market-transparency-reporting"
+    },
+    {
+      "url": "https://www.finra.org/filing-reporting/regulatory-filing-systems",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/filing-reporting/regulatory-filing-systems"
+    },
+    {
+      "url": "https://www.finra.org/filing-reporting/data-transfer-tools",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/filing-reporting/data-transfer-tools"
+    },
+    {
+      "url": "https://www.finra.org/filing-reporting/e-bill",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/filing-reporting/e-bill"
+    },
+    {
+      "url": "https://www.finra.org/compliance-tools/weekly-archive",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/compliance-tools/weekly-archive"
+    },
+    {
+      "url": "https://www.finra.org/investors/insights",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/insights"
+    },
+    {
+      "url": "https://www.finra.org/investors/investing/investing-basics/investment-goals",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/investing-basics/investment-goals"
+    },
+    {
+      "url": "https://www.finra.org/investors/personal-finance/know-your-net-worth",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/investing-basics/financial-foundations"
+    },
+    {
+      "url": "https://www.finra.org/investors/personal-finance/control-spending-calculate-cash-flow",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/investing-basics/financial-foundations"
+    },
+    {
+      "url": "https://www.finra.org/investors/personal-finance/manage-your-debt",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/investing-basics/financial-foundations"
+    },
+    {
+      "url": "https://www.finra.org/investors/personal-finance/start-emergency-fund",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/investing-basics/financial-foundations"
+    },
+    {
+      "url": "https://www.finra.org/investors/investing",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing"
+    },
+    {
+      "url": "https://www.finra.org/investors/investing/investing-basics",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/investing-basics"
+    },
+    {
+      "url": "https://www.finra.org/investors/investing/investment-accounts",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/investment-accounts"
+    },
+    {
+      "url": "https://www.finra.org/investors/investing/investment-products",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/investment-products"
+    },
+    {
+      "url": "https://www.finra.org/investors/investing/investment-strategies",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/investment-strategies"
+    },
+    {
+      "url": "https://www.finra.org/investors/investing/working-with-investment-professional",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/investors/investing/working-with-investment-professional"
+    },
+    {
+      "url": "https://www.finra.org/investors/need-help/your-rights-under-sipc-protection",
+      "error": "403 Client Error: Forbidden for url: https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-101"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/rulebooks",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/rulebooks"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/rulemaking-process/retrospective-rule-review",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/rulemaking-process/retrospective-rule-review"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-15",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-15"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-14",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-14"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-13",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-13"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/information-notice-20260629",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/information-notice-20260629"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/information-notice-20260617",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/information-notice-20260617"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-12",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-12"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/election-notice-060826",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/election-notice-060826"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-11",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-11"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-10",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-10"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/election-notice-040626",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/election-notice-040626"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-09",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-09"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-08",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-08"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/special-notice-031726",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/special-notice-031726"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/information-notice-20260317",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/information-notice-20260317"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-07",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-07"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-06",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-06"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-05",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-05"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-04",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-04"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-03",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-03"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/trade-reporting-notice-20260114",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/trade-reporting-notice-20260114"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-02",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-02"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/26-01",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/26-01"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-19",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-19"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/election-notice-20251216",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/election-notice-20251216"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-18",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-18"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-17",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-17"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-16",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-16"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/information-notice-20251117",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/information-notice-20251117"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/information-notice-20251114",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/information-notice-20251114"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-15",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-15"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/information-notice-20251110",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/information-notice-20251110"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/information-notice-20251107",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/information-notice-20251107"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-14",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-14"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/information-notice-20251021",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/information-notice-20251021"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/election-notice-regional-20251020",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/election-notice-regional-20251020"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/election-notice-sfac-20251020",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/election-notice-sfac-20251020"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-13",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-13"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-12",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-12"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-11",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-11"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/25-10",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/25-10"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices?page=1",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices?page=1"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices?page=2",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices?page=2"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices?page=3",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices?page=3"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices?page=4",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices?page=4"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices?page=5",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices?page=5"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices?page=6",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices?page=6"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices?page=7",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices?page=7"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices?page=8",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices?page=8"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices?page=91",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices?page=91"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/4?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/4?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/5?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/5?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/a?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/a?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/b?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/b?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/c?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/c?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/d?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/d?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/e?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/e?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/f?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/f?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/g?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/g?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/h?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/h?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/i?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/i?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/l?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/l?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/m?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/m?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/n?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/n?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/o?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/o?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/p?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/p?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/q?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/q?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/r?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/r?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/s?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/s?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/t?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/t?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/u?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/u?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/v?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/v?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/topics/w?name=",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/topics/w?name="
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=1",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=1"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=212",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=212"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=251",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=251"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=284",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=284"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4183",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4183"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=31",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=31"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=201",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=201"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=148761",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=148761"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=64",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=64"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=146",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=146"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=167031",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=167031"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=134",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=134"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=196",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=196"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4449",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4449"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=83",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=83"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4564",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4564"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4446",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4446"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5019",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5019"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=32",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=32"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=2",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=2"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4959",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4959"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=30",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=30"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4445",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4445"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=268",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=268"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=240",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=240"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4533",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4533"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4942",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4942"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4895",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4895"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4861",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4861"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3613",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3613"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=246",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=246"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=197",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=197"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=299",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=299"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3687",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3687"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=225",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=225"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3614",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3614"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5015",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5015"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=62356",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=62356"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=272",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=272"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=71",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=71"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4964",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4964"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=150881",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=150881"
+    },
+    {
+      "url": "https://www.finra.org/index.php/rules-guidance/notices/by-topic?term=150631",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/index.php/rules-guidance/notices/by-topic?term=150631"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=166131",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=166131"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=75",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=75"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=245",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=245"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=57",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=57"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=168",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=168"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3686",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3686"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=124",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=124"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=50",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=50"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5013",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5013"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=157",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=157"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=150566",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=150566"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=150711",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=150711"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=96",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=96"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=150581",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=150581"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=18",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=18"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4464",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4464"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3588",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3588"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4952",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4952"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4854",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4854"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=20",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=20"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5031",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5031"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4985",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4985"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=87",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=87"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4958",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4958"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5017",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5017"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=166046",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=166046"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4957",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4957"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=36",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=36"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4945",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4945"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=148771",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=148771"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4435",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4435"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4466",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4466"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4462",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4462"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=167066",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=167066"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4941",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4941"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4955",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4955"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4826",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4826"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4563",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4563"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3663",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3663"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=89",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=89"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4948",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4948"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4177",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4177"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=112",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=112"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4902",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4902"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4954",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4954"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=288",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=288"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4901",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4901"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3621",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3621"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4864",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4864"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5020",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5020"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4953",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4953"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4951",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4951"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=136",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=136"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=150626",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=150626"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=145",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=145"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5012",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5012"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4982",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4982"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5016",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5016"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4907",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4907"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4939",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4939"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=228",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=228"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4949",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4949"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4528",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4528"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4906",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4906"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=99",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=99"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=229",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=229"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=77",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=77"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=88",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=88"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=142",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=142"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3615",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3615"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4866",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4866"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=237",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=237"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=297",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=297"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=453",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=453"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4963",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4963"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=73",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=73"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4974",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4974"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=207",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=207"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4944",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4944"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3591",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3591"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3599",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3599"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=14",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=14"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=151681",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=151681"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3605",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3605"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=68",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=68"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=256",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=256"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3607",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3607"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3606",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3606"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4950",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4950"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4868",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4868"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=204",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=204"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5018",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5018"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4972",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4972"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4436",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4436"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=151866",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=151866"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=111",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=111"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4438",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4438"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=62351",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=62351"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4981",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4981"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=260",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=260"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3593",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3593"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4870",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4870"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=150571",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=150571"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4871",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4871"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3608",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3608"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4977",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4977"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=166316",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=166316"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3680",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3680"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5021",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5021"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4965",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4965"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=166321",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=166321"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=101",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=101"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4453",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4453"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=148766",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=148766"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4946",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4946"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=167361",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=167361"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4956",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4956"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=63",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=63"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4947",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4947"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3585",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3585"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4943",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4943"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4457",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4457"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4456",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4456"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=179",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=179"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=181",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=181"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=58",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=58"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=150551",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=150551"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=301",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=301"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=233",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=233"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=150596",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=150596"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=278",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=278"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4961",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4961"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4976",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4976"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4962",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4962"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4530",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4530"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3609",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3609"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3610",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3610"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=150586",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=150586"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=5014",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=5014"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4891",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4891"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=3611",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=3611"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=167",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=167"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=4873",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=4873"
+    },
+    {
+      "url": "https://www.finra.org/rules-guidance/notices/by-topic?term=151106",
+      "error": "429 Client Error: Too Many Requests for url: https://www.finra.org/rules-guidance/notices/by-topic?term=151106"
+    }
+  ],
+  "detected_urls": [
+    "https://www.finra.org/rules-guidance/notices",
+    "https://www.finra.org/about",
+    "https://www.finra.org/careers",
+    "https://www.finra.org/finra-data",
+    "https://www.finra.org/media-center",
+    "https://www.finra.org/member-firm-hub",
+    "https://www.finra.org/filing-reporting/systems-status",
+    "https://www.finra.org/filing-reporting/entitlement/systems",
+    "https://www.finra.org/",
+    "https://www.finra.org/rules-guidance",
+    "https://www.finra.org/rules-guidance/finra-manual",
+    "https://www.finra.org/rules-guidance/rulebooks/updates",
+    "https://www.finra.org/rules-guidance/interpreting-rules",
+    "https://www.finra.org/rules-guidance/guidance",
+    "https://www.finra.org/rules-guidance/guidance/faqs",
+    "https://www.finra.org/rules-guidance/key-topics",
+    "https://www.finra.org/rules-guidance/interpretive-questions",
+    "https://www.finra.org/rules-guidance/rulemaking-process",
+    "https://www.finra.org/rules-guidance/rule-filings",
+    "https://www.finra.org/rules-guidance/requests-for-comments",
+    "https://www.finra.org/rules-guidance/rulemaking-process/regulatory-policy-agenda",
+    "https://www.finra.org/rules-guidance/rulebook-consolidation",
+    "https://www.finra.org/rules-guidance/adjudication-decisions",
+    "https://www.finra.org/rules-guidance/adjudication-decisions/national-adjudicatory-council-nac",
+    "https://www.finra.org/rules-guidance/adjudication-decisions/office-hearing-officers-oho/about",
+    "https://www.finra.org/rules-guidance/enforcement",
+    "https://www.finra.org/rules-guidance/oversight-enforcement/disciplinary-actions-online",
+    "https://www.finra.org/rules-guidance/oversight-enforcement/disciplinary-actions",
+    "https://www.finra.org/rules-guidance/oversight-enforcement/sanction-guidelines",
+    "https://www.finra.org/rules-guidance/enforcement/individuals-barred-finra",
+    "https://www.finra.org/registration-exams-ce",
+    "https://www.finra.org/registration-exams-ce/registration",
+    "https://www.finra.org/registration-exams-ce/broker-dealers",
+    "https://www.finra.org/registration-exams-ce/capital-acquisition-brokers",
+    "https://www.finra.org/registration-exams-ce/funding-portals",
+    "https://www.finra.org/registration-exams-ce/individuals",
+    "https://www.finra.org/registration-exams-ce/qualification-exams",
+    "https://www.finra.org/registration-exams-ce/qualification-exams/securities-industry-essentials-exam-sie",
+    "https://www.finra.org/registration-exams-ce/qualification-exams/series7",
+    "https://www.finra.org/registration-exams-ce/continuing-education",
+    "https://www.finra.org/registration-exams-ce/continuing-education/regulatory-element-topics",
+    "https://www.finra.org/registration-exams-ce/classic-crd",
+    "https://www.finra.org/registration-exams-ce/finpro",
+    "https://www.finra.org/registration-exams-ce/financial-industry-networking-directory",
+    "https://www.finra.org/events-training",
+    "https://www.finra.org/events-training/upcoming-events",
+    "https://www.finra.org/events-training/on-demand-education",
+    "https://www.finra.org/events-training/FINRA-crypto-and-blockchain-education-program",
+    "https://www.finra.org/events-training/FINRA-crcp-program",
+    "https://www.finra.org/events-training/flex",
+    "https://www.finra.org/events-training/webinars",
+    "https://www.finra.org/filing-reporting",
+    "https://www.finra.org/filing-reporting/finra-gateway",
+    "https://www.finra.org/filing-reporting/entitlement",
+    "https://www.finra.org/filing-reporting/fifc",
+    "https://www.finra.org/filing-reporting/market-transparency-reporting",
+    "https://www.finra.org/filing-reporting/regulatory-filing-systems",
+    "https://www.finra.org/filing-reporting/data-transfer-tools",
+    "https://www.finra.org/filing-reporting/e-bill",
+    "https://www.finra.org/compliance-tools",
+    "https://www.finra.org/compliance-tools/anti-money-laundering-template-small-firms",
+    "https://www.finra.org/compliance-tools/cybersecurity-checklist",
+    "https://www.finra.org/compliance-tools/compliance-calendar",
+    "https://www.finra.org/compliance-tools/weekly-archive",
+    "https://www.finra.org/compliance-tools/map-tools",
+    "https://www.finra.org/investors",
+    "https://www.finra.org/investors/insights",
+    "https://www.finra.org/investors/tools-and-calculators",
+    "https://www.finra.org/investors/personal-finance",
+    "https://www.finra.org/investors/investing/investing-basics/investment-goals",
+    "https://www.finra.org/investors/personal-finance/know-your-net-worth",
+    "https://www.finra.org/investors/personal-finance/control-spending-calculate-cash-flow",
+    "https://www.finra.org/investors/personal-finance/manage-your-debt",
+    "https://www.finra.org/investors/personal-finance/how-your-credit-score-impacts-your-financial-future",
+    "https://www.finra.org/investors/personal-finance/start-emergency-fund",
+    "https://www.finra.org/investors/investing",
+    "https://www.finra.org/investors/investing/investing-basics",
+    "https://www.finra.org/investors/investing/investment-accounts",
+    "https://www.finra.org/investors/investing/investment-products",
+    "https://www.finra.org/investors/investing/investment-strategies",
+    "https://www.finra.org/investors/investing/working-with-investment-professional",
+    "https://www.finra.org/investors/protect-your-money",
+    "https://www.finra.org/investors/protect-your-money/check-registration",
+    "https://www.finra.org/investors/protect-your-money/avoid-fraud",
+    "https://www.finra.org/investors/protect-your-money/watch-red-flags",
+    "https://www.finra.org/investors/protect-your-money/safeguard-your-identity",
+    "https://www.finra.org/investors/protect-your-money/financial-industry-investor-resources",
+    "https://www.finra.org/investors/military",
+    "https://www.finra.org/investors/need-help",
+    "https://www.finra.org/investors/need-help/file-a-complaint",
+    "https://www.finra.org/investors/need-help/helpline-seniors",
+    "https://www.finra.org/arbitration-mediation",
+    "https://www.finra.org/investors/need-help/your-rights-under-sipc-protection",
+    "https://www.finra.org/investors/need-help/legitimate-avenues-recovery-investment-losses",
+    "https://www.finra.org/rules-guidance/rulebooks",
+    "https://www.finra.org/rules-guidance/rulemaking-process/retrospective-rule-review",
+    "https://www.finra.org/rules-guidance/notices/26-15",
+    "https://www.finra.org/rules-guidance/notices/26-14",
+    "https://www.finra.org/rules-guidance/notices/26-13",
+    "https://www.finra.org/rules-guidance/notices/information-notice-20260629",
+    "https://www.finra.org/rules-guidance/notices/information-notice-20260617",
+    "https://www.finra.org/rules-guidance/notices/26-12",
+    "https://www.finra.org/rules-guidance/notices/election-notice-060826",
+    "https://www.finra.org/rules-guidance/notices/26-11",
+    "https://www.finra.org/rules-guidance/notices/26-10",
+    "https://www.finra.org/rules-guidance/notices/election-notice-040626",
+    "https://www.finra.org/rules-guidance/notices/26-09",
+    "https://www.finra.org/rules-guidance/notices/26-08",
+    "https://www.finra.org/rules-guidance/notices/special-notice-031726",
+    "https://www.finra.org/rules-guidance/notices/information-notice-20260317",
+    "https://www.finra.org/rules-guidance/notices/26-07",
+    "https://www.finra.org/rules-guidance/notices/26-06",
+    "https://www.finra.org/rules-guidance/notices/26-05",
+    "https://www.finra.org/rules-guidance/notices/26-04",
+    "https://www.finra.org/rules-guidance/notices/26-03",
+    "https://www.finra.org/rules-guidance/notices/trade-reporting-notice-20260114",
+    "https://www.finra.org/rules-guidance/notices/26-02",
+    "https://www.finra.org/rules-guidance/notices/26-01",
+    "https://www.finra.org/rules-guidance/notices/25-19",
+    "https://www.finra.org/rules-guidance/notices/election-notice-20251216",
+    "https://www.finra.org/rules-guidance/notices/25-18",
+    "https://www.finra.org/rules-guidance/notices/25-17",
+    "https://www.finra.org/rules-guidance/notices/25-16",
+    "https://www.finra.org/rules-guidance/notices/information-notice-20251117",
+    "https://www.finra.org/rules-guidance/notices/information-notice-20251114",
+    "https://www.finra.org/rules-guidance/notices/25-15",
+    "https://www.finra.org/rules-guidance/notices/information-notice-20251110",
+    "https://www.finra.org/rules-guidance/notices/information-notice-20251107",
+    "https://www.finra.org/rules-guidance/notices/25-14",
+    "https://www.finra.org/rules-guidance/notices/information-notice-20251021",
+    "https://www.finra.org/rules-guidance/notices/election-notice-regional-20251020",
+    "https://www.finra.org/rules-guidance/notices/election-notice-sfac-20251020",
+    "https://www.finra.org/rules-guidance/notices/25-13",
+    "https://www.finra.org/rules-guidance/notices/25-12",
+    "https://www.finra.org/rules-guidance/notices/25-11",
+    "https://www.finra.org/rules-guidance/notices/25-10",
+    "https://www.finra.org/rules-guidance/notices?page=1",
+    "https://www.finra.org/rules-guidance/notices?page=2",
+    "https://www.finra.org/rules-guidance/notices?page=3",
+    "https://www.finra.org/rules-guidance/notices?page=4",
+    "https://www.finra.org/rules-guidance/notices?page=5",
+    "https://www.finra.org/rules-guidance/notices?page=6",
+    "https://www.finra.org/rules-guidance/notices?page=7",
+    "https://www.finra.org/rules-guidance/notices?page=8",
+    "https://www.finra.org/rules-guidance/notices?page=91",
+    "https://www.finra.org/rules-guidance/topics/4?name=",
+    "https://www.finra.org/rules-guidance/topics/5?name=",
+    "https://www.finra.org/rules-guidance/topics/a?name=",
+    "https://www.finra.org/rules-guidance/topics/b?name=",
+    "https://www.finra.org/rules-guidance/topics/c?name=",
+    "https://www.finra.org/rules-guidance/topics/d?name=",
+    "https://www.finra.org/rules-guidance/topics/e?name=",
+    "https://www.finra.org/rules-guidance/topics/f?name=",
+    "https://www.finra.org/rules-guidance/topics/g?name=",
+    "https://www.finra.org/rules-guidance/topics/h?name=",
+    "https://www.finra.org/rules-guidance/topics/i?name=",
+    "https://www.finra.org/rules-guidance/topics/l?name=",
+    "https://www.finra.org/rules-guidance/topics/m?name=",
+    "https://www.finra.org/rules-guidance/topics/n?name=",
+    "https://www.finra.org/rules-guidance/topics/o?name=",
+    "https://www.finra.org/rules-guidance/topics/p?name=",
+    "https://www.finra.org/rules-guidance/topics/q?name=",
+    "https://www.finra.org/rules-guidance/topics/r?name=",
+    "https://www.finra.org/rules-guidance/topics/s?name=",
+    "https://www.finra.org/rules-guidance/topics/t?name=",
+    "https://www.finra.org/rules-guidance/topics/u?name=",
+    "https://www.finra.org/rules-guidance/topics/v?name=",
+    "https://www.finra.org/rules-guidance/topics/w?name=",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=1",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=212",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=251",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=284",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4183",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=31",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=201",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=148761",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=64",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=146",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=167031",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=134",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=196",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4449",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=83",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4564",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4446",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5019",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=32",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=2",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4959",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=30",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4445",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=268",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=240",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4533",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4942",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4895",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4861",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3613",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=246",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=197",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=299",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3687",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=225",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3614",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5015",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=62356",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=272",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=71",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4964",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=150881",
+    "https://www.finra.org/index.php/rules-guidance/notices/by-topic?term=150631",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=166131",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=75",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=245",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=57",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=168",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3686",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=124",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=50",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5013",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=157",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=150566",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=150711",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=96",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=150581",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=18",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4464",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3588",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4952",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4854",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=20",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5031",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4985",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=87",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4958",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5017",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=166046",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4957",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=36",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4945",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=148771",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4435",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4466",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4462",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=167066",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4941",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4955",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4826",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4563",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3663",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=89",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4948",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4177",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=112",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4902",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4954",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=288",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4901",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3621",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4864",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5020",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4953",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4951",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=136",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=150626",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=145",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5012",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4982",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5016",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4907",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4939",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=228",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4949",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4528",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4906",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=99",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=229",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=77",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=88",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=142",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3615",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4866",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=237",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=297",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=453",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4963",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=73",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4974",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=207",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4944",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3591",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3599",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=14",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=151681",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3605",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=68",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=256",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3607",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3606",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4950",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4868",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=204",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5018",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4972",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4436",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=151866",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=111",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4438",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=62351",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4981",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=260",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3593",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4870",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=150571",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4871",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3608",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4977",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=166316",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3680",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5021",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4965",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=166321",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=101",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4453",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=148766",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4946",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=167361",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4956",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=63",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4947",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3585",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4943",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4457",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4456",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=179",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=181",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=58",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=150551",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=301",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=233",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=150596",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=278",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4961",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4976",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4962",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4530",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3609",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3610",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=150586",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=5014",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4891",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=3611",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=167",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=4873",
+    "https://www.finra.org/rules-guidance/notices/by-topic?term=151106",
+    "https://www.finra.org/contact-finra/",
+    "https://www.finra.org/investors/have-a-problem/helpline-seniors",
+    "https://www.finra.org/contact-finra/file-tip",
+    "https://www.finra.org/compliance-tools/finra-small-firm-helpline",
+    "https://www.finra.org/about/office-ombuds",
+    "https://www.finra.org/site-map",
+    "https://www.finra.org/privacy-policy",
+    "https://www.finra.org/terms-of-use",
+    "https://www.finra.org/translate",
+    "https://www.finra.org/contact-finra"
+  ],
+  "duration_s": 134.797
+}

@@ -1,0 +1,50 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+## CPMI-IOSCO
+
+* [Publications](?subSection=cpmi_iosco&subSection1=publications)
+* [PFMI](?subSection=cpmi_iosco&subSection1=pfmi)
+* [Monitoring](?subSection=cpmi_iosco&subSection1=monitoring)
+
+# CPMI-IOSCO
+
+IOSCO and the Committee on Payments and Market Infrastructures (CPMI) work together to enhance coordination of standard and policy development and implementation, regarding clearing, settlement and reporting arrangements including financial market infrastructures (FMIs) worldwide.
+
+FMIs, which include central counterparties (CCPs), trade repositories (TRs), central securities depositories (CSDs), securities settlement systems (SSSs), and payment systems (PSs), play an essential role in the global financial system.
+
+IOSCO and the CPMI monitor the implementation of the Principles for financial market infrastructures (PFMI), which are international standards for payment systems, central securities depositories, securities settlement systems, central counterparties and trade repositories. The PFMI are designed to help ensure the safety, efficiency and resilience of these infrastructures supporting global financial markets - so their full, timely and consistent implementation is fundamental. CPMI and IOSCO members have committed to adopting the principles and responsibilities contained in the PFMI in line with the G20 expectations.
+
+##### Consultation Document - Comments Received
+
+Close
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

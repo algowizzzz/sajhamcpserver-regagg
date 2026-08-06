@@ -1,0 +1,27 @@
+{
+  "doc_id": "599d4d7dcf9a0d42",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA reinforces its cooperation with the World Bank - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-reinforces-its-cooperation-world-bank-2017-06-15_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:20a0197836a2ac42224d25c33c02e09e8c33f2a99b3438883c0e4fb27f755c7f",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/599d4d7dcf9a0d42",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-reinforces-its-cooperation-world-bank-2017-06-15_en",
+  "fetch_method": "html_to_md"
+}

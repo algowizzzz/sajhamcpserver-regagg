@@ -1,0 +1,64 @@
+# Protecting Canada from a financial crisis
+
+This video provides an overview of the Office of the Superintendent of Financial Institutions' role and tools used to prepare for certain risks such as cyberattacks and pandemics like COVID-19. As Canada’s financial regulator, we plan and prepare for events that could affect Canada's financial system.
+
+**Video duration:** 00 hours :03 minutes :35 seconds   
+**Date:** January 13, 2021
+
+## Video
+
+[
+
+](https://www.youtube.com/watch?v=EKpvLJ-wWjE)
+
+Protecting Canada from a financial crisis
+
+Transcript
+
+[Animated video]
+
+**Narrator:** The Office of the Superintendent of Financial Institutions, or "OSFI", is an independent federal government agency that regulates and supervises Canadian banks, insurance companies and private pension plans to determine whether they are in good financial condition.
+
+Although Canada's financial system is among the strongest and safest in the world, we are not immune from a variety of system-wide stresses and must prepare for severe but plausible scenarios.
+
+Stresses can arise from economic weaknesses or issues within the financial sector.
+
+For example, a severe economic slowdown could lead to a liquidity squeeze or credit crunch. Other threats like operational disruptions, cyber-attacks or pandemics could also affect the health of specific financial institutions and the system more broadly.
+
+The key to managing through challenging times is preparation. And OSFI and Canada are well prepared.
+
+Just as fire departments use their time between fires to test equipment, train staff and raise safety awareness, OSFI takes measures during good times to prepare. Because it is too late if you start preparing for trouble after it begins.
+
+OSFI is agile and risk-based and has an early intervention mandate, which means it is always on alert, testing and fine-tuning its tools and industry guidance, enhancing its resources and knowledge, developing and revising plans, and applying lessons learned from past events.
+
+One of OSFI's tools is setting capital levels - the amount of money that financial institutions must set aside for the unexpected, so that they can remain strong during difficult times.
+
+An example is OSFI's Domestic Stability Buffer, which requires Canada's big six banks to build up a strong cushion of capital during good times.
+
+During challenging times, OSFI will reduce the buffer it requires banks to hold, which allows them to lend more to households and businesses. When there are threats to financial stability, OSFI quickly mobilizes its expert resources, consults with its federal partners, and uses its wide range of regulatory and supervisory tools to take action.
+
+During a systemic event, OSFI focuses on capital and liquidity management; more intensive supervision, including rigorous monitoring and analysis; risk management and stress testing. OSFI also activates its intervention process for any institution at risk of failing.
+
+OSFI is not alone. It works closely with its federal partners to protect Canada's financial system.
+
+[Text on screen: Bank of Canada - Liquitdy support; Department of Finance - Fiscal policy; Financial Consumer Agency of Canada - Consumer rights and protection; Canada Deposit Insurance Corporation - Deposit protections]
+
+**Narrator:** By building resilience and encouraging preventive action, OSFI's goal during a systemic event is to take action so that banks are still able make money available to Canadians; that insurance companies can pay out their policyholders, and pension plans can continue to make payments to retirees.
+
+Even in challenging times, OSFI's agility, expertise and toolbox help build and sustain a strong and stable financial system in which Canadians can place their trust and confidence.
+
+[Visual identifier: OSFI logo]
+
+**Narrator:** For more information, visit the OSFI website at www.osfi-bsif.gc.ca.
+
+[Visual identifier: Government of Canada logo]
+
+## Related links
+
+* [Domestic Stability Buffer](/en/supervision/financial-institutions/banks/domestic-stability-buffer "Domestic Stability Buffer")
+* [OSFI Annual Report 2020-2021](/en/about-osfi/reports-publications/osfi-annual-report-2020-2021 "OSFI Annual Report 2020-2021")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-06-05

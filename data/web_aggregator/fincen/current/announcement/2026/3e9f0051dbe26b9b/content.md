@@ -1,0 +1,92 @@
+# (Formerly known as 92-1) How does a financial institution fulfill the requirement to verify and record the name and address of an elderly or disabled individual who conducts a currency transaction in excess of $ 10,000
+
+FIN-1992-R001
+
+(Formerly known as 92-1) How does a financial institution fulfill the requirement to verify and record the name and address of an elderly or disabled individual who conducts a currency transaction in excess of $ 10,000
+
+Issued Date
+
+November 16, 2001
+
+**Financial Crimes Enforcement Network**
+
+**Ruling**
+
+FIN-1992-R001 (Formerly 92-1)  
+  
+Subject: How does a financial institution fulfill the requirement to verify and record the name and address of an elderly or disabled individual who conducts a currency transaction in excess of $ 10,000 or who purchases certain monetary instruments with currency valued between $ 3,000 and $ 10,000 when he/she does not possess a passport, alien identification card or other official document, or other document that is normally acceptable within the banking community as a means of identification when cashing checks for nondepositors?
+
+This ruling, formerly known as 92-1, was posted to the website on May 18, 2010; it was previously published via the Federal Register. Please note that references in this ruling to CTR form numbers are outdated.
+
+Facts:
+
+31 U.S.C. 5313 -- Reports on Domestic Coins and Currency Transactions
+
+31 U.S.C. 5325 -- Identification Required to Purchase Certain Monetary Instruments
+
+31 CFR 103.28 -- Identification Required
+
+31 CFR 103.29 -- Purchases of Bank Checks and Drafts, Cashier’s Checks, Money Orders and Traveler’s Checks
+
+Identification of elderly or disabled patrons conducting large currency transactions. Financial institutions must file a form 4789, Currency Transaction Report (CTR) on transactions in currency in excess of $ 10,000, and must verify and record information about the identity of the person(s) who conduct(s) the transaction in Part I of the CTR. Financial institutions also must record on a chronological log sales of, and verify the identity of individuals who purchase, certain monetary instruments with currency in amounts between $ 3,000 and $ 10,000, inclusive. Many financial institutions have asked Treasury how they can meet the requirement to examine an identifying document that contains the person’s name and address when s/he does not possess such a document (e.g., a driver’s license). Financial institutions have indicated that this question arises almost exclusively with their elderly and/or disabled patrons. This Administrative Ruling answers those inquiries.
+
+Holding
+
+It is the responsibility of a financial institution to file complete and accurate CTRs and to maintain complete and accurate monetary instrument logs pursuant to 31 CFR §§ 103.27(d) and 103.29 of the BSA regulations. It is also the responsibility of a financial institution to verify and to record the identity of individuals conducting reportable currency transactions and/or cash purchases of certain monetary instruments as required by BSA regulations §§ 103.28 and 103.29. Only if the financial institution is confident that an elderly or disabled patron is who s/he says s/he is may it complete these transactions. A financial institution shall use whatever information it has available, in accordance with its established policies and procedures, to determine its patron’s identity. This includes review of its internal records for any information on file, and asking for other forms of identification, including a social security or medicare/medicaid card along with another document which contains both the patron’s name and address such as an organizational membership card, voter registration card, utility bill or real estate tax bill. These forms of identification shall also be identified as acceptable in the bank’s formal written policy and operating procedures as identification for transactions involving the elderly or the disabled. Once implemented, the financial institution should permit no exception to its policy and procedures. In these cases, the financial institution should record the word "Elderly" or "Disabled" on the CTR and/or chronological log and the method used to identify the elderly, or disabled patron such as "Social Security and (organization) Membership Card only ID."
+
+Law and Analysis
+
+Before concluding a transaction for which a Currency Transaction Report is required pursuant to 31 CFR 103.22, a financial institution must verify and record the name and address of the individual conducting the transaction. 31 CFR 103.28. Verification of the individual’s identity must be made by examination of a document, other than a bank signature card, that is normally acceptable within the banking community as a means of identification when cashing checks for nondepositors (e.g., a driver’s license). A bank signature card may be relied upon only if it was issued after documents establishing the identity of the individual were examined and a notation of the method and specific information regarding identification (e.g., state of issuance and driver’s license number) was made on the signature card. In each instance, the specific identifying information noted above and used to verify the identity of the individual must be recorded on the CTR. The notation of "known customer" or "bank signature card on file" on the CTR is prohibited. 31 CFR 103.28.
+
+Before issuing or selling bank checks or drafts, cashier’s checks, traveler’s checks or money orders to an individual(s), for currency between $ 3,000 and $ 10,000, a financial institution must verify whether the individual has a deposit account or verify the individual’s identity. 31 CFR 103.29. Verification may be made by examination of a signature card or other account record at the financial institution if the deposit accountholder’s name and address were verified at the time the account was opened, or at any subsequent time, and that information was recorded on the signature card or record being examined.
+
+Verification may also be made by examination of a document that contains the name and address of the purchaser and which is normally acceptable within the banking community as a means of identification when cashing checks for nondepositors. In the case of a deposit accountholder whose identity has not been previously verified, the financial institution shall record the specific identifying information on its chronological log (e.g. state of issuance and driver’s license number). In all situations, the financial institution must record all the appropriate information required by § 103.29(a)(1)(i) for deposit account holders or 103.29(a)(2)(i) for nondeposit account holders.
+
+Certain elderly or disabled patrons do not possess identification documents that would normally be considered acceptable within the banking community (e.g., driver’s licenses, passports, or state-issued identification cards). Accordingly, the procedure set forth below should be followed to fulfill the identification verification requirements of §§ 103.28 and 103.29.
+
+Financial institutions may accept as appropriate identification a social security, medicare, medicaid or other insurance card presented along with another document that contains both the name and address of the patron (e.g. an organization membership or voter registration card, utility or real estate tax bill). Such forms of identification shall be specified in the bank’s formal written policy and operating procedures as acceptable identification for transactions involving elderly or disabled patrons who do not possess identification documents normally considered acceptable within the banking community for cashing checks for nondepositors.
+
+This procedure may only be applied if the following circumstances exist. First, the financial institution must establish that the identification the elderly or disabled patron has is limited to a social security or medicare/medicaid card plus another document which contains the patron’s name and address. Second, the financial institution must use whatever information it has available, or policies and procedures it has in place, to determine the patron’s identity. If the patron is a deposit accountholder, the financial institution should review its internal records to determine if there is information on file to verify his/her identity. Only if the financial institution is confident that the elderly or disabled patron is who s/he says s/he is, may the transaction be concluded. Failure to identify an elderly or a disabled customer’s identity as required by 31 CFR § 103.28 and as described herein may result in the imposition of civil and or criminal penalties. Finally, the financial institution shall establish a formal written policy and implement operating procedures for processing reportable currency transactions or recording cash sales of certain monetary instruments to elderly or disabled patrons who do not have forms of identification ordinarily considered "acceptable." Once implemented, the financial institution shall permit no exceptions to its policy and procedures. In addition, financial institutions are encouraged to record the elderly or disabled patron’s identity and address as well as the method of identification on a signature card or other record when it is obtained and verified.
+
+In completing a CTR, if all of the above conditions are satisfied, the financial institution should enter the words "Elderly" or "Disabled" and the method used to verify the patron’s identity, such as "Social Security and (organization) Membership Cards Only ID," in Item 15a.
+
+Similarly, when logging the cash purchase of a monetary instrument(s), the financial institution shall enter on its chronological log the words, "Elderly" or "Disabled," and the method used to verify such patron’s identity.
+
+Example
+
+Jesse Fleming, a 75 year old retiree, has been saving $ 10 bills for twenty years in order to help pay for his granddaughter’s college education. He enters the Trustworthy National Bank where he has no account but his granddaughter has a savings account, and presents $ 13,000 in $ 10 bills to the teller. He instructs the teller to deposit $ 9,000 into his granddaughter’s savings account, and requests a cashier’s check for $ 4,000 made payable to State University.
+
+Because of poor eyesight, Mr. Fleming no longer drives and does not possess a valid driver’s license. When asked for identification by the teller he presents a social security card and his retirement organization membership card that contains his name and address.
+
+Application of Law to Example
+
+In this example, the Trustworthy National Bank must check to determine if Mr. Fleming’s social security and organizational membership cards are acceptable forms of identification as defined in the bank’s policy and procedures. If so, and the bank is confident that Mr. Fleming is who he says he is, it may complete the transaction. Because Mr. Fleming conducted a transaction in currency which exceeded $ 10,000 (deposit of $ 9,000 and purchase of $ 4,000 monetary instrument), First National Bank must complete a CTR. It should record information about Mr. Fleming in Part I of the CTR and in Item 15a record the words "Elderly -- Social Security and (organization) Membership Cards Only ID." The balance of the CTR must be appropriately completed as required by §§ 103.22 and 103.27(d). First National Bank must also record the transaction in its monetary instrument sales log because it issued to Mr. Fleming a cashier’s check for $ 4,000 in currency. Mr. Fleming must be listed as the purchaser and the bank should record on the log the words "Elderly -- Social Security and (organization) Membership Cards Only ID" as the method used to verify his identity. In addition, because Mr. Fleming is not a deposit accountholder at First National Bank, the bank is required to record on the log all the information required under § 103.29(a)(2)(i) for cash purchases of monetary instruments by nondeposit accountholders.
+
+---
+
+[Accessibility](/accessibility)
+
+Financial Institution
+
+Casinos
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

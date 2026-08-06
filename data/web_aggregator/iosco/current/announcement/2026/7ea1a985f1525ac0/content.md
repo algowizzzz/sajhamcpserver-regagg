@@ -1,0 +1,112 @@
+The background to the E-MMoU  
+ 
+Established in 2002, the current Multilateral Memorandum of 
+Understanding on cooperation and the exchange of information has 
+provided securities regulators with a vital tool for combating cross-
+border fraud and misconduct.  However, capital markets have 
+undergone sweeping changes in recent years, driven by technology, 
+and presenting fresh challenges to regulators.  
+ 
+IOSCO resolved in 2010 to respond to these challenges by developing 
+“A further standard beyond the existing IOSCO MMoU, taking into 
+account developments in market and supervisory and enforcement 
+practices.” 
+ 
+IOSCO has since drafted the text of the new Enhanced MMoU (‘E-
+MMoU’), which will be submitted for approval to its Presidents 
+Committee during the IOSCO Annual Conference in May 2016.  
+ 
+The E-MMoU will sit alongside, and co-exist with the MMoU.  The 
+MMoU will remain in effect as long as, and until, any signatories 
+continue to wish to use it. The E-MMoU is simply an optional extra 
+standard for those who can and wish to sign it!    
+ 
+ 
+ 
+ 
+ 
+What are the key new E-MMOU powers?  
+ 
+The additional “ACFIT” powers that IOSCO believes are necessary to 
+ensure the MMoU´s continued effectiveness in safeguarding market 
+integrity and stability, protecting investors and deterring misconduct 
+and fraud, are referred to as the “ACFIT” powers. These include:  
+ 
+A: To obtain  and share Audit papers   
+ 
+C: To Compel  attendance for testimony    (by being able to 
+apply a sanction in the event of non-compliance) 
+ 
+F: To Freeze assets if possible, or, if not, advise and provide 
+information on how to Freeze assets, at the request of another 
+signatory 
+ 
+I: To obtain and share existing Internet service provider (ISP) 
+records (not including the content of communications)  
+including with the assistance of a prosecutor, court or other 
+authority    
+ 
+T: To obtain and share existing  telephone records  (not 
+including the content of communications) including with the 
+asisstance of a court, prosecutor or other authority   
+ 
+Additionally, the EMMoU envisages the obtaining and sharing of 
+existing communications records held by regulated firms. 
+ 
+Enhanced MMoU  
+1) 
+     1) It means compel attendance only, not compel testimony or compel answers to questions.
+
+Why is the new standard important ?  
+The ACFIT powers will foster greater cross-border enforcement 
+cooperation and assistance among securities regulators, enabling them 
+to respond to the risks and challenges posed by globalisation and 
+advances in technology since 2002.  In particular, access to the ‘IT’ 
+powers is important, because so many market abuse investigations rely 
+on subscriber records and traffic data to show the passage of 
+information. 
+ 
+IOSCO is heartened by the efforts signatories have made to reform 
+legislation and achieve compliance with the current MMoU. The 
+enhanced standard can enable IOSCO to serve as an important agent 
+for further change, to ensure enforcement and co-operation remain 
+effective.  
+ 
+How will the E-MMoU be implemented ?  
+The IOSCO board is currently discussing potential arrangements for 
+implementation of the EMMoU. That discussion will consider whether 
+the EMMoU should be implemented on the same basis as the IOSCO 
+MMoU in that all signatories must be able to exercise the powers 
+referred to in the MMoU – or whether other arrangements, for 
+example a modular approach focussing on incremental 
+implementation, may be more appropriate. Following consultation 
+with the GEM and regional committees the board will make a 
+recommendation on implementation which will presented to the 
+Presidents’ Committee  
+ 
+Further information 
+IOSCO seeks to usher in a new era of improved international 
+enforcement cooperation. Implementation of the E-MMoU will be 
+supported by a number of IOSCO initiatives, including technical 
+assistance programs, political support and an on-going communication 
+strategy.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• IOSCO members will have the opportunity to gain a better 
+understanding of the E-MMoU  at IOSCO events, committee 
+meetings and relevant seminar training programmes.  
+ 
+• Screening Group members are liaising with their regional peers to 
+raise awareness which can strike a balance between driving a new 
+standard for enforcement co-operation, and giving comfort to 
+members who may fear that they will be left behind.  
+ 
+• The Chair of the IOSCO Screening Group, Georgina Philippou and 
+the Secretary General, Paul Andrews will be doing a tour of the 
+GEM and regional committees to answer any further questions you 
+may have.

@@ -1,0 +1,402 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+![]()
+
+IOSCO is headquartered in Madrid
+
+# About IOSCO
+
+## Our membership regulates more than 99% of the world's securities and derivatives markets in more than 130 jurisdictions.
+
+IOSCO is the international body that brings together the world's securities and derivatives regulators and is recognized as the global standard setter for financial markets regulation. We develop, implement and promote adherence to internationally recognized standards for financial markets regulation and work closely with other international organizations on the global regulatory reform agenda.
+
+Our [Objectives and Principles of Securities Regulation](/library/pubdocs/pdf/IOSCOPD561.pdf) are endorsed by both the G20 and the FSB and serve as the overarching core principles that guide us in the development and implementation of internationally recognized and consistent standards of regulation, oversight and enforcement. They also form the basis for the evaluation of the securities sector for the Financial Sector Assessment Programs (FSAPs) of the International Monetary Fund (IMF) and the World Bank.
+
+By providing high quality technical assistance, education and training, we support our members to come together to achieve the following three objectives.
+
+### Enhance investor protection
+
+To enhance investor protection and promote investor confidence in the integrity of financial markets, by strengthening information exchange and cooperation in enforcement against misconduct, and in supervision of markets and market intermediaries.
+
+### Ensure markets are fair and efficient
+
+To ensure market structures do not unduly favour some users over others and that investors are given fair and transparent access to market facilities or price information on a real-time basis.
+
+### Promote financial stability by reducing systemic risk
+
+To promote and allow for the effective management of risk and ensure that capital requirements are sufficient to address appropriate risk taking and allow for the absorption of some losses. During periods of instability, to facilitate the rapid and accurate exchange of information across jurisdictions to minimise failures or the impact of that failure at an international level.
+
+These objectives are formally set out in our [By-Laws](/about/?subsection=by-laws).
+
+## 
+
+## Our History
+
+IOSCO was created in 1983, when 11 securities regulatory agencies from North and South America agreed to build their inter-American regional association into an international cooperative body. A year later, securities regulators from France, Indonesia, Korea and the United Kingdom become the first non-American agencies to join the new organization. In July 1986, IOSCO held its annual conference in Paris, the first outside the Americas and where members agreed to create a permanent General Secretariat.
+
+In 1987, the Government of Québec helped incorporate IOSCO as a not-for-profit legal entity under a private act in Québec, sanctioned by the Québec National Assembly. The same year IOSCO established the first Secretariat in Montreal and named Mr. Paul Guy, President of the CVMQ (the Quebec Securities Commission that would become the Autorité des marchés fianciers in 2004), as its first Secretary General. The Secretariat remained in Montreal until 1999 when it was then moved to Madrid.
+
+In 1998 IOSCO adopted a comprehensive set of [Objectives and Principles of Securities Regulation](/library/pubdocs/pdf/IOSCOPD561.pdf) (IOSCO Principles), now recognized as the international regulatory benchmarks for all securities markets. In 2003 the organization endorsed a comprehensive methodology ([IOSCO Principles Assessment Methodology](/library/pubdocs/pdf/IOSCOPD562.pdf)). IOSCO employs this methodology to conduct an objective assessment of the level of implementation of the IOSCO Principles in members' jurisdictions and to help develop practical action plans to correct identified deficiencies.
+
+In 2002, IOSCO adopted a [Multilateral Memorandum of Understanding Concerning Consultation and Cooperation and the Exchange of Information](/library/pubdocs/pdf/IOSCOPD386.pdf) (IOSCO MMoU), which was designed to facilitate cross-border enforcement and exchange of information among international securities regulators.
+
+In 2005, IOSCO endorsed the IOSCO MMoU as the benchmark for international cooperation among securities regulators, and laid down a clear strategy and the objectives for expanding the network of IOSCO MMoU signatories by 2010. A top priority for IOSCO is for its members to achieve the effective implementation of the IOSCO Principles and the MMoU, thereby facilitating cross-border cooperation, mitigating global systemic risk, protecting investors and ensuring fair and efficient securities markets.
+
+## Our Organizational Structure
+
+IOSCO is a standard setting body with more than 200 members from over 130 jurisdictions, representing 99% of the worlds financial markets regulators.
+
+It is governed by a [Board](/about/?subsection=display_committee&cmtid=11) which comprises 35 regulators and which sets the Work Program of IOSCO in support of its members. The Chair of the IOSCO Board is Jean-Paul Servais. The Board oversees the establishment of principles and standards, formally developed by Board-level task forces and policy committees.
+
+The [Presidents Committee](/about/?subsection=display_committee&cmtid=1) comprises all the Chairs (or Presidents) of our Ordinary and Associate members, which total 165. It meets once a year in person during the Annual Meeting.
+
+There are a number of additional committees which support the work of IOSCO.
+
+The [Growth and Emerging Markets (GEM) Committee](/about/?subsection=display_committee&cmtid=8). This is the largest Committee within IOSCO, representing over 75% of IOSCO's ordinary membership. The Committee seeks to promote the development and greater efficiency of emerging securities and futures markets by establishing principles and minimum standards, providing training programs and technical assistance for members and facilitating the exchange of information and transfer of technology and expertise.
+
+Our four Regional Committees: [Africa / Middle-East Regional Committee](/about/?subsection=display_committee&cmtid=7), [Asia-Pacific Regional Committee](/about/?subsection=display_committee&cmtid=6), [European Regional Committee](/about/?subsection=display_committee&cmtid=4) and [Inter-American Regional Committee](/about/?subsection=display_committee&cmtid=9) provide a forum for the exchange of ideas and best practice at a regional level, helping us to learn constantly from each others' experience.
+
+Our [Affiliate Members Consultative Committee (AMCC)](/v2/about/?subsection=display_committee&cmtid=2), made up of self-regulatory organizations and representatives from the private sector such as exchanges, and trade associations, provide an additional perspective into the work we do.
+
+A number of networks ensure that we support each other in becoming effective regulators.
+
+It is the function of the [General Secretariat](/v2/about/?subsection=gs) to deliver on the Work Program set out by the Board.
+
+## Our Workplan
+
+Read our 2026 [Work Program](/library/pubdocs/pdf/IOSCOPD813.pdf)
+
+## Our Members
+
+There are three categories of members: ordinary, associate and affiliate. In general, the ordinary members (134) are the national securities commissions or similar governmental bodies with significant authority over securities or derivatives markets in their respective jurisdictions.
+
+Associate members (33) are usually supranational governmental regulators, subnational governmental regulators, intergovernmental international organizations and other international standard-setting bodies, as well as other governmental bodies with an appropriate interest in securities regulation.
+
+Affiliate members (77) are self-regulatory organizations, securities exchanges, financial market infrastructures, international bodies other than governmental organizations with an appropriate interest in securities regulation, investor protection funds and compensation funds, and other bodies with an appropriate interest in securities regulation.
+
+The full member list can be found [here](/v2/about/?subsection=membership&memid=1).
+
+## MMoU
+
+The Multilateral Memorandum of Understanding Concerning Consultation and Cooperation and the Exchange of Information (MMoU) sets an international benchmark for cross-border cooperation. Established in 2002, it provides securities regulators with the tools for combating cross-border fraud and misconduct that can weaken global markets and undermine investor confidence.
+
+Find out more [here](/v2/about/?subsection=mmou).
+
+## IOSCO Whistleblowing Channel
+
+**WHAT IS THE WHISTLEBLOWING CHANNEL?**
+
+It is an IT platform managed by an external provider who has been designated as the Channel Manager in coordination with the person designated by the IOSCO General Secretariat as the System Supervisor (HR).
+
+**WHAT IT IS FOR?**
+
+It allows you to communicate, even anonymously, any irregularity of which you are aware while performing your professional duties. It is not the proper channel to communicate complaints, suggestions or claims of a labor nature (promotion, salary, etc.), but it is the appropriate and suitable way to communicate potential situations of criminal relevance, serious or very serious administrative infractions, health and safety at work issues, and all those included in art. 2.1 of the Whistleblower Protection Law1. Likewise, you may report any violation of IOSCO's internal regulations or that may generate liability for IOSCO.
+
+**WHAT PROTECTION MEASURES ARE THERE FOR WHISTLEBLOWERS?**
+
+Your personal data and the content of the communication will be made exclusively known only to the external provider, the System Supervisor (HR) and the personnel essential to the investigation of the facts. All communications will be analyzed in a strictly confidential, objective and impartial manner. When you report facts or actions to the Channel in good faith, **you will not be subject to retaliation or suffer any other adverse consequence for such reporting**.
+
+**HOW SHOULD I FILE A COMMUNICATION?**
+
+You may use the Channel at any time from any computer or mobile device.
+
+Communications that deliberately falsely attribute behaviors or actions to any person or are used for purposes other than those of the Channel may result in disciplinary action. **Generic or indeterminate complaints, or those lacking sufficient elements for investigation, will not be admitted**.
+
+![](/about/images/iosco-whistleblower-chanel/IOSCO I QR.jpg "Whistleblower Submission")
+  
+[Whistleblower Submission](https://centinela.lefebvre.es/public/concept/2143573?access=0YpVrzOwzZzCVgjEUN8JOZGXUMqUGBLz6TIVwADScLo%3d)
+
+---
+
+1 <https://www.boe.es/buscar/act.php?id=BOE-A-2023-4513>
+
+[I-SCAN](/i-scan/)
+
+Investor Warning / 3 August 2026
+
+[Impersonation of Aura Capital Pty Ltd (aucapital-mgmt.com)
+  
+Australian Securities and Investments Commission - Australia](/i-scan/?id=55712)
+
+[learn more](/i-scan/)
+
+[I-SCAN](/i-scan/)
+
+Investor Warning / 3 August 2026
+
+[Bedrock Monvex (wanderzonel.info)
+  
+Australian Securities and Investments Commission - Australia](/i-scan/?id=55710)
+
+[learn more](/i-scan/)
+
+[I-SCAN](/i-scan/)
+
+Investor Warning / 31 July 2026
+
+[Sync-digital.co
+  
+Financial Conduct Authority - United Kingdom](/i-scan/?id=55655)
+
+[learn more](/i-scan/)
+
+[I-SCAN](/i-scan/)
+
+Investor Warning / 31 July 2026
+
+[EURO PACIFIC SECURITIES, INC
+  
+British Virgin Islands Financial Services Commission - British Virgin Islands](/i-scan/?id=55650)
+
+[learn more](/i-scan/)
+
+[I-SCAN](/i-scan/)
+
+Investor Warning / 3 August 2026
+
+[EWC IMPERIAL CAPITAL LTD.
+  
+British Virgin Islands Financial Services Commission - British Virgin Islands](/i-scan/?id=55645)
+
+[learn more](/i-scan/)
+
+Previous
+
+Next
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 22 July 2026
+
+[IOSCO announces themes of the 10th edition of World Investor Week](/news/pdf/IOSCONEWS801.pdf?v=4)
+
+News / 18 June 2026
+
+[IOSCO publishes Report on Supervisory Technology (SupTech)](/news/pdf/IOSCONEWS800.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 22 July 2026
+
+[IOSCO announces themes of the 10th edition of World Investor Week](/news/pdf/IOSCONEWS801.pdf?v=4)
+
+News / 18 June 2026
+
+[IOSCO publishes Report on Supervisory Technology (SupTech)](/news/pdf/IOSCONEWS800.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 22 July 2026
+
+[IOSCO announces themes of the 10th edition of World Investor Week](/news/pdf/IOSCONEWS801.pdf?v=4)
+
+News / 18 June 2026
+
+[IOSCO publishes Report on Supervisory Technology (SupTech)](/news/pdf/IOSCONEWS800.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 22 July 2026
+
+[IOSCO announces themes of the 10th edition of World Investor Week](/news/pdf/IOSCONEWS801.pdf?v=4)
+
+News / 18 June 2026
+
+[IOSCO publishes Report on Supervisory Technology (SupTech)](/news/pdf/IOSCONEWS800.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 22 July 2026
+
+[IOSCO announces themes of the 10th edition of World Investor Week](/news/pdf/IOSCONEWS801.pdf?v=4)
+
+News / 18 June 2026
+
+[IOSCO publishes Report on Supervisory Technology (SupTech)](/news/pdf/IOSCONEWS800.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 16 June 2026
+
+[Monitoring Group Invites Applications to the Public Interest Oversight Board](/news/pdf/IOSCONEWS799.pdf?v=4)
+
+News / 8 June 2026
+
+[IOSCO publishes Recommendations for Secondary Market Disclosure](/news/pdf/IOSCONEWS798.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 16 June 2026
+
+[Monitoring Group Invites Applications to the Public Interest Oversight Board](/news/pdf/IOSCONEWS799.pdf?v=4)
+
+News / 8 June 2026
+
+[IOSCO publishes Recommendations for Secondary Market Disclosure](/news/pdf/IOSCONEWS798.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 16 June 2026
+
+[Monitoring Group Invites Applications to the Public Interest Oversight Board](/news/pdf/IOSCONEWS799.pdf?v=4)
+
+News / 8 June 2026
+
+[IOSCO publishes Recommendations for Secondary Market Disclosure](/news/pdf/IOSCONEWS798.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 16 June 2026
+
+[Monitoring Group Invites Applications to the Public Interest Oversight Board](/news/pdf/IOSCONEWS799.pdf?v=4)
+
+News / 8 June 2026
+
+[IOSCO publishes Recommendations for Secondary Market Disclosure](/news/pdf/IOSCONEWS798.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 16 June 2026
+
+[Monitoring Group Invites Applications to the Public Interest Oversight Board](/news/pdf/IOSCONEWS799.pdf?v=4)
+
+News / 8 June 2026
+
+[IOSCO publishes Recommendations for Secondary Market Disclosure](/news/pdf/IOSCONEWS798.pdf?v=4)
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 1 June 2026
+
+[IOSCO publishes Final Report on Valuing Collective Investment Schemes, strengthening global standards for fund valuation](/news/pdf/IOSCONEWS797.pdf?v=4)
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 1 June 2026
+
+[IOSCO publishes Final Report on Valuing Collective Investment Schemes, strengthening global standards for fund valuation](/news/pdf/IOSCONEWS797.pdf?v=4)
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 1 June 2026
+
+[IOSCO publishes Final Report on Valuing Collective Investment Schemes, strengthening global standards for fund valuation](/news/pdf/IOSCONEWS797.pdf?v=4)
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 1 June 2026
+
+[IOSCO publishes Final Report on Valuing Collective Investment Schemes, strengthening global standards for fund valuation](/news/pdf/IOSCONEWS797.pdf?v=4)
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News / 1 June 2026
+
+[IOSCO publishes Final Report on Valuing Collective Investment Schemes, strengthening global standards for fund valuation](/news/pdf/IOSCONEWS797.pdf?v=4)
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+[Latest News](/media_room/?subsection=media_releases)
+
+News /
+
+News /
+
+Working@IOSCO
+
+[learn more](/v2/about/?subsection=working-at-iosco)
+
+[live vacancies](/v2/about/?subsection=vacancies)
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

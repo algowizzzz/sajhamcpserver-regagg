@@ -1,0 +1,26 @@
+# Contract Opportunities
+
+FinCEN procures goods and services using a variety of methods outlined in the Federal Acquisition Regulation (FAR). These methods include, but are not limited to: micro-purchases, simplified acquisitions, delivery orders, contracts, blanket purchase agreements (BPAs), and Government-wide acquisition contracts (GWACs).
+
+Acquisitions with a dollar value greater than $25,000 will be advertised in the System for Award Management (SAM) at [www.sam.gov](https://www.sam.gov). Vendors wishing to do business with FinCEN are encouraged to check [www.sam.gov](https://www.sam.gov) regularly for such opportunities. Prospective vendors wanting to do business with FinCEN are required to register in SAM. Federal contracts may not be awarded to vendors who are not registered in SAM.
+
+In addition, FinCEN is interested in learning of new and innovative ideas or approaches that may help the Bureau in accomplishing its mission. Vendors may consult Subpart 15.6 of the FAR, which offers general information and guidance regarding unsolicited proposals. Also, FinCEN maintains a file of business information provided by potential contractors. If you would like to send materials supporting your business’s qualifications, please send them to: Acquisition Management, ATTN: Supervisory Acquisitions Operations Specialist, Financial Crimes Enforcement Network, PO Box 39, Vienna, VA 22183.
+
+* [About FinCEN](/about-fincen)
+* [Mission](/about-fincen/mission)
+* [What We Do](/about-fincen/what-we-do)
+* [Insignia](/about-fincen/insignia)
+* [EEO](/about-fincen/equal-employment-opportunity)
+* [Contract Opportunities](/about-fincen/contract-opportunities)
+* [FinCEN Year In Review](/about-fincen/fincen-year-review)
+
+Header
+
+QUICK LINKS
+
+* [Bureau of the Fiscal Service (treasury.gov)](https://www.fiscal.treasury.gov)
+* [Central Contractor Registry](https://uscontractorregistration.com/)
+* [Federal Acquisition Regulation](https://www.acquisition.gov/far/)
+* [SAM.gov | Contract Opportunities](https://sam.gov/content/opportunities)
+* [General Services Administration](http://www.gsa.gov)
+* [Chapter X Main Page](/resources/statutes-regulations/chapter-x)

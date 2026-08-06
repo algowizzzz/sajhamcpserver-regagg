@@ -1,0 +1,28 @@
+# Accessibilité
+
+L'objectif de la Loi canadienne sur l'accessibilité est de parvenir à un Canada sans obstacles d'ici 2040. Elle exige des organisations qu'elles identifient, éliminent et préviennent de manière proactive les obstacles à l'accessibilité là où les Canadiens interagissent avec les domaines de compétence fédérale, qu'ils soient internes ou externes à une organisation.
+
+Pour CANAFE, notre objectif est d'être un modèle d'accessibilité en incarnant l'accessibilité, en l'adoptant comme valeur fondamentale de notre culture organisationnelle, et en donnant l'exemple.
+
+[Plan d'action sur l'accessibilité](action-fra)
+
+Jetez un coup d'œil à notre plan qui définit comment nous allons identifier, supprimer et prévenir les obstacles à l'accessibilité dans tout ce que nous faisons.
+
+[Rapport d'étape annuel sur l'accessibilité](2024-fra)
+
+Découvrez les progrès que nous avons réalisés et la rétroaction que nous avons reçue.
+
+[Donnez votre avis](feedback-avis-fra)
+
+Nous voulons avoir votre avis. Faites-nous part de vos réflexions sur l'accessibilité à CANAFE.
+
+[Demander des formats de rechange](formats-fra)
+
+Découvrez comment demander des documents dans des formats de rechange, tels que des documents imprimés, en braille, audio ou électroniques.
+
+## Lien relié
+
+* [Loi canadienne sur l'accessibilité](https://laws-lois.justice.gc.ca/fra/lois/a-0.6/)
+
+Date de modification :
+:   2024-12-20

@@ -1,0 +1,24 @@
+{
+  "doc_id": "31c7d3603d687de2",
+  "regulator_id": "boc",
+  "doc_type": "announcement",
+  "title": "Interest Rate Announcement and Monetary Policy Report",
+  "language": "en",
+  "source_url": "https://www.bankofcanada.ca/2026/10/interest-rate-announcement-and-monetary-policy-report-october-28-2026/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ab7cb4429590af8b5258a8a7f5d006a71000131b9fbe40059d841d19e8e9d292",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boc/current/announcement/2026/31c7d3603d687de2",
+  "tags": [
+    "canada",
+    "central_bank"
+  ]
+}

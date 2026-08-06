@@ -1,0 +1,25 @@
+{
+  "doc_id": "51088cc32d3acede",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Relev\u00e9 des normes de fonds propres de B\u00e2le (RNFPB) FAQ \u2013 Sp\u00e9cifications techniques | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-normes-fonds-propres-bale-rnfpb-faq-specifications-techniques",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:140f279876393b5d661fde198104fe7624fc5e507d0cd2e3a91bb8f620431425",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/51088cc32d3acede",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

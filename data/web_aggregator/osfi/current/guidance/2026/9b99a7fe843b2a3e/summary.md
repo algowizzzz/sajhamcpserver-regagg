@@ -1,0 +1,1 @@
+Summary: # Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20

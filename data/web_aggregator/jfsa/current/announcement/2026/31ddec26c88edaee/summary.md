@@ -1,0 +1,1 @@
+Summary: (※¹)資金決済に関する法律（平成二十一年法律第五十九号）/资金结算法（2009年法律第五十九号）https://elaws.e-gov.go.jp/document?lawid=421AC0000000059English: Payment Services Act  （Act No. 59 of 2009 ）https://www.japaneselawtranslation.go.jp/ja/laws/view/4477(※²)外国会社の登記の申請手続等について外国会社の登記についての詳細は、以下の法務省ホームページを参照してください。日本語版：h

@@ -1,0 +1,1 @@
+Summary: # Relevé des valeurs mobilières détenues - Règles de validation détaillées

@@ -1,0 +1,19 @@
+# Programme de perfectionnement des agents de la réglementation
+
+Grâce à notre programme de perfectionnement, les nouveaux diplômés et les nouvelles diplômées pourront se familiariser avec la réglementation du secteur des services financiers au Canada.
+
+Ce programme de 24 mois vous permettra de :
+
+* découvrir notre cadre réglementaire
+* perfectionner vos compétences analytiques et en leadership
+* comprendre nos stratégies, nos systèmes et nos pratiques organisationnelles
+* enrichir vos connaissances des lois et règlements du secteur financier
+* améliorer vos compétences de gestion de projet et de présentation d’exposés
+* mettre en pratique vos compétences d’analyse financière
+
+Consultez les offres d’emplois sur [Emplois GC](https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page2440?tab=2&department=119&toggleLanguage=fr).
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-06-08

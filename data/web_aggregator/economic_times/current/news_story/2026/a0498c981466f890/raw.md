@@ -1,0 +1,7 @@
+# SpaceX draws retail investors despite fall in shares post earnings
+
+Retail investors bought SpaceX shares on Wednesday after a significant price drop.  Individual traders purchased over twenty-two million dollars worth of stock.  This buying activity followed the company's first earnings report since its public debut.  SpaceX shares experienced a notable decline, falling below one hundred ten dollars.  The company reported increased AI revenue and new cloud agreements.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-draws-retail-investors-despite-fall-in-shares-post-earnings/articleshow/132956840.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

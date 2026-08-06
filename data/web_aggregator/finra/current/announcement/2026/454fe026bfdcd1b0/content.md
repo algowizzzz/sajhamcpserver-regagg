@@ -1,0 +1,42 @@
+# Safeguard Your Identity
+
+Identity theft occurs when someone obtains your personal information and uses it to take your money or to commit fraud or other crimes. It's much more than an inconvenience—it can devastate your credit rating and derail financial security. Here's how you can protect yourself.
+
+## Tips for Protecting Your Information
+
+Although your brokerage firm is required to safeguard your data, you also have a key role to play in protecting your personal financial information. Be alert to [phishing scams](/investors/insights/phishing-scams) and other attempts designed to steal your personal information, and don't click on suspicious links or provide your account information to third parties. Create strong, unique passwords for each of your financial accounts, and keep any device that you use to access those accounts secure. When it comes time to discard financial documents, shred them rather than just throwing them away.
+
+Be mindful where and how you access your financial accounts. If possible, avoid using public computers or devices that aren't yours to access your financial accounts. Public computers might contain software that captures passwords and PINs, which can allow others to access your private information. Public Wi-Fi also has risks. Many public hotspots, such as wireless networks in airports, hotels and restaurants, reduce their security settings so it's easier for individuals to access these networks. However, this also increases the possibility that someone could intercept your information.
+
+While there are no guarantees about avoiding identity theft, it's important to practice the three Ds:
+
+* **DETER** identity thieves by safeguarding your information.
+* **DETECT** suspicious activity by routinely monitoring your financial accounts and billing statements.
+* **DEFEND** against identity theft as soon as you suspect a problem by reporting your concerns and securing your online accounts.
+
+Read more tips for [securing your financial accounts](/investors/insights/customer-account-takeovers), and use our [checklist](/investors/protect-your-money/safeguard-your-identity/identity-theft-prevention-checklist) to help prevent identity theft.
+
+The Federal Trade Commission's [Identify Theft (opens in new tab)](https://consumer.ftc.gov/identity-theft-and-online-security/identity-theft) site features information and resources to protect yourself or prevent further misuse of your personal information if your identity is compromised. If you've accidentally lost personal information or learned your information was exposed in a data breach, the FTC offers [steps to take (opens in new tab)](https://www.identitytheft.gov/Info-Lost-or-Stolen) to monitor and safeguard your information.
+
+## When Should I Reveal My Social Security Number?
+
+Not every request for your Social Security number is an effort to steal your identity, but not every request is mandatory. For instance, many patient forms at doctor's offices ask for your Social Security number and don't indicate this is often an optional field. If it's not required, don't provide it! In general, you'll need to provide your SSN to:
+
+* **Employers** for wage and tax reporting purposes.
+* **Financial institutions**, such as banks or brokerage firms, for tax reporting purposes.
+* **Banks, credit card issuers or other lenders** if you apply for a loan or new credit card.
+* **Landlords or utility providers** (such as a power company) for a credit check.
+* **Government agencies** to obtain services and to file your taxes.
+* **Credit reporting agencies**—[Equifax (opens in new tab)](https://www.equifax.com/), [Experian (opens in new tab)](https://www.experian.com/) or [TransUnion (opens in new tab)](https://www.transunion.com/)—or [AnnualCreditReport.com (opens in new tab)](https://www.annualcreditreport.com/) to obtain your credit report or credit score.
+
+Asking the following questions can help you decide whether to reveal your SSN:
+
+* Why do you need my SSN?
+* Will you accept a different form of identification (such as a telephone number, driver's license or passport)?
+* How will you use my SSN?
+* How do you protect my SSN and other information from being stolen or misused?
+* What will happen if I don't provide my SSN?
+
+## Additional Resources
+
+Learn more from the [Social Security Administration (opens in new tab)](https://www.ssa.gov/pubs/EN-05-10064.pdf) (SSA) and the [Securities and Exchange Commission (opens in new tab)](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/investor-59) (SEC) about identity theft, data breaches and your investment accounts.

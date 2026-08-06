@@ -1,0 +1,1 @@
+Summary: # North Vector Dynamics Receives Strategic Investment from Leading European Industrial Defence Group CSG

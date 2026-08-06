@@ -1,0 +1,1 @@
+Summary: # Administrative monetary penalty on Masters Realty (2000) Ltd.

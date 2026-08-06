@@ -1,0 +1,28 @@
+The insurance broker has agreed to stop carrying out any regulated activity. This means it can't provide any services on behalf of an insurer.
+
+From 9 July 2026, the insurance broker Anthony Jones (UK) Limited (AJL) agreed to stop carrying out any regulated activity.
+
+This means that AJL cannot provide any services on behalf of an insurer, including selling new insurance policies, offering renewals, or providing any advice to new or existing consumers.
+
+If you purchased an insurance policy through AJL, please contact the underwriter or insurer directly to check whether your policy is valid and your cover remains in place.
+
+These [requirements](https://register.fca.org.uk/s/firm?id=001b000000MfTKkAAN) remain in force while we continue engaging with the firm.
+
+## Next steps for customers
+
+Anthony Jones (UK) Limited acts as an insurance intermediary and is not itself an insurer or underwriter.
+
+Please contact the insurer or underwriter named on your policy documentation to:
+
+* Confirm whether your insurance policy is valid.
+* Check that any payments you have made have been received by your insurer.
+
+Details of the relevant insurer or underwriter can be found in your policy documentation, including your policy schedule and policy terms and conditions.
+
+## Complaints
+
+If you are unhappy with the service provided by AJL, you should complain directly to the firm. The firm’s details are on the [FCA Firm Checker](https://www.fca.org.uk/consumers/fca-firm-checker).
+
+If you remain unhappy with the outcome of your complaint, or if you do not receive a response within 8 weeks, you can refer your complaint to the [Financial Ombudsman Service](https://www.financial-ombudsman.org.uk/).
+
+Find out more about [how to complain](/consumers/how-complain "How to complain").

@@ -1,0 +1,1623 @@
+<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="fr" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<html class="no-js" lang="fr" dir="ltr">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <!-- Version 17.1.1 Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+	<title>Module 2 Spécifications pour les déclarations d'opérations douteuses</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta name="description" content="Définit le format et les spécifications pour la transmission de déclarations par lots à CANAFE ">
+    <meta name="dcterms.title" content="Module 2 Spécifications pour les déclarations d'opérations douteuses | CANAFE – Canada.ca  ">
+    <meta name="dcterms.creator" content="Gouvernement du Canada, Centre d'analyse des opérations et déclarations financières du Canada">
+    <meta name="dcterms.issued" title="W3CDTF" content="2014-05-31">
+    <meta name="dcterms.modified" title="W3CDTF" content="2021-01-22">
+    <meta name="dcterms.subject" title="scheme"  content="Rapport, spécification, système, instructions, technologie de l'information, programmation">
+    <meta name="dcterms.language" title="ISO639-2"  content="fra">
+
+	<link href="/theme-wet10/gcweb/assets/favicon.ico" rel="icon" type="image/x-icon">
+	<!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">-->
+	<link rel="stylesheet" href="/theme-wet10/gcweb/css/wet-boew.min.css">
+
+	<link rel="stylesheet" href="/theme-wet10/GCWeb/css/theme.min.css">
+    <link rel="stylesheet" href="/scripts/css/fintrac.css">
+	
+	<!--InvitationManager Files -->
+	<link rel="stylesheet" href="/invitation-manager/Overlay.css">
+	<!-- End InvitationManager Files -->
+
+<noscript><link rel="stylesheet" href="/theme-wet10/wet-boew/css/noscript.min.css" /></noscript>
+
+	  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P63QM5N0BY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-P63QM5N0BY');
+  </script>
+
+	</head>
+<body vocab="http://schema.org/" typeof="WebPage">
+
+
+<nav id='nav'>
+<ul id="wb-tphp">
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-cont">Passer au contenu principal</a>
+</li>
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-info">Passer à Au sujet du gouvernement</a>
+</li>
+</ul>
+</nav>
+
+
+<header>
+<div id="wb-bnr" class="container">
+<div class="row">
+<section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+<h2 class="wb-inv">Sélection de la langue</h2>
+<ul class="list-inline mrgn-bttm-0">
+<li>
+<!-- Check this -->
+<a lang="en" hreflang="en"  href="/reporting-declaration/batch-lots/mod2-fra.php">
+<span class="hidden-xs">English</span><abbr title="English" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">en</abbr></a>
+</li>
+</ul>
+</section>
+<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" resource="#wb-publisher" typeof="GovernmentOrganization">
+
+
+<a href="https://www.canada.ca/fr.html" property="url"><img src="/theme-wet10/GCWeb/assets/sig-blk-en.svg" alt="Gouvernement du Canada" property="logo"><span class="wb-inv"> / <span lang="en">Government of Canada</span></span></a>
+<meta property="name" content="Gouvernement du Canada">
+<meta property="areaServed" typeof="Country" content="Canada">
+<link property="logo" href="/theme-wet10/GCWeb/assets/wmms-blk.svg">
+</div>
+<section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+<h2>Recherche</h2>
+<form action="https://www.canada.ca/fr/analyse-operations-declarations-financieres/rechercher.html" method="get" name="cse-search-box" role="search">
+<div class="form-group wb-srch-qry">
+<label for="wb-srch-q" class="wb-inv">Recherche sur le site de CANAFE</label>
+<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Recherche sur le site de CANAFE">
+<datalist id="wb-srch-q-ac">
+</datalist>
+</div>
+<div class="form-group submit">
+<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
+</div>
+</form>
+</section>
+</div>
+</div>
+
+
+	<nav class="gcweb-menu" typeof="SiteNavigationElement">
+	<div class="container">
+	<h2 class="wb-inv">Menu</h2>
+	<button type="button" aria-haspopup="true" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+	<ul role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/emplois.html">Emplois et milieu de travail</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+	<li role="presentation"><a role="menuitem" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+	<li role="presentation"><a role="menuitem" href="https://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+	</ul>
+	</div>
+	</nav>
+	
+
+<nav id="wb-bc" property="breadcrumb">
+<h2>Vous êtes ici :</h2>
+<div class="container">
+<ol class="breadcrumb">
+<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a> </li><li><a href='/intro-fra'>CANAFE</a> </li><li><a href='/reporting-declaration/electron-fra'>Méthodes de déclaration à CANAFE</a> </li><li><a href='/reporting-declaration/info/f2r-eng'>Système de déclaration en ligne de CANAFE</a> </li></ol>
+</div>
+</nav>
+</header>
+<main property="mainContentOfPage" resource="#wb-main" class="container" typeof="WebPageElement"><h1  id="wb-cont" property="name">Module 2 Spécifications pour les déclarations d'opérations douteuses</h1>
+<p>Version 4.2.2</p>
+<p>Présente les spécifications ayant trait aux déclarations d'opérations douteuses (DOD) </p>
+<h2>5.2.1  Configuration détaillée (format de la version 04) – Déclaration d'opérations douteuses&nbsp;(DOD)</h2>
+<p>Les spécifications suivantes définissent le format à utiliser pour les déclarations d'opérations douteuses (DOD) comprises dans les lots, et sont fondées sur le format pour la transmission de la version « 04 ».</p>
+<p>Les modifications apportées à ce module sont uniquement des révisions éditoriales. Il n'y a aucune modification législative ou de format. </p>
+<p>Il n'est pas nécessaire d'inclure les parties de la déclaration qui ne s'appliquent pas. Cependant, tous les champs compris dans les parties que vous soumettez doivent être remplis, à moins que vous ne supprimiez une déclaration (comme l'explique la section 3.4 et la partie A plus bas). Les champs d'une partie requise qui ne contiennent aucune donnée doivent être garnis d'espaces ou de zéros, selon le format établi pour le champ en question. Pour de plus amples renseignements sur les champs d'une DOD, reportez-vous à la <a href="/guidance-directives/guidance-directives-fra#s3">directive sur les déclarations d’opérations douteuses</a>.</p>
+<p>La configuration de chaque DOD sera la suivante, toutes les parties s'appliquant à une même opération étant présentées ensemble&nbsp;:    </p>
+<ul class="listSpace">
+  <li>Partie A;</li>
+  <li>Opération 1; </li>
+  <li>Opération 2, etc. (s'il est nécessaire d'inclure plus d'une opération dans la déclaration);</li>
+  <li>Partie G;</li>
+  <li>Partie H (si cette partie s'applique). </li>
+</ul>
+<p>Pour les parties de chaque opération incluses dans vos DOD, vous pouvez choisir l'une ou l'autre des configurations suivantes&nbsp;:</p>
+<ul class="listSpace">
+  <li>les parties B1, B2 et D ainsi que celles des parties C, E ou F qui s'appliquent;</li>
+  <li>les parties B1 et B2, la partie C si elle s'applique, la partie E ou F si elle s'applique, ainsi que la partie D.</li>
+</ul>
+<p>Remarque&nbsp;: La valeur «&nbsp;STR&nbsp;» dans l'entête de lot sert à indiquer que le lot renferme des DOD.</p>
+<table class="table table-bordered">
+  <caption class="text-left">
+  <p><strong>Partie A :</strong> <strong>Renseignements sur l'établissement où l'opération a été effectuée </strong><br>
+    Cette partie sert à donner des renseignements sur l'entité déclarante qui doit déclarer l'opération à CANAFE. Cette partie sert aussi à donner des renseignements sur l'emplacement où l'opération ou la tentative a été effectuée. Pour obtenir de plus amples renseignements sur les personnes et les entités qui répondent à la définition d'«&nbsp;entité déclarante&nbsp;», consultez la série de lignes directrices publiées par CANAFE pour expliquer les exigences en matière de déclaration et les autres obligations des entités déclarantes. <br>
+    Si vous avez plusieurs bureaux ou succursales, les renseignements inclus dans cette partie doivent porter sur le bureau ou la succursale où l'opération ou la tentative a été effectuée. Les opérations ou les tentatives qui ont eu lieu dans des succursales ou des bureaux différents doivent faire l'objet de déclarations distinctes.</p>
+  </caption>
+  <tr  class="active">
+    <th scope="col">Champ&nbsp;no</th>
+    <th scope="col">Nom du champ</th>
+    <th scope="col">Format</th>
+    <th scope="col">Commentaires</th>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Identificateur de la partie </p></td>
+    <td><p>X(2)</p></td>
+    <td><p>«&nbsp;A1&nbsp;»</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro séquentiel de la déclaration</p></td>
+    <td><p>9(5)RJZ</p></td>
+    <td><p>Numéro séquentiel de la déclaration regroupée sous le sous-en-tête qui précède.</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro de référence de la déclaration de l'entité déclarante</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Il faut assigner un numéro de référence distinct pour chaque déclaration transmise par la même entité déclarante à CANAFE.<br>
+        Si vous vous servez de F2R pour modifier cette déclaration tel qu'expliqué à la section 3.4.2, ce numéro de référence se trouve au champ 6A dans l'écran de la partie A. </p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Code d'action</p></td>
+    <td><p>X(1)</p></td>
+    <td><p>Si vous présentez un nouveau lot (catégorie de lot «&nbsp;A&nbsp;»), inscrivez «&nbsp;A&nbsp;» afin d'indiquer qu'il n'existe aucun changement ou suppression, car c'est une nouvelle déclaration.<br>
+        Si vous présentez un lot de corrections (catégorie de lot «&nbsp;C&nbsp;»), indiquez si cette déclaration doit être modifiée ou supprimée du lot déjà accepté.<br>
+        Pour <strong>modifier</strong> une déclaration, utilisez le code d'action «&nbsp;C&nbsp;» et remplissez le reste de la déclaration.<br>
+        Pour <strong>supprimer</strong> une déclaration, utilisez le code d'action «&nbsp;D&nbsp;». Après avoir donné votre numéro d'identification d'entité déclarante au champ A1, délimitez immédiatement cette déclaration avec &lt;CRLF&gt; (retour chariot suivi d'un saut de ligne). Passez à la déclaration suivante ou à la fin de lot, le cas échéant.</p></td>
+  </tr>
+  <tr>
+    <td><p>*1</p></td>
+    <td><p>Numéro d'identification de l'entité déclarante </p></td>
+    <td><p>9(7)RJZ</p></td>
+    <td><p>Entrez le numéro de sept chiffres qui vous a été donné par CANAFE lors de votre inscription. Plus d'information sur le sujet sera disponible auprès de votre administrateur de F2R.<br>
+        Ce champ est obligatoire. Si le champ est invalide, le lot au complet sera rejeté. </p></td>
+  </tr>
+  <tr>
+    <td><p>*1A</p></td>
+    <td><p>Numéro de l'emplacement de l'entité déclarante</p></td>
+    <td><p>X(15)LJ</p></td>
+    <td><p>Ce numéro représente de l'information sur l'emplacement où l'opération ou la tentative s'est déroulée. Les numéros d'emplacement sont donnés du processus d'inscription et conservés par votre administrateur de F2R. Pour en savoir plus à ce sujet, veuillez communiquer avec votre administrateur de F2R.<br>
+        Pour les institutions de dépôt, ce code est la partie portant sur la succursale de votre numéro de transit avec les zéros de gauche. Par exemple, le code d'emplacement pour la succursale 02831 de la banque numéro 0004 serait 02831.<br>
+        Pour d'autres types d'entités déclarantes, ce numéro sera créé et vous sera donné par CANAFE. <br>
+        Ce champ est obligatoire. S'il n'est pas valide, la déclaration sera rejetée. </p></td>
+  </tr>
+  <tr>
+    <td><p>*7</p></td>
+    <td><p>Nom de famille de la personne-ressource</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le nom de famille de la personne avec qui CANAFE peut communiquer pour obtenir des précisions sur cette déclaration.<br>
+        Ce champ est obligatoire. S'il n'est pas rempli, la déclaration sera rejetée.</p></td>
+  </tr>
+  <tr>
+    <td><p>*8</p></td>
+    <td><p>Prénom de la personne-ressource</p></td>
+    <td><p>X(15)LJ</p></td>
+    <td><p>Entrez le prénom de la personne avec qui CANAFE peut communiquer pour obtenir des précisions sur cette déclaration.<br>
+        Ce champ est obligatoire. S'il n'est pas rempli, la déclaration sera rejetée.</p></td>
+  </tr>
+  <tr>
+    <td><p>9</p></td>
+    <td><p>Autre nom/initiale de la personne-ressource</p></td>
+    <td><p>X(10)LJ</p></td>
+    <td><p>Entrez un autre nom ou l'initiale du second prénom de la personne avec qui CANAFE peut communiquer pour obtenir des précisions sur cette déclaration. </p></td>
+  </tr>
+  <tr>
+    <td><p>*10</p></td>
+    <td><p>Numéro de téléphone de la personne-ressource</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le numéro de téléphone de la personne avec qui CANAFE peut communiquer pour avoir des précisions. Indiquez le numéro du poste téléphonique au champ&nbsp;A10A, le cas échéant.<br>
+        Format 999-999-9999<br>
+        Ce champ est obligatoire. S'il n'est pas rempli, la déclaration sera rejetée.</p></td>
+  </tr>
+  <tr>
+    <td><p>10A</p></td>
+    <td><p>Numéro du poste téléphonique de la personne-ressource</p></td>
+    <td><p>9(10)RJZ</p></td>
+    <td><p>Entrez le numéro du poste téléphonique de la personne-ressource, s'il en existe un.</p></td>
+  </tr>
+  <tr>
+    <td><p>*11</p></td>
+    <td><p>Secteur d'activité de l'entité déclarante </p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code approprié pour indiquer la catégorie d'activité qui décrit le mieux l'entité déclarante et qui s'applique à l'opération faisant l'objet de la déclaration.</p>
+			
+			<dl><dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">A</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Comptable</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">B</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Banque</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">C</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Caisse populaire</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 ft-padding-bttm143">D</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Mandataire de Sa Majesté qui vend ou rachète des mandats-poste</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">E</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Casino</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">F</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Institution coopérative de crédit</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">G</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Ne s'applique plus à ce champ.</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">H</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Ne s'applique plus à ce champ.</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">I</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Représentant d'assurance-vie</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">J</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Société d'assurance-vie</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">K</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Entreprise de services monétaires</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">L</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Caisse d'épargne provinciale</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">M</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Secteur de l'immobilier</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">N</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Coopérative de crédit</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">O</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Courtier en valeurs mobilières</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">P</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Société de fiducie et/ou de prêt</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">Q</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Notaire de la Colombie-Britannique</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">R</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Négociant en pierres et métaux précieux</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">S</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Centrale de caisses de crédit</dd>
+				<dt class="col-md-2 ft-brdr">T</dt>
+				<dd class="col-md-10 ft-brdr">Coopérative de services financiers</dd>
+			</dl>
+        </div>
+      </div>
+      <p>Ce champ est obligatoire. S'il n'est pas rempli, la déclaration sera rejetée.</p></td>
+  </tr>
+  <tr>
+    <td>±12</td>
+    <td><p>Indicateur de tentative d'opération douteuse</p></td>
+    <td><p>9(1)</p></td>
+    <td><p>Si le rapport contient de l'information reliée à une transaction complétée, inscrivez «&nbsp;0&nbsp;». <br>
+        Si le rapport contient de l'information reliée à une tentative d'opération douteuse, inscrivez «&nbsp;1&nbsp;».<br>
+        Ce champ est nécessaire. S'il est invalide, la déclaration sera rejetée.<br>
+        Si vous vous servez de F2R pour modifier cette déclaration, tel qu'expliquer dans la section 3.4.2, cet indicateur se trouve au haut de l'écran de la partie A (au dessus du champ 1).</p></td>
+  </tr>
+</table>
+<p class="ft-section ft-no-margin">Total des caractères&nbsp;: 127 - Chaque déclaration DOD («&nbsp;STR&nbsp;») doit comprendre la partie A.</p>
+<table class="table table-bordered">
+  <caption class="text-left">
+  <p><strong>Partie B1 :</strong> <strong>Renseignements sur l'opération </strong><br>
+    Cette partie sert à donner des renseignements sur l'opération ou les opérations qui vous ont amené à soupçonner qu'il pourrait y avoir un lien avec le blanchiment d'argent ou le financement d'activités terroristes. Indiquez comment l'opération a été amorcée, c'est-à-dire d'où provenaient les fonds. Les renseignements sur la façon dont l'opération a été conclue, c'est-à-dire où les fonds sont allés, doivent être présentés à la partie B2. Dans le cas d'une tentative d'opération douteuse, veuillez inclure les renseignements sur la façon dont l'opération a été initiée. <br>
+    Vos soupçons peuvent être fondés sur une série d'opérations. Si c'est le cas, donnez dans cette déclaration les renseignements sur chacune des opérations ayant éveillé des soupçons. </p>
+  </caption>
+  <tr  class="active">
+    <th scope="col">Champ&nbsp;no</th>
+    <th scope="col">Nom du champ</th>
+    <th scope="col">Format</th>
+    <th scope="col">Commentaires</th>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Identificateur de la partie</p></td>
+    <td><p>X(2)</p></td>
+    <td><p>«&nbsp;B1&nbsp;»</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro séquentiel de la partie</p></td>
+    <td><p>9(2)RJZ</p></td>
+    <td><p>Numéro séquentiel de l'opération comprise dans la déclaration. Ces numéros doivent débuter à 01, mais ne pas dépasser&nbsp;99. Si vous avez plus de 99 opérations à inclure dans une déclaration, soumettez le reste dans d'autres déclarations. </p></td>
+  </tr>
+  <tr>
+    <td><p>*1</p></td>
+    <td><p>Date de l'opération</p></td>
+    <td><p>X(8)LJ</p></td>
+    <td><p>Entrez la date de l'opération importante en espèces. <br>
+        Si l'opération a eu lieu en dehors des heures normales de bureau et que vous n'êtes pas certain de la date, servez-vous de l'indicateur de dépôt de nuit au champ B3. <br>
+        Format de la date AAAAMMJJ. <br>
+        La date ne peut remonter à avant la date d'entrée en vigueur du 31 janvier, 2003 pour ce type de déclaration. Il ne peut s'agir d'une date future et cette date doit être identique ou antérieure à la date d'inscription, si une telle date est inscrite au champ B4.<br>
+        Ce champ est obligatoire, à moins que vous n'indiquiez au champ B3 qu'il s'agit d'un dépôt de nuit. <br>
+        Si vous ne fournissez pas la date de l'opération dans ce champ, vous devez fournir la date de l'inscription au champ B4.</p></td>
+  </tr>
+  <tr>
+    <td><p>2</p></td>
+    <td><p>Heure de l'opération</p></td>
+    <td><p>X(6)LJ</p></td>
+    <td><p>Entrez l'heure de l'opération importante en espèces.<br>
+        Si l'opération a eu lieu en dehors des heures normales de bureau, et vous n'êtes pas certain de l'heure, servez-vous de l'indicateur de dépôt de nuit au champ B3.<br>
+        Format de l'heure HHMMSS (si l'heure n'est pas disponible, garnir d'espaces).<br>
+        Pour ce qui est du champ B2, vous devez faire des efforts raisonnables pour le remplir.</p></td>
+  </tr>
+  <tr>
+    <td><p>*3</p></td>
+    <td><p>Indicateur de dépôt de nuit </p></td>
+    <td><p>9(1)</p></td>
+    <td><p>Si l'opération a eu lieu en dehors des heures normales de bureau, entrez «&nbsp;1&nbsp;» dans ce champ. Dans tous les autres cas, entrez «&nbsp;0&nbsp;».<br>
+        Ce champ est obligatoire, à moins que vous n'indiquiez une date d'opération au champ B1. S'il s'agit d'une tentative d'opération douteuse et qu'en raison de cela, les renseignements pour les champs B1 et B3 ne sont pas disponibles, vous pouvez garnir ces champs d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>4</p></td>
+    <td><p>Date de l'inscription</p></td>
+    <td><p>X(8)LJ</p></td>
+    <td><p>Entrez la date à laquelle l'opération a été inscrite, si elle diffère de la date de l'opération indiquée ci-dessus. Dans le cas d'une tentative d'opération douteuse, ce champ ne s'applique pas.<br>
+        Format de la date AAAAMMJJ.<br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>*5</p></td>
+    <td><p>Détail des fonds ayant servi à amorcer l'opération</p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code correspondant au genre de fonds ayant servi à amorcer l'opération. Si les choix proposés ne correspondent pas à l'opération, indiquez «&nbsp;Autre&nbsp;» et donnez des précisions au champ 5A.</p>
+			<dl><dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">A</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Encaissement</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">B</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Retrait d'un compte</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">C</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Rachat de jetons de casino</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">D</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Chèque négocié</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">E</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Télévirement reçu</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">F</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Traite bancaire négociée</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">G</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Police d'assurance-vie présentée</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">H</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Mandat négocié</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">I</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Biens immeubles</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">J</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Valeurs mobilières négociées</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">K</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Chèques de voyage négociés</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">L</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Autre</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">M</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Diamants</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">N</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Bijoux</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">O</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Métaux précieux</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">P</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Pierres précieuses (sauf diamants)</dd>
+				<dt class="col-md-2 ft-brdr">Q</dt>
+				<dd class="col-md-10 ft-brdr">Monnaie virtuelle</dd>
+			</dl>
+        </div>
+      </div>
+      <p>Ce champ est obligatoire. S'il s'agit d'une tentative d'opération douteuse et qu'en raison de cela, les renseignements pour le champ B5 ne sont pas disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>5A</p></td>
+    <td><p>Description de «&nbsp;Autre&nbsp;» </p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Donnez des précisions sur la catégorie «&nbsp;Autre&nbsp;», selon ce qui est mentionné ci-dessus. Ce champ est requis si le code «&nbsp;L&nbsp;» a été entré au champ B5.</p></td>
+  </tr>
+  <tr>
+    <td><p>*6</p></td>
+    <td><p>Montant de l'opération</p></td>
+    <td><p>X(15)d<br>
+        RJZ</p></td>
+    <td><p>Entrez le montant total des fonds visés par l'opération, y compris deux positions décimales. Il s'agit du montant total reçu pour entreprendre l'opération. Vous donnerez des détails sur ce qu'il est advenu de ces fonds (c'est-à-dire sur la ou les manières dont les fonds ont été répartis) à la partie&nbsp;B2. Si le montant n'est pas en dollars canadiens, vous n'avez pas à le convertir, mais vous devez donner les renseignements sur la devise au champ B7. <br>
+        Ce champ est obligatoire. S'il s'agit d'une tentative d'opération douteuse et qu'en raison de cela, les renseignements pour le champ B6 ne sont pas disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>*7</p></td>
+    <td><p>Devise de l'opération</p></td>
+    <td><p>X(3)LJ</p></td>
+    <td><p>Entrez le code de la devise utilisée pour l'opération, même s'il s'agit de dollars canadiens. Voir la table des codes de devises dans la documentation technique sur la page de publications au site Web de CANAFE.<br>
+        Ce champ est obligatoire. S'il s'agit d'une tentative d'opération douteuse et qu'en raison de cela, les renseignements pour le champ B7 ne sont pas disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>*8</p></td>
+    <td><p>Nom et numéro de l'autre institution ou nom de l'autre entité ou personne </p></td>
+    <td><p>X(35)LJ</p></td>
+    <td><p>Ce champ sert à donner de plus amples renseignements sur les fonds décrits au champ B5. Donnez le nom et le numéro d'identification, le cas échéant, de toute autre institution associée à l'opération ou donnez le nom de toute autre entité ou personne associée à l'opération. Si plus d'une autre personne, entité ou institution y étaient associées, donnez les renseignements qui les concernent à la partie&nbsp;G.  <br>
+        Ce champ est obligatoire s'il s'applique à l'opération. </p></td>
+  </tr>
+  <tr>
+    <td><p>*9</p></td>
+    <td><p>Numéro de compte de l'autre entité ou personne</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Ce champ sert à donner de plus amples renseignements sur les fonds décrits au champ B5. Donnez le nom et le numéro d'identification, le cas échéant, de toute autre institution associée à l'opération ou donnez le numéro de compte de toute autre entité ou personne associée à l'opération. Si plus d'une autre personne, entité ou institution y étaient associées, donnez les renseignements qui les concernent à la partie&nbsp;G.  <br>
+        Ce champ est obligatoire s'il s'applique à l'opération.</p></td>
+  </tr>
+  <tr>
+    <td><p>*10</p></td>
+    <td><p>Comment l'opération a-t-elle été effectuée?</p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code correspondant à la manière dont l'opération a été effectuée. Si les choix proposés ne correspondent pas à l'opération, indiquez « Autre » et donnez des précisions au champ B10A.</p>
+			
+			<dl><dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">A</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Succursale, bureau ou magasin</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">B</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">GAB (guichet automatique bancaire)</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">C</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Véhicule blindé</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">D</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Messager</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">E</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Poste</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">F</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Téléphone</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">G</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Autre</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 ft-padding-bttm143">H</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Dépôt de nuit (ce code doit être utilisé si « 1 » est inscrit dans le champ B3)</dd>
+				<dt class="col-md-2 ft-brdr">I</dt>
+				<dd class="col-md-10 ft-brdr">Dépôt express</dd>
+			</dl>
+        </div>
+      </div>
+      <p>Ce champ est obligatoire. S'il s'agit d'une tentative d'opération douteuse et qu'en raison de cela, les renseignements pour le champ B10 ne sont pas disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>10A</p></td>
+    <td><p>Description de «&nbsp;Autre&nbsp;»</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Donnez des précisions sur la catégorie «&nbsp;Autre&nbsp;», selon ce qui est mentionné ci-dessus.<br>
+        Ce champ est requis si le code «&nbsp;G&nbsp;» a été entré au champ B10. </p></td>
+  </tr>
+  <tr>
+    <td><p>11</p></td>
+    <td><p>Numéro d'identité de la personne ayant initialement soupçonné que l'opération était douteuse </p></td>
+    <td><p>X(15)LJ</p></td>
+    <td><p>Entrez le numéro d'identification de la personne qui, la première, a signalé l'aspect douteux de l'opération ou des opérations ayant donné lieu à la présente déclaration. Si cette personne n'a pas de numéro d'identité, garnissez ce champ d'espaces.<br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ.</p></td>
+  </tr>
+</table>
+<p class="ft-section ft-no-margin">Total des caractères&nbsp;: 167 - Chaque déclaration DOD («&nbsp;STR&nbsp;») doit comprendre la partie B1.</p>
+<table class="table table-bordered">
+  <caption class="text-left">
+  <p><strong>Partie B2 : Renseignements sur la répartition de fonds</strong> <br>
+    Cette partie sert à donner des renseignements sur la ou les manières dont l'opération s'est conclue, c'est-à-dire à indiquer où les fonds sont allés. Dans le cas d'une tentative d'opération douteuse, veuillez inclure les renseignements sur la façon dont l'opération a été initiée. <br>
+    Vous devez donner à la partie D des renseignements sur l'individu qui a effectué l'opération. Si la répartition a été faite pour le compte d'une entité (autre qu'un individu), donnez des renseignements sur cette entité tel qu'expliqué à la partie E. Si la répartition a été faite pour le compte d'un autre individu, donnez des renseignements sur cet individu tel qu'expliqué à la partie F. </p>
+  </caption>
+  <tr  class="active">
+    <th scope="col">Champ&nbsp;no</th>
+    <th scope="col">Nom du champ</th>
+    <th scope="col">Format</th>
+    <th scope="col">Commentaires</th>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Identificateur de la partie </p></td>
+    <td><p>X(2)</p></td>
+    <td><p>«&nbsp;B2&nbsp;»</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro séquentiel de la partie</p></td>
+    <td><p>9(2)RJZ</p></td>
+    <td><p>Numéro séquentiel de la répartition de fonds effectuée dans le cadre de l'opération. Ces numéros doivent débuter à 01. <br>
+        Si vous désirez entrer plus d'une répartition pour une même opération, enregistrez chaque répartition additionnelle en augmentant de «&nbsp;1&nbsp;» le numéro séquentiel de la partie après avoir fourni tous les renseignements requis pour la répartition précédente. Ne pas dépasser 30.</p></td>
+  </tr>
+  <tr>
+    <td><p>*12</p></td>
+    <td><p>Répartition des fonds</p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code approprié pour indiquer ce qu'il est advenu aux fonds en cause dans l'opération. Si les choix proposés ne correspondent pas à la répartition, indiquez «&nbsp;Autre&nbsp;» et donnez des précisions au champ B12A.</p>
+			
+				<dl>
+					<dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">A</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Dépôt dans un compte</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">B</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Télévirement transmis</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">C</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Opération de change</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">D</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat de jetons de casino</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">E</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat de traite bancaire</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">F</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat de mandat</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">G</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat de chèques de voyage</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 ft-padding-bttm143">H</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat/Dépôt police d'assurance-vie (indiquer le numéro de la police au champ B12B)</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">I</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat/Dépôt valeurs mobilières</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">J</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat/Dépôt biens immeubles</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">K</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Encaissement</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">L</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Autre</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">M</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achats de diamants</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">N</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat de bijoux</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">O</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat de métaux précieux</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">P</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Achat de pierres (sauf diamants)</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">Q</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Ajouté au portefeuille de monnaie virtuelle</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">R</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Échange en monnaie virtuelle</dd>
+				<dt class="col-md-2 ft-brdr">S</dt>
+				<dd class="col-md-10 ft-brdr">Transfert de monnaie virtuelle</dd>
+			</dl>
+			
+        </div>
+      </div>
+      <p>Ce champ est obligatoire. S'il s'agit d'une tentative d'opération douteuse et qu'en raison de cela, les renseignements pour le champ B12 ne sont pas disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>12A</p></td>
+    <td><p>Description de «&nbsp;Autre&nbsp;»</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Donnez des précisions sur la catégorie «&nbsp;Autre&nbsp;», selon ce qui est mentionné ci-dessus. <br>
+        Ce champ est requis si le code «&nbsp;L&nbsp;» a été entré au champ B12.</p></td>
+  </tr>
+  <tr>
+    <td><p>12B</p></td>
+    <td><p>Numéro de police d'assurance-vie </p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Si la répartition des fonds concerne «&nbsp;l'achat ou le dépôt d'une «&nbsp;police d'assurance-vie&nbsp;», indiquez le numéro de la police. <br>
+        Ce champ est requis si le code «&nbsp;H&nbsp;» a été entré au champ B12.</p></td>
+  </tr>
+  <tr>
+    <td><p>*13</p></td>
+    <td><p>Montant de la répartition</p></td>
+    <td><p>X(15)d<br>
+        RJZ</p></td>
+    <td><p>Entrez le montant des fonds répartis, y compris deux positions décimales. Si le montant n'est pas en dollars canadiens, vous n'avez pas à le convertir, mais vous devez donner les renseignements sur la devise au champ B14.<br>
+        Ce champ est obligatoire. S'il s'agit d'une tentative d'opération douteuse et qu'en raison de cela, les renseignements pour le champ B13 ne sont pas disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>*14</p></td>
+    <td><p>Devise de la répartition</p></td>
+    <td><p>X(3)LJ</p></td>
+    <td><p>Entrez le code de la devise utilisée pour cette répartition, même s'il s'agit de dollars canadiens. Voir la table des codes de devises dans la documentation technique sur la page de publications au site Web de CANAFE. <br>
+        Ce champ est obligatoire. S'il s'agit d'une tentative d'opération douteuse et qu'en raison de cela, les renseignements pour le champ B14 ne sont pas disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>*15</p></td>
+    <td><p>Nom et numéro de l'autre institution ou nom de l'autre entité ou personne</p></td>
+    <td><p>X(35)LJ</p></td>
+    <td><p>Ce champ sert à donner de plus amples renseignements sur les fonds décrits au champ B12. Donnez le nom et le numéro d'identification, le cas échéant de toute autre institution associée à l'opération ou donnez le nom de toute autre entité ou personne associée à la répartition. Si plus d'une autre personne, entité ou institution y étaient associées, donnez les renseignements qui les concernent à la partie&nbsp;G. Ce champ est obligatoire s'il s'applique à l'opération. </p></td>
+  </tr>
+  <tr>
+    <td><p>*16</p></td>
+    <td><p>Numéro de compte ou de police de l'autre entité ou personne</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Ce champ sert à donner de plus amples renseignements sur les fonds décrits au champ B12. Donnez le numéro de compte ou de police, le cas échéant de toute autre institution associée à l'opération ou donnez le nom de toute autre entité ou personne associée à la répartition. Si plus d'une autre personne, entité ou institution y étaient associées, donnez les renseignements qui les concernent à la partie&nbsp;G. Ce champ est obligatoire s'il s'applique à l'opération.</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong>17</p></td>
+    <td><p>Indicateur «&nbsp;Pour le compte de&nbsp;»</p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code approprié pour indiquer pour le compte de qui la  répartition de fonds a été effectuée.</p>
+			
+				<dl>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">C</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Sans objet (remplir la partie D)</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">E</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Pour le compte d'une entité (remplir les parties D et E)</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 ft-padding-bttm143">F</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Pour le compte d'un autre individu (remplir les parties D et F)</dd>
+				<dt class="col-md-2 ft-brdr ft-padding-bttm572">G</dt>
+				<dd class="col-md-10 ft-brdr">Dépôt en espèces par un employé dans le compte<strong> d'affaire</strong> de son employeur (remplir la partie D). Afin d'inclure la partie D, assurez-vous que la valeur indiquée au champ B12 de la partie B2 soit « A » et que la valeur indiquée au champ C3 soit  « B ».</dd>
+			</dl>
+         
+        </div>
+      </div>
+      <p>Ce champ est obligatoire. Si le champ est invalide, la déclaration  sera rejetée.<br>
+        Si vous vous servez de F2R pour modifier cette déclaration, tel  qu'expliqué à la section 3.4.2, cet indicateur se trouve au haut de l'écran  de la partie B2 (au-dessus du champ 12).</p></td>
+  </tr>
+</table>
+<p class="ft-section ft-no-margin">Total des  caractères&nbsp;: 139 - Chaque déclaration DOD («&nbsp;STR&nbsp;»)doit comprendre la partie  B2.</p>
+<table class="table table-bordered">
+  <caption class="text-left">
+  <p><strong>Partie C : Renseignements sur le compte (si l'opération a touché un compte)</strong> <br>
+    Cette partie sert à donner des renseignements sur le compte, si un compte a effectivement été touché. Par exemple, si la répartition des fonds a pris la forme d'un «&nbsp;dépôt&nbsp;», la partie C est requise. <br>
+    Comme il a déjà été mentionné, il est possible que la déclaration porte sur plusieurs opérations, et sur plusieurs répartitions pour chaque opération. Donnez les renseignements sur le compte, le cas échéant, pour chaque opération faisant l'objet de la présente déclaration. <br>
+    Si l'opération ne touchait aucun compte, ne pas inclure la partie C dans la déclaration de cette opération. Dans le cas d'une tentative d'opération douteuse, veuillez inclure les renseignements sur le compte dans lequel la transaction a été initiée.</p>
+  </caption>
+  <tr  class="active">
+    <th scope="col">Champ&nbsp;no</th>
+    <th scope="col">Nom du champ</th>
+    <th scope="col">Format</th>
+    <th scope="col">Commentaires</th>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Identificateur de la partie </p></td>
+    <td><p>X(2)</p></td>
+    <td><p>«&nbsp;C1&nbsp;»</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro séquentiel de la partie</p></td>
+    <td><p>9(2)RJZ</p></td>
+    <td><p>Numéro séquentiel des  renseignements sur le compte associé à la répartition de fonds (doit  concorder avec le numéro séquentiel de la partie présentant la répartition  correspondante, à la partie B2).</p></td>
+  </tr>
+  <tr>
+    <td><p>*1</p></td>
+    <td><p>Numéro de la succursale ou de transit où le compte est détenu</p></td>
+    <td><p>X(12)LJ</p></td>
+    <td><p>Entrez  le numéro de la succursale, le numéro de transit ou tout autre numéro  permettant d'identifier l'entité auprès de laquelle le compte est détenu, si  cela s'applique à l'opération. <br>
+        Par  exemple, si c'est un compte de banque, inscrivez le numéro de cinq chiffres  de la succursale de la banque et garnissez d'espaces le reste du champ.  <br>
+        Ce champ est obligatoire si cette partie s'applique. S'il s'agit  d'une tentative d'opération douteuse et qu'en raison de cela, les  renseignements pour le champ C1 ne sont pas disponibles, vous pouvez garnir  ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>*2</p></td>
+    <td><p>Numéro du compte</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Entrer le numéro du compte en  question.<br>
+        Ce champ est obligatoire si cette  partie s'applique. S'il s'agit d'une tentative  d'opération douteuse et qu'en raison de cela, les renseignements pour le  champ C2 ne sont pas disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>*3</p></td>
+    <td><p>Genre de compte</p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code approprié pour indiquer le  genre de compte dont il est question. Si les choix proposés ne correspondent  pas au genre de compte touché par l'opération, indiquez «&nbsp;Autre&nbsp;»  et donnez des précisions au champ C3A.</p>
+			
+				<dl>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">A</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Personnel</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">B</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Commercial</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">C</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">En fiducie</dd>
+				<dt class="col-md-2 ft-brdr">D</dt>
+				<dd class="col-md-10 ft-brdr">Autre</dd>
+			</dl>
+        </div>
+      </div>
+      <p>Ce champ est obligatoire si cette  partie s'applique. S'il s'agit d'une tentative  d'opération douteuse et qu'en raison de cela, les renseignements pour le  champ C3 ne sont pas disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>3A</p></td>
+    <td><p>Description de «&nbsp;Autre&nbsp;»</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Donnez des précisions sur la catégorie «&nbsp;Autre&nbsp;», selon ce  qui est mentionné ci-dessus. Ce champ est requis si le code «&nbsp;D&nbsp;» a  été entré au champ C3.</p></td>
+  </tr>
+  <tr>
+    <td><p>*4</p></td>
+    <td><p>Devise du compte</p></td>
+    <td><p>X(3)LJ</p></td>
+    <td><p>Entrez le code de la devise utilisée pour ce compte. Voir la table des  codes de devises dans la documentation technique sur la page de publications  au site Web de CANAFE. <br>
+        Ce champ est obligatoire si cette partie s'applique. S'il s'agit d'une tentative d'opération douteuse et qu'en  raison de cela, les renseignements pour le champ C4 ne sont pas disponibles,  vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>*5A</p></td>
+    <td><p>Titulaire du compte 1</p></td>
+    <td><p>X(45)LJ</p></td>
+    <td><p>Entrez le nom au complet de chaque  titulaire de compte (jusqu'à concurrence de trois). S'il y en a plus de trois,  vous n'avez pas à les nommer tous.  <br>
+        Ce champ est obligatoire si cette partie  s'applique. S'il s'agit d'une tentative d'opération  douteuse et qu'en raison de cela, les renseignements pour ce champ ne sont pas  disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>*5B</p></td>
+    <td><p>Titulaire du compte 2</p></td>
+    <td><p> X(45)LJ</p></td>
+    <td><p>Entrez le nom au complet de chaque  titulaire de compte (jusqu'à concurrence de trois). S'il y en a plus de trois,  vous n'avez pas à les nommer tous.  <br>
+        Ce champ est obligatoire si cette partie  s'applique. S'il s'agit d'une tentative d'opération douteuse  et qu'en raison de cela, les renseignements pour ce champ ne sont pas  disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>*5C</p></td>
+    <td><p>Titulaire du compte 3</p></td>
+    <td><p>X(45)LJ</p></td>
+    <td><p>Entrez le nom au complet de chaque  titulaire de compte (jusqu'à concurrence de trois). S'il y en a plus de trois,  vous n'avez pas à les nommer tous.  <br>
+        Ce champ est obligatoire si cette partie  s'applique. S'il s'agit d'une tentative d'opération  douteuse et qu'en raison de cela, les renseignements pour ce champ ne sont pas  disponibles, vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+  <tr>
+    <td><p>6</p></td>
+    <td><p>Date d'ouverture du compte</p></td>
+    <td><p>X(8)LJ</p></td>
+    <td><p>Entrez la date à laquelle l'individu ou l'entité a ouvert le compte.  Elle doit être postérieure à 1900, mais ne pas être une date future.<br>
+        Format de la date AAAAMMJJ. <br>
+        Vous devez faire des efforts  raisonnables pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>7</p></td>
+    <td><p>Date de fermeture du compte</p></td>
+    <td><p>X(8)LJ</p></td>
+    <td><p>Entrez la date à laquelle l'individu ou l'entité a fermé le compte, le  cas échéant. Elle ne doit pas être une date future et ne doit pas être  antérieure à la date d'ouverture du compte.  <br>
+        Format de la date AAAAMMJJ.<br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>*8</p></td>
+    <td><p>Statut du compte au moment où l'opération a été amorcée</p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code approprié pour indiquer si  le compte était actif, inactif ou en veilleuse au moment de l'opération.</p>
+			
+				<dl>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">A</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Actif</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">B</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Inactif</dd>
+				<dt class="col-md-2 ft-brdr">C</dt>
+				<dd class="col-md-10 ft-brdr">En veilleuse</dd>
+			</dl>
+        </div>
+      </div>
+      <p>Ce champ est obligatoire si cette partie s'applique. S'il s'agit d'une tentative d'opération douteuse et qu'en  raison de cela, les renseignements pour le champ C8 ne sont pas disponibles,  vous pouvez garnir ce champ d'espaces.</p></td>
+  </tr>
+</table>
+<p class="ft-section ft-no-margin">Total des  caractères&nbsp;: 222 - Si l'opération ne touchait aucun compte,  ne pas inclure la partie C dans la déclaration de cette opération.</p>
+<table class="table table-bordered">
+  <caption class="text-left">
+  <p><strong>Partie D : Renseignements sur l'individu qui a effectué l'opération </strong> <br>
+    Cette partie sert à donner des renseignements sur l'individu qui a effectué l'opération ou qui a initié une tentative d'opération douteuse. Comme il a déjà été mentionné, il est possible que la déclaration porte sur plusieurs opérations. Donnez ces renseignements pour chaque opération incluse dans la déclaration.</p>
+  </caption>
+  <tr  class="active">
+    <th scope="col">Champ&nbsp;no</th>
+    <th scope="col">Nom du champ</th>
+    <th scope="col">Format</th>
+    <th scope="col">Commentaires</th>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Identificateur de la partie </p></td>
+    <td><p>X(2)</p></td>
+    <td><p>«&nbsp;D1&nbsp;»</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro séquentiel de la partie</p></td>
+    <td><p>9(2)RJZ</p></td>
+    <td><p>Numéro séquentiel de l'individu qui a effectué l'opération faisant  l'objet de la présente déclaration (doit concorder avec le numéro séquentiel  de la partie présentant l'opération correspondante, à la partie&nbsp;B1).</p></td>
+  </tr>
+  <tr>
+    <td><p>1</p></td>
+    <td><p>Nom de famille</p></td>
+    <td><p>X(20)LJ<br>
+      </p></td>
+    <td><p>Entrez le nom de famille de l'individu qui  a effectué l'opération ou qui a initié une tentative  d'opération douteuse.<br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>2</p></td>
+    <td><p>Prénom</p></td>
+    <td><p>X(15)LJ</p></td>
+    <td><p>Entrez le prénom de l'individu qui a  effectué l'opération ou qui a initié une tentative  d'opération douteuse.<br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ.</p></td>
+  </tr>
+  <tr>
+    <td><p>3</p></td>
+    <td><p>Autre nom/initiale</p></td>
+    <td><p>X(10)LJ</p></td>
+    <td><p>Entrez l'autre nom/l'initiale (le cas  échéant) de l'individu qui a effectué l'opération ou  qui a initié une tentative d'opération douteuse.<br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ.</p></td>
+  </tr>
+  <tr>
+    <td><p>*4</p></td>
+    <td><p>Numéro de client attribué par l'entité déclarante </p></td>
+    <td><p>X(12)LJ</p></td>
+    <td><p>Entrez le numéro de client qui a été attribué à l'individu ayant  effectué l'opération ou qui a initié une tentative  d'opération douteuse, le cas échéant. <br>
+        Ce champ est obligatoire s'il s'applique à l'opération.  </p></td>
+  </tr>
+  <tr>
+    <td><p>5</p></td>
+    <td><p>&nbsp;</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Entrez l'adresse municipale de l'individu qui a  effectué l'opération ou qui a initié une tentative  d'opération douteuse. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ. </p>
+      <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>6</p></td>
+    <td><p>Ville</p></td>
+    <td><p>X(25)LJ</p></td>
+    <td><p>Entrez la ville de l'individu qui a effectué  l'opération ou qui a initié une tentative d'opération  douteuse. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ. </p>
+      <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>7</p></td>
+    <td><p>Pays</p></td>
+    <td><p>X(2)LJ </p></td>
+    <td><p>Entrez le pays de l'individu qui a effectué  l'opération ou qui a initié une tentative d'opération  douteuse. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ. </p>
+      <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>8</p></td>
+    <td><p>Province/État </p></td>
+    <td><p>X(20)LJ </p></td>
+    <td><p>Entrez la province ou l'état de l'individu qui  a effectué l'opération ou qui a initié une tentative  d'opération douteuse. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ. </p>
+      <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>9</p></td>
+    <td><p>Code postal/zip</p></td>
+    <td><p>X(9)LJ</p></td>
+    <td><p>Entrez le code postal/zip de l'individu qui a  effectué l'opération ou qui a initié une tentative  d'opération douteuse. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ. </p>
+      <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>10</p></td>
+    <td><p>Pays de résidence</p></td>
+    <td><p>X(2)LJ</p></td>
+    <td><p>Entrez le pays de résidence permanente de  l'individu qui a effectué l'opération ou qui a  initié une tentative d'opération douteuse. Voir les tables de codes de  pays dans la documentation technique sur la page de publications au site Web  de CANAFE.<br>
+        Vous devez faire des efforts raisonnables  pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>10A</p></td>
+    <td><p>Pays de citoyenneté</p></td>
+    <td><p>X(2)LJ</p></td>
+    <td><p>Entrez le pays de citoyenneté de l'individu  qui a effectué l'opération ou qui a initié une  tentative d'opération douteuse. Voir les tables de codes de pays dans  la documentation technique sur la page de publications au site Web de CANAFE.<br>
+        Vous devez  faire des efforts raisonnables pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>11</p></td>
+    <td><p>Numéro de téléphone à domicile </p></td>
+    <td><p>X(20)LJ </p></td>
+    <td><p>Entrez le numéro de téléphone à  domicile de l'individu qui a effectué l'opération ou  qui a initié une tentative d'opération douteuse. <br>
+        Vous devez faire des efforts  raisonnables pour remplir ce champ. <br>
+        Le champ D11A (poste téléphonique  pour un numéro de téléphone à domicile) n'existe plus.</p></td>
+  </tr>
+  <tr>
+    <td><p>12</p></td>
+    <td><p>Document d'identification de l'individu</p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code correspondant au document utilisé pour établir  l'identité de l'individu qui a effectué l'opération ou  qui a initié une tentative d'opération douteuse. Si les choix proposés  ne correspondent pas à la pièce d'identité, indiquez «&nbsp;Autre&nbsp;» et  donnez des précisions au champ D12A.</p>
+			
+				<dl>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">A</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Permis de conduire</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">B</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Certificat de naissance</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">C</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Carte d'assurance-maladie provinciale</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">D</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Passeport</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">E</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Autre</dd>
+				<dt class="col-md-2 ft-brdr">F</dt>
+				<dd class="col-md-10 ft-brdr">Fiche d'établissement ou carte de résident permanent</dd>
+			</dl>
+         
+        </div>
+      </div>
+      <p>Vous devez faire des efforts raisonnables pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>12A</p></td>
+    <td><p>Description de «&nbsp;Autre&nbsp;»</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Donnez des précisions sur la catégorie «&nbsp;Autre&nbsp;», selon ce  qui est mentionné ci-dessus.<br>
+        Ce champ est requis si le code «&nbsp;E&nbsp;» a été entré au champ  D12.</p></td>
+  </tr>
+  <tr>
+    <td><p>13</p></td>
+    <td><p>Numéro d'identification</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le numéro du document indiqué au champ D12 ou D12A et qui a été  utilisé pour établir l'identité de l'individu qui a effectué l'opération ou qui a initié une tentative d'opération douteuse. <br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ.<br>
+        Remarque&nbsp;: Un numéro d'assurance sociale (NAS) ne doit pas être  fourni au présent champ. Si le document d'identification indiqué aux champs  D12A est une carte d'assurance sociale, garnissez d'espaces le champ D13.</p></td>
+  </tr>
+  <tr>
+    <td><p>14</p></td>
+    <td><p>Pays de délivrance du document d'identification </p></td>
+    <td><p>X(2)LJ</p></td>
+    <td><p>Entrez le pays de délivrance du document  utilisé pour établir l'identité de l'individu qui a effectué l'opération ou qui a initié une tentative d'opération douteuse. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ. </p>
+      <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p>15</p></td>
+    <td>Province/état de  délivrance du document d'identification</td>
+    <td>&nbsp;
+      <p>X(20)LJ</p></td>
+    <td><p>Entrez la province ou l'état de délivrance du  document utilisé pour établir l'identité de l'individu qui a effectué  l'opération ou qui a initié une tentative d'opération  douteuse<br>
+        Si le pays d'émission est le Canada, le champ  D15 doit contenir une province ou un territoire canadien valide. Si le pays est  le Mexique ou les États-Unis, le champ D15 doit contenir un état valide.  Veuillez consulter les tableaux de code pertinents dans la documentation  technique sur la page de publications au site Web de CANAFE pour obtenir une  liste des provinces, des territoires et des États valides.  <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>16</p></td>
+    <td><p>Date de naissance de l'individu</p></td>
+    <td><p>X(8)LJ</p></td>
+    <td><p>Entrez la date de naissance de  l'individu qui a effectué l'opération ou qui a  initié une tentative d'opération douteuse. La date doit être comprise  dans les 120 dernières années, mais ne pas être une date future.<br>
+        Format de la date AAAAMMJJ. <br>
+        Vous devez faire des efforts raisonnables  pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>17</p></td>
+    <td><p>Métier ou profession de l'individu</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Entrez le métier ou la profession de  l'individu qui a effectué l'opération ou qui a  initié une tentative d'opération douteuse.<br>
+        Vous devez faire des efforts  raisonnables pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>18</p></td>
+    <td><p>Numéro de téléphone d'affaires de l'individu </p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le numéro de téléphone d'affaires  de l'individu qui a effectué l'opération ou qui a  initié une tentative d'opération douteuse. <br>
+        Vous devez faire des efforts raisonnables  pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>18A</p></td>
+    <td><p>Numéro du poste téléphonique </p></td>
+    <td><p>9(10)RJZ</p></td>
+    <td><p>Entrez le numéro du poste téléphonique d'affaires de l'individu, s'il  en existe un.</p></td>
+  </tr>
+  <tr>
+    <td><p>19</p></td>
+    <td><p>Employeur de l'individu</p></td>
+    <td><p>X(35)LJ</p></td>
+    <td><p>Entrez la dénomination sociale de  l'entité ou le nom de la personne qui est l'employeur de l'individu qui a  effectué l'opération ou qui a initié une tentative  d'opération douteuse.<br>
+        Vous devez faire des efforts  raisonnables pour remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>20</p></td>
+    <td><p>Adresse (rue et numéro)</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Entrez l'adresse municipale de l'employeur de l'individu qui a effectué  l'opération ou qui a initié une tentative d'opération  douteuse. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ. </p></td>
+  </tr>
+  <tr>
+    <td><p>21</p></td>
+    <td><p>Ville</p></td>
+    <td><p>X(25)LJ</p></td>
+    <td><p>Entrez la ville de l'employeur de l'individu qui a effectué l'opération ou qui a initié une tentative d'opération douteuse. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ.</p></td>
+  </tr>
+  <tr>
+    <td><p>22</p></td>
+    <td><p>Pays</p></td>
+    <td><p>X(2)LJ </p></td>
+    <td><p>Entrez le pays de l'employeur de l'individu qui a effectué l'opération ou qui a initié une tentative d'opération douteuse. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ.</p></td>
+  </tr>
+  <tr>
+    <td><p>23</p></td>
+    <td><p>Province/état</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez la province/l'état de l'employeur de l'individu qui a effectué  l'opération ou qui a initié une tentative d'opération  douteuse. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ.</p></td>
+  </tr>
+  <tr>
+    <td><p>24</p></td>
+    <td><p>Code postal/zip</p></td>
+    <td><p>X(9)LJ</p></td>
+    <td><p>Entrez le code postal/zip de l'employeur de l'individu qui a effectué  l'opération ou qui a initié une tentative d'opération  douteuse. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ.</p></td>
+  </tr>
+  <tr>
+    <td><p>25</p></td>
+    <td><p>Numéro de téléphone d'affaires de l'employeur </p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le numéro de téléphone d'affaires  de l'employeur de l'individu qui a effectué l'opération ou qui a initié une tentative d'opération douteuse. <br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ.</p></td>
+  </tr>
+  <tr>
+    <td><p>25A</p></td>
+    <td><p>Numéro du poste téléphonique </p></td>
+    <td><p>9(10)RJZ</p></td>
+    <td><p>Entrez le numéro du poste téléphonique d'affaires de l'employeur, s'il  en existe un.</p></td>
+  </tr>
+</table>
+<p class="ft-section ft-no-margin">Total des  caractères&nbsp;: 453 - Chaque opération dans la déclaration DOD («&nbsp;STR&nbsp;»)doit  comprendre la partie D.</p>
+<table class="table table-bordered">
+  <caption class="text-left">
+  <p><strong>Partie E : Renseignements sur l'entité pour le compte de laquelle l'opération a été effectuée (le cas échéant)</strong><br>
+    Cette partie s'applique uniquement si la répartition ou la tentative a été faite pour le compte d'un tiers qui n'est pas un individu, tel qu'indiqué à la partie B2.  <br>
+    Afin d'inclure la partie E pour une opération, assurez-vous que la valeur indiquée au champ B17 de la partie B2 soit «&nbsp;E&nbsp;». </p>
+  </caption>
+  <tr  class="active">
+    <th scope="col">Champ&nbsp;no</th>
+    <th scope="col">Nom du champ</th>
+    <th scope="col">Format</th>
+    <th scope="col">Commentaires</th>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Identificateur de la partie</p></td>
+    <td><p>X(2)</p></td>
+    <td><p>«&nbsp;E1&nbsp;»</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro séquentiel de la partie</p></td>
+    <td><p>9(2)RJZ</p></td>
+    <td><p>Numéro séquentiel des renseignements sur le tiers associé à la  répartition de fonds, s'il s'agit d'une entité (doit concorder avec le numéro  séquentiel de la partie présentant la répartition. correspondante, à la  partie B2).</p></td>
+  </tr>
+  <tr>
+    <td><p>1</p></td>
+    <td><p>Dénomination sociale de la société, de la fiducie ou de l'autre entité</p></td>
+    <td><p>X(35)LJ</p></td>
+    <td><p>Entrez la dénomination sociale au complet de la société ou de l'autre  entité pour le compte de laquelle l'opération ou la  tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ, si  cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>2</p></td>
+    <td><p>Nature de ses activités </p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Indiquez le genre d'activité de l'entité pour le compte de laquelle  l'opération ou la tentative a été effectuée.<br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ, si  cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>3</p></td>
+    <td><p>Adresse (rue et numéro)</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Entrez l'adresse municipale de l'entité  pour le compte de laquelle l'opération ou la  tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>4</p></td>
+    <td><p>Ville</p></td>
+    <td><p>X(25)LJ </p></td>
+    <td><p>Entrez la ville de l'entité pour le compte  de laquelle l'opération ou la tentative a été  effectuée. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>5</p></td>
+    <td><p>Pays</p></td>
+    <td><p>X(2)LJ </p></td>
+    <td><p>Entrez le pays de l'entité pour le compte  de laquelle l'opération ou la tentative a été  effectuée. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>6</p></td>
+    <td><p>Province/état</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez la province ou l'état de l'entité  pour le compte de laquelle l'opération ou la  tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>7</p></td>
+    <td><p>Code postal/zip</p></td>
+    <td><p>X(9)LJ</p></td>
+    <td><p>Entrez le code postal ou zip de l'entité  pour le compte de laquelle l'opération ou la  tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>8</p></td>
+    <td><p>Numéro de téléphone d'affaires de l'entité</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le numéro de téléphone d'affaires de l'entité pour le compte de  laquelle l'opération ou la tentative a été  effectuée.<br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ, si  cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>8A</p></td>
+    <td><p>Numéro du poste téléphonique </p></td>
+    <td><p>9(10)RJZ</p></td>
+    <td><p>Entrez le numéro du poste téléphonique d'affaires de l'entité, s'il en  existe un.</p></td>
+  </tr>
+  <tr>
+    <td><p>9</p></td>
+    <td><p>Numéro d'incorporation </p></td>
+    <td><p>X(14)LJ</p></td>
+    <td><p>Entrez le numéro d'incorporation de l'entité, s'il s'agit d'une  société.<br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ, si  cette partie s'applique et que l'entité est une société. </p></td>
+  </tr>
+  <tr>
+    <td><p>10</p></td>
+    <td><p>Pays de délivrance du numéro d'incorporation </p></td>
+    <td><p>X(2)LJ</p></td>
+    <td><p>Entrez le pays de  délivrance du numéro d'incorporation de l'entité pour le compte de laquelle  l'opération ou la tentative a été effectuée  (s'il s'agit d'une société). Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique et que l'entité est une société. </p></td>
+  </tr>
+  <tr>
+    <td><p>11</p></td>
+    <td><p>Province/état de  délivrance du numéro d'incorporation</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez la province ou l'état de délivrance du numéro d'incorporation de  l'entité pour le compte de laquelle l'opération ou la  tentative a été effectuée (s'il s'agit d'une société).Si le pays de  délivrance est le Canada, ce champ doit contenir une province ou un territoire  canadien valide. Si le pays est les États-Unis, le champ doit contenir un état  valide. Veuillez consulter les tableaux de code pertinents dans la  documentation technique sur la page de publications au site Web de CANAFE pour  obtenir une liste des provinces, des territoires et des États valides.  </p></td>
+  </tr>
+  <tr>
+    <td><p>12A</p></td>
+    <td><p>Nom du ou des signataires ayant le pouvoir de lier l'entité ou d'agir à  l'égard du compte <br>
+        Signataire autorisé 1</p></td>
+    <td><p>X(35)LJ</p></td>
+    <td><p>Entrez le nom de la personne qui a le  pouvoir d'effectuer des opérations dans le compte.<br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>12B</p></td>
+    <td><p>Nom du ou des signataires ayant le pouvoir de lier l'entité ou d'agir à  l'égard du compte <br>
+        Signataire autorisé 2</p></td>
+    <td><p> X(35)LJ</p></td>
+    <td><p>Entrez le nom de la personne qui a le  pouvoir d'effectuer des opérations dans le compte.<br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>12C</p></td>
+    <td><p>Nom du ou des signataires ayant le pouvoir de lier l'entité ou d'agir à  l'égard du compte <br>
+        Signataire autorisé 3</p></td>
+    <td><p> X(35)LJ</p></td>
+    <td><p>Entrez le nom de la personne qui a le  pouvoir d'effectuer des opérations dans le compte.<br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ, si cette partie s'applique.</p></td>
+  </tr>
+</table>
+<p class="ft-section ft-no-margin">Total des caractères&nbsp;: 316 - Ne pas inclure la partie E dans la  déclaration si l'opération ou la tentative n'a  pas été faite pour le compte d'une entité ou s'il s'agissait d'un dépôt en  espèces par un employé dans le compte d'affaire de  son employeur.</p>
+<table class="table table-bordered">
+  <caption class="text-left">
+  <p><strong>Partie F : Renseignements sur le tiers par rapport à l'opération, s'il s'agit d'un individu (le cas échéant) </strong><br>
+    Cette partie s'applique uniquement si la répartition ou la tentative a été faite pour le compte d'un tiers qui est un individu. <br>
+    Si l'individu a effectué la répartition pour son propre compte, cette partie ne s'applique pas. Dans ce cas, les renseignements sur l'individu doivent être donnés à la partie D. Si la répartition ou la tentative a été effectuée pour le compte d'une entité (autre qu'un dépôt en espèces par un employé dans le compte de l'employeur), vous devez remplir la partie E. <br>
+    Afin d'inclure la partie F pour une opération, assurez-vous que la valeur indiquée au champ B17 de la partie B2 soit «&nbsp;F&nbsp;».</p>
+  </caption>
+  <tr  class="active">
+    <th scope="col">Champ&nbsp;no</th>
+    <th scope="col">Nom du champ</th>
+    <th scope="col">Format</th>
+    <th scope="col">Commentaires</th>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Identificateur de la partie</p></td>
+    <td><p>X(2)</p></td>
+    <td><p>«&nbsp;F1&nbsp;»</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro séquentiel de la partie</p></td>
+    <td><p>9(2)RJZ</p></td>
+    <td><p>Numéro séquentiel des renseignements sur le tiers associé à la  répartition de fonds, s'il s'agit d'un individu (doit concorder avec le  numéro séquentiel de la partie présentant la répartition correspondante, à la  partie B2).</p></td>
+  </tr>
+  <tr>
+    <td><p>1</p></td>
+    <td><p>Nom de famille </p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le nom de famille de l'individu pour le compte duquel l'opération  ou la tentative a été effectuée.<br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>2</p></td>
+    <td><p>Prénom</p></td>
+    <td><p>X(15)LJ</p></td>
+    <td><p>Entrez le prénom de l'individu pour le compte duquel l'opération ou la tentative a été effectuée.<br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>3</p></td>
+    <td><p>Autre nom/Initiale</p></td>
+    <td><p>X(10)LJ</p></td>
+    <td><p>Entrez l'autre nom/l'initiale de l'individu (le cas échéant) pour le  compte duquel l'opération ou la tentative a  été effectuée.<br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>4</p></td>
+    <td><p>Adresse (rue et numéro)</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Entrez l'adresse municipale de l'individu pour le compte duquel  l'opération ou la tentative a été effectuée.<br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>5</p></td>
+    <td><p>Ville</p></td>
+    <td><p>X(25)LJ </p></td>
+    <td><p>Entrez la ville de l'individu pour le compte duquel l'opération ou la tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique</p></td>
+  </tr>
+  <tr>
+    <td><p>6</p></td>
+    <td><p>Pays</p></td>
+    <td><p>X(2)LJ</p></td>
+    <td><p>Entrez le pays de l'individu pour le compte duquel l'opération ou la tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique</p></td>
+  </tr>
+  <tr>
+    <td><p>7</p></td>
+    <td><p>Province/état</p></td>
+    <td><p> X(20)LJ</p></td>
+    <td><p>Entrez la province/l'état de l'individu pour le compte duquel  l'opération ou la tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique</p></td>
+  </tr>
+  <tr>
+    <td><p>8</p></td>
+    <td><p>Code postal/zip</p></td>
+    <td><p>X(9)LJ</p></td>
+    <td><p>Entrez le code postal/zip de l'individu pour le compte duquel  l'opération ou la tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique</p></td>
+  </tr>
+  <tr>
+    <td><p>9</p></td>
+    <td><p>Numéro de téléphone à domicile de l'individu</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le numéro de téléphone à domicile de l'individu pour le compte  duquel l'opération ou la tentative a été  effectuée. <br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ, si  cette partie s'applique. <br>
+        Le champ F9A (poste téléphonique pour un numéro de téléphone à  domicile) n'existe plus.</p></td>
+  </tr>
+  <tr>
+    <td><p>10</p></td>
+    <td><p>Numéro de téléphone d'affaires de l'individu</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le numéro de téléphone d'affaires de l'individu pour le compte  duquel l'opération ou la tentative a été  effectuée.<br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ, si  cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>10A</p></td>
+    <td><p>Numéro du poste téléphonique </p></td>
+    <td><p>9(10)RJZ</p></td>
+    <td><p>Entrez le numéro du poste téléphonique d'affaires de l'individu, s'il  en existe un.</p></td>
+  </tr>
+  <tr>
+    <td><p>11</p></td>
+    <td><p>Date de naissance de l'individu</p></td>
+    <td><p>X(8)LJ</p></td>
+    <td><p>Entrez la date de naissance  de l'individu pour le compte duquel l'opération ou  la tentative a été effectuée. La date doit être comprise  dans les 120 dernières années, mais ne pas être une date future.<br>
+        Format de la date AAAAMMJJ. <br>
+        Vous devez faire des efforts  raisonnables pour remplir ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>12</p></td>
+    <td><p>Document d'identification de  l'individu</p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code correspondant au document utilisé pour établir  l'identité de l'individu qui a effectué l'opération ou  qui a initié une tentative d'opération douteuse. Si les choix proposés  ne correspondent pas à la pièce d'identité, indiquez «&nbsp;Autre&nbsp;» et  donnez des précisions au champ D12A.</p>
+				<dl>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">A</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Permis de conduire</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">B</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Certificat de naissance</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">C</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Carte d'assurance-maladie provinciale</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">D</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Passeport</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">E</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Autre</dd>
+				<dt class="col-md-2 ft-brdr">F</dt>
+				<dd class="col-md-10 ft-brdr">Fiche d'établissement ou carte de résident permanent</dd>
+			</dl>
+        
+        </div>
+      </div>
+      <p>Vous devez faire des efforts raisonnables pour remplir ce champ, si  cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>12A</p></td>
+    <td><p>Description de  «&nbsp;Autre&nbsp;»</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Donnez des précisions sur la catégorie «&nbsp;Autre&nbsp;», selon ce  qui est mentionné ci-dessus.<br>
+        Ce champ est requis si le code «&nbsp;E&nbsp;» a été entré au champ  F12.</p></td>
+  </tr>
+  <tr>
+    <td><p>13</p></td>
+    <td><p>Numéro d'identification</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le numéro du document indiqué au champ F12 ou F12Aet qui a été  utilisé pour établir l'identité de l'individu pour le compte duquel  l'opération ou la tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ, si  cette partie s'applique.<br>
+        Remarque&nbsp;: Un numéro d'assurance sociale (NAS) ne doit pas être  fourni au présent champ. Si le document d'identification indiqué aux champs  F12A est une carte d'assurance sociale, garnissez d'espaces le champ F13. </p></td>
+  </tr>
+  <tr>
+    <td><p>14</p></td>
+    <td><p>Pays de résidence</p></td>
+    <td><p>X(2)LJ</p></td>
+    <td><p>Entrez le pays de résidence  permanente de l'individu pour le compte duquel l'opération ou la tentative a été effectuée. Voir les tables  de codes de pays dans la documentation technique sur la page de publications  au site Web de CANAFE.<br>
+        Vous devez faire des efforts  raisonnables pour remplir ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>14A</p></td>
+    <td><p>Pays de citoyenneté</p></td>
+    <td><p>X(2)LJ</p></td>
+    <td><p>Entrez le pays de citoyenneté de  l'individu pour le compte duquel l'opération ou la  tentative a été effectuée. Voir les tables de codes de pays dans la  documentation technique sur la page de publications au site Web de CANAFE.<br>
+        Vous devez faire des efforts  raisonnables pour remplir ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>15</p></td>
+    <td><p>Pays de délivrance du document d'identification  de l'individu</p></td>
+    <td><p>X(2)LJ</p></td>
+    <td><p>Entrez le pays de  délivrance du document utilisé pour établir l&rsquo;identité de l&rsquo;individu pour le  compte duquel l&rsquo;opération ou la tentative a  été effectuée. Vous devez faire des efforts raisonnables pour remplir ce champ,  si cette partie s&rsquo;applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>16</p></td>
+    <td>Province/état de  délivrance du document d'identification de l'individu</td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez la province/l'état de délivrance du  document utilisé pour établir l'identité de l'individu pour le compte duquel  l'opération ou la tentative a été effectuée. Si  le pays d'émission est le Canada, le champ F16 doit contenir une province ou un  territoire canadien valide. Si le pays est le Mexique ou les États-Unis, le  champ F16 doit contenir un état valide. Veuillez consulter les tableaux de code  pertinents dans la documentation technique sur la page de publications au site  Web de CANAFE pour obtenir une liste des provinces, des territoires et des  États valides.  Vous devez faire des  efforts raisonnables pour remplir ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>17</p></td>
+    <td><p>Métier ou profession de l'individu</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Entrez le métier ou la profession de l'individu pour le compte duquel  l'opération ou la tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour remplir ce champ, si  cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>18</p></td>
+    <td><p>Employeur de l'individu</p></td>
+    <td><p>X(35)LJ</p></td>
+    <td><p>Entrez la dénomination sociale de  l'entité ou le nom de la personne qui est l'employeur de l'individu pour le  compte duquel l'opération ou la tentative a  été effectuée. <br>
+        Vous devez faire des efforts  raisonnables pour remplir ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>19</p></td>
+    <td><p>Adresse (rue et numéro)</p></td>
+    <td><p>X(30)LJ</p></td>
+    <td><p>Entrez l'adresse municipale de l'employeur de  l'individu pour le compte duquel l'opération ou la  tentative a été effectuée.<br>
+        Vous devez faire des efforts raisonnables pour  remplir ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>20</p></td>
+    <td><p>Ville</p></td>
+    <td><p>X(25)LJ</p></td>
+    <td><p>Entrez la ville de l'employeur de l'individu  pour le compte duquel l'opération ou la tentative  a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>21</p></td>
+    <td><p>Pays</p></td>
+    <td><p>X(2)LJ</p></td>
+    <td><p>Entrez le pays de l'employeur de l'individu  pour le compte duquel l'opération ou la tentative  a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>22</p></td>
+    <td><p>Province/état</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez la province/l'état de l'employeur de  l'individu pour le compte duquel l'opération ou la  tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>23</p></td>
+    <td><p>Code postal/zip</p></td>
+    <td><p>X(9)LJ</p></td>
+    <td><p>Entrez le code postal/zip de l'employeur de  l'individu pour le compte duquel l'opération ou la  tentative a été effectuée. <br>
+        Vous devez faire des efforts raisonnables pour remplir  ce champ, si cette partie s'applique.</p></td>
+  </tr>
+  <tr>
+    <td><p>24</p></td>
+    <td><p>Numéro de téléphone  d'affaires de l'employeur</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Entrez le numéro de téléphone d'affaires  de l'employeur de l'individu pour le compte duquel l'opération ou la tentative a été effectuée.<br>
+        Vous devez faire des efforts raisonnables  pour remplir ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>24A</p></td>
+    <td><p>Numéro du poste téléphonique </p></td>
+    <td><p>9(10)RJZ</p></td>
+    <td><p>Entrez le numéro du poste  téléphonique d'affaires de l'employeur, s'il en existe un.</p></td>
+  </tr>
+  <tr>
+    <td><p>25</p></td>
+    <td><p>Lien entre l'individu nommé  à la partie D et l'individu nommé ci-dessus</p></td>
+    <td><p>X(1)LJ</p></td>
+    <td><div class="panel panel-default">
+        <div class="panel-body">
+          <p>Entrez le code approprié pour indiquer le lien existant entre  l'individu qui a effectué l'opération ou la  tentative et l'individu pour le compte duquel l'opération a été  effectuée. Si les choix proposés ne correspondent pas à ce lien, indiquez  «&nbsp;Autre&nbsp;» et donnez des précisions au champ F25A.</p>
+			
+				<dl>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0 bg-info">Code</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0 bg-info">Description</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">A</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Comptable</dd>
+				
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">B</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Agent</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">C</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Conseiller juridique</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">D</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Emprunteur</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">E</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Courtier</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">F</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Client</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">G</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Employé</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">H</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Ami</dd>
+				<dt class="col-md-2 ft-brdr mrgn-bttm-0">I</dt>
+				<dd class="col-md-10 ft-brdr mrgn-bttm-0">Membre de la famille</dd>
+				<dt class="col-md-2 ft-brdr">J</dt>
+				<dd class="col-md-10 ft-brdr">Autre</dd>
+			</dl>
+        </div>
+      </div>
+      <p>Vous devez faire des efforts  raisonnables pour remplir ce champ, si cette partie s'applique. </p></td>
+  </tr>
+  <tr>
+    <td><p>25A</p></td>
+    <td><p>Description de  «&nbsp;Autre&nbsp;»</p></td>
+    <td><p>X(20)LJ</p></td>
+    <td><p>Donnez des précisions sur la catégorie «&nbsp;Autre&nbsp;», selon ce  qui est mentionné ci-dessus.<br>
+        Ce champ est requis si le code «&nbsp;J&nbsp;» a été entré au champ  F25.</p></td>
+  </tr>
+</table>
+<p class="ft-section ft-no-margin">Total des caractères&nbsp;: 462 - Ne pas inclure la partie F dans la déclaration si l'opération ou la tentative n'a pas été faite pour le compte d'un autre individu ou s'il s'agissait d'un dépôt en espèces par un employé dans le compte d'affaire de son employeur.</p>
+<table class="table table-bordered">
+  <caption class="text-left">
+  <p><strong>Partie G : Description de l'activité douteuse </strong> <br>
+    Cette partie sert à donner les raisons qui vous ont amené à soupçonner qu'une opération était douteuse. </p>
+  </caption>
+  <tr  class="active">
+    <th scope="col">Champ&nbsp;no</th>
+    <th scope="col">Nom du champ</th>
+    <th scope="col">Format</th>
+    <th scope="col">Commentaires</th>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Identificateur de la partie</p></td>
+    <td><p>X(2)</p></td>
+    <td><p>«&nbsp;G1&nbsp;»</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro séquentiel de la  partie</p></td>
+    <td><p>9(2)RJZ</p></td>
+    <td><p>Numéro séquentiel de la description  de l'opération douteuse, en débutant par 01. Si vous avez besoin de plus de  400 caractères au champ G1, ajoutez une autre partie G et augmentez le numéro  séquentiel de «&nbsp;1&nbsp;».</p></td>
+  </tr>
+  <tr>
+    <td><p> *1</p></td>
+    <td><p>Description de l'activité  douteuse</p></td>
+    <td><p>X(400)LJ</p></td>
+    <td><p>Plus vous donnerez de détails sur la nature de vos soupçons, plus  votre déclaration sera utile. Veuillez donc décrire clairement tous les  facteurs ou circonstances inhabituelles qui vous ont amené à soupçonner  qu'une opération était liée au blanchiment d'argent ou au financement  d'activités terroristes. Donnez le plus de détails possible à l'appui de vos soupçons.Si ce rapport  contient de l'information reliée à une tentative d'opération douteuse, veuillez  indiquer la raison pour laquelle celle-ci n'a pas été complétée.<br>
+        Ce champ est obligatoire. Si le champ n'est pas rempli, la déclaration  sera rejetée.</p></td>
+  </tr>
+</table>
+<p class="ft-section ft-no-margin">Total des caractères&nbsp;: 404 - Chaque déclaration DOD («&nbsp;STR&nbsp;»)doit comprendre la partie G.</p>
+<table class="table table-bordered">
+  <caption class="text-left">
+  <p><strong>Partie H : Mesures prises (le cas échéant)</strong><br>
+    Cette partie sert à décrire les mesures que vous avez prises ou comptez prendre, le cas échéant, à la suite de la détection de l'opération douteuse. Vous n'êtes pas tenu de prendre d'autres mesures que la présente déclaration, mais, si vous le faites, veuillez donner tous les détails dans cette partie.</p>
+  </caption>
+  <tr  class="active">
+    <th scope="col">Champ&nbsp;no</th>
+    <th scope="col">Nom du champ</th>
+    <th scope="col">Format</th>
+    <th scope="col">Commentaires</th>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Identificateur de la partie</p></td>
+    <td><p>X(2)</p></td>
+    <td><p>«&nbsp;H1&nbsp;»</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>±</strong></p></td>
+    <td><p>Numéro séquentiel de la  partie</p></td>
+    <td><p>9(2)RJZ</p></td>
+    <td><p>Numéro séquentiel de la description  des mesures prises, en débutant par 01. Si vous avez besoin de plus de 400  caractères au champ H1, ajoutez une autre partie H et augmentez le numéro  séquentiel de «&nbsp;1&nbsp;».</p></td>
+  </tr>
+  <tr>
+    <td><p>*1</p></td>
+    <td><p>Description des mesures  prises </p></td>
+    <td><p>X(400)LJ</p></td>
+    <td><p>Veuillez décrire les  mesures que vous avez prises, le cas échéant, en plus de la présente  déclaration à CANAFE. Par exemple, si vous communiquez également des renseignements  à un organisme d'application de la loi, indiquez-le ici.<br>
+        Ce champ est obligatoire, si cette partie s'applique.</p></td>
+  </tr>
+</table>
+<p class="ft-section ft-no-margin">Total des caractères&nbsp;: 404 - Si aucune autre mesure que la présente déclaration n'a été prise, ne  pas inclure la partie H dans la déclaration de cette opération.</p>
+<h2>5.3.1  Diagramme de production d'une déclaration  d'opérations douteuses (DOD ou «&nbsp;STR&nbsp;»)</h2>
+<div class="align-center"><img src="images/mod2-fra.png" alt="Diagramme de production d'une déclaration d'opérations douteuses (DOD ou STR )" /></div>
+<div class="container">
+<div class="pagedetails">
+	
+	<dl id="wb-dtmd">
+	<dt>Date de modification :&#32;</dt>
+	<dd><time property="dateModified">2021-01-22</time></dd>
+	</dl>
+	</div>	</div>
+</main>
+ 
+<footer id="wb-info">
+
+
+				﻿<h2 class="wb-inv">À propos de ce site</h2>
+<div class="gc-contextual">
+		<div class="container">
+			<nav>
+				<h3>Centre d’analyse des opérations et déclarations financières du Canada (CANAFE)</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="/contact-contactez/1-fra">Communiquer avec CANAFE</a></li><li><a href="/new-neuf/1-fra">Nouvelles de CANAFE</a></li><li><a href="/contact-contactez/list-liste-fra">S’abonner à la liste de distribution de CANAFE</a></li></ul>
+			</nav>
+		</div>
+	</div>
+
+	<div class="gc-main-footer">
+		<div class="container">
+			<nav>
+				<h3>Gouvernement du Canada</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="https://www.canada.ca/fr/contact.html">Toutes les coordonnées</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/systeme.html">À propos du gouvernement</a></li></ul>
+				<h4><span class="wb-inv">Thèmes et sujets</span></h4>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3"><li><a href="https://www.canada.ca/fr/services/emplois.html">Emplois</a></li>
+					<li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+					<li><a href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+					<li><a href="https://www.canada.ca/fr/services/entreprises.html">Entreprises</a></li>
+					<li><a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+					<li><a href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+					<li><a href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+					<li><a href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+					<li><a href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+					<li><a href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+					<li><a href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+					<li><a href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+					<li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Le Canada et le monde</a></li>
+					<li><a href="https://www.canada.ca/fr/services/finance.html">Argent et finance</a></li>
+					<li><a href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+					<li><a href="https://www.canada.ca/fr/services/autochtones.html">Autochtones</a></li>
+					<li><a href="https://www.canada.ca/fr/services/veterans-militaire.html">Vétérans et militaires</a></li>
+					<li><a href="https://www.canada.ca/fr/services/jeunesse.html">Jeunesse</a></li></ul>
+			</nav>
+		</div>
+	</div>			
+		<div class="gc-sub-footer">
+		<div class="container d-flex align-items-center">
+			<nav>
+				<h3 class="wb-inv">Organisation du gouvernement du Canada</h3>
+				<ul>
+					<li><a href="https://www.canada.ca/fr/sociaux.html">Médias sociaux</a></li>
+					<li><a href="https://www.canada.ca/fr/mobile.html">Applications mobiles</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/a-propos.html">À propos de Canada.ca</a></li><li><a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a></li>
+					<li><a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a></li></ul>			</nav>
+			<div class="wtrmrk align-self-end">
+				<img src="/theme-wet10/GCWeb/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada">
+			</div>
+		</div>
+	</div>
+	
+	
+	
+</footer>
+<script src="/theme-wet10/wet-boew/js/jquery/2.2.4/jquery.js"></script>
+<script src="/theme-wet10/wet-boew/js/wet-boew.min.js"></script>
+<script src="/theme-wet10/GCWeb/js/theme.min.js"></script>
+<script src="/scripts/dev-banner.js"></script>
+
+<!-- InvitationManager Files -->
+<script src="/invitation-manager/Overlay.js"></script>
+<script src="/invitation-manager/InvitationManager.js"></script>
+<!-- End InvitationManager Files -->
+
+
+
+
+</body>
+</html>

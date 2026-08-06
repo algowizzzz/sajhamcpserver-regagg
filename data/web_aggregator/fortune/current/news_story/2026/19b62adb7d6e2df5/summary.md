@@ -1,0 +1,1 @@
+Summary: # 5 years after NIL began, college coaches still out-earn the athletes they coach

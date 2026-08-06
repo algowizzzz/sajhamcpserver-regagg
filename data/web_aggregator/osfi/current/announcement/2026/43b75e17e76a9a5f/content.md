@@ -1,0 +1,290 @@
+# Development items and rationale since April 30, 2021
+
+Information
+
+Industry
+
+Insurance companies
+
+Last updated
+
+July 2023
+
+Table of contents
+
+Accompanying documents
+
+* [Final 2023 IFRS 17 Life Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions?title=&field_industry_target_id=All&field_publication_type_target_id=All&field_return_target_id=150)
+* [Final 2023 IFRS 17 Mortgage Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions?title=&field_industry_target_id=All&field_publication_type_target_id=All&field_return_target_id=151)
+* [Final 2023 IFRS 17 Property and Casualty Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions?title=&field_industry_target_id=All&field_publication_type_target_id=All&field_return_target_id=152)
+
+## Summary of changesAny questions should be addressed at [IFRS17@osfi-bsif.gc.ca](mailto:IFRS17@osfi-bsif.gc.ca)
+
+### 1. Schedules for Premiums Written
+
+**OSFI remarks**
+:   Premiums Written (reported under Legacy IFRS 4) information are required for the Provincial Regulators for the purpose of Premium Tax calculation on an annual basis. After internal discussion and consultation with the industry, OSFI has determined that Premiums Written (reported under Legacy IFRS 4) remains an important performance metric on business volume that are required for OSFI Supervisory work. Therefore a decision has been made to collect the information on a quarterly basis instead of annual basis.
+
+**Schedules and items impacted**
+:   * Sch 95.010 is moved from Supervisory Annual Return (LF3) to Supervisory Quarterly Return (LF2)
+    * Sch 93.30 is moved from Supervisory Annual Return (PC3) to Supervisory Quarterly Return (PC2). This schedule will now apply to both Canadian and Foreign P&C Insurers.
+    * Sch 93.30 is moved from Supervisory Annual Return (MI5) to Supervisory Quarterly Return (MI4)
+
+**Updated date**
+:   June 2021
+
+### 2. Asset for Insurance Acquisition Cash Flows
+
+**OSFI remarks**
+:   In the Assets schedule of the Statement of Financial Position, the cells on the line item Asset for Insurance Acquisition Cash Flows under the Vested in Trust columns have been shaded to prohibit data input as Asset for Insurance Acquisition Cash Flows is not an eligible asset to be vested in Trust.
+
+**Schedules and items impacted**
+:   The Asset for Insurance Acquisition Cash Flows cells under the Vested in Trust columns (Current Period, Prior Period Restated and Opening Prior Period Restated) are now shaded to prohibit data input on the following schedules :
+
+    * Sch 20.10 of Core Financial Statement Return (PC1);
+    * Sch 20.002 of Core Financial Statement Return (LF1); and
+    * Sch 70.002 of the Supervisory Quarterly Return (LF2).
+
+**Updated date**
+:   June 2021
+
+### 3. Instructions for PC2 and MI4 Schedule 80.25
+
+**OSFI remarks**
+:   In the instructions for Line 010 – Claims and Benefits and Line 100 – Losses on Onerous Contracts on Sch 80.25, references to include amounts from reinsurance services have been removed as the intent of the schedule is to capture expenses without the impact of reinsurance.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   October 2021
+
+### 4. Life Provincial Schedules 95.050, 95.060 95.070 and 98.065
+
+**OSFI remarks**
+:   After further discussions between the CLHIA and the CCIR, the provinces have agreed to the removal of the Insurance Revenue, Insurance Service Expenses, Net Expenses from Reinsurance Contracts Held and Insurance Revenue (Quebec) schedules. The instructions have also been revised accordingly.
+
+**Schedules and items impacted**
+:   The following schedules have been deleted:
+
+    * Sch 95.050 of the LF3 Supervisory Annual Return
+    * Sch 95.060 of the LF3 Supervisory Annual Return
+    * Sch 95.070 of the LF3 Supervisory Annual Return
+    * Sch 98.065 of the LFPROV Provincial Quarterly Return
+
+    The instructions have been revised to remove any reference to the deleted schedules above and the instructions for sch 95.010 have been re-arranged.
+
+**Updated date**
+:   November 2021
+
+### 5. Instructions for LF2 Schedules 35.035-35.065 and PC3 Schedules 60.90-60.95
+
+**OSFI remarks**
+:   Instructions have been added to clarity how the discount rates should be reported.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   November 2021
+
+### 6. Instructions for LF1 Schedules 20.002 and 20.004, and PC1 / MI3 Schedules 20.10 and 20.11
+
+**OSFI remarks**
+:   Instructions have been added to clarify where receivables and payables not related to insurance contracts should be reported.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   December 2021
+
+### 7. Instructions for PC3 and MI5 Schedule 60.45
+
+**OSFI remarks**
+:   Instructions have been added to clarify that:
+
+    * Amounts reported in this schedule should include Portfolio Acquisition/Disposition on insurance contracts (i.e. these amounts are not reported separately).
+    * Cumulative Net Claims & Adjustment Expenses Paid in Column 20 are paid claims and paid adjustment expenses on a net basis.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   December 2021
+
+### 8. Instructions for LF2 Schedules 35.035-35.065
+
+**OSFI remarks**
+:   Additional instructions have been added to clarify the rates to be reported in the schedules.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   February 2022
+
+### 9. Section III of the P&C instructions
+
+**OSFI remarks**
+:   The definition for Type 2 Structured Settlements have been updated to align with Guideline D-5 changes.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   March 2022
+
+### 10. Prior year comparatives
+
+**OSFI remarks**
+:   FRIs are expected to begin submitting the required regulatory reporting in the prescribed IFRS 17 format as outlined on OSFI’s website. To reduce burden on FRIs during the transition year, OSFI will reduce the prior period comparative data submission requirements.
+
+    OSFI expects all FRIs to apply the IFRS 17 standard for the prior year (i.e., 2022 for December 31 filers) comparative period on both the annual and quarterly Core returns (i.e., LF1, PC1 and MI3). This comparative expectation does not apply to Supervisory Quarterly Returns (i.e., LF2, PC2, MI4), Supervisory Annual Returns (i.e., LF3, PC3, MI5), Life Supplementary Quarterly Return (i.e., LF4) and Provincial (i.e., LFPROV, PCPROV, MIPROV). A summary is provided in the Appendix.
+
+**Schedules and items impacted**
+:   Life Sector
+
+    | Return | Prior year comparative applicability |
+    | --- | --- |
+    | Life Core Financial Statement Return (LF1) | Required |
+    | Life Supervisory Quarterly Return (LF2) | Not required |
+    | Life Supervisory Annual Return (LF3) | Not required |
+    | Life Provincial Return (LFPROV) | Not required |
+    | Life Supplementary Quarterly Return (LF4) | Not required |
+    | LICAT Quarterly Return | N/A |
+    | LICAT Annual Return | N/A |
+
+    Property and Casualty (P&C) Sector
+
+    | Return | Prior year comparative applicability |
+    | --- | --- |
+    | P&C Core Financial Statement Return (PC1) | Required |
+    | P&C Supervisory Quarterly Return (PC2) | Not required |
+    | P&C Supervisory Annual Return (PC3) | Not required |
+    | P&C Provincial Return (PCPROV) | Not required |
+    | MCT/BAAT Return (PC4) | N/A |
+
+    Mortgage Insurance (MI) Sector
+
+    | Return | Prior year comparative applicability |
+    | --- | --- |
+    | MI Core Financial Statement Return (MI3) | Required |
+    | MI Supervisory Quarterly Return (MI4) | Not required |
+    | MI Supervisory Annual Return (MI5) | Not required |
+    | MI Provincial Return (MIPROV) | Not required |
+    | MICAT Return | N/A |
+
+**Updated date**
+:   July 2022
+
+### 11. Filing requirements for Quebec P&C insurers
+
+**OSFI remarks**
+:   Add a footnote to indicate that Insurers incorporated in the province of Quebec don’t need to fill in page 10.17 of the P&C provincial return or page 10.10 of the P&C Annual Supervisory (PC3) return.
+
+**Schedules and items impacted**
+:   * P&C Provincial Return (PCPROV), page 10.17
+    * P&C Supervisory Annual Return (PC3), page 10.10
+
+**Updated date**
+:   October 2022
+
+### 12. Section III of the Life, P&C and MI instructions
+
+**OSFI remarks**
+:   * The definition for “Act” has been updated to reflect Quebec’s Insurers Act, CQLR, c. A-32.1;
+    * The definition for “Private Passenger Auto excluding Farmers (PPAxF)” has been updated under the P&C instructions only.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   October 2022
+
+### 13. Section IV of the Life and P&C instructions - October 2022
+
+**OSFI remarks**
+:   * Specify in the P&C instructions that amounts ceded to the Quebec RSP should be disclosed separately than the ones ceded to the Facility RSP, under pages 70.50 and 70.60;
+    * Update section reference of the Quebec Act under pages 85.40 and 85.45 of the P&C instructions;
+    * Update page title to reflect correct page 85.45 return page title of the P&C instructions;
+    * Update section reference of the Quebec Act under pages 98.060 and 98.065 of the Life instructions;
+    * Update French translation for “line of business” from “ligne d’affaires” to “secteurs d’acitivités” throughout the Life instructions.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   October 2022
+
+### 14. Section IV of the Life and P&C instructions - November 2022
+
+**OSFI remarks**
+:   * Addition of the filing frequency within the instructions for the Life Provincial Return (LFPROV) pages;
+    * Addition of the filing frequency within the instructions for the P&C Provincial Return (PCPROV) pages.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   November 2022
+
+### 15. Fronting captive arrangements for P&C insurers
+
+**OSFI remarks**
+:   Added OSFI’s expectation for the reporting of fronting captive arrangements for P&C insurers.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   December 2022
+
+### 16. Instructions for LF2 Schedule 23.045
+
+**OSFI remarks**
+:   Added temporary instruction to address an issue within Schedule 23.045 of the LF2.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. Changes to the LF2 return and validation rules will take place within a future release date.
+
+**Updated date**
+:   December 2022
+
+### 17. Instructions for LF2 Schedule 23.025
+
+**OSFI remarks**
+:   Instructions have been added to clarify how commissions related to cash flows should be reported in this schedule.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   March 2023
+
+### 18. Section IV of the Life, P&C and MI instructions - March 2023
+
+**OSFI remarks**
+:   Instructions have been added to clarify the filing frequency related to the Statement of cash flows within the LF1, PC1 and MI3 Core Financial Statement returns.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   March 2023
+
+### 19. Section IV of the Life, P&C and MI instructions - March 2023
+
+**OSFI remarks**
+:   Instructions have been revised to clarify OSFI’s expectations related to prior period comparative figures on the Equity Schedules within the Core Financial Statement (LF1, PC1, MI3) returns, and the Supervisory Quarterly (LF2, PC2, MI4) returns.
+
+**Schedules and items impacted**
+:   This change is only a change to the instructions. There are no changes to the returns or validation rules.
+
+**Updated date**
+:   July 2023
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-07-07

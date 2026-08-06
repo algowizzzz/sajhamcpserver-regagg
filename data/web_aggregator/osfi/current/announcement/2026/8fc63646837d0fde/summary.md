@@ -1,0 +1,1 @@
+Summary: # Cessation – Prorogation sous la Loi canadienne sur les sociétés par actions ou la Loi canadienne sur les organisations à but non lucratif

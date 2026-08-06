@@ -1,0 +1,25 @@
+{
+  "doc_id": "2e13296914a63518",
+  "regulator_id": "jfsa",
+  "doc_type": "announcement",
+  "title": "Minister KATAYAMA meets Mr. Hern\u00e1ndez de Cos, General Manager of the BIS, in Tokyo : FSA",
+  "language": "en",
+  "source_url": "https://www.fsa.go.jp/en/news/2026/20260421/20260421.html",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:63018d5a024e9d040c15a8d01cb4272da5462c879fae59789f5d3877d2a4a271",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_jfsa_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/jfsa/current/announcement/2026/2e13296914a63518",
+  "tags": [
+    "japan",
+    "banking",
+    "securities"
+  ]
+}

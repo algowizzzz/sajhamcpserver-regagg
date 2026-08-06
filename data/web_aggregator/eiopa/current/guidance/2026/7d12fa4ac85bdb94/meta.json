@@ -1,0 +1,27 @@
+{
+  "doc_id": "7d12fa4ac85bdb94",
+  "regulator_id": "eiopa",
+  "doc_type": "guidance",
+  "title": "EIOPA consults on guidelines on complex insurance-based investment products - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-consults-guidelines-complex-insurance-based-investment-products-2017-02-02_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:80325eeda41450428329c33bcf239228e066511bc89ada19e4aceee38931ce19",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/guidance/2026/7d12fa4ac85bdb94",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-consults-guidelines-complex-insurance-based-investment-products-2017-02-02_en",
+  "fetch_method": "html_to_md"
+}

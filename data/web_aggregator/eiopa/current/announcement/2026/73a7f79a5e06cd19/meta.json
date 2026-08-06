@@ -1,0 +1,27 @@
+{
+  "doc_id": "73a7f79a5e06cd19",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA welcomes the EU-U.S. covered agreement on insurance and reinsurance measures - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-welcomes-eu-us-covered-agreement-insurance-and-reinsurance-measures-2017-01-13_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9dc9b3738c8347f2fc6bb700f29eff539e04a8bcfd94930596a27044deeacb58",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/73a7f79a5e06cd19",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-welcomes-eu-us-covered-agreement-insurance-and-reinsurance-measures-2017-01-13_en",
+  "fetch_method": "html_to_md"
+}

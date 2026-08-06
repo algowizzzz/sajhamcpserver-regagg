@@ -1,0 +1,441 @@
+![Small Business](/sites/default/files/styles/wide_lead/public/media/2019/01/small_businesses.jpeg?h=b5f6a62e&itok=VaerW_hi "Small Business")
+
+[Information for Consumers](/consumers)
+
+## Information for Small Businesses
+
+Resources for small business owners, including the Healthy NY program and wage bond information.
+
+[TOP](#top)
+
+Information for Small Businesses
+
+SHARE
+
+* [See All](#)
+
+## Cybersecurity
+
+The Department of Financial Services recognizes that small businesses are the backbone of our economy. As doing business online becomes indispensable, it is essential that small businesses protect themselves and their customers from cybercrime.
+
+To help small businesses improve their cybersecurity, DFS has partnered with the Global Cyber Alliance (GCA) to provide free cybersecurity resources, including a Cybersecurity Toolkit for Small Business and a set of sample cybersecurity policies based on cybersecurity best practices.
+
+To access the Toolkit and sample policies, visit the [Global Cyber Alliance website](https://www.globalcyberalliance.org/financial-institutions/). (opens in a new tab/page)
+
+More guidance for small businesses can also be found in the DFS [Cybersecurity Resource Center](https://www.dfs.ny.gov/industry_guidance/cybersecurity).
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Property/Casualty Insurance
+
+Running a small business presents many challenges. As a small-business owner, you must try to minimize the financial risks your business faces. Some risks you may consider to be acceptable, while others are unacceptable because the loss would seriously harm your business or even force it to close. Many of these unacceptable risks can be transferred to an insurance company. The information in this guide is designed to help small-business owners make informed decisions regarding their insurance needs.
+
+### Why do Small Businesses Need Property and Casualty Insurance?
+
+Small businesses need property and casualty insurance:
+
+* to protect their assets
+* to replace property damaged by loss or theft
+* to provide for lost income
+* to cover liability for negligent acts
+* to provide coverage for auto, workers’ compensation, crime, etc.
+
+If you are not adequately insured, you risk losing your business! Businesses large and small must protect themselves from financial loss. An important part of such protection centers on insurance covering property loss exposures, which include the costs to repair or replace the property in the event of a covered loss. The property and casualty insurance business plays a major role in keeping the American economy moving. It provides economic protection for individuals, business owners and professionals from losses resulting from damage to or loss of property and from legal liability. There are a few types of insurance every business needs. If you’re already a business owner, you have probably bought policies that covered those areas when you first opened
+
+### Types of Insurance
+
+#### Business Owners Policies
+
+Many insurance companies have bundled property and liability coverage into what is commonly called a business owner’s policy (BOP), or a package policy. It allows you to obtain broad coverage with affordable premiums. Since no two businesses are the same, property insurance can be tailored to fit your needs. For example, a furniture store has different needs than a restaurant; a two-person accounting office has liability exposures that are different from a retail business with lots of customer interaction or a builder with a contractual obligation to erect a building.
+
+#### Monoline Policies
+
+Monoline policies provide a single line of insurance, e.g.: fire, or liability, or auto, etc. BOPs and package policies are created by combining two or more monoline coverages. There are occasions where insurance for your type of risk may not be available as a package policy. Thus, it would be necessary to purchase your property and liability coverage as separate policies. It’s prudent for any business to purchase a number of basic types of insurance. Some are required by law, others simply make good business sense. The types of insurance listed below are among the most commonly used.
+
+#### Property
+
+Property insurance protects the contents of your business against fire, theft and other perils. There are many different types of property insurance and levels of coverage available. It’s important to determine the property you need to insure for the continuation of your business and the level of insurance you need to replace or rebuild. You must also understand the terms of the insurance, including any limitations or exclusions.
+
+Consider increasing your deductible to reduce your premium, and spend the savings by increasing your coverage. Learn the difference between replacement cost, actual cash value, agreed amount and functional replacement cost.
+
+#### Casualty
+
+Casualty insurance includes the coverage commonly referred to as Liability insurance. Liability coverage should protect your assets in the event you, or your employees are negligent, cause bodily injury or property damage to another. Businesses may incur various forms of liability in conducting their normal activities. This is what covers the cost of lawsuits stemming from accidents that cause bodily injury (i.e., a customer slips on your steps) or property damage (you sell a defective lubricant that burns out a customer’s car engine), and other miscellaneous claims such as libel, slander and false advertising. Liability insurance will not only pay the cost of the damages, but also the attorney fees and other costs associated with your defense in a lawsuit, whether or not the lawsuit has merit. However, liability insurance might not protect you against claims arising from non-performance of a contract, wrongful termination of employees, sexual harassment, or race and gender lawsuits. This is another good reason to carefully read your policy.
+
+#### Business Interruption
+
+While property insurance may pay enough to replace damaged or destroyed equipment or buildings, how will you pay costs such as taxes, utilities and other continuing expenses during the period between when the damage occurs and when the property is replaced? Business interruption (or business income) insurance can provide sufficient funds to pay your fixed expenses and lost business income during a period of time when your business is not operational. Business income means the net income (net profit or loss before income taxes) that would have been earned or incurred, as well as continuing normal operating expenses incurred, including payroll. Extra expense coverage will reimburse you for covered expenses while temporarily relocated at another premise during your reconstruction due to a covered loss.
+
+#### Commercial Auto
+
+It may seem obvious that a vehicle owned by your business should be insured for both liability and physical damage. What is less obvious is that you may also need special insurance, called non-owned automobile coverage, if you or your employees use your personal vehicles on company business. This policy covers the business’s liability for any damage that may result from such usage. Do you realize that if you send an employee out to pick up pizza for the crew and he/she gets in an auto accident, your business could get sued even if the vehicle is not company owned? This policy may also cover rental cars when you travel on business. Read the fine print or ask your agent to be sure. Hired and non-owned coverage is a real bargain.
+
+#### Workers' Compensation
+
+Worker’s compensation insurance covers workers against a job-related accident or disease. This statutory insurance pays for medical bills, disability income benefits, and death benefits to dependents of an employee whose death is job related. Rates are based on payroll, and depend heavily on your industry, i.e., rates for clerical payroll are nominal, while a roofing company will be charged much more. If your work force is expanding, you should update your workers’ comp coverage as you go along to avoid being hit with an audited additional charge at the end of the year.
+
+#### New York Disability Benefits Law (NYDBL)
+
+Disability Benefits are another employee disability coverage mandated by New York State. It provides disability income for employee injury or illness off-the-job. This wage continuation starts after the seventh day of off-the-job illness or injury and continues for up to six months.
+
+#### Excess Liability
+
+Excess Liability is commonly referred to as an “umbrella” policy. What happens when a lawsuit filed against you brings in a verdict that exceeds the limits of your primary liability protection? It’s bad news for you, unless you have adequate limits of liability coverage. An umbrella policy kicks in only when the limit of the basic, underlying policy is reached. Buy an umbrella policy and you can dramatically extend your coverage for a relatively small additional cost. How much coverage do you need? That’s your decision, and your answer should hinge on the total value of your assets. Your insurance agent should be able to guide you in picking an amount of coverage that will bring you peace of mind.
+
+#### Employment Practices Liability
+
+Ten years ago, this coverage was virtually non-existent, but now it is widely available. It’s also widely needed. You are protected if any employee sues your company for wrongful termination, job discrimination or any of the other increasingly popular claims alleging failures in your employment practices.
+
+#### Officer and Director Liability
+
+Under some circumstances, officers and directors of a corporation may become personally liable for their actions on behalf of the company. This type of policy covers such liability.
+
+#### Office at Home
+
+If you’re establishing an office in your home, it’s a good idea to contact your homeowners’ insurance company to update your policy to include coverage for office equipment and business liability. This coverage is not automatically included in a standard homeowner’s policy.
+
+#### Key Person Insurance
+
+If you (and/or any other individual) are so critical to the operation of your business that it cannot continue in the event of your illness or death, you should consider “key person” insurance. This type of policy is frequently required by banks or government loan programs. It also can be used to provide continuity in operations during a period of ownership transition caused by the death or incapacitation of an owner or other key employee.
+
+**Professional Liability** is incurred by a professional such as a physician, nurse, attorney, or architect for negligent acts occurring as professional, services are performed.
+
+#### All-In-One Package Policies
+
+Too many choices? Insurance companies understand that busy entrepreneurs don’t want to spend days studying the minutiae involved in evaluating numerous policies. The result is an increasing popularity of one-stop shopping policies, called BOPs, combining many coverages under one policy, usually at a competitive price.
+
+A package policy offers protection for:
+
+* buildings and other structures,
+* leased or owned
+* furniture, equipment and supplies
+* leased equipment
+* inventory
+* business income
+* extra expense
+* business liability
+* medical expense
+* losses from crime
+
+#### Specific Industry Coverage
+
+Many insurance companies have determined that certain businesses are eligible for a specifically designed insurance program. These policies usually include specialty coverage that is advantageous to those businesses. Some of these special classes include, but are not limited to:
+
+* Artisan Contractors
+* Barber and Beauticians Professional Liability
+* Dental Professional Liability
+* Engineers and Architects Professional Liability
+* Farm Property and Liability
+* Florists
+* Funeral Directors Professional Liability
+* Furriers
+* Garage and Auto Dealers Liability and Physical Damage
+* Jewelers
+* Liquor Legal Liability
+* Medical Malpractice Professional Liability
+* Optical and Hearing Aid Professional Liability
+* Pastoral Professional Liability
+* Printers Errors and Omissions
+* Retail Merchant Package
+* Veterinarians Professional Liability
+* Shopping for Insurance
+
+### Shop Around
+
+Premiums charged for business insurance vary widely from company to company. It pays to shop around to obtain the best value for your insurance dollar. Insurance premiums are dependent on a number of factors including location, age and type of building, use of building, local fire protection, choice of deductibles, application of discounts, and scope and amount of insurance you purchase. Selecting the insurance program most appropriate for the needs and resources of your small business is a complex task. There are three groups of insurance professionals who can guide you in making the best decision:
+
+#### Agents
+
+Agents are licensed representatives of insurance companies who are responsible for marketing its products. They usually earn commissions based on their sales. They might represent only one company (captive), or several companies (independent).
+
+#### Brokers
+
+Brokers are licensed representatives who represent a number of different carriers. They earn commissions based on their sales. Brokers are construed to represent the buyer.
+
+#### Consultants
+
+Insurance consultants can help evaluate a business’s needs, design a plan and recommend the most economical carrier. But for small businesses, a qualified agent/broker can do the same thing. The consultant is paid by the buyer, based on a contract or agreement.
+
+### Choose an Insurance Company Carefully
+
+Remember that when you select a carrier, you should base your decision not only on the plan it offers, but also on its reputation, stability and record in serving the small-business market.
+
+#### Determine the Financial Stability of the Carrier
+
+Ask for a copy of its rating by A.M. Best & Co., Standard & Poor’s, or Duff & Phelps from the broker, agent or the company itself. For more information, contact the New York State Department of Financial Services, which is responsible for licensing carriers and monitoring their operations.
+
+#### Claims Management
+
+Minimizing actual claims can have an impact on your premium. While we buy insurance for protection against loss, claims can tend to result in higher insurance premiums. While you may decide to accept more risk by selecting higher deductibles, it’s equally important to take preventive steps to reduce the likelihood of loss. Protecting your premises from fire with good housekeeping, building code compliance, fire protection systems and alarms could help avoid claims. Injuries to others might be avoided by installing lights where needed, keeping walkways and steps in good repair, posting signs in hazardous areas, and eliminating other hazards whenever possible.
+
+### Problems Obtaining Insurance
+
+Occasionally your type of business might not be insurable by “standard” insurance companies, in the “standard” marketplace. If you’re unable to find an insurance company that will sell you BOP or monoline policies, or if you cannot obtain certain coverage such as fire or flood insurance, you can turn to special insurance facilities. They include:
+
+#### New York Property Insurance Underwriting Association (NYPIUA)
+
+NYPIUA is a pool of insurance companies writing fire insurance in New York State. It offers fire and extended coverage, as well as coverage for vandalism, malicious mischief and sprinkler leakage to consumers who are unable to purchase this type of insurance from individual insurance companies. Business income insurance may be provided to manufacturing and non-manufacturing operations. However, since coverage offered through NYPIUA is sold at a higher premium than coverage offered in the voluntary market (as a general rule) you and your agent/broker should make every effort to get this insurance from a voluntary insurer. Detailed information is available from New York Property Insurance Underwriting Association, 100 William Street, New York, NY 10038, (212) 208-9700, or from any licensed agent or broker in this state. Outside New
+
+#### National Flood Insurance Program (NFIP)
+
+Insurance coverage for losses resulting from floods is for the most part not provided in any of the previously mentioned monoline or BOP policies. However, property owners can purchase insurance protection against losses from flooding through the NFIP if the property is in a community designated as a special flood hazard area that implements and enforces measures to reduce future flood risks. Additional information is available from the Federal Emergency Management Agency, Federal Insurance Administration, 500 C Street, S.W., Washington, DC 20472, or by calling 1-800-638-6620.
+
+#### Excess and Surplus Line Brokers
+
+If your property or liability exposures are uninsurable in the traditional insurance market, your agent or broker can represent you to an “excess lines” insurance company or broker, possibly obtaining the required coverage from an insurance company that specializes in special risk situations. These companies are often non-admitted carriers (not licensed by the NYSDFS), so special caution and procedures are required. Your agent or broker can assist you, and the NYSDFS requires him/her to carefully advise you of possible pitfalls.
+
+### Risk Management
+
+Risk management is a process of well-defined steps that will enable you to identify situations that could create exposures and risks that would be detrimental to your business. Here are five techniques that will help you better manage risk:
+
+#### Risk Avoidance
+
+Avoid performing dangerous activities. Consider outsourcing any process hazardous to your health or premises.
+
+#### Risk Reduction
+
+A store owner might install video surveillance to reduce petty thefts.
+
+#### Risk Retention
+
+Assume some risk via higher deductibles, eliminate collision coverage on lower value vehicles, etc.
+
+#### Risk Transfer by Contract
+
+If you lease out part of your premises, you might require your tenant to protect you from liability claims of people they allow in the building.
+
+#### Risk Transfer by Insurance
+
+You agree to pay a premium, and the insurance company agrees to pay certain losses that may occur.
+
+### Common Mistakes
+
+* Carrying no coverage at all. (Surprisingly, some businesses don’t.)
+* Not obtaining commercial insurance on company cars.
+* Purchasing inadequate liability coverage.
+* Not buying disaster insurance, e.g., flood or earthquake.
+* Failure to use a professional agent who knows your business.
+* Not purchasing employment practices liability.
+* Not covering family members under workers’ compensation.
+* Not obtaining competitive quotes for your insurance quotes.
+* Filing frivolous claims.
+* Not doing annual insurance checkups. Sustained business success requires you to review your needs regularly.
+* Failing to report a loss to your insurance company within the time limits specified in your policy.
+
+Few things in life are riskier than launching and running your own business. Don’t compound that risk by neglecting your business insurance needs. Protecting your business from financial disaster will not only preserve all of your hard work and long hours, but will also let you sleep better.
+
+### Commercial Property Forms
+
+Use the information listed below as a guide to help select specific insurance coverage most appropriate to protecting your operation from financial disaster. Please note, however, that this information is intended as a guide only. Some insurance companies may not offer all of the coverages listed, or may offer a variation. Always deal with a licensed insurance representative and read your policy carefully.
+
+#### Basic Form Coverage
+
+This coverage protects your business against these perils or causes of loss:
+
+Fire, plus extended coverage, consisting of:
+
+* Lightning
+* Explosion
+* Windstorm or hail
+* Smoke
+* Aircraft or vehicles
+* Riot or civil commotion
+* Vandalism
+* Sprinkler leakage
+* Sinkhole collapse
+* Volcanic action
+
+#### Broad Form Coverage
+
+Includes Basic Fire, extended coverage, plus:
+
+* Breakage of glass
+* Falling objects
+* Weight of snow, ice or sleet
+* Water damage (accidental discharge as a direct result of broken water system)
+
+#### Special Form Coverage
+
+Provides “all risk” protection. The term “all risk” is a misnomer. This excellent coverage includes basic form, plus broad form coverage (above). In addition, this form covers any other loss, unless the peril is specifically excluded, such as flood, earthquake, war, nuclear accident, etc. Check your policy for a complete listing of perils excluded.
+
+#### Property Coverage
+
+Options might include one or more of the following endorsements:
+
+* Accounts receivable
+* Additional insured endorsement
+* Automatic annual increase in building limit of insurance
+* Automatic seasonal increases in business personal property
+* Backup of sewer and drains
+* Boiler and machinery
+* Builder’s risk and building material
+* Civil authority
+* Condominium coverage
+* Consequential loss
+* Contractors equipment
+* Crime
+* Data processing
+* Debris removal
+* Difference in conditions
+* Earthquake
+* Electronic media and records or computer coverage
+* Employee dishonesty
+* Equipment breakdown
+* Equipment dealers form
+* Fine arts
+* Fire protective equipment discharge
+* Forgery and alteration
+* Full coverage for glass as part of the building limit(s) of insurance
+* Improvements
+* Increased cost of construction
+* Inland marine
+* Intangible property such as goodwill, trademarks
+* Loss of rents
+* Manufacturers
+* Mechanical breakdown
+* Mobile property
+* Money and securities
+* Newly acquired or constructed property
+* Ocean marine cargo
+* Ordinance and law
+* Personal property of your employees
+* Personal property of your customers
+* Personal property off premises
+* Pollutant cleanup and removal
+* Product tampering and accidental contamination
+* Property of others in your care, custody and control
+* Refrigerated food spoilage coverage
+* Satellite dishes
+* Signs, fences and other outdoor property
+* Trees, shrubs, landscaping
+* Tool floater
+* Transportation
+* Truckers form
+* Utility services – direct damage and time element
+* Valuable papers and records –cost of research
+
+When you obtain property insurance, you and the insurance company must agree on what valuation method you will use to determine the value of your structures, thus insuring a fair settlement at the time of a loss. You must be aware of the following methods of valuing your property:
+
+**Actual cash valuation** – the replacement cost minus depreciation.
+
+**Replacement cost valuation** – the replacement cost without deducting depreciation.
+
+**Agreed amount or functional replacement cost** – commonly used to value art objects and other unique items.
+
+**Liability coverage** — options might include one or more of the following endorsements:
+
+* Aircraft
+* Boat owners
+* Employees as additional insured(s)
+* Fiduciary liability
+* Fire legal liability
+* Hired auto and
+* Host liquor liability
+* Non-owned watercraft
+* Personal injury (libel, slander, etc.)
+* Premises medical payments
+* Products and completed operations
+
+**Surety Bonds** — Provides monetary compensation if the bonded party fails to perform certain acts.
+
+Although surety bonds are not uniform and have different characteristics, they can generally be grouped into the following categories:
+
+* Contract Bonds include bid, performance payment and maintenance bond
+* License and permit bonds
+* Public official bonds
+* Judicial bonds include fiduciary and court bonds
+* Miscellaneous includes financial institutions, ERISA compliance, etc.
+
+### Glossary
+
+**Agent** — licensed producers (sales), primarily representing the insurance company to the buyer. May also be a licensed broker.
+
+**Alien insurers** — insurance companies domiciled outside of the united states.
+
+**Authorized/licensed/admitted** — insurance companies that are licensed to operate in New York.
+
+**Broker** — licensed producers (sales), primarily representing the buyer to the insurance company. May also be a licensed agent.
+
+**Domestic insurers** — insurance companies domiciled and licensed in New York state.
+
+**Endorsements** — written provision that adds to, deletes or modifies the provisions of the original contract.
+
+**Excess and/or surplus lines** — insurance placed with unauthorized insurance companies that are not licensed in New York.
+
+**Foreign insurers** — insurance companies domiciled in a state other than New York, but may be licensed by New York.
+
+**Insured** — a person entitled to benefits under the terms of a policy. Generally, could include your employees, related entities, etc.
+
+**Named insured** — same as the policyholder.
+
+**Policyholder** — the person(s) or entity whose name appears on the policy.
+
+**Rider** — term used in insurance contracts to describe a document that amends or changes the original policy.
+
+**Unauthorized/non-licensed/ non-admitted** — insurance companies that are not licensed by New York.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Healthy NY
+
+The Health Care Reform Act of 2000 introduced the Healthy NY program to provide more affordable health insurance to New Yorkers who need it most. Healthy NY, in partnership with HMOs and other insurance companies in New York State, offers comprehensive health insurance to small businesses. DFS oversees the program.
+
+For more information, please visit our [Healthy NY page](/consumers/healthyny).
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Outside Resources
+
+### Other New York State Agencies
+
+* [Department of Labor](https://www.labor.ny.gov/home/)
+* [Department of State](https://dos.ny.gov/)
+* [Small Business Development Center](https://www.nyssbdc.org/)
+* [Taxation and Finance](https://www.tax.ny.gov/bus/)
+* [Empire State Development Division for Small Business](https://esd.ny.gov/doing-business-ny/small-business-hub)
+
+#### Minority and Women-Owned Business Development (ESD)
+
+* [Certification (ESD)](https://esd.ny.gov/doing-business-ny/mwbe/mwbe-certification-assessment)
+* [MWBE Business Growth Accelerator (ESD)](https://esd.ny.gov/mwbe-business-growth-accelerator-program)
+* [MWBE Mentor Program (ESD)](https://esd.ny.gov/doing-business-ny/mwbe/mwbe-business-development-unit/mwbe-mentor-protege-program)
+
+#### Green Economy
+
+* [Cleantech and Renewable Energy (ESD)](https://esd.ny.gov/industries/cleantech-and-renewable-energy)
+* [Innovation and Entrepreneurship (ESD)](https://esd.ny.gov/entrepreneurship-navigator)
+
+### Other Outside Resources
+
+* [The Business Council of New York State, Inc.](https://www.bcnys.org/)
+* [U.S. Small Business Administration](https://www.sba.gov/)
+* [The Surety and Development Association of America](https://surety.org/)
+* [Surety Information Office](https://www.sio.org/)
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Questions?
+
+If you have feedback, or have a question about a small business issue or small business insurance email our [Small Business mailbox](/cdn-cgi/l/email-protection#ecbf818d8080c2ae999f8582899f9fac888a9fc28295c28b839a). Include your name, mailing address and telephone number along with your questions and concerns.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue

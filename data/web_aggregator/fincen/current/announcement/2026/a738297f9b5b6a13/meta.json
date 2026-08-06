@@ -1,0 +1,24 @@
+{
+  "doc_id": "a738297f9b5b6a13",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Mandatory E-Filing FAQs | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/mandatory-e-filing-faqs",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:87ce616cbe2a089669232bcee8e2d20aa465c9f04e725e5893be0a939a6259ca",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/a738297f9b5b6a13",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12368",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Form 3-Initial Statement of Beneficial Ownership of Securities",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12368/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-form",
+  "reference_number": "2026-12368",
+  "published_date": "2026-06-22",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ccf30f7690349c87d1e8aa21a54d0a8db137a85e5bfc885db15d67721a1c3569",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12368",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

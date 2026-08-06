@@ -1,0 +1,72 @@
+# Financial Trend Analyses
+
+The reports listed below have been issued pursuant to section 6206 of the Anti-Money Laundering Act of 2020 (AMLA), which requires FinCEN to periodically publish threat pattern and trend information derived from Bank Secrecy Act (BSA) filings. These reports highlight the value of information filed by financial institutions in accordance with the Bank Secrecy Act.
+
+**Business Email Compromise**
+
+* [Business Email Compromise in the Real Estate Sector: Threat Pattern and Trend Information, January 2020 to December 2021](/system/files/shared/Financial_Trend_Analysis_BEC_FINAL.pdf) (March 30, 2023)
+
+**Chinese Money Laundering Networks**
+
+* [Chinese Money Laundering Networks: 2020 - 2024 Threat Pattern & Trend Information](/system/files/2025-08/4000-10-INV-144549-S3F6L-FTA-CMLN-508.pdf) (August 28, 2025)
+* [Redes chinas de lavado de dinero: Información sobre patrones de amenazas y tendencias, 2020 - 2024](/system/files/2026-01/FinCEN-FTA-CMLN-Spanish.pdf) (January 13, 2026)
+
+**Elder Financial Exploitation**
+
+* [Elder Financial Exploitation: Threat Pattern & Trend Information, June 2022 to June 2023](/system/files/shared/FTA_Elder_Financial_Exploitation_508Final.pdf) (April 18, 2024)
+
+**Export Control Evasion**
+
+* [FinCEN Analysis Reveals Trends and Patterns in Suspicious Activity Potentially Tied to Evasion of Russia-Related Export Controls](/system/files/shared/FTA_Russian_Export_Controls_FINAL_508.pdf) (September 8, 2023)
+
+**Fentanyl**
+
+* [FinCEN Issues Analysis of Fentanyl-Related Threat Patterns and Trends in Bank Secrecy Act Reports](/system/files/shared/FinCEN-FTA-Fentanyl.pdf) (April 9, 2025)
+
+**Financial Activity by Russian Oligarchs**
+
+* [Trends in Bank Secrecy Act Data: Financial Activity by Russian Oligarchs in 2022](/system/files/2022-12/Financial Trend Analysis_Russian Oligarchs FTA _Final.pdf) (December 22, 2022)
+
+**Identity**
+
+* [Identity-Related Suspicious Activity: 2021 Threats and Trends](/system/files/shared/FTA_Identity_Final508.pdf) (January 9, 2024)
+
+**Iran**
+
+* [Iranian Shadow Banking: Trends in Bank Secrecy Act Data](/system/files/2025-10/FTA-Iranian-Shadow-Banking.pdf) (October 23, 2025)
+
+**Mail Theft-Related Check Fraud**
+
+* [Mail Theft-Related Check Fraud: Threat Pattern & Trend Information, February to August 2023](/system/files/shared/FTA-Check-Fraud-FINAL508.pdf) (September 9, 2024)
+* [Fraude de cheques relacionado con el robo de correo: Información sobre patrones y tendencias de amenazas, Febrero a Agosto 2023](/system/files/2024-12/FTA-Check-Fraud-Translation-FINAL508.pdf) (December 11, 2024)
+
+**Online Child Sexual Exploitation and Human Trafficking**
+
+* [Use of Convertible Virtual Currency for Suspected Online Child Sexual Exploitation and Human Trafficking: Threat Pattern & Trend Information, January 2020 to December 2021](/system/files/shared/FTA_Human_Trafficking_FINAL508.pdf) (February 13, 2024)
+
+**Ransomware**
+
+* [Ransomware Trends in Bank Secrecy Act Data Between 2022 and 2024](/system/files/2025-12/FTA-Ransomware.pdf) (December 4, 2025)
+* [Report on Ransomware Trends in Bank Secrecy Act Data between July 2021-December 2021](/system/files/2022-11/Financial%20Trend%20Analysis_Ransomware%20FTA%202_508%20FINAL.pdf) (November 1, 2022)
+* [Ransomware Trends in Bank Secrecy Act Data Between January 2021 and June 2021](/system/files/2021-10/Financial%20Trend%20Analysis_Ransomware%20508%20FINAL.pdf) (October 15, 2021)
+
+**Wildlife Trafficking**
+
+* [Illicit Finance Threat Involving Wildlife Trafficking and Related Trends in Bank Secrecy Act Data](/system/files/2021-12/Financial_Threat_Analysis_IWT_FINAL 508_122021.pdf) (December 20, 2021)
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

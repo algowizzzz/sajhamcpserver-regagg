@@ -1,0 +1,2833 @@
+﻿<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="fr" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<html class="no-js" lang="fr" dir="ltr">
+<!--<![endif]-->
+<head>
+	
+
+
+
+    <meta charset="utf-8">
+    <!-- Version 17.1.1 Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+	<title>Module 1 : Spécifications générales</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta name="description" content="Le présent document de spécifications a pour objet de communiquer aux entités déclarantes les exigences et les conditions à satisfaire pour la transmission des déclarations suivantes au Centre d'analyse des opérations et déclarations financières du Canada (CANAFE), en utilisant le transfert électronique de fichiers par lots">
+    <meta name="dcterms.title" content="Module 1 : Spécifications générales | CANAFE – Canada.ca  ">
+    <meta name="dcterms.creator" content="Gouvernement du Canada, Centre d'analyse des opérations et déclarations financières du Canada">
+    <meta name="dcterms.issued" title="W3CDTF" content="2017-06-29">
+    <meta name="dcterms.modified" title="W3CDTF" content="2017-06-29">
+    <meta name="dcterms.subject" title="scheme"  content="Rapport, spécification, système, instructions, technologie de l'information, programmation">
+    <meta name="dcterms.language" title="ISO639-2"  content="fra">
+
+	<link href="/theme-wet10/gcweb/assets/favicon.ico" rel="icon" type="image/x-icon">
+	<!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">-->
+	<link rel="stylesheet" href="/theme-wet10/gcweb/css/wet-boew.min.css">
+
+	<link rel="stylesheet" href="/theme-wet10/GCWeb/css/theme.min.css">
+    <link rel="stylesheet" href="/scripts/css/fintrac.css">
+	
+	<!--InvitationManager Files -->
+	<link rel="stylesheet" href="/invitation-manager/Overlay.css">
+	<!-- End InvitationManager Files -->
+
+<noscript><link rel="stylesheet" href="/theme-wet10/wet-boew/css/noscript.min.css" /></noscript>
+
+	  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P63QM5N0BY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-P63QM5N0BY');
+  </script>
+
+	
+</head>
+<body vocab="http://schema.org/" typeof="WebPage">
+
+
+
+<nav id='nav'>
+<ul id="wb-tphp">
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-cont">Passer au contenu principal</a>
+</li>
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-info">Passer à Au sujet du gouvernement</a>
+</li>
+</ul>
+</nav>
+
+
+<header>
+<div id="wb-bnr" class="container">
+<div class="row">
+<section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+<h2 class="wb-inv">Sélection de la langue</h2>
+<ul class="list-inline mrgn-bttm-0">
+<li>
+<!-- Check this -->
+<a lang="en" hreflang="en"  href="/reporting-declaration/batch-lots/mod1-fra.php">
+<span class="hidden-xs">English</span><abbr title="English" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">en</abbr></a>
+</li>
+</ul>
+</section>
+<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" resource="#wb-publisher" typeof="GovernmentOrganization">
+
+
+<a href="https://www.canada.ca/fr.html" property="url"><img src="/theme-wet10/GCWeb/assets/sig-blk-en.svg" alt="Gouvernement du Canada" property="logo"><span class="wb-inv"> / <span lang="en">Government of Canada</span></span></a>
+<meta property="name" content="Gouvernement du Canada">
+<meta property="areaServed" typeof="Country" content="Canada">
+<link property="logo" href="/theme-wet10/GCWeb/assets/wmms-blk.svg">
+</div>
+<section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+<h2>Recherche</h2>
+<form action="https://www.canada.ca/fr/analyse-operations-declarations-financieres/rechercher.html" method="get" name="cse-search-box" role="search">
+<div class="form-group wb-srch-qry">
+<label for="wb-srch-q" class="wb-inv">Recherche sur le site de CANAFE</label>
+<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Recherche sur le site de CANAFE">
+<datalist id="wb-srch-q-ac">
+</datalist>
+</div>
+<div class="form-group submit">
+<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
+</div>
+</form>
+</section>
+</div>
+</div>
+
+
+	<nav class="gcweb-menu" typeof="SiteNavigationElement">
+	<div class="container">
+	<h2 class="wb-inv">Menu</h2>
+	<button type="button" aria-haspopup="true" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+	<ul role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/emplois.html">Emplois et milieu de travail</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+	<li role="presentation"><a role="menuitem" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+	<li role="presentation"><a role="menuitem" href="https://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+	</ul>
+	</div>
+	</nav>
+	
+
+<nav id="wb-bc" property="breadcrumb">
+<h2>Vous êtes ici :</h2>
+<div class="container">
+<ol class="breadcrumb">
+<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a> </li><li><a href='/intro-fra'>CANAFE</a> </li><li><a href='/reporting-declaration/electron-fra'>Méthodes de déclaration à CANAFE</a> </li><li><a href='/reporting-declaration/info/f2r-eng'>Système de déclaration en ligne de CANAFE</a> </li></ol>
+</div>
+</nav>
+</header>
+<main property="mainContentOfPage" resource="#wb-main" class="container" typeof="WebPageElement"><h1 id="wb-cont" property="name">Module 1 : Spécifications générales</h1>
+
+<p><strong>Instructions et spécifications pour la transmission standard ASCII de déclarations par lots</strong><br/>
+  <strong>30 mai 2015</strong>
+</p>
+
+<h2>Sur cette page</h2>
+<ul>
+  <li class="list-unstyled"><strong><a href="#s0">Modifications apportées dans la présente version</a></strong></li>
+</ul>
+  <ol class="mrgn-lft-lg">
+  
+          <li><strong><a href="#s1">Renseignements généraux</a></strong></li>
+  <li><strong><a href="#s2">Procédures d'acceptation</a></strong></li>
+  <li><strong><a href="#s3">Transmission, accusé de réception et modification des lots</a></strong>
+    <ul>
+      <li class="list-unstyled">3.1 <a href="#s3.1">Catégorie de lot «&nbsp;A&nbsp;» — Ajout d'un nouveau lot de déclarations</a></li>
+      <li class="list-unstyled">3.2 <a href="#s3.2">Accusé de réception de lot</a>
+        <ul>
+          <li class="list-unstyled">3.2.1 <a href="#s3.2.1">Lot accepté</a></li>
+          <li class="list-unstyled">3.2.2 <a href="#s3.2.2">Lot rejeté</a></li>
+        </ul>
+      </li>
+      <li class="list-unstyled">3.3 <a href="#s3.3">Déclarations retournées à des fins de modification (DRM)</a></li>
+      <li class="list-unstyled">3.4 <a href="#s3.4">Modification</a>
+        <ul>
+          <li class="list-unstyled">3.4.1 <a href="#s3.4.1">Catégorie de lot «&nbsp;C&nbsp;» — Transmission de corrections</a></li>
+          <li class="list-unstyled">3.4.2 <a href="#s3.4.2">F2R</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong><a href="#s4">Spécifications générales</a></strong>
+    <ul>
+      <li class="list-unstyled">4.1 <a href="#s4.1">Exigences générales de formatage</a></li>
+      <li class="list-unstyled">4.2 <a href="#s4.2">Champs obligatoires et champs requis</a></li>
+      <li class="list-unstyled">4.3 <a href="#s4.3">Structure du lot</a></li>
+    </ul>
+  </li>
+  <li><strong><a href="#s5">Formatage des déclarations transmises par lots</a></strong>
+    <ul>
+      <li class="list-unstyled">5.1 <a href="#s5.1">Configuration détaillée — En-tête, sous-en-tête et fin de lot</a>
+        <ul>
+          <li class="list-unstyled">5.1.1 <a href="#s5.1.1">Exemples d'en-tête, de sous-en-tête et de fin de lot</a></li>
+        </ul>
+      </li>
+      <li class="list-unstyled">5.2 <a href="#s5.2">Configuration des déclarations transmises par lots – Format de la version 03 et 04</a>
+        <ul>
+          <li class="list-unstyled">5.2.1 <a href="#s5.2.1">Configuration détaillée (format de la version 04) – Déclaration d'opérations douteuses (DOD)</a></li>
+          <li class="list-unstyled">5.2.2 <a href="#s5.2.2">Configuration détaillée (format de la version 03) – Déclaration relative aux opérations importantes en espèces (DOIE)</a></li>
+          <li class="list-unstyled">5.2.3 <a href="#s5.2.3">Configuration détaillée (format de la version 03) – Déclarations relatives aux télévirements internationaux autres que les messages SWIFT</a></li>
+        </ul>
+      </li>
+      <li class="list-unstyled">5.3 <a href="#s5.3">Diagrammes de production des déclarations</a></li>
+    </ul>
+  </li>
+  <li><strong><a href="#s6">Tables de codes et règles d'introduction des noms</a></strong>
+    <ul>
+      <li class="list-unstyled">6.1 <a href="#s6.1">Tables de codes</a></li>
+      <li class="list-unstyled">6.2 <a href="#s6.2">Règles d'introduction des noms</a></li>
+    </ul>
+  </li>
+  <li><strong><a href="#s7">Formatage des accusés de réception</a></strong>
+    <ul>
+      <li class="list-unstyled">7.1 <a href="#s7.1">Configuration détaillée – Accusé de réception de lots</a>
+        <ul>
+          <li class="list-unstyled">7.1.1 <a href="#s7.1.1">Configuration générale de l'accusé de réception</a></li>
+          <li class="list-unstyled">7.1.2 <a href="#s7.1.2">Exemples d'accusé de réception de type général</a>
+            <ul>
+              <li class="list-unstyled">7.1.2.1 <a href="#s7.1.2.1">Exemple d'accusé de réception pour un lot accepté</a></li>
+              <li class="list-unstyled">7.1.2.2 <a href="#s7.1.2.2">Exemple d'accusé de réception pour un lot rejeté</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong><a href="#s8">Formatage des messages de déclarations retournées à des fins de modification</a></strong>
+    <ul>
+      <li class="list-unstyled">8.1 <a href="#s8.1">Configuration détaillée – Message de DRM</a>
+        <ul>
+          <li class="list-unstyled">8.1.1 <a href="#s8.1.1">Configuration générale du message de DRM</a></li>
+          <li class="list-unstyled">8.1.2 <a href="#s8.1.2">Exemple de message de DRM</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong><a href="#s9">Validation des déclarations et codes d'erreurs dans le traitement</a></strong>
+    <ul>
+      <li class="list-unstyled">9.1 <a href="#s9.1">Règles de validation des déclarations</a></li>
+      <li class="list-unstyled">9.2 <a href="#s9.2">Codes d'erreurs dans le traitement des lots</a></li>
+    </ul>
+  </li> 
+  <li><strong><a href="#s10">Désignation des fichiers de lots</a></strong>
+    <ul>
+      <li class="list-unstyled">10.1 <a href="#s10.1">Norme de désignation des fichiers de lots</a></li>
+      <li class="list-unstyled">10.2 <a href="#s10.2">Norme de désignation des fichiers d'accusé de réception de lots de CANAFE</a></li>
+      <li class="list-unstyled">10.3 <a href="#s10.3">Norme de désignation des fichiers de messages de DRM</a></li>
+    </ul>
+  </li>
+        </ol>
+
+
+
+
+<h2 id="s0">Modifications apportées dans la présente version</h2>
+
+  <p>Les spécifications de formatage des fichiers des sections 7 et 8 ont été modifiées. La longueur de la ligne a augmenté, soit de 80 à 132 caractères. Il vous faudra peut-être apporter des changements à la programmation de vos systèmes.</p>
+
+  <p>Les spécifications de formatage de l'accusé de réception de la section 7 ont été modifiées et comprennent désormais le numéro de la règle de validation. Il vous faudra peut-être apporter des changements à la programmation de vos systèmes.</p>
+
+  <p>Les spécifications des indicateurs de rejet des sections C6 et D2 du message d'accusé de réception de lot ont été modifiées pour tenir compte de ce qui est à l'origine dudit message.</p>
+
+  <p>Les spécifications de l'accusé de réception de la section 7 des lots acceptés ont été modifiées et correspondent désormais aux spécifications de la section D&nbsp;:</p>
+    <ul class="mrgn-lft-md list-unstyled">
+      <li><strong>Extrant actuel</strong></li>
+      <li>D D = SWIFT session number / Numéro de la séance SWIFT</li>
+      <li>D E = SWIFT sequence number / Numéro de la séquence SWIFT</li>
+    </ul>
+    <ul class="mrgn-lft-md list-unstyled">
+      <li><strong>Modification</strong></li>
+      <li>D D = Transaction / Opération D E = Disposition / Répartition</li>
+      <li>Des modifications ont été apportées à la section 9 pour tenir compte des informations sur la validation des déclarations transmises par lots.</li>
+    </ul>
+  
+  <p>Des modifications ont été apportées à la section 9 pour tenir compte des informations sur la validation des déclarations transmises par lots.</p>
+
+
+<h2 id="s1">1. Renseignements généraux</h2>
+  <p>Le présent document de spécifications a pour objet de communiquer aux entités déclarantes les exigences et les conditions à satisfaire pour la transmission des déclarations suivantes au Centre d'analyse des opérations et déclarations financières du Canada (CANAFE), en utilisant le <strong>transfert électronique de fichiers par lots&nbsp;:</strong></p>
+  
+  <ul>
+    <li>les déclarations d'opérations douteuses (DOD);</li>
+    <li>les déclarations relatives aux opérations importantes en espèces (DOIE);</li>
+    <li>les déclarations relatives à la réception de télévirements internationaux autres que les messages SWIFT (DTR);</li>
+    <li>les déclarations relatives à la transmission (l'expédition) de télévirements internationaux autres que les messages SWIFT (DTT).</li>
+  </ul>
+  
+  <p>Les spécifications établies aux sections 4, 5 et 6 définissent les caractéristiques de fichier acceptables pour la transmission électronique de déclarations par lots. Il faut respecter ces caractéristiques, à moins qu'elles ne soient remplacées par de nouvelles spécifications.</p>
+  
+  <p>Pour le module 1 seulement, chaque révision du document indiquera une date de publication et, le cas échéant, la date d'entrée en vigueur, au lieu d'y attribuer un nouveau numéro de version suite à chaque révision.</p>
+  
+  <p>Chaque révision des modules 2, 3 et 4 portera un numéro de version différent. Ce numéro sera établi en fonction de l'étendue des modifications.</p>
+  
+  <ul>
+    <li><strong>Modification aux formats acceptés de lots de déclarations</strong><br/>
+      Si le numéro actuel de version du module 2, 3 ou 4 change d'un nombre entier, par exemple de 4.2 à 5.0, cela aurait pour but d'indiquer que le format des déclarations par lot a été changé. Cela signalerait que vous devrez modifier votre programmation si vous présentez déjà des déclarations par lot, car le format dont vous vous servez actuellement ne sera plus pris en charge.
+    </li>
+    <li><strong>Modification résultant de modifications législatives</strong><br/>
+      Si la révision du module 2, 3 ou 4 vise à refléter des modifications apportées aux exigences de déclaration, mais non au format, le numéro de version de chaque module modifié sera augmenté de 1 au niveau de la première décimale («&nbsp;0.1&nbsp;»). Par exemple, si le numéro de version change de 4.2 à 4.2.1, cela indiquera que les exigences de déclaration ont été modifiées par suite de modifications apportées à la <a href="/act-loi/1-fra">Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes</a> (la Loi) ou aux règlements connexes. Il sera alors possible que vous deviez modifier votre programmation, si les modifications touchent les exigences de déclaration qui s'appliquent à vous.
+    </li>
+    <li><strong>Modification à la forme du document</strong><br/>
+      Si la révision des modules 2,3 ou 4 ne touche que sa forme (sa présentation), le numéro de version du document serait alors augmenté de 1 au niveau de la seconde décimale («&nbsp;0.0.1&nbsp;»), par exemple de «&nbsp;4.2.1&nbsp;» à «&nbsp;4.2.2&nbsp;». Cela indique que des changements ont été apportés afin de clarifier le texte ou de corriger des erreurs typographiques. Ce genre de changement n'affectera en rien votre programmation, à moins qu'une modification législative ou de format soit également indiquée.
+    </li>
+  </ul>
+  
+  <p>Si vous devez déclarer des télévirements internationaux expédiés ou reçus à titre de membre (ou sous-membre) du réseau SWIFT et au moyen de ce réseau, consultez le document de spécifications intitulé <a href="/reporting-declaration/swift/swift-fra">Instructions et spécifications pour la transmission par lots de déclarations relatives aux télévirements, selon le format SWIFT</a>, afin de connaître les exigences et les conditions à satisfaire pour la transmission de ces déclarations à CANAFE.</p>
+  
+  <p>Le présent document est conforme aux dispositions de la <a href="/act-loi/1-fra">Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et aux règlements</a> connexes. Ce document a été préparé uniquement à titre d'information. Il ne constitue pas un avis juridique et ne vise aucunement à remplacer la Loi et les textes réglementaires connexes. Pour de plus amples renseignements sur le blanchiment d'argent, le financement des activités terroristes ou toute autre exigence en vertu de la Loi et des règlements, y compris quelles personnes et entités répondent à la définition d'« entité déclarante », veuillez consulter la page des <a href="/guidance-directives/guidance-directives-fra">Obligations et directives</a>.</p>
+  
+  <p>Dans le présent document, lorsqu'il est question de montants d'argent (comme 10 000 $), il s'agit de montants en dollars canadiens ou de montants équivalents  en devises étrangères.</p>
+  
+
+<h2 id="s2">2. Procédures d'acceptation</h2>
+  <p>Pour que soit approuvée votre participation à la transmission de déclarations par lots en vertu de la présent version des spécifications, il faut que les conditions suivantes soient réunies&nbsp;:</p>
+  
+  <ul>
+    <li>être inscrit auprès de CANAFE;</li>
+    <li>le respect du processus d'enregistrement lié à l'obtention du certificat d'infrastructure à clé publique (ICP);</li>
+    <li>l'installation et la configuration du logiciel pour la transmission par lots;</li>
+    <li>la transmission avec succès de données d'essai en mode opérationnel d'essai par l'entremise du canal de formation du logiciel pour la transmission par lots pour chaque genre de déclaration à être transmise par lots.</li>
+  </ul>
+  
+  <p>Pour en savoir plus sur le processus d'enregistrement à l'ICP et l'installation du logiciel pour la transmission par lots, consultez la page de déclaration du site Web de CANAFE.</p>
+  
+  <p>Suite à tout changement au format d'un ou plusieurs types de déclarations transmis par lot, vous devrez transmettre des données d'essai en mode opérationnel d'essai (test) aux fins des procédures d'acceptation. À titre d'exemple,  la version du format pour les DOD avait passé de «&nbsp;03&nbsp;» à «&nbsp;04&nbsp;» à compter du 23 juin 2008. Si à ce moment vous transmettiez des DOD par lots, vous auriez eu à transmettre des données d'essai en mode opérationnel d'essai pour cette déclaration selon le nouveau format.</p>
+  
+  <p>À titre de transmetteur de fichiers de lots, on vous demandera de transmettre des données d'<strong>essai</strong> en mode opérationnel d'<strong>essai</strong> («&nbsp;test&nbsp;» par l'entremise du <strong>canal de formation</strong> du logiciel pour la transmission par lots), suivant les règles suivantes&nbsp;:</p>
+  
+  <ul>
+    <li>les données d'essai consisteront en un ensemble de déclarations contenant des données que vous auriez habituellement à communiquer. Le fichier d'essai doit contenir un seul en-tête de lot, de un à cinq sous-en- têtes et entre 25 et 100 déclarations et une seule fin de lot. Au moins cinq fichiers d'essai sont requis;</li>
+    <li>le formatage des enregistrements de lots doit respecter les spécifications énoncées aux sections 4 et 5, sinon le lot et/ou les déclarations seront rejetés. Si les fichiers sont illisibles par suite d'erreurs de format ou autres, des messages d'erreurs vous seront envoyés au moyen du logiciel pour la transmission par lots pour expliquer la raison du ou des problèmes;</li>
+    <li>les codes d'emplacement dans vos déclarations d'essai doivent représenter des emplacements réels pour l'entité déclarante. Voir la partie A de la DOD, la partie A de la DOIE, la partie C de la DTT ou la partie E de la DTR pour en savoir plus au sujet des emplacements;</li>
+    <li>sur réception des données d'essai par CANAFE, celles-ci seront traitées et un accusé de réception avec, le cas échéant, des messages d'erreurs seront envoyés au transmetteur dans les deux (2) jours ouvrables;</li>
+    <li>si toutes les déclarations d'au moins quatre des cinq lots d'essai que vous avez transmis ne contiennent aucune erreur (c'est-à-dire que les champs requis sont dûment remplis, que le fichier et les champs de données sont correctement formatés et que les codes d'emplacement sont valides), CANAFE produira une acceptation définitive, de sorte que vous pourrez commencer à expédier vos déclarations (en mode «&nbsp;production&nbsp;») à la date indiquée. L'admissibilité sera établie en fonction des cinq derniers lots transmis à CANAFE;</li>
+    <li>lorsqu'un fichier d'essai est incorrectement formaté ou que des déclarations d'essai contiennent des erreurs dans les champs obligatoires ou dans le formatage des champs, vous devez faire parvenir à CANAFE un nouvel ensemble de données d'essai. Il vous incombe de corriger ces erreurs pour que CANAFE puisse vous autoriser à commencer la production de vos déclarations.</li>
+  </ul>
+
+<h2 id="s3">3. Transmission, accusé de réception et modification des lots</h2>
+  <p>Actuellement, les lots peuvent être transmis à CANAFE en tout temps, peu importe le jour et l'heure. Tous les lots reçus par CANAFE font l'objet d'un accusé de réception (Voir la section 3.2).</p>
+  
+  <p>Les lots ne peuvent contenir qu'un seul genre de déclaration à la fois (DOD, DOIE, etc.). Même si un fichier peut contenir jusqu'à 10&nbsp;000 déclarations, la taille d'un fichier ne doit pas dépasser 30 mégaoctets.</p>
+  
+  <p>Le fichier de lot doit être placé dans le répertoire de fichiers à transmettre pour lequel votre logiciel pour la transmission par lots a été configuré. Deux catégories de lots sont acceptées&nbsp;:</p>
+  
+  <ul>
+    <li>Catégorie de lot «&nbsp;<strong>A</strong>&nbsp;» — Ajout d'un nouveau lot de déclarations (voir la section 3.1)</li>
+    <li>Catégorie de lot «&nbsp;<strong>C</strong>&nbsp;» — Correction ou suppression d'une ou de plusieurs déclarations acceptées (voir la section 3.4.1)</li>
+  </ul>
+  
+  <p>Plutôt que de présenter des lots de correction, vous pouvez choisir de traiter les corrections ou les suppressions pour les déclarations DOD, DOIE ou DTT et DTR par l'entremise de F2R, le site Web sécurisé de CANAFE. Voir la section 3.4.2 pour obtenir plus de renseignements.</p>
+
+  <h3 id="s3.1">3.1 Catégorie de lot «&nbsp;A&nbsp;» — Ajout d'un nouveau lot de déclarations</h3>
+    <p>Les circonstances suivantes requièrent la production d'un nouveau lot&nbsp;:</p>
+    
+    <ul>
+      <li><strong>Nouvelles déclarations</strong> – Si vous désirez soumettre des déclarations qui n'ont jamais été incluses dans un lot, vous devez les présenter dans un nouveau lot (de catégorie «&nbsp;<strong>A</strong>&nbsp;»).</li>
+      <li><strong>Lot rejeté</strong> – Si vous avez transmis un lot et que celui-ci a été <strong>complètement</strong> rejeté par CANAFE, vous devez y apporter les corrections nécessaires et le soumettre à nouveau au titre d'un nouveau lot (de catégorie «&nbsp;<strong>A</strong>&nbsp;»).</li>
+    </ul>
+  
+  <h3 id="s3.2">3.2 Accusé de réception de lot</h3>
+    <p>Le logiciel pour la transmission par lots produit un message de journal pour indiquer que le fichier a été expédié et pour confirmer que le fichier a bel et bien été transféré à CANAFE (mais pas nécessairement traité). À la suite du traitement du fichier par CANAFE, un message vous est retourné au moyen du logiciel pour la transmission par lots pour accuser réception du fichier, indiquer le nombre de déclarations acceptées et communiquer les messages d'erreurs, s'il y a lieu. Le contenu des déclarations <strong>ne</strong> vous est <strong>pas</strong> retourné, seuls les renseignements d'identification du lot et les messages d'erreurs pertinents le sont.</p>
+    
+    <p>Les messages d'erreurs contiennent les renseignements renvoyant au numéro séquentiel de la déclaration au sein du lot, au numéro de référence de la déclaration de l'entité déclarante, au numéro du champ et à la nature de l'erreur. Si le lot ne peut être traité, un message de rejet vous est retourné par le biais du logiciel pour la transmission par lots, indiquant les renseignements d'identification du lot et les messages d'erreurs qui s'appliquent.</p>
+    
+    <p>Pour obtenir de plus amples renseignements sur le formatage des messages d'accusé de réception et pour consulter des exemples, veuillez vous référer à la section 7.</p>
+  
+    <h4 id="s3.2.1">3.2.1 Lot accepté</h4>
+    <p>Si votre lot est accepté, CANAFE l'indiquera dans le message de statut du lot (étiquette C2) de la partie C du message d'accusé de réception. La section C comprend également le nombre de déclarations acceptées dans votre lot.</p>
+      
+    <p>Le message d'accusé de réception vous avertira également si certaines déclarations nécessitent des corrections de la façon suivante&nbsp;:</p>
+      
+      <ul>
+        <li>déclarations rejetées (étiquettes C4, D et D2 du fichier d'accusé de réception);</li>
+        <li>déclarations acceptées mais qui comprennent des erreurs (étiquettes D et D2 du fichier d'accusé de réception).</li>
+      </ul>
+      
+    <p>Si c'est le cas, vous devrez corriger ces déclarations, comme l'explique la section 3.4.</p>
+    
+    <h4 id="s3.2.2">3.2.2 Lot rejeté</h4>
+    <p>Si votre lot est rejeté, cela est indiqué dans le message de statut du lot (étiquette C2) de la partie C du message d'accusé de réception de CANAFE. Cela signifie que certains problèmes existent avec l'en-tête de lot, le sous-en- tête de lot, la fin de lot ou le format des déclarations. Cela signifie également que les déclarations comprises dans le lot n'ont pas été reçues par CANAFE. Vous devez alors les présenter de nouveau dans un nouveau lot, comme l'explique la section 3.1.</p>
+      
+    <p>CANAFE ne disposera d'aucun renseignement au sujet des déclarations comprises dans un lot rejeté. Cependant, s'il en possède au niveau des déclarations, ces renseignements seront reflétés dans l'étiquette C6 de l'accusé de réception. CANAFE pourra vous transmettre jusqu'à 40 messages à cet effet, dans le but de vous aider à corriger les déclarations avant de les présenter de nouveau dans un nouveau lot.</p>
+    
+  <h3 id="s3.3">3.3 Déclarations retournées à des fins de modification (DRM)</h3>
+    <p>Si vos déclarations acceptées présentent des problèmes de qualité des données, CANAFE peut vous les retourner afin que vous y apportiez les modifications nécessaires. Ce sont des déclarations retournées à des fins de modification (DRM). </p>
+    
+    <p>Pour chaque type de déclaration (DOIE ou DTT et DTR) que vous transmettez par lots, vous pouvez choisir de modifier les DRM par lots ou par l'entremise de F2R de la façon suivante&nbsp;:</p>
+    
+    <ul>
+      <li>Si vous décidez de <strong>modifier les DRM par lots</strong>, vous recevrez un message de DRM par l'entremise du logiciel pour la transmission par lots, de la même façon que vous recevez les accusés de réception. Voir la section 8 pour de plus amples renseignements sur le formatage des messages de DRM et pour voir un exemple de messages de DRM. Si vous recevez un tel message de DRM, vous devez corriger les déclarations et les transmettre de nouveau à CANAFE dans un lot de corrections, comme l'explique la section 3.4. Votre administrateur F2R recevra également un courriel l'avisant qu'un message de DRM a été transmis par l'entremise du logiciel pour la transmission par lots. Ces déclarations retournées sont affichées dans F2R avec d'autres messages pour vous aider à comprendre le problème lié à la qualité des données. Elles doivent être corrigées et retransmises par l'entremise du logiciel pour la transmission par lots.</li>
+      <li>Si vous décidez de <strong>modifier les DRM par l'entremise de F2R</strong>, votre administrateur F2R reçoit les avis de DRM. Ces déclarations se trouvent dans la liste d'attente de DRM dans F2R afin que les modifications nécessaires soient faites et que les déclarations soient transmises de nouveau à CANAFE.</li>
+    </ul>
+  
+  <h3 id="s3.4">3.4 Modification</h3>
+    <p>Voici comment vous pouvez apporter les modifications nécessaires aux déclarations qui ont été transmises par lots à CANAFE.</p>
+    
+    <p>Des modifications sont nécessaires dans les circonstances suivantes&nbsp;:</p>
+    
+    <ul>
+      <li>Si votre fichier d'accusé de réception indique qu'un lot est accepté mais que certaines déclarations comprennent des erreurs ou ont été rejetées, vous devez modifier ces déclarations.</li>
+      <li>Si CANAFE vous fait parvenir une DRM, vous devez y apporter les modifications nécessaires et la transmettre de nouveau le plus rapidement possible.</li>
+      <li>Il est possible que vous deviez également corriger ou supprimer une déclaration pour d'autres raisons, comme, par exemple, si vous découvrez qu'elle comprend des données non valides ou présentées par erreur.</li>
+    </ul>
+    
+    <p>La façon dont vous modifiez des déclarations varie selon que vous désiriez présenter les modifications par l'entremise des lots de correction (catégorie «&nbsp;C&nbsp;») ou de F2R. Vous devez choisir l'une ou l'autre de ces deux méthodes par genre de déclaration et ce choix vaut pour toute modification nécessaire à ces déclarations.</p>
+  
+    <h4 id="s3.4.1">3.4.1 Catégorie de lot «&nbsp;C&nbsp;» — Transmission de corrections</h4>
+      <p>Les points suivants ne s'appliquent à vous que si vous ne choisissez <strong>pas</strong> d'effectuer des modifications par l'entremise de F2R. Cela vaut pour les déclarations rejetées ainsi que pour les déclarations traitées qui comprennent des erreurs.</p>
+      
+    <p>Seules les déclarations faisant l'objet de corrections ou devant être supprimées doivent être incluses dans le lot de correction. Il est possible de corriger toutes déclarations traitées en apportant les changements suivant au lot initial&nbsp;:</p>
+      
+      <ol>
+        <li>la catégorie de lot est «&nbsp;<strong>C</strong>&nbsp;»;</li>
+        <li>le nombre de sous-en-têtes est le nombre de sous-en-têtes du lot de correction;</li>
+        <li>le nombre de déclarations est égal au nombre de déclarations dans le lot de correction;</li>
+        <li>le nombre de déclarations par sous-en-tête dans l'ensemble applicable de sous-en-têtes est égal au nombre de déclarations dans le lot de correction.</li>
+      </ol>
+      
+      <p>Pour <strong>corriger</strong> une ou des déclarations comprises dans un lot déjà <strong>accepté</strong> par CANAFE, vous devez présenter, dans un lot de correction (de catégorie «&nbsp;C&nbsp;»), les déclarations entières dûment corrigées. Veuillez inclure le même numéro de référence de la déclaration de l'ED qui a été utilisé dans le fichier original. TOUS LES CHAMPS de chaque déclaration à corriger doivent contenir l'information appropriée, NON SEULEMENT LES CHAMPS NÉCESSITANT DES CORRECTIONS. Le code d'action pour chacune des déclarations à corriger doit être «&nbsp;C&nbsp;».</p>
+      
+      <p>Pour <strong>supprimer</strong> une déclaration ou plus d'un lot déjà <strong>accepté</strong>, vous devez également présenter un lot de correction (catégorie de lot «&nbsp;C&nbsp;»). Lisez les instructions suivantes, selon le genre de déclaration en question.</p>
+      
+      <div class="mrgn-lft-md">
+        <p><strong>Pour supprimer une DOD ou un DOIE</strong><br>
+Afin de supprimer une DOD ou une DOIE d'un lot déjà accepté, par l'entremise d'un lot de correction, vous n'avez pas à présenter la déclaration complète à être supprimée. Seuls les éléments suivants doivent être complétés afin de supprimer une déclaration&nbsp;:</p>
+        
+          <ul>
+            <li>Identificateur de la partie «&nbsp;A1&nbsp;»</li>
+            <li>Numéro de séquence de la déclaration</li>
+            <li>Numéro de référence de la déclaration de l'ED (le même que dans le fichier original)</li>
+            <li>Indicateur de code d'action (valeur «&nbsp;D&nbsp;»)</li>
+            <li>Numéro d'identification de l'entité déclarante</li>
+            <li>À la suite de ces champs, délimitez la déclaration supprimée grâce à &lt;CRLF&gt; (retour chariot suivi d'un saut de ligne). Commencez la déclaration suivante qui doit être corrigée ou supprimée.</li>
+          </ul>
+       
+        <p><strong>Pour supprimer une DTT ou un DTR</strong><br>
+Afin de supprimer une DTT ou une DTR d'un lot déjà accepté, par l'entremise d'un lot de correction, vous devez présenter la déclaration complète à être supprimée. L'indicateur de code d'action doit comprendre la valeur «&nbsp;D&nbsp;».</p>
+      </div>
+    
+    <h4 id="s3.4.2">3.4.2 F2R</h4>
+      <p>F2R est une nouvelle interface grâce à laquelle vous êtes en mesure de gérer votre information d'inscription, y compris vos numéros d'emplacement, et d'envoyer des déclarations qui ne font pas partie d'un lot à CANAFE.</p>
+      
+      <p>Si vous choisissez cette option lors de votre inscription auprès de CANAFE pour un ou plusieurs des genres de déclarations que vous transmettez (DOD, DOIE ou DTT et DTR), vous pouvez vous servir de F2R pour modifier ces déclarations. Dans ce cas, vous n'enverrez pas de modifications par lot pour les déclarations en question. Plutôt, vous devrez effectuer les changements nécessaires à partir de lots déjà acceptés par l'entremise de F2R.</p>
+      
+      <p>Par l'entremise de F2R vous pourrez avoir accès à des déclarations à partir de lots acceptés grâce au numéro de référence de la déclaration de l'entité déclarante. Vous pourrez ainsi avoir accès au contenu de la déclaration afin d'effectuer vos corrections. Vous serez en mesure d'avoir accès aux déclarations qui contiennent des erreurs et aux déclarations rejetées d'un lot accepté.</p>
+      
+      <p>Vous pourrez obtenir de plus amples renseignements quant au processus d'inscription de CANAFE et à F2R en communiquant avec CANAFE.</p>
+    
+<h2 id="s4">4. Spécifications générales</h2>
+
+  <h3 id="s4.1">4.1 Exigences générales de formatage</h3>
+    <p>Le tableau ci-dessous présente les spécifications générales de formatage à suivre pour produire, au moyen du transfert de fichiers par lots, des déclarations d'opérations douteuses (DOD), des déclarations relatives aux opérations importantes en espèces (DOIE), des déclarations relatives à la réception de télévirements internationaux autres que les messages SWIFT (DTR) et des déclarations relatives à la transmission de télévirements internationaux autres que les messages SWIFT (DTT).</p>
+    
+    <p>Vous trouverez les spécifications propres à chaque genre de déclaration à la section 5. Vous devez également respecter les normes de codification et les abréviations standards présentées à la section 6.</p>
+    
+    <p><strong>Tous les enregistrements doivent être de longueur fixe, selon ce qui est spécifié dans les instructions de formatage. </strong>La taille du fichier ne peut dépasser 30 mégaoctets avant la compression.</p>
+    
+    <p>Les caractéristiques standards de fichiers exigent l'utilisation du format précisé dans les pages de codes ASCII 850 (Europe occidentale), des majuscules et des minuscules, et des claviers français et/ou anglais. Le format de données EBCDIC <strong>ne</strong> sera <strong>pas</strong> accepté. Le format 850 utilisé pour la page de codes doit être indiqué dans l'en-tête de lot.</p>
+    
+    <p>Tous les en-têtes et sous-en-têtes de lots ainsi que toutes les parties des déclarations et toutes les fins de lots doivent être délimitées par des &lt;CRLF&gt; (retour chariot suivi d'un saut de ligne). Comme ceux-ci peuvent être intégrés implicitement dans certains programmes, veuillez vous assurer que des lignes vides ne sont pas insérées automatiquement.</p>
+    
+    <!-- TABLE -->
+<table class="table table-bordered table-striped">
+  <caption class="text-left">
+  <strong>EXIGENCES GÉNÉRALES DE FORMATAGE</strong>
+  </caption>
+  <thead>
+    <tr class="bg-primary">
+      <th scope="col"> Élément de format </th>
+      <th scope="col"> Commentaires </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p><strong>Garni de zéros</strong></p></td>
+      <td><p>Les champs vides doivent être garnis de zéros (0).</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Garni d'espaces</strong></p></td>
+      <td><p>Les champs vides doivent être garnis d'espaces.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>LJ</strong></p></td>
+      <td><p>Cadrer à gauche, garnir d'espaces («&nbsp;left justified&nbsp;»).</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>RJ</strong></p></td>
+      <td><p>Cadrer à droite, garnir d'espaces («&nbsp;right justified&nbsp;»).</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>RJZ</strong></p></td>
+      <td><p>Cadrer à droite, garnir de zéros («&nbsp;right justified, zero filled&nbsp;»).<br/>
+      Pour tous les champs de montants&nbsp;: RJZ et aucun séparateur de milliers.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>X</strong></p></td>
+      <td><p>Caractère alphanumérique.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>9</strong></p></td>
+      <td><p>Caractère numérique.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Longueur du champ</strong></p></td>
+      <td><p>Indiqué entre parenthèses suivant le caractère alphabétique ou numérique. À titre d'exemple, X(2) ou 9(5).</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>d</strong></p></td>
+      <td><p>Position décimale — CANAFE acceptera les indicateurs de décimales suivants&nbsp;: «&nbsp;,&nbsp;» ou «&nbsp;.&nbsp;».<br/>
+      S'il s'agit d'une somme d'argent, il faut utiliser une position décimale fixe avec deux positions décimales. Par exemple, 000000012345,00 représenterait un montant de 12 345.00 $ dans un champ de format X(15)d.<br/>
+      S'il s'agit d'un taux de change, il faut utiliser une position décimale flottante pour inclure le nombre de positions décimales requises. Par exemple, 00000012,123 représenterait un taux de change de 12,123 dans un champ de format X(12)d.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Numéro séquentiel de la déclaration</strong></p></td>
+      <td><p>La première déclaration d'un sous-en-tête de lot, lorsqu'il s'agit de l'ajout d'un nouveau lot (catégorie de lot «&nbsp;A&nbsp;»), doit porter le numéro 00001, et la numérotation de toutes les déclarations suivantes doit se faire en ajoutant 1 à chacune.<br/>
+      Dans le cas d'une correction (catégorie de lot «&nbsp;C&nbsp;»), il faut utiliser le numéro séquentiel de la déclaration qui a servi lors du lot original.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Date</strong></p></td>
+      <td><p>AAAAMMJJ (Année/mois/jour).<br/>
+      S'il n'y a pas de date, garnir d'espaces.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Heure</strong></p></td>
+      <td><p>HHMMSS — Utiliser un cycle de 24 heures.<br/>
+      Heures (de 00 à 23), minutes (de 00 à 59) et secondes (de 00 à 59).<br/>
+      Les secondes devraient être implicitement 00.<br/>
+      Exemples&nbsp;: 13 h = 130000 14 h 45 = 144500<br/>
+      RJZ</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Nom</strong></p></td>
+      <td><p>LJ, garnir d'espaces, caractères alphabétiques.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Adresse</strong></p></td>
+      <td><p>LJ, garnir d'espaces, mélange de caractères alphabétiques et numériques.
+S'il y a un numéro d'appartement, de suite ou d'unité, insérer le numéro au début de l'adresse municipale.<br/>
+Introduire les noms en entier ou se servir du code pertinent selon les tables de codes présentées à la section 6.<br/>
+Si l'adresse est au Canada, les champs nécessaires doivent comprendre une province ou un territoire canadien et un code postal valides. Si l'adresse est aux États-Unis ou au Mexique, les champs nécessaires doivent comprendre un état valide. De plus, si l'adresse est aux États-Unis, le champ nécessaire doit comprendre un code zip valide. Veuillez consulter le tableau de codes pertinent à la section 6 pour trouver des provinces, des territoires ou des états valides.<br/>
+Si l'adresse est à l'extérieur du Canada et des États-Unis et ne comprend ni province, ni État ou code postal, ces champs peuvent être garnis d'espaces.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Code postal</strong></p></td>
+      <td><p>X(9) — N'insérer aucun espace ou tiret (-).<br/>
+      Canada&nbsp;: X9X9X9<br/>
+      É.-U.&nbsp;: 99999 ou 999999999</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Numéro de compte</strong></p></td>
+      <td><p>Aucun zéro non significatif ne doit être inclus, à moins qu'il ne fasse partie du numéro de compte.<br/>
+      RJ, garnir d'espaces.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Numéro de téléphone</strong></p></td>
+      <td><p>Indiquer également l'indicatif régional.<br/>
+      Canada et É.-U.&nbsp;: 999-999-9999<br/>
+      Pour les autres pays, indiquer les codes de pays et de ville ainsi que le numéro local&nbsp;:<br/>
+      999-9999-9999-9999</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Numéro de référence de la déclaration de l'entité déclarante</strong></p></td>
+      <td><p>Peut contenir les lettres de A à Z et/ou les chiffres de 0 à 9. Ne pas utiliser de caractères spéciaux, tels que «&nbsp;-&nbsp;», «&nbsp;#&nbsp;», etc.<br/>
+      Il faut assigner un numéro de référence distinct pour chaque déclaration transmise par la même entité déclarante. Dans ce contexte, aucune distinction n'est faite entre une lettre majuscule et une lettre minuscule. Par exemple, le numéro de référence ABC123 n'est pas distinct du numéro de référence abc123.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>*</strong></p></td>
+      <td><p>Désigne un champ obligatoire prescrit par règlement.</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>±</strong></p></td>
+      <td><p>Désigne un champ requis pour la transmission d'une déclaration par lot.</p></td>
+    </tr>
+  </tbody>
+</table>
+
+  
+  <h3 id="s4.2">4.2 Champs obligatoires et champs requis</h3>
+    <p>Les champs de chaque déclaration sont établis par règlement. Ces champs sont soit «&nbsp;obligatoires&nbsp;», soit «&nbsp;obligatoires le cas échéant&nbsp;», soit «&nbsp;requérant des efforts raisonnables pour obtenir les renseignements&nbsp;».
+</p>
+    
+    <ul>
+      <li><strong>Obligatoires&nbsp;: </strong>Tous les champs de la déclaration marqués d'un astérisque (*) <strong>doivent être remplis</strong>.</li>
+      <li><strong>Obligatoires le cas échéant&nbsp;:</strong> Les champs présentant à la fois un astérisque et la mention «&nbsp;le cas échéant&nbsp;» doivent être remplis uniquement s'ils vous concernent ou se rapportent à l'opération faisant l'objet de la déclaration.</li>
+      <li><strong>Requérant des efforts raisonnables&nbsp;:</strong> Pour tous les autres champs, soit ceux ne comportant pas d'astérisque, vous devez faire des efforts raisonnables pour obtenir les renseignements demandés. Pour en savoir plus à ce sujet, reportez-vous à&nbsp;:
+		 <ul><li><a href="/guidance-directives/transaction-operation/str-dod/str-dod-eng"> Déclaration d'opérations douteuses à CANAFE</a> </li>
+			<li><a href="/guidance-directives/transaction-operation/lctr-doie/lctr-doie-fra">Déclaration d'opérations importantes en espèces à CANAFE</a></li></ul></li>
+    </ul>
+    
+    <p>Les champs d'un format de lot portant la mention «&nbsp;<strong>±</strong>&nbsp;» sont requis pour fins de traitement, tout comme ceux des blocs d'en-tête et de sous-en-têtes.</p>
+    
+    <p>En de très rares circonstances, selon les instructions précises de la configuration détaillée de chaque type de déclaration, si vous devez indiquer qu'un champ requis d'une déclaration est «&nbsp;sans objet&nbsp;», entrez «&nbsp;S/O&nbsp;» ou «&nbsp;s/o&nbsp;». Ne substituez aucun autre caractère spécial ou abréviation (par exemple, «&nbsp;x&nbsp;», «&nbsp;-&nbsp;» ou «&nbsp;*&nbsp;»).</p>
+    
+    <p>Certaines parties des déclarations ne sont requises que si elles s'appliquent. Par exemple, la partie C de la DOD n'est requise que si l'opération a touché un compte. Les champs de ces parties ne sont pas requis, à moins que la partie ne soit pertinente. Les parties que l'on peut exclure parce qu'elles ne s'appliquent pas sont indiquées comme telles dans la configuration détaillée de chaque déclaration à la section 5.2.</p>
+    
+    <p>La déclaration peut être rejetée si l'un des champs obligatoires et requis n'a pas été rempli.</p>
+  
+  <h3 id="s4.3">4.3 Structure du lot</h3>
+    <p>Un lot doit comprendre un en-tête de lot, au moins un sous-en-tête de lot et un seul genre de déclaration (DOD, DOIE, DTT ou DTR). Il doit comprendre également une fin de lot.</p>
+  
+<h2 id="s5">5. Formatage des déclarations transmises par lots</h2>
+  <p>Un lot distinct doit être présenté pour chaque genre de déclaration. Un seul fichier de lot est limité <strong>à 10 000 déclarations</strong>. La taille du fichier ne doit pas dépasser 30 mégaoctets, avant la compression.</p>
+  
+  <p>Les tableaux suivants indiquent comment formater les données à inclure dans les déclarations transmises par lots à CANAFE. La section 5.1 présente le formatage d'un en-tête de lot, d'un sous-en-tête de lot et d'une fin de lot. La section 5.2 précise le format à adopter pour chaque genre de déclaration, selon le format de lot de la version 03. Les formats de lot de la version 01 et de la version 02 ne seront plus acceptés à compter du 29 mai 2006.</p>
+
+  <h3 id="s5.1">5.1 Configuration détaillée — En-tête, sous-en-tête et fin de lot</h3>
+
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>En-tête de lot - </strong>L'en-tête de lot du fichier doit contenir les renseignements nécessaires pour identifier la personne ou l'institution à l'origine de la transmission. Chaque fichier transmis doit comprendre un seul en-tête de lot. Les éléments suivant de l'en-tête de lot sont requis lors de la transmission d'un lot
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col"> Champ&nbsp;n<sup>o</sup> </th>
+        <th scope="col"> Nom&nbsp;du&nbsp;champ</th>
+        <th scope="col"> Format </th>
+        <th scope="col"> Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><p>± 0</p></td>
+        <td><p>Genre d'enregistrement</p></td>
+        <td><p>X(2)</p></td>
+        <td><p>Valeur «&nbsp;1A&nbsp;».</p></td>
+      </tr>
+      <tr>
+        <td><p>± 1</p></td>
+        <td><p>Code de format</p></td>
+        <td><p>9(3)LJ</p></td>
+        <td><p>Valeur «&nbsp;850&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>± 2</p></td>
+        <td><p>Genre de déclaration</p></td>
+        <td><p>X(4)LJ</p></td>
+        <td><p>Valeur «&nbsp;<strong>STR</strong>&nbsp;» pour les DOD, «&nbsp;<strong>LCTR</strong>&nbsp;» pour les DOIE,
+
+« EFTI » pour les DTR ou « EFTO » pour les DTT.
+</p></td>
+      </tr>
+      <tr>
+        <td><p>± 3</p></td>
+        <td><p>Numéro d'identification de l'entité déclarante</p></td>
+        <td><p>9(7) RJZ</p></td>
+        <td><p>Un numéro d'identification de sept chiffres que vous donne CANAFE au moment de l'inscription.</p>
+          <p>Ce champ est obligatoire. S'il n'est pas valide, le lot sera rejeté.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 4</p></td>
+        <td><p>Nom de famille de la personne-ressource</p></td>
+        <td><p>X(20)LJ</p></td>
+        <td><p>Nom de famille de la personne-ressource.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 5</p></td>
+        <td><p>Prénom de la personne-ressource</p></td>
+        <td><p>X(15)LJ</p></td>
+        <td><p>Prénom de la personne-ressource.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 6</p></td>
+        <td><p>N<sup>o</sup> de téléphone de la personne-ressource</p></td>
+        <td><p>X(20)LJ</p></td>
+        <td><p>Numéro de téléphone de la personne-ressource.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 6A</p></td>
+        <td><p>Poste téléphonique de la personne-ressource</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Poste téléphonique de la personne-ressource, s'il en existe un.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 7</p></td>
+        <td><p>Numéro de certificat d'ICP</p></td>
+        <td><p>9(10)RJZ</p></td>
+        <td><p>Votre numéro d'identification de 10 caractères que CANAFE vous a fourni à titre d'utilisateur de l'ICP.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 8</p></td>
+        <td><p>Date du lot</p></td>
+        <td><p>9(8)</p></td>
+        <td><p>Date de la création du lot. AAAAMMJJ</p></td>
+      </tr>
+      <tr>
+        <td><p>± 9</p></td>
+        <td><p>Heure du lot</p></td>
+        <td><p>9(6)</p></td>
+        <td><p>Heure de création du lot. HHMMSS</p></td>
+      </tr>
+      <tr>
+        <td><p>± 10</p></td>
+        <td><p>Code séquentiel d'identification du lot</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Le code numérique séquentiel d'identification en est un que vous attribuez au lot. La combinaison de date de lot, d'heure de lot et de numéro d'identification séquentiel du lot doit être unique pour chacun de vos lots. Par exemple, si vous prévoyez transmettre deux lots dans une même journée, indiquez 00001 pour le numéro séquentiel d'identification du premier lot et 00002 pour le second.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 11</p></td>
+        <td><p>Catégorie de lot</p></td>
+        <td><p>X(1)</p></td>
+        <td><p>«&nbsp;A&nbsp;» – Ajout d'un nouveau lot de déclarations.</p>
+          <p>«&nbsp;C&nbsp;» – Correction ou suppression de déclarations au sein d'un lot déjà<strong> accepté</strong> par CANAFE.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 12</p></td>
+        <td><p>Nombre de sous-en-têtes</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Nombre de sous-en-têtes dans le lot.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 13</p></td>
+        <td><p>Nombre de déclarations</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Introduire le nombre total de déclarations dans le lot (maximum&nbsp;10000).</p></td>
+      </tr>
+      <tr>
+        <td><p>± 14</p></td>
+        <td><p>Indicateur de format</p></td>
+        <td><p>9(2)RJZ</p></td>
+        <td><p>Introduire le numéro de la version du format de lot, valeur&nbsp; «&nbsp;03&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>± 15</p></td>
+        <td><p>Mode opérationnel</p></td>
+        <td><p>X(1)</p></td>
+        <td><p>«&nbsp;P&nbsp;» – Production</p>
+          <p>«&nbsp;T&nbsp;» – Test (essai par l'entremise du canal de formation du logiciel pour la transmission par lots)</p></td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Total des caractères&nbsp;:</p></td>
+        <td><p>119</p></td>
+        <td><p>Chaque lot doit comprendre un en-tête de lot.&nbsp;</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Sous-en-tête de lot - </strong>Un sous-en-tête de lot contient des renseignements qui vous permettent de regrouper des déclarations incluses dans un lot selon votre structure organisationnelle ou toute autre exigence de regroupement. L'utilisation de plusieurs sous-en-têtes est optionnelle, mais votre lot doit en comporter au moins un. Les éléments suivants du sous-en-tête de lot sont requis lors de la transmission d'un lot :
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col"> Champ&nbsp;n<sup>o</sup> </th>
+        <th scope="col"> Nom&nbsp;du&nbsp;champ</th>
+        <th scope="col"> Format </th>
+        <th scope="col"> Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><p>± 0</p></td>
+        <td><p>Genre d'enregistrement</p></td>
+        <td><p>X(2)</p></td>
+        <td><p>Valeur «&nbsp;1B&nbsp;».</p></td>
+      </tr>
+      <tr>
+        <td><p>± 1</p></td>
+        <td><p>Numéro séquentiel</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Numéro séquentiel du sous-en-tête.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 2</p></td>
+        <td><p>Code d'identification interne de l'entité déclarante</p></td>
+        <td><p>X(25)LJ</p></td>
+        <td><p>Toute valeur que vous décidez d'attribuer au groupement de déclarations dans le lot. Si vous ne vous servez pas de cette valeur, garnir ce champ d'espaces.</p></td>
+      </tr>
+      <tr>
+        <td><p>± 3</p></td>
+        <td><p>Nombre de déclarations</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Introduire le nombre total de déclarations regroupées sous le sous-en-tête.</p></td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Total des caractères&nbsp;:</p></td>
+        <td><p>37</p></td>
+        <td><p>Chaque lot doit comprendre au moins un sous-en-tête de lot.</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Fin de lot - </strong>La fin de lot indique la fin des déclarations comprises dans le fichier.
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col"> Champ&nbsp;n<sup>o</sup> </th>
+        <th scope="col"> Nom&nbsp;du&nbsp;champ</th>
+        <th scope="col"> Format </th>
+        <th scope="col"> Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><p>± 0</p></td>
+        <td><p>Genre d'enregistrement</p></td>
+        <td><p>X(2)</p></td>
+        <td><p>Valeur «&nbsp;1C&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>± 1</p></td>
+        <td><p>Numéro séquentiel</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Le numéro de séquentiel de la fin de lot devrait toujours être «&nbsp;0001&nbsp;».</p></td>
+      </tr>
+      <tr>
+        <td colspan="2"><p>Total des caractères&nbsp;:</p></td>
+        <td><p>7</p></td>
+        <td><p>Chaque lot doit avoir une fin après la dernière déclaration du lot.</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  
+    <h4 id="s5.1.1">5.1.1 Exemples d'en-tête, de sous-en-tête et de fin de lot</h4>
+      <p>Comme il est expliqué à la section 5.1, chaque lot que vous transmettez à CANAFE doit comporter un en-tête de lot, au moins un sous-en-tête de lot et une fin de lot. Les sous-en-têtes de lots vous permettent de regrouper des déclarations dans un lot selon votre structure organisationnelle ou toute autre exigence de regroupement. L'utilisation de plusieurs sous-en-têtes est optionnelle, mais vous devez toutefois en inclure au moins un dans votre lot.</p>
+      
+      <p>Les exemples ci-dessous illustrent deux scénarios possibles en ce qui a trait à l'utilisation d'en-têtes et de sous-en-têtes de lots.</p>
+      
+      <h5>Exemple 1</h5>
+      
+      <p>Une entité déclarante du nom de «&nbsp;ABC Ltée&nbsp;» envoie trois déclarations d'opérations douteuses dans un lot de production. Son numéro d'identification d'entité déclarante est 0004567 et son numéro de certificat d'ICP est 1234567890. Le nom de la personne ressource est John Smith et le numéro de téléphone de ce dernier est le (416) 555-5555 (aucun poste téléphonique). ABC Ltée ne désire pas regrouper les déclarations incluses dans le lot.</p>
+      
+      <pre>
+<strong>1A850STR 0004567SMITH     JOHN     416-555-5555     0000012345678902005071923155500001A000010000303P
+1B00001</strong>ABCLTEE 	          <strong>00003</strong>
+       Déclaration 1
+       Déclaration 2
+       Déclaration 3
+1C00001</pre>
+      
+      <h5>Exemple 2</h5>
+      
+      <p>Une entité déclarante du nom de «&nbsp;Entité X&nbsp;» exploite son entreprise en différents endroits (Endroit A, Endroit B, etc.). Elle désire regrouper ses déclarations par emplacement. Dans ce cas, l'entité déclarante présenterait un sous-en-tête différent pour chaque emplacement. Son numéro d'identification d'entité déclarante est 0000567 et son numéro de certificat d'ICP est 2345678901. La personne-ressource s'appelle John Brown et le numéro de téléphone de ce dernier est le (416) 666-6666 (aucun poste téléphonique). Pour transmettre un lot présentant cinq déclarations DOIE (dont trois provenant de l'emplacement A et deux provenant de l'emplacement B), l'entité utiliserait deux sous-en-têtes, comme suit&nbsp;:</p>
+      
+      <pre>
+<strong>1A850LCTR 0000567BROWN       JOHN       416-666-6666    0000077712345672005071923155500001A000020000503P
+1B00001   EMPLACEMENT A      00003</strong>
+          Déclaration 1 de l'endroit A
+          Déclaration 2 de l'endroit A
+          Déclaration 3 de l'endroit A
+<strong>1B00002   EMPLACEMENT B      00002</strong>
+          Déclaration 1 de l'endroit B
+          Déclaration 2 de l'endroit B
+<strong>1C00001</strong></pre>
+    
+  <h3 id="s5.2">5.2 Configuration des déclarations transmises par lots – Format de la version 03 et 04</h3>
+    <p>Les spécifications s'appliquant aux DOIE, DTT et DTR sont fondées sur le format version «&nbsp;03&nbsp;». Les spécifications pour les DOD sont fondées sur le format version «&nbsp;04&nbsp;».</p>
+  
+    <h4 id="s5.2.1">5.2.1 Configuration détaillée (format de la version 04) – Déclaration d'opérations douteuses (DOD)</h4>
+      <p>Les spécifications pour les DOD («&nbsp;STR&nbsp;») forment le Module 2.</p>
+    
+    <h4 id="s5.2.2">5.2.2 Configuration détaillée (format de la version 03) – Déclaration relative aux opérations importantes en espèces (DOIE)</h4>
+      <p>Les spécifications pour les DOIE («&nbsp;LCTR&nbsp;») forment le Module 3.</p>
+    
+    <h4 id="s5.2.3">5.2.3 Configuration détaillée (format de la version 03) — Déclarations relatives aux télévirements internationaux autres que les messages SWIFT</h4>
+      <p>Les spécifications pour les déclarations relatives aux télévirements internationaux autres que les messages SWIFT forment le Module 4.</p>
+    
+  <h3 id="s5.3">5.3 Diagrammes de production des déclarations</h3>
+    <p>Les diagrammes de production se trouvent dans les modules 2, 3 et 4, selon le genre de déclaration.</p>
+  
+<h2 id="s6">6. Tables de codes et règles d'introduction des noms</h2>
+
+  <h3 id="s6.1">6.1 Tables de codes</h3>
+    <p>Il est possible de télécharger les tables de codes suivantes directement de <a href="/reporting-declaration/info/f2r-fra#y1">documentation relative à la transmission par lots</a>. Les tables de codes s'appliquent à tous les genres de déclarations transmises à CANAFE par lots, selon le format standard.</p>
+    
+    <ul>
+      <li>Codes de pays (ISO 3166)<br/></li>
+      <li>Codes de provinces et d'États
+        <ul>
+          <li>Codes de provinces et territoires canadiens</li>
+          <li>Codes d'États mexicains</li>
+          <li>Codes d'États américains</li>
+        </ul>
+      </li>
+      <li>Codes de devises<br/>
+        Les rangées sans ombrage (ou sans parenthèses dans le format «&nbsp;txt&nbsp;») dans le tableau des codes de devises renferment les codes de devises courantes conformément à l'ISO 4217.<br/>
+        Les rangées avec ombrage (ou avec des parenthèses dans le format «&nbsp;txt&nbsp;») reflètent des codes retirés qui ne figurent plus dans la liste courante de l'ISO 4217.
+      <br/></li>
+      <li>Abréviations standard de termes<br/>
+        Toutes les abréviations présentées dans la table des abréviations standard de termes sont au singulier. Elles peuvent être changées du singulier au pluriel par l'ajout de la lettre «&nbsp;s&nbsp;».
+      <br/></li>
+      <li>Noms et abréviations de types de rues</li>
+    </ul>
+  
+  <h3 id="s6.2">6.2 Règles d'introduction des noms</h3>
+    <p>Pour introduire le nom d'un particulier, veuillez utiliser les champs prévus à cet effet (nom de famille, prénom, autre nom/initiale). Supprimez tous les titres de civilité, préfixes, suffixes ou autres renseignements descriptifs tels que M., Mme, Dr, Révérend, associé ou fiduciaire. Toutefois, ne supprimez pas les suffixes qui distinguent les membres d'une famille, tels que père, fils, Jr, Sr, III ou IV. Les suffixes doivent suivre l'autre nom ou 1'initiale dans le champ correspondant (par exemple, si le nom d'un individu comporte l'initiale «&nbsp;S&nbsp;» de même que le suffixe «&nbsp;Junior&nbsp;», ces renseignements seront présentés ainsi dans le champ «&nbsp;Autre nom/Initiale&nbsp;»&nbsp;: S JR). Supprimez toute ponctuation (par exemple, pour «&nbsp;JR.&nbsp;», introduire «&nbsp;JR&nbsp;» uniquement).</p>
+    
+    <p>Pour introduire la dénomination sociale d'une entité ou d'une entreprise, utiliser les champs sans délimitation prévus à cet effet.</p>
+  
+<h2 id="s7">7. Formatage des accusés de réception</h2>
+  <p>Les tableaux suivants indiquent comment sont formatés les fichiers d'accusés de réception de CANAFE au sujet des lots transmis à CANAFE.</p>
+
+  <h3 id="s7.1">7.1 Configuration détaillée – Accusé de réception de lots</h3>
+  
+    <h4 id="s7.1.1">7.1.1 Configuration générale de l'accusé de réception</h4>
+      <p>Les tableaux suivants précisent le format des messages d'accusés de réception qui vous sont acheminés par CANAFE lorsque celui-ci a fini le traitement des lots. Toutes les étiquettes de champs comportent trois caractères, sont cadrées à gauche et sont garnies d'espaces.</p>
+      
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section A: Renseignements sur le fichier de lot transmis</strong>
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description du champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row" rowspan="2"><p><strong>A </strong></p></th>
+        <td><p>Titre de l'accusé de réception</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Your batch has been processed</span>. / Votre lot a été traité.&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>A2</strong></p></th>
+        <td><p>Genre de déclarations</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(37)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Report Type</span> / Genre de déclaration&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Valeur du genre de déclarations</p></td>
+        <td><p>X(4)LJ</p></td>
+        <td><p>«&nbsp;STR&nbsp;» Lot de déclarations d'opérations douteuses (DOD)</p>
+        <p>«&nbsp;LCTR&nbsp;» Lot de déclarations d'opérations importantes en espèces (DOIE)</p>
+        <p>«&nbsp;EFTO&nbsp;» Lot de télévirements transmis autres que les messages SWIFT (DTT)</p>
+        <p>«&nbsp;EFTI&nbsp;» Lot de télévirements reçus autres que les messages SWIFT (DTR)</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(86)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>A3</strong></p></th>
+        <td><p>Catégorie de lot</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(37)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Batch Type</span> / Catégorie de lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Valeur de la catégorie de lot</p></td>
+        <td><p>X(1)LJ</p></td>
+        <td><p>«&nbsp;A&nbsp;»&nbsp; Ajout d'un lot</p>
+          <p>«&nbsp;C&nbsp;»&nbsp; Correction d'un lot</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(89)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>A4</strong></p></th>
+        <td><p>Mode opérationnel</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(37)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Operational mode</span> / Mode opérationnel&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Valeur du mode opérationnel</p></td>
+        <td><p>X(1)LJ</p></td>
+        <td><p>«&nbsp;P&nbsp;»&nbsp; Production</p>
+          <p>«&nbsp;T&nbsp;»&nbsp; <span lang="en">Test</span> (essai)</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(89)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>A5</strong></p></th>
+        <td><p>Date de traitement du lot</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Date processed by FINTRAC</span> / Date de traitement par CANAFE&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Date de traitement</p></td>
+        <td><p>9(8) LJ</p></td>
+        <td><p>AAAAMMJJ</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(54)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>A6</strong></p></th>
+        <td><p>Heure de traitement du lot</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Time processed by FINTRAC</span> / Heure de traitement du lot par CANAFE&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Heure de traitement du lot</p></td>
+        <td><p>9(6)LJ</p></td>
+        <td><p>HHMMSS</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(56)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section B&nbsp;: Messages portant sur l'identification du lot</strong>
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description du champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>B </strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Batch ID</span> / Identification du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>B2</strong></p></th>
+        <td><p>Date du lot</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Date</span> / Date&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Date du lot</p></td>
+        <td><p>9(8)</p></td>
+        <td><p>AAAAMMJJ</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(54)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>B3</strong></p></th>
+        <td><p>Heure du lot</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Time</span> / Heure&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Heure du lot</p></td>
+        <td><p>9(6)</p></td>
+        <td><p>HHMMSS</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(56)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>B4</strong></p></th>
+        <td><p>Numéro séquentiel d'identification du lot</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Batch sequence ID</span> / Numéro séq. d'identification du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel d'identification du lot</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Le numéro séquentiel d'identification du lot attribué par l'entité déclarante (il est&nbsp; unique à l'entité déclarante).</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(57)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section C&nbsp;: Messages portant sur le traitement du lot</strong>
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description du champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C </strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Batch processing messages</span> / Messages portant sur le traitement du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Message spécifiant l'état du lot</p></td>
+        <td><p>X(129)</p></td>
+        <td><p>«&nbsp;<span lang="en">Batch accepted</span> / Lot accepté&nbsp;»&nbsp; ou</p>
+          <p>«&nbsp;<span lang="en">Batch rejected – invalid format</span> / Lot rejeté – Format invalide&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>C3</strong></p></th>
+        <td><p>Sous-en-têtes de lot acceptés</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Sub-headers accepted</span> / Sous-en-têtes de lot acceptés&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de sous-en-têtes de lot acceptés</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Nombre de sous-en-têtes ayant été traités avec succès</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(57)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>C4</strong></p></th>
+        <td><p>Déclarations rejetées</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Reports rejected</span> / Nombre de déclarations rejetées&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de déclarations rejetées</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Nombre de déclarations rejetées</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(57)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>C4</strong></p></th>
+        <td><p>Déclarations en double mises de côté</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Duplicate reports ignored</span> / Déclarations en double mises de côté&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de déclarations en double</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Nombre de déclarations en double mises de côté</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(57)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>C4</strong></p></th>
+        <td><p>Déclarations supprimées</p></td>
+        <td>&nbsp;</td>
+        <td><p>S'applique uniquement aux accusés de réception au sujet d'un lot de catégorie «&nbsp;C&nbsp;» si vous avez supprimé une ou plusieurs déclarations.</p></td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Reports deleted</span> / Déclarations supprimées&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de déclarations supprimées</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Nombre de déclarations supprimées</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(57)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>C4</strong></p></th>
+        <td><p>Nouvelles déclarations acceptées</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">New reports accepted</span> / Nouvelles déclarations acceptées&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de nouvelles déclarations acceptées</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Nombre de nouvelles déclarations acceptées</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(57)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>C4</strong></p></th>
+        <td><p>Déclarations traitées</p></td>
+        <td>&nbsp;</td>
+        <td><p>Pour un accusé de réception au sujet d'un lot de catégorie «&nbsp;C&nbsp;», ce total comprend les déclarations modifiées et les déclarations supprimées.</p></td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Total reports processed</span> / Nombre de déclarations traitées&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de déclarations acceptées</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Nombre de déclarations ayant été traitées avec succès.</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(57)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C5</strong></p></td>
+        <td><p>Légende de rejet A</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;A = <span lang="en">Sub-header sequence number</span> / Numéro séquentiel du sous-en-tête&nbsp;» (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C5</strong></p></td>
+        <td><p>Légende de rejet B</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;B = <span lang="en">Report sequence number</span> / Numéro séquentiel de la déclaration&nbsp;» (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C5</strong></p></td>
+        <td><p>Légende de rejet C</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;C = <span lang="en">RE report reference number</span> / Numéro de référence de la déclaration de l'ED&nbsp;» (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C5</strong></p></td>
+        <td><p>Légende de rejet D</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;D = <span lang="en">Transaction</span> / Opération&nbsp;» (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C5</strong></p></td>
+        <td><p>Légende de rejet E</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;E = <span lang="en">Disposition</span> / Répartition&nbsp;» (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C5</strong></p></td>
+        <td><p>Légende de rejet E</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;F = <span lang="en">Field</span> / Champ&nbsp;» (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C5</strong></p></td>
+        <td><p>Légende de rejet G</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;G = <span lang="en">Reject code</span> / Code de rejet&nbsp;» (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C5</strong></p></td>
+        <td><p>Légende de rejet</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;* = <span lang="en">Reject indicator</span> / Indicateur de rejet&nbsp;» (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C5</strong></p></td>
+        <td><p>En-tête de message</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G» (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="17"><p><strong>C6</strong></p></th>
+        <td><p>Message de validation</p></td>
+        <td>&nbsp;</td>
+        <td><p><strong>Cette ligne est répétitive. </strong>(seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»&nbsp;</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel du sous-en-tête (A)</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Numéro séquentiel du sous-en-tête dans le fichier de lot. (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel de la déclaration (B)</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Numéro séquentiel de la déclaration dans le fichier de lot. (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro de référence de la déclaration de l'entité déclarante (C)</p></td>
+        <td><p>X(20)LJ</p></td>
+        <td><p>Le numéro de référence unique assigné pour la déclaration par l'entité déclarante (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel de l'opération (D)</p></td>
+        <td><p>X(4)LJ</p></td>
+        <td><p>Le numéro séquentiel de l'opération de la déclaration auquel le message est associé (seulement pour un lot rejeté et ne s'applique pas aux messages au sujet de déclarations de télévirement)</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel de la répartition (E)</p></td>
+        <td><p>X(6)LJ</p></td>
+        <td><p>Le numéro séquentiel de la répartition à laquelle le message est associé (seulement pour un lot rejeté et ne s'applique pas aux messages au sujet de déclarations de télévirement)</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro du champ (F)</p></td>
+        <td><p>X(6)LJ</p></td>
+        <td><p>Numéro du champ de la déclaration ayant mené au rejet. (seulement pour un lot rejeté)</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro du message de rejet (G)</p></td>
+        <td><p>9(3)LJ</p></td>
+        <td><p>Numéro du message indiquant la raison du rejet du lot par CANAFE (seulement pour un lot rejeté). Voir la section 9 pour les renseignements au sujet des codes pour ces messages.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de rejet</p></td>
+        <td><p>X(1)LJ</p></td>
+        <td><p>«&nbsp;*&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(59)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section D&nbsp;: Messages portant sur les déclarations acceptées, les déclarations avec des erreurs et les déclarations rejetées</strong><br>
+    (pour les lots acceptés seulement)
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description du champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces.</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D </strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>"<span lang="en">Messages on accepted reports, reports in error and reports rejected</span>"</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;Messages portant sur les décl. acceptées, avec des erreurs et rejetées»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Légende A</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;A = <span lang="en">Sub-header</span> / Sous-en-tête&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Légende B</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;B = <span lang="en">Report sequence</span> / Séquence de la déclaration&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Légende C</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;C = <span lang="en">RE report reference number</span> / Numéro de référence de la déclaration de l'ED&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Légende D</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;D = <span lang="en">Transaction</span> / Opération&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Légende E</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;E = <span lang="en">Disposition</span> / Répartition&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Légende F</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;F = <span lang="en">Field</span> / Champ&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Légende G</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;G = <span lang="en">Message code</span> / Code de message&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Légende</p></td>
+        <td><p>X(129)</p></td>
+        <td><p>«&nbsp;*&nbsp; = <span lang="en">Reject indicator</span> / Indicateur de rejet&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>Légende H</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;H = <span lang="en">Validation rule number</span> / Numéro de la règle de validation&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces.</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>D</strong></p></td>
+        <td><p>En-tête de messages</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;&nbsp;&nbsp;&nbsp; A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H»</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="19"><p><strong>D2</strong></p></th>
+        <td><p>Message de validation</p></td>
+        <td>&nbsp;</td>
+        <td><p><strong>Cette ligne est répétitive.</strong></p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro du sous-en-tête (A)</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Sous-en-tête auquel le message est associé.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel de la déclaration (B)</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Numéro séquentiel de la déclaration auquel le message est associé.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro de référence de la déclaration de l'entité déclarante (C)</p></td>
+        <td><p>X(20)LJ</p></td>
+        <td><p>Le numéro de référence de la déclaration de l'entité déclarante dont traite le message.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel de l'opération (D)</p></td>
+        <td><p>X(4)LJ</p></td>
+        <td><p>Le numéro séquentiel de l'opération de la déclaration auquel le message est associé (ne concerne pas les messages relatifs aux déclarations de télévirements)</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel de la répartition (E)</p></td>
+        <td><p>X(6)LJ</p></td>
+        <td><p>Numéro séquentiel de la répartition de la déclaration auquel le message est associé (ne concerne pas les messages relatifs aux déclarations de télévirements).</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro du champ (F)</p></td>
+        <td><p>X(6)LJ</p></td>
+        <td><p>Identification du numéro du champ de la déclaration auquel le message est associé</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Message de validation (G)</p></td>
+        <td><p>9(3)LJ</p></td>
+        <td><p>Le message de validation est associé au champ qui est identifié. Vous trouverez les renseignements au sujet de ces codes dans la section 9.2.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de rejet</p></td>
+        <td><p>X(1)LJ</p></td>
+        <td><p>«&nbsp;*&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur des données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro de la règle de validation (H)</p></td>
+        <td><p>9(9)LJ</p></td>
+        <td><p>Il s'agit du numéro de la règle de validation qui indique le problème lié à la déclaration. Voir la section 9.1 pour obtenir des informations sur les numéros de règles.</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(47)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section E&nbsp;: Nombre de sous-en-têtes et de déclarations traitées</strong><br>
+    (pour les lots acceptés seulement)
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description du champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>E </strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>"<span lang="en">Accepted sub-header and report processing totals</span>"</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>E</strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;Nombre de sous-en-têtes acceptés et de déclarations traitées avec succès&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>E</strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Sub-header&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Report count</span>&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>E</strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;Sous-en-tête&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nombre de déclarations&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="7"><p><strong>E2</strong></p></th>
+        <td colspan="2"><p>Nombre de sous-en-têtes et de déclarations</p></td>
+        <td><p><strong>Cette ligne est répétitive.</strong></p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;».</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel du sous-en-tête</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Numéro séquentiel du sous-en-tête de lot ayant été traité avec succès.</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(12)LJ</p></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de déclarations du sous-en-tête</p></td>
+        <td><p>X(5)LJ</p></td>
+        <td><p>Nombre de déclarations du sous-en-tête ayant été traitées avec succès.</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(103)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section F&nbsp;: Fin du rapport</strong>
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description du champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="43"><p><strong>F </strong></p></th>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">End of report</span> / Fin du rapport&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>"============================================================================"</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Legend</span> / Légende&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;A&nbsp;&nbsp; <span lang="en">Section contains summary of the batch processed</span>&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;A &nbsp;&nbsp;Cette section présente des renseignements sur le traitement du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;A2&nbsp; <span lang="en">Report type contained in the batch</span> / Genre de décl. comprises dans le lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;A3&nbsp; <span lang="en">Batch Type</span> / Catégorie de lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;A4&nbsp; <span lang="en">Operational mode</span> /Mode opérationnel&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;A5&nbsp; <span lang="en">Date processed by FINTRAC</span> / Date de traitement par CANAFE&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;A6&nbsp; <span lang="en">Time processed by FINTRAC</span> / Heure de traitement par CANAFE&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;B&nbsp;&nbsp; <span lang="en">Section contains batch identification details</span>&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;B&nbsp;&nbsp; Cette section présente des renseignements sur l'identification du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;B2&nbsp; <span lang="en">Date provided in the batch header</span> / Date indiquée dans l'en-tête de lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;B3&nbsp; <span lang="en">Time provided in the batch header</span> / Heure indiquée dans l'en-tête de lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;B4&nbsp; <span lang="en">Seq. provided in the batch header</span> / Séq. indiquée dans l'en-tête de lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C&nbsp;&nbsp; <span lang="en">Section contains batch processing results</span>&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C&nbsp;&nbsp; Cette section présente les résultats du traitement du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C2&nbsp; <span lang="en">Batch acceptance or reject message</span> / Message d'acceptation ou de rejet du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C3&nbsp; <span lang="en">Number of sub-headers accepted</span> / Nombre de sous-en-têtes acceptés&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C4&nbsp; <span lang="en">Number of reports rejected</span> / Nombre de déclarations rejetées&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C4&nbsp; <span lang="en">Number of duplicate reports ignored</span> / Nombre de déclarations en double mises de côté&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C4&nbsp; <span lang="en">Number of reports deleted</span> / Nombre de déclarations supprimées&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C4&nbsp; <span lang="en">Number of new reports accepted</span> / Nombre de nouvelles déclarations acceptées&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C4&nbsp; <span lang="en">Number of reports processed</span> / Nombre de déclarations traitées&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C5&nbsp; <span lang="en">Rejected batch legend</span> / Légende de rejet de lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;C6&nbsp; <span lang="en">Rejected batch messages</span> / Messages de rejet de lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;D&nbsp;&nbsp; <span lang="en">Section contains validation messages for reports</span>&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;D&nbsp;&nbsp; Cette section présente les messages de validation des déclarations&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;D2&nbsp; <span lang="en">Validation messages for report fields (repeating message line)</span>&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;D2&nbsp; Messages de validation des champs de la décl. (ligne répétitive du message)&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;E&nbsp;&nbsp; <span lang="en">Section contains the total number of reports per sub-header in the batch</span>&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;E&nbsp;&nbsp; Cette section présente le nombre total de déclarations incluses dans chaque&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp; sous-en-tête de lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;E2&nbsp; <span lang="en">For each sub-header, the number of reports (repeating message line)</span>&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;E2&nbsp; Nombre de déclarations par sous-en-tête (ligne répétitive du message)&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;F&nbsp;&nbsp; <span lang="en">Section indicates the end of the acknowledgement messages</span>&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;F&nbsp;&nbsp; Cette section indique la fin des messages de l'accusé de réception&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;============================================================================&nbsp;»</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+    
+    <h4 id="s7.1.2">7.1.2 Exemples d'accusé de réception de type général</h4>
+    
+      <h5 id="s7.1.2.1">7.1.2.1 Exemple d'accusé de réception pour un lot accepté</h5>
+        <p><strong>Nota&nbsp;: Faute d'espace, le format du bloc de données n'a pas été maintenu à 132 caractères dans l'exemple ci-dessous.</strong></p>
+        
+<pre>
+A  <span lang="en">Your batch has been processed</span>. / Votre lot a été traité.
+
+A2 <span lang="en">Report type</span> / Genre de déclaration      &nbsp;: LCTR 
+A3 <span lang="en">Batch type</span>  / Catégorie de lot          &nbsp;: A 
+A4 <span lang="en">Operational mode</span> / Mode opérationnel    &nbsp;: P
+A5 <span lang="en">Date batch processed by FINTRAC</span> / Date de traitement par CANAFE &nbsp;: 20050723
+A6 <span lang="en">Time batch processed by FINTRAC</span> / Heure de traitement par CANAFE&nbsp;: 041733
+
+B  <span lang="en">Batch ID</span> / Identification du lot				
+B2 <span lang="en">Date</span> / Date                                                     &nbsp;: 20050722
+B3 <span lang="en">Time</span> / Heure                                                    &nbsp;: 234527
+B4 <span lang="en">Batch sequence ID</span> / Numéro séq. d'identification du lot         &nbsp;: 00003
+
+C  <span lang="en">Batch processing messages</span> / Messages portant sur le traitement du lot
+C2 <span lang="en">Batch accepted</span> / Lot accepté
+C3 <span lang="en">Sub-headers accepted</span> / Sous-en-têtes de lot acceptés	           &nbsp;: 00001
+C4 <span lang="en">Reports rejected</span> / Déclarations rejetées                        &nbsp;: 1
+C4 <span lang="en">Duplicate reports ignored</span> / Déclarations en double mises de côté&nbsp;: 0
+C4 <span lang="en">Reports deleted</span> / Déclarations supprimées                       &nbsp;: 0
+C4 <span lang="en">New reports accepted</span> / Nouvelles déclarations acceptées         &nbsp;: 3
+C4 <span lang="en">Total reports processed</span> / Nombre de déclarations traitées       &nbsp;: 4
+
+D  <span lang="en">Messages on accepted reports, reports in error and reports rejected</span>
+D  Messages portant sur les décl. acceptées, avec des erreurs et rejetées
+D  A = <span lang="en">Sub-header</span> / Sous-en-tête
+D  B = <span lang="en">Report sequence</span> / Séquence de la déclaration
+D  C = <span lang="en">RE report reference number</span> / Numéro de référence de la déclaration de l'ED  
+D  D = <span lang="en">Transaction</span> / Opération
+D  E = <span lang="en">Disposition</span> / Répartition
+D  F = <span lang="en">Field</span> / Champ
+D  G = <span lang="en">Message code</span> / Code de message
+D  * = <span lang="en">Reject indicator</span> / Indicateur de rejet
+D  H = <span lang="en">Validation rule number</span> / Numéro de la règle de validation
+
+D     A       B               C              D      E        F        G      H
+D2&nbsp;: 1    &nbsp;: 1    &nbsp;: Report97000000      &nbsp;: 1   &nbsp;: 1     &nbsp;: B1.7a &nbsp;: 320*&nbsp;: 28765
+D2&nbsp;: 1    &nbsp;: 2    &nbsp;: Report97100000      &nbsp;: 1   &nbsp;: 1     &nbsp;: B1.7a &nbsp;: 320 &nbsp;: 28765
+D2&nbsp;: 2    &nbsp;: 3    &nbsp;: Report97200000      &nbsp;: 1   &nbsp;: 1     &nbsp;: B1.7a &nbsp;: 320 &nbsp;: 28765
+
+E  <span lang="en">Accepted sub-header and report processing totals</span>
+E  Nombre de sous-en-têtes acceptés et de déclarations traitées avec succès
+E  <span lang="en">Sub-header	      Report count</span>
+E  Sous-en-tête	      Nombre de déclarations
+E2&nbsp;: 1               &nbsp;: 4
+
+F  <span lang="en">End of report</span> / Fin du rapport
+============================================================================ 
+<span lang="en">Legend</span> / Légende
+
+A   <span lang="en">Section contains summary of the batch processed</span>
+A   Cette section présente des renseignements sur le traitement du lot 
+A2  <span lang="en">Report type contained in the batch</span> / Genre de décl. comprises dans le lot
+A3  <span lang="en">Batch type</span> / Catégorie de lot
+A4  <span lang="en">Operational mode</span> / Mode opérationnel
+A5  <span lang="en">Date processed by FINTRAC</span> / Date de traitement par CANAFE
+A6  <span lang="en">Time processed by FINTRAC</span> / Heure de traitement par CANAFE
+
+B   <span lang="en">Section contains batch identification details</span>
+B   Cette section présente des renseignements sur l'identification du lot
+B2  <span lang="en">Date provided in the batch header</span> / Date indiquée dans l'en-tête de lot
+B3  <span lang="en">Time provided in the batch header</span> / Heure indiquée dans l'en-tête de lot
+B4  <span lang="en">Seq. provided in the batch header</span> / Séq. indiquée dans l'en-tête de lot
+
+C   <span lang="en">Section contains batch processing results</span>
+C   Cette section présente les résultats du traitement du lot 
+C2  <span lang="en">Batch acceptance or reject message/Message d'acceptation ou de rejet du lot</span> 
+C3  <span lang="en">Number of sub-headers accepted</span> / Nombre de sous-en-têtes acceptés
+C4  <span lang="en">Number of reports rejected</span> / Nombre de déclarations rejetées
+C4  <span lang="en">Number of duplicate reports ignored</span> / Nombre de décl. en double mises de côté
+C4  <span lang="en">Number of reports deleted</span> / Nombre de décl. supprimées 
+C4  <span lang="en">Number of new reports accepted</span> / Nombre de nouvelles déclarations acceptées
+C4  <span lang="en">Number of reports processed</span> / Nombre de déclarations traitées
+C5  <span lang="en">Rejected batch legend</span> / Légende de rejet de lot
+C6  <span lang="en">Rejected batch messages</span> / Messages de rejet de lot
+
+D   <span lang="en">Section contains validation messages for reports</span>
+D   Cette section présente les messages de validation des déclarations
+D2  <span lang="en">Validation messages for report fields (repeating message line)</span>
+D2  Messages de validation des champs de la décl.(ligne répétitive du message)
+
+E   <span lang="en">Section contains the total number of reports per sub-header in the batch</span>
+E   Cette section présente le nombre total de déclarations incluses dans chaque
+E     sous-en-tête de lot
+E2  <span lang="en">For each sub-header, the number of reports (repeating message line)</span>
+E2  Nombre de déclarations par sous-en-tête (ligne répétitive du message)
+
+F   <span lang="en">Section indicates end of the acknowledgement messages</span>
+F   Cette section indique la fin des messages de l'accusé de réception
+</pre>
+      
+      <h5 id="s7.1.2.2">7.1.2.2 Exemple d'accusé de réception pour un lot rejeté</h5>
+        <p><strong>Nota&nbsp;: Faute d'espace, le format du bloc de données n'a pas été maintenu à 132 caractères dans l'exemple ci-dessous.</strong></p>
+        
+<pre>
+A  <span lang="en">Your batch has been processed</span>. / Votre lot a été traité.
+
+A2 <span lang="en">Report type</span> / Genre de déclaration      &nbsp;: LCTR 
+A3 <span lang="en">Batch type</span>  / Catégorie de lot          &nbsp;: A 
+A4 <span lang="en">Operational mode</span> / Mode opérationnel    &nbsp;: P
+A5 <span lang="en">Date batch processed by FINTRAC</span> / Date de traitement par CANAFE &nbsp;: 20050723
+A6 <span lang="en">Time batch processed by FINTRAC</span> / Heure de traitement par CANAFE&nbsp;: 014532
+
+B  <span lang="en">Batch ID</span> / Identification du lot				
+B2 <span lang="en">Date</span> / Date                                                     &nbsp;: 20050722
+B3 <span lang="en">Time</span> / Heure                                                    &nbsp;: 234527
+B4 <span lang="en">Batch sequence ID</span> / Numéro séq. d'identification du lot         &nbsp;: 00003
+
+C  <span lang="en">Batch processing messages</span> / Messages portant sur le traitement du lot
+C2 <span lang="en">Batch accepted</span> / Lot accepté
+C3 <span lang="en">Sub-headers accepted</span> / Sous-en-têtes de lot acceptés	           &nbsp;: 00001
+C4 <span lang="en">Reports rejected</span> / Déclarations rejetées                        &nbsp;: 3
+C4 <span lang="en">Duplicate reports ignored</span> / Déclarations en double mises de côté&nbsp;: 0
+C4 <span lang="en">Reports deleted</span> / Déclarations supprimées                       &nbsp;: 0
+C4 <span lang="en">New reports accepted</span> / Nouvelles déclarations acceptées         &nbsp;: 0
+C4 <span lang="en">Total reports processed</span> / Nombre de déclarations traitées       &nbsp;: 0
+C5 A = <span lang="en">Sub-header sequence number</span> / Numéro séquentiel du sous-en-tête
+C5 B = <span lang="en">Report sequence number</span> / Numéro séquentiel de la déclaration
+C5 C = <span lang="en">RE report reference number</span> / Numéro de référence de déclaration de l'ED
+C5 D = <span lang="en">Transaction</span> / Opération
+C5 E = <span lang="en">Disposition</span> / Répartition
+C5 F = <span lang="en">Field</span> / Champ
+C5 G = <span lang="en">Reject code</span> / Code de rejet
+C5 * = <span lang="en">Reject indicator</span> / Indicateur de rejet
+
+C5    A       B               C              D      E        F        G  
+C6&nbsp;: 1    &nbsp;: 1    &nbsp;: 111111234567        &nbsp;: 1   &nbsp;:       &nbsp;: A.1A  &nbsp;: 411*
+C6&nbsp;: 1    &nbsp;: 2    &nbsp;: 111111234568        &nbsp;: 1   &nbsp;:       &nbsp;: A.1A  &nbsp;: 411*
+C6&nbsp;: 1    &nbsp;: 3    &nbsp;: 111111234569        &nbsp;: 1   &nbsp;:       &nbsp;: A.1A  &nbsp;: 411*
+
+F  <span lang="en">End of report</span> / Fin du rapport
+============================================================================ 
+<span lang="en">Legend</span> / Légende
+
+A   <span lang="en">Section contains summary of the batch processed</span>
+A   Cette section présente des renseignements sur le traitement du lot 
+A2  <span lang="en">Report type contained in the batch</span> / Genre de décl. comprises dans le lot
+A3  <span lang="en">Batch type</span> / Catégorie de lot
+A4  <span lang="en">Operational mode</span> / Mode opérationnel
+A5  <span lang="en">Date processed by FINTRAC</span> / Date de traitement par CANAFE
+A6  <span lang="en">Time processed by FINTRAC</span> / Heure de traitement par CANAFE
+
+B   <span lang="en">Section contains batch identification details</span>
+B   Cette section présente des renseignements sur l'identification du lot
+B2  <span lang="en">Date provided in the batch header</span> / Date indiquée dans l'en-tête de lot
+B3  <span lang="en">Time provided in the batch header</span> / Heure indiquée dans l'en-tête de lot
+B4  <span lang="en">Seq. provided in the batch header</span> / Séq. indiquée dans l'en-tête de lot
+
+C   <span lang="en">Section contains batch processing results</span>
+C   Cette section présente les résultats du traitement du lot 
+C2  <span lang="en">Batch acceptance or reject message</span> / Message d'acceptation ou de rejet du lot 
+C3  <span lang="en">Number of sub-headers accepted</span> / Nombre de sous-en-têtes acceptés
+C4  <span lang="en">Number of reports rejected</span> / Nombre de déclarations rejetées
+C4  <span lang="en">Number of duplicate reports ignored</span> / Nombre de décl. en double mises de côté
+C4  <span lang="en">Number of reports deleted</span> / Nombre de décl. supprimées 
+C4  <span lang="en">Number of new reports accepted</span> / Nombre de nouvelles déclarations acceptées
+C4  <span lang="en">Number of reports processed</span> / Nombre de déclarations traitées
+C5  <span lang="en">Rejected batch legend</span> / Légende de rejet de lot
+C6  <span lang="en">Rejected batch messages</span> / Messages de rejet de lot
+
+D   <span lang="en">Section contains validation messages for reports</span>
+D   Cette section présente les messages de validation des déclarations
+D2  <span lang="en">Validation messages for report fields (repeating message line)</span>
+D2  Messages de validation des champs de la décl.(ligne répétitive du message)
+
+E   <span lang="en">Section contains the total number of reports per sub-header in the batch</span>
+E   Cette section présente le nombre total de déclarations incluses dans chaque
+E     sous-en-tête de lot
+E2  <span lang="en">For each sub-header, the number of reports (repeating message line)</span>
+E2  Nombre de déclarations par sous-en-tête (ligne répétitive du message)
+
+F   <span lang="en">Section indicates end of the acknowledgement messages</span>
+F   Cette section indique la fin des messages de l'accusé de réception
+</pre>
+      
+<h2 id="s8">8. Formatage des messages de déclarations retournées à des fins de modification</h2>
+  <p>Les tableaux suivants donnent des détails sur la façon dont les messages de CANAFE concernant les déclarations retournées à des fins de modification (DRM) sont formatés.</p>
+
+  <h3 id="s8.1">8.1 Configuration détaillée – Message de DRM</h3>
+  
+    <h4 id="s8.1.1">8.1.1 Configuration générale du message de DRM</h4>
+      <p>Les tableaux suivants décrivent le format des messages de DRM que vous envoie CANAFE si vous décidez de modifier par lots des déclarations que vous avez transmises de cette façon. Toutes les étiquettes de champs comportent trois caractères, sont cadrées à gauche et sont garnies d'espaces.</p>
+      
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section A&nbsp;: Introduction de la DRM</strong>
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description&nbsp;du&nbsp;champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row" rowspan="3"><p><strong>A</strong></p></th>
+        <td><p>Introduction de la DRM</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Please review and correct the following report(s)</span>:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Introduction des DRM</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;Veuillez réviser et corriger la ou les déclaration(s) suivante(s)&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>A2</strong></p></th>
+        <td><p>Genre de déclaration</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(37)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Report type</span> / Genre de déclaration&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;: &nbsp; &nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Valeur du genre de déclaration</p></td>
+        <td><p>X(4)LJ</p></td>
+        <td><p>«&nbsp;LCTR&nbsp;» Lot de déclarations d'opérations importantes en espèces (DOIE)</p>
+        <p>«&nbsp;EFTO&nbsp;» Lot de télévirements transmis autres que les messages SWIFT (DTT)</p>
+        <p>«&nbsp;EFTI&nbsp;» Lot de télévirements reçus autres que les messages SWIFT (DTR)</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(86)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>A3</strong></p></th>
+        <td><p>Date d'envoi de la DRM</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Date issued by FINTRAC</span> / Date d'envoi par CANAFE&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;: &nbsp; &nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Date de traitement</p></td>
+        <td><p>9(8)LJ</p></td>
+        <td><p>AAAAMMJJ</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(54)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section B&nbsp;: Identification de la DRM</strong>
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description du champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>B </strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;RRFA identification / Identification de la DRM&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>B2</strong></p></th>
+        <td colspan="2"><p>Numéro d'identification de la DRM</p></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;RRFA number / Numéro de la DRM&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro d'identification de la DRM</p></td>
+        <td><p>9(9)LJ</p></td>
+        <td><p>Identification numérique de la DRM accordée par CANAFE</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(53)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>B3</strong></p></th>
+        <td><p>Nombre de lots impliqués</p></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Number of batches involved</span> / Nombre de lots impliqués&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de lots impliqués</p></td>
+        <td><p>9(5)LJ</p></td>
+        <td><p>Le nombre de lots d'où proviennent les DRM</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(57)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>B4</strong></p></th>
+        <td colspan="2"><p>Nombre de déclarations retournées</p></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Number of reports returned</span> / Nombre de déclarations retournées&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de déclarations retournées</p></td>
+        <td><p>9(5)LJ</p></td>
+        <td><p>Le nombre de déclarations comprises dans la DRM</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(57)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="5"><p><strong>B5</strong></p></th>
+        <td colspan="2"><p>Nombre de problèmes de qualité</p></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><p>Description</p></td>
+        <td><p>X(65)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Number of quality issues</span> / Nombre de problèmes de qualité&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(2)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Nombre de problèmes de qualité</p></td>
+        <td><p>9(9)LJ</p></td>
+        <td><p>Nombre total de problèmes de qualité présentés pour l'ensemble des déclarations retournées.</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(53)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section C&nbsp;: Messages de problèmes de qualité des données</strong>
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description du champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C </strong></p></td>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">Data quality issues</span> / Problèmes de qualité des données&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Légende de problème de qualité A</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;A = <span lang="en">RE's identifier number</span> / Numéro d'identification de l'ED&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Légende de problème de qualité B</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;B = <span lang="en">Batch date</span> / Date du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Légende de problème de qualité C</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;C = <span lang="en">Batch time</span> / Heure du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Légende de problème de qualité D</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;D = <span lang="en">Batch sequence ID</span> / Numéro séq. d'identification du lot&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Légende de problème de qualité E</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;E = <span lang="en">RE report reference number</span> / Numéro de référence de déclaration de l'ED&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Légende de problème de qualité F</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;F = <span lang="en">Report part and field number</span> / Nos de la partie et du champ de la décl.&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Légende de problème de qualité G</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;G = <span lang="en">Transaction</span> / Opération&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Légende de problème de qualité H</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;H = <span lang="en">Disposition</span> / Répartition&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C2</strong></p></td>
+        <td><p>Légende de problème de qualité I</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;I = <span lang="en">Quality issue code</span> / Code du problème de qualité&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <td><p><strong>C3</strong></p></td>
+        <td><p>Entête de messages</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="20"><p><strong>C4</strong></p></th>
+        <td><p>Message de la DRM</p></td>
+        <td>&nbsp;</td>
+        <td><p><strong>Cette ligne est répétitive.</strong></p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro d'identification de l'entité déclarante (A)</p></td>
+        <td><p>9(7)LJ</p></td>
+        <td><p>Numéro d'identification de l'entité déclarante</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Date du lot (B)</p></td>
+        <td><p>9(8)</p></td>
+        <td><p>Date du lot</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Heure du lot (C)</p></td>
+        <td><p>9(6)</p></td>
+        <td><p>Heure du lot</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Code séquentiel d'identification du lot (D)</p></td>
+        <td><p>9(5)RJZ</p></td>
+        <td><p>Code numérique séquentiel d'identification unique accordé par l'entité au lot dans lequel la déclaration retournée a été présentée à l'origine.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro de référence de la déclaration de l'entité déclarante (E)</p></td>
+        <td><p>X(20)</p></td>
+        <td><p>Le numéro de référence unique accordé par l'entité déclarante à la déclaration retournée.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Partie de la déclaration et numéro du champ (F)</p></td>
+        <td><p>X(6)LJ</p></td>
+        <td><p>La partie et le numéro du champ de la déclaration retournée dans lesquels le problème de qualité a été signalé.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel de l'opération (G)</p></td>
+        <td><p>X(4)LJ</p></td>
+        <td><p>Le numéro séquentiel de l'opération de la déclaration retournée dans laquelle le problème de qualité a été signalé.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro séquentiel de la répartition (H)</p></td>
+        <td><p>X(6)LJ</p></td>
+        <td><p>Le numéro séquentiel de la répartition de la déclaration retournée dans laquelle le problème de qualité a été signalé.</p></td>
+      </tr>
+      <tr>
+        <td><p>Indicateur de données variables</p></td>
+        <td><p>X(3)LJ</p></td>
+        <td><p>«&nbsp;:&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Numéro du message de qualité des données (I)</p></td>
+        <td><p>9(3)LJ</p></td>
+        <td><p>Numéro du message signalant le problème de qualité. Voir la section 9 pour de plus amples renseignements au sujet de ces messages.</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(38)LJ</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="table-responsive">
+  <table class="table table-bordered table-striped">
+    <caption class="text-left">
+    <strong>Section D&nbsp;: Fin du rapport</strong>
+    </caption>
+    <thead>
+      <tr class="bg-primary">
+        <th scope="col">Étiquette </th>
+        <th scope="col">Description du champ </th>
+        <th scope="col">Format </th>
+        <th scope="col">Commentaires </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td><p>Séparateur</p></td>
+        <td><p>X(132)</p></td>
+        <td><p>Espaces</p></td>
+      </tr>
+      <tr>
+        <th scope="row" rowspan="2"><p><strong>D </strong></p></th>
+        <td><p>Titre de la section</p></td>
+        <td><p>X(129)LJ</p></td>
+        <td><p>«&nbsp;<span lang="en">End of report</span> / Fin du rapport&nbsp;»</p></td>
+      </tr>
+      <tr>
+        <td><p>Élément de remplissage</p></td>
+        <td><p>X(132)LJ</p></td>
+        <td><p>«&nbsp;========================================================================================&nbsp;»</p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+    
+    <h4 id="s8.1.2">8.1.2 Exemple de message de DRM</h4>
+      <p><strong>Nota&nbsp;: Faute d'espace, le format du bloc de données n'a pas été maintenu à 132 caractères dans l'exemple ci-dessous.</strong></p>
+        
+<pre>
+A  <span lang="en">Please review and correct the following report(s):</span>
+A  Veuillez réviser et corriger la ou les déclaration(s) suivante(s)&nbsp;:
+
+A2 <span lang="en">Report type</span> / Genre de déclaration               &nbsp;: LCTR
+A3 Date issued by FINTRAC / Date d'envoi par CANAFE &nbsp;: 20060523
+
+B  <span lang="en">RRFA identification</span> / Identification de la DRM
+B2 <span lang="en">RRFA number</span> / Numéro de la DRM                                   &nbsp;: 99
+B3 <span lang="en">Number of batches involved</span> / Nombre de lots impliqués            &nbsp;: 2
+B4 <span lang="en">Number of reports returned</span> / Nombre de déclarations retournées   &nbsp;: 4
+B5 <span lang="en">Number of corrections required</span> / Modifications à apporter        &nbsp;: 5
+
+C  <span lang="en">Data quality issues</span> / Problèmes de qualité 
+C2 A = <span lang="en">RE's identifier number</span> / Numéro d'identification de l'ED
+C2 B = <span lang="en">Batch date</span> / Date du lot 
+C2 C = <span lang="en">Batch time</span> / Heure du lot 
+C2 D = <span lang="en">Batch sequence ID</span> / Numéro séq. d'identification du lot
+C2 E = <span lang="en">RE report reference number</span> / Numéro de référence de déclaration de l'ED
+C2 F = <span lang="en">Report part and field number</span> / Nos de la partie et du champ de la décl.
+C2 G = <span lang="en">Transaction</span> / Opération
+C2 H = <span lang="en">Disposition</span> / Répartition
+C2 I = <span lang="en">Quality issue code</span> / Code du problème de qualité
+
+C3      A          B         C       D              E          F      G     H    I
+C4&nbsp;: 1211379&nbsp;: 20061028&nbsp;: 000523&nbsp;: 00003&nbsp;: XT007889944100 &nbsp;: B1.7  &nbsp;: 1  &nbsp;:   &nbsp;: 329
+C4&nbsp;: 1211379&nbsp;: 20061028&nbsp;: 000523&nbsp;: 00003&nbsp;: XT007889944100 &nbsp;: B2.8A &nbsp;: 1  &nbsp;: 1 &nbsp;: 442
+C4&nbsp;: 1211379&nbsp;: 20061029&nbsp;: 001725&nbsp;: 00004&nbsp;: 00QZ0078952123 &nbsp;: C.1   &nbsp;: 1  &nbsp;: 1 &nbsp;: 77
+C4&nbsp;: 1211379&nbsp;: 20061029&nbsp;: 001725&nbsp;: 00004&nbsp;: 00RG0078751167 &nbsp;: C.2   &nbsp;: 1  &nbsp;: 1 &nbsp;: 77
+
+D  <span lang="en">End of report</span> / Fin du rapport
+=================================================================================================== 
+</pre>
+    
+<h2 id="s9">9. Validation des déclarations et codes d'erreurs dans le traitement</h2>
+
+
+  <h3 id="s9.1">9.1 Règles de validation des déclarations</h3>
+    <p>Les règles de validation des déclarations s'appliquent au niveau des champs des déclarations qui font partie d'un lot accepté afin d'assurer qu'il n'y a pas d'erreurs dans les déclarations (c.-à-d. elles comprennent les champs requis, les champs sont formatés correctement et les données sont valides). Les messages de validation communiqués à la section D de l'accusé de réception du lot indiquent les déclarations rejetées et celles qui comprennent des avertissements au sujet des déclarations acceptées en fonction de ces règles de validation.</p>
+    
+    <p>Il est possible de télécharger un <a href="/reporting-declaration/info/api/api-fra">tableau des codes de validation</a> dans la section traitant de la documentation technique. Le tableau comprend une description de la validation mise en application dans chacun des champs des déclarations.</p>
+  
+  <h3 id="s9.2">9.2 Codes d'erreurs dans le traitement des lots</h3>
+    <p>Les codes d'erreurs dans le traitement des lots vous sont communiqués dans un accusé de réception à la section C (pour un lot rejeté) ou à la section D (pour un lot accepté) du fichier de l'accusé de réception. Ces codes d'erreurs vous seront aussi communiqués dans la section C d'un message de DRM afin d'identifier les problèmes de qualité. Il est possible de télécharger une <a href="/reporting-declaration/info/f2r-fra#y1">table de codes</a> pour ces messages d'erreurs dans la section traitant de la documentation technique.</p>
+    
+    <p>Dans la table de codes d'erreurs, certains des codes (par exemple, les codes 400 à 439) ne vous seront transmis que lors du <strong>rejet</strong> complet du fichier de lot. Si votre lot est rejeté, les codes d'erreurs de l'accusé de réception correspondront aux problèmes cernés pendant la tentative de traitement du lot en question. Il se peut que notre traitement du lot ait été arrêté avant la détection de toutes les erreurs présentes.</p>
+    
+    <p>D'autres codes d'erreurs (comme 9, 77, 372, 442 et 978 à 999) s'appliquent au niveau des <strong>champs</strong> des déclarations au sein d'un lot <strong>accepté</strong>. Ces codes servent à expliquer pourquoi la déclaration a été rejetée ou pourquoi un message d'avertissement a été reçu au sujet d'une déclaration acceptée.</p>
+    
+  
+<h2 id="s10">10. Désignation des fichiers de lots</h2>
+  <p>Les instructions suivantes portent sur la désignation des fichiers de lots. Elles visent à s'assurer que tous les fichiers de lots d'une entité déclarante ont un nom unique.</p>
+
+  <h3 id="s10.1">10.1 Norme de désignation des fichiers de lots</h3>
+    <p>La structure suivante doit être utilisée pour nommer les fichiers de lots&nbsp;: <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Date_Heure_Genre de déclaration.Valeur de l'extension du fichier</p>
+    
+    <p>Chaque élément est requis, à l'exception du genre de déclaration, comme suit&nbsp;:</p>
+    
+    <ul>
+      <li>la date est obligatoire (AAAAMMJJ);</li>
+      <li>l'heure est obligatoire (HHMMSS);</li>
+      <li>le genre de déclaration est optionnel («&nbsp;STR&nbsp;», «&nbsp;LCTR&nbsp;», «&nbsp;EFTO&nbsp;» ou «&nbsp;EFTI&nbsp;»);</li>
+      <li>l'une des extensions de fichier suivantes est obligatoire&nbsp;: «&nbsp;.DAT&nbsp;», «&nbsp;.DATA&nbsp;» ou «&nbsp;.TXT&nbsp;». Les lots présentant d'autres valeurs d'extension de fichier seront rejetés.</li>
+    </ul>
+    
+    <p>Exemple&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20050722_223915_LCTR.DAT</p>
+    
+    <p>Les noms de fichiers ne doivent comporter que des caractères alphanumériques standards présentés en majuscules ou en minuscules (A à Z et 0 à 9). Le seul séparateur permis est le trait de soulignement «&nbsp;_&nbsp;». Le nom du fichier ne peut présenter qu'un seul point d'extension (par exemple, .dat). Les fichiers dont les noms comportent des espaces seront rejetés.</p>
+    
+    <p>Dans ce contexte, aucune distinction n'est faite entre une lettre majuscule et une lettre minuscule. Par exemple, le nom de fichier 20050722_223915_LCTR.DAT n'est pas distinct de 20050722_223915_lctr.DAT.</p>
+    
+    <p>Tous les fichiers de lots soumis par une entité déclarante à CANAFE doivent être désignés d'un nom unique, sans égard à leur contenu, sinon ils seront rejetés. Ceci est vrai même si le fichier soumis antérieurement a été rejeté et même si vous soumettez une correction de lot.</p>
+  
+  <h3 id="s10.2">10.2 Norme de désignation des fichiers d'accusé de réception de lots de CANAFE</h3>
+    <p>Le fichier d'accusé de réception que CANAFE vous transmettra portera le même nom que votre fichier de lot reçu initialement, sauf qu'il aura une valeur d'extension différente. L'extension sera «&nbsp;.001&nbsp;» pour les fichiers de lots ne comportant aucun rejet de lot, ni aucun message de validation des déclarations. Pour les fichiers comportant des rejets ou des messages de validation, l'extension de fichier sera l'une des suivantes&nbsp;:</p>
+    
+    <ul>
+      <li><strong>fichier_nom.002&nbsp;:</strong> Acceptation de toutes les déclarations, mais certains messages d'avertissement;</li>
+      <li><strong>fichier_nom.004&nbsp;:</strong> Lot accepté, mais avec certaines déclarations rejetées;</li>
+      <li><strong>fichier_nom.005&nbsp;:</strong> Lot rejeté pour des raisons de structure (mauvais nom de fichier, contenu incorrect, comptes de déclarations ne concordant pas, etc.);</li>
+    </ul>
+  
+  <h3 id="s10.3">10.3 Norme de désignation des fichiers de messages de DRM</h3>
+    <p>La structure suivante sera utilisée par CANAFE pour nommer les fichiers de messages de DRM qui vous seront envoyés&nbsp;:</p>
+    
+    <ul>
+      <li><strong>RRFA_DRM_999999999.txt</strong></li>
+    </ul>
+    
+    <p>Les «&nbsp;999999999&nbsp;» représentent le numéro de la DRM tel que reflété à l'étiquette B2 du message de DRM.</p>
+  
+ 
+ 
+
+
+<div class="container">
+<div class="pagedetails">
+	
+	<dl id="wb-dtmd">
+	<dt>Date de modification :&#32;</dt>
+	<dd><time property="dateModified">2017-06-29</time></dd>
+	</dl>
+	</div>	</div>
+</main>
+ 
+<footer id="wb-info">
+
+
+				﻿<h2 class="wb-inv">À propos de ce site</h2>
+<div class="gc-contextual">
+		<div class="container">
+			<nav>
+				<h3>Centre d’analyse des opérations et déclarations financières du Canada (CANAFE)</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="/contact-contactez/1-fra">Communiquer avec CANAFE</a></li><li><a href="/new-neuf/1-fra">Nouvelles de CANAFE</a></li><li><a href="/contact-contactez/list-liste-fra">S’abonner à la liste de distribution de CANAFE</a></li></ul>
+			</nav>
+		</div>
+	</div>
+
+	<div class="gc-main-footer">
+		<div class="container">
+			<nav>
+				<h3>Gouvernement du Canada</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="https://www.canada.ca/fr/contact.html">Toutes les coordonnées</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/systeme.html">À propos du gouvernement</a></li></ul>
+				<h4><span class="wb-inv">Thèmes et sujets</span></h4>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3"><li><a href="https://www.canada.ca/fr/services/emplois.html">Emplois</a></li>
+					<li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+					<li><a href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+					<li><a href="https://www.canada.ca/fr/services/entreprises.html">Entreprises</a></li>
+					<li><a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+					<li><a href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+					<li><a href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+					<li><a href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+					<li><a href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+					<li><a href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+					<li><a href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+					<li><a href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+					<li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Le Canada et le monde</a></li>
+					<li><a href="https://www.canada.ca/fr/services/finance.html">Argent et finance</a></li>
+					<li><a href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+					<li><a href="https://www.canada.ca/fr/services/autochtones.html">Autochtones</a></li>
+					<li><a href="https://www.canada.ca/fr/services/veterans-militaire.html">Vétérans et militaires</a></li>
+					<li><a href="https://www.canada.ca/fr/services/jeunesse.html">Jeunesse</a></li></ul>
+			</nav>
+		</div>
+	</div>			
+		<div class="gc-sub-footer">
+		<div class="container d-flex align-items-center">
+			<nav>
+				<h3 class="wb-inv">Organisation du gouvernement du Canada</h3>
+				<ul>
+					<li><a href="https://www.canada.ca/fr/sociaux.html">Médias sociaux</a></li>
+					<li><a href="https://www.canada.ca/fr/mobile.html">Applications mobiles</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/a-propos.html">À propos de Canada.ca</a></li><li><a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a></li>
+					<li><a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a></li></ul>			</nav>
+			<div class="wtrmrk align-self-end">
+				<img src="/theme-wet10/GCWeb/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada">
+			</div>
+		</div>
+	</div>
+	
+	
+	
+</footer>
+<script src="/theme-wet10/wet-boew/js/jquery/2.2.4/jquery.js"></script>
+<script src="/theme-wet10/wet-boew/js/wet-boew.min.js"></script>
+<script src="/theme-wet10/GCWeb/js/theme.min.js"></script>
+<script src="/scripts/dev-banner.js"></script>
+
+<!-- InvitationManager Files -->
+<script src="/invitation-manager/Overlay.js"></script>
+<script src="/invitation-manager/InvitationManager.js"></script>
+<!-- End InvitationManager Files -->
+
+
+
+
+ 
+ 
+</body>
+</html>

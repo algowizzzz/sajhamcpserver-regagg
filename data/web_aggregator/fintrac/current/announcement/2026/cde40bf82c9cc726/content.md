@@ -1,0 +1,48 @@
+# CANAFE impose une pénalité administrative pécuniaire à Pan Pacific Platinum Real Estate Services Inc.
+
+[**2022-10-06**]
+
+Pan Pacific Platinum Real Estate Services Inc., un courtier immobilier établi à Vancouver, en Colombie-Britannique, faisant également affaire sous le nom de LeHomes Realty, s’est vu imposer une pénalité administrative pécuniaire de 282 397,50 $ le 28 mars 2022 pour avoir commis sept violations. Les violations ont été observées dans le cadre d’un examen de conformité réalisé en 2019. Pan Pacific Platinum Real Estate Services Inc. a interjeté appel devant la Cour fédérale.
+
+**Violation no 1 – Fait de ne pas déclarer des opérations douteuses – article 7 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+
+Pan Pacific Platinum Real Estate Services Inc. n’a pas soumis de déclaration d’opérations douteuses relativement à des opérations à l’égard desquelles il y avait des motifs raisonnables de soupçonner qu’elles étaient liées à la perpétration d’une infraction de recyclage des produits de la criminalité.
+
+---
+
+**Violation no 2 – Fait pour une personne ou une entité de ne pas nommer une personne chargée de la mise en œuvre d’un programme de conformité – alinéa 71(1)a) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+
+Pan Pacific Platinum Real Estate Services Inc. ne s’est pas assuré que la personne nommée est responsable de la mise en œuvre d’un programme de conformité.
+
+---
+
+**Violation no 3 – Fait de ne pas élaborer et appliquer des politiques et procédures de conformité écrites qui sont gardées à jour et, dans le cas d’une entité, approuvées par un de ses cadres supérieurs – alinéa 71(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+
+Pan Pacific Platinum Real Estate Services Inc. n’a pas suffisamment élaboré et appliqué de politiques et procédures de conformité par rapport à ses obligations réglementaires relatives à la détermination quant aux tiers, aux relevés de réception de fonds, aux relations d’affaires et au contrôle continu.
+
+---
+
+**Violation no 4 – Fait de ne pas évaluer et consigner les risques d’infraction relative au blanchiment d’argent ou au financement du terrorisme en tenant compte des critères prescrits – alinéa 71(1)c) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+
+L’évaluation des risques de Pan Pacific Platinum Real Estate Services Inc. n’a pas tenu compte des risques de blanchiment d’argent ou de financement des activités terroristes liés à ses produits, à ses modes de prestation, à ses emplacements géographiques, à ses clients et à ses relations d’affaires.
+
+---
+
+**Violation no 5 – Fait de ne pas élaborer et garder à jour un programme écrit de formation continue sur la conformité – alinéa 71(1)d) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+
+Le programme écrit de formation continue sur la conformité de Pan Pacific Platinum Real Estate Services Inc. n’a pas été entièrement consigné ou suivi par son personnel.
+
+---
+
+**Violation no 6 – Fait de ne pas établir et consigner les mécanismes d’examen prescrits – alinéa 71(1)e) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+
+Pan Pacific Platinum Real Estate Services Inc. a omis d’établir et de consigner les mécanismes d’examen de ses politiques et procédures, de son évaluation des risques et de son programme de formation dans le but d’en vérifier l’efficacité.
+
+---
+
+**Violation no 7 – Fait de ne pas tenir les documents prévus – alinéa 39(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+
+Pan Pacific Platinum Real Estate Services Inc. n’a pas conservé de dossiers complets d’identification des clients.
+
+Date de modification :
+:   2022-10-06

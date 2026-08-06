@@ -1,0 +1,24 @@
+{
+  "doc_id": "629633e15202eb52",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "FINTRAC\u2019s supervisory framework",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/introduction/cpf/cpf-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d0b0e1725c43c2f522e2a016020fd4da70ab2619eb27774e68c5a38d375a433b",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/629633e15202eb52",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

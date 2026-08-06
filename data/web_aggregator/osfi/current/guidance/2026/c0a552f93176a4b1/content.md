@@ -1,0 +1,295 @@
+# Assessment of Regulatory Capital Models for Deposit-Taking Institutions
+
+Information
+
+Publication type
+
+Implementation note
+
+Category
+
+Capital Adequacy Requirements
+
+Date
+
+January 29, 2021
+
+Sector
+
+Banks,
+
+Trust and Loan Companies
+
+[Generate PDF](/en/print/pdf/node/496)
+
+Table of contents
+
+## I. Introduction
+
+This document outlines the key principles and processes for the assessment of internal models used for regulatory capital purposes ("capital models"), in alignment with the Capital Adequacy Requirements ("CAR") Guideline. These capital models relate to the measurement of credit, market and counterparty credit risk for the purposes of calculating minimum regulatory capital requirements. This Capital Model Assessment Program ("CMAP") applies to all deposit-taking institutions intending to use new capital models or intending to implement modifications to previously approved capital models.
+
+## II. Terms of Reference
+
+Accredited Institution:
+:   Institutions who have received approval to use internal capital models.
+
+Capital Model:
+:   A capital model for the purpose of this document is any "approach" or "model" for which regulatory approval is required prior to use.
+
+CMAP:
+:   The framework under which capital model applications are assessed.
+
+New Applicant:
+:   Institutions who are both new to the internal capital model regime and are first time applicants for a primary risk factor.
+
+Risk Factor:
+:   Risk types (i.e. market and credit risk) for which institutions may apply to use internal models for regulatory capital adequacy purposes. Sub-risk factors (i.e. counterparty credit risk) are considered to be subsets of a primary risk factor (i.e. market risk).
+
+## III. Background and Scope of Applicability
+
+Under Chapter 1 of the CAR Guideline, institutions are required to obtain approval from OSFI prior to the use of advanced approaches for regulatory capital. The assessment of these capital models is governed by the CMAP for any primary and sub-risk factor eligible for the internal model regime. Of the primary risk factors, the Internal Ratings Based ("IRB") approach is applicable for credit risk and the Internal Model Approach ("IMA") is applicable for market risk. Counterparty credit risk is considered a sub-risk factor and eligible for the Internal Model Method ("IMM").
+
+This Implementation Note describes the CMAP applicable to both new applicants and accredited institutions. Once an institution is accredited, the CMAP covers the entirety of the capital model lifecycle from the assessment of new model applications through to any subsequent modifications, performance monitoring, periodic ongoing compliance reviews and model decertification. Applications under this Implementation Note are only required from institutions to OSFI for new models, material modifications and acquisitions<p>Guiding principles regarding model modifications are further described in <a href="#T7.2">Section VII(ii)</a> below.</p> . Post-implementation reviews are outside the scope of this Implementation Note and managed through customary supervisory processes.
+
+## IV. CMAP Framework
+
+The CMAP framework defines acceptance standards which are designed to help an institution establish a model that meets the minimum regulatory requirements at the onset of an OSFI approval and on an ongoing basis. The acceptance standards conceptually categorize the regulatory requirements into four broad categories that frame all capital model assessments:
+
+1. Methodology: an assessment of the model's quantitative approaches to segment and measure risk.
+2. Integration: an assessment of the model's integration into the institutions' risk management practices.
+3. Operations: an assessment of the model's implementation, application and monitoring in a production environment.
+4. Controls: an assessment of the effectiveness of oversight applied to the internal models.
+
+Each assessment is related to specific paragraphs (or sections) of either the CAR Guideline, relevant Implementation Notes and/or the Guideline E-23 "Enterprise-Wide Model Risk Management for Deposit-Taking Institutions". These four acceptance standards form the basis upon which all model assessments for regulatory capital are conducted.
+
+## V. Guiding Principles
+
+Eight key principles guide the application of the CMAP Framework:
+
+1. Integrated – CMAP assessments will be applied on a consolidated basis, in line with OSFI's supervisory approach, subject to pertinent home/host considerations.
+2. Relevance – the capital model is relevant to risk measurement and management of the risks in the business (i.e. fit for purpose).
+3. Responsibility – institutions own the decision to seek approval for a capital model and it is their responsibility to: (i) ensure completeness of the application; (ii) demonstrate that both its model and its supporting internal control mechanisms meet regulatory expectations; and (iii) confirm readiness of the model for use.
+4. Conservatism – the capital model should employ conservatism to reflect uncertainty while recognizing that it is not a substitute for conceptual soundness.
+5. Consistency – capital model review is subject to consistent application of the CAR Guideline, pertinent Implementation Notes<p>The Implementation Notes in effect at time of publication are identified in <a href="#App2">Appendix 2</a>.</p>  and Guideline E-23.
+6. Transparency – the capital model review process should be transparent to applicants.
+7. Risk-Based – intensity of CMAP assessments will include considerations such as the model's complexity and materiality together with OSFI's assessment of the applicant's internal control mechanisms.
+8. Co-operation – where applicable, CMAP assessments will be performed in accordance with the BCBS' cross-border principles for effective cooperation<p>Please refer to the Basel Committee on Banking Supervision paper "<a href="https://www.bis.org/publ/bcbs27.htm" rel="external">The Supervision of Cross Border Banking</a>". .
+
+## VI. New Applicants
+
+In recognition of the investment required and challenges faced by first-time applicants, internal model accreditation is managed through a three-phase review.
+
+The **first phase** is *Exploratory* during which the applicant is exploring the possibility of seeking internal model accreditation. This phase is iterative in that multiple discussions (including onsites) would typically occur. This phase is guided by the applicant with the purpose of discussing its project plan and status, as well as clarifying the intent or requirements behind identified paragraphs of the governing capital guideline and management's self-assessment.
+
+The **second phase** is *Pre-Application readiness* during which OSFI reviews a limited and agreed-upon set of production-ready models to ascertain application readiness. The intent is for OSFI to use these models as a proxy for the entirety of the model suite to assess the applicant's readiness to proceed to the full application.
+
+The readiness assessment is comprised of four components:
+
+1. Model Implementation: the accreditation project plan is reasonable, substantially complete and management is well equipped to conclude the remaining components within timelines.
+2. Model Suitability and Assumptions: for the sampled models reviewed, modelling choices made are aligned with the minimum requirements of the CAR Guideline, supervisory expectations, and the attributes of the portfolio.
+3. Model Oversight: for the sampled models, independent and effective challenge was evidenced by the validation unit in accordance with the institutions' approved framework.
+4. Self-Assessment results and capital impact: the self-assessment results are reasonable, results are aligned with the conclusions of the pre-application review, and management has a credible action plan to remediate any gaps identified. Processes to generate inputs to risk-weighted assets (RWA) and Pillar I regulatory capital determination are reliable.
+
+During the course of the pre-application review, OSFI may engage in several iterative discussions with the institution to confirm understanding of its approach, but the readiness assessment arising out of this phase is based upon the assessment of the sampled models submitted.
+
+To facilitate the pre-application review, the following documents must be submitted:
+
+1. An updated implementation plan that describes the scope of the planned application, anticipated waiver or exemption requests, timeline, and the estimated RWA and capital impact assessments.
+2. A description of how the institution plans to satisfy use test requirements, and associated timelines to completion, together with an overview of related downstream impacts (e.g. what will be the impact on institutions' processes and controls as a result of the implementation of the capital model).
+3. A description of how the institution plans to monitor the performance of internal capital models post accreditation.
+4. An updated copy of the self assessment against relevant paragraphs of the CAR Guideline. Action plans (including associated timelines) to close any identified gaps should also be included.
+5. Model Development and Model Validation documents for the agreed-upon sample models.
+
+Institutions should advise OSFI of a planned pre-application submission at least 3 months prior to help ensure timely review. Once received, the objective is to conclude the pre-application readiness phase within 3 months of a complete submission. However, this will be dependent on the complexity of the pre-application, quality and comprehensiveness of the submission package, and progress made by management towards satisfying accreditation requirements.
+
+A successful pre-application recognizes the progress made by management towards accreditation, but should not be construed as an assurance of a successful final accreditation outcome.
+
+Upon receipt of a positive pre-application readiness decision, institutions may proceed to the third **phase** (the *Full Application*) during which the applicant will submit all the models forming its risk factor model suite. The methodological approaches behind these models will be reviewed together with the governance and oversight mechanisms supporting the applicant's internal model approach to arrive at the final accreditation decision.
+
+For full applications, the submission package is described in section VIII. In developing their implementation plans, institutions should establish contingency plans to ensure that any observations resulting from the pre-application readiness assessment are remediated across all models as applicable. Institutions should advise OSFI of a planned application at least 3 months prior to help ensure timely review. Once received, the objective is to conclude the accreditation decision within 6 months of OSFI deeming the application complete. However, this will be dependent on the complexity of the application, and quality and comprehensiveness of the submitted documentation.
+
+## VII. Accredited Institutions
+
+Once an institution has achieved accreditation for a primary risk factor, any subsequent applications are processed through a single-phase approach. Post-accreditation, applications are required in respect of the following:
+
+1. New Model
+2. Model Modification
+3. Acquisition
+
+### (i) New Model
+
+A new model is considered to be instances where the applicant is:
+
+1. Adding new model(s) that extends modelled RWA to a new risk factor or sub-risk factor (e.g. IMM).
+2. Extensively rebuilding the model's conceptual framework (e.g. data, assumptions or outputs) such that it is not comparable to its predecessor.
+3. Developing new models due to a significant change in modelling approach driven by a new regulatory standard (e.g. use of expected shortfall and non-modellable risk factors under the Fundamental Review of Trading Book).
+
+### (ii) Model Modification
+
+Modifications arise in situations where institutions are making the following changes to previously approved models. Examples of model modifications include:
+
+1. Incorporating new or recent data resulting in a re-calibration of model parameters.
+2. Changes to inputs (such as variables, market data sources or curves) used.
+3. Inclusion of new products.
+4. Extending use to an acquired portfolio at the end of the waiver period.
+5. Enhancing the previously approved functional form.
+6. Incorporating new inputs or changing the functional form of the model resulting from IT upgrade.
+
+Materiality definitions for modifications must be established by the institution and should consider the following principles:
+
+1. The materiality definition should clearly establish both quantitative and qualitative criteria. At a minimum, quantitative criteria should consider RWA and Common Equity Tier 1 (CET1) impacts at both the risk factor and enterprise level.
+2. Materiality thresholds should be aligned with the complexity and volatility of both the risk factor and its underlying portfolios.
+3. The materiality definition should consider any known strategic shifts that may affect the risk factor over the capital planning cycle.
+4. The materiality definition is expected to be regularly reviewed and approved by senior management.
+
+Applications are only required to be submitted where the institution's own qualitative materiality criteria have been triggered or the projected impact of the modification decreases RWA and/or adversely impacts CET1 in excess of the institution's own quantitative materiality thresholds. Institutions may implement non-material modifications without prior approval, however these should be disclosed on the model modification log. OSFI may, at its discretion, request submission of model modifications deemed to be non-material by the institution. Routine maintenance such as the periodic inclusion of newly available market data, removal of a market data or position proxy for IMA portfolios, and post-implementation fixes would generally not be considered a material modification provided that it does not change the quantitative approach or controls applicable to the model.
+
+### (iii) Acquisitions
+
+From time to time, institutions may purchase entire businesses or portfolios as part of a growth or diversification strategy. Where the institution is currently accredited to use internal models for the primary risk factor, it is expected to deliver a plan three (3) months post-completion that describes how it intends to apply its internal models to the acquisition. For all porfolios, institution apply the standardized approach until approval (if applicable) is granted to apply the internal model approach. Under this framework, three options are available:
+
+1. Exemption portfolio: the institution has deemed the portfolio immaterial and never intends to apply the internal model approach. Regulatory capital would be determined using the standardized approach.
+2. Waiver portfolio: the institution intends to apply the internal model approach, but requires time to update its current suite of capital models (which could range from incorporating new data into the existing capital model(s) to building new capital models).
+3. Migration portfolio: the institution intends to apply its existing capital models to an acquired portfolio or an acquisition programme. No changes will be made to the capital model to accommodate these additional exposures.
+
+   In order to qualify as a migration portfolio, the institution must demonstrate the following:
+
+   1. The portfolio characteristics are similar between the own and acquired portfolios.
+   2. It has data, or a suitable proxy approach, to confirm that default and loss attributes between the own and acquired portfolios are the same.
+   3. It is able to apply the internal model approach to the acquired portfolio.
+
+      * For credit portfolios, this would mean that the portfolio is "rate-able" under the IRB approach.
+      * For market portfolios, this would mean that prior IMA has been granted for the product, the institution currently applies the IMA to that product, and the attributes of the acquired portfolio are similar to the institution's own positions.
+   4. Where the migration applies to the acquisition programme, controls have been established to monitor the continued suitability of the existing capital models (e.g. separate backtesting on the acquired portfolio).
+
+Depending on the complexity and size of the acquisition, the acquisition may be managed under a combination of exemption, waiver and migration portfolios. This should be clearly described in the 3 month plan with supporting rationale.
+
+## VIII. Materials Required To Be Submitted for Capital Model Applications
+
+Prior to submitting a capital model application, institutions are expected to have adhered to and satisfied their internal policies and control requirements around the use of regulatory capital models.
+
+For each capital model application, the following materials must be submitted:
+
+1. Submission overview. This includes:
+
+   * The application request (e.g. description of the new model or changes to a previously approved model);
+   * Scope of the application;
+   * A narrative describing how the model satisfies the integration and operation acceptance standards described in Section IV above. In contrast to the self assessment in #3 below, this narrative should be thematic and describe the overall ecosystem of controls supporting the capital model. References to supporting policies, procedures and reports should be clearly identified and appended;
+   * The implementation plan that covers the timeline of the model's rollout into a production environment and an overview of any pertinent downstream impacts;
+   * A cover letter addressed to the Lead Supervisor from the Chief Risk Officer attesting that the capital model has met all applicable minimum requirements and is therefore ready to be used for regulatory capital purposes;
+   * RWA and capital impact assessment (CET1 equivalent) as at the quarter-end prior to submission. Any significant changes to the strategy which would affect the portfolio composition should be reflected accordingly.
+2. Model Development and Validation documents. Institutions should ensure that any relevant and supporting documents (e.g. those pertaining to other models whose outputs are used in the capital model, supporting academic literature, etc) are also included as an Annex. Institutions should provide a mapping that facilitates understanding of interconnectedness and ease of review.
+3. A completed Self-Assessment against agreed-upon paragraphs (or sections) of the CAR Guideline, Implementation Notes, and Guideline E-23. Prior to submission, institutions should contact OSFI bilaterally to discuss the relevant paragraphs for assessment.
+4. Positive assurance from Internal Audit unit related to: (i) the effectiveness of controls designed by management to ensure adherence to the applicable minimum requirements and (ii) concurrence with management's self-assessment. The audit report should be submitted along with the application package. Note: OSFI's review will not commence until this report is received.
+5. Relevant policies governing the operation of the capital model in a production environment and reports used to assess the effectiveness of this process.
+6. Capital impact reporting: The periods below refer to how long institutions are expected to quantify RWA of the portfolio in a non-production environment. These results are compared against RWA quantified using the approved capital model (or standardized charges, as applicable) for the same period.
+
+| Risk Factor | Accredited Institution | | New Applicant |
+| --- | --- | --- | --- |
+| New Model | Material Modification |
+| Market Risk | 2 quarters For market and counterparty credit risk purposes, one quarter refers to 60 business days. | 1 quarter | 4 quarters |
+| Credit Risk | 2 quarters | 1 quarters | 2quarters |
+| Counterparty Credit Risk | 2 quarters | 1 quarter |  |
+
+To satisfy market and counterparty credit risk requirements, up to 50% of the required observations can be attained retrospectively from the time model development is concluded (i.e. inclusive of any pre-production revisions required through the FRFI's internal review processes).
+
+This capital impact reporting period does not supersede the requirement for institutions to comply with both accreditation and ongoing use test requirements. This broader use test includes, but is not limited to operating the capital model and using its outputs for enterprise processes such as stress testing, management reporting and limit setting. For greater clarity, the capital impact reporting period generally culminates a lengthier parallel run period.
+
+Accredited institutions are not required to submit pro-forma regulatory returns as the institution's ongoing internal oversight should confirm the reliability and accuracy of the BCAR reporting process. New applicants are required to submit pro-forma regulatory returns to demonstrate that post-accreditation reporting would be accurate, reliable and sustainable.
+
+Backtesting requirements are *ex post* comparisons between the forecasted risk of a portfolio or segment and the actual performance. The required period of backtesting is described below:
+
+| Risk Factor | Accredited Institution | | New Applicant |
+| --- | --- | --- | --- |
+| New Model | Material Modification |
+| Market Risk | 2 quarters | 1 quarter | 4 quarters |
+| Credit Risk | 2 quarters | 2 quarters | 4 quarters |
+| Counterparty Credit Risk | 2 quarters | 1 quarter |  |
+
+Backtesting horizons diverge between market risk and credit risk in recognition of different volatilities in the portfolio and frequency of parameter updates.
+
+To satisfy the market and counterparty credit risk backtesting requirements, up to 50% of the required observations can be attained from applying the model retrospectively from the time the model development is concluded (i.e. inclusive of any pre-production revisions required through the FRFI's internal review processes). In adopting this hybrid approach, institutions must be able to demonstrate that they have been able to retrospectively source complete market and position data to facilitate backtesting. Additionally, the total time period is expected to be consecutive.
+
+For credit risk capital models, backtesting results referred to above are expected to be out-of-time from the data used to develop and validate the model. For clarity, in-sample backtesting using all available historical data is expected to be conducted as part of model development and validation processes.
+
+Other information may be requested by OSFI during the course of the application review. In the case of model modifications, information submitted for items 1 through 5 above should pertain only to and be specific about the change to the previously approved model.
+
+### Model Changes Post-Submission
+
+Once an application is submitted, institutions are prohibited from making changes to the quantitative methodology or any operational processes that directly impact estimation of RWA until the application decision by OSFI has been rendered. Institutions are encouraged to also refrain from adopting improvements to the controls around the RWA process during this period because part of the assessment is to evaluate the sustainability of controls. Institutions are expected to implement the version of the model submitted provided a satisfactory application outcome has been achieved.
+
+Excepted from this is the addition of recent data into the model; however, this is expected to be clearly identified and typically no resulting changes should be made to model variables or coefficients. In some instances, institutions may submit an application in relation to one regulatory capital parameter (e.g. PD), but have immaterial modifications for other parameters (e.g. LGD) for the same portfolio. In these cases, institutions should proactively disclose any immaterial modifications affecting the estimation of RWA for the portfolio and seek further guidance.
+
+### Service Window
+
+OSFI generally will not prescribe when institutions are required to submit applications, in line with the underlying premise that the process is driven by the applicant.
+
+That said, the timing of application decisions are important to institutions' capital planning processes. Therefore, the service window to return an application decision is 6 months for new model applications and 3 months for a material modifications. However, this will be dependent on the complexity of the application, and quality and comprehensiveness of the submitted documentation. The service window begins from when the application is deemed substantially complete by OSFI.
+
+## IX. Decisions Arising From the Review of the Capital Model Application
+
+The CMAP culminates in four potential decisions:
+
+1. Approval: The application is found to satisfy the requirements of the internal model regime and no deficiencies are identified.
+2. Approval with Conditions For clarity, "conditions" refers to any findings resulting from OSFI's review of the capital model application. This differs from the ongoing maintenance and reporting requirements associated with the institution's internal model approach (such as the annual self-assessment and CRO attestation).: The application is found to satisfy most requirements of the internal model regime. Identified deficiencies are not so significant as to impair the effectiveness of the institutions' approach. In these cases, the institution is permitted to implement the model prior to OSFI confirming closure of the finding(s).
+
+   Where the totality and nature of the deficiencies results in an elevated supervisory concern, but is not detrimental to a degree that warrants decline, implementation of the capital model may be binding on OSFI confirming closure of the finding(s).
+3. Pause: The application is found not to satisfy material requirements of the internal model regime. While the deficiencies are material, they are not insurmountable. Pauses are only available in two cases: (i) pre-applications submitted by new applicants; and (ii) new models submitted by accredited institutions.
+4. Decline: The application is found not to satisfy material requirements of the internal model regime. Deficiencies are foundational and remediation requires redevelopment of the approach. As such, the capital model application is not approved.
+
+## X. Ongoing Reporting Requirements And Periodic Compliance Reviews
+
+Once an institution achieves accreditation, it is expected to maintain robust controls to ensure ongoing compliance with requirements of the CAR Guideline, relevant Implementation Notes and Guideline E-23. From time to time, OSFI may conduct supervisory reviews to update its assessment of the institution's standing against the acceptance standards described in Section IV above for individual (or suite of) models within a risk factor. These reviews will be supplemented by a regular quarterly monitoring programme.
+
+Accredited institutions are requested to provide the following information to their Lead Supervisor within 6 months of each fiscal year end:
+
+1. A letter from the Chief Risk Officer confirming that the existing inventory of approved capital models continues to adhere to all minimum applicable requirements.
+2. Positive assurance from Internal Audit in respect of the effectiveness of controls designed by management to ensure applicability to the inventory of approved capital models remains appropriate for regulatory capital purposes. Appended to this opinion should be a completed copy of the self-assessment for each risk factor. Supporting materials should be available and provided to OSFI upon request.
+3. A list of all approved capital models in production as of the reporting date. For IMA, this should also include the list of approved products to which the capital models are applied.
+4. A list of all waivers, exemptions and migrations applicable as of the reporting date. The name of the portfolio, its size and expiry date of the waiver should be clearly reported. The materiality of each item should also be reported relative to risk factor RWA and EAD.
+
+## XI. Institution Requested De-Certification
+
+In rare circumstances, accredited institutions may seek de-certification for some capital models. Institutions must be prepared to identify specific material deficiencies in the approved model which are insurmountable and/or where the model is no longer suitable or consistent with its strategy.
+
+### Appendix I: Self-Assessment Template
+
+The template below provides an illustration of the structure of information institutions are expected to provide in their self-assessments under Sections VIII and X above.
+
+| Reference[Table note a](#tb1) | Summary[Table note b](#tb2) | Self-Assessment  (1st Line)  Compliance Rating[Table note c](#tb3a) | Final Assessment  (2nd Line)  Compliance Rating[Table note c](#tb3a) | IA  Compliance Rating[Table note d](#tb4) | Comments[Table note e](#tb5) | Supporting  Materials  [Table note f](#tb6) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Footnotes Footnote 1  Reference: refers to the relevant paragraph of the CAR Guideline or sections of the Implementation Notes or Guideline E-23 as applicable.  [Return to footnote a](#tb1-ref)  Footnote 2  Summary: indicate the text of the paragraph or section being assessed.  [Return to footnote b](#tb2-ref)  Footnote 3  Self-Assessment and Final Assessment Rating: the rating scale used is “full compliance, substantial compliance, partial compliance, and non-compliant”. This rating applies to all portfolios within the risk factor and should reflect management’s assessment of how effectively the control has been implemented. The presence of any material or persistent deficiencies should be considered when assigning the rating.  [Return to footnote c](#tb3-ref)  Footnote 4  IA Compliance Rating: the rating scale used is “full compliance, substantial compliance, partial compliance, and non-compliant”. Where IA has conducted work on this section in support of its annual opinion, it should indicate its independent conclusion of the compliance rating.  [Return to footnote d](#tb4-ref)  Footnote 5  Comments: this section should include brief rationale supporting management’s compliance rating. Where a rating of less than “full compliance” is assigned, the target compliance date should be indicated. Where IA has conducted work and not concurred management’s rating, brief rationale should also be included.  [Return to footnote e](#tb5-ref)  Footnote 6  Supporting Materials: this section should include references to all materials used to justify the rating.  [Return to footnote f](#tb6-ref) | | | | | | |
+
+### Appendix 2 – Relevant Implementation Notes
+
+The following Implementation Notes dated January 2006 remain in effect:
+
+* Oversight Expectations for IRB Institutions
+* The Use of Ratings and Estimates of Default and Loss at IRB Institutions
+* Risk Quantification at IRB Institutions
+* Data Maintenance at IRB Institutions
+* Collateral Management Principles for IRB Institutions
+* Validating Risk Rating Systems at IRB Institutions
+
+*Accredited Institution:*
+:   Institutions who have received approval to use internal capital models.
+
+*Capital Model:*
+:   A capital model for the purpose of this document is any "approach" or "model" for which regulatory approval is required prior to use.
+
+*CMAP:*
+:   The framework under which capital model applications are assessed.
+
+*New Applicant:*
+:   Institutions who are both new to the internal capital model regime and are first time applicants for a primary risk factor.
+
+*Risk Factor:*
+:   Risk types (i.e. market and credit risk) for which institutions may apply to use internal models for regulatory capital adequacy purposes. Sub-risk factors (i.e. counterparty credit risk) are considered to be subsets of a primary risk factor (i.e. market risk).
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2021-01-29

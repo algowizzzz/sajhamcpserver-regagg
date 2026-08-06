@@ -1,0 +1,38 @@
+# Bank of Canada joins BIS Project Agorá to test improvements in wholesale cross-border payments
+
+FOR IMMEDIATE RELEASE
+
+[Media Relations](https://www.bankofcanada.ca/press/contacts/)
+
+[Ottawa, Ontario](https://www.bankofcanada.ca/location/ottawa_ontario/)
+
+May 27, 2026
+
+[Share this page on Facebook
+
+ Share this page on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F05%2Fbank-canada-joins-bis-project-agora-test-improvements-wholesale-cross-border-payments%2F "Share this page on Facebook")
+[Share this page on X
+
+ Share this page on X](https://twitter.com/intent/tweet?text=Currently+reading%3A&url=https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F05%2Fbank-canada-joins-bis-project-agora-test-improvements-wholesale-cross-border-payments%2F "Share this page on X")
+[Share this page on LinkedIn
+
+ Share this page on LinkedIn](https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F05%2Fbank-canada-joins-bis-project-agora-test-improvements-wholesale-cross-border-payments%2F "Share this page on LinkedIn")
+[Share this page by email
+
+ Share this page by email](mailto:?Subject=Bank of Canada joins BIS Project Agor%C3%A1 to test improvements in wholesale cross-border payments&body=Currently reading%3A https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F05%2Fbank-canada-joins-bis-project-agora-test-improvements-wholesale-cross-border-payments%2F "Share this page by email")
+
+The Bank of Canada announced today it is joining the Bank for International Settlements’ [Project Agorá](https://www.bis.org/about/bisih/topics/fmis/agora.htm), an initiative exploring how tokenization could improve wholesale cross-border payments.
+
+The project has successfully tested the feasibility of a multi-currency unified ledger that enables atomic settlement of cross-border wholesale transactions. The Agorá prototype combines tokenized commercial bank deposits and wholesale central bank money on a programmable platform with the aim of improving the speed, efficiency, transparency and accessibility of international payments.
+
+The project will continue to test the prototype and examine how an Agorá-type platform could operate within existing legal and regulatory frameworks, including rules on settlement finality as well as laws designed to counter money-laundering and terrorism financing.
+
+Project Agorá brings together central banks and private sector financial institutions to experiment with next-generation payments infrastructure. It aligns with the Bank of Canada’s research focus on the evolution of payments and how emerging technologies can support a more efficient financial system.
+
+“We know that the Canadian economy could benefit from innovation in cross-border payments,” said Senior Deputy Governor Carolyn Rogers. “Tokenization has the potential to make these payments faster, cheaper and more efficient and secure. Project Agorá is a unique opportunity to test the technology across several jurisdictions and currencies, with the participation of private sector financial institutions.”
+
+The global project involves seven other central banks—the Federal Reserve Bank of New York, Bank of England, Bank of France (representing the Eurosystem), Bank of Japan, Bank of Mexico, Swiss National Bank and Bank of Korea—and involves more than 40 financial institutions, including systemically important banks, payment service providers and clearing houses.
+
+Content Type(s):
+[Press](https://www.bankofcanada.ca/search/?content_type[]=press),
+[Press releases](https://www.bankofcanada.ca/search/?content_type[]=press-releases)

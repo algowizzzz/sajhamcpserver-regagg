@@ -1,0 +1,1 @@
+Summary: [Press](https://www.fsb.org/content_types/press/ "Go to the Press Content Type archives.")[Press Releases](https://www.fsb.org/content_types/press-releases/ "Go to the Press Releases Content Type archives.")FSB consults on sound practices for the responsible adoption of artificia

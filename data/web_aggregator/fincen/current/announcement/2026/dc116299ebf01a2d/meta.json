@@ -1,0 +1,24 @@
+{
+  "doc_id": "dc116299ebf01a2d",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Suspicious Activity Reporting (Structuring) | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/suspicious-activity-reporting-structuring",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:78d545e848552abb81ac2ff0ac6107391e309a79dc490b250cabfc658b947acd",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/dc116299ebf01a2d",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

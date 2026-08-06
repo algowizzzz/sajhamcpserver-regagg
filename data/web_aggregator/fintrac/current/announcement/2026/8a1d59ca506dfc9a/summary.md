@@ -1,0 +1,1 @@
+Summary: # Directive de CANAFE faisant suite à la directive ministérielle sur les opérations financières associées à la Russie publiée le 24 février 2024

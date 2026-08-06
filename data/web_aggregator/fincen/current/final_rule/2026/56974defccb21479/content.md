@@ -1,0 +1,140 @@
+# The Anti-Money Laundering Act of 2020
+
+![AML_Masthead](/system/files/shared/AML%20Act_FinCEN_Masthead%201024x326.jpg)
+
+[Opening Statement of FinCEN Director Andrea Gacki before the Committee on Financial Services Subcommittee on National Security, Illicit Finance, and International Financial Institutions](/news/testimony/opening-statement-fincen-director-andrea-gacki-committee-financial-services) (July 21, 2026)
+
+[Statement by FinCEN Director Andrea M. Gacki before the House Committee on Financial Services, Subcommittee on National Security, Illicit Finance, and International Financial Institutions | FinCEN.gov](/news/testimony/statement-fincen-director-andrea-m-gacki-house-committee-financial-services) (September 9, 2025)
+
+**BSA Modernization**  
+   [FinCEN Issues Exceptive Relief to Streamline Customer Due Diligence Requirements](/news/news-releases/fincen-issues-exceptive-relief-streamline-customer-due-diligence-requirements) (February 13, 2026)  
+   [FinCEN Issues Frequently Asked Questions to Clarify Suspicious Activity Reporting Requirements](/news/news-releases/fincen-issues-frequently-asked-questions-clarify-suspicious-activity-reporting) (October 9, 2025)  
+   [Remarks by Under Secretary for Terrorism and Financial Intelligence John K. Hurley](https://home.treasury.gov/news/press-releases/sb0251) (September 17, 2025)  
+   [FinCEN Permits Banks to Use Alternative Collection Method for Obtaining TIN Information](/news/news-releases/fincen-permits-banks-use-alternative-collection-method-obtaining-tin-information) (June 27, 2025)  
+   [Deputy Secretary Faulkender Lays Out Guiding Principles for Bank Secrecy Act Modernization](https://home.treasury.gov/news/press-releases/sb0173) (June 18, 2025)
+
+**AML/CFT Priorities (AML Act Section 6101)**  
+   [AML/CFT Priorities](/system/files/shared/AML_CFT%20Priorities%20(June%2030%2C%202021).pdf) (June 30, 2021)  
+   [Statement for Banks](/system/files/shared/Statement%20for%20Banks%20(June%2030%2C%202021).pdf) (June 30, 2021)  
+   [Statement for Non-Bank Financial Institutions](/system/files/shared/Statement%20for%20Non-Bank%20Financial%20Institutions%20(June%2030%2C%202021).pdf) (June 30, 2021)  
+   [News Release](/news/news-releases/fincen-issues-first-national-amlcft-priorities-and-accompanying-statements) (June 30, 2021)
+
+**AML/CFT Program Requirements**  
+  [Notice of Proposed Rulemaking](https://www.federalregister.gov/public-inspection/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs) (April 7, 2026)  
+  [News Release](/news/news-releases/fincen-proposes-rule-fundamentally-reform-financial-institution-programs)  (April 7, 2026)  
+  [Fact Sheet](/system/files/2026-04/Program-NPRM-FactSheet.pdf)  (April 7, 2026)  
+  [Key Changes Summary](/system/files/2026-04/Key-Changes-Program-NPRM.pdf) (April 7, 2026)
+
+**Arts and Antiquities (AML Act Section 6110)**  
+  [Advance Notice of Proposed Rulemaking](https://www.federalregister.gov/public-inspection/2021-20731/anti-money-laundering-regulations-for-dealers-in-antiquities) (September 23, 2021)  
+  [News Release](/news/news-releases/fincen-launches-regulatory-process-new-antiquities-regulations) (September 23, 2021)  
+  [Notice](/system/files/2021-03/FinCEN%20Notice%20on%20Antiquities%20and%20Art_508C.pdf) (March 9, 2021)
+
+**Threat Pattern and Trend Information (AML Act Section 6206)**  
+  FinCEN periodically publishes threat pattern and trend information derived from Bank Secrecy Act (BSA) filings.  
+  These [reports](/resources/financial-trend-analyses) highlight the value of information filed by financial institutions in accordance with the BSA.  
+  [Chinese Money Laundering Networks: 2020 - 2024 Threat Pattern & Trend Information](/system/files/2025-08/4000-10-INV-144549-S3F6L-FTA-CMLN-508.pdf) (August 2025)  
+  [Fentanyl-Related Threat Patterns and Trends in Bank Secrecy Act Reports](/system/files/shared/FinCEN-FTA-Fentanyl.pdf) (April 2025
+
+**Financial Crimes Tech Symposium (AML Act Section 6211)**  
+  [FinCEN Statement](/news/news-releases/fincen-statement-financial-crimes-tech-symposium) (February 24, 2021)
+
+**SAR Sharing Pilot Program (AML Act Section 6212)**  
+  [News Release](/news/news-releases/fincen-issues-proposed-rule-suspicious-activity-report-sharing-pilot-program) (January 24, 2022)  
+  [Notice of Proposed Rulemaking](https://www.federalregister.gov/public-inspection/2022-01331/pilot-program-on-sharing-of-suspicious-activity-reports-and-related-information-with-foreign) (January 24, 2022)
+
+**Review of Regulations and Guidance (AML Act Section 6216)**  
+  [News Release](/news/news-releases/fincen-seeks-comments-modernization-us-amlcft-regulatory-regime) (December 14, 2021)  
+  [Request for Information](https://www.federalregister.gov/public-inspection/2021-27081/review-of-bank-secrecy-act-regulations-and-guidance) (December 14, 2021)
+
+**Assessment of No-Action Letters (AML Act Section 6305)**  
+  [News Release](/news/news-releases/fincen-issues-advance-notice-proposed-rulemaking-no-action-letter-process) (June 3, 2022)  
+  [Advance Notice of Proposed Rulemaking (ANPRM)](https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/no-action-letter-process) (June 3, 2022)  
+  [News Release](/news/news-releases/fincen-completes-assessment-use-no-action-letters) (June 30, 2021)  
+  [Report](/system/files/shared/No-Action%20Letter%20Report%20to%20Congress%20per%20AMLA%20for%20ExecSec%20Clearance%20508.pdf) (June 28, 2021)
+
+**Whistleblower Program (AML Act Section 6314)**  
+  [Notice of Proposed Rulemaking on Whistleblower Incentives and Protections](https://www.federalregister.gov/public-inspection/2026-06271/whistleblower-incentives-and-protections) (April 1, 2026)  
+  [Press Release](/news/news-releases/fincen-proposes-rule-pay-whistleblowers) (March 30, 2026)  
+  [FinCEN Whistleblower Bulletin](/system/files/2026-02/owb-whistleblower-bulletin.pdf) (February 12, 2026)  
+  [Submitting a Tip](/whistleblower-program/submitting-a-tip)   
+  [Whistleblower Program](/whistleblower-program/program-updates)
+
+**Corporate Transparency Act || Beneficial Ownership (AML Act Title LXIV (Sections 6401-6403))**
+
+*Beneficial Ownership Information Reporting*
+
+[Beneficial Ownership Information Reporting Requirement Revision and Deadline](https://www.federalregister.gov/documents/2025/03/26/2025-05199/beneficial-ownership-information-reporting-requirement-revision-and-deadline-extension) (March 21, 2025)  
+  [Update to the Public Utility Exemption Under the Beneficial Ownership Information Reporting Rule](https://www.federalregister.gov/public-inspection/2024-23920/public-utitliy-exemption-beneficial-ownership-information-reporting-rule)  (October 17, 2024)  
+  Reporting [Deadline Extension Final Rule](https://www.federalregister.gov/public-inspection/2023-26399/beneficial-ownership-information-reporting-deadline-extension-for-reporting-companies-created-or) (November 29, 2023)  
+  Reporting [Use of FinCEN Identifiers for Reporting Beneficial Ownership Information of Entities](https://www.federalregister.gov/documents/2023/11/08/2023-24559/use-of-fincen-identifiers-for-reporting-beneficial-ownership-information-of-entities) (November 8, 2023)  
+  Reporting [Beneficial Ownership Information Reports; Submission for OMB Review; Comment Request](https://www.federalregister.gov/documents/2023/09/29/2023-21293/agency-information-collection-activities-submission-for-omb-review-comment-request-beneficial) (September 29, 2023)  
+  Reporting [Individual FinCEN Identifier Application; Submission for OMB Review; Comment Request](https://www.federalregister.gov/documents/2023/09/29/2023-21325/agency-information-collection-activities-submission-for-omb-review-comment-request-individual-fincen) (September 29, 2023)  
+  Reporting [Deadline Extension Notice of Proposed Rulemaking](https://www.federalregister.gov/public-inspection/2023-21226/beneficial-ownership-information-reporting-deadline-extension-for-reporting-companies-created-or) (September 28, 2023)  
+  Reporting  [Final Rule](https://www.federalregister.gov/documents/2022/09/30/2022-21020/beneficial-ownership-information-reporting-requirements) (September 30, 2022)  
+  Reporting [Final Rule News Release](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement) (September 29, 2022)  
+  Reporting [Final Rule Fact Sheet](https://www.fincen.gov/beneficial-ownership-information-reporting-rule-fact-sheet) (September 29, 2022)
+
+[FinCEN Statement Regarding Beneficial Ownership Information Reporting and Next Steps](/news/news-releases/fincen-statement-regarding-beneficial-ownership-information-reporting-and-next) (February 8, 2022)
+
+  Reporting [Notice of Proposed Rulemaking (NPRM)](https://www.federalregister.gov/public-inspection/2021-26548/beneficial-ownership-information-reporting-requirements) (December 8, 2021)  
+  Reporting [NPRM News Release](/news/news-releases/fincen-issues-proposed-rule-beneficial-ownership-reporting-counter-illicit) (December 7, 2021)  
+  Reporting [NPRM Fact Sheet](/news/news-releases/fact-sheet-beneficial-ownership-information-reporting-notice-proposed-rulemaking) (December 7, 2021)
+
+*Beneficial Ownership Information Access and Safeguards*
+
+  Access and Safeguards [Beneficial Ownership Information Requests; Submission for OMB Review; Comment Request](https://www.federalregister.gov/public-inspection/2024-16174/agency-information-collection-activities-proposals-submissions-and-approvals-beneficial-ownership) (July 23, 2024)  
+  Access and Safeguards [Beneficial Ownership Information Requests; Proposed Collection; Comment Request](https://www.federalregister.gov/public-inspection/2024-01828/agency-information-collection-activities-proposals-submissions-and-approvals-beneficial-ownership) (January 30, 2024)  
+  Access and Safeguards [Final Rule](https://www.federalregister.gov/public-inspection/2023-27973/beneficial-ownership-information-access-and-safeguards) (December 21, 2023)  
+  Access and Safeguards [Final Rule News Release](/news/news-releases/fincen-issues-final-rule-regarding-access-beneficial-ownership-information) (December 21, 2023)  
+  Access and Safeguards [Final Rule Fact Sheet](/news/news-releases/fact-sheet-beneficial-ownership-information-access-and-safeguards-final-rule) (December 21, 2023)  
+  Access and Safeguards [Statement for Banks](/system/files/shared/Interagency_Statement_for_Banks_On_the_Issuance_of_the_Access_Rule_12.15.2023.v2.pdf) (December 21, 2023)  
+  Access and Safeguards [Statement for Non-Bank Financial Institutions](/system/files/shared/Statement_for_Non_Bank_Financial_Institutions_Issuance_of_the_Access_Rule_12.15.2023.v3.pdf) (December 21, 2023)  
+  Access and Safeguards [Notice of Proposed Rulemaking (NPRM)](https://www.federalregister.gov/public-inspection/2022-27031/beneficial-ownership-information-access-and-safeguards-and-use-of-fincen-identifiers-for-entities) (December 15, 2022)  
+  Access and Safeguards [NPRM News Release](https://www.fincen.gov/news/news-releases/fincen-issues-notice-proposed-rulemaking-regarding-access-beneficial-ownership) (December 15, 2022)  
+  Access and Safeguards [NPRM Fact Sheet](/nprm-fact-sheet) (December 15, 2022)
+
+*Beneficial Ownership Information Advance Notice of Proposed Rulemaking*
+
+  Reporting  [Advance Notice of Proposed Rulemaking (ANPRM)](https://www.federalregister.gov/documents/2021/04/05/2021-06922/beneficial-ownership-information-reporting-requirements) (April 5, 2021)  
+  Reporting  [ANPRM News Release](/news/news-releases/fincen-launches-regulatory-process-new-beneficial-ownership-reporting) (April 1, 2021)
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+  + [Anti-Money Laundering Act of 2020](/resources/statutes-and-regulations/anti-money-laundering-act-2020)
+  + [Bank Secrecy Act](/resources/statutes-and-regulations/bank-secrecy-act)
+  + [Chapter X](/resources/statutes-regulations/chapter-x)
+  + [Federal Register Notices](/resources/statutes-regulations/federal-register-notices)
+  + [Administrative Rulings](/resources/statutes-regulations/administrative-rulings)
+  + [Guidance](/resources/statutes-regulations/guidance)
+  + [USA PATRIOT Act](/resources/statutes-and-regulations/usa-patriot-act)
+  + [Special Measures](/resources/statutes-and-regulations/special-measures)
+  + [CDD Final Rule](/resources/statutes-and-regulations/cdd-final-rule)
+* [Whistleblower Program](/whistleblower-program)
+
+Header
+
+Quick Links
+
+[National Defense Authorization Act of FY 2020](https://www.congress.gov/bill/116th-congress/house-bill/6395?q=%7B%22search%22%3A%5B%22HR+6395%22%5D%7D&s=2&r=1)
+
+[AML Act Fact Sheet](/system/files/shared/20210615%20AMLA%20FinCEN%20One%20Pager_FINAL.pdf)
+
+[Remarks by Under Secretary for Terrorism and Financial Intelligence John K. Hurley](https://home.treasury.gov/news/press-releases/sb0251) (September 17, 2025)
+
+[Deputy Secretary Faulkender Lays Out Guiding Principles for Bank Secrecy Act Modernization](https://home.treasury.gov/news/press-releases/sb0173) (June 18, 2025)
+
+[![paper airplane icon](/themes/custom/fincen/img/paper-airplane-icon.svg)Subscribe to FinCEN News Updates](https://service.govdelivery.com/accounts/USFINCEN/subscriber/new "(opens in a new window)")

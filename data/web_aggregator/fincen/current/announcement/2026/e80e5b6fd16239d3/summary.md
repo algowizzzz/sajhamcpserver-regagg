@@ -1,0 +1,1 @@
+Summary: # Whether a Publicly Traded Company that Cashes its own Checks Issued to Loan Customers is a Money Services Business

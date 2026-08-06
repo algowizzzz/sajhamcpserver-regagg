@@ -1,0 +1,1 @@
+Summary: ![Icon cutting crime](/sites/default/files/styles/max_1300x1300/public/media/icons/icon-cutting-crime.png.webp?itok=Y3Inxd2a)

@@ -1,0 +1,1 @@
+Summary: # FCA and PRA confirm changes to streamline senior manager accountability and boost growth

@@ -1,0 +1,53 @@
+# OSFI Update on Capital Requirement for Federally Regulated Life Insurers – Letter
+
+Information
+
+Publication type
+
+Letter
+
+Category
+
+Capital Adequacy Requirements
+
+Date
+
+July 3, 2025
+
+Sector
+
+Life Insurance and Fraternal Companies
+
+[Generate PDF](/en/print/pdf/node/2746)
+
+Table of contents
+
+Today, OSFI is making the following adjustments with respect to LICAT policy and initiatives:
+
+1. Postponing the next revision of the Life Insurance Capital Adequacy Test (LICAT) Guideline from 2027 to a later date (post-2028). We commit to notifying insurers at least one year prior to restarting discussions on the next LICAT update.
+2. Reducing capital requirements for domestic infrastructure debt and equity that meet certain criteria (see Appendix for the criteria).
+
+These measures take effect immediately and apply to all federally regulated life insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated life insurance holding companies, and non-operating life insurance companies. The measures will remain in place until further notice. Additional details are provided in the Appendix.
+
+Our efforts on the current Quantitative Impact Study (QIS) will continue. The QIS results will provide further insight for the development of future policy settings when the LICAT update restarts.
+
+We will continue to monitor the broader environment to ensure our capital framework remains fit-for-purpose and adjust as needed.
+
+Should you have any questions, please contact Régis Dahany, Managing Director, Insurance Capital and Liquidity Standards Division by email at [Regis.Dahany@osfi-bsif.gc.ca](mailto:Regis.Dahany@osfi-bsif.gc.ca) or use the mailbox [LICAT-TSAV@osfi-bsif.gc.ca](mailto:LICAT-TSAV@osfi-bsif.gc.ca).
+
+Sincerely,
+
+Amar Munipalle  
+Executive Director, Risk Advisory Hub
+
+Appendix – Additional details on the measures
+
+| Measure | Details |
+| --- | --- |
+| LICAT 2027 deferral | * There will be no public consultation on a draft LICAT Guideline in 2026 nor an implementation of a new LICAT Guideline in 2027. * Regulatory notices could be used in the interim to address urgent and important items, as necessary. |
+| Capital treatment for infrastructure investments | * For unrated infrastructure debt made to Permitted Infrastructure Entities located in Canada as defined in the Government of Canada’s [Investments in Permitted Infrastructure Entities Regulations](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2023-197/index.html), the credit risk charge is reduced from 6% to 3%. * For infrastructure equity that meets the criteria of Permitted Infrastructure Entities located in Canada as defined in the Government of Canada’s [Investments in Permitted Infrastructure Entities Regulations](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2023-197/index.html), the market risk charge is reduced from 40% to 30%. * For regulatory reporting purposes, reflect the reduced credit risk charge for debt and market risk charge for equity accordingly in the annual and quarterly regulatory returns. |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-07-03

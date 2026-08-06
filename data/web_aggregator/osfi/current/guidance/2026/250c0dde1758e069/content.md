@@ -1,0 +1,49 @@
+# Draft Liquidity Adequacy Requirements Guideline (2027) – Letter
+
+Information
+
+Publication type
+
+Letter
+
+Category
+
+Liquidity Adequacy Requirements
+
+Date
+
+May 21, 2026
+
+Sector
+
+Banks,
+
+Trust and Loan Companies
+
+Table of contents
+
+Related documents
+
+* [Backgrounder: Draft Liquidity Adequacy Requirements Guideline (2027)](/en/news/backgrounder-draft-liquidity-adequacy-requirements-guideline-2027)
+* [Liquidity Adequacy Requirements (LAR) – Guideline (2027)](/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-guideline-2027)
+
+Today, we are launching a 60-day public consultation on [draft revisions to the Liquidity Adequacy Requirements (LAR) Guideline](/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-guideline-2027 "Liquidity Adequacy Requirements (LAR) – Guideline (2027)").
+
+The proposed revisions to the LAR Guideline build on the latest version of the guideline that we published on January 29, 2026. The comments we receive will inform final changes to the guideline, which will take effect on May 1, 2027.
+
+The 2027 LAR Guideline revisions aim to ensure that liquidity requirements continue to align with the underlying risk faced by institutions, to enhance the clarity of our liquidity rules, and to improve the consistency of their application.
+
+We are proposing a new Level 1B high-quality liquid assets (HQLA) category to acknowledge the market liquidity of certain instruments that do not currently qualify as Level 1 HQLA. Specifically, this affects highly rated covered bonds and public sector entities that lack an explicit government guarantee.
+
+We are proposing adjustments to the transactions approved for interdependent asset and liability treatment under the Net Stable Funding Ratio. We are adding client gold deposits as eligible transactions, provided the transactions satisfy all pre-existing interdependency criteria. We are clarifying the eligibility of variation margin received from an institution's client and posted on the client's behalf to a central counterparty (CCP) to clear derivative transactions, provided the institution does not guarantee the performance of the CCP.
+
+We are including various housekeeping updates to the guideline to improve structure and readability, ensure alignment with other OSFI guidelines, and improve coherence. We are replacing OSFI Notes boxes throughout the guideline with new paragraphs and footnotes, as needed. We are updating references to the Basel Framework and other guidelines where needed. For example, we are adding new cross-references to the Capital and Liquidity Treatment of Crypto-Asset Exposures (Banking) – Guideline.
+
+Once we finalize the guideline, we will reflect the proposed revisions to the LAR Guideline in changes to regulatory returns. We will provide updated templates and reporting instructions when we publish the final 2027 LAR Guideline.
+
+Stakeholders who wish to submit comments should send them to [Consultations@osfi-bsif.gc.ca](mailto:Consultations@osfi-bsif.gc.ca) by July 20, 2026. We will post a non-attributed summary of the comments we receive, together with our responses, on our website alongside the final version of the guideline in February 2027.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2026-05-21

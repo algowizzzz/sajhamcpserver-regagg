@@ -1,0 +1,48 @@
+# Publications organisationnelles
+
+## [Rapport annuel](ar/2025/1-fra)
+
+Activités et résultats de CANAFE
+
+## [Plan ministériel](dp-fra)
+
+Objectifs de rendement pour l'avenir
+
+## [Rapport sur les résultats ministériels](drr-rrm-fra)
+
+Cibles de rendement atteintes par CANAFE
+
+## [Rapports financiers trimestriels](qfr-rft-fra)
+
+Dépenses trimestrielles de CANAFE
+
+## [Rapport sur l'audit des contrôles de base](audit-verification/core-base-fra)
+
+Audit et évaluation des programmes et services
+
+## [Rapport annuel sur l'application de la Loi sur la protection des renseignements personnels](/atip-aiprp/ar/2025-pa-pr-fra)
+
+Le rapport décrit les activités de CANAFE dans l'application de la Loi sur la protection des renseignements personnels au cours de l'exercice financier le plus récent
+
+## [Rapport annuel sur l'application de la Loi sur l'accès à l'information](/atip-aiprp/ar/2025-ai-fra)
+
+Le rapport décrit les activités de CANAFE dans l'application de la Loi sur l’accès à l’information au cours de l'exercice financier le plus récent
+
+## [Stratégie ministérielle de développement durable](dsds-smdd-fra)
+
+Les efforts de CANAFE pour atteindre le développement durable
+
+## [Le travail forcé dans les chaînes d’approvisionnement canadiennes](/publications/fl-tf/fl-tf-fra)
+
+Ce rapport inclut un résumé des mesures prises par CANAFE pour prévenir ou atténuer le risque relatif au recours au travail forcé ou au travail des enfants dans les chaînes d’approvisionnement au cours de l’exercice financier le plus recent
+
+## [Rapports d'évaluation](evaluation/2025-fra)
+
+Rapports d'évaluation des programmes et services de CANAFE
+
+## [Rapport sur les frais](fees-frais/2025-fra)
+
+Rapport contenant des informations sur les frais que CANAFE a le pouvoir de fixer
+
+Date de modification :
+:   2025-10-20

@@ -1,0 +1,272 @@
+# Appointed Actuary: Legal Requirements, Qualifications and Peer Review – Guideline (2023)
+
+Information
+
+Publication type
+
+Guideline
+
+Category
+
+Sound Business and Financial Practices
+
+Date
+
+August 31, 2023
+
+Sector
+
+Life Insurance and Fraternal Companies,
+
+Property and Casualty Companies
+
+​Revised
+
+August 2003
+
+Number
+
+E-15
+
+[Generate PDF](/en/print/pdf/node/604)
+
+Table of contents
+
+Related documents
+
+* [Backgrounder: Guideline E-15 - Appointed Actuary: Legal Requirements, Qualifications and Peer Review](/en/news/backgrounder-guideline-e-15-appointed-actuary-legal-requirements-qualifications-peer-review)
+
+## 1. Introduction
+
+This Guideline describes the role of the Appointed Actuary (AA) in federally regulated insurance companies[Footnote1](#fnb1) and sets out some of the Office of the Superintendent of Financial Institution’s (OSFI) expectations with respect to that role. The Guideline is divided into five sections. The first section summarizes the major responsibilities of the actuary as described in the Insurance Companies Act (ICA) and the related guidelines and memoranda published by OSFI.[Footnote2](#fnb2) The second section deals with the actuary's qualifications required to carry out the AA's role, and the third section sets out OSFI's expectations with respect to peer review of the AA's work and reports. The fourth and fifth sections address the peer review of the work of the AA and the peer reviewer, respectively.
+
+Other OSFI guidelines and memoranda[Footnote3](#fnb3) contain additional information related to the responsibilities of the AA. The annual Memorandum to the Appointed Actuary (the Memorandum) is particularly important in this regard. OSFI issues separate versions of the Memorandum to AAs of life insurance companies and property and casualty (P&C) insurance companies.
+
+## 2. Legal requirements of the Appointed Actuary
+
+This section summarizes sections in the ICA, with the applicable sections of the ICA shown in brackets, that relate to the appointment and role of the AA, as well as key provisions of related guidelines and memoranda published by OSFI. It also sets out the Superintendent's expectations regarding the annual reporting of expected future financial condition of federally regulated insurance companies (also referred to simply as companies). The ICA refers to the “actuary of the company.” In this Guideline, in keeping with common usage in the insurance industry, this actuary is referred to as the AA.
+
+### 2.1 Appointment of an actuary
+
+Each company[Footnote4](#fnb4) must appoint an actuary of the company (49(1), 165(2)(i), 623(1), 660(1)(a)) and notify the Superintendent, in writing, of the appointment (357, 623(2)). The AA must be a Fellow of the Canadian Institute of Actuaries (FCIA) (2(1)).
+
+The chief executive officer or the chief operating officer (or a person performing like functions) of a Canadian company or society or of a provincial company, or the chief agent of a foreign company, may not be appointed as AA unless authorized in writing by the Superintendent (359.1(1), 624.1(1)). In the case of a Canadian or provincial company, the chief financial officer or a person performing like functions may not be appointed as AA unless the audit committee of the company has provided a written statement to the Superintendent and the appointment is authorized by the Superintendent (359.2).
+
+The directors of a company or, in case of a foreign company, the company itself, may revoke the appointment of the AA. If this happens, the company must notify the Superintendent, in writing, of the revocation (360, 625). An AA who resigns or whose appointment is revoked will submit to the Superintendent and to the directors of a Canadian or provincial company or to the chief agent of a foreign company a written statement that includes the circumstances and reasons for the resignation or why, in the actuary's opinion, the appointment was revoked (363, 627(1)).
+
+Where an AA resigns or their appointment is revoked, no person shall accept an appointment or consent to be appointed as AA before requesting and receiving from the previous company actuary the written statement that was submitted to the directors or the chief agent and to the Superintendent (364(1), 627(2)). An appointment may be accepted if no reply is received within 15 days after a request was made (364(2), 627(3)).
+
+OSFI expects the company to inform the Superintendent in writing of a new AA within 30 days of appointment by the board or chief agent.
+
+### 2.2 Role and duties of the Appointed Actuary
+
+The AA is required to value the actuarial and other policy liabilities as at the end of a financial year and any other matters specified by the Superintendent. The AA's valuation is required to be in accordance with accepted actuarial practice, with such changes and any additional directions that may be made by the Superintendent (365, 629). The AA's report in the annual financial statement must opine that the actuarial and other policy liabilities are valued in accordance with accepted actuarial practice (367). It should be noted that the Superintendent may appoint an actuary to value certain liabilities or other matters if the Superintendent is of the opinion that it is necessary (365.1(1), 629.1(1)).
+
+The liabilities shown in the annual return are required to include as a reserve the value of the actuarial and other policy liabilities (667(1)). The AA is required to make, and the company to file with its annual return, the AA’s report on the actuarial and other policy liabilities (AAR) and on any other matters the Superintendent may specify in a form determined by the Superintendent (667(2)). OSFI's annual Memorandum contains up-to-date instructions on the form and content of the AAR. Also, the AA must, not less than 21 days before the date of the annual meeting of a Canadian or provincial company, make a report on the valuation of the liabilities to the shareholders and policyholders. The AA must state whether, in the AA's opinion, the annual statement presents fairly the results of the valuation (367).
+
+The AA is also required in each financial year to meet with and report to the directors or the chief agent on the company's financial position. When directed by the Superintendent, the AA must also report on the company's expected future financial condition (368, 630).
+
+The Superintendent expects that a report on the company's expected future financial condition will be prepared annually in compliance with accepted actuarial practice for all federally regulated insurance companies. Furthermore, OSFI expects the report will be consistent with the CIA’s most current Educational Note on financial condition testing (FCT). The FCT report should be presented to the board of directors of the company, or where the board so chooses, to an appropriate subcommittee of the board (for example, audit committee, risk committee) or to its chief agent for Canada. If the FCT report is presented to the board or chief agent in the second half of the financial year, then it should include material changes in experience and in financial position up to the period of 90 days before the date of presentation. A copy of the FCT report will be filed with OSFI within 30 days of presentation to the company's directors or chief agent of Canada, but no later than the end of the calendar year.
+
+In addition to the FCT, the AA is required to report, in writing, to the chief executive officer and the chief financial officer or to the chief agent of the company any matters that, in the AA's opinion, have material adverse effects on the financial condition of the company and that require rectification. The AA must supply a copy of this report to the board or the chief agent. Where, in the opinion of the AA, suitable action is not being taken to rectify these matters, the AA will send a copy of the report to the Superintendent and advise the directors or the chief agent of the company that this has been done (369, 631).
+
+When a company maintains a participating account (456), the directors of a company must establish a policy for determining the dividends and bonuses to be paid to the participating policyholders and a policy respecting the management of each of the participating accounts (165(2)(e)) and (165(2)(e.1)). The AA is required to report to the directors in writing on the fairness to participating policyholders of any policy established or amended under 165(2)(e) and 165(2)(e.1) and report at least once a year on its continuing fairness (165(3.1) and 165(3.2)).
+
+The AA is required to report, in writing, to the directors on the fairness to participating policyholders of a proposed dividend, bonus or other benefit and whether it is in accordance with the dividend or bonus policy. The directors must consider the actuary's report before declaring the dividend, bonus, or other benefit on participating policies (464(2)).
+
+The AA is required to provide the company with a written opinion on whether the method selected for allocating investment income or losses and expenses to the participating account is fair and equitable to the participating policyholders (457, 458). The company must file a copy of the AA's written opinion with the Superintendent (459), together with a description of the allocation method.
+
+Each year, the AA must report, in writing, to the directors on the fairness and equitableness of the allocation method used by the company (460). The AA is also required to report on whether payment to shareholders or a transfer to an account from which payments can be made to shareholders from the profits of the participating account would materially affect the company's ability to comply with its dividend or bonus policy or to maintain the level of dividends paid to participating policyholders (461(c)).
+
+The directors of a company must establish criteria for changes made by the company to the premium or charge for insurance, amount of insurance, or surrender value in respect of its adjustable policies (165(2)(e.2)). The AA is required to report to the directors in writing on the fairness to adjustable policyholders of the criteria established or amended under 165(2)(e.2)) and report at least once during each financial year on their continuing fairness (165(3.3)).
+
+The AA is required to report, annually and in writing, to the directors on whether the changes the company made in respect of its adjustable policies during the preceding 12 months are in accordance with the criteria established under paragraph 165(2)(e.2) and are fair to the adjustable policyholders (464.1(1)).
+
+Additional requirements and guidance concerning participating accounts can be found in the Policyholders Disclosure Regulations and OSFI's Guideline E-16 Participating account management and disclosure to participating and adjustable policyholders.
+
+OSFI's guideline Life Insurance Capital Adequacy Test (LICAT) sets out requirements for the test of capital adequacy for life insurers. The LICAT and life insurance margin adequacy test (LIMAT) returns require the AA's confirmation that the instructions pertaining both to the LICAT guideline and to the annual return have been followed. OSFI also expects an opinion signed by the AA and a memorandum, both covering the areas where the calculation required discretion or where significant technical calculations, methodologies, and judgements were applied.
+
+## 3. Qualifications required
+
+As previously noted, the AA is required to be an FCIA. The AA is expected to comply with the Rules of Professional Conduct promulgated by the Canadian Institute of Actuaries (CIA), which require that actuarial work complies with accepted actuarial practice.
+
+The Superintendent may disqualify or remove a senior officer if the Superintendent is of the opinion that the senior officer is not suitable to hold the position (678.1(4) and 678.2(1)).
+
+In assessing the suitability of an AA, the Superintendent expects that the AA has each of the following qualifications:
+
+* Has appropriate Canadian practical experience, which is defined as work in Canada[Footnote5](#fnb5) for at least three of the last six years, of which at least one year was performing valuation of Canadian actuarial liabilities and FCT of an insurance company with similar lines of business and/or operations;
+* Has experience with the CIA's Standards of Practice and relevant insurance legislation and regulation;
+* Is up to date with respect to the CIA's continuing professional development requirement; and
+* Has not been the subject of an adverse finding by a CIA Disciplinary Tribunal. Where there has been such a finding, the Superintendent may nevertheless conclude that the AA is a suitable person if the circumstances of the case and other information support such a conclusion.
+
+## 4. Peer review of the work of the Appointed Actuary
+
+### 4.1 Background
+
+OSFI believes that regular peer review of certain work performed by the AA is of significant benefit both to OSFI and to a company's stakeholders by contributing to the safety and soundness of insurance companies, as described in the general objectives below. In addition, regular peer review is also of benefit to the AA by providing a source of independent advice and a means of consulting with other knowledgeable actuaries. Consequently, OSFI expects that all federally regulated insurance companies will appoint peer reviewers to implement peer review processes consistent with the OSFI criteria described below. The peer review should be conducted in accordance with accepted actuarial practice as specified in the CIA's Standards of Practice, in particular with section 1530 Review or repeat of another actuary’s work and any related educational notes.
+
+### 4.2 General objectives
+
+In requiring peer review of the work of the AA, OSFI has the following objectives:
+
+* Assist OSFI in its assessment of the insurer's safety and soundness. The AA is responsible for the valuation of actuarial and other policy liabilities in the financial statements and future financial condition reporting as well as actuarial components of the regulatory capital test (LIMAT/LICAT, MCT, and MICAT). Actuarial peer review is one tool OSFI uses in its assessment of the safety and soundness of federally regulated insurers.
+* Be of benefit to the AA by providing a source of independent consultation advice and an additional source of professional education. This aids in narrowing the range of practice by AAs and improving the quality of their work. OSFI recognizes that this is not the only source of professional development for the AA.
+* Maintain and strengthen confidence in the work of the AA by the public, by insurance company management and directors, and by supervisory authorities.
+
+It is OSFI's intention to periodically meet with the peer reviewer to discuss the report and the findings of a review. It is also OSFI's intention to periodically meet with the AA to discuss the value being obtained by the peer review process.
+
+### 4.3 Work to be reviewed
+
+A key objective of actuarial peer review is to achieve OSFI's objective of assessing insurers' safety and soundness.
+
+OSFI recognizes that under IFRS 17, finance or other management areas of companies may set some accounting policies or methods or assumptions that are used in the measurement of actuarial and other policy liabilities. The CIA’s December 2022 Educational Note Role of the Appointed Actuary Under IFRS 17 states “… the AA may be in the position of deciding whether to use and take responsibility for the work of others more often than had been the case under IFRS 4.” The CIA’s Standards of Practice provide details for the AA when using and taking responsibility for the work of others. OSFI expects the scope of the peer review to include the AA’s decisions with respect to using and taking responsibility for the work of others as this is now incorporated into accepted actuarial practice. Using and taking responsibility for the work of others could have implications for the AAR, the FCT, and the AA’s work in regulatory capital tests.
+
+For the valuation of actuarial and other policy liabilities and the FCT, the peer reviewer is expected to:
+
+* Ascertain that the work of the AA complies with accepted actuarial practice as established by the Actuarial Standards Board and the CIA and is consistent with any objectives or requirements established by OSFI in regulations, guidelines, and memorandum to the AA. (Note that the peer review work is not intended to duplicate the work of the external auditor. See section 5.2)
+* Review the appropriateness and extent of internal and external material changes affecting the AA’s analyses. The peer reviewer should assess the risk of material misstatement or omissions arising from each change as opposed to just the net effect of off-setting changes.
+* Review the adequacy of procedures, systems, and the work of others relied on by the AA to the extent that these are not reviewed by the external auditor. This includes checks on data integrity and checks on procedures and methodologies used to validate the calculations and results.
+* Discuss with the AA the appropriateness of assumptions used, methods employed, FCT scenarios, and work of others relied upon and ascertain that these are appropriate given the circumstances of the company. With respect to assumptions, Canadian actuarial Standards of Practice require that the assumptions the AA “selects or for which the actuary takes responsibility, other than alternative assumptions selected for the purpose of sensitivity testing, would be independently reasonable and appropriate in the aggregate.”[Footnote 6](#fnb6)
+* Determine whether the AAR and FCT report sufficiently describe the assumptions and methodology employed by and adequately present the findings of the AA.
+* Produce a written report documenting the findings of the peer review.
+
+Examples of material changes referenced in the second bullet above include, but are not limited to:
+
+* Changes in company operations or circumstances (for example, acquisitions, investment policy).
+* Changes in key valuation assumptions or unusual adverse or favourable loss development.
+* Changes in methodology used in the valuation.
+* Use of a revised valuation or FCT model (note the peer review should cover general methodology but does not need to be a full software audit or a recalculation).
+* Material events that would suggest the valuation assumptions or methods may need to be modified (for example, fundamental economic changes, changes in corporate legal structure, taxation law changes, material new line of business). For such events, the peer review should also include the valuation assumptions and methods for material blocks of business that are subject to high sensitivity but where no changes have been made.
+
+In addition to the peer review of the valuation of actuarial and other policy liabilities and the FCT, for life insurers, the peer reviewer will review the work of the AA required for OSFI’s capital returns (for example, LICAT/LIMAT) in the areas that require actuarial assumptions and calculations and ensure the work is consistent with the report, if any, accompanying these returns. For P&C insurers, the peer reviewer will review the work of the AA that is required by the Memorandum to be included in the AAR and is used in the calculation of the MCT or MICAT.
+
+The AA and management of the company should co-operate fully with the peer reviewer when the review is being carried out. Best efforts should be used to provide the peer reviewer with access to any required documents and to provide any additional explanations that may be relevant to the peer review.
+
+### 4.4 Materiality considerations
+
+The materiality level used for a company’s financial statements is set by the external auditor based on the size of the company among other considerations. For peer review, both the reviewer and the AA should follow the description of materiality as contained in the CIA’s Standards of Practice. This requires materiality to be set from the point of view of the user of the work.
+
+Materiality is a matter of professional judgement in the circumstances. While auditors may determine quantitative materiality for audit purposes at the total company level, materiality for the purposes of peer review cannot be determined solely by means of the application of a numeric threshold. General quantitative guidelines are not a substitute for the professional judgment of the AA and peer reviewer.
+
+Materiality should become more rigorous as the company approaches any internal capital targets or regulatory capital thresholds.
+
+### 4.5 Contents of peer review reports
+
+OSFI expects the peer reviewer to prepare a report documenting the findings of the reviews. The peer reviewer's written report, or a summary of it, is expected to be submitted to the audit committee of the company's board at the meeting after the completion of the report. In the case of a Canadian branch of a foreign insurance company, the report is to be submitted to the chief agent of Canada. In both cases, the full report and any summary report are to be submitted to OSFI.
+
+The full peer review written report should include the following:
+
+* A description of the work done by the peer reviewer (both the specifics of the work and its extent);
+* The timing during the year when the work was carried out;
+* The materiality level used for the review;
+* The peer reviewer's statement of opinion with respect to the AA's compliance with accepted actuarial practice and any objectives or requirements established by OSFI in regulations, guidelines, or memoranda to the AA;
+* The peer reviewer's observations with respect to changes made in methodology and assumptions;
+* The peer reviewer's acknowledgement that no additional material changes should have been made;
+* A list of any recommendations, if any, for further review or work by the AA in the coming year; and
+* A brief description of the relationship with the AA to support the specific objectives of providing consultation aid, professional education, and improving the quality of the AA's work.
+
+### 4.6 Peer review cycle
+
+Each item of the AA's work described in subsection 4.3 should be reviewed and reported on at least once every three years, either all at once or in phases over a three-year cycle.
+
+OSFI expects any material changes affecting the valuation of actuarial and other policy liabilities, FCT, or actuarial components of the regulatory capital test to be reviewed and reported on annually. Material changes could include but are not limited to changes in methodology, assumption, or models (including those adopted as a result of changes to applicable standards or guidelines) as well as the business of the insurer. If there are no material changes to the FCT, then the limited annual review is only required to address the appropriateness of the scenarios employed. If there are no material changes and the peer reviewer agrees that this is appropriate, then the peer reviewer is still required to prepare and file, on an annual basis, a brief report with OSFI to that effect. The peer reviewer is expected to prepare reports documenting the findings of both the full three-year review and the limited annual review.
+
+### 4.7 Timing of the peer review work and reports
+
+Due to the separate timing during the year of the AA's work for a company's financial statements and for financial condition reporting, there can be more than one peer review report.
+
+With regard to financial statement related work, OSFI encourages the peer review to be pre-release (that is, carried out before the release of the AA reporting on the statement related work).
+
+The review of the AAR can be post-release.
+
+The review of the FCT report is also encouraged to be pre-release but may be post-release depending on the circumstances of the company.
+
+To qualify as a pre-release peer review, the reviewer must prepare the report and sign their opinion on or shortly before the date the AA reports on any work. For example, the filing of the LF1, LF2, LF3, PC1, PC2, PC3, MI3, MI4, or MI5 statements with OSFI is deemed to be AA reporting. For a pre-release peer review of work subject to external audit, the peer review report should be submitted to the audit committee or to the chief agent on or shortly before the date the AA reports on any work.
+
+The complete peer review reports and any summaries are expected to be submitted to OSFI on a confidential basis. Copies of pre-release reports, both the full peer review report and any summary, for financial statement work should be forwarded to OSFI based on the same deadlines that apply to filings of the LF1, LF2, LF3, PC1, PC2, PC3, MI3, MI4 or MI5 reports. For post-release reviews, the peer reviewer's report should be submitted to OSFI no later than 30 days after release of the AA's report on the work reviewed and for future financial condition reports, no later than December 31.
+
+If a member or employee of the insurer's external audit firm peer reviews work by the AA that is subject to audit, OSFI expects that such a peer review will be completed before the audit opinion is issued.
+
+## 5. Peer reviewer
+
+### 5.1 Selecting a peer reviewer
+
+OSFI expects each company to hire a single peer reviewer for the company as a whole. If there are affiliate or subsidiary companies within one group, a single peer reviewer should be responsible for assessment of the entire group of companies, including the preparation of the peer review reports and opinions. The peer reviewer may, however, engage other sub-reviewers to take advantage of particular competencies.
+
+A peer reviewer is expected to meet the same qualification standards as outlined in section 3 of this Guideline with respect to the AA including the Superintendent's minimum requirements for suitability.
+
+It is good practice for the audit committee of the company's board of directors or the chief agent in the case of a foreign company to be advised of the terms of the peer review and the selection of the peer reviewer before the review is undertaken.
+
+OSFI expects a peer reviewer to have sufficient experience with respect to the type of work to be reviewed. The peer reviewer's prior experience should include exposure to two or more unrelated insurance companies so that the reviewer is familiar with the range of practices and assumptions used by actuaries in Canada. Knowledge of industry best practices is needed to ensure the review process appropriately fulfills its educational and consultative objectives.
+
+OSFI expects a company to notify it in writing without delay after hiring the peer reviewer and to provide the reasons for any change in reviewer.
+
+It is essential to the integrity of the peer review process that a reviewer be and be seen to be objective. The peer reviewer should, therefore, have no relationship with the insurer or with the AA that would in any way impair objectivity. The peer reviewer’s work is expected to be compliant with accepted actuarial practice as well as any additional OSFI requirements. In practice, without limiting the generality of the foregoing, OSFI believes that the following criteria should be applied in determining the objectivity of a peer reviewer:
+
+* A peer reviewer may not be an employee of the company or any affiliated companies and may not have been employed by the company or served as AA of the company during the three years prior to the date of the work being reviewed.
+* A peer reviewer must not be a shareholder of or have a direct financial investment (other than as a policyholder, depositor, beneficiary or insured) in the company.
+* A peer reviewer may have an indirect interest (for example, through a diversified mutual fund investment) in the company.
+* If a member of a consulting firm is the AA, another member of the same firm may not be the peer reviewer.
+* If a member of a consulting firm is involved in any actuarial work related to the financial statements or financial condition reporting for the company, another member of the same firm may be the peer reviewer only if they are not involved in this work for the company. In this context, "actuarial work" includes deciding on methodology, selecting assumptions, relying on the work of others, and producing results.
+* It is acceptable, and in fact expected, that the AA will be in contact with the peer reviewer during the year to discuss the potential acceptability of changes in methodologies and assumptions that the AA is considering.
+
+OSFI expects the company to engage a peer reviewer who is not a member of its external audit firm. However, using an actuary from the external audit firm can accommodate smaller and simpler companies. For a small and less complex companies, OSFI regards an actuary working for the external audit firm to be sufficiently independent to be a peer reviewer if the peer reviewer is not an actuarial specialist who is a member of the audit team for the company. While OSFI recognizes that external audit firms are independent, it is of the view that a separate independent actuarial peer review is desirable as it will give additional perspective. OSFI expects that an insurer should not select an AA and peer reviewer from the same firm.
+
+However, as noted in subsection 4.7, if an actuary in the external audit firm is used for peer review, the peer review of any work that is subject to audit should be completed before the audit opinion is issued. In addition, this peer review work should be performed under a stand-alone engagement that is separate from the audit engagement.
+
+Note that the criteria for objectivity for peer review purposes are not as restrictive as those found in OSFI's Guideline E-14 Role of the Independent Actuary (that is, rules required for amalgamations of companies or buying or selling of blocks of business). In the latter case, the Independent Actuary represents, in the transaction, policyholders who rely on the Independent Actuary. In the case of peer review, OSFI, policyholders, management, and shareholders continue to depend on the AA.
+
+### 5.2 Peer reviewer and external audit
+
+The Canadian Institute of Chartered Accountants (CICA) and the CIA have issued a paper entitled Guide: Audits of Financial Statements That Contain Amounts That Have Been Determined Using Actuarial Calculations (the CIA-CICA Guide). The CIA-CICA Guide provides direction to external auditors for applying the requirements of the Canadian Auditing Standards. This non-authoritative guidance states that the overall objective of the auditor is to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement.
+
+However, OSFI's objective and scope for peer review are to assess the safety and soundness of insurers by reviewing the AA's work for the financial statements at a more granular level. It is OSFI's view that the assumptions should be in accord with accepted actuarial practice and that methodology should be appropriate. OSFI expects the peer reviewer to express an opinion on the appropriateness of the actuarial and other policy liabilities at this more granular level and to provide feedback to the AA on the various aspects of their work. Therefore, since the objective of an external audit differs from the objective of a peer review, the audit work done to satisfy the audit requirements may not be sufficient to fully address the peer review requirements under this Guideline.
+
+It is not OSFI's intention that the requirements for the peer review work duplicate the work of the external auditor, including any actuary assisting the auditor. The peer reviewer is not required to perform any detailed recalculations as long as the peer reviewer determines that the controls and procedures used by the AA are adequate to identify potential errors in the valuation results. The peer reviewer is also not required to verify data or controls.
+
+Where the auditor's actuarial specialist on the engagement team is not an FCIA, the peer reviewer should take extra care to verify that the work of the AA complies with accepted actuarial practice.
+
+### 5.3 Changing a peer reviewer
+
+To enhance the peer reviewer's objectivity and increase the educational value of the review process, a regular change or rotation of peer reviewers is expected. This allows the AA to obtain different perspectives. Therefore, OSFI expects that a peer reviewer will be changed at least once every two cycles (every six years). However, the company has the option of making more frequent changes.
+
+If a peer reviewer is a member of a consulting or audit firm, another member of the same firm may be acceptable as a new peer reviewer. In this case, a previous peer reviewer may be reappointed to this role after a period of at least one cycle (at least three years).
+
+A company should notify OSFI in writing within 30 days when it changes the peer reviewer and should state the reasons for the change.
+
+## Footnotes
+
+Footnote 1
+:   In this Guideline, federally regulated insurance companies mean Canadian insurance companies, including fraternal benefit societies and provincial companies (as that term is defined in subsection 2(1) of the Insurance Companies Act, (ICA)) and Canadian branches of foreign insurance companies, including foreign fraternal benefit societies.
+
+    [Return to footnote 1](#fnb1-ref)
+
+Footnote 2
+:   The legislative summary in this Guideline is not intended to be a substitute for provisions of the ICA. The reader is advised to refer to the provisions of the ICA and not to rely on the interpretation of those provisions contained in this Guideline.
+
+    [Return to footnote 2](#fnb2-ref)
+
+Footnote 3
+:   For example, Memorandum to the Appointed Actuary on the Report on the Valuation of Life Insurance Policy Liabilities, Memorandum for the Actuary's Report on Property and Casualty Insurance Business, Guideline: Life Insurance Capital Adequacy Test.
+
+    [Return to footnote 3](#fnb3-ref)
+
+Footnote 4
+:   When unmodified, the term "company" refers to Canadian insurance companies, provincial companies (as that term is defined in subsection 2(1) of the ICA), fraternal benefit societies, and Canadian branches of foreign insurance companies and foreign fraternal benefit societies.
+
+    [Return to footnote 4](#fnb4-ref)
+
+Footnote 5
+:   "Work in Canada" is as described in Canadian actuarial Standards of Practice.
+
+    [Return to footnote 5](#fnb5-ref)
+
+Footnote 6
+:   Standards of Practice (PDF), 1620.29.
+
+    [Return to footnote 6](#fnb6-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-08-09

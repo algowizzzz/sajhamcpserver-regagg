@@ -1,0 +1,24 @@
+{
+  "doc_id": "3893f2737c43c964",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Bank Secrecy Act Data Is an Integral Component of the FBI\u2019s Geographic Information Mapping Technology | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/bank-secrecy-act-data-integral-component-fbis-geographic",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1108ffa6fdaaf936a84c33affa0d85b8e8c2549080f5711e763b6ba337b45fa0",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/3893f2737c43c964",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

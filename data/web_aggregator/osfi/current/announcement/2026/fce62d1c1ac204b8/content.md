@@ -1,0 +1,84 @@
+# Explore career opportunities at OSFI
+
+The Office of the Superintendent of Financial Institutions (OSFI) invites talented professionals to contribute their expertise, insights, and perspectives in support of the stability and resilience of Canada’s financial system.
+
+[Browse current job openings](https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page2440?tab=2&title=&locationsFilter=&departments=&classificationInfos=&officialLanguage=&referenceNumber=&selectionProcessNumber=&search=Search%20jobs&department=119&log=false)
+
+## Submitting your application
+
+Candidates must submit their job application for all OSFI positions through our official Workday career portal. Prior to applying, you will be required to create a Workday account.
+
+Creating an account will enable you to:
+
+* Set up customized job alerts based on your interests
+* Submit a job application
+* Monitor the status of your submitted job applications
+
+We strongly encourage applicants to self-identify if they belong to an employment equity group, as OSFI is committed to building a diverse and inclusive workforce. Learn more in our [Diversity, Equity, and Inclusion Strategy](/en/about-osfi/reports-publications/osfi-diversity-equity-inclusion-strategy-2022-2025 "The OSFI Diversity, Equity and Inclusion Strategy 2022-2025").
+
+## Students: Discover your future at OSFI
+
+Looking to kick-start your career? OSFI participates in the [Federal Student Work Experience Program](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html) and [Co-Operative Education](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/coop-internship.html) opportunities. These programs provide a strong foundation for a career built on purpose, passion and potential. Visit our career portal and subscribe to job alerts to stay informed about upcoming opportunities.
+
+## OSFI success factors
+
+Our mission is to strengthen public confidence in Canada's financial system. To deliver on this, we rely on three critical success factors — **grit, urgency, and integrity** — which are embedded within OSFI's competencies and shape our culture and guide how we work.
+
+* **Grit**
+  + Having the courage to persevere, the determination to keep going when the going gets tough, and a can-do attitude no matter what
+  + Adapting when things don't go as planned and use setbacks as stepping stones to success
+  + Viewing failure as an opportunity to learn and grow while recognizing and celebrating small victories along the way
+* **Urgency**
+  + Being alert to what's going on and being proactive in shedding early light on what may become a problem later
+  + Acting with clarity and purpose
+  + Being relentless in eliminating low-priority items, or distractions
+  + Identifying and removing obstacles quickly
+  + Identifying sources of complacency and having the will to take whatever action is necessary to create urgency
+* **Integrity**
+  + Upholding our shared values and ethics in our actions and decisions
+  + Follow the spirit and letter of OSFI's [Conflict of Interest Policy](/en/about-osfi/reports-publications/conflict-interest-policy "Conflict of Interest Policy")
+  + Keeping our promises and commitments to each other and doing the right thing, even when it's difficult
+  + Being open and forthcoming in our communications, sharing relevant information and important details promptly, even when it's bad news
+
+## OSFI’s competencies
+
+Achieving success begins with strategically aligning individuals to roles that best suit their strengths. Accordingly, we seek candidates who exemplify the following competencies.
+
+* **Collaboration**
+  + Sharing a community mindset
+  + Promoting cohesion, curiosity and acceptance rather than competition
+  + Breaking down barriers to achieve common objectives
+* **Innovation**
+  + Being willing to take a creative approach to problems and adapt to changing circumstances
+  + Going beyond the conventional
+  + Creating psychological safety to encourage experimentation, continuous learning and risk-taking, while leveraging emerging technologies and data trends to challenge the status quo and drive improvement
+* **Transparency**
+  + Being clear and honest in communications and rationales for actions and decisions
+  + Being open when interacting with others, acting with personal, behavioural, and professional integrity, humility, and building trust
+* **Growth and Development**
+  + Being committed to continuous improvement
+  + Taking initiative to enhance skills and remain adaptable and effective in a digitally evolving landscape, while recognizing and addressing strengths and developmental needs
+* **Critical Thinking**
+  + Gathering and evaluating data and evidence to guide decision-making
+  + Interpreting, challenging, and analyzing data, information and trends
+  + Assessing source credibility, and confirm veracity of information to arrive at sound conclusions
+* **Results Orientation**
+  + Taking personal responsibility to reach or exceed goals or outcomes
+  + Demonstrating a sense of urgency, ownership for results and consistently achieving results
+  + Leveraging data to inform decisions, monitor progress and enhance impact
+* **Interpersonal Communication**
+  + Communicating ideas clearly and with understanding and impact
+  + Seeking to understand others by actively listening and considering different perspectives
+  + Respecting diversity of thought and cultural diversity
+* **Inclusion**
+  + Fostering a psychologically and physically safe environment
+  + Promoting diversity, equity, and all-inclusive participation
+  + Adapting to individual, societal, or cultural cues
+* **Leading People (for managers and executives)**
+  + Inspiring and motivating the people you lead towards a shared vision, common purpose and direction
+  + Leading by example, monitoring performance and providing constructive feedback that encourages and enables performance excellence
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-08-05

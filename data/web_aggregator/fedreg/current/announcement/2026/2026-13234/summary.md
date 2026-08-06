@@ -1,0 +1,1 @@
+Summary: # Consolidated Tape Association; Order Approving the Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive Amendment to the Restated CQ Plan, as Modified by Amendment No. 1 Thereto

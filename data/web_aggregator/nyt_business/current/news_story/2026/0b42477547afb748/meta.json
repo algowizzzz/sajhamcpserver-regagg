@@ -1,0 +1,25 @@
+{
+  "doc_id": "0b42477547afb748",
+  "regulator_id": "nyt_business",
+  "doc_type": "news_story",
+  "title": "Pacific Palisades Shopping Center Set to Reopen Following Palisades Fire",
+  "language": "en",
+  "source_url": "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:774ada8b63fbc7696a2ac8042a43d15ebd2a875b6181b209cf8c658e63a71abb",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nyt_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nyt_business/current/news_story/2026/0b42477547afb748",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html",
+  "fetch_method": "feed_summary"
+}

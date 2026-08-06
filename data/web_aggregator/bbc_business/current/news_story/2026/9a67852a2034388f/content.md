@@ -1,0 +1,7 @@
+# UK petrol prices hit highest level since Iran war began
+
+The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.
+
+[Read the full story at the source](https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

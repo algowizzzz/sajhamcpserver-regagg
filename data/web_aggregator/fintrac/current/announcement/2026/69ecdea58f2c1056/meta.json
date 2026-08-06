@@ -1,0 +1,24 @@
+{
+  "doc_id": "69ecdea58f2c1056",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "FINTRAC guidance related to the Ministerial Directive on Financial Transactions Associated with the Islamic Republic of Iran",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/obligations/dir-iri-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1fc961af1f6dd111ad93d1f411727b15f9d79ea7ba490f67a8f9a2bcb921308c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/69ecdea58f2c1056",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

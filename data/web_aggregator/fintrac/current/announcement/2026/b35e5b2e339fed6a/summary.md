@@ -1,0 +1,1 @@
+Summary: # Guide sur l'évaluation du tort causé pour les violations des exigences relatives au besoin de bien connaître son client

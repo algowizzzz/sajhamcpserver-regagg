@@ -1,0 +1,1 @@
+Summary: # Methods to verify the identity of persons and entities : FINTRAC's compliance guidance

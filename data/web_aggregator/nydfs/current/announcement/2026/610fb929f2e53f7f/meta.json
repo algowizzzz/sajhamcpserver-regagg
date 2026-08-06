@@ -1,0 +1,26 @@
+{
+  "doc_id": "610fb929f2e53f7f",
+  "regulator_id": "nydfs",
+  "doc_type": "announcement",
+  "title": "Newsroom | Department of Financial Services",
+  "language": "en",
+  "source_url": "https://www.dfs.ny.gov/Newsroom",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:58b8c1a1613b7cd96ef8f214f75a6e9dcc31924252bbe2588ed1c342f05fcf19",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_nydfs_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nydfs/current/announcement/2026/610fb929f2e53f7f",
+  "tags": [
+    "us",
+    "state_regulator",
+    "banking",
+    "insurance"
+  ]
+}

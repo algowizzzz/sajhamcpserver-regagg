@@ -1,0 +1,1 @@
+Summary: # Agency Information Collection Activities: Information Collection Renewal; Comment Request; Supervisory Guidance: Supervisory Review Process of Capital Adequacy (Pillar 2) Related to the Implementation of the Basel II Advanced Capital Framework

@@ -1,0 +1,41 @@
+# Opérations de peu de valeur avec apparenté
+
+Information
+
+Type de document
+
+Instructions relatives aux opérations
+
+Catégorie
+
+Opérations avec présomption d'agrément
+
+Dernière révision
+
+Avril 2009
+
+Index PA No
+
+20
+
+## Fondement législatif
+
+* article 490 de la [Loi sur les banques](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/)
+* article 478 de la [Loi sur les sociétés de fiducie et de prêt](https://laws-lois.justice.gc.ca/fra/lois/t-19.8/)
+* article 522 de la [Loi sur les sociétés d’assurances](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/)
+* article 414 de la [Loi sur les associations coopératives de crédit](https://laws-lois.justice.gc.ca/fra/lois/c-41.01/ )
+
+## Exigences en matière d’information
+
+* description et valeur de l'opération
+* bien-fondé de l'opération et raisons pour lesquelles il s'agit d'une opération de peu de valeur
+* nom, adresse et description des activités de l'apparenté
+
+## Directives administratives
+
+Une demande ne doit être présentée en vertu de l’une des autorisations législatives ci-dessus pour obtenir l'agrément du surintendant que si une demande en ce sens n'est pas déjà réputée avoir été agréée par le surintendant parce que l'institution n'a pas adopté de critères d'importance au moins aussi rigoureux que ceux décrits dans la ligne directrice E-6 dans sa version applicable aux différentes catégories d'institutions financières : *Critères d'importance concernant les opérations avec apparentés* (banques, sociétés de fiducie et de prêts et associations coopératives de crédit); *Critères d'importance concernant les opérations avec apparentés des sociétés d'assurance-vie;* et *Critères d'importance concernant les opérations avec apparentés des sociétés d'assurances multirisques*.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-01-17

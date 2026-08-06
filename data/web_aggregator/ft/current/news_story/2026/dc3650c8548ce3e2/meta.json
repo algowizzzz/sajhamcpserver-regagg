@@ -1,0 +1,25 @@
+{
+  "doc_id": "dc3650c8548ce3e2",
+  "regulator_id": "ft",
+  "doc_type": "news_story",
+  "title": "Europe and the eternal north-south rift",
+  "language": "en",
+  "source_url": "https://www.ft.com/content/a47aa815-ba40-4ab6-8631-d0c6c11011ed?syn-25a6b1a6=1",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:90aaf2548d362ceb061fb273e5ba61bf01ef011cd542a27e995e1878553bd3d6",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_ft_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/ft/current/news_story/2026/dc3650c8548ce3e2",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.ft.com/content/a47aa815-ba40-4ab6-8631-d0c6c11011ed?syn-25a6b1a6=1",
+  "fetch_method": "feed_summary"
+}

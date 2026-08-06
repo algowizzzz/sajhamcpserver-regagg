@@ -1,0 +1,27 @@
+{
+  "doc_id": "d961d5658a258857",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Deferral of the public consultation on Guideline B-15 disclosure expectation for financed emissions related to off-balance sheet assets under management - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/deferral-public-consultation-guideline-b-15-disclosure-expectation-financed-emissions-related",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f08eb08e89678380c84d60aae3e8b97bd9a83d63045d7ca0bd4478e74529e9e5",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/d961d5658a258857",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/deferral-public-consultation-guideline-b-15-disclosure-expectation-financed-emissions-related",
+  "fetch_method": "html_to_md"
+}

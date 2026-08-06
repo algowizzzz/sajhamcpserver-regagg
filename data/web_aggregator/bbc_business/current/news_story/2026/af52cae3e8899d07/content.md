@@ -1,0 +1,7 @@
+# Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses
+
+It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.
+
+[Read the full story at the source](https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

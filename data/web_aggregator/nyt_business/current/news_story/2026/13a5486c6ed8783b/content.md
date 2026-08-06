@@ -1,0 +1,7 @@
+# Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’
+
+The ride-hailing giant promised to handle legal claims “in a way that is best for the survivor.” Its lawyers are pursuing a far more aggressive strategy.
+
+[Read the full story at the source](https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

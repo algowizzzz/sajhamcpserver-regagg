@@ -1,0 +1,7 @@
+# Manipal Health lists at 11% premium
+
+Manipal Health Enterprises celebrated a successful market entry on Wednesday, with shares launching at ₹652 on the NSE and ₹655 on the BSE, achieving an eleven percent premium. By closing time, the company's market capitalization reached ₹87,229.24 crore. Their impressive initial public offering, valued at ₹9,275 crore, saw nearly five times subscription, making it the year's second-largest IPO, following SBI Funds Management's offering.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-lists-at-11-premium/articleshow/132978912.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

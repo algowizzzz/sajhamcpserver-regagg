@@ -1,0 +1,28 @@
+The European Insurance and Occupational Pensions Authority (EIOPA) is launching an EU-wide thematic review looking into consumer protection issues with mortgage life and other credit protection insurance sold through banks.
+
+Mortgage life and other credit protection insurance, when adequately developed and targeted, can be beneficial for consumers, offering policyholders and their estates protection in the event that they become unable to pay a loan.
+
+Despite the benefits, national competent authorities have reported issues and risks related to these types of insurance products that may lead to consumer detriment, as reported in EIOPA’s [2019 Consumer Trends Report](/content/eiopa-identifies-areas-where-risks-consumers-remain-high?prefLang=en). These risks include unmitigated conflicts of interests, aggressive sales techniques and high commissions.
+
+To explore these issues better, EIOPA is organising a roundtable with external stakeholders that will take place on 5 March 2020 at EIOPA premises. The aim is to consult and collect input from external stakeholders on:
+
+* Issues and risks with the insurance products within scope;
+* Business models used to manufacture and distribute these products and underlying conduct risks, addressing also the different corporate arrangements arising between insurers and banks;
+* Potential benefits for consumers, insurers and banks;
+* Market practices that could lead to consumer detriment;
+* Developments and trends in recent years.
+
+The registration to attend this Roundtable in person is now closed. You can still register to attend it online, via WebEx.
+
+The online attendance registration closes 4 March 2020 at 12:00 CET.
+
+[Register to attend online](//ec.europa.eu/eusurvey/runner/Roundtable_5_March_WebEx)
+
+Gabriel Bernardino, Chairman said ‘We are launching a comprehensive thematic review on mortgage life and other credit protection insurance sold through banks.’ This is a growing area of concern, brought to light through our monitoring of consumer trends. Through this review, we will identify and assess the risks and the potential detriment that consumers face and take the necessary steps to address them. Protecting consumers is central to our work and where we see areas of consumer detriment, we will take action.’
+
+#### 
+
+**Credit life/credit protection insurance offer insurance coverage to anybody who has taken on a loan or mortgage, e.g. for buying an apartment or house, to ensure repayment of the loan if the borrower dies, becomes ill or disabled, loses a job, or faces other circumstances – specified in the policy – that may prevent them from earning income to service the debt. These can be either a form of life insurance or a form of non-life insurance depending on the nature of the insurance cover.**
+
+Publication date
+:   6 February 2020

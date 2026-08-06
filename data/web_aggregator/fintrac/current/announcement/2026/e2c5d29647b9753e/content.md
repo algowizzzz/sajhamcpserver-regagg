@@ -1,0 +1,32 @@
+# Types de carrières
+
+Compte tenu de notre mandat spécifique, nos diverses stratégies d’acquisition des talents et de gestion des talents se concentrent sur le recrutement et le maintien en poste de talents diversifiés possédant les connaissances et l’expertise appropriées et ayant également le potentiel pour évoluer avec notre organisation. Nous sommes heureux d’offrir des carrières stimulantes et valorisantes dans divers domaines.
+
+## Conformité à la loi
+
+Dans le cadre de notre programme de conformité robuste, nous nous assurons que les entités déclarantes assujetties à la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/act-loi/1-fra), telles que les banques et les casinos, remplissent leurs obligations. Nous adoptons une approche axée sur le risque en évaluant la conformité de manière holistique et en cherchant à donner les moyens aux entités déclarantes de participer pleinement à la lutte contre le blanchiment d’argent et le financement des activités terroristes.
+
+## Renseignements financiers
+
+Lorsque les seuils législatifs sont atteints, nous communiquons des renseignements financiers exploitables à nos partenaires des organismes d’application de la loi et de la sécurité nationale autorisés afin d’appuyer leurs enquêtes et leurs poursuites sur les infractions en matière de blanchiment d’argent et de financement d’activités terroristes, et sur les menaces à la sécurité du Canada. Nous qualifions nos renseignements d’« exploitables » puisque nos partenaires peuvent les utiliser pour préciser la portée de leurs dossiers, pour porter leur attention sur de nouvelles cibles ou d’autres cibles, et pour établir les biens susceptibles de faire l’objet d’une saisie ou d’une confiscation.
+
+Nos renseignements financiers stratégiques aident ceux-ci, de même que d’autres partenaires à comprendre et à traiter les enjeux prioritaires comme le crime organisé, les combattants terroristes étrangers et les blanchisseurs d’argent professionnels. Nous menons en outre des études novatrices qui visent à informer les dirigeants en matière de politiques et les preneurs de décisions sur les possibilités et les répercussions qui découlent des nouvelles tendances et tactiques comme les monnaies virtuelles et autres technologies financières (FinTech).
+
+## Élaborations de politiques et relations internationales
+
+En collaboration avec le ministère des Finances et d’autres partenaires, nous donnons des conseils et des recommandations sur les modifications législatives et réglementaires conçues pour renforcer le régime canadien de lutte contre le blanchiment d’argent et le financement des activités terroristes. De plus, nous élaborons et nous interprétons des politiques internes pour veiller à ce que nous exercions nos pouvoirs de manière efficiente, efficace et cohérente.
+
+Étant donné le caractère transnational des activités criminelles et terroristes, une collaboration internationale efficace est essentielle à la perturbation de ces activités. Nous avons conclu plus de 100 protocoles d’entente nous permettent d’échanger de l’information avec des unités de renseignement financier de confiance situées aux quatre coins du monde. Nous travaillons en étroite collaboration avec des partenaires du Groupe Egmont, du Groupe d’action financière et du Groupe des cinq, pour trouver des moyens de faire progresser la lutte mondiale contre le blanchiment d’argent et le financement terroriste.
+
+## Information et technologie
+
+Chaque année, les entités déclarantes nous transmettent plus de 30 millions de déclarations d’opérations financières, lesquelles sont conservées dans notre base de données pendant dix ans si elles satisfont aux dispositions de notre législation. Pour produire des renseignements financiers exploitables en temps opportun, nous avons grandement investi dans nos systèmes et nos outils d’analyse. Nous avons également conçu des systèmes et des outils de pointe pour appuyer notre mandat de conformité en simplifiant les processus que doivent respecter nos agents de conformité et les entités déclarantes.
+
+La protection des renseignements personnels des Canadiens est de la plus haute importance. Ainsi, lorsque nous échangeons des renseignements délicats avec nos partenaires des organismes d’application de la loi et de la sécurité nationale, leur protection doit être assurée. Nos bureaux et nos systèmes d’information sont protégés par des systèmes de sécurité à niveaux multiples et intégrés qui sont constamment surveillés et améliorés. Qu’il s’agisse de protéger nos avoirs actuels ou de prévoir nos besoins futurs, nous dépendons de nos professionnels en gestion de l’information et en technologies de l’information pour demeurer à l’avant-garde de l’innovation.
+
+## Excellence organisationnelle
+
+Nos professionnels de la communication, de la planification organisationnelle, des finances, des ressources humaines, de la sécurité et de l’administration offrent de l’expertise et des services essentiels au soutien de nos activités. Nous percevons nos collègues des services organisationnels comme de véritables partenaires d’affaires, de sorte que leurs contributions ont une très grande valeur à l’échelle de l’organisation.
+
+Date de modification :
+:   2023-01-31

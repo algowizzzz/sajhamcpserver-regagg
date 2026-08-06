@@ -1,0 +1,1 @@
+Summary: # Notes d'allocution pour Sarah Paquet, Directrice et présidente-directrice générale, Centre d'analyse des opérations et déclarations financières du Canada lors de la conférence canadienne de l'Association of Certified Fraud Examiners

@@ -1,0 +1,75 @@
+# Foreign Entities Operating in Canada on a Branch Basis – Letter (2021)
+
+Information
+
+Publication type
+
+Letter
+
+Category
+
+Sound Business and Financial Practices
+
+Date
+
+June 28, 2021
+
+Sector
+
+Foreign Bank Branches,
+
+Life Insurance and Fraternal Companies,
+
+Property and Casualty Companies
+
+[Generate PDF](/en/print/pdf/node/372)
+
+Table of contents
+
+Accompanying documents
+
+* [Foreign Entities Operating in Canada on a Branch Basis – Guideline (2021)](/en/guidance/guidance-library/foreign-entities-operating-canada-branch-basis-guideline-2021)
+
+**To:** Foreign Entities Operating in Canada on a Branch Basis
+
+OSFI is issuing the final version of Guideline E-4 Foreign Entities Operating in Canada on a Branch Basis. This guideline replaces existing guidelines E-4A Role of the Chief Agent and Record Keeping Requirements and E-4B Role of the Principal Officer and Record Keeping Requirements.
+
+Guideline E-4 places greater emphasis on the expectations of the foreign entity operating in Canada, and better reflects the responsibilities of the foreign entity and its management in overseeing the day-to-day operations of its business in Canada. As a result, OSFI is reissuing other guidance documents with references to any requirements for Chief Agents and Principal Officers removed. The revised guidelines and advisories have been posted to OSFI's website.
+
+This guideline also reflects new amendments to the location of records requirements contained in the Insurance Companies Act and the Bank Act, which will come into force in July 2021. These amendments follow the ratification of the Canada-United States-Mexico trade agreement.
+
+There is a six-month transition period for compliance with Guideline E-4. As such, OSFI expects all foreign entities operating in Canada on a branch basis to be compliant by January 2022.
+
+OSFI thanks those who provided comments on the draft version of Guideline E-4 published in October 2020. The annex to this letter summarizes the material comments received and OSFI's response. As well, OSFI will hold industry information sessions to provide additional clarity and guidance regarding OSFI's supervisory approach in this area in the coming months.
+
+Ben Gully  
+Assistant Superintendent  
+Regulation Sector
+
+## Annex – Summary of Comments Received and OSFI Responses
+
+| Comment | OSFI Response |
+| --- | --- |
+| Branch Management | |
+| --- | --- |
+| Respondents suggested that foreign entities be permitted to determine the composition of Branch Management.  Respondents also requested additional clarity regarding the roles and responsibilities of Branch Management and, specifically, any activities that would remain the sole responsibility of the Chief Agent or Principal Officer. | The foreign entity may determine the composition of Branch Management. OSFI expects the composition of Branch Management to be commensurate with the overall size and complexity of the foreign entity's federally regulated business carried on through the Branch in Canada.  The Insurance Companies Act and the Bank Act contain requirements in regards to the appointment of a Chief Agent or Principal Officer, respectively – see Footnote 3 of the guideline. OSFI is not placing any additional expectations on these roles. |
+| Respondents indicated that Branches should not be required to maintain separate policies and procedures, and that foreign entity group policies and procedures could be adapted or tailored locally, if needed.  Respondents also requested details regarding specific governance procedures and controls required. | OSFI has revised the Branch Management section of the guideline to provide additional clarification.  In keeping with a principles-based approach, and the intended flexibilities with such an approach, OSFI will not provide further prescription in this regard. |
+| One respondent expressed concern that there is an elevated knowledge requirement for Branch Management. Another respondent suggested that this requirement be applied to the collective Branch Management, rather than individuals. | OSFI expects Branch Management to be sufficiently knowledgeable of all applicable Canadian legislation, regulations, guidelines and any other supervisory or regulatory matters related to the foreign entity's federally regulated business in Canada carried on through the Branch. This expectation applies to Branch Management as a collective. There is no expectation placed on the individual members of Branch Management. |
+| Arrangements with the Foreign Entity's Home Office | |
+| Respondents suggested that Guideline B-10 (Outsourcing of Business Activities, Functions and Processes) be updated. | OSFI's Guideline B-10 continues to apply. OSFI is reviewing Guideline B-10 as a separate policy initiative. |
+| Respondents expressed concern over the reference to service level agreements between the branch and home office given that the Branch is not a separate entity. Respondents also expressed a preference for alternatives (e.g., memoranda of understanding, documented intra-group service agreement, or internal policy). | OSFI recognizes that the Branch is not a separate legal entity and deleted the references to service level agreements. In keeping with its principles-based approach, OSFI has not prescribed the nature and extent of documentation required. |
+| In addition, some respondents expressed that the flow of funds documentation and notice requirement regarding fund transfers are unnecessary and burdensome, and that notification or approval should not be required. Respondents also requested a shorter 10 or 15-day notice period.  Respondents requested additional clarity with expectations regarding the flow of funds, such as the scope and the level of detail expected. | OSFI maintains that any arrangements that involve the flow of funds between the foreign entity's home office and its Branch should be clearly documented. The final guideline contains a revised notice period of 10 business days for fund transfers that materially deviate from the documented process. Approval from OSFI is not required. |
+| Respondents requested clarifications on a number of terms in the guideline such as "material" and "materiality". | In keeping with a principles-based approach, and the intended flexibilities with such an approach, OSFI will not provide further prescription in this regard. |
+| Record Keeping | |
+| Respondents requested additional clarity in regards to data processing and retention of records, particularly as it relates to cloud computing. | In keeping with a principles-based approach, and the intended flexibilities with such an approach, OSFI will not provided further prescription in this regard. |
+| Respondents noted that the expectation to update Branch records daily may not be feasible, given that some accounting records may only be available on a monthly or quarterly accounting cycle. | The final guideline includes a footnote that recognizes that records may be updated less frequently than daily. |
+| Respondents noted that electronic records should be permitted for reinsurance agreements as well as files on more complex activities. One industry member sought clarification as to when the Branch will know if OSFI wants the original hard copies at the Branch. | The revised guideline includes the expectation that the executed copy may need to be available upon OSFI's request. |
+| Respondents expressed a concern that the expectations regarding location of records do not reflect the current state of technology, nor do they allow flexibility for Branches to modernize their systems. | The guideline reflects OSFI's legal interpretation of the legislative requirements. |
+| Respondents requested clarity on the exemption relating to keeping copies of records in Canada. | Relevant sections of legislation have been added to Footnote 9 in the final Guideline. |
+| Supervision of FRFIs | |
+| Respondents suggested that the use of "potential" in regards to changes in Branch Management indicate that OSFI will need to approve such changes. Respondents found the language overly broad, and suggested it be amended to read, "changes or proposed". | OSFI expects to be notified of potential changes to members of Branch Management. There is no approval requirement. |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2021-06-28

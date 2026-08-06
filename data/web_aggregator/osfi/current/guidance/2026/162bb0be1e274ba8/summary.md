@@ -1,0 +1,1 @@
+Summary: # Earthquake Exposure Sound Practices - Letter (2013)

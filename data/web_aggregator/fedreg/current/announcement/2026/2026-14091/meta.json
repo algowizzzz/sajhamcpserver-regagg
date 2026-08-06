@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14091",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Coatue Innovative Strategies Fund and Coatue Management, L.L.C.",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14091/coatue-innovative-strategies-fund-and-coatue-management-llc",
+  "reference_number": "2026-14091",
+  "published_date": "2026-07-14",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:188986d2e5e3b5488094978b58b36b74561183d9cff67ea1b9fb9878d7ab0b8f",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14091",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

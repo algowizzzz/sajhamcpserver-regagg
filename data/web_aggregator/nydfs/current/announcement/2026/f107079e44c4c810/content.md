@@ -1,0 +1,29 @@
+*Individuals are considered LEP if they do not speak English as their preferred language and have limited ability to read, speak, write, or understand spoken
+English.              EN
+Waiver of Rights to Free Interpretation Services 
+New York State policy is to offer Limited English Proficient (LEP*) individuals with free interpretation services 
+when accessing state services. If you have been identified (or self-identified) as an LEP individual by the agency 
+and wish to waive your right to free interpretation services, you need to complete this form.  
+Name of Limited English Proficient (LEP) Individual (or authorized representative) 
+____________________________________________________________________________________ 
+Check all that apply 
+☐ I have been told that I have the right to free interpretation services
+☐ I understand that I can have the services of a free interpreter
+☐ I choose NOT to use the services of a free interpreter at this time, and will instead
+☐ Communicate in English
+☐ Use my own interpreter (Must be at least 18 years old). Please note that for certain services,
+you may not be allowed to provide an interpreter of your choice.
+N
+ame of Interpreter: ____________________________________________________________ 
+Relationship to the LEP individual: ________________________________________________ 
+☐ Other: _____________________________________________________________________
+☐ I understand that I can change my mind at any time and accept the services of a free interpreter
+__________________________________________________ 
+_________________ 
+Signature of LEP Individual (or Authorized Representative)  Date  
+FOR AGENCY USE ONLY 
+Name of Employee: __________________________________________________________________________ 
+Division/Department: _________________________________________________________________________ 
+Email Address: _________________________________________ Phone Number: _______________________
+________________________ _________________________ 
+Signature of Employee  Date

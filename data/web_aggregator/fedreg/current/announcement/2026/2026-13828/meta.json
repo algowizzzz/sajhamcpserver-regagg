@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13828",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA Liquidity Plan",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/09/2026-13828/self-regulatory-organizations-lch-sa-notice-of-filing-of-proposed-rule-change-relating-to-the-lch-sa",
+  "reference_number": "2026-13828",
+  "published_date": "2026-07-09",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8d33a7e6718b09024f4279c337bc164b7c1cfab75ec9749b0c240f17cbc9119a",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13828",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

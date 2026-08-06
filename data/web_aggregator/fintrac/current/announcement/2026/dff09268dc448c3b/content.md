@@ -1,0 +1,21 @@
+# Groupe de travail de lutte contre le financement des activités terroristes – Israël : Déclaration publique du groupe de travail d’URF
+
+**[Centre d’analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)**
+
+Nous, les unités du renseignement financier (URF) des pays suivants : l'Allemagne, l'Australie, le Canada, l'Estonie, les États-Unis, la France, l'Israël, le Liechtenstein, le Luxembourg, la Nouvelle-Zélande, les Pays-Bas, le Royaume-Uni, la Suisse, (les « membres du groupe de travail »), et d'autres URF partageant des points de vue similaires, avons immédiatement créé un groupe de travail international suivant les attaques terroristes brutales menées par le Hamas contre l'Israël le 7 octobre.
+
+Dirigé par quatre coprésidents, dont les URF de l'Allemagne, de l'Israël, des Pays-Bas et des États-Unis, le groupe de travail a pour objectif de combiner et de renforcer les efforts visant à perturber les flux financiers internationaux liés au Hamas et à soutenir les efforts mondiaux de lutte contre le terrorisme grâce à la coordination des renseignements financiers et à l'échange d'informations. Les attaques terroristes du 7 octobre en Israël ont rappelé avec force l'une des missions de base de nos URF : détecter, perturber et prévenir le financement du terrorisme.
+
+Dans le but de perturber le financement du Hamas et d'autres groupes terroristes, les membres du groupe de travail s'engagent à prendre des mesures concrètes :
+
+1. Améliorer le renseignement financier sur les questions liées au financement du terrorisme et sur les flux financiers et les activités économiques qui y sont associés;
+2. Accélérer et accroître l'échange de renseignements financiers sur les questions liées au financement du terrorisme et sur les flux financiers et les activités économiques qui y sont associés;
+3. Discuter des pratiques exemplaires des URF, des leçons apprises et des possibilités de mesures et de partenariats supplémentaires pour lutter contre les activités de financement du terrorisme et les perturber;
+4. Renforcer et faciliter les relations de travail entre les URF, les autorités publiques compétentes et le secteur privé pour faire face à cette menace.
+
+Les membres du groupe de travail reconnaissent l'importance du secteur privé pour atteindre ces objectifs, en particulier pour identifier et limiter l'utilisation du système financier mondial par les terroristes. Une coordination étroite avec les institutions financières et les entreprises technologiques, dans la mesure où nos autorités respectives le permettent, est essentielle pour identifier et mettre fin aux mécanismes de financement du terrorisme.
+
+Les membres du groupe de travail s'engagent également à travailler en étroite collaboration avec les organismes nationaux d'application de la loi, les procureurs et les autres autorités gouvernementales compétentes, dans le cadre de leurs compétences juridiques respectives, afin d'atteindre les objectifs du groupe de travail.
+
+Date de modification :
+:   2023-12-06

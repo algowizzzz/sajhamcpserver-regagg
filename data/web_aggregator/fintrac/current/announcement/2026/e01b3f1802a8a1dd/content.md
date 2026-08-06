@@ -1,0 +1,62 @@
+# Administrative monetary penalty imposed on The Toronto-Dominion Bank
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2024-05-02**]
+
+The Toronto-Dominion Bank, a bank headquartered in Toronto, Ontario, was imposed an administrative monetary penalty of $9,185,000 on April 9, 2024, for committing 5 violations. The violations were found during the course of a compliance examination conducted in 2023. This penalty was imposed for administrative violations committed by the bank under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and its associated Regulations, and not for criminal offences for money laundering or terrorist activity financing. The administrative monetary penalty has been paid in full and proceedings have ended.
+
+## Nature of violation
+
+Violation #1
+:   **Failure to report financial transactions that occurred in the course of its activities and in respect of which there are reasonable grounds to suspect that the transactions are related to the commission or the attempted commission of a money laundering or a terrorist activity financing offence, which is contrary to section 7 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and subsection 9(1) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Suspicious Transaction Reporting Regulations**
+      
+      
+    The Toronto-Dominion Bank (‘the Bank”) failed to submit 20 suspicious transaction reports (STRs) out of 178 case files reviewed where there were reasonable grounds to suspect that one or more transactions were related to the commission or attempted commission of a money laundering (ML) or terrorist activity financing (TF) offence. FINTRAC's 2023 examination continued to reveal gaps in the application of investigative processes in the Canadian FIU of the Bank.
+      
+      
+    These 20 instances include:
+
+    * Instances where the Bank terminated business relationships with high-risk clients that exceeded the Bank’s ML/TF risk tolerance and ML/TF indicators were present in the clients’ transactions.
+    * Instances where the Bank was served with production orders on clients or was aware of relevant negative media related to clients, and ML/TF indicators were present in the clients’ transactions.
+    * Instances where the Bank closed investigations without conducting an adequate review of the clients’ transactions against ML/TF indicators, such as not validating some of the information relied on to justify the closure of the investigation, or not obtaining additional information to inform its understanding of the nature/purpose of the transactions or the source of funds.
+
+Violation #2
+:   **Failure to assess and document the risk referred to in subsection 9.6(2) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, taking into consideration the prescribed factors, which is contrary to paragraph 156(1)(c) and subsection 156(2) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations**
+      
+      
+    FINTRAC’s 2023 examination identified weaknesses in the processes and controls the Bank had in place for the assessment of client risk. The examination found that the Bank failed to exercise appropriate oversight of its customer risk rating solutions, and the effectiveness of interim measures for the identification of high-risk clients during the Bank's transition to a new customer risk rating solution. As a result, the Bank failed to effectively identify its complete high-risk client population, leaving itself exposed to unmitigated ML/TF risk.
+      
+      
+    Specifically, during the review period of March 1, 2022 to March 31, 2023, FINTRAC identified 96 clients that were not entered into the Bank’s high-risk client program. Additionally, FINTRAC identified that the Bank failed to ensure its procedures and guidance related to high-risk client exclusions were aligned with the Bank’s Standards, which could impact certain segments of high-risk clients.
+
+Violation #3
+:   **Failure to take the prescribed special measures when the financial entity considers that risks referred to in subsection 9.6(2) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act is high, which is contrary to subsection 9.6(3) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and section 157 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations (PCMLTFR)**
+      
+      
+    As a result of those clients that were not identified by the Bank as high-risk (see Violation #2), FINTRAC’s examination identified that 85 clients had not been subject to any special measures as required by the PCMLTFR.
+      
+      
+    Specifically, FINTRAC sampled 12 files from these clients and found that the Bank failed to apply special measures in all cases. In addition, FINTRAC found that the Bank failed to apply its established enhanced due diligence measures to 11 clients contrary to a Ministerial Directive and the Bank’s own policies and procedures. Finally, FINTRAC identified an example of a politically exposed foreign person that was permitted to transact for more than two years without the Bank obtaining required details from the client, which includes information on the source of funds, source of wealth, and nature/purpose of transactions.
+
+Violation #4
+:   **Failure to periodically conduct ongoing monitoring, based on a risk assessment referred to in subsection 9.6(2) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act that is undertaken in accordance with paragraph 156(1)(c) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, which is contrary to section 123.1 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations**
+      
+      
+    FINTRAC’s examination identified 96 instances (see Violation #2) where the Bank did not reassess a client’s risk rating, and as a result, did not conduct a review of account activity to determine if the information obtained about the client was consistent with the client’s risk assessment, as required by ongoing monitoring requirements under the PCMLTFA and associated regulations.
+      
+      
+    FINTRAC’s examination identified an additional 20 instances where the Bank did not adequately conduct a review of a client’s activity to determine whether transactions or activities were consistent with the information obtained about the client, contrary to ongoing monitoring requirements.
+
+Violation #5
+:   **Failure to keep a record of the measures taken and the information obtained when conducting ongoing monitoring of business relationships, which is contrary to section 6 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and subsection 146(1) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations**
+      
+      
+    As a result of the clients that were not identified by the Bank as high-risk (see Violation #2), FINTRAC found 96 instances where the Bank did not meet its requirement to keep a record of the special measures taken or the information obtained from enhanced ongoing monitoring of high-risk clients, as required under the PCMLTFA and associated regulations.
+
+## Related link
+
+* [News release: FINTRAC imposes an administrative monetary penalty on The Toronto-Dominion Bank](/new-neuf/nr/2024-05-02-eng)
+
+Date Modified:
+:   2024-05-02

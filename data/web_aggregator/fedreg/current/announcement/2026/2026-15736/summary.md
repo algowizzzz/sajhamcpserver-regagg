@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing of a Proposed Rule Change To Amend MSRB Rule G-27 To Exclude Certain Public Finance Activities From Term “Structuring of Public Offerings or Private Placements,” Extend the Length of the Excl

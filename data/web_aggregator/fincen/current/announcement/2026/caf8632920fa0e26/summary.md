@@ -1,0 +1,1 @@
+Summary: # Ruling (FIN-2008-R009) on Whether a Company that Offers a Loan Acceleration Product for Consumer Financing is a Money Services Business

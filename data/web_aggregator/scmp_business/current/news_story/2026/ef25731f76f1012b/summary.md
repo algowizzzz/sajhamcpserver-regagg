@@ -1,0 +1,1 @@
+Summary: # China stock traders cut leveraged positions by 14% in July amid tech sell-off

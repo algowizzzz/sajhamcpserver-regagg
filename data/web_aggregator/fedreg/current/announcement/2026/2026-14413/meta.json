@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14413",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Cliffwater Corporate Lending Fund, et al.",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/17/2026-14413/cliffwater-corporate-lending-fund-et-al",
+  "reference_number": "2026-14413",
+  "published_date": "2026-07-17",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5d7c86bb7fb56e4d19619aa035c4aed043d4b013b914ad848317663b381a2300",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14413",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

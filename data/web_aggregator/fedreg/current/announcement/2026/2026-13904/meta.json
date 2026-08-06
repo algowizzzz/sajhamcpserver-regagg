@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13904",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities: Announcement of Board Approval Under Delegated Authority and Submission to OMB",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/09/2026-13904/agency-information-collection-activities-announcement-of-board-approval-under-delegated-authority",
+  "reference_number": "2026-13904",
+  "published_date": "2026-07-09",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:511f0b377ad688b0f893e7163d16d9d5f0d673686eff796ccdcad6255fe7a9a9",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13904",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

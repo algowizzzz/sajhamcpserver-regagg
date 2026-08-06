@@ -1,0 +1,110 @@
+* [HOME](/en/index.html)
+* [FSA Weekly Review/ACCESS FSA](/en/newsletter/index.html)
+
+[Tweet](https://twitter.com/share)
+
+# Financial Services AgencyFSA Weekly Review No.689
+:   June 2, 2026
+
+**What’s New on the FSA Website**
+
+Week of May 25, 2026 - May 29, 2026
+
+This page contains the latest in events, developments, and updates to the FSA website.  
+  
+For files in HTML formats, when you click original press release links, and click the "Language" button on the upper right of the Japanese website, and select "Machine translation" displayed on the screen, the results of the translation by AI are displayed. Please note that machine translated pages are not necessarily correct.
+
+## Public Comments
+
+|  |  |
+| --- | --- |
+| May 29, 2026 | Publication of draft Guidelines Concerning Anti-Money Laundering, Countering the Financing of Terrorism, and Countering Proliferation Financing (AML/CFT/CPF) by Certified Public Accountants and Audit Corporations  Public comments will be accepted until no later than 5:00 p.m. (JST), June 29, 2026. [The original press release is available in Japanese.open new window](/news/r7/sonota/20260529/20260529.html) |
+| May 29, 2026 | Publication of the results of the public consultation on a draft partial amendment to the Comprehensive Guidelines for Supervision for Authorized Specified Insurers [The original press release is available in Japanese.open new window](/news/r7/hoken/20260529-3/20260529-3.html) |
+| May 29, 2026 | Publication of the results of the public consultation on a draft partial amendment to the Comprehensive Guidelines for Supervision for Insurance Companies (Supplement) (Comprehensive Guidelines for Small Amount and Short-Term Insurers) pertaining to the 2025 Amended Insurance Business Act (to be enforced within one year) [The original press release is available in Japanese.open new window](/news/r7/hoken/20260529-1/20260529-1.html) |
+| May 29, 2026 | Publication of the results of the public consultation on a draft partial amendment to the Comprehensive Guidelines for Supervision for Insurance Companies (Supplement) (Comprehensive Guidelines for Small Amount and Short-Term Insurers) [The original press release is available in Japanese.open new window](/news/r7/hoken/20260529-2/20260529-2.html) |
+| May 26, 2026 | Publication of information on public consultation on the draft Cabinet Office Order Partially Amending the Regulation on Accountings for Investment Corporations  The amendment aims to develop provisions of the Regulation so as to permit investment corporations to provide their asset investment reports, etc. to investors by the method of posting them on their websites. Public comments will be accepted until no later than 5:00 p.m. (JST), June 25, 2026. [The original press release is available in Japanese.open new window](/news/r7/shouken/20260526/20260526.html) |
+| May 25, 2026 | Publication of the results of public consultation on the draft partial amendment to the Comprehensive Guidelines for Supervision of Financial Instruments Business Operators, etc.  Based on the partial amendment to self-regulatory rules of the Japan Securities Dealers Association, “Rules Concerning Solicitation for Investments and Management of Customers, etc. by Association Members,” the Comprehensive Guidelines for Supervision are to be amended as required. [The original press release is available in Japanese.open new window](/news/r7/shouken/20260525/20260525.html) |
+
+## Press Releases
+
+### Publication
+
+|  |  |
+| --- | --- |
+| May 29, 2026 | PDF[FSA publishes English translation of monthly magazine, Access FSA No.270](/en/newsletter/accessfsa2026/270.pdf) |
+
+### Councils
+
+|  |  |
+| --- | --- |
+| May 29, 2026 | The FSA published the minutes of the 30th meeting of the Examination Board on Strengthening of Financial Functions (held on May 11, 2023) after the lapse of three years based on the operation rules of the Examination Board. [The original press release is available in Japanese.open new window](/news/r7/ginkou/20260529/20260529.html) |
+
+### Banks
+
+|  |  |
+| --- | --- |
+| May 25, 2026 | Publication of Q&A on Capital Adequacy Requirements (addition)  Matters concerning the credit risk reduction effect of the Enterprise Value Charge and matters concerning exposures underwritten by the Nippon Export and Investment Insurance were added to the Q&A. [The original press release is available in Japanese.open new window](/news/r7/ginkou/20260525.html) |
+
+### Securities
+
+|  |  |
+| --- | --- |
+| May 29, 2026 | Publication of information on an administrative disposition against Takumi Investments Co., Ltd. [The original press release is available in Japanese.open new window](/news/r7/shouken/20260529.html) |
+
+### Others
+
+|  |  |
+| --- | --- |
+| May 29, 2026 | The FSA updated and published an overview of modifications to lending conditions made by banks as of the end of April 2026. [The original press release is available in Japanese.open new window](/ordinary/tariff202504/kashitsuke/202506.html) |
+| May 29, 2026 | Publication of the main issues raised by the FSA at opinion exchange meetings held in March 2026 with relevant associations in the financial sector [The original press release is available in Japanese.open new window](/common/ronten/index.html) |
+| May 28, 2026 | Publication of information on the commencement of the operation of the public-private collaborative framework between financial institutions and the National Police Agency for tracing, freezing, and recovering money stolen through bank transfer scams  Nine large banks(\*) and the National Police Agency concluded the Agreement on Public-Private Collaborative Framework for Tracing, Freezing, and Recovering Money Stolen through Bank Transfer Scams, with a view to enabling prompt tracing, etc. of criminal proceeds. The operation of the framework will be commenced on June 1, 2026.  (\*) Mizuho Bank, Ltd.; MUFG Bank, Ltd.; Sumitomo Mitsui Banking Corporation; Resona Bank, Limited; Seven Bank, Ltd.; Rakuten Bank, Ltd.; AEON Bank, Ltd.; SBI Shinsei Bank, Limited; and JAPAN POST BANK Co., Ltd. [The original press release is available in Japanese.open new window](/news/r7/sonota/20260528/20260528.html) |
+| May 27, 2026 | Publication of the deliverables of the project, “Dissemination of Opinions, etc. about Discussions at the International Sustainability Standards Board (ISSB)” (for FY2025) [The original press release is available in Japanese.open new window](/common/about/research/20260527/20260527.html) |
+| May 26, 2026 | Publication of explanations of the outline of the “Report on Measures for the Resolution of Failed Financial Institutions” provided by Minister for Financial Services Katayama at the House of Councillors Committee on Financial Affair [The original press release is available in Japanese.open new window](/common/diet/houkoku/080526/20260526.html) |
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

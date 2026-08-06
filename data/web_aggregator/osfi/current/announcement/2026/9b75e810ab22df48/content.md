@@ -1,0 +1,975 @@
+# 2023-2024 Annual Report to Parliament on the Administration of the Access to Information Act
+
+**Type of publication:** Annual report  
+**Date:** October 2024  
+**ISSN:** 2817-9439
+
+## Table of contents
+
+## 1. Introduction
+
+The purpose of the Access to Information Act (ATIA) is to enhance the accountability and transparency of federal institutions in order to promote an open and democratic society and to enable public debate on the conduct of those institutions. In furtherance of that purpose, Part 1 of the ATIA extends the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exceptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government. Part 2 of the ATIA sets out requirements for the proactive publication of information.
+
+This annual report was prepared and submitted in accordance with sections 94(1) and 94(2) of the ATIA as well as Section 20 of the Service Fees Act and covers the period from April 1, 2023, to March 31, 2024. OSFI does not have any non-operational subsidiaries.
+
+## 2. Mandate of the Office of the Superintendent of Financial Institutions (OSFI)
+
+**OSFI’s mandate:**
+
+Our purpose is to contribute to public confidence in the Canadian financial system by regulating and supervising approximately 400 federally regulated financial institutions (FRFIs) and 1200 federally regulated pension plans (FRPPs).
+
+Our mandate is to:
+
+* ensure FRFIs and FRPPs remain in sound financial condition
+* ensure FRFIs protect themselves against threats to their integrity and security, including foreign interference
+* act early when issues arise and require FRFIs and FRPPs to take necessary corrective measures without delay
+* monitor and evaluate risks and promote sound risk management by FRFIs and FRPPs
+
+In exercising our mandate:
+
+* for FRFIs, we strive to protect the rights and interests of depositors, policyholders and financial institution creditors while having due regard for the need to allow FRFIs to compete effectively and take reasonable risks
+* for FRPPs, we strive to protect the rights and interests of pension plan members, former members and entitled beneficiaries
+
+### How we regulate and supervise financial institutions and pension plans
+
+We use our regulatory framework to balance the goals of safety and soundness. This allows federally regulated financial institutions to operate in a competitive marketplace.
+
+We regulate by:
+
+* developing rules
+* interpreting legislation and regulations
+* providing regulatory approvals for certain types of transactions
+* contributing to new accounting, auditing and actuarial standards
+
+We supervise institutions by:
+
+* analyzing financial and economic trends to detect issues
+* assessing financial conditions, non-financial and material risks
+* evaluating quality of governance, risk management and compliance
+
+### Our role and benefits to Canada
+
+We play an important oversight role, but we don’t manage federally regulated financial institutions. Our goal is to balance both:
+
+* competitiveness with financial stability
+* international standards with Canadian market realities
+
+Our regulation and supervision activities contribute to public confidence in the Canadian financial system.
+
+We’re funded through fees paid by regulated entities, not by Canadian taxpayers’ money.
+
+### The Office of the Chief Actuary
+
+The Office of the Chief Actuary is an independent unit within OSFI that provides a range of actuarial valuation and advisory services to the Government of Canada. In conducting its work, the OCA plays a vital and independent role towards a financially sound and sustainable Canadian public retirement income system.
+
+## 3. Strategic Outcomes
+
+Primary to OSFI’s mandate and central to its contribution to Canada’s financial system are two strategic outcomes:
+
+* A safe and sound Canadian financial system
+* A financially sound and sustainable Canadian public retirement income system.
+
+For the purposes of the Access to Information Act, the head of OSFI is the Superintendent and the responsible minister is the Minister of Finance.
+
+## 4. Administration of the Access to Information Act
+
+### 4.1 Access to Information and Privacy (ATIP) Unit
+
+The Access to Information and Privacy (ATIP) Unit is part of the Central Office Directorate within the Corporate Services Sector. The unit is responsible for administering the Act for the Office of the Superintendent of Financial Institutions (OSFI). As such, the ATIP unit coordinates the timely processing of requests under the legislation, handles complaints lodged with the Information Commissioner, and responds to informal inquiries. The ATIP unit also provides advice and guidance to office staff on matters involving the Act.
+
+For the 2023-2024 fiscal year, the Manager, Privacy and Access to Information reported to the Director, Central Office, Corporate Services and is supported by an ATIP Officer, a Junior ATIP Officer and an Administrative Assistant. Both the ATIP Officer and the Junior ATIP Officer are considered regional staff. The ATIP unit also relies upon the support of contract resources.
+
+### 4.2 Institutional changes to the administration of the Access to Information Act
+
+There were no significant institutional changes to the administration of the Act in 2023-2024.
+
+### 4.3 Education and Training
+
+Training efforts in 2023-2024 have been focused on ensuring OSFI staff understand their roles and responsibilities in the effective management and protection of OSFI’s information resources as an enabler in the delivery of the ATI program through a combination of presentations, information sessions and information bulletins. Training efforts focused on ATIP refresher courses for the sectors ATIP Liaison Officers and Central Office Teams (2 sessions, 11 participants) as well as tailored sessions for participants in the processes stemming from proactive disclosure requirements as set out in the Act (3 sessions, 4 participants).
+
+### 4.4 Processing of access to information requests
+
+All formal Access to Information requests are submitted to the Manager, Privacy and Access to Information, who reviews and assigns them to an ATIP Officer. The Officer requests the information from the appointed sectoral ATIP Liaison Officer(s) concerned. In gathering the material and subsequently reviewing it, the ATIP Office provides advice and direction to ensure that the provisions of the Act are respected.
+
+Assembled material is reviewed by the ATIP Officer and the Manager, Privacy and Access to Information. The material and the recommendations pertaining to each request are then submitted to the program area for validation. Once agreed to, the release package is submitted to the Delegated Authority for final review and approval.
+
+### 4.5 Delegation of authority
+
+Administration of the Access to Information Act at OSFI is ultimately the responsibility of the Superintendent; However, delegation orders set out which powers, duties and functions relating to the administration of the Access to Information Act, have been delegated by the head of the institution, and to whom. Effective January 23rd, 2024, all powers, duties, or functions are delegated to the Assistant Superintendent, Corporate Services & Chief Operating Officer, the Chief of Staff, Corporate Services, the Chief Financial Officer, the Director, Central Office Corporate Services, the Manager, Access to Information & Privacy and the Manager, Privacy. See the attached order in Appendix B.
+
+### 4.6 Monitoring compliance
+
+The time taken to process access to information requests is tracked in the ATIP tracking system. Proposed final responses to ATI requests are ultimately reviewed and approved by the Director, Central Office. Concerns are raised as appropriate throughout the lifecycle of the request and priority is given to fulfilling OSFI’s statutory obligations.
+
+### 4.7 Summary of significant changes to programs, operations, policies or procedures
+
+Requests received by OSFI through the mail are retrieved by the Manager, Access to Information and Privacy as needed. Of note, for the duration of the 2023-2024 fiscal year, the ATIP team reported to the Office of the Chief Financial Officer, Corporate Services Sector. OSFI now utilizes the Government of Canada’s ATIP Online Request Service (AORS) to receive, process and respond to request made under the Access to Information Act. OSFI is also in the process of modernizing its existing ATIP case management software. For the reporting period, OSFI was not subject to any service agreements under section 96 of the Access to Information Act.
+
+### 4.8 Reading room
+
+In accordance with the Access to Information Act, a public reading room is available in Ottawa. It is located at 255 Albert Street, on the 16th floor.
+
+### 4.9 Proactive Publication under Part 2 of the ATIA
+
+OSFI, as an institution listed in Schedule I.1 of the Financial Administration Act is considered a government entity for the purposes of Part 2 of the ATIA. As such, it is subject to the following proactive publication requirements:
+
+| Legislative Requirement | Section | Publication Timeline | Institutional Requirement |
+| --- | --- | --- | --- |
+| All Government Institutions as defined in section 3 of the Access to Information Act | | | |
+| --- | --- | --- | --- |
+| Travel Expenses | 82 | Within 30 days after the end of the month of reimbursement | x |
+| Hospitality Expenses | 83 | Within 30 days after the end of the month of reimbursement | x |
+| Reports tabled in Parliament | 84 | Within 30 days after tabling | x |
+| Government entities or Departments, agencies, and other bodies subject to the Act and listed in Schedules I, I.1, or II of the Financial Administration Act | | | |
+| Contracts over $10,000 | 86 | Q1-3: Within 30 days after the quarter  Q4: Within 60 days after the quarter | x |
+| Grants & Contributions over $25,000 | 87 | Within 30 days after the quarter | x |
+| Packages of briefing materials prepared for new or incoming deputy heads or equivalent | 88(a) | Within 120 days after appointment | x |
+| Titles and reference numbers of memoranda prepared for a deputy head or equivalent, that is received by their office | 88(b) | Within 30 days after the end of the month received | x |
+| Packages of briefing materials prepared for a deputy head or equivalent’s appearance before a committee of Parliament | 88(c) | Within 120 days after appearance | x |
+| Government institutions that are departments named in Schedule I to the Financial Administration Act or portions of the core public administration named in Schedule IV to that Act (i.e. government institutions for which Treasury Board is the employer) | | | |
+| Reclassification of positions | 85 | Within 30 days after the quarter | n/a |
+| Ministers | | | |
+| Packages of briefing materials prepared by a government institution for new or incoming ministers | 74(a) | Within 120 days after appointment | n/a |
+| Titles and reference numbers of memoranda prepared by a government institution for the minister, that is received by their office | 74(b) | Within 30 days after the end of the month received | n/a |
+| Package of question period notes prepared by a government institution for the minister and in use on the last sitting day of the House of Commons in June and December | 74(c) | Within 30 days after last sitting day of the House of Common in June and December | n/a |
+| Packages of briefing materials prepared by a government institution for a minister’s appearance before a committee of Parliament | 74(d) | Within 120 days after appearance | n/a |
+| Travel Expenses | 75 | Within 30 days after the end of the month of reimbursement | n/a |
+| Hospitality Expenses | 76 | Within 30 days after the end of the month of reimbursement | n/a |
+| Contracts over $10,000 | 77 | Q1-3: Within 30 days after the quarter  Q4: Within 60 days after the quarter | n/a |
+| Ministers’ Offices Expenses  \*Note: This consolidated report is currently published by TBS on behalf of all institutions. | 78 | Within 120 days after the fiscal year | n/a |
+
+* 82 Travel Expenses: Travel expenses are published monthly on the Government of Canada’s Open Government site. 100% of the expenses for 2023-2024 were published within legislated timelines.
+* 83 Hospitality Expenses: Hospitality expenses are published monthly on the Government of Canada’s Open Government site. 100% of the expenses for 2023-2024 were published within legislated timelines.
+* 84 Reports Tables in Parliament: 2 reports were tabled in Parliament, 100% were published within legislated timelines.
+* 86 Contracts over $10,000: Contracts are published quarterly. During the reporting period, 100% were published within legislated timelines.
+* 87 Grants and contributions over $25,000: OSFI did not issue any grants or contributions during the reporting period.
+* 88 Briefing Materials: During the reporting period, OSFI published 3 Briefing packages for Parliamentary appearances for Deputy Heads, 100% of which were published withing legislated timelines. Memoranda for the deputy head are published monthly on the government of Canada’s Open Government website. For the 2023-2024 reporting period, 100% of these were published within legislated timelines.
+* All information published under Part 2 of the Act is published on the Government of Canada’s [Open Government site](https://open.canada.ca/en/proactive-disclosure). Prior to Bill C-58 receiving royal ascent, OSFI had developed internal policies and procedures to satisfy its new requirement relating to proactive publication. These processes have been updated to align with changes to staffing and OSFI’s corporate structure. Processes relating to proactive disclosure are the responsibility of and reviewed annually by the ATIP team.
+
+## 5. Interpretation of the Statistical Report
+
+Due to the nature of OSFI’s work regulating financial institutions and private pension plans under federal jurisdiction, much of the information in its possession is third-party information about these supervised institutions and pension plans.
+
+### Part 1 – Requests under the Access to Information Act
+
+Access to Information Requests for OSFI: Received, Outstanding from Previous Year, Closed, and Pending at End of Year: 2019-2020 to 2023-2024
+
+![Chart 1.  Access to Information Requests for OSFI: Received, Outstanding from Previous Year, Closed, and Pending at End of Year: 2019-2020 to 2023-2024. Text version below.](/sites/default/files/images/ati-aai-2023-24-img1-en_0.png)
+
+Chart 1 - Text version
+
+Access to Information Requests for OSFI: Received, Outstanding from Previous Year, Closed, and Pending at End of Year: 2019-2020 to 2023-2024
+
+|  | Received | Outstanding From Previous Year | Closed During Year | Pending at End of Year |
+| --- | --- | --- | --- | --- |
+| 2019-2020 | 39 | 12 | 42 | 9 |
+| 2020-2021 | 53 | 8 | 44 | 17 |
+| 2021-2022 | 38 | 17 | 41 | 14 |
+| 2022-2023 | 29 | 17 | 33 | 13 |
+| 2023-2024 | 38 | 13 | 43 | 8 |
+
+OSFI received a total of 38 formal ATI requests in 2023-2024, an increase of 30% from the 29 received in 2022-2023. 43 requests were closed in 2023-2024, up from the 33 completed requests closed in 2022-2023, 91% within legislated timeframes. 13 requests were outstanding from the previous reporting period and 8 requests were carried over to the next year. Since the inception of the Act to March 31, 2024, OSFI has received 1,436 Access to Information requests.
+
+Chart 2 Number and Source of Access to Information Requests at OSFI: Reporting Year 2019-2020 to 2023-2024
+
+![Chart 2. Number and Source of Access to Information Requests at OSFI: Reporting Year 2019-2020 to 2023-2024.  Text version below.](/sites/default/files/images/ati-aai-2023-24-img2-en_0.png)
+
+Chart 2 - Text version
+
+Number and Source of Access to Information Requests at OSFI: Reporting Year 2019-2020 to 2023-2024
+
+|  | Media | Academia | Business | Organization | Public | Not Disclosed |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2019-2020 | 15 | 0 | 10 | 0 | 13 | 1 |
+| 2020-2021 | 15 | 1 | 16 | 0 | 12 | 9 |
+| 2021-2022 | 8 | 1 | 7 | 0 | 9 | 13 |
+| 2022-2023 | 12 | 1 | 6 | 2 | 8 | 0 |
+| 2023-2024 | 8 | 1 | 9 | 4 | 11 | 5 |
+
+The profile of requesters has also changed in 2023-2024, with slight decrease in the number of requests from the media, an increase in requests from organizations and an increase in the number of requestors from the public and businesses. There was an increase in the number of requestors that chose not to self-identify.
+
+The number of informal requests completed in 2023-2024 was 325% higher than the previous year (17 in 2023-2024 compared to 4 in 2022-2023).
+
+### Part 2 – Requests closed during the reporting period
+
+The following table summarizes the actions taken with respect to the completed requests:
+
+#### 2.1 Disposition and Completion Time
+
+| Disposition | Number of requests |
+| --- | --- |
+| All disclosed | 5 |
+| Disclosed in part | 24 |
+| All exempted | 6 |
+| All excluded | 0 |
+| No records exist | 5 |
+| Request transferred | 0 |
+| Request abandoned | 3 |
+| Neither confirmed nor denied | 0 |
+| Total | **43** |
+
+For the 2023-2024 reporting period, 12% of completed requests were “all disclosed” and 56% of completed requests were “disclosed in part”.
+
+Parts of the records were subject to exemptions. In every case, where applicable, the applicant was given access to the remaining portion of the records relevant to the request.
+
+6 requests were completed within 1-15 days, 16 within 16-30 days, 9 within 31-60 days, 1 within 61-120 days, 2 within 121-180 days, 2 within 181-365 days and 7 requests required more than 365 days.
+
+Of the 8 requests carried over to the 2024-2025 reporting period, all were carried over from the 2023-2024 reporting period (all within legislated timelines)
+
+#### 2.2 Exemptions
+
+In the 2023-2024 reporting year, for the 38 requests completed, OSFI applied exemptions to withhold information under subsections 13(1)(a), (b), and (c), 14(a) and (b), 15(1), 16(1)(c), 16(2), 16(2)(c), 18(a), (b) and (d), 19(1), 20(1)(a),(b), (c) and (d), 21(1)(a), (b), (c) and (d), 22 and 23 of the Act, as applicable.
+
+#### 2.3 Exclusions
+
+S.68(a) was applied in 6 files.
+
+#### 2.4 Format of Information Released
+
+Responses for 29 requests were provided in electronic format.
+
+#### 2.5 Relevant Pages Processed and Disclosed
+
+There was a marked increase in both the number of pages processed (55,004 in 2023-2024 compared to 11,267 in 2022-2023) and the number of pages disclosed (3,175 in 2023-2024 compared to 2,062 in 2022-2023). These figures do not include the pages processed and reviewed for requests carried over to the next reporting period.
+
+#### 2.6 Deemed Refusal
+
+90.7% of all requests closed in 2023-2024 were closed within legislated timelines. There were 4 requests for which a response was provided past the statutory deadline resulting from other internal delays. The rate of deemed refusals has decreased this year over last reporting period – 4 of 43 (9.3%) compared to 6 of 33 (18.19%) in the previous year. The action plan implemented to address files open beyond their legislated timelines has been largely successful.
+
+#### 2.7 Requests for Translation
+
+No translations were requested in 2023-2024.
+
+### Part 3 – Extensions
+
+16 requests required extensions of 30 days or less for:
+
+* interference with operations pursuant to section 9(1)(a) and/or
+* consultation with third parties pursuant to section 9(1)(b).
+
+9 requests required extensions of 31 days to 60 days for:
+
+* interference with operations pursuant to section 9(1)(a) and/or
+* consultation with another government department pursuant to section 9(1)(b).
+
+1 request required an extension of 61 to 120 days for:
+
+* interference with operations pursuant to section 9(1)(a) and/or
+* consultation with another government department pursuant to section 9(1)(b)
+
+2 requests required an extension of 121 to 180 days for:
+
+* interference with operations pursuant to section 9(1)(a) and/or
+* consultation with another government department pursuant to section 9(1)(b)
+
+2 requests required an extension of 181 to 365 days for:
+
+* interference with operations pursuant to section 9(1)(a) and/or
+* consultation with another government department pursuant to section 9(1)(b)
+
+7 requests required an extension of greater than 365 days for:
+
+* interference with operations pursuant to section 9(1)(a) and/or
+* consultation with another government department pursuant to section 9(1)(b)
+
+### Part 4 – Fees
+
+The Service Fees Act requires a responsible authority to report annually to Parliament on the fees collected by the institution. With respect to fees collected under the Access to Information Act, the information below is reported in accordance with the requirements of section 20 of the Service Fees Act.
+
+Application fees of $145.00 were collected for 29 of the 38 requests received over this period. The total amount of fees waived was $45.00.
+
+In accordance with the Interim Directive on the Administration of the Access to Information Act, issued on May 5, 2016, and the changes to the Access to Information Act that came into force on June 21, 2019, OSFI waives all fees prescribed by the Act and Regulations, other than the $5 application fee set out in paragraph 7(1)(a) of the Regulations.
+
+### Part 5 - Consultations Received from Other Government Institutions and Organizations
+
+In 2023-2024, OSFI saw a 19.4% increase in the number of consultations received, 43, compared to the 36 received the previous year. 43 consultations were processed during the reporting period, compared to 38 the previous year. In total, 1,392 pages were reviewed, an increase of 50% from 2022-2023.
+
+#### 5.1 Recommendations and completion time for consultations received from other government Institutions
+
+In 2023-2024, OSFI received 43 consultations from other Government of Canada Institutions. Of those, 31 consultations were processed within 1 to 15 days and 12 were processed within 16 to 30. OSFI recommended that the records contained in 18 consultations be disclosed in their entirety, 23 be disclosed in part and 1 be exempted entirely.
+
+#### 5.2 Recommendations and completion time for consultations received from other institutions
+
+In 2023-2024, OSFI did not receive any formal consultations from an organization outside of the Government of Canada.
+
+### Part 6 – Completion Time of Consultations on Cabinet Confidences
+
+OSFI did not consult on any Cabinet Confidence during the reporting period.
+
+### Part 7 – Resources Related to the Access to Information Act
+
+The cost to administer the Act during the reporting period was $417,816. Due to the increasing complexity of the requests received in 2023-2024, OSFI employed an agency-supplied consultants to supplement its small ATIP team on an as and when needed basis to ensure the delivery of Access to Information requests within statutory timelines. Employee salaries accounted for 68.3% of total costs incurred, and represent 81% of the 3.69 person/years required to administer the Act.
+
+Chart 3 Access to Information at OSFI: Costs and Human Resources: 2019-2020 to 2023-2024
+
+![Chart 3.  Access to Information at OSFI: Costs and Human Resources: 
+  2019-2020  to 2023-2024.  Text version below.](/sites/default/files/images/ati-aai-2023-24-img3-en_0.png)
+
+Chart 3 - Text version
+
+Access to Information at OSFI: Costs and Human Resources: 2019-2020 to 2023-2024
+
+| Person Years | Dollars | Fiscal Year |
+| --- | --- | --- |
+| 3.96 | 543919 | 2019-2020 |
+| 4.37 | 508525 | 2020-2021 |
+| 4.56 | 595117 | 2021-2022 |
+| 4.36 | 528292 | 2022-2023 |
+| 3.69 | 417816 | 2023-2024 |
+
+## 6. Complaints and Investigations
+
+There were 2 new complaints received during the reporting period. At the end of the reporting period, there were 4 complaints still under investigation by the Office of the Information Commissioner.
+
+## 7. Appeals to the Federal Court of Canada
+
+### 7.1 – Major changes implemented as a result of concerns or issues raised by the Information Commissioner of Canada in her annual report to Parliament
+
+The Information Commissioner of Canada did not raise any concerns or issues related to OSFI; therefore no major changes were implemented.
+
+### 7.2 – Major changes implemented as a result of concerns or issues raised by other agents of Parliament
+
+No major changes were implemented by OSFI, as other agents of Parliament did not raise any concerns or issues.
+
+### 7.3 – Number of applications or appeal the Federal Court of the Federal Court of Appeal during the fiscal year
+
+There were no access to information related applications or appeals to the Federal Court or the Federal Court of Appeal during this fiscal year related to OSFI.
+
+## Appendix A – Statistical report on the Access to Information Act
+
+### Statistical report on the Access to Information Act
+
+**Name of institution:** Office of the Superintendent of Financial Institutions
+
+**Reporting period:** 4/1/2023 to 3/31/2024
+
+### Section 1: Requests under the Access to Information Act
+
+#### 1.1 Number of requests
+
+| blank | Number of requests |
+| --- | --- |
+| Received during reporting period | 38 |
+| Outstanding from previous reporting periods | 13 |
+| Outstanding from previous reporting period | 4 |
+| Outstanding from more than one reporting period | 9 |
+| **Total** | **51** |
+| Closed during reporting period | 43 |
+| Carried over to next reporting period | 8 |
+| Carried over within legislated timeline | 8 |
+| Carried over beyond legislated timeline | 0 |
+
+#### 1.2 Sources of requests
+
+| Source | Number of requests |
+| --- | --- |
+| Media | 8 |
+| Academia | 1 |
+| Business (private sector) | 9 |
+| Organization | 4 |
+| Public | 11 |
+| Decline to identify | 5 |
+| Total | 38 |
+
+#### 1.3 Channels of requests
+
+| Source | Number of requests |
+| --- | --- |
+| Online | 29 |
+| E-mail | 3 |
+| Mail | 6 |
+| In person | 0 |
+| Phone | 0 |
+| Fax | 0 |
+| Total | 38 |
+
+### Section 2: Informal requests
+
+#### 2.1 Number of informal requests
+
+| blank | Number of requests |
+| --- | --- |
+| Received during reporting period | 17 |
+| Outstanding from previous reporting periods | 1 |
+| Outstanding from previous reporting period | 1 |
+| Outstanding from more than one reporting period | 0 |
+| **Total** | **18** |
+| Closed during reporting period | 18 |
+| Carried over to next reporting period | 0 |
+
+#### 2.2 Channels of informal requests
+
+| Source | Number of requests |
+| --- | --- |
+| Online | 12 |
+| E-mail | 5 |
+| Mail | 0 |
+| In person | 0 |
+| Phone | 0 |
+| Fax | 0 |
+| Total | 17 |
+
+#### 2.3 Completion time of informal requests
+
+| Completion time | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 to 15 days | 16 to 30 days | 31 to 60 days | 61 to 120 days | 121 to 180 days | 181 to 365  days | More than 365 days | Total |
+| 16 | 1 | 0 | 0 | 0 | 0 | 1 | 18 |
+
+#### 2.4 Pages released informally
+
+| Less than 100 pages released | | 100-500  pages released | | 501-1000  pages released | | 1001-5000  pages released | | More than 5000  pages released | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of requests | Pages released | Number of requests | Pages released | Number of requests | Pages released | Number of requests | Pages released | Number of requests | Pages released |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+#### 2.5 Pages re-released informally
+
+| Less than 100 pages re-released | | 100-500 pages  re-released | | 501-1000 pages  re-released | | 1001-5000 pages  re-released | | More than 5000 pages re-released | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of requests | Pages  re-released | Number of requests | Pages  re-released | Number of requests | Pages  re-released | Number of requests | Pages  re-released | Number of requests | Pages  re-released |
+| 15 | 390 | 2 | 239 | 0 | 0 | 0 | 0 | 1 | 20138 |
+
+### Section 3: Applications to the Information Commissioner on declining to act on requests
+
+| blank | Number of requests |
+| --- | --- |
+| Outstanding from previous reporting period | 0 |
+| Sent during reporting period | 0 |
+| **Total** | **0** |
+| Approved by the Information Commissioner during reporting period | 0 |
+| Declined by the Information Commissioner during reporting period | 0 |
+| Withdrawn during reporting period | 0 |
+| Carried over to next reporting period | 0 |
+
+### Section 4: Requests closed during the reporting period
+
+#### 4.1 Disposition and completion time
+
+| Disposition of requests | Completion time | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 to 15 days | 16 to 30 days | 31 to 60 days | 61 to 120 days | 121 to 180 days | 181 to 365 days | More than 365 days | Total |
+| All disclosed | 1 | 2 | 1 | 0 | 1 | 0 | 0 | 5 |
+| Disclosed in part | 0 | 11 | 5 | 0 | 1 | 2 | 5 | 24 |
+| All exempted | 1 | 3 | 0 | 1 | 0 | 0 | 1 | 6 |
+| All excluded | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| No records exist | 2 | 0 | 3 | 0 | 0 | 0 | 0 | 5 |
+| Request transferred | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Request abandoned | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Neither confirmed nor denied | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Declined to act with the approval of the Information Commissioner | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | 6 | 16 | 9 | 1 | 2 | 2 | 7 | 43 |
+
+#### 4.2 Exemptions
+
+| Section | Number of requests |
+| --- | --- |
+| 13(1)(a) | 5 |
+| 13(1)(b) | 1 |
+| 13(1)(c) | 1 |
+| 13(1)(d) | 0 |
+| 13(1)(e) | 0 |
+| 14 | 2 |
+| 14(a) | 0 |
+| 14(b) | 0 |
+| 15(1) | 9 |
+| 15(1) - I.A.[Table 4.2 Footnote 1](#tbl4fn1) | 0 |
+| 15(1) - Def.[Table 4.2 Footnote 2](#tbl4fn2) | 0 |
+| 15(1) - S.A.[Table 4.2 Footnote 3](#tbl4fn3) | 0 |
+| 16(1)(a)(i) | 0 |
+| 16(1)(a)(ii) | 0 |
+| 16(1)(a)(iii) | 0 |
+| 16(1)(b) | 0 |
+| 16(1)(c) | 27 |
+| 16(1)(d) | 0 |
+| 16(2) | 10 |
+| 16(2)(a) | 0 |
+| 16(2)(b) | 0 |
+| 16(2)(c) | 3 |
+| 16(3) | 0 |
+| 16.1(1)(a) | 0 |
+| 16.1(1)(b) | 0 |
+| 16.1(1)(c) | 0 |
+| 16.1(1)(d) | 0 |
+| 16.2(1) | 0 |
+| 16.3 | 0 |
+| 16.4(1)(a) | 0 |
+| 16.4(1)(b) | 0 |
+| 16.5 | 0 |
+| 16.6 | 0 |
+| 17 | 0 |
+| 18(a) | 1 |
+| 18(b) | 1 |
+| 18(c) | 0 |
+| 18(d) | 3 |
+| 18.1(1)(a) | 0 |
+| 18.1(1)(b) | 0 |
+| 18.1(1)(c) | 0 |
+| 18.1(1)(d) | 0 |
+| 19(1) | 28 |
+| 20(1)(a) | 3 |
+| 20(1)(b) | 23 |
+| 20(1)(b.1) | 0 |
+| 20(1)(c) | 15 |
+| 20(1)(d) | 1 |
+| 20.1 | 0 |
+| 20.2 | 0 |
+| 20.4 | 0 |
+| 21(1)(a) | 19 |
+| 21(1)(b) | 22 |
+| 21(1)(c) | 3 |
+| 21(1)(d) | 2 |
+| 22 | 1 |
+| 22.1(1) | 0 |
+| 23 | 9 |
+| 23.1 | 0 |
+| 24(1) | 0 |
+| 26 | 0 |
+|  |  |
+| --- | --- |
+| Table 4.2 Footnotes  Table 4.2 Footnote 1  I.A.: International Affairs  [Return to table 4 footnote 1 referrer](#tbl4fn1-rf)  Table 4.2 Footnote 2  Def.: Defence of Canada  [Return to table 4 footnote 2 referrer](#tbl4fn2-rf)  Table 4.2 Footnote 3  S.A.: Subversive Activities  [Return to table 4 footnote 3 referrer](#tbl4fn3-rf) | |
+
+#### 4.3 Exclusions
+
+| Section | Number of requests |
+| --- | --- |
+| 68(a) | 6 |
+| 68(b) | 0 |
+| 68(c) | 0 |
+| 68.1 | 0 |
+| 68.2(a) | 0 |
+| 68.2(b) | 0 |
+| 69(1) | 0 |
+| 69(1)(a) | 0 |
+| 69(1)(b) | 0 |
+| 69(1)(c) | 0 |
+| 69(1)(d) | 0 |
+| 69(1)(e) | 0 |
+| 69(1)(f) | 0 |
+| 69(1)(g) re (a) | 0 |
+| 69(1)(g) re (b) | 0 |
+| 69(1)(g) re (c) | 0 |
+| 69(1)(g) re (d) | 0 |
+| 69(1)(g) re (e) | 0 |
+| 69(1)(g) re (f) | 0 |
+| 69.1(1) | 0 |
+
+#### 4.4 Format of information released
+
+| Paper | Electronic | | | | Other |
+| --- | --- | --- | --- | --- | --- |
+| E-record | Data set | Video | Audio |
+| 0 | 29 | 0 | 0 | 0 | 0 |
+
+#### 4.5 Complexity
+
+##### 4.5.1 Relevant pages processed and disclosed for paper, e-record and dataset formats
+
+| Number of pages processed | Number of pages disclosed | Number of requests |
+| --- | --- | --- |
+| 55,004 | 3175 | 38 |
+
+##### 4.5.2 Relevant pages processed per request disposition for paper, e-record and dataset formats by size of requests
+
+| Disposition | Less than 100  pages processed | | 100-500  pages processed | | 501-1000  pages processed | | 1001-5000  pages processed | | More than 5000 pages processed | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of requests | Pages processed | Number of requests | Pages processed | Number of requests | Pages processed | Number of requests | Pages processed | Number of requests | Pages processed |
+| All disclosed | 5 | 104 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Disclosed in part | 9 | 308 | 7 | 1945 | 1 | 674 | 4 | 11450 | 3 | 23924 |
+| All exempted | 3 | 15 | 1 | 484 | 0 | 0 | 1 | 1778 | 1 | 13272 |
+| All excluded | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Request abandoned | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 1050 | 0 | 0 |
+| Neither confirmed nor denied | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Declined to act with the approval of the Information Commissioner | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Total** | 19 | 427 | 8 | 2429 | 1 | 674 | 6 | 14278 | 4 | 37196 |
+
+##### 4.5.3 Relevant minutes processed and disclosed for audio formats
+
+| Number of minutes processed | Number of minutes disclosed | Number of requests |
+| --- | --- | --- |
+| 0 | 0 | 0 |
+
+##### 4.5.4 Relevant minutes processed per request disposition for audio formats by size of requests
+
+| Disposition | Less than 60 minutes processed | | 60 - 120 minutes processed | | More than 120 minutes processed | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Number of requests | Minutes processed | Number of requests | Minutes processed | Number of requests | Minutes processed |
+| All disclosed | 0 | 0 | 0 | 0 | 0 | 0 |
+| Disclosed in part | 0 | 0 | 0 | 0 | 0 | 0 |
+| All exempted | 0 | 0 | 0 | 0 | 0 | 0 |
+| All excluded | 0 | 0 | 0 | 0 | 0 | 0 |
+| Request abandoned | 0 | 0 | 0 | 0 | 0 | 0 |
+| Neither confirmed nor denied | 0 | 0 | 0 | 0 | 0 | 0 |
+| Declined to act with the approval of the Information Commissioner | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | **0** | **0** | **0** | **0** | **0** | **0** |
+
+##### 4.5.5 Relevant minutes processed and disclosed for video formats
+
+| Number of minutes processed | Number of minutes disclosed | Number of requests |
+| --- | --- | --- |
+| 0 | 0 | 0 |
+
+##### 4.5.6 Relevant minutes processed per request disposition for video formats by size of requests
+
+| Disposition | Less than 60 minutes processed | | 60 - 120 minutes processed | | More than 120 minutes processed | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Number of requests | Minutes processed | Number of requests | Minutes processed | Number of requests | Minutes processed |
+| All disclosed | 0 | 0 | 0 | 0 | 0 | 0 |
+| Disclosed in part | 0 | 0 | 0 | 0 | 0 | 0 |
+| All exempted | 0 | 0 | 0 | 0 | 0 | 0 |
+| All excluded | 0 | 0 | 0 | 0 | 0 | 0 |
+| Request abandoned | 0 | 0 | 0 | 0 | 0 | 0 |
+| Neither confirmed nor denied | 0 | 0 | 0 | 0 | 0 | 0 |
+| Declined to act with the approval of the Information Commissioner | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | **0** | **0** | **0** | **0** | **0** | **0** |
+
+##### 4.5.7 Other complexities
+
+| Disposition | Consultation required | Legal advice sought | Other | Total |
+| --- | --- | --- | --- | --- |
+| All disclosed | 1 | 0 | 0 | 1 |
+| Disclosed in part | 7 | 0 | 0 | 7 |
+| All exempted | 0 | 0 | 0 | 0 |
+| All excluded | 0 | 0 | 0 | 0 |
+| Request abandoned | 1 | 0 | 1 | 2 |
+| Neither confirmed nor denied | 0 | 0 | 0 | 0 |
+| Declined to act with the approval of the Information Commissioner | 0 | 0 | 0 | 0 |
+| Total | 9 | 0 | 1 | 10 |
+
+#### 4.6 Closed requests
+
+##### 4.6.1 Requests closed within legislated timelines
+
+|  |  |
+| --- | --- |
+| Number of requests closed within legislated timelines | 39 |
+| Percentage of requests closed within legislated timelines (%) | 90.69767442 |
+
+#### 4.7 Deemed refusals
+
+##### 4.7.1 Reasons for not meeting legislated timelines
+
+| Number of requests closed past the legislated timelines | Principal reason | | | |
+| --- | --- | --- | --- | --- |
+| Interference with operations/ workload | External consultation | Internal consultation | Other |
+| 4 | 0 | 0 | 0 | 4 |
+
+##### 4.7.2 Requests closed beyond legislated timelines (including any extension taken)
+
+| Number of days past legislated timelines | Number of requests past legislated timeline where no extension was taken | Number of requests past legislated timeline where an extension was taken | Total |
+| --- | --- | --- | --- |
+| 1 to 15 days | 0 | 1 | 1 |
+| 16 to 30 days | 0 | 0 | 0 |
+| 31 to 60 days | 0 | 0 | 0 |
+| 61 to 120 days | 0 | 0 | 0 |
+| 121 to 180 days | 0 | 0 | 0 |
+| 181 to 365 days | 0 | 0 | 0 |
+| More than 365 days | 1 | 2 | 3 |
+| Total | 1 | 3 | 4 |
+
+#### 4.8 Requests for translation
+
+| Translation requests | Accepted | Refused | Total |
+| --- | --- | --- | --- |
+| English to French | 0 | 0 | 0 |
+| French to English | 0 | 0 | 0 |
+| Total | **0** | **0** | **0** |
+
+#### Section 5: Extensions
+
+#### 5.1 Reasons for extensions and disposition of requests
+
+| Disposition of requests where an extension was taken | 9(1)(a) Interference with operations/ workload | 9(1)(b) Consultation | | 9(1)(c)  Third-party notice |
+| --- | --- | --- | --- | --- |
+| Section 69 | Other |
+| All disclosed | 0 | 0 | 1 | 0 |
+| Disclosed in part | 9 | 0 | 7 | 4 |
+| All exempted | 2 | 0 | 1 | 0 |
+| All excluded | 0 | 0 | 0 | 0 |
+| Request abandoned | 0 | 0 | 0 | 0 |
+| No records exist | 0 | 0 | 0 | 0 |
+| Declined to act with the approval of the Information Commissioner | 0 | 0 | 0 | 0 |
+| Total | 11 | 0 | 9 | 4 |
+
+#### 5.2 Length of extensions
+
+| Length of extensions | 9(1)(a) Interference with operations/ workload | 9(1)(b) Consultation | | 9(1)(c) Third-party notice |
+| --- | --- | --- | --- | --- |
+| Section 69 | Other |
+| 30 days or less | 3 | 0 | 0 | 0 |
+| 31 to 60 days | 0 | 0 | 0 | 0 |
+| 61 to 120 days | 1 | 0 | 2 | 0 |
+| 121 to 180 days | 1 | 0 | 1 | 0 |
+| 181 to 365 days | 1 | 0 | 1 | 0 |
+| 365 days or more | 5 | 0 | 5 | 4 |
+| Total | 11 | 0 | 9 | 4 |
+
+### Section 6: Fees
+
+| Fee type | Fee collected | | Fee waived | | Fee refunded | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Number of requests | Amount | Number of requests | Amount | Number of requests | Amount |
+| Application | 29 | $145.00 | 9 | $45.00 | 0 | $0.00 |
+| Other fees | 0 | $0.00 | 0 | $0.00 | 0 | $0.00 |
+| Total | 29 | $145.00 | 9 | $45.00 | 0 | $0.00 |
+
+### Section 7: Consultations received from other institutions and organizations
+
+#### 7.1 Consultations received from other Government of Canada institutions and other organizations
+
+| Consultations | Other Government of Canada institutions | Number of pages to review | Other organizations | Number of pages to review |
+| --- | --- | --- | --- | --- |
+| Received during the reporting period | 43 | 1392 | 0 | 0 |
+| Outstanding from the previous reporting period | 0 | 0 | 0 | 0 |
+| **Total** | 43 | 1392 | 0 | 0 |
+| Closed during the reporting period | 43 | 1392 | 0 | 0 |
+| Carried over within negotiated timelines | 0 | 0 | 0 | 0 |
+| Carried over beyond negotiated timelines | 0 | 0 | 0 | 0 |
+
+#### 7.2 Recommendations and completion time for consultations received from other Government of Canada institutions
+
+| Recommendation | Number of days required to complete consultation requests | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 to 15 days | 16 to 30 days | 31 to 60 days | 61 to 120 days | 121 to 180 days | 181 to 365 days | More than 365 days | Total |
+| Disclose entirely | 16 | 2 | 0 | 0 | 0 | 0 | 0 | 18 |
+| Disclose in part | 13 | 10 | 0 | 0 | 0 | 0 | 0 | 23 |
+| Exempt entirely | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Exclude entirely | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Consult other institution | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Other | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Total | 31 | 12 | 0 | 0 | 0 | 0 | 0 | 43 |
+
+#### 7.3 Recommendations and completion time for consultations received from other organizations outside the Government of Canada
+
+| Recommendation | Number of days required to complete consultation requests | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 to 15 days | 16 to 30 days | 31 to 60 days | 61 to 120 days | 121 to 180 days | 181 to 365 days | More than 365 days | Total |
+| Disclose entirely | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Disclose in part | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Exempt entirely | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Exclude entirely | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Consult other institution | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Other | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+### Section 8: Completion time of consultations on Cabinet Confidences
+
+#### 8.1 Requests with legal services
+
+| Number of days | Fewer than 100  pages processed | | 100-500  pages processed | | 501-1000  pages processed | | 1001-5000  pages processed | | More than 5000  pages processed | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of requests | Pages disclosed | Number of requests | Pages disclosed | Number of requests | Pages disclosed | Number of requests | Pages disclosed | Number of requests | Pages disclosed |
+| 1 to 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 to 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 31 to 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 61 to 120 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 121 to 180 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 181 to 365 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| More than 365 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+#### 8.2 Requests with Privy Council Office
+
+| Number of days | Fewer than 100  pages processed | | 100-500  pages processed | | 501-1000  pages processed | | 1001-5000  pages processed | | More than 5000  pages processed | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of requests | Pages disclosed | Number of requests | Pages disclosed | Number of requests | Pages disclosed | Number of requests | Pages disclosed | Number of requests | Pages disclosed |
+| 1 to 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 to 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 31 to 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 61 to 120 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 121 to 180 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 181 to 365 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| More than 365 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+### Section 9: Investigations and reports of finding
+
+#### 9.1 Investigations
+
+| Section 32 Notice of intention to investigate | Subsection 30(5) Ceased to investigate | Section 35 Formal representations |
+| --- | --- | --- |
+| 2 | 0 | 0 |
+
+#### 9.2 Investigations and reports of finding
+
+| Section 37(1) Initial reports | | | Section 37(2) Final reports | | |
+| --- | --- | --- | --- | --- | --- |
+| Received | Containing recommendations issued by the Information Commissioner | Containing an intent to issue an order by the Information Commissioner | Received | Containing recommendations issued by the Information Commissioner | Containing orders issued by the Information Commissioner |
+| 0 | 0 | 0 | 0 | 0 | 0 |
+
+### Section 10: Court action
+
+#### 10.1 Court actions on complaints
+
+| Section 41 | | | | |
+| --- | --- | --- | --- | --- |
+| Complainant (1) | Institution (2) | Third party (3) | Privacy Commissioner (4) | Total |
+| 0 | 0 | 0 | 0 | 0 |
+
+#### 10.2 Court actions on third party notifications under paragraph 28(1)(b)
+
+**Section 44 - under paragraph 28(1)(b):** 0
+
+### Section 11: Resources related to the Access to Information Act
+
+#### 11.1 Allocated costs
+
+| Expenditures | Amount |
+| --- | --- |
+| Salaries | $285,370 |
+| Overtime | $0 |
+| Goods and services | $132,446 |
+| Professional services contracts | $116,622 |
+| Other | $15,824 |
+| Total | **$417,816** |
+
+#### 11.2 Human resources
+
+| Resources | Person years dedicated to access to information activities |
+| --- | --- |
+| Full-time employees | 1.360 |
+| Part-time and casual employees | 0.230 |
+| Regional staff | 1.400 |
+| Consultants and agency personnel | 0.700 |
+| Students | 0.000 |
+| Total | 3.690 |
+|  |  |
+| --- | --- |
+| **Note:** Enter values to three decimal places. | |
+
+## Supplemental Statistical Report on the Access to Information Act and the Privacy Act
+
+**Name of institution:** Office of the Superintendent of Financial Institutions
+
+**Reporting period:** 2023-04-01 to 2024-03-31
+
+### Section 1: Open Requests and Complaints Under the Access to Information Act
+
+#### 1.1 Enter the number of open requests that are outstanding from previous reporting periods
+
+| Fiscal Year Open Requests Were Received | Open Requests that are **Within** Legislated Timelines as of  March 31, 2024 | Open Requests that are **Beyond** Legislated Timelines as of  March 31, 2024 | Total |
+| --- | --- | --- | --- |
+| Received in 2023-24 | 8 | 0 | **8** |
+| Received in 2022-23 | 0 | 0 | **0** |
+| Received in 2021-22 | 0 | 0 | **0** |
+| Received in 2020-21 | 0 | 0 | **0** |
+| Received in 2019-20 | 0 | 0 | **0** |
+| Received in 2018-19 | 0 | 0 | **0** |
+| Received in 2017-18 | 0 | 0 | **0** |
+| Received in 2016-17 | 0 | 0 | **0** |
+| Received in 2015-16 | 0 | 0 | **0** |
+| Received in 2014-15 or earlier | 0 | 0 | **0** |
+| Total | **8** | **0** | **8** |
+
+| Fiscal Year Open Complaints Were Received by Institution | Number of Open Complaints |
+| --- | --- |
+| Received in 2023-24 | 2 |
+| Received in 2022-23 | 1 |
+| Received in 2021-22 | 1 |
+| Received in 2020-21 | 0 |
+| Received in 2019-20 | 0 |
+| Received in 2018-19 | 0 |
+| Received in 2017-18 | 0 |
+| Received in 2016-17 | 0 |
+| Received in 2015-16 | 0 |
+| Received in 2014-15 or earlier | 0 |
+| Total | **4** |
+
+#### 1.2 Enter the number of open complaints with the Information Commissioner of Canada that are outstanding from previous reporting periods
+
+| Fiscal Year Open Complaints Were Received by Institution | Number of Open Complaints |
+| --- | --- |
+| Received in 2023-24 | 2 |
+| Received in 2022-23 | 1 |
+| Received in 2021-22 | 1 |
+| Received in 2020-21 | 0 |
+| Received in 2019-20 | 0 |
+| Received in 2018-19 | 0 |
+| Received in 2017-18 | 0 |
+| Received in 2016-17 | 0 |
+| Received in 2015-16 | 0 |
+| Received in 2014-15 or earlier | 0 |
+| Total | **4** |
+
+### Section 2: Open Requests and Complaints Under the Privacy Act
+
+#### 2.1 Enter the number of open requests that are outstanding from previous reporting periods
+
+| Fiscal Year Open Requests Were Received | Open Requests that are **Within** Legislated Timelines as of  March 31, 2024 | Open Requests that are **Beyond** Legislated Timelines as of  March 31, 2024 | Total |
+| --- | --- | --- | --- |
+| Received in 2023-24 | 0 | 0 | **0** |
+| Received in 2022-23 | 0 | 0 | **0** |
+| Received in 2020-21 | 0 | 0 | **0** |
+| Received in 2019-20 | 0 | 0 | **0** |
+| Received in 2018-19 | 0 | 0 | **0** |
+| Received in 2017-18 | 0 | 0 | **0** |
+| Received in 2016-17 | 0 | 0 | **0** |
+| Received in 2015-16 | 0 | 0 | **0** |
+| Received in 2014-15 or earlier | 0 | 0 | **0** |
+| Total | 0 | 0 | **0** |
+
+#### 2.2 Enter the number of open complaints with the Privacy Commissioner of Canada that are outstanding from previous reporting periods
+
+| Fiscal Year Open Complaints Were Received by Institution | Number of Open Complaints |
+| --- | --- |
+| Received in 2023-24 | 0 |
+| Received in 2022-23 | 0 |
+| Received in 2021-22 | 0 |
+| Received in 2020-21 | 0 |
+| Received in 2019-20 | 0 |
+| Received in 2018-19 | 0 |
+| Received in 2017-18 | 0 |
+| Received in 2016-17 | 0 |
+| Received in 2015-16 | 0 |
+| Received in 2014-15 or earlier | 0 |
+| Total | **0** |
+
+### Section 3: Social Insurance Number
+
+**Has your institution begun a new collection or a new consistent use of the SIN in 2023-24? :** no
+
+### Section 4: Universal Access under the Privacy Act
+
+**How many requests were received from foreign nationals outside of Canada in 2023-24? :** 0
+
+## Appendix B – Designation order: Access to Information Act
+
+**Designation / Délégation**
+
+Access to Information Act / Loi sur l’accès à l’information
+
+Designation Order for the Access to Information Act and the Privacy Act
+
+By this order made pursuant to sections 95(1) of the Access to Information Act and 73(1) of the Privacy Act, I hereby authorize those officers and employees of the Office of the Superintendent of Financial Institutions occupying, on an acting basis or otherwise, the positions identified within the attached schedule to perform on my behalf any of the powers, duties or functions specified therein.
+
+This designation replaces and repeals all previous orders.
+
+Dated in Ottawa on this 23rd day of January, 2024
+
+Arrêté sur la délégation en vertu de la Loi sur l’accès à l’information et la Loi sur la protection des renseignments personnels
+
+Par le présent arrêté pris en vertu des l’articles 95(1) de la Loi sur l’accès à l’information et 73(1) de la Loi sur la protection des renseignments personnels, j’autorise les agents et les employés du Bureau du surintendant des institutions financières occupant, par intérim ou autrement, les postes identifiés dans l’annexe ci-jointe à exercer en mon nom, les attributions, les fonctions et les pouvoirs qui y sont spécifiés.
+
+Le présent document remplace et annule tous les arrêtés antérieurs.
+
+Fait à Ottawa en ce 23ième jour de janvier 2024
+
+Peter Routledge  
+Superintendent of Financial Institutions/  
+Le surintendant des institutions financères
+
+## Schedules
+
+| Position / Poste | Access to information Act and Regulations / Loi sur l’accès à l’information et règlements | Privacy Act and Regulations / Loi sur la protection des renseignements personnels et règlements |
+| --- | --- | --- |
+| Assistant Superintendent, Chief Operating Officer | Full authority / Autorité absolue | Full authority / Autorité absolue |
+| Chief of Staff, Assistant Superintendent, Chief Operating Officer | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+| Chief Financial Officer | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+| Director, Central Office | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+| Manager, Access to Information and Privacy | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+| Manager, Privacy | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-11-06

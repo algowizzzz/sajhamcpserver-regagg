@@ -1,0 +1,24 @@
+{
+  "doc_id": "2ac0149c88d4b974",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Prepaid  payment products and prepaid payment product accounts",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/prepaid-prepaye/1-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0ee7ba37f706aebabae8efdb40d68bc35db9eb2f20a8080234bf255637d4a7ab",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/2ac0149c88d4b974",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

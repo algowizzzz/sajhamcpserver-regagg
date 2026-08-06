@@ -1,0 +1,26 @@
+{
+  "doc_id": "5bf75295cea7f415",
+  "regulator_id": "iosco",
+  "doc_type": "announcement",
+  "title": "IOSCO",
+  "language": "en",
+  "source_url": "https://www.iosco.org/v2/media_room/?subsection=requests-for-logo",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:81327a932deeb925eaff7ea68acd8b570e10fba84b453e51c0c8ebd9a8adda0a",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_iosco_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iosco/current/announcement/2026/5bf75295cea7f415",
+  "tags": [
+    "international",
+    "securities"
+  ],
+  "final_url": "https://www.iosco.org/v2/media_room/?subsection=requests-for-logo",
+  "fetch_method": "html_to_md"
+}

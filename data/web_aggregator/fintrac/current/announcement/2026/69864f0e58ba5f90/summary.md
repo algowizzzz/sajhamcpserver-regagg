@@ -1,0 +1,1 @@
+Summary: # Déclaration sur l’utilisation de l’intelligence artificielle par CANAFE

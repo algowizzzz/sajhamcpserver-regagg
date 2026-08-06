@@ -1,0 +1,974 @@
+Regulatory Reporting System 
+Regulatory Reporting System (RRS) 
+Manage Financial Returns User Guide for 
+Deposit Taking Institutions 
+January 2021
+
+Table of Contents 
+1.0 Introduction........................................................................................................................ 1 
+1.1 Using this Document .............................................................................................................................................. 1 
+1.2 Technical Requirements ............................................................................................................................. 1 
+1.3 Support............................................................................................................................................................. 2 
+2.0 Logging into RRS ............................................................................................................... 3 
+2.1 Log into RRS.................................................................................................................................................... 4 
+2.2 Logging in for the First Time .................................................................................................................... 6 
+2.3 Resetting Your RRS Password ..........................................................................................................................10 
+3.0 Managing Financial Returns ...................................................................................................14 
+3.1 Completing and Submitting a Financial Return via Data Upload..............................................15 
+3.2 Completing and Submitting a Return Manually..............................................................................25 
+3.3 Viewing a Financial Return ................................................................................................................................33 
+3.4 Viewing Errors ..............................................................................................................................................40 
+3.5 Correcting Validation Errors on a Financial Return.........................................................................41 
+3.6 Revising an Accepted Return..................................................................................................................55 
+4.0 Viewing Reports........................................................................................................................61 
+5.0 Viewing Documents .................................................................................................................64 
+6.0 Viewing Organization Profile .......................................................................................... 66 
+7.0 Managing Your Details............................................................................................................70 
+8.0 Managing Notifications...........................................................................................................75 
+9.0 Accessing Help.................................................................................................................. 77 
+10.0 Logging Out...................................................................................................................... 79 
+10.1 Inactivity Logout .....................................................................................................................................................79 
+11.0 Tips, Tricks and Troubleshooting.................................................................................... 80 
+11.1 Saving Your Work .......................................................................................................................................80 
+11.2 Microsoft Excel.............................................................................................................................................80 
+11.3 Two Users Working on the Same Return ...................................................................................................80
+
+Page iii 
+11.4 Printing Returns...........................................................................................................................................80 
+12.0 Glossary............................................................................................................................. 81
+
+Page iv 
+Version History 
+Version Changes Date 
+1.0 Original release 19/08/2013 
+1.1 • Added “To revise data on multiple returns that cross-validate” to Section 4.0 
+• Added Version History table 
+11/09/2013 
+1.2 • Corrected typo in Section 9.0 Managing Notifications 
+• Added Submit Return Accepted screen to Section 4.0 
+• Added Revising an Accepted Return sub-section to Section 4.0 
+• Added information to Organization Profile section 
+• Updated Glossary 
+21/03/2014 
+1.3 • Reference update on connection – replaced “Secure Site” for BoC Connect 
+• Update on Technical Requirements 
+07/01/2021
+
+Page 5 
+1.0 Introduction 
+The RRS Portal application (referred to as RRS or the RRS application from this point) provides 
+access for Federally Regulated Financial Institutions (FRFIs) to submit regulatory return 
+information. With RRS you can complete and submit returns, request a return submission, view 
+reports, view documents and manage your user details. 
+To access RRS you will need a Bank of Canada’s BoC Connect User account. 
+The first time you access RRS, you will set up your account, which involves setting your password 
+and
+ preferred language. 
+This guide details how to use RRS to complete and submit financial returns. To complete and 
+submit
+ corporate returns refer to the Manage Corporate Returns User Guide. 
+1.1 Using this Document 
+This document uses the following conventions to increase clarity: 
+• Bold text indicates a selection or data field to be filled in. 
+• Italics indicate a reference to a section within this document or a page within the BoC 
+Connect. 
+In addition, there are three types of sidebars, each identified by an icon: 
+Information – These sidebars contain extra detail, or describe optional steps. 
+Caution – The se sidebars point out a possibility that may cause unexpected 
+behaviour and tell you how to correct the issue, if you encounter it. 
+Warning – These sid ebars alert you to something important that can affect your 
+ability to use RRS. 
+1.2 Technical Requirements 
+For best performance, the following technical requirements are recommended: 
+• Google Chrome 58 
+• Microsoft Internet Explorer version 11 or Edge 
+• Firefox ESR52 
+• Cookies enabled
+
+Page 6 
+• JavaScript enabled, and 
+• Microsoft Excel 2003 or higher (to download information into Excel format) 
+Note that the BoC Connect and RRS application have been tested and certified with the 
+specif
+ied web browser. 
+1.3 Support 
+If you encounter an issue or problem with the RRS application that isn’t covered by this Guide, 
+you can: 
+• Contact your organization’s LRA 
+• Contact the Bank of Canada at 1-855-865-8636 
+• Contact the Returns Administration group at OSFI at (613) 991-0609 for issues related 
+to corporate returns
+
+Page 7 
+2.0 Logging into RRS 
+To log into RRS, you need to be logged into the Bank of Canada’s BoC Connect. Once logged 
+into the BoC Connect the RRS login pagedisplays. 
+• If you are logging into RRS for the first time, see 2.2: Logging in for the FirstTime. 
+• If you have forgotten your RRS password, see 2.3: Resetting Your RRS Password. 
+Refer to the BoC Connect User Guide for information on logging into the Bank 
+of
+ Canada’s BoC Connect. 
+2.1 Log into RRS 
+To log into RRS: 
+Begin at the RRS Login page. 
+Figure 2-1: Login Page 
+1. In the Username field, enter your RRS Username. 
+2. In the Password field, enter your RRS Password. 
+3. Click Login to continue. 
+Incorrect Login Attempts:
+
+4. After five incorrect login attempts, your account will be locked out. If this 
+happens, yo
+u can click the Forgotten Password link to reset your account. See 
+2.3: 
+Resetting Your RRS Password for more information. 
+Organization Selection: 
+You can be associated with more than one organization in RRS. Follow the steps 
+belo
+w to select the organization that you would like to work on. 
+If you have permission to access more than one organization: 
+1. Follow the steps above to log in. 
+The Select or ganization page displays. 
+Figure 2-2: Select Organization Page 
+2. Click the drop-down menu. 
+3. Select the name of the organization you want to access. 
+4. Click Login. 
+The Welcome page displays with the word “Change” beside your username indicating that 
+you belo
+ng to more than one organization. 
+To change the organization selection: 
+1. Click the Change link at the end of your username. 
+Page 8
+
+Figure 2-3: Change Organization Page 
+Follow the steps above to change the organization. 
+2.2 Logging in for the First Time 
+The first time you log into RRS, you’ll be asked to update your temporary password. This 
+process involves entering a new password and setting your language preference. 
+To log into RRS for the first time: 
+Begin at the RRS Login page. 
+Page 9
+
+Figure 2-4: Login Page 
+1. In the Username field, enter your RRS Username. 
+2. In the Password field, enter the temporary RRS Password given to you in an email 
+enti
+tled “New Portal User Account”. 
+3. Click Login. 
+Page 10
+
+Page 11 
+Figure 2-5: Update My Password Page 
+4. In the Current password field, enter your temporary RRS Password. 
+5. In the New password field, enter a new RRS Password. 
+Passwords: 
+Ensure your new password meets the following valid password criteria: passwords 
+must be bet
+ween 8 and 30 characters and contain 1 uppercase letter, 1 lowercase 
+letter, 1 number and one special character. 
+6. In the Confirm new password field, re-enter your new RRSPassword. 
+7. Click Save to set your RRS Password. 
+The My User Details page displays. From here you can set your preferred language.
+
+Page 12 
+Figure 2-6: Update My Password Page 
+8. Click the drop-down menu in the Language of preference field. 
+9. Select your preferred language. 
+10. Click Update. 
+Your preferred language is now set. Each time you log in, RRS will display in your preferred 
+lang
+uage. 
+Language: 
+Although your preferred language is set, you can change the language during 
+a se
+ssion by clicking the drop-down menu on the language field below the 
+Logout link on the top right of each page in the application. The language 
+reverts back to the original setting when you logout.
+
+2.3 Resetting Your RRS Password 
+The RRS Password reset functionality allows you to reset your forgotten password. 
+To reset your password: 
+Begin at the Login page. 
+Figure 2-7: Login Page 
+1. From the Login page, click the Forgotten Password link. 
+Page 13
+
+Figure 2-8: Forgotten Password Page 
+2. In the Email address field, enter your email address registered in RRS. 
+3. Click Submit. The Forgotten Password page informs you that a temporary password has 
+been emai
+led to you. 
+4. Navigate to your email and search for an email entitled “Account Reactivation”. 
+5. Copy the new password and navigate back to RRS. 
+6. Click the Home menu item. 
+Page 14
+
+Figure 2-9: Login Page 
+7. Enter your username. 
+8. Enter your temporary password. 
+9. Click Login. 
+Page 15
+
+Page 16 
+Figure 2-10: Update My Password Page 
+10. Enter your temporary password in the Current password field. 
+11. Enter your new password in the New password field. Ensure your new password meets the 
+fo
+llowing valid password criteria: passwords must be between 8 and 30 characters and 
+contain 1 uppercase letter, 1 lowercase letter, 1 number and one special character. 
+12. Re-enter your new password in the Confirm new password field. 
+13. Click Save. 
+14. If necessary, you can update your telephone number or language ofpreference. 
+15. Click Update.
+
+Page 17 
+3.0 Managing Financial Returns 
+RRS provides functionality to complete and submit financial returns to the Bank of Canada 
+(BoC), the Office of the Superintendent of Financial Institutions (OSFI) and/or the Canada 
+Deposit Insurance Corporation (CDIC). This section covers how to complete and submit financial 
+returns, how to view returns, and how to view and correct errors in a financialreturn. 
+There are two ways to complete and submit a financial return in RRS. One way is to upload a 
+da
+ta file which is detailed in 3.1: Complete and Submit a Return via Data Upload. The other way 
+is to enter data manually into the system which is detailed in 3.2: Complete and Submit a Return 
+Manually. 
+Rules and Errors 
+Whether you are entering information manually into a return or uploading data, the data is 
+va
+lidated against rules that are set up within each return. Two separate sets of rules are used to 
+validate returns: structural and validation. Structural rules validate the format and structure of 
+the data being reported, such as entering numeric versus textual information as appropriate. 
+Validation rules validate the accuracy of the data being reported, such as a set of data points 
+summing to a total correctly. Depending on how a return is configured in the application, 
+structural validation occurs when the Validate and Save button is clicked or when a file is 
+uploaded. When you attempt to submit a return, validation rules are applied. If a return fails 
+validation you are presented with an error message. Returns with errors, display with a white 
+exclamation mark in a red circle on the Draft Returns page. In the event of an error, you will 
+need to correct the information to continue. 
+Validation rules can be applied to specific sections of a return, but if any section fails validation, 
+the ret
+urn cannot be processed as the entire return needs to be valid before it can be submitted. 
+Validation rules are documented in the Return Rules report specific to each return type. Return 
+Rules reports can be found in the RRS Documents menu item. 
+Return Processing 
+Returns are processed by the application, either online or offline depending on how they have 
+been conf
+igured. For returns that are successfully processed online, RRS displays a page 
+informing you that the submission has been accepted as shown in Figure 3-9 below. If RRS 
+detects an error in a return processed online, the errors are displayed on-screen immediately 
+following the validation process, either upon selecting “Validate and Save” for structural rules or 
+upon attempted submission for validation rules. For returns processed offline, RRS alerts you to 
+errors via email as well as displaying a new entry in the Notifications section of the RRS Portal 
+Welcome page. 
+Note: Most financial returns are processed online. Only dimensional returns are processed 
+off
+line.
+
+Refer to the List of Returns on the RRS Information page for more information on returns and 
+how they are processed. 
+Draft Return Key Icons 
+The Draft Return page displays icons that are used to depict specific return information. The key 
+icons a
+re described as follows: 
+Figure 3-2: Draft Return Key 
+Form Set: a double set of folders represents an entire return which could consist of one or 
+many forms, also known as sections. 
+Folder: a single folder represents a structural grouping of forms, also known as sections. 
+Repeatable Folder: a single folder with blue arrows indicates a folder that has repeatable 
+sectio
+ns. Repeatable Folders are only applicable to corporate returns. 
+Form: a page symbol indicates a section within a return. 
+Add Section: a page with a green plus sign allows forms, also known as sections, to be added 
+to a
+ return where applicable. 
+Ready to Submit: the white check mark in a green circle symbol indicates the return has been 
+vali
+dated, meaning that it has passed structural rules and is ready to submit. 
+In Draft: the pencil symbol indicates this return has been saved as a draft and not yet validated 
+No Data – Mandatory: the red star symbol indicates there is no data in this return and that 
+manda
+tory fields exist. 
+Note: the absence of a red star on a return or return section indicates there are no mandatory 
+fields
+. 
+3.1 Completing and Submitting a Financial Return via Data Upload 
+Financial returns can be completed and submitted using the Upload Data feature in RRS. 
+File Formats 
+The acceptable file formats for uploading data to RRS are (depending on the 
+return): .n
+, .c, .dat, and .tape. 
+Page 18
+
+To upload a financial return: 
+Begin at the Welcome page. 
+Figure 3-1: Welcome Page 
+Page 19
+
+1. Click the Draft Returns menu item. 
+Figure 3-2: Draft Returns Page 
+Return Revision 
+The revision column of the Draft Returns page displays the current revision 
+number of t
+he return. Draft returns are displayed at 0.1 for the first draft and each 
+subsequent revision increases by a whole number such as 1.1, 2.1, etc. 
+The revision column of the Submission History page displays the current revision 
+number of t
+he return. Submitted returns display on the Submission History page 
+as revision 1.0 for the first submission and each subsequent submission increases 
+by a whole number such as 2.0, 3.0, etc. 
+Page 20
+
+2. Click the return name to be completed. 
+Page 21
+
+Page 22
+
+Figure 3-3: Draft Return Page 
+Page 23
+
+3. Click the Upload Data link. 
+Figure 3-4: Upload Data Page 
+Page 24
+
+4. Click Browse and select the return data file. 
+Figure 3-5: Windows Explorer Upload File Page 
+5. Click Open. 
+Incorrect File Format 
+Using an incorrect file format for uploading data will cause an error in RRS. Be 
+sure
+ to use the acceptable file formats. 
+Dimensional and Conventional Returns 
+Page 25
+
+Page 26 
+For dimensional returns, the process ends here. For conventional (or all other 
+returns), proceed with steps 6 through 9.
+
+6. Hover your mouse over the Submission menu item. 
+Figure 3-6: Submission Menu Drop-Down Page 
+7. Click the Submit Return sub-menu item. The Submit Return page displays a list of 
+returns 
+that are ready to be submitted. 
+Page 27
+
+Page 28 
+Figure 3-7: Submit Return Page 
+8. In the Action column, click the Submit link of the return to be submitted.
+
+Page 29 
+Figure 3-8: Submit Return – Submit Button Page 
+9. Click Submit.
+
+Page 30 
+Figure 3-9: Submit Return – Submission Accepted Page 
+If a virus is detected during upload: 
+Uploaded files are scanned for viruses. If a virus is detected the file will not be 
+uploa
+ded. 
+If an error occurred: 
+If your return has errors, they will either be displayed on-screen or emailed to you. 
+Errors that are emailed to you also display in the Notifications section of the 
+Welco
+me page.
+
+Page 31 
+3.2 Completing and Submitting a Return Manually 
+To manually enter a return: 
+Begin at the RRS Welcome page. 
+Figure 3-10: Welcome Page 
+1. Navigate and click the Draft Returns menu item.
+
+Page 32 
+Figure 3-11: Draft Returns Page 
+2. Click the return name to be completed.
+
+Page 33 
+Figure 3-12: Draft Return Page 
+3. Click the Edit link.
+
+Page 34 
+Figure 3-13: Display of Return Page 
+4. Enter data in the appropriate fields. 
+5. Scroll to the bottom right of the return. 
+Figure 3-14: Validate and Save Page
+
+At this point the return can be either saved as a draft or validated and saved. Saving a return as 
+a draft leaves it on the Draft Returns page with a status of In Draft meaning it has not been 
+validated. Validating and saving the return indicates that the return is complete and ready for 
+attempted submission. 
+6. Click the Validate & Save button. 
+If your return fails structural rules: 
+A message or messages displays on-screen informing you that there was an issue 
+wit
+h the return that would need to be corrected prior to submission. See 
+Section 3.6 for more information on errors. 
+7. Navigate over the Submission menu item. 
+Page 35
+
+Page 36
+
+Page 37 
+Figure 3-15: Submission Menu Drop-Down Page
+
+Page 38 
+8. Click the Submit Return sub-menu item. 
+The Submit Return page displays a list of returns that are ready to be submitted. 
+Figure 3-16: Submit Return Page 
+9. In the Action column, click the Submit link of the return to be submitted.
+
+Page 39 
+Figure 3-17: Submit Return - Submit Button Page 
+10. Click Submit.
+
+Page 40 
+Figure 3-19: Submit Return – Submission Accepted Page 
+If your return fails validation rules: 
+A message or messages displays on-screen informing you that there was an issue 
+wit
+h the return that would need to be corrected before it could be processed 
+further. See Section 3.6 for more information on errors.
+
+Page 41 
+3.3 Viewing a Financial Return 
+Financial returns can be viewed prior to and after being submitted. Use the Draft Returns menu 
+item to view returns that have not been submitted and use the Submission History sub-menu 
+item to view returns that have been submitted. These menu items can also be used to view the 
+Audit Log of a return which is a record of each revision of a completed or in-draft return. 
+To view a draft return: 
+Begin at the Welcome page. 
+Figure 3-19: Welcome Page 
+1. Click the Draft Returns menu item.
+
+Page 42 
+Figure 3-20: Draft Returns Page 
+2. Click the name of the return to be viewed.
+
+Page 43 
+Figure 3-21: Draft Return Page 
+3. Click the View link to view the return, or, if there is more than one return section, click 
+the View lin
+k to view each section separately.
+
+Page 44 
+Figure 3-22: Display of Return Page 
+4. Using the scroll bars, view the draft return.
+
+Page 45 
+To view the audit log of a draft financial return: 
+Begin at the Draft Returns page. 
+Figure 3-23: Draft Returns Page 
+1. Click the revision number of the return. The View Audit Log page opens displaying 
+information such as what action was taken, who performed the action and when it was 
+done.
+
+Page 46 
+Figure 3-24: View Audit Log Draft Page
+
+Page 47 
+To view a submitted financial return: 
+Begin at the Welcome page. 
+Figure 3-25: Welcome Page 
+1. Navigate your mouse over the Submission menu item. 
+2. Click the Submission History sub-menu item.
+
+Page 48 
+Figure 4-26: Submission History Page 
+Return Revision 
+The revision column of the Submission History page displays the current revision 
+number of t
+he return. Submitted returns display on this page as revision 1.0 for 
+the first submission and each subsequent submission increases by a whole 
+number such as 2.0, 3.0, etc.
+
+Page 49 
+3. Click the name of the return to be viewed. 
+Figure 3-27: View Return Page
+
+4. Click the View link to view the return, or, if there is more than one return section, click 
+the View link for each section to be viewed. 
+5. Using the scroll bars, view the submitted return. 
+To view the audit log of a submitted financial return: 
+Begin at the Submission History page. 
+1. Click the revision number of the return. The Audit Log page opens displaying 
+inf
+ormation such as what action was taken, who performed the action and when it was 
+done. 
+Figure 3-28: View Audit Log Submit Page 
+Page 50
+
+Page 51 
+3.4 Viewing Errors 
+To view errors: 
+Begin at the Welcome page. 
+1. Click the Draft Returns menu item. 
+Figure 3-29: Draft Returns Page 
+2. Locate a return with an error icon next to the status (white circle with an exclamation mark) 
+3. Click the error icon or the status to open the Validation Issues page. 
+Figure 3-30: Validation Issues Page
+
+Page 52 
+3.5 Correcting Validation Errors on a Financial Return 
+If a return does not pass validation, you will be informed via an error message that either 
+displays on-screen for most returns or in an email for dimensional returns that are processed 
+offline. The error message specifies the rule, or rules, that have failed. You will need to correct 
+the data in order to submit the return. Cross-validation errors can also occur. 
+To re-validate a return entered via data upload: 
+Errors in the data: 
+To complete and re-validate a return entered via a data file upload, the data file 
+must be cor
+rected prior to being re-loaded in RRS. 
+Begin at the Draft Returns page. 
+Figure 3-31: Draft Returns Page 
+1. Click the return name to open the return.
+
+Page 53 
+Figure 3-32: Draft Return Page 
+2. Click the Upload Data link.
+
+Page 54 
+Figure 3-33: Upload Data Page 
+3. Click Browse to navigate to the appropriate corrected file.
+
+Page 55 
+Figure 3-34: Windows Explorer Upload File Page 
+4. Select the appropriate corrected file. 
+5. Click Open. The file is uploaded. 
+Manual Correction: 
+If the return has an online display, you could also make the correction in the 
+return manu
+ally in the web form.
+
+Page 56 
+To re-validate a financial return entered manually: 
+Begin at the Draft Returns page. 
+Figure 3-35: Draft Returns Page
+
+Page 57 
+1. Click the return name to open the return. 
+Figure 3-36: Draft Return Page 
+2. Click the Edit link.
+
+Page 58 
+Figure 3-37: Display of Return Page 
+3. Correct the appropriate data. 
+4. Click Validate & Save. The return is updated. 
+To correct cross-return validation errors: 
+As validation rules validate data within a return and across returns, correcting cross-return 
+val
+idation errors involves working with multiple returns. In the following example, two returns 
+are being submitted; the M4 and the L4. The M4 was submitted successfully, but the L4 fails 
+validation as one of its data points does not agree with the M4. You have confirmed that the L4 
+data is correct. This scenario requires that the M4 be corrected (to match the data point on the 
+L4) and then re-submitted. To correct data in a submitted return a resubmission request for the 
+M4 must be performed. 
+Data point XXXX on the L4 return must be equal to the sum of two data points on the M4 return. 
+The t
+otal on the L4 is correct, which means one or both of the data point on the M4 now need 
+to be revised and the return needs to be re-submitted. Before it can be revised, a resubmission 
+request needs to be made.
+
+Page 59 
+Begin at the Request Resubmission page. 
+Figure 3-38: Request Resubmission Page 
+1. Click the Request Resubmission link in the Action column for the L4 return. 
+Resubmission Requests: 
+Resubmission requests are automatically granted in RRS.
+
+Page 60 
+Figure 3-39: Request Resubmission Text Entry Page 
+2. Enter a brief explanation for requesting the resubmission in the Request Resubmission 
+pag
+e. 
+3. Click the Send Request button. 
+Figure 3-40: Request Resubmission Confirm Page
+
+Page 61 
+4. Click the Confirm button on the confirmation page. The L4 is now ready to be 
+corrected and re-submitted. 
+Figure 3-41: Request Resubmission Final Page 
+5. Click the Draft Returns menu item to open the Draft Returns page. 
+Figure 3-42: Draft Returns Page 
+6. Click the L4 return to select it.
+
+Page 62 
+Figure 3-43: Draft Return Page 
+7. Click the Edit link to open the return for manual entry.
+
+Page 63 
+Figure 3-44: Display of M4 Page 
+8. Scroll down to locate the data point in error and enter the correct value.
+
+Page 64 
+9. Scroll down and to the right and click the Validate & Save button to validate the 
+structural rules on this return. This return is now ready to besubmitted. 
+10. Hover over the Submission menu item and click Submit Return. 
+11. Click the Submit link in the Action column for this return. 
+Figure 3-45: Submit Return Page 
+12. Click the Submit button to submit the L4 return.
+
+Page 65 
+Figure 3-46: Submit Return Final Page 
+Now that the M4 has been revised to match the C3 and was successfully resubmitted, the C3 can 
+be submitted. 
+13. Hover over the Submission menu item and click Submit Return. 
+14. Click the Submit link in the Action column for the M4 return.
+
+Page 66 
+3.6 Revising an Accepted Return 
+Revisions to returns that have been submitted and accepted by RRS can be made using the 
+request resubmission feature. The first step in making a revision is to request a resubmission of 
+the affected return. 
+Begin at the Welcome page. 
+1. Hover over the Submission menu and click the Request Resubmission sub-menu.
+
+Page 67 
+The Request Resubmission page opens. 
+Figure 3-36: Request Resubmission Page 
+2. Click the Request Resubmission link in the Action column for the return. 
+Resubmission Requests: 
+Resubmission requests are not always automatically granted in RRS.
+
+Page 68 
+Figure 3-37: Request Resubmission Text Entry Page 
+3. Enter a brief explanation for requesting the resubmission in the Reasons for 
+re
+submission text entry box. 
+4. Click the Send Request button.
+
+Page 69 
+Figure 3-38: Request Resubmission Confirmation Page 
+5. Click the Confirm button on the confirmation page.
+
+Page 70 
+Figure 3-38: Request Resubmission Completion Page 
+The return is now ready to be corrected and re-submitted. 
+Draft Returns 
+Upon a resubmission request, RRS places the return back in the draft folder. The 
+return remai
+ns there until it is resubmitted or you can contact RRS Support for 
+deletion if the resubmission was requested in error. 
+6. Click the Draft Returns menu item to open the Draft Returns page and follow the same 
+process as 
+shown in Section 3.5 to correct the data and re-submit the return.
+
+Page 71 
+Resubmitting an Uploaded File 
+If you are resubmitting a return using the Upload Data button, the following 
+pop-up window displays: 
+Click the Yes button to confirm the deletion of the data and to allow the revised 
+file to be selected.
+
+Page 72 
+4.0 Viewing Reports 
+Reports are viewed from the Reports menu item. Standard or Aggregate reports can be 
+searched for using specific criteria such as a report name. Standard reports will be available in 
+subsequent RRS releases. The following information details the different ways reports can be 
+searched. 
+To view reports (using the report name to search): 
+Begin at the RRS Welcome page. 
+Figure 4-1: RRS Welcome Page 
+1. Click the Reports menu item.
+
+Page 73 
+Figure 4-2: Reports Page 
+2. Enter the report name and click the Search button. The report title displays at the 
+bot
+tom of the page. 
+3. Click the report title. The report opens for viewing.
+
+Page 74 
+To view reports (using the report type to search – used for standard reports): 
+Begin at the Search for Reports page. 
+1. Click the box next to the appropriate report type (or types) to be searched. A check 
+mark
+ displays in the selected report type(s) check box. 
+2. Click the Search button. The report opens for viewing. 
+To view reports (using a wildcard to search): 
+Begin at the Search for Reports page. 
+1. Enter the % character at any point in your search string, and click the Search button. 
+The re
+sults list at the bottom of the page. 
+2. Click the title of the appropriate report. The report opens for viewing. 
+To view reports (using the return type to search – used for aggregate reports): 
+Begin at the Search for Reports page. 
+1. Click the box next to the appropriate return type (or types) to be searched. A check 
+mark
+ displays in the selected return type(s) checkbox. 
+2. Click the Search button. The report opens for viewing. 
+To view reports (using the publication date to search): 
+Begin at the Search for Reports page. 
+1. Select the ellipses button at the end of the Publication date ranges field. A calendar 
+di
+splays. 
+2. Select a start date for the range. 
+3. (Optional) Select an end date for the range. 
+4. Click the Search button. The report opens for viewing.
+
+Page 75 
+5.0 Viewing Documents 
+The Documents menu item provides the ability to view reference documents in the Portal 
+Documents folder. 
+To view documents: 
+Begin at the RRS Welcome page. 
+Figure 5-1: Welcome Page 
+1. Click the Documents menu item.
+
+Page 76 
+Figure 5-2: Documents Page 
+2. Double-click the Documents folder. 
+3. Double-click the Portal Documents folder. 
+4. Double-click the specific folder to be viewed. 
+5. Select the document to be viewed. 
+6. Click the green down arrow. A message displays prompting you to open or save the 
+do
+cument. 
+7. Click the Open button. The document opens for viewing.
+
+Page 77 
+6.0 Viewing Organization Profile 
+The Organization Profile menu item can only be used to view the profile of your organization in 
+RRS. This profile consists of information such as your organization’s general contact information, 
+its preferred language, general details of the organization, all required roles and their contact 
+information, etc. This section provides instruction on how to view your organization’s profile. 
+Organization profile information: 
+Updating organization profile information is accomplished via updating corporate 
+returns. F
+or information on how to work with corporate returns, refer to the RRS 
+Portal Manage Corporate Returns User Guide. 
+To view an organization profile: 
+Begin at the RRS Welcome page.
+
+Page 78 
+Figure 6-1: Welcome Page 
+1. Click the Organization Profile menu item.
+
+Page 79 
+Figure 6-2: Organization Profile Page 
+2. Select a section of the organization profile to view.
+
+Page 80 
+Figure 6-3: Generic Organization Contact Information Page 
+3. Review the listed information.
+
+Page 81 
+7.0 Managing Your Details 
+From the My Details menu item you can view and/or edit your user details (depending on the 
+permissions you have been granted) and change your password. Although you have the 
+ability to change your personal information it is strongly recommended that changes to 
+your first and last name and email address be changed by your Local Registration 
+Authority (LRA) to ensure that these user details are updated in both RRS and the BoC 
+Connect. 
+Information that can be edited includes your first and last name, email address, telephone 
+number and
+ your language of preference. Information that can be viewed is your assigned 
+permissions. Information that you can edit directly includes your telephone number and your 
+language of preference. 
+To edit your user details: 
+1. Hover your mouse over the My Details menu item. 
+2. Click the View/Edit My Details sub-menu item.
+
+Page 82 
+Figure 7-1: My Details Page 
+If your first and/or last name or email address need to be updated: 
+It is strongly recommended to contact your LRA to update your first and/or last 
+name or yo
+ur email address. 
+3. Enter your new telephone number in the Telephone number field (if you have the proper role.  
+You ca
+n always contact RRS Support to have detail information changed or updated). 
+4. Click the drop-down arrow on the Language of preference field to change your 
+langua
+ge. This will set the language that displays when you log into RRS.
+
+Page 83 
+Note: you can change your language within a session by selecting the language drop-
+down from the top right of the application. 
+5. Click the Update button. 
+To view assigned permissions: 
+1. Click the name of a role in the Roles column within the Assigned permissions section. 
+2. Click each tab to view information about the permissions assigned to your role. 
+Figure 7-2: My Details Tabs Page
+
+Page 84 
+To change your password: 
+1. Hover your mouse over the My Details menu item. 
+2. Click the Update My Password sub-menu item. 
+Figure 7-3: Update My Password Page 
+3. In the Current password field, enter your current password. 
+4. In the New password field, enter a new password. 
+Valid passwords: 
+Ensure your new password meets the following valid password criteria: 
+passwo
+rds must be between 8 and 30 characters and contain 1 uppercase 
+letter, 1 lowercase letter, 1 number and 1 special character.
+
+Page 85 
+5. In the Confirm new password field, re-enter your new password. 
+6. Click Save.
+
+Page 86 
+8.0 Managing Notifications 
+Notifications provide information such as when a return is ready to be completed as well as 
+when a return processed offline is submitted successfully or presents an error. Notifications are 
+emailed to you and can also be viewed and deleted from the Welcome page accessed through 
+the Home menu item. 
+To view a notification: 
+1. Click the Home menu item. The notifications display. 
+Figure 8-1: Help Page 
+2. In the Subject column, view the notification information.
+
+Page 87 
+To delete a notification: 
+1. In the Dismiss column, click the check box associated with the notification to be deleted. 
+The notification is deleted.
+
+Page 88 
+Emailed notifications: 
+As notifications are also sent by email, you will still have a record of the 
+content
+ in your email even if you delete the notification from within RRS.
+
+Page 89 
+9.0 Accessing Help 
+Help text is available on all topics within RRS. 
+To access RRS Help: 
+1. Click the Help link located on the top right of the application. The Help text displays. 
+Figure 9-1: Help Page
+
+Page 90 
+Other help options: 
+1. The Documents menu item provides additional reference and training 
+docume
+nts. 
+2. To receive more help with RRS you can contact your organization’s LRA or 
+con
+tact the Bank of Canada at 1-855-865-8636.
+
+Page 91 
+10.0 Logging Out 
+RRS provides the ability to logout of your current session. 
+To logout of RRS: 
+1. Click the Logout link located on the top right of the application. A window displays 
+ask
+ing if you are sure you want to logout. 
+2. Click OK. The login page displays. 
+10.1 Inactivity Logout 
+Each RRS session is set to logout automatically after two hours of inactivity. 
+If you are logged out due to inactivity: 
+RRS does not automatically save your work. It also does not return you to what 
+yo
+u were working on when the forced logout occurred. It is important to save 
+your work often.
+
+Page 92 
+11.0 Tips, Tricks and Troubleshooting 
+11.1 Saving Your Work 
+It is important to remember to save your work often. As stated in Section 11.1 Inactivity Logout, 
+each RRS session is set to logout automatically after two hours of inactivity. If you are logged 
+out due to inactivity, RRS does not return you to what you were working on prior to the forced 
+logout. 
+11.2 Microsoft Excel 
+You can save a return in Microsoft Excel format by using the Excel button on the Draft Return 
+page. This button enables a return to be saved to a specified area outside of RRS. 
+11.3 Two Users Working on the Same Return 
+It is possible to have more than one user working on the same return within RRS. Note that RRS 
+does not inform you when another user is working on the same return. Two separate scenarios 
+are described below; both scenarios involve two users, User 1 and User 2, accessing the same 
+return at the same time. 
+Scenario 1 – Validate & Save: User 1 clicks the Validate & Save button on the return and the 
+dat
+a is saved at version 1.1. Then User 2 clicks the Validate & Save button and also saves the 
+return, overwriting the data saved by User 1 and updating the revision of the return to 2.1. In 
+this circumstance, the data in the return saved last is the return data RRS displays as the most 
+current. 
+Scenario 2 - Submit: User 1 successfully submits the return. User 2 attempts to submit the 
+return but r
+eceives an access denied message as this return has already been submitted by User 
+1. 
+View Audit Log: 
+To determine who worked on a specific revision of a return, use the View Audit 
+Log
+ feature as described in Section 3.3 Viewing a Financial Return. 
+11.4 Printing Returns 
+To print a return, use the Excel icon on the Draft Return page to open the return in Microsoft 
+Excel format then use the print feature in Microsoft Excel.
+
+Page 93 
+12.0 Glossary 
+Term/Acronym Definition/Description 
+BCAR Basel Capital Adequacy Reporting 
+BoC Bank of Canada 
+CDI
+C Canada Deposit Insurance Corporation 
+Conventional return A single dimension return in which data is organized by 
+one ca
+tegory; example M4 or L4. 
+CY Calendar Year 
+Dimensional return A return containing dimensional data; example BB or BH. 
+DTI Deposit Taking Institution 
+Enhanced Authentication A security requirement that applies to accessing RRS 
+thro
+ugh the BoC Connect 
+Filer A user associated with a financial institution who files 
+returns
+. 
+FI Financial Institution 
+FRFI Federally Regulated Financial Institution 
+FY Fiscal Year 
+FYE Fiscal Year End 
+Geographic Return A return consisting of data broken down with respect to 
+ge
+ography. A Dimensional return in RRS; example GM or 
+GQ. 
+LRA Local Registration Authority 
+Organization An element describing financial institutions or partner 
+ag
+encies. 
+OSFI Office of the Superintendent of Financial Institutions 
+PDF Portable Document Format 
+Portal See RRS Portal 
+QE Quarter End 
+Return A collection of information Filers or their representatives 
+are req
+uired to submit to one or more Tri-agency partners 
+Return schedule The calendar of return submissions which can or must be 
+fi
+led, specifying the filing periods and frequency of 
+submissions. 
+Return type Identifies whether a return is a single dimensional 
+(co
+nventional) return, multi-dimensional return, or 
+geographical return (dimensional). 
+RRS Regulatory Reporting System 
+RRS Portal A web application used to submit and view returns 
+RRS Supervision Centre A web application used to create and manage returns, 
+users, org
+anizations and reports for Tri-Agency only. 
+Status Indicates the state a return is in, e.g., “In Draft”
+
+Term/Acronym Definition/Description 
+Page 94 
+Structural rule The formatting and layout of a return submission 
+Supervision Centre See RRS Supervision Centre 
+Tri-Agency A group made up of the Bank of Canada, the Office of the 
+Superi
+ntendent of Financial Institutions and the Canada 
+Deposit Insurance Corporation. 
+Unstructured Return Data that is submitted in a format that is not defined by 
+da
+ta points as part of a return definition and is typically 
+contained in an attached document. 
+User Any person who uses RRS with any level of privileges 
+User role Gives a user access to specific features and functions. 
+Validation error A message that displays the error that caused the 
+val
+idation process to fail. Users must correct the error to 
+continue. 
+Validation rule A rule used during the validation process, expressed as an 
+equa
+tion. 
+Web form An on-screen or online display of a return. 
+Workstation A computer used to access the BoC Connect and the 
+RR
+S application. 
+YE Year End

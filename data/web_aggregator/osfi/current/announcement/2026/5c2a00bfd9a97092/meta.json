@@ -1,0 +1,25 @@
+{
+  "doc_id": "5c2a00bfd9a97092",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Supervisory practices - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/supervision/supervisory-practices",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ae8caef9bf3d11c50ba7cb02ce1fe206b8002c3b2df76a641f9e778be5e39b31",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/5c2a00bfd9a97092",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

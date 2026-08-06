@@ -1,0 +1,25 @@
+{
+  "doc_id": "d7cf1624cc977801",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Balance Sheet (M4) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/balance-sheet-m4",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:352dfc0a7fb823b8da1a1e7026db821e99bf9160d67cf305f74d1068df061652",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/d7cf1624cc977801",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

@@ -1,0 +1,389 @@
+* [HOME](/en/index.html)
+* [Press Releases](/en/news/index.html)
+
+[Tweet](https://twitter.com/share)
+
+[Japanese![open new window](/images/common/icon_newwin.gif)](/news/27/sonota/20151214-2.html)
+
+December 14, 2015
+
+(July 13, 2026 Updated)
+
+Financial Services Agency
+
+# FinTech Support Desk
+
+Based on the FSA’s “Strategic Directions and Priorities 2015-2016” (cf. ![PDF](/images/common/icon_pdf.gif)[Annex](/en/news/2015/20151019-2/01.pdf)), as a new approach to adapt to the spreading FinTech trend in business practices (in terms of applying the latest IT technologies in financial services), the FSA launched “FinTech Support Desk” in December 2015 as a one-stop contact point for inquiries and exchange of information on FinTech.
+
+FinTech Support Desk accepts a wide-range of inquiries on various matters in finance from those who currently operate FinTech businesses or those who intend to start FinTech startups with innovative ideas. FinTech Support Desk also welcomes general opinions, requests, and suggestions concerning innovative FinTech businesses, thereby proactively seeking chances for exchanging information and opinions.
+
+Common inquiries received at FinTech Support Desk (FAQ) are available below.
+
+## Contact
+
+Please contact FinTech Support Desk by email at the address below.
+
+E-mail Address:
+:   [fintech@fsa.go.jp](mailto:fintech@fsa.go.jp)
+
+Office hours:
+:   Weekdays from 9:30 a.m. to 6:15 p.m. (JST).
+
+## Attention
+
+FinTech Support Desk may request outline materials of the intending business scheme.
+
+FinTech Support Desk may introduce contact points of other ministry, agency, or organization, depending on the content of the inquiry.
+
+## FAQ
+
+The FSA FinTech Support Desk publishes the following questions and answers (FAQ) compiled from inquiries received since the Desk's establishment, covering common topics and their responses.
+
+### Table of Contents
+
+* [1. Regulations in General](#HL1)
+  + [Q1-1: What regulations apply to FinTech businesses, and what registration or notification with the FSA or Local Finance Bureau is required?](#q1-1)
+* [2. Act on Prevention of Transfer of Criminal Proceeds](#HL2)
+  + [Q2-1: What online-only methods of verification at the time of transaction are permitted under the Act on Prevention of Transfer of Criminal Proceeds?](#q2-1)
+  + [Q2-2: What is the general interpretation of Article 13, paragraph (1), item (i) of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds?](#q2-2)
+  + [Q2-3: What are concrete examples of delegation relationships to which Article 13, paragraph (1), item (i) of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds may apply?](#q2-3)
+  + [Q2-4: Is it possible to apply the provisions of Article 13, paragraph (1), item (i) of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds to transactions carried out by delegating to another specified business operator that has conducted verification at the time of transaction by the methods prescribed in Article 13, paragraph (1), item (i) or (ii) of the Ordinance for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds?](#q2-4)
+  + [Q2-5: Where specified business operator A has previously carried out a transaction delegated to another specified business operator B as prescribed in Article 13, paragraph (1), item (i) of the Order (i.e., a transaction listed in Article 7, paragraph (1), item (i) of the Order conducted with a customer for whom B has already performed verification at the time of transaction in a separate transaction), when A again conducts any such transaction with the same customer, may A confirm that it previously delegated the verification at the time of transaction to B and thereby conclude that the transaction falls under Article 13, paragraph (2) of the Order, and thus be exempt from the obligation to conduct verification at the time of transaction pursuant to Article 4, paragraph (3) of the Act?](#q2-5)
+* [3. Cryptoassets](#HL3)
+  + [Q3-1: What regulations apply to cryptoasset-related businesses, and what registration is required to start such a business?](#q3-1)
+  + [Q3-2: What regulatory requirements apply to an ICO (Initial Coin Offering)?](#q3-2)
+  + [Q3-3: What are professional investor token offerings?](#q3-3)
+* [4. Open API and Electronic Payment Services](#HL4)
+  + [Q4-1: What are the objectives of the amendments to the Banking Act in 2017 pertaining to open API?](#q4-1)
+  + [Q4-2: How are "electronic payment services" defined?](#q4-2)
+  + [Q4-3: What activities are exempted from the regulations for electronic payment services?](#q4-3)
+  + [Q4-4: What are the registration requirements for electronic payment services?](#q4-4)
+  + [Q4-5: What contract must an electronic payment service provider conclude with a bank, and by when?](#q4-5)
+  + [Q4-6: What is the difference between electronic payment services and bank agency services? Is it sufficient to obtain registration/license for only one of the two?](#q4-6)
+* [5. Prepaid Payment Instruments](#HL5)
+  + [Q5-1: What notification or registration is required under financial laws and regulations for a business involving prepaid e-money and/or e-points?](#q5-1)
+* [6. Funds Transfer Service](#HL6)
+  + [Q6-1: What registration is required under financial laws and regulations for a funds transfer business?](#q6-1)
+* [7. Financial Instruments and Exchange Business](#HL7)
+  + [Q7-1: What registration or notification is required under financial laws and regulations to provide a crowdfunding platform for soliciting investment via the internet?](#q7-1)
+  + [Q7-2: What are the key considerations when tokenizing securities?](#q7-2)
+  + [Q7-3: What registration is required under financial laws and regulations to provide investment-related robo-advisor services?](#q7-3)
+* [8. Insurance (InsurTech)](#HL8)
+  + [Q8-1: Is a license under the Insurance Business Act always required for InsurTech businesses?](#q8-1)
+  + [Q8-2: What is the Small Amount and Short Term Insurance Business system?](#q8-2)
+* [9. Electronic Payment Instruments](#HL9)
+  + [Q9-1: What registration or other authorization is required for the issuance of electronic payment instruments?](#q9-1)
+  + [Q9-2: What registration is required for the sale and exchange of electronic payment instruments?](#q9-2)
+  + [Q9-3: What registration is required for intermediary services for the sale, etc. of electronic payment instruments?](#q9-3)
+  + [Q9-4: What registration is required for the management of electronic payment instruments?](#q9-4)
+  + [Q9-5: Is any registration required to make payments using electronic payment instruments?](#q9-5)
+  + [Q9-6: What are the key considerations for providing a wallet for electronic payment instruments?](#q9-6)
+
+### 1. Regulations in General
+
+**Q1-1**: What regulations apply to FinTech businesses, and what registration or notification with the FSA or Local Finance Bureau is required?
+:   **A1-1**: The applicability of financial laws and regulations such as the Banking Act, the Financial Instruments and Exchange Act, and the Payment Services Act varies depending on the specific business scheme. Some businesses are not subject to any financial regulations and require no registration or notification. The FinTech Support Desk welcomes consultation at any stage, including the initial planning stage.
+
+### 2. Act on Prevention of Transfer of Criminal Proceeds
+
+**Q2-1**: What online-only methods of verification at the time of transaction are permitted under the Act on Prevention of Transfer of Criminal Proceeds?
+:   **A2-1**: The June 2025 amendment to the Ordinance for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds revised the online-only methods of verification at the time of transaction by, among other changes, abolishing the method of receiving images of a photo ID document and images of the customer's face, and adding card-alternative electromagnetic records as a new permitted method.
+
+    For the online-only methods of verification at the time of transaction following this amendment, please refer to the ["Q&A on Online Methods of Verification at the Time of Transaction under the Act on Prevention of Transfer of Criminal Proceeds (for Financial Institutions)"![open new window](/images/common/icon_newwin.gif)](/common/law/guide/kakunin-qa.html).
+
+**Q2-2**: What is the general interpretation of Article 13, paragraph (1), item (i) of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds?
+:   **A2-2**: The interpretation of that provision is as follows (confirmed with the relevant ministries and agencies). For specific individual inquiries, please contact the relevant authority.
+
+    * Article 13, paragraph (1), item (i) of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds (the "APTCP") (the "Order") provides, as a "transaction equivalent thereto as specified by Cabinet Order" for the purposes of Article 4, paragraph (3) of the APTCP, for transactions conducted by specified business operator A by delegating to another specified business operator B, where such transactions are listed in Article 7, paragraph (1), item (i) of the Order and are conducted with customers for whom B itself has already performed verification at the time of transaction in a separate transaction. In such cases, if B takes measures to verify that the customer is one for whom verification at the time of transaction has already been performed, the provisions of Article 4, paragraph (1) of the APTCP (obligation to conduct verification at the time of transaction) shall not apply to A.
+    * Furthermore, even if A has not delegated to B the entire process leading to the conclusion of the contract, the provisions of Article 13, paragraph (1), item (i) of the Order may apply where B intervenes between A and the customer by making introductions or arranging transactions, or where there is otherwise a delegation of an act that can be regarded as part of the transaction in accordance with common social norms. However, it is not permitted to apply the said provisions where only the verification at the time of transaction procedures are delegated.
+    * Whether a "delegation of an act that can be regarded as part of the transaction in accordance with common social norms" exists in a given case shall be determined on a case-by-case basis.
+
+**Q2-3**: What are concrete examples of delegation relationships to which Article 13, paragraph (1), item (i) of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds may apply?
+:   **A2-3**: The following are examples of delegation relationships to which Article 13, paragraph (1), item (i) of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds ("the Order") may apply (determinations are made on a case-by-case basis). In all cases, B must take measures to confirm that the relevant customer has already undergone verification at the time of transaction, such as by receiving a declaration of matters that only the customer could know, pursuant to paragraph (2) of the same Article.
+
+    * (Example 1) Cases where B acts as agent or intermediary for A with respect to transactions listed in Article 7, paragraph (1), item (i) of the Order conducted by A — such as a securities company holding a bank agency license acting as agent or intermediary for bank account opening — under the Banking Act, the Financial Instruments and Exchange Act, or other laws, and where there is a delegation of the conclusion of the contract itself or of an act that can be regarded as part of the transaction in accordance with common social norms.
+    * (Example 2) Cases where, in connection with the customer's entry into a transaction with A, all of the following conditions are satisfied, thereby constituting a delegation of an act that can be regarded as part of the transaction in accordance with common social norms:
+      + Under Article 13, paragraph (1), item (i) of the Order, the relevant customer already has a transactional relationship with B (with verification at the time of transaction already completed by B), and A may not conduct a transaction listed in Article 7, paragraph (1), item (i) of the Order with the relevant customer unless B's verification at the time of transaction is completed.
+      + During the transaction application process between A and the relevant customer, B clearly displays its company name on A's website or equivalent (including cases where the customer is redirected to B's website or equivalent) and, while intervening between A and the customer, requires the relevant customer to enter an account ID and password.
+      + By B providing A with an identification number linked to the relevant customer or by similar means, A is able to access information held by B concerning the relevant customer.
+
+**Q2-4**: Is it possible to apply the provisions of Article 13, paragraph (1), item (i) of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds to transactions carried out by delegating to another specified business operator that has conducted verification at the time of transaction by the methods prescribed in Article 13, paragraph (1), item (i) or (ii) of the Ordinance for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds?
+:   **A2-4**: For this interpretation, please refer to the [National Police Agency website![open new window](/images/common/icon_newwin.gif)](https://www.npa.go.jp/sosikihanzai/jafic/hourei/law_com_13.htm).
+
+**Q2-5**: Where specified business operator A has previously carried out a transaction delegated to another specified business operator B as prescribed in Article 13, paragraph (1), item (i) of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds (i.e., a transaction listed in Article 7, paragraph (1), item (i) of the Order conducted with a customer for whom B has already performed verification at the time of transaction in a separate transaction), when A again conducts any such transaction with the same customer, may A confirm that it previously delegated the verification at the time of transaction to B and thereby conclude that the transaction falls under Article 13, paragraph (2) of the Order, and thus be exempt from the obligation to conduct verification at the time of transaction pursuant to Article 4, paragraph (3) of the Act?
+:   **A2-5**: From A's perspective, the relevant customer does not qualify as a customer for whom A itself has already conducted verification at the time of transaction. Therefore, the provisions of Article 4, paragraph (3) of the Act on Prevention of Transfer of Criminal Proceeds, or its Order for Enforcement (the "Order"), do not apply to such a transaction, and A must conduct verification at the time of transaction on its own.
+
+    However, if A again delegates the transaction to B and B takes the "measures to verify" prescribed in Article 13, paragraph (2) of the Order in connection with the transaction treated as falling under Article 13, paragraph (1), item (i) of the Order, A is not required to conduct verification at the time of transaction in respect of that transaction.
+
+### 3. Cryptoassets
+
+**Q3-1**: What regulations apply to cryptoasset-related businesses, and what registration is required to start such a business?
+:   **A3-1**: Under the Payment Services Act ("PSA"), the following business activities constitute "Cryptoasset Exchange Services," and service providers engaging in such activities are required to register:
+
+    1. Purchase and sale of cryptoassets or exchange with other cryptoassets;
+    2. Intermediary, brokerage, or agency services for the business activities prescribed in (1);
+    3. Management of users' money in connection with the business activities prescribed in (1) or (2); or
+    4. Management of cryptoassets on behalf of others (excluding cases where there are special provisions in other laws regarding the management of such assets as a business).
+
+    For user protection and anti-money laundering purposes, registered cryptoasset exchange service providers are subject to obligations including the following:
+
+    * Obligation to provide prior explanation and information to service users about the characteristics of cryptoassets, including that (i) they are not fiat currencies; (ii) they are not backed by fiat currencies and their values may fall below the purchased price; and (iii) their values are not guaranteed;
+    * Obligation to establish a system risk management framework;
+    * Obligation to manage the money and cryptoassets deposited by service users separately from the provider's own assets, and to undergo an audit by a certified public accountant or an audit firm with regard to the state of segregated management; and
+    * Obligations under the Act on Prevention of Transfer of Criminal Proceeds, such as verification at the time of transaction, preparation and retention of transaction records, and reporting of suspicious transactions to the authorities.
+
+    Whether certain electronic data falls under "Cryptoassets" under the PSA will be determined on a case-by-case basis pursuant to Article 2, paragraph (14) of the PSA.
+
+    (Reference)
+    :   * ![PDF](/images/common/icon_pdf.gif)[Administrative Guidelines (Part III: Financial Companies) "16. Cryptoasset Exchange Service Providers"](/common/law/guide/kaisya/16.pdf)
+
+**Q3-2**: What regulatory requirements apply to an ICO (Initial Coin Offering)?
+:   **A3-2**: An ICO is an activity whereby a company or individual issues tokens on blockchain to raise funds in the form of fiat currency or cryptoassets from the public. Depending on the structure of the ICO and the nature of the token, the Payment Services Act ("PSA") and/or the Financial Instruments and Exchange Act ("FIEA") may apply.
+
+    * Application of the PSA
+      + When a token issued in an ICO satisfies either of the following requirements, the token is considered to constitute "Cryptoassets" under the PSA:
+        - The token can be used for payment for goods and services with unspecified persons as counterparties, and is mutually exchangeable with fiat currency with unspecified persons as counterparties; or
+        - The token is mutually exchangeable with cryptoassets with unspecified persons as counterparties.
+      + Where a token issued in an ICO constitutes cryptoassets, the act of selling such tokens or exchanging them for other cryptoassets in the course of trade constitutes a cryptoasset exchange service.
+    * Application of the FIEA
+      + When a token issued in an ICO is of a dividend type and is purchased with fiat currency or cryptoassets, the token is considered to constitute an equity interest in a collective investment scheme under the FIEA.
+        - \*An equity interest in a collective investment scheme under the FIEA is broadly defined as a right to (i) invest money and (ii) receive dividends of profits arising from the business conducted using such money.
+
+    The applicability of the PSA, the FIEA, and other laws is determined on a case-by-case basis.
+
+    (Reference)
+    :   * ![PDF](/images/common/icon_pdf.gif)[Initial Coin Offering (ICO) – Warning to Users and Business Operators Regarding the Risks of ICOs](/policy/virtual_currency/06.pdf)
+
+**Q3-3**: What are professional investor token offerings?
+:   **A3-3**: A professional investor token offering means an arrangement whereby a company or other entity, as the issuer, issues cryptoassets and requests a cryptoasset exchange service provider to sell or exchange them for other cryptoassets, thereby raising funds in the form of fiat currency or cryptoassets from qualified institutional investors (meaning qualified institutional investors as defined in Article 2, paragraph (3), item (i) of the Financial Instruments and Exchange Act). Because the cryptoassets are sold without undergoing the reviews required for an ICO, the counterparties are limited to qualified institutional investors.
+
+    Professional investor token offerings by cryptoasset exchange service providers must be conducted in accordance with the ![PDF](/images/common/icon_pdf.gif)[Administrative Guidelines (Part III: Financial Companies) "16. Cryptoasset Exchange Service Providers"](/common/law/guide/kaisya/16.pdf) and the rules of the Japan Virtual and Crypto Assets Exchange Association (JVCEA). The following transfer restriction measures are required, among others. In addition, where a notification is filed pursuant to Article 63-6, paragraph (1) of the Payment Services Act ("PSA") for the purpose of handling cryptoassets in a professional investor token offering, the word "professional investor" (プロ向け) must be included in the name of the cryptoassets to be handled.
+
+    * Except in cases where a new ICO-reviewed cryptoasset becomes available for sale or handling, technical measures must be implemented to prevent the transfer of the cryptoassets to persons other than qualified institutional investors.
+    * The contract for the sale of the cryptoassets must prohibit the assignment or other transfer of the rights and obligations under the contract and the legal status thereunder to persons other than qualified institutional investors.
+
+### 4. Open API and Electronic Payment Services
+
+**Q4-1**: What are the objectives of the amendments to the Banking Act in 2017 pertaining to open API?
+:   **A4-1**: The amendments to the Banking Act in 2017 introduced legislative measures, including the regulatory framework pertaining to electronic payment service providers (\*), in response to rapid IT development and its impact on financial services, with the aim of promoting appropriate cooperation and collaboration between financial institutions and finance-related IT companies, as well as ensuring user protection.
+
+    \* These measures introduced a registration system for electronic payment service providers, requiring them to ensure information security management for users and to conclude contracts with the financial institutions to which they are connected, and also requiring financial institutions to prepare and disclose the standards pertaining to the conclusion of contracts with electronic payment service providers.
+
+**Q4-2**: How are "electronic payment services" defined?
+:   **A4-2**: "Electronic payment services" includes services such as the following:
+
+    1. A service that enables money transfers to multiple accounts per request with one click; and
+    2. A service that automatically creates and maintains a household account book by obtaining and aggregating account information including account balance and transaction records from banks.
+
+    For the specific definition of electronic payment services, please refer to Article 2, paragraph (17) of the Banking Act.
+
+**Q4-3**: What activities are exempted from the regulations for electronic payment services?
+:   **A4-3**: Article 1-3-3 of the Regulation for Enforcement of the Banking Act stipulates that the following four categories of activities falling within the definition of electronic payment services under the Banking Act are exempted from the applicable regulations, provided they are not conducted by obtaining IDs and/or passwords from depositors, as they are recognized as being less likely to result in insufficient protection of service users:
+
+    1. Transmission of settlement instructions conducted for the purpose of making periodic payments from a depositor to a particular person;
+    2. Transmission of settlement instructions conducted for the purpose of money transfer from a depositor to the depositor's own account;
+    3. Transmission of settlement instructions conducted for the purpose of making payments from a depositor to national and local governments; and
+    4. Transmission of settlement instructions conducted by a depositor's counterparty to a sales contract for goods or services, or by such counterparty's agent, for the purpose of making payments under the sales contract.
+
+    Entities conducting only activities falling within these exemption categories are not required to register as electronic payment service providers.
+
+**Q4-4**: What are the registration requirements for electronic payment services?
+:   **A4-4**: The key registration requirements for electronic payment services under the Banking Act are as follows:
+
+    1. Net assets are not less than zero; and
+    2. A framework for the appropriate and reliable conduct of electronic payment services has been established.
+
+    With respect to requirement (2) above, given that electronic payment service providers utilize rapidly evolving IT technologies and obtain customers' account information, there is a risk that users may suffer detriment from information leakage or fraudulent fund transfers exploited through unauthorized access using authentication credentials. Accordingly, the registration screening process places particular emphasis on the assessment of the system risk management framework.
+
+    The screening takes into account the business characteristics of the applicant, including business scale and scope, content of services, level of importance of the information handled, and the computer system framework adopted and its role within electronic payment services. The following are typical items subject to screening, assessed from a risk-based perspective; not all items are necessarily assessed where no particular issues are identified from a user protection standpoint.
+
+    (Example checklist items)
+    :   * Awareness of system risks in electronic payment services
+        * System risk management framework
+        * System risk assessment
+        * Information security management
+        * Cyber security management
+        * System planning/development/operations management
+        * System audit
+        * Outsourcing management
+        * Contingency plan
+        * Response to system failure
+
+    For details on matters to be noted in connection with the registration screening process, please refer to ![PDF](/images/common/icon_pdf.gif)["Notes on Registration Applications for Electronic Payment Service Providers."](/common/shinsei/dendai/01.pdf)
+
+**Q4-5**: What contract must an electronic payment service provider conclude with a bank, and by when?
+:   **A4-5**: An electronic payment service provider must conclude a contract with a bank regarding electronic payment services before conducting any act that falls under electronic payment services under the Banking Act ("the Act") (cf. Article 52-61-10, paragraph (1) of the Act). In addition, the contract must set out, at a minimum, the following particulars (cf. Article 52-61-10, paragraph (2) of the Act and Article 34-64-16 of the Regulation for Enforcement of the Banking Act): (i) the sharing of liability to compensate users for any loss or damage sustained; (ii) measures to be taken by the electronic payment service provider to ensure the proper handling and safe management of user information acquired by the provider; and (iii) measures to be taken by the electronic payment service provider to ensure the proper handling and safe management of user information acquired by the principal electronic payment service Provider (meaning a person that re-entrusts electronic payment services to an Electronic Payment Service Provider and is not itself required to obtain registration).
+
+**Q4-6**: What is the difference between electronic payment services and bank agency services? Is it sufficient to obtain registration/license for only one of the two?
+:   **A4-6**: Under the Banking Act, bank agency services are an act of acting as an agent or intermediary for banks to conclude a contract that involves either of the following: (i) acceptance of deposits or installment savings; (ii) provision of loans or discounting of bills and notes; or (iii) exchange transactions. Bank agency services are conducted based on entrustment from banks, whereas electronic payment services are, as noted above, conducted based on entrustment from depositors. For example, if certain services are based on entrustment from both banks and depositors, those services may fall within the scope of both bank agency services and electronic payment services, in which case the respective regulations for both will apply. In such a case, a bank agent that also engages in electronic payment services is required to obtain both registration as an electronic payment service provider and a license to conduct bank agency services.
+
+### 5. Prepaid Payment Instruments
+
+**Q5-1**: What notification or registration is required under financial laws and regulations for a business involving prepaid e-money and/or e-points?
+:   **A5-1**: Under the Payment Services Act, "prepaid payment instruments" means any certificate, number, marking, or other sign (including those recorded electronically on a computer or server) that is issued in exchange for prepaid value and can be used for payment for the purchase or lease of goods or the provision of services. E-money and e-points issued in exchange for prepaid value fall within the category of prepaid payment instruments.
+
+    Prepaid payment instruments are classified into the following two types: (i) those which can be used for purchase of goods and services only from the issuer (prepaid payment instruments for own business); and (ii) those other than (i) (prepaid payment instruments for third-party business).
+
+    * Issuers of prepaid payment instruments for own business (i) are required to file a notification with the Local Finance Bureau within two months from the record date (March 31 and September 30 each year) if the total outstanding balance of such prepaid payment instruments exceeds 10 million yen as of the record date; and
+    * Issuers of prepaid payment instruments for third-party business (ii) are required to register with the Local Finance Bureau in advance.
+
+    In either case, the issuance of a prepaid payment instrument with a validity period not exceeding six months is NOT subject to regulations for prepaid payment instruments, and hence notification and registration are not required for both types of issuers.
+
+    (Reference)
+    :   * ![PDF](/images/common/icon_pdf.gif)[Administrative Guidelines (Part III: Financial Companies) "5. Issuers of Prepaid Payment Instruments"](/common/law/guide/kaisya/05.pdf)
+        * [Japan Payment Service Association![open new window](/images/common/icon_newwin.gif)](https://www.s-kessai.jp/businesses/)
+
+### 6. Funds Transfer Service
+
+**Q6-1**: What registration is required under financial laws and regulations for a funds transfer business?
+:   **A6-1**: Under the Payment Services Act ("the PSA"), persons other than deposit-taking institutions that engage in dealing in funds transfer transactions as a business are required to register as Funds Transfer Service Providers.
+
+    "Dealing in funds transfer transactions" means accepting a request from a customer to transfer funds by using a mechanism for moving funds between distant parties without directly transporting cash, and undertaking that request, or undertaking and carrying it out (Decision of the Third Petty Bench of the Supreme Court of Japan, March 12, 2001).
+
+    The 2020 amendment to the PSA established the following three types of Funds Transfer Services according to the amount of funds that may be handled, with regulations applied in proportion to the associated risks:
+
+    * Type I Funds Transfer Service (authorization required)  
+      Permitted to handle remittances exceeding 1 million yen per remittance. The acceptance of funds without specific remittance instructions is prohibited in principle (a service provider may accept funds only when the amount, date, and destination of remittance are specified, and must remit the funds without delay).
+    * Type II Funds Transfer Service (registration required)  
+      Permitted to handle remittances of 1 million yen or less per remittance. If the funds deposited by a user exceed 1 million yen, payment of the funds unrelated to the remittance is required.
+    * Type III Funds Transfer Service (registration required)  
+      Permitted to handle remittances of 50,000 yen or less per remittance. The recipient's account outstanding balance (the amount of obligations owed in relation to dealing in funds transfer transactions) may not exceed 50,000 yen, even temporarily. In addition, funds deposited by users may be managed as segregated deposits in lieu of the security deposit and other conventional preservation measures required for Type I and Type II Funds Transfer Services (subject to an external audit).
+
+    (Reference)
+    :   * ![PDF](/images/common/icon_pdf.gif)[Administrative Guidelines (Part III: Financial Companies) "14. Funds Transfer Service Providers"](/common/law/guide/kaisya/14.pdf)
+        * [Japan Payment Service Association![open new window](/images/common/icon_newwin.gif)](https://www.s-kessai.jp/businesses/)
+
+### 7. Financial Instruments and Exchange Business
+
+**Q7-1**: What registration or notification is required under financial laws and regulations to provide a crowdfunding platform for soliciting investment via the internet?
+:   **A7-1**: Crowdfunding is generally classified into three types: donation type, purchasing type, and investment type.
+
+    For the donation type and purchasing type of crowdfunding — where crowdfunding is used as a way to solicit charitable donations or to receive payment for goods or services — or where investors do not receive a return exceeding the amount of their contribution, registration or notification under the Financial Instruments and Exchange Act ("FIEA") is NOT required. (Other laws and regulations, including the Payment Services Act, may be applicable.)
+
+    The investment type of crowdfunding, on the other hand, may require registration and/or notification under the FIEA depending on the methods of investment by investors.
+
+    (Reference)
+    :   * [To Those Who Operate Fund-Related Businesses (Registration and Notification Requirements)![open new window](/images/common/icon_newwin.gif)](/common/shinsei/fund.html)
+
+**Q7-2**: What are the key considerations when tokenizing securities?
+:   **A7-2**: With respect to securities listed in the items of Article 2, paragraph (1) of the Financial Instruments and Exchange Act ("FIEA") (e.g., corporate bonds, shares, beneficial interests in investment trusts), where the sale, intermediary for sale, solicitation for acquisition, or handling of secondary distribution of such securities is conducted as a business, registration as a Type I Financial Instruments Business Operator is required (Article 28, paragraph (1), item (i) of the FIEA), and disclosure obligations such as the filing of a Securities Registration Statement in connection with a public offering or secondary distribution of such securities are imposed (Article 4, paragraph (1) of the FIEA). These regulations apply equally where the securities are recorded as tokens on a blockchain so as to be transferable.
+
+    With respect to securities listed in the items of Article 2, paragraph (2) of the FIEA (e.g., certain trust beneficial interests, membership interests in a limited liability company, and certain anonymous partnership contribution interests), disclosure regulations are exempted pursuant to Article 3, item (iii) of the FIEA, and where the sale, intermediary for sale, solicitation for acquisition or private placement, or handling of solicitation for acquisition or private placement of such securities is conducted as a business, registration as a Type II Financial Instruments Business Operator or equivalent is required (Article 28, paragraphs (2)(i) and (ii) of the FIEA). However, where such securities are tokenized, they constitute "Electronically Recorded Transferable Rights" as defined in Article 2, paragraph (3) of the FIEA and become subject to regulations equivalent to those applicable to securities listed in Article 2, paragraph (1) of the FIEA. Specifically, where the sale, intermediary for sale, handling of solicitation for acquisition or private placement, etc. of such securities is conducted as a business, registration as a Type I Financial Instruments Business Operator is required (Article 28, paragraph (1), item (i) of the FIEA), and disclosure regulations apply as noted above (Article 3, item (iii)(b) of the FIEA).
+
+    Note that where an issuer conducts a public offering or private placement of Electronically Recorded Transferable Rights, registration as a Type II Financial Instruments Business Operator is required (Article 28, paragraph (2), item (i) of the FIEA).
+
+**Q7-3**: What registration is required under financial laws and regulations to provide investment-related robo-advisor services?
+:   **A7-3**: Robo-advisor services take various forms, and the registration requirements under the Financial Instruments and Exchange Act ("FIEA") and the applicable business category vary depending on the specific services provided.
+
+    For example, where a robo-advisor presents an "asset portfolio by general asset class" or "specific securities or financial instruments" considered suitable for a customer based on the customer's answers to various questions (e.g., regarding risk appetite):
+
+    * If such presentation is provided as part of services to customers (including potential customers) without concluding a contract for the presentation or receiving compensation therefor, registration as an Investment Advisory and Agency Business under the FIEA is NOT required.
+    * If such presentation is made pursuant to a contract concluded with the customer and compensation is received from the customer therefor, the presentation constitutes investment advisory services under the FIEA and the provider is therefore required to register as an Investment Advisory and Agency Business.
+
+### 8. Insurance (InsurTech)
+
+**Q8-1**: Is a license under the Insurance Business Act always required for InsurTech businesses?
+:   **A8-1**: The required procedures vary depending on the nature of the intended business. Under the Insurance Business Act ("the Act"), where the intended business constitutes "Insurance Business," a license under the Act is required (or, under certain conditions, registration — for details, see the following question regarding the Small Amount and Short Term Insurance Business). Where the intended business constitutes "Insurance Solicitation," registration is required.
+
+    Note that "Insurance Business" is defined in Article 2, paragraph (1) of the Act as the business of underwriting the risks listed in the items of Article 3, paragraph (4) or the items of Article 3, paragraph (5), through insurance under contracts to pay a fixed amount of insurance proceeds in connection with the life or death of individuals while receiving insurance premiums, insurance under contracts to compensate for losses caused by a certain fortuitous accident while receiving insurance premiums, or any other class of insurance. For details, please refer to [the Supervisory Guidelines for Small Amount and Short Term Insurance Providers, V(1)![open new window](/images/common/icon_newwin.gif)](/common/law/guide/syougaku/05.html).
+
+    Note also that "Insurance Solicitation" is defined in Article 2, paragraph (26) of the Act as acting as an agent or intermediary for the conclusion of an insurance contract. For details, please refer to [the Comprehensive Supervisory Guidelines for Insurance Companies, II-4-2-1(1)![open new window](/images/common/icon_newwin.gif)](/common/law/guide/ins/02d.html).
+
+**Q8-2**: What is the Small Amount and Short Term Insurance Business system?
+:   **A8-2**: The system for Small Amount and Short Term Insurance Business has been in place since April 1, 2006. Where an Insurance Business under the Insurance Business Act ("the Act") is limited solely to insurance underwriting within a certain business scale, the entity may engage in that business upon registration as a Small Amount and Short Term Insurance Company.
+
+    (Minimum stated capital, etc.)
+    :   * Stated capital: 10 million yen or more
+        * Annual insurance premiums received: 5 billion yen or less (if exceeded, a license as an insurance company is required)
+
+    (Maximum insurance period and sum insured)
+    :   * Insurance period: two years for non-life insurance; one year for life insurance and medical insurance
+        * Sum insured
+          + Insurance proceeds per insured person must be within the scope of the following categories and must not exceed a total of 10 million yen:
+            - Serious disability/death due to illness: 3 million yen
+            - Hospitalization benefits, etc. due to illness or injury: 800 thousand yen
+            - Serious disability/death due to injury: 6 million yen
+            - Non-life insurance: 10 million yen
+          + The total amount of the sum insured per policyholder must not exceed 100 times the amounts in the aforementioned categories.
+
+### 9. Electronic Payment Instruments (Stablecoins)
+
+**Q9-1**: What registration or other authorization is required for the issuance of electronic payment instruments?
+:   **A9-1**: To issue electronic payment instruments (such as fiat-currency-backed stablecoins) to persons in Japan, the issuer must, for example, register as a Funds Transfer Service Provider (for electronic payment instruments under Article 2, paragraph (5), item (i) of the Payment Services Act ("PSA")), or obtain registration or a license as a trust company and file a notification under the PSA, or obtain authorization as a trust bank and file a notification under the Act on Engagement in Trust Business by Financial Institutions (for electronic payment instruments under item (iii) of the same paragraph).
+
+**Q9-2**: What registration is required for the sale and exchange of electronic payment instruments?
+:   **A9-2**: Where the sale or exchange with other electronic payment instruments is conducted as a business, registration as an Electronic Payment Instruments Service Provider under the Payment Services Act is required.
+
+    For example, where electronic payment instruments are delivered to users and, in exchange therefor, money or cryptoassets are received from users (including so-called on-ramp/off-ramp services), such activity constitutes the sale of electronic payment instruments.
+
+    For other acts that constitute the sale of electronic payment instruments, see ![PDF](/images/common/icon_pdf.gif)[Administrative Guidelines (Part III: Financial Companies) "17. Electronic Payment Instruments Service Providers,"](/common/law/guide/kaisya/17.pdf) I-1-2-2②.
+
+**Q9-3**: What registration is required for intermediary services for the sale, etc. of electronic payment instruments?
+:   **A9-3**: Where acting as an intermediary for the sale or exchange with other electronic payment instruments is conducted as a business, registration as an Electronic Payment Instruments Service Provider under the Payment Services Act ("PSA") is required.
+
+    For example, even where internet-based displays or similar means are used, where a series of acts including such displays constitutes solicitation directed at specific persons toward the conclusion of contracts involving the sale, etc. of electronic payment instruments with a third party, such series of acts, including the internet-based displays, may constitute intermediary for the sale, etc. of electronic payment instruments.
+
+    For other acts that constitute intermediary for the sale, etc. of electronic payment instruments, see ![PDF](/images/common/icon_pdf.gif)[Administrative Guidelines (Part III: Financial Companies) "17. Electronic Payment Instruments Service Providers,"](/common/law/guide/kaisya/17.pdf) I-1-2-2③.
+
+    Following the entry into force of the 2025 amendment to the PSA, where intermediary services for the sale, etc. of electronic payment instruments are conducted as a business on behalf of an Electronic Payment Instruments Service Provider pursuant to entrustment from that service provider, such business may be conducted as an electronic payment instruments and cryptoassets intermediary service, which has lighter registration requirements than those for an Electronic Payment Instruments Service Provider.
+
+**Q9-4**: What registration is required for the management of electronic payment instruments?
+:   **A9-4**: Where the management of electronic payment instruments on behalf of others is conducted as a business, registration as an Electronic Payment Instruments Service Provider under the Payment Services Act is required.
+
+    For example, where a service provider holds, alone or jointly with related business operators, a private key sufficient to transfer users' electronic payment instruments, such that the service provider is in a position to proactively transfer users' electronic payment instruments, such activity constitutes management of electronic payment instruments on behalf of others.
+
+    For other acts that constitute management of electronic payment instruments on behalf of others, see ![PDF](/images/common/icon_pdf.gif)[Administrative Guidelines (Part III: Financial Companies) "17. Electronic Payment Instruments Service Providers,"](/common/law/guide/kaisya/17.pdf) I-1-2-2④.
+
+**Q9-5**: Is any registration required to make payments using electronic payment instruments?
+:   **A9-5**: Where electronic payment instruments are used solely to pay for the purchase or lease of goods or the provision of services, registration as a Funds Transfer Service Provider or as an Electronic Payment Instruments Service Provider under the Payment Services Act is not required.
+
+**Q9-6**: What are the key considerations for providing a wallet for electronic payment instruments?
+:   **A9-6**: Where a wallet provider is in a position to proactively transfer users' electronic payment instruments, such activity constitutes management of electronic payment instruments on behalf of others (see Q&A 9-4). Where displays on an application constitute solicitation directed at specific persons toward the conclusion of contracts involving the sale, etc. of electronic payment instruments with a third party, such acts, including the application displays, may constitute intermediary for the sale, etc. of electronic payment instruments (see Q&A 9-3). A wallet provider that wishes to avoid registration as an Electronic Payment Instruments Service Provider must therefore design its service so as not to fall under either of these categories.
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

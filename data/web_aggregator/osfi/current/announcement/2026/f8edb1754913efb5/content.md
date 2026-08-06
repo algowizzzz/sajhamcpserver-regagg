@@ -1,0 +1,38 @@
+# Relevé des modifications (A3)
+
+Information
+
+Type de document
+
+Relevé des changements
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé sur le revenu de négociation et le revenu de négociation des titres du gouvernement du Canada (A3)
+
+Dernière révision
+
+Décembre 2020
+
+Numéro de relevé
+
+A3
+
+Documentation
+
+* [Exemple de relevé (XLSX, 62 Ko)](/sites/default/files/import-media/data_and_forms/sample-return/2023-11/fr/A3_2020.xlsx)
+* [Règles de validation (XLSX, 26 Ko)](/sites/default/files/import-media/data_and_forms/validation-rules/2023-11/fr/A3_Rules_2020.xlsx)
+* [Revenu de négociation et revenu de négociation des titres du Gouvernement du Canada (A3)](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/revenu-negociation-revenu-negociation-titres-du-gouvernement-du-canada-a3)
+
+| Numéro de la modification | Date d'établissement du rapport | Numéro de la page | Description |
+| --- | --- | --- | --- |
+| 1 | T1 2022 |  | NOUVEAU |
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2020-12-01

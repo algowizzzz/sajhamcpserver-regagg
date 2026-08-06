@@ -1,0 +1,25 @@
+{
+  "doc_id": "df48a4c1d05c75f2",
+  "regulator_id": "esma",
+  "doc_type": "announcement",
+  "title": "ESMA calls on firms to finalise preparations ahead of T+1 settlement deadlines",
+  "language": "en",
+  "source_url": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-firms-finalise-preparations-ahead-t1-settlement-deadlines",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ffb782e1fb36142c0d2f33dcf68c1a69cf60239920cfad55ae3b078ea93e2597",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_esma_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/esma/current/announcement/2026/df48a4c1d05c75f2",
+  "tags": [
+    "eu",
+    "securities",
+    "derivatives"
+  ]
+}

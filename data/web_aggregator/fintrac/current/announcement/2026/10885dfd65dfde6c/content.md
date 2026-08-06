@@ -1,0 +1,196 @@
+Numéro de référence : SIRA-2021-001 
+Juillet 2021 
+ 
+1 
+Bulletin spécial sur le mode de financement des 
+activités terroristes des adeptes de l’extrémisme 
+violent à caractère idéologique  
+ 
+En février 2021, le gouvernement du Canada a ajouté quatre groupes extrémistes violents à caractère idéologique (EVCI) 
+à la liste des entités terroristes du Code criminel. En juin 2021, le gouvernement du Canada a ajouté trois autres EVCI à 
+cette liste, soit deux organisations et une personne. Les entités déclarantes doivent connaître ces nouvelles inscriptions, 
+de même que les tendances observées dans le mode de financement des activités terroristes des auteurs de menace1 
+qui adhèrent à l’EVCI. 
+Le Centre d’analyse des opérations et déclarations financières du Canada (CANAFE) continue à soutenir les entités 
+déclarantes en diffusant des produits de renseignements stratégiques qui apportent une perspective analytique sur la 
+nature, la portée et les menaces posées par le blanchiment d’argent et le financement des activités terroristes. Le 
+présent bulletin expose les résultats d’une analyse réalisée par CANAFE des déclarations d’opérations liées à l’EVCI ainsi 
+que de contenu connexe paru dans les médias et de travaux de chercheurs. 
+Introduction  
+Les tenants de l’EVCI au Canada sont mus par des griefs qui transcendent le spectre traditionnel gauche-droite. L’EVCI se 
+distingue également de l’extrémisme violent à caractère religieux et de l’extrémisme violent à caractère politique. Le 
+Service canadien du renseignement de sécurité répartit la violence perpétrée par les auteurs de menace associés à 
+l’EVCI au Canada en quatre catégories :  
+ la violence xénophobe : violence raciale ou ethnique caractérisée par la peur ou la haine de ce qui est considéré 
+comme étranger, différent ou singulier;  
+ la violence antiautoritaire : violence caractérisée par l’opposition à l’autorité de l’État et des organismes 
+d’application de la loi;  
+ la violence sexiste : violence caractérisée par la haine des personnes de l’autre sexe ou d’une autre orientation 
+sexuelle;  
+ la violence fondée sur d’autres récriminations ou idéologies : violence commise par des individus qui ne sont pas 
+clairement affiliés à un groupe organisé et qui ne font pas l’objet d’une influence externe.  
+                                                           
+ 
+1 Vu la nature complexe et diffuse du contexte de la menace liée à l’EVCI, les auteurs de menace peuvent être des personnes, des 
+cellules, des groupes, des réseaux et des plateformes.
+
+Bulletin spécial sur l’extrémisme violent à caractère idéologique                                                                                  Juin 2021 
+ 
+2 
+ 
+Contexte2 
+La menace terroriste posée par les auteurs de menace associés à l’EVCI grandit un peu partout dans le monde. Selon un 
+rapport publié par la Direction exécutive du Comité contre le terrorisme des Nations unies, les attaques terroristes liées 
+à des mouvements et à des idéologies d’extrême droite3 ont connu une augmentation notable au cours des cinq 
+dernières années. 
+En 2019, Blood and Honour et sa division armée Combat 18 ont été les deux premières organisations associées à l’EVCI à 
+être ajoutées à la liste des entités terroristes du Code criminel. En février 2021, le gouvernement du Canada a intégré à 
+cette liste quatre autres organisations associées à l’EVCI : les Proud Boys, la Division Atomwaffen, The Base et le 
+Mouvement impérial russe. En juin 2021, les Three Percenters, l’Aryan Strikeforce et le néonazi américain James Mason 
+ont également été ajoutés à la liste des entités terroristes.  
+Les violences motivées entièrement ou partiellement par l’EVCI commises au Canada prennent habituellement la forme 
+d’actes spontanés tels que des incendies criminels, des attaques et des homicides. Elles visent notamment les personnes 
+de confession islamique ou juive, les personnes de couleur, les femmes, les Autochtones et les membres des 
+communautés LGBTQ2+. Parmi les attaques liées à l’EVCI perpétrées récemment au Canada, on compte l’attaque à la 
+Mosquée de Québec en 2017, l’attaque à la voiture-bélier à Toronto en 2018 et l’attaque commise dans un salon de 
+massage dans cette même ville en 2020. C’est à la suite de ce dernier événement que des accusations de terrorisme ont 
+été portées pour la première fois au Canada contre une personne adhérant à l’idéologie EVCI. 
+Les auteurs de menace associés à l’EVCI au Canada sont très présents en ligne, car Internet leur permet de se connecter 
+de façon anonyme par-delà les frontières. Les auteurs de menace liés à l’EVCI au Canada utilisent Internet pour diffuser 
+des appels à la violence contre des groupes visés par l’équité dans le monde réel et pour véhiculer dans les médias 
+sociaux des affirmations racistes et misogynes qui s’inscrivent dans les programmes plus vastes des théories de la 
+conspiration et des mouvements antigouvernementaux. 
+Dans le contexte général de l’EVCI, les personnes agissant seules, c’est-à-dire celles qui commettent ou tentent de 
+commettre des attaques violentes dans leur pays ou qui se rendent à l’étranger dans l’intention de se livrer à des actes 
+violents, se financent elles-mêmes en utilisant leurs économies, leurs revenus d’emploi ou de l’argent provenant de la 
+famille ou d’amis. 
+Au niveau international, les auteurs de menace associés à l’EVCI amassent des fonds au moyen d’activités commerciales 
+telles que la vente de marchandise, la tenue d’événements (p. ex. conférences, concerts), le sociofinancement, les frais 
+d’adhésion et les dons. Ils se livrent également au trafic de drogue et au trafic d’armes et commettent des vols pour 
+financer leurs opérations. Ils utilisent ensuite les fonds amassés pour recruter des membres, mener leurs activités 
+quotidiennes et diffuser du contenu promotionnel sous forme de vidéos par exemple. Les fonds servent également à 
+l’organisation de marches et d’événements, à l’entretien de sites Web, au paiement des frais juridiques pour des 
+individus arrêtés en raison de leur implication dans le mouvement EVCI, à l’achat d’armes et à l’établissement de 
+refuges. 
+Dans les dernières années, les plateformes de sociofinancement et les médias sociaux ont commencé à sévir contre les 
+activités promotionnelles et les collectes de fonds menées par l’EVCI. Les auteurs de menace associés à l’EVCI se sont 
+                                                           
+ 
+2 La présente section s’appuie sur des sources ouvertes, des travaux de recherche et des documents externes qui fournissent le 
+contexte dans lequel s’effectue le financement des activités terroristes liées à l’EVCI. 
+3 Selon la définition du gouvernement du Canada, ces groupes appartiendraient à la catégorie de l’EVCI dont traite la présente 
+publication.
+
+Bulletin spécial sur l’extrémisme violent à caractère idéologique                                                                                  Juin 2021 
+ 
+3 
+ 
+alors tournés vers des plateformes plus petites qui, contrairement aux plateformes populaires, ne disposent pas 
+toujours de ressources leur permettant de surveiller les activités liées à l’EVCI et d’y mettre fin. En outre, à la suite du 
+renforcement des restrictions sur les plateformes en ligne, les auteurs de menace associés à l’EVCI encouragent leurs 
+partisans à leur envoyer des fonds par la poste sous forme de chèques ou de mandats-poste. Depuis leur exclusion des 
+grandes plateformes, ces auteurs de menace ont de plus en plus recours à la monnaie virtuelle comme moyen de 
+financement. Ils utilisent notamment les dons en monnaie virtuelle pour mener des activités de propagande et de 
+recrutement. Cette forme de financement n’a été reliée qu’à une seule attaque perpétrée par l’EVCI jusqu’à présent. 
+Observations tirées des déclarations d’opérations douteuses 
+En analysant les déclarations d’opérations douteuses renfermant une référence aux activités associées à l’EVCI, CANAFE 
+a dégagé plusieurs grandes tendances chez les auteurs de menace adhérant à cette idéologie4. Les données confirment 
+en majeure partie les soupçons de financement des activités terroristes et de blanchiment d’argent, particulièrement de 
+produits de crimes liés à la drogue. La plupart des opérations financières liées à l’EVCI sont survenues en Alberta, en 
+Colombie-Britannique et en Ontario. 
+Personnes agissant seules 
+Le comportement financier des personnes agissant seules adeptes de l’EVCI est similaire à celui des personnes agissant 
+seules adhérant à l’extrémisme violent à caractère religieux. Les auteurs d’attaques agissant seuls ont utilisé 
+principalement des fonds personnels provenant par exemple de revenus d’emploi ou de membres de la famille. Rien 
+dans les déclarations ne permet de dire que les membres des familles en question savaient que les fonds allaient servir à 
+commettre des actes violents. 
+Par conséquent, les personnes agissant seules peuvent être difficiles à repérer sur la seule base de leurs opérations ou 
+activités financières. Elles ont transmis ou reçu des fonds au moyen de transferts électroniques et de retrait en espèces. 
+Elles ont également envoyé des fonds en effectuant des opérations régulières de débit et de crédit. De plus, bon nombre 
+d’entre elles ont fait des virements de fonds à des tiers inconnus. Elles ont utilisé leurs propres fonds pour acheter des 
+armes, que ce soit en ligne dans des chaînes de magasins ou en personne. Des opérations de routine ont également été 
+enregistrées dans leur compte de débit et de crédit. 
+Réseaux transfrontaliers 
+Des personnes au Canada peuvent financer des réseaux d’EVCI internationaux sans faire nécessairement partie des 
+groupes organisés en question. Ces personnes font habituellement appel à des entreprises de traitement des paiements 
+et à des entreprises de services monétaires pour effectuer des transferts de fonds internationaux. Prises isolément, ces 
+opérations se chiffraient à de petits montants, mais l’ensemble des transferts récurrents effectués à de multiples points 
+de liaison du même réseau international dans différents pays s’élevaient à une somme importante. Les auteurs de 
+menace mus par l’EVCI ont également reçu du soutien financier sous forme de dons uniques. 
+Les fonds étaient envoyés habituellement pour payer des frais d’adhésion, pour acheter de la marchandise et de 
+l’équipement et pour faire des dons généraux à des auteurs de menace se réclamant de l’EVCI à l’étranger. De plus, 
+certains des bénéficiaires ont transféré les fonds à des personnes chargées du recrutement pour des milices d’extrême 
+                                                           
+ 
+4 Ces déclarations d’opérations ont été produites avant l’ajout de nouvelles entités liés à l’EVCI à la liste des entités terroristes en 
+février et juin 2021.
+
+Bulletin spécial sur l’extrémisme violent à caractère idéologique                                                                                  Juin 2021 
+ 
+4 
+ 
+droite ou d’autres groupes similaires. CANAFE a observé que les Canadiens impliqués étaient pour la plupart les 
+expéditeurs et non les bénéficiaires de ces fonds. 
+Auteurs de menace organisés  
+Les auteurs de menace organisés associés à l’EVCI au Canada mènent leurs activités financières dans des comptes 
+personnels ou des comptes d’entreprise. Les opérations effectuées dans ces comptes ont mis au jour des liens entre les 
+auteurs de menace adhérant à l’EVCI et des personnes et des entreprises accusées de crimes tels que la fraude, le vol, 
+les voies de fait contre un policier, le trafic de drogue ainsi que les infractions liées aux armes. 
+Les auteurs de menace liés à l’EVCI mènent une grande partie de leurs activités de financement au moyen de transferts 
+de fonds électroniques et de dépôts en espèces dans des comptes personnels. La grande majorité des transferts 
+s’élevaient à de petits montants. Les fonds étaient probablement utilisés pour acheter des armes à feu et de 
+l’équipement, de même que pour faire des dons et payer des frais d’adhésion. CANAFE a noté que plusieurs paiements 
+liés à l’EVCI avaient été versés dans des comptes personnels à partir de sites de sociofinancement. 
+CANAFE est conscient que les auteurs de menace associés à l’EVCI utilisent de plus en plus la monnaie virtuelle pour 
+transmettre et recevoir des fonds. Toutefois, les personnes qui effectuent des opérations avec un individu faisant partie 
+d’un réseau d’auteurs de menace mus par l’EVCI ne sont pas nécessairement des auteurs de menace. 
+L’utilisation continue de comptes d’entreprise par des acteurs associés à l’EVCI pourrait permettre à des groupes 
+d’accumuler des sommes plus importantes de fonds sous le couvert d’opérations commerciales légitimes, puisque les 
+opérations effectuées dans ce type de compte comportent habituellement des sommes plus élevées que celles 
+effectuées dans des comptes personnels. Elles peuvent en outre être effectuées sans vraiment susciter de soupçons. 
+Caractéristiques des activités de financement de l’EVCI 
+Les caractéristiques générales des activités de financement de l’EVCI relevées dans les déclarations d’opérations 
+douteuses et établies ci-dessous ne constituent pas nécessairement des signes de financement du terrorisme. Par 
+conséquent, les entités déclarantes doivent les examiner en conjonction avec des indicateurs de risques additionnels 
+tels que les opérations comportant des liens avec des auteurs de menace associés à l’EVCI inscrits dans la liste des 
+entités terroristes ou mentionnés dans des articles médiatiques défavorables. 
+Activités dans le compte personnel 
+— Absence d’opérations personnelles normales telles que des activités dans le compte de débit ou de crédit ou le 
+paiement de factures  
+— Arrêt soudain des activités personnelles 
+— Transferts électroniques de fonds nombreux et fréquents suivis du transfert de l’intégralité de ces fonds à des 
+tiers 
+ 
+Activités dans le compte d’entreprise 
+— Absence de versements réguliers de rémunération et d’activités commerciales, à l’exception de paiements 
+d’assurances et de prêts 
+— Fonds reçus d’entreprises sans liens apparents, ou transmis à ces entreprises, qui ne cadrent pas avec le profil 
+d’affaires du client 
+— Absence d’achats relatifs à l’entreprise
+
+Bulletin spécial sur l’extrémisme violent à caractère idéologique                                                                                  Juin 2021 
+ 
+5 
+ 
+Transmettre une déclaration à CANAFE 
+Pour faciliter le processus de déclaration de CANAFE, veuillez inclure le terme #EVCI à la « Partie G-Description de 
+l’activité douteuse » du formulaire de déclaration d’opérations douteuses, s’il y a lieu. Pour obtenir des instructions sur 
+la transmission de déclarations d’opérations douteuses à CANAFE, consultez la Directive sur la déclaration d’opérations 
+douteuses à CANAFE. 
+ 
+Joindre CANAFE  
+ Par courriel : guidelines-lignesdirectrices@fintrac-canafe.gc.ca (indiquez Bulletin spécial SIRA-2021-001 dans la ligne 
+d’objet) 
+ Par téléphone : 1-866-346-8722 (sans frais) 
+ Par télécopieur : 613-943-7931 
+ Par la poste : CANAFE, 24e étage, 234, avenue Laurier Ouest, Ottawa (Ontario) K1P 1H7 Canada 
+ 
+© Sa Majesté la Reine du chef du Canada, 2021.  
+No de cat. FD4-25/2021F-PDF  
+ISBN 978-0-660-38040-7 
+ 
+Les bulletins spéciaux de CANAFE fournissent des informations sur les méthodes de blanchiment d’argent et de 
+financement des activités terroristes nouvelles, émergentes ou particulièrement d’actualité. Ces bulletins ne 
+constituent pas toutefois des avis juridiques. Veuillez consulter la Loi sur le recyclage des produits de la criminalité et 
+le financement des activités terroristes et ses règlements pour obtenir une description complète des obligations que 
+doivent remplir les entités déclarantes.

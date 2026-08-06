@@ -1,0 +1,22 @@
+Page Content
+
+Today, EIOPA published a new set of statistical information on the European insurance sector based on Solvency II regulatory reporting for the fourth quarter of 2017.
+
+In addition to the regular statistics, for the first time EIOPA is publishing new exposure statistics on the European insurance sector. This new data contains:
+
+- Detailed statistics on types of exposure as well as location of exposure both at European Economic Area and individual country level
+
+- Clear asset classifications including government bonds, commercial bonds and equity
+
+- Real estate exposures with a distinction between commercial and residential exposures
+
+- Raw aggregated exposure data to enable more in-depth analysis by end-users
+
+Starting with today's publication, the new exposure data will become a regular part of the EIOPA insurance statistics which can be accessed via [EIOPA's website](https://goo.gl/Ndq1pK).
+
+**Background**
+
+Want to know more about statistics? See EIOPA's latest Insight on Data and Statistics: <https://youtu.be/f84XPPk9OmM>
+
+Publication date
+:   21 June 2018

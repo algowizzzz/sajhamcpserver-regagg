@@ -1,0 +1,25 @@
+{
+  "doc_id": "92381cabda5eba5a",
+  "regulator_id": "bbc_business",
+  "doc_type": "news_story",
+  "title": "How the dry weather affects your supermarket shop",
+  "language": "en",
+  "source_url": "https://www.bbc.co.uk/news/videos/cre4x0qdr3jo?at_medium=RSS&at_campaign=rss",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9e583a998aeb04f2fd50bcac65298ba0278c63a2d2ef9005244dd7dbdd083184",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_bbc_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bbc_business/current/news_story/2026/92381cabda5eba5a",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.bbc.co.uk/news/videos/cre4x0qdr3jo?at_medium=RSS&at_campaign=rss",
+  "fetch_method": "feed_summary"
+}

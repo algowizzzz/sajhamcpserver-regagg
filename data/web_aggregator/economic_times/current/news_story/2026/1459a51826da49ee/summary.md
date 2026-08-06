@@ -1,0 +1,1 @@
+Summary: # Global Market Today: Asian stocks drop as AI rally pauses, oil dips

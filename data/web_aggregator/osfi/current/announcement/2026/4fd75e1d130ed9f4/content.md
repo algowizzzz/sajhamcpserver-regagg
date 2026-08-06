@@ -1,0 +1,33 @@
+# OSFI-657 – Organization General Contact Information Return
+
+**Type of Publication:** Instructions  
+**Date:** 2015 Revision
+
+## Authority
+
+The information provided in the Return is required pursuant to one or more of the following provisions: sections 628 and 950 of the *Bank Act*, section 495 of the *Trust and Loan Companies Act,* sections 664 and 993 of the *Insurance Companies Act*, or section 431 of the *Cooperative Credit Associations Act*.
+
+## Applicability
+
+This return applies to all Federally Regulated Financial Institutions (FRFIs), Foreign Representative Offices (FROs) and Private Pension Plans (PPPs).
+
+## General
+
+This return should be used to submit any changes to your organization’s general business mailing address, general telephone and fax numbers, general and emergency email addresses. This return should also be used to change your preferred language and organization’s website address. **All fields** located under this return are **mandatory** fields.  This return also requires a mandatory general email address for the organization within your organization profile.
+
+For all FRFIs, this return should be also be used to provide the other general details located under the General Details (FRFI) section of your organization profile.
+
+For FROs, this return should also be used to provide your number of employees.
+
+RRS resubmissions are **not** permitted for this return type. If you identify errors in your profile, you are required to call Returns Administration in order to correct the error(s). This includes changes to existing effective dates.
+
+This return is subject to the Late and Erroneous Filing Penalty (LEFP) Framework for FRFIs only.
+
+## Filing Deadlines
+
+The return should be filed no later than 30 days after the effective date of change.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2015-07-07

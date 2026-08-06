@@ -1,0 +1,24 @@
+{
+  "doc_id": "7c65d329d15448c2",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Alerte \u00e0 la fraude \u2013 Fausse d\u00e9claration et informations trompeuses",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/fa-af/1-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:544f2ff090f673d7c997867e40cdc344042525948c4da26440c4a53e8a4fb836",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/7c65d329d15448c2",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

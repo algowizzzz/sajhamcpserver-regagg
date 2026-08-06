@@ -1,0 +1,1 @@
+Summary: # Capital Structure – Declaration and payment of dividends

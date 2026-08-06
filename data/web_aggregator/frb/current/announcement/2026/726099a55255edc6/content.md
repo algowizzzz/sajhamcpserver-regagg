@@ -1,0 +1,86 @@
+[Skip to main content](#content)
+
+![US Flag](/images/icon-us-flag.svg)
+
+An official website of the United States Government
+
+Here's how you know![Expand More](/images/expand_more.svg)
+
+![.gov icon](https://designsystem.digital.gov/assets/img/icon-dot-gov.svg)
+
+**Official websites use .gov**  
+A **.gov** website belongs to an official government organization in the United States.
+
+![HTTPS icon](https://designsystem.digital.gov/assets/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**  
+A **lock** (LockLocked padlock icon) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[Back to Home](/default.htm)
+[Board of Governors of the Federal Reserve System](/default.htm "Link to Home Page")
+
+* Stay Connected
+  + [Federal Reserve Facebook Page](https://www.facebook.com/federalreserve)
+  + [Federal Reserve Instagram Page](https://www.instagram.com/federalreserveboard/)
+  + [Federal Reserve YouTube Page](https://www.youtube.com/federalreserve)
+  + [Federal Reserve Flickr Page](https://www.flickr.com/photos/federalreserve/)
+  + [Federal Reserve LinkedIn Page](https://www.linkedin.com/company/federal-reserve-board)
+  + [Federal Reserve Threads Page](https://www.threads.net/@federalreserveboard)
+  + [Federal Reserve X Page](https://x.com/federalreserve)
+  + [Federal Reserve Bluesky Page](https://bsky.app/profile/federalreserve.gov)
+  + [Subscribe to RSS](/feeds/feeds.htm)
+  + [Subscribe to Email](/subscribe.htm)
+* [Recent Postings](/recentpostings.htm)
+* [Calendar](/newsevents/calendar.htm)
+* [Publications](/publications.htm)
+* [Site Map](/sitemap.htm)
+* [A-Z index](/azindex.htm)
+* [Careers](/careers.htm)
+* [FAQs](/faqs.htm)
+* [Videos](/videos.htm)
+* [Contact](/aboutthefed/contact-us-topics.htm)
+
+Toggle Dropdown Menu
+
+Main Menu Toggle Button
+Sections
+
+Search Toggle Button
+
+1. [Home](/default.htm)
+2. [News & Events](/newsevents.htm)
+3. [Press Releases](/newsevents/pressreleases.htm)
+
+## Press Release
+
+July 02, 2026
+
+### Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.
+
+For release at 11:00 a.m. EDT
+
+* [Share](# "Share")
+
+The Federal Reserve Board on Thursday announced the execution of the following enforcement action listed below:
+
+Small Business Bank, Lenexa, Kansas  
+PCA Directive dated June 29, 2026
+
+The Federal Reserve Board also announced the termination of the following enforcement actions listed below:
+
+BNP Paribas S.A., Paris, France, BNP Paribas USA, Inc., New York, New York, and BNP Paribas Securities Corp., New York, New York  
+[Cease and Desist Order dated July 17, 2017 (PDF)](https://www.federalreserve.gov/newsevents/pressreleases/files/enf20170717a1.pdf)  
+Terminated June 25, 2026
+
+Community Bankshares, Inc., LaGrange, Georgia  
+[Cease and Desist Order dated April 14, 2026 (PDF)](https://www.federalreserve.gov/newsevents/pressreleases/files/enf20260416a1.pdf)  
+Terminated June 25, 2026
+
+Additional enforcement actions can be searched for [here](https://www.federalreserve.gov/apps/enforcementactions/search.aspx).
+
+For media inquiries, please email [[email protected]](/cdn-cgi/l/email-protection#472a22232e260721352569202831) or call 202-452-2955.
+
+* [Attachment (PDF)](/newsevents/pressreleases/files/enf20260702a1.pdf)
+
+Last Update:
+July 02, 2026

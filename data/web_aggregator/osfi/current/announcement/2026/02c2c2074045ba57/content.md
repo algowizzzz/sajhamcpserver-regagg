@@ -1,0 +1,27 @@
+# Property and casualty insurance companies
+
+We regulate most of the insurance companies that provide insurance for homes, cars and businesses in Canada.
+
+The federal and provincial/territorial governments share jurisdiction over insurers. We supervise property and casualty insurers to ensure they remain financially sound. The provinces and territories regulate licences for insurers and track how they market their products.
+
+## Protection for policyholders
+
+The [Property and Casualty Insurance Compensation Corporation](https://www.pacicc.ca/), an industry-funded, non-profit organization, protects policyholders if their property and casualty insurer fails.
+
+## [Who we regulate](/en/supervision/who-we-regulate "Who we regulate")
+
+See which financial institutions we regulate
+
+![](/sites/default/files/styles/responsive_tabled_medium/public/2023-10/who_we_regulate.jpg?itok=lxubwz3X)
+
+## Related links
+
+* [Financial data for property and casualty insurance companies](/en/data-forms/financial-data/financial-data-property-casualty-companies "Financial data for property and casualty companies")
+* [Reporting on anti-money laundering, anti-terrorist financing and sanctions](/en/data-forms/reporting-returns/reporting-anti-money-laundering-anti-terrorist-financing-sanctions "Reporting on anti-money laundering, anti-terrorist financing and sanctions")
+* [Minimum Capital Test (MCT) 2024](/en/guidance/guidance-library/minimum-capital-test-guideline-2024 "Minimum Capital Test - Guideline (2024)")
+* [Canadian and Foreign Insurance Companies and Fraternal Benefits Societies](/en/supervision/financial-institutions/canadian-foreign-insurance-companies-fraternal-benefits-societies "Canadian and Foreign Insurance Companies and Fraternal Benefits Societies")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-01-18

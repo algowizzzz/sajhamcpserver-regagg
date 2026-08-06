@@ -1,0 +1,24 @@
+{
+  "doc_id": "688abfec9994e305",
+  "regulator_id": "fdic",
+  "doc_type": "announcement",
+  "title": "https://www.fdic.gov/board/federal-register-notice-npr-community-reinvestment-act.pdf",
+  "language": "en",
+  "source_url": "https://www.fdic.gov/board/federal-register-notice-npr-community-reinvestment-act.pdf",
+  "reference_number": null,
+  "published_date": "2026-07-31",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:bb6af4cf03792badd4da4c0dda9325b175b3ca7ac4addbea2f772fe1ff262dd5",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fdic_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fdic/current/announcement/2026/688abfec9994e305",
+  "tags": [
+    "us",
+    "banking"
+  ]
+}

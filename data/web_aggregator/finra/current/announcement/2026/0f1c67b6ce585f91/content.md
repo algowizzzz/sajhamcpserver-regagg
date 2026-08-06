@@ -1,0 +1,162 @@
+# Financial Learning Experience (FLEX®)
+
+Overview
+
+What's New
+
+Accessing FLEX
+
+User Support & Training
+
+FAQ
+
+Financial Learning Experience (FLEX®) is a centralized continuing education (CE) platform that provides e-learning content that firms have the option to leverage for their Firm Element or other training needs.
+
+By delivering Firm Element training via the FLEX platform, your learners will be able to take their training directly from their Financial Professional Gateway (FinPro Gateway™) account.
+
+Currently, the platform includes courses from FINRA’s e-learning catalog. FINRA plans to expand the offering in the future to include courses from other CE content providers in the financial and securities industry. Additionally, FINRA plans to expand the course offerings to include content that may satisfy other CE training requirements such as Investment Adviser Representative CE (IAR CE).
+
+### Delivery Methods
+
+The platform will provide firms with direct access to view, assign and track CE training for their representatives through two delivery methods:
+
+1. the firm’s own learning management system; and
+2. FINRA’s learning experience platform.
+
+### License Types and Pricing
+
+Firms can choose between two types of licenses:
+
+##### Library License
+
+A license where the firm is billed based on the number of users with unlimited course access.
+
+**Pricing:** $60 per user.
+
+\* *Volume discounts will be applied after exceeding 200 users. Use the calculator within the FLEX dashboard to determine your pricing.*
+
+##### Course License
+
+A license where the firm is billed based on the number of courses launched.
+
+**Pricing:** $18 per course for the first 1,500 courses.
+
+\* *Volume discounts will be applied after exceeding 1,500 courses.*
+
+Billing will occur quarterly through E-Bill invoices based on a firm’s license type and consumption.
+
+Email [[email protected]](/cdn-cgi/l/email-protection#0e68626b764e6867607c6f20617c69 "Email FLEX") to learn more.
+
+### **FLEX Learning Catalog**
+
+FINRA offers a variety of interactive online courses that provide an affordable and convenient solution for Firm Element and other training. Courses are available on a variety of topics relevant to individuals in the securities industry including AML, firm operations, communications with the public, sales practices, and product knowledge, among others.
+
+Course content focuses on industry rules and regulations, best practices, and other core subject knowledge. Scenarios and other assessments throughout the courses give learners the chance to apply the material to common situations. Many courses also have the option for users to take an exam at the end of the course to test their knowledge of the course content.
+
+[How to Access the FLEX Catalog (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Accessing-FLEX-Catalog.pdf)
+
+### External Training Providers
+
+FINRA e-Learning Courses can also be purchased separately through the following training content providers:
+
+[iCapital Network](http://www.aiinsight.com/finra-e-learning/ "iCapital Network")
+
+[Quest CE](https://learn.questce.com/finra/ "Quest CE")
+
+[RegEd](https://secure.reged.com/Login/vu/VirtualUniversity/FINRA "RegEd")
+
+[WebCE](https://www.webce.com/products/securities/finra-trainingf "WebCE")
+
+**Note:** Use of FINRA's e-Learning courses does not guarantee compliance with regulatory requirements or create a safe harbor from regulatory responsibilities.
+
+### Earn Certified Financial Planner (CFP®) CE Credits[1](/events-training/flex/overview#endn1)
+
+FINRA's e-learning library offers training on a range of compliance topics, including anti-money laundering, communications with the public, cybersecurity, and senior investor issues, among others — with several courses offering CFP® CE credits (0.5 – 2.0 CE credits per course).
+
+To earn CFP® Credits:
+
+1. [Access the FLEX course catalog (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Accessing-FLEX-Catalog.pdf "Accessing the FLEX Course Catalog Quick Reference Guide (PDF)") for a list of CFP®-eligible courses.
+2. Purchase a CFP®-eligible course from:
+   * Financial Learning Experience
+     + Learners must complete the end-of-course survey to request CFP® CE credit.
+   * Training content providers
+3. Depending on which method you choose to purchase your CFP® course, either FINRA or the vendor will report your credits to the CFP® Board upon course completion.
+
+1 Certified Financial Planner Board of Standards Inc. owns the certification marks CFP®, CERTIFIED FINANCIAL PLANNER™, CFP® (with plaque design) and CFP® (with flame design) in the U.S., which it awards to individuals who successfully complete CFP® Board's initial and ongoing certification requirements.
+
+New courses are added to the FLEX catalog on a quarterly basis. Bookmark this page to view the latest offerings as well as announcements pertaining to system upgrades and enhancements.
+
+### New Firm Element Courses
+
+* 2026 Supervisory Trends Review
+* Red Flags of Money Laundering for Registered Representatives
+* Red Flags of Money Laundering for Operations Professionals
+* Red Flags of Money Laundering for Institutional Sales Representatives
+* 2026 Annual Industry Priorities Review
+* 2026 Annual AML Review
+* 2026 Annual Compliance Review
+
+### Updated Firm Element Courses
+
+* Gifts: Registered Representative Responsibilities
+* Gifts: Understanding Supervisory Responsibilities
+* 529 Savings Plans and ABLE Programs
+
+To gain access to the FLEX dashboard within FINRA Gateway for the first time to subscribe to FLEX, please contact your firm’s Super Account Administrator (SAA). The [Accessing FLEX on FINRA Gateway Quick Reference Guide (PDF)](/sites/default/files/2025-05/FLEX-Quick-Reference-Guide-Accessing-FLEX-FINRA-Gateway.pdf "Accessing FLEX on FINRA Gateway Quick Reference Guide (PDF)") provides additional instructions if needed.
+
+Once granted access to the dashboard, the Firm CE Admin can take the following actions. For further instructions, please view the hyperlinked Quick Reference Guides:
+
+1. [Access the FLEX Catalog (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Accessing-FLEX-Catalog.pdf "Access the FLEX Catalog (PDF)") to view course categories and topics, and to evaluate the content of each course.
+2. Acquire license for course delivery [via Firm LMS (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Distributing-Courses-Through-Your-Firms-LMS.pdf) and access files to upload.
+3. Acquire license for course delivery [via the FLEX (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Distributing-Courses-Through-FLEX-Platform.pdf) platform.
+   * [Upload user information (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-User-Upload.pdf) using the template provided.
+   * [Upload course assignments (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Course-Assignment-Upload.pdf) using the template provided.
+
+For any questions, please contact [[email protected]](/cdn-cgi/l/email-protection#781e141d00381e11160a1956170a1f "Email FLEX").
+
+### Taking Assigned Courses
+
+Persons associated with member firms who have subscribed to the FLEX platform will have access to the their assigned courses via [Financial Professional Gateway (FinPro Gateway™)](/registration-exams-ce/finpro) using the “Firm Assigned CE (FLEX)” under the “My Tasks” section.
+
+Please refer to the [FLEX User Guide (PDF)](/sites/default/files/2025-01/FLEX-Learner-User-Guide.pdf) for detailed instructions.
+
+Find comprehensive guides and resources to help administrators and learners get the most out of the FLEX platform. These step-by-step guides cover platform setup, course management, user administration, and training completion.
+
+### Guides for FLEX Administrators
+
+[Accessing FLEX on FINRA Gateway (PDF)](/sites/default/files/2025-05/FLEX-Quick-Reference-Guide-Accessing-FLEX-FINRA-Gateway.pdf "Accessing FLEX on FINRA Gateway (PDF)")
+
+[Accessing the FLEX Catalog (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Accessing-FLEX-Catalog.pdf "Completing Regulatory Element CE Learning Plans in FinPro Gateway (PDF)")
+
+[Distributing Courses Through Firm LMS (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Distributing-Courses-Through-Your-Firms-LMS.pdf "Distributing Courses Through Firm LMS (PDF)")
+
+[Distributing Courses Through the FLEX Platform (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Distributing-Courses-Through-FLEX-Platform.pdf "Distributing Courses Through the FLEX Platform (PDF)")
+
+[Uploading Users (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-User-Upload.pdf "Uploading Users (PDF)")
+
+[Uploading Course Assignments (PDF)](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Course-Assignment-Upload.pdf "Uploading Course Assignments (PDF)")
+
+### Guides for FLEX Learners
+
+[FLEX Learner User Guide (PDF)](/sites/default/files/2025-01/FLEX-Learner-User-Guide.pdf "FLEX Learner User Guide (PDF)")
+
+### Additional Support
+
+[FINRA Gateway Release Notes](/filing-reporting/finra-gateway/release-notes "FINRA Gateway Release Notes")
+
+1. **I am the SAA and I cannot see the FLEX link listed on my Quick Links in FINRA Gateway. How do I get access to FLEX?**  
+   To add entitlements to FLEX, go to edit entitlements on the User Account Settings page, then find FLEX on the last privilege available to select on the list. Refer to the [Accessing FLEX on the FINRA Gateway](/sites/default/files/2025-05/FLEX-Quick-Reference-Guide-Accessing-FLEX-FINRA-Gateway.pdf) quick reference guide.
+2. **I just want to look at the FLEX catalog. How do I access the catalog?**  
+   To access the FLEX catalog, first, you would need entitlements to FLEX granted by your firm’s SAA. Once granted access, you can preview the catalog using the link on the FLEX Dashboard. Refer to the [Accessing the FLEX Catalog user guide](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-Accessing-FLEX-Catalog.pdf).
+3. **I only want to take the courses from the FINRA Crypto and Blockchain Education Program. What type of license should I get?**  
+   The library license is the most cost-effective choice if you want to take the FINRA Crypto and Blockchain foundational pathway since there are six total courses that have to be completed in sequence.
+4. **I just uploaded the course assignment template but I didn’t get any acknowledgment that it has been received.  How do I find out if my assignment went through?**  
+   You would see the message “Success” on the bottom of the drop box that indicates your assignment went through (see screen shot below).   
+     
+   ![](/sites/default/files/2026-02/flex-faq-4.png)  
+     
+   Please email [[email protected]](/cdn-cgi/l/email-protection#7b1d171e033b1d1215091a5514091c) if you still need confirmation that your assignments were processed successfully.
+5. **How do I run the completion report for my learners’ assignments?**  
+   Once you upload course assignments, the course completion report will be emailed to you the next Monday after the upload and every week thereafter. Please contact the FLEX team at [[email protected]](/cdn-cgi/l/email-protection#4b2d272e330b2d2225392a6524392c) if you want to receive the report on different days or in a different cadence.
+6. **How do I add or remove learners from my firm’s assignment?**  
+   To add learners, you can upload their user information followed by their course assignment through your FLEX platform directly. Refer to the [Uploading Users guide](/sites/default/files/2024-11/FLEX-Quick-Reference-Guide-User-Upload.pdf) for more information. To remove learners, please contact the FLEX team at [[email protected]](/cdn-cgi/l/email-protection#2e48424b566e4847405c4f00415c49).

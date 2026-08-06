@@ -1,0 +1,138 @@
+# Digital and crypto risks
+
+Digital innovations in the finance industry are transforming how we transact, manage money, and think about value. Innovations such as crypto-assets and services may present opportunities for financial institutions, but they could also result in significant risks to the Canadian financial system. We're working to better understand these evolving risks through research, new risk identification, monitoring, public engagements, and participation in Canadian and international initiatives.
+
+## On this page
+
+* [Crypto-assets](#subhead1)
+* [Open banking](#subhead2)
+* [Quantum computing](#subhead3)
+* [Artificial intelligence](#subhead4)
+* [Examples of digital innovation work led by OSFI](#subhead5)
+* [Examples of digital innovation work happening in Canada](#subhead6)
+* [Examples of digital innovation work happening internationally](#subhead7)
+
+## Crypto-assets
+
+Crypto-assets are digital (online) assets that create, verify, and secure transactions using a method of securing data called cryptography, a peer-to-peer network, and a blockchain technology which is a type of online ledger system used to record transactions. There are various types of crypto-assets including bitcoin, ether, and stablecoins.
+
+### Potential crypto-asset risks
+
+Crypto-assets are issued, exchanged, stored, and transacted through the use of novel technology that can be vulnerable to risks, such as cyber, human errors, fraud, or bad actors. For instance, if the private key to a digital wallet is lost, the owner of the crypto-assets will never be able to access these funds again. The value of crypto-assets can also change drastically and lead to significant gains and losses.
+
+We're advancing work on two fundamental areas of crypto-asset risk:
+
+* fiat-referenced crypto-asset (also known as stablecoin) arrangements
+* crypto-asset custodial services
+
+![](/sites/default/files/images/crypto-video-en.jpg)
+
+[Release of final guidance on capital and liquidity treatment of crypto-asset exposures](/en/about-osfi/multimedia-library/osfis-capital-liquidity-treatment-crypto-asset-exposures "OSFI’s Capital and Liquidity Treatment of Crypto-asset Exposures")
+
+## Open banking
+
+Open banking allows people to tell their bank to securely share some financial data with financial technology (fintech) companies or other financial service providers. We were part of [open banking implementation discussions](https://www.canada.ca/en/department-finance/programs/financial-sector-policy/open-banking-implementation.html) led by the Department of Finance.
+
+### Potential open banking risks
+
+Potential risks from open banking implementation may include:
+
+* Operational risks
+* Information security data risk and consumer protection
+* Technology and cyber risks
+* Privacy
+* Liability
+
+## Quantum computing
+
+Quantum computing is an emerging technology that could potentially solve complex problems faster than regular computers. We’re exploring potential risks arising from this technology.
+
+### Potential quantum computing risks
+
+The most significant potential risk from quantum computing is its potential for breaking commonly used encryption algorithms. This could result in accessing customers’ passwords, emails, or other encrypted information.
+
+Although a sufficiently advanced quantum computer isn’t known to currently exist, institutions may still be susceptible to a “store now, decrypt later” attack. In this scenario, the data would be stored until more powerful quantum computers can decrypt it.
+
+## Artificial intelligence
+
+This technology autonomously or partly autonomously processes data through machine learning algorithms or other techniques to:
+
+* generate content
+* make recommendations
+* make predictions
+
+We’re exploring potential risks arising from this technology.
+
+### Potential artificial intelligence risks
+
+Potential risks to institutions from artificial intelligence (AI) technology are both internal and external in nature.
+
+#### Risks from internal adoption
+
+* Model risk, due to explainability of complex AI programs
+* Data management and governance challenges due to the volume and velocity of data
+* Reputational risks if the institution doesn’t adequately account for ethics and fairness in implementing AI systems
+
+#### Risks from external actors adopting AI
+
+* Increased and/or more sophisticated fraud attacks
+* Increased and/or more sophisticated cyber attacks
+* Misinformation and disinformation
+* Potential threats to integrity and security
+
+## Examples of digital innovation work led by OSFI
+
+We’re eager to help Canadian financial institutions navigate the new digital landscape through developing effective guidance and innovative tools.
+
+### Capital and liquidity treatment of crypto-asset exposures
+
+OSFI has finalized guidance for federally regulated banks and insurance companies that allows innovation while setting out expectations on risk management and the financial institution’s exposures to crypto-assets, and defining capital and liquidity requirements.
+
+The [Capital and Liquidity Treatment of Crypto-asset Exposures – Banking Guideline (2026)](/en/guidance/guidance-library/capital-liquidity-treatment-crypto-asset-exposures-banking-guideline-2026 "Capital and Liquidity Treatment of Crypto-asset Exposures (Banking) – Guideline (2026)") is based on detailed updated standards for the classification and treatment of crypto-assets published by the Basel Committee on Banking Supervision. The [Capital Treatment of Crypto-asset Exposures – Insurance Guideline (2026)](/en/guidance/guidance-library/capital-treatment-crypto-asset-exposures-insurance-guideline "Capital Treatment of Crypto-asset Exposures (Insurance) – Guideline") includes variations to reflect the insurance business and align with OSFI’s existing insurance capital frameworks.
+
+Comments from a public consultation from July to September 2023 were taken into consideration when finalizing the guidelines. The final guidelines come in effect on January 1, 2026, and will replace the interim advisory on the regulatory treatment of crypto-asset exposures issued in August 2022.
+
+### Public disclosure of crypto-asset exposures
+
+OSFI’s approach to crypto-assets disclosure expectations will be iterative and responsive to the evolving risk environment. The [Pillar 3 Disclosure Guideline for Domestic Systemically Important Banks](/en/guidance/guidance-library/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-guideline-2022 "Pillar 3 Disclosure Guideline for Domestic Systemically Important Banks (D-SIBs) - Guideline (2022)") (D-SIBs) - Guideline (2025) and [Pillar 3 Disclosure Guideline for Small and Medium-Sized Deposit-Taking Institutions](/en/guidance/guidance-library/pillar-3-disclosure-guideline-small-medium-sized-deposit-taking-institutions-smsbs-2025 "Pillar 3 Disclosure Guideline for Small and Medium-Sized Deposit-Taking Institutions (SMSBs) (2025)") (SMSBs) - Guideline (2025) take a measured approach commensurate with the risk and are responsive to the feedback OSFI received on crypto-asset disclosure expectations.
+
+Crypto-asset disclosures for banks become effective for the fiscal Q1 2026 reporting period, which incorporate the Basel Committee on Banking Supervision standard and is in alignment with the effective date.
+
+In addition, OSFI expects to publish crypto-assets exposures for all institutions from regulatory data filings, beginning as early as 2026.
+
+* [Joint Statement to entities engaging in crypto-asset activities or crypto-related services](/en/news/statement-entities-engaging-crypto-asset-activities-or-crypto-related-services "Statement to entities engaging in crypto-asset activities or crypto-related services")
+* [Consultation on international recommendations related to, and risks posed by, fiat-referenced cryptoasset arrangements and activities](/en/consultation-international-recommendations-related-risks-posed-fiat-referenced-cryptoasset "Consultation on international recommendations related to, and risks posed by, fiat-referenced cryptoasset arrangements and activities")
+
+![](/sites/default/files/images/pillar3-pilier3-video-en.jpg)
+
+[Guidance to enhance transparency, improve data comparability, and strengthen market discipline](/en/about-osfi/multimedia-library/pillar-3-disclosure-guidelines-crypto-asset-exposures "Pillar 3 Disclosure Guidelines on Crypto-asset Exposures")
+
+### Why is the treatment of crypto-asset exposures important
+
+The treatment of crypto-asset exposures reflects the changing risk environment and emerging global patterns while providing clarity to deposit-taking institutions and insurers on how to handle crypto-asset exposures when it comes to capital and liquidity. OSFI clarifies expectations for financial institutions on publicly disclosing their exposures to these assets while building on our success and with the goal for continuous improvement. Public disclosures form an essential part of OSFI’s regulatory regime, provide enhanced transparency, comparability of data, and market discipline for a safer financial system.
+
+### Artificial intelligence and quantum computing
+
+We partnered with the Global Risk Institute to bring together AI thought leaders in a forum to discuss safeguards and risk management in the use of AI at financial institutions. This culminated into a report, [A Canadian Perspective on Responsible AI](/en/about-osfi/reports-publications/financial-industry-forum-artificial-intelligence-canadian-perspective-responsible-ai "Financial Industry Forum on Artificial Intelligence: A Canadian Perspective on Responsible AI"), released on April 17, 2023.
+
+In December 2023, OSFI and the Financial Consumer Agency of Canada (FCAC) issued a voluntary questionnaire to federally regulated financial institutions to gather feedback on their AI and quantum computing preparedness. Building on the insights obtained through the questionnaire, OSFI and FCAC jointly published the [OSFI-FCAC Risk Report - AI Uses and Risks at Federally Regulated Financial Institutions](/en/about-osfi/reports-publications/osfi-fcac-risk-report-ai-uses-risks-federally-regulated-financial-institutions "OSFI-FCAC Risk Report - AI Uses and Risks at Federally Regulated Financial Institutions") on September 24, 2024.
+
+## Examples of digital innovation work happening in Canada
+
+We work with our partners, such as the Financial Consumer Agency of Canada and the Canada Deposit Insurance Corporation, to help guide the Canadian financial industry with regards to digital innovation.
+
+* [Statement to entities engaging in crypto-assets activities or crypto-related services](/en/news/statement-entities-engaging-crypto-asset-activities-or-crypto-related-services "Statement to entities engaging in crypto-asset activities or crypto-related services")
+* [Policy Statement on Consumer-Driven Banking from the 2023 Fall Economic Statement](https://www.canada.ca/en/department-finance/programs/financial-sector-policy/open-banking-implementation/2023-fes-policy-statement-consumer-driven-banking.html)
+* [Final report of the Advisory Committee on Open Banking](https://www.canada.ca/en/department-finance/programs/consultations/2021/final-report-advisory-committee-open-banking.html)
+
+## Examples of digital innovation work happening internationally
+
+We take part in several international forum initiatives that propose responses to the risks posed by digital innovations worldwide, such as:
+
+* The [final international frameworks for the regulation and supervision of crypto-asset activities and global stablecoin arrangements](https://www.fsb.org/2023/07/fsb-finalises-global-regulatory-framework-for-crypto-asset-activities/) published by the Financial Stability Board in July 2023
+* The [prudential treatment of crypto-assets](https://www.bis.org/basel_framework/chapter/SCO/60.htm) published in December 2022 by the Basel Committee on Banking Supervision
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-02-20

@@ -1,0 +1,24 @@
+{
+  "doc_id": "fb507b668779772c",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Bogus Life Insurance Investment Vehicles Identified through SAR Filing | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/bogus-life-insurance-investment-vehicles-identified-through",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8a27ddc4f1f6b3328057948d3bd254b3330f8862efa8440fa2a497e9673e4a64",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/fb507b668779772c",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

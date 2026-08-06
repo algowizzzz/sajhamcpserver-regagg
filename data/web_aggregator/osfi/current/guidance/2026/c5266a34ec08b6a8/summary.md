@@ -1,0 +1,1 @@
+Summary: # Public consultation on the draft Minimum Capital Test (MCT) 2026

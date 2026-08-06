@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published a Call for Evidence on the treatment of unlisted equity and debt without an External Credit Assessment Institution rating in the standard formula. The Call for Evidence follows [the request from t

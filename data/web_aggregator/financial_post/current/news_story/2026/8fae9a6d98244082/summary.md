@@ -1,0 +1,1 @@
+Summary: # Celestica Announces Pricing of Equity Offering

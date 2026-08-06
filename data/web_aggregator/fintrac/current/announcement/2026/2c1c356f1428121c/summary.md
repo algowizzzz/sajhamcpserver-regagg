@@ -1,0 +1,1 @@
+Summary: # Notes d'allocution pour Nada Semaan, Directrice et présidente-directrice générale, Centre d'analyse des opérations et déclarations financières du Canada au Forum des casinos de 2019

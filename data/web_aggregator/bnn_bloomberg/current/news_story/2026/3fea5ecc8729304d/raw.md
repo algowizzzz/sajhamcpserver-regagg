@@ -1,0 +1,7 @@
+# North Vector Dynamics Receives Strategic Investment from Leading European Industrial Defence Group CSG
+
+North Vector Dynamics (NVD), a Canadian-owned and controlled defence technology company headquartered in Calgary, Alberta, has received a strategic investment from CSG N.V., a leading European industrial and defence group. The parties have agreed not to disclose the value of the investment. The company’s valuation now surpasses USD 90 million.
+
+[Read the full story at the source](https://www.bnnbloomberg.ca/press-releases/2026/08/05/north-vector-dynamics-receives-strategic-investment-from-leading-european-industrial-defence-group-csg/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

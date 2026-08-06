@@ -1,0 +1,91 @@
+On 30 July 2026, Blue Motor Finance Limited (BMFL) was placed into administration. Simon Edel, Richard Barker and Alan Michael Hudson of Ernst & Young LLP were appointed as joint administrators.
+
+BMFL (firm reference number 737682) operated as a motor finance lender.
+
+The firm had been running at a loss for a number of years and faced significant compensation liabilities it could not meet.
+
+Simon Edel, Richard Barker and Alan Michael Hudson have been appointed as joint administrators. They are now responsible for BMFL while it is in administration. They will contact all affected customers.
+
+BMFL in administration is no longer lending. However, all outstanding loan agreements remain in place and will continue to be serviced by BMFL in the short term. You should continue to make payments as usual.
+
+BMFL remains liable for any compensation it owes, including under the FCA's motor finance compensation scheme (the scheme).
+
+We are engaging with BMFL and the joint administrators to ensure the best outcomes for customers who are owed compensation. However, customers are unlikely to receive all the money they’re owed. We know this will be disappointing. Having become aware that BMFL was in financial difficulty, we have worked to make sure that the firm's decisions secured the best outcome for redress consumers. Alternative options would have reduced the likelihood of any redress being paid.
+
+Customers who are struggling financially can get free and impartial guidance from [MoneyHelper](https://www.moneyhelper.org.uk/en "Free and impartial help with money, backed by the government | MoneyHelper").
+
+All customers should remain alert to the possibility of fraud.
+
+If customers get an unexpected phone call from someone claiming to be from BMFL, the joint administrators or the FCA, end the call and contact the relevant party directly.
+
+Find out more about [protecting yourself from scams](/consumers/protect-yourself-scams "Protect yourself from scams").
+
+If you're looking for an alternative firm to provide a loan, you should only deal with firms authorised by us. If you're unsure whether a firm is authorised, use [FCA Firm Checker](/consumers/check-if-firm-fca-authorised "FCA Firm Checker").
+
+## Who to contact
+
+If you believe you have a claim against BMFL, or have any questions about your loan, please contact the joint administrators’ customer support team.
+
+Email: [[email protected]](/cdn-cgi/l/email-protection#347679725550595d5a5d47404655405d5b5a74415f1a514d1a575b59 "BMFadministration@uk.ey.com").
+
+[Visit the EY website](https://www.ey.com/en_uk/administrations/blue-motor-finance-limited.html  "Blue Motor Finance Limited (in Administration) (“the Company”) (“Old Co”) | EY").
+
+## Support for BMFL customers
+
+Show all
+
+### [Is the FCA overseeing the administration?](#expandable1912146)
+
+The joint administrators are responsible for BMFL. However, BMFL continues to be FCA authorised and needs to comply with its regulatory obligations while in administration.
+
+The joint administrators are officers of the court and must comply with insolvency law. The individuals appointed are authorised to act as licensed insolvency practitioners by the Insolvency Practitioners Association.
+
+We will continue to work with the joint administrators to resolve the complaints about motor finance compensation, recognising the [scheme has been partially suspended](/news/statements/motor-finance-scheme-partially-suspended "Motor finance scheme partially suspended").
+
+### [What is the Financial Services Compensation Scheme (FSCS) and will it cover any compensation due for being overcharged on my motor finance agreement?](#expandable1912191)
+
+The [FSCS](https://www.fscs.org.uk/ "Financial Services Compensation Scheme") protects consumers when financial services firms fail. It is the compensation scheme for customers of UK authorised financial services firms.
+
+Generally, there is no FSCS cover for consumer credit lenders. Any money owed to customers under our [motor finance compensation scheme](/consumers/car-finance-complaints "Car finance claims") will not be covered by the FSCS.
+
+### [I have made a complaint to BMFL, what happens now?](#expandable1912196)
+
+If you have a complaint or a claim against BMFL, the joint administrators will contact you.
+
+If you want more details about how complaints or claims will be dealt with, contact the joint administrators using the details above.
+
+### [What happens if my loan was sold on?](#expandable1912201)
+
+If your loan was sold on before the end of its fixed term, the purchaser may now be responsible for administering the scheme.
+
+Original lenders and debt purchasers must cooperate with one another when carrying out their obligations under the scheme, including sharing information.
+
+If you complain to BMFL, we’d expect the joint administrators to pass on your complaint to the purchaser, if that purchaser has become responsible.
+
+You can also complain to the purchaser directly. If the purchaser is not responsible, it must forward the complaint promptly to BMFL and tell you or your personal representative that it has done so.
+
+### [How many customers are owed compensation and how many are likely to miss out on receiving it?](#expandable1912206)
+
+The joint administrators will decide and provide more information on how many customers are owed and will receive compensation. It is, however, very unlikely that customers owed compensation will receive the full amount they are owed.
+
+We will continue to work with the joint administrators to make sure that BMFL’s redress obligations are progressed as quickly and efficiently as possible, recognising that the scheme is currently partially suspended.
+
+### [I would like to make a new complaint](#expandable1912211)
+
+The joint administrators will share information in due course on how customer complaints relating to BMFL will be handled.
+
+### [Do I need to use a claims management company (CMC)?](#expandable1912216)
+
+A CMC may approach you offering to help you make a claim.
+
+You don't need to use a CMC or law firm to make a complaint or use the motor finance compensation scheme; you can complain for free yourself.
+
+A CMC or law firm may charge up to 36% in fees, including VAT, out of any compensation you get back.
+
+### [Has the firm failed because of the motor finance compensation scheme?](#expandable1912221)
+
+BMFL was loss-making for a number of years, regardless of any compensation it owes.
+
+We introduced a compensation scheme after the courts found firms had acted unlawfully and owed compensation to consumers. The scheme is the quickest and most efficient way for consumers to receive that compensation.
+
+In our [Policy Statement](/publications/policy-statements/ps26-3-motor-finance-consumer-redress-scheme "PS26/3: Motor finance consumer redress scheme"), we set out the cost benefit analysis of the scheme. We estimate that complaint handling costs for individual lenders would be much higher without the scheme. In addition, without intervention, firms would face significant uncertainty about the scale of their ultimate liabilities and the timeframe over which these costs would be resolved.

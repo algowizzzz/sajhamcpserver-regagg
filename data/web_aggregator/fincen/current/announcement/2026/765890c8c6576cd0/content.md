@@ -1,0 +1,61 @@
+# Currency Transaction Reporting: Aggregation
+
+[fincenruling2003-1.pdf](/system/files/administrative_ruling/fincenruling2003-1.pdf "fincenruling2003-1.pdf")
+(115.83 KB)
+
+FinCEN Ruling 2003-1
+
+Currency Transaction Reporting: Aggregation
+
+Issued Date
+
+October 03, 2002
+
+Dear [ ]:  
+This responds to your email dated July 11, 2002, regarding the aggregation of currency transactions pursuant to 31 CFR § 103.22. You have asked whether the transactions described below must be aggregated for purposes of filing a currency transaction report (“CTR”).
+
+Agent “A” and Agent “B” are both agents of “[ ] Licensee,” a [ ] money transmitter licensed by the State of [ ]. A customer goes to Agent A and gives Agent A $7,000 cash and requests that it be wired to an individual named by the customer. On that same day, the same customer then goes to Agent B and gives Agent B $7,000 cash and requests that it be wired to the same individual that the customer had Agent A wire money to. Neither agent is aware of the other transaction. However, [ ] Licensee is aware of both transactions.
+
+Specifically, you have asked the following questions:
+
+1. Are these two transactions aggregated and thus treated as a single transaction in currency of more than $10,000, thereby triggering a CTR filing obligation under 31 CFR § 103.22?  
+If a financial institution has knowledge that multiple transactions by or on behalf of any person result in either cash in or cash out totaling more than $10,000 during any one business day, the financial institution must file a CTR. See 31 CFR § 103.22(c)(2). For purposes of the regulations implementing the Bank Secrecy Act, a financial institution includes all of its agents and branches. See 31 CFR § 103.11(n). Thus, [ ] Licensee must file a CTR because it is aware that multiple transactions in currency aggregating more than $10,000 have been conducted by or on behalf of the same person in one business day at the agents of [ ] Licensee.
+
+2. If a CTR must be filed, which entity has the reporting obligation: Agent A, Agent B, or the [ ] Licensee?  
+[ ] Licensee is required to file the CTR because it is the financial institution that has knowledge of the aggregated transactions totaling over $10,000 in cash.
+
+3. Would that reporting obligation change if the customer had Agent A and Agent B wire the money to two different recipients instead of wiring it to the same recipient?  
+Currency transaction reports must be filed with respect to both “cash in” and “cash out” transactions. Thus, in the scenario set forth above, [ ] Licensee is required to file a CTR based on its knowledge that Agents A and B have received over $10,000 in cash (constituting “cash in”) from the same customer on the same day for the purchase of funds transfers. Whether the funds are transmitted to the same recipient or to multiple recipients is irrelevant to this determination. However, the number and identity of recipients is relevant to the determination whether a CTR must be filed with respect to the “cash out” transaction(s) involving receipt of the funds transfer. For example, if one recipient goes to an agent of [ ] Licensee and receives the proceeds of the funds transfer in cash for $14,000, the agent is required to file a CTR for cash out over $10,000 to the recipient. It should also be noted that [ ] Licensee and its agents have a continuing obligation to monitor transactions for suspicious activity in accordance with 31 CFR § 103.20.  
+Should you have any questions, please contact Shelley Waxman of my staff at (202) 354-6387.
+
+Very truly yours,
+
+-signed-  
+David K. Gilles  
+Acting Assistant Director  
+Office of Compliance and Regulatory Enforcement
+
+Financial Institution
+
+Casinos
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

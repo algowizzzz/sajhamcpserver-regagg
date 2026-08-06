@@ -1,0 +1,1 @@
+Summary: # Revised OSFI Capital Ruling for Limited Recourse Capital Notes

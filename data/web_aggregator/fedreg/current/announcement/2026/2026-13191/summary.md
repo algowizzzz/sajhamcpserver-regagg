@@ -1,0 +1,1 @@
+Summary: # Resolution Submissions Required for Covered Insured Depository Institutions

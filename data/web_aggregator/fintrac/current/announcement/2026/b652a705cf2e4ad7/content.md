@@ -1,0 +1,65 @@
+# Money Services Business Registry
+
+Consult information on the most recent registration status of money services businesses and foreign money services businesses from the Financial Transactions and Reports Analysis Centre of Canada’s (FINTRAC) registry.
+
+## Consult the Money Services Business Registry
+
+Money services businesses operating in Canada, and foreign money services businesses that direct and provide services to clients in Canada, must register with FINTRAC before they begin to operate.
+
+Registration with FINTRAC does not indicate that FINTRAC endorses or licenses the business. It indicates only that the business has satisfied the legal requirements to register. FINTRAC does not issue licenses or certificates of registration to businesses it regulates.
+
+FINTRAC cannot provide further information on a business other than what is made available in the Money Services Business Registry.
+
+**It is important to verify the registration details listed in the registry, such as the name, number and status of a money services business.**
+
+To find out more about conducting transactions with a money services business, consult: [Conducting transactions with a money services business](/public/businesses-entreprises-eng).
+
+FINTRAC updates the Money Services Business Registry on a monthly basis. All fields are searchable. A downloadable version is also available.
+
+### Registration status of money services businesses
+
+* Revoked: a business that is [no longer registered](revoked-revoquee-eng) due to not answering a FINTRAC clarification request, not providing assistance to FINTRAC or being found ineligible for registration
+* Ceased: a business notified FINTRAC that it no longer offers prescribed services to consumers
+* Expired: a business that did not renew its registration after 2 years
+* Registered: a business that is currently registered with FINTRAC
+
+**Note:**
+
+* FINTRAC is actively processing new money services business registration requests and responding to requests received in the order they are received.
+* Registration renewals are continuously in progress. If a business has submitted a renewal application but its registration has passed its expiry date, it remains registered with FINTRAC until its renewal is processed and will have a registration status of Registered. A business that has not submitted a renewal application before the expiry date is deemed to have an expired registration, and will have a registration status of Expired.
+
+[![](/images/download.png)
+
+Money Services Business Registry (XLS version, 1.1 mb)](/msb-esm/reg-eng.xlsx)
+
+[![](/images/download.png)
+
+Money Services Business Registry (CSV version, 2.2 mb)](/msb-esm/reg-eng.csv)
+
+## Search results
+
+| Organization Names (Legal and Operating) | Business Address | Website | Services Offered | MSB Registration Status | MSB Registration Number | MSB Initial Registration Date YYYY/MM/DD | MSB Registration Expiry Date YYYY/MM/DD | MSB Registration Cessation Date YYYY/MM/DD | MSB Registration Revocation Date YYYY/MM/DD | Jurisdiction of Incorporation | Incorporation Number | Incorporation Date YYYY/MM/DD | Foreign MSB Indicator |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DATATABLE | | | | | | | | | | | | | | | | | | | | | |
+
+## Glossary
+
+MSB
+:   Money Services Business
+
+PSP
+:   Payment Service Provider
+
+ABM
+:   Automated Banking Machine
+
+## Related links
+
+* [Check to see if you need to register with FINTRAC as a money services business](/msb-esm/questions/2-eng)
+* [Denial or revocation of registration](/msb-esm/register-inscrire/respond-eng#s5)
+* [Who is not eligible to register with FINTRAC](/msb-esm/register-inscrire/no-eng)
+* [Money services businesses](/msb-esm/msb-eng)
+* [Money services businesses with revoked registration](/msb-esm/revoked-revoquee-eng)
+
+Date Modified:
+:   2026-07-29

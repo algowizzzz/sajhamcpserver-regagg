@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Delete Obsolete Rule Text Regarding The Now-Completed Tick Size Pilot

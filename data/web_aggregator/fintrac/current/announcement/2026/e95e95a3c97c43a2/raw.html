@@ -1,0 +1,1808 @@
+﻿<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="fr" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<html class="no-js" lang="fr" dir="ltr">
+<!--<![endif]-->
+<head>
+	
+
+
+
+    <meta charset="utf-8">
+    <!-- Version 17.1.1 Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+	<title>Instructions et spécifications pour la transmission en format XML de déclarations par lots</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta name="description" content="Définit le format et les spécifications pour la transmission de déclarations par lots à CANAFE en format XML - Spécifications XML générales">
+    <meta name="dcterms.title" content="Instructions et spécifications pour la transmission en format XML de déclarations par lots | CANAFE – Canada.ca  ">
+    <meta name="dcterms.creator" content="Gouvernement du Canada, Centre d'analyse des opérations et déclarations financières du Canada">
+    <meta name="dcterms.issued" title="W3CDTF" content="2009-10-14">
+    <meta name="dcterms.modified" title="W3CDTF" content="2017-06-29">
+    <meta name="dcterms.subject" title="scheme"  content="Rapport; spécification; système; instructions; technologie de l'information; programmation lots; format; XML; casino">
+    <meta name="dcterms.language" title="ISO639-2"  content="fra">
+
+	<link href="/theme-wet10/gcweb/assets/favicon.ico" rel="icon" type="image/x-icon">
+	<!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">-->
+	<link rel="stylesheet" href="/theme-wet10/gcweb/css/wet-boew.min.css">
+
+	<link rel="stylesheet" href="/theme-wet10/GCWeb/css/theme.min.css">
+    <link rel="stylesheet" href="/scripts/css/fintrac.css">
+	
+	<!--InvitationManager Files -->
+	<link rel="stylesheet" href="/invitation-manager/Overlay.css">
+	<!-- End InvitationManager Files -->
+
+<noscript><link rel="stylesheet" href="/theme-wet10/wet-boew/css/noscript.min.css" /></noscript>
+
+	  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P63QM5N0BY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-P63QM5N0BY');
+  </script>
+
+	
+</head>
+<body vocab="http://schema.org/" typeof="WebPage">
+
+
+
+<nav id='nav'>
+<ul id="wb-tphp">
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-cont">Passer au contenu principal</a>
+</li>
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-info">Passer à Au sujet du gouvernement</a>
+</li>
+</ul>
+</nav>
+
+
+<header>
+<div id="wb-bnr" class="container">
+<div class="row">
+<section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+<h2 class="wb-inv">Sélection de la langue</h2>
+<ul class="list-inline mrgn-bttm-0">
+<li>
+<!-- Check this -->
+<a lang="en" hreflang="en"  href="/reporting-declaration/XML/mod1XML-fra.php">
+<span class="hidden-xs">English</span><abbr title="English" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">en</abbr></a>
+</li>
+</ul>
+</section>
+<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" resource="#wb-publisher" typeof="GovernmentOrganization">
+
+
+<a href="https://www.canada.ca/fr.html" property="url"><img src="/theme-wet10/GCWeb/assets/sig-blk-en.svg" alt="Gouvernement du Canada" property="logo"><span class="wb-inv"> / <span lang="en">Government of Canada</span></span></a>
+<meta property="name" content="Gouvernement du Canada">
+<meta property="areaServed" typeof="Country" content="Canada">
+<link property="logo" href="/theme-wet10/GCWeb/assets/wmms-blk.svg">
+</div>
+<section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+<h2>Recherche</h2>
+<form action="https://www.canada.ca/fr/analyse-operations-declarations-financieres/rechercher.html" method="get" name="cse-search-box" role="search">
+<div class="form-group wb-srch-qry">
+<label for="wb-srch-q" class="wb-inv">Recherche sur le site de CANAFE</label>
+<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Recherche sur le site de CANAFE">
+<datalist id="wb-srch-q-ac">
+</datalist>
+</div>
+<div class="form-group submit">
+<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Recherche</span></button>
+</div>
+</form>
+</section>
+</div>
+</div>
+
+
+	<nav class="gcweb-menu" typeof="SiteNavigationElement">
+	<div class="container">
+	<h2 class="wb-inv">Menu</h2>
+	<button type="button" aria-haspopup="true" aria-expanded="false">Menu<span class="wb-inv"> principal</span> <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+	<ul role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-fr.html">
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/emplois.html">Emplois et milieu de travail</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+	<li role="presentation"><a role="menuitem" href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/entreprises.html">Entreprises et industrie</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+	<li role="presentation"><a role="menuitem" href="https://international.gc.ca/world-monde/index.aspx?lang=fra">Canada et le monde</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/finance.html">Argent et finances</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+	</ul>
+	</div>
+	</nav>
+	
+
+<nav id="wb-bc" property="breadcrumb">
+<h2>Vous êtes ici :</h2>
+<div class="container">
+<ol class="breadcrumb">
+<li><a href='https://www.canada.ca/fr.html'>Canada.ca</a> </li><li><a href='/intro-fra'>CANAFE</a> </li><li><a href='/reporting-declaration/electron-fra'>Méthodes de déclaration à CANAFE</a> </li><li><a href='/reporting-declaration/info/f2r-eng'>Système de déclaration en ligne de CANAFE</a> </li><li><a href='/reporting-declaration/XML/mod1XML-fra'>XML</a> </li></ol>
+</div>
+</nav>
+</header>
+<main property="mainContentOfPage" resource="#wb-main" class="container" typeof="WebPageElement"><h1 id="wb-cont" property="name">Instructions et spécifications pour la transmission en format XML de déclarations par lots</h1>
+<p><strong>MODULE 1</strong></p>
+<p><strong>30 mai 2015</strong></p>
+<h2>Sur cette page</h2>
+<p class="mrgn-lft-lg"><a href="#changes">Modifications apportées dans la présente</a></p>
+  <ol class="mrgn-lft-lg">
+          <li><a href="#s1"><strong>Renseignements généraux</strong></a></li>
+    <li><a href="#s2"><strong>Procédures d'acceptation</strong></a></li>
+    <li><a href="#s3"><strong>Transmission, accusé de réception et modification des lots</strong></a>
+        <ul class="list-unstyled">
+            <li>3.1 <a href="#s3-1">Accusé de réception de lot</a>
+                <ul>
+                    <li class="list-unstyled">3.1.1 <a href="#s3-1-1">Lot accepté</a></li>
+                    <li class="list-unstyled">3.1.2 <a href="#s3-1-2">Lot rejeté</a></li>
+                </ul>
+            </li>
+            <li>3.2 <a href="#s3-2">Déclarations retournées à des fins de modification (DRM)</a></li>
+            <li>3.3 <a href="#s3-3">Modification</a>
+                <ul>
+                    <li class="list-unstyled">3.3.1 <a href="#s3-3-1">Modifications par lots</a></li>
+                    <li class="list-unstyled">3.3.2 <a href="#s3-3-2">Corrections par l'entremise de F2R</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li><a href="#s4"><strong>Spécifications générales</strong></a>
+        <ul class="list-unstyled">
+            <li>4.1 <a href="#s4-1">Exigences générales de formatage</a>
+                <ul>
+                    <li class="list-unstyled">4.1.1 <a href="#s4-1-1">Préalable</a></li>
+                    <li class="list-unstyled">4.1.2 <a href="#s4-1-2">Jeu de caractères</a></li>
+                    <li class="list-unstyled">4.1.3 <a href="#s4-1-3">Version du schéma</a></li>
+                    <li class="list-unstyled">4.1.4 <a href="#s4-1-4">Conventions utilisées dans les spécifications XML</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li><a href="#s5"><strong>Tables de codes et règles d'introduction des noms</strong></a></li>
+    <li><a href="#s6"><strong>Formatage des accusés de réception</strong></a>
+        <ul class="list-unstyled">
+            <li>6.1 <a href="#s6-1">Configuration détaillée - accusé de réception de lots</a></li>
+            <li>6.2 <a href="#s6-2">Exemples d'accusés de réception</a>
+                <ul>
+                    <li class="list-unstyled">6.2.1 <a href="#s6-2-1">Exemple d'accusé de réception pour un lot accepté</a></li>
+                    <li class="list-unstyled">6.2.2 <a href="#s6-2-2">Exemple d'accusé de réception pour un lot rejeté</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li><a href="#s7"><strong>Messages de déclarations retournées à des fins de modification (DRM)</strong></a>
+        <ul class="list-unstyled">
+            <li>7.1 <a href="#s7-1">Formatage des messages DRM</a></li>
+            <li>7.2 <a href="#s7-2">Exemple de message de DRM</a></li>
+        </ul>
+    </li>
+    <li><a href="#s8"><strong>Validation des déclarations et codes d'erreurs dans le traitement</strong></a>
+    	<ul class="list-unstyled">
+            <li>8.1 <a href="#s8-1">Règles de validation des déclarations</a></li>
+            <li>8.2 <a href="#s8-2">Codes d'erreurs dans le traitement des lots</a></li>
+        </ul>
+    </li>
+    <li><a href="#s9"><strong>Désignation des fichiers de lots</strong></a>
+        <ul class="list-unstyled">
+            <li>9.1 <a href="#s9-1">Norme de désignation des fichiers de lots</a></li>
+            <li>9.2 <a href="#s9-2">Norme de désignation des fichiers d'accusé de réception de lots de CANAFE</a></li>
+            <li>9.3 <a href="#s9-3">Norme de désignation des fichiers de messages de DRM</a></li>
+        </ul>
+    </li>
+        </ol>
+
+<h2 id="changes">Modifications apportées dans la présente</h2>
+<p><strong>Règles de validation des lots</strong></p>
+<p>Les  spécifications de formatage du fichier d'accusé de réception de la section 6  ont été modifiées et comprennent désormais le numéro de la règle de validation.  Il vous faudra peut-être apporter des changements à la programmation de vos  systèmes.</p>
+<p>La section 8 du présent module a été modifiée et comprend  désormais des informations sur la validation de déclarations transmises par lot.</p>
+<h2 id="s1">1 Renseignements généraux</h2>
+<p>Ce document de spécifications a pour objet de communiquer aux entités déclarantes les exigences et les conditions à satisfaire pour la transmission des déclarations suivantes au Centre d'analyse des opérations et déclarations financières du Canada (CANAFE), en utilisant <strong>le format XML pour le transfert électronique de fichiers par lots</strong> :</p>
+<ul>
+    <li>Les déclarations relatives à un déboursement de casino (DDC)</li>
+</ul>
+<p>Les spécifications établies aux parties 4 et 5 définissent les caractéristiques de fichier acceptables pour la transmission électronique en format XML de déclarations par lots. Il faut respecter ces caractéristiques, à moins qu'elles ne soient remplacées par de nouvelles spécifications.</p>
+<p>Chaque révision du document indiquera une date de publication, au lieu d'y attribuer un nouveau numéro de version suite à chaque révision. On indiquera également une date d'entrée en vigueur si celle-ci est differente de la date de publication.</p>
+<p>Le présent document se conforme aux dispositions de la <em>Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes</em> (la <em>Loi</em>) et à ses règlements connexes, le <em>Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes</em>. Il a été préparé uniquement à titre d'information. Il ne constitue pas un avis juridique et ne vise aucunement à remplacer la Loi et les textes réglementaires connexes. Pour de plus amples renseignements sur le blanchiment d'argent, le financement des activités terroristes ou toute autre exigence en vertu de la Loi et des règlements, y compris quelles personnes et entités répondent à la définition d'&#171; entité déclarante &#187;, veuillez consulter la ligne directrice qui vous convient à la page des lignes directrices du site Web de CANAFE.</p>
+<p>Dans le présent document, toute référence à des montants en dollars (tel que 10 000 $) est faite en dollars canadiens ou à son équivalent en devises étrangères.</p>
+<h2 id="s2">2 Procédures d'acceptation</h2>
+<p>Pour que soit approuvée votre participation à la transmission en format XML de déclarations par lots en vertu de cette version des spécifications, il faut que les conditions suivantes soient réunies :</p>
+<ul>
+    <li>être inscrit auprès de CANAFE;</li>
+    <li>le respect du processus d'enregistrement lié à l'obtention du certificat d'infrastructure à clé publique (ICP);</li>
+    <li>l'installation et la configuration du logiciel pour la transmission par  lots;</li>
+    <li>la transmission avec succès de données d'essai en mode opérationnel d'essai par l'entremise du canal de formation du logiciel pour la transmission par  lots pour chaque genre de déclaration à être transmise par lots.</li>
+</ul>
+<p>Pour en savoir plus sur le processus d'enregistrement à l'ICP et l'installation du logiciel  pour la transmission par  lots, consultez la page de déclaration du site Web de CANAFE <br />
+    (https://fintrac-canafe.canada.ca).</p>
+<p>Suite à tout changement au format d'un ou plusieurs types de déclarations transmis par lot, vous devrez transmettre des données d'essai en mode opérationnel d'essai (test) pour fins de procédures d'acceptation. À titre d'exemple, si vous transmettez vos DDC par lots et que le format passe de la version &#171; 1.0 &#187; à &#171; 2.0 &#187;, vous aurez à transmettre des données d'essai selon le nouveau format.</p>
+<p>À titre de transmetteur de fichiers de lots, on vous demandera de transmettre des données d'essai en mode opérationnel d'essai (&#171; <strong>test</strong> &#187; par l'entremise du <strong>canal de formation </strong>du logiciel de transmission par  lots), suivant les règles suivantes :</p>
+<ul>
+    <li>les données d'essai consisteront en un ensemble de déclarations contenant des données que vous auriez habituellement à communiquer. Le fichier d'essai doit contenir un seul en-tête de lot, entre 25 et 100 déclarations et une seule fin de lot. Au moins cinq fichiers d'essai sont requis;</li>
+    <li>le formatage des enregistrements de lots doit respecter les spécifications énoncées aux parties 4 et 5, sinon le lot et/ou les déclarations seront rejetées. Si les fichiers sont illisibles par suite d'erreurs de format ou autres, des messages d'erreurs vous seront envoyés au moyen du logiciel ViaSafe pour expliquer la raison du ou des problèmes;</li>
+    <li>les codes d'emplacement dans vos déclarations d'essai doivent représenter des emplacements réels pour l'entité déclarante.</li>
+    <li>sur réception des données d'essai par CANAFE, celles-ci seront traitées et un accusé de réception avec, le cas échéant, des messages d'erreurs seront envoyés au transmetteur dans les deux jours ouvrables;</li>
+    <li>si toutes les déclarations d'au moins quatre des cinq lots d'essai que vous avez transmis ne contiennent aucune erreur (c'est-à-dire que les champs requis sont dûment remplis, que le fichier et les champs de données sont correctement formatés et que les codes d'emplacement sont valides), CANAFE produira une acceptation définitive, de sorte que vous pourrez commencer à expédier vos déclarations (en mode &#171; production &#187;) à la date indiquée. L'admissibilité sera établie en fonction des cinq derniers lots transmis à CANAFE;</li>
+    <li>lorsqu'un fichier d'essai est incorrectement formaté ou que des déclarations d'essai contiennent des erreurs dans les champs obligatoires aux fins de traitement, vous devez faire parvenir à CANAFE un nouvel ensemble de données d'essai. Il vous incombe de corriger ces erreurs pour que CANAFE puisse vous autoriser à commencer la production de vos déclarations.</li>
+</ul>
+<h2 id="s3">3 Transmission, accusé de réception et modification des lots</h2>
+<p>Les lots peuvent être transmis à CANAFE en tout temps, peu importe le jour et l'heure. Tous les lots reçus par CANAFE font l'objet d'un accusé de réception. (Voir le paragraphe 3.1)</p>
+<p>Les lots ne peuvent contenir qu'un seul genre de déclaration à la fois. La taille d'un fichier ne doit pas dépasser 5 mégaoctets.</p>
+<p>Le fichier de lot doit être placé dans le répertoire de fichiers à transmettre pour lequel votre logiciel pour la transmission par lots a été configuré.</p>
+<p>Pour la transmission d'un nouveau lot de DDC, consultez le module 2. Pour les déclarations retournées à des fins de modification, lisez le paragraphe 3.2. Pour les autres modifications, lisez le paragraphe 3.3. Même si vous transmettez vos déclarations par lots, plutôt que de présenter des lots de correction, vous pouvez choisir de traiter les corrections ou les suppressions pour les déclarations par l'entremise de F2R, le site Web sécurisé de CANAFE. Voir le paragraphe 3.3.2 pour obtenir plus de renseignements.</p>
+<h3 id="s3-1">3.1 Accusé de réception de lot</h3>
+<p>Le logiciel pour la transmission par lots produit un message de journal pour indiquer que le fichier a été expédié et pour confirmer que le fichier a bel et bien été transféré à CANAFE (mais pas nécessairement traité). À la suite du traitement du fichier par CANAFE, un message vous est retourné au moyen du logiciel pour la transmission par lots pour accuser réception du fichier, indiquer le nombre de déclarations acceptées et communiquer les messages d'erreurs, s'il y a lieu. Le contenu des déclarations <strong>ne</strong> vous est <strong>pas</strong> retourné, seuls les renseignements d'identification du lot et les messages d'erreurs pertinents le sont.</p>
+<p>Les messages d'erreurs contiennent les renseignements renvoyant au numéro de référence de la déclaration de l'entité déclarante (<strong>OrganizationReportReferenceIdentifier</strong>). Le message d'erreur contient aussi l'élément et la nature de l'erreur. Si le lot ne peut être traité, un message de rejet vous est retourné par le biais du logiciel pour la transmission par lots, indiquant les renseignements d'identification du lot et les messages d'erreurs qui s'appliquent.</p>
+<p>Pour obtenir de plus amples renseignements sur le formatage des messages d'accusé de réception et pour consulter des exemples, veuillez vous référer à la partie 6 (Formatage des accusés de réception).</p>
+<h4 id="s3-1-1">3.1.1 Lot accepté</h4>
+<p>Si votre lot est accepté, CANAFE l'indiquera dans le message de statut du lot (<strong>ExternalFileProcessStatusCode</strong>) du <strong>ReportSubmissionResponseXmlFile</strong>. L'accusé de réception comprend également le nombre de déclarations acceptées dans votre lot.</p>
+<p>Le message d'accusé de réception vous avertira également si certaines déclarations nécessitent des corrections de la façon suivante :</p>
+<ul>
+    <li>déclarations rejetées (<strong>ReportRejectCount</strong> et <strong>ReportSubmissionResponseLineItem</strong> du fichier d'accusé de réception);</li>
+    <li>déclarations acceptées mais qui comprennent des erreurs (<strong>ReportSubmissionResponseLineItem</strong> du fichier d'accusé de réception). </li>
+</ul>
+<p>Si c'est le cas, vous devrez corriger ces déclarations, comme l'explique le paragraphe 3.3.</p>
+<h4 id="s3-1-2">3.1.2 Lot rejeté</h4>
+<p>Si votre lot est rejeté, cela est indiqué dans le message de statut du lot (<strong>ExternalFileProcessStatusCode</strong>) du <strong>ReportSubmissionResponseXmlFile</strong>. Cela signifie que certains problèmes existent avec l'en-tête de lot, la fin de lot ou le format des déclarations. Cela signifie également que les déclarations comprises dans le lot n'ont pas été reçues par CANAFE. Vous devez alors les présenter de nouveau dans un nouveau lot.</p>
+<p>CANAFE ne disposera d'aucun renseignement au sujet des déclarations comprises dans un lot rejeté. Cependant, s'il en possède au niveau des déclarations, ces renseignements seront reflétés dans l'élément <strong>ReportSubmissionResponseLineItem</strong> de l'accusé de réception.</p>
+<h3 id="s3-2">3.2 Déclarations retournées à des fins de modification (DRM)</h3>
+<p>Si vos déclarations acceptées présentent des problèmes de qualité des données, CANAFE peut vous les retourner afin que vous y apportiez les modifications nécessaires. Ce sont des déclarations retournées à des fins de modification (DRM).</p>
+<p>Pour les déclarations que vous transmettez à CANAFE par lots, vous pouvez choisir de modifier les DRM par lots ou par l'entremise de F2R.</p>
+<ul>
+    <li>Si vous décidez de  modifier les <strong>DRM par lots</strong>, vous  recevrez un message de DRM par l'entremise du logiciel pour la transmission par  lots, de la même façon que vous recevez les accusés de réception. Voir la partie  7 pour de plus amples renseignements sur le formatage des messages de DRM et  pour voir un exemple de messages de DRM. Si vous recevez un tel message de DRM,  vous devez corriger les déclarations et les transmettre de nouveau à CANAFE  dans un lot de corrections, comme l'explique le paragraphe 3.3. Votre administrateur F2R recevra  également un courriel l'avisant qu'un message de DRM a été transmis par  l'entremise du logiciel pour la transmission par lots. Ces déclarations  retournées sont affichées dans F2R avec d'autres messages pour vous aider à  comprendre le problème lié à la qualité des données. Elles doivent être  corrigées et retransmises par l'entremise du logiciel pour la transmission par  lots. </li>
+    <li>Si vous décidez de modifier <strong>les DRM par l'entremise de F2R</strong>, votre administrateur F2R reçoit les avis de DRM. Ces déclarations se trouvent dans la liste d'attente de DRM dans F2R afin que les modifications nécessaires soient faites et que les déclarations soient transmises de nouveau à CANAFE.</li>
+</ul>
+<h3 id="s3-3">3.3 Modification</h3>
+<p>Voici comment vous pouvez apporter les modifications nécessaires aux déclarations qui ont été transmises par lots à CANAFE.</p>
+<p>Des modifications sont nécessaires dans les circonstances suivantes :</p>
+<ul>
+    <li>Si votre fichier d'accusé de réception indique qu'un lot est accepté mais que certaines déclarations comprennent des erreurs ou ont été rejetées, vous devez modifier ces déclarations.</li>
+    <li>Si CANAFE vous fait parvenir une DRM, vous devez y apporter les modifications nécessaires et la transmettre de nouveau le plus rapidement possible.</li>
+    <li>Il est possible que vous deviez également corriger ou supprimer une déclaration pour d'autres raisons, comme, par exemple, si vous découvrez qu'elle comprend des données non valides ou présentées par erreur.</li>
+</ul>
+<p>La façon dont vous modifiez des déclarations varie selon que vous désiriez présenter les modifications par l'entremise des lots de correction ou de F2R. Vous devez choisir l'une ou l'autre de ces deux méthodes par genre de déclaration et ce choix vaut pour toute modification nécessaire à ces déclarations.</p>
+<p>Si vous choisissez de <strong>ne pas effectuer</strong> les modifications par l'entremise de F2R, lisez le paragraphe 3.3.1. Cela vaut pour les déclarations rejetées ainsi que pour les déclarations traitées qui comprennent des erreurs.</p>
+<h4 id="s3-3-1">3.3.1 Modifications par lots</h4>
+<p>Pour <strong>corriger</strong> une ou des déclarations comprises dans un lot déjà <strong>accepté</strong> par CANAFE, vous devez transmettre la déclaration entière dûment corrigée avec <strong>ActionCode</strong> = &#171; 2 &#187;, (Modifier). TOUS LES CHAMPS de chaque déclaration à corriger doivent contenir l'information appropriée, NON SEULEMENT LES ÉLÉMENTS NÉCESSITANT DES CORRECTIONS.</p>
+<p>Pour <strong>supprimer</strong> une déclaration ou plus d'un lot déjà <strong>accepté</strong>, vous devez présenter la déclaration avec <strong>ActionCode</strong> = &#171; 5 &#187; (Supprimer). Lisez les instructions suivantes, selon le genre de déclaration en question.</p>
+<h5>Pour supprimer une DDC</h5>
+<p>Afin de supprimer une DDC d'un lot déjà accepté, vous n'avez pas à présenter la déclaration complète à être supprimée. Seuls les éléments suivants doivent être inclus afin de supprimer une déclaration :</p>
+<ul>
+    <li><strong>CasinoDisbursementReportXmlFile</strong></li>
+    <li><strong>ReportSubmissionFileHeader</strong></li>
+    <li><strong>CasinoDisbursementReport</strong>
+        <ul>
+            <li><strong>ReportHeader</strong></li>
+        </ul>
+    </li>
+    <li><strong>ReportSubmissionFileTrailer</strong></li>
+</ul>
+<h5>Exemple d'un lot pour supprimer une déclaration</h5>
+<div>
+    <pre>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;CasinoDisbursementReportXmlFile ModelVersionNumber="1.0"&gt;
+ &lt;ReportSubmissionFileHeader&gt;
+  &lt;SubmitOrganizationNumber&gt;10090&lt;/SubmitOrganizationNumber&gt; 
+  &lt;ExternalFileName&gt;20091010_1101112_CDR.xml &lt;/ExternalFileName&gt; 
+  &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt; 
+  &lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt; 
+  &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt; 
+ &lt;/ReportSubmissionFileHeader&gt;
+ &lt;CasinoDisbursementReport ActionCode="5" 
+ CasinoDisbursementReportSequenceNumber="1"&gt;
+  &lt;ReportHeader&gt;
+   &lt;OrganizationNumber&gt;10090&lt;/OrganizationNumber&gt; 
+   &lt;OrganizationReportReferenceIdentifier&gt; Report01
+   &lt;/OrganizationReportReferenceIdentifier&gt; 
+   &lt;TwentyFourHourRuleCode&gt;0&lt;/TwentyFourHourRuleCode&gt; 
+   &lt;ReportContactInformation&gt;
+    &lt;IndividualName&gt;
+     &lt;Surname&gt;Le Caré&lt;/Surname&gt; 
+     &lt;GivenName&gt;John&lt;/GivenName&gt; 
+    &lt;/IndividualName&gt;
+    &lt;BusinessTelephone&gt;
+     &lt;TelephoneNumber&gt;613-888-8888&lt;/TelephoneNumber&gt; 
+    &lt;/BusinessTelephone&gt;
+   &lt;/ReportContactInformation&gt;
+  &lt;/ReportHeader&gt;
+ &lt;/CasinoDisbursementReport&gt;
+ &lt;ReportSubmissionFileTrailer&gt;
+  &lt;ReportCount&gt;1&lt;/ReportCount&gt; 
+ &lt;/ReportSubmissionFileTrailer&gt;
+&lt;/CasinoDisbursementReportXmlFile&gt;
+	</pre>
+</div>
+<h4 id="s3-3-2">3.3.2 Corrections par l'entremise de F2R</h4>
+<p>F2R est l'interface gr&#226;ce à laquelle vous êtes en mesure de gérer votre information d'inscription, y compris vos numéros d'emplacement, et d'envoyer des déclarations qui ne font pas partie d'un lot à CANAFE.</p>
+<p>Si vous sélectionnez cette option lors de votre inscription auprès de CANAFE pour un ou plusieurs des genres de déclarations que vous transmettez (DDC, DOD, DOIE ou DTT et DTR), vous pouvez vous servir de F2R pour modifier ces déclarations. Si vous choisissez cette option les déclarations retournées à des fins de modifications (DRM) vous seront retournées par l'entremise de F2R.</p>
+<p>Par l'entremise de F2R vous pourrez avoir accès à des déclarations à partir de lots acceptés gr&#226;ce au numéro de référence de la déclaration de l'entité déclarante. Vous pourrez ainsi avoir accès au contenu de la déclaration afin d'effectuer vos corrections</p>
+<p>Vous pourrez obtenir de plus amples renseignements quant au processus d'inscription de CANAFE et à F2R en communiquant avec CANAFE.</p>
+<h2 id="s4">4 Spécifications générales</h2>
+<h3 id="s4-1">4.1 Exigences générales de formatage</h3>
+<p>Les renseignements ci-dessous décrivent les spécifications générales de formatage à suivre afin de transmettre des déclarations en utilisant le format XML pour la transmission de déclarations par lots.</p>
+<h4 id="s4-1-1">4.1.1 Préalable</h4>
+<p>Le lecteur de ce document doit avoir les connaissances suivantes :</p>
+<ul>
+    <li>une connaissance approfondie du langage XML (http://www.w3.org)</li>
+    <li>une connaissance approfondie des schémas XML</li>
+</ul>
+<p>Afin de transmettre vos renseignements à CANAFE par l'entremise d'un fichier de lot vous devez créer un fichier de lot XML conforme au schéma XML de CANAFE. Le schéma est un fichier qui définit les règles à suivre afin de construire un fichier de lot XML. Il précise les éléments obligatoires et facultatifs. Dans une certaine mesure, il limite la composition des données qui peuvent être incluses dans le fichier de lot XML. Le fichier du schéma vous sera fourni par CANAFE. Veuillez l'utiliser afin d'assurer la validité de votre fichier XML avant de le transmettre à CANAFE. </p>
+<h4 id="s4-1-2">4.1.2 Jeu de caractères</h4>
+<p>Les spécifications XML de CANAFE exigent le format de codage UTF-8 avec le jeu de caractères 10646 comme mécanisme de codage de caractères par défaut. </p>
+<h4 id="s4-1-3">4.1.3 Version du schéma</h4>
+<p>Le numéro de version est une partie intégrale du prologue.</p>
+<h4 id="s4-1-4">4.1.4 Conventions utilisées dans les spécifications XML</h4>
+<p>Les conventions suivantes sont utilisées dans les spécifications XML de CANAFE :</p>
+<h5>EXIGENCES GÉNÉRALES DE FORMATAGE</h5>
+<table class="table table-bordered">
+<caption class="wb-inv">EXIGENCES GÉNÉRALES DE FORMATAGE</caption>
+    <tr>
+        <th scope="col">Élément de format</th>
+        <th scope="col">Commentaires</th>
+    </tr>
+    <tr>
+        <td><p><img src="images/Mod1/image001.jpg" alt="une séquence avec des éléments obligatoires et facultatifs" /></p></td>
+        <td><p>Indique une séquence avec des éléments obligatoires et facultatifs </p></td>
+    </tr>
+    <tr>
+        <td><p><img src="images/Mod1/image002.jpg" alt="Élément obligatoire" /></p></td>
+        <td><p>Élément obligatoire</p></td>
+    </tr>
+    <tr>
+        <td><p><img src="images/Mod1/image003.jpg" alt="Élément facultatif" /></p></td>
+        <td><p>Élément facultatif</p></td>
+    </tr>
+    <tr>
+        <td><p><img src="images/Mod1/image004.jpg" alt="N&#339;ud obligatoire" /></p></td>
+        <td><p>N&#339;ud obligatoire</p></td>
+    </tr>
+    <tr>
+        <td><p><img src="images/Mod1/image005.jpg" alt="N&#339;ud obligatoire" /></p></td>
+        <td><p>N&#339;ud obligatoire avec des valeurs de 0 à N</p></td>
+    </tr>
+    <tr>
+        <td><p><img src="images/Mod1/image006.jpg" alt="Facultatif" /></p></td>
+        <td><p>Facultatif mais un des deux n&#339;uds doit être inclus</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Date</strong></td>
+        <td><p>AAAAMMJJ (Année/mois/jour).</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Heure</strong></td>
+        <td><p>HHMMSS - Utiliser un cycle de 24 heures.<br />
+            Heures (de 00 à 23), minutes (de 00 à 59) et secondes (de 00 à 59).<br />
+            Exemples : 13 h = 130000 14 h 45 = 144500</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Adresse</strong></td>
+        <td><p>S'il y a un numéro d'appartement, de suite ou d'unité, insérer le numéro au début de l'adresse municipale.<br />
+            Introduire les noms en entier ou se servir du code pertinent (voir la partie 5). <br />
+            Si l'adresse est au Canada, les éléments nécessaires doivent comprendre une province ou un territoire canadien et un code postal valides. Si l'adresse est aux États-Unis ou au Mexique, 
+            les éléments nécessaires doivent comprendre un état valide. De plus, si l'adresse est aux États-Unis, l'élément nécessaire doit comprendre un code zip valide. Veuillez consulter le tableau de codes pertinent (voir la partie 5) pour trouver des provinces, des territoires ou des États.<br />
+            Si l'adresse est à l'extérieur du Canada et des États-Unis et ne comprend ni province, ni État ou code postal, ces éléments peuvent être garnis d'espaces.</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Code postal</strong></td>
+        <td><p>N'insérer aucun espace ou tiret (-).<br />
+            Canada : X9X9X9<br />
+            É.-U. : 99999 ou 999999999</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Numéro de téléphone</strong></td>
+        <td><p>Indiquer également l'indicatif régional.<br />
+            Canada et É.-U. : 999-999-9999<br />
+            Pour les autres pays, indiquer les codes de pays et de ville ainsi que le numéro local : 999-9999-9999-9999</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Numéro de référence de la déclaration de l'entité déclarante</strong></td>
+        <td><p>Peut contenir les lettres de A à Z et les chiffres de 0 à 9. <strong>Ne pas utiliser</strong> de caractères spéciaux, tels que &#171; - &#187;, &#171; # &#187;, etc.<br />
+            Il faut assigner un numéro de référence distinct pour chaque déclaration transmise par la même entité déclarante. Dans ce contexte, aucune distinction n'est faite entre une lettre majuscule et une lettre minuscule. Par exemple, le numéro de référence ABC123 n'est pas distinct du numéro de référence abc123.</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Position décimale</strong></td>
+        <td><p>Il faut utiliser une position décimale fixe avec deux positions décimales.<br />
+            Ne pas inclure le symbole de devise (tel que &#171; &#163; &#187;, &#171; &#8364; &#187; ou &#171;&nbsp;$&nbsp;&#187;)<br />
+            CANAFE acceptera l'indicateur de décimale suivant : &#171; . &#187;.<br />
+            Par exemple, 12345.00 représenterait un montant de 12 345,00 $</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Caractère alpha</strong></td>
+        <td><p>Lettres majuscules et lettres minuscules</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Chiffre</strong></td>
+        <td><p>Chiffres de 0 à 9</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>Caractère</strong></td>
+        <td><p>Tous les caractères acceptés sous le format UTF-8 peuvent être utilisés sauf les cinq caractères suivants qui doivent être codés :</p>
+            <p><strong>&amp;</strong> ou &#171; et commercial &#187; &amp;amp;<br />
+                <strong>&lt;</strong> ou &#171; inférieur à &#187; &amp;lt;<br />
+                <strong>&gt;</strong> ou &#171; supérieur à &#187; &amp;gt;<br />
+                <strong>'</strong> ou &#171; apostrophe &#187; &amp;apos;<br />
+                <strong>"</strong> ou &#171; guillemet anglais &#187; &amp;quot; </p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>SequenceNumber</strong></td>
+        <td><p>Le premier numéro séquentiel d'identification d'un élément devrait être &#171; 1 &#187;. Utiliser le numéro &#171; 2 &#187; pour le suivant, etc.</p></td>
+    </tr>
+    <tr>
+        <td class="text-center"><strong>*</strong></td>
+        <td><p>Désigne un champ obligatoire prescrit par règlement.</p></td>
+    </tr>
+</table>
+<br />
+<h2 id="s5">5 Tables de codes et règles d'introduction des noms</h2>
+<p>Il est possible de télécharger les tables de codes suivantes directement de la documentation technique, à la page des publications du site Web de CANAFE.</p>
+<ul>
+    <li>
+        <p>Codes de pays (ISO 3166)</p>
+    </li>
+    <li>Codes de provinces et d'États
+        <ul>
+            <li>Codes de provinces et territoires canadiens</li>
+            <li>Codes d'États mexicains</li>
+            <li>
+                <p>Codes d'États américains</p>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <p>Codes de devises<br />
+            Les rangées sans ombrage (ou sans parenthèses dans le format &#171; txt &#187;) dans le tableau des codes de devises renferment les codes de devises courantes conformément à l' ISO 4217. Les rangées avec ombrage (ou avec des parenthèses dans le format &#171; txt &#187;) reflètent des codes retirés qui ne figurent plus dans la liste courante de l'ISO 4217.</p>
+    </li>
+    <li>
+        <p>Abréviations standard de termes<br />
+            Toutes les abréviations présentées dans la table des abréviations standard de termes sont au singulier. Elles peuvent être changées du singulier au pluriel par l'ajout de la lettre &#171; s &#187;.</p>
+    </li>
+    <li>Noms et abréviations de types de rues</li>
+</ul>
+<h2 id="s6">6 Formatage des accusés de réception</h2>
+<h3 id="s6-1">6.1 Configuration détaillée - accusé de réception de lots</h3>
+<p>Les tableaux suivants précisent le format des messages d'accusés de réception qui vous sont acheminés par CANAFE lorsque celui-ci a fini le traitement des lots.</p>
+<h4>?xml</h4>
+<table class="table table-bordered">
+<caption class="wb-inv">Formatage des accusés de réception</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cette déclaration principale spécifie la version de XML utilisée.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td><p><strong>version</strong>:<br />
+            fixe : "1.0"<br />
+            <strong>encodage</strong>:<br />
+            fixe : "UTF-8"</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un par fichier soumis</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td>Cet élément doit être <strong>seul</strong> sur la première ligne du fichier. Les numéros de la version et de l'encodage sont fixes pour cette version du schéma.</td>
+    </tr>
+</table>
+<h4>ReportSubmissionResponseXmlFile</h4>
+<p><img src="images/Mod1/image007.gif" alt="ReportSubmissionResponseXmlFile" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportSubmissionResponseXmlFile</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cette balise racine renferme le contenu du fichier :<br />
+            <strong>ReportSubmissionResponseFileHeader</strong><br />
+            <strong>ReportSubmissionResponseLineItem</strong><br />
+            <strong>ReportSubmissionResponseFileTrailer</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un par fichier soumis</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReportSubmissionResponseXmlFile&gt;&#8230;&lt;/ReportSubmissionResponseXmlFile&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReportSubmissionResponseFileHeader</h4>
+<p><img src="images/Mod1/image008.gif" alt="ReportSubmissionResponseFileHeader" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportSubmissionResponseFileHeader</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cet élément parent renferme le contenu du fichier d'accusé de réception.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un par <strong>ReportSubmissionResponseXmlFile</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><pre>&lt;ReportSubmissionResponseFileHeader&gt;
+ &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+ &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+ &lt;ExternalFileSequenceNumber&gt;1&lt;/ExternalFileSequenceNumber&gt;
+ &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+ &lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt;
+ &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+ &lt;ExternalFileStatusCode&gt;1&lt;/ExternalFileStatusCode&gt;
+ &lt;ReportAcceptCount&gt;750&lt;/ReportAcceptCount&gt;
+ &lt;ReportRejectCount&gt;0&lt;/ReportRejectCount&gt;
+&lt;/ReportSubmissionResponseFileHeader&gt;</pre></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Cet élément identifie de façon unique le fichier de lot XML soumis à CANAFE qui est le sujet du fichier d'accusé de réception de CANAFE.</p></td>
+    </tr>
+</table>
+<h4>SubmitOrganizationNumber</h4>
+<p><img src="images/Mod1/image009.gif" alt="SubmitOrganizationNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">SubmitOrganizationNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le numéro d'identification de la personne ou l'institution à l'origine de la transmission faisant l'objet de l'accusé de réception.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 7 chiffres<br />
+            Un par <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ExternalFileName</h4>
+<p><img src="images/Mod1/image010.gif" alt="ExternalFileName" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ExternalFileName</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Ce nom unique sert à identifier le fichier de lot faisant l'objet de l'accusé de réception.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 80 caractères<br />
+            Un par <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ExternalFileName&gt;20091010_1101112_CDR.xml&lt;/ExternalFileName&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Le nom du fichier ne doit pas contenir d'espaces ou de traits d'union.</p></td>
+    </tr>
+</table>
+<h4>ExternalFileSequenceNumber</h4>
+<p><img src="images/Mod1/image011.gif" alt="ExternalFileSequenceNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ExternalFileSequenceNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Ce chiffre représente le nombre de fois que ce même fichier a été soumis à CANAFE.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 80 caractères<br />
+            Un par <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ExternalFileSequenceNumber&gt;1&lt;/ExternalFileSequenceNumber&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReportTypeCode</h4>
+<p><img src="images/Mod1/image012.gif" alt="ReportTypeCode" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportTypeCode</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Ce code est utilisé pour identifier le genre de déclaration.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            2 chiffres<br />
+            Un par <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Code :<br />
+            13 - Déclaration relative à un déboursement de casino</p></td>
+    </tr>
+</table>
+<h4>OperationModeCode</h4>
+<p><img src="images/Mod1/image013.gif" alt="OperationModeCode" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">OperationModeCode</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Ce code est utilisé pour identifier le canal utilisé à la transmission du fichier de lot faisant l'objet de l'accusé de réception.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 chiffre<br />
+            Un par <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Codes :<br />
+            2 - Production<br />
+            1 - Test (essai par l'entremise du canal de formation du logiciel pour la transmission par lots)</p></td>
+    </tr>
+</table>
+<h4>PKICertificateNumber</h4>
+<p><img src="images/Mod1/image014.gif" alt="PKICertificateNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">PKICertificateNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le numéro d'utilisateur de l'ICP qui a été utilisé à la transmission du fichier de lot faisant l'objet de l'accusé de réception</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            10 chiffres<br />
+            Un par <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ExternalFileStatusCode</h4>
+<p><img src="images/Mod1/image015.gif" alt="ExternalFileStatusCode" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ExternalFileStatusCode</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Ce code est utilisé pour indiquer si le fichier de lot a été accepté ou rejeté. </p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 chiffre<br />
+            Un par <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>ExternalFileStatusCode&gt;1&lt;/ExternalFileStatusCode&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Codes :<br />
+            1 - Accepté<br />
+            2 - Rejeté</p></td>
+    </tr>
+</table>
+<h4>ReportAcceptCount</h4>
+<p><img src="images/Mod1/image016.gif" alt="ReportAcceptCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportAcceptCount</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le nombre de déclarations acceptées</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            0 à 999999999 chiffres<br />
+            Un par <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReportAcceptCount&gt;750&lt;/ReportAcceptCount&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReportRejectCount</h4>
+<p><img src="images/Mod1/image017.gif" alt="ReportRejectCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportRejectCount</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le nombre de déclarations rejetées</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            0 à 999999999 chiffres<br />
+            Un par <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReportRejectCount&gt;0&lt;/ReportRejectCount&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReportSubmissionResponseLineItem</h4>
+<p><img src="images/Mod1/image018.gif" alt="ReportSubmissionResponseLineItem" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportSubmissionResponseLineItem</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cet élément parent renferme les renseignements sur les messages d'erreurs ou d'avertissements.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un ou plusieurs par <strong>ReportSubmissionResponseXmlFile</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><pre>&lt;ReportSubmissionResponseLineItem&gt;
+ &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/
+ CasinoDisbursementReport[2]/CasinoTransaction[1]/
+CasinoTransactionDetail/TransactionDate&lt;/XmlDataElementName&gt;
+ &lt;MessageNumber&gt;303&lt;/MessageNumber&gt;
+ &lt;OrganizationReportReferenceIdentifier&gt;Report02
+ &lt;/OrganizationReportReferenceIdentifier&gt;
+&lt;/ReportSubmissionResponseLineItem&gt;</pre></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>XmlDataElementName</h4>
+<p><img src="images/Mod1/image019.gif" alt="XmlDataElementName" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">XmlDataElementName</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le nom de l'élément faisant l'objet du message</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 400 caractères<br />
+            Un par <strong>ReportSubmissionResponseLineItem</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/<br />
+            CasinoDisbursementReport[2]/CasinoTransaction[1]/CasinoTransactionDetail/<br />
+            TransactionDate&lt;/XmlDataElementName&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Le nombre entre crochets indique l'ordre de l'élément dans le fichier XML. Dans l'exemple, l'erreur est associée à la première opération de la deuxième déclaration.</p></td>
+    </tr>
+</table>
+<h4>MessageNumber</h4>
+<p><img src="images/Mod1/image020.gif" alt="MessageNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">MessageNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le numéro du code d' erreurs qui décrit le problème. Voir la partie 8 pour les renseignements au sujet des codes d'erreurs.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            3 chiffres<br />
+            Un par <strong>ReportSubmissionResponseLineItem</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;MessageNumber&gt;303&lt;/MessageNumber&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>OrganizationReportReferenceIdentifier</h4>
+<p><img src="images/Mod1/image021.gif" alt="OrganizationReportReferenceIdentifier" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">OrganizationReportReferenceIdentifier</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le numéro de référence distinct pour la déclaration</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 20 caractères<br />
+            Un par <strong>ReportSubmissionResponseLineItem</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;OrganizationReportReferenceIdentifier&gt;Report02<br />
+            &lt;/OrganizationReportReferenceIdentifier&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+
+<h4>****ValidationRuleNumber</h4>
+<p><img src="images/Mod1/validation.gif" alt="ValidationRuleNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ValidationRuleNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Numéro de la règle de validation qui indique le  problème. Voir la section 8.1 pour obtenir des informations sur ces messages au  sujet des règles de validation.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement <br>
+9 chiffres<br>
+Un par <strong>ReportSubmissionResponseLineItem</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><p><code>&lt;ValidationRuleNumber&gt;200030&lt;/ValidationRuleNumber&gt;</code></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+
+<h4>ReportSubmissionResponseFileTrailer</h4>
+<p><img src="images/Mod1/image022.gif" alt="ReportSubmissionResponseFileTrailer" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportSubmissionResponseFileTrailer</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cette balise parent renferme les éléments de la fin de lot pour le fichier d'accusé de réception.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un par <strong>ReportSubmissionResponseXmlFile</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><pre>&lt;ReportSubmissionResponseFileTrailer&gt;
+ &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+&lt;/ReportSubmissionResponseFileTrailer&gt;</pre></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ResponseLineItemCount</h4>
+<p><img src="images/Mod1/image023.gif" alt="ResponseLineItemCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ResponseLineItemCount</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le nombre de n&#339;uds <strong>ReportSubmissionResponseLineItem</strong> inclus dans le fichier d'accusé de réception</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            0 à 999999999 chiffres<br />
+            Un par <strong>ReportSubmissionResponseFileTrailer</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h3 id="s6-2">6.2 Exemples d'accusés de réception</h3>
+<h4 id="s6-2-1">6.2.1 Exemple d'accusé de réception pour un lot accepté</h4>
+<div>
+    <pre>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;ReportSubmissionResponseXmlFile&gt;
+ &lt;ReportSubmissionResponseFileHeader&gt;
+  &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+  &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+  &lt;ExternalFileSequenceNumber&gt;1&lt;/ExternalFileSequenceNumber&gt;
+  &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+  &lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt;
+  &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+  &lt;ExternalFileStatusCode&gt;1&lt;/ExternalFileStatusCode&gt;
+  &lt;ReportAcceptCount&gt;750&lt;/ReportAcceptCount&gt;
+  &lt;ReportRejectCount&gt;0&lt;/ReportRejectCount&gt;
+ &lt;/ReportSubmissionResponseFileHeader&gt;
+ &lt;ReportSubmissionResponseLineItem&gt;
+   &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/
+   CasinoDisbursementReport[2]/CasinoTransaction[1]/
+CasinoTransactionDetail/TransactionDate&lt;/XmlDataElementName&gt;
+   &lt;MessageNumber&gt;303&lt;/MessageNumber&gt;
+   &lt;OrganizationReportReferenceIdentifier&gt;Report02
+   &lt;/OrganizationReportReferenceIdentifier&gt;
+  &lt;/ReportSubmissionResponseLineItem&gt;
+  &lt;ReportSubmissionResponseFileTrailer&gt;
+   &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+  &lt;/ReportSubmissionResponseFileTrailer&gt;
+&lt;/ReportSubmissionResponseXmlFile&gt;</pre>
+</div>
+<h4 id="s6-2-2">6.2.2 Exemple d'accusé de réception pour un lot rejeté</h4>
+<div>
+    <pre>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;ReportSubmissionResponseXmlFile&gt;
+ &lt;ReportSubmissionResponseFileHeader&gt;
+  &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+  &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+  &lt;ExternalFileSequenceNumber&gt;1&lt;/ExternalFileSequenceNumber&gt;
+  &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+  &lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt;
+  &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+  &lt;ExternalFileStatusCode&gt;2&lt;/ExternalFileStatusCode&gt;
+  &lt;ReportAcceptCount&gt;0&lt;/ReportAcceptCount&gt;
+  &lt;ReportRejectCount&gt;1&lt;/ReportRejectCount&gt;
+ &lt;/ReportSubmissionResponseFileHeader&gt;
+ &lt;ReportSubmissionResponseLineItem&gt;
+  &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile&lt;/XmlDataElementName&gt;
+  &lt;MessageNumber&gt;412&lt;/MessageNumber&gt;
+  &lt;OrganizationReportReferenceIdentifier&gt;&lt;/OrganizationReportReferenceIdentifier&gt;<a href="#f1" id="n1"><sup>1</sup></a>
+ &lt;/ReportSubmissionResponseLineItem&gt;
+ &lt;ReportSubmissionResponseFileTrailer&gt;
+  &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+ &lt;/ReportSubmissionResponseFileTrailer&gt;
+&lt;/ReportSubmissionResponseXmlFile&gt;</pre>
+</div>
+<h2 id="s7">7 Messages de déclarations retournées à des fins de modification (DRM)</h2>
+<h3 id="s7-1">7.1 Formatage des messages DRM</h3>
+<p>Les tableaux suivants décrivent le format des fichiers de DRM que vous envoie CANAFE si vous décidez de modifier par lots les DRM pour les déclarations que vous avez transmises par lots.</p>
+<h4>?xml</h4>
+<table class="table table-bordered">
+<caption class="wb-inv">Formatage des messages DRM</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cette déclaration principale spécifie la version de XML utilisée.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td><p><strong>version</strong>:<br />
+            fixe : "1.0"<br />
+            <strong>encodage</strong>:<br />
+            fixe : "UTF-8"</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un par fichier soumis</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Cet élément doit être <strong>seul</strong> sur la première ligne du fichier. Les numéros de la version et de l'encodage sont fixes pour cette version du schéma. </p></td>
+    </tr>
+</table>
+<h4>ReportReturnForFurtherActionXmlFile</h4>
+<p><img src="images/Mod1/image024.gif" alt="ReportReturnForFurtherActionXmlFile" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportReturnForFurtherActionXmlFile</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cette balise parent renferme le contenu du fichier :<br />
+            <strong>ReportReturnForFurtherActionFileHeader</strong><br />
+            <strong>ReportReturnForFurtherActionLineItem</strong><br />
+            <strong>ReportReturnForFurtherActionFileTrailer</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un par soumission en lot</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReportReturnForFurtherActionXmlFile&gt;&#8230;&lt;/ReportReturnForFurtherActionXmlFile&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReportReturnForFurtherActionFileHeader</h4>
+<p><img src="images/Mod1/image025.gif" alt="ReportReturnForFurtherActionFileHeader" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportReturnForFurtherActionFileHeader</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cet élément parent renferme les renseignements sur la DRM.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un par <strong>ReportForFurtherActionXmlFile</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><pre>&lt;ReportReturnForFurtherActionFileHeader&gt;
+ &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+ &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+ &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+ &lt;ReturnReportForFurtherActionIdentifierNumber&gt;125
+ &lt;/ReturnReportForFurtherActionIdentifierNumber&gt;
+ &lt;ReturnReportSummaryText&gt;
+ 	Please correct the following information &#8230;
+ &lt;/ReturnReportSummaryText&gt;
+ &lt;ReturnReportDueDate&gt;20091112&lt;/ReturnReportDueDate&gt;
+ &lt;ReturnReportCount&gt;20&lt;/ReturnReportCount&gt;
+ &lt;QualityIssueCount&gt;45&lt;/QualityIssueCount&gt;
+ &lt;ExternalFileInvolveCount&gt;45&lt;/ExternalFileInvolveCount&gt;
+&lt;/ReportReturnForFurtherActionFileHeader&gt;</pre></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>SubmitOrganizationNumber</h4>
+<p><img src="images/Mod1/image009.gif" alt="SubmitOrganizationNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">SubmitOrganizationNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le numéro d'identification de la personne ou l'institution à l'origine de la transmission faisant l'objet de la DRM.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 7 chiffres<br />
+            Un par <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReportTypeCode</h4>
+<p><img src="images/Mod1/image012.gif" alt="ReportTypeCode" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportTypeCode</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Ce code utilisé pour identifier le genre de déclaration.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            2 chiffres<br />
+            Un par <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Code :<br />
+            13 - Déclaration relative à un déboursement de casino</p></td>
+    </tr>
+</table>
+<h4>PkiCertificateNumber</h4>
+<p><img src="images/Mod1/image014.gif" alt="PkiCertificateNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">PkiCertificateNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le numéro d'utilisateur de l'ICP qui a été utilisé à la transmission du fichier de lot faisant l'objet de la DRM</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            10 chiffres<br />
+            Un par <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReturnReportForFurtherActionIdentifierNumber</h4>
+<p><img src="images/Mod1/image026.gif" alt="ReturnReportForFurtherActionIdentifierNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReturnReportForFurtherActionIdentifierNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le numéro d'identification de DRM émis par CANAFE.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            9 chiffres<br />
+            Un par <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReturnReportForFurtherActionIdentifierNumber&gt;125<br />
+            &lt;/ReturnReportForFurtherActionIdentifierNumber&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReturnReportSummaryText</h4>
+<p><img src="images/Mod1/image027.gif" alt="ReturnReportSummaryText" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReturnReportSummaryText</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>L'explication des problèmes de qualité associés aux déclarations.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Aucune limite<br />
+            Un par <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code> &lt;ReturnReportSummaryText&gt;Please correct the following information&#8230;
+            &lt;/ReturnReportSummaryText&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReturnReportDueDate</h4>
+<p><img src="images/Mod1/image028.gif" alt="ReturnReportDueDate" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReturnReportDueDate</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>La date d'échéance fixée pour le retour des déclarations corrigées à CANAFE</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            8 caractères<br />
+            Un par <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReturnReportDueDate&gt;20091112&lt;/ReturnReportDueDate&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReturnReportCount</h4>
+<p><img src="images/Mod1/image029.gif" alt="ReturnReportCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReturnReportCount</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le nombre de déclarations retournées</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 999999999 caractères<br />
+            Un par <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReturnReportCount&gt;20&lt;/ReturnReportCount&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>QualityIssueCount</h4>
+<p><img src="images/Mod1/image030.gif" alt="QualityIssueCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">QualityIssueCount</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le nombre de problèmes de qualité pour toutes les déclarations incluses dans la DRM.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 999999999 chiffres<br />
+            Un par <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;QualityIssueCount&gt;45&lt;/QualityIssueCount&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ExternalFileInvolveCount</h4>
+<p><img src="images/Mod1/image031.gif" alt="ExternalFileInvolveCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ExternalFileInvolveCount</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le nombre de fichiers de lot impliqués.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            0 à 999999999 chiffres<br />
+            Un par <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ExternalFileInvolveCount&gt;45&lt;/ExternalFileInvolveCount&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReportReturnForFurtherActionLineItem</h4>
+<p><img src="images/Mod1/image032.gif" alt="ReportReturnForFurtherActionLineItem" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportReturnForFurtherActionLineItem</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cet élément parent renferme les renseignements relatifs aux problèmes de qualité.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un par <strong>ReportForFurtherActionXmlFile</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><pre>&lt;ReportReturnForFurtherActionLineItem&gt;
+ &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+ &lt;ExternalFileNameSequenceNumber&gt;21
+ &lt;/ExternalFileNameSequenceNumber&gt;
+ &lt;OrganizationReportReferenceIdentifier&gt;Report04
+ &lt;/OrganizationReportReferenceIdentifier&gt; 
+ &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/
+ CasinoDisbursementReport[4]/CasinoTransaction[1]/
+CasinoTransactionDetail/TransactionDate&lt;/XmlDataElementName&gt;
+ &lt;MessageNumber&gt;306&lt;/MessageNumber&gt;
+&lt;/ReportReturnForFurtherActionLineItem&gt;</pre></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ExternalFileName</h4>
+<p><img src="images/Mod1/image010.gif" alt="ExternalFileName" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ExternalFileName</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Ce nom unique sert à identifier le fichier de lot faisant l'objet de la DRM.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 80 caractères<br />
+            Un par <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ExternalFileName&gt;20091010_1101112_CDR.xml&lt;/ExternalFileName&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Le nom du fichier ne doit pas contenir d'espaces ou de traits d'union.</p></td>
+    </tr>
+</table>
+<h4>ExternalFileNameSequenceNumber</h4>
+<p><img src="images/Mod1/image033.gif" alt="ExternalFileNameSequenceNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ExternalFileNameSequenceNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Ce chiffre représente le nombre de fois que ce même fichier a été soumis à CANAFE.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 999999999 chiffres<br />
+            Un par <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ExternalFileNameSequenceNumber&gt;21<br />
+            &lt;/ExternalFileNameSequenceNumber&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>OrganizationReportReferenceIdentifier</h4>
+<p><img src="images/Mod1/image021.gif" alt="OrganizationReportReferenceIdentifier" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">OrganizationReportReferenceIdentifier</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le numéro de référence distinct pour la déclaration</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 20 caractères<br />
+            Un par <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;OrganizationReportReferenceIdentifier&gt;Report04<br />
+            &lt;/OrganizationReportReferenceIdentifier&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>XmlDataElementName</h4>
+<p><img src="images/Mod1/image019.gif" alt="XmlDataElementName" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">XmlDataElementName</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le nom de l'élément faisant l'objet du message.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 400 caractères<br />
+            Un par <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/<br />
+            CasinoDisbursementReport[4]/CasinoTransaction[1]/<br />
+            CasinoTransactionDetail/TransactionDate&lt;/XmlDataElementName&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td><p>Le nombre entre crochets indique l'ordre de l'élément dans le fichier XML. Dans l'exemple, l'erreur est associée à la première opération de la quatrième déclaration.</p></td>
+    </tr>
+</table>
+<h4>MessageNumber</h4>
+<p><img src="images/Mod1/image020.gif" alt="MessageNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">MessageNumber</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Le numéro du code d'erreurs qui décrit le problème. Voir la partie 8 pour les renseignements au sujet des codes d'erreurs.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            3 chiffres<br />
+            Un par <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;MessageNumber&gt;306&lt;/MessageNumber&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReportReturnForFurtherActionFileTrailer</h4>
+<p><img src="images/Mod1/image034.gif" alt="ReportReturnForFurtherActionFileTrailer" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportReturnForFurtherActionFileTrailer</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Cette balise parent renferme les éléments de la fin de lot pour le fichier de la DRM.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            Un par<strong>ReportForFurtherActionXmlFile</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><pre>&lt;ReportReturnForFurtherActionFileTrailer&gt;
+ &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+&lt;/ReportReturnForFurtherActionFileTrailer&gt;</pre></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h4>ReportLineItemCount</h4>
+<p><img src="images/Mod1/image035.gif" alt="ReportLineItemCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportLineItemCount</caption>
+    <tr>
+        <th scope="row">Définition :</th>
+        <td><p>Nombre de n&#339;uds <strong>ReportReturnForFurtherActionLineItem</strong> inclus dans le fichier de la DRM.</p></td>
+    </tr>
+    <tr>
+        <th scope="row">Attributs :</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">Contraintes :</th>
+        <td><p>Obligatoire aux fins de traitement<br />
+            1 à 999999999 chiffres<br />
+            Un par <strong>ReportReturnForFurtherActionFileTrailer</strong></p></td>
+    </tr>
+    <tr>
+        <th scope="row">Exemple :</th>
+        <td><code>&lt;ReportLineItemCount&gt;1&lt;/ReportLineItemCount&gt;</code></td>
+    </tr>
+    <tr>
+        <th scope="row">Commentaires&nbsp;:</th>
+        <td></td>
+    </tr>
+</table>
+<h3 id="s7-2">7.2 Exemple de message de DRM</h3>
+<div>
+    <pre>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;ReportReturnForFurtherActionXmlFile&gt;
+ &lt;ReportReturnForFurtherActionFileHeader&gt;
+  &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+  &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+  &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+  &lt;ReturnReportForFurtherActionIdentifierNumber&gt;125
+  &lt;/ReturnReportForFurtherActionIdentifierNumber&gt;
+  &lt;ReturnReportSummaryText&gt;Please correct the following information &#8230;
+  &lt;/ReturnReportSummaryText&gt;
+  &lt;ReturnReportDueDate&gt;20091112&lt;/ReturnReportDueDate&gt;
+  &lt;ReturnReportCount&gt;20&lt;/ReturnReportCount&gt;
+  &lt;QualityIssueCount&gt;45&lt;/QualityIssueCount&gt;
+  &lt;ExternalFileInvolveCount&gt;45&lt;/ExternalFileInvolveCount&gt;
+ &lt;/ReportReturnForFurtherActionFileHeader&gt;
+ &lt;ReportReturnForFurtherActionLineItem&gt;
+  &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+  &lt;ExternalFileNameSequenceNumber&gt;21&lt;/ExternalFileNameSequenceNumber&gt;
+  &lt;OrganizationReportReferenceIdentifier&gt;Report04
+  &lt;/OrganizationReportReferenceIdentifier&gt; 
+  &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/
+  CasinoDisbursementReport[4]/CasinoTransaction[1]/
+CasinoTransactionDetail/TransactionDate&lt;/XmlDataElementName&gt;
+  &lt;MessageNumber&gt;306&lt;/MessageNumber&gt;
+ &lt;/ReportReturnForFurtherActionLineItem&gt;
+ &lt;ReportReturnForFurtherActionFileTrailer&gt;
+  &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+ &lt;/ReportReturnForFurtherActionFileTrailer&gt;
+&lt;/ReportReturnForFurtherActionXmlFile&gt;</pre>
+</div>
+<h2 id="s8">8 Validation des déclarations et codes d'erreurs dans le traitement</h2>
+<h3 id="s8-1">8.1	RÈGLES DE VALIDATION DES DÉCLARATIONS</h3>
+<p>Les règles de  validation des déclarations s'appliquent au niveau des champs des déclarations qui  font partie d'un lot accepté afin d'assurer qu'il n'y a pas d'erreurs dans les  déclarations (c.-à-d., elles comprennent les champs requis, les champs sont formatés  correctement et les données sont valides). Les messages de règle de validation (<strong>ValidationRuleNumber</strong>)  sont compris dans le <strong>ReportSubmissionResponseLineItem</strong> de l'accusé de réception du lot pour indiquer les déclarations rejetées et pour  donner des avertissements au sujet des déclarations acceptées en fonction de  ces règles de validation. </p>
+<p>Il est possible de télécharger un tableau de codes de  validation des déclarations dans la section traitant de la documentation  technique du site Web de CANAFE (https://fintrac-canafe.canada.ca). Le tableau comprend  une description de la validation mise en application dans chacun des champs des  déclarations. </p>
+<h3 id="s8-2">8.2 Codes d'erreurs dans le traitement des lots</h3>
+<p>Les codes d'erreurs dans le traitement des lots (<strong>MessageNumber</strong>) vous sont communiqués dans l'élément <strong>ReportSubmissionResponseLineItem</strong> de l'accusé de réception. Ces codes d'erreurs vous seront aussi communiqués dans l'élément <strong>MessageNumber</strong> d'un message de DRM afin d'identifier les problèmes de qualité. Il est possible de télécharger une table de codes avec ces messages, tout comme les autres tables de codes, directement de la documentation technique, à la page des publications du site Web de CANAFE auhttps://fintrac-canafe.canada.ca.</p>
+<p>Dans la table de codes d'erreurs, certains codes tels que les codes 9, 77, 300 à 362, 442 et 986 à 993 s'appliquent au niveau des <strong>éléments</strong> des déclarations au sein d'un lot <strong>accepté</strong>. Ces codes servent à expliquer pourquoi la déclaration a été rejetée ou à expliquer un problème de qualité lié à une déclaration acceptée.</p>
+<p>Le reste des codes d'erreurs (par exemple, les codes 400 à 436) ne vous seront transmis que lors du <strong>rejet complet</strong> du fichier de lot. Si votre lot est rejeté, CANAFE vous communiquera les codes d'erreurs selon les tentatives quant au traitement du lot. Il se peut que le traitement du lot ait été arrêté avant la détection de toutes les erreurs présentes.</p>
+<h2 id="s9">9 Désignation des fichiers de lots</h2>
+<p>Les instructions suivantes portent sur la désignation des fichiers de lots. Elles visent à s'assurer que tous les fichiers de lots ont un nom unique.</p>
+<h3 id="s9-1">9.1 Norme de désignation des fichiers de lots</h3>
+<p>La structure suivante doit être utilisée pour nommer les fichiers de lots :</p>
+<p>Date_Heure_Genre de déclaration.Valeur de l'extension du fichier</p>
+<p>Chaque élément est requis, à l'exception du genre de déclaration, comme suit :</p>
+<ul>
+    <li>la date est obligatoire (AAAAMMJJ);</li>
+    <li>l'heure est obligatoire (HHMMSS);</li>
+    <li>le genre de déclaration est optionnel (&#171; DDC &#187;);</li>
+    <li>l'extension de fichier suivante est obligatoire : &#171; .XML &#187;. Les lots présentant d'autres valeurs d'extension de fichier seront rejetés.</li>
+</ul>
+<p>Exemple : 20090928_223915_DDC.XML</p>
+<p>Les noms de fichiers ne doivent comporter que des caractères alphanumériques standards présentés en majuscules ou en minuscules (A à Z et 0 à 9). Le seul séparateur permis est le trait de soulignement &#171; _ &#187;. Le nom du fichier ne peut présenter qu'un seul point d'extension (c'est-à-dire, .xml). Les fichiers dont les noms comportent des espaces seront rejetés.</p>
+<p>Dans ce contexte, aucune distinction n'est faite entre une lettre majuscule et une lettre minuscule. Par exemple, le nom de fichier 20090928_223915_DDC.XMLn'est pas distinct de 20090928_223915_ddc.xml.</p>
+<p>Tous les fichiers de lots soumis à CANAFE doivent être désignés d'un nom unique, sans égard à leur contenu, sinon ils seront rejetés. Ceci est vrai même si le fichier soumis antérieurement a été rejeté et même si vous soumettez une correction de lot.</p>
+<h3 id="s9-2">9.2 Norme de désignation des fichiers d'accusé de réception de lots de CANAFE</h3>
+<p>Le fichier d'accusé de réception que CANAFE vous transmettra portera le même nom que votre fichier de lot reçu initialement, sauf qu'il aura une valeur d'extension différente. L'extension sera &#171; .001 &#187; pour les fichiers de lots ne comportant aucun rejet de lot, ni aucun message de validation des déclarations. Pour les fichiers comportant des rejets ou des messages de validation, l'extension de fichier sera l'une des suivantes :</p>
+<ul>
+    <li>Fichier_nom.002 : Acceptation de toutes les déclarations, mais certains messages d'avertissement;</li>
+    <li>Fichier_nom.004 : Lot accepté, mais avec certaines déclarations rejetées;</li>
+    <li>Fichier_nom.005 : Lot rejeté pour des raisons de structure (mauvais nom de fichier, contenu incorrect, comptes de déclarations ne concordant pas, etc.).</li>
+</ul>
+<h3 id="s9-3">9.3 Norme de désignation des fichiers de messages de DRM</h3>
+<p>La structure suivante sera utilisée par CANAFE pour nommer les fichiers de messages de DRM qui vous seront envoyés :</p>
+<ul>
+    <li><strong>RRFA_DRM_999999999.xml</strong></li>
+</ul>
+<p>Les &#171; 999999999 &#187; représentent le numéro de la DRM tel que reflété à l'élément <strong>ReturnReportForFurtherActionIdentifierNumber</strong> du message de DRM.</p>
+<p id="f1"><a href="#n1"><sup>1</sup></a> L'élément <strong>OrganizationReportReferenceIdentifier</strong> sera vide car le lot en entier a été rejeté.</p>
+
+
+
+<div class="container">
+<div class="pagedetails">
+	
+	<dl id="wb-dtmd">
+	<dt>Date de modification :&#32;</dt>
+	<dd><time property="dateModified">2017-06-29</time></dd>
+	</dl>
+	</div>	</div>
+</main>
+ 
+<footer id="wb-info">
+
+
+				﻿<h2 class="wb-inv">À propos de ce site</h2>
+<div class="gc-contextual">
+		<div class="container">
+			<nav>
+				<h3>Centre d’analyse des opérations et déclarations financières du Canada (CANAFE)</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="/contact-contactez/1-fra">Communiquer avec CANAFE</a></li><li><a href="/new-neuf/1-fra">Nouvelles de CANAFE</a></li><li><a href="/contact-contactez/list-liste-fra">S’abonner à la liste de distribution de CANAFE</a></li></ul>
+			</nav>
+		</div>
+	</div>
+
+	<div class="gc-main-footer">
+		<div class="container">
+			<nav>
+				<h3>Gouvernement du Canada</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="https://www.canada.ca/fr/contact.html">Toutes les coordonnées</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/min.html">Ministères et organismes</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/systeme.html">À propos du gouvernement</a></li></ul>
+				<h4><span class="wb-inv">Thèmes et sujets</span></h4>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3"><li><a href="https://www.canada.ca/fr/services/emplois.html">Emplois</a></li>
+					<li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">Immigration et citoyenneté</a></li>
+					<li><a href="https://voyage.gc.ca/">Voyage et tourisme</a></li>
+					<li><a href="https://www.canada.ca/fr/services/entreprises.html">Entreprises</a></li>
+					<li><a href="https://www.canada.ca/fr/services/prestations.html">Prestations</a></li>
+					<li><a href="https://www.canada.ca/fr/services/sante.html">Santé</a></li>
+					<li><a href="https://www.canada.ca/fr/services/impots.html">Impôts</a></li>
+					<li><a href="https://www.canada.ca/fr/services/environnement.html">Environnement et ressources naturelles</a></li>
+					<li><a href="https://www.canada.ca/fr/services/defense.html">Sécurité nationale et défense</a></li>
+					<li><a href="https://www.canada.ca/fr/services/culture.html">Culture, histoire et sport</a></li>
+					<li><a href="https://www.canada.ca/fr/services/police.html">Services de police, justice et urgences</a></li>
+					<li><a href="https://www.canada.ca/fr/services/transport.html">Transport et infrastructure</a></li>
+					<li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=fra">Le Canada et le monde</a></li>
+					<li><a href="https://www.canada.ca/fr/services/finance.html">Argent et finance</a></li>
+					<li><a href="https://www.canada.ca/fr/services/science.html">Science et innovation</a></li>
+					<li><a href="https://www.canada.ca/fr/services/autochtones.html">Autochtones</a></li>
+					<li><a href="https://www.canada.ca/fr/services/veterans-militaire.html">Vétérans et militaires</a></li>
+					<li><a href="https://www.canada.ca/fr/services/jeunesse.html">Jeunesse</a></li></ul>
+			</nav>
+		</div>
+	</div>			
+		<div class="gc-sub-footer">
+		<div class="container d-flex align-items-center">
+			<nav>
+				<h3 class="wb-inv">Organisation du gouvernement du Canada</h3>
+				<ul>
+					<li><a href="https://www.canada.ca/fr/sociaux.html">Médias sociaux</a></li>
+					<li><a href="https://www.canada.ca/fr/mobile.html">Applications mobiles</a></li>
+					<li><a href="https://www.canada.ca/fr/gouvernement/a-propos.html">À propos de Canada.ca</a></li><li><a href="https://www.canada.ca/fr/transparence/avis.html">Avis</a></li>
+					<li><a href="https://www.canada.ca/fr/transparence/confidentialite.html">Confidentialité</a></li></ul>			</nav>
+			<div class="wtrmrk align-self-end">
+				<img src="/theme-wet10/GCWeb/assets/wmms-blk.svg" alt="Symbole du gouvernement du Canada">
+			</div>
+		</div>
+	</div>
+	
+	
+	
+</footer>
+<script src="/theme-wet10/wet-boew/js/jquery/2.2.4/jquery.js"></script>
+<script src="/theme-wet10/wet-boew/js/wet-boew.min.js"></script>
+<script src="/theme-wet10/GCWeb/js/theme.min.js"></script>
+<script src="/scripts/dev-banner.js"></script>
+
+<!-- InvitationManager Files -->
+<script src="/invitation-manager/Overlay.js"></script>
+<script src="/invitation-manager/InvitationManager.js"></script>
+<!-- End InvitationManager Files -->
+
+
+
+
+ 
+ 
+</body>
+</html>

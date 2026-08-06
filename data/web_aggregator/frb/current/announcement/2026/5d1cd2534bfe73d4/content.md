@@ -1,0 +1,178 @@
+UNITED STATES OF AMERICA 
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM 
+WASHINGTON, D.C. 
+ 
+ 
+ 
+In the Matter of 
+ 
+JASON BURNS 
+ 
+An institution-affiliated party of  
+ 
+S N B BANCSHARES, INC.              
+Eufaula, Oklahoma, a registered bank holding 
+company 
+ 
+and 
+ 
+BANK OF EUFAULA  
+Eufaula, Oklahoma, a state member bank 
+ 
+ 
+ 
+ 
+Docket No. 26-022-B-I  
+                          
+ 
+Order to Cease and Desist Issued 
+Upon Consent Pursuant to Section 
+8(b) of the Federal Deposit Insurance 
+Act, as Amended 
+ 
+ 
+WHEREAS, the Board of Governors of the Federal Reserve System (the “Board of 
+Governors”), pursuant to section 8(b) of the Federal Deposit Insurance Act, as amended (the 
+“FDI Act”), 12 U.S.C. § 1818(b), issues this Order to Cease and Desist (this “Order”) upon the 
+consent of Jason Burns (“Burns”), an institution-affiliated party, as defined in sections 3(u) and 
+8(b)(3) of the FDI Act, 12 U.S.C. §§ 1813(u) and 1818(b)(3), of S N B Bancshares, Inc., 
+Eufaula, Oklahoma, a registered bank holding company (“SNB”), and Bank of Eufaula, Eufaula, 
+Oklahoma, a state member bank (the “Bank”); 
+WHEREAS, Burns has served as a director on the Bank’s and SNB’s boards of directors 
+and as the Bank’s President during all periods relevant to this order; 
+WHEREAS, from 2020 to 2023, Burns managed the Bank’s lending relationship with a 
+company he knew was owned by a close relative of the Bank’s Chief Executive Officer (the 
+“Company”);
+
+2 
+ 
+ 
+ WHEREAS, during the same period, Burns presented to the Bank’s board—and the 
+board (including Burns) voted to approve—multiple loans totaling over $5 million to the 
+Company, with the proceeds used in part to pay down interest on the Company’s existing Bank 
+loans or to cover overdrafts in the Company’s accounts at the Bank, despite the Company’s 
+ongoing and evident financial difficulties, while failing to assess adequacy of the collateral 
+supporting these loans, all in violation of the Bank’s policies and procedures; 
+WHEREAS, during the same period, Burns repeatedly waived overdraft fees and 
+approved overdrafts that at times totaled over $1 million in the Company’s accounts at the Bank, 
+in violation of the Bank’s policies and procedures; 
+WHEREAS, Burns was responsible for compiling and producing certain Bank records to 
+the Federal Reserve Bank of Kansas City;  
+WHEREAS, included among those documents were minutes of meetings of the Bank’s 
+board of directors for the April 2020 to April 2021 period, even though the board did not meet 
+during that period; 
+WHEREAS, these board minutes falsely reflect that the board approved various actions, 
+including a Main Street Lending Program loan to the Company in the amount of approximately 
+$1.9 million (the “MSLP Loan”), of which a 95% participation interest was then sold to a 
+Federal Reserve special purpose vehicle (the “Federal Reserve SPV”); 
+WHEREAS, because Burns repeatedly caused the Bank to provide preferential treatment 
+to the Company despite its evident and consistent financial difficulties, and because the 
+Company was unable to pay off its loans and settle its overdrafts, the Bank suffered over $3.5 
+million in losses in connection with the Company’s Bank loans (including the MSLP Loan) and 
+overdrafts, and the Federal Reserve SPV suffered approximately $1.88 million in losses in 
+connection with the MSLP Loan;
+
+3 
+ 
+ 
+WHEREAS, Burns’s conduct constituted violations of law or regulation or unsafe or 
+unsound banking practices; and  
+WHEREAS, by affixing his signature hereunder, Burns has consented to the issuance of 
+this Order by the Board of Governors and has agreed to comply with each and every provision of 
+this Order, and has waived any and all rights he might have pursuant to 12 U.S.C. § 1818, 
+12 C.F.R. Part 263, or otherwise:  (a) to contest the issuance of a cease-and-desist order on any 
+matter implied or set forth in this Order; (b) to request a hearing for the purpose of taking 
+evidence with respect to any matter implied or set forth in this Order; (c) to obtain judicial 
+review of this Order or any provision hereof; and (d) to challenge or contest in any manner the 
+basis, issuance, terms, validity, effectiveness, or enforceability of this Order or any provision 
+hereof.  
+ NOW THEREFORE, before the filing of any notices or adjudication of or finding on any 
+issue of fact or law implied or set forth herein, and without Burns’s admitting or denying any 
+allegation made or implied by the Board of Governors in connection herewith, and solely for the 
+purpose of settling this matter without a formal proceeding being filed and without the necessity 
+for protracted or extended litigation, 
+ IT IS HEREBY ORDERED that: 
+1. Pursuant to section 8(b) of the FDI Act, 12 U.S.C. § 1818(b), prior to accepting 
+any position that would cause Burns to become an institution-affiliated party, or upon execution 
+of this Order if Burns is currently an institution-affiliated party, as defined in sections 3(u), 
+8(b)(3), and 8(b)(4) of the FDI Act, 12 U.S.C. §§ 1813(u) and 1818(b)(3) and (4), of any 
+institution or agency described in section 8(e)(7)(A) of the FDI Act, 12 U.S.C. § 1818(e)(7)(A), 
+including, but not limited to, any insured depository institution or any holding company of an 
+insured depository institution, or any subsidiary of such holding company, or any foreign bank or
+
+4 
+ 
+ 
+company to which subsection (a) of 12 U.S.C. § 3106 applies and any subsidiary of such foreign 
+bank or company, Burns shall: 
+a. provide the Chief Executive Officer or equivalent level in the reporting 
+line of the institution with notice and copy of this Order; 
+b. fully familiarize himself with the policies and procedures of the institution 
+that pertain to his duties and responsibilities, including, but not limited to, 
+the policies relating to the institution’s lending and underwriting functions, 
+conflicts of interest, and standards of conduct; and 
+c. within ten (10) days after his acceptance of any position, or execution of 
+this Order, as described in this paragraph, provide written notice to the 
+Board of Governors, along with a written certification of his compliance 
+with each provision of this paragraph. 
+2. In connection with Burns’s status as an institution-affiliated party, as defined in 
+sections 3(u) and 8(b)(3) of the FDI Act, 12 U.S.C. §§ 1813(u) and 1818(b)(3), Burns shall: 
+a. fully comply with all applicable laws, rules, regulations, policies, and 
+procedures; 
+b. not engage in any unsafe or unsound practice; and  
+c. fully observe his fiduciary duties. 
+3. All communications regarding this Order shall be addressed to:  
+a. Richard M. Ashton, Esq.  
+Deputy General Counsel 
+David Williams, Esq. 
+Senior Associate General Counsel  
+Board of Governors of the Federal Reserve System  
+20th & C Streets, N.W.  
+Washington, DC  20551
+
+5 
+ 
+ 
+b. Jason Burns 
+ 
+with a copy to: 
+ 
+ Andrew J. Hofland, Esq. 
+ Hofland Lollman PLLC 
+401 S. Boston Ave., Suite 500 
+Tulsa, OK 74103 
+ 
+4. Any violation of this Order shall separately subject Burns to appropriate civil 
+penalties under sections 8(i) of the FDI Act, 12 U.S.C. § 1818(i).  
+5. The provisions of this Order shall not bar, estop, or otherwise prevent the Board 
+of Governors, or any other Federal or state agency or department, from taking any other action 
+affecting Burns; provided, however, that the Board of Governors shall not take any further action 
+against Burns on any matters concerning or arising from the matters addressed by this Order 
+based upon facts presently known by the Board of Governors.  This release and discharge shall 
+not preclude or affect (i) any right of the Board of Governors to determine and ensure 
+compliance with this Order, or (ii) any proceedings brought by the Board of Governors to 
+enforce the terms of this Order.  
+6. Each provision of this Order shall remain fully effective and enforceable until 
+expressly stayed, modified, terminated, or suspended in writing by the Board of Governors.
+
+6 
+ 
+ 
+By order of the Board of Governors of the Federal Reserve System, effective this 17th 
+day of June, 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ /s/ Jason Burns                                                       
+Jason Burns 
+BOARD OF GOVERNORS OF THE 
+FEDERAL RESERVE SYSTEM 
+ 
+ 
+ 
+By:  /s/ Michele Taylor Fennell                    
+        Michele Taylor Fennell 
+           Associate Secretary of the Board

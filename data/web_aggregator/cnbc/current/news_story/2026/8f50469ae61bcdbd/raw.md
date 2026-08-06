@@ -1,0 +1,7 @@
+# California's diesel prices have jumped since the Iran war started, with ripple effects across the country
+
+California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.
+
+[Read the full story at the source](https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

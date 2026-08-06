@@ -1,0 +1,168 @@
+# Remarks from Sarah Paquet, Director and Chief Executive Officer, Financial Transactions and Reports Analysis Centre of Canada at the ACAMS 9th Annual AML and Anti-Financial Crime Conference
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+## Speech
+
+**Virtual Canada  
+November 3, 2021**
+
+**Check Against Delivery**
+
+## Introduction
+
+Good morning. I'd like to thank ACAMS for the opportunity to speak with you today.
+
+Before I begin, I want to acknowledge that I am speaking to you from the traditional and unceded territory of the Algonquin Anishinaabeg People.
+
+I'm really pleased to have the chance to address the ACAMS community – my first since being appointed FINTRAC's Director last November.
+
+ACAMS is a respected leader in anti-money laundering and anti-terrorism financing training and development. The CAMS designation is recognized as a key certification in the AML field.
+
+ACAMS also plays a critical role in bringing together professionals from a variety of disciplines to share valuable insight on a complex and ever-evolving AML/ATF environment.
+
+Many of us approach money laundering and terrorism financing from a different lens, based on the role that we have within Canada's broader regime. But we all understand the damaging and corrosive impact these crimes have on Canadians, on our institutions and on our country. And we all have a stake in coming together to combat these illicit activities.
+
+This morning, I want to touch on some of the impressive results that we are achieving collectively for Canadians. It's important to take a moment to reflect on the contributions that we have made, together, under the most challenging of circumstances.
+
+I also want to share with you some of our priorities going forward, including our commitment to strengthening and expanding our partnerships and to modernizing our approaches so that we can better support your AML/ATF efforts.
+
+There's an old Ethiopian proverb that says, "When spider webs unite, they can tie up a lion."
+
+Colleagues, when we work together, we may not be tying up a lion but we are certainly making it harder for criminals and terrorists to harm Canadians or threaten the integrity of Canada's financial system.
+
+## Collective Results for Canadians
+
+As we come together today under the long shadow of the global pandemic, it's important to recognize that it has been a difficult time – in many ways a generational challenge – for governments, businesses and people across Canada and around the world.
+
+While thinking of the hardships endured by so many, we should also acknowledge the resilience that Canadians have demonstrated throughout this crisis.
+
+This includes everyone here today who has continued to work to combat money laundering and terrorist activity financing – and help protect Canada and Canadians.
+
+FINTRAC quickly mobilized and reoriented its operations at the beginning of the pandemic to ensure it was able to deliver on its core financial intelligence and compliance mandates, while keeping its people and its workplace safe.
+
+From the earliest lockdown in 2020, the Centre has continued to receive and analyze reporting and provide actionable financial intelligence to Canada's law enforcement and national security agencies.
+
+Over the past year, we generated more than 2,000 financial intelligence disclosures in support of investigations related to money laundering, terrorist activity financing and threats to the security of Canada.
+
+While working in a pandemic environment and adhering to public health restrictions, we managed to provide roughly the same number of disclosures as in previous years, adding to the more than 21,000 financial intelligence disclosures that FINTRAC has generated since becoming operational in 2001.
+
+The reporting that we receive from Canadian businesses is crucial – it is the foundation of the financial intelligence that we are able to generate for Canada's law enforcement and national security agencies, as well as our counterparts internationally.
+
+And we know this financial intelligence is critical to their investigations. Many of the recipients of our disclosures have told us that they will not start a major project-level investigation without seeking out our financial intelligence.
+
+Last year, our financial intelligence contributed to 376 major, resource intensive investigations, and hundreds of other individual investigations at the municipal, provincial and federal levels across the country.
+
+As an example, the Ontario Provincial Police recognized FINTRAC's contribution to Project Southam, a 15-month investigation into Greater Toronto Area-based organized crime groups that have allegedly been importing high volumes of cocaine into Canada for the purpose of trafficking, as well as participating in other criminal activities, including mortgage fraud.
+
+Through this investigation, police seized, among other things, 92 kilograms of cocaine; 21 litres of GHB; a handgun; more than $370,000 in Canadian currency; and a large amount of cryptocurrency. Twenty-two people were charged with 139 offences, including the laundering of proceeds of crime.
+
+It's not difficult to recognize the harm to our communities that these organized crime groups have allegedly caused – and would continue to cause in the future.
+
+Our financial intelligence has been more important than ever as criminals and terrorists have sought to take advantage of the global pandemic to advance their illicit enterprises.
+
+In the early months of the pandemic, FINTRAC published a Special Bulletin, identifying increased money laundering risks associated with the crisis. This included the laundering of proceeds of crime by counterfeiters selling fake COVID-19 test kits and cyber criminals employing COVID-19 versions of popular phishing and blackmail scams.
+
+In total, over the past year, we generated more than 320 disclosures of actionable financial intelligence related to the laundering of proceeds stemming from fraud, corruption and other financial crimes associated with the global pandemic.
+
+The results that we have been able to achieve throughout the global pandemic would not have been possible without the dedicated efforts of businesses across the country. Even with public health restrictions in place throughout Canada, businesses continued to report suspicious transactions and electronic funds transfers at historic levels, allowing us to keep producing financial intelligence for Canada's law enforcement and national security agencies.
+
+I want to recognize and thank businesses for their commitment to protecting Canadians and Canada's economy.
+
+I also want to thank Canadian businesses for their efforts in implementing the significant new legislative and regulatory changes that came into effect in 2020 and 2021.
+
+These changes are strengthening Canada's AML/ATF Regime by covering dealers in virtual currencies and foreign money services businesses, extending obligations related to beneficial ownership and politically exposed persons to all business sectors, and requiring businesses subject to our Act to report large virtual currency transactions to the Centre.
+
+Our changes to strengthen Canada's AML/ATF Regime have also paid off internationally as Canada recently obtained several important upgrades on its latest FATF Follow-up Report and was moved from enhanced to regular follow-up.
+
+This has been a tremendous undertaking, made even more challenging by the ongoing pandemic. As we continue to operationalize the remaining aspects of this initiative, it's clear that we could not have implemented these changes without the input, support and committed efforts of businesses across Canada.
+
+FINTRAC's Annie Bedard and our colleagues from Finance Canada will provide you with an update on the implementation of the existing regulations and what's expected in the future.
+
+As we have throughout this pandemic, we will continue to be flexible and reasonable in our approach to businesses and our compliance activities. Early in the crisis, to ensure the safety of our employees and those of the businesses that we regulate, the Centre paused examinations – and then migrated to virtual examinations at the end of last summer. Businesses were also provided with additional time to prepare documentation to respond to our requests.
+
+We continue to evaluate our approach but I can tell you that we are not planning any onsite examinations in the short term. We will only do so when public health restrictions are lifted and it's safe and appropriate to do so.
+
+Going forward, we also recognize that the world has changed and that the way we conduct our compliance activities will continue to evolve. While we don't have all of the answers as we continue to navigate this global pandemic, we are committed to using more virtual methods to assess compliance and to exploring opportunities to minimize the legislative and regulatory burden on businesses.
+
+## A Challenging Environment – Why the Need for Change
+
+As we look to an ever-evolving future, the one thing that is clear is that we will continue to face a very challenging environment. I can tell you from conversations with my international colleagues that this is **not** unique to Canada.
+
+* The global banking system and transnational nature of money flows have become increasingly complex and sophisticated;
+* Fintech companies and digital giants are offering online financial services that are connected to multiple channels, bringing together open banking and commerce;
+* Technology has brought new and evolving challenges such as anonymity, speed and much larger volumes of transactions; and
+* Criminal organizations, hostile state actors and terrorist groups have become more adept at using the financial systems and new technologies to achieve their goals.
+
+While these challenges are common throughout the world, we have to meet them head on. And we have to meet them together.
+
+## Priorities Going Forward (I) – Enhanced Collaboration
+
+Going back to our Ethiopian spider web, one of the keys to our success will be in strengthening and expanding the existing partnerships between all of us who have a stake in combatting money laundering and terrorist activity financing.
+
+The best example of the extensive collaboration that takes place within Canada's AML/ATF Regime – and something that we can and should look to build on – is our successful public-private partnerships.
+
+Aimed at more effectively combatting online child sexual exploitation, money laundering in British Columbia, the trafficking of illicit fentanyl, romance fraud and human trafficking in the sex trade, these innovative partnerships are led by several of Canada's banks, and the RCMP in the case of money laundering in British Columbia.
+
+And they have been extremely effective in following the money to identify potential subjects, uncovering broader financial connections and providing actionable financial intelligence to advance law enforcement investigations.
+
+For example, since the launch of Project Protect, aimed at combatting human trafficking in the sex trade, we have seen a 750% increase in suspicious transaction reporting related to this heinous crime. With this reporting from Canadian businesses, we have been able to generate more than 1,000 disclosures of actionable financial intelligence to support the investigations of police and law enforcement agencies across the country and internationally.
+
+In one year alone, police in Toronto uncovered 67 victims, 60 percent of whom were 16 and under. The youngest victim was 13 years old. The financial intelligence that we were able to provide, based on suspicious transaction reporting from Canada's banks, played a key role in rescuing many of these victims.
+
+Last December, FINTRAC published a new Operational Alert in support of the public launch of Project Shadow, the fifth public-private partnership involving FINTRAC, the RCMP and Canadian businesses. Co-led by Scotiabank and the Canadian Centre for Child Protection, and supported by Canadian law enforcement agencies and FINTRAC, Project Shadow targets the laundered funds associated with online child sexual exploitation, a heinous crime directed at vulnerable children.
+
+By following the money, Project Shadow is helping police and law enforcement identify and charge the perpetrators of these terrible crimes, and protecting countless victims and survivors in Canada and around the world.
+
+In order to build upon these innovative partnerships, we have created a new Public-Private Collaboration Steering Committee, which FINTRAC co-chairs with Scotiabank, and which comprises an executive committee that also includes representatives from RBC and HSBC.
+
+This committee consists of members from across Canada's AML/ATF Regime and Canadian businesses and was created to provide a coordination of efforts to improve efficiency and effectiveness within existing legislative authorities.
+
+The committee is not operational in nature. It's focused more broadly on establishing shared priorities, enhancing information sharing between businesses, and between the public and private sectors, and leveraging technology to increase automation, strengthen analytical capabilities and enhance the financial intelligence that is disclosed to police, law enforcement and national security agencies.
+
+The Public-Private Collaboration Steering Committee will also serve as a forum to explore further opportunities for innovative collaboration and experimentation.
+
+As we look to strengthen collaboration across the Regime, it's clear that we need to expand our thinking and our efforts beyond simple engagement and consultation. When it comes to 'intelligent regulation', for example, we should be working toward co-developing or co-creating regulations with key parties implicated from the start to strengthen the system and test for unintended consequences. Such a model would include the Department of Finance Canada, as the Regime lead, FINTRAC, as the regulator, businesses and other stakeholders.
+
+This is how we can address legislative and regulatory gaps with the private sector even before the drafting of amendments is done. Laws and regulations drafted in isolation without the input of the private sector will, almost always, result in less effective measures than anticipated.
+
+## Priorities Going Forward (II) – Innovation and Modernization
+
+As we work to strengthen and expand our partnerships, we must also embrace innovation and modernization to keep up with an ever-changing and increasingly challenging AML/ATF environment.
+
+For example, there is real potential to use technology in new ways to develop richer financial intelligence on pressing priorities such as drug and human trafficking, cybercrimes and fraud, all crimes associated with money laundering and terrorist financing.
+
+As we analyze increasing volumes of financial data within our organizations, investigating the linkages between datasets and sharing the appropriate data needed to produce financial intelligence for Canada's law enforcement and national security agencies, cannot happen in isolation.
+
+Governments, national security and law enforcement organizations, as well as technology providers, need to work together to identify patterns of malicious activity, which are dependent on a particular infrastructure, to immediately disrupt those threats by taking down servers or shutting down accounts.
+
+It's about breaking down and disrupting the networks used by the criminal groups themselves. And we all know that it takes a team to get the job done!
+
+For our part, we are committed to modernizing our information technology systems in order to keep pace with the rapid technological innovation that is taking place in the financial sector and in all sectors around the world.
+
+In March, we finalized our new, multi-year Digital Strategy which is aimed at transforming FINTRAC into a leading digital organization. Our strategy is focused on delivering agile and client-centric solutions for both internal and external stakeholders based on the use of new and emerging digital technologies that add business value, improve performance, enhance digital services and enrich the user experience.
+
+Our new strategy will see the establishment of digital capacity, processes and infrastructure. It will create a better, more efficient work experience for our employees – enabling greater productivity and collaboration from the office or remotely. And it will enhance our core business through digital automation and advanced analytics. This includes more effectively addressing legislative and regulatory priorities and modernizing how we engage with our partners and with businesses across the country.
+
+Our Digital Strategy is fundamentally important to our broader efforts to modernize our Compliance and Intelligence programs.
+
+In Budget 2021, the federal government enacted changes to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to strengthen Canada's legislative framework to better protect Canadians and the financial system from money laundering and terrorist financing. The changes included introducing a cost-recovery model for FINTRAC's compliance activities.
+
+We began working closely with the Department of Finance Canada in the summer to develop the cost recovery framework and the formulas, on which Finance Canada will be consulting businesses in the fall, with our support.
+
+As we prepare for the implementation of that framework, we have launched a modernization initiative with the goal of ensuring that our compliance activities are more targeted and effective in meeting the diverse needs, expectations and capacities of all business sectors.
+
+We want to provide meaningful value to businesses in the form of support, services and tools that make it easier for them to fulfil their responsibilities and obligations under the Act and its Regulations.
+
+To ensure we are on the right track and have a good understanding of the needs of each sector, we will be engaging widely with businesses, associations and relevant stakeholders in the months to come to their seek views on how we can improve the reach, accessibility and responsiveness of our compliance efforts.
+
+## Conclusion
+
+Now more than ever, we need to work together to ensure that Canada's AML/ATF regime is strong and effective – that our collective spider webs are able to combat the money laundering and terrorism financing threats that we face today and will face in the future.
+
+Thank you again for your commitment to protecting Canadians and the integrity of Canada's financial system.
+
+I wish you a productive conference and I look forward to meeting with you virtually or, hopefully, in person in the near future.
+
+Date Modified:
+:   2021-11-03

@@ -1,0 +1,27 @@
+{
+  "doc_id": "382f44f5884c0969",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "ESAs\u2019 Joint Board of Appeal decides on FinancialCraft Analytics appeal against ESMA\u2019s registration decision - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/esas-joint-board-appeal-decides-financialcraft-analytics-appeal-against-esmas-registration-decision-2017-07-20_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1074f3be1e3cf40e35c25cbf068b34338a65472e4337351fe7bc2d4d28fa1300",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/382f44f5884c0969",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/esas-joint-board-appeal-decides-financialcraft-analytics-appeal-against-esmas-registration-decision-2017-07-20_en",
+  "fetch_method": "html_to_md"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "7f6ea99a6da4dec1",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Cheque cashers",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/re-ed/cheque-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4964941c21c1a9eb0030f8cca4aa3310d105f1f7fa40720bc0e860d5e11f77d1",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/7f6ea99a6da4dec1",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

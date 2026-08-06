@@ -1,0 +1,54 @@
+2026 List of Distressed or Underserved Nonmetropolitan Middle -Income Geographies  
+Source Information and Methodology  
+ 
+Release notes 
+• Due to the fall 2025 Federal government shutdown, unemployment data for all areas (except 
+Puerto Rico) for October 2025 is unavailable; as a result, the unemployment data annual 
+averages are based on 11 months of available unemployment data over the course of the 
+relevant 12-month period. 
+• Due to pandemic restrictions, the poverty and unemployment data in the 2020 Decennial 
+Census files for American Samoa, Guam, and the U.S. Virgin Islands are only available at the 
+“population in households” level rather than the “total population” level. In these territories, all 
+nonmetropolitan, middle-income tracts met at least one of the criteria for being flagged as 
+distressed.  
+ 
+Poverty rate (updated  annually) 
+Source: U.S. Census Bureau Small Area Income and Poverty Estimates (SAIPE), 2024. The variable used 
+was "Estimated percent of people of all ages in poverty." For the four island areas, the 2020 Decennial 
+Census of Island Areas was used.  
+ 
+Note: Due to the U.S. Census Bureau’s adoption of American Community Survey (ACS) data in the 
+estimation procedure for SAIPE, SAIPE data is available with a two-year lag from the year of the List of 
+Distressed or Underserved Nonmetropolitan Middle-Income Geographies. 
+ 
+Unemployment (updated  annually) 
+Source: U.S. Bureau of Labor Statistics (BLS) Local Area Unemployment Statistics, Labor Force Data by 
+County, 2025 Annual Averages. For the four island areas, the 2020 Decennial Census of Island Areas was 
+used. 
+ 
+County unemployment rate = (unemployment level) / (labor force) * 100 
+ 
+National unemployment rate = (total unemployment) / (total labor force) * 100 
+ 
+Note: BLS does not collect employment data for Kalawao County, Hawaii, and considers it to be part of 
+Maui County. We assume unemployment data for Kalawao County is the same as that of Maui County. 
+ 
+Population loss (changes decennially)  
+Source: U.S. Census Bureau County Intercensal Estimates (for change between 2010 
+and 2020 populations and for change between 2015 and 2020 populations) and 2020 and 2010 
+Decennial Census of Island Areas (for the four island areas). 
+ 
+10-year population loss from 2010 to 2020 = (2020 population - 2010 population) / 2010 population 
+ 
+5-year population loss from 2015 to 2020 = (2020 population - 2015 population) / 2015 population 
+ 
+Note: The County Intercensal Estimates for 2010-2020 do not include the county changes for 
+Connecticut. However, since none of the previous eight counties qualified for population loss, none of the 
+tracts will be flagged.
+
+Remote rural (low density) 
+Source: USDA Economic Research Service Urban Influence Codes, 2024. An area is considered low 
+density if the Urban Influence Code is 6, 8, or 9. Previously, an area was considered low density if the 
+Urban Influence Code was 7, 10, 11, or 12. The 2024 Urban Influence Codes use similar criteria and 
+methods as previous delineations. However, they have been consolidated from 12 to 9 categories, 
+including due to changes in the U.S. Census Bureau’s definition of urban areas.

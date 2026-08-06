@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; Nasdaq PHLX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Delete Obsolete Rule Text Regarding the Now-Completed Tick Size Pilot

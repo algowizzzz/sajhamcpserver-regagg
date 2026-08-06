@@ -1,0 +1,25 @@
+{
+  "doc_id": "36ee3d1b39b8185f",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Donn\u00e9es de cr\u00e9dit selon l\u2019approche NI des op\u00e9rations de gros - Pr\u00eats en d\u00e9faut et cas r\u00e9gl\u00e9s (BG) | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/donnees-credit-selon-lapproche-ni-operations-gros-prets-en-defaut-cas-regles-bg",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2a677b6d501437c9a937ffc367739ef274644db39d14fecffd1cd065cd5f3a9b",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/36ee3d1b39b8185f",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

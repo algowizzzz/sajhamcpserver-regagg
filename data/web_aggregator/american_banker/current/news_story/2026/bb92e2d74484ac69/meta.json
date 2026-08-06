@@ -1,0 +1,26 @@
+{
+  "doc_id": "bb92e2d74484ac69",
+  "regulator_id": "american_banker",
+  "doc_type": "news_story",
+  "title": "What advisors need to know about the rising costs of health insurance",
+  "language": "en",
+  "source_url": "https://www.americanbanker.com/news/what-advisors-need-to-know-about-the-rising-costs-of-health-insurance",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:20ee71c5ff7f9151383c8bca1d87c2ebc8c12a9a1ab20706a5bee8f02d9cb3e9",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_american_banker_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/american_banker/current/news_story/2026/bb92e2d74484ac69",
+  "tags": [
+    "us",
+    "banking"
+  ],
+  "final_url": "https://www.americanbanker.com/news/what-advisors-need-to-know-about-the-rising-costs-of-health-insurance",
+  "fetch_method": "feed_summary"
+}

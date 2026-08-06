@@ -1,0 +1,133 @@
+# Opération sur l’actif de plus de 10 %
+
+Information
+
+Type de document
+
+Instructions relatives aux opérations
+
+Catégorie
+
+Opérations avec présomption d'agrément
+
+Dernière révision
+
+Mai 2013
+
+Index PA No
+
+18
+
+## Fondement législatif
+
+* Articles 482 et 944 de la [Loi sur les banques](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/)
+* Article 470 de la [Loi sur les sociétés de fiducie et de prêt](https://laws-lois.justice.gc.ca/fra/lois/t-19.8/)
+* Articles 512, 569 et 987 de la [Loi sur les sociétés d’assurances](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/)
+* Article 406 de la [Loi sur les associations coopératives de crédit](https://laws-lois.justice.gc.ca/fra/lois/c-41.01/ )
+
+## Exigences en matière d’information
+
+De façon générale, le demandeur doit fournir :
+
+1. une description de l’opération ou de la série d’opérations (l’opération), notamment :
+   1. la justification de l’opération (p. ex., dans le cours normal des activités ou dans le cadre d’une restructuration),
+   2. le type d’élément d’actif ou les types d’éléments d’actif (élément d’actif) en cause,
+   3. les noms des parties à l’opération et, s’il y a lieu, une description de la nature du lien du demandeur avec ces personnes,
+   4. dans le cas de l’acquisition d’un élément d’actif, une description de la contrepartie que versera le demandeur ou sa filiale, y compris les modalités de paiement,
+   5. dans le cas de la cession d’un élément d’actif, une description de la contrepartie que recevra le demandeur ou sa filiale, y compris les modalités de paiement et l’utilisation confirmée ou proposée du produit;
+2. un relevé de tous les éléments de la formule énoncée dans le fondement législatif pertinent qui démontre que la valeur de l’opération est supérieure au seuil de 10 % fixé dans la formule;
+3. une description de l’incidence que l’opération aura sur la stratégie commerciale du demandeur et, si l’opération avait pour effet de la modifier considérablement, une stratégie commerciale révisée;
+4. une analyse de l’effet que l’opération aura sur la situation financière et le profil de risque du demandeur, notamment :
+   1. un bilan pro forma comparatif (avant et après l’opération), assorti des hypothèses pertinentes,
+   2. une analyse pro forma comparative des capitaux ou des fonds propres (avant et après l’opération) confirmant que le demandeur respecte ses propres objectifs en matière de capitaux ou de fonds propres ainsi que les exigences que le BSIF a établies à son endroit, assortie des hypothèses utilisées et,
+      1. dans le cas d’une institution de dépôts, un relevé de tous les éléments utilisés pour calculer les normes de fonds propres, y compris le ratio des fonds propres de catégorie 1 au titre du risque, le ratio de la totalité des fonds propres au titre du risque et le ratio actif/fonds propres,  
+         risk-based total capital ratio and the assets to capital multiple,
+      2. dans le cas d’une société d’assurance-vie ou d’une société de secours mutuels, un relevé de tous les éléments utilisés pour calculer le *Montant minimal permanent requis pour le capital et l’excédent*, y compris les capitaux de catégorie 1 et le total des capitaux requis,
+      3. dans le cas d’une société d’assurances multirisques, tous les éléments du  *Test du capital minimal*  ou du *Test de suffisance du capital des assureurs hypothécaires*, selon le cas
+   3. une confirmation du fait qu’après l’opération, la situation du demandeur sera conforme à sa politique en matière de liquidités,
+   4. la version révisée d’un document sur le processus d’évaluation interne de la solvabilité (par exemple, PIEAFP ou ESF), y compris un résumé des conséquences importantes prévues de l’acquisition proposée sur le demandeur.
+
+## Directives administratives
+
+1. La plupart des opérations qu’effectuent les entités fédérales et leurs filiales (désignées collectivement par le sigle EF) visent une forme d’acquisition ou de cession d’éléments d’actif. Toutefois, le BSIF estime que les mots *acquérir des éléments d’actif* et *céder des éléments d’actif*, au sens que leur prêtent les dispositions des fondements législatifs des présentes, s’entendent généralement de ce qui suit :
+   1. l’achat d’éléments d’actif et la vente d’éléments d’actif par une EF (appelés collectivement *opérations d’achat et de vente*);
+   2. l’acquisition d’éléments d’actif et la cession d’éléments d’actif relatifs à une entreprise ou une branche d’activité (p. ex., se rattachant au fait que l’EF assume certains engagements à l’égard, notamment, de dépôts ou de polices d’une autre EF, ou les lui cède) (appelés collectivement *opérations commerciales*).
+
+   Constituent des exemples d’opération d’achat et de vente l’acquisition, par une EF, de biens en contrepartie de l’émission de ses actions, et l’acquisition ou la cession, par une EF, de ce qui suit :
+
+   1. actions et autres titres de participation[Note de bas de page 1](#fnb1);
+   2. obligations sur le marché secondaire;
+   3. biens immeubles;
+   4. comptes créances, notamment l’acquisition ou la cession, par une EF, de comptes créances provenant d’un lot de participations titrisées, ou lui étant destinés, en contrepartie d’une augmentation ou d’une diminution, selon le cas, des droits de propriétés de l’EF à l’égard du lot.
+
+   Constituent des exemples d’opération commerciale, souscrire une convention de réassurance, aux fins de prise en charge, ou vendre une partie de son réseau de succursales à une autre EF.
+2. Les opérations qui ne sont ni des opérations d’achat et de vente, ni des opérations commerciales, et qui ne doivent, par conséquent, pas être prises en compte aux fins du calcul du seuil de 10 % prévu dans les fondements législatifs des présentes, s’entendent notamment des services dont une EF est la prestataire ou l’acquéreur (appelées collectivement *opérations de service*) et des opérations qui ont trait aux capitaux ou aux fonds propres de l’EF (appelées collectivement *opérations portant sur l’avoir*).
+
+   Constituent des exemples d’opérations de service l’EF qui se voit :
+
+   1. accepter des dépôts;
+   2. verser des dividendes;
+   3. accorder des prêts, accorder du crédit et acquérir des obligations sur le marché primaire;
+   4. acheter ou racheter ses actions dans le but de les annuler;
+   5. garantir des risques;
+   6. réassurer des risques aux fins d’indemnisation, exception faite d’une opération qui s’apparente à une opération commerciale (p. ex., lorsque la totalité des risques inhérents à une branche d’assurance ou à un type d’assurance sont réassurés et que le réassureur s’engage à offrir des services à l’égard des polices qui s’y rattachent).
+
+   Constituent des exemples d’opérations portant sur l’avoir l’EF qui se voit :
+
+   1. émettre ses actions pour contrepartie en espèces;
+   2. verser des dividendes;
+   3. acheter ou racheter ses actions dans le but de les annuler;
+   4. réduire son capital déclaré;
+   5. répartir le reliquat de ses biens lors de sa dissolution.
+3. Les dispositions des fondements législatifs des présentes soustraient certains éléments d’actif au calcul et à l’application du seuil de 10 %. Ceux-ci comprennent, notamment, certains éléments d’actif qui sont fréquemment négociés et faciles à évaluer, y compris des titres d’État, des effets du marché monétaire, et des actions ou titres de participation d’une entité lorsque l’agrément du ministre ou du surintendant est requis en vertu des règles sur les intérêts de groupe financier[Note de bas de page 2](#fnb2). C’est également le cas des opérations mettant en cause les éléments d’actif de la caisse séparée tenue par une EF qui est une société d’assurances ou une société de secours mutuels  [Note de bas de page 3](#fnb3).
+4. L’alinéa 6(1)c) de la *Loi nationale sur l’habitation* prévoit généralement que par dérogation aux dispositions de toute loi ou règle de droit limitant ses pouvoirs, le prêteur agréé par la Société canadienne d’hypothèques et de logement (SCHL) qui serait, en les circonstances, une EF, peut aliéner ou acquérir des prêts assurés par la SCHL, ainsi que la garantie prise à leur égard. Ainsi, bien que l’aliénation ou l’acquisition de tels prêts par une EF qui, dans les circonstances, est un prêteur agréé, doivent être prise en compte aux fins du calcul du seuil de 10 %, l’EF n’est pas tenue de demander l’autorisation prévue dans les fondements législatif des présentes pour effectuer cette opération lorsque celle-ci pousse l’EF au-delà du seuil de 10%.
+5. Les dispositions des fondements législatifs des présentes visent les acquisitions et les cessions entre une EF et une seule personne sur une période de 12 mois consécutifs. Il est entendu que les acquisitions et les cessions entre une entité fédérale et une de ses filiales, ainsi que celles entre les filiales d’une entité fédérale, sont assujetties à ces dispositions. Par exemple, l’acquisition, par une entité fédérale, d’actions provenant du trésor d’une de ses filiales en contrepartie d’espèces constituerait, du point de vue de l’entité fédérale, une opération d’achat et de vente et, du point de vue de la filiale, une opération portant sur les capitaux propres.
+6. Lors du calcul du seuil de 10 %, l’EF ne doit pas prendre en compte deux fois la valeur de la contrepartie d’une même opération. Par exemple, l’acquisition d’un bien immeuble évalué à 400 000 $ par l’EF en contrepartie d’un paiement en espèce de 400 000 $ doit être prise en compte à la valeur de 400 000 $, et non de 800 000 $.
+7. Dans l’évaluation d’une demande, le BSIF :
+   1. prendra habituellement en compte l’incidence de l’opération sur la composition des éléments d’actif, les fonds propres, le revenu, la position au chapitre des liquidités et le profil de risque du demandeur :
+      1. dans le cas d’une institution financière fédérale, pour s’assurer que la solvabilité globale du demandeur ne sera pas indûment menacée,
+      2. dans le cas d’une société de portefeuille bancaire ou d’assurances, pour s’assurer que le demandeur demeure en mesure de fournir une aide financière adéquate à sa filiale qui est une institution financière fédérale;
+   2. vérifiera habituellement le sérieux et la faisabilité de la nouvelle stratégie commerciale du demandeur si l’opération avait pour effet de modifier considérablement cette stratégie.
+8. Une opération effectuée avec un apparenté est assujettie aux règles régissant les opérations avec apparentés. Les opérations portant sur les éléments d’actif qui requièrent l’agrément du surintendant en vertu des règles sur les opérations avec apparentés sont soustrait du calcul et à l’application du seuil de 10 %[Note de bas de page 4](#fnb4).
+9. Lorsque son plan d’affaires prévoit une série d’opérations avec une seule personne au cours d’une période de 12 mois qui lui ferait franchir le seuil de 10 %, l’EF peut demander l’agrément du surintendant pour cette série d’opérations[Note de bas de page 5](#fnb5).
+10. Le surintendant pourrait vouloir déterminer si l’opération proposée nuirait dans l’avenir à la mise en oeuvre de mesures correctives et demander de l’information à ce sujet.
+11. Aucun droit n’est exigé en contrepartie de cet agrément[Note de bas de page 6](#fnb6).
+
+Les exigences en matière d’information et les directives administratives visent à satisfaire à tous les genres de demandes types. Elles ont été élaborées à partir de la vaste expérience du BSIF au chapitre de l’évaluation des demandes. Les demandeurs qui auront fourni toute l'information et tous les documents nécessaires pourront s'attendre à ce que leurs demandes soient évaluées plus rapidement. Selon les circonstances, le BSIF peut exiger des renseignements supplémentaires, prendre en compte d’autres questions, imposer des conditions ou exiger des engagements.
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   Les actions et les titres de participation d’une entité sont soustrait du calcul et à l’application du seuil de 10 % lorsque l’agrément du ministre est requis en vertu de dispositions législatives sur la propriété pour cette acquisition, ou que l’agrément du ministre ou du surintendant est requis aux termes des règles sur les intérêts de groupe financier : voir les alinéas 482(2) h) et 944(3) a) de la *Loi sur les banques*, l’alinéa 470(2) d) de la *Loi sur les sociétés de fiducie et de prêt*, voir les alinéas 512(2) d), 569(3) b) et 987(3) a) de la *Loi sur les sociétés d’assurances* et l’alinéa 406(3) d) de la *Loi sur les associations coopératives de crédit*.
+
+    [Retour à la référence de la note de bas de page 1](#fnb1-ref)
+
+Note de bas de page 2
+:   Paragraphes 482(2) et 944(2) et (3) de la *Loi sur les banques*, paragraphe 470(2) de la *Loi sur les sociétés de fiducie et de prêt*, paragraphes 512(2), 569(2) et (3), et 987(2) et (3) de la *Loi sur les sociétés d’assurances*, et paragraphes 406(2) et (3) de la *Loi sur les associations coopératives de crédit*. Voir aussi le *Règlement sur les titres de créance soustraits aux interdictions relatives à l’actif (banques et sociétés de portefeuille bancaires*) de la *Loi sur les banques*.
+
+    [Retour à la référence de la note de bas de page 2](#fnb2-ref)
+
+Note de bas de page 3
+:   Alinéas 490(3) a) et 550 c) de la *Loi sur les sociétés d’assurances*.
+
+    [Retour à la référence de la note de bas de page 3](#fnb3-ref)
+
+Note de bas de page 4
+:   Alinéas 482(2) j) et k) de la *Loi sur les banques*, 470(2) f) et g) de la *Loi sur les sociétés de fiducie et de prêt*, 512(2) f) et g) de la *Loi sur les sociétés d’assurances*, et 406(3) e) et f) de la *Loi sur les associations coopératives de crédit*.
+
+    [Retour à la référence de la note de bas de page 4](#fnb4-ref)
+
+Note de bas de page 5
+:   Paragraphes 482(1.1) et 944(1.1) de la *Loi sur les banques*, paragraphe 470(1.1) de la *Loi sur les sociétés de fiducie et de prêt*, paragraphes 512(1.1), 569(1.1) et 987(1.1) de la *Loi sur les sociétés d’assurances*, et paragraphe 406(1.1) de la *Loi sur les associations coopératives de crédit*.
+
+    [Retour à la référence de la note de bas de page 5](#fnb5-ref)
+
+Note de bas de page 6
+:   Voir le [*Règlement de 2002 sur les droits à payer pour les services du Bureau du surintendant des institutions financières*](http://lois-laws.justice.gc.ca/fra/reglements/DORS-2002-337/page-1.html).
+
+    [Retour à la référence de la note de bas de page 6](#fnb6-ref)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-01-17

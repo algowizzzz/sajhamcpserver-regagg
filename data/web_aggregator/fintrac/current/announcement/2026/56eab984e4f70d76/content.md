@@ -1,0 +1,281 @@
+# Directive de CANAFE faisant suite à la directive ministérielle sur les opérations financières associées à la République islamique d'Iran
+
+Mis à jour le 23 juin 2026
+
+La présente directive fournit des explications concernant les exigences de la directive ministérielle sur les opérations financières associées à la République islamique d'Iran.
+
+## Dans cette directive
+
+1. [1. L’objet de cette directive ministérielle](#s1)
+2. [2. Champ d’application de la directive ministérielle](#s2)
+3. [3. Exigences de la directive ministérielle](#s3)
+4. [4. Les documents à tenir et la durée de conservation](#s4)
+5. [5. Déclaration des opérations visées par la directive ministérielle](#s5)
+
+La présente directive fait suite à la directive du ministre des Finances publiée dans la [Gazette du Canada](http://www.gazette.gc.ca/rp-pr/p1/2020/2020-07-25/html/notice-avis-fra.html) et entrée en vigueur le 25 juillet 2020, puis modifiée le [15 février 2024](https://gazette.gc.ca/rp-pr/p1/2024/2024-02-24/html/notice-avis-fra.html#ne4) et le [15 novembre 2025](https://gazette.gc.ca/rp-pr/p1/2025/2025-11-15/html/notice-avis-fra.html#ne2).
+
+## 1. L'objet de la directive ministérielle
+
+En février 2020, le [Groupe d'action financière](https://www.fatf-gafi.org/en/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-february-2020.html) (en anglais seulement) a publié une déclaration faisant état de ses préoccupations particulières et exceptionnelles suscitées par le manquement de l'Iran à corriger les lacunes stratégiques de son régime de lutte contre le blanchiment d'argent et le financement des activités terroristes et par la grave menace que cette situation pose pour l'intégrité du système financier international. Le Groupe d'action financière a appelé ses membres d'appliquer des contre-mesures efficaces pour protéger leur secteur financier respectif contre ces risques.
+
+De plus, conformément à l’alinéa 11.42(4)d) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi), il a été déterminé qu’il existe un risque que la République islamique d’Iran facilite le contournement des sanctions, ce qui, selon le ministre, pourrait avoir des répercussions négatives sur l’intégrité du système financier canadien ou sur la réputation de ce système.
+
+Ainsi, le ministre des Finances du Canada a publié une directive ministérielle afin d'assurer la sécurité et de protéger l'intégrité du système financier canadien.
+
+La directive ministérielle comporte des exigences qui viendront :
+
+* renforcer les obligations existantes énoncées dans le Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* étendre les obligations prescrites par le Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+
+Pour plus d'informations sur les sanctions et les mesures prises par le Canada à l'égard de l'Iran, consultez les pages [Sanctions canadiennes](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/index.aspx?lang=fra) et [Sanctions canadiennes à l'égard de l'Iran](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/iran.aspx?lang=fra).
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, L.C. 2000, ch. 17,
+  + paragraphe11.42(1)
+  + alinéa 11.42(4)a)
+  + alinéa 11.42(4)d)
+
+## 2. Champ d'application de la directive ministérielle
+
+La directive ministérielle, qui est entrée en vigueur le 25 juillet 2020 et à partir du 19 novembre 2025 s'applique aux personnes ou entités visées à l'article 5 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes.
+
+## 3. Exigences de la directive ministérielle
+
+Avant d'effectuer une quelconque opération financière provenant d'un État étranger, d'une entité étrangère ou d'une société de fiducie constituée ou formée en vertu d'une loi provinciale qui n'est pas réglementée par une loi provinciale, ou à destination de ceux-ci, vous devez élaborer et appliquer, dans le cadre du programme de conformité visé à l'article 9.6 de la Loi, des politiques et des procédures visant à évaluer le risque de perpétration d'une infraction de contournement des sanctions associée à la République islamique d'Iran.
+
+De plus, vous devez :
+
+* traiter **chaque** opération financière **effectuée depuis l'Iran ou à destination de ce pays**, peu importe le montant de celle-ci, comme une opération à risque élevé au titre du paragraphe 9.6(3) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* [vérifier l'identité](/guidance-directives/client-clientele/Guide11/11-fra) de tout client (personne ou entité) qui est le demandeur ou le bénéficiaire de l'opération conformément à la partie 3 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (du Règlement)
+* suivre les procédures de vigilance à l'égard des clients en ce qui concerne de telles opérations, avec une attention particulière sur le risque d'une infraction de contournement des sanctions, notamment en procédant à la vérification de :
+  + l'origine des fonds ou de la monnaie virtuelle
+  + l'objet de l'opération
+  + des [bénéficiaires effectifs](/guidance-directives/client-clientele/bor-fra) ou des personnes qui contrôlent l'entité qui est le demandeur ou le bénéficiaire de l'opération
+* [tenir un document](/guidance-directives/guidance-directives-fra#s4) sur chacune de ces opérations, peu importe le montant, conformément au Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* [déclarer toutes ces opérations](/guidance-directives/guidance-directives-fra#s3) au Centre
+
+### Correspondent bancaire
+
+De plus, la directive ministérielle exige qu'avant d'effectuer quelconque opération avec une institution financière étrangère dans le cadre d'une relation de correspondant bancaire, toute entité visée au paragraphe 9.4(1) de la Loi doit :
+
+* veiller à ce que le risque d'une infraction de contournement des sanctions associée à l'Iran soit pris en considération lors de la prise des mesures visées aux alinéas 16(2)h) à j) et au paragraphe 16(3) du Règlement et lors de la surveillance continue en vertu du paragraphe 16(3.1) du Règlement
+* évaluer les mesures prises pour mettre en œuvre les sanctions du Conseil de sécurité des Nations Unies à l'encontre de l'Iran par le territoire dans lequel l'institution financière étrangère a été constituée et par le territoire dans lequel elle effectue des opérations dans le cadre de la relation de correspondant bancaires
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, L.C. 2000, ch. 17, paragraphes (1) et (2) de l'article 11.42
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + articles 105 à 114
+  + articles 144 à 149
+
+### 3.1 Déterminer si l'opération a été effectuée depuis l'Iran ou à destination de ce pays
+
+La présente directive ministérielle s'applique aux opérations pour lesquelles il y a de l'information indiquant un lien avec l'Iran, et qui sont en provenance ou à destination de l'Iran.
+
+**Les opérations en provenance ou à destination de l'Iran peuvent inclure, entre autres :**
+
+* des opérations dont l'adresse d'origine ou de destination se situe en Iran
+* des opérations associées à des représentants du gouvernement iranien, comme des activités bancaires de l'ambassade d'Iran au Canada
+* des opérations comprenant des rials iraniens, comme des dépôts dans un compte, des opérations de change ou des opérations en monnaie virtuelle
+* des opérations comprenant des rials iraniens, comme pour l'émission ou le rachat de traites bancaires ou d'autres titres négociables
+* des opérations comprenant des fonds obtenus, selon ce qu'a déclaré votre client, par la vente d'un actif en Iran
+* des opérations en ligne dont l'origine ou la destination est associée à une adresse de protocole Internet géolocalisé en Iran
+* des déboursements de casino à destination de l'Iran
+
+La présente directive ministérielle **ne s'applique pas** aux opérations pour qui, selon toute l'information disponible, rien n'indique qu'elles sont en provenance ou à destination de l'Iran.
+
+**Exemples d'opérations qui ne sont pas considérées comme en provenance ou à destination de l'Iran :**
+
+* Opérations d'un client ayant déjà envoyé des fonds en Iran, **sans information supplémentaire** indiquant que l'opération est en provenance ou à destination de l'Iran
+* Opérations pour lesquelles le seul lien avec l'Iran est la pièce d'identité du client, comme un passeport iranien, ou la nationalité iranienne de ce dernier, **sans information supplémentaire** indiquant que l'opération est en provenance ou à destination de l'Iran
+
+**Opérations passant par des territoires intermédiaires**
+
+Voici, pour plus de clarté, des exemples d'opérations comportant un territoire intermédiaire ou un client situé au Canada qui a un lien avec l'Iran, comme une adresse en Iran, car ces cas de figure nécessitent un examen minutieux :
+
+* Si un client reçoit des fonds d'un pays autre que l'Iran et que de l'information supplémentaire (comme celle du compte d'envoi ou concernant les tierces parties) indique l'existence d'un lien avec l'Iran, l'opération doit alors être considérée et traitée comme si elle était **en provenance** de l'Iran.
+* Si un client demande un transfert pour un bénéficiaire situé dans un pays autre que l'Iran et que de l'information supplémentaire (comme celle du compte du bénéficiaire ou concernant les tierces parties) indique l'existence d'un lien avec l'Iran, l'opération doit alors être considérée et traitée comme si elle était **à destination** de l'Iran.
+* Autrement, si le client demande l'envoi de fonds à un bénéficiaire situé dans un pays autre que l'Iran, sans indication que l'opération est à destination ou en provenance de l'Iran, il **n'est alors pas** nécessaire de considérer l'opération aux fins de la directive ministérielle.
+
+**Remarque :** Dès que vous avez déterminé qu'une opération donnée est effectuée depuis l'Iran ou à destination de ce pays, vous devez appliquer les mesures prévues dans la directive ministérielle.
+
+### 3.2 Vérifier l'identité de tout client qui est le demandeur ou le bénéficiaire d'une opération effectuée depuis l'Iran ou à destination de ce pays
+
+Conformément à la directive ministérielle, vous devez prendre des mesures de vigilance accrues allant au-delà des éléments déclencheurs de vérification de l'identité et des exigences prévus par le Règlement sur le recyclage des produits de la criminalité et le financement des activités. Ainsi, même si les opérations dont le montant est inférieur aux seuils de déclaration n'entraînent habituellement aucune obligation relative à la vérification de l'identité des clients, vous **devez**, au titre de la directive, prendre les mesures suivantes :
+
+* vérifier l'identité de **chaque client** (y compris les clients avec qui vous entretenez une [relation d'affaires](/guidance-directives/client-clientele/brr-fra)) qui est le demandeur ou le bénéficiaire de ce genre d'opération, **peu importe le montant** de celle-ci, conformément aux [méthodes prévues](/guidance-directives/client-clientele/Guide11/11-fra) par le Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* pour les opérations dont le montant correspond au seuil de déclaration ou de vérification de l'identité, appliquer des **mesures accrues** à l'égard de la vérification de l'identité de chaque client, conformément aux [exigences en matière de contrôle continu](/guidance-directives/client-clientele/omr-fra). Les mesures accrues peuvent comprendre : l'obtention de renseignements supplémentaires sur le client (par exemple, la profession, le montant des actifs, les renseignements tirés de bases de données publiques ou d'Internet); la collecte de documents, de données ou de renseignements supplémentaires, ou l'application d'autres mesures de vérification des documents obtenus
+
+### 3.3 Autres mesures requises
+
+Vous devez traiter **toutes** les opérations effectuées depuis l'Iran ou à destination de ce pays comme des opérations à risque élevé. En plus de la vérification de l'identité de tout client qui est le demandeur ou le bénéficiaire de ce genre d'opération, vous devez, au titre de la directive ministérielle :
+
+* appliquer des mesures de vigilance accrues à l'égard des clients pour toutes les opérations (**peu importe le montant des opérations**), avec une attention particulière sur le risque d'une infraction de contournement des sanctions
+* évaluer les renseignements du client pour déterminer s'il y a des motifs raisonnables de soupçonner qu'une infraction de blanchiment d'argent, de financement des activités terroristes ou de contournement des sanctions a été commise ou tentée et, le cas échéant, déclarer l'opération dans une [déclaration d'opérations douteuses à CANAFE](/guidance-directives/transaction-operation/str-dod/str-dod-fra)
+* évaluer les renseignements du client pour déterminer si vous avez en votre possession ou sous votre contrôle des biens appartenant à une personne ou entité inscrite, ou sous son contrôle, directement ou non, pour lesquels vous avez l'obligation de communiquer des renseignements à la Gendarmerie royale du Canada ou au Service canadien du renseignement de sécurité, et de transmettre une [déclaration de biens appartenant à une personne ou entité inscrite à CANAFE](/guidance-directives/transaction-operation/Guide5/5-fra)
+* obtenir l'origine des fonds ou de la monnaie virtuelle et l'objet de l'opération
+* s'il y a lieu, obtenir des renseignements sur les bénéficiaires effectifs ou les personnes qui contrôlent toute entité qui est le demandeur ou le bénéficiaire de l'opération
+
+**Remarque :** Il revient à l'entité déclarante qui a établi la relation avec le client d'appliquer les mesures supplémentaires prévues dans la directive ministérielle (c'est-à-dire vérifier l'identité du client, et prendre des mesures de vigilance accrues à l'égard du client).
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + section 157
+
+## 4. Les documents à tenir et la durée de conservation
+
+### 4.1 Documents de télévirements et de transferts de monnaie virtuelle – peu importe le montant de l'opération
+
+Pour un télévirement ou un transfert de monnaie virtuelle **de n'importe quel montant** en provenance ou à destination d'Iran, vous devez conserver ce qui suit :
+
+* les renseignements indiqués dans les documents du télévirement, et les renseignements indiqués dans les documents d'un transfert en monnaie virtuelle, **même si le montant de l'opération est inférieur à 1 000 $ CAD ou à un montant équivalent en monnaie virtuelle**
+* l'origine des fonds ou de la monnaie virtuelle de l'opération
+* l'objet de l'opération
+
+### 4.2 Relevés d'opérations en espèces ou en monnaie virtuelle – peu importe le montant de l'opération
+
+Vous devez conserver un document pour **chaque opération en espèces ou monnaie virtuelle (peu importe le montant de l'opération)** dont vous êtes le destinataire et qui indique un lien avec l'Iran (par exemple, une somme en espèces reçue pour l'émission de titres négociables ou pour l'échange de devises étrangères en rials iraniens). Vous devez conserver ce qui suit :
+
+* les renseignements indiqués dans le relevé d'opération importante en espèces ou en monnaie virtuelle, **même si le montant de l'opération est inférieur à 10 000 $ CAD ou à un montant équivalent en monnaie virtuelle**, et les renseignements indiqués dans la fiche d'opération de change ou la fiche d'opération de change en monnaie virtuelle, **y compris les renseignements requis lors d'opérations de plus de 3 000 $ CAD**
+* l'origine des espèces ou de la monnaie virtuelle de l'opération
+* l'objet de l'opération
+
+### 4.3 Relevés d'opération pour le rachat d'autres titres négociables et relevés d'opération pour l'émission ou le rachat – peu importe le montant de l'opération
+
+Les opérations effectuées depuis l'Iran ou à destination de ce pays comprennent également le rachat d'autres titres négociables (par exemple, traites bancaires, mandats-poste, chèques de voyage) peu importe le montant de l'opération. Ces derniers doivent eux aussi indiquer un lien avec l'Iran, tel que l'utilisation de rials iraniens, pour que la directive ministérielle s'applique. Vous devez conserver ce qui suit :
+
+* les renseignements indiqués dans le relevé d'opération, **même si le montant de l'opération est inférieur à 3 000 $ CAD ou à un montant équivalent en monnaie virtuelle**
+* l'origine des fonds ou de la monnaie virtuelle de l'opération
+* l'objet de l'opération
+
+### 4.4 Renseignements contenus dans les documents et conservation
+
+Vous devez conserver tout document visé par la directive ministérielle conformément aux exigences de tenue de document qui y sont associées, ou pour une période d'au moins cinq ans à compter de la date de création du document.
+
+Si vous devez, au titre de la directive ministérielle, tenir un document renfermant des renseignements qui se trouvent déjà dans un autre document, vous n'avez pas à conserver les renseignements de nouveau. Ainsi, si vous conservez les renseignements requis et que vous pouvez les produire lors d'un examen de CANAFE, vous n'avez pas besoin de créer un nouveau document.
+
+## 5. Déclaration des opérations visées par la directive ministérielle
+
+Les entités déclarantes doivent déclarer à CANAFE toute opération en provenance de l’Iran ou à destination de ce pays. Suivez les instructions fournies dans la présente section.
+
+Lorsque la directive ministérielle reflète :
+
+* un **renforcement** de l'obligation de déclaration des opérations d'une entité déclarante, celle-ci doit utiliser le type de déclaration correspondant (déclaration de télévirement, déclaration d'opérations importantes en espèces, déclaration d'opérations importantes en monnaie virtuelle ou déclaration de déboursements de casino)
+* une **extension** des obligations de déclaration d'une entité déclarante à des opérations qui n'étaient auparavant pas soumises à l'obligation de déclaration, elle doit utiliser la déclaration d'opérations douteuses
+
+### 5.1 Déclaration de télévirements à CANAFE – peu importe le montant de l'opération
+
+**Remarque :** Puisque la déclaration est liée à la directive ministérielle, **vous devez** vous assurer que l'information fournie reflète le lien avec l'Iran, comme le type de monnaie, l'adresse, la méthode d'obtention des fonds ou les détails sur la répartition.
+
+**Instructions pour les entités déclarantes ayant des exigences de déclaration de télévirements**
+
+* Les télévirements dont le montant est inférieur au seuil de déclaration de 10 000 $ CAD et **dont le total n'atteint pas** 10 000 $ CAD selon la règle de 24 heures doivent être déclarés dans une déclaration de télévirements :
+  + Sélectionnez « IR2020 » au champ de la directive ministérielle pour indiquer que l'opération est déclarée en lien avec la directive ministérielle.
+  + Une déclaration de télévirements transmise en lien avec la directive ministérielle ne peut contenir qu'une opération qui doit être sous le seuil. Par conséquent, si vous indiquez que l'opération est transmise en lien avec la directive ministérielle, vous devez également indiquer que le type de regroupement pour la règle de 24 heures est « sans objet » au champ approprié.
+* Les télévirements de 10 000 $ CAD ou plus et ceux résultant d'opérations totalisant 10 000 $ CAD ou plus selon la règle de 24 heures doivent être déclarés selon la procédure habituelle.
+* Les transferts de fonds à l'intérieur du Canada, peu importe le montant de l'opération, lorsqu'il est déterminé que l'opération est en provenance ou à destination de l'Iran, doivent être déclarés dans une déclaration d'opérations douteuses :
+  + Sélectionnez « IR2020 » au champ de la directive ministérielle pour indiquer que l'opération est déclarée en lien avec la directive ministérielle.
+  + Une déclaration d'opérations douteuses transmises en lien avec la directive ministérielle peut contenir une ou plusieurs opérations. De plus, vous **ne devez pas** remplir les sections des détails de l'opération douteuse et des mesures prises du formulaire de déclaration d'opérations douteuses.
+
+**Instructions pour les entités déclarantes qui n'ont pas d'exigences de déclaration de télévirements**
+
+* Les télévirements de n'importe quel montant doivent être déclarés dans une déclaration d'opérations douteuses :
+  + Sélectionnez « IR2020 » au champ de la directive ministérielle pour indiquer que l'opération est déclarée en lien avec la directive ministérielle.
+  + Une déclaration d'opérations douteuses transmise en lien avec la directive ministérielle peut contenir une ou plusieurs opérations. De plus, vous **ne devez pas** remplir les sections des détails de l'opération douteuse et mesures prises du formulaire de déclaration d'opérations douteuses.
+
+### 5.2 Déclaration à CANAFE de la réception de toute somme en espèces – peu importe le montant de l'opération
+
+**Remarque :** Puisque la déclaration est liée à la directive ministérielle, **vous devez** vous assurer que l'information fournie reflète le lien avec l'Iran, comme le type de monnaie, l'adresse, la méthode d'obtention des fonds ou les détails sur la répartition.
+
+**Instructions pour les entités déclarantes ayant des exigences de déclaration d'opérations importantes en espèces**
+
+* La réception d'espèces dont le montant est inférieur au seuil de déclaration de 10 000 $ CAD et dont le total **n'atteint pas** 10 000 $ CAD selon la règle de 24 heures doit être déclarée dans une déclaration d'opérations importantes en espèces.
+  + Sélectionnez « IR2020 » au champ de la directive ministérielle pour indiquer que l'opération est déclarée en lien avec la directive ministérielle.
+  + Une déclaration d'opérations importantes en espèces transmise en lien avec la directive ministérielle ne peut contenir qu'une opération qui doit être sous le seuil. Par conséquent, si vous indiquez que l'opération est transmise en lien avec la directive ministérielle, vous devez également indiquer que le type de regroupement est « sans objet » au champ approprié.
+* Les opérations importantes en espèces de 10 000 $ CAD ou plus et celles qui totalisent 10 000 $ CAD ou plus selon la règle de 24 heures doivent être signalées selon la procédure habituelle.
+
+**Instructions pour les entités déclarantes qui n'ont pas d'exigences de déclaration d'opérations importantes en espèces**
+
+* La réception d'une somme en espèces, peu importe le montant, doit être déclarée dans une déclaration d'opérations douteuses :
+  + Sélectionnez « IR2020 » au champ de la directive ministérielle pour indiquer que l'opération est déclarée en lien avec la directive ministérielle.
+  + Une déclaration d'opérations douteuses transmise en lien avec la directive ministérielle peut contenir une ou plusieurs opérations. De plus, vous **ne devez pas** remplir les sections des détails de l'opération douteuse et mesures prises du formulaire de déclaration d'opérations douteuses.
+
+### 5.3 Déclaration d'opérations en monnaie virtuelle dans une déclaration d'opérations importantes en monnaie virtuelle
+
+**Remarque :** Puisque la déclaration est liée à la directive ministérielle, **vous devez** vous assurer que l'information fournie reflète le lien avec l'Iran, comme le type de monnaie, l'adresse, la méthode d'obtention des fonds ou les détails sur la répartition.
+
+**Instructions pour les entités déclarantes ayant des exigences de déclaration d'opérations importantes en monnaie virtuelle**
+
+* La réception d'une somme en monnaie virtuelle qui est l'équivalent d'une somme sous le seuil de déclaration de 10 000 $ CAD doit être déclarée dans une déclaration d'opérations importantes en monnaie virtuelle.
+  + Sélectionnez « IR2020 » au champ de la directive ministérielle pour indiquer que l'opération est déclarée en lien avec la directive ministérielle.
+  + Une déclaration d'opérations importantes en monnaie virtuelle transmise en lien avec la directive ministérielle ne peut contenir qu'une opération qui doit être sous le seuil. Par conséquent, si vous indiquez que l'opération est transmise en lien avec la directive ministérielle, vous devez également indiquer que le type de regroupement pour la règle de 24 heures est « sans objet » au champ approprié.
+* Les opérations en monnaie virtuelle impliquant la réception d'un montant équivalent à 10 000 $ ou plus, et les opérations impliquant la réception d'une somme en monnaie virtuelle qui tombent à l'intérieur de la règle de 24 heures doivent être déclarées comme elles le seraient normalement.
+
+**Instructions pour les entités déclarantes qui n'ont pas d'exigences de déclaration d'opérations importantes en monnaie virtuelle**
+
+* La réception d'une somme en monnaie virtuelle, peu importe le montant, doit être déclarée dans une déclaration d'opérations douteuses :
+  + Sélectionnez « IR2020 » au champ de la directive ministérielle pour indiquer que l'opération est déclarée en lien avec la directive ministérielle.
+  + Une déclaration d'opérations douteuses transmise en lien avec la directive ministérielle peut contenir une ou plusieurs opérations. De plus, vous **ne devez pas** remplir les sections des détails de l'opération douteuse et mesures prises du formulaire de déclaration d'opérations douteuses.
+
+### 5.4. Déclaration à CANAFE d'un déboursement de casino – peu importe le montant de l'opération
+
+**Remarque :** Puisque la déclaration est liée à la directive ministérielle, **vous devez** vous assurer que l'information fournie reflète le lien avec l'Iran, comme le type de monnaie, l'adresse, la méthode d'obtention des fonds ou les détails sur la répartition.
+
+**Instructions pour les casinos**
+
+* Un déboursement de casino qui est inférieur au seuil de déclaration de 10 000 $ CAD et dont le total **n'atteint pas** 10 000 $ CAD selon la règle de 24 heures doit être déclarée dans une déclaration de déboursements de casino
+  + Sélectionnez « IR2020 » au champ de la directive ministérielle pour indiquer que l'opération est déclarée en lien avec la directive ministérielle.
+  + Une déclaration de déboursements de casino transmise en lien avec la directive ministérielle ne peut contenir qu'une opération qui doit être sous le seuil. Si vous indiquez que l'opération est transmise en lien avec une directive ministérielle, vous devez également indiquer que le type de regroupement pour la règle de 24 heures est « sans objet » au champ approprié.
+
+    **Remarque :** Les casinos disposent d'une période de transition de six mois pour s'adapter à la mise à jour des instructions de déclaration. Les casinos peuvent continuer de déclarer les déboursements de casino sous le seuil au moyen d'une déclaration d'opérations douteuses jusqu'au 23 décembre 2026. Après cette date, ils devront faire plutôt une déclaration de déboursements de casino.
+* Les déboursements de casino de 10 000 $ CAD ou plus et ceux qui totalisent 10 000 $ CAD ou plus selon la règle de 24 heures doivent être signalés selon la procédure habituelle.
+
+### 5.5 Déclaration à CANAFE de titres négociables et d'opérations d'émission ou de rachat
+
+**Remarque :** Puisque la déclaration est liée à la directive ministérielle, **vous devez** vous assurer que l'information fournie reflète le lien avec l'Iran, comme le type de monnaie, l'adresse, la méthode d'obtention des fonds ou les détails sur la répartition.
+
+**Instructions pour toutes les entités déclarantes**
+
+* Tout titre négociable de même que toute opération d'émission ou de rachat effectuée depuis l'Iran ou à destination de ce pays doivent être déclarés au moyen d'une déclaration d'opérations douteuses comme suit :
+  + Sélectionnez « IR2020 » au champ de la directive ministérielle pour indiquer que l'opération est déclarée en lien avec la directive ministérielle.
+  + Une déclaration d'opérations douteuses transmise en lien avec la directive ministérielle peut contenir une ou plusieurs opérations. De plus, vous **ne devez pas** remplir les sections des détails de l'opération douteuse et mesures prises du formulaire de déclaration d'opérations douteuses.
+
+### 5.6 Déclaration d'opérations douteuses ou de biens appartenant à une personne ou entité inscrite
+
+**Instructions pour toutes les entités déclarantes**
+
+* Toute opération associée à l'Iran doit être traitée comme une opération à risque élevé et doit être suivie de près afin de déterminer si une déclaration d'opérations douteuses ou une déclaration de biens appartenant à une personne ou entité inscrite doit être soumise à CANAFE.
+* Aux fins de la directive ministérielle, seules les opérations effectuées doivent être déclarées, lorsque l'unique motif de la déclaration est le fait que l'opération soit en provenance ou à destination de l'Iran. Les opérations tentées peuvent tout de même être déclarées si l'entité déclarante a des motifs raisonnables de soupçonner que l'opération est liée à une tentative de perpétration d'infraction de blanchiment d'argent, de financement des activités terroristes ou de contournement des sanctions.
+* Si vous ne parvenez pas à déterminer qu'une opération est en provenance ou à destination de l'Iran, mais que les faits, le contexte, les indicateurs et les caractéristiques vous mènent à conclure qu'il existe des motifs raisonnables de soupçonner qu'une opération réalisée ou tentée soit liée à la perpétration d'une infraction de blanchiment d'argent, de financement des activités terroristes ou de contournement des sanctions, vous devez soumettre une déclaration d'opérations douteuses à CANAFE.
+* Les pages [Déclaration d'opérations douteuses à CANAFE](/guidance-directives/transaction-operation/str-dod/str-dod-fra) et [Déclaration de contournement soupçonné des sanctions](/guidance-directives/transaction-operation/sanctions/sanctions-fra) renferment davantage d'informations à ce sujet.
+* Si vous **avez en votre possession ou sous votre contrôle** des biens appartenant à une personne ou entité inscrite, ou sous son contrôle, directement ou non, vous devez transmettre à CANAFE une déclaration de biens appartenant à une personne ou entité inscrite. Vous devez inclure dans cette déclaration des renseignements portant sur toute opération effectuée ou proposée se rattachant aux biens en question. La page [Déclaration de biens appartenant à une personne ou entité inscrite à CANAFE](/guidance-directives/transaction-operation/Guide5/5-fra) renferme davantage d'information à ce sujet.
+
+### 5.7 Délais de déclaration
+
+* Lorsque la directive ministérielle reflète un renforcement d'une obligation existante de déclaration d'opérations (par exemple, le seuil de déclaration a été réduit ou éliminé), le délai de la déclaration de cette opération reste celui de l'obligation renforcée :
+  + les télévirements doivent être déclarés au plus tard 5 jours ouvrables suivant la date à laquelle l'entité déclarante sait que l'opération doit être déclarée
+  + les opérations importantes en espèces doivent être déclarées dans les 15 jours civils suivant la date à laquelle l'entité déclarante sait que l'opération doit être déclarée
+  + les opérations en monnaie virtuelle doivent être déclarées à CANAFE dans les 5 jours ouvrables suivant la date à laquelle l'entité déclarante sait que l'opération doit être déclarée
+  + les déboursements de casino doivent être déclarés à CANAFE dans les 15 jours civils suivant la date à laquelle l'entité déclarante sait que le déboursement doit être déclaré
+* Lorsque la directive ministérielle reflète une extension des obligations de déclaration à des opérations qui n'avaient auparavant aucune obligation de déclaration, telles que le rachat d'un titre négociable, les transferts de fonds à l'intérieur du Canada, lesquelles doivent être déclarés au moyen du formulaire de déclaration d'opérations douteuses, il est raisonnable que l'entité déclarante le fasse dès que possible.
+
+## Autres exigences
+
+### Politiques et procédures
+
+Les politiques et procédures de votre programme de conformité doivent comporter des renseignements sur la façon dont votre organisation prend connaissance des directives ministérielles publiées par le ministre des Finances, ainsi que des détails sur les mesures prises par votre organisation pour y donner suite. Vous devez remplir les exigences prévues par les directives ministérielles dès leur publication.
+
+Vos politiques et procédures doivent décrire en détail la méthode que vous adoptez pour déterminer qu'une opération donnée a été effectuée depuis l'Iran ou est à destination de ce pays, ainsi que les mesures d'atténuation précises que vous prendrez après cette détermination. Par exemple, vos politiques et procédures pourraient souligner que vous demandez l'objet d'une opération. Similairement, vous pourriez rechercher l'origine ou la destination d'une opération pour déterminer si les renseignements au sujet du demandeur, du bénéficiaire ou des entités liées à l'opération, indiquent que l'opération a été effectuée depuis l'Iran ou est à destination de ce pays.
+
+### Évaluation des risques
+
+Des directives sur la façon de mener et de mettre par écrit votre évaluation des risques se trouvent sur la page [Directive sur l'évaluation des risques](/guidance-directives/compliance-conformite/rba/rba-fra). Vous devez instaurer certaines mesures d'atténuation des risques pour les opérations impliquant les pays visés par les directives ministérielles. Le ministère des Finances du Canada donne des exemples de ces mesures dans [Renseignements généraux sur la partie 1.1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](https://www.canada.ca/fr/ministere-finances/organisation/lois-reglements/liste-lois-reglements/loi-recyclage-produits-criminalite-financement-activites-terroristes/document-orientation.html).
+
+### Examen de la conformité
+
+Pendant son examen de la conformité, CANAFE peut évaluer votre conformité avec n'importe laquelle des directives ministérielles pour vérifier que vous avez pris les mesures d'atténuation appropriées relativement aux opérations en provenance ou à destination de l'Iran. CANAFE peut également examiner votre évaluation du risque globale pour vérifier si vous avez évalué et mis par écrit les risques liés à vos activités et à vos clients impliquant les pays en question. L'omission de se conformer aux mesures prévues à une directive ministérielle est une infraction très grave. Le régime de pénalités administratives pécuniaires s'applique à toutes les directives ministérielles. Ces pénalités, qui peuvent être imposées à quiconque contrevient aux directives, sont énoncées dans le [Règlement sur les pénalités administratives – recyclage des produits de la criminalité et le financement des activités terroristes](https://lois-laws.justice.gc.ca/fra/reglements/DORS-2007-292/TexteComplet.html).
+
+Date de modification :
+:   2026-06-23

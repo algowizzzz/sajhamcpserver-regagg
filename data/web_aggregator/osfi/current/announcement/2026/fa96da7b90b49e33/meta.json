@@ -1,0 +1,25 @@
+{
+  "doc_id": "fa96da7b90b49e33",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Guides to intervention - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/supervision/supervisory-practices/guides-intervention",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:972392d52d947009c3e26d1f3354d3f16045f2c18a58b06cb04a36ff9ff33b8d",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/fa96da7b90b49e33",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

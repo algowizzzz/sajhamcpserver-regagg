@@ -1,0 +1,8 @@
+Page Content
+
+Publication date
+:   25 January 2017
+
+## Related links
+
+[The future of the European insurance industry in a digital era: Turning challenges into opportunities - Keynote speech](/document/download/967c5215-b9fc-4b53-a6c9-bf8eb5c39950_en?filename=The%20future%20of%20the%20European%20insurance%20industry%20in%20a%20digital%20era%3A%20Turning%20challenges%20into%20opportunities%20-%20Keynote%20speech.pdf)

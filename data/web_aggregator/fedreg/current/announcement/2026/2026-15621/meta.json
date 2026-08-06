@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-15621",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15621/self-regulatory-organizations-ice-clear-credit-llc-order-approving-proposed-rule-change-relating-to",
+  "reference_number": "2026-15621",
+  "published_date": "2026-08-03",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:70326dfda1d9c1a96f4c9e932f4594b0fcf2d4cac9fc5da3aaeed93db741533a",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-15621",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

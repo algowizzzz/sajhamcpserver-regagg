@@ -1,0 +1,56 @@
+[Skip to main content](#skip-to-content "Skip to main content")
+
+[Home](/eng "Home")
+/ [News and Media](/eng/news-and-media/ "News and Media") / [Press Releases](/eng/news-and-media/press-releases/ "Press Releases")
+
+# Monetary Statistics for June 2026
+
+## Press Releases
+
+31 Jul 2026
+
+### Monetary Statistics for June 2026
+
+According to statistics published today (31 July) by the Hong Kong Monetary Authority, total deposits with authorized institutions increased by 0.1% in June 2026.  Among the total, Hong Kong dollar deposits increased by 0.9%, while foreign currency deposits decreased by 0.5% in June.  For the first half of 2026 as a whole, total deposits and Hong Kong dollar deposits increased by 4.9% and 5.3% respectively.  Renminbi deposits in Hong Kong decreased by 3.6% in June to RMB1,093.5 billion at the end of June.  The total remittance of renminbi for cross-border trade settlement amounted to RMB1,277.7 billion in June, compared with RMB1,129.6 billion in May.  It should be noted that changes in deposits are affected by a wide range of factors, such as interest rate movements and fund-raising activities.  It is therefore more appropriate to observe the longer-term trends, and not to over-generalise fluctuations in a single month.
+
+Total loans and advances increased by 1.3% in June, and increased by 6.4% in the first half of 2026.  Among the total, loans for use in Hong Kong (including trade finance) and loans for use outside Hong Kong increased by 1.4% and 1.0% respectively in June.  The Hong Kong dollar loan-to-deposit ratio increased to 71.5% at the end of June from 71.0% at the end of May, as Hong Kong dollar loans increased at a faster pace than Hong Kong dollar deposits.
+
+For the second quarter of 2026 as a whole, loans for use in Hong Kong (including trade finance) increased by 3.0% after increasing by 3.0% in the previous quarter.  Analysed by economic use, the increase in loans during the second quarter was mainly led by loans to financial concerns and loans to manufacturing.
+
+Hong Kong dollar M2 and M3 both increased by 0.8% in June, and both increased by 2.6% when compared to a year ago.  The seasonally-adjusted Hong Kong dollar M1 decreased by 1.0% in June, and decreased by 3.0% compared to a year ago, reflecting in part investment-related activities.  Total M2 and total M3 both increased by 0.1% in June.  Compared to a year earlier, total M2 and total M3 both increased by 9.2%.
+
+As monthly monetary statistics are subject to volatilities due to a wide range of transient factors, such as seasonal funding demand as well as business and investment-related activities, caution is required when interpreting the statistics.
+
+[Annex](/media/eng/doc/key-information/press-release/2026/20260731e7a1.pdf)
+
+Hong Kong Monetary Authority  
+31 July 2026
+
+Latest Press Releases
+
+* 03 Aug 2026
+
+  [Planned system enhancement for the Faster Payment System on 9 August 2026](/eng/news-and-media/press-releases/2026/08/20260803-3/ "Planned system enhancement for the Faster Payment System on 9 August 2026")
+* 31 Jul 2026
+
+  [HKICL alerts public of fraudulent website](/eng/news-and-media/press-releases/2026/07/20260731-8/ "HKICL alerts public of fraudulent website")
+* 31 Jul 2026
+
+  [Monetary Statistics for June 2026](/eng/news-and-media/press-releases/2026/07/20260731-7/ "Monetary Statistics for June 2026")
+* 31 Jul 2026
+
+  [Residential mortgage loans in negative equity: End of June 2026](/eng/news-and-media/press-releases/2026/07/20260731-6/ "Residential mortgage loans in negative equity: End of June 2026")
+* 31 Jul 2026
+
+  [Residential Mortgage Survey Results for June 2026](/eng/news-and-media/press-releases/2026/07/20260731-5/ "Residential Mortgage Survey Results for June 2026")
+
+[View All](/eng/news-and-media/press-releases "View All Press Releases")
+[View All](/eng/news-and-media/press-releases "View All Press Releases")
+
+Last revision date : 31 July 2026
+
+Share
+
+[![Share to Facebook](/statics/assets/img/icon-fb.jpg)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hkma.gov.hk%2Feng%2Fnews-and-media%2Fpress-releases%2F2026%2F07%2F20260731-7%2F "Share to Facebook")
+[![Share to Twitter](/statics/assets/img/icon-twitter.jpg)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hkma.gov.hk%2Feng%2Fnews-and-media%2Fpress-releases%2F2026%2F07%2F20260731-7%2F "Share to Twitter")
+[![Share](/statics/assets/img/icon-share.jpg)](javascript:esdlife.app.method.copy_link('https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-7/') "Share")

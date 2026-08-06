@@ -1,0 +1,25 @@
+{
+  "doc_id": "9ccd1716031e5939",
+  "regulator_id": "esma",
+  "doc_type": "announcement",
+  "title": "ESMA publishes latest edition of its newsletter",
+  "language": "en",
+  "source_url": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:575872a7ebc046bb874052b369c5930c0a850c1f57bc23cf728ded8e885ffd74",
+  "version_ts": "2026-08-03T02-32-41Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:32:41.141268+00:00",
+  "run_id": "2026-08-02_esma_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/esma/current/announcement/2026/9ccd1716031e5939",
+  "tags": [
+    "eu",
+    "securities",
+    "derivatives"
+  ]
+}

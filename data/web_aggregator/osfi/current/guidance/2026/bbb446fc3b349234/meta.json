@@ -1,0 +1,27 @@
+{
+  "doc_id": "bbb446fc3b349234",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Total Loss Absorbing Capacity (TLAC) Disclosure Requirements Guideline and Capital Disclosure Requirements Guideline \u2013 Letter (2018) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-disclosure-requirements-guideline-capital-disclosure-requirements",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2c6e40094c4cf979880171d8985c1f96a7df5ffbbad65b0acecf4c65d450eaa2",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/bbb446fc3b349234",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-disclosure-requirements-guideline-capital-disclosure-requirements",
+  "fetch_method": "html_to_md"
+}

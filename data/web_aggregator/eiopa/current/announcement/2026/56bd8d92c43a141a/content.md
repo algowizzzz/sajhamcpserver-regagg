@@ -1,0 +1,18 @@
+The Financial Supervisory Authority of Romania (ASF) and the European Insurance and Occupational Pensions Authority (EIOPA) announce their intention to launch an independent assessment of the Romanian insurance sector through a balance sheet review.
+
+A similar exercise was performed on the Romanian insurance market in 2014-2015, with highly relevant results both for insurance companies and policyholders.  While there has been a steady evolution of the sector since this exercise was completed, the Romanian insurance market is characterized by a high level of concentration and maintains its dependence of motor third party liability insurance, as well as a rapid growth on specific undertakings of the credit and suretyship business.
+
+An assessment of the assets and liabilities of insurance undertakings, including the level of technical provisions, governance issues, prudential parameters, are part of the exercise. Insurance undertakings will be selected based on their market share and business model, ensuring representativeness of around 90% of the Romanian market.  
+The cut-off date for the balance sheet data used in this exercise will be March 31, 2020. The exercise is expected to be launched in the second semester of the year 2020.
+
+A steering committee that will include ASF and EIOPA will be responsible for overseeing the exercise.   
+The exercise will be performed by independent consultants /auditors with high professional reputation and international experience, under the coordination and oversight of ASF and EIOPA, within the steering committee. Also, ASF will select an independent consultant that shall not be any of the auditors performing the review and shall be free of any conflict of interest with the participating insurance undertakings. The consultant shall ensure a harmonized application of the exercise’s methodology by the auditors.
+
+ASF will communicate the insurance companies to be included and the implementation process of the Balance Sheet Review exercise. At the end of the review, ASF will publish a report with the outcome of the exercise.
+
+Publication date
+:   19 February 2020
+
+## Related links
+
+<https://www.eiopa.europa.eu/node/1057>

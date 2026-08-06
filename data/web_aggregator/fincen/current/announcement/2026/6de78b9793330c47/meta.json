@@ -1,0 +1,24 @@
+{
+  "doc_id": "6de78b9793330c47",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Whether an Authorized Agent for the Receipt of Utility Payments is a Money Transmitter | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/whether-authorized-agent-receipt-utility",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a853ecaf2e81879cb64b7ce058d955d4ebd9b2b8ec4544f88724b5f0987ab3a0",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/6de78b9793330c47",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

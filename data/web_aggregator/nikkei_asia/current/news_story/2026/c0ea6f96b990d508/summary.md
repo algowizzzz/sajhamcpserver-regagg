@@ -1,0 +1,1 @@
+Summary: # Japan trading houses more upbeat on earnings as Iran war lifts prices

@@ -1,0 +1,43 @@
+# SARs Assist in Bankruptcy Bust-out Scheme Investigation
+
+[085.pdf](/system/files/case_example/085.pdf "085.pdf")
+(23.7 KB)
+
+SARs helped identify additional aliases, associates, and businesses of an individual that acted as a credit card ‘bust-out’ recruiter. As a recruiter, the subject assisted other individuals (usually from the same ethnic group and experiencing financial or personal difficulties) in escaping their fiscal problems. The subject convinced his recruits that he had contacts with credit card companies, that these contacts had the ability to work through their financial problems, and that there was an opportunity to earn extra cash in the process. To accomplish this, the subject usually had a recruit provide many of his/her personal identifiers to him, including Social Security number and date of birth. Sometimes, the recruit was directed to provide any of his existing credit cards to the subject. Subsequently, the subject and recruit reached an agreement, usually splitting the proceeds from the recruit’s credit card charges in some manner. The charges were typically for merchandise, cash advances, and airline tickets. The subject assisted the recruit in applying for more credit cards, many times using false personal information to obtain these cards.
+
+All credit cards were issued in the recruit’s name, although the subject made most of the charges. In order to increase their credit limits, the recruit paid off the credit cards with bad checks, resulting in immediate credit being extended for the accounts. Then, the recruit used the same credit cards, charging up to their limits for a second time. By the time the bad checks were returned, the recruit usually had charged double the limit for each credit card.
+
+This activity continued for two to three billing cycles before the credit card companies froze the accounts and began the collection process. When the recruit’s debts piled up, the subject advised the recruit to file for bankruptcy and any outstanding debts to creditors were then discharged.
+
+To date, the subject is believed responsible for over $6 million in bankruptcy filings by his recruits although the subject apparently never personally filed for bankruptcy. The investigation continues into the bank fraud (mainly check kiting) committed by the subject. SAR data has been useful in documenting the volume of fraud committed solely by the subject. The total amount is believed to be in the millions of dollars, with a substantial portion of the proceeds possibly wired out of the country.
+
+(Source: FBI)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 6, November 2003]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Check Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

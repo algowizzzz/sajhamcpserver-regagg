@@ -1,0 +1,37 @@
+# Administrative monetary penalty on 1000085532 Ontario Inc.
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2024-09-24**]
+
+1000085532 Ontario Inc., also operating as Right At Home Realty Inc. and Right at home Realty, a real estate broker in North York, Ontario, was imposed an administrative monetary penalty of $57,750 on June 27, 2024, for committing 3 violations. The violations were found during the course of a compliance examination in 2022. 1000085532 Ontario Inc. has paid the administrative monetary penalty in full and proceedings have ended.
+
+## Nature of violation
+
+Violation #1
+:   **Failure to develop and apply written compliance policies and procedures that are kept up to date and, in the case of an entity, are approved by a senior officer – paragraph 71(1)(b) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations**
+      
+      
+    1000085532 Ontario Inc. did not update its policies and procedures to reflect client identification methods pertaining to government-issued photo identification. The approach to non-face-to-face client identification was insufficient as the policies and procedures failed to outline a robust process for verifying the authenticity of government-issued photo identification presented virtually. 1000085532 Ontario Inc.’s identification process lacked specific guidelines on the authentication of government-issued photo identification used for individuals not physically present, which include the use of technology.
+      
+      
+    1000085532 Ontario Inc. policies and procedures did not specify how business relationships are established, maintained, and monitored. They also lacked details on record keeping practices, monitoring frequency, and enhanced measures based on risk assessment. Finally, 1000085532 Ontario Inc. failed to track its business relationships, hindering proper ongoing monitoring and identification of high-risk clients.
+
+Violation #2
+:   **Failure to assess and document the risk of a money laundering or terrorist financing offence, taking into consideration prescribed factors – paragraph 71(1)(c) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations** 
+      
+      
+    1000085532 Ontario Inc.’s risk assessment documentation was incomplete due to several identified gaps. 1000085532 Ontario Inc.’s policy manual lacked detailed information on the types of clients, geographic locations, types of products offered, and technologies used. The risk assessment did not account for the different categories of risk applicable to clients and entities that reflect their operations and require enhanced due diligence. Additionally, 1000085532 Ontario Inc. failed to evaluate and manage higher money laundering or terrorist financing risks posed by clients. The assessment also neglected to consider risks associated with the delivery channels used for client identification and real estate transactions.
+
+Violation #3
+:   **Failure to institute and document the prescribed review – paragraph 71(1)(e) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations**
+      
+      
+    1000085532 Ontario Inc. did not conduct the prescribed review of its compliance program to evaluate its policies and procedures, risk assessment and training program.
+
+## Related link
+
+* [News Release : FINTRAC imposes an administrative monetary penalty on 1000085532 Ontario Inc.](/new-neuf/nr/2024-09-24-eng)
+
+Date Modified:
+:   2024-09-24

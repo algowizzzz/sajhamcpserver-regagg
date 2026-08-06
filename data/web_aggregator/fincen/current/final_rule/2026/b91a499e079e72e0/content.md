@@ -1,0 +1,112 @@
+# USA PATRIOT Act
+
+![Billowing American Flag Snippet](/system/files/shared/PatriotAct_large.jpg)
+
+The official title of the USA PATRIOT Act is "Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT) Act of 2001." To view this law in its entirety, click on the USA PATRIOT Act link below.
+
+[USA PATRIOT Act](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=107_cong_public_laws&docid=f:publ056.107.pdf)
+
+The purpose of the USA PATRIOT Act is to deter and punish terrorist acts in the United States and around the world, to enhance law enforcement investigatory tools, and other purposes, some of which include:
+
+* To strengthen U.S. measures to prevent, detect and prosecute international money laundering and financing of terrorism;
+* To subject to special scrutiny foreign jurisdictions, foreign financial institutions, and classes of international transactions or types of accounts that are susceptible to criminal abuse;
+* To require all appropriate elements of the financial services industry to report potential money laundering;
+* To strengthen measures to prevent use of the U.S. financial system for personal gain by corrupt foreign officials and facilitate repatriation of stolen assets to the citizens of countries to whom such assets belong.
+
+Below is a brief, non-comprehensive overview of the sections of the USA PATRIOT Act that may affect financial institutions.
+
+#### Section 359: Reporting of Suspicious Activities by Underground Banking Systems
+
+This amends the BSA definition of money transmitter to ensure that informal/underground banking systems are defined as financial institutions and are thus subject to the BSA.
+
+#### Section 311: Special Measures for Jurisdictions, Financial Institutions, or International Transactions of Primary Money Laundering Concern
+
+This Section allows for identifying customers using correspondent accounts, including obtaining information comparable to information obtained on domestic customers and prohibiting or imposing conditions on the opening or maintaining in the U.S. of correspondent or payable-through accounts for a foreign banking institution.
+
+* [Listed Rulemaking](/resources/statutes-and-regulations/311-special-measures)
+
+#### Section 312: Special Due Diligence for Correspondent Accounts and Private Banking Accounts
+
+This Section amends the Bank Secrecy Act by imposing due diligence & enhanced due diligence requirements on U.S. financial institutions that maintain correspondent accounts for foreign financial institutions or private banking accounts for non-U.S. persons.
+
+* [Special Due Diligence Programs for Certain Foreign Accounts](/system/files/shared/31_CFR_Part_103_312_EDD_Rule.pdf)
+
+#### Section 313: Prohibition on U.S. Correspondent Accounts with Foreign Shell Banks
+
+To prevent foreign shell banks, which are generally not subject to regulation and considered to present an unreasonable risk of involvement in money laundering or terrorist financing, from having access to the U.S. financial system. Banks and broker-dealers are prohibited from having correspondent accounts for any foreign bank that does not have a physical presence in any country. Additionally, they are required to take reasonable steps to ensure their correspondent accounts are not used to indirectly provide correspondent services to such banks.
+
+#### Section 314: Cooperative Efforts to Deter Money Laundering
+
+Section 314 helps law enforcement identify, disrupt, and prevent terrorist acts and money laundering activities by encouraging further cooperation among law enforcement, regulators, and financial institutions to share information regarding those suspected of being involved in terrorism or money laundering.
+
+* [Section 314(a)](/section-314a)
+* [Section 314(b)](/section-314b)
+
+#### Section 319(b): Bank Records Related to Anti-Money Laundering Programs
+
+To facilitate the government's ability to seize illicit funds of individuals and entities located in foreign countries by authorizing the Attorney General or the Secretary of the Treasury to issue a summons or subpoena to any foreign bank that maintains a correspondent account in the U.S. for records related to such accounts, including records outside the U.S. relating to the deposit of funds into the foreign bank. This Section also requires U.S. banks to maintain records identifying an agent for service of legal process for its correspondent accounts.
+
+#### Section 325: Concentration Accounts at Financial Institutions
+
+Allows the Secretary of the Treasury to issue regulations governing maintenance of concentration accounts by financial institutions to ensure such accounts are not used to obscure the identity of the customer who is the direct or beneficial owner of the funds being moved through the account.
+
+#### Section 326: Verification of Identification
+
+Prescribes regulations establishing minimum standards for financial institutions and their customers regarding the identity of a customer that shall apply with the opening of an account at the financial institution.
+
+#### Section 351: Amendments Relating to Reporting of Suspicious Activities
+
+This Section expands immunity from liability for reporting suspicious activities and expands prohibition against notification to individuals of SAR filing. No officer or employee of federal, state, local, tribal, or territorial governments within the U.S., having knowledge that such report was made may disclose to any person involved in the transaction that it has been reported except as necessary to fulfill the official duties of such officer or employee.
+
+#### Section 352: Anti-Money Laundering Programs
+
+Requires financial institutions to establish anti-money laundering programs, which at a minimum must include: the development of internal policies, procedures and controls; designation of a compliance officer; an ongoing employee training program; and an independent audit function to test programs.
+
+#### Section 356: Reporting of Suspicious Activities by Securities Brokers and Dealers; Investment Company Study
+
+Required the Secretary to consult with the Securities Exchange Commission and the Board of Governors of the Federal Reserve to publish proposed regulations in the Federal Register before January 1, 2002, requiring brokers and dealers registered with the Securities Exchange Commission to submit suspicious activity reports under the Bank Secrecy Act.
+
+#### Section 362: Establishment of Highly Secure Network
+
+Requires FinCEN to establish a highly secure network to facilitate and improve communication between FinCEN and financial institutions to enable financial institutions to file BSA reports electronically and permit FinCEN to provide financial institutions with alerts.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+  + [Anti-Money Laundering Act of 2020](/resources/statutes-and-regulations/anti-money-laundering-act-2020)
+  + [Bank Secrecy Act](/resources/statutes-and-regulations/bank-secrecy-act)
+  + [Chapter X](/resources/statutes-regulations/chapter-x)
+  + [Federal Register Notices](/resources/statutes-regulations/federal-register-notices)
+  + [Administrative Rulings](/resources/statutes-regulations/administrative-rulings)
+  + [Guidance](/resources/statutes-regulations/guidance)
+  + [USA PATRIOT Act](/resources/statutes-and-regulations/usa-patriot-act)
+    - [Section 314(a)](/resources/section-314a)
+    - [Section 314(b)](/resources/section-314b)
+  + [Special Measures](/resources/statutes-and-regulations/special-measures)
+  + [CDD Final Rule](/resources/statutes-and-regulations/cdd-final-rule)
+* [Whistleblower Program](/whistleblower-program)
+
+Header
+
+QUICK LINKS
+
+* [314(a) Information Sharing List](/system/files/shared/leinfosharing.pdf)
+* [314(a) Facts and Figures](/system/files/shared/314afactsheet.pdf)
+* [314(b) Fact Sheet](/system/files/shared/314bfactsheet.pdf)
+* [314(b) Registration Forms](https://ois.fincen.gov/accessrequest/)
+* [BSA Guidance](/resources/statutes-regulations/guidance)
+* [BSA Data](/what-bsa-data)
+* [BSA Regulatory Efficiency and Effectiveness Initiative](/regulatory-efficiency-and-effectiveness)
+* [Chapter X Main Page](/resources/statutes-regulations/chapter-x)

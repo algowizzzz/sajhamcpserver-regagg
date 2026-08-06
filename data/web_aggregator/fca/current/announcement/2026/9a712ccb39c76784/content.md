@@ -1,0 +1,21 @@
+The FCA has censured Equity for Growth (Securities) Limited (EFG) for approving financial promotions relating to minibonds that were unfair, unclear and misleading.
+
+EFG approved financial promotions which failed to disclose very high commission fees charged by its appointed representatives and other introducers for marketing the minibonds to investors. Appointed representatives carry out regulated activities under the responsibility of an authorised firm, known as ‘the principal’.
+
+The promotions also failed to state that these fees would be deducted from investors’ money. This meant they could not make a fully informed decision before investing.
+
+Therese Chambers, joint executive director of enforcement and market oversight at the FCA, said:
+
+'Investors cannot make informed decisions without key information. Firms must make sure that the financial promotions they are approving are transparent about the high commissions taken from people’s money and the impact those charges have on their investments.’
+
+On 25 March 2026, following an FCA petition and restrictions to prevent the firm from conducting regulated activities, the High Court ordered EFG to be wound up on the basis that it was insolvent.
+
+As a result, investor claims will be assessed by the Financial Services Compensation Scheme (FSCS). For more information about how affected investors can make a claim, see our [press release on the winding‑up order](/news/news-stories/equity-growth-securities-limited-enters-liquidation "Equity for Growth (Securities) Limited enters liquidation").
+
+The FCA has decided not to impose a financial penalty because the firm is insolvent and being wound up, and any penalty would reduce the funds available to repay creditors. Had the FCA imposed a financial penalty, this would have been £386,467.
+
+## Notes to editors
+
+1. Read the [Final Notice (PDF)](/publication/final-notices/equity-for-growth-securities-limited-july-2026.pdf "Final Notice 2026: Equity for Growth (Securities) Limited").
+2. Find more information on the [relationship between principals and appointed representatives](/firms/principals-appointed-representatives/responsibilities-how-to-oversee "Responsibilities and how to oversee your appointed representatives").
+3. The FCA enables a fair and thriving financial services market for the good of consumers and the economy. Find out more [about the FCA](/about/what-we-do/the-fca "About the FCA").

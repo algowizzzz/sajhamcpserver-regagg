@@ -1,0 +1,73 @@
+# [ESMA publishes report on cross-border investment services supervision](/press-news/esma-news/esma-publishes-report-cross-border-investment-services-supervision)
+
+Supervisory convergence
+
+20/07/2026
+
+The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, today published its [follow-up report](/sites/default/files/2026-07/ESMA42-2004696504-8471_Follow-up_report_to_peer_review_on_cross_border_activities_of_investment_firms.pdf) to the Peer Review on the supervision of cross-border activities of investment firms. The report assesses the progress made by national competent authorities (NCAs) in implementing recommendations [issued in 2022](/sites/default/files/library/esma42-111-5534_report_peer_review_cross_border_activities_investment_firms.pdf) and covers the Netherlands, Germany, the Czech Republic, Luxembourg, Cyprus and Malta.
+
+The follow-up shows that the peer review has successfully driven improvements across the supervisory cycle and helped strengthen the supervision of cross-border investment services within the EU Single Market.
+
+The report highlights notable progress in three key areas:
+
+* **Stronger authorisation controls** – NCAs have enhanced assessments of firms’ cross-border plans.
+* **Data-driven and risk-based supervision** – NCAs are increasingly using data to monitor cross-border activities, tailoring supervisory action based on identified risks.
+* **Enhanced cooperation and enforcement** – NCAs have undertaken more targeted supervisory actions, reported enforcement cases where relevant and strengthened cooperation.
+
+The report also encourages NCAs with significant outbound cross-border activities to ensure that their supervisory and enforcement approaches match the scale and complexity of these activities, and keeps pace with evolving risks. 
+
+Effective supervision of cross-border activities remains essential to ensuring that investors receive consistent levels of protection regardless of where investment services are provided.
+
+#### **Next steps**
+
+ESMA encourages all NCAs, and in particular those where outgoing cross-border activities is significantly growing, to reflect on the report’s conclusions. 
+
+As retail cross-border investment services continue to expand, ESMA will maintain its focus on fostering supervisory convergence, enhancing cooperation among national supervisors and supporting data-driven, risk-based supervision. These efforts aim to ensure stronger investor protection and contribute to the effective functioning of the EU Single Market.
+
+Further information:
+
+###### **Tayfun Yilmaz**
+
+Communications Officer  
+[press@esma.europa.eu](mailto:press@esma.europa.eu)
+
+##### Related Documents
+
+Download All Files
+Download Selected Files
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Date | Reference | Title | Download | Select |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 20/07/2026 | ESMA42-2004696504-8471 | [Follow-up report to the Peer Review on the supervision of cross-border activities of investment firms](/document/follow-report-peer-review-supervision-cross-border-activities-investment-firms) |  |  |
+
+More on the same topic
+
+[No changes for Data Reporting Services Providers following ESMA’s 2025 assessment of derogation criteria](/press-news/esma-news/no-changes-data-reporting-services-providers-following-esmas-2025-assessment)
+
+19/11/2025
+
+The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has finalised its annual assessment of the derogation criteria for Data
+
+[ESMA identifies measures to further enhance depositary supervision](/press-news/esma-news/esma-identifies-measures-further-enhance-depositary-supervision)
+
+17/11/2025
+
+The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, today published the results of a
+
+[Cyber risk and digital resilience will drive the agenda of ESMA’s Union Strategic Supervisory Priorities for 2026](/press-news/esma-news/cyber-risk-and-digital-resilience-will-drive-agenda-esmas-union-strategic)
+
+24/10/2025
+
+The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, welcomes the strong initial engagement by National Competent Au
+
+[ESMA publishes second consolidated report on sanctions](/press-news/esma-news/esma-publishes-second-consolidated-report-sanctions)
+
+16/10/2025
+
+The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has today published its
+
+[More](/press-news/esma-news?tid%5B0%5D=33)

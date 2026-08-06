@@ -1,0 +1,1 @@
+Summary: # [ESMA publishes latest edition of its newsletter](/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44)

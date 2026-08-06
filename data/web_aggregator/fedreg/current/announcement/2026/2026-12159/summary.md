@@ -1,0 +1,1 @@
+Summary: # Joint Industry Plan; Notice of Filing of the Third Amendment to the Limited Liability Company Agreement of CT Plan LLC To Adopt Revenue Allocation Formula Revisions

@@ -1,0 +1,25 @@
+{
+  "doc_id": "c842e13301eed63a",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "Canada\u2019s trade surplus grows to $3.9-billion in June as weak loonie boosts value of imports, exports",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/business/economy/article-canadas-trade-surplus-widens-june-2026/",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2d16e7ddd2ac8eb80b10d66570aa28389d1d347e8d39ba12b8e5de94e99007e1",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/c842e13301eed63a",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/business/economy/article-canadas-trade-surplus-widens-june-2026/",
+  "fetch_method": "feed_summary"
+}

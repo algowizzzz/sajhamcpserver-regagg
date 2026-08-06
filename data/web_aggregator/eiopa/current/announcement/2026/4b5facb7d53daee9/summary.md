@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published for the first time after the implementation of the new Solvency II regime its new [Risk Dashboard](/browse/financial-stability/risk-dashboard?prefLang=en).

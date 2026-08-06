@@ -1,0 +1,1 @@
+Summary: # Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall

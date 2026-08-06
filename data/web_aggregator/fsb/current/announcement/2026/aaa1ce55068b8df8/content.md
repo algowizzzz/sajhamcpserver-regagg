@@ -1,0 +1,49 @@
+[Press](https://www.fsb.org/content_types/press/ "Go to the Press Content Type archives.")[Speeches](https://www.fsb.org/content_types/speeches/ "Go to the Speeches Content Type archives.")Exploring cross-sectoral interconnections in resolution planning
+
+*The views expressed in these remarks are those of the speaker in their role as FSB Secretary General* *and do not necessarily reflect those of the FSB or its members.*
+
+Good morning everyone and welcome back to day two of ReSolve.
+
+They say resolution planning is one of the few fields where bank, insurer, and financial market infrastructure experts all agree on something: nobody wants to be the one who actually needs to use the plan. As funny as that sentiment might be – it underscores a serious truth. These plans exist to build confidence in the system, so we hopefully never have to use them. But if we do, we must be ready.
+
+So, why did the Financial Stability Board (FSB) bring all of you here today? Because well-functioning resolution regimes are critical to financial stability. Readiness to act is built before a crisis, not during one, and we have to cooperate to be able to enhance preparedness across the financial system. Resolvability is not just about having the right tools on paper; it is about ensuring that those tools can be deployed effectively under real-world conditions. This underscores the importance of vigilance, coordination, and proactive risk management to ensure the financial system remains resilient and that authorities are ready to act. The FSB brought you here today to work on those things.
+
+Let me repeat my question now, with a different emphasis this time. Why did we bring ALL of you here today? We brought together the members of all three resolution working groups—covering banks, financial market infrastructures, and insurers—because it reflects how we think about the financial sector: not as isolated silos but as a deeply interconnected system.
+
+After the adoption of the Key Attributes in 2011, the FSB worked to help authorities build their resolution frameworks sector by sector. That work has paid off. Foundational resolution frameworks are now largely in place across all three sectors, and our members continue to make real progress in operationalizing those frameworks. That is no small achievement, and everyone in this room has contributed to it.
+
+However, the increasingly interconnected nature of the global financial system means that vulnerabilities in one area can quickly propagate to others, and often in new and unexpected ways. A cross-sectoral perspective is not optional; it needs to be integrated into our thinking.
+
+A bank’s distress could show up on an insurer’s balance sheet. A failure in a central clearing counterparty’s default management process could ripple through to the banks that are its clearing members. Liquidity strains in one corner of the system could cascade across others. None of this is new, but collectively it underscores why we are here today. We are at a point where there is broad agreement that we need one conversation, rather than multiple parallel ones, on these interconnected issues.
+
+This event takes place within the broader context of FSB work preparing for a crisis that may emerge from any corner of the financial system. Important to that, this year we launched a strategic review of our crisis preparedness activities. This review is an opportunity to step back and ask whether our approach across the sectors and across the continuum of crisis preparedness—from recovery through early intervention and resolution to post-stabilization restructuring—remains fit for purpose. Understanding the cross-sectoral interconnections and how they play out in a crisis will be central to that review.
+
+To close, I want to come back to this event and the very clever name that the staff came up with for it: the word “resolve” carries dual meaning. On the one hand, it reflects the determination (or resolve) we bring to this critical work. On the other hand, it reminds us of the ultimate goal of resolution planning: to ensure that we are prepared to act decisively, effectively, and collaboratively when the system is tested.
+
+I look forward to the insights from this event.
+
+Thank you.
+
+## Related Information
+
+![](https://www.fsb.org/uploads/P210126-1-pdf.jpg)
+
+### 21 January 2026 2025 Resolution Report: “From Plans to Practice: Operationalising Resolution”
+
+Foundational resolution frameworks are now mostly in place, with significant progress in operational planning and resolvability assessments.
+
+![](https://www.fsb.org/uploads/P250424-3-pdf.jpg)
+
+### 25 April 2024 Key Attributes of Effective Resolution Regimes for Financial Institutions (revised version 2024)
+
+This version of the Key Attributes incorporates additional guidance on financial resources and tools to support the orderly resolution of a central counterparty (CCP).
+
+Content Type(s):
+[Press](https://www.fsb.org/content_types/press/)
+[Speeches](https://www.fsb.org/content_types/speeches/)
+
+Source(s):
+[FSB](https://www.fsb.org/sources/fsb/)
+
+Policy Area(s):
+[Resolution and Crisis Management](https://www.fsb.org/policy_areas/resolution-and-crisis-management/)

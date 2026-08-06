@@ -1,0 +1,85 @@
+# Transcript of the Governor's pooled broadcast interview given on 18 June 2026
+
+Following the publication of the Monetary Policy Summary and minutes of the Monetary Policy Committee meeting
+
+Published on
+18 June 2026
+
+## Transcript
+
+**Sky News** - Governor, you’ve held interest rates where they are when we’ve had some more positive news round inflation, oil prices are coming down. It feels like a rosier picture, but you're still pretty cautious?  
+ **Governor Andrew Bailey** - Well, we have had encouraging news. I mean, I'm very encouraged. You know, we've obviously now got this understanding about what's going to happen in the Middle East and energy prices have come down quite a lot, but they're still above where they were before this conflict started. Inflation is higher than we expected it to be. I really expected, and I really believe we would have been back in a 2% target by now. But it is good news. But of course now what we've got to do is get it back to 2%.  
+  
+I think holding is the right, the right position to be in at the moment for that. So I think it's a sensible decision in the light of the news, I'm encouraged. But we've now got to get inflation back down to 2%.  
+  
+**Sky News** - You've you mentioned in the minutes of the meeting and you said ‘caution around the path of energy prices down’. Does that reflect uncertainty or perhaps how solid this peace will be? It's been an extremely volatile situation. You frankly mistrust that this is the end of the story?  
+  
+**Governor Andrew Bailey** - Mistrust, I think, would be an overstatement. I mean, I'm very, very, very pleased to see this agreement has been reached.  
+  
+I think it's good news. But there is uncertainty around a number of things. There's uncertainty, obviously we need to see it, obviously settle down. I think everybody wants it to settle down and hopes it will. So we need to see that. Then the next step is of course, we need to we need to see the assessment of how much damage has been done to the infrastructure for supplying energy. That's probably a bit more of an issue with gas then oil. But again, we need to see that.  
+  
+I know there's a huge willingness and commitment to, you know, to get supplies back online, and that's good. But we need to see that assessment.  
+  
+Then the third piece, which is the one that obviously we look at very closely because it's where our interest rate decisions have their greatest effect is, inflation has been higher than we thought it would be. You know, is the are we going to get any persistence in terms of its impact on conditions in the UK? Now there I would say, look, the conditions are one where the economy has softened. So that's the backdrop against which I'm judging it.  
+  
+**Sky News** - I'm just looking ahead. We have a by-election going on right now. A great deal of speculation about the leadership of not just the Labour party, but the country. Would a period of political instability come with a negative impact on the public finances, particularly the cost of borrowing?  
+  
+**Governor Andrew Bailey** - Well, obviously I never comment on politics. And today is a by-election day. So I'm particularly never going to comment on politics today. Stability is important. I think everybody recognises that actually, so this is not a point about one part of the political spectrum versus another. I think everybody recognises the importance of stability, and it is important. And it's our job, of course, to deliver our part of that picture.  
+  
+**Sky News** - We've seen videos published online, fake videos of you fighting with Nigel Farage, remarkable pictures, all fake.
+
+What is your response to that and are you concerned there is an attempt here by somebody to try and undermine institutions, particularly central banking and your role in the economic system?  
+  
+**Governor Andrew Bailey** - They are fake, no doubt about that. I'm actually more concerned that they are attempted fraud on the public. So I'm more concerned about people taking advantage of the public. I think people recognise that it's very unlikely that either of us would be fighting in any circumstances. So it's not that. It's the fact that they're being used to defraud members of the public. So I'm very concerned about this. We're finding it very hard to identify who's actually responsible for it, which I think is really important. And it's really important. So if anybody has any information on that, we want to know because any attempt to defraud the public is bad and we don't want to see this happening.  
+  
+**Sky News** - Finally next week sees the 10th anniversary of the vote to leave the European Union. What's your assessment? What is the Bank's assessment? Has Brexit been net good or bad for the British economy?  
+  
+**Governor Andrew Bailey** - Let me take that in parts. I first of all have spent ten years saying very clearly, I'm a public official and I don't comment on Brexit per se. That's a decision that the British people took in a referendum. Our job then was to get on an implement it and that's what we've done.  
+  
+People obviously then ask me a follow up question, which is perfectly reasonable for a question, that I can answer in two parts, which is what's been the impact of Brexit?  
+  
+And let me take that in two parts of that which are very much obviously, in the Bank of England's area of responsibility and expertise. One is the economy as a whole. I think the level of activity and growth in the economy has been lower. And the reason for that is that if you reduce Britain's, the markets, the size of the markets that we trade with, so we reduce our export markets, then that does tend to have a negative impact on growth. It tends to have a negative impact on productivity and the size of the market. We learnt this from Adam Smith by the way. I'm not making this up.  
+  
+That was at the heart of the points that the Bank has been making for the last ten years. So we thought this would happen. And broadly, it has now. In the long run, trade and markets adapt. But the long run, it's hard to ask people how long is the long run? It's hard to know. So that's the first point.  
+  
+Second point is a little bit the other way, which is if we go back ten years, people were saying that this would be very bad for the City of London, very bad for Britain's financial markets. Now, I'm not pretending it's been good, but I would say that I think it has been nowhere near as detrimental as many people predicted at the time.  
+  
+And a lot of people, this is the Bank of England included have been working very hard for the last ten years to make sure that didn't happen. And I think we have been able to, in a sense, reinforce why London is such an important financial centre, why Britain is such an important provider of financial services. So that effect hasn't been anything like what I think a lot of people predicted it would be.
+
+## Other news
+
+[News
+
+30 July 2026
+
+### Minutes of the Meeting of the Court of Directors...
+
+### Minutes of the Meeting of the Court of Directors held on 4 June 2026](/minutes/2026/july/court-minutes-4-june-2026)
+
+[News // Monetary Policy Committee (MPC)
+
+30 July 2026
+
+### Bank Rate maintained at 3.75% - July 2026...
+
+### Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes](/monetary-policy-summary-and-minutes/2026/july-2026)
+
+[News // Letter
+
+23 July 2026
+
+### Letter from the Governor to the Daily Mail
+
+### Letter from the Governor to the Daily Mail](/letter/2026/letter-from-the-governor-to-the-daily-mail)
+
+[News // News release
+
+22 July 2026
+
+### PRA consults on updated guidance for friendly...
+
+### PRA consults on updated guidance for friendly society amalgamations and transfers](/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers)
+
+[View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

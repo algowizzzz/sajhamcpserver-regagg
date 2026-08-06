@@ -1,0 +1,1 @@
+Summary: # Abandon du contrôle de fait\* d’une entité tout en continuant de la contrôler d’une autre façon

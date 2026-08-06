@@ -1,0 +1,49 @@
+# Suspicious Activity Report Leads to Structuring Conviction and Links to Drug Investigation
+
+[109.pdf](/system/files/case_example/109.pdf "109.pdf")
+(23.34 KB)
+
+In 2005, a federal judge sentenced an individual to two years in prison for structuring monetary transactions to avoid reporting requirements. The case started when a financial institution documented unusual financial activity on a series of SARs and notified the Internal Revenue Service, which promptly opened an investigation. Meanwhile, two other federal agencies were investigating the defendant’s involvement in a drug smuggling ring. The SARs helped tie the two investigations together.
+
+In 2002, a bank filed three SARs on the defendant documenting suspicious transactions over a two-year period. These transactions consisted of regular cash deposits just under the $10,000 reporting limit, wire transfers to offshore accounts in Canada and India, and the purchase of official checks.
+
+The activity recorded on the SARs totaled nearly $1 million. In addition to filing the SARs, the bank also notified an Internal Revenue Service special agent of the unusual transactions. The agent had established a relationship with the bank based on a previous investigation of the defendant.
+
+The investigation eventually led to the indictment and arrest of the defendant and the defendant’s spouse on the structuring charges. While that case was unfolding, Bureau of Immigration and Customs Enforcement and Drug Enforcement Administration investigators were looking at the defendant and some associates on suspicion of drug trafficking and money laundering. Allegedly, the associates were importing precursor chemicals into the United States from Canada, and investigators believed the defendant was laundering the profits. As part of the investigation, the two agencies reviewed BSA records to help identify assets, accounts, and financial activity associated with the drug smuggling.
+
+The BSA records retrieved included a SAR detailing the defendant’s structuring and the link to the Internal Revenue Service agent leading that investigation. The three agencies joined forces to further the investigation, participate in the arrest of the subjects, and execute a search warrant in support of the indictment.
+
+The defendant was indicted, entered into a plea agreement, and was sentenced.
+
+(Investigating Agency: Drug Enforcement Administration)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 10, May 2006]
+
+Tags
+
+Narcotics Trafficking
+
+Involving SARs
+
+Depository Institutions
+
+BSA Violations
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

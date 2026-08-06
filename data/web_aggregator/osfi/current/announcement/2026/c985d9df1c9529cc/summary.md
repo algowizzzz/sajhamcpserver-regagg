@@ -1,0 +1,1 @@
+Summary: # 2025 Appointed Actuary’s Report Supplementary Tables for Life, Property and Casualty and Mortgage Insurers

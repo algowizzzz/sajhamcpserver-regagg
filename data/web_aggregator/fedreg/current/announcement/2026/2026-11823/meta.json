@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-11823",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Adopt New Rule 5310 (Best Execution)",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11823/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of",
+  "reference_number": "2026-11823",
+  "published_date": "2026-06-12",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8ddc6e64746412f387ccae3891d127da05ba7ad739d506f1c33b8194936f40a0",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-11823",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

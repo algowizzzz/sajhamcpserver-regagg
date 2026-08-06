@@ -1,0 +1,43 @@
+# Frequently Asked Questions
+
+1. ***Is there a time limit by which government institutions must respond to a request made under the Access to Information Act?***
+
+   Yes. Government institutions must respond within 30 calendar days following the receipt of a request under the [*Act*](http://laws-lois.justice.gc.ca/eng/acts/A-1/index.html). However, an institution may find that more time is needed to process the request and may take an extension of the initial 30 days under certain circumstances. A request may be for a large number of records and meeting the 30-day time limit would unreasonably interfere with the operations of the institution or consultations may be required with other governments, federal government institutions or third parties. If an extension is required, you will be notified in writing as to the length of the extension and the reason for the extension. You will also be advised of your right to file a complaint with the Information Commissioner.
+2. ***Is there a time limit by which government institutions must respond to a request made under the Privacy Act?***
+
+   Yes. While government institutions must respond within 30 calendar days following the receipt of a request under the [*Act*](http://laws-lois.justice.gc.ca/eng/acts/A-1/index.html), they may need to extend the time limit if meeting the original time limit would unreasonably interfere with its operations, or where consultations are required and they cannot be completed within the original time frame. In these two scenarios, an institution can extend a maximum of 30 days. An extension may also be taken for a reasonable period of time if additional time is needed for translation purposes or in order to convert the personal information into an alternative format. Regardless of the type of extension being taken, you will be notified in writing of the extension and will be advised of your right to complain to the Privacy Commissioner.
+3. ***Will I receive more information if I retain the services of a lawyer or have a Member of Parliament make the request on my behalf?***
+
+   No. You will receive the same information whether you make the request yourself or whether a lawyer, Member of Parliament or anyone else makes it on your behalf with your consent. Community status or professional titles will neither slow down nor expedite the processing of a request.
+4. ***How can I find out which department has the records that I want?***
+
+   You may wish to consult [*Info Source*](http://www.infosource.gc.ca/index-eng.asp) which is a series of publications containing information about the Government of Canada and the types of information it has.
+
+   The first is “Sources of Federal Government Information” and describes the functions, programs, activities and information holdings of those institutions which are subject to the Acts. It also provides individuals and current and former federal government employees information as to how to exercise their rights under the [*Privacy Act*](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html).
+
+   The second is entitled “Sources of Federal Employee Information” and lists the Personal Information Banks which contain personal information about federal employees for all of those institutions covered by the [*Privacy Act*](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html).
+
+   The “Directory of Federal Government Enquiry Points” lists contact information for federal departments and agencies.
+
+   Finally, the “Access to Information Act and Privacy Act Bulletin” contains summaries of federal court cases and statistics pertaining to requests made under the [*Access to Information Act*](http://laws-lois.justice.gc.ca/eng/acts/A-1/index.html) and the [*Privacy Act*](http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html).
+5. ***Any tips before I begin?***
+
+   Do not ask for all information on a subject unless you really want it all. Narrowing your request will produce faster results and keep costs down, as will specifying time frames for the documents.
+
+   Send your $5 application fee along with your request. Government institutions are not obliged to respond to your request if you have not paid the fee and they will not begin processing your request without it. You should also know that the deadlines to respond to requests do not begin until the application fee has been received and—if necessary—the request is clarified.
+
+   Although your reasons for asking for the information are your own business and have no bearing on the processing of your request, an explanation may help staff find the material you are seeking. It may be possible for you to personally review the material and select only what interests you for copying.
+
+   Keep in touch with the ATIP Coordinator. Include a daytime telephone number with your request. Call or write to the ATIP Coordinator if you receive no response within a reasonable period of time once the 30-day time limit has elapsed.
+
+   Keep a copy of your request and all related correspondence for your own files.
+6. ***In what format will I receive the documents?***
+
+   We can provide the documents to you either in photocopies or by CD, whichever you prefer. Photocopies are charged at $0.20 per page after the first 125 pages or $25.00. There is no charge for a CD.
+
+​
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-01-18

@@ -1,0 +1,48 @@
+# Corporate reports
+
+## [Annual report](ar/2025/1-eng)
+
+FINTRAC's activities and results
+
+## [Departmental plan](dp-eng)
+
+FINTRAC's performance goals
+
+## [Departmental results report](drr-rrm-eng)
+
+Performance targets met by FINTRAC
+
+## [Quarterly financial reports](qfr-rft-eng)
+
+Quarterly spending at FINTRAC
+
+## [Audit Report for the core control audit](audit-verification/core-base-eng)
+
+Audit and evaluation for programs and services at FINTRAC
+
+## [Annual report on the administration of the Privacy Act](/atip-aiprp/ar/2025-pa-pr-eng)
+
+Report that describes FINTRAC’s activities in administrating the Privacy Act during the most recent fiscal year
+
+## [Annual report on the administration of the Access to Information Act](/atip-aiprp/ar/2025-ai-eng)
+
+Report that describes FINTRAC’s activities in administrating the Access to Information Act during the most recent fiscal year
+
+## [Departmental sustainable development strategy](dsds-smdd-eng)
+
+FINTRAC's efforts to advance sustainable development
+
+## [Forced Labour in Canadian Supply Chains](/publications/fl-tf/fl-tf-eng)
+
+This report includes a summary of steps taken by FINTRAC to prevent or reduce the risk that forced labour or child labour in supply chains during the most recent fiscal year
+
+## [Evaluation reports](evaluation/2025-eng)
+
+Evaluation reports for programs and services at FINTRAC
+
+## [Fees Report](fees-frais/2025-eng)
+
+Report containing information about the fees FINTRAC has the authority to set
+
+Date Modified:
+:   2025-10-20

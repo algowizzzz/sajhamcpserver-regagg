@@ -1,0 +1,49 @@
+# SAR Referral Leads to the Discovery of a $100 Million Mortgage Fraud and Foreclosure Rescue Scheme
+
+[Issue 20-story6.pdf](/system/files/case_example/Issue%2020-story6.pdf "Issue 20-story6.pdf")
+(36.05 KB)
+
+Investigators uncovered a large-scale mortgage fraud scheme that originated from a SAR filed on a subject, who turned out to be a victim of the fraud scheme. In addition to filing the SAR, the filing institution also notified the district attorney's office, which opened the investigation and eventually uncovered the fraud.
+
+A financial institution filed the SAR to report that tax liens had been forged. However upon investigation, the district attorney's office determined that the subject of the SAR was in fact a victim of fraud, in part by suspects who forged documents related to the tax liens. As the investigation continued, the district attorney's office uncovered the mortgage fraud that led to the indictments.
+
+The 10-month investigation leading to the indictment uncovered a criminal enterprise that, through a network of co-conspirators and accomplices, located distressed residential real estate properties in order to perpetrate a racket to defraud lending banks through fictitious sales of those properties. The conspirators caused the banks to front millions of dollars to finance the purchase of these properties. The conspirators then retained most of the cash while leaving the banks with properties that were, in reality, worth considerably less than the value claimed in appraisals.
+
+In one transaction, the defendants created an appraisal report for a duplex with a stated value of nearly $500,000. In actuality, the property was a vacant lot. One of the defendants in the case was paid to develop a false appraisal, after which the documentation was changed to indicate a certificate of occupancy for a two-family structure. This false documentation was then used to close the deal with the bank, which resulted in fraudulently obtained proceeds of nearly $500,000.
+
+The larcenies in the indictment charged the defendants with stealing over $11 million in lending proceeds through trickery and fraud, mostly from banks. The combined efforts of the criminal enterprise appeared to have defrauded banks of almost $100 million. The lenders promptly securitized and sold the fraudulently obtained mortgages into the secondary market as collateralized debt obligations. Rating agencies assigned qualitative values to instruments backed by the securitized mortgages.
+
+The local district attorney indicted approximately a dozen individuals and a mortgage origination company who were convicted later for perpetrating over $100 million in mortgage fraud over a 4-year period. According to investigators, this is a text book example of how the filing of one SAR, followed by immediate referral to law enforcement by the filer, led the district attorney's office to a different scheme involving one of the co-conspirators. The office followed up on the SAR and started investigating the conduct of the co-conspirator, which led to additional criminal violations. The conduct set forth in the indictment - the sham closing/straw buyer scheme - was not the same scheme identified in the SAR. But without the filing of the initial SAR, investigators would not have learned of the scheme reflected in the indictment.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* Issue 20, October 2011]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Schemes and Scams
+
+Depository Institutions
+
+Tax Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

@@ -1,0 +1,5 @@
+# Permitted Payment Stablecoin Issuer Customer Identification Program
+
+The Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve System (Board), the Federal Deposit Insurance Corporation (FDIC), and the National Credit Union Administration (NCUA) are jointly issuing this proposed rule to implement certain provisions of the Guiding and Establishing National and Innovation for U.S. Stablecoins Act (GENIUS Act). Specifically, this rulemaking implements the GENIUS Act's directives to treat permitted payment stablecoin issuers as financial institutions under the Bank Secrecy Act and to require issuers to maintain an effective customer identification program.
+
+> Full text pending: source page is bot-gated; this is the official API abstract.

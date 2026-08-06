@@ -1,0 +1,7 @@
+# ‘Every dollar is mobile’: California’s rich snap up New Zealand ‘golden visas’
+
+Applications for indefinite right to work, live and study in the country have risen after rules were eased
+
+[Read the full story at the source](https://www.ft.com/content/1cf8821e-7ffa-4620-89f9-f56c11a6298e?syn-25a6b1a6=1)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

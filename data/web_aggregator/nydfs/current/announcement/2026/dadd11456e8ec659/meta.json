@@ -1,0 +1,26 @@
+{
+  "doc_id": "dadd11456e8ec659",
+  "regulator_id": "nydfs",
+  "doc_type": "announcement",
+  "title": "https://www.dfs.ny.gov/system/files/documents/2024/01/Consumer-Complaint-Form_Chinese.pdf",
+  "language": "en",
+  "source_url": "https://www.dfs.ny.gov/system/files/documents/2024/01/Consumer-Complaint-Form_Chinese.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2fbd9fcd2bfd7c0929dc4f1e7035b9907f6050b264ca5c21c9cdd6ed37a8aecc",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_nydfs_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nydfs/current/announcement/2026/dadd11456e8ec659",
+  "tags": [
+    "us",
+    "state_regulator",
+    "banking",
+    "insurance"
+  ]
+}

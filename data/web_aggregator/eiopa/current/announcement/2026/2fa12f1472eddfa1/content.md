@@ -1,0 +1,11 @@
+![Adobestock_news_risk_free_interest_rate](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_news_risk_free_interest_rate.jpeg?itok=emDaSlNY "Adobestock_news_risk_free_interest_rate")
+
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published [technical information on the relevant risk free interest rate term structures (RFR) with reference to the end of June 2020](/document/download/349a15ef-9203-455f-aa42-ecf9b1991983_en?filename=June%202020.zip).  
+RFR information has been calculated for the first time Using Refinitiv as the main market data source applying the content of the [Technical Documentation](/document/download/80a87efd-ca69-465e-85fd-bfdbc757463b_en?filename=01.10.2019%20Technical%20documentation.pdf)published on 1 October 2019 and based on RFR coding released on 8 October 2019.
+
+Publication date
+:   3 July 2020
+
+## Related links
+
+[Risk-free interest rate term structures](/tools-and-data/risk-free-interest-rate-term-structures_en)

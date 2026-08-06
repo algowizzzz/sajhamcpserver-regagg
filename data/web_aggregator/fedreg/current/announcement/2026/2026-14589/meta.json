@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14589",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Reporting Forms and Instructions Associated With Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14589/reporting-forms-and-instructions-associated-with-requirements-and-standards-for-fdic-supervised",
+  "reference_number": "2026-14589",
+  "published_date": "2026-07-20",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:740b8ad55db8ad2704d73c15f633a6021a4d34ae6242aafa224f114675b56446",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14589",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

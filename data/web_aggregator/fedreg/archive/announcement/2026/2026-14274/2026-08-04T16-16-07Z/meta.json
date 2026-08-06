@@ -1,0 +1,26 @@
+{
+  "doc_id": "2026-14274",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Fee Schedule To Extend the Temporary Discount Program for Historical Requests of Certain Open-Close Report Data Until December 31, 2026",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/16/2026-14274/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and",
+  "reference_number": "2026-14274",
+  "published_date": "2026-07-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:13754a7ea0696c88e690827ff8a6df532de385b739ffb00fccdf2bc3fe14de00",
+  "version_ts": "2026-08-04T01-11-54Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-04T01:11:54.868965+00:00",
+  "run_id": "2026-08-03_fedreg_ui011154",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14274",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14249",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Churchill Asset Management LLC",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/15/2026-14249/churchill-asset-management-llc",
+  "reference_number": "2026-14249",
+  "published_date": "2026-07-15",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5e80c97185f63b5d01eb596730aafc3a6279af37aac5d45f55f8ef806051475b",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14249",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

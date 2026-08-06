@@ -1,0 +1,208 @@
+# Avis
+
+## Sur cette page
+
+1. [Avis de confidentialité](#s1)
+2. [Améliorer votre expérience dans les sites Web du gouvernement du Canada](#s2)
+3. [Veiller à la sécurité des sites Web du gouvernement du Canada](#s3)
+4. [Offrir un contenu dans les deux langues officielles](#s4)
+5. [L'établissement d'hyperliens vers des sites Web autres que ceux du gouvernement du Canada](#s5)
+6. [Propriété et utilisation du contenu offert dans ce site](#s6)
+7. [Notre engagement à l’égard de l’accessibilité](#s7)
+8. [Échanger avec nous sur les médias sociaux](#s8)
+9. [Questions et demandes des médias](#s9)
+
+## 1. Avis de confidentialité
+
+Le gouvernement du Canada et CANAFE s’engagent à offrir des sites Web qui respectent la confidentialité des visiteurs. L’avis de confidentialité résume les pratiques de protection des renseignements personnels pour les activités en ligne de CANAFE.
+
+Tous les renseignements personnels recueillis par cette institution sont gouvernés par la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](http://laws-lois.justice.gc.ca/fra/lois/P-24.501/)  et la [Loi sur la protection des renseignements personnels](http://laws-lois.justice.gc.ca/fra/lois/P-21/index.html). Cela signifie que vous serez avisé de la raison pour laquelle vos renseignements personnels sont recueillis et de la façon d’exercer vos droits d’accès à l’information.
+
+### Votre confidentialité et Internet
+
+La nature d’Internet est telle que les serveurs recueillent automatiquement certaines informations concernant la visite d’un site Web, y compris l’adresse du protocole Internet (IP). L’adresse IP consiste en une série de numéros unique accordée par les fournisseurs de services Internet (FSI) à tous les appareils utilisés pour accéder à Internet. Les serveurs Web enregistrent automatiquement les adresses IP des visiteurs. Cette adresse, en soit, ne permet pas d’identifier une personne. Par contre, dans certaines circonstances, comme avec la coopération d’un FSI par exemple, elle peut être utilisée pour identifier une personne qui visite ce site. Pour cette raison, le gouvernement du Canada juge que l’adresse IP est un renseignement personnel, surtout, lorsqu’il est accompagné d’autres données qui sont recueillies automatiquement lorsqu’un visiteur demande une page Web, comme la page consultée, la date et l’heure de la visite.
+
+À moins d’avis contraire, CANAFE ne recueille pas automatiquement d’information précise à votre sujet, tel que votre nom, numéro de téléphone ou adresse de courriel. CANAFE peut obtenir ce genre d’information uniquement si vous la fournissez, par exemple, dans un courriel ou en remplissant un formulaire en ligne. Le cas échéant, la façon dont sont traités vos renseignements personnels est précisée dans un énoncé de collecte de renseignements personnels.
+
+Lorsque les services sont fournis par des organisations de l’extérieur du gouvernement du Canada, comme les plateformes de médias sociaux ou les applications mobiles, les adresses IP peuvent être enregistrées par un serveur Web du tiers fournisseur de services.
+
+### Communiquer avec le gouvernement du Canada
+
+Si vous choisissez d’envoyer un courriel à CANAFE ou remplissez un formulaire de rétroaction en ligne, vos renseignements personnels sont utilisés par CANAFE pour répondre à votre demande. Les renseignements personnels que vous fournissez ne seront partagés avec une autre institution gouvernementale que si votre demande porte sur cette institution. CANAFE n’utilise pas ces renseignements personnels pour créer des profils individuels et ne peut pas les divulguer, sauf aux autres institutions du gouvernement fédéral qui sont concernées par cette demande. Toute divulgation de vos renseignements personnels doit se faire en vertu de la Loi sur la protection des renseignements personnels.
+
+Les courriels et autres méthodes électroniques utilisées pour communiquer avec le gouvernement du Canada ne sont pas sécuritaires, à moins qu’il ne soit précisé autrement dans la page Web. Il est donc recommandé **de ne pas** transmettre des renseignements personnels sensibles, comme votre numéro d’assurance sociale ou votre date de naissance, par l’entremise d’une voie électronique non sécurisée.
+
+Les renseignements personnels compris dans des courriels ou des formulaires de rétroaction sont recueillis en vertu de la Loi sur la protection des renseignements personnels. De tels renseignements peuvent être utilisés à des fins statistiques, d’évaluation et d’établissement de rapports, et sont versés dans le fichier de renseignements personnels [Communications publiques (POU 914)](https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements.html).
+
+## 2. Améliorer votre expérience dans les sites Web du gouvernement du Canada
+
+### Marqueurs numériques (y compris les témoins)
+
+Un marqueur numérique est une ressource créée par le navigateur du visiteur afin de retenir certains renseignements auxquels peut faire référence le serveur Web dans le cadre de la même visite ou de visites subséquentes. Les témoins et les spécifications de stockage Web HTML5 sont des exemples de marqueurs numériques. Voici quelques exemples de ce que font les marqueurs numériques :
+
+* Ils permettent à un site Web de reconnaître la dernière visite de l’utilisateur chaque fois qu’il visite le site.
+* Ils tiennent compte de l’information consultée dans le site afin de permettre aux administrateurs à s’assurer d’une recherche plus efficace pour les visiteurs.
+
+CANAFE se sert de marqueurs numériques de session à certains endroits dans son site Web. Pendant votre visite en ligne, votre navigateur échange des données avec le serveur Web de CANAFE. Les marqueurs numériques ne permettent pas à l’institution d’identifier les utilisateurs.
+
+Vous pouvez ajuster les paramètres de votre navigateur de sorte à rejeter les marqueurs numériques, y compris les témoins. Toutefois, ceci pourrait avoir une incidence sur votre capacité d’interagir avec le site Web de CANAFE.
+
+### Le Web analytique
+
+Le Web analytique consiste en la collecte, l’analyse, la mesure et la présentation de données sur l’achalandage d’un site Internet et sur les visites, dans le but de comprendre et d’optimiser l’utilisation du Web. Les renseignements recueillis par les marqueurs numériques peuvent être utilisés dans le cadre du Web analytique pour garder en mémoire vos interactions avec le site Web de l’institution.
+
+CANAFE se sert de Google Analytics pour améliorer son site Web. Lorsque votre ordinateur demande d’avoir accès à la page Web de CANAFE, notre institution recueille les renseignements suivants aux fins du Web analytique :
+
+* l’adresse IP d’origine;
+* la date et l’heure de la demande;
+* le type de navigateur utilisé;
+* la(les) page(s) visitée(s).
+
+CANAFE se sert de Google Analytics et les données recueillies sont transmises à Google, un fournisseur de services externe. Votre adresse IP est dépersonnalisée avant d’être stockée sur le serveur du fournisseur de services pour veiller à la protection de vos renseignements personnels. Les données recueillies sont dépersonnalisées en supprimant les trois derniers chiffres de votre adresse IP.
+
+Les données recueillies aux fins du Web analytique sont transmises aux États-Unis et peuvent être assujetties à la loi en vigueur dans ce pays, par exemple, la [Patriot Act des États-Unis (en anglais seulement)](https://www.fincen.gov/resources/statutes-regulations/usa-patriot-act).
+
+Les données utilisées aux fins du Web analytique sont recueillies conformément à la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](http://laws-lois.justice.gc.ca/fra/lois/P-24.501/). De telles données peuvent être utilisées pour établir des statistiques sur les communications et les technologies d’information, ainsi qu’à des fins d’évaluation, de recherche, de planification et d’établissement de rapports. Pour obtenir de plus amples renseignements sur la façon dont vos renseignements personnels sont protégés dans le cadre du Web analytique, veuillez consulter la [Norme sur la protection de la vie privée et le Web analytique](http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=26761).
+
+## 3. Veiller à la sécurité des sites Web du gouvernement du Canada
+
+CANAFE utilise des logiciels pour suivre l’achalandage du réseau et pour repérer les essais non autorisés de téléchargement ou de modification de renseignements ou encore les tentatives d’accès visant à causer des dommages. Le logiciel reçoit et enregistre l’adresse IP de l’ordinateur qui a communiqué avec notre site Web, la date et l’heure de la visite et les pages consultées. Nous ne tentons pas d’établir de lien entre ces adresses et l’identité des utilisateurs qui consultent notre site Web à moins d’avoir détecté une tentative de dommage à notre site.
+
+Ces données sont recueillies conformément à [l’article 161 de la Loi sur la gestion des finances publiques](https://laws-lois.justice.gc.ca/fra/lois/p-8.6/page-7.html). Ces renseignements peuvent être communiqués aux organismes chargés de l'application de la loi que si l’on soupçonne des activités criminelles possibles. De tels renseignements peuvent être utilisés pour établir des statistiques sur la sécurité du réseau, ainsi qu’à des fins de vérification, d’évaluation, de recherche, de planification et d’établissement de rapports, et figurent dans le fichier de renseignements personnels  [Incident de sécurité (POU 939)](https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements.html).
+
+### Chiffrement
+
+CANAFE utilise le chiffrement pour sécuriser des endroits sécurisés de son site Web. Pour chiffrer l'information, on utilise une formule mathématique et une clé de chiffrement pour embrouiller les données et empêcher les personnes non autorisées de les lire. Les données ainsi embrouillées sont ensuite décodées (ou reconverties) et ramenées à leur format d'origine au moyen de la même formule mathématique et d'une clé de déchiffrement, afin que les personnes autorisées puissent en saisir le sens. Tant que les données sont chiffrées, il est impossible de les lire. Afin de s'assurer que les pages de ce site sont sécurisées et confidentielles, un fureteur qui utilise le protocole de chiffrement Transport Layer Security (TLS) ou Secure Sockets Layer (SSL) sur 128 bits est nécessaire. TLS et SSL sont des protocoles qui permettent d'assurer une transmission sécurisée de l'information entre votre fureteur et CANAFE. TLS et SSL sont des normes largement utilisées pour sécuriser les communications sur le Web.
+
+### Infrastructure à clé publique
+
+CANAFE sécurise son logiciel de transmission de déclarations par lots de CANAFE à l'aide de l'infrastructure à clé publique (ICP). L'ICP est une combinaison de politiques et de technologies visant à établir un environnement de travail sécurisé qui permette aux internautes de faire des transactions électroniques en toute sécurité. L'ICP fonctionne au moyen d'un système de chiffrement à clé publique et d'un certificat numérique détenu par chaque partie qui transmet de l'information au moyen d'Internet. Ainsi, les renseignements confidentiels sont protégés contre toute falsification, et l'identité des participants est garantie.
+
+### Pour en apprendre davantage sur ces pratiques
+
+Si vous avez des questions, des commentaires, des préoccupations ou des plaintes concernant l’administration de la Loi sur la protection des renseignements personnels ou sur les politiques sur la protection de la vie privée relatives à la présence Web de CANAFE, vous pouvez communiquer avec notre coordonnateur de l’accès à l’information et de la protection des renseignements personnels par courriel [atip-aiprp@fintrac-canafe.gc.ca](mailto:atip-aiprp@fintrac-canafe.gc.ca) ou par écrit :
+
+CANAFE  
+Coordonnateur de l'accès à l'information et de la protection des renseignements personnels  
+24e étage, 234, avenue Laurier Ouest  
+Ottawa, ON K1P 1H7
+
+Si vous n’êtes pas satisfaits de la réponse de CANAFE à votre préoccupation concernant la protection de vos renseignements personnels, vous pouvez communiquer avec le [Commissariat à la protection de la vie privée du Canada](http://www.priv.gc.ca/index_f.asp) par téléphone, en composant le 1-800-282-1376.
+
+## 4. Offrir un contenu dans les deux langues officielles
+
+La [Loi sur les langues officielles](http://laws-lois.justice.gc.ca/fra/lois/O-3.01/), le [Règlement sur les langues officielles – communications avec le public et prestation des services](http://laws-lois.justice.gc.ca/fra/reglements/DORS-92-48/index.html) et les instruments de politiques du Conseil du Trésor prévoient les circonstances où CANAFE emploie le français et l'anglais dans la prestation des services. S'il n'y a pas d'obligation d'offrir le contenu dans les deux langues officielles, celui-ci pourrait être offert uniquement dans une des langues officielles. L'information offerte par des entités non assujetties à la Loi sur les langues officielles est diffusée que dans la langue dans laquelle fournie. Toute information dans une langue autre que l'anglais ou le français n'est offerte qu’à titre gracieux aux visiteurs de notre site Web.
+
+## 5. L'établissement d'hyperliens vers des sites Web autres que ceux du gouvernement du Canada
+
+Les hyperliens menant à des sites Web qui ne sont pas gérés par le gouvernement du Canada, y compris ceux qui mènent à nos comptes de médias sociaux, ne sont offerts que par commodité aux visiteurs de notre site Web. Nous n’assumons aucune responsabilité quant à la précision, l'actualité ou la fiabilité du contenu de ces sites. Le gouvernement du Canada n'offre aucune garantie à cet égard, n'assume aucune responsabilité concernant l'information obtenue au moyen de ces liens et n'approuve ni ces sites, ni leur contenu.
+
+Les visiteurs doivent également savoir que l’information offerte par les sites autres que ceux du gouvernement du Canada, accessibles à l'aide des liens de ce site Web, n'est pas assujettie à la [Loi sur la protection des renseignements personnels](http://laws-lois.justice.gc.ca/fra/lois/P-21/index.html) ni à la [Loi sur les langues officielles](http://laws-lois.justice.gc.ca/fra/lois/O-3.01/), et pourrait ne pas être accessible aux personnes handicapées. Il se peut que l'information offerte ne soit disponible que dans les langues employées dans les sites en question. En ce qui a trait aux renseignements personnels, on invite les visiteurs à consulter les politiques de ces sites Web non gouvernementaux en matière de protection des renseignements personnels avant de communiquer leurs renseignements personnels.
+
+## 6. Propriété et utilisation du contenu offert dans ce site
+
+Le contenu de ce site Web a été produit ou rassemblé par CANAFE afin d'offrir aux Canadiens l'accès aux renseignements concernant les programmes et services offerts par le gouvernement du Canada. Vous pouvez utiliser et reproduire le contenu des façons suivantes :
+
+### Reproduction non commerciale
+
+À moins d'avis contraire, vous pouvez reproduire le contenu en totalité ou en partie à des fins non commerciales, dans un format quelconque, sans frais ni autre permission, à condition :
+
+* de faire preuve de diligence raisonnable quant à la précision du contenu reproduit;
+* de préciser le titre complet du contenu reproduit, ainsi que l'auteur (s'il y a lieu);
+* de préciser qu'il s'agit d'une reproduction de la version disponible au [URL où le document original se trouve].
+
+### Reproduction commerciale
+
+À moins d’avis contraire, il est interdit de reproduire le contenu du présent site, en totalité ou en partie, à des fins de diffusion commerciale sans avoir obtenu au préalable la permission écrite de CANAFE.
+
+Une partie du contenu de ce site pourrait être assujettie au droit d’auteur d’une tierce partie. Lorsque de l’information est produite par une tierce partie ou que le gouvernement du Canada n’est pas le détenteur du droit d’auteur, le contenu est protégé par la [Loi sur le droit d’auteur](http://laws-lois.justice.gc.ca/fra/lois/C-42/index.html) et les ententes internationales. Les détails relatifs au droit d’auteur sont fournis sur les pages pertinentes.
+
+Pour obtenir la permission de reproduire les documents du gouvernement du Canada qui se trouvent dans le présent site à des fins commerciales, ou pour obtenir de plus amples renseignements concernant les titulaires d’un droit d’auteur ou les restrictions connexes, veuillez communiquer avec :
+
+CANAFE  
+Communications et publications  
+24e étage, 234, avenue Laurier Ouest  
+Ottawa, ON K1P 1H7
+
+[information@fintrac-canafe.gc.ca](mailto:information@fintrac-canafe.gc.ca)
+
+### Avis concernant l’image de marque
+
+La reproduction des symboles officiels du gouvernement du Canada, y compris le mot-symbole « Canada », les armoiries du Canada et le symbole du drapeau, à des fins commerciales ou non commerciales, est interdite sans [autorisation écrite](https://www.canada.ca/fr/secretariat-conseil-tresor/sujets/communications-gouvernementales/exigences-image-marque/protection-juridique-symboles-officiels-gouvernement-canada.html) au préalable.
+
+## 7. Notre engagement à l’égard de l’accessibilité
+
+Le gouvernement du Canada est déterminé à maintenir une norme d’accessibilité élevée conformément à la [Norme sur l'accessibilité des sites Web](http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=23601) et la [Norme sur l’optimisation des sites Web et des applications pour appareils mobiles](http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=27088). Veuillez communiquer avec nous si vous éprouvez des difficultés à utiliser nos pages Web, les applications ou les applications mobiles axées sur l’appareil, ou si vous désirez obtenir des formats de substitution comme le caractère ordinaire, le Braille ou un autre format approprié.
+
+## 8. Échanger avec nous sur les médias sociaux
+
+Cet avis a pour but d’expliquer comment CANAFE dialogue avec le public sur les plateformes de médias sociaux.
+
+### Contenu et fréquence
+
+Nos comptes de médias sociaux sont une autre méthode nous permettant de communiquer le contenu publié sur notre site Web et de dialoguer avec nos partenaires. En suivant nos comptes de médias sociaux (grâce aux fonctions « suivre », « aimer » ou « s’abonner »), vous pouvez vous attendre à obtenir de l’information sur les programmes et services que nous offrons.
+
+Nous sommes conscients que le Web fonctionne 24 heures sur 24, 7 jours sur 7 et vos commentaires sont toujours les bienvenus. Vous pouvez vous attendre à voir les nouveaux contenus affichés du lundi au vendredi de 8 h à 16 h HNE/HAE. Nous répondrons aux commentaires envoyés après les heures de travail ou la fin de semaine le plus tôt possible.
+
+Les serveurs des plateformes de médias sociaux étant gérés par un tiers, nos comptes de médias sociaux sont exposés à des interruptions de service qui peuvent échapper à notre contrôle. Ainsi, nous n’acceptons aucune responsabilité en cas de non disponibilité des plateformes.
+
+### Liens vers d’autres sites Web et des annonces
+
+On peut trouver dans nos comptes de médias sociaux des liens ou des annonces liés à des sites Web échappant à notre contrôle. Ces liens sont fournis uniquement pour accommoder les utilisateurs. Le gouvernement du Canada n’assume aucune responsabilité pour l’information obtenue au moyen de ces liens ou de ces annonces et il n’approuve ni les sites, ni leur contenu.
+
+### Suivre, constituer une liste de favoris et s’abonner
+
+Notre décision de « suivre », « constituer une liste de favoris » ou « s’abonner » à un autre compte de médias sociaux ne signifie pas que nous approuvons ce compte, cette voie de communication, cette page ou ce site. Le même principe s’applique au partage (retransmission, republication ou lien) d’un contenu provenant d’un autre utilisateur.
+
+### Commentaires et échanges
+
+Nous lirons les commentaires et nous participerons aux discussions en temps opportun. Assurez-vous que vos commentaires sont pertinents et respectueux. Nous nous réservons le droit de supprimer les commentaires qui contreviennent à cet avis et les utilisateurs concernés peuvent être bloqués et dénoncés afin de les empêcher d’envoyer d’autres commentaires inappropriés.
+
+Nous nous réservons le droit de modifier ou de supprimer les commentaires qui :
+
+* contiennent des renseignements personnels;
+* ne respectent pas les principes énoncés dans la Charte canadienne des droits et libertés;
+* communiquent des messages racistes, haineux, sexistes, homophobes, diffamatoires, méprisants ou constituant une menace de mort;
+* portent des accusations graves, non prouvées ou inexactes à l’endroit de personnes ou d’organisations;
+* sont agressifs, grossiers, violents, obscènes ou pornographiques;
+* sont impolis, grossiers ou désobligeants pour une personne ou une organisation ;
+* ne sont pas envoyés par l’auteur ou sont envoyés à des fins publicitaires;
+* encouragent des activités illégales;
+* contiennent des annonces faisant la promotion d’organisations syndicales ou politiques;
+* sont rédigés dans une autre langue que le français ou l’anglais;
+* sont inintelligibles ou non pertinents;
+* sont répétitifs ou constituent des pourriels;
+* ne contribuent pas, selon nous, au déroulement normal de la discussion.
+
+Bref, nous vous demandons d’être respectueux et de vous assurer que vos commentaires sont pertinents en fonction de l’endroit où ils sont affichés. Les opinions exprimées dans les commentaires des utilisateurs de nos comptes de médias sociaux ne représentent pas nécessairement celles de CANAFE.
+
+### Accessibilité des plateformes de médias sociaux
+
+Les plateformes de médias sociaux étant gérées par des tiers fournisseurs de services, elles ne sont pas tenues d’observer les normes du gouvernement du Canada en ce qui concerne l’accessibilité du Web.
+
+Si vous éprouvez des difficultés à accéder au contenu de nos comptes de médias sociaux, veuillez communiquer avec nous et nous essaierons de résoudre le problème ou de vous fournir l’information dans un autre format.
+
+### Droit d’auteur
+
+L’information que nous publions est assujettie à la [Loi sur le droit d'auteur](http://laws-lois.justice.gc.ca/fra/lois/C-42/index.html).
+
+### Protection des renseignements personnels
+
+Nos comptes de médias sociaux ne sont pas des sites Web du gouvernement du Canada. Ils constituent seulement notre présence sur les plateformes des tiers fournisseurs de services.
+
+Pour obtenir de plus amples renseignements, consultez notre avis concernant les plateformes de médias sociaux gérées par des tiers.
+
+### Langues officielles
+
+Bon nombre de plateformes de médias sociaux offrent plusieurs choix de langues et vous donnent des instructions pour vous aider à établir vos préférences. Le gouvernement du Canada respecte la [Loi sur les langues officielles](http://laws-lois.justice.gc.ca/fra/lois/O-3.01/index.html) et il est déterminé à prendre les moyens nécessaires pour que son information soit disponible en français et en anglais et pour que la qualité soit égale dans les deux versions.
+
+Nous répondons aux commentaires dans la langue officielle dans laquelle ils sont affichés. Il se peut que nous répondions dans les deux langues officielles lorsque nous estimons que la réponse présente de l’intérêt pour le grand public.
+
+Nous pouvons partager des liens qui dirigent les utilisateurs vers des sites appartenant à des organisations ou autres entités non assujetties à la [Loi sur les langues officielles](http://laws-lois.justice.gc.ca/fra/lois/O-3.01/index.html) et dont le contenu est offert uniquement dans la langue dans laquelle il a été rédigé. Quand le contenu n’est disponible que dans une langue, nous nous efforçons de fournir un contenu semblable dans l’autre langue officielle.
+
+## 9. Questions et demandes des médias
+
+Nous demandons aux journalistes d’envoyer leurs questions à [media.medias@fintrac-canafe.gc.ca](mailto:media.medias@fintrac-canafe.gc.ca) ou de joindre les relations avec les médias au 613-947-6875.
+
+Date de modification :
+:   2020-10-13

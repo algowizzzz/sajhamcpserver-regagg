@@ -1,0 +1,1 @@
+Summary: # Related party transactions of nominal value

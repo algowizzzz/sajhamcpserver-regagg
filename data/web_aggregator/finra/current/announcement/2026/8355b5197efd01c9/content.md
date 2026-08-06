@@ -1,0 +1,310 @@
+# Financial Professional Gateway (FinPro Gateway)
+
+Overview
+
+Announcements
+
+FAQ
+
+User Support and Training
+
+Firm Resources
+
+### Manage Individuals Securities Registration Information
+
+FINRA’s Financial Professional Gateway (FinPro Gateway™) provides financial professionals access to resources and tools to manage their securities registration information. Specifically, FinPro Gateway allows financial professionals to:
+
+* view and/or certify registration information filed in the Central Registration Depository,
+* complete and electronically sign Form U4,
+* to receive Form U4, Form U5 and predispute arbitration information from their firms,
+* view and/or complete required regulatory element and firm assigned CE via FLEX platform and view IAR CE status,
+* view Form U4 and Form U5 filing history,
+* update residential address (if no longer associated with a firm),
+* schedule a qualifications exam,
+* enroll in FINRA’s Maintaining Qualifications Program (MQP) and opt in to the Financial Industry Networking Directory™ (FIND®), and
+* enroll in the North American Securities Administrators Association’s Exam Validity Extension Program (AG EVEP, IAR EVEP).
+
+### View and/or Certify Registration Information Filed in the Central Registration Depository
+
+Financial professionals can view their individual [Central Registration Depository (CRD)](/registration-exams-ce/classic-crd#overview "Central Registration Depository (CRD)") records—registration, qualifications, continuing education employment and disclosure histories–in FinPro Gateway. If they are associated with a firm that has the **FinPro Gateway Attestation feature** enabled, they can certify whether the information is correct or needs to be updated (if required by the firm). For more information about the FinPro Gateway Attestation feature, refer to the [Firm Settings Guide (PDF)](/sites/default/files/2025-06/firm-settings-guide.pdf).
+
+### Complete and Electronically Sign Form U4
+
+Financial professionals who are associated with firms that have enabled the Uniform Application for Securities Industry Registration or Transfer form ([Form U4](/registration-exams-ce/broker-dealers/registration-forms/form-u4)) **Allow Rep Edits** and/or **E-Signature** functions can enter information and electronically sign a completed Form U4. For more information, refer to the [Completing Form U4 in FinPro Gateway guide (PDF)](/sites/default/files/2025-06/completing-form-u4-finpro.pdf "Completing Form U4 in FinPro guide (PDF)") and the [Firm Settings Guide (PDF)](/sites/default/files/2025-06/firm-settings-guide.pdf "Firm Settings Guide (PDF)").
+
+### View and/or Complete Required Regulatory Element and Firm Assigned CE via FLEX Platform and View IAR CE Status
+
+Registered representatives complete their prescribed Regulatory Element continuing education (CE) in FinPro Gateway. Refer to the [Completing Regulatory Element CE Learning Plans in FinPro Gateway guide (PDF)](/sites/default/files/2025-06/completing-regulatory-element-ce-learning-plans-finpro.pdf "Completing Regulatory Element CE Learning Plans in FinPro (PDF)") for details. For information about the securities industry’s CE program, refer to the [Continuing Education](/registration-exams-ce/continuing-education/ "Continuing Education (CE)") page.
+
+Financial professionals can also complete their continuing education courses that have been assigned by their firm through the Financial Learning Experience™ (FLEX™) platform. Refer to the [FLEX Learner User Guide (PDF)](https://www.finra.org/sites/default/files/2025-01/FLEX-Learner-User-Guide.pdf "FLEX Learner User Guide (PDF)") for details.
+
+Investment adviser representatives (IAR) may apply completed Regulatory Element CE sessions toward the Products and Practice component of the IAR CE requirement by paying the $18 fee ($3 per credit hour) in FinPro Gateway. Broker-dealer firms may refer to the [Firm Settings Guide (PDF)](/sites/default/files/2025-06/firm-settings-guide.pdf "Firm Settings Guide (PDF)") and the [IAR CE page](https://iard.com/iar-ce "IAR CE") on IARD.com for information on opting in to pay the fee for their representatives.
+
+IARs can view their current IAR CE requirements and confirm completed courses have been submitted by their provider(s).
+
+### View Form U4 and Form U5 Filing History
+
+Financial professionals can review and download the latest Form U4 and Uniform Termination Notice for Securities Industry Registration ([Form U5](/registration-exams-ce/broker-dealers/registration-forms/form-u5 "Form U5")) filings on their record. If their firm has opted into delivery of Form U4 amendments through FinPro Gateway, FinPro Gateway will send an automated email notification to the financial professional’s email address(es) on file when the Form U4 amendment is filed. Additionally, FinPro Gateway will send an automated email notification to the personal email address on file when an initial or amended full Form U5 is filed. Refer to the [Viewing Form Filing History in FinPro Gateway guide (PDF)](https://www.finra.org/sites/default/files/2025-10/Maintaining-Email-Addressess-in-FinPro-Gateway-Guide.pdf "Viewing Form Filing History in FinPro Gateway (PDF)") for more information.
+
+### Update Residential Address (If No Longer Associated with a Firm)
+
+Pursuant to FINRA By-Laws, individuals continue to be subject to the jurisdiction of FINRA for at least two years after their last FINRA registration is terminated. Financial professionals who are no longer registered with a firm, and whose registrations were terminated within the last two years, will have a task in their FinPro Gateway task list, which can be used to update their residential address. For more information, refer to the [CRD Residential Change of Address – Former FINRA Registered Representatives](/filing-reporting/web-crd/crd-residential-change-address) page.
+
+### Schedule a Qualifications Exam
+
+Financial professionals who have an open exam window for any exam initiated by a firm through a Form U4 filing can schedule their exam appointment via FinPro Gateway.
+
+### Enroll in the Maintaining Qualifications Program and Opt in to FIND
+
+Eligible financial professionals can enroll in the Maintaining Qualifications Program (MQP) and complete prescribed learning plans. For guidance on how to enroll in the MQP, refer to the [quick reference guide (PDF)](https://www.finra.org/sites/default/files/2023-10/Enrolling_in_MQP_and_or_EVEP_User_Guide.pdf  "Enrolling in MQP and or EVEP User Guide (PDF)"). For information about the program, refer to the [MQP page](/registration-exams-ce/continuing-education/CE-transformation/mqp).
+
+Financial professionals who have enrolled in the MQP program, will have an invitation to opt in to FIND on their FinPro Gateway Dashboard. For more information, refer to the [FIND page](/find).
+
+### Enroll in the North American Securities Administrators Association’s Exam Validity Extension Program
+
+Eligible financial professionals can enroll in the North American Securities Administrators Association's (NASAA's) Exam Validity Extension Program for broker-dealer agents (AG EVEP) and investment adviser representatives (IAR EVEP). For guidance on how to enroll, refer to the [Enrolling in the MQP and/or EVEP (PDF)](https://www.finra.org/sites/default/files/2023-10/Enrolling_in_MQP_and_or_EVEP_User_Guide.pdf "Enrolling in the MQP and/or EVEP (PDF)") reference guide and the [Enrolling in the IAR EVEP reference guide (PDF)](https://www.finra.org/sites/default/files/2023-10/IAR_EVEP_User_Guide.pdf "Enrolling in the IAR EVEP reference guide (PDF)"). For information about the program, refer to [NASAA’s EVEP page](https://www.nasaa.org/exams/exam-validity-extension-program/).
+
+May 2026: Investment Adviser Representative CE Firm Due Dates
+
+Effective May 21, firms can opt in to set an internal due date for NASAA’s Investment Adviser Representative CE (IAR CE) coursework completion that is earlier than the program’s annual Dec. 31 deadline. The firm’s internal due date will display on the individual’s Financial Professional Gateway (FinPro Gateway) dashboard and on their Continuing Education details page. Reminder notification emails will continue to be sent on preset dates. Additionally, FINRA Gateway users can now choose to send copies of these reminder emails to a firm contact.
+
+April 2026: FinPro Gateway Functionality Enhancements
+
+Effective April 1, firms can combine the Form U4 Rep Edits and E-Sign tasks and send a new notification email for these tasks. Individuals will be able to complete pending filing requests and sign their forms at the same time.
+
+FinPro Gateway users are now prompted to complete annual email verification on the first login of each calendar year. This will ensure that FinPro Gateway users validate the email addresses linked to their account at least once a year, which helps member firms meet the conditions laid out in [Regulatory Notice 25-09](/rules-guidance/notices/25-09) so they can rely on FinPro Gateway to provide required information to their associated persons.
+
+December 2025: Disclosure Review Letter and Financial Learning Experience™ (FLEX™) Notifications Available
+
+Effective Dec. 11, individuals with outstanding disclosure review letters may be notified and reminded in FinPro Gateway to contact their associated firms to have their disclosure letters resolved. Additionally, individuals whose firms have opted in to leverage FINRA’s FLEX will receive email notifications when learning plans have been assigned or due dates are approaching and see an associated task in FinPro Gateway.
+
+November 2025: FinPro Gateway Functionality Enhancements Available that Enable Member Firms to Provide Associated Persons with Uniform Registration Form and Predispute Arbitration Information Through FinPro Gateway
+
+As announced in [Regulatory Notice 25-09](https://www.finra.org/rules-guidance/notices/25-09 "Regulatory Notice 25-09"), effective Nov. 3, member firms have the option of satisfying their regulatory obligations to provide Form U4, Form U5, and predispute arbitration information to associated persons via the Financial Professional Gateway (FinPro Gateway™) in a more cost efficient and timely manner.
+
+These enhancements also benefit associated persons by affording them a secure, central location to access this information in a timely manner.
+
+Firms should refer to [Recommendations to Meet the Conditions Described in Regulatory Notice 25-09 (PDF)](https://www.finra.org/sites/default/files/2025-10/Recommendations-to-Meet-the-Conditions-Described-in-Regulatory-Notice-25-09.pdf "Recommendations to Meet the Conditions Described in Regulatory Notice 25-09 (PDF)"), which are based on discussions with FINRA’s Licensing and Registration Council (LRC) and a working group of registration compliance leaders. The recommendations provide a potential path to satisfy the regulatory obligations identified in the Notice as soon as Nov. 3 and allow firms to leverage FINRA systems and resources without the need for additional technology investments.
+
+Firms should also review the [Firm Settings Guide (PDF)](https://www.finra.org/registration-exams-ce/finpro/for-firms/firm-settings-guide "Firm Settings Guide (PDF)") for more information about how to opt in.
+
+October 2025: FIND Opt in for MQP Participants Available
+
+Effective Sept. 30, experienced individuals can opt in to the [Financial Industry Networking Directory™ (FIND®)](/registration-exams-ce/financial-industry-networking-directory "Financial Industry Networking Directory (FIND)"). Eligible individuals will see an invitation to **Opt in to the Financial Industry Networking Directory (FIND)** on their FinPro Gateway **Dashboard**. To opt in, they will click the **START** button and follow the prompts from there.
+
+FIND is a complimentary FINRA subscription service that connects eligible individuals with firms that are recruiting for employment and internship opportunities. It has been available to individuals enrolled to take the Security Industry Essentials (SIE) Exam or have a valid SIE pass status since its launch in 2020. Effective Sept. 30, FINRA expands the FIND service to [Maintaining Qualifications Program (MQP)](/mqp) participants who are not currently registered with a firm. By opting in to FIND, these experienced individuals grant subscribing firms access to information about their MQP enrolled qualifications, educational history, geographic preferences and positions of interest. Participants may opt out at any time; however, their information will be removed from the directory if they become registered again or they are no longer enrolled in the MQP. For more information, visit the [FIND pages](/registration-exams-ce/financial-industry-networking-directory).
+
+June 2025: Modern FinPro Gateway User Interface Available
+
+On June 26, 2025, FinPro Gateway changed from the classic to a new modern user interface. The modern user interface makes completing assignments quicker and easier for FinPro Gateway users. It features a **My Task** list that displays tasks on the dashboard. Support and training materials, including a suite of quick reference guides in PDF and video formats, are available in the [User Support and Training](#user-support-and-training "User Support and Training") and [Firm Resources](#firm-resources "Firm Resources") sections.
+
+August 2024: Firm CE Due Date Available
+
+Users whose firms have set an earlier completion deadline for Regulatory Element CE in the [Firm Settings](/sites/default/files/2025-06/firm-settings-guide.pdf "Firm Settings tool in FINRA Gateway (PDF)") screen will see the firm CE due date displayed in the Summary and Details sections of their FinPro Gateway account. The firm CE due date is displayed in addition to the SRO completion deadline of Dec. 31. Firms can use this tool to assist in fulfilling compliance requirements in a timely manner.
+
+May 2024: Social Login and Registration With Google Available
+
+Users can register and login to FinPro Gateway using their existing Google account credentials. Social login makes the onboarding process easy and simplifies the authentication process by using user’s existing Google account information and credentials. This eliminates the need for maintaining an additional password, reduces password fatigue and minimizes friction while accessing FINRA's systems. For more detailed information, refer to the [Creating a FinPro Gateway Account Guide (PDF)](/sites/default/files/2019-09/FinPro_Guide.pdf "Creating a FinPro Account Guide (PDF)").
+
+October 2023: Enrollment for the Exam Validity Extension Program for Investment Adviser Representatives Available Oct. 30
+
+Effective Oct. 30, eligible individuals can enroll in NASAA’s Exam Validity Extension Program (EVEP) for Investment Adviser Representatives (IAR) via FinPro Gateway. The program allows eligible individuals the opportunity to maintain their [Series 65 — Uniform Investment Adviser Law Exam](/registration-exams-ce/qualification-exams/series65 "Series 65 — Uniform Investment Adviser Law Exam") for up to five years in states that adopt the model rules by completing CE annually. States will select to participate in the EVEP by adopting the NASAA model rule. If an individual meets all eligibility requirements to join the EVEP, they can enroll even though their home state has not yet adopted the rule. If a jurisdiction subsequently adopts EVEP while enrolled in the EVEP, the jurisdiction will recognize the validity of the exam extension. However, if the jurisdiction does not participate in the EVEP at the time the individual reenters the industry, the exam extension will not be recognized in that jurisdiction. Individuals should consider the risk that a state(s) with which they wish to register in the future may not honor the EVEP qualification, in which case the individual may be required to pass a qualification examination to obtain registration despite participation in the EVEP. Detailed enrollment instructions are available in FinPro Gateway . Visit [NASAA’s EVEP page](https://www.nasaa.org/exams/exam-validity-extension-program/ "NASAA’s EVEP Page") for more information about the model rules, participating jurisdictions and FAQs.
+
+August 2023: Enrollment for the Exam Validity Extension Program for Broker-Dealer Agents Available Aug. 28
+
+Effective Aug. 28, eligible individuals can enroll in NASAA’s EVEP for Broker-Dealer Agents (AG) via FinPro Gateway. The program allows eligible individuals to maintain their [Series 63 — Uniform Securities Agent State Law Exam](/registration-exams-ce/qualification-exams/series63 "Series 63 — Uniform Securities Agent State Law Exam") for up to five years in states that adopt the model rules by completing CE annually. States will select to participate in the EVEP program by adopting the NASAA model rule. Individuals should consider the risk that a state(s) with which they wish to register in the future may not honor the EVEP qualification, in which case the individual may be required to pass a qualification examination to obtain registration despite participation in the EVEP. Detailed enrollment instructions are available in FinPro Gateway. Visit [NASAA’s EVEP page](https://www.nasaa.org/exams/exam-validity-extension-program/ "NASAA’s EVEP Page") for more information about the model rules, participating jurisdictions and FAQs.
+
+### Creating a FinPro Gateway Account
+
+1. How do I register for the Financial Professional Gateway (FinPro Gateway™)?
+
+Refer to the [Creating a FinPro Gateway Account guide (PDF)](/sites/default/files/2019-09/FinPro_Guide.pdf "Creating a FinPro Gateway Account guide (PDF)") for guidance.
+
+2. Why do I need to provide my Social Security number (SSN) and date of birth during login?
+
+You are required to provide your US SSN and date of birth to help us uniquely identify you when registering for FinPro Gateway.
+
+3. How is FINRA safeguarding my information?
+
+FINRA is taking every measure possible to safeguard the information that you provide. It will be used for validation purposes only by matching it against CRD. Your information will be transmitted to FINRA using an encrypted connection which will ensure that your information is safe and secure.
+
+4. How do I verify my identity if I do not have a Social Security number (SSN)?
+
+Individuals without a US SSN will be prompted to enter their individual CRD number instead.
+
+5. How is FINRA using my email address(es)?
+
+FINRA sends any email necessary to create and maintain your FinPro Gateway account to your email address(es). FinPro Gateway may also send automated email notifications related to your industry record. We recommend providing a personal email that you will retain access to if you switch companies or leave the industry.
+
+6. What email address will send me FinPro Gateway information?
+
+When a new account is created, you will receive an email from [[email protected]](/cdn-cgi/l/email-protection). Please update your email spam filters to ensure that you receive all necessary emails.
+
+7. Why do I need to select the "I am not a robot" option on the screen?
+
+The reCAPTCHA software confirms that an actual person, rather than a robot, is attempting to register for the system. Users must identify a common object among several pictures. If the object in the pictures is not easily identified, select the refresh button until a familiar object is presented. There is also an [audio option](https://support.google.com/recaptcha/#6081880) available.
+
+### Updating Your Information
+
+1. Where does the information displayed in FinPro Gateway come from?
+
+The information found in FinPro Gateway comes from the [Central Registration Depository (CRD)](/industry/crd "Central Registration Depository (CRD)").
+
+2. How do I change or update my email address associated with my FinPro Gateway account?
+
+1. Log in to FinPro Gateway at [**https://finpro.finra.org**](https://finpro.finra.org).
+2. If you do not see a task to confirm your email address(es), click on your initials in the upper right corner of the page, then select **My Account** to access your contact information.
+3. In the **Personal Profile** section, click the pencil icon next to the email address you wish to edit and then **confirm**.
+
+Refer to the [Maintaining Email Addresses in FinPro Gateway Guide (PDF)](/sites/default/files/2025-10/Maintaining-Email-Addressess-in-FinPro-Gateway-Guide.pdf "Maintaining Email Addresses in FinPro Gateway Guide (PDF)") for more information.
+
+3. How do I change or update the information in my personal FinPro Gateway record?
+
+Please contact your firm’s compliance department and work with your firm to submit the information on the appropriate form filing.
+
+Financial professionals who are no longer registered with a firm, and whose registrations were termed within the last two years, will have a task in their FinPro Gateway task list, which can be used to update their residential address.
+
+### Identity Verification Process
+
+1. What is the identity verification process?
+
+The online identity verification process ensures that an individual attempting to register for a user ID and password is, in fact, who they claim to be. This process protects individuals against unauthorized access to their information.
+
+2. What can I expect during the identity verification process?
+
+The system will offer some or all of the following verification options, depending upon the information available to TransUnion for a particular individual:
+
+* key in a one-time passcode delivered to a personal cell phone via call or text, or
+* answer several multiple-choice questions based on your personal information
+
+![](/sites/default/files/FinPro_Hotline.png)
+
+The system will prompt you to contact the FINRA Support Center at (240) 386-4040 if neither option is available.
+
+3. Why didn’t the system offer the one-time passcode options?
+
+A passcode can only be sent to a phone number that TransUnion identifies as belonging to the registering individual. There are two reasons a passcode may not be offered:
+
+1. a personal phone number was not provided when completing the FinPro Gateway account profile, or
+2. TransUnion cannot confirm that the phone number provided belongs to the registering individual.
+
+![](/sites/default/files/2024-05/FAQs-About-FinPro-Verify-Your-Identity-2024.png)4. Why were security questions not offered to me as an option to verify my identity?
+
+TransUnion can only offer security questions if there is sufficient personal information available to generate them.
+
+5. What kind of questions might I be asked?
+
+You may be asked questions about yourself, people you know, places you have lived or worked, etc. The requested information (addresses, individual names, etc.) may not be related to the specific account(s) held at your financial organization.
+
+One or more questions may refer to items that do not match your personal history, or the answers may not align with your personal history. These questions are intentionally included to prevent unauthorized users from accessing your FinPro Gateway information; choose **None of the Above** as your response when appropriate.
+
+6. What does FINRA do with the answers to the questions I am asked?
+
+The specific questions and answers are encrypted for your protection and not stored in any of FINRA's systems. This ensures that your privacy is protected.
+
+7. What happens if I fail the identity verification?
+
+If you fail the identity verification process, please contact the FINRA Support Center at (240) 386-4040.
+
+8. The questions that I answered were inaccurate or incorrect. What are my options?
+
+If you believe that the questions provided are inaccurate, please contact TransUnion customer support at (800) 813-5604.
+
+### Technical Support and Troubleshooting
+
+1. What should I do if I get a "System Error" message?
+
+A **System Error** message indicates that something unexpected has happened while using the program. Please verify that you have internet access and then close your browser. Restart your browser and log back in to the program. If the error persists, please contact the FINRA Support Center at (240) 386-4040.
+
+2. What should I do if I get a "System Is Currently Unavailable" message?
+
+A **System Is Currently Unavailable** message indicates scheduled downtime for system maintenance. You should try again later. Please restart your browser and then log back in to your session. Check the [System Status](/filing-reporting/systems-status) page for updates. If the error persists, please contact the FINRA Support Center at (240) 386-4040.
+
+3. What are the hours of operation for call support at FINRA?
+
+FINRA Support Center is available at (240) 386-4040 during core business hours, Monday through Friday from 8 a.m. to 8 p.m. Eastern Time.
+
+This page provides an overview of support resources available to the Financial Professional Gateway (FinPro Gateway™) users (financial professionals). For information available to firm compliance professionals, refer to the [Firm Resources](#firm-resources) page. For answers to frequently asked questions about FinPro Gateway, see the [FAQ](#faq) page. For information about FinPro Gateway functionality enhancements and changes, refer to the [Announcements](#announcements) page.
+
+### Quick Reference Guides
+
+Refer to the quick reference guides for instructions on how to use FinPro.
+
+[Creating a FinPro Gateway Account (PDF)](https://www.finra.org/sites/default/files/2019-09/FinPro_Guide.pdf "Creating a FinPro Gateway Account (PDF)")
+
+[Maintaining Email Addresses in FinPro Gateway Guide (PDF)](https://www.finra.org/sites/default/files/2025-10/Maintaining-Email-Addressess-in-FinPro-Gateway-Guide.pdf  "Maintaining Email Addresses in FinPro Gateway Guide (PDF)")
+
+[Completing Regulatory Element CE Learning Plans in FinPro Gateway (PDF)](/sites/default/files/2025-06/completing-regulatory-element-ce-learning-plans-finpro.pdf "Completing Regulatory Element CE Learning Plans in FinPro Gateway (PDF)")
+
+[FLEX Learner User Guide (PDF)](https://www.finra.org/sites/default/files/2025-01/FLEX-Learner-User-Guide.pdf "FLEX Learner User Guide (PDF)")
+
+[Completing Form U4 in FinPro Gateway (PDF)](/sites/default/files/2025-06/completing-form-u4-finpro.pdf "Completing Form U4 in FinPro Gateway (PDF)")
+
+[Tracking IAR CE in FinPro Gateway (PDF)](https://www.finra.org/sites/default/files/2025-08/Tracking_IAR_CE_in_FinPro.pdf "Tracking IAR CE in FinPro Gateway (PDF)")
+
+[Viewing Form Filing Event History in FinPro Gateway Guide (PDF)](https://www.finra.org/sites/default/files/2025-10/Viewing-Form-Filing-Event-History-in-FinPro-Gateway-Guide.pdf  "Viewing Form Filing Event History in FinPro Gateway Guide (PDF)")
+
+[Enrolling in the MQP and/or EVEP (PDF)](https://www.finra.org/sites/default/files/2023-10/Enrolling_in_MQP_and_or_EVEP_User_Guide.pdf  "Enrolling in the MQP and/or EVEP (PDF)")
+
+[Enrolling in the IAR EVEP](https://www.finra.org/sites/default/files/2023-10/IAR_EVEP_User_Guide.pdf  "Enrolling in the IAR EVEP (PDF)") (PDF)
+
+### Video Guide: Introduction to FinPro Gateway
+
+Watch this video to take a tour of the FinPro Gateway.
+
+### Additional Resources
+
+[**FINRA Gateway Release Notes**](/filing-reporting/finra-gateway/release-notes "FINRA Gateway Release Notes")
+
+Learn about FinPro Gateway technology changes and enhancements. The page also covers changes and enhancements made to other FINRA registration systems such as FINRA Gateway.
+
+[**FINRA Systems Status**](/filing-reporting/systems-status "FINRA Systems Status")
+
+Learn about scheduled system maintenance and unexpected outages. The page covers FinPro Gateway and other FINRA registration systems such as FINRA Gateway.
+
+### Legal Information
+
+[EU Notices for Voluntary/Non-Regulatory FINRA Online Services](/registration-exams-ce/financial-industry-networking-directory/eunotices "EU Notices for Voluntary/Non-Regulatory FINRA Online Services")
+
+[FINRA CE Licensed Product(s) Terms of Use](/registration-exams-ce/finpro/ce-terms-of-use "FINRA CE Licensed Product(s) Terms of Use")
+
+This page provides an overview of the Financial Professional Gateway (FinPro Gateway™) tools and resources available to firms. For information available to FinPro Gateway users (industry professionals), see the [User Support and Training](#user-support-and-training "User Support and Training") section. For answers to frequently asked questions, see the [FAQ](#faq) page. For information about FinPro Gateway functionality enhancements and changes, refer to the [Announcements](#announcements "Announcements") page.
+
+Satisfying Regulatory Obligations: Using FinPro Gateway to Provide Required Information to Associated Persons
+
+As detailed in Regulatory Notice 25-09, firms have the option to rely on FinPro Gateway to provide Form U4, Form U5, and predispute arbitration information to associated persons. It also described conditions that firms and associated persons must meet. Firms should reference the following resources for more information:
+
+* [Regulatory Notice 25-09](/rules-guidance/notices/25-09 "Regulatory Notice 25-09")
+* [Recommendations to Meet Conditions Described in Regulatory Notice 25-09 (PDF)](https://www.finra.org/sites/default/files/2025-10/Recommendations-to-Meet-the-Conditions-Described-in-Regulatory-Notice-25-09.pdf "Recommendations to Meet the Conditions Described in Regulatory Notice 25-09 (PDF)")
+
+**Frequently Asked Questions**
+
+**Q:** **Beginning on November 3, 2025, our firm intends to use FinPro Gateway to provide certain Form U4, Form U5 and predispute arbitration information to associated persons, consistent with Regulatory Notice 25-09 (RN 25-09).  RN 25-09 requires, among other things, that associated persons must acknowledge to the member that they may receive such information via FinPro Gateway. When should members obtain such acknowledgement?**
+
+**A:** RN 25-09 does not specify when associated persons must provide their acknowledgment to receive Form U4, Form U5 and predispute arbitration information via FinPro Gateway.  However, FINRA expects a member to obtain such acknowledgement prior to, or within a reasonable period following, the member’s election to provide the information via FinPro Gateway.  If a member does not obtain the associated person’s acknowledgement within this timeframe, the member is required to deliver the information by other means.
+
+Firm Settings: Managing Organization-Wide FinPro Gateway Settings for Associated Persons
+
+Firms can manage settings that control capabilities surfaced to associated persons through FinPro Gateway, using the Firm Settings screen in FINRA Gateway. Entitled users can access Firm Settings through the Admin tab on the vertical navigation bar located on the left side in FINRA Gateway. For detailed guidance, refer to the [Firm Settings user guide (PDF)](/registration-exams-ce/finpro/for-firms/firm-settings-guide "Firm Settings user guide (PDF)").
+
+Allow Rep Edits: Enabling Associated Persons to Enter Information into Form U4
+
+Firms can enable associated persons to enter information into the Uniform Application for Securities Industry Registration or Transfer (Form U4) in FinPro Gateway by enabling the Allow Rep Edits feature in the Form U4 in FINRA Gateway. Firms can provide access to select sections or all sections of the Form U4. Firms can access filings and track the associated person’s progress. Only the firm can submit a completed Form U4 to FINRA. Note that the **Allow Rep Edits** feature is separate from the E-Signature function, which enables firms to allow associated persons to digitally sign Form U4. Firms may also allow the associated person to sign the form at the same time, immediately after completing their edits. Firms can control the E-Signature function through the Firm Settings application in FINRA Gateway. For detailed information on the Allow Rep Edits feature, refer to the [Filing Form U4 in FINRA Gateway (PDF)](https://www.finra.org/sites/default/files/2025-06/completing-form-u4-finpro.pdf) quick reference guides.
+
+FINRA Gateway Reports: Monitoring and Analyzing FinPro Activities
+
+Firms can use several templates available in the FINRA Gateway Reports application to monitor and analyze FinPro Gateway activities pertaining to their organizations’ associated persons. Entitled users can access the report templates through the Reports tab on the vertical navigation bar located on the left side in FINRA Gateway. For more information about the FINRA Gateway Reports application, refer to the [FINRA Gateway Reports page](/filing-reporting/finra-gateway/dynamic-reporting "FINRA Gateway Reports") and the [user guide (PDF)](/sites/default/files/2019-10/Dynamic_Reporting_User_Guide.pdf).
+
+Firms can utilize FINRA Gateway Reports templates to:
+
+* **Monitor FinPro Gateway Account Activity**  
+  To monitor and analyze associated persons’ FinPro Gateway account activity, firms can use the FinPro Gateway Access Tracking report template. The template only includes associated persons who have a FinPro Gateway account. Default data columns include the date the FinPro Gateway account was created, the date the individual last accessed FinPro Gateway, their personal and business email addresses, the date the individual last confirmed their email addresses, the date the individual acknowledged electronic delivery via FinPro Gateway, the latest attestation status date and attestation history data. For detailed guidance on how to use the FinPro Gateway Access Tracking template to monitor FinPro Gateway Attestations, refer to the [Tracking FinPro Gateway Attestations reference guide](/filing-reporting/finra-gateway/dynamic-reporting/tracking-finpro-attestations "Tracking FinPro Attestations reference guide").
+* **Monitor Statuses of Digitally Signed Forms U4 of Associated Persons**  
+  To monitor the status of electronically signed Form U4 filings, firms can use the E-Signature Tracking report template. The template includes an audit trail of e-signature workflows and helps monitor procedures for capturing electronic signatures from associated persons.
+* **Monitor FinPro Gateway Notifications Sent to Associated Persons**  
+  To monitor automated FinPro Gateway notifications sent to registered and previously registered individuals, including optional Regulatory Element CE notifications and notifications supporting the relief described in Regulatory Notice 25-09, firms can use the Notifications Tracking report template. More information about FINRA system notifications is available on the [Notifications From FINRA Systems page](/filing-reporting/finra-gateway/notifications-information "Notifications From FINRA Systems").
+Requesting Sample FinPro Gateway Notification
+
+Member firms which have opted in to sending automated FinPro Gateway notifications to registered and previously registered individuals may want to share email notification samples with impacted individuals. Providing sample notifications to associated persons may help them understand that these notifications are not spam or part of phishing scams. Firms may request sample FinPro Gateway notifications by [emailing FINRA](/cdn-cgi/l/email-protection#6d0b04031d1f020b0808090f0c0e062d0b04031f0c43021f0a).
+
+[Log In to FinPro Gateway](http://finpro.finra.org/)

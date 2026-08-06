@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) submitted, as required by Article 10(7) of the Insurance Distribution Directive, the draft Regulatory Technical Standards to the European Commission adapting the base euro amounts for professional indemnity

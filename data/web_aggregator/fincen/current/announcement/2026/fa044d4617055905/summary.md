@@ -1,0 +1,1 @@
+Summary: # (Formerly known as 88-2) When, if ever, should a bank filea CMIR on behalf of its customer, when the customer is importing or exporting more than $ 10,000 in currency or monetary instruments?his ruling, formerly known as 88-2, was posted to the website

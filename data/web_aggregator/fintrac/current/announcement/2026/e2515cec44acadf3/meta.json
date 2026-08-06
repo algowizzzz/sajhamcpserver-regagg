@@ -1,0 +1,24 @@
+{
+  "doc_id": "e2515cec44acadf3",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Plan sur l\u2019accessibilit\u00e9 de CANAFE \u2013 Rapport d\u2019\u00e9tape 2024",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/accessibility-accessibilite/2024-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7be0e6197aec55e3076246859d4496a1fc3df5342021cee6b5233fe07a88d318",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/e2515cec44acadf3",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

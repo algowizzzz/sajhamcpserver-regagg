@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13648",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change to Except Accounts Pursuant to Section 530A of the Internal Revenue Code From the Requirements of FINRA Rule 3210 (Accounts At Other Broker-Dealers and Financial Institutions)",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/07/2026-13648/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and",
+  "reference_number": "2026-13648",
+  "published_date": "2026-07-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b01decda837427e170ef4e326d7caac2aa7391d44d330bbe943cc597e80881e7",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13648",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

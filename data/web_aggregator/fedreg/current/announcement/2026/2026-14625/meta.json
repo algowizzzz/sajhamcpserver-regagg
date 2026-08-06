@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14625",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Approving a Proposed Rule Change, as Modified and Superseded by Amendment No. 1, To Amend Rule 4.21 (Series of FLEX Options)",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/21/2026-14625/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+  "reference_number": "2026-14625",
+  "published_date": "2026-07-21",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ed4ec0ae997c2d0e282a3dea3e1fa6d8050442acb3586efc488820b3dbe3a844",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14625",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

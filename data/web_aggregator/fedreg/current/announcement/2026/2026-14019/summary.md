@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts

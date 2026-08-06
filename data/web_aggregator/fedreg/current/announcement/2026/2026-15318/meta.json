@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-15318",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities: Proposed Renewal; Comment Request; Renewal Without Change of the Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/29/2026-15318/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-of",
+  "reference_number": "2026-15318",
+  "published_date": "2026-07-29",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c58336ecd5af2baddf613cb0ff3402d92094e2faa37d435a7546a0aaa8b3f6a2",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-15318",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

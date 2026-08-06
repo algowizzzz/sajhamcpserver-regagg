@@ -1,0 +1,70 @@
+# Bank of Canada maintains the policy rate at 2¼%
+
+FOR IMMEDIATE RELEASE
+
+[Media Relations](https://www.bankofcanada.ca/press/contacts/)
+
+[Ottawa, Ontario](https://www.bankofcanada.ca/location/ottawa_ontario/)
+
+July 15, 2026
+
+[Share this page on Facebook
+
+ Share this page on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F07%2Ffad-press-release-2026-07-15%2F "Share this page on Facebook")
+[Share this page on X
+
+ Share this page on X](https://twitter.com/intent/tweet?text=Currently+reading%3A&url=https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F07%2Ffad-press-release-2026-07-15%2F "Share this page on X")
+[Share this page on LinkedIn
+
+ Share this page on LinkedIn](https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F07%2Ffad-press-release-2026-07-15%2F "Share this page on LinkedIn")
+[Share this page by email
+
+ Share this page by email](mailto:?Subject=Bank of Canada maintains the policy rate at 2%C2%BC%25&body=Currently reading%3A https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F07%2Ffad-press-release-2026-07-15%2F "Share this page by email")
+
+The Bank of Canada today held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.
+
+Canada’s economy is showing signs of improvement. Growth is picking up and inflation is projected to ease gradually from its recent spike. There are still important risks and uncertainties related to the war in the Middle East and US trade policy.
+
+Since the April *Monetary Policy Report* (MPR), global economic prospects have been dented by higher oil prices stemming from the Middle East conflict. At the same time, the build-out of artificial intelligence (AI) is supporting economic activity in a growing number of countries. Oil prices are still lower than their peak in April but the situation in the Middle East remains volatile. The path for global inflation is highly dependent on how the conflict unfolds.
+
+The US economy is growing at about 2½%, mostly because of strong consumption and booming AI investment. China’s economy is expanding solidly thanks to robust exports. Economic activity in the euro area has been weighed down by high energy prices, but is expected to strengthen in the second half of the year if energy prices come down as anticipated.
+
+The Bank projects global GDP growth will slow to 2¾% in 2026, mostly because of the effects of the Middle East conflict, and recover to around 3¼% in 2027 and 2028.
+
+Financial conditions in Canada have eased since April and global equity markets have been buoyant. US bond yields have risen, while those in Canada are little changed. This differential has contributed to the depreciation of the Canadian dollar.
+
+Canada’s GDP data over the past year was choppy and growth stalled as the economy adjusted to new tariffs, high uncertainty and slower population growth. Labour market conditions have remained soft, reflecting ongoing economic slack. The unemployment rate was 6.5% in June and has hovered in a range of 6½%-7% since the end of 2024. There are clear signs that economic growth has resumed in the second quarter, with growth estimated at 2½%. While this largely reflects the unwinding of temporary factors, sources of economic growth appear to be broadening.
+
+Recent indicators point to continued solid consumer spending. Housing activity has been weak but looks to be stabilizing. Export growth has resumed and is expected to continue to strengthen, albeit on a lower path. Business investment is projected to pick up modestly, boosted in the near term by the oil and gas sector. Although the Canada-US-Mexico Agreement is now subject to annual reviews, more businesses report they are finding ways to navigate through the uncertainty. Government spending also contributes to higher economic activity over the projection.
+
+Following GDP growth of 0.7% in 2026, the Bank projects the economy will grow by 1.8% in both 2027 and 2028. As the recovery proceeds, economic slack will be gradually absorbed.
+
+CPI inflation rose further to 3.2% in May, mainly because of higher gasoline prices linked to the war in the Middle East. Excluding gasoline, inflation was 2.2% and measures of core inflation remained close to 2%. Near-term inflation expectations are sensitive to changes in gasoline prices but longer-term inflation expectations remain well anchored. War-related cost pressures are still working their way through some consumer prices but are being offset by downward pressure on other prices from continued economic slack. CPI inflation is expected to stay elevated in June and then ease gradually in the coming months, returning to around 2% in early 2027, although this forecast is dependent on the path for oil and gasoline prices. Inflation is forecast to average around 2% in 2027 and 2028, albeit with some monthly fluctuations because of base-year effects.
+
+Governing Council judges the current policy rate remains appropriate to sustain the economic recovery and bring inflation back to the 2% target, in line with the MPR projections. Uncertainty is still high. Governing Council will continue to assess the strength of the Canadian economy and the outlook for inflation, and is prepared to adjust monetary policy as needed. The Bank is committed to maintaining Canadians’ confidence in price stability through this period of global upheaval.
+
+## Information note
+
+The next scheduled date for announcing the overnight rate target is September 2, 2026. The Bank’s next MPR will be released on October 28, 2026.
+
+Content Type(s):
+[Press](https://www.bankofcanada.ca/search/?content_type[]=press),
+[Press releases](https://www.bankofcanada.ca/search/?content_type[]=press-releases)
+
+![](https://www.bankofcanada.ca/wp-content/uploads/2025/03/MPR-thumbnail_July-500x250-1741824873.jpg)
+
+[## Monetary Policy Report—July 2026](https://www.bankofcanada.ca/publications/mpr/mpr-2026-07-15/ "Monetary Policy Report—July 2026")
+
+Canada’s economy has been weak but is showing signs of improvement. Growth is expected to pick up, and inflation is projected to ease to around 2%. Uncertainty remains elevated.
+
+[## Press Conference: Monetary Policy Report – July 2026](https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-report-july-2026/ "Press Conference: Monetary Policy Report – July 2026")
+
+*Release of the Monetary Policy Report* – Press conference by Governor Tiff Macklem and Senior Deputy Governor Carolyn Rogers (10:45 (ET) approx.).
+
+[## Monetary Policy Report Press Conference Opening Statement](https://www.bankofcanada.ca/2026/07/opening-statement-2026-07-15/ "Monetary Policy Report Press Conference Opening Statement")
+
+Governor Tiff Macklem discusses the *Monetary Policy Report* and the key issues involved in the Governing Council’s deliberations about the monetary policy decision.
+
+[## Summary of Governing Council deliberations: Fixed announcement date of July 15, 2026](https://www.bankofcanada.ca/2026/07/summary-of-governing-council-deliberations-fixed-announcement-date-of-july-15-2026/ "Summary of Governing Council deliberations: Fixed announcement date of July 15, 2026")
+
+This is an account of the deliberations of the Bank of Canada’s Governing Council leading to the monetary policy decision on July 15, 2026.

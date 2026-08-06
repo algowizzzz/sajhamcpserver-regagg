@@ -1,0 +1,27 @@
+{
+  "doc_id": "80471d0b211dad4e",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Commercial Lending Criteria - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-criteria",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:64a920a23d21b8fc2d3987f7b8fd246d97a2fd1c82be0bc6ea4c5d01810c8f77",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/80471d0b211dad4e",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-criteria",
+  "fetch_method": "html_to_md"
+}

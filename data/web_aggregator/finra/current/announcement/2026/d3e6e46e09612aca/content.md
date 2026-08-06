@@ -1,0 +1,94 @@
+SRO/Jurisdiction Fee and Setting Schedule
+Fees As Of 7/31/2026
+Initial Reg Transfer / 
+Relicense Renewal
+Registration 
+Review Method
+Dual AG Dual AG/RA S63 
+Required
+BD Initial 
+Reg
+BD Renewal
+Individual Fees Individual Settings BD Fees and Settings
+Mass 
+Transfer
+Branch 
+Mass Tran
+BR 
+Renewal
+Branch 
+Office
+Form BR 
+Amd
+Dual BR 
+Office
+Dual BR 
+Renewal
+BD Branch 
+Reqmt
+Mass Transfer 
+Dual AG/RA
+BR Mass 
+Tran Dual
+Accepts AG 
+EVEP
+Accepts 
+RSL*
+ Alabama 70  70  Automatic Affiliates Only Always Yes 250  250  70  0  0  0  0  0  0  Notice File140  0  70  No  Yes
+ Alaska 75  75  Automatic Never Affiliates Only Yes 250  250  75  75  75  75  0  75  75  Notice File150  75  75  No  No
+ Arizona 45  45  Home State Affiliates Only Always Yes 300  300  45  0  0  0  0  0  0  Neither85  0  45  No  --
+ Arkansas 75  75  Automatic Affiliates Only Affiliates Only Yes 300  300  75  50  50  50  0  100  100  Register150  100  75  No  Yes
+ California 50  50  Automatic Always Always Yes 75  300  50  0  0  0  0  0  0  Neither100  0  50  No  --
+ Colorado 15  15  Automatic Always Always No 80  80  0  0  0  0  0  0  0  Neither0  0  15  No  --
+ Connecticut 100  125  Automatic Affiliates Only Always Yes 215  340  75  125  125  0  125  0  250  Register150  250  125  No  Yes
+ Delaware 65  65  Automatic Always Always Yes 300  300  65  0  0  0  0  0  0  Neither130  0  65  No  --
+ District of Columbia 45  45  Automatic Affiliates Only Always No 250  250  0  0  0  0  0  0  0  Neither0  0  45  Yes  --
+ Florida 50  50  Automatic Always Always No 200  200  0  0  100  100  0  200  200  Notice File0  0  50  Yes  Yes
+ Georgia 35  45  Automatic Always Always Yes 105  255  0  0  0  0  0  0  0  Neither0  0  55  No  --
+ Hawaii 50  50  Automatic Always Always Yes 200  200  50  0  0  0  0  0  0  Notice File100  0  50  No  Yes
+ Idaho 50  50  Automatic Always Always Yes 200  200  0  0  0  0  0  0  0  Notice File0  0  50  No  Yes
+ Illinois 150  150  Automatic Always Always Yes 600  600  150  20  20  20  0  40  40  Notice File300  40  150  Yes  Yes
+ Indiana 25  25  Automatic Affiliates Only Always Yes 125  250  25  0  0  0  0  0  0  Notice File25  0  25  No  Yes
+ Iowa 40  40  Automatic Affiliates Only Always Yes 200  200  40  0  0  0  0  0  0  Neither70  0  40  No  --
+ Kansas 0  0  Automatic Affiliates Only Always Yes 0  0  0  0  0  0  0  0  0  Notice File0  0  0  No  Yes
+ Kentucky 50  50  Automatic Affiliates Only Always Yes 120  120  50  0  0  0  0  0  0  Neither100  0  50  Yes  --
+ Louisiana 60  60  Automatic Affiliates Only Always No 250  250  0  0  0  0  0  0  0  Neither0  0  60  No  --
+ Maine 50  25  Home State Affiliates Only Always Yes 250  250  50  50  50  30  0  30  50  Register100  50  50  No  Yes
+ Maryland 65  65  Automatic Always Always No 250  250  65  0  0  0  0  0  0  Neither115  0  65  No  --
+ Massachusetts 75  75  Automatic Never Always Yes 450  450  75  0  0  0  0  0  0  Neither125  0  75  No  --
+ Michigan 65  65  Automatic Affiliates Only Always Yes 300  300  65  0  0  0  0  0  0  Neither65  0  65  Yes  --
+ Minnesota 65  65  Automatic Affiliates Only Always Yes 200  200  65  0  0  0  0  0  0  Neither115  0  65  Yes  --
+ Mississippi 50  50  Automatic Always Always Yes 200  200  0  0  0  0  0  0  0  Neither0  0  50  Yes  --
+ Missouri 50  50  Automatic Affiliates Only Affiliates Only Yes 100  200  50  0  0  0  0  0  0  Neither50  0  50  No  --
+ Montana 100  100  Home State Affiliates Only Always Yes 400  400  100  0  0  0  0  0  0  Neither200  0  100  Yes  --
+ Nebraska 40  40  Automatic Never Always Yes 250  250  40  0  0  0  0  0  0  Neither80  0  40  Yes  --
+ Nevada 125  125  Automatic Never Always Yes 300  300  0  0  100  100  50  0  0  Register0  0  125  No  No
+ New Hampshire 130  100  Automatic Affiliates Only Always Yes 250  300  25  0  0  0  0  0  0  Notice File50  0  130  No  ^ Yes
+ New Jersey 190  190  Automatic Always Always Yes 600  600  190  0  0  0  0  0  0  Neither190  0  190  Yes  --
+ New Mexico 50  50  Automatic Affiliates Only Always Yes 300  300  50  0  0  0  0  0  0  Notice File100  0  50  No  No
+ New York 60  37  Automatic Always Always Yes 300  300  30  0  0  0  0  0  0  Neither30  0  70  No  --
+ North Carolina 125  125  Automatic Affiliates Only Always Yes 300  300  125  0  0  0  0  0  0  Neither200  0  125  No  --
+ North Dakota 75  75  Automatic Always Always Yes 240  240  75  0  0  0  0  0  0  Neither135  0  75  No  --
+ Ohio 60  60  Manual Affiliates Only Always Yes 200  200  15  0  0  0  0  0  0  Notice File30  0  60  No  Yes
+ Oklahoma 50  50  Automatic Always Always Yes 300  300  10  0  0  0  0  0  0  Neither20  0  50  Yes  N/A
+ Oregon 60  60  Automatic Never Never Yes 250  250  0  0  0  0  0  0  0  Neither0  0  60  No  --
+ Pennsylvania 135  120  Automatic Affiliates Only Always Yes 550  550  135  0  0  0  0  0  0  Neither135  0  135  No  --
+ Puerto Rico 150  150  Automatic Affiliates Only Affiliates Only No 500  500  150  0  0  0  0  0  0  Notice File150  0  150  No  Yes
+ Rhode Island 100  100  Automatic Affiliates Only Affiliates Only Yes 300  300  100  100  100  100  0  0  0  Notice File160  0  100  No  Yes
+ South Carolina 110  110  Automatic Affiliates Only Always Yes 310  310  110  0  0  0  0  0  0  Neither165  0  110  Yes  --
+ South Dakota 125  125  Automatic Affiliates Only Affiliates Only Yes 150  150  125  0  0  0  0  0  0  Notice File175  0  125  Yes  Yes
+ Tennessee 50  50  Home State Always Always Yes 200  200  50  0  0  0  0  0  0  Notice File100  0  50  No  Yes
+ Texas 35  20  Automatic Always Always Yes 40  75  35  0  0  0  0  0  0  Notice File35  0  35  Yes  Yes
+ Utah 40  40  Automatic Never Always Yes 130  130  40  0  0  0  0  0  0  Neither70  0  40  No  --
+ Vermont 145  145  Home State Affiliates Only Always Yes 300  300  145  120  120  120  0  240  240  Register225  240  145  Yes  Yes
+ Virgin Islands 50  50  Home State Affiliates Only Always Yes 200  200  50  100  100  100  0  100  100  Register50  100  50  No  No
+ Virginia 40  40  Automatic Never Always Yes 200  200  40  0  0  0  0  0  0  Neither80  0  40  No  --
+ Washington 25  30  Automatic Always Always Yes 85  160  25  0  0  0  0  0  0  Notice File50  0  50  Yes  Yes
+ West Virginia 100  82  Automatic Never Always Yes 300  300  100  60  60  60  0  120  120  Notice File205  120  100  No  No
+ Wisconsin 80  80  Automatic Affiliates Only Always Yes 200  400  80  80  80  80  0  160  160  Notice File160  160  80  Yes  Yes
+ Wyoming 45  45  Automatic Always Always Yes 250  250  0  0  0  0  0  0  0  Neither0  0  45  No  --
+24X 0  0  SuperAutomatic 0  0  0  0  0  0  0  0  0  0  0  0  --
+BOX 0  0  SuperAutomatic 0  0  0  0  0  0  0  0  0  0  0  0  --
+Page 1 of 2Current change(s) in (^ Red)
+
+Initial Reg Transfer / Relicense RenewalRegistration Review MethodDual AG Dual AG/RA S63 RequiredBD Initial RegBD RenewalIndividual FeesIndividual SettingsBD Fees and SettingsMass TransferBranch Mass TranBR RenewalBranch OfficeForm BR AmdDual BR OfficeDual BR RenewalBD Branch ReqmtMass Transfer Dual AG/RABR Mass Tran DualAccepts AG EVEPAccepts RSL*CBOE0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --CBOE BYX0     0     SuperAutomatic2500      0     0     0     0     0     0     0     0     0     0     0     --CBOE BZX0     0     SuperAutomatic2500      0     0     0     0     0     0     0     0     0     0     0     --CBOE C20     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --CBOE EDGA0     0     SuperAutomatic2500      0     0     0     0     0     0     0     0     0     0     0     --CBOE EDGX0     0     SuperAutomatic2500      0     0     0     0     0     0     0     0     0     0     0     --FINRA125   70    Automatic0         0     125   105   105   105   0     0     0     Notice File0     0     125   YesIEX0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --ISE0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --ISE GEMX0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --ISE MRX0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --LTSE0     0     SuperAutomatic10000     0     0     0     0     0     0     0     0     0     0     0     --MEMX0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --MIAX Emerald0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --MIAX Options0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --MIAX Pearl0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --MIAX Sapphire0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --NQX75    0     SuperAutomatic5000      0     0     0     0     0     0     0     0     0     0     75    --NTX0     0     SuperAutomatic4000      0     0     0     0     0     0     0     0     0     0     0     --NYSE0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     Notice File0     0     0     YesNYSE-AMER0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --NYSE-ARCA0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --NYSE-NAT0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --NYSE-TEX0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --PHLX0     0     SuperAutomatic0         0     0     0     0     0     0     0     0     0     0     0     --TXSE0     0     SuperAutomatic2500      0     0     0     0     0     0     0     0     0     0     0     --FINRA System Processing tiered fee structure – assessment based on # of securities regulators (SROs and jurisdictions) with which each individual is registered, excluding registration as an investment advisor representative: • 1 – 5:  $70 • 6 – 20:  $95 • 21 – 40:  $110 • 41+:  $125  FINRA Branch Office tiered fee structure - assessment based on # of registered branches:  • 1 – 250: $245 • 251 – 500: $210 • 501 – 1000: $175 • 1001 – 2000: $140 • 2001+: $105  Individual Registration Review Methods:  Jurisdictions – Manual, Automatic or Home State (like Automatic but applicants with a residential address in that jurisdiction will be reviewed Manually).  SROs – Manual, Automatic or SuperAutomatic (if an individual’s registration is non-deficient, the registration will also be approved for that SRO, even if there is new or updated disclosure information).  Dual Registrations:  Always - Dual registrations permitted.  Never - Dual registrations prohibited. Please contact the state directly for exceptions.  Affiliates Only - Dual registrations permitted for employment with affiliated firms (any firm under common ownership or control) when reported under Question 10A or 10B on the Form BD, or Item 7A(3) on the Form ADV.  Dual Branch Office Fee and Dual BR Renewal Fee applies to branch offices filing as both BD and IA branches:  The Dual fee will apply in full when filing both sides (BD and IA) simultaneously.   If a branch is already registered as BD or IA, the dual fee minus the fee already paid will apply. (i.e.:  already filed as a BD branch, then files as an IA branch, the fee will be the Dual fee minus the BD fee).  RSL - Residential Supervisory Locations as set forth under FINRA Rule 3110.19.  Response options: • Yes – The jurisdiction does not require the registration / notice filing of branch offices that are designated as RSLs for FINRA.   • No – The jurisdiction does require the registration / notice filing of branch offices that are designated as RSLs for FINRA.     • N/A – The RSL rule is not applicable and the specific state’s branch registration / notice filing requirements should be followed.    • -- – Jurisdiction does not register or notice file branch offices. Page 2 of 2Current change(s) in(^ Red)

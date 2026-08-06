@@ -1,0 +1,39 @@
+# Escort Service Operates at and Launders Money through Casino
+
+[Issue17-story1.pdf](/system/files/case_example/Issue17-story1.pdf "Issue17-story1.pdf")
+(11.82 KB)
+
+Case summary: Two individuals, who frequented a tribal casino, operated a local escort service and conducted a prostitution business at the casino. Defendant A was often in the company of young females who would meet and then leave with males from the casino for short periods. Upon return to the casino, the females would again meet up with Defendant A, the director of the escort service. Surveillance images from the casino confirmed that Defendant A was not only associating with the young females, but spent a great deal of time on a cellular phone - behavior consistent with the operation of an escort service. The cash that the prostitutes received from these illegal acts was given to the escort service and the service paid the prostitutes directly from these funds. The escort service was used as a front for organized prostitution. Besides managing the escort service while at the casino, Defendant A used the casino to launder the remaining proceeds from these criminal activities.
+
+Case details: The escort service generated so much money that Defendant A became one of the top bettors at the casino, primarily playing electronic slot machines. Slot player tracking records from the casino reveal that during a 4-year period DefendantA individually inserted over $3,000,000 in cash into electronic gaming devices' bill acceptors/validators. Defendant A recycled funds through the machines by downloading credits onto a casino players card, or from some machines by the issuance of slot ticket vouchers, which all were redeemed at the cashier's cage. Defendant A's cash-out totals resulted in over a 94 percent return of funds and a total loss of only $200,000. Defendant A also obtained slot vouchers from the machines that could be redeemed at the cashier's cage - which then could be used as payments for the prostitutes.
+
+Defendant A pled guilty to 2nd degree promotion of prostitution and money laundering, and was sentenced to 24 months in State prison and forfeited a house. Defendant B, who frequently drove the escorts to and from locations to engage in acts of prostitution and who collected money from the escorts for the director of the escort service, was charged with 2nd degree promotion of prostitution, and was sentenced to 134 days in State prison.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues*, Issue 17, May 2010]
+
+Tags
+
+Money Laundering
+
+Other Crimes
+
+Casinos and Card Clubs
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

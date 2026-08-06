@@ -1,0 +1,25 @@
+{
+  "doc_id": "fda97d8a42c70a54",
+  "regulator_id": "bis_bcbs",
+  "doc_type": "final_rule",
+  "title": "Synthetic risk transfers",
+  "language": "en",
+  "source_url": "https://www.bis.org/bcbs/publ/d607.htm",
+  "reference_number": null,
+  "published_date": "2026-02-17",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:823c32d9d4547d0f5ba80bf29c5802289bda046f92795baf3e6962b264c6ed01",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_bis_bcbs_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bis_bcbs/current/final_rule/2026/fda97d8a42c70a54",
+  "tags": [
+    "international",
+    "basel",
+    "prudential"
+  ]
+}

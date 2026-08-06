@@ -1,0 +1,1 @@
+Summary: # When to verify the identity of persons and entities — Mortgage administrators, brokers and lenders : FINTRAC's compliance guidance

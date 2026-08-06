@@ -1,0 +1,27 @@
+# Request alternate formats : Accessibility
+
+You can request documents in the following available formats:
+
+* printed copy
+* large font printed copy (increased font size and clarity)
+* Braille (a system of raised dots that people who are blind or who have low vision can read with their fingers)
+* audio (a recording of someone reading the text out loud)
+* electronic copy (an electronic format that is compatible with adaptive technology intended to assist persons with disabilities)
+
+### To request an alternate format, please contact us through one of the following means:
+
+**Email**:  [Accessibility/Accessibilite@fintrac-canafe.gc.ca](mailto:Accessibility/Accessibilité%20%3cAccessibility/Accessibilite@fintrac-canafe.gc.ca%3e)
+
+**Phone**: 1-866-346-8722 (toll free)
+
+**TTY** (teletypewriter): 1 800-465-7735
+
+**Mail**:
+
+Manager and Lead on Accessibility  
+FINTRAC  
+234 Laurier Avenue West  
+Ottawa Ontario K1P 1H7
+
+Date Modified:
+:   2023-12-21

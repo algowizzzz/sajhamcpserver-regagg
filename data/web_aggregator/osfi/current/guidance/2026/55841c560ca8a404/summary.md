@@ -1,0 +1,1 @@
+Summary: # Appointed Actuary: Legal Requirements, Qualifications and Peer Review – Guideline (2023)

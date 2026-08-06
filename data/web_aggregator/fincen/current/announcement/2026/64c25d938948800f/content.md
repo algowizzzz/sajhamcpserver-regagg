@@ -1,0 +1,94 @@
+# FinCEN Advisory – FIN-2014-A002
+
+## Advisory Information
+
+FIN-2014-A002
+
+[FIN-2014-A002.pdf](/system/files/advisory/FIN-2014-A002.pdf "FIN-2014-A002.pdf")
+(461.32 KB)
+
+Issued Date
+
+March 06, 2014
+
+Subject
+
+Updated Guidance to Financial Institutions on Recent Events related to the Departure of Victor Yanukovych and Other Ukrainian Officials
+
+The Financial Crimes Enforcement Network (FinCEN) is updating a previously issued Advisory to provide U.S. financial institutions with current information regarding persons who have been subject to sanctions and asset freezes because of their apparent role in the misappropriation of state assets or instability in Ukraine.
+
+On February 26, 2014 FinCEN issued an [advisory](/system/files/shared/FIN-2014-A001.pdf)1 to remind financial institutions of their responsibility to take reasonable, risk-based steps regarding the potential suspicious movement of assets related to Viktor Yanukovych departing Kyiv and abdicating his responsibilities and other senior officials resigning from their positions or departing Kyiv.2
+
+On March 3, 2014 the government of Ukraine announced that it had initiated criminal proceedings against a number of former Ukrainian officials or close associates of formerUkrainian officials. On March 5, 2014, the European Union, based on information from Ukraine’s Prosecutor General, issued aCouncil Regulation requiring the European Union to freeze the funds and economic resources of various former Ukrainian officials and their close associates.3 Additionally, the government of Canada has taken similar action against the same individuals.4
+
+The measures being taken against these former Ukrainian officials and their close associates increase the risk that they will seek to move their assets in a deceptive fashion. To help mitigate this risk, this advisory provides the names and identifying information of those that are subject to the mentioned European Union and Canadian sanctions. The list is as follows:
+
+1. **Viktor Fedorovych Yanukovych:** born on 9 July 1950, former President of Ukraine.
+2. **Vitalii Yuriyovych Zakharchenko:** born on20 January 1963, former Minister of InternalAffairs.
+3. **Viktor Pavlovych Pshonka:** born on 6February 1954, former Prosecutor General ofUkraine.
+4. **Oleksandr Hryhorovych Yakymenko:**born on 22 December 1964, former Head ofSecurity Service of Ukraine.
+5. **Andriy Volodymyrovych Portnov:** bornon 27 October 1973, former Adviser to thePresident of Ukraine.
+6. **Olena Leonidivna Lukash:** born on 12November 1976, former Minister of Justice.
+7. **Andrii Petrovych Kliuiev:** born on 12August 1964, former Head of Administrationof President of Ukraine.
+8. **Viktor Ivanovych Ratushniak:** born on 16October 1959, former Deputy Minister ofInternal Affairs.
+9. **Oleksandr Viktorovych Yanukovych:** bornon 1 July 1973, son of former President,businessman.
+10. **Viktor Viktorovych Yanukovych:** born on 16July 1981, son of former President, Memberof the Verkhovna Rada of Ukraine.
+11. **Artem Viktorovych Pshonka:** born on19 March 1976, son of former ProsecutorGeneral, Deputy Head of the faction ofParty of Regions in the Verkhovna Rada ofUkraine.
+12. **Serhii Petrovych Kliuiev:** born on 12 August1969, businessman, brother of Mr. AndriiKliuiev.
+13. **Mykola Yanovych Azarov:** born on 17December 1947, Prime Minister of Ukraineuntil January 2014.
+14. **Oleksii Mykolayovych Azarov:** son offormer Prime Minister Azarov.
+15. **Serhiy Vitaliyovych Kurchenko:** born on 21September 1985, businessman.
+16. **Dmytro Volodymyrovych Tabachnyk:** bornon 28 November 1963, former Minister ofEducation and Science.
+17. **Raisa Vasylivna Bohatyriova:** born on 6January 1953, former Minister of Health.
+18. **Ihor Oleksandrovych Kalinin:** born on28 December 1959, former Adviser to thePresident of Ukraine.
+
+FinCEN is reminding U.S. financial institutions that they are required to apply enhanced scrutinyto private banking accounts held by or on behalf of senior foreign political figures5 and to monitortransactions that could potentially represent misappropriated or diverted state assets, the proceeds of bribery or other illegal payments, or otherpublic corruption proceeds. Financial institutionsshould be aware of the possible impact thatpublic reports of high-level corruption bysenior members of the former Yanukovychadministration and other illicit activity bymembers of that administration may have onpatterns of financial activity when assessing risksrelated to particular customers and transactions.This advisory is focused on potentially suspicioustransactions involving senior members of theformer Yanukovych administration or thoseacting for or on their behalf, and is not intendedto call into question the maintenance of normalrelationships between financial institutions in theUnited States and Ukraine.
+
+Financial institutions should also be aware thaton March 6, 2014, the President of the UnitedStates issued an Executive Order authorizingthe Secretary of the Treasury, in consultationwith the Secretary of State, to designateindividuals or entities that contribute to theundermining of Ukraine’s democracy, peace,security, sovereignty or territorial integrity,or responsible for the misappropriation ofUkraine’s state assets.6 This new authoritywould require U.S. persons, including U.S.financial institutions and any foreign branch,to block assets of any designated individuals orentities that come under U.S. jurisdiction.
+
+**Guidance**
+
+If a financial institution knows, suspects, or has reason to suspect that a transaction relatingto senior foreign political figures involves funds derived from illicit activity, includingmoney laundering, terrorist financing, or any other violation of law or regulation, or if thetransaction appears to have no business or lawful purpose or has a purpose inconsistent withthe customer’s known business, the financial institution must file a Suspicious Activity Report(SAR) consistent with FinCEN’s regulations.7 In addition, covered financial institutions arereminded of the regulations implementing section 312 of the USA PATRIOT Act (31 U.S.C.5318(i)), which require a written due diligence program for private banking accounts held fornon-U.S. persons designed to detect and report any known or suspected money laundering orother suspicious activity.8 In instances where senior foreign political figures maintain privatebanking accounts at a covered institution, those financial institutions are required to applyenhanced scrutiny of such accounts to detect and report transactions that may involve theproceeds of foreign corruption.9
+
+In April 2008, FinCEN issued Guidance to assist financial institutions with reportingsuspicious activity regarding proceeds of foreign corruption. That Guidance also discussespotential indicators that transactions may be related to proceeds of foreign corruption.10Financial institutions may find this Guidance useful in assisting with suspicious activitymonitoring and due diligence requirements related to senior foreign political figures.
+
+Additional questions or comments regarding the contents of this Advisory should beaddressed to the FinCEN Resource Center at (800) 949-2732. ***Financial institutions wantingto report suspicious transactions that may relate to terrorist activity should call theFinancial Institutions Toll-Free Hotline at (866) 556-3974 (7 days a week, 24 hours a day).***The purpose of the hotline is to expedite the delivery of this information to law enforcement.Financial institutions should immediately report any imminent threat to local-area lawenforcement officials.
+
+---
+
+1 *See* FinCEN (February, 2014) Advisory [FIN-2014-A001: “Guidance to Financial Institutions on Recent Events related tothe Departure of Victor Yanukovych and Other Ukrainian Officials.”](/system/files/shared/FIN-2014-A001.pdf)
+
+2 For updated information on developments concerning the administration of Victor Yanukovych,*see* <http://travel.state.gov/content/passports/english/alertswarnings/ukraine-travel-warning.html> and<http://www.consilium.europa.eu/uedocs/cms_Data/docs/pressdata/EN/foraff/141110.pdf>.
+
+3 *See* Council Regulation (EU) No 208/2014 of 5 March 2014 available at[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2014:066:0001:0010:EN:PDF.](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2014:066:0001:0010:EN:PDF).
+
+4 *See* [*Freezing Assets of Corrupt Foreign Officials (Ukraine) Regulations*](http://www.international.gc.ca/sanctions/ukraine_developments-developpements_ukraine.aspx?lang=eng) (SOR/2014-44): entered into force on March 5, 2014.
+
+5 “Senior foreign political figure” means a current or former senior official of a foreign government or of a major foreignpolitical party; a senior executive of a foreign government-owned commercial enterprise; a corporation, business,or other entity that has been formed by, or for the benefit of, any such individual; the immediate family members ofany such individual; and a person who is widely and publicly known (or is actually known by the relevant coveredfinancial institution) to be a close associate of such individual. For the purposes of this definition, “senior official orexecutive” means an individual with substantial authority over policy, operations, or the use of government-ownedresources and “immediate family member” means spouses, parents, siblings, children and a spouse’s parents andsiblings. *See,* 31 CFR 1010.620(c) and 31 CFR 1010.605(p).
+
+6 *See* [Executive Order - Blocking Property of Certain Persons Contributing to the Situation in Ukraine](http://www.whitehouse.gov/the-press-office/2014/03/06/executive-order-blocking-property-certain-persons-contributing-situation) (March 6, 2014).
+
+7 *See e.g.,* 31 CFR 1010.320.
+
+8 *See generally* 31 CFR 1010.620.
+
+9 31 CFR 1010.620(c).
+
+10 *See* FinCEN (April, 2008) Guidance [FIN-2008-G005: “Guidance to Financial Institutions on Filing Suspicious ActivityReports Regarding the Proceeds of Foreign Corruption.”](/system/files/shared/fin-2008-g005.pdf)
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

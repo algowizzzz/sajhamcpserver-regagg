@@ -1,0 +1,61 @@
+# Materiality Criteria for Related Party Transactions of Property and Casualty Insurance Companies - Bulletin (1993)
+
+Information
+
+Publication type
+
+Bulletin
+
+Category
+
+Prudential Limits and Restrictions
+
+Date
+
+December 31, 1993
+
+Sector
+
+Property and Casualty Companies
+
+No
+
+E-6
+
+[Generate PDF](/en/print/pdf/node/621)
+
+Table of contents
+
+This bulletin establishes for property and casualty insurance companies the criteria for determining whether a transaction with a related party is nominal or immaterial to the property and casualty insurance company.
+
+Part XI of the *Insurance Companies Act* (the Act) defines the related parties of insurance companies and sets out rules for undertaking transactions with these related parties. The overriding directive is that except as provided in that Part, transactions with related parties are prohibited, both directly and indirectly. Part XI subsequently identifies a number of situations where related party transactions are permitted, one of these being "nominal or immaterial value transactions".
+
+Section 522 of the Act provides that a company may enter into a transaction with a related party of the company if the value of the transaction is nominal or immaterial to the company when measured by criteria that have been established by the conduct review committee of the company and approved in writing by the Superintendent. The question then becomes how does one determine what is nominal or immaterial to the company.
+
+In an effort to establish a uniform standard for all property and casualty insurers, the Office obtained the views of the Insurance Bureau of Canada. The outcome of this process is the materiality criteria set out in this bulletin.
+
+It is the intent of the materiality criteria to allow companies to undertake necessary transactions with related parties in a timely manner, while simultaneously providing safeguards against improprieties. Accordingly, aggregate limits are linked to the company's capital, and transactions that are "nominal or immaterial" based on these criteria do not have to be individually approved by the company's conduct review committee.
+
+Two issues that arose during OSFI’s consideration of this matter are the questions of what constitutes a transaction and whether it should be valued on a "gross" or a "net" basis. OSFI is of the view that the term "transaction" should be viewed on a very broad basis, and that virtually any act or agreement in which more than one person is concerned and by which the relations between the persons is altered constitutes a transaction. Further, the Office considers that all transactions must be valued on a "gross" basis and it is inappropriate for a company to measure a transaction against the materiality criteria on the basis of the transaction's "net" impact on the company. Accordingly, for example, the sale of a $10 million building to a related party for consideration of another building valued at $9.9 million and cash of $100,000 constitutes a $10 million transaction. OSFI does not subscribe to the view that this transaction has no net impact on the company and hence, is immaterial to the company.
+
+Companies that adopt materiality criteria at least as stringent as those set out in this bulletin are deemed to have the Superintendent's approval in writing. Companies wishing to establish different materiality criteria must submit them to OSFI and obtain the Superintendent's approval in writing. In reviewing requests for other materiality criteria, the Office will require supporting justifications, including details of anticipated transactions that would otherwise require, at a minimum, approval of the company's conduct review committee.
+
+## Materiality Criteria
+
+1. The value of a personal-lines insurance policy issued to a related party is immaterial to the company.
+2. The value of a non-personal-lines insurance policy issued to a related party is immaterial to the company if the net per-risk retention on the policy, plus the net per-risk retention on other policies issued to the same related party, in total, is less than 1 per cent of the company's capital.
+3. The value of a reinsurance-assumed or a reinsurance-ceded arrangement with a related party is immaterial to the company, with the exception of reinsurance assumed or ceded to which the provisions of section 254 of the Act apply. It is recognized that reinsurance ceded to a related party that is not a company or a foreign company must be approved by the Superintendent pursuant to subsection 523(2) of the Act.
+4. The value of any other transaction with a related party is immaterial to the company if:
+
+   1. in the case of a loan to a related party, the loan plus the outstanding balance of all other loans made to the same related party, in total, is less than 1/10 of 1 per cent of the company's capital; or
+   2. in the case of any other transaction, the value of the transaction plus the value of all other immaterial transactions made with the same related party during the fiscal year, in total, is less than 1/10 of 1 per cent of the company's capital.
+
+For the purposes of determining the dollar amount of the criteria applicable to a particular company:
+
+1. for a domestic property and casualty company, "capital" equals the fiscal year opening balance of total assets less total liabilities less reserves required; and
+2. for a foreign property and casualty branch, "capital" equals the fiscal year opening balance of assets in Canada less total liabilities less reserves required.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2013-06-14

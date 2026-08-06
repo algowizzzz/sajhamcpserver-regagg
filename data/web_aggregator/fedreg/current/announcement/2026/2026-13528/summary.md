@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Connectivity Fee Schedule

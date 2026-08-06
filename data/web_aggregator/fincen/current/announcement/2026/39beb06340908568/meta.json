@@ -1,0 +1,24 @@
+{
+  "doc_id": "39beb06340908568",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Bank Secrecy Act Records, Tellers\u2019 Testimony Lead to Convictions for Medicare Fraud, Structuring, and Money Laundering | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/bank-secrecy-act-records-tellers-testimony-lead-convictions",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f7cb7dba3a99637160cc9278a72fc069b50638c279340bf54ddb7e01f660db5e",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/39beb06340908568",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

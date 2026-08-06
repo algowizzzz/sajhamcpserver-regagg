@@ -1,0 +1,45 @@
+# Definition of Check Casher (Payday Lenders)
+
+[fincenruling2002-2.pdf](/system/files/administrative_ruling/fincenruling2002-2.pdf "fincenruling2002-2.pdf")
+(38.05 KB)
+
+FinCEN Ruling 2002-2
+
+Definition of Check Casher (Payday Lenders)
+
+Issued Date
+
+February 25, 2002
+
+Dear [ ]:This letter responds to your letter to Judith R. Starr, Chief Counsel of the Financial Crimes Enforcement Network (“FinCEN”) dated December 14, 2001, in which you seek, on behalf of [ ], interpretive guidance regarding application of the Bank Secrecy Act (“BSA”), 31 U.S.C. 5311-5331, and its implementing regulations found at 31 CFR Part 103. Specifically, you ask whether certain subsidiaries of [ ] must register with the Department of the Treasury under 31 CFR 103.41 as check cashers. Ms. Starr referred your letter to FinCEN’s Office of Compliance and Regulatory Enforcement for disposition.
+
+In your letter, you explain that [ ], a wholly-owned subsidiary of [ ], provides cash to customers in return for a postdated personal check (the amount of which consists of the amount of the loan plus a finance charge) as a way of providing a short-term loan (a “payday loan”). At maturity of the payday loan, [ ] deposits the personal check, unless the payday loan has been extended or repaid. You explain further that [ ] also offers a service by which it contracts for the right to initiate an ACH debit to the customer’s checking account upon maturity of the payday loan.
+
+For purposes of the BSA, a check casher is each agent, agency, branch, or office within the United States of any person “engaged in the business of a check casher (other than a person who does not cash checks in an amount greater than $1,000 in currency or monetary or other instruments for any person on any day in one or more transactions.)” See 31 CFR 103.11(uu) and (uu)(2). FinCEN takes a functional approach to determining whether an entity is a check casher under the BSA. To the extent that [ ] provides cash to customers in return for a check that [ ] later deposits or negotiates (as opposed to situations in which [ ] merely holds the check as collateral for repayment of the payday loan by the customer) in an amount that exceeds $1,000 per person per day, FinCEN believes that [ ] is a check casher under the BSA and that it is therefore required to register with the Department of the Treasury under 31 CFR 103.41.An entity that is a “check casher” under the BSA must comply with the registration requirement in addition to all other BSA requirements contained in 31 CFR Part 103 applicable to check cashers. Failure to comply with the registration requirement or any other BSA requirement may result in the imposition of civil or criminal penalties.The above determination that certain entities that offer payday loans may be check cashers is limited to the facts as described above and applies only to defining the scope of the BSA. It is not intended to alter the treatment of such entities under laws or regulations promulgated by any state or other federal department or agency. Should you have any further questions or concerns, please contact me at [FinCEN’s Regulatory Helpline: 800-949-2732]. Sincerely,/signed/Patrice Motz Chief,MSB/Casino/IRS ProgramsOffice of Compliance and Regulatory Enforcementcc: Judith R. Starr, Chief Counsel, FinCEN Christine Schuetz, Office of Chief Counsel, FinCEN
+
+---
+
+[Accessibility](/accessibility)
+
+Financial Institution
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

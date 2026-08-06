@@ -1,0 +1,98 @@
+# Relevé de la continuité des provisions (C3)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé de la continuité des provisions (C3)
+
+Dernière révision
+
+Juillet 2017
+
+Numéro de relevé
+
+C3
+
+## Relevés
+
+[C3 - Exemple de relevé (XLSX, 33,70 Ko)](/sites/default/files/import-media/data_and_forms/sample-return/2023-08/fr/c3_2018.xlsx "c3_2018.xlsx") [C3 - Règles de validation (XLSX, 56,09 Ko)](/sites/default/files/documents/c3-validation-fr.xlsx "c3-validation-fr.xlsx") [Relevé des modifications](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-modifications-c3 "Relevé des modifications (C3)")
+
+## Objet
+
+Le présent relevé fournit au BSIF des renseignements détaillés sur l'évolution du compte de la provision pour Texte surligné\*pertes de crédit attendues\*.
+
+## Fondement législatif
+
+Les articles 628 et 600 de la *Loi sur les banques* et l'article 495 de la *Loi sur les sociétés de fiducie et de prêt*.
+
+## Institutions visées
+
+Toutes les institutions de dépôts sont tenues d'établir le relevé.
+
+## Publication
+
+Les renseignements figurant dans le relevé ne sont pas publiés.
+
+## Fréquence
+
+* Les institutions dont l'exercice se termine en octobre - trimestriel - janvier, avril, juillet et octobre.
+* Les institutions dont l'exercice se termine en décembre - trimestriel - mars, juin, septembre et décembre.
+
+## Personne ressource
+
+Fournir le nom et le numéro de téléphone de la personne à joindre pour obtenir des renseignements au sujet du présent relevé.
+
+## Échéance
+
+Le relevé est établi la dernière jour de chaque trimestre et présenté dans les 45 jours qui suivent la date de déclaration tel qu'indiqué ci-après :
+
+* Les institutions dont l'exercice se termine en octobre - janvier, avril, juillet et octobre.
+* Les institutions dont l'exercice se termine en décembre - mars, juin, septembre et décembre.
+
+## Organisme à contacter
+
+BSIF
+
+## Instructions générales
+
+Le compte de la provision pour Texte surligné\*pertes de crédit attendues\* sert à évaluer les Texte surligné\*pertes de crédit attendues\* réalisées et non comptabilisées. Les pratiques comptables relatives aux Texte surligné\*pertes de crédit attendues\* sont énoncées en détail Texte surligné\*dans la norme IFRS 9, *Instruments financiers*, du manuel de CPA Canada et à la section 2 de la ligne directrice du BSIF intitulée *IFRS 9, Instruments financiers et exigences en matière de divulgation financière*\*.
+
+## Instructions détaillées
+
+### 1. Solde d'ouverture
+
+Texte surligné\*Pour chaque catégorie d'instrument financier qui figure dans le relevé de la continuité des provisions, déclarer les soldes de la provision évaluée individuellement (cote 3) et collectivement (cotes 1 et 2) à la fin de la dernière période. \*
+
+### 2. Radiations
+
+Les montants radiés au cours de la période doivent être imputés Texte surligné\*à la continuité des provisions\*, puis consignés à la section pertinente du compte, selon le type de provision établie antérieurement à l'égard de l'élément d'actif radié. Inscrire à chaque section du relevé Texte surligné\*de la continuité des provisions\* le total des montants radiés et consignés au cours de la période, en respectant la procédure établie.
+
+### 3. Recouvrements
+
+Toutes les sommes recouvrées au cours de la période à partir de montants déjà radiés doivent être portées au crédit Texte surligné\*des provisions pour pertes de crédit attendues\*, puis consignées à la section du compte où la radiation initiale a été effectuée. Inscrire à chaque section du relevé Texte surligné\*des provisions pour pertes de crédit attendues\* le total des recouvrements consignés au cours de la période, en respectant la procédure établie.
+
+### 4. Autres
+
+Inscrire à la section pertinente du relevé du compte Texte surligné\*des provisions pour pertes de crédit attendues\* le total des autres rajustements liés aux créances consignés au cours de la période.
+
+### 5. Charge de créances douteuses
+
+Le solde du compte Texte surligné\*des provisions pour pertes de crédit attendues\* à la fin de la période doit correspondre au montant que le direction de la banque estime suffisant pour réduire les placements inscrits à son portefeuille d'éléments réalisés et non comptabilisés à leur montant réalisable estimatif. Le montant de la charge de créances douteuses imputé à l'état des revenus doit correspondre au montant requis pour établir ce solde. Pour établir le montant de la charge de créances douteuses inscrit à chaque section du relevé Texte surligné\*de la continuité des provisions\*, la direction de la banque doit examiner le crédit, faire preuve de jugement, appliquer les méthodes appropriées et tenir compte du niveau des provisions pour créances douteuses exigées par le BSIF à l'égard des pays désignés.
+
+### 6. Solde de fermeture
+
+Inscrire à chaque section du relevé Texte surligné\*de la continuité des provisions\* le solde suffisant pour absorber toutes les Texte surligné\*provisions pour pertes de crédit attendues\* à la fin de la période.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-11-16

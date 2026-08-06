@@ -1,0 +1,45 @@
+# Letter to industry on OSFI’s next steps to implement new provisions of its mandate
+
+Information
+
+Publication type
+
+Letter
+
+Date
+
+September 6, 2023
+
+[Generate PDF](/en/print/pdf/node/1829)
+
+Table of contents
+
+**To:** Federally regulated financial institutions
+
+Today, we are advising entities we regulate and supervise of our next steps to implement [new provisions of our mandate](/en/news/statement-superintendent-royal-assent-bill-c-47 "Statement from the Superintendent on Royal Assent of Bill C-47") that relate to integrity or security.
+
+## Objective
+
+We work to create a regulatory and supervisory system that addresses not only financial risks, but also new and emerging non-financial risks. While, in the past, these efforts have touched on matters relating to integrity and security, in June 2023, Parliament provided greater precision. More specifically, it broadened our mandate to include:
+
+* Supervision of federally regulated financial institutions (FRFIs) to determine whether they have adequate policies and procedures to protect themselves against threats to their integrity or security, including foreign interference
+* Examination of FRFIs at least annually to determine whether they have adequate policies and procedures to protect themselves against threats to their integrity or security, including foreign interference
+* Reporting to the Minister of Finance at least annually on these examinations
+
+These modifications to our mandate will help us further advance our objective of maintaining public confidence in the Canadian financial system.
+
+## Next steps
+
+To further advance this work, we will:
+
+* Engage and hold initial discussions with stakeholders (Sep 2023)
+* Issue a revised draft guideline on operational risk and resilience (E-21) for a six-month consultation (Sep 2023 to Feb 2024)
+* Issue a draft guideline on integrity or security for a six-week consultation (Oct 2023 to Nov 2023)
+* Release the final guideline on integrity or security (Jan 2024)
+
+As this is initial guidance, OSFI will continue its supervisory scrutiny in this area and will revise the guideline accordingly in the future.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-09-06

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12411",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing of Proposed Rule Change To Add a New Partial Cabinet Solution Bundle",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12411/self-regulatory-organizations-nyse-texas-inc-notice-of-filing-of-proposed-rule-change-to-add-a-new",
+  "reference_number": "2026-12411",
+  "published_date": "2026-06-22",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9be68d99283a604b018c7c8b934f612f41e599dc339b6e62857c77e8646ea51d",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12411",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

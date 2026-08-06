@@ -1,0 +1,53 @@
+# Suspicious Activity Reports Document Transactions by Defendant With Ties to Organized Crime Group, Possible Terrorism Financing
+
+[116.pdf](/system/files/case_example/116.pdf "116.pdf")
+(25.83 KB)
+
+An illegal alien pleaded guilty to stealing Social Security numbers, fabricating names, and swindling almost $2 million dollars from credit card companies.
+
+The defendant’s name surfaced in the course of an investigation into organized criminal activity. Suspicious Activity Reports document some of the most serious charges against the defendant.
+
+In late 2006, a federal judge sentenced the defendant to four years in prison for his role in a credit card fraud ring that bilked more than $1.7 million from credit card companies using stolen Social Security numbers and fictitious names. The judge indicated that the defendant, a Lebanese national, is an illegal alien who came into the United States from Mexico and has ordered him deported following the completion of his sentence.
+
+The defendant pleaded guilty earlier to conspiracy to commit credit card fraud and aggravated identity theft. The charges arose out of a search of his apartment by the Federal Bureau of Investigation during which agents discovered dozens of credit cards and identity profiles. They also seized mail from six different commercial mailboxes where the defendant received mail from credit card companies in fictitious names.
+
+Further investigation determined that the defendant obtained credit cards with the help of stolen Social Security numbers and fictitious names. In doing so, he was able to transfer balances, receive cash, and make purchases such as the $12,000 he supposedly used for hair implants.
+
+Three financial institutions filed SARs on the defendant citing check kiting and credit card fraud as the suspect activity. In addition to listing instances of the defendant passing bad checks, one SAR noted that the defendant had opened 13 accounts within a 24-month period and revolved funds totaling more than $70,000 on these accounts. Another SAR noted large funds transfers to Lebanon.
+
+(Investigating Agency: Federal Bureau of Investigation)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 12, October 2007]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+ID Crimes
+
+Depository Institutions
+
+Terrorism
+
+Check Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

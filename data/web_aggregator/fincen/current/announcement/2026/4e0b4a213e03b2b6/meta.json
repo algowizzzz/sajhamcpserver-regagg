@@ -1,0 +1,24 @@
+{
+  "doc_id": "4e0b4a213e03b2b6",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Suspicious Activity Reports Describe Marijuana Traffickers\u2019 Attempt to Wash, Dry, and Iron \u201cDirty\u201d Currency | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/suspicious-activity-reports-describe-marijuana-traffickers",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c903d1ead172c48715f62372b538c7149ca31512b62eb187d3afdbee7f948432",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/4e0b4a213e03b2b6",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

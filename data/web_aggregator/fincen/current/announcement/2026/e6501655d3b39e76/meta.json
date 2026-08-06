@@ -1,0 +1,24 @@
+{
+  "doc_id": "e6501655d3b39e76",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Identity Thief Receives Nearly 4 Years in Prison | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/identity-thief-receives-nearly-4-years-prison",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:85ed1375eccff1fc79f0aacd32e10cb14500b28ae41d34bab1be01de7d1d7f7a",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/e6501655d3b39e76",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

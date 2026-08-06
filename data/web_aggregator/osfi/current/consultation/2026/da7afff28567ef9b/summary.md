@@ -1,0 +1,1 @@
+Summary: # Consultation outcomes - OSFI Guideline Consequential Changes as a Result of IFRS 17

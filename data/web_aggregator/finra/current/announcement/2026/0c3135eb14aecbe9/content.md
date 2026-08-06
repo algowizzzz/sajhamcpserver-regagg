@@ -1,0 +1,170 @@
+Firm Element Focus
+June 2026
+Introduction
+The Securities Industry/Regulatory Council on Continuing Education 
+(Council) publishes the Firm Element Focus to assist industry 
+participants with identification of potential topics to include in Firm 
+Element training plans. Topics are identified from a review of industry, 
+regulatory and self-regulatory organization (SRO) announcements, 
+publications of significant events, the annual report from FINRA’s 
+Examination and Risk Monitoring Program, and the adoption by the U.S. 
+Securities and Exchange Commission (SEC or Commission) of new rules 
+or amendments. 
+The Council suggests that firms use the Firm Element Focus as an aid 
+in evaluating and prioritizing their Firm Element needs and developing 
+written training plans.
+Firms are reminded not to rely on the Firm Element Focus as a 
+comprehensive list of all areas they should consider. The Council 
+recommends using all available tools to make Firm Element planning as 
+efficient and effective as possible.
+
+New Releases 
+This section highlights new rules and amendments that FINRA firms may find useful 
+to train employees on as a part of their Firm Element training. 
+FINRA Adopts Amendments to Rule 3220 (Influencing or Rewarding Employees of 
+Others)
+As part of the FINRA Forward initiative, FINRA has adopted amendments to FINRA Rule 
+3220 (Influencing or Rewarding Employees of Others) to increase the gift limit from $100 
+to $300 per person per year; incorporate and substantially codify current guidance and 
+interpretations; and provide for exemptive relief. FINRA has also adopted conforming 
+amendments to raise the gift limit to $300 in Rule 2310 (Direct Participation Programs), 
+Rule 2320 (Variable Contracts of an Insurance Company), Rule 2341 (Investment 
+Company Securities) and Rule 5110 (Corporate Financing Rule – Underwriting Terms and 
+Arrangements). These amendments represent a significant step toward modernizing the 
+rules, while codifying existing guidance in a manner that will promote efficiency without 
+reducing protection for investors.
+The effective date of the amended rule is March 30, 2026.
+• FINRA Regulatory Notice 26-05 2/27/2026 (March 30, 2026): FINRA Adopts Amendments to 
+Rule 3220 (Influencing or Rewarding Employees of Others)
+Reducing Burdens and Providing Guidance on the Use of Negative Consent for the Bulk 
+Transfer or Assignment of Customers’ Accounts
+In furtherance of the FINRA Forward initiative to support member compliance, this Notice 
+reduces unnecessary burdens by eliminating the current practice of submitting draft letters 
+for the use of negative consent to FINRA staff for review and obtaining FINRA staff’s “no 
+objection” prior to sending the letter. In addition, the Notice consolidates guidance FINRA 
+previously issued regarding the use of negative consent and provides members with effective 
+practices to help guide their use of negative consent in future bulk transfers or assignments.
+The effective date of the amended rule is March 30, 2026.
+• FINRA Regulatory Notice 26-03 2/6/2026: Reducing Burdens and Providing Guidance on 
+the Use of Negative Consent for the Bulk Transfer or Assignment of Customers’ Accounts
+
+New Releases 
+Final Rule: Holding Foreign Insiders Accountable Act
+The SEC is adopting final amendments to certain of its rules and forms under the Securities 
+Exchange Act of 1934 to reflect the requirements of the Holding Foreign Insiders Accountable 
+Act. The HFIA Act amended Section 16(a) of the Exchange Act to require directors and officers 
+of a foreign private issuer with a class of equity securities registered under Section 12 of the 
+Exchange Act to provide disclosure of their beneficial ownership and transactions involving 
+the issuer’s equity securities.  The effective date for this amended rule is March 18, 2026.
+• Securities and Exchange Commission Final Rule 3/18/2026: Holding Foreign Insiders 
+Accountable Act Disclosure. 
+Upcoming Trade Reporting Enhancements for Fractional Share Transactions
+FINRA is reminding firms of upcoming updates to its equity trade reporting guidance in 
+connection with enhancements to the FINRA equity trade reporting facilities to support 
+reporting of fractional share quantities. Under the updated guidance, members engaged in 
+fractional share trading will be required to report fractional share quantities up to six digits 
+after the decimal. FINRA is also providing additional guidance for fractional share reporting in 
+circumstances involving fractional amounts smaller than six decimals.
+The effective date of the updated trade reporting guidance is February 23, 2026.
+• FINRA Trade Reporting Notice 1/14/26 (January 14, 2026): Upcoming Trade Reporting 
+Enhancements for Fractional Share Transactions
+FINRA Adopts Amendments to Rule 6730 (Transaction Reporting) to Streamline 
+Allocation Reporting for BD/IAs
+FINRA has amended its TRACE reporting requirements to permit a firm that is both a broker-
+dealer and an investment adviser to report allocations of specified orders to managed 
+customer accounts in a streamlined, aggregated manner. These amendments become 
+effective on June 8, 2026. FINRA is not otherwise changing its TRACE reporting requirements. 
+• FINRA Regulatory Notice 25-17 (December 04, 2025): FINRA Adopts Amendments to Rule 
+6730 (Transaction Reporting) to Streamline Allocation Reporting for BD/IAs
+
+Topic Spotlight 
+The Firm Element Committee would like to spotlight the following topics. 
+Crypto Assets: Continuing and Emerging Trends
+Federal Securities Laws and Crypto Assets
+In March 2026, the SEC and Commodity Futures Trading Commission (CFTC) jointly issued 
+an interpretation clarifying how the federal securities laws apply to certain crypto assets 
+and transactions involving crypto assets. This is a major step in the Commission’s efforts 
+to provide greater clarity regarding the Commission’s treatment of crypto assets and 
+complements Congressional endeavors to codify a comprehensive market structure 
+framework into statute. The CFTC joined in the Release to provide guidance that the CFTC 
+and its staff will administer the Commodity Exchange Act (CEA) consistent with the SEC’s 
+interpretation.
+• 2026 SEC Interpretive Release: Application of the Federal Securities Laws to Certain 
+Types of Crypto Assets and Certain Transactions Involving Crypto Assets.  Securities Act 
+Release No. 33–11412, Exchange Act Release No. 34–105020 (Mar. 17, 2026)2026 CBOE 
+Regulatory Circular 26-006 03/12/2026: Position and Exercise Limits for Options on 
+Crypto Assets
+Tokenized Securities
+The SEC’s the Division of Corporation Finance, Division of Investment Management, and 
+Division of Trading and Markets are providing their views on the taxonomies associated with 
+tokenized securities. There are a variety of models used to tokenize securities and they vary 
+in terms of structure and the rights afforded to holders. Tokenized securities generally fall 
+into two categories: (1) securities tokenized by or on behalf of the issuers of such securities; 
+and (2) securities tokenized by third parties unaffiliated with the issuers of such securities. 
+This statement is intended to assist market participants as they seek to comply with the 
+federal securities laws.
+• 2026 SEC Statement on Tokenized Securities (Jan 28, 2026): Division of Corporation 
+Finance, Division of Investment Management, Division of Trading and Markets
+
+Key Dates
+This section provides upcoming effective dates and recently implemented dates.
+FINRA Adopts Amendments to Rule 6730 (Transaction Reporting) to Streamline 
+Allocation Reporting for BD/IAs
+FINRA has amended its TRACE reporting requirements to permit a firm that is both a broker-
+dealer and an investment adviser to report allocations of specified orders to managed 
+customer accounts in a streamlined, aggregated manner. These amendments will take effect 
+on June 8, 2026. FINRA is not otherwise changing its TRACE reporting requirements. 
+• FINRA Adopts Amendments to Rule 6730 (Transaction Reporting to Streamline Allocation 
+Reporting for BD/IAs
+FINRA Adopts Amendments to Extend the Trade Reporting Facilities Operating Hours 
+FINRA has adopted amendments to Rules 6380A and 6380B to extend the operating hours 
+of the FINRA Trade Reporting Facilities from opening at 8:00 a.m. Eastern Time to opening at 
+4:00 a.m. Eastern Time each business day. These amendments will take effect on March 30, 
+2026. 
+These amendments become effective on March 30, 2026.
+• FINRA Regulatory Notice 25-15 (November 13, 2025): FINRA Adopts Amendments to Rule 
+6730 (Transaction Reporting) to Streamline Allocation Reporting for BD/IAs
+Regulation S-P: Privacy of Consumer Financial Information and Safeguarding Customer 
+Information 
+The SEC is adopting rule amendments that will require brokers and dealers (or “broker-
+dealers”), investment companies, investment advisers registered with the Commission 
+(“registered investment advisers”), funding portals, and transfer agents registered with the 
+Commission or another appropriate regulatory agency (“ARA”) as defined in the Securities 
+Exchange Act of 1934 (“transfer agents”) to adopt written policies and procedures for incident 
+response programs to address unauthorized access to or use of customer information, 
+including procedures for providing timely notification to individuals affected by an incident 
+involving sensitive customer information with details about the incident and information 
+designed to help affected individuals respond appropriately. In addition, the amendments
+
+Key Dates
+extend the application of requirements to safeguard customer records and information 
+to transfer agents; broaden the scope of information covered by the requirements for 
+safeguarding customer records and information and for properly disposing of consumer 
+report information; impose requirements to maintain written records documenting 
+compliance with the amended rules; and conform annual privacy notice delivery provisions 
+to the terms of an exception provided by a statutory amendment to the Gramm-Leach-Bliley 
+Act (“GLBA”).
+The amendments became effective on August 2, 2024. The compliance date was December 3, 
+2025 for larger firms and is June 3, 2026 for smaller firms.
+• SEC Release Nos. 34-100155; IA-6604; IC-35193; File No. S7-05-23 (June 2, 2024): 
+Regulation S-P: Privacy of Consumer Financial Information and Safeguarding Customer 
+Information
+
+Additional Resources
+• For more information visit the cecouncil.com website or contact cecounciladmin@
+cecouncil.org.
+• For CE Transformation and Firm Element Resources, please visit CE Transformation New 
+Resources.
+• FINRA and the CE Council publish Regulatory Element, in part, to help firms coordinate 
+their overall training programs with the Regulatory Element. Click here to view Regulatory 
+Element Learning Plans for 2026.
+• For FINRA compliance resources on issues affecting the securities industry, please visit 
+FINRA Key Topics page.
+• For insight into FINRA’s findings into recent oversight activities of FINRA’s Member 
+Supervision, Market Regulation and Enforcement programs, please visit the Report on 
+FINRA’s Examination and Risk Monitoring Program.
+• For the SEC’s priorities of examinations of certain practices, products and services, please 
+see The Division of Examinations report.
+• For more insight into FINRA’s current regulatory priorities, active rule filings and recently 
+approved or immediately effective rule filings, please review FINRA’s Quarterly Regulatory 
+Policy Agenda.

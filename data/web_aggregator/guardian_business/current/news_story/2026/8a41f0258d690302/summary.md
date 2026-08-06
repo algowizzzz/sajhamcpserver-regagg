@@ -1,0 +1,1 @@
+Summary: # BP boss is unsentimental in pruning portfolio and clear on North Sea advice to Burnham | Nils Pratley

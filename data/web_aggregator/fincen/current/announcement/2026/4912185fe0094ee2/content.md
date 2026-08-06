@@ -1,0 +1,47 @@
+# SAR Jump-Starts Investigation into Natural Resources Ponzi Scheme
+
+[Issue15-story3.pdf](/system/files/case_example/Issue15-story3.pdf "Issue15-story3.pdf")
+(9.7 KB)
+
+A purported entrepreneur convinced scores of individuals to invest in ventures and businesses supposedly related to the extraction of natural resources that were, in reality, part of a sophisticated Ponzi scheme. The defendant followed a familiar pattern evident in such schemes: paying earlier investors with funds from new investors as well as keeping a substantial amount for himself. When victims first complained about the defendant, law enforcement had little information on him and few leads. Around the same time that victims were contacting law enforcement, a financial institution also filed a SAR on a suspect transaction. When victims made subsequent complaints, agents located the SAR and launched a full-scale investigation that resulted in an arrest within a few months.
+
+The scheme ran for about 5 to 6 years, with the defendant generally promising to double investors’ money within one year. In all, he raised about $10 million from about 100 investors. The defendant memorialized the investors’ loans in a series of promissory notes and security agreements, in which he pledged as collateral the various natural resources to be extracted from property that he leased. He flagrantly overstated the value of the collateral as he tried to induce prospective investors. Contrary to his promises that he would use the funds for various business-related purposes, he in fact used a substantial portion of the money he raised to make partial payments to earlier investors and to support a lavish personal lifestyle.
+
+The defendant was arrested and charged in the scheme and while on pre-trial release improperly tried to solicit more money from investors. All together, three banks where the defendant held accounts filed SARs on suspicious transactions. Many of the transactions listed in the SARs directly led to the charges included in the complaint and indictment. The SARs describe how the defendant frequently asked his investors to write checks to third parties, claiming that they were only to show new investors that the ventures had financial backing. However, the defendant frequently cashed or deposited these checks.
+
+A federal judge sentenced the defendant to more than 10 years in prison following his guilty plea to counts of mail fraud, wire fraud, bank fraud, and money laundering. The presiding judge ordered that he serve five years of supervised release following completion of his prison term and pay restitution totaling almost $10 million.
+
+---
+
+[Published in The SAR Activity Review - Trends, Tips & Issues, Issue 15, May 2009]
+
+Tags
+
+Money Laundering
+
+Involving SARs
+
+Fraud
+
+Schemes and Scams
+
+Depository Institutions
+
+Check Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

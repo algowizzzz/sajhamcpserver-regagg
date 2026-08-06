@@ -1,0 +1,24 @@
+{
+  "doc_id": "6b3592fdb120bf21",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "SARs Assist in Conviction of Pharmacist | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/sars-assist-conviction-pharmacist",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0501bce1261ed140506eff63338c65753ec05fa1a0a363abd96c12d383c71156",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/6b3592fdb120bf21",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "3fb67ea9d0be200e",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Cadre de r\u00e9glementation des soci\u00e9t\u00e9s d\u2019assurance-vie | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/surveillance/institutions-financieres/cadre-reglementation-societes-dassurance-vie",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3a96941afa31fa8dd3a44784e4124cdc7bee16e78490e1a08530fb0aa5d65158",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/3fb67ea9d0be200e",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

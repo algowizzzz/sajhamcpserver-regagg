@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13192",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Assessments Thresholds, Rate Schedules, and Adjustments",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/30/2026-13192/assessments-thresholds-rate-schedules-and-adjustments",
+  "reference_number": "2026-13192",
+  "published_date": "2026-06-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:86c53e060d39b9eba5c4a3b2cc42a128d7314e0ac3bdb042889b113bb3cc940b",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13192",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

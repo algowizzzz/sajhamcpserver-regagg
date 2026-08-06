@@ -1,0 +1,25 @@
+{
+  "doc_id": "0a44aaae364c6128",
+  "regulator_id": "nyt_business",
+  "doc_type": "news_story",
+  "title": "Trump\u2019s \u2018Perimeter of a Deal\u2019 Rallies the Market",
+  "language": "en",
+  "source_url": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
+  "reference_number": null,
+  "published_date": "2026-08-03",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6065cd87bd62be08a348130aff82aef2c13caba2efd52202b1c0fef9bb9f5686",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nyt_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nyt_business/current/news_story/2026/0a44aaae364c6128",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
+  "fetch_method": "feed_summary"
+}

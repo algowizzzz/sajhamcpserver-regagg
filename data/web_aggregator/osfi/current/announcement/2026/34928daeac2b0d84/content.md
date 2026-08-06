@@ -1,0 +1,31 @@
+# OSFI-596 - Return of Fiscal Year End Change
+
+**Type of Publication:** Instructions  
+**Date:** 2016 Revision
+
+## Authority
+
+The information provided in the Return is required pursuant to one or more of the following provisions: sections 628 and 950 of the *Bank Act*, section 495 of the *Trust and Loan Companies Act,* sections 664 and 993 of the *Insurance Companies Act*, or section 431 of the *Cooperative Credit Associations Act*.
+
+## Applicability
+
+This Return is for completion by all Canadian financial institutions subject to Governing Legislation as well as all Foreign Bank branches, foreign insurance company branches, Foreign Representative Offices and Private Pension Plans.
+
+## General
+
+The purpose of this return is to advise OSFI of any fiscal year end date change that occurs within your institution.  This is **not** an annual return and should only be used if this type of change occurs.  The submission of this return within the Regulatory Reporting System (RRS) also requires an OSFI acceptance.
+
+All required information must be entered on the Return, even if some of it was previously communicated verbally or in writing to OSFI through other channels (for example, at a meeting with the Relationship Manager or within the filing of a By-Law amendment). The information must be provided on the completed Returns in order to be captured by OSFI’s data management systems.
+
+RRS resubmissions are not permitted for this return type. If you identify errors in your profile, you are required to call Returns Administration in order to correct the error(s). This includes changes to existing effective dates.
+
+This return is not subject to the Late and Erroneous Filing Penalty (LEFP) Framework.
+
+## Filing Deadlines
+
+The return should be filed no later than 30 days after the effective date of change.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2016-01-29

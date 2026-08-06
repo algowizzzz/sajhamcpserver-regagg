@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14540",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Modernization of Delegations of Authority to Commission Staff",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14540/modernization-of-delegations-of-authority-to-commission-staff",
+  "reference_number": "2026-14540",
+  "published_date": "2026-07-20",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c5771783f9b2a9325b6c2b83ccb11f4b087d5d245565bb4aea1f6452de8d0f4a",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14540",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

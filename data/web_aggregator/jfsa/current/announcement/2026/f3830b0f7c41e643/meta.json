@@ -1,0 +1,25 @@
+{
+  "doc_id": "f3830b0f7c41e643",
+  "regulator_id": "jfsa",
+  "doc_type": "announcement",
+  "title": "https://www.fsa.go.jp/news/r8/sonota/20260717/02.pdf",
+  "language": "en",
+  "source_url": "https://www.fsa.go.jp/news/r8/sonota/20260717/02.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3a207f9167237c678445fd0c03e84288a8d0d4a95bdc094990425bbc56f6f366",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_jfsa_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/jfsa/current/announcement/2026/f3830b0f7c41e643",
+  "tags": [
+    "japan",
+    "banking",
+    "securities"
+  ]
+}

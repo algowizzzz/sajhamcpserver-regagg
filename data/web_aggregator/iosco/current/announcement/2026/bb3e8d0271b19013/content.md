@@ -1,0 +1,158 @@
+22QHW
+'R\RXVHHDULVNRIZHDNHQLQJLQWHUQDWLRQDOUHJXODWRU\
+FRRSHUDWLRQ":KDWFRQFUHWHULVNVFRXOGWKLVSRVHIRU
+QDQFLDOVWDELOLW\"
+History has shown that risks always emerge when cooperation 
+weakens and, in that context, I am particularly mindful of the 
+beneﬁts of working together internationally.
+Regulatory fragmentation is a challenge for investor protection 
+and market integrity, which are core to IOSCO’s mandate, 
+but also to market participants themselves. For example, 
+diverging rules on market structures could lead to liquidity 
+fragmentation, which in turn increases the cost of capital for 
+issuers and reduces price discovery efficiencies. 
+That said, there is no need for alarmism. I see strong 
+engagement at all levels and a desire for ongoing regulatory 
+cooperation. There remains a clear and pragmatic 
+recognition among regulators that the “plumbing” of global 
+ﬁnance must remain interoperable and a view that ﬁnancial 
+stability is a shared public good. Global standard setting 
+has helped us weather recent ﬁnancial stresses. In the next 
+phase of work, we must dedicate increasing attention to 
+facilitating the consistent and eﬀective implementation 
+of agreed standards. At the same time, we must further 
+strengthen our capacity to identify and assess emerging 
+vulnerabilities and stand ready to address new risks.  It is also 
+appropriate to consider how to modernise and strengthen 
+the existing framework for ﬁnancial market regulation 
+to support resilient growth, without compromising  
+ﬁnancial stability.
+As jurisdictions, including here in the European Union, 
+modernise their regulatory frameworks to reflect 
+digitalisation and evolving market structures, the key 
+challenge will be to support innovation while continuing 
+to strive for regulatory outcomes that are compatible, even 
+if not identical and anchored in common principles and 
+continued multilateral dialogue.
+FXOW
+HFWLYHLQ
+SUDFWLFHIRUVXVWDLQLQJLQWHUQDWLRQDOFRRSHUDWLRQ"
+:KHUHGR\RXVHHWKHPDLQOLPLWVWRGD\"
+Experience shows that international cooperation does not 
+depend on identical rules; it depends on shared objectives and 
+practical interoperability.
+This is why outcomes-based standards have proven particularly 
+resilient, even in periods of regulatory divergence. When 
+jurisdictions align around common regulatory outcomes — 
+such as market integrity, investor protection, or ﬁnancial 
+stability — they retain ﬂexibility in implementation while 
+preserving cross-border compatibility. That ﬂexibility is often 
+what makes cooperation sustainable.
+IOSCO standards are the outcome of the collective wisdom 
+of our membership. Proportionality and adaptability to the 
+realities of our member jurisdictions are the key features of 
+IOSCO. Indeed, IOSCO membership includes both developed 
+and emerging markets and is based on an inclusive process. 
+Engagement with external stakeholders through various forms 
+of ad hoc or institutional consultations (e.g. using our Affiliate 
+Members Consultative Committee) is part of our DNA.
+Moreover, IOSCO standards and recommendations have 
+always been designed as non-binding. Due to the fact that we 
+are working on a consensus basis, there is a clear buy-in for 
+their faithful implementation in our member jurisdictions, 
+taking into account local speciﬁcities. The engagement we 
+have with the Financial Stability Board (FSB) reinforces our 
+work further.
+At the same time, supervisory cooperation among our 
+members remains fundamental. IOSCO’s Multilateral 
+Memorandum of Understanding (MMoU), with over 130 
+signatories, has been a pillar of cross-border enforcement 
+cooperation between regulators for over two decades. 
+Fostering international consensus and 
+consistency through IOSCO 2026 priorities
+Q&A
+JEAN-PAUL SERVAIS   
+&KDLU,26&2	&KDLUPDQ)60$
+OPENING INTERVIEWS
+
+QHW_1LFRVLD_7KH(852),0DJD]LQH_9,(:6_23
+It enables timely information sharing and enforcement 
+assistance and has signiﬁcantly strengthened regulators’ 
+ability to address misconduct that spans jurisdictions. In 
+most jurisdictions, investigations into market abuse or 
+other misconduct entail a cross-border dimension in a large 
+proportion of the cases. The IOSCO MMoU constitutes thus 
+an eﬀective tool to ensure compliance with securities laws 
+and to combat cross-border ﬁnancial crime.
+We are focused on ensuring that this framework continues 
+to evolve in step with markets and innovations, including 
+in emerging areas such as digital assets, so that cooperation 
+remains eﬀective as market structures change.
+We are continuing our eﬀorts more broadly on this and 
+supervisory cooperation more generally with our ‘I-SCAN’ 
+Enhanced Investor Alerts Portal, which provides a global 
+database to stop fraudulent actors. 
+As for the limits, cooperation ultimately relies on mutual 
+trust, robust enforcement, and sustained engagement. Mutual 
+recognition and outcomes-based approaches can only function 
+where there is conﬁdence in supervisory capacity and a shared 
+commitment to implementation. We aim to continue acting as 
+a forum for jurisdictions to meet these objectives. 
+:KDWDUHWKHDUHDVZKHUHULVNVRIUHJXODWRU\
+GLYHUJHQFHDSSHDUSDUWLFXODUO\DFXWH":KDWGR
+\RXVHHDVWKHPLQLPXPOHYHORILQWHUQDWLRQDO
+FRQVLVWHQF\WKDWVKRXOGEHSUHVHUYHGLQWKHVHDUHDV"
+In ﬁnancial markets, the objective is not uniformity for its 
+own sake as every jurisdiction will have its speciﬁcities, but the 
+preservation of a clear global baseline. This is at the core of 
+what IOSCO does. IOSCO serves as global standard setter. It 
+acts as a bridge-builder, by providing global solutions to global 
+challenges to ﬁnancial markets. 
+All the new technological developments in the ﬁeld of ﬁnance 
+are not constrained to any single jurisdiction. So, we have a 
+role to play. The question is: what is our role? 
+In my view, at a minimum, international consistency should 
+ensure three things: ﬁrst, that investors receive decision-
+useful, reliable information; second, that similar risks are 
+treated in a similar manner; and third, that core safeguards 
+around governance, risk management and conﬂicts of interest 
+are maintained.
+When it comes to crypto and digital assets, we have moved 
+beyond designing global regulatory recommendations, to a 
+phase of promoting active implementation of these standards.  
+In 2026, we will advance our crypto-asset roadmap by ﬁnalising 
+a formal methodology to assess how our recommendations 
+on crypto-assets are being implemented by our  
+global membership.
+If we preserve alignment on those core features (i.e. 
+transparency, risk management, market integrity and 
+supervisory cooperation), jurisdictions can innovate within 
+their own frameworks without fragmenting the global system. 
+This is what we will aim to do this year with our work on 
+artiﬁcial intelligence, where we plan on exploring issues 
+of governance and disclosures by ﬁrms and where we are 
+developing a toolkit for supervisors who oversee ﬁrms that use 
+artiﬁcial intelligence. 
+This is also closely related to the issue of ﬁnancial health in a 
+digitized world, which is a topic that remains a signiﬁcant G20 
+priority.  Digital ﬁnance has opened capital markets to millions 
+of retail investors. it can genuinely help households to save and 
+invest more eﬀectively. 
+But retail investors are increasingly exposed to fraud schemes 
+elaborated with the help of AI and propagated on large online 
+platforms and social media. We also see behavioral risks 
+ampliﬁed by gamiﬁcation techniques, exposure to misleading 
+online advice and scams, and algorithmic biases in robo-advice 
+or automated ﬁnancial recommendations. 
+Clearly, we need to educate retail investors to strengthen their 
+critical judgment. For regulators, this means our traditional 
+investor-protection lens m ust broaden. Financial resilience 
+today is not just about access to markets. It is about building 
+strong safeguards in a digital environment to ensure that 
+trust remains.
+This why we worked on recommendations for the regulation of 
+neobrokers, of digital engagement practices and of ﬁnﬂuencers.  
+These reports reﬂect the experience of our members, because 
+only a truly global analysis can give the global perspective of 
+how interconnected markets operate.
+Q&A JEAN-PAUL SERVAIS

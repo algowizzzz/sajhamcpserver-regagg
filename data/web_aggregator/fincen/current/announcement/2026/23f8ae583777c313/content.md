@@ -1,0 +1,37 @@
+# SAR Filing Uncovers Investment Fraud Scheme
+
+[065.pdf](/system/files/case_example/065.pdf "065.pdf")
+(18.06 KB)
+
+The submission of a SAR filing led to the uncovering of a $28 million investment fraud scheme in which approximately 140 individuals were victimized. The subject convinced the victims/investors that he was a successful businessman who operated many highly profitable business ventures. The subject would make periodic payments to some investors using monies paid to him by other investors. He also provided false and misleading reports to the victims/investors about the performance of their investments. In fact, the subject used the monies paid to him by the investors to support his lavish lifestyle, gambling, and speculative stock trades. The subject pled guilty to mail fraud and engaging in monetary transactions in property derived from specified unlawful activity. He is awaiting sentencing.
+
+(Source: U.S. Attorney’s Office, Northern District of California)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 1, October 2000]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Schemes and Scams
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

@@ -1,0 +1,143 @@
+# 2023 to 2027 Departmental Sustainable Development Strategy
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[![](/images/download.png)
+
+2023 to 2027 Departmental Sustainable Development Strategy (PDF, 762 KB)](dsds-smdd-eng.pdf)
+
+## On this page
+
+* [Introduction to the Departmental Sustainable Development Strategy](#s1)
+* [FINTRAC's sustainable development vision](#s2)
+* [Listening to Canadians](#s3)
+* [FINTRAC's commitments](#s4)
+* [Integrating sustainable development](#s5)
+
+## Introduction to the Departmental Sustainable Development Strategy
+
+The [2022 to 2026 Federal Sustainable Development Strategy (FSDS)](https://www.fsds-sfdd.ca/en) presents the Government of Canada's sustainable development goals and targets, as required by the [Federal Sustainable Development Act](http://laws-lois.justice.gc.ca/eng/acts/F-8.6/index.html). This is the first FSDS to be framed using the 17 Sustainable Development Goals (SDGs) of the United Nations 2030 Agenda and provides a balanced view of the environmental, social and economic dimensions of sustainable development.
+
+In keeping with the purpose of the Act, to make decision-making related to sustainable development more transparent and accountable to Parliament, the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) supports the goals laid out in the FSDS through the activities described in this Departmental Sustainable Development Strategy (DSDS).
+
+The [Federal Sustainable Development Act](https://laws-lois.justice.gc.ca/eng/acts/F-8.6/index.html) also sets out [7 principles](https://laws-lois.justice.gc.ca/eng/acts/F-8.6/page-1.html#h-240618) that must be considered in the development
+of the FSDS, as well as DSDSs. These basic principles have been considered and incorporated in FINTRAC's DSDS.
+
+To promote coordinated action on sustainable development across the Government of Canada, this departmental strategy integrates efforts to advance Canada's implementation of the 2030 Agenda National Strategy, supported by the Global Indicator Framework (GIF) and Canadian Indicator Framework (CIF) targets and indicators. The strategy also now captures SDG initiatives that fall outside the scope of the FSDS to inform the development of Canada's Annual Report on the 2030 Agenda and the SDGs.
+
+## FINTRAC's sustainable development vision
+
+FINTRAC is committed to advancing greening government actions and supports the 2022 to 2026 Federal Sustainable Development Strategy goals through training and awareness. FINTRAC is moving forward with plans to reduce paper use and establish electronic processes for delivering information in conjunction with its overall review of guidelines and processes. FINTRAC staff utilize videoconferencing and online meetings, whenever possible, in place of travel, and FINTRAC will continue to seek ways to limit negative environmental effects of its activities.
+
+## Listening to Canadians
+
+As required by the Federal Sustainable Development Act, FINTRAC has taken into account comments on the draft 2022-2026 FSDS made during the public consultation held from March 11 to July 9, 2022. During the public consultation, more than 700 comments were received from a broad range of stakeholders, including governments, Indigenous organizations, non-governmental organizations, academics, businesses, and individual Canadians in different age groups and of various backgrounds. The draft FSDS was also shared with the appropriate committee of each House of Parliament, the Commissioner of the Environment and Sustainable Development, and the Sustainable Development Advisory Council for their review and comment.
+
+### What we heard
+
+Across the submissions received, FINTRAC identified sustainable development priorities and issues that affect us. In particular, FINTRAC noted comments regarding the inclusion of a target on the implementation of the United Nations Declaration on the Rights of Indigenous Peoples Act, as well as additional milestones and implementation strategies on support for UNDRIP and reconciliation with Indigenous peoples. Additionally, FINTRAC noted that Canadians called for investments in long-term climate change solutions and that data availability and education on climate change impacts and related adaptation measures were cited as integral to educating and incentivizing businesses and individuals to transition to more climate-friendly practices.
+
+### What we did
+
+FINTRAC took the above-mentioned key priorities and issues into consideration in this DSDS by including a commitment related to the United Nations Declaration on the Rights of Indigenous Peoples Act, as well as continuing to implement the Green Government Strategy to help reduce greenhouse gas emissions, improve climate resilience, and green the government's overall operations.
+
+Please find more information on the FSDS public consultation and its results in the [FSDS Consultation Report](https://www.fsds-sfdd.ca/en/listening-to-canadians)
+
+## FINTRAC's commitments
+
+![Image depicts the 17 Sustainable Development Goals of the United Nations 2030 Agenda using icons. FINTRAC’s commitments are highlighted using colour for goals 5 (gender equality), 10 (reduced inequalities), 12 (responsible consumption and production), 13 (climate action), and 15 (life on land). ](images/dsds-eng.png)
+
+### Goal 5: Champion gender equality
+
+**FSDS context:** Project Protect, first launched in 2016, is a unique public-private sector partnership that targets human trafficking for the purposes of sexual exploitation by focusing on the money laundering aspect of the crime. This innovative initiative has helped to protect some of Canada's most vulnerable individuals and to make the fight against human trafficking in the sex trade a collective priority. Based on its analysis of sample transactions related to this crime, FINTRAC found that females were the majority of victims in human trafficking for sexual exploitation. FINTRAC provides disclosures of actionable financial intelligence to Canada's municipal, provincial and federal police forces in support of their human trafficking investigations. By following the money, investigators have been able to identify perpetrators and protect their victims. As the first of its kind in the world, Project Protect has garnered significant international interest and is a leading example of how working with the private sector to address human trafficking can be successful. FINTRAC has also updated its "Methods to verify the identity of persons and entities" guidance to help prevent the re-victimization of survivors of human trafficking and other vulnerable populations without identification by facilitating their access to basic banking services and products that are so fundamental to daily life.
+
+#### Initiatives advancing Canada's implementation of SDG 5 – Gender equality
+
+The following initiative demonstrates how FINTRAC's programming supports the 2030 Agenda and the SDGs, supplementing the information outlined above.
+
+| Planned initiative | Associated domestic targets or ambitions and/or global targets |
+| --- | --- |
+| FINTRAC will continue to promote education and awareness of its published [money laundering indicators](/intel/operation/oai-hts-2021-eng) in support of Project Protect to assist reporting entities in recognizing financial transactions suspected of being related to the laundering of proceeds associated to human trafficking for sexual exploitation. Through financial transaction reports, FINTRAC is able to facilitate the detection, prevention and deterrence of all stages of money laundering (placement, layering and integration) and the financing of terrorist activities by providing actionable financial intelligence disclosures to law enforcement and national security agencies. | **Relevant targets or ambitions:**  GIF Target: **5.2** – Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation |
+| FINTRAC will continue to promote education and awareness of the published [guidance](/guidance-directives/client-clientele/Guide11/11-eng#s6) for financial institutions in relation to identifying vulnerable clients, including survivors of human trafficking for sexual exploitation, who may not have proper identification documentation or information to open a retail deposit account. The financial identity and/or banking products of survivors of human trafficking for sexual exploitation are often hijacked by their traffickers for money laundering or other criminal purposes. Developed in collaboration with the Financial Consumer Agency of Canada and Canada's banks, under the umbrella of the global Finance Against Slavery and Trafficking Survivor Inclusion Initiative, the guidance—the first-of-its-kind in the world—will help to prevent the re-victimization of the survivors of this appalling illicit activity by facilitating their access to basic banking services and products that are so fundamental to daily life. |
+
+### Goal 10: Advance reconciliation with Indigenous peoples and take action on inequality
+
+**FSDS context:** FINTRAC will continue to undertake actions to implement the Call to Action on Anti-racism, Equity and Inclusion in the Public Service and combat racism, bolster diversity and equity, while fostering inclusion. The Centre will continue to take deliberate actions and engage in meaningful dialogue in line with its core values to improve the status quo, to foster an inclusive culture, to deliver transformative change and to create lasting impacts for Indigenous people, and other equity-seeking groups.
+
+**Target theme:** Advancing reconciliation with First Nations, Inuit, and the Métis communities
+
+**Target:** Between 2023 and 2026, and every year on an ongoing basis, develop and table annual progress reports on implementing the United Nations Declaration on the Rights of Indigenous Peoples Act (Minister of Justice and Attorney General of Canada)
+
+| Implementation strategy | Departmental action | Performance indicator  Starting point  Target | How the departmental action contributes to the FSDS goal and target and, where applicable, to Canada’s 2030 Agenda National Strategy and SDGs |
+| --- | --- | --- | --- |
+| Implement the United Nations Declaration on the Rights of Indigenous Peoples Act | Support the Government of Canada’s commitment that a mandatory minimum target of 5% of the total value of contracts is awarded to Indigenous businesses  **Program:**  Internal Services | **Performance indicator:** Percentage of FINTRAC’s total contract value awarded to Indigenous businesses  **Starting point:**  In 2021-22, 6.4% of FINTRAC’s total value of contracts was awarded to Indigenous businesses  **Target:**  5% by March 31, 2025 | FINTRAC’s standard practice is to invite a minimum of one Indigenous supplier to bid on all professional services requests for proposal to provide ongoing opportunities to Indigenous businesses.  **Relevant targets or ambitions:**   GIF Target: **10.3** Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard. |
+
+**Target theme:** Taking action on inequality
+
+**Target:** Each year, the federal public service meets or surpasses the workforce availability for women, Indigenous persons, persons with a disability, and members of a visible minority (President of the Treasury Board)
+
+| Implementation strategy | Departmental action | Performance indicator  Starting point  Target | How the departmental action contributes to the FSDS goal and target and, where applicable, to Canada’s 2030 Agenda National Strategy and SDGs |
+| --- | --- | --- | --- |
+| Implement the 50 – 30 Challenge | FINTRAC will continue to prioritize initiatives and programs that improve access for employment equity and equity seeking groups to positions of influence and leadership on committees and in senior management, as well as to achieve diversity, inclusion and equality in the workplace.  **Program:** Internal Services | **Performance indicator:** Percentage of FINTRAC’s internal committees that have achieved the objectives outlined, a minimum of 30% of under-represented groups, including racialized persons and members of the LGBTQ2.  **Starting point:** In 2021-22, 17% of FINTRAC’s internal committees had achieved at least 30% of under-represented groups, including racialized persons and members of the LGBTQ2.  **Target:** 75% by March 31, 2026 | FINTRAC is committed to increasing the representation and inclusion of diverse groups within its workplace. The 50 – 30 Challenge is an initiative co-created by the Government of Canada that aims to attain gender parity and significant representation (at least 30%) of under-represented groups, including racialized persons and members of the LGBTQ2 community, on committees and senior management positions to build a more diverse, inclusive, and vibrant economic future for Canadians.  **Relevant targets or ambitions:**  GIF Target: **10.2** By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status |
+| Mandatory training curriculum on employment equity and equity-seeking groups | Implement mandatory employment equity, diversity, and inclusion-related learning path for employees, with additional modules for managers, to increase awareness/knowledge as well as to break down the barriers and reduce biases. | **Performance indicator:** Percentage of compliance with training on mandatory Employment Equity, Diversity and Inclusion (EEDI) learning path.  **Starting point:**   The mandatory curriculum will be introduced in 2023-24.  **Target:** 100% by March 31, 2026 | FINTRAC is committed to increasing the representation and inclusion of diverse groups within its workplace. This training curriculum will prominently feature a number of courses related to EEDI, such as courses on bridging the diversity gap, systemic racism and racial discrimination, unconscious bias, and reflecting on cultural bias – Indigenous perspectives. The Centre is investing in developing an inclusive mindset and in establishing a sense of belonging and trust for all employees, as well as those joining the organisation now and in the future, regardless of race, ethnicity, sex, age, disability, sexual orientation or gender expression.  **Relevant targets or ambitions:**  GIF Target: **10.2** By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status |
+
+### Goal 12: Reduce waste and transition to zero-emission vehicles
+
+**FSDS context:** FINTRAC will support the goal of reducing waste through procurement and operational practices that take into account environmental considerations and support new and innovative environmentally friendly technologies. FINTRAC will reduce the environmental impacts of government operations, promote environmental stewardship, and adapt to climate change by integrating environmental considerations in its procurement process. When hosting events, FINTRAC will collaborate with venue representatives to ensure the carbon-footprint of the venue, food and food-waste, paper and plastic consumption, and waste-related emissions align with the objectives to reduce as much waste per participant as possible.
+
+**Target theme:** Federal Leadership on Responsible Consumption
+
+**Target:** The Government of Canada’s procurement of goods and services will be net-zero emissions by 2050, to aid the transition to a net-zero, circular economy (All Ministers)
+
+| Implementation strategy | Departmental action | Performance indicator  Starting point  Target | How the departmental action contributes to the FSDS goal and target and, where applicable, to Canada’s 2030 Agenda National Strategy and SDGs |
+| --- | --- | --- | --- |
+| Strengthen green procurement criteria | Ensure all procurement and materiel management specialists are trained in green procurement (such as, the Canada School of Public Service course on green procurement, or equivalent) within one year of being identified  **Program:** Internal Services | **Performance indicator:** Percentage of procurement and materiel management specialists trained in green procurement within one year of being identified  **Starting point:** In 2022-23, 100% of procurement and materiel management specialists trained in green procurement  **Target:** 100% of procurement officers and material management specialists receive training within one year of being identified. | Green procurement incorporates environmental considerations into purchasing decisions and is expected to motivate suppliers to reduce the environmental impact of the goods and services they deliver, and their supply chains.  **Relevant targets or ambitions:**  CIF Ambition: Canadians consume in a sustainable manner  CIF Indicator: **12.2.1** Proportion of businesses that adopted selected environmental protection activities and management practices  GIF Target: **12.7** Promote public procurement practices that are sustainable, in accordance with national policies and priorities |
+
+### Goal 13: Take action on climate change and its impacts
+
+**FSDS context:** Recognizing that climate change will have unavoidable impacts, FINTRAC will work with its partners at Public Services and Procurement Canada and Shared Services Canada to understand and assess the possible effects of a changing climate on its operations. As part of business planning, FINTRAC will consider climate change impacts in its planning and investments, and identify opportunities to ensure that its operations are resilient to the anticipated impacts of climate change. FINTRAC will also seek to reduce greenhouse gas emissions from its operations and from business travel, including its Compliance examinations which are now a mixture of virtual, hybrid and on-site. When a hybrid option is made available, FINTRAC will consider if presenting to conferences and/or conducting outreach activities virtually is most appropriate.
+
+**Target theme:** Federal Leadership on Greenhouse Gas Emissions Reductions and Climate Resilience
+
+**Target:** The Government of Canada will transition to net-zero carbon operations for facilities and conventional fleets by 2050 (All Ministers)
+
+| Implementation strategy | Departmental action | Performance indicator  Starting point  Target | How the departmental action contributes to the FSDS goal and target and, where applicable, to Canada’s 2030 Agenda National Strategy and SDGs |
+| --- | --- | --- | --- |
+| Implement the Greening Government Strategy through measures that reduce greenhouse gas emissions, improve climate resilience, and green the government’s overall operations | Implementation of on-premises and cloud-based energy use monitoring to inform decision-making processes regarding the establishment of FINTRAC’s cloud infrastructure  **Program:** Internal Services | **Performance indicator:** Energy consumption information is available and used to inform decisions regarding cloud-based infrastructure.  **Starting point:** No information is currently available  **Target:** Energy consumption information is available to inform decision-making processes by March 2024 | FINTRAC will work with Shared Services Canada to determine the most effective mix of services and solutions that ensure that the Centre’s need for reliability and security are met and Canada’s commitment to reduce energy consumption and greenhouse gas emissions is supported  CIF Ambition / Target: **13.3** Canadians are well-equipped and resilient to face the effects of Climate change  CIF Indicator: **13.3.1** Proportion of municipal organization who factored climate change adaptation into their decision-making process  GIF Targets: **13.1** Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries  **13.3** Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning |
+| Implement the Greening Government Strategy through measures that reduce greenhouse gas emissions, improve climate resilience, and green the government’s overall operations | FINTRAC is transitioning its processes to modern, efficient, electronic systems that are expected to operate almost entirely with electronic records, thereby reducing the need for paper documents. FINTRAC will establish processes to monitor paper consumption by sector to inform decision-making.  **Program:** Internal Services, Compliance, and Intelligence | **Performance indicator:**   Reduced paper consumption as digital processes continuously evolve  **Starting point:** No information is currently available  **Target:** Paper consumption per employee to be reduced. Exact target to be determined once measurement begins. | FINTRAC will work with Shared Services Canada and contractors to transition operational systems to current standards for security reliability and interoperability  CIF Ambition / Target: **13.3** Canadians are well-equipped and resilient to face the effects of Climate change  CIF Indicator: **13.3.1** Proportion of municipal organization who factored climate change adaptation into their decision-making process  GIF Targets: **13.1** Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries  **13.3** Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning |
+
+### Goal 15: Protect and recover species, conserve Canadian biodiversity
+
+**FSDS context:** Illegal wildlife trade poses a serious environmental, economic, security and public health threat in Canada and around the world. It’s a major and growing threat to the global environment and biodiversity, imperilling endangered species already on the edge of survival, and threatening fragile habitats, communities and livelihoods. Illegal wildlife trade can also have significant public health impacts, as the circulation of animal parts increases the chances of disease transmission and can be a path for future pandemics. FINTRAC will continue to promote awareness of the money laundering indicators related to illegal wildlife trade and produce actionable financial intelligence in support of law enforcement investigations that will assist in targeting, disrupting and dismantling the organized criminal networks that profit from this heinous crime.
+
+#### Initiatives advancing Canada’s implementation of SDG 15 – Life on land
+
+The following initiative demonstrates how FINTRAC’s programming supports the 2030 Agenda and the SDGs, supplementing the information outlined above.
+
+| Planned initiative | Associated domestic targets or ambitions and/or global targets |
+| --- | --- |
+| FINTRAC will continue to promote education and awareness of its published [money laundering indicators](/intel/operation/oai-wildlife-eng) that will assist businesses in identifying and reporting suspicious transactions suspected of being related to illegal wildlife trade. This, in turn, will facilitate the production of actionable financial intelligence in support of law enforcement investigations in Canada and abroad in identifying, pursuing and prosecuting perpetrators – and broader networks – linked to illegal wildlife trade. | **Relevant targets or ambitions:**  GIF Target: **15.7** – Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products |
+
+## Integrating sustainable development
+
+Working with our portfolio partner in the Department of Finance Canada, FINTRAC will continue to ensure that its decision-making process includes consideration of FSDS goals and targets through its Strategic Environmental Assessment (SEA) process. An SEA for a policy, plan or program proposal includes an analysis of the impacts of the given proposal on the environment, including on relevant FSDS goals and targets. As the overall policy lead for Canada’s anti-money laundering and anti-terrorist financing (AML/ATF) regime, the Department of Finance Canada advances these assessments, with input from FINTRAC, where relevant.
+
+[Public statements on the results of the Department of Finance Canada's assessments](https://www.canada.ca/en/department-finance/corporate/transparency/strategic-environmental-assessment/public-statements-regarding-environmental-effects.html) are made public when an initiative has undergone a detailed SEA. The purpose of the public statement is to demonstrate that the environmental effects, including the impacts on achieving the FSDS goals and targets, of the approved policy, plan or program have been considered during proposal development and decision-making.
+
+  
+
+Cat. No.: FD2-9E-PDF  
+ISSN: 2817-4690
+
+Financial Transactions and Reports Analysis Centre of Canada   
+234 Laurier Avenue West   
+Ottawa, Ontario K1P 1H7   
+Canada  
+**Telephone**: 1-866-346-8722 (toll free)   
+**Email**: [guidelines-lignesdirectrices@fintrac-canafe.gc.ca](mailto:guidelines-lignesdirectrices@fintrac-canafe.gc.ca)   
+**Website**: [https://fintrac-canafe.canada.ca/intro-eng](/intro-eng)
+
+© His Majesty the King in Right of Canada, as represented by the Minister of Finance
+
+Date Modified:
+:   2023-11-02

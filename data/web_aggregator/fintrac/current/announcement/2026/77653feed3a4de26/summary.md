@@ -1,0 +1,1 @@
+Summary: # Guide sur l'évaluation du tort causé pour les violations relatives à d'autres mesures de conformité

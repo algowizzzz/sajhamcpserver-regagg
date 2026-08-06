@@ -1,0 +1,58 @@
+# FINTRAC publishes its 2023–24 Annual Report, Safe Canadians, Secure Economy
+
+**News release**
+
+**November 26, 2024 — Ottawa — [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)**
+
+FINTRAC today published its 2023–24 Annual Report, Safe Canadians, Secure Economy, which describes the critical impact the Centre is having in helping to protect the safety of Canadians, particularly Canada's most vulnerable citizens and communities, and the integrity of Canada's financial system.
+
+FINTRAC's financial intelligence supported 266 major, resource intensive investigations last year, and many hundreds of other individual investigations at the municipal, provincial and federal levels across the country, and internationally. The Centre's financial intelligence disclosures contained 297,733 financial transaction reports, which included 966,705 financial transactions. Ninety-two percent of the feedback that FINTRAC received from domestic law enforcement and national security agencies indicated that its financial intelligence provided new information.
+
+In September 2023, the RCMP, working in cooperation with U.S. Homeland Security in Buffalo, New York, recognized FINTRAC's contribution to Operation Heinze, a 16-month investigation that resulted in the arrest of an individual in possession of 433 kilograms of cocaine that was destined for Canada. Believed to be the largest cocaine seizure in the history of western New York, this operation led to multiple charges for, among other things, participating in a criminal organization and money laundering.
+
+Over the past year, FINTRAC helped safeguard Canada's financial system and economy by assisting and ensuring that businesses comply with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and associated Regulations. FINTRAC modernized its supervisory framework to go beyond measuring 'technical compliance' to promoting risk awareness, risk identification and effective risk mitigation, closely aligned with Canada's [Updated Assessment of Inherent Risks of Money Laundering and Terrorist Financing](https://www.canada.ca/en/department-finance/programs/financial-sector-policy/updated-assessment-inherent-risks-money-laundering-terrorist-financing-canada.html). With this change, FINTRAC is tailoring its approaches to better meet the needs of businesses in the form of services, support and tools that make it easier for them to identify and mitigate money laundering and terrorist financing risks, and meet legislative requirements.
+
+FINTRAC also ensured that businesses did their part in helping to protect Canada and Canadians, and it took firm action when it was needed. Over the past year, the Centre issued the largest administrative monetary penalties in its history. In total, FINTRAC issued 12 Notices of Violation in the amount of more than $26 million, which is a sizable increase over previous years. The Centre also disclosed the largest number of cases of non-compliance to law enforcement for potential criminal investigation in its history.
+
+In 2023–24, FINTRAC worked with businesses and its federal partners to implement its new modernization vision, which is focused on combatting money laundering and terrorist financing in real-time. With its innovative Digital Strategy, FINTRAC is advancing Centre-wide digital automation, analytics and the use of artificial intelligence in order to leap ahead from a technical, process and culture perspective.
+
+## Quote
+
+> “Whether it's generating actionable financial intelligence in support of money laundering and terrorist financing investigations or ensuring that businesses are fulfilling their responsibilities under the Act, FINTRAC is playing a critical role in helping to protect Canada and Canadians. Working with our domestic and international partners, we are also moving forward with our real-time modernization vision so that we can stay ahead of the bad actors, find new and meaningful ways to collaborate and continue to deliver results for Canadians in an ever-changing world.”
+
+## Quick facts
+
+* As Canada's financial intelligence unit and anti-money laundering and anti-terrorist financing supervisor, FINTRAC ensures the compliance of more than 24,000 businesses subject to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and generates actionable financial intelligence for Canada's law enforcement, national security agencies and international partners.
+* In 2023–24, FINTRAC produced more than 4,600 financial intelligence disclosure packages, based on 1,783 unique financial intelligence disclosures.
+* The top three predicate offences related to FINTRAC's financial intelligence disclosures in 2023–24 were drugs (23%), fraud (20%) and tax evasion (10%).
+* The Centre's unique financial intelligence disclosures contained 297,733 financial transaction reports, which included more than 966,705 financial transactions. The value of the transactions within FINTRAC's disclosures totalled more than $43.5 billion.
+* FINTRAC's financial intelligence disclosures are regularly provided to multiple agencies simultaneously, helping Canada's law enforcement and national security agencies connect criminal activities and operations across a number of domestic and international jurisdictions by following the money. FINTRAC's unique disclosures contained a total of 6,572 subjects.
+* Ninety-two percent of the feedback that the Centre received last year from Canadian law enforcement and national security agencies indicated that FINTRAC's financial intelligence provided new information on known subjects.
+* The Centre also provided 97 unique disclosures and 231 disclosure packages foreign financial intelligence units in relation to money laundering and terrorist financing. Eighty-nine percent of the feedback received from these foreign financial intelligence units indicated that the Centre's disclosures identified previously unknown information.
+* FINTRAC worked with Canada's Five Eyes partners and European allies to share financial intelligence through the Russia-Related Sanctions and Illicit Finance Financial Intelligence Units Working Group.
+* FINTRAC worked closely with FinCEN and Mexico's Unidad de Inteligencia Financiera to establish the North American Drug Dialogue's Illicit Finance Working Group.
+* FINTRAC's comprehensive approach to ensuring the compliance of businesses included monitoring transaction reporting, engaging in regular meetings with Canada's large banks, undertaking comprehensive examinations, and establishing and following up regularly on compliance action plans.
+* FINTRAC issued 12 Notices of Violation in the amount of more than $26 million.
+* FINTRAC disclosed 14 cases of non-compliance to law enforcement for criminal investigation.
+* In 2023–24, FINTRAC published four strategic intelligence products to inform businesses, partners and the public on the nature and scope of money laundering and terrorist activity financing: [Special Bulletin on Russia-linked money laundering activities](/intel/bulletins/rlml-eng); [Operational Alert on laundering the proceeds of crime through underground banking schemes](/intel/operation/ml-rec-eng); [Special Bulletin on laundering the proceeds of crime through online gambling sites](/intel/bulletins/gambling-jeu-eng); and [Joint financial intelligence advisory with the financial intelligence unit of the Netherlands on the illegal procurement of dual-use goods by Russian end-users](/notices-avis/avs/2024-02-20-eng).
+
+## Related product
+
+* [2023–24 Annual Report, Safe Canadians, Secure Economy](/publications/ar/2024/1-eng)
+
+– 30 –
+
+## Contacts
+
+Media Relations  
+Financial Transactions and Reports Analysis Centre of Canada  
+613-716-9983  
+[media.medias@fintrac-canafe.gc.ca](mailto:media.medias@fintrac-canafe.gc.ca)
+
+Follow us on  
+Twitter: [@FINTRAC\_Canada](https://twitter.com/FINTRAC_Canada)  
+LinkedIn: [FINTRAC Canada|CANAFE Canada](https://www.linkedin.com/company/18406872/)  
+YouTube: [FINTRAC Canada](https://www.youtube.com/channel/UCxZzHo0HADR6G-C1fHi0QgA)
+
+Date Modified:
+:   2023-11-26

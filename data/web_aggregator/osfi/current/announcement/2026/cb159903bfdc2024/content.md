@@ -1,0 +1,823 @@
+# Sociétés d'assurances et de secours mutuels canadiennes et étrangères
+
+## Liste alphabétique
+
+[#](#nr)[A](#a)[B](#b)[C](#c)[D](#d)[E](#e)[F](#f)[G](#g)[H](#h)[I](#i)[J](#j)[K](#k)
+
+[L](#l)[M](#m)[N](#n)[O](#o)[P](#p)[Q](#q)[R](#r)[S](#s)[T](#t)[U](#u)[V](#v)
+
+[W](#w)[X](#x)[Y](#y)[Z](#z)
+
+### A
+
+* L'Abbaye Compagnie d'Assurance-Vie du Canada a modifié sa dénomination sociale à celle d’ITT Hartford du Canada, Compagnie d'Assurance-Vie à compter du 1er juillet 1994.
+* Abeille Réassurances a fusionné ses biens et son entreprise avec ceux de AXA Réassurance depuis le 18 avril 1996, la compagnie issue de la fusion étant AXA Réassurance.
+* ACA Assurance a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 30 juin 2011.
+* Advocat Général Compagnie d'Assurance du Canada: Un décret a été émis le 5 juillet 1989 en vertu de la Loi sur les liquidations.
+* Aegon Insurance Company (U.K.) Limited a cessé d'exercer des opérations au Canada et tout son passif canadien a été prise en charge par la Compagnie d'assurances générales Legacy. L'ordonnance portant garantie des risques au Canada a été annulée le 23 décembre 2002.
+* The Ætna Casualty and Surety Company : les obligations de la compagnie ayant été transférées à Aetna, compagnie d'assurance dommages et de cautionnement du Canada, la compagnie a cessé d'être enregistrée à compter du 1er mars 1993.
+* Ætna Casualty du Canada, Compagnie d'Assurance a changé son nom en celui de Laurentienne Compagnie d'Assurance de Dommages du Canada à compter du 1er novembre 1987.
+* Aetna, compagnie d'assurance dommages et de cautionnement du Canada a modifié sa dénomination sociale à celle de Travelers, Compagnie d'assurance dommages et de cautionnement du Canada à compter du 1er juillet 1997.
+* Aetna, Compagnie d'Assurance-Vie du Canada et La Maritime Compagnie d'Assurance-vie ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale La Maritime Compagnie d'Assurance-vie à compter du 1er janvier 2000.
+* Ætna Insurance Company a changé son nom en celui de CIGNA Property and Casualty Insurance Company à compter du 29 avril 1988.
+* A.G.F. Réassurances, ayant fusionné ses biens et affaires avec les biens et affaires de la Société Anonyme Française de Réassurances en vertu des lois de la France, la compagnie a cessé d'être enregistrée à compter du 31 décembre 1991.
+* Aktieselskabet Nordisk Gjenforsikrings Selskab a changé son nom en celui de Baltica-Nordisk Reinsurance Company A/S à compter du 8 décembre 1986.
+* Alea (Bermuda) Ltd. a changé la raison sociale sous laquelle elle garantit au Canada des risques à Catalina General Insurance Ltd. à compter du 3 mars 2016.
+* Alea Europe S.A. a changé sa dénomination sociale à Alea (Bermuda) Ltd. à compter du 22 octobre 2009.
+* Alexander Hamilton Life Insurance Company of America a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Compagnie d'Assurance-Vie Household le 1er janvier 1997. L'ordonnance portant garantie des risques au Canada a été annulée le 15 mai 2002.
+* Allendale Mututal Insurance Company a modifié sa dénomination sociale à celle de Factory Mutual Insurance Company à compter du 1er juillet 1999, la date de la fusion de Allendale Mututal Insurance Company, Arkwright Mututal Insurance Company et Protection Mututal Insurance Company, en vertu des lois des États-Unis d'Amérique.
+* Allianz Insurance Company : les obligations de la compagnie ayant été transférées à la Compagnie d'Assurance du Home Canadien, la compagnie a cessé d'être enregistrée à compter du 31 mars 1991.
+* Allianz Life Insurance Company of North America, ayant cessé d’exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d’assurance canadiennes auprès de Assumption Mutual Life Insurance Company. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 12 décembre 2024.
+* Allstate Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 22 décembre 2015.
+* Allstate Life Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 11 septembre 2003.
+* Alpina Insurance Company Limited a cessé d'exercer des activités commerciales au Canada le 16 décembre 1996, date à laquelle elle a cédé la totalité de ses obligations aux termes de polices d'assurances à Zurich Compagnie d'Assurances. S'étant fusionnée sous le régime d'une loi suisse le 2 juin 2004, Alpina Insurance Company Limited n'est plus une entité au sens de la Loi sur les sociétés d'assurances du Canada
+* American Bankers Life Assurance Company of Florida a modifié la raison sociale en français sous laquelle elle garantit des risques au Canada à American Bankers Compagnie d'Assurance Vie de la Floride à compter du 5 octobre 2007.
+* American Bankers Insurance Company of Florida a modifié la raison sociale en français sous laquelle elle garantit des risques au Canada à American Bankers Compagnie d'Assurance Générale de la Floride à compter du 5 octobre 2007.
+* American Credit Indemnity Company of New York a changé son nom en celui de American Credit Indemnity Company à compter du 17 avril 1985.
+* American Credit Indemnity Company a modifié sa dénomination sociale à celle de EULER American Credit Indemnity Company à compter du 4 octobre 1999.
+* American Health and Life Insurance Company a cessé d'exercer des opérations au Canada.L'ordonnance portant garantie des risques au Canada a été annulée le 21 décembre 1993.
+* American Home Assurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de La Cie d'assurance commercial AIG du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 22 octobre 2009.
+* The American Insurance Company a cessé d'exercer des opérations au Canada le 31 décembre 1982; son passif canadien a été pris en charge par Fireman's Fund Insurance Company.
+* L'American Insurance Company a obtenu un nouveau certificat d'enregistrement lui permettant de souscrire des polices d'assurance au Canada à compter du 8 janvier 1990.
+* The American Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 19 mars 1997.
+* American Mutual Liability Insurance Company : le certificat d'enregistrement de la compagnie a été retiré le 30 mai 1989 et la compagnie sera liquidée en vertu des dispositions de la Loi sur les liquidations.
+* American National Fire Insurance Company a modifié sa dénomination sociale à celle de Great American Insurance Company of New York à compter du 19 juin 2001.
+* American Re-Insurance Company a modifié sa dénomination sociale à celle de Réassurance Munich Amérique, Inc. à compter du 29 septembre 2006.
+* American Reserve Insurance Company le certificat d'enregistrement a été retiré le 19 juin 1979 et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations. Le 9 juillet 1984, avec l'approbation de la Cour suprême de l'Ontario, le passif canadien de la compagnie a été pris en charge par INA du Canada Compagnie d'assurance.
+* AMEX Assurance Company a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 23 décembre 2010.
+* AMEX Life Assurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 10 octobre 1997.
+* Ancienne Mutuelle Réassurance a adopté une nouvelle raison sociale, Axa Ré, le 26 mars 1990.
+* L'Ancienne République, Compagnie d'Assurance : Conformément à la demande de la société, l'ordonnance portant garantie des risques au Canada par L'Ancienne République, Compagnie d'Assurance a été annulée le 22 décembre 1995.
+* L'Ancienne République, Compagnie d'Assurance-Vie a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 1er septembre 1993.
+* Anglo Canada General Insurance Company a modifié sa dénomination sociale à celle de AXA Assurances générales à compter du 31 décembre 2006.
+* Arch Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Arch assurances Canada Ltée. L'ordonnance portant garantie des risques au Canada a été révoquée le 28 février 2014.
+* Argonaut Insurance Company : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par Argonaut Insurance Company a été annulée le 23 novembre 1993.
+* Arkwright-Boston Manufacturers Mutual Insurance Company a fusionné ses biens et opérations avec les biens et opérations de Philadelphia Manufacturers Mutual Insurance Company le 7 septembre 1984; la compagnie fusionnée ou la compagnie prenant suite des opérations est Arkwright-Boston Manufacturers Mutual Insurance Company.
+* Arkwright-Boston Manufacturers Mutual Insurance Company a changé son nom en celui de Arkwright Mutual Insurance Company à compter du 14 avril 1987.
+* Arkwright Mututal Insurance Company a fusionné ses entreprise avec ceux de Allendale Mututal Insurance Company et ceux de Protection Mututal Insurance Company, et en vertu des lois des États-Unis d'Amérique, son certificat d'enregistrement a été retiré le 1er juillet 1999.Les sociétés fusionnées ont été prorogées en une société mutuelle fonctionnant sous la dénomination Factory Mutual Insurance Company, 1er juillet 1999.
+* Arrowood Indemnity Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada sous le nom Security Insurance Company a été annulée le 19 février 2016.
+* Assicurazioni Generali S.p.A. a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 2000.
+* Assitalia-Le Assicurazioni d'Italia S.P.A. a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 30 juin 2000.
+* The Associated Canadian Travellers a cessé d'exercer des opérations au Canada. Lettres patentes de dissolution avec une date d'effet du 16 novembre 1994 ont été émises.
+* Associates Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 30 juin 2003.
+* Association Bénévole des Fils de l'Écosse a cessé ses opérations sous la Loi sur les sociétés d'assurances et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les organisations à but non lucratif, à compter du 31 décembre 2018.
+* Association Canado-Américaine a modifié sa dénomination sociale à celle de ACA ASSURANCE à compter du 19 décembre 1997.
+* Assurance ACE INA et Chubb du Canada Compagnie d'Assurance ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Chubb du Canada Compagnie d'Assurance à compter du 1 octobre 2016.
+* Assurances Continental limitée a modifié sa dénomination sociale pour celle de Compagnie d'assurance Lombard, à compter du 8 décembre 1995.
+* Assurance Standard Life limitée, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations d'assurance canadiennes auprès de la Compagnie d'assurance Manuvie du Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 20 avril, 2016.
+* Assurances Trade Indemnity a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par EULER American Credit Indemnity Company. L'ordonnance portant garantie des risques au Canada a été annulée le 24 octobre 2003.
+* Assurance-Vie ACE INA a modifié sa dénomination sociale pour celle de Chubb du Canada Compagnie d'Assurance-Vie à compter du 1 octobre 2016.
+* Assurant Vie du Canada a modifié sa dénomination sociale pour celle de Assurance-vie TruStage du Canada à compter du 1 janvier 2022.
+* Assureurs-groupes Compagnie Canadienne d'Assurances a modifié sa dénomination sociale à celle de ING Novex Compagnie d'assurance du Canada à compter du 31 janvier 2000.
+* Les Associés, Compagnie Financière d'assurance-vie a modifié sa dénomination sociale à celle de American, compagnie d'assurance-vie et d'assurance-maladie à compter du 1er juillet 2003.
+* Aurigen Reinsurance Company a modifié sa dénomination sociale à celle de PartnerRe Life Reinsurance Company of Canada à compter du 3 avril 2017.
+* Avemco Insurance Company a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 23 février 2010.
+* Aviation & General Insurance Company Limited, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations d'assurance canadiennes auprès de la société provinciale, Global Reinsurance Company. L'ordonnance portant garantie des risques au Canada a été révoquée le 18 février 2011.
+* Aviva International Insurance Limited, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Aviva, Compagnie d'Assurance du Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 10 décembre 2012.
+* AXA Art Insurance Corporation, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès d'AXA Assurances. L'ordonnance portant garantie des risques au Canada a été annulée le 28 mars 2018.
+* AXA Assurances générales et Novex Compagnie d'assurance ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Novex Compagnie d'assurance à compter du 1 mai 2012
+* AXA Assurances générales et Corporation d'Assurances de Terre Neuve Limitée ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale AXA Assurances générales à compter du 1er janvier 2007.
+* AXA Corporate Solutions Assurance, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès d'AXA Pacifique Compagnie d'Assurance. L'ordonnance portant garantie des risques au Canada a été annulée le 12 août 2008.
+* AXA Corporate Solutions a modifié sa dénomination sociale à celle de AXA RE le 23 décembre 2002.
+* AXA Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de XL Specialty. L'ordonnance portant garantie des risques au Canada a été annulée le 6 avril 2020.
+* AXA RE a changé sa raison sociale à COLISEE RE à compter du 19 février 2009.
+* AXA Ré a modifié sa dénomination sociale à AXA Réassurance, le 21 décembre 1990.
+* AXA Réassurance a fusionné ses biens et son entreprise avec ceux de Abeille Réassurances depuis le 18 avril 1996, la compagnie issue de la fusion étant AXA Réassurance.
+* Réassurance a modifié sa dénomination sociale à celle de AXA Corporate Solutions à compter du 22 décembre 2000.
+
+### B
+
+* Balboa Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 13 décembre 2002.
+* La Balboa, compagnie d'assurance-vie a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 13 décembre 2002.
+* La Baloîse, Compagnie d'Assurances a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 1er novembre 1999.
+* Baltica-Nordisk Reinsurance Company A/S a changé son nom en celui de Nordisk Reinsurance Company A/S à compter du 24 mai 1988.
+* Bankers Life and Casualty Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 12 décembre 2005.
+* Beneficial Standard Life Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 10 octobre 1995.
+* BMO Société d’assurance-vie et BMO Compagnie d’assurance-vie ont fusionné et ont continué sous le nom BMO Société d’assurance-vie, à compter du 1er décembre 2025.
+* Boréal Compagnie d'assurances de dommages a modifié sa dénomination sociale pour celle de AXA Pacifique Compagnie d'Assurance, à compter du 23 octobre 1995.
+* Le Bouclier Laurentien Compagnie d'Assurances a fusionné ses biens et opérations avec les biens et opérations de Laurentienne Casualty Compagnie d'Assurance de Dommages du Canada et avec les biens et opérations de La Laurentienne du Pacifique Compagnie d'Assurance le 27 février 1992 ; la compagnie résultant de cette fusion est la Laurentienne Compagnie d'Assurance de Dommages.
+* The British Aviation Insurance Company Limited, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations d'assurance auprès d'Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été révoquée le 15 juillet 2011.
+* Buffalo Insurance Company a changé son nom en Underwriters Insurance Company à compter du 9 novembre 1988.
+* Business Men's Assurance Company of America a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 12 novembre 1999.
+
+### C
+
+* CGU, Compagnie D'Assurance du Canada a fusionné ses biens et son entreprise avec GAN General Insurance Company à compter du 31 décembre 1999. La compagnie issue de la fusion est CGU, Compagnie D'Assurance du Canada.
+* Cabot Insurance Company Limited, société d'assurances constituée sous le régime des lois de Terre-Neuve, a reçu des lettres patentes la prorogeant sous le régime de la Loi sur les sociétés d'assurances et a fusionné ses éléments d'actif et ses activités avec celles de la Compagnie d'Assurance Canadienne Générale le 16 juin 1997. La société issue de la fusion aura pour désignation sociale la Compagnie d'Assurance Canadienne Générale.
+* Caisse Centrale de Réassurance, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations d'assurance auprès de CCR RE. L'ordonnance portant garantie des risques au Canada a été révoquée le 27 septembre 2017.
+* Calvert Insurance Company a modifié sa dénomination sociale à celle de Specialty National Insurance Company à compter du 11 octobre 2000.
+* Canada Uni, Compagnie d'Assurance : le certificat d'enregistrement n'a pas été renouvelé le 1er mars 1986 et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations.
+* Canada-Vie, Compagnie d'Assurance Générales a modifié sa dénomination sociale à celle de Primmum compagnie d'assurance à compter du 1er mai 2001.
+* Canadian Slovak League a été constituée en une corporation sous la partie II de la Loi sur les corporations canadiennes à compter du 1er décembre 2003. En conséquence, Canadian Slovak League n'est plus assujettie aux dispositions de la Loi sur les société d'assurances.
+* Canners Exchange Subscribers at Warner Inter-Insurance Bureau : les obligations de la compagnie ayant été transférées à Employers Insurance of Wausau a Mutual Company à compter du 31 décembre 1991, la compagnie a cessé d'être enregistrée à compter du 5 février 1993.
+* The Capitol Life Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 16 juin 1994.
+* L'ordonnance d'agrément autorisant Cardif-Assurances Risques Divers à garantir au Canada des risques a été annulée le 13 août 2009.
+* L'ordonnance d'agrément autorisant Cardif Assurance Vie à garantir au Canada des risques a été annulée le 13 août 2009.
+* Cavell Insurance Company Limited, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été révoquée le 5 février 2013.
+* CCR RE a changé la raison sociale sous laquelle elle garantit au Canada des risques à Arundo Re à compter du 27 février 2025.
+* Centennial Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations d'assurance canadiennes auprès de la société canadienne, Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été révoquée le 4 février 2011.
+* Central Mutual Insurance Company a cédé son passif canadien. Le certificat d'enregistrement de la compagnie n'a pas été renouvelé au 31 mars 1986.
+* Cercle d'Or, Compagnie d'Assurance a été dissoute à compter du 24 juin 2010.
+* Certas direct, compagnie d'assurance, qui était constituée en vertu de la Loi sur les sociétés d'assurances, a été prorogée en tant que personne morale régie par les lois de la province du Québec à compter du 15 novembre 2001.
+* Certas direct, compagnie d'assurances ltée a modifié sa dénomination sociale à celle de Certas direct, compagnie d'assurances à compter du 1er janvier 2002.
+* CGU, Compagnie D'Assurance du Canada a modifié sa dénomination sociale à celle de Aviva, Compagnie d'Assurance du Canada à compter du 5 mai 2003.
+* CGU International Insurance plc a modifié sa dénomination sociale à celle de Aviva International Insurance Limited à compter du 20 septembre 2006.
+* Château Compagnie d'Assurance a fusionné ses biens et son entreprise avec ceux de La Citadelle, Compagnie d'Assurances Générales et Chateau Insurance Management Inc. à compter du 1er octobre 1994, la compagnie issue de la fusion étant La Citadelle, Compagnie d'Assurances Générales.
+* Chieftain Insurance Company et Compagnie d'assurance générale Dominion du Canada ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'assurance générale Dominion du Canada à compter du 1er janvier 2002.
+* Christiania General Insurance Corporation a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Folksamerica Reinsurance Company. L'ordonnance portant garantie des risques au Canada a été annulée le 6 mai 1997.
+* Chrysler Compagnie d'Assurance-Vie du Canada a cessé d'exercer des opérations au Canada. Lettres patentes de dissolution avec une date d'effet du 31 mars 2003 ont été émises.
+* La Cie d'assurance commerciale AIG du Canada a changé sa dénomination sociale à Comgagnie d'Assurance Chartis du Canada à compter du 1er novembre 2009.
+* CIGNA du Canada Compagnie d'assurance a modifié sa dénomination sociale à celle d'Assurance ACE INA à compter du 1er septembre 1999.
+* CIGNA Property and Casualty Insurance Company : les obligations de la compagnie ayant été transférée à CIGNA Insurance Company of Canada, la compagnie a cessé d'être enregistrée à compter du 24 décembre 1990.
+* La Citadelle, Compagnie d'Assurances Générale a cessé ses opérations sous la Loi sur les sociétés d'assurances et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions sous la dénomination sociale 437732-0, à compter du 21 août 2006.
+* La Citadelle, Compagnie d'Assurance-Vie a changé son nom en celui de la Compagnie d'assurance-vie Première du Canada à compter du 1er janvier 1994.
+* Clarica, compagnie d'assurance sur la vie et Sun Life du Canada, compagnie d'assurance-vie ont été fusionnées et prorogées en une société d'assurances sous la dénomination sociale Sun Life du Canada, compagnie d'assurance-vie à compter du 31 décembre 2002 à 23 h 59.
+* CMFG Life Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec La Compagnie d'Assurance-Vie CUMIS. L'ordonnance portant garantie des risques au Canada a été révoquée le 26 mars 2014.
+* COLISEE RE a cessé d'exercer des opérations d'assurance-vie à compter du 23 février 2012.
+* COLISEE RE a cessé d'exercer des opérations d'assurance-multirisques et à réassuré la totalité de ses obligations résiduelles liées à ses activités d'assurance au Canada auprès de la Société d'assurance générale Northbridge. L'ordonnance habilitant la société à porter garantie de risques au Canada a été annulée le 7 décembre 2015.
+* College Retirement Equities Fund a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Sun Life du Canada, compagnie d'assurance-vie. L'ordonnance portant garantie des risques au Canada a été annulée le 6 avril 1998.
+* Cologne Life Reinsurance Company a modifié sa dénomination sociale à celle de General & Cologne Life Re of America à compter du 25 février 2000.
+* Cologne Reinsurance Company a cessé d'exercer des opérations au Canada et a réassuré, sur une base hypothétique, tous ses engagements au titre de polices d'assurances auprès de General Reinsurance Corporation. L'ordonnance habilitant la société à porter garantie de risques au Canada a été annulée le 4 août 2005.
+* Colonia Compagnie d'Assurance-Vie a modifié sa dénomination sociale à celle de Concordia compagnie d'assurance-vie à compter du 30 décembre 1998.
+* Combined Specialty Insurance Company a changé son nom en celui de Virginia Surety Company, Inc. à compter du 18 juillet 2003.
+* The Commercial Travellers' Association of Canada a changé son nom en celui de L'Association Canadienne des professionnels de la vente à compter du 1er juin 1991.
+* Commercial Union Assurance Company plc a modifié sa dénomination sociale à celle de CGU International Insurance plc à compter du 1er octobre 1999.
+* La Compagnie de Rentes Brookfield en remplaçant sa dénomination sociale par, en français, Compagnie de rentes Blumont à compter du 29 janvier 2025.
+* Compagnie d’Assurance du Québec a été autorisée à cesser ses activités en vertu de la Loi sur les sociétés d’assurances et à être prorogée sous le régime de la Loi canadienne sur les sociétés par actions à compter du 2 juillet 2025.
+* La Compagnie d'Assurances Adriatique du Canada a fusionné ses biens et son entreprise avec ceux de la Compagnie d'Assurance du Home Canadien à compter du 1er janvier 1991, la compagnie issue de la fusion étant la Compagnie d'Assurance du Home Canadien.
+* La Compagnie d'Assurance Albion du Canada a changé son nom en celui de La Métropolitaine Générale, Compagnie d'Assurance à compter du 16 février 1988.
+* Compagnie d'Assurance Allianz du Canada et La Nordique compagnie d'assurance du Canada ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale La Nordique compagnie d'assurance du Canada à compter du 1er avril 2006.
+* Compagnie d'Assurance Allianz du Canada a fusionné ses biens et son entreprise avec ceux de la Compagnie d'Assurance Cornhill du Canada à compter du 1er novembre 1993, la compagnie issue de la fusion étant la Compagnie d'Assurance Allianz du Canada.
+* La Compagnie D'Assurance 12345 a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions, en date du 23 septembre 2016, sous la dénomination sociale 9918841 Canada Inc.
+* La Compagnie D'Assurance American Life a cessé d'exercer des opérations au Canada et son passif canadien a été prise en charge par La Compagnie D'Assurance-Vie American International Ltée. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 1996.
+* La Compagnie d'Assurance Bouclier Canadien Nord a changé son nom en celui de Le Bouclier du Nord Canadien, Compagnie d'Assurance à compter du 11 août 1986.
+* La Compagnie d'Assurance du Canada contre l'Incendie a changé sa dénomination sociale à Compagnie d'assurances générales Legacy à compter du 1er janvier 1994.
+* La Compagnie d'Assurance du Canada sur la Vie et Crown, Compagnie d'Assurance-vie ont été fusionnées et prorogées en une seule société sous la dénomination sociale, en français, La Compagnie d'Assurance du Canada sur la Vie et, en anglais, The Canada Life Assurance Company à compter du 31 décembre 2012.
+* La Compagnie d'Assurance du Canada sur la Vie a fusionné ses biens et son entreprise avec Crown, compagnie d'assurance vie du Canada, à compter du 1er juillet 1999. La compagnie issue de la fusion est La Compagnie d'Assurance du Canada sur la Vie.
+* La Compagnie D'Assurance Canada Security a modifié sa dénomination sociale à celle de Scotia Générale, compagnie d'assurance à compter du 10 janvier 1996.
+* Compagnie D'Assurances Canadian Surety a fusionné ses biens et son entreprise avec Compagnie d'Assurance Allianz du Canada, à compter du 1er avril 1999. La compagnie issue de la fusion est Compagnie d'Assurance Allianz du Canada.
+* Compagnie d'Assurance Canadienne Commerce a fusionné ses biens et son entreprise avec ceux de la Compagnie d'Assurance Trafalgar du Canada à compter du 1er janvier 1993, la compagnie issue de la fusion étant la Compagnie d'Assurance Trafalgar du Canada.
+* La Compagnie d'Assurances Canadienne Directe Incorporée, qui était constituée en vertu de la Loi sur les sociétés d'assurances, a été prorogée en tant que personne morale régie par la Loi canadienne sur les sociétés par actions à compter du 1er octobre 2019.
+* La Compagnie d'Assurances Canadienne Directe Incorporée a modifié sa dénomination sociale à celle de La Compagnie d'Assurances HSBC Canadienne Directe Incorporée à compter du 1er octobre 1999.
+* La Compagnie d'Assurance Canadienne Générale a fusionné avec la Compagnie d'Assurance USF&G du Canada le 30 juin 1990; les activités se poursuivent sous la raison sociale Compagnie d'Assurance Canadienne Générale.
+* Compagnie d'Assurance Canadienne Générale a fusionné ses biens et son entreprise avec ceux de la Compagnie d'Assurance Toronto Générale à compter du 1er janvier 1994, la compagnie issue de la fusion étant la Compagnie d'Assurance Canadienne Générale.
+* Compagnie d'Assurance Canadienne Générale a fusionné ses biens et son entreprise avec Cabot Insurance Company Limited, à compter du 16 juin 1997. La compagnie issue de la fusion est Compagnie d'Assurance Canadienne Générale.
+* Compagnie d'Assurance Canadienne Générale a fusionné ses biens et son entreprise avec General Accident, Compagnie d'Assurance du Canada, à compter du 1er janvier 1998. La compagnie issue de la fusion est General Accident, Compagnie d'Assurance du Canada.
+* La Compagnie d'Assurance Canadienne Provinciale a fusionné ses biens et son entreprise avec ceux de la Compagnie d'Assurance du Home Canadien à compter du 31 décembre 1992, la compagnie issue de la fusion étant la Compagnie d'Assurance Allianz du Canada.
+* La Compagnie d'Assurance Cardinal le certificat d'enregistrement a été retiré le 19 février 1982 et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations.
+* La Compagnie d'assurance Casualty du Canada a fusionné ses biens et son entreprise avec ceux de L'Indemnité Compagnie Canadienne et ceux de la Compagnie d'assurance générale Dominion du Canada à compter du 31 mai 1989, la compagnie issue de la fusion étant la Compagnie d'assurance générale Dominion du Canada.
+* Les biens et opérations de la Compagnie d'Assurance Century du Canada ont été cédés à La Dominion Corporation d'Assurance et un décret a été émis en vertu de la Loi sur les liquidations pour la Compagnie d'Assurance Century du Canada au 1er décembre 1989.
+* Compagnie d'Assurance Chartis du Canada a changé sa dénomination sociale à Compagnie d'Assurance AIG du Canada à compter du 1 juillet 2013.
+* Les obligations de La Compagnie d'Assurance Chequers ayant été transférées à la Markel Compagnie d'Assurance du Canada, la Compagnie a cessé d'être enregistrée à compter du 31 mai 1992.
+* La Compagnie d'Assurance Chrysler a changé sa raison sociale à La Compagnie d'Assurance CorePointe à compter du 31 mars 2011.
+* La Compagnie d'Assurances Chrysler a changé sa raison sociale à La Compagnie d'Assurance Chrysler à compter du 26 juin 2009.
+* La compagnie d'assurance Chrysler a modifié sa dénomination sociale à celle de La compagnie d'assurance DaimlerChrysler à compter du 30 juin 2001.
+* Compagnie d'assurances Commonwealth a changé sa raison sociale à Société d'assurance d'indemnisation Northbridge à compter du 7 octobre 2011.
+* La Compagnie d'Assurance Consolidated Générale a modifié sa dénomination sociale pour celle de Compagnie d'assurance GE Capital Casualty, Canada, à compter du 17 juillet 1996.
+* La Compagnie d'Assurance Continental du Canada a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions, en date du 6 septembre 1995, sous la dénomination sociale CICAN I Investment Holding Corp.
+* La compagnie d’assurances Continental du Canada inc. a modifié sa dénomination sociale pour celle de Compagnie canadienne d’assurances générales Lombard, à compter du 8 décembre 1995.
+* La Compagnie d'Assurance contre les Accidents et l'Incendie du Canada a fusionné ses biens et opérations avec les biens et opérations de la Compagnie d'Assurance Stanstead & Sherbrooke et avec les biens et opérations de la Compagnie d'Assurance Union Commerciale du Canada le 1er janvier 1989; la compagnie fusionnée ou la compagnie prenant suite des opérations est La Compagnie d'Assurance Union Commerciale du Canada.
+* Compagnie d'Assurance Cornhill du Canada a fusionné ses biens et son entreprise avec ceux de la Compagnie d'Assurance Allianz du Canada à compter du 1er novembre 1993, la compagnie issue de la fusion étant la Compagnie d'Assurance Allianz du Canada.
+* La Compagnie d'Assurance DaimlerChrysler a modifié la raison sociale sous laquelle elle garantit au Canada des risques à celle de La Compagnie d'Assurances Chrysler à compter du 1 janvier 2009.
+* Compagnie d'Assurances Dominion a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions, en date du 6 septembre 1995, sous la dénomination sociale CICAN II Investment Holding Corp.
+* La Compagnie d'Assurance Eaton: un décret a été émis en vertu de la Loi sur les liquidations pour la compagnie le 19 décembre 1989.
+* La compagnie d'assurance Electric Insurance Company a changé sa dénomination sociale sous laquelle elle souscrit des risques au Canada pour RiverStone International Assurance, inc., à compter du 2 août 2024.
+* Compagnie d'assurance Fidélité du Canada a changé son nom en celui de Compagnie d'Assurance USF&G du Canada à compter du 1er juin 1985.
+* La Compagnie d'assurance Forteresse d'Amérique : les obligations de la compagnie ayant été transférées à Marine Indemnity Insurance Company of America, la compagnie a cessé d'être enregistrée à compter du 10 décembre 1993.
+* La Compagnie d'assurance et de Garantie Grain a changé sa dénomination sociale à Groupe d'assurance Wynward à compter du 1 mai 2013.
+* Compagnie d'assurance GE Capital Casualty, Canada a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions, en date de 23 septembre 2002, sous la dénomination sociale GE4C INC.
+* Compagnie d'assurance générale de la Banque Royale du Canada a modifié sa dénomination sociale à celle de Compagnie d'assurance générale RBC à compter du 16 août 1999.
+* Compagnie d'assurance générale CIBC Limitée a modifié sa dénomination sociale à celle de La Personnelle directe, compagnie d'assurance du Canada à compter du 1er septembre 2000.
+* Compagnie d'Assurance générale de groupes CIBC Limitée a fusionné ses biens et son entreprise avec ceux de la Compagnie d'assurance générale CIBC Limitée à compter du 1er novembre 1994, la compagnie issue de la fusion étant la Compagnie d'assurance générale CIBC Limitée.
+* La Compagnie d'Assurance Générale Kansa International S.A. : le 8 mars 1995, la cour a demandé la liquidation de Kansa General International Insurance Company Limited sous les provisions de la Loi sur les liquidations, nommant Ferdinand Alfieri, 1, place Ville Marie, Bureau 2115, Montréal (Québec) H3B 2C6, au titre de liquidateur provisoire de la société, de se charger des procédures canadiennes de liquidation de la société.
+* La Compagnie d'Assurance Générale Kent a fusionné ses biens et son entreprise avec La Citadelle, Compagnie d'Assurances Générales, à compter du 30 novembre 1997. La compagnie issue de la fusion est La Citadelle, Compagnie d'Assurances Générales.
+* La Compagnie d'Assurance Générale Liberté Mutuelle, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de La Compagnie d'Assurance Liberté Mutuelle. L'ordonnance portant garantie des risques au Canada a été révoquée le 22 novembre 2007.
+* Compagnie d'assurance générale RBC a modifié sa dénomination sociale à celle de Aviva, Compagnie d'Assurance Générale à compter du 15 juin 2016.
+* Compagnie d'assurance générale SecuriCan a modifié sa dénomination sociale à celle de Western Financial, Compagnie d'assurances à compter du 1 juin 2010.
+* La Compagnie d'Assurance Générale Strathcona a fusionné ses biens et opérations avec les biens et opérations de Northumberland, Compagnie Générale d'Assurances le 31 août 1983; la compagnie fusionnée ou la compagnie prenant suite des opérations est la Northumberland, Compagnie Générale d'Assurances.
+* Compagnie d'assurances générales Legacy a modifié sa dénomination sociale à celle de Compagnie d'assurance Générale Première du Canada à compter du 31 octobre 2018.
+* La Compagnie d'Assurance Great Eastern a fusionné ses biens et opérations avec les biens et opérations de London-Canada Insurance Company le 31 décembre 1987; la compagnie fusionnée ou la Compagnie prenant suite des opérations est Compagnie d'Assurance Hartford du Canada.
+* Compagnie d'Assurance Guardian du Canada a modifié sa dénomination sociale à celle de La Nordique compagnie d'assurance du Canada à compter du 1er février 1999.
+* La Compagnie d'Assurance Halifax a modifié sa dénomination sociale à celle de Compagnie d'assurance ING du Canada à compter du 1er janvier 2002.
+* La Compagnie d'Assurance Halifax, une société constituée aux termes des lois de la province de la Nouvelle-Écosse, a été prorogée comme une société sous le régime de la Loi sur les sociétés d'assurances à compter du 1er juin 2001.
+* Compagnie d'Assurance Hartford du Canada a modifié sa dénomination sociale à celle de Société d'assurance Langdon à compter du 1er août 2001.
+* La Compagnie d'Assurances Herald : Conformément à la demande de la compagnie, l'ordonnance d'autorisation de fonctionnement de La Compagnie d'Assurances Herald a été annulée le 17 décembre 1992.
+* La Compagnie d'Assurance du Home Canadien a fusionné ses biens et son entreprise avec ceux de La Compagnie d'Assurance Canadienne Provinciale à compter du 31 décembre 1992, la compagnie issue de la fusion étant la Compagnie d'Assurance Allianz du Canada.
+* La Compagnie D'Assurances HSBC Canadienne Directe Incorporée a modifié sa dénomination sociale à celle de La Compagnie D'Assurances Canadienne Directe Incorporée à compter du 30 avril 2004.
+* Compagnie d'assurance d'hypothèques AIG United Guaranty du Canada a modifié sa dénomination sociale à celle de Société d'assurance hypothécaire Canada Guaranty à compter du 16 avril 2010.
+* Compagnie d'assurance d'hypothèques GE Capital (Canada) a modifié sa dénomination sociale à celle de Compagnie d'assurance d'hypothèques Genworth Financial Canada à compter du 1er novembre 2004.
+* Compagnie d'assurance d'hypothèques Genworth Financial Canada et MIC Holdings H Company Limited ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale de la Compagnie d'assurance d'hypothèques Genworth Financial Canada le 11 décembre 2018.
+* Compagnie d'assurance d'hypothèques Genworth Financial Canada a modifié sa dénomination sociale à celle de Compagnie d'assurance d'hypothèques Sagen Canada à compter du 1er juin 2021.
+* Compagnie d'assurance ING du Canada a changé sa raison sociale à Intact Compagnie d'assurance à compter du 10 mars 2009.
+* Compagnie d'assurance ING du Canada et ING Western Union Compagnie d'assurance ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'assurance ING du Canada, à compter du 1er juillet 2003.
+* La Compagnie d'Assurance d'Hypothéques du Canada a modifié sa dénomination sociale à celle de La Compagnie d'Assurance 12345 à compter du 9 juin 2016.
+* Compagnie d'Assurance Liberté du Canada a modifié sa dénomination sociale à celle de Compagnie d'assurance habitation et auto TD à compter du 7 mars 2005.
+* Compagnie D'Assurances Life Investors D'Amérique, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de Canadian Premier Life Insurance Company. L'ordonnance portant garantie des risques au Canada a été annulée le 19 septembre 2008.
+* Compagnie d'assurance Lombard a changé sa raison sociale à Société d'assurance des particuliers Northbridge à compter du 7 octobre 2011.
+* Compagnie d'Assurance London Garantie a modifié sa dénomination sociale à celle de Compagnie d'Assurance St. Paul Garantie le 1er janvier 2003.
+* Compagnie d'Assurance Longroup a modifié sa dénomination sociale à celle de Compagnie d'Assurance London Garantie à compter du 12 juin 1995.
+* Compagnie d'assurance MFC limitée et La Compagnie d'Assurance-Vie Manufacturers ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale La Compagnie d'Assurance-Vie Manufacturers à compter du 30 décembre 2004.
+* La Compagnie d'Assurance Missisquoi et Rouville a modifié sa raison sociale le 6 novembre 1989 et se nomme maintenant La compagnie d'Assurance Missisquoi.
+* Compagnie d'assurances New York Life du Canada et La Compagnie d'Assurance du Canada sur la Vie ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale de La Compagnie d'Assurance du Canada sur la Vie le 1er avril 1994.
+* La Compagnie D'Assurance OTIP/RAEO Inc. a modifié sa dénomination sociale à celle de La Compagnie d'Assurance Everest du Canada à compter du 31 décembre 1996.
+* La Compagnie d'Assurance Pohjola Ltée. (Vakuutusosakeyhtio Pohjola) a modifié sa dénomination sociale à celle de Pohjola Group Insurance Corporation à compter du 31 août 1998.
+* Compagnie d'Assurance St. Paul Garantie a modifié sa dénomination sociale à celle de La Compagnie Travelers Garantie du Canada à compter du 1er janvier 2007.
+* Compagnie d'Assurance St. Paul Garantie, La Compagnie d'Indemnité du Nord, Inc., 3921042 Canada Inc., 3207692 Canada Limited, 3112675 Canada Limited et 176856 Canada Inc. ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'Assurance St. Paul Garantie à compter du 1er janvier 2004.
+* La Compagnie d'assurance Standard Life 2006, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques de la succursale canadienne avec la Compagnie d'assurance Standard Life du Canada et la succursale canadienne d'Assurance Standard Life limitée. L'ordonnance portant garantie des risques au Canada a été révoquée le 15 août 2014.
+* Compagnie d'assurance Standard Life a modifié sa dénomination sociale à celle de Compagnie d'assurance Standard Life 2006 à compter du 10 juillet 2006.
+* La Compagnie d'assurance Standard Life du Canada, ayant vendu la totalité de ses biens à La Compagnie d'Assurance-Vie Manufacturers, a cessé ses opérations sous la Loi sur les sociétés d'assurances, et la compagnie a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions, en date du 2 juillet 2015, sous la dénomination sociale SCDA (2015) INC.
+* La Compagnie d'Assurance Stanstead & Sherbrooke a fusionné ses biens et opérations avec les biens et opérations de la Compagnie d'Assurance contre les Accidents et l'Incendie du Canada et avec les biens et opérations de la Compagnie d'Assurance Union Commerciale du Canada le 1er janvier 1989; la compagnie fusionnée ou la compagnie prenant suite des opérations est La Compagnie d'Assurance Union Commerciale du Canada.
+* La Compagnie d'Assurance Sun Alliance & London (Canada) a modifié sa dénomination sociale à celle de TBD Compagnie d'Assurance Vie à compter du 1er août 1995.
+* Compagnie d'Assurance Toronto Générale a fusionné ses biens et son entreprise avec ceux de la Compagnie d'Assurance Canadienne Générale à compter du 1er janvier 1994, la compagnie issue de la fusion étant la Compagnie d'Assurance Canadienne Générale.
+* Compagnie d'Assurance Traders Générale a fusionné ses biens et son entreprise avec GAN Canada Compagnie d'Assurances à compter du 31 décembre 1999. La compagnie issue de la fusion est Compagnie d'Assurance Traders Générale.
+* Compagnie d'Assurance Trafalgar du Canada a fusionné ses biens et son entreprise avec ceux de la Compagnie d'Assurance Canadienne Commerce à compter du 1er janvier 1993, la compagnie issue de la fusion étant la Compagnie d'Assurance Trafalgar du Canada.
+* La Compagnie d'Assurance Transit a cessé d'exercer des opérations au Canada. Lettres patentes de dissolution avec une date d'effet du 29 décembre 2000 ont été émises.
+* La Compagnie d'Assurance Union Commerciale du Canada a fusionné ses biens et son entreprise avec ceux de CGU, Compagnie D'Assurance du Canada à compter du 1er octobre 1999, la compagnie issue de la fusion étant CGU, Compagnie D'Assurance du Canada.
+* La Compagnie d'Assurance USF&G du Canada a fusionné avec la Compagnie d'Assurance Canadienne Générale le 30 juin 1990; les activités se poursuivent sous la raison sociale Compagnie d'Assurance Canadienne Générale.
+* Compagnie d'Assurances Victoria du Canada a fusionné ses biens et son entreprise avec Compagnie d'Assurance Traders Générale, à compter du 1er janvier 1996. La compagnie issue de la fusion est la Compagnie d'Assurance Traders Générale.
+* Compagnie d'assurance voyage RBC a modifié sa dénomination sociale à celle de Compagnie d'assurance RBC du Canada à compter du 30 mai 2007.
+* Compagnie d'assurance Voyageur a modifié sa dénomination sociale à celle de Compagnie d'assurance voyage RBC à compter du 28 juin 2000.
+* La Compagnie d'Assurance Wellington a changé son nom en celui de Compagnie d'Assurance Wellington à compter du 11 août 1986.
+* Compagnie D'Assurance Wellington a modifié sa dénomination sociale à celle de ING Wellington Compagnie d'assurance à compter du 27 octobre 2000.
+* La Compagnie d'Assurance-Vie AIG du Canada a changé sa raison sociale à BMO Société d'assurance-vie à compter du 30 mars 2009.
+* La Compagnie d'Assurance-Vie AIG du Canada et Assurance AIG du Canada ont été fusionnées et prorogées en une seule société sous la dénomination La Compagnie d'Assurance-Vie AIG du Canada à compter du 1 octobre 2008.
+* La Compagnie d'Assurance-Vie American International Ltée a modifié sa dénomination sociale à celle de La Compagnie d'Assurance-Vie AIG du Canada à compter du 1er avril 1998.
+* Compagnie d'assurance-vie de la Banque Royale du Canada a modifié sa dénomination sociale à celle de Compagnie d'assurance vie RBC à compter du 4 octobre 1999.
+* Compagnie d'Assurance-Vie CNA du Canada a modifié sa dénomination sociale à celle de La Compagnie d'Assurance Canada-Vie du Canada à compter du 12 décembre 2002.
+* La Compagnie d'Assurance-Vie Glacier National a modifié sa dénomination sociale à celle de Scotia-Vie compagnie d'assurance à compter du 16 décembre 1994.
+* Compagnie d'assurance-vie J.C. Penney a modifié sa dénomination sociale à celle de Stonebridge Compagnie d'assurance-vie à compter du 19 août 2002.
+* La Compagnie D'Assurance-Vie John Alden a cessé d'exercer des activités au Canada et a réassuré, aux fins de prise en charge, tous ses engagements au titre de polices d'assurances auprès d’Assurant Vie du Canada. L'ordonnance portant garantie de risques au Canada a été annulée le 20 décembre 2006.
+* Compagnie d'Assurance-Vie Laurier et L'Impériale, compagnie d'assurance-vie ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale de L'Impériale, compagnie d'assurance-vie le 1er janvier 1998.
+* Compagnie d'assurances-vie La Métropolitaine du Canada et La Mutuelle du Canada, compagnie d'assurance sur la vie ont été fusionnées et prorogées en une société mutuelle fonctionnant sous la dénomination sociale de La Mutuelle du Canada, compagnie d'assurance sur la vie le 31 décembre 1998 à 23 h 59.
+* La Compagnie d'Assurance-Vie MIC a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 21 novembre 2002.
+* La Compagnie d'Assurance-Vie North West du Canada a modifié sa dénomination sociale à celle de L'industrielle-Alliance Pacifique Compagnie d'Assurance sur la Vie à compter du 1er septembre 2000.
+* La Compagnie d'Assurance-Vie Penncorp a changé sa dénomination sociale à La Capitale sécurité financière, compagnie d'assurance à compter du 1 janvier 2014.
+* La Compagnie d'Assurance-Vie Primerica a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par La Compagnie d'Assurance-Vie Primerica du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 19 août 1994.
+* La Compagnie d'Assurance-Vie Seaboarda été dissoute à compter du 14 décembre 2009.
+* Compagnie d'assurance-vie State Farm International Ltée a cessé d'exercer des opérations au Canada et son passif canadien a été pris en charge par les compagnies d'assurance au sein de la Fédération des Caisses Desjardins du Québec. L'ordonnance portant garantie des risques au Canada a été annulée le 23 mars 2017.
+* Compagnie d'Assurance-Vie Transamerica du Canada et NN Compagnie d'Assurance-Vie du Canada ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Transamerica Vie Canada à compter du 31 décembre 2000.
+* La Compagnie d'assurance-vie Transamerica Occidental a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Compagnie d'Assurance-Vie Transamerica du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 12 avril 1995.
+* La Compagnie d'Assurance-Vie Union Commerciale du Canada a modifié sa dénomination sociale à celle de Compagnie d'assurance MFC limitée à compter du 26 septembre 2001.
+* Compagnie d'Assurance-Vie Union Fidelity a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 29 octobre 2004.
+* La Compagnie d'Assurance-vie Wawanesa et Western Life, Compagnie d'assurance-vie ont été fusionnées et prorogées en une seule société sous la dénomination sociale La Compagnie d'Assurance-vie Wawanesa à compter du 1er janvier 2020.
+* Compagnie canadienne d'assurances générales Lombard a changé sa raison sociale à Société d'assurance générale Northbridge à compter du 7 octobre 2011.
+* La Compagnie Canadienne de Réassurance a modifié sa dénomination sociale à celle de Suisse de Réassurance Vie Canada à compter du 5 juin 1995.
+* La Compagnie de Cautionnement Alta – Le 13 juillet 2001, le surintendant des institutions financières a pris le contrôle de La Compagnie de Cautionnement Alta et la cour accordait une ordonnance de liquidation nommant le surintendant au titre de liquidateur provisoire de la société. La cour a par la suite désigné la firme PricewaterhouseCoopers Inc. à titre de liquidateur permanent. La liquidation des opérations et des affaires de la société se poursuivent.
+* Compagnie de Garantie Seaboard du Canada a fusionné ses biens et son entreprise avec La Compagnie d'Indemnité du Nord, Inc. à compter du 1er janvier 2000. La compagnie issue de la fusion est La Compagnie d'Indemnité du Nord, Inc.
+* La Compagnie d'Indemnité du Nord, Inc. a fusionné ses biens et son entreprise avec Compagnie de Garantie Seaboard du Canada à compter du 1er janvier 2000. La compagnie issue de la fusion est La Compagnie d'Indemnité du Nord, Inc. La Compagnie d'Indemnité du Nord, Inc., Compagnie d'Assurance St. Paul Garantie, 3921042 Canada Inc., 3207692 Canada Limited, 3112675 Canada Limited et 176856 Canada Inc. ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'Assurance St. Paul Garantie à compter du 1er janvier 2004.
+* Compagnie Mutuelle D'Assurance Commercial Travelers a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Toronto Mutual Life Insurance Company. L'ordonnance portant garantie des risques au Canada a été annulée le 27 avril 2001.
+* La Compagnie Mutuelle d'Assurance-vie Wawanesa a changé son nom en celui de La Compagnie d'Assurance-vie Wawanesa à compter du 1er octobre 1993.
+* La Compagnie de Réassurances Baltica-Skandinavia du Canada a changé son nom en celui de Primmum Compagnie d'Assurance à compter du 20 juillet 1988.
+* La Compagnie de Réassurance Chancellor du Canada : Depuis le 5 juillet 1995, La Compagnie de Réassurance Chancellor du Canada fait l'objet d'une procédure volontaire de liquidation et de dissolution sous la supervision des tribunaux, en vertu de la Loi sur les sociétés d'assurances. La firme KPMG Comptables Agréés a été nommée liquidateur de la société en vertu d'une ordonnance du tribunal.
+* La Compagnie de Réassurance Chancellor du Canada a été dissoute à compter du 29 juin 2016.
+* La Compagnie de Réassurance Kanata a changé son nom en celui de Trygg-Hansa Reinsurance Company of Canada le 28 janvier 1991.
+* La Compagnie de Réassurance Mercantile et Générale du Canada a fusionné ses biens et son entreprise avec Compagnie Suisse de Réassurance Canada, à compter du 1er juillet 1997. La compagnie issue de la fusion est Compagnie Suisse de Réassurance Canada.
+* La Compagnie de Réassurance Sphère du Canada a modifié sa dénomination sociale pour La Compagnie d'Assurance Chequers au 31 août 1989.
+* La Compagnie de Réassurance TIG a modifié sa dénomination sociale à celle de Odyssey America Reinsurance Corporation à compter du 26 janvier 2000.
+* La Compagnie de Réassurance Vie Mercantile et Générale du Canada et Suisse de Réassurances Vie et Santé Canada ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale de Suisse de Réassurances Vie et Santé Canada le 1er juillet 1997.
+* Compagnie Suisse de Réassurance Canada a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions le 18 décembre 2008, sous la dénomination 4444647 Canada Inc.
+* Compagnie de sûreté Virginia Inc. à modifié sa dénomination sociale à celle de Compagnie d'assurances spécialisées Combined à compter du 16 mai 2002.
+* Compagnie de sûreté Virginia Inc., ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de American Bankers Insurance Company. L'ordonnance portant garantie des risques au Canada a été annulée le 28 septembre, 2021.
+* Compagnie Transcontinentale de Réassurance a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 16 décembre 1998.
+* La Compagnie Travelers Garantie du Canada a changé sa raison sociale à La Compagnie d'Assurance Travelers du Canada à compter du 1 mars 2012.
+* Concordia compagnie d'assurance-vie et L'Empire, Compagnie d'Assurance-Vie ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale L'Empire, Compagnie d'Assurance-Vie à compter du 1er janvier 2002.
+* La Confédération, Compagnie d'Assurance-Vie - Le 11 août 1994, le surintendant des institutions financières a pris le contrôle de La Confédération, Compagnie d'Assurance-Vie et la cour accordait une ordonnance de liquidation nommant le surintendant au titre de liquidateur provisoire de la société. La cour a par la suite désigné la firme KPMG Inc. à titre de liquidateur permanent. La liquidation des opérations et des affaires de la société se poursuivent.
+* Consolidated Life Assurance Company Limited a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par American Bankers Compagnie d'Assurances-Vie de la Floride. L'ordonnance portant garantie des risques au Canada a été annulée le 13 octobre 1995.
+* Constitution du Canada, Compagnie d'Assurance a été dissoute à compter du 16 janvier 2014.
+* Constitution du Canada, Compagnie d'Assurance a cessé d'exercer des activités au Canada. Lettres patentes de dissolution avec une date d'effet du 16 janvier 2014 ont été émises.
+* Continental Assurance Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Compagnie d'Assurance-Vie CNA du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 25 juillet 2002.
+* The Continental Insurance Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Continental Casualty Company. L'ordonnance portant garantie des risques au Canada a été annulée le 21 décembre 2001.
+* The Contingency Insurance Company Limited a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par GAN Canada Compagnie d'Assurances le 1er janvier 1988.
+* Corporation d'assurance Triad Guaranty du Canada a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions le 20 juin 2008, sous la dénomination 4482069 Canada Limited.
+* Corporation de Garantie RoyNat le certificat d'enregistrement a été retiré le 21 juin 1984, conformément à la demande de la compagnie.
+* Corporation Holding Économique a modifié sa dénomination sociale à celle de Société financière Definity à compter du 12 août 2021.
+* Co-operators Compagnie d’Assurance-Vie et La Compagnie d’Assurance-Vie CUMIS ont fusionné et ont continué sous le nom Co-operators Compagnie d’Assurance-Vie / Co-operators Life Insurance Company, à compter du 31 décembre 2021.
+* La Compagnie d’Assurance Générale Co-operators et La Compagnie d’Assurance COSECO ont fusionné et ont continué sous le nom Co-operators General Insurance Company / La Compagnie d’Assurance Générale Co-operators, à compter du 31 décembre 2021.
+* Compagnie d’assurance Definity, La Compagnie d’Assurance Missisquoi, Perth, Compagnie d’Assurance, et Waterloo, Compagnie d’Assurance ont fusionné et ont continué sous le nom Compagnie d’assurance Definity, à compter du 1er janvier 2024.
+* CorePointe Insurance Company Canada a cessé de mener des activités d’assurance au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 20 mai 2025.
+* La Compagnie d’assurance-vie Gerber a cessé de mener des activités d'assurance au Canada. L'ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 10 novembre 2021.
+* The Credit Life Insurance Company a modifié sa dénomination sociale à celle de Union Fidelity Life Insurance Company à compter du 13 juin 1994.
+* Croatian Fraternal Union of America a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 16 décembre 2020.
+* Crown, compagnie d'assurance vie du Canada et La Compagnie d'Assurance du Canada sur la Vie ont été fusionnées et prorogées en une société mutuelle fonctionnant sous la dénomination sociale de La Compagnie d'Assurance du Canada sur la Vie le 1er juillet 1999 à 00 h 01.
+* CT assurance directe inc. a modifié sa dénomination sociale à celle de Compagnie d'assurances générales TD à compter du 1er septembre 2000.
+* CUMIS Insurance Society, Inc. a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 1er janvier 2000.
+* CUNA Mutual Insurance Society a changé sa raison sociale à CMFG Life Insurance Company à compter du 1 mars 2012.
+
+### D
+
+* Darwin National Assurance Company a modifié la raison sociale sous laquelle elle garantit au Canada des risques à celle de Compagnie d'assurance de spécialité Allied World à compter du 7 mai 2015.
+* DAS compagnie d'assurance de protection juridique Limitée et La Compagnie d'assurance Temple ont été fusionnées et prorogées en une seule société sous la dénomination La compagnie d'assurance Temple à compter du 7 août 2018.
+* Société financière Definity a été autorisée à cesser ses activités en vertu de la Loi sur les sociétés d’assurances et à être prorogée sous le régime de la Loi canadienne sur les sociétés par actions à compter du 11 décembre 2023.
+* La Dominion, Compagnie d'Assurance sur la Vie procède à la liquidation de ses activités en vertu des dispositions de la Loi sur les liquidations et les restructurations depuis décembre 1986. Par conséquent, cette société n'est pas assujettie à la Loi sur les sociétés d'assurances.
+
+### E
+
+* Eagle Star Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations d'assurance canadiennes auprès de la société canadienne, Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été révoquée le 4 février 2011.
+* Échelon, Compagnie D'Assurances Générales a modifié sa dénomination sociale à celle de Échelon Assurance à compter du 17 avril 2015.
+* Economical, Compagnie Mutuelle d’Assurance en remplaçant sa dénomination sociale par, en français, Compagnie d’assurance Definity, à compter 18 décembre 2021.
+* Electrical Workers' Benefit Association a cessé d'exister le 31 décembre 1991.
+* Emmco Insurance Company a changé son nom en celui de Associates Insurance Company à compter du 30 octobre 1986.
+* Employers Reinsurance Corporation a modifié sa dénomination sociale à celle de Westport Insurance Corporation à compter du 1er janvier 2008.
+* Endurance Reinsurance Corporation of America, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été révoquée le 13 juillet 2012.
+* English & American Insurance Company Limited s'est vue annuler son Ordonnance portant garantie des risques au Canada le 6 octobre 1993 et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations.
+* Ennia Insurance Company (U.K.) Limited a changé son nom en celui de Aegon Insurance Company (U.K.) Limited à compter du 3 mai 1985.
+* ERC Frankona Rückversicherungs-Aktien-Gesellschaft a modifié sa dénomination sociale à celle de GE Frankona Rückversicherungs-Aktiengesellschaft à compter du 1er avril 2001.
+* L'Équitable, Compagnie d'Assurances Générales a cessé ses opérations sous la Loi sur les sociétés d'assurances et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions sous la dénomination sociale 10482323 Canada Inc. à compter du 8 décembre 2017.
+* L'Équitable Société d'assurance-vie des États-Unis a modifié sa dénomination sociale à celle de AXA Equitable assurance-vie à compter du 7 septembre 2004.
+* Equitable Financial Life Insurance Company, ayant cessé d’exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d’assurance canadiennes auprès de Assumption Mutual Life Insurance Company. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 22 août 2022.
+* Euler American Credit Indemnity Company a modifié sa dénomination sociale à celle de Euler Hermes American Credit Indemnity Company à compter du 30 avril 2007.
+* Euler Hermes American Credit Indemnity Company a changé sa raison sociale à Compagnie d'assurances Euler Hermes – Amérique du Nord à compter du 5 mars 2012.
+
+### F
+
+* FaithLife Financial a modifié sa dénomination sociale à celle de Sernia Life Financial à compter de 3 décembre 2025.
+* La Federated, Compagnie Mutuelle d'Assurances : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par La Federated, Compagnie Mutuelle d'Assurances a été annulée le 31 décembre 1992.
+* La Fédération Compagnie d'Assurances du Canada a remplacé sa dénomination sociale par, en français, Compagnie d'assurance Sonnet et, en anglais, Sonnet Insurance Company à compter du 1er janvier 2016.
+* La Federated, Compagnie d'Assurance du Canada, a changé la province de son siège social, le transférant du Manitoba à l’Ontario, à compter du 14 août 2023.
+* Fidelity Investments, compagnie d'assurance du Canada a cessé ses opérations sous la Loi sur les sociétés d'assurances et a reçu un certificat de prorogation en vertu de la Loi canadienne par actions sous la dénomination sociale Fidelity FIICC Ltd. à compter du 31 décembre 2009.
+* Fidelity Investments Life Insurance Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Fidelity Investments, compagnie d'assurances du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 18 avril 2007.
+* Fidelity National Title Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Chicago Title Insurance Company. L'ordonnance portant garantie des risques au Canada a été révoquée le 20 décembre 2013.
+* Financial du Canada, Compagnie D'Assurance-Vie a cessé d'exercer des opérations au Canada. Lettres patentes de dissolution avec une date d'effect du 1er mars 2004 ont été émises.
+* Financière Sun Life du Canada inc. a changé son nom en celui de Financière Sun Life inc. à compter du 2 juillet 2003.
+* Finial Reinsurance Company (anciennement connue sous Converium Reinsurance (North America) Inc.), ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec National Liability & Fire Insurance Company. L'ordonnance portant garantie des risques au Canada a été révoquée le 28 février 2014.
+* Fireman's Fund du Canada Compagnie d'Assurance a changé son nom en celui de La Compagnie d'Assurance Wellington à compter du 1er mars 1985.
+* Fireman's Fund Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 19 mars 1997.
+* First Allmerica Financial Life Insurance Company a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 29 juillet 2011.
+* The First Catholic Slovak Ladies Association of the United States of America a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Toronto Mutual Life Insurance Company à compter du 1er janvier 1999. L'ordonnance portant garantie des risques au Canada a été annulée le 15 février 2002.
+* The First Catholic Slovak Union of the United States of America and Canada a cessé d'exercer des opérations au Canada et son passif canadien a été pris en charge par Toronto Mutual Life Insurance Company à compter du 1er janvier 1999. L'ordonnance portant garantie des risques au Canada a été annulée le 9 septembre 2002.
+* First National Insurance Company of America a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Compagnie d'assurance générale Dominion du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 18 octobre 2001.
+* Folksamerica National Reinsurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 1996.
+* Folksamerica Reinsurance Company a changé sa raison sociale à White Mountains Reinsurance Company à compter du 28 juillet 2008.
+* Ford Life Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 29 novembre 2002.
+* Forestiers Canadiens, Société d'Assurance-Vie, dont le fonds de commerce a été acquis par L'Ordre Indépendant des Forestiers, a cessé d'être enregistrée le 26 février 1992.
+* Foresters Indemnity Company a cessé ses opérations sous la Loi sur les sociétés d’assurances, et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions, en date de 18 mai 2023, sous la dénomination sociale Foresters Indemnity Company.
+* Foremost Insurance Company Grand Rapids, Michigan : Conformément à la demande de la société, l'ordonnance portant garantie des risques au Canada par Foremost Insurance Company Grand Rapids, Michigan a été annulée le 31 août 1995.
+* Forethought Life Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de L'Unité-Vie du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 21 décembre 2009.
+* Fortis Benefits, Compagnie d'Assurance, dénomination sociale sous laquelle Union Security Insurance Company était autorisée à garantir des risques au Canada, a cessé d'exercer des activités au Canada et a réassuré, aux fins de prise en charge, tous ses engagements au titre de polices d'assurances auprès de Assurant Vie du Canada. L'ordonnance portant garantie de risques au Canada a été annulée le 20 décembre 2006.
+* The Franklin Life Insurance Company a cessé d'exercer des opérations au Canada et son passif canadien a été pris en charge par Colonia Compagnie d'Assurance-Vie. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 1996.
+* Frankona Rückversicherungs-Aktien-Gesellschaft a modifié sa dénomination sociale à celle de ERC Frankona Rückversicherungs-Aktien-Gesellschaft à compter du 1er avril 1999.
+
+### G
+
+* GAN Canada Compagnie d'Assurances a fusionné ses biens et son entreprise avec Compagnie d'Assurance Traders Générale à compter du 31 décembre 1999. La compagnie issue de la fusion est Compagnie d'Assurance Traders Générale.
+* Gan Eurocourtage a changé sa raison sociale à Groupama S.A. à compter du 28 février 2013.
+* GAN General Insurance Company, société d'assurances constituée sous le régime des lois de l'Ontario, a reçu des lettres patentes la prorogeant sous le régime de la Loi sur les sociétés d'assurances et a fusionné ses éléments d'actif et ses activités avec celles de CGU, Compagnie D'Assurance du Canada le 31 décembre 1999. La société issue de la fusion aura pour désignation sociale CGU, Compagnie D'Assurance du Canada.
+* Gan Incendie Accidents Compagnie Française a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Gan Canada Compagnie d'Assurances le 1er janvier 1988.
+* GAN VIE Compagnie Française d'Assurances sur la Vie à modifié sa dénomination sociale à celle de GAN Assurances Vie Compagnie française d'assurances vie mixte à compter du 24 juin 2002.
+* La Garantie, Compagnie d'Assurance de l'Amérique du Nord et 11554280 Canada Inc. ont été fusionnées et prorogées en une seule société sous la dénomination La Garantie, Compagnie d'Assurance de l'Amérique du Nord à compter du 1er janvier 2020.
+* La Garantie, Compagnie d'Assurance de l'Amérique du Nord, 4082117 Canada Inc. et 4414667 Canada Inc. ont été fusionnées et prorogées en une seule société sous la dénomination La Garantie, Compagnie d'Assurance de l'Amérique du Nord à compter du 31 décembre 2008.
+* GCAN Insurance Company, société d'assurances constituée sous le régime des lois de l'Ontario, a reçu des lettres patentes la prorogeant sous le régime de la Loi sur les sociétés d'assurances et a fusionné ses éléments d'actif et ses activités avec celles de Royal & Sun Alliance du Canada, société d'assurances le 1 janvier 2012. La société issue de la fusion aura pour désignation sociale Royal & Sun Alliance du Canada, société d'assurances.
+* GE Frankona Rückversicherungs-Aktiengesellschaft a modifié sa dénomination sociale à celle de Swiss Re Frankona Rückversicherungs-Aktiengesellschaft à compter du 22 décembre 2006.
+* GE Reinsurance Corporation a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Employers Reinsurance Corporation. L'ordonnance portant garantie des risques au Canada a été annulée le 30 décembre 2003.
+* General & Cologne Life Re of America a modifié sa dénomination sociale à celle de General Re Life Corporation à compter du 5 avril 2005.
+* General Accident, Compagnie d'Assurance du Canada a modifié sa dénomination sociale à celle de CGU, Compagnie D'Assurance du Canada à compter du 31 mars 1999.
+* Général Accident Indemnité Compagnie d'Assurance a fusionné ses biens et son entreprise avec ceux de La Prudasco, Compagnie d'Assurance à compter du 1er janvier 1994, la compagnie issue de la fusion étant la Général Accident Indemnité Compagnie d'Assurance.
+* Général Accident Indemnité Compagnie d'Assurance a fusionné ses biens et son entreprise avec ceux de la General Accident, Compagnie d'Assurance du Canada à compter du 31 décembre 1994, la compagnie issue de la fusion étant General Accident, Compagnie d'Assurance du Canada.
+* General American Life Insurance Company et Société d'assurance-vie Metropolitan Tower ont fusionné le 27 avril 2018 sous la raison sociale Société d'assurance-vie Metropolitan Tower conformément aux lois de l'État de Delaware. S'étant fusionnée le 27 avril 2018, General American Life Insurance Company n'est plus une entité au sens de la Loi sur les sociétés d'assurances.
+* General American, Compagnie de réassurance-vie du Canada a modifié sa dénomination sociale à celle de RGA Compagnie de réassurance-vie du Canada à compter du 18 septembre 1995.
+* General Insurance Company of America a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Compagnie d'assurance générale Dominion du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 18 octobre 2001.
+* General Reassurance Corporation a changé son nom en celui de Life Reassurance Corporation of America à compter du 3 août 1989.
+* General Security Assurance Corporation of New York a changé sa raison sociale à SCOR, Compagnie de Réassurance à compter du 31 mars 1994.
+* Girafe & Cie, compagnie d'assurance-vie a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions le 11 août 2016, sous la dénomination 9733906 Canada Inc.
+* Globe Life Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 19 mai 1995.
+* Les Grands Lacs, Compagnie de Réassurance a modifié sa dénomination sociale à celle de La compagnie d'assurance Temple à compter du 2 avril 1998.
+* Granite Compagnie d'Assurances a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions le 11 décembre 2015, sous la dénomination Banff Wing Holdings Inc.
+* La Great-West, compagnie d'assurance-vie, La Compagnie d'Assurance du Caanda sur la Vie, London Life, Compagnie d'Assurance-Vie, Corporation Financière Caanda-Vie, et Groupe d'assurance London Inc. ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale La Compagnie d'Assurance du Canada sur la Vie à compter du 1er janvier 2020.
+* Great American Insurance Company of New York, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations d'assurance canadiennes auprès de la branche canadienne de Great American Insurance Company. L'ordonnance portant garantie des risques au Canada a été révoquée le 28 janvier 2011.
+* Groupama GAN Vie a cessé d'exercer des activités au Canada, sous le nom GAN Assurances Vie Compagnie française d'assurances vie mixte. Son passif canadien a été pris en charge par L'Union-vie, compagnie mutuelle d'assurance. L'ordonnance portant garantie des risques au Canada a été révoquée le 13 décembre 2016.
+* Groupama S.A. a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 23 juin 2016.
+* Groupama Transport a changé sa raison sociale à Gan Eurocourtage à compter du 30 janvier 2012.
+* Le Groupe Commerce Compagnie d'Assurances, ING Wellington Compagnie d'assurance et Compagnie d'assurance ING du Canada ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'assurance ING du Canada à compter du 1er juillet 2002.
+* Guildhall Insurance Company : Conformément à la demande de la société, l'ordonnance portant garantie des risques au Canada par Guildhall Insurance Company a été annulée le 23 octobre 1995.
+
+### H
+
+* The Hannover Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été révoquée le 22 juin 2012.
+* Hannover Re (Ireland) Designated Activity Company a changé la raison sociale sous laquelle elle garantit au Canada des risques à Hannover Re (Irlande) succursale canadienne – réassurance de personnes à compter du 31 octobre 2016.
+* Hannover Rückversicherung AG a changé sa raison sociale à Hannover Rück SE à compter du 3 mai 2013.
+* Hannover Ruckversicherungs-Aktiengesellschaft a modifié sa dénomination sociale à celle de Hannover Rückversicherung AG à compter du 30 avril 2004.
+* Hartford du Canada, Compagnie d'Assurance-Vie et La Compagnie d'Assurance-Vie AIG du Canada ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale de La Compagnie d'Assurance-Vie AIG du Canada le 30 septembre 1999.
+* The Hartford Fire Insurance Company a reformulé sa dénomination sociale à celle de Hartford Fire Insurance Company à compter du 31 octobre 2003.
+* Hartford Life Insurance Company a changé la raison sociale sous laquelle elle garantit au Canada des risques à Talcott Resolution Life Insurance Company à compter du 14 août 2018.
+* The Hartford Steam Boiler and Inspection Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par La Compagnie d'Inspection et d'Assurance Chaudières et Machinerie le 31 décembre 1988.
+* HDI-Gerling Industrie Versicherung AG (maintenant connu sous le nom HDI Global SE) a changé la raison sociale sous laquelle elle garantit au Canada des risques à HDI Global SE Canada Branch à compter du 4 février 2016.
+* Heartland Farm Mutual Inc. et The Kings Mutual Insurance Company ont été fusionnées et prorogées en une seule société sous la dénomination Heartland Farm Mutual Inc. à compter du 1er août 2021.
+* Helvetia Compagnie Suisse d'Assurances a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 2000.
+* Helvetia Swiss Fire Insurance Company, Limited a changé son nom pour Helvetia Compagnie Suisse d'Assurances à compter du 19 juin 1989.
+* Highlands Insurance Company a mis fin à ses opérations d'assurance au Canada. L'ordonnance autorisant à garantir des risques au Canada a été annulée le 6 juillet 2007.
+* The Home Insurance Company – Le 18 juin 2003, le surintendant des institutions financières a pris le contrôle de la succursale canadienne, The Home Insurance Company. La Cour supérieure de justice de l'Ontario a par la suite désigné la firme Deloitte et Touche Inc. à titre de liquidateur provisoire.
+* Household Life Insurance Company a changé la raison sociale sous laquelle elle garantit au Canada des risques à Compagnie d'assurance-vie Pavonia de Michigan à compter du 23 décembre 2013.
+* HSBC Bank USA, National Association a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 23 juillet 2014.
+* The Hungarian Reformed Federation of America a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Toronto Mutual Life Insurance Company. L'ordonnance portant garantie des risques au Canada a été annulée le 28 mai 1996.
+* ICAROM Public Limited Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été révoquée le 13 décembre 2012.
+* Ideal Mutual Insurance Company le certificat d'enregistrement a été retiré le 15 février et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations.
+* L'Impériale, compagnie d'assurance-vie et sa filiale en propriété exclusive, Laurentienne-Vie du Canada, Compagnie d'Assurance, ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale de L'Impériale, compagnie d'assurance-vie le 1er janvier 1993.
+* L'Impériale, Compagnie d'Assurance-Vie, après l'adoption d'une Loi d'intérêt privé par le Sénat du Canada, a été prorogée en tant que personne morale régie par les lois de la province du Québec à compter du 10 septembre 2001. Elle cessera d'être régie par la Loi sur les sociétés d'assurances dès cette prorogation.
+
+### I
+
+* INA du Canada Compagnie d'Assurance a changé son nom en celui de CIGNA du Canada Compagnie d'assurance à compter du 1er septembre 1985.
+* Industrielle Alliance Pacifique, Compagnie d'Assurances Générales, qui était constituée en vertu de la Loi sur les sociétés d'assurances, a été prorogée en tant que personne morale régie par les lois de la province du Québec à compter du 20 décembre 2011.
+* Industrielle Alliance Pacifique, Assurance et Services Financiers Inc. qui était constituée en vertu de la Loi sur les sociétés d'assurances, a été prorogée en tant que personne morale régie par les lois de la province du Québec à compter du 25 mai 2012.
+* ING Novex Compagnie d'assurance du Canada a changé sa raison sociale à Novex Compagnie d'assurance à compter du 10 mars 2009.
+* ING Wellington Compagnie d'assurance, Le Groupe Commerce Compagnie d'Assurances et Compagnie d'assurance ING du Canada ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'assurance ING du Canada à compter du 1er juillet 2002.
+* L'Indemnité Compagnie Canadienne a fusionné ses biens et son entreprise avec ceux de la Compagnie d'assurance Casualty du Canada et ceux de la Compagnie d'assurance générale Dominion du Canada à compter du 31 mai 1989, la compagnie issue de la fusion étant la Compagnie d'assurance générale Dominion du Canada.
+* L'industrielle-Alliance Pacifique Compagnie d'Assurance sur la Vie a modifié sa dénomination sociale à celle de Industrielle Alliance Pacifique, Assurance et services financiers inc. à compter du 17 juillet 2007.
+* Les obligations de Insurance Company of North America ayant été transférées à CIGNA du Canada Compagnie d'assurance, la compagnie a cessé d'être enregistrée à compter du 28 février 1993.
+* The Insurance Corporation of Ireland Limited a changé son nom en celui de ICAROM Public Limited Company à compter du 20 décembre 1991.
+* The Insurance Corporation of New York a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 22 octobre 2009.
+* Intact Compagnie d'assurance et Assurances Ascentus ltée ont fusionné et ont continué sous le nom Intact Compagnie d'assurance, à compter du 1er janvier 2023.
+* Intact Compagnie d’assurance, Western Assurance Company et 13130126 Canada Inc. ont fusionné et ont continué sous le nom Intact Compagnie d’assurance, à compter du 1er janvier 2025.
+* Intact Compagnie d’assurance, Royal & Sun Alliance Compagnie d’assurance du Canada et 13130100 Canada inc. ont fusionné et ont continué sous le nom Intact Compagnie d’assurance, à compter du 1er janvier 2026.
+* Intact Compagnie d'assurance, AXA Pacifique Compagnie d'Assurance et AXA Assurances (Canada) ont été fusionnées et prorogées en une seule société sous la dénomination sociale, en français, Intact Compagnie d'assurance et, en anglais, Intact Insurance Company à compter du 1 janvier 2014.
+* Intact Compagnie d'assurance et La Garantie, Compagnie d'Assurance de l'Amérique du Nord ont été fusionnées et prorogées en une seule société sous la dénomination sociale, en français, Intact Compagnie d'assurance et, en anglais, Intact Insurance Company à compter du 1er avril 2021.
+* International Insurance Company of Hannover Limited a changé sa dénomination sociale à International Insurance Company of Hannover Plc à compter du 30 août 2013.
+* International Insurance Company of Hannover Plc a modifié la raison sociale sous laquelle elle garantit au Canada des risques par International Insurance Company of Hannover SE à compter du 3 septembre 2014.
+* International Insurance Company of Hannover SE a modifié la raison sociale sous laquelle elle garantit au Canada des risques par HDI Global Assurance Spécialités SE à compter du 14 décembre 2018.
+* Ironshore Insurance Ltd. a modifié la raison sociale sous laquelle elle garantit au Canada des risques par, en français, Marchés Spécialisés Liberté Bermudes Limitée et en anglais, Liberty Specialty Markets Bermuda Limited à compter du 19 fevrier 2019.
+* ITT Hartford du Canada, Compagnie d'Assurance-Vie a modifié sa dénomination sociale à celle de Hartford du Canada, Compagnie d'Assurance-Vie à compter du 1er octobre 1997.
+
+### J
+
+* Jewelers Mutual Insurance Company a modifié la raison sociale sous laquelle elle garantit au Canada des risques par, en français, Jewelers, Compagnie d'Assurance Mutuelle par actions et en anglais, Jewelers Mutual Insurance Company, SI à compter du 24 mars 2020.
+* John Deere, Compagnie D'Assurance du Canada a modifié sa dénomination sociale à celle de Échelon, Compagnie D'Assurances Générale à compter du 5 mars 1998.
+* John Hancock Life Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré toutes ses obligations au titre de polices d'assurance canadiennes auprès de Manuvie Canada Ltée. L'ordonnance portant garantie des risques au Canada a été annulée le 25 juin 2009.
+* John Hancock Mutual Life Insurance Company a modifié sa dénomination sociale à celle de John Hancock Life Insurance Company à compter du 1er février 2000.
+
+### K
+
+* La Kansa General Insurance Company Limited a changé sa raison sociale le 30 mars 1990. Elle s'appelle maintenant la Compagnie d'Assurance Générale Kansa International S.A.
+* Kemper Reinsurance Company a modifié sa dénomination sociale à celle de GE Reinsurance Corporation à compter du 19 mai 1999.
+* The Kings Mutual Insurance Company et The Pictou County Farmers' Mutual Fire Insurance Company ont été fusionnées et prorogées en une seule société mutuelle sous la dénomination sociale The Kings Mutual Insurance Company à compter du 1er janvier 2016.
+
+### L
+
+* La Laurentienne, Compagnie d'Assurance de Dommages du Canada a modifié sa raison sociale le 21 février 1990; elle s'appelle maintenant Laurentienne Casualty, Compagnie d'Assurance de Dommages du Canada.
+* Laurentienne Casualty Compagnie d'Assurance de Dommages du Canada a fusionné ses biens et opérations avec les biens et opérations de La Laurentienne du Pacifique Compagnie d'Assurance et avec les biens et opérations de Le Bouclier Laurentien Compagnie d'Assurances le 27 février 1992; la compagnie résultant de cette fusion est la Laurentienne Compagnie d'Assurance de Dommages.
+* Laurentienne Compagnie d'Assurance de Dommages a changé sa dénomination sociale à Boréal Compagnie d'assurances de dommages à compter du 9 décembre 1993.
+* La Laurentienne du Pacifique Compagnie d'Assurance a fusionné ses biens et opérations avec les biens et opérations de Laurentienne Casualty Compagnie d'Assurance de Dommages du Canada et avec les biens et opérations de Le Bouclier Laurentien Compagnie d'Assurances le 27 février 1992; la compagnie résultant de cette fusion est la Laurentienne Compagnie d'Assurance de Dommages.
+* Lawyers Title Insurance Corporation a changé sa raison sociale à Compagnie d'assurance titres Fidelity National à compter du 30 juin 2010.
+* La société Liberty Life Assurance Company of Boston a cessé d’exercer des activités au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée avec prise d’effet le 29 septembre 2021.
+* Liberty Specialty Markets Bermuda Limited, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec La Compagnie d'Assurance Liberté Mutuelle. L'ordonnance portant garantie des risques au Canada a été révoquée le 28 janvier 2020.
+* Life Reassurance Corporation of America a modifié sa dénomination sociale à celle de Swiss Re Life & Health America Inc. à compter du 8 mars 2001.
+* The Lincoln National Life Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 30 avril 2006.
+* London and Midland General Insurance Company a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions le 17 novembre 2008, sous la dénomination 4499441 Canada Inc.
+* The London Assurance a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 1997.
+* London-Canada Insurance Company a fusionné ses biens et opérations avec les biens et opérations de La Compagnie d'Assurance Great Eastern le 31 décembre 1987; la compagnie fusionnée ou la compagnie prenant suite des opérations est la Compagnie d'Assurance Hartford du Canada.
+* Lumbermens Mutual Casualty Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été révoquée le 29 juillet 2011.
+* Lumbermen's Underwriting Alliance a mis fin à ses opérations d'assurance au Canada. L'ordonnance autorisant à garantir des risques au Canada a été annulée le 30 décembre 2015.
+* Lutheran Life Insurance Society of Canada a changé sa raison sociale à FaithLife Financial à compter du 17 octobre 2008.
+
+### M
+
+* Le Mans Ré a modifié sa dénomination sociale à celle de XL Re Europe, succursale du Canada à compter du 15 décembre 2003.
+* Manulife Canada Ltée a été prorogée en vertu de la Loi canadienne sur les sociétés par actions sous le nom 8732868 Canada Limited à compter du 30 décembre 2013.
+* Mapfre Reinsurance Corporation, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de Mapfre Re Compania de Reaseguros, S.A. L'ordonnance portant garantie des risques au Canada a été annulée le 29 mai 2008.
+* Marine Indemnity Insurance Company of America a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 1997.
+* La Maritime Compagnie d'Assurance-vie a cessé ses opérations sous la Loi sur les sociétés d'assurances et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions sous la dénomination sociale 427494-6, à compter du 31 décembre 2004.
+* La Maritime Compagnie d'Assurance-vie, une société constituée aux termes de The Maritime Life Assurance Company Act, Statutes of Nova Scotia, 1986, c.96, a été prorogée comme une société sous le régime de la Loi sur les sociétés d'assurances à compter du 24 décembre 1999.
+* Maritime Insurance Company Limited a cessé d'exercer des opérations au Canada et tout son passif canadien a été prise en charge par Continental Casualty Company. L'ordonnance portant garantie des risques au Canada a été annulée le 11 mars 2003.
+* Markel compagnie d'assurance du Canada a changé sa raison sociale à Société d'assurance des entreprises Northbridge à compter du 7 octobre 2011.
+* Maryland Casualty Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été prise en charge par Zurich Compagnie d'Assurances. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 2002.
+* Massachusetts Mutual Life Insurance Company a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 6 décembre 2013.
+* Massachusetts General Life Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 18 octobre 1993.
+* Massachusetts Indemnity and Life Insurance Company a changé son nom en celui de La Compagnie d'Assurance-Vie Primerica à compter du 1er juillet 1992.
+* The Mercantile and General Reinsurance Company plc a cessé d'exercer des opérations au Canada et a cédé son passif canadien. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 1992.
+* MetLife Insurance Company of Connecticut, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de MetVie Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 29 février 2008.
+* Metropolitan Insurance Company a fusionné ses biens et opérations avec les biens et opérations de la Compagnie d'assurances-vie La Métropolitaine du Canada le 30 décembre 1992; la compagnie fusionné ou la compagnie prenant suite des opérations est la Compagnie d'assurances-vie La Métropolitaine du Canada.
+* La Métropolitaine Générale, Compagnie d'Assurance, après l'adoption d'une Loi d'intérêt privé par le Sénat du Canada, a été prorogée par lettres patentes de continuation comme compagnie d'assurance de la province de Québec, en date du 19 décembre 1991.
+* MetVie Canada a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions le 30 juin 2010, sous la dénomination MetVie Canada Inc.
+* Midland Insurance Company le certificat d'enregistrement a été retiré le 10 avril 1986 et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations.
+* Minnesota Life Insurance Company a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 18 février 2011.
+* The Minnesota Mutual Life Insurance Company a modifié sa dénomination sociale à celle de Compagnie d'Assurance-vie Minnesota à compter du 30 avril 1999.
+* Mission American Insurance Company ayant aliéné son passif au Canada, elle a cessé d'être enregistrée à compter du 31 mars 1991.
+* Mitsui Marine and Fire Insurance Company, Limited et The Sumitomo Marine and Fire Insurance Company, Limited ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'Assurance Mitsui Sumitomo Limitée à compter du 1er octobre 2001.
+* MONY Reinsurance Corporation a changé sa dénomination sociale pour Folksamerica National Reinsurance Company à compter du 24 septembre 1992.
+* The Mutual Life Insurance Company of New York a cessé d'exercer des operations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 20 novembre 2000.
+* La Mutuelle du Canada, compagnie d'assurance sur la vie a modifié sa dénomination sociale à celle de Clarica, compagnie d'assurance sur la vie, à compter du 21 juillet 1999 à 00 h 01, suite à sa transformation en société par actions.
+* Mutuelle Générale Française Accidents a changé son nom en Les Mutuelles du Mans I.A.R.D. à compter du 4 mars 1988.
+* La Mutuelle du Mans Assurances I.A.R.D. a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 30 juin 2000.
+* La Mutuelle du Mans Assurances Vie a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 5 septembre 2003.
+* Les Mutuelles Du Mans I.A.R.D. a changé son nom en celui de La Mutuelle Du Mans Assurances I.A.R.D. le 5 mars 1991.
+* La Mutuelle d'Omaha, Compagnie d'Assurance a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 20 novembre 2002.
+
+### N
+
+* NAC Reinsurance Corporation a modifié sa dénomination sociale à celle de XL Reinsurance America Inc. à compter du 22 octobre 2001.
+* La National Employers' Mutual General Insurance Association, Limited s'est vue retirer son certificat d'enregistrement le 11 décembre 1990 et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations.
+* National Fraternal Society of the Deaf a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 30 avril 1996. Les polices ont soit été rachetées ou prises en charge par Croatian Fraternal Union of America.
+* National Fidelity Life Insurance Company, dénomination sociale sous laquelle Bankers National Life Insurance Company était autorisée à garantir des risques au Canada, a modifié sa dénomination sociale à celle de La compagnie d'assurance Washington National le 2 juin 2005.
+* National Reinsurance Corporation a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par General Reinsurance Corporation. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 2003.
+* La Nationale, Compagnie de Réassurance du Canada a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions, en date du 22 décembre 1994, sous la dénomination sociale 310071-5 CANADA INC.
+* NCMIC Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 15 mars 2006.
+* Nederlandse Reassurantie Groep N.V., ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de NRG Victory Reinsurance Limited. L'ordonnance portant garantie des risques au Canada a été annulée le 19 juin 2008.
+* New England Insurance Company, auparavant New England Reinsurance Corporation, a cessé d'exercer des affaires au Canada. Son passif canadien a été pris en charge par New England Reinsurance Corporation, auparavant Tower Insurance Company of Connecticut, le 1er janvier 1984.
+* New England Mutual Life Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 1er novembre 1995.
+* New England Reinsurance Corporation a changé son nom en celui de New England Insurance Company à compter du 29 février 1984.
+* New England Reinsurance Corporation a retiré son certificat d'enregistrement le 31 décembre 1988 et tout son passif canadien a été pris en charge par The Hartford Fire Insurance Company.
+* New Hampshire Insurance Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par American Home Assurance Company. L'ordonnance portant garantie des risques au Canada a été annulée le 5 septembre 2003.
+* The New India Assurance Company, Limited a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 30 mars 2017.
+* New Rotterdam Insurance Company a modifié sa dénomination sociale à celle de UAP-NewRotterdam Insurance Company N.V. à compter du 28 octobre 1997.
+* Les obligations de The New Zealand Insurance Company Limited ayant été transférées à la Christiania General Insurance Corporation, la compagnie a cessé d'être enregistrée à compter du 31 mars 1991.
+* Niagara Fire Insurance Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Continental Casualty Company. L'ordonnance portant garantie des risques au Canada a été annulée le 21 décembre 2001.
+* The Nippon Fire & Marine Insurance Company, Limited a modifié sa dénomination sociale à NIPPONKOA Insurance Company, Limited à compter du 1er avril 2001.
+* NN Compagnie d'Assurance-Vie du Canada et Compagnie d'Assurance-Vie Transamerica du Canada ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Transamerica Vie Canada à compter du 31 décembre 2000.
+* The Non-Marine Underwriters, Members of Lloyd's, London, England a modifié sa dénomination sociale à celle de les Souscripteurs du Lloyd's à compter du 1er octobre 1999.
+* La Nord-américaine, compagnie d'assurance-vie et La Compagnie d'Assurance-Vie Manufacturers ont été fusionnées et prorogées en une société mutuelle fonctionnant sous la dénomination sociale de La Compagnie d'Assurance-Vie Manufacturers le 1er janvier 1996.
+* Nordisk Reinsurance Company A/S a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Employers Reinsurance Corporation. L'ordonnance portant garantie des risques au Canada a été annulée le 30 décembre 2003.
+* Norman Insurance Company Limited : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par Norman Insurance Company Limited a été annulée le 31 décembre 1992.
+* North American Benefit Association a modifié sa dénomination sociale à celle de Woman's Life Insurance Society à compter du 1er janvier 1996.
+* La North American Company for Property and Casualty a modifié sa dénomination sociale pour NAC Reinsurance Corporation au 29 juillet 1989.
+* The North American General Insurance Company : le certificat d'enregistrement a été retiré le 15 décembre 1966 et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations.
+* North American Life and Casualty Company a changé son nom en celui de Allianz Life Insurance Company of North America à compter du 31 mars 1993.
+* North American Reassurance Company a modifié sa dénomination sociale à celle de Swiss Re Life Company America à compter du 19 décembre 1996.
+* Les obligations de North American Reinsurance Corporation ayant été transférées à la Société Canadienne de Réassurance, la compagnie a cessé d'être enregistrée à compter du 27 décembre 1991.
+* North American Specialty Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré toutes ses obligations au titre de polices d'assurance canadiennes auprès de Westport Insurance Corporation. L'ordonnance portant garantie des risques au Canada a été annulée le 3 décembre 2009.
+* The North Waterloo Farmers Mutual Insurance Company et Oxford Mutual Insurance Company ont été fusionnées et prorogées en une seule société sous la dénomination sociale Heartland Farm Mutual Inc. à compter du 1er janvier 2016.
+* The North West Commercial Travellers' Association of Canada a été prorogée en vertu de la Loi canadienne sur les organisations à but non lucratif  à compter du 2 mars 2012.
+* Northumberland, Compagnie Générale d'Assurances a fusionné ses biens et opérations avec les biens et opérations de la Compagnie d'Assurances Générales Strathcona le 31 août 1983; la compagnie fusionnée ou la compagnie prenant suite des opérations est la Northumberland, Compagnie Générale d'Assurances.
+* Northumberland, Compagnie Générale d'Assurances : le certificat d'enregistre-ment n'a pas été renouvelé le 5 juillet 1985 et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations.
+* Northwestern National Life Insurance Company a modifié sa dénomination sociale à celle de Compagnie D'Assurance-Vie ReliaStar à compter du 1er août 1996.
+* Norwich Union Fire Insurance Society Limited a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 24 juin 1998.
+* Norwich Union Life Insurance Company (Canada) a modifié sa dénomination sociale à celle d'AIG Assurance Canada à compter du 1er octobre 2001.
+* Norwich Winterthur Reinsurance Corporation Limited a changé son nom en celui de NW Reinsurance Corporation Limited à compter du 5 novembre 1992.
+* Nova Scotia General Insurance Company a modifié sa dénomination sociale à celle de Toronto Dominion Compagnie d'Assurance Générale à compter du 7 février 1995.
+* NRG London Reinsurance Company Limited a cessé d'exercer des opérations au Canada et a cédé son passif canadien. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 1992.
+* NRG Victory Reinsurance Limited, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec National Liability & Fire Insurance Company. L'ordonnance portant garantie des risques au Canada a été révoquée le 13 février 2014.
+* NRG Victory Reinsurance Limited a cessé d'exercer des opérations d'assurance-vie et accidents et maladie à compter du 1er avril 1992.
+* NW Reinsurance Corporation Limited a modifié sa dénomination sociale à celle de Cavell Insurance Company Limited le 7 mars 2003.
+
+### O
+
+* Odyssey America Reinsurance Corporation a changé sa raison sociale à Odyssey Compagnie de Réassurance à compter du 13 avril 2011.
+* Odyssey, société canadienne de réassurance a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions, en date de 2 décembre 2002, sous la dénomination sociale 412976-8.
+* Omega Compagnie d’Assurance Générale en remplaçant sa dénomination sociale par, en français, Accelerant Compagnie d’Assurance du Canada à compter du 8 novembre 2023.
+* La Omaha Indemnity Company : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par The Omaha Indemnity Company a été annulée le 25 janvier 1994.
+* Omnimonde, Compagnie d'assurances a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions, en date de 3 mai 2002, sous la dénomination sociale PP CONTINUANCE CO. INC.
+* L'Ordre des Italo-Canadiens a cessé ses opérations sous la Loi sur les sociétés d'assurances et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les organisations à but non lucratif, à compter du 29 octobre 2014.
+* The Orion Insurance Company Limited a changé son nom à The Orion Insurance Company PLC à compter du 11 septembre 1990.
+* The Orion Insurance Company PLC : le 27 octobre 1994, le surintendant des institutions financières a pris le contrôle de The Orion Insurance Company PLC et le 10 février 1995 la cour a demandé la liquidation de The Orion Insurance Company PLC sous les provisions de la Loi sur les liquidations, nommant le surintendant au titre de liquidateur de la société. Deloitte & Touche Inc., le mandataire du liquidateur, se charge des procédures de liquidation de la société.
+* The Order of United Commercial Travelers of America a cessé de mener des activités d’assurance au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 24 mai 2022.
+* Les obligations de Pacific Employers Insurance Company ayant été transférées à CIGNA du Canada Compagnie d'assurance, la compagnie a cessé d'être enregistrée à compter du 27 octobre 1993.
+* Pafco Compagnie Internationale d'Assurances a changé son nom à Granite Compagnie d'Assurances à compter du 25 juin 1991.
+* Paragon, Compagnie d'Assurance du Canada a changé son nom en celui de la Laurentienne du Pacifique Compagnie d'Assurance à compter du 3 mai 1984.
+* Paris Re S.A. a modifié sa dénomination sociale à celle de PARIS RE à compter du 20 juin 2007.
+* PartnerRe SA, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de Partner Reinsurance Europe Limited et Partner Reinsurance Company Limited. L'ordonnance portant garantie des risques au Canada a été annulée le 24 novembre 2009.
+* Partner Reinsurance Europe Public Limited Company a changé sa raison sociale à Partner Reinsurance Europe SE à compter du 27 février 2013.
+* Partner Reinsurance Europe Public Limited Company a cessé d'exercer des activités au Canada sous le nom Partner Reinsurance Europe Limited et tous les risques entrepris par la succursale canadienne ont été réassuré, à des fins de prise en charge, par la succursale canadienne de Partner Reinsurance Company of the U.S. L'ordonnance portant garantie des risques au Canada a été révoquée le 8 novembre 2011.
+
+### P
+
+* Partner Reinsurance Europe SE, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Partner Reinsurance Company Ltd. L'ordonnance portant garantie des risques au Canada a été révoquée le 7 août 2015.
+* La Patriote Compagnie d'Assurance-Vie est le nom adopté par La Balboa, compagnie d'assurance-vie pour exercer des affaires au Canada. Depuis le 9 janvier 1992, la compagnie utilise son propre nom pour exercer des affaires.
+* Paul Revere Compagnie d'Assurance-Vie a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Provident Compagnie d'Assurance-vie et Accident le 31 décembre 2000. L'ordonnance portant garantie des risques au Canada a été annulée le 11 juin 2002.
+* Partner Reinsurance Company Ltd., ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec PartnerRe Life Reinsurance Company of Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 22 août 2022.
+* Pacific Life Re Limited a cessé d'exercer des activités au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 14 septembre 2022.
+* Pearl Assurance Limited, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations d'assurance canadiennes auprès d'Omega General Insurance Company. L'ordonnance portant garantie des risques au Canada a été révoquée le 1 décembre 2011.
+* The Penn Mutual Life Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 9 juillet 1999.
+* Pennsylvania Life Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de La Compagnie D'Assurance-Vie Penncorp. L'ordonnance portant garantie des risques au Canada a été annulée le 31 mars 2009.
+* La Personnelle direct, compagnie d'assurance du Canada a modifié sa dénomination sociale à celle de Certas direct, compagnie d'assurance à compter du 14 mars 2001.
+* Phoenix Life Insurance Company a cessé d'exercer des operations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 15 février 2017.
+* Philadelphia Reinsurance Corporation a cessé d'exercer des opérations au Canada et a réassuré, sur une base hypothétique, tous ses engagements au titre de polices d'assurances auprès de Nederlandse Reassurantie Groep N.V. L'ordonnance habilitant la société à porter garantie de risques au Canada a été annulée le 13 juin 2005.
+* Phoenix Home Life Mutual Insurance Company a modifié sa dénomination sociale à celle de Phoenix Life Insurance Company à compter du 20 décembre 2001.
+* The Phoenix Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 1er mai 2002.
+* La Phoenix Assurance Company Limited a modifié sa raison sociale le 1er décembre 1989 et se nomme maintenant Phoenix Assurance Public Limited Company.
+* Les obligations de Phoenix Assurance Public Limited Company ayant été transférées à Sun Alliance Compagnie d'Assurance, la compagnie a cessé d'être enregistrée à compter du 31 décembre 1991.
+* Les biens et opérations de la Phoenix Compagnie d'Assurance du Canada ont été cédés à La Dominion Corporation d'Assurance et un décret a été émis en vertu de la Loi sur les liquidations pour La Dominion Corporation d'Assurance au 1er décembre 1989.
+* Phoenix Mutual Life Insurance Company a changé son nom en celui de Phoenix Home Life Mutual Insurance Company à compter du 1er juillet 1992.
+* Pitts Compagnie d'Assurance : le certificat d'enregistrement a été retiré le 19 octobre 1981 et la compagnie est maintenant en voie de liquidation en vertu des dispositions de la Loi sur les liquidations.
+* Pierce National Life Insurance Company a modifié sa dénomination sociale à celle de Fortis Benefits, Compagnie d'Assurance à compter du 1er juillet 2001.
+* PMI Société d'assurance hypothécaire du Canada a modifié sa domination sociale par, en français, Société d'assurance MIC du Canada et, en anglais, MIC Insurance Company Canada, à compter du 31 octobre 2014.
+* Pohjola Group Insurance Corporation a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Pohjola Non-Life Insurance Company Ltd. L'ordonnance portant garantie des risques au Canada a été annulée le 11 février 2002.
+* Pohjola Non-Life Insurance Company Ltd., ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès d'Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été annulée le 18 décembre 2009.
+* Pool Insurance Company a cessé ses opérations sous la Loi sur les sociétés d'assurances et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions sous la dénomination sociale 8221375 Canada Inc., à compter du 16 juillet 2012.
+* Préservatrice Foncière T.I.A.R.D. a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par La Nationale, Compagnie de Réassurance du Canada le 1er janvier 1988.
+* La Préservatrice Société Anonyme d'Assurances contre les Accidents, l'Incendie et les Risques Divers a cessé d'exercer des opérations au Canada le 9 août 1982; son passif canadien a été pris en charge par la Préservatrice Foncière T.I.A.R.D.
+* Primmum Compagnie D'Assurance a modifié sa dénomination sociale à celle de CT assurance directe inc. à compter du 10 mars 1998.
+* Principal Life Insurance Company a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 21 décembre 2016.
+* Principal Mutual Life Insurance Company a modifié sa dénomination sociale à celle de Compagnie d'assurance-vie Principal à compter du 26 mars 1999.
+* Progressive Casualty Insurance Company a cessé d'exercer des operations au Canada et tout son passif canadien a été pris en charge par Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été annulée le 18 décembre 2015.
+* Progressive du Canada Compagnie d'Assurance Générale a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions, en date de 28 février 2001, sous la dénomination sociale 3841189 CANADA INC.
+* Protection Mutual Insurance Company a fusionné ses entreprises avec ceux de Allendale Mututal Insurance Company et ceux de Arkwright Mututal Insurance Company, et en vertu des lois des États-Unis d'Amérique, son certificat d'enregistrement a été retiré le 1er juillet 1999. Les sociétés fusionnées ont été prorogées en une société mutuelle fonctionnant sous la dénomination Factory Mutual Insurance Company, 1er juillet 1999.
+* Providence Washington Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré toutes ses obligations au titre de polices d'assurance canadiennes auprès de la succursale canadienne Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été annulée le 22 octobre 2009.
+* Provident Compagnie d'Assurance-vie et Accident, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de la Compagnie d'assurance vie RBC. L'ordonnance portant garantie des risques au Canada a été révoquée le 22 novembre 2007.
+* Provenance, compagnie d'assurance-vie a changé sa dénomination sociale à Girafe & Cie, compagnie d'assurance-vie à compter du 5 février 2014.
+* La Prudasco, Compagnie d'Assurance a fusionné ses biens et son entreprise avec ceux de la Général Accident Indemnité Compagnie d'Assurance à compter du 1er janvier 1994, la compagnie issue de la fusion étant la Général Accident Indemnité Compagnie d'Assurance.
+* The Prudential Assurance Company Limited (of England) a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 6 février 2015.
+* Prudential Reinsurance Company (of America) a modifié sa dénomination sociale à celle de Everest Reinsurance Company depuis le 21 mai 1996.
+* Prudentielle d'Amérique, Compagnie d'Assurance Générale (Canada) a modifié sa dénomination sociale à celle de Compagnie d'Assurance Liberté du Canada, à compter du 1er janvier 1997.
+* La Prudentielle d'Amérique, Compagnie d'Assurance a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 2010.
+* La Prudentielle d'Amérique, Compagnie d'Assurance-Vie (Canada) a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions, en date du 2 mai 2000, sous la dénomination sociale 3752178 Canada Inc.
+* La Prudentielle d'Angleterre, Compagnie d'Assurance Générale (Canada) a changé sa dénomination sociale pour Général Accident Indemnité Compagnie d'Assurance du 31 août 1993.
+* La Prudentielle d'Angleterre Compagnie d'Assurance Collective (Canada) a modifié sa dénomination sociale à celle de Sun Life du Canada, compagnie d'assurance groupe à compter du 31 mars 1995.
+* La Prudentielle d'Angleterre, Compagnie d'assurance-vie (Canada) et La Mutuelle du Canada, compagnie d'assurance sur la vie ont été fusionnées et prorogées en une société mutuelle fonctionnant sous la dénomination sociale de La Mutuelle du Canada, compagnie d'assurance sur la vie le 1er avril 1995.
+
+### Q
+
+* QBE Insurance Limited a cédé son passif canadien. Le certificat d'enregistrement de la compagnie n'a pas été renouvelé au 31 mars 1987.
+* Quebec Assurance Corporation a cessé ses opérations sous la Loi sur les sociétés d’assurances, et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions, en date de 2 juillet 2025.
+
+### R
+
+* REAAL Schadeverzekeringen N.V., ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations d'assurance canadiennes auprès d'Aviva, Compagnie d'Assurance du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 15 juin 2010.
+* Reassure America Life Insurance Company a modifié la raison sociale en français sous laquelle elle garantit des risques au Canada à Compagnie d'assurance vie Jackson National à compter du 22 avril 2014.
+* The Reinsurance Corporation of New York a modifié sa dénomination sociale à celle de The Insurance Corporation of New York à compter du 31 janvier 1997.
+* Reliance Insurance Company – Le 8 novembre 2001, le surintendant des institutions financières a pris le contrôle de Reliance Insurance Company et la cour accordait une ordonnance de liquidation nommant le surintendant au titre de liquidateur provisoire de la société. La cour a par la suite désigné la firme KPMG Inc. à titre de liquidateur permanent. La liquidation des opérations et des affaires de la société se poursuivent.
+* Retail Lumbermen's Inter-Insurance Exchange a cédé son passif canadien. Le certificat d'enregistrement de la compagnie n'a pas été renouvelé au 31 mars 1985.
+* Renaissance Reinsurance Ltd. a cessé de mener des activités d’assurance au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 9 décembre 2024.
+* Rhin Réassurance SA a modifié sa dénomination sociale à celle de Rhine Re S.A. à compter du 4 août 2000.
+* Rhine Re S.A. a modifié sa dénomination sociale à celle de Alea Europe S.A. a compté du 7 mai 2001.
+* Royal Exchange Assurance of America Inc. a changé sa dénomination sociale pour Compagnie d'assurance Forteresse d'Amérique à compter du 15 décembre 1992.
+* Royal Life Insurance Limited a cessé d'exercer des opérations au Canada et a cédé son passif canadien. L'ordonnance portant garantie des risques au Canada a été annulée le 24 novembre 1992.
+* Royal Maccabees Life Insurance Company a modifié sa dénomination sociale à celle de Reassure America Life Insurance Company à compter du 9 août 2000.
+* Les obligations de Royal Reinsurance Company Limited ayant été transférées à La Royale du Canada, Compagnie d'Assurance, la compagnie a cessé d'être enregistrée à compter du 31 décembre 1993.
+* Royal & Sun Alliance du Canada, société d'assurance-vie et La Maritime Compagnie d'Assurance-vie ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale La Maritime Compagnie d'Assurance-vie à compter du 1er janvier 2002.
+* Royale Belge a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 26 juin 2001.
+* La Royale du Canada, Compagnie d'Assurance a fusionné ses biens et opérations avec les biens et opérations de Sun Alliance Compagnie d'Assurance le 1er janvier 1994; la compagnie résultant de cette fusion est La Royale du Canada, Compagnie d'Assurance.
+* La Royale du Canada, Compagnie d'Assurance a modifié sa dénomination sociale à celle de Royal & Sun Alliance du Canada, société d'assurances à compter du 23 mars 1998.
+* La Royale Vie du Canada, Compagnie d'Assurance a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par La Royale Vie du Canada, compagnie d'assurance limitée. L'ordonnance de fonctionnement de La Royale Vie du Canada, Compagnie d'Assurance a été annulée le 31 décembre 1994, et ses biens ont été fusionné avec ceux de La Royale du Canada, Compagnie d'Assurance, la compagnie issue de la fusion étant La Royale du Canada, Compagnie d'Assurance.
+* La Royale Vie du Canada, compagnie d'assurance limitée a modifié sa dénomination sociale à celle de Royal & Sun Alliance du Canada, société d'assurance-vie à compter du 23 mars 1998.
+
+### S
+
+* SAFECO Insurance Company of America a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Compagnie d'assurance générale Dominion du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 18 octobre 2001.
+* SAFECO Life Insurance Company a cédé son passif canadien. Le certificat d'enregistrement de la compagnie a été retiré le 20 décembre 1991.
+* SAFR a modifié sa dénomination sociale à celle de SAFR PartnerRe à compter du 26 janvier 2000.
+* SAFR PartnerRe a modifié sa dénomination sociale à celle de PartnerRe SA à compter du 28 juin 2001.
+* SAFR Société Anonyme Française de Réassurances a modifié sa dénomination sociale à celle de SAFR à compter du 7 avril 1998.
+* Saskatchewan Mutual Insurance Company en remplaçant sa dénomination sociale par Sandbox Mutual Insurance Company à compter du 1er novembre 2022.
+* Safety National Casualty Corporation a cessé de mener des activités d’assurance au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 2 septembre 2025.
+* SCOR, Compagnie de Réassurance a cessé d’exercer des opérations au Canada et tout son passif canadien a été pris en charge par SCOR Canada Compagnie de Réassurance, en tant qu'élément d'une restructuration. L’ordonnance portant garantie des risques au Canada a été annulée le 21 janvier 2009.
+* SCOR, Compagnie de Réassurance, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de SCOR Canada Compagnie de Réassurance. L'ordonnance portant garantie des risques au Canada a été annulée le 21 janvier 2009.
+* SCOR Compagnie de Réassurance du Canada a fusionné ses biens et son entreprise avec SCORFIN Inc. et Les Services SCOR Canada Inc., à compter du 31 décembre 1995. La compagnie issue de la fusion est SCOR Canada Compagnie de Réassurance.
+* SCOR Global Vie et SCOR SE ont fusionné le 31 mars 2019 sous la raison sociale SCOR SE. S'étant fusionnée le 31 mars 2019, SCOR Global Vie n'est plus une entité au sens de la Loi sur les sociétés d'assurances.
+* SCOR Vie a modifié sa dénomination sociale à celle de SCOR Global Vie à compter du 23 février 2007.
+* SCOR Vie, la succursale canadienne de la société étrangère SCOR, a cessé d'exercer des activités au Canada. L'ordonnance portant garantie de risques au Canada au nom de SCOR Vie a été abrogée le 1er décembre 2004. Les passifs de police de cet assureur ont été virés au compte de la nouvelle succursale canadienne dûment autorisée de la société étrangère SCOR Vie, laquelle exerce ses activités au Canada sous le nom de SCOR Vie.
+* Scotia General Insurance Company a cessé ses opérations sous la Loi sur les sociétés d’assurances, et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions, en date de 31 mai 2024.
+* The Scottish Dominion Insurance Company Limited a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 1er décembre 1998.
+* Seaboard Surety Company : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par Seaboard Surety Company a été annulée le 13 juin 1995.
+* Seaton Insurance Company a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 5 octobre 2011.
+* Serb National Federation a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 11 décembre 2002.
+* La Sécurité Nationale Compagnie d’Assurances a modifié la version française de sa dénomination sociale à celle de La Sécurité Nationale Compagnie d’Assurance à compter du 21 octobre 1997.
+* La Sécurité Nationale Compagnie d'Assurance a modifié la version française de sa dénominationa sociale à celle de Sécurité Nationale Compagnie d'Assurance à compter du 6 avril 1998.
+* La Sécurité, Compagnie d'Assurances générales du Canada, après l'adoption d'une Loi d'intérêt privé par le Sénat du Canada, a été prorogée par lettres patentes de continuation comme compagnie d'assurance de la province de Québec, en date du 1er décembre 1994, sous la dénomination sociale de LA SÉCURITÉ, COMPAGNIE D'ASSURANCES GÉNÉRALES DU CANADA INC.
+* Sentry Insurance Company a modifié sa dénomination sociale à celle de Compagnie d'assurance Sentry à compter du 8 janvier 2021.
+* The Shipowners' Mutual Protection and Indemnity Association (Luxembourg), a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 1 décembre 2020.
+* Sirius America Insurance Company a changé la raison sociale sous laquelle elle garantit au Canada des risques à SiriusPoint America Insurance Company à compter du 25 octobre 2021.
+* Skandia Canada Compagnie de Réassurance a modifié sa dénomination sociale à celle de Odyssey, société canadienne de réassurance, à compter du 5 novembre 1996.
+* Skandia Groupe, Société Anonyme d’Assurances a changé sa raison sociale au Canada à Skandia Société Anonyme d’Assurances à compter du 23 décembre 1993.
+* Skandia Insurance Company a modifié sa dénomination sociale à Skandia Groupe, Société Anonyme d'Assurances, le 17 décembre 1990.
+* Skandia International Insurance Corporation a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 mars 2000.
+* Skandia Société Anonyme d'Assurances a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par La Compagnie d'Assurance Liberté Mutuelle. L'ordonnance portant garantie des risques au Canada a été annulée le 19 février 2004.
+* SLLC Limited a modifié sa dénomination sociale à celle de Assurance Standard Life limitée à compter du 10 juillet 2006.
+* Société Anonyme Française de Réassurances a modifié sa dénomination sociale à celle de SAFR Société Anonyme Française de Réassurances à compter du 17 juin 1996.
+* Société D'Assurance-Crédit Industriel : le certificat d'enregistrement a été retiré le 5 octobre 1984, conformément à la demande de la compagnie.
+* Société d'assurance Galt, Société d'assurance Langdon et Economical, Compagnie Mutuelle d'Assurance ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Economical, Compagnie Mutuelle d'Assurance à compter du 30 décembre 2000.
+* Société d'assurance générale Northbridge et Société d'assurance des entreprises Northbridge ont été fusionnées et prorogées en une seule société sous la dénomination sociale Société d'assurance générale Northbridge à compter du 1 janvier 2017.
+* Société d'assurance générale Northbridge et Société d'assurance d'indemnisation Northbridge ont été fusionnées et prorogées en une seule société sous la dénomination sociale, en français, Société d'assurance générale Northbridge et, en anglais, Northbridge General Insurance Corporation à compter du 1 janvier 2014.
+* Société d'assurance hypothécaire National Guarantya cessé d'exister le 29 octobre 2009, car la société n'a pas demandé une ordonnance l'autorisant à fonctionner en deçà du délai d'un an prévu par la loi pour présenter une telle demande.
+* Société d'assurance Langdon, Société d'assurance Galt et Economical, Compagnie Mutuelle d'Assurance ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Economical, Compagnie Mutuelle d'Assurance à compter du 30 décembre 2000.
+* Société d'assurance Langdon et Economical, Compagnie Mutuelle d'Assurance ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Economical, Compagnie Mutuelle d'Assurance à compter du 1er janvier 2004.
+* Société d’assurance mutuelle des employeurs de Wausau a modifié sa dénomination sociale à celle de Compagnie d’Assurances des Employeurs de Wausau à compter du 13 février 2002.
+* Société d’assurance des particuliers Northbridge a modifié sa dénomination sociale à celle de Compagnie d’assurance Verassure à compter du 31 mai 2018.
+* La Société d'Assurance-Vie Norwich Union a cessé d'exercer des opérations au Canada et son passif canadien a été pris en charge par Norwich Union du Canada, Compagnie d'assurance-vie. L'ordonnance portant garantie des risques au Canada a été annulée le 30 septembre 1997.
+* Société Canadienne de Réassurance a modifié sa dénomination sociale à celle de Compagnie Suisse de Réassurance Canada à compter du 5 juin 1995.
+* Société Commerciale de Réassurance : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par Société Commerciale de Réassurance a été annulée le 24 décembre 1992.
+* Société de Réassurance des Assurances Mutuelles Agricoles a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 8 juillet 1998.
+* Société de Secours Mutuels des Slovaques du Canada a été dissoute à compter du 22 octobre 2008.
+* Sompo Japan Insurance Inc. a modifié la raison sociale sous laquelle elle garantit au Canada des risques par, en français, Assurances Sompo Nipponkoa du Japon Inc. et en anglais, Sompo Japan Nipponkoa Insurance Inc. à compter du 21 octobre 2014.
+* Sompo Japan Nipponkoa Insurance Inc. a modifié la raison sociale sous laquelle elle garantit au Canada des risques par, en français, Assurances Sompo du Japon Inc. et en anglais, Sompo Japan Insurance Inc. à compter du May 8, 2020.
+* Sons of Norway a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Lutheran Life Insurance Society of Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 10 janvier 2001.
+* Sorema North America Reinsurance Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par SCOR Canada Compagnie de Réassurance, en tant qu'élément d'une restructuration. L'ordonnance portant garantie des risques au Canada a été annulée le 21 janvier 2009.
+* Sorema North America Reinsurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de SCOR Canada Compagnie de Réassurance. L'ordonnance portant garantie des risques au Canada a été annulée le 21 janvier 2009.
+* La Souveraine, Compagnie d'Assurance-Vie – Le 21 décembre 1992, le surintendant des institutions financières a pris le contrôle de La Souveraine, Compagnie d'Assurance-Vie et la cour accordait une ordonnance de liquidation nommant le surintendant au titre de liquidateur provisoire de la société. La cour a par la suite désigné la firme KPMG Inc. à titre de liquidateur permanent. Le liquidateur a officiellement été relevé de ses fonctions le 14 décembre 2000.
+* Scotia Générale, compagnie d’assurance a été autorisée à cesser ses activités en vertu de la Loi sur les sociétés d’assurances et à être prorogée sous le régime de la Loi canadienne sur les sociétés par actions à compter du 31 mai 2024.
+* Société d'Assurance Vie MD et Scotia-Vie compagnie d’assurance ont fusionné et ont continué sous le nom Société d'Assurance Vie MD, à compter du 1er novembre 2024.
+* Specialty National Insurance Company a cessé d'exercer des opérations au Canada et a réassuré, sur une base hypothétique, tous ses engagements au titre de polices d'assurances auprès de Omega Compagnie d'Assurance Générale. L'ordonnance portant garantie des risques au Canada a été annulée le 24 août 2006.
+* State Farm Life Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de la Compagnie d'assurance-vie State Farm International Ltée. L'ordonnance portant garantie des risques au Canada a été révoquée le 30 août 2007.
+* State Farm Fire and Casualty Company a cessé d'exercer des opérations au Canada et son passif canadien a été pris en charge par les compagnies d'assurance au sein de la Fédération des Caisses Desjardins du Québec. L'ordonnance portant garantie des risques au Canada a été annulée le 23 mars 2017.
+* State Farm Mutual Automobile Insurance Company a cessé d'exercer des opérations au Canada et son passif canadien a été pris en charge par les compagnies d'assurance au sein de la Fédération des Caisses Desjardins du Québec. L'ordonnance portant garantie des risques au Canada a été annulée le 23 mars 2017.
+* State Mutual Life Assurance Company of America a modifié sa dénomination sociale à celle de First Allmerica Financial Life Insurance Company à compter du 13 mai 1996.
+* Stonebridge compagnie d'assurance-vie, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de la Compagnie d'assurance-vie Premiere du Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 26 novembre 2009.
+* Stonewall Insurance Company a aliéné son passif au Canada et n'est plus enregistrée depuis le 27 mars 1990.
+* Storebrand International Insurance A/S a changé son nom en celui de UNI Storebrand International Insurance A/S à compter du 30 octobre 1991.
+* Storebrand Reinsurance Company Ltd. a changé son nom en celui de Storebrand International Insurance A/S à compter du 12 mars 1991.
+* Suisse de Réassurance Vie Canada a modifié sa dénomination sociale à celle de Suisse de Réassurances Vie et Santé Canada à compter du 2 juin 1997.
+* Suisse de Réassurances Vie et Santé Canada a cessé ses opérations sous la Loi sur les sociétés d'assurances, et a reçu un certificat de prorogation en vertu de la Loi sur les sociétés par actions le 21 mai 2010, sous la dénomination 7547552 Canada Inc.
+* The Sumitomo Marine and Fire Insurance Company, Limited et Mitsui Marine and Fire Insurance Company, Limited ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'Assurance Mitsui Sumitomo Limitée à compter du 1er octobre 2001.
+* Sun Alliance and London Assurance Company Limited a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par La Compagnie d'Assurance Sun Alliance & London (Canada). L'ordonnance portant garantie des risques au Canada a été annulée le 24 novembre 1992.
+* Sun Alliance Compagnie d'Assurance a fusionné ses biens et opérations avec les biens et opérations de La Royale du Canada, Compagnie d'Assurance le 1er janvier 1994; la compagnie résultant de cette fusion est La Royale du Canada, Compagnie d'Assurance.
+* Sunderland Marine Mutual Insurance Company Limited a modifié la raison sociale sous laquelle elle garantit au Canada des risques par, en français, Société d'assurance maritime Sunderland Limitée [succursale canadienne] et en anglais, Sunderland Marine Insurance Company Limited [Canada Branch] à compter du 6 octobre 2014.
+* Société d'assurance maritime Sunderland Limitée [succursale canadienne] a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 8 janvier 2021.
+* Sun Life du Canada, compagnie d'assurance groupe a cessé d'exercer des opérations au Canada. Lettres patentes de dissolution avec une date d'effet du 21 octobre 2002 ont été émises.
+* Superior Life Insurance Company, dénomination sociale sous laquelle Lincoln Heritage Life Insurance Company était autorisée à garantir des risques au Canada, a cessé d'exercer des activités au Canada et a réassuré, aux fins de prises en charge, tous ses engagements au titre de polices d'assurances auprès de L'Unité-Vie du Canada. L'ordonnance portant garantie de risques au Canada a été annulée le 10 janvier 2007.
+* Supreme Council of the Royal Arcanum a cessé de mener des activités d’assurance au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 1er mai 2023.
+* Swiss Re Frankona Rückversicherungs-Aktiengesellschaft a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 5 décembre 2008.
+* Swiss Re Italia S.p.A. a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Compagnie Suisse de Réassurance Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 3 mars 2004.
+* Swiss Re Life Company America a modifié sa dénomination sociale à celle de Swiss Re Life & Health America Inc. à compter du 27 janvier 1998.
+* Swiss Re Life & Health America Inc. et Life Reassurance Corporation of America ont fusionné le 28 décembre 2000 sous la raison sociale Life Reassurance Corporation of America conformément aux lois de l'État de New York.
+* Swiss Re Life & Health America Inc. a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 21 novembre 2002.
+* Swiss Reinsurance Company a changé sa raison sociale à Compagnie Suisse de Réassurance SA à compter du 13 juin 2008.
+* Switzerland General Insurance Company, Limited : Conformément à la demande de la société, l'ordonnance portant garantie des risques au Canada par Switzerland General Insurance Company, Limited a été annulée le 21 novembre 1995.
+* Symons Compagnie d'Assurances Générales a changé son nom en Pafco Compagnie Internationale d'Assurances à compter du 22 décembre 1988.
+
+### T
+
+* Taisho Marine and Fire Insurance Company, Limited a changé son nom à Mitsui Marine and Fire Insurance Company, Limited à compter du 2 mai 1991.
+* Talcott Resolution Life Insurance Company a cesser d’exercer des activités au Canada. L’ordonnance portant garantie des risques au Canada a été annulée le 2 avril 2019.
+* TBD Compagnie d'Assurance Vie a cessé d'exercer des opérations au Canada. Lettres patentes de dissolution avec une date d'effet du 20 novembre 2001 ont été émises.
+* TD, Compagnie d'assurance-vie et L'Assurance Financière CT ont été fusionnées et prorogées en une société sous la dénomination sociale, en français, TD, Compagnie d'assurance-vie et, en anglais, TD Life Insurance Company à compter du 1 novembre 2014.
+* Teachers Insurance and Annuity Association of America a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Sun Life du Canada, compagnie d'assurance-vie. L'ordonnance portant garantie des risques au Canada a été annulée le 6 avril 1998.
+* Terra Nova Insurance Company Limited, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de Lloyd's Underwriters Markel Syndicate 3000. L'ordonnance portant garantie des risques au Canada a été annulée le 20 avril 2009.
+* T.H.E. Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec la Compagnie d'assurance XL Spécialité. L'ordonnance portant garantie des risques au Canada a été révoquée le 7 novembre 2019.
+* TIG Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec Société d'assurance générale Northbridge. L'ordonnance portant garantie des risques au Canada a été révoquée le 24 avril 2015.
+* The Toa-Re Insurance Company of America a modifié sa dénomination sociale à celle de The Toa Reinsurance Company of America à compter du 16 août 1999.
+* The Tokio Marine and Fire Insurance Company, Limited a changé sa raison sociale à celle de Tokio Maritime & Nichido Incendie Compagnie d'Assurances Ltée à compter du 14 décembre 2004.
+* Les obligations au Canada de Toro Assicurazioni S.P.A. ayant été transférées à Sun Alliance Compagnie d'Assurance, la compagnie a cessé d'être enregistrée à compter du 21 décembre 1990.
+* Toronto Dominion Compagnie d'Assurance Générale a modifié sa dénomination sociale à celle de TD assurance directe inc. à compter du 1er septembre 2000.
+* Toronto Dominion, Compagnie d'assurance-vie a modifié sa dénomination sociale à celle de TD, Compagnie d'assurance-vie à compter du18 avril 2001.
+* Toronto Mutual Life Insurance Company et Western Compagnie d'Assurance-Vie ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale L'Unité-Vie du Canada à compter du 1er janvier 2002.
+* Tower Insurance Company of Connecticut a changé son nom en celui de New England Reinsurance Corporation à compter du 29 février 1984.
+* Trafalgar Insurance Public Limited Company a cessé d'exercer des opérations au Canada le 31 décembre 1986; son passif canadien a été pris en charge par la Compagnie d'Assurance Trafalgar du Canada.
+* Transamerica Insurance Company a changé sa raison sociale au Canada à Société d'Assurance TIG à compter du 29 décembre 1993.
+* Transport Indemnity Company a changé son nom en celui de Mission American Insurance Company à compter du 16 juin 1986.
+* Transport Insurance Company : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par Transport Insurance Company a été annulée le 31 décembre 1994.
+* Travelers, Compagnie d'assurance dommages et de cautionnement du Canada et Compagnie d'Assurance St. Paul Garantie ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'Assurance St. Paul Garantie à compter du 1er janvier 2005.
+* Travelers du Canada, Compagnie d'Indemnité a changé son nom en celui de Zurich Du Canada, Compagnie d'Indemnité à compter du 9 février 1989.
+* The Travelers Indemnity Company a cessé d'exercer des opérations au Canada et a réassuré, sur une base hypothétique, tous ses engagements au titre de polices d'assurances auprès de St. Paul Fire and Marine Insurance Company. L'ordonnance portant garantie des risques au Canada a été annulée le 19 mai 2006.
+* The Travelers Insurance Company a modifié sa dénomination sociale à celle de MetLife Insurance Company of Connecticut à compter du 1er mai 2006.
+* Truck Insurance Exchange : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par Truck Insurance Exchange a été annulée le 21 décembre 1992.
+* Trygg-Hansa Reinsurance Company of Canada a modifié sa dénomination sociale à celle de Compagnie de réassurance Suecia à compter du 21 janvier 2000.
+
+### U
+
+* UFSC Heritage Life Insurance Fraternal Society, ayant cessé d’exercer des activités au Canada, a réassuré, à des fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec The Grand Orange Lodge of British America. La société a été autorisée à se proroger sous le régime de la Loi canadienne sur les sociétés par actions, cessant d’être régie par la Loi sur les sociétés d’assurances, avec prise d’effet le 18 juillet 2022.
+* Ukrainian Fraternal Association, ayant cessé d'exercer des activités au Canada, a réassuré toutes ses obligations au titre de polices d'assurance canadiennes auprès de la succursale canadienne Supreme Council of the Royal Arcanum. L'ordonnance portant garantie des risques au Canada a été annulée le 13 août 2009.
+* Ukrainian Fraternal Society of Canada a changé son nom en celui de UFSC Heritage Life Insurance Fraternal Society à conpté du 2 juillet 2019.
+* Ukrainian National Aid Association of America a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par Croatian Fraternal Union of America. L'ordonnance portant garantie des risques au Canada a été annulée le 22 décembre 2003.
+* Underwriters Insurance Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été prise en charge par la Compagnie Suisse de Réassurance Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 16 décembre 2002.
+* Underwriters National Assurance Company : le certificat d'enregistrement a été retiré le 20 décembre 1976. Les affaires au Canada qui avaient été continuées selon une proposition de concordat sanctionnée par la Cour Suprême d'Ontario ont été transférées à Life Investors Insurance Company of America le 31 juillet 1991.
+* Uni Storebrand International Insurance A/S a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 8 avril 1997.
+* Unigard Mutual Insurance Company a changé son nom en celui de Unigard Security Insurance Company à compter du 20 décembre 1984.
+* Unigard Security Insurance Company a modifié sa dénomination sociale à celle de Seaton Insurance Company à compter du 25 septembre 2000.
+* Union Reinsurance Company : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par Union Reinsurance Company a été annulée le 15 juin 1994.
+* Union Suisse Compagnie Générale d'Assurances a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 22 décembre 1998.
+* Unione Italiana di Riassicurazione S.p.A. a modifié sa dénomination sociale à celle de Swiss Re Italia S.p.A. à compter du 28 août 1998.
+* Unité-Vie du Canada a changé sa raison sociale à Foresters, compagnie d'assurance vie à compter du 6 octobre 2011.
+* L'Unité-Vie du Canada a été acquis par L'Ordre Indépendant des Forestiers à compter du 2 avril 2008, suite à sa transformation en société par actions.
+* United States Fidelity and Guaranty Company a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par La Compagnie d'Assurance Saint Paul. L'ordonnance portant garantie des risques au Canada a été annulée le 24 janvier 2005.
+* United States Fire Insurance Company : Conformément à la demande de la compagnie, l'ordonnance portant garantie des risques au Canada par United States Fire Insurance Company a été annulée le 10 décembre 1992.
+* United Transportation Union Insurance Association a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 14 mars 1995.
+* Unity Fire and General Insurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 1998.
+* L'UNUM Compagnie d'Assurance-vie a changé son nom en celui de L'UNUM d'Amérique, Compagnie d'Assurance-vie à compter du 31 décembre 1991.
+* L'UNUM d'Amérique, Compagnie d'Assurance-vie a cessé d'exercer des opérations au Canada et tout son passif canadien a été pris en charge par la Provident Compagnie d'Assurance-vie et Accident le 31 décembre 2000. L'ordonnance portant garantie des risques au Canada a été annulée le 11 juin 2002.
+* United American Insurance Company a cessé de mener des activités d’assurance au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 31 octobre 2023.
+* US International Reinsurance Company a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 8 octobre 1997.
+* Utica Mutual Insurance Company a cessé d'exercer des activités au Canada. L'ordonnance portant garantie des risques au Canada a été révoquée le 6 mai 2014.
+
+### V
+
+* Validus Reinsurance, Ltd. a changé la raison sociale sous laquelle elle garantit au Canada des risques à Renaissance Reinsurance Ltd. à compter du 6 novembre 2024.
+* The Victory Reinsurance Company Limited a changé son nom en celui de NRG Victory Reinsurance Limited à compter du 18 décembre 1991.
+* VSP Canada, Assurance des soins de la vue a cessé ses opérations sous la Loi sur les sociétés d'assurances et a reçu un certificat de prorogation en vertu de la Loi canadienne sur les sociétés par actions sous la dénomination sociale VSP Vision Canada Inc. à compter du 28 février 2018.
+
+### W
+
+* Warner Reciprocal Insurers a cédé son passif canadien. Le certificat d'enregistrement de la compagnie n'a pas été renouvelé au 31 mars 1986.
+* Washington National Insurance Company, ayant cessé d'exercer des activités au Canada, a réassuré, à des fins de prise en charge, toutes ses obligations au titre de polices d'assurance canadiennes auprès de Unity Life of Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 21 juillet 2009.
+* Westbury Canadienne, Compagnie d'Assurance Vie et Compagnie d'assurance vie RBC ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale Compagnie d'assurance vie RBC à compter du 3 juillet 2000.
+* Western Compagnie d'Assurance-Vie et Toronto Mutual Life Insurance Company ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale L'Unité-Vie du Canada à compter du 1er janvier 2002.
+* Western Financial, Compagnie d'assurances a modifié sa dénomination sociale à celle de COMPAGNIE D'ASSURANCE PETLINE à compter du 1 janvier 2017.
+* Western General Mutual Insurance Company a fusionné ses biens et son entreprise avec Economical, Compagnie Mutuelle d'Assurance, à compter du 1er janvier 1997. La compagnie issue de la fusion est Economical, Compagnie Mutuelle d'Assurance.
+* Westport Insurance Corporation a cessé de mener des activités d’assurance au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 5 décembre 2024.
+* White Mountains Reinsurance Company of America a changé sa raison sociale à Sirius America Insurance Company à compter du 5 octobre 2011.
+* Winterthur Société d'Assurance sur la Vie a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 2001.
+* Winterthur Reinsurance Corporation of America a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 22 décembre 1999.
+* Wilton Re (Canada) Limited a cessé de mener des activités d’assurance au Canada. L’ordonnance autorisant la société à assurer des risques au Canada a été révoquée le 8 décembre 2023.
+* Woman's Life Insurance Society a cessé d'exercer des activités au Canada et tous les risques entrepris par la succursale canadienne ont été réassuré, à des fins de prise en charge, par Faithlife Financial, une société canadienne - secours mutuels. L'ordonnance portant garantie des risques au Canada a été révoquée le 20 février 2012.
+* Woodmen of the World Life Insurance Society a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 1er décembre 1994.
+* Workers Benevolent Association of Canada a cessé d'exercer des activités au Canada et a réassuré, aux fins de prise en charge, tous ses engagements au titre de polices d'assurances auprès de l’Association Bénévole des Fils de l'Écosse. Les lettres patentes de dissolution prenaient effet le 31 décembre 2006.
+* The Workmen's Circle a cessé d'exercer des opérations au Canada. L'ordonnance portant garantie des risques au Canada a été annulée le 31 décembre 1996.
+
+### X
+
+* XL Insurance Company a modifié la raison sociale sous laquelle elle garantit au Canada des risques par, en français, Compagnie d'assurance XL et en anglais, XL Insurance Company SE à compter du 15 septembre 2014.
+* XL Insurance Company SE a cessé d'exercer des activités au Canada et a réassuré, aux fins de prise en charge, tous les risques restant sur les livres de la succursale canadienne avec XL Specialty Insurance Company. L'ordonnance portant garantie des risques au Canada a été annulée le 16 février 2017.
+* XL Re Europe, succursale du Canada a cessé d'exercer des opérations au Canada et a réassuré, sur une base hypothétique, tous ses engagements au titre de polices d'assurances auprès de XL Reinsurance America Inc. L'ordonnance portant garantie des risques au Canada a été annulée le 20 septembre 2006.
+* XL Winterthur International Insurance Company Limited a modifié sa dénomination sociale à celle de XL Insurance Company Limited à compter du 19 septembre 2003.
+
+### Y
+
+* The Yasuda Fire and Marine Insurance Company, Limited a modifié sa dénomination sociale à celle d'Assurances Sompo du Japon à compter du 1er juillet 2002.
+
+### Z
+
+* Zurich Compagnie d'Assurances a changé sa raison sociale à Zurich Compagnie d'Assurances SA à compter du 26 juin 2009.
+* Zurich du Canada, Compagnie d'Indemnité a modifié sa dénomination sociale à celle de Omnimonde, Compagnie d'assurances à compter du 1er février 1999.
+* Zurich du Canada Compagnie d'assurance-vie et sa filiale en propriété exclusive, Zurich du Canada, Compagnie d'Assurance-Vie & Santé, ont été fusionnées et prorogées en une société fonctionnant sous la dénomination sociale de Zurich du Canada Compagnie d'assurance-vie le 1er janvier 1993.
+* Zurich du Canada compagnie d'assurance-vie a modifié sa dénomination sociale à celle de Manuvie Canada Ltée à compter du 15 juillet 2002.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2026-06-15

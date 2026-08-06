@@ -1,0 +1,14 @@
+The European Insurance and Occupational Pensions Authority (EIOPA) has today published the responses from national competent authorities on their compliance, intention to comply  or non-compliance with the recommendations set out in EIOPA's 'Recommendations for the insurance sector in light of the United Kingdom withdrawing from the European Union.'
+
+According to the information received, all national competent authorities comply or intend to comply with almost all recommendations.
+
+The recommendations were addressed to national competent authorities of European Economic Area countries except the United Kingdom with the goal of minimising detriment to policyholders in the event of no withdrawal agreement between the United Kingdom and the European Union.
+
+The recommendations covered nine different areas including orderly run-off, portfolio transfer, change in the habitual residence or establishment of the policyholder, authorisation of third country branches, lapse of authorisation, cooperation between national competent authorities, communication to policyholders and beneficiaries, and distribution activities.
+
+Publication date
+:   31 October 2019
+
+## Related links
+
+[Recommendations for the insurance sector in light of the United Kingdom withdrawing from the European Union](/publications/recommendations-insurance-sector-light-united-kingdom-withdrawing-european-union_en)

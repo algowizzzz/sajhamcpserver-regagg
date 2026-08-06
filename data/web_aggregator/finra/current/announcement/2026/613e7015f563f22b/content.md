@@ -1,0 +1,105 @@
+# Tools and Calculators
+
+Use FINRA’s tools and calculators to help you make informed financial decisions based on your own personal circumstances and financial needs.
+
+---
+
+#### View our: [Investor Tools](#investor-tools) | [Calculators](#calculators) | [Quizzes, Games & Educational Tools](#quizzes)
+
+### Investor Tools
+
+#### [FINRA BrokerCheck](http://www.finra.org/brokercheck)
+
+Use our free tool to confirm whether investment professionals and firms are licensed. It should be the first resource you turn to when choosing whether to start or continue doing business with a particular person or firm.
+
+#### [Investment Professional Designations](/investors/professional-designations)
+
+Use this tool to research what it takes to earn and maintain an investment designation—and what the designation’s acronym stands for.
+
+#### [Fund Analyzer](https://www.finra.org/fundanalyzer)
+
+Automatically compare fees and analyze information on available mutual funds, exchange-traded funds, exchange-traded notes and money market funds. View the fund analyzer [resources](/investors/tools-and-calculators/using-finra-fund-analyzer).
+
+#### [FINRA Fixed Income Data](/finra-data/fixed-income)
+
+Find fixed income security and trade information including real-time data on bonds and other fixed income products and aggregate data on fixed income markets.
+
+#### [FINRA Market Data](https://finra-markets.morningstar.com/MarketData/Default.jsp)
+
+Find market information including stock quotes and other data on equities, options and mutual funds.
+
+#### [FINRA Arbitration Awards Online](http://finraawardsonline.finra.org/)
+
+Use this tool to research past arbitration awards.
+
+#### [SEC Action Lookup – Individuals](https://www.sec.gov/litigations/sec-action-look-up)
+
+Find out whether a person offering an investment opportunity has been named as a defendant in an action by the Securities and Exchange Commission.
+
+#### [Public Alert: Unregistered Soliciting Entities (PAUSE)](https://www.sec.gov/enforce/pause-unregistered-soliciting-entities)
+
+Check out the SEC’s lists of unregistered entities that have been attempting to do business in the U.S., impersonators of actual firms and fictitious regulators.
+
+---
+
+### Calculators
+
+#### [Retirement Calculator](https://tools.finra.org/retirement_calculator/)
+
+Make sure you have enough to see you through your retirement years.
+
+#### [Retirement Estimator](http://www.socialsecurity.gov/retire2/estimator.htm)
+
+Estimate your actual Social Security earnings record.
+
+#### [401(k) and IRA Required Minimum Distribution Calculator](https://tools.finra.org/rmd/#!/)
+
+Determine your Required Minimum Distribution (RMD) from a traditional 401(k) or IRA.
+
+#### [401(k) "Save the Max" Calculator](https://tools.finra.org/max401k/#!/)
+
+Determine if you are on track to "save the max" in your 401(k) by maximizing your contributions each pay period so you can reach the allowed IRS limits.
+
+#### [Savings Calculator](https://tools.finra.org/savings_calculator/)
+
+See how a consistent approach to investing can make your money grow.
+
+#### [Education Savings Calculator](https://tools.finra.org/college_savings/)
+
+Calculate the amount you must invest each year to have enough money to cover the cost of education.
+
+#### [Loan Calculator](https://tools.finra.org/loan/#!/)
+
+Determine the monthly payment for a fixed-rate loan such as a car loan or mortgage. Compare different offers or the merits of refinancing.
+
+#### [Accrued Interest Calculator](https://tools.finra.org/accrued_interest/#!/)
+
+Interest on a bond accrues between regularly scheduled payments. To find out how much interest is owed on a given bond, use our accrued interest calculator.
+
+---
+
+### Quizzes, Games & Educational Tools
+
+#### [Financial Literacy Quiz](https://www.finra.org/financial_literacy_quiz)
+
+Test how your financial knowledge stacks up nationally and against others in your state.
+
+#### [FINRA Investing Knowledge Quiz](https://tools.finra.org/knowledge_quiz#!/)
+
+Test your knowledge with this short quiz.
+
+#### [Con 'Em If You Can](http://www.conemifyoucan.org/?utm_campaign=ConEmGame&amp%3Butm_medium=FINRASite&amp%3Butm_source=ToolsPage)
+
+In this interactive strategy game, learn firsthand about the tactics used to perpetrate fraud, so you'll be better able to defend against them.
+
+#### [Risk Meter](https://tools.finra.org/risk_meter)
+
+See whether you share traits that have been shown to make some investors vulnerable to investment fraud.
+
+#### [Scam Meter](https://tools.finra.org/scam_meter)
+
+With just four questions, our Scam Meter will help you tell if an investment opportunity might be a scam.
+
+#### [Smart Investing Courses](/investors/investing/investing-basics/smart-investing-courses)
+
+Learn more about investing by taking one or more of our Smart Investing Courses on key investing topics.

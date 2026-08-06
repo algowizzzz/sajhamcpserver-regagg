@@ -1,0 +1,27 @@
+{
+  "doc_id": "e69393417f4b8f62",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA evaluates the European Insurance Intermediaries Markets - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-evaluates-european-insurance-intermediaries-markets-2018-12-13_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:99ead4f98ff60236165438b113c8c00e2baf53e9ff46a5bf00d6dd9bf9dcba49",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/e69393417f4b8f62",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-evaluates-european-insurance-intermediaries-markets-2018-12-13_en",
+  "fetch_method": "html_to_md"
+}

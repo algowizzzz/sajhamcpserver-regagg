@@ -1,0 +1,1 @@
+Summary: # Charge for Impairment (C1)

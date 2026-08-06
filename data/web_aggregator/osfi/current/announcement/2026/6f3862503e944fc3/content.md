@@ -1,0 +1,56 @@
+# Relevés d’assurance multirisque (P&C)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Sociétés d’assurance
+
+Relevé
+
+Relevé d’assurance multirisque
+
+Numéro de relevé
+
+PC1-PC2-PC3-PCPROV
+
+Documentation
+
+* [Révision annuelle des formulaires servant à produire les états financiers des sociétés d’assurance multirisque et de leur guide de production pour 2025](/fr/consignes/repertoire-consignes/2025-revision-annuelle-formulaires-servant-produire-etats-financiers-societes-dassurance-multirisques)
+* [Changements et justification depuis le 30 avril 2021](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/changements-justification-depuis-30-avril-2021)
+
+## Instructions
+
+* [Section I – Introduction](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-multirisque-section-introduction "Relevés d’assurance multirisque – Section I – Introduction")
+* [Section II – Normes de production](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-multirisque-section-ii-normes-production "Relevés d’assurance multirisque – Section II – Normes de production")
+* [Section III – Définitions](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-multirisque-section-iii-definitions "Relevés d’assurance multirisque – Section III – Définitions")
+* [Section IV – Instructions détaillées](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-multirisque-section-iv-instructions-detaillees "Relevés d’assurance multirisque – Section IV – Instructions détaillées")
+* [Section V – Normes administratives](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-multirisque-section-v-normes-administratives "Relevés d’assurance multirisque – Section V – Normes administratives")
+* [Section VI – Relevé des modifications](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-multirisque-section-vi-releve-modifications "Relevés d’assurance multirisque – Section VI – Relevé des modifications")
+
+## Relevés
+
+### Relevés des états financiers de base (PC1)
+
+[PC1 - T4 2024 Relevé des états financiers de base (version finale) (XLSX, 106,54 Ko)](/sites/default/files/documents/pc1-2024-fr.xlsx "pc1-2024-fr.xlsx") [PC1 - T4 2024 Relevé des états financiers de base (avec suivi des modifications) (XLSX, 110 Ko)](/sites/default/files/documents/pc1-2024-dft-fr.xlsx "pc1-2024-dft-fr.xlsx") [PC1 – T4 2024 Règles de validation de relevé des états financiers de base (XLSX, 166 Ko)](/sites/default/files/documents/pc1-2024-q4-t4-validation-fr.xlsx "pc1-2024-q4-t4-validation-fr.xlsx") [PC1 – T4 2024 fichier XML (XML, 151 Ko)](/sites/default/files/documents/pc1-2024-q4-t4.xml "pc1-2024-q4-t4.xml") [PC1 – T4 2024 fichier XSD (XSD, 904 Ko)](/sites/default/files/documents/pc1-2024-q4-t4.xsd "pc1-2024-q4-t4.xsd")
+
+### Relevés de surveillance trimestriel (PC2)
+
+[PC2 - T4 2024 Relevé de surveillance trimestriel (version finale) (XLSX, 2621 Ko)](/sites/default/files/documents/pc2-2024-fr.xlsx "pc2-2024-fr.xlsx") [PC2 - T4 2024 Relevé de surveillance trimestriel (avec suivi des modifications) (XLSX, 267 Ko)](/sites/default/files/documents/pc2-2024-dft-fr.xlsx "pc2-2024-dft-fr.xlsx") [PC2 – T4 2024 Règles de validation de relevé de surveillance trimestriel (XLSX, 416 Ko)](/sites/default/files/documents/pc2-2024-q4-t4-validation-fr.xlsx "pc2-2024-q4-t4-validation-fr.xlsx") [PC2 – T4 2024 fichier XML (XML, 785 Ko)](/sites/default/files/documents/pc2-2024-q4-t4.xml "pc2-2024-q4-t4.xml") [PC2 – T4 2024 fichier XSD (XSD, 4,70 Mo)](/sites/default/files/documents/pc2-2024-q4-t4.xsd "pc2-2024-q4-t4.xsd")
+
+### Relevés de surveillance annuel (PC3)
+
+[PC3 - T4 2024 Relevé de surveillance annuel (version finale) (XLSX, 202 Ko)](/sites/default/files/documents/pc3-2024-fr.xlsx "pc3-2024-fr.xlsx") [PC3 - T4 2024 Relevé de surveillance annuel (avec suivi des modifications) (XLSX, 204 Ko)](/sites/default/files/documents/pc3-2024-dft-fr.xlsx "pc3-2024-dft-fr.xlsx") [PC3 – T4 2024 Règles de validation de relevé de surveillance annuel (XLSX, 189 Ko)](/sites/default/files/documents/pc3-2024-q4-t4-validation-fr.xlsx "pc3-2024-q4-t4-validation-fr.xlsx") [PC3 – T4 2024 fichier XML (XML, 283 Ko)](/sites/default/files/documents/pc3-2024-q4-t4.xml "pc3-2024-q4-t4.xml") [PC3 – T4 2024 fichier XSD (XSD, 1,66 Mo)](/sites/default/files/documents/pc3-2024-q4-t4.xsd "pc3-2024-q4-t4.xsd")
+
+### Relevés provincial (PCPROV)
+
+[PCPROV - T4 2024 Relevé provincial (version finale) (XLSX, 75,3 Ko)](/sites/default/files/documents/pcprov-return-releve-2024-fr.xlsx "pcprov-return-releve-2024-fr.xlsx")[PCPROV - T4 2024 Relevé provincial (avec suivi des modifications) (XLSX, 81,71 Ko)](/sites/default/files/documents/pcprov-changes-mod-2024-fr.xlsx "pcprov-changes-mod-2024-fr.xlsx")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-09-05

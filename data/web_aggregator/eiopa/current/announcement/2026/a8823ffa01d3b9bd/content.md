@@ -1,0 +1,18 @@
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) submitted to the European Parliament, the Council of the European Union and the European Commission, its annual Report 2017 on Long-Term Guarantees Measures (LTG) and Measures on Equity Risk.
+
+Compared to the last annual report of 2016, this second annual report analysed the impact of measures on the financial position of all (re)insurance undertakings from the European Economic Area. The analysis included the impact of the extrapolation of risk-free interest rates and of the symmetric adjustment mechanism to the equity risk charge.
+
+The results show, similar to last year’s analysis, that most of the measures are widely used. 783 (re)insurance undertakings in 23 countries with a European market share of 74% use at least one of the following voluntary measures: the matching adjustment, the volatility adjustment, the transitional measures on the risk-free interest rates, the transitional measures on technical provisions or the duration-based equity risk sub-module. The volatility adjustment and the transitional measure on technical provisions are particularly widely used.
+
+The average Solvency Capital Requirement ratio of undertakings using the voluntary measures is 217% and would drop to 148% if the measures were not applied which confirms their importance for the financial position of (re)insurance undertakings.
+
+EIOPA also assessed stakeholders’ perception about the relevance, comprehensibility, completeness and comparability of the information on the measures disclosed by (re)insurance undertakings. The outcome highlights the importance of the transparency on the use and impact of the measures as well as their preference for disclosure of additional information.
+
+The 2017 annual report on long-term guarantees measures and measures on equity risk is available on [EIOPA’s website](/document/download/81fc9d39-9ee6-4aee-9753-0c1bc896f43e_en?filename=2017-12-20_ltg_report_2017.pdf).
+
+Publication date
+:   21 December 2017
+
+## Related links
+
+[Report on long-term guarantees measures and measures on equity risk 2017](/document/download/ca291733-2153-4801-8aa3-4e6f06c551db_en?filename=Report%20on%20long-term%20guarantees%20measures%20and%20measures%20on%20equity%20risk%202017.pdf)

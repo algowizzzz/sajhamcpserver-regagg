@@ -1,0 +1,25 @@
+{
+  "doc_id": "d5f2bb9e515af001",
+  "regulator_id": "jfsa",
+  "doc_type": "announcement",
+  "title": "Finalization of the Corporate Governance Code (2026 Revision) : FSA",
+  "language": "en",
+  "source_url": "https://www.fsa.go.jp/en/news/2026/20260721-2.html",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1b98506569d5678ef2ea09895cc3e8ed13cd5df2eec1e281e006c73cfcab0d66",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_jfsa_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/jfsa/current/announcement/2026/d5f2bb9e515af001",
+  "tags": [
+    "japan",
+    "banking",
+    "securities"
+  ]
+}

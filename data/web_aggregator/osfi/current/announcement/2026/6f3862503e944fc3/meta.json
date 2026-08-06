@@ -1,0 +1,25 @@
+{
+  "doc_id": "6f3862503e944fc3",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Relev\u00e9s d\u2019assurance multirisque (P&C) | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-multirisque-pc",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fd69f0ec3ae480e3285e0c87592b9b9e826c2fd008c7146eee5cb9cc1b1fa44c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/6f3862503e944fc3",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

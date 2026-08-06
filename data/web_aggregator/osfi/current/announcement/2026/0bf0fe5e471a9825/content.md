@@ -1,0 +1,26 @@
+# Version finale du guide d’instructions Agrément d’un régime de retraite à prestations déterminées
+
+**Type de publication :** Lettre  
+**Date :** Le 4 août 2022  
+**Destinataires :**  Administrateurs de régimes de retraite fédéraux à prestations déterminées aux termes de la Loi de 1985 sur les normes de prestation de pension et leurs consultants
+
+Le Bureau du surintendant des institutions financières (BSIF) vous invite à consulter la version finale du guide d’instructions [Agrément d’un régime de retraite à prestations déterminées](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/agrement-dun-regime-retraite-prestations-determinees "Agrément d’un régime de retraite à prestations déterminées") (le guide d’instructions), qui a pour but d’aider les administrateurs de régimes de retraite à prestations déterminées à remplir le formulaire [BSIF 48PD - Demande d’agrément d’un régime de retraite à prestations déterminées](/sites/default/files/documents/DB_osfi48_2022_FR.pdf) (le formulaire de demande).
+
+Le 24 février 2022, le BSIF a publié une version à l’étude révisée du guide d’instructions et du formulaire de demande aux fins de consultation. Aucun commentaire n’a été envoyé au BSIF dans le cadre de la consultation, des modifications mineures ont toutefois été apportées à ces deux documents pour faire suite aux commentaires reçus dans le cadre de la consultation sur le guide d’instructions [Agrément d’un régime de retraite à cotisations déterminées](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/agrement-dun-regime-retraite-cotisations-determinees "Agrément d’un régime de retraite à cotisations déterminées"). La synthèse des commentaires reçus au sujet du guide se trouve sur le [site Web du BSIF](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/agrement-dun-regime-retraite-cotisations-determinees/version-finale-du-guide-dinstructions-agrement-dun-regime-retraite-cotisations-determinees#ann "Version finale du guide d’instructions Agrément d’un régime de retraite à cotisations déterminées").
+
+Vous êtes invité à faire parvenir vos questions et commentaires au sujet des exigences ou des attentes énoncées dans le guide d’instructions à l’adresse [pensions@osfi-bsif.gc.ca](mailto:pensions@osfi-bsif.gc.ca).
+
+Cordialement,  
+Judy Cameron  
+Directrice principale  
+Division des affaires réglementaires et des politiques stratégiques
+
+## Liens utiles
+
+* [2022 PD Guide d'instructions](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/agrement-dun-regime-retraite-prestations-determinees "Agrément d’un régime de retraite à prestations déterminées")
+* [2022 PD Formulaire de demande (PDF,736 ko)](/sites/default/files/documents/DB_osfi48_2022_FR.pdf)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-08-04

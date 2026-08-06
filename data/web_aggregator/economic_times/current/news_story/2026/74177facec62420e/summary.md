@@ -1,0 +1,1 @@
+Summary: # Ardee Industries IPO Day 2: GMP at 29%; issue subscribed 3.08 times so far. Should you subscribe?

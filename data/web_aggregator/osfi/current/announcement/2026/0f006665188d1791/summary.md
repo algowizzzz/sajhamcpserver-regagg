@@ -1,0 +1,1 @@
+Summary: # Basel Capital Adequacy Reporting (BCAR) FAQ Technical Specification

@@ -1,0 +1,237 @@
+# Significant International AMLCFT Events
+
+Below is a chronological listing of events that significantly impacted domestic and international anti-money laundering and counter-terrorism financing (AML/CFT) policies. Click on each bullet for more information.
+
+#### (1970) Currency and Financial Transactions Reporting Act (Bank Secrecy Act) Passed
+
+The Currency and Financial Transactions Reporting Act (also known as the [Bank Secrecy Act](/resources/statutes-regulations) or BSA) established the requirements for recordkeeping and reporting by financial institutions. It was designed to help identify the source, volume, and movement of currency and other monetary instruments transported or transmitted into or out of the United States or deposited in financial institutions. It required financial institutions to report cash transactions over $10,000; to properly identify persons conducting transactions; and to maintain a paper trail by keeping appropriate records of financial transactions. Several anti-money laundering acts, including provisions in title III of the USA PATRIOT Act, have been enacted to amend the BSA.
+
+#### (1974) Basel Committee on Banking Supervision Founded
+
+The [Basel Committee on Banking Supervision](http://www.bis.org/bcbs/history.htm) formulates supervisory standards and recommends best practices in the hope that individual authorities will implement them in ways best suited to their respective national systems. The Committee reports to the central bank governors and heads of supervision of its member countries. Countries are represented by their central bank or by the authority with formal responsibility for the supervision of banking business.
+
+#### (1988) Basel Committee Issues Statement on Preventing Money Laundering
+
+The Basel Committee on Banking Supervision issued a [statement](https://www.imolin.org/pdf/imolin/basle98.pdf) in December on the Prevention of Criminal Use of the Banking System for the Purpose of Money-Laundering.
+
+#### (1989) FATF Founded
+
+The [Financial Action Task Force on Money Laundering](http://www.fatf-gafi.org/) (FATF) was established at the G-7 Summit held in Paris. The G-7 Heads of State or Government and President of the European Commission convened the Task Force from the G-7 member States, the European Commission, and eight other countries, due to the global threat that money laundering poses to banking systems and financial institutions.
+
+#### (1990) FinCEN Established
+
+FinCEN was established by [Treasury Order 105-08](/system/files/shared/annual_report_fy2010.pdf#page=18) as an office within the Department of the Treasury.
+
+#### (1990) FATF Issues 40 Recommendations
+
+The FATF issued a series of universal [Recommendations](http://www.fatf-gafi.org/) (revised in 1996, 2003, and 2012) that established the basic framework for anti-money laundering efforts. (The FATF issued 8 Special Recommendations against Terrorist Financing in October 2001, and a ninth was added in June 2004. In addition, in 2003, terrorist financing issues were added to the scope of the 40 FATF Recommendations, where appropriate.)
+
+#### (1994) Treasury Delegates International Leadership Role to FinCEN
+
+A May 1994 Treasury Memorandum granted FinCEN the authority to combat domestic and international money laundering. The Department of the Treasury’s Assistant Secretary for Enforcement delegated to FinCEN the functions of Treasury’s Office of Enforcement. The Memorandum incorporated [Treasury Directive 27-03](http://www.treasury.gov/about/role-of-treasury/orders-directives/Pages/td27-03.aspx), which was issued in January 1993 and listed the functions of the Office of the Assistant Secretary for Enforcement.
+
+#### (1995) Egmont Group Founded
+
+FinCEN and a number of other financial intelligence units (FIUs) established the [Egmont Group](http://www.egmontgroup.org/) as an informal network for sharing information about money laundering. The FIU concept has grown over the years and is now an important component of the international community's approach to combating money laundering and terrorist financing. To meet the standards of Egmont membership an FIU must be a centralized unit within a nation or jurisdiction to detect criminal financial activity and ensure adherence to laws against financial crimes, including terrorist financing and money laundering. FinCEN serves as the FIU of the United States. Since its establishment, the Egmont Group has grown markedly and has evolved into a self-sustaining, internationally recognized entity. A permanent Secretariat for the Group was established in Toronto, Canada in 2007.
+
+#### (1996) UN General Assembly Issues Resolution on Measures to Eliminate International Terrorism
+
+On December 17, the United Nations General Assembly issued a resolution recognizing that with respect to measures designed to fight international terrorism, among the sources of terrorist funding were organizations “engaged in unlawful activities such as illicit arms trafficking, drug dealing and racketeering, including the exploitation of persons for purposes of funding terrorist activities.”
+
+#### (1996) Egmont Group Issues FIU Definition
+
+The Egmont Group approved the following definition of a “financial intelligence unit” (FIU) in 1996 (slightly amended it in 2004 to reflect FIUs’ role in combating terrorism financing): 
+
+> *A central, national agency responsible for receiving, (and as permitted, requesting), analysing and disseminating to the competent authorities, disclosures of financial information:*  
+> *(i) concerning suspected proceeds of crime and potential financing of terrorism, or*  
+> *(ii) required by national legislation or regulation,*  
+> *in order to combat money laundering and terrorism financing.*
+
+#### (1997) Egmont Secure Web Launches
+
+FinCEN launches the Egmont Secure Web, an Internet-based system used by Egmont Group member financial intelligence units to exchange sensitive case information. FinCEN still maintains the Egmont Secure Web.
+
+#### (1998) UN General Assembly Issues Action Plan Against Money Laundering
+
+The [*Political Declaration and Action Plan against Money Laundering*](http://www.imolin.org/imolin/ungadec.html) was adopted at the Twentieth Special Session of the United Nations General Assembly devoted to “countering the world drug problem together” in New York on June 10. It stated “…that only through international cooperation and the establishment of bilateral and multilateral information networks such as the Egmont Group, which will enable States to exchange information between competent authorities, will it be possible to combat effectively the problem of money-laundering,...”
+
+#### (1999) UN Security Council Issues Resolution 1267
+
+In October, the United Nations Security Council issued [Resolution 1267](http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N99/300/44/PDF/N9930044.pdf?OpenElement), which placed obligations upon States (that ultimately fell upon the financial industry) to freeze terrorist funds in particular for listed persons. Resolution 1267 was amended by [Resolution 1333](http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N00/806/62/PDF/N0080662.pdf?OpenElement) of 2000, which demanded that the Taliban, as well as others, halt illegal drug activities which were thought to finance terrorist activities.
+
+#### (1999) G-20 Established
+
+The [Group of Twenty (G-20)](http://www.g20.org/) Finance Ministers and Central Bank Governors was established in 1999 to bring together industrialized and developing economies to discuss key issues in the global economy. The inaugural meeting of the G-20 was held in Berlin in December.
+
+#### (2000) Wolfsberg Group Founded
+
+The Wolfsberg Group, an association of 11 global banks, aims to develop financial services industry standards and related products for anti-money laundering and counter-terrorism financing policies. The group was founded in 2000 at the Château Wolfsberg in Northeastern Switzerland to work on drafting anti-money laundering guidelines for the private banking industry. The Wolfsberg Anti-Money Laundering Principles for Private Banking were subsequently published in October 2000 (and [revised](http://www.wolfsberg-principles.com/pdf/standards/Wolfsberg-Private-Banking-Prinicples-May-2012.pdf) in May 2002).
+
+#### (2000) UN Convention Urges Countries to Create an FIU
+
+The United Nations Convention Against Transnational Organized Crime ([Palermo Convention](http://www.unodc.org/unodc/en/treaties/CTOC/)) of 2000 adopted the Egmont Group’s definition of a financial intelligence unit (FIU), and urged countries to combat money laundering and consider creating an FIU to serve as a central point for the collection, analysis, and dissemination of information regarding possible money laundering. (The Convention entered into force on September 29, 2003.)
+
+#### (2000) All EU States Have an FIU
+
+By 2000, all [European Union Member States](http://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexapi!prod!CELEXnumdoc&lg=EN&numdoc=32000D0642&model=guichett) have an agency conducting some financial intelligence unit functions.
+
+#### (2001) USA PATRIOT Act Enacted
+
+FinCEN’s functions were statutorily formalized as a bureau within Treasury with the passage of the Uniting and Strengthening America by Providing Appropriate Tools to Restrict, Intercept and Obstruct Terrorism Act (USA PATRIOT Act) in October 2001. The USA PATRIOT Act improved information sharing between financial institutions and the U.S. Government by requiring government-institution information sharing and voluntary information sharing among financial institutions. It provided the Secretary of the Treasury with the authority to impose “special measures” on jurisdictions, institutions, or transactions that are of “primary money laundering concern” ([Section 311](/resources/statutes-regulations/usa-patriot-act)). It also criminalized the financing of terrorism and augmented the existing Bank Secrecy Act framework by strengthening customer identification procedures; prohibiting financial institutions from engaging in business with foreign shell banks; and requiring financial institutions to have due diligence procedures and enhanced due diligence procedures for foreign correspondent and private banking accounts ([Section 312](/system/files/shared/31_CFR_Part_103_312_EDD_Rule.pdf)).
+
+#### (2001) Egmont Group Issues Principles for Information Exchange
+
+The Egmont Group issues [Principles](http://www.egmontgroup.org/princ_info_exchange.pdf) *for Information Exchange Between Financial Intelligence Units for Money Laundering and Terrorism Financing Cases* in June 2001.
+
+#### (2001) FATF Issues 8 Special Recommendations on Terrorist Financing
+
+The FATF recognized the importance of combating terrorist financing, and issued 8 additional recommendations which, when combined with the 40 Recommendations on money laundering, set out the basic framework to detect, prevent, and suppress the financing of terrorism and related acts.
+
+#### (2001) Basel Committee Issues Report on Customer Due Diligence
+
+The Basel Committee on Banking Supervision issued a [report](http://www.bis.org/publ/bcbs85.pdf)in October on *Customer Due Diligence for Banks*.
+
+#### (2001) President Bush Visits FinCEN; Announces Crackdown on Terrorist Financing
+
+President Bush visited FinCEN in November and [announced](http://georgewbush-whitehouse.archives.gov/news/releases/2001/11/20011107-4.html) a crackdown on terrorist financial networks.
+
+#### (2001) G-20 Members Must Establish an FIU
+
+The G-20 Finance Ministers and Central Bank Governors issued a [Communiqué](http://www.g20.org/) in November, mandating that “Each G-20 member will establish promptly, or maintain, a Financial Intelligence Unit and will take steps to enhance information sharing among them, including through promoting universal participation in the Egmont Group of such units.”
+
+#### (2002) FinCEN Deputy Director Baity Becomes Chair of Egmont Committee
+
+FinCEN Deputy Director William F. Baity became Chair of the [Egmont Committee](http://www.egmontgroup.org/about/structure-and-organization-of-the-egmont-group-of-financial). He served for 6 years. The Egmont Committee is an intermediary group between the heads of member financial intelligence units and the five Egmont Working Groups (Legal, Training, Outreach, Information Technology, and Operational) that addresses the administrative and operational issues facing Egmont.
+
+#### (2003) EgmontGroup.org Launches
+
+The Egmont Group’s public site ([www.EgmontGroup.org](http://www.egmontgroup.org/)) officially launched at the July 2003 Egmont plenary in Sydney, Australia.
+
+#### (2003) FATF Incorporates Terrorist Financing Issues into Recommendations
+
+Where appropriate, the FATF incorporated terrorist financing issues into its 40 Recommendations.
+
+#### (2003) UN Convention Against Transnational Organized Crime Enters into Force
+
+The United Nations Convention Against Transnational Organized Crime ([Palermo Convention](http://www.unodc.org/unodc/en/treaties/CTOC/)) of 2000, which adopted the Egmont Group’s definition of a financial intelligence unit (FIU) and urged countries to consider creating an FIU, enters into force on September 29.
+
+#### (2004) FATF Issues 9th Special Recommendation on Terrorist Financing
+
+The FATF added a ninth recommendation regarding cash couriers to its list of Special Recommendations on Terrorist Financing. The [40+9 Recommendations](http://www.fatf-gafi.org/document/9/0,3746,en_32250379_32236920_34032073_1_1_1_1,00.html), together with their interpretative notes, provide the international standards for anti-money laundering and counter-terrorist financing efforts.
+
+#### (2004) Egmont Group Releases Best Practices for Information Exchange
+
+The Egmont Group releases *Best Practices for the Exchange of Information Between Financial Intelligence Units*
+
+#### (2004) Egmont Group Releases Best Practices for Information Exchange-1
+
+The Egmont Group issues an [*Information Paper*](http://www.egmontgroup.org/files/library_egmont_docs/info_paper_final_oct_2004.pdf) *on Financial Intelligence Units and the Egmont Group* in September 2004.
+
+#### (2004) Egmont Group Amends FIU Definition
+
+The Egmont Group approved the following definition of a “financial intelligence unit” (FIU) in 1996 and amended it in 2004 to reflect FIUs’ role in combating terrorism financing:
+
+> *A central, national agency responsible for receiving, (and as permitted, requesting), analysing and disseminating to the competent authorities, disclosures of financial information:*  
+> *(i) concerning suspected proceeds of crime and potential financing of terrorism, or*  
+> *(ii) required by national legislation or regulation,*  
+> *in order to combat money laundering and terrorism financing.*
+
+#### (2004) Intelligence Reform & Terrorism Prevention Act of 2004 Enacted
+
+This [Act](http://www.intelligence.senate.gov/system/files/laws/pl108-458.pdf) amended the Bank Secrecy Act to require the U.S. Secretary of the Treasury to prescribe regulations requiring that certain financial institutions report cross-border electronic transmittals of funds, if the Secretary determines that such reporting is “reasonably necessary” to aid in the fight against money laundering and terrorist financing.
+
+#### (2004) IMF Issues Publication on FIUs
+
+The International Monetary Fund (IMF) issues [*Financial Intelligence Units: An Overview*](http://www.imf.org/external/pubs/ft/FIU/index.htm) in June 2004 to respond to the need for information on financial intelligence units.
+
+#### (2005) European Parliament Directive Requires Members to Establish an FIU
+
+[*Directive 2005/60/EC*](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:309:0015:0036:EN:PDF) *of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing* stated that each Member State should establish a financial intelligence unit to combat money laundering and terrorist financing.
+
+#### (2007) Egmont Secretariat Formed
+
+Based on actions taken in fiscal year 2007, the Egmont Group is now a formal international body with a permanent Secretariat located in Toronto, Canada.
+
+#### (2008) Director Freis Discusses Fighting Transnational Crime through Financial Intelligence
+
+FinCEN Director Freis addressed a conference of the [Committee on International Monetary Law of the International Law Association](http://www.mocomila.org/) (MOCOMILA) in Salamanca, Spain where he [discussed](/system/files/shared/20080425.pdf) fighting transnational crime through financial intelligence.
+
+#### (2009) Basel Committee Issues Report on Cross-Border Wire Transfers
+
+The Basel Committee on Banking Supervision issued a [report](http://www.bis.org/publ/bcbs154.pdf?noframes=1) in May on *Due Diligence and Transparency regarding Cover Payment Messages related to Cross-Border Wire Transfers.*
+
+#### (2009) Egmont Secure Web Reaches Milestone
+
+The percentage of countries/jurisdictions connected to the Egmont Secure Web reached 99%.
+
+#### (2009) EgmontGroup.org Is Transferred to Egmont Secretariat
+
+FinCEN transferred maintenance of the Egmont Group’s public Web site, [http://www.egmontgroup.org](http://www.egmontgroup.org/), to the Egmont Secretariat.
+
+#### (2009) FinCEN Upgrades Egmont Secure Web
+
+FinCEN developed and maintains the Egmont Secure Web (ESW) to facilitate communication and information sharing among Egmont Group member financial intelligence units (FIUs). FinCEN upgraded the ESW in 2009 by adding secure networking communities for FIUs from all over the world.
+
+#### (2010) FinCEN Issues Regulation to Improve Domestic and International Information Sharing
+
+On February 5, FinCEN issued [final rule](/news/news-releases/fincen-regulation-improves-domestic-and-international-information-sharing-thwart) to conform its successful “314(a) program” with agreements with certain foreign jurisdictions, specifically the Agreement on Mutual Legal Assistance between the United States and the European Union (U.S.-EU MLAT). The regulation allows law enforcement agencies of such jurisdictions to submit information requests concerning significant money laundering or terrorist financing investigations to U.S. financial institutions through FinCEN. Expanding the program greatly benefited the United States by granting U.S. Federal law enforcement agencies reciprocal rights to obtain information about suspect accounts in EU member states.
+
+#### (2010) UN Issues Threat Assessment on Transnational Organized Crime
+
+The United Nations Office on Drugs and Crime released[*The Globalization of Crime: A Transnational Organized Crime Threat Assessment*](http://www.unodc.org/documents/data-and-analysis/tocta/TOCTA_Report_2010_low_res.pdf?bcsi_scan_E6B5D3DA0AAC65B7=0&bcsi_scan_filename=TOCTA_Report_2010_low_res.pdf), which analyzed a range of key transnational crime threats, including human trafficking, migrant smuggling, the illicit heroin and cocaine trades, cybercrime, maritime piracy and trafficking in environmental resources, firearms, and counterfeit goods.
+
+#### (2011) Egmont Group Releases White Paper on Enterprise-Wide STR Sharing
+
+On February 3, [The Egmont Group](http://www.egmontgroup.org/) released a White Paper entitled [*Enterprise-wide STR Sharing: Issues and Approaches*](http://www.egmontgroup.org/library/egmont-documents), designed to elicit further multilateral discussion of the issues surrounding the international sharing and protection of suspicious transaction reports (STRs), known in the United States as suspicious activity reports (SARs). On February 4, FinCEN issued a [statement](/fincen-statement-noting-release-egmont-groups-white-paper-enterprise-wide-str-sharing-issues-and), pledging to continue to discuss SAR sharing issues with the financial industry and international standard setting bodies, such as the Financial Action Task Force (FATF) and the Basel Committee on Banking Supervision, to build upon the concepts developed in the paper.
+
+#### (2011) FinCEN Associate Director Speaks Before the Institute of International Bankers
+
+On May 23, Bess Michael, Associate Director in charge of FinCEN’s International Programs Division, provided a keynote [speech](/system/files/shared/20110531.pdf) at the Institute of International Bankers’ conference in New York City. Her remarks focused on the international sharing of suspicious transaction reports (known in the United States as suspicious activity reports).
+
+#### (2012) FATF Issues Revised Recommendations
+
+On Feb. 16, 2012, the FATF issued revised Recommendations, strengthening its standards in several [key areas](http://www.fatf-gafi.org/document/17/0,3746,en_32250379_32236920_49656209_1_1_1_1,00.html).
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+  + [Egmont Group of FIUs](/resources/international/egmont-group-financial-intelligence-units)
+  + [Financial Action Task Force](/resources/international/financial-action-task-force)
+  + [International AMLCFT Events](/resources/international/significant-international-amlcft-events)
+  + [Transnational Organized Crime](/resources/international/combating-transnational-organized-crime)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)
+
+Header
+
+QUICK LINKS
+
+* [Significant International AML/CFT Events](/significant-international-amlcft-events)
+* [FATF](http://www.fatf-gafi.org/pages/0,2987,en_32250379_32235720_1_1_1_1_1,00.html)
+* [FATF Publications](/fatf-publications)
+* [Section 311](/resources/statutes-regulations/311-special-measures)
+* [Egmont Group](http://www.egmontgroup.org/)
+* [APG](http://www.apgml.org/)
+* [CFATF](http://www.cfatf.org/)
+* [MONEYVAL](http://www.coe.int/t/dghl/monitoring/moneyval/)
+* [EAG](http://www.eurasiangroup.org/)
+* [ESAAMLG](http://www.esaamlg.org/)
+* [GIABA](http://www.giaba.org/)
+* [GAFISUD](http://www.gafisud.org/home.htm)
+* [MENAFATF](http://www.menafatf.org/)
+* [OFAC](http://www.treas.gov/offices/enforcement/ofac/)
+* [UN Office on Drugs and Crime](http://www.unodc.org/unodc/en/money-laundering/index.html)
+* [IMF](http://www.imf.org/external/np/exr/facts/aml.htm)
+* [World Bank](http://www.worldbank.org)
+* [International Narcotics Control Strategy Report](http://www.state.gov/j/inl/rls/nrcrpt/index.htm)

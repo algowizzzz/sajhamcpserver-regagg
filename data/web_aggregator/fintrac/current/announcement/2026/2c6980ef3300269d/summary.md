@@ -1,0 +1,1 @@
+Summary: # Guide on harm done assessment for "Know your client" requirements violations

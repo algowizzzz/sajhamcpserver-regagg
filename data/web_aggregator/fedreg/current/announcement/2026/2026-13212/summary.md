@@ -1,0 +1,1 @@
+Summary: # Joint Industry Plan; Order Approving the Fifty-Fifth Amendment to the Joint Self-Regulatory Organization Plan Governing the Collection, Consolidation and Dissemination of Quotation and Transaction Information for Nasdaq-Listed Securities Traded on Exchanges on an Unlisted Tradi

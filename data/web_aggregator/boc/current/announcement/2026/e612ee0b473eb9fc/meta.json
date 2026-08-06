@@ -1,0 +1,24 @@
+{
+  "doc_id": "e612ee0b473eb9fc",
+  "regulator_id": "boc",
+  "doc_type": "announcement",
+  "title": "Release: Market Participants Survey",
+  "language": "en",
+  "source_url": "https://www.bankofcanada.ca/2026/11/release-market-participants-survey-november-9-2026/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8ad42b072df2ca8b12f34320d5449bebb5d351c21b11423dc74cab1247cc55bc",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boc/current/announcement/2026/e612ee0b473eb9fc",
+  "tags": [
+    "canada",
+    "central_bank"
+  ]
+}

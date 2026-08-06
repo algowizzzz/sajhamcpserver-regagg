@@ -1,0 +1,25 @@
+{
+  "doc_id": "9c0915c7b65e38b4",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Relev\u00e9s d\u2019assurance multirisque \u2013 Section I \u2013 Introduction | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-multirisque-section-introduction",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:066098401a24a9804859002b3c63ff96182f2dfeec5596e7f5e8378ee743ba01",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/9c0915c7b65e38b4",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

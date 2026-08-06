@@ -1,0 +1,25 @@
+{
+  "doc_id": "3bc553102d32fbed",
+  "regulator_id": "wsj_markets",
+  "doc_type": "news_story",
+  "title": "Even Big Profits Aren\u2019t Enough to Keep Chip Investors Happy",
+  "language": "en",
+  "source_url": "https://www.wsj.com/finance/stocks/even-big-profits-arent-enough-to-keep-chip-investors-happy-36acfc66?mod=rss_markets_main",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:90867489f55c16db538c99e30f0efe890a452d50a5aa1a1e4e2478efca2bcf37",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_wsj_markets_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/wsj_markets/current/news_story/2026/3bc553102d32fbed",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.wsj.com/finance/stocks/even-big-profits-arent-enough-to-keep-chip-investors-happy-36acfc66?mod=rss_markets_main",
+  "fetch_method": "feed_summary"
+}

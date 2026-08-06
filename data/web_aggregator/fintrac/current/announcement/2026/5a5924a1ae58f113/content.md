@@ -1,0 +1,77 @@
+# Pour présenter une demande en vertu de la *Loi sur la protection des renseignements personnels*
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)
+
+* [Qui peut présenter une demande en vertu de la Loi sur la protection des renseignements personnels?](#s1)
+* [Comment présenter une demande en vertu de la Loi sur la protection des renseignements personnels](#s2)
+* [Les demandes faites en vertu de la Loi sur la protection des renseignements personnels doivent inclure](#s3)
+* [Quel est le délai de traitement d'une demande à CANAFE?](#s4)
+
+## Qui peut présenter une demande en vertu de la *Loi sur la protection des renseignements personnels*?
+
+Toutes les personnes présentes au Canada peuvent faire une demande en vertu de la *Loi sur la protection des renseignements personnels*. Les citoyens canadiens et les résidents permanents peuvent aussi présenter une demande de l'extérieur Canada.
+
+Une personne qui n'est pas un citoyen canadien ou un résident permanent ne peut pas présenter de demande en vertu de la *Loi sur la protection des renseignements personnels* si elle se trouve à l'extérieur du Canada. Une telle demande doit être faite en vertu de la *Loi sur l'accès à l'information* par un représentant qui est un citoyen canadien, un résident permanent ou une personne présente au Canada.
+
+## Comment présenter une demande en vertu de la *Loi sur la protection des renseignements personnels*
+
+### 1. Demande en ligne
+
+L'utilisation du service de [demande d'AIPRP en ligne](https://atip-aiprp.tbs-sct.gc.ca/fr) est une façon pratique de soumettre les demandes facilement et rapidement, tout en simplifiant le processus de demande.
+
+[Demande en ligne](https://atip-aiprp.tbs-sct.gc.ca/fr)
+
+ou
+
+### 2. Demande par la poste
+
+Les demandes écrites présentées en vertu de la [*Loi sur la protection des renseignements personnels*](http://laws-lois.justice.gc.ca/fra/lois/P-21/) doivent préciser que la demande est faite conformément à cette loi. Elles peuvent également être présentées au moyen d'un [Formulaire de demande d'accès à des renseignements personnels](http://www.tbs-sct.gc.ca/tbsf-fsct/350-58-fra.asp), qui se trouve dans la section « Accès à l'information et protection des renseignements personnels » du [site Web du Secrétariat du Conseil du Trésor](http://www.tbs-sct.gc.ca/tbsf-fsct/index-fra.asp). Veuillez noter qu'il n'y a **aucuns** frais pour ce genre de demande.
+
+Toutes les demandes écrites faites en vertu de *Loi sur la protection des renseignements personnels* doivent être aussi précises que possible afin de permettre à CANAFE d'effectuer une recherche efficace et de diminuer le nombre de demandes de clarification auprès du demandeur.
+
+Veuillez consulter le [chapitre **Info Source** de CANAFE](infosource-fra), une publication comprenant de l'information sur CANAFE et sur les renseignements recueillis par le Centre pour vous aider à exercer vos droits en vertu de la *Loi sur la protection des renseignements personnels*.
+
+## Les demandes faites en vertu de la *Loi sur la protection des renseignements personnels* doivent inclure ce qui suit :
+
+1. une description claire et concise du document ou du type d'information demandé;
+2. la méthode préférée de communication (c'est-à-dire papier ou électronique);
+3. le nom complet du demandeur et sa date de naissance;
+4. le numéro de téléphone du demandeur et son adresse postale complète au Canada;
+5. une copie d'une pièce d'identité avec photo délivrée par un gouvernement, telle un passeport ou un permis de conduire;
+6. pour les demandes concernant les déclarations sur les mouvements transfrontaliers d'espèces et d'effets (DMTEE), la date d'entrée, l'emplacement du point d'entrée et le montant approximatif déclaré à l'entrée;
+7. les préférences ou les besoins particuliers (p. ex., langues officielles, braille, etc.);
+8. la date et la signature du demandeur (pour les demandes faites par la poste);
+9. (si possible) un numéro de téléphone et/ou une adresse courriel où le demandeur peut être joint pendant les heures de bureau.
+
+Les demandes de renseignements personnels au sujet d'une personne autre que le demandeur doivent être faites en vertu de la *Loi sur l'accès à l'information*. Veuillez consulter la section [Comment présenter une demande en vertu de la *Loi sur l'accès à l'information*](privacy-privee3-fra).
+
+Les renseignements personnels que vous fournissez à CANAFE sont protégés en vertu de la *Loi sur la protection des renseignements personnels* et sont uniquement utilisés pour traiter votre demande conformément aux dispositions précisées dans le [Fichier de renseignements personnels (POU 901) Demandes concernant l'accès à l'information et la protection des renseignements personnels](https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements.html).
+
+Lors du traitement de votre demande en vertu de la *[Loi sur la protection des renseignements personnels](http://lois-laws.justice.gc.ca/fra/lois/P-21/)*, nous :
+
+1. traiterons votre demande tout en protégeant votre identité;
+2. offrirons une aide raisonnable tout au long du processus de traitement de votre demande;
+3. fournirons de l'information concernant la *[Loi sur la protection des renseignements personnels](http://lois-laws.justice.gc.ca/fra/lois/P-21/)*, notamment en ce qui concerne le traitement de votre demande et votre droit de porter plainte auprès du Commissaire à la protection de la vie privée du Canada;
+4. communiquerons avec vous dans un délai raisonnable si des précisions au sujet de votre demande sont requises;
+5. ferons tous les efforts raisonnables pour trouver et recueillir les renseignements personnels demandés qui relèvent de notre institution gouvernementale;
+6. appliquerons les exceptions aux renseignements personnels demandés de façon précise et limitée;
+7. fournirons des réponses exactes et complètes;
+8. communiquerons en temps utile les renseignements personnels demandés;
+9. fournirons, s'il y a lieu, les renseignements personnels sur le support et dans la langue officielle demandés;
+10. mettrons à votre disposition un endroit approprié dans notre institution gouvernementale pour examiner les renseignements personnels demandés.
+
+Veuillez envoyer les demandes faites par la poste à l'adresse suivante :
+
+Coordonnateur de l'accès à l'information et de la protection des renseignements personnels  
+Centre d'analyse des opérations et déclarations financières du Canada  
+24e étage, 234, avenue Laurier Ouest  
+Ottawa (Ontario)  
+K1P 1H7  
+Canada
+
+## Quel est le délai de traitement d'une demande à CANAFE?
+
+Pour les demandes faites en vertu de la *Loi sur la protection des renseignements personnels*, CANAFE peut prolonger d'au plus 30 jours civils le délai civil initial de 30 jours si ce dernier entraverait de façon sérieuse le fonctionnement de CANAFE ou si des consultations sont nécessaires et rendraient pratiquement impossible l'observation du délai initial.
+
+Date de modification :
+:   2018-12-14

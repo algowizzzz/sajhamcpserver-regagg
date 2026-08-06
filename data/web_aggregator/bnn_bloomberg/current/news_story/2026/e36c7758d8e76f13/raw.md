@@ -1,0 +1,7 @@
+# Ford infrastructure announcement for Scarborough Health Network leaves hospital facing cuts to staff and services in its underfunded operating budget – CUPE
+
+Just a week after Scarborough Health Network (SHN) workers held a rally surrounding chronic understaffing and increasing violence against hospital workers, Ontario Health Minister Sylvia Jones announced Tuesday that the Ontario government would begin construction of a new emergency department at Centenary Hospital.
+
+[Read the full story at the source](https://www.bnnbloomberg.ca/press-releases/2026/08/05/ford-infrastructure-announcement-for-scarborough-health-network-leaves-hospital-facing-cuts-to-staff-and-services-in-its-underfunded-operating-budget-cupe/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

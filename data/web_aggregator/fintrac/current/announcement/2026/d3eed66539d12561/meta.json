@@ -1,0 +1,24 @@
+{
+  "doc_id": "d3eed66539d12561",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Questions les plus fr\u00e9quemment pos\u00e9es au sujet des personnes politiquement vuln\u00e9rables au Canada et les dirigeants d'une organisation internationale",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/individuals-individus/faq-pep-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:dfbcb33b3d077aae971ebaca4cab5ab2a076a9555319194c480e3d4907191aa2",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/d3eed66539d12561",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

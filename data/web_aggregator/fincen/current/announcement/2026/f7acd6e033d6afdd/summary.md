@@ -1,0 +1,1 @@
+Summary: # (Formerly known as 89-5) How does a financial institution fulfill the requirement that it furnish information about the person on whose behalf a reportable currency transaction is being conducted?

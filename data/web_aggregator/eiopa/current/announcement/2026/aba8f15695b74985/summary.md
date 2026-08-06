@@ -1,0 +1,1 @@
+Summary: **In October 2018 the Joint Committee of the three European Supervisory Authorities (EBA, EIOPA and ESMA - ESAs) launched a public consultation to amend the Implementing Regulations on the mapping of credit assessments of External Credit Assessment Institutions (ECAIs) for credit

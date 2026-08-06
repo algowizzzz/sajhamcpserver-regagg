@@ -1,0 +1,1 @@
+Summary: # Guideline E-23 – Model Risk Management (2027) - Letter

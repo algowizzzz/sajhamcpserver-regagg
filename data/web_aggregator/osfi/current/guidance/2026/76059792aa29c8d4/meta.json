@@ -1,0 +1,27 @@
+{
+  "doc_id": "76059792aa29c8d4",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Liquidity Adequacy Requirements (LAR) (2027) Chapter 5 \u2013 Operating Cash Flow Statement - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2027-chapter-5-operating-cash-flow-statement",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:aad4ff2b88c10ab12587ec0486d0788021bfe2e13de0deb7bf61bd484575b99a",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/76059792aa29c8d4",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2027-chapter-5-operating-cash-flow-statement",
+  "fetch_method": "html_to_md"
+}

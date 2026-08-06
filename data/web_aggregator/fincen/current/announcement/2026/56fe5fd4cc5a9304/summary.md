@@ -1,0 +1,1 @@
+Summary: # Whether a Company that Offers Secured Transaction Services to a Buyer and Seller in a Given Sale of Goods or Services is a Money Transmitter

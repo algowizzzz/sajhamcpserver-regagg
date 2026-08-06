@@ -1,0 +1,24 @@
+# Compliance examinations
+
+FINTRAC conducts examinations to ensure compliance with the PCMLTFA and associated Regulations.
+
+## Examinations
+
+![](/images/landing/examinations.png)
+
+Your responsibilities and what you can expect from FINTRAC.
+
+[FINTRAC examinations](/guidance-directives/exam-examen/05-2005/4-eng)
+
+[FINTRAC assessment manual](/guidance-directives/exam-examen/cam/cams-eng)
+
+## Voluntary self-declaration of non-compliance
+
+![](/images/landing/vsdonc.jpg)
+
+Information for reporting entities on how to contact FINTRAC when they come across instances of non-compliance with the PCMLTFA and associated Regulations.
+
+[Voluntary self-declaration of non-compliance](/guidance-directives/exam-examen/vsdonc/1-eng)
+
+Date Modified:
+:   2021-05-13

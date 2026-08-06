@@ -1,0 +1,1 @@
+Summary: Today, the [Gibraltar Financial Services Commission (GFSC)](http://www.fsc.gi/news/elite-insurance-company-limited-239) informed the host national supervisory authorities via the European Insurance and Occupational Pensions Authority (EIOPA) Cross-Border Platform of Collaboration

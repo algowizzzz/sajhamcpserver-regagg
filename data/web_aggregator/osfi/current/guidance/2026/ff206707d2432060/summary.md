@@ -1,0 +1,1 @@
+Summary: # OSFI releases final Guideline B-13 – Technology and Cyber Risk Management - Letter (2022)

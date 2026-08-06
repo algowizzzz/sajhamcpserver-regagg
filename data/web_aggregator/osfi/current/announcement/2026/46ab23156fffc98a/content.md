@@ -1,0 +1,53 @@
+# Relevé des modifications (P3)
+
+Information
+
+Type de document
+
+Relevé des changements
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+État du résultat global, bénéfices non répartis et AÉRG (P3)
+
+Dernière révision
+
+Janvier 2023
+
+Numéro de relevé
+
+P3
+
+Documentation
+
+* [État du résultat global, bénéfices non répartis et AÉRG (P3)](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/etat-du-resultat-global-benefices-non-repartis-aerg-p3)
+
+| Numéro de la modification | Date d'établissement du rapport | Description |
+| --- | --- | --- |
+| 1 | T1 1998 | **Ajout :**   * Ligne 20e), Revenu tiré de la titrisation d'éléments d'actif * On a ajouté un poste couvrant les gains et les pertes sur le transfert d'éléments d'actif avec recours aux postes 3 et 4   **Modification :**   * Par suite de l'ajout de la ligne 20e), tous les renvois à des lignes ont été modifiés |
+| 2 | T1 1999 | **Ajout :**   * Aux postes 3, 4 et 5, un élément au titre du revenu d'intérêt résultant du transfert d'éléments d'actif financiers avec recours * Ligne 4, Autres prêts non hypothécaires - Instructions générales * - renvoi à la Note d'orientation concernant la comptabilité no 4 de l'Institut canadien des comptables agréés, sur la constatation des commissions et des coûts associés aux activités de crédit   **Modification :**   * Ligne 20e) Revenu tiré de la titrisation d'éléments d'actif. Le premier point a été modifié |
+| 3 | T1 2000 | **Ajout :**   * Article 600 de la Loi sur les banques (s'applique aux succursales de banques étrangères) * Renseignements complémentaires sur la divulgation * Le deuxième point de la section 5 a été étoffé   **Modification :**   * L'article 523 de la Loi sur les banques est maintenant l'article 628 |
+| 4 | T1 2001 | **Ajout :**   * Ligne 26l), « Frais d'amortissement »   **Modification :**   * L'ancienne ligne 26l), « Autres frais », est maintenant la ligne 26m) * L'expression « Impôts reportés » est remplacée par « Impôts futurs » conformément au chapitre 3465 du Manuel de l'ICCA * L'état consolidé des bénéfices non répartis est maintenant la section III   **Suppression :**   * La section III, « Soldes moyens en circulation », est supprimée |
+| 5 | T1 2003 | **Modification :**   * Ivation Data Systems Inc. est remplacé par Beyond 20/20 Inc.   **Suppression :**   * Banque du Canada du « Destinataires » |
+| 6 | T1 2004 | **Ajout :**   * L'adresse du site Web du BSIF   **Suppression :**   * Référence à Beyond 20/20   **Modification :**   * Frais d'amortissement est remplacé par Frais d'amortissement et charges de créances douteuses relatives * Définition d'achalandage |
+| 7 | T1 2005 | **Modification :**   * l) Frais d'amortissement et charges de créances douteuses relatives est remplacé par Charge de créances douteuses pour i) Achalandage et ii) Biens incorporels à durée indéterminée * Pertes découlant du transfert, avec ou sans droit de recours est remplacé par pertes vendus * Les instructions à la référence du Manuel de l'ICCA   **Ajout :**   * m) Frais d'amortissement avec i) Biens incorporels à durée déterminée et ii) Autres * « et activités abandonnées » aux items 32, 34, 39, 40, 41 et 42 * La référence aux lignes directrices du BSIF |
+| 8 | T1 2007 | **Modification :**   * Titre d'État consolidé des revenues à l'État consolidé des revenues, bénéfices non répartis et AERE * « du compte de négociation » est remplacé par « détenus aux fins de négociation », poste 18, Revenu de négociation * « sur les valeurs mobilières aliénées du compte de placement » est remplacé par « découlant de la vente de titres détenus à des fins autres que de négociation », élément 19, Gains (pertes) sur les instruments détenus à des fins autres que de négociation   **Ajout :**   * Section IV – Résultat étendu * Tableau I – Résultat étendu (perte) * Tableau II – Cumul des autres éléments du résultat étendu (perte), net d'impôts * « toute inefficacité de la couverture » sous Autres revenus, élément 20 (p), Autres commissions et frais et sous Autres frais, élément 26 (n), Autres |
+| 9 | T1 2008 | **Ajout :**   * Gains de dilution * Autres   **Modification :**   * postes figurant au bilan et à ceux qui n'y figurent pas est remplacé par postes réalisés et non comptabilisés * Incidence de la couverture est remplacée par Répercussion de la couverture et les instructions reliées |
+| 10 | T1 2009 | Le guide d'instructions de ce formulaire a fait l'objet de modifications importantes en raison de la rationalisation des données. De plus, nous avons supprimé la copie du formulaire qui se trouvait dans le guide et en avons fait un document distinct qui est maintenant affiché sur le site Web du BSIF.  **Modification :**   * Mise à jour des références aux postes de l'actif du bilan |
+| 11 | T1 2010 | **Modification :**   * Conseil municipal et scolaire est remplacé par Conseil municipal ou scolaire |
+| 12 | T1 2011 | Le guide d'instructions de ce formulaire a fait l'objet de modifications pour accommoder les normes IFRS. |
+| 13 | T1 2012 | **Modification :**   * Instructions reliées aux normes IFRS * Instructions sous la nouvelle ligne 31 ont été modifiées   **Suppression :**   * Instructions et références spécifiques aux normes PCGRC * 30. Participations sans contrôle dans des filiales (PCGRC) et les instructions reliées * 31. Éléments extraordinaires (nets d'impôts) et les instructions reliées |
+| 14 | T1 2013 | **Ajout :**   * e) Revenus d'intérêt sur prêts non hypothécaires douteux * h) Revenus d'intérêt sur autres prêts non hypothécaires douteux * d) Revenus d'intérêt sur prêts hypothécaires douteux * b) Frais liés aux régimes de retraite à prestations déterminées * Instructions sous 2. Ajouter : Revenu (perte) net attribuable aux détenteurs d'instruments de capitaux propres   **Suppression :**   * Références reliées aux normes IFRS sous c) Contributions aux caisses de retraite et autres avantages sociaux * Instructions et références reliées aux normes IFRS sous 3. Déduit   **Ajout/Modification :**   * Instructions sous la Section IV – Résultat étendu ont fait l’objet de modifications/ajouts importantes |
+| 15 | T3 2014 | **Instructions :**  **Modification :**   * (e) Part des autres éléments du résultat étendu attribuable aux entreprises associées et aux coentreprises est modifié à (d) Part des autres éléments du résultat étendu attribuable aux entreprises associées et aux coentreprises et est déménagé de sous « Postes qui ne seront pas reclassés dans le revenu net » au « Postes pouvant être reclassés par la suite dans le revenu net » * Les autres postes sont ainsi renumérotés   **Gabarit :**  **Ajout :**   * Point de donnée 5645 sous Section IV, Tableau 1 * Points de données 5991, 5992, 5993, 5994, 5995, 5996 et 5997 sous Section IV, Tableau 2   **Suppression :**   * Point de donnée 1110 sous Section IV, Tableau 1 * Points de données 1114, 1129, 1147, 1156, 1173, 1174 et 1113 sous Section IV, Tableau 2 |
+| 16 | T1 2018 | **Instructions :**  **Suppression :**   * Instructions sous 18. Gains (pertes) sur les instruments détenus à des fins autres que de négociation   **Ajout :**   * Instructions sous le Tableau 1 (2) Autres éléments du résultat étendu (perte) * Instructions sous le Tableau 2 (1) Cumul des gains (pertes)   **Gabarit :**  **Modification :**   * Lignes 2(a) et 2(a)(i)(A) sous Section IV, Tableau 1 ont été modifiées * Lignes 1(a), 1(a)(i), 1(d)(i) et 1(d)(i)(A) sous Section IV, Tableau 2 ont été modifiées   **Ajout :**   * Point de donnée 2100 sous Section IV, Tableau 1 * Point de donnée 2150 sous Section IV, Tableau 2 |
+| 17 | T1 2020 | **Instructions :**  **Modification :**   * Instructions sous la Section II (17) Revenu de négociation * Instructions sous la Section II (18) Gains (pertes) sur les instruments détenus à des fins autres que de négociation   **Gabarit :**   * Aucune modification apportée. |
+| 18 | T1 2024 | **Instructions :**  **Suppression :**   * (q) Revenus autres que d’intérêt tires d’opérations d’assurances et les instructions reliées   **Ajout :**   * (q) Résultat des activités d’assurance et les instructions reliées   **Modification :**   * Résultat étendu (AÉRÉ) est modifié à résultat global (AÉRG)   **Gabarit :**  **Suppression :**   * Point de données 1247, 1248, 1250, 1254 et 1255 sous (q) Revenus autres que d’intérêt tires d’opérations d’assurances   **Ajout :**   * Point de données 9310, 9311 et 9312 sous (q) Résultat des activités d’assurance   **Modification :**   * Résultat étendu (AÉRÉ) est modifié à résultat global (AÉRG) |
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-01-17

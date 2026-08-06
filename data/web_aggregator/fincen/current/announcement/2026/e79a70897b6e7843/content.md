@@ -1,0 +1,50 @@
+# Replaced by FIN-2008-R001
+
+[Ruling\_finOct3.pdf](/system/files/administrative_ruling/Ruling_finOct3.pdf "Ruling_finOct3.pdf")
+(105.79 KB)
+
+FIN-2006-R003
+
+Replaced by FIN-2008-R001
+
+Issued Date
+
+February 10, 2006
+
+**Financial Crimes Enforcement Network**
+
+**Ruling**
+
+Rescinded and Replaced by FIN-2020-R001
+
+Dear [ ]:  
+This letter responds to your letters, dated November 15, 2005 and January 25, 2006, in which you request guidance in the form of an administrative ruling on the proper completion of the Currency Transaction Report, FinCEN Form 104, when reporting a transaction made by or on behalf of a sole proprietorship. Specifically, you request confirmation that the form should disclose identifying information for both the sole proprietorship and the person who owns the business.
+
+We view transactions conducted by or on behalf of a sole proprietorship as benefiting both the sole proprietorship as well as the owner of the sole proprietorship in his or her individual capacity. Accordingly, the Currency Transaction Report for a transaction involving a sole proprietorship should be completed with all available identifying information on both the business and the owner of the business. One Section A should be completed for the owner (with the owner’s name, address, Social Security Number or Individual Tax Identification Number), and a separate Section A should be completed for the sole proprietorship (the business’ name, Doing Business As, business address, and Employer Identification Number). Also, the "multiple persons" box in Item 1 should be checked.
+
+---
+
+[Accessibility](/accessibility)
+
+Financial Institution
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

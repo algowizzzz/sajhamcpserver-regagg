@@ -1,0 +1,50 @@
+# Charging reporting entities for FINTRAC's compliance program
+
+Learn about the assessment of expenses funding model implemented by the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) to charge reporting entities (businesses and individuals) for the annual cost of its compliance program.
+
+On April 1, 2024, the funding of FINTRAC's compliance program shifted from taxpayers to reporting entities subject to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and its associated Regulations.
+
+## Assessment of expenses funding model
+
+### [Legislative and regulatory changes](regulations-reglements-eng)
+
+Key milestones to implementing the assessment of expenses funding model for FINTRAC's compliance program
+
+### [Development and administration of the funding model](development-elaboration-eng)
+
+Development and administration of the assessment of expenses funding model, including guiding principles; annual meeting on FINTRAC's compliance program; annual reporting requirement; and evaluation and enhancement of the model
+
+### [Reporting entities subject to charges](entities-entites-eng)
+
+Types of reporting entities that FINTRAC charges for the annual cost of its compliance program
+
+### [Components of the method for charging reporting entities](charging-facturation-eng)
+
+Components and factors involved in the overall method that FINTRAC uses to charge reporting entities, and how to estimate charges
+
+### [Determination of charges by type of reporting entity](determination-determiner-eng)
+
+Different approaches that FINTRAC uses to charge specific types of reporting entities
+
+### [Invoice and payment](payment-paiement-eng)
+
+Invoice details and recommended payment method
+
+## Contact us
+
+* Questions about the assessment of expenses funding model: [expenses\_assessment-evaluation\_depenses@fintrac-canafe.gc.ca](mailto:expenses_assessment-evaluation_depenses@fintrac-canafe.gc.ca)
+
+## Related links
+
+* [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](https://lois-laws.justice.gc.ca/eng/acts/P-24.501/)
+* [Financial Transactions and Reports Analysis Centre of Canada Assessment of Expenses Regulations](https://www.gazette.gc.ca/rp-pr/p2/2023/2023-10-11/html/sor-dors195-eng.html)
+* [Financial transactions reported to FINTRAC](/individuals-individus/rpt-eng)
+* [Transaction reporting requirements](/guidance-directives/guidance-directives-eng#s3)
+* [Penalties for non-compliance](/pen/1-eng)
+
+## Contributor
+
+**From**: [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+Date Modified:
+:   2023-10-12

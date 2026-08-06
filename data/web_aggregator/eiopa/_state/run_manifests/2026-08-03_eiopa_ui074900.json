@@ -1,0 +1,854 @@
+{
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "regulator_id": "eiopa",
+  "logical_date": "2026-08-03",
+  "trigger": "rerun",
+  "detected": 3255,
+  "fetched": 333,
+  "ingested": 333,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 109,
+  "status": "failed",
+  "error_list": [
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-sets-out-methodology-derive-ultimate-forward-rate-2017-04-05_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-sets-out-methodology-derive-ultimate-forward-rate-2017-04-05_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-strengthens-supervision-cross-border-insurance-groups-2017-03-01_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-strengthens-supervision-cross-border-insurance-groups-2017-03-01_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/insurance-balance-sheet-review-and-pension-funds-asset-review-bulgarian-insurance-and-pensions-2017-02-21_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/insurance-balance-sheet-review-and-pension-funds-asset-review-bulgarian-insurance-and-pensions-2017-02-21_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/guidelines-facilitating-effective-dialogue-between-insurance-supervisors-and-statutory-auditors-2017-02-02_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/guidelines-facilitating-effective-dialogue-between-insurance-supervisors-and-statutory-auditors-2017-02-02_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eu-us-insurance-project-addresses-cyber-risk-2017-01-17_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eu-us-insurance-project-addresses-cyber-risk-2017-01-17_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-elects-patrick-montagner-new-member-its-management-board-2019-01-30_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-elects-patrick-montagner-new-member-its-management-board-2019-01-30_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/esas-propose-amendment-priips-key-information-document-clarify-application-investment-funds-2019-03-08_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/esas-propose-amendment-priips-key-information-document-clarify-application-investment-funds-2019-03-08_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-analyses-licencing-approaches-insurtech-2019-03-27_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-analyses-licencing-approaches-insurtech-2019-03-27_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-calls-principle-based-regulation-cloud-computing-2019-03-27_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-calls-principle-based-regulation-cloud-computing-2019-03-27_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-calls-upon-national-supervisory-authorities-minimise-detriment-insurance-policy-holders-and-2019-02-19-0_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-calls-upon-national-supervisory-authorities-minimise-detriment-insurance-policy-holders-and-2019-02-19-0_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-publishes-opinion-non-life-cross-border-business-long-term-nature-2018-12-21_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-publishes-opinion-non-life-cross-border-business-long-term-nature-2018-12-21_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-defines-its-supervisory-convergence-priorities-2018-04-27_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-defines-its-supervisory-convergence-priorities-2018-04-27_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/press-release-financial-stability-report-december-2017-2017-12-20_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/press-release-financial-stability-report-december-2017-2017-12-20_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/sixth-consumer-trends-report-2017-12-08_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/sixth-consumer-trends-report-2017-12-08_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-recommends-simplifications-calculation-capital-requirements-2017-10-30-0_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-recommends-simplifications-calculation-capital-requirements-2017-10-30-0_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-publishes-guidelines-aexecution-onlya-sales-2017-10-11_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-publishes-guidelines-aexecution-onlya-sales-2017-10-11_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-streamlines-reporting-occupational-pensions-information-2017-07-26-0_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-streamlines-reporting-occupational-pensions-information-2017-07-26-0_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-issues-principles-supervisory-approach-relocations-united-kingdom-2017-07-11-0_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-issues-principles-supervisory-approach-relocations-united-kingdom-2017-07-11-0_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-welcomes-proposed-regulation-pan-european-personal-pension-product-2017-06-29_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-welcomes-proposed-regulation-pan-european-personal-pension-product-2017-06-29_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-launches-its-second-eu-wide-occupational-pensions-stress-test-2017-05-18-0_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-launches-its-second-eu-wide-occupational-pensions-stress-test-2017-05-18-0_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopaas-new-insurance-product-information-document-major-step-forward-consumers-2017-02-07_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopaas-new-insurance-product-information-document-major-step-forward-consumers-2017-02-07_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-advises-implementation-insurance-distribution-directive-2017-02-01-0_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-advises-implementation-insurance-distribution-directive-2017-02-01-0_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/2015-01-29-election-braumuller-2015-01-29_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/2015-01-29-election-braumuller-2015-01-29_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/2014-12-04-publication-cap-internal-models-2014-12-04_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/2014-12-04-publication-cap-internal-models-2014-12-04_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/agenda-2022-annual-conference_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/agenda-2022-annual-conference_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/2014-12-01-stress-test-2014-presentation-2014-12-01_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/2014-12-01-stress-test-2014-presentation-2014-12-01_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-launches-eu-wide-thematic-review-consumer-protection-issues-travel-insurance-2018-07-17_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-launches-eu-wide-thematic-review-consumer-protection-issues-travel-insurance-2018-07-17_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eu-financial-regulators-highlight-risks-no-deal-brexit-and-asset-price-volatility-2019-04-02_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eu-financial-regulators-highlight-risks-no-deal-brexit-and-asset-price-volatility-2019-04-02_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-consults-corrections-and-amendments-implementing-technical-standards-reporting-and-disclosure-2019-04-02_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-consults-corrections-and-amendments-implementing-technical-standards-reporting-and-disclosure-2019-04-02_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/european-supervisory-authorities-publish-qa-key-information-document-priips-2019-04-04_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/european-supervisory-authorities-publish-qa-key-information-document-priips-2019-04-04_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/joint-committee-esas-publishes-its-2018-annual-report-2019-04-09_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/joint-committee-esas-publishes-its-2018-annual-report-2019-04-09_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/esas-publish-joint-advice-information-and-communication-technology-risk-management-and-cybersecurity-2019-04-10_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/esas-publish-joint-advice-information-and-communication-technology-risk-management-and-cybersecurity-2019-04-10_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopas-risk-dashboard-april-2019-shows-broadly-unchanged-risk-levels-eu-insurance-sector-2019-04-11_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopas-risk-dashboard-april-2019-shows-broadly-unchanged-risk-levels-eu-insurance-sector-2019-04-11_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-updates-pension-registers-2019-04-12_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-updates-pension-registers-2019-04-12_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-workshop-cyber-insurance-2019-04-16_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-workshop-cyber-insurance-2019-04-16_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/use-cloud-computing-reinsurance-undertakings-2019-04-17_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/use-cloud-computing-reinsurance-undertakings-2019-04-17_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/esas-publish-amended-technical-standards-mapping-ecais-under-capital-requirements-regulation-2019-05-20_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/esas-publish-amended-technical-standards-mapping-ecais-under-capital-requirements-regulation-2019-05-20_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/questions-and-answers-eiopas-recommendation-narodna-banka-slovenska_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/questions-and-answers-eiopas-recommendation-narodna-banka-slovenska_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/esas-launch-consultation-technical-standards-reporting-intra-group-transactions-and-risk-2019-05-22_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/esas-launch-consultation-technical-standards-reporting-intra-group-transactions-and-risk-2019-05-22_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/esas-propose-performance-scenarios-options-consumer-testing-2019-05-23_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/esas-propose-performance-scenarios-options-consumer-testing-2019-05-23_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/european-commissions-reply-esas-call-clarify-scope-priips-regulation-2019-05-28_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/european-commissions-reply-esas-call-clarify-scope-priips-regulation-2019-05-28_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-launches-consultation-opinion-sustainability-within-solvency-ii-2019-06-03-0_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-launches-consultation-opinion-sustainability-within-solvency-ii-2019-06-03-0_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-ecb-and-national-authorities-agree-common-minimum-standards-supervisory-and-statistical-2019-06-13_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-ecb-and-national-authorities-agree-common-minimum-standards-supervisory-and-statistical-2019-06-13_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-outlines-key-financial-stability-risks-european-insurance-and-pensions-sector-2019-07-01_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-outlines-key-financial-stability-risks-european-insurance-and-pensions-sector-2019-07-01_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-consults-harmonisation-national-insurance-guarantee-schemes-2019-07-12_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-consults-harmonisation-national-insurance-guarantee-schemes-2019-07-12_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/speakers-0_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/speakers-0_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-consults-draft-opinion-supervision-remuneration-principles-insurance-and-reinsurance-sector-2019-07-25_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-consults-draft-opinion-supervision-remuneration-principles-insurance-and-reinsurance-sector-2019-07-25_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eu-financial-regulators-highlight-risks-no-deal-brexit-and-search-yield-2019-09-12_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eu-financial-regulators-highlight-risks-no-deal-brexit-and-search-yield-2019-09-12_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-issues-opinion-sustainability-within-solvency-ii-2019-09-30_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-issues-opinion-sustainability-within-solvency-ii-2019-09-30_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/livestream_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/livestream_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/esas-joint-board-appeal-publishes-its-decision-appeal-credit-rating-agency-creditreform-ag-against-2019-10-08_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/esas-joint-board-appeal-publishes-its-decision-appeal-credit-rating-agency-creditreform-ag-against-2019-10-08_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/esas-consult-changes-key-information-document-priips-2019-10-16_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/esas-consult-changes-key-information-document-priips-2019-10-16_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/esas-seek-promote-consistent-application-priips-regulation-bonds-2019-10-24_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/esas-seek-promote-consistent-application-priips-regulation-bonds-2019-10-24_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/summary-annual-conference-2022_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/summary-annual-conference-2022_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-publicly-consults-its-approaches-regulating-key-aspects-pan-european-personal-pension-product-2019-12-02_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-publicly-consults-its-approaches-regulating-key-aspects-pan-european-personal-pension-product-2019-12-02_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-publishes-annual-report-use-capital-add-ons-under-solvency-ii-2019-12-13_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-publishes-annual-report-use-capital-add-ons-under-solvency-ii-2019-12-13_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-publishes-its-fourth-annual-analysis-use-and-impact-long-term-guarantees-measures-and-measures-2019-12-17_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-publishes-its-fourth-annual-analysis-use-and-impact-long-term-guarantees-measures-and-measures-2019-12-17_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-outlines-key-financial-stability-risks-european-insurance-and-pensions-sector-2020-01-07_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-outlines-key-financial-stability-risks-european-insurance-and-pensions-sector-2020-01-07_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/technical-specification-market-and-credit-risk-comparative-study-ye2019-2020-01-13_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/technical-specification-market-and-credit-risk-comparative-study-ye2019-2020-01-13_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-consults-review-technical-implementation-means-package-solvency-2-supervisory-reporting-and-2020-02-05_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-consults-review-technical-implementation-means-package-solvency-2-supervisory-reporting-and-2020-02-05_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-identifies-supervisory-technology-pensions-and-cyber-underwriting-new-supervisory-convergence-2020-02-12_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-identifies-supervisory-technology-pensions-and-cyber-underwriting-new-supervisory-convergence-2020-02-12_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/brief-consumer-trends-report-2019-2019-12-12_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/brief-consumer-trends-report-2019-2019-12-12_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/winning-race-towards-global-insurance-capital-standard-2020-02-20_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/winning-race-towards-global-insurance-capital-standard-2020-02-20_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/monthly-update-symmetric-adjustment-equity-capital-charge-solvency-ii-end-june-2020-2020-07-03_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/monthly-update-symmetric-adjustment-equity-capital-charge-solvency-ii-end-june-2020-2020-07-03_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/speakers-and-panellists-0_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/speakers-and-panellists-0_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/coronavirus-staff-measures-2020-03-16_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/coronavirus-staff-measures-2020-03-16_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/offices-closed-2020-03-26_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/offices-closed-2020-03-26_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/model-iorp-ii-pension-benefit-statement-2020-03-27_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/model-iorp-ii-pension-benefit-statement-2020-03-27_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-urges-reinsurers-temporarily-suspend-all-discretionary-dividend-distributions-and-share-buy-2020-04-02_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-urges-reinsurers-temporarily-suspend-all-discretionary-dividend-distributions-and-share-buy-2020-04-02_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/monthly-update-symmetric-adjustment-equity-capital-charge-solvency-ii-end-march-2020-2020-04-03_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/monthly-update-symmetric-adjustment-equity-capital-charge-solvency-ii-end-march-2020-2020-04-03_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-publishes-second-report-costs-and-pasts-performance-insurance-based-investment-products-and-2020-04-06_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-publishes-second-report-costs-and-pasts-performance-insurance-based-investment-products-and-2020-04-06_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-publishes-opinion-supervision-remuneration-principles-insurance-and-reinsurance-sector-2020-04-07_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-publishes-opinion-supervision-remuneration-principles-insurance-and-reinsurance-sector-2020-04-07_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/eiopa-extends-deadline-stakeholder-group-applications-2020-04-07_en",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/eiopa-extends-deadline-stakeholder-group-applications-2020-04-07_en"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/93d678b5-bb0c-49d0-8828-e5a667696753_en?filename=EIOPA%20Handbook%20for%20Visitors.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/93d678b5-bb0c-49d0-8828-e5a667696753_en?filename=EIOPA%20Handbook%20for%20Visitors.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/937bbd10-b304-4b22-a8b9-83932012ae86_en?filename=Candidates%20Manual_2024.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/937bbd10-b304-4b22-a8b9-83932012ae86_en?filename=Candidates%20Manual_2024.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/27e09d73-9ae6-4042-a98f-02a635e5d6b6_en?filename=towards-european-supervisory-convergence-the-joint-committee.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/27e09d73-9ae6-4042-a98f-02a635e5d6b6_en?filename=towards-european-supervisory-convergence-the-joint-committee.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/5f9b34d1-747d-4e73-8310-34d82279e87b_en?filename=JC%202024%2060%20-%20Joint%20Committee%20of%20the%20European%20Supervisory%20Authorities%20Rules%20of%20Procedures.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/5f9b34d1-747d-4e73-8310-34d82279e87b_en?filename=JC%202024%2060%20-%20Joint%20Committee%20of%20the%20European%20Supervisory%20Authorities%20Rules%20of%20Procedures.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/a4ab4c66-3667-451d-a863-9d62b58a3380_en?filename=Joint%20Committee%20Work%20Programme%202024.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/a4ab4c66-3667-451d-a863-9d62b58a3380_en?filename=Joint%20Committee%20Work%20Programme%202024.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/bb693fc9-4ceb-4929-a44f-d399f7c67c84_en?filename=EFIF%20Procedural%20framework%20for%20cross-border%20testing.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/bb693fc9-4ceb-4929-a44f-d399f7c67c84_en?filename=EFIF%20Procedural%20framework%20for%20cross-border%20testing.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/97998ac9-7954-44ac-b5d4-90f81210665e_en?filename=Taxonomy%20of%20Financial%20Innovation%20-%20Matrix%20%2B%20Glossary.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/97998ac9-7954-44ac-b5d4-90f81210665e_en?filename=Taxonomy%20of%20Financial%20Innovation%20-%20Matrix%20%2B%20Glossary.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/c2f78a01-f5a7-4df8-94ed-2f60c419c20a_en?filename=Introductory%20Statement%20by%20Gabriel%20Bernardino%20at%20the%20Scrutiny%20Hearing%20on%20PRIIPs%20.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/c2f78a01-f5a7-4df8-94ed-2f60c419c20a_en?filename=Introductory%20Statement%20by%20Gabriel%20Bernardino%20at%20the%20Scrutiny%20Hearing%20on%20PRIIPs%20.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/d696fbf6-0b83-40aa-a429-62e61bc953c8_en?filename=Joint%20Report%3A%20FinTech%3A%20Regulatory%20sandboxes%20and%20innovation%20hubs.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/d696fbf6-0b83-40aa-a429-62e61bc953c8_en?filename=Joint%20Report%3A%20FinTech%3A%20Regulatory%20sandboxes%20and%20innovation%20hubs.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/687cc9ee-5b61-4105-a49e-c8e23177d656_en?filename=Press%20release%20on%20non-life%20cross-border%20insurance%20-%20Opinion.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/687cc9ee-5b61-4105-a49e-c8e23177d656_en?filename=Press%20release%20on%20non-life%20cross-border%20insurance%20-%20Opinion.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/8b6482bc-a475-4f50-bda8-109c1a279f3d_en?filename=Financial%20Stability%20Report%20-%20December%202018.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/8b6482bc-a475-4f50-bda8-109c1a279f3d_en?filename=Financial%20Stability%20Report%20-%20December%202018.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/dddf96dd-d369-4213-ac4d-b1a5fc22c8ad_en?filename=Outline%20of%20Key%20Financial%20Stability%20Risks%20-%20Press%20release%20.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/dddf96dd-d369-4213-ac4d-b1a5fc22c8ad_en?filename=Outline%20of%20Key%20Financial%20Stability%20Risks%20-%20Press%20release%20.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/92d8b332-b888-4e0d-8dbf-b0aa0b48e09e_en?filename=Digital%20Technologies%20in%20Insurance%20and%20Pensions%20-%20Press%20release.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/92d8b332-b888-4e0d-8dbf-b0aa0b48e09e_en?filename=Digital%20Technologies%20in%20Insurance%20and%20Pensions%20-%20Press%20release.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/03227ab7-7cf9-44fa-9248-17892ed1a044_en?filename=Seventh%20Consumer%20Trends%20Report.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/03227ab7-7cf9-44fa-9248-17892ed1a044_en?filename=Seventh%20Consumer%20Trends%20Report.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/54971b9b-4d66-4c00-820d-45084dcfc0fe_en?filename=Report%20on%20the%20use%20of%20limitations%20and%20exemptions%20from%20reporting%20during%202017%20and%20Q1%202018.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/54971b9b-4d66-4c00-820d-45084dcfc0fe_en?filename=Report%20on%20the%20use%20of%20limitations%20and%20exemptions%20from%20reporting%20during%202017%20and%20Q1%202018.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/f782400f-e85b-453c-b328-78161bc0d013_en?filename=Report%20on%20the%20use%20of%20capital%20add-ons%20during%202017.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/f782400f-e85b-453c-b328-78161bc0d013_en?filename=Report%20on%20the%20use%20of%20capital%20add-ons%20during%202017.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/8357f834-37cc-43e4-a31d-928f4c02679d_en?filename=Call%20for%20input%20on%20the%20Solvency%20II%20reporting%20and%20disclosure%20review%202020.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/8357f834-37cc-43e4-a31d-928f4c02679d_en?filename=Call%20for%20input%20on%20the%20Solvency%20II%20reporting%20and%20disclosure%20review%202020.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/0f0853d3-dc3e-47b4-8faa-fed268b402df_en?filename=Formal%20request%20for%20a%20report%20on%20group%20supervision%20and%20capital%20management.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/0f0853d3-dc3e-47b4-8faa-fed268b402df_en?filename=Formal%20request%20for%20a%20report%20on%20group%20supervision%20and%20capital%20management.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/0df0b940-c0fa-4f46-8e44-fdff9e2b5503_en?filename=Formal%20request%20for%20a%20report%20on%20group%20supervision%20and%20capital%20management%20-%20Annex.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/0df0b940-c0fa-4f46-8e44-fdff9e2b5503_en?filename=Formal%20request%20for%20a%20report%20on%20group%20supervision%20and%20capital%20management%20-%20Annex.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/f3b64719-cc41-46df-bb41-5882971bd667_en?filename=A%20common%20supervisory%20culture.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/f3b64719-cc41-46df-bb41-5882971bd667_en?filename=A%20common%20supervisory%20culture.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/223566e0-bd3f-40b3-8750-5fa9b7227964_en?filename=Technical%20documentation.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/223566e0-bd3f-40b3-8750-5fa9b7227964_en?filename=Technical%20documentation.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/7edd5ead-1ad4-4b3b-9dc3-2cc82c4b565b_en?filename=Financial%20Regulation.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/7edd5ead-1ad4-4b3b-9dc3-2cc82c4b565b_en?filename=Financial%20Regulation.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/0da1f0b7-57ad-4e9f-96b4-d3a6f056a560_en?filename=Report%20on%20long-term%20guarantees%20measures%20and%20measures%20on%20equity%20risk%202018.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/0da1f0b7-57ad-4e9f-96b4-d3a6f056a560_en?filename=Report%20on%20long-term%20guarantees%20measures%20and%20measures%20on%20equity%20risk%202018.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/a9948c6a-6039-4220-aa5c-a1d672b7fa6d_en?filename=Final%20Draft%20Regulatory%20Technical%20Standards.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/a9948c6a-6039-4220-aa5c-a1d672b7fa6d_en?filename=Final%20Draft%20Regulatory%20Technical%20Standards.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/99793f70-e6a2-4964-bca9-3e31f6db8cf3_en?filename=Final%20Report%20Amendments%20to%20the%20EMIR%20Clearing%20Obligation%20under%20the%20Securitisation%20Regulation.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/99793f70-e6a2-4964-bca9-3e31f6db8cf3_en?filename=Final%20Report%20Amendments%20to%20the%20EMIR%20Clearing%20Obligation%20under%20the%20Securitisation%20Regulation.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/af8c10cd-837f-465e-a85c-456e7ce280d3_en?filename=2018%20Insurance%20Stress%20Test%20FAQ%20%26%20Answers.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/af8c10cd-837f-465e-a85c-456e7ce280d3_en?filename=2018%20Insurance%20Stress%20Test%20FAQ%20%26%20Answers.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/4066f153-2435-428f-befa-e03da0becc55_en?filename=Transcript%20of%20the%20video%20interview%20with%20Gabriel%20Bernardino%20-%20Chairman%20of%20EIOPA.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/4066f153-2435-428f-befa-e03da0becc55_en?filename=Transcript%20of%20the%20video%20interview%20with%20Gabriel%20Bernardino%20-%20Chairman%20of%20EIOPA.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/3b140eb8-8bbc-495d-b13e-83cf30a3ea5f_en?filename=IDD%20Evaluation%20of%20intermediary%20markets%20-%20Report.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/3b140eb8-8bbc-495d-b13e-83cf30a3ea5f_en?filename=IDD%20Evaluation%20of%20intermediary%20markets%20-%20Report.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/d9451571-4d50-466d-a837-6bf7e59dd69b_en?filename=IDD%20Evaluation%20of%20intermediary%20markets%20-%20Annex.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/d9451571-4d50-466d-a837-6bf7e59dd69b_en?filename=IDD%20Evaluation%20of%20intermediary%20markets%20-%20Annex.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/8cc05e88-f72c-4abf-b0a6-c961467ecc33_en?filename=Summary%20of%20the%20Danish%20Financial%20Supervisory%20Authority%E2%80%99s%20statement%20-%20Order.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/8cc05e88-f72c-4abf-b0a6-c961467ecc33_en?filename=Summary%20of%20the%20Danish%20Financial%20Supervisory%20Authority%E2%80%99s%20statement%20-%20Order.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/95f4201f-4a8a-4985-9a9b-d5561a4b1669_en?filename=Call%20for%20expression%20of%20interest%20-%20Technical%20Expert%20Network%20on%20Catastrophe%20Risks%20.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/95f4201f-4a8a-4985-9a9b-d5561a4b1669_en?filename=Call%20for%20expression%20of%20interest%20-%20Technical%20Expert%20Network%20on%20Catastrophe%20Risks%20.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/b25623f5-ee07-4d07-94ff-e71ad755cda7_en?filename=Joint%20Committee%20statement%20on%20securitisation%20disclosure%20and%20application.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/b25623f5-ee07-4d07-94ff-e71ad755cda7_en?filename=Joint%20Committee%20statement%20on%20securitisation%20disclosure%20and%20application.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/0ea79522-7f3c-4012-9159-9d9b4222107a_en?filename=EMIR%20RTS%20Final%20report.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/0ea79522-7f3c-4012-9159-9d9b4222107a_en?filename=EMIR%20RTS%20Final%20report.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/477ee0f9-eb0b-44e9-9507-14d50cb09485_en?filename=Consultation%20on%20technical%20advice%20on%20the%20integration%20of%20sustainability%20risks%20and%20factors%20-%20November%202018.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/477ee0f9-eb0b-44e9-9507-14d50cb09485_en?filename=Consultation%20on%20technical%20advice%20on%20the%20integration%20of%20sustainability%20risks%20and%20factors%20-%20November%202018.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/326018da-21f1-48f3-bc08-ea82b4c2d8f3_en?filename=Request%20from%20the%20European%20Commission%20to%20EIOPA.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/326018da-21f1-48f3-bc08-ea82b4c2d8f3_en?filename=Request%20from%20the%20European%20Commission%20to%20EIOPA.pdf"
+    },
+    {
+      "url": "https://www.eiopa.europa.eu/document/download/10b9090a-2808-4a24-93cc-ea69b20b53f5_en?filename=Consultation%20paper%20-%20Draft%20technical%20advice.pdf",
+      "error": "429 Client Error: Too Many Requests for url: https://www.eiopa.europa.eu/document/download/10b9090a-2808-4a24-93cc-ea69b20b53f5_en?filename=Consultation%20paper%20-%20Draft%20technical%20advice.pdf"
+    }
+  ],
+  "detected_urls": [
+    "https://www.eiopa.europa.eu/index_en",
+    "https://www.eiopa.europa.eu/about/contact-us_en",
+    "https://www.eiopa.europa.eu/about/governance-structure/joint-committee_en",
+    "https://www.eiopa.europa.eu/esma-eba-and-eiopa-warn-consumers-risks-virtual-currencies-2018-11-30_en",
+    "https://www.eiopa.europa.eu/about/governance-structure/cross-sectoral-work_en",
+    "https://www.eiopa.europa.eu/statement-gabriel-bernardino-scrutiny-hearing-priips-econ-committee-european-parliament-2019-02-20_en",
+    "https://www.eiopa.europa.eu/esas-publish-joint-report-regulatory-sandboxes-and-innovation-hubs-2019-01-07_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-opinion-non-life-cross-border-insurance-business-long-term-nature-2018-12-21_en",
+    "https://www.eiopa.europa.eu/bankruptcy-qudos-insurance-equal-treatment-european-policyholders-2018-12-20_en",
+    "https://www.eiopa.europa.eu/eiopa-outlines-key-financial-stability-risks-2018-12-20_en",
+    "https://www.eiopa.europa.eu/digital-technologies-continue-grow-alongside-cross-selling-practices-and-sale-add-insurance-2018-12-20_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-third-annual-report-use-limitations-and-exemptions-reporting-under-solvency-ii-2018-12-20_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-second-annual-report-use-capital-add-ons-under-solvency-ii-2018-12-20_en",
+    "https://www.eiopa.europa.eu/about/governance-structure/joint-committee/innovation-facilitators-eu_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-input-solvency-ii-reporting-and-disclosure-requirements-2018-12-19_en",
+    "https://www.eiopa.europa.eu/eiopa-reports-group-supervision-and-capital-management-insurance-and-reinsurance-undertakings-2018-12-19_en",
+    "https://www.eiopa.europa.eu/change-financial-market-data-provider-calculation-solvency-ii-rfr-term-structures-2018-12-18_en",
+    "https://www.eiopa.europa.eu/eiopas-third-annual-analysis-use-and-impact-long-term-guarantees-measures-and-measures-equity-risk-2018-12-18_en",
+    "https://www.eiopa.europa.eu/eiopa-updates-representative-portfolios-calculate-volatility-adjustments-solvency-ii-rfr-term-2018-12-18_en",
+    "https://www.eiopa.europa.eu/esas-publish-joint-emir-sts-standards-2018-12-18_en",
+    "https://www.eiopa.europa.eu/eiopa-announces-results-2018-insurance-stress-test-2018-12-14_en",
+    "https://www.eiopa.europa.eu/eiopa-evaluates-european-insurance-intermediaries-markets-2018-12-13_en",
+    "https://www.eiopa.europa.eu/eiopas-cross-border-platform-collaboration-qudos-insurance-2018-12-10_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-experts-join-network-catastrophe-risks-2018-12-07_en",
+    "https://www.eiopa.europa.eu/about/governance-structure/joint-committee/joint-qas_en",
+    "https://www.eiopa.europa.eu/esas-statement-securitisation-disclosure-and-application-rules-credit-institutions-2018-11-30_en",
+    "https://www.eiopa.europa.eu/esas-propose-amend-bilateral-margin-requirements-assist-brexit-preparations-otc-derivative-contracts-2018-11-29_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-integration-sustainability-risks-and-factors-2018-11-28_en",
+    "https://www.eiopa.europa.eu/eiopa-promotes-greater-transparency-towards-iorps-cross-border-activities-2018-11-27_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-european-insurance-overview-2018-2018-11-27_en",
+    "https://www.eiopa.europa.eu/eiopa-assesses-supervisory-practices-and-application-key-functions-through-peer-review-2018-11-15_en",
+    "https://www.eiopa.europa.eu/statement-regarding-report-european-court-auditors-2018-11-15_en",
+    "https://www.eiopa.europa.eu/eu-and-us-insurance-regulators-talks-cyber-security-insurance-big-data-and-transactions-2018-11-14_en",
+    "https://www.eiopa.europa.eu/eiopa-outlines-principles-and-guidance-pension-benefit-statement-2018-11-13_en",
+    "https://www.eiopa.europa.eu/esas-consult-proposed-changes-key-information-document-priips-2018-11-08_en",
+    "https://www.eiopa.europa.eu/browse/financial-stability/insurance-stress-test/insurance-stress-test-2021_en",
+    "https://www.eiopa.europa.eu/technical-information-solvency-ii-rfr-term-structures-end-october-2018-and-update-source-code-2018-11-08_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-pensions-information-taxonomy-2018-11-05_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-immediate-action-ensure-service-continuity-cross-border-insurance-2018-11-05_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-result-work-eu-us-insurance-dialogue-project-2018-2018-10-31_en",
+    "https://www.eiopa.europa.eu/updated-technical-rfr-documentation-danish-krone-and-denmark-applicable-1-january-2019-2018-10-30_en",
+    "https://www.eiopa.europa.eu/review-illiquid-liabilities-and-analysis-potential-implications-request-feedback-launched-2018-10-29_en",
+    "https://www.eiopa.europa.eu/esas-propose-new-amendments-technical-standards-mapping-ecais-2018-10-26_en",
+    "https://www.eiopa.europa.eu/eiopas-risk-dashboard-2q-2018-shows-broadly-unchanged-risk-levels-eu-insurance-sector-2018-10-22_en",
+    "https://www.eiopa.europa.eu/newly-appointed-members-eiopas-occupational-pensions-stakeholder-group-elect-its-chair-and-vice-2018-10-19_en",
+    "https://www.eiopa.europa.eu/eiopa-analyses-benefits-ifrs-17-insurance-contracts-2018-10-19_en",
+    "https://www.eiopa.europa.eu/eiopa-reinforces-cooperation-supervision-cross-border-insurance-distribution-2018-10-10_en",
+    "https://www.eiopa.europa.eu/introductory-statement-scrutiny-hearing-priips-2018-10-08_en",
+    "https://www.eiopa.europa.eu/public-forum-eu-us-insurance-project-programme-now-available-2018-10-05_en",
+    "https://www.eiopa.europa.eu/esas-highlight-relevance-legislative-changes-key-information-document-priips-2018-10-01_en",
+    "https://www.eiopa.europa.eu/esas-joint-board-appeal-decides-individuals-appeal-against-decision-esma-2018-09-26_en",
+    "https://www.eiopa.europa.eu/newly-appointed-members-eiopas-insurance-and-reinsurance-stakeholder-group-elect-its-chair-and-vice-2018-09-21_en",
+    "https://www.eiopa.europa.eu/interview-fausto-parente-executive-director-eiopa-personal-pensions-2018-09-20_en",
+    "https://www.eiopa.europa.eu/esas-see-return-volatility-new-risk-report-2018-09-11_en",
+    "https://www.eiopa.europa.eu/esas-report-finds-automation-financial-advice-slowly-growing-scale-market-remains-limited-2018-09-05_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-updated-technical-rfr-documentation-danish-krone-and-denmark-2018-08-14_en",
+    "https://www.eiopa.europa.eu/browse/regulation-and-policy/solvency-ii/2020-review-solvency-ii/solvency-ii-review-information-request-insurance-and-reinsurance-undertakings-and-groups_en",
+    "https://www.eiopa.europa.eu/eiopa-joins-sustainable-insurance-forum-2018-08-08_en",
+    "https://www.eiopa.europa.eu/deeper-understanding-cyber-risk-needed-core-challenge-european-insurance-industry-2018-08-02_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-third-paper-series-systemic-risk-and-macroprudential-policy-insurance-sector-2018-07-31_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-discussion-paper-national-insurance-guarantee-schemes-2018-07-30_en",
+    "https://www.eiopa.europa.eu/eiopas-risk-dashboard-first-quarter-2018-shows-broadly-unchanged-risk-levels-eu-insurance-sector-2018-07-24_en",
+    "https://www.eiopa.europa.eu/european-supervisory-authorities-publish-further-guidance-key-information-document-priips-2018-07-20_en",
+    "https://www.eiopa.europa.eu/eiopa-appoints-new-members-its-stakeholder-groups-2018-07-17_en",
+    "https://www.eiopa.europa.eu/eiopa-examines-causes-insurers-failures-and-near-misses-2018-07-17_en",
+    "https://www.eiopa.europa.eu/eiopa-issues-mediation-opinion-regarding-determination-correct-insurance-class-statutory-risks-2018-07-06_en",
+    "https://www.eiopa.europa.eu/eiopa-seeks-evidence-use-big-data-2018-07-06_en",
+    "https://www.eiopa.europa.eu/about/work-programme_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-remind-insurers-their-duty-inform-customers-about-impact-withdrawal-uk-eu-2018-06-28_en",
+    "https://www.eiopa.europa.eu/eiopa-submits-draft-regulatory-technical-standards-2018-06-27_en",
+    "https://www.eiopa.europa.eu/eiopa-outlines-key-financial-stability-risks-2018-06-25_en",
+    "https://www.eiopa.europa.eu/european-supervisory-authorities-hold-its-2018-consumer-protection-day-2018-06-22_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-expanded-set-solvency-ii-statistics-european-insurance-sector-2018-06-21_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-its-annual-report-2017-2018-06-15_en",
+    "https://www.eiopa.europa.eu/gabriel-bernardino-solvency-ii-success-interview-gabriel-bernardino-chairman-eiopa-2018-06-08_en",
+    "https://www.eiopa.europa.eu/eiopa-expects-insurance-undertakings-avoid-instruments-banned-or-restricted-esma-2018-06-01_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-first-study-modelling-market-and-credit-risk-2018-05-22_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-ensure-insurers-properly-address-all-risks-their-solvency-position-2018-05-18_en",
+    "https://www.eiopa.europa.eu/questions-and-answers-non-compliance-national-bank-slovakia-eiopas-recommendation_en",
+    "https://www.eiopa.europa.eu/esas-joint-board-appeal-decides-individuals-appeal-against-esma-2018-05-18_en",
+    "https://www.eiopa.europa.eu/eiopa-launches-fourth-eu-wide-insurance-stress-test-2018-05-14_en",
+    "https://www.eiopa.europa.eu/esas-consult-amendments-joint-emir-standards-2018-05-04_en",
+    "https://www.eiopa.europa.eu/risk-dashboard-fourth-quarter-2017-risk-exposure-european-union-insurance-sector-remains-stable-2018-04-27_en",
+    "https://www.eiopa.europa.eu/esas-conclude-multilateral-memorandum-understanding-efta-surveillance-authority-2018-04-27_en",
+    "https://www.eiopa.europa.eu/eiopa-significantly-enhancing-european-pensions-statistics-2018-04-25_en",
+    "https://www.eiopa.europa.eu/eiopa-defines-its-supervisory-convergence-priorities-2018-04-23_en",
+    "https://www.eiopa.europa.eu/eiopas-cooperation-platforms-prove-beneficial-addressing-cross-border-issues-2018-04-18_en",
+    "https://www.eiopa.europa.eu/esas-appoint-new-members-board-appeal-2018-04-18_en",
+    "https://www.eiopa.europa.eu/eu-financial-regulators-warn-against-risks-eu-financial-markets-brexit-asset-repricing-and-cyber-2018-04-12_en",
+    "https://www.eiopa.europa.eu/speakers-sustainable-finance-roundtable_en",
+    "https://www.eiopa.europa.eu/changes-eiopas-management-board-composition-2018-04-10_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-corrections-and-amendments-implementing-technical-standards-reporting-and-disclosure-2018-03-28_en",
+    "https://www.eiopa.europa.eu/keynote-speech-gabriel-bernardino-public-hearing-2018-review-solvency-ii-delegated-regulation-2018-03-27_en",
+    "https://www.eiopa.europa.eu/application-updated-representative-portfolios-2018-2018-03-23_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-second-paper-series-systemic-risk-and-macroprudential-policy-insurance-sector-2018-03-21_en",
+    "https://www.eiopa.europa.eu/interview-dimitris-zafeiris-head-risks-and-financial-stability-department-eiopa-insidergr-2018-03-15_en",
+    "https://www.eiopa.europa.eu/esas-weigh-benefits-and-risks-big-data-2018-03-15_en",
+    "https://www.eiopa.europa.eu/keynote-address-gabriel-bernardino-chairman-eiopa-19-handelsblatt-annual-conference-berlin-2018-03-12_en",
+    "https://www.eiopa.europa.eu/eiopas-cross-border-platform-collaboration-alpha-insurance-2018-03-05_en",
+    "https://www.eiopa.europa.eu/eiopa-launches-selection-procedure-members-its-stakeholder-groups-2018-03-01_en",
+    "https://www.eiopa.europa.eu/glossary_en",
+    "https://www.eiopa.europa.eu/statistics-and-risk-dashboards_en",
+    "https://www.eiopa.europa.eu/eiopa-recommends-further-simplifications-calculation-insurers-capital-requirements-2018-02-28_en",
+    "https://www.eiopa.europa.eu/eiopas-cross-border-platform-collaboration-cbl-insurance-europe-dac-cblie-2018-02-19_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-new-set-solvency-ii-statistics-european-insurance-sector-2018-02-13_en",
+    "https://www.eiopa.europa.eu/esas-warn-consumers-risks-buying-virtual-currencies-2018-02-12_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-first-paper-series-systemic-risk-and-macroprudential-policy-insurance-sector-2018-02-06_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-draft-regulatory-technical-standards-adapting-base-euro-amounts-2018-02-01_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-updated-work-programme-2018-2018-01-30_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-its-2017-market-development-report-occupational-pensions-and-cross-border-2018-01-30_en",
+    "https://www.eiopa.europa.eu/risk-dashboard-third-quarter-2017-continues-show-relative-stable-risk-exposure-eu-insurance-sector-2018-01-25_en",
+    "https://www.eiopa.europa.eu/guidelines-insurance-based-investment-products-incorporate-structure-2018-01-19_en",
+    "https://www.eiopa.europa.eu/market-and-credit-risk-comparative-study-ye2021_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-information-use-exemptions-and-limitations-regular-supervisory-reporting-2017-12-21_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-consistent-supervisory-practices-internal-models-2017-12-21_en",
+    "https://www.eiopa.europa.eu/insurance-companies-urged-make-sufficient-preparation-ensure-service-continuity-upon-uks-withdrawal-2017-12-21_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-its-annual-analysis-use-long-term-guarantees-measures-and-measures-equity-risk-2017-12-21_en",
+    "https://www.eiopa.europa.eu/eiopa-highlights-financial-stability-risks-2017-12-20_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-annual-2016-group-insurance-statistics-2017-12-19_en",
+    "https://www.eiopa.europa.eu/eiopa-analyses-first-solvency-and-financial-condition-reports-and-identifies-areas-improvement-2017-12-18_en",
+    "https://www.eiopa.europa.eu/eiopa-updates-representative-portfolios-calculate-volatility-adjustments-solvency-ii-rfr-term-2017-12-18_en",
+    "https://www.eiopa.europa.eu/eiopas-stress-test-identifies-spill-over-risks-real-economy-shocks-european-occupational-pensions-2017-12-13_en",
+    "https://www.eiopa.europa.eu/eiopa-releases-editable-template-insurance-product-information-document-2017-12-11_en",
+    "https://www.eiopa.europa.eu/speakers-and-panellists_en",
+    "https://www.eiopa.europa.eu/eiopa-issues-recommendations-improve-consumer-protection-unit-linked-market-2017-12-11_en",
+    "https://www.eiopa.europa.eu/consumer-trends-digital-technologies-are-changing-way-consumers-interact-and-engage-2017-12-08_en",
+    "https://www.eiopa.europa.eu/esas-publish-draft-technical-standards-strengthen-group-wide-management-money-laundering-and-2017-12-06_en",
+    "https://www.eiopa.europa.eu/speech-gabriel-bernardino-launch-event-cross-border-benefits-alliance-2017-12-06_en",
+    "https://www.eiopa.europa.eu/esas-publish-list-financial-conglomerates-2017-12-05_en",
+    "https://www.eiopa.europa.eu/eiopa-elects-kathleen-kohn-chair-insurtech-task-force-2017-11-29_en",
+    "https://www.eiopa.europa.eu/speech-gabriel-bernardino-7th-annual-conference-insurance-and-pensions-reloaded-game-changer-2017-11-22_en",
+    "https://www.eiopa.europa.eu/eiopa-identifies-search-yield-trend-investment-behaviour-insurers-2017-11-16_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-new-set-solvency-ii-statistics-european-insurance-sector-2017-11-13_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-second-set-advice-review-solvency-capital-requirements-2017-11-06_en",
+    "https://www.eiopa.europa.eu/consumer-trends-insurance-and-pension-markets_en",
+    "https://www.eiopa.europa.eu/eiopa-recommends-simplifications-calculation-capital-requirements-2017-10-30_en",
+    "https://www.eiopa.europa.eu/guest-commentary-gabriel-bernardino-safe-newsletter-goethe-universitys-house-finance-2017-10-30_en",
+    "https://www.eiopa.europa.eu/interview-gabriel-bernardino-chairman-eiopa-conducted-jade-grandin-de-leprevier-lagefi-2017-10-30_en",
+    "https://www.eiopa.europa.eu/interview-gabriel-bernardino-chairman-eiopa-conducted-bjarke-smith-meyer-politico-2017-10-30_en",
+    "https://www.eiopa.europa.eu/eiopas-risk-dashboard-second-quarter-2017-continues-show-relative-stable-risk-exposure-eu-insurance-2017-10-26_en",
+    "https://www.eiopa.europa.eu/eiopa-updates-internal-model-consistency-projects-2017-10-25_en",
+    "https://www.eiopa.europa.eu/interview-manuela-zweimueller-and-katja-wuertz-german-association-insured-bund-der-versicherten-2017-10-24_en",
+    "https://www.eiopa.europa.eu/eiopa-receives-request-european-commission-2017-10-20_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-guidelines-execution-only-sales-2017-10-11_en",
+    "https://www.eiopa.europa.eu/statement-gabriel-bernardino-hearing-chairpersons-european-supervisory-authorities-brussels-2017-10-09_en",
+    "https://www.eiopa.europa.eu/browse/supervisory-convergence/peer-reviews_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-work-programme-2018-within-framework-multiannual-work-programme-2017-2019-2017-09-29_en",
+    "https://www.eiopa.europa.eu/learning-lessons-solvency-ii-article-gabriel-bernardino-enterprise-risk-magazine-2017-09-27_en",
+    "https://www.eiopa.europa.eu/interview-gabriel-bernardino-chairman-eiopa-conducted-margarida-pinto-funds-people-magazine-2017-09-25_en",
+    "https://www.eiopa.europa.eu/survey-gather-data-stakeholders-work-developing-qas-insurance-distribution-directive-2017-09-25_en",
+    "https://www.eiopa.europa.eu/esas-provide-guidance-prevent-terrorist-financing-and-money-laundering-electronic-fund-transfers-2017-09-22_en",
+    "https://www.eiopa.europa.eu/esas-highlight-main-risks-eu-financial-system-2017-09-21_en",
+    "https://www.eiopa.europa.eu/eiopa-welcomes-european-commissions-proposal-reinforce-integrated-supervision-europe-2017-09-20_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-new-set-solvency-ii-statistics-european-insurance-sector-2017-09-18_en",
+    "https://www.eiopa.europa.eu/speech-dr-manuela-zweimueller-head-policy-department-azn-insurance-conference-ljubljana-2017-09-08_en",
+    "https://www.eiopa.europa.eu/european-supervisory-authorities-publish-qa-key-information-document-priips-2017-08-18_en",
+    "https://www.eiopa.europa.eu/browse/supervisory-convergence/thematic-reviews_en",
+    "https://www.eiopa.europa.eu/eiopas-risk-dashboard-first-quarter-2017-shows-relative-stable-risk-exposure-eu-insurance-sector-2017-07-31_en",
+    "https://www.eiopa.europa.eu/esas-advise-packaged-retail-and-insurance-based-investment-products-environmental-or-social-2017-07-28_en",
+    "https://www.eiopa.europa.eu/eiopa-streamlines-reporting-occupational-pensions-information-2017-07-26_en",
+    "https://www.eiopa.europa.eu/esas-joint-board-appeal-decides-financialcraft-analytics-appeal-against-esmas-registration-decision-2017-07-20_en",
+    "https://www.eiopa.europa.eu/eiopa-updates-source-code-monthly-risk-free-interest-rate-term-structures-calculation-2017-07-19_en",
+    "https://www.eiopa.europa.eu/esas-consult-amendments-technical-standards-mapping-ecais-2017-07-18_en",
+    "https://www.eiopa.europa.eu/eiopa-submits-implementing-technical-standards-reporting-and-disclosure-and-publishes-final-taxonomy-2017-07-17_en",
+    "https://www.eiopa.europa.eu/eiopa-issues-principles-supervisory-approach-relocations-united-kingdom-2017-07-11_en",
+    "https://www.eiopa.europa.eu/eiopas-cross-border-platform-collaboration-elite-insurance-company-limited-2017-07-05_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-european-recovery-and-resolution-framework-reinsurers-2017-07-05_en",
+    "https://www.eiopa.europa.eu/browse/supervisory-convergence/union-wide-strategic-supervisory-priorities_en",
+    "https://www.eiopa.europa.eu/european-supervisory-authorities-publish-qa-key-information-document-2017-07-04_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-its-first-set-advice-solvency-ii-review-2017-07-04_en",
+    "https://www.eiopa.europa.eu/eiopa-elects-olaf-sleijpen-new-member-its-management-board-2017-06-29_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-first-set-solvency-ii-statistics-european-insurance-sector-2017-06-28_en",
+    "https://www.eiopa.europa.eu/eiopa-highlights-financial-stability-risks-2017-06-23_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-further-improvement-orsa-implementation-2017-06-19_en",
+    "https://www.eiopa.europa.eu/keynote-address-gabriel-bernardino-chairman-eiopa-goldman-sachs-21st-annual-european-financials-2017-06-15_en",
+    "https://www.eiopa.europa.eu/video-address-gabriel-bernardino-chairman-eiopa-deutsche-bank-insurance-capital-forum-london-2017-06-15_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-its-annual-report-2016-2017-06-15_en",
+    "https://www.eiopa.europa.eu/eiopa-reinforces-its-cooperation-world-bank-2017-06-15_en",
+    "https://www.eiopa.europa.eu/browse/supervisory-convergence/internal-models_en",
+    "https://www.eiopa.europa.eu/interview-gabriel-bernardino-chairman-eiopa-conducted-patricia-abreu-jornal-de-negocios-2017-06-09_en",
+    "https://www.eiopa.europa.eu/eiopa-invites-comments-220-draft-version-solvency-ii-xbrl-taxonomy-2017-06-07_en",
+    "https://www.eiopa.europa.eu/interview-gabriel-bernardino-chairman-eiopa-conducted-adam-cadle-insurance-asset-management-europe-2017-05-30_en",
+    "https://www.eiopa.europa.eu/eiopas-response-european-commission-its-public-consultation-operations-esas-2017-05-29_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-its-final-report-consultation-paper-2017-05-23_en",
+    "https://www.eiopa.europa.eu/eiopa-launches-its-second-eu-wide-occupational-pensions-stress-test-2017-05-18_en",
+    "https://www.eiopa.europa.eu/eiopas-risk-dashboard-assesses-risks-european-union-insurance-sector-2017-05-16_en",
+    "https://www.eiopa.europa.eu/opening-remarks-gabriel-bernardino-chairman-eiopa-conferencia-annual-os-seguros-em-portugal-lisbon-2017-05-05_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-eu-wide-thematic-review-consumer-protection-issues-unit-linked-market-2017-04-26_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-evidence-treatment-unlisted-equity-and-debt-without-external-rating-standard-formula-2017-04-26_en",
+    "https://www.eiopa.europa.eu/browse/digitalisation-and-financial-innovation/open-insurance_en",
+    "https://www.eiopa.europa.eu/speech-gabriel-bernardino-public-hearing-capital-markets-union-mid-term-review-brussels-2017-04-25_en",
+    "https://www.eiopa.europa.eu/eiopa-proposes-amendments-adopted-solvency-ii-technical-standards-reporting-and-disclosure-2017-04-21_en",
+    "https://www.eiopa.europa.eu/esas-highlight-main-risks-eu-financial-system-2017-04-20_en",
+    "https://www.eiopa.europa.eu/eiopa-sets-out-methodology-derive-ultimate-forward-rate-2017-04-05_en",
+    "https://www.eiopa.europa.eu/eiopa-extends-terms-office-three-its-management-board-members-2017-03-30_en",
+    "https://www.eiopa.europa.eu/keynote-address-gabriel-bernardino-18th-handelsblatt-annual-conference-occupational-pensions-2017-03-28_en",
+    "https://www.eiopa.europa.eu/esas-welcome-european-commissions-public-consultation-their-operation-2017-03-21_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-its-2016-market-development-report-occupational-pensions-and-cross-border-2017-03-10_en",
+    "https://www.eiopa.europa.eu/video-address-gabriel-bernardino-finanstilsynet-conference-pensions-when-guarantees-disappear-2017-03-09_en",
+    "https://www.eiopa.europa.eu/insurance-and-reinsurance-undertakings-requested-provide-information-eiopas-2017-long-term-2017-03-03_en",
+    "https://www.eiopa.europa.eu/browse/digitalisation-and-financial-innovation/artificial-intelligence-and-big-data_en",
+    "https://www.eiopa.europa.eu/eiopa-strengthens-supervision-cross-border-insurance-groups-2017-03-01_en",
+    "https://www.eiopa.europa.eu/eiopa-updates-technical-documentation-methodology-derive-risk-free-interest-rate-term-structure-2017-02-28_en",
+    "https://www.eiopa.europa.eu/eiopas-new-risk-dashboard-first-time-based-solvency-ii-data-2017-02-28_en",
+    "https://www.eiopa.europa.eu/esas-publish-statement-variation-margin-exchange-2017-02-23_en",
+    "https://www.eiopa.europa.eu/esas-warn-money-laundering-and-terrorist-financing-risks-affecting-eus-financial-sector-2017-02-21_en",
+    "https://www.eiopa.europa.eu/insurance-balance-sheet-review-and-pension-funds-asset-review-bulgarian-insurance-and-pensions-2017-02-21_en",
+    "https://www.eiopa.europa.eu/keynote-address-gabriel-bernardino-occupational-pensions-between-eu-rules-and-national-solutions-2017-02-21_en",
+    "https://www.eiopa.europa.eu/eiopa-reinforces-supervisory-cooperation-cross-border-activities-2017-02-16_en",
+    "https://www.eiopa.europa.eu/speech-gabriel-bernardino-chairman-eiopa-european-consumer-protection-conference-vienna-2017-02-16_en",
+    "https://www.eiopa.europa.eu/eiopa-invites-its-website-visitors-provide-feedback-2017-02-13_en",
+    "https://www.eiopa.europa.eu/about/careers/why-eiopa_en",
+    "https://www.eiopa.europa.eu/browse/digitalisation-and-financial-innovation/cyber-insurance_en",
+    "https://www.eiopa.europa.eu/call-expression-interest-european-commission-2017-02-08_en",
+    "https://www.eiopa.europa.eu/eiopas-new-insurance-product-information-document-major-step-forward-consumers-2017-02-07_en",
+    "https://www.eiopa.europa.eu/publication-assessment-bulgarian-insurance-and-pensions-sector-2017-02-03_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-guidelines-complex-insurance-based-investment-products-2017-02-02_en",
+    "https://www.eiopa.europa.eu/guidelines-facilitating-effective-dialogue-between-insurance-supervisors-and-statutory-auditors-2017-02-02_en",
+    "https://www.eiopa.europa.eu/eiopa-updates-its-single-programming-document-2017-2019-2017-02-02_en",
+    "https://www.eiopa.europa.eu/eiopa-advises-implementation-insurance-distribution-directive-2017-02-01_en",
+    "https://www.eiopa.europa.eu/eiopa-published-today-update-technical-documentation-methodology-derive-rfr-term-structures-2017-01-31_en",
+    "https://www.eiopa.europa.eu/speech-gabriel-bernardino-suddeutsche-zeitung-insurance-day-2017-2017-01-25_en",
+    "https://www.eiopa.europa.eu/eu-us-insurance-project-addresses-cyber-risk-2017-01-17_en",
+    "https://www.eiopa.europa.eu/tools-and-data/registers-lists-and-databases/register-national-laws-regulations-and-administrative-provisions-regarding-pepp_en",
+    "https://www.eiopa.europa.eu/eiopa-and-bermuda-monetary-authority-sign-memorandum-understanding-2017-01-17_en",
+    "https://www.eiopa.europa.eu/eiopa-welcomes-eu-us-covered-agreement-insurance-and-reinsurance-measures-2017-01-13_en",
+    "https://www.eiopa.europa.eu/eiopa-sets-out-framework-identifying-conduct-risks-2019-02-20-0_en",
+    "https://www.eiopa.europa.eu/eiopa-and-its-members-agree-no-deal-brexit-mous-bank-england-and-financial-conduct-authority-2019-03-05_en",
+    "https://www.eiopa.europa.eu/cyber-security-and-cyber-risk-universal-challenge-2019-02-26_en",
+    "https://www.eiopa.europa.eu/eiopas-9th-annual-conference-be-held-19-november-2019-frankfurt-am-main-2019-03-07_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-updated-work-programme-2019-within-multiannual-work-programme-2019-2021-2019-02-05_en",
+    "https://www.eiopa.europa.eu/esas-publish-recommendations-changes-priips-key-information-document-2019-02-08_en",
+    "https://www.eiopa.europa.eu/eiopa-welcomes-agreement-pan-european-personal-pension-product-2019-02-13_en",
+    "https://www.eiopa.europa.eu/eiopa-analyses-costs-and-past-performance-insurance-and-pension-products-2019-01-10_en",
+    "https://www.eiopa.europa.eu/browse/digitalisation-and-financial-innovation/blockchain-and-crypto-assets_en",
+    "https://www.eiopa.europa.eu/esas-announce-multilateral-agreement-exchange-information-between-ecb-and-amlcft-competent-2019-01-15_en",
+    "https://www.eiopa.europa.eu/eiopa-seeks-evidence-integration-sustainability-risks-solvency-ii-2019-01-16_en",
+    "https://www.eiopa.europa.eu/eiopa-elects-patrick-montagner-new-member-its-management-board-2019-01-30_en",
+    "https://www.eiopa.europa.eu/eiopas-risk-dashboard-third-quarter-2018-shows-broadly-unchanged-risk-levels-eu-insurance-sector-2019-01-31_en",
+    "https://www.eiopa.europa.eu/esas-propose-amendment-priips-key-information-document-clarify-application-investment-funds-2019-03-08_en",
+    "https://www.eiopa.europa.eu/board-appeal-publishes-its-decision-nordic-banks-appeals-decisions-esma-shadow-ratings-cases-2019-03-13_en",
+    "https://www.eiopa.europa.eu/6th-conference-global-insurance-supervision-gis-be-held-4-and-5-september-frankfurt-am-main-2019-03-20_en",
+    "https://www.eiopa.europa.eu/eiopa-determines-principles-transparent-timely-and-clear-information-provision-pensions-2019-03-26_en",
+    "https://www.eiopa.europa.eu/eiopa-analyses-licencing-approaches-insurtech-2019-03-27_en",
+    "https://www.eiopa.europa.eu/browse/digitalisation-and-financial-innovation_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-principle-based-regulation-cloud-computing-2019-03-27_en",
+    "https://www.eiopa.europa.eu/eiopa-elects-sergio-alvarez-camina-new-member-its-management-board-2019-03-28_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-discussion-paper-systemic-risk-and-macroprudential-policy-insurance-2019-03-29_en",
+    "https://www.eiopa.europa.eu/launch-eiopas-2019-occupational-pensions-stress-test-exercise-2019-04-02_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-upon-national-supervisory-authorities-minimise-detriment-insurance-policy-holders-and-2019-02-19-0_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-improvements-assessment-propriety-board-members-and-qualifying-shareholder-2019-01-25_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-opinion-non-life-cross-border-business-long-term-nature-2018-12-21_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-upon-nsas-ensure-insurers-properly-address-all-risks-their-solvency-position-light-2018-05-18_en",
+    "https://www.eiopa.europa.eu/eiopa-defines-its-supervisory-convergence-priorities-2018-04-27_en",
+    "https://www.eiopa.europa.eu/esas-conclude-multilateral-memorandum-understanding-efta-surveillance-authority-2-2018-04-27_en",
+    "https://www.eiopa.europa.eu/browse/regulation-and-policy/pan-european-personal-pension-product-pepp/consumer-oriented-faqs-pan-european-personal-pension-product_en",
+    "https://www.eiopa.europa.eu/eiopa-recommends-further-simplifications-calculation-insurers-capital-requirements-2018-02-28-0_en",
+    "https://www.eiopa.europa.eu/esas-warn-consumers-risks-buying-virtual-currencies-2018-02-12-0_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-consistent-supervisory-practices-internal-models-2017-12-21-0_en",
+    "https://www.eiopa.europa.eu/insurance-companies-urged-make-sufficient-and-timely-preparation-ensure-service-continuity-upon-2017-12-21_en",
+    "https://www.eiopa.europa.eu/press-release-financial-stability-report-december-2017-2017-12-20_en",
+    "https://www.eiopa.europa.eu/eiopa-identifies-spill-over-risks-real-economy-shocks-european-occupational-pensions-sector-2017-12-13_en",
+    "https://www.eiopa.europa.eu/eiopa-issues-recommendations-improve-consumer-protection-unit-linked-market-2017-12-11-0_en",
+    "https://www.eiopa.europa.eu/sixth-consumer-trends-report-2017-12-08_en",
+    "https://www.eiopa.europa.eu/eiopa-identifies-search-yield-trend-investment-behaviour-insurers-2017-11-16-0_en",
+    "https://www.eiopa.europa.eu/eiopa-recommends-simplifications-calculation-capital-requirements-2017-10-30-0_en",
+    "https://www.eiopa.europa.eu/browse/financial-stability/occupational-pensions-stress-test/climate-stress-test-occupational-pensions-sector-2022_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-guidelines-aexecution-onlya-sales-2017-10-11_en",
+    "https://www.eiopa.europa.eu/eiopa-streamlines-reporting-occupational-pensions-information-2017-07-26-0_en",
+    "https://www.eiopa.europa.eu/eiopa-issues-principles-supervisory-approach-relocations-united-kingdom-2017-07-11-0_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-european-recovery-and-resolution-framework-reinsurers-2017-07-05-0_en",
+    "https://www.eiopa.europa.eu/eiopa-welcomes-proposed-regulation-pan-european-personal-pension-product-2017-06-29_en",
+    "https://www.eiopa.europa.eu/eiopa-highlights-key-financial-stability-risks-2017-06-23_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-further-improvement-orsa-implementation-2017-06-19-0_en",
+    "https://www.eiopa.europa.eu/eiopa-launches-its-second-eu-wide-occupational-pensions-stress-test-2017-05-18-0_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-eu-wide-thematic-review-consumer-protection-issues-unit-linked-market-2017-04-26-0_en",
+    "https://www.eiopa.europa.eu/eiopa-sets-out-methodology-derive-ultimate-forward-rate-2017-04-05-0_en",
+    "https://www.eiopa.europa.eu/browse/regulation-and-policy/pan-european-personal-pension-product-pepp/faqs-pan-european-personal-pension-product-professionals_en",
+    "https://www.eiopa.europa.eu/esas-welcome-european-commissions-public-consultation-their-operation-2017-03-21-0_en",
+    "https://www.eiopa.europa.eu/eiopa-reinforces-supervisory-cooperation-cross-border-activities-2017-02-16-0_en",
+    "https://www.eiopa.europa.eu/eiopaas-new-insurance-product-information-document-major-step-forward-consumers-2017-02-07_en",
+    "https://www.eiopa.europa.eu/publication-assessment-bulgarian-insurance-and-pensions-sector-2017-02-03-0_en",
+    "https://www.eiopa.europa.eu/eiopa-advises-implementation-insurance-distribution-directive-2017-02-01-0_en",
+    "https://www.eiopa.europa.eu/eiopa-and-bermuda-monetary-authority-sign-memorandum-understanding-2017-01-17-0_en",
+    "https://www.eiopa.europa.eu/eu-us-insurance-project-addresses-cyber-risk-2017-01-17-0_en",
+    "https://www.eiopa.europa.eu/eiopa-welcomes-eu-us-covered-agreement-insurance-and-reinsurance-measures-2017-01-13-0_en",
+    "https://www.eiopa.europa.eu/2015-01-29-election-braumuller-2015-01-29_en",
+    "https://www.eiopa.europa.eu/2014-12-04-publication-cap-internal-models-2014-12-04_en",
+    "https://www.eiopa.europa.eu/agenda-2022-annual-conference_en",
+    "https://www.eiopa.europa.eu/2014-11-28-trend-report-2014-12-03_en",
+    "https://www.eiopa.europa.eu/2014-12-01-stress-test-2014-presentation-2014-12-01_en",
+    "https://www.eiopa.europa.eu/eiopa-launches-eu-wide-thematic-review-consumer-protection-issues-travel-insurance-2018-07-17_en",
+    "https://www.eiopa.europa.eu/eu-financial-regulators-highlight-risks-no-deal-brexit-and-asset-price-volatility-2019-04-02_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-corrections-and-amendments-implementing-technical-standards-reporting-and-disclosure-2019-04-02_en",
+    "https://www.eiopa.europa.eu/european-supervisory-authorities-publish-qa-key-information-document-priips-2019-04-04_en",
+    "https://www.eiopa.europa.eu/eiopa-welcomes-adoption-regulation-introducing-pan-european-personal-pension-product-2019-04-04_en",
+    "https://www.eiopa.europa.eu/joint-committee-esas-publishes-its-2018-annual-report-2019-04-09_en",
+    "https://www.eiopa.europa.eu/esas-publish-joint-advice-information-and-communication-technology-risk-management-and-cybersecurity-2019-04-10_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-consistent-application-proportionality-principle-supervision-solvency-capital-2019-04-11_en",
+    "https://www.eiopa.europa.eu/eiopas-risk-dashboard-april-2019-shows-broadly-unchanged-risk-levels-eu-insurance-sector-2019-04-11_en",
+    "https://www.eiopa.europa.eu/eiopa-updates-pension-registers-2019-04-12_en",
+    "https://www.eiopa.europa.eu/eiopa-identifies-areas-improvement-supervision-prudent-person-rule-compliance-iorps-2019-04-15_en",
+    "https://www.eiopa.europa.eu/eiopa-workshop-cyber-insurance-2019-04-16_en",
+    "https://www.eiopa.europa.eu/use-cloud-computing-reinsurance-undertakings-2019-04-17_en",
+    "https://www.eiopa.europa.eu/eiopa-reports-about-its-2018-supervisory-activities-and-sets-out-2019-priorities-2019-04-26_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-candidates-join-expert-panel-pan-european-personal-pension-product-regulation-2019-05-02_en",
+    "https://www.eiopa.europa.eu/eiopa-submits-advice-sustainable-finance-european-commission-2019-05-03_en",
+    "https://www.eiopa.europa.eu/eiopa-reviews-use-big-data-analytics-motor-and-health-insurance-2019-05-08_en",
+    "https://www.eiopa.europa.eu/esas-publish-amended-technical-standards-mapping-ecais-under-capital-requirements-regulation-2019-05-20_en",
+    "https://www.eiopa.europa.eu/questions-and-answers-eiopas-recommendation-narodna-banka-slovenska_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-calculation-ultimate-forward-rate-2020-2019-05-21_en",
+    "https://www.eiopa.europa.eu/esas-launch-consultation-technical-standards-reporting-intra-group-transactions-and-risk-2019-05-22_en",
+    "https://www.eiopa.europa.eu/esas-propose-performance-scenarios-options-consumer-testing-2019-05-23_en",
+    "https://www.eiopa.europa.eu/european-commissions-reply-esas-call-clarify-scope-priips-regulation-2019-05-28_en",
+    "https://www.eiopa.europa.eu/eiopa-launches-consultation-opinion-sustainability-within-solvency-ii-2019-06-03-0_en",
+    "https://www.eiopa.europa.eu/eiopa-re-consults-new-amendments-technical-standards-mapping-ecais-2019-06-07_en",
+    "https://www.eiopa.europa.eu/eiopa-ecb-and-national-authorities-agree-common-minimum-standards-supervisory-and-statistical-2019-06-13_en",
+    "https://www.eiopa.europa.eu/about/careers/living-frankfurt_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-its-2018-annual-report-2019-06-14_en",
+    "https://www.eiopa.europa.eu/eiopa-outlines-key-financial-stability-risks-european-insurance-and-pensions-sector-2019-07-01_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-guidelines-outsourcing-cloud-service-providers-2019-07-01_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-candidates-join-consultative-expert-group-digital-ethics-insurance-2019-07-04_en",
+    "https://www.eiopa.europa.eu/eiopa-establishes-expert-practitioner-panel-pan-european-personal-pension-product-pepp-2019-07-05_en",
+    "https://www.eiopa.europa.eu/esas-publish-recommendations-supervision-retail-financial-services-provided-across-borders-2019-07-09_en",
+    "https://www.eiopa.europa.eu/eiopa-issues-opinions-governance-and-risk-management-pension-funds-2019-07-10_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-harmonisation-national-insurance-guarantee-schemes-2019-07-12_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-increased-proportionality-supervisory-reporting-and-public-disclosure-2019-07-12_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-discussion-paper-methodological-principles-insurance-stress-testing-2019-07-22_en",
+    "https://www.eiopa.europa.eu/speakers-0_en",
+    "https://www.eiopa.europa.eu/eiopa-examines-national-general-good-rules-2019-07-22_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-draft-opinion-supervision-remuneration-principles-insurance-and-reinsurance-sector-2019-07-25_en",
+    "https://www.eiopa.europa.eu/eiopas-july-2019-risk-dashboard-shows-broadly-stable-risk-trends-european-union-insurance-sector-2019-07-26_en",
+    "https://www.eiopa.europa.eu/update-change-financial-market-data-provider-calculation-solvency-ii-risk-free-interest-rate-term-2019-07-26_en",
+    "https://www.eiopa.europa.eu/esas-respond-european-commission-exclusion-performance-scenarios-options-priips-consumer-testing-2019-08-07_en",
+    "https://www.eiopa.europa.eu/eu-financial-regulators-highlight-risks-no-deal-brexit-and-search-yield-2019-09-12_en",
+    "https://www.eiopa.europa.eu/eiopa-establishes-consultative-expert-group-digital-ethics-insurance-2019-09-17_en",
+    "https://www.eiopa.europa.eu/eiopa-calls-sound-cyber-resilience-framework-2019-09-17_en",
+    "https://www.eiopa.europa.eu/eiopa-issues-opinion-sustainability-within-solvency-ii-2019-09-30_en",
+    "https://www.eiopa.europa.eu/esas-highlight-money-laundering-and-terrorist-financing-risks-eu-financial-sector-2019-10-04_en",
+    "https://www.eiopa.europa.eu/livestream_en",
+    "https://www.eiopa.europa.eu/esas-joint-board-appeal-publishes-its-decision-appeal-credit-rating-agency-creditreform-ag-against-2019-10-08_en",
+    "https://www.eiopa.europa.eu/eiopa-launches-field-test-revised-and-new-templates-under-solvency-ii-reporting-and-disclosure-2019-10-09_en",
+    "https://www.eiopa.europa.eu/eiopa-identifies-consumer-protection-issues-travel-insurance-and-issues-warning-travel-insurance-2019-10-09_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-technical-advice-2020-review-solvency-ii-2019-10-15_en",
+    "https://www.eiopa.europa.eu/esas-consult-changes-key-information-document-priips-2019-10-16_en",
+    "https://www.eiopa.europa.eu/esas-seek-promote-consistent-application-priips-regulation-bonds-2019-10-24_en",
+    "https://www.eiopa.europa.eu/eiopas-risk-dashboard-october-2019-shows-broadly-stable-risk-exposures-european-insurers-macro-and-2019-10-25_en",
+    "https://www.eiopa.europa.eu/national-competent-authorities-comply-or-intend-comply-eiopas-recommendations-insurance-sector-uk-2019-10-31_en",
+    "https://www.eiopa.europa.eu/eiopa-welcomes-adoption-first-global-frameworks-supervision-internationally-active-insurance-groups-2019-11-14_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-second-annual-european-insurance-overview-2019-11-19_en",
+    "https://www.eiopa.europa.eu/summary-annual-conference-2022_en",
+    "https://www.eiopa.europa.eu/eiopa-publicly-consults-its-approaches-regulating-key-aspects-pan-european-personal-pension-product-2019-12-02_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-guidelines-information-and-communication-technology-security-and-governance-2019-12-12_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-annual-report-use-capital-add-ons-under-solvency-ii-2019-12-13_en",
+    "https://www.eiopa.europa.eu/esas-transform-way-competent-authorities-cooperate-each-other-amlcft-matters-2019-12-16_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-report-insurers-asset-and-liability-management-relation-illiquidity-their-2019-12-16_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-its-fourth-annual-analysis-use-and-impact-long-term-guarantees-measures-and-measures-2019-12-17_en",
+    "https://www.eiopa.europa.eu/eiopa-updates-representative-portfolios-calculate-volatility-adjustments-solvency-ii-risk-free-2019-12-17_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-results-2019-occupational-pensions-stress-test-2019-12-17_en",
+    "https://www.eiopa.europa.eu/eiopa-outlines-key-financial-stability-risks-european-insurance-and-pensions-sector-2020-01-07_en",
+    "https://www.eiopa.europa.eu/browse/consumer-protection/mystery-shopping-tool-conduct-supervision_en",
+    "https://www.eiopa.europa.eu/eiopa-identifies-areas-where-risks-consumers-remain-high-2019-12-19_en",
+    "https://www.eiopa.europa.eu/technical-specification-market-and-credit-risk-comparative-study-ye2019-2020-01-13_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-information-use-limitations-and-exemptions-reporting-under-solvency-ii-2020-01-28_en",
+    "https://www.eiopa.europa.eu/european-insurers-face-stable-risk-exposures-macro-and-market-risks-remain-high-2020-01-29_en",
+    "https://www.eiopa.europa.eu/monthly-update-symmetric-adjustment-equity-capital-charge-solvency-ii-end-january-2020-2020-02-05_en",
+    "https://www.eiopa.europa.eu/eiopa-consults-review-technical-implementation-means-package-solvency-2-supervisory-reporting-and-2020-02-05_en",
+    "https://www.eiopa.europa.eu/discussion-open-ongoing-changes-new-benchmark-rates-ibor-transitions-2020-02-06_en",
+    "https://www.eiopa.europa.eu/guidelines-outsourcing-cloud-service-providers-now-available-national-supervisory-authorities-2020-02-06_en",
+    "https://www.eiopa.europa.eu/roundtable-discussion-mortgage-life-and-other-credit-protection-insurance-sold-through-banks-2020-02-06_en",
+    "https://www.eiopa.europa.eu/eiopa-sets-out-strategies-cyber-underwriting-and-suptech-2020-02-11_en",
+    "https://www.eiopa.europa.eu/eiopa-identifies-supervisory-technology-pensions-and-cyber-underwriting-new-supervisory-convergence-2020-02-12_en",
+    "https://www.eiopa.europa.eu/brief-consumer-trends-report-2019-2019-12-12_en",
+    "https://www.eiopa.europa.eu/agenda-eu-us-public-forum-13-march-2020-now-available-2020-02-17_en",
+    "https://www.eiopa.europa.eu/statement-romanian-financial-supervision-authority-and-european-insurance-and-occupational-pensions-2020-02-19_en",
+    "https://www.eiopa.europa.eu/supervisory-statement-ultra-lownegative-interest-rate-environment-2020-02-20_en",
+    "https://www.eiopa.europa.eu/eiopa-publicly-consults-implementing-technical-standards-supervisory-reporting-and-cooperation-pan-2020-02-20_en",
+    "https://www.eiopa.europa.eu/winning-race-towards-global-insurance-capital-standard-2020-02-20_en",
+    "https://www.eiopa.europa.eu/support-and-guide-our-work-become-member-eiopas-stakeholder-groups-2020-03-03_en",
+    "https://www.eiopa.europa.eu/monthly-update-symmetric-adjustment-equity-capital-charge-solvency-ii-end-june-2020-2020-07-03_en",
+    "https://www.eiopa.europa.eu/monthly-technical-information-solvency-ii-relevant-risk-free-interest-rate-term-structures-end-june-2020-07-03_en",
+    "https://www.eiopa.europa.eu/speakers-and-panellists-0_en",
+    "https://www.eiopa.europa.eu/coronavirus-staff-measures-2020-03-16_en",
+    "https://www.eiopa.europa.eu/eiopa-statement-actions-mitigate-impact-coronaviruscovid-19-eu-insurance-sector-2020-03-17_en",
+    "https://www.eiopa.europa.eu/eiopa-issues-recommendations-supervisory-flexibility-regarding-deadlines-supervisory-reporting-and-2020-03-20_en",
+    "https://www.eiopa.europa.eu/offices-closed-2020-03-26_en",
+    "https://www.eiopa.europa.eu/cross-border-cooperation-platform-gefion-insurance-2020-03-27_en",
+    "https://www.eiopa.europa.eu/model-iorp-ii-pension-benefit-statement-2020-03-27_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-weekly-information-relevant-risk-free-interest-rate-term-structures-and-symmetric-2020-04-30_en",
+    "https://www.eiopa.europa.eu/tools-and-data/behavioural-insights-insurance-and-pensions-supervision_en",
+    "https://www.eiopa.europa.eu/balance-sheet-review-romanian-insurance-sector-rescheduled-2020-04-01_en",
+    "https://www.eiopa.europa.eu/eiopa-urges-insurers-and-intermediaries-continue-take-actions-mitigate-impact-coronaviruscovid-19-2020-04-01_en",
+    "https://www.eiopa.europa.eu/update-other-measures-impacted-covid-19-pandemic-2020-04-02_en",
+    "https://www.eiopa.europa.eu/eiopa-urges-reinsurers-temporarily-suspend-all-discretionary-dividend-distributions-and-share-buy-2020-04-02_en",
+    "https://www.eiopa.europa.eu/monthly-update-symmetric-adjustment-equity-capital-charge-solvency-ii-end-march-2020-2020-04-03_en",
+    "https://www.eiopa.europa.eu/monthly-technical-information-solvency-ii-relevant-risk-free-interest-rate-term-structures-end-march-2020-04-03_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-second-report-costs-and-pasts-performance-insurance-based-investment-products-and-2020-04-06_en",
+    "https://www.eiopa.europa.eu/tools-and-data/behavioural-insights-insurance-and-pensions-supervision/principles-and-good-practices-be-applied-disclosure-documents_en",
+    "https://www.eiopa.europa.eu/eiopa-publishes-opinion-supervision-remuneration-principles-insurance-and-reinsurance-sector-2020-04-07_en",
+    "https://www.eiopa.europa.eu/eiopa-extends-deadline-stakeholder-group-applications-2020-04-07_en"
+  ],
+  "duration_s": 155.803
+}

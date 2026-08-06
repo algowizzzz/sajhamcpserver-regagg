@@ -1,0 +1,29 @@
+# FINTRAC imposes an administrative monetary penalty on Cash Shop #27
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2025-02-06**]
+
+2147353 Ontario Inc., also operating as Cash Shop #27, a money services business in Mississauga, Ontario, was imposed an administrative monetary penalty of $33,000 on December 2, 2024, for committing 1 violation. The case is closed.
+
+On May 2, 2024, FINTRAC conducted a notification call to inform Cash Shop #27 of an upcoming examination to ensure compliance with the requirements of the Act and associated Regulations. FINTRAC confirmed during the call that Cash Shop #27 was operational and conducting foreign exchange transactions and electronic funds transfers. On May 7, 2024, FINTRAC issued a compliance examination notification letter to Cash Shop #27. The letter required that Cash Shop #27 provide documents and information by June 7, 2024, for a compliance examination scheduled for July 12, 2024. FINTRAC later extended the deadline to provide documents to June 14, 2024. Despite being aware of the extended deadline to provide documents, Cash Stop #27 failed to provide any of the requested documents and information.
+
+## Nature of violation
+
+Violation #1
+:   **Failure to provide, in accordance with a notice, documents or other information reasonably required by an authorized person – Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act), subsection 63.1(2)**
+
+    Cash Shop #27 failed to provide, in accordance with a notice, the requested compliance program documentation for purposes of a compliance examination.
+
+    As part of its compliance examination notification process, on May 7, 2024, FINTRAC served Cash Shop #27 a notice requiring it to provide documents and information by a specific date (initially June 7, 2024, then extended to June 14, 2024). Despite FINTRAC’s attempts to contact Cash Shop #27 and obtain the documents, Cash Shop #27 failed to provide any of the requested documents, which includes its compliance policies and procedures, risk assessment, financial information, foreign exchange transaction records, funds transfer records, and a list of unusual transactions.
+
+    Failing to give an authorized person reasonable assistance and provide them with any information with respect to the administration of Part 1 and 1.1 of the Act and Regulations, or in accordance with a served notice, interferes with FINTRAC's compliance activities and its mandate under subsection 40(e) of the Act. These activities include examination planning and outreach. If FINTRAC is unable to ensure compliance, the regime's ability to detect, prevent and deter money laundering and the financing of terrorist activities is affected.
+
+    In this case, violation #1 is classified by regulations as a Serious violation. The imposed penalty takes into account the criteria in section 73.11 of the Act and section 6 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations.
+
+## Related link
+
+* [News Release : FINTRAC imposes an administrative monetary penalty on Cash Shop #27](/new-neuf/nr/2025-02-06-eng)
+
+Date Modified:
+:   2025-02-06

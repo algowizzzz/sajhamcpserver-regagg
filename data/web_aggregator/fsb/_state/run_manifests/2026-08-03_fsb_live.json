@@ -1,0 +1,27 @@
+{
+  "run_id": "2026-08-03_fsb_live",
+  "regulator_id": "fsb",
+  "logical_date": "2026-08-03",
+  "trigger": "schedule",
+  "detected": 12,
+  "fetched": 12,
+  "ingested": 12,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://www.fsb.org/2026/07/multilateralism-utopia-and-the-financial-stability-board/",
+    "https://www.fsb.org/2026/07/fsb-regional-consultative-group-for-sub-saharan-africa-meets-in-mauritius/",
+    "https://www.fsb.org/2026/07/exploring-cross-sectoral-interconnections-in-resolution-planning/",
+    "https://www.fsb.org/2026/07/cross-border-payments-towards-the-next-chapter/",
+    "https://www.fsb.org/2026/07/opening-remarks-for-the-fsb-2026-resolve-event-exploring-cross-sectoral-interconnections-and-financial-stability-implications/",
+    "https://www.fsb.org/2026/07/opening-remarks-on-sound-practices-for-artificial-intelligence/",
+    "https://www.fsb.org/2026/06/virtual-outreach-event-on-fsb-sound-practices-for-financial-institutions-responsible-adoption-of-artificial-intelligence/",
+    "https://www.fsb.org/2026/06/fsb-holds-a-roundtable-on-audit-quality-and-structural-shifts-in-the-global-audit-industry/",
+    "https://www.fsb.org/2026/06/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-consultation-report/",
+    "https://www.fsb.org/2026/06/fsb-consults-on-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/"
+  ],
+  "duration_s": 33.239
+}

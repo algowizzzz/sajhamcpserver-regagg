@@ -1,0 +1,1 @@
+Summary: # Brookfield attracting record level of investment as AI, insurance strategies gain steam

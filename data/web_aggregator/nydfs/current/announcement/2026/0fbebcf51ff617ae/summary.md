@@ -1,0 +1,1 @@
+Summary: ![Elderly couple meeting with a pharmacist](/sites/default/files/styles/wide_lead/public/media/2025/03/Health-Pharmacy-Elderly-Couple.jpg?h=b5f6a62e&itok=qlcKkaeu "Elderly couple meeting with a pharmacist")

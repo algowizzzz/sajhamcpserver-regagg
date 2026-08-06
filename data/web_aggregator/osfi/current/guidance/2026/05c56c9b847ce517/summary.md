@@ -1,0 +1,1 @@
+Summary: # Consultation: Draft Capital Adequacy Requirements (CAR) Guideline

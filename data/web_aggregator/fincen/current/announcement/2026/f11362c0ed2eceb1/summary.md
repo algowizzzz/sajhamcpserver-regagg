@@ -1,0 +1,1 @@
+Summary: # Whether a Business that Cashes Checks Payable to Customers to Apply Proceeds to the Repayment of Customers’ Obligations is a Money Services Business

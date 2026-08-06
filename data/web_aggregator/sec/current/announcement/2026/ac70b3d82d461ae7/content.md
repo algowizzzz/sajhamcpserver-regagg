@@ -1,0 +1,289 @@
+DRAFT TO BE DISCUSSED AT THE JUNE 4, 2026 MEETING OF THE SEC INVESTOR ADVISORY COMMITTEE,  
+CURRENT DRAFT AS OF MAY 19, 2026 
+1 
+ 
+ 
+Recommendations of the Investor-as-Purchaser Subcommittee of the Investor Advisory 
+Committee Regarding Fund Proxy Voting 
+ 
+Fund Proxy Voting — Challenges, Costs, and Pathways to Modernization 
+ 
+EXECUTIVE SUMMARY 
+I. INTRODUCTION 
+ 
+The current fund proxy voting system for open‑end mutual funds and exchange traded funds 
+(“ETFs”) is increasingly challenged by modern fund ownership and communication realities. The 
+system’s mechanics — particularly quorum and voting thresholds, paired with constrained 
+outreach channels — are driving rising costs, repeated adjournments, and occasional failed proxy 
+campaigns even when voting shareholders overwhelmingly support proposals.  
+ 
+On March 12, 2026, the U.S. Securities and Exchange Commission’s Investor Advisory Committee 
+(“Committee”) held a panel discussion with industry participants on fund proxy voting.1 The panel 
+represented a cross section of the industry including small and large fund complexes; a key 
+industry trade association; a leading investor protection association; and a prominent law firm.2  
+The discussion focused on the challenges associated with the fund proxy voting framework and 
+ecosystem, and explored potential pathways for modernization. Most panelists noted that reform is 
+necessary and all agreed investor protection is vital to any reforms.   
+ 
+Informed by the panel discussion, experiences of stakeholders, and relevant fund proxy literature, 
+the Committee recommends a phased modernization agenda that improves proxy “plumbing” in 
+the near term and pursues durable, investor-centered reforms through Securities and Exchange 
+Commission (“Commission”) staff action and rulemaking, where appropriate. 
+ 
+II. BACKGROUND AND PROBLEM STATEMENT 
+ 
+The open-end fund proxy process, governed primarily by the Investment Company Act of 1940 (the 
+“1940 Act”) and its rules, seeks to protect investors by requiring shareholder approval for major 
+governance and operational changes.3 While open-end funds are not required to hold annual 
+meetings, shareholder approval is required for certain matters, including approving advisory 
+contracts, electing fund directors, changing fundamental investment policies, and approving many 
+fund mergers. 
+ 
+ 
+1 Investor Advisory Committee, U.S. Securities and Exchange Commission Panel Discussion on Fund Proxy Voting (Mar. 
+12, 2026), https://www.sec.gov/about/advisory-committees/investor-advisory-committee/iac031226-agenda; U.S. 
+Securities and Exchange Commission Investor Advisory Committee—Panel Discussion on Fund Proxy Voting, YouTube 
+(Mar. 12, 2026),  https://www.youtube.com/watch?v=mMs7lhQBfwA. 
+2 Panel participants were: (i) Teresa Nilsen, Chief Operating Officer and Secretary, at Hennessey Advisors, Inc.; (ii) Adam 
+Henkel, Assistant General Counsel, U.S. Product Strategy & Governance, at Invesco; (iii) Paul Cellupica, General Counsel 
+at the Investment Company Institute; (iv) Corey Frayer, Director of Investor Protection, at Consumer Federation of 
+America; and (v) Robert Robertson, Partner at Dechert LLP . 
+3 See, for example, 1940 Act Sections 13(a), 15(a), and 16(a) (requiring shareholder approval for changes in certain 
+investment policies and practices, approval of advisory contracts, and election of directors).
+
+DRAFT TO BE DISCUSSED AT THE JUNE 4, 2026 MEETING OF THE SEC INVESTOR ADVISORY COMMITTEE,  
+CURRENT DRAFT AS OF MAY 19, 2026 
+2 
+ 
+The proxy framework was designed for a voting environment supported by mail, landline 
+telephones, and broker discretionary voting, which historically helped funds reach quorum; these 
+conditions have changed. Over the last several decades, household mutual fund ownership surged 
+from ~6% in 1980 to over 50% by the early 2000s and has remained near or above that level, 
+reaching roughly 54% in 2024.4  During the same period, proxy solicitation evolved from paper 
+mailings and phone calls to electronic delivery, notice and access models, and mobile and digital 
+voting platforms. 
+ 
+Despite these innovations, proxy campaigns have become longer and prohibitively expensive.   
+Investment Company Institute (“ICI”) analysis of fund proxy campaigns from 2012 to 2019 found 
+the cost of 145 proxy campaigns over the period totaled $373 million as funds struggled to engage 
+shareholders and obtain sufficient votes.5  Recent analysis6 estimates that the total costs for fund 
+proxy campaigns since 2020 have ranged from $675 million to $1.14 billion, with the single most 
+expensive campaign totaling $111 million. The analysis documented three campaigns in the last 20 
+years that individually exceeded $100 million in costs, underscoring the material cost borne by 
+shareholders and sponsors. 
+ 
+ Current proxy voting requirements include: 
+ 
+• Quorum – To act affirmatively on non-routine matters (e.g., approval of an advisory 
+agreement), a shareholder meeting typically requires the presence (in person or by proxy) of 
+more than 50% of the fund’s outstanding shares. For routine matters, each fund (or its trust) 
+must achieve quorum by having shares representing more than a certain percentage (e.g., 
+thirty-three and one-third percent (33 1/3%)) of the total combined net asset value of a 
+fund’s shares on the record date represented at the meeting, either by virtual attendance or 
+proxy. 
+• Voting Thresholds - Certain matters—including changes to fundamental investment 
+policies, investment advisory agreements, and mergers – require approval by a “majority of 
+outstanding voting securities, ” defined as either 67% of shares voted (i.e., votes cast) at a 
+meeting with more than 50% of shares present, or more than 50% of all outstanding 
+shares—whichever is less (a “1940 Act Majority”).7 Other matters—including director 
+elections—do not require a 1940 Act Majority approval although they still require 
+shareholder approval. 
+ 
+The changing landscape, including specific factors below as highlighted in the ICI Whitepaper8, 
+offers an opportunity to review whether current requirements enable and ensure shareholder 
+participation in achieving quorum and considering proposals. 
+ 
+• Funds’ large, diffuse, and retail-heavy shareholder bases; historically, retail shareholders’ 
+voting participation rates have been far lower than those of institutional investors. 
+ 
+4 Sarah Holden et al., Ownership of Mutual Funds and Shareholder Sentiment, 2024, ICI Research Perspective, Vol. 30, 
+No. 8, at 2 (Oct. 2024). 
+5 2019 ICI survey of 64 member firms representing 76% of US registered fund assets.  See Confronting the Growing Burden 
+of Fund Proxy Campaigns: Analysis of Recent Fund Campaigns and Policy Solutions March 2026 (the “ICI Whitepaper”) at 
+8. 
+6 See ICI Whitepaper at 1. 
+7 See 1940 Act Section 2(a)(42). 
+8 See ICI Whitepaper at 6-7.
+
+DRAFT TO BE DISCUSSED AT THE JUNE 4, 2026 MEETING OF THE SEC INVESTOR ADVISORY COMMITTEE,  
+CURRENT DRAFT AS OF MAY 19, 2026 
+3 
+ 
+• Funds’ high degree of intermediation (i.e., shareholders often own shares through broker-
+dealers, retirement plans, and other third parties), Commission rules that restrict funds’ 
+ability to contact directly their objecting beneficial owners, and the practicalities (e.g., fees 
+imposed for obtaining shareholder lists; lists can lack sufficient shareholder information) 
+that cause funds to communicate through intermediaries instead of directly can hinder the 
+ability to effectively engage with beneficial owners on matters requiring them to 
+affirmatively act. 
+• Federal restrictions under the Telephone Consumer Protection Act, which impede funds 
+from contacting shareholders through their cell phones without prior consent.  
+• The shift from landlines to cell phones, reducing the effectiveness of traditional solicitation 
+methods. 
+• Prevalence of telecommunications scams and phishing, chilling shareholder response, and  
+engagement rates.  
+ 
+These growing challenges have increased costs for funds and shareholders and led to frequent 
+meeting adjournments to obtain necessary votes. A 2025 ICI survey revealed that of the 73 
+responding funds that sought to become non-diversified between 2020-2025, over one-third 
+needed at least one adjournment.9  Survey results also demonstrated that no funds were 
+unsuccessful due to a lack of obtaining affirmative support from shareholders while 6 funds were 
+unsuccessful because they could not reach quorum.  Simply put, adjournments are costly and can 
+negatively impact the shareholder experience due to frequent communications (e.g., phone; mail; 
+e mail) to shareholders seeking their vote.  Given the changing landscape, the Committee believes 
+there is an opportunity to evaluate and update the current approach. 
+ 
+III. RECOMMENDATIONS  
+ 
+The Committee recommends that the Commission and its staff pursue a sequenced modernization 
+of the fund proxy system for open‑end funds and ETFs that (1) preserves investor protections and 
+meaningful oversight, (2) improves investor experience and participation, and (3) reduces avoidable 
+costs and failure risk driven by outdated mechanics.  The Committee urges the Commission and/or 
+its staff to begin to act now so that funds, their shareholders and the fund ecosystem, can realize 
+the numerous benefits of an improved proxy voting system. 
+ 
+a. Near-Term Action: The Committee recommends that the Commission and staff prioritize 
+near‑term steps that can reduce friction in the system while maintaining investor choice 
+and transparency. 
+ 
+Recommendation 1: Permit opt‑in retail voting programs, similar to the approach outlined 
+in the Exxon Mobil Corporation no action letter,10 to increase investor participation without 
+treating silence as consent. The Committee recommends Commission staff permit retail 
+voting programs that provide shareholders with a clear opt‑in mechanism for standing 
+voting instructions, with transparent disclosures and easy opt‑out, as a way to improve 
+participation while preserving investor autonomy. The retail voting programs could provide 
+ 
+9 See ICI Whitepaper at page 30. 
+10 Exxon Mobil Corporation, SEC Staff No-Action Letter (Sept. 15, 2025).
+
+DRAFT TO BE DISCUSSED AT THE JUNE 4, 2026 MEETING OF THE SEC INVESTOR ADVISORY COMMITTEE,  
+CURRENT DRAFT AS OF MAY 19, 2026 
+4 
+ 
+shareholders with the option to provide standing voting instructions for (1) all matters 
+except contested director elections, or (2) all matters except for the following:   
+ 
+• contested director elections; 
+• acquisitions, mergers, divestures;  
+• approvals of and amendments to investment advisory or sub-advisory contracts 
+that result in advisory fee increases; and  
+• adoption of or changes to Rule 12b-1 distribution plans that result in fee increases 
+(collectively, “non-routine matters”).    
+ 
+Given the critical role directors play in overseeing funds for the benefit of their 
+shareholders, the Committee believes that standing instructions should not apply to 
+contested director elections, which arise infrequently for open-end funds.   
+ 
+In furtherance of investor protection, the Committee believes retail voting programs should 
+allow shareholders to override their standing instructions by voting at the meeting.  To 
+facilitate this important protection, we recommend funds provide a reminder notice to 
+standing instruction shareholders that informs them that they may override their 
+instructions by voting via their proxy materials. Our recommendation allows retail investors 
+to direct their shares consistent with their desired level of involvement and management 
+support while benefiting from the ability to change their standing instruction if desired.   
+ 
+b. Medium-Term Action: The Committee recommends that the Commission and staff pursue 
+notice‑and‑comment rulemaking and other actions, to the extent required, to modernize 
+core mechanics and provide legal durability for reforms. 
+ 
+Recommendation 2A: Create an alternative approval pathway for items that currently 
+require quorum above 50% (e.g., approval of advisory contracts). The Committee 
+recommends exploring the pairing of a lower quorum requirement (e.g., 33⅓%) with a 
+higher affirmative vote threshold (e.g., 75%).  To utilize the lower quorum requirement, we 
+suggest unanimous approval of the proposed action by the fund’s board. The Committee 
+recommends that the Commission evaluate this approach through rulemaking, including 
+robust cost‑benefit analysis and investor protection guardrails. As an investor protection 
+guardrail, we urge the Commission to consider affording this relief only to funds that have 
+boards consisting of a supermajority (at least 75%) of independent directors (the 
+“supermajority independent director requirement”). 
+ 
+Recommendation 2B: Expand board approval authority with advance notice for select 
+actions (at least 60 days), paired with appropriate investor protections such as 
+supermajority independent board safeguards. This recommendation is an alternative to 
+shareholder approval for certain defined topics (e.g., changes from diversified to non-
+diversified status and certain fundamental policy changes) that the fund board has 
+approved and advance notice to shareholders will be provided. The Committee 
+recommends careful scoping of which items could shift solely to board action, with explicit 
+carve‑outs for matters where shareholder voting remains essential.
+
+DRAFT TO BE DISCUSSED AT THE JUNE 4, 2026 MEETING OF THE SEC INVESTOR ADVISORY COMMITTEE,  
+CURRENT DRAFT AS OF MAY 19, 2026 
+5 
+ 
+As an investor protection guardrail, we recommend the Commission limit any such relief to 
+funds that meet the supermajority independent director requirement. Tailoring the relief to 
+funds with a supermajority of independent directors ensures it would only be available 
+where a fund’s governance already meets a high standard of independence and 
+accountability. The Committee believes this guardrail is helpful in the absence of a majority 
+shareholder vote because it helps maintain investor confidence that any changes would 
+require approval by a substantial majority of independent directors acting in shareholders’ 
+best interests. Additionally, we recommend prohibiting funds, for a period of time, from 
+imposing any redemption fees or other similar charges on shareholders who want to 
+redeem fund shares after receiving notice of the policy change. 
+ 
+Recommendation 2C: Permit fund boards to appoint a greater number of new independent 
+directors.11 The recommendation allows boards to appoint more independent directors 
+without triggering costly proxy solicitations. The Committee recommends that the 
+Commission evaluate this approach as part of a broader effort to keep boards strong while 
+reducing barriers to bringing on directors identified by existing directors using their business 
+judgement. As an investor protection guardrail, we urge the Commission to consider 
+affording this relief only to funds that meet the supermajority independent director 
+requirement. The condition ensures that this flexibility is confined to funds where a 
+significant number of independent board members overwhelmingly determine board 
+decisions. 
+ 
+c. Long-Term Action:  
+ 
+Recommendation 3A: Improve shareholder communication pathways.  Many funds are 
+held through intermediaries and sometimes through multiple intermediaries.  The 
+intermediary structures offer benefits but create communication challenges for funds 
+holding a shareholder meeting as funds do not have a straight-forward, cost effective way to 
+reach their shareholders directly.  Funds are unable to contact “objecting beneficial 
+owners” directly and practical realities (e.g., fees imposed for obtaining shareholder lists; 
+lists can lack sufficient shareholder information) limit their ability to directly contact “non-
+objecting beneficial owners. ”  We recommend modifying rules to allow funds held through 
+intermediaries to communicate directly with their shareholders on proxy voting matters, 
+which could reduce costs and improve voter participation. 
+ 
+The Committee also recommends revisiting proxy processing fees charged by NYSE 
+member firms.  Currently, broker-dealers for funds held through intermediaries are 
+reimbursed by funds for delivering proxy materials.  If funds were able to deliver proxy 
+materials directly through their selected vendor, we believe competition would be 
+enhanced and funds could negotiate lower proxy processing rates, which would save overall 
+proxy costs. Taken together, these recommendations allow funds to select vendors and 
+communicate with shareholders more directly, which could reduce delays and costs, and 
+potentially enhance the shareholder experience. 
+ 
+ 
+11 Section 16(a) of the 1940 Act allows a board to appoint new members if, after the appointment, at least two-thirds of 
+directors have been elected by shareholders.
+
+DRAFT TO BE DISCUSSED AT THE JUNE 4, 2026 MEETING OF THE SEC INVESTOR ADVISORY COMMITTEE,  
+CURRENT DRAFT AS OF MAY 19, 2026 
+6 
+ 
+Recommendation 3B: Enable modern, investor-friendly communications and disclosures 
+for fund proxies. The Committee recommends allowing fund proxy statements to be 
+shortened and made more navigable through greater use of links and modern digital design, 
+consistent with the policy objective of improving engagement. 
+ 
+Recommendation 3C: The Committee recommends that the Commission and its staff 
+continue a longer-term review of whether the current shareholder governance model for 
+funds is optimally aligned with the fund context, given that investor protection is also 
+delivered through substantive restrictions and independent board oversight. This longer-
+term work should consider whether certain statutory or structural constraints are 
+contributing to repeated quorum failures and whether additional changes are warranted 
+after near- and medium-term reforms are pursued.  
+ 
+The Committee’s recommendations are anchored in investor outcomes and do not eliminate 
+meaningful investor protections. The current system imposes direct and indirect costs on 
+shareholders, including repeated outreach and solicitation expenses, as well as opportunity costs 
+when sponsors redirect resources away from technology improvements, service enhancements, or 
+other shareholder-benefiting initiatives to fund solicitation efforts. In addition, the system can deter 
+funds from pursuing transactions or changes that directly benefit shareholders due to cost, 
+uncertainty, and the risk of quorum failure. 
+ 
+The Committee recommendations also recognize the investor experience dimension. The current 
+structure can reduce trust and satisfaction because outreach methods are increasingly 
+experienced as intrusive or suspicious, particularly in a landscape shaped by scam avoidance 
+behaviors.

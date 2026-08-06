@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14623",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by The Options Clearing Corporation Concerning the Synthetic Futures Model",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/21/2026-14623/self-regulatory-organizations-the-options-clearing-corporation-notice-of-filing-and-immediate",
+  "reference_number": "2026-14623",
+  "published_date": "2026-07-21",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:208e9d2f9c7c2e923006ab55311cfcc7a1e9cf2edab11b7eba1bd68db5bb0000",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14623",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

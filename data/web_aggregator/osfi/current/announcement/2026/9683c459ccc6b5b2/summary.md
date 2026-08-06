@@ -1,0 +1,1 @@
+Summary: # 2024 Property and Casualty Minimum Capital Test and Branch Adequacy of Assets Test (PC4)

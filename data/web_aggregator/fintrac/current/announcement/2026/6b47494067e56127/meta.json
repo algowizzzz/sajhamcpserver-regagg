@@ -1,0 +1,24 @@
+{
+  "doc_id": "6b47494067e56127",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "FINTRAC imposes an administrative monetary penalty on Crystal Currency Exchange Inc.",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/pen/amps/pen-2025-05-29-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:efa308372e007409031b9f3c75662aaa21beadfd47e6b5a8e398b65bf03a821a",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/6b47494067e56127",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

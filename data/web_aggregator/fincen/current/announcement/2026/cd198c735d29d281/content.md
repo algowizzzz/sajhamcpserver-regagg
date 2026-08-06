@@ -1,0 +1,35 @@
+# SAR Filing Trips Up Card Thief
+
+[063.pdf](/system/files/case_example/063.pdf "063.pdf")
+(21.11 KB)
+
+A Pennsylvania man was sentenced to 15 months in prison followed by 3 years probation for structuring bank transactions to prevent the IRS from learning about profits earned from his role in sports card theft. The man owned a company involved in the sale of sports cards and was found to be stealing cards from a card manufacturer and selling them on the Internet. It is estimated that the subject sold between $350,000 and $500,000 in stolen cards. The scheme was uncovered when his bank filed a SAR after detecting apparent attempts by the subject to structure the cashing of third party checks to avoid reporting requirements. An IRS-CI investigation ensued, during which the theft scheme was uncovered. The subject pled guilty to tax and Title 31 charges.
+
+(Source: IRS/Criminal Investigation)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 3, October 2001]
+
+Tags
+
+Depository Institutions
+
+BSA Violations
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

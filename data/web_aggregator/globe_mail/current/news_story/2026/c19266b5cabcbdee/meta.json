@@ -1,0 +1,25 @@
+{
+  "doc_id": "c19266b5cabcbdee",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "Gran Tierra to sell South American assets to Maurel and Prom in $1.33-billion deal",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/business/article-gran-tierra-to-sell-south-american-assets-to-maurel-and-prom/",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0171dcbe630aa2155fd22f669c05e340b3b51d470c2dd821b11e38ee87344d02",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/c19266b5cabcbdee",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/business/article-gran-tierra-to-sell-south-american-assets-to-maurel-and-prom/",
+  "fetch_method": "feed_summary"
+}

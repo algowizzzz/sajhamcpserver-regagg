@@ -1,0 +1,24 @@
+{
+  "doc_id": "d9c7e586652a1626",
+  "regulator_id": "fsb",
+  "doc_type": "announcement",
+  "title": "Opening remarks on sound practices for artificial intelligence",
+  "language": "en",
+  "source_url": "https://www.fsb.org/2026/07/opening-remarks-on-sound-practices-for-artificial-intelligence/",
+  "reference_number": null,
+  "published_date": "2026-07-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:153c9eaf7dfb69faf8271332054fff617d46d3c6b734445c80b7d4a5bbbeafbf",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fsb_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fsb/current/announcement/2026/d9c7e586652a1626",
+  "tags": [
+    "international",
+    "financial_stability"
+  ]
+}

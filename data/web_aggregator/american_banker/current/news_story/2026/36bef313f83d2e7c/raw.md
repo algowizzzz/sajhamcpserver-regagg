@@ -1,0 +1,7 @@
+# Fed's Cook ready to hike rates 'if necessary'
+
+The Federal Reserve governor said inflation is too high but said she ultimately voted last week to hold interest rates steady to give recent economic trends more time to play out.
+
+[Read the full story at the source](https://www.americanbanker.com/news/feds-cook-ready-to-hike-rates-if-necessary)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

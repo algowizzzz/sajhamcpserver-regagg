@@ -1,0 +1,24 @@
+{
+  "doc_id": "a82a0056d595e030",
+  "regulator_id": "boc",
+  "doc_type": "announcement",
+  "title": "Release: Business Outlook Survey and Canadian Survey of Consumer Expectations",
+  "language": "en",
+  "source_url": "https://www.bankofcanada.ca/2026/10/release-business-outlook-survey-and-canadian-survey-of-consumer-expectations-october-19-2026/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:caae795357644ffa0dfe1ab407c9d4a4f1586a9989fabe4ff1f0c50843193ecd",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boc/current/announcement/2026/a82a0056d595e030",
+  "tags": [
+    "canada",
+    "central_bank"
+  ]
+}

@@ -1,0 +1,37 @@
+# Rapports sur la lutte contre le recyclage des produits de la criminalité et sur la lutte contre le financement des activités terroristes et sanctions
+
+Le gouvernement du Canada impose des sanctions à l’encontre de nombreuses organisations terroristes et criminelles et de leurs membres. Ces sanctions prévoient notamment le suivi des activités dans le secteur financier canadien qui pourraient être reliées aux personnes et aux organisations désignées.
+
+En savoir plus :
+
+* [Sanctions canadiennes](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/index.aspx?lang=fra)
+* [Entités terroristes inscrites](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/index-fr.aspx)
+* [Personnes inscrites](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/listed_persons-personnes_inscrites.aspx?lang=fra)
+
+## Sur cette page
+
+## Rôle du BSIF dans l’application des sanctions
+
+Les institutions financières fédérales doivent déclarer chaque mois au BSIF toute activité liée aux noms inscrits sur la liste de ces règlements :
+
+* *[Règlement relatif à la justice pour les victimes de dirigeants étrangers corrompus](https://laws-lois.justice.gc.ca/fra/reglements/DORS-2017-233/page-2.html)*
+* *[Règlement établissant une liste d’entités](https://laws-lois.justice.gc.ca/fra/reglements/DORS-2002-284/TexteComplet.html)*
+
+### Instructions de déclaration
+
+Pour se conformer à leurs obligations juridiques, les institutions financières fédérales doivent remplir chaque mois les formulaires BSIF 525 et BSIF 590 dans le Système de déclaration réglementaire.
+
+* [Guide sur le formulaire BSIF 525](/fr/donnees-formulaires/rapports-releves/rapports-sur-lutte-contre-recyclage-produits-criminalite-sur-lutte-contre-financement-activites/guide-sur-formulaire-bsif-525 "Guide sur le formulaire BSIF-525")
+* [Guide sur le formulaire BSIF 590](/fr/donnees-formulaires/rapports-releves/rapports-sur-lutte-contre-recyclage-produits-criminalite-sur-lutte-contre-financement-activites/directives-rapport-bsif-590 "Directives - Rapport BSIF-590")
+
+En savoir plus sur [la production d’un relevé](/fr/donnees-formulaires/rapports-releves/produire-releve "Produire un relevé").
+
+## Liens utiles
+
+* [Collaboration entre le BSIF et le CANAFE](/fr/propos-du-bsif/centre-connaissances-du-bsif/collaboration-entre-bsif-canafe "Collaboration entre le BSIF et CANAFE")
+* [Stratégie du Régime canadien de lutte contre le recyclage des produits de la criminalité et le financement des activités terroristes 2023-2026](https://www.canada.ca/fr/ministere-finances/programmes/politique-secteur-financier/strategie-regime-canadien-lutte-contre-recyclage-produits-criminalite-et-financement-activites-terroristes-2023-2026.html)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-09-12

@@ -1,0 +1,24 @@
+{
+  "doc_id": "251e8d30dfd9a67e",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "SARs Lead to Recovery of Funds Derived from Medical Fraud | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/sars-lead-recovery-funds-derived-medical-fraud",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:20c4084c194db612569bbcdccd857504d50889c9d1d9f22c628c4cc5a284237b",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/251e8d30dfd9a67e",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

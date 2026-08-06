@@ -1,0 +1,25 @@
+{
+  "doc_id": "eec82b9b110e8167",
+  "regulator_id": "economist_finance",
+  "doc_type": "news_story",
+  "title": "How China gets better bang for its buck than America in AI",
+  "language": "en",
+  "source_url": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
+  "reference_number": null,
+  "published_date": "2026-08-03",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:790c773b8334298b766cf75f134f732395b1b953eae322b4ee6e9691dbccc48f",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_economist_finance_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economist_finance/current/news_story/2026/eec82b9b110e8167",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
+  "fetch_method": "feed_summary"
+}

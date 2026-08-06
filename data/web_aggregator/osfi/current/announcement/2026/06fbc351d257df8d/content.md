@@ -1,0 +1,905 @@
+# Property and casualty insurance return – Section VI – Change Control Log
+
+Information
+
+Type of document
+
+Change control log
+
+Industry
+
+Insurance companies
+
+Return
+
+Property and casualty insurance return
+
+Last updated
+
+October 2025
+
+Accompanying documents
+
+* [2025 Annual Update to the Manual of Financial Reporting Forms and Instructions for Property and Casualty Insurance Companies](/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-property-casualty-insurance)
+* [Property and casualty insurance return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/property-casualty-pc-insurance-return)
+
+## 2025 Updates
+
+The following changes have been made during the course of the 2025 year:
+
+### Instructions
+
+No changes made.
+
+### 2025 “Q4” Annual and Quarterly Returns
+
+| Page | Changes |
+| --- | --- |
+| 85.40 | **Deleted.** |
+
+### 2026 “Q1” Quarterly Returns
+
+No changes made.
+
+## 2024 Updates
+
+The following changes have been made during the course of the 2024 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section I | * External Auditor Reports – **Added/Updated** * Foreign P&C Insurance Companies – **Updated** |
+| Section II | External Auditor Reports – **Deleted** |
+| Section IV | * Reference to “Annual Supplement” to “Annual Return” – **Updated** * Page 10.10 – **Updated** * Page 10.41 – **Updated** * Page 20.16, line 530 – **Added** * Page 20.18, line 330 – **Added** * Page 20.22, lines 220 and 250 – **Updated** * Page 20.42, lines 80, 82, 90 and 92 – **Updated** * Page 20.54, lines 60 and 62 – **Deleted** * Page 40.08, column 25 – **Deleted** * Page 40.72 – **Added/Updated** * Page 40.74 – **Updated** * Page 40.80 – **Updated** * Page 40.88 – Page title and column 05 – **Updated** * Page 60.25, column 04 – **Updated** * Page 60.25, column 25 – **Deleted** * Page 60.36/93.36 - **Deleted** * Page 60.45, general instructions and line 310 – **Updated** * Page 60.80 – **Updated** * Page 80.15 – **Updated** * Page 99.15 – **Updated** |
+| Section V | * Ontario contact information – **Updated** * “Filing Requirements” for all jurisdictions – **Updated** * Federal section – **Updated** |
+
+### 2024 “Q4” Annual and Quarterly Returns
+
+| Page | Changes |
+| --- | --- |
+| All | Column heading “Prior Period Restated” to “Prior Period” – **Updated** |
+| 10.10 | Page title – **Updated** |
+| 10.41 | Lines 96 to 99 – **Added** |
+| 20.22 | * Line 220 – Wording **Updated** * Line 300 – Reference page **Updated** |
+| 20.32, 20.38 | Line 220 – Wording **Updated** |
+| 20.41 | * Lines 010 and 110 – Wording **Updated** * Lines 020 and 120 – **Deleted** |
+| 20.45 | * Lines 01 and 02 – Wording **Updated** * Line 09 – **Deleted** |
+| 20.54, 92.54 | * Lines 01, 09 and 19 – Wording **Updated** * Lines 05, 60 and 62 – **Deleted** |
+| 40.08 | * Line 115 – **Added** * Column 25 – **Deleted** |
+| 40.72 | * Page title – **Updated** * Lines 010 and 199 – **Added** * Sub-title above line 060 – **Updated** * Line 099 – Reference page **Deleted** |
+| 40.74 | * Page title – **Updated** * Lines 060 and 160 – **Added** * Line 499 – Wording **Updated** |
+| 40.88 | * Page title – **Updated** * Columns 05 and 59 – Wording **Updated** |
+| 50.40 | Reference ($’000) – **Deleted** |
+| 60.25, 93.14 | Column 04 – Wording **Updated** |
+| 60.80 | Page title – **Updated** |
+| 60.36, 93.36 | Page – **Deleted** |
+| 80.15 | Line 099 – **Deleted** |
+| 92.22 | Line 220 – Wording **Updated** |
+| 95.10 | * Column headings – Wording **Updated** * Column 14 – **Added** |
+| 99.10, 99.11 | Page title – **Updated** |
+| 99.15 | Page title and second paragraph – **Updated** |
+
+### 2025 “Q1” Quarterly Returns
+
+No changes made.
+
+## 2023 Updates
+
+The following changes have been made during the course of the 2023 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section IV | Instructions related to Prior periods for quarterly reports – **Updated** |
+| Section V | * Regulators – **Updated** * Alberta, British Columbia and Northwest Territories – **Updated** * Federal (Filing Requirements) – **Updated** |
+
+### 2023 “Q4” Annual and Quarterly Returns
+
+No changes made.
+
+### 2024 “Q1” Quarterly Returns
+
+No changes made.
+
+## 2022 Updates
+
+### 2023 Quarterly and Annual Returns and Instructions
+
+With the implementation of IFRS 17, the existing P&C Quarterly (1Q) and Annual Supplement (1A) returns have been decommissioned.  New Quarterly and Annual Returns (P&C Core Financial Statement Return (PC1), P&C Supervisory Quarterly Return (PC2), P&C Supervisory Annual Return (PC3) and P&C Provincial Return (PCPROV)) have been created effective Q1 2023.
+
+The capital related return pages have also officially been removed from the P&C return. A new Minimum Capital Test (MCT) (PC4) return and instructions have been created and posted to OSFI’s external website.
+
+All readers are encouraged to fully review the 2022 updated instructions, and the 2023 edition of the Quarterly and Annual Return filings.
+
+## 2021 Updates
+
+The following changes have been made during the course of the 2021 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section I | General email address – **Updated** |
+| Section V | * Saskatchewan contact information – **Updated** * Federal contact information – **Updated** * Saskatchewan – **Updated** |
+| Section VI | * Page 10.60, line 33 – **Updated** * Pages 99.11 and 99.15 – **Updated** |
+
+### 2021 “Q4” Quarterly Return
+
+No changes made.
+
+### 2021 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 99.11 | Foreign Affidavit – Wording **Updated** |
+
+### 2022 “Q1” Quarterly Return
+
+No changes made.
+
+## 2020 Updates
+
+The following changes have been made during the course of the 2020 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section V | * All references to AAR-DCAT – **Updated** to AAR-FCT * BC contact information – **Updated** * Quebec – **Updated** * British Columbia – **Updated** |
+| Section VI | * Pages 70.50, 70.60 and 70.61, column 01 – **Updated** * Page 99.16 – **Updated** |
+
+### 2020 "Q4" Quarterly Return
+
+No changes made.
+
+### 2020 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 99.20 | Quebec Affidavit – Wording **Updated** |
+
+### 2021 "Q1" Quarterly Return
+
+No changes made.
+
+## 2019 Updates
+
+The following changes have been made during the course of the 2019 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section V | * NB contact information – **Updated** * Yukon – **Updated** * Federal – **Updated** |
+| Section VI | * Page 10.60, lines 40 and 44 – **Deleted** * Page 10.60, line 43 – **Added** * Page 20.31 – **Updated** * Page 20.37 – **Added** * Instructions related to mortgage insurers under pages 30.61 to 30.92 – **Deleted** * Pages 70.62 and 70.63 – **Added** |
+
+### 2019 "Q4" Quarterly Return
+
+No changes made.
+
+### 2019 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 10.41 | ($'000) – **Added** to page heading |
+| 10.60 | * Lines 40 and 44 – **Deleted** * Lines 42 and 43 – **Added** * Line 19, column 55 – **Added** |
+| 20.37 | **New** (BC Incorporated Insurers only) |
+| 60.40/60.41/93.60/93.61 | * Lines 10, 20, 30, 40 and 50 – Year reference **Deleted** * Lines 05, 15, 25, 35 and 45 – Year reference **Added** |
+
+### 2020 "Q1" Quarterly Return
+
+| Page | Changes |
+| --- | --- |
+| 70.60/70.61 | Column 40 – Wording **Updated** |
+| 70.62/70.63 | **New** |
+
+## 2018 Updates
+
+The following changes have been made during the course of the 2018 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section III | * Net Retention definition – **Deleted** * Policy Limit definition – **Deleted** |
+| Section V | All jurisdictions – **Updated** |
+| Section VI | * Page 10.41, lines 03-70 – **Updated** * Page 10.60, line 40 – **Updated** * Page 20.31 – **Added** |
+
+### 2018 "Q4" Quarterly Return
+
+No changes made.
+
+### 2018 Annual Supplement
+
+No additional changes introduced. See 2017 Updates for further details.
+
+### 2019 "Q1" Quarterly Return
+
+| Page | Changes |
+| --- | --- |
+| 20.31 | **New** (BC Incorporated Insurers only) |
+| 30.92 | Line 71 – **New** |
+| 30.71 | * Lines 08, 42, 45 and 56 – Risk Factor – **Updated** * Line 09 – **New** * Lines 42, 45 and 46 – Columns 03 and 04 – **Unshaded** |
+| 30.81 | * Lines 45 and 46 – Risk Factor – **Updated** * Lines 45 and 46 – Columns 03 and 04 – **Unshaded** |
+| 70.60 | Columns 42 and 44 – **Updated** |
+
+## 2017 Updates
+
+The following changes have been made during the course of the 2017 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section VI | * Page 10.43 – **Updated** * Page 20.10, column 2 – **Added** * Page 30.61, lines 03, 13 and 63 – **Deleted** * Page 40.07, columns 01 and 03 – **Updated** |
+
+### 2018 "Q1" Quarterly Return
+
+| Page | Changes |
+| --- | --- |
+| 20.10 | Line 45, columns 02, 04 and 06 – **Unshaded** |
+| 20.42 | * Lines 04, 44 – Wording **Change** * Lines 25, 65 – **Added** |
+| 20.54 | Column 07 – Wording **Change** |
+| 30.61 | Lines 03, 13 and 62 – **Deleted** |
+| 30.65 | **New** |
+| 40.07 | Columns 01 and 03 – Wording **Change** |
+| 60.21 | Lines 94 and 96 – Wording **Change** |
+| 92.42 | * Lines 04, 44 – Wording **Change** * Lines 25, 65 – **Added** |
+| 92.54 | Column 07 – Wording **Change** |
+| 93.11 | Lines 94 and 96 – Wording **Change** |
+
+### 2018 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 10.43 | Page heading – **Updated** |
+| 40.12 | Columns 10 and 12 – Wording **Change** |
+| 40.22 | Columns 10 and 12 – Wording **Change** |
+| 40.42 | Columns 10 and 12 – Wording **Change** |
+| 40.52 | Columns 10 and 12 – Wording **Change** |
+
+## 2016 Updates
+
+The following changes have been made during the course of the 2016 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section III | Definition for "Associate" – **Updated** |
+| Section V | * Regulators – **Updated** * Alberta – **Updated** * Federal – **Updated** |
+| Section VI | * Page 10.40, line 40 – **Deleted** * Page 10.41 – **Additions/Deletions** * Page 10.42 – **Additions/Deletions** * Page 10.43 – **New** * Page 20.10, line 45 – **New** * Page 20.30, line 47 – **New** * Page 40.07 – **Addition/Deletion** * Page 40.07, column 13 – **New** * Page 40.07, lines 32 and 34 – **New** * Page 50.32, Section VI – **New** * Pages 60.40/60.41 – **Addition** * Page 70.21 – **Addition/Deletion** * Page 70.40 – **Deleted** * Page 90.70 – **Deleted** |
+
+### 2016 "Q4" Quarterly Return
+
+| Page | Changes |
+| --- | --- |
+| 20.10/92.10 | Line 45 – **Added** |
+| 20.30/92.30 | Lines 35 and 47 – **Added** |
+| 20.42/92.42 | Lines 14 and 52 – **Added** |
+| 30.62 | Line 37 – Wording **Change** |
+| 30.92 | Line 70 – **Added** |
+| 30.66, 30.79 | Line 12 – Wording **Change** |
+| 40.07 | * Lines 32 and 34 – **Added** * Column 13 – **Added** * Column 16 – Wording **Change** |
+| 40.80 | Footnote – Wording **Change** |
+| 50.32 | * Sections VI, VII – Wording **Change** * Line 52 – Wording **Change** |
+| 60.30/93.20 | * Column 11 – **Added** * Column 19 – Wording **Change** |
+| 93.30/93.40/93.50/85.40/85.60 | Line 63, column 05 – Shading **Added** |
+
+### 2016 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 10.40 | * Line 07 – Wording **Change** * Lines 40 to 49 – **Deleted** from this page |
+| 10.41 | * Lines 13 and 17, column 05 – **Unshaded** * Liability and surety sub-classes of insurance – **Added** * Questions 75 to 87 – **Deleted** from this page * Lines 88 and 89 – **Added** * Line 85 – **Reinstated** |
+| 10.42 | * Page renamed to Encumbered Assets * Question 01 – **Deleted** * New Counterparty table – **Added** * Line 50 – **Deleted** * Lines 30, 34 and 35 – **Deleted** from this page |
+| 10.43 | Outsourcing and Service Agreements – **New** |
+| 40.12 | * Page title – Wording **Change** * Lines 09, 19 and 29 – **Deleted** |
+| 50.30 | **Deleted** |
+| 60.10 | Liability and surety sub-classes of insurance – **Added** |
+| 60.40/60.41/93.60/93.61 | Lines 05, 15, 25, 35 and 45 – **Added** |
+| 70.21 | * Columns 20, 21, 22 and 23 – **Added** * Lines 49 and 69 – **Deleted** * Lines 89 and 91 – Wording **Change** |
+| 70.40 | **Deleted** |
+| 70.90 | Reinsurance Interrogatories – **New** |
+| 90.70 | **Deleted** |
+
+## 2015 Updates
+
+The following changes have been made during the course of the 2015 year:
+
+### Instructions
+
+Significant changes include:
+
+* Rework of MCT/BAAT instructions (as per MCT Guideline changes)
+
+Other changes include:
+
+| Section | Changes |
+| --- | --- |
+| Section II | Quarterly Return Filing Specifications – Wording **Change** |
+| Section V | Quebec – **Updated** |
+| Section VI | * Page 20.10, lines 04 and 05 – Wording **Change** * Page 20.20, lines 20 and 34 – **Added** * Page 40.07 – Wording **Changes/Additions** * Page 40.12 – Wording **Change** * Page 50.30 – **Deleted** * Page 50.32 – Old instructions **Deleted** * Page 50.32, columns 23 to 31 – Wording **Change** * Page 70.38 and 70.39 – **Deleted** * Pages 85.40, 85.45, 85.60 and 85.65 – Wording **Change** |
+
+### 2015 "Q4" Quarterly Return
+
+No changes made.
+
+### 2015 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 85.45, 85.65 and 93.35 | Liability and surety sub-classes of insurance – **Added** |
+
+## 2014 Updates
+
+The following changes have been made during the course of the 2014 year:
+
+### Instructions
+
+Significant changes include:
+
+* The P&C-1 and P&C-2 instructions have been amalgamated into a standard set of instructions called the P&C Insurance Return Instructions.
+* Multiple changes/additions relating to the 2015 Return changes.
+
+All readers are encouraged to completely review the 2015 edition.
+
+### 2014 Annual
+
+Significant changes include:
+
+* Combining of the P&C-1 and P&C-2 Returns.
+* 1 "true" Quarterly Return to be filed at all 4 quarters and 1 Annual Supplement Return to be filed with the Q4 filing.
+
+Other changes include:
+
+| Page | Changes |
+| --- | --- |
+| 10.20 | * Shares table has been deleted * New question added under Shareholders |
+| 10.40 | * New question added * Questions 20 and 35 have been deleted |
+| 10.41 | * One new line added * Line 85 has been deleted |
+| 20.20/92.20 | Two new lines have been added |
+| 20.40 | Page deleted; Reserves table now located on page 20.45 for Canadian insurers |
+| 50.32 | New page for Canadian insurers only (previously known as page 50.40) |
+| 60.10 | Becomes Quebec and Alberta only page |
+| 60.50 | Page deleted |
+| 67.10/93.30 | Line 01, column 18 has been unshaded |
+| 92.40 | Statement of Retained Earnings table has been deleted |
+| 92.54 | New non-consolidated page |
+| 99.16 | New Affidavit Verifying Quarterly Return page |
+| 99.20 | New Quebec Affidavit Verifying Annual Supplement Return page |
+
+### 2015 Quarterly/Annual Supplement
+
+Significant changes to the 2015 Returns include:
+
+* Rework of Reinsurance pages; new pages 70.50, 70.60, 70.61 and 70.90 added; pages 70.40, 70.38, 70.39 and 90.70 deleted; 70.21 updated.
+* Addition of liability and surety sub-classes of insurance to pages 10.41, 60.10 to 60.30, 67.10 to 67.31, 93.10 to 93.50 and 85.40 to 85.65.
+* Rework of MCT/BAAT pages (as per MCT Guideline changes); significant changes to pages 30.70, 30.71, 30.73, 30.80, 30.81 and 30.92; new pages 30.62, 30.64, 30.66, 30.75, 30.77 and 30.79 added.
+
+Other changes include:
+
+| Page | Changes |
+| --- | --- |
+| 10.40 | Lines 40 to 49 have been deleted |
+| 10.41 | * Questions 75 to 87 have been deleted from this page * One new question added |
+| 10.42 | * Page name change to Encumbered Assets * Questions 01 and 30 has been deleted * New Counterparty table added * Line 50 has been deleted |
+| 10.43 | New Outsourcing and Service Agreements page |
+| 50.30 | Page deleted |
+| 50.32 | Page relabeled to Intra-Group Transactions; multiple sections added |
+
+## 2013 Updates
+
+The following changes have been made during the course of the 2013 year:
+
+### Instructions
+
+A comprehensive review of the instructions was performed in 2013. Significant changes have been made to the P&C Insurance Return instructions.
+
+All readers are encouraged to completely review the 2013 edition.
+
+### 2013 Annual Return
+
+| Page | Changes |
+| --- | --- |
+| 10.10 | Lines 10, 67, 77 and 78 – **Added** |
+| 10.16/10.17/10.30/10.40/10.41/10.42/20.52/20.60/20.70/20.80 | **Multiple wording changes** |
+| 20.10/92.10 | Line 58 – **Added** |
+| 20.20/92.20 | Lines 22, 23, 24, 25 and 26 – **Added** |
+| 20.42/92.42 | **Multiple changes/additions** |
+| 20.54 | * Lines 15, 13, 35 and 33 – **Wording change** * Column 27 – **Added** |
+| 30.70 | * Line 42 – **Added** * Line 44 – **Wording change** * Line 18 – **Deleted** |
+| 30.71 | Lines 06, 07, 34 and 86 – **Wording change** |
+| 30.73 | * **Multiple wording changes** * Line 18 – **Added** |
+| 40.07 | * Line 01 – **Wording change** * Line 06 – **Added** |
+| 40.70 | **Multiple wording changes** |
+| 50.50 | Page - **Deleted** |
+| 70.40 | * Page title – **Changed** * Lines 91 and 95 – **Added** |
+| 80.20 | Line 56 – **Added** |
+
+### 2014 Interim Return
+
+| Page | Changes |
+| --- | --- |
+| 10.15/10.17 | Pages – **Added** |
+| 20.10/92.10 | Line 58 – **Added** |
+| 20.20/92.20 | Lines 22, 23, 24, 25 and 26 – **Added** |
+| 20.42/92.42 | Lines 11 and 51 – **Relocated** |
+| 20.54 | Lines 15, 13, 35 and 33 – **Wording change** |
+| 30.70 | Line 44 – **Wording change** |
+| 30.71 | Lines 34 and 86 – **Wording change** |
+| 30.73 | Line 18 – **Added** |
+| 40.07 | * Line 01 – **Wording change** * Line 06 – **Added** |
+
+## 2012 Updates
+
+The following changes have been made during the course of the 2012 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section I | Multiple **deletions** |
+| Section II | How to embed files – **Added** |
+| Section III | * Definition for “Control” – **Updated** * Definition for “Subsidiary” – **Updated** |
+| Section IV | Letters of Credit – **Revision** |
+| Section V | Complete **revision** |
+| Section VI | * Page 10.17 – **Added** * Page 10.40 – **Additions** * Page 10.41 – **Multiple additions/changes** * Page 10.42 – **Deletion/multiple additions** * Page 10.60 – **Additions/changes** * Page 20.10 – **Multiple additions/changes** * Page 20.52 – **Addition** * Page 20.54 – **Addition/multiple deletions** * Page 20.60 – **Additions/changes** * Page 20.70 – **Added** * Page 20.80 – **Added** * Page 30.70 – **Multiple additions/changes** * Page 30.71 – **Multiple additions/changes** * Page 30.73 – **Added** * Page 40.07 – **Deletion, multiple additions, change** * Pages 40.12 to 40.52 – **Addition** * Page 40.22 – **Additions/changes** * Page 40.32 – **Addition** * Page 40.70 – **Deletion** * Page 40.80 – **Changes/addition** * Page 50.40 – **Change** * Page 50.50 – **Deletion** * Pages 60.10 to 60.30 – **Additions** * Page 60.20 – **Additions** * Page 60.30 – **Additions** * Pages 60.40/60.41 – **Addition** * Page 60.50 – **Multiple deletions/additions** * Pages 67.10 to 67.30 – **Additions** * Page 70.21 – **Addition** * Page 70.38 – **Multiple additions** * Page 80.20 – **Addition/deletion** * Page 93.30 – **Deletion** * Page 93.40 – **Deletion** * Page 93.50 – **Deletion** |
+| Section IX | * Appendix C – **Additions** * Appendix D – **Addition/deletion** * Appendix E – **Addition/multiple deletions** * Appendix F – **Deletions/change** |
+
+### 2012 Annual Return
+
+| Page | Changes |
+| --- | --- |
+| 10.16 | Annual Corporate Information (Quebec) page – **Added** |
+| 10.17 | Annual Corporate Information (all provinces) page – **Added** |
+| 10.41, 10.42 | **Multiple changes/additions** |
+| 10.60 | Line 74 – **Added** |
+| 20.10 | * Lines 10 and 52 – Wording **change**; * Line 26 – **Deleted** |
+| 20.20 | * Line 08 – **Deleted**; Line 18 – Wording **change** * Line 59 – **Added** |
+| 20.30, 92.30 | Line 60 – **Deleted** |
+| 20.42 | Lines 31 and 71 – **Added** |
+| 20.54 | * **Multiple changes/additions** * Lines 03 and 23 – **Deleted** |
+| 20.70 | Auditor Reports page – **Added** |
+| 20.80 | Appointed Actuary's Report page – **Added** |
+| 30.70, 30.71 | **Multiple changes/deletions/additions** |
+| 30.73 | Capital page – **Added** |
+| 40.07 | * Lines 02 and 30 – Wording **change** * Line 07 – **Deleted** |
+| 40.12, 40.22 | Multiple **changes**; Line 35 – **Added** |
+| 40.32 | Multiple **changes** |
+| 40.42 | Line 79 – Wording **change** |
+| 40.70 | Column 04 – Wording **change** |
+| 40.80 | Page title – **Change** |
+| 50.40 | Multiple datapoints – **Deleted** |
+| 50.50 | Lines 08 and 09 – **Deleted** |
+| 60.10, 60.21, 60.30, 67.10, 67.20, 67.30, 67.31, 93.11, 93.20, 93.30, 93.35, 93.40, 93.50 | * Lines 03 and 32 – Wording **change** * Lines 04, 05 and 33 – **Added** |
+| 60.20, 93.10 | **Multiple changes/additions** |
+| 60.50 | **Multiple changes/deletions** |
+| 70.21 | Line 49 – Wording **change** |
+| 80.20 | Column 06 – Wording **change** |
+| 90.70 | Line 49 – Wording **change** |
+| 92.10 | * Lines 10 and 52 – Wording **change** * Line 26 – **Deleted** * Lines 54 and 56 – **Added** |
+| 92.20 | * Line 08 – **Deleted** * Line 18 – Wording **change** |
+| 92.42 | Lines 11, 31, 51 and 71 – **Added** |
+| 93.30, 93.40, 93.50 | New OSFI pages |
+
+### 2013 Interim Return
+
+| Page | Changes |
+| --- | --- |
+| 20.10 | Line 10 – Wording **change** |
+| 20.20 | Line 59 – **Added** |
+| 20.42, 92.42 | **Multiple changes/additions** |
+| 20.54 | * **Multiple changes/additions** * Lines 03 and 23 – **Deleted** |
+| 30.70 | * Lines 42 and 44 – **Added** * Line 18 – **Deleted** |
+| 30.71 | Lines 06 and 07 – Wording **change** |
+| 30.73 | **Multiple changes** |
+| 40.07 | * Lines 02 and 30 – Wording **change** * Line 07 – **Deleted** |
+| 40.80 | Page title – **Change** |
+| 50.40 | Multiple datapoints – **Deleted** |
+| 60.20, 93.10 | **Multiple changes/additions** |
+| 60.21, 60.30, 67.10, 67.20, 67.30, 67.31, 93.11, 93.20, 93.30, 93.40, 93.50 | * Lines 03 and 32 – Wording **change** * Lines 04, 05 and 33 – **Added** |
+| 92.10 | * Line 10 – Wording **change** * Lines 54 and 56 – **Added** |
+| 93.30, 93.40, 93.50 | New OSFI pages |
+
+## 2011 Updates
+
+The following changes have been made during the course of the 2011 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section I | * Accounting Principles – **Updated** * Annual and Interim Returns – **Updated** |
+| Section II | * General – **Updated** * Filing Requirements – **Updated** (table deleted and moved to Section V) * Mailing Addresses/Electronic Filing – **Updated** * Interim Returns – **Updated** |
+| Section III | * Derivative Instruments/Expected Claims Ratio – **Deleted** * IFRS/In Arrears (Receivables) – **Updated** * Registered and Unregistered Insurer – **Updated** * Selected Claims Ratio – **Deleted** * Substantial Investment – **Updated** |
+| Section IV | * Facility, FA, FARSP and PRR – **Updated** * Refer to Section V – **Updated** |
+| Section V | * General Instructions – **Updated** * N.B., Quebec, Saskatchewan, Alberta, B.C., Yukon – **Updated** * Mailing Addresses – **Added** * Filing Requirements for Each Province – **Added** |
+| Section VI | Readers are encouraged to completely review the 2011 updates for this section – **Updated** |
+| Section VII | **Updated** |
+
+### 2011 Annual Return
+
+Significant changes were made to the Annual Return in accordance with the new International Financial Reporting Standard (IFRS).
+
+The following pages have been added: 40.07, 40.12, 40.22, 40.32, 40.42, 40.52, 92.10, 92.20, 92.30, 92.40, 92.40, 92.42, 93.10, 93.11, 93.20, 93.30, 92.35, 93.40, 93.50, 93.60, 93.61.
+
+The following pages have been deleted: 19.10, 40.10, 40.20, 40.30, 40.35, 40.40, 40.45, 40.49, 40.50, 40.60, 40.70.
+
+### 2012 Interim Return
+
+Additional changes were made to the Interim Return in accordance with the new International Financial Reporting Standard (IFRS), as well as changes to the minimum capital test (MCT) pages in accordance with the new 2012 MCT Guideline.
+
+The following pages have been added: 30.73, 50.40, 60.30, 93.10 and 93.11.
+
+Page 19.10 has been deleted.
+
+## 2010 Updates
+
+The following changes have been made during the course of the 2010 year:
+
+### 2010 Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section I | Foreign Branches (P&C-2) – **Updated** |
+| Section III | * Definition of Registered and Unregistered Insurer – **Updated** * Definition for Unregistered Reinsurer – **Added** |
+| Section IV | Letters of Credit – **Updated** |
+| Section V | * Quebec – **Updated** * Federal – **Updated** |
+| Section VI | * Transition instructions for page 20.42 – **Deleted** * Reference under page 40.07, column 03 – **Updated** * Instructions for page 40.07, lines 60 and 61 – **Updated** * Reference under page 40.10, column 12 – **Updated** * Instructions for page 40.80 – **Updated** * Instructions for page 60.10, line 80 – **Added** * Instructions for page 60.30, line 80 – **Added** * Instructions for pages 60.40 and 60.41 – **Updated** * Instructions for page 60.50 – **Updated** * Instructions for page 70.38, column 12 – **Updated** * Instructions for page 70.38, column 16 – **Updated** * Instructions for pages 90.21, 90.22, 90.23, 90.62, 90.64 and 90.66 – **Deleted** * Instructions for page 90.70 – **Updated** |
+| Section IX | Appendix I – Interim Return Instructions – **Updated** |
+
+### 2010 Annual Return
+
+| Page | Changes |
+| --- | --- |
+| 19.10 | Line 32 "Other - Classified as Broker Loans" – **Added** |
+| 60.10, 60.30 | Line 80 "Out of Canada Liabilities" – **Added** |
+| 90.15 | General Instructions – **Updated** |
+| 90.21, 90.22, 90.23, 90.62, 90.64, 90.66 | **Deleted** |
+
+### 2011 IFRS Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section I | * Accounting Principles – **Added** * Consolidated Financial Statements – **Added** * Generally Accepted Accounting Principles (GAAP)– **Deleted** |
+| Section II | General Filing Requirements – **Updated** |
+| Section III | Definitions – **Updated** |
+| Section IV | * Self-Insured Retention – **Updated** * Structured Settlements – **Updated** |
+| Section V | Federal (Letters of Credit) – **Updated** |
+| Section VI | Section VI (significant changes were made throughout the entire section) – **Updated** |
+| Section IX | * Appendix I – Interim Return Instructions – **Updated** * Appendix K – MCT – Capital Required for Structured Settlements, Letters of Credit, Derivatives and Other Exposures – **Updated** |
+
+### 2011 Interim Return
+
+Significant changes were made to the Interim Return in accordance with the new International Financial Reporting Standard (IFRS).
+
+The following new "non-consolidated" pages have been added to the Interim Return: 92.10, 92.20, 92.30, 92.40, 92.42, 93.20, 93.30, 93.40, 93.50.
+
+New automobile breakdown has been added to pages 60.20, 60.21, 67.10, 67.20, 67.30 and 67.31 as well as new pages 93.30, 93.40, 93.50.
+
+Pages 30.70, 30.71 and 70.38 have been modified in accordance with new letters of credit guideline.
+
+## 2009 Updates
+
+The following changes have been made during the course of the 2009 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section II | Filing Requirements – **Updated** |
+| Section V | * Nova Scotia – **Updated** * Manitoba – **Updated** * Saskatchewan – **Updated** * Alberta – **Updated** * Yukon – **Updated** * Federal – **Updated** |
+| Section VI | * Instructions for page 20.52 – **Added** * Wording "80% of the market value" to "80% of the loan to value ratio" under lines 03 and 04 for page 40.07 – **Changed** * Instructions for page 60.20 – **Added** |
+| Section IX | * Appendix A – **Updated** * Appendix I – Interim Return instructions – **Updated** |
+
+### 2009 Annual Return
+
+| Page | Changes |
+| --- | --- |
+| 10.41 | Question #77 – **Deleted** |
+| 19.10 | Details of Assets page – **Added** |
+| 20.10, 20.30 | Reference to page 40.07 – **Updated** |
+| 20.52 | Footnote – **Added** |
+| 40.07 | Wording "80% of the market value" changed to "80% of the loan to value ratio" under line 03 – **Changed** |
+| 50.20, 50.30 | Wording "for Doubtful Accounts" – **Deleted** |
+| 50.50 | Line 76 "Employment Benefits" – **Added** |
+| 60.20 | Wording "at year end" under column 21 – **Added** |
+| 80.20 | Wording "for Doubtful Accounts" – **Deleted** |
+
+### 2010 Interim Return
+
+| Page | Changes |
+| --- | --- |
+| 19.10 | Details of assets page – **Added** |
+| 40.07 | Wording "80% of the market value" changed to "80% of the loan to value ratio" under line 03 – **Changed** |
+| 60.20 | Wording "at end of period" under column 21 – **Added** |
+
+## 2008 Updates
+
+The following changes have been made during the course of the 2008 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section V | Quebec – **Updated** |
+| Section VI | * Instructions under line 43, page 20.30 regarding interest on financing activities – **Added** * Instructions for line 16, page 20.40 – **Added** * Instructions for pages 30.40 and 30.45 – **Deleted** * Wording "75%" to "80%" under lines 03 and 04 for page 40.07 – **Changed** * Wording "unaffiliated" added to page 50.20 instructions – **Added** * Instructions for page 60.21 – **Added** * Instructions under pages 67.10 to 67.30 regarding the location of risk; instructions for page 67.31 – **Added** * Instructions for page 70.35 – **Deleted** |
+| Section IX | * Appendix A – **Updated** * Appendix F – Instructions under File Name – **Updated** * Appendix G – Instructions under File Naming and Record Layout – **Updated** * Appendix G – Validation Report – **Updated** * Appendix I – Filing Deadlines/Requirements for Quebec – **Updated** * Appendix I – List of Interim Return pages – **Updated** |
+
+### 2008 Annual Return (only)
+
+| Page | Changes |
+| --- | --- |
+| 10.10 | Line 09 "Website" under "Insurer general information" – **Added** |
+| 10.41 | Question #79 – **Added** |
+| 20.10 | "Unaffiliated" on line 20 – **Added** |
+| 20.42 | Wording "Net of Income Taxes" – **Deleted** |
+| 20.52 | Line 23 "Fair value (gains) losses on held for trading assets" – **Added** |
+| 50.20 | "Unaffiliated" in page title – **Added** |
+| 60.21, 67.31 | "Undiscounted" pages – **Added** |
+| 60.41 | Wording "2002" and "2003" in columns 09 to 12 – **Deleted** |
+
+### 2008 Annual and 2009 Interim Returns
+
+| Page | Changes |
+| --- | --- |
+| 20.40 | Line 16 "(Please specify)" – **Added** |
+| 30.40, 30.45, 30.47, 70.35 | Quebec-only pages – **Deleted** |
+| 40.07 | Wording "≤ 75%" changed to "≤ 80%" – **Changed** |
+| 60.20 | Column 21 "Number of Policies" – **Added** |
+
+## 2007 Updates
+
+The following changes have been made during the course of the 2007 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section II | * Manitoba – **Updated** * Electronic Filing and Amended Annual Returns – **Changed** |
+| Section III | Unrecognized (Assets and Liabilities) – **Added** |
+| Section IV | * Type 3 under Structured Settlements – **Deleted** * CICA Handbook references – **Changed** |
+| Section V | * Quebec – 40.05 Summary of Investments and Limits changed to 40.07 Summary of Investments – **Changed** * Manitoba – **Updated** * Ontario – **Updated** |
+| Section VI | Readers are encouraged to completely review the 2007 updates for this Section – **Updated** |
+| Section VIII | Delivery address changed to 12th floor – **Changed** |
+| Section IX | * Appendix A – **Updated** * Appendix F – Word "diskette" – **Deleted** * Appendix G – Readers are encouraged to completely review the 2007 updates for this appendix – **Updated** * Appendix H – Word "diskette" changed to "file" or "ASCII file" – **Changed** * Appendix I – Word "diskette" changed to "file" – **Changed** * Appendix I – List of Interim Return pages – **Updated** * Appendix I – Instructions for pages 30.70, 40.05, 70.35/70.38 and 80.10 – **Deleted** * Appendix I – Reference to page 40.05 to 40.07 – **Changed** * Appendix K – Wording "off-balance sheet exposures" changed to "structured settlements, letters of credit, derivatives and other exposures" and related instructions – **Changed** |
+| Section X | **Deleted** |
+
+### 2007 Annual Return
+
+The following pages include comprehensive changes that were made to the Annual Return in accordance with the new Financial Instruments Accounting Standard: pages 10.42, 20.20, 30.40, 30.70, 30.71, 40.10, 40.20, 40.30, 40.35, 40.40, 40.45, 40.49, 40.50, 40.60, 40.70, 40.80, 50.40, 50.50 and 70.38.
+
+| Page | Changes |
+| --- | --- |
+| 20.42 | Page – **Added** |
+| 40.05 | Page – **Deleted** |
+| 40.07 | Page – **Added** |
+
+### 2008 Interim Return
+
+| Page | Changes |
+| --- | --- |
+| 20.30 | Line 33 - Realized Gains (Losses) – **Changed** |
+| 20.42 | Wording "net of Income Taxes" – **Deleted** |
+| 40.07 | * Column 15 - Realized Gains (Losses) – **Changed** * "Unrealized" in column 19 – **Added** |
+
+## 2006 Updates
+
+The following changes have been made during the course of the 2006 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section VI | * Page 30.71, "Canadian Bond Rating Service" and footnote – **Deleted** * Reference to page 90.62 – **Deleted** |
+| Section VIII | Committee name to "CCIR **Forms** Committee" – **Changed** |
+| Section IX | Appendix A – **Updated** |
+
+### 2006 Annual and 2007 Interim Returns
+
+There are no changes to either the Annual or the Interim Returns.
+
+## 2005 Updates
+
+The following changes have been made during the course of the 2005 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section II | Paragraph (v) amended to read : "Pages containing no data are to be included with the filed Return(s), except for the out-of-Canada exhibits on pages 90.21 through 90.70." – **Amended** |
+| Section V | * "Autorité des marchés financiers" – **Deleted** * Page 60.41 added to the list of pages to complete, under Special Reporting, paragraph (a) – **Added** * Wording "for those subsidiaries and affiliates reported on Page 20.10, line 40" added to the end of the sentence under "Financial Statements of Subsidiaries and Affiliates" – **Added** * Paragraph starting "Except otherwise advised …" (regarding the MCT) – **Deleted** * "(Applicable after Regulation has been passed)" under Guidelines, Bulletin No. 01/03 – **Deleted** * "Financial Institutions Forms Regulation"; numbering of Regulations (i.e. 1-16) – **Deleted** |
+| Section VI | * Sentence in Line 01, "It does not include guaranteed investment certificates or term deposits **that are not cash equivalents**, which are to be included on page 20.10, line 04." – **Amended** * Sentence "All insurers that transacted any business in any foreign jurisdiction are required to complete pages 90.15 and 90.62." – **Deleted** |
+| Section IX | Appendix A – **Updated** |
+
+### 2005 Annual Return
+
+| Page | Changes |
+| --- | --- |
+| 10.40 | Question in item 35: "Is the insurer licensed in, **or does the insurer cover risks** in any foreign jurisdiction?" included in reference to page 90.62 – **Amended; Added** |
+| 20.10 and 90.21 | Words "and Partnerships" on line 25 – **Added** |
+| 90.15 | The first sentence, "The exhibit below, and page 90.62, are to be completed if the insurer **is licensed in, or covers risks** in any foreign jurisdiction" was **amended**. The words "(if applicable)" were added to the column "Date of Licensing." |
+
+## 2004 Updates
+
+The following changes have been made during the course of the 2004 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section II | Deadlines – **Updated** |
+| Section IV | * Replaced reference to "reserve" with "capital required" – **Amended** * Requirement for and reference to confirmation letter for letters of credit – **Deleted** |
+| Section V | * Prince Edward Island – **Updated** * Nova Scotia – **Updated** * Replaced "IGIF" with "Autorité des marchés financiers" – **Amended** * Pages 30.47, 60.40, 70.21 under (a) – **Added** * Wording "and affiliates" – **Added** * New paragraph on minimum capital test (MCT) – **Added** * Saskatchewan – **Updated** * Alberta – **Updated** |
+| Section VI | * Page 20.10, line 37 – clarification on "discounting" – **Added** * Page 30.71, line 32 – "or affiliate" – **Deleted** * Page 30.71, line 33 – replace "Financial Institution" with "Subsidiary" – **Amended** * Instructions for completing page 60.41 – **Added** * Instructions on page 67.10, line 01, "Licensed (Y/N)" – **Added** |
+| Section IX | * General – **Updated** * Appendix A – **Updated** * Appendix I – Line 22 – Instructions replaced with reference to instructions for page 30.70 – **Amended** * Appendix L – Sample letter regarding letters of credit – **Deleted** |
+
+### 2004 Annual Return
+
+| Page | Changes |
+| --- | --- |
+| 10.42 | Line 30 – reference to Section IV corrected to Section VI – **Amended** |
+| 90.15 | Page 90.66 added to note – **Added** |
+
+## 2003 Updates
+
+### 2003 Annual Return and Instructions
+
+Significant changes have been made to the Annual Return, and to most sections of the instructions for 2003. Please refer to the Special Table of Contents on OSFI's website for a summary of the Annual Return pages affected.
+
+All readers are encouraged to completely review the 2003 updates in the instructions, and the 2003 edition of the Annual Return.
+
+### 2004 Interim Return
+
+Comprehensive changes were also made to the Interim Return, effective with filings due for the first quarter of 2003. Please refer to the previous page of these instructions ("2002 Updates") for details.
+
+## 2002 Updates
+
+The following changes have been made during the course of the 2002 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section II | Newfoundland and Labrador: diskette required; footnote "F", "PN", "PO", "PA" and "PB" – **Added** |
+| Section V | * Newfoundland and Labrador: paragraph on Actuary's Report – **Amended** * Paragraph on Statutory Filings by Federally Registered Insurers – **Added** |
+| Section IX | * Regulators – **Updated** * Appendix I – Interim Return Instructions – **Updated** |
+
+### 2002 Annual and 2003 Interim Returns
+
+The Interim Return includes significant changes, mainly resulting from the replacement of the minimum asset test with the minimum capital test (MCT); note that pages 30.40, 30.45, 30.47 and 70.35 will be retained until Quebec legislation for MCT is enacted. Highlights are as follows:
+
+| Page | Changes |
+| --- | --- |
+| 20.20 | Categories and descriptions updated to reflect GAAP – **Updated** |
+| 20.40 | Exhibit "Reserves" – **Added** |
+| 30.10 - 30.30 | Minimum asset test and related pages – **Deleted** |
+| 30.47 | DPAE portion of deleted page 30.15 for insurers licensed in Quebec – **Retained** |
+| 30.70 - 30.71 | Minimum capital test – **Added** |
+| 40.05 | "Summary of Investments and Limits" mainly replaces deleted page 40.90 – **Added** |
+| 40.90 | "Summary of Investments – Portfolio Limits" – **Deleted** |
+| 60.20 | Two classes of insurance: Credit Protection and Other Approved Products – **Added** |
+| 70.30 | "Reinsurance Ceded to Unregistered Insurers – Canadian Business" – **Deleted** |
+| 70.35 | "Out of Canada" changed to "Total Business – Insurers Licensed in Quebec" – **Changed** |
+| 70.38 | New page: "Reinsurance Ceded to Unregistered Insurers – Total Business" combines former pages 70.30 and 70.35 to calculate capital required for the MCT – **Added** |
+
+## 2001 Updates
+
+The following changes have been made during the course of the 2001 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section II | Paragraph xii: "(refer to Section V)" – **Added** |
+| Section IV | Wording "receivables" changed to "recoverables" – **Changed** |
+| Section V | Paragraph on "Auditor's Report to shareholders / policyholders" – **Added**  (change in filing requirement for federal insurers) |
+| Section VI | * "1998" changed to "current year" – **Changed** * Instructions on Other Investments, page 40.80 – **Added** |
+| Section IX | * List of appendices – **Added** * Regulators – **Updated** * Appendix G – Extension "NUM" added to the example of a file name – **Added** * Appendix G – Instructions related to extensions – **Deleted** * Appendix I – Federal filing deadlines for **insurers** changed to "Within 45 days" – **Changed** |
+
+### 2001 Annual and 2002 Interim Returns
+
+There are no changes to either the Annual Return or the Interim Return.
+
+## 2000 Updates
+
+The following changes have been made during the course of the 2000 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section II | * Financial Statements of Subsidiaries – refer to Section V – **Added** * Requirements for Newfoundland, Alberta and British Columbia – **Amended** * Nunavut – **Added** |
+| Section V | * Most provinces and territories no longer require federally regulated P&C companies to file a full Actuary's Report with their Annual Return – **Amended** * Alberta requirements – **Updated** * British Columbia requirements – **Updated** * Nunavut – **Added** |
+| Section VI | Additional instructions on SIRs – **Added** |
+| Section IX | Regulators' websites – **Added** |
+
+### 2000 Annual Return
+
+| Page | Changes |
+| --- | --- |
+| 20.10, etc. | "Deferred Income Taxes" changed to "Deferred / Future Income Taxes" – **Amended** |
+| 60.10, 60.20, 60.30, 90.61, 90.62, 90.63 | Retrocessions(line 99) – **Deleted** |
+| 65.10, 65.11, 90.66, 90.67 | "Accident and Sickness" exhibits and applicable instructions – **Deleted** |
+
+### 2001 Interim Return
+
+| Page | Changes |
+| --- | --- |
+| 20.10, etc. | "Deferred Income Taxes" changed to "Deferred / Future Income Taxes" – **Amended** |
+
+## 1999 Updates
+
+The following changes have been made during the course of the 1999 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section IV | Reporting of an amount recoverable under a SIR changed from page 20.10, line 27 to line 37 – **Amended** |
+| Section VI | * Instructions related to "columnar" Corporate Organization Chart – **Deleted** * New question on Annual Return, page 10.41, line 76 – **Added** * Instructions transferred from Annual Return, page 10.42, line 01 – **Added** * Instructions transferred from Annual Return, page 10.42, lines 10, 15 and 20 – **Added** * Reporting of instalment premiums receivable, page 20.10 – **Amended** |
+| Section IX | * Nunavut – **Added** * Appendix M – Corporate Organization Chart (example) – **Deleted** |
+
+### 1999 Annual Return
+
+| Page | Changes |
+| --- | --- |
+| 10.20 | * "Capital" changed to "Share Capital" – **Amended** * Lines 10, 11 and 29 – **Deleted** |
+| 10.30 | Corporate Organization Chart: "columnar" method of reporting discontinued, replaced by "conventional" method – **Amended** |
+| 10.40 | Information on changes to bylaws – **Added** |
+| 10.41 | * Question on portfolio transfers, etc. – **Added** * Request for number of employees – **Deleted** |
+| 10.42 | Instructions for lines 01, 10, 15 and 20 transferred to Annual Return instructions, Section VI – **Deleted** |
+| 10.50 | Nunavut – **Added** |
+| 20.50, 20.51 | Statement of Changes in Financial Position – **Deleted** (replaced by page 20.52) |
+| 20.52 | Statement of Cash Flows – **Added** |
+| 40.49 | Nunavut – **Added** |
+| 40.80 | Lines 01, 02, 03 and 04 and footnote – **Deleted** (Interim Return also) |
+| 67.10-67.30 | Nunavut – **Added** |
+
+## 1998 Updates
+
+The following changes have been made during the course of the 1998 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section IV | Structured Settlements: summary and reference to OSFI guideline – **Added** |
+| Section V | * Insurers licensed in Quebec to file a second version of page 67.10 – **Added** * Quebec insurers to complete page 30.15, lines 34 and 35 – **Added** * References to Insurance Act (Ontario) – **Changed** * Guideline Accounting for Structured Settlements – **Added** |
+| Section VI | * Instructions for reporting earthquake reserves – **Added** * Reporting reimbursements of adjustment expenses – **Revised** |
+| Section IX | Regulators' names and addresses – **Updated** |
+| Section X | Actuary's Report and Auditor Report – **Added** |
+
+### 1998 Annual and 1999 Interim Returns
+
+| Page | Changes |
+| --- | --- |
+| 30.40 | Earthquake reserve – **Added** |
+
+## 1997 Updates
+
+The following changes have been made during the course of the 1997 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section II | Manitoba filing requirements – **Amended** |
+| Section IV | SIR reporting – **Changed** |
+| Section V | * Federal regulations – **Added** * Federal guidelines and bulletins – **Added** * Dividends declared to shareholders - federal requirement – **Added** * Federal letter of credit (form) – **Changed** |
+| Section VI | Instructions on health care costs on page 20.30, line 10 – **Added** |
+| Section IX | * Regulators' names and addresses – **Updated** * Appendix L – standard letter for letters of credit – **Updated** |
+
+### 1997 Annual and 1998 Interim Returns
+
+| Page | Changes |
+| --- | --- |
+| 30.60 | Page deleted because limit of shareholder dividends revoked from federal legislation – **Deleted** |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-10-01

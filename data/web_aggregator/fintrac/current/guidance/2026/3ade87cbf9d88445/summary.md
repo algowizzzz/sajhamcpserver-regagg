@@ -1,0 +1,1 @@
+Summary: # Reporting entities subject to charges : Charging reporting entities for FINTRAC’s compliance program

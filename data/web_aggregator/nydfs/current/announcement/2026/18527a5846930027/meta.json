@@ -1,0 +1,26 @@
+{
+  "doc_id": "18527a5846930027",
+  "regulator_id": "nydfs",
+  "doc_type": "announcement",
+  "title": "Information for Small Businesses | Department of Financial Services",
+  "language": "en",
+  "source_url": "https://www.dfs.ny.gov/consumers/small_businesses",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b69db601a0e71da67771920397d11b6a3467cdc461e68a28d80f35f9206cea16",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_nydfs_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nydfs/current/announcement/2026/18527a5846930027",
+  "tags": [
+    "us",
+    "state_regulator",
+    "banking",
+    "insurance"
+  ]
+}

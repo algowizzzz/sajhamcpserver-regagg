@@ -1,0 +1,1 @@
+Summary: # Stress Testing – Guideline (2009)

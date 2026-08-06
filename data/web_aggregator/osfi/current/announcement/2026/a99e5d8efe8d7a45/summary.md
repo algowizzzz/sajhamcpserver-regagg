@@ -1,0 +1,1 @@
+Summary: # Part XII: Acquisition of control of, or a substantial investment in, a non-financial services entity

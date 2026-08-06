@@ -1,0 +1,24 @@
+{
+  "doc_id": "c6b8d002c8561716",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Operational alert: Professional money laundering through trade and money services businesses",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/intel/operation/oai-ml-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0dc54d85a8a49ca5bdb09102b2943a5210f6562a36e09dac41579f627f0f5281",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/c6b8d002c8561716",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

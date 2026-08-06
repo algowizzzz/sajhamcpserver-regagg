@@ -1,0 +1,22 @@
+# Priorité 5 : Fonctions essentielles
+
+## Résultat attendu
+
+Nous prenons des mesures face à l’incertitude et aux risques émergents pour assurer la bonne santé financière des institutions financières fédérales, voir à ce que les régimes de retraite fédéraux respectent certaines exigences, dont les exigences minimales de capitalisation, et contribuer à faire en sorte que les programmes de sécurité sociale et les régimes de retraite et d’assurance du secteur public demeurent solides et pérennes pour la population canadienne.
+
+![](/sites/default/files/images/pr2-on.png)
+
+## Pourquoi est-ce une priorité
+
+Lorsque les institutions financières, les régimes de retraite fédéraux ou le système financier font face à des tensions importantes, nous devons pouvoir réagir rapidement et efficacement. Nous affecterons des ressources dans les secteurs ayant le plus grand impact ou présentant les risques les plus élevés, et déterminerons et gérerons les risques et les vulnérabilités. Dans ce domaine, le maintien de la confiance du public à l’égard du système financier restera au cœur de tout ce que nous faisons.
+
+## Objectifs liés à cette priorité
+
+* Nous mettons à exécution des mesures de surveillance efficaces à l’égard des institutions financières et des régimes de retraite, tout en tirant parti d’outils opérants pour faire face à des tendances et à des risques en constante évolution.
+* Nous fournissons des conseils en temps opportun sur le plan de la législation et des approbations, ainsi que des consignes et des réponses claires au chapitre de la réglementation de manière à communiquer et à atténuer les risques actuels et émergents.
+* Le Bureau de l’actuaire en chef offre des services actuariels de haute qualité au gouvernement du Canada.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-04-09

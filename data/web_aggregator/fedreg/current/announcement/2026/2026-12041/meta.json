@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12041",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities: Notice of Intent To Extend Collection 3038-0096, Swap Data Recordkeeping and Reporting Requirements",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12041/agency-information-collection-activities-notice-of-intent-to-extend-collection-3038-0096-swap-data",
+  "reference_number": "2026-12041",
+  "published_date": "2026-06-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a42d8949c101a2afcc0c3638b68dfb2003babfcb993407f21e445b0064b156c1",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12041",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

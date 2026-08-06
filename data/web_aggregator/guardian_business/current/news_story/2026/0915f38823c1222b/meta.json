@@ -1,0 +1,25 @@
+{
+  "doc_id": "0915f38823c1222b",
+  "regulator_id": "guardian_business",
+  "doc_type": "news_story",
+  "title": "Judge casts doubt on future of WH Smith replacement TG Jones",
+  "language": "en",
+  "source_url": "https://www.theguardian.com/business/2026/aug/05/judge-casts-doubt-on-future-of-wh-smith-replacement-tg-jones",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8d981f5dbc90bce2e3700f544ec1b9a7aaf4d229cc36930f401e12e2d1f974dd",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_guardian_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/guardian_business/current/news_story/2026/0915f38823c1222b",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.theguardian.com/business/2026/aug/05/judge-casts-doubt-on-future-of-wh-smith-replacement-tg-jones",
+  "fetch_method": "feed_summary"
+}

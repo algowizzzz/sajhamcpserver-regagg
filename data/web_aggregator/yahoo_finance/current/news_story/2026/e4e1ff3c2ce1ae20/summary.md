@@ -1,0 +1,1 @@
+Summary: # APA Corp. (APA) Declined Despite Meeting Expectations

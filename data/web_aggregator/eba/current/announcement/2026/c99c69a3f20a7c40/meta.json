@@ -1,0 +1,25 @@
+{
+  "doc_id": "c99c69a3f20a7c40",
+  "regulator_id": "eba",
+  "doc_type": "announcement",
+  "title": "EBA E-mail alert 16 July, 2026",
+  "language": "en",
+  "source_url": "https://www.eba.europa.eu/node/19853",
+  "reference_number": null,
+  "published_date": "2026-07-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a072a7c1bac43e2a6caa1e09ca30944fe06a7af6c708d55536d1d2833612da24",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_eba_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eba/current/announcement/2026/c99c69a3f20a7c40",
+  "tags": [
+    "eu",
+    "banking",
+    "prudential"
+  ]
+}

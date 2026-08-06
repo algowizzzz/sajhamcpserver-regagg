@@ -1,0 +1,25 @@
+{
+  "doc_id": "a45b672caaaf81ef",
+  "regulator_id": "bis_bcbs",
+  "doc_type": "final_rule",
+  "title": "Regulatory Consistency Assessment Programme (RCAP) - Handbook for jurisdictional assessments",
+  "language": "en",
+  "source_url": "https://www.bis.org/bcbs/publ/d601.htm",
+  "reference_number": null,
+  "published_date": "2025-12-03",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b7fbf84f409de39966448ba952717439e82be4768d6e0cd5793cd7a595775082",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_bis_bcbs_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bis_bcbs/current/final_rule/2025/a45b672caaaf81ef",
+  "tags": [
+    "international",
+    "basel",
+    "prudential"
+  ]
+}

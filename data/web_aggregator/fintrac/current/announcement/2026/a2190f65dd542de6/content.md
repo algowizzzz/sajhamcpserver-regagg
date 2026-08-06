@@ -1,0 +1,42 @@
+# FINTRAC imposes an administrative monetary penalty on 9293-0809 Québec Inc.
+
+[**2022-05-10**]
+
+9293-0809 Québec Inc., also operating as Groupe Sam's Globale, a real estate broker in Montréal, Quebec, was imposed an administrative monetary penalty of $101,227 on October 19, 2021, for committing six violations. The violations were found during the course of a compliance examination in 2019. 9293-0809 Québec Inc. has appealed the decision to the Federal Court.
+
+**Violation #1 – Failure of a person or entity to appoint a person to be responsible for the implementation of a compliance program – PCMLTF Regulations 71(1)(a)**
+
+9293-0809 Québec Inc. did not ensure that the appointed person was responsible for implementing a compliance program.
+
+---
+
+**Violation #2 – Failure to develop and apply written compliance policies and procedures that are kept up to date and, in the case of an entity, are approved by a senior officer – PCMLTF Regulations 71(1)(b)**
+
+9293-0809 Québec Inc. failed to develop and apply compliance policies and procedures.
+
+---
+
+**Violation #3 – Failure to assess and document the risk of a money laundering or terrorist financing offence, taking into consideration prescribed factors – PCMLTF Regulations 71(1)(c)**
+
+9293-0809 Québec Inc. failed to assess and document the money laundering or terrorist activity financing (ML/TF) risk of its geographic locations, products and delivery channels, and clients and business relationships.
+
+---
+
+**Violation #4 – Failure to develop and maintain a written ongoing compliance training program – PCMLTF Regulations 71(1)(d)**
+
+9293-0809 Québec Inc. failed to keep and maintain a written ongoing compliance training program.
+
+---
+
+**Violation #5 – Failure to keep prescribed records – PCMLTF Regulations 39(1)(b)**
+
+9293-0809 Québec Inc. failed to keep all the prescribed information in client information records.
+
+---
+
+**Violation #6 – Failure of a person or entity that is required to ascertain a person's identity to keep prescribed information – PCMLTF Regulations 64.2**
+
+9293-0809 Québec Inc. failed to keep a record of all the prescribed identification information.
+
+Date Modified:
+:   2022-05-10

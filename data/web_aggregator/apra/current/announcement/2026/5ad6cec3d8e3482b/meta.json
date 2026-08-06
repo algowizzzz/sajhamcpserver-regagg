@@ -1,0 +1,26 @@
+{
+  "doc_id": "5ad6cec3d8e3482b",
+  "regulator_id": "apra",
+  "doc_type": "announcement",
+  "title": "Quarterly general insurance performance statistics",
+  "language": "en",
+  "source_url": "https://www.apra.gov.au/news-and-publications/quarterly-general-insurance-performance-statistics",
+  "reference_number": null,
+  "published_date": "2026-05-29",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:edf1b507e68d8d72344737105cf82b0d3e08b344eed29ea84615b889b2ff59e3",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_apra_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/apra/current/announcement/2026/5ad6cec3d8e3482b",
+  "tags": [
+    "australia",
+    "prudential",
+    "banking",
+    "insurance"
+  ]
+}

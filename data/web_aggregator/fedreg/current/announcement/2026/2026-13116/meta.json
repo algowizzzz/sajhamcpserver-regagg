@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13116",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Sunshine Act Meetings: Notice of Meeting Held With Less Than Seven Days' Advance Notice",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13116/sunshine-act-meetings-notice-of-meeting-held-with-less-than-seven-days-advance-notice",
+  "reference_number": "2026-13116",
+  "published_date": "2026-06-29",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:bd14407b000cb04a43be8a84927662398c9c5096ea7c09d6766514a06aaae6ef",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13116",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

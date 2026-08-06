@@ -1,0 +1,1 @@
+Summary: # Canada-U.S. trade drops almost $2-billion since early 2024, data show

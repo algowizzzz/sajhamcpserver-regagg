@@ -1,0 +1,1 @@
+Summary: # Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall

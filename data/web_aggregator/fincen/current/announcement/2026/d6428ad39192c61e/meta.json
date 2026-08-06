@@ -1,0 +1,24 @@
+{
+  "doc_id": "d6428ad39192c61e",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Contacts for Members of the Media | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/news/contacts-members-media",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ac50ed3296c03e077fad31e1b9432e3696ec1698ad99d3ee4b533bc19914217e",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/d6428ad39192c61e",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

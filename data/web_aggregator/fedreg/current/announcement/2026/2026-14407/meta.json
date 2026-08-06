@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14407",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 100, Definitions, and Rule 204, Members and Persons Associated With a Member Who Are or Become Subject to a Statutory Disqualification",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/17/2026-14407/self-regulatory-organizations-miax-sapphire-llc-notice-of-filing-and-immediate-effectiveness-of-a",
+  "reference_number": "2026-14407",
+  "published_date": "2026-07-17",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6eb1e5c128d82b5c0c1fbf61e7ef8a72d0b6cf564efa1a3a352e4d1980a020d4",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14407",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

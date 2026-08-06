@@ -1,0 +1,8 @@
+Page ContentThe European Insurance and Occupational Pensions Authority (EIOPA) published today an Opinion on monetary incentives and remuneration between providers of asset management services and insurers. The Opinion is a follow-up on EIOPA’s thematic review published on 26 April 2017 that assessed potential risks for consumers due to monetary incentives and remuneration payments from asset managers to insurance undertakings in the unit-linked market. The thematic review concluded that monetary practices between asset managers and insurance undertakings are significant and widely spread across the European Union. In this regard, EIOPA identified risks of consumer detriment relating to unmitigated conflicts of interest and to how the assets of unit-linked policies are managed by insurers.
+
+Publication date
+:   11 December 2017
+
+## Related links
+
+[EIOPA issues recommendations to improve consumer protection in the unit-linked market - Press release](/document/download/6a58cce4-8101-4c2c-8dd3-fa4e71480f38_en?filename=EIOPA%20issues%20recommendations%20to%20improve%20consumer%20protection%20in%20the%20unit-linked%20market%20-%20Press%20release.pdf)

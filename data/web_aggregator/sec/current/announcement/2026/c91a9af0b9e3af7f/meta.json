@@ -1,0 +1,24 @@
+{
+  "doc_id": "c91a9af0b9e3af7f",
+  "regulator_id": "sec",
+  "doc_type": "announcement",
+  "title": "SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon",
+  "language": "en",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon",
+  "reference_number": null,
+  "published_date": "2026-07-22",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d8abd72dd9b33a2a823332c7833ad528d0070c6bc33d1fb46620d488a685db10",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_sec_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/sec/current/announcement/2026/c91a9af0b9e3af7f",
+  "tags": [
+    "us",
+    "securities"
+  ]
+}

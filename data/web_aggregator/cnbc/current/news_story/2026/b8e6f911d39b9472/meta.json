@@ -1,0 +1,25 @@
+{
+  "doc_id": "b8e6f911d39b9472",
+  "regulator_id": "cnbc",
+  "doc_type": "news_story",
+  "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
+  "language": "en",
+  "source_url": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:78de6ef4142c065a86ef1ea8ea022e56dbf236bcf4303662f8e7261b74abac58",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_cnbc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cnbc/current/news_story/2026/b8e6f911d39b9472",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
+  "fetch_method": "feed_summary"
+}

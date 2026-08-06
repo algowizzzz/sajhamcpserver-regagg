@@ -1,0 +1,1 @@
+Summary: # 2019-2020 Annual Report to Parliament on the administration of the Privacy Act

@@ -1,0 +1,75 @@
+# Currency Transaction Reporting: Guidance on Completing CTR Section A "Person(s) on Whose Behalf Transaction(s) is Conducted
+
+[fincenruling2000-1.pdf](/system/files/administrative_ruling/fincenruling2000-1.pdf "fincenruling2000-1.pdf")
+(14.52 KB)
+
+FinCEN Ruling 2000-1
+
+Currency Transaction Reporting: Guidance on Completing CTR Section A "Person(s) on Whose Behalf Transaction(s) is Conducted
+
+Issued Date
+
+August 31, 2000
+
+Dear [ ]:  
+You have asked how [ ](the "Bank") should properly report certain currency transactionson Form 4789 (a "CTR") in the circumstances described below. Your question was originallyraised in a letter dated August 16, 2000, which was forwarded to the Financial CrimesEnforcement Network (“FinCEN”).1 There have also been follow-up conversations with myoffice. Our conversations make clear that the Bank supports both the spirit and intent of the BankSecrecy Act (the "BSA"), and we appreciate the diligence shown by you and your colleagues inseeking to confirm how to properly comply with the BSA.
+
+FACTS  
+We understand the relevant facts to be as follows. Customer 1 is a seafood processing company.When it purchases seafood from a shrimpboat captain (or similar seafood supplier boat business),it customarily writes a check for the amount of the purchase price, drawn on Customer 1’saccount at the Bank, to the captain. The captain, in turn, endorses the check back to Customer 1,who then sends an employee to the Bank to cash the check. The Bank believes that Customer 1uses the currency received when the check is cashed to pay the seafood supplier, ultimately, incurrency.  
+Customers 2 and 3 are also seafood processing companies that are customers of the Bank.Customers 2 and 3, like Customer 1, engage in the transactions described above to pay seafoodsuppliers for seafood.  
+Question 1-Completion of Section A of CTR  
+Because Customer 1 purchases seafood from a number of boats, it often cashes several checks,endorsed back to it by the boat captains, on the same day. Some of those checks will be for$10,000 or less; others may exceed $10,000, depending upon the purchase price of the catch ineach case. Often the total amount of the multiple checks brought in to the Bank by Customer 1during a business day to be cashed for this reason exceeds $10,000, thereby requiring the filing ofa CTR.  
+Your first question relates to the manner in which the Bank should complete Section A of theCTR in these circumstances. Section A calls for information about the "Person(s) on whoseBehalf Transaction(s) is Conducted." The answer depends upon the amount of each check thatCustomer 1 is exchanging for currency.
+
+* To the extent that each double-endorsed check is payable to a different person and doesnot exceed $10,000 (though the checks exceed $10,000 in the aggregate), informationabout the person that is the original payee of each check (i.e., the shrimpboat captain) isnot required and Section A of the CTR should be completed using information aboutCustomer 1.
+  
+* If one or more of the batch of checks being cashed during a business day by Customer 1in this fashion for a particular original payee exceeds $10,000 (or two or more checkspayable to the same or related payees exceed $10,000 in the aggregate), the CTR filed forthat day with respect to Customer 1 should include a separate Section A for each suchpayee, completed using information about such payee. If so, the Bank should check the“multiple persons” box (No. 1b) on the first page of the CTR. In addition, a Section Ashould also be completed using information about Customer 1 for those checks that donot exceed $10,000.
+  
+  
+  
+
+Question 2 - Customer 1’s Failure to Provide Necessary Information  
+The employee of Customer 1 who brings the double-endorsed checks to the Bank consistentlyeither does not possess or refuses to provide to the Bank the information necessary to completePart A of the CTR for seafood suppliers of Customer 1 who are the original payees of checks inexcess of $10,000. In those circumstances, the Bank is unable to complete fully Part A of theCTR.  
+In general, a financial institution must (i) make a reasonable and good faith effort to obtain theinformation necessary to complete a CTR; and (ii) evaluate the reasons why such information isnot available or provided during the transaction. The currency transaction reporting provisions donot necessarily require a financial institution to refuse a transaction if all of the informationrequired for the completion of the CTR is not available or provided by the transactor; the decisionwhether to accept or reject a given transaction rests solely with the financial institution andshould be made based upon a number of facts and circumstances unique to each transaction.  
+The Bank has noted that employees of Customers 2 and 3 consistently possess and provide thenecessary information on the original payee of each cashed check in excess of $10,000 when theyengage in transactions similar to those described above, so that the Bank may fully completePart 1, Section A of the CTRs relating to the checks cashed by Customers 2 and 3. In addition,the Bank believes that its locality and the businesses that locality supports are potentially highriskfor money laundering. All of these facts are relevant to a determination by the Bank whetherCustomer 1’s conduct meets the requirements for the filing of a suspicious activity report underthe provisions of 31 CFR 103.18 (previously 31 CFR 103.21), and the corresponding regulationsof the Bank’s federal banking supervisor, found in Title 12 of the Code of Federal Regulations.  
+When a financial institution determines to send a CTR to the Enterprise Computing Center-Detroit with anincomplete Section A, it must document the reasons why the information in Section A isincomplete, explain the reasonable, good faith efforts it made to obtain the information, andprovide any other information it deems relevant, including whether a suspicious activity reportwas filed. If a CTR is submitted without Section A completed and without this information, itwill be returned asking for the missing information.  
+Thank you for bringing this matter to our attention. We appreciate the Bank’s efforts incomplying with the requirements of the BSA to the fullest extent. Please do not hesitate to contactDawn Adams of my staff at (202) 354-6417 should you have any questions.
+
+Sincerely,  
+-signed-  
+Christine E. Carnavos  
+Executive Associate Director  
+Office of Compliance and Regulatory Enforcement
+
+---
+
+1 Your letter was addressed to the [ ] (not the Bank’s primary supervisor) and you also provided acopy to [ ]. The letter was forwarded to FinCEN by [ ].
+
+2 The application of the currency reporting provisions of section 6050I of the Internal Revenue Code of 1986 to a particular supplier of Customer 1 who receives more than $10,000 in currency in exchange for its catch is beyond the scope of this letter.
+
+3 Because Customer 1 has chosen to act on behalf of its seafood suppliers in cashing the checks, we do not believe an exemption otherwise applicable to Customer 1 under the revised CTR exemption procedurescontained in 31 CFR 103.22(d) may be used for the benefit of the seafood suppliers who are the original payees of the cashed checks.
+
+Financial Institution
+
+Casinos
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

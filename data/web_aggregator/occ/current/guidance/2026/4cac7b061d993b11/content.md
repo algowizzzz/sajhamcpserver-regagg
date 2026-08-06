@@ -1,0 +1,46 @@
+OCC Bulletin 2026-30
+|
+July 9, 2026
+
+# Notification: FinCEN Guidance on Voluntary Information Sharing
+
+Share This Page:
+
+### To
+
+Chief Executive Officers of All National Banks, Federal Savings Associations, and Federal Branches and Agencies; Department and Division Heads; All Examining Personnel; and Other Interested Parties
+
+## Summary
+
+The Office of the Comptroller of the Currency (OCC) is highlighting the [updated Section 314(b) Fact Sheet](https://www.fincen.gov/system/files/shared/314bfactsheet.pdf) recently issued by the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN). Among other guidance, FinCEN’s updated Section 314(b) Fact Sheet clarifies how financial institutions can share information with each other about suspected fraud under section 314(b) of the USA PATRIOT Act (section 314(b)), which provides financial institutions with the ability to share information with one another, under a safe harbor that offers protections from liability, to improve the identification and reporting of activities that may involve money laundering or terrorist activities.
+
+The OCC remains committed to addressing fraudulent activities that can harm banks and consumers, and the updated Section 314(b) Fact Sheet supports this administration’s whole-of-government efforts to combat fraud. Consistent with these priorities, the OCC continues to encourage banks to voluntarily share information about suspected fraud and other illicit financial activity under section 314(b).
+
+### Note for Community Banks
+
+The updated Section 314(b) Fact Sheet would apply to financial institutions, including community banks, that participate in the section 314(b) program.
+
+## Highlights
+
+Among other clarifications, FinCEN’s Section 314(b) Fact Sheet provides the following:
+
+* FinCEN’s updated Section 314(b) Fact Sheet provides that a financial institution may share information about activity involving suspected fraud, money laundering, terrorist financing, or other specified unlawful activities, and that it may share that information with any other financial institution eligible to participate in the section 314(b) program to identify illicit financial activity.
+* The updated Section 314(b) Fact Sheet includes examples of the type of information related to fraud and other criminal activity that financial institutions can share with each other under section 314(b), including video surveillance footage; cyber-related data, such as IP addresses; and fraud indicators like newly added payees followed by large transfers, multiple accounts with the same or similar identifying information, and login activity from geographically distant places.
+* A section 314(b)-registered financial institution or association of financial institutions may share information with another section 314(b)-registered financial institution or association of financial institutions, even if the entity sharing the information has no reason to believe the information relates to any specific customer, account, or transaction of the financial institution receiving the information.
+
+## Further Information
+
+Please contact Ji Cheon, Assistant Director; Scott Burnett, Special Counsel; or Melissa Lisenbee, Special Counsel, Chief Counsel’s Office, at (202) 649-5490.
+
+Adam J. Cohen  
+Senior Deputy Comptroller and Chief Counsel
+
+## Related Links
+
+* [FinCEN’s 314(b) Fact Sheet](https://www.fincen.gov/system/files/shared/314bfactsheet.pdf)
+* [Financial institutions can register here to share information about fraud under section 314(b)](https://www.fincen.gov/resources/financial-institutions)
+
+#### Topic(s):
+
+* [Bank Secrecy Act & Anti-Money Laundering (BSA/AML)](/news-events/newsroom/?topic=Bank%20Secrecy%20Act%20%26%20Anti-Money%20Laundering%20(BSA/AML))
+* [Laws & Regulations](/news-events/newsroom/?topic=Laws%20%26%20Regulations)

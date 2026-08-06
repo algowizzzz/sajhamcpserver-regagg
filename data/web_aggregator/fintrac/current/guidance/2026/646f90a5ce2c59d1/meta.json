@@ -1,0 +1,24 @@
+{
+  "doc_id": "646f90a5ce2c59d1",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "\u00c0 quel moment v\u00e9rifier l\u2019identit\u00e9 des personnes et des entit\u00e9s \u2014 Affactureurs",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/client/fact-affect-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d852d7acb880fa5f20e4a26ef31bc74802b2ca56007babf3233de25219e9ea6d",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/646f90a5ce2c59d1",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

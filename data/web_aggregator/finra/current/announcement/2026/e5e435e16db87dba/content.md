@@ -1,0 +1,72 @@
+Limited English Proﬁciency (LEP) Frequently Asked Questions (FAQ) 
+ 
+Who is considered a candidate with limited English proﬁciency (LEP)? 
+Candidates with LEP are people who do not speak English as their primary language and have 
+limited ability to read, speak, write or understand English. [See FINRA Information Notice - 8/1/12.] 
+Can extra exam time due to LEP be requested for a candidate taking the Securities Industry 
+Essentials© (SIE©) Exam? 
+Yes, as of October 16, 2023, extra time for LEP candidates is available for the SIE exam. 
+How does a candidate request extra time to complete a qualiﬁcation exam based on LEP? 
+For qualiﬁcation exams, sponsored candidates must have their ﬁrm submit requests for additional 
+time based on LEP directly through the CRD system. FINRA no longer accepts hardcopy LEP 
+Request/Attestation Forms for qualiﬁcation exams from FINRA-registered ﬁrms or non-FINRA ﬁrms 
+that use CRD to register candidates with other CRD participating regulators. 
+SIE exam candidates and unsponsored qualiﬁcation candidates should complete a Web-based LEP 
+Request Form. 
+Note: Details of both processes can be found on FINRA's Candidates with Limited English 
+Proﬁciency (LEP) page.  
+Can a ﬁrm request extra time for LEP for the SIE exam via CRD? 
+No. SIE test takers must complete a Web-based LEP Request Form
+. 
+How much extra time will be granted to LEP-eligible candidates? 
+LEP-eligible candidates will receive an additional 30 minutes for an exam that is up to two hours in 
+length and an additional 60 minutes for an exam over two hours in length. See the Qualiﬁcations 
+Exam page for a list of exams and the applicable costs, number of questions and time allotted to 
+complete the exam. 
+How long will it take for an LEP candidate's request to be processed? 
+LEP requests submitted via the CRD system are processed immediately and available for 
+scheduling with a FINRA test delivery vendor. 
+For SIE requests and non-CRD ﬁlers, FINRA will provide notiﬁcation via email that an LEP request 
+has been processed or that further information is required within ﬁve business days of receipt. 
+Once FINRA processes a candidate's completed LEP Request Form, FINRA will notify candidates 
+via email that their LEP time has been added to their current enrollments and they can proceed with 
+scheduling their exam appointment(s).
+
+How can a candidate check the status of a submitted LEP Request Form? 
+CRD provides immediate conﬁrmation of the LEP Request Form submission. Filing ﬁrms will see 
+save conﬁrmation language on the CRD screen at the time of submission, as well as a checkbox 
+noting the acceptance. 
+For non-CRD ﬁlers, if a candidate does not receive an email notiﬁcation from FINRA within ﬁve 
+business days after submitting the web-based LEP Request Form, the candidate can check the 
+status of the request by contacting FINRA's LEP Support Services Team or by contacting FINRA's 
+Industry Professionals line at (240) 386-4040. 
+Can a candidate schedule an appointment before submitting the LEP Request Form? 
+No, candidates should not schedule an appointment before submitting a request for extra time due 
+to LEP. If an appointment is scheduled prior to requesting additional time based on LEP , neither 
+CRD nor FINRA will have the ability to add extra time to the exam enrollment until the appointment 
+is canceled. 
+How does a candidate schedule an exam after FINRA conﬁrms by CRD or email that the 
+request was processed? 
+Candidates must schedule the exam appointment with Prometric either: by contacting Prometric's 
+National Call Center at (800) 578-6273 (toll free); or  
+online using www.prometric.com/ﬁnra for web-based scheduling. 
+Is a candidate required to present a letter from their ﬁrm requesting additional time based on 
+LEP at the testing center? 
+No. Test delivery vendor personnel will not accept approval letters and are not authorized to provide 
+additional time to LEP-eligible candidates. 
+Does a candidate have to submit an LEP Request Form for each exam they plan to take? 
+No. For sponsored candidates, the request for additional time will apply to all of the qualiﬁcation 
+exams that are selected via CRD. For SIE and unsponsored candidates, the request will apply to all 
+open enrollment windows at the time of submission of the web-based LEP Request Form. 
+If a candidate fails an exam and needs to retake it, will they have to submit a new LEP Request 
+Form submission? 
+No. If a candidate does not successfully complete an exam and needs to retake it, FINRA will 
+reapply LEP time to their new enrollment within ﬁve business days. A new testing appointment 
+should not be scheduled until an approval notiﬁcation has been received via email.
+
+If a candidate enrolls to take a different exam, will they have to submit a new LEP Request 
+Form submission? 
+No. FINRA will reapply previously approved LEP time to subsequent exams that are opened within 
+ﬁve years of the initial LEP request approval date. Therefore, candidates do not need to submit 
+additional requests.  A new testing appointment should not be scheduled until an approval 
+notiﬁcation has been received via email.

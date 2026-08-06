@@ -1,0 +1,116 @@
+* [HOME](/en/index.html)
+* [FSA Weekly Review/ACCESS FSA](/en/newsletter/index.html)
+
+[Tweet](https://twitter.com/share)
+
+# Financial Services AgencyFSA Weekly Review No.697
+:   July 27, 2026
+
+**What’s New on the FSA Website**
+
+Week of July 21, 2026 - July 24, 2026
+
+This page contains the latest in events, developments, and updates to the FSA website.  
+  
+For files in HTML formats, when you click original press release links, and click the "Language" button on the upper right of the Japanese website, and select "Machine translation" displayed on the screen, the results of the translation by AI are displayed. Please note that machine translated pages are not necessarily correct.
+
+## Press Conferences
+
+|  |  |
+| --- | --- |
+| July 22, 2026 | [Press Conference by the Minister of State for Financial Services (July 10, 2026)](/en/conference/minister/2026/20260710.html) |
+
+## Public Comments
+
+|  |  |
+| --- | --- |
+| July 24, 2026 | Publication of the results of the public consultation on the draft partial amendment of the Guidelines for the Protection of Personal Information in the Financial Sector [The original press release is available in Japanese.open new window](/news/r8/sonota/20260724/20260724.html) |
+| July 24, 2026 | Publication of the results of the public consultation on the draft partial amendment of the Guidelines for the Protection of Personal Information in the Financial Sector [The original press release is available in Japanese.open new window](/news/r8/sonota/20260724-2/20260724.html) |
+| July 23, 2026 | Publication of information, including the results of the public consultation on the draft partial amendments of the Comprehensive Guidelines for Supervision for Small- and Medium-Sized and Regional Financial Institutions, etc. [The original press release is available in Japanese.open new window](/news/r8/sonota/20260723/20260723.html) |
+
+## Press Releases
+
+### Policies
+
+|  |  |
+| --- | --- |
+| July 24, 2026 | [Publication of "Progress Report 2026 for Advancing Asset Management Services in Japan"](/en/news/2026/20260724/20260724.html) |
+| July 21, 2026 | Publication of the “Financial Services Strategy to Promote Growth Investment - Upgrading Promoting Japan as a Leading Asset Management Center” [The original press release is available in Japanese.open new window](/policy/fsa.html) |
+
+### Publication
+
+|  |  |
+| --- | --- |
+| July 23, 2026 | PDF[Cybersecurity Issues and Countermeasures in Crypto-Asset-Related Businesses](/policy/bgin/ResearchPaper_dtc_20260630_en.pdf) [open new window](/singi/vc/gijiroku/20260618.html) |
+
+### Councils
+
+|  |  |
+| --- | --- |
+| July 21, 2026 | Publication of the minutes of the fourth meeting of the Expert Panel on Venture Capital Funds [The original press release is available in Japanese.open new window](/singi/vc/gijiroku/20260618.html) |
+
+### Banks
+
+|  |  |
+| --- | --- |
+| July 24, 2026 | In order to encourage financial institutions nationwide to learn about initiatives in other regions, and apply and implement them, based on the “Financial Services Strategy to Promote Growth Investment” (published on July 21, 2026) and the “Regional Financial Power Enhancement Plan” (published on December 19, 2025), the FSA compiled and publicized financial institutions’ initiatives toward value creation for regional companies and regional revitalization as the “Compilation of Initiatives for Regional Revitalization” (provisional translation). [The original press release is available in Japanese.open new window](/news/r8/ginkou/20260724/20260724.html) |
+
+### Others
+
+|  |  |
+| --- | --- |
+| July 24, 2026 | Updating of an outline of financial products for the Tsumitate (Installment) investment quota under the NISA program [The original press release is available in Japanese.open new window](/policy/nisa2/products/index.html) |
+| July 24, 2026 | The FSA published the results of the experiment of the project supported by the FinTech PoC Hub (13th project\*).  \* With regard to countermeasures against money laundering targeting cryptoassets, etc., the experiment aims to verify the effectiveness of a new framework for joint information cooperation among private companies and relevant legal issues. [The original press release is available in Japanese.open new window](/news/r8/sonota/20260724-4/20260724.html) |
+| July 22, 2026 | Updated lists of entities that are operating financial instruments businesses without registration [The original press release is available in Japanese.open new window](/ordinary/chuui/mutouroku.html) |
+| July 21, 2026 | [The Expert Panel on the Revision of the Corporate Governance Code (3rd meeting) Minutes](/en/refer/councils/revision_corporategovernance/index.html#03meeting) |
+| July 21, 2026 | [Finalization of the Corporate Governance Code (2026 Revision)](/en/news/2026/20260721-2.html) |
+| July 21, 2026 | Publication of the main issues raised by the FSA at opinion exchange meetings held in June 2026 with relevant associations in the financial sector [The original press release is available in Japanese.open new window](/common/ronten/index.html) |
+| July 21, 2026 | Publication of Personnel Changes (effective on July 17 and 21, 2026) [The original press release is available in Japanese.open new window](/common/about/jinji/index.html) |
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

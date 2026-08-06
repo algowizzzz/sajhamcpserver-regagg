@@ -1,0 +1,24 @@
+{
+  "doc_id": "bd0ee511c3771538",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Reporting listed person or entity property to FINTRAC",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/transaction-operation/Guide5/5-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d4592116d9838702dd4d6a3df4632704ff38b2fd0f626ad1d27bd05dd5a4037f",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/bd0ee511c3771538",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

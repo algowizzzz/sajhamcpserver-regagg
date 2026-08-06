@@ -1,0 +1,1 @@
+Summary: # Relevé afférent au capital par établissement

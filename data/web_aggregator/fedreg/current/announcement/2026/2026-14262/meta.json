@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14262",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend FINRA Rule 1210 (Registration Requirements)",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/16/2026-14262/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-and",
+  "reference_number": "2026-14262",
+  "published_date": "2026-07-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d84579ec0e0107bcd618166e9083fd8552df44f91bb38a3ea143ace22ae6c3ea",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14262",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

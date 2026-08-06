@@ -1,0 +1,226 @@
+# Audits
+
+L’audit de nos programmes et services sert à améliorer nos processus de gestion du risque, de contrôle et de gouvernance.
+
+## Sur cette page
+
+## Rapports d'audit
+
+[Consulter les rapports d'audit (internes et autres)](/fr/propos-du-bsif/rapports-publications?title=&field_publication_type_target_id=73&year=)
+
+## Mandat du Comité ministériel d'audit
+
+### Vue d'ensemble
+
+#### Objet
+
+La Directive sur l'audit interne et la Politique sur l'audit interne du Conseil du Trésor du Canada sont entrées en vigueur le 15 juin 2023 et encadrent les attributions des comités d'audit. Le présent mandat du Comité ministériel d'audit du BSIF tient compte de ces consignes.  
+Rôle
+
+Le Comité ministériel d'audit (le Comité) joue le rôle de conseiller auprès du surintendant. Il a comme mission de fournir des recommandations et des conseils objectifs au surintendant sur le caractère suffisant, la qualité et les résultats de l'assurance fournie à l'égard de la pertinence et du fonctionnement des cadres et des processus de gestion des risques, de contrôle et de gouvernance (y compris les systèmes de reddition de comptes et d'audit) du BSIF.
+
+#### Portée
+
+Pour apporter ce soutien au surintendant, le Comité surveille activement les processus clés du BSIF en matière de gestion, de contrôle et de reddition de comptes (notamment les rapports) d'une façon intégrée, axée sur les risques et systématique.
+
+À titre de ressource stratégique au service du surintendant et à la demande de ce dernier, le Comité fournit également des conseils et des recommandations à propos des priorités, des préoccupations, des risques et des possibilités qui se profilent à l'horizon, ainsi que des questions relatives à la reddition de comptes.
+
+### Responsabilités
+
+#### Principaux secteurs de responsabilité
+
+Les principaux secteurs de responsabilité du Comité, qui seront examinés en ciblant adéquatement les risques et selon un cycle adéquat conformément aux consignes du Conseil du Trésor, sont les suivants :
+
+* Valeurs et éthique;
+* Gestion des risques;
+* Cadre de contrôle de gestion;
+* Fonction d'audit interne;
+* Prestataires externes des services d'assurance;
+* Suivi des plans d'action de la direction;
+* États financiers et rapports des comptes publics;
+* Rapports sur la reddition de comptes.
+
+#### Valeurs et éthique
+
+Au chapitre des valeurs et de l'éthique, le Comité doit :
+
+* examiner les systèmes et les pratiques du BSIF mis en place par le surintendant pour surveiller la conformité avec les lois, les règlements, les politiques et les normes en matière d'éthique, donner des conseils à ce sujet, et déterminer et corriger toute violation des lois ou des normes d'éthique. Cet examen peut également porter sur les procédures et les mécanismes de rétroaction instaurés par le BSIF pour surveiller la conformité avec le code de déontologie et les politiques en matière d'éthique, ainsi que sur la manière dont les processus favorisent le maintien de normes élevées en matière d'éthique.
+
+#### Gestion des risques
+
+Au chapitre du cadre de contrôle de gestion, le Comité doit :
+
+* examiner les mécanismes de gestion des risques mis en place par le BSIF et donner des conseils à ce sujet.
+
+#### Cadre de contrôle de gestion
+
+Au chapitre du cadre de contrôle de gestion, le Comité doit :
+
+* examiner les mécanismes de contrôle interne, fournir des conseils à ce sujet et être informé sur toute question d'importance découlant du travail réalisé par d'autres prestataires des services d'assurance à la haute direction et au surintendant.
+
+#### Fonction d'audit interne
+
+En ce qui concerne la fonction d'audit interne du BSIF, le Comité joue un rôle de supervision. Voici les activités qui lui incombent à cette fin :
+
+* recommander et revoir périodiquement une politique ou une charte (mandat) d'audit interne et la soumettre à l'approbation du surintendant;
+* conseiller le surintendant quant au caractère suffisant des ressources affectées à la fonction d'audit interne;
+* examiner et recommander à des fins d'approbation un plan pluriannuel d'audit interne fondé sur les risques;
+* surveiller et évaluer le rendement de la fonction d'audit interne;
+* conseiller le surintendant au sujet du recrutement, de la nomination et du rendement du dirigeant principal de l'audit (DPA);
+* examiner et recommander à des fins d'approbation les rapports d'audit interne et les plans d'action correspondants proposés par la direction pour donner suite aux recommandations;
+* examiner les rapports d'usage sur les progrès au regard du plan d'audit interne fondé sur les risques, et être informé des missions ou des tâches d'audit interne qui ne donnent pas lieu à la présentation d'un rapport au Comité, ainsi que de toutes les questions importantes découlant de ces travaux.
+
+#### Suivi des plans d'action de la direction
+
+Le Comité examine les rapports d'usage sur la mise en œuvre des plans d'action approuvés que la direction a élaborés pour donner suite aux recommandations découlant d'audits internes et aux conclusions de prestataires externes de services d'assurance.
+
+#### Prestataires externes de services d'assurance
+
+En ce qui concerne les prestataires externes de services d'assurance, le Comité doit être informé de ce qui suit et conseiller le surintendant à cet égard :
+
+* tous les travaux d'audit concernant le BSIF que doivent effectuer les prestataires externes de services d'assurance, y compris la réponse de la direction;
+* toutes les questions et les priorités d'audit soulevées par les prestataires externes de services d'assurance.
+
+#### Auditeur externe
+
+En ce qui a trait à l'auditeur externe, le Comité doit exercer une supervision efficace des travaux de ce dernier de façon à contribuer à la qualité globale de l'audit tout en sauvegardant l'indépendance de l'auditeur externe, à se tenir informé et à pouvoir conseiller le surintendant au sujet des travaux de l'auditeur externe.
+
+De façon plus précise, les fonctions du Comité se déclinent comme suit :
+
+* examiner le rendement de l'auditeur externe et fournir des conseils à ce sujet;
+* examiner le plan d'audit des états financiers et fournir des conseils à ce sujet;
+* examiner la pertinence des arrangements à l'appui de l'audit des états financiers;
+* prendre connaissance des lettres de l'auditeur externe à la direction.
+
+#### États financiers et rapports des comptes publics
+
+Le Comité :
+
+* examine les principaux rapports de gestion financière du BSIF et les informations à fournir, y compris les rapports financiers trimestriels, les états financiers annuels et les comptes publics, et conseille le surintendant à ce sujet;
+* examine également la Déclaration annuelle de responsabilité de la direction, y compris les contrôles internes applicables aux rapports financiers, et conseille le surintendant sur les plans d'évaluation fondés sur les risques et les résultats connexes concernant l'efficacité du système des contrôles internes du BSIF applicables aux rapports financiers
+
+S'agissant des états financiers du BSIF qui sont audités, le Comité doit examiner :
+
+* les états financiers en collaboration avec l'auditeur externe et la haute direction et discuter de toute estimation comptable importante et des corrections s'y rapportant, de toute correction devant être apportée aux états financiers à la suite de l'audit, ainsi que de toute difficulté ou de tout différend avec la direction survenu durant l'audit;
+* les lettres de recommandation découlant de l'audit externe;
+* les constatations et les recommandations de l'auditeur au sujet des contrôles internes mis en place pour la production des rapports financiers et en passer en revue les répercussions sur les processus de contrôle, de gestion des risques et de gouvernance.
+
+#### Rapports sur la reddition de comptes
+
+Le Comité obtient et examine :
+
+* des copies du plan ministériel du BSIF, du rapport sur les résultats ministériels et d'autres rapports importants sur la reddition de comptes. Le Comité examine ces rapports afin d'établir le contexte de ses délibérations et de fournir des conseils au surintendant;
+* à titre d'information les plans et les rapports produits par la fonction d'évaluation du BSIF.
+
+### Suivi et rapports
+
+#### Évaluation annuelle du Comité ministériel d'audit
+
+Les membres indépendants du Comité évaluent leur rendement sur une base annuelle; ils doivent notamment :
+
+* remplir un questionnaire d'autoévaluation pour mesurer leur rendement et cerner les lacunes, au besoin;
+* se réunir pour discuter des résultats de l'autoévaluation;
+* rencontrer l'administrateur général pour lui communiquer les résultats de la discussion et obtenir des commentaires au sujet de leur rendement.
+
+### Gouvernance
+
+#### Composition
+
+* Les comités d'audit doivent être composés en majorité de membres externes recrutés en dehors de l'administration publique fédérale. Seuls ceux qui actuellement occupent des fonctions au niveau d'administrateur général de l'administration publique fédérale peuvent faire partie des comités comme membres.
+* Le Comité est composé au moins de trois membres. Le surintendant est membre d'office du Comité.
+* Tous les membres du Comité ministériel d'audit recrutés à l'externe doivent avoir une connaissance raisonnable des rapports financiers du secteur privé ou public ou prendre les mesures nécessaires pour se familiariser avec ces rapports durant la première année suivant leur nomination. Au moins un des membres recrutés à l'externe doit être un expert financier qui possède un titre comptable professionnel.
+* On s'attend à ce que le dirigeant principal des finances (DPF) et le DPA assistent à toutes les réunions du Comité.
+* Le président peut exiger la présence d'autres représentants du BSIF ou du Bureau du contrôleur général (BCG) dans des situations où leur participation alimenterait la discussion du Comité.
+* Le président invite, s'il y a lieu, des représentants des prestataires externes de services d'assurance aux réunions du Comité pour discuter des plans, des constatations et d'autres questions d'intérêt mutuel.
+
+#### Activités
+
+* Le rôle, les responsabilités et les activités du Comité sont documentés dans une charte ou un mandat du Comité ministériel d'audit approuvé, revu périodiquement par le Comité et reconfirmé par le surintendant.
+* Le président du Comité, en consultation avec les autres membres du Comité, prépare un plan à l'intention du surintendant, qui garantit que les responsabilités du Comité sont pleinement prises en compte et assumées.
+* Le Comité se réunit selon un calendrier prédéterminé, approuvé pour chaque nouvel exercice. Le Comité peut modifier le calendrier au cours de l'année, à la demande du président ou du surintendant.
+* Une majorité simple des membres constitue le quorum du Comité ou des sous-comités d'audit. Il ne peut y avoir de remplaçants.
+* En cas d'absence du président à une réunion, l'un des membres du Comité choisi pour agir par le surintendant préside la séance et peut exercer tous les pouvoirs du président.
+* Durant chacune de ses réunions, le Comité tient normalement une rencontre individuelle à huis clos avec le DPF du BSIF, le DPA, des représentants des prestataires externes de services d'assurance, s'ils sont présents, et tout autre représentant que le Comité souhaite rencontrer.
+
+### Qualifications
+
+#### Qualifications des membres du Comité ministériel d'audit du BSIF
+
+Les membres du Comité doivent avoir les connaissances et l'expérience de haut niveau qui suivent, tel qu'il a été déterminé par le BSIF, pour son Comité ministériel d'audit :
+
+* Connaissance / expérience du domaine financier
+  + États financiers
+  + Rapports financiers internes
+  + Normes internationales d'information financière (IFRS)
+* Connaissance / expérience confirmée du fonctionnement du secteur des services financiers
+  + Institutions de dépôt
+  + Assurance vie
+  + Assurance multirisque
+  + Régimes de retraite
+  + Activités bancaires de placement
+* Connaissance / expérience des enquêtes / des audits axés sur les risques
+  + NVGR / Normes de l'Institut des vérificateurs internes (IIA)
+  + Politique sur l'audit interne et Directive sur l'audit interne du Conseil du Trésor
+  + Cadre de surveillance
+  + Plans / rapports d'audit axé sur les risques
+* Connaissance / expérience de la réglementation
+  + Cadre de règles
+  + Approches / outils de réglementation
+* Connaissance générale des affaires
+  + Risque / Gestion des risques
+  + Mesure du rendement
+  + Contrôles
+  + Gouvernance (y compris la planification et les rapports intégrés)
+  + Élaboration de stratégies
+  + Communication (médias, gouvernement, organismes de réglementation étrangers)
+  + Droit contractuel de base / activités opérationnelles
+* Compétences générales des membres du Comité ministériel d'audit
+  + Indépendance et objectivité
+  + Aptitude à communiquer
+
+## Membres du Comité ministériel d'audit
+
+Robert (Bob) Samels, Président du Comité ministériel d'audit
+
+Robert Samels est un dirigeant expérimenté et membre du conseil d'administration d'organismes publics et sans but lucratif. Il a travaillé pendant longtemps dans l'industrie du pétrole et du gaz et a notamment occupé des postes de direction dans une société cotée en bourse. Il a aussi travaillé en qualité d'associé chez PricewaterhouseCoopers.
+
+Ancien président du Comité consultatif de contrôle indépendant de l'Organisation mondiale de la santé, il est actuellement membre du Comité d'audit du Programme alimentaire mondial; membre du Comité d'audit et des finances de l'organisme Le fonds mondial; et membre du comité d'audit de l'Organisation pour la sécurité et la coopération en Europe.
+
+M. Samels est titulaire d'un baccalauréat ès arts (économie) et d'un baccalauréat en commerce (comptabilité) de l'Université du Manitoba. Comptable professionnel agréé, il a suivi le programme Processus et leadership (*Process and Leadership*) de l'École d'études administratives d'Harvard.
+
+Le Conseil du Trésor du Canada a nommé M. Samels au comité d'audit du BSIF en novembre 2022.
+
+David Dominy
+
+David Dominy compte plus de 25 ans d'expérience à titre de chef de la direction de sociétés ouvertes et fermées, ainsi que d'une société d'État provinciale. Parmi ses domaines d'expertise dans le secteur financier, on peut citer le courtage en devises, les paiements mondiaux, les services bancaires d'investissement, les services bancaires commerciaux, la réglementation financière, la gestion du risque, les services pétroliers et gaziers, le transport et le traitement du gaz, la distribution et la fabrication. Plus récemment, de 2014 à 2022, il a été PDG de FIRMA Foreign Exchange, où il a mené avec succès le redressement, la recapitalisation et, au bout du compte, la vente de l'entreprise à la société OFX, située à Sydney, pour un montant de 90 millions de dollars. En tant que chef de la direction de la filiale d'une société de capital-risque d'entreprise, il a dirigé le démarrage – et présidé le premier conseil d'administration – de 5 sociétés dans les secteurs des services de pipelines et de la technologie.
+
+Il a aussi occupé des postes d'administrateur au sein de plus de 50 organisations, dont des organismes à but non lucratif, des sociétés fermées, des sociétés ouvertes et des sociétés d'État, où il a exercé les fonctions de président du conseil, président du comité d'audit et des finances, président du comité de gouvernance, président du comité des ressources humaines et président du comité des risques d'entreprise. Il est actuellement membre du conseil d'administration de la Banque du Canada, où il siège aux comités des régimes de retraite et des ressources humaines.
+
+David contribue activement à de multiples organismes de bienfaisance à l'échelle locale, notamment en tant que membre de la Fondation de l'Université de Winnipeg, président de la Stollery Children's Hospital Foundation, président du comité d'audit de la Military Museums Foundation à Calgary, et membre fondateur du comité consultatif des petites et moyennes entreprises de l'École d'administration des affaires de l'Université de l'Alberta, où il a également été chargé de cours en gouvernance financière et en efficacité des comités d'audit pendant 7 ans.
+
+David est titulaire d'une maîtrise en gestion (comptabilité, finance et économie) de la J. L. Kellogg School of Management (1980) et d'un baccalauréat en mathématiques de l'Université de Winnipeg (1978). Il détient également le titre d'administrateur agréé (IAS.A) de l'Institut des administrateurs de sociétés du Canada.
+
+Spécialités : planification stratégique, finance d'entreprise, marchés financiers, services bancaires commerciaux, gouvernance de conseil, gestion du risque, réglementation du secteur financier et services pétroliers et gaziers
+
+Kathryn Bouey
+
+Kathryn (Kathy) Bouey possède une vaste expérience de la gouvernance et de la reddition de comptes, acquise dans le cadre de ses fonctions d'administratrice de sociétés et de cadre supérieure. Elle est la présidente fondatrice de TBG Strategic Services, une petite société de conseil en gestion qui fournit différents services visant à soutenir les cadres supérieurs et les conseils d'administration du secteur public. Plus tôt dans sa carrière, elle a occupé différents postes de haute direction au sein du gouvernement de l'Ontario, pour terminer sous-ministre du Secrétariat du Conseil de gestion et secrétaire du Conseil de gestion du gouvernement.
+
+Elle a siégé aux conseils d'administration de l'Autorité ontarienne de réglementation des services financiers, du Conseil de direction de l'Agence du revenu du Canada, d'Hydro One, d'Ontario Power Generation, de SPRINT Senior Care, du St. Joseph's Health Centre (Toronto), du Sheridan College, de la Commission du Régime de retraite des fonctionnaires de l'Ontario et de la CCAF-FCVI Inc. (anciennement Fondation canadienne pour la vérification intégrée).
+
+Kathy est titulaire d'une maîtrise ès arts en économie et d'un baccalauréat ès arts avec spécialisation en mathématiques et mineure en économie, tous deux obtenus à l'Université Carleton. Elle détient également les titres d'administratrice agréée (IAS.A) de l'Institut des administrateurs de sociétés du Canada et de CMC (consultante certifiée en gestion).
+
+Yves Gauthier
+
+Yves Gauthier a mené des missions d'audit et fourni des services de conseil dans les secteurs public et privé durant sa longue carrière à KPMG. En qualité d'associé, il était chargé d'évaluer la pratique professionnelle d'audit interne et de gestion du risque au Québec.
+
+M. Gauthier est membre de divers conseils d'administration et comités d'audit des paliers fédéral, provincial et municipal. À l'heure actuelle, il siège au comité d'audit de Patrimoine canadien et dernièrement, il présidait celui du ministère de la Justice du Canada. Il est aussi membre du conseil d'administration et du comité d'audit du Musée d'art contemporain de Montréal, de même que membre du conseil d'administration, président du comité d'audit et des finances et trésorier de l'Institut de recherche en biologie végétale.
+
+M. Gauthier est titulaire d'un baccalauréat en administration des affaires de HEC Montréal, d'un diplôme (certificat de deuxième cycle) en gestion de l'environnement de la faculté des sciences de l'Université de Sherbrooke, et d'un certificat IAS.A. du Programme de perfectionnement des administrateurs de l'Institut des Cadres et de l'Université McGill. Il détient aussi une attestation professionnelle à titre de directeur financier reconnu par l'Organisme canadien de réglementation du commerce des valeurs mobilières et d'un baccalauréat ès arts du Collège Jean de Brébeuf. En outre, il est Fellow de CPA Canada.
+
+Le Conseil du Trésor du Canada a nommé M. Gauthier au comité d'audit du BSIF en novembre 2022.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-01-18

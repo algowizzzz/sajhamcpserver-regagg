@@ -1,0 +1,132 @@
+# Réponses du BSIF aux commentaires reçus dans le cadre de la consultation sur la version à l’étude de la ligne directrice B-15
+
+## Propriétés du document
+
+**Type de publication :** Sommaire des résultats  
+**Date :**7 mars 2023
+
+## A. Introduction
+
+En mai 2022, le Bureau du surintendant des institutions financières (BSIF) a publié une version à l’étude de sa ligne directrice B-15, Gestion des risques climatiques, (« la ligne directrice ») pour consultation publique. La ligne directrice énonce les attentes du BSIF à l’égard de la gestion des risques climatiques par les institutions financières fédérales (IFF). Elle vise à aider les IFF à accroître leur résilience face à ces risques et à mieux les gérer.
+
+Le BSIF a reçu plus de 4 300 réponses d’un large éventail de parties interrogées, notamment des IFF, des régimes de retraite fédéraux (RRF), des entités non réglementées et autres organismes, et des particuliers. On trouvera le nombre de réponses par type de partie interrogée au tableau 1.
+
+Tableau 1 : Parties interrogées
+
+| Provenance des réponses | Total |
+| --- | --- |
+| IFF, RRF et associations sectorielles | 27 |
+| Entités non réglementées et autres organismes | 26 |
+| Particuliers | 4 342 |
+| **Total** | **4 395** |
+
+Le BSIF tient à remercier toutes les parties qui ont formulé des commentaires.
+
+## B. Contexte
+
+Les changements climatiques et la réponse de la communauté internationale aux menaces qu’ils posent pourraient avoir des répercussions importantes sur la sûreté et la solidité des institutions financières fédérales (IFF), et sur le système financier dans son ensemble. Ces risques, qu’on appelle « risques liés aux changements climatiques » ou « risques climatiques », peuvent se manifester sur différents horizons temporels et sont susceptibles de s’intensifier avec le temps, surtout si la transition de l’économie mondiale se fait de manière désordonnée. Ils peuvent non seulement engendrer des risques financiers, comme les risques de crédit, de marché, d’assurance et de liquidité, mais aussi des risques stratégiques, opérationnels et d’atteinte à la réputation. Dans des cas graves, les risques climatiques peuvent menacer la viabilité à long terme du modèle d’affaires d’une IFF.
+
+Pour renforcer leur résilience face aux risques climatiques, les IFF doivent tenir compte des vulnérabilités de leur modèle d’affaires, de l’ensemble de leurs activités et, en fin de compte, de leur bilan. Il leur faut donc adopter des approches prospectives qui sont globales, intégrées et fondées sur des données empiriques fiables et des analyses solides.
+
+Comme il l’indique dans sa lettre de janvier 2022 qui présente ses [sept projets liés au climat](/fr/consignes/repertoire-consignes/parfaire-connaissances-capacites-institutions-financieres-federales-en-matiere-gestion-risques "Parfaire les connaissances et les capacités des institutions financières fédérales en matière de gestion des risques financiers liés au climat"), le BSIF a pour principal objectif de soutenir les IFF dans leurs efforts visant à parfaire leurs connaissances et leurs capacités en matière de gestion des risques financiers en lien avec les changements climatiques. La publication de la ligne directrice contribue à la réalisation de cet objectif en établissant des attentes qui visent, d’une part, à améliorer l’état de préparation des IFF au chapitre de la gestion des risques climatiques et, d’autre part, à renforcer la sûreté et la solidité de ces institutions.
+
+## C. Prochaines étapes
+
+Le BSIF convient que les pratiques de gestion des risques climatiques et de communication d’informations financières en lien avec les changements climatiques évoluent. S’il peut être difficile de prendre des mesures dès maintenant, il serait encore plus risqué d’attendre compte tenu de l’évolution du paysage des changements climatiques et de leurs possibles répercussions sur la sûreté et la solidité des IFF et, par ricochet, sur le système financier dans son ensemble.
+
+Conscient de l’urgence d’agir et de la nature évolutive des pratiques de gestion des risques climatiques, le BSIF publie aujourd’hui la première mouture de [la version finale de sa ligne directrice B‑15](/fr/consignes/repertoire-consignes/bsif-publie-version-finale-ligne-directrice-b-15-donne-suite-commentaires-recus-dans-cadre "Le BSIF publie la version finale de la ligne directrice B-15 et donne suite aux commentaires reçus dans le cadre des consultations"), qu’il entend réexaminer et modifier à mesure que les pratiques évoluent et qu’on parvient à une certaine uniformité des normes. Parmi les modifications possibles, on peut citer le peaufinage du chapitre 2 de la ligne directrice à la lumière de la version finale de la norme IFRS S2, Informations à fournir en lien avec les changements climatiques, du Conseil des normes internationales d’information sur la durabilité.
+
+## D. Principaux thèmes issus de la consultation
+
+Bien que le BSIF ait reçu un vaste éventail d’observations et de recommandations à examiner, pour l’essentiel, les commentaires des parties interrogées s’articulent autour de quatre grands thèmes :
+
+* Approche du BSIF à l’égard des risques climatiques
+* Attentes du BSIF en matière de communication d’informations financières en lien avec les changements climatiques
+* Prise en compte du principe de proportionnalité et de considérations quant à l’importance relative dans la ligne directrice
+* Adéquation des exigences de fonds propres et de liquidités en lien avec les changements climatiques
+
+On trouvera ci-après une synthèse des commentaires reçus dans le cadre de la consultation publique ainsi que les réponses du BSIF.
+
+### 1. Approche du BSIF à l’égard des risques climatiques
+
+De manière générale, les parties interrogées souscrivent à l’approche stratégique fondée sur des principes qui a été adoptée par le BSIF au chapitre des risques climatiques. Toutefois, bon nombre d’entre elles recommandent au BSIF d’établir des règles qui engagent les IFF, plutôt que des consignes. Elles suggèrent au BSIF de pousser davantage les IFF à aborder les risques climatiques dans une optique de double importance relative. Elles invitent également le BSIF à établir des règles plus strictes pour ce qui est des exigences de fonds propres et des plans de transition, ainsi que des règles permettant d’assurer que les activités de financement des banques cadrent avec les droits des peuples autochtones et respectent ces droits. Voici des exemples de recommandations formulées :
+
+* Imposer des sanctions prudentielles aux IFF qui compromettent ou retardent l’affectation de fonds propres à des projets d’infrastructure conçus pour faire face ou remédier aux risques climatiques
+* Établir et imposer des coefficients de pondération du risque plus élevés pour les actifs qui ne sont pas arrimés aux engagements climatiques du Canada
+* Fixer des limites concrètes pour ce qui est du financement des combustibles fossiles et faire peser des conséquences sur les institutions qui enfreignent la réglementation
+* Exiger des institutions financières qu’elles soumettent des plans climatiques arrimés à l’objectif de limite du réchauffement climatique à 1,5℃ et comportant des objectifs quinquennaux intermédiaires, et imposer des sanctions en cas de non‑conformité
+
+#### Réponse du BSIF
+
+Le BSIF envisage la gestion des risques climatiques sous l’angle de son mandat législatif. De fait, le BSIF contribue à renforcer la confiance du public dans le système financier canadien grâce à ses activités de réglementation et de surveillance des IFF et des RRF.
+
+Les consignes du BSIF sont généralement exprimées sous forme de principes et assorties d’attentes qui peuvent être appliquées de façon proportionnelle à des IFF et à des RRF dont la taille, le profil de risque, ainsi que la nature et la complexité des activités sont variables. En exprimant ses consignes, autant que possible, sous forme de principes, le BSIF cherche avant tout à faire en sorte que les IFF et les RRF obtiennent de bons résultats en matière de gestion des risques plutôt qu’ils se conforment à des règles détaillées. Au chapitre de la réglementation, les consignes reposent sur une surveillance rigoureuse axée sur le risque et sur le jugement éclairé des surveillants qui privilégient une intervention rapide. Lorsque le BSIF décèle des lacunes dans le cadre de ses activités de surveillance, il avise rapidement les IFF qui présentent des défaillances importantes et il prend des mesures correctives, ou exige que des mesures soient prises, pour régler rapidement la situation.
+
+Le BSIF poursuit son examen du cadre de fonds propres réglementaires pour déterminer si ce dernier permet de cerner les caractéristiques singulières des risques climatiques. Par ailleurs, il prépare un exercice normalisé d’analyse de scénarios climatiques à l’intention des IFF et étend ses activités de mobilisation à un groupe varié d’intervenants dans le cadre de sa stratégie d’atténuation des risques climatiques.
+
+### 2. Attentes du BSIF en matière de communication d’informations financières en lien avec les changements climatiques
+
+Les parties interrogées conviennent que la communication d’informations financières en lien avec les changements climatiques est importante sur le plan de la transparence. Toutefois, elles suggèrent au BSIF de différer l’entrée en vigueur de la ligne directrice pour les raisons qui suivent.
+
+**Arrimer les attentes en matière de communication d’informations, et les échéances, à celles des organismes de normalisation et de réglementation compétents, et à des projets de premier plan**
+:   Pour favoriser la cohérence et la comparabilité des informations à fournir, certaines parties ont demandé au BSIF de reporter d’au moins un an l’entrée en vigueur de la ligne directrice afin qu’il puisse arrimer ses attentes en matière de communication d’informations, et les échéances de mise en œuvre, à celles de différents organismes de normalisation (Conseil des normes internationales d’information sur la durabilité, Conseil canadien des normes d’information sur la durabilité), à celles d’autres organismes de réglementation canadiens (organismes relevant des Autorités canadiennes en valeurs mobilières [ACVM]), et à des projets de premier plan (projets du Partnership for Carbon Accounting Financials et de la Glasgow Financial Alliance for Net Zero), une fois que les entités en question auront mis la dernière main à leurs consignes ou à leurs cadres.
+
+**Permettre une approche itérative et progressive à l’égard de la communication d’informations**
+:   Certaines parties soulignent des difficultés liées aux données et aux méthodes qui entravent la communication d’informations fiables et complètes, et recommandent au BSIF d’accepter, dans un premier temps, des informations qualitatives et de permettre aux IFF d’accroître le niveau d’informations quantitatives au fil du temps.
+
+**Réduire la possibilité de conséquences imprévues découlant de la communication d’informations**
+:   Compte tenu des limites des données climatiques actuelles et du caractère embryonnaire des méthodes et des mesures, certaines parties estiment que la communication prématurée d’informations pourrait être contre‑productive et accroître le risque de prendre de mauvaises décisions. D’autres parties craignent que certaines attentes du BSIF en matière de communication d’informations figurant dans la version à l’étude de la ligne directrice ne minent la compétitivité de certaines IFF. Enfin, plusieurs parties suggèrent au BSIF d’intégrer des règles d’exonération pour les déclarations prospectives et d’arrimer ces règles à celles des ACVM.
+
+    Nombre de parties recommandent en outre au BSIF d’adopter la définition d’*importance relative* figurant dans les normes internationales d’information financière (IFRS), de faire coïncider le calendrier de communication et le type de rapport utilisé pour communiquer les informations avec ceux des états financiers des IFF, d’exiger une assurance par audit, et de permettre aux IFF de tirer parti des informations financières en lien avec les changements climatiques communiquées par la société mère qui n’est pas une IFF pour répondre aux exigences de la ligne directrice.
+
+#### Réponse du BSIF
+
+Le BSIF est d’accord avec ces commentaires et cherchera à parfaire ses attentes en matière de communication d’informations pour les arrimer à celles du Conseil des normes internationales d’information sur la durabilité. Le BSIF estime que les IFF doivent, dans les meilleurs délais, faire preuve de transparence quant aux risques climatiques auxquels elles sont exposées et à la manière dont elles gèrent ces risques afin de renforcer la confiance du public dans le système financier canadien. Les attentes en matière de communication énoncées dans la ligne directrice ont pour but de favoriser cette transparence en exigeant que toutes les IFF visées communiquent ces informations.
+
+Si le BSIF est conscient qu’il peut être difficile pour les IFF de s’y retrouver dans le paysage en constante évolution des informations à fournir en lien avec les changements climatiques, il n’en demeure pas moins qu’il attend des IFF qu’elles peaufinent et renforcent leurs pratiques à cet égard. Le BSIF s’efforce donc de publier des consignes sur la communication d’informations qui, d’une part, répondent aux besoins des utilisateurs, lesquels demandent aux institutions de faire preuve de transparence dans les meilleurs délais et, d’autre part, favorisent l’amélioration des informations communiquées par les IFF au fil du temps.
+
+### 3. Prise en compte du principe de proportionnalité et de considérations quant à l’importance relative dans la ligne directrice
+
+Certaines parties interrogées demandent au BSIF de prendre en compte le principe de proportionnalité dans l’ensemble de la ligne directrice pour offrir de la souplesse aux IFF dont le profil de risque, la taille, la complexité des activités et les expositions sont variables. Elles font remarquer que, en l’état, les attentes peuvent représenter un coût trop important pour les institutions de plus petite taille dont les expositions aux risques climatiques sont très limitées ou peu importantes. Parmi ces attentes, on peut citer celles ayant trait à la communication d’informations financières en lien avec les changements climatiques, au plan de transition climatique, aux données sur les risques climatiques à cerner, recueillir et utiliser, et à l’analyse de scénarios climatiques. Les parties recommandent également au BSIF de mettre en œuvre la ligne directrice de manière progressive.
+
+Certaines parties estiment par ailleurs que la ligne directrice ne devrait s’appliquer qu’aux risques climatiques importants. Elles demandent en outre au BSIF d’offrir plus de souplesse et de temps aux IFF, particulièrement à celles de plus petite taille, pour qu’elles puissent mesurer leurs émissions de gaz à effet de serre (GES) du champ d’application 3 et en rendre compte, étant donné que l’importance relative de ces émissions devrait orienter la façon dont les IFF gèrent les risques climatiques.
+
+#### Réponse du BSIF
+
+Comme il est précisé dans la ligne directrice, il n’y a pas d’approche universelle en matière de gestion des risques climatiques compte tenu de la singularité des risques et des vulnérabilités qui varient selon la taille de l’IFF, la nature, la portée et la complexité de ses activités, et son profil de risque. Conformément à son approche fondée sur des principes à l’égard de l’élaboration de politiques de réglementation et de la surveillance, le BSIF tiendra compte du principe de proportionnalité au moment d’évaluer la conformité des IFF à la version finale de la ligne directrice.
+
+Pour ce qui est de l’importance relative, le cadre de gestion de la propension à prendre des risques (CGPPR) de l’IFF devrait orienter les activités de prise de risques de cette dernière en tenant compte de son profil de risque, conformément à la ligne directrice [Gouvernance d’entreprise](/fr/consignes/repertoire-consignes/gouvernance-dentreprise-ligne-directrice-2018#toc_III-ii "Gouvernance d’entreprise – Ligne directrice (2018)"). Le CGPPR doit tenir compte des risques importants qui pèsent sur l’IFF et de la réputation de l’institution auprès des titulaires de police, des déposants, des investisseurs et des clients.
+
+Il convient de préciser que les risques climatiques sont des risques financiers qui pourraient se matérialiser au-delà de l’horizon de planification standard d’une IFF, ce qui pourrait rendre leur quantification difficile en raison d’une insuffisance de données empiriques, de mesures et de techniques de modélisation. Comme le démontre le [projet pilote de 2022 de la Banque du Canada et du BSIF (PDF)](https://www.banqueducanada.ca/wp-content/uploads/2021/11/BdC-BSIF-Utiliser-lanalyse-de-scenarios-pour-evaluer-les-risques-lies-a-la-transition-climatique.pdf), la transition vers une économie à faibles émissions de GES comportera des risques importants pour certains secteurs économiques, quel que soit le scénario, et une mauvaise évaluation des risques de transition pourrait exposer les institutions financières et les investisseurs à des pertes soudaines et importantes. Si certaines IFF peuvent avoir évalué que les risques climatiques auxquels elles sont exposées ne sont pas importants d’après les données, les mesures et les méthodes existantes, cela pourrait changer à mesure que l’environnement externe, les données, les mesures et les méthodes évoluent.
+
+### 4. Adéquation des exigences de fonds propres et de liquidités en lien avec les changements climatiques
+
+Certaines parties interrogées estiment que le cadre de fonds propres actuel du BSIF et les consignes qui s’y rattachent (lignes directrices E-19, [Processus interne d’évaluation de l’adéquation des fonds propres [PIEAFP]](/fr/consignes/repertoire-consignes/processus-interne-devaluation-ladequation-fonds-propres-pieafp-pour-institutions-depots-ligne "Processus interne d’évaluation de l’adéquation des fonds propres (PIEAFP) pour les institutions de dépôts – Ligne directrice (2010)"), et [Évaluation interne des risques et de la solvabilité [dispositif ORSA]](/fr/consignes/repertoire-consignes/evaluation-interne-risques-solvabilite "Évaluation interne des risques et de la solvabilité")) conviennent pour évaluer les exigences de fonds propres au titre des risques climatiques. Si ces parties sont favorables à l’approche du BSIF, elles mentionnent certains obstacles à prendre en considération :
+
+* Les parties font remarquer que l’horizon temporel des scénarios climatiques peut être beaucoup plus long (30 ans) que ceux habituellement utilisés pour la planification standard des fonds propres aux fins du dispositif ORSA et du PIEAFP (un à trois ans).
+* Certaines parties indiquent que des difficultés liées aux données, aux méthodes et aux mesures associées à l’analyse de scénarios climatiques peuvent donner lieu à des résultats incomplets au chapitre de la détermination des fonds propres fondés sur le risque et avoir des répercussions imprévues sur les fonds propres.
+* Certaines parties soulignent que le risque de liquidité n’est pas un risque principal pour le secteur de l’assurance, tandis que d’autres se demandent s’il est nécessaire que la ligne directrice comporte un chapitre distinct sur les fonds propres et les liquidités, sachant que les consignes et les cadres existants sur les fonds propres leur semblent appropriés.
+* Certaines parties souhaitent que le BSIF adopte une approche plus normative et qu’il fournisse davantage de consignes dans ses attentes sur les fonds propres et les liquidités en lien avec les changements climatiques.
+
+D’autres parties se déclarent en faveur de mesures immédiates à l’égard des fonds propres, comme l’imposition d’exigences de fonds propres réglementaires plus élevées sur les actifs à fortes émissions de GES pour tenir compte des risques que font peser ces actifs sur le système financier, risques qui ne peuvent être réglés à l’échelle de l’institution.
+
+#### Réponse du BSIF
+
+Le BSIF poursuit son examen du cadre de fonds propres réglementaires pour déterminer si ce dernier permet de cerner les caractéristiques singulières des risques financiers en lien avec les changements climatiques. Sachant que les risques climatiques auxquels une IFF est exposée varient en fonction des circonstances spécifiques de celle‑ci, le BSIF s’attend à ce que les IFF continuent d’évaluer et de mesurer leurs fonds propres disponibles pour se protéger contre les risques importants, notamment les risques climatiques, et à ce qu’elles tiennent compte de leurs évaluations dans le cadre du PIEAFP, pour les banques, ou du dispositif ORSA, pour les assureurs.
+
+Pour ce qui est du risque de liquidité dans le secteur de l’assurance, même si la nature et la pertinence du risque de liquidité varieront selon les expositions de chaque assureur, ce risque peut constituer un risque principal en raison des risques physiques et de transition. Par exemple, les assureurs peuvent devoir faire face à de soudaines sorties de trésorerie en raison de la fréquence et de la gravité croissantes des catastrophes naturelles. Non seulement ces catastrophes peuvent‑elles causer des dommages généralisés aux actifs de l’assureur, mais elles peuvent aussi se traduire par une volatilité des résultats techniques liés aux sinistres. Les assureurs pourraient également devoir face à des risques de liquidité en raison de leur exposition à des actifs échoués, ce qui peut se solder par des ressources liquides inadéquates et par la nécessité de se défaire de ces actifs à des conditions défavorables.
+
+## E. Conclusion
+
+Le BSIF tient à remercier toutes les parties qui ont formulé des commentaires. Tandis qu’il poursuit ses travaux sur les [sept projets liés au climat](/fr/consignes/repertoire-consignes/parfaire-connaissances-capacites-institutions-financieres-federales-en-matiere-gestion-risques "Parfaire les connaissances et les capacités des institutions financières fédérales en matière de gestion des risques financiers liés au climat"), le BSIF encourage les parties prenantes à s’abonner à son service d’avis par courriel afin de recevoir les prochains points d’étape et de rester informées et mobilisées sur ces projets.
+
+## Liens utiles
+
+* [Le BSIF publie une ligne directrice sur la gestion des risques climatiques](/fr/nouvelles/bsif-publie-ligne-directrice-sur-gestion-risques-climatiques "Le BSIF publie une ligne directrice sur la gestion des risques climatiques")
+* [Le BSIF publie la version finale de la ligne directrice B-15 et donne suite aux commentaires reçus dans le cadre des consultations](/fr/consignes/repertoire-consignes/bsif-publie-version-finale-ligne-directrice-b-15-donne-suite-commentaires-recus-dans-cadre "Le BSIF publie la version finale de la ligne directrice B-15 et donne suite aux commentaires reçus dans le cadre des consultations")
+* [Gestion des risques climatiques](/fr/consignes/repertoire-consignes/gestion-risques-climatiques "Gestion des risques climatiques")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-03-07

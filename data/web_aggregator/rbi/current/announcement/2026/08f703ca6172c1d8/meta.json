@@ -1,0 +1,25 @@
+{
+  "doc_id": "08f703ca6172c1d8",
+  "regulator_id": "rbi",
+  "doc_type": "announcement",
+  "title": "Reserve Bank of India (Commercial Banks - Internal Audit Function) Directions, 2026",
+  "language": "en",
+  "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13640&Mode=0",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_rbi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/rbi/current/announcement/2026/08f703ca6172c1d8",
+  "tags": [
+    "india",
+    "central_bank",
+    "banking"
+  ]
+}

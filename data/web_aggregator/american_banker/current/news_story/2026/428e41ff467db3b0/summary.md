@@ -1,0 +1,1 @@
+Summary: # Global Payments bets on AI to boost point-of-sale reboot

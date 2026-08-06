@@ -1,0 +1,80 @@
+# OSFI-656 – Board of Director Information Return
+
+**Type of Publication:** Instructions  
+**Date:** 2015 Revision
+
+## Authority
+
+The information provided in the Corporate Profile is required pursuant to one or more of the following provisions: sections 628, 632, 950 and 951 of the *Bank Act*, sections 495 and 499 of the *Trust and Loan Companies Act*, sections 549, 664, 668, 993 and 994 of the *Insurance Companies Act*, or sections 431 and 432 of the *Cooperative Credit Associations Act*.
+
+## Applicability
+
+This return only applies to Canadian Domestic Banks and Foreign Bank Subsidiaries, Canadian Life Insurance Companies, Canadian Fraternal Benefit Societies, Canadian Property & Casualty Insurance Companies, Credit Union Centrals, Trust and Loan Companies, and Co-operative Retail Associations.
+
+## General
+
+The Board of Directors, their Affiliate and Non-Affiliate information and the committees of the Board of the Financial Institution provided within the Board of Director Information Return are part of the public register required by governing legislation to be maintained by the Superintendent of Financial Institutions and therefore, the *Privacy Act* allows this information to be disclosed to the public.
+
+All other information (Director's status as an Affiliated Person) provided is protected and is deemed to be personal information.
+
+The personal information you provide to OSFI will be stored in the Personal Information Bank (PIB) (to be registered with Treasury Board Secretariat). Individuals have a right to protection of and access to their personal information stored in each corresponding PIB in accordance with the *Privacy Act* and the A *ccess to Information Act*. Details on these matters are available at the Infosource website (http//infosource.gc.ca) and through the OSFI Call Centre. Info source is also available at public libraries across Canada.
+
+The purpose of this return is to provide the following information for each director and chairperson of the board:  their country of citizenship, their board committee membership(s), their affiliation type, their affiliate and non-affiliate details, whether they are an employee of the Financial Institution or any subsidiary of the Financial Institution as well as their director type.
+
+**NOTE:** Director type applies to Canadian Life Insurance Companies only. This information is to identify which director and/or chairperson is also a policyholder of the Financial Institution.
+
+When it comes to the Board Chairman and Director roles, an individual can only hold 1 of these roles at any given time. It is understood that if an individual is given the role of Board Chairman, this individual is also considered a Director.
+
+This return is based on any and all changes made either at board meetings or information changes throughout the year.
+
+RRS resubmissions are **not** permitted for this return type. If you identify errors in your profile, you are required to call Returns Administration in order to correct the error(s). This includes changes to existing effective dates.
+
+This return is **not** subject to the Late and Erroneous Filing Penalty (LEFP) Framework.
+
+## Filing Deadlines
+
+The return should be filed no later than 30 days after the effective date of change.
+
+## Affiliation Type Definitions
+
+### *Affiliated Persons Regulation*:
+
+For the purposes of section 170 of the *Insurance Companies Act,* section 162 of the *Bank Act*, and section 166 of the *Trust and Loan Companies Act*, a natural person is affiliated with a company where the person
+
+1. is an officer or employee of the company or of an affiliate of the company;
+2. has a significant interest in a class of shares of the company;
+3. has a substantial investment in an affiliate of the company;
+4. is a significant borrower in respect of the company;
+5. is an officer or employee of an entity that is a significant borrower in respect of the company;
+6. controls one or more entities of which the total indebtedness to the company or to an affiliate of the company would cause those entities, if treated as a single entity, to be a significant borrower of the company;
+7. provides goods or services to the company, or is a partner or an employee in a partnership that provides goods or services to the company or an officer or employee of, or a person who has a substantial investment in, a body corporate that provides goods or services to the company, if the total annual billings to the company in respect of the goods and services provided exceeds ten per cent of the total annual billings of the person, partnership or body corporate, as the case may be;
+8. has a loan that is not in good standing from the company or from an affiliate of the company or is a director, an officer or an employee of, or a person who controls, an entity that has a loan that is not in good standing from the company or from an affiliate of the company; or
+9. is the spouse or common-law partner of a person described in any of paragraphs (*a*) to (*h*).
+
+## General Definitions
+
+**"Affiliate"** has the meaning defined in the governing legislation, viz., an entity which is (a)  
+controlled by, or controls, the entity filing these Returns, or (b) is controlled by the same person  
+who controls the entity filing this Return.
+
+**"Affiliated Person"** means a natural person affiliated with the financial institution within the meaning of the *Affiliated Persons Regulations* under the governing legislation.
+
+**"Board"** includes a supreme governing body of a fraternal benefit society.
+
+**"Director"** includes a member of a supreme governing body of a fraternal benefit society.
+
+**"Resident Canadian"** means a natural person who is
+
+1. A Canadian citizen ordinarily resident in Canada,
+2. A Canadian citizen not ordinarily resident in Canada who is a member of a prescribed\* class of persons, or
+3. A permanent resident\*\* within the meaning of subsection 2(1) of the *Immigration and Refugee Protection Act* and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship;
+
+\* Regulations made under the governing legislation prescribe that certain classes of Canadian citizens, not ordinarily resident in Canada, are resident Canadians for the purposes of the governing legislation.  
+\*\* A permanent resident is defined under the *Immigration and Refugee Protection Act* as a person who has acquired permanent resident status in Canada and has not subsequently lost that status under section 46 of such Act.
+
+**"Resident Canadian Directors"** The determination of whether a director is a resident Canadian must be made in accordance with the governing legislation and related legislation. See "Resident Canadian" above.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2015-07-07

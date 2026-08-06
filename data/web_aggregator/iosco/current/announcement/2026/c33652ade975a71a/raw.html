@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta http-equiv="x-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, maximum-scale=1.0, shrink-to-fit=no">
+    <meta name="google-site-verification" content="WfjJRreYRPazKV35O1tQ8m0Y-gT6U3Y1lfDi2NfuSkU">
+    <meta name="msvalidate.01" content="CD5A4FF7C6CDB3562F517D75B77F92B4">
+    <meta name="description" content="International Organization of Securities Commissions (IOSCO)">
+    <meta name="keywords" content="iosco, international organization of securities commissions, global standard setter for the securities sector, standards for securities regulation, objectives and principles of securities regulation, securities markets, supervision of markets, capital markets, emerging markets, derivatives markets, global regulatory reform agenda, cross-border enforcement and exchange of information, international regulatory benchmarks, financial market infrastructures, investor protection, investor education, investor training">
+	
+    
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/select2-bootstrap-5-theme@1.3.0/dist/select2-bootstrap-5-theme.min.css" nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    <link rel="stylesheet" href="/v2/css/fontawesome-6.7.2/css/fontawesome.min.css" nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    <link rel="stylesheet" href="/v2/css/fontawesome-6.7.2/css/brands.min.css" nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    <link rel="stylesheet" href="/v2/css/fontawesome-6.7.2/css/solid.min.css" nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    <link rel="stylesheet" href="/v2/css/style.css?v=1.0.00098" nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous" nonce="VXY6eEVfgqmxkPkvHufRPA=="></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous" nonce="VXY6eEVfgqmxkPkvHufRPA=="></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js" nonce="VXY6eEVfgqmxkPkvHufRPA=="></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js" nonce="VXY6eEVfgqmxkPkvHufRPA=="></script>
+    <script src="/v2/js/mediaPlayer.js?a=20" nonce="VXY6eEVfgqmxkPkvHufRPA=="></script>
+    <script src="/v2/js/popUp.js?v=5" nonce="VXY6eEVfgqmxkPkvHufRPA=="></script>
+    
+    
+    <style nonce="VXY6eEVfgqmxkPkvHufRPA==">
+        @media screen and (min-width: 1200px) { /* only make header fixed for non-mobile breakpoints */
+            body {
+                padding-top: 100px; /* Adjust based on header height */
+            }
+            #header {
+                background-color: #ffffff; /* important, if not lower layers will be seen */
+                box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                z-index: 1000;
+            }
+        }
+
+        #closeVideoButton {
+            text-align: right;
+            padding-bottom:0.5rem;
+        }
+
+        #closeVideoButton > i {
+            line-height: 1.5rem;
+        }
+    </style>
+    
+
+    
+	
+		
+        
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-E98BZZFKD5" nonce="VXY6eEVfgqmxkPkvHufRPA=="></script>
+		<script nonce="VXY6eEVfgqmxkPkvHufRPA==">
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-E98BZZFKD5');
+		</script>
+	
+
+    <script nonce="VXY6eEVfgqmxkPkvHufRPA==">
+        $(function(){
+            let $leftMenu = $("#leftMenu");
+            let $main = $("#main");
+            let pageTitle = $("h1").text();
+            if (pageTitle != null)
+                document.title = pageTitle;
+
+            let configureView = function(event){
+                let headerHeight = $("#header").outerHeight();
+                let footerHeight = $("#footer").outerHeight();
+                let newMainHeight = window.innerHeight - headerHeight - footerHeight;
+                $main.css("min-height", newMainHeight);
+
+                if (event === "load"){
+                    if (window.innerWidth < 768){
+                        $leftMenu.find(".accordion-header button").addClass("collapsed").attr("aria-expanded", "false");
+                        $leftMenu.find(".accordion-collapse").removeClass("show");
+                    }
+                    else {
+                        $leftMenu.find(".accordion-header button").removeClass("collapsed").attr("aria-expanded", "true");
+                        $leftMenu.find(".accordion-collapse").addClass("show");
+                    }
+                }
+            };
+    
+            configureView("load");
+
+            $(window).on("resize", function(){
+                configureView("resize");
+            });
+
+            
+                multimediaLinkPrefix = "";
+            
+
+            let $alertModal = $("#alertModal");
+            alertModal = function(title, body){
+                $alertModal.find(".modal-title").html(title).end().find(".modal-body").html(body).end().modal("show");
+            }
+
+            $("#closeVideoButton").on("mouseover", function(){this.style.color='red';}).on("mouseout", function(){this.style.color='black';});
+        });
+    </script>
+
+    
+    
+<title>Inter-American Regional Committee</title></head>
+<body>
+    <div id="header">
+        <script nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    $(function(){
+        $("#btnMembersArea").on("click", function(e){
+            window.location.href = '/members_area/';
+        })
+        
+    });
+</script>
+
+
+<script nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    document.addEventListener('DOMContentLoaded', function () {
+        const dropdowns = document.querySelectorAll('.dropdown');
+        const mediaQuery = window.matchMedia("(min-width: 1200px)");
+
+        dropdowns.forEach(function (dropdown) {
+            dropdown.addEventListener('mouseenter', function () {
+                if (!mediaQuery.matches) return;
+
+                // Close ALL other open dropdowns first
+                document.querySelectorAll('.dropdown.show').forEach(function (openDropdown) {
+                    if (openDropdown !== dropdown) {
+                        openDropdown.classList.remove('show');
+                        const openMenu = openDropdown.querySelector('.dropdown-menu');
+                        if (openMenu) {
+                            openMenu.classList.remove('show');
+                        } 
+                    }
+                });
+
+                dropdown.classList.add('show');
+                const menu = dropdown.querySelector('.dropdown-menu');
+                if (menu) menu.classList.add('show');
+            });
+
+            dropdown.addEventListener('mouseleave', function () {
+
+                if (!mediaQuery.matches) return; 
+
+                dropdown.classList.remove('show');
+                const menu = dropdown.querySelector('.dropdown-menu');
+                if (menu) {
+                    menu.classList.remove('show');
+                }
+            });
+
+        });
+
+    });
+</script>
+
+<script nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    document.addEventListener("DOMContentLoaded", function () {
+        const submenus = document.querySelectorAll('.dropdown-submenu');
+
+        submenus.forEach(function(submenu) {
+            const toggle = submenu.querySelector('a.dropdown-toggle');
+
+            submenu.addEventListener('mouseenter', function () {
+                if (window.innerWidth >= 1200) {
+                    const menu = submenu.querySelector('.dropdown-menu');
+                    if (menu) menu.classList.add('show');
+                }
+            });
+            submenu.addEventListener('mouseleave', function () {
+                if (window.innerWidth >= 1200) {
+                    const menu = submenu.querySelector('.dropdown-menu');
+                    if (menu) menu.classList.remove('show');
+                }
+            });
+
+            toggle.addEventListener('click', function(e) {
+                if (window.innerWidth < 1200) {
+                    e.preventDefault();
+                    e.stopPropagation(); 
+
+                    const menu = submenu.querySelector('.dropdown-menu');
+                    if (menu) menu.classList.toggle('show');
+                }
+            });
+        });
+
+        // Close all submenus when main dropdown closes
+        const mainDropdowns = document.querySelectorAll('.dropdown');
+        mainDropdowns.forEach(function(dropdown){
+            dropdown.addEventListener('hide.bs.dropdown', function () {
+                const openSubmenus = dropdown.querySelectorAll('.dropdown-menu.show');
+                openSubmenus.forEach(function(menu){
+                    menu.classList.remove('show');
+                });
+            });
+        });
+    });
+</script>
+
+
+<style nonce="VXY6eEVfgqmxkPkvHufRPA==">
+    .navbar-nav a.dropdown-item {
+        font-size: .8rem !important;
+        font-family: "Basis Grotesque Regular", sans-serif !important;
+    }
+
+    .dropdown-submenu {
+        position: relative;
+    }
+    
+    .dropdown-submenu .dropdown-menu {
+        top: 10%;
+        left: 100%;
+        margin-top: -1px;
+    }
+    
+    /* .navbar-nav li:hover > ul.dropdown-menu {
+        display: block;
+    }
+
+    .navbar-nav li.dropdown-submenu:hover > ul.dropdown-menu {
+        display: block;
+    } */
+     
+    
+    
+    .navbar-brand {
+        height: 100px !important;
+    }
+
+    .logo_text > img {
+        margin-top: 5px;
+        width: 102px;
+    }
+
+    .logo_text > div {
+        font-size: .7rem;
+        line-height: .7rem;
+        margin-top: 5px;
+    }
+
+    button.navbar-toggler {
+        border: none;
+        padding: 0;
+        box-shadow: none;
+    }
+</style>
+<nav class="navbar navbar-expand-xl">
+    <div class="container-xxl">
+        <a class="navbar-brand" href="/">
+            <div class="logo_text">
+                <img src="/v2/img/logo/tiny/IOSCO-Logo-RGB-Black.png" alt="IOSCO Logo">
+                <div>International Organization of Securities Commissions</div>
+            </div>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle active" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-current="page">About</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/v2/about/?subsection=about_iosco">About IOSCO</a></li>
+                            <li><a class="dropdown-item" href="/v2/about/?subsection=our-leadership">Our Leadership</a></li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Organizational Structure</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=11">Board</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" class="dropdown-item dropdown-toggle">Committees</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=1">Presidents Committee</a></li>
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=8">Growth and Emerging Markets Committee</a></li>
+                                            <li class="dropdown-submenu">
+                                                <a href="#" class="dropdown-item dropdown-toggle">Regional Committees</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=7">Africa / Middle-East Regional Committee</a></li>
+                                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=6">Asia-Pacific Regional Committee</a></li>
+                                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=4">European Regional Committee</a></li>
+                                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=9">Inter-American Regional Committee</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=2">Affiliate Members Consultative Committee</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=becoming_a_member">Membership</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" class="dropdown-item dropdown-toggle">General Secretariat</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=gs">General Secretariat</a></li>
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=organizational_chart" target="_self">Secretariat Organizational Structure</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Cross-border cooperation</a>
+                                <ul class="dropdown-menu">
+                                    
+                                        <li><a class="dropdown-item" href="/v2/about/?subsection=mmou">MMoU</a></li>
+                                    
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Policy and Standard Setting</a>
+                                <ul class="dropdown-menu">
+                                    
+                                        <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=12">Issuer Accounting, Audit and Disclosure (Committee 1)</a></li>
+                                    
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=13">Regulation of Secondary Markets (Committee 2)</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=14">Regulation of Market Intermediaries (Committee 3)</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Enforcement and the Exchange of Information (Committee 4)</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=15">Committee 4 Information</a></li>
+                                            <li><a class="dropdown-item" href="/members_area/v2/about/?subsection=display_committee&cmtid=15&subSection1=resources">Committee 4 Resources</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=16">Investment Management (Committee 5)</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=17">Credit Rating Agencies (Committee 6)</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=18">Committee on Derivatives (Committee 7)</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=20">Committee on Retail Investors (Committee 8)</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Accounting and Audit Oversight</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=monitoring_group">Monitoring Group</a></li>
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=monitoring_board">Monitoring Board</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a class="dropdown-item" href="/research/?subSection=scrr_members">Committee on Emerging Risks</a></li>
+                                    
+                                    
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Policy and Standard Implementation</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=19">Assessment Committee</a></li>
+                                    
+                                </ul>
+                            </li>
+                                                               
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Media</a>
+                        <ul class="dropdown-menu">
+                            
+                            <li><a class="dropdown-item" href="/v2/media_room/?subsection=media_releases">Media Releases</a></li>
+                            <li><a class="dropdown-item" href="/v2/media_room/?subsection=speeches">Speeches & Articles</a></li>
+                            <li><a class="dropdown-item" href="/v2/media_room/?subsection=audiovisual">Audiovisual</a></li>
+                            
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Publications</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/v2/publications/?subsection=public_reports">Public Reports</a></li>
+                            <li><a class="dropdown-item" href="/v2/publications/?subsection=annual_reports">Annual Reports</a></li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Responses to Consultations</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/v2/publications/?subsection=iosco_comment_letters">Comment Letters by IOSCO</a></li>
+                                    <li><a class="dropdown-item" href="/v2/publications/?subsection=public_comment_letters">Public Comment Letters</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Collaboration with other institutions</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/v2/publications/?subsection=collaboration-FSB">Collaboration with the FSB</a></li>
+                                    <li><a class="dropdown-item" href="/v2/publications/?subsection=agreements_with_other_institutions">Agreements with other Institutions</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=cpmi_iosco">CPMI-IOSCO</a></li>
+                                </ul>
+                            </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Investor Protection</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/i-scan/">International Securities & Commodities Alerts Network (I-SCAN)</a></li>
+                            <li><a class="dropdown-item" href="/v2/investor_protection/?subsection=what_to_do_when_suspecting_a_scam">What to do when suspecting a scam</a></li>
+                            <li><a class="dropdown-item" href="/v2/investor_protection/?subsection=investor_education_gateway">Investor Education Gateway</a></li>
+                            <li><a class="dropdown-item" href="/v2/investor_protection/?subsection=relationship_investment_scams">Relationship Investment Scams</a></li>
+                            <li><a class="dropdown-item" href="/v2/investor_protection/?subsection=other_alerts">Other Alerts</a></li>
+                             
+                        </ul>
+                    </li>
+                    
+                        <li class="nav-item">
+                            <a class="nav-link" role="button" href="/v2/about/?subsection=capacity-building">Capacity Building</a>
+                        </li>
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Events</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/v2/events/?subsection=annual_conferences">Annual Meetings</a></li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Meetings Registration</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/meeting-registration/?subSection=iosco_events&subSection1=meeting_registration&virtual=0">Madrid Meetings</a></li>
+                                    <li><a class="dropdown-item" href="/meeting-registration/?subSection=iosco_events&subSection1=meeting_registration&virtual=1">Virtual Meetings</a></li>
+                                </ul>
+                            </li>
+                            
+                                <li><a class="dropdown-item" href="/v2/events/?subsection=calendar">Calendar</a></li>
+                            
+                            
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" role="button"><span id="btnMembersArea">Members Area</span></a>
+                    </li>
+                </ul>
+                <form class="d-flex mb-3 mb-xl-0" role="search" action="/search/" method="post">
+                    <input type="hidden" name="csrf_token" value="D3EF85193FDDB6E050EE5D5276875B8BA11026AB">
+                    <input name="criteria" class="form-control form-control-sm me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-sm btn-outline-primary" type="submit"><i class="fas fa-magnifying-glass"></i></button>
+                </form>
+            </div>
+        
+    </div>
+</nav>
+    </div>
+
+    
+    <div class="modal" id="alertModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Modal body text goes here.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-sm btn-secondary" data-bs-dismiss="modal" onclick="alertModal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="modal" id="externalLinkModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Modal body text goes here.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-sm btn-secondary" data-bs-dismiss="modal" onclick="externalLinkModal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div id="closeVideoButton">
+                        <i class="fa-regular fa-circle-xmark fa-2xl"></i>
+                    </div>
+                    <div class="ratio ratio-16x9 position-relative">
+                            <iframe class="video-iframe" src="" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>     
+            </div>
+        </div>
+    </div>
+<div id="main" class="p-0">
+	
+
+<div class="container-xxl py-4">
+    <div class="row">           
+        
+            <div class="col-md-12 p-4" id="rightPage">
+        
+                    <h1>Inter-American Regional Committee</h1>
+                    
+                            <p>
+                                The IARC is one of four regional committees constituted by IOSCO to focus on regional issues relating to securities regulation in the Inter-American region. The IARC meets generally in conjunction with the Council of Securities Regulators of the Americas (COSRA).
+                            </p>
+                        
+                        <div class="hr"></div>
+                        <a id="members"></a>
+                        <h2>Members of the Inter-American Regional Committee</h2>
+                    
+                
+                <div id="memberList">
+                    <style nonce="VXY6eEVfgqmxkPkvHufRPA==">
+                        .card {
+                            border-top: 0px solid #dee2e6 !important;
+                            border-left: none !important;
+                            border-right: none !important;
+                            border-bottom: 0px solid #dee2e6 !important;
+                            border-radius: 0 !important;
+                        }
+                    </style>
+                    
+                            <h3>Chair</h3>
+                            <p>Ms. Christina Rolle, Executive Director, Securities Commission of The Bahamas, <strong>Bahamas</strong></p>
+                            
+                                <div class="card">
+                                    <div class="row g-0">
+                                        <div class="col-md-2 mb-sm-3 mb-md-0">
+                                             <img src="/about/chairs/images/tiny/Christina-Rolle-250.jpg" class="img-fluid" alt="Ms. Christina Rolle" style="width:250px">
+                                        </div>
+                                        <div class="col-md-10">
+                                            <div class="card-body ps-0 ps-md-3 pt-3 pt-md-0 pb-md-0">
+                                                
+                                                <p>Ms. Christina R. Rolle is Executive Director of the Securities Commission of The Bahamas, having been appointed 26 January 2015.</p>
+                                                <p>Ms. Rolle holds an MBA from Kellogg School of Management, Northwestern University, an LLM (Corporate and Commercial Law) from the London School of Economics and is an alumna of Harvard Business School. She has more than 30 years of experience in the financial services industry, which includes various senior managerial positions.</p>
+                                                <p>During her tenure at the Securities Commission of The Bahamas, Ms. Rolle has directly overseen the development and enactment of key pieces of legislation, including the Investment Funds Act, 2019; the Financial and Corporate Service Providers Act, 2020; the Digital Assets and Registered Exchanges Act, 2020 and 2024; the Securities Industry Act, 2024; and the Carbon Credit Trading Act, 2022.</p>
+                                                <p>Ms. Rolle has served three terms as Vice Chair of the Inter-American Regional Committee (IARC) and was elected as Chair for the term 2026-2028.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                            <h3>Vice Chair</h3>
+                            <p>Ms. Shanna Lespere, Deputy Chief Executive Officer, Bermuda Monetary Authority, <strong>Bermuda</strong></p>
+                            
+                                <div class="card">
+                                    <div class="row g-0">
+                                        <div class="col-md-2 mb-sm-3 mb-md-0">
+                                             <img src="/about/chairs/images/tiny/Shanna-Lespere-250.jpg" class="img-fluid" alt="Ms. Shanna Lespere" style="width:250px">
+                                        </div>
+                                        <div class="col-md-10">
+                                            <div class="card-body ps-0 ps-md-3 pt-3 pt-md-0 pb-md-0">
+                                                
+                                                <p>As Deputy Chief Executive Officer of the Bermuda Monetary Authority (Authority or BMA), Shanna Lespere provides executive leadership for the BMA’s operational, human capital and regulatory strategies. She supports the Chief Executive Officer in developing recommendations to the Board of Directors and leads the implementation of agreed Board strategies, exercising executive responsibility for the BMA’s business under authority delegated by the Board. Mrs. Lespere joined the BMA in 2004 and has held a range of senior leadership roles across supervision, licensing and operations, including Assistant Director (Investment Group), Director of the Insurance Department, Director of Licensing and Authorisations, Director of Supervision (Insurance – Complex Institutions), Director of International Affairs, and Director of Operations. She was promoted to Chief Operating Officer in 2015 and appointed Deputy CEO in 2022. Prior to the BMA, she was Vice President at Aon Insurance Managers (Bermuda) Ltd. and worked as a Senior Accountant with PricewaterhouseCoopers (Bermuda). Mrs. Lespere is a Chartered Professional Accountant (CPA) of Canada, an FCPA (CPA Bermuda), a Chartered Director, and a Gallup-Certified Strengths Coach.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                            <h3>Board Representative</h3>
+                            <p>Mr. Roberto E. Silva, Chairman, Comisión Nacional de Valores, <strong>Argentina</strong></p>
+                            
+                                <div class="card">
+                                    <div class="row g-0">
+                                        <div class="col-md-2 mb-sm-3 mb-md-0">
+                                            <img src="/about/chairs/images/tiny/Roberto-Silva-250.jpeg" class="img-fluid" alt="Mr. Roberto E. Silva" style="width:250px">
+                                        </div>
+                                        <div class="col-md-10">
+                                            <div class="card-body ps-0 ps-md-3 pt-3 pt-md-0 pb-md-0">
+                                                
+                                                <p>Roberto E. Silva is the Chairman of Argentina’s Securities Commission (CNV). He is a lawyer (University of Buenos Aires) with an LL.M. (University of Illinois) and an expert in capital markets, financing, trusts, banking law, and foreign exchange controls. He currently serves his second term as Board Representative in IOSCO’s  Inter-American Regional Committee (IARC) and is a member of its Finance and Audit Committee (FAC), and a member of the IDB’s FintechLac Executive Committee.  He frequently participates in the OECD’s Corporate Governance and Financial Markets Committees.</p> 
+                                                <p>Mr. Silva was a partner and board member at Marval O'Farrell Mairal (1993-2023) and previously worked at Shearman & Sterling (1991-92). He was Chair of the IBA Banking Law Committee and Secretary of the Argentine Chamber of Trusts and Direct Investment Funds in Productive Activities (CAFIDAP). He also participated in the FATF 4th Round of Mutual Evaluations for Argentina (2024). Likewise, he has been consistently recognized by Chambers and Partners and The Legal 500.</p> 
+                                                <p>He has collaborated with Harvard’s PIFS, UBA, Catholic University of Argentina, Austral and Di Tella Universities, among others.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                        <div class="hr"></div>
+                    
+                        <h3>Members (29)</h3>
+                        
+                                    <p>
+                                        Alberta Securities Commission, <strong>Alberta</strong><br />
+                                        <em>(Mr. Stan Magidson, Chair and CEO)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Comisión Nacional de Valores, <strong>Argentina</strong><br />
+                                        <em>(Mr. Roberto E. Silva, Chairman)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Securities Commission of The Bahamas, <strong>Bahamas</strong><br />
+                                        <em>(Ms. Christina Rolle, Executive Director)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Financial Services Commission, <strong>Barbados</strong><br />
+                                        <em>(Prof. Frank Alleyne, Chairman)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Financial Services Commission, <strong>Belize</strong><br />
+                                        <em>(Mr. Claude Haylock, Director General and Deputy Chairperson / Mr. Franco Destro, Special Counsel to FSC Director General)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Bermuda Monetary Authority, <strong>Bermuda</strong><br />
+                                        <em>(Mr. Craig Swan, CEO / Elizabeth Copeland, Assistant Director / Ifor Hughes / Jamila Faries / Justin Madeiros / Mellisa Burgess / Ms. Shanna Lespere, Deputy Chief Executive Officer)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Autoridad de Supervisión del Sistema Financiero, <strong>Bolivia</strong><br />
+                                        <em>(Dra. Lenny Valdivia Bautista, Securities Supervision Director)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Comissão de Valores Mobiliários, <strong>Brazil</strong><br />
+                                        <em>(Mr. Otto Lobo, Chairman)</em>
+                                    </p>
+                                
+                                    <p>
+                                        British Columbia Securities Commission, <strong>British Columbia</strong><br />
+                                        <em>(Ms. Brenda M. Leong, Chair and Chief Executive Officer)</em>
+                                    </p>
+                                
+                                    <p>
+                                        British Virgin Islands Financial Services Commission, <strong>British Virgin Islands</strong><br />
+                                        <em>(Mr. Kenneth Baker, Managing Director and Chief Executive Officer)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Cayman Islands Monetary Authority, <strong>Cayman Islands</strong><br />
+                                        <em>(Mrs. Cindy Scotland, OBE, Chief Executive Officer)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Comisión para el Mercado Financiero (Financial Market Commission), <strong>Chile</strong><br />
+                                        <em>(Ms. Catherine Tornel, Chairwoman)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Superintendencia Financiera de Colombia, <strong>Colombia</strong><br />
+                                        <em>(Ms. Juliana Lagos Camargo, Directora de Investigación y Desarrollo)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Superintendencia General de Valores, <strong>Costa Rica</strong><br />
+                                        <em>(Sr. Tomás Soley Pérez, Superintendente General de Valores)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Superintendencia del Mercado de Valores, <strong>Dominican Republic</strong><br />
+                                        <em>(Mr. Ernesto A. Bournigal, Superintendent / Ángel Julián Serulle Joa, Intendent)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Superintendencia de Compañías, Valores y Seguros, <strong>Ecuador</strong><br />
+                                        <em>(Mr. Luis Alberto Cabezas-Klaere, Superintendente de Compañías, Valores y Seguros)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Superintendencia del Sistema Financiero, <strong>El Salvador</strong><br />
+                                        <em>(Mrs. Evelyn Marisol Gracias, Superintendente del Sistema Financiero)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Financial Services Commission, <strong>Jamaica</strong><br />
+                                        <em>(Lieutenant Colonel Keron Burrell, Executive Director)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Comisión Nacional Bancaria y de Valores, <strong>Mexico</strong><br />
+                                        <em>(Ms. Lucia Buenrostro, Ph.D., Vice President of Regulatory Policy / Mr. Javier Flores, General Director for International Affairs)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Ontario Securities Commission, <strong>Ontario</strong><br />
+                                        <em>(Mr. Grant Vingoe, Chief Executive Officer)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Superintendencia del Mercado de Valores, <strong>Panama</strong><br />
+                                        <em>(Mrs. Maruquel Murgas de González, Superintendent)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Superintendencia de Valores Banco Central del Paraguay, <strong>Paraguay</strong><br />
+                                        <em>(Sr. Rodrigo Sebastián Ruiz Morel, Superintendente de Valores)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Superintendencia del Mercado de Valores, <strong>Peru</strong><br />
+                                        <em>(Mr. Juan Pichihua, Chairman)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Autorité des marchés financiers, <strong>Quebec</strong><br />
+                                        <em>(Mr. Yves Ouellet, President and Chief Executive Officer)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Trinidad and Tobago Securities and Exchange Commission, <strong>Trinidad and Tobago</strong><br />
+                                        <em>(Ms. Lystra Lucillio, Deputy Chief Executive Officer)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Turks & Caicos Islands Financial Services Commission, <strong>Turks & Caicos</strong><br />
+                                        <em>(Mrs. Kenisha Bacchus, Managing Director (ag))</em>
+                                    </p>
+                                
+                                    <p>
+                                        Commodity Futures Trading Commission, <strong>United States of America</strong><br />
+                                        <em>(Mr. Mauricio Melara, Acting Director, Office of International Affairs / Ms. Andrea Musalem, Special Counsel, Office of International Affairs / Mr. Kevin Piccoli, Deputy Director, Office of International Affairs)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Securities and Exchange Commission, <strong>United States of America</strong><br />
+                                        <em>(Mr. Mark T. Uyeda, Commissioner)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Banco Central del Uruguay, <strong>Uruguay</strong><br />
+                                        <em>(Mr. Juan Pedro Cantera, Superintendent, Superintendence of Financial Services)</em>
+                                    </p>
+                                
+                        <h3>Associate Members (Non-Voting Members) (5)</h3>
+                        
+                                    <p>
+                                        Centrale Bank van Curaçao en Sint Maarten, <strong>Curaçao</strong><br />
+                                        <em>(Mr. Richard Doornbosch, President)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Eastern Caribbean Securities Regulatory Commission, <strong>Eastern Caribbean Currency Union</strong><br />
+                                        <em>(Ms. Alousia Faisal, Chief Executive Officer)</em>
+                                    </p>
+                                
+                                    <p>
+                                        Securities and Commodities Market Registry, <strong>Guatemala</strong><br />
+                                        <em>(Mr. Raúl Rolando Enríquez De León, Registrador)</em>
+                                    </p>
+                                
+                                    <p>
+                                        International Bank for Reconstruction and Development, <strong>International</strong><br />
+                                        <em>(Ms. Alison Harwood, Head of Capital Markets Unit)</em>
+                                    </p>
+                                
+                                    <p>
+                                        International Monetary Fund, <strong>International</strong><br />
+                                        <em>(Ms. Eija Holttinen, Senior Financial Sector Expert)</em>
+                                    </p>
+                                
+                </div>
+            
+            </div>
+        
+    </div>
+</div>
+</div>
+	<style nonce="VXY6eEVfgqmxkPkvHufRPA==">
+		#footer_logo_row {
+			margin-top: -15px
+		}
+
+		#footer_logo_col {
+			position: relative;
+		}
+	</style>
+	<div id="footer" class="container-fluid">
+		<div class="container-xxl">
+		    <div class="row">
+		        <div class="col-sm-6 mt-2">
+		            <div class="footer_links">
+		                <a class="footer_link" href="/v2/about/?subsection=by-laws">By Laws</a><br>
+		                <a class="footer_link" href="/v2/about/?subsection=resolutions">Resolutions</a><br>
+		                <a class="footer_link" href="/v2/publications/?subsection=annual_reports">Annual Reports</a><br>
+		                <a class="footer_link" href="/v2/about/?subsection=working-at-iosco">Careers</a><br>
+		                <a class="footer_link" href="/v2/about/?subsection=terms-and-conditions">Copyright and Permissions</a><br>
+		                <a class="footer_link" href="/v2/about/?subsection=terms-and-conditions#disclaimers">Disclaimers</a><br>
+						<a class="footer_link" href="/v2/about/?subsection=tendering">Tendering</a><br>
+						<a class="footer_link" href="https://www.iosco.org.my/" target="_blank">IOSCO Asia Pacific Hub</a><br>
+		            </div>
+		        </div>
+		        <div class="col-sm-6 mt-2 text-nowrap ms-3 ms-sm-0">
+		            <div>
+		                C/ Oquendo 12<br>
+		                28006 Madrid<br>
+		                Spain<br>
+		                Tel: +34 91 417 5549
+		            </div>
+		            <a class="footer_link" href="/v2/about/?subsection=contact">Contact Us</a><br>
+           	 		<a class="footer_link" href="/v2/about/?subsection=sign_up_for_media_releases">Sign Up for Media releases by email</a><br>
+					<div class="footer_title">Join Us</div>
+			        <ul class="list-unstyled">
+			            <li class="social_media_icons">
+							<a title="RSS" href="https://www.iosco.org/rss/rss.xml" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fas fa-rss-square"></i></a>
+							<a title="X" href="https://x.com/IOSCOPress" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fa-brands fa-square-x-twitter"></i></a>
+							<a title="LinkedIn" href="https://www.linkedin.com/company/international-organization-of-securities-commissions-iosco-/posts/?feedView=all" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fab fa-linkedin"></i></a>
+							<a title="Bluesky" href="https://bsky.app/profile/iosco.bsky.social" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fa-brands fa-square-bluesky"></i></a>
+							<a title="Media Releases by Email" href="https://www.iosco.org/v2/about/?subsection=sign_up_for_media_releases" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fas fa-envelope-square"></i></a>
+						</li>
+			        </ul>
+		        </div>
+		    </div>
+			<div id="footer_logo_row" class="row">
+				<div class="col-sm-6"></div>
+				<div id="footer_logo_col" class="col-sm-6">
+					<a href="/v2/"><img class="footer_logo" src="/v2/img/logo-bk.svg" width="120" alt="IOSCO Logo" /></a>
+				</div>
+			</div>
+		</div>
+	</div>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a253c1513da20ce1',t:'MTc4NTc0MzY3NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html> 

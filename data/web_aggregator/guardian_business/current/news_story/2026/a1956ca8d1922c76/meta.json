@@ -1,0 +1,25 @@
+{
+  "doc_id": "a1956ca8d1922c76",
+  "regulator_id": "guardian_business",
+  "doc_type": "news_story",
+  "title": "Trump administration reportedly drafting ban on Chinese datacenter components",
+  "language": "en",
+  "source_url": "https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b41a83bf8eefdd9db6eedc3fe81186f37993d507bd64539fd4fcfb408c3f159d",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_guardian_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/guardian_business/current/news_story/2026/a1956ca8d1922c76",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices",
+  "fetch_method": "feed_summary"
+}

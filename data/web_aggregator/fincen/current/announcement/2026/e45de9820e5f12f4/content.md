@@ -1,0 +1,76 @@
+# Proper Completion of FinCEN Form 104 When Reporting Currency Exchanges
+
+[fincenruling20042.pdf](/system/files/administrative_ruling/fincenruling20042.pdf "fincenruling20042.pdf")
+(65.48 KB)
+
+FinCEN Ruling 2004-2
+
+Proper Completion of FinCEN Form 104 When Reporting Currency Exchanges
+
+Issued Date
+
+June 30, 2004
+
+Dear [ ]:  
+This letter responds to your letter dated April 19, 2004, to FinCEN’s Office of Regulatory Policy, Programs and Enforcement, in which you request guidance on the proper completion of FinCEN Form 104. Financial institutions other than casinos complete FinCEN Form 104 when reporting currency transactions under 31 CFR §103.22. In your letter, you present two examples.  
+In the first example, a customer of [ ] Bank exchanges South Korean currency for $3,000 in United States currency. That is, [ ] Bank pays, to the customer, United States currency in the amount $3,000, and the customer pays, to [ ] Bank, South Korean currency equal in value to the United States currency. On the same business day as the currency exchange, the customer withdraws, from the customer’s savings account at [ ] Bank, United States currency in the amount of $8,000.  
+In the second example, a customer of [ ] Bank exchanges $6,000 in United States currency for Canadian currency. That is, the customer pays, to [ ] Bank, United States currency in the amount of $6,000, and [ ] Bank pays, to the customer, Canadian currency equal in value to the United States currency. On the same business day as the currency exchange, the customer deposits, into the customer’s checking account at [ ] Bank, United States currency in the amount of $4,500 dollars.  
+You ask for confirmation that, in both examples, since the currency exchange “was one of the transactions that caused the CTR to be created,” [ ] Bank must report the value of the foreign currency in items 26a or 27a, and the country for which the foreign currency serves as legal tender in item 29.  
+Thus, you ask for confirmation that, in the first example, items 26 through 29 of the Currency Transaction Report must read as follows:  
+Item 26 – Total Cash In – (blank)  
+Item 26a – Foreign Cash In -- $3,000  
+Item 27 –Total Cash Out – $11,000  
+Item 27a – Foreign Cash Out – (blank)  
+Item 29 – Country – KS  
+Similarly, you ask for confirmation that, in the second example, items 26 through 29 of the Currency Transaction Report must read as follows:  
+Item 26 – Total Cash In – $10,500  
+Item 26a – Foreign Cash In – (blank)  
+Item 27 –Total Cash Out – (blank)  
+Item 27a – Foreign Cash Out – $6,000  
+Item 29 – Country – CA  
+The issue is not whether, as stated in your letter, the currency exchange “was one of the transactions that caused the CTR to be created.” Rather, the issue in the first example is whether the value of the South Korean currency received by [ ] Bank – that is, the value of the "cash in" component of the currency exchange – exceeds, either alone or when aggregated with other “cash in” transactions, the $10,000 reporting threshold in 31 CFR §103.22. Similarly, the issue in the second example is whether the value of the Canadian currency paid by [ ] Bank – that is, the value of the "cash out" component of the currency exchange – exceeds, either alone or when aggregated with other “cash out” transactions, the $10,000 reporting threshold in 31 CFR §103.22. In both examples, unless the reporting threshold is exceeded, [ ] Bank is required to disclose neither the value of the foreign currency, nor the country for which the foreign currency serves as legal tender.  
+Thus, in the first example, items 26 through 29 of the Currency Transaction Report would read as follows:  
+Item 26 – Total Cash In – (blank)  
+Item 26a – Foreign Cash In – (blank)  
+Item 27 –Total Cash Out – $11,000  
+Item 27a – Foreign Cash Out – (blank)  
+Item 29 – Country – (blank)  
+Similarly, in the second example, items 26 through 29 of the Currency Transaction Report would read as follows:  
+Item 26 – Total Cash In – $10,500  
+Item 26a – Foreign Cash In – (blank)  
+Item 27 –Total Cash Out – (blank)  
+Item 27a – Foreign Cash Out – (blank)  
+Item 29 – Country – (blank)  
+However, in both examples, since the currency exchange "was one of the transactions that caused the CTR to be created," [ ] Bank must mark the "Currency Exchange(s)" box in item 33. In addition, with respect to the currency deposit or withdrawal described in your letter, [ ] Bank must mark the box for "Deposit(s)/Withdrawal(s) in item 34, and the box for "Account Number(s)" Affected (if any)" in item 35. Finally, [ ] Bank must disclose in item 35 the number of the savings or deposit account affected by the withdrawal or deposit.  
+If you have additional questions, please contact Jeffrey Pratt, Senior Regulatory Compliance Specialist, at (202) 354-6400.
+
+Sincerely,  
+/Signed/  
+William D. Langford, Jr.  
+Associate Director  
+Office of Regulatory Policy,  
+Programs, and Enforcement  
+cc: Don Carbaugh, Chief, Depository Institutions, FinCEN Jeffrey Pratt, Senior Regulatory Program Specialist, FinCEN Judith Starr, Chief Counsel, FinCEN
+
+Financial Institution
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

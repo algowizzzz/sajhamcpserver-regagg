@@ -1,0 +1,52 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+## Repositories
+
+* [Central Clearing Requirements](/information-repositories/?section=central-clearing)
+* [Cyber Framework Mappings](/members_area/cyber-framework-mappings/)
+* [Deference Assessments](/members_area/repositories/view/?section=assessments)
+* [IFRS Database](/ifrs/)
+* [Memoranda of Understanding](/members_area/repositories/view/?section=mou)
+* [Platform Trading Requirements](/members_area/information-repositories/view/?section=platform-trading)
+* [Special Purpose Acquisition Company (SPAC)](/members_area/spac/view/)
+
+# Information Repositories
+
+The repositories are an information sharing tool regarding IOSCO members’ mandatory requirements to: (i) clear over-the-counter (OTC) derivative products at central counterparties (CCPs); and (ii) trade OTC derivatives on exchanges or electronic platforms.
+
+The above mandatory requirements are due to the G20 leaders’ agreement in September 2009 to reform OTC derivatives markets to make them more resilient and transparent. In particular, G20 leaders agreed that all standardised OTC derivatives should be traded on exchanges or electronic platforms and cleared through central counterparties (centrally cleared) by the end of 2012 at the latest.
+
+The information shared by members through these repositories provides a comprehensive view of the characteristics of the OTC derivative products that are mandated to be centrally cleared and/or traded on exchanges or electronic platforms in different jurisdictions. It also allows a comparison of the different products which are mandated to be cleared (and the eligible CCPs) and traded on exchanges or electronic platforms.
+
+In particular, in the central clearing repository, you can find information on the following OTC derivatives classes that are subject to the clearing obligation in different jurisdictions: Interest rate swaps (IRS), credit default swaps (CDS) and foreign exchange. In the platform trading repository you can find information on the following OTC derivatives classes that are subject to the trading obligation in different jurisdictions: IRS, CDS, equity and commodities; as well as information on regulations of OTC derivatives trading platforms.
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

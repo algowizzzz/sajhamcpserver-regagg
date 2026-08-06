@@ -1,0 +1,25 @@
+{
+  "doc_id": "64f0496677c35024",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "Canada has an AI adoption plan. Now, it needs an adaptation plan that prioritizes workers",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/business/careers/leadership/article-canada-has-an-ai-adoption-plan-now-it-needs-an-adaptation-plan-that/",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2106cf345b063a5d6a72d9823139a27dfa6eebaa9c28d64f6f3faa28becc9b9f",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/64f0496677c35024",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/business/careers/leadership/article-canada-has-an-ai-adoption-plan-now-it-needs-an-adaptation-plan-that/",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "eb08f1f737b38876",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Principes sur l'assistance aux auteurs de demandes | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/transparence/acces-linformation-protection-renseignements-personnels/principes-sur-lassistance-auteurs-demandes",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:903db2aef38bdc7f942d73c4ba73d66fbe0db887f92793247235db8d05fef531",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/eb08f1f737b38876",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

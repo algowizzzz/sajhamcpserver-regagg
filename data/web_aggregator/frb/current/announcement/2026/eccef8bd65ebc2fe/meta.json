@@ -1,0 +1,26 @@
+{
+  "doc_id": "eccef8bd65ebc2fe",
+  "regulator_id": "frb",
+  "doc_type": "announcement",
+  "title": "Federal Reserve Board issues enforcement action with Community Bankshares, Inc.",
+  "language": "en",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm",
+  "reference_number": null,
+  "published_date": "2026-04-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d0515634b6b351bba9d5fa2795fa8697e649e94533610cc40dbee601643e2607",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_frb_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/frb/current/announcement/2026/eccef8bd65ebc2fe",
+  "tags": [
+    "us",
+    "central_bank",
+    "prudential",
+    "banking"
+  ]
+}

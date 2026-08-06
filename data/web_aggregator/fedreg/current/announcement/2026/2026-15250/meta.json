@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-15250",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Cboe EDGA Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.8(c) Regarding Intermarket Sweep Orders",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/29/2026-15250/self-regulatory-organizations-cboe-edga-exchange-inc-notice-of-designation-of-a-longer-period-for",
+  "reference_number": "2026-15250",
+  "published_date": "2026-07-29",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:01107a93893c42b7fd654c493b2918b4da7150cd4d9468b0d6dece7cb9300bad",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-15250",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

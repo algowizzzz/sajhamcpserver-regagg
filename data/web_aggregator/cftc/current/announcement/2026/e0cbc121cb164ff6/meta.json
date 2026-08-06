@@ -1,0 +1,26 @@
+{
+  "doc_id": "e0cbc121cb164ff6",
+  "regulator_id": "cftc",
+  "doc_type": "announcement",
+  "title": "CFTC Extends Public Comment Period on Proposed Rule on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities",
+  "language": "en",
+  "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9271-26",
+  "reference_number": null,
+  "published_date": "2026-07-23",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0510b1916cea4737e47cf6cb2456fa618b140d9324db58c2c4b94f8a267b6344",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_cftc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cftc/current/announcement/2026/e0cbc121cb164ff6",
+  "tags": [
+    "us",
+    "derivatives",
+    "clearing",
+    "margin"
+  ]
+}

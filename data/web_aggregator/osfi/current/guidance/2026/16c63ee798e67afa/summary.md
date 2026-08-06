@@ -1,0 +1,1 @@
+Summary: # Mortgage Insurer Capital Adequacy Test - Guideline (2025)

@@ -1,0 +1,24 @@
+{
+  "doc_id": "c9a2632aa8bd7cbf",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Currency Transaction Reporting: Aggregation | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/currency-transaction-reporting-aggregation-1",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3cce8a1d61d8f933c3ab8dad5bd0c2669b3ffc538b9f6a722048fd7d989d10aa",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/c9a2632aa8bd7cbf",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

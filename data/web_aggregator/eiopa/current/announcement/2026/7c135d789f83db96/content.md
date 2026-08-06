@@ -1,0 +1,12 @@
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its updated Risk Dashboard based on the second quarter 2019 Solvency II data.
+
+The results show that the risk exposures of the European insurance sector remained overall stable compared to July. Macro and market risks continue at a high level. Downward revisions to Gross Domestic Product (GDP) growth and inflation forecasts and declines in swap rates for major currencies are adding further pressure to the sector. Volatility of the largest asset class – bonds – increased.
+
+Credit risks continue at a medium level, with somewhat lower Credit Default Swaps (CDS) spreads for most bond segments and broadly stable credit quality of asset portfolios. Nonetheless, signs of potential risk mispricing prevail. Profitability and solvency risks are also at a medium level. Half-yearly profitability indicators improved compared to the second quarter of 2018 due to higher profit and loss figures reported by some insurance groups. Solvency Capital Requirement (SCR) ratios for life undertakings declined. Interlinkages and imbalances show a decreasing trend due to a lower share of premiums ceded to reinsurers, but remain at a medium level. Market perceptions were marked by an underperformance of insurers' stocks compared to overall equity markets, whereas no change was observed in insurers' external ratings.
+
+Publication date
+:   25 October 2019
+
+## Related links
+
+[October 2019 Risk dashboard.pdf](/document/download/4211e323-964d-497b-826c-cd3d492f1aa1_en?filename=October%202019%20Risk%20dashboard.pdf)

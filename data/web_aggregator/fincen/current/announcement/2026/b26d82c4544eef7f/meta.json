@@ -1,0 +1,24 @@
+{
+  "doc_id": "b26d82c4544eef7f",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Three Individuals Convicted in Phantom Bank Scheme | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/three-individuals-convicted-phantom-bank-scheme",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b78121d8af5bf416de0f58896752fc4eab579656bbafdf9a46dd1c9d82a8108f",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/b26d82c4544eef7f",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

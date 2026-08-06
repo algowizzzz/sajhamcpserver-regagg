@@ -1,0 +1,1 @@
+Summary: # Meal kit company Goodfood granted creditor protection from court, may sell business

@@ -1,0 +1,7 @@
+# ‘Nobody cares’: the Turkish farmers bearing the burden of UK’s plastic waste problem
+
+Britain exported 139,000 tonnes of rubbish to Turkey last year, leaving smallholders and poor districts of Adana to cope with the debris, microplastics and toxic smoke UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland Plastic debris clings to the reeds in a waterway metres from where Ayhan*, a farmer in Adana, southern Turkey, is harvesting aubergines. “We get pollution from all sides here,” he says, referring to the plastic recycling zone upstream, as well as a nearby textile plant that he suspects is making the water acidic. “The plastics are all there, by the bank, and the fumes come this way.” Between May 2021 and July 2024, 13 British companies sent 545 shipments of household and supermarket plastic waste, totalling 52,000 tonnes, to the Kemal Deniz recycling zone, under a mile from Ayhan’s aubergine fields, according to data analysed for the Guardian by the Environmental Investigation Agency (EIA), an international NGO. Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/environment/2026/aug/04/plastic-waste-microplastics-exports-recycling-turkey-farmers-pollution-environment-recycling)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

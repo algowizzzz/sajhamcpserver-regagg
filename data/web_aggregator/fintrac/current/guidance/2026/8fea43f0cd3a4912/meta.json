@@ -1,0 +1,24 @@
+{
+  "doc_id": "8fea43f0cd3a4912",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Exigences en mati\u00e8re de tenue de documents s'appliquant aux entreprises de services mon\u00e9taires et aux entreprises de services mon\u00e9taires \u00e9trang\u00e8res",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/recordkeeping-document/record/msb-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6bad813275881bd273e7c494ae8881249da8ea1dbe9c521bacaf04ad613d597d",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/8fea43f0cd3a4912",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

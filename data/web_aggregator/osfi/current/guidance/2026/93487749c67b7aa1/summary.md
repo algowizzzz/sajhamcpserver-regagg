@@ -1,0 +1,1 @@
+Summary: # OSFI increases the level of the Domestic Stability Buffer by 50 basis points

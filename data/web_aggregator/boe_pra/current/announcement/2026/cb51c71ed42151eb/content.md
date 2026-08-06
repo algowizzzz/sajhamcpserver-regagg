@@ -1,0 +1,56 @@
+# Staying afloat: the impact of flooding on UK firms
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+Published on
+05 June 2026
+
+## Staff Working Paper No. 1,187
+
+**Benjamin Crampton, Rupert-Hu Gilman and Rebecca Mari**
+
+This paper examines the exposure of UK firms to flood risk and the impact that past floods have had on corporate outcomes. Through the use of a novel data set that combines highly granular business premise information with flood maps and financial records, we first identify the specific regions, sectors and characteristics of firms where flood risk is most concentrated. Firm-level exposure is significantly influenced by sorting dynamics, with larger premises being more at risk. Second, we demonstrate that flood impacts are highly damaging to firms: they significantly increase the likelihood of business termination for small and medium-sized firms; for surviving firms, there are large negative impacts to revenue, employment, and total assets, with large firms and those in natural resource-related sectors being most affected.
+
+[![](/assets/img/icon-pdf.svg)Staying afloat: the impact of flooding on UK firms](/-/media/boe/files/working-paper/2026/staying-afloat-the-impact-of-flooding-on-uk-firms.pdf)
+
+[![](/-/media/boe/images/icons/e/ic_mail-in.svg?h=30&iar=0&mh=30&mw=30&w=30&hash=3E5EAC6D60A4FE2C57052FA5724C168C)
+
+### Sign up for latest updates](/subscribe-to-emails)
+
+## Other staff working papers
+
+[Publication // Working Paper
+
+24 July 2026
+
+### The devil in the DeTail: assessing state-contingent...
+
+### The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital...](/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects)
+
+[Publication // Working Paper
+
+17 July 2026
+
+### Anchors aweigh? The effect of communicating...
+
+### Anchors aweigh? The effect of communicating forecast uncertainty](/working-paper/2026/anchors-aweigh-the-effect-of-communicating-forecast-uncertainty)
+
+[Publication // Working Paper
+
+10 July 2026
+
+### SoS! The overnight bilateral liquidity provision...
+
+### SoS! The overnight bilateral liquidity provision of non-bank financial institutions to banks](/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks)
+
+[Publication // Working Paper
+
+10 July 2026
+
+### Central bank communications that reach the...
+
+### Central bank communications that reach the public](/working-paper/2026/central-bank-communications-that-reach-the-public)
+
+[View more Other staff working papers](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&Taxonomies=4509710da7894b9f992d983b8ebdcfbc&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

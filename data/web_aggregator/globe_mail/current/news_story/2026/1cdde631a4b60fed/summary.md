@@ -1,0 +1,1 @@
+Summary: # U.S. alcohol industry rightly fears a nasty hangover from Trump’s trade war with Canada

@@ -1,0 +1,1 @@
+Summary: # Partie XII: Établissement d’une succursale à activités commerciales restreintes

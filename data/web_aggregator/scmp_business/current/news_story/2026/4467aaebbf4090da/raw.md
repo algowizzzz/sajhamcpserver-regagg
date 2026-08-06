@@ -1,0 +1,8 @@
+# Shares of major Hong Kong insurance, finance firms tumble following report of 20% levy
+
+Shares of major Hong Kong-listed insurance and financial institutions tumbled on Thursday, after reports surfaced that mainland Chinese authorities had begun taxing gains on offshore insurance policies bought by mainland visitors in the city, reviving fears of tighter curbs on cross-border capital flows.
+In early trading as of 9.45am, Prudential, whose Hong Kong hub was its biggest profit driver last year, fell 5.9 per cent, while pan-Asian life insurer AIA Group dropped 6.6 per cent. Major...
+
+[Read the full story at the source](https://www.scmp.com/business/banking-finance/article/3363106/shares-major-hong-kong-insurance-finance-firms-tumble-following-report-20-levy?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

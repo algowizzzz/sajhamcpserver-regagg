@@ -1,0 +1,60 @@
+[Skip to main content](#skip-to-content "Skip to main content")
+
+[Home](/eng "Home")
+/ [News and Media](/eng/news-and-media/ "News and Media") / [Press Releases](/eng/news-and-media/press-releases/ "Press Releases")
+
+# Residential Mortgage Survey Results for June 2026
+
+## Press Releases
+
+31 Jul 2026
+
+### Residential Mortgage Survey Results for June 2026
+
+The Hong Kong Monetary Authority announced the results of the residential mortgage survey for June 2026.
+
+The number of mortgage applications in June increased month-on-month by 12.5% to 12,117.
+
+Mortgage loans approved in June increased by 25.8% compared with May to HK$50.6 billion.  Among these, mortgage loans financing primary market transactions increased by 32.3% to HK$15.5 billion and those financing secondary market transactions increased by 21.6% to HK$28.9 billion.  Mortgage loans for refinancing increased by 30.6% to HK$6.2 billion.
+
+Mortgage loans drawn down during June increased by 17.6% compared with May to HK$27.7 billion.
+
+The ratio of new mortgage loans priced with reference to HIBOR decreased from 73.8% in May to 70% in June.  The ratio of new mortgage loans priced with reference to best lending rates increased from 1.2% in May to 1.3% in June.
+
+The outstanding value of mortgage loans increased month-on-month by 0.4% to HK$1,955 billion at end-June.
+
+The mortgage delinquency ratio stood at a low level of 0.11% and the rescheduled loan ratio was unchanged at nearly 0%.
+
+[Annex](/media/eng/doc/key-information/press-release/2026/20260731e5a1.pdf)
+
+Hong Kong Monetary Authority  
+31 July 2026
+
+Latest Press Releases
+
+* 03 Aug 2026
+
+  [Planned system enhancement for the Faster Payment System on 9 August 2026](/eng/news-and-media/press-releases/2026/08/20260803-3/ "Planned system enhancement for the Faster Payment System on 9 August 2026")
+* 31 Jul 2026
+
+  [HKICL alerts public of fraudulent website](/eng/news-and-media/press-releases/2026/07/20260731-8/ "HKICL alerts public of fraudulent website")
+* 31 Jul 2026
+
+  [Monetary Statistics for June 2026](/eng/news-and-media/press-releases/2026/07/20260731-7/ "Monetary Statistics for June 2026")
+* 31 Jul 2026
+
+  [Residential mortgage loans in negative equity: End of June 2026](/eng/news-and-media/press-releases/2026/07/20260731-6/ "Residential mortgage loans in negative equity: End of June 2026")
+* 31 Jul 2026
+
+  [Residential Mortgage Survey Results for June 2026](/eng/news-and-media/press-releases/2026/07/20260731-5/ "Residential Mortgage Survey Results for June 2026")
+
+[View All](/eng/news-and-media/press-releases "View All Press Releases")
+[View All](/eng/news-and-media/press-releases "View All Press Releases")
+
+Last revision date : 31 July 2026
+
+Share
+
+[![Share to Facebook](/statics/assets/img/icon-fb.jpg)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hkma.gov.hk%2Feng%2Fnews-and-media%2Fpress-releases%2F2026%2F07%2F20260731-5%2F "Share to Facebook")
+[![Share to Twitter](/statics/assets/img/icon-twitter.jpg)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hkma.gov.hk%2Feng%2Fnews-and-media%2Fpress-releases%2F2026%2F07%2F20260731-5%2F "Share to Twitter")
+[![Share](/statics/assets/img/icon-share.jpg)](javascript:esdlife.app.method.copy_link('https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-5/') "Share")

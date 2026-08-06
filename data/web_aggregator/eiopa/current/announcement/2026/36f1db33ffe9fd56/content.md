@@ -1,0 +1,14 @@
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) submitted, as required by Article 10(7) of the Insurance Distribution Directive, the draft Regulatory Technical Standards to the European Commission adapting the base euro amounts for professional indemnity insurance and financial capacity of insurance intermediaries.
+
+The base amounts have been adapted taking into account the changes in the European index of consumer prices which increased by 4,03% in the relevant period from 1 January 2013 to 31 December 2017.
+
+The figures have changed as follows:
+
+* the minimum amount of EUR 1 250 000 per claim is increased to EUR 1 300 380 per claim
+* the minimum amount of EUR 1 850 000 for all claims/year is increased to EUR 1 924 560 for all claims/year
+* the minimum amount of EUR 18 750 of financial capacity is increased to EUR 19 510
+
+The draft Regulatory Technical Standards, including the adapted base amounts, as well as the Final report following the public consultation are available on page [Requests and submissions to the EC](/error/404_en).
+
+Publication date
+:   27 June 2018

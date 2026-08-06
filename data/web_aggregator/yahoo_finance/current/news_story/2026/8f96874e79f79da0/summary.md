@@ -1,0 +1,1 @@
+Summary: # AI Integration Strengthens Alphabet’s (GOOG) Core Business

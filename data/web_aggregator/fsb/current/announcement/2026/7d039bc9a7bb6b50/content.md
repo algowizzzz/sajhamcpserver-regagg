@@ -1,0 +1,90 @@
+[Press](https://www.fsb.org/content_types/press/ "Go to the Press Content Type archives.")[Speeches](https://www.fsb.org/content_types/speeches/ "Go to the Speeches Content Type archives.")Multilateralism, Utopia, and the Financial Stability Board
+
+*The views expressed in these remarks are those of the speaker in their role as FSB Secretary General* *and do not necessarily reflect those of the FSB or its members.*
+
+Watch the speech and the following discussion
+
+Good afternoon. Thank you for the opportunity to speak about multilateralism, a topic that has become  particularly newsworthy these days.
+
+Over five hundred years ago, Saint Thomas More published *Utopia*, a short book about a society that is governed by complete social and economic cooperation; what we might call perfect multilateralism. But More had no illusions about the achievability of Utopia, and a hint to that is in the title of the book. Utopia, in Greek, literally means “no place.” More knew that the perfection he was writing about did not exist in the world. But the lesson of *Utopia* is not to dismiss the ideal; it is to be inspired by it and to strive for it.
+
+Fast forward five hundred years, and the news is replete with stories about the death of multilateralism. Canadian Prime Minister (and former FSB Chair) Mark Carney referred to a ‘rupture in the world order.’ I hear it on panels and in interviews: “Is it still possible to work together in the current environment?” “Can the FSB get anything done?” The questions surprise me, because I would argue that the FSB is as busy now as it ever has been. Our members are engaged. Our members remain eager for us to pursue work, and we continue to respond to G20 requests. In short, we are open for business.
+
+In the next few minutes, rather than lamenting the demise of multilateralism, I want to explain why multilateralism remains essential in financial regulation, what the FSB’s experience has been, and outline some practical steps we can all take to keep multilateralism working.
+
+### What We Mean by Multilateralism
+
+So, what is multilateralism? Let me begin with a working definition. For our purposes today, I will define it as a setting in which a group of countries works together to make joint decisions to help achieve common goals.
+
+The FSB is an example of a multilateral organization. Established by the G20 (also a multilateral organization) after the Great Financial Crisis, the FSB’s mandate is to promote global financial stability. The crisis reinforced an inconvenient truth: financial shocks rarely respect country borders. Disruptions in one market or jurisdiction can spread to others. Financial instability is not an abstract concern; it undermines jobs, growth, savings, and the capacity of governments and businesses to pursue broader social and economic goals. That is why the FSB exists, and why its work matters.
+
+Our seventy members are geographically and institutionally diverse. We bring together finance ministries, central banks, supervisors, market regulators, standard-setting bodies, and international organizations. Through our regional consultative groups, our reach extends well beyond the core membership. In short, we convene the practical diversity of the global financial system in one place, at one time, around one table. The kaleidoscopic perspectives our members bring to the table is our greatest strength.
+
+The obituary of multilateralism that you often read about highlights withdrawals from international organizations or agreements, strains in the rules-based system of trade, and the breakdown of security arrangements that were long presumed to be robust. Those developments are real and consequential. But to project from those examples to the death of multilateralism everywhere, including at the FSB, exaggerates the issue.
+
+### The importance of multilateralism in finance
+
+So why has the FSB continued to function as a vehicle for solving problems that transcend borders in a world where multilateralism elsewhere seems to be dying? The answer may lie in the nature of finance itself.
+
+Financial markets trade in risk. They repackage it, sell it, combine it, and transfer it. Markets thrive on price discovery and arbitrage. That dynamism rewards innovation, but it also searches relentlessly for weakest links. If rules diverge too widely, risk migrates to the path of least resistance. Activities shift to jurisdictions, sectors, or entities where standards are lower, oversight is thinner, or enforcement is uneven. The result is not simply regulatory arbitrage; it is the build-up of vulnerabilities.
+
+A level playing field is a risk-management tool for the system as a whole. If you go it alone, you either believe that your financial system is so different from others that a level playing field doesn’t matter, or that the financial system will not shift risk to or away from your borders in a significant way. For example, some developing economies might argue that their nonbank financial system is so underdeveloped that regulations pertaining to nonbanks are irrelevant to them. Or, an economy with a completely closed capital system might argue that adopting a level playing field is irrelevant given that capital can’t flow in and out. But for most FSB members – open economies with deep and globally interconnected financial systems – neither argument applies. Integration into the global financial system is a source of strength and it makes coordination a necessity. Our members recognize the *need* for multilateralism in financial regulation. They want international standards, implemented proportionately and consistently, that preserve some room for jurisdictions to tailor measures to their circumstances and that reduce the incentive for market participants to shop for the most permissive regime.
+
+### Has the FSB felt any effects from the “death” of multilateralism?
+
+While I started by saying that multilateralism is alive and well at the FSB, I did not mean to imply that we have been unaffected. We have been, but the effect has not been the death knell some may have feared. What we have experienced is not a collapse of cooperation. It is a change in consensus.
+
+Decisions at the FSB are taken by consensus. Consensus at the FSB has always evolved. Members change; the political leadership of countries changes; priorities and perspectives shift. That dynamism is built into the DNA of the FSB and reflects the FSB’s links, via members’ finance ministries, to their governments’ policy priorities. I highlighted the FSB’s membership earlier as a strength. It requires us to listen carefully, to constantly test assumptions, and to find common ground that is responsive to current realities while remaining anchored in our long-term objective of safeguarding global financial stability.
+
+Perhaps the shifts in consensus over recent years have been larger or faster. But they have not stopped the FSB from working together to achieve common goals. The steps we take to do that might be different than they were a few years ago – the consensus has changed – but we still work together. That is multilateralism. The ideal we seek to achieve – global financial stability – remains the same; the route to that ideal adapts.
+
+The FSB work priorities remain focused on areas where cross-border coordination adds the most value. We continue to place a strong emphasis on nonbank financial intermediation; digital innovation, including crypto assets, stablecoins, and artificial intelligence; cross border payments; ongoing assessments of vulnerabilities and monitoring of implementation of past recommendations; and work on supervisory and regulatory practices.
+
+We continue to work on projects in support of the goals of the G20. We recently released a report for consultation on sound practices for financial institutions to use, adopt, and innovate with artificial intelligence (AI). AI has the potential to transform financial services globally, driving innovation, efficiency, and better risk management. However, its adoption raises challenges that transcend borders, such as ensuring transparency, accountability, resilience, and the secure use of data across jurisdictions. Our members recognize this and have made it a priority for our work.
+
+We continue to work diligently and collaboratively on the cross-border payments roadmap that the G20 asked us to develop in 2020. Efficient, inclusive, and secure cross-border payments are essential for global commerce, remittances, and financial inclusion. We recently put out a call out for members to voluntarily develop jurisdiction-level action plans to take forward the Roadmap recommendations. The enthusiastic response – 29 jurisdictions agreed to develop these plans – demonstrates the shared commitment to improving cross-border payment systems, which are a cornerstone of the global financial architecture.
+
+This is not an abstract list. It is a practical work program shaped by the experiences of our members, feedback from stakeholders, and the lessons of recent stress episodes. The initiatives on AI and cross-border payments, along with other work on nonbanks, crypto assets and stablecoins, and operational resilience, underscore the FSB’s crucial role in fostering international cooperation to address global challenges. FSB work in all of these areas reflects the essence of multilateralism: the recognition that no member can address these global challenges alone.
+
+### What lessons can we draw from the FSB experience?
+
+So, having recognized that the consensus has shifted in some areas, how can we best ensure continued cooperation? Let me offer some practical advice from the FSB experience, most of which applies well beyond the FSB.
+
+* First: Accept reality. Consensus changes for a lot of reasons – new members, an evolving financial system, innovation – and the consensus has changed on a number of issues in recent years. You can pretend it hasn’t happened, which ignores the reality, or you can work with your colleagues to achieve the new consensus.
+* Second: Show up. Contribute to the strength of decision-making by sharing your perspective. The FSB Plenary does not meet often. It only meets in person twice a year, and in-person meetings are especially valuable when consensus is evolving. Place an even higher priority on attending those face-to-face meetings when the consensus is shifting. Physical presence builds trust, reduces miscommunication, and accelerates problem-solving. Prioritize being in the room when it matters.
+* Third: Show up at the right level. The FSB was designed as a principal-level body. As with many standard setters, there is a tendency for members to delegate down to the lowest level that will be accepted. Delegation is often necessary and appropriate, but it dilutes your message. When an issue is pivotal, senior voices carry weight, not because titles matter for their own sake, but because they signal commitment and they enable decisions. If you have a message to deliver, send your principal.
+* Third: Respectfully engage in the active exchange of ideas. When you are attending an in-person meeting, written statements and carefully drafted interventions have their place. But the most productive contributions come from those who listen as their colleagues speak and who incorporate the evolving consensus in the room into their talking points – reinforcing points that crystallize consensus or respectfully probing where differences remain. Respectful disagreement is not confrontational; it is an invitation to find a shared solution. Members who engage in this way advance the conversation. Even better is to also engage outside the meeting room. The coffee break, the hallway conversation, the call before the meeting. A former FSB Chair used to stress that the most important work happens between sessions, when colleagues can explore options candidly and find common ground. Talk to those whose position you don’t understand or who you disagree with. Figure out the common ground.
+* Fourth: Contribute positively (and I don’t mean you have to do everything with a smile on your face.) It is much more effective to come to a meeting with a proposal to do something than it is to come to a meeting arguing against something. If you think a proposal is off base, explain why and offer your own. If you think a proposal isn’t worth pursuing at all, offer one that is. Most members who are proposing something are doing so because they believe that something needs to be done. They are much more likely to be agreeable to another proposal than to a proposal to do nothing.
+* Fifth and finally: Don’t succumb to fatalism. The FSB remains open for business. If you buy into the rhetoric about the death of multilateralism, it is likely to bring about a self-fulfilling prophecy. Participation is the antidote for pessimism.
+
+While I believe in these five common sense pieces of advice, I know that ensuring global financial stability is not easy. We operate in a world in which our members face diverse financial structures and legal frameworks, where innovation does not wait for us to catch up to it, and where financial activity is adept at finding its way to the other side of the regulatory perimeter.
+
+So, what does success look like in that challenging environment and where consensus is always shifting? Success looks like steady progress on agreed priorities, even when the path to agreement is longer and the compromises more intricate. It looks like policies that are robust to uncertainty, because they are built on diverse perspectives and reflect different scenarios. It looks like implementation that is consistent and credible, because members own the outcomes that they helped to shape. And it builds on humility: the willingness to adapt as new evidence accumulates, to learn from experience, and to correct course when necessary.
+
+This is the practical craft of multilateralism. It is iterative, patient, and anchored in the recognition that what happens in one part of the system can – and will – affect the rest.
+
+### Returning to Utopia
+
+I began with Saint Thomas More’s *Utopia*, a book about an idealistic place that More wittily named “no place.” More was writing for an audience that he wanted to encourage to strive for the ideal, while acknowledging the need to balance idealism and pragmatism. In a famous passage, he said, “…if ill opinions cannot be quite rooted out, and you cannot cure some received vice according to your wishes, you must not, therefore, abandon the commonwealth, for the same reasons as you should not forsake the ship in a storm because you cannot command the winds.” That is the spirit in which I hope members approach multilateralism at the FSB (and elsewhere). Acknowledge the challenges, but continue to strive, together, for a resilient global financial system.
+
+Thank you.
+
+## Related Information
+
+![About the FSB](https://www.fsb.org/uploads/IMG_BIS-Tower-re-touched-500x250.jpg)
+
+### About the FSB
+
+Read about the Financial Stability Board’s mandate, and its framework for the identification of systemic risk in the financial sector. Find out who runs the FSB and which authorities, organisations and groups constitute its membership.
+
+Content Type(s):
+[Press](https://www.fsb.org/content_types/press/)
+[Speeches](https://www.fsb.org/content_types/speeches/)
+
+Source(s):
+[FSB](https://www.fsb.org/sources/fsb/)
+
+Policy Area(s):
+[Cross Border Payments](https://www.fsb.org/policy_areas/cross-border-payments/)
+[Cyber Resilience](https://www.fsb.org/policy_areas/cyber-resilience/)
+[Governance](https://www.fsb.org/policy_areas/governance/)

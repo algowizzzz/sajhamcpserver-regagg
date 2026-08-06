@@ -1,0 +1,1 @@
+Summary: ![Adobestock_news_stress_test](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_news_stress_test.jpeg?itok=tQEMf6lM "Adobestock_news_stress_test")

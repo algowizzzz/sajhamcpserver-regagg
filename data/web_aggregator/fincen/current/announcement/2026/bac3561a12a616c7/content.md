@@ -1,0 +1,47 @@
+# Illicit Wire Activity Destined for Sanctioned Country
+
+[Issue 18-story 8.pdf](/system/files/case_example/Issue%2018-story%208.pdf "Issue 18-story 8.pdf")
+(27.77 KB)
+
+Law enforcement initiated an investigation into a defendant for operating an unlicensed money transmitting business and assisting the business in the avoidance of Office of Foreign Asset Control (OFAC) sanctions on a designated country.
+
+The defendant was convicted of violating the International Emergency Economic Powers Act (IEEPA), operating an unlicensed money transmitting business, and making false statements to a federal agency. A federal judge ordered the defendant to forfeit funds and sentenced the defendant to a multi-year prison term.
+
+The defendant provided money transmitting services to residents of a sanctioned country by participating in the operation of a "hawala," a type of informal value transfer system in which money does not physically cross international borders through the banking system. The defendant used the hawala network to receive wire transfers from companies and individuals located in various countries, including some with a high risk for money laundering, into a personal bank account he maintained for this purpose in the United States.
+
+An individual who resided outside the United States arranged the transfers into the defendant's account. The individual was associated with hawala operators in his country of residence. In addition, the individual attempted to move funds from a business and invest them in the United States. To accomplish this, the individual paid the hawala operators millions of dollars in foreign currency, and the hawala operators arranged to have corresponding amounts of U.S. dollars, which were already in the United States or in bank accounts abroad, deposited into defendant's account. The owners of the dollars deposited into the defendant's account were dozens of companies and individuals in the U.S. and abroad who wanted to transfer funds to the country where the individual resided, a jurisdiction subject to OFAC sanctions.
+
+The defendant facilitated these illegal transfers by accepting deposits into his personal bank accounts and then notifying the individual arranging the transfer or an out-of-country hawala operator, so that a corresponding amount of local currency could be disbursed. The hawala operators profited by manipulating the exchange rates to their benefit, and the defendant benefitted by using the millions of dollars he received into his account to purchase real estate and securities, and to pay hundreds of thousands of dollars toward personal expenses.
+
+BSA information was instrumental in identifying the various accounts, wires, deposits, and patterns of activity.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues*, Issue 18, October 2010]
+
+Tags
+
+Informal Value Transfer Systems
+
+Other Crimes
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

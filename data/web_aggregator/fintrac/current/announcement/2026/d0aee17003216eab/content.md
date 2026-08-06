@@ -1,0 +1,694 @@
+# Rapport sur les résultats ministériels 2023-2024 du Centre d’analyse des opérations et déclarations financières du Canada
+
+Pour la période se terminant le 31 mars 2024
+
+---
+
+L’honorable François-Philippe Champagne,  
+ministre des Finances et du Revenu national
+
+---
+
+ISSN 2560-8932
+
+## Sur cette page
+
+* [Message de la directrice et présidente-directrice générale](#dir)
+* [Résultats : ce que nous avons accompli](#s1)
+  + [Responsabilité essentielle 1 : Assurer la conformité avec la législation et la réglementation de lutte contre le blanchiment d’argent et le financement des activités terroristes](#s1.1)
+  + [Responsabilité essentielle 2 : Production et communication de renseignements financiers](#s1.2)
+  + [Services internes](#s1.3)
+* [Dépenses et ressources humaines](#s2)
+  + [Dépenses](#s2.1)
+  + [Financement](#s2.2)
+  + [Faits saillants des états financiers](#s2.3)
+  + [Ressources humaines](#s2.4)
+* [Renseignements organisationnels](#s3)
+* [Tableau de renseignements supplémentaires](#s4)
+* [Dépenses fiscales fédérales](#s5)
+* [Définitions](#s6)
+
+---
+
+## Message de la directrice et présidente-directrice générale
+
+![Sarah Paquet, directrice et présidente-directrice générale](/images/sarah-paquet.jpg "Sarah Paquet, directrice et présidente-directrice générale")
+
+Je suis heureuse de présenter au Parlement et aux Canadiens les résultats concrets et importants que le Centre d'analyse des opérations et déclarations financières du Canada (CANAFE) a obtenus en 2023-2024.
+
+Au cours du dernier exercice, CANAFE a joué un rôle clé dans la protection de la sécurité des Canadiens, tout particulièrement les citoyens et les collectivités les plus vulnérables du pays. Grâce aux renseignements que nous avons reçus des entreprises canadiennes, nous avons produit 4 600 communications de renseignements financiers fondées sur 1 783 communications uniques à l'appui d'enquêtes sur le blanchiment d'argent et le financement d'activités terroristes à l'échelle du Canada et partout dans le monde. Notre capacité à fournir des communications de renseignements multiples signifie que nous pouvons aider les organismes d'application de la loi et les organismes de sécurité nationale du Canada à relier entre elles des activités et des opérations criminelles se déroulant dans plusieurs territoires en suivant l'argent.
+
+En juin 2023, le Groupe fédéral des crimes graves et du crime organisé de la Gendarmerie royale du Canada (GRC) au Nouveau-Brunswick a reconnu la contribution de CANAFE dans une enquête sur le trafic de drogues illicites dans cette province, ainsi qu'en Ontario. Au cours de l'enquête, la police a saisi environ 18 kilogrammes de cocaïne, 3,5 kilogrammes de méthamphétamine en cristaux et 454 000 $ en espèces. Des chefs d'accusation ont été portés contre quatre personnes pour possession de cocaïne dans le but d'en faire le trafic, possession de produits de la criminalité et commission d'une infraction au profit, sous la direction ou en association avec une organisation criminelle.
+
+L'année dernière, nous avons continué à collaborer avec nos partenaires fédéraux, provinciaux, municipaux, privés et internationaux pour faire progresser les partenariats public-privé innovants du Canada, qui ciblent les principales menaces de blanchiment d'argent tant au niveau national qu'international. En partenariat avec les plus grandes banques du Canada, les organismes canadiens d'application de la loi et les unités de renseignement financier étrangères, nous avons produit plus de 450 communications de renseignements financiers exploitables à l'appui d'enquêtes sur le blanchiment d'argent liées à la traite de personnes, à l'exploitation sexuelle des enfants en ligne, au trafic de fentanyl, aux activités illicites liées au cannabis, aux arnaques amoureuses, au commerce illicite d'espèces sauvages et aux stratagèmes bancaires clandestins liés aux casinos.
+
+Nous avons également continué à contribuer à la protection du système financier et de l'économie du Canada en veillant à ce que les entreprises respectent la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et les règlements connexes. Dans le cadre de l'adoption d'une approche de surveillance améliorée axée sur le risque, nous avons mis l'accent sur la modernisation et l'évolution de notre cadre de surveillance pour qu'il ne se limite plus à la mesure de la « conformité technique », mais qu'il favorise la sensibilisation, l'identification et l'atténuation efficace des risques, et s'harmonise plus étroitement aux vulnérabilités en matière de blanchiment d'argent et de financement des activités terroristes identifiées dans l'évaluation des risques inhérents au Canada pour plus de 30 secteurs économiques et produits financiers.
+
+Aussi, nous adaptons nos approches pour mieux répondre aux besoins des entreprises sous la forme de services, de soutien et d'outils qui leur permettent d'identifier et d'atténuer plus facilement les risques de blanchiment d'argent et de financement des activités terroristes, et de satisfaire aux exigences législatives. Par exemple, notre passage à une surveillance axée sur le risque implique de faciliter l'accès des entreprises à CANAFE pour le téléchargement de déclarations et le partage d'informations. Pour nous, cela signifie également la capacité d'évaluer la qualité et l'opportunité des données d'une entreprise et de fournir une rétroaction immédiate en cas d'anomalies dans le taux ou la qualité des déclarations.
+
+Nous nous sommes engagés à travailler avec les entreprises pour les aider à comprendre et à respecter leurs obligations au titre de la Loi et des règlements connexes, notamment en fournissant des directives détaillées, en répondant à des milliers de demandes, en organisant des forums et des réunions avec les secteurs vulnérables et en introduisant de nouveaux outils et plateformes de communication. Nous avons également indiqué que nous ferons preuve de fermeté pour veiller à ce que les entreprises fassent leur part pour aider à protéger le Canada et les Canadiens, et nous avons pris des mesures fermes au cours de l'année écoulée lorsque cela s'avérait nécessaire. En 2023-2024, CANAFE a imposé les pénalités administratives pécuniaires les plus importantes de l'histoire du Centre. Au total, le Centre a dressé 12 procès-verbaux de non-conformité dont les pénalités imposées totalisaient 26 115 999 $.
+
+Tout comme nous travaillons avec les entreprises pour les aider à se conformer à la Loi, nous travaillons avec elles et nos partenaires fédéraux pour mettre en œuvre notre nouvelle vision de la modernisation, qui est axée sur la lutte contre le blanchiment d'argent et le financement des activités terroristes en temps réel. Cela signifie qu'il faut exploiter les compétences, les outils et les technologies modernes pour être en mesure d'identifier, d'évaluer et de communiquer les risques en temps réel; pour soutenir les entreprises et leur répondre en temps réel; pour recevoir des déclarations en temps réel; pour effectuer notre analyse en temps réel; et pour produire des renseignements financiers pour les organismes d'application de la loi et de sécurité nationale en temps réel ou le plus rapidement possible.
+
+Grâce à notre stratégie numérique innovante, nous faisons progresser l'automatisation numérique à l'échelle du Centre, l'analyse et l'utilisation responsable de l'intelligence artificielle. Nous avons créé une nouvelle équipe d'accélération et de modernisation numérique qui nous permettra d'expérimenter et d'exploiter les technologies les plus récentes. En mettant l'accent sur la modernisation, nous allons de l'avant du point de vue technique, des processus et de la culture afin de garder une longueur d'avance sur les acteurs malveillants, de trouver de nouvelles façons de collaborer avec nos partenaires et de continuer à apporter de la valeur et des résultats aux Canadiens dans un monde en constante évolution.
+
+Je suis honorée de partager les résultats impressionnants que le Centre a obtenus pour les Canadiens et de féliciter le personnel hautement qualifié et dévoué de CANAFE pour leurs réalisations et réussites au cours du dernier exercice. Je suis fière de travailler avec des professionnels aussi compétents qui sont reconnus au Canada et dans le monde entier pour leurs connaissances, leur savoir-faire et leur dévouement envers la lutte mondiale contre le blanchiment d'argent et le financement des activités terroristes.
+
+Sarah Paquet  
+Directrice et présidente-directrice générale
+
+## Résultats : ce que nous avons accompli
+
+### Responsabilités essentielles et services internes
+
+* [Responsabilité essentielle 1 : Assurer la conformité avec la législation et la réglementation de lutte contre le blanchiment d'argent et le financement des activités terroristes](#s1.1)
+* [Responsabilité essentielle 2 : Production et communication de renseignements financiers](#s1.2)
+* [Services internes](#s1.3)
+
+### Responsabilité essentielle 1 : Assurer la conformité avec la législation et la réglementation de lutte contre le blanchiment d'argent et le financement des activités terroristes
+
+#### Dans la présente section
+
+* [Description](#s1.11)
+* [Progrès à l'égard des résultats](#s1.12)
+* [Ressources nécessaires pour obtenir les résultats prévus](#s1.13)
+* [Priorités pangouvernementales connexes](#s1.14)
+* [Répertoire des programmes](#s1.15)
+
+#### Description
+
+CANAFE est responsable de veiller au respect de la partie 1 et de la partie 1.1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et des règlements connexes. Ce cadre législatif impose certaines obligations aux entités déclarantes, dont la mise en place et l'application d'un programme de conformité prévoyant la vérification de l'identité des clients, le contrôle des relations d'affaires, la tenue de documents et la déclaration de certains types d'opérations financières. CANAFE exerce des activités de soutien et d'application de la loi pour s'assurer que les entités déclarantes actives au sein du système financier canadien respectent leurs obligations en vertu de la Loi. Ces obligations constituent des mesures importantes permettant de contrecarrer les tendances et les comportements observés chez les criminels et les terroristes en vue de les dissuader d'infiltrer l'économie canadienne. CANAFE tient également un registre des entreprises de services monétaires au Canada et à l'étranger qui dirigent et fournissent des services à des personnes et à des entités au Canada.
+
+#### Progrès à l'égard des résultats
+
+Cette section présente les mesures prises par CANAFE pour atteindre les résultats et les cibles relativement à assurer la conformité avec la législation et la réglementation de lutte contre le blanchiment d'argent et le financement des activités terroristes. Les renseignements sont présentés par résultat ministériel.
+
+##### Tableau 1 : Cibles et résultats pour assurer la conformité avec la législation et la réglementation de lutte contre le blanchiment d'argent et le financement des activités terroristes
+
+Le tableau 1 fournit un résumé des cibles et des résultats pour chaque indicateur associé aux résultats liés à assurer la conformité avec la législation et la réglementation de lutte contre le blanchiment d'argent et le financement des activités terroristes.
+
+Les entités déclarantes se conforment à leurs obligations relatives à la lutte contre le blanchiment d'argent et le financement des activités terroristes
+
+| Indicateurs de résultats ministériels | Cible | Date d'atteinte de la cible | Résultats réels |
+| Pourcentage d’entités déclarantes qui n’exige aucune mesure d’application [Footnote 1](#fn1) | 90 % | 31 mars 2024 | 2021-2022 : 94 %  2022-2023 : 95 %  2023-2024 : 89 % |
+| Pourcentage des déclarations d’opérations financières transmises au Centre d’analyse des opérations et déclarations financières du Canada qui sont conformes aux règles de validation en tant qu’indicateur de la qualité | 90 % | 31 mars 2024 | 2021-2022 : 87 %  2022-2023 : 90 %  2023-2024 : 70 %[Footnote 2](#fn2) |
+
+Des informations supplémentaires sur [les résultats détaillés et les informations sur le rendement](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/results) pour le répertoire des programmes de CANAFE sont disponibles dans l'InfoBase du GC.
+
+#### Renseignements sur les résultats
+
+La section suivante décrit les résultats obtenus relativement à assurer la conformité avec la législation et la réglementation de lutte contre le blanchiment d’argent et le financement des activités terroristes en 2023-2024 en les comparant aux résultats prévus dans le Plan ministériel de CANAFE pour l'exercice.
+
+Dans le cadre de son mandat principal, CANAFE administre un programme de conformité complet axé sur les risques afin d'aider les entreprises à remplir leurs obligations au titre de la Loi et des règlements connexes.
+
+Ces obligations permettent d'accroître la transparence de certaines activités économiques et de dissuader les criminels et les terroristes d'utiliser le système financier canadien pour blanchir les produits de leurs crimes ou financer des activités terroristes.
+
+La conformité à la loi permet également de veiller à ce que CANAFE reçoive l'information dont il a besoin pour produire des renseignements financiers exploitables à l'intention des organismes d'application de la loi et de sécurité nationale du Canada.
+
+CANAFE s'oriente davantage vers une approche améliorée axée sur le risque, en modernisant et en faisant évoluer son cadre de conformité vers un cadre de surveillance, afin de promouvoir la sensibilisation, l'identification et l'atténuation efficace des risques par les entreprises surveillées par CANAFE. Un ensemble approprié de politiques et de procédures, soutenu par des systèmes et des mécanismes de formation adéquats, ainsi qu'une capacité à changer dans un environnement opérationnel complexe et dynamique, sont essentiels à cette évolution.
+
+En 2023-2024, CANAFE a obtenu les résultats suivants, et plus encore :
+
+#### Assistance aux entreprises
+
+CANAFE s'est engagé à travailler avec les entreprises de tout le pays pour les aider à comprendre et à respecter leurs obligations en vertu de la Loi et des règlements connexes.
+
+En plus de publier des directives complètes et propres à chaque secteur pour les entreprises assujetties à la Loi, CANAFE fournit des directives opportunes et ciblées sur les changements législatifs et réglementaires et sur d'autres questions liées à la conformité, et ce, de façon continue.
+
+* CANAFE a multiplié sa [série de vidéos](https://www.youtube.com/%40canafe_canada) pour aider les entreprises à mieux comprendre comment s'acquitter de leur obligation relative à la vérification de l'identité de leurs clients. Cette obligation, qui lève l'anonymat des opérations financières, est l'une des plus importantes mesures en place pour protéger le système financier du Canada contre les blanchisseurs d'argent et les financiers du terrorisme. Les vidéos décrivent, d'une façon simple et concise, différentes méthodes que les entreprises peuvent utiliser pour vérifier l'identité d'une personne ou d'une entité effectuant une opération financière. Les vidéos visent à sensibiliser les entreprises à leur obligation, à les aider à mieux comprendre cette obligation et à répondre à leurs besoins en matière de formation sur la lutte contre le blanchiment d'argent (BA) et le financement des activités terroristes (FAT).
+* CANAFE a continué à travailler en étroite collaboration avec le ministère des Finances du Canada pour mettre en œuvre les modifications législatives et réglementaires qui étendront le champ d'application des obligations de la Loi aux services de véhicules blindés et aux prêteurs hypothécaires en 2024-2025. En outre, en collaboration avec le ministère des Finances, CANAFE a aidé Innovation, Sciences et Développement économique Canada à mettre en œuvre un registre de la propriété effective des sociétés accessible au public. De même, CANAFE a continué de collaborer avec la Banque du Canada à la mise en œuvre de la nouvelle Loi sur les activités associées aux paiements de détail et du cadre associé qui entrera en vigueur en novembre 2024.
+* CANAFE a organisé des activités de sensibilisation et de mobilisation avec des entreprises, des associations industrielles, des organismes de réglementation provinciaux, des organismes de réglementation et des ministères fédéraux, des intervenants et des partenaires internationaux au moyen de réunions virtuelles et physiques, de présentations, de conférences, de formations et d'autres événements. Un exemple est le Forum des casinos, que CANAFE a organisé en Colombie-Britannique en septembre 2023. Cet événement a réuni des dirigeants de casinos, des partenaires fédéraux et des experts du secteur pour discuter des risques et des questions émergentes dans le secteur des casinos.
+* CANAFE a répondu à 10 934 demandes de renseignements provenant d'entreprises de tous les secteurs de déclaration portant sur un large éventail de sujets comme les obligations de déclaration, l'accès aux systèmes de déclaration, l'enregistrement des entreprises de services monétaires et les exigences associées aux modifications réglementaires qui sont entrées en vigueur en juin 2021.
+* Au 31 mars 2024, 2 984 entreprises de services monétaires étaient enregistrées auprès du Centre. Au cours du dernier exercice, 1 390 nouvelles entreprises de services monétaires se sont inscrites auprès de CANAFE ou ont renouvelé leur inscription. De plus, 135 entreprises ont cessé leurs activités et mis fin à leur inscription, 250 inscriptions ont expiré, 17 inscriptions ont été révoquées et deux demandes d'inscription ont été refusées. Toutes les entreprises de services monétaires qui ont cessé leurs activités ou dont l'inscription est expirée, a été révoquée ou refusée ne sont donc pas considérées comme étant inscrites et ne peuvent pas légalement exercer leurs activités au Canada.
+* CANAFE a continué à faire avancer les travaux du Comité directeur collaboratif public-privé (CDCPP). Le CDCPP est coprésidé par CANAFE et rassemble des cadres supérieurs des principaux partenaires fédéraux et de sept des plus grandes banques canadiennes. En 2023-2024, le Comité s'est concentré sur les initiatives de partage d'informations, en particulier sur l'élaboration de cas d'utilisation et la schématisation des flux d'informations au niveau du système, afin de soutenir l'examen de la manière dont le partage d'informations entre particuliers pourrait potentiellement être activé au Canada pour aider à la détection des activités de blanchiment d'argent et de financement du terrorisme.
+
+#### Évaluation
+
+CANAFE surveille la qualité, l'opportunité et la quantité des déclarations d'opérations financières qu'il reçoit des entreprises de tout le pays. Le Centre a beaucoup investi dans la validation et le contrôle des données déclaratives, notamment en améliorant ses processus opérationnels afin d'accroître l'efficacité de son contrôle.
+
+* CANAFE a évalué la conformité de plus de 600 entreprises par le biais d'un ou plusieurs types d'activités d'évaluation. Environ 89 % des entreprises évaluées par CANAFE n'ont pas nécessité de mesures d'application de la loi. Par conséquent, ces évaluations n'ont pas donné lieu à d'autres activités ou ont donné lieu à une activité de suivi au lieu de mesures d'application de la loi (p. ex. surveillance de l'intégrité des données, évaluation de suivi, plan d'action, etc.).
+* CANAFE a reçu plus de 280 auto-déclarations volontaires de non-conformité. La majorité des avis provenaient d'institutions financières et se rapportaient à des déclarations qui n'avaient pas été transmises. Le Centre a travaillé en collaboration avec ces institutions financières pour s'assurer que les déclarations d'opérations financières soient transmises comme il se doit à CANAFE, et a fourni des directives au besoin.
+* Au cours du dernier exercice, CANAFE a également introduit un questionnaire d'évaluation des risques et de la surveillance (QERS) qui doit être rempli par les entreprises. Ce questionnaire conçu pour évaluer leur exposition aux risques et leur conformité aux obligations en matière de lutte contre le blanchiment d'argent et le financement des activités terroristes (BA/FAT). Alors que CANAFE continue de développer cet outil, l'objectif est de favoriser des interventions de surveillance sensibles aux risques dans tous les secteurs et d'informer la planification de CANAFE pour une assistance ciblée, telle que des ateliers et des évaluations, y compris des examens. Une centaine d'entreprises ont répondu au questionnaire en 2023-2024 et les résultats permettent de prioriser les activités d'évaluation de la surveillance des ED à risque élevé dans les années à venir.
+* CANAFE a travaillé en étroite collaboration avec le ministère des Finances du Canada à l'élaboration du nouveau modèle de financement par cotisations relatives aux frais (c.-à-d., par recouvrement de coûts) du Centre. Dans le cadre du plan de mise en œuvre, CANAFE a mis au point les processus opérationnels, élaboré les outils nécessaires à la mise en application du modèle de financement et mis en œuvre les solutions technologiques requises pour la date d'entrée en vigueur du 1er avril 2024. Le Règlement sur les cotisations relatives aux frais a été approuvé par décret et publié dans la Gazette du Canada en octobre 2023. Les modifications législatives accordant à CANAFE le pouvoir d'imposer une cotisation aux personnes et entités qu'elle supervise et réglemente sont entrées en vigueur en janvier 2024. Ce règlement et les modifications permettront à CANAFE de recouvrer l'intégralité des coûts de son programme de conformité à partir de 2024-2025.
+* Le programme de conformité de CANAFE est passé d'une gestion régionale à une gestion organisationnelle, où les opérations de bout en bout sont désormais assurées par des volets sectoriels. Avec cette approche plus ciblée et centrée sur le client, de nouvelles équipes ont été créées pour se concentrer sur un secteur d'activité particulier. Les employés qui forment ces équipes s'engagent à acquérir une connaissance approfondie des processus commerciaux et des risques du secteur visé, ce qui permet d'apporter une aide plus significative et plus adaptée et de cibler les risques les plus importants, renforçant ainsi l'efficacité globale du régime canadien de lutte contre le blanchiment d'argent et le financement du terrorisme.
+
+#### Application de la loi
+
+CANAFE est déterminé à travailler avec les entreprises pour les aider à comprendre leurs obligations et à s'y conformer. Cependant, le Centre est également prêt à prendre des mesures fermes lorsque cela est nécessaire pour s'assurer que les entreprises prennent leurs responsabilités au sérieux.
+
+En 2008, CANAFE a reçu l'autorisation législative d'imposer des pénalités administratives pécuniaires aux entreprises qui ne se conforment pas à la Loi. Selon la Loi, les pénalités ne doivent pas être de nature punitive, mais viser à modifier le comportement non conforme des entreprises. Le programme des pénalités administratives pécuniaires soutient le mandat du CANAFE en fournissant une réponse mesurée et proportionnelle à des cas précis de non-conformité.
+
+En 2019, le Centre a publié sa [Politique sur les pénalités administratives pécuniaires](/pen/2-fra), qui décrit en termes clairs et transparents le processus d'imposition des pénalités et la méthode de leur calcul par le CANAFE en cas de non-conformité à la Loi et aux règlements connexes. Le Centre a aussi élaboré et publié aussi un nombre de [guides](/pen/1-fra) qui décrivent la méthodologie suivie pour déterminer le tort causé relativement à plus de 200 violations figurant au Règlement sur les pénalités administratives – recyclage des produits de la criminalité et financement des activités terroristes, ainsi que la justification du CANAFE relativement à la détermination des montants de pénalité correspondants.
+
+CANAFE est tenu de publier le nom de toutes les personnes et entités auxquelles il a imposé des pénalités administratives pécuniaires. Au cours du dernier exercice, le Centre s'est engagé à faire preuve de plus d'ouverture et de transparence et à publier des informations supplémentaires sur la nature des violations commises par les entreprises assujetties à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes.
+
+En 2023-2024, CANAFE a imposé les pénalités administratives pécuniaires les plus importantes de l'histoire du Centre. Au total, le Centre a dressé 12 procès-verbaux de violation pour un montant de 26 115 999 $. L'avis public de la pénalité peut avoir lieu des mois après l'émission d'un procès-verbal. Par conséquent, l'exercice financier au cours duquel un avis de pénalité administrative pécuniaire est publié ne correspond pas nécessairement à l'exercice financier au cours duquel le procès-verbal a été dressé.
+
+#### Cultiver des relations stratégiques avec les principaux intervenants externes
+
+CANAFE s'est engagé à tirer parti des connaissances et de l'expertise de ses partenaires nationaux et internationaux afin d'influencer le changement dans la façon dont nous détectons et décourageons le blanchiment d'argent et le financement des activités terroristes.
+
+* CANAFE fait partie de la délégation canadienne au Groupe d'action financière, un organisme international qui établit des normes et favorise la mise en œuvre efficace de mesures juridiques, réglementaires et opérationnelles pour combattre le blanchiment d'argent et le financement des activités terroristes. Au cours du dernier exercice, CANAFE a participé à l'examen de plusieurs évaluations et suivis mutuels et a soutenu l'amélioration des normes et processus du Groupe d'action financière.
+* CANAFE a contribué activement à la préparation du Canada en vue du cinquième cycle d'évaluation mutuelle du GAFI en dirigeant plusieurs domaines de l'auto-évaluation du régime, en soutenant le ministère des Finances et d'autres ministères et organismes dans leurs travaux et en collaborant avec les partenaires du régime à la collecte de données et à la réalisation d'études de cas.
+* Le Centre a également collaboré à de nombreux documents de politique et de recherche du GAFI, notamment sur des enjeux tels que les flux financiers illicites provenant de la fraude cybernétique et l'utilisation du sociofinancement à des fins de financement du terrorisme, entre autres, afin de renforcer les efforts internationaux de lutte contre le blanchiment d'argent et le financement du terrorisme par le biais d'un régime international solide.
+* CANAFE a continué de soutenir les efforts internationaux du Canada visant à améliorer les régimes de lutte contre le BA/FAT dans le monde entier, en contribuant activement et de façon continue aux travaux des organismes régionaux de type GAFI, notamment le Groupe d'action financière des Caraïbes (GAFIC) et le Groupe Asie-Pacifique (GAP).
+* Au cours du dernier exercice, CANAFE a organisé des séances de formation technique sur les actifs virtuels et les fournisseurs de services d'actifs virtuels à l'intention de l'unité de renseignement financier (URF) du Pakistan et de l'URF de Trinité-et-Tobago, ainsi qu'une séance sur la surveillance et l'application de la loi en matière de lutte contre le blanchiment d'argent et le financement du terrorisme à l'intention de l'URF du Nigéria.
+* La directrice et présidente-directrice générale de CANAFE a pour une quatrième année assumé le rôle de présidente du groupe de travail sur l'échange d'informations du Groupe Egmont. Le Groupe Egmont rassemble 177 URF à travers le monde pour partager des informations et coopérer dans la lutte contre le blanchiment d'argent, le financement du terrorisme et les crimes connexes. En 2023-2024, le mandat de la directrice en tant que présidente a été renouvelé pour deux années supplémentaires. Ce poste de direction permet à la directrice de poursuivre le travail stratégique et l'analyse visant à améliorer la coopération entre les URF et à renforcer les connaissances opérationnelles, l'efficience et l'efficacité des URF, ainsi que de participer aux activités opérationnelles ou aux projets entrepris par d'autres instances internationales.
+* CANAFE a continué à participer activement au Forum international des superviseurs (FIS) et a assumé le rôle de président en mars 2024. Le FIS est un lieu d'échange d'informations et de pratiques exemplaires entre les organismes de réglementation internationaux du Canada, des États-Unis, du Royaume-Uni, de l'Australie et de la Nouvelle-Zélande.
+
+#### Ressources nécessaires pour obtenir les résultats prévus
+
+##### Tableau 2 : Aperçu des ressources nécessaires pour assurer la conformité avec la législation et la réglementation de lutte contre le blanchiment d'argent et le financement des activités terroristes
+
+Le tableau 2 présente un résumé des dépenses prévues et réelles et des équivalents temps plein (ETP) nécessaires pour obtenir les résultats prévus.
+
+| Ressource | Dépenses prévues | Dépenses réelles |
+| --- | --- | --- |
+| Dépenses | 30 819 567 $ | 30 938 502 $ |
+| Équivalents temps plein | 179 | 185 |
+
+[Des informations financières complètes](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/financial) et [des ressources humaines](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/people) pour le répertoire des programmes de CANAFE sont disponibles dans l'InfoBase du GC.
+
+#### Priorités pangouvernementales connexes
+
+##### Développement durable
+
+Pour en apprendre plus sur ce que CANAFE met en œuvre dans le cadre du Plan de mise en œuvre fédéral du Canada pour le Programme 2030 et de la Stratégie fédérale de développement durable, consultez la [Stratégie ministérielle de développement durable](/publications/dsds-smdd/dsds-smdd-fra).
+
+##### Innovation
+
+Au cours du dernier exercice, CANAFE a continué d'accroître sa présence dans l'informatique en nuage, en mettant en place des solutions plus souples, plus sûres et plus évolutives. Grâce à cette nouvelle infrastructure, le Centre a pu mettre en place l'interface de programmation d'applications (API) pour la soumission des déclarations, qui est la nouvelle plateforme de CANAFE pour la transmission sécurisée de déclarations d'opérations financières d'un système à l'autre. Ces améliorations font partie intégrante de l'objectif de modernisation du Centre, qui est de permettre aux entreprises de remplir plus facilement leurs obligations légales tout en permettant à CANAFE de gérer et d'exploiter plus efficacement le volume élevé de renseignements qu'il reçoit. Cela est essentiel pour l'analyse du Centre et sa capacité à produire des renseignements financiers exploitables pour les organismes d'application de la loi et de sécurité nationale du Canada.
+
+En plus de sa nouvelle plateforme d'API de soumission de déclaration, CANAFE a également modernisé des formulaires de déclaration clés au cours de la dernière année, notamment les déclarations d'opérations importantes en espèces et les déclarations d'opérations importantes en monnaie virtuelle. Ces nouveaux formulaires permettent aux entreprises de regrouper les opérations conformément aux règlements modifiés, et ils contiennent de nouveaux champs mieux automatisés qui amélioreront la qualité des données et permettront une meilleure analyse stratégique des données. La modernisation des déclarations d'opérations douteuses, de télévirements et de déboursements de casinos se poursuivra en 2024-2025.
+
+#### Répertoire des programmes
+
+Assurer la conformité avec la législation et la réglementation sur la lutte contre le blanchiment d'argent et le financement des activités terroristes est appuyée par les programmes suivants :
+
+* Programme de conformité
+* Politiques stratégiques et examens
+
+Des informations supplémentaires relatives au répertoire des programmes pour assurer la conformité avec la législation et la réglementation en matière de lutte contre le blanchiment d'argent et le financement du terrorisme sont disponibles sur la [page des résultats de l'InfoBase du GC](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/results).
+
+### Responsabilité essentielle 2 : Production et communication de renseignements financiers
+
+#### Dans la présente section
+
+* [Description](#s1.21)
+* [Progrès à l'égard des résultats](#s1.22)
+* [Ressources nécessaires pour obtenir les résultats prévus](#s1.23)
+* [Priorités pangouvernementales connexes](#s1.24)
+* [Répertoire des programmes](#s1.25)
+
+#### Description
+
+CANAFE est mandaté par la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) pour produire des renseignements financiers exploitables qui aident la police, les organismes d'application de la loi, les organismes de sécurité nationale et d'autres organismes partenaires nationaux et internationaux du Canada à lutter contre le blanchiment d'argent, le financement des activités terroristes et les menaces envers la sécurité du Canada, et ce tout en protégeant les renseignements personnels qui lui sont confiés. Le Centre produit également des renseignements financiers stratégiques à l'intention des décideurs politiques fédéraux, de la communauté de la sécurité et du renseignement, des entités déclarantes au pays, de ses partenaires étrangers et d'autres intervenants. Les renseignements stratégiques de CANAFE offrent une perspective analytique globale sur la nature et l'étendue du blanchiment d'argent et du financement des activités terroristes et de la menace qu'ils représentent.
+
+#### Progrès à l'égard des résultats
+
+Cette section présente les mesures prises par CANAFE pour atteindre les résultats et les cibles relativement à la production et à la communication de renseignements financiers. Les renseignements sont présentés par résultat ministériel.
+
+##### Tableau 3 : Cibles et résultats pour la production et la communication de renseignements financiers
+
+Le tableau 3 fournit un résumé des cibles et des résultats pour chaque indicateur associé aux résultats liés à la production et à la communication de renseignements financiers.
+
+Les renseignements tactiques financiers de CANAFE orientent les activités liées aux enquêtes
+
+| Indicateurs de résultats ministériels | Cible | Date d'atteinte de la cible | Résultats réels |
+| Pourcentage des commentaires reçus de la part des destinataires selon lesquels les renseignements financiers communiqués par CANAFE étaient exploitables | 85 % | 31 mars 2024 | 2021-2022 : 97 %  2022-2023 : 96 %  2023-2024 : 97 % |
+
+Les renseignements stratégiques de CANAFE orientent les politiques et les processus de prise de décision
+
+| Indicateurs de résultats ministériels | Cible | Date d'atteinte de la cible | Résultats réels |
+| Pourcentage des partenaires du régime qui utilisent les produits de CANAFE pour orienter leurs activités [Footnote 3](#fn3) | 70 % | 31 mars 2024 | 2021-2022 : 72 %  2022-2023 : 75 %  2023-2024 : 86 % |
+
+Des informations supplémentaires sur [les résultats détaillés et les informations sur le rendement](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/results) pour le répertoire des programmes de CANAFE sont disponibles dans l'InfoBase du GC.
+
+#### Renseignements sur les résultats
+
+La section suivante décrit les résultats obtenus relativement à la production et à la communication de renseignements financiers en 2023-2024 en les comparant aux résultats prévus dans le Plan ministériel de CANAFE pour l'exercice.
+
+Dans le cadre de son mandat, CANAFE fournit des renseignements financiers exploitables aux organismes d'application de la loi et de sécurité nationale au Canada pour les aider à lutter contre le blanchiment d'argent, le financement des activités terroristes et les menaces envers la sécurité du Canada. Le renseignement de CANAFE a joué un rôle clé pour contribuer à la protection de la sécurité des Canadiens, et tout particulièrement les citoyens et les collectivités les plus vulnérables du pays.
+
+Compte tenu de la complexité de la mise en relation des flux de fonds illicites impliquant souvent des groupes du crime organisé, les communications de renseignements financiers de CANAFE comprennent souvent des milliers de déclarations d'opérations financières dans chaque communication. Dans un même temps, la valeur des opérations dans chaque communication peut se chiffrer en millions, voire en centaines de millions de dollars.
+
+Une communication de renseignements financiers peut mettre au jour des liens entre des personnes et des entreprises qui n'ont pas été dévoilés dans le cadre d'une enquête, et aider les enquêteurs à préciser la portée de leur dossier ou encore les amener à s'intéresser à de nouvelles cibles. Les communications de renseignements peuvent porter sur une seule personne ou un réseau criminel plus vaste. Elles sont également utilisées par les organismes d'application de la loi pour préparer des déclarations sous serment dans le but d'obtenir des mandats de perquisition et des ordonnances de communication. Les renseignements financiers de CANAFE sont utilisés dans un large éventail d'enquêtes criminelles liées au financement d'activités terroristes et au blanchiment d'argent provenant de crimes tels que le trafic de drogue, la fraude, l'évasion fiscale, la corruption et la traite de personnes.
+
+Les renseignements financiers produits par CANAFE peuvent également être utilisés pour étayer les demandes d'inscription sur les listes des entités terroristes, des personnes ou des entités sanctionnées et permettre au gouvernement de parfaire ses connaissances sur les dimensions financières des menaces, y compris le crime organisé et le terrorisme.
+
+Les renseignements financiers de CANAFE sont à l'avant-plan de l'importante innovation et contribuent à l'obtention des résultats dans l'ensemble du régime canadien de lutte contre le BA/FAT. Le régime a mis en place un certain nombre de partenariats public-privé très fructueux avec des entreprises canadiennes et des organismes d'application de la loi dans l'ensemble du pays. Ces partenariats visent à lutter plus efficacement contre le blanchiment d'argent provenant de la traite de personnes à des fins d'exploitation sexuelle, de l'exploitation sexuelle des enfants en ligne, des arnaques amoureuses, du trafic de fentanyl illicite, des opérations bancaires clandestines liées au casino, ainsi que du blanchiment d'argent provenant du cannabis illicite et du commerce illicite d'espèces sauvages.
+
+Un aperçu détaillé des principaux résultats obtenus dans le cadre des projets [Protect](/intel/operation/oai-hts-2021-fra), [Guardian](/intel/operation/iso-osi-fra), [Chameleon](/intel/operation/rf-fra), [Athena](/intel/operation/casino-fra), [Shadow](/intel/operation/exploitation-fra), [Legion](/intel/operation/cannabis-fra) et [Anton](/intel/operation/oai-wildlife-fra) se trouve dans le [Rapport annuel de CANAFE](/publications/corp-publications-fra). Au total, en 2023-2024, CANAFE a transmis plus de 450 communications de renseignements financiers exploitables à des organismes d'application de la loi au Canada dans le cadre des sept partenariats public-privé.
+
+Outre les renseignements financiers communiqués par le Centre, CANAFE produit également des renseignements financiers stratégiques précieux pour remplir son mandat. Grâce à des techniques de recherche et d'analyse, le Centre est en mesure d'identifier les caractéristiques, tendances et tactiques émergentes utilisées par les criminels et autres acteurs malveillants pour blanchir les produits de la criminalité, financer des activités terroristes ou des menaces pour la sécurité du Canada. En communiquant ses renseignements stratégiques, CANAFE veut faire connaître à la communauté de la sécurité et du renseignement du pays, aux partenaires du régime, aux décideurs politiques, aux entreprises, à la population canadienne et à ses homologues internationaux la nature et l'étendue de ces activités illicites. Le [Rapport annuel de CANAFE](/publications/corp-publications-fra) donne plus de détails sur la manière dont CANAFE accroît le niveau de sensibilisation au blanchiment d'argent et au financement du terrorisme.
+
+En 2023-2024, CANAFE a obtenu les résultats suivants, entre autres :
+
+##### Renseignement financier
+
+Destinataires des communications :   
+2023-2024
+
+| Gendarmerie royale du Canada | 1 883 |
+| Services policiers municipaux | 789 |
+| Services policiers provinciaux | 689 |
+| Agence des services frontaliers du Canada | 556 |
+| Agence du revenu du Canada/Revenu Québec | 231 |
+| Unités du renseignement financier étrangères | 231 |
+| Service canadien du renseignement de sécurité | 181 |
+| Organismes provinciaux de réglementation des valeurs mobilières | 38 |
+| Ministère de la Défense nationale | 6 |
+| Bureau de la concurrence | 5 |
+| Centre de la sécurité des télécommunications | 3 |
+| Affaires mondiales Canada | 1 |
+| Bureau du surintendant des institutions financières | 1 |
+
+* Nous avons produit 4 600 communications de renseignements financiers fondées sur 1 783[Footnote 4](#fn4) communications uniques à l'appui d'enquêtes sur le blanchiment d'argent et le financement d'activités terroristes à l'échelle du Canada et partout dans le monde.
+* Au cours du dernier exercice, les déclarations uniques du Centre ont comporté 297 733 déclarations d'opérations financières, soit plus de 966 705 opérations financières.
+* Lors du dernier exercice, approximativement 20 %[Footnote 5](#fn5) des communications de renseignements financiers du Centre ont été transmises de façon proactive aux organismes d'application de la loi et de sécurité nationale du Canada, ainsi qu'à des URF internationales, ce qui signifie que les personnes ou les réseaux identifiés dans les renseignements financiers étaient peut-être inconnus de ces organismes avant l'envoi de ces renseignements par CANAFE.
+* CANAFE a reçu 2 485 rapports de renseignements transmis volontairement (RTV) liés au blanchiment d'argent et au financement d'activités terroristes par les organismes d'application de la loi et de sécurité nationale au Canada, ainsi que par des membres du public. Ces rapports fournissent des renseignements cruciaux sur des criminels ou terroristes présumés et constituent souvent le point de départ des analyses réalisées au Centre. CANAFE s'en sert pour établir des liens entre des personnes et des entités et pour générer des renseignements financiers exploitables à l'intention des destinataires des communications.
+* Les renseignements financiers du Centre ont contribué à 266 enquêtes majeures, nécessitant beaucoup de ressources, ainsi qu'à des centaines d'autres enquêtes individuelles à l'échelle municipale, provinciale et fédérale dans tout le pays. Les organismes canadiens d'application de la loi — en particulier la Gendarmerie royale du Canada — continuent d'être les principaux destinataires des renseignements financiers de CANAFE.
+* Au cours du dernier exercice, le Centre a reçu 159 formulaires de rétroaction sur les communications de renseignements de la part des organismes canadiens d'application de la loi et de la sécurité nationale. 92 % des commentaires reçus indiquent que les renseignements financiers de CANAFE ont fourni de nouvelles informations sur des sujets connus et 72 % signalent qu'ils ont fourni des informations précieuses sur des sujets jusqu'alors inconnus liés à leurs enquêtes.
+
+Classement des cinq principales infractions sous-jacentes en cause dans les communications de renseignements : 2023-2024
+
+| Drogues | 23 % |
+| Fraude | 20 % |
+| Évasion fiscale | 10 % |
+| Douanes/accises | 7 % |
+| Crimes contre la personne (139 communications axées sur la traite de personnes) | 7 % |
+
+* En 2023-2024, CANAFE a reçu 39 mentions dans les médias à tous les niveaux d'application de la loi en raison de ses efforts pour lutter contre le blanchiment d'argent, le financement du terrorisme et les menaces à la sécurité du Canada.
+* En 2023-2024, la contribution de CANAFE a été reconnu par la Stratégie des opérations conjointes de l'Ontario en matière de lutte contre la traite de personnes dirigée par le renseignement, qui réunit la Police provinciale de l'Ontario, le Service de police de Toronto, le Service de police du Grand Sudbury et le Service de police de Treaty Three. À l'issue des 65 enquêtes menées depuis 2021, plus de 230 chefs d'accusation ont été portés contre 28 personnes. Les victimes étaient âgées de 12 à 47 ans.
+* Avec le soutien de la Banque de Montréal, le responsable du projet, il a été officiellement annoncé en 2023-2024 que le projet Protect évoluait pour intégrer la traite de personnes à des fins de travail forcé, en plus de la traite de personnes à des fins d'exploitation sexuelle. L'équipe du Renseignement stratégique a commencé à produire une nouvelle alerte opérationnelle avec des indicateurs de renseignements financiers mis à jour concernant la traite de personnes. Dans le cadre de cette évolution, l'équipe du projet Protect a commencé à mener des activités de sensibilisation et d'information axées sur la traite de personnes, afin de montrer comment les renseignements financiers peuvent être utilisés pour soutenir ces enquêtes. Par exemple, à l'occasion de la Journée mondiale des Nations Unies contre la traite des êtres humains en juillet 2023, CANAFE a organisé un webinaire intitulé « Aucun survivant laissé derrière : Occasions et défis associés à l'élimination de la traite à des fins de travail forcé au Canada ». L'événement, auquel ont assisté plus de 300 participants virtuels, comprenait une étude de cas d'une enquête récente sur la traite de personnes et un groupe de discussion sur les tendances actuelles de la traite de personnes.
+* CANAFE a collaboré avec le Centre d'excellence et de leadership des URF (ECOFEL), l'organe de formation d'Egmont, pour mettre à jour son cours d'apprentissage en ligne sur le commerce illicite d'espèces sauvages en s'appuyant sur les leçons tirées du projet Anton. Plus de 200 membres du personnel de diverses URF dans le monde entier ont suivi ce cours.
+* En 2023, CANAFE, le Financial Crimes Enforcement Network (FinCEN) des États-Unis et l'Unidad de Inteligencia Financiera du Mexique ont créé collectivement le groupe de travail sur la finance illicite du Dialogue nord-américain relatif aux drogues. Le groupe se réunit chaque mois dans le cadre d'une collaboration visant à faire progresser les stratégies nationales et internationales de lutte contre les stupéfiants de chaque pays en élaborant une approche plus unifiée pour détecter, décourager et prévenir le commerce illicite et le financement du fentanyl et d'autres opioïdes synthétiques à l'échelle mondiale.
+* En tant que membre fondateur de l'International Financial Action Strike Team (IFAST), CANAFE a accueilli le tout premier programme d'échange d'analystes de l'IFAST, un atelier d'une semaine axé sur la production d'un produit de renseignement commun sur un grand réseau international de blanchiment d'argent.
+* CANAFE a participé au Cyberdéfi 2023 du Joint Chiefs of Global Tax Enforcement, avec les URF de chaque pays, qui a généré des dizaines de pistes, avec un accent particulier sur les cryptoactifs, sur lesquelles les autorités fiscales et les organismes d'application de la loi peuvent enquêter.
+* En 2023-2024, le Centre a reçu 280 demandes de renseignements concernant le blanchiment d'argent et le financement des activités terroristes de la part d'unités du renseignement financier étrangères, et a fourni 97 communications uniques et 231 communications de renseignements. Les communications uniques de CANAFE transmises aux unités du renseignement financier étrangères contenaient 48 771 déclarations d'opérations, soit un total de 56 577 opérations financières. Les communications ont permis d'identifier 427 personnes ou entités d'intérêt.
+* En 2023-2024, CANAFE a également contribué à l'important travail de la Coalition mondiale de lutte contre la criminalité financière, une coalition public-privé visant à renforcer la lutte contre la criminalité financière à l'échelle mondiale en identifiant les faiblesses du système actuel et en plaidant en faveur d'une réforme tangible. La directrice et PDG de CANAFE a continué à coprésider le sous-groupe des unités du renseignement financier et des organismes d'application de la loi au sein du groupe de travail sur l'efficacité. Le but de ce sous-groupe est de conseiller sur la manière dont les unités du renseignement financier et les organismes d'application de la loi peuvent travailler en collaboration pour s'assurer que le renseignement financier est utilisé dans toute la mesure du possible afin de perturber la criminalité financière.
+* Tout au long de l'exercice, CANAFE a exploré de nouveaux outils d'analyse pour mettre en œuvre des méthodes, des techniques et des capacités analytiques nouvelles et émergentes dans le but d'améliorer les produits de renseignement et les activités opérationnelles. Par exemple, le Centre a développé et déployé un outil d'automatisation i2 pour faciliter la génération et l'analyse de réseaux.
+
+##### Renforcer la coopération intergouvernementale
+
+* CANAFE a également contribué à la réalisation des objectifs de la Counter Illicit Finance Alliance of British Columbia (CIFA-BC). Cela comprenait la participation à des réunions régulières entre tous les intervenants pertinents de CIFA-BC, ainsi que l'implication de CANAFE dans des groupes de travail plus petits créés pour générer des rapports et discuter de questions spécifiques relatives à des sujets tels que la cryptomonnaie, le trafic illicite d'espèces sauvages, les jeux en ligne illégaux et l'amélioration des flux d'informations pour soutenir le recouvrement des actifs civils. Dans le cadre de ces groupes de travail et de ces réunions, CANAFE s'est régulièrement entretenu avec de nombreuses entités du secteur privé, notamment des institutions financières, des coopératives de crédit et des casinos, ainsi qu'avec des intervenants du secteur public à tous les niveaux du gouvernement.
+* CANAFE a participé à des dizaines de réunions opérationnelles avec des organismes d'application de la loi municipaux, provinciaux et fédéraux, des commissions de sécurité et d'autres organismes fédéraux et provinciaux partout au pays. Il convient de noter que CANAFE a contribué au projet VECTOR, une enquête menée par le groupe de travail provincial sur le vol d'automobiles et le remorquage de la Police provinciale de l'Ontario.
+* Le Centre a également donné près de 60 présentations à ses partenaires du régime de lutte contre le blanchiment d'argent et le financement des activités terroristes, aux intervenants et aux organismes canadiens d'application de la loi et de la sécurité nationale, sur la valeur du renseignement financier dans le cadre des enquêtes sur le blanchiment d'argent, le financement des activités terroristes et d'autres types de crimes financiers. Ces présentations ont été organisées, entre autres, par le Collège canadien de police (cours sur l'exploitation des enfants sur Internet), la GRC (cours d'enquêteur sur les produits de la criminalité, l'exploitation des enfants et les cryptomonnaies), le Collège de police de l'Ontario (cours d'enquêteur sur la fraude et la traite de personnes) et le Service de police de Toronto (conférence sur la traite de personnes).
+* En février 2024, CANAFE a participé à un programme de formation dirigé par la GRC à l'intention des enquêteurs de l'URF de l'Afrique de l'Est et des enquêteurs en matière de criminalité financière aux Seychelles, en partenariat avec l'Office des Nations Unies contre la drogue et le crime et à l'appui du Programme de renforcement des capacités de lutte contre la criminalité d'Affaires mondiales Canada.
+
+##### Renseignement stratégique
+
+* En étroite harmonie avec [la mise à jour de l'évaluation des risques inhérents au recyclage des produits de la criminalité et au financement des activités terroristes au Canada](https://www.canada.ca/fr/ministere-finances/services/publications/evaluation-risques-inherents-recyclage-produits-criminalite-financement-activites-terroristes-canada.html), CANAFE a produit 22 évaluations et rapports de renseignements financiers stratégiques sur une gamme de tendances, typologies et mécanismes précis en matière de blanchiment d'argent et de financement des activités terroristes pour améliorer les mesures de détection, de prévention de ces activités et de dissuasion à leur commission. Ces évaluations et rapports couvrent des domaines prioritaires clés, notamment les blanchisseurs professionnels, le financement du terrorisme, le blanchiment d'argent par des groupes criminels organisés nationaux et internationaux, le blanchiment des produits de la traite de personnes et la fraude.
+* S'appuyant sur le lancement réussi de l'[avis sectoriel et géographique sur les systèmes bancaires clandestins utilisant des entreprises de services monétaires non inscrites](/intel/advisories-avis/bank-fra) en 2022-2023, CANAFE a entrepris une analyse supplémentaire en 2023-2024 afin de produire un nouvel avis sectoriel et géographique sur le rôle des guichets bancaires automatiques de monnaie virtuelle dans le blanchiment des produits de la criminalité, qui sera publié en 2024-2025.
+* Au cours du dernier exercice, CANAFE a contribué à un certain nombre de projets nouveaux et en cours, notamment en ce qui concerne le blanchiment d'argent par voie commerciale et l'abus de structures d'entreprise; l'utilisation abusive d'actifs virtuels et d'organisations à but non lucratif à des fins de financement du terrorisme; le terrorisme d'extrême droite; et le rôle des unités du renseignement financier dans la lutte contre le contournement de sanctions. CANAFE a également apporté une contribution importante en matière de renseignements financiers stratégiques au projet du groupe de travail sur les risques, les tendances et les méthodes du GAFI sur le sociofinancement et les risques de financement du terrorisme.
+* À la suite de l'invasion illégale de l'Ukraine par la Fédération de Russie en 2022, nous avons travaillé avec nos plus proches alliés, y compris les États-Unis, l'Australie et le Royaume‑Uni, pour former le groupe de travail d'unités du renseignement financier sur le financement illicite et les sanctions liées à la Russie. Durant le dernier exercice, des membres ont continué à travailler dans les limites de leurs champs de compétence respectifs, sur le renforcement du partage des renseignements financiers tactiques et la conception d'une base commune de compréhension grâce à la diffusion de renseignements stratégiques concernant différents sujets connexes.
+* L'exercice 2023-2024 a vu la résurgence et l'intensification de tendances familières observées ces dernières années. L'augmentation des prix des actifs virtuels et des volumes d'opérations, après une période de déclin soutenue, a fait des cryptomonnaies de divers types un véhicule plus attrayant pour les stratagèmes de fraude et un moyen de transférer les produits des rançongiciels. Le commerce international et les opérations financières s'étant remis des creux liés à la pandémie, les blanchisseurs d'argent et ceux qui cherchent à éviter les sanctions importantes imposées à la Russie s'appuient sur des schémas de blanchiment d'argent par voie commerciale et les services pour dissimuler la nature des flux financiers transnationaux. Les activités de sociofinancement, où les fonds proviennent d'un vaste réseau d'individus utilisant une variété d'outils et de plateformes, sont en train de devenir un élément établi de la boîte à outils de financement pour les partisans des groupes extrémistes violents.
+* CANAFE a continué à mobiliser activement le [Centre de coordination contre la criminalité financière](https://www.securitepublique.gc.ca/cnt/cntrng-crm/nt-mny-lndrng/index-fr.aspx) (3CF) en participant à des discussions sur les principales tendances et les développements dans le domaine du blanchiment d'argent et du financement des activités terroristes. CANAFE a notamment apporté son expertise à la conférence du cycle d'intégration du 3CF de 2024 et a partagé des informations stratégiques pertinentes par l'intermédiaire de son portail du centre de connaissances.
+* La fonction de renseignement stratégique de CANAFE a continué à mettre l'accent sur les activités de blanchiment d'argent par voie commerciale afin d'améliorer la connaissance et la compréhension mutuelles des nouvelles typologies et observations présentant un intérêt pour le centre d'expertise multidisciplinaire sur la fraude commerciale et le blanchiment d'argent par voie commerciale, dirigé par l'Agence des services frontaliers du Canada.
+
+#### Ressources nécessaires pour obtenir les résultats prévus
+
+##### Tableau 4 : Aperçu des ressources requises pour la production et la communication de renseignements financiers
+
+Le tableau 4 présente un résumé des dépenses prévues et réelles et des équivalents temps plein (ETP) nécessaires pour obtenir les résultats prévus.
+
+| Ressource | Dépenses prévues | Dépenses réelles |
+| --- | --- | --- |
+| Dépenses | 25 102 235 $ | 25 037 459 $ |
+| Équivalents temps plein | 154 | 134 |
+
+Des [renseignements complets sur les finances](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/financial) et [les ressources humaines](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/people) concernant le répertoire des programmes de CANAFE sont disponibles dans l'InfoBase du GC.
+
+#### Priorités pangouvernementales connexes
+
+##### Développement durable
+
+Pour en apprendre plus sur ce que CANAFE met en œuvre dans le cadre du Plan de mise en œuvre fédéral du Canada pour le Programme 2030 et de la Stratégie fédérale de développement durable, consultez la [Stratégie ministérielle de développement durable](/publications/dsds-smdd/dsds-smdd-fra).
+
+##### Innovation
+
+En 2023-2024, CANAFE a complété avec succès le nouveau processus d'approvisionnement agile du gouvernement du Canada en collaboration avec Services partagés Canada et Services publics et Approvisionnement Canada. CANAFE a dirigé de nombreuses séances, démonstrations et évaluations, qui ont notamment porté sur les besoins en matière de production de renseignements tactiques et stratégiques au Centre. En adoptant une approche organisationnelle pour définir une solution analytique, CANAFE a qualifié cinq fournisseurs dans le cadre d'un arrangement en matière d'approvisionnement à l'échelle du gouvernement, ce qui permet à n'importe quel ministère du gouvernement du Canada de conclure des contrats qui répondent à la portée du projet. À l'issue de la phase 1, CANAFE a classé les fournisseurs en fonction de leur capacité à répondre à ses besoins, ce qui lui a permis de passer un contrat avec trois des meilleurs fournisseurs en vue d'une validation de principe en 2024-2025.
+
+#### Répertoire des programmes
+
+La production et la communication de renseignements financiers sont soutenues par les programmes suivants :
+
+* Programme du renseignement financier
+* Renseignements stratégiques, recherche et analyse
+
+Des renseignements supplémentaires concernant le répertoire des programmes de CANAFE pour la production et la communication de renseignements financiers sont disponibles sur la [page des résultats de l'InfoBase du GC](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/results).
+
+### Services internes
+
+#### Dans la présente section
+
+* [Description](#s1.31)
+* [Progrès à l'égard des résultats](#s1.32)
+* [Ressources nécessaires pour obtenir les résultats prévus](#s1.33)
+* [Contrats attribués aux entreprises autochtones](#s1.34)
+
+#### Description
+
+Les services internes sont les services fournis au sein d'un ministère afin qu'il puisse respecter ses obligations intégrées et exécuter ses programmes. Les dix catégories de services internes sont les suivantes :
+
+* services de gestion et de supervision
+* services de communication
+* services juridiques
+* services de gestion des ressources humaines
+* services de gestion des finances
+* services de gestion de l'information
+* services des technologies de l'information
+* services de gestion des biens immobiliers
+* services de gestion du matériel
+* services de gestion des acquisitions
+
+#### Progrès à l'égard des résultats
+
+Cette section présente des détails sur le rendement de CANAFE pour atteindre les résultats et les cibles pour les services internes.
+
+Les services internes de CANAFE soutiennent les responsabilités et les programmes fondamentaux du Centre. Une priorité clé est d'assurer la protection des renseignements personnels dont il détient. Toutes les facettes des activités de CANAFE sont soumises à des mesures de sécurité rigoureuses qui garantissent la protection des locaux physiques et des systèmes informatiques du Centre, y compris le traitement, le stockage et la conservation de tous les renseignements personnels et autres informations sensibles qu'il détient. Les services internes soutiennent également le développement et la prestation de services, de politiques, de conseils et de directives efficaces et intégrés dans les domaines des finances, des ressources humaines, de la culture et de la gestion du changement, de la sécurité, de la communication, de l'approvisionnement, de l'administration, de la gestion de l'information et des technologies de l'information. L'objectif global est de veiller à ce que CANAFE dispose des capacités et de l'infrastructure nécessaires pour assurer le succès opérationnel de son personnel.
+
+Comme la portée et la complexité des responsabilités et des activités de CANAFE ne cessent de croître, la capacité du Centre de s'acquitter de son mandat demeure directement liée à sa capacité d'adaptation, aux compétences et au dévouement de ses employés, ainsi qu'aux outils et aux ressources qu'il leur fournit pour accomplir leur travail. En tant qu'organisation vouée à l'excellence, CANAFE se concentre sur la gestion efficace de ses ressources humaines, technologiques et financières, et continuera d'améliorer son programme de sécurité, notamment en renforçant sa capacité de contrôle de la sécurité et sa cybersécurité, tout en renforçant la sécurité physique de ses installations à la lumière de l'évolution constante du paysage des menaces.
+
+En 2023-2024, CANAFE a lancé une nouvelle vision de modernisation importante pour s'assurer que le Centre est en mesure de faire face aux nouvelles menaces dans le paysage de la lutte contre le BA/FAT. La vision est axée sur la mise en place et le renforcement des compétences, des processus et, surtout, des nouvelles technologies nécessaires au fonctionnement du Centre en temps réel. Plus de détails sur la vision de modernisation de CANAFE et sur l'utilisation de la technologie pour relever les défis de l'avenir sont disponibles dans le [Rapport annuel de CANAFE](/publications/corp-publications-fra).
+
+Voici quelques exemples des résultats obtenus par CANAFE par rapport à ses objectifs en matière de services internes en 2023-2024 :
+
+##### Le milieu de travail hybride et la protection de la santé et de la sécurité des employés
+
+* CANAFE a apporté des modifications à son modèle de travail hybride afin de respecter les directives du gouvernement du Canada, d'offrir au personnel des possibilités de collaboration qui découlent de l'engagement avec les collègues dans l'espace de bureau, et de permettre une flexibilité continue quant au travail à distance.
+* L'ombuds du mieux-être en milieu de travail de CANAFE a mobilisé, aidé et soutenu les employés à tous les niveaux afin de les aider à s'adapter à l'évolution de l'environnement de travail.
+
+##### Milieu de travail inclusif, sécuritaire et sain
+
+* Des travaux ont été réalisés tout au long de l'année 2023-2024 pour mettre au point et mettre en œuvre le plan d'action du mieux-être et de la culture au travail du Centre, qui est axé sur le leadership attentif; un milieu de travail sain, respectueux et inclusif; la communication ouverte et la transparence; l'acquisition, le perfectionnement et le maintien en poste des talents. Le plan d'action comprend des mesures visant à répondre aux résultats du Sondage auprès des fonctionnaires fédéraux (SAFF) de 2022-2023, qui ont été publiés à la mi-2023, ainsi que le rapport annuel de l'ombuds de CANAFE, les entrevues de départ et d'autres données connexes.
+* Nous avons continué d'offrir une école de langues interne aux employés afin qu'ils puissent suivre une formation linguistique de grande qualité, en personne ou en ligne, et nous avons continué de promouvoir et d'appuyer le bilinguisme en collaboration avec le champion des langues officielles et le groupe de travail sur les langues officielles de CANAFE.
+* CANAFE a procédé à la mise en œuvre d'une nouvelle Stratégie et d'un plan d'action en matière d'équité en matière d'emploi, de diversité et d'inclusion (EEDI) axés sur l'acquisition et le maintien en poste des talents, la croissance professionnelle, le leadership et la responsabilité, et l'engagement des employés. CANAFE a exploité les résultats du SAFF, ainsi que les tendances émergentes dans le paysage de la diversité et les pratiques exemplaires d'une variété de partenaires et d'intervenants pour s'assurer que toutes les mesures introduites dans la stratégie créeront un changement systémique durable et réduiront les obstacles.
+* Le Centre a établi un programme de formation sur l'EEDI obligatoire et rigoureux qui comprend une formation sur les préjugés inconscients et la réconciliation. Un parcours d'apprentissage de trois ans a été établi et piloté, avec des cours supplémentaires destinés spécifiquement aux employés exerçant des fonctions de supervision ou de gestion. Les cours ont été identifiés pour développer une base de connaissances communes à tous les employés. Il s'agit d'une étape vers la promotion d'une culture d'inclusion. Tous les employés de CANAFE ont suivi les modules de formation de la phase 1.
+* En 2023-2024, le Centre a mis en œuvre la phase 2 de la [Loi sur l'équité salariale](https://www.canada.ca/fr/services/emplois/milieu-travail/droits-personne/apercu-loi-equite-salariale.html), qui comprenait l'établissement du cadre, des plans et des outils fondamentaux nécessaires pour achever la mise en œuvre en 2025.
+* CANAFE a produit son premier [Rapport d'avancement](/accessibility-accessibilite/2024-fra) par rapport à son [Plan sur l'accessibilité de 2023-2025](/accessibility-accessibilite/action-fra) et l'a rendu public en décembre 2023. Ce rapport témoigne de l'engagement du Centre à être un modèle en matière d'accessibilité et de l'engagement du gouvernement du Canada à ce que tous les Canadiens puissent participer pleinement à la société grâce à des communautés, des lieux de travail et des services exempts d'obstacles.
+* Au cours du dernier exercice, CANAFE a apporté des améliorations aux dispositions relatives aux congés des employés, notamment de nouvelles dispositions qui reconnaissent la nécessité de favoriser le bien-être des employés et d'encourager une culture de compassion sur le lieu de travail pour les personnes touchées par la violence domestique, ainsi que d'autres congés visant à soutenir les droits culturels et les traditions des peuples autochtones.
+* CANAFE a effectué plus de 246 opérations de dotation en 2023-2024 pour appuyer les services du renseignement, de la conformité et les services internes du Centre. CANAFE a embauché 83 nouveaux étudiants et 132 étudiants sont revenus.
+
+##### Analyse comparative entre les sexes plus
+
+Depuis 1995, le gouvernement du Canada s’est engagé à utiliser l’analyse comparative entre les sexes Plus (ACS Plus) plus dans l’élaboration de ses politiques, programmes et lois. L’ACS Plus fournit un cadre permettant de mettre en contexte l’ensemble des attributs personnels comme le sexe, le genre, la race, l’origine ethnique, la religion, l’âge et la déficience mentale ou physique, et de garantir que ces facteurs ne limitent pas la réussite et l’inclusion. Elle permet aux fonctionnaires fédéraux d’améliorer continuellement leur travail et d’obtenir de meilleurs résultats pour les Canadiens, en étant davantage à l’écoute des besoins et des circonstances précis.
+
+CANAFE est déterminé à veiller à ce que ses opérations — dans l’ensemble de ses politiques, programmes et initiatives — s’harmonisent avec les engagements du gouvernement du Canada à l’égard de l’ACS Plus. En adoptant une approche intersectionnelle pour ses politiques, programmes et initiatives, CANAFE est en mesure d’examiner comment de multiples facteurs interdépendants influencent les possibilités et les résultats économiques, sociaux et sanitaires, ainsi que les obstacles à l’accès aux systèmes, aux programmes ou aux services. Cette approche intersectionnelle oriente le processus d’élaboration de politiques et de programmes et peut contribuer à favoriser l’inclusion et à s’attaquer aux inégalités. Des informations supplémentaires sur le programme d’ACS Plus de CANAFE sont présentées dans le [tableau de renseignements supplémentaires](/publications/drr-rrm/2023-2024/gba-fra).
+
+##### Modernisation du milieu de travail
+
+* La mise en œuvre d'une nouvelle solution de gestion du capital humain (HCM) a permis de franchir une étape importante. Le système gère efficacement tous les aspects des ressources humaines, de l'intégration et du suivi des absences à la gestion du rendement et à l'apprentissage. Il centralise les données des employés et offre des informations en temps réel qui permettent aux dirigeants de prendre des décisions éclairées et fondées sur des données. Cette transformation améliore non seulement l'expérience globale des employés, mais soutient également les objectifs stratégiques de CANAFE en fournissant des informations exploitables pour guider la planification et le perfectionnement du personnel.
+* Le Centre est resté concentré sur le renforcement des protocoles de sécurité afin de protéger les informations critiques et sensibles. Dans le cadre de cet engagement, le Centre a progressé dans son parcours de transformation d'information en nuage, en transférant des actifs essentiels pour tirer parti de l'infrastructure évolutive et moderne offerte par la technologie en nuage. Ce changement stratégique a non seulement amélioré la souplesse opérationnelle, mais a également positionné CANAFE à l'avant-garde de l'innovation technologique.
+* En 2023-2024, CANAFE a mis en place un centre d'innovation appelé le laboratoire d'avancement et a introduit l'utilisation de l'intelligence artificielle (IA) générative, en créant des outils personnalisés alimentés par l'IA (c'est-à-dire des assistants) dans un cadre sécurisé, qui s'appuient sur des technologies de modèles de langage à grande échelle capables d'effectuer une variété de tâches telles que la création de documents, la traduction et la réponse à des demandes de renseignements. Les assistants de la plateforme d'IA, des outils de gestion sophistiquée des données et de collaboration augmentent considérablement l'efficacité opérationnelle et la réactivité du Centre. Une politique sur l'utilisation de l'intelligence artificielle générative (GenAI) a été élaborée en 2023 pour favoriser une utilisation sûre et responsable au sein de CANAFE.
+* Nous avons poursuivi la gestion des produits, le pilotage des déploiements et réalisé des progrès significatifs dans la préparation du déploiement dans l'ensemble du Centre en 2024-2025. Le passage à la gestion des produits ne concerne pas seulement les outils et les processus, mais aussi un engagement commun en faveur de l'innovation, de l'agilité et d'une culture centrée sur le partenariat.
+* En 2023-2024, CANAFE a reçu le plein appui du Conseil d'examen de l'architecture d'entreprise du gouvernement du Canada pour le plan d'architecture proposé par CANAFE afin de soutenir l'état futur de l'analytique au Centre. Le plan d'architecture établit une solide zone d'exploitation des données qui servira de plateforme centralisée pour les professionnels des données de CANAFE afin de faciliter l'ingestion, le regroupement et le traitement des données provenant de diverses sources pour créer une série de produits de données qui favorisent la prise de décision et l'efficacité opérationnelle.
+
+##### Protection des renseignements personnels
+
+* CANAFE est le seul organisme fédéral dont la loi habilitante exige que le Commissariat à la protection de la vie privée effectue une vérification biennale des mesures qu'il prend pour protéger les renseignements personnels qu'il reçoit et conserve conformément à la législation. Le Commissariat à la protection de la vie privée a terminé son cinquième examen des mesures de protection de la vie privée de CANAFE en 2023-2024.
+
+#### Ressources nécessaires pour obtenir les résultats prévus
+
+##### Tableau 5 : Ressources nécessaires pour atteindre les résultats des services internes cette année
+
+Le tableau 5 présente un résumé des dépenses prévues et réelles et des équivalents temps plein (ETP) nécessaires pour obtenir les résultats prévus.
+
+| Ressource | Dépenses prévues | Dépenses réelles |
+| --- | --- | --- |
+| Dépenses | 60 572 895 $ | 42 646 958 $ |
+| Équivalents temps plein | 236 | 218 |
+
+Des [renseignements complets sur les finances et les ressources humaines](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/related) concernant le répertoire des programmes de CANAFE sont disponibles dans l'InfoBase du GC.
+
+#### Contrats attribués aux entreprises autochtones
+
+Les ministères du gouvernement du Canada doivent atteindre la cible d'attribuer chaque année au moins 5 % de la valeur totale des marchés à des entreprises autochtones. Cet engagement doit être pleinement mis en œuvre d'ici la fin de l'année 2024-2025.
+
+CANAFE fait partie des ministères de la phase 3, ce qui signifie que le Centre doit atteindre la cible minimale de 5 % d'ici la fin de l'exercice 2024-2025. Cependant, en 2023-2024, CANAFE a attribué 11 % de la valeur totale de ses contrats à des entreprises autochtones. Ces contrats avec divers fournisseurs autochtones portaient sur des produits de base, notamment des équipements informatiques, du mobilier de bureau et des services professionnels. CANAFE continue d'examiner les marchés publics prévus au stade de la pré-planification afin d'identifier les possibilités d'inclure les entreprises autochtones dans le processus. Les responsables de l'approvisionnement continuent de mettre l'accent sur l'achat de produits à l'aide d'outils qui tirent parti de la capacité autochtone (par exemple, les services professionnels et l'équipement informatique), en mettant de côté des opportunités spécifiques lorsque cela est bénéfique, et en continuant à fournir aux intervenants les outils et les ressources nécessaires, ainsi qu'une communication proactive et des pratiques de gestion du changement en temps opportun.
+
+## Dépenses et ressources humaines
+
+### Dans la présente section
+
+* [Dépenses](#s2.1)
+* [Financement](#s2.2)
+* [Faits saillants des états financiers](#s2.3)
+* [Ressources humaines](#s2.4)
+
+### Dépenses
+
+Cette section présente une vue d'ensemble des dépenses réelles et prévues du ministère de 2021-2022 à 2026-2027.
+
+#### Sommaire du rendement budgétaire
+
+##### Tableau 6 : Dépenses réelles de trois exercices pour les responsabilités essentielles et les services internes (en dollars)
+
+Le tableau 6présente les sommes dépensées par CANAFE au cours des trois derniers exercices pour s'acquitter de ses responsabilités essentielles et assurer la prestation de ses services internes.
+
+| Responsabilités essentielles et services internes | Budget principal des dépenses de 2023-2024 | Autorisations totales utilisables 2023-2024 | Dépenses réelles sur trois ans (autorisations utilisées) |
+| --- | --- | --- | --- |
+| Assurer la conformité avec la législation et la réglementation sur la lutte contre le blanchiment d'argent et le financement des activités terroristes | 28 661 048 $ | 31 310 712 $ | * 2021-2022 : 25 359 149 $ * 2022-2023 : 27 692 974 $ * 2023-2024 : 30 938 502 $ |
+| Production et communication de renseignements financiers | 23 755 210 $ | 25 834 869 $ | * 2021-2022 : 20 558 417 $ * 2022-2023 : 22 877 752 $ * 2023-2024 : 25 037 459 $ |
+| **Sous-total** | **52 416 258 $** | **57 145 581 $** | * **2021-2022 : 45 917 566 $** * **2022-2023 : 50 570 726 $** * **2023-2024 : 55 975 961 $** |
+| Services internes | 59 624 647 $ | 62 811 912 $ | * 2021-2022 : 31 110 709 $ * 2022-2023 : 37 582 653 $ * 2023-2024 : 42 646 958 $ |
+| **Total** | **112 040 905 $** | **119 957 493 $** | * **2021-2022 : 77 028 275 $** * **2022-2023 : 88 153 379 $** * **2023-2024 : 98 622 919 $** |
+
+##### Analyse des dépenses des trois derniers exercices
+
+Les dépenses réelles en 2022-2023 étaient de 88,2 M$, soit une augmentation de 11,1 M$ (14,4 %) par rapport à 77,0 M$ en 2021-2022. Les dépenses totales en 2023-2024 étaient de 98,6 M$, soit une augmentation de 10,5 M$ (11,9 %) par rapport aux dépenses de 2022-2023, qui étaient de 88,2 M$. L'augmentation des dépenses est principalement attribuable à l'augmentation des coûts en personnel et à l'acquisition d'équipements et de dépenses liées à l'information suite à l'obtention d'un nouveau financement dans le budget 2022 pour renforcer le régime canadien de lutte contre le blanchiment d'argent et le financement des activités terroristes.
+
+Plus de renseignements financiers des exercices précédents sont disponibles sur la [section Finances de l'InfoBase du GC](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/results).
+
+##### Tableau 7 : Dépenses prévues sur trois ans pour les responsabilités essentielles et les services internes (en dollars)
+
+Le tableau 7 présente les sommes que le CANAFE prévoit de dépenser au cours des trois prochaines années pour s'acquitter de ses responsabilités essentielles et pour ses services internes.
+
+| Responsabilités essentielles et services internes | Dépenses prévues pour 2024-2025 | Dépenses prévues pour 2025-2026 | Dépenses prévues pour 2026-2027 |
+| --- | --- | --- | --- |
+| Assurer la conformité avec la législation et la réglementation sur la lutte contre le blanchiment d'argent et le financement des activités terroristes | 49 361 846 $ | 50 135 945 $ | 49 663 502 $ |
+| Production et communication de renseignements financiers | 45 123 869 $ | 31 729 349 $ | 31 376 115 $ |
+| **Sous-total** | **94 485 715 $** | **81 865 294 $** | **81 039 617 $** |
+| Services internes | 14 880 237 $ | 11 378 279 $ | 11 196 779 $ |
+| **Total** | **109 365 952 $** | **93 243 573 $** | **92 236 396 $** |
+
+##### Analyse des dépenses des trois prochains exercices
+
+Les dépenses prévues devraient diminuer et passer de 109,4 M$ en 2024-2025 à 93,2 M$ en 2025-2026. Les dépenses subséquentes devraient à nouveau diminuer pour atteindre 92,2 M$ en 2026-2027. La variance des dépenses prévues entre 2024-2025 et 2026-2027 repose en grande partie sur une diminution du profil des fonds dans les budgets 2020 et 2022, ainsi que sur une réduction des dépenses prévues à laquelle CANAFE s'est engagée dans le cadre du budget 2023. Dans le but d'équilibrer les budgets et de réduire les déficits, CANAFE a réduit les dépenses non essentielles tout en permettant la modernisation au sein du milieu de travail, le renforcement des capacités dans les domaines de menace en évolution, la protection des renseignements et de l'information, et la préservation de sa capacité de surveillance.
+
+Des [renseignements financiers plus détaillés des exercices précédents](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/results) se trouvent dans la section Finances de l'InfoBase du GC.
+
+Des renseignements sur la cohérence des [dépenses de CANAFE et les activités et dépenses du gouvernement du Canada](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/results) sont disponibles dans [l'InfoBase du GC](https://www.tbs-sct.canada.ca/ems-sgd/edb-bdd/index-fra.html#infographic/dept/152/results).
+
+### Financement
+
+Cette section présente un aperçu du financement voté et législatif du ministère par rapport à ses responsabilités essentielles et à ses services internes. Pour en savoir plus sur les autorisations de financement, consulter [les budgets et dépenses du gouvernement du Canada.](https://www.canada.ca/fr/secretariat-conseil-tresor/services/depenses-prevues/budgets-depenses.html)
+
+#### Graphique 1 : Financement approuvé (statutaire et voté) sur une période de six ans
+
+Le graphique 1 résume le financement voté et législatif approuvé du ministère de 2021-2022 à 2026-2027.   
+![Financement approuvé (statutaire et voté) sur une période de six ans](graph-fra.png)
+
+Version texte du graphique 1
+
+| Exercice | Statuaire | Voté | Total |
+| --- | --- | --- | --- |
+| 2021-2022 | 6 739 $ | 70 290 $ | 77 029 $ |
+| 2022-2023 | 7 640 $ | 80 513 $ | 88 153 $ |
+| 2023-2024 | 9 235 $ | 89 388 $ | 98 623 $ |
+| 2024-2025 | 54 508 $ | 54 859 $ | 109 367 $ |
+| 2025-2026 | 54 836 $ | 38 390 $ | 93 226 $ |
+| 2026-2027 | 54 257 $ | 37 980 $ | 92 237 $ |
+
+##### Analyse des financements statutaires et votés sur une période de six ans
+
+Les dépenses réelles étaient de 77,0 M$ en 2021-2022 et de 88,2 M$ en 2022-2023, soit une augmentation de 11,2 M$ (14,5 %) à la suite de la réception de nouveaux fonds annoncés dans le budget 2022 pour renforcer le régime canadien de lutte contre le BA/FAT, et de la réception de nouveaux fonds annoncés dans le budget 2021 pour développer l'expertise en matière de monnaie virtuelle, la supervision des entreprises de véhicules blindés et la mise en œuvre d'un modèle de financement par recouvrement des coûts pour le programme de conformité de CANAFE. Les dépenses totales en 2023-2024 étaient de 98,6 M$, soit une augmentation de 10,4 M$ (11,8 %) par rapport aux dépenses de 88,2 M$ en 2022-2023, en raison du profil des fonds approuvés pour renforcer le régime canadien de lutte contre le BA/FAT annoncé dans le budget 2022 afin de moderniser ses outils et processus, et d'étendre ses opérations.
+
+En raison de la mise en œuvre d'un nouveau modèle de financement cotisations relatives aux frais (c'est-à-dire le recouvrement des coûts) pour ses activités de surveillance, les dépenses statutaires devraient augmenter considérablement et les dépenses votées devraient diminuer de façon similaire. Les dépenses globales devraient passer à 109,4 M$ en 2024-2025 en raison de l'augmentation du coût des investissements prévus pour faire progresser les efforts de modernisation à l'échelle du Centre. Les dépenses prévues devraient diminuer en 2025-2026 et 2026-2027 en raison du profil des fonds approuvés dans le budget 2022 et le budget 2020, et des diminutions des dépenses prévues attribuables à l'exercice de recentrage des dépenses du gouvernement du Canada, qui atteint le montant maximum en 2026-2027.
+
+Pour obtenir de plus amples renseignements sur les crédits votés et les dépenses législatives de CANAFE, consultez les [Comptes publics du Canada](https://www.tpsgc-pwgsc.gc.ca/recgen/cpc-pac/index-fra.html).
+
+### Faits saillants des états financiers
+
+Les [états financiers de CANAFE](/publications/drr-rrm-fra) (audités) pour l'exercice terminé le 31 mars 2024 sont publiés sur le site Web de CANAFE.
+
+#### Tableau 8 : État condensé des résultats (audité) pour l'exercice se terminant le 31 mars 2024 (en dollars)
+
+Le tableau 8 résume les charges et les revenus pour 2023-2024 qui affectent le coût de fonctionnement avant le financement du gouvernement et les transferts.
+
+| Renseignements financiers | Résultats réels 2023-2024 | Résultats prévus 2023-2024 | Différence (résultats réels moins prévus) |
+| --- | --- | --- | --- |
+| Total des dépenses | 102 175 053 $ | 119 699 942 $ | (17 524 889 $) |
+| Total des revenus 0 $ | 0 $ | 0 $ | |
+| Coût de fonctionnement net avant le financement du gouvernement et les transferts | 102 175 053 $ | 119 699 942 $ | (17 524 889 $) |
+
+Les renseignements sur les résultats prévus en 2023-2024 se trouvent dans [l'État des résultats prospectifs de CANAFE et les notes afférentes 2023-2024](/publications/drr-rrm-fra).
+
+#### Tableau 9 : État condensé des résultats (audité) pour l'exercice se terminant le 31 mars 2024 (en dollars)
+
+Le tableau 9 résume les charges et les revenus réels qui correspondent au coût de fonctionnement avant le financement du gouvernement et les transferts.
+
+| Renseignements financiers | Résultats réels 2023-2024 | Résultats réels pour 2022-2023 | Écart (2023-2024 moins 2022-2023) |
+| --- | --- | --- | --- |
+| Total des dépenses | 102 175 053 $ | 91 238 857 $ | 10 936 196 $ |
+| Total des revenus | 0 $ | 748 $ | (748 $) |
+| Coût de fonctionnement net avant le financement du gouvernement et les transferts | 102 175 053 $ | 91 238 109 $ | 10 936 944 $ |
+
+#### Tableau 10 : État condensé de la situation financière (audité) au 31 mars 2024 (en dollars)
+
+Le tableau 10 fournit un résumé des passifs (ce qu'il doit) et des actifs (ce qu'il possède) du ministère, qui aident à déterminer la capacité de celui-ci à mettre en œuvre des programmes et des services.
+
+| Renseignements financiers | Exercice en cours (2023-2024) | Exercice précédent (2022-2023) | Écart (2023-2024 moins 2022-2023) |
+| --- | --- | --- | --- |
+| Total des passifs nets | 15 804 471 $ | 14 483 303 $ | 1 321 168 $ |
+| Total des actifs financiers nets | 13 067 750 $ | 10 527 506 $ | 2 540 244 $ |
+| Dette nette du Ministère | 2 736 721 $ | 3 955 797 $ | 1 219 076 $ |
+| Total des actifs non financiers | 6 956 118 $ | 6 471 918 $ | 484 200 $ |
+| Situation financière nette du Ministère | 4 219 396 $ | 2 516 121 $ | 1 703 275 $ |
+
+### Ressources humaines
+
+Cette section présente un aperçu des ressources humaines réelles et prévues du ministère pour la période de 2021-2022 à 2026-2027.
+
+#### Tableau 11 : Ressources humaines réelles pour la responsabilité essentielle et les services internes
+
+Le tableau 11 présente des renseignements sur les ressources humaines, en équivalents temps plein (ETP), pour les responsabilités essentielles de CANAFE et pour ses services internes au cours des trois précédents exercices.
+
+| Responsabilités essentielles et services internes | Équivalents temps plein réels pour 2021‑2022 | Équivalents temps plein réels pour 2022‑2023 | Équivalents temps plein réels pour 2023‑2024 |
+| --- | --- | --- | --- |
+| Assurer la conformité avec la législation et la réglementation sur la lutte contre le blanchiment d'argent et le financement des activités terroristes 173 | 180 | 185 | |
+| Production et communication de renseignements financiers | 131 | 137 | 134 |
+| **Sous-total** | **304** | **317** | **319** |
+| Services internes | 179 | 209 | 218 |
+| **Total** | **483** | **526** | **537** |
+
+##### Analyse des ressources humaines au cours des trois derniers exercices
+
+Les ETP sont passés de 526 en 2022-2023 à 537 en 2023-2024. La variation des ETP est principalement due à l'augmentation du financement lié au budget 2022 visant à renforcer le régime canadien de lutte contre le BA/FAT.
+
+#### Tableau 12 : Sommaire de la planification des ressources humaines pour les responsabilités essentielles et les services internes
+
+Le tableau 12 présente des renseignements sur les ressources humaines, en équivalents temps plein (ETP), pour chaque responsabilité essentielle de CANAFE et pour ses services internes prévues pour les trois prochains exercices. Les ressources humaines pour l'exercice en cours sont prévues en fonction du cumul de l'année.
+
+| Responsabilités essentielles et services internes | ETP prévus pour 2024-2025 | ETP prévus pour 2025-2026 | ETP prévus pour 2026-2027 |
+| --- | --- | --- | --- |
+| Assurer la conformité avec la législation et la réglementation sur la lutte contre le blanchiment d'argent et le financement des activités terroristes | 273 | 271 | 271 |
+| Production et communication de renseignements financiers | 237 | 215 | 213 |
+| **Sous-total** | **510** | **486** | **484** |
+| Services internes | 70 | 62 | 61 |
+| **Total** | **580** | **548** | **545** |
+
+##### Analyse des ressources humaines au cours des trois prochains exercices
+
+Les ETP prévus pour 2024-2025 devraient atteindre un maximum de 580, puis diminuer en 2025-2026 et 2026-2027 pour atteindre respectivement 548 et 545 principalement en raison du profil de financement des fonds du budget 2022 pour renforcer le régime canadien de lutte contre le BA/FAT.
+
+## Renseignements organisationnels
+
+### Profil organisationnel
+
+**Ministre de tutelle :** L’honorable François-Philippe Champagne, ministre des Finances et du Revenu national
+
+**Administratrice générale :** Sarah Paquet, directrice et présidente-directrice générale
+
+**Portefeuille ministériel :**  Finances
+
+**Instrument habilitant :** [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (L.C. 2000, ch. 17) (la Loi)](https://laws-lois.justice.gc.ca/fra/lois/p-24.501/)
+
+**Année d’incorporation ou de création :** 2000
+
+#### Coordonnées de l'organisation
+
+**Adresse postale**  
+Centre d’analyse des opérations et déclarations financières du Canada  
+234, avenue Laurier Ouest  
+Ottawa (Ontario) K1P 1H7  
+Canada
+
+**Téléphone :** 1-866-346-8722 (**sans frais**)  
+**Télécopieur :** 613-943-7931  
+**Courriel :** [guidelines-lignesdirectrices@fintrac-canafe.gc.ca](mailto:guidelines-lignesdirectrices@fintrac-canafe.gc.ca)  
+**Site Web :** [https://fintrac-canafe.canada.ca/intro-fra](/intro-fra "https://fintrac-canafe.canada.ca/intro-fra")
+
+## Tableau de renseignements supplémentaires
+
+* [Analyse comparative entre les sexes Plus](/publications/drr-rrm/2023-2024/gba-fra)
+
+## Dépenses fiscales fédérales
+
+Il est possible de recourir au système fiscal pour atteindre des objectifs de politique publique en appliquant des mesures spéciales, comme de faibles taux d'imposition, des exemptions, des déductions, des reports et des crédits. Le ministère des Finances du Canada publie chaque année des estimations et des projections du coût de ces mesures dans le [Rapport sur les dépenses fiscales fédérales](https://www.canada.ca/fr/ministere-finances/services/publications/depenses-fiscales.html). Ce rapport fournit aussi des renseignements détaillés sur les dépenses fiscales, dont des descriptions, des objectifs, des données historiques et des renvois aux programmes de dépenses fédérales connexes ainsi qu'aux évaluations et aux résultats de l'ACS Plus liés aux dépenses fiscales.
+
+## Définitions
+
+analyse comparative entre les sexes Plus (ACS Plus) (gender-based analysis plus [GBA Plus])
+:   Outil analytique servant à soutenir l’élaboration de politiques, de programmes et d’autres initiatives et à évaluer les répercussions des politiques, des programmes et des initiatives sur divers ensembles de femmes, d’hommes et de personnes de diverses identités de genre. L’ACS Plus est un processus permettant de comprendre qui est touché par l’occasion ou l’enjeu évalué par l’initiative, d’établir comment l’initiative pourrait être adaptée pour répondre aux divers besoins des personnes les plus touchées ainsi que de déterminer et de réduire tout obstacle à l’accès ou au bénéfice de l’initiative. L’ACS Plus est une analyse intersectionnelle qui va au-delà des différences biologiques (sexe) et socioculturelles (genre) pour tenir compte d’autres facteurs, comme l’âge, les handicaps, l’éducation, l’ethnicité, la situation économique, la géographie (y compris la ruralité), la langue, la race, la religion et l’orientation sexuelle.
+
+cadre ministériel des résultats (departmental results framework)
+:   Cadre qui établit un lien entre les responsabilités essentielles et les résultats ministériels ainsi que les indicateurs de résultat ministériel d’un ministère.
+
+cible (target)
+:   Niveau mesurable du rendement ou du succès qu’un ministère, un programme ou une initiative prévoit d’atteindre dans un délai précis. Une cible peut être quantitative ou qualitative.
+
+crédit (appropriation)
+:   Autorisation donnée par le Parlement d’effectuer des paiements sur le Trésor.
+
+dépenses budgétaires (budgetary expenditures)
+:   Dépenses de fonctionnement et en capital, paiements de transfert à d’autres ordres de gouvernement, à des organisations ou à des particuliers ainsi que paiements à des sociétés d’État.
+
+dépenses législatives (statutory expenditures)
+:   Dépenses approuvées par le Parlement à la suite de l’adoption d’une loi autre qu’une loi de crédits. La loi précise les fins auxquelles peuvent servir les dépenses et les conditions dans lesquelles elles peuvent être effectuées.
+
+dépenses non budgétaires (non-budgetary expenditures)
+:   Recettes et décaissements nets au titre de prêts, d’investissements et d’avances qui modifient la composition des actifs financiers du gouvernement du Canada.
+
+dépenses prévues (planned spending)
+:   En ce qui a trait aux plans ministériels et aux rapports sur les résultats ministériels, les dépenses prévues s’entendent des montants présentés dans le budget principal des dépenses.  
+      
+    Un ministère est censé être au courant des autorisations qu’il a demandées et obtenues. La détermination des dépenses prévues relève du ministère, et ce dernier doit être en mesure de justifier les dépenses et les augmentations présentées dans son Plan ministériel et son Rapport sur les résultats ministériels.
+
+dépenses votées (voted expenditures)
+:   Dépenses approuvées annuellement par le Parlement au moyen d’une loi de crédits. Le libellé de chaque crédit énonce les conditions selon lesquelles les dépenses peuvent être effectuées.
+
+entreprise autochtone (Indigenous business)
+:   Organisation qui, aux fins de l’Annexe E – Procédures obligatoires pour les marchés attribués aux entreprises autochtones de la Directive sur la gestion de l’approvisionnement ainsi que de l’engagement du gouvernement du Canada d’attribuer obligatoirement au moins 5 % de la valeur totale des marchés à des entreprises autochtones, correspond à la définition et aux exigences définies dans le [Répertoire des entreprises autochtones](https://services.sac-isc.gc.ca/REA-IBD?lang=fra).
+
+équivalent temps plein (ETP) (full-time equivalent [FTE])
+:   Mesure utilisée pour représenter une année-personne complète d’un employé dans le budget ministériel. Pour un poste donné, le nombre d’équivalents temps plein représente le rapport entre le nombre d’heures travaillées par une personne, divisé par le nombre d’heures normales prévues dans sa convention collective.
+
+indicateur de rendement (performance indicator)
+:   Moyen qualitatif ou quantitatif de mesurer un extrant ou un résultat en vue de déterminer le rendement d’un ministère, d’un programme, d’une politique ou d’une initiative par rapport aux résultats attendus.
+
+indicateur de résultat ministériel (departmental result indicator)
+:   Mesure quantitative des progrès réalisés par rapport à un résultat ministériel.
+
+initiative horizontale (horizontal initiative)
+:   Initiative dans le cadre de laquelle deux organisations fédérales ou plus reçoivent du financement dans le but d’atteindre un résultat commun, souvent associé à une priorité du gouvernement.
+
+plan (plan): Exposé des choix stratégiques qui montre comment un ministère entend respecter ses priorités et obtenir les résultats connexes. De façon générale, un plan explique la logique qui sous tend les stratégies retenues et tend à mettre l’accent sur des mesures qui se traduisent par des résultats attendus. Plan ministériel (Departmental Plan) : Exposé des plans et du rendement attendu d’un ministère qui reçoit des crédits parlementaires au cours d’une période de trois ans. Les Plans ministériels sont habituellement présentés au Parlement au printemps. priorité ministérielle (departmental priority) : Plan ou projet qu’un ministère a choisi de cibler et dont il rendra compte au cours de la période de planification. Il s’agit de ce qui importe le plus ou qui doit être réalisé en premier pour obtenir les résultats ministériels attendus. priorités pangouvernementales (government-wide priorities) : Aux fins du Rapport sur les résultats ministériels 2023-2024, les priorités pangouvernementales correspondent aux thèmes de haut niveau qui décrivent le programme du gouvernement dans le [discours du Trône du 23 novembre 2021](https://www.canada.ca/fr/conseil-prive/campagnes/discours-trone/2021/discours-du-trone.html) : bâtir un présent et un avenir plus sains, faire croître la croissance d’une économie plus résiliente, mener une action climatique audacieuse, travailler plus fort pour rendre les collectivités sécuritaires, défendre la diversité et l’inclusion, avancer plus rapidement sur la voie de la réconciliation et lutter pour un monde plus sûr, plus juste et plus équitable. programme (program) : Services et activités, pris séparément ou en groupe, ou une combinaison des deux, qui sont gérés ensemble au sein d’un ministère et qui portent sur un ensemble déterminé d’extrants, de résultats ou de niveaux de service. rapport sur les résultats ministériels (Departmental Results Report) : Rapport qui présente les réalisations réelles d’un ministère par rapport aux plans, aux priorités et aux résultats attendus énoncés dans le Plan ministériel correspondant. rendement (performance) : Utilisation qu’un ministère a faite de ses ressources en vue d’obtenir ses résultats, mesure dans laquelle ces résultats se comparent à ceux que le ministère souhaitait obtenir, et mesure dans laquelle les leçons ont été dégagées. répertoire des programmes (program inventory) : Compilation de l’ensemble des programmes d’un ministère et description de la manière dont les ressources sont organisées pour contribuer aux responsabilités essentielles et aux résultats du ministère. responsabilité essentielle (core responsibility) : Fonction ou rôle permanent exercé par un ministère. Les intentions du ministère concernant une responsabilité essentielle se traduisent par un ou plusieurs résultats ministériels auxquels le ministère cherche à contribuer ou sur lesquels il veut avoir une influence. résultat (result) : Conséquence attribuable en partie à un ministère, une politique, un programme ou une initiative. Les résultats ne relèvent pas d’un ministère, d’une politique, d’un programme ou d’une initiative unique, mais ils s’inscrivent dans la sphère d’influence du ministère. résultat ministériel (departmental result) : Conséquence ou résultat qu’un ministère cherche à atteindre. Un résultat ministériel échappe généralement au contrôle direct des ministères, mais il devrait être influencé par les résultats des programmes.
+
+Footnote 1
+:   Les mesures d’application de la loi comprennent une réunion relative à l’application de la loi, une pénalité administrative pécuniaire ou la communication d’un cas de non-conformité aux organismes d’application de la loi.
+
+    [Return to footnote 1 referrer](#fn1-rf)
+
+Footnote 2
+:   En raison de changements législatifs et réglementaires, comme par exemple la modification de la définition d’un télévirement en avril 2022, des exigences de déclaration ont été introduites pour de nouvelles entités déclarantes qui n’étaient pas tenues auparavant de faire des déclarations à CANAFE. De plus, CANAFE a poursuivi la modernisation de ses formulaires de déclaration afin de tenir compte des modifications réglementaires qui sont entrées en vigueur en 2021. Ces modifications ont introduit des règles de validation supplémentaires afin d’améliorer la qualité et l’intégrité des données collectées, et ont également exigé des entités déclarantes qu’elles procèdent à des ajustements de système de leur côté. Ces facteurs ont contribué à une augmentation significative du nombre de problèmes de validation en 2023-2024. Cette tendance pourrait se poursuivre dans les années à venir, à mesure que les entités déclarantes perfectionnent leurs processus de déclaration.
+
+    [Return to footnote 2 referrer](#fn2-rf)
+
+Footnote 3
+:   Le régime de lutte contre le blanchiment d’argent et le financement des activités terroristes compte 13 partenaires fédéraux, dont le Bureau du surintendant des institutions financières (BSIF) et la Gendarmerie royale du Canada (GRC). Les produits qui leur sont destinés comprennent les alertes opérationnelles, les analyses de l’environnement et les rapports de renseignements financiers.
+
+    [Return to footnote3 referrer](#fn3-rf)
+
+Footnote 4
+:   Le nombre de communications uniques est inférieur en 2023-2024 par rapport aux exercices précédents en raison de la complexité et de la portée sans cesse croissantes de chaque communication produite, ainsi que d’un changement ciblé des priorités opérationnelles du renseignement pour s’aligner sur les priorités des destinataires des communications, ce qui se traduit par une valeur accrue pour les destinataires des communications de CANAFE en matière d’enquête et de renseignement.
+
+    [Return to footnote 4 referrer](#fn4-rf)
+
+Footnote 5
+:   Le pourcentage de communications fournies de manière proactive est plus faible en 2023-2024 qu’au cours des années précédentes en raison d’un changement visant à donner la priorité aux communications effectuées à la suite d’un rapport de renseignements transmis volontairement (RTV) plutôt qu’aux communications purement proactives. En raison de leur complexité et de leur taille, les communications en réponse aux RTV prennent plus de temps à produire, ce qui se traduit par une diminution globale des communications proactives.
+
+    [Return to footnote 5 referrer](#fn5-rf)
+
+Date de modification :
+:   2025-06-20

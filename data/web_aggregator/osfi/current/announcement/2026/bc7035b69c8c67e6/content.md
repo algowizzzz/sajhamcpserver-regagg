@@ -1,0 +1,237 @@
+# Vente de la totalité ou de la quasi-totalité des éléments d’actif par des institutions de dépôts
+
+Information
+
+Type de document
+
+Instructions relatives aux opérations
+
+Catégorie
+
+Opérations sans présomption d'agrément
+
+Dernière révision
+
+Septembre 2017
+
+Index A No
+
+10
+
+## Fondement législatif
+
+* Article 236 de la [Loi sur les banques](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/) (« LB »)
+* Article 241 de la [Loi sur les sociétés de fiducie et de prêt](https://laws-lois.justice.gc.ca/fra/lois/t-19.8/)(« LSFP »)
+* Article 233.5 de la [Loi sur les associations coopératives de crédit](https://laws-lois.justice.gc.ca/fra/lois/c-41.01/ )(« LACC »)
+
+## Exigences en matière d’information
+
+Les lois précitées (collectivement désignées les « lois ») prévoient deux étapes réglementaires pour toute banque, société de fiducie ou de prêt fédérale ou association fédérale (le « demandeur ») qui souhaite vendre la totalité ou la quasi-totalité de ses éléments d’actif. La première exige du demandeur qu’il communique au surintendant la convention de vente avant de la soumettre, pour approbation par résolution extraordinaire, à l’assemblée des actionnaires (ou, lorsque le demandeur est une association ou une coopérative de crédit fédérale, à l’assemblée des membres et des actionnaires, le cas échéant). La seconde exige que le ministre approuve la convention de vente après qu’elle ait été approuvée par les actionnaires ou les membres. Les renseignements à fournir sont décrits dans cet ordre ci-après.
+
+En outre, les exigences en matière d’information se fondent sur les hypothèses suivantes, à savoir que a) le demandeur est une petite ou moyenne institution de dépôts, b) l’acheteur est une institution de dépôts et c) le demandeur conclut l’opération en vue de se soustraire à la surveillance du BSIF. Ces hypothèses sont utilisées pour des raisons de commodité seulement, en ce qu’elles harmonisent les exigences en matière d’information avec les circonstances qui sous-tendent la grande majorité des demandes d’approbation qui ont été déposées en vertu du fondement législatif susmentionné.
+
+### 1. Information à l’appui de l’examen de la convention de vente par le surintendant et de la demande subséquente d’approbation du ministre
+
+#### Renseignements à fournir au sujet du demandeur
+
+De façon générale, le demandeur doit fournir :
+
+1. le fondement de l’opération du point de vue du demandeur, et lorsque l’opération n’englobe pas l’ensemble des éléments d’actif et de passif du demandeur, des précisions sur ce qu’il compte faire des éléments d’actif et de passif résiduels;
+2. la description de l’opération, notamment :
+   1. le nom de l’acheteur,
+   2. la nature du lien entre le demandeur et l’acheteur, le cas échéant,
+   3. les types d’éléments d’actif qui font l’objet de l’opération (« actif »),
+   4. les types d’éléments de passif qui font l’objet de l’opération (« passif »),
+   5. la valeur de l’actif et le pourcentage de cette valeur par rapport à la valeur totale des éléments d’actif du demandeur,
+   6. la valeur du passif et le pourcentage de cette valeur par rapport à la valeur totale des éléments de passif du demandeur,
+   7. une mention indiquant si une convention dont découle un passif interdit son transfert ou sa cession[Note de bas de page 1](#fnb1),
+   8. la description de la contrepartie de l’opération, y compris les modalités de paiement, et l’utilisation proposée des produits de l’opération par le demandeur,
+   9. lorsque le demandeur et l’acheteur ne sont pas liés, la description du processus ayant mené à la contrepartie convenue pour l’opération (p. ex., le processus d’appel d’offres et la méthode d’évaluation utilisée, le cas échéant);
+3. une copie de la convention de vente signée qui sera soumise pour approbation à l’assemblée des actionnaires (ou, lorsque le demandeur est une association ou une coopérative de crédit fédérale, à l’assemblée des membres et des actionnaires, le cas échéant);
+4. une copie de toute autre convention ayant trait à la mise en œuvre de l’opération;
+5. s’il y a lieu, la description des opérations auxquelles participe le demandeur et dont la réalisation est liée à la convention de vente, avant et après l’entrée en vigueur de cette convention (les « opérations liées »), ainsi que la justification des opérations liées et les schémas qui les décrivent;
+6. en ce qui concerne le demandeur et l’une ou l’autre de ses sociétés affiliées, des précisions sur l’assujettissement de l’opération à une exigence d’agrément ou d’avis réglementaire, autre qu’au titre des lois (les « autres exigences réglementaires »)[Note de bas de page 2](#fnb2);
+7. une analyse de l’effet de l’opération sur la situation financière et le profil de risque du demandeur, notamment :
+   1. un bilan *pro forma* comparatif (immédiatement avant et après l’opération), y compris les hypothèses pertinentes,
+   2. lorsque l’opération ne comprend pas la totalité des éléments d’actif et de passif du demandeur :
+      1. une analyse *pro forma* comparative des fonds propres et des liquidités (immédiatement avant et après l’opération) confirmant le respect des cibles internes[Note de bas de page 3](#fnb3) du demandeur et des exigences du BSIF applicables au demandeur, ainsi que les hypothèses pertinentes et une ventilation de tous les éléments utilisés pour calculer :
+         1. les ratios de fonds propres, conformément à la ligne directrice Normes de fonds propres,
+         2. le ratio de levier, conformément à la ligne directrice Exigences de levier,
+         3. le ratio de liquidité à court terme, conformément à la ligne directrice Normes de liquidité,
+      2. les projections financières sur trois ans du demandeur, y compris l’état des résultats, le bilan, les ratios de fonds propres, de levier et de liquidité à court terme et les hypothèses clés,
+      3. une description des changements importants que le demandeur propose d’apporter à ses politiques et procédures,
+      4. une confirmation du fait qu’à la suite de l’opération, le demandeur sera en conformité avec ses politiques pertinentes, y compris celles liées aux liquidités, à la gestion des fonds propres, à la gestion des risques et aux placements.
+
+#### Renseignements à fournir au sujet de l’acheteur
+
+Le demandeur doit généralement fournir – ou faire transmettre par l’acheteur – les renseignements suivants :
+
+8. le fondement de l’opération du point de vue de l’acheteur, y compris des précisions sur les avantages dont ce dernier devrait bénéficier;
+9. des précisions sur la diligence raisonnable dont a fait preuve l’acheteur sur le plan de l’actif et du passif, et l’opinion de l’acheteur au sujet des résultats de cette diligence appliquée;
+10. des précisions sur le niveau d’approbation interne requis à l’égard de l’opération (p. ex., conseil d’administration, comité du conseil d’administration ou haute direction), conformément aux politiques et procédures de l’acheteur, ainsi qu’une preuve à l’appui de l’obtention de cette approbation (p. ex., un extrait pertinent du procès-verbal de la réunion au cours de laquelle l’opération a été approuvée);
+11. en ce qui concerne l’acheteur et l’une ou l’autre de ses sociétés affiliées, des détails indiquant si l’opération est assujettie à d’autres exigences réglementaires;
+12. une analyse de l’effet de l’opération sur la situation financière et le profil de risque de l’acheteur[Note de bas de page 4](#fnb4), y compris :
+    1. un bilan *pro forma* comparatif (immédiatement avant et après l’opération), y compris les hypothèses pertinentes,
+    2. lorsque l’acheteur est une institution de dépôts canadienne, une analyse *pro forma* comparative des fonds propres et des liquidités (immédiatement avant et après l’opération) qui confirme la conformité aux cibles internes de l’acheteur[Note de bas de page 5](#fnb5) et aux exigences du BSIF applicables à l’acheteur, ainsi que les hypothèses pertinentes et, si l’opération est importante pour l’acheteur, une ventilation de tous les éléments utilisés pour calculer :
+       1. les ratios de fonds propres, conformément à la ligne directrice Normes de fonds propres,
+       2. le ratio de levier, conformément à la ligne directrice Exigences de levier,
+       3. le ratio de liquidité à court terme, conformément à la ligne directrice Normes de liquidité,
+    3. lorsque l’acheteur est une banque étrangère autorisée, le ratio *pro forma* comparatif de dépôt en équivalent de fonds propres (DEFP) (immédiatement avant et après l’opération) qui confirme le respect de la cible interne de l’acheteur et de l’exigence de la LB[Note de bas de page 6](#fnb6) ainsi que les éléments utilisés pour calculer le ratio DEFP, conformément à la ligne directrice Dépôts en équivalent de fonds propres,
+    4. si l’opération est importante pour l’acheteur ou si elle aura pour effet de modifier de manière importante sa stratégie d’affaires :
+       1. lorsque l’acheteur est une institution de dépôts canadienne, un document révisé sur le processus d’évaluation de la solvabilité interne (p. ex., processus interne d’évaluation de la suffisance des fonds propres),
+       2. un plan d’intégration pour les activités prises en charge, y compris tout changement important que l’acheteur propose d’apporter à ses politiques et procédures,
+       3. lorsque l’acheteur dispose d’un plan de reprise, une description des révisions importantes qu’il y apportera à la suite de l’opération, y compris l’échéancier précisant le moment où les révisions seront apportées,
+       4. un plan d’affaires révisé, le cas échéant, pour l’acheteur,
+       5. les projections financières sur trois ans de l’acheteur, y compris l’état des résultats, le bilan, le ratio des fonds propres ou de DEFP, et les hypothèses clés – et, dans le cas d’une institution de dépôts canadienne, les ratios de levier et de liquidité à court terme,[Note de bas de page 7](#fnb7)
+    5. une confirmation du fait qu’à la suite de l’opération, l’acheteur sera en conformité avec ses politiques pertinentes, y compris celles liées aux liquidités, à la gestion des fonds propres, à la gestion des risques et aux placements;
+13. lorsque l’acheteur et le demandeur sont apparentés, ce dernier doit généralement fournir l’information requise dans les [Instructions relatives aux opérations PA No. 22 – Opérations sur l’actif avec un apparenté dans le cadre d’une restructuration](/fr/donnees-formulaires/demandes-approbations/instructions-relatives-operations/operations-sur-lactif-avec-apparente-dans-cadre-dune-restructuration "Opérations sur l’actif avec un apparenté dans le cadre d’une restructuration"), dans la mesure où ces renseignements ne sont pas fournis en vertu des exigences d’information susmentionnées.[Note de bas de page 8](#fnb8)
+
+### 2. Information à l’appui de la demande d’approbation du ministre
+
+À compter de la date précisée dans l’avis[Note de bas de page 9](#fnb9) concernant le moment où le demandeur a l’intention de présenter une demande au ministre, et en supposant qu’il produit une telle demande, le demandeur doit généralement fournir les renseignements suivants :
+
+14. une preuve de publication de l’avis;
+15. une confirmation selon laquelle le demandeur n’a reçu aucune objection associée à l’avis ou autrement liée à l’opération, ou a donné suite à toute objection reçue (de même qu’une description de la façon dont il a donné suite à chaque objection);
+16. s’il y a lieu, une copie des documents envoyés aux membres ou actionnaires concernant l’assemblée convoquée pour approuver la convention de vente par résolution extraordinaire (les « documents soumis aux voix »), ainsi que la date d’envoi de ces documents;
+17. une copie certifiée de la résolution extraordinaire approuvant la convention de vente;
+18. s’il y a lieu, une confirmation que l’assemblée au cours de laquelle la résolution extraordinaire a été adoptée s’est tenue conformément aux exigences des règlements du demandeur et de la loi qui le régit;
+19. si d’autres exigences réglementaires s’appliquent, une confirmation qu’elles ont été respectées et les détails de la réponse réglementaire connexe, le cas échéant;
+20. si le demandeur est une société de fiducie, une description des dispositions qu’il propose de prendre :
+    1. pour le transfert des fonds et autres éléments d’actif détenus en fiducie (autres que les éléments d’actif détenus à l’égard de fonds en fiducie garantie)[Note de bas de page 10](#fnb10),
+    2. pour la protection des personnes pour lesquelles il agit en qualité de fiduciaire.[Note de bas de page 11](#fnb11)
+
+## Directives administratives
+
+### Acheteurs
+
+1. Le BSIF estime que seules les institutions financières fédérales, y compris les banques étrangères autorisées à l’égard de leurs activités au Canada, peuvent être des acheteurs.[Note de bas de page 12](#fnb12)
+
+### La « quasi-totalité » des éléments d’actif et de passif
+
+2. De façon générale, le BSIF considère qu’un demandeur vend la quasi-totalité de ses éléments d’actif lorsque le pourcentage mentionné au point 2(e) des exigences en matière d’information est de 75 % ou plus. De même, le BSIF considère généralement qu’un demandeur fait en sorte que la quasi-totalité de ses éléments de passif soit prise en charge par l’acheteur lorsque le pourcentage mentionné au point 2(f) des exigences en matière d’information est de 75 % ou plus.
+
+### Passif – Autres éléments
+
+3. La prise en charge d’un passif peut être interprétée par un créancier comme une violation des clauses d’interdiction de « transfert » ou de « cession » contenues dans les conventions à partir desquelles le passif se produit (« conventions »). Le créancier peut interpréter ces clauses comme l’engagement du demandeur à demeurer le point de contact du créancier pour la convention ou le seul débiteur en vertu de celle-ci. Par conséquent, lorsqu’une convention renferme de telles clauses, le BSIF s’attend généralement à ce que le demandeur obtienne le consentement du créancier pour a) supprimer ou modifier celles-ci ou b) procéder à l’opération malgré celles-ci. Si le demandeur démontre que l’obtention d’un tel consentement n’est pas raisonnable dans les circonstances, le BSIF s’attend à ce que le demandeur fasse preuve de transparence au sujet de ces clauses dans l’avis.
+
+### Échéancier de la résolution extraordinaire
+
+4. De façon générale, le BSIF s’attend à ce qu’un demandeur soumette la convention de vente pour approbation par résolution extraordinaire seulement après avoir consulté le BSIF sur la convention.
+
+### Avis
+
+5. Le BSIF s’attend généralement à ce que l’avis énonce, entre autres :
+   1. le nom du demandeur et de l’acheteur;
+   2. la ville et la province ou le territoire où est situé le siège du demandeur et de l’acheteur (ou le bureau principal de l’acheteur, s’il s’agit d’une banque étrangère autorisée);
+   3. la date à laquelle le demandeur a l’intention de demander au ministre d’approuver la convention de vente (nota : la demande ne peut être déposée plus de trois mois après la date d’approbation de la convention de vente par résolution extraordinaire[Note de bas de page 13](#fnb13));
+   4. la loi et la disposition connexe en vertu desquelles l’avis est donné.
+6. Un demandeur peut publier l’avis à tout moment avant de communiquer sa demande au ministre (p. ex., un demandeur peut publier l’avis avant de communiquer la convention de vente au surintendant).
+
+### Versions provisoires
+
+7. Un demandeur est invité à fournir au BSIF une version provisoire de l’avis, de la convention de vente et, dans le cas d’une association ou d’une coopérative de crédit fédérale, des documents soumis aux voix, en vue d’obtenir les commentaires du BSIF au sujet de ces documents. De façon générale, le demandeur qui fournit au BSIF une version provisoire de la convention de vente doit également lui fournir les éléments prévus aux points 1, 2, 4, 7(a), 7(b)(i), 8 et 12(a) à (c) des exigences en matière d’information ci-dessus.
+
+### Règles relatives aux opérations avec apparentés et autres règles
+
+8. Même si la vente d’actifs à un apparenté dans le cadre d’une opération qui fait l’objet des présentes instructions n’est pas assujettie à une approbation en vertu des règles sur les opérations avec apparentés[Note de bas de page 14](#fnb14), une telle opération avec un apparenté est néanmoins assujettie à l’exigence relative aux « conditions du marché » [Note de bas de page 15](#fnb15).
+9. Les actifs vendus dans le cadre d’une opération qui fait l’objet des présentes instructions sont exemptés du calcul et de l’application du seuil de 10 % aux fins des opérations traitées dans les [Instructions relatives aux opérations PA No 18 – Opérations sur l’actif de plus de 10 %](/fr/donnees-formulaires/demandes-approbations/instructions-relatives-operations/operation-sur-lactif-plus-10 "Opération sur l’actif de plus de 10 %").[Note de bas de page 16](#fnb16)
+
+### Autres questions
+
+10. Le ministre ou le surintendant peut déterminer si l’opération nuirait à la mise en œuvre efficace des mesures correctives à l’avenir et peut demander des renseignements à cet égard.
+11. Les documents **présentés initialement** à l’appui d’une demande d’approbation dont il est question dans le présent document devraient être envoyés à l’adresse courriel suivante : [approvals-approbations@osfi-bsif.gc.ca](mailto:approvals-approbations@osfi-bsif.gc.ca). Après réception des documents, un chargé de dossier sera nommé, après quoi les documents et la correspondance portant sur la demande devraient lui être adressés.
+12. Les demandes d’approbation dont il est question dans le présent document ne sont pas assujetties à des droits de service.[Note de bas de page 17](#fnb17)
+
+Les exigences en matière d’information et les directives administratives sont conçues en fonction des demandes types. Elles découlent de l’expérience du BSIF dans l’étude de telles demandes. Les demandes qui réunissent tous les renseignements et toutes les pièces nécessaires pourraient être traitées plus rapidement. Selon les circonstances, le BSIF peut demander des renseignements supplémentaires, prendre en compte d’autres questions, imposer des conditions ou exiger des engagements.
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   Pour plus de précisions, voir le paragraphe 3 des directives administratives ci‑après.
+
+    [Retour à la référence de la note de bas de page 1](#fnb1-ref)
+
+Note de bas de page 2
+:   Par exemple, une opération peut faire l’objet d’un examen en vertu de la Loi sur la concurrence.
+
+    [Retour à la référence de la note de bas de page 2](#fnb2-ref)
+
+Note de bas de page 3
+:   Si les cibles internes du demandeur sont révisées à la suite de l’opération, les « cibles internes » dont il est question ci‑dessus dans le contexte « immédiatement après l’opération » renvoient aux cibles révisées.
+
+    [Retour à la référence de la note de bas de page 3](#fnb3-ref)
+
+Note de bas de page 4
+:   Lorsque l’acheteur est une banque étrangère autorisée, cette exigence en matière d’information vise les activités au Canada de l’acheteur.
+
+    [Retour à la référence de la note de bas de page 4](#fnb4-ref)
+
+Note de bas de page 5
+:   Lorsque la cible interne de l’acheteur est révisée à la suite de l’opération, les « cibles internes » mentionnées ci-dessus dans le contexte « immédiatement après l’opération » renvoient aux cibles révisées.
+
+    [Retour à la référence de la note de bas de page 5](#fnb5-ref)
+
+Note de bas de page 6
+:   Voir le paragraphe 582(1) de la LB.
+
+    [Retour à la référence de la note de bas de page 6](#fnb6-ref)
+
+Note de bas de page 7
+:   Dans la mesure où les renseignements demandés à 12(d)(v) ne sont pas déjà fournis à 12(d)(i) ci-dessus.
+
+    [Retour à la référence de la note de bas de page 7](#fnb7-ref)
+
+Note de bas de page 8
+:   Pour plus de précisions, voir le paragraphe 8 des directives administratives ci‑après.
+
+    [Retour à la référence de la note de bas de page 8](#fnb8-ref)
+
+Note de bas de page 9
+:   L’avis est décrit aux alinéas 236(2)a) de la LB, 241(2)a) de la LSFP et 233.5(2)a) de la LACC. Pour plus de précisions, voir aussi les paragraphes 5 et 6 des directives administratives.
+
+    [Retour à la référence de la note de bas de page 9](#fnb9-ref)
+
+Note de bas de page 10
+:   Cet élément vient appuyer l’exigence d’admissibilité énoncée à l’alinéa 241(2)c) de la LSFP.
+
+    [Retour à la référence de la note de bas de page 10](#fnb10-ref)
+
+Note de bas de page 11
+:   Cet élément vient appuyer l’exigence d’admissibilité énoncée au paragraphe 241(5) de la LSFP.
+
+    [Retour à la référence de la note de bas de page 11](#fnb11-ref)
+
+Note de bas de page 12
+:   Cet élément repose sur le libellé des paragraphes suivants : 232(1) de la LB, 237(1) de la LSFP et 233.1(1) de la LACC.
+
+    [Retour à la référence de la note de bas de page 12](#fnb12-ref)
+
+Note de bas de page 13
+:   Voir les paragraphes 236(1) de la LB, 241(1) de la LSFP et 233.5(1) de la LACC.
+
+    [Retour à la référence de la note de bas de page 13](#fnb13-ref)
+
+Note de bas de page 14
+:   Voir les paragraphes 494(6) de la LB, 482(6) de la LSFP et 418(5) de la LACC. Lorsque les actifs sont achetés et vendus entre banques, entre sociétés de fiducie ou de prêt ou entre associations, ces paragraphes dispensent également l’acheteur d’une approbation au titre des règles sur les opérations avec apparentés.
+
+    [Retour à la référence de la note de bas de page 14](#fnb14-ref)
+
+Note de bas de page 15
+:   Voir les articles 501 de la LB, 489 de la LSFP et 425 de la LACC.
+
+    [Retour à la référence de la note de bas de page 15](#fnb15-ref)
+
+Note de bas de page 16
+:   Voir les alinéas 482(2)g) de la LB, 470(2)c) de la LSFP et 406(3)c) de la LACC. Lorsque les actifs sont achetés et vendus entre banques, entre sociétés de fiducie ou de prêt ou entre associations, ces paragraphes annulent également la nécessité d’appliquer le seuil des 10 % aux actifs achetés.
+
+    [Retour à la référence de la note de bas de page 16](#fnb16-ref)
+
+Note de bas de page 17
+:   Voir le [Règlement de 2002 sur les droits à payer pour les services du Bureau du surintendant des institutions financières](http://laws-lois.justice.gc.ca/fra/reglements/DORS-2002-337/index.html).
+
+    [Retour à la référence de la note de bas de page 17](#fnb17-ref)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-12-21

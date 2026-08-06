@@ -1,0 +1,30 @@
+Page Content
+
+The European Insurance and Occupational Pensions Authority (EIOPA) published today the XBRL Taxonomy applicable for reporting of information on IORPs (Institutions for Occupational Retirement Provision) as of Q3/2019.
+
+This taxonomy provides National Competent Authorities (NCAs) with the technical means for the submission to EIOPA of harmonised information of all pension funds in the European Economic Area.
+
+In close collaboration with the European Central Bank (ECB), EIOPA has developed integrated technical templates and means to report via a single submission both the information required by EIOPA and the ECB.
+
+Subject to the adoption of the NCAs this integrated taxonomy may also be used for the collection of the information from the pension funds to NCAs. Such an adoption would reap efficiency gains and further clarity of the reported information.
+
+The Pensions XBRL Taxonomy can be reconciled with the Solvency II reporting requirements and is closely aligned with the ECB pensions reporting requirements. The taxonomy uses the same architecture as Solvency II and offers via one common dictionary all insurance, pension funds and ECB "add-ons" concepts. The taxonomy dictionary, based on the Data Point Model (DPM), provides a single definition of terms and the relations among them.
+
+Today, EIOPA also published a hotfix update for the 2.3.0 Solvency II taxonomy. As it was the case for the update of the previous 2.2.0 hotfix, this hotfix is correcting the taxonomy validations to optimise the data quality with minor impact on IT systems – providing XBRL "instance compatibility" with 2.3.0.
+
+#### Background
+
+**XBRL** **(eXtensible Business Reporting Language)** is an IT open standard used for the electronic preparation, exchange and analysis of business information. It is widely used in particular by EIOPA, but also by the European Banking Authority (EBA) and the European Securities and Markets Authority (ESMA).
+
+**The DPM (Data Point Model):** Data Point modelling is a methodology to create a bridge between the functional design of a reporting framework – "the reporting templates" – and the technical design of an XBRL taxonomy used for several European projects in particular for modelling the reporting requirements of Solvency II Directive and the Capital Requirements Directive (CRD) IV.
+
+Publication date
+:   5 November 2018
+
+## Related links
+
+[Decision on EIOPA's regular information requests](/document/download/9fe8f32b-b2d9-408d-be89-3d64a2315d3e_en?filename=Decision%20on%20EIOPA%27s%20regular%20information%20requests.pdf)
+
+[Regulation (EU) 2018/231 of the European Central Bank](/document/download/641609dc-f007-4441-b43f-27f26250e8f9_en?filename=Regulation%20%28EU%29%202018/231%20of%20the%20European%20Central%20Bank.pdf)
+
+[Technical templates - Pensions Information Taxonomy](/document/download/d068f3a5-8f93-4413-b76b-62e31270b7b8_en?filename=Technical%20templates%20-%20Pensions%20Information%20Taxonomy.xlsx)

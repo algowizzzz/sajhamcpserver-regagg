@@ -1,0 +1,61 @@
+# CANAFE publie des indicateurs sur le blanchiment des produits provenant du cannabis illicite, en soutien au projet Legion
+
+## Communiqué de presse
+
+**28 septembre 2022**, Ottawa ON
+
+CANAFE a publié aujourd'hui sa plus récente alerte opérationnelle, Blanchiment des produits provenant du cannabis illicite, en soutien au projet Legion. Cette dernière a pour but d'aider les entreprises visées par la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes à bien repérer et déclarer à CANAFE les opérations financières liées au blanchiment des produits des activités associées au cannabis illicite.
+
+Bien que la Loi sur le cannabis, qui définit le cadre légal du contrôle de la production, de la distribution, de la vente et de la possession du cannabis au Canada, soit entrée en vigueur en 2018, 37 % des répondants à l'Enquête canadienne sur le cannabis de 2021 ont déclaré avoir obtenu un peu ou la totalité de leur cannabis de sources illégales ou non autorisées, ce qui comprend les détaillants et points de vente non réglementés ou non autorisés.
+
+Ce marché du cannabis illégal cause du tort à la population et au système financier du Canada en raison des pertes importantes en recettes fiscales qu'il entraîne. Les profits générés par la vente de cannabis illicite servent aussi aux groupes du crime organisé à financer d'autres activités illégales et nuisibles dans nos communautés partout au pays.
+
+L'alerte opérationnelle de CANAFE, Blanchiment des produits provenant du cannabis illicite, a été préparée en collaboration avec les organismes d'application de la loi et les grandes banques canadiennes en vue de faciliter la réalisation du projet Legion, le plus récent partenariat public-privé du Canada. Dirigé par la TD, et soutenu par les organismes d'application de la loi et CANAFE, ce projet est axé sur la sensibilisation à l'égard des torts liés aux activités relatives au cannabis illicite et sur le renforcement de la détection du blanchiment des produits de ces activités criminelles.
+
+Grâce aux déclarations transmises par les entreprises visées par la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, CANAFE est en mesure de produire et de communiquer des renseignements financiers exploitables aux organismes d'application de la loi du Canada pour les soutenir dans leurs enquêtes sur le blanchiment d'argent.
+
+## Citations
+
+> « Nous sommes déterminés à travailler avec nos partenaires et les entreprises canadiennes pour protéger le système financier du Canada et aider à priver les groupes du crime organisé du financement dont ils ont besoin pour réaliser leurs activités criminelles qui causent un si grand tort à nos communautés et à nos citoyens et citoyennes les plus vulnérables. Grâce aux efforts dévoués des grandes banques canadiennes, en particulier, et aux opérations financières qu'elles déclarent, CANAFE est en mesure d'exploiter la puissance du renseignement financier pour aider à trouver et à cibler les criminels et les groupes du crime organisé participant à des activités associées au cannabis illicite et à d'autres crimes financiers. »
+
+> « À la TD, nous sommes déterminés à jouer un rôle de premier plan pour aider à atténuer les risques liés au crime financier. Nous accueillons favorablement cette occasion de collaborer avec CANAFE pour détecter et dissuader le blanchiment des produits découlant d'activités associées au cannabis illicite. Cet effort coordonné aidera à protéger l'intégrité de nos systèmes financiers et contribuera à assurer la sécurité de nos communautés partout au Canada. » [traduction]
+
+## Faits en bref
+
+* En tant qu'unité du renseignement financier et organisme de réglementation en matière de lutte contre le blanchiment d'argent et le financement des activités terroristes du Canada, CANAFE veille à la conformité de plus de 24 000 entreprises visées par la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et produit des renseignements financiers exploitables par les organismes d'application de la loi et de sécurité nationale du Canada.
+* Grâce à l'information qu'il reçoit de ses partenaires du régime et des entreprises de partout au pays, CANAFE produit également de précieux renseignements stratégiques pour lutter contre le blanchiment d'argent et le financement des activités terroristes. Par l'utilisation de techniques analytiques, CANAFE est en mesure de repérer les tendances, tactiques et caractéristiques émergentes auxquelles ont recours les criminels pour blanchir de l'argent et financer des activités terroristes.
+* Sur la base d'un examen de 5 000 déclarations d'opérations douteuses reçues entre mars 2020 et mars 2021, l'alerte opérationnelle de CANAFE décrit les méthodes utilisées pour transférer des fonds provenant d'activités associées au cannabis illicite et fournit une série d'indicateurs de blanchiment d'argent liés à ces activités illégales.
+* Le projet Legion est fondé sur le même modèle que les autres partenariats public-privé réussis et toujours en cours du Canada. Ceux-ci visent à lutter contre le blanchiment des produits liés à la traite de personnes aux fins d'exploitation sexuelle ([projet Protect](/intel/operation/oai-hts-2021-fra)), l'exploitation sexuelle des enfants en ligne ([projet Shadow](/intel/operation/exploitation-fra)), le trafic illicite de fentanyl ([projet Guardian](/intel/operation/iso-osi-fra)), les arnaques amoureuses ([projet Chameleon](/intel/operation/rf-fra)) et le blanchiment d'argent en Colombie-Britannique et à l'échelle du Canada ([projet Athena](/intel/operation/casino-fra)).
+* En 2021-2022, grâce à l'information transmise par les entreprises canadiennes, CANAFE a produit 2 292 communications de renseignements financiers exploitables en soutien à des enquêtes sur le blanchiment d'argent et le financement des activités terroristes d'organismes d'application de la loi et de sécurité nationale du Canada, communications dont le nombre s'ajoute aux plus de 24 000 que le Centre a produites depuis le début de ses activités en 2001.
+* Une communication de renseignements financiers de CANAFE contient très souvent des centaines, voire des milliers, de déclarations d'opérations financières, ce qui témoigne de la complexité à lier les mouvements de fonds illicites impliquant des groupes du crime organisé.
+* Les communications de CANAFE sont fréquemment transmises à plusieurs organismes simultanément, lorsque le Centre est autorisé à le faire. Cette capacité à communiquer de multiples dossiers signifie que CANAFE peut aider les organismes d'application de la loi et de sécurité nationale du Canada à lier des opérations et activités criminelles aux niveaux national et international en suivant la piste de l'argent.
+* En 2021-2022, les renseignements financiers de CANAFE ont contribué à 335 enquêtes majeures exigeantes en ressources, ainsi qu'à des centaines d'autres enquêtes individuelles aux niveaux municipal, provincial et fédéral partout au pays.
+
+## Produit connexe
+
+* [Alerte opérationnelle : Blanchiment des produits provenant du cannabis illicite](/intel/operation/cannabis-fra)
+
+## Liens connexes
+
+* [Loi sur le cannabis](https://laws-lois.justice.gc.ca/fra/lois/c-24.5/)
+* [Directives de CANAFE sur la déclaration d'opérations douteuses](/guidance-directives/transaction-operation/str-dod/str-dod-fra)
+* [Cannabis – Canada.ca](https://www.canada.ca/fr/sante-canada/services/drogues-medicaments/cannabis.html)
+* [Enquête canadienne sur le cannabis de 2021 : Sommaire](https://www.canada.ca/fr/sante-canada/services/drogues-medicaments/cannabis/recherches-donnees/enquete-canadienne-cannabis-2021-sommaire.html)
+* [Regard rétrospectif en 2020, l'évolution de la consommation de cannabis et des comportements connexes au Canada](https://www150.statcan.gc.ca/n1/pub/82-003-x/2021004/article/00001-fra.htm)
+
+– 30 –
+
+## Personnes-ressources
+
+Relations avec les médias  
+Centre d'analyse des opérations et déclarations financières du Canada  
+613-947-6875  
+[media.medias@fintrac-canafe.gc.ca](mailto:media.medias@fintrac-canafe.gc.ca)
+
+Suivez-nous sur  
+Twitter : [@CANAFE\_Canada](https://twitter.com/CANAFE_Canada)  
+LinkedIn : [FINTRAC Canada | CANAFE Canada](https://www.linkedin.com/company/18406872/)  
+YouTube : [CANAFE Canada](https://www.youtube.com/channel/UCTz3W5F0Orkfv9yzxLHuf3A)
+
+Date de modification :
+:   2022-09-28

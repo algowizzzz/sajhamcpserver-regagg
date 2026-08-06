@@ -1,0 +1,1 @@
+Summary: # Sweltering summer lifts Next sales as profit outlook upgraded again

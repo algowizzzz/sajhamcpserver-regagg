@@ -1,0 +1,37 @@
+# Reporting on anti-money laundering, anti-terrorist financing and sanctions
+
+The Government of Canada has sanctions against many terrorist or criminal organizations and individuals. Part of these sanctions is tracking activity in the Canadian financial industry that could be related to people and organizations included on lists of designated people.
+
+Find out more about:
+
+* [Canadian sanctions](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/index.aspx?lang=eng)
+* [Listed terrorist entities](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/index-en.aspx)
+* [Listed persons](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/listed_persons-personnes_inscrites.aspx?lang=eng)
+
+## On this page
+
+## OSFI’s role in monitoring compliance with sanctions
+
+Federally regulated financial institutions must report monthly to OSFI anything related to the names listed on these regulations:
+
+* *[Justice for Victims of Corrupt Foreign Officials Regulations](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2017-233/page-2.html#h-842596)*
+* *[Regulations Establishing a List of Entities](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-284/FullText.html)*
+
+### Reporting instructions
+
+To fulfill their legal requirements, federally regulated financial institutions must fill out forms OSFI-525 and OSFI-590 on a monthly basis in the Regulatory Reporting System.
+
+* [OSFI-525 Report Instructions](/en/data-forms/reporting-returns/reporting-anti-money-laundering-anti-terrorist-financing-sanctions/osfi-525-report-instructions "OSFI-525 Report Instructions")
+* [OSFI-590 Report Instructions](/en/data-forms/reporting-returns/reporting-anti-money-laundering-anti-terrorist-financing-sanctions/osfi-590-report-instructions "OSFI-590 Report Instructions")
+
+See more information on how to [file and submit a return](/en/data-forms/reporting-returns/file-submit-return "File and submit a return").
+
+## Related links
+
+* [Learn about how OSFI and FINTRAC work together](/en/about-osfi/osfi-knowledge-centre/learn-about-osfi-fintrac-work-together "Learn about how OSFI and FINTRAC work together")
+* [Canada's Anti-Money Laundering and Anti-Terrorist Financing Regime Strategy 2023-2026](https://www.canada.ca/en/department-finance/programs/financial-sector-policy/canadas-anti-money-laundering-and-anti-terrorist-financing-regime-strategy-2023-2026.html)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-09-12

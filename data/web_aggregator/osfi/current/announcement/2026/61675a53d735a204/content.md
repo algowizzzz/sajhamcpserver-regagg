@@ -1,0 +1,31 @@
+# Remission of service fees
+
+When we don’t meet our service standards, we must remit the service fee before July 1 of the following fiscal year. We don’t include interest on pending remissions. We won’t issue remissions if service standards are missed because of circumstances that were outside of our control, including:
+
+* acts of nature, such as floods or power failures
+* labour disruptions
+* delays caused by the applicant, such as not providing information on time
+
+Percentage of fee remitted
+
+| Service | Standard missed by 1 to 180 days | Standard missed by more than 180 days |
+| --- | --- | --- |
+| Letters patent of incorporation | 25% | 100% |
+| Letters patent of continuance | 25% | 100% |
+| Order permitting a foreign bank to carry on business in Canada | 25% | 100% |
+| Order approving the insuring in Canada of risks by a foreign body corporate | 25% | 100% |
+| Exemption from material banking group status | 25% | 100% |
+| Approval for a foreign bank or an entity associated with a foreign bank to have a financial establishment in Canada | 25% | 100% |
+| Approval for a foreign bank or an entity associated with a foreign bank in respect of investments and activities | 25% | 100% |
+| Approval to maintain a representative office of a foreign bank | 25% | 100% |
+| Reservation of a name | 100% | N/A |
+| Written, precedent-setting ruling relating to the quality of capital | 25% | 100% |
+| Accreditation of provincial reinsurer | 25% | 100% |
+| Written interpretation of Acts, regulations, guidelines or rulings | 25% | 100% |
+| Written, non-precedent-setting confirmation of quality of capital | 25% | 100% |
+| Copies of any of the following corporate documents (per request and per body corporate):   * Certificate of confirmation * Certified copy of letters patent or of incorporation or amalgamation documents * corporate history of a body corporate | 100% | N/A |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-01-18

@@ -1,0 +1,24 @@
+{
+  "doc_id": "659484d4472fb1ce",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FinCEN Advisory - Issue 31 | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/advisories/fincen-advisory-issue-31",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e82a7a36e7d2a56de69dcb41f245d37bc6fe937cbd059c15c7516daca47854ec",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/659484d4472fb1ce",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

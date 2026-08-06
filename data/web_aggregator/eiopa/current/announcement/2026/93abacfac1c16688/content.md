@@ -1,0 +1,10 @@
+Introductory Statement by Gabriel Bernardino, Chair of the Joint Committee of the European Supervisory Authorities, at the Scrutiny Hearing on PRIIPs of the ECON Committee of the European Parliament on 20 February 2019 in Brussels. ​
+
+Publication date
+:   20 February 2019
+
+## Related links
+
+[Introductory Statement at the Scrutiny Hearing on PRIIPs](/publications/introductory-statement-scrutiny-hearing-priips_en)
+
+[Introductory Statement by Gabriel Bernardino at the Scrutiny Hearing on PRIIPs](/document/download/c2f78a01-f5a7-4df8-94ed-2f60c419c20a_en?filename=Introductory%20Statement%20by%20Gabriel%20Bernardino%20at%20the%20Scrutiny%20Hearing%20on%20PRIIPs%20.pdf)

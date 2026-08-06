@@ -1,0 +1,27 @@
+{
+  "doc_id": "f86a88d5cbecb391",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2026-smsb-pmb-guideline-ligne-directrice-en.pdf",
+  "language": "en",
+  "source_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2026-smsb-pmb-guideline-ligne-directrice-en.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fbf9b4dc74c571332e048c494c16b9f64cb3f3796852ea7934c1a1b258acf5a3",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/f86a88d5cbecb391",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2026-smsb-pmb-guideline-ligne-directrice-en.pdf",
+  "fetch_method": "pdf_to_md"
+}

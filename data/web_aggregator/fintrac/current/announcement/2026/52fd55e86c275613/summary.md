@@ -1,0 +1,1 @@
+Summary: # Entreprises d’encaissement de chèques : Exigences de CANAFE

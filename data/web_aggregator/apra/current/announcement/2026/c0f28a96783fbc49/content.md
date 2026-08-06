@@ -1,0 +1,75 @@
+[Print](#)
+
+### On this page
+
+### On this page
+
+APRA publishes statistics on the performance of the life insurance industry on a quarterly basis. These statistics contain industry aggregate summaries of financial performance and position, capital adequacy, as well as details on the performance of individual product groups.
+
+## Quarterly life insurance performance statistics
+
+[Quarterly life insurance performance statistics - September 2023 to March 2026](https://app.powerbi.com/view?r=eyJrIjoiZDBhZGRjNjYtZjI4My00YmUwLTg4ZmEtNjAyMTRkYWI5ZjVmIiwidCI6ImMwNWUzZmZkLWI0OTEtNDQzMS05ODA5LWU2MWQ0ZGM3ODgxNiJ9)
+
+The performance statistics contain data relating to the financial performance and position at an industry aggregate level. Statistics are also provided at a product group level and includes a split between ordinary and superannuation business.
+
+#### More information
+
+This publication was reissued on 20 March 2026 to incorporate material revisions from insurers.
+
+[Quarterly life insurance performance statistics database September 2023 to March 2026
+
+XLSX
+620.76 KB
+‧
+29 May 2026](/system/files/2026-06/Quarterly%20life%20insurance%20performance%20statistics%20database%20September%202023%20to%20March%202026.xlsx)
+
+The database presents the performance statistics data in a database format.
+
+[Quarterly life insurance performance statistics - specifications
+
+XLSX
+74.83 KB
+‧
+22 August 2024](/system/files/2024-08/%5B20240820%5D%20Quarterly%20life%20insurance%20performance%20statistics%20-%20specifications.xlsx)
+
+The specifications file provides details of the data elements included in this publication.
+
+## Important notice
+
+The content in this publication has been updated to reflect the new reporting framework for insurance with effect from 1 July 2023. Users should interpret the data together with the latest Reporting Standards and are encouraged to check data point definitions as outlined in the publication specification available above. Further information on the revisions to the insurance publication suite can be found [here](/node/4256/)
+
+Historical data
+
+Archived versions of the quarterly LI performance statistics from June 2008 to June 2023 are available below. The data is collected on a different basis to the new data and cannot be used as a direct comparison.
+
+[Quarterly Life Insurance Performance Statistics (historical data) June 2008 to June 2023
+
+XLSX
+794.98 KB
+‧
+24 August 2023](/system/files/2025-06/Quarterly%20Life%20Insurance%20Performance%20Statistics%20%28historical%20data%29%20June%202023.xlsx)
+
+[Quarterly Life Insurance Performance Statistics Database (historical data) June 2008 to June 2023
+
+XLSX
+2.94 MB
+‧
+24 August 2023](/system/files/2025-06/Quarterly%20Life%20Insurance%20Performance%20Statistics%20Database%20%28historical%20data%29%20June%202008%20to%20June%202023.xlsx)
+
+## Next release
+
+August 2026 (June 2026 edition)
+
+> ### For more information
+>
+> Email [dataanalytics@apra.gov.au](mailto:dataanalytics@apra.gov.au) or mail to
+>
+> Manager, External Data Reporting  
+> Australian Prudential Regulation Authority  
+> GPO Box 9836, Sydney NSW 2001
+>
+> ### Looking for discontinued publications?
+>
+> [Search historical snapshots of APRA's website on the Australian Government web archive.](http://webarchive.nla.gov.au/gov/*/http://www.apra.gov.au)
+
+## Footnotes

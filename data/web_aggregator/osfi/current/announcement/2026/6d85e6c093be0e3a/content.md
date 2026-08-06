@@ -1,0 +1,114 @@
+# Technical Frequently Asked Questions (FAQs) on LCR
+
+Information
+
+Type of document
+
+FAQs
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Liquidity Coverage Ratio (LCR) Reporting (LA)
+
+Last updated
+
+January 2015
+
+Return number
+
+LA
+
+Accompanying documents
+
+* [Liquidity Coverage Ratio (LCR) Reporting (LA)](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/liquidity-coverage-ratio-lcr-reporting)
+
+## Purpose
+
+Deposit-taking institutions’ (DTIs) LCR and LCR by significant[Footnote 1](#fnb1) currency (where applicable) information should both be submitted through the Regulatory Reporting System (RRS) by either
+
+1. inputting the values directly in the respective RRS web form, or
+2. uploading a data file in the XML format.
+
+This document provides OSFI responses to a series of frequently asked questions (FAQs) related to the technical aspect of these return submissions in the XML format.
+
+## Technical FAQs
+
+Q1. What is the official return code of the LCR return?
+
+The official two-letter code is LA.
+
+Q2. Where can the technical specifications of the return be found?
+
+An XML schema definition (XSD) file specifies the elements of conforming XML documents. The XSD for the LCR return can be downloaded from RRS Portal. Figure 1 below shows the exact location, highlighted in red. Two relevant files – “LA Schema Definition.xsd” and “LA – XML Sample Data.xml” – can be found there.
+
+FIGURE 1
+
+![FAQs Figure 1](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2015-04/en/lcr_faq_1.png)
+
+Q3. Can LCR data be directly keyed in instead of submitting it as an XML file?
+
+Yes, a web form will be available in RRS for institutions to directly key in the LCR data.
+
+Q4. What is the FirmID of my organization?
+
+This optional element should not be part of an institution’s XML submission.  Where applicable, please remove the FirmID element from your XML submission file (see Figure 2).  This system issue will be addressed in a future RRS update.
+
+Figure 2
+
+![FAQs Figure 2](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2015-04/en/lcr_faq_2.png)
+
+Q5. How should the XML file to be submitted be named?
+
+There is no restriction in this regard.
+
+Q6. Is a separate XML file for each currency needed?
+
+No. A single XML file must contain all currencies to be reported. As an example, Figure 3 shows a structure of an XML file with three currencies. Each currency is to be contained within the “LCR\_x0020\_Repeat\_x0020\_Group” tag, which is highlighted by the blue box.
+
+Figure 3
+
+![FAQs Figure 3](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2015-04/en/lcr_faq_3.png)
+
+Q7. Will OSFI provide a testing environment?
+
+No. However, the LCR return was made available in RRS on January 15, 2015 in order to provide institutions with additional time for testing. Test files can be submitted at any time, with resubmissions automatically granted, until the submission deadline for the January 2015 reporting period of February 14, 2015.
+
+## Additional notes
+
+N1. Only for the January 2015 filing, institutions that are direct clearers will encounter validation errors when the value of DPA 99039 is, albeit correctly, set to zero. Figure 4 shows an example.
+
+Figure 4
+
+![FAQs Figure 4](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2015-04/en/lcr_faq_4.png)
+
+OSFI will override the D99039A error. The issue will be addressed for the subsequent filings. All the other validation rules must be satisfied however.
+
+N2. As one of the many tools to generate XML files, Excel can import an XSD, map each schema element and export it in XML. The following steps outline the process (this is based on Excel 2010).
+
+1. On the **Developer** tab, select **Source** in the **XML** group.
+   1. ![FAQs Figure 5](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2015-04/en/lcr_faq_5.png)
+2. From the **XML Source** task pane, click the **XML Maps…** button.
+   1. ![FAQs Figure 6](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2015-04/en/lcr_faq_6.png)
+3. From the **XML Maps** window, click **Add** and select an XSD file. Click **OK**. The appropriate XSD file for the LCR return is titled “LA Schema Definition.xsd” and can be found in RRS as described under Question 2.
+   1. ![FAQs Figure 7](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2015-04/en/lcr_faq_7.png)
+4. The **XML Source** task pane shows all the schema elements in a hierarchy. Now each element or a group of elements can be mapped by drag and drop. Note that Excel cannot have repeating elements in the same table (possibly subject to the version of Excel) which means that a separate Excel file may need to be created for each currency. In each file, the “LCR Repeat Group” element (or any of its child elements) can be dragged and dropped onto a worksheet to create a horizontal table with all of its child elements.
+   1. ![FAQs Figure 8](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2015-04/en/lcr_faq_8.png)
+5. Once schema elements are mapped to data (or the values are typed in), click **Export** in the XML group. Note that, in this particular Excel method, each currency will have a separate XML file. To upload into RRS, all XML files should be integrated into one file as described in Q6.
+   1. ![FAQs Figure 9](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2015-04/en/lcr_faq_9.png)
+6. For elements of a numeric data type, empty content is not allowed. If a submission XML file contains such element with no data, this will generate an error at the time of uploading to RRS. Elements with empty content should be removed from the XML file. Please note that zero is a valid value.
+
+## Footnotes
+
+Footnote 1
+:   See Section 5.4 of the LAR Guideline for the definition of a “significant” currency.
+
+    [Return to footnote 1](#fnb1-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2015-04-08

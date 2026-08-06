@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) published today its [Consumer Protection Issues in Travel Insurance](/publications/consumer-protection-issues-travel-insurance_en).

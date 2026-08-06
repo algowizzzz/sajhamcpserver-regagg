@@ -1,0 +1,23 @@
+# Message from the Superintendent
+
+I’m pleased to share our [Strategic Plan for 2024-2027](/en/about-osfi/reports-publications/strategic-plan-2024-2027 "Strategic Plan 2024-2027").
+
+In 2021, we developed the [Blueprint for OSFI's Transformation 2022-2025](/en/about-osfi/reports-publications/blueprint-osfis-transformation-2022-2025 "A Blueprint for OSFI’s Transformation 2022 - 2025"). The Blueprint had two key objectives — to share our vision to thrive in intensifying uncertainty and to outline our strategic initiatives in light of the changing risk environment. Over the past two years, we’ve made significant progress along our transformation journey, achieving many of the deliverables set out in our 2022-2025 Strategic Plan.
+
+Given how much we’ve accomplished, the continuously shifting external risk environment, and an expanded mandate focused on integrity and security in our financial system, we’re launching a new strategic plan.
+
+As a prudential regulator, we have always been focused on ensuring federally regulated financial institutions (“financial institutions”) meet regulatory and supervisory expectations so that they remain in sound financial condition. We also ensure federally regulated pension plans (“pensions plans”) meet minimum funding and other requirements. In Spring 2023, the Government of Canada introduced new legislative amendments to OSFI’s mandate, requiring OSFI to supervise financial institutions to determine whether they have adequate policies and procedures to protect themselves against threats to their integrity and security, including foreign interference.
+
+The Strategic Plan 2024-27 outlines our [new integrity and security regime](/en/news/statement-superintendent-royal-assent-bill-c-47 "Statement from the Superintendent on Royal Assent of Bill C-47") as one of six strategic priorities. We are also prioritizing critical functions and operational resilience to better fulfill our core mandate in a heightened risk environment.
+
+In addition to these strategic priorities, our Strategic Plan recognizes that there’s more to be done on three important initiatives from the Strategic Plan 2022-25, specifically, supervisory renewal, culture, and data management and analytics.
+
+In delivering on the 2024-2027 Strategic Plan, we’ll implement the next chapter of our transformative evolution, continuing to enhance our ability to address developing risks as early as possible. Our efforts will continue to ensure that financial institutions and pension plans remain stable and secure, and that Canadians can have trust and confidence in their financial system.
+
+Peter Routledge  
+Superintendent
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-04-09

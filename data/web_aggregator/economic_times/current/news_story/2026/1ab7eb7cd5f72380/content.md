@@ -1,0 +1,7 @@
+# Oil Price Today (August 6): Crude oil dips below $80 on hopes Iran-Oman deal could end Iran war. What are experts saying?
+
+Oil prices experienced a minor decline on Thursday amid advancing negotiations. Market watchers are closely monitoring the prospective US-Iran peace treaty, which could enable access to the key Strait of Hormuz. While experts expect oil prices to stabilize with an uptick in supply, ongoing disruptions in essential shipping routes present potential risks for upward price fluctuations.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-6-crude-oil-dips-below-80-on-hopes-iran-oman-deal-could-end-iran-war-what-are-experts-saying/articleshow/132979497.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

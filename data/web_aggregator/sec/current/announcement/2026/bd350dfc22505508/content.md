@@ -1,0 +1,256 @@
+1 
+MEMORANDUM OF UNDERSTANDING 
+BETWEEN 
+THE U.S. SECURITIES AND EXCHANGE COMMISSION 
+AND 
+THE NATIONAL FUTURES ASSOCIATION 
+REGARDING  
+COORDINATION AND INFORMATION SHARING IN AREAS OF COMMON 
+REGULATORY INTEREST 
+ 
+The mission of the U.S. Securities and Exchange Commission (the “SEC”) is to protect investors, 
+maintain fair, orderly, and efficient securities markets, and facilitate capital formation. The mission of 
+the National Futures Association (the “NFA”) is to safeguard the integrity of the derivatives markets, 
+protect investors, and ensure its member firms meet their regulatory responsibilities.  
+This Memorandum of Understanding (the “MOU”) between the SEC and the NFA (each a “Party” and 
+together, the “Parties”) reflects the Parties’ intent to collaborate, cooperate, and share information in 
+areas of common regulatory interest to facilitate their oversight of financial services firms and markets. 
+The SEC has regulatory and supervisory responsibilities over certain entities subject to federal 
+securities laws, including securities brokers, securities dealers, security-based swap dealers, major 
+security-based swap participants, security-based swap data repositories, security-based swap execution 
+facilities, clearing agencies, transfer agents, exchanges, investment advisers, investment companies, 
+and other entities. The NFA has supervisory responsibilities over certain entities subject to the 
+Commodity Exchange Act, including commodity pool operators, commodity trading advisors, 
+introducing brokers, futures commission merchants, retail foreign exchange dealers and the associated 
+persons of these Commodity Futures Trading Commission (CFTC) registrants, as well as swap dealers 
+and major swap participants. 
+The Parties recognize that coordinating supervision of, and sharing information concerning, certain 
+entities subject to federal securities laws and the Commodity Exchange Act is important in maintaining 
+effective oversight and promoting compliance with derivatives and securities laws. The Parties share a 
+strong common interest in maintaining an open flow of information regarding entities under their 
+respective oversight. The Parties further recognize the importance of cooperation and coordination in 
+effectively carrying out their responsibilities and maintaining the highest level of oversight quality 
+while minimizing duplicative efforts. Accordingly, the Parties are entering into the MOU to establish a 
+framework for sharing information in areas of common regulatory interest. 
+ARTICLE I: DEFINITIONS 
+For purposes of the MOU: 
+“Affiliate” or “Affiliated” means any entity that controls, or is controlled by, or is under 
+common control with another entity.
+
+2 
+“SEC Supervised Person” shall mean a person or entity registered, required to be registered, or 
+otherwise regulated by the SEC. 
+“NFA Supervised Person” shall mean a person or entity that is or was a Member or 
+Associate Member of the NFA. 
+ARTICLE II: GENERAL PROVISIONS 
+1. This MOU is intended to enable the Parties, in their respective discretion, to collaborate, 
+cooperate, and share information in connection with the respective regulatory responsibilities and 
+authorities of the Parties in a manner consistent with, and permitted by, the laws and requirements 
+that govern each of the Parties. Each Party acknowledges the other Party’s need for and interest in 
+the information that may be shared.  
+2. This MOU does not create legally binding obligations on the SEC or the NFA and does not create 
+any right enforceable against the SEC or the NFA or any of their officers or employees or any 
+other person. This MOU also does not confer upon any third party any right and specifically does 
+not confer on any third party the ability directly or indirectly to obtain, suppress, or exclude any 
+information shared pursuant to this MOU, or to challenge the execution of a request under this 
+MOU. 
+3. The Parties encourage their respective staffs to maintain ongoing, ad hoc communications to 
+ensure coordination, as appropriate, consistent with the purposes of this MOU. 
+4. Nothing in this MOU modifies in any way the ability and responsibility of the Parties to enforce 
+their respective statutes, regulations, or rules. 
+5. Nothing in this MOU shall be deemed to diminish or impair in any way the independence of either 
+Party in any of its functions. 
+6. Nothing in this MOU shall be deemed to obligate either Party to create, share, or maintain any 
+information. 
+7. This MOU does not alter the terms and conditions of existing bilateral or multilateral arrangements 
+into which either Party has entered. In addition, the Parties intend to continue their ongoing 
+practice of sharing information between their enforcement functions, pursuant to the Parties’ 
+existing access request procedures. Nothing in this MOU is intended to modify or replace existing 
+sharing arrangements or the current practices of the Parties regarding the use of such enforcement 
+information by a Receiving Party. Any information shared by either Party pursuant to an access 
+request shall be governed by the terms of such access request, notwithstanding the terms of this 
+MOU.   
+8. The Parties may periodically review the functioning and effectiveness of this MOU with a view to 
+expanding or altering the scope or operation of the MOU should such expansion or alteration be 
+judged to further the intent of the Parties.
+
+3 
+ARTICLE III: PROCEDURES FOR SHARING INFORMATION IN AREAS OF COMMON 
+REGULATORY INTEREST GENERALLY 
+9. To the extent practicable and as appropriate in the particular circumstances, each Party will 
+endeavor to inform the other, in advance where feasible and otherwise as soon as practicable, of 
+issues that may impact the regulatory or supervisory interests of the other Party. 
+10. The financial condition of jointly regulated or affiliated SEC Supervised Persons and NFA 
+Supervised Persons may be important to both Parties, who may, in their discretion, identify, 
+discuss, and share information regarding the regulatory issues related to jointly regulated or 
+affiliated SEC Supervised Persons and NFA Supervised Persons, and regarding other regulatory 
+and supervisory issues of mutual interest. 
+11. To leverage the Parties’ respective expertise, registrant data, and related risk analysis, and 
+minimize burdens on SEC Supervised Persons and NFA Supervised Persons, the staff of the Parties 
+agree to meet periodically to discuss matters of mutual interest, such as risk assessment, 
+examination planning, examination findings, supervisory priorities, and observed trends and 
+emerging risks related to SEC Supervised Persons and NFA Supervised Persons. Each Party will 
+make its own determinations regarding which regulated entities to examine, how to conduct 
+examinations, and what findings to make.  
+12. SEC staff may, in their discretion, provide the NFA, as requested: 
+a. Information regarding examinations of SEC Supervised Persons who are of regulatory 
+interest to the NFA, as well as information that is related to other areas of common 
+regulatory interest of the Parties; and 
+b. Information regarding the financial markets, including in particular securities markets, and 
+the SEC’s assessment of the conditions in such markets, that may materially affect the 
+operations or financial condition of NFA Supervised Persons. 
+13. NFA staff may, in their discretion, provide the SEC, as requested:  
+a. Information regarding examinations of NFA Supervised Persons who are of regulatory 
+interest to the SEC, as well as information that is related to other areas of common 
+regulatory interest of the Parties; and 
+b. Information regarding the financial markets, including in particular derivatives markets, and 
+the NFA assessment of the conditions in such markets, that may materially affect the 
+operations or financial condition of SEC Supervised Persons. 
+14. Information may be shared orally or in writing. 
+ARTICLE IV: PERMISSIBLE USES AND CONFIDENTIALITY OF INFORMATION 
+15. For purposes of this MOU, the SEC or the NFA is referred to as the “Providing Party” when it is 
+providing information to the other Party, and is referred to as the “Receiving Party” when it is 
+receiving information from the other Party.
+
+4 
+16. This Article IV applies only to information shared under this MOU and does not apply to 
+information obtained by the Parties through a source outside this MOU or pursuant to the Parties’ 
+own authority.  
+17. All information shared pursuant to this MOU and any information substantially and 
+directly derived therefrom is presumed to be non-public, unless the Providing Party 
+specifies in writing that it is not. This MOU does not apply to non-public information that 
+becomes publicly available in a manner other than by a breach of this MOU by the 
+Receiving Party.  
+18. Information an SEC Supervised Person or NFA Supervised Person provides in connection with a 
+coordinated examination or review of the SEC Supervised Person or NFA Supervised Person (i) to 
+both Parties concurrently, or (ii) to a Party which then provides the information to the other Party 
+participating in that coordinated examination or review, will be deemed to be information of each 
+Party and not information shared under this MOU. However, the Parties agree to treat such 
+information as confidential in accordance with the laws applicable to each Party and the applicable 
+regulations, rules, or policies of each Party. 
+19. Other than as provided in paragraph 21 of this MOU, and to the extent permitted by applicable 
+laws and in accordance with applicable regulations or rules, the Parties will maintain the 
+confidentiality of all non-public information obtained pursuant to this MOU and will not disclose 
+such information to any person outside the SEC or the NFA without the prior written consent of 
+the Providing Party, which will not be unreasonably withheld. The Parties agree to expeditiously 
+discuss such requests for disclosure. In addition, when acting as a Receiving Party, the SEC or the 
+NFA will: 
+a. unless prohibited by law, notify the Providing Party in writing, as soon as practicable, of any 
+legally enforceable demand or request for such non-public information (including but not 
+limited to, a subpoena (other than a grand jury subpoena), court or administrative order, 
+request from a duly authorized Committee of the United States Congress, or request pursuant 
+to the Freedom of Information Act). Nothing in this MOU will prevent a Receiving Party 
+from complying with any legally enforceable demand or request for non-public information. 
+The Receiving Party shall, if not legally prohibited, provide the Providing Party a reasonable 
+opportunity to respond to the demand or request prior to complying with the demand or 
+request, and assert all such legal exemptions or privileges on behalf of the Providing Party as 
+the Providing Party may reasonably request be asserted. In the case of a subpoena or order, 
+the Receiving Party will attempt, to the extent practicable, to secure a protective order to 
+preserve, protect, and maintain the confidentiality of the information and any privileges 
+associated therewith. In complying with a request received from a duly authorized Committee 
+of the United States Congress, the Receiving Party will advise the Committee that the 
+information being produced belongs to the Providing Party and that it is non-public; 
+b. except as otherwise provided in this MOU, not grant any other demand or request for the 
+information, not furnish to any third party or make public any portions of the information or 
+information substantially and directly derived therefrom, without the prior written permission
+
+5 
+of the Providing Party; and 
+c. consent to application by the Providing Party to intervene in any related action solely for the 
+purposes of asserting and preserving any privileges or claims of confidentiality with respect 
+to non-public information it provided. 
+20. For purposes of paragraph 19.b of this MOU, the term “third party” shall not include a consultant 
+or expert retained by the Receiving Party to assist in the conduct of an examination, inspection, 
+enforcement investigation, swap dealer model approval, proceeding, or civil action and who has 
+signed a non-disclosure agreement with the Receiving Party that obligates the person to comply 
+with the restrictions in this Article IV. 
+21. Use of Information Shared by the SEC and the NFA under this MOU. 
+a. Non-public information received under this MOU from a Providing Party may be used 
+internally by the Receiving Party to inform any examination, swap dealer model approval, 
+disciplinary or enforcement investigation, proceeding, civil action, oversight, or general 
+research.  
+b. The SEC may use non-public information received from the NFA that was obtained from an 
+SEC Supervised Person for or in any examination of, or any enforcement investigation, 
+proceeding, or civil action against, such SEC Supervised Person.   
+c. The NFA may use non-public information received from the SEC that was obtained from an 
+NFA Supervised Person for or in any examination of, or any enforcement investigation, 
+proceeding, or civil action against, such NFA Supervised Person.  
+22. To the extent any of the information requested by the SEC is information of the CFTC, the SEC 
+will request the information directly from the CFTC pursuant to the March 11, 2026 Memorandum 
+of Understanding (the “March 2026 MOU”) between the SEC and the CFTC. 
+23. If, in connection with its oversight authority over the NFA, the CFTC requests information from the 
+NFA that the NFA obtained from the SEC under this MOU, the NFA shall inform the CFTC that the 
+information was obtained from the SEC and request that the CFTC seek the information directly 
+from the SEC pursuant to the March 2026 MOU. In the case of direct CFTC access to NFA 
+information systems, NFA shall inform the CFTC of information that was obtained from the SEC 
+and request that the CFTC treat the information as confidential pursuant to the March 2026 MOU. 
+24. Nothing in this MOU waives or alters any provision of any applicable laws relating to non-
+public information. 
+25. The Parties agree to take all actions reasonably necessary to preserve, protect, and maintain 
+all privileges and claims of confidentiality related to non-public information provided 
+pursuant to the MOU, in accordance with applicable law. 
+26. The Parties intend that sharing of non-public information with each other pursuant to the terms of 
+the MOU will not constitute public disclosure, nor will it constitute a waiver of confidentiality or
+
+6 
+any privilege applicable to such information. The Parties expressly reserve all evidentiary 
+privileges and immunities applicable to the information shared under this MOU. Pursuant to 
+Section 24(f ) of the Securities Exchange Act of 1934, 15 U.S.C. § 78x, the Parties do not waive 
+any applicable privileges when transferring information to or permitting the use of information 
+obtained from the other Party. 
+27. To the extent reasonably possible, including by taking into account any reasonable requests from
+federal law enforcement, the Receiving Party will promptly notify the Providing Party in the event
+of any actual or reasonably possible unauthorized use, loss, or disclosure of non-public information
+obt
+ained from the Providing Party to the extent such unauthorized use, loss, or disclosure is
+ma
+terial. The notification will identify, where possible, the recipient(s) of such information. Each
+Pa
+rty will reasonably cooperate with the other Party, including in efforts to remediate, recover, and
+pr
+event any further unauthorized use, loss, or disclosure.
+ARTICLE V: SAFEGUARDING NON-PUBLIC INFORMATION 
+28. Each Party agrees to establish and maintain such safeguards as are necessary and appropriate,
+including appropriate administrative, technical, and physical safeguards, that are designed to protect
+the confidentiality of any non-public information received pursuant to this MOU, as well as any
+information substantially and directly derived therefrom; such safeguards will include the use of
+appropriate data storage and data protection in accordance with applicable federal government
+information security standards and best practices established by the National Institute of Standards
+and Technology (NIST), including encryption at rest and encryption in transit; and will include
+restricting access to such information to only those staff and contractors of the Receiving Party w
+ho
+ha
+ve a need to know the information in the performance of their official work duties except as
+authorized pursuant to this MOU.
+ARTICLE VI: POINTS OF CONTACT 
+29. The Parties designate the following persons as their point(s) of contact for issues related to the
+i
+nterpretation or application of this MOU and any authorizations, approvals, or notices of requested
+mo
+difications under this MOU:
+a. With respect to the SEC, the Director of the Division of Examinations, or his or her
+designees;
+b. With respect to the NFA, the Head of the Member Oversight Department, or his or her
+designees.
+ARTICLE VII: EFFECTIVE DATE AND TERMINATION 
+30. The MOU shall become effective as of the date of its signing, shall remain effective unless
+t
+erminated by either Party, and may be revised or modified, upon agreement of the Parties.
+31. Either Party may terminate the MOU upon 30 days’ written notice to the other Party. Following
+te
+rmination, all information that was provided pursuant to the MOU shall remain confidential and
+s
+hall continue to be governed by the terms of Article IV.
+
+7 
+DATE:  May 21, 2026 
+ 
+/s/ Paul S. Atkins_________________ 
+Paul S. Atkins 
+Chairman 
+Securities and Exchange Commission 
+  
+/s/ Thomas W. Sexton______ 
+Thomas W. Sexton 
+President & CEO 
+National Futures Association

@@ -1,0 +1,1 @@
+Summary: # Temasek-backed Manipal Health rises in India market debut after $973m IPO

@@ -1,0 +1,25 @@
+{
+  "doc_id": "f4ef15162a97a7ed",
+  "regulator_id": "scmp_business",
+  "doc_type": "news_story",
+  "title": "China sees flurry of commercial property deals as investors sniff out bargains",
+  "language": "en",
+  "source_url": "https://www.scmp.com/business/china-business/article/3362546/china-sees-flurry-commercial-property-deals-investors-sniff-out-bargains?utm_source=rss_feed",
+  "reference_number": null,
+  "published_date": "2026-08-02",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7567aa260fe8e69a758a0f26886d35d632388d7fbbc2704c91868724d34c3210",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_scmp_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/scmp_business/current/news_story/2026/f4ef15162a97a7ed",
+  "tags": [
+    "hong_kong"
+  ],
+  "final_url": "https://www.scmp.com/business/china-business/article/3362546/china-sees-flurry-commercial-property-deals-investors-sniff-out-bargains?utm_source=rss_feed",
+  "fetch_method": "feed_summary"
+}

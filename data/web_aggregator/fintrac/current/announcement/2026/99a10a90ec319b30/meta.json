@@ -1,0 +1,24 @@
+{
+  "doc_id": "99a10a90ec319b30",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Le cas",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/intel/case-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5c2de310804c8c0cab9900a7e2c9dc53da3b14e21f21cdef7dda8b1a42dc6453",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/99a10a90ec319b30",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

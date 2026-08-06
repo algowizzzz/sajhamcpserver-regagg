@@ -1,0 +1,1 @@
+Summary: The European Supervisory Authorities (ESAs) have written to the European Commission concerning the exclusion of a few options proposed by the ESAs on 23 May 2019 for presenting information on performance scenarios to be tested during a consumer testing exercise conducted by the E

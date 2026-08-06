@@ -1,0 +1,27 @@
+{
+  "doc_id": "712f7a2060afead9",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Materiality Criteria for Related Party Transactions \u2013 Letter (2001) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-letter-2001",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:76fb68d3777782d3d10d9ed1a9d2a5c32a05b404578442b1be558d51bb81dc6d",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/712f7a2060afead9",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-letter-2001",
+  "fetch_method": "html_to_md"
+}

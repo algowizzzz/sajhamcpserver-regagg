@@ -1,0 +1,1 @@
+Summary: # Prorogation d’une personne morale

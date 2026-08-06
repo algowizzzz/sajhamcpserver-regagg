@@ -1,0 +1,68 @@
+# Offres de CPG (GA et GB)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé des offres de CPG (GA-GB)
+
+Dernière révision
+
+Août 2019
+
+Numéro de relevé
+
+GA-GB
+
+## Relevés
+
+[GA-GB - Relevé (XLSX, 289,92 Ko)](/sites/default/files/import-media/data_and_forms/return/2023-07/fr/GAGB.xlsx "GAGB.xlsx") [GA - Règles de validation (XLSX, 281,62 Ko)](/sites/default/files/documents/ga-validation-fr.xlsx "ga-validation-fr.xlsx") [GA - Fichier XML (XML, 287,8 Ko)](/sites/default/files/import-media/data_and_forms/xml-file//fr/GA_xml.xml "GA_xml.xml") [GB - Règles de validation (XLSX, 277,82 Ko)](/sites/default/files/documents/gb-validation-fr.xlsx "gb-validation-fr.xlsx") [GB - Fichier XML (XML, 311,75 Ko)](/sites/default/files/import-media/data_and_forms/xml-file//fr/GB_xml.xml "GB_xml.xml") [Relevé des modifications](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-modifications-ga-gb "Relevé des modifications (GA-GB)")
+
+## OBJET
+
+Le présent relevé fournit chaque semaine des données sur les offres de CPG des institutions en date du vendredi précédent. Les institutions transmettent les données par échéances et par émetteurs pour les CPG encaissables, les CPG fixes à court terme et autres CPG à terme fixe, aux fins de suivi des variations des taux d'intérêt.
+
+## FONDEMENT LÉGISLATIF
+
+Article 24 de la Loi sur la Banque du Canada.
+
+## INSTITUTIONS VISÉES
+
+Les six plus grandes banques à charte sont tenues d'établir le relevé.
+
+## PUBLICATION DES RENSEIGNEMENTS
+
+Les renseignements figurant dans ce relevé peuvent être publiés par la Banque du Canada sous forme agrégée.
+
+## FRÉQUENCE
+
+Le relevé est établi toutes les semaines.
+
+## ÉCHÉANCE
+
+Le relevé est établi chaque vendredi et présenté le jour ouvrable suivant.
+
+## ORGANISME À CONTACTER
+
+La Banque du Canada
+
+## AUTRES INSTRUCTIONS
+
+Toutes les institutions déclarantes doivent soumettre les modèles GA et GB. Celles dont la société mère et le courtier établissent un rapport commun peuvent toutefois soumettre un modèle GB au contenu identique.
+
+Chaque institution déclarante recevra un modèle de relevé comportant des numéros de ligne au lieu des noms des émetteurs. La Banque du Canada indiquera aux institutions le numéro des émetteurs figurant dans leurs offres.
+
+Les institutions financières déclareront les taux d'intérêt, avec deux décimales, par échéances et par émetteurs. L'information à transmettre à la Banque du Canada est la même que celle qui était transmise sans format structuré (classeurs Excel, documents PDF, etc.) dans les années précédentes.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2020-10-09

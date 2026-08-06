@@ -1,0 +1,1 @@
+Summary: # July 8, 2022 – FINTRAC Advisory: Financial transactions related to countries identified by the Financial Action Task Force (FATF)

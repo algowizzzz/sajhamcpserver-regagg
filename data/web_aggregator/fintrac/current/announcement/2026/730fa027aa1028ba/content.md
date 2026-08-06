@@ -1,0 +1,416 @@
+# Guide sur l’évaluation du tort causé pour les violations relatives au programme de conformité
+
+## Sur cette page
+
+1. [Introduction](#s1)
+   * 1.1 [Objet du présent guide](#s1.1)
+   * 1.2 [Définition du tort](#s1.2)
+   * 1.3 [Calcul des PAP prenant en compte le tort causé](#s1.3)
+2. [Violations relatives aux exigences du programme de conformité](#s2)
+   * 2.1 [Cadre de considération du tort pour les violations relatives au programme de conformité](#s2.1)
+   * 2.2 [Niveaux de tort des violations relatives au programme de conformité et pénalités correspondantes](#s2.2)
+3. [Violation relative à la nomination d'un agent de conformité](#s3)
+   * 3.1 [Tort causé à l'égard de la violation relative à la nomination d'un agent de conformité](#s3.1)
+   * 3.2 [Détermination de la pénalité à l'égard de la violation relative à la nomination d'un agent de conformité](#s3.2)
+4. [Violations relatives aux politiques et aux procédures de conformité, dont celle concernant les mesures spéciales visées au règlement pour les risques élevés](#s4)
+   * 4.1 [Tort causé à l'égard des violations relatives aux politiques et aux procédures de conformité](#s4.1)
+   * 4.2 [Détermination de la pénalité à l'égard de la violation relative aux politiques et aux procédures de conformité](#s4.2)
+   * 4.3 [Détermination de la pénalité à l'égard de la violation relative aux politiques et aux procédures de conformité visant à prendre des mesures accrues pour atténuer les risques élevés](#s4.3)
+5. [Violation relative à l'évaluation des risques de BA et de FAT et à la conservation des documents à l'appui](#s5)
+   * 5.1 [Tort causé à l'égard de la violation relative à l'évaluation des risques de BA et de FAT et à la conservation des documents à l'appui](#s5.1)
+   * 5.2 [Détermination de la pénalité à l'égard de la violation relative à l'évaluation des risques de BA et de FAT et à la conservation des documents à l'appui](#s5.2)
+6. [Violation relative au programme de formation continue](#s6)
+   * 6.1 [Tort causé à l'égard de la violation relative au programme de formation continue](#s6.1)
+   * 6.2 [Détermination de la pénalité à l'égard de la violation relative au programme de formation continue](#s6.2)
+7. [Violations relatives à l'examen réglementaire](#s7)
+   * 7.1 [Tort causé à l'égard des violations relatives à l'examen réglementaire](#s7.1)
+   * 7.2 [Détermination de la pénalité à l'égard des violations relatives à l'examen réglementaire](#s7.2)
+   * 7.3 [Tort causé à l'égard de la violation relative à la déclaration de l'examen réglementaire](#s7.3)
+   * 7.4 [Détermination de la pénalité à l'égard de la violation relative à la déclaration de l'examen réglementaire](#s7.4)
+
+## 1. Introduction
+
+Cette page présente la façon dont nous évaluons le tort causé et calculons le montant de la pénalité de base appliquée aux violations relatives au programme de conformité.
+
+### 1.1 Objet du présent guide
+
+Le présent guide décrit la façon dont CANAFE aborde le critère du tort causé et le montant de la pénalité de base pour les violations en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et les règlements connexes. Au titre de l'article 73.11 de la Loi, CANAFE doit tenir compte du tort causé par une violation, du caractère non punitif des pénalités administratives pécuniaires (PAP), lesquelles visent plutôt à encourager la conformité, et de tout autre critère prévu par Règlement, y compris les antécédents de l'entité déclarante (ED) en matière de conformité au moment de déterminer le montant d'une pénalité. Les considérations quant à la nature non punitive d'une PAP et aux antécédents de l'ED en matière de conformité sont évaluées à une autre étape du calcul de la pénalité et sont énoncées séparément dans la [Politique sur les PAP](/pen/2-fra) de CANAFE.
+
+### 1.2 Définition du tort
+
+CANAFE définit le « tort causé » comme la mesure dans laquelle une violation nuit à l'atteinte des objectifs de la Loi[Note de bas de page 1](#fn1) ou à la capacité de CANAFE de s'acquitter de son mandat[Note de bas de page 2](#fn2). Ainsi, les conséquences de la non-conformité, lorsqu'une PAP est imposée, sont liées à ses effets sur les efforts déployés par le Canada pour lutter contre le blanchiment d'argent et le financement des activités terroristes (BA/FAT).
+
+Les activités d'application de la loi sont entreprises pour prévenir et corriger le tort causé par la non-conformité à la Loi et aux règlements connexes. Le respect des exigences par les ED, comme la tenue de documents et la vérification de l'identité des clients, contribue à la dissuasion du BA et du FAT et appuie les enquêtes et les poursuites criminelles. Les exigences liées à la déclaration permettent de garantir que CANAFE reçoit en temps opportun les déclarations d'opérations financières de grande qualité dont il a besoin pour produire les renseignements financiers qui appuient les enquêtes et les poursuites relatives aux infractions de BA et de FAT.
+
+### 1.3 Calcul des PAP prenant en compte le tort causé
+
+Lors de la détermination d'une pénalité, CANAFE prend en compte le tort causé, soit la mesure dans laquelle la non-conformité nuit à l'atteinte des objectifs de la Loi ou à la réalisation du mandat de CANAFE. La non-conformité et le tort sont mesurés à l'aide de normes décrites dans le présent guide qui énoncent les montants de référence pour les niveaux de tort correspondant à une violation donnée. CANAFE prend en compte les circonstances particulières de chaque cas, telles que l'étendue de la non-conformité et les facteurs atténuants, qui peuvent réduire davantage les montants réels appliqués.
+
+## 2. Violations relatives aux exigences du programme de conformité
+
+L'atteinte des objectifs de la Loi et la capacité de CANAFE de s'acquitter de son mandat dépendent de la réussite de la mise en œuvre par les ED d'un programme de conformité, qui lui permet d'identifier les clients, d'assurer le contrôle des relations d'affaires, de tenir des documents et de déclarer certaines opérations financières. Le programme de conformité en soi exige la nomination d'un agent de conformité, l'élaboration de politiques et de procédures, l'évaluation des risques de BA et de FAT, le maintien d'un programme de formation, et un examen de l'efficacité du programme tous les deux ans. Ces exigences garantissent que les ED ont une structure en place pour satisfaire aux exigences de la Loi et des règlements connexes, et elles établissent également un cadre qui facilite la détection, la prévention et la dissuasion d'infractions de BA et de FAT dans le cours normal des activités, ce qui répond aux objectifs de l'alinéa 3a) de la Loi.
+
+Le fait de ne pas établir et mettre en œuvre un programme de conformité peut entraîner une grave lacune dans les mesures de lutte contre le BA et le FAT, laissant les ED vulnérables aux infractions de BA et de FAT et empêchant en fin de compte l'atteinte des objectifs de l'alinéa 3a) de la Loi ou nuisant à la capacité de CANAFE de s'acquitter de son mandat prévu à l'article 40 de la Loi. Une violation relative aux exigences du programme de conformité peut indiquer des lacunes et des faiblesses qui font en sorte que d'autres exigences, comme la déclaration, la tenue de documents ou la vérification de l'identité des clients, ne sont pas respectées.
+
+Par conséquent, CANAFE évalue le tort potentiel qu'une violation relative au programme de conformité peut causer.
+
+Par exemple :
+
+Dans les situations où l'absence de politiques et de procédures relativement à la déclaration de la réception d'une somme en espèces de 10 000 $ ou plus entraîne également l'omission de transmettre des déclarations d'opérations importantes en espèces (DOIE), CANAFE peut établir deux violations distinctes. La pénalité totale serait composée de deux montants : le montant imposé pour les politiques et procédures incomplètes et le montant imposé pour le fait de ne pas transmettre des DOIE à CANAFE. Le montant de la pénalité pour des politiques et procédures incomplètes représente le tort potentiel, tandis que le fait réel de ne pas de transmettre des DOIE s'avère le tort concret.
+
+Pour obtenir des précisions sur la façon de calculer le montant de la pénalité pour d'autres exigences en matière de conformité, telles que la déclaration, la vérification de l'identité des clients et la tenue de documents, veuillez vous référer à la page des [Pénalités pour les cas de non-conformité](/pen/1-fra) qui présente tous les guides sur le tort causé par une violation.
+
+### 2.1 Cadre de considération du tort pour les violations relatives au programme de conformité
+
+CANAFE évalue le tort potentiel causé par une violation et tient compte de l'importance relative de l'exigence pour l'atteinte des objectifs de la Loi ou la réalisation de son mandat lorsqu'il évalue le tort causé par une violation relative au programme de conformité. CANAFE prend également en compte l'étendue de la non-conformité et les facteurs atténuants.
+
+Lorsqu'il évalue l'étendue de la non-conformité du programme de conformité, CANAFE tient compte de la mesure dans laquelle la documentation et l'application d'une exigence respectent la Loi et les règlements connexes. Une plus grande importance (poids) est accordée à l'application d'une exigence, car l'acte de mettre quelque chose en pratique est ce qu'il y a de plus efficace pour atteindre les objectifs de la Loi et réaliser le mandat de CANAFE. Par exemple, lorsque les politiques et les procédures de conformité, consignées de façon exhaustive, ne sont pas mises en pratique, il y a un risque important de non-conformité, ce qui empêche l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE.
+
+#### 2.1.1 Types de non-conformité pour les violations relatives au programme de conformité
+
+Il existe deux types de violations relatives au programme de conformité : la non-conformité complète ou généralisée et la non-conformité partielle.
+
+La non-conformité « complète » ou « généralisée » a lieu lorsqu'une exigence n'est pas respectée, car une ED n'a pas du tout mis en place les mesures visant à répondre à l'exigence ou lorsqu'elles sont mises en place de façon trop rudimentaire. La non-conformité « complète » ou « généralisée » est ce qui nuit le plus à l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE. Par exemple, une ED est en violation complète de l'exigence prévue à l'alinéa 71(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement) si aucune politique ou procédure n'est consignée ou mise en pratique. Cette situation cause le plus de tort parce qu'il n'y aurait aucune mesure en place pour satisfaire aux exigences prévues en vertu de la Loi et des règlements connexes.
+
+La non-conformité « partielle » a lieu lorsque seulement certaines parties ou certains éléments d'une exigence ne sont pas respectés. Par exemple, une ED qui a des politiques et des procédures incomplètes quant à la détection et à la déclaration d'opérations douteuses serait en violation partielle de l'exigence prévue à l'alinéa 71(1)b) du Règlement. Cette situation cause moins de tort que l'exemple précédent et représente divers niveaux de tort, selon le problème.
+
+Les montants des pénalités pour des violations complètes ou généralisées et des violations partielles sont calculés en fonction des niveaux de tort connexes, tels qu'ils sont décrits ci-dessous.
+
+### 2.2 Niveaux de tort des violations relatives au programme de conformité et pénalités correspondantes
+
+Les violations relatives au programme de conformité sont considérées comme « graves » en vertu du Règlement sur les pénalités administratives – recyclage des produits de la criminalité et financement des activités terroristes (Règlement sur les pénalités administratives), qui prévoit des pénalités allant de 1 $ à 100 000 $.
+
+Pour ces violations, CANAFE a identifié quatre niveaux de tort. Chaque niveau de tort entraîne une pénalité de 100 000 $, de 75 000 $, de 50 000 $ ou de 25 000 $.
+
+Le tableau ci-dessous présente les quatre niveaux de torts en ordre décroissant, les types de non-conformité et la description du tort ainsi que les pénalités correspondantes.
+
+Tableau 1 – Niveaux de tort des violations relatives au programme de conformité et pénalités correspondantes
+
+| Niveau de tort | Type de non-conformité | Description du tort | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | L'exigence n'est aucunement respectée ou ce qui est en place n'est pas fonctionnel, causant une non-conformité généralisée.  Il s'agit d'une non-conformité complète ou généralisée. | Empêche l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE, car une mesure de base liée au BA et au FAT est absente ou non fonctionnelle. | 100 000 $ |
+| Niveau 2 | Un élément qui est prioritaire pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant d'importantes faiblesses. | Empêche d'obtenir des résultats prioritaires l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE. | 75 000 $ |
+| Niveau 3 | Un élément qui constitue le fondement pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses modérées. | Empêche d'obtenir des résultats qui constituent le fondement pour l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE. | 50 000 $ |
+| Niveau 4 | Un élément qui permet l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE de manière efficace n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses d'importance moindre. | Diminue l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE de manière efficace. | 25 000 $ |
+
+Le niveau de tort le plus élevé (niveau 1) s'applique aux situations où la non-conformité est complète ou généralisée, parce qu'elles ont la plus grande incidence potentielle sur les objectifs de la Loi et le mandat de CANAFE. En conséquence, elles entraînent la pénalité maximale prévue, qui est de 100 000 $.
+
+Les niveaux de tort 2, 3 et 4 s'appliquent aux situations de non-conformité partielle et entraînent des montants de pénalité décroissant de 75 000 $ à 50 000 $ jusqu'à 25 000 $, respectivement.
+
+CANAFE prendra en compte les facteurs atténuants pertinents susceptibles de réduire le montant de la pénalité jusqu'au montant minimal prévu de 1 $, quel que soit le niveau de tort de la violation.
+
+Le reste du présent guide décrit la façon dont CANAFE applique les niveaux de tort aux violations relatives au programme de conformité.
+
+## 3. Violation relative à la nomination d'un agent de conformité
+
+Cette section décrit l'approche de CANAFE à l'égard du fait de ne pas nommer un agent de conformité, y compris l'évaluation du tort et le calcul de la pénalité.
+
+Tableau 2 – Violation relative à la nomination d'un agent de conformité
+
+| Disposition de la Loi | Disposition du Règlement | Description | Nature de la violation |
+| **9.6(1)** | 71(1)*a*) | Fait, pour toute personne ou entité visée, de ne pas nommer une personne chargée de la mise en œuvre d'un programme de conformité | Grave   De 1 $ à 100 000 $ |
+
+### 3.1 Tort causé à l'égard de la violation relative à la nomination d'un agent de conformité
+
+La nomination d'une personne chargée de la mise en œuvre d'un programme de conformité a pour but de faire en sorte qu'une ED assure la surveillance nécessaire pour satisfaire de façon efficace aux exigences de la Loi. La personne qui assume cette fonction, habituellement appelée un agent de conformité, est responsable de mettre en pratique les politiques et les procédures de conformité, l'évaluation des risques de BA et de FAT, le programme de formation continue axée sur la conformité et l'examen réglementaire du programme de conformité.
+
+Un programme de conformité efficace commence par la nomination d'un agent de conformité, mais le simple fait de nommer une personne à ce poste n'est pas suffisant pour atteindre les objectifs de la Loi. Pour qu'une ED réponde à l'exigence, elle doit s'assurer que l'agent de conformité possède les connaissances adéquates de la Loi et des règlements connexes, détient le pouvoir et dispose des ressources adéquates pour mettre en œuvre le programme de conformité.
+
+Le fait de ne pas nommer une personne chargée de la mise en œuvre du programme de conformité peut se traduire par le non-respect des exigences en matière de déclaration, de tenue de documents, de vérification de l'identité et de l'application d'autres mesures de conformité par l'ED. Cela pourrait entraîner des lacunes structurelles qui rendent l'ED vulnérable aux infractions de BA et de FAT, nuisant ainsi à l'atteinte des objectifs de la Loi et à la capacité de CANAFE de s'acquitter de son mandat, ce qui pourrait exposer le système financier du Canada et les Canadiens à des risques de BA et de FAT.
+
+Les lacunes relatives à d'autres exigences en matière de conformité, comme la déclaration, la tenue de documents et la vérification de l'identité, peuvent découler de la mise en œuvre déficiente d'un programme de conformité. CANAFE tiendra compte de l'efficacité globale du programme de conformité et du respect des autres exigences en matière de conformité lorsqu'il évalue la conformité d'une ED en ce qui concerne l'obligation de nommer un agent de conformité.
+
+### 3.2 Détermination de la pénalité à l'égard de la violation relative à la nomination d'un agent de conformité
+
+CANAFE déterminera le niveau de tort et la pénalité liés au fait de ne pas avoir nommé un agent de conformité en fonction des critères énumérés ci-dessous.
+
+Tableau 3 – Niveaux de tort de la violation relative à la nomination d'un agent de conformité et pénalités correspondantes
+
+| Niveau de tort | Type de non-conformité | Description de la non-conformité à l'exigence de nommer un agent de conformité | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | L'exigence n'est aucunement respectée ou ce qui est en place n'est pas fonctionnel, causant une non-conformité généralisée.  Il s'agit d'une non-conformité complète ou généralisée. | Personne ne s'acquitte des fonctions de mise en œuvre d'une partie quelconque du programme de conformité. Par conséquent, la non-conformité est généralisée et grave. | 100 000 $ |
+| Niveau 2 | Un élément qui est prioritaire pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant d'importantes faiblesses. | L'ED ne s'est pas assurée que la personne nommée exécute toutes les tâches nécessaires liées à :   1. la mise en œuvre des politiques et des procédures de conformité; 2. la mise en œuvre des politiques et des procédures liées à l'atténuation des risques élevés; 3. la mise en œuvre de l'approche axée sur les risques conformément à l'évaluation des risques; 4. la mise en œuvre du programme de formation continue; 5. la mise en œuvre de l'examen réglementaire du programme de conformité tous les deux ans; 6. la mise en œuvre des autres exigences applicable en vertu de la Loi et des règlements connexes. | 75 000 $ |
+| Niveau 3 | Un élément qui constitue le fondement pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses modérées. | L'ED n'a pas accordé à la personne nommée le pouvoir de mettre en œuvre le programme de conformité, y compris celui d'apporter les changements nécessaires.  L'ED n'a pas fourni à la personne nommée les ressources adéquates pour mettre en œuvre le programme de conformité. | 50 000 $ |
+| Niveau 4 | Un élément qui permet l'atteinte des objectifs de la Loi ou la réalisation le mandat de CANAFE de manière efficace n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses d'importance moindre. | L'ED ne s'est pas assurée que la personne nommée possède les connaissances adéquates de la Loi, des règlements connexes et de la manière dont les exigences s'appliquent à l'entreprise. | 25 000 $ |
+
+#### 3.2.1 Tort de niveau 1 : Fait de ne pas nommer une personne chargée de la mise en œuvre du programme de conformité
+
+Lorsqu'une ED omet d'attribuer les tâches liées à la mise en œuvre du programme de conformité à une personne, les objectifs de la Loi et du mandat de CANAFE subissent le niveau le plus élevé de tort, car il n'y aurait pas de surveillance pour assurer que, par exemple, les politiques et les procédures sont suivies ou que la formation continue est fournie. En raison du manque de surveillance, il existe un risque élevé que le programme de conformité existant devienne désuet ou inefficace. Il est probable qu'au fil du temps cette situation ait une incidence importante sur la conformité de l'ED à la Loi et aux règlements connexes et se traduise par le non-respect d'autres exigences, comme la déclaration, la tenue de documents et la vérification de l'identité des clients. En conséquence, la pénalité correspondante s'élève au maximum réglementaire de 100 000 $.
+
+#### 3.2.2 Tort de niveau 2 : Fait de ne pas s'assurer que la personne nommée exécute toutes les tâches nécessaires
+
+Le deuxième niveau de risque le plus élevé est attribué lorsqu'une ED nomme un agent de conformité ayant les pouvoirs et les ressources nécessaires, sans s'assurer que cette personne s'acquitte de toutes les tâches liées à la mise en œuvre du programme de conformité. En conséquence, la pénalité correspondante s'élève à 75 000 $.
+
+#### 3.2.3 Tort de niveau 3 : Fait de ne pas accorder à la personne nommée le pouvoir et les ressources
+
+Lorsque la personne nommée n'a pas le pouvoir et les ressources nécessaires pour exécuter les tâches et prendre les mesures nécessaires à la mise en œuvre et au maintien du programme de conformité, cette situation peut entraîner des inefficacités dans la détection et la correction de la non-conformité liée aux exigences de la Loi et des règlements connexes. En conséquence, la pénalité correspondante s'élève à 50 000 $.
+
+#### 3.2.4 Tort de niveau 4 : Fait de ne pas s'assurer que la personne nommée possède les connaissances adéquates
+
+Au minimum, l'ED doit s'assurer que l'agent de conformité possède des connaissances suffisantes de la Loi et des règlements connexes, des concepts et des risques de BA et de FAT, ainsi que de la manière dont elles s'appliquent à l'entreprise. L'agent de conformité doit avoir une bonne compréhension des risques les plus pertinents pour l'ED et de ceux auxquels l'industrie est fréquemment confrontée. Sans ces connaissances, les mesures adoptées peuvent ne pas être les plus efficaces ou efficientes pour répondre aux besoins en matière de conformité des ED, nuisant ainsi à la mise en œuvre du programme de conformité. En conséquence, la pénalité correspondante s'élève à 25 000 $.
+
+## 4. Violations relatives aux politiques et aux procédures de conformité, dont celle concernant les mesures spéciales visées au règlement pour les risques élevés
+
+Cette section décrit l'approche de CANAFE à l'égard du fait de ne pas avoir élaboré et appliqué des politiques et des procédures de conformité, y compris l'évaluation du tort et le calcul de la pénalité.
+
+Tableau 4 – Violations relatives aux politiques et aux procédures de conformité, dont celle concernant les mesures spéciales visées au règlement pour les risques élevés
+
+| Disposition de la Loi | Disposition du Règlement | Description | Nature de la violation |
+| **9.6(1)** | 71(1)*b*) | Fait, pour toute personne ou entité visée, de ne pas élaborer et appliquer des principes et des mesures de conformité écrits qui sont mis à jour et, dans le cas d'une entité, approuvés par l'un de ses dirigeants | Grave   De 1 $ à 100 000 $ |
+| **9.6(3)** | 71.1 | Fait, pour toute personne ou entité visée, de ne pas prendre les mesures spéciales visées | Grave   De 1 $ à 100 000 $ |
+
+### 4.1 Tort causé à l'égard des violations relatives aux politiques et aux procédures de conformité
+
+L'élaboration, la consignation et l'application de politiques et de procédures de conformité, y compris celles pour les mesures accrues visant à atténuer un risque élevé, font en sorte qu'un cadre complet et des contrôles robustes sont en place pour se conformer à la Loi et aux règlements connexes.
+
+Les politiques orientent les décisions et les mesures de l'ED en ce qui concerne les exigences en matière de lutte contre le BA et le FAT et font en sorte que toutes les activités ont lieu dans les limites établies. Les procédures sont des méthodes précises employées pour mettre en place les politiques dans le cadre des activités quotidiennes.
+
+Les politiques et les procédures sont essentielles parce qu'elles établissent les normes et les principes importants auxquels les employés et les personnes déléguées détenant des responsabilités liées à la conformité doivent satisfaire de façon constante. Les politiques et les procédures consignées servent également à assurer la clarté et l'uniformité dans les activités commerciales, par exemple, lorsqu'il y a des changements de personnel. Pour chaque exigence prévue par la Loi et les règlements connexes, les documents de politiques et de procédures doivent inclure une description du moment où l'exigence est déclenchée, les renseignements qui doivent être déclarés, consignés ou pris en compte, les procédures étape par étape visant à assurer que l'exigence est satisfaite et, s'il y a lieu, le délai associé à l'exigence.
+
+Le fait de ne pas élaborer, appliquer et tenir à jour les politiques et les procédures écrites risque d'entraîner le non-respect d'autres exigences en vertu de la Loi et des règlements connexes et de miner les pratiques commerciales saines conçues pour minimiser le BA et le FAT.
+
+### 4.2 Détermination de la pénalité à l'égard de la violation relative aux politiques et aux procédures de conformité
+
+CANAFE déterminera le niveau de tort et la pénalité pour ne pas avoir élaboré, consigné et appliqué les politiques et les procédures écrites de conformité en fonction des critères énumérés ci-dessous.
+
+Tableau 5 – Niveaux de tort de la violation relative aux politiques et aux procédures de conformité et pénalités correspondantes
+
+| Niveau de tort | Type de non-conformité | Description de la non-conformité à l'exigence relative aux politiques et aux procédures de conformité | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | L'exigence n'est aucunement respectée ou ce qui est en place n'est pas fonctionnel, causant une non-conformité généralisée.  Il s'agit d'une non-conformité complète ou généralisée. | Les politiques et les procédures ne sont pas élaborées ou appliquées pour la totalité ou la plupart des exigences. | 100 000 $ |
+| Niveau 2 | Un élément qui est prioritaire pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant d'importantes faiblesses. | Les politiques et les procédures ne sont pas élaborées ou appliquées pour les exigences prioritaires, dont les suivantes :   1. Le besoin de bien connaître son client:    1. Vérifier l'identité des clients    2. Déterminer s'il s'agit de personnes politiquement vulnérables et de dirigeants d'une organisation internationale, de membres de leur famille, et de personnes qui leur sont étroitement associées    3. Obtenir les renseignements sur les bénéficiaires effectifs.    4. La détermination quant aux tiers 2. La déclaration des opérations douteuses et des biens appartenant à un groupe terroriste 3. Le respect des directives ministérielles | 75 000 $ |
+| Niveau 3 | Un élément qui constitue le fondement pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses modérées. | Les politiques et les procédures ne sont pas élaborées ou appliquées pour les exigences de base, dont les suivantes :   1. Déclarer les opérations importantes en espèces, et s'il y a lieu, les télévirements, et les déboursements de casino 2. Le contrôle continu des relations d'affaires 3. Tenir les documents réglementaires, **sauf** les copies des déclarations d'opérations douteuses (DOD) transmises et les déclarations de déboursements de casino (DDC) 4. Effectuer l'évaluation réglementaire des risques et l'examen réglementaire bisannuel. | 50 000 $ |
+| Niveau 4 | Un élément qui permet l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE de manière efficace n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses d'importance moindre. | Les politiques et les procédures relatives aux exigences qui assurent l'efficience ne sont pas élaborées ou appliquées, y compris la conservation des copies des DOD et des DDC transmises. | 25 000 $ |
+
+#### 4.2.1 Tort de niveau 1 : Les politiques et les procédures ne sont pas élaborées ou appliquées
+
+Lorsque les politiques et les procédures n'ont pas été élaborées ou ne sont pas mises en application, le cadre fondamental et les contrôles nécessaires pour satisfaire aux exigences de la Loi et des règlements connexes sont absents. Cette situation crée un environnement dans lequel il peut y avoir de la non-conformité généralisée et des faiblesses systémiques quant à la détection, à la prévention et à la dissuasion du BA et du FAT, causant ainsi le plus de tort aux objectifs de la Loi et au mandat de CANAFE. En conséquence, la pénalité correspondante s'élève au maximum réglementaire de 100 000 $.
+
+#### 4.2.2 Tort de niveau 2 : Les politiques et les procédures ne sont pas élaborées ou appliquées pour les exigences prioritaires
+
+La déclaration des opérations douteuses et des biens appartenant à un groupe terroriste, la mise en œuvre des procédures relatives au besoin de bien connaître son client et le respect des directives du ministre sont des exigences prioritaires pour les efforts du Canada en matière de lutte contre le BA et le FAT, car elles sont essentielles à la détection, à la prévention et à la dissuasion d'infractions de BA et de FAT. Le fait de ne pas se conformer à ces exigences est évalué comme représentant un tort de niveau 2. Bien que d'autres mesures puissent être en place, le fait de ne pas satisfaire aux exigences prioritaires peut entraîner des niveaux élevés de tort aux objectifs de la Loi et à la capacité de CANAFE de s'acquitter de son mandat. En conséquence, la pénalité correspondante s'élève à 75 000 $.
+
+La détection et la déclaration d'opérations soupçonnées d'être liées au BA et au FAT sont donc essentielles pour permettre à CANAFE d'analyser et de communiquer des renseignements financiers à l'appui des enquêtes et des poursuites criminelles. Mettre en œuvre les procédures relatives au besoin de bien connaître son client, comme l'identification des clients et l'obtention des renseignements sur les personnes qui contrôlent le mouvement des fonds ou qui en bénéficient, dissuade les criminels d'utiliser le système financier du Canada pour le BA et le FAT. Elles sont également nécessaires pour identifier les clients, les relations d'affaires et les opérations à risque élevé aux fins de la déclaration à CANAFE. Lorsque des mesures appropriées sur l'identification des clients et l'obtention des renseignements sur les personnes qui détiennent ou contrôlent des entités ne sont pas prises par les ED, les objectifs de la Loi et le mandat de CANAFE en sont gravement touchés puisqu'il n'est pas possible pour l'ED d'atténuer les risques, pour CANAFE d'effectuer une analyse sur des sujets précis, et pour les organismes chargés de l'application de la loi d'enquêter sur des infractions de BA et de FAT commises par des personnes.
+
+Les directives ministérielles sont des mesures ciblées visant à protéger le système financier du Canada pour qu'il ne serve pas d'instrument au BA ou au FAT. Les politiques et les procédures de conformité qui ne satisfont pas aux mesures énoncées dans une directive ministérielle peuvent entraîner la non-conformité à des exigences prioritaires visant à détecter, à prévenir et à dissuader les menaces précises contre le système financier du Canada et la sécurité des Canadiens. Par conséquent, un tel défaut représente un tort très important à l'atteinte des objectifs énoncés à l'alinéa 3d) de la Loi.
+
+#### 4.2.3 Tort de niveau 3 : Les politiques et les procédures ne sont pas élaborées ou appliquées pour les exigences de base
+
+Les exigences qui constituent le fondement de la détection, de la prévention et de la dissuasion du BA et du FAT sont la déclaration des opérations importantes en espèces, des télévirements et des déboursements de casino (au besoin); le contrôle continu des relations d'affaires, la tenue de documents, l'évaluation des risques et l'examen de l'efficacité du programme de conformité. Les exigences en matière de tenue de documents sont en place afin de veiller à ce que les renseignements nécessaires pour satisfaire aux autres exigences de la Loi et des règlements connexes soient conservés. En fin de compte, les renseignements peuvent servir de preuve à l'appui des enquêtes et des poursuites relatives aux infractions de BA et de FAT.
+
+Les mesures prises pour mettre en œuvre ces exigences sont fondamentales parce qu'elles soutiennent le régime canadien de lutte contre le BA et le FAT en cernant et en atténuant les risques liés aux opérations susceptibles de servir au BA et au FAT et en aidant à détecter et à dissuader les personnes qui chercheraient à abuser du système financier aux fins de BA et de FAT. La non-conformité à ces exigences est évaluée comme représentant un tort de niveau 3, car elle représente un tort modéré aux objectifs de la Loi et au mandat de CANAFE. La pénalité correspondante s'élève donc à 50 000 $.
+
+#### 4.2.4 Tort de niveau 4 : Les politiques et les procédures relatives aux exigences qui assurent l'efficience ne sont pas élaborées ou appliquées
+
+L'efficacité de la lutte contre le BA et le FAT réside dans ces éléments qui aident à atteindre les objectifs de la Loi et à réaliser le mandat de CANAFE et qui appuient le régime de lutte contre le BA et le FAT en maximisant son rendement. La non-conformité à ces éléments représente un tort de niveau 4 parce qu'elle diminue l'efficacité du régime canadien de lutte contre le BA et le FAT, mais n'a aucune incidence sur les éléments prioritaires ou de base. La pénalité correspondante s'élève donc à 25 000 $.
+
+La tenue de documents complets et adéquats, y compris les copies des DOD et des DDC (au besoin), fait en sorte que les ED, les organismes chargés de l'application de la loi et CANAFE ont un accès rapide et facile aux déclarations des opérations ou des activités financières. Les renseignements saisis dans les DOD et les DDC sont également exigés dans d'autres documents en vertu de la Loi. Étant donné que les renseignements contenus dans ces copies sont probablement conservés ailleurs, le fait de ne pas conserver ces documents cause moins de tort à l'atteinte de l'objectif de la Loi et à la réalisation du mandat de CANAFE.
+
+### 4.3 Détermination de la pénalité à l'égard de la violation relative aux politiques et aux procédures de conformité visant à prendre des mesures accrues pour atténuer les risques élevés
+
+CANAFE déterminera le niveau de tort et la pénalité de ne pas avoir élaboré, consigné et appliqué des politiques et des procédures de conformité visant à prendre des mesures accrues pour atténuer les risques élevés en fonction des critères énumérés ci-dessous.
+
+Tableau 6 – Niveaux de tort de la violation relative aux politiques et aux procédures de conformité visant à prendre des mesures accrues pour atténuer les risques élevés et pénalités correspondantes
+
+| Niveau de tort | Type de non-conformité | Description de la non-conformité aux politiques et aux procédures sur la prise de mesures accrues visant à atténuer des risques élevés | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | L'exigence n'est aucunement respectée ou ce qui est en place n'est pas fonctionnel, causant une non-conformité généralisée.  Il s'agit d'une non-conformité complète. | Les politiques et les procédures visant à prendre des mesures accrues pour atténuer les risques élevés ne sont pas élaborées ou appliquées pour la totalité ou la plupart des éléments réglementaires. | 100 000 $ |
+| Niveau 2 | Un élément qui est prioritaire pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant d'importantes faiblesses. | Les politiques et les procédures pour les exigences prioritaires des mesures accrues ne sont pas élaborées ou appliquées, dont les suivantes :   1. Vérifier l'identité des clients. 2. Tenir à jour les renseignements sur l'identité des clients et les bénéficiaires effectifs. 3. Assurer le contrôle continu des relations d'affaires afin de déceler les opérations douteuses. | 75 000 $ |
+| Niveau 3 | Un élément qui constitue le fondement pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses modérées. | Les politiques et les procédures pour les exigences de base des mesures accrues ne sont pas élaborées ou appliquées, ce qui comprend toutes autres mesures nécessaires pour atténuer les risques élevés. | 50 000 $ |
+
+Remarque : Le tort de niveau 4 ne s'applique pas dans le cas de cette violation, car les mesures visant à traiter les situations à risque élevé ne jouent pas de rôle de soutien; ils sont des éléments prioritaires ou de base pour l'atténuation des risques de BA et de FAT.
+
+#### 4.3.1 Tort de niveau 1 : Les politiques et les procédures visant à prendre des mesures accrues pour atténuer les risques élevés ne sont pas élaborées ou appliquées pour la totalité ou la plupart des éléments réglementaires
+
+L'élaboration et l'application de politiques et de procédures visant à prendre des mesures accrues pour atténuer les risques élevés sont essentielles au régime de lutte contre le BA et le FAT pour la détection, la prévention et la dissuasion d'infractions à cet égard. Ces mesures accrues visent à répondre aux risques que représentent ces éléments qui ont été expressément cernés comme les plus vulnérables au BA et au FAT. Lorsque des politiques et des procédures visant à prendre des mesures accrues pour atténuer les risques élevés n'ont pas été élaborées pour la totalité ou la plupart des exigences réglementaires, les contrôles et le cadre nécessaires pour atténuer les risques élevés sont absents. Il est très probable que les situations comportant le plus de risque ne soient pas atténuées et cernées aux fins de déclaration à CANAFE, laissant l'ED et le système financier canadien vulnérables aux infractions de BA et de FAT, ce qui représente le tort le plus élevé et entraîne une pénalité de 100 000 $.
+
+#### 4.3.2 Tort de niveau 2 : Les politiques et les procédures relatives aux mesures accrues prioritaires ne sont pas élaborées ou appliquées
+
+Les mesures accrues visant à identifier les personnes et les entités qui contrôlent les mouvements de fonds et qui en bénéficient, à tenir leurs renseignements à jour et à assurer un contrôle continu afin de déceler les opérations douteuses sont des mesures prioritaires pour l'atténuation des risques de BA et de FAT, car elles aident à rendre disponibles les renseignements les plus récents dans les situations à risque élevé. Les politiques et les procédures qui ne répondent pas à ces éléments sont incomplètes et peuvent se traduire par une atténuation inadéquate des risques et une incidence importante sur la détection et l'atténuation des risques élevés, y compris la déclaration des opérations à risque élevé. Il s'agit d'une faiblesse importante dans un programme de conformité d'une ED, ce qui pourrait avoir une incidence importante sur les objectifs de la Loi et le mandat de CANAFE et qui, par conséquent, représente un tort de niveau 2 et entraîne une pénalité de 75 000 $.
+
+#### 4.3.3 Tort de niveau 3 : Les politiques et les procédures relatives à d'autres mesures accrues nécessaires pour atténuer les risques élevés ne sont pas élaborées ou appliquées
+
+En plus des mesures accrues précises visées par règlement pour l'atténuation des risques élevés, d'autres mesures d'atténuation peuvent également être nécessaires pour réduire les vulnérabilités au BA et au FAT. Les politiques et les procédures qui ne prennent pas en compte d'autres mesures propres à l'évaluation des risques effectuée par l'ED peuvent se traduire par des stratégies inefficaces ou incomplètes pour réduire les vulnérabilités au BA et au FAT. Selon la nature du risque et de la taille et de la complexité des ED, ce type de non-conformité pourrait avoir une incidence importante sur les objectifs de la Loi et le mandat de CANAFE. Ce type de non-conformité représente un tort de niveau 3 et entraîne une pénalité de 50 000 $.
+
+## 5. Violation relative à l'évaluation des risques de BA et de FAT et à la conservation des documents à l'appui
+
+Cette section décrit l'approche de CANAFE à l'égard du fait de ne pas avoir évalué les risques de BA et de FAT et de ne pas avoir conservé les documents à l'appui, y compris l'évaluation du tort et le calcul de la pénalité.
+
+Tableau 7 – Violation relative à l'évaluation des risques de BA et de FAT et à la conservation des documents à l'appui
+
+| Disposition de la Loi | Disposition du Règlement | Description | Nature de la violation |
+| **9.6(1)** | 71(1)*c*) | Fait, pour toute personne ou entité visée, de ne pas évaluer les risques visés au paragraphe 9.6(2) de la Loi et de ne pas conserver les documents à l'appui en tenant compte des critères réglementaires | Grave   De 1 $ à 100 000 $ |
+
+### 5.1 Tort causé à l'égard de la violation relative à l'évaluation des risques de BA et de FAT et à la conservation des documents à l'appui
+
+L'évaluation des risques de BA et de FAT et la conservation des documents à l'appui font en sorte que les ED connaissent leur exposition et vulnérabilité potentielles au BA et au FAT. En cernant les domaines et les niveaux de risque, les ED peuvent appliquer les mesures d'atténuation appropriées pour réduire ces risques. Les ED peuvent concentrer davantage leur attention sur des domaines à risque plus élevé, contribuant ainsi efficacement aux objectifs de la Loi ou à la capacité de CANAFE de s'acquitter de son mandat.
+
+Le défaut d'évaluer les risques de BA et de FAT et de conserver les documents à l'appui empêche les ED de déterminer les secteurs de ses activités qui sont vulnérables à l'exploitation aux fins de BA et de FAT, et empêche la mise en place de mesures d'atténuation appropriées. Cette situation peut également mener à l'incapacité d'identifier les clients et les relations d'affaires à risque élevé pour lesquels des mesures accrues d'atténuation des risques doivent être appliquées, ce qui peut également entraîner le fait de ne pas déceler et déclarer les opérations douteuses à CANAFE.
+
+### 5.2 Détermination de la pénalité à l'égard de la violation relative à l'évaluation des risques de BA et de FAT et à la conservation des documents à l'appui
+
+CANAFE déterminera le niveau de tort et la pénalité de ne pas avoir évalué les risques d'infractions de BA et de FAT et de ne pas avoir conservé les documents à l'appui en fonction des critères énumérés ci-dessous.
+
+Tableau 8 – Niveaux de tort de la violation relative à l'évaluation des risques de BA et de FAT et à la conservation des documents à l'appui et pénalités correspondantes
+
+| Niveau de tort | Type de non-conformité | Description de la non-conformité à l'exigence relative à l'évaluation des risques | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | L'exigence n'est aucunement respectée ou ce qui est en place n'est pas fonctionnel, causant une non-conformité généralisée.  Il s'agit d'une non-conformité complète ou généralisée. | Une évaluation des risques de BA et de FAT n'a pas été effectuée ou les documents à l'appui n'ont pas été conservés pour la totalité ou la plupart des critères réglementaires. | 100 000 $ |
+| Niveau 2 | Un élément qui est prioritaire pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant d'importantes faiblesses. | L'évaluation des risques ne comprend pas les éléments prioritaires, y compris ceux pour les situations à risque élevé, dont les suivants :   1. étrangers politiquement vulnérables, les membres de leur famille, et les personnes qui leur sont étroitement associées; 2. entités pour lesquelles les renseignements sur les bénéficiaires effectifs ne peuvent pas être obtenus ou confirmés; 3. clients qui sont mentionnés dans une déclaration de biens appartenant à un groupe terroriste transmise; 4. produits, services, modes de prestation, emplacements géographiques ou types de personnes ou d'entités qui sont considérées comme présentant un risque élevé selon une directive ministérielle, par CANAFE ou en fonction des critères établis par l'ED. | 75 000 $ |
+| Niveau 3 | Un élément qui constitue le fondement pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses modérées. | L'évaluation des risques ne comprend pas les éléments de base, dont les suivants :   1. produits, services et modes de prestation offerts; 2. clients et relations d'affaires; 3. emplacements géographiques (y compris les activités étrangères et nationales, clients et relations d'affaires); 4. nouvelles technologies. | 50 000 $ |
+| Niveau 4 | Un élément qui permet l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE de manière efficace n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses d'importance moindre. | L'évaluation des risques ne comprend pas d'autres critères pertinents susceptibles d'influer sur les risques de BA et de FAT. | 25 000 $ |
+
+#### 5.2.1 Tort de niveau 1 : Une évaluation des risques de BA et de FAT n'a pas été effectuée ou les documents à l'appui n'ont pas été conservés pour la totalité ou la plupart des critères réglementaires
+
+Lorsqu'une évaluation des risques liés au BA et au FAT n'a pas été effectuée ou les documents à l'appui n'ont pas été conservés, ou que l'évaluation ne porte pas sur aucune des exigences réglementaires, il s'agit d'une non-conformité complète ou généralisée aux règlements. Le fait de ne pas évaluer et cerner les risques de BA et de FAT empêche les ED de mettre en place des mesures d'atténuation, entraînant des vulnérabilités pouvant être exploitées à des fins de BA et de FAT, particulièrement dans les domaines qui représentent le plus de risque. Cette situation est évaluée comme représentant le niveau de tort le plus élevé, car elle a l'incidence la plus importante sur l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE et entraîne une pénalité de 100 000 $.
+
+#### 5.2.2 Tort de niveau 2 : L'évaluation des risques ne comprend pas les éléments prioritaires, y compris ceux pour les situations à risque élevé
+
+Les règlements, les directives ministérielles, CANAFE et d'autres autorités du régime de lutte contre le BA et le FAT ont cerné des situations qui présentent de façon inhérente un risque élevé de BA et de FAT, qui sont essentielles à l'évaluation réglementaire. Il est critique que les ED les prennent en compte et les évaluent s'il y a lieu. Le fait de ne pas tenir compte des situations à risque élevé peut entraîner d'importantes faiblesses dans le programme de conformité, comme de piètres mesures d'atténuation et des situations à risque élevé qui pourraient ne pas être décelées et déclarées à CANAFE à la suite d'un soupçon d'infractions de BA et de FAT. La non-conformité avec cette exigence représente un tort de niveau 2 et entraîne une pénalité de 75 000 $.
+
+#### 5.2.3 Tort de niveau 3 : L'évaluation des risques ne comprend pas les éléments de base
+
+Les évaluations des risques de BA et de FAT permettent aux ED de comprendre les vulnérabilités auxquelles elles sont exposées. Des évaluations complètes des risques doivent inclure les éléments réglementaires en tant que fondement pour appuyer l'atténuation des risques. Une évaluation des risques qui ne comprend pas un ou plusieurs éléments réglementaires peut mener à des faiblesses dans la détermination et l'atténuation des risques courants, laissant l'ED vulnérable aux infractions de BA et de FAT et incapable de déceler efficacement les opérations qui doivent être déclarées. La non-conformité avec cette exigence représente un tort de niveau 3 et entraîne une pénalité de 50 000 $.
+
+#### 5.2.4 Tort de niveau 4 : L'évaluation des risques ne comprend pas d'autres critères pertinents susceptibles d'influer sur les risques de BA et de FAT
+
+L'évaluation d'autres critères pertinents permet aux ED de comprendre les risques de BA et de FAT applicables à leurs activités et contribue à l'efficacité de l'évaluation des risques et aux stratégies d'atténuation. La non-conformité avec cette exigence représente un tort de niveau 4 et entraîne une pénalité de 25 000 $.
+
+## 6. Violation relative au programme de formation continue
+
+Cette section décrit l'approche de CANAFE à l'égard du fait de ne pas avoir élaboré et maintenu un programme écrit de formation continue, y compris l'évaluation du tort et le calcul de la pénalité.
+
+Tableau 9 – Violation relative au programme de formation continue
+
+| Disposition de la Loi | Disposition du Règlement | Description | Nature de la violation |
+| **9.6(1)** | 71(1)*d*) | Fait, pour toute personne ou entité visée, de ne pas, si elle a des employés, des mandataires ou d'autres personnes habilitées à agir en son nom, élaborer et mettre à jour à leur intention un programme écrit de formation continue axée sur la conformité | Grave   De 1 $ à 100 000 $ |
+
+### 6.1 Tort causé à l'égard de la violation relative au programme de formation continue
+
+Un programme écrit de formation continue a pour but de veiller à ce que tous les employés, les mandataires et les autres personnes habilitées à agir au nom d'une ED comprennent les exigences de la Loi et des règlements connexes et suivent les politiques et procédures qui ont été établies aux fins de conformité. De plus, il veille à ce que les employés, les mandataires et les autres personnes habilitées à agir au nom d'une ED comprennent suffisamment les questions liées au BA et au FAT pour être en mesure de relever les faits susceptibles d'indiquer les opérations ou les activités financières liées aux infractions de BA et de FAT.
+
+Le fait de ne pas élaborer et maintenir un programme écrit de formation continue peut faire en sorte que les fins susmentionnées ne soient pas respectées au fil du temps et, par conséquent, qu'une ED ne se conforme pas aux exigences de la Loi et des règlements connexes. Cette non-conformité pourrait nuire en fin de compte aux objectifs de la Loi et à la capacité de CANAFE de s'acquitter de son mandat.
+
+### 6.2 Détermination de la pénalité à l'égard de la violation relative au programme de formation continue
+
+CANAFE déterminera le niveau de tort et la pénalité de ne pas avoir élaboré et maintenu un programme écrit de formation continue en fonction des critères énumérés ci-dessous.
+
+Tableau 10 – Niveaux de tort de la violation relative au programme de formation continue et pénalités correspondantes
+
+| Niveau de tort | Type de non-conformité | Description de la non-conformité à l'exigence relative au programme de formation | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | L'exigence n'est aucunement respectée ou ce qui est en place n'est pas fonctionnel, causant une non-conformité généralisée.  Il s'agit d'une non-conformité complète ou généralisée. | Un programme écrit de formation n'est pas élaboré ou maintenu pour couvrir la totalité ou la plupart des éléments permettant de respecter la Loi et les règlements connexes. | 100 000 $ |
+| Niveau 2 | Un élément qui est prioritaire pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant d'importantes faiblesses. | Des éléments prioritaires du programme de formation sont manquants, tels que le maintien de la formation sur les sujets suivants :   1. les politiques et procédures de conformité établies; 2. les responsabilités des employés, des mandataires et des personnes habilitées à agir au nom de l'ED lorsqu'ils traitent des opérations douteuses; 3. les concepts clés du BA et du FAT, y compris les renseignements généraux sur la façon dont le BA et le FAT se rapportent à l'entreprise. | 75 000 $ |
+| Niveau 3 | Un élément qui constitue le fondement pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses modérées. | Des éléments de base du programme de formation sont manquants, tels que le maintien de la formation sur les sujets suivants :   1. la fréquence de la formation ou le moment où elle est donnée; 2. le contenu qui est pertinent et propre à tous les employés, les mandataires et les personnes habilitées à agir au nom de l'ED. | 50 000 $ |
+| Niveau 4 | Un élément qui permet l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE de manière efficace n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses d'importance moindre. | Le programme de formation n'est pas maintenu régulièrement. | 25 000 $ |
+
+#### 6.2.1 Tort de niveau 1 : Un programme écrit de formation n'est pas élaboré ou maintenu
+
+Lorsqu'un programme de formation n'est pas élaboré ou maintenu, ou l'est seulement à un degré minime, le cadre fondamental et les contrôles nécessaires pour se conformer aux exigences de la Loi et des règlements connexes sont absents. Cette situation peut créer une non-conformité généralisée et des faiblesses systémiques dans la détection, la prévention et la dissuasion du BA et du FAT, causant ainsi un tort maximal à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE. Par conséquent, la pénalité s'élève à 100 000 $, soit le montant maximum réglementaire.
+
+#### 6.2.2 Tort de niveau 2 : Des éléments prioritaires du programme de formation sont manquants
+
+Les éléments prioritaires du programme de formation comprennent les politiques et les procédures établies pour se conformer à toutes les exigences de la Loi et des règlements connexes, les responsabilités des employés, des mandataires et des personnes habilitées à agir au nom de l'ED lorsqu'ils traitent des opérations douteuses, ainsi que les concepts clés de BA et de FAT, y compris les renseignements généraux sur la façon dont ils se rapportent à l'entreprise. La non-conformité à ces éléments est évaluée comme un tort de niveau 2, car le manque de formation sur ces éléments pourrait entraîner des lacunes en matière de conformité à d'autres exigences, telles que la déclaration, la tenue de documents et la vérification de l'identité des clients. En conséquence, la pénalité s'élève à 75 000 $.
+
+#### 6.2.3 Tort de niveau 3 : Des éléments de base du programme de formation sont manquants
+
+Un plan qui porte sur le moment et la fréquence de l'exécution du programme de formation, qui identifie qui recevra la formation et qui comprend un contenu pertinent et propre aux différents rôles de l'organisation constitue le fondement de l'exécution du programme de formation. Non seulement il aide à respecter l'exigence de maintenir un programme de formation continue, mais il énonce clairement les employés, les mandataires et les personnes habilitées à agir au nom d'une ED qui doivent recevoir une formation pertinente pour répondre efficacement à toutes les exigences. La probabilité de l'exposition aux infractions de BA et de FAT et aux risques connexes varie selon les employés, en fonction de leurs rôles. Par exemple, une formation adaptée pour les employés qui détectent les opérations devant être déclarées, qui vérifient l'identité des clients, qui tiennent des documents et qui prennent des mesures de diligence raisonnable auprès d'autres clients aura une incidence accrue sur la conformité. La non-conformité avec ces exigences représente un tort de niveau 3, ce qui entraîne une pénalité de 50 000 $.
+
+#### 6.2.4 Tort de niveau 4 : Le programme de formation n'est pas maintenu régulièrement
+
+L'efficacité de la lutte contre le BA et le FAT réside dans les éléments qui aident à atteindre les objectifs de la Loi et à réaliser le mandat de CANAFE et qui appuient le régime de lutte contre le BA et le FAT en maximisant son rendement. Les directives dictent la fréquence de la formation pour veiller à ce que le personnel reçoive les renseignements et la formation sur les nouvelles exigences en matière de conformité et ait un rappel des exigences existantes. Le fait de ne pas établir des directives claires pour la formation continue axée sur la conformité peut se traduire par des faiblesses au programme au fil du temps, par exemple, en raison de modifications réglementaires ou de changements au personnel ou à la structure organisationnelle. En raison de cette situation, l'ED ne respectera peut-être pas ses exigences en matière de déclaration, d'identification des clients et de tenue des documents. La non-conformité avec cette exigence est évaluée comme représentant un tort de niveau 4 et entraîne une pénalité de 25 000 $.
+
+## 7. Violations relatives à l'examen réglementaire
+
+Cette section décrit l'approche de CANAFE à l'égard du fait de ne pas avoir établi le mécanisme d'examen réglementaire et conservé les documents à l'appui, y compris l'évaluation du tort et le calcul de la pénalité.
+
+Tableau 11 – Violations relatives à l'examen réglementaire
+
+| Disposition de la Loi | Disposition du Règlement | Description | Nature de la violation |
+| **9.6(1)** | 71(1)*e*) | Fait, pour toute personne ou entité visée, de ne pas établir le mécanisme d'examen réglementaire et de ne pas conserver les documents à l'appui | Grave   De 1 $ à 100 000 $ |
+| **9.6(1)** | 71(2) | Fait, pour toute personne ou entité visée, de ne pas faire rapport par écrit des éléments spécifiés à un de ses dirigeants dans les trente jours suivant l'évaluation | Grave   De 1 $ à 100 000 $ |
+
+### 7.1 Tort causé à l'égard des violations relatives à l'examen réglementaire
+
+Les changements apportés à la structure, au personnel, aux politiques, aux processus et à l'environnement d'une organisation peuvent au fil du temps, sinon immédiatement, nécessiter des révisions au programme de conformité en place. L'objectif de l'examen réglementaire est de veiller à ce que le programme de conformité de l'ED soit continuellement adapté pour continuer de satisfaire aux exigences de la Loi et des règlements connexes. L'examen réglementaire des politiques et des procédures de conformité et celui du programme de formation continue permettent de vérifier la déclaration, la vérification de l'identité des clients, la tenue de documents et l'application des mesures d'atténuation appropriées. L'examen réglementaire de l'évaluation des risques fait en sorte que l'ED évalue, cerne et atténue adéquatement les risques de BA et de FAT au fil du temps.
+
+Le fait de ne pas effectuer l'examen réglementaire indique que l'ED ne satisfait peut-être pas à une ou à plusieurs de ses autres exigences prévues par la Loi et les règlements connexes, parce qu'elle n'a pas tenu compte des changements dans l'organisation ou des changements externes, tels que les nouvelles technologies dans le secteur financier et les mises à jour réglementaires. De plus, toute lacune ou tout processus inefficace dans le programme de conformité existant risque de ne pas être détecté, ce qui mène à une non-conformité non corrigée. Par exemple, l'évaluation existante des risques de l'ED peut ne pas cerner les éléments les plus vulnérables, ce qui complique la prise de mesures d'atténuation appropriées, afin de réduire les risques de BA et de FAT et de contribuer à la sécurité du système financier du Canada et des Canadiens. Ultimement, une non-conformité et les inefficacités non détectées pourraient nuire à l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE.
+
+### 7.2 Détermination de la pénalité à l'égard des violations relatives à l'examen réglementaire
+
+CANAFE déterminera le niveau de tort et la pénalité de ne pas avoir établi le mécanisme d'examen réglementaire et conservé les documents à l'appui en fonction des critères énumérés ci-dessous.
+
+Tableau 12 – Niveaux de tort des violations relatives à l'examen réglementaire et pénalités correspondantes
+
+| Niveau de tort | Type de non-conformité | Description de la non-conformité à l'exigence relative à l'examen réglementaire | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | L'exigence n'est aucunement respectée ou ce qui est en place n'est pas fonctionnel, causant une non-conformité généralisée.  Il s'agit d'une non-conformité complète ou généralisée. | L'ED n'a pas effectué, en totalité ou en grande partie, l'examen réglementaire. | 100 000 $ |
+| Niveau 2 | Un élément qui est prioritaire pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant d'importantes faiblesses. | L'examen ne comprend pas une évaluation de l'efficacité.  La portée de l'examen ne couvre pas les politiques et les procédures de conformité, l'évaluation des risques et le programme de formation. | 75 000 $ |
+| Niveau 3 | Un élément qui constitue le fondement pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses modérées. | L'examen n'évalue pas les documents du programme de conformité, tels que les politiques et les procédures, pour veiller à ce qu'ils soient complets et à jour. | 50 000 $ |
+| Niveau 4 | Un élément qui permet l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE de manière efficace n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses d'importance moindre. | L'examen est effectué moins souvent que la période réglementaire de deux ans.  Les méthodes d'examen ne sont pas clairement consignées et ne démontrent pas la façon dont l'efficacité du programme de conformité est évaluée.  Un vérificateur interne ou externe n'a pas effectué l'examen, au besoin. | 25 000 $ |
+
+#### 7.2.1 Tort de niveau 1 : L'ED n'a pas effectué, en totalité ou en grande partie, l'examen réglementaire
+
+Lorsqu'une ED n'effectue pas l'examen réglementaire ou que l'examen est absolument minime, cette situation représente le tort le plus important aux objectifs de la Loi et du mandat de CANAFE. Il est très possible que les politiques, les procédures, la formation et les évaluations des risques soient désuètes, inadéquates ou inefficaces et, par conséquent, la non-conformité aux exigences relatives à la déclaration, à la tenue de documents et à l'identification des clients est également plus probable. Il s'agit d'un tort de niveau 1, qui entraîne une pénalité de 100 000 $, étant donné que l'exigence n'a pas été remplie ou l'a été d'une manière trop minime pour qu'elle soit considérée comme étant remplie.
+
+#### 7.2.2 Tort de niveau 2 : L'examen ne comprend pas une évaluation de l'efficacité, et la portée de l'examen ne couvre pas les politiques et les procédures de conformité, l'évaluation des risques et le programme de formation
+
+L'évaluation de l'efficacité et l'examen exhaustif sont essentiels pour répondre à l'exigence. Après le fait de ne pas établir l'examen réglementaire, le deuxième niveau de tort le plus élevé découle des examens qui ne comprennent pas l'évaluation de l'efficacité du programme de conformité et des examens qui ne couvrent pas les principaux éléments des politiques et procédures de conformité, de l'évaluation des risques et du programme de formation. Ce type de non-conformité représente un tort de niveau 2 et entraîne une pénalité de 75 000 $.
+
+Un examen qui ne comprend pas une évaluation de l'efficacité ne tient pas compte de la façon dont le programme de conformité est appliqué dans la pratique. Il ne s'agit essentiellement que d'un examen théorique de la documentation qui a été élaboré. Même si la documentation était en règle, il est toujours possible que les politiques et les procédures ne soient pas mises en pratique, ce qui représente un risque élevé d'erreurs et de lacunes dans le programme de conformité qui ne sont pas décelées.
+
+De plus, lorsque l'examen est incomplet, c'est-à-dire que des éléments clés ne sont pas pris en compte dans l'évaluation, d'importantes lacunes et faiblesses dans le programme de conformité peuvent passer inaperçues. Par exemple, si le programme de formation n'a pas été évalué pendant l'examen, il se peut que le personnel n'ait pas reçu la formation nécessaire pour s'acquitter de ses tâches. En retour, cette situation pourrait entraîner la non-conformité aux exigences de la Loi et des règlements connexes, malgré l'existence de politiques et de procédures, et d'évaluations des risques.
+
+#### 7.2.3 Tort de niveau 3 : L'examen n'évalue pas les documents du programme de conformité pour veiller à ce qu'ils soient complets et à jour
+
+Les documents à l'appui du programme de conformité sont le fondement à partir duquel la conformité est réalisée. À cette fin, l'examen réglementaire devrait au moins évaluer les politiques et les procédures consignées, le programme de formation et l'évaluation des risques afin de s'assurer que les normes établies par l'ED sont claires, complètes et à jour, conformément aux exigences de la Loi et des règlements connexes. Un examen qui n'évalue pas l'exhaustivité et l'exactitude des documents à l'appui du programme de conformité pourrait mener à des processus qui ne sont pas clairement compris ou qui sont appliqués de façon non uniforme. Ce type de non-conformité représente un tort de niveau 3 et entraîne une pénalité de 50 000 $.
+
+#### 7.2.4 Tort de niveau 4 : L'examen est effectué moins souvent que la fréquence réglementaire de deux ans, les méthodes d'examen ne sont pas clairement consignées et ne démontrent pas la façon dont l'efficacité du programme de conformité est évaluée et, au besoin, un vérificateur interne ou externe n'a pas effectué l'examen
+
+L'efficacité de la lutte contre le BA et le FAT réside dans les éléments qui aident à atteindre les objectifs de la Loi et à réaliser mandat de CANAFE et qui appuient le régime de lutte contre le BA et le FAT en maximisant son rendement. Le fait de ne pas respecter ces éléments représente un tort de niveau 4, ce qui entraîne une pénalité de 25 000 $.
+
+L'examen prévu par règlement doit être effectué tous les deux ans afin de relever et de corriger les lacunes du programme de conformité en temps opportun. Sinon, des lacunes non décelées demeureront non corrigées pour une période non déterminée. Si la période entre les examens est longue, des lacunes non décelées pourraient être exploitées aux fins de BA et de FAT.
+
+La tenue de documents expliquant clairement les méthodes utilisées pour effectuer l'examen et la façon dont l'efficacité du programme sera évaluée contribuent à l'efficacité de l'examen et des efforts de l'ED en matière de lutte contre le BA et le FAT. Par exemple, la méthode d'échantillonnage et d'évaluation devrait tenir compte de la taille et de la complexité des opérations de l'ED pour s'assurer que les résultats de l'examen sont représentatifs.
+
+Le cas échéant, un vérificateur interne ou externe doit effectuer l'examen. On s'assure ainsi d'une évaluation indépendante de l'efficacité du programme de conformité et veille à ce que les constatations soient neutres et objectives. De plus, l'expertise d'un vérificateur fait en sorte que la portée et l'évaluation de l'efficacité sont adéquates et exhaustives.
+
+### 7.3 Tort causé à l'égard de la violation relative à la déclaration de l'examen réglementaire
+
+La déclaration de renseignements réglementaires à la suite de l'examen du programme de conformité permet à un cadre dirigeant d'une ED de comprendre et de surveiller en temps opportun la conformité globale de l'ED à la Loi et aux règlements connexes, ainsi que les changements qui seraient nécessaires pour améliorer ou assurer la conformité et l'atténuation des risques. Le fait de ne pas communiquer les résultats de l'examen réglementaire à un cadre dirigeant de l'ED dans les 30 jours suivant l'évaluation nuit à la capacité du dirigeant de superviser l'application efficace des politiques et des procédures et de gérer les risques de BA et de FAT. Cette situation peut entraver l'atténuation des risques, laissant l'ED vulnérable aux infractions de BA et de FAT.
+
+### 7.4 Détermination de la pénalité à l'égard de la violation relative à la déclaration de l'examen réglementaire
+
+CANAFE déterminera le niveau de tort et la pénalité de l'omission de déclarer les renseignements réglementaires de l'examen en fonction des critères énumérés ci-dessous.
+
+Tableau 13 – Niveaux de tort de la violation relative à la déclaration de l'examen réglementaire et pénalités correspondantes
+
+| Niveau de tort | Type de non-conformité | Description de la non-conformité à l'exigence relative à la déclaration de l'examen réglementaire | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | L'exigence n'est aucunement respectée ou ce qui est en place n'est pas fonctionnel, causant une non-conformité généralisée.  Il s'agit d'une non-conformité complète ou généralisée. | Il n'y a aucune déclaration, ou une déclaration minimale, des résultats de l'examen à un cadre dirigeant. | 100 000 $ |
+| Niveau 2 | Un élément qui est essentiel à l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant d'importantes faiblesses. | Les éléments prioritaires de l'examen réglementaire ne sont pas déclarés à un cadre dirigeant, y compris :   1. des résultats; 2. des mises à jour des politiques et des procédures, le cas échéant; 3. de l'état d'avancement de la mise en œuvre des mises à jour des politiques et des procédures. | 75 000 $ |
+| Niveau 3 | Un élément qui constitue le fondement pour l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses modérées. | Les renseignements réglementaires ont été déclarés à une personne qui n'est pas un cadre dirigeant et qui n'a pas le pouvoir de s'assurer que les changements au programme de conformité sont mis en œuvre. | 50 000 $ |
+| Niveau 4 | Un élément qui permet l'atteinte des objectifs de la Loi ou la réalisation du mandat de CANAFE de manière efficace n'est pas respecté.  Il s'agit d'une non-conformité partielle comportant des faiblesses d'importance moindre. | Les renseignements réglementaires ont été déclarés au-delà de la période de 30 jours suivant l'évaluation, retardant la mise en œuvre des changements requis au programme de conformité. | 25 000 $ |
+
+#### 7.4.1 Tort de niveau 1 : Il n'y a aucune déclaration, ou une déclaration minimale, des résultats de l'examen à un cadre dirigeant
+
+La déclaration aux cadres dirigeants permet de s'assurer que les responsables de la conformité de l'ED connaissent le rendement du programme, y compris les faiblesses qui doivent être corrigées et la surveillance de la mise en œuvre du programme de conformité par l'agent de conformité. Le tort est le plus important lorsque les résultats de l'examen ne sont pas déclarés ou qu'un minimum de résultats sont déclarés à un cadre dirigeant parce qu'il y a une forte probabilité que les responsables de l'entreprise ne soient pas au courant des problèmes de conformité, ce qui rend impossible d'évaluer adéquatement leur gravité, de gérer les risques et de prendre des mesures correctives au besoin. La non-conformité de ce type représente un tort de niveau 1 et entraîne une pénalité de 100 000 $.
+
+#### 7.4.2 Tort de niveau 2 : Les éléments prioritaires de l'examen réglementaire ne sont pas déclarés à un cadre dirigeant
+
+Les éléments prioritaires de l'examen réglementaire qui doivent être déclarés à un cadre dirigeant comprennent les résultats de l'examen, les mises à jour des politiques et des procédures et l'état d'avancement de la mise en œuvre des mises à jour. Ces éléments donnent à la haute direction un tableau complet de l'état de conformité de l'ED. Grâce à ces renseignements, la direction peut prendre les mesures appropriées pour atténuer les risques et corriger la non-conformité. Lorsque la déclaration ne couvre pas un ou plusieurs de ces éléments prioritaires, elle est incomplète et représente un tort de niveau 2, entraînant une pénalité de 75 000 $.
+
+#### 7.4.3 Tort de niveau 3 : Les renseignements réglementaires ont été déclarés à une personne qui n'est pas un cadre dirigeant et qui n'a pas le pouvoir de s'assurer que les changements au programme de conformité sont mis en œuvre
+
+Si les résultats sont communiqués à une personne qui n'est pas un cadre dirigeant ou s'ils sont communiqués à un cadre dirigeant qui n'est pas en mesure d'apporter des changements pour améliorer le programme de conformité, il y a un risque que l'examen ne mène à rien. Sans la participation d'un cadre dirigeant, l'attention requise et les ressources appropriées ne seront pas accordées au programme de conformité. Par conséquent, les questions de non-conformité et les risques de BA et de FAT pourraient demeurer et leur gravité accroître au fil du temps. Ce type de non-conformité représente un tort de niveau 3 et entraîne une pénalité de 50 000 $.
+
+#### 7.4.4 Tort de niveau 4 : Les renseignements réglementaires ont été déclarés au-delà de la période de 30 jours suivant l'évaluation, retardant la mise en œuvre des changements requis au programme de conformité
+
+La communication en temps opportun permet à la haute direction de prendre des décisions stratégiques éclairées. Lorsque les renseignements réglementaires sont déclarés à un cadre dirigeant au-delà de la période de 30 jours suivant l'évaluation, le retard a une incidence sur les changements apportés au programme de conformité, ce qui diminue l'efficacité de l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE. Les personnes responsables de la gouvernance d'une ED ne peuvent pas assurer l'amélioration efficace et rapide du programme de conformité et gérer les risques de BA et de FAT. Ce type de non-conformité représente un tort de niveau 4 et entraîne une pénalité de 25 000 $.
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   Voir l'article 3 de la Loi.
+
+    [Retour à la référence de la note de bas de page 1](#fn1-rf)
+
+Note de bas de page 2
+:   Voir l'article 40 de la Loi.
+
+    [Retour à la référence de la note de bas de page 2](#fn2-rf)
+
+Date de modification :
+:   2019-08-26

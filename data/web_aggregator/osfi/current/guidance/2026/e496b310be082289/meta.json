@@ -1,0 +1,27 @@
+{
+  "doc_id": "e496b310be082289",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "OSFI clarifies treatment of innovative real estate secured lending products under Guideline B-20 - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-clarifies-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:20f23438b80cbc22bf607af7f6934bb2855b9aee7b654127ce5c9f15777338d1",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/e496b310be082289",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-clarifies-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20",
+  "fetch_method": "html_to_md"
+}

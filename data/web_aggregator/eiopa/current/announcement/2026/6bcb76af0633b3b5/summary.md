@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) published today a Discussion Paper on Methodological Principles of Insurance Stress Testing.

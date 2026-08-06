@@ -1,0 +1,1 @@
+Summary: # Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms

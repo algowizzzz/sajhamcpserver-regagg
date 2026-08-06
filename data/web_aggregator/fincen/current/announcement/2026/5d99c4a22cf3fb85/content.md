@@ -1,0 +1,57 @@
+# Guilty Pleas in International Hedge Fund Fraud Case Initiated from SARs
+
+[Issue15-story1.pdf](/system/files/case_example/Issue15-story1.pdf "Issue15-story1.pdf")
+(13.37 KB)
+
+An investigation into hedge fund fraud that was initiated from a SAR resulted in guilty pleas, forfeiture, and in the case of the ringleader, a lengthy prison sentence. The prosecution began several years ago when a federal grand jury charged four men in connection with the fraud. All of the victims were non-U.S. residents, and the international investigation utilized FinCEN’s 314(a) information sharing process as well as exchanges of information through the Egmont Group of financial intelligence units.1
+
+The leader of the scheme, a foreign national, entered the United States on an E-2 Treaty Investor Visa2 and purported to be operating hedge funds and financial advisement firms which catered to wealthy citizens outside of the United States.
+
+The leader had previously engaged in financial fraud in his home country and received a civil admonition in a non-U.S. court more than ten years ago. In addition to the civil admonition, the defendant received probation and was banned from operating any financial businesses in his home country. Around this time, the defendant came to the United States and started boiler room operations for the fraudulent hedge fund.
+
+The lead defendant in the fraud utilized his purported hedge fund consulting agencies to sponsor individuals who spoke his native language and were seeking work in the United States. The defendant applied for immigration status for his workers and utilized them as boiler-room operators. These individuals would contact wealthy citizens in the target country through a cold-calling technique and entice them to purportedly purchase stocks in the U.S. market. The operatives used data mining software to collect information from public sources, including individuals’ and businesses’ names, addresses and phone numbers. The data collected was then entered into a spreadsheet and used to make calls to potential investors.
+
+Once investment funds were received via wire, the funds were transferred among several accounts controlled by the defendant and his co-conspirators. The funds were ultimately spent on personal and business expenses in furtherance of the fraud. Very few stocks were actually purchased with the funds. The defendant instructed his workers on how to use deceptive measures and lies to extract more money from unsuspecting investors. Investors who attempted to cash out their investments were instead persuaded to wire additional funds to meet fictitious withdrawal thresholds and subsequently lost even more money. The total estimated loss was approximately $21 million from over 800 foreign investors.
+
+When investigators interviewed the boiler room operators, the employees revealed that they were not aware of the fraud being perpetrated by the lead defendant. In fact, the defendant held fake board meetings with “board members” in which he also included the boiler room operators. During these meetings, the defendant discussed the stocks the business had invested in and the number of shares held in certain companies.
+
+Two years prior to the indictment, a financial institution filed a SAR on the business and its president (the lead defendant) for a number of suspect activities. According to the SAR, the company’s business was solely purported to be an advisor to hedge funds with all income limited to fees from those hedge funds. However, the bank noticed deposits originating from individuals in the target country. In addition, the principals of the company wired funds to companies controlled by the defendant. Finally, the SAR noted that foreign bank regulators had previously closed businesses related to the defendant for various violations, including improper licenses and illegal foreign exchange transactions.
+
+Soon after the financial institution filed the SAR, an analyst with the financial enforcement group of a law enforcement agency identified the filing during a routine review. The analyst conducted further research on the defendant and eventually referred the case to a task force for investigation. In addition to the SAR that identified the financial activity, a SAR filed by a broker-dealer highlighted more than $1 million in questionable wire transfers. That SAR noted that a government office had identified 19 liens and judgments recorded against the defendant’s business.
+
+In the course of the investigation, more than $400,000 in victims’ funds were recovered and seized from bank accounts. Another $100,000 was seized from brokerage accounts. Investigators identified accounts overseas, including European countries known for their private banking services to non-residents. The lead defendant received a prison sentence of more than 15 years and was ordered to forfeit more than $20 million to be used for restitution to victims of the fraud.
+
+[Published in The SAR Activity Review - Trends, Tips & Issues, Issue 15, May 2009]
+
+---
+
+1The Egmont Group of financial intelligence units (FIUs) is an international network designed to improve interaction among FIUs in the areas of communications, information sharing, and training coordination. The goal of the Egmont Group is to provide a forum for FIUs around the world to improve support to their respective governments in the fight against money laundering, terrorist financing and other financial crimes.2As a treaty investor, the Immigration & Nationality Act provides non-immigrant visa status for a national of a country with which the US maintains a treaty of commerce, who is coming to the United States to carry on substantial trade or, to develop and direct the operations of an enterprise in which the individual has invested; or is in the process of investing a substantial amount of capital.
+
+Tags
+
+Broker Dealers
+
+Involving SARs
+
+Fraud
+
+Schemes and Scams
+
+Depository Institutions
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

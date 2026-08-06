@@ -1,0 +1,1 @@
+Summary: # FinCEN Issues Ruling (FIN-2008-R002) on Whether a Foreign Exchange Dealer is a Currency Dealer or Exchanger or Money Transmitter

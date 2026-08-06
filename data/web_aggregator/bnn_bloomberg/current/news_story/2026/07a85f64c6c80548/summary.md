@@ -1,0 +1,1 @@
+Summary: # Gordie Howe International Bridge Opens to Pedestrians and Cyclists, Completing First International Trail Crossing on the Trans Canada Trail

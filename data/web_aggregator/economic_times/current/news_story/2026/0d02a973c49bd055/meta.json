@@ -1,0 +1,25 @@
+{
+  "doc_id": "0d02a973c49bd055",
+  "regulator_id": "economic_times",
+  "doc_type": "news_story",
+  "title": "MV Electrosystems shares to list today: GMP indicates 26% upside on debut",
+  "language": "en",
+  "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-shares-to-list-today-gmp-indicates-26-upside-on-debut/articleshow/132979473.cms",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:59ef2810fc231b22cb938cbfda6db101c0114ce1ed57a660d65f5b61557fd77c",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_economic_times_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economic_times/current/news_story/2026/0d02a973c49bd055",
+  "tags": [
+    "india"
+  ],
+  "final_url": "https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-shares-to-list-today-gmp-indicates-26-upside-on-debut/articleshow/132979473.cms",
+  "fetch_method": "feed_summary"
+}

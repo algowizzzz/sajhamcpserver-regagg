@@ -1,0 +1,1 @@
+Summary: # November 20, 2023 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force

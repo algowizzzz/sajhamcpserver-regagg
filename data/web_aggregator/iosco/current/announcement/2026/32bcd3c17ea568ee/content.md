@@ -1,0 +1,564 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+## Articles
+
+* [Articles](/v2/media_room/?subsection=articles)
+
+## Speeches
+
+* [Chair of the IOSCO Board](?subSection=speeches&subSection1=Chair_IOSCO_Board)
+* [Vice-Chairs of the IOSCO Board](?subSection=speeches&subSection1=Vice_Chair_IOSCO_Board)
+* [Chair of the IOSCO Growth and Emerging Markets Committee](?subSection=speeches&subSection1=Chair_IOSCO_Growth_Emerging_Markets_Committee)
+* [Chair of the IOSCO Asia-Pacific Regional Committee](?subSection=speeches&subSection1=Chair_IOSCO_Asia_Pacific_Regional_Committee)
+* [IOSCO Secretary General](?subSection=speeches&subSection1=IOSCO_Secretary_General)
+* [IOSCO Deputy Secretary General](?subSection=speeches&subSection1=IOSCO_Deputy_Secretary_General)
+* [Chair of Fintech Task Force (FTF)](?subSection=speeches&subSection1=Chair-of-Fintech-Task-Force-(FTF))
+* [Chair of the IOSCO Sustainability Task Force](?subSection=speeches&subSection1=Chair_IOSCO_Task_Force_Sustainable_Finance)
+* [Chairman of the Commodity Futures Trading Commission and Co Chair of the IOSCO Task Force on Financial Market Benchmarks](?subSection=speeches&subSection1=Chairman_CFTC)
+* [Chair of the IOSCO Executive Committee](?subSection=speeches&subSection1=Chair_IOSCO_Executive_Committee)
+* [Chair of the IOSCO Technical Committee](?subSection=speeches&subSection1=Chair_IOSCO_Technical_Committee)
+
+# Speeches
+
+## Chair of the IOSCO Board
+
+* [Keynote: Regulatory Modernization: Evolving Approaches and the Role of Global Standard Setters](/library/speeches/pdf/20260416-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the Institute of International Finance (IIF) in Washington, DC, USA - 16 April 2026
+* [Opening Keynote: IOSCO Priorities in 2026](/library/speeches/pdf/20251208-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the IOSCO/PIFS-HLS Global Certificate Program at Harvard Law School in Cambridge, MA, USA - 8 December 2025
+* [Keynote Speech on Deepening Capital Markets](/library/speeches/pdf/20251120-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the Growth and Emerging Markets Committee (GEMC) Workshops in Malta - 20 November 2025
+* [Michael D. Gill Memorial Society Lecture](/library/speeches/pdf/20251015-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the Investment Company Institute in Washington, DC, USA - 15 October 2025
+* [Keynote Speech on International Work](/library/speeches/pdf/20250925-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the AMF-AEFR Conference on AI, Quantum and Cyber Resilience in Paris, France - 25 September 2025
+* [The Importance of Ethics in Building Trust in Global Financial Markets](/library/speeches/pdf/20250915-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the IESBA Ethics & Independence Conference in Lisbon, Portugal - 15 September 2025
+* [Supervision in the Age of AI](/library/speeches/pdf/20250902-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the HANFA Conference "Capital Markets in the Digital Age: Balancing Innovation & Oversight" in Dubrovnik, Croatia - 2 September 2025
+* [Keynote speech delivered by Jean-Paul Servais, Chair of IOSCO Board, on the occasion of the Qatar Financial Markets Authority (QFMA) public conference](/library/speeches/pdf/20250515-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board - 15 May 2025
+* [Jean-Paul Servais opening remarks at the IOSCO-OECD Roundtable on Empowering and Protecting Retail Investors held during the IOSCO Annual Meeting in Qatar](/library/speeches/pdf/20250514-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board - 14 May 2025
+* [Advancing Transparency & Competitiveness in Challenging Times](/library/speeches/pdf/20241210-Jean-Paul-Servais.pdf)
+    
+  Keynote Speech of Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the EFRAG conference: "Advancing Transparency & Competitiveness in Challenging Times" - 10 December 2024
+* [IFAC Summit 2024 - Paris - Video Address](/library/speeches/pdf/20241107-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board - 07 November 2024
+* [Financial Conduct Authority - International Capital Markets
+  Conference 2024 Speech](/library/speeches/pdf/20241008-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board - 08 October 2024
+* [Eurofi Speech](/library/speeches/pdf/20240913-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board - 13 September 2024
+* [OECD – FSB Roundtable on Artificial Intelligence in Finance - Session 2: AI in Asset Management and Securities Markets - IOSCO Chair’s Briefing & Speech](/library/speeches/pdf/20240522-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board - 22 May 2024
+* [Get ready for jurisdictional adoption: How regulators are responding to the ISSB Standards](/library/speeches/pdf/20240226-Jean-Paul-Servais.pdf)
+    
+  Keynote Speech of Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at IFRS Sustainability Symposium, video recording, New York City - 23 February 2024
+* [Asset management in turbulent times: challenges and opportunities](/library/speeches/pdf/20231124-Jean-Paul-Servais.pdf)
+    
+  Keynote Speech of Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the Investment Management Forum of the European Fund and Asset Management Association (EFAMA), in Brussels, Belgium - 24 November 2023
+* [Sustainable, Digital and Non-Bank Finance: IOSCO’s achievements and perspectives](/library/speeches/pdf/20230913-Jean-Paul-Servais.pdf)
+    
+  Keynote Speech of Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, at the EUROFI 2023 Financial Forum in Santiago de Compostela, Spain - 13 September 2023
+* [Keynote Speech at the international conference on EU Retail Investment Strategy, organized by Better Finance](https://www.fsma.be/en/news/speech-chairman-fsma-and-iosco-conference-organized-better-finance)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board - 20 June 2023
+* [Envisioning the next horizon: A way towards a connected future of capital markets](/library/speeches/pdf/20230616-Jean-Paul-Servais.pdf)
+    
+  Speech by IOSCO Board Chair Jean-Paul Servais at the SEC Thailand Public Conference, Bangkok - 16 June 2023
+* [Global issues in financial services are best addressed at global level](/library/speeches/pdf/20230601-Jean-Paul-Servais.pdf)
+    
+  Keynote address of Jean-Paul Servais, IOSCO Board Chair and Financial Services and Markets Authority (FSMA) Chairman at the International Banking Summit on "Banks in a Deglobalizing World: Delivering for Economy and Society", Brussels - 1 June 2023
+* [Keynote address of Jean-Paul Servais, International Organization of Securities Commissions (IOSCO) Board Chair and Financial Services and Markets Authority (FSMA) Chairman](/library/speeches/pdf/20230525-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board - 25 May 2023
+* [IOSCO takes a leading role in addressing some of the most pressing challenges facing
+  the financial sector](https://www.fsma.be/sites/default/files/media/files/2023-04/Keynote%20Eurofi%202023%20Stockholm.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, Chair of the IFRS Foundation Monitoring Board and Co-chair of the Monitoring Group, at the Eurofi 2023 Conference in Stockholm - 26 April 2023
+* [Open statement at the Hearing at the European Parliament](https://www.fsma.be/sites/default/files/media/files/2023-04/2023-03-27_european-parliament-opening-remarks.pdf)
+    
+  Jean-Paul Servais, Chair of the Financial Services and Markets Authority of Belgium, Chair of the IOSCO Board, Chair of the IFRS Foundation Monitoring Board and Co-chair of the Monitoring Group - 27 March 2023
+* [Latest developments in the global sustainability-related reporting landscape, A4S Summit 2022 (PDF)](/library/speeches/pdf/2022-12-13-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair, FSMA, Chair, IOSCO Board, Chair, IFRS Foundation Monitoring Board, Co-chair, Monitoring Group - 13 December 2022
+* [Latest developments in the global sustainability-related reporting landscape, A4S Summit 2022 (Video)](https://vimeo.com/781526102)
+    
+  Jean-Paul Servais, Chair, FSMA, Chair, IOSCO Board, Chair, IFRS Foundation Monitoring Board, Co-chair, Monitoring Group - 13 December 2022
+* [Pathways to net zero - Keynote speech at the Green Horizon Summit @ COP26](/library/speeches/pdf/2021-11-04-Ashley-Alder.pdf)
+    
+  Ashley Alder, IOSCO Board Chair and Chief Executive Officer, Securities and Futures Commission, Hong Kong - 4 November 2021
+* [The emerging global framework for climate change regulation](https://www.sfc.hk/-/media/EN/files/COM/Speech/CEO-at-CityWeek_20210623_Eng.pdf)
+    
+  Ashley Alder, IOSCO Board Chair and Chief Executive Officer, Securities and Futures Commission, Hong Kong, keynote address at City Week 2021 - 23 June 2021
+* [A global perspective on derivatives regulation](https://www.sfc.hk/-/media/EN/files/ER/PDF/Speech---CEO-at-ISDA-AGM_13-May.pdf)
+    
+  Ashley Alder, IOSCO Board Chair and Chief Executive Officer, Securities and Futures Commission, Hong Kong, keynote address at the ISDA Annual General Meeting - 10 May 2021
+* [Corporate sustainability disclosure standards: The way forward](https://www.sfc.hk/-/media/EN/files/ER/CEO_Eurofi-Speech_15-Apr-2021.pdf)
+    
+  Ashley Alder, IOSCO Board Chair and Chief Executive Officer of the Securities and Futures Commission Hong Kong, at the Eurofi High Level Seminar 2021 - 15 April 2021
+* [Climate change and finance: What’s next for global regulators?](https://www.sfc.hk/-/media/EN/files/ER/PDF/CEO_Speech_Climate-Risk-and-Green-Finance-Regulatory-Forum-2021.pdf)
+    
+  Ashley Alder Chair of the IOSCO Board and Chief Executive Officer of the Securities and Futures Commission, Hong Kong - 11 February 2021
+* [Keynote speech at
+  Companies Registry Corporate Governance Roundtable](/library/speeches/pdf/20170313-Ashley-Alder.pdf)
+    
+  Ashley Alder Chair of the IOSCO Board and Chief Executive Officer of the Securities and Futures Commission, Hong Kong - 13 March 2017
+* [Keynote remarks at Hedge Fund Standards Board Institutional Investor Roundtable](http://www.sfc.hk/web/EN/files/ER/PDF/Speeches/Ashley_20160622.pdf)
+    
+  Ashley Alder, Chair of the IOSCO Board - 22 June 2016
+* [Deepening global securitisation markets: An IOSCO perspective, a speech by Greg Medcraft, Chairman, Australian Securities and Investments Commission and Chair of the IOSCO Board, to the Australian Securitisation Forum Annual Conference](http://download.asic.gov.au/media/3476002/australian-securitisation-forum-greg-medcraft-published-4-december-2015.pdf)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 1 December 2015
+* [Digital disruption: Harnessing the opportunities, mitigating the risks, a speech by Greg Medcraft, Chairman, Australian Securities and Investments Commission to the Women in banking and finance business series luncheon, Sydney](http://download.asic.gov.au/media/3454359/speech-to-women-in-business-and-finance-luncheon-published-17-november-2015.pdf)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 17 November 2015
+* [The future of capital markets in a digital economy, a speech by Greg Medcraft, Chairman, Australian Securities and Investments Commission and Chair of the IOSCO Board, as part of the distinguished speaker series, Carnegie Mellon University (Adelaide, Australia)](http://asic.gov.au/about-asic/media-centre/speeches/the-future-of-capital-markets-in-a-digital-economy/)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 16 September 2015
+* [Conquering the new frontier: Regulating for growth in the digital age, The Bloomberg Address Sydney](/library/speeches/pdf/20141001-Greg-Medcraft-Bloomberg-Address-Sydney.pdf)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 26 November 2014
+* [Understanding and adapting to the regulatory environment: An IOSCO perspective, Australian Securitisation Forum, Annual Conference](/library/speeches/pdf/20141001-Greg-Medcraft-Australian-Securitisation-Forum-Annual-Conference.pdf)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 11 November 2014
+* [39th IOSCO Annual Conference, Rio de Janeiro](/library/speeches/pdf/20141001-Greg-Medcraft-39th-Annual-Conference.pdf)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 01 October 2014
+* [IOSCO Board Meeting with Stakeholders, Madrid](/library/speeches/pdf/20140701-Greg-Medcraft.pdf)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 01 July 2014
+* [Shaping Global Financial Regulation - A View from Asia](/library/speeches/pdf/20131022-Kono.pdf)
+    
+  Masamichi Kono, Former Chair of the IOSCO Board - 22 October 2013
+* [IOSCO Stakeholder Meeting - Introductory Comments, Madrid](/library/speeches/pdf/20130628-Greg-Medcraft.pdf)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 28 June 2013
+* [American Australian Association lunch event, New York](/library/speeches/pdf/20130424-Greg-Medcraft.pdf)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 24 April 2013
+* [Improving the global consistency of financial regulation, EuroFi High Level Seminar, Dublin](/library/speeches/pdf/20130411-Greg-Medcraft.pdf)
+    
+  Greg Medcraft, Chair of the IOSCO Board - 11 April 2013
+* [European Parliament Committee on Economic and Monetary Affairs - Public Hearing - Tackling the culture of market manipulation - Global action post Libor/Euribor](/library/speeches/pdf/20120924-Kono.pdf)
+    
+  Masamichi Kono, Chair of the IOSCO Board - 24 September 2012
+
+## Vice-Chairs of the IOSCO Board
+
+* [Proposal for a corporate sustainability reporting directive. The way forward.](https://www.fsma.be/sites/default/files/media/files/2021-05/20210605_euconference_keynote.pdf)
+    
+  Keynote speech by Jean-Paul Servais, Vice-Chair, International Organization of Securities Commissions and Chairman of the Belgian Financial Services and Markets Authority, at the European Commission, High-level conference - 6 May 2021
+* [Closing keynote, 7th EU-Asia Financial Services Dialogue](/library/speeches/pdf/20210312-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Vice-Chair, International Organization of Securities Commissions, Chairman of the Belgian Financial Services and Markets Authority and Chair of the IFRS Monitoring Group - 12 March 2021
+
+## Chair of the IOSCO Growth and Emerging Markets Committee
+
+* ["The World in Reset: Defining Global Finance", article written by Ranjit Ajit Singh, Chair of the IOSCO Growth and Emerging Markets Committee and Chairman, Securities Commission, Malaysia, for the World Capital Markets Symposium held in Kuala Lumpur](/library/speeches/pdf/20131022-Ranjit-Ajit-Singh.pdf)
+    
+  Ranjit Ajit Singh, Chair of the IOSCO Growth and Emerging Markets Committee - 21 October 2013
+* [Opening Remarks, IFSB-IOSCO Roundtable on Disclosure Requirements for Islamic Capital Market Products, 18 September 2012, Securities Commission, Kuala Lumpur, Malaysia](/library/speeches/pdf/20120918-Singh.pdf)
+    
+  Ranjit Ajit Singh, Chairman of the Securities Commission Malaysia - 18 September 2012
+* [Speech on The Future of Financial Regulation and Emerging Markets, Opening Ceremony of the 35th IOSCO Annual Conference, Montreal](/library/speeches/pdf/IOSCOSP07-10.pdf)
+    
+  Guillermo Larrain, Chair of the IOSCO Growth and Emerging Markets Committee - 9 June 2010 (IOSCO SP07-10)
+* [5th IOSCO Technical Committee Conference Opening Remarks, Basel, Switzerland](/library/speeches/pdf/IOSCOSP008-09.pdf)
+    
+  Guillermo Larrain, Chair of the IOSCO Growth and Emerging Markets Committee - 8 October 2009 (IOSCO SP008-09)
+* [34th IOSCO Annual Conference Opening Ceremony Address, Tel Aviv](/library/speeches/pdf/IOSCOSP005-09.pdf)
+    
+  Guillermo Larrain, Chair of the IOSCO Growth and Emerging Markets Committee - 10 June 2009 (IOSCO SP005-09)
+* [33rd IOSCO Annual Conference Opening Ceremony Speech, Paris](/library/speeches/pdf/IOSCOSP005-08.pdf)
+    
+  Guillermo Larrain, Chair of the IOSCO Growth and Emerging Markets Committee - 28 May 2008 (IOSCO SP005-08)
+
+## Chair of the IOSCO Asia-Pacific Regional Committee
+
+* [Opening remarks at IOSCO Growth and Emerging Markets Committee Conference, Colombo](/library/speeches/pdf/20170920-Jun-Mizuguchi.pdf)
+    
+  Jun Mizuguchi, Chair of the IOSCO Asia-Pacific Regional Committee and Deputy Commissioner for International Affairs of the Financial Services Agency of Japan - 20 September 2017
+* [Regulators' role in the age of the globalization paradox](/library/speeches/pdf/20161014-Ryozo-Himino.pdf)
+    
+  Ryozo Himino, Chair of the IOSCO Asia-Pacific Regional Committee and Vice Minister for International Affairs of the Financial Services Agency of Japan - 14 October 2016
+* [Speech at the Asia Securities Industry & Financial Markets Association Annual Conference 2014](/library/speeches/pdf/20141105-Ashley-Alder.pdf)
+    
+  Ashley Alder, Chief Executive Officer of the Securities and Futures Commission and Chair of the Asian Pacific Regional Committee - 5 November 2014
+* [Speech at 5th Pan Asian Regulatory Summit](/library/speeches/pdf/20141029-Ashley-Alder.pdf)
+    
+  Ashley Alder, Chief Executive Officer of the Securities and Futures Commission and Chair of the Asian Pacific Regional Committee - 29 October 2014
+* [Think global, act local - Speech at the Australian Securities and Investments Commission Annual Forum 2014](/library/speeches/pdf/20140324-Ashley-Alder.pdf)
+    
+  Ashley Alder, Chief Executive Officer of the Securities and Futures Commission and Chair of the Asian Pacific Regional Committee - 24 March 2014
+* [Stakeholders Involvement in the Implementation of Change in Financial Services in Emerging Markets](/library/speeches/pdf/stakeholders_involvement_in_change_apr06_tp.pdf)
+    
+  Thirachai Phuvanatnaranubala, Chair of the IOSCO Asia-Pacific Regional Committee - April 2006
+
+## IOSCO Secretary General
+
+* [Keynote Speech on From Vision to Action: Delivering the Savings and Investments Union for Growth](/library/speeches/pdf/20260603-Rodrigo-Buenaventura.pdf)
+    
+  Rodrigo Buenaventura, Secretary General of IOSCO, at the Federation of European Securities and Exchanges (FESE) Convention 2026 in Brussels, Belgium - 3 June 2026
+* [Keynote Speech on Global Regulatory Priorities: the IOSCO Perspective](/library/speeches/pdf/20260421-Rodrigo-Buenaventura.pdf)
+    
+  Rodrigo Buenaventura, Secretary General of IOSCO, at the OSC Dialogue 2026 in Toronto, Canada - 21 April 2026
+* [Keynote Speech on Building Resilient Capital Markets in a Digital Era: a Legal and Regulatory Dialogue](/library/speeches/pdf/20260313-Rodrigo-Buenaventura.pdf)
+    
+  Rodrigo Buenaventura, Secretary General of IOSCO, at the International Law Association-Securities Regulation Committee Conference in Madrid, Spain - 13 March 2026
+* [Keynote Speech on Financial Innovation in Capital Markets](/library/speeches/pdf/20251120-Rodrigo-Buenaventura.pdf)
+    
+  Rodrigo Buenaventura, Secretary General of IOSCO, at the Growth and Emerging Markets Committee (GEMC) Workshops in Malta - 20 November 2025
+* [Keynote Introduction at AFME's 16th Annual Spanish Capital Markets Conference in Madrid](/library/speeches/pdf/20250403-Rodrigo-Buenaventura.pdf)
+    
+  Rodrigo Buenaventura, Secretary General of IOSCO, gives keynote introduction at AFME's 16th Annual Spanish Capital Markets Conference in Madrid - 3 April 2025
+* [Opening keynote David Wright, Secretary General, International Organization of Securities Commissions (IOSCO), Madrid](https://www.icgn.org/opening-keynote-david-wright-secretary-general-international-organization-securities-commissions)
+    
+  David Wright, IOSCO Secretary General - 2 March 2015
+* [Remarks by David Wright at the Taiwan Corporate governance Forum, Taipei](/library/speeches/pdf/20131127-David-Wright.pdf)
+    
+  David Wright, IOSCO Secretary General - 27 November 2013
+* [Speech by Secretary General David Wright on the Future of Global Financial Regulation](/library/speeches/pdf/20121210-Wright-David.pdf)
+    
+  David Wright, IOSCO Secretary General - 10 December 2012
+* [Speech on Importance of Investor Education and Current Real Challenges, IOSCO/IFIE Investor Education Conference, Seoul, Korea](/library/speeches/pdf/IOSCOSP01-12.pdf)
+    
+  David Wright, IOSCO Secretary General - 21 May 2012 (IOSCO SP01-12)
+* [Speech on Building a Better Financial System: IOSCO's Role, International Standards of Accounting and Reporting (ISAR) Meeting, Geneva, Switzerland](/library/speeches/pdf/IOSCOSP05-11.pdf)
+    
+  Greg Tanzer, IOSCO Secretary General - 12 October 2011 (IOSCO SP05-11)
+* [Opening Ceremony, 36th IOSCO Annual Conference, Cape Town](/library/speeches/pdf/IOSCOSP04-11.pdf)
+    
+  Greg Tanzer, IOSCO Secretary General - 20 April 2011
+* [The International Organization of Securities Commissions and the Future of Securities Regulation](/library/speeches/pdf/IOSCOSP04-10.pdf)
+    
+  Greg Tanzer, IOSCO Secretary General - 12 May 2010
+* [Presentation at the IIF Open Program in Frankfurt](/library/speeches/pdf/frankfurt_presentation_jun07_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - June 2007
+* [Speech at the IIF Open Program in Frankfurt](/library/speeches/pdf/frankfurt_speech_jun07_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - June 2007
+* [La Tribune Interview with the Secretary General (French)](/library/speeches/pdf/la_tribune_jun07_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - June 2007
+* [A Cross Sectoral Approach to the Supervision of Islamic Financial Services: The IOSCO View](/library/speeches/pdf/dubai_may07_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - May 2007
+* [Caribbean Securities Regulators Conference](/library/speeches/pdf/caribbean_oct06_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - October 2006
+* [Cambridge Symposium on Economic Crime](/library/speeches/pdf/cambridge_symposium_on_economic_crime_sep06_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - September 2006
+* [Importance of Effective Standards for Market Regulation](/library/speeches/pdf/importance_of_effective_standards_for_market_regulation_mar06_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - March 2006
+* [Convergence in the Regulation of International Financial Markets](/library/speeches/pdf/convergence_in_the_regulation_of_international_financial_markets_nov05_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - November 2005
+* [Euromoney Handbook](/library/speeches/pdf/international_equity_capital_markets_jun05_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - July 2005
+* [Cinco Dias (Spanish language version)](/library/speeches/pdf/cinco_dias_apr05_pr_spanish.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - April 2005
+* [IOSCO: A Key Element in the Restoration of Financial Markets Confidence](/library/speeches/pdf/restoration_ of_financial_markets_confidence_jul04_pr.pdf)
+    
+  Philippe Richard, IOSCO Secretary General - July 2004
+
+## IOSCO Deputy Secretary General
+
+* [Keynote Speech on Central Counterparties (CCPs) Resilience](/library/speeches/pdf/20260623-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, Deputy Secretary General of IOSCO, at the CCP Global Annual General Meeting in Amsterdam, the Netherlands - 23 June 2026
+* [Welcoming Remarks on Transparency, Accountability, and Sustainability: Reinforcing Corporate Governance in Africa](/library/speeches/pdf/20260602-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, Deputy Secretary General of IOSCO, at the Regional Center for Excellence (Financial Services Commission, Mauritius) Virtual Training - 2 June 2026
+* [IOSCO Targets Crypto-Asset Regulation, article/keynote speech delivered at the World
+  Federation of Exchanges (WFE’s) Annual Meeting in Malta, Sept 27-29 by Tajinder Singh,
+  Deputy Secretary General, and reprinted in FOCUS Magazine, WFE, Nov 2022](https://focus.world-exchanges.org/articles/iosco-keynote-malta)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - Nov 2022
+* [Remarks by Tajinder Singh, Deputy Secretary General of the International Organization of Securities Commissions, at the Annual General Meeting and Conference of the International Council of Securities Associations, Stockholm](/library/speeches/pdf/20160523-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 23 May 2016
+* [Remarks by Tajinder Singh, Deputy Secretary General, The International Organization of Securities Commissions, At the Corporate Governance Summit 2015: "Gatekeepers of Governance", Mumbai](/library/speeches/pdf/20151127-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 27 November 2015
+* [IOSCO's agenda and global prospects for market-based financing](/library/speeches/pdf/20140414-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 14 April 2014
+* [The shift towards Market Based Financing: the role of financial regulation](/library/speeches/pdf/20140225-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 25 February 2014
+* [Reliable and Comparable Corporate Reporting and Achieving High-Quality Corporate Reporting Standards: IOSCO's Role in Promoting Mechanisms for Consistent Application](/library/speeches/pdf/20131106-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 6 November 2013
+* [Regulatory Fragmentation to One World Alliance: Myth or Reality](/library/speeches/pdf/20131031-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 31 October 2013
+* [New Trends in Capital Markets Regulation](/library/speeches/pdf/20131028-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 28 October 2013
+* [Preparing Securities Markets for the Future: Opportunities and Risks](/library/speeches/pdf/20131022-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 22 October 2013
+* [Human Rights and the Financial Crisis Perspectives on Causes and Responses](/library/speeches/pdf/20130701-Tajinder-Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 1 July 2013
+* [Update on Recent IOSCO Work](/library/speeches/pdf/20130628-Tajinder Singh.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 28 June 2013
+* [G20 Seminar on Commodity Markets' Transparency: Physical and Financial Markets](/library/speeches/pdf/20130603-Singh-Tajinder.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 3 June 2013
+* [Opening Remarks at the IARC/COSRA Meeting, Port of Spain, Trinidad and Tobago](/library/speeches/pdf/20121030-Singh-Tajinder.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 30 October 2012
+* [Keynote Address, Conference on Deleveraging and Growth in Spain: Sector Priorities and Strategies on the Road to a Balanced Economy](/library/speeches/pdf/20121011-Singh-Tajinder.pdf)
+    
+  Tajinder Singh, IOSCO Deputy Secretary General - 11 October 2012
+
+## Chair of Fintech Task Force (FTF)
+
+* [Remarks by the IOSCO Fintech Task Force Chair at Singapore Fintech Festival - Applying and Adapting IOSCO Principles to Digital Asset Markets](/library/speeches/pdf/2022-11-02-Tuang-Lee-Lim.pdf)
+    
+  Tuang Lee Lim, Assistant Managing Director (Capital Markets), Monetary Authority of Singapore and Chair of the IOSCO Fintech Task Force - 2 November 2022
+* [IOSCO's Roadmap for Crypto-Regulation: Fostering Fair, Resilient Markets and Responsible Innovation - Keynote speech at the London Fintech Week](/library/speeches/pdf/2022-07-11-Tuang-Lee-Lim.pdf)
+    
+  Tuang Lee Lim, Assistant Managing Director (Capital Markets), Monetary Authority of Singapore and Chair of the IOSCO Fintech Task Force - 11 July 2022
+
+## Chair of the IOSCO Sustainability Task Force
+
+* [Introductory remarks, IOSCO’s STF Roundtable on sustainability assurance](/library/speeches/pdf/2022-12-14-Jean-Paul-Servais.pdf)
+    
+  Jean-Paul Servais, Chair, FSMA, Chair, IOSCO Board, Chair, IFRS Foundation Monitoring Board, Co-chair, Monitoring Group - 14 December 2022
+* [Remarks at the Green Horizon Summit @ COP26](/library/speeches/pdf/2021-11-04-Erik-Thedéen.pdf)
+    
+  Erik Thedéen, Director General of Finansinspektionen Sweden and Chair of the IOSCO Task Force on Sustainable Finance - 4 November 2021
+* [Open response to the open letter from CDP, Climate Disclosure Standards Board (CDSB), Global Reporting Initiative (GRI), International Integrated Reporting Council (IIRC) and Sustainability Accounting Standards Board (SASB) proposing avenues for Working together to meet the needs of the capital markets](https://www.iosco.org/library/speeches/pdf/20201029-Erik-Thedéen.pdf)
+    
+  Erik Thedéen, Director General of Finansinspektionen Sweden and Chair of the IOSCO Task Force on Sustainable Finance - 28 October 2020
+* [Speech at the conference Driving Global Standards on Sustainable Finance](https://www.fi.se/en/published/presentations/2020/erik-thedeens-speech-at-driving-global-standards-on-sustainable-finance/)
+    
+  Erik Thedéen, Director General of Finansinspektionen Sweden and Chair of the IOSCO Task Force on Sustainable Finance - 30 September 2020
+
+## Chairman of the Commodity Futures Trading Commission and Co Chair of the IOSCO Task Force on Financial Market Benchmarks
+
+* [Remarks, European Parliament, Economic and Monetary Affairs Committee, September 24, 2012, Brussels Belgium](/library/speeches/pdf/20120924-Gensler.pdf)
+    
+  Gary Gensler, Chairman of the Commodity Futures Trading Commission and Co Chair of the IOSCO Task Force on Financial Market Benchmarks - 24 September 2012
+
+## Chair of the IOSCO Executive Committee
+
+* [Welcome Remarks, Opening Ceremony of the 37th IOSCO Annual Conference, Beijing](/library/speeches/pdf/IOSCOSP02-12.pdf)
+    
+  Maria Helena Santana, Chair of the IOSCO Executive Committee - 16 May 2012 (IOSCO SP02-12)
+* [Interview with CNBC Africa "Power Lunch" on Thursday 21 April 2011](http://www.abndigital.com/page/multimedia/video/power-lunch/451949-36th-Annual-IOSCO-Conference)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 21 April 2011
+* [Opening Remarks, Opening Ceremony of the 36th IOSCO Annual Conference, Cape Town](/library/speeches/pdf/IOSCOSP02-11.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 20 April 2011 (IOSCO SP02-11)
+* [Enhancing Financial Policy and Regulatory Cooperation - Responses to the Global Financial Crisis, The Australian APEC Study Centre, Melbourne APEC Finance Centre](/library/speeches/pdf/IOSCOSP01-11.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 9 March 2011 (IOSCO SP01-11)
+* [IOSCO 10th Anniversary in Madrid](/library/speeches/pdf/IOSCOSP13-10.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 3 November 2010 (IOSCO SP13-10)
+* [Speech on Corporate governance: An effective tool for rebuilding the financial world, Continuous Professional Development Programme Presentation, Colombo, Sri Lanka](/library/speeches/pdf/IOSCOSP10-10.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 28 September 2010 (IOSCO SP10-10)
+* [Speech on Systemic Risk and Regulation in the post crisis era, Institute of Chartered Accountants of Sri Lanka (ICASL) Members, Colombo, Sri Lanka](/library/speeches/pdf/IOSCOSP11-10.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 28 September 2010 (IOSCO SP11-10)
+* [Speech on Regulation after the GFC, Plenary Session, 27th Annual Banking & Financial Services Law & Practice Conference, Queenstown, New Zealand](/library/speeches/pdf/IOSCOSP09-10.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 16 August 2010 (IOSCO SP09-10)
+* [Speech on Time for a paradigm shift in thinking, 35th IOSCO Annual Conference, Montreal](/library/speeches/pdf/IOSCOSP08-10.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 10 June 2010 (IOSCO SP08-10)
+* [Welcome Remarks, Opening Ceremony of the 35th IOSCO Annual Conference, Montreal](/library/speeches/pdf/IOSCOSP05-10.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 9 June 2010 (IOSCO SP05-10)
+* [Global Financial Architecture - Challenges for Islamic Finance, IFSB Summit, Bahrain](/library/speeches/pdf/IOSCOSP03-10.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 5 May 2010 (IOSCO SP03-10)
+* [Regulation in Derivatives Markets, Asian Banker Summit Markets and Exchanges Conference, Singapore, New Landscapes New Players New Rules](/library/speeches/pdf/IOSCOSP02-10.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 19 April 2010 (IOSCO SP02-10)
+* [The Work of IOSCO and the Financial Regulatory Framework, Global Financial Crisis Conference, Bond University, Sydney](/library/speeches/pdf/IOSCOSP01-10.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 9 April 2010 (IOSCO SP01-10)
+* [Opening Remarks, Emerging Markets Committee Conference 2009, Bucharest](/library/speeches/pdf/IOSCOSP011-09.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 6 November 2009 (IOSCO SP011-09)
+* [Sustainable Stock Exchanges Event, United Nations Headquarters, New York](/library/speeches/pdf/IOSCOSP010-09.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 2 November 2009 (IOSCO SP010-09)
+* [5th IOSCO Technical Committee Conference Opening Remarks, Basel, Switzerland](/library/speeches/pdf/IOSCOSP007-09.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 8 October 2009 (IOSCO SP007-09)
+* [Future of the Financial Regulatory Framework, Basel, Switzerland](/library/speeches/pdf/IOSCOSP009-09.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 8 October 2009 (IOSCO SP009-09)
+* [34th IOSCO Annual Conference Opening Ceremony Address, Tel Aviv](/library/speeches/pdf/IOSCOSP003-09.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 10 June 2009 (IOSCO SP003-09)
+* [Who should do what in the global financial architecture... the art of the possible. CEPS, Brussels](/library/speeches/pdf/IOSCOSP002-09.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 22 April 2009 (IOSCO SP002-09)
+* [Welcome Remarks Gulf Cooperation Council Regulators' Summit](/library/speeches/pdf/IOSCOSP001-09.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 1 March 2009 (IOSCO SP001-09)
+* [Speech to the CNMV 20th Anniversary Conference](/library/speeches/pdf/IOSCOSP006-08.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 18 September 2008 (IOSCO SP006-08)
+* [33rd IOSCO Annual Conference Opening Ceremony Address, Paris](/library/speeches/pdf/IOSCOSP003-08.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 28 May 2008 (IOSCO SP003-08)
+* [Welcome Speech at GCC Regulator's Summit](/library/speeches/pdf/Welcome_Speech_at_GCC_Regulators_Summit_19_February_2008.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 19 February 2008
+* [Capital Markets and Regulation: Asia Pacific Today Instituto De Empressa Business School and Expansion Newspaper Madrid](/library/speeches/pdf/Jane_Diplock_speech_to_Instituto_de_Empresa_Madrid_01022008.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 1 February 2008
+* [International Investment Funds Association, Sydney](/library/speeches/pdf/International_Investment_Funds_Association_Sydney_1_November_2007.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 1 November 2007
+* [World Federation of Exchanges Annual Meeting, Shanghai](/library/speeches/pdf/World_Federation_of_Exchanges_Annual_Meeting_Shanghai_14_19_Oct_2007.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - October 2007
+* [Institute of Actuaries Biennial Convention, Christchurch](/library/speeches/pdf/Institute_of_Actuaries_Biennial_Convention_Christchurch_25_September_2007.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 25 September 2007
+* [IFRS Conference, Singapore](/library/speeches/pdf/IFRS_Conference_Singapore_29_August_2007.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 29 August 2007
+* [32nd IOSCO Annual Conference Opening Ceremony Address, Mumbai](/library/speeches/pdf/32nd_IOSCO_Annual_Conference_Opening_Ceremony_Address_Mumbai_12 April_2007.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - 12 April 2007
+* [IOSCO speech for GCC Regulators Conference, Qatar](/library/speeches/pdf/IOSCO_speech_for_GCC_Regulators_Conference_Qatar_28_February_1_March_2007.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - March 2007
+* [Securities Regulation - An International Perspective](/library/speeches/pdf/securities_regulation_international_perspective_oct06_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - October 2006
+* [Luncheon Address at the IOSCO Emerging Markets Committee Conference in Shanghai](/library/speeches/pdf/emc_luncheon_address_sep06_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - September 2006
+* [IOSCO - A Global Standards Setter](/library/speeches/pdf/global_standards_setter_may06_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - May 2006
+* [IOSCO Training Seminar for the Asia-Pacific Region](/library/speeches/pdf/training_seminar_for_asia-pacific_apr06_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - April 2006
+* [IOSCO Challenges in a Dynamic Global Market](/library/speeches/pdf/challenges_in_dynamic_global_market_apr06_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - April 2006
+* [Regulation & Cross Border Developments](/library/speeches/pdf/regulation_cross_border_developments_feb06_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - February 2006
+* [IOSCO Response to Accounting Scandals](/library/speeches/pdf/response_to_accounting_scandals_nov05_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - November 2005
+* [Securities Regulation - Global Trends & Trans Tasman Alignment](/library/speeches/pdf/securities_regulation_global_trends_trans_tasman_alignment_may05_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - May 2005
+* [IOSCO Strategies & Regulatory Issues](/library/speeches/pdf/strategies_regulatory_issues_may05_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - May 2005
+* [IOSCO Background, Priorities & Challenges](/library/speeches/pdf/background_priorities_challenges_feb05_jd.pdf)
+    
+  Jane Diplock, Chair of the IOSCO Executive Committee - February 2005
+
+## Chair of the IOSCO Technical Committee
+
+* [Opening Remarks, Opening Ceremony of the 36th IOSCO Annual Conference, Cape Town](/library/speeches/pdf/IOSCOSP03-11.pdf)
+    
+  Hans Hoogervorst, Chair of the IOSCO Technical Committee - 20 April 2011 (IOSCO SP03-11)
+* [IOSCO 10th Anniversary in Madrid](/library/speeches/pdf/IOSCOSP14-10.pdf)
+    
+  Hans Hoogervorst, Chair of the IOSCO Technical Committee - 3 November 2010 (IOSCO SP14-10)
+* [Opening Remarks, Opening Ceremony of the 35th IOSCO Annual Conference, Montreal](/library/speeches/pdf/IOSCOSP06-10.pdf)
+    
+  Kathleen Casey, Chair of the IOSCO Technical Committee - 9 June 2010 (IOSCO SP06-10)
+* [5th IOSCO Technical Committee Conference Welcoming Remarks, Basel, Switzerland](/library/speeches/pdf/IOSCOSP006-09.pdf)
+    
+  Kathleen Casey, Chair of the IOSCO Technical Committee - 8 October 2009 (IOSCO SP006-09)
+* [34th IOSCO Annual Conference Welcoming Remarks, Tel Aviv](/library/speeches/pdf/IOSCOSP004-09.pdf)
+    
+  Kathleen Casey, Chair of the IOSCO Technical Committee - 10 June 2009 (IOSCO SP004-09)
+* [33rd IOSCO Annual Conference Opening Ceremony Speech, Paris](/library/speeches/pdf/IOSCOSP004-08.pdf)
+    
+  Michel Prada, Chair of the IOSCO Technical Committee - 28 May 2008 (IOSCO SP004-08)
+* [Opening Speech of the IOSCO Technical Committee Conference](/library/speeches/pdf/opening_speech_tokyo_8th_november_2007.pdf)
+    
+  Michel Prada, Chair of the IOSCO Technical Committee - November 2007
+* [Economic & Monetary Affairs Committee, European Parliament](/library/speeches/pdf/economic_monetary_affairs_committee_european_parliament_dec06_tc.pdf)
+    
+  Michel Prada, Chair of the IOSCO Technical Committee - December 2006
+* [Roundtable on Financial Reporting and Auditing](/library/speeches/pdf/roundtable_financial_reporting_auditing_feb06_mp.pdf)
+    
+  Michel Prada, Chair of the IOSCO Technical Committee - February 2006
+* [Global Public Policy Symposium](/library/speeches/pdf/global_public_policy_symposium_oct05_as.pdf)
+    
+  Michel Prada, Chair of the IOSCO Technical Committee - October 2005
+* [Securities Regulation vs Prudential Regulation](/library/speeches/pdf/securities_regulation_vs_prudential_regulation_may05_as.pdf)
+    
+  Andrew Sheng, Chair of the IOSCO Technical Committee - May 2005
+* [Disclosure Regulation: Role of Intermediaries](/library/speeches/pdf/disclosure_regulation_role_of_intermediaries_mar05_as.pdf)
+    
+  Andrew Sheng, Chair of the IOSCO Technical Committee - March 2005
+* [IOSCO Background and Current Issues](/library/speeches/pdf/background_and_current_issues_feb05_as.pdf)
+    
+  Andrew Sheng, Chair of the IOSCO Technical Committee - February 2005
+* [Attracting Global Investors to Emerging Markets](/library/speeches/pdf/attracting_global_investors_to_emerging_markets_feb05_as.pdf)
+    
+  Andrew Sheng, Chair of the IOSCO Technical Committee - February 2005
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

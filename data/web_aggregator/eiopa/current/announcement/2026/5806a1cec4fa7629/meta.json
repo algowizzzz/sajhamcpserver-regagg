@@ -1,0 +1,27 @@
+{
+  "doc_id": "5806a1cec4fa7629",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA calls for a European recovery and resolution framework for (re)insurers - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-calls-european-recovery-and-resolution-framework-reinsurers-2017-07-05-0_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:12b793853d5ee9b78f1166c65961aed90d87168d3523709a9586c8129f417e77",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/5806a1cec4fa7629",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-calls-european-recovery-and-resolution-framework-reinsurers-2017-07-05-0_en",
+  "fetch_method": "html_to_md"
+}

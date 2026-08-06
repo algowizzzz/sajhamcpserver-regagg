@@ -1,0 +1,1 @@
+Summary: On 30 July 2026, Blue Motor Finance Limited (BMFL) was placed into administration. Simon Edel, Richard Barker and Alan Michael Hudson of Ernst & Young LLP were appointed as joint administrators.

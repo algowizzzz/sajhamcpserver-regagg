@@ -1,0 +1,220 @@
+Read the findings of our review into firms' approaches to products and services.
+
+## 1. Introduction
+
+The [Consumer Duty](/firms/consumer-duty "Consumer Duty") (the Duty) sets a higher standard for retail consumer protection. To support firms in meeting the requirements of the Duty, we are continuing to provide firms with examples of good practice and areas for improvement.
+
+The examples in this report are intended to help firms learn from each other and improve compliance with the products and services outcome. They do not introduce new regulatory requirements.
+
+Firms can use our findings to review their own approach and identify possible improvements, but not all examples will be relevant to every firm. What is reasonable will depend on the product or service, the retail customers involved, and the firm’s role in providing it.
+
+### Smaller firms
+
+Smaller firms may have fewer resources and may therefore apply the Duty in a way that fits their size and customer base. To support them in doing so, we have included examples of good practice from smaller firms.
+
+## 2. Our requirements
+
+Firms’ overarching obligations under the Duty on product governance, price and value, consumer understanding and consumer support are set out in the outcome rules and guidance at PRIN 2A.3 to PRIN 2A.6.
+
+The product governance obligations, which relate to the products and services outcome of the Duty, require, among other things, relevant firms to:
+
+* Ensure the design of products and services meets the needs, characteristics and objectives of customers in the identified target market.
+* Make sure the intended distribution strategy for the product or service is appropriate for the target market.
+* Carry out regular reviews to ensure that the product or service continues to meet the needs, characteristics and objectives of the target market.
+
+Our requirements and expectations for firms in this area are generally set out in PRIN 2A.3 and our Finalised Guidance [FG22/5 (PDF)](/publication/finalised-guidance/fg22-5.pdf "fg22-5.pdf"), in particular Chapter 6. Firms should apply the Duty reasonably, as set out in FG22/5, when considering what the examples mean for their business.
+
+### PROD rules
+
+If a firm’s product or service is subject to the rules in the Product Intervention and Product Governance sourcebook (PROD) for financial instruments and structured deposits (PROD 3), insurance (PROD 4) or funeral plans (PROD 7), the firm must continue to comply with those rules and PRIN 2A.3 does not apply to the firm for that product or service.
+
+However, our good practice examples may be relevant to products and services that are subject to the PROD rules. We encourage firms to which the PROD rules apply to review our examples and consider if they could improve their own practices.
+
+### CP26/23: Consultation on the scope and proportionality of the Duty
+
+We are also [consulting on changes to how the Duty applies](/publications/consultation-papers/cp26-23-consumer-duty-scope-and-proportionality "CP26/23 Consumer Duty: scope and proportionality"). Firms may wish to review that consultation before considering major process changes.
+
+We are consulting on measures to provide greater certainty on where the Duty applies and how it applies proportionately. The Duty already applies reasonably, based on the circumstances, including in relation to a firm’s role in the distribution chain. We don’t expect all firms to apply the same approach to meet the outcomes-focused rules of the Duty. For instance, in the consultation, we are proposing to provide greater clarity over how different firms might need to consider customer vulnerability in different ways. Similarly, we don’t expect all firms to oversee the activities of other firms in the distribution chain unless other regulation or contracts require this. The good practice set out below should be considered where it is relevant for a firm’s activities and role.
+
+## 3. What we looked at
+
+In October 2025, we carried out a qualitative survey of 38 firms from across banking, insurance, payments/e-money, asset management, consumer investments, funeral plans, and consumer finance. We sought to ensure reasonable coverage of small, medium and large firms with a variety of business models and risk profiles.
+
+We focused on the overarching requirements of the Duty for the products and services outcome across:
+
+* Product and service design and target market.
+* Testing, monitoring and review over the life cycle of a product or service.
+* Distribution and third parties.
+* Customers in vulnerable circumstances.
+
+We analysed internal supervisory intelligence and insights from earlier multi‑firm work. This included recent board reports and vulnerability reviews, which highlighted recurring gaps in how firms identify their target markets, consider vulnerability and assess whether products or services meet customers’ needs.
+
+We have factored our findings on customers in vulnerable circumstances into the other sections in this report, as they are cross-cutting.
+
+## 4. Product and service design, and target market
+
+### Requirements
+
+Our rules (PRIN 2A.3.4R) require manufacturers of products and services to operate product approval procedures that specify the target market at a sufficiently granular level, take account of additional or different customer needs, and assess relevant risks.
+
+Manufacturers of products and services are also required (under PRIN 2A.3.4R(4)) to ensure that their product or service design meets the needs, characteristics and objectives of the target market, does not adversely affect groups of retail customers in that target market, and avoids causing foreseeable harm in the target market.
+
+Firms should also take vulnerable consumers into account at all stages of the product and service design process (in line with paragraph 1.10 of FG21/1).
+
+### Good practice
+
+#### Mapping customer needs to product or service design
+
+Many firms began their product or service design (or review) process by researching their prospective customers’ needs, characteristics, objectives and likely behaviour.
+
+Several firms synthesised this research into ‘customer profiles’. They could then map their product or service design to make sure it met their customers’ needs. For instance, one firm developed 7 customer profiles based on their prospective customers’ behaviour, motivation and service expectations. The firm then categorised their customers under each profile, to help make sure their products or services were meeting their customers’ identified needs.
+
+Some firms also used a ‘negative target market’. This helped them identify customers for whom the product or service would not be appropriate, based on their particular needs, objectives or characteristics.
+
+#### Testing of target market compatibility
+
+Once the product or service had been designed, many firms used customer impact assessments as an effective way to test that the finalised product or service was compatible with their target market. This often involved mapping out the customer journey end-to-end, identifying the risks of harm at each stage for different customer segments, and ensuring that mitigants for that harm were in place.
+
+Several firms also carried out a specific vulnerability impact assessment as part of this process. In one case, the assessment identified that a product was creating a risk that customers could be exposed to a single large position in an illiquid investment. This exposure was not suitable for the product’s target market. Following the assessment, the firm adapted the product to mitigate this risk.
+
+#### Adapting products or services and customer journeys for different customer segments
+
+It was positive to see that many firms had taken steps to make their customer journeys inclusive for different customer segments. For instance:
+
+* Many firms had followed the Web Content Accessibility Guidelines (WCAG) for digital content.
+* One firm had recently redesigned its investor documents to improve clarity.
+* A firm had introduced voice control in their app for customers with dexterity issues, and a sign language option for customers to use when verifying their identity.
+* A firm providing appliance insurance took additional steps for customers in exceptional circumstances. For example, they provided mini fridges temporarily to customers who needed it for their medication.
+* A firm also created a version of a supplementary debit card that was limited to a specific pot of money. This allowed caregivers to purchase essentials for their dependents without needing them to hand over their original card and PIN, reducing the risk of abuse.
+
+Some larger firms had introduced an ‘inclusive design panel’ to seek assurance that their customer journey was accessible. The panel allowed them to draw on customers’ and charitable organisations’ experiences to shape the design of their products or services and customer journeys. For example, one panel fed back that customers using a firm’s app were unclear about which account was their current offering and what the key differences were with other accounts. The firm then made changes to clarify those points.
+
+‘Inclusive design’ is not, though, typically limited to customers in vulnerable circumstances. It is focused on improving outcomes for all customer groups. Where panels are used, firms should be able to assure themselves that they are representative of their customer base, and are not treated as a ‘tick-box’ exercise that fails to seriously challenge product and service design.
+
+##### Smaller firms
+
+Some smaller firms may lack the resources to conduct extensive research with prospective customers. But we saw some smaller firms recording customer data and making good use of it to understand the needs, characteristics and objectives of their target market. For instance, one smaller firm supplemented their customer feedback and complaints with intelligence from their experienced frontline staff. This firm drew on their staff’s knowledge of their customer base, and – since they had fewer layers between those staff members and senior management – shared that feedback directly with senior management to provide assurance or challenge over the appropriateness of the target market. This enabled them to insert a sense of their customers’ lived experience into their MI, without using customer panels.
+
+### Areas for improvement
+
+#### Granularity of target markets
+
+Some firms gave simplistic or generic target market explanations that were not appropriate for the product or service in question. This suggested a lack of understanding of prospective customers’ needs, or insufficient assurance that the target market aligned with the product or service’s risk profile. For instance, some firms selling higher-risk products or services articulated the risks associated with them but did not explain why their target market was appropriate in light of those risks. Firms are required, in line with PRIN 2A.3.4R(1), to define a target market at an appropriately granular level considering the risk profile of the product or service.
+
+#### Focus on identifying customers in vulnerable circumstances
+
+Some firms, when asked to explain how they adapted products and services to meet the needs of customers in vulnerable circumstances, focused instead on their processes to identify those customers. For example, one firm emphasised its use of ‘vulnerable customer flags’, while another firm focused on identifying vulnerabilities and signposting the customers to third parties with the customer’s consent. These are encouraging steps, but firms should also consider how – once additional needs have been identified - they can meet those needs.
+
+## 5. Monitoring and review
+
+### Requirements
+
+Monitoring customer outcomes is a key part of the Duty. PRIN 2A.9.8R requires firms to regularly monitor the outcomes that retail customers receive from: the products the firm manufactures or distributes; the firm’s communications with those customers; and the support the firm provides to those customers.
+
+Firms must also, per PRIN 2A.3.7R, review their products regularly to make sure they continue to meet the needs, characteristics and objectives of the target market.
+
+Under PRIN 2A.3.8R, firms must take appropriate action if they identify any circumstances related to the product that may adversely affect retail customers.
+
+### Good practice
+
+#### Outcome-focused, customer-centric management information
+
+Many firms have improved the data they capture to help monitor customer outcomes. Almost all firms captured customer views as a baseline. This was usually through some combination of complaints and root cause analysis, feedback from customers and colleagues, and query trends. Some firms then collated these into ‘Voice of the Customer’ (or similarly named) dashboards that aided product governance with clear insights into customer trends.
+
+Many firms had enhanced their MI by also capturing trends in customer behaviour as potential indicators of poor outcomes. For instance, some firms were monitoring product usage (and reminding customers of the benefits available to them if they were not using them). Other firms were monitoring trends such as spikes in early cancellations of products, which may indicate that customers did not understand the product they were purchasing at the point of onboarding.
+
+##### Smaller firms
+
+Although dedicated outcome-testing teams usually only existed in larger firms, some smaller firms effectively collated a range of data to understand outcomes. For instance, one firm combined its operational MI (eg on service delivery) with data on outcomes experienced by customers following the use of their service. This helped the firm to assure itself of the end-outcome that the customer received (rather than just whether the firm had delivered the right service during the customer interaction).
+
+#### Making changes in response to identified issues
+
+We saw firms’ ongoing monitoring of their products and services result in a number of interventions aiming to improve outcomes. Examples included:
+
+* A firm, through product monitoring, identified that some customers were paying a subscription for accounts, but were not using them. The firm introduced reminder communications to customers. This resulted in an uptick in customer usage and product cancellations.
+* A firm identified through product monitoring that the weighted average life of their home loans was under 5 years, despite the product’s fixed-rate period being beyond that. So, the firm introduced shorter fixed-rate loans in response, then observed that the average weighted life of the loan was more in line with the fixed-rate period.
+* A firm performed a deep dive into complaints and identified that, although complaint volumes had fallen, there was a significant number of complaints with a root cause of ‘delay in processing’. The firm then introduced an operational service-level agreement (SLA) stabilisation process with its service provider to improve their efficiency. This resulted in a reduction in complaints of that type.
+* A firm identified that customers were often confused by unclear merchant names in their transaction feed, leading to anxiety about fraud. As a result, the firm adopted a new data tool that instantly translated data into recognisable merchant names and logos. The firm then observed fewer clicks into the transaction details, and a significant drop-off in queries about unrecognised transactions.
+* A firm identified from customer feedback and complaints that some customers were confused by ATM withdrawal limits. As a result, the firm introduced clearer and more prominent information in their app. They also introduced new training for customer support teams to make sure they understood the withdrawal limit rules, too. The firm saw a 45% reduction in complaints relating to ATM withdrawals in the following 3 months.
+* A firm identified from client feedback that their customers wanted more help picking investments. As a result, they introduced ‘ready-made investment’ products.
+
+### Areas for improvement
+
+#### Limitations in monitoring
+
+Many firms tracked defined outcome metrics through both routine and risk-driven reviews. But some firms appeared not to use MI to trigger targeted, risk-driven reviews when potential issues emerged in relation to customer outcomes. Firms are required to act in good faith and take appropriate action on potential harm identified in their MI. The level of monitoring and action it is reasonable for firms to undertake will likely vary. This will depend on factors like the firm’s role, the nature of the product and the characteristics of their customers.
+
+##### Smaller firms
+
+We saw a smaller firm appearing to rely almost entirely on complaint volumes as an indicator of customer outcomes. While complaints data can be a valuable source of insight, firms should develop MI that goes beyond complaints data to gain better insight and assurance on customer outcomes. In this instance, the reliance on complaints risked the firm having limited visibility of potential issues that may not have resulted in complaints but may have still led to poor outcomes for consumers.
+
+Firms should use their judgement to identify relevant sources of data to give them the insights they need to assess whether they are delivering good outcomes.
+
+#### Validating the impact of product or service changes
+
+We saw several instances of meaningful changes to products and services or customer journeys (as set out above). But at times firms appeared not to have validated the impact of their actions.
+
+For example, one firm introduced a ‘self-serve’ option for rearranging loan repayment dates and amounts, based on customer feedback and competitor research. However, it was not clear what the quantifiable impact of this change was in terms of customer outcomes, besides a sense – expressed by the firm – that it was popular with customers and staff (as well as an unexpected rise in customers identifying as being in vulnerable circumstances). So it was unclear, based on their analysis, whether the intervention had improved customer outcomes.
+
+Another firm also sought to improve their customer communications by incorporating key information into a clearer and more concise format, after identifying that customers needed easier access to that information. However, it was not clear from the firm’s analysis of this change how they had validated that it had improved customer outcomes.
+
+## 6. Distribution and third parties
+
+### Requirements
+
+Manufacturers must ensure (under PRIN 2A.3.4R(5) and (6)) that their intended product distribution strategy is appropriate for the target market. They must also take all reasonable steps to ensure their products are distributed to the target market. They are required (under PRIN 2A.3.12R) to select distribution channels that are appropriate for the target market. They must also provide each distributor with adequate information in good time to enable them to comply with the relevant rules.
+
+Distributors are required (under PRIN 2A.3.14R) to maintain, operate and review product distribution arrangements that avoid causing and, where that is not practical, mitigate foreseeable harm, and to make sure the needs, characteristics and objectives of the target market are taken into account. Distributors must (under PRIN 2A.3.19R) regularly review their distribution arrangements to make sure they are still appropriate and up-to-date. They must also verify – as part of the review – that they are only distributing each product to the identified target market. Where they identify harm, the distributor must (under PRIN 2A.3.20R(2)) take appropriate action to mitigate the situation and prevent further harm.
+
+We have recently [published a joint statement](/publications/corporate-documents/joint-fca-and-ico-statement-regulatory-expectations-regarding-firms "Joint FCA and ICO statement on regulatory expectations regarding firms’ approaches to vulnerability related data"), alongside the ICO, on vulnerability-related data. This includes guidance on sharing data across distribution chains which firms may wish to consult.
+
+Firms should also consult CP26/23, to see our proposals in relation to allocation of responsibilities across distribution chains.
+
+### Good practice
+
+#### Tailoring distribution strategy to profile of target market
+
+We saw several examples of firms identifying different customer needs within their target market, and tailoring their distribution strategy accordingly.
+
+Many firms did this for customers in vulnerable circumstances within their target market. Often, this was based on accessibility considerations. Many firms sought to make sure their digital customer journeys were accessible or alternatively that telephony could be used. Some firms, for instance, had exempted certain customers in vulnerable circumstances from telephony charges, where those customers had additional needs that would have made using digital channels challenging (or not possible). Similarly, another firm allowed staff to waive administration fees for adjusting an insurance policy by phone if a customer would have struggled to do so via their online account due to additional support needs.
+
+Another firm identified that, by requiring customers to be present in-person to make an insurance claim and have their protected items replaced, customers with mobility issues may have struggled to claim on the policy. So the firm introduced an alternative telephony option and instead provided a voucher for those customers to claim their replacement item.
+
+Several firms also adapted their distribution strategy based on the complexity of the product or service. For instance, one firm mandated that a staff member call a customer if they were making a savings account withdrawal that would reduce their interest rate (as it would have exceeded the permitted withdrawals for that rate). This enabled the firm to confirm that the customer was aware of the associated risks and was not inadvertently receiving a poor outcome.
+
+#### Structured engagement with distributors
+
+Positively, many firms had established clear structures for engagement with distributors. For instance, one firm had clear arrangements with a distributor of one of its products, where the distributor periodically submitted MI for review in relevant governance forums. The distributor also provided complaints data on a weekly basis, and the manufacturer could request other Consumer Duty-related compliance documents (such as their value assessment) as needed.
+
+Another firm’s distributor engagement enabled them to identify an instance of a distributor making false guarantees about the benefits associated with their loans. As a result, the distributor introduced a remediation plan and changed their code of conduct. This led to improved consumer understanding and reduced mis-selling risk.
+
+The investment management sector has also collectively developed a Distributor Feedback Template (DFT) to aid reporting arrangements within distribution chains.
+
+##### Smaller firms
+
+A smaller firm adopted a pragmatic approach to working with its distributors. The firm established clear data-sharing expectations, setting out the type of information they required from third parties to understand if their activities continue to support good customer outcomes, the standards the information should meet, and how it should be shared. This allowed the product manufacturer to assure itself that it would feasibly be able to identify if it needed to take action to address any issues or harms that might arise relevant to its role, in line with its Consumer Duty obligations.
+
+#### Intervening on out-of-target market distribution
+
+Both manufacturer-distributors and sole distributors frequently demonstrated effective processes for identifying and remedying where they had distributed products or services to customers outside of their target market. For instance, one firm operated an end-to-end process for doing so, conducting root cause analyses to understand the underlying issue. Remedial actions (which could include enhanced oversight of third-parties, improved customer disclosures, or updated guidance for internal support teams) were then tracked through MI and feedback channels to validate their effectiveness.
+
+We also saw the following examples of out-of-target market distribution being remedied:
+
+* A firm identified that a referral scheme had resulted in the acquisition of customers who were then not using their account. They ceased the scheme. They then adapted and relaunched it to make it more focused on active usage of the product. This resulted in the acquisition of more engaged customers who – since they were actively using and benefiting from the product – were more likely to be in their target market.
+* A firm identified, through distributor feedback data, that one of its investment funds had been sold to some customers who were not in the target market. The firm engaged with its wider distributor network to assess the scale of the issue. They determined that some distributors had misunderstood their target market description. As a result, the firm clarified their target market and distribution strategy, and then identified no further out-of-target market sales.
+
+##### Smaller firms
+
+A small firm identified, through a routine review of its distribution channels, that some individuals whose situation did not yet trigger a requirement to consider tailored support (because their debt was not yet unmanageable) were self-referring for this service via their website. As a result, the firm reminded its debt advisors of how to approach these situations, made updates to online content, and embedded other improvements to prevent recurrence. The firm saw fewer of these customers self-referring.
+
+Another smaller firm noted, based on feedback from its frontline staff, that it was receiving large numbers of queries for business loans, a product which they did not offer. The firm identified that many of these customers were coming via their online advertisements. As a result, they made the language used in their advertisements clearer. The firm saw a significant reduction in numbers of queries related to business loans.
+
+### Areas for improvement
+
+#### Limited evidence to justify choice of distribution strategy
+
+We also saw many firms providing limited rationales for their distribution strategies. Some firms had given overly generic explanations of their distribution strategies. For example, by treating the strategy itself as self-explanatory or giving limited explanation as to why it was suitable for different customer groups. Other firms, meanwhile, had explained how they performed due diligence of third-party distributors to make sure they met legal and regulatory requirements. However, they did not then fully explain how they were assured that the distribution channels used by those firms were appropriate for the target market. Firms are only responsible for ensuring compliance in respect of their own role and activities, and are not expected or required to oversee the compliance of other firms in their distribution chain, unless other regulation or contracts require this.
+
+#### Measuring impact of changes to distribution strategy
+
+Many firms who had identified instances of products or services being distributed to customers outside the target market, had identified whether the manufacturer or distributor (or both) needed to make changes based on a root cause analysis. They then took action to attempt to rectify the issue. However, in some cases it was not clear how the firm had measured the impact of their interventions. Performing this evaluation could have helped firms validate that their interventions were effective. We encourage firms to measure and quantify the impact of adaptations made to their distribution strategy, to assure themselves that they are having a positive effect on customer outcomes.

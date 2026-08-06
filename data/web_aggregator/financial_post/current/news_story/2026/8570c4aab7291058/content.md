@@ -1,0 +1,7 @@
+# Philippine Bond Slump to Extend on Inflation Worry, Analysts Say
+
+Philippine sovereign debt faces prolonged pressure, analysts say, as sticky inflation keeps the central bank hawkish, extending a slump that made the bonds Southeast Asia’s worst performer last month.
+
+[Read the full story at the source](https://financialpost.com/pmn/business-pmn/philippine-bond-slump-to-extend-on-inflation-worry-analysts-say)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

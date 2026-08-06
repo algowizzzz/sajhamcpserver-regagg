@@ -1,0 +1,78 @@
+# FINTRAC publications
+
+This page lists all publications from the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC).
+
+## On this page
+
+* [Publications for businesses](#s1)
+* [Strategic intelligence publications](#s3)
+* [Information for the public](#s4)
+* [Corporate reports](#s5)
+* [Forms](#s6)
+* [Multimedia](#s7)
+
+## Publications for businesses
+
+* [FINTRAC’s supervisory framework](/introduction/cpf/cpf-eng)
+* [Notices to reporting entities](/notices-avis/notices-avis-eng)
+* [All FINTRAC guidance](/guidance-directives/guidance-directives-eng)
+* [FINTRAC interpretation notices](/guidance-directives/overview-apercu/fins/1-eng)
+* [Policy interpretation database](/guidance-directives/overview-apercu/pi/pi-eng)
+* [FINTRAC Assessment manual](/guidance-directives/exam-examen/cam/cams-eng)
+* [Harm done assessment guides](/pen/1-eng)
+* [Videos: learning resources](/training-formation/training-formation-eng)
+
+## Strategic intelligence publications
+
+* [Operational alerts](/intel/sintel-eng?type=alert#s1)
+* [Sectoral and geographic advisories](/intel/sintel-eng?type=advisory#s1)
+* [Operational briefs](/intel/sintel-eng?type=brief#s1)
+* [Special bulletins](/intel/sintel-eng?type=bulletin#s1)
+* [Assessments](/intel/sintel-eng?type=Assessment#s1)
+
+## Information for the public
+
+* [The Proceeds of Crime (Money Laundering) and Terrorist Financing Act and client identity verification](/individuals-individus/05-2003/3-eng)
+* [Frequently asked questions about domestic politically exposed persons and heads of international organizations](/individuals-individus/faq-pep-eng)
+
+## Corporate reports
+
+* [Annual report](/publications/ar/2025/1-eng)
+* [Departmental results reports](/publications/drr-rrm-eng)
+* [Departmental plans](/publications/dp-eng)
+* [Quarterly financial reports](/publications/qfr-rft-eng)
+* [Core control audit](/publications/audit-verification/core-base-eng)
+* [Annual report on the administration of the Access to Information Act](/atip-aiprp/ar/2025-ai-eng)
+* [Annual report on the administration of the Privacy Act](/atip-aiprp/ar/2025-pa-pr-eng)
+* [Privy Council Office Orders in Council reports](/transp/pco-bcp-eng)
+* [Departmental sustainable development strategy](/publications/dsds-smdd-eng)
+* [Forced Labour in Canadian Supply Chains](/publications/fl-tf/fl-tf-eng)
+
+## Forms
+
+* [Reporting forms](/reporting-declaration/form/form-eng)
+* [Form to make representations to the Director](/raa-rea/1-eng)
+
+## Multimedia
+
+* [The Case video](/intel/case-eng)
+* [Video – Your role in fighting money laundering and terrorist financing video](/training-formation/role/role-eng)
+* [Video – Sectoral and Geographic Advisory: Underground banking through unregistered money services businesses](/intel/advisories-avis/bank-video-eng)
+* [Video – Mortgage sector: Compliance program requirements](/training-formation/mortgage-hypotheque/video-eng)
+* [Video – Mortgage Sector: Suspicious Transaction Reports](/training-formation/mortgage-hypotheque/video2-eng)
+* [Video – Mortgage Sector: Scenarios](/training-formation/mortgage-hypotheque/video3-eng)
+* [Video 1 – The importance of suspicious transaction reports](/training-formation/str-dod/video1-eng)
+* [Video 2 – Understanding reasonable grounds to suspect](/training-formation/str-dod/video2-eng)
+* [Video 3 – What to consider when submitting a suspicious transaction report](/training-formation/str-dod/video3-eng)
+* [Video 1 – Verifying the identity of a client: Government-issued photo ID method](/training-formation/id/id-eng)
+* [Video 2 – Verifying the identity of a client: Credit file method](/training-formation/id/id2-eng)
+* [Video 3 – Verifying the identity of a client: Dual-process method](/training-formation/id/id3-eng)
+* [Video 4 – Verifying the identity of a client: Affiliate or member method](/training-formation/id/id4-eng)
+* [Video 5 – Verifying the identity of a client: Reliance method](/training-formation/id/id5-eng)
+* [Video 6 – Verifying the identity of an entity](/training-formation/id/id6-eng)
+* [Webinar recording – Sanctions evasion, property reporting and the fight against illegal fentanyl financing](/training-formation/sanctions/video-eng)
+* [Video – FINTRAC: An introduction for reporting entities](/training-formation/about-apropos/video-eng)
+* [Beneficial ownership: Understanding your requirements](/training-formation/web/beneficial-beneficiaire-eng)
+
+Date Modified:
+:   2026-02-25

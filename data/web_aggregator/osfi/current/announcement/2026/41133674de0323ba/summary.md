@@ -1,0 +1,1 @@
+Summary: # Émission d’actions en contrepartie d’un bien

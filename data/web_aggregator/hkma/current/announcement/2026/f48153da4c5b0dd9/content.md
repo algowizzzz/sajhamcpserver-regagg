@@ -1,0 +1,67 @@
+[Skip to main content](#skip-to-content "Skip to main content")
+
+[Home](/eng "Home")
+/ [Regulatory Resources](/eng/regulatory-resources/ "Regulatory Resources") / [Regulatory Documents](/eng/regulatory-resources/regulatory-guides/ "Regulatory Documents") / [Stored Value Facilities and Retail Payment Systems](/eng/regulatory-resources/regulatory-guides/svf-and-rps/ "Stored Value Facilities and Retail Payment Systems<style> .left-menu {   display: none; } table td:nth-child(4),  table th:nth-child(4) {   display: none; } </style>")
+
+* [By Subject (Current)](/eng/regulatory-resources/regulatory-guides/by-subject-current/ "By Subject (Current)")
+* [Supervisory Policy Manual](/eng/regulatory-resources/regulatory-guides/supervisory-policy-manual/ "Supervisory Policy Manual")
+* [Guidelines](/eng/regulatory-resources/regulatory-guides/guidelines/ "Guidelines")
+* [Circulars](/eng/regulatory-resources/regulatory-guides/circulars/ "Circulars")
+* [Guide to Authorization](/eng/regulatory-resources/regulatory-guides/guide-to-authorization/ "Guide to Authorization")
+* [Code of Practice](/eng/regulatory-resources/regulatory-guides/code-of-practice/ "Code of Practice")
+* [Explanatory Note](/eng/regulatory-resources/regulatory-guides/explanatory-note/ "Explanatory Note")
+* [Practice Note](/eng/regulatory-resources/regulatory-guides/practice-note/ "Practice Note")
+* [Additional Guidance](/eng/regulatory-resources/regulatory-guides/additional-guidance/ "Additional Guidance")
+
+# Stored Value Facilities and Retail Payment Systems
+
+* Open Consultations
+
+  | Title | Issue Date | Close Date |
+  | --- | --- | --- |
+
+  No more result.
+
+* Closed Consultations
+
+  | Title | Issue Date |
+  | --- | --- |
+  | [Consultation on the proposed regulatory regime for stored value facilities and retail payment systems begins](/eng/news-and-media/press-releases/2013/05/20130522-3 "Consultation on the proposed regulatory regime for stored value facilities and retail payment systems begins") | 22 May 2013 |
+  | [Consultation conclusions for proposed regulatory regime for stored value facilities and retail payment systems in HK released](/eng/news-and-media/press-releases/2014/10/20141031-4 "Consultation conclusions for proposed regulatory regime for stored value facilities and retail payment systems in HK released") |  |
+
+### Regulatory Documents
+
+**Note:**
+
+1. **Type of Regulatory Documents:**  
+   CIR = Circular, GLN = Guideline, COP = Code of Practice, EN = Explanatory Note, PN = Practice Note, AG = Additional Guidance
+
+| Type | Title | Issue Date | Ref |
+| --- | --- | --- | --- |
+| COP | [Issuance of Code of Practice pursuant to the Protection of Critical Infrastructures (Computer Systems) Ordinance for Stored Value Facility Licensees designated by the Monetary Authority as Critical Infrastructure Operators (PDF File, 59.7 KB)](/media/eng/doc/key-functions/financial-infrastructure/Sectoral_CoP_for_SVF_Licensees_Notice_en_20260612.pdf "Issuance of Code of Practice pursuant to the Protection of Critical Infrastructures (Computer Systems) Ordinance for Stored Value Facility Licensees designated by the Monetary Authority as Critical Infrastructure Operators") | 12 Jun 2026 |  |
+|  | [Encl. Code of Practice pursuant to the Protection of Critical Infrastructures (Computer Systems) Ordinance for Stored Value Facility Licensees designated by the Monetary Authority as Critical Infrastructure Operators (PDF File, 316.1 KB)](/media/eng/doc/key-functions/financial-infrastructure/Sectoral_CoP_for_SVF_Licensees_20260612.pdf) |  |  |
+|  | [Annex : Templates for notifications required under category 1 and category 2 obligations (Word File, 41.3 KB)](/media/eng/doc/key-functions/financial-infrastructure/Annex_Templates_for_notifications.docx) |  |  |
+| CIR | [Guidance on risk-based AML/CFT controls for politically exposed persons](https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20251118-4-EN/20251118-4-EN.pdf "Guidance on risk-based AML/CFT controls for politically exposed persons")  Encl. [Smart tips on the treatment of politically exposed persons](https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20251120-6-EN/20251120-6-EN.pdf) | 21 Nov 2025 |  |
+| PN | [Practice Note on Supervision of Stored Value Facility Licensees (PDF File, 594.9 KB)](/media/eng/doc/key-functions/financial-infrastructure/PN_on_supervision_of_SVF_licensees_eng.pdf "Practice Note on Supervision of Stored Value Facility Licensees") | Oct 2025 |  |
+| CIR | [Measures to combat authorized payment scams (PDF File, 118.1 KB)](/media/eng/doc/key-information/guidelines-and-circular/2025/20250411e1.pdf "Measures to combat authorized payment scams") | 11 Apr 2025 |  |
+| CIR | [Statements issued by the Financial Action Task Force (PDF File, 183.7 KB)](/media/eng/doc/key-information/guidelines-and-circular/2024/20241112e1.pdf "Statements issued by the Financial Action Task Force") | 12 Nov 2024 |  |
+| CIR | [Statements issued by the Financial Action Task Force (For SVF Licensees) (PDF File, 182.6 KB)](/media/eng/doc/key-information/guidelines-and-circular/2024/20240711e2.pdf "Statements issued by the Financial Action Task Force (For SVF Licensees)") | 11 Jul 2024 |  |
+| CIR | [Thematic Review of Transaction Monitoring Systems and Use of Artificial Intelligence (For SVF Licensees) (PDF File, 121.4 KB)](/media/eng/doc/key-information/guidelines-and-circular/2024/20240417e2.pdf "Thematic Review of Transaction Monitoring Systems and Use of Artificial Intelligence (For SVF Licensees)") Encl. [Insights for design implementation and optimisation of Transaction Monitoring Systems (PDF File, 3.1 MB)](/media/eng/doc/key-information/guidelines-and-circular/2024/20240417e2a1.pdf) | 17 Apr 2024 |  |
+| CIR | [Statements issued by the Financial Action Task Force (For SVF Licensees) (PDF File, 181.5 KB)](/media/eng/doc/key-information/guidelines-and-circular/2024/20240305e2.pdf "Statements issued by the Financial Action Task Force (For SVF Licensees)") | 05 Mar 2024 |  |
+| CIR | [AML/CFT Surveillance Capability Enhancement Project (For SVF Licensees) (PDF File, 136.2 KB)](/media/eng/doc/key-information/guidelines-and-circular/2024/20240207e2.pdf "AML/CFT Surveillance Capability Enhancement Project (For SVF Licensees)") Encl. [The Digitalisation of AML / CFT Supervision: Where Now and What Next? (PDF File, 2.3 MB)](/media/eng/doc/key-information/guidelines-and-circular/2024/20240207e2a1.pdf) | 07 Feb 2024 |  |
+| CIR | [Statements issued by the Financial Action Task Force (For SVF Licensees) (PDF File, 184.0 KB)](/media/eng/doc/key-information/guidelines-and-circular/2023/20231107e2.pdf "Statements issued by the Financial Action Task Force (For SVF Licensees)") | 07 Nov 2023 |  |
+
+Number of Items
+
+10 Items
+50 Items
+100 Items
+All Items
+
+Done
+
+Load More Stored Value Facilities and Retail Payment Systems
+
+No more result.
+
+Last revision date : 12 June 2026

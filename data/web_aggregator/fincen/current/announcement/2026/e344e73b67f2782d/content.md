@@ -1,0 +1,33 @@
+# Exceptive Relief for Casinos from Certain Customer Identity Verification Requirements
+
+[Casino Exceptive Relief 101921.pdf](/system/files/administrative_ruling/2021-10-19/Casino%20Exceptive%20Relief%20101921.pdf "Casino Exceptive Relief 101921.pdf")
+(372.61 KB)
+
+FIN-2021-R001
+
+Exceptive Relief for Casinos from Certain Customer Identity Verification Requirements
+
+Issued Date
+
+October 19, 2021
+
+Financial Institution
+
+Casinos
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

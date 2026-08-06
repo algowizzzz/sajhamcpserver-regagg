@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en" dir="ltr" class="no-js"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" dir="ltr" class="no-js">
+<!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="I. Introduction This implementation note elaborates on the data management requirements for institutionsBanks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. adopting the internal ratings-based (IRB) approach as outlined in OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1, Chapter 5." />
+<link rel="canonical" href="https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-irb-institutions" />
+<meta name="generator" content="OSFI_BSIF_WCMS" />
+<meta name="dcterms.title" content="Data Maintenance at IRB Institutions" />
+<meta name="dcterms.creator" content="Office of the Superintendent of Financial Institutions" />
+<meta name="dcterms.description" content="I. Introduction This implementation note elaborates on the data management requirements for institutionsBanks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. adopting the internal ratings-based (IRB) approach as outlined in OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1, Chapter 5." />
+<meta name="dcterms.language" content="eng" title="ISO639-2/T" />
+<meta name="dcterms.issued" content="2023-06-27" title="W3CDTF" />
+<meta name="dcterms.modified" content="2024-01-30" title="W3CDTF" />
+<meta name="dcterms.accessRights" content="2" />
+<meta name="dcterms.service" content="OSFI-BSIF_BSIF-OSFI" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<noscript><link rel="stylesheet" href="/libraries/wet-boew/css/noscript.min.css" />
+</noscript><script src="//assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-f7c3e6060667.min.js" type="text/javascript" async></script>
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<style media="all and (max-width: 767px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_xs/public/2023-06/Guidance_Bannerop.jpg?itok=JA8PaQQr') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 768px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_sm/public/2023-06/Guidance_Bannerop.jpg?itok=GDDnM6s3') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 992px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_md/public/2023-06/Guidance_Bannerop.jpg?itok=p9DCOsuv') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 1200px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_lg/public/2023-06/Guidance_Bannerop.jpg?itok=x-G-dObz') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<link rel="icon" href="/themes/custom/osfi_wxt/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-irb-institutions" />
+<link rel="alternate" hreflang="fr" href="https://www.osfi-bsif.gc.ca/fr/consignes/repertoire-consignes/tenue-donnees-institutions-appliquant-lapproche-ni" />
+
+    <title>Data Maintenance at IRB Institutions - Office of the Superintendent of Financial Institutions</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_tif2toGo6pkzgjZQQoequ5MQ18_tOV3vJzuC5iPxW8Q.css?delta=0&amp;language=en&amp;theme=osfi_wxt&amp;include=eJx1UAmOwyAM_BCFJyEDLnEDGGGnaX9feqy2UnYln-ORL2hKgdXB29szj2oCxNUrT-nuK_YUuZm4YiLl4aklbBoKx9V9xYblTH6_qZt64iuOQQnFdBiQB_RFXBpbh2J_Ebu1voVCsmAychfFOgcLmivhLu5lbeW0FTQ7hueS7uMtXOB2ACPXzkJ6pGPBOle1CRWoiFXO-Y-uP7SKIpD_r3NX4iaH-uuPn8QHZhWdl7oDYuaTfKEwYNydLrPpKcfJegA4-aCQ" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css__2dOEwOCqcIpvSQ2Lm6TZtfrq1jws1EjKBOGO3ZrvNk.css?delta=1&amp;language=en&amp;theme=osfi_wxt&amp;include=eJx1UAmOwyAM_BCFJyEDLnEDGGGnaX9feqy2UnYln-ORL2hKgdXB29szj2oCxNUrT-nuK_YUuZm4YiLl4aklbBoKx9V9xYblTH6_qZt64iuOQQnFdBiQB_RFXBpbh2J_Ebu1voVCsmAychfFOgcLmivhLu5lbeW0FTQ7hueS7uMtXOB2ACPXzkJ6pGPBOle1CRWoiFXO-Y-uP7SKIpD_r3NX4iaH-uuPn8QHZhWdl7oDYuaTfKEwYNydLrPpKcfJegA4-aCQ" />
+
+    <script src="/modules/contrib/adobe_launch/js/adobe_launch_dtm_init.js?til2gg"></script>
+
+  </head>
+  <body class="lang-en node-390 path-node page-node-type-guidance has-glyphicons osfi-wxt theme-gcweb">
+    <nav>
+      <ul id="wb-tphp">
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-cont">
+            Skip to main content
+          </a>
+        </li>
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-info">
+            Skip to "About this site"
+          </a>
+        </li>
+      </ul>
+    </nav>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    <header class="navbar navbar-default" id="navbar">
+    <div id="wb-bnr" class="container-fluid padded-sm">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <img class="canada-signature" src="/libraries/theme-gcweb/assets/sig-blk-en.svg" alt="Government of Canada" height="30">
+        </div>
+        <div class="col-xs-12 col-sm-6 text-right">
+            <div class="region region-topbar">
+    
+<section id="block-osfi-wxt-customsearchblock" class="wb-srch block block-ngage-search block-ngage-search-block clearfix" data-block-plugin-id="ngage_search_block">
+  
+      <h2 class="wb-inv">Search</h2>
+    
+
+      <form action="/en/node/648" method="get" class="search-form form-inline" role="search">
+  <div class="form-item form-group">
+    <label for="wb-srch-q" class="sr-only">Enter your keywords</label>
+    <input type="search" placeholder="Search website" name="search-keys" id="wb-srch-q" class="search-input form-control" />
+  </div>
+  <button id="wb-srch-sub"><span class="sr-only">submit</span></button>
+</form>
+  </section>
+<section class="language-switcher-language-url wb-lng block block-wxt-library block-wxt-language-blocklanguage-interface clearfix" id="block-osfi-wxt-languageswitcher" data-block-plugin-id="wxt_language_block:language_interface">
+  
+      <h2 class="wb-inv">Language selection</h2>
+    
+
+      <ul class="links list-inline mrgn-bttm-0">                    <li><a href="/fr/consignes/repertoire-consignes/tenue-donnees-institutions-appliquant-lapproche-ni" class="language-link" lang="fr" hreflang="fr" data-drupal-link-system-path="node/390"><span class="hidden-xs">Français</span><abbr title="Français" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">fr</abbr></a></li></ul>
+  </section>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+      <div class="region region-branding container-fluid">
+    <div class="row wb-eqht-grd grow">
+        <a class="main-site col-xs-12 col-sm-8 col-md-9 no-padding-x" href="/en" title="Home" rel="home">
+    <span class="logo col-sm-2 padded-sm hght-inhrt">
+      <img src="/themes/custom/osfi_wxt/logo.svg" alt="Home" />
+    </span>
+    <span class="name navbar-text padded-sm hght-inhrt col-sm-10">Office of the Superintendent of Financial Institutions</span>
+  </a>
+  <a class="cross-site-link navbar-btn col-sm-4 col-md-3 padded-sm hidden-xs" href="/en/oca" title="Office of the Chief Actuary">Office of the Chief Actuary</a>
+  
+    </div>
+  </div>
+
+
+    <div class="clearfix navbar-header visible-xs">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse">
+        Menu
+        <span class="icon-wrapper">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </span>
+      </button>
+    </div>
+    <div class="clearfix navbar-collapse collapse" id="navbar-collapse">
+        <nav aria-labelledby="block-osfi-wxt-main-menumainmenu" id="block-osfi-wxt-main-menu" data-block-plugin-id="system_menu_block:main">
+            <h2 class="sr-only hidden" id="block-osfi-wxt-main-menumainmenu">Main navigation</h2>
+
+      
+              <ul role="menu" class="nav navbar-nav">
+                            
+              <li role="presentation">
+        <a href="/en/risks" role="menuitem" title="Risks" data-drupal-link-system-path="node/750">Risks</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/guidance" role="menuitem" title="Guidance" data-drupal-link-system-path="node/379">Guidance</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/supervision" role="menuitem" title="Supervision" data-drupal-link-system-path="node/217">Supervision</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/consultations" role="menuitem" title="Consultations" data-drupal-link-system-path="node/223">Consultations</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/data-forms" role="menuitem" title="Data and forms" data-drupal-link-system-path="node/752">Data and forms</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/careers" role="menuitem" title="Careers" data-drupal-link-system-path="node/209">Careers</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      <a class="cross-site-link navbar-btn padded-sm visible-xs" href="/en/oca" title="Office of the Chief Actuary">Office of the Chief Actuary</a>
+    </div>
+  </header>
+
+  <div class="region region-banner clearfix">
+    
+<div class="views-element-container block block-views block-views-blocksite-section-block-1 clearfix" id="block-views-block-site-section-block-1" data-block-plugin-id="views_block:site_section-block_1">
+  
+    
+
+      <div class="form-group"><div class="bg-img parallax view view-site-section view-id-site_section view-display-id-block_1 js-view-dom-id-789b427cbc9e1e603c08846f0aa64f69bb1581496f1752de1f2ceb91019945d6" id="site_section-block_1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="site-section banner vertical-padding">
+    <div class="container">
+        <div class="row">
+            
+              <div class="col-xs-12">
+                <p class="h1">Guidance</p>
+              </div>
+            
+            
+            <div class="field field--name-field-image field--type-image field--label-hidden field--item"></div>
+      
+        </div>
+    </div>
+</div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+        <div class="region region-breadcrumb">
+            <nav id="wb-bc" property="breadcrumb" aria-labelledby="breadcrumbTitle">
+      <h2 id="breadcrumbTitle">You are here</h2>
+      <ol class="breadcrumb">
+                              <li >
+                              <a href="/en" title="Home">Home</a>
+                          </li>
+                      <li >
+                              <a href="/en/guidance" title="Guidance">Guidance</a>
+                          </li>
+                      <li >
+                              <a href="/en/guidance/guidance-library" title="Guidance library">Guidance library</a>
+                          </li>
+                      <li  class="active">
+                              Data Maintenance at IRB Institutions
+                          </li>
+                        </ol>
+    </nav>
+  
+
+  </div>
+
+  
+      <div class="highlighted clearfix"></div>
+  
+
+    <main property="mainContentOfPage"  class="full-width js-quickedit-main-content">
+
+                <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>  
+
+
+
+
+<article class="guidance full clearfix">
+
+
+      <div class="container">
+      
+      <h1 id="wb-cont" class="text-center clearfix">
+<span>Data Maintenance at IRB Institutions</span>
+</h1>
+      
+    </div>
+  
+      <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="wb-tabs ignore-session">
+            <div class="tabpanels">
+                    
+      
+        <details id="tab-information" open>
+          <summary>Information</summary>
+          <div class="info-grid wb-eqht-grd grow clearfix">
+            
+<div  class="info-left col-xs-12 col-sm-8">
+    
+  <div class="field field--name-field-publication-type field--type-entity-reference field--label-inline">
+    <div class="field--label">Publication type</div>
+              <div class="field--item">Implementation note</div>
+          </div>
+
+	<div class="field field--name-field-category field--type-entity-reference field--label-inline">
+		<div class="field--label">Category</div>
+									<div class="field--item">
+					Capital Adequacy Requirements				</div>
+							</div>
+
+  <div class="field field--name-field-date field--type-datetime field--label-inline">
+    <div class="field--label">Date</div>
+              <div class="field--item"><time datetime="2006-01-31T12:00:00Z">January 31, 2006</time>
+</div>
+          </div>
+
+  <div class="field field--name-field-audience field--type-entity-reference field--label-inline">
+    <div class="field--label">Sector</div>
+          <div class="field--items">
+              <div class="field--item">
+        Bank Holding Companies,       </div>
+          <div class="field--item">
+        Banks,       </div>
+          <div class="field--item">
+        Trust and Loan Companies      </div>
+              </div>
+      </div>
+
+      <div class="field field--name-field-custom-fields field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">
+      <div id="paragraph-984" class="paragraph paragraph--type--custom-fields paragraph--view-mode--default field field--label-inline">
+              <div class="field--label">No</div>
+        <div class="field--item">A-1</div>
+          </div>
+  
+</div>
+          </div>
+  
+  </div>
+
+            <div class="info-right col-xs-12 col-sm-4">
+                                                <div class="print__wrapper print__wrapper--pdf form-group"><a href="/en/print/pdf/node/390" class="print__link print__link--pdf">Generate PDF</a></div>
+
+                                          </div>
+          </div>
+        </details>
+
+        <details id="toc">
+          <summary>Table of contents</summary>
+        </details>
+
+      
+    
+              
+      
+    
+              
+      
+      
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="content">
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden container body-wrapper">
+    <div class="row">
+      <div class="col-xs-12"><h2>I. Introduction</h2>
+
+<p>This implementation note elaborates on the data management requirements for institutions<fn value="1">Banks and bank holding companies to which the <i>Bank Act</i> applies and federally regulated trust or loan companies to which the <i>Trust and Loan Companies Act</i> applies are collectively referred to as “institutions”. </fn> adopting the internal ratings-based (IRB) approach as outlined in OSFI’s <em>Capital Adequacy Requirements</em>&nbsp;(CAR) Guideline A-1, Chapter 5. All relevant and material quantitative and qualitative data used to assess and manage credit risk should be adequately maintained. Institutions will need to maintain comprehensive historical data across legal entities and geography. This data will include, but not be limited to, borrower information, credit transaction details, portfolio risk characteristics, ratings, rating migration, default, and collateral.</p>
+
+<p>Data management and timely execution of underlying information technology initiatives are major challenges that institutions need to address in order to successfully implement the IRB methodology under CAR. CAR outlines the scope and certain characteristics of data maintenance; however, there is limited description of expectations on the data maintenance (or generic “data management”) process itself.</p>
+
+<p>This note provides general guidance on data maintenance and principles for institutions to apply when establishing an enterprise-wide IRB framework. These principles are not intended to be prescriptive or limiting in any manner. Adherence to the broad principles outlined in this implementation note will be an important consideration in OSFI’s initial IRB approval and for monitoring ongoing compliance.</p>
+
+<p>The term “data maintenance” incorporates the key components of the data management process, including data collection, data processing, data access/retrieval and data storage/retention.</p>
+
+<h2>II. Data Maintenance Principles</h2>
+
+<h3>1. Senior Management and Oversight</h3>
+
+<p><em>Institutions seeking IRB approval should adopt an approach to managing their information technology initiatives and data management processes appropriate to the nature, scope and complexity of their data maintenance requirements.</em></p>
+
+<p>Institutions should have appropriate processes and procedures in place supported by effective Senior Management oversight to ensure successful completion of their programs related to IRB data maintenance for IRB approval and ongoing compliance with the IRB approach.</p>
+
+<p>In particular, institutions’ Senior Management should assess the scope, plans and risks associated with timely execution of data maintenance projects, and take effective measures to mitigate these risks. The accountabilities of Senior Management will include, but are not limited to:</p>
+
+<ol class="list-lower-alpha">
+	<li>
+	<p>Reviewing and approving organizational structure and functions to facilitate development of appropriate data architecture to support implementation of CAR;</p>
+	</li>
+	<li>
+	<p>Establishing an enterprise-wide data management framework defining, where appropriate, the institution’s policies, governance, technology, standards and processes to support the data collection, data maintenance, data controls and distribution of processed data, i.e., information;</p>
+	</li>
+	<li>
+	<p>Ensuring data maintenance processes provide security, integrity and auditability of the data from its inception through to its archival and/or logical destruction;</p>
+	</li>
+	<li>
+	<p>Instituting internal audit programs, as appropriate, to provide for periodic independent audits of data maintenance processes and functions; and</p>
+	</li>
+	<li>
+	<p>Ensuring the appropriate policies, procedures and accountabilities are in place to monitor the enterprise-wide observance of the data management framework, including ongoing updates to procedures and documentation, as necessary.</p>
+	</li>
+</ol>
+
+<h3>2. Data Collection</h3>
+
+<p><em>In the context of CAR, the data collection component (also referred to as data acquisition or data capture) would typically involve determining requisite data elements in various internal/external source systems, and their validation and extraction to appropriate operational data stores or data repositories.</em></p>
+
+<p>Institutions’ data collection processes should:</p>
+
+<ol class="list-lower-alpha">
+	<li>
+	<p>Establish clear and comprehensive documentation for data definition, collection and aggregation, including data mapping to source/aggregation routines, data schematics where necessary, and other identifiers, if any;</p>
+	</li>
+	<li>
+	<p>Establish standards for data accuracy, completeness, timeliness and reliability;</p>
+	</li>
+	<li>
+	<p>Ensure that data elements collected encompass the necessary scope, depth and reliability to substantiate rating definitions, rating assignment, rating refinement, risk parameters, overrides, back-testing and other processes, capital ratio computations, and relevant management and regulatory reporting;</p>
+	</li>
+	<li>
+	<p>Identify and document data gaps and, where applicable, document the manual or automated workarounds used to close data gaps and meet data requirements;</p>
+	</li>
+	<li>
+	<p>Establish standards, policies and procedures around the cleansing of data through reconciliation identifiers, field validation, reformatting, decomposing or use of consistent standards, as appropriate, and;</p>
+	</li>
+	<li>
+	<p>Establish procedures for identifying and reporting on data errors and data linkage breaks to source, downstream and/or external systems.</p>
+	</li>
+</ol>
+
+<h3>3. Data Processing</h3>
+
+<p><em>The data processing component covers a wide range of data management tasks, including its conversion through multiple systems (or manual) processes, transmissions, source/network authentication, validation, reconciliation, etc.</em></p>
+
+<p>Institutions’ data processing should:</p>
+
+<ol class="list-lower-alpha">
+	<li>
+	<p>Limit reliance on workarounds and manual data manipulation in order to mitigate the operational risk related to human error and dilution of data integrity;</p>
+	</li>
+	<li>
+	<p>Establish standards and data processing infrastructure for life-cycle tracking of credit data including, but not limited to, relevant history covering borrowers, obligors, credit facilities, transactions, repayments, rollovers, restructuring, and sale and error trails, as appropriate;</p>
+	</li>
+	<li>
+	<p>Ensure appropriate levels of front-end validation/data cleansing for each process and reconciliation to related processes as applicable, e.g., accounting and general ledger, line of business management information system;</p>
+	</li>
+	<li>
+	<p>Establish adequate controls to ensure processing by authorized staff acting within designated roles and established authorities;</p>
+	</li>
+	<li>
+	<p>Institute appropriate change control procedures for changes to the processing environment, including, where applicable, change initiation, authorization, program modifications, testing, parallel processing, sign-offs, release, library controls; and,</p>
+	</li>
+	<li>
+	<p>Provide appropriate levels of disaster back-up, process resumption and recovery capabilities to mitigate loss of data and/or data integrity.</p>
+	</li>
+</ol>
+
+<h3>4. Data Access/Retrieval</h3>
+
+<p><em>From OSFI’s supervisory perspective, a key component of data maintenance is the continued availability of institutions’ data and information for the purpose of IRB approval and ongoing monitoring of IRB compliance, such as back-testing, replication, historical or other trend analyses.</em></p>
+
+<p>Institutions should ensure that:</p>
+
+<ol class="list-lower-alpha">
+	<li>
+	<p>Data repositories and underlying extract, query and retrieval routines are designed and built to support the institutions’ own data requirements as well as ongoing needs for supervisory assessments of various data as appropriate, including credit portfolios, history, borrower/industry profiles, exposures, process quality, asset class analyses;</p>
+	</li>
+	<li>
+	<p>Access controls and data/information distribution are based on user roles/responsibilities and industry best practices in the context of effective segregation of duties, “need to know”, as validated by institutions’ internal compliance and audit functions; and</p>
+	</li>
+	<li>
+	<p>Access to data/information is not restricted in any arrangements where data maintenance is outsourced to external service provider(s). Notwithstanding these arrangements, institutions should be able to provide data/information at no additional cost.</p>
+	</li>
+</ol>
+
+<h3>5. Data Storage/Retention</h3>
+
+<p><em>The data storage/retention component of data maintenance addresses the dual expectations of electronic data retention and archival to meet the minimum historical retention criteria established under CAR, as well as the requirements of institutions and OSFI to ensure ongoing IRB compliance and credit risk management data/information calls.</em></p>
+
+<p>CAR requires institutions to use all relevant data in the development of IRB internal estimates. In order to support internal estimates and ensure that all relevant risks are considered, data may be needed for a long period of time. For corporate, sovereign and bank exposures, a minimum of five years of underlying history for PD<fn value="2">Probability of default (“PD”), loss given default (“LGD”) and exposure at default (“EAD”). </fn> estimates, and a minimum of seven years underlying history for LGD and EAD estimates should be maintained. For retail exposures, a minimum of five years of underlying history for PD, LGD and EAD estimates is required. On implementation, institutions may not be able to meet this standard, but they should have IRB data going back to at least October 31, 2004.</p>
+
+<p>In addition, institutions should:</p>
+
+<ol class="list-lower-alpha">
+	<li>
+	<p>Establish documented policies and procedures addressing storage, retention and archival, including, where applicable, the procedures for logical/physical deletion of data and destruction of data storage media and peripherals;</p>
+	</li>
+	<li>
+	<p>Maintain back-ups of relevant data files/stores and data bases in a manner that can facilitate ready availability of the data/information to meet information calls on IRB- compliance and ongoing supervisory assessments; and</p>
+	</li>
+	<li>
+	<p>Ensure that availability of electronic versions for all relevant and material data/information is in a machine-readable format and can be made accessible.</p>
+	</li>
+</ol>
+</div>
+    </div>
+  </div>
+
+    </div>
+  
+</article>
+
+
+  </div>
+
+    
+                        <div class="pagedetails region region-content-footer">
+    <div class="row">
+      
+<div id="block-osfi-wxt-reportproblemblock" class="col-xs-12 col-sm-6 block block-wxt-ext-webform block-report-problem-block clearfix" data-block-plugin-id="report_problem_block">
+  
+    
+
+      <details class="brdr-0">
+  <summary class="btn btn-default text-center"> Report a problem or mistake on this page</summary>
+  <div class="well row">
+    <div class="gc-rprt-prblm">
+      <span id="webform-submission-gcweb-report-a-problem-node-390-form-ajax-content"></span><div id="webform-submission-gcweb-report-a-problem-node-390-form-ajax" class="webform-ajax-form-wrapper" data-effect="none" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-gcweb-report-a-problem-form webform-submission-gcweb-report-a-problem-add-form webform-submission-gcweb-report-a-problem-node-390-form webform-submission-gcweb-report-a-problem-node-390-add-form js-webform-details-toggle webform-details-toggle antibot" novalidate="novalidate" data-drupal-selector="webform-submission-gcweb-report-a-problem-node-390-add-form" data-action="/en/guidance/guidance-library/data-maintenance-irb-institutions" action="/antibot" method="post" id="webform-submission-gcweb-report-a-problem-node-390-add-form" accept-charset="UTF-8">
+	
+	<noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<fieldset data-drupal-selector="edit-report-issue-types" class="checkboxes--wrapper fieldgroup form-composite webform-composite-visible-title required js-webform-type-checkboxes webform-type-checkboxes js-form-item form-item js-form-wrapper form-wrapper" id="edit-report-issue-types--wrapper">
+      <legend class="fieldset-legend js-form-required required">
+    <span>Please select all that apply:<strong class="required" aria-hidden="true"> (required)</strong></span>
+      </legend>
+  <div class="fieldset-wrapper">
+        
+        <div id="edit-report-issue-types" class="js-webform-checkboxes webform-options-display-one-column form-checkboxes"><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-a-link-button-or-video-is-not-working js-form-item-report-issue-types-a-link-button-or-video-is-not-working checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-a-link-button-or-video-is-not-working" class="control-label option"><input data-drupal-selector="edit-report-issue-types-a-link-button-or-video-is-not-working" class="form-checkbox" type="checkbox" id="edit-report-issue-types-a-link-button-or-video-is-not-working" name="report_issue_types[A link, button or video is not working]" value="A link, button or video is not working" />A link, button or video is not working</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-it-has-a-spelling-mistake js-form-item-report-issue-types-it-has-a-spelling-mistake checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-it-has-a-spelling-mistake" class="control-label option"><input data-drupal-selector="edit-report-issue-types-it-has-a-spelling-mistake" class="form-checkbox" type="checkbox" id="edit-report-issue-types-it-has-a-spelling-mistake" name="report_issue_types[It has a spelling mistake]" value="It has a spelling mistake" />It has a spelling mistake</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-missing js-form-item-report-issue-types-information-is-missing checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-missing" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-missing" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-missing" name="report_issue_types[Information is missing]" value="Information is missing" />Information is missing</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-outdated-or-wrong js-form-item-report-issue-types-information-is-outdated-or-wrong checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-outdated-or-wrong" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-outdated-or-wrong" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-outdated-or-wrong" name="report_issue_types[Information is outdated or wrong]" value="Information is outdated or wrong" />Information is outdated or wrong</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-i-cant-find-what-im-looking-for js-form-item-report-issue-types-i-cant-find-what-im-looking-for checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-i-cant-find-what-im-looking-for" class="control-label option"><input data-drupal-selector="edit-report-issue-types-i-cant-find-what-im-looking-for" class="form-checkbox" type="checkbox" id="edit-report-issue-types-i-cant-find-what-im-looking-for" name="report_issue_types[I can&#039;t find what I&#039;m looking for]" value="I can&#039;t find what I&#039;m looking for" />I can't find what I'm looking for</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-other-issue-not-in-this-list js-form-item-report-issue-types-other-issue-not-in-this-list checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-other-issue-not-in-this-list" class="control-label option"><input data-drupal-selector="edit-report-issue-types-other-issue-not-in-this-list" class="form-checkbox" type="checkbox" id="edit-report-issue-types-other-issue-not-in-this-list" name="report_issue_types[Other issue not in this list]" value="Other issue not in this list" />Other issue not in this list</label>
+  
+  
+
+  </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="form-item js-form-item form-type-textarea js-form-type-textarea form-item-additional-information js-form-item-additional-information form-group">
+    
+        <label for="edit-additional-information" class="control-label js-form-required required">    Additional information<strong class="required" aria-hidden="true"> (required)</strong>
+  </label>
+    
+  
+  <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-additional-information" class="form-textarea required form-control resize-vertical" id="edit-additional-information" name="additional_information" rows="5" cols="60" required="required" aria-required="true"></textarea>
+</div>
+
+
+  
+  
+
+  </div>
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" /><input data-drupal-selector="form-ph7tcswk4drr0nf0xyu6m9olrpy2zp8zcm5tnxirwhq" type="hidden" name="form_build_id" value="form-ph7TCsWK4dRr0nf0XYU6M9olRpy2ZP8zCm5tnxIrWhQ" /><input data-drupal-selector="edit-webform-submission-gcweb-report-a-problem-node-390-add-form" type="hidden" name="form_id" value="webform_submission_gcweb_report_a_problem_node_390_add_form" /><div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><input class="webform-button--submit button button--primary js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit" name="op" value="Submit"/>
+</div>
+<div class="url-textfield form-group js-form-wrapper form-wrapper" style="display: none !important;"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-url js-form-item-url form-group">
+    
+      <label for="edit-url" class="control-label">Leave this field blank</label>
+    
+  
+  <input autocomplete="off" data-drupal-selector="edit-url" class="form-text form-control" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" />
+
+  
+  
+
+  </div>
+</div>
+
+
+	
+</form>
+</div>
+    </div>
+   </div>
+</details>
+
+  </div>
+
+<div id="block-osfi-wxt-datemodifiedblock" class="col-xs-12 block block-wxt-library block-date-modified-block clearfix" data-block-plugin-id="date_modified_block">
+  
+    
+
+      <dl id="wb-dtmd">
+<dt>Date modified:</dt>
+<dd><time property="dateModified">2024-01-30</time></dd></dl>
+  </div>
+
+<div id="block-osfi-wxt-sharewidgetblock" class="pull-right col-xs-12 col-sm-4 block block-wxt-library block-share-widget-block clearfix" data-block-plugin-id="share_widget_block">
+  
+    
+
+      <div class="wb-share mrgn-bttm-sm pull-right" data-wb-share='{"filter":["blogger","diigo","email","facebook","gmail","linkedin","myspace","pinterest","reddit","tinyurl","tumblr","twitter","whatsapp","yahoomail"],"pnlId":"pnl1","lnkClass":"btn btn-default"}'></div>
+  </div>
+
+    </div>
+  </div>
+
+          
+  </main>
+
+
+
+            <footer id="wb-info">
+        <div class="container">
+          <div class="row">
+                        <div class="col-xs-12">
+                <div class="region region-footer">
+    
+<nav aria-labelledby="aboutThisSite" id="block-footer" data-block-plugin-id="menu_block:footer" class="wb-eqht-grd row">
+  
+  <h2 id="aboutThisSite">About this site</h2>
+  
+      
+                          <section class="col-xs-12 col-sm-4">
+        <h3>News</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/en/news?type=5" role="menuitem" title="News releases" data-drupal-link-query="{&quot;type&quot;:&quot;5&quot;}" data-drupal-link-system-path="node/23">News releases</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/news?type=4" role="menuitem" title="Speeches" data-drupal-link-query="{&quot;type&quot;:&quot;4&quot;}" data-drupal-link-system-path="node/23">Speeches</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/media-contacts" role="menuitem" title="Media relations" data-drupal-link-system-path="node/26">Media relations</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/news/speaking-engagements-0" role="menuitem" title="Speaking engagements" data-drupal-link-system-path="node/2976">Speaking engagements</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/en/scams-fraud" title="Scams and fraud" role="menuitem" data-drupal-link-system-path="node/1262">Scams and fraud</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>About us</h3>
+                                  <ul role="menu" class="nav menu">
+                                                  
+        <li role="presentation">
+        <a href="/en/about-osfi" title="Office of the Superintendent of Financial Institutions" role="menuitem" data-drupal-link-system-path="node/1291">OSFI</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/en/oca/about-office-chief-actuary" title="Office of the Chief Actuary" role="menuitem" data-drupal-link-system-path="node/1362">OCA</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>Stay connected</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/en/contact-us" role="menuitem" title="Contact us" data-drupal-link-system-path="node/1689">Contact us</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/contact-us/email-notifications" role="menuitem" title="Email notifications" data-drupal-link-system-path="node/1747">Email notifications</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://twitter.com/OSFICanada" role="menuitem" title="X (formerly Twitter)">X (formerly Twitter)</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.youtube.com/user/OSFIBSIF" role="menuitem" title="YouTube">YouTube</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.linkedin.com/company/office-of-the-superintendent-of-financial-institutions-of-canada" role="menuitem" title="LinkedIn">LinkedIn</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                
+
+
+  </nav>
+  </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 col-sm-9">
+                <div class="region region-footer-legal">
+    <nav role="navigation" aria-labelledby="block-legal-menu" id="block-legal" class="block-legal" data-block-plugin-id="menu_block:legal">
+      
+  <h2 id="block-legal-menu">Corporate</h2>
+  
+
+        
+              <ul role="menu" class="menu nav nav-pills legal">
+                                              
+        <li role="presentation">
+        <a href="https://canada.ca" role="menuitem" title="Canada.ca">Canada.ca</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/en/terms-conditions" role="menuitem" title="Terms and conditions" data-drupal-link-system-path="node/429">Terms and conditions</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/en/transparency" role="menuitem" title="Transparency" data-drupal-link-system-path="node/1399">Transparency</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/en/accessibility" role="menuitem" title="Accessibility" data-drupal-link-system-path="node/647">Accessibility</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+            </div>
+            <div class="col-xs-12 col-sm-3 canada-logo">
+              <img height="40" src='/libraries/theme-gcweb/assets/wmms-blk.svg' alt='Symbol of the Government of Canada' />
+            </div>
+          </div>
+        </div>
+      </footer>
+      
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"node\/390","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1kQFuwyAMRS9Ew5GQATfxQjDDpmlvP9YmaqasEsL28we-DET26BK0HCYLh8JAVvKsdovDletiPITZKfdV7CF3FDgbz6yiFXprz1yp6CiTHpqFC9-wHogyJ6ViwoyRlGs_ETGrTxxme8hN4Io21lYgDYFTgiL4gpQVa-7467thfbzcLqDTF9ytoLZiWK7k1rvasVGEHPBNdMIFLxIqFRVToMLYfU2yv_UmQ8ul-UQyYTTyEMWlD6K7uBGuYp_7sHBsCc2K_teG3eIA3csJBl4KC-lZjqmbyjqECcPs-Y7yURJRgZIMArfP9-wi5XH8x90uW1AExs99Lkqcz16eE98K9_7bEzF94C6Rr1Af2-DH0FV_-Ip68YzrD2wpB64","theme":"osfi_wxt","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/index%2ephp\/en\/guidance\/guidance-library\/data-maintenance-irb-institutions?ajax_form=1":true},"back_to_top":{"back_to_top_button_trigger":400,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":false,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image","back_to_top_button_text":"Top"},"mathjax":{"config_type":1,"config":{"tex2jax":{"inlineMath":[["$$$","$$$"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none"}},"bootstrap":{"forms_has_error_value_toggle":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover","modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click"},"antibot":{"forms":{"webform-submission-gcweb-report-a-problem-node-390-add-form":{"id":"webform-submission-gcweb-report-a-problem-node-390-add-form","key":"UPQB5ntJlvHZd64lpvo4xH5Mf92kB6Qmifd7xt3xIb4"}}},"ajax":{"edit-submit":{"callback":"::submitAjaxForm","event":"click","effect":"none","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/index%2ephp\/en\/guidance\/guidance-library\/data-maintenance-irb-institutions?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"info-left col-xs-12 col-sm-8","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"user":{"uid":0,"permissionsHash":"948b17b44e21fbbdf33d5fd143628912a823ca4231d0e9e94c73388fbb69dc9d"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.7"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.2"></script>
+<script src="/core/misc/debounce.js?v=10.6.2"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0"></script>
+<script src="/libraries/wet-boew/js/wet-boew.min.js?til2gg"></script>
+<script src="/modules/contrib/antibot/js/antibot.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/bootstrap-pre-init.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/alert.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/collapse.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/dropdown.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/modal.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/tooltip.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/popover.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/popover.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/tooltip.js?til2gg"></script>
+<script src="/core/misc/form.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/form.js?til2gg"></script>
+<script src="/core/misc/details-summarized-content.js?v=10.6.2"></script>
+<script src="/core/misc/details-aria.js?v=10.6.2"></script>
+<script src="/core/misc/details.js?v=10.6.2"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0"></script>
+<script src="/modules/contrib/mathjax/js/config.js?v=10.6.2"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/modules/contrib/mathjax/js/setup.js?v=10.6.2"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/drupal.wxt_bootstrap.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/guidance.behaviors.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/vendors/bootstrap/assets/javascripts/bootstrap/transition.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/scripts.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/adobe.analytics.footer.js?til2gg"></script>
+<script src="/core/misc/progress.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/progress.js?til2gg"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.6.2"></script>
+<script src="/core/misc/message.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/message.js?til2gg"></script>
+<script src="/core/misc/ajax.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/ajax.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.scroll.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.ajax.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.checkboxes.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.save.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.toggle.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.message.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.options.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.behaviors.js?v=10.6.2"></script>
+<script src="/core/misc/states.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/states.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.form.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/modules/webform_bootstrap/js/webform_bootstrap.states.js?v=10.6.2"></script>
+<script src="/libraries/theme-gcweb/js/theme.min.js?til2gg"></script>
+
+  </body>
+</html>

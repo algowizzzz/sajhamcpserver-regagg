@@ -1,0 +1,19 @@
+COPYRIGHT 2026 FINRA | QUESTIONS? CONTACT FINRACE@FINRA.ORG 
+ 
+ 
+ 
+Potential 2027 Regulatory Element Topics 
+As of June 22, 2026, the following topics are being considered by FINRA and the CE 
+Council for coverage in the 2027 Regulatory Element learning plan. These topics are 
+subject to change. FINRA and the CE Council will publish the 2027 Regulatory Element 
+learning plan topics by Oct. 1, 2026 on FINRA’s View a Regulatory Element Learning 
+Plan page. 
+Topics under consideration for the 2027 Regulatory Element learning plan: 
+Gifts 
+Regulation BI’s Care Obligation – Third Component 
+Communications Issues Relating to AI, Finﬂuencers and Social Media  
+Political Contributions and Prohibitions on Municipal Securities Business 
+Client Market Access Controls 
+Financial and Operational Market Access Controls  
+Private Placement Filings 
+Prepublication Review of Research Reports

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13691",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Notice of Proposals To Engage in or To Acquire Companies Engaged in Permissible Nonbanking Activities",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/07/2026-13691/notice-of-proposals-to-engage-in-or-to-acquire-companies-engaged-in-permissible-nonbanking",
+  "reference_number": "2026-13691",
+  "published_date": "2026-07-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ce151eec2b2d00813f9904a56cb1979403db9c609b271a7f8973a36bc0603355",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13691",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

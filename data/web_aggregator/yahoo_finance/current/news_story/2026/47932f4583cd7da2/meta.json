@@ -1,0 +1,25 @@
+{
+  "doc_id": "47932f4583cd7da2",
+  "regulator_id": "yahoo_finance",
+  "doc_type": "news_story",
+  "title": "US consumer watchdog supervisor warned staff of 'unpleasant' fallout if they go too hard on firms",
+  "language": "en",
+  "source_url": "https://finance.yahoo.com/economy/policy/articles/exclusive-us-consumer-watchdog-supervisor-101451547.html",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f0774d1e2b9348724afb8c793700ddbb6882f2822bd1c65e9fe39c4b7e396661",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_yahoo_finance_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/yahoo_finance/current/news_story/2026/47932f4583cd7da2",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://finance.yahoo.com/economy/policy/articles/exclusive-us-consumer-watchdog-supervisor-101451547.html",
+  "fetch_method": "feed_summary"
+}

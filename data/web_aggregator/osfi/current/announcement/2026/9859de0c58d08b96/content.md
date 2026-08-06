@@ -1,0 +1,560 @@
+# Prêts hypothécaires (E2)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé des prêts hypothécaires (E2)
+
+Dernière révision
+
+Novembre 2022
+
+Numéro de relevé
+
+E2
+
+**Ajout :**
+
+* Instructions sous Postes pour mémoire – Section D – 3 c) Amortissement, Autres
+
+## Relevés
+
+[E2 - Exemple de relevé (XLSX, 84,36 Ko)](/sites/default/files/import-media/data_and_forms/sample-return/2023-08/fr/E2_2021.xlsx "E2_2021.xlsx") [E2 - Modifications au relevé (ébauche) ( (XLSX, 84,66 Ko)](/sites/default/files/import-media/data_and_forms/return-changes/2023-08/fr/E2_dft_2021.xlsx "E2_dft_2021.xlsx") [E2 - Règles de validation (XLSX, 77,2 Ko)](/sites/default/files/documents/e2-validation-2025-11-05-fr.xlsx "e2-validation-2025-11-05-fr.xlsx") [Relevé des modifications](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-modifications-e2 "Relevé des modifications (E2)")
+
+## Objet
+
+Le présent relevé fournit au BSIF et à la Banque du Canada des données sur les prêts hypothécaires.
+
+## Fondement législatif
+
+Les articles 628 et 600 de la Loi sur les banques et l'article 495 de la Loi sur les sociétés de fiducie et de prêt.
+
+## Institutions visées
+
+Toutes les institutions de dépôts sont tenues d'établir le relevé.
+
+## Publication
+
+Certains renseignements sont publiés selon le total de toutes les institutions dans la base de données socioéconomiques de Statistique Canada.
+
+## Fréquence
+
+Le relevé est établi tous les trimestres de l'année civile.
+
+## Personne-ressource
+
+Fournir le nom et le numéro de téléphone de la personne à joindre pour obtenir des renseignements au sujet du présent relevé.
+
+## Échéance
+
+Le relevé est établi dans les 45 jours qui suivent la fin de chaque trimestre de l'année civile.
+
+## Organisme à contacter
+
+BSIF
+
+## Instructions générales
+
+Le présent relevé fournit une analyse des prêts hypothécaires garantis par des biens immeubles et déclarés aux postes 3(b) de l'actif du relevé du bilan M4. Des données sont fournies au sujet de toutes les avances sur prêts assurés et non assurés ainsi que des opérations de prêt conclues, des créances hypothécaires acquises par l'institution. Les créances hypothécaires acquises doivent être déclarées nettes de la prime ou de l'escompte (se reporter aux instructions relatives au bilan qui donnent la méthode à suivre). Déclarer tous les prêts hypothécaires garantis par des immeubles (et pas uniquement les premières hypothèques). Ne pas déclarer les prêts à l'égard desquels une hypothèque est prise à titre de garantie, au moment de l'octroi du prêt ou plus tard. Déclarer tous les montants pour l'institution et ses filiales consolidées.
+
+Exprimer tous les montants en milliers de dollars canadiens.
+
+### Définitions
+
+**Immeubles résidentiels**
+:   Le terme *immeuble résidentiel* est défini à l'Annexe 1.
+
+**Immeubles non résidentiels**
+:   Le terme *immeuble non résidentiel* est défini à l'Annexe 1.
+
+**Prêts assurés**
+:   Prêts hypothécaires sur immeubles résidentiels assurés en vertu de la Loi nationale sur l'habitation ou par une société privée d'assurance hypothécaire. ll s'agit des prêts hypothécaires assurés par portefeuille et individuellement.
+
+**Prêts hypothécaires assurés par portefeuille**
+:   comprend tous les prêts hypothécaires sur immeubles résidentiels assurés par portefeuille en vertu de la Loi nationale sur l'habitation ou par une société privée d'assurance hypothécaire.
+
+**Prêts hypothécaires assurés individuellement**
+:   comprend tous les prêts hypothécaires sur immeubles résidentiels assurés individuellement en vertu de la Loi nationale sur l'habitation ou par une société privée d'assurance hypothécaire.
+
+**Prêts non assurés**
+:   Prêts hypothécaires résidentiels non classés dans la catégorie des prêts assurés.
+
+**Immeubles agricoles**
+:   Immeubles non résidentiels à l'égard desquels le revenu provient soit de la vente de produits agricoles (végétaux ou animaux) ou de la location de terrains pour la production de denrées agricoles.
+
+**Immeubles non agricoles**
+:   Immeubles non résidentiels non classés dans la catégorie des immeubles agricoles.
+
+**Habitation unifamiliale**
+:   Bâtiment résidentiel ne contenant qu'un logement complètement séparé de tous côtés, au-dessus et en dessous du sol, de tout autre logement ou bâtiment.
+
+**Logements multiples**
+:   Immeubles résidentiels comprenant au moins deux logements, par exemple les maisons à mur mitoyen, les duplex, triplex et duplex doubles, les maisons en rangée, maisons-jardins, maisons-terrasses, et les maisons et immeubles d'appartements.
+
+**Immeubles en copropriété**
+:   Immeubles à logements multiples financés en vertu d'un régime enregistré de copropriété.
+
+**Particuliers**
+:   Le terme *particulier* est défini à l'Annexe 2.
+
+**Sociétés**
+:   Le terme *société* est défini à l'Annexe 2.
+
+**Prêts hypothécaires financés par le vendeur (Financement par le vendeur)**
+:   Prêt consenti par le vendeur à l'acquéreur pour faciliter une opération.
+
+**Prêts hypothécaires provisoires pour la construction résidentielle**
+:   * prêts pour la construction avec ou sans engagements permanents;
+    * prêts pour l'aménagement et l'entretien des terrains;
+    * prêts-relais consentis à partir du moment où la construction d'un immeuble est terminée, jusqu'à ce que tous les appartements soient loués;
+    * prêts-relais pour des projets impliquant la conversion d'appartements à louer en appartement en copropriété lorsqu'un prêt hypothécaire permanent doit être enlevé pour accommoder les acheteurs ultimes;
+    * prêts pour le réaménagement d'un immeuble existant avant d'obtenir un financement permanent à long terme;
+    * prêts pour garder un terrain pendant la période nécessaire pour obtenir les plans et permis d'aménagement.
+
+**Même prêteur**
+:   S'entend du même établissement de prêts; habituellement utilisé pour désigner une activité répétitive de l'institution déclarante.
+
+**Immeubles résidentiels comportant plus de 4 logements**
+:   Prêts hypothécaires garantis par un immeuble et consentis à un emprunteur qui finance l'achat d'un immeuble comportant plus de 4 logements. Précisions et définitions à l'Annexe 1 – Classification des immeubles dans la catégorie résidentielle et non résidentielle.
+
+**Immeubles résidentiels déclarés dans la catégorie non résidentielle**
+:   Les points de données dans cette section doivent rendre compte de tous les prêts hypothécaires visant un immeuble résidentiel déclaré dans les immeubles non résidentiels. Précisions et définitions à l'Annexe 1 – Classification des immeubles dans la catégorie résidentielle et non résidentielle.
+
+**Provisions pour pertes de crédit attendues**
+:   Basé sur la définition des pertes de crédit attendues de la norme IFRS 9. Déclarer la totalité des provisions pour pertes de crédit attendues au titre des stades 1, 2 et 3, à moins que les instructions ou l'en-tête de la section du relevé ne précisent un stade en particulier.
+
+## Section I - Total des prêts hypothécaires
+
+### 1. Prêts hypothécaires garantis par des immeubles situés au Canada
+
+La présente section porte sur les ventes et les achats de prêts hypothécaires garantis par des immeubles situés au Canada.
+
+La résidence est établie d'après l'adresse postale de l'emprunteur, à moins que d'autres renseignements ne soient disponibles. On entend par entreprises financières résidentes les institutions financières publiques et privées, notamment les banques à charte, les autres institutions de dépôts, les sociétés d'assurances, les caisses de retraite, les négociants en placement, les fonds communs de placement, les fiducies de placement immobilier ou autres organismes de même nature. Tous les autres résidents sont considérés comme des entreprises non financières.
+
+Le renouvellement d'un prêt hypothécaire se définit comme étant une entente contractuelle subséquente au prêt hypothécaire contracté initialement qui maintient ou raccourcit la période d'amortissement et n'augmente pas le montant du principal (peu importe si le renouvellement se fait à l'échéance ou avant, c'est-à-dire remboursement anticipé intégral).
+
+Le refinancement d'un prêt hypothécaire se définit comme étant une entente contractuelle subséquente au prêt hypothécaire contracté initialement qui n'est pas admissible à titre de renouvellement conformément à la définition précédente.
+
+Les entités contreparties connexes s'entendent de toutes les contreparties connexes, y compris les succursales, les sociétés mères et les structures ad hoc.
+
+Le transfert d'un prêt hypothécaire au même montant de capital est réputé constituer une substitution de sûretés, par conséquent il ne s'agit pas d'une augmentation du montant du prêt et ne doit pas être déclaré comme tel. En revanche, le transfert qui s'accompagnerait d'une augmentation du montant du capital serait réputé constituer une forme de refinancement, et le montant total doit être déclaré comme tel.
+
+Déclarer les flux de prêts hypothécaires à la suite d'opérations de titrisation (titre hypothécaire ou instruments à titre propre) à titre d'achat de prêt hypothécaire sous 1(b)(iii) ou de vente de prêt hypothécaire sous 1(c)(ii).
+
+Les prêts hypothécaires non déclarés sur le relevé A4, ayant été montés par des tiers, doivent être déclarés à la section I 1(b)(iii).
+
+Les valeurs des prêts hypothécaires sur immeubles résidentiels assurés et non assurés déclarées sous 1(b)(i)(A) + 1(b)(i)(B) + 1(b)(i)(C) + 1(b)(i)(D) + postes pour mémoire section I section B 1(a) – postes pour mémoire section I section A 4(d) – postes pour mémoire section I section B 2(a) – postes pour mémoire section I section B 2(b) doivent correspondre au total déclaré dans les données 6480 et 6481 du relevé A4 au cours de la période.
+
+Poste (a)
+:   doit concorder avec le poste (d) de la partie I du relevé du trimestre précédent (révisé au besoin).
+
+Postes (b)(i) à (b)(v)
+:   déclarer le total des accroissements en chiffres bruts sans tenir compte des compensations.
+
+Poste 1(b)(i)(A)
+:   les valeurs déclarées dans cette catégorie devraient d'habitude correspondre à celles déclarées au poste 1(b)(i)(A)(I). Cette inscription fait partie d'une règle de validation comparative avec le relevé A4.
+
+Poste 1(b)(i)(B)
+:   cette inscription fait partie d'une règle de validation comparative avec le relevé A4.
+
+Poste 1(b)(i)(C)
+:   cette inscription fait partie d'une règle de validation comparative avec le relevé A4.
+
+Poste 1(b)(i)(D)
+:   cette catégorie devrait se composer surtout d'opérations de refinancement et de renouvellement quand le contrat précédent était détenu par une institution différente. Toutefois, cette catégorie est aussi conçue pour tenir compte de tous les autres besoins de déclaration exceptionnels qui ne s'inscrivent pas dans les catégories ci-dessus 1(b)(i)(A) « Prêts hypothécaires montés pour l'achat d'immeubles », 1(b)(i)(B) « Refinancements du même prêteur »ou 1(b)(i)(C) « Renouvellements du même prêteur ». Cette inscription fait partie d'une règle de validation comparative avec le relevé A4.
+
+Poste 1(b)(v)
+:   inclure à la rubrique « Autres accroissements » les augmentations brutes des prêts hypothécaires découlant de l'activité au titre des fusions et des acquisitions.
+
+Postes (c)(i) à (c)(iv)
+:   inclure à la rubrique « Autres réductions » les réductions brutes des prêts hypothécaires attribuables à l'activité des dessaisissements.
+
+Poste (1)(c)(i)(B)
+:   * inclure à la rubrique « dont des remboursements non prévus » tous les paiements anticipés en remboursement total ou partiel des contrats hypothécaires.
+    * ce qui comprend toute hausse des paiements hypothécaires faisant porter le montant au-dessus de montant de remboursement initialement prévu dans le contrat de paiement (tout autre paiement qui influera sur l'amortissement)
+
+Poste (1)(c)(iv)
+:   inclure à la rubrique « Autres réductions » les réductions brutes des prêts hypothécaires attribuables à l'activité de dessaisissement.
+
+Poste (d) - Total
+:   l'encours total des prêts hypothécaires assurés et non assurés sur immeubles résidentiels et des prêts hypothécaires sur immeubles non résidentiels agricoles et non agricoles, garantis par des immeubles situés au Canada.
+
+Poste (1)(d)(i) – dont le total des prêts hypothécaires accordés aux particuliers.
+:   Le terme *particulier* est défini à l'Annexe 2.
+
+Poste (1)(d)(ii) – dont le total des prêts hypothécaires accordés aux sociétés
+:   Le terme *société* est défini à l'Annexe 2.
+
+### 2. Total des prêts hypothécaires garantis par des immeubles situés hors du Canada
+
+Déclarer dans les catégories appropriées, l'encours total des prêts hypothécaires garantis par des immeubles résidentiels et non résidentiels situés à l'étranger.
+
+### 3. Moins provision pour pertes de crédit attendues
+
+Déclarer le total de la provision pour pertes de crédit attendues selon le poste 3(b) de l'actif, au bilan.
+
+### 4. Total des prêts hypothécaires
+
+Déclarer le total de l'encours des prêts hypothécaires, selon le poste 3(b) de l'actif, au bilan.
+
+### 5. Ajustements comptables aux fins du bilan et solde inscrit au M4
+
+Ces ajustements ont pour but de faciliter la déclaration en permettant de déclarer séparément les coûts d'un prêt capitalisé, s'ils sont négligeables. Ces coûts comprennent, par exemple, les frais juridiques et les frais de référence hypothécaire. Déclarer le montant qui fait correspondre le total des prêts hypothécaires au montant inscrit au bilan M4. Par la suite, déclarer le montant qui est inscrit au M4 et qui correspond au total des prêts hypothécaires inscrit à l'E2 moins tout ajustement aux fins du bilan.
+
+## Section I – Postes pour mémoire – Section A - Prêts hypothécaires garantis par des immeubles situés au Canada
+
+### 1. Nombre de prêts hypothécaires résidentiels non remboursés
+
+Déclarer le nombre de prêts hypothécaires au Canada.
+
+### 2. Total des prêts hypothécaires assurés non remboursés
+
+Déclarer la valeur, en milliers de dollars, des prêts hypothécaires au Canada.
+
+1. « À ratio élevé » désigne les prêts hypothécaires assurés dont le ratio prêt/valeur (RPV) au moment du montage était supérieur à 80 %, et qui ont donc nécessité une assurance hypothécaire (ratio prêt/valeur supérieur à 75 % si le montage a eu lieu avant avril 2007).
+2. « Conventionnels » désigne les prêts hypothécaires assurés dont le ratio prêt/valeur est inférieur ou égal à 80 % (inférieur ou égal à 75 % si le montage a eu lieu avant avril 2007). Ces prêts hypothécaires sont vraisemblablement assurés dans le cadre d'une assurance de portefeuille souscrite par l'institution. La plupart des prêts hypothécaires assurés traditionnels devraient être déclarés comme étant assurés par portefeuille aux données inscrites à 2(b)(i).
+
+### 3. Nombre brut de prêts hypothécaires résidentiels accordés pendant le trimestre
+
+Le nombre de prêts hypothécaires déclarés ici doit correspondre aux valeurs déclarées aux sections I 1(b)(i) et 1(b)(ii).
+
+### 4. Montant de l'accroissement brut des prêts hypothécaires accordés à des résidents pendant le trimestre
+
+1. Déclarer l'accroissement brut des prêts hypothécaires consentis pour l'achat de nouvelles constructions résidentielles.
+2. Déclarer l'accroissement brut des prêts hypothécaires consentis aux accédants à la propriété. Les institutions peuvent utiliser les données de participation aux programmes « Incitatif à l'achat d'une première propriété » ou « Régime d'accession à la propriété » comme une indication du nombre d'accédants à la propriété.
+3. Ne déclarer que les courtiers en prêts hypothécaires qui sont indépendants de l'institution déclarante.
+4. Déclarer l'accroissement brut des prêts hypothécaires résidentiels accordés pendant le trimestre et garantis par des immeubles situés au Canada qui sont soit négociés dans une devise soit comptabilisés hors du Canada. Cette inscription fait partie d'une règle de relevé croisé avec le relevé A4 et la valeur peut être zéro pour bien des institutions.
+
+## Section I – Postes pour mémoire - Section B – Autres renseignements
+
+### 1. Montant de l'accroissement brut des prêts hypothécaires accordés pendant le trimestre à des résidents pour des immeubles situés hors du Canada
+
+1. Déclarer l'accroissement brut des prêts hypothécaires accordés à des résidents et garantis par des immeubles situés hors du Canada, lorsque le prêt est à la fois comptabilisé au Canada et négocié en dollars canadiens. Cette inscription fait partie d'une règle de relevé croisé avec le relevé A4 et la valeur peut être zéro pour bien des institutions.
+
+### 2. Prêts hypothécaires assortis d'une remise en argent montés pour l'achat d'immeubles résidentiels pendant le trimestre
+
+1. Déclarer la valeur totale des prêts hypothécaires assortis d'une remise en argent accordés.
+2. Déclarer la valeur des remises en argent associées aux prêts hypothécaires assortis d'une remise en argent accordés.
+
+### 3. Encours des prêts hypothécaires accordés à des fiducies de placement immobilier (FPI)
+
+1. Déclarer l'encours total des prêts hypothécaires accordés à des fiducies de placement immobilier (FPI). Inclure les prêts hypothécaires accordés à toutes les FPI à l'échelle mondiale tant résidentes que non résidentes garanties par des immeubles à l'échelle mondiale.
+
+## Section I – Postes pour mémoire - Section C – Prêts hypothécaires non assurés et non conformes
+
+### 1. Prêts hypothécaires non conformes
+
+Déclarer le nombre et la valeur brute des prêts hypothécaires résidentiels non conformes dès le moment de l'octroi et en souffrance selon les modalités de la ligne directrice B-20 visant les institutions déclarantes.
+
+Dans les colonnes « À l'émission », déclarer le montant et le nombre de prêts non conformes émis au cours du trimestre visé. Dans les colonnes « Encours », déclarer le nombre de prêts non conformes et non remboursés qui se trouvent dans le portefeuille au terme du trimestre visé ainsi que la valeur de l'encours au titre de ces prêts.
+
+## Section I – Postes pour mémoire - Section D – Autres produits de crédit hypothécaire
+
+### 1. Prêts hypothécaires renversés
+
+Déclarer le nombre et la valeur brute des prêts hypothécaires inversés sur le solde des prêts hypothécaires résidentiels.
+
+## Section II - Prêts hypothécaires - Sommaire par montant
+
+Déclarerle montant (en dollars) des prêts hypothécaires pour chacune des catégories. Se servir du montant initial du prêt pour déterminer dans quelle catégorie il doit être inscrit.
+
+Les divers totaux de la présente section doivent concorder avec les totaux correspondants de la Section I, avant la provision pour pertes de crédit attendues.
+
+## Section III – Encours des prêts hypothécaires - Sommaire selon le type, les arrérages, les prêts douteux et la provision pour pertes de crédit attendues
+
+### Immeubles situés au Canada
+
+#### (a) Immeubles résidentiels comportant jusqu'à 4 logements
+
+1. Habitations unifamiliales
+2. Logements multiples
+   1. Logements en copropriété individuels
+      1. dont les logements en copropriété qui font partie d'un immeuble à appartements  
+         Déclarer, dans cette catégorie, les prêts hypothécaires pour des immeubles en copropriété dont la structure est un appartement contrairement aux immeubles en copropriété dont la structure est différente, par exemple maisons en rangée et maisons jumelées.
+   2. Autres
+
+#### (b) Immeubles résidentiels comportant plus de 4 logements
+
+##### Total - Résidentiels
+
+Déclarer les montants appropriés aux postes (i), (ii)(A), (B) et au Total, selon la description de chacun.
+
+Déclarer les prêts hypothécaires provisoires pour la construction résidentielle en fonction des prêts hypothécaires bruts assurés ou non assurés.
+
+#### (c) Non résidentiels
+
+Déclarer les (i) immeubles agricoles et (ii) les propriétés non agricoles en fonction des prêts hypothécaires bruts assurés ou non assurés.
+
+Le tableau suivant répartit les prêts non résidentiels autres que les immeubles agricoles :
+
+Classifications des propriétés non résidentiels non agricoles
+
+| Classification | Inclure |
+| --- | --- |
+| Bureaux d'affaires | Immeubles à bureaux  Immeubles en copropriété (résidentiels ou bureaux)  Immeubles à bureaux/Hôtel  Immeubles à bureaux/Centre commercial |
+| Centres commerciaux | Centres commerciaux linéaires  Détaillants  Centres commerciaux |
+| Réserve foncière et aménagement de terrains | Terrains |
+| Immeubles industriels | Commerces en copropriété  /Industriels/De détail  Commerces industriels en copropriété  Entrepôts  Centres industriels  Cliniques médicales |
+| Hôtels/Motels | Hôtel/Motel  Hôtel appartement |
+| Immeubles résidentiels déclarés en tant qu'immeubles non résidentiels | On trouvera à l'Annexe 1 les instructions pour déclarer un immeuble résidentiel déclaré en tant qu'immeuble non résidentiel |
+| Autres | Automobiles  Concessions  Centres de loisir/Centres de villégiature  Appartements à temps partagé  Éléments d'actif combinés  Hôpitaux  Maisons de santé/Résidences  Maisons de repos/Centres d'accueil  Garderies  Églises  Autres |
+
+##### Total les immeubles situés au Canada
+
+Déclarer : les montants appropriés selon les postes.
+
+### 2. Immeubles situés hors du Canada
+
+1. Résidentiels
+2. Non résidentiels
+
+#### Total des immeubles situés hors du Canada
+
+Déclarer les montants sous les rubriques appropriées.
+
+### 3. Total des prêts hypothécaires
+
+Le total des prêts hypothécaires des encours assurés et non assurés moins le total de la provision pour pertes de crédit attendues doit être conforme ou poste 3(b) de l'actif au bilan.
+
+### 4. Ajustements comptables aux fins du bilan et solde inscrit au M4
+
+Ces ajustements ont pour but de faciliter la déclaration en permettant de déclarer séparément les coûts d'un prêt capitalisé, s'ils sont négligeables. Ces coûts comprennent, par exemple, les frais juridiques et les frais de référence hypothécaire. Déclarer le montant qui fait correspondre le total au montant inscrit au bilan M4. Par la suite, déclarer le montant qui est inscrit au M4 et qui correspond au total des prêts hypothécaires inscrit à l'E2 moins tout ajustement aux fins du bilan.
+
+## Section IV – Prêts hypothécaires nouvellement montés pour l'achat d'immeubles – Sommaire selon le type
+
+À la section IV, déclarer les prêts hypothécaires montés pour l'achat d'immeubles. Autrement, utiliser les mêmes définitions que celles à la section III. Les provisions pour créances douteuses déclarées dans cette section devraient être limitées et leur valeur devrait souvent être zéro puisque ces prêts ont été accordés plus tôt pendant le trimestre.
+
+### Postes pour mémoire
+
+#### Section A - Renseignements sur les immeubles situés au Canada
+
+Déclarer les montants appropriés selon la description des postes.
+
+1. Deuxième prêt hypothécaire et prêts hypothécaires subséquents montés pendant le trimestre
+2. Encours des deuxièmes prêts hypothécaires et des prêts hypothécaires subséquents
+3. Prêts hypothécaires résidentiels financés par le vendeur
+4. Prêts hypothécaires non résidentiels financés par le vendeur
+
+#### Section B – Relevé des prêts hypothécaires – Montés pendant le trimestre
+
+##### Instructions générales
+
+Inclure tous les prêts hypothécaires montés pendant le trimestre.
+
+###### 1. Ratio prêt/valeur (RPV) à la date du rapport
+
+1. Déclarer la valeur totale de chaque type de prêt monté pendant le trimestre visé par la déclaration et qui appartient à cette catégorie de RPV. Ne pas inclure l'assurance hypothécaire dans le calcul du ratio prêt / valeur.
+2. Si le RPV correspond au pourcentage repère, le déclarer dans la catégorie inférieure, par exemple, si le RPV est de 75 %, le déclarer dans la catégorie de 65 % à 75 %.
+3. Cette ligne a été ajoutée pour tenir compte des besoins exceptionnels de certaines institutions financières en matière de déclaration; la plupart des institutions financières ne devraient pas la remplir.
+
+###### 2. Période d'amortissement
+
+1. Déclarer la valeur totale de chaque type de prêt monté pendant le trimestre visé par la déclaration et qui appartient à cette catégorie de RPV
+2. Si le nombre d'années d'amortissement correspond au nombre repère, le déclarer dans la catégorie inférieure, par exemple, si la période d'amortissement est de 30 ans, la déclarer dans la catégorie de 25 à 30 ans.
+3. Cette ligne a été ajoutée pour tenir compte des besoins exceptionnels de certaines institutions financières en matière de déclaration; la plupart des institutions financières ne devraient pas la remplir.
+
+#### Section C – Relevé des pertes sur prêts hypothécaires (Canada)
+
+##### Instructions générales
+
+L'assurance dont il est ici question s'entend de l'assurance contre le défaut de remboursement des prêts hypothécaires offerte par la SCHL et d'autres sociétés d'assurances privées, répartie en contrats individuels et en portefeuilles de contrats.
+
+En ce qui a trait à la valeur des prêts hypothécaires en défaut depuis peu au cours du trimestre, l'assureur doit déclarer les pertes de crédit attendues attribuées à ces prêts au stade III de la norme IFRS 9.
+
+Ne déclarer que les pertes associées au premier prêt hypothécaire. Ne pas déclarer les pertes de crédit attendues relatives au deuxième prêt et aux prêts subséquents ou à d'autres activités d'octroi de prêts.
+
+Les valeurs déclarées doivent correspondre à celles de la fin du trimestre.
+
+#### Section D – Relevé des prêts hypothécaires – Ensemble du portefeuille
+
+##### Instructions générales
+
+Inclure tous les prêts hypothécaires montés pendant le trimestre.
+
+Déclarer le montant total des prêts hypothécaires et de l'encours des emprunts garantis par un bien immobilier sous-jacent dans la tranche du RPV pertinente. Le RPV doit être calculé conformément aux principes énoncés dans la ligne directrice B-20 du BSIF (Pratiques et procédures de souscription de prêts hypothécaires résidentiels). Le RPV doit être recalculé à chaque refinancement et lorsqu'il est jugé prudent de le faire, à l'aide d'une méthode d'évaluation acceptable, compte tenu de l'évolution du profil de risque de l'emprunteur ou de sa situation de défaut.
+
+###### 1. Ratio prêt / valeur (RPV) – Ensemble du portefeuille – Résidentiels
+
+(a) Prêts hypothécaires résidentiels – Hypothèque principale (Ensemble du portefeuille)
+
+**Déclarer :**
+
+* Seulement les prêts hypothécaires associés à une propriété résidentielle faisant l'objet d'une hypothèque principale.
+
+**Prêts hypothécaires résidentiels, non grevés, et prêts hypothécaires résidentiels au Québec**
+
+* Assurés individuellement, non grevés
+  + Déclarer les prêts hypothécaires assurés individuellement, non grevés, qui peuvent être donnés en garantie ou en nantissement et sont associés à des propriétés situées au Canada.
+    - Le terme « non grevé » indique qu'il faut exclure les prêts hypothécaires associés à des titrisations vendues ou non.
+    - Les montants doivent être déclarés en incluant les pertes de crédit attendues.
+    - Aucune règle de validation portant sur plus d'un relevé ne s'applique à ce point de données; des questions pourraient toutefois être soulevées si on note des écarts importants par rapport aux relations types suivantes :
+      * Assurés individuellement, non grevés + Portefeuille assuré, non grevé ≈ Relevé H4 a72c41
+* Assurés individuellement, non grevés – Au Québec :
+  + Déclarer le montant de la catégorie précédente associé aux propriétés situées au Québec.
+* Portefeuille assuré, non grevé
+  + Déclarer les portefeuilles de prêts hypothécaires résidentiels assurés, non grevés, qui peuvent être donnés en garantie ou en nantissement et sont associés à des propriétés situées au Canada.
+    - Le terme « non grevé » indique qu'il faut exclure les prêts hypothécaires associés à des titrisations vendues ou non.
+    - Les montants doivent être déclarés en incluant les pertes de crédit attendues.
+    - Aucune règle de validation portant sur plus d'un relevé ne s'applique à ce point de données; des questions pourraient toutefois être soulevées si on note des écarts importants par rapport aux relations types suivantes :
+      * Assurés individuellement, non grevés + Portefeuille assuré, non grevé ≈ Relevé H4 a72c41
+* Portefeuille assuré, non grevé –Au Québec :
+  + Déclarer le montant de la catégorie précédente associé aux propriétés situées au Québec.
+
+(b) Prêts hypothécaires résidentiels – Deux prêts ou plus garantis par des immeubles – Hypothèques principales et secondaires (Ensemble du portefeuille)
+
+**Déclarer :**
+
+* Seulement les prêtshypothécaires associés à une propriété résidentielle faisant l'objet d'une hypothèque principale et d'une hypothèque secondaire.
+
+###### 2. Ratio prêt / valeur (RPV) – Ensemble du portefeuille - Non résidentiels
+
+(a) Prêts hypothécaires non résidentiels – Hypothèque principale (Ensemble du portefeuille)
+
+**Déclarer :**
+
+* Seulement les prêts hypothécaires non résidentiels associés à une propriété résidentielle faisant l'objet d'une hypothèque principale.
+
+(b) Prêts hypothécaires non résidentiels – Deux prêts ou plus garantis par des immeubles – Hypothèques principales et secondaires (Ensemble du portefeuille)
+
+**Déclarer :**
+
+* Seulement les prêts hypothécaires non résidentiels associés à une propriété résidentielle faisant l'objet d'une hypothèque principale et d'une hypothèque secondaire.
+
+###### 3. Amortissement
+
+(a) Prêts hypothécaires résidentiels
+
+(b) Prêts hypothécaires non résidentiels
+
+(c) Autres – Cette ligne a été ajoutée pour tenir compte des besoins exceptionnels de certaines institutions financières en matière de déclaration et la plupart des institutions financières ne devraient pas la remplir. À compter de décembre 2022, les institutions financières doivent déclarer les prêts hypothécaires avec amortissement négatif ou stagnant sur cette ligne du relevé.
+
+#### Section E – Sommaire des prêts hypothécaires montés (Canada) selon le ratio SDT
+
+Inclure tous les prêts hypothécaires montés pendant le trimestre.
+
+##### Ratio du service de la dette totale (ratio SDT)
+
+Déclarer la valeur totale pour chaque tranche de ratios correspondant aux prêts montés (financés, achetés, etc.) durant la période de déclaration. Le ratio du service de la dette totale (SDT) est une donnée servant à évaluer la capacité de l'emprunteur à s'acquitter de sa dette; il devrait être calculé conformément aux principes énoncés dans la ligne directrice B-20 du BSIF, Pratiques et procédures de souscription de prêts hypothécaires résidentiels, et satisfaire aux exigences de la SCHL en matière d'admissibilité à l'assurance-prêt hypothécaire. Le ratio SDT devrait tenir compte de facteurs tels que le montant des versements hypothécaires (capital et intérêts), les frais de chauffage, les impôts fonciers, 50 % des frais de copropriété (le cas échéant), le montant des versements mensuels au titre d'autres instruments de crédit, les autres sources de revenu de l'emprunteur, les sources de revenu du coemprunteur et du cosignataire et le montant de leurs versements mensuels au titre d'autres instruments de crédit, etc.
+
+#### Section F – Sommaire des prêts hypothécaires résidentiels montés (Canada) selon la cote des agences d'évaluation du crédit
+
+Inclure tous les prêts hypothécaires montés pendant le trimestre.
+
+##### Prêts hypothécaires résidentiels – Cote des agences d'évaluation du crédit
+
+Déclarer la valeur totale pour chaque fourchette de cotes des agences d'évaluation du crédit correspondant aux prêts montés (financés, achetés, etc.) durant la période de déclaration. Si plusieurs emprunteurs sont concernés, utiliser la moyenne des cotes des agences d'évaluation du crédit qui leur ont été attribuées.
+
+#### Section G – Statistiques sur l'approbation des prêts hypothécaires résidentiels pour des immeubles situés au Canada
+
+Déclarer, dans cette section, toutes les demandes avec et sans convention d'achat, y compris toutes les demandes d'approbation préalable.
+
+1. Déclarer les demandes de prêt hypothécaire dans la période pendant laquelle elles ont été déposées.
+2. Déclarer les approbations dans la période pendant laquelle elles ont été accordées et non la période pendant laquelle la demande a été déposée.
+
+#### Section H – Sommaire des prêts hypothécaires résidentiels assurés individuellement montés selon l'assureur
+
+Déclarer les prêts hypothécaires résidentiels assurés individuellement selon l'assureur. Inclure les prêts hypothécaires à RPV élevé ou faible, mais ne pas inclure ceux assurés par portefeuille .
+
+#### Section I – Prêts hypothécaires résidentiels montés selon le type d'immeuble
+
+Déclarer la valeur des prêts hypothécaires résidentiels selon l'utilisation de l'immeuble au montage seulement; il n'est pas nécessaire d'indiquer les changements d'utilisation de l'immeuble après la date de montage du prêt hypothécaire. En outre, s'il est impossible de déterminer l'utilisation de l'immeuble, la valeur du prêt hypothécaire peut être déclarée dans la catégorie « Aucune utilisation finale précisée ».
+
+## Annexe 1 – Classification des immeubles dans les catégories résidentielle et non résidentielle
+
+Dans le tableau de référence ci-après, les types d'immeubles courants sont classes résidentiels ou non résidentiels. En règle générale, les immeubles résidentiels sont des installations non institutionnelles qui servent de logement à long terme pour les particuliers.
+
+### Immeubles non résidentiels
+
+* Bureaux d’affaires
+  + Immeubles à bureaux
+  + Immeubles en copropriété (résidentiels ou bureaux) (4)
+  + Immeubles à bureaux / Hôtel
+  + Immeubles à bureaux / Centre commercial
+* Centres commerciaux
+  + Centres commerciaux linéaires
+  + Détaillants
+  + Centres commerciaux
+* Réserve foncière et aménagement de terrains
+  + Terrains
+* Immeubles industriels
+  + Commerces en copropriété
+  + Commerces en copropriété / Industriels / De détail
+  + Commerces industriels en copropriété
+  + Entrepôts
+  + Immeubles industriels
+  + Cliniques médicales
+* Hôtels / Motels
+  + Hôtel / Motel
+  + Hôtel appartement
+* Autres
+  + Automobiles
+  + Concessions
+  + Centres de loisir / Centres de villégiature
+  + Appartements à temps partagé
+  + Éléments d’actif combinés
+  + Höpitaux
+  + Centres de soins
+  + Maisons de retraite (1)
+  + Garderies
+  + Églises
+  + Immeubles agricoles
+  + Autres
+
+### Immeubles résidentiels
+
+* Immeubles résidentiels de 1 à 4 logements
+  + Maisons isolées
+  + Maisons semi-détachées
+  + Maisons en rangée
+  + Logements en copropriété
+  + Autres petits immeubles résidentiels de 1 à 4 logements
+  + Chalets et immeubles récréatifs semblables
+  + Immeubles résidentiels de 1 à 4 logements avec volet commercial
+  + Chantiers de construction pour immeubles résidentiels de 1 à 4 logements (2)
+* Immeubles résidentiels de plus de 4 logements (immeubles résidentiels à logements multiples) (3)
+  + Petits ou grands immeubles d’habitation à usage locatif avec plus de 4 logements
+  + Complexes d’immeubles d’habitation avec volets commerciaux
+  + Tous les autres immeubles résidentiels avec plus de 4 logements
+  + Chantiers de construction pour des immeubles résidentiels de plus de 4 logements (2)
+
+### Notes
+
+(1) L'expression « maison de retraite » vise à faire renvoi à l'établissement institutionnel. Les prêts hypothécaires pour les maisons de retraite institutionnelles seront classés dans les immeubles non résidentiels tandis que ceux pour les logements en copropriété dans des immeubles destinés aux aînés seront classés dans la catégorie résidentielle. Les organismes reconnaissent qu'il se peut que ce ne soit pas toujours simple de faire cette distinction. Les organismes acceptent donc, pour l'instant, que ces immeubles soient classés soit résidentiels soit non résidentiels; cependant, les institutions déclarantes sont invitées à adopter la classification voulue.
+
+(2) Le financement des travaux de construction peut regrouper bien des produits qui ont toujours été classés de façon incohérente et dans trois catégories (prêts aux entreprises, prêts hypothécaires résidentiels et prêts hypothécaires non résidentiels). Les organismes n'exigent pas que cette pratique de déclaration soit modifiée. Il sera donc acceptable de classer le financement des travaux de construction dans l'une ou l'autre des trois catégories, à condition que la catégorisation soit revue une fois les travaux de construction achevés.
+
+(3) La pratique de déclaration des hypothèques sur des immeubles résidentiels à plusieurs unités préférées consiste à les intégrer aux hypothèques résidentielles. Cependant, les systèmes en place dans certaines institutions les classent dans la catégorie non résidentielle. Les deux approches seront acceptées pour le moment; cependant, les institutions déclarantes sont invitées à adopter la classification voulue.
+
+(4) Les hypothèques sur les immeubles en copropriété à bureaux et résidentiels doivent être classées dans la catégorie non résidentielle parce que les unités en copropriété ont une structure de propriété distincte de celle de la partie bureaux de l'immeuble et que l'hypothèque sur la partie bureaux doit être classée dans la catégorie non résidentielle.
+
+## Annexe 2 – Classification des contreparties (particuliers et sociétés)
+
+Le tableau de référence ci-après classe les diverses contreparties dans les catégories particuliers ou sociétés; la définition de « société » comprend les organismes sans but lucratif et les quasi-sociétés. Il faut, en règle générale, que les contreparties soient classées dans une perspective de contrepartie de crédit. Si, par défaut, le dernier garant est un particulier, le prêt doit être classé comme ayant un particulier comme contrepartie; par contre, si le dernier garant n'est pas un particulier (p. ex., une société, une fiducie ou une coopérative), le prêt doit être classé comme ayant une société comme contrepartie.
+
+Classification des contreparties
+
+| Particuliers | Sociétés (y compris les quasi-sociétés et les fiducies) |
+| --- | --- |
+| Particuliers | Sociétés (définition juridique) |
+| Particuliers actifs à titre personnel dans un commerce ou la location de logements | Coopératives |
+| Entreprises individuelles | Institutions sans but lucratif |
+| Sociétés en nom collectif[Note de bas de tableau \*\*\*](#tbl-fnb1) | Sociétés en nom collectif[Note de bas de tableau \*\*\*](#tbl-fnb1) |
+| vide | Fiducies |
+| vide | Travailleurs autonomes constitués aux fins de l'impôt ou de la responsabilité |
+|  |  |
+| --- | --- |
+| Notes de bas de tableau  Note de bas de tableau \*\*\*  Conformément au principe de la contrepartie de crédit, les sociétés en nom collectif dont le dernier garant est un particulier doivent être classées dans la catégorie des particuliers et celles dont le dernier garant est une société, dans la catégorie des sociétés.  [Retour à la référence de la note de bas de tableau \*\*\*](#tbl-fnb1-ref) | |
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-12-07

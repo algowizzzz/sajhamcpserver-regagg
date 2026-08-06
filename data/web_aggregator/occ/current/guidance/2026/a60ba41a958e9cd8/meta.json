@@ -1,0 +1,25 @@
+{
+  "doc_id": "a60ba41a958e9cd8",
+  "regulator_id": "occ",
+  "doc_type": "guidance",
+  "title": "Community Reinvestment Act: Interagency Notice of Proposed Rulemaking",
+  "language": "en",
+  "source_url": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-35.html",
+  "reference_number": null,
+  "published_date": "2026-07-31",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7238cc3dfd263561009d95be690df4a633f767d779d991603a1d05f496a8119e",
+  "version_ts": "2026-08-03T02-27-25Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:27:25.940758+00:00",
+  "run_id": "2026-08-02_occ_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/occ/current/guidance/2026/a60ba41a958e9cd8",
+  "tags": [
+    "us",
+    "banking",
+    "prudential"
+  ]
+}

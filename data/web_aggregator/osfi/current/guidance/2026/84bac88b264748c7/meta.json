@@ -1,0 +1,27 @@
+{
+  "doc_id": "84bac88b264748c7",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Guideline: Assurance on Capital, Leverage and Liquidity Returns - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-assurance-capital-leverage-liquidity-returns",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e07a0c9b25af24b7da9a5142dcb8e2e913843672421e0568bed20b41653f57df",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/84bac88b264748c7",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-assurance-capital-leverage-liquidity-returns",
+  "fetch_method": "html_to_md"
+}

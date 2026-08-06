@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) in compliance with its [Financial Regulation](/document/download/223566e0-bd3f-40b3-8750-5fa9b7227964_en?filename=Technical%20documentation.pdf)conducted a public [procurement procedure](/about/procurement_en)for 

@@ -1,0 +1,25 @@
+{
+  "doc_id": "ccd50de0c2174918",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Ratio de liquidit\u00e9 \u00e0 court terme (LCR) (LA) | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/ratio-liquidite-court-terme-lcr",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:93b3d6cc6a8da5be8454721a578edcb352f7a4a76b7b8f68810e7f27c3f96aad",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/ccd50de0c2174918",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

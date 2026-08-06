@@ -1,0 +1,1 @@
+Summary: # Exigences en matière de tenue de documents s’appliquant aux courtiers ou agents immobiliers et aux promoteurs immobiliers : Directive de conformité de CANAFE

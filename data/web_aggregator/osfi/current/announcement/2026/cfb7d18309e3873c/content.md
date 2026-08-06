@@ -1,0 +1,138 @@
+# Risques liés au numérique et aux crypto-actifs
+
+Les innovations numériques dans le secteur financier transforment la manière dont nous effectuons nos transactions, gérons notre argent et appréhendons la valeur des choses. Autant des innovations comme les crypto-actifs et les services qui s’y rattachent peuvent présenter des occasions pour les institutions financières, autant elles pourraient se traduire par des risques importants pour le système financier canadien. Nous nous efforçons de mieux comprendre ces risques en constante évolution de différentes façons : études, recensement des nouveaux risques, surveillance, interventions publiques et participation à des projets canadiens et internationaux.
+
+## Sur cette page
+
+* [Crypto-actifs](#subhead1)
+* [Système bancaire ouvert](#subhead2)
+* [Informatique quantique](#subhead3)
+* [Intelligence artificielle](#subhead4)
+* [Exemples de travaux du BSIF sur l’innovation numérique](#subhead5)
+* [Exemples de travaux portant sur l’innovation numérique au Canada](#subhead6)
+* [Exemples de travaux portant sur l’innovation numérique à l’échelle internationale](#subhead7)
+
+## Crypto-actifs
+
+Les crypto-actifs sont des actifs numériques (en ligne) qui permettent de créer, de vérifier et de sécuriser des transactions à l’aide d’une méthode de sécurisation des données appelée cryptographie, d’un réseau pair à pair et d’une technologie de chaîne de blocs (un type de système de registre en ligne utilisé pour enregistrer les transactions). Il existe différents types de crypto-actifs, dont le Bitcoin, l’Ether et les cryptomonnaies stables.
+
+### Risques potentiels liés aux crypto-actifs
+
+Les crypto-actifs sont émis, échangés, stockés et négociés au moyen de technologies novatrices qui peuvent être vulnérables à certains risques, comme le cyberrisque ou les risques liés aux erreurs humaines, à la fraude ou à l’intervention d’acteurs malveillants. Par exemple, si la clé privée d’un portefeuille numérique est perdue, le propriétaire des crypto-actifs ne pourra jamais récupérer l’accès à ces fonds. En outre, la valeur des crypto-actifs peut considérablement fluctuer et entraîner des gains et des pertes importants.
+
+Nous travaillons plus particulièrement sur deux domaines fondamentaux du risque lié aux crypto-actifs :
+
+* Les dispositifs de crypto-actifs se référant à une monnaie fiduciaire (aussi appelés cryptomonnaies stables)
+* Les services de garde de crypto-actifs
+
+![](/sites/default/files/images/crypto-video-fr.png)
+
+[Lignes directrices finales sur les fonds propres et de liquidité visant les expositions sur crypto-actifs](/fr/propos-du-bsif/mediatheque/normes-du-bsif-sur-fonds-propres-liquidite-visant-expositions-sur-crypto-actifs "Normes du BSIF sur les fonds propres et de liquidité visant les expositions sur crypto-actifs")
+
+## Système bancaire ouvert
+
+Grâce au système bancaire ouvert, un client peut demander à sa banque de communiquer de manière sécurisée certaines données financières à des entreprises de technologie financière (fintech) ou à d’autres fournisseurs de services financiers. Mentionnons que nous avons participé aux [discussions sur la mise en œuvre du système bancaire ouvert](https://www.canada.ca/fr/ministere-finances/programmes/politique-secteur-financier/mise-en-oeuvre-systeme-services-bancaires-axes-sur-consommateurs.html) qui ont été menées par le ministère des Finances.
+
+### Risques potentiels liés au système bancaire ouvert
+
+Parmi les risques qui pourraient découler de la mise en œuvre d’un système bancaire ouvert, on peut citer les suivants :
+
+* Risque opérationnel
+* Risque lié aux données et à la sécurité de l’information, et risque lié à la protection des consommateurs
+* Risque lié aux technologies et cyberrisque
+* Risque lié à la protection de la vie privée
+* Risque de responsabilité
+
+## Informatique quantique
+
+L’informatique quantique est une technologie émergente qui pourrait permettre de résoudre des problèmes complexes plus rapidement que les ordinateurs classiques. Nous nous penchons actuellement sur les risques que pourrait poser cette technologie.
+
+### Risques potentiels liés à l’informatique quantique
+
+Le risque le plus important associé à l’informatique quantique est qu’elle pourrait permettre de casser des algorithmes de chiffrement couramment utilisés. Des acteurs malveillants pourraient ainsi accéder aux mots de passe des clients, à leurs courriels et à d’autres données chiffrées.
+
+Bien qu’à notre connaissance, il n’existe pas à l’heure actuelle d’ordinateur quantique suffisamment avancé, les institutions peuvent quand même faire l’objet d’une attaque de type « stocker maintenant, décrypter plus tard ». Dans ce scénario, les données seraient stockées en attendant que des ordinateurs quantiques plus puissants puissent les décrypter.
+
+## Intelligence artificielle
+
+Cette technologie permet de traiter des données de manière autonome ou partiellement autonome à l’aide d’algorithmes d’apprentissage automatique ou d’autres techniques pour :
+
+* créer du contenu;
+* formuler des recommandations;
+* faire des prédictions.
+
+Nous étudions actuellement les risques que pose cette technologie.
+
+### Risques potentiels liés à l’intelligence artificielle
+
+Les risques que pourraient poser les technologies d’intelligence artificielle (IA) pour les institutions sont de nature tant interne qu’externe.
+
+#### Risques découlant de l’adoption de l’IA en interne
+
+* Risque de modélisation attribuable à l’explicabilité de programmes d’IA complexes
+* Risque lié aux problèmes de gestion et de gouvernance des données en raison du volume et de la rapidité des données
+* Risque d’atteinte à la réputation si l’institution ne tient pas suffisamment compte des questions d’éthique et d’équité au moment de mettre en œuvre des systèmes d’IA
+
+#### Risques découlant de l’adoption de l’IA par des acteurs externes
+
+* Attaques frauduleuses plus nombreuses et/ou plus élaborées
+* Cyberattaques plus nombreuses et/ou plus élaborées
+* Mésinformation et désinformation
+* Menaces potentielles pour l’intégrité et la sécurité
+
+## Exemples de travaux du BSIF sur l’innovation numérique
+
+Nous sommes soucieux d’aider les institutions financières canadiennes à composer avec le nouveau paysage numérique moyennant des consignes efficaces et des outils novateurs.
+
+### Régime au regard des normes de fonds propres et de liquidité et régime au regard des normes de capital visant les expositions sur crypto-actifs
+
+Nous avons établi la version finale des consignes sur le sujet qui s’adressent aux banques et aux sociétés d’assurance fédérales. Ces consignes permettent aux institutions financières d’innover tout en établissant des attentes relatives à la gestion du risque et aux expositions sur crypto-actifs, ainsi que des exigences de fonds propres et de liquidité, ou de capital.
+
+La [ligne directrice Régime au regard des normes de fonds propres et de liquidité visant les expositions sur crypto-actifs – secteur bancaire (2026)](/fr/consignes/repertoire-consignes/regime-au-regard-normes-fonds-propres-liquidite-visant-expositions-sur-crypto-actifs-banques-ligne "Régime au regard des normes de fonds propres et de liquidité visant les expositions sur crypto-actifs (banques) – Ligne directrice (2026)")  est fondée sur les normes détaillées et révisées de classification et de traitement des crypto-actifs publiées par le Comité de Bâle sur le contrôle bancaire (CBCB). [La ligne directrice Régime au regard des normes de capital visant les expositions sur crypto-actifs – secteur de l’assurance (2026)](/fr/consignes/repertoire-consignes/regime-au-regard-normes-capital-visant-expositions-sur-crypto-actifs-assurance-ligne-directrice "Régime au regard des normes de capital visant les expositions sur crypto-actifs (assurance) – Ligne directrice") s’inspire de la ligne directrice à l’intention du secteur bancaire avec quelques différences pour tenir compte des activités d’assurance et concorder avec les cadres existants du BSIF en matière de capital des sociétés d’assurance.
+
+Nous avons tenu compte des commentaires issus d’une consultation publique organisée de juillet à septembre 2023 au moment de mettre la dernière main aux lignes directrices. Les versions finales entreront en vigueur le 1er janvier 2026 et remplaceront le préavis sur les dispositions provisoires du régime au regard des normes de fonds propres et de liquidité visant les expositions sur crypto-actifs publié en août 2022.
+
+### Communication publique des expositions sur crypto-actifs
+
+L’approche que nous adopterons à l’égard des attentes concernant la communication d’informations sera itérative et adaptée à l’évolution de l’environnement de risque. La [ligne directrice Communication de renseignements par les banques d’importance systémique intérieure (BISi) au titre du troisième pilier (2025)](/fr/consignes/repertoire-consignes/communication-renseignements-banques-dimportance-systemique-interieure-bisi-au-titre-du-troisieme "Communication de renseignements par les banques d’importance systémique intérieure (BISi) au titre du troisième pilier (2025)") et la [ligne directrice Communication de renseignements par les petites et moyennes  institutions de dépôt (PMB) au titre du troisième pilier (2025)](/fr/consignes/repertoire-consignes/communication-renseignements-petites-moyennes-institutions-depot-pmb-au-titre-du-troisieme-pilier "Communication de renseignements par les petites et moyennes institutions de dépôt (PMB) au titre du troisième pilier (2025)") suivent une approche modérée qui est à la mesure du risque et tiennent compte des commentaires que nous avons reçus sur les attentes en matière de communication des expositions sur crypto-actifs.
+
+Les exigences de communication des expositions sur crypto-actifs des banques entreront en vigueur pour la période de déclaration du premier trimestre de l’exercice 2026, conformément aux normes du Comité de Bâle sur le contrôle bancaire que, par ailleurs, elles intègrent.
+
+En outre, nous prévoyons de commencer à publier, dès 2026, les expositions sur crypto-actifs de l’ensemble des institutions d’après les données réglementaires déclarées.
+
+* [Déclaration à l’intention des entités exerçant des activités liées aux crypto-actifs ou offrant des services dans ce domaine](/fr/nouvelles/declaration-lintention-entites-exercant-activites-liees-cryptoactifs-ou-offrant-services-dans-ce "Déclaration à l’intention des entités exerçant des activités liées aux cryptoactifs ou offrant des services dans ce domaine")
+* [Consultation sur les recommandations internationales relatives aux dispositifs de crypto-actifs se référant à une monnaie fiduciaire et aux activités connexes, et sur les risques qui y sont associés](/fr/consultation-sur-recommandations-internationales-relatives-dispositifs-cryptoactifs-se-referant "Consultation sur les recommandations internationales relatives aux dispositifs de cryptoactifs se référant à une monnaie fiduciaire et aux activités connexes, et sur les risques qui y sont associés")
+
+![](/sites/default/files/images/pillar3-pilier3-video-fr.png)
+
+[Les consignes bonifient la transparence, la comparabilité des données et la discipline de marché](/fr/propos-du-bsif/mediatheque/lignes-directrices-sur-communication-expositions-crypto-actifs-au-titre-du-troisieme-pilier "Les lignes directrices sur la communication des expositions aux crypto-actifs au titre du troisième pilier")
+
+### Pourquoi le régime visant les expositions sur crypto-actifs est important
+
+Le régime visant les expositions sur crypto-actifs fait écho à l’évolution de l’environnement de risque et aux nouvelles tendances à l’échelle mondiale et clarifie, pour les institutions de dépôt et les assureurs, le régime à appliquer aux expositions sur crypto–actifs au regard des normes de fonds propres et de liquidité, ou de capital. Nous y précisons nos attentes envers les institutions financières quant à la communication de leurs expositions sur crypto-actifs en nous appuyant sur nos réussites et dans un souci d’amélioration continue. Composante essentielle du régime de réglementation du BSIF, la communication publique d’informations permet d’accroître la transparence et la comparabilité des données, et d’améliorer la discipline de marché, contribuant ainsi à renforcer la sécurité du système financier.
+
+### Intelligence artificielle et informatique quantique
+
+En collaboration avec le Global Risk Institute (Institut du risque mondial), nous avons réuni des leaders éclairés dans le domaine de l’IA au sein d’un forum pour discuter des mesures de protection et de la gestion du risque lié à l’utilisation de l’IA par les institutions financières. Ces travaux ont abouti à la publication d’un rapport, [Une perspective canadienne sur l’intelligence artificielle responsable](/fr/propos-du-bsif/rapports-publications/forum-sur-lintelligence-artificielle-dans-secteur-services-financiers-perspective-canadienne-sur "Forum sur l’intelligence artificielle dans le secteur des services financiers: une perspective canadienne sur l’intelligence artificielle responsable"), le 17 avril 2023.
+
+Par ailleurs, en décembre 2023, de concert avec l’Agence de la consommation en matière financière du Canada (ACFC), nous avons envoyé un questionnaire facultatif aux institutions financières fédérales afin de recueillir des commentaires sur leur niveau de préparation en matière d’IA et d’informatique quantique. En nous appuyant sur les renseignements obtenus grâce au questionnaire, nous avons ensuite publié conjointement avec l’ACFC le [Rapport du BSIF et de l’ACFC - L’IA dans les institutions financières fédérales : utilisations et risques](/fr/propos-du-bsif/rapports-publications/rapport-du-bsif-lacfc-lia-dans-institutions-financieres-federales-utilisations-risques "Rapport du BSIF et de l'ACFC - L'IA dans les institutions financières fédérales : utilisations et risques") le 24 septembre 2024.
+
+## Exemples de travaux portant sur l’innovation numérique au Canada
+
+Nous collaborons avec nos interlocuteurs privilégiés, comme l’Agence de la consommation en matière financière du Canada et la Société d’assurance-dépôts du Canada, pour guider les acteurs du secteur financier du Canada dans le domaine de l’innovation numérique.
+
+* [Déclaration à l’intention des entités exerçant des activités liées aux crypto-actifs ou offrant des services dans ce domaine](/fr/nouvelles/declaration-lintention-entites-exercant-activites-liees-cryptoactifs-ou-offrant-services-dans-ce "Déclaration à l’intention des entités exerçant des activités liées aux cryptoactifs ou offrant des services dans ce domaine")
+* [Énoncé de politique sur les services bancaires pour les gens (Énoncé économique de l’automne 2023](https://www.canada.ca/fr/ministere-finances/programmes/politique-secteur-financier/mise-en-oeuvre-du-systeme-bancaire-ouvert/2023-eea-enonce-politique-services-bancaires-pour-les-gens.html))
+* [Rapport final du Comité consultatif sur le système bancaire ouvert](https://www.canada.ca/fr/ministere-finances/programmes/consultations/2021/rapport-final-comite-consultatif-systeme-bancaire-ouvert.html)
+
+## Exemples de travaux portant sur l’innovation numérique à l’échelle internationale
+
+Nous participons à plusieurs projets internationaux qui proposent des réponses aux risques posés par l’innovation numérique dans le monde entier, comme :
+
+* La [version finale des cadres internationaux de réglementation et de surveillance des activités sur crypto-actifs et des dispositifs de cryptomonnaies stables internationales](https://www.fsb.org/2023/07/fsb-finalises-global-regulatory-framework-for-crypto-asset-activities/) (en anglais seulement) publiés par le Conseil de stabilité financière en juillet 2023
+* Le [traitement prudentiel des crypto-actifs](https://www.bis.org/basel_framework/chapter/SCO/60.htm) (en anglais seulement) publié en décembre 2022 par le Comité de Bâle sur le contrôle bancaire
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2025-02-20

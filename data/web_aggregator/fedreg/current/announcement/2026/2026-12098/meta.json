@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12098",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Sunshine Act Meetings",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12098/sunshine-act-meetings",
+  "reference_number": "2026-12098",
+  "published_date": "2026-06-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7b1287de4c7e0d6e601c98bcb9308ad6697361b5b5858bb7f90d1b51002f242e",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12098",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

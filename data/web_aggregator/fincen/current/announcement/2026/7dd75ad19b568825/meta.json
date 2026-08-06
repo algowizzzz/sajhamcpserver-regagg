@@ -1,0 +1,24 @@
+{
+  "doc_id": "7dd75ad19b568825",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Application of Section 311 Special Measures to the payment of current and future potential obligation of a US customer | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/application-section-311-special-measures",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:42449530a5c067cfd2933fb96f236a8c95103206350491669539c90ab31f12a3",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/7dd75ad19b568825",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

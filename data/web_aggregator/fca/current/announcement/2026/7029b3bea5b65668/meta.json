@@ -1,0 +1,25 @@
+{
+  "doc_id": "7029b3bea5b65668",
+  "regulator_id": "fca",
+  "doc_type": "announcement",
+  "title": "Customers of Anthony Jones (UK) Limited urged to check their insurance policy",
+  "language": "en",
+  "source_url": "https://www.fca.org.uk/news/news-stories/customers-anthony-jones-uk-limited-urged-check-insurance-policy",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f25b376e4661714948e50f3a34d4be17a65e7c03572365e84ccbaea6c2890ef2",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fca_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fca/current/announcement/2026/7029b3bea5b65668",
+  "tags": [
+    "uk",
+    "conduct",
+    "securities"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-11856",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities: Proposed Information Collection; Reporting Forms and Instructions for Permitted Payment Stablecoin Issuers Subject to the Jurisdiction of the Office of the Comptroller of the Currency; Comment Request",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11856/agency-information-collection-activities-proposed-information-collection-reporting-forms-and",
+  "reference_number": "2026-11856",
+  "published_date": "2026-06-12",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1a27973003164a43c8d28332bf836110c9c34861ee18b8babaa712dfced991ac",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-11856",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

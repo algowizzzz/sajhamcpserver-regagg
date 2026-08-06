@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) and the other two European Supervisory Authorities - the European Banking Authority, the European Securities and Markets Authority - have received a [request](/document/download/71637c30-9530-4598-8afc-279bf88a0c5

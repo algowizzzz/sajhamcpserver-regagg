@@ -1,0 +1,12 @@
+Page Content
+
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its Discussion paper on resolution funding and national insurance guarantee schemes as a follow-up to the EIOPA Opinion on the harmonisation of recovery and resolution frameworks for (re)insurers across the Member States published in 2017.
+
+In the European Union, there are different sources of resolution funding available for failing insurers. The landscape of insurance guarantees schemes is also significantly fragmented, with the existing schemes differing quite substantially in terms of financing, functions, mandate and coverage. In its discussion paper, EIOPA has analysed the need for potential harmonisation of insurance guarantee schemes.
+
+Publication date
+:   30 July 2018
+
+## Related links
+
+[EIOPA publishes discussion paper on national insurance guarantee schemes](/document/download/1d6c8abe-76c6-49a8-a034-71a6bf894b5a_en?filename=EIOPA%20publishes%20discussion%20paper%20on%20national%20insurance%20guarantee%20schemes.pdf)

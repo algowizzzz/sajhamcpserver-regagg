@@ -1,0 +1,84 @@
+# Frequently asked questions – Basel III reforms
+
+Information
+
+Publication type
+
+Frequently asked questions
+
+[Generate PDF](/en/print/pdf/node/589)
+
+Table of contents
+
+## Capital Adequacy Requirements (CAR) Guideline
+
+### Chapter 1 – Overview of Risk-Based Capital Targets
+
+1. What are Small and Medium Sized Deposit-Taking Institutions' (SMSBs) capital buffers intended to guard against? What are the implications of using these buffers and how does OSFI monitor their use?
+:   Buffers are built-up during normal times to provide an institution with additional flexibility in times of stress. Capital buffers can be used to absorb unexpected losses while continuing to provide financial services. As part of on-going supervisory activities, OSFI has frequent discussions with SMSBs and monitors their capital and liquidity positions as well as their exposures. SMSBs that plan to use Pillar II buffers by operating below their internal capital targets should have prior discussions with their Lead Supervisor, including a credible plan that demonstrates how and when it intends to restore its buffers. OSFI's review of planned buffer usage will consider the specific circumstances of each institution, including whether a SMSB's expected use of the capacity is prudent, and capital conservation actions have been incorporated as appropriate.
+
+2. What sorts of risks or factors should an SMSB consider when establishing its internal capital targets?
+:   A SMSB's internal target is the sum of the minimum requirements, Pillar I and Pillar II buffers. OSFI expects SMSBs to set their internal targets at levels that are adequate to support the nature and level of their risks. This includes consideration of material risks unique to an SMSB's operations, risks that are not sufficiently captured in Pillar I capital requirements and a SMSB's stress testing results. For example, a SMSB should consider its exposure to various aspects of credit risk (including concentrations), market risk, operational risk, and interest rate risk in the banking book, amongst others.
+
+### Chapter 3 – Operational Risk
+
+1. What is OSFI’s process for considering exclusion requests related to the Loss Component, under section 3.4.5 of the CAR Guideline?
+:   In practice, we expect that the exclusion of internal loss events will be very rare, only occurring in rare circumstances. First, any request for loss exclusion is subject to a materiality threshold such that the loss event should be greater than 5% of the institution's average annual losses over the past 10 years. If OSFI concludes that the above condition has been satisfied, unless the loss is related to a divested activity, it must be included in the financial institution’s loss data for at least three years.
+
+    If OSFI concludes that the above conditions have been satisfied, it will then consider whether the loss can be excluded because it is no longer relevant to the institution’s risk profile. In assessing the relevance of operational loss events to the institution’s risk profile, OSFI will consider whether the cause of the loss event could occur in other areas of the institution’s operations. This could be due to the institution continuing to engage in the same, or a similar, business activities. However, even if the institution is no longer involved in a similar activity, OSFI will consider whether the loss event was due to the lack of effective operational risk management policies, practices or controls within the institution in assessing relevance to its operational risk profile.
+
+    A decision tree is presented below to visualize this process
+
+    ![Text description to follow below](/sites/default/files/2023-11/basel-faq-img1.jpg)
+
+    Decision tree - Text description
+
+    Step 1 - Is the loss event greater than 5% of the institution's average annual losses over the past 10 years?
+    :   * If yes, **go to step 2**
+        * If no, reject the loss event exclusion request – **End of process**
+
+    Step 2 - Can the institution exclude the loss event after it has been included in the loss data for at least three years (unless it relates to a divested activity)?
+    :   * If yes, **go to step 3**
+        * If no, the institution must wait three years to apply for a loss event exclusion – **End of process**
+
+    Step 3 - Is the loss still relevant to the institution’s risk profile?
+    :   * If yes, reject the loss event exclusion request – **End of process**
+        * If no, accept the loss event exclusion request – **End of process**
+
+### Chapter 4 – Credit Risk – Standardized Approach
+
+1. What can be considered equity for the purposes of Loan-to-Value (LTV) calculations of a land acquisition, development and construction (ADC) exposure?
+:   For the purposes of assessing the LTV of an ADC exposure, institutions may count the following as equity:
+
+    * Land lift included in the “appraised as completed” value of the property, consistent with expectations set out in paragraph 92 of CAR Chapter 4 and in OSFI's Guideline B-20: Residential Mortgage Insurance Underwriting Practices and Procedures B-20.
+    * Deposits from future purchasers and/or cash equity from the builder injected into the construction project prior to senior loan disbursement and that insulate the lender from loss should the borrower default
+    * Senior lenders may also treat debt subordinated to the senior exposure, that would insulate the lender from loss in the amount of the subordinated tranche in the case of borrower default, as equity for purposes of an LTV calculation of an ADC project.
+
+    Note that land lift should not be reflected in LTV calculations for land acquisition loans.
+
+### Chapter 9 – Market Risk
+
+1. For paragraph 114 of CAR Chapter 9, regarding an institution’s choice to include instruments without optionality in the curvature risk calculation, please clarify the requirement to apply this approach consistently through time.
+:   The choice to include instruments without optionality in the calculation of curvature risk rests with each institution; however, once this choice is made, there should be a consistent approach applied at each desk level over time. Should changes be necessary as a result of major methodology or infrastructure enhancements, OSFI should be notified.
+
+2.Do Profit and Loss Attribution (PLA) and back-testing requirements apply to General Interest Rate Risk (GIRR), Internal Risk Transfer (IRT) desk or other notional desks of institutions that have their entire portfolios and desks under the standardized approach?
+:   No. The PLA and back-testing requirements apply to the GIRR IRT desk or other notional trading desks under the Internal Model Approach (IMA); however, institutions may want to consider the application of such requirements in case they intend to apply for IMA.
+
+3.What are the consequences of the ineffectiveness of an internal risk transfer of general interest rate risk from the banking book to the trading book?
+:   The results of such ineffectiveness are similar to what is stated in paragraph 80 for the internal risk transfer of credit and equity risk from the banking book to the trading book. Specifically, the third-party external hedge must be fully included in the market risk capital requirements and the trading book leg of the internal risk transfer must be fully excluded from the market risk capital requirements.
+
+4.Are exposures to Canadian provincial and territorial governments, including agents of the federal, provincial or territorial government, obligations of the parent government and, therefore, considered exposures of the Government of Canada for the purposes of the Default Risk Charge (DRC) calculation?
+:   Yes, consistent with Chapter 4 of the CAR Guideline, exposures to Canadian provincial and territorial governments, including agents of the federal, provincial or territorial government, are obligations of the parent government and considered exposures of the Government of Canada. This treatment also holds for the DRC calculations under section 9.5.3.
+
+## Leverage Requirements (LR) Guideline
+
+1. Paragraph 13 of the Leverage Requirements Guideline states that the leverage ratio buffer will be set at 50% of a D-SIB’s higher-loss absorbency risk-weighted requirements. How does the new leverage ratio buffer interact with the Total Loss Absorbing Capacity (TLAC) leverage ratio?
+:   The leverage ratio buffer is added to the 6.75% minimum TLAC leverage ratio applicable to D-SIBs. Given the calibration of the leverage ratio buffer, this results in a supervisory target TLAC leverage ratio of 7.25%.
+
+2. Are institutions' authorized leverage ratios still in force, or only the 3% regulatory minimum?
+:   Institutions are required to maintain leverage ratios above their authorized leverage ratios at all times.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-10-20

@@ -1,0 +1,1 @@
+Summary: # Millrose Properties, Inc. Q2 2026 Earnings Call Summary

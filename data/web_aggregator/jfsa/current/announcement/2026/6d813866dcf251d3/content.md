@@ -1,0 +1,109 @@
+![Japan Fintech Week 2027 is scheduled to be held from February 24 to March 5.](img/top/jfw2027_en.webp)
+![Japan Fintech Week 2027 is scheduled to be held from February 24 to March 5.](img/top/jfw2027_sp_en.webp)
+
+![Japan Fintech Week Tuesday,February 24 - Friday,March 6](img/top/main.webp)
+![Japan Fintech Week Tuesday,February 24 - Friday,March 6](img/top/main_sp.webp?251128)
+
+![Total number of participants：20,000＋、Participating countries and regions：70＋、Number of related events：82](img/top/slide01_en.webp)
+![Total number of participants：220,000＋、Participating countries and regions：70＋、Number of related events：82](img/top/slide01_en_sp.webp)
+
+## What's New
+
+November 13,2025
+
+[Application form to receive approval as a partner event for the Japan Fintech Week*![Open in new window](img/common/icon_external.svg)*](https://forms.office.com/Pages/ResponsePage.aspx?id=_6DkBnJJi0qvMEVxNh0TRFdn7DF9MoVLn47b-RmpfvJUQk5NNU43RzUySUtEOEhDQVdLRDcyTDc3Mi4u) is now open.
+
+November 13,2025
+
+[Newsletter registration*![Open in new window](img/common/icon_external.svg)*](https://forms.office.com/Pages/ResponsePage.aspx?id=_6DkBnJJi0qvMEVxNh0TRFdn7DF9MoVLn47b-RmpfvJUMkFSOURBT1dGNkJLNjlHN1FGSTM1Wjg4Vy4u) form is now available.
+
+November 13,2025
+
+Japan Fintech Week 2026 Website is now live.
+
+## About Japan Fintech Week
+
+To showcase the appeal of Japan’s fintech industry to the global community and create new business opportunities for further development, *Japan Fintech Week 2026* will be held from **February 24th to March 6th**.  
+By collaborating with related events organized by various industry groups, this initiative aims to provide a platform where domestic and international fintech stakeholders can come together in one place.
+
+The 10th edition of “[FIN/SUM 2026](https://www.finsum.jp/en_index.html)” (organized by the Financial Services Agency of Japan and Nikkei Inc.) will be held under the theme “FIN/SUM NEXT: The New Financial Ecosystem Shaped by AI and Blockchain” The event will feature discussions from diverse perspectives on how finance should evolve over the next decade.
+
+![](img/top/img_about01.jpg)
+
+![](img/top/img_about02.jpg)
+
+|  |  |
+| --- | --- |
+| Title | Japan Fintech Week 2026 |
+| Date and Time | Tuesday,February 24 - Friday,March 6 |
+| Location | Various locations in Tokyo and other large cities in Japan |
+| Program Highlights | Keynote speeches, panel discussions, startup pitches, round tables, networking opportunities, booth exhibits, and more. |
+
+**\* Please refer to each partner event's website for information on how to participate. Please note that there is no single ticket that allows you to attend all events of the Japan Fintech Week 2026.**
+
+[Event information](https://luma.com/japanfintechweek2026?k=c)
+
+Organized by
+
+* [![Financial Services Agency](img/top/txt_fsa.svg)](https://www.fsa.go.jp/en/index.html)
+* [![Fintech Association of Japan](img/common/logo_fintech.svg)](https://fintechjapan.org/en/)
+
+Special supporter(Updated February 24)
+
+* ![Bay Current](img/common/special-supporter/banner_baycurrent.png)
+* ![DeCurret](img/common/special-supporter/banner_decurret.png)
+* ![DENTSU SOKEN INC.](img/common/special-supporter/banner_dentsu.jpg)
+* ![Digital Asset](img/common/special-supporter/banner_digitalasset.png)
+* ![FDUA](img/common/special-supporter/banner_fdua.png)
+* ![FinGATE](img/common/special-supporter/banner_fingate.png)
+* ![FINOLAB](img/common/special-supporter/banner_finolab.png)
+* ![Funds](img/common/special-supporter/banner_funds.png)
+* ![GFTN](img/common/special-supporter/banner_gftn.png)
+* ![JP crypto-isac](img/common/special-supporter/banner_crypto-isac.jpg)
+* ![nomura](img/common/special-supporter/banner_nomura.jpg)
+* ![SEVEN BANK](img/common/special-supporter/banner_sevenbank.jpg)
+* ![Switzerland Global Emterprise](img/common/special-supporter/banner_switzerland.png)
+* ![TIS](img/common/special-supporter/banner_TIS.png)
+
+Supported by(Updated February 24)
+
+* ![Bank of Japan](img/common/banner_boj.jpg)
+* ![Tokyo Metropolitan Government](img/common/banner_tokyo-metropolitan-government_en.png)
+* ![Fukuoka Prifecture](img/common/banner_fukuoka_prifecture.png)
+* ![Osaka Prifecture Govermment](img/common/banner_osakafu.png)
+* ![Osaka City](img/common/banner_osakacity.png)
+* ![BGIN](img/common/banner_bgin.jpg)
+* ![HOKEN NO MIRAI](img/common/banner_hokennomirai.png)
+* ![pacific meta](img/common/banner_pacificmeta.png)
+* ![credit saison](img/common/banner_creditsaison.png)
+* ![LexisNexis](img/common/banner_lexisNexis.png)
+* ![Money X](img/common/banner_money.png)
+* ![SBI R3 Japan](img/common/banner_r3j1.png)
+* ![S&P Globals](img/common/banner_SPGMI.png)
+* ![NADA NEWS](img/common/banner_nadanews.png)
+* ![Microsoft](img/common/banner_microsoft.png)
+* ![JCBA](img/common/banner_jcba.png)
+* ![jtb](img/common/banner_jtb.png)
+* ![The Japan Financial News](img/common/banner_nikkin.png)
+* ![JPX](img/common/banner_jpx.png)
+* ![QUICK](img/common/quick.png)
+* ![snowflake](img/common/banner_snowflake.png)
+* ![Bloomberg](img/common/banner_bloomberg.png)
+* ![Bitgo](img/common/banner_bitgo.png)
+* ![Figment](img/common/banner_figment.png)
+* ![Decima fund](img/common/banner_decima_fund.png)
+* ![ITC Japan](img/common/banner_itc-japan.png)
+* ![Plug and Play](img/common/banner_plug-and-play.png)
+* ![Fintech Journal](img/common/banner_fin_tech_journal.png)
+* ![FITA](img/common/banner_fita.png)
+* ![Australian Government](img/common/banner_australian-government.png)
+
+## Contact Us
+
+If you are interested in sponsoring or hosting a partner event at Japan Fintech Week 2026, please contact us here: [jfw@fsa.go.jp](mailto:jfw@fsa.go.jp).  
+**For sponsorships and exhibitions in events held during Japan Fintech Week, please contact the organizers directly.**
+
+![Japan Fintech Week 2025](img/common/h_logo.png)
+
+* [![Twitter](img/common/icon_tw.svg)](https://twitter.com/fsa_JAPAN)
+* [![Linkedin](img/common/icon_in.svg)](https://linkedin.com/company/jfsa-japanfintechweek)

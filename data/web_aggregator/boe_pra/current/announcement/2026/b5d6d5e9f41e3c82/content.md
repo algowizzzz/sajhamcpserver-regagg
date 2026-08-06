@@ -1,0 +1,57 @@
+# Travel restrictions as border frictions: evidence from the Covid-19 pandemic
+
+Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.
+
+Published on
+18 June 2026
+
+## Staff Working Paper No. 1,189
+
+**John Lewis**
+
+Using a gravity framework with internal trade flows, I find that travel restrictions translated into large and economically meaningful increases in the cost of trading goods across borders. Travel restrictions operated like a classic border friction, with a full closure reducing bilateral trade by around 19% for a typical country pair and implying a hit to global trade of approximately 23% in 2020 Q2. The effects are highly heterogeneous with respect to distance and transport mode: geographically proximate trading partners experienced larger trade losses and trade flows by road and air were significantly disrupted, while seaborne and rail trade were not. The interaction between distance and transport exposure generates substantial cross-country variation in the overall trade impact of border closures, and explains why some countries were able to close their borders at a (much) lower cost to trade flows than others. There is no evidence of long run scarring effects from restrictions, rather trade rebounded strongly with a temporary ‘overshooting’ once restrictions were eased.
+
+[![](/assets/img/icon-pdf.svg)Travel restrictions as border frictions: evidence from the  
+Covid-19 pandemic](/-/media/boe/files/working-paper/2026/travel-restrictions-as-border-frictions-evidence-from-the-covid-19-pandemic.pdf)
+
+[![](/-/media/boe/images/icons/e/ic_mail-in.svg?h=30&iar=0&mh=30&mw=30&w=30&hash=3E5EAC6D60A4FE2C57052FA5724C168C)
+
+### Sign up for latest updates](/subscribe-to-emails)
+
+## Other staff working papers
+
+[Publication // Working Paper
+
+24 July 2026
+
+### The devil in the DeTail: assessing state-contingent...
+
+### The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital...](/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects)
+
+[Publication // Working Paper
+
+17 July 2026
+
+### A flexible deviation from FIRE in the sequence...
+
+### A flexible deviation from FIRE in the sequence space](/working-paper/2026/a-flexible-deviation-from-fire-in-the-sequence-space)
+
+[Publication // Working Paper
+
+17 July 2026
+
+### Anchors aweigh? The effect of communicating...
+
+### Anchors aweigh? The effect of communicating forecast uncertainty](/working-paper/2026/anchors-aweigh-the-effect-of-communicating-forecast-uncertainty)
+
+[Publication // Working Paper
+
+10 July 2026
+
+### SoS! The overnight bilateral liquidity provision...
+
+### SoS! The overnight bilateral liquidity provision of non-bank financial institutions to banks](/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks)
+
+[View more Other staff working papers](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&Taxonomies=4509710da7894b9f992d983b8ebdcfbc&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

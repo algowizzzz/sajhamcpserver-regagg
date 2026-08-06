@@ -1,0 +1,1 @@
+Summary: MICHEL BARNIER 

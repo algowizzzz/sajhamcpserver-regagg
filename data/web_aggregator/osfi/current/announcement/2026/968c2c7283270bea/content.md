@@ -1,0 +1,45 @@
+# Related party transactions of nominal value
+
+Information
+
+Type of document
+
+Transaction instructions
+
+Category
+
+Deemed approval
+
+Last updated
+
+April 2009
+
+Index DA No
+
+20
+
+## Legislative authorities
+
+* section 490 of [Bank Act](https://laws-lois.justice.gc.ca/eng/acts/b-1.01/)
+* section 478 of [Trust and Loan Companies Act](https://laws-lois.justice.gc.ca/eng/acts/t-19.8/)
+* section 522 of [Insurance Companies Act](https://laws-lois.justice.gc.ca/eng/acts/i-11.8/)
+* section 414 of [Cooperative Credit Associations Act](https://laws-lois.justice.gc.ca/eng/acts/c-41.01/)
+
+## Information Requirements
+
+* description of the transaction and its value
+* rationale for entering into the transaction and for considering it to be a transaction of nominal value
+* name, address and description of activities of related party
+
+## Administrative Guidance
+
+An application under any of the legislative authorities:
+
+* is required to be submitted to the Superintendent for approval only in an instance where an application is not already deemed to be approved by the Superintendent because the FI has not adopted materiality criteria at least as stringent as those set out in OSFI’s E-6 bulletins on materiality criteria for related party transactions: *Materiality Criteria for Related Party Transactions* for banks, trust and loan companies, and cooperative credit associations; *Materiality Criteria for Related Party Transactions of Life Insurance Companies*; and, *Materiality Criteria for Related Party Transactions of Property and Casualty Insurance Companies*
+
+*The information requirements and administrative guidance are intended to satisfy typical applications. They have been derived from OSFI’s experience in assessing applications. Applicants who provide all information and material requested can generally expect a more timely assessment of their applications. As appropriate to the circumstances, OSFI may request additional information, take into account other matters, impose terms and conditions, or require undertakings.*
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-01-17

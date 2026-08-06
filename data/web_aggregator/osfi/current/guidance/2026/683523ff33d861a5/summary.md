@@ -1,0 +1,1 @@
+Summary: # Data Maintenance Expectations for Institutions Using the Standardized Approach for Operational Risk Capital Data

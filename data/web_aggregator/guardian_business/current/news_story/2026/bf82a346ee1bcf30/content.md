@@ -1,0 +1,7 @@
+# The Fifa family: which confederations could support Infantino or turn against him?
+
+Gianni Infantino is under increasing scrutiny following his World Cup sell-off plan. We look at each confederation’s relationship with the president The pressure is growing on the Fifa president, Gianni Infantino, with many countries withdrawing their support following the bungled World Cup sell-off. However, how key is Infantino’s relationship with each confederation and is it likely that an election contest will actually happen? We look at the key considerations, confederation by confederation. Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/football/2026/aug/04/fifa-which-confederations-could-support-gianni-infantino-or-turn-against-him)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

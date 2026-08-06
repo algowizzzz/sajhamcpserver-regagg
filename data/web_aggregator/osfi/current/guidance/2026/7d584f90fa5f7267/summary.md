@@ -1,0 +1,1 @@
+Summary: # Modification to the Capital Floor Transition schedule in Chapter 1 of the Capital Adequacy Requirements (CAR) guideline

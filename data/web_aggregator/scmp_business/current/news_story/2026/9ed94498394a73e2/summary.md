@@ -1,0 +1,1 @@
+Summary: # Innovation platform buys Hong Kong office tower as state-linked buyers seek bargains

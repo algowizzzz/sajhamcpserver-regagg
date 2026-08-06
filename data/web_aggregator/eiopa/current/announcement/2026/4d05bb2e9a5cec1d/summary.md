@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a consultation package on supervisory reporting and public disclosure in the context of its work linked with the 2020 Solvency II Review. EIOPA will be consulting on the review of supervisory report

@@ -1,0 +1,24 @@
+{
+  "doc_id": "462d27b8911bc849",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FinCEN Advisory \u2013 FIN-2015-A001 | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2015-a001",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1bee4d9018df8d0c7fbf8e1ad5b25ce6130af7a2b5254bb2edda6f45d0e55833",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/462d27b8911bc849",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

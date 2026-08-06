@@ -1,0 +1,1 @@
+Summary: ![People tossing graduation caps into the air](/sites/default/files/styles/wide_lead/public/media/2021/08/graduates.png?h=b8ccb851&itok=SLCvvh3i "Graduates")

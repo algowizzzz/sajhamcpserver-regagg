@@ -1,0 +1,35 @@
+# Extension of Limited Exception from Beneficial Ownership Requirements for Legal Entity Customers of Certain Financial Products and Services with Rollovers and Renewals
+
+[Extension\_Temp\_Exceptive\_Relief.pdf](/system/files/administrative_ruling/2018-08-08/Extension_Temp_Exceptive_Relief.pdf "Extension_Temp_Exceptive_Relief.pdf")
+(65.29 KB)
+
+FIN-2018-R003
+
+Extension of Limited Exception from Beneficial Ownership Requirements for Legal Entity Customers of Certain Financial Products and Services with Rollovers and Renewals
+
+Issued Date
+
+August 08, 2018
+
+Financial Institution
+
+Depository Institutions
+
+Securities and Futures
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

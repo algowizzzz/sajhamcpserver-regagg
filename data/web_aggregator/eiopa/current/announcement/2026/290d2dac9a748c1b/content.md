@@ -1,0 +1,34 @@
+## [ESAs consult on proposed changes to the key information document for PRIIPs](/esas-consult-proposed-changes-key-information-document-priips-2018-11-08_en)
+
+Page Content
+
+The European Supervisory Authorities (ESAs) have today issued a consultation paper on targeted amendments to the Delegated Regulation covering the rules for the Key Information Document (KID) for Packaged Retail and Insurance-based Investment Products (PRIIPs).
+
+The ESAs, on 1 October 2018, set out in a letter to the European Commission their intention to make proposals to support legislative changes to avoid the possibility of duplicating information requirements for investment funds from 1 January 2020, and to tackle key issues that have arisen since the implementation of the KID. The consultation paper addresses, in particular, amendments to the information regarding investment products' performance scenarios.
+
+The proposals are made in the context of the ongoing discussions between the European co-legislators on the application of the KID by certain investment funds as well as the timing of a wider and more comprehensive review of PRIIPs, which was due this year. The outcome of this targeted review is without prejudice to that wider review, and it would be beneficial to conduct such a wider review early in the next term of the European Parliament.
+
+In addition, when deciding upon the nature of their final recommendations following this consultation in January 2019, the ESAs will take into account the feedback from respondents to this consultation and the latest information of these political discussions on the application of the KID by certain investment funds and the timing of the wider review.
+
+The deadline for submission of feedback is by Thursday, 6 December 2018.
+
+The consultation paper and template for comments can be obtained [here](https://www.eiopa.europa.eu/content/joint-amendments-priips-kid).
+
+#### **Background**
+
+**The KID for PRIIPs** is a mandatory, three-page A4 information document to be provided to consumers before purchasing a PRIIP. PRIIPs include for example funds, structured products, unit-linked and with-profits life insurance contracts, and structured deposits.
+
+**The PRIIPs Regulation** (No 1286/2014) defines the **main rules and principles** for KIDs. It is supplemented by a Delegated Regulation (2017/653) specifying the presentation and contents of the KID, which is based on Regulatory Technical Standards that the ESAs were mandated to develop.
+
+**Performance scenarios** are included in the Section of the KID titled "What are the risks and what could I get in return?" They indicate how the investment could perform under various different scenarios.
+
+Publication date
+:   8 November 2018
+
+## Related links
+
+[ESA response to European Commission request - a letter](/document/download/c0109121-a856-42d2-af21-f643385b452f_en?filename=ESA%20response%20to%20European%20Commission%20request%20-%20a%20letter.pdf)
+
+[Joint Consultation Paper](/document/download/fb50d330-83c5-43fe-848d-2ac93705de20_en?filename=Joint%20Consultation%20Paper.pdf)
+
+[Comments Template for Joint Consultation Paper](/document/download/5b5c7874-bbff-4b58-aa17-24292d36fc28_en?filename=Comments%20Template%20for%20Joint%20Consultation%20Paper.doc)

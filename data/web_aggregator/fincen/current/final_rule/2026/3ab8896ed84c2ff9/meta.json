@@ -1,0 +1,24 @@
+{
+  "doc_id": "3ab8896ed84c2ff9",
+  "regulator_id": "fincen",
+  "doc_type": "final_rule",
+  "title": "CDD Final Rule | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-and-regulations/cdd-final-rule",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b9ace4a1575292a1fddfc82e86ad65fca7bf6ef3442aade812e7cac78fa32976",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/final_rule/2026/3ab8896ed84c2ff9",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

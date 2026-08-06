@@ -1,0 +1,45 @@
+[Press](https://www.fsb.org/content_types/press/ "Go to the Press Content Type archives.")[Speeches](https://www.fsb.org/content_types/speeches/ "Go to the Speeches Content Type archives.")Opening remarks on sound practices for artificial intelligence
+
+*The views expressed in these remarks are those of the speaker in their role as Chair *of the FSB Standing Committee on Supervisory and Regulatory Cooperation** *and do not necessarily reflect those of the FSB or its members.*
+
+Thank you for the opportunity to join you today to discuss the Financial Stability Board’s (FSB) consultation report on Sound Practices for Responsible Adoption of Artificial Intelligence. Both Federal Reserve staff and staff from the FSB Secretariat are eager to consider and incorporate feedback on the consultation report so that we can finalize the report later this year as a US G20 deliverable.
+
+Before offering a few thoughts about the report itself, I want to thank Hern Shin Ho from the Monetary Authority of Singapore. Hern Shin led the FSB work stream that produced this report in a very compressed timeframe, and I would also like to recognize and thank the FSB Secretariat staff who supported this work. Finally, I would like to thank our US colleagues at the Treasury and the SEC who also collaborated with us to produce this report.
+
+As many of you know, I chair the FSB’s Standing Committee on Supervisory and Regulatory Cooperation. In setting out my priorities late last year, I initiated work on a set of sound practices for financial institutions to consider in the responsible adoption and use of Artificial Intelligence (AI). Since that time, AI has continued to rapidly evolve, and financial institution use of AI has expanded. In light of these ongoing developments, it is important to engage the public to discuss the potential benefits of AI and the risks and other challenges that could arise with its use in our report. The report also describes the ways in which financial institutions, including banks, are already successfully addressing and managing AI use risks, with the broader goal of responsible innovation that benefits financial institutions and their customers.
+
+The Federal Reserve has been monitoring bank usage of AI for nearly a decade. We have seen a noticeable increase in the use of AI by banks of all sizes, and we have seen a variety of use cases. Our focus has been on supporting institutions that want to innovate responsibly by leveraging AI tools in their operations. Our work in the US has helped to inform the FSB’s report.
+
+A central element of managing AI risks is understanding the specific use cases. In the FSB’s report, we provided a variety of examples, including some in-depth case studies, to illustrate the types of governance and controls that might be appropriate in similar situations. To be clear, these practices are not the only way to adopt and use AI responsibly or to manage AI risks.  
+Another important aspect to highlight in this report is whether the use of AI is material. From my perspective, financial institutions should be specific about how they use AI and whether it is material to their business operations or legal and regulatory obligations. That actual use and materiality will help inform the type and intensity of the governance and controls that should be applied for the specific AI deployment. In the report, we emphasized that lower-risk uses of AI should receive a lighter supervisory and regulatory touch.
+
+Similarly, the report also includes a significant focus on proportionality. What works or is a consideration for larger institutions using AI in complex applications is not appropriate for smaller institutions with less complex AI uses. As I noted, our focus is on promoting innovation at financial institutions of all sizes, not just the largest ones. This report provides clear guidance to all institutions, including smaller institutions. So, I welcome feedback about whether the report strikes the appropriate balance on proportionality as it relates to AI adoption and use.
+
+To close, this report is an important first step as we consider how financial institutions can use AI responsibly. As you provide feedback, I encourage you to identify areas where the sound practices may be too prescriptive or where they fail to adequately account for differences in institutional size, complexity, and risk profile. Equally important, help us identify where we may not have adequately addressed material risks or where additional clarity would help institutions manage AI-related risks more effectively. We need to ensure these practices support responsible innovation across the financial system while maintaining appropriate safeguards, especially for higher-risk applications.
+
+The feedback we hear from you today and throughout the public comment period will help inform our final report delivered to the US G-20 presidency later this year. I am pleased with the international collaboration so far on this work and look forward to improving on this in the final report later this year.
+
+## Related Information
+
+### 29 June 2026 Virtual outreach event on FSB sound practices for financial institutions’ responsible adoption of artificial intelligence
+
+The FSB hosted a virtual outreach event on 7 July 2026.
+
+![](https://www.fsb.org/uploads/P100626-pdf.jpg)
+
+### 10 June 2026 Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Consultation report
+
+The FSB has developed sound practices to help all types of financial institutions navigate benefits and risks responsibly as they adopt AI.
+
+Content Type(s):
+[Press](https://www.fsb.org/content_types/press/)
+[Speeches](https://www.fsb.org/content_types/speeches/)
+
+Source(s):
+[FSB](https://www.fsb.org/sources/fsb/)
+
+Policy Area(s):
+[Cyber Resilience](https://www.fsb.org/policy_areas/cyber-resilience/)
+[Financial Innovation](https://www.fsb.org/policy_areas/financial-innovation/)
+[Governance](https://www.fsb.org/policy_areas/governance/)
+[Supervision and Risk Management](https://www.fsb.org/policy_areas/supervision-and-risk-management/)

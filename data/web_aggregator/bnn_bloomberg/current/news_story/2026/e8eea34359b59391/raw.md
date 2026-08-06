@@ -1,0 +1,7 @@
+# Port Day showcases Vancouver's maritime industry at Canada Place
+
+The Vancouver Fraser Port Authority will host its annual Port Day on Saturday, August 29, at Canada Place, inviting the community to learn about the maritime industry and its role in moving Canadian trade.
+
+[Read the full story at the source](https://www.bnnbloomberg.ca/press-releases/2026/08/05/port-day-showcases-vancouvers-maritime-industry-at-canada-place/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

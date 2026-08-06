@@ -1,0 +1,76 @@
+# Mandatory E-Filing FAQs
+
+#### When does E-Filing become mandatory?
+
+With limited exceptions, E-Filing is mandatory effective July 1, 2012.
+
+#### Why is FinCEN mandating E-Filing?
+
+In an effort to improve efficiency, reduce government and industry costs, and enhance the ability of FinCEN, law enforcement, and regulators to gain better and timelier access to important financial information, the Financial Crimes Enforcement Network (FinCEN) is requiring the electronic filing of certain FinCEN reports.   
+  
+Additionally, BSA E-Filing allows organizations or individuals to electronically and securely file discrete and batched FinCEN reports. It also allows a registered user to send secure messages to FinCEN (and receive responses where appropriate).
+
+#### When did FinCEN decide to make E-Filing mandatory?
+
+On September 16, 2011, FinCEN issued a notice and request for comments on the proposed requirement for electronic filing.1 On December 20, 2011, FinCEN issued an update extending the deadline for adopting the new CTR and SAR reports to March 31, 2013, but also indicated that FinCEN intends to mandate electronic filing of reports after June 30, 2012. A Final Notice mandating E-Filing was issued by FinCEN on February 24, 2012 (Final Notice 77 Fed. Reg. 12367 (2012)). For more information please visit [https://www.fincen.gov/news\_room/nr/pdf/20120223.pdf](/system/files/shared/20120223.pdf), E-Filing is mandatory as of July 1, 2012 unless you were granted a temporary exemption.
+
+#### What steps must be taken to register for E-Filing?
+
+Visit the [BSA E-Filing System](https://bsaefiling.fincen.gov/) and follow the instructions in order to enroll yourself as an individual FBAR filer or your organization as a Supervisory User in the BSA E-Filing System.
+
+#### Is there a cost to participating in BSA E-Filing?
+
+No, the BSA E-Filing system is free.
+
+#### What FinCEN Reports must be E-Filed?
+
+Currency Transaction Reports (CTRs), Suspicious Activity Reports (SARs), Registration of Money Services Businesses (RMSBs), and Designation of Exempt Persons (DOEPs) must be E-Filed.   
+  
+To receive the various benefits received from E-Filing, FinCEN encourages individuals to E-File FBARs (Reports of Foreign Bank and Financial Accounts) electronically and has made that option available at the [BSA E-Filing website](http://bsaefiling.fincen.gov/). However, FinCEN granted a general exemption for mandatory E-Filing for the FBAR until June 30, 2013.   
+  
+FinCEN has also made the option electronic filing available for Form 8300, Report of Cash Payments Over $10,000 Received in a Trade or Business. While Form 8300 may continue to be filed on paper, filers may choose to electronically file Form 8300 to enjoy the advantages of E-Filing.   
+  
+For practical reasons, the Currency and Monetary Instrument Report (CMIR), which is most often completed by individuals upon physically crossing the border into the United States, is not included in the mandate.
+
+#### When are the new FinCEN reports required to be filed?
+
+Effective April 1, 2013, the [BSA E-Filing System](http://bsaefiling.fincen.gov/)will no longer accept filings of previous versions or "legacy" reports. The BSA E-Filing System will only accept the new FinCEN SAR, CTR, RMSB, and DOEP reports. FinCEN also reminds the public that the filing of the new reports do not create any new obligations or otherwise change existing statutory and regulatory expectations of financial institutions. If you need to file an amendment or correction of a filing submitted on a previous version or "legacy" report, the amendment or correction must be completed using the new FinCEN version of the report.   
+  
+Filers of FBARs, Form 8300, and CMIR remain unaffected.
+
+#### What happens if a paper report is submitted after the July 1, 2012, electronic deadline?
+
+FinCEN may impose civil money penalties for noncompliance with our regulations, including $500 for each negligent currency transaction or suspicious activity reporting violation under 31 C.F.R. § 1010.820.
+
+#### Where can I find more information about BSA E-Filing?
+
+For more information about BSA E-Filing, please review the [E-Filing Section](/resources/filing-information) on FinCEN's Web site. FinCEN is committed to working with financial institutions to increase their understanding of the value of E-Filing and has issued a [brochure](/system/files/shared/E-File_Brochure.pdf) that highlights its benefits. For other technology-related questions specific to E-Filing, please call the BSA E-Filing Help desk at 1-866-346-9478. FinCEN has additionally prepared an [instructional presentation](http://treas.yorkcast.com/webcast/Viewer/?peid=a93e7d2b1a07427a93b0cf2e764a57421d) on how to file electronically.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+  + [BSA FAQs](/resources/answers-frequently-asked-bank-secrecy-act-bsa-questions)
+  + [Currency Transaction Report FAQs](/resources/frequently-asked-questions-regarding-fincen-currency-transaction-report-ctr)
+  + [Cyber-enabled Crime FAQs](/resources/frequently-asked-questions-faqs-regarding-reporting-cyber-events-cyber-enabled-crime-and-cyber)
+  + [E-Filing FAQs](/resources/mandatory-e-filing-faqs)
+  + [Suspicious Activity Report FAQs](/resources/frequently-asked-questions-regarding-fincen-suspicious-activity-report-sar)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)
+
+Header
+
+QUICK LINKS
+
+* [Log into BSA E-Filing](http://bsaefiling.fincen.treas.gov/PublicAccess.html)
+* [Chapter X Main Page](/resources/statutes-regulations/chapter-x)

@@ -1,0 +1,1 @@
+Summary: # Acquisition ou augmentation d’un intérêt substantiel\* et (ou) acquisition du contrôle\*\* d’une entité fédérale\*\*\*

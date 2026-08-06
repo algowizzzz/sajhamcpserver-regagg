@@ -1,0 +1,27 @@
+{
+  "doc_id": "b68f3c34e7d58161",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "\u201c2025 Annual update\u201d to the Manual of Reporting Forms and Instructions for Deposit-Taking Institutions - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-reporting-forms-instructions-deposit-taking-institutions",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9ae2c42ac5a786ab8f778b3c0543aac8b754c5291812a34482267ce742ff3d62",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/b68f3c34e7d58161",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-reporting-forms-instructions-deposit-taking-institutions",
+  "fetch_method": "html_to_md"
+}

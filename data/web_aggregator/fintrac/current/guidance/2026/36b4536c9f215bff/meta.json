@@ -1,0 +1,24 @@
+{
+  "doc_id": "36b4536c9f215bff",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Money laundering and terrorist financing indicators\u2014Casinos",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/transaction-operation/indicators-indicateurs/casinos_mltf-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d1c449edabe942b92ceaf9fd8b9815553966e531ab67efc1b1b600683f8c770a",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/36b4536c9f215bff",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "run_id": "2026-08-01_frb_3813",
+  "regulator_id": "frb",
+  "logical_date": "2026-08-01",
+  "trigger": "schedule",
+  "detected": 2,
+  "fetched": 2,
+  "ingested": 0,
+  "archived": 0,
+  "errors": 0,
+  "status": "success_empty",
+  "error_list": [],
+  "detected_urls": [
+    "https://www.federalreserve.gov/srletters/sr26-3",
+    "https://www.federalreserve.gov/pressreleases/enforce-x"
+  ],
+  "duration_s": 0.005
+}

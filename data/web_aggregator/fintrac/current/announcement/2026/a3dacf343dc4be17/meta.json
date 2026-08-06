@@ -1,0 +1,24 @@
+{
+  "doc_id": "a3dacf343dc4be17",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Centre d\u2019analyse des op\u00e9rations et d\u00e9clarations financi\u00e8res du Canada",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/intro-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0e32e3362b8f1b2c554cf74ad64160cfc1006b32026868eb081ac534831869e5",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/a3dacf343dc4be17",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

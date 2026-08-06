@@ -1,0 +1,201 @@
+# Le 18 novembre 2024 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)
+
+CANAFE publie des avis suivant chaque séance plénière du Groupe d'action financière (GAFI) pour aviser les entités déclarantes de préoccupations liées aux lacunes de lutte contre le blanchiment d'argent et le financement des activités terroristes dans les systèmes financiers de certains pays.
+
+## Sur cette page
+
+* [Opérations financières liées aux pays désignés par le GAFI](#s1)
+* [Juridictions présentant un risque élevé qui sont assujetties à un appel à l'action](#s2)
+* [Juridictions sous surveillance accrue](#s3)
+* [Juridictions qui ne sont plus assujetties au processus de surveillance accrue du GAFI](#s4)
+* [Mesures du GAFI relativement au groupe terroriste État islamique](#s5)
+* [Déclarations publiques du GAFI sur la situation en Afghanistan](#s6)
+* [Déclarations publiques du GAFI sur la situation en Ukraine et sur la Fédération de Russie](#s7)
+* [Situation au Moyen-Orient](#s8)
+
+## Opérations financières liées aux pays désignés par le GAFI
+
+Le 25 octobre 2024, le GAFI a publié une [déclaration sur les juridictions présentant un risque élevé qui sont assujetties à un appel à l’action](https://www.fatf-gafi.org/fr/publications/Juridictions-haut-risques-et-sous-surveillance/Call-for-action-october-2024.html), ainsi qu’une [déclaration sur les juridictions sous surveillance accrue](https://www.fatf-gafi.org/fr/publications/Juridictions-haut-risques-et-sous-surveillance/increased-monitoring-october-2024.html). Ces déclarations sont mises à jour et publiées après chaque séance plénière du GAFI.
+
+## Juridictions présentant un risque élevé qui sont assujetties à un appel à l'action
+
+La [déclaration sur les juridictions présentant un risque élevé qui sont assujetties à un appel à l'action](https://www.fatf-gafi.org/fr/publications/Juridictions-haut-risques-et-sous-surveillance/Call-for-action-october-2024.html) identifie les juridictions pour lesquelles le GAFI a appelé ses membres à appliquer soit des contre-mesures (République populaire démocratique de Corée (RPDC), Iran), soit des mesures de diligence raisonnable renforcées proportionnées aux risques découlant de la juridiction (Myanmar).
+
+### République populaire démocratique de Corée (RPDC)
+
+Dans sa dernière [déclaration sur les juridictions présentant un risque élevé qui sont assujetties à un appel à l’action](https://www.fatf-gafi.org/fr/publications/Juridictions-haut-risques-et-sous-surveillance/Call-for-action-june-2024.html), le GAFI a réitéré ses préoccupations concernant l’incapacité persistante de la République populaire démocratique de Corée (RPDC) à remédier aux lacunes significatives de son régime de lutte contre le blanchiment d’argent et le financement du terrorisme. Le GAFI a également souligné les graves menaces que représentent les activités illicites de la RPDC liées à la prolifération des armes de destruction massive et à leur financement, et encourage une plus grande vigilance ainsi qu’une reprise de la mise en œuvre et de l’application des contre-mesures à l’encontre de la RPDC.
+
+En tant qu'entité déclarante, vous devez considérer toutes les opérations en provenance de la Corée du Nord (République populaire démocratique de Corée) ou à destination de ce pays comme présentant un risque élevé.
+
+CANAFE évalue la conformité à la directive ministérielle :
+
+* [Directive ministérielle sur la République populaire démocratique de Corée (RPDC) publiée le 9 décembre 2017](https://gazette.gc.ca/rp-pr/p1/2017/2017-12-09/html/notice-avis-fra.html)
+* [Directive de CANAFE en réponse à la directive ministérielle sur la République populaire démocratique de Corée (RPDC)](/obligations/dir-dprk-fra)
+
+**Remarque :** En décembre 2017, CANAFE a publié une [Alerte opérationnelle : La République populaire démocratique de Corée utilise le système financier international à des fins de blanchiment d'argent et de financement des activités terroristes](/intel/operation/oai-dprk-fra) afin d'aider les entreprises à identifier les tendances et les éléments de risque liés à la République populaire démocratique de Corée comportant des soupçons de blanchiment d'argent et de financement des activités terroristes.
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+  + article 5
+  + paragraphe 9.6(3)
+    - article 11.42
+
+### Iran
+
+Dans le but de préserver l'intégrité du système financier canadien, et conformément à l'article 11.42 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, le ministre des Finances a publié la directive suivante :
+
+Toute banque, caisse de crédit, coopérative de services financiers, caisse populaire, banque étrangère autorisée et entreprise de services monétaires doit :
+
+* traiter chaque opération financière effectuée depuis l'Iran ou à destination de ce pays, peu importe le montant de celle-ci, comme une opération à risque élevé au titre du paragraphe 9.6(3) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* vérifier l'identité de tout client (personne ou entité) qui est le demandeur ou le bénéficiaire de l'opération conformément à la partie 3 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* suivre les procédures de vigilance à l'égard des clients en ce qui concerne de telles opérations, notamment la vérification de l'origine des fonds ou de la monnaie virtuelle, de l'objet de l'opération, et la vérification des bénéficiaires effectifs ou des personnes qui contrôlent l'entité qui est le demandeur ou le bénéficiaire de l'opération
+* tenir un document sur chacune de ces opérations conformément au Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* déclarer toutes ces opérations au Centre
+
+CANAFE évalue la conformité avec la directive ministérielle :
+
+* [Directive modifiant la Directive sur les opérations financières liées à la République islamique d'Iran](https://www.gazette.gc.ca/rp-pr/p1/2024/2024-02-24/html/notice-avis-fra.html#ne4)
+* [Directive de CANAFE faisant suite à la directive ministérielle sur les opérations financières associées à la République islamique d'Iran publiée le 25 juillet 2020](/obligations/dir-iri-fra)
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+  + article 5
+  + paragraphe 9.6(3)
+    - article 11.42
+
+### Myanmar
+
+En tant qu'entité déclarante, vous devez être conscient des risques liés au fait de faire affaire avec des personnes et des entités basées au Myanmar ou liées à ce pays, et :
+
+* déterminer si vous êtes tenu de faire une déclaration d'opérations douteuses pour une ou plusieurs opérations financières ou tentatives d'opérations financières provenant du Myanmar ou à destination de ce pays
+* prendre en considération l'emplacement géographique des activités d'une personne ou d'une entité dans le cadre de votre évaluation des risques et prendre des mesures d'atténuation, le cas échéant
+
+Vous êtes également encouragé à faire preuve d'une diligence accrue à l'égard de la clientèle, notamment en obtenant des informations sur les raisons des opérations envisagées, en ce qui concerne les clients et les bénéficiaires inclus dans ces opérations ou tentatives d'opérations financières.
+
+## Juridictions sous surveillance accrue
+
+La [déclaration sur les juridictions sous surveillance accrue](https://www.fatf-gafi.org/fr/publications/Juridictions-haut-risques-et-sous-surveillance/increased-monitoring-october-2024.html) identifie les juridictions qui ont élaboré un plan d'action avec le GAFI pour remédier à leurs lacunes stratégiques en matière de lutte contre le blanchiment d'argent et le financement des activités terroristes.
+
+Les juridictions suivantes présentent des lacunes stratégiques en matière de blanchiment d'argent et de financement des activités terroristes et figurent sur la « liste grise » :
+
+Afrique du Sud, Algérie, Angola, Bulgarie, Burkina Faso, Cameroun, Côte d’Ivoire, Croatie, Haïti, Kenya, Liban, Mali, Monaco, Mozambique, Namibie, Nigeria, Philippines, République démocratique du Congo, Soudan du Sud, Syrie, Tanzanie, Venezuela, Vietnam et Yémen.
+
+## Juridictions qui ne sont plus assujetties au processus de surveillance accrue du GAFI
+
+Les juridictions suivantes ont réalisé des progrès significatifs dans la résolution des lacunes stratégiques précédemment identifiées lors de leurs évaluations mutuelles. Elles ne font donc plus l'objet d'une surveillance accrue et ont été retirées de la « liste grise » :
+
+Sénégal
+
+## Mesures du GAFI relativement au groupe terroriste État islamique
+
+Le 24 septembre 2014, le gouvernement du Canada [a mis à jour la liste des entités terroristes inscrites au Code criminel afin d'y ajouter le groupe État islamique (EI)](https://www.canada.ca/fr/nouvelles/archive/2014/09/gouvernement-canada-met-jour-liste-entites-terroristes-prevue-code-criminel-afin-inclure-etat-islamique.html), entité inscrite auparavant sous le nom d'Al-Qaïda en Irak. Le gouvernement du Canada a aussi inscrit comme entités terroristes huit affiliés régionaux, y compris l'EI-Province du Khorassan (EIPK), EI-Bangladesh, EI-Province du Sinaï (EIPS), EI-République démocratique du Congo, EI en Asie de l'Est, EI au Grand Sahara, EI en Libye et EI-Province d'Afrique occidentale.
+
+En tant qu'entité déclarante, vous devez soumettre sans délai une déclaration de biens appartenant à un groupe terroriste (DBGT) à CANAFE, une fois que vous avez atteint le seuil de communication en vertu du Code criminel ou du Règlement d'application des résolutions des Nations Unies sur la lutte contre le terrorisme. Voir les sections 2 et 5 de la directive : [Déclaration de biens appartenant à un groupe terroriste à CANAFE](/guidance-directives/transaction-operation/Guide5/5-fra).
+
+Vous devez également déterminer si vous êtes tenu, ou non, de transmettre une déclaration d'opération douteuse faisant état d'une ou de plusieurs opérations financières ou d'une ou de plusieurs tentatives d'opération financière en provenance ou à destination de régions dominées par l'État islamique ou de régions avoisinantes lorsqu'il y a des motifs raisonnables de soupçonner qu'elles sont liées à la perpétration (réelle ou tentée) d'une infraction de blanchiment d'argent ou de financement des activités terroristes.
+
+À compter du 19 août 2024, les entités déclarantes doivent déclarer à CANAFE les opérations soupçonnées d’être liées au contournement de sanctions en plus de leurs obligations existantes de déclaration des opérations. Les entités déclarantes ont aussi d’autres obligations juridiques prévues par les lois canadiennes sur les sanctions et leur réglementation connexe en ce qui concerne la surveillance et la déclaration de la propriété de biens désignés, l’exportation et l’importation de marchandises, et d’autres activités en lien avec des personnes et entités sanctionnées. Les entités déclarantes sont encouragées à se familiariser à leurs obligations à l’égard du régime canadien de sanctions. Pour plus d’informations, consultez : [Sanctions actuelles imposées par le Canada](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/current-actuelles.aspx?lang=fra).
+
+Les entités déclarantes sont également encouragées à prendre des mesures de diligence accrue à l'égard des clients et des bénéficiaires qui participent à de telles opérations financières ou tentatives d'opération financière.
+
+**Remarque :** En juin 2024, CANAFE a publié un [Bulletin spécial sur l’activité financière associée au contournement soupçonné des sanctions](/intel/bulletins/sanctions-fra) pour aider les entreprises à comprendre le régime canadien de sanctions et informer les entités déclarantes des caractéristiques des opérations financières liées au contournement soupçonné de sanctions.
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+  + article 2
+  + article 5
+  + article 7
+    - paragraphe 7.1(1)
+  + article 9
+    - paragraphe 9.6 (2)
+
+## Déclaration publique du GAFI sur la situation en Afghanistan
+
+Le 9 mai 2013, les talibans ont été ajoutés à la liste des entités terroristes inscrites au Code criminel. Le 15 août 2021, les talibans ont pris le contrôle de l'Afghanistan et ont établi une autorité de facto sur le pays. Le 21 octobre 2021, le GAFI a publié une [déclaration sur la situation en Afghanistan](http://www.fatf-gafi.org/publications/fatfgeneral/documents/afghanistan-2021.html ) (en anglais seulement).
+
+En tant qu'entité déclarante, vous devez soumettre sans délai une déclaration de biens appartenant à un groupe terroriste (DBGT) à CANAFE, une fois que vous avez atteint le seuil de communication en vertu du Code criminel ou du Règlement d'application des résolutions des Nations Unies sur la lutte contre le terrorisme. Voir les sections 2 et 5 de la directive : [Déclaration de biens appartenant à un groupe terroriste à CANAFE](/guidance-directives/transaction-operation/Guide5/5-fra).
+
+Vous devez également déterminer si vous êtes tenu, ou non, de transmettre une déclaration d'opération douteuse faisant état d'une ou de plusieurs opérations financières ou d'une ou de plusieurs tentatives d'opération financière en provenance l'Afghanistan ou à destination de ce pays, lorsqu'il existe des motifs raisonnables de soupçonner que les opérations sont liées à la perpétration (réelle ou tentée) d'une infraction de blanchiment d'argent ou d'une infraction de financement des activités terroristes.
+
+À compter du 19 août 2024, les entités déclarantes doivent déclarer à CANAFE les opérations soupçonnées d’être liées au contournement de sanctions en plus de leurs obligations existantes de déclaration des opérations. Les entités déclarantes ont aussi d’autres obligations juridiques prévues par les lois canadiennes sur les sanctions et leur réglementation connexe en ce qui concerne la surveillance et la déclaration de la propriété de biens désignés, l’exportation et l’importation de marchandises, et d’autres activités en lien avec des personnes et entités sanctionnées. Les entités déclarantes sont encouragées à se familiariser à leurs obligations à l’égard du régime canadien de sanctions. Pour plus d’informations, consultez : [Sanctions actuelles imposées par le Canada](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/current-actuelles.aspx?lang=fra).
+
+**Remarque :** En juin 2024, CANAFE a publié un [Bulletin spécial sur l’activité financière associée au contournement soupçonné des sanctions](/intel/bulletins/sanctions-fra) pour aider les entreprises à comprendre le régime canadien de sanctions et informer les entités déclarantes des caractéristiques des opérations financières liées au contournement soupçonné de sanctions.
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+  + article 2
+  + article 5
+  + article 7
+    - paragraphe 7.1(1)
+  + article 9
+    - paragraphe 9.6 (2)
+
+## Déclarations publiques du GAFI sur la situation en Ukraine et sur la Fédération de Russie
+
+Le 24 février 2022, sans provocation, les forces russes, avec le soutien du régime biélorusse, ont lancé une invasion globale de l'Ukraine. Le 24 février 2023 ainsi que le 23 février 2024, le GAFI a publié des [déclarations publiques sur la Fédération de Russie](https://www.fatf-gafi.org/content/fatf-gafi/en/publications/Fatfgeneral/fatf-statement-russian-federation.html).
+
+Une directive ministérielle a été publiée sur les opérations financières associées à la Russie le 24 février 2024.
+
+Toute personne ou entité visée à l'article 5 de la Loi doit :
+
+* traiter chaque opération financière effectuée depuis la Russie ou à destination de ce pays, peu importe le montant de celle-ci, comme une opération à risque élevé au titre du paragraphe 9.6(3) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* vérifier l'identité de tout client (personne ou entité) qui est le demandeur ou le bénéficiaire de l'opération conformément à la partie 3 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* suivre les procédures de vigilance à l'égard des clients en ce qui concerne de telles opérations, notamment la vérification de l'origine des fonds ou de la monnaie virtuelle, de l'objet de l'opération, et la vérification des bénéficiaires effectifs ou des personnes qui contrôlent l'entité qui est le demandeur ou le bénéficiaire de l'opération
+* tenir un document sur chacune de ces opérations conformément au Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+
+CANAFE évalue la conformité avec la directive ministérielle :
+
+* [Directive sur les opérations financières associées à la Russie](https://www.gazette.gc.ca/rp-pr/p1/2024/2024-02-24/html/notice-avis-fra.html#ne5)
+* [Directive de CANAFE faisant suite à la directive ministérielle sur les opérations financières associées à la Russie publiée le 24 février 2024](/obligations/dir-rus-fra)
+
+Le Canada a imposé un nombre important de nouvelles mesures de sanctions en réponse à l'invasion injustifiée et illégale de l'Ukraine par la Russie. Pour plus d'informations sur les mesures imposées à la Russie, à l'Ukraine et au Belarus, ainsi que sur l'obligation de divulgation, voir :
+
+* [Sanctions - Invasion russe de l'Ukraine](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/ukraine-sanctions.aspx?lang=fra)
+* [Conseil mondial sur le contournement des sanctions contre la Russie Publié conjointement par le Groupe de travail sur les élites, les mandataires et les oligarques russes (REPO)](https://www.canada.ca/fr/ministere-finances/programmes/politique-secteur-financier/conseil-mondial-contournement-des-sanctions-contre-la-russie.html)
+
+**Remarque :** En mai 2023, CANAFE a publié un [Bulletin spécial sur les activités de blanchiment d'argent liées à la Russie](/intel/bulletins/rlml-fra) pour aider les entreprises à identifier et à évaluer les risques de blanchiment d'argent et de financement d'activités terroristes, à appliquer des contrôles et des mesures pour atténuer ces risques, et à détecter et déclarer efficacement les opérations douteuses à CANAFE.
+
+À compter du 19 août 2024, les entités déclarantes doivent déclarer à CANAFE les opérations soupçonnées d’être liées au contournement de sanctions en plus de leurs obligations existantes de déclaration des opérations. Les entités déclarantes ont aussi d’autres obligations juridiques prévues par les lois canadiennes sur les sanctions et leur réglementation connexe en ce qui concerne la surveillance et la déclaration de la propriété de biens désignés, l’exportation et l’importation de marchandises, et d’autres activités en lien avec des personnes et entités sanctionnées. Les entités déclarantes sont encouragées à se familiariser à leurs obligations à l’égard du régime canadien de sanctions. Pour plus d’informations, consultez : [Sanctions actuelles imposées par le Canada](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/current-actuelles.aspx?lang=fra).
+
+**Remarque :** En juin 2024, CANAFE a publié un [Bulletin spécial sur l’activité financière associée au contournement soupçonné des sanctions](/intel/bulletins/sanctions-fra) pour aider les entreprises à comprendre le régime canadien de sanctions et informer les entités déclarantes des caractéristiques des opérations financières liées au contournement soupçonné de sanctions.
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+  + article 2
+  + article 5
+  + article 7
+    - paragraphe 7.1(1)
+  + article 9
+    - paragraphe 9.6 (2)
+
+## Situation au Moyen-Orient
+
+En tant qu'entité déclarante, vous devez tenir compte de l'évolution rapide de la situation au Moyen-Orient pour déterminer si vous êtes tenu de faire une déclaration d'opérations douteuses concernant une ou plusieurs opérations financières ou tentatives d'opérations financières en provenance ou à destination du Moyen-Orient, lorsqu'il existe des motifs raisonnables de soupçonner que les opérations sont liées à la perpétration (réelle ou tentée) d'une infraction de blanchiment d'argent ou d'une infraction de financement d'activités terroristes.
+
+Vous devez également soumettre sans délai une déclaration de biens appartenant à un groupe terroriste (DBGT) à CANAFE, une fois que vous avez atteint le seuil de communication en vertu du Code criminel ou du Règlement d'application des résolutions des Nations Unies sur la lutte contre le terrorisme. Voir les sections 2 et 5 de la directive : [Déclaration de biens appartenant à un groupe terroriste à CANAFE](/guidance-directives/transaction-operation/Guide5/5-fra).
+
+À compter du 19 août 2024, les entités déclarantes doivent déclarer à CANAFE les opérations soupçonnées d’être liées au contournement de sanctions en plus de leurs obligations existantes de déclaration des opérations. Les entités déclarantes ont aussi d’autres obligations juridiques prévues par les lois canadiennes sur les sanctions et leur réglementation connexe en ce qui concerne la surveillance et la déclaration de la propriété de biens désignés, l’exportation et l’importation de marchandises, et d’autres activités en lien avec des personnes et entités sanctionnées. Les entités déclarantes sont encouragées à se familiariser à leurs obligations à l’égard du régime canadien de sanctions. Pour plus d’informations, consultez : [Sanctions actuelles imposées par le Canada](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/current-actuelles.aspx?lang=fra).
+
+**Remarque :** En décembre 2022, CANAFE a publié une [Alerte opérationnelle : Financement d'activités terroristes](/intel/operation/taf-fra) pour aider les entreprises à reconnaître les opérations financières soupçonnées d'être liées au financement des activités terroristes.
+
+En juin 2024, CANAFE a publié un [Bulletin spécial sur l’activité financière associée au contournement soupçonné des sanctions](/intel/bulletins/sanctions-fra) pour aider les entreprises à comprendre le régime canadien de sanctions et informer les entités déclarantes des caractéristiques des opérations financières liées au contournement soupçonné de sanctions.
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+  + article 2
+  + article 5
+  + article 7
+    - paragraphe 7.1(1)
+  + article 9
+    - paragraphe 9.6 (2)
+
+Date de modification :
+:   2024-11-18

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14060",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Inflation Adjustments for Civil Money Penalties",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/13/2026-14060/inflation-adjustments-for-civil-money-penalties",
+  "reference_number": "2026-14060",
+  "published_date": "2026-07-13",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e46b847c9941125f7eb84b943afa951aff3afa64309fc2759c067170bcda84db",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14060",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

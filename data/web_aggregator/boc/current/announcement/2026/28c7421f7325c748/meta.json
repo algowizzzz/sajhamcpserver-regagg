@@ -1,0 +1,24 @@
+{
+  "doc_id": "28c7421f7325c748",
+  "regulator_id": "boc",
+  "doc_type": "announcement",
+  "title": "Bank of Canada announces the appointment of two Deputy Governors",
+  "language": "en",
+  "source_url": "https://www.bankofcanada.ca/2026/04/bank-of-canada-announces-appointment-two-deputy-governors/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:924753938386022c22a0902190c27227df2ce74000f7b314447818102d91e030",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boc/current/announcement/2026/28c7421f7325c748",
+  "tags": [
+    "canada",
+    "central_bank"
+  ]
+}

@@ -1,0 +1,1 @@
+Summary: # Stocks in news: PB Fintech, LIC, Trent, Ola Electric, and Cipla

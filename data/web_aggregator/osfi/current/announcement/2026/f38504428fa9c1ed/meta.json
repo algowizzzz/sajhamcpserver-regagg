@@ -1,0 +1,25 @@
+{
+  "doc_id": "f38504428fa9c1ed",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Risque de taux d'int\u00e9r\u00eat (I3) | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/risque-taux-dinteret-i3",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:639b7e73c43c22e4d3cc919d4fa92565471041c184932e300aefe24fd1632048",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/f38504428fa9c1ed",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

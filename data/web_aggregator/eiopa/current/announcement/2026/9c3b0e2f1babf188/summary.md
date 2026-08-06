@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) has today published a report on [Insurers' asset and liability management in relation to the illiquidity of their liabilities](/publications/insurers-asset-and-liability-management-relation-illiquidity-their-liabi

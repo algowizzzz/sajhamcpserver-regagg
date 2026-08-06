@@ -1,0 +1,1446 @@
+Strategic Framework for Investor Education 
+and Financial Literacy 
+Final Report 
+THE BOARD  
+OF THE 
+INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS 
+FR09/14 OCTOBER 2014
+
+ii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copies of publications are available from: 
+The International Organization of Securities Commissions website www.iosco.org 
+© International Organization of Securities Commissions 2014.  All rights reserved.  Brief 
+excerpts may be reproduced or translated provided the source is stated.
+
+iii 
+ 
+Contents 
+ 
+ 
+I. Introduction .......................................................................................................................... 4 
+II. Background ......................................................................................................................... 4 
+III. Role of IOSCO in investor education and financial literacy ......................................... 7 
+IV. Global focus on investor education and financial literacy ............................................. 8 
+V. Role of research in investor education and financial literacy ......................................... 9 
+VI. C8’s strategic approach to investor education and financial literacy ........................ 10 
+VII.   Current practices of C8 members for investor e ducation and financial literacy 
+programs ..................................................................................................................... 12 
+Appendix 1 – C8 members .................................................................................................... 21 
+Appendix 2 – Behavioural economics and other findings related to financial decision -
+making ......................................................................................................................... 22 
+Appendix 3 – Behavioural economics literature review ..................................................... 27
+
+4 
+I. Introduction 
+ 
+The need for investor education and financial literacy has never been greater. As the financial 
+marketplace continues to evolve and innovate, investment products are becoming 
+increasingly complex and financial services increasingly diverse. Greater underst anding of 
+key financial concepts is required on the part of retail investors to understand and evaluate 
+the choices available to them and avoid fraud. Underscoring the importance of investor 
+education and financial literacy is the critical – and increasing – need for retirement planning 
+as responsibility for saving and investing in many jurisdictions shifts from the employer to 
+the individual.  
+ 
+The International Organization of Securities Commissions (IOSCO) 1 is responding to these 
+challenges. In June 2013, the IOSCO Board approved the establishment of the Committee on 
+Retail Investors (C8). The committee’s  primary mandate is to conduct IOSCO’s policy work 
+on retail investor education and financial literacy. Its secondary mandate is to advise the 
+IOSCO Board on emerging retail investor protection matters and conduct investor protection 
+policy work as directed by the IOSCO Board. See Appendix 1 for a list of C8 members.  
+ 
+This paper sets out a strategic framework for C8’s primary mandate: its work in investor  
+education and financial literacy. It describes IOSCO’s role in investor education and financial 
+literacy, the role of research, particularly the field of behavioural economics, and C8’s initial 
+areas of focus and strategic approach to fulfilling its prima ry mandate. The paper also 
+identifies practices currently used by C8 members to help guide IOSCO members in 
+developing and enhancing their own investor education and financial literacy programs. 
+ 
+II. Background 
+ 
+A. Role of education in investor protection 
+ 
+The intertwined aims of investor protection and the promotion of investor confidence in the 
+integrity of securities markets are at the heart of IOSCO’s objectives. 2 These aims, to varying 
+degrees, are also the objectives of many IOSCO members. 
+ 
+Investor education is a key strategy for enhancing investor protection 3, promoting investor 
+confidence and fostering investor engagement in financial planning and decision-making. It is 
+complementary to the traditional tools of regulation, supervision and enforcement.  
+ 
+IOSCO recognises the importance of investor education in its guiding principles of securities 
+regulation. Key Issue 6 of Principle 3 of the IOSCO Methodology states that “[r]egulators 
+                                                                 
+1  IOSCO is the international body that brings together the world’s securities regulators and is recogni sed 
+as the global standard setter for the securities sector. Its members regulate more than 95% of the 
+world's securities markets in some 120  jurisdictions. It is the only internatio nal financial regulatory  
+organisation that includes within its membership all the major emerging markets jurisdictions.  
+2  See International Organi zation of Securities Commissions, IOSCO Objectives , online: International 
+Organization of Securities Commissions: http://www.iosco.org/about/  
+3  Key investor protection factors that may help inform the development of investor education and 
+financial literacy programs include, but are not limited to, transparency, fairness, choice, suitability, the 
+level of safety associated with products and services, access, representation and redress.
+
+5 
+should play an active role in the education of investors and other market participants.”4  
+ 
+Since 2001, IOSCO has published a number of reports surveying members on investor 
+education and financial literacy initiatives. The reports cover topics, such as approaches taken 
+by members with respect to investor education, chal lenges faced by members  and global 
+standards for investor education generally.5  
+ 
+Many IOSCO members provide investor education programs or materials as part of a specific 
+mandate or linked to a more general objective to protect investors. The delivery of investor 
+education and financial literacy programs varies across jurisdictions. In many cases, a range  
+of other government organis ations, such as a Central Bank or Ministry of Finance, may also 
+be active in providing investor education and financial litera cy information to the public. 
+Securities regulators often partner with these organis ations in providing investor education 
+and financial literacy programs. 
+ 
+B. Definition of investor education and financial literacy  
+ 
+While various definitions of “ investor education,” “ financial literacy ” and similar terms  6 
+exist, there are no universally accepted definitions. “ Investor education ” is generally 
+considered to be a subset of the broader concept of “financial literacy.” 
+                                                                 
+4  See International Organization of Securities Commissions, Methodology for Assessing Implementation 
+of the IOSCO Objectives and Principles of Securities Regulation  (September 2011, revised August 
+2013), online: International Organization of Securities Commissions at: 
+ https://www.iosco.org/library/pubdocs/pdf/IOSCOPD359.pdf  [IOSCO Methodology].   
+5  See e.g., International Organization of Securities Commissions, Technical Committee, Discussion 
+Paper on the Role of Investor Education in the Effective Regulation of CIS and CIS Operators : Report 
+of the Technical Committee of the International Organization of Securities Commissions (Report, 
+March 2001), online: International Organization of Securities Commissions at:   
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD117.pdf; International Organization of Securities 
+Commissions, Emerging Markets Committee, Investor Education: Report from the Emerging Markets 
+Committee of the International Organization of Securities Com missions (Report, October 2002), 
+online: International Organization of Securities Commissions at  
+ https://www.iosco.org/library/pubdocs/pdf/IOSCOPD140.pdf; International Organization  of Securities 
+Commissions, Education and Training Team, Investor Education: An Analysis of IOSCO Member 
+Websites and Web -Based Information (Report, June 2012); International Organization of Securities 
+Commissions, Report on Investor Education Initiatives Relating to Investment Services: IOSCO Report   
+(Report, February 2013), online: International Organization of Securities Commissions  
+ https://www.iosco.org/library/pubdocs/pdf/IOSCOPD404.pdf . 
+6  For example, Lusardi and Mitchell define financial literacy as “ peoples’ ability to process economic 
+information and make informed decisions about financial planning, wealth accumulation, pensions, 
+and debt .” Annamaria Lusardi & Olivia Mitchel l, “The Economic Importance of Financial Literacy: 
+Theory and Evidence ” (Netspar Discussion Paper, 2 April 2013) at 2.  The Task Force on Financial 
+Literacy defines financial literacy as “ having the knowledge, skills and confidence to make responsible 
+financial decisions .” Task Force on Financial Literacy, Canadians and their Money: Building a 
+brighter financial future: Report of Recommendations on Financial Literacy  (Report, December 2010). 
+The Financial Consumer Agency of Canada defines financial lite racy as “ Consumers’ acquisition of 
+knowledge, skills and confidence to properly manage their personal finances .” Financial Consumer 
+Agency of Canada, Moving Forward with Financial Literacy: Synthesis Report on Reaching Higher: 
+Canadian Conference on Financ ial Literacy (Conference report, 9 -10 September 2008). The OECD 
+defines financial education as “ the process by which financial consumers/investors improve their 
+understanding of financial products and concepts and, through information, instruction and/or 
+objective advice, develop the skills and confidence to become more aware of financial risks and 
+opportunities, to make informed choices, to know where to go for help, and to take other effective 
+actions to improve their financial well -being.” OECD, Improving Financial Literacy: Analysis of 
+Issues and Policies (OECD Publishing, 2005).
+
+6 
+ 
+Financial literacy generally relates to  all aspects of a person’s financial situation and can 
+include the concept of financial capability (a person’s awareness, knowledge, skills, attitudes 
+and behaviours). Investor education focuses on issues relevant to the education and 
+information needs of individuals who participate, or are considering participating, in the 
+securities markets (commonly referred to as “retail investors”).  
+ 
+In its 2012 report on the investor education websites of IOSCO members, the IOSCO 
+Education and Training Team identifie d the concept of “ investor literacy ” as the 
+“understanding ordinary investors have of market principles, instruments, organizations and 
+regulations.”7 
+ 
+Depending on their mission and/or remit, some IOSCO members may be solely concerned 
+with investor education, while others may have a broader role relating to financial literacy. 
+ 
+C. Benefits of investor education and financial literacy 
+ 
+Investor education and financial literacy programs have the potential to help improve 
+financial outcomes for retail i nvestors. Some key benefits include more informed saving and 
+investment decision-making, better financial and retirement planning, greater confidence and 
+higher participation in the securities markets, greater wealth accumulation, and increased 
+awareness of investor rights and responsibilities.8 
+ 
+Ideally, investor education and financial literacy programs, as a complement to securities 
+market regulation and supervision, can help address any misalignment of investor and 
+industry interests, particularly with respect to information asymmetry. For exam ple, investor 
+education could potentially reduce both the propensity for investors to mis -buy investment 
+products and services, and for intermediaries to mis -sell products and services. This could 
+lead to fewer investor complaints.  
+ 
+In addition, investor education can also help investors better assess the appropriateness and 
+suitability of investment advice, investment products and services.  It can also help investors, 
+detect and avoid suspected fraudulent activity, and distinguish between regulated and n on-
+regulated activity, all of which could reduce investor losses.  
+ 
+D. Limitations of investor education and financial literacy 
+ 
+The availability of investor education and financial literacy programs does not guarantee that 
+investors will make better inves tment decisions or avoid fraud. It is recognis ed that investor 
+education and financial literacy will only go so far in changing investor behaviour. 9 
+Behavioural economics research identifies a range of barriers that may prevent people from 
+making good financial decisions .10 As a result, investor education and financial literacy 
+                                                                 
+7   International Organization of Securities Commissions, Education and Training Team, supra note 5. 
+8  Lusardi & Mitchell, supra note 6 at 42-3. 
+9   For example, data that quantifies progress toward reducing the i ncidence of mis-selling and mis-buying 
+is limited and suggests that many initiatives are ineffective and sometimes counterproductive. See Zvi 
+Bodie, Laurence B. Siegel & Lisa Stanton, eds., Life-Cycle Investing: Financial Education and 
+Consumer Protection (Research Foundation of CFA Institute, 2012) at 109-114. 
+10  See Appendix 2 for more information about behavioural economics.
+
+7 
+programs will not completely eliminate the need for regulatory intervention in order to 
+achieve desired outcomes for investors. 
+ 
+However, the case for providing investor education  and financial literacy programs is 
+compelling, particularly when viewed as an additional tool available to securities regulators 
+in supporting regulation and supervision . For example, investor education programs can 
+complement regulations that enforce conduct standards, require financial institutions to 
+provide clients with appropri ate information, strengthen legal protections for  consumers or 
+provide for redress.  
+ 
+The challenge is to identify and utilise effective methods of delivering investor education and 
+financial literacy materials and messages to investors. Ultimately, improved financial skills 
+and knowledge can lead to increased confidence and trust in the financial sector, and a greater 
+likelihood that investors will participate in the securities markets. This, in turn, could benefit 
+capital raising in general and promote greater market efficiency. 
+ 
+III. Role of IOSCO in investor education and financial literacy 
+ 
+As the global standard -setter for securities regulation, IOSCO is well positioned to play an 
+influential and substantial role in the development and delivery of investor education and 
+financial literacy programs for retail investors: 
+ 
+ Independent and unbiased – Securities regulators are uniquely positioned to provide 
+unbiased investor educ ation, including, for example, information and tools to help retail 
+investors understand investment products, work more effectively with intermediaries and 
+take steps to avoid falling victim to fraud. 
+ 
+ Access to expertise and data – IOSCO and its members have extensive expertise and 
+experience in securities, market structure and investment product regulation. They also 
+have access to data on potential market risks and misconduct, and are well placed to 
+leverage existing data gathering methodologies to identify and address investor concerns. 
+C8 intends to coordinate and work collaboratively with other IOSCO policy committees 
+in the identification, development and delivery of investor education and financial literacy 
+programs.  
+ 
+ Unique insights into workings of the markets – Through rule-making, supervision and 
+enforcement powers, regulators have the unique ability and expertise to “ look inside the 
+securities industry ” to  identify and understand factors that shape market outcomes and 
+business models, including structural and other competition issues, information problems 
+and misaligned incentives. Securities regulators can leverage this experience and insight 
+to develop targeted investor education programs. 
+ 
+ Direct impact through regulator y action – A wide range of tools gives securities 
+regulators the flexibility to determine the most appropriate approach to address investor 
+protection, whether it is through investor education and financial literacy programs, 
+and/or regulatory action.11  
+                                                                 
+11  Kristina Erta et al., “Applying behavioural  economics at the Financial Conduct Authority” (Financial 
+Conduct Authority Occasional Paper No. 1, April 2013), online: Financial Conduct Authority at:  
+http://www.fca.org.uk/static/documents/occasional-papers/occasional-paper-1.pdf.
+
+8 
+ 
+ Well positioned to take on a leadership role – As part of national and local strategies, 
+securities regulators may have opportunities to take on key leadership roles in specific 
+areas of investor education and work i n partnership with other organis ations. This can 
+help ensure that initiatives are integrated in national strategies, which may contribute to 
+greater efficiencies, a more consistent quality of education and less duplication of effort.  
+ 
+IV. Global focus on investor education and financial literacy 
+ 
+A. Key global organisations 
+ 
+A number of global organis ations and network s apart from IOSCO have recognis ed the 
+importance of investor education and financial literacy more broadly. Key among these are:  
+ 
+International Forum for Investor Education (IFIE) 
+Chartered in 2005, IFIE is an alliance of 28 organisations of regulators, industry associations 
+and other interested stakeholders from 15 countries. It serves primarily as a resource for 
+trends and developments in financial education through membership meetings, conferences 
+and training sessions. IFIE also establishes and promotes standards of best practices for 
+investor education on a global basis. Since 2007, IFI E and IOSCO have jointly organis ed 
+global investor education conferences.12 
+ 
+International Network on Financial Education (INFE) 
+INFE was created by the Organization of Economic Cooperation and Development (OECD) 
+in 2008. It has members from over 240 public institutions, including Central Banks, 
+Ministries of Finance and Ministries of Education, in more than 100 countries.13  
+ 
+INFE conducts research and develops tools to support policy makers and public authorities in 
+designing and implementing financial education strategies. In particular, INFE has published 
+a set of High Level Principles on National Strategies for Financial Education to assist 
+jurisdictions in establishing coordinated and tailored strategies at a national level.  14 These 
+principles have been endorsed by the G20. INFE also provides a policy forum for 
+governments t o exchange views and experiences on financial education, and publishes 
+research, questionnaires, guidance and tools to measure levels of financial literacy.  
+ 
+International Financial Consumer Protection Network (FinCoNet) 
+FinCoNet was established in 2013 i n response to the growing importance of financial 
+                                                                 
+12   To date, IFI E and IOSCO have jointly organis ed six investor education conferences: October 2007, 
+Madrid, Spain; March 2009, Washington, D.C., U.S.; November 2010, Cairo, Egypt; M ay 2012, Seoul, 
+South Korea; June 2013, Toronto, Canada; and May 2014, Washington D.C., U.S. See also 
+International Forum for Investor Education, IFIE/IOSCO Investor Education Conferences , online: 
+International Forum for Investor Education http://ifie.org/index.php/ifieiosco-conferences. 
+13  OECD, About, online: OECD International G ateway for Financial Education http://www.financial-
+education.org/about.html. The OECD/INFE meets twice a year to share country experiences and 
+discuss strategic directions and outputs, building on data collection and policy analysis. Network 
+members use a password -protected collaborative working space to pr omote and support the exchange 
+of views. Many of IOSCO’s members participate in the OECD/INFE network.  
+14  OECD, OECD/INFE High Level Principles on National Strategies for Financial Education  (August 
+2012).
+
+9 
+consumer protection worldwide and the need for better coordination among supervisory 
+bodies responsible for the oversight of the various national financial consumer protection 
+regimes. The aim of FinCoNet i s to promote sound market conduct and strong consumer 
+protection through efficient and effective financial market conduct supervision.  
+ 
+FinCoNet focuses on banking and consumer credit protection issues. It aims to enhance the 
+protection of consumers of fi nancial services, strengthen consumer confidence and reduce 
+systemic consumer risk by promoting strong and effective supervisory practices through 
+sharing of best practices and promoting fair and transparent market practices.  
+ 
+B. C8: Engaging on the global stage 
+ 
+C8 now provides for a single formal forum within IOSCO that focuses on investor education 
+and financial literacy. It also provides IOSCO with an identifiable group that can represent 
+IOSCO’s retail investor perspective in international regulatory policy debates, and liaise and 
+engage with other global organisations on investor education issues.  
+ 
+C8 recognises that the work of other global organi sations and networks will be relevant to its 
+work on investor education and financial literacy. Engageme nt with these organi sations, as 
+appropriate, will assist in the development of investor education and financial literacy 
+programs, as well as possible policy development focused on investor education issues. 
+ 
+V. Role of research in investor education and financial literacy 
+ 
+Research plays a critical role in formulating investor education and financial literacy theory 
+and practice. It not only provides the evidence basis for targeting efforts and designing 
+approaches, but it is also important in evaluating and measuring programs.  
+ 
+As C8 develops its programs and initiatives, it will draw on findings from fact -based 
+research, as appropriate. This could include primary and secondary research, investor 
+outreach and consultations. Research may also include empir ical testing to determine, for 
+example, the effectiveness of investor education and financial literacy strategies, programs, 
+tools and other materials, and their effect on individual investor behaviour.  
+ 
+A focus for C8 will be findings from the field of b ehavioural economics and finance, which 
+have begun to inform the work of financial educators in identifying psychological barriers to 
+investment and developing educational strategies.  At its June 2013 meeting, the IOSCO 
+Board agreed to embed behavioural ec onomics in IOSCO’s approach  to regulatory work 
+going forward and encouraged C8 to examine the issue.15 
+ 
+For more information, see Appendix 2, which highlights a number of behavioural responses 
+in financial decision -making that have important implications fo r the design of investor 
+education and financial literacy strategies. See also Appendix 3 for a catalogue of behavioural 
+economics research.  
+ 
+                                                                 
+15  See International Organization of Securities Co mmissions, Media Release, IOSCO/MR/24/2013, 
+“IOSCO Board focuses on behavioural economics and social media ” (1 July 2013), online: 
+International Organization of Securities Commissions:  
+  http://www.iosco.org/news/pdf/IOSCONEWS286.pdf.
+
+10 
+ 
+VI. C8’s strategic approach to investor education and financial literacy  
+ 
+C8’s primary mandate is to conduct IOSCO’s work on retail investor education and financial 
+literacy. Its secondary mandate is to advise the IOSCO Board on emerging retail investor 
+protection matters and conduct investor protection policy work as directed b y the IOSCO 
+Board.  
+ 
+In fulfilling its primary mandate, C8 has relied on its members’ experience as securities 
+regulators to identify three initial areas of focus:  
+ 
+A. Investment knowledge and understanding 
+B. Financial skills and competence 
+C. Program design, delivery and measurement 
+ 
+The first two areas focus on investors: improving their investment knowledge and skills. The 
+third area focuses on securities regulators: developing and delivering effective investor 
+education and financial literacy programs.  
+ 
+C8 has identified topics in each area to serve as a roadmap for the committee in developing 
+future initiatives and workstreams. The topics are also intended to help guide IOSCO 
+members in developing and enhancing their own investor education and financial liter acy 
+programs.  
+ 
+C8’s strategic approach will include some or all of the following:  
+ 
+ Reviewing IOSCO members’ current practices and approaches to investor education and 
+financial literacy with a view to identifying effective techniques,  
+ Providing a forum for sharing information and experiences, learning from each other and 
+showcasing successful programs,  
+ Identifying emerging issues or themes in investor education and financial literacy, 
+bringing them to the IOSCO Board’s attention, and, where appropriate, offering advice on 
+managing these issues,  
+ Developing new and innovative approaches to investor education and financial literacy 
+programing, and providing opportunities for cooperative approaches among jurisdictions, 
+and 
+ Reviewing resear ch and reports produced by other organi sations and working 
+collaboratively with them, as appropriate.  
+ 
+The nature and scope of the initiatives will largely depend on the target retail investor group 
+and the issue or gap identified. At the same time, resea rch (including behavioural economics) 
+on topics, such as attitudes toward money management, financial planning and investing, will 
+be critical in the design of each initiative. 
+ 
+We anticipate that C8 will coordinate and work collaboratively with other IOSC O policy 
+committees. As the financial marketplace continues to innovate and evolve, C8 will identify 
+new areas of focus for IOSCO’s work on retail investor education and financial literacy.
+
+11 
+ 
+A. Investment knowledge and understanding 
+ 
+1. Basic financial concepts – Research in many jurisdictions has identified low levels of 
+knowledge among investors about basic financial concepts, such as compound interest, 
+inflation, and portfolio and risk diversification. 
+ 
+2. Investment product attributes, i ncluding fees, risk and returns – Research (including 
+behavioural economics) shows that while investors often believe that they are well 
+informed about the features of investment products and services, in practice many are not. 
+For example, investors may n ot understand the risks of a product in which they have 
+invested, particularly when the investment product is complex, or appreciate the impact of 
+fees on long-term returns.  
+ 
+3. Suitability – Retail investors may be unable to assess the suitability of invest ment 
+products and services for their own unique set of personal circumstances (for example, 
+risk appetite, current financial commitments and goals, investment time horizon). They 
+may also not be aware of product features that could impede their exit from t he 
+investment if their circumstances change, for example, due to illness or job loss. 
+ 
+4. Avoiding fraud, including the use of alerts  – Data from enforcement actions by 
+securities regulators show that retail investors continue to be susceptible to investment 
+scams or frauds, such as get-rich quick schemes promoted as “can’t lose” opportunities. 
+ 
+5. Investor rights and responsibilities – Retail investors may not understand their rights 
+under their jurisdiction’s legal framework, or be aware of the importance of re searching 
+intermediaries and investment products.  
+ 
+6. Complaint handling and recourse – When investors believe they have been treated 
+unfairly or were mis-sold an investment product, they often do not know whom to contact 
+or how to file a complaint. They may  also not know what action to take if they suspect 
+wrongdoing or fraud. 
+ 
+B. Financial skills and competence  
+ 
+1. Working with intermediaries – Many retail investors are unaware of tools and resources 
+that can help them check the background of an investment pr ofessional. In addition, in 
+many jurisdictions, there is a plethora of “advice professional” or “financial professional” 
+credentials, which may be regulated by different private and/or public sector entities. This 
+makes it difficult for investors to assess the qualifications of financial professionals. 
+ 
+2. Financial planning and money management – Research in various jurisdictions shows 
+that a gap in basic financial skills impedes the ability of some retail investors to plan and 
+manage money. 16 Behavioural econ omics has further demonstrated that people are 
+generally poor intuitive statisticians and are prone to making systematic errors in 
+decisions involving uncertainty, such as achieving a future retirement goal. Retail 
+investors may not be aware of, or have ac cess to, online tools and calculators that could 
+assist them with planning and decision-making. Still others consider financial planning to 
+                                                                 
+16  See Money Advice Service, The Financial Capability of the UK (August 2013) at 6.
+
+12 
+be relevant only for the extremely wealthy.17 
+ 
+3. Critical thinking – Retail investors may not have the knowledge, experience or access to 
+tools needed to exercise a “healthy sense of scepticism” or to determine whether the 
+advice they receive is accurate, suitable and consistent with their goals.  
+ 
+C. Program design, delivery and measurement  
+ 
+1. Design and delivery mechanisms – To be effective, investor education and financial 
+literacy resources and materials should be relevant, understandable and accessible. 
+Research shows that investor education prog rams targeting specific groups are likely to 
+be more effective than one -size-fits-all programs. 18 This is also true of websites, social 
+media outreach and face -to-face training. Understanding what information is relevant to 
+various segments of retail invest ors and their preferred methods of delivery is crucial for 
+the success of investor education and financial literacy programs.  
+ 
+2. Interactive tools and online resources – Delivery mechanisms should strive to be 
+interactive and focus on delivering concrete re sults that investors can use. Examples 
+include online calculators, checklists, interactive tools and mobile applications. Keeping 
+pace with technology is also important for optimising online delivery systems. 
+ 
+3. Measuring effectiveness – Where practicable, investor education and financial literacy 
+programs benefit from monitoring and evaluation to assess whether resources are being 
+used effectively and programs are achieving desired outcomes. Preferably, an evaluation 
+process should be inc luded in the design of the program. Some programs may include a 
+pilot or trial phase before they are fully implemented.  
+ 
+VII.   Current practices of C8 members for investor education and  financial 
+literacy programs 
+ 
+To assist IOSCO members in implementing  Principle 3 of the IOSCO Objectives and 
+Principles of Securities Regulation  (IOSCO Principles), 19 C8 members have identified a 
+number of current practices from their jurisdictions that have been useful in designing and 
+implementing investment education and financial literacy programs for retail investors.  
+ 
+C8 recogni ses that there is no one -size-fits-all model for investor education and financial 
+literacy programs. The practices reflect approaches currently used by C8 members, taking 
+                                                                 
+17  See Nielsen Company, Financial Knowledge and Capability in Hong Kong: A Foundation Study 
+(Report of the Investor Education Centre of the Securities and Futures Commission,  June 2013) at 37, 
+online: Investor Education Centre at:  
+http://www.hkiec.hk/web/common/pdf/about_iec/foundation_study_june2013.pdf . 
+18  Lusardi & Mitchell, supra note 6 at 37.  
+19   See International Organization of Securities Commissions, Objectives and Principl es of Securities 
+Regulation (June 2010), online: International Organization of Securities Commissions at: 
+ http://www.iosco.org/library/pubdocs/pdf/IOSCOPD323.pdf. Principle 3 states t hat the Regulator 
+should have adequate powers, proper resources and the capacity to perform its functions and exercise 
+its powers. See also IOSCO Methodology, supra note 4. According to Principle 3, Key Issue 6, 
+“[r]egulators should play an active role in promoting the education of investors and other market 
+participants.” Ibid. at 31.
+
+13 
+into account the unique circumstances and context of member jurisdictions. Explanatory text 
+and illustrative examples a ccompany each practice to assist IOSCO members in developing 
+their own programs.  
+ 
+These practices may be read in conjunction with, and are complementary to, guidance 
+produced by other international organisations on financial education.  
+ 
+Practice 1 
+ 
+Focus investor education and financial literacy programs on improving retail investor 
+knowledge of basic core competencies for investing, and on raising awareness, and 
+promoting understanding of the types of investment products and services that are available.  
+ 
+Explanatory text  
+Basic core competencies for investing include how to avoid investment fraud, and basic 
+numerical concepts, such as percentages, the effects of compounding, and narrative 
+descriptions of expected risk and return. Basic core competen cies may also include 
+understanding the fees and costs associated with investing, diversification, basic investment 
+planning (for example, goal -setting, choosing and working with an advisor, asking the 
+appropriate questions and planning for retirement) and  common investment products, such as 
+those used for retirement savings.  
+ 
+Many C8 members have developed investor education and financial literacy programs to help 
+retail investors understand different types of investment products (objectives, features, ri sks, 
+fees and costs), and investment services. A number of members have website content that 
+guides retail investors through the basic principles of investing.20  
+ 
+Examples 
+ The AMF Quebec, the OSC, the FCA, the AMF, the CMVM  and other  C8 members 
+provide interactive tools, such as budget planners and calculators, on their websites to 
+promote learning on basic investing topics.21  
+                                                                 
+20   See e.g. CNV, Oficina de Atención y Protección al Inversor , online: Comisión Nacional de Valores 
+http://www.cnv.gob.ar/oficinaatencionyproteccioninversor.asp, ASIC’s MoneySmart, Investing basics, 
+online: MoneySmart https://www.moneysmart.gov.au/investing/investing-basics, FSMA’s Wikifin.be, 
+online: Wikifin.be http://www.wikifin.be/nl, AMF, L'actualité Epargne Info Service , online: Autorité 
+des Marchés Financiers  http://www.amf-france.org/Epargne-Info-Service/Accueil-l-AMF-a-votre-
+ecoute.html, SFC’s Investor Education Centre, online: Investor Education Centre 
+http://www.hkiec.hk/web/en/index.html, Jersey FSC’s Protect Your Money, online: Protect Your 
+Money http://www.protectyourmoney.je, SC’s Malaysian Investor, online: Malaysian Investor 
+http://www.min.com.my, OSC’s GetSmarterAboutMoney.ca, Investing Basics , online: 
+GetSmarterAboutMoney.ca http://www.getsmarteraboutmoney.ca/en/managing-your-
+money/planning/investing-basics, AMF Quebec, Be informed, online: Autorité des Marchés Financiers 
+http://lautorite.qc.ca/en/be-informed.html, MAS (through the MoneySENSE website), online: 
+MoneySENSE http://www.moneysense.gov.sg, FSB’s My Life My Money, online: My Life My 
+Money http://www.mylifemymoney.co.za, SEC Thailand’s Start -to-Invest, online: Start -to-Invest 
+http://www.start-to-invest.com, CMB’s Yatirim Yapiyorum, online: Yati rim Yapiyorum 
+http://yatirimyapiyorum.gov.tr, FCA’s The Money Advice Service, online: The Money Advice Service 
+https://www.moneyadviceservice.org.uk, SEC’s Investor.gov, online: Investor.gov  www.investor.gov, 
+and CVM`s Portal do Investidor, online: Investidor.gov www.investidor.gov.br.  
+                 
+21  See e.g. FSMA’s Wikifin.be, Tools, online: Wikifin.be http://www.wikifin.be/nl/tools-0, AMF, 
+Calculators, online: http://www.amf-france.org/Epargne-Info-Service/Boite-a-outils/Calculateurs-
+financiers/Calculateur-1.html, OSC’s GetSmarterAboutMoney.ca, Tools & Calculators , online:
+
+14 
+ 
+Practice 2 
+ 
+Develop investor education and financial literacy programs that meet investor needs and 
+support regulatory initiatives.  
+ 
+Explanatory text  
+Securities regulators may identify investor needs and priority initiatives through consultation 
+with consumer associations, advisory groups and regulatory agencies within and outside their 
+jurisdiction.  
+ 
+A priority for some securities regulators is financial knowledge and skills relating to life 
+events, such as graduation, unemployment, marriage, birth, divorce, retirement, support of 
+elderly relatives and death. A number of C8 members structure their websit es according to 
+life events and stages, and allow users to “ drill down” to the content that suits their needs. 22 
+Priorities for other regulators include promoting the regulatory framework within their 
+jurisdiction, aspects of behavioural economics (for exam ple, over -confidence) and new 
+regulatory disclosure reforms.  
+ 
+Securities regulators may also identify priorities through operational activities, tracking 
+inquiries and complaints, compliance and disclosure oversight, and enforcement actions.  
+ 
+Investor alerts and bulletins are another way securities regulators support operational 
+activities. National or international financial literacy surveys can also help identify investor 
+needs and areas of focus.   
+ 
+Examples 
+ The JFSA has formed a consultativ e group of subject matter experts, government offices 
+and industry associations to determine future financial education work. 
+ The CSRC uses suggestions from investors received through its hotline to help identify 
+investor needs and priorities. 
+                                                                                                                                                                        
+GetSmarterAboutMoney.ca http://www.getsmarteraboutmoney.ca/en/tools_and_calculator, AMF 
+Quebec, Calculators, online: Autorité des Marchés Financiers  at:  
+http://www.lautorite.qc.ca/en/calculators-investment.html, FSB’s My Life My Money, Calculators and 
+Budget Template, online: My Life My Money 
+ https://www.mylifemymoney.co.za/Consumer/Tools/Pages/default.aspx, FCA’s The Money Advice 
+Service, Tools & resources, online: The Money Advice Service at: 
+ https://www.moneyadviceservice.org.uk/en/categories/tools--resources  and SEC’s Investor.gov, 
+Tools, online at: Investor.gov  http://www.investor.gov/tools. 
+22  See ASIC’s MoneySmart, Life events & you , online  at: MoneySmart 
+https://www.moneysmart.gov.au/life-events-and-you, FSMA’s Wikifin.be, Levensmomenten, online at:  
+Wikifin.be http://www.wikifin.be/nl/levensmomenten, SFC’s Investor Education Centre, Life Events & 
+You, online  at: Investor Education Centre https://www.hkiec.hk/web/en//life-events-and-
+you/index.html, SC’s Malaysian Investor, Financial Planning: Articles , online: Malaysian Investor 
+http://www.min.com.my/articles/financial-planning,  OSC’s GetSmarterAboutMoney.ca, Life events , 
+online at:  GetSmarterAboutMoney.ca http://www.getsmarteraboutmoney.ca/en/LIFE-EVENTS, 
+MAS’s MoneySENSE, Life Events , online  at: MoneySENSE http://www.moneysense.gov.sg/Life-
+Events.aspx, FCA’s The Money Advice Service, Life events, online at: 
+ The Money Advice Service https://www.moneyadviceservice.org.uk/en/categories/life-events, and 
+SEC’s Investor.gov, Life Events, online at: Investor.gov http://investor.gov/life-events.
+
+15 
+ In Hong Kong, an education campaign to raise awareness of investor rights during the 
+sales process was based on findings from a “ Mystery Shopping Program Finding ” report 
+by the SFC in 2011.  
+ The CNV posts investor warnings and alerts on its website, as do many other members. 
+ The SEC Thailand has relied on financial literacy surveys and research conducted by the 
+Bank of Thailand and the National Statistical Office. 
+ 
+Practice 3 
+ 
+Develop investor education and financial literacy programs to meet the needs of specific 
+audiences.  
+ 
+Explanatory text 
+Research demonstrates that investor education and financial literacy programs are most 
+effective when based on particular retail investor segments, for example, ag e, life event, risk 
+or behavioural profile, or level of financial knowledge.  
+ 
+An important first step is to define the target investor or investor segment, in order to develop 
+the most appropriate and effective content, format and delivery method. 23 A number of C8 
+members target investor programs by age, socio -economic background and level of investing 
+sophistication (based in part on the segment’s vulnerability).  
+ 
+The choice of media for delivering investor education and financial literacy programs usually 
+depends on the target investor or investor segment. In order to achieve the widest exposure, 
+many securities regulators use all available media. Current methods i nclude distributing 
+written materials, such as brochures and fact sheets, face -to-face meetings, website 
+calculators, financial tools, training seminars, podcasts, videos, engagement with the media, 
+town hall meetings and workshops.  
+ 
+In addition to websit e content targeted to specific audiences, a number of C8 members are 
+using social media, including Facebook, Twitter and YouTube, to reach audiences. Some C8 
+members also provide content specifically for culturally and linguistically diverse groups 
+within their jurisdiction.24  
+ 
+Examples 
+ Through its Market Women Wealth and Health Program, the SEC Nigeria visits women, 
+educating them about securities markets, products and how to invest. 
+ ASIC’s dedicated consumer website, MoneySmart, has tailored education material for 
+different audiences and life stages, including young adults, pre -retirees, families, women 
+and Indigenous Australians. 
+ The FCA’s Consumer Spotlight examines consumers’ personal characteristics, lifestyles, 
+attitudes, behaviours and experiences, and assigns a potential risk rating. 
+                                                                 
+23  See e.g. International Organization of Securities Commissions, Technical Committee, Principles on 
+Point of Sale Disclosure (Final Report, February 2011), online: International Organization of Securities 
+Commissions http://www.iosco.org/library/pubdocs/pdf/IOSCOPD343.pdf. 
+24  See e.g. ASIC’s MoneySmart, Other languages, online at: 
+MoneySmart https://www.moneysmart.gov.au/tools-and-resources/publications/other-languages, with 
+publications, audio and video recordings in 26 languages.
+
+16 
+ In a recent campaign focused on investment -linked assurance schemes, the SFC’s 
+Investor Education Centre used a variety of delivery methods, including video broadcasts 
+on its website, TV and YouTube, as well as brochures distributed through intermediaries.  
+ Singapore’s MoneySENSE 2013 Mind Your Money TV campaign targeted an older 
+Chinese-speaking audience that prefers skits and local celebrity interviews.25 
+ The SC, the CMB and the SEC Thailand have mobile applications t hat provide basic 
+information on products, intermediaries and investor alerts.  
+ The SEC’s Twitter account dedicated to investor education, @SEC_Investor_Ed, had 
+over 40,000 followers as of March 2014. 
+ Together with other  national regulators , the CMVM launched the “ Todos Contam ” 
+gateway in 2012 , which aims to expose  the basic  concepts related to  more frequent 
+financial decisions  and also provides tools for  managing personal  finance and  savings 
+from different investment aspects throughout the different  stages of life  (studying, first 
+employment, buying a home or  a car, starting a family , planning for retirement, 
+unemployment, divorce and illness). 
+Practice 4 
+ 
+Consider insights gathered from research when developing investor education and financial 
+literacy programs.  
+ 
+Explanatory text 
+Ideally, the design and implementation of investor education and financial literacy programs 
+should be evidenced based. They should take into account insights gained from research, 
+including behavioural economics, to better understand the decision -making behaviours of the 
+target retail investor.  
+ 
+A number of C8 members use a range of quantitative and qualitative research to inform their 
+work on investor education, including website content and design. Ongoing research, such as 
+surveys or analysis of user p atterns on websites, may also help identify investor needs, 
+preferences and decision -making behaviours. Research can also identify needs and priorities 
+that are specific to local culture and demographics. 
+ 
+Examples 
+ The FSB commissioned the Human Science Research Council of South Africa to conduct 
+a nationally representative baseline survey on financial literacy. The results showed how 
+people best learn and what mechanism works best to create awareness and develop skills.  
+ The FCA uses ongoing research on co nsumer psychology and behavioural biases to 
+inform its education and financial literacy programs. 
+ ASIC commissions qualitative research into specific population groups to ensure its 
+financial education programs are effective. 
+ The OSC’s GetSmarterAboutMoney  website relies on research that identifies online 
+investor preferences to guide development of content, style and distribution on its 
+website. 
+ The AMF Quebec Financial Awareness Index measures the rate of adoption of 40 advised 
+financial behaviours. Annua l campaigns are developed to focus on the shortcomings of 
+investors. 
+                                                                 
+25  MoneySENSE is a national financial education programme in Singapore, led by MAS and several other 
+public sector agencies.
+
+17 
+ The CMVM conducted literacy surveys in order to assess the profile and knowledge of 
+domestic investors and a study based on “mystery shopping” procedures to measure 
+financial intermediaries’ abilities and knowledge. 
+ 
+Practice 5 
+ 
+Develop investor education and financial literacy programs with clear and measurable 
+outcomes, and where possible, evaluate them on an ongoing basis.  
+ 
+Explanatory text 
+Program monitoring and evaluation is important for assessing a program’s effectiveness, 
+identifying areas for improvement and verifying whether the program makes good use of 
+resources. It can also help inform the development of future programs. However, me asuring 
+program outcomes has been challenging because the effect s often take years to materialis e. 
+Work in this area continues to evolve.  
+ 
+Typical measurements for financial literacy include testing before and after workshops to 
+ascertain immediate understanding of knowledge, surveys to determine awareness and usage 
+of materials and/or tools, website analytics and stakeholder consultation. Surveys may also be 
+conducted to measure behavioural changes.  
+ 
+Ideally, evaluations should take into account the specific objectives of the program, its scope, 
+its target audience and delivery method. Different program objectives often require a 
+different evaluation design. For example, some securities regulators have pilot-tested investor 
+education and financial literacy programs to determine their effectiveness and make 
+improvements before broad implementation.  
+ 
+Examples 
+ ASIC and the FSB have built an evaluation mechanism into their financial literacy 
+programs.26  
+ The CNMV, in collaboration with the Bank of Spain as part of its financial education 
+program in schools in 2012 -13, had an external specialist design and implement the 
+evaluation of the program. 
+ 
+Practice 6 
+ 
+Collaborate or partner with other relevant organ isations in developing and delivering 
+investor education and financial literacy programs.  
+ 
+Explanatory text 
+In order to maximize limited resources and leverage each other’s strengths, securities 
+regulators may look for opportunities to partner with other public, private, not-for-profit and 
+community-based organizations, and educational institutions. 27 Many securities regulators 
+                                                                 
+26  ASIC’s National Financial Literacy Strategy recognises that measurement and evaluation of financial 
+literacy programs is critical. The annual reports on ASIC’s financial literacy programs are available at 
+National Financial Literacy Strategy, ASIC’s financial literacy reports , online: National Financial 
+Literacy S trategy http://www.financialliteracy.gov.au/asic-programs/asics-financial-literacy-reports. In 
+South Africa, the FSB has developed a guide for monitoring and evaluating financial education projects 
+and programs.  
+27  ASIC, for example, hosts a monthly ‘ Community of Practice ’ meeting to promote dialogue, 
+partnerships and information exchange between all those involved in financial literacy work.  The
+
+18 
+also partner with self-regulatory organizations or investor associations.28  
+ 
+Partnership opportunities may also arise with industry  associations, professional bodies, 
+intermediaries,29 financial institutions and other market participants. These organisations may 
+have particular knowledge of the needs of a certain target retail investor audience or be better 
+placed to have interactions with investors.  
+ 
+When partnering with the financial industry, it is important that securities regulators avoid 
+conflicts of interest or the appearance of conflicts of interest. Investor education and financial 
+literacy programs provided by securities regu lators should be independent, fair and unbiased 
+and be clearly distinguished from promotional or commercial materials. For example, many 
+securities regulators are not permitted to endorse any products or services and must avoid the 
+appearance of endorsing any products or services, including those of any partner market 
+participant.   
+ 
+Examples 
+ The AMF collaborates on educational campaigns with the French Institute for Public 
+Financial Education, which is partially funded by the regulator. The AMF has also 
+entered into a partnership agreement with the National Consumers Institute to provide 
+consumers with information about financial products and services. 
+ The SC collaborates with Malaysia’s central bank, the police and stock exchange on 
+investor education programs.  
+ The CNMV works collaboratively with the Bank of Spain in its outreach efforts, as does 
+the SEC Nigeria with its financial institutions and stock exchange.  
+ In September 2013, the SEC Thailand signed a memorandum of understanding with 13 
+Thai agencies and associations to promote financial literacy.30 
+ A number of C8 members, such as the SFC and MAS, leverage the expertise and 
+knowledge of other public sector agencies, consumer/investor and industry associations in 
+developing and delivering education messages.  
+ The OSC’s GetSmarterAboutMoney website partners with national news media to 
+promote and distribute investor education content.31 
+ The SEC works closely with other regulators to issue joint alerts and bulletins on 
+regulatory issues relevant to retail investors.  
+                                                                                                                                                                        
+Community h as over 400 participants from the education, financial services, not -for-profit and 
+government sectors in Australia and New Zealand.  
+28  The Quebec AMF, for example, has partnered with the Chambre de la sécurité financière on continuous 
+education units for financial advisers, focused on tools and programs of interest to their clients.  
+29  The term “intermediaries” is defined in the IOSCO Principles as  “Market intermediaries generally 
+include those who are in the business of managing individual portfolios, e xecuting orders and dealing 
+in, or distributing, securities." IOSCO Methodology, supra note 4 at 175. 
+30  The “Financial Literacy: Road to Thailand’s Prosperity ” project includes the SEC Thailand, the Office 
+of Insurance Commission, the Social Security Office, the Government Pension Fu nd, the Stock 
+Exchange of Thailand, the Federation of Thai Capital Market Organizations, the Thai Bond Market 
+Association, the National Credit Bureau, the Association of Thai Securities Companies, the Association 
+of Investment Management Companies, the Tha i Investors Association, the Thai Listed Companies 
+Association, the Thai Financial Planners Association and the Securities Analysts Association.   
+31  See The Globe and Mail, Globe Investor: Investor Education , online: The Globe and Mail at: 
+http://www.theglobeandmail.com/globe-investor/investor-education.
+
+19 
+ In 2006, the CVM launched the Education Advisory Committee ( Comitê Consultivo de 
+Educação), gathering together B razilian self-regulatory organisations and capital market 
+associations to promote joint initiatives for investors. 
+ 
+Practice 7   
+ 
+When developing investor education and financial literacy programs, consider national 
+strategies and/or collaboration with other organisations to complement or reinforce financial 
+education and financial consumer protection programs generally.  
+ 
+Explanatory text 
+Due to the scope of their mandates or limited resources, many securities regulators 
+collaborate with national and local governments (including educational institutions) to 
+facilitate comprehensive investor education and financial literacy programs in their respective 
+jurisdictions. For example, a number of C8 members work closely with departments of 
+education and have developed specific financial literacy tools and materials for use by 
+teachers in schools.32  
+ 
+Some national strategies take a  holistic approach to financial education, which may help to 
+avoid duplication of effort and resources, identify inefficiencies and gaps in the overall 
+financial education framework, and raise awareness of financial literacy issues at the national 
+level. 
+  
+Examples 
+ In 2011, ASIC developed the first Australian National Financial Literacy Strategy to 
+provide a national framework for financial literacy based on stakeholder collaboration, 
+research and international best practice.  The strategy was comprehensive ly reviewed and 
+updated in 2013. 
+ In Turkey, a National Financial Education Strategic Plan is expected to be implemented 
+nationwide with the Ministry of Education. 
+ The CMVM, with the endorsement of Portugal’s Minister of State and Finance, 
+participated with representatives from the central bank and insurance and pension funds 
+supervisory authority in the preparation of a National Plan for Financial Education 2011 -
+15. The plan is aimed at establishing a national framework for financial education 
+projects. Training sessions for teachers, educators and also professionals who are in 
+contact with the public and play a role in investor protection are in progress.33  
+ The CNV recently created an Investor Protection and Financial Education division, aimed 
+at developing  a national financial education program that is aligned with international 
+standards of investor education.  
+ The CVM coordinated the working group set up by the Brazilian financial regulators to 
+propose the National Strategy for Financial Education  (“Estratégia Nacional de 
+Educação Financeira – ENEF)”. The ENEF`s Presidential decree was enacted in 2010. 
+                                                                 
+32   See e.g. ASIC’s MoneySmart Teaching, online: MoneySmart Teaching at:  
+ http://teaching.moneysmart.gov.au  and OSC’s InspireFinancialLearning.ca, online at: 
+ InspireFinancialLearning.ca  http://www.inspirefinanciallearning.ca.  
+33   See Conselho Nacional de Supervisores Financeiros, National Plan for Financial Education 2011-2015 
+(Lisbon, October 2011), online at:  Banco de Portugal Eurosistem 
+ http://clientebancario.bportugal.pt/pt-
+PT/Publicacoes/PNFF/Documents/National%20Plan%20for%20Financial%20Education%20(2011 -
+2015)%20-%20Portugal.pdf.
+
+20 
+As part of the National Strategy, the CVM coordinated the High School Financial 
+Education pilot project, spanning six states, 868 schools, and approxim ately 20,000 high 
+school students in Brazil (2010-2011)34.  
+  
+Practice 8 
+ 
+Promote international cooperation, sharing of information and coordination on investor 
+education and financial literacy, including forums for exchange of information and 
+experiences within IOSCO and with other agencies and organisations.  
+ 
+Explanatory text 
+Many juris dictions coordinate and harmonis e investor education and financial literacy 
+programs as much as possible, particularly if directed at a shared target audience, such as 
+investors engaged in cross -border investment activities. The sharing of investor education 
+ideas and initiatives among IOSCO members and with other agencies and organisations is a 
+valuable resource for jurisdictions, especially in today’s increasingly interco nnected markets. 
+C8 members are also actively engaged in other global agencies and networks to share 
+information and expertise. 
+ 
+Examples 
+ IOSCO publishes on its website alerts and warnings that IOSCO members issue about 
+firms that are not authorised to provide investment services in their jurisdiction.35 
+ In June 2013, IOSCO launched a new online tool, the “ Investor Education Gateway,” on 
+the public area of IOSCO’s website. 36 The Gateway’s “ Investor Education Portal ”37 
+provides access to information voluntarily provided by approximately 50 IOSCO 
+members regarding their web-based investor education work. The Gateway showcases the 
+work of IOSCO members and provides a mechanism for sharing their web -based investor 
+education programs within the global community. T he Gateway also contains IOSCO 
+reports and presentations on investor education.  
+ 
+                                                                 
+34          See World Bank, The Impact of High School Financial Education: Experimental Evidence from Brazil  
+(Washington, December 2013), online at:  http://go.worldbank.org/CXVCRMPFE0/. 
+ 
+35  International Organization of Securities Commissions, Investor Alerts, online: International 
+Organization of Securities Commissions at: http://www.iosco.org/investor_alerts/. 
+36  International Organizati on of Securities Commissions, Investor Education Gateway, online at: 
+International Organization of Securities Commissions http://www.iosco.org/investor_education/. 
+37  International Organization of Se curities Commissions, Investor Education Portal, online: International 
+Organization of Securities Commissions at:  
+http://www.iosco.org/investor_education/index.cfm?section=portal.
+
+21 
+Appendix 1 – C8 members 
+ 
+Ontario (Chair) Ontario Securities Commission (OSC) 
+Brazil (Vice-Chair) Comissão de Valores Mobiliários (CVM) 
+Argentina Comisión Nacional de Valores (CNV) 
+Australia Australian Securities and Investments Commission (ASIC) 
+Belgium Financial Services and Markets Authority (FSMA) 
+China, People’s Republic of China Securities Regulatory Commission (CSRC) 
+Chinese Taipei Financial Supervisory Commission (FSC) 
+France Autorité des marchés financiers (AMF) 
+Germany Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) 
+Hong Kong Securities and Futures Commission (SFC) 
+India Securities and Exchange Board of India (SEBI) 
+Italy Commissione Nazionale per le Società e la Borsa  
+(CONSOB) 
+Japan Financial Services Agency (JFSA) 
+Japan Japan Securities Dealers Association (JSDA) (Observer) 
+Jersey Jersey Financial Services Commission (Jersey FSC) 
+Luxembourg, Grand Duchy of Commission de surveillance du secteur financier (CSSF) 
+Malaysia Securities Commission (SC) 
+Mexico Comisión Nacional Bancaria y de Valores (CNBV) 
+Netherlands, The The Netherlands Authority for the Financial Markets (AFM) 
+Nigeria Securities and Exchange Commission (SEC Nigeria) 
+Portugal Comissão do Mercado de Valores Mobiliários (CMVM) 
+Quebec Autorité des marchés financiers (AMF Quebec) 
+Singapore Monetary Authority of Singapore (MAS) 
+South Africa Financial Services Board (FSB) 
+Spain Comisión Nacional del Mercado de Valores (CNMV) 
+Sweden Finansinspektionen 
+Thailand Securities and Exchange Commission (SEC Thailand) 
+Turkey Capital Markets Board (CMB) 
+United Kingdom Financial Conduct Authority (FCA) 
+United States of America Securities and Exchange Commission (SEC) 
+United States of America Commodity Futures Trading Commission (CFTC) 
+United States of America Financial Industry Regulatory Authority (FINRA) 
+IOSCO  IOSCO Education and Training Team
+
+22 
+Appendix 2 – Behavioural economics and other findings 
+related to financial decision-making 
+ 
+ 
+Behavioural economics studies psychology and microeconomic decision -making from the 
+perspective that the efficient market hypothesis is a flawed or incomplete construct. The 
+research indicates that individuals often act irrationally due to cognitive processes and 
+environmental conditions. 38 In the saving and investing environment, there is evidence that 
+people make poor financial decisions due to various biases, for example, inertia, lo ss 
+aversion, procrastination, perceived lack of knowledge, cultural sensitivities and a variety of 
+environmental stimuli.   
+ 
+Behavioural economics analysis generally measures the outcomes of participant behaviour in 
+controlled experiments that attempt to model realistic scenarios faced by the investing public. 
+Behavioural responses to investment decision -making have been documented through 
+academic research in recent years. 39 A catalogue of behavioural economics research is 
+annotated in Appendix 3.  
+ 
+The research highlights a number of behavioural responses in financial decision -making that 
+have important implications for the design of investor education and financial literacy 
+strategies. The most significant of these responses are noted below, followed by ot her biases 
+and effects that can have an impact on financial decision-making.  
+ 
+Key behavioural responses in financial decision-making 
+ 
+ Anchoring and adjustment  – an initial value or starting point influences the final 
+decision.40 The anchoring effect decreases but does not vanish with higher cognitive 
+ability. 
+ 
+ Choice preference – too many options inhibit or overwhelm selection decision-making.41 
+ 
+ Confirmation bias  – people use data selectively to agree or confirm their existing 
+views.42 Investors with a stronger confirmation bias also exhibit greater overconfidence.43 
+                                                                 
+38  For a fuller discussion of behavioural economics, see U.S., Behavioral Patterns and Pitfalls of U.S. 
+Investors: A Report Prepared by the Federal Research Division, Library of Congress under an 
+Interagency Agreement with the Securities and Exchan ge Commission (Washington, D.C.: 2010), 
+online: U.S. Securities and Exchange Commission at: 
+ http://www.sec.gov/investor/locinvestorbehaviorreport.pdf.   
+39  Annotated Bibliography on the Behavioral Characteristics of U.S. Investors : A Report Prepared by the 
+Federal Research Division, Library of Congress under an Interagency Agreement with the Securities 
+and Exchange Commission (Washington, D.C.: 2010), online: U.S. Securities and Exch ange 
+Commission at: http://www.sec.gov/investor/locinvestorbehaviorbib.pdf. 
+40  Oscar Bergman et al. , “Anchoring and cognitive ability” (2010) 107:1 Economics Letters  66. For a 
+literature review, see also Adrian  Furnham & Hua Chu Boo, “ A literature review of the anchoring 
+effect” (2011) 40:1 The Journal of Socio-Economics 35. 
+41  Sheena Sethi-Iyengar, Gur Huberman, and Wei Jiang, “ How Much Choice is Too Much ? Contributions 
+to 401( k) Retirement Plans” in Olivia S. Mitchell & Stephen P. Utkus, eds., Pension Design and 
+Structure: New Lessons from Behavioral Finance (Oxford: Oxford University Press, 2004) 83. 
+42  Warren Bailey, Alok Kumar & David Ng, “ Behavioral biases of mutual fund in vestors” (2011) 102:1  
+Journal of Financial Economics 1.
+
+23 
+ 
+ Conflict disclosure – disclosing a conflict of interest may make it more likely that the 
+conflict will actually occur as it increases levels of trust.44  
+ 
+ Inertia – the default option becomes the de facto selection even if it is not the optimal 
+choice.45 
+ 
+ Loss aversion  – people more strongly prefer to avoid small losses than acquire larger 
+gains.46 Loss aversion is not invoked when spending money that is within an in tended 
+budget for purchases, but only when operating outside the intended budget. 47 Loss 
+aversion can actually be a motivation to invest to the extent that when people perceive a 
+loss, they become risk-seeking as opposed to risk averse. When assessing a situation from 
+the perspective of a potential loss, “loss framing” will occur. An investor on a losing 
+streak, for example, may well decide that greater risk is necessary to achieve their 
+target.48 See also “framing effect” in Other biases and effects related to financial decision-
+making. 
+ 
+ Myopic loss aversion  – combination of loss aversion and a tendency to evaluate 
+outcomes frequently. This leads investors to be more willing to invest a greater proportion 
+of their portfolio in risky assets if they evaluate their investments less frequently. 49  
+ 
+ Overconfidence – people tend to trade frequently and hurt their own investment 
+performance.50 Investors are more likely to be overconfident when they are less 
+                                                                                                                                                                        
+43   JaeHong Park et al. , “Confirmation Bias, Overconfidence, and Investment Performance: Evidence 
+from Stock Message Boards” (2010) McCombs Research Paper Series No. IROM -07-10, online: Social 
+Science Research Network http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1639470. . 
+44   Sunita Sah, George L oewenstein & Daylian M. Cain, “ The Burden of Disclosure: Increased 
+Compliance with Distrusted Advice ” (2013), 104:2 Journal of Personality and Social Psychology 289. 
+See also Daylian M. Cain, George Loewenstein & Don A. Moore, “ The Dirt on Coming Clean: 
+Perverse Effects of Disclosing Conflicts of Interest ” (Working paper, 1 December 2003), online: Social 
+Science Research Network http://ssrn.com/abstract=480121.   
+45   John Leonard Beshears et al., “The Importance of Default Options for Retirement Savings Outcomes: 
+Evidence from the United States” in Stephen J. Kay & Tapen Sinha, eds., Lessons from Pension Reform 
+in the Americas (New York: Oxford University Press, 2008) 59.  
+46   See also Terrance Odean, “ Are Investors Reluctant to Realize their Losses ?” (1998) 53:5 The Journal 
+of Finance 1775. 
+47   Shlomo Benartzi & Richard H. Thaler, “ Risk Aversion or Myopia? Choices in Repeated Gambles and 
+Retirement Investments ” (1999) 34:3 Management Science 364 . Nathan Novemsky & Daniel 
+Kahneman, “The Boundaries of Loss Aversion ” (2005) 42:2 Journal of Marketing Research 119, cited 
+in Tommy Gärling et al., “Psychology, Financial Decision Making, and Financial Crises ” (2010) 10:1 
+Psychological Science in the Public Interest 1. 
+48   Philippe Kattan, “Why should Law care about Stock Market Psychology? Behavioural Finance Insights 
+into Investors and Broker Decision -Making” (Centre for Business Law and International Trade, 
+University of Montreal, May 2006). 
+49   Sholomo Benartzi  & Richard H. Thaler, “ Myopic Loss Aversion and the Equity Premium Puzzle ” 
+(1995) 110 Quarterly Journal of Economics 75, cited in Gary Charness & Uri Gneezy, “ Portfolio 
+Choice and Risk Attitudes: An Experiment” (2010) 48:1 Economic Inquiry 133. 
+50   Margarida Abreu & Victor Mendes, “ Information, overconfidence and trading: Do the sources of 
+information matter? ” (2012) 33:4 Journal of Economic Psychology 868. See also Brad M. Barber & 
+Terrance Odean, “ Online Investors: Do the Slow Die First ?” (2002) 15:2 The Review of Financial 
+Studies 455.
+
+24 
+experienced as they learn about their true ability through ex perience.51 Investors with 
+biased information-processing behaviour in virtual communities are likely to trade more 
+actively and realis e worse performance due to their overconfidence. 52 Overconfident 
+investors, who show a better than average bias, trade more frequently.  
+ 
+ Temporal framing  – people too heavily discount future benefits in lieu of present 
+consumption.53 
+ 
+Other biases and effects related to financial decision-making 
+ 
+ Ambiguity aversion – the desire to avoid unclear circumstances, even when this will not 
+increase the expected utility.54  
+ 
+ Availability heuristic – people judge the frequency or probability of some events on the 
+basis of how easily examples or instances can be recalled or remembered.55 
+ 
+ Disposition effect – the propensity of an investor to sell winners too early and hold losers 
+too long.56  
+ 
+ Endowment effect – people demand a higher price to sell something they own than they 
+are willing to pay for acquiring it. 57 This effect may occur for goods whose possession is 
+merely desired.58 The effect is reduced if a negative mood is induced before the good is 
+acquired.59 
+                                                                 
+51   Brad M. Barber & Terrance Odean, “ The Internet and the Investor ” (2001) 15:1 Journal of Economic 
+Perspectives 41, cited in Park et al., supra note 43. 
+52  Ibid. 
+53  Jeffrey R. Brown, Jeffrey R. Kling, Sendhil Mullainathan & Marian V. Wrobel, “Why Don’t People 
+Insure Late -Life Consumption? A Framing Explanation of the Under -Annuitization Puzzle” (2008) 
+98:2 American Economic Review 304-309. 
+54  Daniel Ellsberg, ‘‘ Risk, Ambiguity and the Savage Axioms ’’(1961) 75:4 The Quarterly Journal of 
+Economics 643, cited in Charness & Gneezy, supra note 49. 
+55  Ning An & Xiaoxiao Shi, Cognitive Ability and Psychological Biases: Perspective from Chinese stock 
+individual investors  (Masters Thesis, Umeå School of Business, 2012) [unpublished], online : Umeå 
+University http://umu.diva-portal.org/smash/get/diva2:513883/FULLTEXT01.pdf. 
+56  Hersh Shefrin & Meir Statman, “The Disposition to Sell Winners Too Early and Rise Losers  Too 
+Long” (1985) 40 Journal of Finance 777; Odean, supra note 46; Alok Kumar & Sonya S. Lim, “How 
+do Decision Frames Influence the Stock Investment Choices of Individual Investors?” (2008) 54 
+Management Science 1052, cited in Bailey, Kumar & Ng, supra note 42. 
+57  Daniel Kahneman, Jack L. Knetsch & Richard H. Thaler, “Experimental Tests of the Endowment 
+Effect and the Coase Theorem” (1990), 98:6 Journ al of Political Economy 1325, cited in Gärling et al., 
+supra note 47; Jack L. Knetsch, “The Endowment Effect and Evidence of Nonreversible Indiffe rence 
+Curves” (1989) 79:5 The American Economic Review 1277, cited in Gärling et al., supra note 47; see 
+Ronald G. Cummings et al. , Valuing Environmental Goods: An Assessment of the Contingent 
+Valuation Method (New York: Rowman & Allanheld, 1986), cited in Gärling et al., supra note 47 and 
+for reviews, Novemsky & Kahneman, supra note 47. 
+58   Ziv Carmon, Klaus Wertenbroch & Marcel Zeelenberg, “ Option Attachment: When Deliberating 
+Makes Choosing Feel Like Losing” (2003) 30 Journal of Consumer Research 15, cited in Gärling et al., 
+supra note 47. 
+59   Jennifer S. Lerner, Deborah A. Small & George Loewenstein, “ Heart Strings and Purse Strings: 
+Carry-over Effects of Emotions on Economic Transactions” (2004) 15 Psychological Science 337, cited 
+in Gärling et al., supra note 47.
+
+25 
+ 
+ Framing effect – a decision is influenced by the phrasing or frame in which the problem 
+is presented.60 
+ 
+ Fund-level inattention  – the propensity to trade mutual funds around macroeconomic 
+news events.61 
+ 
+ Herding – a phenomenon where many people take the same action. 62 Information 
+concerning the number of previous transactions in the market is particularly rele vant to 
+explain herding propensity among investors.63 
+ 
+ Illusion of control – the expectancy of personal success is inappropriately higher than the 
+objective probability would warrant.64 
+ 
+ Inattention to earnings  news – degree to which an investor does not trade a particular 
+individual stock around earnings news.65 
+ 
+ Inattention to macroeconomic news  – degree to which an investor does not trade any 
+individual stocks around macroeconomic news events.66 
+ 
+ January effect – the tendency for excess share returns in the first few days of January.67 
+ 
+ Local bias  – the propensity to select funds or stocks with headquarters close to the 
+investor’s geographical location.68 
+ 
+ Lottery stock preference – the propensity to select stocks with lottery -like features (low 
+price, volatile returns and skewed returns).69 
+ 
+ Narrow framing  – the propensity to select investments individually, instead of 
+considering the broad impact on the portfolio.70 
+                                                                 
+60   An & Shi, supra note 55. 
+61   Bailey, Kumar & Ng, supra note 42. 
+62   An & Shi, supra note 55. 
+63  Beatriz Fernández et al., “Herding, information uncertainty and investors' cognitive profile ” (2011) 3:1 
+Qualitative Research in Financial Markets 7 
+64   Ellen J. Langer, ‘‘ The Illusion of Control ’’ (1975) 32:2 Journal of Personality and Social Psychology 
+311, cited in Charness & Gneezy, supra note 49. 
+65   Bailey, Kumar & Ng, supra note 42. 
+66   Ibid. 
+67   An & Shi, supra note 55. 
+68   Bailey, Kumar & Ng, supra note 42. 
+69   Nicholas Barberis & Ming Huang, “ Stocks as Lotteries: The Implications of Probability Weighting for 
+Security Prices” (2008) 98:5 American Economic Review 2066, cited in Bailey, Kumar & Ng, supra 
+note 42 and Alok Kumar, “ Who Gambles in the Stock Market ?” (2009) 64:4 The Journal of Finance 
+1889, cited in Bailey, Kumar & Ng, supra note 42. 
+70  Daniel Kahneman & Dan Lovallo, “ Timid Choices and Bold Forecasts: A Cognitive Perspective on 
+Risk Taking” (1993) 39:1 Management Science 17, cited in Bailey, Kumar & Ng, supra note 42; Daniel 
+Kahneman, “Maps of Bounded Rationality: Psychology for Behavioral Economics” (2003) 93:5
+
+26 
+ 
+ Present bias  – the inordinate weight people place on costs and benefits that are 
+immediate.71 
+ 
+ Regret – a human emotion that can influence decisions.72 
+ 
+ Representativeness – evaluation of the degree of correspondence between a sample and 
+a population, an instance and a category, or more generally, an outcome and a model.73 
+ 
+ Risk aversion – when individuals have the same level of financial education, there is no 
+gender difference in the level of risk aversion.74 
+ 
+ Small-firms effect – the shares of smaller firms have outperfor med those of larger firms 
+over a period of several decades.75 
+ 
+ Weekend effect – there appear to be abnormal returns on Fridays and relative falls on 
+Mondays.76 
+ 
+                                                                                                                                                                        
+American Economic Review 144, cited in Bailey, Kumar & Ng, supra note 42; and Kumar & Lim, 
+supra note 56. 
+71   George A. Akerlof, “The short-run demand for money: A new look at an old problem ” (1982) 72:2 The 
+American Economic Review 35, cited in Punam Anand Keller et al., “Enhanced active choice: A new 
+method to motivate behavior change ” (2011) 21:4 Journal of Consumer Psychology 376 , and Ted 
+O'Donoghue & Matthew Rabin, “Doing It Now or Later” (1999) 89:1 The American Economic Review 
+103, cited in Keller et al., ibid. 
+72  An & Shi, supra note 55. 
+73   Ibid. 
+74  Ann Marie Hibbert, Edward R. Lawrence & Arun J. Prakash, “ Does knowledge of finance mitigate the 
+gender difference in financial risk-aversion?” (2013) 24:2 Global Finance Journal 140  
+75   An & Shi, supra note 55. 
+76   Ibid.
+
+27 
+Appendix 3 – Behavioural economics literature review 
+ 
+Date Reference 
+Investing 
+2013 Glaser, Markus & Torsten Walther, “Run, Walk, or Buy? Financial Literacy, Dual-
+Process Theory, and Investment Behavior” (Working paper, 30 April 2013), online: Social 
+Science Research Network http://ssrn.com/abstract=2336109. 
+2013 Hibbert, Ann Marie, Edward R. Lawrence & Arun J. Prakash, “Does knowledge of finance 
+mitigate the gender difference in financial risk-aversion?” (2013) 24:2 Global Finance 
+Journal 140. 
+2013 Howard, C. Thomas, “Behavioural portfolio management” (Working paper, 31 May 
+2013), online: Social Science Research Network 
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2210032 . 
+2013 Kahneman, Daniel, “Behavioral Economics and Investor Protection: Keynote Address” 
+(Speech delivered at the Behavioral Economics and Investor Protection Conference at 
+Loyola University Chicago School of Law, 5 October 2012), (2013) 44 Loyola University 
+Chicago Law Journal 1333. 
+2013 Nardy, Andrew & Rubens Fama, “Behavioral Finance from 2001-2012: Concepts, 
+Themes and Academic Production” (Working paper, 29 September 2013), online: Social 
+Science Research Network http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2333121. 
+2013 O’Connor, Lisa, “Investors’ Information Sharing and Use in Virtual Communities” (2013) 
+64:1 Journal Of The American Society For Information Science And Technology 36. 
+2013 Pevzner, Mikhail, Fei Xie & Xiangang Xin, “When firms talk, do investors listen? The 
+role of trust in stock market reactions to corporate earnings announcements” Journal of 
+Financial Economics [forthcoming], online: Social Science Research Network 
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2144835. 
+2013 Salzman, Diego & Remco C.J. Zwinkels, “Behavioural real estate” (Discussion paper, 3 
+July 2013), online: Tinbergen Institute  www.papers.tinbergen.nl/13088.pdf  . 
+2013 Sicherman, Nachum et al., “Financial Attention” (Working paper, 10 October 2013), 
+online: Social Science Research Network 
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2339287. 
+2013 Suresh, Anli, “Understanding Behavioral Finance Through Biases and Traits of Trader 
+Vis-À-Vis Investor” (2013) 4:2 Journal of Finance, Accounting and Management 11. 
+2013 Taylor, Matthew P., “Bias and brains: Risk aversion and cognitive ability across real and 
+hypothetical settings” (2013) 46:3 Journal of Risk and Uncertainty 299. 
+2013 Walther, Torsten, “The Information Acquisition Process of Individual Investors” 
+(Working paper, 30 August 2013), online: Social Science Research Network 
+http://ssrn.com/abstract=2254770. 
+2012 Abreu, Margarida & Victor Mendes, “Information, overconfidence and trading: Do the 
+sources of information matter?” (2012) 33:4 Journal of Economic Psychology 868.
+
+28 
+2012 An, Ning & Xiaoxiao Shi, Cognitive Ability and Psychological Biases: Perspective from 
+Chinese stock individual investors (Master Thesis, Umeå School of Business, 2012) 
+[unpublished], online: Umeå University http://umu.diva-
+portal.org/smash/get/diva2:513883/FULLTEXT01.pdf. 
+2012 Carpentier, Cécile, & Jean-Marc Suret, “Financial knowledge and rationality of Canadian 
+investors” (18 March 2012), online: Autorité des marchés financiers  
+http://www.lautorite.qc.ca/files/pdf/fonds-education-saine-gouvernance/finances-
+perso/fin-perso_ulaval_knowledge-rationality.pdf. 
+2012 Kay, John, The Kay Review of UK Equity Markets and Long-Term Decision Making: 
+Final Report (July 2012). 
+2012 Li, Jun & Jianfeng Yu, “Investor attention, psychological anchors, and stock return 
+predictability” (2012) 104:2 Journal of Financial Economics 401. 
+2012 Liberali, Jordana M. et al., “Individual differences in numeracy and cognitive reflection, 
+with implications for biases and fallacies in probability judgment” (2012) 25:4 Journal of 
+Behavioral Decision Making 361. 
+2012 Stephens, Thomas Alexander & Jean-Robert Tyran, “‘At Least I Didn't Lose Money’ - 
+Nominal Loss Aversion Shapes Evaluations of Housing Transactions” (University of 
+Copenhagen Dept. of Economics Discussion Paper No. 12-14, 12 October 2012). 
+2011 Almlund, Mathilde et al., “Personality psychology and economics” (NBER Working 
+Paper 16822, 2011), online: National Bureau of Economnic Research 
+<http://www.nber.org/papers/w16822.pdf?new_window=1>. 
+2011 Bailey, Warren, Alok Kumar & David Ng, “Behavioral biases of mutual fund investors” 
+(2011) 102:1 Journal of Financial Economics 1. 
+2011 Barber, Brad M. & Terrance Odean, “The Behavior of Individual Investors” (Working 
+paper, 7 September 2011), online: Social Science Research Network 
+http://ssrn.com/abstract=1872211. 
+2011 Bollen, Johan, Huina Mao & Xiao-Jun Zeng, “Twitter mood predicts the stock market” 
+(2011) 2:1 Journal of Computational Science 1. 
+2011 Fernández, Beatriz et al., “Herding, information uncertainty and investors' cognitive 
+profile” (2011) 3:1 Qualitative Research in Financial Markets 7. 
+2011 Furnham, Adrian & Hua Chu Boo, “A literature review of the anchoring effect” (2011) 
+40:1 The Journal of Socio-Economics 35. 
+2011 Kourtidis, Dimitrios, Željko Šević & Prodromos Chatzoglou, “Investors’ trading activity: 
+A behavioural perspective and empirical results” (2011) 40:4 The Journal of Socio-
+Economics 548. 
+2011 Van Rooij, Maarten, Annamaria Lusardi Rob & Alessie, “Financial literacy and stock 
+market participation” (2011) 101:2 Journal of Financial Economics 449. 
+2010 Barnea, Amir, Henrik Cronqvist & Stephan Siegel, “Nature or nurture: What determines 
+investor behavior?” (2010) 98:3 Journal of Financial Economics 583. 
+2010 Bergman, Oscar et al., “Anchoring and cognitive ability” (2010) 107:1 Economics Letters 
+66.
+
+29 
+2010 Charness, Gary & Uri Gneezy, “Portfolio Choice and Risk Attitudes: An Experiment” 
+(2010) 48:1 Economic Inquiry 133. 
+2010 Christelis, Dimitris, Tullio Jappelli & Mario Padula, “Cognitive abilities and portfolio 
+choice” (2010) 54:1 European Economic Review 18. 
+2010 European Commission, Consumer Decision-Making in Retail Investment Services: A 
+Behavioural Economics Perspective; Final Report (2010), online: European Commission 
+http://ec.europa.eu/consumers/strategy/docs/final_report_en.pdf. 
+2010 Forbes, James, & S. Murat Kara, “Confidence mediates how investment knowledge 
+influences investing self-efficacy” (2010) 31:3 Journal of Economic Psychology 435. 
+2010 Hsu, Yenshan, & Cheng-Yi Shiu, “The overconfidence of investors in the primary market” 
+(2010) 18:2 Pacific-Basin Finance Journal 217. 
+2010 Korniotis, George M. & Alok Kumar, “Cognitive abilities and financial decisions” in H. 
+Kent Baker & John R. Nofsinger, eds., Behavioral Finance: Investors, Corporations, and 
+Markets (Hoboken: John Wiley & Sons, 2010). 
+2010 Linciano, Nadia, “Cognitive Biases and Instability of Preferences in the Portfolio Choices 
+of Retail Investors” (Working paper, Commissione Nazionale Per Le Società E La Borsa, 
+January 2010). 
+2010 Williamson, Kirsty, “Empowered or Vulnerable? The Role of Information for Australian 
+Online Investors” (2010) 34:1 Canadian Journal of Information and Library Science 39. 
+2009 Bauer, Rob, Mathijs Cosemans & Piet Eichholtz, “Option trading and individual investor 
+performance” (2009) 33:4 Journal of Banking & Finance 731. 
+2009 Oechssler, Joerg, Andreas Roider & Patrick W. Schmitz, “Cognitive abilities and 
+behavioral biases” (2009) 72:1 Journal of Economic Behavior & Organization 147. 
+2009 Subrahmanyam, Avanidhar, “Optimal financial education” (2009) 18:1 Review of 
+Financial Economics 1. 
+2008 Chandra, Abhijeet, “Decision Making in the Stock Market: Incorporating Psychology with 
+Finance” (MPRA Paper No. 21288, National Conference FFMI 2008 IIT Kharagpur, 29 
+December 2008), online: Munich Personal RePEc Archive  http://mpra.ub.uni-
+muenchen.de/21288/1/MPRA_paper_21288.pdf  
+2005 Chen, Qi, Jennifer Francis & Wei Jiang, “Investor learning about analyst predictive 
+ability” (2005) 39:1 Journal of Accounting and Economics 3. 
+2003 Ackert, Lucy F., Bryan K. Church & Richard Deaves, “Emotion and Financial Markets” 
+(2003, Second Quarter) Economic Review 33. 
+Personal finance 
+2013 Consumer Financial Protection Bureau, Navigating the market: A comparison of spending 
+on financial education and financial marketing (18 November 2013), online: Consumer 
+Financial Protection Bureau http://files.consumerfinance.gov/f/201311_cfpb_navigating-
+the-market-final.pdf. 
+2013 Erta, Kristine et al., “Applying behavioural economics at the Financial Conduct 
+Authority” (Financial Conduct Authority Occasional Paper No. 1, April 2013), online: 
+Financial Conduct Authority http://www.fca.org.uk/static/documents/occasional-
+
+30 
+papers/occasional-paper-1.pdf. 
+2013 Fernandes, Daniel, John G. Lynch Jr. & Richard G. Netemeyer, “Financial Literacy, 
+Financial Education and Downstream Financial Behaviors” Management Science 
+[forthcoming], online: Social Science Research Network  
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2333898. 
+2011
+1
+3 
+FINRA Investor Education Foundation, National Financial Capability Study: Journal 
+Articles, online: FINRA Investor Education Foundation  
+http://www.usfinancialcapability.org/datainuse.php. 
+2013 Klapper, Leora, Annamaria Lusardi & Georgios A. Panos, “Financial literacy and its 
+consequences: Evidence from Russia during the financial crisis” (2013) 37:10 Journal of 
+Banking & Finance 3904. 
+2013 Organisation for Economic Co-operation and Development, Russia Trust Fund for 
+Financial Literacy & Education, Improving financial education effectiveness through 
+behavioural economics (2013), online: Organisation for Economic Co-operation and 
+Development  http://www.oecd.org/daf/fin/financial-
+education/TrustFund2013_OECDImproving_Fin_Ed_effectiveness_through_Behavioural
+_Economics.pdf. 
+2013 Xiao, Jing Jian, Cheng Chen & Fuzhong Chen, “Consumer financial capability and 
+financial satisfaction” (2013) 113:3 Social Indicators Research, online: FINRA Investor 
+Education Foundation 
+http://www.usfinancialcapability.org/downloads/Financial_Satisfaction.pdf. 
+2012 Altman, Morris, “Implications of behavioural economics for financial literacy and public 
+policy” (2012) 41:5 The Journal of Socio-Economic 677. 
+2012 Bay, Charlotta, Bino Catasùs & Gustav Johed, “Situating financial literacy” (Discussion 
+paper, 2012), online: Cardiff Business School  
+http://www.business.cf.ac.uk/sites/default/files/ipa2012/Final_Version_IPA_Paper_Refere
+nce_76.docx. 
+2012 Collins, J. Michael, “The impacts of mandatory financial education: Evidence from a 
+randomized field study” (2012) 95 Journal of Economic Behavior & Organization 146. 
+2012 Holden, Steinar, “Implications of insights from behavioral economics for macroeconomic 
+ models” (Discussion paper, October 2012), online: University of Oslo 
+ http://folk.uio.no/sholden/wp/behavioral-econ-sep12.pdf. 
+2012 Knoll, Melissa A. Z. & Carrie R. Houts, “The Financial Knowledge Scale: An Application  
+of Item Response Theory to the Assessment of Financial Literacy” (2012) 46:3 Journal of  
+Consumer Affairs 381. 
+2012 Meier, Stephan & Charles D. Sprenger, “Discounting financial literacy: Time preferences  
+and participation in financial education programs” (2012) 95 Journal of Economic  
+Behavior & Organization 159. 
+2012 U.K., Cabinet Office Behavioural Insights Team, Applying behavioural insights to reduce  
+fraud, error and debt (Cabinet Office Behavioural Insights Team, February 2012), online:  
+GOV.UK  
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT 
+_FraudErrorDebt_accessible.pdf
+
+31 
+2011 Jappelli, Tullio & Mario Padula, “Investment in financial literacy and saving decisions”  
+(Discussion paper, February 2011), online: VOX  
+http://www.voxeu.org/article/investment-financial-literacy-and-saving-decisions. 
+2011 Lusardi, Annamaria, Carl-Pierre Michaud & Olivia S. Mitchell, “Optimal Financial  
+Literacy and Saving for Retirement” (Discussion paper, 21 September 2011), online:  
+Université due Québec à Montréal  
+http://www.cirpee.uqam.ca/JOURNEES_CIRPEE_2011/MICHAUD_2011.pdf. 
+2011 Murray, T. Scott, “Financial literacy: A conceptual review” (Research paper prepared for  
+the Task Force on Financial Literacy, 9 February 2011), online: Government of Canada  
+Publications  
+http://publications.gc.ca/collections/collection_2011/fin/F2-205-2011-eng.pdf. 
+2011 Schmeiser, Maximilian D. & Jason S. Seligman, “Using the right yardstick: assessing  
+financial literacy measures by way of financial well-being” (Center for Financial Security  
+Research Brief, October 2011), online: Center for Financial Security, University of  
+Wisconsin-Madison  
+http://www.cfs.wisc.edu/briefs/Seligman2011_UsingtheRightYardstickBrief.pdf. 
+2011 Tomášková, Hana, Hana Mohelská & Zuzana Němcová, “Issues of Financial Literacy  
+Education” (2011) 28 Procedia - Social and Behavioral Sciences 365. 
+2010 Gärling, Tommy et al., “Psychology, Financial Decision Making, and Financial Crises”  
+(2010) 10:1 Psychological Science in the Public Interest 1. 
+2010 Wolfe-Hayes, Molly A., “Financial literacy and education: An environmental scan”  
+(2010) 42:2 The International Information & Library Review 105. 
+2008 Barr, Michael S., Sendhil Mullainathan & Eldar Shafir, “Behaviorally Informed Financial  
+Services Regulation” (Report prepared for the New America Foundation Asset Building  
+Program, October 2008).

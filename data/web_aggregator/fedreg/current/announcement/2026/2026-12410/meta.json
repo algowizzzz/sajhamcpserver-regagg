@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12410",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of Proposed Change To Amend Its Rules To Extend Trading Hours for Certain Eligible Equity Options",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12410/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-proposed-change-to-amend-its",
+  "reference_number": "2026-12410",
+  "published_date": "2026-06-22",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d454d602d272dfe1aeaa1df760e50ce0e0c9f638eec671599ee6fa990d46d74f",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12410",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

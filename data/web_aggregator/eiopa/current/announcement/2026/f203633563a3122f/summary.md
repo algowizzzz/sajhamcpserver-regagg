@@ -1,0 +1,1 @@
+Summary: Today, Finanstilsynet (the Danish Financial Supervisory Authority) issued a [direction](https://www.finanstilsynet.dk/en/Tilsyn/Tilsynsreaktioner/Paabud/2018/Alpha-paabud-tegningstop-050318) to Alpha Insurance A/S to cease writing business with immediate effect. The company opera

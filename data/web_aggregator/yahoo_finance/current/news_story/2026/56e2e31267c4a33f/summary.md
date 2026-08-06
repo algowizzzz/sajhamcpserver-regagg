@@ -1,0 +1,1 @@
+Summary: # Broader Crude Oil Price Weakness Hurt Kosmos Energy Ltd. (KOS) in Q2

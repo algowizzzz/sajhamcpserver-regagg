@@ -1,0 +1,1298 @@
+![People tossing graduation caps into the air](/sites/default/files/styles/wide_lead/public/media/2021/08/graduates.png?h=b8ccb851&itok=SLCvvh3i "Graduates")
+
+## Student Loans and Debt Relief Resources
+
+Learn about financing your education, loan forgiveness, deferment debt relief, and more.
+
+[TOP](#top)
+
+Student Loans and Debt Relief Resources
+
+SHARE
+
+* [See All](#)
+
+## Upcoming Workshops
+
+DFS staff speak and hold workshops, both in person and virtual, on a variety of financial subjects including financing higher education and repaying student loans.
+
+If you are interested in hosting a student loan workshop, contact [[email protected]](/cdn-cgi/l/email-protection).
+
+**Financing Your Education**
+
+September 9, 2026 from 5:30-7pm
+
+Salamanca High School
+
+September 10, 2026 from 6 -7:30pm
+
+Allegany-Limestone Middle-High School
+
+September 16, 2026 from 5-6:30pm
+
+North Tonawanda High School
+
+September 30, 2026 from 7-8:30pm
+
+Goshen High School
+
+October 1, 2026 from 6:30-8pm
+
+Homer High School
+
+October 5, 2026 from 7-8:30pm
+
+North Babylon High School
+
+October 6, 2026 from 7-8:30pm
+
+Massapequa High School
+
+October 7, 2026 from 7-8:30pm
+
+Malverne High School
+
+October 14, 2026 from 7-8:30pm
+
+Rocky Point High School
+
+October 15, 2026 from 6-7:30pm
+
+Pierson High School
+
+October 19, 2026 from 6-7:30pm
+
+Alexander Central School
+
+October 20, 2026 from 5:30-7pm
+
+Royalton-Hartland Central School District
+
+November 10, 2026 from 6-7:30pm
+
+Manhattan Center for Science and Mathematics
+
+November 17, 2026 from 5:45-7pm
+
+Special Music School
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Act Now if You are in the SAVE income driven repayment plan!
+
+On July 1, 2026, student loan borrowers who are enrolled the SAVE plan or have a SAVE application pending will have 90 days to move to a different repayment plan. If you do not change your payment plan, your loans will be placed in the Standard Repayment Plan which could mean that you will have a higher monthly payment than you can afford.
+
+For more information about the available repayment plans, scroll down to the Repaying Student Loan section.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Need Help Navigating Student Loans?
+
+EDCAP (Education Debt Consumer Assistance Program) is an independent, New York State funded, nonprofit program of the Community Service Society of New York (CSS) that helps New Yorkers navigate the student loan system. They offer free, one-on-one counseling with their student loan experts who have your best interests at heart.
+
+**To schedule an appointment, get any of your student loan questions answered, or find out if there are other loan issues they can help you with call (888) 614-5004 or email**[**[email protected]**](/cdn-cgi/l/email-protection#26434245475666455555485f08495441)**for more information.**
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Student Borrower Bill of Rights
+
+Student loan servicers are often the most important points of contact for student loan borrowers. They send your monthly bills and process your loan payments, and they are also supposed to answer your questions and help you figure out the best way to repay your loans. For these reasons, when student loan servicers don’t do their jobs well, borrowers suffer. In 2019, New York passed the Student Loan Servicing Act, which gave DFS authority to license and regulate student loan servicers and to ensure that they treat borrowers with the respect and professionalism they deserve.
+
+The law also created new protections for borrowers and their co-signors. These rights are described in the New York Student Loan Borrower Bill of Rights as follows:
+
+**Every Student Loan Borrower In New York Has The Right To:**
+
+1. Detailed financial aid award letters from schools in New York.
+
++
+
+If you apply for financial aid to attend schools in New York, schools must send you a uniform financial aid award information sheet so your family and you can easily understand the costs of an education, make informed financial decisions, and compare financial aid offers from different schools. These financial aid award letters must include certain information, such as the total cost of attendance for the upcoming year, estimated cost of attendance for any subsequent years needed to earn a degree, total grant and scholarship awards, expected loan amounts, and the school’s graduation rate, loan default rate, and average student debt.
+
+2. Clear, accurate, and complete information about your loan terms.
+
++
+
+Student loan servicers may not misrepresent or omit any information related to your loans, including the terms or conditions, the existence or amount of any fees or payments, and any policies related to cosigner releases.
+
+3. Information about any available loan repayment plans and options.
+
++
+
+Student loan servicers must inform you about any and all loan repayment plans for which you are eligible by prominently posting information on their website, ensuring their customer representatives are adequately trained, and mailing annual informational notices.
+
+4. Information about any available discharge, forgiveness, and cancellation options.
+
++
+
+Student loan servicers must inform you about any and all loan forgiveness, cancellation, or discharge programs for which you are eligible by prominently posting information on their website, ensuring their customer representatives are adequately trained, and mailing annual informational notices.
+
+5. Loan payments applied to your account in ways that most benefit you.
+
++
+
+To reduce costs for students and their families, if it is not specified in your loan contract, student loan servicers must ask how you would like any non-conforming payments—those that are greater or less than the monthly payment due—to be applied to your account. If you do not provide a specific way to apply the payment, servicers must apply the payment in your best interest. That means, for example, applying overpayments to the highest-interest loan to ensure it is paid down as quickly as possible and applying underpayments in the way that minimizes late fees and negative credit reporting.
+
+6. Knowledgeable customer service representatives who treat you respectfully and fairly.
+
++
+
+Student loan servicers must prominently post on their websites a toll-free number that you can call to discuss your loans with a live customer representative. These representatives must be trained and knowledgeable about any available loan repayment plans or forgiveness, discharge, and cancellation programs. It is a violation of New York State law for a student loan servicer or their representative to engage in any unlawful, unfair, deceptive, abusive, or predatory behavior, such as misrepresenting or omitting any option available to you as a borrower or directing you to longer and more expensive repayment plans than you would otherwise qualify for.
+
+7. Detailed loan account histories that are easily and securely accessible online.
+
++
+
+Student loan servicers must make available online, at all times and free of charge, a clear and complete set of records for each of your loans. These records must include a report describing each of your student loans being serviced and the status of those loans, as well as the loans’ interest rates and remaining balance.
+
+8. Seamless transfers if your loan is serviced by a new company.
+
++
+
+If your student loan is transferred for any reason from one student loan servicer to another, the servicers must ensure that all relevant documents are properly transferred, including copies of the loan’s promissory note, a schedule of payments that have been made, and any records of communication with you. Additionally, new student loan servicers must respect and continue to offer any benefits that previous servicers made available to you, including benefits that were made available but for which you had not yet qualified. Finally, student loan servicers must provide you with notice of any sale, assignment, or transfer of your loan and must complete the sale, assignment, or transfer at least seven days before the next payment is due.
+
+9. Accurate payment history reporting to credit agencies.
+
++
+
+Student loan servicers must report only accurate information on your payment performance to credit reporting agencies.
+
+10. Responses to complaints you make to your servicer.
+
++
+
+Student loan servicers must respond to any complaint submitted by you, a cosigner, or an authorized representative. Student loan servicers must acknowledge that they have received the complaint, and then must investigate and correct any error within a specified period of time. You may also submit a complaint to the New York State Department of Financial Services, which will ensure that the student loan servicer investigates and responds to the complaint in a timely manner.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Student Borrower Bill of Rights in Other Languages
+
+* #### [Student Borrower Bill of Rights - Arabic](/system/files/documents/2023/05/Student-Borrower-Bill-of-Rights_Arabic.pdf)
+
+  [Download](/system/files/documents/2023/05/Student-Borrower-Bill-of-Rights_Arabic.pdf)
+
+* #### [Student Borrower Bill of Rights - Bengali](/system/files/documents/2019/12/student_borrower_bill_of_rights_bengali_0.pdf)
+
+  [Download](/system/files/documents/2019/12/student_borrower_bill_of_rights_bengali_0.pdf)
+
+* #### [Student Borrower Bill of Rights - Chinese](/system/files/documents/2024/06/Student-Borrower-Bill-of-Rights_Chinese.pdf)
+
+  中文翻譯
+
+  [Download](/system/files/documents/2024/06/Student-Borrower-Bill-of-Rights_Chinese.pdf)
+
+* #### [Student Borrower Bill of Rights - French](/system/files/documents/2023/05/Student_Borrower_Bill_of_Rights_French.pdf)
+
+  Traduction française
+
+  [Download](/system/files/documents/2023/05/Student_Borrower_Bill_of_Rights_French.pdf)
+
+* #### [Student Borrower Bill of Rights - Haitian-Creole](/system/files/documents/2019/12/student_borrower_bill_of_rights_creole.pdf)
+
+  [Download](/system/files/documents/2019/12/student_borrower_bill_of_rights_creole.pdf)
+
+* #### [Student Borrower Bill of Rights - Italian](/system/files/documents/2024/06/Student_Borrower_Bill_of_Rights_Italian.pdf)
+
+  Traduzione italiana
+
+  [Download](/system/files/documents/2024/06/Student_Borrower_Bill_of_Rights_Italian.pdf)
+
+* #### [Student Borrower Bill of Rights - Korean](/system/files/documents/2019/12/student_borrower_bill_of_rights_korean.pdf)
+
+  한국어 번역
+
+  [Download](/system/files/documents/2019/12/student_borrower_bill_of_rights_korean.pdf)
+
+* #### [Student Borrower Bill of Rights - Polish](/system/files/documents/2024/06/Student-Borrower-Bill-of-Rights_Polish_0.pdf)
+
+  [Download](/system/files/documents/2024/06/Student-Borrower-Bill-of-Rights_Polish_0.pdf)
+
+* #### [Student Borrower Bill of Rights - Russian](/system/files/documents/2019/12/student_borrower_bill_of_rights_russian.pdf)
+
+  [Download](/system/files/documents/2019/12/student_borrower_bill_of_rights_russian.pdf)
+
+* #### [Student Borrower Bill of Rights - Spanish](/system/files/documents/2024/06/Student_Borrower_Bill_of_Rights_Spanish.pdf)
+
+  Traducción al español
+
+  [Download](/system/files/documents/2024/06/Student_Borrower_Bill_of_Rights_Spanish.pdf)
+
+* #### [Student Borrower Bill of Rights - Urdu](/system/files/documents/2024/06/Student-Borrower-Bill-of-Rights_Urdu.pdf)
+
+  [Download](/system/files/documents/2024/06/Student-Borrower-Bill-of-Rights_Urdu.pdf)
+
+* #### [Student Borrower Bill of Rights - Yiddish](/system/files/documents/2024/06/Student_Borrower_Bill_of_Rights_Yiddish_0.pdf)
+
+  [Download](/system/files/documents/2024/06/Student_Borrower_Bill_of_Rights_Yiddish_0.pdf)
+
+[Back to Top](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Financing Your Education
+
+If you must borrow, it is usually best to rely on federal student loan options before turning to private loans.
+
+### Choose the Aid that is Right For You
+
+Once your school evaluates your [Free Application for Federal Student Aid](https://studentaid.gov/h/apply-for-aid/fafsa) (FAFSA), the financial aid office will compile a financial aid package, and send you a letter outlining your aid award. Your award may include grants, work-study employment up to a certain dollar amount, and both federal and private loan options – be sure to recognize the differences between the types of funding that you are offered.
+
+Once you decide the amount and type of funding that best fits your needs, you will sign a promissory note that commits you to repaying the loans that you choose. Borrow only what you need. You are not required to accept the full proposed financial aid package.
+
+Consider taking any work-study employment offered, provided you can balance your studies with part-time employment.
+
+### Compare Education Funding Sources
+
+It can be difficult to determine how to best finance your education. While everyone's specific circumstances are different, there are some general “rules of thumb” to consider in choosing a suitable aid package.
+
+1. **FREE FIRST.** Try to exhaust your sources of "free" money that you do not need to repay -- i.e. grants and scholarships, as well as work-study employment -- before taking out any loans.
+2. **THEN FEDERAL.** If you have to borrow to finance your education, consider the loan package that makes sense for you and for your family. As a general rule, most borrowers benefit from exhausting funding from federal loans before turning to private funding.
+3. **SUBSIDIZED IF YOU CAN:** Take out the maximum amount of subsidized federal aid that you qualify for before turning to unsubsidized federal loans. The government pays the interest that accrues on subsidized loans while you are in school, and during any grace or deferment period.
+4. **PRIVATE LAST, IF YOU MUST.** You should generally turn to private student loans as a last result.
+
+#### Compared to private loans, federal loans offer:
+
+* **LOWER COST:** Federal loans generally cost less than private loans.
+* **FIXED PAYMENTS:** Federal loans have fixed interest rates. Fixed interest rates may help you budget your monthly loan payments. Private loans can have either fixed or variable interest rates, which are often higher than the government’s fixed interest rates.
+* **CHOICE TO NOT MAKE PAYMENTS WHILE IN SCHOOL:** You must begin to repay most federal student loans within six months of graduation or when you otherwise leave school, or attend school less than half-time. By contrast, you must start to repay some private student loans while you are still in school.
+* **STANDARD REPAYMENT OPTIONS:** Federal loans are required to come with a number of repayment plans for the borrower to choose from, including income-based repayment plans, and other flexible repayment options, while private loans are not.
+
+### Calculating Total Loan Cost
+
+When you are deciding which loans to accept, be sure to make comparisons based on the loans’ total cost. The total cost of a loan includes three different amounts: the **PRINCIPAL**, the **INTEREST**, and the **FEES**.
+
+* The **principal** is the original amount that you borrow.
+* The **interest** is the cost of borrowing money from the lender.
+* The interest amount accrues over time. Interest rates on student loans can be fixed or variable.
+  + A **fixed** interest rate does not change over the life of the loan.
+  + A **variable** interest rate can change over the life of the loan.
+* Lenders may charge you various **fees** when you borrow a loan. Common fees include:
+  + An origination fee, which is charged to cover the cost of providing the loan.
+  + A deferment fee, which is a charge for postponing the payments due on your loan for a specified period.
+
+To help you understand the total cost of your student loan, private student loan lenders must clearly disclose the loan’s annual percentage rate, finance charge, amount financed, and total of payments before you sign the loan agreement. These disclosures may look something like this:
+
+| **Annual Percentage Rate (APR)** | **Finance Charge** | **Amount Financed** | **Total Payments** |
+| --- | --- | --- | --- |
+| The cost of your credit as a yearly rate. | The dollar amount the credit will cost you. | The amount of credit provided to you. | The amount you will have paid when you have made all scheduled payments. |
+
+* **The Annual Percentage Rate (APR)** is the annual cost of borrowing. The APR listed includes any fees that are assessed when you borrow.
+* **The Finance Charge** includes any loan charges that are a condition of the extension of credit (such as interest over the life of the loan and fees assessed at origination).
+* **The Amount Financed** includes the principal loan amount plus any other amount initially provided to the borrower, minus any fees or charges that the lender deducts from the loan balance before providing funds to the borrower.
+* **The Total of Payments** is the total amount the borrower will repay after making all scheduled payments.
+
+**Note**: Your private student loan lender must provide you with loan-cost disclosures at three different points in the application process:
+
+1. With any application or solicitation
+2. Once you are approved but before the loan is consummated
+3. After you accept the loan
+
+While each disclosure may vary slightly, they all must include the loan’s interest rate, applicable fees and default or late-payment costs, and repayment terms.
+
+You can calculate approximate private student loan costs, with the help of [FinAid! The Smart Student Guide to Financial Aid.](https://finaid.org/calculators/)
+
+### Accepting Private Student Loans
+
+Before you sign a private student loan contract, the lender must obtain a self-certification form from you or your school. The self-certification form explains the cost of attending school and your specific aid package. You must sign this form before you accept the private loan to confirm that you know how much extra funding you need to fill the gap between your school’s aid package and your outstanding financial need.
+
+You can accept a private student loan within 30 days of receiving notice that you have been approved for the loan. Once you accept, the lender will provide you with a final disclosure before issuing your loan funds.
+
+### Cancelling a Student Loan
+
+Sometimes plans change. You may be able to cancel student loans that you no longer need or want.
+
+**Private Loans:** You can cancel a private student loan up until midnight on the third business days after you receive the final notice of acceptance. Your lender or school cannot disburse your loan funds until after this three-day cancellation period expires.
+
+**Federal Loans:** You can cancel your federal loans if you inform your school that you no longer want the loans by the later of:
+
+* The first day of the loan payment period (which can vary based on your program but is generally the start of the academic term).
+* If you did give your school affirmative written confirmation of the types and amounts of federal student loans that you wanted for the loan year before your school credited your loan funds, then you can cancel within 14 days after your school notifies you that you have a right to cancel your loans.
+* If you did not give your school affirmative written confirmation of the types and amounts of federal student loans that you wanted for the loan year before your school credited your loan funds, then you can cancel within 30 days after your school notifies you that you have a right to cancel your loans.
+
+**Tip:** You might be able to cancel your federal loan(s) after this time period, but that right is not guaranteed.
+
+### CFPB College Cost Comparison Calculator
+
+Once you have been accepted by colleges and receive financial aid offers, you can compare the cost of attending different schools with the [financial aid and college cost](http://www.consumerfinance.gov/paying-for-college/compare-financial-aid-and-college-cost/) comparison tool provided by the Consumer Financial Protection Bureau (CFPB). The tool lets you compare the costs of different colleges, including the student loan debt that you’ll owe when you graduate, and estimates the percentage of your post-graduate monthly salary that will go toward paying off your loans.
+
+### Co-Signers - What You Need To Know
+
+A co-signer is someone who signs a loan contract or otherwise agrees that they will be liable for the repayment of a loan, even though they receive no money from the loan. One example is a parent or grandparent who co-signs a private student loan.
+
+Private student lenders often require borrowers to have a co-signer to take out a loan. While some private lenders may not require a co-signer, students will generally receive a better interest rate by borrowing with a creditworthy co-signer.
+
+Many co-signers enter into loan agreements without realizing that they can be held responsible for repaying the **entire** amount of the debt. A co-signer is liable for the loan debt even if the “primary” student borrower has the ability to repay it. Your co-signer should understand the full extent of their liability for your student loan before taking on such an obligation.
+
+**Tip: Co-Signer Release:** Some private loans offer terms that allow a co-signer to be released from a student lending agreement after a certain number of on-time payments, and depending on the creditworthiness of the original borrower. Check your private student loan contract or call your servicer to see whether this option is available to you and your co-signer.
+
+## Scholarships and Grants
+
+### Federal Scholarships and Grants
+
+The federal government offers many different education grants which do not have to be repaid. Most of these grants require a showing of financial need.
+
+Federal grants include Federal Pell Grants and Teacher Education Assistance for College and Higher Education (TEACH) Grants. You need to submit a Free Application for Federal Student Aid (FAFSA) to be considered for federal grants.
+
+Learn more about Federal [Scholarships](https://studentaid.gov/understand-aid/types/scholarships) and [Grants](https://studentaid.gov/understand-aid/types/grants) on Federal Student Aid, an office of the U.S. Department of Education.
+
+### New York State Scholarships and Grants
+
+New York also offers various grant, scholarship and award programs.
+
+Here are a few examples of grants and scholarships that are available to New York students:
+
+### Tuition Assistance Program (TAP) Grant
+
+* New York’s largest grant program. Grant applies toward the cost of tuition.
+
+### Excelsior Scholarship
+
+* The Excelsior Scholarship provides free tuition for eligible SUNY and CUNY students.
+* The program is available to families earning up to $125,000.
+* The New York State Higher Education Services Corporation (HESC) administers the Excelsior Scholarship. You can sign up for email alerts and learn more about the program on [HESC's website](https://www.hesc.ny.gov/pay-for-college/financial-aid/types-of-financial-aid/nys-grants-scholarships-awards/the-excelsior-scholarship.html).
+
+### NYS Scholarships for Academic Excellence
+
+* Given to outstanding graduates from certain New York high schools.
+* Scholarship is for up to five years of undergraduate study in New York.
+
+### NYS Math and Science Teaching Incentive Scholarship
+
+* Provided to eligible full-time undergraduate or graduate students in programs that lead to secondary education math or science teaching careers.
+
+Many other grants and scholarships are available. Learn more about New York State Grants and Scholarships from [HESC](https://hesc.ny.gov/find-aid/nys-grants-scholarships/nys-math-and-science-teaching-incentive-program/).
+
+Federal student loans are provided by the United States federal government. Most student loans today are federal loans. The United States Department of Education (DOE) offers two federal student loan programs: the William D. Ford Federal Direct Loan Program and the Federal Perkins Loan Program.
+
+### Direct Loans
+
+### Federal Direct Subsidized Stafford/Ford Loans ("Direct Subsidized Loans")
+
+* Available to students with financial need
+* Government pays interest that accrues during school, grace periods, and deferment
+* **Tip:** Once you determine that you will need to borrow, you should take out the maximum amount of Direct Subsidized Loans that you are able to
+
+### Federal Direct Unsubsidized Stafford/Ford Loans (“Direct Unsubsidized Loans”)
+
+* Available to undergraduate, graduate, and professional students
+* Borrower is responsible for the interest that accrues during any period
+
+### Graduate PLUS Loans
+
+* Available to graduate or professional students
+* New borrowing limits start July 1, 2026
+  + Graduate students (General Master’s & Academic PhDs)  $20,500/year - $100,000/lifetime limit
+  + Professional students (Medicine, Dentistry, Law) $50,000/year - $200,000/lifetime limit
+* Borrower is responsible for the interest that accrues during any period
+
+### Parent PLUS Loans
+
+* Available to parents of undergraduate students
+* New borrowing limits start July 1, 2026
+  + $20,000/year per dependent
+  + $65,000/year per dependent
+  + There is a limited exemption for parents whose dependent was enrolled at an institution as of June 30, 2026.
+* Borrowing cannot exceed your child's calculated cost of attendance minus other financial aid received
+
+### Federal Family Education Loan Program (FFEL Loans)
+
+The federal government no longer makes loans under the FFEL program. However, if you have outstanding FFEL loans, they remain in repayment. It is important that you know the many repayment plan options that are available to you and what to do if you are having trouble making your scheduled payments.
+
+### Federal Student Loan Interest Rates
+
+Interest rates vary by type of federal loan. The following table shows applicable interest rates for each type of federal loan:
+
+|  |  |  |
+| --- | --- | --- |
+| **Lowest Interest Rates**  Federal Student Loan Interest Rates - Lowest to Highest - Arrow  **Highest Interest Rates** | **Loan Type** | **Interest Rates**  **(first disbursed between July 1, 2026 and before July 1, 2027)** |
+| Direct Subsidized Loans (Undergraduate) | Fixed at 6.52% |
+| Direct Unsubsidized Loans (Undergraduate) | Fixed at 6.52% |
+| Direct Unsubsidized Loans (Graduate and Professional) | Fixed at 8.07% |
+| Direct PLUS Loans  (Parents and Graduate or Professional Students) | Fixed at 9.07% |
+
+Some federal student loans also have origination fees, which are paid proportionately from each loan disbursement.
+
+### Federal Student Loan Borrower Limits
+
+While your school sets the maximum federal aid amount that you can receive each school year, there are limits on the amount of subsidized and unsubsidized loans you can receive each year and in total throughout your education. To learn about these limits, visit [StudentAid.gov](https://studentaid.gov/understand-aid/types/loans).
+
+### Applying for Federal Aid
+
+To apply for federal student aid, including grants and loans, you must complete the Free Application for Federal Student Aid (FAFSA). This form allows your school to determine your federal aid eligibility. You can [access the FAFSA Online](https://studentaid.gov/h/apply-for-aid/fafsa).
+
+You will need to submit a new FAFSA each school year, as your aid package will change depending on your financial need.
+
+A FAFSA Submission Summary is generated based on your FAFSA. The FAFSA Submission Summary includes your Student Aid Index, or SAI. The SAI is a measure of your family’s financial circumstance that indicates the amount that your family can reasonably be expected to contribute to your education during that academic year.
+
+Get in-depth information on federal student aid programs, applying for financial aid, and repaying student loans at [StudentAid.gov](https://studentaid.gov/h/apply-for-aid).
+
+## Private Student Loans
+
+Private student loans are college-financing alternatives that can help fill the funding gap when traditional funding from family, loans, grants and scholarships is not enough to cover the cost of your education.
+
+### What is a private student loan?
+
+Private student loans do not come from the federal government. Banks and other financial institutions generally provide private student loans. Other private student lenders include non-profit lenders and schools that offer their own loans.
+
+Generally, you should use private student loans as a last resort to fund your education. Most private student loans do not offer the same protections as federal loans, such as income-based repayment plans, forbearance, and discharge upon death. In addition, private loans are usually more expensive (have a higher interest rate) than federal loans.
+
+However, in contrast to federal loans, private loans are subject to state statutes of limitations on collection and, for the most creditworthy borrowers, may offer better interest rates than federal loans.
+
+Two subsets of private education loans are peer-to-peer loans and institutional loans.
+
+### Peer-to-Peer Loans
+
+Generally peer-to-peer loans are offered through websites that act as intermediaries between prospective borrowers and loan funders, known as investors. Although these loans are referred to as “peer-to-peer”, funding for the loans can come from large institutions or individual persons. Investors can choose to invest in part of a loan or to provide the entire loan amount requested.
+
+The interest rates on peer-to-peer loans are based on the borrower’s creditworthiness. The interest rates on these loans are generally higher than federal loans; however the most creditworthy borrowers can obtain interest rates that are lower than some of the rates that the federal government offers.
+
+### Institutional Loans
+
+Many for-profit educational institutions provide loans, known as institutional loans, directly to students. These loans are generally more expensive than federal loans and can offer fewer protections than other private student loans.
+
+## **Managing Your Money While in School**
+
+### Student-Related Tax Credits and Deduction
+
+* **American Opportunity Credit:** You may be eligible for an [American Opportunity Credit](http://www.irs.gov/publications/p970/ch02.html), an income tax credit of up to $2,500 per eligible student for qualified education expenses.
+* **Lifetime Learning Credit:** You may be eligible for a [lifetime learning credit](https://www.irs.gov/publications/p970) of up to $2,000 per eligible student for qualified education expenses.
+* **Student Loan Interest Deduction:** You may be eligible to deduct up to $2,500 in student loan interest from your taxable income.
+
+Tip: You cannot claim American Opportunity Credit and the Lifetime Learning Credit for the same student in the same tax year.
+
+### Financial Aid Disbursement
+
+If your financial aid award is larger than your school’s costs to cover your tuition and any other on-campus expenses, you are entitled to receive those excess funds directly. You can use this extra money to cover rent, school supplies, and other expenses.
+
+Some colleges work with financial companies to disburse these additional funds to students on debit or prepaid cards that may also function as the students’ ID cards.
+
+Tip: You don't have to receive your excess federal student loan funds on a card. You can choose to receive any additional aid funds via check or other similar means. You can even return excess funds to your lender if you don’t need them to cover your school-related expenses. That means you’ll have less to repay down the road.
+
+### Student Bank Accounts
+
+You will probably open a checking or savings account in the city or town where you will be attending school. Make sure that you shop around to find the financial institution that is best suited to your needs.
+
+Tip: Your school cannot require you to bank with any specific financial institution.
+
+**The following questions can help you choose a bank account that is right for you:**
+
+* How much money do I need to have to open an account?
+* How much interest will I earn?
+* Does this account include a debit or check card?
+* What are the charges for using my debit card at my bank? At another bank?
+* Can I bank online or by phone?
+* Are there any fees that I should be aware of?
+
+Learn more about [Opening a Bank Account](/consumers/banking_money).
+
+## Avoiding Fees
+
+Fees can add up, and increase the cost of banking. Take into account any and all applicable fees when choosing an account. Fees can include:
+
+* **Monthly fees** - You may need to maintain a minimum account balance and/or set up a direct deposit to the account to avoid fees.
+* **Check fees -** Fees for bounced checks or fees for writing more than a specified number of checks per month.
+* **ATM fees -** Can apply to in-network or out-of-network ATMs.
+* **Fees for non-preferred purchases -** Some banks may charge a fee if you use your PIN during a debit card transaction instead of choosing to sign for your purchase.
+* **Overdraft fees -** Charges for transactions that are covered by the bank even though your account does not have enough money to pay for the purchase.
+
+### Avoiding Overdraft Fees
+
+If you make an ATM withdrawal or a one-time debit card purchase that costs more than your available account balance, this is known as an overdraft. If you authorize your bank to allow overdraft transactions, then your account will be charged the amount needed to cover the purchase. In addition, the bank will charge you an extra fee, called an overdraft fee, every time that you overdraft the account.
+
+**The average overdraft fee is about $30.** Once your account is negative, your bank might charge you for every purchase that causes an additional overdraft, or charge you every day until you repay the overdraft.
+
+If you do not opt into overdraft service, then your bank will decline all ATM withdrawals and debit card purchases made on your account that would cause an overdraft. This means that you will not be able to make a withdrawal or purchase that your account balance cannot cover.
+
+**Tip - Avoid Overdraft Fees:** If you have opted in to overdraft coverage, you can avoid overdraft fees through proper account management. Keep track of your account balance. Remember that ATM withdrawals, ATM fees, debit card purchases, online purchases, and recurring debits (like cable bills and rent) can affect your available balance.
+
+**Tip:** If you have previously opted in to overdraft coverage, you can opt out at any time.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Repaying Student Loans
+
+Most federal loans have a grace period after you leave school, during which you do not have to begin to make payments on the loan.
+
+[Deferment and Forbearance](#defer_forbear) | [Public Service Loan Forgiveness](#pslf) | [What if You Default?](#what_if_you_default)
+
+---
+
+**Tip:** You do not have to wait to begin repaying your student loans. You can save a lot of money if you pay the interest on your **Direct Unsubsidized** or **Direct PLUS** Loans while you are in school and during your post-graduate grace period. If you do not pay this interest as it accrues, then it will be capitalized, or added to the principal amount of your loans. Going forward, you will then be charged interest based on the increased principal amount.
+
+**Tip:** Keep track of your grace period so you know when your first payment is due.
+
+### Loans with a Six-Month Grace Period:
+
+* Direct Subsidized Loans
+* Direct Unsubsidized Loans
+* FFEL Subsidized Federal Stafford Loans
+* FFEL Unsubsidized Federal Stafford Loans
+
+### Loans with Variable Grace Period:
+
+* PLUS loans (grace period depends on type of loan)
+
+When it is time to begin repaying your student loans, you should explore your payment plan options and choose the one that best fits your needs. You should direct any student loan payments to your loan servicer, who will handle your loan while it is in repayment.
+
+**Tip:** To find your federal student loan servicer, visit [studentaid.gov/dashboard](https://studentaid.gov/dashboard "studentaid.gov/dashboard").
+
+Try to stay current on your payments. If you have difficulty making your scheduled payments, you have other options to explore.
+
+**Tip:** You may be eligible for an income-based repayment plan or employment-based loan forgiveness.
+
+### Federal Loan Repayment Plans (Pre-Default)
+
+The One Big Beautiful Bill Act (OBBBA), signed into law on July 4, 2025, has significant changes to student loan repayment options. There are a number of different federal loan repayment plans available to Direct and FFEL loan borrowers, depending on when you took out the loan. Your loan repayment options depend on your loan type, balance, status, and time in repayment. To learn more about your loans, visit [studentaid.gov/dashboard](https://studentaid.gov/dashboard "studentaid.gov/dashboard").
+
+**Tips:**
+
+* There are **no** prepayment penalties for federal student loans.
+* You can generally change your federal student loan repayment plan at any time. However, note that not all plans are available to all borrowers.
+
+### **Legacy Standard Plan**
+
+**Applies to:**
+
+* Any of the loan types listed below that were borrowed before July 1, 2026
+  + **If you had any of the loan types listed below prior to July 1, 2026 and borrow a new federal loan after July 1, 2026 you cannot access any of the legacy repayment plans. You will only have access to the new Tiered Standard Repayment plan or the new income driven plan, the Repayment Assistance Plan (RAP).**
+* Direct Subsidized and Unsubsidized Loans
+* FFEL Stafford Subsidized and Unsubsidized Loans
+* All PLUS Loans
+
+**Payments**
+
+* At least $50 per month
+* Fixed amount
+
+**Term**
+
+* Up to 10 years
+
+**Considerations**
+
+* Requires the highest monthly payments
+* The borrower will pay less interest over time in comparison with other repayment plans
+
+Some longer-term repayment plans such as the **Extended Repayment Plan**andthe**Graduated Repayment Plan** allow you to make smaller monthly payments by extending your repayment term. Extending the repayment term generally increases the cost of the loan over time.
+
+### Graduated Repayment Plan
+
+**Applies to:**
+
+* Direct Subsidized and Unsubsidized Loans
+* FFEL Stafford Subsidized and Unsubsidized Loans
+* Any PLUS Loans
+
+**Payments**
+
+* Payments start lower and increase over time, usually every 2 years
+
+**Term**
+
+* Up to 10 years
+
+**Considerations**
+
+* The borrower pays more for loan over time than under the Standard Plan, but initial payments due are lower than they would be under the Standard Plan
+
+### Extended Repayment Plan
+
+**Applies to:**
+
+* Direct Subsidized and Unsubsidized Loans
+* FFEL Stafford Subsidized and Unsubsidized Loans
+* Any PLUS Loans
+
+**Payments**
+
+* Fixed or graduated
+
+**Term**
+
+* Up to 25 years
+
+**Considerations**
+
+* Monthly payments are lower than under the Standard Plan, but the borrower will pay more over time than under the Standard Plan
+
+**Requirements**
+
+* Direct Loans: More than $30,000 outstanding
+* FFEL Loans: More than $30,000 outstanding
+
+### **New Tiered Standard Plan**
+
+**Applies to:**
+
+* Any of the loan types listed below that were borrowed after July 1, 2026
+* Direct Subsidized and Unsubsidized Loans
+* All PLUS Loans
+
+**Payments**
+
+* Based on the principal balance, interest rate, length of repayment (term)
+* Fixed amount
+
+**Term**
+
+* From 10 to 25 years
+
+New Tiered Standard Plan
+
+| Total Principal Balance | Repayment Term Length |
+| --- | --- |
+| less than $25,000 | 10 years |
+| $25,000 to $49,999 | 15 years |
+| $50,000 to $99,999 | 20 years |
+| $100,000 or more | 25 years |
+
+**Income Driven Repayment Plans (IDR) allow borrowers to make monthly payments based on their income and other relevant financial information. You must apply for the IDR and recertify annually. See the details below.**
+
+### **Repayment Assistance Plan (RAP)**
+
+**This is the only income driven repayment plan available to federal student loan borrowers who take out one or more loans after July 1, 2026.**
+
+**Applies to**
+
+* Direct Subsidized Loans
+* Direct Unsubsidized Loans
+* Direct PLUS Loans made to graduate or professional students
+
+**Not available on**
+
+* Parent Plus loans
+* Direct Consolidation Loans that include any Parent PLUS loans.
+
+**Payments**
+
+* Paymentsare calculated as a percentage of the borrower's total adjusted gross income, ranging from 1% to 10%, minus $50 per dependent.
+* Minimum $10 monthly payment
+* For married individuals who file a joint tax return, the monthly payment will be calculated on both spouses' income.
+
+  + If both spouses have federal student loans, then your monthly payment will be reduced.
+* For married individuals who file separate tax returns, the monthly payment will be calculated on the borrower's income only.
+
+|  |  |  |
+| --- | --- | --- |
+| **Income range** | **% of income used to calculate monthly bill** | **Monthly bill range** ***before*** **subtracting $50 per dependent (with $10 minimum payment after deductions)** |
+| Less than $10,000 | NA | $10 |
+| $10,000–$20,000 | 1% | $10–$16 |
+| $20,000–$30,000 | 2% | $33–$50 |
+| $30,000–$40,000 | 3% | $75–$100 |
+| $40,000–$50,000 | 4% | $133–$166 |
+| $50,000–$60,000 | 5% | $208–$250 |
+| $60,000–$70,000 | 6% | $300–$350 |
+| $70,000–$80,000 | 7% | $408–$466 |
+| $80,000–$90,000 | 8% | $533–$600 |
+| $90,000–$100,000 | 9% | $675–$750 |
+| Greater than $100,000 | 10% | $833+ |
+
+**RAP Forgiveness**
+
+* Remaining balance will be forgiven after 30 years or 360 qualifying payments.
+
+**Considerations**
+
+* If your RAP monthly payment does not cover the monthly interest accrual, then the unpaid interest for that month is forgiven.
+* If your RAP monthly payment does not reduce the principal balance by at least $50, then the Department of Education will make a matching payment to ensure that your principal balance is reduced by $50.
+* After July 1, 2028, all student loan borrowers on PAYE and ICR income driven repayment plans will be moved to the new RAP plan.
+
+**As long as you are on the RAP plan you will not have interest accrue and your principal balance will be reduced every month by at least $50.**
+
+### **Income-Based Repayment Plan (IBR)**
+
+**All borrowers who have loans that were originated before July 1, 2026, with no loans originated after, and are enrolled in IBR will continue to have access to IBR until the loans are forgiven or paid in full.**
+
+**Applies to:**
+
+* Direct Subsidized and Unsubsidized Loans
+* FFEL Stafford Subsidized and Unsubsidized Loans (this is the only IDR plan available to FFEL borrowers)
+* Any PLUS Loans made to students
+* Direct or FFEL Consolidation Loans (excluding Direct or FFEL Parent PLUS loans)
+
+**Payments**
+
+* Maximum monthly payment is 15% of discretionary income for Direct or FFEL loans issued before 7/1/2014
+* Maximum monthly payment is 10% of discretionary income for Direct loans issued on or after 7/1/2014
+* Payments change as the borrower’s income changes
+
+**Term**
+
+* Up to 25 years for any loans issued before 7/1/2014
+* Up to 20 years for Direct loans issued on or after 7/1/2014
+
+**Considerations**
+
+* If the borrower makes 20 or 25 (depending on when the loans were issued) years of qualifying monthly payments, any outstanding loan balance will be forgiven. The borrower may have to pay income tax on any forgiven amount.
+* Your required payment may be lower than the interest that accrues every month. If this is the case, the government will pay the remaining accrued interest for up to three consecutive years from the date that you started the income-based repayment (not including the time that you have an economic hardship deferment).
+
+### **Pay as You Earn (PAYE) expires July 1, 2028**
+
+**Applies to federal student loans, listed below, borrowed before July 1, 2026. If you borrow any federal loan after July 1, 2026, then you will only have access to the new Tiered Standard Repayment or the Repayment Assistance Plan (RAP).**
+
+* Direct Subsidized and Unsubsidized Loans
+* Direct PLUS Loans made to students
+* Direct Consolidation Loans (excluding Direct or FFEL PLUS loans made to parents) (Note: Direct Consolidation Loans may include eligible FFEL loans that were consolidated into a Direct Consolidation Loan.)
+
+**Payments**
+
+* Payments change based on the borrower’s income
+* Maximum monthly payments are 10% of discretionary income and will **NOT** be more than the 10 year Standard Repayment Plan.
+
+**Term**
+
+* Up to 20 years
+
+**Considerations**
+
+* The borrower must recertify annually
+* If the borrower makes 20 years of qualifying monthly payments, any outstanding loan balance will be forgiven, but the borrower may have to pay income tax on any forgiven amount.
+* If you are enrolled in PAYE on July 1, 2028, you will be automatically moved to the new RAP plan.
+
+**Requirements**
+
+* The borrower must have partial financial hardship.
+* The borrower must be a new borrower on or after October 1, 2007.
+* The borrower must have received direct loan disbursement on or after October 1, 2011.
+
+### 
+
+### **Income-Contingent Repayment Plan (ICR)** **expires July 1, 2028**
+
+**Applies to:**
+
+* Direct Subsidized and Unsubsidized Loans
+* Direct PLUS Loans made to students
+* Direct Consolidation Loans
+
+**Payments**
+
+* Lesser of 20% of discretionary income or the loan balance amortized over 12 years and adjusted for income
+* Payments change based on borrower income.
+* Payment amount is recalculated every year.
+* Payments are based on the total amount of the borrower's Direct Loans, adjusted gross income, and family size.
+
+**Term**
+
+* Up to 25 years
+
+**Considerations**
+
+* The borrower must recertify annually
+* If you are enrolled in ICR on July 1, 2028, you will be automatically moved to the new RAP plan.
+
+For more information about which federal loan repayment plan is right for you, visit [StudentAid.gov](https://studentaid.gov/manage-loans/repayment/plans).
+
+To calculate your estimated monthly payments and interest under different federal loan repayment plans, visit the [Federal Loan Repayment Plan Calculator](https://studentaid.gov/loan-simulator/).
+
+### Loan Repayment Issues – Federal Student Loans
+
+If you are having trouble repaying your federal student loans, you can try to avoid default by taking a permitted break from payments or attempting to work out an affordable repayment plan with your loan servicer.
+
+Your options might include changing your repayment plan or [obtaining a deferment or forbearance](#defer_forbear).
+
+### Perkins Loans Repayment Options
+
+Perkins Loans repayment plans are different than those for other federal loans. They have a standard repayment period of 10 years, which can be extended in certain circumstances. You can speak with your school about your Perkins loan repayment options. To learn more about repaying your Perkins Loans, visit [StudentAid.gov](https://studentaid.gov/manage-loans/repayment/plans).
+
+### Private Loan Repayment Plans
+
+Private loan repayment terms vary by lender and by contract. Check your loan agreement for the repayment terms of your private student loans.
+
+**Tip:** While most private loans go into default after 120 days of non-payment, check your private loan agreement or call your loan servicer to discuss your repayment options and how you can avoid default.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Deferment and Forbearance
+
+If you are having trouble repaying your federal student loans, you should try to avoid default by attempting to work out an affordable repayment plan with your loan servicer. Your options might include:
+
+* Changing your [repayment plan](#toc_1606)
+* Obtaining a deferment
+* Obtaining a forbearance
+* Loan consolidation
+
+Both deferment and forbearance allow you to delay making your federal student loan payments. Generally, you will be granted a deferment if you apply for one and meet the required criteria, while some types of forbearance are allowed only at the discretion of your lender.
+
+### Loan Deferment
+
+If you are unemployed, facing economic hardship, or in another approved circumstance, loan deferment allows you to delay repayment. You do not need to make loan payments during a period of deferment. The reason for the deferment will generally dictate how long it lasts.
+
+Important Notes:
+
+* **The Government May Pay Interest that Accrues On*****Subsidized*****Loans During Your Deferment**such as Federal Perkins Loans, Direct Subsidized Loans, and FFEL Subsidized Federal Stafford Loans.
+* **Increased Cost for Some Loans.** You are responsible for repaying the interest that accrues on Unsubsidized Direct and FFEL loans and PLUS loans during deferment. If you do not pay the interest during the deferment period, it will be added to the principal amount that you owe. This is called interest capitalization. After the deferment, your loan interest will be calculated based on the new principal amount.
+* **Keep Paying.** If possible, you should make your required student loan payments while you are waiting to hear whether you have been granted a deferment. If you stop making payments and your request is denied, you could default on your loan(s).
+* **Already in Default?** If your loan is in default you may be eligible for a deferment if you have made payment arrangements satisfactory to the Department of Education.
+
+If you are interested in learning whether a deferment is a good option for you, please visit [StudentAid.gov](https://studentaid.gov/manage-loans/lower-payments/get-temporary-relief) or contact your lender or servicer for further information.
+
+### Forbearance
+
+Forbearance allows you to stop or reduce your monthly student loan payments for up to one year. This time period can be extended upon your request if you continue to meet the forbearance requirements. Some types of forbearance are mandatory, meaning that your lender must grant you the forbearance if you meet certain requirements, while other types of forbearance are discretionary, meaning that the lender can choose whether to grant you the forbearance.
+
+**Considerations:**
+
+* **Increased Cost for ALL Loans:**You are responsible for repaying the interest that accrues on any federal student loan during forbearance, even Subsidized Direct and FFEL loans. If you do not pay the interest during the forbearance period, it will be added to the principal amount that you owe. This is called interest capitalization. After the forbearance, your loan interest will be calculated based on the new principal amount.
+* **Keep Paying:** If possible, you should make your required student loan payments while you are waiting to hear whether your forbearance is granted. If you stop making payments and your request is denied, you could default on your loan(s).
+
+If you are interested in learning whether forbearance is a good option for you, please visit [StudentAid.gov](https://studentaid.gov/manage-loans/lower-payments/get-temporary-relief) or contact your lender or servicer for further information.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Public Service Loan Forgiveness
+
+If you work in public service, you may be able to have part of your federal student loan debt forgiven. Qualifying public-interest jobs include government service, military service, law enforcement, public health, and certain teaching positions.  
+Public service loan forgiveness is not automatic. You must apply for loan forgiveness once you have made 120 qualifying payments. And To qualify you must:
+
+* Have a Direct Subsidized or Unsubsidized, Direct PLUS, or Direct Consolidation Loan that is not in default.
+* Make 120 monthly payments after October 1, 2007.
+* Pay under an Income Driven Repayment Plan.
+* Be employed full-time in a public service job during the period in which you make each of the 120 payments.
+
+Perkins and FFEL loans are **not** eligible for public service loan forgiveness. However, you can consolidate these loans into a Direct Consolidation Loan to take advantage of public service loan forgiveness. Payments made prior to consolidation do not count toward the 120 qualifying payments.
+
+**Tip**: Any amount forgiven under the public service loan forgiveness program is **NOT** taxable as income.
+
+See [StudentAid.gov](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service) for more details on whether you qualify for public service loan forgiveness
+
+### New York State Get on Your Feet Student Loan Forgiveness Program
+
+The New York State Get on Your Feet Student Loan Forgiveness Program is designed to help recent New York State college graduates focus on establishing their careers and starting life out on a sound financial footing. A graduate will be eligible to receive an award equal to 100 percent of his or her monthly federal income-driven repayment plan payments for 24 months of repayment.
+
+To qualify you must:
+
+* Graduate from a New York high school or receive a New York State high school equivalency diploma
+* Graduate from a college or university headquartered in New York on or after the 2014-2015 school year
+* Earn less than $50,000 adjusted gross household income
+* Enroll in the federal Income Based Repayment plan at 10% of discretionary income, the Pay as You Earn plan, or the Revised Pay as You Earn plan, and current on your repayment obligations
+* Continue to live and work (if employed) in New York
+* Apply for the program within 2 years of graduation
+
+If you qualify, the state will make your federal student loan payments for 2 years. Those payments will be made directly to your federal loan servicer(s). Please note that any loan forgiveness award payment made on your behalf may have tax implications. Recipients will receive a 1099 form, issued by the NYS Office of the State Comptroller, reflecting the total loan forgiveness payments made for the tax year. Any questions regarding potential tax implications should be directed to a tax professional, the Internal Revenue Service, or the NYS Department of Taxation and Finance. The program is being administered by the New York State Higher Education Services Corporation. To learn more or apply, visit [hesc.ny.gov/GetOnYourFeet](https://www.hesc.ny.gov/repay-your-loans/repayment-options-assistance/loan-forgiveness-cancellation-and-discharge/nys-get-on-your-feet-loan-forgiveness-program.html).
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## What if You Default?
+
+### Default – Federal Student Loans
+
+Most federal student loans go into default after nine months (270 days) of non-payment. You may face the following consequences if you default on your federal education loans:
+
+* Your unpaid loan balance and accrued interest are immediately due and payable.
+* You will no longer be eligible for [deferment or forbearance](#defer_forbear).
+* You cannot receive new federal student aid while an existing federal student loan is in default.
+* Your loan may be assigned to debt collector for collection.
+* You may be sued to recover the debt.
+* Your wages can be garnished. (The amount deducted from any pay period may not exceed 15% of your disposable income without your consent. You have the right to a hearing if you dispute the existence or amount of the debt due).
+* You can lose your tax refunds (which will be applied toward your loan debt).
+* Your credit may be negatively impacted.
+* For certain loans, the Department of Education may require you to make payments under the Income-Based Repayment (IBR) plan or Income Contingent Repayment (ICR) plan.
+
+You have rights under New York State and federal law when dealing with debt collectors. Contact DFS if you believe that a debt collector has violated the law.
+
+### Federal Loan Payment Plans (Post-Default)
+
+You have the following general options once you default on your federal student loans:
+
+* **PAY IN FULL:** If you can afford to repay your defaulted loan in full, you have the option of doing so. The loan debt will be fully wiped out, but your credit report will still reflect that you paid off a defaulted loan. Paying the loan in full will also restore your eligibility for federal aid.
+* **REHABILITATE:** You can rehabilitate your loan by making a series of timely payments that you can afford. By doing so, your loan will be returned to its pre-default status. **Loans rehabilitated after August 14, 2008 can be rehabilitated only once** - if you default on a loan that you have already rehabilitated, you cannot rehabilitate that loan again. Some considerations when looking at rehabilitation are:
+  + **Affordable Payments:**There is no minimum payment required for rehabilitation. Payments are affordable and based on your total financial circumstances.
+  + **Restored Loan Benefits:**If you rehabilitate your loan, you can again become eligible for loan benefits that you had prior to default, including deferment, forbearance, loan forgiveness, and federal aid eligibility.
+  + **Increased Cost:**After you rehabilitate your loan, collection costs may be added to your loan and your monthly payment may increase.
+  + **Credit:**If you rehabilitate your loan, the default will be removed from your credit report, but late payments reported prior to your default might remain on your credit report.
+* **CONSOLIDATE:** In certain circumstances, you can consolidate your defaulted loan or loans into one new Direct Consolidation loan with a fixed interest rate. Your consolidation loan takes the place of all of your old loans, which are paid off in full. When looking at consolidation, consider the following:
+  + **Repayment:**
+    - Consolidation allows you to make just one monthly payment to one servicer.
+    - Consolidation extends the loan repayment period and therefore increases the cost of the loan over time.
+    - You could lose any benefits that accompanied the original loan(s) if you choose to consolidate. If you consolidate while your loan is in a grace period, you will have to begin repayment immediately. The government will no longer subsidize your interest during periods of forbearance on a consolidated Perkins loan, and you will lose any loan-forgiveness opportunities for your Perkins loan.
+    - If you are in default when you consolidate, collection fees of up to 18.5% can be added to your unpaid balance, and the government can require you to repay your Direct Consolidation loan under the income contingent repayment plan.
+  + **Interest Rate:** Consolidation may lower or increase your interest rate depending on your loans’ current rates. For all new consolidations, the interest rate on the consolidation loan will be the weighted average of the interest rates on the loans that are consolidated, rounded to the nearest higher one-eighth of one percent. The consolidation loan interest rate is capped at 8.25 percent. If you have variable rate loans, you can consider consolidating when interest rates are low to lock in the low interest rates. You can learn more about Direct Consolidation Loans at [Studentaid.gov](https://studentaid.gov/manage-loans/forgiveness-cancellation).
+  + **Credit:**Consolidation does not clear the default notation on your credit report. You may want to consider rehabilitating your loan before you consolidate, which will clear the default rating from your credit.
+  + **One Time Remedy:**In most cases, loans can be consolidated only once. However, you can consolidate an existing Consolidation Loan into a new Consolidation Loan if you include at least one additional, eligible loan in the consolidation.
+
+### Default – Private Student Loans
+
+Many private student loans go into default after four months of non-payment (120 days), but the specific terms of default vary by loan contract.
+
+There are no uniform refinancing options for distressed borrowers of private student loans. If you have trouble making payments on your private loan, you need to contact your loan servicer or check with your private loan contract to determine your options.
+
+### Statute of Limitations - Federal Student Loans
+
+Federal student loan debt is not subject to a statute of limitations. This means that there is no time limit for attempting to collect a federal student loan by:
+
+* Filing suit
+* Enforcing a judgment
+* Obtaining an offset or garnishment
+
+But you may be able to cancel your federal student loans in limited circumstances.
+
+### Student Loans and Bankruptcy
+
+You may have heard that you cannot discharge your student loans, even in bankruptcy. This is **NOT** correct. You can discharge your federal and private student loans in bankruptcy if you are able to demonstrate in court that paying your loans would cause you and your dependents “undue hardship.” The court will consider your financial circumstances in determining whether paying your student loans would cause an undue hardship. Filing for bankruptcy is a very personal decision and can have a significant, long-term impact on your finances. If you are thinking seriously about filing, you should consult a lawyer.
+
+To learn more about discharging student loans in bankruptcy, visit [StudentAid.gov](https://studentaid.gov/manage-loans/forgiveness-cancellation).
+
+### Federal Loan Cancellation
+
+You can cancel your federal student loans in limited circumstances. Cancellation options vary depending on the type of loans you have. Some common cancellation programs are based on:
+
+* Borrower’s Death
+* Permanent and Total Disability
+* Closure of school while student was enrolled
+
+For more information on the terms and conditions of available federal student loan cancellation programs, visit [Studentaid.gov](https://studentaid.gov/manage-loans/forgiveness-cancellation).
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Managing Your Money
+
+### Student-Related Tax Credits and Deductions
+
+* [**American Opportunity Credit**](http://www.irs.gov/publications/p970/ch02.html)**:** You may be eligible for an income tax credit of up to $2,500 per eligible student for qualified education expenses.
+* [**Lifetime Learning Credit**](https://www.irs.gov/publications/p970)**:** You may be eligible for a lifetime learning credit of up to $2,000 per eligible student for qualified education expenses.
+* **Student Loan Interest Deduction:** You may be eligible to deduct up to $2,500 in student loan interest from your taxable income.
+
+Tip: You cannot claim American Opportunity Credit and the Lifetime Learning Credit for the same student in the same tax year.
+
+### Financial Aid Disbursement
+
+If your financial aid award is larger than your school’s costs to cover your tuition and any other on-campus expenses, you are entitled to receive those excess funds directly. You can use this extra money to cover rent, school supplies, and other expenses.
+
+Some colleges work with financial companies to disburse these additional funds to students on debit or prepaid cards that may also function as the students’ ID cards.
+
+Tip: You don't have to receive your excess federal student loan funds on a card. You can choose to receive any additional aid funds via check or other similar means. You can even return excess funds to your lender if you don’t need them to cover your school-related expenses. That means you’ll have less to repay down the road.
+
+### Student Bank Accounts
+
+You will probably open a checking or savings account in the city or town where you will be attending school. Make sure that you shop around to find the financial institution that is best suited to your needs.
+
+Tip: Your school cannot require you to bank with any specific financial institution.
+
+**The following questions can help you choose a bank account that is right for you:**
+
+* How much money do I need to have to open an account?
+* How much interest will I earn?
+* Does this account include a debit or check card?
+* What are the charges for using my debit card at my bank? At another bank?
+* Can I bank online or by phone?
+* Are there any fees that I should be aware of?
+
+Learn more about [Opening a Bank Account](/consumers/banking_money).
+
+### Avoiding Fees
+
+Fees can add up, and increase the cost of banking. Take into account any and all applicable fees when choosing an account. Fees can include:
+
+* **Monthly fees** - You may need to maintain a minimum account balance and/or set up a direct deposit to the account to avoid fees.
+* **Check fees -** Fees for bounced checks or fees for writing more than a specified number of checks per month.
+* **ATM fees -** Can apply to in-network or out-of-network ATMs.
+* **Fees for non-preferred purchases -** Some banks may charge a fee if you use your PIN during a debit card transaction instead of choosing to sign for your purchase.
+* **Overdraft fees -** Charges for transactions that are covered by the bank even though your account does not have enough money to pay for the purchase.
+
+#### Avoiding Overdraft Fees
+
+If you make an ATM withdrawal or a one-time debit card purchase that costs more than your available account balance, this is known as an overdraft. If you authorize your bank to allow overdraft transactions, then your account will be charged the amount needed to cover the purchase. In addition, the bank will charge you an extra fee, called an overdraft fee, every time that you overdraft the account.
+
+**The average overdraft fee is about $30.** Once your account is negative, your bank might charge you for every purchase that causes an additional overdraft, or charge you every day until you repay the overdraft.
+
+If you do not opt into overdraft service, then your bank will decline all ATM withdrawals and debit card purchases made on your account that would cause an overdraft. This means that you will not be able to make a withdrawal or purchase that your account balance cannot cover.
+
+**Tip - Avoid Overdraft Fees:** If you have opted in to overdraft coverage, you can avoid overdraft fees through proper account management. Keep track of your account balance. Remember that ATM withdrawals, ATM fees, debit card purchases, online purchases, and recurring debits (like cable bills and rent) can affect your available balance.
+
+**Tip:** If you have previously opted in to overdraft coverage, you can opt out at any time.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Student Debt Relief Offers
+
+### Student Debt Relief Companies
+
+Before paying any company to help reduce your student loan debt, make sure you know about [free student loan assistance](#toc_1606). Very often, you can receive the same relief at no cost by working with your student loan servicer. If you decide to pay a company, first read the information below about your rights when interacting with these companies.
+
+What is a student debt relief company?
+
++
+
+Student debt relief companies, sometimes called student debt consultants, are companies that claim they can save you a large percentage of your monthly student loan payments. These companies generally obtain lower monthly payments not through their own programs, but by assisting borrowers in completing the paperwork required to consolidate their outstanding student loan debt into a single, new loan issued by the U.S. Department of Education and by repaying that loan under an income-based plan.
+
+**You do NOT need to pay to enroll in the many borrower assistance programs that the federal government provides for free.**
+
+These programs include loan consolidation, income-based repayment plans, and loan forgiveness. The government even provides options to borrowers who have already defaulted, such as loan rehabilitation.
+
+How do I know if I am contacted by or working with a student debt relief company?
+
++
+
+New York law regulates companies that advertise or offer student debt relief.  You can read about the specific types of companies and services that are covered on the [NY Senate's website](https://www.nysenate.gov/legislation/laws/FIS/701), however the following are generally *not* considered student debt relief companies and generally offer free assistance:
+
+* Your student loan servicer
+* A bank or credit union
+* A non-profit organization that offers counseling or advice to loan borrowers
+* An attorney admitted to practice law in New York when that attorney is providing student loan counseling free of charge
+* A public or non-profit post-secondary educational institution
+
+If any person or company offers to assist you with your student loan for a fee, they are likely a student debt relief company regulated by New York law.
+
+What should I look for in advertisements by student debt relief companies?
+
++
+
+In any advertisements in New York, student debt relief companies must clearly and conspicuously disclose the following:
+
+* The actual services that they provide borrowers;
+* That borrowers may apply for consolidation loans from the U.S. Department of Education at no cost;
+* That the debt relief company’s services may not be the best or only option for borrowers;
+* That additional federal government repayment plans may exist that do not require loan consolidation; and
+* That borrowers should consider consulting their student loan servicer before signing any legal documents concerning a student loan.
+
+If you see a student debt relief company advertisement that does not contain this information, that company may not be complying with New York law.  You can [file a complaint](/complaint) about a non-compliant student debt relief company, or about an advertisement that you think is deceptive, with the New York State Department of Financial Services.
+
+How are student debt relief companies regulated?
+
++
+
+New York law mandates that student debt relief companies comply with several specific requirements when working with New York student loan borrowers.
+
+Student debt relief companies in New York may **NOT** do the following:
+
+* Work with a New York-based student loan borrower without first having a legal written and fully-signed contract, and cannot induce a borrower to sign a contract that does not comply with New York law;
+* Request or accept any payments for their services, including into an escrow or holding account, before the full completion of all services;
+* Take Power of Attorney from a borrower;
+* Take and keep any original documents related to the borrower’s student loan;
+* Request or accept a borrower’s “FSA ID,” which is required to log into a borrower’s federal student loan account;
+* State or imply that a borrower will not be able to obtain student loan relief on their own;
+* Misrepresent or imply that the company is part of, affiliated with, or working for the government, government loan programs, or the borrower’s student loan servicer;
+* Misrepresent or imply that the fees paid to the company will be applied to the borrower’s student loan; or
+* Engage in any unfair, deceptive, or abusive act or practice.
+
+Student debt relief companies must also make specific disclosures in and follow specific rules for their contracts.
+
+If I work with a student debt relief company, what should I expect the contract to include?
+
++
+
+Student debt relief companies are required to have a legal, written, and fully-signed contract before providing any student loan services to borrowers in New York.
+
+The contract will represent the entire agreement between the borrower and the company, and the company must give the borrower the opportunity to read a written version of the contract for review before signing.  The written copy must be in at least 12-point font and must be in the same language that the company and borrower used when discussing the services the company would provide.
+
+The contract must contain the following:
+
+* The exact nature of the services to be provided by the company or anyone working with the company;
+* The total amount of payment or compensation for such services;
+* The company’s contact information, including name, business address, telephone number, and facsimile number or email address;
+* The following statement, in 14-point bold font, with the blank spaces filled in:
+
+  "NOTICE REQUIRED BY NEW YORK LAW You may cancel this contract, without any penalty or obligation, at any time before midnight of .......... (fifth business day after execution). .......... (Name of consultant) (the "Consultant") or anyone working for the Consultant may not take any money from you or ask you for money until the consultant has completely finished doing everything this Contract says the Consultant will do. You should consider contacting your student loan servicer before signing any legal document concerning your student loan. In addition, you may want to visit the New York State Department of Financial Services' student lending resource center at www.dfs.ny.gov/studentprotection. The law requires that this contract contain the entire agreement between you and the Provider. You should not rely upon any other written or oral agreement or promise."
+
+The contract must be dated and signed by both the company and the borrower, and witnessed and acknowledged by a notary public.
+
+Student loan borrowers in New York have the right to cancel a contract with a student debt relief company within five business days of signing the contract.  Borrowers can cancel the contract by sending a notice of cancellation to the company.  Two such notices of cancellation must be included with the contract and provided to the borrower with delivery and timing instructions.  Once a contract is cancelled, the borrower will have no obligations toward the company, and the company must return any signed documents to the borrower.
+
+What if I have worked with a student debt relief company and I have concerns or complaints about the services I received?
+
++
+
+If you worked with a student debt relief company and you think they violated any of the terms discussed here or in [the New York law](https://www.nysenate.gov/legislation/laws/FIS/A7) that regulates their conduct, you should [file a complaint](https://www.dfs.ny.gov/complaint) with the New York State Department of Financial Services.
+
+Additionally, New York law allows for borrowers to bring an independent lawsuit against student debt relief companies that have violated the protections discussed here.  If you believe that a student debt relief company has harmed you, in addition to [filing a complaint](/complaint) with the State, you should contact a lawyer. If you cannot afford a lawyer, you can contact the [New York State Bar Association](https://nysba.org/pro-bono-services/) for more information on voluntary pro bono services by private practitioners.
+
+What are my free options for help with my student loans?
+
++
+
+The New York State Department of Financial Services has a [variety of resources](#toc_1606) on its website dedicated to student loan counseling and debt relief.  Please review these resources to learn more about loan repayment options.  After reviewing your options, you should contact your student loan servicer to discuss what is best for you.
+
+If you have federal loans and cannot afford your monthly payments, you should consider income-based or income-driven repayment plans, which will base your monthly payments on a percentage of your monthly income and could result in $0 payments.  The federal government offers these plans for federal loans at no cost.
+
+If you have defaulted on your federal loans, you should consider loan rehabilitation.
+
+Repayment options for private student loans vary by private student lender, so you should contact your loan servicer to inquire about what options are available to you.
+
+In New York, student loan borrowers have specific rights when dealing with their student loan servicer, in addition to those discussed here for student debt relief companies.  Review the [New York Student Loan Borrower Bill of Rights](#toc_1596) to learn about your rights.
+
+If you experience any issues with your student loan servicer, or think that your rights under the [New York Student Loan Borrower Bill of Rights](#toc_1596) have been violated, [file a complaint](/complaint) with the New York State Department of Financial Services.
+
+To learn more about student loan repayment options, you can contact your federal student loan servicer or visit the Federal [Department of Education](https://studentaid.gov/h/manage-loans) or the Consumer Financial Protection Bureau's interactive [student loan repayment guide](http://www.consumerfinance.gov/paying-for-college/repay-student-debt/).
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Student Loan Servicer Licensing
+
+New York’s FY 2020 Enacted Budget included legislation that requires entities servicing student loans held by New York borrowers to obtain a license from the Department of Financial Services. The law, Banking Law Article 14-A, is now in effect.
+
+* [Student Loan Servicer Resources](/apps_and_licensing/student_loan_servicer)
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Info for Colleges and Universities
+
+### New York State Financial Aid Award Information Sheet
+
+Banking Law § 9-w, requires that all New York institutions of higher education provide financial aid applicants a uniform financial aid award information sheet when responding to applications. This will allow students and families to easily understand the costs of an education and make informed financial decisions.
+
+Pursuant to New York Banking Law § 9-w and New York Banking Regulation Part 421, every
+
+* institution of higher education, recognized and approved by the regents of the university of the state of New York, which provides a course of study leading to the granting of a post-secondary degree or diploma;
+* vocational institution; and
+* any other institution that offers an approved program as defined in section six hundred one of the education law,
+
+must use this information sheet whenever such institution responds to an incoming or prospective undergraduate student’s financial award application.
+
+#### Financial Aid Award Information Sheet
+
+Since May 15, 2016, when a school responds to an incoming or prospective undergraduate student’s financial aid application, the school must provide the Financial Aid Award Information Sheet included below.
+
+View a sample [Financial Aid Award Information Sheet](/consumers/shopping_sheet/ny_finaid_award_info_sheet_template).
+
+#### Financial Aid Award Information Sheet Resources
+
+Some institutions have already committed to using the U.S. Department of Education’s [Financial Aid Shopping Sheet](https://www2.ed.gov/policy/highered/guid/aid-offer/index.html).
+
+The New York Financial Aid Award Information Sheet incorporates the federal model as well as additional information required by New York law. New York schools that use the federal Financial Aid Shopping Sheet should incorporate the supplementary page below in responding to applicants in order to comply with New York Banking Law § 9-w.
+
+In 2019, the U.S. Department of Education revised its Financial Aid Shopping Sheet and released a new version of its form beginning for the 2020-2021 year. Accordingly, the New York Financial Aid Award Information Sheet and supplementary page have been revised and are each available below. In 2020, the U.S. Department of Education again revised its form. The Financial Aid Shopping Sheet is now the Undergraduate form, and a second form was created for graduate and professional school applicants. Changes to the New York Financial Aid Award Information Sheet and supplementary page were not necessary in response to the 2020 Federal changes. Schools that choose to use these revised Federal forms should therefore use the revised New York supplementary page when sending financial aid award letters. New York schools that do not use the Federal forms should use the revised New York Financial Aid Award Information Sheet. Both revised New York forms are available below.
+
+The form includes a “download” button on the Financial Aid Award Information Sheet to allow prospective students to download their aid offer information into a machine readable format (XML). Institutions that are delivering the Financial Aid Award Information Sheet in print form should remove the “download” button.
+
+Schools should adjust the information sheet to reflect the year and degree or certificate the student is seeking.
+
+The information sheet requires schools to estimate the cost for each academic year that the student would need to complete to earn a degree at the institution. Schools should adjust the fields on page 2 to provide estimated cost data for the number of years needed to obtain the degree or certificate.
+
+#### Institutional Metric Data
+
+The student information on the information sheet is populated using the applicable fields from institutions’ existing data systems.
+
+The data and information necessary to populate the institutional metrics section of the Financial Aid Award Information Sheet — the graduation rate, the loan default rate, and the median borrowing figures — can be obtained from the U.S. Department of Education’s publicly-available data, such as the [College Navigator](https://nces.ed.gov/collegenavigator/) and [College Scorecard](https://collegescorecard.ed.gov/) tools, or schools may generate this information from other data sources.
+
+For “Graduation Rate,” schools must indicate data for students who began their studies as first-time, full-time degree-or certificate-seeking students and completed their degree or certificate within 150 percent of "normal time." For example, for a four-year school, the graduation rate would be the percentage of students who completed that program within six years or less. In addition, schools may provide this information for part-time students and may also choose to provide data comparing its graduation rate with the graduation rate among institutions that primarily grant the same degree or certificate and graphics illustrating this section.
+
+For “Loan Default Rate,” schools must indicate the percentage of student borrowers who have failed to repay their federal loans within three years of leaving the school. In addition, schools may provide the national loan default rate and graphics illustrating this section.
+
+For “Median Borrowing,” schools must indicate the median amount of Federal student loans borrowed for a students’ study at the institution. In addition, schools may include the estimated monthly repayment amount for such loans.
+
+Below you will find all the resources needed to implement the Financial Aid Award Information Sheet. 
+
+#### Financial Aid Award Information Templates
+
+Beginning in the fall of 2019, New York schools using the revised Federal forms discussed in ”Financial Aid Award Information Sheet Resources” above should use the revised New York supplementary page. New York schools that do not use the Federal forms should use the revised New York Financial Aid Award Information Sheet. Guidance PDFs for the revised New York forms are available here. To request a ZIP file of code packages for the revised New York forms, contact [[email protected]](/cdn-cgi/l/email-protection#200651554f541b53545544454e5453604446530e4e590e474f560651554f541b).
+
+* [New York Financial Aid Award Information Sheet Template](/consumers/shopping_sheet/ny_finaid_award_info_sheet_template)
+* [New York Supplementary Page](/consumers/shopping_sheet/ny_finaid_award_info_sheet_template_supp)
+
+#### FAQs
+
+Which students must receive the Financial Aid Award Information Sheet?
+
++
+
+When responding to a financial aid award application, New York schools must provide the Financial Aid Award Information Sheet to all incoming or prospective undergraduate students (i.e., all first time enrollees at the school, including students transferring to the school and prospective students applying to the school). Pursuant to a 2016 amendment of New York Banking Law § 9-w, schools are only required to provide the Financial Aid Award Information Sheet to undergraduate students applying for financial aid, however schools may to use the form in responding to a financial aid application of any student.
+
+Is there a required method of delivery for providing the Financial Aid Award Information Sheet?
+
++
+
+No. Schools should send the Financial Aid Award Sheet in the same manner as they send a financial aid award or package in response to a financial aid application.
+
+Do schools need to provide an estimated cost of attendance specific to a student’s major?
+
++
+
+No. Schools must provide an estimate of the cost needed to earn a degree or certificate at the institution. Schools should provide a reasonable estimate to obtain the degree or certificate based on what the school knows at the time the student applies for financial aid. Estimated cost of attendance (“COA”) includes at a minimum tuition and fees; housing and meals; allowances for books, supplies, transportation, loan fees, and dependent care; and miscellaneous and personal expenses, such as an allowance for the rental or purchase of a personal computer, costs related to a disability, and reasonable costs for eligible study-abroad programs. For students attending less than half-time, the COA includes at a minimum tuition and fees; an allowance for books, supplies, and transportation; and dependent care expenses.
+
+Do “loans from your state” mean only New York State student loans?
+
++
+
+No, if the school has information about any state-sponsored loan program, it should be included in the shopping sheet.
+
+Can schools make changes to the language on the Financial Aid Award Information Sheet?
+
++
+
+Schools can make reasonable changes to the language on the form if necessary to more accurately reflect the student’s financial aid award package or to match changes in the federal Student Shopping Sheet. However, schools may not remove fields required on the form. The form includes areas for schools to add customized information.
+
+Can schools make changes to the font and color scheme on the Financial Aid Award Information Sheet?
+
++
+
+Yes, schools can make changes to the font and color scheme as long as the information required by Banking Law § 9-w is of such size, color, and contrast and is so presented as to be readily noticed, read and understood by the recipient.
+
+Can schools meet their requirements under Banking Law § 9-w by providing students with a link to request a Financial Aid Award Information Sheet?
+
++
+
+No, schools must provide the required letter in response to a financial aid application.
+
+If a school makes a change to a student’s financial aid award, must they provide a new Financial Aid Award Information Sheet?
+
++
+
+If a school provided the student a completed Financial Aid Award Information Sheet in response to a financial aid award application, a school should provide an additional Financial Aid Award Information Sheet if the school is fixing an inaccuracy in institutional specific information, such as changing the cost of attendance or the institutional metric data.  Schools may provide an updated Financial Aid Award Information Sheet based on changes in the student’s financial aid award, but are not required to do so.
+
+If a student transfers to a new school, does the school only need to provide the estimated cost of attendance for the years needed to earn a degree or certificate at that institution?
+
++
+
+Yes. For example, if a student in a four year program transfers to a school which will require an additional two years to earn a degree, the school only needs to provide the estimated cost of attendance for the additional two years.
+
+If there is a one year program, does a school need to show spaces for the estimated cost of attendance for additional years?
+
++
+
+No. The online forms are examples, and the HTML and XML files allow schools to customize the form for the degree or certificate the student is seeking, including the appropriate number of years for the estimated cost of attendance.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue

@@ -1,0 +1,25 @@
+{
+  "doc_id": "6a689c29dc85ef80",
+  "regulator_id": "boe_pra",
+  "doc_type": "announcement",
+  "title": "Minutes of the Meeting of the Court of Directors held on 4 June 2026",
+  "language": "en",
+  "source_url": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-4-june-2026",
+  "reference_number": null,
+  "published_date": "2026-07-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d8028b6804008b5096351ce569aa719664278283dd8ee2d4fd63bbf1aa069fd8",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boe_pra_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boe_pra/current/announcement/2026/6a689c29dc85ef80",
+  "tags": [
+    "uk",
+    "prudential",
+    "banking"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "56eab984e4f70d76",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Directive de CANAFE faisant suite \u00e0 la directive minist\u00e9rielle sur les op\u00e9rations financi\u00e8res associ\u00e9es \u00e0 la R\u00e9publique islamique d'Iran publi\u00e9e le 25 juillet 2020",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/obligations/dir-iri-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3c525f4c964aa70f57ff50971e3afc77b13f63ffe99fe6bbf04705c746169213",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/56eab984e4f70d76",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

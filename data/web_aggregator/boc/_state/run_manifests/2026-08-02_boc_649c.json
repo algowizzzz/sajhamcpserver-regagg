@@ -1,0 +1,17 @@
+{
+  "run_id": "2026-08-02_boc_649c",
+  "regulator_id": "boc",
+  "logical_date": "2026-08-02",
+  "trigger": "schedule",
+  "detected": 1,
+  "fetched": 1,
+  "ingested": 0,
+  "archived": 0,
+  "errors": 0,
+  "status": "success_empty",
+  "error_list": [],
+  "detected_urls": [
+    "https://www.bankofcanada.ca/press-releases/rate-decision"
+  ],
+  "duration_s": 0.003
+}

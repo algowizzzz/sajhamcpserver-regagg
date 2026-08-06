@@ -1,0 +1,1 @@
+Summary: The Board of Supervisors of the European Insurance and Occupational Pensions Authority (EIOPA) has extended by two-and-a-half years the terms of office of the following Management Board members:

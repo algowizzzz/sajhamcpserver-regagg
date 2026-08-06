@@ -1,0 +1,1 @@
+Summary: # **Who is not eligible to register as a money services business or act as an agent or mandatary**

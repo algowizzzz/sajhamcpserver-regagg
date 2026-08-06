@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; NYSE American LLC and NYSE Arca, Inc.; Notice of Filing and Order Granting Accelerated Approval of Proposed Rule Changes Concerning the Single Component Concentration Limit of the MSCI Emerging Markets Index

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13013",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Joint Industry Plan; Notice of Filing and Immediate Effectiveness of Amendment to the Plan To Address Extraordinary Market Volatility To Add Texas Stock Exchange LLC as a Participant",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13013/joint-industry-plan-notice-of-filing-and-immediate-effectiveness-of-amendment-to-the-plan-to-address",
+  "reference_number": "2026-13013",
+  "published_date": "2026-06-29",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5eb571c2f9c269415d108e373db2fbc455974d522462ce1687580f52465bfaec",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13013",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

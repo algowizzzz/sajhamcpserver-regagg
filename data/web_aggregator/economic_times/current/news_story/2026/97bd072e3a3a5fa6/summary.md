@@ -1,0 +1,1 @@
+Summary: # How LIC minted Rs 21,000 crore in mark-to-market gains by betting against AI panic in 3 top IT stocks

@@ -1,0 +1,1 @@
+Summary: ![hands on a keyboard with a lock superimposed](/sites/default/files/styles/wide_lead/public/media/2023/11/Cyber-Lock-Keyboard.jpg?h=b5f6a62e&itok=Md4MbKim "Cybersecurity")

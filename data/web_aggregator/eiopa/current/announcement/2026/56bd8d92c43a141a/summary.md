@@ -1,0 +1,1 @@
+Summary: The Financial Supervisory Authority of Romania (ASF) and the European Insurance and Occupational Pensions Authority (EIOPA) announce their intention to launch an independent assessment of the Romanian insurance sector through a balance sheet review.

@@ -1,0 +1,1 @@
+Summary: # Exemption des restrictions relatives aux sociétés de personnes

@@ -1,0 +1,43 @@
+# Relevé des modifications (Z4)
+
+Information
+
+Type de document
+
+Relevé des changements
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé sur le bilan, par lieu de comptabilisation (Z4)
+
+Dernière révision
+
+Mai 2023
+
+Numéro de relevé
+
+Z4
+
+Documentation
+
+* [Bilan par lieu de comptabilisation (Z4)](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/bilan-lieu-comptabilisation-z4)
+
+Modifications du relevé Z4
+
+| Numéro de la modification | Date de déclaration | Description |
+| --- | --- | --- |
+| 1 | T1 2020 | NOUVEAU |
+| 2 | Octobre 2020 | **Instructions :**  **Ajout :**   * Instructions sous Instructions générales * Instructions sous (i) Dont les TH LNH regroupés et non vendus * Instructions sous (23) Soldes des découverts non réglés * Instructions sous (24) Prêts hypothécaires résidentiels assurés   **Modification :**   * Instructions et exemples sous Annexe 1 – Définition de « réoctroyable »   **Gabarit :**  Aucune modification apportée |
+| 3 | Février 2021 | **Instructions :**  **Modification :**   * Postes pour mémoire 9(a)(iv)(A) « Dont les banques résidentes et les succursales de banques étrangères » a été modifié à « Dont les banques résidentes canadiennes et les succursales de banques étrangères résidentes au Canada » * Instructions sous les postes pour mémoire 9(a)(iv)(A) * Postes pour mémoire 9(b)(iv)(A) « Dont les banques résidentes et les succursales de banques étrangères » a été modifié à « Dont les banques résidentes canadiennes et les succursales de banques étrangères résidentes au Canada » * Instructions sous les postes pour mémoire 9(b)(iv)(A)   **Gabarit :**  **Modification :**   * Libellé sous les postes pour mémoire 9(a)(iv)(A) et 9(b)(iv)(A) |
+| 4 | Juin 2021 | **Instructions :**  **Ajout :**   * Instructions sous Postes pour mémoire 1(a)(i)(A), Instructions générales * Instructions sous Postes pour mémoire 1(a)(ii)(A), Instructions générales * Instructions sous Postes pour mémoire 1(b)(i)(A), Instructions générales * Instructions sous Postes pour mémoire 1(b)(ii)(A), Instructions générales   **Suppression :**   * Instructions sous Postes pour mémoire 6, Déclarer   **Gabarit :**  **Modification :**   * Postes pour mémoire 6 « Gain (perte) non réalisé(e) dans des portefeuilles de placements dans les valeur mobilières » a été modifié à « Gain (perte) non réalisé(e) au titre des valeurs mobilières détenues au coût amorti » |
+| 5 | Janvier 2022 | **Instructions :**  **Ajout :**   * A3 (a)(viii)(B)(ii)(a) dont : à des entreprises publiques gouvernementales situées au Canada * A3 (a)(viii)(B)(ii)(b) dont : à des organisations à but non lucratif * A3 (a)(viii)(B)(ii)(c) dont : à des hôpitaux publics, à d'autres établissements de soins de santé et de services sociaux, et à des collèges ou universités publics situés au Canada * Instructions sous A3 (a)(viii)(D)   **Gabarit :**  **Ajout :**   * PdDs 9000 à 9019 sous 3(a)(vi) * Linge 3(a)(viii)(B)(a) dont : à des entreprises publiques gouvernementales situées au Canada * Ligne A3 (a)(viii)(B)(ii)(b) dont : à des organisations à but non lucratif * Ligne A3 (a)(viii)(B)(ii)(c) dont : à des hôpitaux publics, à d'autres établissements de soins de santé et de services sociaux, et à des collèges ou universités publics situés au Canada * PdDs 9030 à 9033 sous A4   **Suppression :**   * PdDs 1337, 1350, 1363 et 1376 sous L2(a)(i) * PdDs 1338, 1351, 1364 et 1377 sous L2(a)(ii) * Section I – Poste pour mémoire 24 (à être éliminée au milieu de 2022; 4 nouveaux PdDs ajoutés au relevé E2) |
+| 6 | Janvier 2023 | **Instructions :**  **Ajout :**   * Section I - Poste pour mémoire 24 Déclaration mensuelle des données de certaines cellules du relevé J2 * Instructions sous la Section II, 2(e)(iii)   **Suppression :**   * Section I – Poste pour mémoire 24 24 Prêts hypothécaires résidentiels assurés   **Modification :**   * Instructions sous Instructions générales * Instructions sous A6(a) Éléments d’actif liés aux opérations d’assurances * Instructions sous L6(a) Engagements liés aux opérations d’assurance   **Gabarit :**  **Ajout :**   * Section I - Poste pour mémoire 24 Déclaration mensuelle des données de certaines cellules du relevé J2 * Ligne 2(e)(iii)(A) Dont les billets négociables * Ligne 2(e)(iii)(B) Dont les billets non négociables   **Suppression :**   * Section I - Poste pour mémoire 24 24 Prêts hypothécaires résidentiels assurés |
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-05-15

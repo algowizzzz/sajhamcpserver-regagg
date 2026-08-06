@@ -1,0 +1,73 @@
+# Whether a Publicly Traded Company that Cashes its own Checks Issued to Loan Customers is a Money Services Business
+
+[FIN-2007-R001.pdf](/system/files/guidance/FIN-2007-R001.pdf "FIN-2007-R001.pdf")
+(40.97 KB)
+
+FIN-2007-R001
+
+Whether a Publicly Traded Company that Cashes its own Checks Issued to Loan Customers is a Money Services Business
+
+Issued Date
+
+January 08, 2008
+
+Dear [ ]:
+
+I am responding to your letter, dated July 5, 2007, to the Financial Crimes Enforcement Network. You have asked us to determine whether [ ] (the "Company") is a money services business, specifically a check casher as that term is defined in our regulations.
+
+As you described, [ ] is a publicly traded company that is listed on the NASDAQ stock exchange. The Company’s business activities are consumer lending and tax return preparation. The Company cashes its own checks that have been issued to loan customers as loan proceeds. The Company’s common stock is registered with the Securities and Exchange Commission.
+
+Money services businesses are defined in our regulations to include check cashers; currency dealers and exchangers; issuers, sellers, and redeemers of traveler’s checks, money orders, or stored value; and money transmitters. Banks and financial institutions that are registered with and regulated or examined by the Securities and Exchange Commission or the Commodity Futures Trading Commission are excluded from our money services business regulations.1 A check casher is defined as a person engaged in the business of check cashing, other than a person who does not cash checks in an amount greater than $1,000 in currency or monetary or other instrument for any person on any day in one or more transactions.2 Money services businesses, other than issuers of stored value and agents of a money services business, are required to register with us.3
+
+You state that the only check cashing activities in which the Company engages are the cashing of its own checks that have been issued to its loan customers as loan proceeds. Although you have not provided sufficient information to make a complete determination regarding your status, if you are only cashing a given loan check for the customer who is obtaining the loan, and not for a third party, then you are in effect disbursing loan proceeds in cash. In that case, you would not be a check casher as defined in our regulations.4
+
+Finally, the fact that the Company’s common stock is publicly traded and registered with the Securities and Exchange Commission is not determinative for the purposes of our money services business regulations. The money services business definition excludes businesses "registered with, and regulated or examined by, the Securities and Exchange Commission or the Commodity Futures Trading Commission." In promulgating this definition, FinCEN made clear that this exclusion "does not apply to … companies whose securities are registered with the [Securities and Exchange] Commission" because in such a situation "[t]he companies themselves are not registered with the SEC, [and] the Commission neither regulates nor examines the business activities of those companies." In consequence, to the extent that the Company is not a money services business, it is because it does not engage in activities listed as money services business activities, not because of the application of this exemption.
+
+This ruling is provided in accordance with the procedures set forth at 31 C.F.R. § 103.81. In arriving at our conclusions in this letter, we have relied upon the accuracy and completeness of the representations made in your letter. Nothing precludes us from reaching a different conclusion or taking further action if circumstances change or any of that information provided is inaccurate or incomplete. We reserve the right, after redacting your name and address and the Company’s name and the names of its parent and affiliates, to publish this letter as guidance to financial institutions in accordance with our regulations for requesting an administrative ruling. 31 C.F.R. §§ 103.81-87. You have fourteen days from the date of this letter to identify any other information you believe should be redacted and the legal basis for redaction.
+
+If you have questions regarding this letter, please contact FinCEN’s regulatory helpline at (800) 949-2732.
+
+Sincerely,  
+/signed/  
+Jamal El-Hindi  
+Associate Director  
+Regulatory Policy & Programs Division
+
+---
+
+131 C.F.R. § 103.11(uu).
+
+231 C.F.R. § 103.11(uu)(2).
+
+331 C.F.R. § 103.41.
+
+4See, e.g., Frequently Asked Questions - Businesses Cashing Their Own Checks, FIN-2006-G005 (March 31, 2006), question 3 (tax preparer and maker of refund anticipation loans that cashes loan proceeds checks for taxpayers for whom it has prepared tax returns is engaged in activity "equivalent to disbursing loan proceeds with cash" and is not a check casher).
+
+531 C.F.R. § 103.11(uu) (emphasis added).
+
+6Definitions Relating to, and Registration of, Money Services Businesses, 64 Fed. Reg. 45438, 45446 (Aug. 20, 1999).
+
+[Accessibility](/accessibility)
+
+Financial Institution
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

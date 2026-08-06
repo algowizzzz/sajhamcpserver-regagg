@@ -1,0 +1,1480 @@
+# Relevés d’assurance vie – Section IV – Instructions détaillées
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Sociétés d’assurance
+
+Relevé
+
+Relevés et instructions des sociétés d’assurance vie
+
+Dernière révision
+
+Juillet 2025
+
+Table des matières
+
+Documentation
+
+* [Révision annuelle des formulaires servant à produire les états financiers des sociétés d’assurance vie et de secours mutuels et de leur guide de production pour 2025](/fr/consignes/repertoire-consignes/2025-revision-annuelle-formulaires-servant-produire-etats-financiers-societes-dassurance-vie-secours)
+* [Relevés des sociétés d’assurance vie](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-societes-dassurance-vie)
+
+Les instructions détaillées aideront les sociétés d'assurance vie et de secours mutuels (SAV et SSM) à comprendre les exigences en matière de déclaration; elles **ne traitent pas** de chaque page ou de chacun des champs des relevés trimestriel et annuel LF (Relevé des états financiers de base [LF1], du Relevé de surveillance trimestriel [LF2], du Relevé de surveillance annuel [LF3] et du Relevé provincial [LFPROV]).
+
+Sauf indication contraire à la [section V, Exigences administratives](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-vie-section-v-normes-administratives "Relevés d’assurance vie – Section V – Normes administratives"), les instructions s'adressent à l'ensemble des SAV et SSM, sans égard à leur instance de constitution.
+
+Les numéros de page figurant dans la colonne de gauche de certaines pages des relevés trimestriel et annuel LF renvoient au tableau à l'appui de l'élément en question. L'assureur/la société doit alors consulter les instructions de la présente section relativement à ce tableau.
+
+Toute mention de « page » renvoie aux pages des relevés trimestriel et annuel LF.
+
+Les SAV et SSM doivent inclure les numéros de renvoi aux notes afférentes aux états financiers dans la deuxième colonne de gauche de certaines pages du relevé des états financiers de base LF.
+
+Toute mention de « section » renvoie à un passage des présentes instructions.
+
+La marche à suivre pour imbriquer des objets dans le fichier Excel spécial se trouve à la section II.
+
+## Exercice courant (colonnes 01 et 02) et exercice précédent (colonnes 02 et 03) dans LF1, LF2, LF3 et LFPROV
+
+Les rapports trimestriels doivent inclure les états financiers intermédiaires des exercices courant et précédent, à savoir :
+
+1. L'état de la situation financière à la fin de la période intermédiaire considérée pour les colonnes **Exercice courant** et l'état comparatif de la situation financière à la fin de l'exercice qui précède immédiatement (statique) pour les colonnes **Exercice précédent**.
+2. Les conciliations des passifs à la fin de la période intermédiaire considérée pour les colonnes **Exercice courant** et l'état comparatif pour l'année civile complète de l'exercice qui précède immédiatement (statique) pour les colonnes **Exercice précédent**.
+3. L'état des variations des capitaux propres cumulé depuis le début de l'exercice courant, avec l'état comparatif pour l'année civile complète de l'exercice qui précède immédiatement (statique).
+4. L'état des flux de trésorerie cumulé depuis le début de l'exercice courant, avec l'état comparatif de la période comparable de l'exercice qui précède immédiatement (statique) ne doit être produit qu'au quatrième trimestre.
+5. L'état du résultat net et des autres éléments du résultat global cumulé depuis le début de l'exercice courant pour la colonne **Exercice courant**, avec l'état comparatif du résultat net et des autres éléments du résultat global de la période cumulée de l'exercice qui précède immédiatement (non statique) pour la colonne **Exercice précédent**.
+
+## Bilan d'ouverture exercice précédent, retraité dans LF1 (colonnes 05 et 06)
+
+Les colonnes Bilan d'ouverture exercice précédent, retraité ne s'appliquent que si l'institution financière a retraité ses états financiers en raison d'un changement apporté à une politique ou d'une erreur comptable. En règle générale, cette colonne est sans effet et peut être laissée vide si aucun retraitement de la situation financière n'a été effectué.
+
+En revanche, si l'institution a procédé à un retraitement, les rapports trimestriels doivent inclure les états intermédiaires au regard de l'état de la situation financière retraité au début l'exercice qui précède immédiatement (statique) l'exercice en question dans les colonnes Bilan d'ouverture exercice précédent, retraité.
+
+## Page 10.000 – Attestation portant sur le relevé annuel (sociétés canadiennes)
+
+Voir la [section V, Exigences administratives](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-vie-section-v-normes-administratives "Relevés d’assurance vie – Section V – Normes administratives").
+
+Cette page s'adresse uniquement aux SAV et SSM canadiennes.
+
+## Pages 10.002 - 10.004 – Attestation portant sur le relevé annuel (sociétés étrangères)
+
+Voir la [section V, Exigences administratives](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-vie-section-v-normes-administratives "Relevés d’assurance vie – Section V – Normes administratives").
+
+Ces pages s'adressent uniquement aux SAV et SSM étrangères.
+
+## Page 10.005 – Attestation portant sur le supplément annuel (assureurs détenant un permis au Québec seulement)
+
+Cette page s'adresse uniquement aux assureurs canadiens détenant un permis au Québec et ne doit être produite qu'une fois par an.
+
+## Page 10.010 – Renseignements annuels sur l'assureur – Assureurs/sociétés constitués dans les provinces
+
+Cette page s'adresse à toutes les SAV et SSM constituées dans les provinces et ne doit être produite qu'une fois par an.
+
+### Personnes-ressources
+
+Les SAV et SSM doivent fournir le nom de deux personnes-ressources, une pour les données relatives à la société et l'autre pour les données comprises dans l'état. Ces renseignements faciliteront la communication avec l'assureur/la société dans le but d'obtenir des précisions au sujet de l'institution ou de répondre à des questions financières et comptables touchant l'état annuel.
+
+### Vérificateur externe – Associé
+
+Inscrire le nom de l'associé responsable de l'audit ainsi que la raison sociale du cabinet.
+
+## Page 10.012 – Renseignements annuels sur l'assureur – Assureurs/sociétés constitués ou détenant un permis dans les provinces
+
+Les SAV et SSM constituées ou détenant un permis au Québec doivent indiquer le nom complet du président/chef de la direction et du secrétaire. Leur adresse résidentielle (et non d'affaires) doit être suffisamment complète pour servir d'adresse postale. Cette page ne doit être produite qu'une fois par an.
+
+## Page 10.013 – Renseignements annuels sur l'assureur – Assureurs/sociétés constitués dans les provinces
+
+Cette page doit être remplie par chaque assureur/société constitué dans une province et doit être produite chaque trimestre.
+
+Indiquer la liste des comités auquel siège chacun des membres du conseil d'administration conformément à la loi. Des lignes peuvent être ajoutées au formulaire le cas échéant. Ces renseignements peuvent être imbriqués dans le fichier Excel spécial.
+
+## Page 10.020 Actionnaires - Par catégorie d'actions – Partie 1 - Actions ordinaires
+
+Cette page s'adresse uniquement aux assureurs canadiens.
+
+Lignes 001-020 – Colonne 01 – Nom de l'actionnaire bénéficiaire
+:   Indiquer le nom des actionnaires bénéficiaires. Indiquer seulement le nom de ceux détenant au moins 10 % des actions ordinaires.
+
+    Dresser la liste alphabétique des actionnaires, par de nom de famille (Nom de famille, Prénom).
+
+    Le nom du courtier ou de la firme de courtage n'est pas suffisant, particulièrement dans le cas de portefeuilles comportant plus de 10 % des droits de vote. Les administrateurs et les dirigeants doivent figurer séparément dans la liste même s'ils détiennent moins de 10 % des actions d'une catégorie donnée.
+
+    Le nom de chaque administrateur et dirigeant qui est actionnaire de la société doit être déclaré peu importe la taille de la position.
+
+Lignes 001-020 – Colonne 02 – Adresse
+:   Indiquer l'adresse complète de l'actionnaire, y compris la ville et le pays.
+
+Ligne 021 – Actions détenues par des employés ne figurant pas ci-dessus
+:   Déclarer à la ligne 021 les employés qui ne sont ni administrateurs, ni dirigeants, mais qui sont actionnaires, investisseurs institutionnels. Au besoin, on peut exercer son jugement et regrouper les employés dans les catégories « Administrateurs et dirigeants » et « Non- administrateurs et non dirigeants ».
+
+## Page 10.030 Actionnaires - Par catégorie d'actions – Partie 2 - Actions privilégiées
+
+Cette page s'adresse uniquement aux assureurs canadiens.
+
+Ces données sont requises pour toutes les catégories d'actions privilégiées. Prévoir une page distincte pour chaque catégorie d'actions privilégiées. Fournir une description des caractéristiques de chaque catégorie, notamment le taux de dividendes, la date d'échéance, les modalités relatives aux distributions cumulatives, le cas échéant, et toute autre particularité des actions.
+
+Dresser la liste alphabétique des actionnaires, par nom de famille (Nom de famille, Prénom).
+
+Lignes 001-020 – Nom de l'actionnaire bénéficiaire
+:   Indiquer le nom des actionnaires bénéficiaires. Indiquer seulement le nom de ceux qui détiennent au moins 10 % des actions.
+
+    Le nom du courtier ou firme de courtage n'est pas suffisant, particulièrement dans le cas de portefeuilles comportant plus de 10 % des droits de vote. Les administrateurs et les dirigeants doivent figurer séparément dans la liste même s'ils détiennent moins de 10 % des actions d'une catégorie donnée.
+
+## Page 10.033 – Renseignements sur la société et sur la réglementation
+
+Cette page s'adresse uniquement aux SAV et SSM étrangères.
+
+Question 9
+:   Si l'assureur/la société est assujetti à des restrictions touchant la réglementation, veuillez fournir des précisions.
+
+Question 11
+:   Si la cote de l'assureur/la société est établie par une importante agence d'évaluation du crédit, donner l'historique détaillé de la cote de l'exercice en cours (EC), du dernier exercice (EC-1), etc.
+
+## Page 10.040 – Organigramme
+
+L'organigramme doit indiquer les liens entre l'assureur/la société, sa société mère intermédiaire et ultime, ainsi que toutes les autres sociétés liées (en amont comme en aval) qui sont, selon le cas :
+
+* des sociétés membres du groupe cotées en bourse;
+* des banques ou des sociétés de fiducie membres du groupe;
+* d'autres sociétés d'assurance membres du groupe;
+* des sociétés d'assurance que contrôle l'assureur (comme les coentreprises);
+* des filiales de l'assureur/la société;
+* des sociétés de gestion d'assurances membres du groupe.
+
+Ces renseignements doivent être imbriqués dans le fichier Excel spécial.
+
+Les SAV et SSM étrangères doivent indiquer dans l'organigramme des sociétés en aval le pourcentage d'actions avec droit de vote détenues par les principaux actionnaires.
+
+## Pages 10.050 à 10.090 – Questions générales
+
+Ces pages s'adressent uniquement aux SAV et SSM canadiennes.
+
+## Page 10.050 – Questions générales
+
+S'il n'y a pas assez d'espace pour répondre adéquatement aux questions ou si des renseignements supplémentaires sont nécessaires, l'assureur/la société doit imbriquer un fichier dans le fichier Excel spécial.
+
+Question 1.1
+:   Si la réponse est « oui », remplir le tableau et inscrire la valeur totale brute en vigueur à la fin de l'exercice. Les chiffres doivent tenir compte des montants bruts en vigueur de tous les actifs donnés en garantie ou déposés en nantissement par les filiales à la fin de l'exercice. L'assureur/la société devrait conserver une liste détaillée concernant la société mère et les filiales aux fins d'examen éventuel par les autorités de réglementation.
+
+Question 1.2
+:   Si la réponse est « oui », remplir les autres champs. Si la réponse est « non », passer à la question suivante.
+
+    Préciser le montant en vigueur le plus élevé à la fin d'un mois des opérations conclues pendant l'exercice et la valeur totale brute en vigueur à la fin de l'exercice, sur une base consolidée. Les chiffres doivent tenir compte des montants bruts de tous les accords de vente et de rachat (et d'achat et de revente) exécutés par la société mère et ses filiales. En dressant la liste de toutes les institutions avec lesquelles des opérations ont été exécutées, mentionnez la valeur totale brute en vigueur à la fin de l'exercice pour chaque type de contrat.
+
+## Page 10.060 – Questions générales
+
+Question 2.1
+:   Si l'espace prévu est insuffisant, imbriquer les renseignements dans le fichier Excel spécial.
+
+## Page 10.070 – Questions générales
+
+Question 4.1 – Opérations avec les personnes morales contrôlées ou affiliées et les tiers
+:   L'importance relative s'entend de 1 % de l'avoir consolidé.
+
+    Si l'espace prévu est insuffisant, imbriquer les renseignements dans le fichier Excel spécial.
+
+## Page 10.090 – Questions générales
+
+Question 5.3 – Autres renseignements
+:   Voir la ligne directrice B-10, [Ligne directrice sur la gestion du risque lié aux tiers](/fr/consignes/repertoire-consignes/ligne-directrice-sur-gestion-du-risque-lie-tiers "Ligne directrice sur la gestion du risque lié aux tiers"), du BSIF pour de plus amples renseignements.Les assureurs constitués au Québec doivent consulter la [Ligne directrice sur la gestion des risques liés à l'impartition](https://lautorite.qc.ca/professionnels/assureurs/lignes-directrices/risque-operationnel/gestion-des-risques-lies-a-limpartition) de l'Autorité des marchés financiers.
+
+Question 5.4
+:   Le montant de l'avoir des actionnaires subordonné au paiement de participations futures aux titulaires de polices/certificats avec participation :
+
+    Divulguer la partie cumulative du revenu du fonds avec participation pris en compte dans les bénéfices non répartis en excédent du montant permis par la législation en fonction des participations versées aux titulaires avec participation ou imbriquer, dans le fichier Excel spécial, un fichier avec une conciliation de l'excédent total du fonds avec participation.
+
+Question 5.6
+:   À la ligne 220, ne déclarer que les coûts liés au développement de logiciels capitalisés au cours de l'exercice et qui sont inclus à la ligne 210.
+
+## Pages 11.050 - 11.070 – Questions générales
+
+Ces pages s'adressent uniquement aux SAV et SSM étrangères.
+
+## Page 11.050 – Questions générales
+
+Question 2.1
+:   Cette question porte sur le passif éventuel/les provisions et les engagements contractuels et les autres éléments de passif hors bilan de la succursale canadienne au Canada.
+
+Question 2.3
+:   Si la réponse est « oui », fournir, sur une base consolidée, une description des litiges incluant les filiales.
+
+## Page 11.070 – Questions générales
+
+Question 5.2
+:   Il n'y a aucune méthode prescrite pour la ventilation des revenus et des dépenses entre les fonds les lignes d'affaires. Les hypothèses et formules employées par la succursale canadienne doivent être expliquées afin de permettre au BSIF de comprendre cette répartition.
+
+Question 5.5
+:   Cette question porte sur les politiques de l'assureur/de la société en matière de pratique commerciale. Si la société a répondu « Non » à cette question, des renseignements additionnels peuvent être fournis sur une page supplémentaire ou à la page 20.060.
+
+Question 5.6
+:   Déclarer le coût total des dépenses en TI à la ligne 510.
+
+    À la ligne 520, ne déclarer que les coûts liés au développement de logiciels capitalisés au cours de l'exercice et par ailleurs inclus à la ligne 510.
+
+## Pages 15.010 - 15.040 – Rapport sur les activités à l'échelle mondiale
+
+Ces pages s'adressent uniquement aux SAV et SSM étrangères.
+
+Les SAV et SSM étrangères doivent remplir le bilan et l'état des résultats abrégés liés à leurs activités à l'échelle mondiale. Ces renseignements doivent correspondre à la date de clôture du plus récent exercice financier au cours duquel les renseignements sont disponibles. Indiquer la date de fin de l'exercice à la ligne 930.
+
+Les données financières doivent être converties en monnaie canadienne à partir de la devise du pays d'attache. Indiquer la devise d'origine à la ligne 950 et le taux de change utilisé au haut de chaque colonne.
+
+Les données utilisées pour remplir les trois pages doivent provenir principalement de l'état présenté à l'organisme de réglementation du pays d'attache. Il n'est pas nécessaire de convertir, au contexte du IFRS, les données établies en fonction des principes comptables du pays d'attache.
+
+## Page 15.020 – Passif, avoir des titulaires de polices et des actionnaires – Activités à l'échelle mondiale
+
+Cette page s'adresse uniquement aux SAV étrangères.
+
+## Page 15.040 – Renseignements sur les fonds propres et la solvabilité
+
+Ces renseignements doivent correspondre à la date de clôture du plus récent exercice financier au cours duquel de tels renseignements sont disponibles. Indiquer la date de fin d'exercice à la ligne 930.
+
+Les données financières doivent être converties en monnaie canadienne à partir de la devise du pays d'attache. Indiquer la devise d'origine à la ligne 950 et le taux de change utilisé au haut de chaque colonne.
+
+Considérant la diversité de mesures possibles des fonds propres (ou de la solvabilité), il convient de fournir les renseignements sous la forme de capitaux monétaires disponibles et requis ainsi que d'un ratio qui pourrait être établi sur une base différente qu'au Canada. Pour les SAV et SSM états-uniennes, les fonds propres disponibles correspondent au total du capital redressé (Total Adjusted Capital) de la formule RBC. Le capital requis correspond à la somme figurant sous Authorized Control Level Risk-Based Capital. De l'espace est prévu au bas de la page afin de décrire la norme utilisée.
+
+Les SAV et SSM étrangères ne doivent fournir que les données qui sont pertinentes dans les circonstances. Par exemple, si la solvabilité n'est mesurée qu'à l'aide d'un ratio, il n'est pas nécessaire d'inscrire les montants devant figurer aux lignes 001, 100 et 200. Par contre, il est possible que les méthodes de calcul soient similaires à celles prévalant au Canada. On incite les SAV et SSM étrangères à remplir la section de commentaires et décrire leurs circonstances particulières.
+
+Bien que le Royaume-Uni et les États-Unis rendent publics les renseignements sur les fonds propres (ou de la solvabilité) (à l'exception du ratio de solvabilité aux fins de la commercialisation aux États-Unis), le BSIF n'a pas été en mesure de déterminer si tel est le cas pour tous les autres pays. Afin que les SAV et SSM ne contreviennent pas aux lois étrangères sur la divulgation des ratios de fonds propres (ou de la solvabilité), le BSIF ne rendra pas ces données publiques tant qu'il n'aura pas confirmé qu'il a la possibilité de le faire et qu'il n'aura pas obligé les sociétés d'assurance vie canadienne à publier leurs ratios de solvabilité.
+
+## Pages 20.002 – 20.004
+
+Le solde d'ouverture des données financières de l'exercice précédent ne doit être redressé que par les SAV et SSM qui procèdent à un redressement rétroactif ou un reclassement de postes.
+
+## Pages 20.002 – 20.054
+
+Les normes IFRS exigent que plusieurs éléments soient présentés séparément dans les états financiers ou dans les notes afférentes aux états financiers. Si le relevé des états financiers de base LF ne comporte pas de lignes distinctes aux fins de la déclaration de ces éléments, ils **devront être présentés** dans les notes afférentes aux états financiers.
+
+Les SAV et SSM étrangères doivent établir les états financiers sur une base non consolidée.
+
+## Page 20.002 – Actif
+
+Les SAV et SSM étrangères doivent déclarer à la fois l'actif de la succursale canadienne et la partie de celui-ci qui est placé en fiducie à sa valeur au bilan.
+
+Dans le cas des SAV et SSM canadiennes, la présentation doit être cohérente à celle déclarée dans les états financiers non consolidés, à la page 70.002.
+
+Ligne 010 – Encaisse et quasi-espèces
+:   Les SAV et SSM **ne doivent pas** utiliser les soldes créditeurs auprès d'une institution de dépôts en réduction des soldes débiteurs auprès d'une autre institution de dépôts. Cette opération n'est permise qu'entre les succursales de la même institution de dépôts.
+
+Ligne 060 – Actifs détenus en vue de la vente
+:   Déclarer tous les actifs détenus en vue de la vente en vertu de la norme IFRS 5. Cela ne comprend pas les placements dans le portefeuille désigné comme étant disponible à la vente.
+
+Ligne 070 – Investissements
+:   Voir les instructions relatives à la page 21.012.
+
+Ligne 080 – Placements comptabilisés selon la méthode de la mise en équivalence
+:   Voir les instructions relatives à la page 21.015.
+
+Ligne 110 – Immeubles de placement
+:   Déclarer les actifs assortis d'un droit d'utilisation qui s'inscrivent parmi les immeubles de placement.
+
+Ligne 120 – Immobilisations corporelles
+:   Déclarer les actifs assortis d'un droit d'utilisation qui s'inscrivent parmi les immobilisations corporelles.
+
+Ligne 190 – Autres éléments d'actif
+:   Inclure les frais payés d'avance, les comptes débiteurs, les charges reportées et les frais d'acquisition reportés non liés au passif des contrats d'assurance, y compris les comptes débiteurs des fonds de secours mutuels et d'autres fonds.
+
+## Page 20.004 – Passif et capitaux propres
+
+L'avoir des titulaires de polices et des actionnaires s'adresse uniquement aux assureurs-vie canadiens.
+
+Ligne 030 – Provisions, charges à payer et autres éléments de passif
+:   Déclarer le passif des contrats de location et les comptes à payer qui ne sont pas liés à des contrats d'assurance.
+
+Ligne 040 – Passifs détenus pour la vente
+:   Déclarer tous les passifs détenus en vue de la vente en vertu de la norme IFRS 5. Cela ne comprend pas les passifs désignés comme étant disponibles à la vente.
+
+Ligne 080 – Dépôts bancaires et dépôts en fiducie
+:   Inclure les dépôts relatifs aux opérations des filiales bancaires ou institutions de dépôts de l'assureur-vie.
+
+    **Assureurs vie du Québec :** Inclure les dépôts relatifs aux opérations des filiales bancaires ou institutions de dépôts de l'assureur vie.
+
+Ligne 110 – Régimes de retraite à prestations définies
+:   Déclarer ici les déficits des régimes de retraite à prestations définies.
+
+Ligne 130 – Dettes subordonnées
+:   Voir la [ligne directrice TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes")/ESCAP.
+
+Ligne 140 – Actions privilégiées - Dettes
+:   Cette ligne s'adresse uniquement aux sociétés d'assurance canadiennes.
+
+Ligne 150 – Passifs au titre des contrats d'assurance – excluant les fonds distincts
+:   Cette ligne s'applique à tous les éléments de passif au titre des contrats d'assurance, à l'exclusion des contrats de fonds distincts.
+
+Ligne 155 – Passifs au titre des contrats d'assurance - Garanties de fonds distincts
+:   Cette ligne s'applique uniquement aux passifs des contrats d'assurance liés aux garanties de fonds distincts.
+
+Ligne 170 – Passifs au titre des contrats de réassurance détenus – excluant les fonds distincts
+:   Cette ligne est prévue pour tous les passifs détenus au titre de contrats de réassurance, à l'exclusion des fonds distincts.
+
+Ligne 190 – Passifs des contrats d'investissement – excluant les passifs nets des fonds distincts
+:   Cette ligne s'applique aux passifs au titre des contrats d'investissement, à l'exclusion des passifs au titre des titulaires de fonds distincts.
+
+### Obligations envers les titulaires de polices
+
+Ligne 310 – Intérêt résiduel (sociétés non cotées en bourse)
+:   Cette ligne s'adresse principalement aux entités mutuelles et aux sociétés de secours mutuel.
+
+    Déclarer les contrats d'assurance en vertu desquels l'intérêt résiduel le plus important de l'entité est **dû à un titulaire de police et non à un actionnaire**.
+
+Lignes 410-699 – Capitaux propres
+:   Ces lignes s'adressent uniquement aux sociétés d'assurance canadiennes.
+
+Ligne 410 – Intérêt résiduel (sociétés non cotées en bourse)
+:   Cette ligne s'adresse principalement aux entités mutuelles et aux sociétés de secours mutuel.
+
+    Déclarer les contrats d'assurance en vertu desquels l'intérêt résiduel le plus important de l'entité **n'est pas dû à un titulaire de police**.
+
+Ligne 550 – Bénéfices non répartis
+:   Cette ligne s'adresse uniquement aux compagnies par actions.
+
+Ligne 560 – Risque nucléaire et autres réserves
+:   Cette ligne s'adresse uniquement aux sociétés d'assurance multirisques.
+
+Ligne 810 – Fonds du siège social
+:   Cette ligne s'adresse uniquement aux SAV étrangères.
+
+    Déclarer le solde de fin d'exercice figurant à la page 20.044.
+
+Lignes 810 à 899 – Fonds du siège social, réserves et CAÉRG
+:   Ces lignes s'adressent uniquement aux SAV étrangères.
+
+## Pages 20.012 et 20.013 – Conciliation des passifs (analyse par composante d'évaluation [contrats d'assurance non évalués selon la méthode de la répartition des primes - excluant les fonds distincts])
+
+Ce tableau doit être rempli conformément aux exigences d'information d'IFRS 17 pour la conciliation des passifs au titre des contrats d'assurance.
+
+Il s'applique aux contrats d'assurance qui ne sont pas mesurés selon la méthode de la répartition des primes.
+
+Colonnes 18 et 48 – Autre
+:   Ces colonnes serviront à comptabiliser les contrats d'assurance soumis aux IFRS selon la méthode rétrospective complète, et tous les autres contrats d'assurance selon la méthode prospective.
+
+## Pages 20.014 et 20.015 – Conciliation des passifs (analyse en fonction de la couverture restante et des sinistres survenus [tous les contrats d'assurance - excluant les fonds distincts])
+
+Ce tableau doit être rempli conformément aux exigences d'information d'IFRS 17 pour la conciliation des passifs au titre des contrats d'assurance.
+
+Il s'applique à tous les contrats d'assurance.
+
+Ligne 130 – Autre
+:   Cette ligne servira à comptabiliser les contrats d'assurance soumis aux IFRS selon la méthode rétrospective complète, et tous les autres contrats d'assurance selon la méthode prospective.
+
+## Pages 20.016 et 20.017 – Conciliation des passifs (analyse des contrats de réassurance détenus par composante d'évaluation [contrats non évalués selon la méthode de la répartition des primes - excluant les fonds distincts])
+
+Ce tableau doit être rempli conformément aux exigences d'information d'IFRS 17 pour la conciliation des passifs au titre des contrats de réassurance détenus.
+
+Il s'applique aux contrats de réassurance détenus qui ne sont pas mesurés selon la méthode de la répartition des primes.
+
+Ligne 530 – Flux de trésorerie liés aux frais d'acquisition de contrats de réassurance
+:   Cette ligne pourrait servir à déclarer les allocations de primes (commissions de réassurance).
+
+## Pages 20.018 et 20.019 – Conciliation des passifs (analyse des contrats de réassurance détenus selon la couverture restante et les sinistres survenus [tous les contrats - excluant les fonds distincts])
+
+Ce tableau doit être rempli conformément aux exigences d'information d'IFRS 17 pour la conciliation des passifs au titre des contrats de réassurance détenus.
+
+Il s'applique à tous les contrats de réassurance.
+
+Ligne 330 – Flux de trésorerie liés aux frais d'acquisition de contrats de réassurance
+:   Cette ligne pourrait servir à déclarer les allocations de primes (commissions de réassurance).
+
+## Page 20.022 – État du résultat net
+
+Ligne 010 – Produits tirés des contrats comptabilisés selon la méthode de la répartition des primes (MRP)
+:   Produits des contrats d'assurance évalués selon la méthode de la répartition des primes (MRP).
+
+Ligne 020 – Produits tirés des contrats comptabilisés selon la méthode générale d'évaluation (MGE) (excluant les contrats ayant recours à la méthode des honoraires variables [MHV])
+:   Produits des contrats d'assurance évalués selon la méthode de mesure générale (MMG), à l'exclusion des contrats qui répondent aux critères d'admissibilité de la méthode fondée sur les honoraires variables (MHV).
+
+Ligne 030 – Produits tirés des contrats ayant recours à la MHV
+:   Produits tirés des contrats d'assurance qui répondent aux critères d'admissibilité de la méthode fondée sur les honoraires variables (MHV).
+
+Ligne 099 – Total des produits des activités d'assurance
+:   Somme des lignes 010, 020 et 030.
+
+Ligne 110 – Charges afférentes aux activités d'assurance
+:   Une entité doit présenter en résultat les charges afférentes aux services d'assurance résultant d'un groupe de contrats d'assurance.
+
+Ligne 120 – Charges nettes afférentes aux contrats de réassurance détenus
+:   Cette ligne représente les montants recouvrés auprès du réassureur et une répartition des primes payées.
+
+Ligne 199 – Résultat des activités d'assurance
+:   La ligne 199 correspond à la somme des lignes 099 et 120, moins la ligne 110.
+
+Ligne 220 – Revenu d'intérêt sur les actifs financiers
+:   Déclarer les intérêts gagnés sur l'encaisse et les placements à court terme, les obligations, les prêts hypothécaires, les activités dérivées et tout autre placement portant intérêt.
+
+Ligne 230 – Résultat d'investissement net, excluant le résultat au titre des fonds distincts
+:   Déclarer le résultat d'investissement (y compris les gains réalisés, les gains à la juste valeur, les dividendes, les revenus de location, etc.) moins les frais connexes, à l'exclusion du résultat d'investissement net au titre des fonds distincts. Le revenu net d'investissement des garanties de fonds distincts (se rapportant au fonds général) doit aussi être déclaré sur cette ligne.
+
+Ligne 240 – Résultat d'investissement net des contrats d'assurance au titre des fonds distincts
+:   Cette ligne sert à comptabiliser le revenu d'investissement (y compris les gains réalisés, les gains à la juste valeur, les dividendes, les revenus de location, etc.) moins les frais connexes des fonds distincts, à l'exclusion de tout revenu d'investissement du fonds général.
+
+Ligne 250 – Provisions pour pertes sur créances
+:   Déclarer les pertes de valeur selon les normes IFRS.
+
+Ligne 310 – Produits financiers ou charges financières nets afférents aux contrats d'assurance, excluant le résultat au titre des fonds distincts
+:   Déclarer la variation de la valeur comptable du groupe de contrats d'assurance résultant de l'effet de la valeur temporelle de l'argent, des variations de la valeur temporelle de l'argent, de l'effet du risque financier et des variations du risque financier.
+
+Ligne 315 - Produits financiers ou charges financières nets des contrats d'assurance au titre des fonds distincts
+:   Déclarer uniquement le total des produits financiers ou des charges financières afférents aux fonds distincts.
+
+Ligne 320 – Produits financiers ou charges financières afférents aux contrats de réassurance détenus
+:   Déclarer la variation de la valeur comptable du groupe de contrats de réassurance résultant de l'effet de la valeur temporelle de l'argent, des variations de la valeur temporelle de l'argent, de l'effet du risque financier et des variations du risque financier.
+
+Ligne 330 – Fluctuation du passif au titre des contrats d'investissement
+:   Déclarer la fluctuation du passif au titre des contrats d'investissement, qui comprend les sinistres survenus au cours de l'exercice moins l'élimination correspondante du passif au titre des titulaires de polices comptabilisé à l'origine au bilan et le rendement des placements porté au crédit des titulaires de polices.
+
+Ligne 399 – Résultat d'investissement net
+:   Somme des lignes 300, 310, 315, 320 et 330.
+
+Ligne 410 – Autres produits
+:   Voir les instructions applicables aux lignes de la page 23.035.
+
+Ligne 420 – Frais généraux et frais d'exploitation
+:   Voir les instructions applicables aux lignes de la page 23.015.
+
+Ligne 520 – Activités abandonnées (nettes de l'impôt sur les bénéfices de \_\_\_\_\_\_\_$)
+:   Il y a trois points de données à remplir sur cette ligne : exercice courant (colonne 01), exercice précédent (colonne 03) et point de données interne (colonne 04). Le point de données interne est intitulé « net d'impôt sur les bénéfices pour les activités abandonnées » et se trouve au bas du formulaire.
+
+Lignes 610 - 650
+:   Ces lignes s'adressent uniquement aux sociétés d'assurance canadiennes.
+
+Ligne 630 – Titulaires de polices avec intérêt résiduel
+:   Pour une entité mutuelle ou une société de secours mutuel, cette ligne reflète la répartition du résultat net (ligne 999) provenant de l'intérêt résiduel attribuable aux titulaires de polices.
+
+## Page 20.032 – État du résultat net (Budget) (Seuls les assureurs constitués sous le régime d'une loi britanno-colombienne)
+
+Seules les SAV et les SSM canadiennes constituées sous le régime d'une loi britanno-colombienne doivent remplir ce tableau. Cette page doit être produite chaque trimestre.
+
+Déclarer le budget depuis le début de l'exercice jusqu'à la fin du trimestre conformément aux modalités décrites à la page 20.022.
+
+## Page 20.038 – État du résultat net (Budget annuel du prochain exercice) (Seuls les assureurs constitués sous le régime d'une loi britanno-colombienne)
+
+Seules les SAV et les SSM canadiennes constituées sous le régime d'une loi britanno-colombienne doivent remplir ce tableau. Cette page ne doit être produite qu'une fois par an.
+
+Déclarer le budget depuis le début de l'exercice jusqu'à la fin du trimestre conformément aux modalités décrites à la page 20.022.
+
+## Page 20.040 – État de l'avoir des titulaires de polices dans des comptes avec participation
+
+Cette page s'adresse uniquement aux SAV et SSM canadiennes.
+
+Les sociétés de secours mutuels ne doivent remplir cette page que si elles exercent ce type d'activité.
+
+Veuillez consulter votre principal organisme de réglementation avant d'effectuer des virements entre les comptes avec participation, les comptes sans participation et les comptes de bénéfices non répartis.
+
+Lignes 040 - 070 – Redressements
+:   Déclarer ici les portions des :
+
+    1. redressements sur les exercices antérieurs;
+    2. modifications de conventions comptables appliquées rétroactivement et attribuées au solde d'ouverture des bénéfices non répartis.
+
+    Tout changement doit être expliqué dans les Notes afférentes aux états financiers ou en réponse à la question 5.5 de la page 10.090.
+
+    Tout rajustement ou solde de transition découlant de l'adoption d'une nouvelle norme comptable doit être déclaré à la ligne 070, l'année de la transition.
+
+Ligne 100 – Part du bénéfice (perte) net(te)
+:   Pour les sociétés par actions, le montant déclaré ici est le même que celui de la ligne 610 de la page 20.022.
+
+Ligne 130 – Prélèvements sur (virements aux) bénéfices non répartis (compagnies par actions seulement)
+:   Veuillez consulter votre principal organisme de réglementation avant d'effectuer des virements.
+
+Ligne 160 – Prélèvements sur (virements au) compte sans participation (sociétés non cotées en bourse)
+:   Dans le cas des compagnies mutuelles, les prélèvements sur le compte sans participation et les virements à ce dernier ne peuvent être effectués que s'il y a eu transfert correspondant d'éléments de passif, par exemple, lorsqu'une police avec participation est transformée en police sans participation ou lorsque les exigences législatives sont respectées.
+
+## Page 20.040 – État de l'avoir des titulaires de polices dans des comptes sans participation (sociétés non cotées en bourse)
+
+Lignes 340 - 370 – Redressements
+:   Déclarer ici les portions des :
+
+    1. redressements sur les exercices antérieurs;
+    2. modifications de conventions comptables appliquées rétroactivement et attribuées au compte sans participation. Ces changements doivent être entièrement expliqués dans les Notes afférentes aux états financiers.
+
+    Tout rajustement ou solde de transition découlant de l'adoption d'une nouvelle norme comptable doit être déclaré à la ligne 370, l'année de la transition.
+
+Ligne 430 – Prélèvements sur (virements au) compte avec participation
+:   Veuillez consulter votre principal organisme de réglementation avant d'effectuer des virements.
+
+## Page 20.040 – État de l'intérêt résiduel – Avoir des titulaires de polices
+
+Lignes 550-560 – Redressements
+:   Déclarer ici les portions des :
+
+    1. redressements sur les exercices antérieurs;
+    2. modifications de conventions comptables appliquées rétroactivement et attribuées au solde d'ouverture des bénéfices non répartis. Ces changements doivent être entièrement expliqués dans les Notes afférentes aux états financiers.
+
+    Tout rajustement ou solde de transition découlant de l'adoption d'une nouvelle norme comptable doit être déclaré à la ligne 560, l'année de la transition.
+
+## Page 20.040 – État de l'intérêt résiduel – Passif
+
+Lignes 750-760 – Redressements
+:   Déclarer ici les portions des :
+
+    3. redressements sur les exercices antérieurs;
+    4. modifications de conventions comptables appliquées rétroactivement et attribuées au solde d'ouverture des bénéfices non répartis. Ces changements doivent être entièrement expliqués dans les Notes afférentes aux états financiers.
+
+    Tout rajustement ou solde de transition découlant de l'adoption d'une nouvelle norme comptable doit être déclaré à la ligne 760, l'année de la transition.
+
+## Page 20.042 – Résultat global (perte) et cumul des autres éléments du résultat global (perte)
+
+Lignes 615, 625, 635, 600 et 620
+:   Ces lignes s'adressent uniquement aux SAV et SSM canadiennes.
+
+## Page 20.044 – Compte du siège social
+
+Cette page s'adresse uniquement aux SAV et SSM étrangères.
+
+Lignes 040 - 070 – Redressements
+:   Déclarer ici les portions des :
+
+    1. redressements sur les exercices antérieurs;
+    2. modifications de conventions comptables appliquées rétroactivement et attribuées au compte sans participation. Ces changements doivent être entièrement expliqués dans les Notes afférentes aux états financiers.
+
+    Tout rajustement ou solde de transition découlant de l'adoption d'une nouvelle norme comptable doit être déclaré à la ligne 070, l'année de la transition.
+
+Ligne 080 – Bénéfice (perte) net(te) pour l'exercice : autres comptes de fonds
+:   Énumérer les ajustements de période précédente d'après les PCGRC; expliquer ceux-ci dans les notes afférentes aux états financiers ou séparément, à la page 20.060.
+
+## Page 20.054 – État des variations des capitaux propres
+
+Cette page s'adresse uniquement aux SAV canadiennes.
+
+Déclarer les variations des éléments de capital figurant dans les sections Passif et avoir des titulaires de polices et des actionnaires (page 20.004) et Autres éléments du résultat global (page 20.042) des états financiers consolidés.
+
+## Page 20.060 – Notes afférentes aux états financiers
+
+Les SAV et SSM doivent fournir une copie de leur rapport de gestion.
+
+## Page 21.012 – Sommaire des placements
+
+Les titres de gouvernements sont des titres émis ou garantis par les gouvernements centraux des pays de l'OCDE et par les provinces et territoires du Canada. Les obligations émises par des sociétés d'État et garanties par le gouvernement d'un pays de l'OCDE doivent être déclarées sous la rubrique « Gouvernement ».
+
+Les obligations et débentures publiques de sociétés sont des titres enregistrés et négociés sur le marché public. Elles comportent habituellement un numéro du CUSIP.
+
+Les obligations et débentures privées de sociétés sont des titres qui ne sont pas enregistrés et négociés sur le marché public. Elles sont normalement offertes à un groupe unique ou restreint d'investisseurs.
+
+Les obligations et débentures publiques de sociétés sans risque sont des titres cotés BBB ou plus par une agence de notation reconnue.
+
+Les obligations et débentures privées d'entreprises sans risque sont des titres qui seraient cotés BBB ou plus selon les critères employés par les agences de notation reconnues.
+
+Certains organismes de réglementation obligent les SAV et SSM à tenir une liste détaillée des placements aux fins d'examen. Il n'est pas nécessaire que la liste accompagne le relevé LF; voir la [section V, Exigences administratives](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-vie-section-v-normes-administratives "Relevés d’assurance vie – Section V – Normes administratives").
+
+Pour chaque catégorie de placement énumérée dans le sommaire, la valeur au bilan des placements doit être déclarée dans les colonnes correspondant à leur classification en vertu des normes comptables pertinentes.
+
+Dans le cas des SAV et SSM étrangères, la conversion en devise canadienne de titres libellés en devises étrangères doit être conforme aux principes comptables généralement reconnus au Canada. Déclarer tous les montants placés en fiducie.
+
+Ligne 010 – Placements à court terme
+:   Déclarer ici les placements autres que les équivalents de trésorerie dont l'échéance initiale est d'un an ou moins; inclure les dépôts à terme, les CPG, les effets commerciaux, les bons du Trésor, etc.
+
+Ligne 479 – Total des obligations et débentures
+:   Déclarer les placements à échéance déterminée prévoyant le remboursement de capital à une ou plusieurs dates fixes (incluant les obligations convertibles, les obligations à coupon zéro, les titres adossés à des actifs et les CPG dont l'échéance initiale dépasse un an).
+
+Ligne 500 – Prêts hypothécaires
+:   Le cas échéant, les montants indiqués doivent être nets des provisions collectives et individuelles établies pour refléter le non-recouvrement du solde des prêts. Inclure les contrats de vente, les pouvoirs de vente, les portefeuilles hypothécaires, de même que les hypothèques en cours de saisie lorsque la propriété n'a pas encore été cédée à l'assureur/la société.
+
+Ligne 599 – Total des actions privilégiées
+:   Inclure les actions privilégiées convertibles.
+
+Ligne 659 – Total des actions ordinaires
+:   Inclure les options, les bons de souscription et les droits relatifs aux actions ordinaires.
+
+Lignes 810 et 820 – Autres prêts et autres placements
+:   Inclure les baux, les capitaux de lancement pour les fonds distincts et les autres actifs financiers comptabilisés, non déclarés dans les postes ci-dessus.
+
+Colonne 16 – Juste valeur par l'entremise des autres éléments du résultat global (JVAÉRG)
+:   Déclarer les éléments classés dans la catégorie « Disponibles à la vente » et qui sont comptabilisés au coût amorti.
+
+Colonnes 52, 53 et 54 – Provisions, y compris la perte de crédit attendue (PCA) – Niveau I, II et III
+:   L'assureur qui souscrit à la norme IFRS 9 doit déclarer le montant des pertes de crédit attendues pour chacun des niveaux 1, 2 et 3, tel que décrit la norme IFRS 9, Instruments financiers.
+
+Colonne 70 – Valeur au bilan des actifs utilisés pour adosser des produits indiciels
+:   Déclarer la valeur au bilan des investissements qui font partie des fonds d'administration dont les risques d'investissement sont transférés aux titulaires de polices/certificats lorsque les investissements sont utilisés pour adosser des produits indiciels.
+
+    Voir la [ligne directrice TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes")/ESCAP.
+
+## Page 21.020 – Analyse des provisions de l'exercice courant
+
+Déclarer les placements à court terme ainsi que les actions privilégiées et ordinaires à la ligne 710, « Autres prêts et placements ».
+
+Les SAV et SSM étrangères doivent déclarer tous les montants placés en fiducie.
+
+Colonnes 10 à 46
+:   Les colonnes 10 à 46 ne doivent être remplies que dans le relevé portant sur le quatrième trimestre, et les données déclarées doivent correspondre aux montants annuels cumulatifs (exercice précédent et exercice courant) des provisions figurant dans l'état du résultat net.
+
+Colonnes 57, 58 et 59 – Provisions, y compris la perte de crédit attendue (PCA)
+:   Déclarer le montant des pertes de crédit attendues pour chacun des niveaux 1, 2 et 3, tel que décrit dans la norme IFRS 9, Instruments financiers.
+
+Colonne 60 – Total des provisions Fin de l'exercice courant
+:   Les montants déclarés dans cette colonne doivent correspondre aux provisions pour pertes sur créances indiquées à la ligne 250 de la page 20.022.
+
+Colonne 71 – Radiations supplémentaires Exercice courant
+:   Déclarer les montants des radiations ou des défauts exceptionnels qui ne sont pas inclus ou pris en compte dans le processus de suivi des pertes de crédit attendues.
+
+## Page 21.030 – Placements de sociétés selon le secteur
+
+Déclarer les valeurs comptables **nettes des provisions individuelles** de l'ensemble des obligations et débentures et des actions privilégiées et ordinaires, par secteur (en vous fondant sur le système de classification des secteurs de Bloomberg ou GICS). Les secteurs doivent être établis selon le pays de résidence de la société émettrice. Par exemple, si une société canadienne émet des titres libellés en dollars américains, ces titres sont à déclarer sur la ligne « Canada » dans le secteur approprié. Tous les montants doivent être libellés en dollars canadiens.
+
+Exclure les instruments dérivés ou les titres émis ou garantis par un gouvernement dont le facteur de pondération est de zéro aux fins des normes de suffisance du capital et les placements effectués pour les titulaires de comptes de fonds distinct.
+
+Les seuils d'importance relative aux fins de la divulgation des placements par secteur sont les suivants :
+
+Les SAV et SSM doivent déclarer séparément les placements émis aux États-Unis et dans d'autres pays si, selon le cas :
+
+* les actifs aux États-Unis et dans d'autres pays représentent plus de 5 % des capitaux propres consolidés;
+* le revenu provenant de ces pays représente plus de 5 % du revenu consolidé.
+
+Dans tous les autres cas, déclarer les placements dont le montant est peu élevé comme s'ils étaient émis au Canada.
+
+En l'absence d'un secteur approprié, déclarer le montant sur la ligne « Autres »
+
+Les SAV et SSM étrangères doivent déclarer tous les montants placés en fiducie.
+
+## Page 21.040 – Expositions importantes – Par groupe de compagnies
+
+Exclure les instruments dérivés ou les titres émis ou garantis par un gouvernement dont le facteur de pondération est de zéro aux fins des normes de suffisance du capital et les placements effectués pour les titulaires de comptes de fonds distinct.
+
+Les SAV et SSM étrangères doivent déclarer tous les montants placés en fiducie.
+
+Colonne 31 – Autres prêts et placements
+:   Inclure les créances, les garanties, les baux et les autres placements à court terme.
+
+Colonne 36 – Contrats de réassurance détenus
+:   Préciser le montant total du risque de crédit encouru par un réassureur ou par un groupe de réassurance. Cette exposition s'étend au passif cédé, aux sommes prises en dépôt par le réassureur en vertu de modalités de retenue de fonds ou autres de même type, et à tout montant dû et non payé.
+
+## Page 21.050 – Prêts hypothécaires
+
+Les SAV et SSM étrangères doivent déclarer tous les montants placés en fiducie.
+
+Ligne 110 – Unifamilial (UF)
+:   **À noter que la définition des hypothèques résidentielles diffère de celle utilisée aux fins des calculs du TSAV/ESCAP.**
+
+    Une hypothèque unifamiliale est garantie par un immeuble résidentiel, lequel s'entend d'un bien immeuble consistant en un bâtiment dont la majeure partie de la superficie habitable sert ou doit servir à des fins privées d'habitation.
+
+    Une résidence unifamiliale est un immeuble sans mur mitoyen qui est conçu pour être occupé par une seule famille.
+
+Ligne 160 – Multifamilial (MF)
+:   Déclarer tous les autres immeubles résidentiels sous « Multifamilial »
+
+Ligne 210 – Bureau (B)
+:   Hypothèques grevant des biens immobiliers constitués de bâtiments utilisés principalement comme bureaux.
+
+Ligne 260 – Commercial (C)
+:   Hypothèques grevant des biens immobiliers constitués de bâtiments utilisés principalement comme magasins de détail (comprend les centres commerciaux).
+
+Ligne 310 – Industriel (I)
+:   Hypothèques grevant des biens immobiliers constitués de bâtiments à vocation principalement industrielle, notamment à des fins d'entreposage ou de fabrication de produits.
+
+Ligne 360 – Hôtellerie (H)
+:   Inclure les hôtels, les motels, les hôtels à pavillon et les centres de villégiature.
+
+Ligne 410 – Autres (X)
+:   Inclure tous les autres types de biens immobiliers, y compris les terrains vagues.
+
+    Les prêts assurés sont ceux dont le montant exigible de l'emprunteur est garanti en cas de défaut de paiement par la Société canadienne d'hypothèques et de logement (SCHL), un autre organisme gouvernemental ou un assureur privé/une société privée.
+
+    Un prêt est dit restructuré lorsque le prêteur fait l'une des concessions suivantes qu'il n'effectuerait pas en d'autres circonstances :
+
+    1. un taux d'intérêt réduit;
+    2. le report ou le rééchelonnement sans compensation des remboursements de capital ou des paiements d'intérêt;
+    3. la renonciation d'une partie du capital ou de l'intérêt déjà échu;
+    4. l'acceptation d'actifs autres que des espèces en règlement d'un montant prêté qui excède le produit net estimatif généré par la vente de ces actifs;
+    5. toute autre condition avantageuse qui n'aurait pas été envisagée si la situation financière de l'emprunteur ne s'était pas détériorée.
+
+    Les arrérages sur prêts restructurés sont calculés d'après les modalités de la restructuration plutôt qu'en fonction des modalités initiales du prêt. Pour les prêts restructurés et les prêts en souffrance (plus de 90 jours) non considérés comme étant douteux, ils doivent être déclarés dans la colonne des prêts en souffrance.
+
+    Pour déterminer la colonne appropriée, la période d'arrérages correspond au nombre de jours écoulés depuis l'échéance du premier versement total ou partiel (capital ou intérêt, ou les deux) qui n'a pas été reçu selon les modalités du prêt à la date du relevé.
+
+    Les saisies en cours (lorsque la propriété n'a pas encore été cédée à l'assureur/la société) doivent être incluses dans les prêts hypothécaires.
+
+Colonne 11 - 31 des lignes 010 - 410 – Prêts insatisfaisants
+:   Déclarer le montant total des prêts hypothécaires **avant** provisions individuelles. Ne pas inclure dans les colonnes 11 à 16 des prêts qui pourraient être classés comme étant douteux. Ils devraient être déclarés dans la colonne 26 (voir ci-dessous).
+
+Colonne 21 – Prêts en souffrance (plus de 90 jours) pas considérés douteux
+:   Déclarer le montant de tous les prêts hypothécaires (y compris les prêts restructurés) en souffrance depuis plus de 90 jours, mais non considérés comme douteux.
+
+Colonne 26 – Prêts douteux
+:   Déclarer la valeur au bilan des prêts à l'égard desquels l'assureur/la société détient des provisions individuelles (montant brut des provisions). Ne pas inclure les prêts assurés.
+
+Ligne 710 – Hypothèques de deuxième rang et plus
+:   Ces données sont demandées à titre informatif. Elles sont déjà incluses aux lignes 010 à 410.
+
+## Page 21.060 – Prêts hypothécaires non assurés – 25 plus importants
+
+Énumérer les 25 plus importants prêts hypothécaires résidentiels et non résidentiels non assurés par ordre décroissant du solde du capital (brut, avant provisions).
+
+Se référer à la description des secteurs d'activités des biens immobiliers dans les instructions de la page 21.050.
+
+Les SAV et SSM étrangères doivent déclarer tous les montants placés en fiducie.
+
+Colonne 02 – Nom de l'emprunteur
+:   Le total des prêts hypothécaires non assurés accordés à un même emprunteur ou groupe d'emprunteurs liés doit être regroupé en un seul prêt aux fins de l'énumération des 25 plus importants prêts hypothécaires non assurés.
+
+Colonne 36 – Montant des engagements hypothécaires cumulatifs antérieurs
+:   Si le prêt hypothécaire accordé par l'assureur/la société n'est pas une hypothèque de premier rang sur le bien immobilier, inclure dans cette colonne le montant cumulatif de toutes les hypothèques et créances antérieures.
+
+Colonne 46 – Type de biens immobiliers
+:   Utiliser les définitions et les codes pour les biens immobiliers fournis à la page 21.050.
+
+Colonne 51 – Valeur de marché du bien
+:   Déclarer la valeur de marché du bien à la fin de l'exercice. Si le prêt est partagé avec d'autres prêteurs ayant un droit sur le bien, déclarer ici le montant obtenu en multipliant la valeur de marché du bien au prorata du prêt initial consenti par l'assureur/la société et le montant total du prêt initial.
+
+## Page 21.070 – Prêts hypothécaires – Répartition géographique
+
+Déclarer ici les montants bruts (avant provisions).
+
+Ce tableau indique la répartition des prêts hypothécaires selon le secteur d'activité et l'emplacement du bien donné en garantie.
+
+Les prêts assurés sont ceux dont le montant exigible de l'emprunteur est garanti en cas de défaut de paiement par la Société canadienne d'hypothèques et de logement (SCHL), un autre organisme gouvernemental ou un assureur privé/une société privée. La définition des secteurs d'activités des biens immobiliers se trouve à la page 21.050.
+
+Lignes 010 - 130 – Emplacement des biens
+:   Indiquer la valeur brute de tous les prêts au Canada selon la province ou le territoire où se trouve le bien garantissant le prêt. Déclarer tous les prêts assurés dans la colonne 01 et tous les prêts non assurés, selon le secteur d'activité du bien, dans les colonnes 06 à 36.
+
+Colonnes 51, 61 – Montants bruts dont le prêt est en souffrance depuis plus de 90 jours
+:   Le montant brut du capital (avant provisions) des prêts en souffrance depuis plus de 90 jours est à déclarer à la colonne 51 dans le cas des prêts assurés et à la colonne 61 pour les prêts non assurés.
+
+Colonne 70 – Total des provisions
+:   Déclarer le montant des provisions individuelles à l'égard du montant brut de tous les prêts déclarés à la colonne 41.
+
+## Page 21.075 – Assureurs constitués au Québec seulement – Prêts hypothécaires – Répartition géographique selon la région
+
+La page 21.075 doit être remplie par les assureurs à charte du Québec si les prêts hypothécaires relatifs à des biens situés au Québec représentent au moins 50 % de la valeur au bilan (avant provisions) des prêts hypothécaires totaux. Sinon, ils ne peuvent remplir que la page 21.070.
+
+Cette page s'adresse uniquement aux assureurs à charte du Québec. Les autres sociétés n'ont pas à la remplir. Cette page ne doit être produite qu'une fois par an.
+
+Les secteurs géographiques ont été déterminés à partir de regroupements des régions administratives du Québec. Les régions administratives du Québec sont les suivantes :
+
+* 01 Bas-Saint-Laurent
+* 02 Saguenay-Lac-Saint-Jean
+* 03 Capitale-Nationale
+* 04 Mauricie
+* 05 Estrie
+* 06 Montréal
+* 07 Outaouais
+* 08 Abitibi-Témiscamingue
+* 09 Côte-Nord
+* 10 Nord-du-Québec
+* 11 Gaspésie-Iles-de-la-Madeleine
+* 12 Chaudière-Appalaches
+* 13 Laval
+* 14 Lanaudière
+* 15 Laurentides
+* 16 Montérégie
+* 17 Centre-du-Québec
+
+Ces régions ont été regroupées comme suit :
+
+* Ligne 010 : régions 01-09-11 : Est du Québec
+* Ligne 020 : régions 02-08-10 : Nord-du-Québec
+* Ligne 030 : régions 03-12 : Québec – Beauce
+* Ligne 040 : régions 04-05-16-17 : Sud du Québec – Mauricie – Centre-du-Québec
+* Ligne 050 : régions 07-14-15 : Outaouais – Laurentides – Lanaudière
+* Ligne 060 : régions 06-13 : Montréal – Laval
+
+Lignes 010 - 060 – Emplacement des biens
+:   La valeur brute des prêts au Québec doit être répartie selon la région où se trouve le bien garantissant le prêt. Déclarer les prêts assurés dans la colonne 01 et ceux non assurés, selon le type de bien, dans les colonnes 06 à 36.
+
+## Page 21.080 – Immeubles de placements et immeubles pour propre usage et équipement
+
+**SAV et SSM :** Énumérer les dix biens les plus importants selon la taille (valeur marchande) et indiquer le total partiel pour tous les autres biens, y compris ceux vendus en cours d'exercice. Déclarer les actifs assortis d'un droit d'utilisation dans les lignes sur les actifs.
+
+**Assureurs du Québec :** Énumérer tous les biens dont la valeur au bilan dépasse 500 000 $, y compris ceux vendus en cours d'exercice.
+
+Pour les sociétés, cette page est réservée aux fonds d'assurances.
+
+Les SAV et SSM étrangères doivent déclarer tous les montants placés en fiducie.
+
+Les assureurs constitués sous le régime de l'Alberta doivent produire cette page tous les trimestres. Les autres sont tenus seulement de l'inclure dans leur relevé du quatrième trimestre.
+
+Colonne 06 – Type de biens immobiliers
+:   La description des secteurs d'activités des biens immobiliers et les codes à utiliser se trouvent dans les instructions de la page 21.050. Si un bien est utilisé à plus d'un usage (p. ex, comme bureau et commercial), le secteur d'activité sera déterminé en fonction de l'usage de la majeure partie de la superficie.
+
+Colonne 21 – Valeur au bilan au début de l'exercice
+:   Le montant indiqué à la ligne 899 de la colonne 21 doit correspondre à celui indiqué à la ligne 899 de la colonne 66 pour l'exercice précédent.
+
+Colonne 71 – Provisions individuelles cumulatives
+:   Déclarer les provisions individuelles constatées en regard de chaque bien. Inclure (entre parenthèses) le revirement des provisions individuelles.
+
+Ligne 099 – Tous les autres immeubles pour propre usage
+:   Déclarer le montant total de tous les autres immeubles pour propre usage non énumérés, y compris ceux vendus au cours de l'exercice.
+
+Ligne 929 – Total à l'exclusion de ceux détenus par des personnes morales contrôlées
+:   Cette ligne s'adresse uniquement aux SAV et SSM canadiennes.
+
+## Page 21.090 – Assureurs/sociétés détenant un permis au Québec – Immeubles de placement – Répartition géographique selon le secteur d'activité
+
+Cette page s'adresse uniquement aux SAV et SSM canadiennes détenant un permis au Québec. Cette page ne doit être produite qu'une fois par an.
+
+Ce tableau fournit une analyse de la valeur brute consolidée (avant provisions) des biens immobiliers, y compris les biens saisis et destinés à la vente. Le cas échéant, les charges immobilières ne doivent pas être déduites de la valeur des biens. Si un bien est utilisé à plus d'un usage (p. ex, comme bureau et commercial), le secteur d'activité sera déterminé en fonction de l'usage de la majeure partie de la superficie.
+
+Sauf dans le cas des biens détenus pour propre usage, les secteurs d'activités sont décrits dans les instructions de la page 21.050).
+
+## Page 21.095 – Assureurs constitués au Québec seulement – Immeubles de placement – Répartition géographique selon le secteur d'activité et la région
+
+Les assureurs du Québec doivent remplir la page 21.095 si le total de leurs biens immobiliers situés au Québec représente au moins 50 % de la valeur au bilan (avant provisions) des biens immobiliers totaux. Sinon, ils ne peuvent remplir que la page 21.090.
+
+Cette page s'adresse uniquement aux assureurs à charte du Québec. Les sociétés de secours mutuels canadiennes ne sont pas tenues de la remplir. Cette page ne doit être produite qu'une fois par an.
+
+Les secteurs géographiques ont été déterminés à partir de regroupements des régions administratives du Québec. Se référer à la page 21.075
+
+## Page 21.100 – Participations dans des entreprises associées et des coentreprises et autres prêts et placements
+
+Les SAV et SSM étrangères doivent déclarer tous les montants placés en fiducie.
+
+### Partie A – Participations dans des entreprises associées et des coentreprises
+
+Les investissements dans les fonds communs de placement, dans les fonds distincts et tout autre investissement de même nature ne devraient pas être déclarés ici.
+
+Énumérer les dix principales participations (sans égard à l'importance relative) aux lignes 001 à 010 et déclarer les montants à la colonne 06. Déclarer le total des autres participations à la ligne 019 de la colonne 06.
+
+### Partie B – Autres prêts
+
+Énumérer les autres prêts qui ne sont pas présentés ailleurs. Déclarer les dix principaux prêts (sans égard à l'importance relative) aux lignes 301 à 310. Déclarer le total des autres placements à la ligne 319 de la colonne 15.
+
+### Partie C – Autres placements
+
+Énumérer les autres placements et les placements à échéance déterminée qui ne sont pas présentés ailleurs. Déclarer les dix principaux placements (sans égard à l'importance relative) aux lignes 401 à 410. Déclarer le total des autres placements à la ligne 419 de la colonne 17.
+
+## Page 21.110 – Profil de risque des instruments dérivés
+
+Lignes 010-050, 210-250, 310-330 – Utilisé par l'assureur/la société – Part du risque
+:   À l'aide de la légende au bas de la page 21.110, préciser la part du risque qu'assume l'assureur-vie/la société lorsqu'il a recours à chaque type d'instrument dérivé. Si l'assureur/la société assume plus qu'une part du risque à l'égard d'un type donné d'instrument, chaque part du risque doit être déclarée. Par exemple, pendant un exercice visé, l'entité déclarante peut avoir été un négociant de swaps de taux d'intérêt qu'elle a également utilisés à des fins de couverture. Dans ce cas, en regard des swaps de taux d'intérêt, l'entité doit déclarer les parts du risque 1 et 2 à la ligne 030 de la colonne 02.
+
+Lignes 010-499 – Colonnes 07-37 – Principal notionnel brut à la fin de l'exercice
+:   Déclarer les montants consolidés à la colonne 07 et ceux non consolidés à la colonne 12. Pour les SSM, la colonne 12 s'applique seulement aux fonds d'assurances.
+
+Lignes 010-499 – Colonne 17 – Contrats hors cote
+:   Déclarer les montants notionnels se rapportant à tous les contrats hors cote sur instruments dérivés.
+
+Lignes 010-499 – Colonne 22 – Contrats détenus à des fins de transaction
+:   Déclarer les montants notionnels se rapportant à tous les contrats sur instruments dérivés détenus à des fins de négociation.
+
+Lignes 010-499 – Colonnes 27, 32, 37 – Échéance résiduelle
+:   Le principal notionnel total déclaré à la colonne 07 doit être ventilé entre les colonnes 27, 32 et 37 selon l'échéance résiduelle. La somme des montants de ces colonnes doit correspondre au montant déclaré à la colonne 07.
+
+Lignes 010-499 – Colonne 42 – Risque de crédit (Valeur positive selon la méthode d'évaluation au marché)
+:   Déclarer uniquement les montants se rapportant aux contrats comportant un risque de crédit (c.-à-d. une valeur positive selon la méthode d'évaluation au marché).
+
+Ligne 550 – Colonne 42 – Rajustement en fonction des accords-cadres de compensation
+:   Déclarer tout rajustement en fonction des accords-cadres de compensation qui **ne sont pas** reconnus en vertu des normes comptables pertinentes parce qu'il n'est pas prévu de régler au net ou de liquider un actif et de régler l'engagement au même moment.
+
+Lignes 010-499 – Colonne 47 – Montant de l'équivalent-crédit
+:   **SAV et SSM :** Le montant de l'équivalent-crédit est déterminé par la ligne directrice [TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes").
+
+    **Assureurs du Québec :** Le montant de l'équivalent-crédit est déterminé par la ligne directrice ESCAP.
+
+Colonne 12 – Principal notionnel de l'assureur/fonds d'assurance
+:   Cette colonne s'adresse uniquement aux SAV et SSM canadiennes.
+
+## Page 21.120 – Profil de risque des instruments dérivés – Engagements bruts/nets selon la méthode de l'évaluation au marché
+
+Lignes 010 - 099 – Total des engagements positifs nets selon la méthode d'évaluation au marché, d'après la cote de crédit et la catégorie de contrat
+:   Pour chaque cote de crédit et pour chaque catégorie de contrat, déclarer le total des engagements positifs nets avec la méthode d'évaluation au marché selon qu'il y a ou non un lien de dépendance avec la contrepartie. Le total des engagements positifs nets selon la méthode d'évaluation au marché correspond à la somme de tous les engagements individuels positifs selon la méthode d'évaluation au marché (sauf lorsqu'une compensation des engagements négatifs selon la méthode d'évaluation au marché envers la même contrepartie est permise).
+
+Lignes 110 - 199 – Total des engagements positifs bruts selon la méthode d'évaluation au marché, d'après la cote de crédit et la catégorie de contrat
+:   Pour chaque cote de crédit, déclarer le total des engagements positifs bruts pour chaque catégorie de contrat avec la méthode d'évaluation au marché selon qu'il y a ou non un lien de dépendance avec la contrepartie.
+
+    L'engagement positif brut d'après la méthode d'évaluation au marché est le montant des engagements avant compensation. Ne pas déclarer les contrats dont les engagements selon la méthode d'évaluation au marché est négatif.
+
+## Page 21.130 – Intérêts de groupe financier
+
+Cette page s'adresse uniquement aux SAV et SSM canadiennes.
+
+Veuillez consulter votre principal organisme de réglementation pour connaître ses exigences.
+
+Le seuil d'importance relative est fixé à 1 % des capitaux propres consolidés de l'assureur/la société.
+
+La notion d'intérêt de groupe financier est définie à l'article 10 de la Loi sur les sociétés d'assurances.
+
+Colonne 07 – Participation directe ou indirecte
+:   Préciser s'il s'agit d'une participation directe ou indirecte (par le biais de filiales).
+
+Colonne 12 – Date d'acquisition
+:   Si l'assureur/la société a investi dans une société donnée sur une certaine période, préciser la date de chaque opération d'acquisition d'actions.
+
+Colonne 37 – Garanties
+:   Déclarer la valeur nominale des garanties.
+
+Colonnes 42, 47 – Actif total de la société / Capital-actions de la société
+:   Déclarer la valeur de l'actif total et des capitaux propres de la société à la fin du plus récent exercice.
+
+## Page 21.140 – Principaux emplacements de l'encaisse et des actifs investis (à l'exclusion des biens immobiliers)
+
+Cette page s'adresse uniquement aux SAV et SSM canadiennes.
+
+Les SAV et SSM doivent indiquer l'emplacement des actifs investis selon la nature de l'actif. Cette expression désigne des catégories générales comme les obligations, les actions ordinaires, etc. Les actifs détenus dans les locaux de la SAV ou SSM situés à l'étranger doivent être déclarés et l'adresse de l'emplacement doit être fournie.
+
+Les actifs placés auprès d'un organisme de réglementation à l'étranger doivent être déclarés.
+
+Fournir le lieu de conservation des documents juridiques relatifs aux prêts hypothécaires.
+
+## Page 21.150 – Débiteurs – Sociétés affiliées, filiales, entreprises associées et coentreprises
+
+Les comptes débiteurs doivent être ventilés de manière à distinguer les comptes courants, les sommes exigibles des filiales ou les apparentés et les autres postes représentant un montant substantiel.
+
+Dresser la liste des montants d'assurance à recevoir d'apparentés aux lignes 310 à 370. La ligne 550 est réservée pour les montants non liés aux activités d'assurance à recevoir d'apparentés (par exemple, coût des services connexes au titre de l'IFRS 15 et de l'IFRS 16, centres d'appels et gestion des TI).
+
+## Page 22.010 – Actifs/passifs découlant des contrats d'assurance émis et des contrats de réassurance détenus par secteurs d'activités – Canada et États-Unis
+
+Le tableau rend compte de la valeur des actifs et des passifs liés à des polices ou à des certificats émis et à des contrats de réassurance détenus. Il ne porte que sur les contrats d'assurance.
+
+Pour les trois sections – Vie et Rente, tant individuelle que collective, les montants inscrits des contrats de réassurance détenus doivent comprendre toutes les activités de réassurance exercées par l'entité, déclarées de façon uniforme avec les autres tableaux du présent relevé.
+
+Les actifs/passifs découlant des contrats d'assurance émis d'un territoire doivent se rapporter aux polices/certificats émises aux résidents de ce territoire.
+
+Les montants inscrits au titre des contrats de réassurance détenus doivent inclure la réassurance auprès d'assureurs/de sociétés que l'organisme de réglementation n'a pas encore approuvées (pour laquelle aucun crédit n'a été accordé en vertu de la [ligne directrice TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes")/ESCAP).
+
+Pour les réassureurs, les rétrocessions doivent être considérées comme des cessions.
+
+Colonnes 11 et 13 – États-Unis
+:   Ces colonnes s'adressent uniquement aux SAV et SSM canadiennes.
+
+Lignes 610 et 630 – Assurance multirisques
+:   Ces lignes s'adressent uniquement aux SAV et SSM canadiennes.
+
+Lignes 819 et 869 – Total
+:   Ces lignes s'adressent uniquement aux SAV et SSM canadiennes.
+
+## Page 22.020 – Actifs/passifs découlant des contrats d'assurance émis et des contrats de réassurance détenus – Sommaire
+
+Cette page s'adresse uniquement aux SAV et SSM canadiennes.
+
+Ligne 369 – Colonnes 01 + 11 – Total général – Contrats de réassurance détenus
+:   Les montants doivent être conformes aux contrats de réassurance détenus déclarées à la page 45.060. Les montants excluent les contrats de réassurance avec participation.
+
+## Page 22.030 – Provisions, charges à payer et autres éléments de passif
+
+Ligne 230 – Dividendes aux actionnaires, déclarés, mais non versés
+:   Cette ligne s'adresse uniquement aux SAV et SSM canadiennes.
+
+Ligne 290 – Autres
+:   Inclure les provisions au titre des avantages sociaux, du passif de contrats de location et d'autres éléments.
+
+## Page 22.040 – Assureurs/sociétés détenant un permis au Québec – Dettes subordonnées comprises dans le TSAV/ESCAP à la fin de l'exercice
+
+Seules les SAV et SSM canadiennes détenant un permis au Québec doivent remplir ce tableau. Cette page ne doit être produite qu'une fois par an.
+
+Les dettes subordonnées au droit de paiement du passif des polices/certificats au sens de la loi sont à déclarer ici dans le cas des titres de créance qui font partie du capital aux fins du TSAV/ESCAP (voir la [ligne directrice TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes")/ESCAP pour de plus amples renseignements à ce sujet).
+
+Déclarer séparément les titres émis par l'assureur-vie/la société et ceux émis par les filiales, et énumérer séparément les propriétaires bénéficiaires (particuliers et sociétés) qui détiennent au moins 5 % du total des dettes subordonnées. Ne pas utiliser de prête-nom, particulièrement dans le cas des détentions représentant plus de 10 % du total.
+
+Déclarer le total des dettes subordonnées à la colonne 01. À la colonne 17, le solde réputé faire partie du TSAV/ESCAP doit être amorti, au besoin, en fonction des termes à courir de cinq ans ou moins conformément à la [ligne directrice TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes")/ESCAP.
+
+Les montants doivent être nets des écritures d'élimination découlant de la consolidation.
+
+Ligne 799 – Colonne 17 – Total – Solde réputé faire partie du TSAV/ESCAP
+:   Ce montant doit correspondre à celui indiqué pour le calcul du [TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes")/ESCAP.
+
+## Page 23.010 – Rendement d'investissement
+
+Déclarer le revenu de placements après ajustement pour intérêt ou dividendes courus compris dans le coût des placements acquis ou vendus au cours de l'exercice.
+
+Déclarer le revenu de placements couru.
+
+Ligne 150 – Obligations
+:   Inclure l'amortissement de la prime ou de l'escompte et l'intérêt gagné sur les obligations et les débentures au cours de l'exercice.
+
+Ligne 310 – Revenus de location, y compris \_\_\_\_\_\_\_\_ $ pour l'usage de l'assureur/la société
+:   Déclarer le revenu brut, **y compris un loyer imputé pour les locaux dont l'assureur est propriétaire et qu'il utilise pour son propre usage**.
+
+    Cette ligne comporte trois données : Exercice courant (colonne 01), Exercice précédent (colonne 03) et une donnée en retrait (colonne 99). Cette dernière, libellé « Revenu de location, y compris \_\_\_\_\_\_\_\_ $ pour l'usage de l'assureur/la société », figure au bas de la page.
+
+    Les montants déclarés doivent tenir compte des écritures d'élimination découlant de la consolidation. Les dépenses au titre des biens immobiliers (sauf le loyer imputé) relatives aux immeubles pour propre usage doivent être déclarées à la ligne 810. L'impôt foncier doit être déclaré à la ligne 820.
+
+Ligne 820 – Taxes sur le revenu de placements
+:   Inclure l'impôt foncier sur les biens immobiliers qu'ils soient pour propre usage ou non, les autres taxes (sauf l'impôt sur le revenu), les licences et les honoraires encourus pour la gestion des placements.
+
+## Page 23.015 – Charges afférentes aux activités d'assurance et autres frais d'exploitation
+
+Ce tableau doit être rempli selon les charges engagées pour toutes les charges, en indiquant le montant total par type de charge des lignes 010 à 340 et le montant total présenté aux lignes 420 et 440 respectivement pour les charges afférentes aux activités d'assurance et autres frais d'exploitation.
+
+## Page 23.025 – Commissions
+
+Toutes les commissions qui font partie des flux de trésorerie dans le cadre d'un contrat d'assurance et qui sont directement liées à l'exécution dudit contrat doivent être incluses. Les sociétés d'assurance fédérales doivent déclarer le total des commissions engagées par catégories d'assurance à la ligne 799, pour les flux de trésorerie liés aux frais d'acquisition, ainsi que toutes les autres commissions engagées.
+
+## Page 23.035 – Autres produits
+
+Ligne 010 – Revenu d'honoraires afférents aux fonds distincts
+:   Cette ligne comprend les honoraires des fonds distincts des contrats d'investissement et des fonds distincts des autres types de contrats.
+
+## Page 23.045 – Produits nets afférents aux contrats de réassurance détenus
+
+Pour le moment, déclarer les charges nettes afférentes aux activités de réassurance – contrats évalués selon la méthode de la répartition des primes à la ligne 110 « Autres charges engagées directement attribuables ». Le BSIF ajustera ce tableau dans la prochaine version et intégrera la ligne « Charges nettes afférentes aux activités de réassurance – contrats évalués selon la méthode de la répartition des primes » au niveau des lignes de 105 à 150.
+
+## Pages 35.015 - 35.025 – Analyse des résultats par secteurs d'activités – Canada / Hors du Canada
+
+Se reporter aux instructions concernant l'état des résultats à la page 20.022 pour de remplir ces pages.
+
+L'état des résultats doit être ventilé selon les territoires étrangers (É.-U., Europe et Asie / Autre) siles critères d'importance relative suivants sont rencontrés :
+
+1. l'actif du territoire étranger est supérieur à 5 % de l'avoir consolidé;
+2. les revenus du territoire sont supérieurs à 5 % des revenus consolidés. Les SAV et SSM peuvent inclure les territoires peu importants sous « Asie / Autre ». Cependant, si un assureur/société a des opérations négligeables à l'extérieur du Canada, il doit déclarer les territoires où les résultats sont non significatifs à la rubrique « Canada ».
+
+### Ventilation territoriale
+
+**Europe** – Belgique, France, Allemagne, Irlande, Italie, Pays-Bas, etc., et Royaume-Uni composé de la Grande-Bretagne (Angleterre, pays de Galles, Écosse) et Irlande du Nord.
+
+**Asie / Autre** – Bermudes, Caraïbe, Chine, Hong Kong, Inde, Indonésie, Japon, Corée, Malaisie, Mexique, Philippines, Singapour, Thaïlande, etc.
+
+## Page 35.015 – Analyse des résultats par secteurs d'activités – Canada
+
+Colonne 25 – Excédent sans participation
+:   Cette colonne s'adresse uniquement aux SAV et SSM canadiennes.
+
+Colonne 45 – Assurance multirisques
+:   Cette colonne s'adresse uniquement aux SAV et SSM canadiennes.
+
+Colonne 50 – Acceptation des dépôts
+:   Cette colonne s'adresse uniquement aux SAV et SSM canadiennes.
+
+Colonne 55 – Compte du siège social
+:   Cette colonne s'adresse uniquement aux SAV et SSM étrangères.
+
+## Page 35.025 – Analyse des résultats par secteurs d'activités – Hors du Canada
+
+Cette page s'adresse uniquement aux SAV et SSM canadiennes.
+
+## Page 35.035 - 35.065 – Taux sans risque et primes de liquidité ou taux d'actualisation par secteurs d'activités – Canada et É.-U. – À l'intention des assureurs utilisant une approche ascendante ou descendante
+
+L'IFRS 17 décrit deux méthodes pour déterminer les taux d'actualisation des flux de trésorerie qui ne varient pas en fonction des rendements d'éléments sous-jacents, à savoir l'approche ascendante (paragraphe B80) et l'approche descendante (paragraphes B81 à B85).
+
+Au sens du paragraphe B80, l'approche ascendante consiste à déterminer les taux d'actualisation en ajustant une courbe de taux sans risque liquides pour tenir compte des caractéristiques de liquidité des contrats d'assurance.
+
+Les taux d'intérêt sans risque, les primes de liquidité ou les taux d'actualisation déclarés sur cette page sont les taux qui ont été appliqués à l'estimation des flux de trésorerie futurs et les flux de trésorerie.
+
+Les courbes de taux d'actualisation d'une entité donnée peuvent être exprimées sous forme de taux à terme ou de taux au comptant. Le BSIF s'attend à ce que l'entité déclare les courbes de taux d'actualisation selon le format « taux au comptant » dans les tableaux et indique la mention « Taux au comptant » à la ligne 250, colonne (01) des annexes. Si des courbes de taux à terme sont utilisées, veuillez les convertir en courbes de taux au comptant aux fins de la déclaration dans ces annexes.
+
+Ces taux devraient correspondre aux taux de la tranche la plus illiquide pour chaque secteur d'activités.
+
+Par exemple, s'il y a deux tranches liquides dans un secteur d'activité, les taux de la tranche la plus illiquide devraient être fournis.
+
+S'il y a plus d'une courbe illiquide dans la tranche la plus illiquide, l'assureur peut utiliser une courbe mixte. Les taux doivent être exprimés en pourcentage, à deux décimales près.
+
+Les cellules doivent être laissées vierges dans les cas suivants (c.-à-d. n'y saisir aucun zéro ni aucune autre valeur) : les lignes d'affaires ne sont pas souscrites par l'assureur ou la durée du passif est inférieure aux années de projection indiquées dans le tableau.
+
+## Page 35.075 – Actif et passif – au Canada / Sommaire de l'actif et du passif – selon le territoire
+
+Cette page s'adresse uniquement aux SAV et SSM canadiennes.
+
+Consulter également les instructions pour les pages 20.002 et 20.004.
+
+Déclarer les actifs placés en fiducie en fonction du territoire dans lequel ils sont placés en fiducie.
+
+Les provisions techniques pour des contrats d'assurance au Canada, sont établies en fonction d'une police/le certificat sur la vie d'une personne résidant au Canada à la date de l'émission. Les provisions techniques pour les contrats d'assurance dans un territoire (autre que le Canada) sont établies en fonction des polices/certificats émises dans ce territoire. Les autres passifs doivent aussi être attribués au territoire où le risque se situait.
+
+Les actifs et les passifs d'un territoire n'ont pas à être déclarés séparément lorsque les montants de l'actif et du passif sont inférieurs à 5 % de l'avoir consolidé ou que le revenu de ce territoire est inférieur à 5 % du revenu consolidé. Dans ces situations, les montants de l'actif et du passif peuvent être déclarés à la rubrique « Asie/ Autre », si l'assureur-vie/la société a des activités importantes en dehors du Canada; autrement, le montant de l'actif et du passif doit être déclaré à la rubrique « Canada ».
+
+## Page 35.080 – Actif liquide et passif à vue – Selon le territoire
+
+Les dettes encaissables s'apparentent aux sommes pour lesquelles le titulaire de la police/le certificat détient auprès de l'assureur/la société, une option de retrait exerçable au cours des douze prochains mois. Cela comprend les conventions de réassurance résiliables pouvant entraîner le paiement de sommes en espèces à l'autre société ainsi que toute dette venant à échéance au cours des 12 prochains mois.
+
+Les actifs liquides sont ceux qui peuvent être négociés contre de l'argent comptant sur un marché public et qui, de ce fait, permettent de faire face à toute obligation imposée par un titulaire de police/certificat ou par une personne possédant un titre de créance. La valeur de l'actif peut inclure ou non les intérêts courus.
+
+La séparation des actifs entre « Canada » et « à l'extérieur du Canada » doit reposer sur l'endroit où les actifs sont détenus. Déclarer les actifs placés en fiducie relatifs à un territoire en particulier dans le territoire où ils sont placés en fiducie.
+
+Les SAV et SSM étrangères doivent déclarer tous les actifs liquides placés en fiducie.
+
+Colonnes 01 et 06 – Au Canada / Hors du Canada
+:   Ces colonnes s'adressent uniquement aux SAV et SSM canadiennes.
+
+## Page 45.060 – Contrats de réassurance détenus
+
+Inclure une provision dans le calcul du [TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes")/ESCAP en cas de cession de réassurance à des SAV et SSM non agréés et que le principal organisme de réglementation n'a pas approuvé les modalités de l'opération (ou n'a pas accordé de crédit en réduction des composantes du [TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes")/ESCAP.
+
+Le BSIF tient une liste d'assureurs provinciaux approuvés qui ne sont pas agréés au fédéral et qu'il autorise à effectuer des opérations de réassurance. Les cessions à ce type d'assureurs doivent être déclarées comme de la réassurance approuvée.
+
+### Types de réassurance
+
+La définition des types de réassurance se trouve à la section III, Définitions.
+
+Lignes 799 et 920
+:   Ces lignes s'appliquent uniquement aux SAV et SSM canadiennes.
+
+## Page 60.010 – Fonds distincts – Actif net
+
+La page Fonds distincts – Variation de l'actif net ne tient pas compte des capitaux de lancement, qui sont plutôt inclus sous Autres prêts et placements.
+
+## Page 60.010 – Fonds distincts – Variation de l'actif net
+
+Ligne 410 – Actif net des fonds distincts, au début de l'exercice
+:   Déclarer tout ajustement du solde de clôture de l'exercice précédent à l'une des lignes vierges (590, 620, 770 ou 810) et fournir une description appropriée.
+
+Ligne 500 – Intérêts et dividendes
+:   Exclure les dividendes payés aux titulaires de polices/certificats.
+
+Ligne 530 – Transferts nets du Fonds général (montants transférés aux fins de garantie \_\_\_\_\_\_\_\_ $)
+:   Cette ligne comporte trois données : Exercice courant (colonne 01), Exercice précédent (colonne 03) et une donnée en retrait (colonne 99). Cette dernière, libellée « montants transférés aux fins de garantie \_\_\_\_\_\_\_\_ $ », figure au bas de la page.
+
+    Cette ligne vise à inscrire les virements de fonds entre les fonds distincts de l'assureur/société et le fonds général de ce dernier/cette dernière.
+
+Ligne 710 – Paiements aux titulaires de polices/certificats
+:   Déclarer tous les paiements aux titulaires de polices/certificats, y compris les dividendes et les montants payés au retrait ou au rachat de fonds investis dans des unités de fonds distincts.
+
+Ligne 740 – Frais de gestion et d'administration
+:   Inclure uniquement les frais de gestion et d'administration payés par le fonds distinct.
+
+    Inclure aux lignes 770 et 810 les frais payés par les fonds distincts à des tiers en contrepartie de services comme des conseils en placements ou à titre de droits de garde ou de frais afférents aux opérations de placements. Fournir une description adéquate.
+
+    Inclure les frais de gestion payés au fonds général à titre de dépenses du fonds distinct; ne pas les appliquer en réduction d'autres opérations du fonds général.
+
+## Page 60.020 – Variation de l'actif net des capitaux de lancement pour l'exercice
+
+Se reporter au chapitre 8.4 de la ligne directrice TSAV pour consulter la définition des sept catégories d'actif.
+
+Colonne 21 – Virements additionnels du fonds général
+:   Inclure les dépôts de titulaires de polices/certificats reçus au cours de l'exercice. Les transferts de capitaux de lancement effectués par un assureur ou une société au cours de l'exercice sont plutôt saisis dans **Autres prêts et placements**.
+
+## Page 60.030 – Actif net des fonds distincts et positions dans le cours – Selon le type de garantie à l'échéance
+
+Lignes 110 - 889
+:   Si plusieurs garanties de produits ou taux de bonification s'appliquent à un fonds, choisir la garantie ou le taux pour lequel l'actif net est le plus élevé.
+
+    Pour les lignes 110 à 310, déclarer les fonds avec une garantie à l'échéance inscrits aux lignes 210 et 310. Déclarer tous les autres fonds à la ligne 110. Pour les lignes 610 à 650, déclarer les fonds avec une garantie à l'échéance inscrits aux lignes 620 à 650. Déclarer tous les autres fonds à la ligne 610.
+
+Ligne 110 – Fonds sans garantie
+:   Déclarer les fonds distincts sans garantie, y compris les produits individuels d'indemnités de décès. La valeur de l'actif net déclaré (colonne 02) est identique au montant de la ligne 610 (colonne 22).
+
+Ligne 210 – Fonds avec une garantie minimale (< 75 %)
+:   Déclarer les indemnités avec garantie minimale de 75 %. Pour les lignes 610 à 650, déclarer les fonds avec une garantie à l'échéance inscrits aux lignes 620 à 650. Déclarer tous les autres fonds à la ligne 610.
+
+Ligne 310 – Fonds avec une garantie minimale (> 75 %)
+:   Déclarer les indemnités versées à l'échéance avec garantie minimale de plus de 75 % et toutes les autres indemnités garanties versées du vivant.
+
+Colonne 07 – Actif net couvrant les polices/certificats émis au Canada
+:   Cette colonne s'adresse uniquement aux SAV et SSM canadiennes.
+
+    Les montants déclarés dans cette colonne correspondent à la valeur de l'actif net couvrant les titulaires de contrat qui ont acheté un contrat au Canada. Il ne s'agit pas de déclarer où les actifs sont conservés par le dépositaire. Puisque les capitaux de lancement transférés du fonds général ne sont pas couverts par l'émission d'une police/d'un certificat, l'actif net adossant les capitaux de lancement ne sont pas inclus dans cette colonne.
+
+Colonnes 12, 17 – Actif net couvrant les polices émises aux États-Unis / dans d'autres pays
+:   Ces colonnes s'adressent uniquement aux SAV et SSM canadiennes.
+
+    Les instructions qui précèdent visant la colonne 07 s'appliquent aux polices/certificats émis à l'extérieur du Canada.
+
+Ligne 410 - 530 – Fonds avec produits de retrait de prestations avec garantie minimale – Postes pour mémoire
+:   Les sommes déclarées aux lignes 410 à 530 sont un sous-ensemble des sommes déclarées aux lignes 210 et 310 relativement aux polices/certificats ou aux avenants avec garantie.
+
+Lignes 610 - 689 – Par tranche de maturité
+:   Les taux de bonification correspondent au pourcentage appliqué à l'assiette de l'indemnité avec retrait garanti lorsqu'aucun retrait n'est effectué, le cas échéant. Inclure tous les produits avec garantie à l'échéance.
+
+Lignes 720 - 789 – Colonne 31 – Expositions des fonds distincts – Position dans le cours
+:   La « position dans le cours » est le montant correspondant à l**'excédent du** (plus élevé de la garantie à l'échéance et de l'indemnité avec garantie de retrait minimum) **sur** la valeur de l'actif net, pour chaque contrat lorsque le montant est positif.
+
+## Page 60.040 - 60.050 – Questions afférentes aux fonds distincts
+
+Imbriquer les explications des réponses aux questions dans le fichier Excel spécial si l'espace prévu à cette fin est insuffisant.
+
+## Pages 70.002 - 70.042 – États financiers non consolidés
+
+Ces pages s'adressent uniquement aux SAV et SSM canadiennes.
+
+Aux fins des rapports pour le BSIF, ces pages ne sont soumises qu'une fois l'an.
+
+Aux fins des rapports pour l'AMF, les assureurs / sociétés détenant un permis au Québec sont tenus de soumettre ces pages pour les périodes de déclaration du T2 et du T4.
+
+Les assureurs provinciaux doivent soumettre ces pages sur une base trimestrielle.
+
+### Montants « Au Canada »
+
+L'actif, le passif et le revenu à l'étranger peuvent être inclus dans les montants « Au Canada » si le montant de l'actif et celui du passif représentent moins de 5 % de l'avoir non consolidé ou si le revenu à l'étranger représente moins de 5 % du revenu non consolidé.
+
+## Page 70.002 – Actif
+
+Voir aussi les instructions relatives à la page 20.002.
+
+### Au Canada
+
+La désignation des éléments d'actif « au Canada » est fonction de leur emplacement et des critères énumérés ci-dessous. Les éléments d'actif qui **ne répondent pas** à ces critères **ne doivent pas** être inclus (p. ex., l'encaisse et les dépôts détenus à l'étranger par le biais d'une institution financière canadienne et les placements dans des titres inscrits en compte détenus ou compensés par l'entremise d'une caisse de dépôt étrangère dont un assureur/une société fait **directement** partie).
+
+Déclarer les actifs placés en fiducie selon le territoire où ils sont placés.
+
+### Critères de l'actif au Canada
+
+L'encaisse et les dépôts détenus par l'entremise d'une institution financière au Canada sont à déclarer aux lignes 010 ou 040, selon le cas.
+
+Les éléments d'actifs suivants sont à déclarer dans les colonnes 11 et 13 (Au Canada) :
+
+* Placements dans des titres lorsque les instruments sont conservés au Canada (p. ex., dans les coffres de l'institution, auprès de la Caisse canadienne de dépôt de valeurs ou d'une autre institution financière au Canada).
+* Placements dans des titres inscrits en compte seulement détenus/compensés par le biais de la Caisse canadienne de dépôt de valeurs.
+* Placements dans des titres inscrits en compte conservés/compensés par le biais d'une caisse de dépôt étrangère (p. ex., la Depository Trust Company) dont une institution financière canadienne ou étrangère (nota : pour les **SAV et SSM fédérales**, une institution financière étrangère est définie au paragraphe 2(1) de la Loi sur les sociétés d'assurances)), agissant à titre de dépositaire de l'assureur/la société, est un membre direct de la caisse de dépôt étrangère (cela vaut également pour un sous-dépositaire qui est un membre direct de la caisse de dépôt étrangère).
+* Les éléments d'actif sont situés au Canada lorsque les preuves de leur propriété y sont également conservées.
+* Les prêts hypothécaires grèvent des biens situés au Canada lorsque les preuves attestant de la créance y sont également conservées.
+* Les autres prêts à des particuliers et à des sociétés résidant au Canada lorsque les preuves attestant de la créance sont également conservées au Canada.
+
+La déclaration du revenu de placements couru, des comptes débiteurs, des placements dans des filiales, des impôts futurs, de l'écart d'acquisition, des actifs incorporels et des autres éléments d'actif est fonction de l'endroit où est situé le bien. Déclarer ces éléments selon la juridiction où ils sont à recevoir ou à recouvrer. Si la répartition précise des éléments d'actif selon la juridiction impose un fardeau de déclaration indu à l'assureur/la société, il convient de les considérer comme étant situés au Canada, dans la limite où la valeur totale de ces éléments d'actif ne doit pas totaliser plus de 1 % de l'avoir de l'assureur/la société.
+
+## Page 70.004 – Passif, avoir des titulaires de polices et des actionnaires
+
+Voir les observations générales relatives aux pages 70.002 - 70.042 – États financiers non consolidés.
+
+Cette section s'adresse uniquement aux assureurs canadiens.
+
+Voir aussi les instructions relatives à la page 20.004.
+
+### Passif au Canada
+
+Pour calculer les provisions techniques pour des contrats d'assurance au Canada (ligne 010), les assureurs-vie doivent s'appuyer sur la police d'assurance vie d'une personne résidant au Canada à la date de l'émission.
+
+Seules les provisions techniques et le passif connexe liés aux polices situées au Canada portant sur une police d'assurance vie d'une personne résidant au Canada à la date de l'émission doivent être classés sous « Au Canada ». Les montants non matériels classés « à l'étranger » peuvent être considérés comme des montants au Canada s'ils respectent les critères d'importance relative. Le lieu de résidence du bénéficiaire d'une police ne doit pas être considéré dans la détermination de ce classement.
+
+Les autres éléments de passif des lignes 070 à 250 doivent être déclarés aux colonnes 11 et 13 s'il s'agit de passif en faveur des créanciers canadiens tel que défini par le plan comptable et les méthodes comptables de l'assureur. Lorsque la ventilation des éléments de passif de faible valeur entre les comptes au Canada et à l'étranger est indûment complexe, il convient de les déclarer parmi les éléments de passif « au Canada ». Cependant, la somme de ces éléments ne doit pas excéder 1 % de l'avoir propre de l'assureur-vie.
+
+La présentation, parmi les éléments de passif « au Canada », des dettes subordonnées à la ligne 280 et des autres dettes à la ligne 310, dépend des clauses sous-jacentes au titre de créance en question. Si la créance est payable à un créancier aux États-Unis, comme dans le cas d'un emprunt contracté pour financer des opérations aux États-Unis, il convient de la déclarer dans les colonnes 01 et 03, et non dans les colonnes « Au Canada ».
+
+## Page 70.012 et 70.013 – Conciliation des passifs (analyse par composante d'évaluation [contrats d'assurance non évalués selon la méthode de la répartition des primes - excluant les fonds distincts])
+
+Voir les observations générales relatives aux pages 70.002 - 70.042 – États financiers non consolidés.
+
+Voir aussi les instructions relatives aux pages 20.012 et 20.013.
+
+## Page 70.014 et 70.015 – Conciliation des passifs (analyse en fonction de la couverture restante et des sinistres survenus [tous les contrats d'assurance - excluant les fonds distincts])
+
+Voir les observations générales relatives aux pages 70.002 - 70.042 – États financiers non consolidés.
+
+Voir aussi les instructions relatives aux pages 20.014 et 20.015.
+
+## Page 70.016 et 70.017 – Conciliation des passifs (analyse des contrats de réassurance détenus par composante d'évaluation [contrats non évalués selon la méthode de la répartition des primes - excluant les fonds distincts])
+
+Voir les observations générales relatives aux pages 70.002 - 70.042 – États financiers non consolidés.
+
+Voir aussi les instructions relatives aux pages 20.016 et 20.017.
+
+## Page 70.018 et 70.019 – Conciliation des passifs (analyse des contrats de réassurance détenus selon la couverture restante et les sinistres survenus [tous les contrats - excluant les fonds distincts])
+
+Voir les observations générales relatives aux pages 70.002 - 70.042 – États financiers non consolidés.
+
+Voir aussi les instructions relatives aux pages 20.018 et 20.019.
+
+## Page 70.022 – État du résultat net
+
+Voir les observations générales relatives aux pages 70.002 - 70.042 – États financiers non consolidés.
+
+Voir aussi les instructions relatives à la page 20.022.
+
+## Page 70.036 – État du résultat net – Par fonds
+
+Cette page s'adresse uniquement aux assureurs à charte du Québec; les sociétés canadiennes n'ont pas à la remplir. Cette page doit être produite chaque trimestre.
+
+## Page 70.042 – Résultat global (perte) et cumul des autres éléments du résultat global (perte)
+
+Colonnes 01, 06, 11 et 16
+:   Ces colonnes s'adressent uniquement aux SAV et SSM canadiennes qui sont constitués dans la province du Québec.
+
+## Pages 75.010 et 75.020 – Placements dans des filiales – Partie A et Partie B
+
+Ces pages s'adressent uniquement aux SAV et SSM canadiennes.
+
+Déclarer le montant total investi dans chaque personne morale contrôlée et entités structurées. Déclarer les placements dans l'ordre suivant : Commencer par les actions privilégiées et ordinaires à la page 75.010, puis les obligations, les débentures, les prêts hypothécaires et les prêts et les avances à la page 75.020.
+
+Lister les entités dans l'ordre des personnes morales contrôlées suivi par les entités structurées et préciser à la colonne 01, sous la dénomination de l'entité, la nature des activités et une description de chaque type de placement (hypothèque de deuxième rang, p. ex.), de même que les détails requis dans les autres colonnes. Inscrire dans la dernière colonne de ces deux pages le bénéfice net (perte nette) déclaré par l'entité à la date du relevé de surveillance annuel (Relevé LF3).
+
+## Page 75.010 – Partie A – Actions privilégiées et ordinaires
+
+Colonnes 11, 31 – Date d'acquisition
+:   Un intervalle d'années est acceptable s'il y a lieu. (p. ex., 1982 à 2005).
+
+Colonnes 17, 34, 37 – Coût initial
+:   Déclarer en dollars canadiens en utilisant les taux de change historiques.
+
+    Déclarer l'écart d'acquisition à la colonne 34.
+
+## Page 75.020 – Partie B – Obligations, débentures, prêts hypothécaires, prêts et avances
+
+Colonne 11 – Date d'acquisition
+:   Un intervalle d'années est acceptable s'il y a lieu. (p. ex., 1982 à 2005).
+
+Colonne 20 – Taux de rendement
+:   Déclarer le taux d'intérêt annuel contractuel applicable au placement. S'il est variable, indiquer le taux en vigueur à ce moment.
+
+Colonne 23 – Placement initial
+:   Déclarer en dollars canadiens en utilisant les taux de change historiques.
+
+Colonne 32 – Date d'échéance
+:   Si plus d'une date d'échéance est possible (p. ex., dans le cas de prêts rachetables), indiquer la date de rachat utilisée pour calculer la valeur marchande déclarée à la colonne 29.
+
+## Page 75.030 – Passifs au titre des contrats d'assurance/contrats de réassurance détenus par secteurs d'activités – Au Canada
+
+Cette page s'adresse uniquement aux SAV et SSM canadiennes. Les chiffres doivent rendre compte de la valeur des actifs et des passifs liés à des polices ou certificats et à des contrats de réassurance détenus.
+
+Les provisions techniques cédées et nettes reflètent toutes les cessions en réassurance, y compris la réassurance auprès de sociétés non agréée qui n'a pas été approuvée ou pour laquelle un crédit en réduction des composantes du [TSAV](/fr/consignes/repertoire-consignes?keywords=Test%20de%20suffisance%20du%20capital%20des%20soci%C3%A9t%C3%A9s%20d%27assurance%20vie&category=All&publication_type=49&sector=All&items_per_page=50 "Répertoire de consignes")/ESCAP n'a pas été accordé par l'organisme de réglementation.
+
+Pour les sections Vie, Rente et Accident et maladie, tant individuelles que collectives, les montants inscrits en réassurance assumée et en réassurance cédée doivent comprendre toutes les activités de réassurance exercées par l'entité commerciale, déclarées de manière appropriée selon les secteurs d'activités conformément au montant déclaré net des secteurs d'activités ailleurs dans le relevé.
+
+Les provisions techniques au Canada doivent se rapporter à des polices/certificats sur la vie d'une personne résidant au Canada à la date de l'émission.
+
+## Page 75.040 – Analyse des montants d'assurance vie émis et en vigueur
+
+La réassurance doit être déclarée, qu'elle ait été acceptée ou cédée par des entités d'assurance vie ou de réassurance. La réassurance cédée doit être déclarée, qu'elle ait été cédée ou non à des réassureurs non agréés.
+
+Ligne 010 – Nouvelles émissions – Contrats d'assurance
+:   Déclarer les montants d'assurance vie individuelle et collective nouvellement émis selon que les polices sont avec ou sans participation.
+
+    Les polices/certificats doivent être déclarées sur cette ligne à compter de la date à laquelle l'assureur vie assume le risque.
+
+    Cette ligne ne doit pas englober l'assurance libérée ou prolongée en cas de rachat de polices/certificats (que le rachat ait eu lieu à la fin de la période différée ou à toute autre date), ni les polices/certificats qui représentent uniquement des transferts ou des modifications apportées à des polices/certificats.
+
+    Les polices/certificats émis avant la date des états financiers qui n'ont pas été pris ou annulés au cours de la période d'examen de dix jours ne doivent pas être inclus dans les nouvelles émissions. Si le système comptable considère ces nouvelles émissions comme des opérations achevées avant la fin de la période d'examen, il serait acceptable de renverser l'opération ou d'apporter une correction pour indiquer le montant réel des nouvelles polices/certificats pour lesquelles l'assureur-vie/la société assume le risque.
+
+    Déclarer sous « Nouvelles émissions – Individuelle » les polices/certificats individuels émis par suite du choix de l'option de conversion par le titulaire de police/certificat à son retrait d'une police d'assurance collective.
+
+Ligne 030 – Nouvelles émissions – Contrats de réassurance détenus
+:   Déclarer les montants des nouvelles cessions à l'égard de l'assurance individuelle et collective selon qu'il s'agit de polices/certificats avec ou sans participation.
+
+## Pages 75.075-75.085 – Sommaires des contrats de réassurance détenus par des réassureurs agréés et non agréés
+
+**Réassureurs/sociétés agréées et non agréés :** Voir la section III, Définitions.
+
+Colonne 01 – Nom du réassureur
+:   La raison sociale au complet du réassureur envers lequel l'assureur a une exposition de contrepartie. Le nom de la contrepartie doit être déclaré exactement comme il figure sur le contrat signé.
+
+Colonnes 02, 04, 06 et 08 – Code identification de l'agence de notation
+:   Le code identificateur particulier de l'agence de notation utilisé par AM Best, S&P ou d'autres agences de notation.
+
+    À inscrire pour toutes les agences de notation qui évaluent le réassureur.
+
+    Si non noté, inscrire « 1 » dans la colonne 8.
+
+Colonne 10 – Domicile du réassureur
+:   Le domicile où la contrepartie du réassureur est légalement constituée en société.
+
+    Utiliser les codes des pays à 2 lettres de la norme internationale définis dans [ISO 3166](https://www.iso.org/obp/ui/fr/#search) (Organisation internationale de normalisation).
+
+Colonne 15 – Juridiction du domicile du groupe du réassureur
+:   Domicile où le groupe ultime d'assurance constitué en société qui détient la contrepartie du réassureur est légalement constitué en société. Si la contrepartie n'appartient pas à un groupe, ne rien inscrire dans cette colonne.
+
+    Utiliser les codes des pays à 2 lettres de la norme internationale définis dans [ISO 3166](https://www.iso.org/obp/ui/fr/#search) (Organisation internationale de normalisation).
+
+Colonne 20 – Pays où se situe le risque
+:   Indiquer le ou les pays auxquels les passifs se rapportent.
+
+    Utiliser les codes des pays à 2 lettres de la norme internationale définis dans [ISO 3166](https://www.iso.org/obp/ui/fr/#search) (Organisation internationale de normalisation).
+
+Colonne 49 – Total des charges nettes afférentes aux contrats de réassurance détenus
+:   Le total des charges nettes afférentes aux contrats de réassurance détenus déclarés doit correspondre au montant déclaré à la ligne 120 de la colonne 1 de la page 20.022.
+
+Colonne 59 – Total du solde des contrats de réassurance détenus
+:   Le total des actifs pour la couverture restante et les sinistres survenus déclarés (pour la réassurance agréée et la réassurance non agréée réunies) doit correspondre au montant déclaré à la ligne 599 de la colonne 19 de la conciliation des passifs (page 20.018).
+
+Colonne 60 – Montants à recevoir des réassureurs
+:   Inclure toutes les sommes à recevoir, déduction faite des provisions pour créances douteuses.
+
+Colonne 65 – Montants à payer aux réassureurs
+:   Inclure les fonds, autres que ceux à des fins de sûretés, détenus dans le compte bancaire de l'assureur.
+
+## Page 75.075 – Sommaire des contrats de réassurance détenus – Réassureurs agréés
+
+Indiquer les montants uniquement au niveau de la contrepartie du réassureur, et non par contrat; par conséquent, pour chaque réassureur, additionner les montants de tous les contrats détenus de ce réassureur et les regrouper en un seul total pour chaque ligne.
+
+Indiquer uniquement les 10 plus importants réassureurs agréés par passifs et regrouper tous les autres réassureurs agréés restants dans la ligne « Autre ».
+
+## Page 75.085 – Sommaire des contrats de réassurance détenus – Réassureurs non agréés
+
+Indiquer les montants par contrat.
+
+Indiquer tous les contrats détenus associés à un réassureur non agréé; insérer des lignes au besoin.
+
+Colonne 25 – Branches d'assurance couvertes
+:   Risque cédé de la branche d'assurance sous-jacente. Par exemple : assurance vie entière, fonds distincts, rentes, etc.
+
+Colonne 30 – Type de contrat
+:   Type de contrat de réassurance utilisant les codes suivants à deux lettres :
+
+    * YR – Assurance temporaire à reconduction annuelle
+    * CO – Coassurance
+    * MC – Coassurance modifiée
+    * CT – Catastrophe
+    * SL – Réassurance en excédent de pertes
+    * OT – Autre
+
+Colonne 35 – Date d'entrée en vigueur ou de la dernière modification du contrat
+:   Indiquer la date d'entrée en vigueur initiale du contrat, sauf si ce dernier a fait l'objet de modifications substantielles. Dans ce dernier cas, indiquer la date de la plus récente révision du contrat.
+
+Colonnes 70 à 89 – Sûreté en réassurance
+:   N'inclure, dans la colonne 70, que les dépôts n'appartenant pas à l'assureur détenus dans un CSR. Les autres dépôts n'appartenant pas à l'assureur et détenus dans un CSR doivent être déclarés dans la colonne 75.
+
+    Les dépôts qui n'appartiennent pas à l'assureur et qui sont détenus pour le compte d'un réassureur non agréé doivent être évalués à la valeur de marché à la date de clôture, incluant le revenu de placement à payer et couru au titre de ces dépôts.
+
+### Pour les sociétés d'assurance fédérales
+
+Les dépôts n'appartenant pas à l'assureur ne peuvent être déclarés dans la colonne 70 que si une sûreté valide et réalisable a été constituée par l'établissement d'un contrat de sûreté en réassurance (CSR) visant la réassurance non agréée.
+
+Voir la [Directive sur les contrats de sûreté en réassurance](/fr/donnees-formulaires/demandes-approbations/directive-sur-contrats-surete-en-reassurance "Directive sur les contrats de sûreté en réassurance") et la ligne directrice TCM pour plus de détails.
+
+### Pour les sociétés d'assurance constituées dans une province où le régime des contrats de sûreté en réassurance (CSR) ne s'applique pas
+
+À remplir uniquement si un compte en fiducie spécial sous l'autorité du principal organisme de réglementation a été établi, auprès d'une société de fiducie canadienne relativement à la réassurance non agréée, aux termes d'un acte de fiducie prescrit par l'organisme de réglementation.
+
+Colonne 80 – Sûreté en réassurance – Fonds détenus
+:   Primes de réassurance détenues par la société cédante ainsi que spécifiées dans le contrat de réassurance (par exemple, les fonds détenus correspondent aux primes non gagnées et aux réserves pour sinistres en suspens) ou avances du réassureur à la société cédante pour le paiement des sinistres.
+
+Colonne 85 – Sûreté en réassurance – Montant des lettres de crédit
+:   Pour plus de renseignements sur les lettres de crédit, consulter la [section V – Normes administratives](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-vie-section-v-normes-administratives "Relevés d’assurance vie – Section V – Normes administratives").
+
+    Les assureurs vie sont invités à consulter les [Lignes directrices générales sur l'utilisation de lettres de crédit](/fr/donnees-formulaires/demandes-approbations/lignes-directrices-generales-sur-lutilisation-lettres-credit "Lignes directrices générales sur l’utilisation de lettres de crédit") qui se trouvent sur le site Web du BSIF.
+
+## Page 80.010 – Assureurs constitués au Québec seulement – Fonds distincts – Actif net
+
+Voir les instructions relatives à la page 60.010.
+
+Seuls les assureurs à charte du Québec doivent remplir cette page. Cette page ne doit être produite qu'une fois par an.
+
+## Page 95.010 – Tableaux des primes souscrites par province et territoire
+
+Remplir les colonnes sur les provinces et territoires 01 à 13 d'après le lieu de résidence actuel du titulaire de police/de certificat individuel ou du titulaire de certificat d'assurance collective, sans égard au lieu d'émission du contrat. Déclarer les primes sur la base des polices souscrites pour toutes les colonnes. Pour plus de détails sur ces colonnes et sur la colonne 18 (« Divers »), se reporter aux instructions ci-après.
+
+Exclure les primes des fonds distincts.
+
+Inclure les transferts (rachats) provenant de fonds distincts.
+
+Dans le cas des polices/certificats d'assurance accident et maladie et des polices/certificats d'assurance vie, déclarer les primes sans déduction des participations des titulaires de polices/certificats et des ristournes d'expérience.
+
+Les primes directes souscrites s'entendent du total des primes reçues, et des primes exécutoires que la société d'assurance s'attend à recevoir directement sans égard à leur comptabilisation pendant une période donnée. Cela comprend les primes facturées directement par les assureurs pour les nouvelles ventes ou les renouvellements de polices pendant une période donnée. Les primes directes souscrites ont trait aux polices émises par les assureurs.
+
+Colonnes 01 à 13 – Agrément O/N
+:   Inscrire « Oui » si l'assureur/la société détient un permis délivré par la province ou le territoire en question.
+
+Colonnes 01-13
+:   Dans le cas de contrats souscrits directement et partagés, qu'il s'agisse de contrats émis au Canada ou la partie canadienne de contrats collectifs émis à l'étranger, tenir à jour la liste des adresses actuelles des détenteurs de certificats de polices collectives. Des registres comportant les adresses des détenteurs de certificats de polices collectives doivent être mis à la disposition des vérificateurs ou des organismes de réglementation.
+
+Colonne 18 – Divers
+:   Inscrire le montant de la prime relative à un titulaire de police/de certificat qui déménage du Canada à l'étranger.
+
+    Inscrire les montants dont l'emplacement du risque n'est pas déterminé, par exemple, une protection collective.
+
+Colonne 28 – Hors du Canada
+:   Déclarer l'ensemble des polices/certificats **souscrits** à l'étranger.
+
+    Si un assureur/une société canadien(ne) n'est pas autorisé(e) à souscrire de polices/certificats à l'étranger, aucune entrée n'est requise, sauf en ce qui concerne les acceptations en réassurance, le cas échéant.
+
+    Dans le cas des SAV et SSM étrangères, le montant total (abstraction faite des fonds distincts) se rapportant aux risques assurés au Canada doit être déclaré en fonction du **lieu de résidence actuel** du titulaire de police/certificat individuel ou du titulaire de certificat d'assurance collective. Les risques assurés au Canada alors que le lieu de résidence actuel est situé à l'extérieur du Canada sont à déclarer à la colonne 28, Extérieur du Canada.
+
+## Page 98.060 – Assureurs/sociétés étrangers détenant un permis au Québec – Risques situés au Québec (selon l'emplacement du risque)
+
+Ces pages s'adressent uniquement aux SAV et SSM étrangères. Cette page doit être produite chaque trimestre.
+
+### But
+
+Déclarer tous les risques situés au Québec, assurés au Canada et hors Canada, selon leurs secteurs d'activités.
+
+### Observations générales
+
+La page 98.060 a été produite par l'Autorité des marchés financiers (l'« Autorité ») suite aux modifications apportées à la Partie XIII de la Loi sur les sociétés d'assurances, L.C. 1991, c. 47 (la « LSA ») entrées en vigueur le 1er janvier 2010.
+
+Les modifications du cadre réglementaire canadien font en sorte que les assureurs étrangers ne doivent désormais déclarer, dans l'état annuel LF, que les risques de la société assurés au Canada. Aux termes de la Partie XIII de la LSA, les déclarations réglementaires concernant les activités d'une entité étrangère doivent maintenant être faites en fonction du lieu d'assurance (lieu de vos activités commerciales), plutôt que de l'emplacement du risque.
+
+L'Autorité précise que l'encadrement de vos activités au Québec repose sur la définition d'« assureur », à l'article 1a) de la Loi sur les assureurs, RLRQ c. A-321 (la « LA »), laquelle définition n'a pas été modifiée. Ainsi, les modifications apportées à la LSA ne changent en rien l'obligation des entités étrangères de se conformer aux exigences provinciales.
+
+Tel que précisé à l'article 74 de la Loi, tout assureur doit maintenir des actifs permettant de garantir l'exécution de ses engagements au Québec. Ces pages visent donc à s'assurer du respect de cette exigence. Par conséquent, elles doivent être complétées sur la base de l'emplacement du risque par toutes les SAV et SSM étrangères détenant un permis au Québec. Ces pages doivent donc inclure les données financières pour tous les risques situés au Québec, peu importe qu'ils aient été assurés au Canada ou à l'étranger. Tous les risques situés à l'extérieur du Québec doivent donc être exclus et qui ont été assurés hors Canada. Par contre, les données pour les risques situés au Québec, mais assurés au Canada, ainsi que ceux situés à l'extérieur du Canada doivent être exclues.
+
+Tel que précisé à l'article 269 de la LA, tout assureur doit maintenir des actifs permettant de garantir l'exécution de ses engagements au Québec. Ces pages visent donc à s'assurer du respect de cette exigence. Par conséquent, elles doivent être complétées sur la base de l'emplacement du risque par toutes les SAV et SSM étrangères détenant un permis au Québec. Ces pages doivent donc inclure les données financières pour tous les risques situés au Québec, peu importe qu'ils aient été assurés au Canada ou à l'étranger. Tous les risques situés à l'extérieur du Québec doivent donc être exclus et qui ont été assurés hors Canada. Par contre, les données pour les risques situés au Québec, mais assurés au Canada, ainsi que ceux situés à l'extérieur du Canada doivent être exclues.
+
+Colonne 05 – Québec
+:   Inclure les risques situés au Québec et qui ont été assurés au Canada.
+
+Colonne 28 – Hors du Canada
+:   Inclure les risques situés au Québec et qui ont été assurés à l'extérieur du Canada.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2025-07-16

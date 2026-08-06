@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-11518",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities: Notice of Intent To Request Approval for Collection 3038-0117, Exemption From Derivatives Clearing Organization Registration",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/09/2026-11518/agency-information-collection-activities-notice-of-intent-to-request-approval-for-collection",
+  "reference_number": "2026-11518",
+  "published_date": "2026-06-09",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e1ba4b0d04d54f123a25a266dfb9a000e2d1a0ebdd15af657cba6693b6caa4cf",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-11518",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

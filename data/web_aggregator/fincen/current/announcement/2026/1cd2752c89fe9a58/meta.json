@@ -1,0 +1,24 @@
+{
+  "doc_id": "1cd2752c89fe9a58",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Administrative Ruling on Application of the Prepaid Access Rule to Closed Loop Prepaid Access Sold or Exchanged in a Secondary Market | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/administrative-ruling-application-prepaid",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3fae19a7c0359cf8711af841575fd3236da6e876f4c421666d78e23ab28d3fd5",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/1cd2752c89fe9a58",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

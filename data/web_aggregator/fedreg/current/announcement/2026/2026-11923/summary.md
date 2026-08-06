@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Designation of Longer Period for Commission Action on Proposed Rule Change To Amend the FINRA Rule 6700 Series (Trade Reporting and Compliance Engine) (TRACE) To Expand the Scope of the Non-

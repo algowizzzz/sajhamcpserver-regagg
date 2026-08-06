@@ -1,0 +1,25 @@
+{
+  "doc_id": "628579dc4f3c1197",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Company and business name requests - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/supervision/company-business-name-requests",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e2d72772e29e2568ad7796e0f9bda4dd11c7942a6524eb9824c1d5980a6c1dfe",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/628579dc4f3c1197",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "75ea87374336693c",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "CANAFE impose une p\u00e9nalit\u00e9 administrative p\u00e9cuniaire \u00e0 Cash Shop #27",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-02-06-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c0bb0fd378dd69ad178d03d476b9f17ac7297d7473b92a1e04a835dca700ad5d",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/75ea87374336693c",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

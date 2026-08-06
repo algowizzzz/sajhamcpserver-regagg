@@ -1,0 +1,115 @@
+_______________________________
+_______________________________
+_______________________________
+_______________________________
+_______________________________ 
+  
+Technology and Cyber Incident Report [Draft] 
+___________________________________
+___________________________________
+___________________________________
+___________________________________ 
+Date and Time Discovered: 
+(YYYY-MM-DD) & (00:00 – 23:59) 
+Date and Time Occurred: 
+(YYYY-MM-DD) & (00:00 – 23:59) 
+FRPP Name: 
+OSFI Registration Number: 
+Contact Name(s): 
+Contact Phone Number(s): 
+Contact Email(s): 
+   
+This document contains both information and form fields. To read information, use the Down Arrow from a form field. This document contains both information and form fields. To read information, use the Down Arrow from a form field. 
+June 2023 
+Technology and Cyber Incident Report 
+Federally Regulated Private Pension Plans [Draft] 
+This completed form should be sent to OSFI within 24 hours of discovering a technology or cyber security 
+incident; our email is pensions@osfi-bsif.gc.ca 
+Refer to the OSFI [draft] advisory: Technology and Cyber Security Incident Reporting for Federally Regulated 
+P
+rivate Pension Plans (FRPPs) for more information about OSFI’s expectations. 
+Incident & contact information 
+Description of risk & incident 
+Incident Category: 
+Technology 
+Cyber 
+Other (please specify):  
+Where did the incident occur? 
+Employer and / or Board of Trustees 
+FRPP administrator 
+Third party provider 
+Other (please specify):
+
+  
+____________________
+___________________ 
+  
+ 
+  
+ 
+ 
+Number of plan members and 
+beneficiaries impacted: 
+Amount of benefit payments not made: 
+Amount of contributions not remitted: 
+Amount of pension investments impacted: 
+Provide description of sensitive 
+information compromised or at risk. If no 
+sensitive information is at risk, indicate 
+N/A 
+Technology and Cyber Incident Report [Draft] 
+June 2023 
+Provide the incident type(s): 
+Technology asset1 outage 
+1 A “technology asset” can be something tangible (e.g., hardware, infrastructure) or intangible (e.g., software/application, data, 
+information) that needs protection and supports the provision of technology services. 
+Technology asset 
+degradation/delay 
+Account take-over 
+Cyber Crime 
+Data breach/leak 
+DDoS 
+Insider Threat 
+Malware – Other 
+Malware Campaign 
+Online Extortion 
+Phishing 
+Ransomware 
+Unauthorized access 
+Loss/theft of equipment  
+Other (please specify): 
+Impact on the FRPP and its members and beneficiaries
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________ 
+ 
+ 
+Technology and Cyber Incident Report [Draft] 
+June 2023 
+Internal and external notifications 
+Which of the following stakeholders have 
+be
+en notified? 
+Date and time of notification: 
+(
+YYYY-MM-DD) & (00:00 – 23:59) 
+Plan Administrator  
+Other regulators, supervisory agencies 
+or
+ government departments (please 
+specify) 
+Service providers such as third-party 
+a
+dministrators, custodians, actuaries, 
+pension fund auditors and legal 
+counsel (please specify) 
+Law enforcement authorities 
+Cyber insurance providers 
+Plan members and beneficiaries 
+Other (please specify):

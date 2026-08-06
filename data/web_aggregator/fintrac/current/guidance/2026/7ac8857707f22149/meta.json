@@ -1,0 +1,24 @@
+{
+  "doc_id": "7ac8857707f22149",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Exigences en mati\u00e8re de contr\u00f4le continu",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/omr-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:65ca427330f9ce344b42a6d711e8f31fe2fe8ca37d4d8cb9f0a28ff5c0632881",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/7ac8857707f22149",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

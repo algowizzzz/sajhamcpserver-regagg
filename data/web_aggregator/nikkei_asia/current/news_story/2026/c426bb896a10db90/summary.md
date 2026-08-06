@@ -1,0 +1,1 @@
+Summary: # Japan PM quells opponents of food tax cut by citing election pledge

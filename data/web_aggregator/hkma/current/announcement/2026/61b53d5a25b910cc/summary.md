@@ -1,0 +1,1 @@
+Summary: Bank of Communications Co., Ltd. Hong Kong Branch (A joint stock company incorporated in the People’s Republic of China with limited liability) 

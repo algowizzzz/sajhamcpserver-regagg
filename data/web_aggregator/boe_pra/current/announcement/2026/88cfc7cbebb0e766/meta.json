@@ -1,0 +1,25 @@
+{
+  "doc_id": "88cfc7cbebb0e766",
+  "regulator_id": "boe_pra",
+  "doc_type": "announcement",
+  "title": "Statistical Notice 2026/07 -  Bank of England Levy: Notification Document Levy Year 2026/27",
+  "language": "en",
+  "source_url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
+  "reference_number": null,
+  "published_date": "2026-07-08",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:65158e444bc182e8bfb1175b43d8779c42748f3726e5b450d5356c0c6b269ed8",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boe_pra_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boe_pra/current/announcement/2026/88cfc7cbebb0e766",
+  "tags": [
+    "uk",
+    "prudential",
+    "banking"
+  ]
+}

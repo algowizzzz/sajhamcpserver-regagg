@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="thumbnail" content="https://www.fsa.go.jp/images/fsa_thumbnail.png">
+<!--<PageMap>
+<DataObject type="thumbnail">
+	<Attribute name="src" value="https://www.fsa.go.jp/images/fsa_thumbnail.png"/>
+	<Attribute name="width" value="192"/>
+	<Attribute name="height" value="192"/>
+</DataObject>
+</PageMap>-->
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta data-navi="0">
+<title>Asia Region Funds Passport (ARFP) : FSA</title>
+<link rel="stylesheet" href="/libs/css/reset.css">
+<link rel="stylesheet" href="/libs/css/format.css">
+<link rel="stylesheet" media="(max-width: 767px)" href="/libs/css/layout_sp.css?v=5">
+<link rel="stylesheet" media="(min-width: 768px)" href="/libs/css/layout_pc.css?v=5">
+<link rel="stylesheet" media="(max-width: 767px)" href="/libs/css/general_sp.css">
+<link rel="stylesheet" media="(min-width: 768px)" href="/libs/css/general_pc.css">
+<link rel="stylesheet" href="/libs/css/common.css?v=2">
+<link rel="stylesheet" href="/libs/css/ikou_fsa_en.css?v=3">
+<link rel="icon" type="image/png" href="/images/icon.png">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<!-- CMS006 -->
+<!-- 参照するjQueryのバージョンを変更 -->
+<script src="/libs/js/jquery-3.7.1.min.js"></script>
+<!-- CMS006 END -->
+<script src="/libs/js/navi_fsa_en.js?date=20191101"></script>
+<script src="/libs/js/navi_set.js?date=20170620"></script>
+<script src="https://cdn.cistate.io/frontend-translator/latest/fsa/translator.js" charset="UTF-8"></script>
+<!-- Google tag (gtag.js) START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JD08XY7G9K"></script>
+<script>
+if (location.pathname.indexOf("/preview/") != 0) {
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'G-JD08XY7G9K');
+}
+</script>
+<!-- Google tag (gtag.js) END -->
+</head>
+<body id="common" class="top en">
+
+<!-- noscript STRAT -->
+<noscript>
+<p id="noscript">For the complete experience, please enable JavaScript in your browser. </p>
+</noscript>
+<!-- noscript END -->
+
+<!-- header STRAT -->
+<header id="header" class="clearfix">
+<div class="inner">
+<p class="skiplinkbody"><a href="#main"><span>Link to Body</span></a></p>
+<span id="logo"><a href="/en/index.html"><img class="logo-fsa_e" src="/en/images/title_e.svg" width="341" height="47" alt="Financial Services Agency"/></a></span>
+<div id="sp_menu">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<button type="button" class="search" aria-expanded="false" aria-controls="spsearchPanel"><img src="/images/btn_search_sp.svg" alt=""/>Search</button>
+<button type="button" id="sp_sns_btn" class="sns-trigger" aria-expanded="false" aria-controls="snsMenu"><img src="/libs/images/sns.png" alt=""><span>SNS menu</span></button>
+<button type="button" id="sp_menu_btn" class="menu-trigger" aria-expanded="false" aria-controls="spMenu"><span>MENU</span></button>
+<!-- CMS006 END -->
+</div>
+<div id="header_menu">
+<div class="menu_box">
+<dl id="fontsize_box">
+<dt>Size</dt>
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dd id="fontChange">
+<button type="button" id="fontL" class="large">font Large</button>
+<button type="button" id="fontM" class="middle">font Middle</button>
+<button type="button" id="fontS" class="small">font Small</button>
+<!-- CMS006 END -->
+</dd>
+</dl>
+<button type="button" class="language_button" popovertarget="popover-from-ja-to-en" popovertargetaction="show" aria-controls="popover-from-ja-to-en"><img src="/libs/images/icon_lang_b.svg" alt=""><span>Language</span></button>
+<div id="popover-from-ja-to-en" popover="auto">
+    <div class="popover_window_body">
+        <ul>
+            <li>Global Site
+                <ul>
+                    <li><a href="/index.html" class="setLanguageJa">Japanese Site</a></li>
+                </ul>
+            </li>
+            <li><a href="/index.html" class="setLanguageEn">Machine translated English of Japanese Site</a></li>
+        </ul>
+    </div>
+    <div class="popover_window_header">
+        <button type="button" class="popover_window_button" popovertarget="popover-from-ja-to-en" popovertargetaction="hide">Close</button>
+    </div>
+</div>
+</div>
+<div class="search_sns_box">
+<!-- Google Search -->
+<div id="spsearchPanel" class="search_area" style="height:auto;">
+<form action="/en/search.html" id="cse-search-box" name="searchBox">
+<input type="hidden" name="cx" value="361aa989716c545fa">
+<input type="hidden" name="cof" value="FORID:9">
+<input type="hidden" name="ie" value="UTF-8">
+<label for="google" class="search_text_en">Site Search</label>
+<input type="text" name="q" class="ime-activ" id="google" >
+<input type="button" name="sa" id="sa" alt="Search" value="Search" onClick="submit();" style="font-size: 1em;">
+<input name="siteurl" type="hidden" value="www.fsa.go.jp/en/index.html"><input name="ref" type="hidden" value="www.fsa.go.jp/"><input name="ss" type="hidden" value="">
+</form>
+<img style="margin-left:90px" src="https://www.google.com/cse/static/images/1x/en/branding.png" alt="ENHANCED BY Google"/>
+</div>
+<!-- Google Search -->
+<div id="snsMenu" class="">
+<ul>
+<li><a href="https://x.com/JFSA_en" target="_blank"><img style="width:45px;" alt="Financial Services Agency official X(formely twitter) (open new window)" src="/libs/images/sns_btn_xb.png" /></a></li>
+<li><a href="https://www.youtube.com/channel/UCpIgZIDc-ptkZZTvzqlwGQg" target="_blank"><img style="width:45px;" alt="Financial Services Agency official YouTube (open new window)" src="/libs/images/sns_btn_youtube.png" /></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</header>
+<!-- header END -->
+
+<div id="conteinar">
+
+<!-- global_navi STRAT -->
+<nav id="global_navi" aria-label="global_navi">
+<ul>
+<li><a href="/en/index.html">HOME</a></li>
+<li><a href="/en/about/index.html">About FSA</a></li>
+<li><a href="/en/press_releases/index.html">Press Releases &amp; Public Relations</a></li>
+<li><a href="/en/policies_councils/index.html">Policies &amp; Councils</a></li>
+<li><a href="/en/laws_regulations/index.html">Laws &amp; Regulations</a></li>
+<li><a href="/en/regulated_institutions/index.html">Regulated Institutions</a></li>
+<li><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a></li>
+</ul>
+</nav>
+<!-- global_navi END -->
+
+<!-- content STRAT -->
+<article id="content">
+<div id="location">
+<ul>
+      <li class="home">
+      <a href="/en/index.html">HOME</a>
+    </li>
+        <li>
+          <a href="/en/regulated_institutions/index.html">Regulated Institutions</a>
+        </li>
+  </ul>
+</div>
+
+<!-- main STRAT -->
+<div id="main">
+<p class="share-button"><a href="https://twitter.com/share" class="twitter-share-button" data-dnt="true" data-lang="en" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<div class="inner">
+<div style="text-align: right; margin-bottom:20px;">
+ <a target="_blank" href="/inter/arfp/index.html">Japanese<span class="icon-blank"><img alt="open new window" src="/images/common/icon_newwin.gif"></span></a>
+</div>
+<h1>Asia Region Funds Passport (ARFP)</h1>
+<h2><a id="ARFP"></a>ARFP</h2>
+<p>The detail of the "Asia Region Funds Passport (ARFP)" is as follows.</p>
+<ul>
+ <li><img alt="PDF" class="pdf" height="16" width="16" src="/images/common/icon_pdf.gif"><a href="/en/faq/others/20180111-1.pdf">Implementation Guidelines for Application Procedures for Registering</a></li>
+ <li>(Attachment1) Confirmation List of ARFP Application Documents&nbsp;<img alt="PDF" class="pdf" height="16" width="16" src="/images/common/icon_pdf.gif"><a target="_blank" href="/en/faq/others/20180111-3.pdf">PDF</a>&nbsp; <img alt="EXCEL" class="excel" height="16" width="16" src="/images/common/icon_excel.gif"><a target="_blank" href="/en/faq/others/20180111-3.xlsm">Excel</a></li>
+ <li>(Attachment2) Confirmation of&nbsp;the ARFP Registration&nbsp;/&nbsp;Documentation Certifying Fulfillment of ARFP Registration Requirements&nbsp;&nbsp;<img alt="PDF" class="pdf" height="16" width="16" src="/images/common/icon_pdf.gif"><a href="/en/faq/others/20180111-2.pdf">PDF</a>&nbsp; <img alt="Word" class="pdf" height="16" width="16" src="/images/common/icon_word.gif"><a target="_blank" href="/en/faq/others/20180111-2.docx">Word</a></li>
+</ul>
+<div style="margin-top:30px; margin-left: 40px;">
+ &nbsp;For details, please access the following:
+</div>
+<div style="margin-left: 50px;">
+ *&nbsp;&nbsp;<a href="/en/news/2016/20160428-1.html">Signing of Asia Region Funds Passport’s Memorandum of Co-operation</a>
+</div>
+<div style="margin-left: 50px;">
+ *&nbsp; <a href="https://fundspassport.apec.org/wp-content/uploads/2021/02/ARFP-Final-Annual-Implementation-Report-2019-2020-2.pdf">Annual Report&nbsp; (2019-2020)</a>
+ <br>
+  *&nbsp; <a href="https://fundspassport.apec.org/wp-content/uploads/2021/02/ARFP-implementation-report-2018-2019.pdf">Annual Report&nbsp; (2018-2019)</a>
+ <br>
+  *&nbsp; <a href="https://cdn.tspace.gov.au/uploads/sites/20/2018/09/20180912-ARFP-Annual-Implementation-Report-Final1.pdf">Annual Report&nbsp; (2017-2018)</a>
+ <br>
+  *&nbsp; <a href="/en/faq/others/20171128-2.pdf">Annual Report&nbsp; (2016-2017)</a>
+</div>
+<div style="margin-left: 50px;">
+ *&nbsp; <a href="https://fundspassport.apec.org/9th-arfp-joint-committee-virtual-meeting-22-april-2021-2/" target="_blank">the Press Release of the Joint Committee Meeting</a>
+</div> &nbsp; 
+<div class="deco-box2">
+ <br>
+  Contact 
+ <br>
+  Financial Services Agency 
+ <br>
+  Tel +81-(0)3-3506-6000(main) 
+ <br>
+  International Affairs Office,&nbsp;Strategy Development and Management Bureau&nbsp;/ 
+ <br>
+  Securities Business Division, Supervision Bureau / 
+ <br>
+  Corporate Accounting and Disclosure Division, Policy and Markets Bureau
+</div>
+<p>&nbsp;</p>
+</div>
+</div>
+<!-- main END -->
+
+<!-- side STRAT -->
+<div id="side">
+</div>
+<!-- side END -->
+
+<section id="sitemap">
+<h2>Site Map</h2>
+<div class="inner">
+<dl>
+<div id="fsa_sitemap01">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/about/index.html">About FSA</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap01"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/about/index.html#Ministerial Team">Ministerial Team</a></dd>
+<dd><a href="/en/about/index.html#Organization">Organization</a></dd>
+<dd><a href="/en/about/about02_menu.html">Location</a></dd>
+<dd><a href="/en/about/index.html#Pamphlet">Pamphlet</a></dd>
+<dd><a href="/en/about/openpolicylab.html">Open Policy Lab</a></dd>
+</div>
+<div id="fsa_sitemap02">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/press_releases/index.html">Press Releases &amp; Public Relations</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap02"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/news/index.html">Press Releases</a></dd>
+<dd><a href="/en/conference/index.html">Press Conferences</a></dd>
+<dd><a href="/en/announce/state/index.html">Official Statements</a></dd>
+<dd><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a></dd>
+<dd><a href="/en/announce/state/index_speeches.html">Speeches</a></dd>
+<dd><a href="/en/press_releases/index.html#FinancialUsers">For Financial Users</a></dd>
+<dd><a href="/en/press_releases/index.html#Others">Others</a></dd>
+<dd><a href="/en/press_releases/index.html#Archives">Archives</a></dd>
+</div>
+<div id="fsa_sitemap03">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/policies_councils/index.html">Policies &amp; Councils</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap03"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/policies_councils/index.html#Policies">Policies</a></dd>
+<dd><a href="/en/policies_councils/index.html#Councils">Councils</a></dd>
+</div>
+<div id="fsa_sitemap04">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/laws_regulations/index.html">Laws &amp; Regulations</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap04"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/refer/legislation/legislation.pdf" target="_blank">Name of Laws and Regulations(PDF)<img src="/libs/images/icon_blank.png" alt="open new window" width="10" height="10" class="newwin"></a></dd>
+<dd><a href="/en/laws_regulations/index.html#recent_changes">Recent Changes (Legislation, Ordinances, Guidelines)</a></dd>
+<dd><a href="/en/laws_regulations/index.html#Guidelines">Guidelines</a></dd>
+<dd><a href="/en/policy/fiel/index.html">Financial Instruments and Exchange Act</a></dd>
+<dd><a href="/en/laws_regulations/index.html#Financial_Monitoring_Policy">Financial Monitoring Policy</a></dd>
+<dd><a href="/en/laws_regulations/index.html#Public_Comment">Public Comment</a></dd>
+<dd><a href="/en/refer/noact/index_menu.html">No-Action Letter System</a></dd>
+<dd><a href="/en/laws_regulations/fami/index.html">Procedures concerning Foreign Account Management Institutions</a></dd>
+</div>
+<div id="fsa_sitemap05">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/regulated_institutions/index.html">Regulated Institutions</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap05"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/regulated/licensed/index.html">List of Institutions</a></dd>
+<dd><a href="/en/regulated_institutions/index.html#Administrative_Action">Administrative Action</a></dd>
+<dd><a href="/en/regulated/statistics/index.html">Statistics</a></dd>
+<dd><a href="/en/regulated/hst/index.html">For those engaging in High Speed Trading</a></dd>
+<dd><a href="/en/news/2016/20160203-1.html">To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.</a></dd>
+<dd><a href="/en/regulated_institutions/arfp/index.html">Asia Region Funds Passport (ARFP)</a></dd>
+</div>
+<div id="fsa_sitemap06">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap06"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/newsletter/2022a.html">Back Number (2022)</a></dd>
+<dd><a href="/en/newsletter/2021a.html">Back Number (2021)</a></dd>
+<dd><a href="/en/newsletter/2020a.html">Back Number (2020)</a></dd>
+</div>
+</dl>
+</div>
+</section>
+<!-- content END -->
+
+<p id="pagetop"><a href="#header"><img src="/libs/images/pagetop_btn_e.png" alt="" width="103" height="15"/><span>top of page</span></a></p>
+</article>
+<!-- content END -->
+
+
+<!-- footer STRAT -->
+<footer id="footer">
+<div class="inner">
+<nav id="footer_menu" aria-label="footer_menu">
+<ul>
+<li><a href="/en/sitemap/index.html">Site Map</a></li>
+<li><a href="/en/rules/index.html">Terms of Use of the FSA Website</a></li>
+<li><a href="/en/privacy/index.html">Privacy Policy</a></li>
+<li><a href="/en/about/about02_menu.html">Access</a></li>
+<li><a href="/en/contact.html">Contact us</a></li>
+<li><a href="/en/links/index.html">Other Links</a></li>
+</ul>
+</nav>
+<p id="corporate">Financial Services Agency, The Japanese Government (Corporate Number 6000012010023)</p>
+<p id="copyright">Copyright(C) 2017 Financial Services Agency All Rights Reserved.</p>
+<address>3-2-1 Kasumigaseki Chiyoda-ku Tokyo, 100-8967 Japan THE CENTRAL COMMON GOVERNMENT OFFICES No. 7</address>
+</div>
+</footer>
+<!-- footer END -->
+
+</div>
+
+<!-- spMenu -->
+<section id="spMenu">
+<div class="inner">
+<ul class="spMenu_function">
+<!-- /* JavaSctiptの動作に必要だったため、class="spMenu_language"を復活(aria-expandedの動作を同期させる処理) */ -->
+    <li class="spMenu_language">
+        <div class="title_of_menu_second-level">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+            <button type="button" aria-controls="fsa_spmenu_function01" class="gmspmenu_language"><img src="/libs/images/icon_lang_w.svg" alt=""><span>Language</span></button><button type="button" aria-controls="fsa_spmenu_function01" class="gmspmenu"></button>
+<!-- CMS006 END -->
+        </div>
+        <ul lang="en" class="menu_second-level" id="fsa_spmenu_function01">
+            <li><a href="/index.html" class="setLanguageJa">Global Site<span class="sentence-space"></span>Japanese Site</a></li>
+            <li><a href="/index.html" class="setLanguageEn">Machine translated English of Japanese Site</a></li>
+        </ul>
+    </li>
+    <li id="sp_fontsize_box">
+        <p><img src="/libs/images/icon_font_w.svg" alt=""><span>Size</span></p>
+        <div id="sp_fontChange">
+            <button type="button" id="sp_fontL" class="large">font Large</button>
+            <button type="button" id="sp_fontM" class="middle">font Middle</button>
+            <button type="button" id="sp_fontS" class="small">font Small</button>
+        </div>
+    </li>
+</ul>
+<ul>
+<li><a href="/en/index.html">HOME</a></li>
+<li><a href="/en/about/index.html">About FSA</a></li>
+<li><a href="/en/press_releases/index.html">Press Releases &amp; Public Relations</a></li>
+<li><a href="/en/policies_councils/index.html">Policies &amp; Councils</a></li>
+<li><a href="/en/laws_regulations/index.html">Laws &amp; Regulations</a></li>
+<li><a href="/en/regulated_institutions/index.html">Regulated Institutions</a></li>
+<li><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a></li>
+</ul>
+</div>
+</section>
+<!-- //SPMENU -->
+
+<script src="/libs/js/jquery.easing.1.3.js"></script>
+<script src="/libs/js/jquery.responsiveTabs.js"></script>
+<script src="/libs/js/jquery.cookie.js"></script>
+<script src="/libs/js/common.js?date=20260316"></script>
+<script src="/libs/js/common_fsa.js?date=20260316"></script>
+</body>
+</html>
+

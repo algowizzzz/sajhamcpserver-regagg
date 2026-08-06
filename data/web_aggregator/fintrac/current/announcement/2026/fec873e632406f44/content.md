@@ -1,0 +1,29 @@
+# Pénalité administrative pécuniaire imposée à Austin Jewellers (General partnership: Frank Suppanz and Lisa Suppanz, partners)
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du
+Canada](/intro-fra) (CANAFE)
+
+[**2023-10-31**]
+
+Austin Jewellers (General partnership: Frank Suppanz and Lisa Suppanz, partners), un négociant en métaux précieux et pierres précieuses à Coquitlam, en Colombie-Britannique, s'est vu imposer une pénalité de 66 000 $ le 27 juin 2023 pour avoir commis 2 violations. Les violations ont été observées dans le cadre d’un examen de conformité réalisé en 2019. Austin Jewellers a interjeté appel devant la Cour d’appel fédérale.
+
+## Nature de la violation
+
+Violation no 1
+:   **Fait de ne pas élaborer et appliquer des politiques et procédures de conformité écrites qui sont gardées à jour et, dans le cas d’une entité, approuvées par un de ses cadres supérieurs – alinéa 71(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+      
+      
+    Austin Jewellers n’a pas élaboré de politiques et procédures écrites en matière de conformité.
+
+Violation no 2
+:   **Fait de ne pas évaluer les risques de blanchiment d'argent ou de financement des activités terroristes et de ne pas conserver les documents à l'appui en tenant compte des critères prévus par règlement – alinéa 71(1)c) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+      
+      
+    Austin Jewellers n'a pas évalué les risques en matière de blanchiment d'argent et de financement des activités terroristes.
+
+## Lien connexe
+
+* [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Austin Jewellers](/new-neuf/nr/2023-10-31-fra)
+
+Date de modification :
+:   2023-10-31

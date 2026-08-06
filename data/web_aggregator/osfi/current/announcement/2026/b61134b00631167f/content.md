@@ -1,0 +1,40 @@
+# Relevé sur les marges de crédit adossées à un bien immobilier (J2) - Relevé des changements
+
+Information
+
+Type de document
+
+Relevé des changements
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé sur les marges de crédit adossées à un bien immobilier (MCBI) (J2)
+
+Dernière révision
+
+Avril 2023
+
+Numéro de relevé
+
+J2
+
+Documentation
+
+* [Relevé sur les marges de crédit adossées à un bien immobilier (J2)](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-sur-marges-credit-adossees-bien-immobilier-j2)
+
+Relevé des changements
+
+| Numéro de la modification | Date d'entrée en vigueur | Description |
+| --- | --- | --- |
+| 1 | T1 2019 | Nouveau |
+| 2 | T1 2021 | **Instruction**  **Ajout**   * Instructions sous (d) Prêts hypothécaires conjugués à des MCBI – Prélevé * Instructions sous (e) Prêts hypothécaires conjugués à des MCBI – Dont : est prélevé de la composante MCBI * Instructions sous (f) Prêts hypothécaires conjugués à des MCBI – Dont : est prélevé de la composante prêt hypothécaire * Instructions sous (g) Prêts hypothécaires conjugués à des MCBI – Dont : est prélevé d'autres composantes * Section III – Renseignements supplémentaires sur les prêts hypothécaires conjugués à des MCBI   **Modification**   * Annexe – Définition du terme « réoctroyable »   **Gabarit**  **Modification**   * Titre sous la Section I 1(b) * Titre sous la Section II 1(a)   **Ajout**   * Point de données 0400 à 0413 sous colonne (E) * Point de données 0414 à 0427 sous colonne (F) * Point de données 0428 à 0441 sous colonne (G) * Section III – Renseignements supplémentaires sur les prêts hypothécaires conjugués à des MCBI |
+| 3 | T3 2022 | **Instruction**  **Modification**   * Instructions sous Échéance   **Gabarit**  Aucune modification apportée |
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-10-13

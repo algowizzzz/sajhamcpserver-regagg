@@ -1,0 +1,10 @@
+The Board of Supervisors of the European Insurance and Occupational Pensions Authority (EIOPA) has extended by two-and-a-half years the terms of office of the following Management Board members:
+
+* **Mr Alberto Corinti**, Member of the Board of Directors at Istituto per la Vigilanza sulle Assicurazioni (IVASS), Italy;
+* **Ms Sandrine Lemery**, First Deputy Secretary General at Autorité de contrôle prudentiel et de résolution (ACPR), France; and
+* **Mr Jean Hilgers**, Member of the Board of Directors at the Nationale Bank van België/Banque Nationale de Belgique (NBB), Belgium.
+
+The [Management Board of EIOPA](/about/decision-making/management-board?prefLang=en) is composed of the Chairman of EIOPA and six other members of the Board of Supervisors, elected by and from the voting members of the Board of Supervisors. It ensures that EIOPA carries out its mission and performs the tasks assigned to it.
+
+Publication date
+:   30 March 2017

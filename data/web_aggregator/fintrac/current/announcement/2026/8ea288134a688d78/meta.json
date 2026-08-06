@@ -1,0 +1,24 @@
+{
+  "doc_id": "8ea288134a688d78",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Speaking Notes for Sarah Paquet, Director and Chief Executive Officer, Financial Transactions and Reports Analysis Centre of Canada to the Association of Certified Fraud Examiners Canadian Conference",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/new-neuf/ps-pa/2021-11-09-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9c50fdf6ca3752bd668f142b8417f8af0b74314538f3c423e0c321a11e93fc39",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/8ea288134a688d78",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

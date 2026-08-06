@@ -1,0 +1,24 @@
+{
+  "doc_id": "96cbce8d265f8cc9",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Whether a Certain Operation Protecting On-line Personal Financial Information is a Money Transmitter | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/whether-certain-operation-protecting-line",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:871241283e8d6702846a77689b1aeb14bf9bccd43d4de65e76053ec7f53e5ceb",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/96cbce8d265f8cc9",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

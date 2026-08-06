@@ -1,0 +1,300 @@
+# Guideline B-15 readiness self-assessment questionnaire: What we heard report
+
+## On this page
+
+## Executive summary
+
+In March 2023, OSFI released the [Guideline B-15: Climate Risk Management](/en/guidance/guidance-library/climate-risk-management "Climate Risk Management") (Guideline), which provides FRFIs with principles-based guidance to manage their climate-related risks. In May, we issued a B-15 readiness self-assessment questionnaire (SAQ), to gauge federally regulated financial institutions (FRFIs) readiness to meet the Guideline expectations by the implementation timelines.
+
+We received over 210 responses from in-scope FRFIs in July 2023 that formed the basis of this What We Heard report. FRFI self-assessments show that most have started, or have planned work, to manage their climate-related risks. However, some FRFIs are at very early stages of considering climate-related risks and how they will manage them, and more work is needed to accelerate progress in time for the Guideline implementation dates.
+
+While FRFI responses were diverse, we noted that many are progressing gradually to embed climate risk management into their governance structures, frameworks, and processes. However, they are in the early stages of quantifying the impacts of climate-related risks. We noted some industry differences in preparedness, as well as differences between larger and smaller institutions. Furthermore, despite FRFIs reporting that they are in the early stages of quantifying climate-related risks, a majority of FRFIs feel they are prepared to report on most categories of the expected climate-related financial disclosures.
+
+Some FRFIs highlighted areas where additional guidance from OSFI could help to close capability gaps. In response to these challenges, particularly in risk quantification, we have several initiatives underway to help FRFIs to advance their capabilities, including the upcoming 2024 Standardized Climate Scenario Exercise and the regulatory climate data return. Furthermore, we will leverage the Climate Risk Forum (CRF) to continue to build FRFI awareness and capacity to respond to climate-related risks.
+
+OSFI’s climate-related initiatives are meant to be foundation building tools, and we remind FRFIs that these initiatives should not be used as a substitute for the FRFI’s own climate risk assessment and management. There is no one-size-fits-all approach for managing climate-related risks given the unique risks and vulnerabilities that will vary with a FRFI’s size, nature, scope, and complexity of its operations, and risk profile. What this means is that FRFIs will have to assess their risks and exposures and apply the Guideline expectations proportionally to their overall risk profile. In line with OSFI’s supervision approach, our focus on climate risk management is risk-based, proportional to the FRFI’s circumstances.
+
+As next steps, later this year we will engage the industry through the Climate Risk Forum on the SAQ results. We will also continue to monitor evolving practices and standards to assess the need for additional guidance. Lastly, we will re-issue the SAQ in 18-24 months to follow FRFI progress.
+
+## 1.0 Background
+
+Building resilience against climate-related risks requires federally regulated financial institutions (FRFIs) to address vulnerabilities in their business model, their overall operations, and ultimately on their balance sheet. This entails forward-looking approaches that are holistic, integrated, and built on reliable empirical data and sound analyses. It also necessitates FRFIs to continuously monitor and incorporate developments in climate risk management, such as improving data quality and evolving risk measurement methodologies, into their governance and risk management practices.
+
+In March 2023, OSFI released the [Guideline B-15: Climate Risk Management](/en/guidance/guidance-library/climate-risk-management "Climate Risk Management") (Guideline), which provides FRFIs with principles-based guidance to manage their climate-related risks. The Guideline establishes three expected outcomes that FRFIs should achieve:
+
+1. The FRFI understands and mitigates against potential impacts of climate-related risks to its business model and strategy
+2. The FRFI has appropriate governance and risk management practices to manage identified climate-related risks
+3. The FRFI remains financially resilient through severe, yet plausible, climate risk scenarios, and operationally resilient through disruption due to climate-related disasters
+
+### 1.1 The Guideline B-15 readiness self-assessment questionnaire
+
+To gauge FRFI readiness to meet the Guideline expectations by the implementation timelines, we issued a Guideline B-15 readiness self-assessment questionnaire (SAQ) in May 2023.
+
+The SAQ focused on the FRFIs’ progress and plans to meet the expectations per Chapter 1, which include:
+
+* Principle 1: The FRFI should have the appropriate governance and accountability structure in place to manage climate-related risks
+* Principle 2: The FRFI should incorporate the implications of physical risks from climate change and the risks associated with the transition to a low-greenhouse gas (GHG) economy to the FRFI in its business model and strategy
+* Principle 3: The FRFI should manage and mitigate climate-related risks in accordance with the FRFI’s Risk Appetite Framework
+* Principle 4: The FRFI should use climate scenario analysis to assess the impact of climate-related risks on its risk profile, business strategy, and business model
+* Principle 5: The FRFI should maintain sufficient capital and liquidity buffers for its climate-related risks
+
+A separate section of the questionnaire included questions about FRFIs’ current readiness to report on key categories of our climate-related financial disclosures expectations per Chapter 2.
+
+We received over 210 responses from in-scope FRFIs in July 2023. The submissions included group filings for FRFIs that are owned by the same parent entity and represents coverage of over 95% of in-scope FRFIs. For this report, we grouped these FRFIs into three industry groups:
+
+* Deposit-taking institutions (DTIs), including banks, and trust and loan companies
+* Life insurers, including fraternal benefit societies
+* Property and casualty insurers (P&C), including mortgage insurers
+
+This What We Heard report highlights the key themes and emerging practices based on FRFI responses to the SAQ. It does not represent an OSFI assessment of the FRFI readiness to meet the Guideline expectations.
+
+## 2.0 Key themes from the SAQ responses
+
+While there were diverse FRFI responses, we identified four key themes:
+
+* FRFIs are progressing gradually to embed climate risk management into their governance structures, frameworks, and processes
+* FRFIs are in the early stages of quantifying the impacts of climate-related risks
+* FRFIs are preparing to report on most categories of the expected climate-related financial disclosures per Chapter 2 of the Guideline
+* Additional guidance from OSFI could help FRFIs build capabilities to understand and manage climate-related risks
+
+Each of the four themes will be discussed in detail below.
+
+### 2.1 FRFIs are progressing gradually to embed climate risk management into their governance structures, frameworks, and processes
+
+Effective climate risk management starts with clear direction from the Board of Directors (Board) and Senior Management, coupled with appropriate structures, frameworks, and processes throughout an organization to manage these risks. This involves the FRFIs having a good understanding of the climate-related risks to which they can be exposed, as well as clarity around the roles and responsibilities of those in the organization to manage them. Furthermore, it requires FRFIs to incorporate climate-related risks into their enterprise risk management (ERM) frameworks, risk appetite frameworks, and internal control frameworks (ICF). It also requires FRFIs to have processes in place to support timely and accurate reporting to monitor risks and make decisions.
+
+Based on the SAQ responses, over 50% of FRFIs across all industry groups:
+
+* formalized, or are formalizing, roles and responsibilities for the Board, Senior Management, and Branch Management
+* incorporated, or are incorporating, climate-related risks into their ERM frameworks and risk appetite frameworks
+* report, or are starting to report, climate-related risks to their Board and Senior Management
+
+While gradual progress is made in the above areas, the majority of FRFIs have yet to integrate climate-related risks into their ICF.
+
+Notably, larger FRFIs across all industry groups are more advanced in embedding climate risk management into their governance structures, frameworks, and processes than smaller FRFIs. Many formalized, or are formalizing, roles and responsibilities for their Board and Senior Management, and are incorporating climate-related risks into their ERM and risk appetite frameworks.
+
+#### Establishing accountabilities for the Board, Senior Management, and Branch Management
+
+As shown in Chart 1 below, FRFIs across all industry groups are embedding climate-related roles and responsibilities for the Board, Senior Management, and Branch Management. Notably, insurers, and particularly P&C insurers, are further ahead than DTIs in formalizing these roles and responsibilities.
+
+**Chart 1 – Proportion of FRFIs by industry group who formalized, or are formalizing, climate-related roles and responsibilities for the Board, Senior Management, and Branch Management**
+
+![Bar chart, text description below.](/sites/default/files/styles/responsive_mobile_full_width/public/images/b15-saq-img1-en.JPG?itok=yPf9jd0L)
+
+Chart 1 - Text description 
+
+Chart 1
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | FRFIs who have started or completed formalizing roles and responsibilities | | |
+| Proportion of FRFI respondents | DTI | Life | P&C |
+| Board | 38% | 62% | 70% |
+| Senior Management and Branch Management | 35% | 67% | 74% |
+
+The analysis of the SAQ responses indicates that FRFIs recognize the importance of Board expertise and competency on climate-related risks. Many FRFIs are keeping the Board abreast through climate specific education sessions and by including climate-related risks in Board reporting. Some FRFIs indicated that they maintain a Board competency matrix to monitor the skills and experience necessary for the Board to oversee climate risk management. Many FRFIs indicated that climate-related risks have been incorporated into various Board committee mandates.
+
+At the Senior Management level, some FRFIs indicated that, in addition to formalizing certain Senior Management member’s roles and responsibilities, they also established executive-level committees to oversee climate risk management with the intent of bringing together risk owners and oversight functions. Other FRFIs indicated that they rely on their parent institutions to provide the appropriate support to oversee and manage the FRFI’s climate-related risks, in line with the parent institutions’ broader Environmental, Social and Governance (ESG) or climate-related objectives.
+
+#### Incorporating climate-related risks into the FRFI’s governance and risk management frameworks
+
+The majority of FRFIs reported that they are incorporating climate-related risks into their ERM frameworks and risk appetite frameworks. Several institutions have fully integrated climate-related risks into their ERM process or developed separate climate strategies to evaluate and assess physical and transition risks.
+
+As it relates to risk appetite frameworks, many FRFIs commented that work is underway and expect their approach to climate-related risk appetite to evolve. That said, they also indicated that climate-related risks are, or will be, expressed as both qualitative and quantitative measures, and as part of existing key risk categories. Some FRFIs indicated that they reflect, or plan on reflecting, climate-related risks as part of existing risk appetite for risks such as credit, underwriting, and reputational risks.
+
+Lastly, cascading climate-related risks into the ICF is less advanced across all industry groups, with the majority of FRFIs not having started or planned this work. Given the importance of the ICF as a framework to embed risk management practices into an organization, it signals that more work is needed to mature climate risk management throughout FRFIs.
+
+#### Monitoring and reporting to the Board and Senior Management
+
+Overall, over 50% of FRFIs stated that they are reporting, or starting to report, on climate-related risks to their Board and Senior Management. Furthermore, about 60% of FRFIs reported that they are at early stages of developing climate-related risk indicators, noting that they plan on developing specific metrics that will be reported to the Board and Senior Management. Some examples of the types of metrics that FRFIs highlighted include metrics related to the FRFI’s climate-specific risk appetite, metrics based on the Task Force on Climate-related Financial Disclosures (TCFD) framework, and metrics related to accountability and remuneration. Similar to other areas related to governance, we noted that P&C insurers are more advanced than the other industry groups in establishing their climate-related risk reporting and metrics. These results were not surprising given P&C insurers’ experience in managing physical risks, such as weather-related and natural catastrophe risks.
+
+### 2.2 FRFIs are in the early stages of quantifying the impacts of climate-related risks
+
+Climate-related risks are forward-looking risks, where empirical data and traditional risk management approaches and tools may not sufficiently identify and account for these risks. This could, in turn, lead to an inadequate capture of the potential risks and risk response.
+
+While FRFIs are starting to work towards implementing risk management practices to meet the Guideline expectations, a majority of FRFIs expect to do so by their respective implementation dates. Based on the responses received, the majority of FRFIs:
+
+* still need to make meaningful progress in assessing the impact of climate-related risks on their financial and non-financial risks
+* are in early stages of identifying their climate-related data needs and their sources
+* mainly consider climate-related risks over the near-term (i.e., less than five years) in their climate scenario analysis
+* have yet to incorporate climate-related risks into their capital and liquidity adequacy assessments
+
+Unsurprisingly, given the nascency of these practices, more than 60% of FRFIs reported to have started, or plan to start, incorporating climate-related risks into their strategic, capital, or financial plans, while more than 20% have no immediate plans for this work. Similarly, while many expect to develop Climate Transition Plans with short-, medium-, and long-term goals to address climate-related risks over various time horizons, the majority have not started this work. Notably, a few FRFIs indicated that they plan on incorporating climate-related risks into their strategic plans based on parent institutions’ overall climate risk strategy. This signals that some FRFIs’ progress to meet the Guideline expectations is dependent on the progress made at the parent institution level.
+
+Notably, larger FRFIs are more advanced in embedding climate risk management practices, as larger FRFIs are more likely to have implemented, or are implementing, climate scenario analysis to assess both physical and transition risks. Furthermore, they consider various time horizons and use internally developed scenarios. That said, we noted some areas where there was no material difference between larger and smaller FRFIs. Specifically, larger FRFIs’ progress in assessing the impact of climate-related risks on key risk categories, and in turn, on their capital and liquidity adequacy, is similar to that of smaller FRFIs. Although there is more work ahead for all FRFIs to quantify climate-related risks, we expect larger institutions to be more advanced given their more mature risk management capabilities and resources.
+
+While overall risk management practices across FRFIs are at a nascent stage, we noted some emerging practices, which are described in sections below.
+
+#### Assessing the impact of climate-related risks on key risk areas
+
+Climate-related risks can affect FRFIs across different key risk categories, such as credit, market, and operational risks. As shown in Charts 2 and 3 below, where results mirror the image of a “hockey stick”, most FRFIs are in the early stages of assessing the impact of climate-related risks on key financial and non-financial risk areas. For the majority of the key risk categories, approximately 45%-55% of FRFIs have assessed less than 20% of their various portfolios for climate-related risks. This signals that FRFIs need to accelerate their assessments across all key risk categories.
+
+**Chart 2 – FRFI progress in assessing the impact of climate-related risks on credit, market, operational, and insurance risks**
+
+![Line graph, text description below.](/sites/default/files/styles/responsive_mobile_full_width/public/images/b15-saq-img2-en.JPG?itok=CUwE3Jrv)
+
+Chart 2 - Text description
+
+Chart 2
+
+|  | Percentage of portfolio assessed | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Proportion of FRFI respondents | 0%-20% | 21%-40% | 41%-60% | 61%-80% | 81%-100% |
+| Credit | 46% | 18% | 8% | 6% | 9% |
+| Market | 49% | 11% | 11% | 6% | 10% |
+| Operational | 52% | 14% | 11% | 7% | 10% |
+| Insurance | 35% | 13% | 16% | 4% | 14% |
+
+**Chart 3 – FRFI progress in assessing the impact of climate-related risks on liquidity, strategic, and reputational risks**
+
+![Line chart, text description below.](/sites/default/files/styles/responsive_mobile_full_width/public/images/b15-saq-img3-en.JPG?itok=Al8Y191T)
+
+Chart 3 - Text description
+
+Chart 3
+
+|  | Percentage of portfolio assessed | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Proportion of FRFI respondents | 0 %-20 % | 21 %-40 % | 41 %-60 % | 61 %-80 % | 81 %-100 % |
+| --- | --- | --- | --- | --- | --- |
+| Liquidity | 56% | 11% | 4% | 4% | 7% |
+| Strategic | 51% | 14% | 14% | 4% | 10% |
+| Reputational | 55% | 11% | 8% | 9% | 10% |
+
+#### Determining climate-related data needs and their sources
+
+The majority of FRFIs are in early stages of determining the data they need to manage climate-related risks. Based on self-reporting, DTIs are more nascent in understanding their data needs than other industry groups. Nevertheless, FRFIs reported the following common climate-related data points that they need:
+
+* Scope 1 and Scope 2 GHG emissions from the FRFI’s own operations
+* Data to support Scope 3 GHG emissions calculations
+* Geophysical data for assets
+* Historical climate data, catastrophe and peril mapping
+* ESG scores from rating agencies
+
+Multiple institutions also noted using publicly available sources, such as counterparty public disclosures, as well as data and reports from Intergovernmental Panel on Climate Change (IPCC), International Energy Agency (IEA), and scenarios from the Network for Greening the Financial System (NGFS).
+
+Beyond these, some FRFIs identified additional data, highlighted as examples in Table 1 below.
+
+Table 1: Examples of climate-related data points
+
+|  |  |
+| --- | --- |
+| Counterparty or asset-level data | * Client targets and transition plans * Counterparty ESG policy * Asset-level climate risk score (flood, wildfire) * Industry classification codes –e.g., Standard industry Classification (SIC), North American Industry Classification System (NAICS) * Asset-level energy efficiency ratings * Third-party energy certifications |
+| Benchmarking data | * Regulatory enforcement data * Climate litigation data * Insurance claims data * Electricity forecast * Renewable energy data * Data on the impact of climate change on mortality and morbidity |
+| Climate or weather-related data | * Historical and current atmospheric conditions * National Oceanic and Atmospheric Administration (NOAA) data * Hydrological data * Global maps on climate change variables * Sea-level rise estimates |
+| Jurisdiction-specific data | * Regulatory policy data * Country-level exposure to transition risk and economic vulnerability * Carbon prices / taxes * Land cover maps |
+| Scenario analysis-related data | * Sectoral transition pathways * Industry-accepted macro- and micro-economic data and transition scenarios * Representative Concentration Pathways / Shared Socioeconomic Pathways (RCP/SSP) based scenarios |
+
+Some FRFIs highlighted challenges with obtaining certain data points, such as data supporting Scope 3 GHG emissions calculations, and longer-term data sets such as data on the impact of climate change on morbidity and mortality. For some FRFIs, data related to private or smaller clients and counterparties either do not exist or are unreliable. A few institutions reported that they are developing physical and transition risk questionnaires for their clients and counterparties to collect the data directly.
+
+#### Using climate scenario analysis to assess the impact of climate-related risks
+
+Over 40% of FRFIs reported they have started or plan to implement climate scenario analysis to assess climate-related risks, with slightly more progress reportedly made on physical risks than transition risks.
+
+Furthermore, as shown in Chart 4, 75%-85% respondents reported that they are, or will be, assessing the impact of climate-related risks over a five-year horizon, with progressively fewer respondents assessing these risks for longer-term time horizons. We also noted industry-specific differences: more life insurers reported examining climate-related risks for longer-term time horizons than DTIs and P&C insurers. However, this is expected given the nature of life insurers’ assets and liabilities.
+
+**Chart 4 – Proportion of FRFIs by industry group considering different time horizons for their climate scenario analysis**
+
+![Bar graph, text description below.](/sites/default/files/styles/responsive_mobile_full_width/public/images/b15-saq-img4-en.JPG?itok=prmbTG6i)
+
+Chart 4 - Text description
+
+Chart 4
+
+| Proportion of FRFI respondents | Time horizon considered in climate scenario analysis | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <5 years | | | 5 to 10 years | | | 10-30 years | | | > 30 years | | |
+| DTI | Life | P&C | DTI | Life | P&C | DTI | Life | P&C | DTI | Life | P&C |
+| Yes | 85% | 84% | 76% | 64% | 80% | 56% | 43% | 64% | 49% | 16% | 51% | 27% |
+| No | 14% | 16% | 21% | 34% | 18% | 41% | 54% | 36% | 48% | 81% | 49% | 69% |
+
+Based on SAQ responses, many FRFIs use, or are planning to use, internally developed scenarios for both physical and transition risk analyses or engaging third-party vendors for bespoke scenarios. The least cited scenarios used are public sources, such as the IEA scenarios.
+
+A little less than half of the respondents indicated that they conduct, or will be conducting, both the physical and transition risk climate scenario analyses internally, with some leveraging expertise from their parent institutions. Of the remainder, around 25% of respondents indicated they are, or will be, collaborating with external firms to perform the physical and transition risk analyses. Approximately 20% of FRFIs indicated that they are still in the early planning stages, thus have not decided how to conduct the work. Notably, very few institutions are using external resources exclusively to undertake these analyses.
+
+#### Incorporating climate-related risks into capital and liquidity adequacy assessments
+
+Given the nascency of risk quantification practices noted above, the majority of FRFIs have not incorporated climate-related risks into their Internal Capital Adequacy Assessment Process (ICAAP), Own Risk and Solvency Assessment (ORSA), or liquidity adequacy assessments. That said, most are planning to meet this expectation by the implementation dates.
+
+Furthermore, as shown in Chart 5 below, 30%-50% of FRFIs across all industry groups, indicated that they integrate, or will integrate, climate-related risks into existing risk categories when performing the ICAAP or ORSA. As further indication of the nascency of risk quantification practices, some FRFIs, particularly DTIs, indicated it is too soon to tell how they intend on treating climate-related risks in their ICAAP or ORSA. Lastly, Some FRFIs commented that advancing their climate scenario analysis and stress testing capability is important to incorporating climate-related risks into their ICAAP or ORSA.
+
+**Chart 5 – Proportion of FRFIs treating climate-related risks as a stand-alone risk or integrating them into existing categories in their ICAAP or ORSA**
+
+![Bar and line graph, text description below.](/sites/default/files/styles/responsive_mobile_full_width/public/images/b15-saq-img5-en.JPG?itok=2_qcxiqi)
+
+Chart 5 - Text description
+
+Chart 5
+
+| Proportion of FRFI respondents | Treatment of climate-related risks in stressing the ICAAP or ORSA | | | |
+| --- | --- | --- | --- | --- |
+| % of total | Stand-alone risk | Integrated into existing risk categories | Both | Not sure / too soon to tell |
+| All FRFI | 12% | 39% | 30% | 19% |
+| DTI | 10% | 31% | 31% | 29% |
+| Life | 9% | 52% | 20% | 18% |
+| P&C | 14% | 39% | 34% | 13% |
+
+### 2.3 FRFIs are preparing to report on most categories of the expected climate-related financial disclosures
+
+As FRFIs continue to implement practices to meet the governance and risk management expectations according to Chapter 1 of the Guideline, a small majority reported that they have what they need to disclose most or all of the expected disclosures according to Chapter 2. These results highlight a potential disconnect between FRFIs’ readiness to quantify the risks versus their preparedness to disclose the information publicly.
+
+Notwithstanding the potential disconnect, as shown in Chart 6 below, of the areas where FRFIs will disclose, “Governance” is the most common category where FRFIs self-assessed that they are able to fully report. This is followed by disclosures of “Strategy” and “Risk Management”, where over half of FRFIs reported being able to fully report. Notably, FRFIs are least prepared to publicly disclose Scope 3 GHG emissions, where the majority of FRFIs reported they are not ready. This aligns with the challenges FRFIs reported around their ability to properly collect, measure, and report this information.
+
+**Chart 6 – Proportion of FRFIs with capacity to report on the categories of climate-related financial disclosures**
+
+![Bar graph, text description below.](/sites/default/files/styles/responsive_mobile_full_width/public/images/b15-saq-img6-en_0.JPG?itok=uP-IiZFj)
+
+Chart 6 - Text description
+
+Chart 6
+
+| Category of Disclosure | Proportion of FRFI respondents | | |
+| --- | --- | --- | --- |
+| Full reporting capacity | Partial reporting capacity | No reporting capacity |
+| Governance | 62% | 32% | 6% |
+| Strategy | 57% | 33% | 10% |
+| Risk Management | 54% | 39% | 7% |
+| Metrics and Targets | 44% | 39% | 17% |
+| Scope 1 GHG emissions | 58% | 21% | 22% |
+| Scope 2 GHG emissions | 56% | 24% | 20% |
+| Scope 3 GHG emissions | 15% | 51% | 34% |
+
+### 2.4 Additional guidance from OSFI could help to close capability gaps
+
+Connected to the key theme that FRFIs are in early stages of quantifying climate-related risks, we noted that some FRFIs are seeking additional guidance from OSFI in certain areas to advance their capabilities. They requested additional guidance on:
+
+* climate-related data, including OSFI recommended data sources and additional prescription over asset classes
+* Climate Transition Plans, including clarity on timeframes and expectations
+* quantifying longer-term risks, such as mortality risk and long-term market and credit risks
+* translating the implications of macroeconomic variables to financial statement impacts
+* incorporating climate-related risks into capital and liquidity adequacy assessments
+* scenarios that FRFIs should consider for climate scenario analysis
+
+Furthermore, some FRFIs commented that they plan on leveraging OSFI’s Climate Risk Forum (CRF),The Climate Risk Forum (CRF) is the primary vehicle for OSFI to manage, convene, and coordinate its domestic climate engagement activities. The forum aims to build financial sector awareness and capacity to respond to climate-related risks. It brings together OSFI, our domestic partners, and stakeholders. the upcoming Climate Standardized Scenario Exercise (SCSE), and the climate data risk return, as sources to guide them in meeting the Guideline expectations.
+
+## 3.0 Conclusion and next steps
+
+The SAQ was an opportunity to gauge the FRFIs’ level of readiness to meet the Guideline expectations, understand current challenges and emerging practices. We thank all FRFIs who submitted responses.
+
+The variety of responses confirms that there is no one-size-fits-all approach for managing climate-related risks, given the unique risks and vulnerabilities that will vary with a FRFI’s size, nature, scope, and complexity of its operations, and risk profile. What this means is that FRFIs will have to assess their risks and exposures and apply the Guideline expectations proportionally to their overall risk profile.
+
+While many FRFIs are progressing gradually towards meeting the different expectations set out in the Guideline, we noted that some FRFIs are in very early stages of considering climate-related risks and how they will manage them. In those cases, we suggest that the FRFIs accelerate their plans, consider any potential sequencing of steps, and factor in the time required to develop and operationalize their governance and risk management practices.
+
+Furthermore, we noted that some FRFIs plan on using external sources, such as consultants, to execute some of their climate risk management program, such as providing climate-related data, developing models, and conducting analyses. In those cases, we suggest that FRFIs ensure their risk decision-makers have the appropriate level of expertise, skills, experience, and competencies to assess and challenge, where necessary, the work of these external sources.
+
+In response to FRFI-identified challenges, particularly around risk quantification, OSFI’s upcoming 2024 SCSE could be useful in helping to advance practices. In particular, the SCSE aims to
+
+* raise awareness and encourage a strategic orientation with FRFIs to better understand their potential exposures to climate change
+* encourage the building of FRFIs’ capacity to assess the impact of climate-related catastrophic events and policies and conduct climate scenario analysis exercises
+* establish a standardized quantitative assessment of climate-related risks, both transitional and physical in nature
+
+Given the evolving nature of climate-related risks, we will also leverage the CRF, such as through Practitioner Sessions,The Practitioner Sessions are one of the activities under the umbrella of CRF targeted to FRFIs. The objective of these sessions is to highlight best practices with regulated entities, communicate OSFI expectations regarding climate risk management and disclosures, and share information about trends and developments related to climate risk management and disclosures. to continue to build FRFI awareness and capacity to respond to climate-related risks.
+
+While OSFI has a number of climate-related initiatives underway, we remind FRFIs that these initiatives are meant to be foundation building tools. These initiatives should not be used as a substitute for the FRFI’s own climate risk assessment and management. When supervising FRFI’s climate risk management, and in line with OSFI’s supervision approach, we will focus on the FRFIs’ risks and risk management, proportional to their circumstances.
+
+As next steps, later this year we will engage the industry through the CRF on the SAQ results. FRFIs can subscribe to the CRF to keep abreast of upcoming events. We will also be leveraging the learnings from the SCSE, as well as monitoring evolving practices and standards, to assess the need for additional guidance. Lastly, we plan on re-issuing the SAQ in 18-24 months to follow FRFI progress.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-01-29

@@ -1,0 +1,1 @@
+Summary: # Tobi Lutke’s idea that pensioners be excluded from voting is offensive. The concern behind it isn’t

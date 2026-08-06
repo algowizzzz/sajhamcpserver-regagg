@@ -1,0 +1,24 @@
+{
+  "doc_id": "d2f79488589ce662",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Insurance Executive Sentenced in Embezzlement Scheme | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/insurance-executive-sentenced-embezzlement-scheme",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f3b45a8b2eaad105fa4b1c3d16e479709af2c8b2cea485bda7c7f75663eebb2d",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/d2f79488589ce662",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

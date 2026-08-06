@@ -1,0 +1,107 @@
+# Application of FinCEN’s Regulations to Persons Issuing Physical or Digital Negotiable Certificates of Ownership of Precious Metals
+
+[FIN-2015-R001.pdf](/system/files/administrative_ruling/FIN-2015-R001.pdf "FIN-2015-R001.pdf")
+(68.49 KB)
+
+FIN-2015-R001
+
+Application of FinCEN’s Regulations to Persons Issuing Physical or Digital Negotiable Certificates of Ownership of Precious Metals
+
+Issued Date
+
+August 14, 2015
+
+Dear []:
+
+This responds to your letter of July 15, 2014, seeking an administrative ruling from the Financial Crimes Enforcement Network (“FinCEN”) on behalf of [ ] (the “Company”), regarding FinCEN’s money services business (“MSB”) regulations under the Bank Secrecy Act (“BSA”). Specifically, you ask for FinCEN’s determination as to whether the operations and transaction services offered by the Company make it a money transmitter as defined under the BSA. Based on the following analysis of the description of the Company’s activities as presented in your letter, FinCEN finds that the Company would be a money transmitter and a dealer in precious metals, precious stones, or jewels pursuant to our regulations.
+
+You state in your letter that the Company engages in three complementary but distinct types of activities:
+
+1. The Company provides Internet-based brokerage services between buyers and sellers of precious metals. Buyers pay sellers directly by check, wire transfer, or bitcoin.
+2. The Company buys and sells precious metals on its own account.
+3. The Company holds precious metals in custody for buyers that purchase this service (“Customers”), opening a digital wallet for the Customer and issuing a digital proof of custody (a “digital certificate”) that can be linked to the Customer’s wallet on the Bitcoin blockchain ledger. The Customer then can trade or exchange its precious metals holdings at the Company by any means it could trade or exchange bitcoin via the rails of the blockchain ledger.
+
+The Company derives its income from charging a transaction fee on transfers of digital certificates by Customers and a custody fee for precious metals held in custody.
+
+***FinCEN’s definition of money transmission and existing exemptions; relationship to the Company’s activities as a broker and an issuer of freely transferable digital gold certificates***
+
+On July 21, 2011, FinCEN published a Final Rule amending definitions and other regulations relating to MSBs (the “Rule”).1 The amended regulations define an MSB as “[A] person wherever located doing business, whether or not on a regular basis or as an organized or licensed business concern, wholly or in substantial part within the United States, in one or more of the capacities listed in paragraphs (ff)(1) through (ff)(7) of this section. This includes but is not limited to maintenance of any agent, agency, branch, or office within the United States.”2
+
+The Rule defines the term “money transmitter” to include a person that provides money transmission services, or any other person engaged in the transfer of funds. The term “money transmission services” means the acceptance of currency, funds, or other value that substitutes for currency from one person *and* the transmission of currency, funds, or other value that substitutes for currency to another location or person by any means.3 The regulations also stipulate that whether a person is a money transmitter is a matter of facts and circumstances, and identifies circumstances under which a person’s activities would not make such person a money transmitter.4 The regulations specifically exempt from money transmitter status a person that only provides the delivery, communication, or network data access services used by a money transmitter to supply money transmission services.5 To the extent the only type of brokerage services offered by the Company are those in which the buyer makes payment directly to the seller, the Company would meet this exemption and FinCEN would not deem the Company a money transmitter.
+
+On March 18, 2013, FinCEN issued guidance on the application of FinCEN’s regulations to transactions in virtual currencies (the “guidance”).6 FinCEN’s regulations define currency (also referred to as “real” currency) as “[t]he coin and paper money of the United States or of any other country that [i] is designated as legal tender and that [ii] circulates and [iii] is customarily used and accepted as a medium of exchange in the country of issuance.”7 In contrast to real currency, “virtual” currency is a medium of exchange that operates like a currency in some environments, but does not have all the attributes of real currency. In particular, virtual currency does not have legal tender status in any jurisdiction. The guidance addresses “convertible” virtual currency. This type of virtual currency either has an equivalent value in real currency, or acts as a substitute for real currency.
+
+For purposes of the guidance, FinCEN refers to the participants in generic virtual currency arrangements, using the terms “user,” “exchanger,” and “administrator.” A user is a person that obtains virtual currency to purchase goods or services on the user’s own behalf. FinCEN has determined that users are not money transmitters. An exchanger is a person engaged as a business in the exchange of virtual currency for real currency, funds, or other virtual currency. An administrator is a person engaged as a business in issuing (putting into circulation) a virtual currency, and who has the authority to redeem (to withdraw from circulation) such virtual currency. Both exchangers and administrators may operate as money transmitters depending on the specific facts and circumstances.
+
+The guidance describes three common business models (types of activity) to illustrate the application of the money transmission definition. The first type of activity involves electronic trading in e-currencies or e-precious metals.8 In 2008, FinCEN issued guidance stating that as long as a broker or dealer in real currency or other commodities accepts and transmits funds solely for the purpose of effecting a bona fide purchase or sale of the real currency or other commodities for or with a customer, such person is not acting as a money transmitter under the regulations. However, if the broker or dealer transfers funds between a customer and a third party that is not part of the currency or commodity transaction, such transmission of funds is no longer a fundamental element of the actual transaction necessary to execute the contract for the purchase or sale of the currency or the other commodity.9 This scenario is, therefore, money transmission.10 Examples include, in part, (1) the transfer of funds between a customer and a third party by permitting a third party to fund a customer’s account; (2) the transfer of value from a customer’s currency or commodity position to the account of another customer; or (3) the closing out of a customer’s currency or commodity position, with a transfer of proceeds to a third party. Since the definition of a money transmitter does not differentiate between real currencies and convertible virtual currencies, the same rules apply to brokers and dealers of e-currency and e-precious metals.
+
+The Company does not fall under the e-currencies or e-precious metals trading exemption from money transmission because, when the Company issues a freely transferable digital certificate of ownership to buyers, it is allowing the unrestricted transfer of value from a customer’s commodity position to the position of another customer or a third-party, and it is no longer limiting itself to the type of transmission of funds that is a fundamental element of the actual transaction necessary to execute the contract for the purchase or sale of the currency or the other commodity. FinCEN finds that, as the Company is going beyond the activities of a broker or dealer in commodities and is acting as a convertible virtual currency administrator (with the freely transferable digital certificates being the commodity-backed virtual currency), the Company falls under the definition of money transmitter.
+
+***FinCEN’s definition of dealer in precious metals, precious stones, or jewels; application to the Company’s activities as a direct seller of precious metals***
+
+Dealers and certain retailers engaging in the purchase and sale of precious metals, precious stones, or jewels are financial institutions under FinCEN regulations. FinCEN defines a dealer as “a person engaged within the United States as a business in the purchase and sale of covered goods and who, during the prior calendar or tax year (i) purchased more than $50,000 in covered goods; and (ii) received more than $50,000 gross proceeds from the sale of covered goods.”11 FinCEN includes in the definition of “dealer” those persons “… engaged within the United States in the business of sales primarily to the public of covered goods…who during the prior calendar or tax year … purchased more than $50,000 in covered goods from persons other than dealers or other retailers (such as members of the general public or foreign sources of supply.”12 The term “covered goods” includes precious metals as listed in 31 CFR § 1027.100(d). Based on your letter, and subject to the monetary threshold and type of supplier considerations explained above, the purchases and sales the Company entered into on its own account would make the Company a dealer in precious metals, and therefore a financial institution subject to FinCEN regulations.
+
+When acting as either a money transmitter or a dealer in precious metals, precious stones, or jewels, the Company must assess the money laundering risk involved in its non-exempt transactions, and implement an anti-money laundering program to mitigate such risk. In addition, the Company must comply with the recordkeeping, reporting, and transaction monitoring requirements under FinCEN regulations. Examples of such requirements include the filing of reports relating to currency in excess of $10,000 received in a trade or business (31 CFR § 1027.330) whenever applicable, general recordkeeping maintenance (31 CFR § 1027.410), and recordkeeping related to the sale of negotiable instruments (31 CFR § 1010.415). Furthermore, to the extent that any of the Company’s transactions constitute a “transmittal of funds” (31 CFR § 1010.100(ddd)) under FinCEN’s regulations, then the Company must also comply with the “Funds Transfer Rule” (31 CFR § 1010.410(e)) and the “Funds Travel Rule” (31 CFR § 1010.410(f)). Additionally, as a money transmitter, the Company must register with FinCEN within 180 days of starting to engage in convertible virtual currency transactions as an exchanger (31 CFR § 1022.380).
+
+This ruling is provided in accordance with the procedures set forth at 31 CFR Part 1010 Subpart G. In arriving at the conclusions in this administrative ruling, we have relied upon the accuracy and completeness of the representations you made in your communications with us. Nothing precludes FinCEN from arriving at a different conclusion or from taking other action should circumstances change or should any of the information you have provided prove inaccurate or incomplete. We reserve the right, after redacting your name and address, and similar identifying information for your clients, to publish this letter as guidance to financial institutions in accordance with our regulations.13 You have fourteen days from the date of this letter to identify any other information you believe should be redacted and the legal basis for redaction.
+
+---
+
+If you have questions about this ruling, please contact FinCEN’s Regulatory Helpline at (703) 905-3591.
+
+Sincerely,
+
+/signed/
+
+Robert Gerardi
+
+Acting Associate Director
+
+Policy Division
+
+1 Bank Secrecy Act Regulations – Definitions and Other Regulations Relating to Money Services Businesses, 76 FR 43585 (July 21, 2011).
+
+2 31 CFR § 1010.100(ff).
+
+3 31 CFR § 1010.100(ff)(5)(i)(A).
+
+4 31 CFR § 1010.100(ff)(5)(ii).
+
+5 31 CFR § 1010.100(ff)(5)(ii)(A).
+
+6 FIN-2013-G001, “Application of FinCEN’s Regulations to Persons Administering, Exchanging, or Using Virtual Currencies,” March 18, 2013.
+
+7 31 CFR § 1010.100(m).
+
+8 Typically, this involves the broker or dealer electronically distributing digital certificates of ownership of real currencies or precious metals, with the digital certificate being the virtual currency. However, the same conclusions would apply in the case of the broker or dealer issuing paper ownership certificates or manifesting customer ownership or control of real currencies or commodities in an account statement or any other form. These conclusions would also apply in the case of a broker or dealer in commodities other than real currencies or precious metals. A broker or dealer of e-currencies or e-precious metals that engages in money transmission could be either an administrator or exchanger depending on its business model.
+
+9 Application of the Definition of Money Transmitter to Brokers and Dealers in Currency and other Commodities, FIN-2008-G008, Sept. 10, 2008. The guidance also notes that the definition of money transmitter excludes any person, such as a futures commission merchant, that is “registered with, and regulated or examined by…the Commodity Futures Trading Commission.”
+
+10 In 2011, FinCEN amended the definition of money transmitter. The 2008 guidance, however, was primarily concerned with the core elements of the definition – accepting and transmitting currency or value – and the exemption for acceptance and transmission integral to another transaction not involving money transmission. The 2011 amendments have not materially changed these aspects of the definition.
+
+11 31 CFR § 1027.100(b).
+
+12 31 CFR § 1027.100(b)(2)(i).
+
+13 31 CFR §§ 1010.711-717.
+
+Financial Institution
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

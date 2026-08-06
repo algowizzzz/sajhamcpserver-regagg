@@ -1,0 +1,1 @@
+Summary: # Extension of divestiture period for control or holding of a substantial investment obtained as a result of a loan default-minister’s approval

@@ -1,0 +1,33 @@
+# SAR Filing Leads to Embargo Investigation
+
+[059.pdf](/system/files/case_example/059.pdf "059.pdf")
+(21.7 KB)
+
+An investigation of a possible violation of the International Emergency Economic Powers Act was initiated following the filing of a SAR by a bank in New York. The SAR stated that an unnamed bank vice president in charge of the funds transfer program manipulated four payments to the Sudan totaling $73,000 in violation of the embargo. The subject allegedly manipulated the bank’s internal Office of Foreign Assets Controls (OFAC) filtering system by either manually over-riding its function (to screen and block any and all funds transfers in violation of OFAC laws and regulations) or by omitting any reference to Sudan and re-processing the wire transfers through the same filtering system. The case was subsequently turned over to OFAC for appropriate action.
+
+(Source: U.S. Customs Service)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 2, June 2001]
+
+Tags
+
+Depository Institutions
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

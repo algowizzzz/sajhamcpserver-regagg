@@ -1,0 +1,63 @@
+# Equal Employment Opportunity
+
+**Office of Equal Employment Opportunity**
+
+The Office of Equal Employment Opportunity provides leadership, direction and guidance on workplace issues, such as equal employment opportunity, harassment, dispute prevention, workplace and work product accessibility, and reasonable accommodations. The office also has the responsibility of ensuring compliance with Management Directive MD-715.
+
+* [Policy and Procedures for the Prevention and Elimination of Workplace Harassment](https://www.fincen.gov/system/files/shared/AntiHarassmentPolicy.pdf)
+* [NO FEAR Act](https://home.treasury.gov/footer/no-fear-act)
+* [Reasonable Accommodation Policy](https://www.fincen.gov/system/files/shared/reasonable_accommodation.pdf)
+
+**EEO Complaint Processing**
+
+FinCEN is an equal opportunity employer. If you are an employee, or applicant for employment, and feel that you have been discriminated against, you have the right to file a complaint of discrimination with FinCEN. Complaints are accepted on the following basis:
+
+* race
+* color
+* national origin
+* sex
+* age
+* religion
+* disability
+* reprisal
+* pregnancy, childbirth, and other related medical conditions.
+
+Complaints of discrimination based protected genetic information and parental status, although not covered by the laws prohibiting discrimination, may be filed and will be handled by FinCEN under special Treasury procedures.
+
+If you believe that you have been subjected to unlawful discrimination, you MUST contact an EEO counselor within 45 calendar days of the alleged discriminatory activity. Please contact the Office of Equal Opportunity to discuss your complaint.
+
+The role of the EEO counselor is to define the issues and bases of the claim and attempt resolution. If you meet the bureau requirement, the counselor may also offer you to participate in FinCEN’s alternative dispute resolution (ADR) program. If you do not elect ADR, the counselor may do a limited inquiry of the circumstances giving rise to your allegations and attempt resolution of the complaint.
+
+The counseling process should not exceed 30 days; however, the Complainant may agree to extend counseling for up to an additional 60 days. If no resolution is achieved during that time, the counselor will provide you with a Notice of Right to File a Discrimination Complaint. The formal complaint MUST be filed within 15 calendar days of receipt of that notice with the Treasury Complaint Center. The address of the complaint center should be indicated on the Notice of Right to File, and a complaint form will be provided by the counselor.
+
+Once a formal complaint has been filed, an investigation will be conducted. Upon completion of the investigation, you will be entitled to a hearing before an Equal Employment Opportunity Commission Administrative Judge or a final agency decision by Department of the Treasury’s Office of Civil Rights and Equal Employment Opportunity.
+
+**Equal Employment Opportunity and Diversity Policy**
+
+**MEMORANDUM FOR ALL EMPLOYEES**
+
+May 27, 2025
+
+**FROM:** Andrea Gacki, Director
+
+**SUBJECT:** Equal Employment Opportunity Policy Statement
+
+This policy statement reaffirms FinCEN’s commitment to a work environment that is free from any unlawful discrimination, prohibited harassment, and retaliation in all aspects of employment policies and practices. For FinCEN to be an effective organization, we must continuously aim for an environment free from discrimination.
+
+All employees and applicants for employment should be treated with dignity and respect. FinCEN does not tolerate discrimination or harassment based on race, color, age (40 or over), national origin, religion, sex (including pregnancy), physical or mental disabilities, marital status, parental status, genetic information, or prior Equal Employment Opportunity (EEO) activities.
+
+Employees who believe they are experiencing harassment should bring their concerns immediately to the attention of their supervisor, a member of their management team, or the Deputy Associate Director of the Management Division, per FinCEN’s Directive 1200.01, Policy and Procedures for the Prevention and Elimination of Workplace Harassment (August 20, 2007).
+
+Any employee who believes that they have been subjected to any form of unlawful discrimination or reprisal for protected EEO activity must contact the Office of Equal Employment Opportunity within forty-five (45) days of the alleged discrimination or reprisal, to preserve their right to raise a complaint. Retaliation against an employee who reports unlawful discrimination or harassment is strictly prohibited.
+
+Managers and supervisors should be proactive to ensure fairness and equal employment opportunity in personnel management, including recruitment, hiring, promotions, training, and awards. It is our responsibility to ensure we select, promote, train, and award solely based on an individual’s merit, knowledge, skills, and abilities.
+
+If you have any questions, please [contact the Office of Equal Employment Opportunity](/contact).
+
+* [About FinCEN](/about-fincen)
+* [Mission](/about-fincen/mission)
+* [What We Do](/about-fincen/what-we-do)
+* [Insignia](/about-fincen/insignia)
+* [EEO](/about-fincen/equal-employment-opportunity)
+* [Contract Opportunities](/about-fincen/contract-opportunities)
+* [FinCEN Year In Review](/about-fincen/fincen-year-review)

@@ -1,0 +1,66 @@
+# FinCEN Advisory - Issue 25
+
+## Advisory Information
+
+n/a
+
+[advis25.pdf](/system/files/advisory/advis25.pdf "advis25.pdf")
+(217.13 KB)
+
+Issued Date
+
+July 01, 2000
+
+Subject
+
+Transactions Involving the Russian Federation
+
+FinCEN Advisory
+
+This Advisory is being issued to inform banks and other financial institutions operating in the United States of serious deficiencies in the counter-money laundering systems of the Russian Federation. The impact of such deficiencies on the scrutiny that should be given to certain transactions or banking relationships involving Russia, in light of the suspicious transaction reporting obligations of financial institutions operating in the United States, is discussed below.
+
+The counter-money laundering regime embodied in the legal, supervisory, and regulatory systems of Russia suffers from serious systemic problems.
+
+* Russia lacks comprehensive counter-money laundering laws and regulations that meet international standards.
+* A Penal Code provision that criminalizes money laundering is of limited practical effect and application.
+* Russia fails to implement customer identification for many transactions.
+* Russian financial institutions are not required to report suspicious transactions.
+* Russia lacks effective and timely procedures for providing evidence through bilateral agreements to assist in foreign money laundering investigations. In this context, Russia.s lack of a fully operational financial intelligence unit devoted to fighting money laundering is especially detrimental.
+
+These deficiencies, among others, have caused Russia to be identified by the Financial Action Task Force on Money Laundering (the .FATF.) as noncooperative .in the fight against money laundering.. The FATF, created at the 1989 G-7 Economic Summit, is a 29 member international group that works to combat money laundering.
+
+Russia.s movement from a centrally-planned to a free-market economy and from a totalitarian to a democratic state is an historic transformation of virtually unparalleled scope. Russia.s progress in fighting money laundering, and its efforts to remove obstacles to effective countermoney laundering from its legal, supervisory, and regulatory systems, must take account of those realities.
+
+The Government of Russia has publicly stated its intention to make the development of an effective counter-money laundering regime, based on international standards, a priority. Russian authorities have outlined a counter-money laundering strategy that includes enactment, as soon as possible, of comprehensive legislation that would bring its counter-money laundering programs in line with recognized international norms; the legislation, inter alia, would require suspicious transaction reporting, with reports to be sent to the .Interagency Centre for Countering the Legalization (Laundering) of Illegally Derived Proceeds.. The Central Bank of Russia has acted, in the absence of the necessary legislation, to provide guidance to financial institutions on identifying and monitoring suspicious transactions on a voluntary basis. It has required financial institutions to report financial transactions involving specific jurisdictions. In addition, the Central Bank is employing internal procedures to identify transactions that appear irregular according to its own objective criteria and hence may be suspicious. The customs authorities are required to monitor the movement across the Russian border of currency, securities, other currency-related valuables, and certain currency transactions. While helpful, these steps are insufficient to correct the deficiencies of the Russian counter-money laundering systems, and those deficiencies, at present, increase the possibility that transactions involving Russia will be used for illegal purposes.
+
+Thus, banks and other financial institutions operating in the United States should carefully consider, when dealing with transactions (especially those involving large sums of money, whether in cash or by wire transfer), originating in or routed to or through Russia, or involving entities organized or domiciled, or persons maintaining accounts, in Russia, how the lack of adequate counter-money laundering controls in Russia affects the possibility that those transactions are being used for illegal purposes. A financial institution subject to the suspicious transaction reporting rules contained in 31 C.F.R. 103.18 (formerly 31 C.F.R. 103.21) (effective April 1, 1996), and in corresponding rules of the federal financial institution supervisory agencies, should carefully examine the available facts relating to any such transaction to determine if such transaction (of $5,000 or more, U.S. dollar equivalent) requires reporting in accordance with those rules. Institutions subject to the Bank Secrecy Act but not yet subject to specific suspicious transaction reporting rules should consider such a transaction with relation to their reporting obligations under other applicable law. All institutions are particularly advised to give enhanced scrutiny to transactions or banking relationships that do not involve established, and adequately identified and understood, commercial or investment enterprises, as well as to transactions involving the routing of transactions from Russia through third jurisdictions in ways that appear unrelated to commercial necessities.
+
+It should be emphasized that the issuance of this Advisory and the need for enhanced scrutiny for certain transactions or banking relationships, does not mean that U.S. financial institutions should curtail legitimate business with Russia.
+
+To dispel any doubt about application of the .safe harbor. to transactions within the ambit of this Advisory, the Treasury Department will consider any report relating to a transaction described in this Advisory to constitute a report of a suspicious transaction relevant to a possible violation of law or regulation, for purposes of the prohibitions against disclosure and the protection from liability for reporting of suspicious transactions contained in 31 U.S.C. 5318(g)(2) and (g)(3).
+
+United States officials stand ready to provide appropriate technical assistance to Russian officials as they work to remedy the deficiencies in Russia.s counter-money laundering systems that are the subject of this Advisory.
+
+James F. Sloan  
+Director
+
+---
+
+FinCEN Advisory is a product of the Financial Crimes Enforcement Network, Department of the Treasury, Post Office Box 39, Vienna, Virginia 22183. For more information about FinCEN’s programs, visit the FinCEN web site at <https://www.fincen.gov>. General questions or comments regarding FinCEN publications should be addressed to the Office of Communications, FinCEN, (703) 905-3773. Information may also be faxed to (703) 905-3885.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

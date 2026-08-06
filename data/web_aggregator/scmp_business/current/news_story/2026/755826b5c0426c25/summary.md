@@ -1,0 +1,1 @@
+Summary: # China cuts durian settlement to 30 minutes with first outbound e-CNY payment to Malaysia

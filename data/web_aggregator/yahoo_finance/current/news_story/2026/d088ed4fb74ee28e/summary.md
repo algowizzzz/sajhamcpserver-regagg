@@ -1,0 +1,1 @@
+Summary: # Apple vs. Alphabet: The $5 Trillion AI Bet That’s Renting, Not Building

@@ -1,0 +1,1 @@
+Summary: Each year funding portal ﬁrms are required to report to FINRA the funding portal’s gross 

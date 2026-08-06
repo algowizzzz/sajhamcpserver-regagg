@@ -1,0 +1,1 @@
+Summary: # Version finale du guide d’instructions – Demande de modification visant à réduire les prestations versées au titre d’un régime de retraite à prestations déterminées

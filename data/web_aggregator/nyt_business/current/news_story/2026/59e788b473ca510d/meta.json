@@ -1,0 +1,25 @@
+{
+  "doc_id": "59e788b473ca510d",
+  "regulator_id": "nyt_business",
+  "doc_type": "news_story",
+  "title": "These New Travel Initiatives Could Slash Airport Wait Times",
+  "language": "en",
+  "source_url": "https://www.nytimes.com/2026/08/04/travel/tsa-security-airport-wait-time.html",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:44f4cb2854575230e82af290c1f9bf47a5f2d1ce18419b1fbc0616a7caea966c",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nyt_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nyt_business/current/news_story/2026/59e788b473ca510d",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.nytimes.com/2026/08/04/travel/tsa-security-airport-wait-time.html",
+  "fetch_method": "feed_summary"
+}

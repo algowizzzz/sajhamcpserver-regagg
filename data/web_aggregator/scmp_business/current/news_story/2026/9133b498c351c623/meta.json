@@ -1,0 +1,25 @@
+{
+  "doc_id": "9133b498c351c623",
+  "regulator_id": "scmp_business",
+  "doc_type": "news_story",
+  "title": "China\u2019s MiniMax curbs overseas access to new AI video model over copyright disputes",
+  "language": "en",
+  "source_url": "https://www.scmp.com/tech/tech-trends/article/3362951/chinas-minimax-curbs-overseas-access-new-ai-video-model-over-copyright-disputes?utm_source=rss_feed",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b26b386c4024593443fab29098853996ab54c74798d1494a240df73521cb3a9e",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_scmp_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/scmp_business/current/news_story/2026/9133b498c351c623",
+  "tags": [
+    "hong_kong"
+  ],
+  "final_url": "https://www.scmp.com/tech/tech-trends/article/3362951/chinas-minimax-curbs-overseas-access-new-ai-video-model-over-copyright-disputes?utm_source=rss_feed",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "3e8fe7a9dc712007",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "P&C Minimum Capital Test and Branch Adequacy of Assets Test PC4 instructions - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-minimum-capital-test-branch-adequacy-assets-test-pc4-instructions-0",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4193fa2d50f6a817d86883d63c5e8083f4224c199f2939bf54aff904f3d9fdb9",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/3e8fe7a9dc712007",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

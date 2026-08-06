@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12460",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Permitted Payment Stablecoin Issuer Customer Identification Program",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12460/permitted-payment-stablecoin-issuer-customer-identification-program",
+  "reference_number": "2026-12460",
+  "published_date": "2026-06-22",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b806342020127ed83bc5e2d9f24d32e931dae4ef4ef8792da6f23ccd265ec685",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12460",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

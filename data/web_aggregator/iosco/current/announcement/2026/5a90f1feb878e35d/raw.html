@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta http-equiv="x-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, maximum-scale=1.0, shrink-to-fit=no">
+    <meta name="google-site-verification" content="WfjJRreYRPazKV35O1tQ8m0Y-gT6U3Y1lfDi2NfuSkU">
+    <meta name="msvalidate.01" content="CD5A4FF7C6CDB3562F517D75B77F92B4">
+    <meta name="description" content="International Organization of Securities Commissions (IOSCO)">
+    <meta name="keywords" content="iosco, international organization of securities commissions, global standard setter for the securities sector, standards for securities regulation, objectives and principles of securities regulation, securities markets, supervision of markets, capital markets, emerging markets, derivatives markets, global regulatory reform agenda, cross-border enforcement and exchange of information, international regulatory benchmarks, financial market infrastructures, investor protection, investor education, investor training">
+	<title>IOSCO</title>
+    
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/select2-bootstrap-5-theme@1.3.0/dist/select2-bootstrap-5-theme.min.css" nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    <link rel="stylesheet" href="/v2/css/fontawesome-6.7.2/css/fontawesome.min.css" nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    <link rel="stylesheet" href="/v2/css/fontawesome-6.7.2/css/brands.min.css" nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    <link rel="stylesheet" href="/v2/css/fontawesome-6.7.2/css/solid.min.css" nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    <link rel="stylesheet" href="/v2/css/style.css?v=1.0.00098" nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous" nonce="JIGV6pTnQ9JwpDGkzrKlDg=="></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous" nonce="JIGV6pTnQ9JwpDGkzrKlDg=="></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js" nonce="JIGV6pTnQ9JwpDGkzrKlDg=="></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js" nonce="JIGV6pTnQ9JwpDGkzrKlDg=="></script>
+    <script src="/v2/js/mediaPlayer.js?a=20" nonce="JIGV6pTnQ9JwpDGkzrKlDg=="></script>
+    <script src="/v2/js/popUp.js?v=5" nonce="JIGV6pTnQ9JwpDGkzrKlDg=="></script>
+    
+    
+    <style nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+        @media screen and (min-width: 1200px) { /* only make header fixed for non-mobile breakpoints */
+            body {
+                padding-top: 100px; /* Adjust based on header height */
+            }
+            #header {
+                background-color: #ffffff; /* important, if not lower layers will be seen */
+                box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                z-index: 1000;
+            }
+        }
+
+        #closeVideoButton {
+            text-align: right;
+            padding-bottom:0.5rem;
+        }
+
+        #closeVideoButton > i {
+            line-height: 1.5rem;
+        }
+    </style>
+    
+
+    
+	
+		
+        
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-E98BZZFKD5" nonce="JIGV6pTnQ9JwpDGkzrKlDg=="></script>
+		<script nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-E98BZZFKD5');
+		</script>
+	
+
+    <script nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+        $(function(){
+            let $leftMenu = $("#leftMenu");
+            let $main = $("#main");
+            let pageTitle = $("h1").text();
+            if (pageTitle != null)
+                document.title = pageTitle;
+
+            let configureView = function(event){
+                let headerHeight = $("#header").outerHeight();
+                let footerHeight = $("#footer").outerHeight();
+                let newMainHeight = window.innerHeight - headerHeight - footerHeight;
+                $main.css("min-height", newMainHeight);
+
+                if (event === "load"){
+                    if (window.innerWidth < 768){
+                        $leftMenu.find(".accordion-header button").addClass("collapsed").attr("aria-expanded", "false");
+                        $leftMenu.find(".accordion-collapse").removeClass("show");
+                    }
+                    else {
+                        $leftMenu.find(".accordion-header button").removeClass("collapsed").attr("aria-expanded", "true");
+                        $leftMenu.find(".accordion-collapse").addClass("show");
+                    }
+                }
+            };
+    
+            configureView("load");
+
+            $(window).on("resize", function(){
+                configureView("resize");
+            });
+
+            
+                multimediaLinkPrefix = "";
+            
+
+            let $alertModal = $("#alertModal");
+            alertModal = function(title, body){
+                $alertModal.find(".modal-title").html(title).end().find(".modal-body").html(body).end().modal("show");
+            }
+
+            $("#closeVideoButton").on("mouseover", function(){this.style.color='red';}).on("mouseout", function(){this.style.color='black';});
+        });
+    </script>
+
+    
+    
+</head>
+<body>
+    <div id="header">
+        <script nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    $(function(){
+        $("#btnMembersArea").on("click", function(e){
+            window.location.href = '/members_area/';
+        })
+        
+    });
+</script>
+
+
+<script nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    document.addEventListener('DOMContentLoaded', function () {
+        const dropdowns = document.querySelectorAll('.dropdown');
+        const mediaQuery = window.matchMedia("(min-width: 1200px)");
+
+        dropdowns.forEach(function (dropdown) {
+            dropdown.addEventListener('mouseenter', function () {
+                if (!mediaQuery.matches) return;
+
+                // Close ALL other open dropdowns first
+                document.querySelectorAll('.dropdown.show').forEach(function (openDropdown) {
+                    if (openDropdown !== dropdown) {
+                        openDropdown.classList.remove('show');
+                        const openMenu = openDropdown.querySelector('.dropdown-menu');
+                        if (openMenu) {
+                            openMenu.classList.remove('show');
+                        } 
+                    }
+                });
+
+                dropdown.classList.add('show');
+                const menu = dropdown.querySelector('.dropdown-menu');
+                if (menu) menu.classList.add('show');
+            });
+
+            dropdown.addEventListener('mouseleave', function () {
+
+                if (!mediaQuery.matches) return; 
+
+                dropdown.classList.remove('show');
+                const menu = dropdown.querySelector('.dropdown-menu');
+                if (menu) {
+                    menu.classList.remove('show');
+                }
+            });
+
+        });
+
+    });
+</script>
+
+<script nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    document.addEventListener("DOMContentLoaded", function () {
+        const submenus = document.querySelectorAll('.dropdown-submenu');
+
+        submenus.forEach(function(submenu) {
+            const toggle = submenu.querySelector('a.dropdown-toggle');
+
+            submenu.addEventListener('mouseenter', function () {
+                if (window.innerWidth >= 1200) {
+                    const menu = submenu.querySelector('.dropdown-menu');
+                    if (menu) menu.classList.add('show');
+                }
+            });
+            submenu.addEventListener('mouseleave', function () {
+                if (window.innerWidth >= 1200) {
+                    const menu = submenu.querySelector('.dropdown-menu');
+                    if (menu) menu.classList.remove('show');
+                }
+            });
+
+            toggle.addEventListener('click', function(e) {
+                if (window.innerWidth < 1200) {
+                    e.preventDefault();
+                    e.stopPropagation(); 
+
+                    const menu = submenu.querySelector('.dropdown-menu');
+                    if (menu) menu.classList.toggle('show');
+                }
+            });
+        });
+
+        // Close all submenus when main dropdown closes
+        const mainDropdowns = document.querySelectorAll('.dropdown');
+        mainDropdowns.forEach(function(dropdown){
+            dropdown.addEventListener('hide.bs.dropdown', function () {
+                const openSubmenus = dropdown.querySelectorAll('.dropdown-menu.show');
+                openSubmenus.forEach(function(menu){
+                    menu.classList.remove('show');
+                });
+            });
+        });
+    });
+</script>
+
+
+<style nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    .navbar-nav a.dropdown-item {
+        font-size: .8rem !important;
+        font-family: "Basis Grotesque Regular", sans-serif !important;
+    }
+
+    .dropdown-submenu {
+        position: relative;
+    }
+    
+    .dropdown-submenu .dropdown-menu {
+        top: 10%;
+        left: 100%;
+        margin-top: -1px;
+    }
+    
+    /* .navbar-nav li:hover > ul.dropdown-menu {
+        display: block;
+    }
+
+    .navbar-nav li.dropdown-submenu:hover > ul.dropdown-menu {
+        display: block;
+    } */
+     
+    
+    
+    .navbar-brand {
+        height: 100px !important;
+    }
+
+    .logo_text > img {
+        margin-top: 5px;
+        width: 102px;
+    }
+
+    .logo_text > div {
+        font-size: .7rem;
+        line-height: .7rem;
+        margin-top: 5px;
+    }
+
+    button.navbar-toggler {
+        border: none;
+        padding: 0;
+        box-shadow: none;
+    }
+</style>
+<nav class="navbar navbar-expand-xl">
+    <div class="container-xxl">
+        <a class="navbar-brand" href="/">
+            <div class="logo_text">
+                <img src="/v2/img/logo/tiny/IOSCO-Logo-RGB-Black.png" alt="IOSCO Logo">
+                <div>International Organization of Securities Commissions</div>
+            </div>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/v2/about/?subsection=about_iosco">About IOSCO</a></li>
+                            <li><a class="dropdown-item" href="/v2/about/?subsection=our-leadership">Our Leadership</a></li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Organizational Structure</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=11">Board</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" class="dropdown-item dropdown-toggle">Committees</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=1">Presidents Committee</a></li>
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=8">Growth and Emerging Markets Committee</a></li>
+                                            <li class="dropdown-submenu">
+                                                <a href="#" class="dropdown-item dropdown-toggle">Regional Committees</a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=7">Africa / Middle-East Regional Committee</a></li>
+                                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=6">Asia-Pacific Regional Committee</a></li>
+                                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=4">European Regional Committee</a></li>
+                                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=9">Inter-American Regional Committee</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=2">Affiliate Members Consultative Committee</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=becoming_a_member">Membership</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" class="dropdown-item dropdown-toggle">General Secretariat</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=gs">General Secretariat</a></li>
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=organizational_chart" target="_self">Secretariat Organizational Structure</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Cross-border cooperation</a>
+                                <ul class="dropdown-menu">
+                                    
+                                        <li><a class="dropdown-item" href="/v2/about/?subsection=mmou">MMoU</a></li>
+                                    
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Policy and Standard Setting</a>
+                                <ul class="dropdown-menu">
+                                    
+                                        <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=12">Issuer Accounting, Audit and Disclosure (Committee 1)</a></li>
+                                    
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=13">Regulation of Secondary Markets (Committee 2)</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=14">Regulation of Market Intermediaries (Committee 3)</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Enforcement and the Exchange of Information (Committee 4)</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=15">Committee 4 Information</a></li>
+                                            <li><a class="dropdown-item" href="/members_area/v2/about/?subsection=display_committee&cmtid=15&subSection1=resources">Committee 4 Resources</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=16">Investment Management (Committee 5)</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=17">Credit Rating Agencies (Committee 6)</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=18">Committee on Derivatives (Committee 7)</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=20">Committee on Retail Investors (Committee 8)</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Accounting and Audit Oversight</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=monitoring_group">Monitoring Group</a></li>
+                                            <li><a class="dropdown-item" href="/v2/about/?subsection=monitoring_board">Monitoring Board</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a class="dropdown-item" href="/research/?subSection=scrr_members">Committee on Emerging Risks</a></li>
+                                    
+                                    
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" data-bs-toggle="dropdown" class="dropdown-item dropdown-toggle">Policy and Standard Implementation</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=display_committee&cmtid=19">Assessment Committee</a></li>
+                                    
+                                </ul>
+                            </li>
+                                                               
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Media</a>
+                        <ul class="dropdown-menu">
+                            
+                            <li><a class="dropdown-item" href="/v2/media_room/?subsection=media_releases">Media Releases</a></li>
+                            <li><a class="dropdown-item" href="/v2/media_room/?subsection=speeches">Speeches & Articles</a></li>
+                            <li><a class="dropdown-item" href="/v2/media_room/?subsection=audiovisual">Audiovisual</a></li>
+                            
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Publications</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/v2/publications/?subsection=public_reports">Public Reports</a></li>
+                            <li><a class="dropdown-item" href="/v2/publications/?subsection=annual_reports">Annual Reports</a></li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Responses to Consultations</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/v2/publications/?subsection=iosco_comment_letters">Comment Letters by IOSCO</a></li>
+                                    <li><a class="dropdown-item" href="/v2/publications/?subsection=public_comment_letters">Public Comment Letters</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Collaboration with other institutions</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/v2/publications/?subsection=collaboration-FSB">Collaboration with the FSB</a></li>
+                                    <li><a class="dropdown-item" href="/v2/publications/?subsection=agreements_with_other_institutions">Agreements with other Institutions</a></li>
+                                    <li><a class="dropdown-item" href="/v2/about/?subsection=cpmi_iosco">CPMI-IOSCO</a></li>
+                                </ul>
+                            </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Investor Protection</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/i-scan/">International Securities & Commodities Alerts Network (I-SCAN)</a></li>
+                            <li><a class="dropdown-item" href="/v2/investor_protection/?subsection=what_to_do_when_suspecting_a_scam">What to do when suspecting a scam</a></li>
+                            <li><a class="dropdown-item" href="/v2/investor_protection/?subsection=investor_education_gateway">Investor Education Gateway</a></li>
+                            <li><a class="dropdown-item" href="/v2/investor_protection/?subsection=relationship_investment_scams">Relationship Investment Scams</a></li>
+                            <li><a class="dropdown-item" href="/v2/investor_protection/?subsection=other_alerts">Other Alerts</a></li>
+                             
+                        </ul>
+                    </li>
+                    
+                        <li class="nav-item">
+                            <a class="nav-link" role="button" href="/v2/about/?subsection=capacity-building">Capacity Building</a>
+                        </li>
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Events</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/v2/events/?subsection=annual_conferences">Annual Meetings</a></li>
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-item dropdown-toggle">Meetings Registration</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="/meeting-registration/?subSection=iosco_events&subSection1=meeting_registration&virtual=0">Madrid Meetings</a></li>
+                                    <li><a class="dropdown-item" href="/meeting-registration/?subSection=iosco_events&subSection1=meeting_registration&virtual=1">Virtual Meetings</a></li>
+                                </ul>
+                            </li>
+                            
+                                <li><a class="dropdown-item" href="/v2/events/?subsection=calendar">Calendar</a></li>
+                            
+                            
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" role="button"><span id="btnMembersArea">Members Area</span></a>
+                    </li>
+                </ul>
+                <form class="d-flex mb-3 mb-xl-0" role="search" action="/search/" method="post">
+                    <input type="hidden" name="csrf_token" value="D3EF85193FDDB6E050EE5D5276875B8BA11026AB">
+                    <input name="criteria" class="form-control form-control-sm me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-sm btn-outline-primary" type="submit"><i class="fas fa-magnifying-glass"></i></button>
+                </form>
+            </div>
+        
+    </div>
+</nav>
+    </div>
+
+    
+    <div class="modal" id="alertModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Modal body text goes here.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-sm btn-secondary" data-bs-dismiss="modal" onclick="alertModal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="modal" id="externalLinkModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Modal body text goes here.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-sm btn-secondary" data-bs-dismiss="modal" onclick="externalLinkModal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div id="closeVideoButton">
+                        <i class="fa-regular fa-circle-xmark fa-2xl"></i>
+                    </div>
+                    <div class="ratio ratio-16x9 position-relative">
+                            <iframe class="video-iframe" src="" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>     
+            </div>
+        </div>
+    </div>
+<div id="main" class="p-0">
+	
+
+<style nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+    @media (max-width: 575px) {
+        #media_contact_details {
+            display: none;
+        }
+        #media_contact_details_mobile {
+            display: block;
+        }
+    }
+    @media (min-width: 576px) {
+        #media_contact_details {
+            display: block;
+        }
+        #media_contact_details_mobile {
+            display: none;
+        }
+    }
+</style>
+
+
+
+
+
+<div class="container-xxl py-4">
+	<div class="row">
+        <div class="col-md-5 col-lg-4 col-xxl-3" id="leftMenu">
+			<div class="accordion " id="filterAccordion">
+				<div class="accordion-item">
+					<h2 class="accordion-header" id="filterHeader">
+						<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#filterBody" aria-expanded="true" aria-controls="filterBody">
+							<p>Media Release - Filters</p>
+						</button>
+					</h2>
+					<div id="filterBody" class="accordion-collapse collapse" aria-labelledby="filterHeader" data-bs-parent="#filterAccordion">
+						<div class="accordion-body">
+							<form method="get" id="filterForm">
+                            <input type="hidden" name="subsection" value="media_releases">
+								<div id="formBody" style="padding-left:1rem;">
+                                    <p><strong>Year Published</strong></p>
+                                    
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" name="year" value="2026" id="year-2026" >
+                                            <label class="form-check-label" for="year-2026">2026 (<span style="font-size: 75%;">20</span>)</label>
+                                        </div>
+                                    
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" name="year" value="2025" id="year-2025" >
+                                            <label class="form-check-label" for="year-2025">2025 (<span style="font-size: 75%;">26</span>)</label>
+                                        </div>
+                                    
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" name="year" value="2024" id="year-2024" >
+                                            <label class="form-check-label" for="year-2024">2024 (<span style="font-size: 75%;">34</span>)</label>
+                                        </div>
+                                    
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" name="year" value="2023" id="year-2023" >
+                                            <label class="form-check-label" for="year-2023">2023 (<span style="font-size: 75%;">44</span>)</label>
+                                        </div>
+                                    
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" name="year" value="2022" id="year-2022" >
+                                            <label class="form-check-label" for="year-2022">2022 (<span style="font-size: 75%;">46</span>)</label>
+                                        </div>
+                                    
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" name="year" value="2021" id="year-2021" >
+                                            <label class="form-check-label" for="year-2021">2021 (<span style="font-size: 75%;">39</span>)</label>
+                                        </div>
+                                    
+                                    <p><strong>Keywords</strong></p>
+                                    <div class="form-group" style="width: 80%; ">
+                                        <input type="text" class="form-control"  name="keywords" placeholder="Enter keywords" value="" id="keywords">
+                                        <div class="form-check" style="padding-top:0.5rem;">
+                                            <input class="form-check-input" name ="keywordsTitle" value ="1" type="checkbox" id="keywordsTitle" >
+                                            <label class="form-check-label" for="keywordsTitle">Release Title</label>
+                                        </div>
+                                        <div class="form-check">
+                                            <input class="form-check-input" name="keywordsContent" value="1" type="checkbox" id="keywordsContent" >
+                                            <label class="form-check-label" for="keywordsContent">Release Content</label>
+                                        </div>
+                                    </div>
+                                </div>
+								<div style="padding-top:1rem; padding-bottom:1rem; display:flex; justify-content:center;">
+                                    <button type="submit" class="btn btn-dark btn-sm">Apply Filters</button>
+                                </div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-7 col-lg-8 col-xxl-9 p-4" id="rightPage">
+            <h1>Media Releases</h1>
+            <p>IOSCO is pleased to support media outlets in their coverage of issues and developments impacting financial regulation worldwide.</p>
+            <p>
+                Please get in touch if you would like to speak to IOSCO about any of <a href="/library/pubdocs/pdf/IOSCOPD813.pdf" target="_blank">the work it is currently involved in</a>.<br/>
+                For media inquiries, please contact:
+            </p>
+            <div class="row my-0">
+                <div class="col-12 m-0 pb-3">
+                    <div class="card" style="border-radius: 0 !important; overflow: hidden;border:none;">
+                        <div class="card-body p-0">
+                            <div class="row">
+                                <div style="overflow: hidden;">
+                                    <span style="text-align:left;">Emilie Bernard</span>
+                                    <p class="sub_heading" style="font-size: .8rem; margin-bottom: 0;">Communications Manager</p>
+                                    <p id="media_contact_details" style="font-size: .8rem;text-align:left; margin-top: 0; margin-bottom: 0;">
+                                        Email: <a href="mailto:e.bernard@iosco.org" target="_blank" style="color:rgb(13, 110, 253);">e.bernard@iosco.org</a>
+                                    </p>
+                                    <p id="media_contact_details_mobile" class="pt-3" style="font-size: .8rem;text-align:left;clear:left; margin-top: 0; margin-bottom: 0;">
+                                        Email: <a href="mailto:e.bernard@iosco.org" target="_blank" style="color:rgb(13, 110, 253);">e.bernard@iosco.org</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p style="text-align:left;"><strong>If you require a press release prior to 2021, please contact <a href="mailto:Press@iosco.org">Press@iosco.org</a>. We aim to respond within 24 hours.</strong></p>
+            <hr>
+            
+					<ul class="pagination" style="justify-content:end;">
+						
+								<li class="page-item active">
+									<span class="page-link">1</span>
+								</li>
+							
+								<li class="page-item">
+									<a class="page-link" href=" ?newsID=&subsection=media%5Freleases&year=&showAll=false&keywordsTitle=false&keywordsContent=false&keywords=&page=2">2</a>
+								</li>
+							
+								<li class="page-item">
+									<a class="page-link" href=" ?newsID=&subsection=media%5Freleases&year=&showAll=false&keywordsTitle=false&keywordsContent=false&keywords=&page=3">3</a>
+								</li>
+							
+								<li class="page-item">
+									<a class="page-link" href=" ?newsID=&subsection=media%5Freleases&year=&showAll=false&keywordsTitle=false&keywordsContent=false&keywords=&page=4">4</a>
+								</li>
+							
+								<li class="page-item">
+									<a class="page-link" href=" ?newsID=&subsection=media%5Freleases&year=&showAll=false&keywordsTitle=false&keywordsContent=false&keywords=&page=5">5</a>
+								</li>
+							
+							<li class="page-item">
+								<a class="page-link" href=" ?newsID=&subsection=media%5Freleases&year=&showAll=false&keywordsTitle=false&keywordsContent=false&keywords=&page=2"><span class="d-inline d-lg-none">&raquo;</span><span class="d-none d-lg-inline">Next</span></a>
+							</li>
+						
+						
+					</ul>
+				
+					<p style="text-align:right;">Showing 1 to 20 of 209 results</p>
+				
+            <ol start="1">
+                
+                    <li>
+                        <strong>IOSCO announces themes of the 10th edition of World Investor Week</strong>
+                        <br />
+                        22 Jul 2026 
+                            - <a href="/news/pdf/IOSCONEWS801.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO publishes Report on Supervisory Technology (SupTech)</strong>
+                        <br />
+                        18 Jun 2026 
+                            - <a href="/news/pdf/IOSCONEWS800.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>Monitoring Group Invites Applications to the Public Interest Oversight Board</strong>
+                        <br />
+                        16 Jun 2026 
+                            - <a href="/news/pdf/IOSCONEWS799.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO publishes Recommendations for Secondary Market Disclosure</strong>
+                        <br />
+                        08 Jun 2026 
+                            - <a href="/news/pdf/IOSCONEWS798.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO publishes Final Report on Valuing Collective Investment Schemes, strengthening global standards for fund valuation</strong>
+                        <br />
+                        01 Jun 2026 
+                            - <a href="/news/pdf/IOSCONEWS797.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO publishes AI Supervisory Toolkit</strong>
+                        <br />
+                        25 May 2026 
+                            - <a href="/news/pdf/IOSCONEWS796.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO publishes Reports on the evolution of Market Liquidity during the Trading Day for equity markets and on Extended Trading Hours for equity venues</strong>
+                        <br />
+                        21 May 2026 
+                            - <a href="/news/pdf/IOSCONEWS795.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO concludes 2026 Annual Meeting</strong>
+                        <br />
+                        19 May 2026 
+                            - <a href="/news/pdf/IOSCONEWS794.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO elects new board leadership</strong>
+                        <br />
+                        13 May 2026 
+                            - <a href="/news/pdf/IOSCONEWS793.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>CPMI-IOSCO publishes for Consultation updated guidance and public disclosures to implement initial margin proposals</strong>
+                        <br />
+                        06 May 2026 
+                            - <a href="/news/pdf/IOSCONEWS792.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>CPMI-IOSCO assesses that the United Kingdom has implemented the Principles for Financial Market Infrastructures (FMI) for two FMI types, but recommends some improvements</strong>
+                        <br />
+                        16 Apr 2026 
+                            - <a href="/news/pdf/IOSCONEWS791.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO announces 3rd IMF-IOSCO Conference</strong>
+                        <br />
+                        01 Apr 2026 
+                            - <a href="/news/pdf/IOSCONEWS790.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>Monitoring Group Approves Term Extensions for PIOB Board Members</strong>
+                        <br />
+                        25 Mar 2026 
+                            - <a href="/news/pdf/IOSCONEWS789.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO publishes Investment Funds Statistics Report and updates Dashboard</strong>
+                        <br />
+                        24 Mar 2026 
+                            - <a href="/news/pdf/IOSCONEWS788.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO publishes Consultation Report on Good Practices concerning over-the-counter Commodities Derivatives Markets</strong>
+                        <br />
+                        19 Mar 2026 
+                            - <a href="/news/pdf/IOSCONEWS787.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO publishes updated Statement on Non-GAAP Financial Measures</strong>
+                        <br />
+                        17 Mar 2026 
+                            - <a href="/news/pdf/IOSCONEWS786.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>Emily Fitts appointed Chair of the Monitoring Group</strong>
+                        <br />
+                        05 Mar 2026 
+                            - <a href="/news/pdf/IOSCONEWS785.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO announces Call for Applications for its first TechSprint on Investor Education in the Age of Artificial Intelligence (AI)</strong>
+                        <br />
+                        02 Mar 2026 
+                            - <a href="/news/pdf/IOSCONEWS784.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO announces Pre-Valentine’s Day Campaign Focused on Combatting Relationship Investments Scams</strong>
+                        <br />
+                        11 Feb 2026 
+                            - <a href="/news/pdf/IOSCONEWS783.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+                    <li>
+                        <strong>IOSCO publishes 2026 Workplan</strong>
+                        <br />
+                        09 Feb 2026 
+                            - <a href="/news/pdf/IOSCONEWS782.pdf" target="_blank">View Release</a>
+                        
+                    </li>
+                
+            <ol>
+		</div>
+	</div>
+</div>
+</div>
+	<style nonce="JIGV6pTnQ9JwpDGkzrKlDg==">
+		#footer_logo_row {
+			margin-top: -15px
+		}
+
+		#footer_logo_col {
+			position: relative;
+		}
+	</style>
+	<div id="footer" class="container-fluid">
+		<div class="container-xxl">
+		    <div class="row">
+		        <div class="col-sm-6 mt-2">
+		            <div class="footer_links">
+		                <a class="footer_link" href="/v2/about/?subsection=by-laws">By Laws</a><br>
+		                <a class="footer_link" href="/v2/about/?subsection=resolutions">Resolutions</a><br>
+		                <a class="footer_link" href="/v2/publications/?subsection=annual_reports">Annual Reports</a><br>
+		                <a class="footer_link" href="/v2/about/?subsection=working-at-iosco">Careers</a><br>
+		                <a class="footer_link" href="/v2/about/?subsection=terms-and-conditions">Copyright and Permissions</a><br>
+		                <a class="footer_link" href="/v2/about/?subsection=terms-and-conditions#disclaimers">Disclaimers</a><br>
+						<a class="footer_link" href="/v2/about/?subsection=tendering">Tendering</a><br>
+						<a class="footer_link" href="https://www.iosco.org.my/" target="_blank">IOSCO Asia Pacific Hub</a><br>
+		            </div>
+		        </div>
+		        <div class="col-sm-6 mt-2 text-nowrap ms-3 ms-sm-0">
+		            <div>
+		                C/ Oquendo 12<br>
+		                28006 Madrid<br>
+		                Spain<br>
+		                Tel: +34 91 417 5549
+		            </div>
+		            <a class="footer_link" href="/v2/about/?subsection=contact">Contact Us</a><br>
+           	 		<a class="footer_link" href="/v2/about/?subsection=sign_up_for_media_releases">Sign Up for Media releases by email</a><br>
+					<div class="footer_title">Join Us</div>
+			        <ul class="list-unstyled">
+			            <li class="social_media_icons">
+							<a title="RSS" href="https://www.iosco.org/rss/rss.xml" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fas fa-rss-square"></i></a>
+							<a title="X" href="https://x.com/IOSCOPress" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fa-brands fa-square-x-twitter"></i></a>
+							<a title="LinkedIn" href="https://www.linkedin.com/company/international-organization-of-securities-commissions-iosco-/posts/?feedView=all" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fab fa-linkedin"></i></a>
+							<a title="Bluesky" href="https://bsky.app/profile/iosco.bsky.social" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fa-brands fa-square-bluesky"></i></a>
+							<a title="Media Releases by Email" href="https://www.iosco.org/v2/about/?subsection=sign_up_for_media_releases" target="_blank" style="color: inherit; text-decoration: none; font-size: 1.25rem; margin-right: 0.28em;"><i class="fas fa-envelope-square"></i></a>
+						</li>
+			        </ul>
+		        </div>
+		    </div>
+			<div id="footer_logo_row" class="row">
+				<div class="col-sm-6"></div>
+				<div id="footer_logo_col" class="col-sm-6">
+					<a href="/v2/"><img class="footer_logo" src="/v2/img/logo-bk.svg" width="120" alt="IOSCO Logo" /></a>
+				</div>
+			</div>
+		</div>
+	</div>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a253c183ea06dadc',t:'MTc4NTc0MzY4Mw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html> 

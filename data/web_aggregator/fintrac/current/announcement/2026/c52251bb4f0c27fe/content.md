@@ -1,0 +1,25 @@
+# Déclaration d'intention du groupe de travail d'URF sur le financement illicite et les sanctions liées à la Russie
+
+Nous, les unités du renseignement financier de l’Allemagne, de l’Australie, du Canada, des États-Unis, de la France, de l’Italie, du Japon, des Pays-Bas, de la Nouvelle-Zélande et du Royaume-Uni, désignées dans le présent document comme les membres du groupe de travail, publions cette déclaration d’intention :
+
+**Rappelant** les déclarations faites par les gouvernements autour du monde, y compris ceux de l’Allemagne, de l’Australie, du Canada, des États-Unis, de la France, de l’Italie, du Japon, de la Nouvelle-Zélande et du Royaume-Uni, et par le Haut Représentant de l’Union européenne, condamnant la guerre non provoquée et injustifiable menée de plein choix par la Russie contre l’Ukraine, avec l’appui du gouvernement bélarussien (« la menace »);
+
+**Reconnaissant** que les gouvernements respectifs des membres du groupe de travail et l’Union européenne ont imposé plusieurs séries de sanctions économiques et financières de grande portée, et se sont engagés à imposer de nouvelles sanctions en réponse à la menace;
+
+**Reconnaissant aussi** que les gouvernements de plusieurs membres du groupe de travail et de la Commission européenne, conformément à leurs cadres juridiques respectifs, ont convenu d’établir un groupe de travail international pour coordonner les efforts liés aux sanctions et au recouvrement des actifs;
+
+**Soulignant** la nécessité pour les URF de coopérer avec les organismes d’application de loi, les procureurs et d’autres autorités compétentes, et avec le secteur privé, à l’intérieur du cadre juridique des URF respectives, pour atteindre les objectifs du groupe de travail international et de manière plus générale pour lutter contre les activités illicites connexes, incluant le blanchiment d’argent, l’évasion de sanctions, les cybermenaces, et la corruption;
+
+**Soulignant** l’importance du rôle des unités de renseignement financier dans la collecte, le partage, l’analyse, la communication et l’utilisation de renseignements financiers pour lutter contre le blanchiment d’argent et le financement des activités terroristes;
+
+**Rappelant** que, conformément aux cadres juridiques internationaux, nationaux et de l’UE actuels, les URF n’ont pas de base juridique uniforme et globale, ni de mandat pour recevoir, analyser et communiquer des renseignements sur les sanctions financières et les mesures connexes;
+
+**Affirmer la nécessité** de déterminer des actions concrètes que les membres du groupe de travail, à l’intérieur de leur cadre juridique respectif, peuvent prendre individuellement ou collectivement pour :
+
+1. améliorer le renseignement financier sur les affaires liées aux sanctions et les mouvements financiers connexes, ainsi que sur les activités économiques;
+2. accélérer et accroître le partage de renseignements financiers dans les affaires liées aux sanctions et les mouvements financiers connexes, ainsi que sur les activités économiques;
+3. encourager des discussions concernant les pratiques exemplaires de l’URF, les leçons apprises et les possibilités d’actions et de partenariats pour combattre la menace;
+4. renforcer et faciliter les relations de travail entre les URF et les autorités compétentes publiques et le secteur privé pour contrecarrer la menace, notamment en s’engageant auprès des groupes de travail créés par les gouvernements des membres du groupe de travail.
+
+Date de modification :
+:   2022-03-16

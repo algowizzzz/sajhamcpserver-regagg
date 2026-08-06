@@ -1,0 +1,25 @@
+{
+  "doc_id": "5eb94f3ebcc3f099",
+  "regulator_id": "boe_pra",
+  "doc_type": "announcement",
+  "title": "Bank of England and Financial Conduct Authority\u2019s approach to joint regulation of systemic stablecoin issuers",
+  "language": "en",
+  "source_url": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
+  "reference_number": null,
+  "published_date": "2026-06-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2ee6bb51b0ed1dced1893d6c1cfece4544f83803c02b76d69c8c2286b7bb1bbf",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boe_pra_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boe_pra/current/announcement/2026/5eb94f3ebcc3f099",
+  "tags": [
+    "uk",
+    "prudential",
+    "banking"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "8edc27f53d1ea500",
+  "regulator_id": "hkma",
+  "doc_type": "announcement",
+  "title": "Hong Kong Monetary Authority - Residential mortgage loans in negative equity: End of June 2026",
+  "language": "en",
+  "source_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-6/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8f6a52ebd1f298b9239e865a41ccb33e4a8239f563abc3bc5bafb1ff20ab900d",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_hkma_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/hkma/current/announcement/2026/8edc27f53d1ea500",
+  "tags": [
+    "hong_kong",
+    "banking"
+  ],
+  "final_url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-6/",
+  "fetch_method": "html_to_md"
+}

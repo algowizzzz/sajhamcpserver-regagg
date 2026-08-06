@@ -1,0 +1,25 @@
+{
+  "doc_id": "b66fad9748e1727e",
+  "regulator_id": "nyt_business",
+  "doc_type": "news_story",
+  "title": "Wildfire Smoke and Airport Chaos: My Summer Vacation From Hell",
+  "language": "en",
+  "source_url": "https://www.nytimes.com/2026/08/05/travel/midwest-wildfire-smoke-tornadoes.html",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f3951c99316bdb4a9747331297ca9ed4c13e9b6769f5e31ac31f741ae5bf5e9c",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nyt_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nyt_business/current/news_story/2026/b66fad9748e1727e",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.nytimes.com/2026/08/05/travel/midwest-wildfire-smoke-tornadoes.html",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,197 @@
+![picture of an umbrella](/sites/default/files/styles/wide_lead/public/media/2019/01/istock-897545934_insurance_cos_cropped.jpg?h=57de7ab1&itok=JMmh4skm "Insurance Companies")
+
+[Back To Newsroom](/node/241971)
+
+## Governor Hochul Signs Budget That Makes New York More Affordable, Keeps New Yorkers Safe And Expands Opportunity For All
+
+SHARE
+
+### Governor Hochul Signs Budget That Makes New York More Affordable, Keeps New Yorkers Safe And Expands Opportunity For All
+
+Putting New York on Path to Statewide Universal Childcare  
+  
+$1 Billion in One-Time Energy Rebate Checks  
+  
+Puts Ratepayers First in Push To Reduce Utility Costs  
+  
+Protecting New Yorkers From ICE Overreach  
+  
+Making More Than $900 Million Record Investment in Public Safety Funding To Continue Driving Down Crime and Keeping New Yorkers Safe  
+  
+Advances First-in-the-Nation Legislation To Ban Illegal, Homegrown 3D-Printed Ghost Guns and DIY Machine Guns  
+  
+Measures To Reduce Insurance Rates for Drivers  
+  
+Offsets Rising Costs for Farmers Due to Federal Tariffs  
+  
+No Tax on Tips for Hardworking New Yorkers  
+  
+Improving Transparency in the Residential Property Insurance Market
+
+**May 28, 2026**
+
+Governor Kathy Hochul today signed her FY 2027 Budget making New York more affordable, keeping New Yorkers safe and expanding opportunity for all. The Governor delivered sweeping measures to lower costs including putting New York on a path to universal childcare, reducing utility costs and delivering energy rebate checks, and bringing auto insurance rates down for drivers. She also implemented a surcharge on luxury New York City second homes, generating much needed revenue for the City without impacting everyday New Yorkers. Additionally, the Governor continues to build on her unprecedented investments in public safety with more than $900 million in funding, measures to crack down on illegal 3D printed guns, and a nation leading package of immigration protections that keep New Yorkers safe.
+
+"Every proposal included in this Budget was a fight for New Yorkers and their future. Working with my partners in the Legislature, we delivered an ambitious agenda that will lower costs for hardworking families, keep New Yorkers safe and create opportunity for all," **Governor Hochul said.** "While Washington continues to make life more difficult for New Yorkers, I’m doing everything in my power to make real, tangible progress on the issues New Yorkers are facing and I will always fight for the people who call this great state home."
+
+**Delivering Universal Childcare**
+
+Governor Hochul is putting New York State on a pathway toward universal childcare, beginning with committing to investments that will support the delivery of affordable childcare to up to nearly 100,000 additional children.
+
+The Governor's landmark investment will increase funding by $1.7 billion bringing the total FY27 investment to $4.5 billion for childcare and prekindergarten services statewide.
+
+These investments will:
+
+* Make Pre-K truly universal statewide by making funding available to provide high-quality pre-k seats for all four-year-olds in the State by the start of the 2028-29 school year.
+* Partner with New York City to launch the Mayor’s signature 2-Care program and finally realize the promise of universal 3K access in New York City.
+* Support counties in building out New York’s First 3 Program providing high-quality affordable childcare to families across the state regardless of income.
+* Expand childcare subsidies to tens of thousands of additional families.
+* Support the workforce through early childhood educator preparation.
+* Launch an Office of Childcare and Early Education to steer the implementation of high-quality, universal childcare for New York families and will work to enhance awareness of the Child Tax Credit to ensure as many New Yorkers as possible benefit from the Governor’s historic expansion of the program that increased the credit from $330 per child to $1,000 annually for children under four.
+
+**Tackling Utility Costs**
+
+New Yorkers deserve reliable energy at a price they can afford, which is why Governor Hochul is proposing a sweeping set of reforms to modernize the Public Service Law, demanding strict fiscal discipline from utilities and empowering the State to fight more effectively for lower bills.
+
+In her FY27 Budget, the Governor is putting ratepayers first by:
+
+* Issuing one-time $1 billion Protecting Our Wallets Energy Rebate (POWER) checks to help provide needed relief. The POWER program will provide $200 to joint filers with incomes under $150,000 and $150 to joint filers with incomes between $150,000 and $300,000. Tying executive pay directly to customer affordability,
+* Requiring utilities to present a budget constrained option when requesting a rate increase to ensure efficiency and affordability are prioritized,
+* Ensuring customers do not foot the bill for hidden costs like lobbying, political contributions and unnecessary executive travel.
+* Allowing for the installation of an “Affordability Monitor” within any utility company when the average residential bills creep too high.
+* Modernizing the way utility rate cases are reviewed to help keep prices manageable.
+* Incentivizing the use of smart thermostats to help reduce energy usage and lower bills.
+* Establishing the RATES commission, bringing together consumer advocates and energy experts to investigate the root causes of surging utility bills, evaluate utility profits, review energy market designs and recommend actionable, transparent reforms.
+
+**Pied-à-Terre Tax on Luxury Second Homes in New York City**
+
+Governor Hochul’s Budget includes a pied-à-terre tax, a surcharge that will apply to high-value – $5 million or more – second homes within New York City. The tax ensures that those who own luxury properties as their second homes are still fairly contributing towards the funding of essential services like policing or parks that make New York City a global destination.
+
+Given the complexity of New York City’s property tax system, the pied-à-terre surcharge makes accommodations in the short term transition phase for the ways in which different property types are currently valued in New York City, while ensuring the surcharge is applied fairly and immediately to luxury properties. The proposal is expected to generate at least $500 million a year in recurring revenue for New York City without impacting everyday New Yorkers.
+
+**Protecting New Yorkers From ICE Overreach**
+
+Governor Hochul has enacted a sweeping set of laws to protect New Yorkers against aggressive federal immigration enforcement as part of the FY27 Enacted Budget.
+
+These new laws will expand protections by:
+
+* Prohibiting state, local and federal officers from wearing face covering while interacting with the public.
+* Prohibiting local governments, state and local police and state and local corrections from entering into 287(g) Agreements or similar agreements with the federal government that allow for state and local law enforcement personnel and facilities to be used for civil immigration enforcement purposes.
+* Establishing a state law under which New Yorkers can bring a lawsuit against federal, state and local government officials for a violation of their constitutional rights.
+* Prohibiting the use of state and local civilian agencies and public school resources, including employee time, for immigration enforcement activities.
+* Prohibiting civilian state, local and school employees (including higher education and K-12) from permitting access to any non-public area of a state-owned or operated facility to immigration authorities without a judicial warrant, meaning any state or municipally owned, or operated facility including housing accommodations, parks, childcare facilities, preschools, hospitals, schools, dorms, healthcare facilities, community centers, libraries and shelters, cannot grant or facilitate access to any non-public areas of their facilities to immigration authorities without a warrant.
+* Ensuring immigrant students can access education, codifying the right to a free public education regardless of immigration status.
+
+**Record Investments in Public Safety**
+
+Since taking office, Governor Hochul has invested more than $3 billion in public safety initiatives. The funding has provided record support for local and state law enforcement that has contributed to gun violence reaching record lows, reduced subway crime and combated pandemic-era surges in motor vehicle and retail thefts.
+
+This Budget adds more than $900 million to those record investments and strengthens public safety by:
+
+* Prioritizing New Yorkers’ safety throughout the transit system. The Governor secured an additional $77 million to support the deployment of NYPD officers across the subway system and $25 million for expanding the Subway Co-Response Outreach Teams initiative to respond more quickly to individuals in acute distress.
+* Establishing a pilot program for New York City requiring the installation of Intelligent Speed Assistance devices in the vehicles of so-called “super speeders,” drivers with a documented pattern of flouting speeding laws and putting New Yorkers at risk.
+* Advancing a comprehensive approach to both prohibit risky drone use and expand responsible use of drones as first responders by creating a crime for dangerous drone use and flying in and around restricted areas, and authorizing the use of detection and mitigation efforts by qualified law enforcement officers.
+* Protecting safe access to worship — creating a new crime for knowingly and intentionally interfering with a person seeking to enter or exit a place of religious worship or acting in a way that makes a person within 50 feet of a place of worship fear for their safety.
+
+**Stopping Illegal Homegrown Guns**
+
+Governor Hochul has passed the strongest gun laws in the nation and made record investments in gun violence prevention, resulting in New York having the fewest shooting incidents statewide in 2025 in recorded history.
+
+Governor Hochul’s FY27 Enacted Budget will:
+
+* Require first-in-the-nation minimum safety standards for 3D printers sold in New York to be equipped with basic technology that prevents the unlicensed, illegal production of lethal firearms and firearm parts.
+* Require the New York State Division of Criminal Justice Services to lead a task force of experts to recommend regulations that will ensure New Yorkers are protected from these dangerous weapons. Following the implementation of the resulting regulations, state law will allow for recourse against any actor who sells a 3D printer in New York without equipping it with such technology.
+* Criminalize the unlawful possession, sale, or distribution of blueprints that allow the printing of illegal guns and gun parts, and the manufacture of 3D-printed firearms.
+* Prohibit gun manufacturers and firearms dealers from selling pistols that can be quickly and easily converted into machine guns using common tools.
+
+**Lowering Car Insurance Rates for New Yorkers**
+
+Fraud is a major driver of elevated auto insurance premiums. Increasingly sophisticated actors stage elaborate accidents, designed to allow for “jackpot” payouts from insurance companies or jury awards. These schemes imperil the safety of honest drivers, cause property damage, and increase rates for drivers across the state. Increasingly, scams go beyond just one bad actor at the wheel and are orchestrated by organized criminal rings.
+
+The Governor’s plan will:
+
+* Cap payouts for drivers engaging in criminal behavior at the time of the incident, including uninsured motorists, drunk drivers, and drivers in the act of committing a felony.
+* Better define what actually constitutes a ‘serious injury’ so that damages for pain and suffering or emotional distress are reserved for those able to objectively demonstrate that they have suffered a serious injury.
+* Ensure that if a driver is found to be mostly at fault for causing an accident, they cannot claim outsized payments for damages.
+* Prevent insurance companies from exorbitantly raising rates by setting a legal threshold that prevents excess profits and returns savings to consumers.
+* Create new regulatory safeguards to prevent insurance companies from raising rates without seeking express approval from the Department of Financial Services.
+* Protect consumers by prohibiting insurance companies from setting rates based on extraneous, personal factors like homeownership status, occupation, education level or zip code.
+* Enable prosecutors to seek criminal penalties against any individual responsible for organizing a staged accident, not just the particular individual behind the wheel.
+* These measures come in addition to the Governor’s whole-of-government approach to combatting fraud by tasking DFS, DMV, DCJS and NYSP with a more proactive and coordinated approach to enforcement.
+* The Governor’s plan also includes transparency for auto insurance policyholders by requiring insurers to notify policyholders about rate changes.
+
+**Protecting Vulnerable Renters and Homeowners**
+
+High prices and unscrupulous landlords are driving too many tenants out of their homes and making it harder for vulnerable homeowners to make ends meet. Governor Hochul has secured agreements to help address these issues in the FY27 Budget including:
+
+* Protecting renters by clarifying anti-harassment laws.
+* Enacting stiffer criminal penalties for landlords who engage in systemic harassment of rent-regulated tenants across multiple buildings or who are repeat serious offenders of existing anti-harassment laws.
+
+To ensure that housing remains affordable for both seniors and New Yorkers with disabilities who are living in rent-regulated housing and Mitchell-Lama affordable housing, Governor Hochul’s final FY27 Budget:
+
+* Increases income eligibility limits for New York’s Rent Freeze Program for both the Senior Citizen Rent Increase Exemption and Disability Rent Increase Exemption from $50,000 to $75,000.
+* Authorizes raising the eligibility for the Senior Citizen Homeowners’ Exemption and Disabled Homeowner’s Exemption from $50,000 to $75,000.
+* Adds notice requirements to make more elderly and disabled rent-regulated tenants aware of the SCRIE/DRIE rent freeze programs.
+
+Consistent with current practice, New York City and other communities may opt into both the SCRIE/DRIE and SCHE/DHE programs.
+
+**Improving Transparency in the Residential Property Insurance Market**
+
+Homeowners and housing providers across the state are contending with escalating home insurance premiums and shrinking options for coverage, which threaten the affordability of New York’s single and multi-family homes. While single family home insurance rates in New York are on average lower than many other states — thanks to New York’s tightly regulated market — year over year increases in insurance rates still threaten to sap money from families’ pocketbooks and make multi-family housing less and less affordable for homeowners and renters. For years, New Yorkers have not been properly informed about the reasons for rising premiums. This year, the Governor’s reforms will increase transparency for consumers and give the Department of Financial Services (DFS) a better understanding of the multi-family market with new data from insurers.
+
+Governor Hochul is tackling this problem head-on by:
+
+* Requiring insurers to provide detailed information to DFS on how they price policies for multifamily residential buildings.
+* Increasing transparency for home insurance as well as auto insurance by requiring insurers to notify policyholders about rate changes.
+
+**Protecting New York Farmers from the Disruption of Federal Tariffs**
+
+Agriculture is a cornerstone of New York’s economy, yet the federal government’s tariff policy has threatened the competitiveness of our farmers. Federal actions have driven up the cost of essential resources — like seeds, fertilizer, and necessary machinery — while creating market instability. Although the USDA recently announced a national assistance program, it is fundamentally flawed for New York since it leaves specialty crops and the dairy sector with no meaningful support.
+
+To relieve farmers from the adverse impacts caused by federal tariffs, Governor Hochul will:
+
+* Create the Agricultural Resiliency Against Tariffs Program, which will provide $30 million in direct payments to New York specialty crop growers, livestock producers, aquaculture, and dairy farmers.
+* This initiative will quickly distribute much needed support to offset rising costs caused by tariffs.
+* This program reinforces New York’s commitment to our agricultural community, while safeguarding local jobs and ensuring our farmers have the certainty needed to compete in a volatile global marketplace.
+
+**Helping New Yorkers Put Food on the Table**
+
+The recent shutdown of the federal government reminded the nation of how precarious our nutrition safety net is and how many New Yorkers contend with food insecurity. In response to the shutdown, Governor Hochul rushed an additional $65 million toward food assistance programs that delivered meals to tens of thousands of New Yorkers in their hour of need. To build on these actions and further reinforce our emergency food system:
+
+* Governor Hochul is announcing a $51 million investment in the Department of Health (DOH)’s Hunger Prevention and Nutrition Assistance Program (HPNAP) program, which will help New York’s network of about 2,700 food banks, pantries, and soup kitchens reach more New Yorkers in need. An additional $15 million will strengthen and expand operations, allowing them to reach more people with healthier options.
+* The Enacted Budget also includes $55 million for the Nourish New York Program, which reroutes surplus agricultural products to those who need them most through the state’s food banks.
+
+Theft of Supplemental Nutrition Assistance Program (SNAP) benefits is an epidemic across the United States, with hundreds of millions of dollars illegally stolen from families’ EBT cards nationwide using illegal “skimming” devices. Governor Hochul’s FY27 Budget will protect New Yorkers from this predatory behavior by:
+
+* Upgrading New York’s EBT cards to secure chip-based technology that makes cards virtually impervious to skimming. While the federal administration tries to strip SNAP benefits from as many New Yorkers as possible and turns a blind eye to criminals taking food from vulnerable families, transitioning to chip-based EBT cards will help safeguard the SNAP dollars that New Yorkers depend on.
+
+The Governor’s plan will also:
+
+* Establish New York PLATES, a statewide competitive $10 million grant program for eligible food pantries that will fund capital projects, to increase the capacity of these critical organizations and enable food pantries to safely store, transport and distribute food to more families.
+* Support localities in expanding free summer meal sites.
+
+**No Taxes on Tips for Hardworking New Yorkers**
+
+Tipped workers — New York’s bartenders, servers, and deliveristas — are the backbone of the state’s service economy. In jobs that demand long hours and daily dedication, every dollar is hard-won. Governor Hochul is committed to making sure tipped workers can hold on to more of what they earn. The Governor passed legislation that eliminates state income taxes on up to $25,000 of tipped income in tax year 2026, consistent with federal tax guidance.
+
+**Governor Hochul’s FY27 Budget builds on her efforts to put more money back in New Yorkers’ pockets. To date, her administration has:**
+
+* Cut middle-class taxes to their lowest rates in 70 years, ensuring families keep more of the paychecks they earn.
+* Raised New York’s minimum wage and tied future increases to inflation so a day’s work covers a day’s needs.
+* Implemented an historic expansion of New York’s Child Tax Credit, also known as the Empire State Child Credit, to provide families up to $1,000 per child under the age of four beginning in 2026, and up to $500 for school-aged children beginning in 2027, substantially increasing the previous maximum of $330.
+* Made school meals free for every student, saving families $1,600 per child every year and making sure no child goes hungry at school.
+* Sent Inflation Refund checks to 8.2 million New Yorkers — up to $200 for individuals and up to $400 for families.
+* Increased the maximum weekly unemployment benefit by $300 a week so people can focus on finding work, not keeping the lights on.
+* Established a nation-leading birth allowance — the New York State BABY Benefit (Birth Allowance for Beginning Year Benefit) — providing $1,800 to new parents receiving Public Assistance when they have a new baby.
+
+###
+
+### Contact the Press Office
+
+Contact us by phone:
+
+(212) 709-1691
+
+Contact us by email:
+
+[[email protected]](/cdn-cgi/l/email-protection#2e5e5b4c42474d034f48484f475c5d6e4a485d00405700494158)

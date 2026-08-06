@@ -1,0 +1,1 @@
+Summary: # Life Insurance Capital Adequacy Test (2025) – Chapter 7 Segregated Fund Guarantee Risk

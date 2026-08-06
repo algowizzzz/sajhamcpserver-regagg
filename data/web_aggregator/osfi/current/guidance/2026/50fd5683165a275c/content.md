@@ -1,0 +1,72 @@
+# OSFI exempts uninsured mortgage straight switches from the prescribed MQR and implements portfolio LTI limits
+
+Information
+
+Publication type
+
+Letter
+
+Category
+
+Sound Business and Financial Practices
+
+Date
+
+November 21, 2024
+
+Sector
+
+Banks,
+
+Foreign Bank Branches,
+
+Life Insurance and Fraternal Companies,
+
+Property and Casualty Companies,
+
+Trust and Loan Companies
+
+[Generate PDF](/en/print/pdf/node/2451)
+
+Table of contents
+
+Related documents
+
+* [Minimum Qualifying Rate - Backgrounder](/en/news/backgrounder-minimum-qualifying-rate-mqr)
+* [Minimum Qualifying Rate - Qualifying Rate Infosheet](/en/supervision/financial-institutions/banks/minimum-qualifying-rate-uninsured-mortgages)
+* [Loan-to-income limit](/en/supervision/financial-institutions/banks/loan-income-limits-uninsured-mortgage-portfolios)
+
+**To:** Federally regulated financial institutions
+
+Effective today, OSFI will no longer prescribe the [minimum qualifying rate (MQR)](/en/supervision/financial-institutions/banks/minimum-qualifying-rate-uninsured-mortgages "Minimum qualifying rate for uninsured mortgages") that it expects federally regulated financial institutions (institutions) to apply when uninsured mortgage borrowers switch to a new institution at renewal.
+
+This change applies only when transferring:
+
+* An existing stand-alone[Footnote 1](#fn1) uninsured mortgage;
+* from one federally regulated financial institution to another;
+* with no increases in the remaining contractual mortgage amortization period or the loan amount[Footnote 2](#fn2) – commonly referred to as an uninsured “straight switch”.
+
+With this change, OSFI is balancing its prudential mandate with the need to allow financial institutions to compete effectively and take reasonable risks.
+
+When considering an uninsured straight switch application, an institution should assess the loan like any other new origination and should continue to apply principles of sound residential mortgage underwriting set out in Guideline B-20. These expectations include due diligence on the borrower and assessment of their willingness and capacity to service their debt obligations. Debt service ratios should be calculated conservatively and appropriately stressed for varied financial and economic conditions, such as reduced income or higher interest rates. An institution should contemplate current and future conditions when it considers qualifying rates and make appropriate judgments, aligned with its risk appetite and Residential Mortgage Underwriting Policy (RMUP).
+
+Earlier this year, [OSFI announced the introduction of loan-to-income (LTI) limits](/en/supervision/financial-institutions/banks/loan-income-limits-uninsured-mortgage-portfolios "Loan-to-income limits for uninsured mortgage portfolios") on the uninsured mortgage portfolios of institutions. These limits do not apply to individual borrowers or transactions. Instead, they will mitigate risks from high household indebtedness within institutions’ mortgage portfolios. Institutions are expected to adhere to LTI limits beginning in their fiscal Q1 2025. OSFI will closely monitor the implementation of the LTI limit framework and assess its effectiveness over time.
+
+OSFI constantly reviews its existing guidance and expectations to ensure they remain effective and fit-for-purpose. This helps ensure regulatory efforts are focused on key risks and regulatory burden is managed. The LTI limit framework and Superintendent-prescribed MQR for uninsured mortgages are both intended to reduce mortgage lending risks in Canada. Given the common purpose of these two measures, OSFI will consider the continued need for a Superintendent-prescribed MQR for uninsured mortgage originations following the full and successful implementation of the LTI limit framework.
+
+## Footnotes
+
+Footnote 1
+:   Stand-alone refers to uninsured residential mortgages (standard or collateral charge), outside of combined loan plans, that are amortizing and not readvanceable.
+
+    [Return to footnote 1  referrer](#fn1-rf)
+
+Footnote 2
+:   The unpaid principal balance may be increased by $3,000 to cover related transaction costs such as penalties or fees. Equity take out is not permitted.
+
+    [Return to footnote 2  referrer](#fn2-rf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-11-21

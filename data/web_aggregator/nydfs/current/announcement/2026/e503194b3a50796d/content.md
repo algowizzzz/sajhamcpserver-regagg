@@ -1,0 +1,53 @@
+![image of three men talking](/sites/default/files/styles/wide_lead/public/media/2019/02/istock-856727494_service_contract_cropped.jpg?h=57de7ab1&itok=6Aoe7hje "Service Contract Providers")
+
+[Back To Newsroom](/node/241971)
+
+## Governor Hochul Announces Over $1.7 Billion In Workers’ Compensation Insurance Savings for Employers and Policyholders Statewide
+
+SHARE
+
+### Governor Hochul Announces Over $1.7 Billion In Workers’ Compensation Insurance Savings for Employers and Policyholders Statewide
+
+Additionally, Under Governor’s Leadership, NYSIF Has Allocated More Than $2.8 Billion Back to Policyholders  
+  
+Adds to Growing List of Improvements that Make the Workers’ Compensation System Better, More Efficient for New York Employers and Other Stakeholders  
+  
+Builds On Governor’s Ongoing Efforts to Make New York State More Affordable for New Yorkers
+
+**July 15, 2026**
+
+Governor Kathy Hochul today announced that insured employers statewide will see, on average, a 22 percent reduction in workers’ compensation insurance premium rates, an estimated savings of more than $1 billion for businesses or an average of $1,779 per policyholder in New York State. Additionally, the New York State Insurance Fund has distributed more than $700 million to its policyholders over the past year through dividends and discount programs that lowered the cost of workers’ compensation and disability benefits for New York businesses. Today’s announcement builds on the Governor’s ongoing efforts to support small businesses and make New York State more affordable.
+
+“One of the key pillars of my administration has been to reduce costs for New York’s businesses and with over $1.7 billion in savings for employers and policyholders, we are making life more affordable for everyone,” **Governor Hochul said.** “This reduction is going to be monumental in helping New York’s employers operate and grow their businesses while ensuring their workers have access to the benefits they need.”
+
+The rate reduction was approved today by the New York State Department of Financial Services (DFS) and will take effect on October 1, 2026. In New York State, workers’ compensation premium rates have steadily declined since 2020, with approved rate decreases averaging 10.3 percent annually over the six-year period.
+
+Since the Governor took office, there has been significant decreases in the frequency of workers’ compensation lost time claims which has resulted in reduced premium rates over the past three years. Enhanced workplace safety efforts such as the [Warehouse Worker Protections Act](https://dol.ny.gov/WWIRP), have contributed to the decline in the frequency of workers’ compensation claims.
+
+Additionally, New York State Insurance Fund, New York State’s largest workers’ compensation insurer, distributed more than $700 million to its policyholders over the past year through dividends and discount programs that lowered the cost of workers’ compensation and disability benefits for New York businesses. The total included $698 million in dividends and discounts for more than 100,000 employers in workers’ compensation safety groups and $2.9 million in dividends for more than 27,000 policyholders with disability benefits coverage through NYSIF. Under Governor Hochul’s leadership, NYSIF has allocated more than $2.8 million back to policyholders.
+
+**New York State Department of Financial Services Acting Superintendent Kaitlin Asrow said,** “Delivering meaningful cost savings for the people of New York is a priority for DFS. The Department’s commitment to insurance affordability includes the businesses who are critical to New York’s economy.”
+
+**New York State Workers’ Compensation Board Chair Freida D. Foster said,**“For the last decade, New York State has been making it easier and more affordable to build and maintain a business in our great state. Today’s news on this significant reduction in loss cost, combined with already low employer assessment rates, means workers’ compensation is more affordable than ever for New York State employers. This should translate into more jobs and job stability for workers, which benefits all New Yorkers.”
+
+**New York State Insurance Fund Executive Director & CEO Gaurav Vasisht said,**“Safe workplaces and lower costs are a win for employees and businesses across New York State. Thanks to Governor Hochul's leadership, New York is prioritizing workplace safety. NYSIF’s dividend and discount programs reward employers that invest in workplace safety and help keep coverage affordable for businesses across New York.”
+
+**Assemblymember Harry B. Bronson** **said,** “Measures to enhance workplace safety and more flexible working conditions have been successful in reducing costs to businesses and have especially benefitted our small businesses. This will help our businesses, but there is more work to do to bring balance to our Workers Compensation system for workers, and I look forward to continuing steps that will further reduce costs while increasing safety and bringing timely benefits for injured workers.”
+
+The new reduction in insurance costs for employers is in addition to a significantly reduced employer assessment rate, which has declined by 37.5 percent since 2021 when the Governor took office. The employer assessment rates are determined by the NYS Workers’ Compensation Board’s need and budgeted statewide premium. The rate is calculated by dividing the Board’s total estimated annual expenses by a base of total estimated statewide premium. Insurers are required to apply the assessment rate to their premium or premium equivalent.
+
+Alongside the cost savings for employers, the workers’ compensation system has been steadily improving in other big ways, too. The Board has embarked on an historic modernization effort, replacing paper submissions with online processes to streamline the system and be much more efficient. The result is that claims are moving through the system much more quickly and hearings are being held faster than ever before. The Board has also initiated measures to improve access to medical care for injured workers by making it easier and better for providers to participate. In recent years, the Board has replaced 12 custom forms with one universal medical billing form (*CMS-1500*), implemented permanent telehealth regulations, streamlined the medical dispute resolution process to eliminate all backlogs and implemented the electronic submission of medical bills so providers can be paid much more quickly. These actions are removing barriers and delays by expediting the delivery of benefits, which result in further savings to the system and its participants.
+
+Today’s announcement builds on Governor Hochul’s ongoing efforts to bring down insurance costs, including by delivering reforms in the recently enacted New York State Budget to address key factors driving up auto insurance premiums, such as insurance fraud and excessive litigation costs. [Earlier this month, DFS issued guidance to implement these reforms](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260701).
+
+To review the approved workers’ compensation rates, visit the New York Compensation Insurance Rating Board [website](https://www.nycirb.org/home/#/).
+
+### Contact the Press Office
+
+Contact us by phone:
+
+(212) 709-1691
+
+Contact us by email:
+
+[[email protected]](/cdn-cgi/l/email-protection#b7c7c2d5dbded49ad6d1d1d6dec5c4f7d3d1c499d9ce99d0d8c1)

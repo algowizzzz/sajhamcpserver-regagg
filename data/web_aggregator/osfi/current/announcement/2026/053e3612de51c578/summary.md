@@ -1,0 +1,1 @@
+Summary: # Frequently asked questions about access to information and privacy

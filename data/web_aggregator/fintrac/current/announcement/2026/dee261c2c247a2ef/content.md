@@ -1,0 +1,24 @@
+# Quarterly financial reports
+
+## 2025-26
+
+* [For the quarter ended December 31, 2025](qfr-rft/20251231-eng)
+* [For the quarter ended September 30, 2025](qfr-rft/20250930-eng)
+* [For the quarter ended June 30, 2025](qfr-rft/20250630-eng)
+
+## 2024-25
+
+* [For the quarter ended December 31, 2024](qfr-rft/20241231-eng)
+* [For the quarter ended September 30, 2024](qfr-rft/20240930-eng)
+* [For the quarter ended June 30, 2024](qfr-rft/20240630-eng)
+
+## 2023-24
+
+* [For the quarter ended December 31, 2023](qfr-rft/20231231-eng)
+* [For the quarter ended September 30, 2023](qfr-rft/20230930-eng)
+* [For the quarter ended June 30, 2023](qfr-rft/20230630-eng)
+
+For older publications, please email [information@fintrac-canafe.gc.ca](mailto:information@fintrac-canafe.gc.ca).
+
+Date Modified:
+:   2025-08-29

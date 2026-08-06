@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14007",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 30b1-10, Form N-RN",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/13/2026-14007/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
+  "reference_number": "2026-14007",
+  "published_date": "2026-07-13",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e6d9e6649d5c9374540c75c5929e5b8c6cc3d8ebae89f8eff214f8d9aa77fee0",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14007",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

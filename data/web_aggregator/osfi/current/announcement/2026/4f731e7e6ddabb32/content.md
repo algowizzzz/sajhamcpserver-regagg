@@ -1,0 +1,961 @@
+# 2023-2024 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information
+
+**Type de publication :** Rapport annuel  
+**Date :** October 2024  
+**ISSN : 2817-9447**
+
+## Table des matières
+
+## Introduction
+
+La Loi sur l’accès à l’information (la Loi) a pour objet d’accroître la responsabilité et la transparence des institutions de l’État afin de favoriser une société ouverte et démocratique et de permettre le débat public sur la conduite de ces institutions. À cet égard, la partie 1 de la Loi élargit l’accès aux documents de l’administration fédérale en consacrant le principe du droit du public à leur communication, les exceptions indispensables à ce droit étant précises et limitées et les décisions quant à la communication étant susceptibles de recours indépendants du pouvoir exécutif. La partie 2 de la Loi fixe des exigences visant la publication proactive de renseignements.
+
+Le présent rapport annuel a été préparé et soumis conformément aux articles 94(1) et 94(2) de la Loi et à l’article 20 de la Loi sur les frais de service et couvre la période du 1er avril 2023 au 31 mars 2024. Le BSIF ne compte aucune filiale non opérationnelle.
+
+## Mandat du Bureau des institutions financières (BSIF)
+
+**Le mandat législatif du BSIF :**
+
+Nous nous employons à maintenir la confiance du public dans le système financier canadien en réglementant et en surveillant environ 400 institutions financières fédérales (IFF) et 1 200 régimes de retraite fédéraux (RRF).
+
+Notre mandat se détaille comme suit :
+
+* s’assurer de la bonne santé financière des IFF et RRF
+* veiller à ce que les IFF se protègent contre les menaces à leur intégrité ou à leur sécurité, notamment l’ingérence étrangère
+* intervenir rapidement lorsque des problèmes surgissent et exiger que les IFF et les RRF prennent les mesures qui s’imposent pour corriger la situation sans délai
+* surveiller et évaluer les risques, de même qu’encourager les IFF et les RRF à les gérer sainement
+
+Dans le cadre de notre mandat :
+
+* eu égard aux IFF, nous cherchons à protéger les droits et les intérêts des déposants, des souscripteurs et des créanciers des institutions financières, en tenant compte de la nécessité pour les IFF de faire face à la concurrence et de prendre des risques raisonnables
+* eu égard aux RRF, notre objectif consiste à protéger les droits et les intérêts des participants, des anciens participants et des bénéficiaires des régimes de retraite
+
+### Comment nous réglementons et nous surveillons les institutions financières et les régimes de retraite
+
+Notre cadre réglementaire a pour but d’équilibrer les objectifs en matière de sûreté et de stabilité. Cela permet aux institutions financières fédérales d’exercer leurs activités dans un marché concurrentiel.
+
+Pour réglementer les institutions, nous :
+
+* élaborons des règles;
+* interprétons les lois et les règlements;
+* assurons l’agrément de certains types d’opérations;
+* contribuons aux nouvelles normes comptables, actuarielles et d’audit.
+
+Pour surveiller les institutions, nous :
+
+* analysons les tendances financières et économiques pour cerner les problématiques;
+* évaluons la situation financière, ainsi que les risques non financiers et les risques importants;
+* examinons la qualité de la gouvernance, de la gestion du risque et de la conformité.
+
+### Notre rôle et ses avantages pour le Canada
+
+Nous jouons un rôle de supervision important, mais nous ne gérons pas les institutions financières fédérales. Notre objectif est de concilier :
+
+* la compétitivité et la stabilité financière des institutions financières;
+* les normes internationales et les réalités du marché canadien.
+
+Nos activités de réglementation et de surveillance contribuent à inspirer la confiance du public envers le système financier canadien.
+
+Nos activités sont financées par les cotisations versées par les entités réglementées, et non par les contribuables.
+
+### Le Bureau de l’actuaire en chef
+
+Le Bureau de l’actuaire en chef (BAC) est une unité indépendante au sein du BSIF qui offre des services d’évaluation et des conseils actuariels au gouvernement du Canada. Dans l’exercice de ses activités, le BAC joue un rôle vital et indépendant pour assurer la sûreté et la viabilité du système public canadien de revenu de retraite.
+
+## Objectifs stratégiques
+
+Deux résultats stratégiques sont déterminants pour la réalisation du mandat du BSIF et essentiels à sa contribution au système financier du Canada :
+
+* Un système financier canadien sûr et stable.
+* Un système public canadien de revenu de retraite sûr et viable sur le plan financier.
+
+Il incombe au surintendant de veiller à l’application de la Loi au BSIF. Le BSIF relève du ministre des Finances.
+
+## 4. Application de la Loi sur l’accès à l’information
+
+### 4.1 Unité responsable de l’accès à l’information et de la protection des renseignements personnels (AIPRP)
+
+L'équipe de l'accès à l'information et de la protection des renseignements personnels (AIPRP) fait partie de la Direction du Bureau central au sein de la Division des services intégrés. L'unité est chargée d'administrer la Loi pour le Bureau du surintendant des institutions financières (BSIF). À ce titre, l'unité de l'AIPRP coordonne le traitement rapide des demandes en vertu de la loi, traite les plaintes déposées auprès du Commissariat à la protection de la vie privée et répond aux demandes informelles. L'unité de l'AIPRP fournit également des conseils et des orientations au personnel du bureau sur les questions liées à la Loi.
+
+Pour l'exercice 2023-2024, le gestionnaire, Protection des renseignements personnels et accès à l'information relevait du directeur, Bureau central, Services services intégrés et est appuyé par un agent de l'AIPRP, un agent subalterne de l'AIPRP et un adjoint administratif. L'agent de l'AIPRP et l'agent subalterne de l'AIPRP sont tous deux considérés comme du personnel régional. L'unité de l'AIPRP compte également sur le soutien de ressources contractuelles.
+
+### 4.2 Changements institutionnels dans l’application de la Loi sur l’accès à l’information
+
+Aucun changement institutionel n’a été apporte à l’administration de la loi en 2023-2024.
+
+### 4.3 Information et formation
+
+En 2023-2024, les efforts de formation ont consisté à faire en sorte que les employés du BSIF comprennent leurs attributions en matière de gestion et de protection efficaces des ressources d’information de l’organisation, qui permettent de faciliter l’exécution du programme d’accès à l’information au moyen d’une combinaison d’exposés, de séances d’information et de bulletins d’information. Les efforts de formation ont porté sur la sensibilisation des nouveaux employés du BSIF à l’AIPRP dans le cadre d’un programme de sensibilisation à la gestion de l’information et à l’AIPRP (2 séances, 11 participants) et sur la prestation de séances sur mesure aux participants des activités découlant des nouvelles obligations de divulgation proactive prévues dans la Loi (3 séances, 4 participants).
+
+### 4.4 Traitement des demandes d’accès à l’information
+
+Toutes les demandes officielles d’accès à l’information sont soumises au Gestionnaire, Protection des renseignements personnels et accès à l’information, qui les examine et les attribue à un agent de l’AIPRP. Ce dernier demande l’information aux agents de liaison en matière d’AIPRP des services visés. Après avoir examiné les documents, le Bureau de l’AIPRP donne des conseils et des directives pour s’assurer que les dispositions de la Loi sont respectées.
+
+Les documents regroupés sont examinés par l’agent de l’AIPRP, le Gestionnaire, Protection des renseignements personnels et accès à l’information, et les Services juridiques, selon le cas. Les documents et les recommandations se rapportant à chaque demande sont ensuite soumis au secteur de programme pour validation. Une fois approuvée, la trousse de communication est soumise à l’examen et à l’aval du Directeur, Bureau central, Services intégrés.
+
+### 4.5 Délégation de pouvoirs
+
+L'administration de la Loi sur l’accès à l’information incombe en fin de compte au surintendant. Toutefois, les ordonnances de délégation précisent quels pouvoirs, devoirs et fonctions liés à l'administration de la Loi sur l’acces a l’information ont été délégués par le responsable de l'institution, et à qui. À compter du 23 janvier 2024, tous les pouvoirs, devoirs ou fonctions sont délégués au Surintendant adjoint, Services intégrés, le Chef de cabinet, services intégrés, le Directeur principal des finances, le Directeur, Bureau central, Services intégrés, le Gestionnaire, AIPRP, et le Gestionnaire, Protection des renseignements personnels. Voir l'arrêté ci-joint à l'annexe B.
+
+### 4.6 Surveillance de la conformité
+
+Le temps consacré au traitement des demandes d’accès à l’information est consigné dans le système de suivi de l’AIPRP. Chaque mois, le directeur du Bureau central passe en revue la charge de travail relative à l’AIPRP ainsi que les réponses proposées à l’égard des demandes. Des préoccupations sont soulevées au besoin tout au long du cycle de vie de la demande, et la priorité est accordée à l’exécution des obligations législatives du BSIF.
+
+### 4.7 Sommaire des changements apportés aux programmes, opérations, politiques ou procédures
+
+Les demandes reçues par la poste par le BSIF sont récupérées par le gestionnaire, Accès à l'information et protection des renseignements personnels, au besoin. Il convient de noter que pour la durée de l'exercice 2023-2024, l'équipe de l'AIPRP relevait du Bureau du Directeur principal des finances, division Services intégrés. Le BSIF utilise désormais le Service de demande en ligne d’AIPRP du gouvernement du Canada pour recevoir, traiter et répondre aux demandes faites en vertu de la Loi sur l’accès à l’information. Le BSIF est également en train de moderniser son logiciel actuel de gestion des cas d'AIPRP. Au cours de la période de référence, le BSIF n’était assujetti à aucune entente de services en vertu de l’article 73.1 de la Loi sur la protection des renseignements personnels.
+
+### 4.8 Salle de lecture
+
+Conformément à la Loi sur l’accès à l’information, une salle de lecture publique a été aménagée à Ottawa, au 16e étage du 255, rue Albert.
+
+### 4.9 Publication proactive en vertu de la partie 2 de la LAI
+
+Le BSIF, en tant qu'institution figurant à l'annexe I.1 de la Loi sur la gestion des finances publiques, est considérée comme une entité gouvernementale aux fins de la partie 2 de la LAI. À ce titre, il est soumis aux exigences de publication proactive suivantes:
+
+| Exigence législative | Section | Calendrier de publication | Exigences institutionnelles |
+| --- | --- | --- | --- |
+| Toutes les institutions gouvernementales telles que définies à l'article 3 de la Loi sur l'accès à l'information | | | |
+| --- | --- | --- | --- |
+| Frais de voyage | 82 | Dans les 30 jours suivant la fin du mois de remboursement | x |
+| Frais d'accueil | 83 | Dans les 30 jours suivant la fin du mois de remboursement | x |
+| Rapports déposés au Parlement | 84 | Dans les 30 jours suivant le dépôt | x |
+| Entités publiques ou ministères, agences et autres organismes soumis à la Loi et énumérés dans les annexes I, I.1 ou II de la Loi sur la gestion des finances publiques | | | |
+| Contrats de plus de 10 000 $ | 86 | Q1-3 : Dans les 30 jours suivant le trimestre  Q4 : Dans les 60 jours suivant le trimestre | x |
+| Subventions et contributions supérieures à 25 000 $ | 87 | Dans les 30 jours suivant le trimestre | x |
+| Dossiers de documents d'information préparés pour les nouveaux administrateurs généraux ou équivalents | 88(a) | Dans les 120 jours suivant la nomination | x |
+| Titres et numéros de référence des notes de service préparées pour un administrateur général ou équivalent et reçues par son bureau | 88(b) | Dans les 30 jours suivant la fin du mois de réception | x |
+| Paquets de documents d'information préparés pour la comparution d'un administrateur général ou d'un équivalent devant une commission parlementaire | 88(c) | Dans les 120 jours suivant la comparution | x |
+| Les institutions gouvernementales qui sont des ministères mentionnés à l'annexe I de la Loi sur la gestion des finances publiques ou des secteurs de l'administration publique centrale mentionnés à l'annexe IV de cette Loi (c'est-à-dire les institutions gouvernementales pour lesquelles le Conseil du Trésor est l'employeur) | | | |
+| Reclassification des postes | 85 | Dans les 30 jours suivant le trimestre | s.o. |
+| Les ministres | | | |
+| Dossiers de documents d'information préparés par une institution gouvernementale à l'intention des nouveaux ministres ou des ministres entrants | 74(a) | Dans les 120 jours suivant la nomination | s.o. |
+| Titres et numéros de référence des mémorandums préparés par une institution gouvernementale pour le ministre et reçus par son cabinet | 74(b) | Dans les 30 jours suivant la fin du mois de réception | s.o. |
+| Ensemble de notes pour la période de questions préparées par une institution gouvernementale pour le ministre et utilisées le dernier jour de séance de la Chambre des communes en juin et en décembre. | 74(c) | Dans les 30 jours suivant le dernier jour de séance de la Chambre des communes en juin et décembre | s.o. |
+| Paquets de documents d'information préparés par une institution gouvernementale en vue de la comparution d'un ministre devant une commission parlementaire | 74(d) | Dans les 120 jours suivant la comparution | s.o. |
+| Frais de voyage | 75 | Dans les 30 jours suivant la fin du mois de remboursement | s.o. |
+| Frais d'accueil | 76 | Dans les 30 jours suivant la fin du mois de remboursement | s.o. |
+| Contrats de plus de 10 000 $ | 77 | Q1-3 : Dans les 30 jours suivant le trimestre  Q4 : Dans les 60 jours suivant le trimestre | s.o. |
+| Dépenses des cabinets ministériels  \*Nota : Ce rapport consolidé est actuellement publié par le SCT au nom de toutes les institutions. | 78 | Dans les 120 jours suivant l’année fiscal | s.o. |
+
+* 82 Dépenses afférentes aux déplacements: Les dépenses de voyage sont publiées mensuellement sur le site du gouvernement ouvert du gouvernement du Canada. 100 % des dépenses pour 2023-2024 ont été publiées dans les délais prescrits par la loi.
+* 83 Frais d'accueil : Les frais d'accueil sont publiés mensuellement sur le site du gouvernement ouvert du gouvernement du Canada. 100 % des dépenses pour 2023-2024 ont été publiées dans les délais prescrits par la loi.
+* 84 Rapports déposés au Parlement : 2 rapports ont été déposés au Parlement, 100 % ont été publiés dans les délais prescrits par la loi.
+* 86 Contrats d’une valeur de plus de 10 000 $: les contrats sont publiés trimestriellement. Au cours de la période visée par le rapport, 100 % ont été publiés dans les délais prescrits par la loi. 1 article trimestriel a été publié 3 jours après la date de publication requise.
+* 87 Subventions et contributions d’une valeur de plus de 25 000 $ : le BSIF n'a émis aucune subvention ou contribution au cours de la période de référence.
+* 88 Documents d’information: Au cours de la période visée par le rapport, le BSIF a publié 3 trousses d'information pour les comparutions parlementaires des administrateurs généraux, dont 100 % ont été publiées dans les délais prescrits par la loi. Les notes de service à l'intention de l'administrateur général sont publiées mensuellement sur le site Web du gouvernement ouvert du Canada. Pour la période de rapport 2023-2024, 100 % d'entre eux ont été publiés dans les délais prescrits par la loi.
+* Tous les renseignements publiés en vertu de la partie 2 de la Loi sont publiés sur le site du gouvernement ouvert du gouvernement du Canada. Avant que le projet de loi C-58 ne reçoive l'ascendance royale, le BSIF avait élaboré des politiques et des procédures internes pour satisfaire à sa nouvelle exigence relative à la publication proactive. Ces processus ont été mis à jour pour s'aligner sur les changements apportés à la dotation en personnel et à la structure d'entreprise du BSIF. Les processus liés à la divulgation proactive sont examinés chaque année par l'équipe de l'AIPRP.
+
+## 5. Interprétation du rapport statistique
+
+Le BSIF étant chargé de réglementer les institutions financières et les régimes de retraite privés fédéraux, la plupart des renseignements qu’il détient proviennent de tiers et portent sur les institutions financières et les régimes réglementés.
+
+### Partie 1 – Demandes présentées en vertu de la Loi sur l’accès à l’information
+
+Graphique 1 Demandes de consultation soumises en vertu de la Loi sur l'accès à l'information : reçues, non complétées de l'excercice précédent, complétées et non complétées en cours d'exercice : 2019-2020 à 2023-2024
+
+![Graphique 1.  Demandes de consultation soumises en vertu de la Loi sur l'accès à l'information : reçues, non complétées de l'excercice précédent, complétées et non complétées en cours d'exercice : 2019-2020 à 2023-2024. Version textuelle ci-dessous.](/sites/default/files/images/ati-aai-2023-24-img1-fr_0.png)
+
+Graphique 1 - Version textuelle
+
+Demandes de consultation soumises en vertu de la Loi sur l'accès à l'information : reçues, non complétées de l'excercice précédent, complétées et non complétées en cours d'exercice : 2019-2020 à 2023-2024
+
+|  | Reçues | Complétées en cours d'exercise | Non complétées de l'exercice précédent | Non complétées en cours d'exercice |
+| --- | --- | --- | --- | --- |
+| 2019-2020 | 39 | 12 | 42 | 9 |
+| 2020-2021 | 53 | 8 | 44 | 17 |
+| 2021-2022 | 38 | 17 | 41 | 14 |
+| 2022-2023 | 29 | 17 | 33 | 13 |
+| 2023-2024 | 38 | 13 | 43 | 8 |
+
+Le BSIF a reçu un total de 38 demandes officielles d’accès à l’information en 2023-2024, soit une augmentation de 30% par rapport aux 29 demandes reçues en 2022-2023. 43 demandes ont été fermées en 2023-2024, en hausse par rapport aux 33 demandes complétées fermées en 2022-2023, 91 % dans les délais légaux. 13 demandes étaient en suspens par rapport à la période de référence précédente et 8 demandes ont été reportées à l'année suivante. Depuis l’entrée en vigueur de la Loi jusqu’au 31 mars 2024, le BSIF a reçu 1 436 demandes d’accès à l’information.
+
+Graphique 2 Nombre et provenance des demandes d'accès à l'information au BSIF: Exercices 2019-2020 à 2023-2024
+
+![Graphique 2. Nombre et provenance des demandes d'accès à l'information au BSIF: Exercices 2019-2020 à 2023-2024. Version textuelle ci-dessous.](/sites/default/files/images/ati-aai-2023-24-img2-fr_0.png)
+
+Graphique 2 - Version textuelle
+
+Nombre et provenance des demandes d'accès à l'information au BSIF: Exercices 2019-2020 à 2023-2024
+
+|  | Presse | Milieu universitaire | Entreprises | Organisme | Public | Non Précisé |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2019-2020 | 15 | 0 | 10 | 0 | 13 | 1 |
+| 2020-2021 | 15 | 1 | 16 | 0 | 12 | 9 |
+| 2021-2022 | 8 | 1 | 7 | 0 | 9 | 13 |
+| 2022-2023 | 12 | 1 | 6 | 2 | 8 | 0 |
+| 2023-2024 | 8 | 1 | 9 | 4 | 11 | 5 |
+
+Le profil des demandeurs a également changé en 2023-2024, avec une légère diminution du nombre de demandes provenant des médias, une augmentation des demandes provenant des organismes et une augmentation du nombre de demandeurs provenant du public et des entreprises. Il y a eu une augmentation du nombre de demandeurs qui ont choisi de ne pas s'identifier.
+
+Le nombre de demandes informelles complétées en 2023-2024 était 325 % plus élevé que l’année précédente (17 en 2023-2024 contre 4 en 2022-2023).
+
+### Partie 2 – Demandes fermées pendant la période visée par le rapport
+
+Le tableau suivant résume les dispositions prises à l’égard des demandes fermées :
+
+#### 2.1 Disposition et délai de traitement
+
+| Règlement | Nombre de demandes |
+| --- | --- |
+| Communication totale | 5 |
+| Communication partielle | 24 |
+| Exception totale | 6 |
+| Exclusion totale | 0 |
+| Aucun document n’existe | 5 |
+| Demande transférée | 0 |
+| Demande abandonnée | 3 |
+| Ni confirmé ni infirmée | 0 |
+| Total | **43** |
+
+Pour la période de déclaration 2023-2024, 12% des demandes traitées ont mené à une divulgation intégrale, et 56 % à une divulgation partielle.
+
+Certaines parties des documents étaient assujetties à des exemptions. Le cas échéant, le demandeur a systématiquement eu accès à la partie restante des documents pertinents à la demande.
+
+Au total, 6 demandes ont été traitées dans un délai de 1 à 15 jours; 16 dans un délai de 16 à 30 jours; 9 dans un délai de 31 à 60 jours; 1 dans un délai de 61 à 120 jours; 2 dans un delai de 121-180 jours; 2 dans un délai de 181 à 365 jours; et 7 demandes ont nécessité un délai de plus de 365 jours.
+
+Sur les 8 demandes reportées à la période de référence 2024-2025, toutes ont été reportées de la période de référence 2023-2024 (toutes dans les délais prescrits par la loi).
+
+#### 2.2 Exceptions
+
+Pour les 38 demandes complétées au cours de l’année de déclaration 2023-2024, le BSIF a appliqué des exemptions pour retenir des renseignements en vertu des alinéas 13(1)(a), (b), et (c), l’alinéa 14(a) et (b), du paragraphe 15(1), des alinéas 16(1)(c), 16(2), 16(2)(c), des alinéas 18(a), (b) et (d), du paragraphe 19(1), des alinéas 20(1)(a),(b), (c) et (d), et 21(1)(a), (b), (c) et (d), et des articles 22 and 23 de la Loi, selon le cas.
+
+#### 2.3 Exclusions
+
+L’article 68(a) a été appliqué dans 6 dossiers.
+
+#### 2.4 Support des documents communiqués
+
+Les réponses à 29 demandes ont été fournies en format électronique.
+
+#### 2.5 Pages pertinentes traitées et communiquées
+
+Il y a eu une hausse marquée du nombre de pages traitées (55 004 en 2023-2024 contre 11 267 en 2022-2023) et du nombre de pages divulguées (3 175 en 2023-2024 contre 2 062 en 2022-2023). Ces chiffres ne tiennent pas compte des pages traitées et examinées pour les demandes reportées à la période de déclaration suivante.
+
+#### 2.6 Présomption de refus
+
+Sur toutes les demandes fermées en 2023-2024, 90.7 % l’ont été dans les délais prescrits par la Loi. Dans le cas de 4 demandes, la réponse a été fournie après le délai prescrit par la Loi en raison de retards à l’interne. Le taux de présomption de refus a diminué par rapport à l’exercice précédent, à raison de 4 sur 43 (9.3 %) en 2023-2024 contre 6 sur 33 (18.9 %) en 20221-20232. Le plan d’action mis en œuvre pour traiter les dossiers ouverts au-delà des délais prévus par la loi a été largement couronné de succès.
+
+#### 2.7 Demandes de traduction
+
+Il n’y a eu aucune demande de traduction en 2023-2024.
+
+### Partie 3 – Prorogations
+
+16 demandes ont nécessité une prolongation de 30 jours ou moins pour :
+
+* interférence avec les opérations conformément à l'article 9(1)(a) et/ou
+* consultation de tiers conformément à l'article 9, paragraphe 1, point b).
+
+9 demandes ont nécessité des prolongations de 31 jours à 60 jours pour :
+
+* interférence avec les opérations conformément à l'article 9(1)(a) et/ou
+* consultation avec un autre ministère gouvernemental conformément à l'article 9(1)(b).
+
+1 demande nécessitait une prolongation de 61 à 120 jours pour :
+
+* interférence avec les opérations conformément à l'article 9(1)(a) et/ou
+* consultation avec un autre ministère gouvernemental conformément à l'article 9(1)(b)
+
+2 demandes ont nécessité une prolongation de 121 à 180 jours pour :
+
+* interférence avec les opérations conformément à l'article 9(1)(a) et/ou
+* consultation avec un autre ministère gouvernemental conformément à l'article 9(1)(b)
+
+2 demandes ont nécessité une prolongation de 181 à 365 jours pour :
+
+* interférence avec les opérations conformément à l'article 9(1)(a) et/ou
+* consultation avec un autre ministère gouvernemental conformément à l'article 9(1)(b)
+
+7 demandes ont nécessité une prolongation de plus de 365 jours pour :
+
+* interférence avec les opérations conformément à l'article 9(1)(a) et/ou
+* consultation avec un autre ministère gouvernemental conformément à l'article 9(1)(b)
+
+### Partie 4 – Frais
+
+En vertu de la Loi sur les frais de service, une autorité responsable doit rendre compte chaque année au Parlement des frais perçus par l’institution. En ce qui concerne les frais perçus en vertu de la Loi sur l’accès à l’information, les renseignements ci-dessous sont déclarés conformément aux exigences de l’article 20 de la Loi sur les frais de service.
+
+Des droits de 145,00 $ ont été perçus pour 29 des 38 demandes reçues au cours de la période visée. Le versement de ces droits a fait l’objet d’une dispense, pour un total de 45,00 $.
+
+Conformément à la Directive provisoire sur l’administration de la Loi sur l’accès à l’information, publiée le 5 mai 2016, et aux modifications apportées à la Loi sur l’accès à l’information qui sont entrées en vigueur le 21 juin 2019, le BSIF renonce à tous les frais prescrits par la Loi et le Règlement, à l’exception des frais de demande de 5 $ prévus à l’alinéa 7(1)a) du Règlement.
+
+### Partie 5 – Demandes de consultation provenant d’autres institutions et organisations
+
+En 2023-2024, le BSIF a constaté une augmentation de 19,4 % du nombre de consultations reçues, soit 43, par rapport aux 36 reçues l'année précédente. 43 consultations ont été traitées au cours de la période de référence, contre 38 l'année précédente. Au total, 1 392 pages ont été examinées, soit une augmentation de 50 % par rapport à 2022-2023.
+
+#### 5.1 Recommandations et délai de traitement pour les demandes de consultation reçues d’autres institutions fédérales
+
+En 2023-2024, le BSIF a reçu 43 consultations d'autres institutions du gouvernement du Canada. De ce nombre, 31 consultations ont été traitées dans un délai de 1 à 15 jours et 12, dans un délai de 16 à 30 jours. Le BSIF a recommandé que les dossiers contenus dans 18 consultations soient divulgués dans leur intégralité, 23 soient divulgués en partie et 1 soit entièrement exempté.
+
+#### 5.2 Recommandations et délai de traitement pour les demandes de consultation provenant d’autres organismes
+
+En 2023-2024, le BSIF n’a reçu aucune demande de consultation provenant d’un organisme qui n’était pas affilié à l’administration fédérale.
+
+### Partie 6 – Délai de traitement des demandes de consultation sur les renseignements confidentiels du Cabinet
+
+Le BSIF n’a mené aucune consultation sur les documents confidentiels du Cabinet au cours de la période considérée.
+
+### Partie 7 – Ressources liées à la Loi sur l’accès à l’information
+
+Graphique 3 Traitement des demandes d'accès à l'information au BSIF: Coût et ressources humaines de 2019-2020 au 2023-2024
+
+![Graphique 3. Traitement des demandes d'accès à l'information au BSIF: Coût et ressources humaines de 2019-2020 au 2023-2024. Version textuelle ci-dessous.](/sites/default/files/images/ati-aai-2023-24-img3-fr_0.png)
+
+Graphique 3 - Version textuelle
+
+Traitement des demandes d'accès à l'information au BSIF: Coût et ressources humaines de 2019-2020 au 2023-2024
+
+| Années-personnes | Frais | Année fiscale |
+| --- | --- | --- |
+| 3,96 | 543919 | 2019-2020 |
+| 4,37 | 508525 | 2020-2021 |
+| 4,56 | 595117 | 2021-2022 |
+| 4,36 | 528292 | 2022-2023 |
+| 3,69 | 417816 | 2023-2024 |
+
+L’application de la Loi au cours de la période de déclaration a coûté 417 816 $. En raison de la complexité accrue des demandes reçues en 2023-2024, le BSIF a fait appel aux services d’experts-conseils provenant d’agences de placement pour venir en aide à sa petite équipe d’AIPRP et veiller à ce que les demandes d’accès à l’information soient traitées dans les délais prescrits par la Loi. Les salaires des employés représentaient 68,3 % du total des coûts engagés et 81 % des 3,69 années-personnes requises pour appliquer la Loi.
+
+## 6. Plaintes et enquêtes
+
+Le BSIF a reçu 2 nouvelles plaintes au cours de la période visée par le rapport. À la fin de la période, 4 plaintes étaient toujours à l’étude au Commissariat à l’information.
+
+## 7. Appels devant la cour fédérale du Canada
+
+### 7.1 – Description des changements importants mis en œuvre à la suite de questions ou de préoccupations formulées dans le Rapport annuel au Parlement par la Commissaire à l’information du Canada
+
+La commissaire à l’information du Canada n’a soulevé aucune préoccupation ou question concernant le BSIF, de sorte qu’aucun changement important n’a été apporté.
+
+### 7.2 – Description des changements importants mis en œuvre à la suite de questions ou de préoccupations formulées par d’autres agents du Parlement
+
+Le BSIF n’a apporté aucun changement important, car les autres agents du Parlement n’ont soulevé aucune préoccupation ou question.
+
+### 7.3 – Nombre de demandes ou d’appels dont la Cour fédérale ou la Cour d’appel fédérale ont été saisies pendant l’exercice
+
+La Cour fédérale et la Cour d’appel n’ont été saisies d’aucune demande et d’aucun appel se rapportant au BSIF au cours de l’exercice.
+
+## Annexe A – Rapport statistique sur la Loi sur l’accès à l’information
+
+**Rapport statistique sur la Loi sur l’accès à l’information**
+
+**Nom de l’institution :** Bureau du surintendant des institutions financières
+
+**Période d'établissement de rapport :** 4/1/2023 au 3/31/2024
+
+### Section 1 – Demandes en vertu de la Loi sur l’accès à l’information
+
+#### 1.1 Nombre de demandes
+
+| vide | Nombre de demandes |
+| --- | --- |
+| Reçues pendant la période d'établissement de rapport | 38 |
+| En suspens à la fin de la période d'établissement de rapport précédente | 13 |
+| En suspens à la fin de la période d'établissement de rapport précédente | 4 |
+| En suspens pour plus d'une période d'établissement de rapport | 9 |
+| Total | **51** |
+| Fermées pendant la période d'établissement de rapport | 43 |
+| Reportées à la prochaine période d'établissement de rapport | 8 |
+| Reportées à la prochaine période d'établissement de rapport dans les délais prévus par la Loi | 8 |
+| Reportées à la prochaine période d'établissement de rapport au-delà des délais prévus par la Loi | 0 |
+
+#### 1.2 Source des demandes
+
+| Source | Nombre de demandes |
+| --- | --- |
+| Médias | 8 |
+| Secteur universitaire | 1 |
+| Secteur commercial (secteur privé) | 9 |
+| Organisation | 4 |
+| Public | 11 |
+| Refus de s'identifier | 5 |
+| Total | 38 |
+
+#### 1.3 Mode des demandes
+
+| Mode | Nombre des demandes |
+| --- | --- |
+| En ligne | 29 |
+| Courriel | 3 |
+| Poste | 6 |
+| En personne | 0 |
+| Téléphone | 0 |
+| Télécopieur | 0 |
+| Total | 38 |
+
+### Section 2 – Demandes informelles
+
+#### 2.1 Nombre de demandes informelles
+
+| vide | Nombre de demandes |
+| --- | --- |
+| Reçues pendant la période d'établissement de rapport | 17 |
+| En suspens à la fin de la période d'établissement de rapport précédente | 1 |
+| En suspens à la fin de la période d'établissement de rapport précédente | 1 |
+| En suspens pour plus d'une période d'établissement de rapport | 0 |
+| Total | **18** |
+| Fermées pendant la période d'établissement de rapport | 18 |
+| Reportées à la prochaine période d'établissement de rapport | 0 |
+
+#### 2.2 Mode des demandes informelles
+
+| Mode | Nombre des demandes |
+| --- | --- |
+| En ligne | 12 |
+| Courriel | 5 |
+| Poste | 0 |
+| En personne | 0 |
+| Téléphone | 0 |
+| Télécopieur | 0 |
+| Total | 17 |
+
+#### 2.3 Délai de traitement pour les demandes informelles
+
+| Délai de traitement | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 à 15 jours | 16 à 30 jours | 31 à 60 jours | 61 à 120 jours | 121 à 180 jours | 181 à 365 jours | Plus de 365 jours | Total |
+| 16 | 1 | 0 | 0 | 0 | 0 | 1 | 18 |
+
+#### 2.4 Pages communiquées informellement
+
+| Moins de 100 pages communiquées | | De 100 à 500 pages communiquées | | De 501 à 1 000 pages communiquées | | De 1 001 à 5 000 pages communiquées | | Plus de 5 000 pages communiquées | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+#### 2.5 Pages recommuniquées informellement
+
+| Moins de 100 pages recommuniquées | | De 100 à 500 pages recommuniquées | | De 501 à 1 000 pages recommuniquées | | De 1 001 à 5 000 pages recommuniquées | | Plus de 5 000 pages recommuniquées | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de demandes | Pages recommuniquées | Nombre de demandes | Pages recommuniquées | Nombre de demandes | Pages recommuniquées | Nombre de demandes | Pages recommuniquées | Nombre de demandes | Pages recommuniquées |
+| 15 | 390 | 2 | 239 | 0 | 0 | 0 | 0 | 1 | 20 138 |
+
+### Section 3 – Demandes à la Commissaire à l'information pour ne pas donner suite à la demande
+
+| vide | Nombre de demandes |
+| --- | --- |
+| En suspens depuis la période d’établissement de rapports précédente | 0 |
+| Envoyées pendant la période d’établissement de rapports | 0 |
+| **Total** | **0** |
+| Approuvées par la Commissaire à l’information pendant la période d’établissement de rapports | 0 |
+| Refusées par la Commissaire à l’information au cours de la période d’établissement de rapports | 0 |
+| Retirées pendant la période d'établissement de rapports | 0 |
+| Reportées à la prochaine période d’établissement de rapports | 0 |
+
+### Section 4 – Demandes fermées pendant la période d'établissement de rapports
+
+#### 4.1 Disposition et délai de traitement
+
+| Disposition des demandes | Délai de traitement | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 à 15 jours | 16 à 30 jours | 31 à 60 jours | 61 à 120 jours | 121 à 180 jours | 181 à 365 jours | Plus de 365 jours | Total |
+| Communication totale | 1 | 2 | 1 | 0 | 1 | 0 | 0 | 5 |
+| Communication partielle | 0 | 11 | 5 | 0 | 1 | 2 | 5 | 24 |
+| Exception totale | 1 | 3 | 0 | 1 | 0 | 0 | 1 | 6 |
+| Exclusion totale | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Aucun document n’existe | 2 | 0 | 3 | 0 | 0 | 0 | 0 | 5 |
+| Demande transférée | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Demande abandonnée | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 3 |
+| Ni confirmée ni infirmée | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Refus d'agir avec l'approbation de la Commissaire à l'information | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | 6 | 16 | 9 | 1 | 2 | 2 | 7 | 43 |
+
+#### 4.2 Exceptions
+
+| Article | Nombre de demandes |
+| --- | --- |
+| 13(1)a) | 5 |
+| 13(1)b) | 1 |
+| 13(1)c) | 1 |
+| 13(1)d) | 0 |
+| 13(1)e) | 0 |
+| 14 | 2 |
+| 14a) | 0 |
+| 14b) | 0 |
+| 15(1) | 9 |
+| 15(1) - A.I.[Note 1 du tableau 4.2](#tbl4fn1) | 0 |
+| 15(1) - Déf.[Note 2 du tableau 4.2](#tbl4fn2) | 0 |
+| 15(1) - A.S.[Note 3 du tableau 4.2](#tbl4fn3) | 0 |
+| 16(1)a)(i) | 0 |
+| 16(1)a)(ii) | 0 |
+| 16(1)a)(iii) | 0 |
+| 16(1)b) | 0 |
+| 16(1)c) | 27 |
+| 16(1)d) | 0 |
+| 16(2) | 10 |
+| 16(2)a) | 0 |
+| 16(2)b) | 0 |
+| 16(2)c) | 3 |
+| 16(3) | 0 |
+| 16.1(1)a) | 0 |
+| 16.1(1)b) | 0 |
+| 16.1(1)c) | 0 |
+| 16.1(1)d) | 0 |
+| 16.2(1) | 0 |
+| 16.3 | 0 |
+| 16.4(1)a) | 0 |
+| 16.4(1)b) | 0 |
+| 16.5 | 0 |
+| 16.6 | 0 |
+| 17 | 0 |
+| 18a) | 1 |
+| 18b) | 1 |
+| 18c) | 0 |
+| 18d) | 3 |
+| 18.1(1)a) | 0 |
+| 18.1(1)b) | 0 |
+| 18.1(1)c) | 0 |
+| 18.1(1)d) | 0 |
+| 19(1) | 28 |
+| 20(1)a) | 3 |
+| 20(1)b) | 23 |
+| 20(1)b.1) | 0 |
+| 20(1)c) | 15 |
+| 20(1)d) | 1 |
+| 20.1 | 0 |
+| 20.2 | 0 |
+| 20.4 | 0 |
+| 21(1)a) | 19 |
+| 21(1)b) | 22 |
+| 21(1)c) | 3 |
+| 21(1)d) | 2 |
+| 22 | 1 |
+| 22.1(1) | 0 |
+| 23 | 9 |
+| 23.1 | 0 |
+| 24(1) | 0 |
+| 26 | 0 |
+|  |  |
+| --- | --- |
+| Notes du tableau 4  Note 1 du tableau 4  A.I. : Affaires internationales  [Retour à la référence de la note 1 du tableau 4](#tbl4fn1-rf)  Note 2 du tableau 4  Déf. : Défense du Canada  [Retour à la référence de la note 2 du tableau 4](#tbl4fn2-rf)  Note 3 du tableau 4  A.S. : Activités subversives  [Retour à la référence de la note 3 du tableau 4](#tbl4fn3-rf) | |
+
+#### 4.3 Exclusions
+
+| Article | Nombre de demandes |
+| --- | --- |
+| 68a) | 6 |
+| 68b) | 0 |
+| 68c) | 0 |
+| 68.1 | 0 |
+| 68.2a) | 0 |
+| 68.2b) | 0 |
+| 69(1) | 0 |
+| 69(1)a) | 0 |
+| 69(1)b) | 0 |
+| 69(1)c) | 0 |
+| 69(1)d) | 0 |
+| 69(1)e) | 0 |
+| 69(1)f) | 0 |
+| 69(1)g) re a) | 0 |
+| 69(1)g) re b) | 0 |
+| 69(1)g) re c) | 0 |
+| 69(1)g) re d) | 0 |
+| 69(1)g) re e) | 0 |
+| 69(1)g) re f) | 0 |
+| 69.1(1) | 0 |
+
+#### 4.4 Format des documents communiqués
+
+| Papier | Électronique | | | | Autres |
+| --- | --- | --- | --- | --- | --- |
+| Document électronique | Ensemble de données | Vidéo | Audio |
+| 0 | 29 | 0 | 0 | 0 | 0 |
+
+#### 4.5 Complexité
+
+##### 4.5.1 Pages pertinentes traitées et communiquées en formats papier et document électronique
+
+| Nombre de pages traitées | Nombre de pages communiquées | Nombre de demandes |
+| --- | --- | --- |
+| 55 004 | 3 175 | 38 |
+
+##### 4.5.2 Pages pertinentes traitées en fonction de l’ampleur des demandes en formats papier et document électronique par disposition des demandes
+
+| Disposition | Moins de 100 pages traitées | | 100 à 500 pages traitées | | 501 à 1 000 pages traitées | | 1 001 à 5 000 pages traitées | | Plus de 5 000 pages traitées | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de demandes | Pages traitées | Nombre de demandes | Pages traitées | Nombre de demandes | Pages traitées | Nombre de demandes | Pages traitées | Nombre de demandes | Pages traitées |
+| Communication totale | 5 | 104 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Communication partielle | 9 | 308 | 7 | 1 945 | 1 | 674 | 4 | 11 450 | 3 | 23 924 |
+| Exception totale | 3 | 15 | 1 | 484 | 0 | 0 | 1 | 1 778 | 1 | 13 272 |
+| Exclusion totale | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Demande abandonnée | 2 | 0 | 0 | 0 | 0 | 0 | 1 | 1 050 | 0 | 0 |
+| Ni confirmée ni infirmée | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Refus d'agir avec l'approbation de la Commissaire à l'information | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | 19 | 427 | 8 | 2 429 | 1 | 674 | 6 | 14 278 | 4 | 37 196 |
+
+##### 4.5.3 Minutes pertinentes traitées et communiquées en format audio
+
+| Nombre de minutes traitées | Nombre de minutes communiquées | Nombre de demandes |
+| --- | --- | --- |
+| 0 | 0 | 0 |
+
+##### 4.5.4 Minutes pertinentes traitées en fonction de l'ampleur des demandes en format audio par disposition des demandes
+
+| Disposition | Moins de 60 minutes traitées | | 60-120 minutes traitées | | Plus de 120 minutes traitées | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nombre de demandes | Minutes traitées | Nombre de demandes | Minutes traitées | Nombre de demandes | Minutes traitées |
+| Communication totale | 0 | 0 | 0 | 0 | 0 | 0 |
+| Communication partielle | 0 | 0 | 0 | 0 | 0 | 0 |
+| Exception totale | 0 | 0 | 0 | 0 | 0 | 0 |
+| Exclusion totale | 0 | 0 | 0 | 0 | 0 | 0 |
+| Demande abandonnée | 0 | 0 | 0 | 0 | 0 | 0 |
+| Ni confirmée ni infirmée | 0 | 0 | 0 | 0 | 0 | 0 |
+| Refus d'agir avec l'approbation de la Commissaire à l'information | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | **0** | **0** | **0** | **0** | **0** | **0** |
+
+##### 4.5.5 Minutes pertinentes traitées et communiquées en format vidéo
+
+| Nombre de minutes traitées | Nombre de minutes communiquées | Nombre de demandes |
+| --- | --- | --- |
+| 0 | 0 | 0 |
+
+##### 4.5.6 Minutes pertinentes traitées en fonction de l'ampleur des demandes en format vidéo par disposition des demandes
+
+| Disposition | Moins de 60 minutes traitées | | 60-120 minutes traitées | | Plus de 120 minutes traitées | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nombre de demandes | Minutes traitées | Nombre de demandes | Minutes traitées | Nombre de demandes | Minutes traitées |
+| Communication totale | 0 | 0 | 0 | 0 | 0 | 0 |
+| Communication partielle | 0 | 0 | 0 | 0 | 0 | 0 |
+| Exception totale | 0 | 0 | 0 | 0 | 0 | 0 |
+| Exclusion totale | 0 | 0 | 0 | 0 | 0 | 0 |
+| Demande abandonnée | 0 | 0 | 0 | 0 | 0 | 0 |
+| Ni confirmée ni infirmée | 0 | 0 | 0 | 0 | 0 | 0 |
+| Refus d'agir avec l'approbation de la Commissaire à l'information | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | **0** | **0** | **0** | **0** | **0** | **0** |
+
+##### 4.5.7 Autres complexités
+
+| Disposition | Consultation requise | Avis juridique | Autres | Total |
+| --- | --- | --- | --- | --- |
+| Communication totale | 1 | 0 | 0 | 1 |
+| Communication partielle | 7 | 0 | 0 | 7 |
+| Exception totale | 0 | 0 | 0 | 0 |
+| Exclusion totale | 0 | 0 | 0 | 0 |
+| Demande abandonnée | 1 | 0 | 1 | 2 |
+| Ni confirmée ni infirmée | 0 | 0 | 0 | 0 |
+| Refus d'agir avec l'approbation de la Commissaire à l'information | 0 | 0 | 0 | 0 |
+| Total | 9 | 0 | 1 | 10 |
+
+#### 4.6 Demandes fermées
+
+##### 4.6.1 Nombre de demandes fermées dans les délais prévus par la Loi
+
+|  |  |
+| --- | --- |
+| Nombre de demandes fermées dans les délais prévus par la Loi | 39 |
+| Pourcentage des demandes fermées dans les délais prévus par la Loi (%) | 90,69767442 |
+
+#### 4.7 Présomptions de refus
+
+##### 4.7.1 Motifs du non-respect des délais prévus par la Loi
+
+| Nombre de demandes fermées au-delà des délais prévus par la Loi | Motif principal | | | |
+| --- | --- | --- | --- | --- |
+| Entrave au fonctionnement / Charge de travail | Consultation externe | Consultation interne | Autre |
+| 4 | 0 | 0 | 0 | 4 |
+
+##### 4.7.2 Demandes fermées au-dela des délais prévus par la Loi (y compris toute prorogation prise)
+
+| Nombre de jours de retard au- delà des délais prévus par la Loi | Nombre de demandes fermées au-delà des délais prévus par la Loi où aucune prorogation n’a été prise | Nombre de demandes fermées au-delà des délais prévus par la Loi où une prorogation a été prise | Total |
+| --- | --- | --- | --- |
+| 1 à 15 jours | 0 | 1 | 1 |
+| 16 à 30 jours | 0 | 0 | 0 |
+| 31 à 60 jours | 0 | 0 | 0 |
+| 61 à 120 jours | 0 | 0 | 0 |
+| 121 à 180 jours | 0 | 0 | 0 |
+| 181 à 365 jours | 0 | 0 | 0 |
+| Plus de 365 jours | 1 | 2 | 3 |
+| Total | 1 | 3 | 4 |
+
+#### 4.8 Demandes de traduction
+
+| Demandes de traduction | Acceptées | Refusées | Total |
+| --- | --- | --- | --- |
+| De l’anglais au français | 0 | 0 | 0 |
+| Du français à l’anglais | 0 | 0 | 0 |
+| Total | **0** | **0** | **0** |
+
+### Section 5 – Prorogations
+
+#### 5.1 Motifs des prorogations et disposition des demandes
+
+| Disposition des demandes où le délai a été prorogé | 9(1)a) Entrave au fonctionnement | 9(1)b) Consultation | | 9(1)c) Avis à un tiers |
+| --- | --- | --- | --- | --- |
+| Article 69 | Autres |
+| Communication totale | 0 | 0 | 1 | 0 |
+| Communication partielle | 9 | 0 | 7 | 4 |
+| Exception totale | 2 | 0 | 1 | 0 |
+| Exclusion totale | 0 | 0 | 0 | 0 |
+| Demande abandonnée | 0 | 0 | 0 | 0 |
+| Aucun document n’existe | 0 | 0 | 0 | 0 |
+| Refus d'agir avec l'approbation de la Commissaire à l'information | 0 | 0 | 0 | 0 |
+| Total | 11 | 0 | 9 | 4 |
+
+#### 5.2 Durée des prorogations
+
+| Durée des prorogations | 9(1)a) Entrave au fonctionnement | 9(1)b) Consultation | | 9(1)c) Avis à un tiers |
+| --- | --- | --- | --- | --- |
+| Article 69 | Autres |
+| 30 jours ou moins | 3 | 0 | 0 | 0 |
+| 31 à 60 jours | 0 | 0 | 0 | 0 |
+| 61 à 120 jours | 1 | 0 | 2 | 0 |
+| 121 à 180 jours | 1 | 0 | 1 | 0 |
+| 181 à 365 jours | 1 | 0 | 1 | 0 |
+| Plus de 365 jours | 5 | 0 | 5 | 4 |
+| Total | 11 | 0 | 9 | 4 |
+
+### Section 6 – Frais
+
+| Type de frais | Frais perçus | | Frais dispensés | | Frais remboursés | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nombre de demandes | Montant | Nombre de demandes | Montant | Nombre de demandes | Montant |
+| Présentation | 29 | 145,00 $ | 9 | 45,00 $ | 0 | 0,00 $ |
+| Autres frais | 0 | 0,00 $ | 0 | 0,00 $ | 0 | 0,00 $ |
+| Total | 29 | 145,00 $ | 9 | 45,00 $ | 0 | 0,00 $ |
+
+### Section 7 – Demandes de consultation reçues d’autres institutions et organisations
+
+#### 7.1 Demandes de consultation reçues d’autres institutions du gouvernement du Canada et autres organisations
+
+| Consultations | Autres institutions du gouvernement du Canada | Nombre de pages à traiter | Autres organisations | Nombre de pages à traiter |
+| --- | --- | --- | --- | --- |
+| Reçues pendant la période d'établissement de rapport | 43 | 1 392 | 0 | 0 |
+| En suspens à la fin de la période d'établissement de rapport précédente | 0 | 0 | 0 | 0 |
+| Total | 43 | 1 392 | 0 | 0 |
+| Fermées pendant la période d'établissement de rapport | 43 | 1 392 | 0 | 0 |
+| Reportées à l'intérieur des délais négociés à la prochaine période d'établissement de rapport | 0 | 0 | 0 | 0 |
+| Reportées au-delà des délais négociés à la prochaine période d'établissement de rapport | 0 | 0 | 0 | 0 |
+
+#### 7.2 Recommandation et délai de traitement pour les demandes de consultation reçues d’autres institutions du gouvernement du Canada
+
+| Recommandation | Nombre de jours requis pour traiter les demandes de consultation | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 à 15 jours | 16 à 30 jours | 31 à 60 jours | 61 à 120 jours | 121 à 180 jours | 181 à 365 jours | Plus de 365 jours | Total |
+| Communiquer en entier | 16 | 2 | 0 | 0 | 0 | 0 | 0 | 18 |
+| Communiquer en partie | 13 | 10 | 0 | 0 | 0 | 0 | 0 | 23 |
+| Exempter en entier | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Exclure en entier | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Consulter une autre institution | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Autre | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Total | 31 | 12 | 0 | 0 | 0 | 0 | 0 | 43 |
+
+#### 7.3 Recommandation et délai de traitement pour les demandes de consultation reçues d’autres organisations à l'extérieur du gouvernement du Canada
+
+| Recommandation | Nombre de jours requis pour traiter les demandes de consultation | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 à 15 jours | 16 à 30 jours | 31 à 60 jours | 61 à 120 jours | 121 à 180 jours | 181 à 365 jours | Plus de 365 jours | Total |
+| Communiquer en entier | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Communiquer en partie | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Exempter en entier | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Exclure en entier | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Consulter une autre institution | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Autre | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+### Section 8 – Délais de traitement des demandes de consultation sur les renseignements confidentiels du Cabinet
+
+#### 8.1 Demandes auprès des services juridiques
+
+| Nombre de jours | Moins de 100 pages traitées | | De 100 à 500 pages traitées | | De 501 à 1 000 pages traitées | | De 1 001 à 5 000 pages traitées | | Plus de 5 000 pages traitées | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées |
+| 1 à 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 à 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 31 à 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 61 à 120 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 121 à 180 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 181 à 365 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Plus de 365 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+#### 8.2 Demandes auprès du Bureau du Conseil privé
+
+| Nombre de jours | Moins de 100 pages traitées | | De 100 à 500 pages traitées | | De 501 à 1 000 pages traitées | | De 1 001 à 5 000 pages traitées | | Plus de 5 000 pages traitées | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées | Nombre de demandes | Pages communiquées |
+| 1 à 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 16 à 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 31 à 60 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 61 à 120 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 121 à 180 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 181 à 365 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Plus de 365 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** |
+
+### Section 9 – Enquêtes et compte rendus de conclusion
+
+#### 9.1 Enquêtes
+
+| Article 32 Avis d’enquête | Article 30(5) Cessation de l’enquête | Article 35 Présenter des observations |
+| --- | --- | --- |
+| 2 | 0 | 0 |
+
+#### 9.2 Enquêtes et rapports des conclusions
+
+| Article 37(1) Comptes rendus initiaux | | | Article 37(2) Comptes rendus finaux | | |
+| --- | --- | --- | --- | --- | --- |
+| Reçus | Contenant des recommandations émis par la Commissaire à l’information | Contenant des ordonnances émis par la Commissaire à l’information | Reçus | Contenant des recommandations émis par la Commissaire à l’information | Contenant des ordonnances émis par la Commissaire à l’information |
+| 0 | 0 | 0 | 4 | 0 | 0 |
+
+### Section 10 – Recours judiciaire
+
+#### 10.1 Recours judiciaires sur les plaintes
+
+| Article 41 | | | | |
+| --- | --- | --- | --- | --- |
+| Plaignant (1) | Institution (2) | Tier (3) | Commissaire à la protection de la vie privée (4) | Total |
+| 0 | 0 | 0 | 0 | 0 |
+
+#### 10.2 Recours judiciaires sur les plaintes de tiers en vertu de l'alinéa 28(1)b)
+
+**Article 44 - en vertu de l'alinéa 28(1)b)** : 0
+
+### Section 11 – Ressources liées à la Loi sur l’accès à l’information
+
+#### 11.1 Coûts
+
+| Dépenses | Montant |
+| --- | --- |
+| Salaires | 285 370 $ |
+| Heures supplémentaires | 0 $ |
+| Biens et services | 132 446 $ |
+| Contrats de services professionnels | 116 622 $ |
+| Autres | 15 824 $ |
+| Total | **417 816 $** |
+
+#### 11.2 Ressources humaines
+
+| Ressources | Années-personnes consacrées aux activités liées à l’accès à l’information |
+| --- | --- |
+| Employés à temps plein | 1,360 |
+| Employés à temps partiel et occasionnels | 0,230 |
+| Employés régionaux | 1,400 |
+| Experts-conseils et personnel d’agence | 0,700 |
+| Étudiants | 0,000 |
+| Total | 3,690 |
+|  |  |
+| --- | --- |
+| **Remarque :** Entrer des valeurs à trois décimales. | |
+
+## Rapport supplémentaire sur la Loi sur l'accès à l'information et la Loi sur la protection des renseignements personnels
+
+**Nom de l'institution :** Bureau du surintendant des institutions financières
+
+**Période d’établissement de rapport :** 2023-04-01 au 2024-03-31
+
+### Section 1 : Demandes ouvertes et plaintes en vertu de la Loi sur l'accès à l'information
+
+#### 1.1 Indiquez le nombre de demandes ouvertes qui sont en suspens depuis des périodes de rapport précédentes.
+
+| Exercice financier au cours duquel les demandes ouvertes ont été reçues | Demandes ouvertes dans les délais prescrits par la Loi en date du 31 mars 2024 | Demandes ouvertes dépassant les délais prescrits par la Loi en date du 31 mars 2024 | Total |
+| --- | --- | --- | --- |
+| Reçues en 2023-2024 | 2 | 0 | **2** |
+| Reçues en 2022-2023 | 0 | 0 | **0** |
+| Reçues en 2021-2022 | 0 | 0 | **0** |
+| Reçues en 2020-2021 | 0 | 0 | **0** |
+| Reçues en 2019-2020 | 0 | 0 | **0** |
+| Reçues en 2018-2019 | 0 | 0 | **0** |
+| Reçues en 2017-2018 | 0 | 0 | **0** |
+| Reçues en 2016-2017 | 0 | 0 | **0** |
+| Reçues en 2015-2016 | 0 | 0 | **0** |
+| Reçues en 2014-2015 ou plus tôt | 0 | 0 | **0** |
+| Total | 2 | 0 | **2** |
+
+#### 1.2 Indiquez le nombre de plaintes ouvertes auprès du Commissaire à l’information du Canada qui sont en suspens depuis des périodes de rapport précédentes.
+
+| Exercice financier au cours duquel les plaintes ouvertes ont été reçues par institution | Nombre de plaintes ouvertes |
+| --- | --- |
+| Reçues en 2023-2024 | 2 |
+| Reçues en 2022-2023 | 1 |
+| Reçues en 2021-2022 | 1 |
+| Reçues en 2020-2021 | 0 |
+| Reçues en 2019-2020 | 0 |
+| Reçues en 2018-2019 | 0 |
+| Reçues en 2017-2018 | 0 |
+| Reçues en 2016-2017 | 0 |
+| Reçues en 2015-2016 | 0 |
+| Reçues en 2014-2015 ou plus tôt | 0 |
+| Total | **4** |
+
+### Section 2 : Demandes ouvertes et plaintes en vertu de la Loi sur la protection des renseignements personnels
+
+#### 2.1 Indiquez le nombre de demandes ouvertes qui sont en suspens depuis des périodes de rapport précédentes.
+
+| Exercice financier au cours duquel les demandes ouvertes ont été reçues | Demandes ouvertes dans les délais prescrits par la Loi en date du 31 mars 2024 | Demandes ouvertes dépassant les délais prescrits par la Loi en date du 31 mars 2024 | Total |
+| --- | --- | --- | --- |
+| Reçues en 2023-2024 | 0 | 0 | **0** |
+| Reçues en 2022-2023 | 0 | 0 | **0** |
+| Reçues en 2021-2022 | 0 | 0 | **0** |
+| Reçues en 2020-2021 | 0 | 0 | **0** |
+| Reçues en 2019-2020 | 0 | 0 | **0** |
+| Reçues en 2018-2019 | 0 | 0 | **0** |
+| Reçues en 2017-2018 | 0 | 0 | **0** |
+| Reçues en 2016-2017 | 0 | 0 | **0** |
+| Reçues en 2015-2016 | 0 | 0 | **0** |
+| Reçues en 2014-2015 ou plus tôt | 0 | 0 | **0** |
+| Total | 0 | 0 | **0** |
+
+#### 2.2 Indiquez le nombre de plaintes ouvertes auprès du Commissaire à la protection de la vie privée du Canada qui sont en suspens depuis des périodes de rapport précédentes.
+
+| Exercice financier au cours duquel les plaintes ouvertes ont été reçues par institution | Nombre de plaintes ouvertes |
+| --- | --- |
+| Reçues en 2023-2024 | 0 |
+| Reçues en 2022-2023 | 0 |
+| Reçues en 2021-2022 | 0 |
+| Reçues en 2020-2021 | 0 |
+| Reçues en 2019-2020 | 0 |
+| Reçues en 2018-2019 | 0 |
+| Reçues en 2017-2018 | 0 |
+| Reçues en 2016-2017 | 0 |
+| Reçues en 2015-2016 | 0 |
+| Reçues en 2014-2015 ou plus tôt | 0 |
+| Total | **0** |
+
+### Section 3: Numéro d'assurance social
+
+**Votre institution a-t-elle commencé une nouvelle collecte ou une nouvelle utilisation cohérente du NAS en 2023-2024?** : Non
+
+### Section 4: Accès universel sous la Loi sur la protection des renseignements personnels
+
+**Combien de demandes ont été reçues de la part de ressortissants étrangers en dehors du Canada en 2023-2024?** : 0
+
+## Annexe B – Arrêt sur la délégation: Loi sur l’accès à l’information
+
+**Designation / Délégation**
+
+Access to Information Act and Privacy Act / Loi sur l’accès à l’information et Loi sure la protection des renseignments personnels
+
+Designation Order for the Access to Information Act and Privacy Act
+
+By this order made pursuant to sections 95(1) of the Access to Information Act and 73(1) of the Privacy Act, I hereby authorize those officers and employees of the Office of the Superintendent of Financial Institutions occupying, on an acting basis or otherwise, the positions identified within the attached schedule to perform on my behalf any of the powers, duties or functions specified therein.
+
+This designation replaces and repeals all previous orders.
+
+Dated in Ottawa on this 23rd day of January, 2024
+
+Arrêté sur la délégation en vertu de la Loi sur l’accès à l’information et la Loi sur la protection des renseignments personnels
+
+Par le présent arrêté pris en vertu des l’articles 95(1) de la Loi sur l’accès à l’information et 73(1) de la Loi sur la protection des renseignments personnels, j’autorise les agents et les employés du Bureau du surintendant des institutions financières occupant, par intérim ou autrement, les postes identifiés dans l’annexe ci-jointe à exercer en mon nom, les attributions, les fonctions et les pouvoirs qui y sont spécifiés.
+
+Le présent document remplace et annule tous les arrêtés antérieurs.
+
+Fait à Ottawa en ce 23ième jour de janvier 2024
+
+Peter Routledge  
+Superintendent of Financial Institutions/  
+Le surintendant des institutions financères
+
+## Schedules
+
+| Position/Poste | Access to information Act and Regulations / Loi sur l’accès à l’information et règlements | Privacy Act and Regulations / Loi sur la protection des renseignements personnels et règlements |
+| --- | --- | --- |
+| Assistant Superintendent, Chief Operating Officer | Full authority / Autorité absolue | Full authority / Autorité absolue |
+| Chief of Staff, Assistant Superintendent, Chief Operating Officer | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+| Chief Financial Officer | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+| Director, Central Office | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+| Manager, Access to Information and Privacy | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+| Manager, Privacy | Full authority / Autorité absolue | Act: 8(4), 8(5), 9(1), 9(4), 10, 14(a), 14(b), 15, 17(2)(b), 17(3)(b), 18(2), 19(1), 19(2), 20, 21, 22, 22.3, 23, 24, 25, 26, 27, 28, 33(2), 35(4), 51(2)(b), 72(1)  Regulations: 7, 9, 11(2), 11(4), 13(1), 14 |
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-11-06

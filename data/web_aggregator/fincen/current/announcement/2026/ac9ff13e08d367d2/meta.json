@@ -1,0 +1,24 @@
+{
+  "doc_id": "ac9ff13e08d367d2",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Defendant Pleads Guilty in Structuring Case | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/defendant-pleads-guilty-structuring-case",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:dcb90921a51b83a4a25ad1c6eed4d4f638905beffb393f08d27c0261469e217a",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/ac9ff13e08d367d2",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

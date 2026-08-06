@@ -1,0 +1,52 @@
+[Skip to main content](#skip-to-content "Skip to main content")
+
+[Home](/eng "Home")
+/ [News and Media](/eng/news-and-media/ "News and Media") / [Press Releases](/eng/news-and-media/press-releases/ "Press Releases")
+
+# HKMA’s Response to US Fed’s Interest Rate Decision
+
+## Press Releases
+
+30 Jul 2026
+
+### HKMA’s Response to US Fed’s Interest Rate Decision
+
+The Federal Open Market Committee of the Federal Reserve (the Fed) announced earlier today (Hong Kong time) its decision to keep the target range for the federal funds rate unchanged at 3.5-3.75%.
+
+The policy decision is in line with market expectations.  The statement released after the meeting indicated that economic activity was expanding at a solid pace and the labour market was stable, but inflation has remained elevated, reflecting that the Committee is watchful over the outlook on inflation.
+
+Hong Kong’s monetary and financial markets have continued to operate in an orderly manner.  Under the Linked Exchange Rate System, Hong Kong dollar interbank rates generally track the US dollar counterparts, while shorter-tenor interbank rates tend to be also influenced by the supply and demand of Hong Kong dollar funding in the local market such as seasonal factors and capital market activities.
+
+US interest rate adjustments will depend on developments in inflation, labour market, and other economic data, and may influence the interest rate environment in Hong Kong.  The public should carefully manage interest rate risks when making decisions about property purchase, investment or borrowing.  The HKMA will continue to closely monitor market developments and maintain monetary and financial stability.
+
+Hong Kong Monetary Authority  
+30 July 2026
+
+Latest Press Releases
+
+* 03 Aug 2026
+
+  [Planned system enhancement for the Faster Payment System on 9 August 2026](/eng/news-and-media/press-releases/2026/08/20260803-3/ "Planned system enhancement for the Faster Payment System on 9 August 2026")
+* 31 Jul 2026
+
+  [HKICL alerts public of fraudulent website](/eng/news-and-media/press-releases/2026/07/20260731-8/ "HKICL alerts public of fraudulent website")
+* 31 Jul 2026
+
+  [Monetary Statistics for June 2026](/eng/news-and-media/press-releases/2026/07/20260731-7/ "Monetary Statistics for June 2026")
+* 31 Jul 2026
+
+  [Residential mortgage loans in negative equity: End of June 2026](/eng/news-and-media/press-releases/2026/07/20260731-6/ "Residential mortgage loans in negative equity: End of June 2026")
+* 31 Jul 2026
+
+  [Residential Mortgage Survey Results for June 2026](/eng/news-and-media/press-releases/2026/07/20260731-5/ "Residential Mortgage Survey Results for June 2026")
+
+[View All](/eng/news-and-media/press-releases "View All Press Releases")
+[View All](/eng/news-and-media/press-releases "View All Press Releases")
+
+Last revision date : 30 July 2026
+
+Share
+
+[![Share to Facebook](/statics/assets/img/icon-fb.jpg)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hkma.gov.hk%2Feng%2Fnews-and-media%2Fpress-releases%2F2026%2F07%2F20260730-4%2F "Share to Facebook")
+[![Share to Twitter](/statics/assets/img/icon-twitter.jpg)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hkma.gov.hk%2Feng%2Fnews-and-media%2Fpress-releases%2F2026%2F07%2F20260730-4%2F "Share to Twitter")
+[![Share](/statics/assets/img/icon-share.jpg)](javascript:esdlife.app.method.copy_link('https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260730-4/') "Share")

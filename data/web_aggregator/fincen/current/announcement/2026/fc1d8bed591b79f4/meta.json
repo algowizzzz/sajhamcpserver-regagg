@@ -1,0 +1,24 @@
+{
+  "doc_id": "fc1d8bed591b79f4",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Currency Transaction Reports Expose Drug Traffickers Laundering Profits Through Casinos | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/currency-transaction-reports-expose-drug-traffickers",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:cb660685b1a1e651ffe2294e18284661dd3cf0d8375fbd8bf38328398d0fcd5c",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/fc1d8bed591b79f4",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,1 @@
+Summary: The Danish Financial Supervisory Authority, Finanstilsynet, has ordered Gefion Insurance A/S to cease writing business with immediate effect. Finanstilsynet [has also published a number of questions and answers](https://www.dfsa.dk/Supervision/Orders/Gefion_260320) which may be u

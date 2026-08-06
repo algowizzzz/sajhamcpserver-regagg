@@ -1,0 +1,9 @@
+# How SAIC’s recharged venture with GM plans to catch up with top EV makers in China
+
+China’s SAIC Motor has extended its cooperation with General Motors by 20 years, renewing the joint venture through 2047 amid aggressive competition from home-grown rivals.
+SAIC and GM, the largest carmakers in China and the United States, respectively, in terms of sales volume, signed the agreement on Wednesday, building on a partnership that began in 1995 and led to the SAIC-GM joint venture in 1997.
+Wang Xiaoqiu, chairman of state-owned SAIC, said both sides should leverage their strengths in...
+
+[Read the full story at the source](https://www.scmp.com/business/china-evs/article/3363081/how-saics-recharged-venture-gm-plans-catch-top-ev-makers-china?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

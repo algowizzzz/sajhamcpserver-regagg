@@ -1,0 +1,1 @@
+Summary: # SHARC Energy Announces Executive Leadership Transition

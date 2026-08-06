@@ -1,0 +1,247 @@
+Federal Deposit 
+Insurance Corporation 
+ 
+Legal Division 
+550 17th Street NW, Washington, D.C. 20429-9990 
+www.fdic.gov 
+page 1 
+MEMO 
+ 
+DATE: April 7, 2026 
+TO: The Board of Directors 
+FROM: Matthew P. Reed 
+General Counsel 
+RE: Final Rule on Prohibition on Use of Reputation Risk by 
+Regulators 
+ 
+RECOMMENDATION  
+ 
+Staff recommends that the FDIC’s Board of Directors (Board) approve the attached final 
+rule to be issued jointly with the Office of the Comptroller of the Currency (collectively, the 
+agencies).  Through this final rule, the agencies would codify the removal of reputation risk from 
+their supervisory programs.  
+ 
+BACKGROUND 
+ 
+Banking regulators’ use of the concept of reputation risk as a basis for supervisory 
+criticisms increases subjectivity in banking supervision without adding material value from a 
+safety and soundness perspective or ensuring greater compliance with the law.  Although staff 
+recognizes the importance of a bank’s reputation, most activities that could negatively impact an 
+institution’s reputation do so through traditional risk channels (e.g., credit risk, market risk, and 
+operational risk, among others) on which supervisors already focus and already have sufficient 
+authority to address.  To improve the efficiency and effectiveness of their supervisory programs, 
+the FDIC and OCC have removed reputation risk from their supervisory frameworks.  This final 
+rule would codify the change in the agencies’ regulations.   
+ 
+This change would also respond to concerns expressed in Executive Order 14331, 
+Guaranteeing Fair Banking for All Americans,
+1 that the use of reputation risk can be a pretext for 
+restricting law-abiding individuals’ and businesses’ access to financial services on the basis of 
+political or religious beliefs or lawful business activities. 
+ 
+Experience has shown that the use of reputation risk in the supervisory process does not 
+increase the safety and soundness of supervised institutions because supervisors have little ability 
+to predict ex ante whether or how certain activities or customer relationships present reputation 
+risks that could threaten the safety and soundness of an institution.  In contrast, risks like credit 
+ 
+1  90 Fed. Reg. 38,925 (Aug. 7, 2025).
+
+www.fdic.gov  
+page 2 
+ 
+risk and liquidity risk are more concrete and measurable and allow examiners to assess more 
+objectively a banking institution’s financial condition.  Assessments of these risks may reflect 
+perceptions of a bank’s financial condition consistent with objective principles.   
+ 
+Unlike evaluation of objective, measurable risks, examining for reputation risk is overly 
+subjective.  This subjectivity has led to inconsistent supervision that at times reflected individual 
+perspectives rather than data-driven results.  The use of reputation risk can result in agency 
+examiners implicitly or explicitly encouraging institutions to restrict access to banking services 
+on the basis of examiners’ personal views of a group’s or individual’s political, social, cultural, or 
+religious views or beliefs, constitutionally protected speech, or politically disfavored but lawful 
+business activities.  This can result in unfair treatment of different groups and impermissible 
+restrictions on a group’s or individual’s ability to access financial services.  Denying lawful 
+businesses access to financial services can further have negative effects on the economy by 
+hindering the growth of these lawful businesses and consequently interfering with the job 
+formation and the economic activity their operations could generate. 
+ 
+OCTOBER 2025 PROPOSAL 
+ 
+On October 7, 2025, the agencies approved a notice of proposed rulemaking that would 
+codify the elimination of reputation risk from their supervisory programs.  The rule did not 
+propose to alter or affect the ability of an institution to make business decisions regarding its 
+customers or third-party arrangements and to manage them effectively, consistent with safety and 
+soundness and compliance with applicable laws.   
+ 
+The agencies proposed to prohibit formal or informal criticism or taking adverse action 
+against an institution on the basis of reputation risk.  The agencies proposed to define “reputation 
+risk” as the risk that an action or activity, or combination of actions or activities, or lack of 
+actions or activities, of an institution could negatively impact public perception of the institution 
+for reasons not clearly and directly related to the financial condition of the institution.   
+ 
+In addition, the agencies proposed to prohibit requiring, instructing, or encouraging an 
+institution to close an account, to refrain from providing an account, product, or service, or to 
+modify or terminate any product or service on the basis of a person or entity’s political, social, 
+cultural, or religious views or beliefs, constitutionally protected speech, or solely on the basis of 
+politically disfavored but lawful business activities perceived to present reputation risk. 
+ 
+The agencies further proposed to prohibit taking any supervisory action or other adverse 
+action against an institution, a group of institutions, or the institution-affiliated parties of any 
+institution that is designed to punish or discourage an individual or group from engaging in any 
+lawful political, social, cultural, or religious activities, constitutionally protected speech, or, for 
+political reasons, lawful business activities that the supervisor disagrees with or disfavors.
+
+www.fdic.gov  
+page 3 
+ 
+The proposed rule’s prohibitions would not have affected requirements intended to 
+prohibit or reject transactions or accounts associated with Office of Foreign Assets Control-
+sanctioned persons, entities, or jurisdictions.  The prohibitions also would not have affected the 
+agencies’ authority to enforce the requirements of the provisions of United States Code title 31, 
+chapter 53, subchapter II regarding reporting on monetary transactions.  However, the proposal 
+would have prohibited the agencies from using Bank Secrecy Act and anti-money laundering 
+concerns as a pretext for reputation risk. 
+ 
+The proposed rule also included one conforming amendment to the safety and soundness 
+standards set forth in part 364 of the FDIC’s regulations to eliminate references to reputational 
+risk.   
+ 
+SUMMARY OF COMMENTS 
+ 
+Commenters included government entities, members of Congress, industry trade groups, 
+nonprofits, financial institutions, businesses, and individuals.  Although the agencies received 
+comments both supporting and opposing the proposed rule, the majority of comment letters 
+expressed support.  Many commenters urged the agencies to adopt the proposed rule because 
+they perceived reputation risk to be ill-suited as a supervisory tool.  These commenters expressed 
+concern that reputation risk is subjective and hard to measure in a predictable or quantitative 
+fashion. 
+ 
+In contrast, other commenters opposed the proposed rule and stated that examination for 
+reputation risk is necessary to support bank safety and soundness.  However, such commenters 
+did not recommend an actionable method that the agencies could adopt for accurately measuring 
+reputation risk. 
+ 
+Some commenters stated that damage to a bank’s reputation can cause substantial 
+financial harm to a bank, citing the spring 2023 bank failures, which they believe were caused by 
+reputational harms to the financial institutions involved.  However, the concerns that caused the 
+public to cease doing business with those institutions were not the types of concerns that would 
+fall under the definition of reputation risk in the final rule, and for which the agencies would be 
+prevented from supervising.  Indeed, the spring 2023 failures served as examples of the types of 
+material financial risks on which regulators and institutions need to focus and from which they 
+can be distracted by reputation risk concerns. 
+ 
+DISCUSSION OF FINAL RULE 
+ 
+Staff recommends the Board adopt the rule as proposed in October 2025, with two minor 
+modifications discussed below that are intended to address concerns raised by commenters. 
+ 
+Modification to Definition of “Reputation Risk”
+
+www.fdic.gov  
+page 4 
+ 
+As noted above, the agencies proposed to define “reputation risk” as the risk that an 
+action or activity, or combination of actions or activities, or lack of actions or activities, of an 
+institution could negatively impact public perception of the institution for reasons not clearly and 
+directly related to the financial condition of the institution.  The agencies specifically requested 
+comment on whether the definition of “reputation risk” should also include a reference to the 
+“operational condition” of the institution. 
+ 
+Commenters were divided on this issue, with some asserting that the agencies might rely 
+on operational risks as a basis for taking adverse action when that action is actually based on 
+reputation risk.  Other commenters viewed an express reference to operational risk as preserving 
+the agencies’ authority to supervise operational risk management.    
+ 
+Staff recommends that the definition of “reputation risk” include a reference to the 
+operational condition of the institution.  Operational risk is a significant concern, and operational 
+issues such as a cyberattack or a natural disaster could have a direct impact on customers’ 
+willingness to do business with an institution.   
+ 
+Accordingly, the final rule would define “reputation risk” as “any risk, regardless of how 
+the risk is labeled by the institution or regulators, that an action or activity, or combination of 
+actions or activities, or lack of actions or activities, of an institution could negatively impact 
+public perception of the institution for reasons not clearly and directly related to the financial or 
+operational condition of the institution.” 
+ 
+Modification to Prohibition of Supervisory Action Discouraging Lawful Activities  
+ 
+As noted above, the proposed rule included a prohibition against any supervisory action 
+or other adverse action against an institution, a group of institutions, or the institution-affiliated 
+parties of any institution that is designed to punish or discourage an individual or group from, 
+among other things, engaging in lawful activities that the supervisor disagrees with or disfavors.   
+ 
+Some commenters requested that the language of this prohibition be expanded to cover 
+all agency personnel, not just those involved in supervising banks.  Another commenter 
+suggested that the prohibition should be extended to prohibit any attempt to discourage lawful 
+political or religious activity, regardless of what the bank supervisory staff may think about the 
+activity. 
+ 
+The agencies did not intend this provision to be read narrowly to only cover the views of 
+supervisory staff.  Thus, the prohibition in the final rule would cover actions designed to punish 
+or discourage an individual or group from engaging in lawful activities that the agency or any of 
+its personnel disagrees with or disfavors.  This change clarifies that bias from any individual at 
+the agency is not a permissible basis for agency action. 
+ 
+***
+
+www.fdic.gov  
+page 5 
+ 
+ 
+In addition to the changes discussed above, there are select provisions of the rule where 
+staff believes that clarification of the agencies’ expectations in the final rule’s preamble would be 
+appropriate. 
+ 
+Actions Taken “Solely” on the Basis of Involvement in Politically Disfavored But Lawful 
+Business Activities Perceived to Present Reputation Risk 
+ 
+The proposed rule provided that the agencies will not require, instruct, or encourage an 
+institution or its employees to terminate a contract with, discontinue doing business with, sign a 
+contract with, initiate doing business with, or modify the terms under which it will do business 
+with a person or entity on the basis of the person or entity’s political, social, cultural, or religious 
+views or beliefs, constitutionally protected speech, or “solely” on the basis of the person’s or 
+entity’s involvement in politically disfavored but lawful business activities perceived to present 
+reputation risk.  The agencies specifically requested comment on the use of “solely” in this 
+prohibition, and whether it should be removed from the proposed rule. 
+ 
+Some commenters felt the word “solely” should be maintained because banks could 
+otherwise face regulatory uncertainty even when legitimate risk factors are the primary basis for 
+the decision.  Other commenters were concerned that the term “solely” could be read to imply 
+that reputation risk could be considered, just not as a stand-alone risk. 
+ 
+The word “solely” was included in the proposed rule to provide the ability for regulators 
+to discourage activities that may implicate safety and soundness through traditional risk channels 
+but also involve a legitimate business activity that might be politically disfavored.  Staff believes 
+it is important to maintain this flexibility.  Therefore, this prohibition in the final rule would 
+retain the word “solely.”  However, the preamble would state that where an agency action 
+appears to have some impermissible reputation risk considerations underlying it, but proports to 
+be based largely on permissible concerns, the agencies would consider whether the agency action 
+might violate the rule’s anti-evasion provisions. 
+ 
+Actions Taken Based on Protected Views and Beliefs  
+ 
+Commenters also stated that it was unclear whether references to “views and beliefs” in 
+the proposed rule would extend to actions based on those views or beliefs.  Some commenters 
+recommended extending the prohibitions to cover such actions.  Staff does not believe that the 
+prohibitions should be extended in this manner, because an action motivated by a protected view 
+or belief might raise legitimate concerns relating to permissible risk factors, and expanding the 
+prohibition could thus prevent the agencies from addressing permissible risk factors.  However, 
+the preamble would communicate that although agency actions designed solely to discourage or 
+punish a given view or belief are impermissible,  the agencies are not prevented from considering 
+actions that relate to permissible risk factors (e.g., creditworthiness or other permissible risk
+
+www.fdic.gov  
+page 6 
+ 
+factors such as market risk) solely because those actions stem, in whole or in part, from a 
+political, social, cultural, or religious view or belief. 
+ 
+CONCLUSION  
+ 
+Staff recommends that the Board approve the attached final rule for publication in the 
+Federal Register, with an effective date 60 days after publication. 
+ 
+Staff contacts: 
+ 
+Sheikha Kapoor, Assistant General Counsel, (202) 898-3960 
+James Watts, Counsel, (202) 898-6678

@@ -1,0 +1,1 @@
+Summary: # (Formerly known as 92-1) How should a financial institution complete a CTR when multiple transactions are aggregated and reported on a single form and all or part of the information called for in the form may not be known?

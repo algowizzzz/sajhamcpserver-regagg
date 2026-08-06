@@ -1,0 +1,27 @@
+{
+  "doc_id": "ecd850574cfe578f",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Amendments to the Bank Act restrictions on the use of the words \u201cbank\u201d, \u201cbanker\u201d and \u201cbanking\u201d, and OSFI\u2019s new compliance expectations - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:52425d67f90c902d7a797a3f647f5bb3815740d430177a31787488073cf12a08",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/ecd850574cfe578f",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations",
+  "fetch_method": "html_to_md"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "aec00e9eff543b51",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Relev\u00e9 des valeurs mobili\u00e8res d\u00e9tenues | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-valeurs-mobilieres-detenues",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f5bb9e65101a81909c84d0dbfcf67a8537d36d26f61b14d3066eb9cde72d2d9f",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/aec00e9eff543b51",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

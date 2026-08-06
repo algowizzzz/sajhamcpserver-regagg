@@ -1,0 +1,1 @@
+Summary: ![hands protecting a toy home from falling dominoes](/sites/default/files/styles/wide_lead/public/media/2025/03/Hero-Protection-Hands-Home.jpg?h=b5f6a62e&itok=mk6njVtj "Protect Your Home")

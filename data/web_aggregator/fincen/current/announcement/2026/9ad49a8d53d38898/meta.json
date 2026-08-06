@@ -1,0 +1,24 @@
+{
+  "doc_id": "9ad49a8d53d38898",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Suspicious Activity Reports Useful in Round-Tripping Investigation | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/suspicious-activity-reports-useful-round-tripping",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3ec2fd9803aca1e1a3eb429f57bee9209bdea555a265c96463a2e2f5a6e67b28",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/9ad49a8d53d38898",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

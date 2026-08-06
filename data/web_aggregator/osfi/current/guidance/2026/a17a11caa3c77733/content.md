@@ -1,0 +1,44 @@
+# OSFI update on Canadian Dollar Offered Rate transition
+
+Information
+
+Publication type
+
+Letter
+
+Date
+
+October 24, 2023
+
+Sector
+
+Banks,
+
+Trust and Loan Companies,
+
+Foreign Bank Branches,
+
+Life Insurance and Fraternal Companies,
+
+Property and Casualty Companies
+
+[Generate PDF](/en/print/pdf/node/1911)
+
+Table of contents
+
+**To:**Federally Regulated Financial Institutions (FRFIs) and Federally Regulated Private Pension Plans (FRPPs)
+
+After June 28, 2024, the administrator of the Canadian Dollar Offered Rate (CDOR), Refinitiv Benchmark Services (UK) Limited (RBSL), will [cease (PDF, 126 KB)](https://www.refinitiv.com/content/dam/marketing/en_us/documents/methodology/cdor-cessation-notice.pdf) the publication of all three of CDOR's remaining tenors. This change will impact the structure of Canadian financial markets, including the Canadian corporate and commercial loan markets. As noted in our May 16, 2022 [Industry Letter](/en/guidance/guidance-library/osfis-expectations-cdor-transition "OSFI’s expectations for CDOR Transition"), we expect federally regulated financial institutions (FRFIs) and federally regulated private pension plans (FRPPs) will have transitioned all loan agreements referencing CDOR by June 28, 2024 and make every effort to ensure a seamless transition to new reference rates, prior to the respective cessation dates.
+
+In July, the Canadian Alternative Reference Rate working group (CARR) [introduced](https://www.bankofcanada.ca/2023/07/carr-recommendations-transitioning-loans-cdor-corra-provides-new-milestone/) a "no new CDOR or Bankers' Acceptance (BA) loan" milestone date of November 1, 2023 to facilitate a tapered transition of the loan market by reducing the stock of loans that need to be remediated ahead of CDOR's cessation. Similar milestones for the loan market were introduced in LIBOR jurisdictions. This milestone does not include draws on existing CDOR or BA loan facilities that have not yet matured, or that have been extended or been subject to material amendments prior to November 1. Given the importance of a smooth transition of the loan market, we support the CARR's ‘no new CDOR or BA loan' milestone. In line with CARR's expectations, FRFIs and FRPPs should be actively transitioning their loans and funding to a variety of other interest rates, for example, CORRA and Term CORRA.
+
+Additionally, OSFI is reviewing the treatments of BAs in the Capital Adequacy Requirements and the Liquidity Adequacy Requirements guidelines, including NSFR, to align with the treatment of similar financial instruments such as bearer deposit notes. With the banks no longer providing their CDOR survey submissions to Refinitiv Benchmark Services (UK) Ltd after June 28, 2024, the need for OSFI's Guideline E-20: CDOR Benchmark-Setting Submissions is also under review.
+
+For FRFIs with material exposure to CDOR, OSFI continues to consider CDOR transition efforts and project delivery within its supervisory risk assessments and will take supervisory actions, as appropriate, based on its evaluation of transition preparedness.
+
+If you have any questions, please contact [Adam Dolson](mailto:Adam.Dolson@osfi-bsif.gc.ca), Director, Capital and Liquidity Standards Division, Risk Advisory Hub.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-10-24

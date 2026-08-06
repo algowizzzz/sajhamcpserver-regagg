@@ -1,0 +1,25 @@
+{
+  "doc_id": "88eb9e5fa4d3466e",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Instructions\u2013 Rapport de l\u2019actuaire d\u00e9sign\u00e9 (assureur hypoth\u00e9caire) \u2013 Tableaux suppl\u00e9mentaires | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/instructions-rapport-lactuaire-designe-assureur-hypothecaire-tableaux-supplementaires",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:282b9469e56c41e078bd93e0969af7e862f79892111e8b28c58ffdbfb415c8bd",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/88eb9e5fa4d3466e",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

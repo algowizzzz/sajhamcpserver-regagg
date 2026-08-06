@@ -1,0 +1,1 @@
+Summary: # Remarks from Sarah Paquet, Director and Chief Executive Officer, Financial Transactions and Reports Analysis Centre of Canada at the ACAMS 9th Annual AML and Anti-Financial Crime Conference

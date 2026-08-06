@@ -1,0 +1,1 @@
+Summary: # Guide de présentation des demandes en vertu de l’article 2 du Règlement sur les activités en matière de technologie de l’information

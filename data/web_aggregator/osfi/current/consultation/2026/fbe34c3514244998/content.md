@@ -1,0 +1,60 @@
+# 2020-21 Financial Institutions Survey (FIS)
+
+## Executive Summary
+
+The Office of the Superintendent of Financial Institutions (OSFI) is the primary regulator and supervisor of federally regulated financial institutions and federally administered pension plans in Canada. To assist OSFI in assessing how well it is achieving its mandate, since 2010 OSFI has been undertaking a high-level, biennial survey targeted at CEOs in all federally regulated financial institutions, including banks and other deposit-taking institutions (DTIs), as well as life and property and casualty insurance companies. The survey provides OSFI with an assessment of its performance and insights into the key drivers of satisfaction. In 2021, the survey also included questions to assess perceptions of OSFI's performance with respect to its response to the challenges posed by the pandemic. The last FIS was conducted in 2018.
+
+The results of the survey provide valuable guidance to OSFI on its overall performance and in specific areas of its mandate, identifying areas of strength for OSFI – where it's viewed as performing well – as well as opportunities for improvements with respect to recommendations, activities, communications and processes.
+
+## Methodology
+
+The survey, which was conducted in both official languages, was made available to all eligible respondents through a link embedded in a bilingual e-mail invitation which was sent by TSC. The list of CEO-level contacts for 245 federal regulated financial institutions was provided by OSFI.
+
+A total of 109 completed surveys (n=66 insurance companies; n=43 DTIs) were received during the period in which the survey was in field, from March 29 to April 27, 2021, representing an overall response rate of 45%. Since the entire population or universe of the target audience was invited to participate in this survey, no margin of sampling error has been estimated or reported.
+
+## Key Findings
+
+### Following a dip in satisfaction in the previous wave (2018), overall satisfaction with OSFI has increased.
+
+* While those reporting being 'very satisfied' increased, the main driver of the overall improvement in satisfaction is an 8-point increase in those now offering a rating of 'somewhat satisfied.'
+* Notably, satisfaction levels have improved among both DTIs and insurance companies since 2018 (by 16 points and 12 points, respectively). A much larger proportion of DTIs, however, offer a rating of 'very satisfied' compared to insurance companies.
+* OSFI's performance ratings in terms of its proactivity in responding to emerging issues and focus on appropriate areas of risk remain strong. In the case of the former, there has been an improvement since 2018. At the same time, insurance companies tend to rate OSFI lower on both of these measures, but particularly the latter.
+* Cyber risk and IT security continue to be a priority for DTIs in particular. Insurance companies are equally likely to cite this issue and environmental risks/natural disasters as risk areas they feel should be a priority for OSFI in the next few years.
+
+### The vast majority of DTIs and insurance companies are aware of the measures OSFI put in place in order to provide guidance and support to regulated entities following the onset of COVID-19.
+
+* There is also a high level of agreement among both DTIs and insurance companies that OSFI's response was timely, that it put in place the right measures and that its expectations of institutions regarding measures to address COVID-19 circumstances were clear. Agreement is, however, somewhat lower among insurance companies, compared to DTIs, on the last two of these three items.
+* DTIs were more likely to have attended the technical briefings on COVID-19 related regulatory measures offered by OSFI, although there was a high level of agreement among all those who attended that they were timely, comprehensive and useful.
+* Similarly, DTIs were more likely to have consulted OSFI's series of FAQs related to measures taken as a result of the pandemic. And, while most of those who did consult these measures found them timely, useful and comprehensive, insurance companies offered lower ratings compared to DTIs on the last two attributes.
+
+### As was the case in 2018, results pertaining to OSFI's guidance were mixed. While generally positive, the trend lines show that some measures have improved, some have remained stable, while a few have declined.
+
+* While OSFI is viewed as effective in providing a clear indication of its expectations, ratings are much lower for: The extent to which it considers the nature, size and complexity of financial institutions; Developing guidance that strikes an appropriate balance between prudential considerations and the need for institutions to compete (although this has improved since 2018); and Responding in a timely manner to market developments or to industry suggestions that guidance needs updating (and this has continued to decline over the last two waves, since 2016).
+* In general, results for insurance companies are lower on most of the guidance metrics, compared to DTIs. Moreover, the gap between the two groups has widened considerably in some areas, most notably on: Performance ratings on guidance that strikes an appropriate balance (a 31-point gap between DTIs and insurance companies); and Responding in a timely manner (a 32-point gap).
+
+### Overall satisfaction with OSFI in processing regulatory approval applications has increased slightly.
+
+* As with other results, however, insurance companies expressed lower levels of satisfaction which were mostly unchanged from 2018. By contrast, satisfaction improved among DTIs.
+* While most stakeholders understand the basis on which OSFI makes decisions about their application, DTIs are much more likely to indicate this is the case relative to insurance companies (a 25-point spread between the two groups).
+
+### OSFI received high ratings for its effectiveness in supervising institutions from both DTIs and insurance companies under normal and COVID-19 circumstances.
+
+* Ratings in all three areas – providing an opportunity for the institution to discuss issues of concern, the clarity of OSFI's written correspondence, and the consistency between OSFI's written and oral communications – have improved slightly among insurance companies while they have remained stable, relative to 2018, among DTIs.
+* In 2018, positive views of OSFI's performance in terms of scaling its supervisory activities to reflect the nature, size, complexity and risk profile of the institution continued an upward trend. In 2021, this metric has fallen off only slightly (from 80% saying 'good/very good' to 77%) among small and mid-sized institutions.
+
+### Stakeholders remain highly satisfied with OSFI's capacity to interact in the official language of their choice.
+
+* Satisfaction on this metric has been virtually unanimous since 2012 among both DTIs and insurance companies and there is little change in 2021 from the previous wave.
+
+The results of the research provide the data needed to meet OSFI's performance reporting commitments and enable OSFI to identify areas for improvement.
+
+The final report is available on the Library and Archives Canada [website](https://epe.lac-bac.gc.ca/100/200/301/pwgsc-tpsgc/por-ef/office_superintendent_financial/2021/091-20-e/index.html).
+
+## Related links
+
+* [Overview](/en/consultations/consultation-summaries/overview-2021-financial-institutions-survey-findings "Overview of the 2021 Financial Institutions Survey Findings")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2021-10-27

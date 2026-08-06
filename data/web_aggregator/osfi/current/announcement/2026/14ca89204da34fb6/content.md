@@ -1,0 +1,106 @@
+# Quarterly intraday liquidity stress testing return instructions
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Intraday liquidity
+
+Last updated
+
+September 4, 2025
+
+Return number
+
+OSFI1020-BSIF1020
+
+Table of contents
+
+## Return files
+
+[OSFI1020-BSIF1020 - Quarterly Intraday Liquidity Stress Testing Return (XLSX, 53.5 KB)](/sites/default/files/documents/OSFI1020-BSIF1020-intraday-liquidites-intrajournalieres-rtn-en.xlsx "OSFI1020-BSIF1020-intraday-liquidites-intrajournalieres-rtn-en.xlsx")
+
+## Purpose
+
+This return provides intraday liquidity stress testing results for reporting institutions.
+
+## Statutory
+
+Section 628 and Section 950 of the Bank Act (banks and bank holding companies, respectively), Section 495 of the Trust and Loan Companies Act and Section 431 of the Cooperative Credit Associations Act.
+
+## Application
+
+This return applies to all deposit-taking institutions, except foreign bank branches, that are direct participants in the Lynx large value payment system.
+
+## Frequency
+
+Quarterly
+
+## Contact person
+
+For business and/or interpretation questions, contact Neil Colligan ([neil.colligan@osfi-bsif.gc.ca](mailto:neil.colligan@osfi-bsif.gc.ca)) or Adam Dolson ([adam.dolson@osfi-bsif.gc.ca](mailto:adam.dolson@osfi-bsif.gc.ca)), Banking Capital and Liquidity Standards Division. For all technical questions, contact Returns Admin ([RA-RRS.Support@osfi-bsif.gc.ca](mailto:RA-RRS.Support@osfi-bsif.gc.ca)).
+
+## Reporting dates
+
+The return must be filed within 14 calendar days of the institution's fiscal quarter end.
+
+## Where to submit
+
+Submit the completed return to OSFI via the Regulatory Reporting System Secure Site.
+
+## Data input format
+
+Only shaded cells with (\*) should be completed. Leave cells blank where data is unavailable and/or missing.
+
+## General instructions
+
+Institutions should complete the quarterly intraday liquidity stress testing return using the methodologies and calculations detailed in Chapter 7 of OSFI's Liquidity Adequacy Requirements (LAR) Guideline.
+
+Institutions should run the four stress testing scenarios described in LAR Chapter 7, section 7.3 for each business day in the quarter and should not include the impact of management actions (e.g., payment throttling).
+
+The [Quarterly intraday liquidity stress testing mapping file (XLSX, 97.0 KB)](/sites/default/files/documents/OSFI1020-BSIF1020-intraday-liquidites-intrajournalieres-map-en.xlsx "OSFI1020-BSIF1020-intraday-liquidites-intrajournalieres-map-en.xlsx") maps each of the cells to be completed in the flat return file to easier-to-read tables for each section. This file is for reference only and is not to be submitted by institutions.
+
+Specific instructions for each section, as well as references to the relevant parts of LAR Chapter 7, are in the table below:
+
+### Section 1 - Direct Participants
+
+Data should be reported in CAD thousands for Lynx and USD thousands for Fedwire.
+
+Unless otherwise instructed by OSFI, institutions should only report the Fedwire fields for the consolidated parent entity (i.e., including branch(es) operating in the US on a consolidated basis) and do not have to include, or report separately for, US subsidiaries with Fedwire accounts.
+
+Section 1 - Direct Participants
+
+|  |  |  |
+| --- | --- | --- |
+| Daily intraday liquidity usage under stress | For each of the four scenarios, institutions should determine the three dates with the lowest minimum net cumulative position under stress for the reporting quarter (the "anchor dates"). Note that the anchor dates may be different for the Lynx and Fedwire accounts.  Institutions should then report the stressed and actual minimum net cumulative positions for each of these dates (Min, 2nd Min and 3rd Min) for both Lynx and Fedwire.  The minimum net cumulative position (under stress and actual) should exclude any transactions with the central bank (such as the central bank opening balance payment).  The minimum net cumulative position (under stress and actual) should be reported as a negative number. If the actual or stressed net cumulative position never goes below zero for the day the minimum net cumulative position should be reported as zero. | LAR Chapter 7, 7.3 Intraday liquidity stress scenarios  LAR Chapter 7, 7.2. A(i). Monitoring tools applicable to all reporting institutions  BCBS 248 |
+| Available intraday liquidity at the start of the business day | Institutions should report the value of intraday liquidity available at the start of each of the three anchor dates for Lynx and Fedwire under each of the four stress scenarios described in Section 7.3 of LAR Chapter 7. The report should be broken down by liquidity sources available to the institution.  The value of loans or securities should be post any applicable haircut.  For Lynx, institutions should report both the total unencumbered liquid assets available on the bank's balance sheet (line 4) and the subset of those that the bank can access and liquidate early in the day (line 4a).  For Fedwire, institutions should only report unencumbered liquid assets the institution can access and liquidate in early hours of the day (line 4).  For Lynx:  Unencumbered liquid assets available on the bank's balance sheet (line 4) is subject to the Bank of Canada's 20% cap on non-mortgage loans. Other (line 7) may include the value of the non-mortgage loan portfolio in excess of the 20% cap. | LAR Chapter 7, 7.3 Intraday liquidity stress scenarios  LAR Chapter 7, 7.2. A(ii). Monitoring tools applicable to all reporting institutions  LAR Chapter 7, 7.1.B provides more detail on sources of available liquidity to include BCBS 248 |
+
+### Section 2 - Correspondent Bank Use (USD, EUR, GBP, Others if applicable)
+
+Data should be reported in thousands of the relevant currency for each correspondent bank.
+
+Institutions should report data separately for each correspondent bank.
+
+The return template only includes rows for one correspondent bank in each currency. If an institution uses more than one correspondent bank in any currency, the relevant rows should be duplicated at the bottom of the flat return template when filing the return.
+
+Unless otherwise instructed by OSFI, institutions should only report the correspondent bank fields for the consolidated parent entity (i.e., including foreign branch(es) on a consolidated basis) and do not have to include, or report separately for, correspondent bank use of foreign subsidiaries (see LAR Chapter 7, Scope of Application 7.4(iv)).
+
+Section 2 - Correspondent Bank Use (USD, EUR, GBP, Others if applicable)
+
+|  |  |  |
+| --- | --- | --- |
+| Daily intraday liquidity usage under stress | For each of the four scenarios, institutions should determine the three dates with the lowest minimum net cumulative position under stress for the reporting quarter (the "anchor dates"). Note that the anchor dates may be different for each correspondent bank.  Institutions should then report the stressed and actual minimum net cumulative positions for each of these dates (Min, 2nd Min and 3rd Min) for each of correspondent bank.  The minimum net cumulative position (under stress and actual) should exclude any transactions with the central bank.  The minimum net cumulative position should be reported as a negative number. If the net position never goes below zero for the day the minimum net cumulative position should be reported as zero. | LAR Chapter 7, 7.3 Intraday liquidity stress scenarios  LAR Chapter 7, 7.2. A(i). Monitoring tools applicable to all reporting institutions  BCBS 248 |
+| Available intraday liquidity at the start of the business day | Institutions should report the value of intraday liquidity available at the start of each of the three anchor dates for each correspondent bank under each of the four stress scenarios described in Section 7.3 of LAR Chapter 7. The report should be broken down by liquidity sources available to the institution.  The value of loans or securities should be post any applicable haircut.  Unencumbered liquid assets available on the bank's balance sheet (line 4) should only include any assets the institution can access and liquidate in early hours of the day. | LAR Chapter 7, 7.3 Intraday liquidity stress scenarios  LAR Chapter 7, 7.2. A(ii). Monitoring tools applicable to all reporting institutions  LAR Chapter 7, 7.1.B provides more detail on sources of available liquidity to include BCBS 248 |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-09-04

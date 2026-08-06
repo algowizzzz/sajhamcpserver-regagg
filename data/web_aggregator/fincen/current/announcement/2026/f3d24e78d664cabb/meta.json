@@ -1,0 +1,24 @@
+{
+  "doc_id": "f3d24e78d664cabb",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Anti-Money Laundering Programs for Dealers in Silver | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/anti-money-laundering-programs-dealers-silver",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:403e442fceb1030acdf07e270d2208287e1d0935dfe1a0a8b6df543f75734c45",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/f3d24e78d664cabb",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

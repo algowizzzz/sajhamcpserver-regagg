@@ -1,0 +1,20 @@
+Page Content
+
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its report "Understanding Cyber Insurance - A Structured Dialogue with Insurance Companies".
+
+Cyber risk is a growing concern for in­stitutions, individuals, and financial mar­kets. In less than five years, it has surged to the top positions in the list of global risks for business. The increasing number of cyber incidents, the continued digital transfor­mation and new regulatory initiatives in the European Union are expected to raise awareness and to boost the demand for cyber insurance.
+
+With the stand-alone cyber insurance market located predominately in the United States and only a fraction of the total market in Eu­rope, available reports and surveys focus on the global or the US insurance market. So far, very little attention has been paid to the European market. One of the key findings of the report confirms this fact, namely the need for a deeper under­standing of cyber risk, which is a core chal­lenge for the European insurance industry. This challenge generates or fosters other challenges, such as improper treatment of non-affirmative risks and difficulties to quantify risks, among others.
+
+The outcome of this structured dialogue with the industry provides useful insights on the functioning, growth potential, challenges and risks of cyber insurance in Europe in the context of the expected growing importance of cyber insurance in the portfolios of (re)insurers. Although based on a limited sample, the report addresses important key findings, such as the clear need for improved understanding of cyber risk. This report is the first attempt by EIOPA to enhance the level of understanding of cyber risk underwriting with a focus on the European insurance market. Further work in this field is necessary. Therefore, EIOPA included a combination of qualitative and quantitative questions on cyber risk in its 2018 Insurance Stress Test.
+
+**Background**
+
+This report is based on a survey with responses to a set of 14 qualitative questions answered by 13 (re)insurance groups located in Switzerland, France, Italy, Germany and the United Kingdom. The sample of eight insurers and five reinsurers was selected according to the expertise and current exposures in cyber insurance. The survey was conducted through three-party telephone interviews (EIOPA, national supervisory authorities and participating (re) insurance group).
+
+Publication date
+:   2 August 2018
+
+## Related links
+
+[Understanding Cyber Insurance - Report](/document/download/7cec5eef-4b6d-4cd7-ad0f-b4add0a3fe17_en?filename=Understanding%20Cyber%20Insurance%20-%20Report.pdf)

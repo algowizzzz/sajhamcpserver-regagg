@@ -1,0 +1,1 @@
+Summary: # Draft Internal Liquidity Adequacy Assessment Process Guideline (2027) – Letter

@@ -1,0 +1,55 @@
+# Notre cadre de responsabilisation
+
+Le Bureau de l’actuaire en chef (BAC) a été fondé pour offrir des services actuariels spécialisés et autres au gouvernement du Canada et aux gouvernements provinciaux qui souscrivent au Régime de pensions du Canada. Comme nous ne relevons pas des ministères qui font appel à nos services, nous pouvons être impartiaux et indépendants dans l’exercice de notre mandat.
+
+## Responsabilisation des plans et des programmes
+
+Nous suivons les exigences définies dans les régimes et les lois auxquels nous sommes assujettis.
+
+### Régime de pensions du Canada
+
+Nous sommes tenus de procéder à un examen actuariel du Régime de pensions du Canada tous les 3 ans. Nous procédons à des examens supplémentaires du régime chaque fois qu’un projet de loi susceptible d’avoir des répercussions importantes sur la situation financière du celui-ci est présenté au Parlement. Ces rapports actuariels supplémentaires examinent l’incidence de tout changement par comparaison au rapport régulier le plus récent.
+
+### Régimes de retraite publics
+
+Selon la *Loi sur les rapports relatifs aux pensions publiques*, nous devons faire tous les 3 ans une évaluation actuarielle des régimes de retraite établis en vertu des lois suivantes :
+
+* *Loi sur la pension de retraite des Forces canadiennes*
+* *Loi sur les allocations de retraite des parlementaires*
+* *Loi sur la pension de la fonction publique*
+* *Loi sur la pension de retraite de la Gendarmerie royale du Canada*
+* *Loi sur les juges*
+* *Loi sur la sécurité de la vieillesse*
+
+### Aide financière aux étudiants
+
+La *Loi fédérale sur l’aide financière aux étudiant*s nous oblige à préparer tous les 3 ans un rapport sur l’aide financière offerte en vertu de cette loi. Ce rapport comprend :
+
+* des prévisions sur les coûts et les revenus du programme pour les 25 prochaines années;
+* une évaluation des coûts financiers globaux du programme.
+
+### Assurance-emploi
+
+En vertu de la *Loi sur l’assurance-emploi* et de la *Loi sur le ministère de l’Emploi et du Développement social*, nous formulons tous les ans des prévisions et des estimations actuarielles nécessaires à l’établissement du taux de cotisation de l’assurance-emploi.
+
+## Examens externes par les pairs
+
+Dans le cadre de notre politique de prestation de conseils actuariels judicieux et pertinents aux parlementaires et à la population canadienne, nous commandons un examen externe par les pairs de nos rapports actuariels sur le Régime de pensions du Canada. Cette procédure de vérification est en place depuis 1999. Elle a donné lieu à de nombreuses recommandations précieuses qui nous ont permis d’améliorer la qualité de nos rapports actuariels.
+
+En savoir plus sur [les examens indépendants par les pairs](/fr/bac/examens-independants-pairs "Examens indépendants par les pairs").
+
+## Audits des passifs du gouvernement
+
+Le vérificateur général utilise notre travail actuariel pour faire l’audit des passifs du gouvernement du Canada, c’est-à-dire :
+
+* les régimes de retraite;
+* les indemnités de départ;
+* les prêts étudiants;
+* les prestations de soins de santé et de soins dentaires après la retraite;
+* les indemnités pour accident du travail;
+* les avantages sociaux futurs des anciens combattants.
+
+Date de modification :
+:   2024-01-18
+
+Signaler un problème ou une erreur sur cette page

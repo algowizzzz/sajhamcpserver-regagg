@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Fee Schedule by Removing the Note Appended to the Member Quoting Tier and MPID Quoting Tier

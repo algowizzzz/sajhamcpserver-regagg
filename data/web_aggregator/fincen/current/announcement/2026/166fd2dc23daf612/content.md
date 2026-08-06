@@ -1,0 +1,33 @@
+# State Agency Case Example (Money Services)
+
+[Issue22-story10.pdf](/system/files/case_example/Issue22-story10.pdf "Issue22-story10.pdf")
+(20.45 KB)
+
+In early 2012, FinCEN conducted outreach to all of its state and local law enforcement partners, and asked for cases where FinCEN data played a useful role in their investigations. Below, in their own words, is an example of how FinCEN's stakeholders use FinCEN data. It has been edited only for confidentiality and privacy concerns.The following example is from a state agency case. FinCEN maintains Memoranda of Understanding with some state agencies that have criminal investigative authority in matters such as taxes, revenues, and gambling. Typically, these agencies requested FinCEN data so frequently that they tended to overburden the state coordinators. Based on the agencies' mission and use of the data, FinCEN provides access to ensure that BSA material is used to its fullest extent.
+
+*"Our money service business squad considers the FinCEN intelligence as invaluable to their work. Without it, there would be no MSB investigations. The vital reason for using the FinCEN intelligence is that it identifies some of the filers as known criminals, which in turn incriminates the money service businesses that they are utilizing. The financial analysis on FinCEN also corroborated the days of the week when the criminal activity occurs most frequently."*
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* 22, October 2012]
+
+Tags
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

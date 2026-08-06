@@ -1,0 +1,15 @@
+{
+  "run_id": "2026-08-02_eiopa_live",
+  "regulator_id": "eiopa",
+  "logical_date": "2026-08-02",
+  "trigger": "schedule",
+  "detected": 0,
+  "fetched": 0,
+  "ingested": 0,
+  "archived": 0,
+  "errors": 0,
+  "status": "success_empty",
+  "error_list": [],
+  "detected_urls": [],
+  "duration_s": 1.836
+}

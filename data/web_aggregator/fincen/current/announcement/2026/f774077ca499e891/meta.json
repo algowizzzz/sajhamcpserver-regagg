@@ -1,0 +1,24 @@
+{
+  "doc_id": "f774077ca499e891",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FinCEN Year In Review | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/about-fincen/fincen-year-review",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2fd7f8c1867105591384c2857b4dfb6b3ec0c4b7ce532ece1fde4f7e1de9adaa",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/f774077ca499e891",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "5066e3978684b4d0",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FinCEN Advisory \u2013 FIN-2012-A011 | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2012-a011",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:86aeb8ae93c180d889a7e4b36f711b113af209c1f39f3f7e56d631531bf4d9b3",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/5066e3978684b4d0",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

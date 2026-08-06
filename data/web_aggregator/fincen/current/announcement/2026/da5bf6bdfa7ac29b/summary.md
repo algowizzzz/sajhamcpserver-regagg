@@ -1,0 +1,1 @@
+Summary: # FinCEN Issues Ruling (FIN-2008-R003) on Whether a Person That is Engaged in the Business of Foreign Exchange Risk Management is a Currency Dealer or Exchanger or Money Transmitter

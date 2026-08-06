@@ -1,0 +1,47 @@
+# Bogus Life Insurance Investment Vehicles Identified through SAR Filing
+
+[Issue15-story5.pdf](/system/files/case_example/Issue15-story5.pdf "Issue15-story5.pdf")
+(9.58 KB)
+
+The defendants in this case first settled a civil suit with the government concerning the sale of $7 million worth of fraudulent “prime-bank” note investments to investors nationwide. In the scheme, investigators found that less than half the money was used to pay fictitious investment returns to existing investors. The rest was used by the perpetrators of the fraud for personal expenditures.
+
+The defendants then orchestrated a Ponzi scheme in which they solicited more than $60 million from dozens of investors, according to court documents. The pair told investors that their money would be used to purchase pools of life insurance policies on behalf of an organization. In return, a small portion of the death benefit would go to the family of the insured, but the majority of the money would be paid back to the defendants’ company. Investors were promised they would receive a high annual return and were told their “risk-free” investments would eventually yield a five-to-one return.
+
+Prosecutors charged that only a fraction of the funds were used to purchase two pools of life insurance policies, and that approximately $60 million was used by the defendants to further their lavish lifestyles, including the purchase of houses, cars, boats, and jewelry. One defendant also transferred approximately $10 million in investor funds to an unrelated business venture.
+
+The investigation into the Ponzi scheme started with a SAR filed by a depository institution. The SAR narrative described how, during routine due diligence in the wake of the press reports concerning the original government action on the prime bank guarantees, the filing institution realized that the defendants had a number of accounts at the institution. One account had more than $15 million in unusual transactions credited to it in a three-month period.
+
+An agent investigating the case noted that the SAR proved “absolutely crucial” to the success of the case. Because of the filing, law enforcement was able to unravel the scheme quickly. In less than a year, and from a reported $1 million in losses, agents uncovered more than $60 million in fraudulent transactions resulting in the indictment and arrests of the subjects. Moreover, additional BSA filings on the subjects helped agents find assets that were seized for restitution.
+
+---
+
+[Published in The SAR Activity Review - Trends, Tips & Issues, Issue 15, May 2009]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Schemes and Scams
+
+Depository Institutions
+
+Insurance Companies
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

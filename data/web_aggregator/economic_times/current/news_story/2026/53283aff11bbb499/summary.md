@@ -1,0 +1,1 @@
+Summary: # D-St set for a cautious opening as GIFT Nifty signals muted start

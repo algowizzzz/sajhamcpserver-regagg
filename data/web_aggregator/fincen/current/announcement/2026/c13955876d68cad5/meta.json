@@ -1,0 +1,24 @@
+{
+  "doc_id": "c13955876d68cad5",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "314(a) Results Greatly Enhance Case Involving Material Support to Terrorism | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/314a-results-greatly-enhance-case-involving-material",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:73b13d91743c0749e129b1c7a603f77e5655835d79ec0fe8f398d9538f496f59",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/c13955876d68cad5",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

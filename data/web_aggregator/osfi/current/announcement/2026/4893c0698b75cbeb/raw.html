@@ -1,0 +1,2194 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en" dir="ltr" class="no-js"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" dir="ltr" class="no-js">
+<!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="Note OSFI cannot redistribute the concordance tables provided by Statistics Canada. To purchase a copy of the concordance tables for the new NAICS codes, please consult Stats Canada&#039;s website. Online requests can also be made directly at infostats@statcan.gc.ca" />
+<link rel="canonical" href="https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/technical-specification-rapid1" />
+<meta name="generator" content="OSFI_BSIF_WCMS" />
+<meta name="dcterms.title" content="Standardized Institutions Risk Asset Portfolio Information (RAPID1)" />
+<meta name="dcterms.creator" content="Office of the Superintendent of Financial Institutions" />
+<meta name="dcterms.description" content="Note OSFI cannot redistribute the concordance tables provided by Statistics Canada. To purchase a copy of the concordance tables for the new NAICS codes, please consult Stats Canada&#039;s website. Online requests can also be made directly at infostats@statcan.gc.ca" />
+<meta name="dcterms.language" content="eng" title="ISO639-2/T" />
+<meta name="dcterms.issued" content="2023-07-31" title="W3CDTF" />
+<meta name="dcterms.modified" content="2025-05-08" title="W3CDTF" />
+<meta name="dcterms.accessRights" content="2" />
+<meta name="dcterms.service" content="OSFI-BSIF_BSIF-OSFI" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<noscript><link rel="stylesheet" href="/libraries/wet-boew/css/noscript.min.css" />
+</noscript><script src="//assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-f7c3e6060667.min.js" type="text/javascript" async></script>
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<style media="all and (max-width: 767px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_xs/public/2023-06/Data-Forms_Bannerop.jpg?itok=TK7chxB5') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 768px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_sm/public/2023-06/Data-Forms_Bannerop.jpg?itok=w5bU0jh7') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 992px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_md/public/2023-06/Data-Forms_Bannerop.jpg?itok=tXTRo7Nu') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 1200px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_lg/public/2023-06/Data-Forms_Bannerop.jpg?itok=P120HHfB') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<link rel="icon" href="/themes/custom/osfi_wxt/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/technical-specification-rapid1" />
+<link rel="alternate" hreflang="fr" href="https://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/specifications-techniques-rapid1" />
+
+    <title>Standardized Institutions Risk Asset Portfolio Information (RAPID1) - Office of the Superintendent of Financial Institutions</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_HrK5WvsUedegQjg-kio7gXkB8NcOKQKkFsNaR_HB2Io.css?delta=0&amp;language=en&amp;theme=osfi_wxt&amp;include=eJx1UAFuwyAM_BCFJyEDDvECGGGnaX8_lnVapWwSYHN3ts6GphRYHXxHu_CoJkDcvPI83b3lniI3EzdMpDw8tYRNQ-G4ubfc1MmDW6goDhuhK80qloX88VA3743vOAYlFNNhQB7QV3Fp7B2K_UXs3voeCsmKychTFOt0I2juhIe487WV017QHBi-nLtXtPABjwsYuXYW0qscC9bp3yZUoCJWOec_uv7IKopA_p_nc2a58OdyXx8fmFV0TuouiJlL8oXCgPF0us6mtxyn6hNliKiN" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css__2dOEwOCqcIpvSQ2Lm6TZtfrq1jws1EjKBOGO3ZrvNk.css?delta=1&amp;language=en&amp;theme=osfi_wxt&amp;include=eJx1UAFuwyAM_BCFJyEDDvECGGGnaX8_lnVapWwSYHN3ts6GphRYHXxHu_CoJkDcvPI83b3lniI3EzdMpDw8tYRNQ-G4ubfc1MmDW6goDhuhK80qloX88VA3743vOAYlFNNhQB7QV3Fp7B2K_UXs3voeCsmKychTFOt0I2juhIe487WV017QHBi-nLtXtPABjwsYuXYW0qscC9bp3yZUoCJWOec_uv7IKopA_p_nc2a58OdyXx8fmFV0TuouiJlL8oXCgPF0us6mtxyn6hNliKiN" />
+
+    <script src="/modules/contrib/adobe_launch/js/adobe_launch_dtm_init.js?til2gg"></script>
+
+  </head>
+  <body class="lang-en node-1197 path-node page-node-type-data-and-forms has-glyphicons osfi-wxt theme-gcweb">
+    <nav>
+      <ul id="wb-tphp">
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-cont">
+            Skip to main content
+          </a>
+        </li>
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-info">
+            Skip to "About this site"
+          </a>
+        </li>
+      </ul>
+    </nav>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    <header class="navbar navbar-default" id="navbar">
+    <div id="wb-bnr" class="container-fluid padded-sm">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <img class="canada-signature" src="/libraries/theme-gcweb/assets/sig-blk-en.svg" alt="Government of Canada" height="30">
+        </div>
+        <div class="col-xs-12 col-sm-6 text-right">
+            <div class="region region-topbar">
+    
+<section id="block-osfi-wxt-customsearchblock" class="wb-srch block block-ngage-search block-ngage-search-block clearfix" data-block-plugin-id="ngage_search_block">
+  
+      <h2 class="wb-inv">Search</h2>
+    
+
+      <form action="/en/node/648" method="get" class="search-form form-inline" role="search">
+  <div class="form-item form-group">
+    <label for="wb-srch-q" class="sr-only">Enter your keywords</label>
+    <input type="search" placeholder="Search website" name="search-keys" id="wb-srch-q" class="search-input form-control" />
+  </div>
+  <button id="wb-srch-sub"><span class="sr-only">submit</span></button>
+</form>
+  </section>
+<section class="language-switcher-language-url wb-lng block block-wxt-library block-wxt-language-blocklanguage-interface clearfix" id="block-osfi-wxt-languageswitcher" data-block-plugin-id="wxt_language_block:language_interface">
+  
+      <h2 class="wb-inv">Language selection</h2>
+    
+
+      <ul class="links list-inline mrgn-bttm-0">                    <li><a href="/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/specifications-techniques-rapid1" class="language-link" lang="fr" hreflang="fr" data-drupal-link-system-path="node/1197"><span class="hidden-xs">Français</span><abbr title="Français" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">fr</abbr></a></li></ul>
+  </section>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+      <div class="region region-branding container-fluid">
+    <div class="row wb-eqht-grd grow">
+        <a class="main-site col-xs-12 col-sm-8 col-md-9 no-padding-x" href="/en" title="Home" rel="home">
+    <span class="logo col-sm-2 padded-sm hght-inhrt">
+      <img src="/themes/custom/osfi_wxt/logo.svg" alt="Home" />
+    </span>
+    <span class="name navbar-text padded-sm hght-inhrt col-sm-10">Office of the Superintendent of Financial Institutions</span>
+  </a>
+  <a class="cross-site-link navbar-btn col-sm-4 col-md-3 padded-sm hidden-xs" href="/en/oca" title="Office of the Chief Actuary">Office of the Chief Actuary</a>
+  
+    </div>
+  </div>
+
+
+    <div class="clearfix navbar-header visible-xs">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse">
+        Menu
+        <span class="icon-wrapper">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </span>
+      </button>
+    </div>
+    <div class="clearfix navbar-collapse collapse" id="navbar-collapse">
+        <nav aria-labelledby="block-osfi-wxt-main-menumainmenu" id="block-osfi-wxt-main-menu" data-block-plugin-id="system_menu_block:main">
+            <h2 class="sr-only hidden" id="block-osfi-wxt-main-menumainmenu">Main navigation</h2>
+
+      
+              <ul role="menu" class="nav navbar-nav">
+                            
+              <li role="presentation">
+        <a href="/en/risks" role="menuitem" title="Risks" data-drupal-link-system-path="node/750">Risks</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/guidance" role="menuitem" title="Guidance" data-drupal-link-system-path="node/379">Guidance</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/supervision" role="menuitem" title="Supervision" data-drupal-link-system-path="node/217">Supervision</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/consultations" role="menuitem" title="Consultations" data-drupal-link-system-path="node/223">Consultations</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/data-forms" role="menuitem" title="Data and forms" data-drupal-link-system-path="node/752">Data and forms</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/careers" role="menuitem" title="Careers" data-drupal-link-system-path="node/209">Careers</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      <a class="cross-site-link navbar-btn padded-sm visible-xs" href="/en/oca" title="Office of the Chief Actuary">Office of the Chief Actuary</a>
+    </div>
+  </header>
+
+  <div class="region region-banner clearfix">
+    
+<div class="views-element-container block block-views block-views-blocksite-section-block-1 clearfix" id="block-views-block-site-section-block-1" data-block-plugin-id="views_block:site_section-block_1">
+  
+    
+
+      <div class="form-group"><div class="bg-img parallax view view-site-section view-id-site_section view-display-id-block_1 js-view-dom-id-b74ecdda7332c464fcad38982b2122478e23087c57472d4c234e15463a5e3d9c" id="site_section-block_1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="site-section banner vertical-padding">
+    <div class="container">
+        <div class="row">
+            
+              <div class="col-xs-12">
+                <p class="h1">Data and forms</p>
+              </div>
+            
+            
+            <div class="field field--name-field-image field--type-image field--label-hidden field--item"></div>
+      
+        </div>
+    </div>
+</div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+        <div class="region region-breadcrumb">
+            <nav id="wb-bc" property="breadcrumb" aria-labelledby="breadcrumbTitle">
+      <h2 id="breadcrumbTitle">You are here</h2>
+      <ol class="breadcrumb">
+                              <li >
+                              <a href="/en" title="Home">Home</a>
+                          </li>
+                      <li >
+                              <a href="/en/data-forms" title="Data and forms">Data and forms</a>
+                          </li>
+                      <li >
+                              <a href="/en/data-forms/reporting-returns" title="Reporting and returns">Reporting and returns</a>
+                          </li>
+                      <li >
+                              <a href="/en/data-forms/reporting-returns/filing-financial-returns" title="Filing financial returns">Filing financial returns</a>
+                          </li>
+                      <li >
+                              <a href="/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions" title="Financial reporting instructions">Financial reporting instructions</a>
+                          </li>
+                      <li  class="active">
+                              Standardized Institutions Risk Asset Portfolio Information (RAPID1)
+                          </li>
+                        </ol>
+    </nav>
+  
+
+  </div>
+
+  
+      <div class="highlighted clearfix"></div>
+  
+
+    <main property="mainContentOfPage"  class="full-width js-quickedit-main-content">
+
+                <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>  
+
+
+
+
+  <article class="data-and-forms full clearfix">
+
+        <div class="container">
+      
+      <h1 id="wb-cont" class="text-center clearfix">
+<span>Standardized Institutions Risk Asset Portfolio Information (RAPID1)</span>
+</h1>
+      
+    </div>
+  
+    
+        <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="wb-tabs ignore-session">
+            <div class="tabpanels">
+                      
+<details  id="tab-information">
+  <summary>Information</summary>
+    
+<div  class="info-grid wb-eqht-grd grow clearfix">
+    
+<div  class="col-xs-12 col-sm-8 info-left">
+    
+  <div class="field field--name-field-publication-type field--type-entity-reference field--label-inline">
+    <div class="field--label">Type of document</div>
+              <div class="field--item">Technical specification</div>
+          </div>
+
+  <div class="field field--name-field-industry field--type-entity-reference field--label-inline">
+    <div class="field--label">Industry</div>
+              <div class="field--item">Deposit-taking institutions</div>
+          </div>
+
+  <div class="field field--name-field-return field--type-entity-reference field--label-inline">
+    <div class="field--label">Return</div>
+              <div class="field--item">Standardized Institutions Risk Asset Portfolio Information (RAPID1)</div>
+          </div>
+
+  <div class="field field--name-field-last-updated field--type-string field--label-inline">
+    <div class="field--label">Last updated</div>
+              <div class="field--item">May 2022</div>
+          </div>
+
+      <div class="field field--name-field-custom-fields field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">
+      <div id="paragraph-2245" class="paragraph paragraph--type--custom-fields paragraph--view-mode--default field field--label-inline">
+              <div class="field--label">Version</div>
+        <div class="field--item">4.2</div>
+          </div>
+  
+</div>
+          </div>
+  
+  </div>
+  </div>
+  </details>
+      
+
+  
+          
+      <details id="field-toc" class="toc">
+          <summary>Table of contents</summary>
+
+                  <div class="details-wrapper">
+            <ul class="toc-list"></ul>
+          </div>
+        
+      </details>
+    
+  
+      
+      
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+          <div class="content">
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden container body-wrapper">
+    <div class="row">
+      <div class="col-xs-12"><section class="panel panel-primary">
+<header class="panel-heading">
+<h2 class="panel-title">Note</h2>
+</header>
+
+<div class="panel-body">
+<p>OSFI cannot redistribute the concordance tables provided by Statistics Canada. To purchase a copy of the concordance tables for the new NAICS codes, please consult <a href="https://www.statcan.gc.ca/en/reference/refcentre/index" rel="external">Stats Canada's website</a>. Online requests can also be made directly at <a href="mailto:infostats@statcan.gc.ca">infostats@statcan.gc.ca</a></p>
+</div>
+</section>
+
+<p><strong>For data submissions effective Q1 2022</strong></p>
+
+<section>
+<div class="bg-default padded-sm">
+<h2 class="mrgn-tp-0" id="files">Return files</h2>
+
+<div class="list-group"><a class="list-group-item" data-entity-substitution="file" data-entity-type="file" data-entity-uuid="ac2add48-80ca-4906-bc24-258284813d5a" href="/sites/default/files/documents/rapcorp-rapid1-dd-en.xlsx" title="rapcorp-rapid1-dd-en.xlsx">RAPCORP&nbsp;- Data definitions (XLSX, 240&nbsp;KB)</a> <a class="list-group-item" data-entity-substitution="file" data-entity-type="file" data-entity-uuid="b456a1a3-0392-43fd-a031-71e9b4d0804c" href="/sites/default/files/documents/rapid1-validation-en.xlsx" title="rapid1-validation-en.xlsx">RAPCORP&nbsp;- Validation rules (XLSX, 72.14&nbsp;KB)</a></div>
+</div>
+</section>
+
+<h2>Technical specification</h2>
+
+<h3 id="a1">1. Introduction</h3>
+
+<p>This document describes the layout and format of files to be provided to OSFI to populate the Risk Asset Portfolio Information Database. Data validation rules, errors and warnings are also described.</p>
+
+<h4 id="a1.1">1.1. RAPID documents</h4>
+
+<p>The RAPID Data Field Definitions, Version 3.0 lists the code values and definitions for each field in RAPID. This document also provides examples, and background information about the data collected to populate RAPID.</p>
+
+<p>The RAPID Technical Specification, Version 3.0 identifies the layout and format of files to be provided to OSFI to populate RAPID.</p>
+
+<p>These two documents should be read in conjunction with each other.</p>
+
+<h3 id="a2">2. Extract File Requirements</h3>
+
+<p>The following sections describe the extract file layout for RAPID. Throughout the extract file layout documentation, all primary key fields are printed in bold type and listed in the order in which they appear in the key.</p>
+
+<p>Within the record layout in each section (sections 2.5 to 2.11), the first column refers to the Field ID, which should be used to link to the RAPID Data Field Definitions, Version 2.02 document. The second and third columns refer to start and end positions of that field within the record. The following columns are length of the field, field name, "M" which refers to mandatory field, and finally the "Notes" column provides extra information to assist with the planning of extracts and describes what field format/mask should be used.</p>
+
+<h4 id="a2.1">2.1. File Type and Naming Convention</h4>
+
+<p>Data destined for the RAPID database will be a fixed width text file, 368 bytes per line, and with a Carriage Return (CR) and Line Feed (LF) as record delimiters. Fields which are empty (i.e. have no value) must be indicated by blank spaces if the data type is alphanumeric [PIC(X)] or zeroes if data type is numeric [PIC(9)]. Mandatory fields must be populated as indicated on the RAPID Data Field Definitions, Version 3.0.</p>
+
+<p>The fixed width text file will have the naming convention of FI_RAPCORP_MMYYYY.DAT, where FI represents the Institution ID (provided by OSFI), RAPCORP is a fixed string, MM represents the month and YYYY represents the year of the reporting date of information.</p>
+
+<h4 id="a2.2">2.2. Record Type</h4>
+
+<p>The first field in each row must be the record type or row identifier. Valid values are:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-inv">Descriptions of record types</caption>
+	<thead>
+		<tr>
+			<th scope="col">Record Type</th>
+			<th scope="col">Description</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>00</td>
+			<td>Header Record</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>Common Risk header record</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>Borrower header record</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>Facility detail record</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>Borrower sub-footer record</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>Common Risk sub-footer record</td>
+		</tr>
+		<tr>
+			<td>99</td>
+			<td>Footer record</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4 id="a2.3">2.3. File Structure</h4>
+
+<p>The first row of the extract file must be a Header record ("00") and the last one must be a Footer record ("99"), and they must be the only "00" and "99" records in the file.</p>
+
+<p>Apart from the Header and Footer, all the other (data) records may be in any order. Referential integrity is established by checking for the existence of parent records by using the primary keys (Common Risk ID, Borrower ID and Facility ID).</p>
+
+<p>For example, every Facility record must have a Borrower record and each Borrower record must have a Common Risk record. The order of the records is irrelevant, as long as the logical data hierarchy structure is respected.</p>
+
+<p>Also note that every Common Risk record must have a Common Risk sub-footer. The same applies for Borrower records: every Borrower record needs a Borrower sub-footer record.</p>
+
+<p>OSFI suggests the following file structure:</p>
+
+<figure class="mrgn-bttm-lg">
+<figcaption class="wb-inv">File structure diagram</figcaption>
+
+
+  <div class="img-responsive full-width wxt-media-default">
+    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field--item">  <img loading="lazy" src="/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2022-05/en/rpd_ts_fs.png" width="564" height="323" class="img-responsive" alt="Diagram showing structure of records in a file. Text version follows.">
+
+</div>
+      
+  </div>
+
+<details class="mrgn-tp-sm">
+<summary>File structure - Text version</summary>
+
+<div class="details-wrapper">
+<ul>
+	<li>Header Record ("00")
+	<ul>
+		<li>Common Risk Header Record ("10")
+		<ul>
+			<li>Borrower Header Record ("20")
+			<ul>
+				<li>
+				<p>Facility Record ("30")</p>
+
+				<p>Different facilities within the same borrower record</p>
+				</li>
+			</ul>
+			</li>
+			<li>
+			<p>Borrower Footer Record ("21")</p>
+
+			<p>Repeat the above structure for different borrowers with in the same Common Risk record</p>
+			</li>
+		</ul>
+		</li>
+		<li>
+		<p>Common Risk Footer ("11")</p>
+
+		<p>Repeat the above structure for different Common Risk records</p>
+		</li>
+	</ul>
+	</li>
+	<li>Footer Record ("99")</li>
+</ul>
+</div>
+</details>
+</figure>
+
+<h4 id="a2.4">2.4. Record Field Order</h4>
+
+<p>The order of the fields in a record must be the same as the order they are specified in the following record layouts (sections 2.5 to 2.11). Field values must be formatted as specified in the record layouts.</p>
+
+<h4 id="a2.5">2.5. Header Record (00)</h4>
+
+<p>The Header record is a quality control mechanism that uniquely identifies each file sent to OSFI (i.e. who sent the file, the reporting date, the file name, etc). The information contained in the Header field is checked against the file name and the actual details of the file to ensure that the file received by OSFI has not been corrupted.</p>
+
+<p>The record layout of the Header is detailed below:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-inv">Layout of the header record (00)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Field ID</th>
+			<th scope="col">Start</th>
+			<th scope="col">End</th>
+			<th scope="col">Length</th>
+			<th class="col-md-4" scope="col">Field Name</th>
+			<th scope="col"><abbr title="Mandatory field">M</abbr></th>
+			<th class="col-md-5" scope="col">Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>-</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td><b>Record Type</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Fixed string "00"</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>3</td>
+			<td>6</td>
+			<td>4</td>
+			<td>Institution ID</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>7</td>
+			<td>14</td>
+			<td>8</td>
+			<td>Reporting date of information</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Format: YYYYMMDD</td>
+		</tr>
+		<tr>
+			<td>98</td>
+			<td>15</td>
+			<td>21</td>
+			<td>7</td>
+			<td>File type</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Fixed string "RAPCORP"</td>
+		</tr>
+		<tr>
+			<td>99</td>
+			<td>22</td>
+			<td>27</td>
+			<td>6</td>
+			<td>File layout version</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Fixed string "02.0.0", left justified</td>
+		</tr>
+		<tr>
+			<td>100</td>
+			<td>28</td>
+			<td>28</td>
+			<td>1</td>
+			<td>File processing instruction</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 1 or 2</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>29</td>
+			<td>360</td>
+			<td>332</td>
+			<td>Filler</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Blank spaces</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>361</td>
+			<td>368</td>
+			<td>8</td>
+			<td>Sequential row counter</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>369</td>
+			<td>370</td>
+			<td>2</td>
+			<td>CR&nbsp;+&nbsp;LF</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pix(X)&nbsp;- Hexadecimal: 0D&nbsp;+&nbsp;0A</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4 id="a2.6">2.6. Common Risk Record (10)</h4>
+
+<p>The record layout of the Common Risk is detailed as follows:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-inv">Layout of the common risk record (10)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Field ID</th>
+			<th scope="col">Start</th>
+			<th scope="col">End</th>
+			<th scope="col">Length</th>
+			<th class="col-md-4" scope="col">Field Name</th>
+			<th scope="col"><abbr title="Mandatory field">M</abbr></th>
+			<th class="col-md-5" scope="col">Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>-</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td><b>Record Type</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Fixed string "10"</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>3</td>
+			<td>17</td>
+			<td>15</td>
+			<td><b>Common Risk number</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>18</td>
+			<td>117</td>
+			<td>100</td>
+			<td>Common Risk name</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>118</td>
+			<td>119</td>
+			<td>2</td>
+			<td>Common Risk country code of Incorporation</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pix(X)</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>120</td>
+			<td>360</td>
+			<td>241</td>
+			<td>Filler</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Blank spaces</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>361</td>
+			<td>368</td>
+			<td>8</td>
+			<td>Sequential row counter</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>369</td>
+			<td>370</td>
+			<td>2</td>
+			<td>CR&nbsp;+&nbsp;LF</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pix(X)&nbsp;- Hexadecimal: 0D&nbsp;+&nbsp;0A</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4 id="a2.7">2.7. Borrower Record (20)</h4>
+
+<p>The record layout of the Borrower is detailed below:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-inv">Layout of the borrower record (20)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Field ID</th>
+			<th scope="col">Start</th>
+			<th scope="col">End</th>
+			<th scope="col">Length</th>
+			<th class="col-md-4" scope="col">Field Name</th>
+			<th scope="col"><abbr title="Mandatory field">M</abbr></th>
+			<th class="col-md-5" scope="col">Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>-</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td><b>Record Type</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Fixed string "20"</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>3</td>
+			<td>17</td>
+			<td>15</td>
+			<td><b>Common Risk number</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>18</td>
+			<td>32</td>
+			<td>15</td>
+			<td><b>Borrower number</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>33</td>
+			<td>132</td>
+			<td>100</td>
+			<td>Borrower name</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>133</td>
+			<td>136</td>
+			<td>4</td>
+			<td>Borrower risk rating</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>103</td>
+			<td>137</td>
+			<td>140</td>
+			<td>4</td>
+			<td>NAICS Version</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 2007 version</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>141</td>
+			<td>146</td>
+			<td>6</td>
+			<td>NAICS code</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- All Canadian NAICS codes up to 2017 accepted&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>147</td>
+			<td>148</td>
+			<td>2</td>
+			<td>Borrower country of residence</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>149</td>
+			<td>150</td>
+			<td>2</td>
+			<td>Borrower province/state code</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>151</td>
+			<td>151</td>
+			<td>1</td>
+			<td>Watch list</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 1, 2 or 9</td>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>152</td>
+			<td>166</td>
+			<td>15</td>
+			<td>Allowance for Expected Credit Losses</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>182</td>
+			<td>196</td>
+			<td>15</td>
+			<td>Write-offs</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>32</td>
+			<td>197</td>
+			<td>211</td>
+			<td>15</td>
+			<td>Recoveries</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>109</td>
+			<td>212</td>
+			<td>212</td>
+			<td>1</td>
+			<td>Impairment Status</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 1, 2 or 9</td>
+		</tr>
+		<tr>
+			<td>110</td>
+			<td>213</td>
+			<td>213</td>
+			<td>1</td>
+			<td>IFRS 9 Stage of Exposure</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 1, 2, 3 or 9</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>214</td>
+			<td>360</td>
+			<td>147</td>
+			<td>Filler</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Blank spaces</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>361</td>
+			<td>368</td>
+			<td>8</td>
+			<td>Sequential row counter</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>369</td>
+			<td>370</td>
+			<td>2</td>
+			<td>CR&nbsp;+&nbsp;LF</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pix(X)&nbsp;- Hexadecimal: 0D&nbsp;+&nbsp;0A</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4 id="a2.8">2.8. Facility Record (30)</h4>
+
+<p>The record layout of the Facility is detailed below:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-inv">Layout of the facility record (30)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Field ID</th>
+			<th scope="col">Start</th>
+			<th scope="col">End</th>
+			<th scope="col">Length</th>
+			<th class="col-md-4" scope="col">Field Name</th>
+			<th scope="col"><abbr title="Mandatory field">M</abbr></th>
+			<th class="col-md-5" scope="col">Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>-</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td><b>Record Type</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Fixed string "30"</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>3</td>
+			<td>17</td>
+			<td>15</td>
+			<td><b>Common Risk number</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>18</td>
+			<td>32</td>
+			<td>15</td>
+			<td><b>Borrower number</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>34</td>
+			<td>33</td>
+			<td>47</td>
+			<td>15</td>
+			<td><b>Facility number</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>35</td>
+			<td>48</td>
+			<td>55</td>
+			<td>8</td>
+			<td><b>Primary facility type</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>37</td>
+			<td>56</td>
+			<td>57</td>
+			<td>2</td>
+			<td>Facility country of risk</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>38</td>
+			<td>58</td>
+			<td>59</td>
+			<td>2</td>
+			<td>Booking point country</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>40</td>
+			<td>60</td>
+			<td>63</td>
+			<td>4</td>
+			<td>Facility risk rating</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>41</td>
+			<td>64</td>
+			<td>66</td>
+			<td>3</td>
+			<td>Facility currency</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)</td>
+		</tr>
+		<tr>
+			<td>42</td>
+			<td>67</td>
+			<td>81</td>
+			<td>15</td>
+			<td>Facility total authorized (orig currency)</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>43</td>
+			<td>82</td>
+			<td>96</td>
+			<td>15</td>
+			<td>Facility total outstanding (orig currency)</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>44</td>
+			<td>97</td>
+			<td>111</td>
+			<td>15</td>
+			<td>Facility total authorized in CAD</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>45</td>
+			<td>112</td>
+			<td>126</td>
+			<td>15</td>
+			<td>Facility potential exposure in CAD</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>46</td>
+			<td>127</td>
+			<td>141</td>
+			<td>15</td>
+			<td>Facility total outstanding in CAD</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>106</td>
+			<td>142</td>
+			<td>156</td>
+			<td>15</td>
+			<td>Notional Amount Authorized</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>107</td>
+			<td>157</td>
+			<td>171</td>
+			<td>15</td>
+			<td>Notional Amount Outstanding</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>49</td>
+			<td>172</td>
+			<td>172</td>
+			<td>1</td>
+			<td>Exposure type</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 1, 2, 3 or 9</td>
+		</tr>
+		<tr>
+			<td>50</td>
+			<td>173</td>
+			<td>173</td>
+			<td>1</td>
+			<td>Shared and/or linked facility</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 1, 2, 3, 4 or 9</td>
+		</tr>
+		<tr>
+			<td>51</td>
+			<td>174</td>
+			<td>188</td>
+			<td>15</td>
+			<td>Maximum amount draw</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(9)&nbsp;- No commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>52</td>
+			<td>189</td>
+			<td>191</td>
+			<td>3</td>
+			<td>Percentage draw</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(9)&nbsp;- No commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>56</td>
+			<td>192</td>
+			<td>193</td>
+			<td>2</td>
+			<td>Facility status</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- No commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>62</td>
+			<td>194</td>
+			<td>201</td>
+			<td>8</td>
+			<td>Primary collateral</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>63</td>
+			<td>202</td>
+			<td>203</td>
+			<td>2</td>
+			<td>Seniority profile</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>64</td>
+			<td>204</td>
+			<td>204</td>
+			<td>1</td>
+			<td>Participated facilities</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 1, 2 or 9</td>
+		</tr>
+		<tr>
+			<td>65</td>
+			<td>205</td>
+			<td>205</td>
+			<td>1</td>
+			<td>Syndicate role</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 1, 2, 3 or 9</td>
+		</tr>
+		<tr>
+			<td>66</td>
+			<td>206</td>
+			<td>220</td>
+			<td>15</td>
+			<td>Allowance for Expected Credit Losses</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>67</td>
+			<td>221</td>
+			<td>235</td>
+			<td>15</td>
+			<td>Write-offs</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>68</td>
+			<td>236</td>
+			<td>350</td>
+			<td>15</td>
+			<td>Filler</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Blank spaces</td>
+		</tr>
+		<tr>
+			<td>69</td>
+			<td>251</td>
+			<td>265</td>
+			<td>15</td>
+			<td>Recoveries</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>70</td>
+			<td>266</td>
+			<td>266</td>
+			<td>1</td>
+			<td>IFRS 9 Stage of Exposure</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>Pic(9)&nbsp;- 1, 2, 3 or 9</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>267</td>
+			<td>360</td>
+			<td>94</td>
+			<td>Filler</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Blank spaces</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>361</td>
+			<td>368</td>
+			<td>8</td>
+			<td>Sequential row counter</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>369</td>
+			<td>370</td>
+			<td>2</td>
+			<td>CR&nbsp;+&nbsp;LF</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pix(X)&nbsp;- Hexadecimal: 0D&nbsp;+&nbsp;0A</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4 id="a2.9">2.9. Borrower Footer Record (21)</h4>
+
+<p>The record layout of the Borrower footer is detailed below:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-inv">Layout of the borrower footer record (21)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Field ID</th>
+			<th scope="col">Start</th>
+			<th scope="col">End</th>
+			<th scope="col">Length</th>
+			<th class="col-md-4" scope="col">Field Name</th>
+			<th scope="col"><abbr title="Mandatory field">M</abbr></th>
+			<th class="col-md-5" scope="col">Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>-</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td><b>Record Type</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Fixed string "21"</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>3</td>
+			<td>17</td>
+			<td>15</td>
+			<td><b>Common Risk number</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>18</td>
+			<td>32</td>
+			<td>15</td>
+			<td><b>Borrower number</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>33</td>
+			<td>47</td>
+			<td>15</td>
+			<td>Borrower total authorized in CAD</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>48</td>
+			<td>62</td>
+			<td>15</td>
+			<td>Borrower potential exposure in CAD</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>63</td>
+			<td>77</td>
+			<td>15</td>
+			<td>Borrower total outstanding in CAD</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>78</td>
+			<td>82</td>
+			<td>5</td>
+			<td>Total number of facilities in this borrower</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>102</td>
+			<td>83</td>
+			<td>97</td>
+			<td>15</td>
+			<td>Borrower total outstanding in CAD insured</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>98</td>
+			<td>360</td>
+			<td>263</td>
+			<td>Filler</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Blank spaces</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>361</td>
+			<td>368</td>
+			<td>8</td>
+			<td>Sequential row counter</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>369</td>
+			<td>370</td>
+			<td>2</td>
+			<td>CR&nbsp;+&nbsp;LF</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pix(X)&nbsp;- Hexadecimal: 0D&nbsp;+&nbsp;0A</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4 id="a2.10">2.10. Common Risk Footer Record (11)</h4>
+
+<p>The record layout of the Common Risk footer is detailed below:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-inv">Layout of the common risk footer record (11)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Field ID</th>
+			<th scope="col">Start</th>
+			<th scope="col">End</th>
+			<th scope="col">Length</th>
+			<th class="col-md-4" scope="col">Field Name</th>
+			<th scope="col"><abbr title="Mandatory field">M</abbr></th>
+			<th class="col-md-5" scope="col">Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>-</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td><b>Record Type</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Fixed string "11"</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>3</td>
+			<td>17</td>
+			<td>15</td>
+			<td><b>Common Risk number</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>18</td>
+			<td>32</td>
+			<td>15</td>
+			<td>Common Risk total authorized</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>33</td>
+			<td>47</td>
+			<td>15</td>
+			<td>Common Risk potential exposure</td>
+			<td><span class="wb-inv">not mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>48</td>
+			<td>62</td>
+			<td>15</td>
+			<td>Common Risk total outstanding</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>63</td>
+			<td>67</td>
+			<td>5</td>
+			<td>Number of borrowers in this Common Risk</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- no commas/dots, left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>68</td>
+			<td>360</td>
+			<td>293</td>
+			<td>Filler</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Blank spaces</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>361</td>
+			<td>368</td>
+			<td>8</td>
+			<td>Sequential row counter</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>369</td>
+			<td>370</td>
+			<td>2</td>
+			<td>CR&nbsp;+&nbsp;LF</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pix(X)&nbsp;- Hexadecimal: 0D&nbsp;+&nbsp;0A</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4 id="a2.11">2.11. Footer Record (99)</h4>
+
+<p>The record layout of the Footer is detailed below:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-inv">Layout of the footer record (99)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Field ID</th>
+			<th scope="col">Start</th>
+			<th scope="col">End</th>
+			<th scope="col">Length</th>
+			<th class="col-md-4" scope="col">Field Name</th>
+			<th scope="col"><abbr title="Mandatory field">M</abbr></th>
+			<th class="col-md-5" scope="col">Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>-</td>
+			<td>1</td>
+			<td>2</td>
+			<td>2</td>
+			<td><b>Record Type</b></td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Fixed string "99"</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>3</td>
+			<td>6</td>
+			<td>4</td>
+			<td>Institution ID</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Left justified, right-padded with spaces</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>7</td>
+			<td>14</td>
+			<td>8</td>
+			<td>Reporting date of information</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- Format: YYYYMMDD</td>
+		</tr>
+		<tr>
+			<td>98</td>
+			<td>15</td>
+			<td>21</td>
+			<td>7</td>
+			<td>File type</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Fixed string "RAPCORP"</td>
+		</tr>
+		<tr>
+			<td>99</td>
+			<td>22</td>
+			<td>27</td>
+			<td>6</td>
+			<td>Layout version</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Format:02.0.0, left justified</td>
+		</tr>
+		<tr>
+			<td>100</td>
+			<td>28</td>
+			<td>28</td>
+			<td>1</td>
+			<td>File processing instruction</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- 1 or 2</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>29</td>
+			<td>360</td>
+			<td>332</td>
+			<td>Filler</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(X)&nbsp;- Blank spaces</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>361</td>
+			<td>368</td>
+			<td>8</td>
+			<td>Sequential row counter</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pic(9)&nbsp;- left-padded with zeroes</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>369</td>
+			<td>370</td>
+			<td>2</td>
+			<td>CR&nbsp;+&nbsp;LF</td>
+			<td><span aria-hidden="true">✓</span><span class="wb-inv">mandatory</span></td>
+			<td>pix(X)&nbsp;- Hexadecimal: 0D&nbsp;+&nbsp;0A</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4 id="a2.12">2.12. Additional Important Notes</h4>
+
+<ul>
+	<li>All dates are to be reported according to the following format: YYYYMMDD Where, YYYY represents the year, MM represents the month and DD represents the day. E.g. "19990105" represents January 5, 1999. All non-mandatory dates that cannot be provided should be zeroes.</li>
+	<li>All percentages and dollar amount fields are to be rounded to the nearest percent/dollar; in other words, no decimal digits should be reported.</li>
+	<li>The sequential row counter field that appears in every record must start at "00000001" in the header record and be incremented by 1 in every row. Therefore, the footer will show the total number of records in the file.</li>
+</ul>
+
+<h3 id="a3">3. Data Validation Rules</h3>
+
+<h4 id="a3.1">3.1. Error Handling</h4>
+
+<p>The error handling philosophy is to trap the maximum number of possible errors and warnings. The file will be entirely rejected if errors are detected, and no data will be uploaded to the database. Warnings are exceptions that will not stop the database from accepting the file.</p>
+
+<p>Processing of the file will proceed as detailed below:</p>
+
+<h5 id="a3.1.1">3.1.1. Pre-processing Checks</h5>
+
+<p>Pre-processing is performed to ensure that the extract files received are formatted correctly, and that the header and footer records match the actual contents of the file. A program checks extract files for header and formatting errors. The following pre-processing checks are made:</p>
+
+<ul>
+	<li>Each record in the file has a valid record type (00, 10, 20, 30, 21, 11, 99).</li>
+	<li>Each record in the file is 368 byte long plus 2 ASCII characters (Carriage Return and Line Feed).</li>
+	<li>Each record has the correct number of fields for its record type.</li>
+	<li>Each record has a sequential counter that starts at 00000001 at the header record and is incremented by 1 in each record in the file.</li>
+	<li>The name of the file exactly matches the information of the Header and Footer records.</li>
+	<li>The extension of the file is .DAT.</li>
+	<li>The institution ID in the file name, header and footer records is a valid Bank of Canada code (provided by OSFI).</li>
+	<li>The 4th field of the Header and Footer records must be a valid file type ("RAPCORP").</li>
+</ul>
+
+<h5 id="a3.1.2">3.1.2. Data Hierarchy Checks</h5>
+
+<ul>
+	<li>Each Facility record must have a Borrower record and each Borrower record must have a Common Risk record.</li>
+	<li>Each Common Risk header record must have a matching Common Risk footer record. Similarly, each Borrower header record must have a matching Borrower footer record.</li>
+	<li>Each Common Risk must have a unique combination of record type ("10") and Common Risk number as highlighted on section 2.6 and 2.10 of this document.</li>
+	<li>Each Borrower must have a unique combination of record type, ("20") Common Risk number and Borrower number as highlighted on section 2.7 and 2.9 of this document.</li>
+	<li>Each Facility must have a unique combination of record type ("30"), Common Risk number, Borrower number, Facility number and primary facility type as highlighted on section 2.8 of this document.</li>
+	<li>The total number of borrowers in the Common Risk footer must match the count of Borrower records with the same Common Risk number.</li>
+	<li>The total number of facilities in the Borrower footer must match the actual count of Facility records with the same Common Risk and Borrower number.</li>
+</ul>
+
+<h5 id="a3.1.3">3.1.3. Field Value Checking</h5>
+
+<p>Field value checking ensures that a field has valid values as specified in the RAPID Data Field Definitions, Version 2.02.</p>
+
+<h4 id="a3.2">3.2. Business Rules</h4>
+
+<p>The term "business rules" usually refers to a set of conditions that can be used to determine the validity of data. Each rule specifies criteria that certain data elements (or a number of elements) have to meet to be valid. Business rules are used in the RAPID context to identity data that has potentially been entered incorrectly. Sending these records back to the Financial Institutions for correction leads to greater integrity of information in Risk Asset Portfolios.</p>
+
+<h5 id="a3.2.1">3.2.1. Industry Classification Codes</h5>
+
+<p>OSFI will validate the submitted NAICS codes (ID&nbsp;#19) against Industry Classification lookup tables provided by Statistics Canada. The submitted code will be rejected if it does not exist in the appropriate table.</p>
+
+<h5 id="a3.2.2">3.2.2. Countries</h5>
+
+<p>Country codes (ID&nbsp;#s 9, 21, 37 and 38) will be validated against International Organization for Standardization (ISO) standards (ISO# 3166-1).</p>
+
+<h5 id="a3.2.3">3.2.3. Currencies</h5>
+
+<p>Currency codes (ID&nbsp;#41) will be validated against ISO standards (ISO# 4217). Pre-euro currencies and other old currencies are still used and will be accepted.</p>
+
+<h5 id="a3.2.4">3.2.4. Province/State (Warning)</h5>
+
+<p>If the country (ID&nbsp;#21) is Canada or USA, province or state (ID&nbsp;#22) data will be validated against the last two (2) characters of the ISO# 3166-2 standard.</p>
+
+<h5 id="a3.2.5">3.2.5. Dollar Amounts</h5>
+
+<p>For the following validation rules, thresholds have been established to account for acceptable levels of data inconsistencies, including rounding errors:</p>
+
+<ul>
+	<li>Each Common Risk total authorized (ID&nbsp;#6) must be equal to or greater than $10 Million. Otherwise, an error will occur.</li>
+	<li>Negative values should be reported with the hyphen sign before the first 'meaningful' digit, in other words report the negative number left-padded with zeros. For example, 000000000073654 and 0000000-7900000 are valid 15 character numeric values representing 73,654 and -7,900,000, respectively.</li>
+	<li>Each Facility authorized in Canadian dollars (ID&nbsp;#44) must not exceed its Borrower authorized (ID&nbsp;#15) by more than 1% of Borrower authorized. Otherwise, an error will occur. Differences of less than 1% will be shown as warnings.</li>
+	<li>Each Borrower authorized in Canadian dollars (ID&nbsp;#15) must not exceed its Common Risk authorized (ID&nbsp;#6) by more than 1% of Common Risk authorized. Otherwise, an error will occur. Differences of less than 1% will be shown as warnings.</li>
+	<li>On a portfolio-wide basis, total potential exposure at the Common Risk level (ID&nbsp;#7) must not exceed total Common Risk authorized (ID&nbsp;#6) by more than 10% of total Common Risk authorized. Otherwise, an error will occur.</li>
+	<li>On a portfolio-wide basis, total potential exposure at the Borrower level (ID&nbsp;#16) must not exceed total Borrower authorized (ID&nbsp;#15) by more than 10% of total Borrower authorized. Otherwise, an error will occur.</li>
+	<li>On a portfolio-wide basis, total potential exposure at the Facility level (ID&nbsp;#45) must not exceed total Facility authorized (ID&nbsp;#44) by more than 10% of total Facility authorized. Otherwise, an error will occur.</li>
+	<li>On a portfolio-wide basis, total outstanding at the Borrower level (ID&nbsp;#17) must not exceed total Common Risk authorized (ID&nbsp;#6) by more than 10% of total Common Risk authorized. Otherwise, an error will occur. Differences of less than 10% will be shown as warnings.</li>
+	<li>On a portfolio-wide basis, total outstanding at the Facility level (ID&nbsp;#46) must not exceed total Borrower authorized (ID&nbsp;#15) by more than 10% of total Borrower authorized. Otherwise, an error will occur. Differences of less than 10% will be shown as warnings.</li>
+	<li>The Common Risk outstanding (ID&nbsp;#8) must not differ from the sum of all its Borrowers' outstanding beyond the range of +/-&nbsp;1% of common risk outstanding. Otherwise, an error will occur. Discrepancies within the +/-&nbsp;1% range will be shown as warnings.</li>
+	<li>The Borrower outstanding (ID&nbsp;#17) must not differ from the sum of all its Facilities' outstanding beyond the range of +/-&nbsp;1% of Borrower outstanding. Otherwise, an error will occur. Discrepancies within the +/-&nbsp;1% range will be shown as warnings.</li>
+	<li>If a Common Risk has only 1 Borrower, the Common Risk authorized (ID&nbsp;#6) must be greater than or equal to its Borrower authorized (ID&nbsp;#15). Otherwise, an error will occur. This validation rule does not have a threshold for data inconsistencies.</li>
+	<li>If a borrower has only 1 Facility, the Borrower authorized (ID&nbsp;#15) must be greater than or equal to its Facility authorized in Canadian dollars (ID&nbsp;#44). Otherwise, an error will occur. This validation rule does not have a threshold for data inconsistencies.</li>
+	<li>
+	<p>For facilities with the same Common Risk ID (ID&nbsp;#3), Borrower ID (ID&nbsp;#10), and Facility ID (ID&nbsp;#34), they must have:</p>
+
+	<ul>
+		<li>The same Facility risk rating (ID&nbsp;#40)</li>
+		<li>The same Facility total authorized (ID&nbsp;#42)</li>
+		<li>The same Facility total outstanding (ID&nbsp;#43)</li>
+		<li>The same Facility total authorized&nbsp;- CAD equivalent (ID&nbsp;#44)</li>
+		<li>The same Facility total outstanding&nbsp;- CAD equivalent (ID&nbsp;#46)</li>
+		<li>The same Allowance for Expected Credit Losses (ID&nbsp;#66)</li>
+		<li>The same write-offs (ID&nbsp;#67)</li>
+		<li>The same recoveries (ID&nbsp;#69)</li>
+	</ul>
+
+	<p>Otherwise, an error will occur.</p>
+	</li>
+	<li>Warnings are issued if:
+	<ul>
+		<li>Common Risk potential exposure (ID&nbsp;#7) is greater than Common Risk authorized (ID&nbsp;#6)</li>
+		<li>Borrower potential exposure (ID&nbsp;#16) is greater than Borrower authorized (ID&nbsp;#15)</li>
+		<li>Facility potential exposure (ID&nbsp;#45) is greater than Facility authorized (ID&nbsp;#44)</li>
+		<li>A Borrower individual allowance (ID&nbsp;#29) is less than the sum of all its Facilities' individual allowance (ID&nbsp;#66)</li>
+		<li>A Common Risk authorized (ID&nbsp;#6) is less than the sum of all its Borrowers' outstanding (ID&nbsp;#17)</li>
+		<li>A Borrower authorized (ID&nbsp;#15) is less than the sum of all its Facilities' outstanding (ID&nbsp;#46)</li>
+	</ul>
+	</li>
+</ul>
+
+<h5 id="a3.2.6">3.2.6. Borrower Risk Rating</h5>
+
+<p>Borrower risk rating (ID&nbsp;#14) will be validated against the list of Borrower risk ratings provided by the Financial Institutions as stated in note #8 of the RAPID Data Field Definitions, Version 2.02.</p>
+
+<h5 id="a3.2.7">3.2.7. Foreign Currency Check (Warning)</h5>
+
+<p>If facility currency (ID&nbsp;#41) is not "CAD", then</p>
+
+<ul>
+	<li>Facility total authorized (ID&nbsp;#42) should not equal Facility total authorized CAD equivalent (ID&nbsp;#44)</li>
+	<li>Facility total outstanding (ID&nbsp;#43) should not equal Facility total outstanding CAD equivalent (ID&nbsp;#46)</li>
+</ul>
+
+<p>Otherwise, a warning will occur.</p>
+
+<h5 id="a3.2.8">3.2.8. Notional Amounts</h5>
+
+<p>If the Primary Facility Type (ID&nbsp;#35) is a not trading line, then Notional Amount Authorized (ID&nbsp;#106) must be equal to Facility Total Authorized (ID#&nbsp;42), and Notional Amount Outstanding (ID&nbsp;#107) must be equal to Facility Total Outstanding (ID#&nbsp;43). Otherwise, an error will occur.</p>
+
+<p>The following codes from Table A in the RAPID Data Field Definitions, Version 2.02 document are trading lines:</p>
+
+<ul>
+	<li>08: Derivative&nbsp;- FX, Futures, Interest/Cross Currency Swap</li>
+	<li>09: Derivative&nbsp;- Credit</li>
+	<li>10: Derivative&nbsp;- Other</li>
+	<li>13: Other off-balance sheet facilities</li>
+	<li>18: Other trading facility</li>
+</ul>
+
+<h5 id="a3.2.9">3.2.9. Other Business Validation Rules</h5>
+
+<p>The submitted value for certain fields must come from a set of pre-defined options specified in the RAPID Data Field Definitions, Version 2.02. The submission of a value outside of the pre-defined set will cause rejection of the data file. The RAPID Data Field Definitions, Version 2.02 specifies options for the following fields:</p>
+
+<ul>
+	<li>File Processing Instruction (ID&nbsp;#100)</li>
+	<li>Watch List (ID&nbsp;#25)</li>
+	<li>Impairment Status (ID&nbsp;#109)</li>
+	<li>Primary Facility Type (ID&nbsp;#35)</li>
+	<li>Exposure Type (ID&nbsp;#49)</li>
+	<li>Shared And/Or Linked Facility (ID&nbsp;#50)</li>
+	<li>Facility Status (ID&nbsp;#56)</li>
+	<li>Primary Collateral (ID&nbsp;#62)</li>
+	<li>Seniority Profile (ID&nbsp;#63)</li>
+	<li>Participated Facilities (ID&nbsp;#64)</li>
+	<li>Syndicate Role (ID&nbsp;#65)</li>
+	<li>IFRS 9 Stage of Exposure</li>
+</ul>
+
+<h4 id="a3.3">3.3. Optional Versus Mandatory Data Elements</h4>
+
+<p>Where data points are cited as "optional", this is to accommodate instances where the data point may not exist for all Financial Institutions. If, however, a Financial Institution has the data for an "optional" field, the data <strong>must</strong> be reported in the return.</p>
+
+<p>Mandatory fields are data points that <strong>must </strong>be reported by <strong>all</strong> Financial Institutions. Otherwise, the data will be rejected.</p>
+
+<h4 id="a3.4">3.4. Error Report</h4>
+
+<p>If any of these validation checks fail, an Error Report will be created and the input file will be rejected. The contents of the Error Report will vary depending upon the types of errors found in the input file. This report will have enough information to help troubleshoot and correct the inconsistencies. However, if the Error Report contains only Warnings, the input file will be accepted by OSFI. Please, note that you are still required to correct the erroneous/inconsistent data (in other words to eliminate the 'warnings') for the following data submission.</p>
+
+<p>This report will be e-mailed to the Financial Institution in question indicating whether or not the file was successfully uploaded in the database. If problems were detected, the error report will be attached to this e-mail including both 'errors' and 'warnings'.</p>
+
+<h3 id="a4">Change Control Log</h3>
+
+<h4>Changes in version 2.0</h4>
+
+<p>These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 1.9 of this document on hand when reviewing this change log. Note that there may be a number of grammatical and formatting changes in the document that are not listed here. (They should not have an impact on development.)</p>
+
+<p>Those not already working with Version 1.9 of this Technical Specification Document do not need to use this change log.</p>
+
+<ol>
+	<li>Renamed 'Revisions' section to 'Change Control Log' and moved to the end of the document.</li>
+	<li>Section 2.5&nbsp;- Header Record (00): Field ID 98 assigned to the &lt;File type&gt; field.</li>
+	<li>Section 2.5&nbsp;- Header Record (00): &lt;File layout version&gt; Notes changed to "pic(X)&nbsp;- Fixed String "02.0.0"." Also assigned Field ID 99 to the data point.</li>
+	<li>Section 2.5&nbsp;- Header Record (00): Added Field ID 100 &lt;File processing instruction&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.5&nbsp;- Header Record (00): Added &lt;CR&nbsp;+ LF&gt;.</li>
+	<li>Section 2.6&nbsp;- Common Risk Record (10): Removed Field ID 4 &lt;Common Risk KMV ID&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.6&nbsp;- Common Risk Record (10): Added &lt;CR&nbsp;+ LF&gt;.</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 11 &lt;Borrower KMV ID&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 12 &lt; Borrower ticker symbol&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 18 &lt;Industry classification system&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Replaced Field ID 19 &lt;Primary industry classification code&gt; with &lt;NAICS code&gt;.</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 20 &lt;Secondary industry classification code&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Added Field ID 103 &lt;Industry Code Standard Version&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 23 &lt;Contact name&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 24 &lt;Contact phone number&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 26 &lt;Borrower portfolio&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 27 &lt;Borrower annual revenues&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 28 &lt;Industry portfolio classification&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 31 &lt;Date of bank's write-off&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Removed Field ID 33 &lt;Date of recovery&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Added Field ID 109 &lt;Impairment Status&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.7&nbsp;- Borrower Record (20): Added &lt;CR&nbsp;+ LF&gt;.</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 36 &lt;Secondary facility type&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 39 &lt;Booking point transit&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Added Field ID 106 &lt;Notional Amount Authorized&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Added Field ID 107 &lt; Notional Amount Outstanding&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Mandatory check added to Field ID 45 &lt; Facility potential exposure in CAD&gt;.</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 47 &lt;Facility total outstanding in CAD on B/S&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 48 &lt;Facility total outstanding in CAD off B/S&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 53 &lt;Origination date&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 54 &lt;Maturity date&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 55 &lt;Review date&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 57 &lt;Default date&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 58 &lt;Performing product &gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 59 &lt;Hedging status&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 60 &lt;Hedging percentage&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 61 &lt;Cash and/or marketable security&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Modified Field ID 64 from &lt;Syndicated Facilities&gt; to &lt;Participated Facilities&gt; and updated definition.</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 68 &lt;Date of bank's write-off&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Removed Field ID 70 &lt;Date of recovery&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Added Field ID 108 &lt;Specific Provisions&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.8&nbsp;- Facility Record (30): Added &lt;CR&nbsp;+ LF&gt;.</li>
+	<li>Section 2.9&nbsp;- Borrower Footer Record (21): Added Field ID 102 &lt;Borrower Total Outstanding&nbsp;- Canadian dollar equivalent&nbsp;- Insured&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.9&nbsp;- Borrower Footer Record (21): Added &lt;CR&nbsp;+ LF&gt;.</li>
+	<li>Section 2.10&nbsp;- Common Risk Footer Record (11): Added &lt;CR&nbsp;+ LF&gt;.</li>
+	<li>Section 2.11&nbsp;- Footer Record (99): Removed Field ID 71 &lt;Total loans under CAD 10 Million&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.11&nbsp;- Footer Record (99): Removed Field ID 72 &lt;Total loans on B/S this Quarter&gt;. (Start/End positions and field Length are adjusted accordingly.)</li>
+	<li>Section 2.11&nbsp;- Footer Record (99): Field ID 98 assigned to the &lt;File type&gt; field.</li>
+	<li>Section 2.11&nbsp;- Footer Record (99): &lt;File layout version&gt; Notes changed to "pic(X)&nbsp;- Fixed String "02.0.0"." Also assigned Field ID 99 to the data point.</li>
+	<li>Section 2.11&nbsp;- Footer Record (99): Added &lt;CR&nbsp;+ LF&gt;.</li>
+	<li>Section 3.2.1&nbsp;- Industry Classification Codes: Removed references to SIC and FI specific industry classification codes, and any secondary industry classification.</li>
+	<li>Section 3.2.2&nbsp;- Performing Product vs. Facility Status: Removed business rule "(A) loan can be reported as 'performing' (ID&nbsp;#58), provided that its status (ID&nbsp;#56) is not 'in default'." Subsequent Business Rule ID's have been renumbered accordingly.</li>
+	<li>Section 3.2.4&nbsp;- Modified data source of validation rule from Statistics Canada to ISO 3166-2.</li>
+	<li>Section 3.2.5&nbsp;- Added rule on reporting thresholds at the Common Risk level.</li>
+	<li>Section 3.2.6&nbsp;- Date Checks (Warning): Removed business rule "(R)eview date (ID&nbsp;#55) and maturity date (ID&nbsp;#54) must be greater than origination date (ID&nbsp;#53)." Subsequent Business Rule ID's have been renumbered accordingly.</li>
+	<li>Section 3.2.7&nbsp;- Dollar Amounts: Removed business rule "(T)he same facility total outstanding&nbsp;- CAD equivalent, on-balance sheet (ID&nbsp;#47)."</li>
+	<li>Section 3.2.7&nbsp;- Dollar Amounts: Removed business rule "(T)he same facility total outstanding&nbsp;- CAD equivalent, off-balance sheet (ID&nbsp;#48)."</li>
+	<li>Section 3.2.8&nbsp;- Facility Types and Collateral: Removed Business Rule "(F)acility type IDs (ID&nbsp;#35 and 36) and collateral ID (ID&nbsp;#62) will be validated against the data provided by the Financial Institutions as stated on notes 8 and 9 in the RAPID Data Field Definitions, Version 1.9, February 2004. OSFI will use these data to map against internal definitions of facility types and collateral."</li>
+	<li>Section 3.2.9&nbsp;- Notional Amounts: Added business rules. Subsequent Business Rule ID's have been renumbered accordingly.</li>
+	<li>Section 3.2.10&nbsp;- Performing Product and Specific Allowance: Removed business rule "(I)f Specific Allowance (ID&nbsp;#66) is greater than zero, then Performing Product (ID&nbsp;#58) must be 2 (non-performing). This validation rule does not apply where performing product status is 9 (unknown)&nbsp;- warning is raised instead." Subsequent Business Rule ID's have been renumbered accordingly.</li>
+	<li>Section 3.2.10&nbsp;- Other Business Validation Rules: Added business rules. Subsequent Business Rule ID's have been renumbered accordingly.</li>
+	<li>Section 3.3&nbsp;- Optional Versus Mandatory Data Elements: Added business rules. Subsequent Business Rule ID's have been renumbered accordingly.</li>
+	<li>Section 3.4&nbsp;- Error Reporting: Expanded business rule to clarify the role of warnings in the error reports.</li>
+</ol>
+
+<h4>Changes in version 2.01</h4>
+
+<ol>
+	<li>Correction to Section 2.8&nbsp;- Removed ID&nbsp;#39 and ID&nbsp;#68.</li>
+</ol>
+
+<h4>Changes in version 2.02</h4>
+
+<ol>
+	<li>Correction to Section 2.8&nbsp;- Reference to ID&nbsp;#57 changed to ID&nbsp;#62.</li>
+	<li>Correction to Section 3.2.9&nbsp;- Reference to ID&nbsp;#57 changed to ID&nbsp;#62. Reference to ID#&nbsp;106 changed to ID&nbsp;#109.</li>
+	<li>Section 3.2.5&nbsp;- Negative number formatting for ID#&nbsp;105 and #108.</li>
+	<li>Section 2.7&nbsp;- Starting position of ID#22 changed to 149.</li>
+	<li>Section 3.2.9&nbsp;- File processing Instruction (ID&nbsp;#100) added to the list.</li>
+</ol>
+
+<h4>Changes in version 2.03</h4>
+
+<p>These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 2.02 of this document on hand when reviewing this change log. Note, that there might be a number of small, 'cosmetic-type' corrections in the document that are not listed here. (They should not have an impact on development.)</p>
+
+<p>Those not already working with Version 2.01 of this Technical Specification Document do not need to use this change log.</p>
+
+<h5>General</h5>
+
+<ol>
+	<li>Changed all reference of 'Specific Provisions' to 'Individual Provisions for Credit Losses'</li>
+	<li>Changed all reference of 'Specific Allowances' to 'Individual Allowances for Credit Losses'</li>
+</ol>
+
+<h4>Changes in version 3.0</h4>
+
+<p>These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 2.03 of this document on hand when reviewing this change log. Note, that there might be a number of small, 'cosmetic-type' corrections in the document that are not listed here. (They should not have an impact on development.)</p>
+
+<p>Those not already working with Version 2.03 of this Technical Specification Document do not need to use this change log.</p>
+
+<h5>General</h5>
+
+<ol>
+	<li>Changed all reference of 'Individual Allowances for Credit Losses'' to 'Allowances for Expected Credit Losses''</li>
+	<li>Removed 'Individual Provision for Credit Losses' in record type '20' and '30'</li>
+	<li>Added new field 'IFRS&nbsp;9 Stage of Exposure' to record type '20'</li>
+	<li>Removed business rules in section 3.2.5</li>
+	<li>Added business validation rule in section 3.2.9</li>
+</ol>
+
+<h4>Changes in version 3.1</h4>
+
+<p>These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 3.0 of this document on hand when reviewing this change log. Note, that there might be a number of small, 'cosmetic-type' corrections in the document that are not listed here. (They should not have an impact on development.)</p>
+
+<p>Those not already working with Version 3.0 of this Technical Specification Document do not need to use this change log.</p>
+
+<h5>General</h5>
+
+<ol>
+	<li>Correction to field "IFRS 9 Stage of Exposure" in record type '20' to include 'Pic(9)&nbsp;- 1, 2, 3 or 9'</li>
+</ol>
+
+<h4>Changes in version 4.0</h4>
+
+<p>These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 3.1 of this document on hand when reviewing this change log. Note, that there might be a number of small, 'cosmetic-type' corrections in the document that are not listed here. (They should not have an impact on development.)</p>
+
+<p>Those not already working with Version 3.1 of this Technical Specification Document do not need to use this change log.</p>
+
+<h5>General</h5>
+
+<ol>
+	<li>Section 2.7: Correction under field "NAICS Version" in record type '20'</li>
+	<li>Section 2.8: Adding of field "IFRS 9 Stage of Exposure" in record type '30' to include 'Pic(9)&nbsp;- 1, 2, 3 or 9'</li>
+	<li>Section 2.8: Correction under field "Filler" in record type '30'</li>
+</ol>
+
+<h4>Changes in version 4.1</h4>
+
+<p>These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 4.0 of this document on hand when reviewing this change log. Note, that there might be a number of small, 'cosmetic-type' corrections in the document that are not listed here. (They should not have an impact on development.)</p>
+
+<p>Those not already working with Version 4.0 of this Technical Specification Document do not need to use this change log.</p>
+
+<h5>General</h5>
+
+<ol>
+	<li>Section 2.7: Correction under fields "NAICS Version" and "NAICS code" in record type '20'</li>
+</ol>
+
+<h4>Changes in version 4.2</h4>
+
+<p>These entries highlight changes made since the last release of this document.&nbsp; This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 4.1 of this document on hand when reviewing this change log. Note, that there might be a number of small, 'cosmetic-type' corrections in the document that are not listed here. (They should not have an impact on development.)</p>
+
+<p>Those not already working with Version 4.1 of this Technical Specification Document do not need to use this change log.</p>
+
+<h5>General</h5>
+
+<ol>
+	<li>Section 2.8: Adding of Field ID 68 "Filler" in record type '30'</li>
+</ol>
+</div>
+    </div>
+  </div>
+
+      </div>
+    
+  </article>
+
+
+  </div>
+
+    
+                        <div class="pagedetails region region-content-footer">
+    <div class="row">
+      
+<div id="block-osfi-wxt-reportproblemblock" class="col-xs-12 col-sm-6 block block-wxt-ext-webform block-report-problem-block clearfix" data-block-plugin-id="report_problem_block">
+  
+    
+
+      <details class="brdr-0">
+  <summary class="btn btn-default text-center"> Report a problem or mistake on this page</summary>
+  <div class="well row">
+    <div class="gc-rprt-prblm">
+      <span id="webform-submission-gcweb-report-a-problem-node-1197-form-ajax-content"></span><div id="webform-submission-gcweb-report-a-problem-node-1197-form-ajax" class="webform-ajax-form-wrapper" data-effect="none" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-gcweb-report-a-problem-form webform-submission-gcweb-report-a-problem-add-form webform-submission-gcweb-report-a-problem-node-1197-form webform-submission-gcweb-report-a-problem-node-1197-add-form js-webform-details-toggle webform-details-toggle antibot" novalidate="novalidate" data-drupal-selector="webform-submission-gcweb-report-a-problem-node-1197-add-form" data-action="/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/technical-specification-rapid1" action="/antibot" method="post" id="webform-submission-gcweb-report-a-problem-node-1197-add-form" accept-charset="UTF-8">
+	
+	<noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<fieldset data-drupal-selector="edit-report-issue-types" class="checkboxes--wrapper fieldgroup form-composite webform-composite-visible-title required js-webform-type-checkboxes webform-type-checkboxes js-form-item form-item js-form-wrapper form-wrapper" id="edit-report-issue-types--wrapper">
+      <legend class="fieldset-legend js-form-required required">
+    <span>Please select all that apply:<strong class="required" aria-hidden="true"> (required)</strong></span>
+      </legend>
+  <div class="fieldset-wrapper">
+        
+        <div id="edit-report-issue-types" class="js-webform-checkboxes webform-options-display-one-column form-checkboxes"><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-a-link-button-or-video-is-not-working js-form-item-report-issue-types-a-link-button-or-video-is-not-working checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-a-link-button-or-video-is-not-working" class="control-label option"><input data-drupal-selector="edit-report-issue-types-a-link-button-or-video-is-not-working" class="form-checkbox" type="checkbox" id="edit-report-issue-types-a-link-button-or-video-is-not-working" name="report_issue_types[A link, button or video is not working]" value="A link, button or video is not working" />A link, button or video is not working</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-it-has-a-spelling-mistake js-form-item-report-issue-types-it-has-a-spelling-mistake checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-it-has-a-spelling-mistake" class="control-label option"><input data-drupal-selector="edit-report-issue-types-it-has-a-spelling-mistake" class="form-checkbox" type="checkbox" id="edit-report-issue-types-it-has-a-spelling-mistake" name="report_issue_types[It has a spelling mistake]" value="It has a spelling mistake" />It has a spelling mistake</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-missing js-form-item-report-issue-types-information-is-missing checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-missing" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-missing" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-missing" name="report_issue_types[Information is missing]" value="Information is missing" />Information is missing</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-outdated-or-wrong js-form-item-report-issue-types-information-is-outdated-or-wrong checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-outdated-or-wrong" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-outdated-or-wrong" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-outdated-or-wrong" name="report_issue_types[Information is outdated or wrong]" value="Information is outdated or wrong" />Information is outdated or wrong</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-i-cant-find-what-im-looking-for js-form-item-report-issue-types-i-cant-find-what-im-looking-for checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-i-cant-find-what-im-looking-for" class="control-label option"><input data-drupal-selector="edit-report-issue-types-i-cant-find-what-im-looking-for" class="form-checkbox" type="checkbox" id="edit-report-issue-types-i-cant-find-what-im-looking-for" name="report_issue_types[I can&#039;t find what I&#039;m looking for]" value="I can&#039;t find what I&#039;m looking for" />I can't find what I'm looking for</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-other-issue-not-in-this-list js-form-item-report-issue-types-other-issue-not-in-this-list checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-other-issue-not-in-this-list" class="control-label option"><input data-drupal-selector="edit-report-issue-types-other-issue-not-in-this-list" class="form-checkbox" type="checkbox" id="edit-report-issue-types-other-issue-not-in-this-list" name="report_issue_types[Other issue not in this list]" value="Other issue not in this list" />Other issue not in this list</label>
+  
+  
+
+  </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="form-item js-form-item form-type-textarea js-form-type-textarea form-item-additional-information js-form-item-additional-information form-group">
+    
+        <label for="edit-additional-information" class="control-label js-form-required required">    Additional information<strong class="required" aria-hidden="true"> (required)</strong>
+  </label>
+    
+  
+  <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-additional-information" class="form-textarea required form-control resize-vertical" id="edit-additional-information" name="additional_information" rows="5" cols="60" required="required" aria-required="true"></textarea>
+</div>
+
+
+  
+  
+
+  </div>
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" /><input data-drupal-selector="form-ghledvxsxdu6kecb0cxgrphtapvyht1dcjfbrus-c4u" type="hidden" name="form_build_id" value="form-ghlEdvxsXDU6KeCB0cxgRphTAPvyHt1dCJFBRuS_c4U" /><input data-drupal-selector="edit-webform-submission-gcweb-report-a-problem-node-1197-add-form" type="hidden" name="form_id" value="webform_submission_gcweb_report_a_problem_node_1197_add_form" /><div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><input class="webform-button--submit button button--primary js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit" name="op" value="Submit"/>
+</div>
+<div class="url-textfield form-group js-form-wrapper form-wrapper" style="display: none !important;"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-url js-form-item-url form-group">
+    
+      <label for="edit-url" class="control-label">Leave this field blank</label>
+    
+  
+  <input autocomplete="off" data-drupal-selector="edit-url" class="form-text form-control" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" />
+
+  
+  
+
+  </div>
+</div>
+
+
+	
+</form>
+</div>
+    </div>
+   </div>
+</details>
+
+  </div>
+
+<div id="block-osfi-wxt-datemodifiedblock" class="col-xs-12 block block-wxt-library block-date-modified-block clearfix" data-block-plugin-id="date_modified_block">
+  
+    
+
+      <dl id="wb-dtmd">
+<dt>Date modified:</dt>
+<dd><time property="dateModified">2022-05-25</time></dd></dl>
+  </div>
+
+<div id="block-osfi-wxt-sharewidgetblock" class="pull-right col-xs-12 col-sm-4 block block-wxt-library block-share-widget-block clearfix" data-block-plugin-id="share_widget_block">
+  
+    
+
+      <div class="wb-share mrgn-bttm-sm pull-right" data-wb-share='{"filter":["blogger","diigo","email","facebook","gmail","linkedin","myspace","pinterest","reddit","tinyurl","tumblr","twitter","whatsapp","yahoomail"],"pnlId":"pnl1","lnkClass":"btn btn-default"}'></div>
+  </div>
+
+    </div>
+  </div>
+
+          
+  </main>
+
+
+
+            <footer id="wb-info">
+        <div class="container">
+          <div class="row">
+                        <div class="col-xs-12">
+                <div class="region region-footer">
+    
+<nav aria-labelledby="aboutThisSite" id="block-footer" data-block-plugin-id="menu_block:footer" class="wb-eqht-grd row">
+  
+  <h2 id="aboutThisSite">About this site</h2>
+  
+      
+                          <section class="col-xs-12 col-sm-4">
+        <h3>News</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/en/news?type=5" role="menuitem" title="News releases" data-drupal-link-query="{&quot;type&quot;:&quot;5&quot;}" data-drupal-link-system-path="node/23">News releases</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/news?type=4" role="menuitem" title="Speeches" data-drupal-link-query="{&quot;type&quot;:&quot;4&quot;}" data-drupal-link-system-path="node/23">Speeches</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/media-contacts" role="menuitem" title="Media relations" data-drupal-link-system-path="node/26">Media relations</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/news/speaking-engagements-0" role="menuitem" title="Speaking engagements" data-drupal-link-system-path="node/2976">Speaking engagements</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/en/scams-fraud" title="Scams and fraud" role="menuitem" data-drupal-link-system-path="node/1262">Scams and fraud</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>About us</h3>
+                                  <ul role="menu" class="nav menu">
+                                                  
+        <li role="presentation">
+        <a href="/en/about-osfi" title="Office of the Superintendent of Financial Institutions" role="menuitem" data-drupal-link-system-path="node/1291">OSFI</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/en/oca/about-office-chief-actuary" title="Office of the Chief Actuary" role="menuitem" data-drupal-link-system-path="node/1362">OCA</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>Stay connected</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/en/contact-us" role="menuitem" title="Contact us" data-drupal-link-system-path="node/1689">Contact us</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/contact-us/email-notifications" role="menuitem" title="Email notifications" data-drupal-link-system-path="node/1747">Email notifications</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://twitter.com/OSFICanada" role="menuitem" title="X (formerly Twitter)">X (formerly Twitter)</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.youtube.com/user/OSFIBSIF" role="menuitem" title="YouTube">YouTube</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.linkedin.com/company/office-of-the-superintendent-of-financial-institutions-of-canada" role="menuitem" title="LinkedIn">LinkedIn</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                
+
+
+  </nav>
+  </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 col-sm-9">
+                <div class="region region-footer-legal">
+    <nav role="navigation" aria-labelledby="block-legal-menu" id="block-legal" class="block-legal" data-block-plugin-id="menu_block:legal">
+      
+  <h2 id="block-legal-menu">Corporate</h2>
+  
+
+        
+              <ul role="menu" class="menu nav nav-pills legal">
+                                              
+        <li role="presentation">
+        <a href="https://canada.ca" role="menuitem" title="Canada.ca">Canada.ca</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/en/terms-conditions" role="menuitem" title="Terms and conditions" data-drupal-link-system-path="node/429">Terms and conditions</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/en/transparency" role="menuitem" title="Transparency" data-drupal-link-system-path="node/1399">Transparency</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/en/accessibility" role="menuitem" title="Accessibility" data-drupal-link-system-path="node/647">Accessibility</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+            </div>
+            <div class="col-xs-12 col-sm-3 canada-logo">
+              <img height="40" src='/libraries/theme-gcweb/assets/wmms-blk.svg' alt='Symbol of the Government of Canada' />
+            </div>
+          </div>
+        </div>
+      </footer>
+      
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"node\/1197","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1UYuSwyAI_CGrn-SgoYmNiiekaf_-6CPT3OQ64ygsK6wrDBTQZ1hqnBzsEgNVUiBx79OeqRcTIM5eSFdzu9inSNUEImHpoKUt8q2jTzXJrtio0RX7DhGiLKmZOOOQhLreGLBKyBRnt4tNpI5u6EuDbCPlDI3xBaYq2KvCl58F-_2ltoBMF7g5RlmaKdoc3DllZdoITZJqJj4nv95ENUTToMOogibehnwQu9S2hJx4wsHwnQWLOqDjrwlXds_dFhqWjGbF8Jjv3qcFFXEAI5VGnORIx4xFn2zjhHEOdEP-ShlQIGW2DNfvfTaS0Dj-o26jFWSG8Xudno4dtTytfif-86kHxKjNPqfQod-dTNr0NEZl_cFXlFMgXH8BsxIEmw","theme":"osfi_wxt","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/en\/data-forms\/reporting-returns\/filing-financial-returns\/financial-reporting-instructions\/technical-specification-rapid1?ajax_form=1":true},"back_to_top":{"back_to_top_button_trigger":400,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":false,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image","back_to_top_button_text":"Top"},"mathjax":{"config_type":1,"config":{"tex2jax":{"inlineMath":[["$$$","$$$"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none"}},"bootstrap":{"forms_has_error_value_toggle":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover","modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click"},"antibot":{"forms":{"webform-submission-gcweb-report-a-problem-node-1197-add-form":{"id":"webform-submission-gcweb-report-a-problem-node-1197-add-form","key":"o9o05gnlA99ouyWWOCpdcuRG3bMC4eTWOLfHpYZlAc1"}}},"ajax":{"edit-submit":{"callback":"::submitAjaxForm","event":"click","effect":"none","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/en\/data-forms\/reporting-returns\/filing-financial-returns\/financial-reporting-instructions\/technical-specification-rapid1?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"col-xs-12 col-sm-8 info-left","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"user":{"uid":0,"permissionsHash":"948b17b44e21fbbdf33d5fd143628912a823ca4231d0e9e94c73388fbb69dc9d"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.7"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.2"></script>
+<script src="/core/misc/debounce.js?v=10.6.2"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0"></script>
+<script src="/libraries/wet-boew/js/wet-boew.min.js?til2gg"></script>
+<script src="/modules/contrib/antibot/js/antibot.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/bootstrap-pre-init.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/alert.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/collapse.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/dropdown.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/modal.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/tooltip.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/popover.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/drupal.wxt_bootstrap.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/popover.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/tooltip.js?til2gg"></script>
+<script src="/core/misc/form.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/form.js?til2gg"></script>
+<script src="/core/misc/details-summarized-content.js?v=10.6.2"></script>
+<script src="/core/misc/details-aria.js?v=10.6.2"></script>
+<script src="/core/misc/details.js?v=10.6.2"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0"></script>
+<script src="/modules/contrib/mathjax/js/config.js?v=10.6.2"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/modules/contrib/mathjax/js/setup.js?v=10.6.2"></script>
+<script src="/themes/custom/osfi_wxt/vendors/bootstrap/assets/javascripts/bootstrap/transition.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/scripts.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/adobe.analytics.footer.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/toc.behaviors.js?til2gg"></script>
+<script src="/core/misc/progress.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/progress.js?til2gg"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.6.2"></script>
+<script src="/core/misc/message.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/message.js?til2gg"></script>
+<script src="/core/misc/ajax.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/ajax.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.scroll.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.ajax.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.checkboxes.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.save.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.toggle.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.message.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.options.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.behaviors.js?v=10.6.2"></script>
+<script src="/core/misc/states.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/states.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.form.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/modules/webform_bootstrap/js/webform_bootstrap.states.js?v=10.6.2"></script>
+<script src="/libraries/theme-gcweb/js/theme.min.js?til2gg"></script>
+
+  </body>
+</html>

@@ -1,0 +1,145 @@
+# BSIF – Résumés des évaluations des facteurs relatifs à la vie privée
+
+## 1. Septembre 2025
+
+### Titre
+
+Évaluation des facteurs relatifs à la vie privée sur le suivi de la présence des employés
+
+### Description du programme ou de l'activité
+
+Le Bureau du surintendant des institutions financières (BSIF) prévoit de commencer à assurer un suivi de la présence individuelle des employés au bureau à compter du 1er septembre 2025, le premier cycle de suivi étant prévu pour le 1er octobre prochain. Le suivi et les rapports seront fondés sur l'utilisation des cartes d'accès et permettront de vérifier le taux de présence au bureau des employés des groupes RE et REX par rapport aux exigences de présence sur place. Si cette activité était déjà réalisée au BSIF, le suivi et la production de rapports se faisaient auparavant de façon agrégée, conformément au bulletin d'orientation sur la protection de la vie privée figurant dans la trousse technique du Secrétariat du Conseil du Trésor (SCT) sur l'Orientation concernant la présence prescrite au lieu de travail, afin de s'assurer que les données recueillies ne permettent pas d'identifier les personnes. En vertu de la nouvelle approche, il sera possible d'identifier individuellement les employés dans le suivi et les rapports sur la présence au bureau, ce qui nécessiterait la mise en œuvre de mesures supplémentaires avant le lancement de cette initiative pour continuer d'assurer la conformité du BSIF aux orientations du SCT.
+
+### Raison pour laquelle une évaluation des facteurs relatifs à la vie privée a été menée
+
+Le BSIF entend résolument suivre les orientations fournies par le SCT dans son approche à l'égard de cette activité. En mai 2024, tous les responsables des Ressources humaines du gouvernement du Canada ont reçu une trousse technique sur le modèle hybride dans le cadre de l'Orientation concernant la présence prescrite au lieu de travail du SCT, laquelle comprenait des recommandations entourant la protection de la vie privée. Afin de se conformer aux orientations du SCT, une évaluation des facteurs relatifs à la vie privée (EFVP) sera menée, et des fichiers de renseignements personnels (FRP) autorisant la collecte de renseignements personnels à cette fin seront remplis. De surcroît, aux termes des orientations, il est obligatoire de soumettre l'EFVP au Commissariat à la protection de la vie privée (CPVP) et au SCT avant la date de lancement du 1er septembre, afin de permettre au CPVP d'examiner les questions liées à la mise en œuvre de cette activité et d'en discuter.
+
+### Complément d'information
+
+1. Le but de cette activité est de renforcer la conformité et la supervision en fournissant aux gestionnaires de personnes des rapports qui leur serviront d'outil supplémentaire – et non de source définitive – pour déterminer et valider les écarts entre le taux de présence au bureau et les exigences de présence sur place des employés qui relèvent d'eux.
+2. Selon l'approche proposée, les données sur la présence au bureau seront communiquées par l'intermédiaire d'un tableau de bord sécurisé. Les gestionnaires de personnes auront accès uniquement aux données des employés qui se trouvent sous eux dans l'organigramme (autrement dit, le surintendant aura accès aux données de l'ensemble des employés), et chaque employé pourra consulter ses propres données.
+
+Pour obtenir de plus amples renseignements sur cette EFVP, veuillez communiquer avec [Priv@osfi-bsif.gc.ca](mailto:Priv@osfi-bsif.gc.ca)
+
+## 2. Février 2024
+
+### Titre
+
+VidCruiter
+
+### Description du programme ou de l'activité
+
+La présente évaluation des facteurs relatifs à la vie privée porte sur l'outil tiers VidCruiter, utilisé aux fins de la dotation en personnel par le Bureau du surintendant des institutions financières.
+
+VidCruiter est une société canadienne qui offre un logiciel d'entrevue vidéo assorti d'options d'entrevue en direct et en différé. Le BSIF s'est procuré VidCruiter dans le but d'accroître l'efficacité de ses efforts de recrutement et de dotation au moyen du système de suivi des candidats, des évaluations virtuelles et des entrevues. Pendant la durée du contrat, un certain nombre d'employés chargés de la dotation au BSIF pourront utiliser l'outil VidCruiter pour réaliser des entrevues vidéo avec des candidats.
+
+### Motifs de la réalisation d'une évaluation des facteurs relatifs à la vie privée (EFVP)
+
+La Directive sur l'évaluation des facteurs relatifs à la vie privée oblige les institutions à effectuer une EFVP :
+
+* lorsque les renseignements personnels peuvent être utilisés dans le cadre d'un processus de prise de décision qui affecte directement la personne;
+* lorsque des changements importants sont apportés à des activités ou à des programmes existants dans le cadre desquels des renseignements personnels peuvent être utilisés à des fins administratives (c'est-à-dire dans le cadre d'un processus de prise de décision qui affecte directement la personne);
+* lorsque des changements importants sont apportés à des activités ou à des programmes existants à la suite de la sous-traitance ou du transfert de programmes ou d'activités à un autre palier de gouvernement ou au secteur privé.
+
+L'EFVP a pour but d'évaluer les risques d'atteinte à la vie privée que peuvent poser la collecte et l'utilisation de renseignements personnels au cours du recrutement et de l'embauche du personnel du BSIF lorsque l'outil VidCruiter est utilisé. Le BSIF est tenu de respecter la Directive sur l'évaluation des facteurs relatifs à la vie privée du Secrétariat du Conseil du Trésor (SCT), qui exige que les institutions fédérales cernent, évaluent et règlent de manière appropriée les incidences sur la vie privée avant la mise en œuvre d'une activité ou d'un programme nouveau ou ayant subi des modifications importantes comportant des renseignements personnels.
+
+### Renseignements supplémentaires
+
+1. Des renseignements personnels qui ne sont ni pertinents ni nécessaires aux fins du processus de dotation sont recueillis.
+2. Les données d'accès des utilisateurs sont compromises ou ne sont pas mises à jour régulièrement, ce qui entraîne un accès non autorisé ou une divulgation non autorisée.
+3. Le personnel qui participe au processus de dotation n'a pas reçu de formation adéquate sur la protection des renseignements personnels.
+4. Il existe un risque de sabotage (manipulation, vandalisme) et d'espionnage (piratage psychologique, écoute clandestine) si un utilisateur non autorisé parvient à accéder à VidCruiter en raison de piètres contrôles d'identité et d'autorisation.
+5. Il existe un risque de sabotage (manipulation, vandalisme) et d'espionnage (piratage psychologique, écoute clandestine) si un employé obtient un accès non autorisé parce que les contrôles techniques ou la documentation des processus devant empêcher les utilisateurs d'accéder à un processus de sélection auquel ils participent laissent à désirer.
+
+Pour obtenir de plus amples renseignements sur cette EFVP, veuillez communiquer avec [Priv@osfi-bsif.gc.ca](mailto:Priv@osfi-bsif.gc.ca)
+
+## 3. Juin 2023
+
+### Titre
+
+Initiative d'analytique des données du Bureau de la transformation
+
+### Description du programme ou de l'activité
+
+Le Bureau de la transformation (nouvelle fonction établie en avril 2022) est responsable des initiatives de transformation du BSIF dans le cadre du plan directeur et veille à ce qu'elles soient pleinement intégrées sur les plans opérationnel et stratégique. Pour ce faire, le Bureau de la transformation a besoin d'accéder à des données provenant de différents groupes fonctionnels du BSIF et de les transmettre. L'accès à ces données lui permettra d'en faire l'analyse afin d'éclairer la prise de décision et de suivre les progrès et le rythme de la transformation.
+
+### Motifs de la réalisation d'une évaluation des facteurs relatifs à la vie privée (EFVP)
+
+La Directive sur l'évaluation des facteurs relatifs à la vie privée oblige les institutions à effectuer une EFVP :
+
+* lorsque les renseignements personnels peuvent être utilisés dans le cadre d'un processus de prise de décision qui affecte directement la personne;
+* lorsque des changements importants sont apportés à des activités ou à des programmes existants dans le cadre desquels des renseignements personnels peuvent être utilisés à des fins administratives (c'est-à-dire dans le cadre d'un processus de prise de décision qui affecte directement la personne);
+* lorsque des changements importants sont apportés à des activités ou à des programmes existants à la suite de la sous-traitance ou du transfert de programmes ou d'activités à un autre palier de gouvernement ou au secteur privé.
+
+Étant donné que l'initiative prévoit la collecte et l'utilisation de renseignements personnels, le BSIF a décidé de confier à un expert-conseil indépendant la réalisation d'une EFVP afin de s'assurer que les risques en matière de protection de la vie privée soient pris en compte, analysés et atténués au besoin. Les renseignements personnels recueillis dans le cadre de l'initiative portent uniquement sur les employés du BSIF. Les renseignements recueillis ne serviront pas à prendre une décision administrative concernant une personne en particulier et ne seront utilisés que de manière agrégée pour rendre compte des progrès de la transformation et éclairer la prise de décision.
+
+### Renseignements supplémentaires
+
+Au moment de l'élaboration de la présente EFVP, aucun contrat ni accord de licence n'avait été conclu avec Voxco et, par conséquent, il n'a pas été possible d'examiner les mesures de protection de la vie privée et des renseignements personnels énoncées dans un tel document.
+
+1. L'équipe de l'Analytique de la transformation téléchargera les renseignements personnels dont la cote de sécurité maximale pourrait être Protégé A et qui seront liés aux opinions exprimées par les employés au moyen de l'outil de sondage Voxco. Une Liste de vérification des exigences relatives à la sécurité datée de 2017 a été remplie cette année-là, mais l'analyse n'a pas pris en compte le téléchargement des données démographiques des RH ni le lien avec les opinions exprimées par les employés au moyen de l'outil en ligne.
+2. Un examen de la version provisoire de l'énoncé de confidentialité qui fait partie des documents et du courriel qui seront envoyés au personnel (pour qu'il puisse accéder au questionnaire) a permis de constater que, dans sa version actuelle, l'énoncé de confidentialité ne contient pas tous les éléments exigés dans la Directive du SCT sur les pratiques relatives à la protection de la vie privée.
+3. À l'heure actuelle, il n'y a aucune entente d'échange de renseignements entre le Bureau de la transformation et les autres groupes fonctionnels qui fourniront les renseignements personnels au sujet des employés dans le cadre de l'initiative.
+4. L'équipe de l'Analytique de la transformation a commencé à rédiger des procédures internes afin de s'assurer que les renseignements personnels sont recueillis, utilisés et protégés de manière adéquate conformément à la Loi sur la protection des renseignements personnels et aux politiques et directives du SCT sur la protection de la vie privée.
+5. Au moment de l'élaboration de cette EFVP, les questionnaires dans l'outil Voxco n'étaient pas encore préparés et l'on ne savait pas dans quelle mesure les fonctionnalités et les caractéristiques de l'outil qui limitent la collecte de renseignements personnels seraient utilisées.
+
+Pour obtenir de plus amples renseignements sur cette EFVP, veuillez communiquer avec [Priv@osfi-bsif.gc.ca](mailto:Priv@osfi-bsif.gc.ca)
+
+## 4. Février 2022
+
+### Titre
+
+Processus de production des rapports confidentiels annuels
+
+### Description du programme ou de l'activité
+
+La Politique du BSIF sur les conflits d'intérêts (mars 2021) a été mise en œuvre en mars 2011 et mise à jour depuis. Elle a pour but de réduire les risques associés aux conflits d'intérêts afin de maintenir la confiance du public à l'égard de l'intégrité, de l'objectivité et de l'impartialité du BSIF dans le système financier, de même que son indépendance.
+
+Avant 2019, les employés transmettaient les rapports sur support papier ou par courriel. Les rapports et les pièces justificatives étaient transférés et sauvegardés dans le système eSpace du BSIF.
+
+Dans le cadre de la stratégie d'infonuagique, le BSIF utilise le processus de production des rapports confidentiels annuels (RCA) dans le cadre d'un projet pilote faisant appel au nuage informatique (Microsoft Azure).
+
+### Motifs de la réalisation d'une évaluation des facteurs relatifs à la vie privée (EFVP)
+
+Le BSIF a déterminé que, conformément au point 6.3.1 de la [Directive sur l'évaluation des facteurs relatifs à la vie privée](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=18308) du Secrétariat du Conseil du Trésor (SCT), il était nécessaire de réaliser une EFVP sur la collecte, l'utilisation, la communication, la protection, la conservation et la disposition des renseignements personnels obtenus au cours du processus (activité) de production de ses rapports confidentiels annuels au sein de la Division des ressources humaines.
+
+Les facteurs suivants ont motivé la réalisation de cette EFVP :
+
+* l'utilisation d'un système automatisé faisant appel à Power Automate (nouvelle application);
+* l'emplacement des renseignements personnels au repos, des ordinateurs locaux jusqu'au nuage (MS Azure);
+* les décisions prises au sujet des renseignements personnels fournis par le personnel au cours du processus de production des RCA.
+
+### Renseignements supplémentaires
+
+1. Il est entendu que le processus électronique et automatisé de production des RCA est un projet pilote et qu'il fera l'objet de mises à jour, de mises à niveau et de modifications continues. Au cours de l'évaluation, on a constaté que des fichiers PDF (soit des pièces jointes) étaient utilisés plutôt que les hyperliens. L'utilisation de PDF dans les courriels est reconnue comme un risque de divulgation accidentelle de renseignements personnels et, par conséquent, d'atteinte à la vie privée.
+2. Il est entendu que le processus électronique et automatisé de production des RCA est un projet pilote et qu'il fera l'objet de mises à jour, de mises à niveau et de modifications continues. Au cours de l'évaluation, on a constaté que dans le questionnaire, les choix étaient « Autre », de même que « Étudiants » et « Employés occasionnels ». Par la suite, on a précisé qu'« Autre » signifiait « Temps plein/Durée indéterminée ». Cependant, cela n'est pas clair dans le formulaire du RCA. De plus, on a remarqué que les exigences relatives aux RCA qui s'appliquent aux employés à temps plein/nommés pour une durée indéterminée diffèrent de celles qui s'appliquent aux étudiants, aux employés occasionnels et à ceux participant à un échange au BSIF (le cas échéant).
+
+Pour obtenir de plus amples renseignements sur cette EFVP, veuillez communiquer avec [Priv@osfi-bsif.gc.ca](mailto:Priv@osfi-bsif.gc.ca)
+
+## 5. Mai 2021
+
+### Titre
+
+Formation obligatoire de sensibilisation à la cybersécurité au moyen de Terranova
+
+### Description du programme ou de l'activité
+
+La présente évaluation des facteurs relatifs à la vie privée (EFVP) porte sur le déploiement d'une plateforme de formation sur la cybersécurité d'un tiers fournisseur, la manière dont la plateforme est utilisée par le Bureau du surintendant des institutions financières (BSIF) et le déploiement futur de micro-modules obligatoires.
+
+### Motifs de la réalisation d'une évaluation des facteurs relatifs à la vie privée (EFVP)
+
+Le BSIF a déterminé qu'une EFVP est nécessaire, conformément au point 6.3.1 de la Directive provisoire sur l'évaluation des facteurs relatifs à la vie privée du SCT, car les résultats de Terranova pourraient être utilisés dans divers aspects du programme des ressources humaines du Bureau. En d'autres termes, les résultats d'un employé ou son refus de suivre les micro-modules de formation obligatoire peuvent être pris en considération dans une décision administrative.
+
+### Renseignements supplémentaires
+
+1. Les employés risquent de ne pas être au courant de la nature obligatoire des cinq modules de formation ou de ne pas comprendre les conséquences du non-respect de leurs obligations. Ce risque se pose uniquement parce que le communiqué doit être diffusé sans délai – au moment du déploiement en avril 2021 ou au plus tard à l'été 2021.
+2. Les procédures du BSIF destinées aux experts-conseils risquent de ne pas être aussi bien définies que celles destinées aux employés. Au moment d'achever cette EFVP, les processus et procédures sur la façon de remédier à la non-conformité des experts-conseils en étaient aux premiers stades d'élaboration.
+3. L'accès des utilisateurs au rapport sur les résultats de Terranova créé par la Division de la cybersécurité et fourni à l'équipe de l'Apprentissage et du Perfectionnement risque de ne pas être contrôlé de manière adéquate, ce qui se traduirait par un accès plus vaste que ce qui est nécessaire ou par un stockage inapproprié du rapport. Un risque similaire se pose pour les rapports de non-conformité créés par l'équipe de l'Apprentissage et du Perfectionnement et fournis à la Division de la cybersécurité et aux gestionnaires concernés. Une conservation et un stockage inappropriés pourraient entraîner des atteintes à la vie privée. Une fois l'emplacement de stockage déterminé, probablement dans le système eSpace, la période de conservation sera sans doute définie, mais elle doit être validée.
+4. Étant donné que le processus de récupération des rapports et la création de plusieurs fichiers CSV sont nouveaux, de même que la fonction de chargement de renseignements HR Director pour les rapports Terranova, des renseignements inexacts risquent d'être transmis à HR Director.
+
+Pour obtenir de plus amples renseignements sur cette EFVP, veuillez communiquer avec [Priv@osfi-bsif.gc.ca](mailto:Priv@osfi-bsif.gc.ca)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2025-10-21

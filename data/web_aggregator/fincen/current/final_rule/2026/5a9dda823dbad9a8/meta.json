@@ -1,0 +1,24 @@
+{
+  "doc_id": "5a9dda823dbad9a8",
+  "regulator_id": "fincen",
+  "doc_type": "final_rule",
+  "title": "Special Measures | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-and-regulations/special-measures",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:378d943f460094d2a4741c6c4c2f418dae8735a6f6415ea156b516f3ff41e3ae",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/final_rule/2026/5a9dda823dbad9a8",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

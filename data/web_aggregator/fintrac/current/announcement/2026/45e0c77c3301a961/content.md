@@ -1,0 +1,63 @@
+# Pénalité administrative pécuniaire imposée à la Banque Toronto-Dominion
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du
+Canada](/intro-fra) (CANAFE)
+
+[**2024-05-02**]
+
+La Banque Toronto-Dominion, une banque dont le siège social est à Toronto, en Ontario, s’est vu imposer une pénalité administrative pécuniaire de 9 185 000 $ le 9 avril 2024, pour avoir commis 5 violations. Les violations ont été constatées dans le cadre d’un examen de conformité réalisé en 2023. Cette pénalité a été imposée pour des violations administratives commises par la banque en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et des règlements connexes, et non pour des infractions criminelles liées au recyclage des produits de la criminalité ou au financement des activités terroristes. La pénalité administrative pécuniaire a été payée au complet et les procédures ont pris fin.
+
+## Nature de la violation
+
+Violation no 1
+:   **Fait de ne pas déclarer des opérations financières effectuées dans le cadre de ses activités et à l’égard desquelles il y a des motifs raisonnables de soupçonner qu’elles sont liées à la perpétration, réelle ou tentée, d’une infraction de recyclage des produits de la criminalité ou de financement des activités terroristes, ce qui est contraire à l’article 7 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et au paragraphe 9(1) du Règlement sur la déclaration des opérations douteuses – recyclage des produits de la criminalité et financement des activités terroristes**
+      
+      
+    La Banque Toronto-Dominion a omis de soumettre 20 déclarations d’opérations douteuses (DOD) à l’égard des 178 dossiers examinés pour lesquels la banque avait des motifs raisonnables de soupçonner que les opérations étaient liées à la perpétration, réelle ou tentée, d’une infraction de recyclage des produits de la criminalité (communément appelé blanchiment d’argent [BA]) ou de financement des activités terroristes (FAT). L’examen de CANAFE de 2023 a soulevé d’autres lacunes graves dans l’application des processus d’enquête de l’unité canadienne de renseignements financiers de la Banque Toronto-Dominion.
+      
+      
+    Ces 20 cas incluent ce qui suit :
+
+    * Cas où la Banque Toronto-Dominion a mis fin à des relations d’affaires avec des clients à risque élevé qui dépassaient le niveau de tolérance au risque de BA/FAT de la banque et où des indicateurs de BA/FAT étaient présents dans les opérations des clients.
+    * Cas où la Banque Toronto-Dominion a reçu des ordonnances de communication visant ses clients ou était au courant de médias défavorables pertinents à l’égard de ses clients, et des indicateurs de BA/FAT étaient présent dans les opérations des clients.
+    * Cas où la Banque Toronto-Dominion a clos des enquêtes sans qu’il y ait eu un examen adéquat des activités des clients par rapport aux indicateurs de BA/FAT, comme ne pas valider certains renseignements utilisés pour justifier la clôture de l’enquête, ou ne pas obtenir de renseignements supplémentaires pour informer sa compréhension de la nature et de l’objet des opérations ou de l’origine des fonds.
+
+Violation no 2
+:   **Fait de ne pas évaluer les risques de blanchiment d’argent et de financement des activités terroristes visés au paragraphe 9.6(2) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et de ne pas conserver les documents à l’appui en tenant compte des critères prévus par règlement, ce qui est contraire à l’alinéa 156(1)c) et au paragraphe 156(2) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+      
+      
+    L’examen de CANAFE de 2023 a soulevé des lacunes dans les processus et les contrôles mis en place par la Banque Toronto-Dominion pour l’évaluation des risques des clients. L’examen a déterminé que la Banque Toronto-Dominion n’avait pas effectué une surveillance appropriée de ses solutions d’évaluation de la cote de risque des clients ni de l’efficacité des mesures provisoires mises en place pour l’identification des clients à risque élevé lors de la transition de la Banque Toronto-Dominion vers une nouvelle solution d’évaluation de la cote de risque des clients. Par conséquent, la Banque Toronto-Dominion n’avait pas identifié de manière efficace l’ensemble de sa population de clients à risque élevé, ce qui l’a exposée à des risques de BA/FAT non atténués.
+      
+      
+    Plus précisément, au cours de la période d’examen allant du 1er mars 2022 au 31 mars 2023, CANAFE a identifié 96 clients qui n’étaient pas enregistrés dans le programme de clients à risque élevé de la Banque Toronto-Dominion. De plus, CANAFE a déterminé que la Banque Toronto-Dominion ne s’était pas assuré que ses procédures et directives relatives aux exclusions de clients à risque élevé soient alignées sur les Normes de la Banque Toronto-Dominion, ce qui pourrait avoir un impact sur certains segments de clients à risque élevé.
+
+Violation no 3
+:   **Fait de ne pas prendre les mesures spéciales prévues lorsque l’entité déclarante considère que les risques visés au paragraphe 9.6(2) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes sont élevés, ce qui est contraire au paragraphe 9.6(3) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et à l’article 157 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement)**
+      
+      
+    Puisque des clients n’ont pas été identifiés par la Banque Toronto-Dominion comme étant des clients à risque élevé (voir la violation no 2), l’examen de CANAFE a déterminé que 85 clients n’avaient pas fait l’objet de mesures spéciales comme exigées par le Règlement.
+      
+      
+    Plus particulièrement, CANAFE s’est penché sur un échantillon de 12 dossiers d’un groupe de ces clients et a déterminé que la Banque Toronto-Dominion n’avait pas pris de mesures spéciales dans aucun des cas. De plus, CANAFE a déterminé que la Banque Toronto-Dominion n’avait pas appliqué ses mesures de diligence accrues à l’égard d’au moins 11 clients ce qui est contraire à une Directive ministérielle et aux politiques et procédures de la Banque Toronto-Dominion. Enfin, CANAFE a identifié un exemple où un étranger politiquement vulnérable avait pu effectuer des opérations pendant plus de deux ans sans que la banque n’obtienne les détails requis du client, y compris des renseignements sur l’origine des fonds, l’origine de la richesse, et la nature et l’objet des opérations.
+
+Violation no 4
+:   **Fait de ne pas effectuer un contrôle continu périodique de ses relations d’affaires, compte tenu de l’évaluation des risques prévue au paragraphe 9.6(2) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes mené conformément au paragraphe 156(1)c) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, ce qui est contraire à l’article 123.1 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes** 
+      
+      
+    L’examen de CANAFE a identifié 96 cas (voir la violation no 2) où la Banque Toronto-Dominion n’avait pas réévalué la cote de risque de clients, et par conséquent n’avait pas effectué un examen des activités de comptes pour déterminer si les renseignements obtenus à l’égard du client correspondaient à l’évaluation des risques du client, comme requis par les exigences en matière de contrôle continu prévues par la Loi et les règlements connexes.
+      
+      
+    L’examen de CANAFE a identifié 20 cas supplémentaires où la Banque Toronto-Dominion n’avait pas adéquatement examiné les activités de clients pour déterminer si les opérations ou les activités correspondent aux renseignements obtenus à l’égard du client, contrairement aux exigences de contrôle continu.
+
+Violation no 5
+:   **Fait de ne pas tenir un document dans lequel sont consignés les mesures prises et les renseignements obtenus dans le cadre du contrôle continu de ses relations d’affaires, ce qui est contraire à l’article 6 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et au paragraphe 146(1) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes** 
+      
+      
+    Puisque des clients n’ont pas été identifiés par la Banque Toronto-Dominion comme étant des clients à risque élevé (voir la violation no 2), CANAFE a soulevé 96 cas où la Banque Toronto-Dominion n’avait pas respecté l’exigence relative à la tenue d’un document dans lequel sont consigné les mesures prises où les renseignements obtenus dans le cadre du contrôle continu accru de clients à risque élevé, comme exigé en vertu de la Loi et des règlements connexes.
+
+## Lien connexe
+
+* [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire la Banque Toronto-Dominion](/new-neuf/nr/2024-05-02-fra)
+
+Date de modification :
+:   2024-05-02

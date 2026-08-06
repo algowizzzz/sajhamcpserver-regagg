@@ -1,0 +1,3597 @@
+255 Albert Street 
+Ottawa, Canada  
+K1A 0H2  
+www.osfi-bsif.gc.ca 
+ 
+ 
+ 
+ 
+ 
+Guideline 
+ 
+Subject: Mortgage Insurer Capital Adequacy Test 
+   
+No:  A   Effective Date: January 1, 2025 
+ 
+Subsection 515(1) of the Insurance Companies Act (ICA) requires Federally Regulated Property 
+and Casualty Insurance Companies (property and casualty companies) to maintain adequate 
+capital. Under the provisions of the ICA, mortgage insurance companies (insurers) are 
+considered to be property and casualty companies. The Mortgage Insurer Capital Adequacy Test 
+(MICAT) Guideline is not made pursuant to subsections 515(2) of the ICA. However, the 
+minimum and supervisory target capital standards set out in this guideline provide the framework 
+within which the Superintendent assesses whether an insurer maintains adequate capital pursuant 
+to subsection 515(1). Notwithstanding that an insurer may meet these standards, the 
+Superintendent may direct the insurer to increase its capital under subsection 515(3). 
+ 
+This guideline outlines the capital framework, using a risk-based formula, for target and 
+minimum capital required, and defines the capital that is available to meet the minimum 
+standard. The MICAT determines the minimum capital required and not the level of capital 
+required at which insurers must operate.
+
+MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 2 
+ 
+ 
+Table of Contents 
+  
+ Page 
+Chapter 1.  Overview and General Requirements.......................................................3 
+1.1.  Overview ................................................................................................................3 
+1.2.  General Requirements ............................................................................................5 
+Chapter 2.  Definition of Capital Available ..................................................................7 
+2.1.  Summary of Capital Components ..........................................................................7 
+2.2.  Capital Composition Limits .................................................................................16 
+2.3.  Regulatory Adjustments to Capital Available ......................................................16 
+2.4.  Capital Treatment of Interests in and Loans to Subsidiaries, Associates and Joint 
+Ventures ................................................................................................................19 
+Appendix 2-A: Information Requirements for Capital Confirmations ........................21 
+Chapter 3.  Insurance Risk ..........................................................................................23 
+3.1. Residential exposures ...........................................................................................23 
+3.2 Multi-unit Residential exposures ..........................................................................31 
+3.3 Additional policy provisions ................................................................................38 
+Appendix 3-A. Determining supplementary capital requirement indicators ...............39 
+Chapter 4.  Credit Risk ................................................................................................46 
+4.1.  Capital Requirements for Balance Sheet Assets ..................................................46 
+4.2.  Capital Requirements for Off-Balance Sheet Exposures .....................................53 
+4.3.  Capital Treatment of Collateral and Guarantees ..................................................58 
+Chapter 5.  Market Risk...............................................................................................62 
+5.1.  Interest Rate Risk .................................................................................................62 
+5.2.  Foreign Exchange Risk.........................................................................................67 
+5.3.  Equity Risk ...........................................................................................................71 
+5.4.  Real Estate Risk ....................................................................................................74 
+5.5. Other Market Risk Exposures ...............................................................................75 
+Chapter 6.  Operational Risk .......................................................................................76
+
+Chapter 1. Overview and General Requirements 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 3 
+ 
+Chapter 1.  Overview and General Requirements 
+ 
+The Mortgage Insurer Capital Adequacy Test (MICAT) Guideline applies to Canadian mortgage 
+insurance companies (insurers). 
+ 
+This chapter provides an overview of the MICAT Guideline and sets out general requirements. 
+More detailed information on specific components of the capital test is contained under 
+subsequent chapters. 
+ 
+Further guidance concerning some of the requirements of the MICAT Guideline may be found in 
+other guidelines and advisories available on OSFI’s website. 
+• Table of OSFI Guidelines 
+• Regulatory and Legislative Advisories 
+ 
+1.1.  Overview 
+ 
+1.1.1. Minimum and target capital requirements under the MICAT 
+ 
+Insurers’ capital requirements are set at a supervisory target level that, based on expert judgment, 
+aims to align with a conditional tail expectation (CTE) of 99% over a one-year time horizon 
+including a terminal provision. 
+ 
+The formulas and risk factors defined in this guideline are used to compute capital requirements 
+at the supervisory target level. The capital requirements at the supervisory target level are 
+divided by 1.5 to derive the minimum capital requirements.  
+ 
+1.1.2. Risk-based capital adequacy  
+ 
+Insurers are required to meet the MICAT capital requirements at all times. The definition of 
+capital available to be used for this purpose is described in chapter 2 and includes qualifying 
+criteria for capital instruments, capital composition limits, and regulatory adjustments and 
+deductions. The definition encompasses capital available within all subsidiaries that are 
+consolidated for the purpose of calculating the capital ratio.  
+ 
+Insurers’ minimum capital requirements are calculated on a consolidated basis and determined as 
+the sum of the capital requirements at the supervisory target level for each risk component, 
+divided by 1.5. 
+ 
+The capital requirements at the supervisory target level are calculated as follows: 
+Sum of capital required for: 
+i.) Insurance risk (reference chapter 3): 
+a. Residential exposures; 
+b. Multi-unit residential exposures.
+
+Chapter 1. Overview and General Requirements 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 4 
+ 
+ii.) Credit risk1 (reference chapter 4): 
+a. Counterparty default risk for balance sheet assets; 
+b. Counterparty default risk for off-balance sheet exposures; 
+iii.) Market risk (reference chapter 5): 
+a. Interest rate risk; 
+b. Foreign exchange risk; 
+c. Equity risk; 
+d. Real estate risk; 
+e. Other market risk exposures. 
+iv.) Operational risk (reference chapter 6). 
+ 
+The MICAT does not include capital requirements or credit for reinsurance. Any mortgage 
+insurer that is considering entering into a reinsurance agreement should contact OSFI for capital 
+guidance. 
+ 
+1.1.3. Scope of consolidation 
+ 
+The capital adequacy requirements apply on a consolidated basis. The consolidated entity 
+includes the insurer and all of its directly or indirectly held subsidiaries, which carry on business 
+that the parent could carry on directly in accordance with the Insurance Companies Act (ICA), 
+including holding companies. It therefore excludes: 
+• life insurance subsidiaries, 
+• other regulated financial institutions carrying on business that the parent would not be 
+permitted to carry on directly under the Insurance Companies Act (ICA).  
+ 
+Whether a subsidiary should be consolidated is determined by the nature of the subsidiary’s 
+business (i.e. whether it carries on business related to mortgage insurance), not the location 
+where the subsidiary conducts its business. All other interests in subsidiaries are considered 
+“non-qualifying” for capital purposes and are excluded from capital available and capital 
+required calculations.  
+ 
+1.1.4. Interpretation of results 
+ 
+The MICAT is a standardized measure of capital adequacy of an insurer. It is one of several 
+indicators that OSFI uses to assess an insurer’s financial condition and should not be used in 
+isolation for ranking and rating insurers. 
+ 
+ 
+1  In the context of this guideline credit risk refers to any default risk as defined in chapter 4 other than the 
+borrower default risk associated with mortgage insurance which is covered in chapter 3, Insurance Risk.
+
+Chapter 1. Overview and General Requirements 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 5 
+ 
+1.2.  General Requirements 
+ 
+1.2.1.  MICAT supervisory capital ratio for federally regulated mortgage insurers 
+ 
+The MICAT ratio is expressed as a percentage and is calculated by dividing the insurer's capital 
+available by minimum capital required, which is derived from capital required calculated at the 
+target level for specific risks. 
+ 
+Federally regulated insurers are required, at a minimum, to maintain a MICAT ratio of 100%. 
+OSFI has established an industry-wide supervisory target capital ratio (supervisory target) of 
+150% that provides a cushion above the minimum requirement and facilitates OSFI’s early 
+intervention process. The supervisory target provides additional capacity to absorb unexpected 
+losses and addresses capital needs through on-going market access. 
+ 
+OSFI expects each insurer to establish an internal target capital ratio (internal target) per 
+Guideline A-4 Regulatory Capital and Internal Capital Targets, and maintain on-going capital, 
+above this target. However, the Superintendent may, on a case-by-case basis, establish an 
+alternative supervisory target (in consultation with an insurer) based upon the insurer’s 
+individual risk profile. 
+ 
+Insurers are required to inform OSFI immediately if they anticipate falling below their internal 
+target and to lay out their plans, for OSFI’s supervisory approval, to return to their internal 
+target. OSFI will consider any unusual conditions in the market environment when evaluating 
+insurers’ performance against their internal targets. 
+ 
+Insurers are expected to maintain their MICAT ratios at or above their established internal targets 
+on a continuous basis. Questions about an individual insurer’s target ratio should be addressed to 
+the Lead Supervisor at OSFI. 
+ 
+1.2.2. Authorized official attestation 
+ 
+Each mortgage insurer is required to have an authorized Officer endorse the following statement 
+on the MICAT Quarterly Return: 
+ 
+"I confirm that I have read the Mortgage Insurer Capital Adequacy Test guideline and 
+related instructions issued by the Office of the Superintendent of Financial Institutions 
+and that this form is completed in accordance with them." 
+ 
+The Officer attesting to the validity of this statement on the MICAT Quarterly Return at year-end 
+must be different from the insurer's Appointed Actuary. 
+ 
+1.2.3. Audit requirement 
+ 
+Insurers are required to engage their auditor appointed pursuant to section 337 of the ICA to 
+report annually on the MICAT prepared as at fiscal year-end, in accordance with the relevant
+
+Chapter 1. Overview and General Requirements 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 6 
+ 
+standards for such assurance engagements, as promulgated by the Canadian Auditing and 
+Assurance Standards Board (AASB). 
+ 
+The annual audit report of the MICAT must be prepared separately from the audit report for the 
+financial statements, and is to be filed no later than 90 days after the insurers’ fiscal year-end. 
+The annual audit opinion provided must be with respect to the current fiscal year-end, for page 
+10.10 of the insurers’ quarterly return.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 7 
+ 
+Chapter 2.  Definition of Capital Available 
+ 
+This chapter establishes requirements for the adequacy and appropriateness of capital resources 
+used to meet capital requirements, having regard to their ability to meet insurers’ obligations to 
+policyholders and creditors and to absorb losses in periods of stress. This includes the 
+determination of the criteria for assessing the quality of capital components for inclusion in 
+capital available and the composition of capital available for regulatory purposes, focusing on the 
+predominance of highest quality capital. 
+ 
+2.1.  Summary of Capital Components 
+ 
+The four primary considerations for defining the capital available of a company for the purpose 
+of measuring capital adequacy are: 
+• availability: the extent to which the capital element is fully paid in and available to 
+absorb losses; 
+• permanence: the period for, and extent to which, the capital element is available; 
+• absence of encumbrances and mandatory servicing costs: the extent to which the capital 
+element is free from mandatory payments or encumbrances; and 
+• subordination: the extent to which and the circumstances under which the capital element 
+is subordinated to the rights of policyholders and creditors of the insurer in an insolvency 
+or winding-up. 
+ 
+Regulatory capital available will consist of the sum of the following components: common 
+equity or category A capital, category B capital, and category C capital.  
+ 
+2.1.1. Category A capital (i.e. common equity )  
+ 
+• Common shares issued by the insurer that meet the category A qualifying criteria as 
+described below; 
+• Surplus (share premium) resulting from the issuance of instruments included in common 
+equity capital and other contributed surplus2; 
+• Retained earnings; 
+• General contingency reserves; and 
+• Accumulated other comprehensive income. 
+ 
+Retained earnings and accumulated other comprehensive income include interim profit or loss. 
+Dividends are removed from capital available in accordance with applicable accounting 
+standards. 
+  
+ 
+2  Where repayment is subject to Superintendent’s approval.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 8 
+ 
+2.1.1.1. Qualifying criteria for inclusion of capital instruments in category A for regulatory 
+capital purposes3  
+ 
+For an instrument to be included in capital available under category A, it must meet all of the 
+following criteria: 
+1. Represents the most subordinated claim in liquidation of the insurer. 
+2. The investor is entitled to a claim on the residual assets that is proportional with its share 
+of issued capital, after all senior claims have been paid in liquidation (i.e. has an 
+unlimited and variable claim, not a fixed or capped claim). 
+3. The principal is perpetual and never repaid outside of liquidation (setting aside 
+discretionary repurchases or other means of effectively reducing capital in a discretionary 
+manner that is allowable under relevant law and subject to the prior approval of the 
+Superintendent). 
+4. The insurer does not, in the sale or marketing of the instrument, create an expectation at 
+issuance that the instrument will be bought back, redeemed or cancelled, nor do the 
+statutory or contractual terms provide any feature that might give rise to such expectation. 
+5. Distributions are paid out of distributable items (retained earnings included). The level of 
+distributions is not in any way tied or linked to the amount paid in at issuance and is not 
+subject to a contractual cap (except to the extent that an insurer is unable to pay 
+distributions that exceed the level of distributable items or to the extent that distribution 
+on senior ranking capital must be paid first). 
+6. There are no circumstances under which the distributions are obligatory. Non-payment is, 
+therefore, not an event of default. 
+7. Distributions are paid only after all legal and contractual obligations have been met and 
+payments on more senior capital instruments have been made. This means that there are 
+no preferential distributions, including in respect of other elements classified as the 
+highest quality issued capital. 
+8. It is in the form of issued capital that takes the first and proportionately greatest share of 
+any losses as they occur. Within the highest quality capital, each instrument absorbs 
+losses on a going concern basis proportionately and pari passu with all the others. 
+9. The paid-in amount is recognized as equity capital (i.e. not recognized as a liability) for 
+determining balance sheet solvency. 
+ 
+3  The criteria also apply to non-joint stock companies, taking into account their specific constitution and legal 
+structure. The application of the criteria should preserve the quality of the instruments by requiring that they are 
+deemed fully equivalent to common shares in terms of their capital quality as regards loss absorption and do not 
+possess features that could cause the condition of the insurer to be weakened as a going concern during periods of 
+market stress.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 9 
+ 
+10. It is directly issued and paid-in4 and the insurer cannot directly or indirectly have funded 
+the purchase of the instrument. Where the consideration for the shares is other than cash, 
+the issuance of the common shares is subject to the prior approval of the Superintendent. 
+11. The paid-in amount is neither secured nor covered by a guarantee of the issuer or related 
+entity5 or subject to any other arrangement that legally or economically enhances the 
+seniority of the claim. 
+12. It is only issued with the approval of the owners of the issuing insurer, either given 
+directly by the owners or, if permitted by applicable law, given by the Board of Directors 
+or by other persons duly authorized by the owners. 
+13. It is clearly and separately disclosed on the insurer’s balance sheet, prepared in 
+accordance with the relevant accounting standards. 
+ 
+2.1.2. Category B capital 
+ 
+• Instruments issued by the institution that meet category B criteria and do not meet the 
+criteria for classification as category A, subject to applicable limits; 
+• Surplus (share premium) resulting from the issuance of instruments meeting category B 
+criteria. 
+2.1.2.1 Qualifying criteria for inclusion of capital instruments in category B for regulatory 
+capital purposes  
+ 
+For an instrument to be included in capital available under category B, it must meet all of the 
+following criteria: 
+1. Issued and paid-in in cash or, subject to the prior approval of the Superintendent, in 
+property. 
+2. Subordinated to policyholders, general creditors and subordinated debt holders of the 
+insurer. 
+3. Is neither secured nor covered by a guarantee of the issuer or related entity or other 
+arrangement that legally or economically enhances the seniority of the claim vis-à-vis 
+policyholders and creditors.6 
+ 
+4  Paid-in capital generally refers to capital that has been received with finality by the institution, is reliably valued, 
+fully under the institution’s control and does not directly or indirectly expose the institution to the credit risk of 
+the investor. 
+5  A related entity can include a parent company, a sister company, a subsidiary or any other affiliate. A holding 
+company is a related entity irrespective of whether it forms part of the consolidated insurance group.  
+6  Further, where an institution uses a special purpose vehicle to issue capital to investors and provides support, 
+including overcollateralization, to the vehicle, such support would constitute enhancement in breach of criterion 
+#3 above.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 10 
+ 
+4. Is perpetual, i.e. there is no maturity date and there are no step-ups7 or other incentives to 
+redeem8 
+5. May be callable at the initiative of the issuer only after a minimum of five years: 
+a. To exercise a call option, an insurer must receive prior approval of the 
+Superintendent; and 
+b. An insurer’s actions and the terms of the instrument must not create an 
+expectation that the call will be exercised; and 
+c. An insurer must not exercise a call unless: 
+i. It replaces the called instrument with capital of the same or better quality, 
+including through an increase in retained earnings, and the replacement of 
+this capital is done at conditions that are sustainable for the income 
+capacity of the insurer9; or 
+ii. The insurer demonstrates that its capital position is well above the 
+supervisory target capital requirements after the call option is exercised. 
+6. Any repayment of principal (e.g. through repurchase or redemption) must require 
+approval of the Superintendent and insurers should not assume or create market 
+expectations that such approval will be given. 
+7. Dividend/coupon discretion: 
+a. the insurer must have full discretion at all times to cancel 
+distributions/payments;10 
+b. cancellation of discretionary payments must not be an event of default or credit 
+event; 
+c. insurers must have full access to cancelled payments to meet obligations as they 
+fall due; 
+d. cancellation of distributions/payments must not impose restrictions on the insurer 
+except in relation to distributions to common shareholders. 
+8. Dividends/coupons must be paid out of distributable items. 
+ 
+7  A step-up is defined as a call option combined with a pre-set increase in the initial credit spread of the instrument 
+at a future date over the initial dividend (or distribution) rate after taking into account any swap spread between 
+the original reference index and the new reference index. Conversion from a fixed rate to a floating rate (or vice 
+versa) in combination with a call option without any increase in credit spread would not constitute a step -up. 
+8  Other incentives to redeem include a call option combined with a requirement or an investor option to c onvert 
+the instrument into common shares if the call is not exercised. 
+9  Replacement issuances can be concurrent with, but not after, the instrument is called.  
+10  A consequence of full discretion at all times to cancel distributions/payments is that “divi dend pushers” are 
+prohibited. An instrument with a dividend pusher obliges the issuing insurer to make a dividend/coupon payment 
+on the instrument if it has made a payment on another (typically more junior) capital instrument or share. This 
+obligation is inconsistent with the requirement for full discretion at all times. Furthermore, the term “cancel 
+distributions/payments” means to forever extinguish these payments. It does not permit features that require the 
+insurer to make distributions/payments in kind at any time.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 11 
+ 
+9. The instrument cannot have a credit sensitive dividend feature, i.e., a dividend/coupon 
+that is reset periodically based in whole or in part on the insurance organization’s credit 
+standing.11 
+10. The instrument cannot contribute to liabilities exceeding assets if such a balance sheet 
+test forms part of national insolvency law. 
+11. Other than preferred shares, category B instruments included in capital available must be 
+classified as equity per relevant accounting standards. 
+12. Neither the insurer nor a related party over which the insurer exercises control or 
+significant influence can have purchased the instrument, nor can the insurer directly or 
+indirectly have funded the purchase of the instrument. 
+13. The instruments cannot have any features that hinder recapitalization, such as provisions 
+that require the issuer to compensate investors if a new instrument is issued at a lower 
+price during a specified timeframe. 
+14. If the instrument is not issued directly by the insurer (e.g. it is issued out of a special 
+purpose vehicle or SPV), proceeds must be available immediately without limitation to an 
+insurer in a form that meets or exceeds all of the other criteria for inclusion in capital 
+available as specified under category B. For greater certainty, the only assets the SPV 
+may hold are intercompany instruments issued by the insurer or a related entity with 
+terms and conditions that meet or exceed criteria specified under category B. Put 
+differently, instruments issued to the SPV have to fully meet or exceed all of the 
+eligibility criteria under category B as if the SPV itself was an end investor – i.e. the 
+insurer cannot issue a lower quality capital or senior debt instrument to an SPV and have 
+the SPV issue higher quality capital instruments to third-party investors so as to receive 
+recognition as qualifying capital under category B.  
+ 
+Purchase for cancellation of Category B capital instruments is permitted at any time with the 
+prior approval of the Superintendent. For further clarity, a purchase for cancellation does not 
+constitute a call option as described in the above Category B qualifying criteria. 
+ 
+Tax and regulatory event calls are permitted during an instrument’s life subject to the prior 
+approval of the Superintendent and provided the insurer was not in a position to anticipate such 
+an event at the time of issuance. 
+ 
+Dividend stopper arrangements that stop payments on common shares or Category B instruments 
+are permissible provided the stopper does not impede the full discretion the insurer must have at 
+all times to cancel distributions or dividends on the Category B instrument, nor must it act in a 
+way that could hinder the recapitalization of the institution pursuant to criterion number 13 
+above. For example, it would not be permitted for a stopper on a Category B instrument to: 
+ 
+11  Institutions may use a broad index as a reference rate in which the issuing institution is a reference entity; 
+however, the reference rate should not exhibit significant correlation with the institution’s credit standing. If an 
+institution plans to issue capital instruments where the margin is linked to a broad index in which the institution 
+is a reference entity, the institution should ensure that the dividend/coupon is not credit -sensitive.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 12 
+ 
+• attempt to stop payment on another instrument where the payments on the other 
+instrument were not also fully discretionary; 
+• prevent distributions to shareholders for a period that extends beyond the point in time 
+that dividends or distributions on the Category B instrument are resumed; 
+• impede the normal operation of the institution or any restructuring activity, including 
+acquisitions or disposals.  
+ 
+A dividend stopper may also act to prohibit actions that are equivalent to the payment of a 
+dividend, such as the insurer undertaking discretionary share buybacks. 
+ 
+Where an amendment or variance of a Category B instrument’s terms and conditions affects its 
+recognition as regulatory capital, such amendment or variance will only be permitted with the 
+prior approval of the Superintendent.12 
+ 
+Insurers are permitted to “re-open” offerings of capital instruments to increase the principal 
+amount of the original issuance provided that call options will only be exercised, with the prior 
+approval of the Superintendent, on or after the fifth anniversary of the closing date of the latest 
+re-opened tranche of securities. 
+ 
+Defeasance options may only be exercised on or after the fifth anniversary of the closing date 
+with the prior approval of the Superintendent.  
+ 
+2.1.3. Category C capital 
+ 
+• Instruments issued by the institution that meet category C criteria, but do not meet the 
+category A or B criteria, subject to an applicable limit; 
+• Surplus (share premium) resulting from the issuance of instruments meeting the category 
+C criteria. 
+ 
+2.1.3.1. Qualifying criteria for inclusion of capital instruments in Category C for regulatory 
+capital purposes 
+ 
+For an instrument to be included in capital available under category C, it must meet all of the 
+following criteria: 
+1. Issued and paid-in in cash or, with the prior approval of the Superintendent, in property. 
+2. Subordinated to policyholders and general creditors of the insurer. 
+3. Is neither secured nor covered by a guarantee of the issuer or related entity or other 
+arrangement that legally or economically enhances the seniority of the claim vis-à-vis the 
+insurer’s policyholders and/or general creditors. 
+ 
+12  Any modification of, addition to, or renewal or extension of an instrument issued to a related party is subject to  
+the legislative requirement that transactions with a related party be at terms and conditions that are at least as 
+favourable to the institution as market terms and conditions.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 13 
+ 
+4. Maturity: 
+a. minimum original maturity of at least five years; 
+b. recognition in regulatory capital in the remaining five years before maturity will 
+be amortized on a straight line basis; 
+c. there are no step-ups13 or other incentives to redeem. 
+5. May be callable at the initiative of the issuer only after a minimum of five years: 
+a. To exercise a call option, an insurer must receive the prior approval of the 
+Superintendent; and 
+b. An insurer must not do anything that creates an expectation that the call will be 
+exercised;14 and 
+c. An insurer must not exercise a call unless: 
+i. It replaces the called instrument with capital of the same or better quality, 
+including through an increase in retained earnings, and the replacement of 
+this capital is done at conditions that are sustainable for the income 
+capacity of the insurer;15 or 
+ii. The insurer demonstrates that its capital position is well above the 
+supervisory target capital requirements after the call option is exercised. 
+6. The investor must have no rights to accelerate the repayment of future scheduled 
+payments (interest or principal), except in bankruptcy, insolvency, wind-up, or 
+liquidation. 
+7. The instrument cannot have a credit sensitive dividend feature, i.e. a dividend/coupon 
+that is reset periodically based in whole or in part on the insurer’s credit standing16. 
+8. Neither the insurer nor a related party over which the insurer exercises control or 
+significant influence can have purchased the instrument, nor can the insurer directly or 
+indirectly have funded the purchase of the instrument. 
+9. If the instrument is not issued directly by the insurer (e.g. it is issued out of an SPV), 
+proceeds must be available immediately without limitation to the insurer in a form that 
+meets or exceeds all of the criteria for inclusion specified under category C. For greater 
+certainty, the only assets the SPV may hold are intercompany instruments issued by the 
+institution or a related entity with terms and conditions that meet or exceed the above 
+ 
+13 A step-up is defined as a call option combined with a pre-set increase in the initial credit spread of the instrument 
+at a future date over the initial dividend (or distribution) rate after taking into account any swap spread between 
+the original reference index and the new reference index. Conversion from a fixed rate to a floating rate (or vice 
+versa) in combination with a call option without any increase in credit spread would not constitute a step -up. 
+14 An option to call the instrument after five years but prior to the start of the amortisation period will not be 
+viewed as an incentive to redeem as long as the insurer does not do anything that creates an expectation that the 
+call will be exercised at this point. 
+15 Replacement issuances can be concurrent with but not after the instrument is called. 
+16  Insurers may use a broad index as a reference rate in which the issuing insurer is a reference entity; however, the 
+reference rate should not exhibit significant correlation with the insurer’s credit standing. If  an insurer plans to 
+issue capital instruments where the margin is linked to a broad index in which the insurer is a reference entity, 
+the insurer should ensure that the dividend/coupon is not credit-sensitive.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 14 
+ 
+category C criteria. Put differently, instruments issued to the SPV have to fully meet or 
+exceed all of the eligibility criteria under category C as if the SPV itself was an end 
+investor – i.e. the institution cannot issue a lower capital or a senior debt instrument to an 
+SPV and have the SPV issue higher quality capital instruments to third-party investors so 
+as to receive recognition as qualifying capital under category C.  
+ 
+Category C capital instruments must not contain restrictive covenants or default clauses that 
+would allow the holder to trigger acceleration of repayment in circumstances other than the 
+insolvency, bankruptcy or winding-up of the issuer. 
+ 
+Purchase for cancellation of category C instruments is permitted at any time with the prior 
+approval of the Superintendent. For further clarity, a purchase for cancellation does not 
+constitute a call option as described in the above Category C criteria. 
+ 
+Tax and regulatory event calls are permitted during an instrument’s life subject to the prior 
+approval of the Superintendent and provided the insurer was not in a position to anticipate such 
+an event at the time of issuance. 
+ 
+Where an amendment or variance of a Category C instrument’s terms and conditions affects its 
+recognition as regulatory capital, such amendment or variance will only be permitted with the 
+prior approval of the Superintendent17. 
+ 
+Institutions are permitted to “re-open” offerings of capital instruments to increase the principal 
+amount of the original issuance provided that call options will only be exercised, with the prior 
+approval of the Superintendent, on or after the fifth anniversary of the closing date of the latest 
+re-opened tranche of securities. 
+ 
+Defeasance options may only be exercised on or after the fifth anniversary of the closing date 
+with the prior approval of the Superintendent.  
+ 
+2.1.3.2.  Amortization 
+ 
+Category C capital instruments are subject to straight-line amortization in the final five years 
+prior to maturity. Hence, as these instruments approach maturity, redemption or retraction, such 
+outstanding balances are to be amortized based on the following schedule: 
+ 
+Amortization Schedule 
+ 
+ 
+17  Any modification of, addition to, or renewal or extension of an instrument issued to a related party is subject to 
+the legislative requirement that transactions with a related party be at terms and conditions that are at least as 
+favourable to the institution as market terms and conditions.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 15 
+ 
+Years to Maturity Included in Capital 
+5 years or more 100% 
+4 years and less than 5 years 80% 
+3 years and less than 4 years 60% 
+2 years and less than 3 years 40% 
+1 year and less than 2 years 20% 
+Less than 1 year 0% 
+ 
+For instruments issued prior to January 1, 2015, where the terms of the instrument include a 
+redemption option that is not subject to prior approval of the Superintendent and/or holders’ 
+retraction rights, amortization should begin five years prior to the effective dates governing such 
+options. For example, a 20-year debenture that can be redeemed at the insurer’s option at any 
+time on or after the first 10 years would be subject to amortization commencing in year 5. 
+Further, where a subordinated debt was redeemable at the insurer’s option at any time without 
+the prior approval of the Superintendent, the instrument would be subject to amortization from 
+the date of issuance. For greater certainty, this would not apply when redemption requires the 
+Superintendent's approval as is required for all instruments issued pursuant to the above criteria 
+in section 2.1.3.1. 
+ 
+Amortization should be computed at the end of each fiscal quarter based on the "years to 
+maturity" schedule above. Thus, amortization would begin during the first quarter that ends 
+within five calendar years to maturity. For example, if an instrument matures on 
+October 15, 2020, 20% amortization of the issue would occur on October 16, 2015 and be 
+reflected in the December 31, 2015 regulatory return. An additional 20% amortization would be 
+reflected in each subsequent December 31 return. 
+ 
+2.1.4. Non-controlling interests 
+ 
+Insurers are permitted to include, in capital available, non-controlling interests in operating 
+consolidated subsidiaries, provided: 
+i. the capital instruments meet the qualifying criteria under category A, B and C;  
+ii. the capital in the subsidiary is not excessive in relation to the amount necessary to carry 
+on the subsidiary’s business; and  
+iii. the level of capitalization of the subsidiary is comparable to that of the insurance 
+company as a whole. 
+If a subsidiary issues capital instruments for the funding of the insurer, or that are substantially in 
+excess of its own requirements, the terms and conditions of the issue, as well as the 
+intercompany transfer, must ensure that investors are placed in the same position as if the 
+instrument were issued by the insurer directly in order for it to qualify as capital available upon 
+consolidation. This can only be achieved by the subsidiary using the proceeds of the issue to 
+purchase a similar instrument from the parent. Since subsidiaries cannot buy shares of the parent 
+insurance company, it is likely that this treatment will only be applicable to the subordinated
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 16 
+ 
+debt. In addition, to qualify as capital for the consolidated entity, the debt held by third parties 
+cannot effectively be secured by other assets, such as cash, held by the subsidiary. 
+ 
+2.2.  Capital Composition Limits 
+ 
+The inclusion of capital instruments qualifying under category B and category C criteria is 
+subject to the following limits: 
+• The sum of capital instruments meeting the qualifying criteria under category B and 
+category C will not exceed 40% of total capital available, excluding accumulated other 
+comprehensive income; 
+• Capital instruments meeting the qualifying criteria under category C will not exceed 7% 
+of total capital available, excluding accumulated other comprehensive income. 
+ 
+Category B and category C capital exceeding the allowable limits will be subject to the following 
+treatment for regulatory capital purposes: 
+• In cases where capital instruments qualifying under one of either category B or C exceed 
+the limits, the capital in excess of the limits will not be considered in the calculation of 
+capital available. In cases where capital instruments both under category B and category 
+C are in excess of the prescribed limits, the greater value of the two excess amounts will 
+be excluded from capital available. In doing so, insurers must first fully exclude excess 
+capital under category C, followed by excess capital under category B.  
+• Under certain exceptional circumstances and subject to OSFI’s supervisory approval, a 
+company may be permitted to continue to include such excess amounts in capital 
+available temporarily, upon providing OSFI with a satisfactory plan outlining the 
+company’s strategy to achieve compliance with the limits as soon as possible. Typically, 
+only those excesses arising after issuance and as a result of operating losses or 
+extraordinary events beyond the control of management will normally be eligible for 
+temporary inclusion in capital available. In most other circumstances, for example, 
+excesses resulting from:  
+1) purchases or redemptions of capital instruments;  
+2) discretionary dividend payments;  
+3) new issuances of non-common capital instruments within the same fiscal quarter; 
+or  
+4) foreseeable events;  
+would generally not qualify for inclusion in capital available. 
+ 
+2.3.  Regulatory Adjustments to Capital Available 
+ 
+2.3.1. Deductions:
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 17 
+ 
+1. Interests in and loans or other forms of lending provided to non-qualifying subsidiaries, 
+associates, and joint ventures in which the company holds more than a 10% ownership 
+interest: 
+• Interests in non-qualifying subsidiaries, associates, and joint ventures in which the 
+company holds more than a 10% ownership interest must be deducted from capital 
+available (reference section 2.4); 
+• Loans or other forms of lending provided to non-qualifying subsidiaries, associates, and 
+joint ventures in which the company holds more than a 10% ownership interest that are 
+reported as equity on their financial statements must be deducted from capital available 
+(reference section 2.4). 
+2. Accumulated other comprehensive income on cash flow hedges: 
+The amount of cash flow hedge reserve that relates to the hedging of items that are 
+not fair valued on the balance sheet (including projected cash flows) must be 
+derecognized in the calculation of capital available. This includes items that are not 
+recognized on the balance sheet but excludes items that are fair valued on the balance 
+sheet. Positive amounts should be deducted from capital available and negative 
+amounts should be added back. This treatment specifically identifies the element of 
+the cash flow hedge reserve that is to be derecognized for prudential purposes. It 
+removes the element that gives rise to artificial volatility in capital available, as in this 
+case the reserve only reflects one half of the picture (the fair value of the derivative, 
+but not the changes in fair value of the hedged future cash flow). 
+3. Goodwill and other intangible assets: 
+• Goodwill related to consolidated subsidiaries and subsidiaries deconsolidated for 
+regulatory capital purposes and the proportional share of goodwill in joint ventures 
+subject to the equity method accounting must be deducted from capital available. The 
+amount reported on the balance sheet is to be deducted net of any associated deferred 
+tax liability that would be extinguished if the goodwill becomes impaired or 
+derecognized under relevant accounting standards.  
+• All other intangible assets18 must be deducted from capital available. This includes 
+intangible assets related to consolidated subsidiaries and subsidiaries deconsolidated 
+for regulatory capital purposes, and the proportional share of intangible assets in joint 
+ventures subject to the equity method of accounting. The full amount is to be deducted 
+net of any associated deferred tax liability that would be extinguished if the intangible 
+assets become impaired or derecognized under relevant accounting standards.  
+4. Deferred tax assets: 
+Deferred tax assets (DTAs), except for those eligible for the 10% risk factor, must be 
+deducted from capital available. In addition, the amount of DTAs that is in excess of 
+the amount that could be recoverable from income taxes paid in the three immediate 
+preceding years is deducted from capital available. Deferred tax assets may be netted 
+with associated deferred tax liabilities (DTLs) only if the DTAs and DTLs relate to 
+ 
+18  This includes computer software intangibles.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 18 
+ 
+taxes levied by the same taxation authority and offsetting is permitted by the relevant 
+taxation authority19. The DTLs permitted to be netted against DTAs must exclude 
+amounts that have been netted against the deduction of goodwill, intangibles and 
+defined benefit pension plan assets, and must be allocated on a pro rata basis between 
+DTAs that are to be deducted in full and DTAs that are subject to the 10% risk factor 
+(reference section 4.1).  
+5. Cumulative gains and losses due to changes in own credit risk on fair valued financial 
+liabilities: 
+All accumulated after-tax unrealized gains and losses that have resulted from changes 
+in the fair value of insurer’s financial liabilities that are due to changes in the 
+institution’s own credit risk must be deducted from capital available. In addition, with 
+regard to derivative liabilities, all accounting valuation adjustments arising from the 
+institution’s own credit risk should also be deducted on an after-tax basis. The 
+offsetting between valuation adjustments arising from the institution's own credit risk 
+and those arising from its counterparties' credit risk is not permitted.  
+6. Defined benefit pension fund assets and liabilities: 
+For each defined benefit pension fund that is in a surplus position and reported as an 
+asset on the institution’s balance sheet, the amounts reported as a surplus asset on the 
+balance sheet must be deducted from capital available, net of any associated deferred 
+tax liability that would be extinguished if the asset becomes impaired or derecognized 
+under the relevant accounting standards, and net of any amount of available refunds 
+of defined benefit pension fund surplus assets to which the insurer has unrestricted 
+and unfettered access. Insurers may only reduce this deduction by an amount of 
+available refunds of defined benefit pension plan surplus assets if they obtain a prior 
+written supervisory approval from OSFI20. 
+7. Investments in own instruments (treasury stock): 
+All of institution’s investments in its own instruments, whether held directly or 
+indirectly, must be deducted from capital available (unless already derecognized 
+under IFRS). In addition, any own stock that the institution could be contractually 
+obliged to purchase should be deducted from capital available.  
+8. Reciprocal cross holdings in the common shares of insurance, banking and financial entities: 
+Reciprocal cross holdings in common shares (e.g. Insurer A holds shares of Insurer B 
+and Insurer B in return holds shares of Insurer A), also known as back-to-back 
+placements, that are designed to artificially inflate the capital position of institutions 
+must be fully deducted from capital available. 
+ 
+ 
+19  This does not permit offsetting of DTAs across provinces. 
+20  To obtain OSFI supervisory approval, an insurer must demonstrate, to OSFI’s satisfaction that it has clear 
+entitlement to the surplus and that it has unrestricted and unfettered access to the surplus pension assets. 
+Evidence required by OSFI may include, among other things, an acceptable independent legal opinion and the 
+prior authorization from the pension plan members and the pension regulator.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 19 
+ 
+9. Insurance acquisition cash flows: 
+Any asset for insurance acquisition cash flows must be deducted from capital 
+available. 
+ 
+Items that are deducted from capital available will be subject to a 0% risk factor for capital-
+required purposes. 
+ 
+2.3.2. Adjustments: 
+ 
+Adjustments to owner-occupied property valuations21: 
+• For owner-occupied property accounted for using the cost model and where the deemed 
+value of the property was determined at conversion to the International Financial Reporting 
+Standards (IFRS) by using fair value, unrealized after tax fair value gains (losses) must be 
+reversed from the institution’s reported retained earnings for capital adequacy purposes. 
+The amount determined at conversion is an on-going deduction from capital available and 
+can only be changed as a result of a sale of owner-occupied properties (owned at the time 
+of IFRS conversion) and the resulting realization of actual gains (losses); and 
+• Accumulated net after tax revaluation losses in excess of gains accounted for using the 
+revaluation model must be reversed from retained earnings. Net after tax revaluation 
+gains must be reversed from accumulated other comprehensive income included in 
+capital available.  
+ 
+2.4.  Capital Treatment of Interests in and Loans to Subsidiaries, Associates 
+and Joint Ventures 
+ 
+The equity method of accounting is used for all interests in non-qualifying subsidiaries, 
+associates and joint ventures22. These interests remain unconsolidated for MICAT purposes. 
+ 
+2.4.1. Consolidated subsidiaries (e.g. insurance and ancillary businesses such as agencies, 
+brokerages and mutual funds) 
+ 
+The financial statements of the subsidiaries are fully consolidated and the net value is included in 
+the parent’s capital available. The assets and liabilities of these subsidiaries are therefore subject 
+to risk factors and liability margins in the parent’s MICAT. 
+ 
+2.4.2. Non-qualifying subsidiaries  
+ 
+Interests in non-qualifying subsidiaries are excluded from capital available. Loans or other forms 
+of lending provided to a non-qualifying subsidiary, if they are reported as equity on the financial 
+statements of the non-qualifying subsidiary, are also excluded from capital available of the 
+ 
+21  No adjustments are required for “investment properties” as fair value gains (losses) are allowed for capital 
+purposes. 
+22  Interests in limited partnerships that are reported using the equity method of accounting are subject to the same 
+capital treatment as joint ventures.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 20 
+ 
+insurer. Loans or other forms of lending provided to a non-qualifying subsidiary that are not 
+reported as equity are subject to a risk factor of 45%. Receivables from non-qualifying 
+subsidiaries will attract a risk factor of 5% or 10% depending on how long the balances are 
+outstanding (reference section 4.1). 
+ 
+2.4.3. Associates 
+ 
+An enterprise is an associate of another enterprise if: 
+• both are subsidiaries of the same enterprise; or 
+• each of them represents an investment by the same person or enterprise, in which the 
+investor holds 20% or more of the voting power in each investment; or 
+• one enterprise exerts significant influence over the other. The notion of significant 
+influence is defined in accordance with IFRS; or  
+• if an insurance broker is economically dependent on the insurer, then the broker must be 
+treated as an associate of the insurer for capital purposes. 
+ 
+Interests in associates are excluded from capital available. Loans or other forms of lending 
+provided to associates, if they are reported as equity in the financial statements of the associates, 
+are also excluded from capital available of the insurer. Loans or other forms of lending provided 
+to associates that are not reported as equity are subject to a risk factor of 45%. Receivables from 
+associates will attract a risk factor of 5% or 10% depending on how long the balances are 
+outstanding (reference section 4.1). 
+ 
+2.4.4. Joint ventures in which a company holds less than or equal to 10% ownership interest 
+ 
+Where an insurer holds less than or equal to 10% ownership in a joint venture, the investment is 
+included in capital available. The investment is reported under capital required for equity risk, 
+and is subject to the risk factor applicable to investments in common shares (reference section 
+5.3).  
+ 
+2.4.5. Joint ventures in which a company holds more than a 10% ownership interest 
+ 
+Interests in joint ventures with more than 10% ownership are excluded from capital available. 
+Loans or other forms of lending provided to a joint venture with more than a 10% ownership 
+interest, if they are reported as equity on the financial statements of the joint venture with more 
+than a 10% ownership interest, are also excluded from capital available of the insurer. Loans or 
+other forms of lending provided to a joint venture with more than a 10% ownership interest that 
+are not reported as equity are subject to a risk factor of 45%. Receivables from joint ventures 
+with more than a 10% ownership interest will attract a risk factor of 5% or 10% depending on 
+how long the balances are outstanding (reference section 4.1). 
+ 
+2.4.6. Ownership interests in an intra-group investment arrangement 
+ 
+Where companies participate in an intra-group investment arrangement, and the arrangement has 
+been approved by OSFI pursuant to the requirements of the ICA, companies are not required to
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 21 
+ 
+deduct from capital available their ownership interest. A “look-through” approach should be 
+used for intra-group investments, similar to that for mutual funds (reference section 4.1). 
+ 
+2.4.7 Summary of exposures 
+ 
+Types of exposures an insurer might have with non-qualifying subsidiaries, associates, and joint 
+ventures: 
+ 
+Examples of exposures and capital treatment 
+ 
+Exposure Capital treatment 
+Common or preferred shares (non-qualifying 
+subsidiaries and associates) including share of 
+accumulated earnings/losses less dividends received 
+based on equity accounting 
+Excluded from capital available 
+Ownership interests > 10% joint venture Excluded from capital available 
+Ownership interests ≤ 10% joint venture  Included in capital available with a risk factor 
+of 30% applied to the ownership interest 
+Loans or other forms of lending (bonds, debentures, 
+mortgages, etc.) reported as equity  Excluded from capital available 
+Loans or other forms of lending (bonds, debentures, 
+mortgages, etc.) not reported as equity 
+Included in capital available with a risk factor 
+of 45%  
+Receivables 
+Included in capital available with a risk factor 
+of 5% or 10% depending on how long the 
+balances are outstanding 
+ 
+Appendix 2-A: Information Requirements for Capital Confirmations 
+ 
+Given the potential impact of the disqualification of a capital instrument, insurers are encouraged to 
+seek confirmations of capital quality from OSFI prior to issuing instruments23. In conjunction with 
+such requests, the insurer is expected to provide the following information to the Capital Division:  
+ 
+1. An indicative term sheet specifying indicative dates, rates and amounts and summarizing key 
+provisions in respect of all proposed instruments.  
+2. The draft and final terms and conditions of the proposed instrument supported by relevant 
+documents (i.e. Prospectus, Offering Memorandum, Debt Agreement, Share Terms, etc.).  
+3. A copy of the institution’s current by-laws or other constating documents relevant to the capital 
+to be issued as well as any material agreements, including shareholders’ agreements, which may 
+affect the capital quality of the instrument.  
+4. Where applicable, for all debt instruments only:  
+a) the draft and final Trust Indenture and supplemental indentures; and  
+ 
+23  If an insurer fails to obtain a capital confirmation (or obtains a capital confirmation without disclosing all 
+relevant material facts to OSFI), OSFI may, at its discretion and at any time determine that such capital does not 
+comply with these principles and is to be excluded from the insurer’s capital available.
+
+Chapter 2. Definition of Capital 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 22 
+ 
+b) the terms of any guarantee relating to the instrument.  
+5. Where the terms of the instrument include a redemption option or similar feature upon a tax 
+event, an external tax opinion confirming the availability of such deduction in respect of interest 
+or distributions payable on the instrument for income tax purposes24. 
+6. An accounting opinion describing the proposed treatment and disclosure of the capital instrument 
+(other than common shares) on the institution’s financial statements25. 
+7. Where the initial interest or coupon rate payable on the instrument resets periodically or the basis 
+of the interest rate changes from fixed to floating (or vice versa) at a pre-determined future date, 
+calculations demonstrating that no incentive to redeem, or step-up, will arise upon the change in 
+the initial rate. Where applicable, a step-up calculation should be provided according to the swap-
+spread methodology, which confirms there is no step-up upon the change in interest rate, and 
+supported by screenshots of the applicable reference index rate(s). 
+8. Capital projections demonstrating that the insurer will be in compliance with its supervisory 
+target capital ratios as well as the capital composition requirements specified in section 2.2 at the 
+end of the quarter in which the instrument is expected to be issued.  
+9. An assessment of the features of the proposed capital instrument against the qualifying criteria 
+for category B capital instruments or category C capital instruments, as applicable, as specified in 
+the MICAT Guideline. For greater certainty, this assessment would only be required for an initial 
+issuance or precedent and is not required for subsequent issuances provided the terms of the 
+instrument are not materially altered. 
+10. A written attestation from a senior officer of the institution confirming that the insurer has 
+not provided financing to any person for the express purpose of investing in the proposed 
+capital instrument. 
+ 
+24  OSFI reserves the right to require a Canada Revenue Agency advance tax ruling to confirm such tax opinion if 
+the tax consequences are subject to material uncertainty. 
+25  OSFI reserves the right to require such accounting opinion to be an external opinion of a firm acceptable to OSFI 
+if the accounting consequences are subject to material uncertainty.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 23 
+ 
+Chapter 3.  Insurance Risk 
+ 
+Insurance risk is the risk that the provisions that an insurer holds to cover its obligations under 
+the insurance contracts it has written are insufficient under a severe but plausible scenario.  
+ 
+The capital requirement for insurance risk consists of: 
+i. a capital requirement for future losses, i.e., losses associated with defaults that occur after 
+the reporting date, referred to as the capital required for liabilities for remaining 
+coverage; 
+ii. a capital requirement for losses that have already occurred and for which settlement is not 
+yet complete, referred to as the capital required for liabilities for incurred claims; and, 
+iii. a capital requirement for the loss components of liabilities for remaining coverage.  
+ 
+For the purposes of this Guideline, a residential mortgage is a mortgage on a property that is 
+designed for occupancy by not more than four family units or is a single-family unit of a 
+condominium. A mortgage that is not considered to be a residential mortgage according to this 
+definition will be referred to as a multi-unit residential mortgage. 
+ 
+Section 3.1 describes the calculation of the capital requirement for residential exposures while 
+section 3.2 describes the calculation for multi-unit residential exposures. Section 3.3 describes 
+the calculation of the additional policy provision. For residential exposures, the additional policy 
+provision is an allocation of the requirement determined in section 3.1. For multi-unit residential 
+exposures, the additional policy provision is an allocation of the requirement determined in 
+section 3.2. 
+ 
+3.1. Residential exposures 
+ 
+3.1.1. Capital required for liabilities for remaining coverage 
+ 
+Liabilities for remaining coverage are the liabilities that an insurer holds to cover future losses, 
+i.e., losses associated with defaults that occur after the reporting date. 
+ 
+The capital required for liabilities for remaining coverage associated with residential exposures is 
+defined as 
+ 
+max⁡(𝑇 − 𝐿, 𝐹) 
+where: 
+• 𝑇 represents the total of liabilities for remaining coverage and capital for residential 
+exposures and is defined in subsections 3.1.1.1 through 3.1.1.3, 
+• 𝐿 is the amount of liabilities for remaining coverage for residential exposures26 as 
+defined by accounting standards, and 
+ 
+26  For the purposes of this calculation, 𝐿 includes liability amounts for incurred but not reported (IBNR) claims.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 24 
+ 
+• 𝐹 represents a floor on the capital requirements for residential exposures and is 
+currently set at 0. 
+ 
+3.1.1.1.  Total requirement 
+ 
+The total amount 𝑇 required for residential exposures is the sum of the total amounts required for 
+individual residential mortgages, whether insured individually or as part of a portfolio, that are 
+in-force as of the reporting date and for which there is no claim outstanding27. The total amount 
+required for an individual mortgage loan is the sum of the base total requirement for the 
+mortgage loan and, if applicable, a supplementary capital requirement. 
+ 
+The formula for calculating the base total requirement for an individual mortgage loan is 
+provided in subsection 3.1.1.2. The formula for calculating the supplementary capital 
+requirement is provided in subsection 3.1.1.3. The following data inputs are used in the 
+calculation of the base total requirement and the supplementary capital requirement for an 
+individual mortgage loan: 
+i. outstanding loan balance as of the reporting date; 
+ii. remaining amortization for the mortgage loan as of the reporting date; 
+iii. credit score of the borrower(s) determined as described in section 3.1.1.4; and 
+iv. loan-to-value ratio determined as described in subsection 3.1.1.5. 
+ 
+3.1.1.2.  Base total requirement for an individual mortgage loan 
+ 
+The base total requirement for an individual mortgage loan that is in-force on the reporting date 
+and for which there is no claim outstanding is determined by the formula 
+ 
+𝑇𝐵 = ⁡ 𝛼𝐵 + 𝛽𝐵 × 𝑜𝑢𝑡𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔⁡𝑙𝑜𝑎𝑛⁡𝑏𝑎𝑙𝑎𝑛𝑐𝑒 
+ 
+where the outstanding loan balance is the loan balance as of the reporting date in units of 
+$100,000 and  
+𝛼𝐵 = 1.05 × 𝑚 × 𝐴 
+𝛽𝐵 = 1.05 × 𝑚 × 𝐵 
+ 
+where 𝑚 is the adjustment factor for credit quality defined in subsection 3.1.1.4, and where 
+the quantities 𝐴 and 𝐵 are defined as follows. 
+ 
+i) Formula for 𝐴 
+ 
+𝐴 = {𝐶1 × exp (
+− ( 1
+𝐿𝑇𝑉 − 𝜇1)
+2
+2 ∙ 𝜎12 ) + 𝐶2 × exp (
+− ( 1
+𝐿𝑇𝑉 − 𝜇2)
+2
+2 ∙ 𝜎22 )} 
+ 
+27  Mortgages that are in arrears or default are excluded from this calculation provided that a specific provision for 
+such mortgages is included in the incurred claim reserve; otherwise, they should  be included.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 25 
+ 
+where 𝐿𝑇𝑉 represents the loan-to-value ratio for the mortgage loan as defined in subsection 
+3.1.1.5 and 𝜇1, 𝜇2, 𝜎1, 𝜎2, 𝐶1, 𝐶2 are defined as follows: 
+ 
+If the remaining term of insurance for the mortgage loan as of the reporting date is five years 
+or less then 
+ 
+𝜇1 = 90% 𝑓𝑜𝑟⁡𝑇∗ ≤ 40  𝜇2 = 125% 𝑓𝑜𝑟⁡𝑇∗ ≤ 40 
+𝜎1 = {−
+17% 𝑓𝑜𝑟⁡𝑇∗ ≤ 10
+0.2% × 𝑇∗ + 19% 𝑓𝑜𝑟⁡10 < ⁡ 𝑇∗ ≤ 25
+14% 𝑓𝑜𝑟⁡25 < ⁡ 𝑇∗ ≤ 40
+  𝜎2 = { 16% 𝑓𝑜𝑟⁡𝑇∗ ≤ 15.5
+0.59%⁡ × 𝑇∗ + 7% 𝑓𝑜𝑟⁡15.5 < ⁡ 𝑇∗ ≤ 40 
+ 
+𝐶1 = { 123 × 𝑇∗ + 520 𝑓𝑜𝑟⁡𝑇∗ ≤ 11
+−25 × 𝑇∗ + 2,250 𝑓𝑜𝑟⁡11 < ⁡ 𝑇∗ ≤ 40  𝐶2 = {115 × 𝑇∗ − 85 𝑓𝑜𝑟⁡𝑇∗ ≤ 17
+1,900 𝑓𝑜𝑟⁡17 < ⁡ 𝑇∗ ≤ 40 
+ 
+ 
+Otherwise, 
+ 
+𝜇1 = 90%⁡⁡⁡𝑓𝑜𝑟⁡𝑇∗ ≤ 40  𝜇2 = 125% ⁡⁡⁡𝑓𝑜𝑟⁡𝑇∗ ≤ 40  
+𝜎1 = 17%   𝑓𝑜𝑟⁡𝑇∗ ≤ 40  𝜎2 = { 16% 𝑓𝑜𝑟⁡𝑇∗ ≤ 15.5
+1.09%⁡ × 𝑇∗ − 0.94% 𝑓𝑜𝑟⁡15.5 < ⁡ 𝑇∗ ≤ 40 
+𝐶1 = {
+123 × 𝑇∗ + 520 𝑓𝑜𝑟⁡𝑇∗ ≤ 16
+−65 × 𝑇∗ + 3,515 𝑓𝑜𝑟⁡16 < ⁡ 𝑇∗ ≤ 25
+−39 × 𝑇∗ + 2,885 𝑓𝑜𝑟⁡25 < ⁡ 𝑇∗ ≤ 40
+  𝐶2 = { 115 × 𝑇∗ − 85 𝑓𝑜𝑟⁡𝑇∗ ≤ 25
+68 × 𝑇∗ + 1,110 𝑓𝑜𝑟⁡25 < ⁡ 𝑇∗ ≤ 40 
+ 
+where 𝑇∗ represents the remaining amortization for the mortgage loan as of the reporting date 
+and is measured in years28. If the remaining amortization exceeds 40 years, 40 years should 
+be used as 𝑇∗. 
+ 
+ii) Formula for 𝐵 
+ 
+𝐵 = {𝐶1 × exp (
+− ( 1
+𝐿𝑇𝑉 − 𝜇1)
+2
+2 ∙ 𝜎12 ) + 𝐶2 × exp (
+− ( 1
+𝐿𝑇𝑉 − 𝜇2)
+2
+2 ∙ 𝜎22 )} 
+ 
+where 𝐿𝑇𝑉 represents the loan-to-value ratio for the mortgage loan as defined in subsection 
+3.1.1.5 and in this case, 𝜇1, 𝜇2, 𝜎1, 𝜎2, 𝐶1, 𝐶2 are defined as follows: 
+ 
+If the remaining term of insurance for the mortgage loan as of the reporting date is five years 
+or less then 
+ 
+28  If a mortgage is split into tranches, then the remaining amortization used in this and subsequent formulas is the 
+maximum of the remaining amortizations of all tranches.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 26 
+ 
+𝜇1 = 94% 𝑓𝑜𝑟⁡𝑇∗ ≤ 40  𝜇2 = {0.62% × 𝑇∗ + 121% 𝑓𝑜𝑟⁡𝑇∗ ≤ 15
+130% 𝑓𝑜𝑟⁡15 < 𝑇∗ ≤ ⁡40 
+𝜎1 = {
+23% 𝑓𝑜𝑟⁡𝑇∗ ≤ ⁡14
+−0.64% × 𝑇∗ + 32% 𝑓𝑜𝑟⁡14 < 𝑇∗ ≤ ⁡25
+16% 𝑓𝑜𝑟⁡25 < 𝑇∗ ≤ ⁡40
+   𝜎2 = { 14% 𝑓𝑜𝑟⁡𝑇∗ ≤ 15
+0.4% × 𝑇∗ + 8% 𝑓𝑜𝑟⁡15 < 𝑇∗ ≤ ⁡40 
+𝐶1 = {233 × 𝑇∗ + 1,975 𝑓𝑜𝑟⁡𝑇∗ ≤ 11
+4,450 𝑓𝑜𝑟⁡11 < 𝑇∗ ≤ ⁡40                 𝐶2 = {
+1,550 𝑓𝑜𝑟⁡𝑇∗ ≤ 15
+400 × 𝑇∗ − 4,450 𝑓𝑜𝑟⁡15 < 𝑇∗ ≤ 18
+130 × 𝑇∗ + 420 𝑓𝑜𝑟⁡18 < ⁡ 𝑇∗ ≤ 25
+30 × 𝑇∗ + 3,020 𝑓𝑜𝑟⁡25 < ⁡ 𝑇∗ ≤ 40
+ 
+ 
+ 
+Otherwise, 
+ 
+𝜇1 = {
+94% ⁡𝑇∗ ≤ 19.75
+−2.33% × 𝑇∗ + 140% ⁡19.75 < ⁡𝑇∗ ≤ 26
+80% 𝑓𝑜𝑟⁡26 < 𝑇∗ ≤ ⁡40
+  𝜇2 = {0.62% × 𝑇∗ + 121% 𝑓𝑜𝑟⁡𝑇∗ ≤ 33.25
+142% 𝑓𝑜𝑟⁡33.25 < 𝑇∗ ≤ ⁡40 
+ 
+𝜎1 = { 23% 𝑓𝑜𝑟⁡𝑇∗ ≤ 14.75
+1.63% × 𝑇∗ − 0.82% 𝑓𝑜𝑟⁡14.75 < 𝑇∗ ≤ ⁡40        
+ 𝜎2 = {
+14% 𝑓𝑜𝑟⁡𝑇∗ ≤ ⁡19
+1.03% × 𝑇∗ − 5.84% 𝑓𝑜𝑟⁡19 < 𝑇∗ ≤ ⁡27
+21.5% 𝑓𝑜𝑟⁡27 < 𝑇∗ ≤ ⁡40
+ 
+ 
+𝐶1 = {233 × 𝑇∗ + 1,975 𝑓𝑜𝑟⁡𝑇∗ ≤ 25
+282 × 𝑇∗ + 740 𝑓𝑜𝑟⁡25 < 𝑇∗ ≤ ⁡40 
+ 
+ 
+𝐶2 = {
+1,550 𝑓𝑜𝑟⁡𝑇∗ ≤ 19.25
+133 × 𝑇∗ − 1,030 𝑓𝑜𝑟⁡19.25 < 𝑇∗ ≤ 26
+−117 × 𝑇∗ + 5,490 𝑓𝑜𝑟⁡26 < 𝑇∗ ≤ ⁡40
+ 
+ 
+where 𝑇∗ represents remaining amortization for the mortgage loan as of the reporting date 
+and is measured in years. If the remaining amortization exceeds 40 years, 40 years should be 
+used as 𝑇∗. 
+ 
+If a mortgage has payments that are contractually required to be reset within a period not 
+exceeding one month, and the amortization of a mortgage loan at the end of a reporting period 
+does not reflect the contractually required payment reset, a mortgage insurer may calculate T* as 
+if that reset has occurred. 
+ 
+3.1.1.3.  Supplementary capital requirement for an individual mortgage loan 
+ 
+If a mortgage loan originated after December 31, 2016 corresponds to a property that is located 
+in one of the 11 metropolitan areas listed in Appendix 3-A and if the value of the supplementary 
+capital requirement indicator (SCRI) for this metropolitan area is greater than the threshold value 
+for this metropolitan area then a supplementary capital requirement must be determined for this 
+mortgage loan and added to the base total requirement for this mortgage loan to determine the 
+total amount for this loan.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 27 
+ 
+The calculation of the SCRI is described in Appendix 3-A. 
+ 
+If a supplementary capital requirement must be determined for a particular mortgage loan, it is 
+calculated using the following formula: 
+ 
+𝑆 = 𝑟 × 𝑇𝐵 
+ 
+where 𝑇𝐵 is as defined in subsection 3.1.1.2 and where the quantity 𝑟 is defined as follows. 
+ 
+𝑟 = 𝑎 + 𝑏 × exp⁡(−0.1 ∙ 𝑇∗) 
+ 
+where 𝑎 and 𝑏 are defined as follows: 
+ 
+If the remaining term of insurance for the mortgage loan as of the reporting date is five years or 
+less then 
+𝑎 = 𝑚𝑖𝑛 {c + 0.1 × ( 1
+𝐿𝑇𝑉 − 1) , 1.15}, 
+ 
+𝑏 = {0.3 𝑓𝑜𝑟⁡𝑇∗ ≤ 10
+0 𝑓𝑜𝑟⁡10 < 𝑇∗ ≤ ⁡40 
+ 
+𝑐 = {
+0.08 𝑓𝑜𝑟⁡𝑇∗ ≤ 10
+−0.013 × 𝑇∗ + 0.32 𝑓𝑜𝑟⁡10 < 𝑇∗ ≤ 13
+0.19 𝑓𝑜𝑟⁡13 < 𝑇∗ ≤ ⁡40
+ 
+where: 
+• 𝐿𝑇𝑉 represents the loan-to-value ratio for the mortgage loan as defined in subsection 
+3.1.1.5, and 
+• 𝑇∗ represents remaining amortization as of the reporting date and is measured in years. 
+ 
+Otherwise, 
+𝑎 = 𝑚𝑖𝑛 {0.08 + 0.1 × ( 1
+𝐿𝑇𝑉 − 1) , 1.15}, 
+ 
+𝑏 = 0.3 
+ 
+Note that for a given mortgage loan, 𝐿𝑇𝑉 and 𝑇∗ have the same values as in the calculation of 
+the base total requirement in subsection 3.1.1.2.  
+ 
+3.1.1.4.  Adjustment factor for credit quality of an individual mortgage loan 
+ 
+The adjustment factor for credit quality, 𝑚, used in the formulas for 𝛼𝐵 and 𝛽𝐵 to determine the 
+base total requirement for an individual mortgage loan depends on the credit score(s) of the 
+borrower(s) associated with the mortgage loan as of origination.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 28 
+ 
+The credit score used to determine the value of 𝑚 for a particular mortgage loan should come 
+from a reputable credit bureau and should also be used as part of the insurer’s business and risk 
+management processes. It should not be acquired for the sole purpose of determining regulatory 
+capital requirements. 
+ 
+In cases where an insurer obtains credit scores from more than one credit bureau, the insurer 
+should select the bureau whose scores the insurer primarily uses in the management of its 
+business, and use the scores of this credit bureau consistently for all mortgage loans and from 
+one reporting period to the next. The only exception is if there is no credit score available for a 
+particular mortgage loan from the credit bureau whose scores the insurer primarily uses to 
+manage its business; in this situation, the insurer may use the credit score from another reputable 
+credit bureau until such time that a credit score becomes available from the bureau whose scores 
+the insurer primarily uses. 
+ 
+For mortgage loans with more than one borrower, the credit score used to determine the value of 
+𝑚 is the maximum of the credit scores of the individual borrowers. In cases where the credit 
+scores of the individual borrowers are from different credit bureaus, the maximum is calculated 
+using only the credit scores from the bureau whose scores the insurer primarily uses to manage 
+its business. In cases where none of the credit scores of the individual borrowers is from the 
+credit bureau whose scores the insurer primarily uses to manage its business, the maximum is 
+calculated using the available scores. 
+ 
+Credit Quality Adjustment Factors by Credit Score, 𝑚 
+ 
+Credit Score  𝒎 
+< 600 3.00 
+[600,620) 2.05 
+[620,640) 1.80 
+[640,660) 1.60 
+[660,680) 1.35 
+[680,700) 1.10 
+[700,720) 0.90 
+[720,740) 0.65 
+[740,760) 0.55 
+[760,780) 0.45 
+≥ 780 0.40 
+ 
+The value assigned to the adjustment factor for credit quality, 𝑚, of a mortgage loan with no 
+credit score is 1.3 unless more than 5% of an insurer’s mortgage loans considered residential 
+exposures have no credit score, in which case the value assigned to the adjustment factor for 
+credit quality, 𝑚, of a mortgage loan with no credit score is 3.0.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 29 
+ 
+3.1.1.5.  Loan-to-value ratio for an individual mortgage loan 
+ 
+This subsection describes the calculation of the 𝐿𝑇𝑉 input for the formulas given in subsections 
+3.1.1.2 and 3.1.1.3.  Note that if the value of 𝐿𝑇𝑉 determined in this subsection is greater than 
+105% then an 𝐿𝑇𝑉 input of 105% should be used in the formulas in subsections 3.1.1.2 and 
+3.1.1.3.  
+ 
+The value of the 𝐿𝑇𝑉 input for the formulas in subsections 3.1.1.2 and 3.1.1.3 depends on the 
+origination date of the mortgage, and whether it is a First-Time Home Buyer Incentive (FTHBI) 
+mortgage or not. 
+ 
+i) Mortgages originated after December 31, 2015 that are not FTHBI mortgages 
+ 
+For mortgages originated after December 31, 2015, the 𝐿𝑇𝑉 input is calculated by dividing the 
+outstanding loan balance on the reporting date by the property value on the origination date or 
+the date of the most recent appraisal, provided that the appraisal was commissioned by an 
+independent third party entity other than an insurer.  
+ 
+ii) FTHBI Mortgages 
+ 
+For FTHBI mortgages, the reciprocal of the 𝐿𝑇𝑉 input is determined by taking a weighted 
+average of the following two quantities: 
+ 
+1) the reciprocal of loan-to-value if the mortgage were not a FTBHI mortgage, and 
+ 
+2) the reciprocal of loan-to-value calculated using: 
+ 
+• for the loan amount, the sum of the outstanding loan balance as of the reporting 
+date and the shared equity amount, 
+• for the property value, the value as of the origination date or the date of the most 
+recent appraisal, if the appraisal was commissioned by an independent third party 
+entity other than an insurer, and 
+• the shared equity amount as of the origination date, unless the property value is 
+updated to the most recent appraisal, in which case the shared equity amount 
+should be updated as well. 
+ 
+The reciprocal of the 𝐿𝑇𝑉 input for FTHBI mortgages is represented formulaically below: 
+ 
+1
+𝐿𝑇𝑉 = w × 1
+𝐿𝑇𝑉𝑆𝐸 + (1 − 𝑤) × 1
+𝐿𝑇𝑉𝑀 
+ 
+ 
+Where
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 30 
+ 
+𝐿𝑇𝑉 𝑆𝐸 = 𝑜𝑢𝑡𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔⁡𝑙𝑜𝑎𝑛⁡𝑏𝑎𝑙𝑎𝑛𝑐𝑒⁡ + ⁡𝑠ℎ𝑎𝑟𝑒𝑑⁡𝑒𝑞𝑢𝑖𝑡𝑦⁡𝑎𝑚𝑜𝑢𝑛𝑡
+𝑝𝑟𝑜𝑝𝑒𝑟𝑡𝑦⁡𝑣𝑎𝑙𝑢𝑒  
+ 
+and 
+ 
+𝐿𝑇𝑉𝑀 = 𝑜𝑢𝑡𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔⁡𝑙𝑜𝑎𝑛⁡𝑏𝑎𝑙𝑎𝑛𝑐𝑒
+𝑝𝑟𝑜𝑝𝑒𝑟𝑡𝑦⁡𝑣𝑎𝑙𝑢𝑒  
+and 
+ 
+𝑤 = max [35%, min(95%, 200% × 1
+𝐿𝑇𝑉𝑀 − 205%)] 
+ 
+iii) Mortgages originated after December 31, 2004 but on or before December 31, 2015 
+ 
+For mortgages originated after December 31, 2004 but on or before December 31, 2015, the 𝐿𝑇𝑉 
+input is calculated by dividing the outstanding loan balance on the reporting date by the property 
+value that is determined as follows. 
+ 
+1. If the property is located in one of the 11 Census Metropolitan Areas specified in 
+Appendix 3-A and defined by Statistics Canada then the property value used to calculate 
+the 𝐿𝑇𝑉 input is 
+ 
+𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦⁡𝑉𝑎𝑙𝑢𝑒⁡𝑎𝑡⁡𝑂𝑟𝑖𝑔𝑖𝑛𝑎𝑡𝑖𝑜𝑛⁡ × 𝑇𝑒𝑟𝑎𝑛𝑒𝑡⁡𝑖𝑛𝑑𝑒𝑥⁡𝑣𝑎𝑙𝑢𝑒⁡𝑎𝑠⁡𝑜𝑓⁡𝐷𝑒𝑐𝑒𝑚𝑏𝑒𝑟⁡2015
+𝑇𝑒𝑟𝑎𝑛𝑒𝑡⁡𝑖𝑛𝑑𝑒𝑥⁡𝑣𝑎𝑙𝑢𝑒⁡𝑎𝑠⁡𝑜𝑓⁡𝑜𝑟𝑖𝑔𝑖𝑛𝑎𝑡𝑖𝑜𝑛⁡𝑚𝑜𝑛𝑡ℎ⁡𝑎𝑛𝑑⁡𝑦𝑒𝑎𝑟 
+ 
+where “Teranet index value” refers to the value of the Teranet-National Bank House 
+Price Index for the particular metropolitan area as of the end of the indicated month. If 
+the property is located in one of these metropolitan areas but the mortgage was originated 
+in December 2015 or later then the property value used to calculate the 𝐿𝑇𝑉 input is the 
+property value on the origination date. 
+ 
+2. If the property is not located in one of these metropolitan areas then the property value 
+used to calculate the 𝐿𝑇𝑉 input is 
+ 
+𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦⁡𝑉𝑎𝑙𝑢𝑒⁡𝑎𝑡⁡𝑂𝑟𝑖𝑔𝑖𝑛𝑎𝑡𝑖𝑜𝑛 × 𝑇𝑒𝑟𝑎𝑛𝑒𝑡⁡𝑐𝑜𝑚𝑝𝑜𝑠𝑖𝑡𝑒⁡𝑖𝑛𝑑𝑒𝑥⁡𝑣𝑎𝑙𝑢𝑒⁡𝑎𝑠⁡𝑜𝑓⁡𝐷𝑒𝑐𝑒𝑚𝑏𝑒𝑟⁡2015
+𝑇𝑒𝑟𝑎𝑛𝑒𝑡⁡𝑐𝑜𝑚𝑝𝑜𝑠𝑖𝑡𝑒⁡𝑖𝑛𝑑𝑒𝑥⁡𝑣𝑎𝑙𝑢𝑒⁡𝑎𝑠⁡𝑜𝑓⁡𝑜𝑟𝑖𝑔𝑖𝑛𝑎𝑡𝑖𝑜𝑛⁡𝑚𝑜𝑛𝑡ℎ⁡𝑎𝑛𝑑⁡𝑦𝑒𝑎𝑟 
+ 
+where “Teranet composite index value” refers to the value of the Teranet-National Bank 
+National Composite House Price Index as of the end of the indicated month.  
+ 
+iv) Mortgages originated prior to 2005 
+ 
+For mortgages originated prior to 2005, the 𝐿𝑇𝑉 input is calculated by dividing the outstanding 
+loan balance on the reporting date by the property value that is determined as follows.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 31 
+ 
+1. If the property is located in one of the 11 Census Metropolitan Areas specified in 
+Appendix 3-A and defined by Statistics Canada then the property value used to calculate 
+the 𝐿𝑇𝑉 input is 
+  
+𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦⁡𝑉𝑎𝑙𝑢𝑒⁡𝑎𝑡⁡𝑂𝑟𝑖𝑔𝑖𝑛𝑎𝑡𝑖𝑜𝑛⁡ × 𝑇𝑒𝑟𝑎𝑛𝑒𝑡⁡𝑖𝑛𝑑𝑒𝑥⁡𝑣𝑎𝑙𝑢𝑒⁡𝑎𝑠⁡𝑜𝑓⁡𝐷𝑒𝑐𝑒𝑚𝑏𝑒𝑟⁡2015
+𝑇𝑒𝑟𝑎𝑛𝑒𝑡⁡𝑖𝑛𝑑𝑒𝑥⁡𝑣𝑎𝑙𝑢𝑒⁡𝑎𝑠⁡𝑜𝑓⁡𝐷𝑒𝑐𝑒𝑚𝑏𝑒𝑟⁡2004 
+ 
+where “Teranet index value” refers to the value of the Teranet-National Bank House 
+Price Index for the particular metropolitan area as of the end of the indicated month. 
+ 
+2. If the property is not located in one of these metropolitan areas then the property value 
+used to calculate the LTV input is 
+ 
+𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦⁡𝑉𝑎𝑙𝑢𝑒⁡𝑎𝑡⁡𝑂𝑟𝑖𝑔𝑖𝑛𝑎𝑡𝑖𝑜𝑛⁡ × 𝑇𝑒𝑟𝑎𝑛𝑒𝑡⁡𝑐𝑜𝑚𝑝𝑜𝑠𝑖𝑡𝑒⁡𝑖𝑛𝑑𝑒𝑥⁡𝑣𝑎𝑙𝑢𝑒⁡𝑎𝑠⁡𝑜𝑓⁡𝐷𝑒𝑐𝑒𝑚𝑏𝑒𝑟⁡2015
+𝑇𝑒𝑟𝑎𝑛𝑒𝑡⁡𝑐𝑜𝑚𝑝𝑜𝑠𝑖𝑡𝑒⁡𝑖𝑛𝑑𝑒𝑥⁡𝑣𝑎𝑙𝑢𝑒⁡𝑎𝑠⁡𝑜𝑓⁡𝐷𝑒𝑐𝑒𝑚𝑏𝑒𝑟⁡2004 
+ 
+where “Teranet composite index value” refers to the value of the Teranet-National Bank 
+National Composite House Price Index as of the end of the indicated month. 
+ 
+3.1.2. Capital required for liabilities for incurred claims 
+ 
+Liabilities for incurred claims are the liabilities that an insurer holds to cover losses that have 
+already occurred and for which settlement is not yet complete. This includes mortgage loans that 
+are currently delinquent or in arrears. The capital required for liabilities for incurred claims 
+associated with residential exposures is calculated by multiplying the liabilities for incurred 
+claims associated with residential exposures by 20%. 
+ 
+3.1.3. Capital required for the loss components of liabilities for remaining coverage 
+ 
+The capital required for loss components of liabilities for remaining coverage associated with 
+residential exposures is calculated by multiplying the loss component amounts associated with 
+residential exposures by 40%. 
+ 
+3.2 Multi-unit residential exposures 
+ 
+3.2.1. Capital required for liabilities for remaining coverage 
+ 
+There is a transition period from January 1, 2026 to January 1, 2030 for the multi-unit residential 
+exposures in effect as of December 31, 2025, which are subject to Section 3.2.1.1 and gradually 
+become subject to Section 3.2.1.2 during the transition period. Section 3.2.1.3 provides guidance 
+to determine the applicable capital rules for liabilities for remaining coverage associated with 
+multi-unit residential exposures during the transition period.  
+ 
+Section 3.2.1.2 is applicable for multi-unit residential exposures effective January 1, 2026, and 
+beyond.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 32 
+ 
+ 
+3.2.1.1. Capital required for liabilities for remaining coverage (Expiration December 31, 
+2029) 
+ 
+The capital required for liabilities for remaining coverage associated with multi-unit residential 
+exposures is the sum of the capital requirements for individual multi-unit residential exposures, 
+where the sum is calculated over all multi-unit mortgage loans that were expected to be in-force 
+on the reporting date based on the mortgage’s amortization schedule at the time of mortgage 
+origination. Unlike the situation for residential exposures, an amount must be calculated and held 
+for all multi-unit residential mortgages that were expected to be in-force on the reporting date 
+based on the mortgage’s original amortization schedule, regardless of whether the mortgage is 
+still in-force on the reporting date.  
+ 
+The capital required for an individual mortgage loan is determined by the formula 
+ 
+𝐹1 × 𝐹2 × 𝐹3 × 𝐴 
+where: 
+• 𝐹1 is a factor that depends on the age of the loan and is defined in this subsection, 
+• 𝐹2 is a factor that depends on whether the mortgage’s loan-to-value ratio at 
+origination is greater or less than 80% and whether the underlying mortgage is a first 
+or second mortgage and is defined in this subsection,  
+• 𝐹3 is a factor that depends on the settlement option stated in the master policy and the 
+mortgage’s loan-to-value ratio at origination and is defined in this subsection, and 
+• 𝐴 is the mortgage balance, including any mortgage insurance premium amounts 
+added to the balance, as of origination, measured in units of $100.29  
+ 
+Calculation of 𝑭𝟏 
+ 
+The value of 𝐹1 for an individual mortgage loan depends on the number of years that have 
+elapsed since the mortgage loan was issued and is defined by the following table. 
+ 
+ Value of F1 by mortgage loan age 
+ 
+Mortgage loan age 
+(years) 
+Value of 𝑭𝟏 
+0 1.3750 
+1 1.3750 
+2 1.3375 
+3 1.2250 
+4 1.0875 
+5 0.9125 
+6 0.6750 
+ 
+29  For second mortgages, 𝐴 is the total amount of outstanding loan balance for both the first and second mortgage 
+as of the date of loan issue.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 33 
+ 
+Mortgage loan age 
+(years) 
+Value of 𝑭𝟏 
+7 0.4125 
+8 0.1250 
+≥ 9 0 
+ 
+The values for fractional ages can be determined by interpolation. 
+ 
+Calculation of 𝑭𝟐 
+ 
+The value of 𝐹2 for an individual mortgage loan depends on whether the mortgage’s loan-to-
+value ratio at origination is greater or less than 80% and whether the underlying mortgage is a 
+first or second mortgage, and is defined by the following table. 
+ 
+ Value of F2 by Priority and Loan-to-Value 
+ 
+ Priority 
+Loan-to-Value Ratio 
+at Origination First Mortgage Second Mortgage 
+≤ 80% 1.00 1.50 
+> 80% 1.50 1.50 
+ 
+Calculation of 𝑭𝟑 
+ 
+The value of 𝐹3 for an individual mortgage loan depends on the settlement option stated in the 
+master policy and the mortgage’s loan-to-value ratio at origination. 
+ 
+If the maximum amount payable on an individual mortgage loan after all recoveries is 100% or 
+more of the mortgage balance at origination, then the value of 𝐹3 is as defined in the following 
+table. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Value of F3 by Loan-to-Value
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 34 
+ 
+Loan-to-Value Ratio at 
+Origination 
+Value of 𝑭𝟑 
+≤ 50% 100% 
+50% < LTV ≤ 65% 100% 
+65% < LTV ≤ 75% 100% 
+75% < LTV ≤ 80% 105% 
+80% < LTV ≤ 85% 110% 
+85% < LTV ≤ 90% 115% 
+90% < LTV ≤ 95% 140% 
+LTV > 95% 150% 
+ 
+If the maximum amount payable on an individual mortgage loan after all recoveries is less than 
+100% of the mortgage balance at origination, then the value of 𝐹3 is as defined in the following 
+table. 
+ 
+ Value of F3 by Maximum Amount Payable 
+ 
+Maximum Amount Payable 
+(% of Balance at Origination) 
+Value of 𝑭𝟑 
+10% 73% 
+15% 80% 
+20% 84% 
+25% 100% 
+ 
+If the amount payable on an individual mortgage loan is a fixed percentage of the lender’s loss 
+net of recoveries, then the value of 𝐹3 is determined by multiplying this fixed percentage by the 
+value of 𝐹3 in the case where the maximum amount payable is 100% of the mortgage balance at 
+origination. For example, if the master policy provides coverage for 50% of the lender’s loss net 
+of recoveries, and the loan-to-value ratio at origination is 85%, then the value of 𝐹3 would be 
+55% (= 50% × 110%). 
+ 
+3.2.1.2. Capital required for liabilities for remaining coverage (Effective January 1, 2026) 
+ 
+The capital required for liabilities for remaining coverage associated with multi-unit residential 
+exposures is defined as: 
+max⁡(𝑇 − 𝐿, 𝐹) 
+where: 
+• 𝑇 is the total of liabilities for remaining coverage and capital for multi-unit residential 
+exposures, 
+• 𝐿 is the amount of liabilities for remaining coverage for multi-unit residential 
+exposures30 as defined by accounting standards, and 
+ 
+30  For the purposes of this calculation, 𝐿 includes liability amounts for incurred but not reported (IBNR) claims.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 35 
+ 
+• 𝐹 is a floor on the capital requirements for multi-unit residential exposures and is 
+currently set at 0. 
+ 
+The total amount 𝑇 required for multi-unit residential exposures is the sum of the total amounts 
+required for individual multi-unit residential mortgages that are in-force as of the reporting date 
+and for which there is no claim outstanding31 and is determined by the following formula: 
+ 
+𝑇 = 10.5%⁡ × 𝑅𝑖𝑠𝑘⁡𝑤𝑒𝑖𝑔ℎ𝑡 × 𝑂𝑢𝑡𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔⁡𝑙𝑜𝑎𝑛⁡𝑏𝑎𝑙𝑎𝑛𝑐𝑒  
+where: 
+ 
+(i) Risk weight is determined as described in this subsection, and 
+(ii) The outstanding loan balance for completed property exposures is the loan 
+balance as of the reporting date in units of $1. The outstanding loan balance for 
+new construction property exposures is the sum of the loan advances to date, as of 
+the reporting date in units of $1. 
+ 
+Loan-to-value (LTV) ratio for an individual multi-unit residential mortgage loan 
+ 
+For completed property exposures, the LTV is calculated by dividing the outstanding loan 
+balance on the reporting date by the appraised property value on the origination date. In the case 
+of refinancing, or whenever deemed prudent32, the property value is as of the date of the most 
+recent appraisal. The appraisal may be completed by an external independent third-party or by 
+using an approach that is approved by the mortgage insurer’s certified property appraisers. The 
+appraisal itself may be adjusted to ensure that the value of the property is determined in a 
+prudently conservative manner.  
+ 
+For new construction property exposures, the LTV at origination is measured as the ratio of (i) 
+the sum of all past, current, and future loan advances over (ii) the estimated finished property 
+value. 
+ 
+Risk weight – completed property exposures 
+ 
+The risk weight for completed property exposures is defined by the following table, if  
+ 
+(i) the mortgage lender holds the senior lien over the property (i.e., the mortgage is in 
+first position),  
+(ii) the property securing the exposure is completed (i.e., it is not a new construction 
+property exposure), 
+(iii) prudential underwriting standards are in place,33  
+ 
+31  Mortgages that are in arrears or default are excluded from this calculation provided that a specific provision for 
+such mortgages is included in the incurred claim reserve; otherwise, they should be included.  
+32   Whenever deemed prudent is generally understood to be a sizeable reduction in property value. 
+33    Underwriting policies should be in place with respect to the granting of mortgage insurance that include the 
+assessment of the ability of the borrower to repay. Underwriting policies must define a metric(s) (such as the loan's 
+debt service coverage ratio) and specify its (their) corresponding relevant level(s) to conduct such an assessment.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 36 
+ 
+(iv) the property is not a social welfare housing exposure (i.e., retirement housing, 
+supportive housing, or student housing). 
+ 
+LTV 𝐑𝐢𝐬𝐤⁡𝐖𝐞𝐢𝐠𝐡𝐭⁡ 
+(0%, 50%] 30% 
+(50%, 60%] 35% 
+(60%, 70%] 45% 
+(70%, 80%] 50% 
+(80%, 90%] 60% 
+(90%, 100%] 75% 
+> 100% 105% 
+ 
+Furthermore, the risk weight for completed property exposures with social welfare housing 
+exposure (i.e., retirement housing, supportive housing, or student housing) is defined by the 
+following table. If,  
+ 
+(i) the mortgage lender holds the senior lien over the property, i.e., the mortgage is in 
+first position, 
+(ii) the property securing the exposure is completed, i.e., it is not a new construction 
+exposure, 
+(iii) prudential underwriting standards are in place, and 
+(iv) the property is a social welfare housing exposure (i.e., retirement housing, supportive 
+housing, or student housing), then: 
+ 
+LTV 𝐑𝐢𝐬𝐤⁡𝐖𝐞𝐢𝐠𝐡𝐭⁡ 
+(0%, 60%] 70% 
+(60%, 80%] 90% 
+> 80% 110% 
+ 
+Otherwise, for completed property securing the exposures (i.e., it is not a new construction 
+exposure) and regardless of whether or not the property is a social welfare housing exposure (i.e., 
+retirement homes, nursing homes, or student housing), the risk weight is defined below. If:  
+ 
+(i) the mortgage lender holds the junior lien over the property, (i.e., the mortgage is 
+without first position), or 
+(ii) prudential underwriting standards are not in place 
+ 
+The completed property securing the exposure has a risk⁡weight = 150% for all LTV > 0. 
+ 
+Risk weight – new construction property exposures  
+ 
+ 
+Underwriting policies must also be appropriate when the repayment of the mortgage loan depends materially on the 
+cash flows generated by the property, including relevant metrics (such as an occupancy rate of the property).
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 37 
+ 
+The new construction property securing the exposure has a risk⁡weight = 150%. However, if 
+ 
+(i) the mortgage lender holds the senior lien over the property,  
+(ii) the property securing the exposure is a new construction exposure,  
+(iii) pre-sale34 contracts amount to over 50% of total contracts or equity at risk equivalent 
+to at least 25% of the real estate's appraised as-completed value has been contributed 
+by the borrower (i.e., LTV at origination <= 75%),  
+(iv) prudential underwriting standards are in place, and  
+ 
+then the risk⁡weight = 100%.  
+ 
+When a property is no longer considered under development and construction, the property is 
+considered an existing property for capital purposes. 
+ 
+3.2.1.3. Transition provisions 
+ 
+A.) The capital required for liabilities for remaining coverage for multi-unit residential 
+mortgage in-force insurance policies effective on or after January 1, 2026, are subject to 
+the MICAT rules under Section 3.2.1.2. 
+B.) The capital required for liabilities for remaining coverage for multi-unit residential 
+mortgage in-force insurance policies (“policy liabilities”) effective on or before 
+December 31, 2025, are subject to the following transition: 
+i. Beginning January 1, 2026, all policy liabilities with an effective date of December 
+31, 2019, or earlier are subject to the MICAT rules under Section 3.2.1.2. All 
+remaining policy liabilities effective between January 1, 2020, to December 31, 
+2025, may be subject to MICAT rules under Section 3.2.1.1. 
+ii. Beginning January 1, 2027, all policy liabilities with an effective date of December 
+31, 2021, or earlier are subject to the MICAT rules under Section 3.2.1.2. All 
+remaining policy liabilities effective between January 1, 2022, to December 31, 
+2025, may be subject to MICAT rules under Section 3.2.1.1. 
+iii. Beginning January 1, 2028, all policy liabilities with an effective date of December 
+31, 2023, or earlier are subject to the MICAT rules under Section 3.2.1.2. All 
+remaining policy liabilities effective between January 1, 2024, to December 31, 
+2025, may be subject to MICAT rules under Section 3.2.1.1. 
+iv. Beginning January 1, 2029, all policy liabilities with an effective date of December 
+31, 2024, or earlier are subject to the MICAT rules under Section 3.2.1.2. All 
+remaining policy liabilities effective between January 1, 2025, to December 31, 
+2025, may be subject to MICAT rules under Section 3.2.1.1. 
+v. Beginning January 1, 2030, all capital required for liabilities for remaining coverage 
+for multi-unit residential mortgage in-force insurance policies are subject to the 
+ 
+34    Pre-sale contracts must be legally binding written contracts and the purchaser/renter must have made a 
+substantial cash deposit which is subject to forfeiture if the contract is terminated.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 38 
+ 
+MICAT rules under Section 3.2.1.2. The transition period closes, and the MICAT 
+rules under Section 3.2.1.1 are no longer applicable for any policy liabilities. 
+C.) Earlier adoption of the MICAT rules under Section 3.2.1.2. are permitted starting 
+January 1, 2026. 
+3.2.2. Capital required for liabilities for incurred claims 
+ 
+The capital required for liabilities for incurred claims associated with multi-unit residential 
+exposures is calculated by multiplying the liabilities for incurred claims associated with multi-
+unit residential exposures by 20%. 
+ 
+3.2.3. Capital required for the loss components of liabilities for remaining coverage 
+The capital required for the loss components of liabilities for remaining coverage associated with 
+multi-unit residential exposures is calculated by multiplying the loss component amounts 
+associated with multi-unit residential exposures by 40%. 
+ 
+3.3 Additional policy provisions 
+ 
+This section describes the calculation of the additional policy provision for residential and multi-
+unit residential exposures. An additional policy provision must be determined for every 
+mortgage that was expected to be in-force on the reporting date based on the mortgage’s original 
+amortization schedule, regardless of whether the mortgage is still in-force on the reporting date. 
+ 
+When calculating the capital required at the supervisory target, the total of the additional policy 
+provisions for residential and multi-unit residential mortgages is to be deducted from the capital 
+required for liabilities for remaining coverage that is determined in sections 3.1.1, and 3.2.1.2 
+and then added to the capital required for additional policy provisions. 
+ 
+The total of the additional policy provisions for multi-unit exposures that are subject to the 
+MICAT rules under Section 3.2.1.1. is to be multiplied by 1.25 and added to the capital required 
+for additional policy provisions. The additional policy provision for a mortgage loan is given by 
+the following table: 
+ 
+ Additional Policy Reserve as Per Cent of Single Premium 
+Original Term of the Policy 
+Completed Policy 
+Duration in Years Up to 5 years Over 5 to        
+10 years 
+Over 10 to      
+15 years Over 15 years 
+1 2.0  3.0  4.0  4.0  
+2 1.0  2.0  4.0  4.0  
+3 0.5  1.0  3.5  4.0  
+4  1.0  3.0  5.5  
+5  0.5  3.0  6.0
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 39 
+ 
+ Additional Policy Reserve as Per Cent of Single Premium 
+Original Term of the Policy 
+Completed Policy 
+Duration in Years Up to 5 years Over 5 to        
+10 years 
+Over 10 to      
+15 years Over 15 years 
+6  0.5  2.0  5.0  
+7  0.0  1.0  3.5  
+8   1.0  2.0  
+9   1.0  1.5  
+10   1.0  1.5  
+11   0.0  1.0  
+12    1.0  
+13    0.5  
+14    0.5  
+15    0.5  
+16    0.5  
+17    0.5  
+18    0.5  
+19    0.5  
+≥ 20    0.0  
+ 
+Appendix 3-A. Determining supplementary capital requirement indicators 
+ 
+This appendix describes how insurers are to calculate the supplementary capital requirement 
+indicators (SCRIs) for the purpose of determining whether a supplementary capital requirement 
+is applied to a given residential mortgage loan. 
+ 
+The data sources necessary to calculate the SCRIs are outlined in Section 1 of this appendix. The 
+Teranet – National Bank National Composite House Price Index (“Teranet index”) is used to 
+measure house prices and Statistics Canada household disposable income and population data are 
+used to measure per capita income. 
+ 
+An SCRI is to be determined for 11 metropolitan areas in the Teranet index. For each 
+metropolitan area, an SCRI is calculated on a quarterly basis and is determined as follows: 
+ 
+H × s I 
+where: 
+• H is the smoothed value of the Teranet index for a metropolitan area as determined in 
+Section 2; 
+• I is the per capita income value as determined in Section 3; and
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 40 
+ 
+• s is the scaling factor for the particular metropolitan area as indicated in Section 4. 
+ 
+The SCRI for a metropolitan area is compared to a threshold value for that particular area as 
+defined in Section 5. If the SCRI exceeds the threshold value for that metropolitan area, then 
+supplementary capital requirements will apply at the beginning of an insurer’s next quarterly 
+fiscal reporting period, according to the schedule presented in Section 6, for the life of the loan 
+for newly originated mortgages in that metropolitan area35. 
+ 
+An example illustrating how to calculate SCRIs is provided in Section 7. 
+ 
+1. Data sources 
+ 
+Insurers need to access the following data sources to calculate the SCRIs: 
+ 
+I. Teranet index data source: Teranet index, monthly (June 2005 = 100, Monthly to present) 
+II. Per capita income data sources: 
+i. Statistics Canada Current and Capital Accounts – Households, quarterly – table 
+36-10-0112-01 (formerly CANSIM table 380-0072) 
+ii. Statistics Canada Labour force characteristics monthly, seasonally adjusted and 
+trend cycle – table 14-10-0287-01 (formerly CANSIM table 282-0087) 
+ 
+The SCRIs are to be determined using as of dates of March 31, June 30, September 30 and 
+December 31. As the income data in table 36-10-0112-01 is the last item to be released, 
+approximately two months after the calendar quarter ends, its release date determines when the 
+SCRIs can be calculated. 
+ 
+2. Metropolitan area house price indices 
+ 
+The Teranet index values are available on a monthly basis for the following 11 metropolitan 
+areas: Calgary, Edmonton, Halifax, Hamilton, Montréal, Ottawa-Gatineau, Québec, Toronto, 
+Vancouver, Victoria, and Winnipeg. 
+ 
+The Teranet indices for the metropolitan areas as published are not seasonally adjusted. Given 
+the seasonal nature of the housing market, the indices need to be smoothed to ensure the stability 
+of the SCRIs. Without smoothing, there is a risk that an index could exhibit short-term 
+fluctuations above and below its threshold, which would not be a desirable outcome. Therefore, a 
+simplified approach is used to determine the smoothed Teranet indices for use in the SCRIs; an 
+average of the last 12 months of each Teranet Index’s monthly metropolitan area values must be 
+calculated. 
+ 
+ 
+35  The metropolitan areas geographical limits are determined using Statistics Canada definition of  Census 
+Metropolitan Areas.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 41 
+ 
+3. Calculation of per capita income 
+ 
+The per capita income for use in the SCRI is determined as: 
+ 
+Per capita income = 1,000 × Household disposable income 
+Population 
+ 
+where: 
+i. The “Household disposable income” is a quarterly data series from the table 36-10-0112-
+01. The data characteristics for this table necessary to calculate the per capita income are: 
+• Estimates = Household disposable income (× 1,000,000) 
+• Geography = Canada 
+• Seasonal adjustment = Seasonally adjusted at annual rates 
+ii. The “Population” is a monthly data series and is part of the table 14-10-0287-01. The 
+data characteristics for this table necessary to calculate the per capita income are: 
+• Labour force characteristics = Population (× 1,000) 
+• Geography = Canada 
+• Sex = Both sexes 
+• Age group = 15 years and over 
+• Data type = Seasonally adjusted 
+ 
+To determine the “Per capita income” on a quarterly basis, the “Population” data series must be 
+converted from a monthly basis to a quarterly basis by calculating a three month average of the 
+data series. 
+ 
+4. Calculation of metropolitan area SCRIs 
+ 
+The quarterly SCRI before scaling for each metropolitan area is determined as: 
+ 
+SCRI before scaling = 
+Smoothed quarter-end Teranet house price index 
+for a metropolitan area  
+Per capita income 
+ 
+The SCRI for a metropolitan area needs to be scaled before being compared to the threshold values 
+to determine whether the mortgages originated in that area are subject to a supplementary capital 
+requirement. The SCRIs are determined by multiplying the ratio of the smoothed Teranet index for 
+a metropolitan area over the per capita income by the scaling factors in the following table. 
+ 
+Scaling Factor by Metropolitan Area
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 42 
+ 
+Metropolitan area Scaling factor 
+Calgary 2,500 
+Edmonton 2,100 
+Halifax 1,900 
+Hamilton 2,000 
+Montréal 2,500 
+Ottawa-Gatineau 2,400 
+Québec 1,700 
+Toronto 3,300 
+Vancouver 4,200 
+Victoria 3,300 
+Winnipeg 1,400 
+ 
+5. Threshold values 
+ 
+Each metropolitan area has its own threshold value that has been determined by OSFI using an 
+algorithm that ensured consistency across metropolitan areas. Threshold values will remain 
+stable over time, but are subject to periodic review. 
+ 
+The following table shows the threshold values for each metropolitan area used to determine 
+whether a newly originated mortgage in a given area is subject to a supplementary capital 
+requirement. For each metropolitan area, if the calculated SCRI has breached its threshold value, 
+then effective the beginning of the next quarterly fiscal reporting period, any mortgage loan 
+originated in that area is subject to the supplementary capital requirement for the life of the loan. 
+ 
+ Threshold Values by Metropolitan Area 
+ 
+Metropolitan area Threshold values 
+Calgary 10.0 
+Edmonton 9.0 
+Halifax 8.5 
+Hamilton 9.5 
+Montréal 11.0 
+Ottawa-Gatineau 11.0 
+Québec 9.0 
+Toronto 14.0 
+Vancouver 18.5 
+Victoria 12.5 
+Winnipeg 7.5 
+ 
+Exposures in those areas remain subject to the supplementary capital requirements until the 
+SCRI for a metropolitan area falls below the threshold value. In this case, the supplementary 
+capital requirement would no longer be required for mortgage loans originated in the next 
+quarterly fiscal reporting period.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 43 
+ 
+ 
+ 
+6. Timing of the calculation 
+ 
+The following table provides a summary of the timing for performing the SCRI calculation and 
+determining when the supplementary capital requirement applies. 
+ 
+ Timing for performing and applying SCRI calculation 
+ 
+As at date for data SCRI calculations 
+performed36 
+Application of supplementary  
+capital requirements 
+December 31 March 1 April 1 
+March 31 June 1 July 1 
+June 30 September 1 October 1 
+September 30 December 1 January 1 
+ 
+7. Example 
+ 
+This example illustrates how to calculate the SCRIs for Q4 2015 for the 11 metropolitan areas in 
+the Teranet index. 
+ 
+Step 1: Calculation of metropolitan area smoothed Teranet indices 
+ 
+The following table provides the monthly Teranet values for the 11 metropolitan areas for 2015 
+as well as the December 2015 smoothed values (determined as the 12-month average of the 
+January through December 2015 values). 
+ 
+ Teranet Values of the 11 Metropolitan Areas for 2015 
+ 
+2015 Calgary Edmonton Halifax Hamilton Montréal Ottawa-
+Gatineau 
+January 184.68 182.74 137.60 157.15 146.81 140.58 
+February 184.10 181.24 136.72 157.60 146.42 137.65 
+March 184.45 181.93 138.36 157.07 147.49 137.20 
+April 184.85 183.11 139.39 156.99 148.92 136.30 
+May 178.84 184.28 142.62 157.97 151.34 138.30 
+June 183.23 184.27 142.05 161.85 152.61 140.58 
+July 179.75 182.93 140.56 166.27 153.10 143.75 
+August 186.70 182.02 140.05 170.33 152.35 144.64 
+September 187.98 182.04 142.71 172.53 151.72 143.88 
+ 
+36 The dates presented are approximate; they may vary according to the table 36-10-0112-01 release date.
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 44 
+ 
+October 186.51 182.33 140.30 172.08 151.32 143.00 
+November 184.20 180.77 138.32 172.52 151.65 141.22 
+December 181.10 180.21 140.45 171.51 149.74 139.19 
+December 
+smoothed 
+183.87 182.32 139.93 164.49 150.29 140.52 
+ 
+ Teranet Values for 11 Metropolitan Areas for 2015, continued 
+ 
+2015 Québec Toronto Vancouver Victoria Winnipeg 
+January 173.71 166.18 185.94 139.41 194.74 
+February 173.46 165.99 188.66 140.04 192.88 
+March 176.09 166.42 189.14 139.70 193.33 
+April 179.12 166.44 189.20 139.47 197.00 
+May 180.71 169.10 191.58 140.19 197.39 
+June 179.74 171.86 193.90 143.87 196.80 
+July 178.61 175.91 196.94 146.36 195.89 
+August 176.59 178.75 198.08 145.89 197.08 
+September 173.15 179.79 201.20 147.08 194.32 
+October 172.84 180.35 202.42 147.55 198.09 
+November 173.58 180.53 205.15 150.15 197.48 
+December 174.52 180.82 207.40 150.17 194.55 
+December 
+smoothed 
+176.01 173.51 195.80 144.16 195.80 
+ 
+Step 2: Calculation of per capita income 
+ 
+Given the following values for the data series “Household disposable income” (table 36-10-
+0112-01) and “Population” data series (table 14-10-0287-01), the per capita income for Q4 2015 
+is determined as follows. The average population has to be rounded to the first decimal. 
+ 
+ Household Disposable Income and Population Data for 2015 
+ 
+Data type 2015 Statistics Canada data 
+estimates 
+Household disposable income Q4 1,131,400 
+Population October 29,377.5 
+Population November 29,401.2 
+Population December 29,419.0 
+Population Q4 (Average of October – December) 29,399.2 
+ 
+Then the per capita income for Q4 2015 is: 
+ 
+1,000 × 1,131,400 = 38,484.0 29,399.2
+
+Chapter 3. Insurance Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 45 
+ 
+ 
+The per capita income value has to be rounded to the first decimal. 
+ 
+Step 3: Calculation of metropolitan area SCRIs 
+ 
+Using the December 2015 smoothed Teranet values for the 11 metropolitan areas and the per 
+capita income for Q4 2015, the SCRIs before and after scaling as at Q4 2015 are included in the 
+table below.  The SCRI before scaling has to be rounded to the fifth decimal, while the final 
+SCRI has to be rounded to the second decimal. 
+ 
+ SCRI Calculation for Q4 2015 
+ 
+Metropolitan 
+area 
+Dec. 2015  
+Teranet index 
+smoothed 
+(H) 
+Q4 2015  
+SCRI before scaling 
+(𝑯
+𝑰 ) 
+Scaling Factor 
+ 
+ 
+(s) 
+Q4 2015  
+SCRIs  
+(
+𝑯
+𝑰 × 𝒔)  
+Calgary 183.87 0.00478 2,500 11.95 
+Edmonton 182.32 0.00474 2,100 9.95 
+Halifax 139.93 0.00364 1,900 6.92 
+Hamilton 164.49 0.00427 2,000 8.54 
+Montréal 150.29 0.00391 2,500 9.78 
+Ottawa-Gatineau 140.52 0.00365 2,400 8.76 
+Québec 176.01 0.00457 1,700 7.77 
+Toronto 173.51 0.00451 3,300 14.88 
+Vancouver 195.80 0.00509 4,200 21.38 
+Victoria 144.16 0.00375 3,300 12.38 
+Winnipeg 195.80 0.00509 1,400 7.13 
+ 
+Where for example the Calgary Q4 2015 SCRI before scaling (
+H
+I ) is determined as: 
+ 
+ 183.87 = 0.00478 38,484.0 
+ 
+And the SCRI would be calculated as: 
+ 
+ 0.00478 × 2,500 = 11.95 
+ 
+As the threshold value is set at 10.0 for Calgary, had this Guideline been in effect in Q2-2016, 
+the supplementary capital requirements would therefore have applied for the life of a mortgage 
+loan originated in the Calgary metropolitan area during that reporting quarter.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 46 
+ 
+Chapter 4.  Credit Risk 
+ 
+In the context of this guideline, credit risk refers to any default risk as defined in this chapter 
+other than the borrower default risk associated with mortgage insurance which is covered in 
+chapter 3, Insurance Risk. 
+ 
+Credit risk is the risk of loss arising from a counterparty’s potential inability or unwillingness to 
+fully meet its contractual obligations due to an insurer. Exposure to this risk occurs any time 
+funds are extended, committed, or invested through actual or implied contractual agreements. 
+Components of credit risk include loan loss/principal risk, pre-settlement/replacement risk and 
+settlement risk. Counterparties include issuers, debtors, borrowers, brokers, policyholders, and 
+guarantors. 
+ 
+All on- and off-balance sheet exposures are subject to a specific risk factor that either: 1) 
+corresponds to the external credit rating of the counterparty or issuer or 2) represents a 
+prescribed factor determined by OSFI. To determine the capital requirements for balance sheet 
+assets, factors are applied to the balance sheet values or other specified values of these assets. To 
+determine the capital requirements for off-balance sheet exposures, factors are applied to the 
+exposure amounts determined according to the section 4.2. Collateral and other forms of credit 
+risk mitigators may be used to reduce the exposure. No risk factors are applied to assets deducted 
+from capital available (reference section 2.3). The resulting amounts are summed to arrive at the 
+credit risk capital requirements. 
+ 
+In respect of invested assets, insurers must comply with OSFI’s Guideline B-2 Property and 
+Casualty Large Insurance Exposures and Investment Concentration. 
+ 
+4.1.  Capital Requirements for Balance Sheet Assets 
+ 
+For the purpose of calculating the capital requirements for credit risk, balance sheet assets should 
+be valued at their balance sheet carrying amounts, with the following exceptions:  
+• loans measured at fair value through profit and loss, fair value hedge accounting, or fair 
+valued through other comprehensive income, should be measured at amortized  cost; 
+• financial assets measured at amortized cost should be valued gross of IFRS 9 Stage 1 and 
+Stage 2 expected credit loss provisions; and 
+• off-balance sheet exposures should be valued in accordance with section 4.2.  
+ 
+4.1.1. Use of ratings 
+ 
+Many of the risk factors in this chapter depend on the external credit rating assigned to an asset 
+or an obligor. In order to use a factor that is based on a rating, an insurer must meet all of the 
+conditions specified in this section. For MICAT purposes, insurers may recognize credit ratings 
+from the following rating agencies: 
+• DBRS 
+• Moody’s Investors Service
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 47 
+ 
+• Standard and Poor’s (S&P) 
+• Fitch Rating Services 
+ 
+An insurer must choose the rating agencies it intends to rely on and then use their ratings for 
+MICAT purposes consistently for each type of asset or obligation. Companies should not select 
+the assessments provided by different rating agencies with the sole intent to reduce their capital 
+requirements (i.e. “cherry picking” is not permitted). 
+ 
+Any rating used to determine a factor must be publicly available, i.e. the rating must be 
+published in an accessible form and included in the rating agency’s transition matrix. Ratings 
+that are made available only to the parties to a transaction do not satisfy this requirement. 
+ 
+If an insurer is relying on multiple rating agencies and there is only one assessment for a 
+particular asset or obligor, that assessment should be used to determine the capital requirements. 
+If there are two assessments from the rating agencies used by an insurer and these assessments 
+differ, the insurer should apply the risk factor corresponding to the lower of the two ratings. If 
+there are three or more assessments for an asset or obligor from an insurer’s chosen rating 
+agencies, the insurer should exclude one of the ratings that corresponds to the lowest capital 
+requirement, and then use the rating that corresponds to the lowest capital requirement of those 
+that remain (i.e. the insurer should use the second-highest rating from those available, allowing 
+for multiple occurrences of the highest rating). 
+ 
+Where an insurer holds a particular securities issue that carries one or more issue-specific 
+assessments, the capital requirements for the asset or obligor will be based on these assessments. 
+Where an insurer’s asset is not an investment in a specifically rated security, the following 
+principles apply: 
+• In circumstances where the borrower has a specific rating for an issued debt security, but 
+the insurer’s asset is not an investment in this particular security, a rating of BBB- or 
+better on the rated security may only be applied to the insurer’s unrated asset if this asset 
+ranks pari passu or senior to the rated security in all respects. If not, the credit rating 
+cannot be used and the insurer’s asset must be treated as an unrated obligation. 
+• In circumstances where the borrower has an issuer rating, this assessment typically 
+applies to senior unsecured assets or obligations on that issuer. Consequently, only senior 
+assets or obligations on that issuer will benefit from a BBB- or better issuer assessment; 
+other unassessed assets or obligations on the issuer will be treated as unrated. If either the 
+issuer or one of its issues has a rating of BB+ or lower, this rating should be used to 
+determine the capital requirements for an unrated asset or obligation on the issuer. 
+• Short-term assessments are deemed to be issue specific. They can only be used to derive 
+capital requirements for assets or obligations arising from the rated facility. They cannot 
+be generalized to other short-term assets or obligations, and in no event can a short-term 
+rating be used to support a risk factor for an unrated long-term asset or obligation. 
+• Where the risk factor for an unrated exposure is based on the rating of an equivalent 
+exposure to the borrower, foreign currency ratings should be used for exposures in foreign
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 48 
+ 
+currency. Canadian currency ratings, if separate, should only be used to determine the 
+capital requirements for assets or obligations denominated in Canadian currency.  
+ 
+The following additional conditions apply to the use of ratings: 
+• External assessments for one entity within a corporate group may not be used to 
+determine the risk factors for other entities within the same group. 
+• No rating may be inferred for an unrated entity based on assets that the entity possesses. 
+• In order to avoid the double counting of credit enhancement factors, companies may not 
+recognize credit risk mitigation if the credit enhancement has already been reflected in 
+the issue-specific rating. 
+• An insurer may not recognize a rating if the rating is at least partly based on unfunded 
+support (e.g. guarantees, credit enhancement or liquidity facilities) provided by the 
+insurer itself or one of its associates. 
+• Any assessment used must take into account and reflect the entire amount of credit risk 
+exposure an insurer has with regard to all payments owed to it. In particular, if an insurer is 
+owed both principal and interest, the assessment must fully take into account and reflect the 
+credit risk associated with repayment of both principal and interest. 
+• Insurers may not rely on unsolicited ratings in determining the risk factors for an asset, 
+except where the asset is a sovereign exposure and a solicited rating is not available.  
+ 
+4.1.2 Credit risk factors  
+ 
+Various risk factors are applied to invested assets depending on the external credit rating and the 
+remaining term to maturity as outlined below. 
+ 
+Investments in mutual funds or other similar assets must be broken down by type of investment 
+(bonds, preferred shares, etc.) and assigned the appropriate risk factor relating to the investment. 
+If these investments are not reported on a prorated basis, then the factor of the riskiest asset held 
+in the fund, is assigned to the entire investment. 
+4.1.2.1 Long-term obligations 
+Long-term obligations, including term deposits, bonds, debentures, and loans that are not eligible 
+for a 0% risk factor attract risk factors according to the following table. Long-term obligations 
+generally have an original term to maturity at issue of 1 year or more.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 49 
+ 
+Factors for Long-Term Obligations 
+ 
+Rating 1 year or less 
+remaining term to 
+maturity 
+Greater than 1 year up to 
+and including 5 years 
+remaining term to 
+maturity 
+Greater than 5 years 
+remaining term to 
+maturity 
+AAA 0.25% 0.50% 1.25% 
+AA+ to AA- 0.25% 1.00% 1.75% 
+A+ to A- 0.75% 1.75% 3.00% 
+BBB+ to BBB- 1.50% 3.75% 4.75% 
+BB+ to BB- 3.75% 7.75% 8.00% 
+B+ to B- 7.50% 10.50% 10.50% 
+Unrated 6.00% 8.00% 10.00% 
+Below B- 15.50% 18.00% 18.00% 
+ 
+• Remaining term to maturity denotes the number of years from the reporting date until 
+the maturity date.  
+• Insurers may use effective maturity as an option for determining risk factors for 
+investments in long-term obligations subject to a determined cash flow schedule. The 
+following formula may be used to calculate effective maturity: 
+Effective Maturity (M) =  
+∑ 𝑡×𝐶𝐹𝑡𝑡
+∑ 𝐶𝐹𝑡𝑡
+ , 
+where CFt denotes the cash flows (principal, interest payments and fees) contractually 
+payable by the borrower in period t.  
+• In cases where an insurer elects not to calculate an effective maturity or if it is not 
+feasible to do so using the above formula, the insurer is required to use the maximum 
+remaining time (in years) that the borrower is permitted to fully discharge its 
+contractual obligation (principal, interest, and fees) under the terms of the loan 
+agreement. Normally, this would correspond to the nominal maturity or term to 
+maturity of the instrument. 
+• Where information is not available to determine the redemption/maturity of an asset, 
+insurers must use the “greater than 5 years” category for that asset. 
+ 
+4.1.2.2 Short-term obligations 
+Short-term obligations, including commercial paper, that are not eligible for a 0% risk factor 
+have risk factors assigned according to the following table. Short-term obligations generally have 
+an original term to maturity at issue of no more than 365 days.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 50 
+ 
+ Factors for short-term obligations 
+ 
+Rating Factor 
+A-1, F1, P-1, R-1 or equivalent 0.25% 
+A-2, F2, P-2, R-2 or equivalent 0.50% 
+A-3, F3, P-3, R-3 or equivalent 2.00% 
+Unrated 6.00% 
+All other ratings, including non-prime and B or C ratings 8.00% 
+4.1.2.3 Asset-backed securities 
+The category of asset-backed securities encompasses all securitizations, including collateralized 
+mortgage obligations and mortgage-backed securities, as well as other exposures that result from 
+stratifying or tranching an underlying credit exposure. For exposures that arise as a result of asset 
+securitization transactions, insurers should refer to Guideline B-5: Asset Securitization to 
+determine whether there are functions provided (e.g., credit enhancement and liquidity facilities) 
+that require capital for credit risk. 
+National Housing Act (NHA) mortgage-backed securities:  
+NHA mortgage-backed securities that are guaranteed by Canada Mortgage Housing Corporation 
+(CMHC) receive a factor of 0% to recognize the fact that obligations incurred by CMHC are 
+legal obligations of the Government of Canada. 
+Other asset-backed securities:  
+The capital requirements for all other asset-backed securities are based on their external ratings. 
+In order for an insurer to use external ratings to determine a capital requirement, the insurer must 
+comply with all of the operational requirements for the use of ratings in Guideline B-5: Asset 
+Securitization. 
+For asset-backed securities (other than resecuritizations) rated BBB or higher, the capital 
+requirement is the same as the requirement specified in subsection 4.1.2.1 for a long-term 
+obligation having the same rating and maturity as the asset-backed security. If an asset-backed 
+security is rated BB, an insurer may recognize the rating only if it is a third-party investor in the 
+security. The credit risk factor for an asset-backed security (other than a resecuritization) rated 
+BB in which a company is a third-party investor is 300% of the requirement for a long-term 
+obligation rated BB having the same rating and maturity as the security.  
+ 
+The credit risk factors for short-term asset-backed securities (other than resecuritizations) rated 
+A-3 or higher are the same as those in subsection 4.1.2.2 for short-term obligations having the 
+same rating.  
+ 
+The credit risk factor for any resecuritization rated BBB or higher is 200% of the risk factor 
+applicable to an asset-backed security having the same rating and maturity as the resecuritization.  
+The credit risk factor for securitization exposures classified within the highest risk category of 
+securitization exposures in Guideline B-5: Asset Securitization, is 60%.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 51 
+ 
+ 
+The credit risk factor for any asset-backed security that is not mentioned above (including 
+unrated securities and any asset-backed security that is rated lower than BB) is 60%. 
+4.1.2.4 Preferred shares 
+Risk factors for preferred shares 
+ 
+Rating Factor 
+AAA, AA+ to AA-, Pfd-1, P-1 or equivalent  3.00% 
+A+ to A-, Pfd-2, P-2 or equivalent  5.00% 
+BBB+ to BBB-, Pfd-3, P-3 or equivalent  10.00% 
+BB+ to BB-, Pfd-4, P-4 or equivalent  20.00% 
+B+ or lower, Pfd-5, P-5 or equivalent or unrated  30.00% 
+4.1.2.5 Other balance sheet assets 
+Other risk factors for balance sheet assets 
+Factor Asset 
+0.00% • Cash held on the company’s own premises, 
+• Obligations37 of federal, provincial, and territorial governments in Canada, 
+• Obligations of agents of the federal, provincial or territorial governments in 
+Canada whose obligations are, by virtue of their enabling legislation, direct 
+obligations of the parent government, 
+• Obligations of sovereigns rated AA-  or better and their central banks38, 
+• Obligations that have been explicitly, directly, irrevocably and unconditionally 
+guaranteed by a government entity eligible for a 0% risk factor including, for 
+example, residential mortgages insured under the National Housing Act (NHA) or 
+equivalent provincial mortgage insurance program, and NHA mortgage-backed 
+securities that are guaranteed by the Canada Mortgage and Housing Corporation, 
+• Instalment premiums receivable (not yet due), 
+• Current tax assets (income tax receivables), 
+• Any deductions from capital, including goodwill, intangible assets and interests in 
+non-qualifying subsidiaries, associates, and joint ventures with more than 10% 
+ownership interest. 
+ 
+37 Includes securities, loans and accounts receivable. 
+38  Sovereign obligations rated lower than AA- may not receive a factor of 0%, and are instead subject to the factor 
+requirements in section 4.1.2.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 52 
+ 
+0.25% • Demand deposits, certificates of deposit, drafts, checks, acceptances and similar 
+obligations that have an original maturity of less than three months, and that are 
+drawn on regulated deposit-taking institutions subject to the solvency requirements 
+of the Basel Framework. 
+ 
+(Note: where the maturity of the asset is longer than three months, the risk factor 
+related to the credit rating of the regulated deposit-taking institution would apply 
+instead.) 
+2.50% • Investment income due and accrued. 
+4% • First mortgages on one- to four-unit residential dwellings. 
+5% • Receivables, outstanding less than 60 days, from agents, brokers, non-qualifying 
+subsidiaries, associates, joint ventures, and policyholders, including instalment 
+premiums and other receivables. 
+10% • Receivables, outstanding 60 days or more, from agents, brokers, non-qualifying 
+subsidiaries, associates, joint ventures and policyholders, including instalment 
+premiums and other receivables, 
+• Multi-unit residential mortgages and other residential mortgages that do not 
+qualify as first mortgages on one- to four-unit residential dwellings, 
+• The amount of available refunds of defined benefit pension fund surplus assets 
+included in capital available, 
+• Deferred tax assets arising from temporary differences that the institution could 
+recover from income taxes paid in the three immediate preceding years. Insurers 
+should deduct from capital available any amount of DTAs from temporary 
+differences in excess of the amount of taxes recoverable in the three immediate 
+preceding years. 
+• Right-of-use assets associated with owner-occupied leased properties and other 
+leases, excluding leases for properties used for investment purposes. 
+• Other investments not specified in this section or section 5.5 as part of other 
+market risk exposures, excluding derivative-related amounts. Capital requirements 
+for derivative-related amounts included in other investments are set out in section 
+4.2, 
+• Other assets not specified in this section or section 5.5 as part of other market risk 
+exposures, excluding other investments. 
+15% • Mortgages secured by undeveloped land (i.e. construction financing), other than 
+land used for agricultural purposes or for the production of minerals. A property 
+recently constructed or renovated will be considered as “under construction” until 
+it is completed and 80% leased. 
+20% • Other recoverables (mainly salvage and subrogation) on liabilities for incurred 
+claims.  
+• Assets held for sale (other than financial)39, 
+ 
+39 Alternatively, assets classified as held for sale may be re-consolidated (look-through approach) at the option of the 
+insurer. If this method is selected, any write-down made because of re-measuring the assets classified as held for
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 53 
+ 
+• Right-of-use assets associated with leases for properties used for investment 
+purposes. 
+45% • Loans or other forms of lending (bonds, debentures, mortgages, etc.) to non-
+qualifying (non-consolidated) subsidiaries, associates and joint ventures with more 
+than a 10% ownership interest, that are not reported as equity on their financial 
+statements.  
+ 
+4.2.  Capital Requirements for Off-Balance Sheet Exposures 
+ 
+The capital required for off-balance sheet exposures such as structured settlements, letters of 
+credit or non-owned deposits, derivatives and other exposures is calculated in a manner similar 
+to on-balance sheet assets in that the credit risk exposure is multiplied by a counterparty risk 
+factor to arrive at the capital required. However, unlike most assets, the face amount of an off-
+balance sheet exposure does not necessarily reflect the true credit risk exposure. To approximate 
+this exposure, a credit equivalent amount is calculated for each exposure. This amount, net of 
+any collateral or guarantees, is then multiplied by a credit conversion factor. For letters of credit 
+and non-owned deposits, the credit equivalent amount is the face value. The determination of the 
+counterparty credit risk categories and the approach for determining the eligibility of collateral 
+and guarantees is the same as it is for other assets. 
+ 
+Insurers should also refer to OSFI’s Guideline B-5: Asset Securitization, which outlines the 
+regulatory framework for asset securitization transactions, including transactions that give rise to 
+off-balance sheet exposures. 
+The risk to an insurer associated with structured settlements, letters of credit, non-owned 
+deposits, derivatives and other exposures and the amount of capital required to be held against 
+this risk is: 
+i.) The credit equivalent amount of the instrument at the reporting date; 
+ii.) Less: the value of eligible collateral securities or guarantees (reference section 4.3); 
+iii.) Multiplied by: a factor reflecting the nature and maturity of the instrument (credit 
+conversion factor); and 
+iv.) Multiplied by: a factor reflecting the risk of default of the counterparty to a transaction 
+(counterparty credit risk).  
+ 
+4.2.1. Credit equivalent amount 
+ 
+The credit equivalent amount related to off-balance sheet exposures varies according to the type 
+of instrument. 
+ 
+sale at the lower of carrying amount and fair value less costs to sell should be reflected in the MICAT after re -
+consolidation. Any asset within a consolidated group that is deducted from capital ava ilable for MICAT purposes 
+should continue to be deducted from capital when it becomes an asset held for sale. If the insurer has elected to 
+apply a 20% risk factor to assets held for sale instead of using the look-through approach, associated liabilities held 
+for sale should be subject to the usual MICAT treatment of liabilities.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 54 
+ 
+4.2.1.1. Derivatives 
+The credit equivalent amount for derivatives is the positive replacement cost (obtained by 
+“marking to market”) plus an amount for potential future credit exposure (an “add-on” factor). 
+ 
+Derivatives include forwards, futures, swaps, purchased options, and other similar contracts. 
+Insurers are not exposed to credit risk for the full face value of these contracts (notional principal 
+amount); only to the potential cost of replacing the cash flow (on contracts showing a positive 
+value) if the counterparty defaults. The credit equivalent amounts are assigned the risk factor 
+appropriate to the counterparty in order to calculate the capital requirement.  
+ 
+The credit equivalent amount depends on the maturity of the contract and the volatility of the 
+underlying instrument. It is calculated by adding: 
+i.) the total replacement cost (obtained by "marking to market") of all contracts with 
+positive value; and 
+ii.) an amount for potential future credit exposure (or "add-on"). This is calculated by 
+multiplying the notional principal amount by the following factors: 
+ 
+Derivative “Add-On” Factors 
+ 
+Residual Maturity 
+ 
+(01) 
+Interest Rate 
+ 
+(02) 
+Exchange 
+Rate and Gold 
+(03) 
+Equity 
+ 
+(04) 
+Precious Metals 
+except Gold 
+(05) 
+Other 
+Instruments 
+(06) 
+One year or less 0.0% 1.0%  6.0% 7.0% 10.0% 
+One year to five years 0.5% 5.0%  8.0% 7.0% 12.0% 
+Over five years 1.5% 7.5%  10.0% 8.0% 15.0% 
+ 
+Notes: 
+ 
+1. Instruments traded on exchanges do not require capital for counterparty credit risk where 
+they are subject to daily margining requirements. 
+2. For contracts with multiple exchanges of principal, the factors are to be multiplied by the 
+number of remaining payments in the contract. 
+3. For contracts that are structured to settle outstanding exposures following specified 
+payment dates, and where the terms are reset so that the market value of the contract is 
+zero on these specified dates, the residual maturity is considered to be the time until the 
+next reset date. In the case of interest rate contracts with remaining maturities of more 
+than one year and that also meet the above criteria, the add-on factor is subject to a floor 
+of 0.5%. 
+4. Contracts not covered by columns (02) to (05) in the above table are to be treated as 
+“other instruments” for the purpose of determining the add-on factor. 
+5. No potential credit exposure would be calculated for single currency floating/floating 
+interest rate swaps; the credit exposure on these contracts would be evaluated solely on 
+the basis of their mark-to-market value.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 55 
+ 
+6. The add-ons are based on effective rather than stated notional amounts. In the event that 
+the stated notional amount is leveraged or enhanced by the structure of the transaction, 
+companies must use the actual or effective notional amount when determining potential 
+future exposure. For example, a stated notional amount of $1 million with payments 
+calculated at two times LIBOR would have an effective notional amount of $2 million.  
+7. Potential credit exposure is to be calculated for all over-the-counter (OTC) contracts 
+(with the exception of single currency floating/floating interest rate swaps), regardless of 
+whether the replacement cost is positive or negative.  
+No add-on for potential future exposure is required for credit derivatives. The credit equivalent 
+amount for a credit derivative is equal to the greater of its replacement cost or zero. 
+ 
+4.2.1.2. Other exposures 
+ 
+Commitments 
+A commitment involves an obligation (with or without a material adverse change or similar 
+clause) of the insurer to fund its customer in the normal course of business should the customer 
+seek to draw down the commitment. This includes: 
+i.) extending credit in the form of loans or participations in loans, lease financing 
+receivables, mortgages or loan substitutes; or 
+ii.) purchasing loans, securities, or other assets.  
+ 
+Normally, commitments involve a written contract or agreement and a commitment fee or some 
+other form of consideration. 
+ 
+The maturity of a commitment should be measured from the date when the commitment was 
+accepted by the customer, regardless of whether the commitment is revocable or irrevocable, 
+conditional or unconditional, until the earliest date on which:  
+i.) the commitment is scheduled to expire, or  
+ii.) the insurer can, at its option, unconditionally cancel the commitment. 
+ 
+Repurchase and reverse repurchase agreements 
+A securities repurchase (repo) is an agreement whereby a transferor agrees to sell securities at a 
+specified price and repurchase the securities on a specified date and at a specified price. Since 
+the transaction is regarded as a financing transaction for accounting purposes, the securities 
+remain on the balance sheet. Given that these securities are temporarily assigned to another 
+party, the factor accorded to the asset should be the higher of the factor of the security and the 
+factor of the counterparty to the transaction (net of any eligible collateral).  
+ 
+A reverse repo agreement is the opposite of a repo agreement, and involves the purchase and 
+subsequent sale of a security. Reverse repos are treated as collateralized loans, reflecting the 
+economic reality of the transaction. The risk is therefore to be measured as an exposure to the 
+counterparty. Where the asset temporarily acquired is a security that attracts a preferential factor, 
+this would be recognized as collateral and the factor would be reduced accordingly.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 56 
+ 
+Guarantees provided in securities lending 
+In securities lending, insurers can act as principal to the transaction by lending their own 
+securities or as agent by lending securities on behalf of clients. When the insurer lends its own 
+securities, the risk factor is the higher of: 
+• the risk factor related to the instruments lent, or 
+• the risk factor for an exposure to the borrower of the securities. The exposure to the 
+borrower may be reduced if the insurer holds eligible collateral (reference section 4.3). 
+Where the insurer lends securities through an agent and receives an explicit guarantee of 
+the return of the securities, the insurer may treat the agent as the borrower subject to the 
+conditions in section 4.3.2. 
+ 
+When the insurer, acting as an agent, lends securities on behalf of a client and guarantees that the 
+securities lent will be returned, or the insurer will reimburse the client for the current market 
+value, the insurer should calculate the capital requirement as if it were the principal to the 
+transaction. The capital requirements are those for an exposure to the borrower of the securities, 
+where the exposure amount may be reduced if the insurer holds eligible collateral (reference 
+section 4.3). 
+ 
+4.2.2. Credit conversion factors 
+ 
+Separate credit conversion factors exist for structured settlements, letters of credit, non-owned 
+deposits, derivatives and other exposures. 
+ 
+For other exposures, the weighted average of the credit conversion factors, described below, for 
+all of these instruments held by the insurer, should be used.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 57 
+ 
+Credit Conversion Factors 
+Factor Instrument 
+100% • Direct credit substitutes (general guarantees of indebtedness and 
+guarantee-type instruments, including standby letters of credit and non-
+owned deposits serving as financial guarantees for, or supporting, loans 
+and securities).  
+• Derivatives such as forwards, futures, swaps, purchased options (including 
+options purchased over the counter) and other similar derivative contracts, 
+including: 
+i.) Interest rate contracts (single currency interest rate swaps, basis swaps, 
+forward rate agreements and products with similar characteristics, 
+interest rate futures, interest rate options purchased, and similar 
+derivative contracts based on specific parameters as well as on indices, 
+etc.). 
+ii.) Equity contracts (forwards, swaps, purchased options, and similar 
+derivative contracts based on specific parameters as well as on indices, 
+etc.). 
+iii.) Exchange rate contracts (gold contracts, cross-currency swaps, cross-
+currency interest rate swaps, outright forward foreign exchange 
+contracts, currency futures, currency options purchased, and similar 
+derivative contracts based on specific parameters as well as on indices, 
+etc.). 
+iv.) Precious metals (except gold) and other commodity contracts 
+(forwards, swaps, purchased options, and similar derivative contracts 
+based on specific parameters as well as on indices, etc.). 
+v.) Other derivative contracts based on specific parameters as well as on 
+indices (such as catastrophe insurance options and futures). 
+• Forward agreements (contractual obligations) to purchase assets. 
+• Sale and repurchase agreements. 
+• All other exposures not reported elsewhere (provide details). 
+50% • Structured settlements that are not recorded as liabilities on the balance 
+sheet (refer to Type 1 characteristics and to Guideline D-5 Accounting for 
+Structured Settlements). 
+• Transaction-related contingencies (for example, warranties and standby 
+letters of credit related to a particular transaction). 
+• Commitments with an original maturity exceeding one year. 
+20% • Commitments with an original maturity of one year or less. 
+0% • Commitments that are unconditionally cancellable at any time without 
+prior notice. 
+ 
+4.2.3. Risk factors 
+ 
+Risk factors for off-balance sheet exposures are assigned a risk factor consistent with section 4.1. 
+All criteria in section 4.1 around the use of ratings are applicable to off-balance sheet exposures.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 58 
+ 
+ 
+Risk factors for structured settlements, which are considered long-term exposures, are based on 
+the credit rating of the counterparty from which the annuity is purchased. The risk factors are as 
+follows: 
+ 
+ Risk Factors for Structured Settlements 
+ 
+Rating Risk factor 
+Rated A- and higher  2% 
+Rated BBB+  to B-  8% 
+Unrated  10% 
+Below B-  18% 
+ 
+If the structured settlement is not rated by one of the four rating agencies listed in section 4.1.1, 
+an insurer may use a credit rating from another reputable rating agency. The use of an alternative 
+rating agency must comply with all the criteria around the use of ratings specified in section 
+4.1.1, including a consistent use of the same rating agency in order to assign a risk factor based 
+on the credit rating of the annuity underwriter. 
+ 
+4.3.  Capital Treatment of Collateral and Guarantees  
+ 
+4.3.1. Collateral 
+ 
+A collateralized transaction is one in which: 
+• a company has a credit exposure or potential credit exposure; and 
+• the credit exposure or the potential credit exposure is hedged in whole or in part by 
+collateral posted by a counterparty or by a third party on behalf of the counterparty. 
+ 
+Recognition of collateral in reducing the capital requirement is limited to cash or securities rated 
+A- or higher. Any collateral must be held throughout the period for which the exposure exists. 
+Only that portion of an exposure that is covered by eligible collateral will be assigned the risk 
+factor given to the collateral, while the uncovered portion retains the risk factor of the underlying 
+counterparty. Only collateral securities with a lower risk factor than the underlying exposure will 
+lead to reduced capital requirements. All criteria in section 4.1 around the use of ratings are 
+applicable to collateral. Where a rating is not available for the collateral asset, exposure, or 
+counterparty where applicable, no reduction in capital required is permitted. 
+ 
+The effects of collateral may not be double counted. Therefore, insurers may not recognize 
+collateral on claims for which an issue-specific rating is used that already reflects that collateral. 
+ 
+Collateral securities used to reduce capital requirements must materially reduce the risk arising 
+from the credit quality of the underlying exposure. In particular, collateral used may not be 
+related party obligations of the issuer of the underlying exposure (i.e. obligations of the 
+underlying counterparty itself, its parent, or one of its subsidiaries or associates).
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 59 
+ 
+ 
+4.3.2. Guarantees 
+ 
+Investments (principal and interest) or exposures that have been explicitly, directly, irrevocably 
+and unconditionally guaranteed by a guarantor whose long-term issuer credit rating is A- and 
+higher, may attract the risk factor allocated to a direct claim on the guarantor where the desired 
+effect is to reduce the risk exposure. Thus only guarantees40 issued by entities with a lower risk 
+factor than the underlying counterparty will lead to reduced capital requirements. To be eligible, 
+guarantees must be legally enforceable.  
+ 
+Where the recovery of losses on a loan, financial lease agreement, security or exposure is 
+partially guaranteed, only the part that is guaranteed is to be weighted according to the risk factor 
+of the guarantor (see examples below). The uncovered portion retains the risk factor of the 
+underlying counterparty. 
+ 
+All criteria in section 4.1 around the use of ratings remain applicable to guarantees. Where a 
+rating is not available for the investment, exposure, or guarantor where applicable, no reduction 
+in capital required is permitted. 
+ 
+An insurer may not recognize a guarantee provided by a related party (parent, subsidiary or 
+associate) of the insurer. This treatment follows the principle that guarantees within a corporate 
+group are not a substitute for capital. 
+ 
+The effects of credit protection may not be double counted. Therefore, no capital recognition is 
+given to credit protection on claims for which an issue-specific rating is used that already reflects 
+that protection.  
+ 
+To be eligible, a guarantee must cover the full term of the exposure, i.e. no recognition will be 
+given to a guarantee if there is a maturity mismatch41.  
+4.3.2.1. Additional requirements for guarantees 
+The following conditions must be satisfied in order for a guarantee to be recognized: 
+1. On the qualifying default/non-payment of the counterparty, the insurer may in a timely 
+manner pursue the guarantor for any monies outstanding under the documentation 
+governing the transaction. The guarantor may make one lump sum payment of all monies 
+under such documentation to the insurer, or the guarantor may assume the future payment 
+obligations of the counterparty covered by the guarantee. The insurer must have the right 
+to receive any such payments from the guarantor without first having to take legal action 
+in order to pursue the counterparty for payment. 
+2. The guarantee is an explicitly documented obligation assumed by the guarantor. 
+ 
+40  Letters of credit for which a company is the beneficiary are included within the definition of guarantees, and 
+receive the same capital treatment. 
+41  A maturity mismatch occurs when the residual maturity of the credit protection is less than that of the underlying    
+exposure.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 60 
+ 
+3. Except as noted in the following sentence, the guarantee covers all types of payments the 
+underlying obligor is expected to make under the documentation governing the 
+transaction, for example notional amount, margin payments etc. Where a guarantee 
+covers payment of principal only, interest and other uncovered payments should be 
+treated as an unsecured amount in accordance with section 4.1.2. 
+Example 4-1: Credit risk exposure. 
+To record a $100,000 bond rated AAA due in 10 years that has a government guarantee of 90%, 
+the insurer would report a balance sheet value of $90,000 ($100,000 x 90%) in the 0% risk 
+weighted category and a balance value of $10,000 ($100,000 - $90,000) in the AAA category 
+under bonds expiring or redeemable in more than five years. The capital required in the 0% risk 
+weighted category is $0 ($90,000 x 0.0%). The capital required in the AAA category is $125 
+($10,000 x 1.25%) for a total capital requirement of $125. An example of the calculation, 
+assuming no other assets, is provided in the chart below. 
+ 
+Example of the credit risk calculation, assuming no other assets. 
+ 
+Rating / Risk Factor Factor 
+(%) 
+Balance Sheet 
+Value 
+Capital 
+Required 
+     0% risk factor 0.0% $90,000 $0 
+     Rating: AAA  1.25% $10,000 $125 
+Total  $100,000 $125 
+ 
+Example 4-2: Type 1 structured settlement. 
+To record a $300,000 Type 1 structured settlement rated BBB+ to B-, backed by collateral or a 
+guarantee of $200,000 from a counterparty rated A- or higher, the insurer would report a credit 
+equivalent amount of $300,000 and collateral and guarantees of negative $200,000 in the BBB+ 
+to B- category, and collateral and guarantees of $200,000 in the A- and higher category. 
+ 
+The capital required in the BBB+ to B- category is $4,000 (($300,000 - $200,000) x 50% x 8%). 
+The capital required in the A- and higher category is $500 ($200,000 x 50% x 0.5%) for a total 
+capital requirement of $4,500. An example of the calculation, assuming no other exposures, is 
+provided in the table below.
+
+Chapter 4. Credit Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 61 
+ 
+Example of the structured settlement calculation, assuming no other exposures: 
+ 
+Rating / Risk Factor 
+Credit 
+Equivalent 
+Amount 
+(01) 
+Collateral and 
+Guarantees 
+ 
+(02) 
+Credit 
+Conversion 
+Factor 
+(03) 
+Risk Factor 
+ 
+ 
+(04) 
+Capital 
+Required 
+ 
+(05) 
+   0% risk factor n/a n/a n/a n/a n/a 
+   Rated A- and higher n/a $200,000 50% 0.5%  $500 
+   Rated BBB+ to B- $300,000 ($200,000) 50% 8.0%  $4,000 
+   Total n/a n/a n/a n/a  $4,500
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 62 
+ 
+Chapter 5.  Market Risk 
+ 
+Market risk arises from potential changes in rates or prices in various markets such as for interest 
+rates, foreign exchange rates, equities, real estate, and other market risk exposures. Exposure to 
+this risk results from trading, investing, and other business activities, which create on- and off-
+balance sheet positions.  
+ 
+Investments in mutual funds or other similar assets must be broken down by type of investment 
+(bonds, preferred shares, common shares, etc.) and assigned the appropriate risk factor relating to 
+the investment. If these investments are not reported on a prorated basis, then the factor of the 
+riskiest asset held in the fund is assigned to the entire investment. 
+ 
+5.1.  Interest Rate Risk  
+ 
+Interest rate risk represents the risk of economic loss resulting from market changes in interest 
+rates and the impact on interest rate sensitive assets and liabilities. Interest rate risk arises due to 
+the volatility and uncertainty of future interest rates. 
+ 
+Assets and liabilities whose value depends on interest rates are affected. Interest rate sensitive 
+assets include fixed income assets. Interest rate sensitive liabilities include those for which the 
+values are determined using a discount rate. 
+ 
+To compute the interest rate risk margin, a duration and an interest rate shock factor are applied 
+to the fair value of interest rate sensitive assets and liabilities. The interest rate risk margin is the 
+difference between the change in the value of interest rate sensitive assets and the change in the 
+value of interest rate sensitive liabilities, taking into account the change in the value of 
+recognized interest rate derivative contracts, as appropriate. 
+ 
+5.1.1. General requirements 
+ 
+The components used to calculate the interest rate risk margin are as follows. 
+ 
+5.1.1.1. Interest rate sensitive assets 
+ 
+The interest rate sensitive assets to be included in the calculation of the interest rate margin are 
+those for which their fair value will change with movements in interest rates. Although certain 
+assets, for example loans and bonds held to maturity, may be reported on the balance sheet on an 
+amortized cost basis, their economic value, and changes in that value, are to be considered for 
+interest rate risk margin purposes. Interest rate sensitive assets include: 
+• term deposits and other similar short-term securities (excluding cash), 
+• bonds and debentures, 
+• commercial paper, 
+• loans,
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 63 
+ 
+• mortgages (residential and multi-unit residential), 
+• mortgage-backed and asset-backed securities (MBS and ABS), 
+• preferred shares,  
+• interest rate derivatives held for other than hedging purposes, and 
+• insurance contracts assets 
+  
+Investments in mutual funds and other similar assets should be broken down by type of 
+investment (bond, preferred share, common shares, etc.). The assets in the fund that are interest 
+rate sensitive are to be included in the determination of the fair value of the insurer’s total 
+interest rate sensitive assets.  
+ 
+Other assets, such as cash, investment income due and accrued, common shares and investment 
+properties, are not to be included in the determination of the value of interest rate sensitive 
+assets. Such assets are assumed for interest rate risk margin determination purposes to be 
+insensitive to movements in interest rates. 
+ 
+5.1.1.2. Interest rate sensitive liabilities 
+ 
+The interest rate sensitive liabilities to be included in the calculation of the interest rate risk 
+margin are those for which their fair value will change with movements in interest rates. The 
+following liabilities are considered sensitive to interest rates and are to be included: 
+• insurance contract liabilities for incurred claims, and 
+• insurance contract liabilities for remaining coverage42. 
+ 
+Insurers must obtain OSFI’s supervisory approval in order to be able to consider other liabilities 
+in the calculation of interest rate risk margin. 
+ 
+5.1.1.3. Allowable interest rate derivatives 
+ 
+Interest rate derivatives are those for which the cash flows are dependent on future interest rates. 
+They may be used to hedge an insurer’s interest rate risk and as such may be recognized in the 
+determination of the margin required for interest rate risk, subject to the conditions below. 
+ 
+Only plain-vanilla interest rate derivatives that clearly serve to offset fair value changes in a 
+company’s capital position due to changes in interest rates may be included in the interest rate 
+risk calculation. Plain-vanilla interest rate derivative instruments are limited to the following: 
+• interest rate and bond futures,  
+• interest rate and bond forwards, and  
+ 
+42 If the interest rate sensitive liability for remaining coverage (LRC) has a contractual service margin (CSM), the 
+LRC duration, defined in section 5.1.1.4. should be determined as a weighted average of durations of its components 
+with a zero duration for CSM.
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 64 
+ 
+• single-currency interest rate swaps.  
+ 
+Other interest rate derivatives, including interest rate options, caps and floors are not considered 
+plain-vanilla and may not be recognized in the determination of the interest rate risk margin. 
+ 
+Insurers must understand the interest rate hedging strategies that they have in place and be able 
+to demonstrate to OSFI, upon request, that the underlying hedges decrease interest rate risk 
+exposure and that the addition of such derivatives does not result in overall increased risk. For 
+example, insurers are expected to be able to demonstrate that they have defined the hedging 
+objectives, the class of risk being hedged, the nature of the risk being hedged, the hedge horizon, 
+and have considered other factors, such as the cost and liquidity of the hedging instruments. In 
+addition, the ability to demonstrate an assessment, retrospectively or prospectively, of the 
+performance of the hedge would be appropriate. If the insurer cannot demonstrate that the 
+derivatives result in decreased overall risk, then additional capital may be required, and 
+companies in this situation should contact OSFI for details. 
+ 
+Derivatives used for hedging an insurer’s interest rate risk are subject to credit risk requirements. 
+Refer to section 4.2 for further details. 
+ 
+5.1.1.4. Duration of interest rate sensitive assets and liabilities 
+ 
+Insurers are required to calculate the duration of the interest rate sensitive assets and liabilities 
+for the purpose of the interest rate risk requirement calculation. The duration of an asset or a 
+liability is a measure of the sensitivity of the value of the asset or liability to changes in interest 
+rates43. More precisely, it is the percentage change in an asset or liability value given a change in 
+interest rates. 
+ 
+The calculation of duration for an asset or liability will depend on the duration measure chosen 
+and whether the cash flows of the asset or liability are themselves dependent on interest rates. 
+Modified duration is a duration measure in which it is assumed that interest rate changes do not 
+change the expected cash flows. Effective duration is a duration measure in which recognition is 
+given to the fact that interest rate changes may change the expected cash flows. 
+ 
+An insurer may use either modified duration or effective duration to calculate the duration of its 
+assets and liabilities. However, the duration methodology chosen should apply to all interest rate 
+sensitive assets and liabilities under consideration and the same methodology must be used 
+consistently from year to year (i.e. “cherry-picking” is not permitted). 
+ 
+The cash flows associated with interest rate derivatives are sensitive to changes in interest rates 
+and therefore the duration of an interest rate derivative must be determined using effective 
+duration. In particular, if a company has interest rate derivatives on its balance sheet that lie 
+within the scope of section 5.1.1.3, then it must use effective duration for all of its interest rate 
+sensitive assets and liabilities. 
+ 
+43 An asset or liability for which the future cash flows are not adjusted to reflect the time value of money has a 
+duration of zero.
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 65 
+ 
+ 
+The portfolio duration (modified or effective) can be obtained by calculating the weighted 
+average of the duration of the assets or the liabilities in the portfolio. 
+ 
+The dollar duration of an asset or liability is the change in dollar value of an asset or liability for 
+a given change in interest rates. 
+ 
+5.1.1.5. Modified duration 
+ 
+Modified duration is defined as the approximate percentage change in the present value of cash 
+flows for a 100 basis point change in the annually compounded yield rate, assuming that 
+expected cash flows do not change when interest rates change.  
+ 
+Modified duration can be written as: 
+ 
+Modified  = 1 x Ʃ t x PVCFt 
+duration  1+Yield  Market Value 
+where, 
+Yield = the annually compounded yield to maturity of the cash flows, 
+PVCFt = the present value of the cash flow at time t discounted at the 
+yield rate, and 
+the sum in the numerator is taken over all times t at which a cash flow occurs. 
+ 
+5.1.1.6. Effective duration 
+ 
+Effective duration is a duration measure in which recognition is given to the fact that interest rate 
+changes may change the expected cash flows. Although modified duration will give the same 
+estimate of the percentage fair value change for an option-free series of cash flows, the more 
+appropriate measure for any series of cash flows with an embedded option is effective duration. 
+ 
+Effective duration is determined as follows: 
+ 
+Effective = Fair value if yields decline – fair value if yields rise 
+duration  2 x (initial price) x (change in yield in decimal) 
+where, 
+∆y =  change in yield in decimal 
+V0 =  initial fair value 
+V- =  fair value if yields decline by ∆y 
+V+ =  fair value if yields increase by ∆y, 
+ 
+then effective duration is as follows: 
+ 
+V- - V+ 
+2 x (V0) x (∆y)
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 66 
+ 
+ 
+5.1.1.7. Portfolio duration 
+ 
+The duration of a portfolio of interest rate sensitive assets or liabilities is to be determined by 
+calculating the weighted average of the duration of the assets or liabilities in the portfolio. The 
+weight is the proportion of the portfolio that a security comprises. Mathematically, a portfolio’s 
+duration is calculated as follows: 
+ 
+w1D1 + w2D2 + w3D3 + … + wkDK 
+where, 
+wi =  fair value of security i/fair value of the portfolio 
+Di =  duration of security i 
+K =  number of securities in the portfolio. 
+ 
+5.1.1.8. Dollar fair value change 
+ 
+Modified and effective duration are related to percentage fair value changes. The interest rate 
+risk requirements depend on determining the adjustment to the fair value of interest rate sensitive 
+assets and liabilities for dollar fair value changes. The dollar fair value change can be measured 
+by multiplying duration by the dollar fair value and the number of basis points (in decimal form). 
+In other words, 
+ 
+ Dollar fair value change = duration x dollar fair value x interest rate change (in decimal) 
+ 
+5.1.1.9. Duration of allowable interest rate derivatives 
+ 
+Effective duration is the appropriate measure that should be used when assets or liabilities have 
+embedded options. For portfolios with eligible plain-vanilla interest rate derivatives, insurers 
+should be using effective dollar duration because the insurer is hedging the dollar interest rate 
+risk exposure. 
+ 
+Example 5-1: Effective dollar duration of a swap 
+ 
+Assuming an insurer has a longer duration for its interest rate sensitive assets and a shorter 
+duration for its interest rate sensitive liabilities, the current dollar duration position of the insurer, 
+prior to taking into consideration any interest rate derivatives, is effectively as follows: 
+ 
+Insurer’s dollar duration  =  dollar duration of assets – dollar duration of liabilities > 0 
+ 
+The insurer enters into a single-currency interest rate swap in which it pays fixed-rate and 
+receives floating-rate. The dollar duration of a swap for a fixed-rate payer can be broken down as 
+follows:  
+Effective dollar duration of a 
+swap for a fixed-rate payer = effective dollar duration of a floating-rate bond  – effective dollar 
+duration of a fixed rate bond
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 67 
+ 
+Assuming the dollar duration of the floating-rate bond is near zero, then 
+ 
+Effective dollar duration of a 
+swap for a fixed-rate payer = 0 – effective dollar duration of a fixed-rate bond 
+ 
+The dollar duration of the swap position is negative; therefore, adding the swap position reduces 
+the company’s dollar duration of assets and moves the insurer’s overall dollar duration position 
+closer to zero. 
+ 
+5.1.2. Interest rate risk margin 
+ 
+The interest rate risk margin is determined by measuring the economic impact on the insurer of a 
+∆y change in interest rates. The ∆y interest rate shock factor is 1.25% (∆y = 0.0125). 
+ 
+A. The estimated change in the interest rate sensitive asset portfolio for an interest rate shock 
+factor increase of ∆y is determined as follows: 
+ 
+Dollar fair value change of the interest 
+rate sensitive asset portfolio = ( Duration of interest rate sensitive asset portfolio ) x ∆y 
+x      ( Fair value of interest rate sensitive asset portfolio ) 
+ 
+B. The change in the interest rate sensitive liabilities for an interest rate shock factor 
+increase of ∆y is determined as follows: 
+ 
+Dollar fair value change of the interest 
+rate sensitive liabilities = ( Duration of interest rate sensitive liabilities ) x ∆y x ( 
+Fair value of interest rate sensitive liabilities ) 
+ 
+C. The change in the allowable interest rate derivatives for the interest rate shock factor 
+increase of ∆y is determined as follows: 
+ 
+Effective dollar duration of the allowable 
+interest rate derivatives portfolio = sum of the effective dollar duration of the allowable 
+interest rate derivatives for a ∆y increase in interest rates 
+ 
+D. The capital requirement for an interest rate shock factor increase of ∆y is determined as 
+the greater of zero and A – B + C. 
+ 
+E. Steps A through C are repeated for an interest rate shock factor decrease of ∆y (i.e. -∆y) 
+and the capital requirement for an interest rate decrease of ∆y is the greater of zero and   
+A – B + C. 
+ 
+F. The interest rate risk margin is then determined as the maximum of D or E. 
+ 
+5.2.  Foreign Exchange Risk 
+ 
+The foreign exchange risk margin is intended to cover the risk of loss resulting from fluctuations 
+in currency exchange rates and is applied to the entire business activity of the insurer.
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 68 
+ 
+5.2.1. General requirements 
+ 
+Two steps are necessary to calculate the foreign exchange risk margin. The first is to measure the 
+exposure in each currency position. The second is to calculate the capital requirement for the 
+portfolio of positions in different currencies. 
+ 
+The foreign exchange risk margin is 10% of the greater of: 
+i.) the aggregate net long positions in each currency, adjusted by effective allowable foreign 
+exchange rate hedges if any are used, and 
+ii.) the aggregate net short positions in each currency, adjusted by effective allowable foreign 
+exchange rate hedges if any are used, 
+ 
+where effective allowable foreign exchange rate hedges are limited to plain-vanilla foreign 
+currency derivatives such as futures and forward foreign currency contracts and currency swaps. 
+ 
+Investments in mutual funds and other similar assets should be broken down by type of 
+investment (bonds, preferred shares, common shares, etc.) for calculating foreign exchange risk 
+margin. The assets in the fund that are denominated in a foreign currency are to be included in 
+the calculation to determine the capital requirement for each currency position. In cases where a 
+claim liability is recorded in Canadian dollars but the settlement of the claim will be made in a 
+foreign currency, the liability must be included in the calculation of the foreign exchange risk 
+margin. 
+ 
+5.2.2. Foreign exchange risk margin 
+ 
+Step 1: Measuring the exposure in a single currency 
+ 
+The net open position for each currency is calculated by summing: 
+• the net spot position, defined as all asset items less all liability items denominated in the 
+currency under consideration, including accrued interest and accrued expenses if they are 
+subject to exchange rate fluctuations; 
+• the net forward position (i.e. all net amounts under forward foreign exchange 
+transactions, including currency futures and the principal on currency swaps), valued at 
+current spot market exchange rates or discounted using current interest rates and 
+translated at current spot rates; 
+• guarantees (and similar instruments) that are certain to be called and are likely to be 
+irrecoverable; 
+• net future income/expenses not yet accrued but already fully hedged (at the discretion of 
+the reporting institution); and 
+• any other item representing a profit or loss in foreign currencies.
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 69 
+ 
+Adjustments: 
+ 
+For insurers with foreign operations, those items that are currently deducted from capital 
+available in calculating the MICAT ratio and are denominated in the corresponding currency 
+may be excluded from the calculation of net open currency positions, to a maximum of zero. For 
+example: 
+• Goodwill and other intangibles;  
+• Interests in non-qualifying subsidiaries, associates and joint ventures; and 
+• Non-allowable foreign exchange rate hedges that are not considered in capital available. 
+ 
+Carve-out: 
+ 
+An insurer with a net open long position in a given currency may reduce the amount of the net 
+exposure, to a maximum of zero, by the amount of a carve-out, which is equivalent to a short 
+position of up to 25% of the liabilities denominated in the corresponding currency.  
+ 
+Step 2: Calculating the capital requirement for the portfolio 
+ 
+The nominal amount (or net present value) of the net open position in each foreign currency 
+calculated in step 1 is converted at a spot rate into Canadian dollars. The gross capital 
+requirement is 10% of the overall net open position, calculated as the greater of: 
+• the sum of the net open long positions; and  
+• the absolute value of the sum of the net open short positions. 
+ 
+Example: 
+An insurer has $100 of U.S. assets and $50 of U.S. liabilities. 
+• The net spot position, defined as assets less liabilities, is a long position of $50.  
+• The carve-out, using 25% of liabilities, is: 
+= 25% * 50 
+= 12.5 
+• Therefore, the foreign exchange risk margin is: 
+= 10% * MAX44 ((net spot position - carve-out), 0) 
+= 10% * MAX ((50 – 12.5), 0) 
+= 10% * 37.5 
+= 3.75 
+ 
+ 
+44 The carve-out can be used to reduce the net open long currency position to a minimum of zero.
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 70 
+ 
+5.2.2.1. Allowable foreign currency hedges 
+ 
+Foreign currency derivatives are those for which the cash flows are dependent on future foreign 
+exchange rates. They may be used to hedge an insurer’s foreign exchange risk and as such, may 
+be recognized in the determination of the capital requirement for foreign exchange risk, subject 
+to the following requirements. 
+ 
+Only effective hedges that offset the changes in fair value of the hedged item may be included in 
+the foreign exchange risk calculation. The company must be able to demonstrate to OSFI the 
+effectiveness of its foreign exchange hedges. 
+ 
+Companies with foreign currency derivatives on their balance sheet must be able to demonstrate 
+that the addition of such derivatives does not result in increased risk. If the insurer cannot 
+demonstrate that the derivatives do not result in increased risk, then OSFI may require additional 
+capital. 
+ 
+Only plain-vanilla foreign currency derivatives may be recognized in the calculation of the 
+foreign exchange capital requirement. Plain-vanilla foreign currency derivative instruments are 
+limited to the following: 
+• futures foreign currency contracts, 
+• forward foreign currency contracts, and  
+• currency swaps. 
+ 
+Other foreign currency derivatives, including options on foreign currencies, are not considered 
+plain-vanilla and are not to be recognized in the determination of the foreign exchange risk 
+margin. 
+ 
+Derivatives used for hedging an insurer’s foreign exchange risk are subject to credit risk 
+requirements. Refer to section 4.2 for further details. 
+ 
+5.2.2.2. Measurement of forward currency positions 
+ 
+Forward currency positions should be valued at current spot market exchange rates. It would not 
+be appropriate to use forward exchange rates since they partly reflect current interest rate 
+differentials. Companies that base their normal management accounting on net present values are 
+expected to use the net present values of each position, discounted using current interest rates 
+and translated at current spot rates, for measuring their forward currency positions. 
+ 
+5.2.2.3. Accrued and unearned interest income and expenses 
+ 
+Accrued interest, accrued income and accrued expenses should be treated as a position if they are 
+subject to exchange rate fluctuations. Unearned but expected future interest, income or expenses 
+may be included, provided the amounts are certain and have been fully hedged by allowable 
+forward foreign exchange contracts. Companies must be consistent in their treatment of unearned 
+interest, income and expenses and must have written policies covering the treatment. The
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 71 
+ 
+selection of positions that are only beneficial to reducing the overall position will not be 
+permitted for capital purposes. 
+ 
+5.3.  Equity Risk 
+ 
+Equity risk is the risk of economic loss due to fluctuations in the value of common shares and 
+other equity securities. 
+ 
+5.3.1. Common shares and joint ventures 
+ 
+A 30% risk factor applies to investments in common shares and joint ventures in which a 
+company holds less than or equal to 10% ownership interest. 
+ 
+5.3.2. Futures, forwards, and swaps 
+ 
+Equity futures, forwards, and swaps attract a 30% risk factor, which is applied to the market 
+value of the underlying equity security or index. Where a swap exchanges a return on an equity 
+security or index for a return on a different equity security or index, a 30% risk factor applies to 
+the market value of both equity securities or indices for which the returns are being exchanged.  
+ 
+Example: 
+An insurer has entered into a one-year swap during which it will pay the 3-month Canadian 
+Dollar Offered Rate (CDOR) plus fees, and receive the total return on a notional index of 
+equities that was worth 100 at the time of inception. The index of equities is currently worth 110. 
+A 30% equity risk charge will apply to 110 for the long position in the index, but no capital 
+charge will be required on the short position in the bond because such a position is not subject to 
+an equity risk charge. 
+ 
+In addition to the capital requirements set out in this section, futures, forwards, and swaps are 
+subject to credit risk requirements. Refer to section 4.2 for further details. 
+ 
+5.3.3. Short positions 
+ 
+The capital requirements for short positions in common shares, equity futures, forwards, and 
+swaps that do not wholly or partially offset a long equity position are determined by assuming 
+the instrument is held long and then applying the corresponding risk factor. Common shares, 
+futures, forwards, and swaps eligible for offset recognition and the corresponding capital 
+treatment are described in section 5.3.4. 
+ 
+5.3.4. Recognition of equity hedges 
+ 
+Equity futures, forwards, and swaps, as well as common shares can be used to wholly or partially 
+hedge an equity exposure. Insurers may recognize qualifying equity hedges in the calculation of 
+the capital requirements in accordance with section 5.3.4.1 and 5.3.4.2.
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 72 
+ 
+Insurers must document the equity hedging strategies employed and demonstrate that the 
+hedging strategies decrease the overall risk. The documentation must be available for review, 
+upon request. If the insurer cannot demonstrate, to the satisfaction of the Superintendent, that the 
+hedging strategies result in decreased overall risk, then additional capital above that calculated as 
+per sections 5.3.4.1 and 5.3.4.2 may be required, at the discretion of the Superintendent.45   
+ 
+For hedges to qualify, they must be issued by an entity that: 
+• issues obligations which attract a 0% factor under section 4.1.2; or 
+• is rated A- or better (including clearing houses rated A- or better). 
+ 
+5.3.4.1. Identical equity securities or indices  
+ 
+Long and short positions in exactly the same underlying equity security or index may be 
+considered to be offsetting so that the capital requirements are calculated for the net exposure 
+only. Individual instruments of portfolios that qualify for the capital treatment under section 
+5.3.4.2 cannot be carved out of the portfolios to receive the capital treatment of section 5.3.4.1. 
+ 
+Only common shares and plain-vanilla equity futures, forwards, and swaps can obtain the capital 
+treatment under this section. Exotic equity derivatives46 do not qualify for this treatment. 
+ 
+5.3.4.2. Closely linked equity securities or indices  
+ 
+A portfolio of common shares and equity futures, forwards, and swaps can be used to partially 
+hedge the equity exposure of another portfolio of similar instruments. When the instruments 
+contained in both portfolios are closely linked, instead of following the capital requirements set 
+out in sections 5.3.1, 5.3.2, and 5.3.3, insurers may calculate the capital requirements for the 
+combined portfolios in the following manner: 
+ 
+(1- Correlation Factor) × 1.5 × MIN (market value of the portfolio of hedging instruments, 
+market value of the portfolio of instruments being hedged) 
+ 
+The capital requirements set out above are capped at 60% of the minimum market value of both 
+portfolios.  
+ 
+The difference between the market value of the two portfolios is not considered a hedged 
+position and is subject to a 30% risk factor.  
+ 
+The Correlation Factor is derived by using: 
+ 
+CF = A*(B/C) 
+ 
+ 
+45  An insurer may contact OSFI to discuss the adequacy of its documentation and assessment of the likelihood or 
+amount of potential additional capital that may be required. 
+46  An example of an exotic derivative would be one that has a discontinuous payoff structure.
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 73 
+ 
+where: 
+A represents the historical correlation between the returns on the portfolio of instruments 
+being hedged and the returns on the portfolio of hedging instruments 
+B represents the minimum of [standard deviation of returns on the portfolio of 
+instruments being hedged, standard deviation of returns on the portfolio of hedging 
+instruments] 
+C represents the maximum of [standard deviation of returns on the portfolio of 
+instruments being hedged, standard deviation of returns on the portfolio of hedging 
+instruments] 
+ 
+The historical correlations and standard deviations must be calculated on a weekly basis, 
+covering the previous 52-week period. The returns on each portfolio of hedging instruments used 
+to calculate the components of the CF must be determined by assuming that the portfolio is held 
+long. The returns on each portfolio must be measured net of additional capital injections, and 
+must include the returns on each component of the portfolio. For example, the returns on both the 
+long and short legs of a total return swap included in a portfolio must be reflected in the 
+calculation of the CF. 
+ 
+The CF for the previous 52 weeks is required to be calculated for each of the past four quarters. 
+The Correlation Factor is the lowest of the four CFs calculated and is used to calculate capital 
+requirements. 
+ 
+In order for the portfolios to obtain the capital treatment set out in this section, the following 
+conditions must be met: 
+• The instruments in both portfolios are limited to exchange-traded common shares, and 
+plain-vanilla equity futures, forwards, and swaps where the underlying asset is an 
+exchange-traded common share or an equity index. Portfolios that contain instruments 
+other than those specified in this section will be subject to the capital treatment under 
+sections 5.3.1, 5.3.2, and 5.3.3. 
+• The CF is determined at the portfolio level. Individual instruments cannot be carved-out 
+of the portfolios and receive the capital treatment as per section 5.3.4.1. 
+• The portfolios that are part of a hedging strategy must have been established at least two 
+years prior to the reporting date. In addition, the hedging strategy and the active 
+management strategy on which both portfolios are based must not have changed in the 
+past two years prior to the reporting date.47  Portfolios that have been established for at 
+least two years but have undergone a change in the hedging strategy or active 
+management strategy will attract a 30% risk factor.  
+ 
+Example: 
+ 
+47  For the purposes of this section, the hedging strategy and active management strategy together are deemed to be 
+unchanged if the ex-ante equity risk profile of the combined portfolios is maintained. For example, the ex -ante 
+equity risk profile is maintained if the combined beta is continuously targeted to be 0 (the hedging strategy), and 
+if instrument selection is continuously based on the price-earnings ratio (the active management strategy).
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 74 
+ 
+Suppose a portfolio of instruments is valued at $200 and is paired with another portfolio of 
+instruments as part of a qualifying equity hedge. Assuming that the second portfolio is worth 
+$190 and that the Correlation Factor between the two portfolios is 0.95, the total capital charge 
+for both portfolios will be 190 × 5% × 1.5  +  $10 × 30% = $17.25.  
+ 
+Portfolios that were established less than two years prior to the reporting date attract the 
+following capital treatment: 
+1. No recognition of the equity hedge in the first year following the establishment of the 
+portfolios (i.e. a 30% factor is applied to both portfolios); and 
+2. in the second year, the sum of: 
+• T × capital requirements for the combined portfolios using the correlation factor 
+approach described in this section48; and  
+• (1-T) × capital requirements set out in 1 above. 
+T equals 20%, 40%, 60%, and 80% in the first, second, third, and fourth quarter, 
+respectively, of the second year following the establishment of the portfolios. 
+ 
+Example: 
+Two portfolios (as part of an equity hedge), each equal to 100, are established on April 1, 2016. 
+On March 31, 2017, the capital charge for both portfolios will be 30% × 100 + 30% × 100 = 60. 
+On June 30, 2017, assuming that the Correlation Factor is 0.90, the combined portfolios will be 
+subject to a capital charge of 20% × 10% × 1.5 × 100 + 80% × 60% × 100 = 51. 
+ 
+5.4.  Real Estate Risk 
+ 
+Real estate risk is the risk of economic loss due to changes in the value of a property or in the 
+amount and timing of cash flows from investments in real estate. 
+ 
+Risk factors  for real estate risk  
+ 
+Type of Real Estate Risk Factor 
+Owner-occupied properties 10% 
+Real Estate held for investments purposes 20% 
+ 
+For owner-occupied properties, the risk factor is applied to the value using the cost model, 
+excluding any unrealized fair value gains (losses) arising at the conversion to IFRS, or 
+subsequent unrealized fair value gains (losses) due to revaluation.  
+ 
+ 
+48  For the purposes of this calculation, the Correlation Factor must be determined based on actual portfolio returns 
+(i.e. portfolio returns up to the reporting date). Projected (simulated) returns canno t be used. The Correlation 
+Factor must be determined as the lowest of available 52 week Correlation Factors given the actual history of 
+portfolio returns. During the second year, the number of available 52 week Correlation Factors will increase from 
+one to four as time elapses.
+
+Chapter 5. Market Risk 
+ MI   A Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 75 
+ 
+5.5. Other Market Risk Exposures 
+ 
+Other market risk exposures include assets that fall in the category “other assets,” for example, 
+equipment, that are exposed to asset value fluctuations that may result in the value realized upon 
+disposal being less than the balance sheet carrying value. A 10% risk factor applies to other 
+assets as part of the total capital requirements for market risk.
+
+Chapter 6. Operational Risk  
+ MI   A
+ Mortgage Insurer Capital Adequacy Test 
+  
+ November 2024 Page 76 
+ 
+Chapter 6.  Operational Risk 
+ 
+Operational risk is the risk of loss due to inadequate or failed internal processes, people and 
+systems, or external events. It includes legal risk but does not include strategic or reputational 
+risk. 
+ 
+The capital required for an insurer’s operational risk is calculated using the following formula: 
+ 
+Operational risk capital required = 20% × [TC – SC] 
+ 
+where: 
+ 
+TC is the insurer’s total capital required, before the calculation of the requirement for 
+operational risk. 
+SC is, if applicable, the supplementary capital required for insurance risk (reference 
+subsection 3.1.1.3). 
+ 
+ 
+-END-

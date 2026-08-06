@@ -1,0 +1,27 @@
+{
+  "doc_id": "beaccb176a259234",
+  "regulator_id": "finra",
+  "doc_type": "announcement",
+  "title": "Financial Industry Investor Resources | FINRA.org",
+  "language": "en",
+  "source_url": "https://www.finra.org/investors/protect-your-money/financial-industry-investor-resources",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4d0568b1f2863e960b5689af65c43a380cb13adb14fd23f02b1e5ae325ff2b43",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_finra_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/finra/current/announcement/2026/beaccb176a259234",
+  "tags": [
+    "us",
+    "securities",
+    "broker_dealer"
+  ],
+  "final_url": "https://www.finra.org/investors/protect-your-money/financial-industry-investor-resources",
+  "fetch_method": "html_to_md"
+}

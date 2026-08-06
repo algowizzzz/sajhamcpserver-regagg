@@ -1,0 +1,1 @@
+Summary: # Japan's SBI Shinsei, regional banks, KKR join forces for big loans

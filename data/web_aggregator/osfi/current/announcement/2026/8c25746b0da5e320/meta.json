@@ -1,0 +1,25 @@
+{
+  "doc_id": "8c25746b0da5e320",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Securities (B2) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/securities-b2",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ba7113a0f225e67e91dad879934dcf908795d859fac051a74b12272d9dd65fe8",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/8c25746b0da5e320",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

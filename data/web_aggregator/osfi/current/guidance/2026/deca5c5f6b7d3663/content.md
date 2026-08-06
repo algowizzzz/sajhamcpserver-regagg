@@ -1,0 +1,171 @@
+# Large Exposure Limits - 2003
+
+Information
+
+Publication type
+
+Guideline
+
+Category
+
+Prudential Limits and Restrictions
+
+Date
+
+August 31, 2003
+
+Sector
+
+Life Insurance and Fraternal Companies
+
+No
+
+B-2
+
+[Generate PDF](/en/print/pdf/node/572)
+
+Table of contents
+
+## I. Introduction
+
+1. This Guideline addresses the issue of large credit risk exposures of life insurance companies and fraternal benefit societies and of foreign life insurance companies and foreign fraternal benefit societies in respect of their business in Canada. It sets out OSFI's policy with respect to limits on these exposures. In this Guideline, the term "company" means a federally incorporated life insurance company or a federally incorporated fraternal benefit society; the term “foreign branch” means a federally regulated foreign life insurance company or a federally regulated foreign fraternal benefit society as defined in the *Insurance Companies Act*. The Guideline applies individually to each company on a consolidated basisWhere a federally regulated life insurance company is a subsidiary of another federally regulated life insurance company, this Guideline applies to both companies individually on a consolidated basis.  and to individual foreign branches.
+2. OSFI is concerned about concentrations of credit risk exposure to a person or to a group of associated persons because, in the event of default, the financial condition of the company or foreign branch could be seriously affected.
+3. Large exposures are subject to limits, notwithstanding the quality of security that underlies individual transactions. It is extremely difficult to establish, in all cases, with certainty and over time, the availability and value of security that underlies an exposure until the need to call upon it arises.
+
+Please refer to OSFI’s *Corporate Governance Guideline* for OSFI’s expectations of company Boards of Directors in regards to operational, business, risk and crisis management policies.
+
+## II. Limits on Large Exposures
+
+4. In addition to other limits set out by this guideline, all companies and foreign branches are to set out in writing their internal policies on large exposures, including exposures to individual customers, financial institutions, industries and countries. These policies are also a requirement of the *Prudent Person Approach, Guideline B-1.* Companies and foreign branches are also to have in place the management information and control systems necessary to give effect to their written policies on large exposures.
+
+### (i) Life Insurance Companies and Fraternal Benefit Societies
+
+5. The aggregate exposure of a consolidatedExposures held in subsidiaries whose investment has been deducted for the purposes of calculating total available capital as defined for calculating the Life Insurance Capital Adequacy Test (LICAT) are not considered exposures for the purposes of this Guideline unless the investment in the subsidiary has been added back to “total capital” in order to calculate the large exposure limit.  company to any entity or to a connection shall not exceed 25 per cent of total capital. Notwithstanding this limit, it is expected that companies will establish lower internal limits and that the 25 per cent regulatory limit will be employed only on an exceptional basis. “Total capital”, as used in this and subsequent paragraphs, means total capital as defined in this Guideline.
+
+### (ii) Foreign Branches
+
+6. The aggregate exposure of a foreign branch to any entity or to a connection shall not exceed the limit established by the regulator in the foreign branch’s home jurisdiction, provided that the following criteria are met:
+
+   1. the home office of the foreign branch has established credit exposure limits and approval procedures for the branch;
+   2. the home office is adequately supervised with regard to accounting standards, capital adequacy requirements and actuarial practices;
+   3. the home office is, in the opinion of the Superintendent, a continuing source of financial strength for the foreign branch, and
+   4. there are no legal, regulatory, statutory or fiscal restrictions in the home office’s home jurisdiction to obtaining funds from the home office in the event of losses.
+7. Where these criteria are not met, the aggregate exposure of a foreign branch to any entity or to a connection shall not exceed five per cent of net assets available. “Net assets available”, as used in this and subsequent paragraphs, means net assets available as defined in this Guideline. In addition, OSFI expects that a foreign branch will comply, at all times and on a consolidated basis, with any large exposure limits established by the regulator in its home jurisdiction.
+
+### (iii) Canadian Life Insurance Company Subsidiaries in Canada
+
+8. The aggregate exposure of a consolidateExposures held in subsidiaries whose investment has been deducted for the purposes of calculating total available capital as defined for calculating the LICAT are not considered exposures for the purposes of this Guideline unless the investment in the subsidiary has been added back to “total capital” in order to calculate the large exposure limit  Canadian life insurance company that is the subsidiary of an operating life insurance company or of an operating fraternal benefit society may have an exposure to any entity or to any connection that is no greater than 100 per cent of the total capital of the subsidiary. Notwithstanding this limit, it is expected that subsidiary companies will establish lower internal limits and that the 100 per cent regulatory limit will be employed only on an exceptional basis.
+9. These subsidiaries must notify the Superintendent of any exposure to one entity or connection that exceeds 50 per cent of their total capital no later than 10 working days after the exposure has been incurred. Exposures that increase to an amount greater than 50 per cent of capital because of changes in exchange rates need not be reported but may be reviewed as part of the OSFI examination process.
+10. The 100 per cent of the total capital limit is contingent upon the following criteria being met:
+
+    1. the parent company is made aware of and has sanctioned exposures greater than 50 per cent of the total capital of the life insurance or fraternal benefit society subsidiary;
+    2. the parent and the subsidiary are adequately supervised with regard to accounting standards, capital adequacy requirements and actuarial practices;
+    3. the parent is subject to a consolidated large exposure limit;
+    4. the parent company is, in the opinion of the Superintendent, a continuing source of financial strength for the subsidiary; and
+    5. there are no legal, regulatory, statutory or fiscal restrictions in the parent's home jurisdiction to obtaining capital from the parent in the event of losses.
+11. Failure to meet all the criteria will result in the Superintendent reducing the limit to not lower than 25 per cent of the total capital of the company subsidiary.
+
+### (iv) Parent Guarantees
+
+12. A company or foreign branch may not use a guarantee from its parent or from an affiliate to reduce the calculation of an exposure to an amount within the limits prescribed in this Guideline.
+
+## III. Definitions
+
+### (i) Total Capital
+
+13. For the purposes of this Guideline, *total capital* for a company is the consolidated total available capital of a company as defined for the purpose of calculating the Life Insurance Capital Adequacy Test (LICAT) for Canadian Life Insurance Companies and Fraternal Benefit Societies.  Where the following criteria are not met, the investments that have been deducted for capital adequacy purposes must be added back to total capital in order to calculate the large exposure limitRefer to footnote 3. :
+
+    1. the deducted investment is adequately supervised consistent with the minimum standards for supervision published by the Basel Committee on Banking SupervisionThe Basel Committee on Banking Supervision, established by the central bank Governors of the Group of Ten countries formulates broad supervisory standards and Guidelines and recommends statements of best practice for the supervision of banks. This document is available on the <a href="https://www.bis.org/" rel="external">Committee's Web site - www.bis.org.</a> in 1992, or the entity is adequately supervised with regard to accounting standards, capital adequacy requirements and actuarial practices and is subject to a consolidated large exposure limit that is not materially different from OSFI’s requirements; and
+    2. there are no legal, regulatory, statutory or fiscal restrictions in the deducted investment’s host jurisdiction for transferring capital to the company.
+14. Where a company deducts an investment for capital adequacy purposes and does not add that investment back to total capital in order to calculate the large exposure limit and where, in the opinion of the Superintendent, the above criteria have not been met, the Superintendent will require that these investments be added back to total capital for the purpose of calculating the large exposure limit.
+
+### (ii) Net Assets Available
+
+15. For the purposes of this Guideline, *net assets available* for a foreign branch are the net assets available as defined for the purposes of calculating the Life Insurance Margin Adequacy Test (LIMAT).
+
+### (iii) Exposure
+
+16. An *exposure* includes claims on an entity or connection comprising:
+
+    1. any draw-downs on arrangements for providing funds or credit including loans and advances, debt and equity securities, loan substitute securities, and financial leases;
+    2. all undrawn amounts of authorized irrevocable advised credit commitments provided by the company or foreign branch, including, but not limited to:
+       1. standby letters of credit;
+       2. financial guarantees;
+       3. conditional sales contracts;
+       4. repurchase agreements;
+       5. fully underwritten lending commitments;
+       6. note issuance facilities; and
+       7. revolving underwriting facilities;
+    3. the credit equivalent amount of foreign exchange, interest rate, equity and commodity contracts calculated in accordance with the OSFI LICAT and LIMAT, recognizing the net amount where transactions are subject to a legally valid contractual right of set-off; and
+    4. for exposures to units or shares of a mutual fund where the returns of the mutual fund units or shares are passed through unaltered (i.e., there is no guarantee of performance) to the holders of insurance policies (e.g., universal life insurance policies), only 25% of the book value of the exposure is included in the calculation of the exposure to the mutual fund provided certain criteria are met. For other exposures to the mutual fund, 100% of the book value of the exposure must be included in the calculation of the exposure to the mutual fund. To qualify for the lower exposure multiple, the following criteria must be met:
+       1. the mutual fund is not sponsored, administered or marketed by the company;
+       2. there are no restrictions or limitations on the redemption of the mutual fund units or shares by the company,
+       3. the mutual fund does not have an exposure to any single counterparty in excess of 10% of the total market value of the mutual fund at the date of acquisition of the exposure to that counterparty,
+       4. the company holds no more than 10% of the total market asset value of the mutual fund,
+       5. the mutual fund can be independently valued on a daily basis, and
+       6. the mutual fund has a broad and active secondary market.
+17. An *exposure* excludes:
+    1. (any deposits with, and debt obligations (including acceptances) of, banks, trust and loan companies, life insurance companies and cooperative credit associations that have a residual maturity of less than one year;
+    2. any deposits with, and debt obligations of, a federally regulated Canadian parent bank, trust and loan company or life insurance company;
+    3. foreign exchange, interest rate, equity and commodity contracts with banks, life insurance companies, trust and loan companies and cooperative credit associations with a residual maturity of less than one year;
+    4. all foreign exchange, interest rate, equity and commodity contracts with the regulated parent, regulated affiliate bank, regulated affiliate life insurance company or regulated affiliate trust and loan company in the normal course of business;
+    5. direct obligations of, and that portion of obligations fully and unconditionally guaranteed by, the Government of Canada, a Canadian province, OECD central governments, and bodies designated as public sector entities for capital adequacy assessment purposes;
+    6. exposures to an entity that occur while a transaction is in the course of settlementTo be excluded, settlement cannot exceed five business days. , including daylight overdrafts;
+    7. exposures to an entity arising from purchases of Government of Canada securities, securities issued by a province of Canada or by an OECD central government, subject to an agreement that the seller will repurchase at the end of a stated period, provided that the purchasing company or foreign branch has obtained control of the securities that are to be repurchased;
+    8. loans of securities made in accordance with OSFI Guidelines on securities lending and loans made to securities brokers and dealers that are fully collateralized by securities issued by the Government of Canada or by a province of Canada;
+    9. commitments pursuant to an underwriting agreement to purchase a new issue of securities or a secondary issue of securities by a subsidiary that is a member of the Investment Dealers Association of Canada or regulated by a provincial securities commission and that is subject to the capital requirements for such underwriting agreements; and
+    10. exposures held in trusteed accounts that are not exposures of the company or foreign branch (e.g., mutual funds and segregated funds).
+18. Exclusions from the definition of exposure must continue to be monitored by the company or foreign branch and be subjected to internal exposure limits established by the company. In addition, any market risks associated with these exposures should also be incorporated into the company's and the foreign branch’s overall market risk measurement and control framework.
+
+### (iv) Exposures to Reinsurers
+
+19. This Guideline does not establish quantitative limits for *exposures to reinsurers*. However, OSFI expects prudent management of companies to include reasonable limits on exposure to any single reinsurer. Assessment of limits on exposure to a reinsurer will take into account the size of the regulated institution, the nature of its business, the availability of reinsurance in the market and the credit worthiness of the particular reinsurer.
+20. Companies are expected to have in place specific policies relating to reinsurance. These policies should be consistent with any OSFI guidance with respect to reinsurance.
+
+### (v) Control of Securities
+
+21. *Control of securities* may be effected by a company or a foreign branch through the following methods:
+    1. acquiring physical possession of security certificates;
+    2. delivery of either security certificates or book-entry securities to a third-party custodian designated by the purchasing company or foreign branch under a written custodial agreement that explicitly recognizes the purchaser's interest in the securities as superior to that of any other person;
+    3. appropriate entry on the books of a third-party custodian acting pursuant to an agreement with the purchasing company or foreign branch and the seller, thereby ensuring adequate segregation and identification of either physical or book-entry securities; or
+    4. a substantially equivalent method.
+
+### (vi) Entity
+
+22. An *entity* is a natural person, a body corporate, trust, partnership, fund, unincorporated association or organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any such agency thereof.
+
+### (vii) Connection
+
+23. A *connection* exists where two or more entities are a common risk. The exposures to the entities that make up a connection shall be aggregated for the purpose of applying limits on a company’s or a foreign branch’s large exposures. In circumstances where there is some uncertainty as to whether a connection exists, exposures should be viewed as a common risk for the purposes of this GuidelineAppropriate documented rationale and authorization for either connecting or disaggregating exposures are to be available for OSFI review and are to be subject to a regular internal review by the company or foreign branch as part of its own credit review process. Consistent with the requirements of this Guideline, connection status is not affected by the type or quality of collateral or by risk mitigants. .
+
+### (viii) Common Risk
+
+24. *Common risk* is to be determined on a case-by-case basis, with reference to the material facts of the situation. The presence of any of the following conditions indicates a common risk:
+
+    1. the expected source of repayment is the same for each entity;
+    2. the entities are part of a corporate group;
+    3. the entities are joined in or by partnerships, joint ventures or structures that create material “risk sharing” between such entities; or
+    4. there is material financial interdependence between the entities.
+
+### (ix) Expected Source of Repayment
+
+25. The obligations of a partnership or joint venture and the obligations of each member of a partnership or joint venture shall be deemed to have the same *source of repayment* and will be aggregated as follows:
+
+    1. the exposure to each member of a general partnership shall include the obligations of the general partnership; and
+    2. the exposure to each member of a limited partnership or joint venture shall include their *pro rata* share of the obligations of the limited partnership or joint venture.
+
+### (x) Corporate Group
+
+26. *Corporate group* is defined to include an entity and all of its subsidiaries, whether or not they are owned directly or indirectly and whether or not they are consolidated for financial statement purposes.
+
+### (xi) Financial Interdependence
+
+27. *Financial interdependence* is to be assessed on a case-by-case basis taking into consideration inter-company funds movement and contractual agreements, including common security arrangements, guarantees and letters of comfort. An example of intercompany funds movements that indicate financial interdependence would be the reliance arising from an entity in a corporate group obtaining more than 50 per cent of its gross receipts for the most recent 12 month period from another entity in the corporate group. Financial interdependence could also exist where:
+
+    1. entities have the same or similar products or markets; or
+    2. entities share operational facilities and systems.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-08-03

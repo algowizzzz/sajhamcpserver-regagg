@@ -1,0 +1,127 @@
+# Acts and regulations
+
+We’re responsible for the application of acts and regulations for federally regulated financial institutions and pension plans.
+
+## On this page
+
+## Acts and regulations for federally regulated financial institutions
+
+| **Acts** | **Regulations** |
+| --- | --- |
+| [*Office of the Superintendent of Financial Institutions Act*](http://laws-lois.justice.gc.ca/eng/acts/O-2.7/index.html) | [Regulations made under the *Office of the Superintendent of Financial Institutions Act*](http://laws-lois.justice.gc.ca/eng/acts/O-2.7/index.html#r3lR3g) |
+| [*Bank Act*](http://laws-lois.justice.gc.ca/eng/acts/B-1.01/index.html) | [Regulations made under the *Bank Act*](http://laws-lois.justice.gc.ca/eng/acts/B-1.01/index.html#r3lR3g) |
+| [*Trust and Loan Companies Act*](http://laws-lois.justice.gc.ca/eng/acts/T-19.8/index.html) | [Regulations made under the *Trust and Loan Companies Act*](http://laws-lois.justice.gc.ca/eng/acts/T-19.8/index.html#r3lR3g) |
+| [*Cooperative Credit Associations Act*](http://laws-lois.justice.gc.ca/eng/acts/C-41.01/index.html) | [Regulations made under the *Cooperative Credit Associations Act*](http://laws-lois.justice.gc.ca/eng/acts/C-41.01/index.html#r3lR3g) |
+| [*Insurance Companies Act*](http://laws-lois.justice.gc.ca/eng/acts/I-11.8/index.html) | [Regulations made under the *Insurance Companies Act*](http://laws-lois.justice.gc.ca/eng/acts/I-11.8/index.html#r3lR3g) |
+
+## Acts, regulations and directives for federally regulated pension plans
+
+The *Pension Benefits Standards Act**, 1985* and the *Pension Benefits Standards Regulations, 1985* apply to federally regulated private pension plans. The *Pooled Registered Pension Plans Act* and the *Pooled Registered Pension Plans Regulations* apply to pooled registered pension plans.
+
+| **Acts** | **Regulations** |
+| --- | --- |
+| [*Office of the Superintendent of Financial Institutions Act*](http://laws-lois.justice.gc.ca/eng/acts/O-2.7/index.html) | [Regulations made under the *Office of the Superintendent of Financial Institutions Act*](http://laws-lois.justice.gc.ca/eng/acts/O-2.7/index.html#r3lR3g) |
+| [*Pension Benefits Standards Act, 1985*](http://laws-lois.justice.gc.ca/eng/acts/P-7.01/index.html) | [Regulations made under the*Pension Benefits Standards Act, 1985*](http://laws-lois.justice.gc.ca/eng/acts/P-7.01/index.html#r3lR3g) |
+| [*Pooled Registered Pension Plans Act*](http://laws-lois.justice.gc.ca/eng/acts/P-15.3/index.html) | [Regulations made under the*Pooled Registered Pension Plans Act*](http://laws-lois.justice.gc.ca/eng/acts/P-15.3/index.html#r3lR3g) |
+
+### Amendments to pension plan regulations
+
+See a [list of amendments to pension plan regulations](https://canadagazette.gc.ca/rp-pr/p2/2017/2017-07-12/html/sor-dors145-eng.html) in the Canada Gazette.
+
+### Directives and specifications for federally regulated pension plans and pooled registered pension plans
+
+The Superintendent of Financial Institutions can issue directives and specifications related to certain requirements under the *Pension Benefits Standards Act, 1985*, the *Pension Benefits Standards Regulations, 1985* and the *Pooled Registered Pension Plans Act*.
+
+* [Directives of the Superintendent pursuant to the *Pension Benefits Standards Act, 1985*](/en/guidance/acts-regulations/directives-superintendent-pursuant-pension-benefits-standards-act-1985-effective-february-25-2021 "Directives of the Superintendent pursuant to the Pension Benefits Standards Act, 1985 - Effective February 25, 2021")
+* [Directives of the Superintendent pursuant to the *Pooled Registered Pension Plans Act*](/en/guidance/acts-regulations/directives-superintendent-pursuant-pooled-registered-pension-plans-act-effective-february-25-2021 "Directives of the Superintendent pursuant to the Pooled Registered Pension Plans Act (effective February 25, 2021)")
+
+## Interpretation policy
+
+An interpretation policy is an overarching document that outlines the commitments, practices, and tools to be applied by a department or agency when providing Canadians and businesses with information and guidance on regulatory obligations to be met. It also identifies the conditions under which written responses to questions will be provided.
+
+This interpretation policy applies to interpretations provided to stakeholders in respect of regulations administered by OSFI that are made under legislation governing federally regulated financial institutions and pension plans.
+
+### Predictability
+
+#### Plain language commitment
+
+OSFI is committed to providing regulatory interpretations that are clear, unambiguous and relevant to the enquiry. OSFI will provide responses to regulatory questions in the official language in which the question was posed.
+
+#### Providing guidance and building awareness
+
+OSFI promotes stakeholder involvement in a number of ways in order to build awareness and ensure consistent internal and external communication of regulatory compliance requirements. Measures include:
+
+* Publication of various guidance documents on OSFI’s website, including: regulatory and legislative advisories, rulings (based on private rulings that have been altered to guarantee individual stakeholder privacy)
+* Publication of questions and answers in relation to regulations that receive regular enquiries from stakeholders
+* Provision of a website subscriber alert service that informs stakeholders of issues that may be of interest including consultations with respect to the making of regulations
+* Publication of a twice yearly electronic newsletter (InfoPensions) on pension issues including descriptions of how OSFI applies selected provisions of the legislation and regulations.
+
+#### Responding to questions
+
+OSFI responds to two forms of requests for regulatory interpretations, described below.
+
+#### General regulatory questions
+
+Stakeholders having questions of a general nature on a regulation that is administered by OSFI may contact OSFI by telephone, by mail, or by email.
+
+OSFI generally responds to questions in the same method used by the stakeholder to contact us, unless a response using a different means was requested (such as in writing). Prior to responding to such enquiries, OSFI may seek additional information from stakeholders.
+
+#### Requests for ruling
+
+Stakeholders may seek a more formal interpretation in the form of a ruling to obtain OSFI’s views in writing regarding the application or interpretation of specific provisions of regulations under the federal financial institution statutes.
+
+Requests for rulings are subject to a fee and are processed in accordance with our service standards. Please see [Service standards and fees](/en/data-forms/applications-approvals/service-standards-fees "Service standards and fees").
+
+Ruling requests must be submitted in writing and should be addressed to:  
+Legislative Affairs Division, Regulatory Affairs Directorate  
+255 Albert Street  
+Ottawa, Ontario  
+K1A 0H2
+
+### Service
+
+#### Service commitment
+
+OSFI adheres to the Government of Canada Communications Policy which includes a commitment to deliver prompt, courteous and responsive service that is sensitive to the needs and concerns of the public and respectful of individual rights.
+
+#### Service accountability
+
+OSFI is committed to providing a level of service that meets the expectations of our stakeholders. OSFI maintains an enquiries service (telephone, email, and mail) that receives enquiries and responds to stakeholder questions or concerns. The enquiries service employs an electronic database that tracks stakeholder contact and ensures that all questions or comments receive a response when required. Where the enquiries service cannot itself respond due to the nature of the subject matter, the service will consult with appropriate individuals within the organization to ensure action is taken or a response provided, as necessary.
+
+#### Staff training
+
+OSFI is committed to ensuring that staff have the necessary skills and technical knowledge to provide accurate and consistent responses to regulatory questions. Internal procedures and reference materials have been developed for this purpose.
+
+### Stakeholder engagement
+
+#### Commitment to stakeholder engagement
+
+OSFI is committed to engaging stakeholders, as appropriate, when developing, reviewing or refining practices and materials pertaining to regulatory guidance. OSFI routinely undertakes consultations with the industry on regulatory guidance.
+
+#### Stakeholder engagement practices
+
+Stakeholders are engaged through a number of means, including:
+
+* Formal consultations on regulations and guidance issued by OSFI – such consultations ensure that the development of guidance takes industry views and concerns into consideration
+* Industry surveys, which are publicly released, provide feedback on how well OSFI is performing as a regulator in general and give feedback on many specific aspects of the regulatory regime, including regulatory requirements
+* Regularly scheduled meetings with industry associations such as the Canadian Bankers Association, the Trust and Loan Companies Association, the Canadian Life and Health Insurance Association, the Insurance Bureau of Canada, the Association of Canadian Pension Management, among others – such meetings provide a forum for OSFI and industry associations to share information, including upcoming guidance, what issues are of concern to OSFI and conversely, what issues are of concern to the industry
+* Speeches to industry, which allow OSFI to discuss particular areas of interest or concern and to outline any steps the regulator is taking to address the issues at hand
+
+## Administrative burden baseline
+
+Like other departments and agencies that sponsor or administer regulations that contain regulatory burden, we are required to post an Administrative burden baseline count.
+
+You can find more information and our Administrative burden baseline count on the Department of Finance website.
+
+[Administrative Burden Baseline: Update 2022 - Canada.ca](https://www.canada.ca/en/department-finance/corporate/laws-regulations/administrative-burden-baseline/2022.html)
+
+## Forward Regulatory Plan
+
+A forward regulatory plan is a public list or description of anticipated regulatory changes or actions that a department intends to bring forward or undertake in a specified time frame. It’s intended to give consumers, business, other stakeholders and trading partners greater opportunity to inform the development of regulations and to plan for the future. We’ll adjust and update the forward regulatory plan as our operating environment changes.
+
+See also [Government-wide forward regulatory plans](https://www.canada.ca/en/government/system/laws/developing-improving-federal-regulations/regulatory-planning/government-wide-forward-regulatory-plans.html).
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-01-18

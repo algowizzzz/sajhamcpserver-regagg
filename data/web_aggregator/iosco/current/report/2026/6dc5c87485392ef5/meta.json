@@ -1,0 +1,26 @@
+{
+  "doc_id": "6dc5c87485392ef5",
+  "regulator_id": "iosco",
+  "doc_type": "report",
+  "title": "IOSCO",
+  "language": "en",
+  "source_url": "https://www.iosco.org/v2/publications/?subsection=ico-statements",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:914a6f80c9cd6df58a6e157ff08e52804948013e26b48affe5474d49c341cc5e",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_iosco_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iosco/current/report/2026/6dc5c87485392ef5",
+  "tags": [
+    "international",
+    "securities"
+  ],
+  "final_url": "https://www.iosco.org/v2/publications/?subsection=ico-statements",
+  "fetch_method": "html_to_md"
+}

@@ -1,0 +1,1 @@
+Summary: # Rapport annuel 2024-2025 sur l'application de la Loi sur la protection des renseignements personnels

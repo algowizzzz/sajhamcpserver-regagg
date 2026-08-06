@@ -1,0 +1,1 @@
+Summary: # The Retail Payments Infrastructure Board launches consultation on the next generation UK payments infrastructure

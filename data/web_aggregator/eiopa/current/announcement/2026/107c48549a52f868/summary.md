@@ -1,0 +1,1 @@
+Summary: Insurance has been a heavy user of data from the early days of its existence; insurance undertakings have historically used data and data analytics processes to assess and underwrite risks, price insurance policies or pay insurance claims.

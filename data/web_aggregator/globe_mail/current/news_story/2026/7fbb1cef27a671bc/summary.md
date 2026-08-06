@@ -1,0 +1,1 @@
+Summary: # Telesat, MDA Space shares soar on news of satellite contract with Canada’s Armed Forces

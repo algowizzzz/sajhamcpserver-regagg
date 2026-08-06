@@ -1,0 +1,1202 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en" dir="ltr" class="no-js"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" dir="ltr" class="no-js">
+<!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="I. Introduction This document outlines the key principles and processes for the assessment of internal models used for regulatory capital purposes (&quot;capital models&quot;), in alignment with the Capital Adequacy Requirements (&quot;CAR&quot;) Guideline. These capital models relate to the measurement of credit, market and counterparty credit risk for the purposes of calculating minimum regulatory capital requirements." />
+<link rel="canonical" href="https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assessment-regulatory-capital-models-deposit-taking-institutions" />
+<meta name="generator" content="OSFI_BSIF_WCMS" />
+<meta name="dcterms.title" content="Assessment of Regulatory Capital Models for Deposit-Taking Institutions" />
+<meta name="dcterms.creator" content="Office of the Superintendent of Financial Institutions" />
+<meta name="dcterms.description" content="I. Introduction This document outlines the key principles and processes for the assessment of internal models used for regulatory capital purposes (&quot;capital models&quot;), in alignment with the Capital Adequacy Requirements (&quot;CAR&quot;) Guideline. These capital models relate to the measurement of credit, market and counterparty credit risk for the purposes of calculating minimum regulatory capital requirements." />
+<meta name="dcterms.language" content="eng" title="ISO639-2/T" />
+<meta name="dcterms.issued" content="2023-06-30" title="W3CDTF" />
+<meta name="dcterms.modified" content="2024-01-31" title="W3CDTF" />
+<meta name="dcterms.accessRights" content="2" />
+<meta name="dcterms.service" content="OSFI-BSIF_BSIF-OSFI" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<noscript><link rel="stylesheet" href="/libraries/wet-boew/css/noscript.min.css" />
+</noscript><script src="//assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-f7c3e6060667.min.js" type="text/javascript" async></script>
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<style media="all and (max-width: 767px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_xs/public/2023-06/Guidance_Bannerop.jpg?itok=JA8PaQQr') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 768px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_sm/public/2023-06/Guidance_Bannerop.jpg?itok=GDDnM6s3') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 992px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_md/public/2023-06/Guidance_Bannerop.jpg?itok=p9DCOsuv') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 1200px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_lg/public/2023-06/Guidance_Bannerop.jpg?itok=x-G-dObz') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<link rel="icon" href="/themes/custom/osfi_wxt/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assessment-regulatory-capital-models-deposit-taking-institutions" />
+<link rel="alternate" hreflang="fr" href="https://www.osfi-bsif.gc.ca/fr/consignes/repertoire-consignes/evaluation-modeles-fonds-propres-reglementaires-institutions-depot" />
+
+    <title>Assessment of Regulatory Capital Models for Deposit-Taking Institutions - Office of the Superintendent of Financial Institutions</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_lqv37ywceaZLCd63U-1TBcPsPKHRIazjAI7mU35Z1sU.css?delta=0&amp;language=en&amp;theme=osfi_wxt&amp;include=eJx1UAsOwiAMvRCDI5EC3awDutDq9PbinMmSadJ_X14_UJUCq4OPtyO3YgLE2St3Wdwh9hS5mjhjIuXmqSasGjLH2R1iwzKSXx_qug58x9YooRh5imLpfILmTriK26wtnG4ZzYrhPdvt3sIVHqdi5LKwkJ7hmLH0DWxCBcpilafpB-sXVlAEpv99XpS4yqm_vWdPfGBW0QaLO1VMv91nCg3a0-mlkw5T7KgXpNOQXA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css__2dOEwOCqcIpvSQ2Lm6TZtfrq1jws1EjKBOGO3ZrvNk.css?delta=1&amp;language=en&amp;theme=osfi_wxt&amp;include=eJx1UAsOwiAMvRCDI5EC3awDutDq9PbinMmSadJ_X14_UJUCq4OPtyO3YgLE2St3Wdwh9hS5mjhjIuXmqSasGjLH2R1iwzKSXx_qug58x9YooRh5imLpfILmTriK26wtnG4ZzYrhPdvt3sIVHqdi5LKwkJ7hmLH0DWxCBcpilafpB-sXVlAEpv99XpS4yqm_vWdPfGBW0QaLO1VMv91nCg3a0-mlkw5T7KgXpNOQXA" />
+
+    <script src="/modules/contrib/adobe_launch/js/adobe_launch_dtm_init.js?til2gg"></script>
+
+  </head>
+  <body class="lang-en node-496 path-node page-node-type-guidance has-glyphicons osfi-wxt theme-gcweb">
+    <nav>
+      <ul id="wb-tphp">
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-cont">
+            Skip to main content
+          </a>
+        </li>
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-info">
+            Skip to "About this site"
+          </a>
+        </li>
+      </ul>
+    </nav>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    <header class="navbar navbar-default" id="navbar">
+    <div id="wb-bnr" class="container-fluid padded-sm">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <img class="canada-signature" src="/libraries/theme-gcweb/assets/sig-blk-en.svg" alt="Government of Canada" height="30">
+        </div>
+        <div class="col-xs-12 col-sm-6 text-right">
+            <div class="region region-topbar">
+    
+<section id="block-osfi-wxt-customsearchblock" class="wb-srch block block-ngage-search block-ngage-search-block clearfix" data-block-plugin-id="ngage_search_block">
+  
+      <h2 class="wb-inv">Search</h2>
+    
+
+      <form action="/en/node/648" method="get" class="search-form form-inline" role="search">
+  <div class="form-item form-group">
+    <label for="wb-srch-q" class="sr-only">Enter your keywords</label>
+    <input type="search" placeholder="Search website" name="search-keys" id="wb-srch-q" class="search-input form-control" />
+  </div>
+  <button id="wb-srch-sub"><span class="sr-only">submit</span></button>
+</form>
+  </section>
+<section class="language-switcher-language-url wb-lng block block-wxt-library block-wxt-language-blocklanguage-interface clearfix" id="block-osfi-wxt-languageswitcher" data-block-plugin-id="wxt_language_block:language_interface">
+  
+      <h2 class="wb-inv">Language selection</h2>
+    
+
+      <ul class="links list-inline mrgn-bttm-0">                    <li><a href="/fr/consignes/repertoire-consignes/evaluation-modeles-fonds-propres-reglementaires-institutions-depot" class="language-link" lang="fr" hreflang="fr" data-drupal-link-system-path="node/496"><span class="hidden-xs">Français</span><abbr title="Français" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">fr</abbr></a></li></ul>
+  </section>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+      <div class="region region-branding container-fluid">
+    <div class="row wb-eqht-grd grow">
+        <a class="main-site col-xs-12 col-sm-8 col-md-9 no-padding-x" href="/en" title="Home" rel="home">
+    <span class="logo col-sm-2 padded-sm hght-inhrt">
+      <img src="/themes/custom/osfi_wxt/logo.svg" alt="Home" />
+    </span>
+    <span class="name navbar-text padded-sm hght-inhrt col-sm-10">Office of the Superintendent of Financial Institutions</span>
+  </a>
+  <a class="cross-site-link navbar-btn col-sm-4 col-md-3 padded-sm hidden-xs" href="/en/oca" title="Office of the Chief Actuary">Office of the Chief Actuary</a>
+  
+    </div>
+  </div>
+
+
+    <div class="clearfix navbar-header visible-xs">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse">
+        Menu
+        <span class="icon-wrapper">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </span>
+      </button>
+    </div>
+    <div class="clearfix navbar-collapse collapse" id="navbar-collapse">
+        <nav aria-labelledby="block-osfi-wxt-main-menumainmenu" id="block-osfi-wxt-main-menu" data-block-plugin-id="system_menu_block:main">
+            <h2 class="sr-only hidden" id="block-osfi-wxt-main-menumainmenu">Main navigation</h2>
+
+      
+              <ul role="menu" class="nav navbar-nav">
+                            
+              <li role="presentation">
+        <a href="/en/risks" role="menuitem" title="Risks" data-drupal-link-system-path="node/750">Risks</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/guidance" role="menuitem" title="Guidance" data-drupal-link-system-path="node/379">Guidance</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/supervision" role="menuitem" title="Supervision" data-drupal-link-system-path="node/217">Supervision</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/consultations" role="menuitem" title="Consultations" data-drupal-link-system-path="node/223">Consultations</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/data-forms" role="menuitem" title="Data and forms" data-drupal-link-system-path="node/752">Data and forms</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/en/careers" role="menuitem" title="Careers" data-drupal-link-system-path="node/209">Careers</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      <a class="cross-site-link navbar-btn padded-sm visible-xs" href="/en/oca" title="Office of the Chief Actuary">Office of the Chief Actuary</a>
+    </div>
+  </header>
+
+  <div class="region region-banner clearfix">
+    
+<div class="views-element-container block block-views block-views-blocksite-section-block-1 clearfix" id="block-views-block-site-section-block-1" data-block-plugin-id="views_block:site_section-block_1">
+  
+    
+
+      <div class="form-group"><div class="bg-img parallax view view-site-section view-id-site_section view-display-id-block_1 js-view-dom-id-f58f8bd6dd441f7da1724676ef5bbd81503df88d142d4a3dc2984259ac7f96c7" id="site_section-block_1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="site-section banner vertical-padding">
+    <div class="container">
+        <div class="row">
+            
+              <div class="col-xs-12">
+                <p class="h1">Guidance</p>
+              </div>
+            
+            
+            <div class="field field--name-field-image field--type-image field--label-hidden field--item"></div>
+      
+        </div>
+    </div>
+</div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+        <div class="region region-breadcrumb">
+            <nav id="wb-bc" property="breadcrumb" aria-labelledby="breadcrumbTitle">
+      <h2 id="breadcrumbTitle">You are here</h2>
+      <ol class="breadcrumb">
+                              <li >
+                              <a href="/en" title="Home">Home</a>
+                          </li>
+                      <li >
+                              <a href="/en/guidance" title="Guidance">Guidance</a>
+                          </li>
+                      <li >
+                              <a href="/en/guidance/guidance-library" title="Guidance library">Guidance library</a>
+                          </li>
+                      <li  class="active">
+                              Assessment of Regulatory Capital Models for Deposit-Taking Institutions
+                          </li>
+                        </ol>
+    </nav>
+  
+
+  </div>
+
+  
+      <div class="highlighted clearfix"></div>
+  
+
+    <main property="mainContentOfPage"  class="full-width js-quickedit-main-content">
+
+                <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>  
+
+
+
+
+<article class="guidance full clearfix">
+
+
+      <div class="container">
+      
+      <h1 id="wb-cont" class="text-center clearfix">
+<span>Assessment of Regulatory Capital Models for Deposit-Taking Institutions</span>
+</h1>
+      
+    </div>
+  
+      <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="wb-tabs ignore-session">
+            <div class="tabpanels">
+                    
+      
+        <details id="tab-information" open>
+          <summary>Information</summary>
+          <div class="info-grid wb-eqht-grd grow clearfix">
+            
+<div  class="info-left col-xs-12 col-sm-8">
+    
+  <div class="field field--name-field-publication-type field--type-entity-reference field--label-inline">
+    <div class="field--label">Publication type</div>
+              <div class="field--item">Implementation note</div>
+          </div>
+
+	<div class="field field--name-field-category field--type-entity-reference field--label-inline">
+		<div class="field--label">Category</div>
+									<div class="field--item">
+					Capital Adequacy Requirements				</div>
+							</div>
+
+  <div class="field field--name-field-date field--type-datetime field--label-inline">
+    <div class="field--label">Date</div>
+              <div class="field--item"><time datetime="2021-01-29T12:00:00Z">January 29, 2021</time>
+</div>
+          </div>
+
+  <div class="field field--name-field-audience field--type-entity-reference field--label-inline">
+    <div class="field--label">Sector</div>
+          <div class="field--items">
+              <div class="field--item">
+        Banks,       </div>
+          <div class="field--item">
+        Trust and Loan Companies      </div>
+              </div>
+      </div>
+
+  </div>
+
+            <div class="info-right col-xs-12 col-sm-4">
+                                                <div class="print__wrapper print__wrapper--pdf form-group"><a href="/en/print/pdf/node/496" class="print__link print__link--pdf">Generate PDF</a></div>
+
+                                          </div>
+          </div>
+        </details>
+
+        <details id="toc">
+          <summary>Table of contents</summary>
+        </details>
+
+      
+    
+              
+      
+    
+              
+      
+      
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+      <div class="content">
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden container body-wrapper">
+    <div class="row">
+      <div class="col-xs-12"><h2>I. Introduction</h2>
+
+<p>This document outlines the key principles and processes for the assessment of internal models used for regulatory capital purposes ("capital models"), in alignment with the Capital Adequacy Requirements ("CAR") Guideline. These capital models relate to the measurement of credit, market and counterparty credit risk for the purposes of calculating minimum regulatory capital requirements. This Capital Model Assessment Program ("CMAP") applies to all deposit-taking institutions intending to use new capital models or intending to implement modifications to previously approved capital models.</p>
+
+<h2>II. Terms of Reference</h2>
+
+<dl>
+	<dt>Accredited Institution:</dt>
+	<dd>Institutions who have received approval to use internal capital models.</dd>
+	<dt>Capital Model:</dt>
+	<dd>A capital model for the purpose of this document is any "approach" or "model" for which regulatory approval is required prior to use.</dd>
+	<dt>CMAP:</dt>
+	<dd>The framework under which capital model applications are assessed.</dd>
+	<dt>New Applicant:</dt>
+	<dd>Institutions who are both new to the internal capital model regime and are first time applicants for a primary risk factor.</dd>
+	<dt>Risk Factor:</dt>
+	<dd>Risk types (i.e. market and credit risk) for which institutions may apply to use internal models for regulatory capital adequacy purposes. Sub-risk factors (i.e. counterparty credit risk) are considered to be subsets of a primary risk factor (i.e. market risk).</dd>
+</dl>
+
+<h2>III. Background and Scope of Applicability</h2>
+
+<p>Under Chapter 1 of the CAR Guideline, institutions are required to obtain approval from OSFI prior to the use of advanced approaches for regulatory capital. The assessment of these capital models is governed by the CMAP for any primary and sub-risk factor eligible for the internal model regime. Of the primary risk factors, the Internal Ratings Based ("IRB") approach is applicable for credit risk and the Internal Model Approach ("IMA") is applicable for market risk. Counterparty credit risk is considered a sub-risk factor and eligible for the Internal Model Method ("IMM").</p>
+
+<p>This Implementation Note describes the CMAP applicable to both new applicants and accredited institutions. Once an institution is accredited, the CMAP covers the entirety of the capital model lifecycle from the assessment of new model applications through to any subsequent modifications, performance monitoring, periodic ongoing compliance reviews and model decertification. Applications under this Implementation Note are only required from institutions to OSFI for new models, material modifications and acquisitions<fn value="1">&lt;p&gt;Guiding principles regarding model modifications are further described in &lt;a href="#T7.2"&gt;Section VII(ii)&lt;/a&gt; below.&lt;/p&gt; </fn>. Post-implementation reviews are outside the scope of this Implementation Note and managed through customary supervisory processes.</p>
+
+<h2>IV. CMAP Framework</h2>
+
+<p>The CMAP framework defines acceptance standards which are designed to help an institution establish a model that meets the minimum regulatory requirements at the onset of an OSFI approval and on an ongoing basis. The acceptance standards conceptually categorize the regulatory requirements into four broad categories that frame all capital model assessments:</p>
+
+<ol>
+	<li>
+	<p>Methodology: an assessment of the model's quantitative approaches to segment and measure risk.</p>
+	</li>
+	<li>
+	<p>Integration: an assessment of the model's integration into the institutions' risk management practices.</p>
+	</li>
+	<li>
+	<p>Operations: an assessment of the model's implementation, application and monitoring in a production environment.</p>
+	</li>
+	<li>
+	<p>Controls: an assessment of the effectiveness of oversight applied to the internal models.</p>
+	</li>
+</ol>
+
+<p>Each assessment is related to specific paragraphs (or sections) of either the CAR Guideline, relevant Implementation Notes and/or the Guideline E-23 "Enterprise-Wide Model Risk Management for Deposit-Taking Institutions". These four acceptance standards form the basis upon which all model assessments for regulatory capital are conducted.</p>
+
+<h2>V. Guiding Principles</h2>
+
+<p>Eight key principles guide the application of the CMAP Framework:</p>
+
+<ol>
+	<li>
+	<p>Integrated – CMAP assessments will be applied on a consolidated basis, in line with OSFI's supervisory approach, subject to pertinent home/host considerations.</p>
+	</li>
+	<li>
+	<p>Relevance – the capital model is relevant to risk measurement and management of the risks in the business (i.e. fit for purpose).</p>
+	</li>
+	<li>
+	<p>Responsibility – institutions own the decision to seek approval for a capital model and it is their responsibility to: (i) ensure completeness of the application; (ii) demonstrate that both its model and its supporting internal control mechanisms meet regulatory expectations; and (iii) confirm readiness of the model for use.</p>
+	</li>
+	<li>
+	<p>Conservatism – the capital model should employ conservatism to reflect uncertainty while recognizing that it is not a substitute for conceptual soundness.</p>
+	</li>
+	<li>
+	<p>Consistency – capital model review is subject to consistent application of the CAR Guideline, pertinent Implementation Notes<fn value="2">&lt;p&gt;The Implementation Notes in effect at time of publication are identified in &lt;a href="#App2"&gt;Appendix 2&lt;/a&gt;.&lt;/p&gt; </fn>&nbsp;and Guideline E-23.</p>
+	</li>
+	<li>
+	<p>Transparency – the capital model review process should be transparent to applicants.</p>
+	</li>
+	<li>
+	<p>Risk-Based – intensity of CMAP assessments will include considerations such as the model's complexity and materiality together with OSFI's assessment of the applicant's internal control mechanisms.</p>
+	</li>
+	<li>
+	<p>Co-operation – where applicable, CMAP assessments will be performed in accordance with the BCBS' cross-border principles for effective cooperation<fn value="3">&lt;p&gt;Please refer to the Basel Committee on Banking Supervision paper "&lt;a href="https://www.bis.org/publ/bcbs27.htm" rel="external"&gt;The Supervision of Cross Border Banking&lt;/a&gt;". </fn>.</p>
+	</li>
+</ol>
+
+<h2>VI. New Applicants</h2>
+
+<p>In recognition of the investment required and challenges faced by first-time applicants, internal model accreditation is managed through a three-phase review.</p>
+
+<p>The <strong><span>first phase</span></strong> is <em>Exploratory</em> during which the applicant is exploring the possibility of seeking internal model accreditation. This phase is iterative in that multiple discussions (including onsites) would typically occur. This phase is guided by the applicant with the purpose of discussing its project plan and status, as well as clarifying the intent or requirements behind identified paragraphs of the governing capital guideline and management's self-assessment.</p>
+
+<p>The <strong><span>second phase</span></strong> is <em>Pre-Application readiness</em> during which OSFI reviews a limited and agreed-upon set of production-ready models to ascertain application readiness. The intent is for OSFI to use these models as a proxy for the entirety of the model suite to assess the applicant's readiness to proceed to the full application.</p>
+
+<p>The readiness assessment is comprised of four components:</p>
+
+<ol>
+	<li>
+	<p>Model Implementation: the accreditation project plan is reasonable, substantially complete and management is well equipped to conclude the remaining components within timelines.</p>
+	</li>
+	<li>
+	<p>Model Suitability and Assumptions: for the sampled models reviewed, modelling choices made are aligned with the minimum requirements of the CAR Guideline, supervisory expectations, and the attributes of the portfolio.</p>
+	</li>
+	<li>
+	<p>Model Oversight: for the sampled models, independent and effective challenge was evidenced by the validation unit in accordance with the institutions' approved framework.</p>
+	</li>
+	<li>
+	<p>Self-Assessment results and capital impact: the self-assessment results are reasonable, results are aligned with the conclusions of the pre-application review, and management has a credible action plan to remediate any gaps identified. Processes to generate inputs to risk-weighted assets (RWA) and Pillar I regulatory capital determination are reliable.</p>
+	</li>
+</ol>
+
+<p>During the course of the pre-application review, OSFI may engage in several iterative discussions with the institution to confirm understanding of its approach, but the readiness assessment arising out of this phase is based upon the assessment of the sampled models submitted.</p>
+
+<p>To facilitate the pre-application review, the following documents must be submitted:</p>
+
+<ol>
+	<li>
+	<p>An updated implementation plan that describes the scope of the planned application, anticipated waiver or exemption requests, timeline, and the estimated RWA and capital impact assessments.</p>
+	</li>
+	<li>
+	<p>A description of how the institution plans to satisfy use test requirements, and associated timelines to completion, together with an overview of related downstream impacts (e.g. what will be the impact on institutions' processes and controls as a result of the implementation of the capital model).</p>
+	</li>
+	<li>
+	<p>A description of how the institution plans to monitor the performance of internal capital models post accreditation.</p>
+	</li>
+	<li>
+	<p>An updated copy of the self assessment against relevant paragraphs of the CAR Guideline. Action plans (including associated timelines) to close any identified gaps should also be included.</p>
+	</li>
+	<li>
+	<p>Model Development and Model Validation documents for the agreed-upon sample models.</p>
+	</li>
+</ol>
+
+<p>Institutions should advise OSFI of a planned pre-application submission at least 3 months prior to help ensure timely review. Once received, the objective is to conclude the pre-application readiness phase within 3 months of a complete submission. However, this will be dependent on the complexity of the pre-application, quality and comprehensiveness of the submission package, and progress made by management towards satisfying accreditation requirements.</p>
+
+<p>A successful pre-application recognizes the progress made by management towards accreditation, but should not be construed as an assurance of a successful final accreditation outcome.</p>
+
+<p>Upon receipt of a positive pre-application readiness decision, institutions may proceed to the <span class="osfi-txt--bold">third</span> <strong>phase </strong>(the <em>Full Application</em>) during which the applicant will submit all the models forming its risk factor model suite. The methodological approaches behind these models will be reviewed together with the governance and oversight mechanisms supporting the applicant's internal model approach to arrive at the final accreditation decision.</p>
+
+<p>For full applications, the submission package is described in section VIII. In developing their implementation plans, institutions should establish contingency plans to ensure that any observations resulting from the pre-application readiness assessment are remediated across all models as applicable. Institutions should advise OSFI of a planned application at least 3 months prior to help ensure timely review. Once received, the objective is to conclude the accreditation decision within 6 months of OSFI deeming the application complete. However, this will be dependent on the complexity of the application, and quality and comprehensiveness of the submitted documentation.</p>
+
+<h2>VII. Accredited Institutions</h2>
+
+<p>Once an institution has achieved accreditation for a primary risk factor, any subsequent applications are processed through a single-phase approach. Post-accreditation, applications are required in respect of the following:</p>
+
+<ol>
+	<li>New Model</li>
+	<li>Model Modification</li>
+	<li>Acquisition</li>
+</ol>
+
+<h3 id="T7.1">(i) New Model</h3>
+
+<p>A new model is considered to be instances where the applicant is:</p>
+
+<ol type="a">
+	<li>
+	<p>Adding new model(s) that extends modelled RWA to a new risk factor or sub-risk factor (e.g. IMM).</p>
+	</li>
+	<li>
+	<p>Extensively rebuilding the model's conceptual framework (e.g. data, assumptions or outputs) such that it is not comparable to its predecessor.</p>
+	</li>
+	<li>
+	<p>Developing new models due to a significant change in modelling approach driven by a new regulatory standard (e.g. use of expected shortfall and non-modellable risk factors under the Fundamental Review of Trading Book).</p>
+	</li>
+</ol>
+
+<h3 id="T7.2">(ii) Model Modification</h3>
+
+<p>Modifications arise in situations where institutions are making the following changes to previously approved models. Examples of model modifications include:</p>
+
+<ol type="a">
+	<li>
+	<p>Incorporating new or recent data resulting in a re-calibration of model parameters.</p>
+	</li>
+	<li>
+	<p>Changes to inputs (such as variables, market data sources or curves) used.</p>
+	</li>
+	<li>
+	<p>Inclusion of new products.</p>
+	</li>
+	<li>
+	<p>Extending use to an acquired portfolio at the end of the waiver period.</p>
+	</li>
+	<li>
+	<p>Enhancing the previously approved functional form.</p>
+	</li>
+	<li>
+	<p>Incorporating new inputs or changing the functional form of the model resulting from IT upgrade.</p>
+	</li>
+</ol>
+
+<p>Materiality definitions for modifications must be established by the institution and should consider the following principles:</p>
+
+<ol>
+	<li>
+	<p>The materiality definition should clearly establish both quantitative and qualitative criteria. At a minimum, quantitative criteria should consider RWA and Common Equity Tier 1 (CET1) impacts at both the risk factor and enterprise level.</p>
+	</li>
+	<li>
+	<p>Materiality thresholds should be aligned with the complexity and volatility of both the risk factor and its underlying portfolios.</p>
+	</li>
+	<li>
+	<p>The materiality definition should consider any known strategic shifts that may affect the risk factor over the capital planning cycle.</p>
+	</li>
+	<li>
+	<p>The materiality definition is expected to be regularly reviewed and approved by senior management.</p>
+	</li>
+</ol>
+
+<p>Applications are only required to be submitted where the institution's own qualitative materiality criteria have been triggered or the projected impact of the modification decreases RWA and/or adversely impacts CET1 in excess of the institution's own quantitative materiality thresholds. Institutions may implement non-material modifications without prior approval, however these should be disclosed on the model modification log. OSFI may, at its discretion, request submission of model modifications deemed to be non-material by the institution. Routine maintenance such as the periodic inclusion of newly available market data, removal of a market data or position proxy for IMA portfolios, and post-implementation fixes would generally not be considered a material modification provided that it does not change the quantitative approach or controls applicable to the model.</p>
+
+<h3>(iii) Acquisitions</h3>
+
+<p>From time to time, institutions may purchase entire businesses or portfolios as part of a growth or diversification strategy. Where the institution is currently accredited to use internal models for the primary risk factor, it is expected to deliver a plan three (3) months post-completion that describes how it intends to apply its internal models to the acquisition. For all porfolios, institution apply the standardized approach until approval (if applicable) is granted to apply the internal model approach. Under this framework, three options are available:</p>
+
+<ol type="a">
+	<li>
+	<p>Exemption portfolio: the institution has deemed the portfolio immaterial and never intends to apply the internal model approach. Regulatory capital would be determined using the standardized approach.</p>
+	</li>
+	<li>
+	<p>Waiver portfolio: the institution intends to apply the internal model approach, but requires time to update its current suite of capital models (which could range from incorporating new data into the existing capital model(s) to building new capital models).</p>
+	</li>
+	<li>
+	<p>Migration portfolio: the institution intends to apply its existing capital models to an acquired portfolio or an acquisition programme. No changes will be made to the capital model to accommodate these additional exposures.</p>
+
+	<p>In order to qualify as a migration portfolio, the institution must demonstrate the following:</p>
+
+	<ol>
+		<li>
+		<p>The portfolio characteristics are similar between the own and acquired portfolios.</p>
+		</li>
+		<li>
+		<p>It has data, or a suitable proxy approach, to confirm that default and loss attributes between the own and acquired portfolios are the same.</p>
+		</li>
+		<li>
+		<p>It is able to apply the internal model approach to the acquired portfolio.</p>
+
+		<ul>
+			<li>For credit portfolios, this would mean that the portfolio is "rate-able" under the IRB approach.</li>
+			<li>For market portfolios, this would mean that prior IMA has been granted for the product, the institution currently applies the IMA to that product, and the attributes of the acquired portfolio are similar to the institution's own positions.</li>
+		</ul>
+		</li>
+		<li>
+		<p>Where the migration applies to the acquisition programme, controls have been established to monitor the continued suitability of the existing capital models (e.g. separate backtesting on the acquired portfolio).</p>
+		</li>
+	</ol>
+	</li>
+</ol>
+
+<p>Depending on the complexity and size of the acquisition, the acquisition may be managed under a combination of exemption, waiver and migration portfolios. This should be clearly described in the 3 month plan with supporting rationale.</p>
+
+<h2>VIII. Materials Required To Be Submitted for Capital Model Applications</h2>
+
+<p>Prior to submitting a capital model application, institutions are expected to have adhered to and satisfied their internal policies and control requirements around the use of regulatory capital models.</p>
+
+<p>For each capital model application, the following materials must be submitted:</p>
+
+<ol>
+	<li>
+	<p>Submission overview. This includes:</p>
+
+	<ul>
+		<li>The application request (e.g. description of the new model or changes to a previously approved model);</li>
+		<li>Scope of the application;</li>
+		<li>A narrative describing how the model satisfies the integration and operation acceptance standards described in Section IV above. In contrast to the self assessment in #3 below, this narrative should be thematic and describe the overall ecosystem of controls supporting the capital model. References to supporting policies, procedures and reports should be clearly identified and appended;</li>
+		<li>The implementation plan that covers the timeline of the model's rollout into a production environment and an overview of any pertinent downstream impacts;</li>
+		<li>A cover letter addressed to the Lead Supervisor from the Chief Risk Officer attesting that the capital model has met all applicable minimum requirements and is therefore ready to be used for regulatory capital purposes;</li>
+		<li>RWA and capital impact assessment (CET1 equivalent) as at the quarter-end prior to submission. Any significant changes to the strategy which would affect the portfolio composition should be reflected accordingly.</li>
+	</ul>
+	</li>
+	<li>
+	<p>Model Development and Validation documents. Institutions should ensure that any relevant and supporting documents (e.g. those pertaining to other models whose outputs are used in the capital model, supporting academic literature, etc) are also included as an Annex. Institutions should provide a mapping that facilitates understanding of interconnectedness and ease of review.</p>
+	</li>
+	<li>
+	<p>A completed Self-Assessment against agreed-upon paragraphs (or sections) of the CAR Guideline, Implementation Notes, and Guideline E-23. Prior to submission, institutions should contact OSFI bilaterally to discuss the relevant paragraphs for assessment.</p>
+	</li>
+	<li>
+	<p>Positive assurance from Internal Audit unit related to: (i) the effectiveness of controls designed by management to ensure adherence to the applicable minimum requirements and (ii) concurrence with management's self-assessment. The audit report should be submitted along with the application package. Note: OSFI's review will not commence until this report is received.</p>
+	</li>
+	<li>
+	<p>Relevant policies governing the operation of the capital model in a production environment and reports used to assess the effectiveness of this process.</p>
+	</li>
+	<li>
+	<p>Capital impact reporting: The periods below refer to how long institutions are expected to quantify RWA of the portfolio in a non-production environment. These results are compared against RWA quantified using the approved capital model (or standardized charges, as applicable) for the same period.</p>
+	</li>
+</ol>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<tbody>
+		<tr>
+			<th class="text-align-center" rowspan="2" scope="col">Risk Factor</th>
+			<th class="text-align-center" colspan="2">Accredited Institution</th>
+			<th class="text-align-center" rowspan="2" scope="col">New Applicant</th>
+		</tr>
+		<tr>
+			<th class="text-align-center" scope="col">New Model</th>
+			<th class="text-align-center" scope="col">Material Modification</th>
+		</tr>
+		<tr>
+			<th scope="row">Market Risk</th>
+			<td>2 quarters <fn id="fnb4-ref" value="4">For market and counterparty credit risk purposes, one quarter refers to 60 business days. </fn></td>
+			<td>1 quarter</td>
+			<td>4 quarters</td>
+		</tr>
+		<tr>
+			<th scope="row">Credit Risk</th>
+			<td>2 quarters</td>
+			<td>1 quarters</td>
+			<td>2quarters</td>
+		</tr>
+		<tr>
+			<th scope="row">Counterparty Credit Risk</th>
+			<td>2 quarters</td>
+			<td>1 quarter</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<p>To satisfy market and counterparty credit risk requirements, up to 50% of the required observations can be attained retrospectively from the time model development is concluded (i.e. inclusive of any pre-production revisions required through the FRFI's internal review processes).</p>
+
+<p>This capital impact reporting period does not supersede the requirement for institutions to comply with both accreditation and ongoing use test requirements. This broader use test includes, but is not limited to operating the capital model and using its outputs for enterprise processes such as stress testing, management reporting and limit setting. For greater clarity, the capital impact reporting period generally culminates a lengthier parallel run period.</p>
+
+<p>Accredited institutions are not required to submit pro-forma regulatory returns as the institution's ongoing internal oversight should confirm the reliability and accuracy of the BCAR reporting process. New applicants are required to submit pro-forma regulatory returns to demonstrate that post-accreditation reporting would be accurate, reliable and sustainable.</p>
+
+<p>Backtesting requirements are <i>ex post</i> comparisons between the forecasted risk of a portfolio or segment and the actual performance. The required period of backtesting is described below:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<tbody>
+		<tr>
+			<th class="text-align-center" rowspan="2" scope="col">Risk Factor</th>
+			<th class="text-align-center" colspan="2">Accredited Institution</th>
+			<th class="text-align-center" rowspan="2" scope="col">New Applicant</th>
+		</tr>
+		<tr>
+			<th class="text-align-center" scope="col">New Model</th>
+			<th class="text-align-center" scope="col">Material Modification</th>
+		</tr>
+		<tr>
+			<th scope="row">Market Risk</th>
+			<td>2 quarters</td>
+			<td>1 quarter</td>
+			<td>4 quarters</td>
+		</tr>
+		<tr>
+			<th scope="row">Credit Risk</th>
+			<td>2 quarters</td>
+			<td>2 quarters</td>
+			<td>4 quarters</td>
+		</tr>
+		<tr>
+			<th scope="row">Counterparty Credit Risk</th>
+			<td>2 quarters</td>
+			<td>1 quarter</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<p>Backtesting horizons diverge between market risk and credit risk in recognition of different volatilities in the portfolio and frequency of parameter updates.</p>
+
+<p>To satisfy the market and counterparty credit risk backtesting requirements, up to 50% of the required observations can be attained from applying the model retrospectively from the time the model development is concluded (i.e. inclusive of any pre-production revisions required through the FRFI's internal review processes). In adopting this hybrid approach, institutions must be able to demonstrate that they have been able to retrospectively source complete market and position data to facilitate backtesting. Additionally, the total time period is expected to be consecutive.</p>
+
+<p>For credit risk capital models, backtesting results referred to above are expected to be out-of-time from the data used to develop and validate the model. For clarity, in-sample backtesting using all available historical data is expected to be conducted as part of model development and validation processes.</p>
+
+<p>Other information may be requested by OSFI during the course of the application review. In the case of model modifications, information submitted for items 1 through 5 above should pertain only to and be specific about the change to the previously approved model.</p>
+
+<h3>Model Changes Post-Submission</h3>
+
+<p>Once an application is submitted, institutions are prohibited from making changes to the quantitative methodology or any operational processes that directly impact estimation of RWA until the application decision by OSFI has been rendered. Institutions are encouraged to also refrain from adopting improvements to the controls around the RWA process during this period because part of the assessment is to evaluate the sustainability of controls. Institutions are expected to implement the version of the model submitted provided a satisfactory application outcome has been achieved.</p>
+
+<p>Excepted from this is the addition of recent data into the model; however, this is expected to be clearly identified and typically no resulting changes should be made to model variables or coefficients. In some instances, institutions may submit an application in relation to one regulatory capital parameter (e.g. PD), but have immaterial modifications for other parameters (e.g. LGD) for the same portfolio. In these cases, institutions should proactively disclose any immaterial modifications affecting the estimation of RWA for the portfolio and seek further guidance.</p>
+
+<h3>Service Window</h3>
+
+<p>OSFI generally will not prescribe when institutions are required to submit applications, in line with the underlying premise that the process is driven by the applicant.</p>
+
+<p>That said, the timing of application decisions are important to institutions' capital planning processes. Therefore, the service window to return an application decision is 6 months for new model applications and 3 months for a material modifications. However, this will be dependent on the complexity of the application, and quality and comprehensiveness of the submitted documentation. The service window begins from when the application is deemed substantially complete by OSFI.</p>
+
+<h2>IX. Decisions Arising From the Review of the Capital Model Application</h2>
+
+<p>The CMAP culminates in four potential decisions:</p>
+
+<ol>
+	<li>
+	<p>Approval: The application is found to satisfy the requirements of the internal model regime and no deficiencies are identified.</p>
+	</li>
+	<li>
+	<p>Approval with Conditions&nbsp;<fn id="fnb5-ref" value="5">For clarity, "conditions" refers to any findings resulting from OSFI's review of the capital model application. This differs from the ongoing maintenance and reporting requirements associated with the institution's internal model approach (such as the annual self-assessment and CRO attestation).</fn>: The application is found to satisfy most requirements of the internal model regime. Identified deficiencies are not so significant as to impair the effectiveness of the institutions' approach. In these cases, the institution is permitted to implement the model prior to OSFI confirming closure of the finding(s).</p>
+
+	<p>Where the totality and nature of the deficiencies results in an elevated supervisory concern, but is not detrimental to a degree that warrants decline, implementation of the capital model may be binding on OSFI confirming closure of the finding(s).</p>
+	</li>
+	<li>
+	<p>Pause: The application is found not to satisfy material requirements of the internal model regime. While the deficiencies are material, they are not insurmountable. Pauses are only available in two cases: (i) pre-applications submitted by new applicants; and (ii) new models submitted by accredited institutions.</p>
+	</li>
+	<li>
+	<p>Decline: The application is found not to satisfy material requirements of the internal model regime. Deficiencies are foundational and remediation requires redevelopment of the approach. As such, the capital model application is not approved.</p>
+	</li>
+</ol>
+
+<h2>X. Ongoing Reporting Requirements And Periodic Compliance Reviews</h2>
+
+<p>Once an institution achieves accreditation, it is expected to maintain robust controls to ensure ongoing compliance with requirements of the CAR Guideline, relevant Implementation Notes and Guideline E-23. From time to time, OSFI may conduct supervisory reviews to update its assessment of the institution's standing against the acceptance standards described in Section IV above for individual (or suite of) models within a risk factor. These reviews will be supplemented by a regular quarterly monitoring programme.</p>
+
+<p>Accredited institutions are requested to provide the following information to their Lead Supervisor within 6 months of each fiscal year end:</p>
+
+<ol>
+	<li>
+	<p>A letter from the Chief Risk Officer confirming that the existing inventory of approved capital models continues to adhere to all minimum applicable requirements.</p>
+	</li>
+	<li>
+	<p>Positive assurance from Internal Audit in respect of the effectiveness of controls designed by management to ensure applicability to the inventory of approved capital models remains appropriate for regulatory capital purposes. Appended to this opinion should be a completed copy of the self-assessment for each risk factor. Supporting materials should be available and provided to OSFI upon request.</p>
+	</li>
+	<li>
+	<p>A list of all approved capital models in production as of the reporting date. For IMA, this should also include the list of approved products to which the capital models are applied.</p>
+	</li>
+	<li>
+	<p>A list of all waivers, exemptions and migrations applicable as of the reporting date. The name of the portfolio, its size and expiry date of the waiver should be clearly reported. The materiality of each item should also be reported relative to risk factor RWA and EAD.</p>
+	</li>
+</ol>
+
+<h2>XI. Institution Requested De-Certification</h2>
+
+<p>In rare circumstances, accredited institutions may seek de-certification for some capital models. Institutions must be prepared to identify specific material deficiencies in the approved model which are insurmountable and/or where the model is no longer suitable or consistent with its strategy.</p>
+
+<h3>Appendix I: Self-Assessment Template</h3>
+
+<p>The template below provides an illustration of the structure of information institutions are expected to provide in their self-assessments under Sections VIII and X above.</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<thead>
+		<tr>
+			<th>Reference<sup id="tb1-ref"><a class="fn-lnk ui-link" href="#tb1"><span class="wb-invisible">Table note </span>a</a></sup></th>
+			<th>Summary<sup id="tb2-ref"><a class="fn-lnk ui-link" href="#tb2"><span class="wb-invisible">Table note </span>b</a></sup></th>
+			<th>Self-Assessment<br>
+			(1<sup>st</sup> Line)<br>
+			Compliance Rating<sup id="tb3-ref"><a class="fn-lnk ui-link" href="#tb3a"><span class="wb-invisible">Table note </span>c</a></sup></th>
+			<th>Final Assessment<br>
+			(2<sup>nd</sup> Line)<br>
+			Compliance Rating<sup id="tb3b-ref"><a class="fn-lnk ui-link" href="#tb3a"><span class="wb-invisible">Table note </span>c</a></sup></th>
+			<th>IA<br>
+			Compliance Rating<sup id="tb4-ref"><a class="fn-lnk ui-link" href="#tb4"><span class="wb-invisible">Table note </span>d</a></sup></th>
+			<th>Comments<sup id="tb5-ref"><a class="fn-lnk ui-link" href="#tb5"><span class="wb-invisible">Table note </span>e</a></sup></th>
+			<th>Supporting<br>
+			Materials<br>
+			<sup id="tb6-ref"><a class="fn-lnk ui-link" href="#tb6"><span class="wb-invisible">Table note </span>f</a></sup></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="7">
+			<div class="wb-fnote" data-load="footnotes" role="note">
+			<section>
+			<h2 class="wb-invisible" id="fnb">Footnotes</h2>
+
+			<dl class="dl-horizontal">
+				<dt id="tb1-dt">Footnote 1</dt>
+				<dd aria-labelledby="tb1-dt" id="tb1" tabindex="-1">
+				<p>Reference: refers to the relevant paragraph of the CAR Guideline or sections of the Implementation Notes or Guideline E-23 as applicable.</p>
+
+				<p class="fn-rtn"><a class="ui-link" href="#tb1-ref"><span class="wb-invisible">Return to footnote </span>a</a></p>
+				</dd>
+				<dt id="tb2-dt">Footnote 2</dt>
+				<dd aria-labelledby="tb2-dt" id="tb2" tabindex="-1">
+				<p>Summary: indicate the text of the paragraph or section being assessed.</p>
+
+				<p class="fn-rtn"><a class="ui-link" href="#tb2-ref"><span class="wb-invisible">Return to footnote </span>b</a></p>
+				</dd>
+				<dt id="tb3a-dt">Footnote 3</dt>
+				<dd aria-labelledby="tb3a-dt" id="tb3a" tabindex="-1">
+				<p>Self-Assessment and Final Assessment Rating: the rating scale used is “full compliance, substantial compliance, partial compliance, and non-compliant”. This rating applies to all portfolios within the risk factor and should reflect management’s assessment of how effectively the control has been implemented. The presence of any material or persistent deficiencies should be considered when assigning the rating.</p>
+
+				<p class="fn-rtn"><a class="ui-link" href="#tb3-ref"><span class="wb-invisible">Return to footnote </span>c</a></p>
+				</dd>
+				<dt id="tb4-dt">Footnote 4</dt>
+				<dd aria-labelledby="tb4-dt" id="tb4" tabindex="-1">
+				<p>IA Compliance Rating: the rating scale used is “full compliance, substantial compliance, partial compliance, and non-compliant”. Where IA has conducted work on this section in support of its annual opinion, it should indicate its independent conclusion of the compliance rating.</p>
+
+				<p class="fn-rtn"><a class="ui-link" href="#tb4-ref"><span class="wb-invisible">Return to footnote </span>d</a></p>
+				</dd>
+				<dt id="tb5-dt">Footnote 5</dt>
+				<dd aria-labelledby="tb5-dt" id="tb5" tabindex="-1">
+				<p>Comments: this section should include brief rationale supporting management’s compliance rating. Where a rating of less than “full compliance” is assigned, the target compliance date should be indicated. Where IA has conducted work and not concurred management’s rating, brief rationale should also be included.</p>
+
+				<p class="fn-rtn"><a class="ui-link" href="#tb5-ref"><span class="wb-invisible">Return to footnote </span>e</a></p>
+				</dd>
+				<dt id="tb6-dt">Footnote 6</dt>
+				<dd aria-labelledby="tb6-dt" id="tb6" tabindex="-1">
+				<p>Supporting Materials: this section should include references to all materials used to justify the rating.</p>
+
+				<p class="fn-rtn"><a class="ui-link" href="#tb6-ref"><span class="wb-invisible">Return to footnote </span>f</a></p>
+				</dd>
+			</dl>
+			</section>
+			</div>
+			</td>
+		</tr>
+	</tfoot>
+</table></div>
+
+<h3 id="App2">Appendix 2 – Relevant Implementation Notes</h3>
+
+<p>The following Implementation Notes dated January 2006 remain in effect:</p>
+
+<ul>
+	<li>Oversight Expectations for IRB Institutions</li>
+	<li>The Use of Ratings and Estimates of Default and Loss at IRB Institutions</li>
+	<li>Risk Quantification at IRB Institutions</li>
+	<li>Data Maintenance at IRB Institutions</li>
+	<li>Collateral Management Principles for IRB Institutions</li>
+	<li>Validating Risk Rating Systems at IRB Institutions</li>
+</ul>
+
+<dl class="dl-horizontal">
+	<dt><i>Accredited Institution:</i></dt>
+	<dd>Institutions who have received approval to use internal capital models.</dd>
+	<dt><i>Capital Model: </i></dt>
+	<dd>A capital model for the purpose of this document is any "approach" or "model" for which regulatory approval is required prior to use.</dd>
+	<dt><i>CMAP: </i></dt>
+	<dd>The framework under which capital model applications are assessed.</dd>
+	<dt><i>New Applicant: </i></dt>
+	<dd>Institutions who are both new to the internal capital model regime and are first time applicants for a primary risk factor.</dd>
+	<dt><i>Risk Factor: </i></dt>
+	<dd>Risk types (i.e. market and credit risk) for which institutions may apply to use internal models for regulatory capital adequacy purposes. Sub-risk factors (i.e. counterparty credit risk) are considered to be subsets of a primary risk factor (i.e. market risk).</dd>
+</dl>
+</div>
+    </div>
+  </div>
+
+    </div>
+  
+</article>
+
+
+  </div>
+
+    
+                        <div class="pagedetails region region-content-footer">
+    <div class="row">
+      
+<div id="block-osfi-wxt-reportproblemblock" class="col-xs-12 col-sm-6 block block-wxt-ext-webform block-report-problem-block clearfix" data-block-plugin-id="report_problem_block">
+  
+    
+
+      <details class="brdr-0">
+  <summary class="btn btn-default text-center"> Report a problem or mistake on this page</summary>
+  <div class="well row">
+    <div class="gc-rprt-prblm">
+      <span id="webform-submission-gcweb-report-a-problem-node-496-form-ajax-content"></span><div id="webform-submission-gcweb-report-a-problem-node-496-form-ajax" class="webform-ajax-form-wrapper" data-effect="none" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-gcweb-report-a-problem-form webform-submission-gcweb-report-a-problem-add-form webform-submission-gcweb-report-a-problem-node-496-form webform-submission-gcweb-report-a-problem-node-496-add-form js-webform-details-toggle webform-details-toggle antibot" novalidate="novalidate" data-drupal-selector="webform-submission-gcweb-report-a-problem-node-496-add-form" data-action="/en/guidance/guidance-library/assessment-regulatory-capital-models-deposit-taking-institutions" action="/antibot" method="post" id="webform-submission-gcweb-report-a-problem-node-496-add-form" accept-charset="UTF-8">
+	
+	<noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<fieldset data-drupal-selector="edit-report-issue-types" class="checkboxes--wrapper fieldgroup form-composite webform-composite-visible-title required js-webform-type-checkboxes webform-type-checkboxes js-form-item form-item js-form-wrapper form-wrapper" id="edit-report-issue-types--wrapper">
+      <legend class="fieldset-legend js-form-required required">
+    <span>Please select all that apply:<strong class="required" aria-hidden="true"> (required)</strong></span>
+      </legend>
+  <div class="fieldset-wrapper">
+        
+        <div id="edit-report-issue-types" class="js-webform-checkboxes webform-options-display-one-column form-checkboxes"><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-a-link-button-or-video-is-not-working js-form-item-report-issue-types-a-link-button-or-video-is-not-working checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-a-link-button-or-video-is-not-working" class="control-label option"><input data-drupal-selector="edit-report-issue-types-a-link-button-or-video-is-not-working" class="form-checkbox" type="checkbox" id="edit-report-issue-types-a-link-button-or-video-is-not-working" name="report_issue_types[A link, button or video is not working]" value="A link, button or video is not working" />A link, button or video is not working</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-it-has-a-spelling-mistake js-form-item-report-issue-types-it-has-a-spelling-mistake checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-it-has-a-spelling-mistake" class="control-label option"><input data-drupal-selector="edit-report-issue-types-it-has-a-spelling-mistake" class="form-checkbox" type="checkbox" id="edit-report-issue-types-it-has-a-spelling-mistake" name="report_issue_types[It has a spelling mistake]" value="It has a spelling mistake" />It has a spelling mistake</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-missing js-form-item-report-issue-types-information-is-missing checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-missing" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-missing" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-missing" name="report_issue_types[Information is missing]" value="Information is missing" />Information is missing</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-outdated-or-wrong js-form-item-report-issue-types-information-is-outdated-or-wrong checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-outdated-or-wrong" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-outdated-or-wrong" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-outdated-or-wrong" name="report_issue_types[Information is outdated or wrong]" value="Information is outdated or wrong" />Information is outdated or wrong</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-i-cant-find-what-im-looking-for js-form-item-report-issue-types-i-cant-find-what-im-looking-for checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-i-cant-find-what-im-looking-for" class="control-label option"><input data-drupal-selector="edit-report-issue-types-i-cant-find-what-im-looking-for" class="form-checkbox" type="checkbox" id="edit-report-issue-types-i-cant-find-what-im-looking-for" name="report_issue_types[I can&#039;t find what I&#039;m looking for]" value="I can&#039;t find what I&#039;m looking for" />I can't find what I'm looking for</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-other-issue-not-in-this-list js-form-item-report-issue-types-other-issue-not-in-this-list checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-other-issue-not-in-this-list" class="control-label option"><input data-drupal-selector="edit-report-issue-types-other-issue-not-in-this-list" class="form-checkbox" type="checkbox" id="edit-report-issue-types-other-issue-not-in-this-list" name="report_issue_types[Other issue not in this list]" value="Other issue not in this list" />Other issue not in this list</label>
+  
+  
+
+  </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="form-item js-form-item form-type-textarea js-form-type-textarea form-item-additional-information js-form-item-additional-information form-group">
+    
+        <label for="edit-additional-information" class="control-label js-form-required required">    Additional information<strong class="required" aria-hidden="true"> (required)</strong>
+  </label>
+    
+  
+  <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-additional-information" class="form-textarea required form-control resize-vertical" id="edit-additional-information" name="additional_information" rows="5" cols="60" required="required" aria-required="true"></textarea>
+</div>
+
+
+  
+  
+
+  </div>
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" /><input data-drupal-selector="form-tn-odecro5adykvjxf2drhowjbc5if-enhhuodporqe" type="hidden" name="form_build_id" value="form-Tn_oDECRo5adyKVJxf2DrhoWjbc5iF_eNHHUoDPORqE" /><input data-drupal-selector="edit-webform-submission-gcweb-report-a-problem-node-496-add-form" type="hidden" name="form_id" value="webform_submission_gcweb_report_a_problem_node_496_add_form" /><div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><input class="webform-button--submit button button--primary js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit" name="op" value="Submit"/>
+</div>
+<div class="url-textfield form-group js-form-wrapper form-wrapper" style="display: none !important;"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-url js-form-item-url form-group">
+    
+      <label for="edit-url" class="control-label">Leave this field blank</label>
+    
+  
+  <input autocomplete="off" data-drupal-selector="edit-url" class="form-text form-control" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" />
+
+  
+  
+
+  </div>
+</div>
+
+
+	
+</form>
+</div>
+    </div>
+   </div>
+</details>
+
+  </div>
+
+<div id="block-osfi-wxt-datemodifiedblock" class="col-xs-12 block block-wxt-library block-date-modified-block clearfix" data-block-plugin-id="date_modified_block">
+  
+    
+
+      <dl id="wb-dtmd">
+<dt>Date modified:</dt>
+<dd><time property="dateModified">2021-01-29</time></dd></dl>
+  </div>
+
+<div id="block-osfi-wxt-sharewidgetblock" class="pull-right col-xs-12 col-sm-4 block block-wxt-library block-share-widget-block clearfix" data-block-plugin-id="share_widget_block">
+  
+    
+
+      <div class="wb-share mrgn-bttm-sm pull-right" data-wb-share='{"filter":["blogger","diigo","email","facebook","gmail","linkedin","myspace","pinterest","reddit","tinyurl","tumblr","twitter","whatsapp","yahoomail"],"pnlId":"pnl1","lnkClass":"btn btn-default"}'></div>
+  </div>
+
+    </div>
+  </div>
+
+          
+  </main>
+
+
+
+            <footer id="wb-info">
+        <div class="container">
+          <div class="row">
+                        <div class="col-xs-12">
+                <div class="region region-footer">
+    
+<nav aria-labelledby="aboutThisSite" id="block-footer" data-block-plugin-id="menu_block:footer" class="wb-eqht-grd row">
+  
+  <h2 id="aboutThisSite">About this site</h2>
+  
+      
+                          <section class="col-xs-12 col-sm-4">
+        <h3>News</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/en/news?type=5" role="menuitem" title="News releases" data-drupal-link-query="{&quot;type&quot;:&quot;5&quot;}" data-drupal-link-system-path="node/23">News releases</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/news?type=4" role="menuitem" title="Speeches" data-drupal-link-query="{&quot;type&quot;:&quot;4&quot;}" data-drupal-link-system-path="node/23">Speeches</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/media-contacts" role="menuitem" title="Media relations" data-drupal-link-system-path="node/26">Media relations</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/news/speaking-engagements-0" role="menuitem" title="Speaking engagements" data-drupal-link-system-path="node/2976">Speaking engagements</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/en/scams-fraud" title="Scams and fraud" role="menuitem" data-drupal-link-system-path="node/1262">Scams and fraud</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>About us</h3>
+                                  <ul role="menu" class="nav menu">
+                                                  
+        <li role="presentation">
+        <a href="/en/about-osfi" title="Office of the Superintendent of Financial Institutions" role="menuitem" data-drupal-link-system-path="node/1291">OSFI</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/en/oca/about-office-chief-actuary" title="Office of the Chief Actuary" role="menuitem" data-drupal-link-system-path="node/1362">OCA</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>Stay connected</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/en/contact-us" role="menuitem" title="Contact us" data-drupal-link-system-path="node/1689">Contact us</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/en/contact-us/email-notifications" role="menuitem" title="Email notifications" data-drupal-link-system-path="node/1747">Email notifications</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://twitter.com/OSFICanada" role="menuitem" title="X (formerly Twitter)">X (formerly Twitter)</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.youtube.com/user/OSFIBSIF" role="menuitem" title="YouTube">YouTube</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.linkedin.com/company/office-of-the-superintendent-of-financial-institutions-of-canada" role="menuitem" title="LinkedIn">LinkedIn</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                
+
+
+  </nav>
+  </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 col-sm-9">
+                <div class="region region-footer-legal">
+    <nav role="navigation" aria-labelledby="block-legal-menu" id="block-legal" class="block-legal" data-block-plugin-id="menu_block:legal">
+      
+  <h2 id="block-legal-menu">Corporate</h2>
+  
+
+        
+              <ul role="menu" class="menu nav nav-pills legal">
+                                              
+        <li role="presentation">
+        <a href="https://canada.ca" role="menuitem" title="Canada.ca">Canada.ca</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/en/terms-conditions" role="menuitem" title="Terms and conditions" data-drupal-link-system-path="node/429">Terms and conditions</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/en/transparency" role="menuitem" title="Transparency" data-drupal-link-system-path="node/1399">Transparency</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/en/accessibility" role="menuitem" title="Accessibility" data-drupal-link-system-path="node/647">Accessibility</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+            </div>
+            <div class="col-xs-12 col-sm-3 canada-logo">
+              <img height="40" src='/libraries/theme-gcweb/assets/wmms-blk.svg' alt='Symbol of the Government of Canada' />
+            </div>
+          </div>
+        </div>
+      </footer>
+      
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"node\/496","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1kYGOwyAIhl_I1UcyqKxlVfGErtvbn9u6rJfeEqPw8QuIENmjS7CUMFnYOQaKkme12zmcuWXjIcxOua9qd7ajwMV4ZhVt0ENvy9WGjgrpLli58hXbjihzUqomzBhJufUbEYv6xGG2O9sEbmhjWyqkIXBKUAVfkIpiKx1ffhZs91e3GXS6wM0K6lINy5ncelM7LhShBPwQnTDjSUKjqmLkLoq5v68nvxKuYp_7kDkuCc2K_pHdbucAvcQBBs6VhfQox9RrFR3ChGH2fEP5KomoQEkGgev3PG-R8jj-091bllEExu9xrkpcjr08B7k57vNlB2L6HF0i36Ddt3mOoav-8BX15BnXXz0w92s","theme":"osfi_wxt","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/en\/guidance\/guidance-library\/assessment-regulatory-capital-models-deposit-taking-institutions?ajax_form=1":true},"back_to_top":{"back_to_top_button_trigger":400,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":false,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image","back_to_top_button_text":"Top"},"mathjax":{"config_type":1,"config":{"tex2jax":{"inlineMath":[["$$$","$$$"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none"}},"bootstrap":{"forms_has_error_value_toggle":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover","modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click"},"antibot":{"forms":{"webform-submission-gcweb-report-a-problem-node-496-add-form":{"id":"webform-submission-gcweb-report-a-problem-node-496-add-form","key":"MJAXkRQGQecRK84Sho6h0nBj_laVsi4WhxgCVo0vAoh"}}},"ajax":{"edit-submit":{"callback":"::submitAjaxForm","event":"click","effect":"none","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/en\/guidance\/guidance-library\/assessment-regulatory-capital-models-deposit-taking-institutions?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"info-left col-xs-12 col-sm-8","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"user":{"uid":0,"permissionsHash":"948b17b44e21fbbdf33d5fd143628912a823ca4231d0e9e94c73388fbb69dc9d"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.7"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.2"></script>
+<script src="/core/misc/debounce.js?v=10.6.2"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0"></script>
+<script src="/libraries/wet-boew/js/wet-boew.min.js?til2gg"></script>
+<script src="/modules/contrib/antibot/js/antibot.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/bootstrap-pre-init.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/alert.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/collapse.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/dropdown.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/modal.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/tooltip.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/popover.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/popover.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/tooltip.js?til2gg"></script>
+<script src="/core/misc/form.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/form.js?til2gg"></script>
+<script src="/core/misc/details-summarized-content.js?v=10.6.2"></script>
+<script src="/core/misc/details-aria.js?v=10.6.2"></script>
+<script src="/core/misc/details.js?v=10.6.2"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0"></script>
+<script src="/modules/contrib/mathjax/js/config.js?v=10.6.2"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/modules/contrib/mathjax/js/setup.js?v=10.6.2"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/drupal.wxt_bootstrap.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/guidance.behaviors.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/vendors/bootstrap/assets/javascripts/bootstrap/transition.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/scripts.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/adobe.analytics.footer.js?til2gg"></script>
+<script src="/core/misc/progress.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/progress.js?til2gg"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.6.2"></script>
+<script src="/core/misc/message.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/message.js?til2gg"></script>
+<script src="/core/misc/ajax.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/ajax.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.scroll.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.ajax.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.checkboxes.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.save.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.toggle.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.message.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.options.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.behaviors.js?v=10.6.2"></script>
+<script src="/core/misc/states.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/states.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.form.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/modules/webform_bootstrap/js/webform_bootstrap.states.js?v=10.6.2"></script>
+<script src="/libraries/theme-gcweb/js/theme.min.js?til2gg"></script>
+
+  </body>
+</html>

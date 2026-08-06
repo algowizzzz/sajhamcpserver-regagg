@@ -1,0 +1,1 @@
+Summary: # OSFI clarifies treatment of innovative real estate secured lending products under Guideline B-20

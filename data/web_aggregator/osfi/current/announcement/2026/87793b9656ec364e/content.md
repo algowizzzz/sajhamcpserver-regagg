@@ -1,0 +1,501 @@
+# Guide for the Demutualization of Mutual Property and Casualty Insurance Companies with Non-mutual Policyholders
+
+**Type of Publication:** Instruction Guide  
+**Category:** Application Guides  
+**Date:** December 2015
+
+## Table of contents
+
+## Introduction
+
+The  [Insurance Companies Act](http://laws-lois.justice.gc.ca/eng/acts/I-11.8/index.html) (ICA) contemplates the conversion of a mutual federal insurance company into a company with share capital, a process referred to in this Guide as demutualization or conversion.
+
+The  [Mutual Property and Casualty Insurance Company with Non-mutual Policyholders Conversion Regulations](http://laws.justice.gc.ca/eng/regulations/SOR-2015-168/index.html) (the Regulations), which came into force on July 1, 2015, set out the framework governing the demutualization of federally regulated mutual property and casualty insurance companies that have both mutual and non-mutual policyholders (MPCC).[Footnote 1](#fnb1) The demutualization process involves three approvals by the Superintendent of Financial Institutions (the Superintendent), and culminates with the issuance of letters patent of conversion by the Minister of Finance (the Minister).
+
+## Purpose
+
+The primary purpose of this Guide is to promote awareness and enhance the transparency of the process and assessment criteria relative to the demutualization of an MPCC. The Guide describes the regulatory requirements relating to the demutualization of an MPCC and sets out the information that must be provided to OSFI at each phase of the demutualization process.
+
+This Guide is divided into four Parts:
+
+* Part I provides a general overview of the demutualization process set out in the ICA and Regulations.
+* Part II sets out the information that the MPCC is expected to submit to OSFI in connection with each of the four approvals that are required as part of the demutualization process.
+* Part III provides administrative guidance relative to the demutualization process and the related approvals.
+* Part IV provides administrative guidance relative to the role of the independent actuary retained for the purpose of the demutualization, as well as the appointed actuary of the MPCC.
+
+## OSFI’s Role
+
+OSFI’s primary responsibility throughout the demutualization process is to review and assess applications for regulatory approval and ultimately make recommendations to the Minister with respect to the approval of the conversion proposal and the issuance of letters patent of conversion.
+
+OSFI will generally evaluate the applications for approval against the criteria in this Guide; however, as the particular circumstances and facts of each demutualization are different, this Guide should not be viewed as an exhaustive set of criteria and information requirements.[Footnote 2](#fnb2) OSFI officers from the Regulatory Affairs Division, Insurance Supervision Sector and the Actuarial Division jointly review and assess each application for the demutualization of an MPCC.
+
+**To enable OSFI to fulfill this role, it is important that it be kept informed of key developments throughout the process, including during steps that do not require a regulatory approval.**
+
+## PART I - Overview
+
+### Demutualization process
+
+* Initiation of process
+
+The demutualization process is initiated by a resolution of the MPCC’s board of directors. Among other things, the resolution recommends the conversion and establishes the eligibility date.[Footnote 3](#fnb3) MPCCs should provide OSFI with a reasonable opportunity to review the draft board resolution before sending the meeting materials to directors.
+
+* First special meeting of eligible mutual policyholders (the First Special Meeting)
+
+Eligible mutual policyholders[Footnote 4](#fnb4) must then vote on whether to negotiate, with the eligible non-mutual policyholders[Footnote 5](#fnb5), the method to allocate the value of the MPCC and whether persons, other than eligible mutual and non-mutual policyholders, should also receive benefits.[Footnote 6](#fnb6)
+
+* Notice of intent to negotiate
+
+Within 30 days of an affirmative vote at the First Special Meeting, the MPCC must request the Superintendent’s authorization to send to all eligible policyholders a notice of intent to negotiate.[Footnote 7](#fnb7) This notice must, among other items, set out the criteria for determining who qualifies as an eligible policyholder and include a summary of the conversion process. It must also indicate when and how additional information on this process will be made available.
+
+* Court application
+
+Within 30 to 45 days after the day on which the notice of intent to negotiate is sent, the MPCC must file an application to the court for an initial order. Among other things, the initial order sets out the parameters of the negotiation process.[Footnote 8](#fnb8) As a part of this process, the court appoints counsel[Footnote 9](#fnb9) to represent each class of eligible policyholders (i.e., mutual and non-mutual), and oversees the establishment of a policyholder committee for each class.
+
+* Policyholder committees
+
+Any eligible policyholder may apply to become a member of the policyholder committee for the class of policyholders to which they belong, subject to meeting certain criteria.[Footnote 10](#fnb10) This application must be submitted to counsel appointed for the class in question.
+
+The policyholder committees, with the assistance of their respective counsel, negotiate to establish the method of allocating the value of the MPCC and to determine whether any benefits will be provided to any persons or classes of persons other than eligible policyholders.[Footnote 11](#fnb11)
+
+The MPCC must provide to counsel for each class of policyholders any information or documents that they reasonably require to facilitate the negotiations.[Footnote 12](#fnb12)
+
+* Approval by policyholder committees
+
+The proposed method and, if applicable, list of persons or classes of persons – other than eligible policyholders – that will be entitled to benefits must be approved by at least two thirds of the members of each committee.[Footnote 13](#fnb13)
+
+Before the policyholder committees vote on these matters, the MPCC is expected to provide OSFI with a reasonable opportunity to review the proposed allocation method and opinions of the appointed actuary and of an independent actuary stating that it is fair and equitable.
+
+* Second special meeting of eligible mutual policyholders (the Second Special Meeting)
+
+Once the proposed method and list have been approved by the policyholder committees, the MPCC must apply for the Superintendent’s authorization to send to the eligible mutual policyholders a notice of the Second Special Meeting.[Footnote 14](#fnb14) The MPCC must, among other things, submit the conversion proposal[Footnote 15](#fnb15) to OSFI for review, as part of this application.
+
+At the Second Special Meeting, eligible mutual policyholders vote on whether to amend the by-laws to permit eligible non-mutual policyholders to vote on the conversion proposal and on the authorization to apply for letters patent of conversion (Letters Patent) from the Minister.[Footnote 16](#fnb16)
+
+* Special meeting of all eligible policyholders (the Third Special Meeting)
+
+Following an affirmative vote at the Second Special Meeting, the MPCC must obtain the Superintendent’s authorization[Footnote 17](#fnb17) to send a notice of the Third Special Meeting to all eligible policyholders. The purpose of the Third Special Meeting is to vote on the conversion proposal, to confirm any by-law amendments that are necessary to implement the conversion proposal and to authorize the making of an application to the Minister for Letters Patent.
+
+* Issuance of letters patent of conversion
+
+Within 30 days of an affirmative vote at the Third Special Meeting, the MPCC must notify all its policyholders of its intention to apply for Letters Patent.[Footnote 18](#fnb18) An application for Letters Patent is then submitted to OSFI, within three months of the date of the Third Special Meeting.[Footnote 19](#fnb19)
+
+The regulatory demutualization process is complete when the Minister issues the Letters Patent.
+
+### Approval Requirements
+
+The demutualization process contemplated in the ICA and the Regulations, and described in this Guide, involves four regulatory approvals and the issuance of Letters Patent:
+
+1. Superintendent’s approval, which must be sought within 30 days of an affirmative vote at the First Special Meeting, for the MPCC to send a notice of intent to negotiate to eligible policyholders;
+2. Superintendent’s approval for the MPCC to send a notice of the Second Special Meeting to eligible mutual policyholders to vote on whether to amend the MPCC’s by-laws to permit eligible non-mutual policyholders to vote on the conversion proposal and on the authorization to apply for Letters Patent;
+3. Superintendent’s approval for the MPCC to send a notice of the Third Special Meeting to all eligible policyholders to vote on the conversion proposal and on the authorization to apply for Letters Patent;
+4. Minister’s approval of the conversion proposal, which must be sought within three months of an affirmative vote at the Third Special Meeting; and
+5. Minister’s issuance of Letters Patent.
+
+The information that MPCCs are expected to provide in respect of each of the above is set out in Part II of this Guide.
+
+### Initial Discussion with OSFI
+
+Prior to seeking board approval to initiate the process, MPCCs are advised to contact OSFI’s Regulatory Affairs Division to schedule an initial discussion regarding their demutualization plans and OSFI’s expectations with respect to each of the approvals. This discussion also provides OSFI with an opportunity to identify apparent or potential regulatory, prudential or public policy issues.
+
+### General Expectations Throughout the Process
+
+OSFI expects the MPCC to ensure, at each step of the process, that a demutualization remains in the best interest of the MPCC and that the requirements and timelines outlined in the Regulations and this Guide are met.
+
+## PART II – Information Requirements
+
+### 1.1 Superintendent’s authorization for the MPCC to send the notice of intent to negotiate
+
+Pursuant to section 6 of the Regulations, within 30 days of an affirmative vote at the First Special Meeting, the MPCC must apply for the Superintendent’s authorization to send the notice of intent to negotiate to all eligible policyholders.
+
+In support of this application, the MPCC is expected to provide OSFI with:
+
+1. a copy of the board resolution recommending the demutualization;[Footnote 20](#fnb20)
+2. a copy of the special resolution of eligible mutual policyholders to negotiate with non-mutual policyholders; and
+3. a copy of the proposed notice of intent to negotiate, which must, in accordance with subsection 6(1) of the Regulations:
+   1. indicate that the eligible mutual policyholders passed a special resolution authorizing negotiations with the eligible non-mutual policyholders on the method of allocating the value of the MPCC and whether other persons or classes of persons should be entitled to benefits,
+   2. set out the criteria for determining who qualifies as an eligible mutual policyholder or eligible non-mutual policyholder[Footnote 21](#fnb21),
+   3. indicate when and how all necessary information relevant to the conversion process will be published on the MPCC’s website and how policyholders may request to receive that information by mail, and
+   4. contain a summary of the demutualization process.
+
+### 1.2 Superintendent’s authorization for the MPCC to send the notice of the Second Special Meeting to extend voting rights to eligible non-mutual policyholders
+
+Once the conversion proposal is completed[Footnote 22](#fnb22), the MPCC must, in accordance with section 14 of the Regulations, apply for the Superintendent’s authorization to send to the eligible mutual policyholders the notice of the Second Special Meeting to vote on whether to amend the by-laws to permit all eligible non-mutual policyholders to vote on the conversion proposal and on the making of an application to the Minister for Letters Patent.
+
+In considering whether to grant its authorization, the Superintendent will review the conversion proposal and all other information provided by the MPCC, from a prudential perspective and to ensure that they meet all legislative and regulatory requirements.
+
+In support of this application, the MPCC is expected to provide OSFI with:
+
+1. opinions of the MPCC’s appointed actuary and of an independent actuary stating that:
+   1. the benefits to be provided to eligible policyholders and the method of allocating the value of the MPCC are fair and equitable, and
+   2. the financial strength and viability of the MPCC and the security of policyholders will not be materially adversely affected by the conversion;
+2. an independent valuation opinion stating that the method used and assumptions made by the MPCC in estimating its value are appropriate and that the estimated value reasonably reflects prevailing market conditions as of the day it was estimated;
+3. if other benefits are to be provided in lieu of shares, an opinion prepared by an independent actuary or an independent valuation expert stating that the alternative benefits are appropriate substitutes for the shares as of the day the value of the MPCC was estimated;
+4. an independent financial market expert opinion stating that the measures that will be taken to assist those that will receive shares as a result of the conversion with the sale of those shares are likely to assist them to sell those shares on a public market and to address any potential imbalances that may arise between the volume of shares offered for sale by them and the volume of shares sought for purchase by public market participants;
+5. the special resolutions that will subsequently be proposed at the Third Special Meeting;
+6. if shares in the converted company will be issued to a holding corporation, a copy of the holding corporation’s existing or proposed incorporating instruments and by-laws;
+7. three year *pro forma* financial statements of the future converted company showing the effect of any significant transactions contemplated during the three year period following the conversion;
+8. the notice of special meeting and the following information and documents which will be sent with the notice of meeting[Footnote 23](#fnb23):
+   1. the form of proxy and any management proxy circular,
+   2. the proposed resolution to amend the by-laws to permit all eligible non-mutual policyholders to vote on the conversion,
+   3. a description of the steps that have been and will be taken in the conversion process,
+   4. a copy of the conversion proposal, which must, in accordance with section 13 of the Regulations, include:
+      1. a report setting out the value of the MPCC and a description of the method used and assumptions made in estimating that value,
+      2. the eligibility date,
+      3. the list of persons or classes of persons, other than eligible policyholders, that are entitled to benefits, if applicable,
+      4. a detailed description of the benefits to be provided to eligible policyholders and, if applicable, to other persons or classes of persons,
+      5. a detailed description of the method of allocating the value of the MPCC[Footnote 24](#fnb24),
+      6. a description of the mechanisms proposed to effect an initial issuance of shares, including a copy of the proposed by-law authorizing the issuance,
+      7. a description of the proposed activities of the holding company to which shares will be issued, as applicable,
+      8. a description of how and when any shares previously issued by the MPCC will be converted into common shares following the conversion, as applicable,
+      9. a description of the measures that will be taken to assist those that will receive shares as a result of the conversion, with the sale of those shares on a public market and to address any potential imbalances that may arise between the volume of shares offered for sale by them and the volume of shares sought for purchase by public market participants,
+      10. a description of how the measures referred to in item 9 would be affected if the converted company were to issue additional shares in the two years following the conversion,
+      11. a statement that the MPCC’s directors may terminate the conversion process at any time before the issuance of the Letters Patent,
+   5. the description of the conversion proposal that will be included in the notice of the Third Special Meeting,
+   6. a description of the advantages and disadvantages of the proposed conversion to the MPCC and its policyholders,
+   7. a description of the alternatives to conversion that the directors of the MPCC considered and the reasons why, in their opinion, the conversion is in the best interest of the MPCC and its policyholders,
+   8. a description of the form, amount and estimated market value or range of market values of the benefits to be provided as a result of the conversion to each eligible policyholder to whom the notice will be sent,
+   9. a description of any right of policyholders to vote after the conversion, as policyholders or shareholders of the converted company,
+   10. for each jurisdiction in which at least one per cent of all eligible policyholders reside, a description of the income tax treatment in respect of the benefits to be received by each policyholder in that jurisdiction,
+   11. summaries of the opinions referred to in items (a) to (d) and of the documents referred to in item (f) of this section,
+   12. the MPCC’s annual statement for the most recently completed financial year as well as the auditor’s and actuary’s reports for that year, as required by the ICA,
+   13. if the notice of the special meeting is to be sent more than 120 days after the end of the most recently completed financial year, financial statements[Footnote 25](#fnb25) for the portion of the current financial year ending prior to a day that is not more than 120 days before the day on which the notice is to be sent, as well as the auditor’s comfort letter in respect of those statements,
+   14. *pro forma* financial statements[Footnote 26](#fnb26) of the future converted company showing the effect of the conversion and any other significant transactions contemplated in relation to the conversion, including any proposed initial public offering of common shares, based on:
+       1. the annual statement for the most recently completed financial year, or
+       2. in the circumstances referred to in item (xiii) above, the financial statements for the portion of the current financial year referred to in that section,
+   15. the compilation report of the MPCC’s auditor, and a statement of reconciliation, in respect of the *pro forma* financial statements referred to in item (xiv),
+   16. a detailed description of any significant transaction contemplated in relation to the conversion,
+   17. a brief description of the business carried on by the MPCC and its subsidiaries, and the general development of that business, during the three years preceding a day that is not more than 120 days before the day on which the notice will be sent, and any future business foreseen as of that day,
+   18. a brief description of any substantial variations in the operating results of the MPCC during the three most recently completed financial years and, if the notice will be sent more than 120 days after the end of the most recently completed financial year, during the portion of the current financial year ending on a day that is not more than 120 days before the day on which the notice will be sent,
+   19. the names of all persons who have a significant interest in any class of shares of the MPCC or who, as a result of the conversion, will have a significant interest in any class of shares of the converted company, as well as a description of the type and number of shares held or to be held by those persons,
+   20. the name and address of the future converted company’s auditor,
+   21. the names and addresses of the proposed transfer agents and registrars,
+   22. the proposed location for the securities registers for the initial issuance of common shares,
+   23. a description of any sales by the MPCC, within the 12 months preceding a day that is not more than 120 days before the day on which the notice will be sent, of securities of the same type as those to be provided as benefits under the conversion proposal,
+   24. if the company is required under the laws of any jurisdiction in which it carries on business to file a prospectus in respect of its issuance of shares to eligible policyholders or other persons eligible to receive benefits, a copy of that prospectus,
+   25. a description of the restrictions set out in sections 23 and 24 of the Regulations as well as of any plans for the establishment of stock option or incentive plans for the persons referred to in sections 23 and 24 of the Regulations, after the period referred to in section 24 of the Regulations,
+   26. a description of any measures, including the establishment of toll-free lines and websites, the holding of information sessions, and the placement of advertisements in widely circulated publications, that the MPCC will take before holding the Third Special Meeting, to provide eligible policyholders with information about the proposed conversion and an opportunity to raise questions or concerns about the proposed conversion,
+   27. a description of the measures that the MPCC will take to encourage eligible policyholders to vote on the conversion proposal, in person or by proxy, and
+   28. an indication of the eligible policyholders’ right to appoint a proxyholder to attend and act at the special meeting on their behalf, that the MPCC will include in the notice of special meeting.
+
+### 1.3 Superintendent’s authorization for the MPCC to send the notice of the Third Special Meeting to vote on the conversion proposal
+
+After an affirmative vote at the Second Special Meeting, the MPCC must obtain the Superintendent’s authorization, in accordance with section 16 of the Regulations, to send the notice of the Third Special Meeting to all eligible policyholders
+
+In support of this application, the MPCC is expected to provide OSFI with:
+
+1. the number of eligible mutual and eligible non-mutual policyholders;
+2. if the notice is to be sent to eligible policyholders more than 120 days after the end of the MPCC’s most recently completed financial year, financial statements[Footnote 27](#fnb27) for the portion of the current financial year ending prior to a day that is not more than 120 days before the day on which the notice is sent, as well as the auditor’s comfort letter;
+3. the notice of special meeting and the form of proxy and any management proxy circular to be sent with the notice;
+4. a copy of the MPCC’s amended by-laws permitting all eligible non-mutual policyholders to vote on the proposal;
+5. the proposed special resolutions to approve the conversion proposal, confirm any by-law or by-law amendment necessary to implement the proposal, and to authorize the application for Letters Patent;
+6. evidence that all amounts determined by the court in relation to the negotiations between classes of policyholders have been paid by the MPCC; and
+7. a revised or updated version of any information or document submitted pursuant to section 1.2 of this Guide, if any revisions or updates are necessary.
+
+### 1.4 Minister’s approval of the conversion proposal and issuance of Letters Patent
+
+An application pursuant to subsection 237(1) of the ICA for the Minister’s approval of the conversion proposal and the issuance of Letters Patent must be made by the MPCC within three months after the proposal was approved by a special resolution of the eligible policyholders.[Footnote 28](#fnb28) This application is submitted to OSFI, and the Superintendent will make a recommendation to the Minister regarding the approval of the conversion proposal and the issuance of the Letters Patent.
+
+In support of this application, the MPCC is, in accordance with section 20 of the Regulations, expected to provide OSFI with:
+
+1. a copy of the notice that was sent to eligible policyholders in connection with the meeting to vote on the conversion proposal, in accordance with paragraph 237(1.2)(a) of the ICA, as well as the documents that were sent with that notice;
+2. the proposed letters patent of conversion and any by-laws, amendments to by-laws or repeals of by-laws that are necessary to implement the conversion proposal;
+3. the special resolutions adopted by the eligible policyholders at the Third Special Meeting, accompanied by a certificate issued by the MPCC indicating the results of the votes held in respect of those resolutions; and
+4. a revised or updated version of any information or document submitted pursuant to section 1.2 of this Guide, if any revisions or updates are necessary.
+
+## PART III - Administrative Guidance – Process and Approvals
+
+This Part provides additional guidance to MPCCs in respect of the demutualization process and related approvals.
+
+### 2.1 Eligible policyholders
+
+The Regulations define the concepts of “eligible mutual policyholder” and “eligible non-mutual policyholder”. Please refer to [OSFI Ruling 2015-01](/en/supervision/rulings/demutualization-property-casualty-companies-eligible-policyholders "Demutualization – Property and casualty companies – Eligible policyholders") for OSFI’s interpretation of certain elements of these definitions. OSFI expects MPCCs to determine eligibility in accordance with this Ruling.
+
+The MPCC’s board may, by resolution, qualify as “eligible non-mutual policyholders” certain holders of non-mutual policies issued by the MPCC, other than those referred to in paragraph (a) of the definition of “eligible non-mutual policyholder”. OSFI is of the view that such persons must, at a minimum, hold their non-mutual policies on the day of the First Special Meeting.
+
+Persons that, on the date of the board resolution, had applied for, but had not yet been issued, a mutual policy, may be eligible mutual policyholders so long as the policy is issued before the date of the First Special Meeting. In this regard, the board resolution that initiates the demutualization process must also set out the date by which any application for a mutual policy must have been submitted to the MPCC.
+
+### 2.2 Process for special meetings
+
+As described in this Guide, the demutualization process involves three special meetings. Subject to what is specified in the Regulations, the relevant provisions of Division I of Part VI of the ICA and of the  [Meeting and Proposals (Insurance Companies and Insurance Holding Companies) Regulations](http://laws.justice.gc.ca/eng/regulations/SOR-2006-316/index.html) apply in respect of the First Special Meeting and the Second Special Meeting. In this regard, the Regulations specify that all eligible mutual policyholders are entitled to vote at these meetings.
+
+Subject to what is specified in section 237 of the ICA and the Regulations, the relevant provisions of Division I of Part VI of the ICA and of the  [Meeting and Proposals (Insurance Companies and Insurance Holding Companies) Regulations](http://laws.justice.gc.ca/eng/regulations/SOR-2006-316/index.html) apply in respect of the Third Special Meeting. In this regard, section 237 of the ICA specifies that all eligible policyholders are entitled to vote at this meeting and sets out the notice requirements in respect of the meeting.
+
+### 2.3 Termination of process
+
+The directors of an MPCC may, by resolution, terminate the demutualization process at any time before the issuance of Letters Patent.[Footnote 29](#fnb29)
+
+The Regulations[Footnote 30](#fnb30) generally provide that the demutualization process is terminated if:
+
+1. the conversion proposal and actuarial opinions have not been submitted to OSFI within one year after the date on which the court appointed the members of the policyholder committees; or
+2. the notice of the Third Special Meeting is not sent to eligible policyholders within one year of receiving the Superintendent’s authorization to send such notice.
+
+If the demutualization process is terminated at any point and the MPCC subsequently decides to resume the process, each of the steps described in this Guide would need to be repeated, including establishing a new eligibility date.
+
+### 2.4 Transition to new structure
+
+Subject to the exceptions set out in section 25 of the Regulations, the converted company must remain widely-held[Footnote 31](#fnb31) for two years following the date of issuance of the Letters Patent.
+
+### 2.5 Conditions
+
+As a condition of any of the approvals referred to in sections 1.2 and 1.3 of this Guide, the Superintendent may require that the MPCC provide additional information to eligible policyholders or take certain measures to assist them in forming a reasoned judgment on any resolution submitted to them as part of the demutualization process.
+
+### 2.6 Method of Allocation of Value
+
+Subsection 12(2) of the Regulations contemplates, as part of the method of allocating the value of the MPCC, that fixed and/or variable amounts of benefits may be provided.
+
+Subsection 12(3) of the Regulations requires that the amount of variable benefits in respect of each eligible policyholder be calculated having regard to at least the following factors:
+
+1. their obligations, rights and benefits;
+2. the premiums paid by them;
+3. the length of time they have held a policy with the company; and
+4. the historical growth of the company’s surplus account.
+
+OSFI recognizes that the application of these factors could vary based on the circumstances of the MPCC[Footnote 32](#fnb32), including on the basis of the availability, quality and accuracy of data, as well as the cost of its retrieval and validation.
+
+Consideration should be given to any inter-relationship among the factors to avoid the risk of unintended overlaps in their application.
+
+The description of the method of allocating the value of the MPCC should include a detailed explanation of how these factors were considered and applied as well as how suitable data will be used to calculate the benefits of each policyholder.
+
+## PART IV – Administrative Guidance – Role of the Independent Actuary (IA) and the Appointed Actuary (AA)
+
+This part provides additional guidance in respect of the role of the IA retained for the purpose of demutualization, as well as the AA of the MPCC.
+
+### 3.1 Application of Guideline E-14
+
+Subject to what is specified in the Regulations and in this Guide, [OSFI Guideline E-14 – Role of the Independent Actuary](/en/guidance/guidance-library/role-independent-actuary "Role of the Independent Actuary") provides guidance in respect of the role of the IA in the context of the demutualization process, with appropriate modifications that the circumstances may require.
+
+### 3.2 Appointment of the IA
+
+Pursuant to the definition of “independent” in section 1 of the Regulations, the IA retained for the purpose of demutualization must be someone who:
+
+1. does not have a conflict of interest with the MPCC, any of its eligible policyholders or any persons or classes of persons who are to be provided with benefits as a result of a demutualization;
+2. is not a related party of the MPCC, as defined in section 518 of the ICA; and
+3. is appointed on mutual agreement of the MPCC and the two policyholder committees.
+
+OSFI also expects the IA to be someone who:
+
+4. has not performed work for the MPCC in the twelve month period preceding the appointment as IA, and
+5. is not a member of a firm that performed work for the MPCC in the twelve month period preceding the appointment of the IA, other than reasonable work that is directly related to the appointment of the IA (e.g., initial collection of relevant documents or data).
+
+With respect to item (a), OSFI would consider the IA as having a conflict of interest if, among other things, the person:
+
+* is an employee or policyholder of the MPCC; or
+* is a director or employee of any eligible policyholders or any persons or classes of persons who are to be provided with benefits as a result of a demutualization.
+
+### 3.3 IA and AA Opinions
+
+#### 3.3.1 Scope of Opinions
+
+Pursuant to paragraph 14(2)(b) of the Regulations, the IA’s and AA’s opinions must confirm that:
+
+1. the benefits to be provided to eligible policyholders and other persons or classes of persons, and the method of allocating the value of the MPCC, are fair and equitable to the eligible policyholders; and
+2. the financial strength and viability of the MPCC and the security of its policyholders with respect to the continuation of their policies will not be materially adversely affected by the demutualization.
+
+The IA and AA are expected to review and consider all relevant documents and information as necessary to provide an opinion on these points.
+
+When considering the fairness of the proposed method of allocating the value of the MPCC, the IA and AA are expected to take into account, among other things:
+
+* how the factors discussed in item 2.6 of this Guide were considered and applied in the establishment of the method; and
+* the challenges that the MPCC may face regarding the availability, quality and accuracy of data as well as the costs of overcoming these challenges.
+
+#### 3.3.2 Content of Opinions
+
+OSFI expects the IA’s and AA’s opinions to:
+
+1. state the elements on which an opinion is being provided;
+2. include all relevant facts to allow eligible policyholders to make an informed decision on the conversion proposal[Footnote 33](#fnb33), without having to refer to additional documents;
+3. explain the basis of the opinion; and
+4. explain the effect of the conversion proposal on the nature and value of any rights of policyholders to participate in future profits (e.g., shares or cash). In this regard, the IA and the AA should also consider whether obligations of policyholders will be extinguished (e.g., if premium notes will be cancelled).
+
+Unless the IA has also been retained to provide an opinion confirming that benefits to be provided in non-share form are appropriate substitutes for the shares[Footnote 34](#fnb34), the IA’s opinion should reference the independent valuation expert who will provide a separate opinion on this point.
+
+Any summary of the IA’s or the AA’s opinion that may be prepared should include a reference to the complete opinion.
+
+## Contact Details for Additional Information
+
+All enquiries regarding the demutualization of an MPCC should be directed to:
+
+Office of the Superintendent of Financial Institutions  
+Approvals  
+Regulatory Affairs Division  
+15th Floor, 255 Albert Street  
+Ottawa, Ontario, Canada, K1A 0H2  
+Website: [http://www.osfi-bsif.gc.ca/](/)  
+Email: [approvals-approbations@osfi-bsif.gc.ca](mailto:approvals-approbations@osfi-bsif.gc.ca)
+
+## Footnotes
+
+Footnote 1
+:   The  [Mutual Property and Casualty Insurance Company Having Only Mutual Policyholders Conversion Regulations](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2015-167/index.html) set out the framework governing the demutualization of federally regulated mutual property and casualty insurance companies that only have mutual policyholders.
+
+    [Return to footnote 1 referrer](#fnb1-ref)
+
+Footnote 2
+:   The ICA and the Regulations provide broad authority to the Minister and Superintendent to take into account all matters that they consider relevant in the circumstances related to the granting of any approval (e.g., s. 1016.1 of the ICA).
+
+    [Return to footnote 2 referrer](#fnb2-ref)
+
+Footnote 3
+:   Please see section 3 of the Regulations.
+
+    [Return to footnote 3 referrer](#fnb3-ref)
+
+Footnote 4
+:   Please see section 1 of the Regulations for the definition of “eligible mutual policyholder”.
+
+    [Return to footnote 4 referrer](#fnb4-ref)
+
+Footnote 5
+:   Please see section 1 of the Regulations for the definition of “eligible non-mutual policyholder”.
+
+    [Return to footnote 5 referrer](#fnb5-ref)
+
+Footnote 6
+:   Please see section 5 of the Regulations and section 2.1 of this Guide.
+
+    [Return to footnote 6 referrer](#fnb6-ref)
+
+Footnote 7
+:   Please see section 6 of the Regulations.
+
+    [Return to footnote 7 referrer](#fnb7-ref)
+
+Footnote 8
+:   Please see section 7 of the Regulations.
+
+    [Return to footnote 8 referrer](#fnb8-ref)
+
+Footnote 9
+:   Section 8 of the Regulations sets out the eligibility criteria and process with respect to the appointment of counsel.
+
+    [Return to footnote 9 referrer](#fnb9-ref)
+
+Footnote 10
+:   Section 9 of the Regulations sets out the eligibility criteria and process with respect to membership on a policyholder committee.
+
+    [Return to footnote 10 referrer](#fnb10-ref)
+
+Footnote 11
+:   Please see section 12 of the Regulations.
+
+    [Return to footnote 11 referrer](#fnb11-ref)
+
+Footnote 12
+:   Please see section 10 of the Regulations.
+
+    [Return to footnote 12 referrer](#fnb12-ref)
+
+Footnote 13
+:   Please see subsection 12(5) of the Regulations.
+
+    [Return to footnote 13 referrer](#fnb13-ref)
+
+Footnote 14
+:   Please see section 14 of the Regulations.
+
+    [Return to footnote 14 referrer](#fnb14-ref)
+
+Footnote 15
+:   Section 13 specifies the elements that must be included in the conversion proposal. The matters voted on by the policyholder committees form part of the conversion proposal, as well as a number of other elements that are provided by the MPCC (e.g., report on the value of the MPCC, description of the benefits to be provided, description of the initial share issuance).
+
+    [Return to footnote 15 referrer](#fnb15-ref)
+
+Footnote 16
+:   Please see section 14 of the Regulations.
+
+    [Return to footnote 16 referrer](#fnb16-ref)
+
+Footnote 17
+:   Please see section 16 of the Regulations.
+
+    [Return to footnote 17 referrer](#fnb17-ref)
+
+Footnote 18
+:   Please see section 18 of the Regulations.
+
+    [Return to footnote 18 referrer](#fnb18-ref)
+
+Footnote 19
+:   Please see section 19 of the Regulations.
+
+    [Return to footnote 19 referrer](#fnb19-ref)
+
+Footnote 20
+:   Section 3 of the Regulations specifies the elements that must be included in the board resolution.
+
+    [Return to footnote 20 referrer](#fnb20-ref)
+
+Footnote 21
+:   Please see section 2.1 of this Guide.
+
+    [Return to footnote 21 referrer](#fnb21-ref)
+
+Footnote 22
+:   Pursuant to subsection 14(5) of the Regulations, the conversion proposal and actuarial opinions must generally be submitted to OSFI no later than one year after the date on which the court appointed the member of the policyholder committees.
+
+    [Return to footnote 22 referrer](#fnb22-ref)
+
+Footnote 23
+:   Please see section 15 of the Regulations.
+
+    [Return to footnote 23 referrer](#fnb23-ref)
+
+Footnote 24
+:   Please see section 2.6 of this Guide.
+
+    [Return to footnote 24 referrer](#fnb24-ref)
+
+Footnote 25
+:   The financial statements must be prepared in accordance with generally accepted accounting principles and must be accompanied by a report of the MPCC’s chief financial officer stating that they have not been audited but have been prepared in accordance with generally accepted accounting principles.
+
+    [Return to footnote 25 referrer](#fnb25-ref)
+
+Footnote 26
+:   Please see footnote 25.
+
+    [Return to footnote 26 referrer](#fnb26-ref)
+
+Footnote 27
+:   Please see footnote 25.
+
+    [Return to footnote 27 referrer](#fnb27-ref)
+
+Footnote 28
+:   Please see section 19 of the Regulations.
+
+    [Return to footnote 28 referrer](#fnb28-ref)
+
+Footnote 29
+:   Please see subsection 21(1) of the Regulations.
+
+    [Return to footnote 29 referrer](#fnb29-ref)
+
+Footnote 30
+:   Please see subsection 21(2) of the Regulations.
+
+    [Return to footnote 30 referrer](#fnb30-ref)
+
+Footnote 31
+:   Please see subsection 2(4) of the ICA for the definition of the concept of widely-held.
+
+    [Return to footnote 31 referrer](#fnb31-ref)
+
+Footnote 32
+:   For example, the second factor could include premium rebates in some cases, but not in others.
+
+    [Return to footnote 32 referrer](#fnb32-ref)
+
+Footnote 33
+:   In this regard, confidential information should not be withheld if this might impair the ability of policyholders to make an informed decision.
+
+    [Return to footnote 33 referrer](#fnb33-ref)
+
+Footnote 34
+:   Please see paragraph 14(2)(d) of the Regulations.
+
+    [Return to footnote 34 referrer](#fnb34-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2022-11-18

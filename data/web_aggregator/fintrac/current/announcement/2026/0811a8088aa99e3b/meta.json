@@ -1,0 +1,24 @@
+{
+  "doc_id": "0811a8088aa99e3b",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "FINTRAC\u2019s Quarterly financial report for the quarter ended September 30, 2024",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/publications/qfr-rft/20240930-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:48701d249b668095a6099f6427f6a69c613ad94d8f1d491efc29cc48863e92bf",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/0811a8088aa99e3b",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,41 @@
+# State Agency Case Example (Insurance Fraud)
+
+[Issue22-story9.pdf](/system/files/case_example/Issue22-story9.pdf "Issue22-story9.pdf")
+(20.17 KB)
+
+In early 2012, FinCEN conducted outreach to all of its state and local law enforcement partners, and asked for cases where FinCEN data played a useful role in their investigations. Below, in their own words, is an example of how FinCEN's stakeholders use FinCEN data. It has been edited only for confidentiality and privacy concerns.The following example is from a state agency case. FinCEN maintains Memoranda of Understanding with some state agencies that have criminal investigative authority in matters such as taxes, revenues, and gambling. Typically, these agencies requested FinCEN data so frequently that they tended to overburden the state coordinators. Based on the agencies' mission and use of the data, FinCEN provides access to ensure that BSA material is used to its fullest extent.
+
+*"I am a crime intelligence analyst in the fraud division currently assisting my detective on a worker's compensation case that involves a check cashing company. We decided to look at the companies that have cashed the largest number of checks at this particular check cashing establishment. We wanted to see if in fact the amount of payroll cashed was equivalent to what was reported to the worker's compensation insurance carrier. After getting the worker's compensation coverage information, I realized that the company did not have any coverage in over 3 years. I was a bit disappointed because I was hoping the company was still in business and active in cashing checks, otherwise the case would not pan out to be much of anything.*
+
+*The decision to run a FinCEN report on the company was made, and lo and behold, CTRs for this particular company have been nonstop through and including those years they were not covered by worker's compensation insurance, including a recent transaction. Our investigation received a boost thanks to FinCEN."*
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* 22, October 2012]
+
+Tags
+
+Fraud
+
+Involving CTRs
+
+Money Services Businesses
+
+Insurance Companies
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

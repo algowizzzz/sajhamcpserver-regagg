@@ -1,0 +1,1 @@
+Summary: # Consultation: Draft Minimum Capital Test (MCT) Guideline (2026)

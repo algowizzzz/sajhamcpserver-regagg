@@ -1,0 +1,62 @@
+# Démutualisation des sociétés d’assurances
+
+Les sociétés d'assurances de personnes et les sociétés d'assurances multirisques sont réglementées à la fois par les gouvernements fédéral et provinciaux. Le gouvernement fédéral surveille les assureurs à propriété canadienne et les succursales de sociétés étrangères. De façon générale, les provinces réglementent la délivrance des permis et le marketing, tandis que le BSIF effectue des examens prudentiels pour déterminer la santé financière des institutions qu'il réglemente. La [Société d'indemnisation en matière d'assurances](http://www.pacicc.com/french/index.html) et la société [Assuris](http://www.assuris.com/) fournissent, en cas d'insolvabilité d'un assureur, une protection aux souscripteurs canadiens contre la perte de leurs prestations, et ce, jusqu'à concurrence de certains plafonds.
+
+Cette section de notre site Web renferme une vaste gamme de publications et de renseignements portant particulièrement sur les sociétés d'assurances canadiennes et étrangères. Vous trouverez des listes des sociétés d'assurances fédérales à la section [Entités réglementées](/fr/surveillance/entites-reglementees "Entités réglementées") du site Web.
+
+## Démutualisation de mutuelles d'assurances canadiennes
+
+Lorsqu'une mutuelle d'assurances canadienne décide de se transformer en sociétés par actions, la démarche qu'elle suit s'appelle démutualisation.
+
+### Mutuelles d'assurances multirisques
+
+Dans son budget de 2014, le gouvernement fédéral a annoncé qu'il consulterait les parties prenantes pour proposer un cadre réglementaire sur la démutualisation des mutuelles d'assurances multirisques fédérales. À la suite de consultations publiques, les règlements ci-dessous sont entrés en vigueur le 1er juillet 2015.
+
+* *Règlement sur la transformation de sociétés mutuelles d'assurances multirisques comptant uniquement des souscripteurs de polices mutuelles*
+* *Règlement sur la transformation de sociétés mutuelles d'assurances-multirisques comptant des souscripteurs de polices non mutuelles*
+
+Ce cadre réglementaire vise à fournir aux mutuelles d'assurances multirisques un processus de démutualisation structuré et transparent et à promouvoir le traitement juste et équitable des souscripteurs. Bien que ce soit le conseil d'administration d'une mutuelle d'assurances multirisques qui opte pour la démutualisation, le cadre réglementaire habilite les souscripteurs admissibles à approuver ou à refuser un tel projet de transformation.
+
+Comme le prévoit le cadre de démutualisation à l'intention des mutuelles d'assurance-vie fédérales, le BSIF participera activement à toute démutualisation d'une mutuelle d'assurances multirisques. En vertu du cadre réglementaire à l'intention des mutuelles d'assurances multirisques, le BSIF aura avant tout les rôles suivants :
+
+* Autoriser l'envoi d'avis de convocation aux souscripteurs qui ont le droit de vote aux diverses réunions du processus de démutualisation et approuver l'information accompagnant ces avis dans le but de s'assurer que les souscripteurs sont en mesure de prendre une décision éclairée et réfléchie sur la question mise aux voix.
+* Examiner l'information à l'appui du projet de démutualisation pour veiller à ce que soient respectées les exigences législatives et réglementaires et à ce que la mutuelle d'assurances multirisques demeure saine sur le plan financier et soit toujours en mesure de s'acquitter de ses obligations envers les souscripteurs et les autres créanciers à la suite de sa démutualisation.
+* Adresser au ministre des Finances une recommandation sur le projet de démutualisation de la mutuelle d'assurances multirisques et sa mise en œuvre, pour que le ministre puisse délivrer des lettres patentes de transformation.
+
+Veuillez consulter le Guide de démutualisation d’une société mutuelle d’assurances multirisques comptant des souscripteurs de polices non mutuelles du BSIF pour de plus amples renseignements sur le processus de démutualisation applicable aux sociétés mutuelles d’assurances multirisques qui comptent des souscripteurs de polices non mutuelles.
+
+Pour savoir si votre mutuelle d'assurances multirisques prévoit d'opter pour la démutualisation, veuillez communiquer directement avec elle.
+
+### Mutuelles d'assurance-vie
+
+La législation et la réglementation fédérales autorisent déjà les mutuelles d'assurance-vie canadiennes à se démutualiser.
+
+Quatre sociétés d'assurance-vie se sont prévalues déjà de la démutualisation :
+
+* [La Compagnie d'Assurance du Canada sur la Vie](http://www.canadalife.com/003/Accueil/index.htm)
+* [La Compagnie d'Assurance-Vie Manufacturers](http://www.manulife.com/public/home/index/0,,lang=fr,00.html)
+* [Sun Life du Canada, compagnie d'assurance-vie](http://www.sunlife.ca/Plan?vgnLocale=fr_CA)
+* [Clarica, compagnie d'assurance sur la vie](http://www.sunlife.ca/Plan?vgnLocale=fr_CA) (anciennement La Mutuelle du Canada, Compagnie d'Assurance sur la Vie)
+
+Chaque société a demandé à ses souscripteurs admissibles de voter sur un projet de transformation. Peu avant la date du vote, les souscripteurs ont reçu une trousse d'information décrivant en détail le projet de démutualisation de la société. Dès que les souscripteurs ont approuvé le projet et que les autorisations prévues par règlement ont été obtenues, les souscripteurs admissibles sont devenus des actionnaires de leur société d'assurance-vie. Les droits des souscripteurs à titre de clients n'ont pas changé (protection d'assurance, valeurs des polices, primes et dividendes prévus par les polices).
+
+Lorsqu'une société se démutualise, son compte de participation est restructuré. Toutes les polices à participation admissibles sont regroupées en bloc fermé dans le compte. Les activités du compte de participation restructuré sont régies par des règles d'exploitation décrites dans le guide d'information qui a été envoyé aux souscripteurs participants.
+
+* [Note d'orientation 2 : Exigences en matière d'états financiers dans le cadre de la démutualisation de sociétés mutuelles canadiennes (juin 1999)](/fr/consignes/repertoire-consignes/exigences-en-matiere-detats-financiers-dans-cadre-demutualisation-societes-mutuelles-canadiennes "Exigences en matiére d’états financiers dans le cadre de la démutualisation de sociétés mutuelles canadiennes")
+* [Note d'orientation 1 : Avis d'expert et rapport Démutualisation des sociétés canadiennes (mai 1999)](/fr/consignes/repertoire-consignes/avis-dexpert-rapport-demutualisation-societes-canadiennes "Avis d'expert et rapport Démutualisation des sociétés canadiennes")
+
+Pour plus de détails au sujet de la démutualisation de ces sociétés d'assurances, veuillez cliquer sur les hyperliens ci-dessus pour communiquer avec chaque société, ou adressez-vous au BSIF :
+
+* Ligne sans frais : 1-800-385-8647
+* Courriel : [information@osfi-bsif.gc.ca](mailto:information@osfi-bsif.gc.ca)
+
+## Liens utiles
+
+* [Règlement sur la transformation de sociétés mutuelles d'assurances multirisques comptant uniquement des souscripteurs de polices mutuelles](http://canadagazette.gc.ca/rp-pr/p2/2015/2015-07-01/html/sor-dors167-fra.php)
+* [Règlement sur la transformation de sociétés mutuelles d'assurances multirisques comptant des souscripteurs de polices non mutuelles](http://canadagazette.gc.ca/rp-pr/p2/2015/2015-07-01/html/sor-dors168-fra.php)
+* [Règlement sur la transformation de sociétés mutuelles (assurance-vie)](http://laws-lois.justice.gc.ca/fra/reglements/DORS-99-128/)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-02-09

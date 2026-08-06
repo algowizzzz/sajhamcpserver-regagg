@@ -1,0 +1,56 @@
+# Property and casualty (P&C) insurance return
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Insurance companies
+
+Return
+
+Property and casualty insurance return
+
+Return number
+
+PC1-PC2-PC3-PCPROV
+
+Accompanying documents
+
+* [2025 annual update to the manual of financial reporting forms and instructions for Property and Casualty Insurance Companies](/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-property-casualty-insurance)
+* [Development items and rationale since April 30, 2021](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/development-items-rationale-april-30-2021)
+
+## Instructions
+
+* [Section I – Introduction](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-insurance-return-section-introduction "Property and casualty insurance return – Section I – Introduction")
+* [Section II – Filing Requirements](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-insurance-return-section-ii-filing-requirements "Property and casualty insurance return – Section II – Filing Requirements")
+* [Section III – Definitions](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-insurance-return-section-iii-definitions "Property and casualty insurance return – Section III – Definitions")
+* [Section IV – Detailed Instructions](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-insurance-return-section-iv-detailed-instructions "Property and casualty insurance return – Section IV – Detailed Instructions")
+* [Section V – Jurisdictional Requirements](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-insurance-return-section-v-jurisdictional-requirements "Property and casualty insurance return – Section V – Jurisdictional Requirements")
+* [Section VI – Change Control Log](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-insurance-return-section-vi-change-control-log "Property and casualty insurance return – Section VI – Change Control Log")
+
+## Return files
+
+### Core financial returns (PC1)
+
+[PC1 - Q4 2024 Core financial return (clean) (XLSX, 100.03 KB)](/sites/default/files/documents/pc1-2024-en.xlsx "pc1-2024-en.xlsx") [PC1 - Q4 2024 Core financial return (tracked changes) (XLSX, 101 KB)](/sites/default/files/documents/pc1-2024-dft-en.xlsx "pc1-2024-dft-en.xlsx")  [PC1 – Q4 2024 Core financial quarterly return validation rules (XLSX, 164 KB)](/sites/default/files/documents/pc1-2024-q4-t4-validation-en.xlsx "pc1-2024-q4-t4-validation-en.xlsx")  [PC1 – Q4 2024 sample XML (XML, 151 KB)](/sites/default/files/documents/pc1-2024-q4-t4.xml "pc1-2024-q4-t4.xml")  [PC1 – Q4 2024 sample XSD (XSD, 904 KB)](/sites/default/files/documents/pc1-2024-q4-t4.xsd "pc1-2024-q4-t4.xsd")
+
+### Supervisory quarterly returns (PC2)
+
+[PC2 - Q4 2024 Supervisory quarterly return (clean) (XLSX, 236 KB)](/sites/default/files/documents/pc2-2024-en.xlsx "pc2-2024-en.xlsx") [PC2 - Q4 2024 Supervisory quarterly return (tracked changes) (XLSX, 239 KB)](/sites/default/files/documents/pc2-2024-dft-en.xlsx "pc2-2024-dft-en.xlsx") [PC2 – Q4 2024 Supervisory quarterly return validation rules (XLSX, 408 KB)](/sites/default/files/documents/pc2-2024-q4-t4-validation-en.xlsx "pc2-2024-q4-t4-validation-en.xlsx")  [PC2 – Q4 2024 sample XML (XML, 785 KB)](/sites/default/files/documents/pc2-2024-q4-t4.xml "pc2-2024-q4-t4.xml")  [PC2 – Q4 2024 sample XSD (XSD, 4.70 MB)](/sites/default/files/documents/pc2-2024-q4-t4.xsd "pc2-2024-q4-t4.xsd")
+
+### Supervisory annual returns (PC3)
+
+[PC3 - Q4 2024 Supervisory annual return (clean) (XLSX, 179 KB)](/sites/default/files/documents/pc3-2024-en.xlsx "pc3-2024-en.xlsx") [PC3 - Q4 2024 Supervisory annual return (tracked changes) (XLSX, 180 KB)](/sites/default/files/documents/pc3-2024-dft-en.xlsx "pc3-2024-dft-en.xlsx") [PC3 – Q4 2024 Supervisory quarterly return validation rules (XLSX, 95 KB)](/sites/default/files/documents/pc3-2024-q4-t4-validation-en.xlsx "pc3-2024-q4-t4-validation-en.xlsx")  [PC3 – Q4 2024 sample XML (XML, 283 KB)](/sites/default/files/documents/pc3-2024-q4-t4.xml "pc3-2024-q4-t4.xml")  [PC3 – Q4 2024 sample XSD (XSD, 1.67 MB)](/sites/default/files/documents/pc3-2024-q4-t4.xsd "pc3-2024-q4-t4.xsd")
+
+### Provincial returns (PCPROV)
+
+[PCPROV - Q4 2024 Provincial return (clean) (XLSX, 80.77 KB)](/sites/default/files/documents/pcprov-return-releve-2024-en.xlsx "pcprov-return-releve-2024-en.xlsx")[PCPROV - Q4 2024 Provincial return (tracked changes) (XLSX, 87 KB)](/sites/default/files/documents/pcprov-changes-mod-2024-en.xlsx "pcprov-changes-mod-2024-en.xlsx")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-09-05

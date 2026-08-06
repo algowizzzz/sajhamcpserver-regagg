@@ -1,0 +1,24 @@
+{
+  "doc_id": "3765c5f063f68ba1",
+  "regulator_id": "sec",
+  "doc_type": "announcement",
+  "title": "https://www.sec.gov/files/draft-strategic-plan-fy26-fy30.pdf",
+  "language": "en",
+  "source_url": "https://www.sec.gov/files/draft-strategic-plan-fy26-fy30.pdf",
+  "reference_number": null,
+  "published_date": "2026-06-02",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fe90209291d679c1ba75a061a6c285172b7c8577a382bdff6322acf5ca490406",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_sec_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/sec/current/announcement/2026/3765c5f063f68ba1",
+  "tags": [
+    "us",
+    "securities"
+  ]
+}

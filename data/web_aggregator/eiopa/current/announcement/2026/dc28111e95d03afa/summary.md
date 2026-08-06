@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published a framework for assessing conduct risk through the product lifecycle.

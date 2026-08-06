@@ -1,0 +1,24 @@
+{
+  "doc_id": "2b866de99e857933",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Russia-related sanctions and illicit finance FIU working group statement of intent",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/new-neuf/nr/2022-03-16-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3c2ddd84bff9271bb93a3bebc916c5d92a38b7261a1cda23430cb11acc952adf",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/2b866de99e857933",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14531",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 17a-4(b)(17)",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14531/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17a-4b17",
+  "reference_number": "2026-14531",
+  "published_date": "2026-07-20",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f0ded77450f73a13bdbb450404959124210c1a36ac6df54c0b65a7dd8cd448b0",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14531",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

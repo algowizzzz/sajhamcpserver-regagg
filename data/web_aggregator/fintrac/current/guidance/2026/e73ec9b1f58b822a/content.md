@@ -1,0 +1,1352 @@
+# Indicateurs de blanchiment d'argent et de financement du terrorisme - Casinos
+
+## Aperçu
+
+Les indicateurs de BA/FT sont des signaux d'alarme potentiels qui pourraient déclencher des soupçons ou indiquer que quelque chose peut être inhabituel en l'absence d'une explication raisonnable. Les signaux d'alarme proviennent généralement d'une ou de plusieurs caractéristiques factuelles, comportements, modèles ou autres facteurs contextuels qui révèlent des irrégularités liées aux opérations financières effectuées ou tentées. Celles-ci présentent souvent des incohérences avec ce que l'on attend de votre [client](/guidance-directives/glossary-glossaire/1-fra#client) en se basant sur ce que vous savez de lui.
+
+Les indicateurs de BA/FT dans la présente directive ont été établis par CANAFE au moyen d'un examen triennal des dossiers de BA/FT, d'un examen des DOD de grande qualité, de la documentation publiée par des organisations internationales comme le Groupe d'action financière (GAFI) et le Groupe Egmont, et de consultations avec les secteurs d'entités déclarantes. Ces indicateurs de BA/FT ne couvrent pas toutes les situations possibles, mais ont été établis pour vous fournir de l'information générale sur les opérations qui pourraient être inhabituelles ou douteuses. En soi, un seul indicateur de BA/FT peut ne pas paraître suspect. Toutefois, l'observation d'un indicateur de BA/FT pourrait vous amener à effectuer une évaluation de l'opération ou des opérations afin de déterminer s'il existe d'autres [faits](/guidance-directives/glossary-glossaire/1-fra#faits), éléments contextuels ou indicateurs de BA/FT qui aident à établir des motifs raisonnables de soupçonner la perpétration réelle ou tentée d'une infraction de BA ou de FT, lesquels nécessitent la soumission d'une DOD.
+
+Les organisations criminelles combinent souvent diverses méthodes de différentes façons afin d'éviter la détection du BA et du FT. Si vous décelez un comportement inhabituel ou suspect ou une opération qui nécessite une évaluation, les indicateurs de BA/FT combinés à des faits et au [contexte](/guidance-directives/glossary-glossaire/1-fra#contexte) peuvent vous aider à déterminer s'il existe **des motifs raisonnables de soupçonner** que l'opération est liée à la perpétration réelle ou tentée d'une infraction de BA ou de FT. Ces indicateurs de BA/FT peuvent également être utilisés pour expliquer ou justifier vos motifs raisonnables de soupçonner dans la partie narrative d'une DOD, car ils fournissent de l'information précieuse du point de vue du renseignement financier.
+
+En plus des indicateurs de BA/FT dans cette directive, on s’attend à ce que vous utilisiez l’[Évaluation nationale des risques](/businesses-entreprises/assessment-evaluation-fra) et la [directive sur l’évaluation des risques](/guidance-directives/compliance-conformite/rba/rba-fra) pour informer votre approche axée sur le risque (voir la directive connexe). Nous nous attendons également à ce que vous utilisiez le [renseignement stratégique](/intel/sintel-fra) de CANAFE, qui indique d’autres indicateurs, et les [directives](/guidance-directives/guidance-directives-fra#s0) pour identifier les tendances et typologies associées à des menaces et vulnérabilités précises.
+
+## À qui s'adresse cette directive
+
+* Casinos
+
+## Dans cette directive
+
+* [Indicateurs de BA/FT liés à la vérification de l'identité de la personne](#s1)
+* [Indicateurs de BA/FT liés au comportement du client](#s2)
+* [Indicateurs de BA/FT entourant les opérations financières par rapport au profil de la personne](#s3)
+* [Indicateurs de BA/FT liés aux produits et services](#s4)
+* [Indicateurs de BA/FT liés à la modification de l'activité des comptes](#s5)
+* [Indicateurs de BA/FT basés sur une activité transactionnelle atypique](#s6)
+* [Indicateurs de BA/FT liés à des opérations structurées sous les exigences de déclaration ou de vérification de l'identité.](#s7)
+* [Indicateurs de BA/FT concernant des télévirements](#s8)
+* [Indicateurs de BA/FT liés à des opérations concernant des territoires étrangers](#s9)
+* [Indicateurs de BA/FT liés à l'utilisation d'autres parties](#s10)
+* [Indicateurs de BA liés à la corruption](#s11-1)
+* [Indicateurs spécifiquement liés au FT](#s11)
+* [Indicateurs de BA/FT propres aux casinos](#s12)
+
+## Directives connexes
+
+* [Déclaration d'opérations douteuses à CANAFE](/guidance-directives/transaction-operation/str-dod/str-dod-fra)
+* [Déclaration de contournement soupçonné des sanctions](/guidance-directives/transaction-operation/sanctions/sanctions-fra)
+* [Déclaration de biens appartenant à une personne ou entité inscrite à CANAFE](/guidance-directives/transaction-operation/Guide5/5-fra)
+* [Évaluation des risques inhérents au recyclage des produits de la criminalité et au financement des activités terroristes au Canada](/businesses-entreprises/assessment-evaluation-fra)
+* [Exigences relatives au programme de conformité](/guidance-directives/compliance-conformite/Guide4/4-fra)
+* [Directive sur l'évaluation des risques](/guidance-directives/compliance-conformite/rba/rba-fra)
+* [Exigences en matière de contrôle continu](/guidance-directives/client-clientele/omr-fra)
+* [Directive sur les personnes politiquement vulnérables et les dirigeants d'une organisation internationale](/guidance-directives/client-clientele/pep/pep-fra)
+* [Manuel d'évaluation de CANAFE : L’approche et les méthodes utilisées lors d’examens](/guidance-directives/exam-examen/cam/cams-fra)
+
+## Considérations importantes
+
+### Une pièce du casse-tête
+
+Les indicateurs de BA/FT indiqués dans la présente directive ne constituent pas une liste exhaustive d'indicateurs de BA/FT à l'appui de tous les scénarios suspects. Ces indicateurs de BA/FT devraient être considérés comme des exemples pour guider l'élaboration de votre propre processus afin de déterminer si vous avez des motifs raisonnables de soupçonner que l'opération, effectuée ou tentée, est liée à la perpétration, réelle ou tentée, d'une infraction de BA ou de FT. Les indicateurs de BA/FT sont une pièce du casse‑tête et sont conçus pour compléter votre processus de DOD. Ils peuvent être utilisés conjointement avec d'autres indicateurs de BA/FT accessibles au public.
+
+Au cours d'une évaluation, CANAFE examinera vos politiques et procédures de conformité pour voir comment vous utilisez les indicateurs de BA/FT dans le cadre de votre processus de DOD. Une partie de l'évaluation consistera à évaluer si vos politiques en vigueur sont conformes à votre approche écrite et à déterminer son efficacité en ce qui concerne l'utilisation d'indicateurs de BA/FT. Cela peut comprendre un examen des opérations afin de déterminer comment votre processus de DOD permet de cerner des opérations douteuses potentielles et de les évaluer à l'aide de faits, du contexte et des indicateurs de BA/FT. Par exemple, on pourrait vous demander de fournir une explication si vous n'avez pas soumis une DOD pour un client que vous avez déterminé présentait un risque élevé et dont les activités correspondent également à plusieurs indicateurs de BA/FT.
+
+### Combinaison de faits, de contexte et d'indicateurs de BA/FT
+
+Si le contexte entourant une opération est suspect, cela pourrait vous amener à évaluer les opérations financières d'un client. Les faits, le contexte et les indicateurs de BA/FT doivent être évalués pour déterminer s'il existe des motifs raisonnables de soupçonner que l'opération est liée à la perpétration réelle ou tentée d'une infraction de BA/FT. En soi, une seule opération financière ou un seul indicateur de BA/FT peut ne pas sembler suspect. Cependant, cela ne signifie pas que vous devriez arrêter votre évaluation. D'autres faits ou informations de contextes au sujet du client ou de ses actions peuvent vous aider à atteindre le seuil des motifs raisonnables de soupçonner.
+
+### Système d'alerte ou de déclenchement
+
+CANAFE reconnaît qu'une entité déclarante peut avoir mis au point un système qui s'appuie sur des alertes particulières ou des événements déclencheurs pour signaler quand évaluer une opération afin de déterminer si une DOD devrait être soumise à CANAFE. Si vous utilisez un tel système, CANAFE s'attend à ce que vous examiniez les alertes en temps opportun afin de déterminer si une DOD devrait être soumise. Peu importe la façon dont vous choisissez d'appliquer ces indicateurs de BA/FT, CANAFE s'attend à ce que vous puissiez démontrer que vous disposez d'un processus efficace pour déterminer, évaluer et soumettre les DOD à CANAFE.
+
+## Indicateurs généraux de BA/FT
+
+Les indicateurs de BA/FT de la section suivante s'appliquent à la fois aux soupçons de BA et à ceux de FT. La capacité de détecter, de prévenir et de dissuader le BA et le FT commence par identifier correctement la personne ou de l'entité afin d'examiner et de signaler les activités financières douteuses.
+
+En tant que casino, vous pouvez observer ces indicateurs de BA/FT dans le cadre de vos activités d'affaires avec un client. Il est important de noter que, selon les activités de votre entreprise, certains de ces indicateurs de BA/FT peuvent ne pas s'appliquer.
+
+### Indicateurs de BA/FT liés à la vérification de l'identité de la personne
+
+Voici des exemples d'indicateurs de BA/FT que vous pouvez observer lorsque vous vérifiez l'identité des personnes.
+
+* Il n'est pas possible de correctement vérifier l'identité du client ou il y a des questions concernant l'identité du client.
+* Lors de l'ouverture d'un compte, le client refuse ou tente d'éviter de fournir les renseignements exigés, ou fournit des renseignements trompeurs, vagues ou difficiles à vérifier.
+* Les documents d'identification présentés par le client ne peuvent pas être authentifiés.
+* Il y a des incohérences dans les documents d'identification ou les différents éléments d'identification fournis par le client, comme le nom, l'adresse, la date de naissance ou le numéro de téléphone.
+* Le client produit des renseignements ou des pièces d'identité apparemment faux qui semblent être contrefaits, modifiés ou inexacts.
+* Le client semble utiliser des noms différents d'une opération à l'autre ou utilise des alias.
+* Le client modifie l'opération après s'être fait demander des documents d'identification.
+* Le client fournit seulement une adresse non civique ou déguise une boîte postale en adresse civique dans le but de dissimuler son adresse physique.
+* Des identifiants communs (p. ex., adresses, numéros de téléphone, etc.) sont utilisés par plusieurs clients qui ne semblent pas être liés.
+* Les opérations impliquent des personnes identifiées par les médias, les organismes d'application de la loi et/ou du renseignement comme étant liées à des activités criminelles.
+* Il est difficile de vérifier l'information fournie par un nouveau client ou un client potentiel.
+
+### Indicateurs de BA/FT liés au comportement des clients
+
+L'information contextuelle acquise par l'entremise des exigences relatives au besoin de [connaître son client](/guidance-directives/guidance-directives-fra#s2) ou en observant le comportement d'un client, particulièrement en ce qui a trait à une opération ou à un type inhabituel d'opération, peut vous amener à effectuer une évaluation afin de déterminer si vous êtes tenus de soumettre une DOD à CANAFE. Voici quelques exemples d'indicateurs de BA/FT qui sont liés au comportement contextuel et qui peuvent être utilisés conjointement avec votre évaluation et votre approche axée sur le risque.
+
+* Le client déclare avoir participé à des activités criminelles.
+* Le client effectue des opérations à différents endroits ou s'adresse à différents employés.
+* Preuve de fausseté de la part du client (p. ex., fournir des renseignements faux ou trompeurs).
+* Le client fait preuve d'un comportement nerveux.
+* Le client refuse de fournir des renseignements au besoin ou hésite à le faire.
+* Le client réagit de façon défensive face aux questions.
+* Le client présente des détails déroutants sur l'opération ou connaît peu de détails sur l'objet de l'opération.
+* Le client évite tout contact avec les employés de l'entité déclarante.
+* Le client refuse d'identifier la source des fonds ou fournit des renseignements faux, trompeurs ou substantiellement incorrects.
+* Le client pose des questions ou fait des déclarations indiquant qu'il tente d'éviter de déclarer ou tente de persuader l'entité déclarante de ne pas produire de déclaration ou conserver les documents exigés.
+* Une explication insuffisante de la source des fonds.
+* Le client ferme le compte après qu'un dépôt initial a été effectué sans explication raisonnable.
+
+### Indicateurs de BA/FT entourant les opérations financières par rapport au profil de la personne
+
+Comprendre clairement l'activité attendue d'une personne vous permettra d'évaluer son activité financière ou de jeux sous le bon angle. Par exemple, une personne qui effectue des opérations financières atypiques par rapport à son profil financier ou de joueur. Voici quelques exemples d'indicateurs de BA/FT entourant les opérations financières liées au profil de la personne.
+
+* L'activité transactionnelle (niveau ou volume) est incompatible avec la situation financière apparente du client, son modèle habituel d'activités ou sa profession (p. ex., étudiant, chômeur, aide sociale, etc.).
+* Le client semble vivre au-dessus de ses moyens.
+* Un mouvement important et/ou rapide de fonds qui ne correspond pas au profil financier du client.
+* Valeur ou type d'opération atypique de ce que l'on attend du client.
+* Ouverture de comptes alors que l'adresse du client ou l'adresse d'emploi se trouve à l'extérieur de la zone de service locale sans explication raisonnable.
+* Il y a un changement soudain dans le profil financier, un type d'activité inhabituel ou les opérations du client.
+* Le client utilise des billets de banque, des instruments monétaires ou des produits ou des services qui sont inhabituels pour un tel client.
+
+### Indicateurs de BA/FT liés aux produits et services
+
+Les comptes peuvent prendre différentes formes (p. ex., chèques, épargne, investissement, etc.) et, aux fins de la présente partie, les indicateurs de BA/FT ci-après viseront à aborder les risques de BA et de FT liés aux différents types de comptes détenus par diverses entités déclarantes au Canada. Il existe de nombreux indicateurs de BA/FT liés à l'activité des comptes. Votre processus d'évaluation des risques pour les comptes et tous les autres produits et services que vous fournissez devrait être documenté dans le cadre des exigences relatives au besoin de connaître son client et [l'évaluation des risques](/guidance-directives/compliance-conformite/rba/rba-fra). Les indicateurs de BA/FT suivants se concentreront sur les produits ou services qui peuvent s'appliquer à votre entreprise.
+
+* Un produit ou un service ouvert au nom d'une personne qui est incohérent d'après ce que vous savez de ce client.
+* L'utilisation de plusieurs comptes bancaires étrangers [sans raison apparente](/guidance-directives/glossary-glossaire/1-fra#sra).
+* Les opérations et les paiements par carte de crédit sont exceptionnellement élevés pour ce que l'on attend du client, y compris une utilisation excessive des avances de fonds, des demandes de transfert de solde ou des opérations concernant des articles de luxe.
+
+### Indicateurs de BA/FT liés à la modification de l'activité des comptes
+
+Certains changements concernant un compte peuvent être indicatifs du BA/FT pour une multitude de raisons, y compris, mais sans s'y limiter, l'utilisation d'un compte pour blanchir ou transmettre des fonds, une augmentation du nombre d'opérations, des changements de propriété d'un compte, etc. Les changements dans les activités d'un compte peuvent entraîner le besoin d'effectuer une évaluation plus approfondie de la personne qui détient le compte. Voici certains exemples pertinents :
+
+* Des activités financières sont observées dans un compte inactif.
+* Un changement brusque dans l'activité du compte.
+
+### Indicateurs de BA/FT basés sur une activité transactionnelle atypique
+
+Il y a certaines opérations qui ne cadrent pas avec l'exécution normale de vos activités quotidiennes. Ces opérations peuvent être indicatives d'une opération douteuse et nécessiteraient une évaluation supplémentaire. Quelques exemples d'indicateurs de BA/FT basés sur des activités transactionnelles atypiques sont énumérés ci-dessous.
+
+* Une série de transferts de fonds complexes qui semblent être une tentative de dissimuler la source et l'utilisation prévue des fonds.
+* Des opérations montrant des liens financiers entre des personnes qui ont précédemment soulevés des soupçons.
+* L'opération est inutilement complexe par rapport au but.
+* Le client présente des billets de banque ou des instruments financiers qui sont emballés, transportés ou enveloppés d'une façon peu commune.
+* L'opération est conforme à la tendance publiquement connue d'activité criminelle.
+* Le client présente des billets moisis, malodorants ou extrêmement sales.
+* Le client échange fréquemment des petites coupures contre des grosses.
+* Une tendance suspecte se dégage des opérations du client (p. ex., les opérations ont lieu au même moment de la journée).
+* La réception et la transmission atypique de télévirements, ou d'autres méthodes de transfert rapide de fonds, comme un dépôt en espèces suivi immédiatement de la transmission d'un virement télégraphique par un client.
+* Des fonds sont transférés dans et hors d'un compte le même jour ou dans un délai relativement court.
+
+### Indicateurs de BA/FT liés à des opérations structurées sous les exigences de déclaration ou de vérification de l'identité.
+
+Le fractionnement des opérations pour éviter les exigences de déclaration ou d'identification est une méthode couramment utilisée pour commettre ou tenter de commettre une infraction de BA ou de FT. Il existe de multiples seuils qui déclenchent les exigences de déclaration et de vérification de l'identité par une entité déclarante. Quelques exemples d'indicateurs de BA/FT qui peuvent indiquer qu'une personne tente de se soustraire aux seuils de vérification de l'identité ou de déclaration sont énumérés ci-dessous.
+
+* Le client semble fractionner les montants pour éviter la vérification de l'identité des clients ou les seuils de déclaration.
+* Le client semble collaborer avec d'autres pour éviter la vérification de l'identité des clients ou les seuils de déclaration.
+* Plusieurs opérations se chiffrant sous le seuil de déclaration sont effectuées dans un court laps de temps.
+* Le client pose des questions qui portent à croire qu'il veut éviter les exigences en matière de déclaration.
+* Le client effectue des opérations avec différents représentants dans une tentative apparente d'éviter la détection.
+* Le client démontre une connaissance des seuils de déclaration.
+
+### Indicateurs de BA/FT concernant les télévirements (y compris les transferts de fonds électroniques)
+
+Dans le contexte mondial actuel, il est de plus en plus facile de transférer rapidement des fonds à destination, en provenance ou par l'entremise de multiples administrations (municipales, nationales ou internationales). Cela présente un risque accru de BA et de FT, car les opérations effectuées par l'intermédiaire de plusieurs comptes et/ou administrations rendent la tâche plus difficile aux entités déclarantes et aux organismes d'application de la loi pour retracer les fonds illicites. Voici des exemples de ces types d'opérations qui peuvent nécessiter une évaluation plus poussée.
+
+* Des télévirements importants ou un volume élevé de télévirements sont effectués ou reçus par l'entremise du compte qui ne correspondent pas au modèle prévu de ce compte.
+* Le client utilise diverses méthodes de dépôt de télévirements et de montants de déboursement pour essayer de vérifier la vulnérabilité du système ou du compte.
+
+### Indicateurs de BA/FAT liés à des opérations concernant des territoires étrangers
+
+Il y a certains types d'opérations qui peuvent être envoyées ou reçues de territoires étrangers où le risque de BA et de FT est plus élevé en raison de lois plus permissives ou d'un contexte local propice au BA et au FT. Voici des exemples à prendre en considération lors de l'évaluation de l'opération financière effectuée par une personne par l'entremise de votre entreprise.
+
+* Des opérations avec des territoires étrangers reconnus comme étant des producteurs ou un lieu de transit de drogues ou de précurseurs chimiques, ou d'être à l'origine d'autres types de criminalité.
+* Des opérations avec des territoires étrangers présentant un risque plus élevé de BA et de FT.
+* Des opérations ou activités d'affaires concernant des lieux de préoccupation, ce qui peut inclure des territoires où il y a des conflits en cours (et des zones périphériques), des pays où les contrôles du BA et du FT sont faibles, ou des pays qui possèdent des pratiques bancaires et de droit commercial très secret comme des limites de transferts établies par un gouvernement.
+* Des opérations concernant des pays considérés à haut risque ou non coopératifs par le GAFI.
+* Le client effectue fréquemment des transferts à l'étranger, ce qui ne correspond pas à son profil financier.
+
+En raison de la nature en constante évolution de l'environnement du BA et du FT, les pays et les tendances à risque élevé sont souvent susceptibles de changer. Pour s'assurer que vous fournissez des renseignements exacts, CANAFE vous encourage à faire régulièrement des recherches dans des sources publiques pour appuyer ces indicateurs de BA/FT dans le cadre de votre processus de DOD. Il existe de multiples sources qui identifient les pays sources de préoccupation, y compris le GAFI qui publie des renseignements contextuels sur les pays à risque élevé en ce qui a trait au BA/FT. Vous pouvez également observer des fonds en provenance ou à destination de pays dont les médias rapportent qu'il s'agit d'endroits où des terroristes opèrent ou commettent des attentats et où les terroristes ont une large base de soutien (états ou citoyens privés qui appuient le terrorisme). L'identification des pays à risque élevé ou des tendances connues peut également faire partie de votre approche axée sur le risque et de votre processus interne de DOD.
+
+### Indicateurs de BA/FT liés à l'utilisation de tiers
+
+Les opérations qui concernent des parties qui ne sont généralement pas associées à une opération peuvent présenter un risque élevé de BA et/ou de FT. Ces autres parties peuvent être utilisées pour permettre à un criminel d'éviter d'être identifié ou d'être lié à un actif ou à un compte. Cette section présente des exemples de la façon dont la participation d'autres parties peut être révélatrice de la structure d'une entreprise criminelle.
+
+#### Utilisation de tiers
+
+Un tiers est une personne ou une entité qui demande à quelqu'un d'agir en son nom dans le cadre d'une activité ou d'une opération financière. Il y a des situations où il y a une justification apparente et discernable pour l'inclusion du tiers dans une opération et cela peut ne pas être suspect. Cependant, vous pouvez avoir des soupçons dans une situation où la raison pour laquelle une personne ou une entité agit au nom d'une autre personne ou entité n'apparaît pas logique d'après ce que vous savez du client ou du tiers. Le recours à des tiers est l'une des méthodes que les blanchisseurs d'argent et les financiers d'activités terroristes utilisent pour se distancier des produits de la criminalité ou de la source des fonds criminellement obtenus. En faisant appel à d'autres parties pour effectuer des opérations, ils peuvent se distancier des opérations qui peuvent être directement liées à l'infraction présumée de BA ou de FT. Vous trouverez ci‑dessous quelques exemples d'indicateurs de BA/FT liés à l'utilisation de tiers.
+
+* De multiples dépôts sont effectués dans un compte par des personnes qui ne sont pas titulaires du compte.
+* Le client effectue une opération alors qu'il est accompagné, supervisé ou dirigé par une autre partie.
+* Le client effectue de nombreux paiements à des parties non liées peu de temps après avoir reçu des fonds.
+* Des télévirements, des dépôts ou des paiements à destination ou en provenance de parties non liées (étrangères ou nationales).
+* Le client semble ou affirme agir au nom d'une autre partie.
+* Le compte est lié à des parties apparemment sans lien entre elles.
+
+## Indicateurs de BA liés à la corruption
+
+La corruption représente un risque important pour l’intégrité des systèmes financiers et de l’économie mondiale. Lorsque les entités déclarantes évaluent si un client présente un risque de blanchiment des produits de la corruption, elles doivent :
+
+* examiner si l’environnement ou le secteur dans lequel le client mène ses activités présente un risque plus élevé d’exposition à la corruption
+* déterminer si le client est [un national politiquement vulnérable](/guidance-directives/glossary-glossaire/1-fra#npv), [un étranger politiquement vulnérable](/guidance-directives/glossary-glossaire/1-fra#epv) ou [le dirigeant d’une organisation internationale](/guidance-directives/glossary-glossaire/1-fra#doi)
+
+### Territoires présentant un risque élevé de corruption
+
+Un client mène ses activités dans des territoires identifiés comme présentant un risque élevé de corruption ou est lié à des entreprises qui mènent leurs activités dans ces territoires. Ces territoires peuvent inclure ceux qui :
+
+* obtiennent un score faible dans [l’indice de perception de la corruption de Transparency International](https://www.transparency.org/en/cpi/2024)
+* présentent des lacunes connues dans leurs régimes de lutte contre le blanchiment d’argent ou le financement des activités terroristes, y compris les pays identifiés par le Groupe d’action financière sont connus pour leur secret bancaire, qui peut obscurcir les opérations financières et les structures de propriété.
+
+### Secteurs présentant un risque élevé de corruption
+
+Un client mène ses activités dans un secteur présentant un risque élevé de corruption, en particulier ceux qui nécessitent des autorisations ou des licences gouvernementales. Voici quelques exemples de secteurs présentant des risques élevés de corruption :
+
+* Travaux publics et construction
+* Pétrole et gaz
+* Exploitation minière
+
+### National politiquement vulnérable ou étranger politiquement vulnérable
+
+Un client est un étranger politiquement vulnérable qui mène ses activités dans un territoire présentant un risque élevé où il est chargé d’octroyer des autorisations, des licences ou des contrats à des entreprises.
+
+Un client est un membre de la famille d’un étranger politiquement vulnérable ou d’une personne étroitement associée à un étranger politiquement vulnérable.
+
+Un client effectue des opérations de grande valeur avec des nationaux politiquement vulnérables ou des étrangers politiquement vulnérables, y compris des membres de leur famille ou des personnes étroitement associées à ces personnes. Ces opérations peuvent représenter des tentatives visant à influencer la prise de décisions, de dissimuler des produits illicites ou de procurer des avantages indus.
+
+### Indicateurs d’opérations liées à la corruption étrangère
+
+La corruption étrangère implique souvent l’abus de fonctions ou d’autorité publiques à des fins personnelles, et est fréquemment facilitée par des opérations financières destinées à dissimuler l’origine, les mouvements ou la propriété de fonds illicites. Ces opérations peuvent mettre en cause des nationaux politiquement vulnérables ou des étrangers politiquement vulnérables, ou des entités qui mènent leurs activités dans des environnements ou des secteurs à risque élevé. Il est essentiel d’identifier ces opérations afin de détecter et d’atténuer les risques de blanchiment des produits dérivés d’activités de corruption.
+
+Les indicateurs suivants peuvent aider les entités déclarantes à reconnaître les opérations douteuses qui pourraient être liées à la corruption étrangère :
+
+#### Contrats gouvernementaux opaques à long terme
+
+Des opérations impliquant des contrats gouvernementaux à long terme qui peuvent avoir été attribués à une entité juridique ou à plusieurs entités juridiques ayant des [bénéficiaires effectifs](/guidance-directives/glossary-glossaire/1-fra#be) similaires, au terme d’un processus de sélection opaque.
+
+#### Services fournis à des entités appartenant à l’État dans des territoires présentant un risque élevé de corruption
+
+Des opérations impliquant des services fournis à des entreprises appartenant à l’État ou à des institutions publiques par des sociétés enregistrées dans des [territoires présentant un risque élevé de corruption](#z1).
+
+#### Activités gouvernementales menées par le biais de comptes personnels
+
+Des opérations impliquant des activités gouvernementales menées par le biais de comptes personnels, ce qui peut indiquer une tentative de détournement ou d’utilisation abusive de fonds publics.
+
+#### Participation d’entités indépendantes, d’intermédiaires ou d’experts-conseils
+
+Des opérations mettant en jeu des entités, des intermédiaires, ou des experts-conseils qui :
+
+* n’ont pas participé au projet connexe
+* ne seraient pas typiquement impliqués dans l’industrie ou le secteur d’activité du client
+
+#### Paiements de grande valeur dans des territoires à risque élevé
+
+Un client effectue des paiements de grande valeur pour des services, tels que des honoraires de consultation, dans des [territoires identifiés comme présentant un risque élevé de corruption](#z1).
+
+#### Paiements de commission sur des comptes bancaires à l’étranger
+
+Un client effectue des paiements de commissions sur des comptes bancaires à l’étranger, en particulier lorsque ces comptes sont situés dans des territoires où les contrôles en matière de lutte contre le blanchiment d’argent et le financement des activités terroristes sont faibles ou assujettis à des lois sur le secret bancaire.
+
+#### Opérations avec des entités opaques ou nouvellement établies
+
+Un client effectue des opérations avec des entités nouvellement établies, opaques ou non identifiées. Cela inclut les entités enregistrées à l’adresse d’un fournisseur de services d’une société à l’étranger, en particulier lorsqu’il n’y a pas de relation commerciale apparente entre le client et l’entité.
+
+#### Fonds acheminés par des intermédiaires dans des pays sans lien apparent
+
+Les fonds transitent par des intermédiaires dans des pays tiers ou par l’entremise de pays avec lesquels le client ne semble pas avoir de liens commerciaux ou personnels légitimes.
+
+#### Utilisation d’adresses électroniques fictives et de fausses factures
+
+Les opérations renferment des adresses électroniques fictives ou de fausses factures utilisées pour justifier des paiements, en particulier dans le cadre d’opérations internationales.
+
+#### Utilisation de tiers ou d’entités juridiques pour dissimuler la propriété
+
+Un client utilise des intermédiaires, des facilitateurs professionnels ou des structures juridiques complexes pour dissimuler l’origine ou la propriété des fonds. Par exemple, le client peut utiliser de telles structures pour dissimuler l’achat ou la vente d’un bien immobilier.
+
+#### Opérations comportant des documents vagues ou frauduleux
+
+ Un client effectue des opérations qui comportent :
+
+* des détails de paiement vagues ou incomplets
+* des documents frauduleux utilisés pour justifier le transfert de fonds
+
+## Indicateurs liés aux nationaux politiquement vulnérables et aux étrangers politiquement vulnérables
+
+Les nationaux politiquement vulnérables et les étrangers politiquement vulnérables sont des personnes qui, en raison de leur position importante ou de leur influence, peuvent présenter un risque plus élevé de participation dans des actes de corruption, de pots-de-vin ou d’autres activités financières illicites. Ces risques sont accrus lorsque ces personnes utilisent leur autorité ou leurs relations pour accéder aux systèmes financiers à des fins personnelles, souvent au moyen de stratagèmes complexes visant à dissimuler l’origine, les mouvements ou la propriété de fonds illicites.
+
+Les indicateurs suivants peuvent aider les entités déclarantes à identifier les comportements douteux ou les opérations douteuses impliquant des nationaux politiquement vulnérables et des étrangers politiquement vulnérables qui justifient un examen plus approfondi ou une déclaration :
+
+#### Augmentation inexpliquée de la valeur nette
+
+La valeur nette d’un client qui est un national politiquement vulnérable ou un étranger politiquement vulnérable augmente considérablement, mais ne peut pas être raisonnablement expliquée par ses revenus déclarés, ses actifs ou ses sources légitimes de richesse.
+
+#### Liens avec des étrangers politiquement vulnérables
+
+Un client emploie ou entretient des relations d’affaires avec un étranger politiquement vulnérable, ou avec des membres de sa famille ou des personnes étroitement associées à un étranger politiquement vulnérable.
+
+#### Paiements pour les frais de voyage et d’hébergement d’un national politiquement vulnérable ou d’un étranger politiquement vulnérable
+
+Les paiements sont effectués pour les frais de déplacement et d’hébergement de nationaux politiquement vulnérables ou d’étrangers politiquement vulnérables, ou des membres de leur famille, ce qui peut constituer un indicateur de tentatives visant à obtenir des faveurs ou à procurer des avantages indus.
+
+#### Opérations portant sur des actifs de grande valeur
+
+Des opérations mettant en cause des nationaux politiquement vulnérables ou des étrangers politiquement vulnérables liées à l’acquisition d’actifs de grande valeur, tels que des biens immobiliers, des véhicules de luxe ou d’autres produits de luxe, qui :
+
+* sont incompatibles avec la source de richesse déclarée par le client
+* ne correspondent pas au mode de vie habituel ou aux habitudes de la personne
+
+#### Propriété d’entités ayant peu ou pas d’objet commercial
+
+Un client qui est un national politiquement vulnérable ou un étranger politiquement vulnérable possède ou contrôle une entité juridique, en particulier une entité située à l’étranger, qui semble ne servir que peu ou pas de fins commerciales légitimes.
+
+#### Actifs détenus au nom d’entités juridiques intermédiaires
+
+Les actifs sont détenus au nom d’entités juridiques dont les bénéficiaires effectifs sont liés à un national politiquement vulnérable ou à un étranger politiquement vulnérable, à des membres de leur famille ou à des personnes étroitement associées à ces personnes.
+
+#### Utilisation de plusieurs comptes bancaires sans justification commerciale
+
+Un client qui est un national politiquement vulnérable ou un étranger politiquement vulnérable détient plusieurs comptes bancaires, en particulier lorsqu’il n’y a aucune raison commerciale ou légitime apparente de le faire.
+
+#### Tendances d’opérations douteuses qui ne correspondent pas au profil du client
+
+Des opérations mettant en cause des nationaux politiquement vulnérables ou des étrangers politiquement vulnérables qui s’écartent considérablement du profil financier attendu de la personne. Voici quelques exemples :
+
+* Plusieurs dépôts en espèces dans leur compte.
+* Plusieurs télévirements provenant de différents expéditeurs dans un court laps de temps.
+* Situations où la personne politiquement vulnérable est à la fois le client demandeur et le bénéficiaire des télévirements.
+
+## Indicateurs de FT
+
+Au Canada, une infraction de FT qui consiste à réunir ou à fournir sciemment des biens, incluant des services financiers ou d'autres services connexes, constitue un acte criminel. La présente section examine des exemples propres à la perpétration possible d'une infraction de FT. Toutefois, veuillez noter que les autres indicateurs de BA/FT peuvent également s'avérer pertinents pour déterminer quand vous avez des motifs raisonnables de soupçonner la perpétration de FT, car les méthodes utilisées par les criminels pour échapper à la détection du BA sont similaires.
+
+### Indicateurs spécifiquement liés au FT
+
+Les indicateurs ci-dessous sont des exemples d'indicateurs de FT.
+
+* Les opérations concernant certains territoires à risque élevé tels que des lieux situés au milieu ou à proximité d'un conflit armé où opèrent des groupes terroristes ou des lieux qui sont soumis à des contrôles plus faibles en matière de BA/FT.
+* Le client a été identifié par les médias ou les forces de l'ordre comme ayant voyagé, tenté ou eu l'intention de se rendre dans des territoires à risque élevé (y compris des villes ou des districts à risque), en particulier dans des pays (et des pays avoisinants) en situation de conflit ou d'instabilité politique ou reconnus pour appuyer des activités et des organisations terroristes.
+* Les opérations concernent des personnes ou des entités identifiées par les médias ou des listes de sanctions comme étant liées à une organisation terroriste ou à des activités terroristes.
+* Les renseignements fournis par les services d'application de la loi identifient des personnes ou des entités potentiellement liées à une organisation terroriste ou à des activités terroristes.
+* La présence en ligne d'une personne ou d'une entité souligne son appui d'un extrémisme violent ou de la radicalisation.
+* Le client a fait un don à une cause qui fait l'objet de renseignements dérogatoires accessibles au public (p. ex., initiative de financement participatif, organisme de bienfaisance, organisations à but non lucratif, organismes non-gouvernementaux, etc.).
+
+## Indicateurs de BA/FT propres aux casinos
+
+En plus des indicateurs de BA/FT généraux qui ont été soulignés dans la présente directive, il peut y avoir des indicateurs de BA/FT plus spécifique liés vos activités de casino. Vous trouverez ci-dessous certains exemples d'indicateurs de BA/FT propre à votre secteur dont vous devriez tenir compte dans le cadre de votre processus de DOD.
+
+* Des opérations de 3 000 $ ou plus sont effectuées dans un casino, où un particulier se fait payer en chèques du casino libellés à l'ordre d'un tiers ou sur lesquels ne figure pas le nom du bénéficiaire.
+* Le client demande que ses gains lui soient payés au moyen d'un chèque libellé au nom d'un tiers.
+* Des personnes qui se connaissent parient l'une contre l'autre dans le cadre de jeux où les chances de gagner sont égales et il vous semble que l'une d'elles perd délibérément au profit de l'autre.
+* Le client tente d'éviter qu'une déclaration relative aux espèces ne soit faite à son égard en fractionnant l'opération.
+* Le client demande des chèques qui n'ont rien à voir avec ses gains.
+* Le client demande à propos d'ouvrir un compte auprès du casino afin de pouvoir virer des fonds ailleurs, mais ce n'est pas un client régulier, fréquent ou qui a l'habitude de jouer gros.
+* Le client achète comptant d'importantes quantités de jetons, fait des mises minimales puis encaisse les jetons en échange d'un chèque du casino; ainsi, le client fait des mises minimales dans le but de créer l'illusion qu'il a joué gros.
+* Le client met de l'argent dans une ou des machines à sous et demande que cette accumulation lui soit versée à titre de gains.
+* Le client échange de petites coupures pour des coupures plus grosses, des bons d'achat de jetons ou des chèques.
+* C'est un fait connu que le client utilise des noms multiples.
+* Le client demande que ses gains soient virés dans le compte bancaire d'une autre partie, dans un pays connu comme source de drogues illicites ou encore dans un pays dont où il n'y a pas de système efficace de lutte contre le BA.
+
+## Aide
+
+Si vous avez des questions au sujet de vos obligations en matière de déclaration d'opérations douteuses, veuillez communiquer avec CANAFE par courriel à [guidelines-lignesdirectrices@fintrac-canafe.gc.ca](mailto:guidelines-lignesdirectrices@fintrac-canafe.gc.ca).
+
+## Définitions
+
+à jour
+:   S'agissant d'un document ou d'une source de renseignements utilisé pour vérifier l'identité, qui est actualisé, et, dans le cas d'un document d'identité avec photo délivré par un gouvernement, qui n'est pas expiré au moment de la vérification de l'identité. (current)
+
+accord de relation commerciale
+:   Entente conclue entre une entreprise de services monétaires (ESM) et une autre organisation en vertu de laquelle l'ESM doit fournir à l'organisation l'un des services d'ESM suivants de façon continue :
+
+    * des transferts de fonds;
+    * des opérations de change;
+    * des émissions ou rachats de mandats-poste, de chèques de voyage ou d’autres titres semblables;
+    * des services de commerce de monnaie virtuelle ;
+    * des services de sociofinancement;
+    * des services de véhicules blindés.
+
+    (service agreement)
+
+acquéreur
+:   Entité qui connecte un guichet automatique privé à un réseau de cartes de paiement, au sens de l’article 3 de la Loi sur les réseaux de cartes de paiement, pour faciliter les transactions. (acquirer)
+
+    Référence:  
+    Loi sur les réseaux de cartes de paiement.
+
+action d’achèvement
+:   S’agissant d’une opération pouvant faire l’objet d’une déclaration, les informations relatives aux instructions fournies par la personne ou l’entité qui demande à l’entité déclarante d’effectuer une opération. Par exemple, une personne se présente à une banque et demande d’acheter une traite bancaire. L’action d’achèvement correspond aux informations détaillées sur la manière dont l’entité déclarante a exécuté les instructions de la personne ou de l’entité qui ont mené à l’achèvement de l’opération. Cela inclut l’utilisation des fonds ou de la monnaie virtuelle initialement apportés à l’entité déclarante (voir « répartition de fonds »). Une opération peut comporter une ou plusieurs actions d’achèvement en fonction des instructions fournies par la personne ou l’entité. (completing action)
+
+action d’amorce
+:   S’agissant d’une opération pouvant faire l’objet d’une déclaration, les informations relatives aux instructions fournies par la personne ou l’entité qui demande à l’entité déclarante d’amorcer une opération. Par exemple, une personne se présente à une banque et demande d’acheter une traite bancaire. L’action d’amorce correspond aux instructions relatives à l’achat, y compris les fonds ou la monnaie virtuelle que le demandeur (la personne ou l’entité) a apportés à l’entité déclarante. Une opération doit avoir au moins une action d’amorce. (starting action)
+
+activité terroriste
+:   S'entend au sens du paragraphe 83.01(1) du [Code criminel](https://laws-lois.justice.gc.ca/fra/lois/C-46/). (terrorist activity)
+
+    Référence:  
+    La Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi), L.C. 2000, ch. 17, par. 2(1).
+
+administrateur hypothécaire
+:   Personne ou entité, autre qu’une entité financière, qui se livre à la gestion administrative de contrats de prêts hypothécaires sur immeubles ou biens réels pour le compte d’un prêteur. (mortgage administrator)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+affactureur
+:   Personne ou entité qui se livre à l’affacturage, que ce soit avec ou sans recours contre le cédant. (factor)
+
+    Référence:  
+    Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (DORS/2002-184), par. 1(2)
+
+agent de conformité
+:   Personne à qui vous confiez la responsabilité de mettre en œuvre votre programme de conformité et à qui ont été délégués les pouvoirs nécessaires. (compliance officer)
+
+agent général de gestion (AGG)
+:   Tout représentant d'assurance-vie qui agit à titre de facilitateur entre d'autres représentants d'assurance-vie et sociétés d'assurance-vie. Les AGG offrent généralement des services qui aident à passer des marchés avec des représentants d'assurance et au versement de commissions, ils facilitent le flux d'information entre l'assureur et le représentant, offrent une formation aux représentants d'assurance et assurent une surveillance de la conformité de ceux-ci. (Managing general agents)
+
+amorcer
+:   S'entend, à l'égard d'un télévirement, du fait de transmettre pour la première fois les instructions pour le transfert des fonds. (initiation)
+
+    Référence:  
+    Le Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement), DORS/2002-184, par. 1(2).
+
+assurance titre
+:   Assurance contre la perte ou le dommage résultant, selon le cas :
+
+    1. de l’existence d’une charge, d’une hypothèque, d’une servitude, d’un privilège ou de toute autre restriction sur un bien immeuble;
+    2. de l’existence d’une charge, d’une hypothèque, d’un privilège, d’un nantissement ou de toute autre restriction sur un bien meuble;
+    3. d’un vice entachant la validité d’un document attestant la création d’une restriction visée aux alinéas a) ou b);
+    4. d’un vice entachant la validité d’un titre de propriété;
+    5. de toute autre situation qui influe sur le titre de propriété ou le droit d’utilisation et de jouissance des biens.
+
+    (title insurance)
+
+    Référence:  
+    [Loi sur les sociétés d’assurances](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/TexteComplet.html).
+
+assureur de titres
+:   Personne ou entité dont l’activité consiste à offrir de l’assurance de la branche titres au sens de l’annexe de la Loi sur les sociétés d’assurances. (title insurer)
+
+    Référence:  
+    Le Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement), DORS/2002-184, par. 1(2).
+
+aussitôt que possible
+:   Une période de temps qui s'insère entre immédiatement et le plus rapidement possible à l'intérieur de laquelle une déclaration d'opérations douteuses (DOD) doit être transmise à CANAFE. Remplir et transmettre la déclaration doit avoir la priorité sur les autres tâches. Dans ce contexte, la déclaration doit être remplie rapidement, en tenant compte des faits et des circonstances de la situation. Bien qu'un certain délai soit permis, il doit y avoir une explication raisonnable. (as soon as practicable)
+
+authentique
+:   Aux fins de la vérification de l'identité, qui est conforme à un document ou à un relevé original, crédible et fiable et qui en comporte les caractéristiques. (authentic)
+
+autorité compétente
+:   Aux fins de la vérification du casier judiciaire présentée avec une demande d'inscription, toute personne ou organisation à qui l'on a délégué légalement l'autorité, la capacité ou le pouvoir de délivrer des attestations de vérification du casier judiciaire ou qui en est investie. (competent authority)
+
+banque fictive
+:   S'entend de l'institution financière étrangère qui, à la fois :
+
+    1. (a) ne tient pas d'établissement commercial :
+       1. (i) d'une part, ayant dans un pays où elle est autorisée à exercer des activités bancaires une adresse fixe à laquelle elle a à son emploi au moins un employé à temps plein et tient des relevés d'opérations se rapportant à ses activités bancaires,
+       2. (ii) d'autre part, faisant l'objet d'inspections par l'organisme de réglementation qui a accordé le permis d'exercer des activités bancaires;
+    2. (b) n'est pas sous le contrôle d'une institution de dépôts, d'une caisse de crédit ou d'une institution financière étrangère ayant un tel établissement commercial au Canada ou dans un pays étranger ou sous contrôle commun avec une telle entité.
+
+    (shell bank)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(1).
+
+bénéficiaire
+:   Personne ou entité qui tirera avantage de l'opération ou qui sera le destinataire des fonds. (beneficiary)
+
+bénéficiaire effectif
+:   Personne qui est un fiduciaire ou un bénéficiaire ou constituant connu d’une fiducie, un fiduciaire ou une personne qui détient ou contrôle, directement ou indirectement, au moins 25 % des unités d’une fiducie à participation multiple ou cotée en bourse, ou qui détient ou contrôle, directement ou indirectement, au moins 25 % d’une personne morale ou d’une entité autre qu’une personne morale, par exemple une société de personnes. Le bénéficiaire effectif ultime ne peut pas être une autre entité, y compris une personne morale. Il doit s’agir des véritables personnes qui détiennent ou contrôlent l’entité. (beneficial owner)
+
+bijou
+:   Objet fait d'or, d'argent, de palladium, de platine, de perles ou de pierres précieuses et destiné à être porté comme parure personnelle. (jewellery)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+cabinet d'expertise comptable
+:   Entité qui exploite une entreprise qui fournit des services d'expertise comptable au public et qui compte au moins un comptable parmi ses associés, ses employés ou ses gestionnaires. (accounting firm)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+cadre dirigeant
+:   S'entend, à l'égard d'une entité :
+
+    1. (a) de l'administrateur de cette entité qui en est l'employé à temps plein;
+    2. (b) du premier dirigeant, du directeur de l'exploitation, du président, du secrétaire, du trésorier, du contrôleur, du directeur financier, du comptable en chef, du vérificateur en chef ou de l'actuaire en chef, ou de la personne exerçant l'une ou l'autre de ces fonctions;
+    3. (c) soit un autre dirigeant relevant directement du conseil d'administration, du premier dirigeant ou du directeur de l'exploitation de l'entité.
+
+    (senior officer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+casino
+:   Gouvernement, organisme, conseil ou exploitant visé à l'un ou l'autre des alinéas 5k) à k.3) de la Loi. (Casino)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par 1(2) et le Règlement sur la déclaration des opérations douteuses — recyclage des produits de la criminalité et financement des activités terroristes (le Règlement sur la DOD), DORS/2001-317, par. 1(2).
+
+centrale de caisses de crédit
+:   Coopérative de crédit centrale, au sens de l'article 2 de la [Loi sur les associations coopératives de crédit](https://laws-lois.justice.gc.ca/fra/lois/C-41.01/), ou centrale de caisses de crédit ou fédération de caisses de crédit ou de caisses populaires régie par une loi provinciale autre qu'une loi édictée par la législature du Québec. (credit union central)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+client
+:   Toute personne ou entité qui se livre à une opération financière avec une autre personne ou entité. (client)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+comptable
+:   Comptable agréé, comptable général licencié, comptable en management accrédité ou, le cas échéant, comptable professionnel agréé. (accountant)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+compte de produit de paiement prépayé
+:   S'entend du compte — à l'exception de celui auquel seul un organisme public ou, s'il le fait à des fins d'aide humanitaire, un organisme de bienfaisance enregistré, au sens du paragraphe 248(1) de la Loi de l'impôt sur le revenu, peut verser des fonds ou de la monnaie virtuelle —, lié à un produit de paiement prépayé, qui permet :
+
+    1. (a) de verser au compte des fonds ou de la monnaie virtuelle totalisant 1 000 $ ou plus au cours d'une période de vingt-quatre heures;
+    2. (b) de maintenir un solde de 1 000 $ ou plus en fonds ou en monnaie virtuelle.
+
+    (prepaid payment product account)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+constituant
+:   Personne ou entité qui établit une fiducie constatée par un écrit de déclaration de fiducie. Le constituant s'assure de confier à un fiduciaire la responsabilité juridique de la fiducie et voit à ce que ce dernier obtienne un acte de fiducie qui explique la façon dont la fiducie sera utilisée au profit des bénéficiaires. Un constituant s'entend de toute personne ou entité qui contribue financièrement à la fiducie, que ce soit directement ou indirectement. (settlor)
+
+contexte
+:   Texte comportant des précisions sur un ensemble de circonstances ou des explications sur une situation ou une opération financière à des fins de compréhension et d'évaluation. (context)
+
+coopérative de services financiers
+:   Coopérative de services financiers régie par la Loi sur les coopératives de services financiers, RLRQ, ch. C-67.3 autre qu’une caisse populaire. (financial services cooperative)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+courtier en valeurs mobilières
+:   Personne ou entité visée à l'alinéa 5g) de la Loi. (securities dealer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+courtier hypothécaire
+:   Personne ou entité autorisée, au titre de la législation provinciale, à agir en qualité d’intermédiaire entre un prêteur et un emprunteur à l’égard de prêts garantis par hypothèques sur immeubles ou biens réels. (mortgage broker)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+courtier ou agent immobilier
+:   Personne ou entité autorisée, au titre de la législation provinciale, à agir en qualité de mandataire pour des acheteurs ou des vendeurs à l'égard de l'achat ou de la vente d'immeubles ou biens réels. (real estate broker or sales representative)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+demande de précisions
+:   Méthode utilisée par CANAFE pour communiquer avec une entreprise de services monétaires (ESM) ou une entreprise de services monétaires étrangère (ESME) lorsqu'il a besoin d'autres renseignements relatifs au formulaire d'inscription. En règle générale, la demande est envoyée par courriel. (clarification request)
+
+destinataire
+:   S'agissant d'un télévirement, la personne ou entité qui reçoit les instructions et qui effectuera la remise au bénéficiaire. (final receipt)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+devise
+:   Monnaie fiduciaire émise par un pays étranger. (foreign currency)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+dirigeant d'une organisation internationale
+:   Personne qui, à un moment donné, occupe — ou a occupé au cours d'une période antérieure prévue par règlement — le poste ou la charge de dirigeant:
+
+    1. a) d'une organisation internationale créée par les gouvernements de divers États;
+    2. b) d'une institution d'une organisation visée à l'alinéa a);
+    3. c) d'une organisation sportive internationale.
+
+    (head of an international organization)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 9.3(3).
+
+diriger des services
+:   Une entreprise dirige des services vers des personnes ou des entités au Canada si au moins une des conditions suivantes s'applique :
+
+    * le marketing ou la publicité de l'entreprise cible des personnes ou à des entités situées au Canada;
+    * l'entreprise exploite un nom de domaine « .ca »;
+    * l'entreprise est inscrite dans un registre des entreprises canadiennes.
+
+    D'autres critères peuvent être pris en compte, par exemple si l'entreprise décrit ses services offerts au Canada ou si elle cherche activement à obtenir de la rétroaction de personnes ou d'entités au Canada. (directing services )
+
+dossier de renseignements
+:   Dossier où sont consignés les nom et adresse d'une personne ou entité ainsi que les renseignements suivants :
+
+    1. (a) s'il s'agit d'une personne, sa date de naissance et la nature de son entreprise principale ou sa profession;
+    2. (b) s'il s'agit d'une entité, la nature de son entreprise principale.
+
+    (information record)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+entité
+:   Personne morale, fiducie, société de personnes ou fonds, ou organisation ou association non dotée de la personnalité morale. (entity)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+entité de financement ou de bail
+:   Personne ou entité qui se livre à l’octroi de financement ou de baux à l’égard :
+
+    1. (a) de biens qui ne sont pas des immeubles ou des biens réels, à des fins commerciales;
+    2. (b) de véhicules de tourisme au Canada;
+    3. (c) de biens qui ne sont pas des immeubles ou des biens réels, dont la valeur est égale ou supérieure à 100 000 $.
+
+    (financial or leasing entity)
+
+    Référence:  
+    Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (DORS/2002-184), par. 1(2)
+
+entité du même groupe
+:   Sont du même groupe les entités dont l'une est entièrement propriétaire de l'autre, celles qui sont entièrement la propriété de la même entité ou celles dont les états financiers sont consolidés. (affiliate)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 4.
+
+entité financière
+:   S'entends :
+
+    1. (a) de l'entité visée à l'un ou l'autre des alinéas 5a), b) et d) à f) de la Loi;
+    2. (b) de la coopérative de services financiers;
+    3. (c) de la société d'assurance-vie, ou de l'entité qui est un représentant d'assurance-vie, à l'égard des prêts ou des produits de paiement prépayés qu'elle offre au public et des comptes qu'elle tient à l'égard de ces prêts ou de ces produits de paiement prépayés, à l'exclusion :
+       1. (i) des prêts consentis par l'assureur au titulaire d'une police, si la personne assurée a une maladie en phase terminale qui réduit considérablement son espérance de vie et que le prêt est garanti par la valeur d'une police d'assurance,
+       2. (ii) des prêts consentis par l'assureur au titulaire d'une police dans le seul but de financer la police d'assurance-vie,
+       3. (iii) des avances consenties par l'assureur au titulaire d'une police auxquelles ce dernier a droit;
+    4. (d) de la centrale de caisses de crédit, lorsqu'elle offre des services financiers à une entité qui n'est pas l'un de ses membres, ou à une personne;
+    5. (e) du ministère ou de l'entité qui est un mandataire de Sa Majesté du chef du Canada ou d'une province, lorsqu'il exerce une activité visée à l'article 76.
+
+    (financial entity)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+entreprise d'acquisition de cartes de crédit
+:   Entité financière qui a conclu une entente avec un marchand afin de fournir les services suivants :
+
+    * permettre au marchand d'accepter les paiements par carte de crédit des titulaires pour des biens et services, et de recevoir les paiements pour les achats par carte de crédit;
+    * assurer les services de traitement et de règlement des paiements et fournir l'équipement nécessaire aux points de vente (par exemple les terminaux d'ordinateur);
+    * fournir au marchand d'autres services connexes.
+
+    (credit card acquiring business)
+
+entreprise d’encaissement de chèques
+:   Personne ou entité qui offre à ses clients d’encaisser des chèques en échange de fonds.
+    (cheque casher)
+
+entreprise de services monétaires
+:   Les personnes et entités qui ont un établissement au Canada et qui se livrent à la fourniture de l'un des services suivants :
+
+    1. (i) les opérations de change,
+    2. (ii) la remise de fonds ou la transmission de fonds par tout moyen ou par l'intermédiaire d'une personne, d'une entité ou d'un réseau de télévirement,
+    3. (iii) l'émission ou le rachat de mandats-poste, de chèques de voyage ou d'autres titres négociables semblables, à l'exclusion des chèques libellés au nom d'une personne ou d'une entité,
+    4. (iv) le commerce de monnaie virtuelle,
+    5. (v) tout service prévu par règlement.
+
+    (money services business)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 5(h), le Règlement sur l'inscription — recyclage des produits de la criminalité et financement des activités terroristes (le Règlement sur l'inscription), DORS/2007-121, art. 1 et Le Règlement, DORS/2002-184, par. 1(2).
+
+entreprise de services monétaires étrangère
+:   Les personnes et entités qui n'ont pas d'établissement au Canada et qui se livrent à la fourniture, à l'intention de personnes ou entités se trouvant au Canada, de l'un des services ci-après et qui les fournissent à leurs clients se trouvant au Canada :
+
+    1. (i) les opérations de change,
+    2. (ii) la remise de fonds ou la transmission de fonds par tout moyen ou par l'intermédiaire d'une personne, d'une entité ou d'un réseau de télévirement,
+    3. (iii) l'émission ou le rachat de mandats-poste, de chèques de voyage ou d'autres titres négociables semblables, à l'exclusion des chèques libellés au nom d'une personne ou d'une entité,
+    4. (iv) le commerce de monnaie virtuelle,
+    5. (v) tout service prévu par règlement.
+
+    (foreign money services business)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 5(h.1), le Règlement sur l'inscription, DORS/2007-121 art. 1 et Le Règlement, DORS/2002-184, par. 1(2).
+
+espèces
+:   Les pièces de monnaie visées à l'article 7 de la Loi sur la monnaie, les billets émis par la Banque du Canada en vertu de la Loi sur la Banque du Canada qui sont destinés à la circulation au Canada ou les pièces ou billets de banque de pays autres que le Canada. (cash)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2) et le Règlement sur l'inscription, DORS/2007-121, par. 1(2).
+
+État étranger
+:   Sauf pour l'application de la partie 2 de la Loi, pays autre que le Canada; est assimilé à un État étranger toute subdivision politique ou tout territoire de celui-ci. (foreign state)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+étranger politiquement vulnérable
+:   Personne qui occupe ou a occupé l'une des charges ci-après au sein d'un État étranger ou pour son compte :
+
+    1. (a) chef d'État ou chef de gouvernement;
+    2. (b) membre du conseil exécutif de gouvernement ou membre d'une assemblée législative;
+    3. (c) sous-ministre ou titulaire d'une charge de rang équivalent;
+    4. (d) ambassadeur, ou attaché ou conseiller d'un ambassadeur;
+    5. (e) officier ayant le rang de général ou un rang supérieur;
+    6. (f) dirigeant d'une société d'État ou d'une banque d'État;
+    7. (g) chef d'un organisme gouvernemental;
+    8. (h) juge de la cour suprême, de la cour constitutionnelle ou d'une autre cour de dernier ressort;
+    9. (i) chef ou président d'un parti politique représenté au sein d'une assemblée législative;
+    10. (j) titulaire d'un poste ou d'une charge visés par règlement.
+
+    (politically exposed foreign person)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 9.3(3).
+
+évaluation des risques
+:   L'examen des risques potentiels de blanchiment d'argent et de financement du terrorisme (BA/FT) auxquels est exposé une entreprise et leur documentation afin d'aider l'entreprise à établir des politiques, des procédures et des contrôles pour détecter et atténuer ces risques et leur incidence. (risk assessment)
+
+examen bisannuel de l'efficacité
+:   Examen effectué au moins tous les deux ans par un vérificateur interne ou externe visant à évaluer l'efficacité de vos politiques et procédures, de votre évaluation des risques et de votre programme de formation. (two year effectiveness review)
+
+faits
+:   Événement, action, circonstance connue ou élément qui existe ou qui a existé, ou qui est survenu à un moment donné. La présente définition exclut les opinions. Par exemple, les faits concernant une ou plusieurs opérations financières peuvent comprendre la date, l'heure, l'emplacement, ou le montant de l'opération, le type d'opération, les détails d'un compte, ainsi que le secteur d'activité ou l'historique des données financières du client. (facts)
+
+fiable
+:   S'agissant de renseignements utilisés pour vérifier l'identité, s'entend d'une source bien connue, de bonne réputation et que vous considérez digne de confiance pour vérifier l'identité d'un client. (reliable)
+
+fiche d'opération de change en devise
+:   Document constatant une opération de change à l'égard d'une devise, y compris son inscription dans un registre des opérations, et où sont consignés les renseignements suivants :
+
+    1. (a) la date de l'opération;
+    2. (b) dans le cas d'une opération de 3 000 $ ou plus, les nom et adresse de la personne ou entité qui demande l'opération de change, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    3. (c) les type et montant de chaque monnaie fiduciaire en cause dans le paiement fait et reçu par la personne ou entité qui a demandé l'opération de change;
+    4. (d) la manière dont le paiement est effectué et reçu;
+    5. (e) les taux de change utilisés et leur source;
+    6. (f) le numéro de chaque compte touché par l'opération, le type de compte et le nom de chaque titulaire du compte;
+    7. (g) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte.
+
+    (foreign currency exchange transaction ticket)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+fiche d'opération de change en monnaie virtuelle
+:   Document constatant une opération de change à l'égard d'une monnaie virtuelle, y compris son inscription dans un registre des opérations, et où sont consignés les renseignements suivants :
+
+    1. (a) la date de l'opération;
+    2. (b) dans le cas d'une opération de 1 000 $ ou plus, les nom et adresse de la personne ou entité qui demande l'opération de change, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    3. (c) les types de fonds et de monnaies virtuelles en cause dans le paiement fait et reçu par la personne ou entité qui a demandé l'opération de change;
+    4. (d) la manière dont le paiement est effectué et reçu;
+    5. (e) les taux de change utilisés et leur source;
+    6. (f) le numéro de chaque compte touché par l'opération, le type de compte et le nom de chaque titulaire du compte;
+    7. (g) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte;
+    8. (h) les identifiants de l'opération, y compris l'adresse d'envoi et l'adresse de réception.
+
+    (virtual currency exchange transaction ticket)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+fiche-signature
+:   S'entend, à l'égard d'un compte, du document signé par une personne habilitée à donner des instructions à l'égard du compte ou des données électroniques constituant la signature d'une telle personne. (signature card)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+fiduciaire
+:   Personne ou entité autorisée à détenir ou à administrer les biens d'une fiducie. (trustee)
+
+fiducie entre vifs
+:   Fiducie personnelle, autre qu'une fiducie constituée par testament. (inter vivos trust)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+fiducie institutionnelle
+:   Aux fins de l'article 15 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement), s'entend de la fiducie constituée par une personne morale ou une autre entité à des fins commerciales données, y compris le régime de retraite constitué en fiducie, la fiducie principale regroupant l'actif de plusieurs régimes de retraite, la fiducie de régime de retraite complémentaire, la fiducie de fonds commun de placement, la fiducie de fonds mis en commun, le régime enregistré d'épargne-retraite constitué en fiducie, la fiducie de fonds enregistré de revenu de retraite, la fiducie de régime enregistré d'épargne-études, le régime enregistré d'épargne-retraite collectif constitué en fiducie, la fiducie de régime de participation différée aux bénéfices, la fiducie de régime de participation des employés aux bénéfices, la fiducie de convention de retraite, la fiducie de régime d'épargne des employés, la fiducie de santé et de bien-être, la fiducie de régime de prestations de chômage, la fiducie d'actif de compagnies d'assurance étrangères, la fiducie d'actif de compagnies de réassurance étrangères, la fiducie de réassurances, la fiducie de placements immobiliers, la fiducie environnementale ainsi que la fiducie relative à des fonds de dotation, de fondations et d'organismes de bienfaisance enregistrés. (institutional trust)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 15(2).
+
+fiducie
+:   Droit de propriété détenu par une personne ou une entité (le fiduciaire) pour le compte d'une autre personne ou entité (le bénéficiaire). (trust)
+
+fonds
+:   S'entend :
+
+    1. (a) d'espèces et d'autres monnaies fiduciaires et de valeurs mobilières, de titres négociables ou d'autres instruments financiers, qui font foi du titre, d'un intérêt ou d'un droit à l'égard de ceux-ci;
+    2. (b) de la clé privé d'un système de chiffrement permettant à une personne ou entité d'avoir accès à une monnaie fiduciaire autre que des espèces.
+
+    Il est entendu que la présente définition exclut la monnaie virtuelle. (funds)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2) et le Règlement sur l'inscription, DORS/2007-121, s. 1(2).
+
+fonds enregistré de revenu de retraite
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (registered retirement income fund)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+Groupe d'action financière
+:   S'entend du Groupe d'action financière sur le blanchiment de capitaux créé en 1989. (Financial Action Task Force)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+groupe terroriste
+:   Au sens du paragraphe [83.01(1)](https://lois-laws.justice.gc.ca/fra/lois/C-46/page-8.html#docCont) du Code criminel, un **groupe terroriste** est défini comme étant :
+
+    * soit une entité dont l’un des objets ou l’une des activités est de se livrer à des activités terroristes ou de les faciliter;
+    * soit une **entité inscrite**;
+    * est assimilé à un groupe terroriste un groupe ou une association formé de groupes terroristes au sens de la présente définition.
+
+    Consultez la liste suivante des entités terroristes inscrites dans le Code criminel sur le site Web de Sécurité publique Canada :
+
+    * [Entités inscrites actuellement](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-fr.aspx)
+
+    (terrorist group)
+
+guichet automatique privé
+:   Guichet automatique qui n’est ni détenu ni exploité par une banque, au sens de l’article 2 de la Loi sur les banques, une association régie par la Loi sur les associations coopératives de crédit ou une coopérative de crédit, une caisse d’épargne et de crédit ou une caisse populaire régie par une loi provinciale. (private automated banking machine)
+
+immédiatement
+:   Aux fins de la soumission d’une déclaration de biens appartenant à une personne ou entité inscrite, s’entend de la période à l’intérieur de laquelle une déclaration doit être transmise, laquelle doit se faire sans tarder.(immediately)
+
+indicateurs de blanchiment d'argent et de financement des activités terroristes (indicateurs de BA/FAT)
+:   Signes d'alerte éventuels qui peuvent susciter des soupçons ou indiquer que quelque chose ne tourne pas rond, sans explication raisonnable. (Money laundering and terrorist financing indicators [ML/TF indicators])
+
+infraction de contournement des sanctions
+:   Une infraction qui découle d’un geste qui contrevient à une restriction ou à une interdiction établie par un décret ou un règlement pris en vertu de la Loi sur les Nations Unies, de la Loi sur les mesures économiques spéciales ou de la Loi sur la justice pour les victimes de dirigeants étrangers corrompus (loi de Sergueï Magnitski). (sanctions evasion offence)
+
+infraction de financement des activités terroristes
+:   Toute infraction visée aux articles 83.02 à 83.04 du [Code criminel](https://laws-lois.justice.gc.ca/fra/lois/C-46/) ou une infraction visée à l'article 83.12 de cette loi découlant d'une contravention à l'article 83.08 de la même loi.
+
+    S'entend de la collecte ou du don de biens (par exemple de l'argent) tout en sachant qu'ils sont destinés à la perpétration d'activités terroristes. Cela comprend l'utilisation et la possession d'un bien quelconque pour faciliter la réalisation d'activités terroristes. Les fonds obtenus pour financer le terrorisme peuvent provenir de sources légitimes, par exemple de dons personnels, de profits d'une entreprise ou de dons reçus par un organisme de bienfaisance. En revanche, l'argent peut aussi provenir de sources criminelles, par exemple le trafic de drogues, la contrebande d'armes et d'autres marchandises, la fraude, les enlèvements et l'extorsion. (terrorist activity financing offence)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+infraction de recyclage des produits de la criminalité
+:   L'infraction visée au paragraphe 462.31(1) du [Code criminel](https://laws-lois.justice.gc.ca/fra/lois/C-46/). Selon la définition des Nations Unies, le blanchiment d'argent correspond à tout acte ou toute tentative de perpétrer un acte dans le but de dissimuler l'origine de l'argent ou des biens dérivés d'une activité criminelle. Le blanchiment d'argent désigne essentiellement le processus par lequel de l'« argent sale » résultant d'une activité criminelle est transformé en « argent propre » dont l'origine criminelle est difficile à retracer. (money laundering offence)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+jour ouvrable
+:   Aux fins d'une déclaration de télévirement ou d'une déclaration d'opération importante en espèces, s'entend d'une journée de la semaine comprise entre le lundi et le vendredi, inclusivement. La présente définition exclut les samedis, les dimanches et les jours fériés. (working days)
+
+la Loi
+:   La Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes. (Act)
+
+    Référence:  
+    Le Règlement sur les pénalités administratives — recyclage des produits de la criminalité et financement des activités terroristes (le Règlement sur les PAP), DORS/2007-292, art. 1, le Règlement sur l'inscription, DORS/2007-121, art. 1, Le Règlement, DORS/2002-184, par. 1(2), et le Règlement sur la DOD, DORS/2001-317, par. 1(2).
+
+mandataire
+:   Personne qui agit, en vertu d'un mandat ou d'un accord, pour une autre personne ou entité. (mandatary)
+
+mandataire d'une entreprise de services monétaires
+:   Personne ou entité autorisée à fournir des services pour le compte d'une entreprise de services monétaires (ESM). La présente définition exclut les succursales d'ESM. (money services business agent)
+
+marketing ou publicité
+:   La personne ou l'entité utilise du matériel promotionnel comme des annonces, des images graphiques pour des sites Web ou des panneaux d'affichage, etc., dans le but de promouvoir des services d'entreprises de services monétaires (ESM) et de faire affaire avec des personnes ou des entités au Canada. (marketing or advertising)
+
+membre de la famille
+:   Pour l'application du paragraphe 9.3(1) de la Loi, est un membre de la famille de l'étranger politiquement vulnérable, du national politiquement vulnérable ou du dirigeant d'une organisation internationale :
+
+    1. (a) son époux ou conjoint de fait;
+    2. (b) son enfant;
+    3. (c) sa mère ou son père;
+    4. (d) la mère ou le père de son époux ou conjoint de fait;
+    5. (e) l'enfant de sa mère ou de son père.
+
+    (family member)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 2(1).
+
+menaces envers la sécurité du Canada
+:   S'entend au sens de l'article 2 de la [Loi sur le Service canadien du renseignement de sécurité](https://laws-lois.justice.gc.ca/fra/lois/C-23/). (threats to the security of Canada)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+mesures raisonnables
+:   Mesures que vous devez prendre pour recueillir certains renseignements, même si elles ne permettront pas nécessairement d’obtenir les renseignements voulus. Par exemple, vous pourriez effectuer au moins une des activités suivantes :
+
+    * demander au client;
+    * effectuer une recherche dans des sources ouvertes;
+    * récupérer de l’information déjà disponible, y compris celle conservée dans des formats non numériques; ou
+    * consulter les renseignements des bases de données commerciales.
+
+    (reasonable measures)
+
+métal précieux
+:   Or, argent, palladium ou platine sous forme de pièces de monnaies, barres, lingots ou granules ou sous toute autre forme semblable. (precious metal)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+ministre
+:   Le ministre de la Sécurité publique et de la Protection civile pour l'application des articles 24.1 à 39, et le ministre des Finances pour l'application des autres dispositions de la présente loi. (Minister)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+monnaie fiduciaire
+:   Monnaie qui est émise par un pays et qui y a cours légal. (fiat currency)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2) et le Règlement sur la DOD, DORS/2001-317, par. 1(2).
+
+monnaie virtuelle
+:   S'entend :
+
+    1. (a) de la représentation numérique de valeur pouvant être utilisée comme mode de paiement ou à titre de placement, qui n'est pas une monnaie fiduciaire et qui peut être facilement échangée contre des fonds ou contre une autre monnaie virtuelle qui peut être facilement échangée contre des fonds;
+    2. (b) de la clé privée d'un système de chiffrement permettant à une personne ou entité d'avoir accès à une telle représentation numérique de valeur.
+
+    (virtual currency)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2) et le Règlement sur la DOD, DORS/2001-317, par. 1(2).
+
+national politiquement vulnérable
+:   Personne qui, à un moment donné, occupe — ou a occupé au cours d'une période qui est antérieure prévue par règlement — l'une des charges prévues aux alinéas a) et c) à j) au sein de l'administration fédérale ou provinciale ou pour le compte d'elles ou l'une des charges prévues aux alinéas b) et k) :
+
+    1. (a) gouverneur général, lieutenant gouverneur ou chef de gouvernement;
+    2. (b) membre du Sénat ou de la Chambre des communes ou membre d'une assemblée législative d’une province;
+    3. (c) sous-ministre ou titulaire d'une charge de rang équivalent;
+    4. (d) ambassadeur, ou attaché ou conseiller d'un ambassadeur;
+    5. (e) officier ayant le rang de général ou un rang supérieur;
+    6. (f) dirigeant d'une société appartenant directement à cent pour cent à Sa Majesté du chef du Canada ou d'une province;
+    7. (g) chef d'un organisme gouvernemental;
+    8. (h) juge d'une cour d'appel provinciale, de la Cour d'appel fédérale ou de la Cour suprême du Canada;
+    9. (i) chef ou président d'un parti politique représenté au sein de l'assemblée législative;
+    10. (j) titulaire d'un poste ou d'une charge visés par règlement;
+    11. (k) maire, préfet ou tout autre responsable des autorités municipales ou locales.
+
+    (politically exposed domestic person)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 9.3(3).
+
+nature de l'entreprise principale
+:   Type d'entité ou domaine d'activité d'une entité. S'applique également à un particulier dans le cas d'une entreprise à propriétaire unique. (nature of principal business)
+
+négociant en métaux précieux et pierres précieuses
+:   Personne ou entité qui, dans le cadre de ses activités commerciales, se livre à l'achat ou à la vente de métaux précieux, de pierres précieuses ou de bijoux, y compris tout ministère ou tout mandataire de Sa Majesté du chef du Canada ou d'une province lorsque l'activité de vente de métaux précieux visée au paragraphe 65(1) qu'il exerce s'adresse au public. (dealer in precious metals and stones)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+notaire public de la Colombie-Britannique
+:   Une personne qui est un membre de la société de notaires de la Colombie-Britannique. (British Columbia notary public)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+nouveaux développements
+:   Changements apportés à la structure ou aux opérations d'une entreprise lorsque de nouveaux services, emplacements ou de nouvelles activités sont mis en place. Par exemple, les changements de modèle d'entreprise ou la restructuration d'une entreprise. (new developments)
+
+nouvelles technologies
+:   L'adoption d'une technologie qui est nouvelle pour une entreprise. Par exemple, lorsqu'une entreprise adopte de nouveaux systèmes ou logiciels tels que des systèmes de surveillance des opérations ou des outils pour l'intégration et la vérification de l'identité des clients. (new technologies)
+
+opération de change en devise
+:   Échange, à la demande d'une autre personne ou entité, d'une monnaie fiduciaire contre une autre. (foreign currency exchange transaction)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+opération de change en monnaie virtuelle
+:   Échange, à la demande d'une autre personne ou entité, d'une monnaie virtuelle contre des fonds, de fonds contre une monnaie virtuelle ou d'une monnaie virtuelle contre une autre. (virtual currency exchange transaction)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+opération effectuée
+:   Opération réalisée par une personne ou une entité, qui est effectuée et donne lieu à un mouvement de fonds, de monnaie virtuelle ou à l'achat ou à la vente d'un bien. (completed transaction)
+
+opération tentée
+:   Opération amorcée par une personne ou une entité, mais qui n'est pas effectuée. Par exemple, un client ou un client potentiel décide de ne pas effectuer un dépôt en espèces de 10 000 $ parce qu'il ne veut pas fournir ses pièces d'identité. (attempted transaction)
+
+ordonnance de communication
+:   Ordonnance judiciaire qui oblige une personne ou une entité à transmettre des documents à des agents de la paix ou à des fonctionnaires publics. (production order)
+
+organisme de bienfaisance enregistré
+:   L’organisme suivant, qui a présenté au ministre une demande d’enregistrement sur formulaire prescrit et qui est enregistré, au moment considéré, comme oeuvre de bienfaisance, comme fondation privée ou comme fondation publique :
+
+    1. a) œuvre de bienfaisance, fondation privée ou fondation publique, au sens du paragraphe 149.1(1), qui réside au Canada et qui y a été constituée ou y est établie;
+    2. (b) division — annexe, section, paroisse, congrégation ou autre — d’une œuvre de bienfaisance, fondation privée ou fondation publique, au sens du paragraphe 149.1(1), qui réside au Canada, qui y a été constituée ou y est établie et qui reçoit des dons en son nom propre.
+
+    (registered charity)
+
+    Référence:  
+    Loi de l’impôt sur le revenu (L.R.C. (1985), ch. 1 (5e suppl.))
+
+organisme public
+:   S'entend de
+
+    1. (a) d'un ministère ou d'un mandataire de Sa Majesté du chef du Canada ou d'une province;
+    2. (b) d'une administration métropolitaine, d'une ville, d'un village, d'un canton, d'un district, d'un comté ou d'une municipalité rurale constitué en personne morale ou d'un autre organisme municipal au Canada ainsi constitué, ou d'un mandataire de ceux-ci au Canada;
+    3. (c) d'une institution qui exploite un hôpital public et qui est désignée comme administration hospitalière par le ministre du Revenu national aux termes de la [Loi sur la taxe d'accise](https://laws-lois.justice.gc.ca/fra/lois/E-15/index.html), ou de tout mandataire de celle-ci.
+
+    (public body)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+origine des fonds ou de la monnaie virtuelle (MV)
+:   La provenance des fonds ou de la MV en cause ayant servi à effectuer une opération ou une tentative d'opération particulière. Il s'agit de la manière dont les fonds ont été acquis, et non pas d'où les fonds ont été transférés. Par exemple, l'origine des fonds pourrait être des activités ou des événements comme le revenu d'emploi, les cadeaux, la vente d'un bien important, des activités criminelles, etc. (source of funds or of virtual currency (VC))
+
+origine de la richesse
+:   La provenance de l'ensemble des avoirs d'une personne qui peut être raisonnablement expliquée, plutôt que ce à quoi l'on pourrait s'attendre. Par exemple, l'origine de la richesse d'une personne peut être une accumulation d'activités et d'événements tels que des entreprises commerciales, des biens patrimoniaux, des revenus d'emploi antérieurs et actuels, des investissements, des biens immobiliers, des héritages, des gains de loterie, etc. (source of wealth)
+
+pays de résidence
+:   Le pays où une personne a habité pendant une période consécutive de 12 mois ou plus. La personne doit avoir une demeure dans le pays concerné. Il est entendu qu'une personne a seulement un pays de résidence, peu importe le nombre de demeures qu'elle a dans le pays concerné ou dans un autre pays. (country of residence)
+
+pénalité administrative pécuniaire (PAP)
+:   Sanction civile pouvant être imposée par CANAFE à une entité déclarante qui ne respecte pas ses obligations en vertu de la Loi et des règlements connexes. (administrative monetary penalities [AMPs])
+
+personne autorisée
+:   Une personne autorisée en vertu du paragraphe 45(2). (authorized person)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+personne habilitée à donner des instructions
+:   S'agissant d'un compte, on entend une personne qui est habilitée à donner des instructions sur le compte ou à apporter des modifications au compte, telles que la modification du type de compte, la mise à jour des coordonnées du compte et, dans le cas d'un compte de carte de crédit, la demande d'augmentation ou de diminution de la limite, ou l'ajout ou la suppression de titulaires de carte. Une personne qui ne peut effectuer que des opérations sur le compte n'est **pas** considérée comme une personne habilitée à donner des instructions. (person authorized to give instructions)
+
+personne morale ou fiducie dont l'actif est très important
+:   Personne morale ou fiducie qui, d'après son dernier bilan vérifié, possède un actif net d'au moins 75 millions de dollars canadiens. Les actions de la personne morale doivent être cotées sur une bourse de valeurs au Canada ou sur une bourse de valeurs étrangère désignée au paragraphe 262(1) de la Loi de l'impôt sur le revenu. La personne morale ou fiducie doit également exercer ses activités dans un pays membre du Groupe d'action financière (GAFI). (very large corporation or trust)
+
+personne
+:   Un particulier. (person)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+personne ou entité inscrite
+:   **Une personne ou entité inscrite** s’entend :
+
+    À compter du **2 mars 2025** :
+
+    * de tout groupe terroriste au sens du paragraphe 83.01(1) du Code criminel;
+    * de toute personne ou entité visée par un décret ou un règlement pris en vertu de la Loi sur les Nations Unies;
+    * de tout État étranger, au sens de l’article 2 de la Loi sur les mesures économiques spéciales, visé par un décret ou un règlement pris en vertu de la Loi sur les Nations Unies; et
+
+    À compter du **1er octobre 2025** :
+
+    * de toute personne ou entité visée par un décret ou un règlement pris en vertu de la Loi sur les mesures économiques spéciales;
+    * de tout État étranger, au sens de l’article 2 de la Loi sur les mesures économiques spéciales, visé par un décret ou un règlement pris en vertu de cette Loi ou de la Loi sur les Nations Unies;
+    * de toute personne visée par un décret ou un règlement pris en vertu de l’article 4 de la Loi sur la justice pour les victimes de dirigeants étrangers corrompus (loi de Sergueï Magnitski).
+
+    Référence :  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+    Consultez les listes de sanctions suivantes :
+
+    * Loi sur les Nations Unies
+      + [Liste récapitulative du Conseil de sécurité des Nations Unies | Conseil de sécurité](https://main.un.org/securitycouncil/fr/content/un-sc-consolidated-list)
+    * Loi sur les mesures économiques spéciales et Loi sur la justice pour les victimes de dirigeants étrangers corrompus
+      + [La Liste consolidée des sanctions autonomes canadiennes](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/consolidated-consolide.aspx?lang=fra)
+
+    Consultez la liste qui suit sur le site Web de Sécurité publique Canada pour connaître les entités terroristes inscrites au Code criminel :
+
+    * [Entités inscrites actuellement](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-fr.aspx)
+
+pierre précieuse
+:   Diamant, saphir, émeraude, tanzanite, rubis ou alexandrite. (precious stones)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+plateforme de sociofinancement
+:   Site Web ou application ou autre logiciel permettant de recueillir des dons sous forme de fonds ou de monnaie virtuelle. (crowdfunding platform)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+politiques et procédures de conformité
+:   Documents écrits faisant état de l'ensemble des méthodes à suivre et des obligations que doit respecter votre entreprise en vertu de la Loi et des règlements connexes, ainsi que des processus et mécanismes de contrôle qu'elle doit mettre en place pour s'acquitter de ses obligations. (compliance policies and procedures)
+
+possibilité
+:   Lorsqu'il est question de remplir une déclaration d'opérations douteuses (DOD), risque qu'une opération soit liée à une infraction de blanchiment d'argent ou de financement du terrorisme (BA/FT). Par exemple, après avoir évalué les faits, le contexte et les indicateurs de BA/FT, vous avez des motifs raisonnables de soupçonner qu'une opération est possiblement liée à la perpétration, réelle ou tentée, d'une infraction de BA/FT. (possibility)
+
+prêteur hypothécaire
+:   Personne ou entité, autre qu’une entité financière, qui se livre à l’octroi de prêts garantis par hypothèques sur immeubles ou biens réels. (mortgage lender)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+probabilité
+:   Lorsqu'il est question de remplir une déclaration d'opérations douteuses (DOD), risque accru qu'une opération financière soit liée à une infraction de blanchiment d'argent ou de financement du terrorisme (BA/FT). Par exemple, si d'après les faits, vous avez des motifs raisonnables de croire qu'une opération est probablement liée à la perpétration, réelle ou tentée, d'une infraction de BA/FT. (probability)
+
+produit de paiement prépayé
+:   Produit émis par une entité financière et permettant à une personne ou entité de prendre part à une opération en lui donnant un accès électronique à des fonds ou à de la monnaie virtuelle versés, avant l'opération, dans un compte de produit de paiement prépayé détenu avec l'entité financière. La présente définition exclut :
+
+    1. (a) le produit permettant d'avoir accès à un compte de crédit ou de débit ou ne pouvant être utilisé qu'auprès d'un commerçant spécifique;
+    2. (b) à usage unique émis dans le cadre d'un programme de rabais d'un détaillant.
+
+    (prepaid payment product)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+profession ou métier
+:   Emploi ou occupation régulière rémunérée d'un client. (occupation)
+
+programme de conformité
+:   Tous les éléments (agent de conformité, politiques et procédures, évaluation des risques, programme de formation et examen de l'efficacité) que vous devez, à titre d'entité déclarante, mettre en place en vertu de la Loi et des règlements connexes pour vous assurer de respecter toutes vos obligations. (compliance program)
+
+programme de formation
+:   Programme écrit et mis en œuvre décrivant la formation offerte de façon continue à vos employés, à vos mandataires ou à d'autres personnes autorisées à agir en votre nom. Il doit contenir de l'information sur vos obligations et les exigences à remplir au titre de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et des règlements connexes. (training program)
+
+promoteur immobilier
+:   S'entend de la personne ou entité qui, au cours d'une année civile postérieure à 2007, a vendu au public, autrement qu'à titre de courtier ou agent immobilier, selon le cas :
+
+    1. (a) au moins cinq maisons ou unités condominiales neuves;
+    2. (b) au moins un immeuble commercial ou industriel neuf;
+    3. (c) au moins un immeuble résidentiel à logements multiples neuf contenant au moins cinq logements ou au moins deux immeubles résidentiels à logements multiples neufs contenant au total au moins cinq logements.
+
+    (real estate developer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+régime de participation des employés aux bénéfices
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (employees profit sharing plan)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+régime de participation différée aux bénéfices
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (deferred profit sharing plan)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+régime de pension agréé
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (registered pension plan)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+registre distribué
+:   Aux fins de l'article 151 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement), un registre distribué s'entend d'un registre numérique, tenu par plusieurs personnes ou entités, pouvant uniquement être modifié par consensus entre celles-ci. (distributed ledger)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 151(2).
+
+relation de correspondant bancaire
+:   Une relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d), e) ou e.1) ou une autre entité visée à l'article 5 et visée par règlement s'engage à fournir à une entité étrangère visée par règlement des services prévus par règlement ou des services de télévirements internationaux, de gestion de trésorerie ou de compensation de chèques. (correspondent banking relationship)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 9.4(3) et Le Règlement, DORS/2002-184, par. 16(1)(b).
+
+relevé de dépôt
+:   Document où sont consignés les renseignements suivants :
+
+    1. (a) la date du dépôt;
+    2. (b) le nom de la personne ou entité qui l'effectue;
+    3. (c) le montant du dépôt ainsi que le montant de toute partie du dépôt faite en espèces;
+    4. (d) la manière dont le dépôt est effectué;
+    5. (e) le numéro du compte au crédit duquel la somme est portée et le nom de chaque titulaire du compte.
+
+    (deposit slip)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+relevé de réception de fonds
+:   Document constatant la réception de fonds et où sont consignés les renseignements suivants :
+
+    1. (a) la date de réception;
+    2. (b) si les fonds sont reçus d'une personne, ses nom, adresse, numéro de téléphone et date de naissance et la nature de son entreprise principale ou sa profession;
+    3. (c) si les fonds sont reçus d'une entité ou pour son compte, ses nom, adresse et numéro de téléphone et la nature de son entreprise principale;
+    4. (d) le montant des fonds reçus ainsi que le montant de toute partie des fonds reçue en espèces;
+    5. (e) la manière dont les fonds sont reçus;
+    6. (f) les type et montant de chaque monnaie fiduciaire liée à la réception;
+    7. (g) le cas échéant, les taux de change utilisés et leur source;
+    8. (h) pour tout compte touché par l'opération au cours de laquelle la réception a lieu, le numéro du compte, le type de compte et le nom de chaque titulaire du compte;
+    9. (i) les nom, adresse et numéro de téléphone de toute autre personne ou entité qui a participé à l'opération, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    10. (j) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte;
+    11. (k) l'objet de l'opération.
+
+    (receipt of funds record)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+relevé d'opération importante en espèces
+:   Document constatant la réception d'une somme en espèces de 10 000 $ ou plus au cours d'une seule opération et où sont consignés les renseignements suivants :
+
+    1. (a) la date de réception;
+    2. (b) s'il s'agit d'un dépôt, l'heure à laquelle il est fait ou, s'il est fait dans une boîte de dépôt de nuit hors des heures d'ouverture, une mention à cet effet ainsi que le numéro du compte et le nom de chaque titulaire du compte;
+    3. (c) les nom et adresse de toute autre personne ou entité qui a participé à l'opération, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    4. (d) les type et montant de chaque monnaie fiduciaire liée à la réception;
+    5. (e) la manière dont la somme en espèces a été reçue;
+    6. (f) le cas échéant, les taux de change utilisés et leur source;
+    7. (g) pour tout autre compte touché par l'opération, le numéro du compte, le type de compte et le nom de chaque titulaire du compte;
+    8. (h) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte;
+    9. (i) l'objet de l'opération;
+    10. (j) les détails ci-après à l'égard de la remise de la somme reçue ou de la remise faite en échange de la somme :
+        1. (i) la manière dont la remise est faite,
+        2. (ii) si la remise prend la forme de fonds, les types de fonds en cause et la somme en cause, pour chaque type,
+        3. (iii) si la remise prend une autre forme, la forme en cause et, si elle diffère de la somme reçue en espèces, la valeur de la remise,
+        4. (iv) le nom des personnes ou entités liées à la remise, ainsi que leur numéro de compte ou de police ou, à défaut, leur numéro d'identification;
+    11. (k) s'il s'agit d'une somme reçue par un négociant en métaux précieux et pierres précieuses pour la vente de métaux précieux, de pierres précieuses ou de bijoux :
+        1. (i) les types de métaux précieux, de pierres précieuses ou de bijoux en cause,
+        2. (ii) leur valeur, si elle diffère de la somme reçue en espèces,
+        3. (iii) leur prix de gros.
+
+    (large cash transaction record)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+relevé d'opération importante en monnaie virtuelle
+:   Document constatant la réception d'une somme en monnaie virtuelle de 10 000 $ ou plus au cours d'une seule opération et où sont consignés les renseignements suivants :
+
+    1. (a) la date de réception;
+    2. (b) si la somme est reçue pour être portée au crédit d'un compte, le nom de chaque titulaire du compte;
+    3. (c) les nom et adresse de toute autre personne ou entité qui a participé à l'opération, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    4. (d) les type et montant de chaque monnaie virtuelle liée à la réception;
+    5. (e) le cas échéant, les taux de change utilisés et leur source;
+    6. (f) pour tout autre compte touché par l'opération au cours de laquelle la réception a lieu, le numéro du compte, le type de compte et le nom de chaque titulaire du compte;
+    7. (g) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte;
+    8. (h) les identifiants de l'opération, y compris l'adresse d'envoi et l'adresse de réception;
+    9. (i) s'il s'agit d'une somme reçue par un négociant en métaux précieux et pierres précieuses pour la vente de métaux précieux, de pierres précieuses ou de bijoux :
+       1. (i) les types de métaux précieux, de pierres précieuses ou de bijoux en cause,
+       2. (ii) leur valeur, si elle diffère de la somme reçue en monnaie virtuelle,
+       3. (iii) leur prix de gros.
+
+    (large virtual currency transaction record)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+renseignements d'identification du client
+:   Les renseignements d'identification que vous avez obtenus sur vos clients, tels que le nom, l'adresse, le numéro de téléphone, la profession ou la nature de l'activité principale, et la date de naissance d'une personne. (client identification information)
+
+rente
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (annuity)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+répartition de fonds
+:   En parlant d'une opération pouvant faire l'objet d'une déclaration, la façon dont la monnaie virtuelle ou les fonds sont utilisés. Par exemple, une personne se présente à la banque avec des espèces et fait l'achat d'une traite bancaire. L'achat de la traite bancaire constitue un exemple de répartition de fonds. (disposition)
+
+représentant d'assurance-vie
+:   Personne ou entité autorisée, au titre de la législation provinciale, à exercer des activités visant la conclusion de contrats d'assurance-vie. (life insurance broker or agent)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+représentant du service
+:   Une personne au Canada qui a été nommée par une personne ou une entité qui est une entreprise de services monétaires étrangère (ESME), en vertu de la Loi, pour recevoir des avis et des documents au nom de l'ESME. (representative for service)
+
+sans raison apparente
+:   Situation où rien n'explique clairement le comportement ou les renseignements douteux. (no apparent reason)
+
+services de plateforme de sociofinancement
+:   La fourniture et la maintenance d’une plateforme de sociofinancement destinée à être utilisée par d’autres personnes ou entités afin de recueillir des fonds ou de la monnaie virtuelle pour leur propre compte ou au bénéfice de personnes ou entités qu’elles désignent. (crowdfunding platform services)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+signature
+:   S'entend notamment d'une signature électronique ou de tout autre renseignement électronique créé ou adopté par le client d'une personne ou entité visée à l'article 5 de la Loi et que cette personne ou entité reconnaît comme étant propre à ce client. (signature)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+société d'assurance-vie
+:   Société d'assurance-vie ou société d'assurance-vie étrangère régies par la [Loi sur les sociétés d'assurances ou société d'assurance-vie](https://laws-lois.justice.gc.ca/fra/lois/I-11.8/) régie par une loi provinciale. (life insurance company)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+société de fiducie
+:   Société visée à l'un ou l'autre des alinéas 5d) à e.1) de la Loi. (trust company)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+société de notaires de la Colombie-Britannique
+:   Entité qui exploite une entreprise offrant des services notariaux au public en Colombie-Britannique conformément à la loi de la Colombie-Britannique intitulée Notaries Act, R.S.B.C. 1996, ch. 334. (British Columbia notary corporation)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+succursale
+:   Établissement qui fait partie de votre entreprise, mais qui est situé à un emplacement autre que celui de votre bureau principal. (branch)
+
+SWIFT
+:   La "Society for Worldwide Interbank Financial Telecommunication". (SWIFT)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+télévirement
+:   Transmission par voie électronique, magnétique ou optique d’instructions pour le transfert de fonds y compris la transmission d’instructions amorcée et reçue à titre de destinataire par la même personne ou entité. Dans le cas des messages SWIFT, seuls les messages SWIFT MT-103 et leurs équivalents sont visés par la présente définition. Est exclue de la présente définition la transmission d’instructions pour le transfert de fonds :
+
+    1. (a) qui implique que le bénéficiaire retire des espèces de son propre compte;
+    2. (b) qui est effectuée au moyen d’un dépôt direct ou d’un débit préautorisé;
+    3. (c) qui est effectuée par imagerie et présentation de chèques;
+    4. (d) qui est amorcée et reçue à titre de destinataire par des personnes ou entités qui agissent en vue de compenser ou de régler des obligations de paiement entre elles;
+    5. (e) qui est amorcée ou reçue à titre de destinataire par une personne ou une entité visée aux alinéas 5a) à h.1) de la Loi en vue de la gestion de la trésorerie interne, y compris la gestion de ses actifs et passifs financiers, si une partie à l’opération est une filiale de l’autre ou si elles sont des filiales de la même société.
+
+    (electronic funds transfer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+télévirement international
+:   Télévirement, sauf celui pour le transfert de fonds à l'intérieur du Canada. (international electronic funds transfer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+tiers
+:   Personne ou entité qui demande à une autre personne ou entité d'effectuer pour son compte une activité ou une opération financière. (third party)
+
+traducteur agréé
+:   Une personne qui détient le titre professionnel de traducteur agréé délivré par une association provinciale ou territoriale du Canada ou un organisme qui est compétent aux termes de la législation provinciale ou territoriale du Canada pour délivrer une telle certification. (certified translator)
+
+tuteur
+:   En droit civil, personne légalement nommée pour exercer l'autorité parentale vis-à-vis de l'enfant et pour protéger les biens de ce dernier. (tutor)
+
+utilisateur autorisé
+:   Personne autorisée par un titulaire d'un compte de produit de paiement prépayé à avoir accès électroniquement à des fonds ou à de la monnaie virtuelle s'y trouvant au moyen d'un produit de paiement prépayé lié à ce compte. (authorized user)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+valide
+:   S'agissant d'un document ou de renseignements utilisés pour vérifier l'identité, qui semble légitime ou authentique et qui ne semble pas avoir été modifié ni caviardé. Les renseignements doivent également répondre aux critères de l'organisme de délivrance. Par exemple, un passeport que l'organisme de délivrance ne considère pas comme valide en raison d'un changement de nom n'est pas considéré comme valide par CANAFE. (valid)
+
+véhicule de tourisme
+:   S’entend de tout véhicule à moteur qui est conçu ou aménagé pour transporter au plus dix personnes sur les routes et dans les rues, à l’exclusion d’une ambulance, d’un corbillard, d’un véhicule à moteur clairement identifié pour les activités policières, d’un véhicule à moteur clairement identifié et équipé pour les activités de secours médical d’urgence ou d’intervention d’urgence en cas d’incendie et d’un camion utilitaire. (passenger vehicle)
+
+    Référence:  
+    Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (DORS/2002-184), par. 1(2)
+
+Véhicules blindés
+:   Personnes ou entités faisant le commerce de transport d’espèces, de mandats, de chèques de voyage ou d’autres titres négociables semblables.(Armoured cars)
+
+vérifier l'identité
+:   Se reporter à certains renseignements ou documents, conformément aux méthodes prescrites, pour identifier une personne ou une entité (client). (verify identity)
+
+violation
+:   Toute contravention à la présente loi ou à ses règlements qui est ainsi qualifiée par les règlements pris en vertu du paragraphe 73.1(1). (violation)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+Date de modification :
+:   2025-11-24

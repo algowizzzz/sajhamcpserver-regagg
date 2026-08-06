@@ -1,0 +1,17 @@
+# Release Number 9269-26
+
+# CFTC Sunsets Routine Large Trader Reporting Requirements for Physical Commodity Swaps
+
+**July 17, 2026**
+
+**WASHINGTON** — The Commodity Futures Trading Commission today issued a final order sunsetting the routine position-reporting requirements of Part 20, the large trader reporting rules for physical commodity swaps. Under the order, clearing organizations, clearing members, and swap dealers will no longer be required to file the daily and event-based position reports currently required under Part 20.
+
+“American financial market participants should not be saddled with costly and duplicative reporting requirements that do not improve the quality of our regulation,” Chairman Michael S. Selig said. “This order relieves industry of a significant and unnecessary burden while ensuring the Commission retains full access to the position information it needs to protect these markets.”
+
+The Commission issued the order under § 20.9, a sunset provision built into Part 20 when it was first adopted in 2011 as a temporary measure. The rule predated the Commission's broader swap data reporting framework, which has since matured through the registration of swap data repositories under Part 49, the swap data reporting requirements in Parts 43 and 45, and the position limits in Part 150.
+
+The Commission is retaining, as a transitional measure, the recordkeeping and special-call provisions of Part 20. Reporting entities must continue to keep records of their paired swap and swaption transactions and futures-equivalent conversion methods and furnish them upon appropriately scoped special call.
+
+The order is effective upon publication in the Federal Register.
+
+**-CFTC-**

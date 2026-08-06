@@ -1,0 +1,27 @@
+{
+  "doc_id": "a8a5fe13c570522f",
+  "regulator_id": "mas",
+  "doc_type": "announcement",
+  "title": "Maintenance",
+  "language": "en",
+  "source_url": "https://www.mas.gov.sg/privacy-statement",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0a60954b897e0a99e0fa5ee317f8b245ba5ebb1eb72adcbfbcace8b3ebd6c0cd",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_mas_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/mas/current/announcement/2026/a8a5fe13c570522f",
+  "tags": [
+    "singapore",
+    "banking",
+    "securities"
+  ],
+  "final_url": "https://www.mas.gov.sg/privacy-statement",
+  "fetch_method": "html_to_md"
+}

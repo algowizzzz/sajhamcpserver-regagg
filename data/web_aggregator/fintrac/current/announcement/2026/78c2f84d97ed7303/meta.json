@@ -1,0 +1,24 @@
+{
+  "doc_id": "78c2f84d97ed7303",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Qui n'est pas admissible \u00e0  l'inscription \u00e0 titre d'entreprise de services mon\u00e9taires ou \u00e0 agir comme mandataire",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/msb-esm/register-inscrire/no-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1c6fd64d3a2fb7d3672d2d9421641f0b1538713821a10dd6f8c9d798d7031dcb",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/78c2f84d97ed7303",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

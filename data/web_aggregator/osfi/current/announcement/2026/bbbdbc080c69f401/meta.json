@@ -1,0 +1,25 @@
+{
+  "doc_id": "bbbdbc080c69f401",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Rapports sur la lutte contre le recyclage des produits de la criminalit\u00e9 et sur la lutte contre le financement des activit\u00e9s terroristes et sanctions | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/rapports-sur-lutte-contre-recyclage-produits-criminalite-sur-lutte-contre-financement-activites",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ffef83a3508f6dd3576fa3bcec3abda9ca973802ff1f86fd195c6193d6f78f6c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/bbbdbc080c69f401",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

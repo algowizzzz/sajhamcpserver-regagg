@@ -1,0 +1,544 @@
+1 
+ 
+ 
+UNITED STATES OF AMERICA 
+BEFORE THE 
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM 
+WASHINGTON, D.C. 
+ 
+ 
+In the Matter of: 
+ 
+UBS GROUP AG 
+Zurich, Switzerland 
+ 
+CREDIT SUISSE AG  
+Zurich, Switzerland 
+ 
+CREDIT SUISSE HOLDINGS (USA), INC. 
+New York, New York 
+ 
+CREDIT SUISSE AG, NEW YORK 
+BRANCH  
+New York, New York 
+ 
+ 
+Docket Nos.    23-014-B-FB 
+23-014-B-HC 
+23-014-B-FBR 
+23-014-CMP-FB 
+23-014-CMP-HC 
+23-014-CMP-FBR 
+ 
+Order to Cease and Desist and Order 
+of Assessment of a Civil Money 
+Penalty Issued Upon Consent 
+Pursuant to the Federal Deposit 
+Insurance Act, as Amended 
+ 
+ 
+  
+WHEREAS, Credit Suisse AG, Zurich, Switzerland (the “Bank”), is a foreign bank as 
+defined in section 1(b)(7) of the International Banking Act (12 U.S.C. § 3101(7)), that controls a 
+large complex financial organization that consists of a number of separate business lines and 
+legal entities in many countries around the world;  
+WHEREAS, Credit Suisse Holdings (USA), Inc., New York, New York (“CS USA”), is 
+an intermediate holding company that is a wholly owned subsidiary of the Bank;  
+WHEREAS, the Bank conducts operations in the United States through CS USA, which 
+owns and controls various non-bank subsidiaries, and through its New York State licensed
+
+2 
+ 
+ 
+branch New York, New York (the “Branch”), (collectively with CS USA, the “U.S. 
+Operations”); 
+WHEREAS, the Board of Governors of the Federal Reserve System (the “Board of 
+Governors”) is the appropriate federal supervisor in the United States of the Bank, CS USA, and 
+the Branch (collectively “Credit Suisse”); 
+WHEREAS, section 252.155(a)(2) of Regulation YY of the Board of Governors (12 
+C.F.R. § 252.155(a)(2)) requires a U.S. risk management program designed to identify and 
+manage risks across the organization’s U.S. Operations;  
+WHEREAS, sections 252.156 and 252.157 of Regulation YY of the Board of Governors 
+(12 C.F.R. §§ 252.156-252.157) requires a U.S. liquidity risk management program, conducting 
+liquidity stress testing, and maintaining appropriate liquidity buffers across the organization’s 
+U.S. Operations;  
+WHEREAS, examinations conducted by the Federal Reserve Bank of New York (the 
+“Reserve Bank”) (together with the Board of Governors, the “Federal Reserve”) of the U.S. 
+Operations prior to June 2023 identified longstanding deficiencies in the U.S. Operations’ risk 
+management, including, but not limited to, counterparty credit risk management, liquidity risk 
+management, model risk management, third party risk management, and information technology 
+management, as well as significant data management and data quality issues; 
+WHEREAS, until at least 2021, Credit Suisse operated a prime services business (“Prime 
+Services”) within the investment bank division that served hedge fund and institutional investor 
+clients with staff and operations located in the United States through the U.S. operations, as well 
+as in the United Kingdom, Europe, and Asia;
+
+3 
+ 
+ 
+WHEREAS, the Prime Services Risk department within Prime Services was a business-
+line risk function, primarily responsible for the day-to-day risk management of Prime Services 
+clients, including setting margin rates and obtaining margin from clients;  
+WHEREAS, Credit Risk Management served as an independent risk function at Credit 
+Suisse, responsible for evaluating credit risk posed to Credit Suisse by counterparties, assigning 
+internal credit ratings, setting internal risk-related counterparty trading limits, and resolving limit 
+breaches, with staff and operations within the United States and the United Kingdom; 
+WHEREAS, from approximately 2012 to 2021, Credit Suisse had a client relationship 
+with Archegos Capital Management LP (“Archegos”), a New York-based family office, and also 
+had a relationship with Archegos’ predecessor, Tiger Asia Management LLC, dating back to 
+2003.  Credit Suisse’s New York-based Prime Services and Credit Risk Management staff were 
+responsible for the Archegos relationship;  
+WHEREAS, Archegos employed a long-short equity strategy, with a focus on technology 
+and media companies, and primarily used derivative contracts via total return swaps (“TRS”) 
+with counterparties, including Credit Suisse.  From at least mid-2020 through early 2021, 
+Archegos repeatedly added long TRS positions in a limited list of single-name U.S. and Chinese 
+stocks;   
+WHEREAS, the risk posed by Archegos’ increasingly concentrated TRS portfolio at 
+Credit Suisse continued to increase from mid-2020 through early 2021, such that Archegos 
+breached Credit Suisse’s internal risk limits throughout that entire period;
+
+4 
+ 
+ 
+WHEREAS, neither the Prime Services business, Prime Services Risk, nor Credit Risk 
+Management took any effective measures to reduce the known risks posed by Archegos’ TRS 
+portfolio from mid-2020 through early 2021;  
+WHEREAS, Credit Suisse, including but not limited to Credit Risk Management and 
+Prime Services Risk, lacked adequate governance, experienced staff with sufficient stature, and 
+sufficient data quality and model risk management to ensure that activities conducted with 
+counterparties were properly risk managed.  Credit Suisse repeatedly failed to address identified 
+risks associated with Archegos’ portfolio despite repeated escalation of red flags by staff to 
+multiple levels of management.  Credit Suisse’s failures include but are not limited to: 
+a. failure to have adequate reputational risk review processes; 
+b. failure to have clear roles, responsibilities and accountability;  
+c. failure to obtain adequate margin from Archegos;  
+d. failure to resolve internal limit breaches on a timely basis; and 
+e. failure to have effective data quality management for risk metrics. 
+WHEREAS, in or around late March 2021, Archegos defaulted on Credit Suisse’s margin 
+calls, causing Credit Suisse, which lacked adequate margin, to liquidate its positions in the 
+underlying names and suffer approximately $5.5 billion in losses; 
+WHEREAS, on June 12, 2023, UBS Group AG (“UBS”), a foreign bank as defined in 
+section 1(b)(7) of the International Banking Act (12 U.S.C. § 3101(7)), acquired Credit Suisse 
+Group AG, the parent organization of Credit Suisse, in a transaction approved by the Swiss 
+Financial Market Supervisory Authority, as well as other relevant supervisory authorities, to 
+protect depositors and the financial markets;
+
+5 
+ 
+ 
+WHEREAS, UBS is the successor of Credit Suisse Group AG, and the Board of 
+Governors is the appropriate federal supervisor in the United States of UBS; 
+WHEREAS, it is the common goal of UBS, Credit Suisse, the Reserve Bank, and the 
+Board of Governors that the U.S. Operations operate in a safe and sound manner and in 
+compliance with all applicable federal and state laws, rules, and regulations.  UBS has initiated 
+remedial actions to address the above weaknesses at Credit Suisse; 
+WHEREAS, UBS, Credit Suisse, and the Board of Governors have agreed to this consent 
+Cease and Desist Order and Order of Assessment of a Civil Money Penalty (the “Order”) 
+pursuant to section 8(b) and (i)(2) of the Federal Deposit Insurance Act, as amended (the “FDI 
+Act”) (12 U.S.C. § 1818(b) and (i)(2)(B)) for the unsafe or unsound practices described above; 
+and 
+WHEREAS, the boards of directors of UBS, Credit Suisse AG, and CS USA at duly 
+constituted meetings, adopted resolutions authorizing and directing the undersigned to enter into 
+this Order on behalf of UBS and Credit Suisse, and consenting to compliance with each and 
+every provision of this Order by UBS and Credit Suisse, and waiving all rights that UBS and 
+Credit Suisse may have pursuant to section 8 of the Federal Deposit Insurance Act, as amended 
+(the “FDI Act”) (12 U.S.C. § 1818), including but not limited to: (i) the issuance of a notice of 
+charges on any and all matters set forth in this Order; (ii) a hearing for the purpose of taking 
+evidence on any matters set forth in this Order; (iii) judicial review of this Order; and (iv) 
+challenging or contesting, in any matter, the basis, issuance, validity, terms, effectiveness or 
+enforceability of this Order or any provision hereof. 
+NOW THEREFORE, it is hereby ordered that, before the filing of any notices, or taking 
+of any testimony, or adjudication of or finding on any issues of fact or law herein, and solely for
+
+6 
+ 
+ 
+the purpose of settling this matter without a formal proceeding being filed and without the 
+necessity for protracted or extended hearings or testimony, pursuant to section 8(b)(1) and (4) of 
+the FDI Act (12 U.S.C. § 1818(b)(1) and (b)(4)), UBS and Credit Suisse shall cease and desist 
+and take affirmative action as follows: 
+Board Oversight and Governance 
+ 
+ 
+  
+1. The board of directors of UBS shall take appropriate steps to ensure that each 
+branch and subsidiary of Credit Suisse in the U.S. operates in a safe and sound manner, complies 
+with applicable U.S. and state laws and regulations, and addresses any supervisory action taken 
+by its applicable federal and state supervisors. 
+2. Within 120 days of the effective date of this Order, the UBS board of directors, 
+the CS USA board of directors, the CS USA Risk Committee (the “Risk Committee”), and the 
+Governance, Oversight and Sustainability Committee of the CS USA board of directors (the 
+“GOS Committee”) shall jointly submit a plan to strengthen their respective oversight of the U.S. 
+Operations, its senior management, and the remediation of outstanding regulatory issues related 
+to deficient risk management and governance practices.  The plan shall provide for a sustainable 
+governance and risk management framework that includes the following two items: 
+(a) actions that the UBS board of directors, the CS USA board of directors, 
+and the Risk Committee will take to improve oversight and supervision of senior management to 
+ensure that senior management strengthens risk management and governance practices for the 
+U.S. Operations, including setting business strategy and activities, complying with applicable 
+laws and regulations, and approving of policies and procedures; and to ensure that senior 
+management implements and maintains a commensurate data management program; and
+
+7 
+ 
+ 
+  
+ 
+(b) identification of the information and reports that will be regularly 
+reviewed by the UBS board of directors, the CS USA board of directors, the Risk Committee, 
+and the GOS Committee in their respective oversight of the U.S. Operations, including routine 
+reporting on the remediation of regulatory issues and progress on this action. 
+Remediation Office 
+3. Within 120 days of the effective date of this Order, the UBS board of directors, 
+the CS USA board of directors, and the GOS Committee shall jointly submit a plan to establish a 
+Remediation Office that will operate under the oversight of the UBS board of directors, the CS 
+USA board of directors, and the GOS Committee.  The Remediation Office, which is to be 
+staffed by a designated team of dedicated, qualified, and experienced individuals, will be 
+responsible for the following three items: 
+(a) ensuring comprehensive coverage of  the root causes of supervisory 
+deficiencies identified by the Federal Reserve to date, including those described in this Order; 
+(b) assisting business and control functions in developing solutions to address 
+the root causes of supervisory deficiencies identified by the Federal Reserve to date, including 
+those identified in this Order, and to assess remediation plans for comprehensiveness, 
+traceability, and accountability; and 
+(c) tracking, managing, and ensuring the development, implementation, and 
+demonstrated sustainability of all remediation-related actions, including those in this Order. 
+ 
+Counterparty Credit Risk Management 
+4.  Within 120 days of the effective date of this Order, CS USA and the Branch shall 
+conduct and document an assessment of the U.S. Operations’ credit and counterparty risk
+
+8 
+ 
+ 
+management program (the “Counterparty Credit Risk Management Assessment”) to determine 
+the enhancements to meet the risk management requirements set forth in Regulation YY.   
+(a) The Counterparty Credit Risk Management Assessment shall identify 
+where Credit Suisse’s counterparty credit risk management policies, procedures, practices, 
+processes, and internal controls are not compliant with Regulation YY, and where staff lacks 
+expertise or training, or roles and responsibilities are not sufficiently defined and supported with 
+an appropriate escalation framework in order to exercise appropriate risk management and 
+maintain an effective control environment (“Identified Gaps”).  Upon completion, CS USA and 
+the Branch shall provide to the Reserve Bank a written report that summarizes the Counterparty 
+Credit Risk Management Assessment and that sets forth the Identified Gaps.  
+(b) Within 90 days of receipt of an acceptable Counterparty Credit Risk 
+Management Assessment by the Reserve Bank, CS USA and the Branch shall submit a plan (the 
+“Counterparty Credit Risk Management Remediation Plan”) to address any Identified Gaps, their 
+causes, and the following areas to the extent not included as within the Identified Gaps, 
+acceptable to the Reserve Bank.  The Counterparty Credit Risk Management Remediation Plan 
+shall include the following seven items:  
+i. measures to ensure that the U.S. Operations’ counterparty credit 
+risk program has the requisite stature, authority, and resources to address the Identified Gaps and 
+to ensure that Credit Suisse, on an ongoing basis, maintains a risk management framework for its 
+U.S. Operations that meets the risk management requirements of Regulation YY with respect to 
+counterparty credit risk management;
+
+9 
+ 
+ 
+ii. clearly defined roles and responsibilities of committees and 
+individuals, including measures to gauge the effectiveness of committees, to ensure an 
+appropriate internal control environment for the U.S. Operations; 
+iii. specific actions to enhance the accuracy, improve timeliness, and 
+ensure the appropriateness of risk measures designed to capture, measure, monitor, and report 
+counterparty credit risk, including metrics or models related to potential exposure and scenario 
+stress testing; 
+iv. measures to enhance the robustness of the U.S. Operations’ limit 
+frameworks, with related governance processes, including but not limited to processes regarding 
+limit breaches, time periods to resolve limit breaches, consequences for failure to timely resolve 
+limit breaches, and limit approvals and/or exceptions, escalations, and reporting; 
+v. measures to improve credit-related client onboarding processes and 
+ongoing client monitoring, including an enhanced assessment of clients’ reputations, histories, 
+risk profile, and exposures, as measured through stress-testing of clients’ long and short 
+portfolios;  
+vi. timelines and milestones for implementing the Counterparty Credit 
+Risk Management Remediation Plan and measures to determine how the U.S. Operations will 
+maintain implemented improvements on an ongoing basis; and  
+vii. measures for managing counterparty credit risk until the 
+Counterparty Credit Risk Management Remediation Plan is implemented in full.  
+Liquidity Risk Management   
+ 5. Within 120 days of this Order, CS USA and the Branch shall jointly submit a plan 
+to strengthen the U.S. Operations’ liquidity risk management.  The plan shall have measures to
+
+10 
+ 
+ 
+ensure that the liquidity risk management program for the U.S. Operations includes the following 
+four items: 
+  
+  
+  
+  
+ 
+  
+(a) a consolidated liquidity stress testing framework  for the U.S. Operations 
+that includes robust methods for comprehensively projecting both business-as-usual and stressed 
+cash flows arising from assets, liabilities, and off-balance sheet items and ensures the adequacy 
+of liquidity positions under stress in a range of conditions, including the use of intercompany 
+transactions to support liquidity under stress conditions; 
+(b) liquidity buffer metrics and limits based on the consolidated stress testing 
+framework and consistent with the size and complexity of business activity and with risk 
+appetite; 
+(c) a comprehensive, well-documented, and tested contingency funding plan 
+(“CFP”) that defines roles, responsibilities, potential management actions, and accountability for 
+those actions and communications; and 
+(d) a set of early warning indicators in the CFP tailored to the capital 
+structure, risk profile, complexity, activities, and size of the U.S. Operations. 
+Non-Financial Risk Management 
+6. Within 120 days of this Order, CS USA and the Branch shall jointly submit a plan 
+approved by the CS USA board of directors and the Risk Committee to enhance the U.S. 
+Operations’ risk management program.  The plan shall include the following three items: 
+(a) measures to ensure that the risk management program for the U.S. 
+Operations includes:
+
+11 
+ 
+ 
+   
+   
+   
+   
+   
+   
+   
+i. clearly defined roles and responsibilities for risk management 
+personnel in the business lines and risk function, including identification of required staffing and 
+associated levels of expertise; 
+ii. written policies, procedures, and risk management standards 
+designed to identify, assess, manage, and monitor risk exposures—including but not limited to 
+risk exposures associated with new activities, products, investments, legal compliance, and 
+liquidity—and facilitate compliance with applicable laws and regulations; 
+iii. appropriate written risk tolerance guideline limits, and controls to 
+ensure adherence thereto; 
+iv.  risk management procedures and controls to enable business 
+continuity and resiliency of critical business services in the event of severe but plausible 
+operational, information technology, or cyber security disruptions; 
+v. improved reports, systems, and data that identify, measure, and 
+aggregate on-and off-balance sheet risk and exposure data of the U.S. Operations;  
+vi. implementation of an effective third-party risk management 
+operating model that provides for business continuity testing for critical services providers and 
+ongoing risk assessment processes that include due diligence and monitoring commensurate with 
+the risk associated with each third-party vendor;  
+vii. implementation of an effective U.S. Operations’ model risk 
+management program across all model types that is sustainable and consistently implemented by 
+the relevant functions, and which includes processes for setting the appropriate tolerance for 
+model risk, measuring the effectiveness of the program, tracking and responding to validation
+
+12 
+ 
+ 
+findings, addressing deficiencies in a timely manner, and establishing a framework for model 
+changes;  
+   
+   
+  
+  
+ 
+viii. demonstrable progress implementing the U.S. Operations’ st rategy 
+for effecting data improvements, data maintenance, and a sustainable Data Management 
+Framework (“DMF”) that includes:  (1) tracking the timely implementation of the complete and 
+comprehensive DMF, and all related controls, across the U.S. Operations, (2) monitoring to 
+ensure that senior management identify and respond to changing data requirements, and (3)  
+ensuring that senior management address data governance, data quality, and data strategy 
+concerns in a timely and holistic manner;  
+ix. compensation incentives that are consistent with risk management 
+objectives and standards; 
+(b) milestones, timetables, success measures, and adequate funding for 
+personnel and other resources, to ensure the development and implementation of the remedial 
+actions required by this paragraph; and 
+(c) measures to ensure that Internal Audit’s monitoring and reviews provide 
+assurance that all remedial actions required by this Order are sufficiently addressed, and that 
+Internal Audit’s risk assessment and testing coverage are sufficiently tailored to the relevant risks 
+in U.S. Operations. 
+Assessment of Civil Money Penalty 
+7. The Board of Governors hereby jointly assesses Credit Suisse  and UBS, as the 
+successor of Credit Suisse Group AG, a civil money penalty in the amount of $268,494,109.20, 
+which shall be paid upon the execution of this Order by Fedwire transfer of immediately 
+available funds to the Federal Reserve Bank of Richmond ABA No.051000033, beneficiary,
+
+13 
+ 
+ 
+Board of Governors of the Federal Reserve System.  This penalty is a penalty paid to a 
+government agency for a violation of law for purposes of 26 U.S.C. § 162(f) and 26 C.F.R. § 
+1.162-21.  The Federal Reserve Bank of Richmond, on behalf of the Board of Governors, shall 
+distribute this sum to the U.S. Department of the Treasury, pursuant to section 8(i) of the FDI 
+Act (12 U.S.C. § 1818(i)). 
+Approval, Implementation, and Progress Reports  
+ 8. (a) T he boards of directors of UBS and CS USA, the GOS Committee, the 
+Risk Committee, and the Branch shall, where applicable, submit plans that are acceptable to the 
+Reserve Bank within the applicable time periods set forth in paragraphs 2, 3, 4, 5, 6, and 7 of this 
+Order.  Each plan shall contain a timeline for full implementation of the plan with specific 
+deadlines for completion of each component of the plan.  Each plan shall also include and clearly 
+identify any requirements under the applicable paragraphs that the firm has previously submitted 
+to and was approved or not objected to by the Reserve Bank.  Each plan shall take into 
+consideration the integration of UBS and Credit Suisse and strategic plans of UBS.  
+(b) Within 10 days of approval by the Reserve Bank, the boards of directors 
+of UBS and CS USA, the GOS Committee, the Risk Committee, and the Branch shall, where 
+applicable, adopt the approved plans.  Upon adoption, the board of directors of UBS and the 
+Bank, CS USA, the Risk Committee, and the Branch shall promptly implement the approved 
+plans and thereafter fully comply with them. 
+(c) During the term of this Order , the approved plans shall not be amended or 
+rescinded without the prior written approval of the Reserve Bank. 
+ 9. Within 45 days after the end of the first full calendar quarter following the date of 
+this Order and each quarter thereafter, the boards of directors of UBS and CS USA, the Risk
+
+14 
+ 
+ 
+Committee, and the Branch shall submit to the Reserve Bank consolidated written progress 
+reports detailing the form and manner of all actions taken to comply with the provisions of this 
+Order, a timetable and schedule to implement specific remedial actions to be taken, and the 
+results thereof.  The Reserve Bank may, in writing, discontinue the requirement for the progress 
+reports, request modification of form or content, or modify the reporting schedule. 
+Accountability for Employees Involved in Misconduct 
+ 
+ 
+10. UBS and Credit Suisse shall not in the future directly or indirectly retain any 
+individual as an officer, employee, agent, consultant, or contractor of Credit Suisse or of any 
+affiliate of Credit Suisse who, based on the investigative record compiled by Credit Suisse, has 
+done all of the following:  (i) participated in the misconduct underlying this Order, (ii) been 
+subject to formal disciplinary action as a result of Credit Suisse’s internal disciplinary review or 
+performance review in connection with the conduct described above, and (iii) either separate 
+from Credit Suisse or had his or her employment legally terminated in connection with the 
+conduct above. 
+11. UBS and Credit Suisse shall continue to cooperate fully with and provide 
+substantial assistance to the Board of Governors, including, but not limited to, the provision of 
+information, testimony, documents, records, and other tangible evidence and perform analyses as 
+directed by the Board of Governors in connection with the investigations of whether separate 
+enforcement actions should be taken against individuals who are or were institution-affiliated 
+parties of Credit Suisse and who were involved in the misconduct underlying this Order.  For 
+purposes of clarity and not limitation, substantial assistance as used in this Order means UBS and 
+Credit Suisse will use its best efforts, as determined by the Board of Governors, to make 
+available for interviews or testimony, as requested by the Board of Governors, present or former
+
+15 
+ 
+ 
+officers, directors, employees, agents, and consultants of UBS and Credit Suisse.  This obligation 
+includes, but is not limited to, sworn testimony pursuant to administrative subpoena as well as 
+interviews with regulatory authorities.  Cooperation under this paragraph shall also include 
+identification of witnesses who, to the knowledge of UBS and Credit Suisse, may have material 
+information regarding the matters under investigation. 
+Primary Contact 
+ 12. Within 10 days of this Order , UBS, CS USA, the GOS Committee, and the Risk 
+Committee shall designate an officer to be responsible for coordinating and submitting to the 
+Reserve Bank the written plans and programs required under the terms of this Order. 
+Communications 
+13. All communications regarding this Order  shall be sent to: 
+(a) Daniel Sullivan 
+Vice President 
+Federal Reserve Bank of New York 
+33 Liberty Street 
+New York, NY 10045 
+(b) Jason A. Gonzalez 
+Assistant General Counsel 
+Board of Governors of the Federal Reserve System 
+Washington, DC 20551 
+(c) Sergio Ermotti 
+Chief Executive Officer 
+UBS Group AG 
+Bahnhofstrasse 45  
+8001 Zurich, Switzerland 
+(d) Colm Kelleher 
+Chair, Board of Directors 
+UBS Group AG 
+Bahnhofstrasse 45 
+8001 Zurich, Switzerland 
+(e) Tom Wipf 
+Chief Executive Officer
+
+16 
+ 
+ 
+Credit Suisse Holdings (USA), Inc. 
+11 Madison Avenue 
+New York, NY 10010 
+(f) John McDonald 
+Branch Manager and Managing Director 
+Credit Suisse AG New York Branch 
+11 Madison Avenue 
+New York, NY 10010 
+(g) Kirt Gardner 
+ Chair, Board of Directors 
+Credit Suisse Holdings (USA), Inc. 
+11 Madison Avenue 
+New York, NY 10010 
+Miscellaneous 
+ 14. Notwithstanding any provision of this Order  to the contrary, the Reserve Bank 
+may, in its sole discretion, grant written extensions of time to UBS, the Bank, CS USA, and the 
+Branch to comply with any provision of this Order.  UBS, the Bank, CS USA, and the Branch 
+must submit a written request to the Reserve Bank for any extension of time. 
+ 15. The provisions of this Order  shall be binding on UBS, the Bank, CS USA, and the 
+Branch and each of their institution-affiliated parties, as defined in sections 3(u) and 8(b)(3) and 
+(4) of the FDI Act, as amended (12 U.S.C. §§ 1813(u) and 1818(b)(3) and 1818(b)(4)), in their 
+capacities as such, and their successors and assigns. 
+ 16. Each provision of this Order  shall remain effective and enforceable until stayed, 
+modified, terminated, or suspended in writing by the Board of Governors. 
+ 17. The provisions of this Order  shall not bar, estop, or otherwise prevent the Board 
+of Governors, the Reserve Bank, or any other federal or state agency from taking any other 
+action affecting UBS, the Bank, CS USA, the Branch, any of their subsidiaries, or any of their 
+current or former institution-affiliated parties and their successors and assigns.
+
+17 
+ 
+ 
+ 18. This Order does not supersede the Written Agreement entered into between Credit 
+Suisse Group AG, the Bank, CS USA, the Branch, and the Reserve Bank dated December 22, 
+2020. 
+By Order of the Board of Governors of the Federal Reserve System effective as of the 
+21st day of July, 2023 
+ 
+UBS GROUP AG  BOARD OF GOVERNORS OF THE 
+FEDERAL RESERVE SYSTEM 
+By:    /s      By:   /s      
+ 
+ 
+ 
+Name: Ulrich Körner Ann E. Misback 
+Title: Member of Group Executive Board  Secretary of the Board  
+By:    /s      
+ 
+ 
+ 
+Name: David Kelly  
+Title: Head of Transactions and Disclosure Counsel  
+ 
+CREDIT SUISSE AG     
+      
+By:    /s    
+ Name: Ulrich Körner  
+ Title: CEO Credit Suisse AG 
+ 
+By:    /s    
+ Name: Jake Scrivens  
+ Title: Member of the Executive Board
+
+18 
+ 
+ 
+CREDIT SUISSE HOLDINGS (USA), INC. 
+ 
+By:    /s    
+  
+  
+  
+ Name: Patrick Shilling  
+ Title: General Counsel Americas 
+ 
+ 
+By:    /s  
+ Name: Thomas Wipf  
+ Title: Chief Executive Officer 
+ 
+ 
+CREDIT SUISSE AG, NEW YORK BRANCH 
+ 
+By:   /s  
+         Name: John J. McDonald, Jr.  
+ Title: Branch Manager & Authorized Signatory 
+ 
+ 
+By:   /s  
+         Name: Patrick A. Remmert, Jr.  
+ Title: Managing Director & Authorized Signatory

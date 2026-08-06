@@ -1,0 +1,507 @@
+# Relevé trimestriel supplémentaire vie (LF4) – Instructions
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Sociétés d’assurance
+
+Relevé
+
+Relevés et instructions des sociétés d’assurance vie
+
+Dernière révision
+
+Décembre 2024
+
+Numéro de relevé
+
+LF4
+
+Documentation
+
+* [Relevés des sociétés d’assurance vie](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-societes-dassurance-vie)
+* [Relevé trimestriel supplémentaire - Lettre (2022)](/fr/consignes/repertoire-consignes/releve-trimestriel-supplementaire-lettre-2022)
+* [Relevé trimestriel supplémentaire vie (LF4) - Relevé des modifications](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-trimestriel-supplementaire-vie-lf4-releve-modifications)
+
+## Relevés
+
+[LF4 - Relevé trimestriel supplémentaire vie (XLSX, 866 Ko)](/sites/default/files/documents/2024-lf4-rtn-quarterly-rtn-rlv-trimestriel-fr_0.xlsx "2024-lf4-rtn-quarterly-rtn-rlv-trimestriel-fr_0.xlsx")
+
+Les instructions détaillées figurant dans le présent guide ont pour but de clarifier les exigences de production afin d’aider les assureurs et les sociétés de secours mutuels à remplir le relevé. Il convient de préciser que ces instructions ne visent que certaines pages et certains champs du relevé trimestriel supplémentaire Vie (LF4). Sauf indication contraire, les instructions s’adressent à l’ensemble des assureurs et sociétés de secours mutuels, sans égard à leur territoire de constitution.
+
+Toute mention de « page » renvoie à une page du relevé LF4.
+
+## A. Vue d’ensemble
+
+Le relevé LF4 sert à recueillir des points de données qui ne figurent pas dans les relevés réglementaires (LF1, LF2, LF3) et qui sont requis aux fins de calcul de différents indicateurs selon l’IFRS 17 pour les sociétés d’assurance vie. Le relevé LF4 comprend les onglets de saisie suivants:
+
+* 20010 Obligations
+* 20020 Prêts hypothécaires
+* 20030 Prêts
+* 20040 Écart Rés. Pré. Sans par.
+* 20050 Écart Rés. Pré. Avec par.
+* 20060 Chang. Hypo. Sans par.
+* 20070 Chang. Hypo. Avec par.
+* 20080 Concil. Fonds distincts
+* 20090 Concil. Act. sous gestion
+* 20100 Concil. Act. sous admin.
+* 20200 Conciliation des passifs
+* 20300 Soldes des états financ.
+* 20400 Ventes et primes
+* 20500 Autres données suppl.
+* 30010 Commentaires
+
+Les données doivent donc être saisies dans ces onglets. **Aucune ligne ou colonne ne doit être ajoutée ou supprimée dans ces onglets.**
+
+Sauf indication contraire :
+
+* les valeurs doivent être arrondies au millier près;
+* les bénéfices, produits, charges, volumes et variations (conciliation) doivent être déclarés en cumul annuel;
+* les valeurs liées à l’état de la situation financière doivent être établies à la fin de la période courante ou à la fin de la période de l’exercice précédent (p. ex., période courante T3 2023; période précédente T3 2022).
+
+Dans bien des cas, le Bureau du surintendant des institutions financières (BSIF) déterminera les données trimestrielles relatives aux bénéfices, aux produits, aux charges et aux variations au moyen de la formule suivante : cumul annuel du trimestre courant moins cumul annuel du trimestre précédent. La détermination des variations trimestrielles permettra d’analyser les tendances trimestrielles.
+
+Par ailleurs, le BSIF est conscient que, dans certains cas, il peut être nécessaire d’effectuer des répartitions pour déclarer des données à un niveau plus détaillé qu’à l’échelle de l’entreprise. Les répartitions effectuées (et les méthodes utilisées) doivent être indiquées dans l’encadré prévu à cet effet à la page 30010 Commentaires. C’est également à cette page qu’il faut indiquer toute autre hypothèse utilisée et tout autre commentaire qui, selon l’assureur, doit figurer dans le relevé.
+
+Outre les onglets de saisie, les trois premiers onglets du relevé (10010 Bilan, 10020 Princip. volumes Branches, 10030 Rentabilité) présentent succinctement les indicateurs qui seront produits à l’aide des points de données du relevé LF4, et de ceux des relevés LF1, LF2 et LF3.
+
+Les instructions et définitions ci-après portent sur les nouveaux points de données du relevé LF4 et sont présentées par onglet de saisie. Consulter les guides de production des relevés LF1, LF2 et LF3 pour obtenir les instructions et les définitions afférentes aux points de données à l’échelle de l’entreprise qui figurent également dans ces relevés.
+
+## B. Définitions générales
+
+**Segment** : Un certain nombre d’indicateurs sont ventilés par segment. Les différents segments sont les suivants:
+
+* Canada
+* États Unis
+* Europe (Royaume-Uni et Irlande compris)
+* Asie
+* Réassurance (si considérée comme un secteur d’activité)
+* Autres (y compris les ajustements de consolidation, les blocs de polices en liquidation et le compte de l’entreprise)
+
+La définition du segment doit correspondre à celle figurant dans les notes afférentes aux états financiers de l’IFF. Au besoin, les données de plus d’un segment des états financiers peuvent être déclarées dans les segments susmentionnés. Par exemple, si toutes les activités d’une IFF sont au Canada et que cette dernière déclare trois segments (Vie, Rentes et Compte de l’entreprise), les données des segments Vie et Rentes doivent être déclarées dans le segment Canada et les données du segment Compte de l’entreprise, dans le segment Autres. Les assureurs qui doivent déclarer un segment de gestion d’actifs doivent l’inclure dans le segment Autres.
+
+## C. Onglets de présentation des indicateurs
+
+La liste des différents indicateurs et leur numéro sont indiqués aux onglets 10010, 10020 et 10030. On y trouve les informations suivantes:
+
+* **No**: numéro de l’indicateur
+* **Indicateur**: description ou nom de l’indicateur
+* **Formule ou description de l’indicateur (à l’échelle de l’entreprise)**: formule, à proprement parler, de l’indicateur à l’échelle de l’entreprise (et non du segment) exprimée selon les points de données des relevés réglementaires LF1, LF2 et LF3, et description des points de données du relevé LF4
+* **Niveau de granularité:**  niveau de granularité auquel l’indicateur sera calculé (à l’échelle de l’entreprise, ventilé par segment, etc.)
+* **Période**: période pour laquelle l’indicateur est calculé (cumul annuel, fin du trimestre courant, etc.)
+
+## D. Onglets de saisie
+
+### Page 20010 – Obligations
+
+Les obligations déclarées à la fin du trimestre courant doivent correspondre à celles déclarées dans le relevé LF2, page 21012, ligne 479, colonne 40. Si l’obligation a été notée par une agence de notation externe, utiliser la même note que celle indiquée dans le relevé afférent au test de suffisance du capital des sociétés d’assurance vie (TSAV). En l’absence de notation externe, utiliser la note interne. Inscrire la valeur au bilan des obligations par catégorie de note dans la colonne 01. Le pourcentage du total des obligations que représente chaque catégorie est calculé automatiquement dans la colonne 02.
+
+Vérifications:
+
+* Le total de la colonne 01 doit être égal au montant inscrit dans le relevé LF2, page 21012, ligne 479, colonne 40.
+
+### Page 20020 – Prêts hypothécaires
+
+Les prêts hypothécaires déclarés à la fin du trimestre courant doivent correspondre à ceux déclarés dans le relevé LF2, page 21012, ligne 500, colonne 40. Si le prêt hypothécaire a été noté par une agence de notation externe, utiliser cette note. En l’absence de notation externe, utiliser la note interne. En l’absence de notation interne, classer le prêt hypothécaire comme « Non noté ».
+
+Inscrire la valeur au bilan des prêts hypothécaires par catégorie de note dans les colonnes 01 et 02, en faisant la distinction entre les prêts qui ne sont pas couverts par l’assurance prêt hypothécaire (non assurés) et ceux qui le sont (assurés). Le pourcentage de la valeur totale au bilan des prêts hypothécaires que représente chaque catégorie de note (somme des colonnes 01 et 02) est calculé automatiquement dans la colonne 03.
+
+Vérifications:
+
+* Le total des colonnes 01 et 02 doit être égal au montant inscrit dans le relevé LF2, page 21012, ligne 500, colonne 40.
+
+### Page 20030 – Prêts
+
+Les prêts déclarés à la fin du trimestre courant doivent correspondre à ceux déclarés dans le relevé LF2, page 21012, ligne 810, colonne 40. Les prêts immobiliers commerciaux sont inclus dans les prêts. Si le prêt a été noté par une agence de notation externe, utiliser cette note. En l’absence de notation externe, utiliser la note interne. En l’absence de notation interne, classer le prêt comme « Non noté ». Inscrire la valeur au bilan des prêts par catégorie de note dans la colonne 01. Le pourcentage du total des prêts que représente chaque catégorie de note est calculé automatiquement dans la colonne 02.
+
+Vérifications:
+
+* Le total de la colonne 01 doit être égal au montant inscrit dans le relevé LF2, page 21012, ligne 810, colonne 40.
+
+### Page 20040 – Écarts entre résultats et prévisions afférents aux contrats sans participation
+
+Cette page contient un tableau distinct pour chaque segment, et un tableau pour le total à l’échelle de l’entreprise. Dans les champs prévus à cet effet, inscrire les écarts (en cumul trimestre) entre les résultats techniques réels et les hypothèses de meilleure estimation pendant l’exercice courant pour les contrats sans participation, ventilés comme suit :
+
+* Mortalité
+* Morbidité
+* Longévité
+* Charges
+* Investissement
+* Comportement des titulaires de polices
+* Assurance combinée
+* Assurance combinée et comportement des titulaires de polices
+* Autres
+
+Les écarts entre résultats et prévisions doivent être déclarés nets de la réassurance. S’il est impossible de déclarer séparément les écarts entre résultats et prévisions liés à la mortalité, à la morbidité et à la longévité, indiquer les écarts combinés sous « Assurance combinée ». S’il est impossible de déclarer séparément les écarts entre résultats et prévisions liés à la mortalité, à la morbidité, à la longévité et au comportement des titulaires de polices, indiquer les écarts combinés sous « Assurance combinée et comportement des titulaires de polices ». **Si l’une de ces deux catégories doit être utilisée, il faut en informer le chargé de surveillance. Dans la plupart des cas, le chargé de surveillance demandera un plan pour être en mesure de fournir la ventilation par catégorie dans un délai raisonnable.**
+
+Les lignes d'investissement doivent inclure tous les impacts d'investissement non liés à l'excédent. De plus :
+
+* L’incidence, d’un trimestre à l’autre, des fluctuations du marché (y compris les taux d’actualisation) doit être déclarée aux lignes « Investissement » **des pages 20040 et 20050**. Les changements apportés aux hypothèses (par exemple, les ajustements attribuables aux différences des caractéristiques de liquidité entre le portefeuille de référence et les contrats d’assurance) servant à calculer les taux d’actualisation doivent être déclarés aux lignes « Investissement » **des pages 20060 et 20070**.
+
+Les écarts entre résultats et prévisions constatés au cours de la période de déclaration sont ventilés comme suit:
+
+* Pris en compte comme produits (écarts entre résultats et prévisions liés à la période courante ou aux périodes précédentes) :
+  + soit dans le résultat des activités d’assurance;
+  + soit dans le résultat d’investissement net (gains et pertes de placement);
+* Non pris en compte comme produits, mais reportés dans la marge sur services contractuels (liés aux périodes futures).
+
+Déclarer le total des écarts entre résultats et prévisions à l’échelle de l’entreprise par catégorie, puis ventiler ces écarts par segment dans les tableaux prévus à cet effet.
+
+Les incidences des autres éléments du résultat global (AERG) doivent être incluses dans cette page.
+
+Vérifications:
+
+* La somme des tableaux Canada, États-Unis, Europe, Asie, Réassurance et Autres est égale au total du tableau Entreprise.
+
+### Page 20050 – Écarts entre résultats et prévisions afférents aux contrats avec participation
+
+Voir les instructions qui précèdent sur les écarts entre résultats et prévisions afférents aux contrats sans participation. Les tableaux relatifs aux contrats avec participation font une distinction supplémentaire pour les écarts pris en compte dans le résultat des activités d’assurance, les écarts pris en compte dans le résultat d’investissement net et les écarts reportés dans la marge sur services contractuels (MSC) entre les sous comptes suivants:
+
+* Sous-compte ouvert aux nouvelles polices : contrats ou contrats avec participation toujours ouverts à de nouvelles polices après la démutualisation.
+* Sous-compte fermé aux nouvelles polices : contrats ou contrats avec participation non ouverts à de nouvelles polices après la démutualisation.
+* Comptes de contrats avec participation fermés démutualisés : contrats fermés au moment de la démutualisation.
+
+L’assureur doit déclarer les informations pour chaque sous compte existant. Si l’assureur a plus de sous comptes que ceux indiqués dans le tableau, combiner les sous comptes sous le sous compte qui convient le mieux. Par exemple, si l’assureur a plusieurs sous-comptes ouverts à de nouvelles polices après la démutualisation, le total de ces sous comptes doit être inscrit dans la colonne « Sous compte ouvert aux nouvelles polices ». Le détail des sous comptes combinés doit être indiqué dans le champ de commentaires sous chaque tableau. De même, si l’assureur a amalgamé des comptes qui sont difficiles à déclarer séparément, il doit indiquer la nature et la portée de l’amalgame dans le champ de commentaires sous chaque tableau. S’il n’y a pas suffisamment d’espace dans le champ de commentaires, il faut y insérer un document WORD ou EXCEL détaillé.
+
+Les informations sur les comptes auxiliaires liés aux blocs fermés démutualisés doivent être incluses.
+
+Impacts d’investissement :
+
+* L’incidence, d’un trimestre à l’autre, des fluctuations du marché (y compris les taux d’actualisation) doit être déclarée aux lignes « Investissement » **des pages 20040 et 20050**. Les changements apportés aux hypothèses (par exemple, les ajustements attribuables aux différences des caractéristiques de liquidité entre le portefeuille de référence et les contrats d’assurance) servant à calculer les taux d’actualisation doivent être déclarés aux lignes « Investissement » **des pages 20060 et 20070**.
+
+Le total de chaque sous compte doit ensuite être ventilé selon l’élément auquel le total des écarts sera affecté:
+
+* Excédent
+* Réserve pour stabilisation des participations (RSP)
+* Autres
+
+Pour les écarts affectés à Autres, déclarer le montant total affecté dans le tableau principal, puis préciser les différents postes auxquels les écarts ont été affectés dans le tableau « Détail des écarts » à droite. La catégorie « Autres » comprend les virements au compte des actionnaires.
+
+Les incidences des autres éléments du résultat global (AERG) doivent être incluses dans cette page.
+
+Vérifications:
+
+* La somme des tableaux Canada, États-Unis, Europe, Asie, Réassurance et Autres est égale au total du tableau Entreprise.
+* La somme des montants affectés à l’excédent, à la RSP et à Autres est égale au total des écarts entre résultats et prévisions par sous compte.
+
+### Page 20060 – Changements apportés aux hypothèses afférentes aux contrats sans participation
+
+Indiquer les changements (en cumul trimestre) apportés aux hypothèses de meilleure estimation des flux de trésorerie attendus, de l’ajustement au titre du risque et de la marge sur services contractuels, ainsi que les changements apportés aux méthodes de calcul du passif des contrats d’assurance. Déclarer les changements dans la catégorie applicable :
+
+* Mortalité (assurance)
+* Morbidité
+* Longévité (rentes)
+* Charges
+* Investissement
+* Comportement des titulaires de polices
+* Assurance combinée
+* Assurance combinée et comportement des titulaires de polices
+* Mesures prises par la direction
+* Changements apportés aux modèles et aux méthodes
+* Erreurs
+* Autres
+
+Les changements apportés aux hypothèses doivent être déclarés nets de la réassurance. S’il est impossible de déclarer séparément les changements apportés aux hypothèses liées à la mortalité, à la morbidité et à la longévité, indiquer les gains et pertes combinés sous « Assurance combinée ». S’il est impossible de déclarer séparément les changements apportés aux hypothèses liées à la mortalité, à la morbidité, à la longévité et au comportement des titulaires de polices, indiquer les gains et pertes combinés sous « Assurance combinée et comportement des titulaires de polices ». **Si l’une de ces deux catégories doit être utilisée, il faut en informer le chargé de surveillance. Dans la plupart des cas, le chargé de surveillance demandera un plan pour être en mesure de fournir la ventilation par catégorie dans un délai raisonnable.**
+
+Les lignes d'investissement doivent inclure tous les impacts d'investissement non liés à l'excédent.
+
+Les mesures prises par la direction renvoient à des mesures précises qui influent sur la valeur du passif des contrats d’assurance, comme les changements de prix des produits, les changements de structure de frais de gestion, les accords de réassurance nouveaux ou révisés visant des contrats en vigueur, les acquisitions et les ventes de blocs de polices, etc. La catégorie « Autres » sert à consigner les changements qui ne peuvent être classés dans aucune des autres catégories.
+
+Les changements apportés aux hypothèses sont ventilés comme suit:
+
+* Pris en compte comme produits dans les résultats d’assurance (liés à la période courante ou aux périodes précédentes) :
+  + soit dans le résultat des activités d’assurance;
+  + soit dans le résultat d’investissement net (changements apportés aux hypothèses d’investissement);
+* Non pris en compte comme produits, mais reportés dans la marge sur services contractuels (liés aux périodes futures).
+
+Déclarer le total des changements apportés aux hypothèses à l’échelle de l’entreprise par catégorie, puis ventiler ces changements par segment dans les tableaux prévus à cet effet.
+
+Les incidences des autres éléments du résultat global (AERG) doivent être incluses dans cette page.
+
+Vérifications:
+
+* La somme des tableaux Canada, États-Unis, Europe, Asie, Réassurance et Autres est égale au total du tableau Entreprise.
+
+### Page 20070 – Changements apportés aux hypothèses afférentes aux contrats avec participation
+
+Voir les instructions qui précèdent sur les changements apportés aux hypothèses afférentes aux contrats sans participation et sur les écarts entre résultats et prévisions afférents aux contrats avec participation.
+
+### Page 20080 – Conciliation des fonds distincts
+
+Indiquer les variations (en cumul annuel) liées à l’assurance individuelle et à l’assurance collective dans les colonnes 01 et 02 respectivement pour chaque tableau, en précisant le solde d’ouverture au début de l’exercice courant et le solde de clôture à la fin du trimestre courant. La différence entre le solde d’ouverture et le solde de clôture tient compte des variations (en cumul annuel) des fonds distincts suivantes :
+
+* Entrées : apports en numéraire aux fonds distincts, comme les dépôts.
+* Sorties : paiements en numéraire provenant des fonds distincts, comme les rachats.
+* Changements liés au marché : changements de la valeur des fonds distincts découlant des gains et pertes non réalisés et des gains et pertes réalisés.
+* Autres : autres variations influant sur la valeur des fonds distincts, comme les charges, les frais, les ajustements de consolidation, les transferts entre les fonds distincts et les fonds généraux, ou les revenus d’intérêts et de dividendes.
+
+Inscrire le total des soldes et des variations des fonds distincts à l’échelle de l’entreprise ainsi que la ventilation par segment dans les tableaux prévus à cet effet.
+
+Vérifications:
+
+* La somme des tableaux Canada, États-Unis, Europe, Asie, Réassurance et Autres est égale au total du tableau Entreprise.
+
+### Page 20090 – Conciliation des actifs sous gestion (à l’exception des actifs de fonds généraux et des actifs de fonds distincts)
+
+Cette page contient un tableau distinct pour chaque segment, et un tableau pour le total à l’échelle de l’entreprise. Aux fins du relevé LF4, les actifs sous gestion sont des actifs qui sont gérés par un assureur, ou par une société de gestion ou de placement d’actifs appartenant à un assureur, pour le compte d’un particulier, d’un groupe, d’une société de personnes ou d’une société par actions. Ils comprennent les fonds communs de placement, les fonds négociés en Bourse (FNB), les fiducies de placement immobilier (FPI), etc. Le risque lié aux placements ou le risque de crédit afférent à ces actifs est assumé par l’investisseur. Ces actifs doivent être ventilés entre les catégories suivantes :
+
+* Particuliers : actifs sous gestion, tels que définis ci-dessus, pour lesquels les investisseurs sont des particuliers.
+* Institutions : actifs sous gestion, tels que définis ci-dessus, pour lesquels les investisseurs sont des institutions qui investissent au nom d’autres investisseurs ou clients.
+* Autres : actifs sous gestion, tels que définis ci-dessus, qui ne peuvent être classés ni dans la catégorie « Particuliers » ni dans la catégorie « Institutions » (p. ex., des fonds mixtes combinant fonds de particuliers et fonds d’institutions); ils comprennent les actifs de produits collectifs pour lesquels les porteurs de parts individuels peuvent faire des choix de placement.
+* Ajustements de consolidation : ajustements visant à éliminer les répercussions des opérations entre apparentés qui ont pour effet de surévaluer la valeur des actifs sous gestion et des variations qui s’y rattachent.
+
+Le solde d’ouverture est le solde au début de l’exercice précédent, et le solde de clôture est le solde à la fin du trimestre courant. Pour passer du solde d’ouverture au solde de clôture, indiquer les variations suivantes (en cumul annuel) pour chaque catégorie d’actifs sous gestion :
+
+* Entrées: apports en numéraire, comme les dépôts.
+* Sorties: paiements en numéraire aux porteurs de parts, comme les rachats.
+* Changements liés au marché : changements de la valeur des actifs sous gestion découlant des gains et pertes non réalisés et des gains et pertes réalisés.
+* Autres: autres variations influant sur la valeur des actifs sous gestion, comme les charges, les frais, ou les revenus d’intérêts et de dividendes.
+
+Inscrire le total des actifs sous gestion et des variations à l’échelle de l’entreprise ainsi que la ventilation par segment dans les tableaux prévus à cet effet.
+
+Vérifications:
+
+* La somme des tableaux Canada, États-Unis, Europe, Asie, Réassurance et Autres est égale au total du tableau Entreprise.
+
+### Page 20100 – Conciliation des actifs sous administration
+
+Aux fins du relevé LF4, les actifs sous administration sont des actifs qui sont administrés plutôt que gérés par un assureur, ou par une société de gestion ou de placement d’actifs appartenant à un assureur.
+
+Voir les instructions relatives aux actifs sous gestion ci-dessus pour connaître la définition des variations et des soldes d’ouverture et de clôture.
+
+Vérifications:
+
+* La somme des tableaux Canada, États-Unis, Europe, Asie, Réassurance et Autres est égale au total du tableau Entreprise.
+
+### Page 20200 – Conciliation des passifs – Soldes par segment
+
+Cette page présente la ventilation, par segment, des différents soldes figurant dans les pages afférentes à la conciliation des passifs du relevé LF1. La colonne « Données de référence » du tableau renvoie aux points de données du relevé LF1 pour lesquels une ventilation par segment est requise. Les références sont indiquées dans l’ordre suivant : relevé, numéro de page, numéro de ligne et numéro de colonne. Ainsi, une référence à la page 20012, ligne 099, colonne 10 du relevé LF1 serait indiquée comme suit : LF1.P20012-099-10. Les données recueillies à partir de cette page seront utilisées dans le calcul des indicateurs no 4, 5, 6, 8, 9 et 10.
+
+Vérifications:
+
+* La somme de tous les segments de chaque ligne du tableau est égale aux données de référence du relevé LF1 indiquées dans le tableau.
+* La somme de tous les segments de chaque ligne du tableau de la période précédente est égale aux données de référence du relevé LF1 indiquées dans le tableau **pour le T4 seulement.**
+
+#### Remarque sur le montant de la période précédente
+
+À compter de 2024, les variations (en cumul annuel) de l’exercice précédent pour les trois premiers trimestres pourront être vérifiées au moyen du relevé LF1 de l’exercice précédent. Il convient de vérifier que la somme de tous les segments est égale aux données de référence du relevé LF1 (en cumul annuel) pour la période courante dans le relevé LF1 de l’exercice précédent pour la même période. **Si, en raison d’un redressement, les variations et les soldes de l’exercice précédent pour les éléments de conciliation des passifs diffèrent de ceux déclarés pour l’exercice précédent, il faut en informer le chargé de surveillance.**
+
+### Page 20300 – Soldes des états financiers par segment
+
+Cette page présente la ventilation, par segment, des divers soldes figurant des les pages afférentes aux états financiers de base du relevé LF1. La colonne « Données de référence » du tableau renvoie aux points de données du relevé LF1 pour lesquels une ventilation par segment est requise. Les données recueillies à partir de cette page seront utilisées dans le calcul des indicateurs no 28, 30, 31 et 33.
+
+Nota:
+
+* Les données d’entrée de l’indicateur no 28a ne s’appliquent qu’aux sociétés d’assurances par actions.
+* Les données d’entrée de l’indicateur no 28b s’appliquent aux sociétés mutuelles et aux sociétés par actions.
+* Les données d’entrée de l’indicateur no 28c s’appliquent aux succursales.
+* Pour l’indicateur no 31, on peut trouver les éléments de données à l’échelle de l’entreprise (LF1) et à l’échelle du Canada, des États-Unis et de l’Europe (LF2) dans les relevés LF1 et LF2. Seuls le résultat des activités d’assurance et les produits des activités d’assurance de l’exercice courant (en cumul annuel) pour l’Asie et les segments Réassurance et Autres (y compris les ajustements de consolidation) doivent être fournis.
+
+Vérifications:
+
+* La somme de tous les segments de chaque ligne du tableau est égale aux données de référence du relevé LF1 indiquées dans le tableau.
+* La somme du résultat des activités d’assurance pour l’Asie et les segments Réassurance et Autres (y compris les ajustements de consolidation) plus LF2, page 35015, ligne 130, colonne 99; LF2, page 35025, ligne 130, colonne 60; et LF2, page 35025, ligne 130, colonne 70 correspond aux données du relevé LF1, page 20022, ligne 199, colonne 01.
+* La somme des produits des activités d’assurance pour l’Asie et les segments Réassurance et Autres (y compris les ajustements de consolidation) plus LF2, page 35015, ligne 099, colonne 99; LF2, page 35025, ligne 099, colonne 60; et LF2, page 35025, ligne 099, colonne 70 correspond aux données du relevé LF1, page 20022, ligne 099, colonne 01.
+* La somme de l’actif net des fonds distincts de la période courante par segment (indicateur no 33) est égale à la somme des colonnes 01 et 02 de la ligne 006 du tableau Entreprise à la page 20080 Concil. Fonds distincts.
+* L’actif net des fonds distincts de la période précédente par segment est égal aux soldes du tableau du segment correspondant à la page 20080 Concil. Fonds distincts.
+
+### Page 20400 – Ventes et primes par branche d’assurance et par segment
+
+#### Ventes par branche d’assurance et par segment
+
+Se référer aux définitions de la Life Insurance Market Research Association (LIMRA) pour consigner les ventes. Les IFF qui ne déclarent pas leurs données à la LIMRA doivent utiliser leurs définitions internes. Toutefois, **il faut alors en informer le chargé de surveillance et lui envoyer les définitions utilisées par l’IFF par courriel.**
+
+Ventiler les ventes (en cumul annuel) de l’exercice courant et de l’exercice précédent comme suit:
+
+* Total
+* Assurance vie individuelle sans participation
+* Assurance vie individuelle avec participation
+* Rente individuelle (à l’exclusion des fonds distincts), y compris les transferts et les reports
+* Fonds distincts, y compris les transferts et les reports
+* Assurance maladie individuelle
+* Autre assurance individuelle sans participation
+* Autre assurance individuelle avec participation
+* Rente collective
+* Fonds distincts collectifs
+* Assurance vie collective
+* Assurance maladie collective
+* Autre assurance collective sans participation
+* Autre assurance collective avec participation
+* Services administratifs seulement (SAS)
+* Autres
+
+Les ventes doivent aussi être ventilées par segment.
+
+Toute vente d’assurance individuelle qui ne peut être classée dans aucune des catégories d’assurance individuelle doit être classée dans la catégorie « Autre assurance individuelle sans participation » ou « Autre assurance individuelle avec participation », selon le cas. Toute vente d’assurance collective qui ne peut être classée dans aucune des catégories d’assurance collective doit être classée dans la catégorie « Autre assurance collective sans participation » ou « Autre assurance collective avec participation », selon le cas. La catégorie « Autres » est quant à elle utilisée pour les ventes de réassurance, etc.
+
+Vérifications:
+
+* La somme des ventes (en cumul annuel) du trimestre courant par catégorie pour chaque segment et à l’échelle de l’entreprise (total des segments) est égale au total de chaque segment et à l’échelle de l’entreprise.
+* La somme des ventes (en cumul annuel) du trimestre courant par segment est égale au total des ventes à l’échelle de l’entreprise pour chaque catégorie de ventes.
+* La somme des ventes (en cumul annuel) du trimestre précédent par catégorie pour chaque segment et à l’échelle l’entreprise (total des segments) est égale au total de chaque segment et à l’échelle de l’entreprise.
+* La somme des ventes (en cumul annuel) du trimestre précédent par segment est égale au total des ventes à l’échelle de l’entreprise pour chaque catégorie de ventes.
+
+##### Primes brutes par branche d’assurance et par segment
+
+Les primes d’assurance brutes déclarées dans le relevé LF4 doivent être conformes à la définition de prime brute selon l’IFRS 4.
+
+Ventiler le cumul annuel des primes d’assurance brutes pour le trimestre courant et l’exercice précédent comme suit:
+
+* Total
+* Assurance vie individuelle sans participation
+* Assurance vie individuelle avec participation
+* Assurance maladie individuelle
+* Assurance individuelle contre les accidents et la maladie
+* Assurance vie collective
+* Assurance maladie collective
+* Assurance multirisque
+* Réassurance
+
+Les primes brutes doivent aussi être ventilées par segment.
+
+Vérifications:
+
+* La somme des primes brutes (en cumul annuel) du trimestre courant par catégorie pour chaque segment et à l’échelle de l’entreprise (total des segments) est égale au total de chaque segment et à l’échelle de l’entreprise.
+* La somme des primes brutes (en cumul annuel) du trimestre courant par segment est égale au total des primes brutes à l’échelle de l’entreprise pour chaque catégorie de primes brutes.
+* La somme des primes brutes (en cumul annuel) du trimestre précédent par catégorie pour chaque segment et à l’échelle de l’entreprise (total des segments) est égale au total de chaque segment et à l’échelle de l’entreprise.
+* La somme des primes brutes (en cumul annuel) du trimestre précédent par segment est égale au total des primes brutes à l’échelle de l’entreprise pour chaque catégorie de primes brutes.
+
+### Page 20500 – Autres données supplémentaires par segment
+
+Cette page recueille des données supplémentaires, par segment, ayant trait à des informations qui ne figurent pas dans les relevés LF1, LF2 ou LF3.
+
+Le montant déclaré sous Enterprise doit être égal à la somme de tous les segments pour chaque ligne.
+
+#### Ajustement au titre du risque net (assurance directe moins réassurance) sur les contrats déficitaires évalués selon la méthode de répartition des primes – Indicateur no 5
+
+Le montant indiqué doit correspondre à l’ajustement supplémentaire au titre du risque visant le passif au titre de la couverture restante des contrats déficitaires évalués selon la méthode de répartition des primes.
+
+#### Répercussions des fluctuations du marché sur la MSC – Indicateur no 12
+
+Indiquer la variation (en cumul annuel) de la MSC au titre des contrats évalués selon la méthode des frais variables (MFV) découlant des fluctuations du marché, par segment et à l’échelle de l’entreprise. Les fluctuations du marché reflètent les variations de la part des actifs sous-jacents de l’IFF qui appuient ces contrats évalués selon la MFV ainsi que les variations découlant des effets des garanties financières pris en compte dans la MSC.
+
+#### Provisions pour prêts – Indicateur no 18
+
+Indiquer uniquement les provisions relatives aux autres prêts. Ce montant doit être un sous-ensemble du montant déclaré dans le relevé LF2, page 21020, ligne 710, colonne 60.
+
+#### Solde débiteur des nouvelles polices – Indicateur no 32
+
+Cet indicateur mesure les bénéfices prévus (en cumul annuel) pour l’exercice courant à la prise d’effet pour les nouvelles polices et représente la somme des éléments suivants:
+
+* Perte comptabilisée à la prise d’effet sur les contrats déficitaires – assurance directe
+* Variation de la MSC liée aux nouvelles polices à la prise d’effet (contrats non déficitaires) – assurance directe
+* Variation de la MSC liée aux nouvelles polices à la prise d’effet (contrats non déficitaires) – réassurance
+* Répercussions, sur le résultat net, de la réassurance comptabilisée à la prise d’effet et liée aux nouveaux contrats d’assurance directe déficitaires
+
+Les éléments ci-dessus doivent être ventilés par segment.
+
+Pour chacun des éléments, inscrire une valeur positive pour une augmentation des bénéfices (ou une réduction des pertes), inscrire une valeur négative pour une réduction des bénéfices (ou une augmentation des pertes).
+
+#### Ratio des frais de gestion (RFG) – fonds distincts – Indicateur no 33
+
+Cet indicateur est calculé à l’échelle de l’entreprise et par segment. Les éléments suivants sont requis pour le numérateur:
+
+* Cumul annuel des frais de gestion payés par les porteurs de parts
+* Cumul annuel des charges et impôts imputés aux fonds distincts
+
+Les éléments ci-dessus doivent être ventilés par segment.
+
+#### Ratio des frais de gestion (RFG) – actifs sous gestion – Indicateurs no 34a à 34c
+
+Ces indicateurs sont calculés à l’échelle de l’entreprise et par segment. Voir les instructions relatives à la page 20090 pour connaître la définition de « Particuliers », « Institutions », « Autres » et « Ajustements de consolidation ».
+
+Les éléments ci-dessous, ventilés par catégorie (« Particuliers », « Institutions », « Autres ») à l’échelle de l’entreprise et par segment, sont requis pour le numérateur:
+
+* Cumul annuel des frais de gestion payés par les porteurs de parts
+* Cumul annuel des charges et impôts imputés aux actifs sous gestion
+
+Les éléments ci-dessous, ventilés par catégorie (« Particuliers », « Institutions », « Autres ») à l’échelle de l’entreprise et par segment, sont requis pour le dénominateur :
+
+* Actifs sous gestion dans le solde d’ouverture de l’exercice courant
+* Actifs sous gestion dans le solde de clôture de la période courante
+
+Vérifications:
+
+* La somme de chacun des éléments ci-dessus par segment doit correspondre à l’élément « Entreprise » pour les actifs sous gestion de la catégorie « Particuliers ».
+* La somme de chacun des éléments ci-dessus par segment doit correspondre à l’élément « Entreprise » pour les actifs sous gestion de la catégorie « Institutions ».
+* La somme de chacun des éléments ci-dessus par segment doit correspondre à l’élément « Entreprise » pour les actifs sous gestion de la catégorie « Autres » .
+* Les actifs sous gestion dans le solde d’ouverture de la catégorie « Particuliers » pour chaque segment et à l’échelle de l’entreprise doivent correspondre aux soldes d’ouverture correspondants à la page 20090 Concil. Act. sous gestion.
+* Les actifs sous gestion dans le solde d’ouverture de la catégorie « Institutions » pour chaque segment et à l’échelle de l’entreprise doivent correspondre aux soldes d’ouverture correspondants à la page 20090 Concil. Act. sous gestion.
+* Les actifs sous gestion dans le solde d’ouverture de la catégorie « Autres » pour chaque segment et à l’échelle de l’entreprise doivent correspondre aux soldes d’ouverture correspondants à la page 20090 Concil. Act. sous gestion.
+* Les actifs sous gestion dans le solde d’ouverture de la catégorie « Consolidation » pour chaque segment et à l’échelle de l’entreprise doivent correspondre aux soldes d’ouverture correspondants à la page 20090 Concil. Act. sous gestion.
+* Les actifs sous gestion dans le solde de clôture de la catégorie « Particuliers » pour chaque segment et à l’échelle de l’entreprise doivent correspondre aux soldes de clôture correspondants à la page 20090 Concil. Act. sous gestion.
+* Les actifs sous gestion dans le solde de clôture de la catégorie « Institutions » pour chaque segment et à l’échelle de l’entreprise doivent correspondre aux soldes de clôture correspondants à la page 20090 Concil. Act. sous gestion.
+* Les actifs sous gestion dans le solde de clôture de la catégorie « Autres » pour chaque segment et à l’échelle de l’entreprise doivent correspondre aux soldes de clôture correspondants à la page 20090 Concil. Act. sous gestion.
+* Les actifs sous gestion dans le solde de clôture de la catégorie « Consolidation » pour chaque segment et à l’échelle de l’entreprise doivent correspondre aux soldes de clôture correspondants à la page 20090 Concil. Act. sous gestion.
+
+#### Effets des contrats déficitaires – Indicateur no 35
+
+Cet indicateur est calculé à l’échelle de l’entreprise et par segment. Il correspond au ratio des effets des contrats déficitaires divisés par les produits des activités d’assurance nets de la répartition des primes de réassurance. Les assureurs doivent analyser et déclarer les effets des contrats déficitaires au niveau auquel les contrats sont considérés comme étant déficitaires.
+
+Les éléments des effets des contrats déficitaires sont les suivants:
+
+* Effets des contrats déficitaires, à la prise d’effet, liés aux contrats d’assurance directe (perte comptabilisée à la prise d’effet pour un contrat déficitaire qui est égale à l’élément de perte établi à la prise d’effet) – exercice courant (en cumul annuel).
+* Effets des contrats déficitaires, à la prise d’effet, liés aux contrats de réassurance couvrant les contrats d’assurance directe déficitaires sous-jacents (gain correspondant comptabilisé en bénéfices découlant de la couverture, par les contrats de réassurance, des pertes sur les contrats directs sous-jacents. Ce gain correspond à la composante de recouvrement des pertes à la prise d’effet) – exercice courant (en cumul annuel).
+* Pertes et reprise des pertes sur contrats déficitaires après la prise d’effet en lien avec les changements d’hypothèses ou de résultats techniques sur des contrats d’assurance directe déficitaires (modifications subséquentes de l’élément de perte des contrats directs à l’exclusion de l’amortissement de l’élément de perte) – exercice courant (en cumul annuel).
+* Effets, sur les produits, des changements dans la composante de recouvrement des pertes des contrats de réassurance liés à des contrats d’assurance directe déficitaires sous-jacents (après la prise d’effet et en lien avec les changements d’hypothèses ou de résultats techniques, à l’exclusion de l’amortissement) – exercice courant (en cumul annuel).
+
+Les montants consignés pour les éléments susmentionnés doivent exclure l’amortissement de l’élément de perte/de la composante de recouvrement des pertes et la compensation en produits des activités d’assurance/répartition des primes de réassurance.
+
+Le dénominateur comprend deux composantes:
+
+* Produits des activités d’assurance – exercice courant (en cumul annuel)
+* Répartition des primes de réassurance – exercice courant (en cumul annuel)
+
+Voir les instructions relatives à la page 20300 pour obtenir des précisions sur les produits des activités d’assurance. La répartition des primes de réassurance doit être déclarée par segment et à l’échelle de l’entreprise.
+
+#### Indicateur afférent aux charges – Indicateur no 36
+
+Charges directement attribuables (charges afférentes aux activités d’assurance rajustées) plus frais d’exploitation en pourcentage des produits des activités d’assurance plus les autres produits.
+
+Le numérateur correspond aux charges afférentes aux activités d’assurance rajustées, aux frais généraux et aux frais d’exploitation pour l’exercice courant (en cumul annuel), ventilés par segment.
+
+Les charges afférentes aux activités d’assurance rajustées, les frais généraux et les frais d’exploitation correspondent aux charges afférentes aux activités d’assurance, aux frais généraux et aux frais d’exploitation moins les sinistres et les prestations, les pertes et la reprise de pertes sur les contrats déficitaires, les bonifications pour absence de sinistres, les intérêts sur les dépôts des titulaires de polices, les intérêts sur dettes subordonnées, les intérêts sur dettes à long terme et les autres frais d’intérêt.
+
+Vérifications:
+
+* La somme des charges afférentes aux activités d’assurance rajustées, des frais généraux et des frais d’exploitation (en cumul annuel) par segment correspond aux montants figurant dans le relevé LF2, page 23015, lignes 420 et 440, colonne 01 moins les montants figurant à la page 23015, lignes 010, 080, 090, 190, 200, 205 et 210, colonne 01.
+
+Le dénominateur comprend deux composantes :
+
+* Produits des activités d’assurance
+* Autres produits
+
+Voir les instructions relatives à la page 20300 pour obtenir des précisions sur les produits des activités d’assurance. Les autres produits doivent être ventilés par segment.
+
+Vérifications:
+
+* La somme des autres produits (en cumul annuel) par segment doit correspondre au montant figurant dans le relevé LF1, page 20022, ligne 410, colonne 01.
+
+#### Indicateur afférent aux résultats d’investissement – Indicateur no 39
+
+Comparaison du résultat d’investissement à la désactualisation.
+
+Cet indicateur est calculé à l’échelle de l’entreprise et par segment. Les éléments suivants sont requis pour le numérateur:
+
+* Résultat d’investissement sur l’actif auquel sont adossés le passif des contrats d’assurance et de réassurance et les contrats d’investissement, à l’exclusion des fonds distincts, qui est pris en compte dans le rendement d’investissement – exercice courant (en cumul annuel).
+* Gains et pertes non réalisés sur l’actif auquel sont adossés le passif des contrats d’assurance et de réassurance et les contrats d’investissement, à l’exclusion des fonds distincts, qui est pris en compte dans le rendement d’investissement – exercice courant (en cumul annuel).
+* Gains et pertes non réalisés sur l’actif auquel sont adossés le passif des contrats d’assurance et de réassurance et les contrats d’investissement, à l’exclusion des fonds distincts, qui est pris en compte dans les autres éléments du résultat global (AERG) – exercice courant (en cumul annuel).
+
+Les éléments suivants sont requis pour le dénominateur:
+
+* Charges financières et produits financiers nets des contrats d’assurance directe liés à la désactualisation pris en compte dans le résultat d’investissement net – exercice courant (en cumul annuel).
+* Charges financières et produits financiers nets des contrats de réassurance liés à la désactualisation pris en compte dans le résultat d’investissement net – exercice courant (en cumul annuel).
+* Charges financières et produits financiers nets des contrats d’assurance directe liés à la désactualisation pris en compte dans les AERG – exercice courant (en cumul annuel).
+* Charges financières et produits financiers nets des contrats de réassurance liés à la désactualisation pris en compte dans les AERG – exercice courant (en cumul annuel).
+
+La désactualisation ne doit pas refléter les fluctuations du marché.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-12-23

@@ -1,0 +1,120 @@
+# Instructions sur le relevé de suivi mensuel des liquidités intrajournalières
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Liquidités intrajournalières
+
+Dernière révision
+
+4 septembre 2025
+
+Numéro de relevé
+
+BSIF1019-OSFI1019
+
+Table des matières
+
+## Relevés
+
+[BSIF1019-OSFI1019 - Relevé de suivi mensuel des liquidités intrajournalières (XLSX, 76,5 Ko)](/sites/default/files/documents/OSFI1019-BSIF1019-intraday-liquidites-intrajournalieres-rtn-fr.xlsx "OSFI1019-BSIF1019-intraday-liquidites-intrajournalieres-rtn-fr.xlsx")
+
+## Objet
+
+Ce relevé présente les renseignements quotidiens sur les liquidités intrajournalières des institutions déclarantes.
+
+## Fondement législatif
+
+Articles 628 et 950 de la Loi sur les banques (banques et sociétés de portefeuille bancaire, respectivement), article 495 de la Loi sur les sociétés de fiducie et de prêt et article 431 de la Loi sur les associations coopératives de crédit.
+
+## Imputation
+
+Ce relevé s'applique à toutes les institutions de dépôt, à l'exception des succursales de banques étrangères, qui participent directement au système de paiements de grande valeur Lynx.
+
+## Fréquence
+
+Mensuelle
+
+## Personne-ressource
+
+Prière de transmettre toute question sur les activités ou l'interprétation des présentes instructions à Neil Colligan ([neil.colligan@osfi-bsif.gc.ca](mailto:neil.colligan@osfi-bsif.gc.ca)) ou à Adam Dolson ([adam.dolson@osfi-bsif.gc.ca](mailto:adam.dolson@osfi-bsif.gc.ca)), Division des normes de fonds propres et de liquidité des banques.
+
+Pour toute question relative à un problème technique, prière de communiquer avec le service de l'Administration des relevés ([RA-RRS.Support@osfi-bsif.gc.ca](mailto:RA-RRS.Support@osfi-bsif.gc.ca)).
+
+## Échéance
+
+Le relevé doit être rempli pour tous les jours ouvrables du mois précédent et produit dans les 14 jours civils suivant la fin du mois.
+
+## Destinataire
+
+Veuillez transmettre le relevé dûment rempli au BSIF sur le site protégé du Système de déclaration réglementaire.
+
+## Format de la saisie des données
+
+Seules les cellules marquées d'un astérisque (\*) doivent être remplies. Laisser les cellules vides lorsque les données ne sont pas disponibles et/ou manquantes (p. ex., les fins de semaine et autres jours non ouvrables).
+
+## Instructions générales
+
+Les institutions doivent remplir le relevé de suivi mensuel des liquidités intrajournalières à l'aide des méthodes et des calculs décrits au chapitre 7 de la ligne directrice Normes de liquidité (NL) du BSIF.
+
+Le [fichier mensuel de mise en correspondance des liquidités intrajournalières (XLSX, 95,7 Ko)](/sites/default/files/documents/OSFI1019-BSIF1019-intraday-liquidites-intrajournalieres-map-fr.xlsx "OSFI1019-BSIF1019-intraday-liquidites-intrajournalieres-map-fr.xlsx") associe chacune des cellules à remplir dans le fichier plat de relevé à des tableaux plus faciles à lire pour chaque section. Ce fichier est fourni à titre de référence seulement et n'a pas à être soumis par les institutions.
+
+Les instructions propres à chaque section, ainsi que les références aux parties pertinentes du chapitre 7 de la ligne directrice NL, se trouvent dans le tableau ci-dessous :
+
+### Section 1 – Participants directs
+
+Les données doivent être présentées en milliers de dollars canadiens pour Lynx et en milliers de dollars américains pour Fedwire.
+
+À moins d'instructions contraires du BSIF, les institutions ne doivent déclarer les champs de Fedwire que pour la société mère consolidée (y compris la ou les succursales exerçant leurs activités aux États-Unis sur une base consolidée) et n'ont pas à inclure ou à déclarer séparément les filiales américaines détenant des comptes auprès de Fedwire (voir le chapitre 7 de la ligne directrice NL, Champ d'application 7.4(iv)).
+
+Section 1 – Participants directs
+
+|  |  |  |
+| --- | --- | --- |
+| Utilisation quotidienne maximale des liquidités intrajournalières | Les institutions doivent suivre le solde net de tous les paiements effectués et reçus au cours de la journée dans leur compte de règlement auprès de la banque centrale et déclarer les positions cumulatives nettes maximales et minimales.  La position cumulative nette maximale et la position cumulative nette minimale doivent exclure toute opération avec la banque centrale (telle que le paiement du solde d'ouverture de la banque centrale).  La position cumulative nette minimale doit être présentée sous forme de chiffre négatif. Si la position cumulative nette ne se trouve jamais sous zéro durant la journée, la position cumulative nette minimale doit être déclarée comme étant nulle. | Ligne directrice NL, chapitre 7, section 7.2.A(i). Outils de suivi applicables à toutes les institutions déclarantes et CBCB 248 |
+| Liquidités intrajournalières disponibles au début du jour ouvrable | Les institutions doivent déclarer la valeur des liquidités intrajournalières disponibles au début de chaque jour ouvrable de la période visée. Le rapport doit indiquer les sources de liquidités dont dispose l'institution.  La valeur des prêts ou des titres doit être postérieure à toute décote applicable.  Lynx : les institutions doivent déclarer le total des actifs liquides non grevés disponibles dans le bilan de la banque (ligne 4) et, parmi ces actifs, ceux auxquels elles peuvent accéder et qu'elles peuvent liquider au cours des premières heures de la journée (ligne 4a).  Fedwire : les institutions ne doivent que déclarer les actifs liquides non grevés auxquels elles peuvent accéder et qu'elles peuvent liquider au cours des premières heures de la journée (ligne 4).  Lynx : Les actifs liquides non grevés disponibles dans le bilan de la banque (ligne 4) sont assujettis au plafond de 20 % sur les prêts non hypothécaires de la Banque du Canada. La valeur du portefeuille de prêts non hypothécaires excédant le plafond de 20 % peut être inscrite à la ligne Autre (ligne 7). | Ligne directrice NL, chapitre 7, section 7.2.A(ii). Outils de suivi applicables à toutes les institutions déclarantes.  Le paragraphe 7.1.B du chapitre 7 de la ligne directrice NL fournit d'autres précisions sur les sources de liquidités disponibles à inclure. CBCB 248 |
+| Total des paiements | Les institutions doivent déclarer le total de leurs paiements bruts envoyés et reçus chaque jour ouvrable dans le système de paiements de grande valeur.  Les paiements ne doivent pas comprendre ceux effectués vers le compte de l'institution auprès de la banque centrale ou ceux reçus de ce compte.  Les paiements envoyés doivent être présentés sous forme de chiffre négatif, et les paiements reçus, par un chiffre positif. | Ligne directrice NL, chapitre 7, section 7.2.A(iii). Outils de suivi applicables à toutes les institutions déclarantes et CBCB 248 |
+| Obligations à délais précis | Les institutions doivent déclarer la valeur totale des obligations à délais précis qu'elles règlent chaque jour ouvrable comme une indication de l'échelle de ces obligations.  Les obligations à délais précis doivent être déclarées sous forme de chiffre négatif. | Ligne directrice NL, chapitre 7, section 7.2.A(iv). Outils de suivi applicables à toutes les institutions déclarantes et CBCB 248 |
+| Débit intrajournalier (Lynx seulement) | Les institutions doivent déclarer ce qui suit conformément à la méthodologie de Paiements Canada :   * le pourcentage total de la valeur en dollars des messages de paiement quotidiens de Lynx (en milliers de dollars canadiens); * le pourcentage total du volume quotidien de messages de paiement de Lynx   à 10 h, à 13 h et à 16 h 30, heure de l'Est, chaque jour ouvrable. | Ligne directrice NL, chapitre 7, section 7.2.C. Outils de suivi applicables aux institutions qui sont des participants directs et CBCB 248 |
+
+### Section 2 – Recours à un correspondant bancaire (USD, EUR, GBP ou autre, s'il y a lieu)
+
+Les données doivent être présentées en milliers de la monnaie pertinente de chaque correspondant bancaire.
+
+Les institutions doivent déclarer des données séparément pour chaque correspondant bancaire. Si l'institution a recours à un correspondant bancaire qui n'est pas inclus dans le fichier de relevé, veuillez en informer le BSIF et ajouter d'autres lignes dans le fichier plat de données de relevé en suivant la convention de correspondance de l'onglet 2.1.1 du fichier mensuel de mise en correspondance des liquidités intrajournalières (lien ci-dessus).
+
+À moins d'instructions contraires du BSIF, les institutions ne doivent déclarer que les champs des correspondants bancaires pour la société mère consolidée (y compris la ou les succursales étrangères sur une base consolidée) et n'ont pas à inclure ou à déclarer séparément l'utilisation de filiales étrangères par les correspondants bancaires (voir le chapitre 7 de la ligne directrice NL, Champ d'application 7.4(iv)).
+
+Section 2 – Recours à un correspondant bancaire (USD, EUR, GBP ou autre, s'il y a lieu)
+
+|  |  |  |
+| --- | --- | --- |
+| Utilisation quotidienne maximale des liquidités intrajournalières | Les institutions doivent suivre le solde net de tous les paiements effectués et reçus au cours de la journée dans leur compte détenu auprès d'un correspondant bancaire et déclarer les positions cumulatives nettes maximales et minimales.  La position cumulative nette maximale et la position cumulative nette minimale doivent exclure toute opération avec la banque centrale.  La position cumulative nette minimale doit être présentée sous forme de chiffre négatif. Si la position cumulative nette ne se trouve jamais sous zéro durant la journée, la position cumulative nette minimale doit être déclarée comme étant nulle. | Ligne directrice NL, chapitre 7, section 7.2. A(i). Outils de suivi applicables à toutes les institutions déclarantes et CBCB 248 |
+| Liquidités intrajournalières disponibles au début du jour ouvrable | Les institutions doivent déclarer la valeur des liquidités intrajournalières disponibles au début de chaque jour ouvrable de la période visée. Le rapport doit indiquer les sources de liquidités dont dispose l'institution.  La valeur des prêts ou des titres doit être postérieure à toute décote applicable.  Les actifs liquides non grevés disponibles dans le bilan de la banque (ligne 5) ne doivent comprendre que les actifs auxquels l'institution peut avoir accès et qu'elle peut liquider tôt dans la journée. | Ligne directrice NL, chapitre 7, section 7.2. A(ii). Outils de suivi applicables à toutes les institutions déclarantes  Le paragraphe 7.1.B du chapitre 7 de la ligne directrice NL fournit d'autres précisions sur les sources de liquidités disponibles à inclure. CBCB 248 |
+| Total des paiements | Les institutions doivent calculer le total de leurs paiements bruts envoyés et reçus par l'intermédiaire du ou des comptes de correspondants bancaires.  Les paiements ne doivent pas comprendre ceux effectués vers le compte de l'institution auprès de la banque centrale ou ceux reçus de ce compte.  Les paiements envoyés doivent être présentés sous forme de chiffre négatif, et les paiements reçus, par un chiffre positif. | Ligne directrice NL, chapitre 7, section 7.2. A(iii). Outils de suivi applicables à toutes les institutions déclarantes et CBCB 248 |
+| Obligations à délais précis | Les institutions doivent déclarer la valeur totale des obligations à délais précis qu'elles règlent chaque jour ouvrable comme une indication de l'échelle de ces obligations. Les obligations à délais précis doivent être déclarées sous forme de chiffre négatif. | Ligne directrice NL, chapitre 7, section 7.2. A(iv). Outils de suivi applicables à toutes les institutions déclarantes et CBCB 248 |
+
+### Section 3 – Banques offrant des services de correspondant bancaire
+
+Les données doivent être présentées en milliers de dollars canadiens.
+
+Section 3 – Banques offrant des services de correspondant bancaire
+
+|  |  |  |
+| --- | --- | --- |
+| Valeur des paiements effectués pour le compte de clients de services de correspondant bancaire | Les correspondants bancaires doivent déclarer chaque jour ouvrable la valeur totale des paiements qu'elles effectuent pour le compte de tous les clients de leurs services de correspondant bancaire.  Les paiements effectués doivent être déclarés sous forme de chiffres négatifs. | Ligne directrice NL, chapitre 7, section 7.2.B(i). Outils de suivi applicables aux banques déclarantes qui offrent des services de correspondant bancaire et CBCB 248 |
+| Marges de crédit intrajournalier offertes aux clients | Les correspondants bancaires doivent déclarer la valeur totale des marges de crédit intrajournalier offertes à leurs clients chaque jour au cours de la période de déclaration, préciser si ces marges sont garanties ou engagées, et indiquer le niveau maximum d'utilisation de ces marges.  La valeur des marges de crédit offertes doit être présentée sous forme de chiffre négatif. | Ligne directrice NL, chapitre 7, section 7.2.B(ii). Outils de suivi applicables aux banques déclarantes qui offrent des services de correspondant bancaire et CBCB 248 |
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2025-09-04

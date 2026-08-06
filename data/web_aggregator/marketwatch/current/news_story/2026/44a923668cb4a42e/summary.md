@@ -1,0 +1,1 @@
+Summary: # ‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?

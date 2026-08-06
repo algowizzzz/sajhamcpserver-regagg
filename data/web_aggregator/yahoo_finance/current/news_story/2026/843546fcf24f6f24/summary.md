@@ -1,0 +1,1 @@
+Summary: # Social Security is becoming the primary retirement plan for many Americans. But it's rarely enough money.

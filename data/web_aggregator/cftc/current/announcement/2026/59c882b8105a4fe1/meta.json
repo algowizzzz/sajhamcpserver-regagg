@@ -1,0 +1,26 @@
+{
+  "doc_id": "59c882b8105a4fe1",
+  "regulator_id": "cftc",
+  "doc_type": "announcement",
+  "title": "CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning Affiliations Among Certain CFTC-Regulated Entities",
+  "language": "en",
+  "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9274-26",
+  "reference_number": null,
+  "published_date": "2026-07-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:76adb27c0448b9566c89e8b7752a15d34f483cd148c55dfdb363ebdd11f5e7c3",
+  "version_ts": "2026-08-03T02-27-25Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:27:25.940758+00:00",
+  "run_id": "2026-08-02_cftc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cftc/current/announcement/2026/59c882b8105a4fe1",
+  "tags": [
+    "us",
+    "derivatives",
+    "clearing",
+    "margin"
+  ]
+}

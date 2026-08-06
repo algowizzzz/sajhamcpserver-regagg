@@ -1,0 +1,10 @@
+Page Content
+
+The European Supervisory Authorities (ESAs – European Banking Authority, European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority) have published a statement in response to industry concerns relating to severe operational challenges both in meeting the transitional provisions of the Securitisation Regulation disclosure requirements, as well as in complying with the EU requirements on risk retention, transparency, re-securitisation and criteria for credit-granting obligations on a consolidated basis by EU credit institutions engaged in local securitisation activities in third countries.
+
+Publication date
+:   30 November 2018
+
+## Related links
+
+[Joint Committee statement on securitisation disclosure and application](/document/download/b25623f5-ee07-4d07-94ff-e71ad755cda7_en?filename=Joint%20Committee%20statement%20on%20securitisation%20disclosure%20and%20application.pdf)

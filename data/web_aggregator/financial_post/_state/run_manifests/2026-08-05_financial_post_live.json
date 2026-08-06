@@ -1,0 +1,27 @@
+{
+  "run_id": "2026-08-05_financial_post_live",
+  "regulator_id": "financial_post",
+  "logical_date": "2026-08-05",
+  "trigger": "schedule",
+  "detected": 10,
+  "fetched": 10,
+  "ingested": 10,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://financialpost.com/globe-newswire/mcewen-q2-results-net-income-of-9-6m-0-16-per-share-compared-with-3-0m-0-06-per-share-in-q2-2025-exploration-results-driving-resource-growth-across-all-sites-new-stock-mine-in-timmins-near",
+    "https://financialpost.com/pmn/business-wire-news-releases-pmn/celestica-announces-pricing-of-equity-offering",
+    "https://financialpost.com/pmn/business-pmn/feds-daly-supported-rate-decision-warns-of-inflation-risks",
+    "https://financialpost.com/pmn/business-wire-news-releases-pmn/toshiba-starts-shipping-engineering-samples-of-txz-family-entry%e2%80%91class-m4v-group-standard-microcontrollers-with-arm-cortex%e2%80%91m4-core-for-system-control-applications",
+    "https://financialpost.com/pmn/business-pmn/chinese-renewable-energy-giant-envision-launches-data-center",
+    "https://financialpost.com/globe-newswire/fortuna-reports-results-for-the-second-quarter-2026",
+    "https://financialpost.com/pmn/business-wire-news-releases-pmn/birks-group-announces-a-change-to-its-board-2",
+    "https://financialpost.com/globe-newswire/arcpoint-announces-failure-to-file-cease-trade-order",
+    "https://financialpost.com/pmn/business-pmn/gold-extends-gain-as-hormuz-deal-progress-lowers-rate-hike-odds",
+    "https://financialpost.com/pmn/business-pmn/philippine-bond-slump-to-extend-on-inflation-worry-analysts-say"
+  ],
+  "duration_s": 0.287
+}

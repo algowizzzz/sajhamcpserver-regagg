@@ -1,0 +1,24 @@
+{
+  "doc_id": "549ca734231c1d74",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Post 9/11 SAR Leads to Guilty Plea in Money Laundering and Illegal Transfer of Funds to Iran Investigation | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/post-911-sar-leads-guilty-plea-money-laundering-and-illegal",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:058f650c738c7b1ad218ff0abc0e430804d0b6dbee7e83f7ab491405e3fd1441",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/549ca734231c1d74",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,155 @@
+* [HOME](/en/index.html)
+
+[Tweet](https://twitter.com/share)
+
+# Press Releases (2026)
+
+* [January](#jan)
+* [February](#feb)
+* [March](#mar)
+* [April](#apr)
+* [May](#may)
+* [June](#jun)
+* [July](#jul)
+
+## July
+
+* [Publication of a "Report on the Monitoring and Analysis of Deposit-Taking Financial Institutions" (July 31, 2026)](/en/news/2026/20260731/20260731.html)
+* [Publication of "FSA Analytical Notes (2026.7) vol.2: I. Analysis of Lending to Overseas Borrowers by Major Banks, etc., II. An Analysis Toward the Development of a Corporate Default Rate Estimation Model, and III. Attempt to Understand Deposit Trends and Quantitatively Analyze Factors Affecting Changes in Deposit Balances" in Japanese (July 31, 2026)](/en/about/fsaanalyticalnotes/20260731/20260731.html)
+* [Publication of Analytical Report on IT Resilience in the Financial Sector (July 30, 2026)](/en/news/2026/20260730/20260730.html)
+* [Publication of "Progress Report 2026 for Advancing Asset Management Services in Japan" (July 24, 2026)](/en/news/2026/20260724/20260724.html)
+* [Cybersecurity Issues and Countermeasures in Crypto-Asset-Related Businesses (July 23, 2026)](/en/policy/bgin/innovationtop.html)
+* [The Expert Panel on the Revision of the Corporate Governance Code (3rd meeting) Minutes (July 21, 2026)](/en/refer/councils/revision_corporategovernance/index.html#03meeting)
+* [Finalization of the Corporate Governance Code (2026 Revision) (July 21, 2026)](/en/news/2026/20260721-2.html)
+* ["The Code of Conduct for ESG Evaluation and Data Providers": 30 ESG Evaluation and Data Providers have endorsed the "Code of Conduct" as of June 30, 2026 (July 17, 2026)](/en/news/2024/20240708.html)
+* [Recent Developments of Practices on Management of Storm and Flood Risks and Support for Clients in the Financial Sector (July 17, 2026)](/en/news/2026/20260717/20260717.html)
+* [Publication of "FSA Analytical Notes (2026.7) vol.1: I. Analysis of the Relationship between VC Investment and Bank Lending for Startup Firms: Sequence and Structure of Fundraising, and II. Pilot Analysis of Climate-Related Risks in Housing Loans Extended by Regional Banks" in Japanese (July 17, 2026)](/en/about/fsaanalyticalnotes/20260717/20260717.html)
+* [Update on FinTech Support Desk (July 13, 2026)](/en/news/2018/20180717.html)
+* [We have updated the “Cold Calling” list (as of June 30, 2026). (July 10, 2026)](/en/refer/cold/index.html)
+* [Publication of the finalized "the Partial Amendment to the Designation of a country or region under Articles 17-2 and 17-3 of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds" after public consultation (July 7, 2026)](/en/news/2026/20260707/20260707.html)
+* [Publication of the "Initiatives and Challenges in Anti-Money Laundering and Countering Financial Crime (July 2026)" (July 3, 2026)](/en/news/2026/20260703/20260703.html)
+* [Exchange of Letters (EoL) on the Cooperation Framework with the International Financial Services Centres Authority, India (July 2, 2026)](/en/news/2026/20260626/20260626.html)
+
+## June
+
+* [Updated Japan Fintech Week 2026 official website (June 30, 2026)](/policy/japanfintechweek/2026/index_en.html)
+* [Publication of "FSA Analytical Notes (2026.6) vol.2: Analysis of Margin Dynamics in OTC Derivatives Market during Periods of High Volatility" in Japanese (June 26, 2026)](/en/about/fsaanalyticalnotes/20260626/20260626.html)
+* [Updated:Speeches (Vice Minister for International Affairs) (June 25, 2026)](/en/announce/state/index_speeches.html#vice_minister_for_international_affairs)
+* [Overview of financial results of major insurance companies as of March 31, 2026 (June 19, 2026)](/en/news/2026/20260619/20260619.html)
+* [International Forum of Independent Audit Regulators published the Factsheet on Sustainability Assurance Survey (June 19, 2026)](/en/ifiar/20260619.html)
+* [Publication of "FSA Analytical Notes (2026.6): I. Attempt to Identify Early Warning Signals on Credit Risks using Regional Banks’ Loan Data and Macroeconomic Indicators vol.2, and II. Dynamic Models Analysis of Managerial-Talent Recruitment and Firm Performance at Client Firms of Regional Banks" in Japanese (June 19, 2026)](/en/about/fsaanalyticalnotes/20260619/20260619.html)
+* [Request Regarding “Short-Term Measures for Financial Institutions in Response to Changes in Threat Posed by Frontier AI” (June 15, 2026)](/en/news/2026/20260615/260615.html)
+* [Signing of Memorandum of Cooperation between the Financial Services Agency of Japan and the National Securities and Stock Market Commission of Ukraine (June 10, 2026)](/en/news/2026/20260610-3/20260610-3.html)
+* [Overview of major banks’ financial results as of March 31, 2026 (June 10, 2026)](/en/news/2026/20260610/20260610.html)
+* [Overview of the Japanese regional banks’ financial results for the fiscal year ended March 31, 2026 (June 10, 2026)](/en/news/2026/20260610-2/20260610.html)
+* [Updated : Initiatives announced by financial groups to enhance their asset management businesses (June 4, 2026)](/en/policy/pjlamc/initiativesbythefinancialindustry/20240124.html)
+* [Updated:Speeches (Commissioner) (June 2, 2026)](/en/announce/state/index_speeches.html#commissioner)
+* [Updated:Speeches (Minister of State for Financial Services) (June 2, 2026)](/en/announce/state/index_speeches.html#Minister)
+
+## May
+
+* [The Expert Panel on the Revision of the Corporate Governance Code (2nd meeting) Minutes (May 22, 2026)](/en/refer/councils/revision_corporategovernance/index.html#02meeting)
+* [Updated:Speeches (Vice Minister for International Affairs) (May 22, 2026)](/en/announce/state/index_speeches.html#vice_minister_for_international_affairs)
+* [Comment letter on the Draft Delegated Regulation on revised European Sustainability Reporting Standards (ESRS) (May 15, 2026)](/en/news/2026/20260515.html)
+* [Working Group under the “Public-Private Coordination Meeting on Strengthening Cybersecurity Measures in the Financial Sector Against AI-Related Threats” (May 14, 2026)](/en/news/2026/20260514/20260514.html)
+* [Updated : Initiatives announced by financial groups to enhance their asset management businesses (May 12, 2026)](/en/policy/pjlamc/initiativesbythefinancialindustry/20240124.html)
+* [The fifth meeting of the Working Group on Corporate Disclosure of the Financial System Council (May 11, 2026)](/en/news/2026/20260518.html)
+* [Paris Plenary Meeting of the International Forum of Independent Audit Regulators (IFIAR) (May 11, 2026)](/en/ifiar/20260423.html)
+* [International Forum of Independent Audit Regulators published the new Report about use of technology in audits (May 11, 2026)](/en/ifiar/20260420.html)
+* [Publication of the Partial Amendment to the Designation of a country or region under Articles 17-2 and 17-3 of the Order for Enforcement of the Act on Prevention of Transfer of Criminal Proceeds. (May 1, 2026)](/en/news/2026/20260501/20260501.html)
+
+## April
+
+* [Minister KATAYAMA meets Mr. Hernández de Cos, General Manager of the BIS, in Tokyo (April 21, 2026)](/en/news/2026/20260421/20260421.html)
+* [Updated : Human Capital Disclosures (April 17, 2026)](/en/policy/humancapitaldisclosures/20260409.html)
+* [Publication of "FSA Analytical Notes (2026.3): An Empirical Examination toward a Multi-faceted Understanding of the OTC Derivatives Market" (April 17, 2026)](/en/about/fsaanalyticalnotes/20260306/20260306.html)
+* [Publication of "FSA Analytical Notes (2026.2): Analysis of Human Resource Support by Regional Banks and Shortages of Managerial Talent at Firms" (April 17, 2026)](/en/about/fsaanalyticalnotes/20260227/20260227.html)
+* [International Forum of Independent Audit Regulators published the Report on 2025 Survey of Inspection Findings (April 13, 2026)](/en/ifiar/20260413.html)
+* [Draft revisions to the Corporate Governance Code for public consultation (April 10, 2026)](/en/news/2026/20260410.html)
+* [Human Capital Disclosures (April 9, 2026)](/en/policy/humancapitaldisclosures/20260409.html)
+* [Publication, the English version of Japanese Roadmap for sustainability disclosures and assurance (April 9, 2026)](/en/news/2026/20260409.html)
+* [Interview Article "Supervisory cooperation in a fragmented world: The IAIS work agenda" in The Eurofi Magazine (March 2026) (April 8, 2026)](/en/news/2026/20260408/20260408.html)
+* [Twenty-fourth Meeting of the "Council for Cooperation on Financial Stability" (April 8, 2026)](/en/news/2026/20260408nichiginrenrakukai.html)
+* [We have updated the “Cold Calling” list (as of March 31, 2026). (April 7, 2026)](/en/refer/cold/index.html)
+* [Publication of the Research Report, “Strengthening the Management of Third-Party Cybersecurity Risks by Financial Institutions” (April 3, 2026)](/en/news/2026/20260403-2/20260403-2.html)
+* [The Expert Panel on the Revision of the Corporate Governance Code (3rd meeting) Material (April 2, 2026)](/en/refer/councils/revision_corporategovernance/index.html#03meeting)
+
+## March
+
+* [Updated：Trends in High-Speed Trading (March 31, 2026)](/en/news/2026/20260331-2/20260331-2.html)
+* [Revision of "Guidelines for Anti-Money Laundering and Combating the Financing of Terrorism" (March 31, 2026)](/en/news/2026/20260331/20260331.html)
+* [The third meeting of the Expert Panel on the Revision of the Corporate Governance Code (2025-2026) (March 27, 2026)](/en/news/2026/20260327.html)
+* [Hosting Overseas Regulatory Officials at the Global Financial Partnership Center (28th Program: 12 Banking Regulatory Authorities) (March 26, 2026)](/en/glopac/20260127_28th/20260127_28th.html)
+* [The fourth meeting of the Japan-UK Financial Regulatory Forum (March 19, 2026)](/en/news/2026/20260319/20260319.html)
+* [The Japan-Bermuda bilateral meeting on insurance (March 19, 2026)](/en/news/2026/20260225/20260225.html)
+* [Publication of "FSA Analytical Notes (2026.3): An Empirical Examination toward a Multi‑faceted Understanding of the OTC Derivatives Market" in Japanese (March 6, 2026)](/en/about/fsaanalyticalnotes/20260306/20260306.html)
+* [Publication of AI Discussion Paper (Version 1.1) (March 3, 2026)](/en/news/2026/20260303/aidp.html)
+
+## February
+
+* [Updated : Japan Weeks 2026 (February 27, 2026)](/en/financialcenter/japanweeks2026.html)
+* [FSA, SEC Hold Spring Financial Regulatory Dialogue (February 27, 2026)](/en/news/2026/20260227/20260227.html)
+* [The FSA publishes the status of loans held by all banks as of the end of September 2025, based on the Financial Reconstruction Act (February 27, 2026)](/en/regulated/npl/20260227.html)
+* [Publication of "FSA Analytical Notes (2026.2): Analysis of Human Resource Support by Regional Banks and Shortages of Managerial Talent at Firms" in Japanese (February 27, 2026)](/en/about/fsaanalyticalnotes/20260227/20260227.html)
+* [The Expert Panel on the Revision of the Corporate Governance Code (2nd meeting) Material (February 25, 2026)](/en/refer/councils/revision_corporategovernance/index.html#02meeting)
+* [The second meeting of the Expert Panel on the Revision of the Corporate Governance Code (2025-2026) (February 19, 2026)](/en/news/2026/20260219.html)
+* [Publication of the Report by the Working Group on Crypto-asset Systems of the Financial System Council (February 16, 2026)](/en/refer/councils/singie_kinyu/20260216.html)
+* [Updated English version of Reference Cases on Suspicious Transactions (February 4, 2026)](/en/laws_regulations/str.html)
+* [The Expert Panel on the Revision of the Corporate Governance Code (1st meeting) Minutes (February 2, 2026)](/en/refer/councils/revision_corporategovernance/index.html#01meeting)
+
+## January
+
+* [Stewardship Code: List of institutional investors accepted the Principles for Responsible Institutional Investors as of December 31, 2025 (January 30, 2026)](/en/refer/councils/stewardship/20160315.html)
+* [Joint session of the 56th general meeting of Financial System Council and the 44th meeting of Sectional Committee on Financial System (January 27, 2026)](/en/news/2026/20260203.html)
+* [Remarks by Minister KATAYAMA at the event “Japan’s Turn” of the 56th Annual Meeting of the World Economic Forum (January 20, 2026)](/en/news/2026/20260120/20260120.html)
+* [Updated Japan Fintech Week 2026 official website (January 13, 2026)](/policy/japanfintechweek/2026/index_en.html)
+* [We have updated the “Cold Calling” list (as of December 31, 2025). (January 9, 2026)](/en/refer/cold/index.html)
+* [Updated : Initiatives by the financial industry to enhance their asset management businesses (January 7, 2026)](/en/policy/pjlamc/initiativesbythefinancialindustry/20240124.html)
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

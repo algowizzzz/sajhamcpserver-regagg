@@ -1,0 +1,7 @@
+# The Winners of Trump’s A.I. Safety Plan
+
+The Trump administration’s new safety review guidelines appear to exempt Chinese artificial intelligence models. OpenAI’s and Anthropic’s aren’t.
+
+[Read the full story at the source](https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

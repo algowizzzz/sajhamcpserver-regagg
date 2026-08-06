@@ -1,0 +1,1135 @@
+Japan’s Corporate Governance Code  
+Seeking Sustainable Corporate Growth and Increased Corporate Value  
+over the Mid- to Long-Term 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 July, 2026 
+ 
+Tokyo Stock Exchange, Inc 
+ 
+ 
+Provisional translation
+
+- 1 - 
+Japan’s Corporate Governance Code 
+In this Corporate Governance Code, “cor porate governance” means a structure for 
+transparent, fair, timely and decisive decision-making by companies, with due attention 
+to the needs and perspectives of shareholders and also customers, employees and local 
+communities. 
+This Corporate Governance Code establishe s fundamental princi ples for effective 
+corporate governance at listed companies in Japan. It is expected that the Code’s 
+appropriate implementation will contribute to the de velopment and success of 
+companies, investors and the Japanese economy as a whole through individual 
+companies’ self-motivated actions so as to achieve sustainabl e growth and increase 
+corporate value over the mid- to long-term. 
+Objectives of the Code 
+1. It is important that companies operate themselves with the full recognition of 
+responsibilities to a range of  stakeholders, star ting with fiduciary responsibility to 
+shareholders who have entrusted the manage ment. The Code contains key principles 
+that can contribute to effective corpor ate governance for the purpose of achieving 
+“growth-oriented governance” beyond “defensive governance” by promoting timely 
+and decisive decision-making based upon transparent and fair decision-making through 
+the fulfillment of a company’s accountabilit y in relation to thei r responsibilities to 
+shareholders and stakeholders. 
+The Code calls for appropriate corporat e governance disciplines to create an 
+environment for promoting healthy entrep reneurship where the management can 
+perform their management skills to the full, which ultimately leads to a company’s 
+sustainable growth and increased corporate value over the mid- to long-term. It is not 
+appropriate to view each Principle (General  Principle and Principle) as a limit on the 
+management. Rather, each Principle promot es the management’s decisive decision-
+making and business activities with risk-taking. 
+2. It is hoped that the Code will also have the effect of promoti ng mid- to long-term 
+investment. Market particip ants who have the stronge st expectations for the 
+improvement of corporate governance are usually shareholders with mid- to long-term 
+holdings, and they usually wait until corporate governance improvements are achieved. 
+Notwithstanding recent concerns over the gr owth of investment activities based on 
+short-termism in the market place, such shareholders with mid- to long-term holdings
+
+- 2 - 
+have the potential of becoming important partners for companies. The Code asks 
+companies to examine whether there are issu es in their corporat e governance in light 
+of the aim and spirit of the Principles of the Code, and take self-motivated actions in 
+response to those issues. Such efforts by  a company will make possible further 
+corporate governance improvements, s upported by constructive and purposeful 
+dialogue with shareholders (instituti onal investors) based on the company’s 
+explanation of its path for gr owth over mid- to long-term. In this sense, the Code and 
+“Principles for Responsible Institutional I nvestors” «Japan’s Stewardship Code» are 
+like “the two wheels of a cart,” and it is hope d that these will work appropriately and 
+together for achieving effective corporate governance in Japan.
+ 
+3. The Code is formulated for these purposes, and it is expected that the management of 
+companies will use this Code as suppor ting material when considering and 
+implementing company initiatives. Proact ive initiatives taken by the management 
+toward improving corporate governance to achieve a company’s ideal state with 
+sufficient attention to principles of the Code are beneficial to various stakeholders. 
+“Principles-Based Approach” and “Comply or Explain” 
+4. The Code does not adopt a rule-based approach, in which the actions to be taken by a 
+company are specified in detail. Rather , it adopts a principles-based approach. 
+Accordingly, companies should judge whether their activities are c onsistent with the 
+Principles of the Code in light of the aim and spirit of the Principles, not against the 
+literal statements and wording of the Principles, even where the Principles may appear 
+abstract and broad on the surface. Sharehol ders and other stakeholders are also 
+expected to fully understand the significance of this principles-based approach in their 
+dialogue with companies. 
+5. The Code adopts a “comply or explain” appr oach (either comply with a Principle or 
+explain the reasons for not doing so). In othe r words, the Code is not legally binding 
+and assumes that if a company finds a speci fic Principle it considers inappropriate to 
+comply with in view of its individual circumstances, the company may choose not to 
+comply with that Principle, provided that the company explains fully the reason why it 
+does not comply. Further, this means that , depending on a company’s situation, there 
+are cases where a company should refrain from formalistically complying with a 
+Principle, and instead should proactively choose to “expla in.” It is desirable that 
+companies choose to comply or explain in light of the aim and spirit of each Principle 
+and fully recognize the aim of “comply or explain.” 
+In addition, when companies choose to explai n for a Principle they will not comply
+
+- 3 - 
+with, they should carefu lly tailor their explan ation in light of the aim and spirit of a 
+Principle in a manner such that their ex planation will be fu lly understood by 
+shareholders and other stakeholders. Companies should fully recognize that offering a 
+superficial explanation using boiler-plate expressions would be inconsistent with the 
+concept of comply or explain. Accordin gly, companies should provide “carefully 
+tailored explanation.” 
+6. Also, from the perspective of providing sufficient information to shareholders and other 
+stakeholders, instead of simply complying with a Principle, explaining the specific 
+content of measures a company has taken and the reasonable gr ounds for evaluating 
+why it complies with a Principle through m easures is a desirable initiative for 
+promoting constructive dialogue. 
+7. On the other hand, it is al so necessary that shareholde rs and other stakeholders 
+understand the aim of the comp ly or explain approach and sufficiently consider the 
+specific circumstances of companies. Particularly, it is not appropriate to mechanically 
+assess that effective corporate governance is not realized based solely on the fact of 
+partial non-compliance with some Principles while superficially interpretating wording 
+and statements of the Principles of this C ode. In such a case, shareholders and other 
+stakeholders should constructively assess the company’s carefully tailored explanation. 
+Application of this Code 
+8. Principles of the Code are comprised of General Principles and Principles. Whether a 
+company should comply or how they shoul d comply depends on its industry, size, 
+business characteristics, organizationa l structure and business environment. 
+Accordingly, companies should purposefully implement each Principle in this Code to 
+achieve effective corporate governance in light of their surrounding situation. 
+9. All General Principles and some Principles of the Code include “Interpretive Guidance” 
+sections. “Interpretive Guidance” is not subject to comply or explain. However, its role 
+is to support effective implementation of each Principle. It contains measures 
+considered to be best practices and good pract ices for carrying out Principles, as well 
+as the background and purposes of the Principle. Companies are expected to use 
+“Interpretive Guidance” as a reference wh en implementing the Code. Each company 
+has discretion in implementi ng specific measures, as l ong as the company acts in 
+accordance with the aim and spirit of each Principle.
+ 
+10. Some Principles of the Code assume spec ific organizational structures. With respect 
+to such Principles, companies that adopt ot her organizational structures are expected 
+to construe and apply such Principles in accordance with their specific organizational 
+structures.
+
+- 4 - 
+“Streamlining” of the Code to Promote Implementation by Companies in 
+Substance 
+11. Since the Code took effe ct in 2015, corporate governance  reform in Japan has seen 
+progress to some extent. However, in orde r to truly achieve sustainable growth and 
+increased corporate value of companies over the mid- to long-term, it is important not 
+to end at formalistic imple mentation, but to realize co rporate governance reform in 
+substance with efforts by both companie s and investors. Ba sed on such problem 
+recognition, in the 2026 revisions of the Code, the Code was streamlined from the 
+perspective of giving substance to the Code itself while going back to the aim and spirit 
+of the Code, which applies a principles-b ased approach and comply or explain 
+approach. 
+Specifically, in order to clarify on which items a company should focus, then existing 
+Supplementary Principles were reclassifi ed by upgrading core parts of corporate 
+governance to Principles, while removing part s that overlapped with other provisions 
+within the Code or other laws and regulations. Since the Code aims to support 
+management in considering and implementi ng measures to increase corporate value 
+over the mid- to long-term, the Code was revised to emphasize key elements as 
+concisely as possible and to distinguish important items from others.
+ 
+12. These are the purposes of streamlining th e Code. The intent is  not to only reduce 
+company implementation costs and disclosure burdens. It  is not appropriate to 
+understand that those provisions  or statements that have been moved to “Interpretive 
+Guidance” and are outside of the scope of comply or explain or that have been removed 
+from the Code have lost importance after the 2026 revisions. Companies are expected 
+to implement each Principle of the Code in substance while fully understanding the 
+aim of streamlining of the Code. 
+Notes on the 2026 Revisions 
+13. In conjunction with the 2026 revisions, the Financial Services Agency and the Tokyo 
+Stock Exchange published a document titled “the Revised Corporate Governance Code 
+to Promote Growth Investments,” describi ng the aims of the re visions. Companies, 
+shareholders, and stakeholders are expected to refer to the document. 
+14. Given that annual securities reports c ontain useful and reliable information for 
+decision making by investors, the 2026 revisi ons state that the submission of annual 
+securities reports before gene ral shareholder meetings is a key measure to ensure the 
+appropriate exercise of rights by shareholders at general shareholder meetings as stated 
+in Principle 1.2.
+
+- 5 - 
+The Interpretive Guidance complements the Principle by stating that it is best to submit 
+annual securities reports at least three weeks before the general shareholder meetings, 
+and companies should consider such measur es as moving back the dates of general 
+shareholder meetings. The Financial Serv ices Agency acknowledges the operational 
+burden and difficulty of submission of a nnual securities reports three weeks or more 
+before the dates of general shareholder meetings given comm on practices under the 
+existing laws. The Financial Services Agency will coordinate in tandem with the 
+Ministry of Justice to consider the legal framework. This includes the consolidation of 
+annual securities reports a nd business reports and the uni fication of audits required 
+under the Companies Act and the Financial Instruments and Exchange Act as discussed 
+by the Legislative Council, and the optimiz ation of disclosure items in the annual 
+securities reports.
+
+- 6 - 
+General Principles 
+ 
+Securing the Rights and Equal Tr eatment of Shareholders, and Dialo gue with 
+Shareholders 
+1.  Companies should take appropriate measur es to fully secure shareholder rights 
+and develop an environment in which sh areholders can exer cise their rights 
+appropriately and effectively. 
+ In addition, companies should secure effe ctive equal treatment of shareholders. 
+ Given their particular sensitivities, ade quate consideration should be given to the 
+issues and concerns of mi nority shareholders and fore ign shareholders for the 
+effective exercise of shareholder ri ghts and effective equal treatment of 
+shareholders. 
+ In order to contribute to sustainable growth and the increase of corporate value 
+over the mid- to long-term,  companies should engage in constructive dialogue 
+with shareholders even outside the general shareholder meeting. 
+ 
+Appropriate Cooperation with Stakeholders Other Than Shareholders 
+2.  Companies should fully recognize that th eir sustainable growth and the creation 
+of mid- to long-term corporate value are brought about as a result of the provision 
+of resources and contributions made by a range of stakeholders, including 
+employees, customers, business partners , creditors and local communities. As 
+such, companies should endeavor to appropriately cooperate with these 
+stakeholders. 
+ The board and the management should exer cise their leadership in establishing a 
+corporate culture where the rights and positions of stakeholders are respected and 
+sound business ethics are ensured. 
+ 
+Ensuring Appropriate Information Disclosure and Transparency 
+3.  Companies should appropriately make in formation disclosure in compliance with 
+the relevant laws and regulations, but s hould also strive to  actively provide 
+information beyond that required by law. This includes both financial information, 
+such as financial standing and operating results, and non-fina ncial information, 
+such as business strategies and business issues, risk and governance. 
+ The board should recognize th at disclosed information will serve as the basis for
+
+- 7 - 
+constructive dialogue with  shareholders, and therefore ensure that such 
+information, particularly non-financial information, is accurate, clear and useful. 
+ 
+Responsibilities of the Board 
+4.  Given its fiduciary respons ibility and accountability to shareholders, in order to 
+promote sustainable corporate growth and the increase of corporate value over the 
+mid- to long-term and enha nce earnings power and capital efficiency, the board 
+should appropriately fulfill its roles and responsibilities, including: 
+(1) Setting the broad directio n of corporate strategy; 
+(2) Establishing an environment wh ere appropriate risk-taking by the 
+management is supported; and 
+(3) Carrying out effective ov ersight of directors and th e management (including 
+shikkoyaku and so-called shikkoyakuin) from an independent and objective 
+standpoint.
+
+- 8 - 
+Section 1: Securing the Rights and Equal Treatment of Shareholders, 
+and Dialogue with Shareholders 
+ 
+General Principle 1 
+Companies should take appropriate measures to fully secure shareholder rights and 
+develop an environment in which shareholde rs can exercise their rights appropriately 
+and effectively. 
+In addition, companies should secure effective equal treatment of shareholders. 
+Given their particular sensitivities, adequa te consideration should be given to the 
+issues and concerns of minority shareholders and foreign shareholders for the effective 
+exercise of shareholder rights and effective equal treatment of shareholders. 
+In order to contribute to sustainable growth and the increase of corporate value over 
+the mid- to long-term, companies should engage in constructive dialogue with 
+shareholders even outside the general shareholder meeting. 
+Interpretive Guidance 
+Companies have various stakeholders, incl uding shareholders. Without appropriate 
+cooperation with these stakeholders, it woul d be difficult for co mpanies to achieve 
+sustainable growth. Suppliers of capital are an important co rnerstone, and shareholders 
+are the primary starting point for corpor ate governance discipline. Companies should 
+secure appropriate cooperation with shareholde rs and strive toward the achievement of 
+sustainable growth by fully securing shar eholder rights and provi ding for the smooth 
+exercise thereof. 
+In addition, the Companies Act requires companies to equally treat shareholders based 
+on the class and number of shares they hold. Gaining broad confidence of shareholders 
+that they receive equal treatment will also contribute to strengthening support from the 
+suppliers of capital. 
+Given the importance of shareholder rights, companies should ensure that the exercise 
+of shareholder rights is not impeded. In particular, adequate consideration should be given 
+to the special rights that are recognized fo r minority shareholders with respect to 
+companies and their officers, including the right to seek an injunction against illegal 
+activities or the right to file a shareholder lawsuit, since the exercise of these rights tends 
+to be prone to issues and concerns. Also given the issues of structural conflicts of interest 
+and information asymmetry among minority sh areholders, management and controlling
+
+- 9 - 
+shareholders, companies should ensure appropriate procedures and safeguard the interests 
+of minority shareholders by thoroughly eval uating the necessity and rationale from the 
+perspectives of whether, for example: (i) the objective of adopting and triggering an anti-
+takeover measure is not associated with entr enchment of the manage ment or the board; 
+(ii) a company’s capital policy that results in a change of control or in significant dilution, 
+including share offerings and management buyouts, will not unfairly harm the existing 
+shareholders’ interests; and (iii) related party transactions will not harm the interests of 
+the company or the common interests of its shareholders. Controlling shareholders should 
+respect the common interests of the company and its shareholders and should not treat 
+minority shareholders unfairly. Companies with a controlling shareholder should develop 
+a governance system to protect the interest of minority shareholders. 
+Also, because capital policy may have a significant effect on shareholder returns, as a 
+significant premise for substan tively securing the rights of shareholders, companies 
+should explain their basic strategy with respect to their capital policy. 
+With the establishment of Japan’s Stewards hip Code, institutional investors should 
+engage in purposeful dialogue (engagement) based on the in-depth knowledge of investee 
+companies and their business environment.  Regularly engaging in dialogue with 
+shareholders to gain their understanding of specific business strategies and business plans 
+and taking appropriate action when there are concerns are extraordinarily useful for 
+companies to strengthen the foundations of management le gitimacy and support their 
+efforts to generate sustainable growth. Du ring dialogue with shar eholders, management 
+and directors should listen to the views of sh areholders and pay due attention to their 
+interests and concerns, clearly explain bu siness policies to shareholders in an 
+understandable manner so as to gain their s upport, and work for developing a balanced 
+understanding of the positions of shareholde rs and other stakeholders and acting 
+accordingly. If the management and direct ors give due attention to the views of 
+shareholders through dialogue, they can ab sorb views and analyses of business 
+management from the perspective of capital providers. Dialogue with shareholders should 
+also inspire healthy entrepreneurship in the management and directors and thereby 
+contribute to sustainable corporate growth.
+
+- 10 - 
+Principle 1.1 Constructive Dialogue with Shareholders 
+(1) Companies should, positively and to the extent reasonable, respond to the 
+requests from shareholders to engage in  dialogue so as to  support sustainable 
+growth and increase corporate value ove r the mid- to long-term. The board 
+should establish, approve and disclose policies concerning the measures and 
+organizational structures aimed at promoting constructive dialogue with 
+shareholders. 
+(2) Taking the requests and interests of sh areholders into consideration, to the 
+extent reasonable, the management, directors, including outside directors1, and 
+kansayaku, should basically engage in dialogue with shareholders. 
+(3) Based on the content of dialogue with  shareholders, companies should take 
+appropriate measures such as intern ally sharing information and conducting 
+reviews as necessary. 
+Interpretive Guidance 
+Policies for promoting constr uctive dialogue with sharehol ders should at minimum 
+include (i) appointing a member of the management or a dire ctor who is responsible for 
+overseeing and ensuring that constructive dialogue takes place, including considering and 
+executing matters stated in items (ii) to (v ) below, (ii) measures to ensure positive 
+cooperation between internal departments such as investor relations, corporate planning, 
+general affairs, human resources, corporate finance, accounting and legal affairs with the 
+aim of supporting dialogue, (iii) measures  to promote opportunitie s for dialogue aside 
+from individual meetings (e.g., general investor  meetings and other IR activities), (iv) 
+measures to appropriately and effectively re lay shareholder views and concerns learned 
+through dialogue to the management and the boa rd, and (v) measures to control insider 
+information and material information to which the fair disclosure rule applies when 
+engaging in dialogue. 
+Companies should recognize that  there are situations wher e outside directors should 
+engage in dialogue depending on the main topics of dialogue and should select 
+appropriate persons for each dialogue from the perspective of holding constructive 
+ 
+1 Outside director: A director who satisfies certain requirements such as not holding specific positions, 
+including the position of executive director, in the company or its subsidiaries (Article 2, Paragraph 
+15 of the Companies Act). Furthermore, matters such as not holding a specific position in the parent 
+company or other subsidiaries and not having specific kinship ties with controlling shareholders is 
+also required for outside directors under the Companies Act.
+
+- 11 - 
+dialogue with shareholders, taking into consideration the requests from shareholders and 
+the main topic of the dialogue. 
+ 
+  
+Principle 1.2 Exercise of Shareholder Rights at General Shareholder Meetings 
+Companies should, considering that general shareholder meetings are an opportunity 
+for constructive dialogue with shareholde rs, take appropriate measures from the 
+shareholders’ perspective to ensure the exercise of shareholder rights at such meetings, 
+for example, providing accurate information to  shareholders as necessary in order to 
+facilitate appropriate decision-making at  general shareholder meetings such as by 
+submitting the annual securities reports be fore the general shareholder meetings, 
+appropriately setting the dates related to general shareholder meetings including dates 
+of meetings and record dates for exercising voting rights, and for companies listed on 
+the Prime Market, making the Electronic V o ting Platform available, at least to 
+institutional investors.  
+Interpretive Guidance 
+General shareholder meetings provide one of the few opportunities for shareholders to 
+directly express their opinions  to companies thr ough the exercise of their voting rights 
+and opportunities for construc tive dialogue with shareholders. Companies should take 
+appropriate measures from the perspectives of  shareholders to enable shareholders to 
+facilitate appropriate decision-making at general shareholder meetings.  
+For Example: 
+(i) Since annual securities reports contain useful and reliable information for decision-
+making by investors, including inform ation related to governance such as 
+remuneration of director s and cross-shareholdings 2 , it is best to submit annual 
+securities reports at least three weeks before the general shareholder meetings. To do 
+so, companies consider such measures as moving back the dates of general 
+shareholder meetings and the record da tes for exercising vo ting rights from the 
+customary time under the current practice.  
+(ii) Companies disclose information included in the conve ning notice through 
+ 
+2  Cross-shareholding:  There are cases where listed companie s hold the shares of other listed 
+companies for reasons other than pure investment purposes, for example, to strengthen business 
+relationships. Cross-shareholdings here include no t only mutual shareholdings but also unilateral 
+ones.
+
+- 12 - 
+electronic means such as through TDnet 3 or on the company’s website during the 
+period between the board approval of conve ning the general shareholder meeting 
+and sending the convening notice to give shareholders sufficient time to consider the 
+agenda.  
+(iii) Bearing in mind the number of institu tional and foreign shareholders, companies 
+take steps for the creation of infrastructure allowing electronic voting, including the 
+use of the Electronic V oting Platform, and the provision of English translations of 
+the convening notices of general shareholder meetings.  
+(iv) In order to prepare for cases where institutional investors who hold shares in street 
+name express an interest in advance of the general shareholder meeting in attending 
+the general shareholder meeting or exercising voting rights, companies work with a 
+trust bank (shintaku ginko) and/or custodial institutions to consider such possibility.  
+ 
+ 
+Principle 1.3 Company Proposals that are Opposed to by a Considerable Number of 
+Shareholders at General Shareholder Meetings 
+When the board recognizes that a considerable number of votes have been cast against 
+a proposal by the company and the proposal was approved, it should analyze the reasons 
+behind opposing votes and why many shareholders opposed,  and take actions 
+appropriately in order to contribute to substantively ensuring the shareholder rights. 
+Interpretive Guidance 
+For example, the board could explain to shar eholders the results of an analysis on the 
+reasons behind opposing votes and why many shareholders opposed, as well as the status 
+of the company’s response measures based on the analysis. 
+ 
+ 
+Principle 1.4 Cross-Shareholdings 
+(1) When companies hold shares of other listed companies as cross-shareholdings, 
+they should disclose their policy with  respect to doing so, including their 
+policies regarding the reduction of cro ss-shareholdings. In addition, the board 
+should annually assess whether or not to hold each individual cross-
+ 
+3  TDnet:  The Tokyo Stock Exchange operates a real-time internet service (Timely Disclosure 
+network) which distributes the information provided by listed companies on a timely basis in 
+accordance with its listing rules.
+
+- 13 - 
+shareholding, specifically examining wh ether the purpose is appropriate and 
+whether the benefits and risks from each  holding cover the company’s cost of 
+capital. The results of this assessment should be disclosed.  
+(2) Companies should establish and disclose specific standards with respect to the 
+voting rights as to their cross-sharehol dings, and vote in accordance with the 
+standards. 
+(3) When cross-shareholders (i.e., shar eholders who hold a co mpany’s shares for 
+the purpose of cross-share holding) indicate their intention to sell their shares, 
+companies should not hinder the sale of the cross-held shares by, for instance, 
+implying a possible reduction of business transactions.
+  
+(4) Companies should not engage in trans actions with cross-shareholders which 
+may harm the interests of the companies or the common interests of their 
+shareholders by, for instance, continui ng the transactions without carefully 
+examining the underlying economic rationale.
+
+- 14 - 
+Section 2: Appropriate Cooperation with Stakeholders Other Than 
+Shareholders 
+ 
+General Principle 2 
+Companies should fully recognize that thei r sustainable growth and the creation of 
+mid- to long-term corporate value are brought  about as a result of the provision of 
+resources and contributions made by a ra nge of stakeholders, including employees, 
+customers, business partners , creditors and local communi ties. As such, companies 
+should endeavor to appropriately cooperate with these stakeholders. 
+The board and the management should exer cise their leadership in establishing a 
+corporate culture where the rights and positions of stakeholders are respected and 
+sound business ethics are ensured. 
+Interpretive Guidance 
+Companies have a variety of important st akeholders besides shareholders. These 
+stakeholders include internal parties such as employees and extern al parties such as 
+customers, business partners and creditors.  In addition, local co mmunities form the 
+foundation for the on-going business activities of companies. Companies should fully 
+recognize that sustainable growth and incr easing corporate value over the mid- to long-
+term can be achieved through appropriate coope ration with these stakeholders including 
+through investment in human capital, appropri ate distribution and fair and reasonable 
+transaction with suppliers (including a fair price-passthrough within a supply chain). 
+The appropriate actions of co mpanies based on the recogn ition of their stakeholder 
+responsibilities will benefit the entire economy and society, which will in turn contribute 
+to producing further benefits to companies, thereby creating a virtuous cycle. Furthermore, 
+investments that contribute to local commun ities resulting in increasing corporate value 
+over the mid- to long-term are important in th e context of revitalizing the foundation of 
+company sustainability and activities. 
+Based on such awareness, co mpanies should draft and imp lement a code of conduct 
+for employees in order to express their valu es with respect to appropriate cooperation 
+with and serving the interests of stakeholders and carrying out sound and ethical business 
+activities. The board should be responsible for drafting and revising the code of conduct, 
+and should ensure its compliance broadly across the organization, including the front line 
+of domestic and global operations.
+
+- 15 - 
+Principle 2.1 Business Principles as the Foundation of Corporate Value Creation 
+Over the Mid- to Long-Term 
+Guided by their position concerning so cial responsibility,  companies should 
+undertake their businesses in order to create value for all stakeholders while increasing 
+corporate value over the mid- to long-term. To this end, companies should draft and 
+maintain business principles that will become the basis for such activities. 
+ 
+ 
+Principle 2.2 Ensuring Diversity 
+Companies should determine and disclose th e status of their policies and voluntary 
+and measurable goals for ensuring diversity, including the promotion of employees to 
+senior positions in the comp any from perspectives incl uding gender, international 
+experience, career experience (including lateral employees), age, and cultural 
+background. 
+Companies should disclose their policies for human resource development and 
+internal environment development to ensure diversity, as well as the status of their 
+implementation. 
+Interpretive Guidance 
+The existence of diverse perspectives and values reflecting a variety of experiences, 
+skills and characteristics is a source of innovation and new value creation and can be a 
+strength that supports companies’ transformation and sustainable growth. In light of the 
+importance of human resource strategies to achieve sustainable growth, companies should 
+determine their policies and voluntary and measurable go als for ensuring diversity 
+suitable for its situation from perspectives including gender, intern ational experience, 
+career experience (including lateral employees), age, and cultural background. 
+ 
+ 
+Principle 2.3 Whistleblowing  
+Companies should establish an  appropriate framework fo r whistleblowing, and the 
+board should monitor its enforcement. 
+Interpretive Guidance 
+Companies should establish an appropriate framework for whistleblowing such that
+
+- 16 - 
+employees can report illegal or inappropriate behavior, disclosures, or any other serious 
+concerns without fear of suffering from disadvantageous treatment. Also, the framework 
+should allow for an objective assessment and appropriate response to the reported issues. 
+As a part of establishing a framework for whistleblowing, companies should establish a 
+point of contact that is independent of the management and rules to secure the 
+confidentiality of the information provider and prohibit any disadvantageous treatment. 
+ 
+ 
+Principle 2.4 Roles of Corporate Pension Funds as Asset Owners 
+Because the management of corporate pension funds impacts stable asset formation 
+for employees and companies’ own financial standing, companies should take and 
+disclose measures to improve human resour ces and operational practices, such as the 
+recruitment or assignment of  qualified persons, in order to increase the investment 
+management expertise of corporate pensi on funds (including stewardship activities 
+such as monitoring the asset managers of corporate pensi on funds), thus making sure 
+that corporate pension funds perform their roles as asset owners. Companies should 
+ensure that conflicts of inte rest which could arise between  pension fund beneficiaries 
+and companies are appropriately managed.
+
+- 17 - 
+Section 3: Ensuring Appropriate Information Disclosure and 
+Transparency 
+ 
+General Principle 3 
+Companies should appropriately make info rmation disclosure in compliance with 
+the relevant laws and regulations, but should also strive to actively provide information 
+beyond that required by law. This includes both financial information, such as financial 
+standing and operating results, and non-fi nancial information, such as business 
+strategies and business issues, risk and governance. 
+The board should recognize that disclosed information will serv e as the basis for 
+constructive dialogue with shareholders, and therefore ensure that such information, 
+particularly non-financial information, is accurate, clear and useful. 
+Interpretive Guidance 
+Companies are legally required to disclose a wide range of information. The timely and 
+appropriate disclosure of information in accordance with the relevant laws and 
+regulations is essential for investor protection and securing market confidence. The board, 
+kansayaku, the kansayaku board and external auditors all bear an important responsibility 
+in this regard, starting with the establishment of an appropriate internal control system as 
+to financial information. 
+In order to enhance transparency and fair ness in decision-mak ing and to ensure 
+effective corporate governance, companies should actively strive to provide information 
+including, but not limited to, what is required by laws and regulations and each Principle 
+of the Code. 
+It has been noted that while the quantitative part of financial stat ements of Japanese 
+companies conform to a standard format and therefore excel with respect to comparability, 
+non-financial information, such  as financial standing, busin ess strategies, risks and 
+environmental, social and governance matters, is often boiler-plate and lacking in detail, 
+therefore less valuable. The board should acti vely commit to ensure that disclosed 
+information, including non-financial information, is as valuable and useful as possible. 
+Irrespective of whether the disclosed information is required by law, the appropriate 
+provision of information is an effective means to develop a shared awareness and 
+understanding with shareholders and other stak eholders, in particul ar given that they 
+suffer from information asymmetry. Appr opriate information disclosure will also
+
+- 18 - 
+contribute to constructive dialogue based on Japan’s Stewardship Code. 
+ 
+Principle 3.1 Full Disclosure 
+In addition to making information disclosure  in compliance with relevant laws and 
+regulations, companies should disclose and proactively provide the information listed 
+below: 
+(1) Company objectives (e.g., business princi ples), business strategies and business 
+plans; 
+(2) Basic views and guidelines on corporate governance based on each of the 
+Principles of the Code; 
+(3) Board policies and procedures in determining the remuneration of the 
+management and directors; 
+(4) Board policies and procedures in the appointment/dismissal of the management 
+and the nomination of directors and kansayaku candidates; and 
+(5) Explanations with resp ect to the individual a ppointments/dismissals and 
+nominations based on (4). 
+ 
+  
+Principle 3.2 English Language Disclosure 
+Bearing in mind the number of foreign shareholders, companies should, to the extent 
+reasonable, take steps for providing English language disclosures. 
+ 
+  
+Principle 3.3 External Auditors 
+External auditors and companies should re cognize the responsibility that external 
+auditors owe toward shareholders and invest ors, and take appropriate steps to secure 
+the proper execution of audits. 
+Interpretive Guidance 
+The kansayaku board should, at minimum, ensure (i ) establishing st andards for the 
+appropriate selection of external auditor candidates and proper evaluation of external 
+auditors, and (ii) verifying whether external auditors possess necessary independence and
+
+- 19 - 
+expertise to fulfill their responsibilities.  The board and the  kansayaku board should, at 
+minimum, (iii) give adequate time to ensure high quality audits, (iv) ensure that external 
+auditors have access, such as via interviews, to the management including the CEO and 
+the CFO, (v) ensure adequate coordination be tween external auditors and each of the 
+kansayaku (including external auditors’ attendance at the kansayaku board meetings), the 
+internal audit department and outside directors, and (vi) ensure that the company is 
+constituted in the way that it can adequately respond to any misconduct, inadequacies or 
+concerns identified by the external auditors.
+
+- 20 - 
+Section 4: Responsibilities of the Board 
+ 
+General Principle 4 
+Given its fiduciary responsib ility and accountability to sh areholders, in order to 
+promote sustainable corporate growth and the increase of corporate value over the mid- 
+to long-term and enhance earnings power and capital efficiency, the board should 
+appropriately fulfill its roles and responsibilities, including: 
+(1) Setting the broad directio n of corporate strategy; 
+(2) Establishing an environment where a ppropriate risk-taking by the management 
+is supported; and 
+(3) Carrying out effective oversight of directors and the management (including 
+shikkoyaku4 and so-called shikkoyakuin5) from an independent and objective 
+standpoint. 
+Interpretive Guidance 
+With due attention to their fi duciary responsibilities to shareholders and the fact that 
+they are elected by share holders, the directors and kansayaku should secure appropriate 
+cooperation with stakeholders other than shar eholders and act in the interest of the 
+company and the common interests of its shareholders.  
+The ideal state of the board changes depending on its path for growth and the situations 
+surrounding the company, and the ideal division of responsibilities between the board and 
+management varies depending on the situations at each company. The board should 
+persistently consider the ideal state of the board based on such perspectives. 
+Companies may choose one of three main fo rms of organizational structure under the 
+Companies Act: Company with Kansayaku Board, Company with Three Committees 
+(Nomination, Audit and Remuneration), or Company with Supervisory Committee. 
+Irrespective of which form of organizational structure is adopted, what is important is that 
+ 
+4 Shikkoyaku: According to the Companies Act, Companies with Three Committees (Nomination, 
+Audit and Remuneration) must appoint one or more shikkoyaku from directors or non-directors by 
+a resolution of the board and delegate business administration to shikkoyaku. Also, authority to make 
+certain kinds of business decisions may be delegated to shikkoyaku. 
+5  Shikkoyakuin: There are cases where a Company with Kansayaku Board or a Company with 
+Supervisory Committee creates pos itions with the title of “ shikkoyakuin” for persons who are 
+delegated by the board a certain range of discretion regarding business administration. Unlike 
+shikkoyaku in Companies with Three Committees (Nomination, Audit and Remuneration), 
+shikkoyakuin is not a statutory position.
+
+- 21 - 
+the various institutions within the comp any effectively and fully execute their 
+responsibilities through creativity and ingenuity. 
+The possibility cannot be ruled out that, due to changes in the external environment or 
+other factors, a decision made by a company ultimately results in losses for the company. 
+In such a circumstance, the reasonableness of the decision-making process at the time of 
+the decision is generally considered an important factor in determining whether or not the 
+management and directors should owe personal liability for damages. The Code includes 
+principles and practices that are expected to  contribute to such a reasonable decision-
+making process, and it is expected that thes e promote transparency, fairness, timeliness 
+and decisiveness as well.
+
+- 22 - 
+Principle 4.1 Roles and Responsibiliti es of the Board I: Setting Strate gic 
+Directions for Companies’ Business Strategies 
+The board should view the establis hment of corporate goals (e.g., business 
+principles) and the setting of  strategic direction such as  creating a path for growth 
+toward corporate goals as one major aspect of its roles a nd responsibilities. It should 
+engage in constructive discussion with re spect to specific business strategies and 
+business plans.   
+When establishing and disclosing business st rategies and business plans, with the 
+aim of achieving growth, the board should ar ticulate their earnings plans and capital 
+policies taking into acc ount the cost of capita l, present targets fo r profitability and 
+capital efficiency, and explain specific measures that will be taken in order to achieve 
+growth related to allocation of business resources such as growth investment (including 
+capital expenditure, R&D, human capital, a nd intangible assets, including intellectual 
+properties) and review of their business portfolio.  
+Interpretive Guidance 
+Companies should set a path for growth toward corporate goals (e.g., business 
+principles), taking into account their stre ngths including competitive advantages and 
+various stakeholders, and operate business acti vities in accordance with this path. The 
+board has roles and responsibilities in constructing and presenting the path for growth. 
+Based on the path for growth, the board should establish and disclose business 
+strategies and business plans while accurately identifying the company’s cost of capital. 
+Also, in order to achieve these presented earnings plans, capital policies and targets for 
+profitability and capital efficiency, compan ies should appropriatel y allocate capital and 
+other business resources such as by carry ing out growth investments and business 
+portfolio reviews.  
+The board should, from the perspective of increasing corporate value over the mid- to 
+long-term, provide explanations  that are clear and logical to shareholders regarding 
+specific measures that will be taken in order to achieve their business strategies, business 
+plans and capital policy, taking into account its profitability, capital efficiency, the cost of 
+capital, growth potential, growth stage of a company and opportunity cost (loss of profit 
+from taking one option over another). When co nsidering investments, the board should 
+sufficiently recognize that there are various investment  opportunities; fo r example, (i) 
+from such perspectives as investing internal ly (investing in assets such as capital 
+expenditure, R&D, human capital and intangible assets, including intellectual properties)
+
+- 23 - 
+or investing externally (investing in M&As, business alliances, and start-ups), (ii) from 
+such perspectives as short or mid- to long-term, (iii) from such perspectives as domestic 
+investments (investing in regions such as  human capital and es tablishing regional 
+headquarters) or overseas investments. Investing in intangibl e assets, including 
+intellectual properties, should be addressed strategically in term s of their creation, 
+acquisition, strengthening, protection, and monetization, in recognition of their role as a 
+source of competitiveness and corporate value. 
+In formulating and announcing business st rategies and business plans, companies 
+should clearly present the basic policy rega rding the business portf olio decided by the 
+board and the status of the review of such portfolio. 
+In addition, recognizing that  a mid-term business plan ( chuuki keiei keikaku ) is a 
+commitment to shareholders, if the board and the management have created and disclosed 
+a plan, they should do their best  to achieve the plan. Should the company fail to deliver 
+on its mid-term business plan, the reasons unde rlying the failure of achievement as well 
+as the company’s actions should be fully analyzed, an appropriate explanation should be 
+given to shareholders, and analytic findings should be reflected in a plan for the ensuing 
+years. 
+ 
+ 
+Principle 4.2 Roles and Responsibiliti es of the Board II: Establishing 
+Environment for Supporting Appropriate Risk-taking 
+(1) The board should establish an environment that supports appropriate risk-taking 
+by the management. 
+(2) The board should persistently review whether the allocation of the company’s 
+business resources is appropriate in light of its disclosed business strategy and 
+business plan created with the aim of achieving growth.  
+(3) The remuneration of the management should include appropriate incentives to 
+increase corporate value over the mid- to long-term. 
+Interpretive Guidance 
+The board should view the establishment of an environment that supports appropriate 
+risk-taking by the management as a major aspect of its roles and responsibilities. It should 
+welcome proposals from the management ba sed on healthy entrep reneurship, fully 
+examine such proposals from an independent and objective standpoint  with the aim of
+
+- 24 - 
+securing accountability, and support timely  and decisive decision-making by the 
+management when approved plans are implemented.  
+Based on its business strategies  and plans, the board should persistently review the 
+allocation of company business resources that  support appropriate ri sk-taking and that 
+lead to sustainable growth and increased corporate value over th e mid- to long-term, 
+including whether business resources, such as  financial assets like cash and real assets, 
+are utilized efficiently in growth investments. The board should effectively supervise the 
+allocation of business resources and the impl ementation of business portfolio strategies 
+to ensure that they contribute to the sustainable growth of the company. 
+Also, the board should de sign management remuneratio n systems thr ough objective 
+and transparent procedures and determine sp ecific amount of remuneration accordingly. 
+In doing so, the proportion of management remuneration linked to mid- to long-term 
+results and the balance of cash and stock shoul d be set appropriatel y, reflecting mid- to 
+long-term business results and potential risks, as well as promoting healthy 
+entrepreneurship. 
+ 
+ 
+Principle 4.3 Roles and Responsibilities of  the Board III: Effective Oversight of 
+the Management and Directors (i) 
+(1) The board should, from an independent and objective standpoint, appropriately 
+evaluate company performance and reflect the evaluation in its assessment of 
+the management including appointment/dismissal of the management according 
+to objective, timely and transparent procedures.  
+Especially, regarding the appointment/dismissal of the CEO, the board should, 
+based on the company objectives (e.g., 
+business principles) and specific 
+business strategies, proactively e ngage in the establishment and 
+implementation of a succession plan fo r the CEO and appropriately oversee 
+that the development of succession candi dates and appointment of a qualified 
+CEO are strategically carried out by de ploying sufficient time and resources.  
+The board should establish objective, timely, and transparent procedures such 
+that a CEO is dismissed when it is determined, via an appropriate evaluation of 
+the company’s business results, that the CEO is not adequately fulfilling the 
+CEO’s responsibilities. 
+(2) The board should engage in oversight ac tivities in order to ensure timely and
+
+- 25 - 
+accurate information disclosure. 
+(3) The board should appropriately deal with any conflict of interests that may arise 
+between the company and its related pa rties, including the management and 
+controlling shareholders. Regarding transactions between the company and its 
+related parties, the board should establish appropriate procedures beforehand in 
+proportion to the importance and characteri stics of the transaction. In addition 
+to their use by the board in monitoring (including approving) such transactions, 
+these procedures should be disclosed. 
+Interpretive Guidance 
+The board’s major roles and responsibili ties from an inde pendent and objective 
+standpoint include effective oversight of the management and directors such as 
+appointment/dismissal of management, timely and accurate information disclosure, and 
+managing related party transactions. 
+The selection of core management member s is the foundation of effective corporate 
+governance. In particular, appointment/dismissal of a CEO is one of the most important 
+strategic corporate decisions to be made. Given such importance, the board should 
+monitor appointments/dismissals of management. 
+ 
+ 
+Principle 4.4 Roles and Responsibilitie s of the Board III: Effective Oversi ght of 
+Management and Directors (ii) 
+The board should establish appropriate internal cont rol and enterprise risk 
+management systems. 
+Interpretive Guidance 
+The establishment of effective internal control and proactive enterprise risk 
+management is not only important for mitigating risks and sustaining trust  through 
+adequate compliance, but it also has the poten tial of supporting management in decisive 
+risk-taking. The board should appropriately establish such systems on an enterprise basis 
+and oversee their operational status in addition to utilizing the internal audit department. 
+Responses to cybersecurity risks, as well as to supply chain disruption risks and risks of 
+leakage of technological and other informatio n arising from geopolitical factors such as 
+changes in the international environment surrounding economic security, could also lead
+
+- 26 - 
+to earning opportunities. These risks could be included in the factors to be considered 
+when establishing a risk management system , and responses to th ese risks should be 
+appropriately conducted. 
+ 
+  
+Principle 4.5 Roles and Responsibilities of the Board IV: Sustainability Measures 
+The board should address sustainability ma tters positively and proactively in terms 
+of increasing corporate value over the mid - to long-term. Also, the board should 
+develop a basic policy for the company’s sustainability initiatives and take appropriate 
+measures. 
+Interpretive Guidance 
+Sustainability (mid- to long- term sustainability) is an important management issue. 
+From the perspective of asse ssing mid- to long-term corpor ate value, the importance of 
+sustainability-related information is growi ng globally. The International Sustainability 
+Standards Board (ISSB) has formulated a global sustainability disclosure standard (ISSB 
+Standards), and there has been progress in countries’ implementation of the sustainability 
+disclosure standard. In Japan as well, certain companies listed on the Prime Market are 
+required to prepare their a nnual securities reports based on disclosure standards 
+established by the Sustainability Standards Board of Japan (SSBJ), which are aligned with 
+the ISSB standards. Meanwhile, it is important for companies to further promote positive 
+and proactive responses to sustainability issues. 
+The board should recognize that dealing with sustainability issue, such as taking care 
+of climate change and other global environmental issues, respect of human rights, fair and 
+appropriate treatment of the workforce including caring for their health and working 
+environment, crisis management for natura l disasters, and dive rsity are important 
+management issues that can lead to earni ng opportunities as well as risk mitigation, and 
+should take appropriate measures to addr ess these issues from the perspective of 
+sustainable growth of the company and increasing corporate value over the mid- to long-
+term. 
+ 
+  
+Principle 4.6 Roles and Responsibilities of Kansayaku and the Kansayaku Board 
+Kansayaku and the kansayaku 
+board should bear in mind their fiduciary
+
+- 27 - 
+responsibilities to shareholders and make decisions from an independent and objective 
+standpoint when executing their roles and re sponsibilities, and they should positively 
+and proactively exercise their rights and express their view s at board meetings and to 
+the management. 
+Interpretive Guidance  
+So-called “defensive functions,” such as business and accounting audits, are part of the 
+roles and responsibilities expected of kansayaku and the kansayaku board. The roles and 
+responsibilities of kansayaku and the kansayaku board include appointment/dismissal of 
+kansayaku and external auditors, and the determination of auditor remuneration. In order 
+to fully perform their duties, it would not be appropriate for kansayaku and the kansayaku 
+board to interpret the scope of their function too narrowly.  
+Kansayaku or the kansayaku board should secure cooperation with outside directors so 
+that such directors can strengthen their cap acity to collect  information without having 
+their independence jeopardized.  
+ 
+Principle 4.7 Use of Optional Approaches 
+In adopting the most appropriate organi zational structure (as stipulated by the 
+Companies Act) that is suitable for a comp any’s specific characteristics, companies 
+should employ optional approaches, as necessary, to further enhance governance 
+functions.  
+In particular, if the organizational struct ure of a company is either Company with 
+Kansayaku Board or Company with Supervisory Committee and independent 
+directors
+6 do not compose a majority of the boa rd, the company should establish an 
+independent nomination committee and remuneration committee under the board, 
+comprised primarily of indepe ndent directors, and seek appropriate involvement and 
+advice from the committees.  
+Companies listed on the Prime Market should  basically have the majority of the 
+members of each committee be independent  directors, and should disclose the 
+mandates and roles of the committees, as well as the policy regarding the independence 
+of the composition.  
+ 
+6 Independent director:  The listing rules of securities exchanges provide that the outside directors, as 
+defined in the Companies Act, are independent directors where they satisfy independence criteria of 
+securities exchanges and the company determines that they do not have the possibility of conflicts 
+of interest with its shareholders.
+
+- 28 - 
+Interpretive Guidance 
+The ideal state of the board can vary depending on the characteristics of each company. 
+Companies should adopt the optimal organizational structure best suited to their specific 
+situation, while effectively utilizing optional committees, such as nomination committees 
+and remuneration committees, to further strengthen their governance functions. 
+In order to strengthen the independence,  objectivity and accountability of board 
+functions on the matters of nomination (including a succession plan) and remuneration of 
+the management and directors, the formation of nomination committee and remuneration 
+committee is important. A nomination commi ttee and remuneration committee should 
+have the responsibilities of appropriately involving and providing advice to the board, 
+including from the perspective of gender and other diversity and skills, in the examination 
+of such important matters as nominations and remuneration. 
+ 
+ 
+Principle 4.8 Roles and Responsibilities of Independent Directors 
+Companies should make effective use of  independent directors taking into 
+consideration the expectations listed below with respect to their roles and 
+responsibilities: 
+(1) Monitoring of the management through important decision-making at the board 
+including the appointment/dismissal of the management; 
+(2) Monitoring of conflicts of interest between the company and the management 
+or controlling shareholders;  
+(3) Appropriately representing the view s of minority shareh olders and other 
+stakeholders in the boardroom from  a standpoint independent of the 
+management and controlling shareholders; and 
+(4) Provision of advice on business polic ies and business imp rovement based on 
+their knowledge and experience with the aim to promote sustainable corporate 
+growth and increase corporate value over the mid- to long-term.  
+Interpretive Guidance 
+Independent directors are expected to proactively perform important roles and 
+responsibilities primarily relating to matters indicated in (1) through (4) of this Principle 
+based on an independent and objective standpoint from the management and controlling 
+shareholders.
+
+- 29 - 
+For example, independent directors should put effort into refl ecting the views of 
+minority shareholders in the boardroom through directly holdi ng dialogue with 
+shareholders as necessary. Also, by building a trusting and candid relationship with the 
+management, in normal times, independent directors should delegate business execution 
+to the management and carry out strate gic discussions and decision-making via 
+monitoring and provision of advice. If inde pendent directors ca nnot agree with an 
+explanation provided by the management, it  is necessary that they express opposing 
+opinions in order to appropria tely perform their roles and respons ibilities. Further, 
+independent directors should perform their roles and res ponsibilities, including by 
+proactively making contribution in a nomination committee and remuneration committee, 
+in mitigating management bias and ensuring that the appointment/dismissal of CEOs and 
+management (including a succession plan) and remunera tions are appropriate from the 
+perspective of increasing corporate value over the mid- to long-term. In companies with 
+controlling shareholders, the roles and res ponsibilities of indepe ndent directors are 
+particularly important due to the structural conflict of interests between the 
+management/controlling shareholders and minority shareholders.  
+On the other hand, in emergencies such as  deteriorating busi ness performance, the 
+handling of misconduct, and corporate takeove rs, independent dire ctors should act to 
+protect the common interests of shareholders and increase corporate value over the mid- 
+to long-term by utilizing thei r independent standpoint from the management, and if the 
+management has a conflict of interests, by appropriately making judgement as a decision 
+maker and fulfilling their accountability.  
+ 
+ 
+Principle 4.9 Ensuring the Expertise of Independent Directors 
+The board should select candidates for inde pendent director who have sufficient 
+expertise to fulfill th eir roles and responsibilities in contributing to the sustainable 
+growth of the company and increasing corporate value over the mid- to long-term, such 
+as those who are expected to contribute to frank, active and constructive discussions at 
+board meetings.  
+Interpretive Guidance 
+In order for independent directors to effectively and appropriately fulfill their roles and 
+responsibilities, it is necessary to appoint a certain number of independent directors who 
+have sufficient expertise. The objective and independent standpoi nt of independent
+
+- 30 - 
+directors ensures the credibility and fairness of their roles an d responsibilities. Of these, 
+this Principle is relevant to the expertise of each independent director, which is the basis 
+for the board to appropriately fulfill their roles and responsibilities.  
+The board could consider what kind of candi date would be qualified for fulfilling the 
+roles and responsibilities in contributing to the sustainable growth  of the company and 
+increasing corporate value over the mid- to long-term, taking into account company 
+objectives (e.g., business principles) and spec ific business strategies. Then, the board 
+could establish a standard with respect to necessary expertise such as insights, skills and 
+experience in order to appoint appropriate independent directors.  
+ 
+ 
+Principle 4.10 Securing Sufficient Number of Independent Directors 
+Companies should appoint independent direct ors who have suffic ient expertise to 
+fulfill their roles and responsibilities with the aim of contributing to sustainable growth 
+of companies and increasing corporate valu e over the mid- to long-term. Companies 
+listed on the Prime Market should therefore appoint at least one-third of their directors 
+as independent directors (two directors if listed on other markets) that have 
+sufficient expertise.  
+Companies listed on the Prime Market with a controlling shareholder should appoint 
+at least the majority of their directors (one-t hird of directors if listed on other markets 
+and with a controlling share holder) as independent direct ors who are independent of 
+the controlling shareholder.  
+Irrespective of the above, if a company listed on the Prime Market 
+believes it needs 
+to appoint the majority of di rectors (at least one-third of directors if listed on other 
+markets) as independent directors based on a broad consideration of factors such as the 
+industry, company size, business charact eristics, organizational structure and 
+circumstances surrounding the company, it should appoint a sufficient number of 
+independent directors. 
+Interpretive Guidance 
+This Principle relates to the “number” of independent directors, which is a necessary 
+element for independent director s to appropriately and effect ively fulfill their roles and 
+responsibilities. Although th is Principle expects compan ies to appoint a certain 
+percentage/number of indepe ndent directors, merely se curing a certain number of 
+independent directors would not immediately result in the fulfillment of the roles and
+
+- 31 - 
+responsibilities of independent directors. Securing independent directors with necessary 
+expertise is the basis for fulfilment.  
+Companies listed on the Prime Market with a controlling shareholder could select to 
+establish a special committee composed of  independent persons including independent 
+director(s) to deliberate and review material transactions or actions that conflict with the 
+interests of the controlling shareholder and minority shareholders, in lieu of appointing at 
+least the majority of their directors (one-third  of directors if list ed on other markets and 
+with a controlling shareholder) as indepe ndent directors who ar e independent of the 
+controlling shareholder, if they consider it appropriate. 
+It is also desirable that companies, whic h do not have a controlling shareholder, but 
+have a shareholder with substantial control, take the approach in accordance with the aim 
+of this Principle.  
+ 
+ 
+Principle 4.11 Ensuring Independence of Independent Directors 
+Boards should establish independence st andards aimed at se curing effective 
+independence of independent directors, ta king into consideration the independence 
+criteria set by securities exchanges.  
+Interpretive Guidance 
+Ensuring the “independence” of independent directors secures the credibility and 
+fairness of their roles and res ponsibilities, assuming that th eir expertise and the number 
+of independent directors are sufficient.  
+In order to appoint independent director s who are objectively independent, the board 
+should establish an objective independence standard for effectively determining that there 
+is no potential conflict of interest between  an independent director and general 
+shareholders, such as if the independent direct or is associated with another entity with 
+certain capital and business ties with the company, there being no potential influence from 
+the associated entities. 
+ 
+ 
+Principle 4.12 Effective Functioning of Independent Directors 
+Independent directors should endeavor to  exchange information and develop a 
+shared awareness among themselves from an independent and objective standpoint.
+
+- 32 - 
+Independent directors should endeavor to establish a framework for communicating 
+and coordinating with the manage ment and for cooperating with kansayaku or the 
+kansayaku board. 
+Interpretive Guidance 
+Independent directors could hold regular meetings consisting solely of independent 
+directors (executive sessions) to exchange information and develop a shared awareness 
+and to contribute proactively to discussions in the boardroom from the perspective of an 
+objective and independent standpoint. Also for communicating and coordinating with the 
+management and for cooperating with kansayaku or the kansayaku board, for example, 
+appointing a director who is  primarily in charge of communication, coordination and 
+cooperation (the “Lead Independent Director”) from among themselves is one option.  
+ 
+ 
+Principle 4.13 Preconditions for Board and Kansayaku Board Effectiveness 
+(1) The board should be well balanced in  knowledge, experience and skills in order 
+to fulfill its roles and res ponsibilities, and it should be constituted in a manner 
+to achieve both diversity, including ge nder, international experience, career 
+experience, age, cultural background, a nd appropriate size. The board should 
+identify necessary skills that it should have in light of business strategies and 
+disclose the combination of skills that each director possesses in an appropriate 
+form according to the business environment and business characteristics, along 
+with policies and procedures for nominating directors.  
+(2) Persons with appropriate experience and skills as well as necessary knowledge 
+on finance, accounting, and the law should be appointed as kansayaku. In 
+particular, at least one person who ha s sufficient expertise on finance and 
+accounting should be appointed as kansayaku.  
+At least one person with management experience in other companies should 
+be included in independent directors.  
+(3) The board should annually analyze and ev aluate effectiveness of the board as a 
+whole, and should disclose a summary of the results. 
+Interpretive Guidance 
+The board should identify the skills that are needed to perform its roles and
+
+- 33 - 
+responsibilities, and execute and implement its business strategies  and business plans. 
+Also, the board should consider the appropriate balance between knowledge, experience 
+and skills of the board as a whole, as well as diversity and appropriate board size. Then, 
+the board should make disclosure in accordan ce with the aim of this Principle, for 
+example, “skills matrix” that lists knowledge, experience and skills of each director.  
+Outside directors, outside kansayaku7, and other directors and kansayaku should devote 
+sufficient time and effort required to appr opriately fulfill their respective roles and 
+responsibilities. Therefore, where directors and kansayaku also serve as directors, 
+kansayaku or the management at other companies,  such positions should be limited to a 
+reasonable number. 
+In addition, when evaluating the board effe ctiveness, it is beneficial to make 
+evaluations that take into account how the boa rd should function in order to fulfill their 
+roles and responsibilities. While there are a variety of ways for making evaluations, for 
+example, one option is for each director to make a self-evaluation and to evaluate the 
+board as a whole.  
+ 
+ 
+Principle 4.14 Active Board Deliberations 
+(1) The board should endeavor to foster a climate where free, open and constructive 
+discussions and exchanges of views take place, including the raising of concerns 
+by outside directors. 
+(2) In order to fulfill their roles and responsibilities, directors and kansayaku should 
+proactively collect information, and as  necessary, request the company to 
+provide them with a dditional information. Also, the board and the kansayaku 
+board should verify whether information requested by directors and kansayaku 
+is being provided smoothly. 
+(3) Companies should establish a s upport structure fo r directors and kansayaku, 
+including providing sufficient staff with in the department that supports the 
+board. 
+ 
+7 Outside kansayaku: A kansayaku who satisfies certain requirements such as not holding specific 
+positions, including the position of director, in the company or its subsidiaries (Article 2, Paragraph 
+16 of the Companies Act). Furthermore, matters such as not holding a specific position in the parent 
+company or other subsidiaries and not having specific kinship ties with controlling shareholders is 
+also required for outside kansayaku under the Companies Act.
+
+- 34 - 
+Interpretive Guidance 
+For the board to sufficiently perform its roles and responsibilities, it is crucial that the 
+substantial deliberation is held in the board room. The board is expected to proactively 
+implement measures to promote substantial and active deliberation.  
+The board should attempt to make deliberatio ns active, for example, by (i) sharing 
+materials for the board meeting sufficiently in advance of the meeting date, (ii) providing 
+sufficient information as necessary in addi tion to board materials to directors by the 
+company (where appropriate, the information should be orga nized and/or analyzed to 
+promote easy understanding), (iii) determining in advance the schedule of board meetings 
+for the current year and anticip ated agenda items, (iv) sett ing appropriately the number 
+of agenda items and the frequency of board meetings, and (v) securing sufficient time for 
+deliberations.  
+In order to effectively fulfill the roles and responsibilities of directors and kansayaku, 
+it is essential that companies provide them with appropriate support, including responding 
+to information requests made by directors and kansayaku. 
+Companies should ensure coordination between the internal audit department, directors 
+and kansayaku by establishing a system in which the internal audit department 
+appropriately reports directly to the board and the kansayaku board in order for them to 
+fulfill their functions. 
+Also, in order to make deliberations active and to provide appropriate support including 
+the provision of information to directors and kansayaku, including outside directors and 
+kansayaku, it is important to promote initiatives such as enhancing the functions of the 
+board secretariat (e.g., corporate secretary) who supports the board. It is desirable that the 
+board secretariat proactively operate board meetings not only to serve their administrative 
+functions in operating meetings, including thos e listed in (i) through (v) above, but also 
+so that the boardroom and each committee opera te as effective forums for discussion by 
+setting appropriate agendas in light of the ro les and responsibilities of the applicable 
+meeting body. Also, as necessary, the board secretariat is expected to take on the role of 
+communicating and coordinating with internal  divisions of the co mpany in order to 
+appropriately provide company information when requested by outside directors and 
+outside kansayaku. 
+In addition, the functions of the board secr etariat are considered to be particularly 
+important when an independent director serves as the chair of the board, or when the ratio 
+of outside directors on the board is significant.
+
+- 35 - 
+ 
+Principle 4.15 Director and Kansayaku Training 
+Directors and kansayaku should deepen their understanding of their roles and 
+responsibilities as a critical governance body at a company, and should endeavor to 
+acquire and update necessary knowledge and skills on the company’s business, finance, 
+and organization.  Accordingly, compan ies should provide and arrange training 
+opportunities suitable to each director and kansayaku along with financial support for 
+associated expenses and should disclose  their training polic y for directors and 
+kansayaku. The board should verify whether such opportunities and support are 
+appropriately provided.

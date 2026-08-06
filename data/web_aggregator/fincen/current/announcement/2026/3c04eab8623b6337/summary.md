@@ -1,0 +1,1 @@
+Summary: # Judge Rules Defendant Guilty of Structuring; No Connection to Criminal Activity Alleged

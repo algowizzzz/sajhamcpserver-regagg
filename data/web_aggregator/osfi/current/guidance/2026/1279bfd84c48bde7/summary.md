@@ -1,0 +1,1 @@
+Summary: # Consultation on Pillar 3 Disclosure Guidelines for Interest Rate Risk in the Banking Book – Letter

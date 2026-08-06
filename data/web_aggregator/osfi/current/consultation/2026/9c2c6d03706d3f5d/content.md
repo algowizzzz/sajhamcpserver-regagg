@@ -1,0 +1,22 @@
+# Aperçu des résultats de l’exercice de consultation du secteur de l’assurance vie
+
+Durant l’exercice 2021-2022, le BSIF a confié à Sage Research Corporation, un cabinet de recherche indépendant, la tâche de mener, en toute confidentialité, une consultation auprès de cadres de sociétés d’assurance vie dans le but de faire le point sur son efficacité à titre d’organisme de réglementation et de surveillance et à l’égard de l’exécution des principaux volets de son mandat. Depuis 1998, le BSIF confie ce type d’exercice à des cabinets de recherche pour s’enquérir de l’opinion des dirigeants du secteur financier à son égard.
+
+Cette consultation du secteur de l’assurance vie s’est déroulée sous forme d’entrevues individuelles auxquelles a participé, sous le couvert de l’anonymat, un échantillon représentatif de cadres supérieurs de sociétés d’assurance vie réglementées par le BSIF. Sage Research Corporation a choisi et interviewé les participants, sans l’intervention du BSIF. Les résultats, de nature qualitative, sont présentés sous forme de condensé pour garantir l’anonymat des participants.
+
+Dans l’ensemble, le BSIF fait très bonne figure. En effet, les participants affirment qu’il a établi de très bonnes relations de travail avec les entités qu’il réglemente, qu’il prend l’initiative de cerner les nouveaux axes de risque et d’y répondre, et qu’il est efficace pour assurer la solidité du secteur financier.
+
+Malgré ce bilan positif, les participants ont signalé quelques points à améliorer. Leurs réponses et observations sont grandement appréciées. D’ailleurs, les prochains exercices de consultation porteront sur les progrès réalisés par rapport aux points à améliorer.
+
+Le BSIF a pour mandat de protéger les déposants, les souscripteurs, les participants des régimes de retraite et les créanciers des institutions financières tout en permettant à celles-ci de faire face à la concurrence et de prendre des risques raisonnables.
+
+Le rapport est publié sur le [site Web de Bibliothèque et Archives Canada](http://epe.lac-bac.gc.ca/100/200/301/pwgsc-tpsgc/por-ef/office_superintendent_financial/2022/032-21-f/index.html). Pour en savoir plus au sujet de la méthode de consultation ou des résultats, veuillez écrire à l’adresse que voici : [information@osfi-bsif.gc.ca](mailto:information@osfi-bsif.gc.ca).
+
+## Liens utiles
+
+* [Sommaire](/fr/consultations/resume-consultations/apercu-resultats-lexercice-consultation-du-secteur-lassurance-vie/consultation-du-secteur-lassurance-vie-csav-2021-2022 "Consultation du secteur de l’assurance vie (CSAV) 2021-2022")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-10-31

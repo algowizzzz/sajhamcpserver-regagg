@@ -1,0 +1,50 @@
+# Announcement of the publication of the Governor's interview transcript
+
+Statement from the Bank of England
+
+Published on
+17 June 2026
+
+## Statement
+
+Following the publication of Monetary Policy Summary and minutes of the Monetary Policy Committee meeting on 18 June 2026, the Governor will give his usual pooled broadcast interview. The transcript of this interview will be published at 1.30pm on this page:
+
+[Transcript of the Governor's pooled broadcast interview following the publication of the Monetary Policy Summary and minutes of the Monetary Policy Committee meeting on 18 June 2026](/news/2026/june/the-governor-interview-transcript-18-june-2026)
+
+## Other news
+
+[News
+
+30 July 2026
+
+### Minutes of the Meeting of the Court of Directors...
+
+### Minutes of the Meeting of the Court of Directors held on 4 June 2026](/minutes/2026/july/court-minutes-4-june-2026)
+
+[News // Monetary Policy Committee (MPC)
+
+30 July 2026
+
+### Bank Rate maintained at 3.75% - July 2026...
+
+### Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes](/monetary-policy-summary-and-minutes/2026/july-2026)
+
+[News // Letter
+
+23 July 2026
+
+### Letter from the Governor to the Daily Mail
+
+### Letter from the Governor to the Daily Mail](/letter/2026/letter-from-the-governor-to-the-daily-mail)
+
+[News // News release
+
+22 July 2026
+
+### PRA consults on updated guidance for friendly...
+
+### PRA consults on updated guidance for friendly society amalgamations and transfers](/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers)
+
+[View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

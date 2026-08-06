@@ -1,0 +1,285 @@
+# Indicateurs actualisés : Recyclage de produits provenant de la traite de personnes à des fins d’exploitation sexuelle
+
+Référence : CANAFE-2021-OA001  
+ Juillet 2021
+
+[![](/images/download.png)
+
+Indicateurs actualisés : Recyclage de produits provenant de la traite de personnes à des fins d’exploitation sexuelle (version PDF, 741 ko)](oai-hts-2021-fra.pdf)
+
+## Objectif
+
+La présente Alerte opérationnelle constitue une mise à jour de l’Alerte opérationnelle de CANAFE de 2016 intitulée « [Indicateurs : Recyclage de produits illicites provenant de la traite de personnes à des fins d’exploitation sexuelle](/intel/operation/oai-hts-fra) » et comporte des indicateurs supplémentaires à l’appui du projet Protect dans le but d’aider les entités déclarantes à reconnaître les opérations financières qu’elles soupçonnent d’être liées au blanchiment d’argent provenant de la traite de personnes à des fins d’exploitation sexuelle. Grâce aux déclarations d’opérations financières, CANAFE contribue à la détection, la prévention et la dissuasion de toutes les étapes du blanchiment d’argent (soit le placement, la dispersion et l’intégration) et du financement des activités terroristes en fournissant des communications de renseignements financiers exploitables aux organismes d’application de la loi et de sécurité nationale.
+
+## Contexte
+
+Les gens confondent souvent la traite de personnes avec le passage de clandestins, quoique ces crimes peuvent se chevaucher. Le passage de clandestins est le transport illégal de personnes qui consentent à être déplacées au-delà d’une frontière internationale par d’autres personnes moyennant des frais convenus. Le passage de clandestins implique toujours le passage d’une frontière internationale, est volontaire, et la relation entre le passeur et la personne passée clandestinement prend généralement fin lorsque cette dernière arrive dans son pays de destination. À l’inverse, la traite de personnes peut se produire tant à l’intérieur des frontières d’un pays que dans le cadre de mouvements internationaux, elle n’est pas consensuelle (la victime de la traite de personne ne consent pas à être exploitée), elle ne prend pas fin au passage de la frontière et elle implique de forcer ou de contraindre la victime à fournir ses services (généralement l’exploitation sexuelle ou le travail forcé). Dans certains cas, une personne passée clandestinement peut devenir une victime de traite de personnes lorsqu’elle arrive au pays de destination.
+
+### Projet Protect
+
+est une initiative de partenariat public-privé **dirigée par la Banque de Montréal, appuyé par des organismes d’application de la loi et CANAFE.** Lancé en 2016, le projet Protect cible la traite de personnes à des fins d’exploitation sexuelle en mettant l’accent sur l’aspect de blanchiment d’argent du crime. L’initiative a pour objet d’améliorer la compréhension collective du crime, et de renforcer la détection du blanchiment des produits provenant de la traite de personnes à des fins d’exploitation sexuelle.
+
+Selon les rapports, la traite de personnes aux fins d’exploitation sexuelle est plus répandue que le travail forcé. Le Canada est un pays d’origine, de transit et de destination en ce qui concerne les hommes, les femmes et les enfants victimes de la traite de personnes à des fins d’exploitation sexuelle. Les trafiquants exploitent principalement leurs victimes pour en tirer des gains financiers. Les indicateurs de blanchiment d’argent présentés dans le présent document s’appliquent de la même manière à toutes les victimes de la traite de personnes au Canada, quelle que soit leur origine.
+
+### Qu’est-ce que la traite de personnes?
+
+> « La traite des personnes, également connue sous le nom de trafic des personnes, implique de recruter, de transporter, de transférer, de recevoir, de tenir, de loger discrètement, de soutenir ou d’exercer un contrôle, à des fins d’exploitation, généralement à des fins d’exploitation sexuelle ou de travail forcé. »
+
+Selon des recherches, la traite de personnes à des fins d'exploitation sexuelle, tout comme le trafic d'armes ou de drogue, n'est qu'un autre moyen parmi un éventail d'activités criminelles qu'utilisent des groupes du crime organisé, lesquels travaillent souvent en collaboration, pour maximiser leurs gains financiers illicites. L'exploitation sexuelle est une entreprise très rentable pour les criminels, puisque contrairement à la drogue qui ne peut être vendue qu'une seule fois, une personne peut quant à elle être vendue à plusieurs reprises sur une période prolongée. Ce type de crime est d'autant plus attrayant pour les criminels, car le risque de perdre cette entreprise en cas de détection et de poursuite réussie demeure faible en raison des menaces exercées contre les victimes jumelées à l'utilisation de méthodes de blanchiment d'argent bien connues. Les criminels sont donc plus enclins à commettre ce crime, car ils peuvent bénéficier des produits illicites. L'Organisation internationale du travail estime que les produits de la traite de personnes à l'échelle mondiale s'élèvent à 150 milliards USD par année, dont 99 milliards proviendraient spécifiquement de l'exploitation sexuelle forcée.
+
+Au Canada, le nombre d'incidents de traite de personnes signalés à la police est en hausse depuis 2011, le plus important nombre de cas ayant été déclarés en 2019.[Note de bas de page 1](#fn1) Cependant, la plupart des cas de traite de personnes ne sont pas signalés à la police en raison de la réticence ou de l'incapacité des victimes et des témoins à se manifester.[Note de bas de page 2](#fn2) La pandémie de COVID-19 n'a pas limité la traite de personne au Canada et a fait en sorte que plusieurs personnes sont encore plus vulnérables à ce crime.
+
+Une étude récente[Note de bas de page 3](#fn3) du Centre canadien pour mettre fin à la traite de personnes a démontré que les formes les plus communes de traite de personnes à des fins d'exploitation sexuelle au Canada sont l'exploitation au moyen de services d'escortes, suivi de près par les entreprises de massage illicites. De plus, le Centre a identifié plusieurs corridors de traite de personnes reliant les marchés du sexe commerciaux au sein et à l'échelle des provinces canadiennes.
+
+## Aperçu de l'analyse de CANAFE des communications de renseignements liées à la traite de personne aux fins d'exploitation sexuelle[Note de bas de page \*](#fn3-1)
+
+CANAFE a analysé un échantillon d'environ 100 000 opérations tirées de communications de renseignements de CANAFE liées à la traite des personnes à des fins d'exploitation sexuelle communiquées de 2018 à 2020. La majorité des communications de renseignements de CANAFE liées à la traite de personnes aux fins d'exploitation sexuelle concernent principalement des victimes offrant des services sexuels dans des lieux d'hébergement de courte durée (c.-à-d., hôtels). Cette catégorie englobe presque toutes les victimes de l'échantillon de CANAFE. Cependant, CANAFE a identifié deux autres modèles d'affaires utilisés à des fins d'exploitation sexuelle : soit les vitrines d'entreprises illicites offrant des services sexuels (p. ex., des spas, des salons de massage, des clubs privés), et les résidences privées (p. ex., des appartements) avec un certain chevauchement entre les trois catégories. Dans tous les cas, des annonces de services d'escortes ont été utilisées pour obtenir des clients et certains trafiquants exploitaient leurs propres agences d'escortes.
+
+Dans l'ensemble, presque toutes les victimes étaient des femmes et 60 % d'entre elles étaient âgées de moins de 25 ans au moment des opérations et certaines étaient des mineures. Les trafiquants étaient principalement des hommes âgés de 24 à 36 ans. Les trafiquantes étaient quant à elles âgées de 27 à 32 ans, quoique la plupart étaient aussi des victimes ou associées à des trafiquants.
+
+En ce qui concerne les trafiquants exploitant leurs victimes dans des résidences privées ou des entreprises illicites offrant des services sexuels, il s'agissait principalement de femmes plus âgées (habituellement âgées de plus de 40 ans) et plusieurs d'entre elles menaient leurs activités avec leurs conjoints. Certains trafiquants dans ces catégories trafiquaient aussi des victimes dans des lieux d'hébergement de courte durée ou étaient liés à des trafiquants de ces réseaux.
+
+En général, les virements de fonds par courriel et les dépôts en espèces étaient les principales opérations signalées dans les communications de renseignements liées à la traite de personnes aux fins d'exploitation sexuelle. De plus, CANAFE a observé plusieurs méthodes de blanchiment d'argent dans les communications de renseignements. Ces méthodes incluent l'utilisation de casinos en lignes, de casinos, de monnaie virtuelle, de cartes de crédit prépayées, de cartes-cadeaux, de prête-noms, de sociétés fictives appartenant à des trafiquants ou à leurs associés, de fonds dispersés dans des comptes connexes, et de comptes de placement.
+
+Outre la traite de personnes, un certain nombre de trafiquants ont également participé à d'autres activités criminelles (p. ex., trafic de drogue, fraude) ou sont soupçonnés d'y avoir participé, et étaient membres de groupes criminels ou associés à des groupes criminels. Plusieurs trafiquants ont utilisé leurs victimes pour effectuer d'autres crimes. Par conséquent, les méthodes de blanchiment d'argent observées étaient probablement également utilisées pour blanchir les produits générés par d'autres activités criminelles et ne sont pas nécessairement spécifiques à la traite de personne.
+
+Les trafiquants utilisaient fréquemment des prête-noms pour canaliser les produits de la criminalité, payer les frais courants associés à la traite des personnes, blanchir des fonds, ou cacher les bénéficiaires effectifs. Les prête-noms étaient souvent leurs victimes ou des membres de leur famille. Les victimes servaient aussi d'intermédiaires pour canaliser les fonds aux trafiquants et autres victimes. Certaines victimes avaient des rôles à l'intérieur de réseaux de traite de personnes, notamment de collecter les fonds d'autres victimes. Certains trafiquants avaient aussi accès aux comptes de leurs victimes ou étaient titulaires de comptes conjoints avec leurs victimes. Dans l'échantillon de CANAFE, les membres de la famille étaient souvent les parents et les conjoints des trafiquants, mais incluaient aussi leurs frères et sœurs, et des enfants mineurs et d'âge adulte.
+
+Les trafiquants et les victimes achetaient souvent de la monnaie virtuelle avec des fonds envoyés directement à des entreprises d'opération de change en monnaie virtuelle, parfois même immédiatement après avoir reçu plusieurs virements de fonds par courriel de la part de tiers. Cependant, plusieurs trafiquants et victimes ont également envoyé des virements de fonds par courriel à des personnes qui ont acheté de la monnaie virtuelle au nom d'autres personnes. Une telle personne a annoncé ses services d'intermédiaire en monnaie virtuelle sur des sites Web d'escorte.
+
+Les cartes de crédit prépayées étaient une autre méthode utilisée par les trafiquants et les victimes pour blanchir les fonds et payer les frais courants associés à la traite des personnes (p. ex., les annonces d'escortes, les réservations d'hôtel). En effet, EUROPOL a détecté une utilisation accrue de cartes de crédit prépayées par les groupes de crime organisé de traite de personnes aux fins de blanchiment d'argent.[Note de bas de page 4](#fn4) CANAFE a aussi observé que certains trafiquants utilisaient des cartes de crédit prépayées comme moyen de fournir des fonds à leurs victimes. Ces trafiquants transféraient les fonds de leur carte de crédit prépayée à celle de leur victime.
+
+Les trafiquants et les victimes ont effectué des opérations dans des casinos. Les opérations dans les casinos en personne n'ont pas été observées au-delà du début de 2020, ce qui est fort probablement le résultat des restrictions gouvernementales imposées aux entreprises en réponse à la pandémie de COVID-19. De plus, CANAFE a observé une augmentation importante des opérations impliquant des casinos en ligne en 2019 et 2020, ce qui indique qu'il s'agit d'une méthode de blanchiment d'argent en hausse.
+
+Les sociétés fictives ont été utilisées pour offrir illicitement des services sexuels, pour blanchir des produits ou pour gérer les frais courants associés à la traite de personnes. Par exemple, des produits illicites ont été utilisés pour payer le loyer et les services publics de propriétés résidentielles où des services sexuels sont offerts ou qui servent de refuge. Les sociétés fictives de l'échantillon de CANAFE étaient variées et comprenaient des industries telles que la musique, les spas, les salons privés, les restaurants, les motels, l'agriculture, les services de TI, les vêtements, les entreprises liées aux véhicules et à la construction, les entreprises de transport, entre autres. Les sociétés fictives mêlaient des fonds légitimes et illicites ou effectuaient des opérations commerciales limitées. Elles appartenaient à des trafiquants, à leurs associés et à d'autres membres de leurs réseaux de traite de personnes, dont certaines victimes. Des entreprises appartenant à des victimes ont également transféré des fonds aux trafiquants et à leurs entreprises.
+
+CANAFE a observé que certaines méthodes de blanchiment d'argent et certains types d'opérations particuliers étaient plus spécifiques à certains modèles opérationnels de traite de personnes à des fins d'exploitation sexuelle que d'autres. Vous trouverez ci-après des exemples de ces méthodes et opérations.
+
+### Traite de personnes dans des lieux d'hébergement de courte durée
+
+Les communications de renseignements dans lesquelles l'exploitation sexuelle était survenue dans des lieux d'hébergement de courte durée (p. ex., des hôtels) incluaient des achats liés à des frais de stationnement et à des casinos en ligne – ces types d'achats n'ont pas été observés ou n'étaient pas considérables dans les autres catégories. Les achats liés aux casinos en ligne avaient tendance à être effectués tard en soirée ou très tôt le matin. Les achats de cartes de crédit prépayées et de cartes-cadeaux étaient également plus fréquents dans cette catégorie, en plus des achats dans les lieux d'hébergement de courte durée (ce qui serait prévisible). Plusieurs opérations de remboursement de commerçants ont été observées auprès de lieux d'hébergement de courte durée ou d'entités de location de véhicules, et l'on soupçonne que ces commerçants ont plutôt été payés ou partiellement payés en espèces. Plusieurs victimes ont également envoyé des fonds à des entités offrant des appels à frais virés depuis la prison, ce qui est également propre à cette catégorie.
+
+De plus, les trafiquants de cette catégorie ont effectué des opérations indiquant un style de vie extravagant, comme des achats dans des restaurants haut de gamme, des détaillants de vêtements et d'accessoires haut de gamme, des concessionnaires de voitures de luxe, des détaillants de bijoux, des lieux de divertissement, des salles de sport ou des centres de remise en forme, des entreprises de limousines, des entreprises de chirurgie esthétique et des stations thermales. CANAFE n'a pas observé ces types d'opérations pour les victimes et très peu dans d'autres catégories de lieux où l'exploitation sexuelle est survenue.
+
+### Traite de personnes dans des résidences privées
+
+Les communications de renseignements impliquant des trafiquants qui ont exploité leurs victimes dans des résidences privées (p. ex., un appartement) comportaient des dépenses liées à de multiples propriétés. Par exemple, une même partie paie le loyer de multiples appartements dans le même mois ou des paiements d'impôts fonciers sont versés à plusieurs municipalités. Certains de ces trafiquants exploitaient des agences d'escortes et avaient des achats liés à l'hébergement de sites Web et au marketing en ligne, en plus d'achats d'annonces de services d'escorte. Cette catégorie avait le plus de chevauchement avec les autres. Plusieurs opérations dans cette catégorie indiquent que certains trafiquants avaient aussi exploité leurs victimes dans des lieux d'hébergement de courte durée et pourraient aussi avoir offert des services de massage dans des résidences privées similaires à ceux offerts dans des vitrines d'entreprises illicites offrant des services sexuels.
+
+### Trafiquants exploitant des vitrines d'entreprises illicites offrant des services sexuels ou soupçonnés d'exploiter de telles entreprises
+
+Les vitrines d'entreprises illicites offrant des services sexuels incluaient des spas, des salons de massage et des clubs privés. Les opérations en espèces effectuées en personne dans des casinos étaient plus communes dans ces communications de renseignements comparativement à celles dans les autres catégories. Les opérations de casino incluent des achats en espèces de jetons de casino, les avances de fonds à partir de comptes de joueurs, et les déboursements de casino en espèces et en chèques. Ces entreprises se distinguent également par le volume élevé de fonds qu'elles reçoivent des processeurs de paiement, ce qui indique probablement qu'il s'agit d'une méthode de réception des paiements de clients pour des services sexuels.
+
+Plusieurs trafiquants dans cette catégorie exploitaient de multiples entreprises de services sexuels illicites, parfois dans plusieurs villes. Les trafiquants étaient associés à plusieurs sociétés fictives (p. ex., restaurants, entités liées à des véhicules) utilisées pour blanchir des fonds et souvent transférer des fonds entre leurs comptes d'affaires et leurs comptes personnels et ceux de leurs associés. Certains trafiquants avaient aussi des liens financiers à d'autres réseaux de trafiquants.
+
+Certains trafiquants dans cette catégorie, ainsi que ceux qui effectuaient des activités de traite de personnes dans des résidences privées, comportaient des opérations au profit de leurs comptes de placement ou tirées de leurs comptes de placement, ou au profit d'entités de placement en ligne ou provenant d'entités de placement en ligne – pourtant, certaines opérations ne comportaient pas d'achat de placements. CANAFE soupçonne que les trafiquants utilisent leurs comptes de placement ou de commerce pour blanchir des fonds.
+
+### Traite de ressortissants étrangers
+
+Les ressortissants étrangers victimes de la traite de personnes à des fins d'exploitation sexuelle ont été observés dans tous les modèles opérationnels de lieux d'exploitation sexuelle susmentionnés, mais ils étaient surtout concentrés parmi les trafiquants exploitant des vitrines d'entreprises illicites offrant des services sexuels. Certains trafiquants de ressortissants étrangers étaient également impliqués dans le passage de clandestins. Parmi les nationalités étrangères qui ont pu être identifiées dans l'échantillon de CANAFE, les trafiquants faisaient principalement la traite de ressortissants étrangers qui provenaient de la Chine et de la Corée du Sud, mais d'autres victimes provenaient aussi des Philippines, de la Thaïlande, de l'Indonésie, du Portugal et de pays non précisés de l'Europe de l'Est. Les opérations de ces trafiquants et de leurs associés avaient souvent des aspects internationaux, comme des virements de fonds vers plusieurs pays, y compris certains qui se transféraient des fonds à eux-mêmes ou à des associés criminels dans un autre pays, certains étaient associés à des entreprises étrangères également impliquées dans la traite de personnes à des fins d'exploitation sexuelle, ou affichaient des annonces en ligne pour des services d'escorte ou le recrutement d'escortes dans un autre pays.
+
+Les virements de fonds internationaux compris dans les communications de renseignements étaient principalement des virements sortants du Canada à destination de pays tels que les Philippines, le Brésil, la Russie, le Portugal, la Chine, l'Australie, la Colombie, Taiwan, les États-Unis, le Kazakhstan, les Émirats arabes unis, Hong Kong, la Corée du Sud et l'Ouzbékistan, les raisons des virements n'étant généralement pas indiquées. Cependant, un certain nombre de virements transmis indiquaient des raisons principalement liées à la famille, à un cadeau, au remboursement d'un prêt ou aux frais de scolarité. Certains fonds transférés (pour un total de 1,5 million de dollars canadiens) vers les États-Unis mentionnaient l'achat d'une franchise hôtelière – l'expéditeur de ces virements était un travailleur du sexe étroitement associé aux trafiquants. En effet, un autre trafiquant possédait également des franchises de motels au Canada. Les virements de fonds vers le Canada provenaient principalement de la Chine, mais aussi de Hong Kong et de la Corée du Sud, et indiquaient comme motif des frais de subsistance, de consultation, de formation, d'éducation et de voyage.
+
+## Motifs raisonnables de soupçonner et comment utiliser les indicateurs
+
+Bien que la façon dont les entités déclarantes déterminent si elles doivent soumettre une déclaration d'opérations douteuses à CANAFE (relativement à une opération financière effectuée ou tentée) nécessite plus qu'une « intuition » ou qu'un « pressentiment », il n'est pas nécessaire pour autant de prouver qu'une activité de blanchiment d'argent a eu lieu. Les entités déclarantes doivent prendre en considération les faits, le contexte et les indicateurs de blanchiment d'argent d'une opération. Lorsque ces éléments sont pris en compte ensemble, ils créent une image qui est essentielle pour différencier ce qui peut être douteux et ce qui peut être raisonnable dans un scénario donné. Les entités déclarantes doivent avoir des motifs raisonnables de soupçonner qu'une opération est liée au recyclage ou à une tentative de recyclage de produits de la criminalité avant de pouvoir présenter une déclaration d'opérations douteuses à CANAFE.
+
+Les indicateurs de blanchiment d'argent peuvent être considérés comme des signes d'alerte laissant présager la possibilité que quelque chose ne tourne pas rond. Les signes d'alerte se manifestent habituellement par un ou plusieurs comportements, caractéristiques, structures et autres facteurs contextuels liés aux opérations financières qui les font apparaître incohérentes par rapport à ce à quoi on s'attendrait ou ce que l'on considérerait comme étant normal.
+
+Un indicateur pris isolément peut ne pas sembler douteux au départ. Toutefois, il peut vous amener à mettre en doute la légitimité d'une opération, ce qui peut vous inciter à évaluer l'opération afin de déterminer s'il existe d'autres faits, éléments contextuels ou indicateurs supplémentaires de blanchiment d'argent ou de financement du terrorisme qui renforceraient vos soupçons au point de nécessiter la soumission d'une DOD à CANAFE (voir la [Déclaration d'opérations douteuses à CANAFE](/guidance-directives/transaction-operation/str-dod/str-dod-fra)).
+
+## Indicateurs de blanchiment d'argent
+
+Les indicateurs qui suivent sont propres à la traite de personnes à des fins d'exploitation sexuelle. Ils sont tirés de l'analyse de CANAFE et reflètent des types d'opérations particulières et des similitudes dans la réalisation de celles-ci, des facteurs contextuels et d'autres éléments qui soulignent l'importance de bien connaître votre client. Tous les indicateurs de CANAFE énoncés dans l'[Alerte opérationnelle de 2016](/intel/operation/oai-hts-fra) sur le recyclage de produits illicites provenant de la traite de personnes à des fins d'exploitation sexuelle demeurent pertinents (voir l'**Annexe**). Les indicateurs supplémentaires doivent être pris en compte avec ceux de l'Alerte opérationnelle de 2016.
+
+Les indicateurs énumérés dans le présent document ne doivent pas être utilisés isolément; à eux seuls, ils ne sont pas nécessairement suffisants pour faire naître des soupçons de blanchiment d'argent ou d'autres activités douteuses. Ils doivent être évalués par les entités déclarantes en combinaison avec ce qu'elles savent de leur client et d'autres facteurs entourant les opérations pour déterminer s'il existe des motifs raisonnables de soupçonner qu'une opération, effectuée ou tentée, est liée à la commission, réelle ou tentée, d'une infraction de recyclage des produits de la criminalité. En tenant compte de l'ensemble des indicateurs, il peut être possible de découvrir des liens jusque-là inconnus qui, lorsqu'ils sont examinés en un tout, peuvent donner lieu à des motifs raisonnables de soupçonner qu'une opération est liée au blanchiment des produits découlant des activités de traite de personnes. C'est une constellation de facteurs qui renforce la détermination des soupçons. Ces indicateurs visent à aider les entités déclarantes dans leur analyse et leur évaluation des opérations financières douteuses.
+
+### Indicateurs contextuels et de blanchiment d'argent généraux pouvant être liés à la traite de personnes à des fins d'exploitation sexuelle
+
+CANAFE a constaté, d'après son analyse de l'échantillon d'opérations liées à la traite de personnes à des fins d'exploitation sexuelle, que la majorité des victimes étaient des femmes et que la majorité des trafiquants étaient des hommes. Cette constatation est conforme à de nombreuses sources externes. Dans cette optique, certains indicateurs ci-dessous font référence à des sexes spécifiques afin de fournir un contexte et de caractériser potentiellement le rôle des personnes dans la traite de personnes. Cependant, n'importe qui peut être une victime de la traite de personnes - les hommes et les personnes d'autres identités sexuelles sont également victimes de ce crime. En outre, certaines femmes peuvent avoir un double rôle, celui de trafiquant et de victime, ou avoir d'autres fonctions dans les opérations de traite de personnes.
+
+* Des achats de sommes arrondies dans les épiceries ou autres détaillants qui vendent des cartes cadeaux ou des cartes de crédit prépayées.
+* Des achats atypiques de grande valeur dans des dépanneurs, en particulier ceux qui vendent des cartes-cadeaux, des cartes de crédit prépayées ou qui offrent des services de virement de fonds.
+* Des achats chez des commerçants en ligne spécialisés dans la vente de cartes cadeaux.
+* Des achats ou des paiements chez des concessionnaires de véhicules de luxe ou pour des services de limousine.
+* Des achats ou des paiements dans des restaurants haut de gamme.
+* Des achats ou des paiements auprès de détaillants de vêtements, de chaussures ou d'accessoires haut de gamme.
+* Des achats ou des paiements auprès d'entités proposant des opérations de chirurgie esthétique ou d'autres procédures médicales visant à améliorer l'apparence physique d'une personne.
+* Dans achats dans des boîtes de nuit haut de gamme.
+* Des achats chez des détaillants de bijoux.
+* Des paiements fréquents de faible valeur pour le stationnement.
+* Des achats fréquents de services de livraison de nourriture, souvent le même jour. (Cela peut indiquer que la nourriture est destinée à plusieurs personnes ou que le compte est utilisé par plusieurs personnes pour acheter de la nourriture.)
+* Des achats ou paiements à des entités associées à des appels à frais virés de prisons.
+* Des virements fréquents vers des plateformes d'échange de monnaie virtuelle, en particulier si ces fonds provenaient de virements de fonds par courriel transmis par plusieurs personnes.
+* Des virements fréquents à des personnes qui effectuent des échanges de devises virtuelles pour le compte de tiers, en particulier si ces fonds proviennent de virements de fonds par courriel transmis par plusieurs personnes.
+* Des virements pour le compte de personnes ou d'entités qui font de la publicité pour leurs services en monnaie virtuelle sur des sites d'escorte.
+* Des achats ou paiements fréquents à des platesformes de jeux ou de casinos en ligne, en particulier si ces fonds proviennent de virements de fonds par courriel transmis par plusieurs personnes.
+* Des virements fréquents de fonds vers une carte de crédit prépayée rechargeable, en particulier vers plusieurs cartes prépayées.
+* L'utilisation de cartes prépayées rechargeables pour effectuer des virements de carte à carte. Lorsqu'une carte n'est pas rechargée et ne reçoit que des virements d'un autre utilisateur de carte rechargeable. (Par exemple, la carte de crédit prépayée rechargeable d'une femme n'est pas rechargée et ne reçoit que les virements d'une autre carte prépayée rechargeable.)
+* La carte de crédit prépayée rechargeable d'une femme est financée par des recharges ou des virements d'un homme, généralement le même homme.
+* Des paiements excessifs à plusieurs fournisseurs de services téléphoniques ou Internet.
+* Plusieurs numéros de téléphone tentent d'accéder au compte bancaire d'une femme.
+* Le lieu ou les lieux des réservations d'hébergement correspondent à ceux des dépôts en espèces, en particulier lorsque plusieurs villes sont observées dans les opérations.
+* L'utilisation d'un ou de plusieurs guichets automatiques bancaires situés à l'intérieur ou à proximité du lieu ou des lieux de la ou des réservations d'hébergement, en particulier si la ou les opérations ont eu lieu après le paiement de cette réservation ou ces réservations hébergement.
+* Des retraits fréquents d'espèces dans des guichets automatiques bancaires n'appartenant pas à une institution financière (c'est-à-dire des guichets automatiques privés à étiquette blanche), souvent situés dans des dépanneurs, des stations-service, des casinos, des hôtels.
+* Des paiements à des sites Web de tiers pour la réservation de voyages ou d'hébergement en ligne.
+* Des opérations impliquant des processeurs de paiement associés à des sites d'escorte ou à des jeux de hasard en ligne.
+* Le compte personnel a reçu de multiples virements de fonds provenant de processeurs de paiement.
+* Le compte de la femme est principalement alimenté par des virements provenant d'une autre femme et les activités des comptes des deux femmes indiquent qu'elles pourraient être des escortes.
+* La personne a reçu de nombreux virements de fonds par courriel de la part de plusieurs parties, habituellement des hommes, avec des références à des escortes, suivis de virements de fonds par courriel à une ou plusieurs femmes ou à un ou plusieurs hommes qui ont également reçu des virements de fonds par courriel similaires de la part d'autres parties. La personne a effectué très peu ou pas d'autres opérations liées aux escortes ou à la traite de personnes. (La personne peut être un intermédiaire financier, une personne désignée dans un réseau de traite de personne et peut être un collecteur de fonds liés à la traite de personnes.)
+* Une personne ou une entité a reçu plusieurs virements de fonds par courriel faisant référence au nom ou au nom partiel d'une agence d'escorte ou d'une entreprise de services d'escorte.
+* Le numéro de téléphone de la personne ou de l'entité est lié à une agence d'escorte ou à une entreprise de services d'escorte.
+* Des fonds déposés sur le compte de jeu d'un joueur de casino ou retirés de celui-ci, avec peu ou pas d'activité de jeux.
+* Des fonds déposés sur un compte de placement ou retirés d'un tel compte avec peu ou pas d'achats d'investissements.
+* Des virements de fonds fréquents pour le compte d'une entité d'investissement en ligne.
+* Des paiements fréquents de primes pour des annonces d'escorte en ligne.
+* Une personne est le propriétaire, l'opérateur ou l'employé d'une entité dans une industrie qui pourrait être utilisée comme lieu de traite de personnes à des fins sexuelles (par exemple, spa, salon de massage, club de danseuses, motel, location de biens immobiliers, gestion de biens immobiliers).
+* Une entité appartient à une industrie qui pourrait être utilisée pour la traite de personnes à des fins sexuelles (p. ex., spa, salon de massage, club de danseuses, motel, location de biens immobiliers, gestion de biens immobiliers).
+* L'utilisation de comptes distincts ou de cartes de crédit distinctes pour séparer les opérations non liées à la traite de personnes des opérations liées à la traite de personnes.
+* Les fonds entrants (dépôts en espèces et virements de fonds par courriel entrants) sont immédiatement transférés sur un compte d'affaires et, à partir du compte d'affaires, les fonds sont épuisés au moyen de virements de fonds par courriel sortants et de retraits en espèces.
+* Une personne transfère fréquemment des fonds entre des comptes d'affaires d'entités appartenant à la même personne.
+* La carte de crédit reçoit des paiements de plusieurs institutions financières, suivis d'avances de fonds sur la carte de crédit.
+* Des avances de fonds excessives ou importantes sur une carte de crédit.
+
+### Indicateurs contextuels et de blanchiment d'argent pouvant être liés à la traite de personnes à des fins d'exploitation sexuelle à partir de résidences privées
+
+* Des paiements, généralement mensuels, pour le compte de plusieurs personnes ou entités impliquées dans la location résidentielle (p. ex., les propriétaires, la gestion immobilière, les agences immobilières) ou qui font référence au loyer ou à des adresses spécifiques.
+* Des paiements de taxes foncières à différentes municipalités.
+* Le paiement d'une facture de services publics pour un fournisseur de services publics qui ne dessert pas la zone correspondant à l'adresse de la personne ou de l'entreprise.
+* Des achats, paiements ou virements associés à de multiples achats de biens immobiliers.
+* Une entreprise de services d'escorte ou une agence d'escorte est associée à une adresse résidentielle.
+
+### Indicateurs contextuels et de blanchiment d'argent pouvant être liés à la traite de personnes à des fins d'exploitation sexuelle à partir de vitrines d'entreprises illicites offrant des services sexuels
+
+* L'entreprise semble maintenir des heures d'ouverture inhabituellement longues et prolongées jusque tard dans la nuit ou tôt le matin.
+* Les opérations au point de vente du commerçant ont lieu après les heures d'ouverture normales de l'entreprise.
+* L'entreprise est associée à des publicités d'escorte ou à des sites Web de services d'escorte.
+* L'entreprise ou son ou ses propriétaires ont reçu de multiples virements de fonds provenant de processeurs de paiement, en particulier de processeurs de paiement associés à des services d'escorte ou de divertissement pour adultes.
+
+### Indicateurs contextuels pouvant être liés à la traite de ressortissants étrangers à des fins d'exploitation sexuelle
+
+* Une personne ou une entité est associée à des annonces de recrutement d'escortes dans des pays étrangers.
+* Une personne ou une entité est associée à des annonces d'escortes dans un autre pays ou dans une langue étrangère.
+* Une personne ou une entité est associée à une vitrine d'entreprise illicite offrant des services sexuels dans un autre pays.
+* Une personne ou une entité est associée à une agence d'escorte ou à une entreprise de services d'escorte dans un autre pays.
+* Une personne ou une entité est associée à des offres d'emploi publiées dans un autre pays.
+* Une annonce d'escorte, une agence d'escorte ou une entreprise de services d'escorte indique que l'escorte ou les escortes ont reçu de la formation dans un pays étranger.
+* Des achats importants ou multiples liés à des voyages internationaux (p. ex., billets d'avion) pour soi-même ou pour d'autres personnes à destination ou en provenance de territoires d'où sont originaires les victimes associées à la traite de ressortissants étrangers au Canada à des fins d'exploitation sexuelle (p. ex., la Chine, la Corée du Sud).
+
+## Déclaration à CANAFE
+
+Pour faciliter le processus de communications de renseignements de CANAFE, veuillez inscrire **#ProjetPROTECT** ou **#PROTECT** dans la Partie G – Description de l'activité douteuse de la déclaration d'opérations douteuses. Consultez également la directive sur la [Déclaration d'opérations douteuses à CANAFE](/guidance-directives/transaction-operation/str-dod/str-dod-fra).
+
+## Communiquer avec CANAFE
+
+**Par courriel** **:** [guidelines-lignesdirectrices@canafe-fintrac.gc.ca](mailto:guidelines-lignesdirectrices@canafe-fintrac.gc.ca)    
+**Téléphone :** 1-866-346-8722 (sans frais)  
+**Par la poste****:** CANAFE, 234, avenue Laurier Ouest, 24e étage, Ottawa (Ontario), K1P 1H7, Canada
+
+© Sa Majesté la Reine du chef du Canada, 2021.  
+No de cat. FD4-13/2021F-PDF  
+ISBN 978-0-660-39272-1
+
+## Ressources
+
+Plusieurs rapports externes ont également décrit les aspects contextuels et financiers de la traite des personnes. Bon nombre des conclusions de CANAFE sur la traite des personnes à des fins d'exploitation sexuelle sont reprises dans ces autres rapports. Pour obtenir de plus amples renseignements sur la traite des personnes à des fins d'exploitation sexuelle ainsi que sur les renseignements financiers connexes, veuillez consulter les ressources suivantes :
+
+Canada
+
+* [Centre canadien pour mettre fin à la traite de personnes](https://www.canadiancentretoendhumantrafficking.ca/)
+* Sécurité publique Canada : « [Stratégie nationale de lutte contre la traite des personnes 2019-2024](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2019-ntnl-strtgy-hmnn-trffc/index-fr.aspx) »
+* Statistique Canada : « [La traite des personnes au Canada, 2019](https://www150.statcan.gc.ca/n1/pub/85-005-x/2021001/article/00001-fra.htm) »
+
+International
+
+* Anti-Human Trafficking Intelligence Initiative: « [Red Flags and Indicators Applicable to Sex Trafficking and Forced Labor](https://followmoneyfightslavery.org/wp-content/uploads/2020/12/Red-Flags-ATII.pdf) » (Initiative de renseignement sur la lutte contre la traite de personnes : « Alertes et indicateurs applicables à la traite des personnes à des fins d'exploitation sexuelle et de travail forcé ») – disponible en anglais seulement
+* Europol : « [The Trafficking in Human Beings Financial Business Model](https://www.europol.europa.eu/publications-events/publications/trafficking-in-human-beings-financial-business-model)» (Le modèle financier de la traite des êtres humains) – disponible en anglais seulement
+* Groupe d'action financière (GAFI) (2018) : « [Financial Flows from Human Trafficking](https://www.fatf-gafi.org/en/publications/methodsandtrends/documents/human-trafficking.html) » (Mouvements financiers issus de la traite de personnes) – disponible en anglais seulement
+* Financial Crimes Enforcement Network (FinCEN): « [Supplemental Advisory on Identifying and Reporting Human Trafficking and Related Activity](https://www.fincen.gov/sites/default/files/advisory/2020-10-15/Advisory%20Human%20Trafficking%20508%20FINAL_0.pdf) » (Avis supplémentaire sur l'identification et le signalement de la traite de personnes et des activités connexes) – disponible en anglais seulement
+* Organisation international du travail : « [Profits et pauvreté : la dimension économique du travail forcé](https://www.ilo.org/global/topics/forced-labour/publications/WCMS_243425/lang--fr/index.htm) » – disponible en anglais seulement
+* Organisation pour la sécurité et la coopération en Europe (OSCE) : « [Following the Money: Compendium of Resources and Step-by-step Guide to Financial Investigations Into Trafficking in Human Beings](https://www.osce.org/secretariat/438323) » (Suivre l'argent : Compendium de ressources et guide pas à pas pour les enquêtes financières sur la traite des êtres humains) – disponible en anglais seulement
+* [Projet Polaris](https://polarisproject.org) – site en anglais seulement
+
+## Annexe
+
+**Liste des indicateurs tirés de l'Alerte opérationnelle de CANAFE de 2016 «** [**Indicateurs : Recyclage de produits illicites provenant de la traite de personnes à des fins d'exploitation sexuelle**](/intel/operation/oai-hts-fra) **»**
+
+### Types d'opérations financières
+
+* Services promotionnels et de publicité en ligne (p. ex. services d'escorte, services de massage, services d'établissement de relations, services de réservation de pair à pair en ligne connexes) : paiements fréquents pour de nombreux achats de faible valeur (p. ex. 3 $, 12 $, 24 $) dans un laps de temps relativement court et qui ne cadrent pas avec les activités auxquelles on s'attendrait.
+* Hébergement (p. ex. hôtels, motels, services de réservation d'hébergement privé et commercial de pair à pair en ligne) : paiements pour des séjours de courte durée et/ou des séjours dans de nombreuses villes sur une période relativement courte.
+* Transport sur de longues distances : achats fréquents de billets d'avion, de train et/ou d'autobus, peut-être destinés à plusieurs personnes, dans un laps de temps relativement court et qui ne cadrent pas avec les activités auxquelles on s'attendrait.
+* Transport local : achats fréquents auprès de services de taxi, de limousine, de location de véhicules, et de covoiturage dans un laps de temps relativement court et qui ne cadrent pas avec les activités auxquelles on s'attendrait.
+* Restaurants à service rapide : achats fréquents de faible valeur dans un laps de temps relativement court et qui ne cadrent pas avec les activités auxquelles on s'attendrait.
+* Pharmacies, magasins de vêtements et de produits de beauté (p. ex. lingerie, maquillage) : achats fréquents dans un laps de temps relativement court et qui ne cadrent pas avec les activités auxquelles on s'attendrait.
+* Clubs de danseuses, salons de massage, salons de beauté et agences de mannequins : paiements par carte de crédit pour des achats effectués après les heures normales d'ouverture de l'établissement.
+* Bitcoins ou autres monnaies virtuelles : achats fréquents de faible valeur (p. ex. 3 $, 12 $, 24 $), effectués directement par le client ou par l'entremise d'échanges interentreprises.
+* Entreprises de services de paiement en ligne : activités dans un compte personnel qui ne cadrent pas avec les activités auxquelles on s'attendrait et correspondent à des dépôts et des paiements fréquents de faible valeur, habituellement inférieurs à 100 $, effectués par l'entremise d'un service de paiements en ligne. Les fonds du compte peuvent alors être utilisés pour des dépôts ou des retraits en monnaies virtuelles ou pour payer des factures, par exemple de cartes de crédit personnelles ou de tiers.
+* Paiements de loyers situés à des adresses correspondant à des lieux de prostitution, selon les médias, les organismes d'application de la loi ou les petites annonces.
+* Achats par carte de crédit : achats en ligne sous le couvert d'un anonymat relatif.
+
+### Similitudes dans les opérations financières et les activités du compte
+
+* Des dépôts/retraits en espèces de 22 h à 6 h.
+* Plusieurs dépôts en espèces effectués à différents guichets automatiques bancaires (GAB), à différentes succursales ou possiblement dans différentes villes et provinces.
+* Des opérations (p. ex. achats, paiements, débits ou crédits de compte, virements électroniques, etc.) couramment réalisées dans différentes villes et provinces sur une courte période.
+* Nombreux dépôts et/ou virements de fonds par courriel (ou d'autres formes de virements électroniques) possiblement au moyen d'une adresse temporaire (p. ex. d'un hôtel), accompagnés de peu ou pas d'explications en provenance d'un tiers sans lien.
+* Les fonds du compte proviennent principalement d'opérations en espèces effectuées par un tiers.
+* Dépôts (p. ex. au moyen d'un GAB, à la succursale, transferts d'argent par courriel, autres formes de virements électroniques) suivis immédiatement de retraits, de paiements de facture et/ou de virements électroniques.
+* Des dépôts sont effectués fréquemment dans un compte personnel, mais le compte est presque toujours vide et aucun achat ou aucune opération correspondant à une activité normale n'y est effectué.
+* Le compte semble être utilisé comme un compte qui canalise de nombreuses transactions; les dépôts sont effectués ailleurs que dans la zone de résidence ou des activités commerciales du client.
+* Dépôts (p. ex. GAB, en succursale) effectués dans une ville, suivis le même jour ou le lendemain de retraits et/ou d'achats effectués dans une autre ville.
+* Des tiers sans lien apparent envoient des transferts d'argent par courriel ou d'autres formes de virements électroniques au même bénéficiaire ou sans indiquer le but des transferts.
+* Transferts d'argent à des tiers par courriel qui contient un autre nom entre parenthèses [p. ex. jane@exemple.com (Bambi)].
+* Virements électroniques de fonds fréquents et importants pour lesquels il n'existe aucun lien apparent entre le demandeur et le destinataire.
+* Différentes personnes qui demandent des virements de fonds au Canada ou à l'étranger fournissent une adresse commune.
+* Opérations de sommes arrondies destinées à des hôtels.
+* Une même personne effectue un paiement à un hôtel pour deux chambres différentes le même jour.
+* Paiements destinés à des hôtels suivis d'un remboursement du même montant.
+* Paiements préautorisés par carte de crédit à des hôtels, mais les frais d'hébergement sont en réalité payés en argent comptant.
+
+### Indicateurs liés au contexte
+
+* Les médias ou d'autres sources fiables laissent entendre qu'un client serait lié à des activités criminelles possiblement génératrices de produits de la criminalité.
+* Des reportages médiatiques font état des activités d'un titulaire de compte liées à la traite de personnes au sein de réseaux de prostitution et de commerce du sexe.
+* Utilisation d'adresses qui, selon les médias, les organismes d'application de la loi ou les petites annonces, correspondent à des lieux de prostitution.
+* Utilisation d'un même numéro de téléphone pour des services promotionnels et de publicité en ligne dans différentes villes et provinces dans un court laps de temps.
+* Recours à un tiers pour effectuer les opérations (p. ex. sous le prétexte qu'il faut un interprète).
+* Le client fait des dépôts accompagné d'un tiers ou surveillé par un tiers qui peut, à l'occasion, accompagner ou surveiller d'autres clients qui font des dépôts. Il est possible que le tiers fournisse au client ce qui, par la suite, s'avèrera être les pièces d'identité de ce dernier.
+
+### Bien connaître votre client
+
+* Les activités financières ne cadrent pas avec ce à quoi on s'attendrait, selon au moins un des critères suivants : la situation financière du client, la profession indiquée, le type de compte ou les activités commerciales indiquées.
+* Le client fournit des coordonnées ou des données d'identification, qu'il est possible de vérifier dans des sources ouvertes, pour de la publicité liée à des services d'escorte.
+* Utilisation des pièces d'identité d'une autre personne ou ouverture d'un compte au nom d'un mineur non admissible.
+* Utilisation de pseudonymes pour ouvrir plusieurs comptes dans différentes banques ou succursales de la même banque.
+* Ajout d'un nombre inhabituel de personnes comme titulaires d'un compte conjoint ou d'utilisateurs autorisés de certains produits, par exemple de cartes de crédit.
+
+## Notes de bas de page
+
+Note de bas de page \*
+:   Aux fins de la présente alerte opérationnelle, lorsque CANAFE mentionne les « trafiquants » et les « victimes » cela inclut aussi les personnes identifiées ou évaluées comme étant des trafiquants potentiels et des victimes potentielles, respectivement.
+
+    [Retour à la référence de la note de bas de page \*](#fn3-1-rf)
+
+Note de bas de page 1
+:   Statistique Canada: « [La traite des personnes au Canada, 2019](https://www150.statcan.gc.ca/n1/pub/85-005-x/2021001/article/00001-fra.htm) »
+
+    [Retour à la référence de la note de bas de page 1](#fn1-rf)
+
+Note de bas de page 2
+:   Sécurité publique Canada : « [Stratégie nationale de lutte contre la traite des personnes 2019-2024](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2019-ntnl-strtgy-hmnn-trffc/index-fr.aspx) »
+
+    [Retour à la référence de la note de bas de page 2](#fn2-rf)
+
+Note de bas de page 3
+:   Centre canadien pour mettre fin à la traite de personnes : « [Les couloirs de la traite des personnes au Canada](https://www.canadiancentretoendhumantrafficking.ca/wp-content/uploads/2021/05/CCTEHT-Human-Trafficking-Corridors-FRE-FINAL.pdf) »
+
+    [Retour à la référence de la note de bas de page 3](#fn3-rf)
+
+Note de bas de page 4
+:   Europol : « [The Trafficking in Human Beings Financial Business Model](https://www.europol.europa.eu/publications-events/publications/trafficking-in-human-beings-financial-business-model)» (Le modèle financier de la traite des êtres humains) – disponible en anglais seulement »
+
+    [Retour à la référence de la note de bas de page 4](#fn4-rf)
+
+Date de modification :
+:   2021-07-30

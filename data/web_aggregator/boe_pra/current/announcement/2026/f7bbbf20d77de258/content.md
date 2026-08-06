@@ -1,0 +1,143 @@
+# Banknote imagery advisory group minutes – 15 December 2025
+
+Meeting held 15 December 2025
+
+Published on
+15 June 2026
+
+Date: 15 December 2025
+
+Time: 9am to 10am | Location: Bank of England, Threadneedle Street, London, EC2R 8AH and MS teams
+
+## Minutes
+
+### Item 1 – Update on Imagery Selection and Aims
+
+The Chair opened the meeting, reminding members about the importance of considering the Bank’s obligations under the Public Sector Equality Duty at every stage of decision-making during the imagery selection process.
+
+Members were told that the Governor had approved the recommendations made by the Banknote Imagery Advisory Group (BIAG) for the theme (nature) and sub-theme (wildlife) for Series H, as well as the next steps for imagery selection i.e. working with external wildlife experts to produce a shortlist ahead of another public consultation in 2026.
+
+The Group considered the timeline for Series H imagery selection, including plans to announce the chosen theme and sub-theme in March 2026.
+
+The primary aims of this meeting included agreeing the process for engaging with experts, the initial list of experts to reach out to, and the high-level guidance to provide to experts to inform their input.
+
+**Decision:** Members approved the minutes of the 14 October 2025 meeting.
+
+### Item 2 – How should the Bank engage with external experts?
+
+Members reviewed plans to set up an Expert Panel of around 6 individuals to nominate examples of UK wildlife to feature on a shortlist to be considered by BIAG.
+
+The expectation is for the Expert Panel to meet at least twice: first, to consider the scope of their brief and the Bank’s guidance for selecting wildlife, and secondly, to review their individual nominations and agree the final shortlist to recommend to BIAG.
+
+Experts would not be renumerated for their involvement, but reasonable expenses (e.g. travel costs) would be provided.
+
+Members discussed different options for how the Bank could work with the experts to ensure efficiency and maximise the value of their input, emphasising the importance of providing clear guidance to the Panel to ensure that the shortlist would allow the Bank to meet its objectives for secure, accessible and inclusive banknote design.
+
+The Governor will write to the experts in early 2026.
+
+**Decision:** Members agreed with the proposed process for engaging with experts, including that the experts would be asked to generate the shortlist by nominating examples of wildlife which meet the Bank’s guidance.
+
+**Action:** Notes staff to consider the appropriate timeline for contacting experts.
+
+### Item 3 – Which external experts should the Bank invite to support imagery selection?
+
+Members considered the different ways to interpret wildlife, as this will in turn influence the choice of wildlife experts that the Bank invites to sit on the Expert Panel and how the second consultation could be framed to support decision making.
+
+A key objective for the design of Series H banknotes is to improve the resilience of our banknotes. In order to do so, the Series H banknote design must support clear distinction between denominations and enable highly intuitive security features. This could be achieved by depicting 4 easily distinguishable animals with different logical movements across the 4 denominations.
+
+Members considered the criteria for identifying individuals to invite onto the Expert Panel. This included that the experts should demonstrate expertise in wildlife, should not be reasonably considered controversial, and that the Panel (as a whole) should seek to be representative of UK society, including experts from a variety of backgrounds, geographical locations and life experiences.
+
+**Decision**: Members agreed not to narrow down wildlife to any specific category/categories of animal wildlife at this stage. Once experts have provided their input and helped create a shortlist, BIAG will reconsider whether to break up the shortlist into separate categories e.g. by animal classification or type of movement (to incorporate into the banknote security feature). This will feed into the survey design of the second public consultation.
+
+**Decision**: Members broadly agreed with the criteria for identifying experts, agreeing that the Bank should reach out to 6 experts who, as a whole, bring broad expertise in UK wildlife. Members agreed that the Chair would make the final decisions on which experts to contact.
+
+**Action**: Notes staff to review the proposed list of wildlife experts e.g. to ensure it is not too heavily weighted to any particular geographic location.
+
+### Item 4 – What criteria should the Bank give the external experts?
+
+The Group considered what guidance should be provided to experts to guide their nominations for wildlife to feature on Series H, including the importance of ensuring that the choice of imagery supports the security and accessibility of banknotes.
+
+Experts should ensure that the shortlist only includes animals (not plants) that are recognisable, varied and able to symbolise the UK. The shortlist should exclude any animals which are commonly domesticated or already represented on other banknotes in the UK.
+
+Members also considered the importance of ensuring that the shortlist is inclusive, including across the Home Nations. This could be achieved by including wildlife from different areas of the UK and avoiding any animals which could be reasonably considered controversial to any groups or areas of the UK.
+
+Members weighed up different options for representing all four nations of the UK on Series H, including through the choice of the central wildlife image on each denomination.
+
+**Decision:** Members agreed to rule out using the central wildlife images to represent each of the four nations of the UK.
+
+**Decision:** Members broadly agreed with the proposed high-level guidance Notes staff will give experts to inform shortlist creation, but asked the team to update the guidance to clarify that the shortlist should only be composed of animals (not plants) and should exclude any domesticated animals, i.e. commonly kept as pets or livestock.
+
+**Decision:** Members agreed to ask experts to avoid nominating wildlife already featured on UK banknotes.
+
+**Action:** Notes staff to update guidance to clarify that the experts should only nominate animals and exclude any which are commonly domesticated.
+
+### Item 5 – Next steps
+
+Members considered that the Governor should write to the chosen experts inviting them to join the Expert Panel. Notes staff will progress work to stand up the Expert Panel.
+
+Notes staff will undertake further analysis on options for the representation of the 4 UK nations on Series H banknotes.
+
+## Attendees
+
+### Members
+
+Sarah John – Chief Operating Officer (Acting Chair)  
+Katie Martin - Head of Stakeholder & Media Engagement  
+Nick McLaren - Head of Future of Money  
+Rhys Phillips - Governor’s Private Secretary  
+Toby Davies - Head of Notes Operations  
+PRA Senior Advisor  
+Senior Manager, Banknote Security & Design
+
+### Apologies
+
+Victoria Cleland – Chief Cashier  
+Sebastian Walsh – Secretary to the Bank
+
+### Observers and presenters
+
+Senior Manager, Banknote Analysis, Strategy & Engagement   
+Deputy Head of Legal   
+Policy Adviser, Banknote Analysis, Strategy & Engagement   
+Senior Programme Manager, Banknote Innovation Programme   
+Project Manager, Banknote Innovation Programme  
+Banknote Design Lead, Banknote Security & Design  
+Private Secretary to the Chief Cashier
+
+## Other Banknotes imagery advisory group minutes
+
+[News // Minutes
+
+15 June 2026
+
+### Banknote imagery expert panel minutes – 10...
+
+### Banknote imagery expert panel minutes – 10 March 2026](/minutes/2026/march/banknote-expert-minutes-10-march)
+
+[News // Minutes
+
+15 June 2026
+
+### Banknote imagery expert panel minutes – 15...
+
+### Banknote imagery expert panel minutes – 15 April 2026](/minutes/2026/april/banknote-advisory-minutes-15-april)
+
+[News // Minutes
+
+15 June 2026
+
+### Banknote imagery expert panel minutes – 24...
+
+### Banknote imagery expert panel minutes – 24 April 2026](/minutes/2026/april/banknote-expert-minutes-24-april)
+
+[News // Minutes
+
+15 June 2026
+
+### Banknote imagery advisory group minutes –...
+
+### Banknote imagery advisory group minutes – 29 April 2026](/minutes/2026/april/banknote-advisory-minutes-29-april)
+
+[View more Other Banknotes imagery advisory group minutes](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&Taxonomies=89ea4f760d1042f2b92f6e6dae9fc683&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

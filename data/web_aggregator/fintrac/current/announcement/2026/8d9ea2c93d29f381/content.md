@@ -1,0 +1,64 @@
+# Notes d'allocution pour Sarah Paquet Directrice et présidente-directrice générale dans le cadre du panel Suivre la piste de l'argent : tendances en matière de crime financier et de financement des activités illicites lors de la 91e Conférence annuelle d'Ottawa sur la sécurité et la défense
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)
+
+## Allocution
+
+**le 10 mars 2023**
+
+**Seul le texte prononcé fait foi**
+
+## Introduction
+
+J'aimerais remercier la Conférence des associations de la défense et l'Institut de m'avoir donné l'occasion de prendre la parole à cette conférence de longue date et de premier plan sur la sécurité et la défense.
+
+Avant de commencer, je souhaite souligner que je m'adresse à vous depuis le territoire traditionnel et non cédé du peuple algonquin des Anichinabés.
+
+## Menace posée par le blanchiment d'argent et le financement des activités terroristes
+
+Je suis heureuse de me joindre aux autres panélistes pour discuter de la menace que posent le blanchiment d'argent et le financement des activités terroristes pour le Canada et sa population.
+
+Il est important d'admettre que la très grande majorité des crimes commis au Canada et à l'échelle de la planète sont motivés par le profit. Et ces crimes, qu'il s'agisse du trafic de drogues, de la fraude, de la traite de personnes ou de l'exploitation sexuelle des enfants en ligne, menacent nos communautés ainsi que nos citoyennes et citoyens les plus vulnérables. Ils ne sont AUCUNEMENT des crimes sans victimes.
+
+Ceux qui s'adonnent à la traite de personnes, par exemple, exploitent leurs victimes principalement pour faire un gain financier. Cette atterrante activité, pour laquelle l'on cible des femmes de moins de 25 ans, y compris des mineures, se produit tous les jours partout au Canada, dans de grandes villes comme Toronto et Vancouver, et dans de plus petits centres comme Regina et St. John's, faisant des victimes de tous horizons.
+
+Selon le Service canadien de renseignements criminels, l'on croit que plus de 1 850 groupes du crime organisé exercent leurs activités au Canada, et qu'un bon nombre d'entre eux sont impliqués dans le blanchiment d'argent et sont aussi actifs à l'échelle internationale.
+
+Pour que ces groupes et d'autres criminels puissent financer leurs autres entreprises illicites et profiter des produits de leurs crimes, c'est‑à-dire des profits qui en découlent, ils doivent blanchir leur argent en passant par l'économie légitime.
+
+Autre que sa menace directe pour la population canadienne, le blanchiment d'argent mine l'intégrité de notre système financier et nuit à l'économie légitime du Canada : il fausse les prix sur le marché, crée une concurrence déloyale et ternit la réputation de notre secteur financier.
+
+De manière générale, le blanchiment d'argent favorise la corruption et mène à l'érosion des institutions publiques et de l'État de droit, à la réduction des recettes des gouvernements et à une perte de crédibilité et d'influence à l'international.
+
+Les terroristes et ceux qui soutiennent le terrorisme cherchent aussi à exploiter le système financier du Canada pour faciliter leurs activités dévastatrices. Qu'il s'agisse de personnes engagées dans l'extrémisme violent à caractère idéologique ici, au Canada, de voyageurs extrémistes ou de groupes terroristes internationaux, nous avons vu comment ils déplacent leur fonds pour arriver à leurs fins terrifiantes.
+
+La clé pour lutter contre le blanchiment d'argent et le financement des activités terroristes est de suivre la piste de l'argent et de tirer parti du pouvoir du renseignement financier pour aider à cibler, à perturber et à démanteler les réseaux terroristes et criminels organisés qui menacent le Canada et sa population.
+
+## Rôle de CANAFE dans le régime canadien de lutte contre le blanchiment d'argent et le financement des activités terroristes
+
+C'est en ayant exactement cela à l'esprit que le gouvernement du Canada a mis en place un régime complet pour lutter contre le blanchiment d'argent et le financement des activités terroristes. Mené par le ministère des Finances Canada, le régime canadien de lutte contre le blanchiment d'argent et le financement des activités terroristes se compose de 13 ministères et organismes fédéraux, y compris la Gendarmerie royale du Canada, CANAFE, l'Agence des services frontaliers du Canada, l'Agence du revenu du Canada, le Service canadien du renseignement de sécurité, et le Service des poursuites pénales du Canada.
+
+Au sein du secteur privé, plus de 24 000 entreprises, y compris les banques, casinos, entreprises de services monétaires, courtiers immobiliers et autres, jouent un rôle de première ligne crucial dans les efforts du Canada pour lutter contre le blanchiment d'argent et le financement des activités terroristes. Ces entités doivent vérifier l'identité de leurs clients, conserver des dossiers et déclarer certains types d'opérations financières, comme les transferts de fonds internationaux et les opérations douteuses.
+
+Grâce aux déclarations que nous recevons des entreprises canadiennes, nous sommes en mesure de produire du renseignement financier exploitable par les organismes d'application de la loi et de sécurité nationale du Canada. L'année dernière, nous avons transmis 2 292 communications de renseignements financiers en soutien à des enquêtes sur le blanchiment d'argent et le financement des activités terroristes partout au Canada et dans le monde, ce qui représente plus de six communications par jour.
+
+L'année dernière, notre renseignement financier a contribué à 335 enquêtes majeures exigeantes en ressources, ainsi qu'à plusieurs centaines d'autres enquêtes individuelles aux niveaux municipal, provincial et fédéral à l'échelle du pays et à l'international.
+
+Notre renseignement financier a récemment été souligné par l'Équipe d'intervention en matière d'application de la loi de l'Alberta en lien avec le projet Collector, une enquête de trois ans qui s'est conclue par le démantèlement d'une organisation de blanchiment d'argent professionnel dont le travail soutenait certains des plus importants groupes criminels du Canada. Au total, 71 accusations ont été portées contre sept suspects, y compris pour la participation à une organisation criminelle et le blanchiment des produits du crime.
+
+En raison de la nature transnationale du blanchiment d'argent et du financement des activités terroristes, nous travaillons également avec des unités du renseignement financier de partout sur la planète afin de protéger la population et l'intégrité du système financier du Canada.
+
+Grâce à plus de 100 ententes bilatérales, nous sommes en mesure de communiquer du renseignement financier à nos homologues ailleurs dans le monde lorsque les seuils appropriés sont atteints. Dans un même temps, les autres unités étrangères du renseignement peuvent nous transmettre leur information, ce qui élargit nos analyses des opérations financières internationales.
+
+À la suite de l'invasion injustifiée de l'Ukraine par la Fédération de Russie, nous avons collaboré avec nos plus étroits alliés, notamment les États-Unis, l'Australie et le Royaume-Uni, pour établir le groupe de travail d'unités du renseignement financier sur le financement illicite et les sanctions liées à la Russie. Au cours de la dernière année, les membres de ce groupe ont travaillé dans les limites de leurs compétences respectives afin de favoriser l'échange de renseignements financiers tactiques et l'établissement d'une compréhension de base commune par la diffusion de renseignements de niveau stratégique sur une variété d'enjeux connexes.
+
+Avec certains de nos plus proches partenaires, nous avons aussi lancé récemment un nouveau partenariat public-privé international ciblant le blanchiment d'argent associé au commerce illicite d'espèces sauvages. En plus de mettre en péril l'environnement planétaire et d'innombrables espèces en danger, cette odieuse activité est également un important crime organisé transnational qui génère environ 20 milliards de dollars en produits du crime chaque année. Ces produits sont ensuite utilisés pour faciliter d'autres crimes graves à l'échelle mondiale, y compris ici, au Canada.
+
+En suivant la piste de l'argent et en produisant du renseignement financier exploitable pour les organismes d'application de la loi du Canada et d'ailleurs dans le monde, ce partenariat public‑privé international, appelé le projet Anton, sera crucial pour identifier, pourchasser et poursuivre en justice les criminels liés au commerce illicite d'espèces sauvages, et leurs réseaux élargis.
+
+## Conclusion
+
+Il me tarde de participer à notre discussion de ce matin et de répondre à toute question que le public pourrait avoir en lien avec notre travail de lutte contre le blanchiment d'argent et le financement des activités terroristes que nous réalisons ici, au Canada, et avec nos partenaires à l'international.
+
+Date de modification :
+:   2023-03-10

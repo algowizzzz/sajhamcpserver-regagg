@@ -1,0 +1,25 @@
+{
+  "doc_id": "d25c31ce50989e62",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "R\u00e9duction du capital d\u00e9clar\u00e9 | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/demandes-approbations/instructions-relatives-operations/reduction-du-capital-declare",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b04d67da04736483371f3990c0e5cdfc8b3ebc1ce360b0d452bde3985c13e995",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/d25c31ce50989e62",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "18f7f949c4c8c082",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Purchase or redemption of shares or membership shares - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/transaction-instructions/purchase-or-redemption-shares-or-membership-shares",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1ccbefdbffa51614a2543adc68bb4554e747b60efdd3f462be1299577535ca67",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/18f7f949c4c8c082",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

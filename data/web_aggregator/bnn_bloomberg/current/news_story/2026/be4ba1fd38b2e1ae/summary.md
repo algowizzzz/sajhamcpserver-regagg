@@ -1,0 +1,1 @@
+Summary: # Novo CEO faces investor grilling after outlook hike soured by pipeline concerns

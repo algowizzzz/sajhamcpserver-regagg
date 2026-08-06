@@ -1,0 +1,24 @@
+{
+  "doc_id": "1444ab10dd2d2dd6",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Significant International AMLCFT Events | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/international/significant-international-amlcft-events",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:82a61e5467738d92659e4deff0f63a022de01c47f9f2d0e7ea810c9d0b78a4b0",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/1444ab10dd2d2dd6",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

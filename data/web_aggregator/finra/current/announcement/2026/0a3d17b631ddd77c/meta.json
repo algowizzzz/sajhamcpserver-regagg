@@ -1,0 +1,27 @@
+{
+  "doc_id": "0a3d17b631ddd77c",
+  "regulator_id": "finra",
+  "doc_type": "announcement",
+  "title": "2027 potential topics",
+  "language": "en",
+  "source_url": "https://www.finra.org/sites/default/files/2026-06/2027-potential-topics.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fee375d68d1e5b507dacb78998f46f9b4d307f99d97331037c7ef7dcd106935a",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_finra_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/finra/current/announcement/2026/0a3d17b631ddd77c",
+  "tags": [
+    "us",
+    "securities",
+    "broker_dealer"
+  ],
+  "final_url": "https://www.finra.org/sites/default/files/2026-06/2027-potential-topics.pdf",
+  "fetch_method": "pdf_to_md"
+}

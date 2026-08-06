@@ -1,0 +1,25 @@
+{
+  "doc_id": "988bb119b482cb67",
+  "regulator_id": "fca",
+  "doc_type": "announcement",
+  "title": "Retail intermediary market interactive analysis 2025",
+  "language": "en",
+  "source_url": "https://www.fca.org.uk/data/retail-intermediary-market-data-2025/retail-intermediary-market-interactive-analysis-2025",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:162a138353b7e5be5399a8f0b4a2a2e5ea610a5091c13f7f3dc64d6a693cf713",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fca_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fca/current/announcement/2026/988bb119b482cb67",
+  "tags": [
+    "uk",
+    "conduct",
+    "securities"
+  ]
+}

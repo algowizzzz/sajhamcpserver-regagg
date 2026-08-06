@@ -1,0 +1,2642 @@
+# Déclarations d’opérations importantes en espèces à CANAFE : Directives de CANAFE en matière de conformité
+
+**Du** : [Centre d’analyse des opérations et déclarations financières du Canada](/intro-fra)(CANAFE)
+
+Cette directive explique les exigences de déclaration d’opérations importantes en espèces à CANAFE.
+
+**Remarque** :
+
+* Dans la présente directive, toute référence à des montants en dollars (tel que 10 000 $) est faite en dollars canadiens, sauf indication contraire.
+* Les exemples présentés dans cette directive ont pour but d’expliquer les exigences en matière de déclaration.
+* Les détails utilisés dans ces exemples, tels que les noms de personnes et d’entités, les adresses, les numéros de téléphone et les adresses courriel, sont fictifs.
+
+## Dans cette directive
+
+* [1. Qui doit se conformer](#s1)
+* [2. Ce qu’est une opération importante en espèces](#s2)
+* [3. Quand soumettre une déclaration d’opérations importante en espèces](#s3)
+* [4. Comment soumettre une déclaration à CANAFE](#s4)
+* [5. Le formulaire de déclaration d’opérations importantes en espèces](#s5)
+* [6. Autres exigences liées aux opérations importantes en espèces](#s6)
+* [7. Exceptions à la déclaration d’opérations importantes en espèces](#s7)
+* [Annexe A : Instructions pour remplir une déclaration d’opérations importantes en espèces](#s8)
+* [Annexe B : Scénarios](#s9)
+* [Pour obtenir de l’aide](#s10)
+
+## Liens connexes
+
+### Loi et règlement connexes
+
+* [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](https://laws-lois.justice.gc.ca/fra/lois/p-24.501/)
+* [Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes](https://laws-lois.justice.gc.ca/fra/reglements/DORS-2002-184/)
+
+### Directives connexes
+
+* [Déclaration d’opérations à CANAFE : la règle de 24 heures](/guidance-directives/transaction-operation/24hour/1-fra)
+* [Déclaration d'opérations douteuses à CANAFE](/guidance-directives/transaction-operation/str-dod/str-dod-fra)
+* [Déclaration de télévirements à CANAFE](/guidance-directives/transaction-operation/eft-dt/eft-dt-fra)
+* [Méthodes pour vérifier l’identité de personnes et d’entités](/guidance-directives/client-clientele/Guide11/11-fra)
+* [Exigences relatives à la détermination quant aux tiers](/guidance-directives/client-clientele/tpdr-fra)
+* [Exigences relatives au programme de conformité](/guidance-directives/compliance-conformite/Guide4/4-fra)
+* [Directives ministérielles et restrictions quant aux opérations](/obligations/directives-fra)
+* [Auto-déclaration volontaire de non-conformité](/guidance-directives/exam-examen/vsdonc/1-fra)
+
+### Ressources connexes
+
+* [Méthodes de déclaration à CANAFE](/reporting-declaration/electron-fra)
+* [Bulletins d’interprétation de CANAFE](/guidance-directives/overview-apercu/fins/1-fra)
+* [Base de données d’interprétations de politiques](/guidance-directives/overview-apercu/pi/pi-fra)
+* [Pénalités pour les cas de non-conformité](/pen/1-fra)
+* [Glossaire relatif aux directives](/guidance-directives/glossary-glossaire/1-fra)
+
+## 1. Qui doit se conformer
+
+Toutes les [entités déclarantes](/reporting-declaration/info/re-ed-fra) doivent se conformer aux exigences de déclaration d’opérations importantes en espèces.
+
+Si vous êtes une **personne qui est une entité déclarante** et que vous êtes également un **employé d’une entité déclarante**, c’est votre employeur qui est responsable de se conformer aux exigences de déclaration d’opérations importantes en espèces liées aux activités que vous effectuez en tant qu’employé.
+
+Dans le même ordre d’idée, si vous êtes une entité déclarante qui est **un mandataire d’une autre entité déclarante**, ou si vous êtes **habilitée à agir pour le compte d’une autre entité déclarante**, c’est cette autre entité déclarante qui est responsable de se conformer aux exigences de déclaration d’opérations importantes en espèces liées aux activités que vous effectuez en son nom. Cette répartition **ne s’applique pas** si vous êtes un **représentant d’assurance-vie** (à moins que vous soyez un employé, comme expliqué ci-dessus).
+
+Un **fournisseur de services** peut soumettre et corriger une déclaration d’opérations importantes en espèces en votre nom. Cependant, en tant qu’entité déclarante, vous êtes ultimement responsable de remplir vos exigences en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et des règlements connexes, même si un fournisseur de services soumet des déclarations en votre nom. Cette responsabilité juridique **ne peut pas** être déléguée.
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + paragraphe 133(1)
+  + paragraphe 133(2)
+
+## 2. Ce qu’est une opération importante en espèces
+
+On entend par opération importante en espèces la réception de 10 000 $ ou plus en espèces au cours d’une seule opération.
+
+Les [espèces](/guidance-directives/glossary-glossaire/1-fra#espèces) incluent :
+
+* les pièces de monnaie et les billets de banque émis par la Banque du Canada et destinés à être mis en circulation au Canada
+* les pièces de monnaie et les billets de banque de pays autres que le Canada
+* la [monnaie fiduciaire](/guidance-directives/glossary-glossaire/1-fra#monnaiefiduciaire)
+
+Les espèces n’incluent **pas** :
+
+* d’autres formes de [fonds](/guidance-directives/glossary-glossaire/1-fra#fonds) comme les chèques, les mandats ou d’autres titres négociables semblables
+* la [monnaie virtuelle](/guidance-directives/glossary-glossaire/1-fra#monnaievirtuelle)
+
+## 3. Quand soumettre une déclaration d’opérations importante en espèces
+
+Vous devez soumettre une déclaration d’opérations importantes en espèces à CANAFE lorsque vous recevez une somme en espèces de 10 000 $ ou plus dans le cadre d’une seule opération provenant d’une [personne](/guidance-directives/glossary-glossaire/1-fra#personne) ou d’une [entité](/guidance-directives/glossary-glossaire/1-fra#entite).
+
+Si vous êtes une **entreprise de services monétaires étrangère**, vous devez soumettre une déclaration uniquement lorsque vous recevez une somme de 10 000 $ ou plus en espèces au cours d’une seule opération provenant d’une personne ou d’une entité au Canada.
+
+**Remarque** : Vous devez soumettre une déclaration d’opérations importantes en espèces à CANAFE dans les **15 jours civils** suivant la date à laquelle vous recevez les espèces.
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + alinéas 7(1)a), 30(1)a), 33(1)a) et 70(1)a)
+  + articles 18, 25, 39, 48, 54, 60, 66, et 78
+  + paragraphe 132(3)
+
+### La règle de 24 heures
+
+Vous devez aussi soumettre une déclaration d’opérations importantes en espèces à CANAFE conformément à la règle de 24 heures. C’est-à-dire, vous devez soumettre une déclaration lorsque les conditions suivantes sont remplies :
+
+* vous recevez **2 ou plusieurs** montants en espèces totalisant 10 000 $ ou plus au cours d’une période de 24 heures consécutives
+* vous **savez**, selon le cas, que ces opérations :
+  + ont été effectuées par la même personne ou entité
+  + ont été effectuées pour le compte de la même personne ou entité ([tiers](/guidance-directives/glossary-glossaire/1-fra#tiers))
+  + sont destinées au même [bénéficiaire](/guidance-directives/glossary-glossaire/1-fra#bénéficiaire) (personne ou entité)
+
+Renseignements supplémentaires :
+
+* [Déclaration d’opérations à CANAFE : la règle de 24 heures](/guidance-directives/transaction-operation/24hour/1-fra)
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184, article 126
+
+### Devise étrangère
+
+Si vous recevez des espèces dans une [devise étrangère](/guidance-directives/glossary-glossaire/1-fra#devise), convertissez le montant en dollars canadiens en utilisant le [taux de change publié par la Banque du Canada](https://www.banqueducanada.ca/taux/taux-de-change) en vigueur au moment de l’opération pour déterminer si vous avez atteint le seuil de déclaration de 10 000 $ CAD.
+
+Si un taux de change n’est pas publié par la Banque du Canada, vous devez alors utiliser le taux que vous établissez dans le cours normal de vos activités au moment de l’opération.
+
+Votre processus d’établissement d’un taux de change pour déterminer si vous avez atteint le seuil de déclaration doit être décrit dans vos [politiques et procédures de conformité](/guidance-directives/glossary-glossaire/1-fra#ppc).
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + alinéa 125a)
+  + alinéa 125b)
+
+## 4. Comment soumettre une déclaration à CANAFE
+
+Vous devez soumettre une déclaration d’opérations importantes en espèces à CANAFE **par voie électronique** en utilisant l’une des options suivantes :
+
+* [Système de déclaration en ligne de CANAFE](/reporting-declaration/Info/f2r-fra) (destiné aux entités déclarantes ayant de plus faibles volumes de déclaration)
+* [API de soumission de déclarations de CANAFE](/reporting-declaration/info/api/api-fra) (transfert sécurisé de système à système des informations des déclarations)
+
+**Remarque sur les formulaires papier** : Si vous **n’avez pas les moyens techniques** de soumettre vos déclarations par voie électronique à CANAFE, vous devez les soumettre sur [support papier](/reporting-declaration/form/form-fra).
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + paragraphe 131(1)
+  + paragraphe 131(2)
+
+## 5. Le formulaire de déclaration d’opérations importantes en espèces
+
+### Dans cette section
+
+* [Structure du formulaire](#s5.1)
+* [Points saillants du formulaire](#s5.2)
+
+**Remarque** :
+
+* Pour obtenir des détails sur les **limites de soumission** (pour les déclarations soumises par voie électronique), veuillez consulter :
+  + [Limite relative à la soumission d'opérations](/reporting-declaration/info/api/api-fra#s3-2) (API de soumission de déclarations de CANAFE)
+* Pour apprendre comment **créer des profils de sujet** (pour les déclarations soumises via le Système de déclaration en ligne de CANAFE), veuillez consulter :
+  + [Création de profils de sujets](/reporting-declaration/info/f2r-fra#x4)
+
+### Structure du formulaire
+
+Le formulaire de déclaration d’opérations importantes en espèces comporte 4 sections :
+
+* Renseignements généraux
+* Renseignements sur l’opération
+* Action d’amorce
+* Action d’achèvement
+
+Structure du formulaire de déclaration d’opérations importantes en espèces : Principales sections et types d’informations dans chacune des sections
+
+| Principales sections du formulaire | Type d’informations dans chacune des sections |
+| --- | --- |
+| Renseignements généraux | * Informations sur votre entreprise incluant les coordonnées * Type de regroupement et période de 24 heures pour le regroupement * Directives ministérielles * Numéro de référence de la déclaration de l’entité déclarante |
+| Renseignements sur l’opération | * Date et heure de l’opération * Comment l’opération a été effectuée * Lieu où l’opération a été effectuée * Objet de l’opération * Est-ce que l’opération est supérieure ou inférieure à 10 000 $ CAD * Numéro de référence de l’opération de l’entité déclarante |
+| Action d’amorce | * Montant et devise des espèces reçues * Information concernant la source des espèces * Personne ou entité ayant effectué l’opération et les renseignements connexes * Tiers (personne ou entité pour le compte de qui l’opération a été effectuée et les renseignements connexes) |
+| Action d’achèvement | * Détails de la répartition * Montant et devise * Renseignements sur le compte et/ou renseignements supplémentaires * Toute autre personne ou entité ayant participé à l’action d’amorce et tout renseignement connexe * Bénéficiaire (toute personne ou entité qui a été bénéficiaire de l’opération et les renseignements connexes) |
+|  |  |
+| --- | --- |
+| **Remarque**   * Ce tableau présente le type d’information pour chacune des sections, **mais ne fournit pas une liste de tous les champs** du formulaire. * Pour accéder à la plupart des champs et leur catégorie (obligatoire, obligatoire pour traitement ou mesures raisonnables), veuillez consulter :   + [Annexe A : Instructions pour remplir une déclaration d’opérations importantes en espèces](#s8)  (qui fournit des instructions sur la façon de remplir le formulaire) | |
+
+### Points saillants du formulaire
+
+La structure du formulaire vous permet d’inclure :
+
+* 1 ou plusieurs opérations totalisant 10 000 $ ou plus au cours d’une période de 24 heures consécutives **dans 1 seule déclaration**
+  + Ces opérations peuvent être inférieures, égales ou supérieures à 10 000 $ (à condition qu’elles totalisent 10 000 $ ou plus au cours d’une période de 24 heures consécutives). Pour plus d’informations, veuillez consulter:
+    - [Déclaration d’opérations à CANAFE : la règle de 24 heures](/guidance-directives/transaction-operation/24hour/1-fra)
+  + Les opérations peuvent également avoir lieu au même emplacement ou à différents emplacements.
+* 1 ou plusieurs [actions d’amorce](/guidance-directives/glossary-glossaire/1-fra#amorce) et [actions d’achèvement](/guidance-directives/glossary-glossaire/1-fra#ach) **dans une 1 opération**
+
+  **Remarque** : Étant donné que vous devez indiquer une date et une heure pour chaque opération, il est entendu que toutes les actions d’amorce et d’achèvement de l’opération se produisent également à cette date et à cette heure. Si ce n’est pas le cas, vous devez ajouter une nouvelle opération à la déclaration.
+* plusieurs personnes ou entités qui effectuent l’opération, sources des espèces et tiers **dans chaque action d’amorce**
+* plusieurs titulaires de compte, bénéficiaires et autres personnes ou entités impliquées dans l’action d’achèvement **à l’intérieur de chaque action d’achèvement**
+
+#### Information importante au sujet du nombre d’opérations, d’actions d’amorce et d’actions d’achèvement dans une déclaration
+
+* Vous devez remplir la section « Renseignements généraux » de la déclaration et fournir des informations pour chaque opération.
+* La déclaration d’opérations importantes en espèces doit comporter au moins 1 opération.
+* Chaque opération doit comporter au moins :
+  + 1 action d’amorce
+  + 1 action d’achèvement
+* Une déclaration peut comporter plusieurs opérations et, pour chaque opération, vous pouvez inclure plusieurs actions d’amorce et d’achèvement.
+* Lorsque vous remplissez la déclaration, vous devez vous assurer que les informations que vous fournissez reflètent les instructions de votre client et sont conformes à vos politiques et procédures.
+
+Exemple 1
+
+Mme Verdun se présente à la Coopérative de crédit ABC avec 10 000 $ CAD en espèces et demande que la totalité de la somme soit déposée sur son compte d’épargne. La Coopérative de crédit ABC soumet donc une déclaration d’opérations importantes en espèces indiquant que Mme Verdun a effectué une opération unique avec :
+
+* 1 action d’amorce (la réception de 10 000 $ CAD en espèces par la Coopérative de crédit)
+* 1 action d’achèvement (la répartition de 10 000 $ impliquant un dépôt dans un compte) dont Mme Verdun est également la bénéficiaire
+
+Exemple 2
+
+M. Dupont se présente à la Société d’ESM de Calgary avec 11 000 $ CAD en espèces et demande que 5 000 $ soient échangés contre des dollars américains et que 6 000 $ soient envoyés à Mme Dubois à Toronto. Dans cet exemple, la Société d’ESM soumet une déclaration indiquant que M. Dupont a effectué une opération à Calgary avec :
+
+* 1 action d’amorce (la réception de 11 000 $ CAD en espèces par l’entreprise)
+* 2 actions d’achèvement (une première répartition de 5 000 $ impliquant un échange en monnaie fiduciaire et une deuxième répartition de 6 000 $ impliquant un transfert de fonds national sortant) dont M. Dupont et Mme Dubois sont les bénéficiaires respectifs
+
+Le diagramme suivant (Figure 1) présente une déclaration d’opérations importantes en espèces comportant plusieurs opérations, actions d’amorce et actions d’achèvement.
+
+**Figure 1 : Illustration d’une déclaration d’opérations importantes en espèces comportant plusieurs opérations, actions d’amorce et actions d’achèvement**
+
+![Illustration d’une déclaration d’opérations importantes en espèces comportant plusieurs opérations, actions d’amorce et actions d’achèvement ](images/fig1-fra.png)
+
+Description de la figure 1: Illustration d’une déclaration d’opérations importantes en espèces comportant plusieurs opérations, actions d’amorce et actions d’achèvement
+
+Plus précisément, le diagramme présente une déclaration d’opérations importantes en espèces comportant 3 opérations.
+
+La déclaration contient une section de renseignements généraux et présente les informations pour chaque opération soit :
+
+* L’opération 1 comporte 1 action d’amorce et 1 action d’achèvement
+* L’opération 2 comporte 2 actions d’amorce et 2 actions d’achèvement
+* L’opération 3 comporte 1 action d’amorce et 2 actions d’achèvement
+
+Légende de la figure 1
+
+| Type de ligne | Signification |
+| Ligne continue | * Opération minimale requise dans une déclaration * Action d’amorce et action d’achèvement minimales requises (pour chaque opération) |
+| Ligne tiretée | * Opérations optionnelles supplémentaires * Actions d’amorce optionnelles supplémentaires * Actions d’achèvement optionnelles supplémentaires |
+
+## 6. Autres exigences liées aux opérations importantes en espèces
+
+### Dans cette section
+
+* [Programme de conformité](#s6.1)
+* [Opérations douteuses](#s6.2)
+* [Télévirements](#s6.3)
+* [Tenue de documents](#s6.4)
+* [Vérification de l’identité de personnes ou d’entités](#s6.5)
+* [Détermination quant aux tiers](#s6.6)
+* [Directives ministérielles](#s6.7)
+* [Rapport volontaire de non-conformité](#s6.8)
+
+### Programme de conformité
+
+Les [politiques et procédures de votre programme de conformité](/guidance-directives/glossary-glossaire/1-fra#ppc) doivent souligner les processus et critères que vous utilisez pour :
+
+* sélectionner les taux de change et leur source
+* regrouper les opérations
+* déterminer si vous faites affaire avec une personne ou une entité
+* soumettre des déclarations à CANAFE
+
+Si vous avez mis en place un système automatisé ou des éléments déclencheurs pour détecter le moment où un montant atteint le seuil de déclaration, une personne peut tout de même évaluer les opérations, à titre de pratique exemplaire, pour assurer la soumission d’une déclaration d’opérations importantes en espèces.
+
+Vous devez également établir un programme de conformité qui comporte de la formation sur les motifs de soupçonner qu’une opération est liée au blanchiment d’argent ou au financement d’activités terroristes.
+
+Renseignements supplémentaires :
+
+* [Exigences relatives au programme de conformité](/guidance-directives/compliance-conformite/Guide4/4-fra)
+
+### Opérations douteuses
+
+En plus de déclarer les opérations importantes en espèces, vous pouvez également être tenus de soumettre des déclarations d’opérations douteuses à CANAFE lorsque vous avez des motifs raisonnables de soupçonner qu’une opération est liée à la perpétration, réelle ou tentée, d’une infraction de blanchiment d’argent ou de financement d’activités terroristes. Par conséquent, vous pourriez être tenu de soumettre une déclaration d’opérations importantes en espèces **et** une déclaration d’opérations douteuses au sujet de la même opération.
+
+Renseignements supplémentaires :
+
+* [Déclaration d'opérations douteuses à CANAFE](/guidance-directives/transaction-operation/str-dod/str-dod-fra)
+* Indicateurs de blanchiment d’argent et de financement des activités terroristes sous [Toutes les directives de CANAFE – Déclaration d’opérations](/guidance-directives/guidance-directives-fra#s3)
+
+### Télévirements
+
+Si la répartition d’une opération importante en espèces comporte un télévirement à déclarer, vous pourriez être tenu de soumettre une déclaration de télévirement à CANAFE **en plus d’une** déclaration d’opérations importantes en espèces.
+
+Renseignements supplémentaires :
+
+* [Déclaration de télévirements à CANAFE](/guidance-directives/transaction-operation/eft-dt/eft-dt-fra)
+
+### Tenue de documents
+
+Lorsque vous soumettez une déclaration d’opérations importantes en espèces à CANAFE, vous devez en conserver une copie pendant **au moins 5 ans** suivant la date à laquelle la déclaration a été créée.
+
+Renseignements supplémentaires :
+
+* Directives propres à votre secteur sous [Toutes les directives de CANAFE – Tenue de documents](/guidance-directives/guidance-directives-fra#s4)
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + article 144
+  + alinéa 148(1)c)
+
+### Vérification de l’identité de personnes et d’entités
+
+Les opérations importantes en espèces ont des exigences précisant à quel moment et comment vérifier l’identité des personnes et des entités.
+
+Renseignements supplémentaires :
+
+* [Méthodes pour vérifier l’identité de personnes et d’entités](/guidance-directives/client-clientele/Guide11/11-fra)
+* Directives propres à votre secteur concernant à quel moment vérifier l’identité de personnes et d’entités sous [Toutes les directives de CANAFE – Besoin de bien connaître son client](/guidance-directives/guidance-directives-fra#s2)
+
+### Détermination quant aux tiers
+
+Il y a des exigences pour déterminer si une personne ou une entité agit pour le compte d’une autre personne ou entité pour la réception d’une opération importante en espèces.
+
+Renseignements supplémentaires :
+
+* [Exigences relatives à la détermination quant aux tiers](/guidance-directives/client-clientele/tpdr-fra)
+
+### Directives ministérielles
+
+Vous devez prendre en considération toutes les exigences émises en vertu d’une directive ministérielle, ainsi que vos exigences en matière de déclaration d’opérations importantes en espèces.
+
+Renseignements supplémentaires :
+
+* [Directives ministérielles et restrictions quant aux opérations](/obligations/directives-fra)
+
+### Rapport volontaire de non-conformité
+
+Si vous découvrez des cas de non-conformité liés à vos exigences en matière de déclaration d’opérations importantes en espèces, CANAFE vous encourage fortement à transmettre une auto-déclaration volontaire de non-conformité.
+
+Renseignements supplémentaires :
+
+* [Auto-déclaration volontaire de non-conformité](/guidance-directives/exam-examen/vsdonc/1-fra)
+
+## 7. Exceptions à la déclaration d’opérations importantes en espèces
+
+Vous **n’êtes pas tenu** de soumettre une déclaration d’opérations importantes en espèces si vous recevez une somme de 10 000 $ ou plus en espèces lors d’une seule opération si la somme est reçue soit :
+
+* d’une [entité financière](/guidance-directives/glossary-glossaire/1-fra#ef)
+* d’un [organisme public](/guidance-directives/glossary-glossaire/1-fra#op)
+* d’une personne qui agit pour le compte d’un client qui est une entité financière ou un organisme public
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + paragraphes 7(2), 30(2), 33(2) et 70(2)
+  + alinéa 18a)
+  + articles 25, 39, 48, 54, 60, 66 et 78
+
+### Société d’assurance-vie ou représentant d’assurance-vie
+
+Si vous êtes une société d’assurance-vie ou un représentant d’assurance-vie, vous **n’êtes pas tenu** de soumettre une déclaration d’opérations importantes en espèces lorsque vous effectuez une opération de réassurance ou si l’opération :
+
+* comprend la vente d’une rente immédiate ou différée qui est réglée entièrement au moyen de fonds transférés directement d’un régime de pension agréé ou d’un régime de pension devant être agréé en vertu de [la Loi de 1985 sur les normes de prestation de pension](https://lois-laws.justice.gc.ca/fra/lois/P-7.01) ou de la législation provinciale semblable
+* comprend la vente d’un contrat de rente enregistré ou d’un fonds enregistré de revenu de retraite
+* comprend la vente d’une rente immédiate ou différée qui est réglée entièrement au moyen du produit d’une police d’assurance-vie collective
+* est effectuée dans le cadre d’un prêt hypothécaire inversé ou d’une indemnisation par versements échelonnés
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + article 24
+  + alinéa 18b)
+
+### Entités financières
+
+Si vous êtes une entité financière, vous **n’êtes pas tenu** de soumettre une déclaration d’opérations importantes en espèces pour certains clients qui sont des personnes morales si vous choisissez, dans des circonstances particulières, de fournir à CANAFE des renseignements précis sur ces clients.
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184, article 8
+
+### Succursales étrangères et filiales étrangères
+
+Si vous êtes une **entité financière, une société d’assurance-vie ou un courtier en valeurs mobilières**, et que vous avez des succursales étrangères et des filiales étrangères, les exigences de déclaration d’opérations importantes en espèces **ne s’appliquent pas** à leurs opérations à l’extérieur du Canada.
+
+## Annexe A : Instructions pour remplir une déclaration d’opérations importantes en espèces
+
+Cette annexe contient des instructions sur la façon de remplir les champs d’une déclaration d’opérations importantes en espèces.
+
+### Dans cette annexe
+
+* [Instructions normalisées pour les champs de déclaration](#s8.1)
+* [Instructions spécifiques aux champs](#s8.2)
+
+**Remarque** :
+
+* Certains champs ne sont applicables que si d’autres sont remplis.
+* Certaines instructions de champ peuvent ne s’appliquer qu’aux déclarations électroniques et non aux déclarations sur support papier.
+* Les champs **sans objet** doivent être **laissés en blanc**. Lorsqu’un champ n’est pas applicable :
+  + **ne pas indiquer** « Sans objet », « S. O. » ou « s. o. »
+  + **ne pas introduire** d’autres abréviations, caractères spéciaux (« x », « - » ou « \* ») ou mots (« inconnu ») dans le champ
+* **Le fait de ne pas fournir les informations de déclaration applicables** entraînera une non-conformité et pourrait donner lieu à des sanctions pénales ou des pénalités administratives pécuniaires. Pour en savoir plus sur les mesures d’application de la loi potentielles, veuillez consulter :
+  + [Pénalités pour les cas de non-conformité](/pen/1-fra)
+
+### Instructions normalisées pour les champs
+
+Cette section contient des instructions pour :
+
+* le niveau d’effort attendu afin d’obtenir les renseignements prescrits pour les champs de déclaration
+* remplir certains champs qui apparaissent dans plusieurs sections du formulaire
+
+#### Dans cette section
+
+* [Catégories de champs](#s8.1.1)
+* [Nom de champs](#s8.1.2)
+* [Champs d’adresse](#s8.1.3)
+* [Champs de profession ou domaine d’activité](#s8.1.4)
+* [Champs d’identification](#s8.1.5)
+* [Champs de numéro de téléphone](#s8.1.6)
+
+#### Catégories de champs
+
+Les champs sont classés selon les catégories suivantes :
+
+* obligatoire
+* obligatoire pour traitement
+* obligatoire le cas échéant
+* mesures raisonnables
+
+Instructions pour les catégories de champs
+
+| Catégories de champs | Instructions |
+| Obligatoire | Ces champs sont indiqués par un astérisque **(\*)** et ces champs **doivent** être remplis.  Étant donné qu’une déclaration d’opérations importantes en espèces peut comprendre plusieurs opérations effectuées au cours d’une période de 24 heures consécutives et totalisant 10 000 $ ou plus, les renseignements de certains champs obligatoires peuvent ne pas avoir été obtenus au moment de l’opération. Dans ce cas, les champs deviennent des champs de catégorie « mesures raisonnables », et les instructions des mesures raisonnables (ci‑dessous dans le tableau) doivent être appliquées.  **Remarque** : Si une déclaration d’opérations importantes en espèces contient plusieurs opérations effectuées au cours d’une période de 24 heures consécutives et qu’une opération totalise 10 000 $ CAD ou plus, alors les champs obligatoires s’appliquent.  Références juridiques  * Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184, paragraphe 152(2) |
+| Obligatoire pour traitement | Ces champs sont indiqués par un double obèle (**‡**) et **doivent** être remplis. |
+| Obligatoire le cas échéant | Ces champs sont indiqués par un obèle (**†**) et **doivent** être remplis s’ils vous concernent ou s’ils se rapportent à l’opération faisant l’objet de la déclaration. |
+| Mesures raisonnables | Vous devez prendre des [mesures raisonnables](/guidance-directives/glossary-glossaire/1-fra#raisonnable) pour obtenir les renseignements pour tous les champs non obligatoires de la déclaration, **s’ils sont applicables**.  Les mesures raisonnables sont les mesures que vous devez prendre, comme indiqué dans vos politiques et procédures, pour obtenir les renseignements, ce qui peut inclure de demander les informations à la personne ou à l’entité concernée.  Si vous obtenez les informations, vous devez les déclarer. Vous devez également fournir les renseignements contenus dans vos systèmes ou vos dossiers.  Références juridiques  * Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184, paragraphe 152(1) |
+
+#### Champs de nom
+
+Instructions pour les champs de nom
+
+| Champs de nom | Instructions |
+| Nom de famille | Indiquer le nom de famille de la personne. |
+| Prénom | Indiquer le prénom de la personne.  **Remarque** : Si la personne n’a qu’un seul nom, indiquez « XXX » dans le champ « Prénom » et le seul nom de la personne dans le champ « Nom de famille ». |
+| Autre/initiale | Indiquer le deuxième prénom ou les autres noms de la personne, ou leurs initiales si aucun autre nom ne s’applique. |
+| Alias | Indiquer le nom qu’une personne utilise, ou par lequel elle est connue, autre que le nom fourni dans les champs de nom de famille, prénom ou autre nom/initiale. |
+| Nom de l’entité | Indiquer le nom complet de l’entité. |
+
+#### Champs d’adresse
+
+Indiquez les détails de l’adresse dans les champs structurés ou non structurés (selon le cas) comme expliqué ci-dessous.
+
+##### Champs d’adresse structurés
+
+Les champs d’adresse structurés comprennent :
+
+* Numéro d’appartement/pièce/suite/unité
+* Numéro de logement ou d’immeuble
+* Adresse (rue)
+* Ville
+* District
+* Pays
+* Province ou État (code) – Pour les provinces ou les États du Canada, des États-Unis ou du Mexique, sélectionnez dans la liste des options.
+* Province ou État (nom) – Pour les provinces ou les États à l’extérieur du Canada, des États-Unis ou du Mexique, indiquez le nom de la province ou de l’État.
+* Sous-province ou sous-localité
+* Code postal ou zip
+
+###### Si vous pouvez séparer les informations
+
+Vous devez les déclarer dans les champs d’adresse structurés.
+
+Par exemple, si une personne réside au numéro 10-123, rue Main, Richmond, Colombie-Britannique, Canada A1B 2C3, remplissez les champs d’adresse comme suit :
+
+Exemple illustrant comment fournir les informations si vous pouvez séparer les informations relatives à l’adresse
+
+| Champs d’adresse structurés | Informations fournies |
+| Numéro d’appartement/pièce/suite/ unité | 10 |
+| Numéro de domicile ou d’immeuble | 123 |
+| Adresse (rue) | rue Main |
+| Ville | Richmond |
+| Pays | Canada |
+| Code postal | A1B 2C3 |
+
+###### Si vous ne pouvez pas séparer les informations relatives à l’adresse dans les champs d’adresse structurés
+
+Si, par exemple, votre système regroupe le numéro d’appartement/pièce/suite/unité avec le numéro de domicile ou d’immeuble et l’adresse municipale, indiquez alors :
+
+* toutes les informations relatives à l’adresse dans le champ Adresse (rue)
+* la ville, la province, le pays et le code postal dans leurs champs respectifs
+
+###### S’il n’y a pas d’adresse municipale
+
+Si l’adresse d’une personne ou d’une entité se trouve dans une région où il n’y a **pas d’adresse municipale**, fournissez une description de l’emplacement physique.
+
+Par exemple, si une personne vit dans la troisième maison à droite après le centre communautaire à Tinytown, Saskatchewan, Canada X1Y 2Z2, remplissez les champs d’adresse comme suit :
+
+Exemple illustrant comment fournir les informations s’il n’y a pas d’adresse municipale
+
+| Champs d’adresse structurés | Informations fournies |
+| Adresse (rue) | Troisième maison à droite après le centre communautaire |
+| Ville | Tinytown |
+| Province | SK || Pays | Canada |
+| Code postal | X1Y 2Z2 |
+
+**Remarque** : Si vous utilisez les champs d’adresse structurés, vous **ne pouvez pas** utiliser les champs d’adresse non structurés pour fournir des informations supplémentaires.
+
+##### Champ d’adresse non structuré
+
+Vous ne devez utiliser le champ d’adresse non structuré que lorsqu’il n’est pas possible de séparer les informations d’adresse. Cela se produit généralement lorsque vous téléchargez un grand nombre de déclarations et que les données proviennent de l’extérieur de votre organisation. Par exemple, lorsque vous recevez un télévirement à titre de destinataire et que l’adresse étrangère de la personne qui a demandé le virement ne peut être facilement insérée dans les champs d’adresse structurés.
+
+Si possible, saisissez les informations relatives au pays dans le champ Pays et indiquez les informations d’adresse non structurées dans le format suivant :
+
+* adresse municipale/ville/province ou état/code postal ou zip
+
+##### Adresses invalides
+
+**Les adresses** suivantes **ne sont pas valides** et **ne doivent pas** être fournies dans les champs d’adresse structurés ou non structurés :
+
+* une boîte postale sans adresse physique complète (par exemple, la boîte postale 333)
+* adresse générale de livraison
+* uniquement un numéro de suite (par exemple, Suite 256) sans informations supplémentaires sur l’adresse
+
+Une **description légale du terrain** peut être acceptable tant que la description du terrain est suffisamment précise pour indiquer l’emplacement physique de l’adresse du client. Si la description légale du terrain fait référence à une zone ou à une parcelle de terrain sur laquelle se trouvent plusieurs propriétés, la description légale du terrain ne sera pas suffisante.
+
+##### Personnes de passage ou qui n’ont pas d’adresse fixe
+
+Pour **les personnes de passage** (par exemple, voyageant dans un véhicule récréatif ou travaillant temporairement dans un camp) et qui n’ont **pas d’adresse fixe**, vous êtes tenu de fournir les éléments suivants :
+
+Informations de l’adresse à fournir pour les personnes de passage ou qui n’ont pas d’adresse fixe
+
+| Type de personne | Quoi fournir |
+| Résidents canadiens | Leur adresse permanente au Canada, même si ce n’est pas l’endroit où ils résident actuellement |
+| Clients étrangers qui voyagent au Canada pour une courte période | Leur adresse de résidence à l’étranger |
+| Clients étrangers qui vivent au Canada pendant une période plus longue (par exemple, un étudiant) | L’adresse canadienne temporaire de la personne |
+
+#### Champs de profession ou domaine d’activité
+
+Instructions pour les champs de profession ou domaine d’activité
+
+| Champs de profession ou domaine d’activité | Instructions |
+| Profession | Lorsque vous saisissez des informations sur la profession, vous devez fournir autant de détails que possible. Par exemple, si la personne est :   * un gérant ou un directeur, indiquez le domaine de travail, par exemple « directeur des réservations d’hôtel » ou « gérant d’un magasin de vêtements au détail » * un consultant, indiquez le type de service de consultation, par exemple « consultant en informatique » ou « consultant en foresterie » * un professionnel, indiquez le type de profession, par exemple « ingénieur pétrolier » ou « médecin de famille » * un ouvrier, indiquez le type de travail effectué, par exemple « ouvrier sur un site de construction routière » ou « paysagiste » * ne travaille pas, vous devez tout de même être aussi descriptif que possible et indiquer « étudiant », « chômeur » ou « retraité », etc.   Vous pouvez saisir un code de classification numérique complet et le titre du code (par exemple CNP – Classification nationale des professions), suivis d’une description textuelle de la profession. Un code numérique à lui seul n’est pas suffisant.  **Remarque** : Si votre client indique qu’il est le directeur de Pièces d’auto Lune bleue Ltée, vous devez saisir « directeur d’une entreprise de pièces automobiles » dans le champ « profession » et « Pièces d’auto Lune bleue Ltée » dans le champ « nom de l’employeur », comme expliqué ci-dessous. |
+| Nom de l’employeur | Saisissez le nom de l’employeur de la personne.  N’indiquez pas le nom d’un superviseur ou gestionnaire.  Ce champ vise à saisir le nom de l’entreprise qui emploie la personne.  Si la personne a plusieurs employeurs, vous ne devez en indiquer qu’un seul, mais il doit s’agir de l’employeur principal de la personne.  Le fait de fournir le nom de l’employeur peut augmenter la description de la profession d’une personne. Par exemple, les noms « gérant de la boutique de vêtements de luxe ABC » et « gérant de la boutique de vêtements au rabais XYZ » sont plus détaillés que « gérant de boutique de vêtements » employé seul. |
+| Nature de l’activité principale de l’entité | Vous devez être aussi descriptif que possible lorsque vous indiquez l’activité principale de l’entité.  Si l’activité principale de l’entité est la « vente », indiquez le type de vente, par exemple « vente de produits pharmaceutiques » ou « vente de vêtements au détail ».  Vous pouvez saisir un code de classification numérique complet et le titre du code (par exemple SCIAN – Système de classification des industries de l’Amérique du Nord), suivi d’une description textuelle de l’activité principale de l’entité. Un code numérique à lui seul n’est pas suffisant. |
+
+#### Champs d’identification
+
+Instructions pour les champs d’identification
+
+| Champs d’identification | Instructions |
+| Type de document d’identification | Sélectionnez le type de document d’identification de la personne ou de l’entité, le cas échéant.  Si le type de document d’identification ne figure pas dans la liste, sélectionnez « Autre » et donnez des détails.  Si vous utilisez la méthode d’identification à processus double pour identifier une personne, vous devez fournir des détails sur les 2 sources d’information dans les champs relatifs au type de document d’identification.  **Remarque** : Ne déclarez pas de numéro d’assurance sociale (NAS) à CANAFE. De plus, vous ne pouvez pas utiliser de documents à des fins d’identification lorsque cela est interdit par la législation provinciale.  Pour plus d’informations sur la façon d’identifier les personnes et les entités, veuillez consulter :   * Les lignes directrices de CANAFE sur les [Méthodes de vérification de l’identité des personnes et des entités](/guidance-directives/client-clientele/Guide11/11-fra) |
+| Numéro associé au type de document ou de renseignements d’identification | Il s’agit du numéro indiqué sur le type de document d’identification qui a été utilisé pour vérifier l’identité de la personne ou de l’entité. Par exemple, sur un permis de conduire, le numéro de permis est le numéro d’identification et sur un certificat de constitution en société, le numéro de constitution en société est le numéro d’identification. |
+| Autorité de délivrance (pays, province ou état) | Indiquez le pays, la province ou l’État qui a délivré les documents utilisés pour identifier la personne ou l’entité. |
+
+Comment indiquer l’autorité de délivrance des documents utilisés pour l’identification
+
+| Type d’autorité de délivrance | Quoi indiquer et comment |
+| Un pays | Indiquez ce pays comme autorité de délivrance. |
+| Une province ou un État au Canada, aux États-Unis ou au Mexique | Sélectionnez le **code** de province ou d’État à partir de la liste d’options. |
+| Une province ou un État à l’extérieur du Canada, des États-Unis ou du Mexique | Indiquez:   * le **nom** de cette province ou de cet état comme autorité de délivrance * les renseignements correspondants sur le pays |
+
+#### Champs de numéros de téléphone
+
+Instructions pour les champs de numéros de téléphone
+
+| Emplacement du numéro de téléphone | Instructions |
+| Canada ou États-Unis | Entrez l’indicatif régional et le numéro local (par exemple, 999-999-9999). |
+| Extérieur du Canada ou des États-Unis | Entrez :   * l’indicatif de pays * l’indicatif de ville * le numéro local en utilisant un tiret (-) pour les séparer   Par exemple, « 99-999-9999-9999 » indique :   * un code de pays à 2 chiffres * un code de ville à 3 chiffres * un numéro local à 8 chiffres |
+
+### Instructions spécifiques aux champs
+
+Cette section contient des instructions pour des champs de la déclaration. Les instructions sont présentées dans l’ordre dans lequel les champs apparaissent dans le formulaire de déclaration d’opérations importantes en espèces.
+
+**Remarque** : Pour certains champs, les instructions :
+
+* n’ont pas été fournies et sont indiquées comme « instructions non spécifiées »
+* se trouvent dans la section des [instructions normalisées pour les champs](#s8.1)
+
+#### Dans cette section
+
+* [Renseignements généraux](#s8.2.1)
+* [Renseignements sur l’opération](#s8.2.2)
+* [Action d’amorce](#s8.2.3)
+* [Action d’achèvement](#s8.2.4)
+
+#### Renseignements généraux
+
+Instructions pour les champs sous « Renseignements généraux »
+
+| Champs | Instructions |
+| \* Numéro d’identification de l’entité déclarante | Vous devez vous inscrire au [Système de déclaration en ligne de CANAFE](/reporting-declaration/Info/f2r-fra) pour soumettre des déclarations par voie électronique.  Indiquez le numéro d’identification à 7 caractères qui vous a été assigné par CANAFE au moment de votre inscription. |
+| ‡ Numéro de référence de la déclaration de l’entité déclarante | Un numéro est assigné à chaque **déclaration** soit par :   * vous (l’entité déclarante) * la personne ou l’institution qui soumet la déclaration en votre nom   Ce numéro doit être **unique à votre entreprise, c’est-à-dire qu’il ne peut être utilisé qu’une seule fois**. |
+
+##### Laquelle des catégories suivantes vous décrit le mieux comme entité déclarante?
+
+Instructions pour la question liée à la catégorie d’entité déclaration qui vous décrit le mieux
+
+| Champ | Instructions |
+| \* Secteur d’activité | Indiquez le secteur d’activité de votre entreprise.  Si vos activités sont liées à plus de 1 secteur, indiquez celui qui est applicable à l’opération déclarée.  Si la déclaration comporte 1 ou plusieurs opérations se rapportant à plus de 1 secteur d’activité, sélectionnez seulement 1 case pour indiquer votre secteur d’activité principal. |
+
+##### Avec qui CANAFE peut-il communiquer au sujet de la présente déclaration?
+
+Indiquez les coordonnées de la personne avec qui vous aimeriez que CANAFE communique advenant qu’un suivi soit nécessaire.
+
+Vous devez vous assurer que toutes vos coordonnées soient mises à jour dans le Système de déclaration en ligne de CANAFE avant de soumettre vos déclarations.
+
+##### Renseignements sur la déclaration
+
+Indiquez si la déclaration est liée à 1 ou plusieurs opérations qui sont survenues au cours d’une période de 24 heures consécutives.
+
+Lorsque vous indiquez la date et l’heure, vous devez indiquer le fuseau horaire. Les champs ci-dessous fournissent des instructions pour le formatage.
+
+Instructions pour les champs sous « Renseignements sur la déclaration »
+
+| Champs | Instructions |
+| ‡ Type de regroupement | Indiquez le type de regroupement utilisé lorsque de multiples opérations surviennent au cours d’une période de 24 heures consécutives :   * personne ou entité effectuant l’opération * pour le compte de (tiers) * bénéficiaire   Si la déclaration est pour 1 seule opération, ou liée à une directive ministérielle, le regroupement des opérations ne s’applique pas et vous devriez sélectionner « sans objet ».  **Remarque** : Vous devez indiquer la date/heure du début et la date/heure de fin dans les champs ci-dessous, même s’il n’y a pas de regroupement et que vous sélectionnez « sans objet » dans le champ du type de regroupement. |
+| ‡ Date et heure du début de la période de 24 heures | Indiquez la date et l’heure du début de la période de 24 heures.  Vous devez inclure le fuseau horaire (soit, décalage UTC) dans les champs de l’heure de début et de fin de la période de 24 heures.  L’heure de début doit être inscrite dans le format suivant : **HH:MM:SS±ZZ:ZZ**.  Par exemple, 13:25:06 à Ottawa, Ontario serait saisi comme suit 13:25:06-05:00. |
+| ‡ Date et heure de la fin de la période de 24 heures | Indiquez la date et l’heure de fin de la période de 24 heures.  Si votre période de 24 heures débute à 8 h, elle prendrait fin à 7 h 59 le lendemain matin.  Vous devez inclure le fuseau horaire (soit, décalage UTC) dans les champs de l’heure de début et de fin de la période de 24 heures.  Le champ ci-dessous fournit des instructions pour le formatage.  **Remarque** : La date/heure du début et la date/heure de fin que vous indiquerez établiront la période de 24 heures à l’intérieur de laquelle vous pourrez regrouper des opérations, et déclarer toutes les opérations applicables à l’intérieur de celle-ci.  Puisque vous devez regrouper les données sur chaque partie séparément (par exemple, la personne ou l’entité effectuant l’opération, pour le compte de [tiers], ou bénéficiaire), il est possible d’avoir plusieurs périodes de 24 heures (par exemple, une période de 24 heures pour les personnes ou entités qui effectuent l’opération qui est différente de votre période de 24 heures pour les bénéficiaires). |
+| Directive ministérielle | Si l’opération déclarée dans votre déclaration d’opérations importantes en espèces est soumise en vertu d’une directive ministérielle, vous devez l’indiquez en sélectionnant directive ministérielle dans la déclaration.  Laissez le champ vide si les opérations ne sont pas liées à une directive ministérielle.  **Remarque** :   * Une déclaration d’opérations importantes en espèces soumise en vertu d’une directive ministérielle ne peut contenir seulement 1 opération et celle-ci doit être inférieure au seuil de déclaration. Par conséquent, vous devez sélectionner « sans objet » dans le champ « Type de regroupement ». * Seulement 1 directive ministérielle (IR2020) est disponible pour une déclaration d’opérations importantes en espèces. |
+
+#### Renseignements sur l’opération
+
+##### Renseignements sur l’opération
+
+Instructions pour les champs sous « Renseignements sur l’opération »
+
+| Champs | Instructions |
+| † Date et heure de l’opération | Indiquez la date et l’heure à laquelle l’opération importante en espèces a été effectuée.  Il ne peut pas s’agir d’une date ultérieure et elle doit être différente de la date de comptabilisation.  Une déclaration peut contenir plusieurs opérations qui ont eu lieu dans différents fuseaux horaires, mais ces opérations doivent toutes se situer dans la fenêtre de regroupement de 24 heures indiquée par la [date et heure de début de la période de 24 heures](#24debut) et la [date et heure de fin de la période de 24 heures](#24fin) dans la déclaration.  Exemples Si votre déclaration indique que la période de 24 heures s’étend de 0 h (minuit) à 23 h 59, **heure normale de l’Est** (HNE), et que des opérations ont été effectuées à la fois dans les fuseaux horaires HNE et heure normale du Pacifique (HNP), vous devez procéder comme suit :  **Heure normale de l’Est (HNE)**  Inclure les opérations dans la déclaration si elles se situent dans votre période de 24 heures.  **Heure normale du Pacifique (HNP)**  Convertissez l’heure des opérations à l’HNE pour déterminer si elles se situent dans votre période de 24 heures.  Si elles se situent dans la période de 24 heures après la conversion, incluez-les dans la déclaration.  Vous pouvez inclure ces opérations dans l’HNP ou l’HNE tant qu’elles se situent dans votre période de 24 heures.  Votre processus de conversion et de déclaration d’opérations effectuées dans des fuseaux horaires différents doit être documenté dans vos politiques et procédures afin d’assurer la cohérence de vos déclarations.  Renseignements supplémentaires :   * [Déclaration d’opérations à CANAFE : la règle de 24 heures](/guidance-directives/transaction-operation/24hour/1-fra)  Ce champ **est obligatoire, sauf si les 2 conditions suivantes s’appliquent** :   * vous êtes une entité financière * vous indiquez qu’il s’agit d’un dépôt de nuit ou d’un dépôt express   Dans ce cas, si vous n’indiquez pas la date et l’heure de l’opération dans ce champ, vous **devez** indiquer la date et l’heure de la comptabilisation (consulter le champ [Date et heure de la comptabilisation [si elles diffèrent de la date et de l’heure de l’opération])](#dhc). |
+| \* Comment l’opération a-t-elle été effectuée | Sélectionnez la méthode qui décrit comment vous avez reçu les espèces.  Si la méthode n’est pas indiquée, sélectionnez « Autre ».  **Remarque** :   * « Dépôt de nuit » et « Dépôt express » sont **seulement applicables aux entités financières**. * Si vous sélectionnez l’une ou l’autre de ces méthodes, vous **n’aurez pas** à remplir les champs d’information sur la personne ou l’entité qui effectue l’opération. |
+| † Si « Autre, » veuillez préciser | Décrivez brièvement comment vous avez reçu les espèces. |
+| Date et heure de comptabilisation (si différente de la date de l’opération) | Indiquez la date et l’heure de comptabilisation de l’opération, si elle diffère de la date et de l’heure de l’opération. Il ne peut pas s’agir d’une date ultérieure et elle doit être différente de la date de l’opération.  Ce champ est **obligatoire si l’une des conditions suivantes s’applique** :   * l’opération était un dépôt de nuit ou un dépôt express et que la date de l’opération n’a pas été fournie * la date de comptabilisation diffère de la date de l’opération   Dans tous les autres cas, il s’agit d’un champ de mesures raisonnables.  **Si seule une date de comptabilisation est disponible**, vous devez encore saisir une heure de comptabilisation. Dans ce cas, sélectionnez le même fuseau horaire que votre période de 24 heures et indiquez l’heure 00:00:00 pour que la date et l'heure restent dans votre période de 24 heures.  Une déclaration peut contenir **plusieurs opérations** qui ont eu lieu dans des fuseaux horaires différents. Vous devez déterminer si ces opérations se situent dans votre période de 24 heures, comme l’explique la description du champ [Date et heure de l’opération](#dhl). |
+| ‡ Indicateur de seuil | Indiquez si la valeur des espèces reçues pour l’opération était supérieure ou inférieure à 10 000 $ au moment de la réception.  Sélectionnez soit :   * « supérieur au seuil » si l’opération est égale à 10 000 $ ou plus * « inférieur au seuil » si l’opération est inférieure à 10 000 $ |
+| ‡ Numéro de référence de l’opération de l’entité déclarante | Il s’agit d’un numéro de référence unique assigné à **chaque opération** soit par :   * vous (l’entité déclarante) * la personne ou l’institution qui soumet la déclaration en votre nom |
+| Objet de l’opération | Il s’agit de la raison de l’opération et elle peut être différente de l’information fournie dans le champ des détails de la répartition. Cependant, votre description de l’objet de l’opération doit fournir des détails sur la répartition.  Les **textes en caractères gras** ci-dessous sont des exemples de l’objet de l’opération :   * Un client apporte des pourboires en espèces de son travail de serveur pour les déposer dans son compte bancaire afin d’**épargner pour l’achat d’une maison**. * Un client paie en espèces pour acheter un bijou qui sera un **cadeau pour un ami**. * Un client apporte des espèces pour échanger des fonds en dollars canadiens (CAD) en livre sterling (GBP) à des **fins de vacances**. * Un client apporte des espèces pour acheter une traite bancaire afin d’**acheter un bateau**.   Vous pouvez déterminer l’objet d’une opération en posant la question au client. |
+
+##### Renseignements sur l’emplacement où l’opération a été effectuée
+
+Fournissez des renseignements sur l’emplacement physique où l’opération a été effectuée.
+
+Par exemple, si l’opération a été effectuée dans :
+
+* une succursale, indiquez le numéro d’emplacement de l’entité déclarante pour cette succursale
+* un guichet automatique bancaire, indiquez le numéro d’emplacement de l’entité déclarante pour ce guichet automatique bancaire
+
+Instructions pour le champ sous « Renseignements sur l’emplacement où l’opération a été effectuée »
+
+| Champ | Instructions |
+| \* Numéro d’emplacement de l’entité déclarante | Il s’agit de renseignements au sujet du lieu où l’opération a eu lieu. Par exemple, si le client a déposé des espèces à la succursale 1, sélectionnez le numéro d’emplacement associé à la succursale 1.  Le numéro d’emplacement est :   * créé et vous est attribué par CANAFE au cours du processus d’inscription au Système de déclaration en ligne de CANAFE * tenu à jour par votre administrateur du système   Pour obtenir de plus amples renseignements à ce sujet, communiquez avec votre administrateur du Système de déclaration en ligne de CANAFE. |
+
+#### Action d’amorce
+
+Fournissez des informations sur la manière dont l’opération a été amorcée.
+
+Instructions pour les champs sous « Action d’amorce »
+
+| Champs | Instructions |
+| \* Montant | Indiquez le montant total des espèces visées dans l’action d’amorce.  Si ce montant **n’était pas** en dollars canadiens (CAD), **ne le convertissez pas** en CAD, mais indiquez le type de devise dans le champ suivant. |
+| \* Devise | Indiquez la devise de l’action d’amorce, y compris si elle était en dollars canadiens.  Si le type de devise ne figure pas dans la liste fournie, vous devez sélectionner « Autre » et fournir le nom complet de la devise. |
+| Comment les espèces ont-elles été obtenues? | Il s’agit de la façon dont la personne ou l’entité ayant effectué l’opération a initialement obtenu les espèces utilisées pour l’opération, et non de l’endroit d’où les fonds ont pu être transférés.  Par exemple, vous pouvez obtenir des espèces dans le cadre d’activités comme :   * un emploi * la vente d’un actif important * des cadeaux   Ces informations doivent être déclarées si elles sont obtenues. |
+| ‡ Des informations sur l’origine (personne/entité) des espèces ont-elles été obtenues? | Ce champ est une question à laquelle vous devez répondre par soit « oui » ou « non ».  **Sélectionnez « oui »** si vous avez soit :   * le nom d’une personne ou d’une entité qui est **l’origine des espèces** * son numéro de compte ou de police * un numéro d’identification s’il n’y a pas de numéro de compte ou de police   Autrement, **sélectionnez « non »** pour indiquer que vous n’avez pas de renseignements. |
+| ‡ Cette opération comprend-elle un dépôt dans un compte d’entreprise? | Ce champ est une question se répondant par « oui » ou par « non ».  Un « compte d’entreprise » signifie un compte d’entreprise auprès d’une entité déclarante dont les activités sont liées à des comptes, comme :   * une entité financière * un courtier en valeurs mobilières * un casino |
+
+##### Origine des espèces
+
+Si vous avez des renseignements sur l’origine des espèces en cause dans l’opération, vous devez les déclarer.
+
+S’il y a plusieurs personnes ou entités, vous devez fournir des renseignements pour chacune de celles-ci.
+
+###### Origine des espèces – personne
+
+Instructions pour les champs sous « Origine des espèces – personne »
+
+| Champs | Instructions |
+| † Nom de famille | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+| Numéro de compte | Indiquez le numéro de compte de l’origine des espèces.  Il est acceptable d’inclure le numéro de l’institution financière et le numéro de la succursale dans le numéro de compte. |
+| Numéro de police | Instructions non spécifiées |
+| Numéro d’identification | S’il n’y a pas de numéro de compte ou de police, indiquez un numéro d’identification, le cas échéant. |
+
+###### Origine des espèces – entité
+
+Instructions pour les champs sous « Origine des espèces – entité »
+
+| Champs | Instructions |
+| † Nom de l’entité | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| Numéro de compte | Indiquez le numéro de compte de l’origine des espèces.  Il est acceptable d’inclure le numéro de l’institution financière et le numéro de la succursale dans le numéro de compte. |
+| Numéro de police | Instructions non spécifiées |
+| Numéro d’identification | S’il n’y a pas de numéro de compte ou de police, indiquez un numéro d’identification, le cas échéant. |
+
+###### Remarque concernant les champs d’origine des espèces
+
+Bien que les champs suivants concernent la façon dont la personne ou l’entité qui effectue l’opération a obtenu les espèces et l’origine des espèces, **ils sont différents** :
+
+* Comment les espèces ont-elles été obtenues?
+* Des informations sur l’origine (personne/entité) des espèces ont-elles été obtenues?
+* Origine des espèces – personne ou entité
+
+L’exemple suivant illustre les différences.
+
+Exemple : 
+
+Vicky Violette apporte 12 000 $ en espèces pour les déposer dans son compte bancaire et dit à la banque qu’elle a obtenu cet argent lorsqu’elle a vendu sa voiture à Gaston Gareau.
+
+Elle a seulement pu fournir le nom de Gaston Gareau à la banque, car elle ne disposait pas d’informations sur son numéro de compte, son numéro de police ou son numéro d’identification.
+
+Par conséquent, les champs relatifs à l’origine des espèces seraient remplis comme suit :
+
+Comment les champs sur l’origine des espèces doivent être remplis pour cet exemple
+
+| Champs d’origine des espèces | Information fournie dans le champ |
+| Comment les espèces ont-elles été obtenues? | Vente de voiture |
+| Des informations sur l’origine (personne/entité) des espèces ont-elles été obtenues? | Oui |
+| Origine des espèces | Gaston Gareau |
+
+Pour plus d’information sur la façon de remplir ces champs, reportez-vous à [Action d’amorce](#s8.2.3) et [Origine des espèces](#ode) sous « Instructions spécifiques aux champs ».
+
+##### Personne qui effectue l’opération
+
+Fournissez tous les renseignements que vous détenez concernant 1 ou plusieurs personnes désignées comme étant les personnes ayant effectué l’opération.
+
+Instructions pour les champs sous « Personne qui effectue l’opération »
+
+| Champs | Instructions |
+| † Nom de famille | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+| Alias | Mêmes instructions (champs de nom) |
+| † Numéro de client | Un numéro d’identification unique assigné par l’entité déclarante à la personne ou à l’entité effectuant l’opération. |
+| Numéro d’appartement/Pièce/Suite/ Unité | Reportez-vous aux [champs d’adresse](#s8.1.3) sous « Instructions spécifiques aux champs ». |
+| Numéro de domicile ou d’immeuble | Mêmes instructions (champs d’adresse) |
+| † Adresse (rue) | Mêmes instructions (champs d’adresse) |
+| † Ville | Mêmes instructions (champs d’adresse) |
+| District | Mêmes instructions (champs d’adresse) |
+| † Pays | Mêmes instructions (champs d’adresse) |
+| † Province ou État (code) | Mêmes instructions (champs d’adresse) |
+| † Province ou État (nom) | Mêmes instructions (champs d’adresse) |
+| Sous-province ou sous-localité | Mêmes instructions (champs d’adresse) |
+| Code postal ou zip | Mêmes instructions (champs d’adresse) |
+| Renseignements non structurés liés à l’adresse | Reportez-vous au [champs d’adresse non structuré](#uaf) sous « Instructions normalisées pour les champs ». |
+| Numéro de téléphone | Reportez-vous aux [champs de numéro de téléphone](#s8.1.6) sous « Instructions normalisées pour les champs ». |
+| Numéro du poste téléphonique | Mêmes instructions (champs de numéro de téléphone) |
+| Adresse électronique | Instructions non spécifiées |
+| † Date de naissance | Instructions non spécifiées |
+| Pays de résidence | Indiquez le nom du principal pays de résidence de la personne.  Il peut s’agir du même pays inscrit dans la section de l’adresse ou d’un pays différent. |
+| † Profession | Reportez-vous aux [champs de profession ou domaine d’activité](#s8.1.4) sous « Instructions normalisées pour les champs ». |
+| Nom de l’employeur | Mêmes instructions (champs de profession ou domaine d’activité) |
+
+##### Identification de la personne
+
+Instructions pour les champs sous « Identification de la personne »
+
+| Champs | Instructions |
+| † Type de document d’identification | Reportez-vous aux [champs d’identification](#s8.1.5) sous « Instructions normalisées pour les champs ». |
+| † Si « autre », veuillez préciser | Mêmes instructions (champs d’identification) |
+| † Numéro associé au type de document ou de renseignements d’identification | Mêmes instructions (champs d’identification) |
+| † Autorité de délivrance (Pays) | Mêmes instructions (champs d’identification) |
+| † Autorité de délivrance (Province ou État) (code) | Mêmes instructions (champs d’identification) |
+| † Autorité de délivrance (Province ou État) (nom) | Mêmes instructions (champs d’identification) |
+
+##### Entité qui effectue l’opération
+
+Fournissez tous les renseignements que vous détenez concernant 1 ou plusieurs entités désignées comme étant les entités ayant effectué l’opération.
+
+Instructions pour les champs sous « Entité qui effectue l’opération »
+
+| Champs | Instructions |
+| † Nom de l’entité | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Numéro de client | Un numéro d’identification unique assigné par l’entité déclarante à l’entité qui effectue l’opération. |
+| Numéro d’appartement/Pièce/Suite/ Unité | Reportez-vous aux [champs d’adresse](#s8.1.3) sous « Instructions normalisées pour les champs ». |
+| Numéro de domicile ou d’immeuble | Mêmes instructions (champs d’adresse) |
+| † Adresse (rue) | Mêmes instructions (champs d’adresse) |
+| † Ville | Mêmes instructions (champs d’adresse) |
+| District | Mêmes instructions (champs d’adresse) |
+| † Pays | Mêmes instructions (champs d’adresse) |
+| † Province ou État (code) | Mêmes instructions (champs d’adresse) |
+| † Province ou État (nom) | Mêmes instructions (champs d’adresse) |
+| Sous-province ou sous-localité | Mêmes instructions (champs d’adresse) |
+| Code postal ou zip | Mêmes instructions (champs d’adresse) |
+| Renseignements non structurés liés à l’adresse | Reportez-vous au [champs d’adresse non structuré](#uaf) sous « Instructions normalisées pour les champs ». |
+| Numéro de téléphone | Reportez-vous aux [champs de numéro de téléphone](#s8.1.6) sous « Instructions normalisées pour les champs ». |
+| Numéro du poste téléphonique | Mêmes instructions (champs de numéro de téléphone) |
+| Adresse électronique | Instructions non spécifiées |
+| † Nature des activités principales de l’entité | Reportez-vous aux [champs de profession ou domaine d’activité](#s8.1.4) sous « Instructions normalisées pour les champs ». |
+| ‡ Avez-vous des informations sur l’enregistrement ou la constitution en société de l’entité? | Instructions non spécifiées |
+| Constituée en société ou enregistrée? | Instructions non spécifiées |
+| † Numéro de constitution en société / † Autorité de délivrance (pays, province ou État) | Indiquez le numéro de constitution en société et l’autorité de délivrance de l’entité qui effectue l’opération pour chaque autorité de délivrance où l’entité est constituée en société.  Si l’autorité est une province ou un État :   * **au** Canada, aux États-Unis ou au Mexique, sélectionnez le **code** dans la liste d’options * **à l’extérieur** du Canada, des États-Unis ou du Mexique, indiquez le **nom** de la province ou de l’État |
+| † Numéro d’enregistrement / † Autorité de délivrance (pays, province ou État) | Indiquez le numéro d’enregistrement de l’entité qui effectue l’opération pour chaque autorité de délivrance où l’entité est enregistrée.  Si l’autorité est une province ou un État :   * **au** Canada, aux États-Unis ou au Mexique, sélectionnez le **code** dans la liste d’options * **à l’extérieur** du Canada, des États-Unis ou du Mexique, indiquez le **nom** de la province ou de l’État   Pour les entités canadiennes, le numéro d’enregistrement peut inclure le numéro d’entreprise à 9 chiffres attribué à cette entité par l’Agence du revenu du Canada (ARC). |
+
+##### Identification de l’entité
+
+Fournissez les renseignements suivants qui ont été utilisés pour vérifier l’identité de l’entité. Pour certaines entités, ces renseignements peuvent être les mêmes que les renseignements d’enregistrement ou de constitution.
+
+Instructions pour les champs sous « Identification de l’entité »
+
+| Champs | Instructions |
+| † Type de document d’identification | Reportez-vous aux [champs d’identification](#s8.1.5)  sous « Instructions normalisées pour les champs ». |
+| † Si « autre », veuillez préciser | Mêmes instructions (champs d’identification) |
+| † Numéro associé au type de document ou de renseignements d’identification | Mêmes instructions (champs d’identification) |
+| † Autorité de délivrance (pays) | Mêmes instructions (champs d’identification) |
+| † Autorité de délivrance (province ou État) (code) | Mêmes instructions (champs d’identification) |
+| † Autorité de délivrance (province ou État) (nom) | Mêmes instructions (champs d’identification) |
+
+##### Personne(s) ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte (maximum 3)
+
+S’agissant d’une entité ayant effectué l’opération, vous devez fournir les renseignements d’un maximum de 3 personnes, qui ont soit le pouvoir :
+
+* de lier l’entité
+* d’agir à l’égard du compte
+
+Instructions pour les champs sous « Personne(s) ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte »
+
+| Champs | Instructions |
+| † Nom de famille | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+
+##### Personne ou entité qui effectue l’opération (compte d’entreprise)
+
+Fournissez le nom de la personne ou de l’entité qui effectue l’opération si vous avez indiqué que cette opération implique un dépôt dans un compte d’entreprise.
+
+Un dépôt dans un compte d’entreprise ne s’applique qu’à une entité déclarante dont les activités sont liées à des comptes, c’est-à-dire :
+
+* une entité financière
+* un courtier en valeurs mobilières
+* un casino
+
+Instructions pour les champs sous « Personne ou entité qui effectue l’opération (compte d’entreprise) »
+
+| Champs | Instructions |
+| † Nom de famille | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+| † Nom de l’entité | Mêmes instructions (champs de nom) |
+
+##### Indicateur « Pour le compte de »
+
+Instructions pour le champ sous Indicateur « Pour le compte de »
+
+| Champ | Instructions |
+| † Est-ce que l’opération a été effectuée pour le compte d’une autre personne ou entité? | Ce champ est une question à laquelle vous devez répondre par soit « oui » ou « non ».  Sélectionnez « Oui » si l’opération a été effectuée pour le compte d’une autre personne ou entité.  La partie « pour le compte de » est aussi connue sous les noms suivants :   * « tiers » * partie qui donne les instructions pour l’opération |
+
+##### Renseignements au sujet du tiers (personne pour le compte de qui l’opération a été effectuée)
+
+Si l’opération a été effectuée **pour le compte d’une autre personne**, vous devez inclure les renseignements pertinents.
+
+Instructions pour les champs « Renseignements au sujet du tiers pour le compte de qui l’opération a été effectuée »
+
+| Champs | Instructions |
+| † Nom de famille | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+| Alias | Mêmes instructions (champs de nom) |
+| Numéro de client | Instructions non spécifiées |
+| Numéro d’appartement/Pièce/Suite/ Unité | Reportez-vous aux [champs d’adresse](#s8.1.3) sous « Instructions normalisées pour les champs ». |
+| Numéro de domicile ou d’immeuble | Mêmes instructions (champs de nom) |
+| † Adresse (rue) | Mêmes instructions (champs de nom) |
+| † Ville | Mêmes instructions (champs de nom) |
+| District | Mêmes instructions (champs de nom) |
+| † Pays | Mêmes instructions (champs de nom) |
+| † Province ou État (code) | Mêmes instructions (champs de nom) |
+| † Province ou État (nom) | Mêmes instructions (champs de nom) |
+| Sous-province ou sous-localité | Mêmes instructions (champs de nom) |
+| Code postal ou zip | Mêmes instructions (champs de nom) |
+| Renseignements non structurés liés à l’adresse | Reportez-vous au [champs d’adresse non structuré](#uaf) sous « Instructions normalisées pour les champs ». |
+| Numéro de téléphone | Reportez-vous aux [champs de numéro de téléphone](#s8.1.6) sous « Instructions normalisées pour les champs ». |
+| Numéro du poste téléphonique | Mêmes instructions (champs de numéro de téléphone) |
+| Adresse électronique | Instructions non spécifiées |
+| Date de naissance | Instructions non spécifiées |
+| Pays de résidence | Indiquez le nom du principal pays de résidence de la personne.  Il peut s’agir du même pays inscrit dans la section de l’adresse ou d’un pays différent. |
+| † Profession | Reportez-vous aux [champs de profession ou domaine d’activité](#s8.1.4) sous « Instructions normalisées pour les champs ». |
+| Nom de l’employeur | Mêmes instructions (champs de profession ou domaine d’activité) |
+
+##### Identification de la personne pour le compte de qui l’opération a été effectuée
+
+Instructions pour les champs sous « Identification de la personne pour le compte de qui l’opération a été effectuée »
+
+| Champs | Instructions |
+| Type de document d’identification | Reportez-vous aux [champs d’identification](#s8.1.5)  sous « Instructions normalisées pour les champs ». |
+| † Si « autre », veuillez préciser | Mêmes instructions (champs d’identification) |
+| Numéro associé au type de document ou de renseignements d’identification | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (pays) | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (province ou État) (code) | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (province ou État) (nom) | Mêmes instructions (champs d’identification) |
+
+##### Lien entre le tiers (personne nommée ci-dessus) et la personne ou l’entité effectuant l’opération
+
+Instructions pour les champs sous « Lien entre le tiers (personne nommée ci-dessus) et la personne ou l’entité effectuant l’opération »
+
+| Champs | Instructions |
+| † Lien | Sélectionnez le lien entre la personne ou l’entité effectuant l’opération et la partie « pour le compte de ».  Il est entendu que la partie « pour le compte de », c’est-à-dire le tiers, est la personne ou l’entité qui donne des instructions à la personne ou l’entité qui effectue l’opération. |
+| † Si « autre », veuillez préciser | Instructions non spécifiées |
+
+##### Renseignements au sujet du tiers (entité pour le compte de qui l’opération a été effectuée)
+
+Si l’opération a été effectuée **pour le compte d’une autre entité**, vous devez inclure les renseignements pertinents.
+
+Instructions pour les champs sous « Renseignements au sujet du tiers (entité pour le compte de qui l’opération a été effectuée) »
+
+| Champs | Instructions |
+| † Nom de l’entité | Reportez-vous aux [champs d’identification](#s8.1.5)  sous « Instructions normalisées pour les champs ». |
+| Numéro de client | Instructions non spécifiées |
+| Numéro d’appartement/Pièce/Suite/ Unité | Reportez-vous aux [champs d’adresse](#s8.1.3) sous « Instructions normalisées pour les champs ». |
+| Numéro de domicile ou d’immeuble | Mêmes instructions (champs d’adresse) |
+| † Adresse (rue) | Mêmes instructions (champs d’adresse) |
+| † Ville | Mêmes instructions (champs d’adresse) |
+| District | Mêmes instructions (champs d’adresse) |
+| † Pays | Mêmes instructions (champs d’adresse) |
+| † Province ou État (code) | Mêmes instructions (champs d’adresse) |
+| † Province ou État (nom) | Mêmes instructions (champs d’adresse) |
+| Sous-province ou sous-localité | Mêmes instructions (champs d’adresse) |
+| Code postal ou zip | Mêmes instructions (champs d’adresse) |
+| Renseignements non structurés liés à l’adresse | Reportez-vous au [champs d’adresse non structuré](#uaf) sous « Instructions normalisées pour les champs ». |
+| Numéro de téléphone | Reportez-vous aux [champs de numéro de téléphone](#s8.1.6) sous « Instructions normalisées pour les champs ». |
+| Numéro du poste téléphonique | Mêmes instructions (champs de numéro de téléphone) |
+| Adresse électronique | Instructions non spécifiées |
+| † Nature des activités principales de l’entité | Reportez-vous aux [champs de profession ou domaine d’activité](#s8.1.4) sous « Instructions normalisées pour les champs ». |
+| ‡ Avez-vous des informations sur l’enregistrement ou la constitution en société de l’entité? | Instructions non spécifiées |
+| Constituée en société ou enregistrée? | Instructions non spécifiées |
+| † Numéro de constitution en société / † Autorité de délivrance (pays, province ou État) | Indiquez le numéro de constitution en société et l’autorité de délivrance de l’entité pour le compte de qui l’opération a été effectuée pour chaque autorité de délivrance où l’entité est constituée en société.  Si l’autorité est une province ou un État :   * **au** Canada, aux États-Unis ou au Mexique, sélectionnez le **code** dans la liste d’options * **à l’extérieur** du Canada, des États-Unis ou du Mexique, indiquez le **nom** de la province ou de l’État |
+| † Numéro d’enregistrement / † Autorité de délivrance (pays, province ou État) | Indiquez le numéro d’enregistrement de l’entité pour le compte de qui l’opération a été effectuée pour chaque autorité de délivrance où l’entité est enregistrée.  Si l’autorité est une province ou un État :   * **au** Canada, aux États-Unis ou au Mexique, sélectionnez le **code** dans la liste d’options * **à l’extérieur** du Canada, des États-Unis ou du Mexique, indiquez le **nom** de la province ou de l’État   Pour les entités canadiennes, le numéro d’enregistrement peut inclure le numéro d’entreprise à 9 chiffres attribué à cette entité par l’Agence du revenu du Canada (ARC). |
+
+##### Identification de l’entité pour le compte de qui l’opération a été effectuée
+
+Fournissez les renseignements suivants qui ont été utilisés pour vérifier l’identité de l’entité pour le compte de qui l’opération a été effectuée.
+
+Pour certaines entités, ces renseignements peuvent être les mêmes que les renseignements d’enregistrement ou de constitution.
+
+Instructions pour les champs sous « Identification de l’entité pour le compte de qui l’opération a été effectuée »
+
+| Champs | Instructions |
+| Type de document d'identification | Reportez-vous aux [champs d’identification](#s8.1.5)  sous « Instructions normalisées pour les champs ». |
+| † Si « autre », veuillez préciser | Mêmes instructions (champs d’identification) |
+| Numéro associé au type de document ou de renseignements d’identification | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (pays) | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (province ou État) (code) | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (province ou État) (nom) | Mêmes instructions (champs d’identification) |
+
+##### Personne(s) ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte (maximum 3)
+
+| Champs | Instructions |
+| Nom de famille | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+
+##### Lien entre le tiers (entité nommée ci-dessus) et la personne ou l’entité effectuant l’opération
+
+Instructions pour les champs sous « Lien entre le tiers (entité nommée ci-dessus) et la personne ou l’entité effectuant l’opération »
+
+| Champs | Instructions |
+| † Lien | Sélectionnez le lien entre la personne ou l’entité effectuant l’opération et la partie « pour le compte de ».  Il est entendu que la partie « pour le compte de », c’est-à-dire le tiers, est la personne ou l’entité qui donne des instructions à la personne ou l’entité qui effectue l’opération. |
+| † Si « autre », veuillez préciser | Instructions non spécifiées |
+
+#### Action d’achèvement
+
+Fournissez de l’information au sujet de la manière dont l’opération a été achevée.
+
+##### \* Détails de la répartition
+
+Ce champ décrit ce qu’il est advenu des espèces impliquées dans l’opération. Sélectionnez la ou les répartitions suivantes en fonction des instructions du client :
+
+Instructions pour les types de répartition à sélectionner pour le champ « \* Détails de la répartition »
+
+| Types de répartitions à sélectionner | Instructions |
+| Achat de bijoux | Sélectionnez lorsqu’un client achète des bijoux auprès d’un négociant en métaux précieux et pierres précieuses.  On entend par bijoux les objets en métaux précieux, en pierres précieuses ou en perles destinés à la parure personnelle. |
+| Achat de mandat | Sélectionnez lorsqu’un client achète un mandat.  Un mandat est un certificat, généralement émis par un gouvernement ou une institution financière, qui permet au bénéficiaire déclaré de recevoir des espèces sur demande.  Un mandat fonctionne comme un chèque, car l’acheteur du mandat peut faire opposition au paiement. |
+| Achat de métaux précieux | Sélectionnez lorsqu’un client achète des métaux précieux auprès d’un négociant en métaux précieux et pierres précieuses.  Par métaux précieux, on entend :   * l’or * l’argent * le palladium * le platine   sous forme de :   * pièces * barres * lingots * granules * d’autres formes similaires |
+| Achat de pierres précieuses | Sélectionnez lorsqu’un client achète des pierres précieuses auprès d’un négociant en métaux précieux et pierres précieuses.  Les pierres précieuses, on entend :   * les diamants * les saphirs * les émeraudes * les tanzanites * les rubis * les alexandrites |
+| Achat de produit de casino | Sélectionnez lorsqu’un client achète un produit de casino.  Un produit de casino peut inclure, sans s’y limiter :   * des jetons * des plaques |
+| Achat de traite bancaire | Sélectionnez lorsqu’un client achète une traite bancaire auprès d’une entité financière.  Le terme traite bancaire désigne un instrument négociable qui peut être utilisé comme moyen de paiement (semblable à un chèque). Contrairement au chèque, la traite bancaire est garantie par la banque émettrice. |
+| Achat d’un produit/carte de paiement prépayé | Sélectionnez lorsqu’un client achète un produit de paiement prépayé.  Le produit doit être lié à un compte de produit de paiement prépayé détenu par une entité financière.  Un produit de paiement prépayé est un produit émis par une entité financière qui permet à une personne ou à une entité d’effectuer une opération en lui donnant un accès électronique à des fonds ou à une monnaie virtuelle versés dans un compte de produit de paiement prépayé détenu auprès de l’entité financière avant que l’opération n’ait lieu. |
+| Achat ou dépôt de biens immobiliers | Sélectionnez lorsqu’un client achète ou verse un dépôt sur un bien immobilier. |
+| Achat ou dépôt de produits d’investissement | Sélectionnez lorsqu’un client achète ou fait un dépôt dans un contrat de placement garanti (CPG), un REER, des actions d’une bourse (par exemple, Bourse de Toronto [TSX]) ou tout autre investissement de ce type. |
+| Achat ou dépôt d’une police d’assurance-vie | Sélectionnez lorsqu’un client achète ou verse un dépôt pour acheter une police d’assurance-vie. |
+| Achat ou paiement de biens | Sélectionnez lorsqu’un client achète ou paie des biens qui ne sont pas déjà pris en compte par un autre type de répartition figurant dans la liste ci-dessus (par exemple, voiture, yacht). |
+| Achat ou paiement de services | Sélectionnez lorsqu’un client achète ou paie des services qui ne sont pas déjà pris en compte par un autre type de répartition inclus dans la liste ci-dessus (par exemple, câble, Internet, électricité). |
+| Ajouté à un portefeuille de monnaie virtuelle | Sélectionnez lorsque la monnaie virtuelle est ajoutée à un portefeuille de monnaie virtuelle.  **Il ne peut s’agir de la première répartition**. Par exemple, l’argent reçu doit être échangé en monnaie virtuelle (première répartition) avant de pouvoir être ajouté à un portefeuille de monnaie virtuelle (répartition ultérieure). |
+| Dépôt dans un compte | Sélectionnez lorsque des espèces sont déposées sur un compte auprès d’une entité déclarante dont les activités sont liées à des comptes, comme une banque ou une coopérative de crédit. |
+| Échange contre une monnaie virtuelle | Sélectionnez soit, pour :   * un échange de monnaie fiduciaire contre une monnaie virtuelle (par exemple, CAD contre bitcoin) * un échange de monnaie virtuelle contre une monnaie virtuelle (par exemple, bitcoin contre ethereum).   Un échange de monnaie virtuelle en monnaie virtuelle **ne peut pas être la première répartition**. L’argent reçu doit d’abord être échangé en monnaie virtuelle (première répartition) avant que la monnaie virtuelle puisse être échangée contre une autre monnaie virtuelle. |
+| Échange de dénominations | Sélectionnez lorsque l’argent reçu est échangé d’une unité de valeur à une autre (par exemple, des billets de 20 $ échangés contre des billets de 100 $) dans la même devise. |
+| Échange en monnaie fiduciaire | Sélectionnez soit pour :   * un échange de monnaie fiduciaire à monnaie fiduciaire (par exemple, CAD à USD) * un échange de monnaie virtuelle à monnaie fiduciaire (par exemple, bitcoin à CAD)   Un échange de devises virtuelles contre des devises fiat **ne peut pas être la première répartition**. L’argent reçu doit être échangé en monnaie virtuelle (première répartition) avant que la monnaie virtuelle puisse être échangée en monnaie fiduciaire (répartition ultérieure). |
+| Émission d’un chèque | Sélectionnez pour l’émission :   * d’un chèque certifié * d’un déboursement par le biais d’un chèque du casino, etc. |
+| Fonds retenus | Sélectionnez lorsqu’une entité déclarante dont les activités ne sont pas liées à des comptes (par exemple, une entreprise de services monétaires) reçoit des espèces et détient ces fonds pour un client en vue d’une opération future (par exemple, acheter une monnaie virtuelle lorsqu’elle atteint un certain seuil). |
+| Transfert en monnaie virtuelle | Sélectionnez lorsqu’une entité déclarante transfère de la monnaie virtuelle du portefeuille de monnaie virtuelle d’un client vers un autre portefeuille de monnaie virtuelle.  **Il ne peut s’agir de la première répartition**. Par exemple, l’argent reçu doit être échangé en monnaie virtuelle (première répartition) avant de pouvoir être ajouté à un portefeuille de monnaie virtuelle (deuxième répartition), puis transféré à un autre portefeuille de monnaie virtuelle. |
+| Virement de fonds à l’étranger | Sélectionnez lorsque les instructions de l’opération portent sur le transfert de fonds à l’extérieur du Canada. |
+| Virement de fonds au pays | Sélectionnez lorsque les instructions de l’opération portent sur le transfert de fonds au Canada. |
+| Virement de fonds par courriel | Sélectionnez lorsque les fonds sont transférés en utilisant l’adresse courriel d’un destinataire. |
+| Virement de fonds par mobile | Sélectionnez lorsque les fonds sont transférés en utilisant le numéro de téléphone d’un destinataire. |
+| Autre | Sélectionnez lorsque la répartition ne correspond à aucun autre type de répartition figurant dans la liste ci-dessus.  Lorsque vous sélectionnez « Autre », vous devez fournir une description de la répartition.  La mention « Autre » ne doit pas être utilisée pour combiner plusieurs répartitions figurant dans la liste ci-dessus. Plus précisément, si l’action d’achèvement comporte plusieurs répartitions figurant dans la liste ci-dessus, chaque répartition doit être sélectionnée et non combinée sous « Autre ».  **Remarque** : Si la répartition est « Autre », fournissez des détails qui décrivent la répartition de l’opération dans le « **† Si “Autre”, veuillez préciser** ». |
+
+###### Nombre de répartitions dans une action d’achèvement
+
+Une action d’achèvement peut avoir **1 ou plusieurs répartitions**, selon les instructions du client et votre processus opérationnel.
+
+Exemple 1 : une seule répartition 
+
+Votre client apporte 12 000 $ en espèces et demande de déposer toute la somme dans son compte d’épargne.
+
+Il n’y a que 1 seule répartition :
+
+* « dépôt dans le compte »
+
+Exemple 2 : plusieurs répartitions
+
+Votre client apporte 12 000 $ en espèces et demande :
+
+* de déposer 5 000 $ dans son compte d’épargne
+* d’échanger 7 000 $ contre des billets d’une valeur supérieure
+
+Il y a 2 répartitions, c’est-à-dire :
+
+* « dépôt dans le compte »
+* « échange de dénominations »
+
+Exemple 3 : une seule répartition ou plusieurs répartitions (selon votre processus opérationnel)
+
+Votre client apporte 12 000 $ en espèces et demande de transférer 12 000 $ à un ami à l’étranger.
+
+**Entité financière**
+
+Si votre processus opérationnel consiste à :
+
+* déposer l’argent dans le compte du client avant que le montant soit envoyé à l’ami du client, il y a 2 répartitions, c’est-à-dire :
+  + « dépôt dans le compte »
+  + « virement de fonds à l’étranger »
+* envoyer le montant à l’ami sans le déposer dans un compte, il y a seulement 1 répartition :
+  + « virement de fonds à l’étranger »
+
+**Entreprises de services monétaires**
+
+Si votre processus opérationnel consiste à :
+
+* retenir les fonds jusqu’à une date ultérieure à laquelle vous envoyez le montant, il y a 2 répartitions, c’est-à-dire :
+  + « fonds retenus »
+  + « virement de fonds à l’étranger »
+* envoyer le montant à l’ami sans retenir les fonds, il y a seulement 1 répartition :
+  + « virement de fonds à l’étranger »
+
+##### Champs d’action d’achèvement – suite
+
+Instructions pour les « Champs action d’achèvement – suite »
+
+| Champs | Instructions |
+| † Montant | Saisissez le montant impliqué dans l’action d’achèvement. Par exemple, il peut s’agir du montant de :   * monnaie virtuelle après un échange contre une monnaie virtuelle * fonds initiés pour un virement de fonds à l’étranger * fonds indiqués sur la traite bancaire |
+| † Devise | Si la répartition implique une monnaie fiduciaire, indiquez la devise même si elle était en dollars canadiens.  Si le type de devise ne figure pas dans la liste fournie, vous devez sélectionner « Autre » et préciser le nom de la devise. |
+| † Type de monnaie virtuelle | Instructions non spécifiées |
+| † Si « autre », veuillez préciser | Instructions non spécifiées |
+| Taux de change | Indiquez le taux de change que vous avez utilisé pour l’opération. |
+| † Valeur en dollars canadiens | Indiquez la valeur en dollars canadiens de la répartition, si elle n’est pas en espèces. Par exemple, indiquez la valeur de la monnaie virtuelle, des bijoux, des métaux précieux ou des pierres précieuses qui ont été achetés.  Il peut s’agir de la valeur marchande, de la valeur de détail ou de toute autre valeur que vous utiliseriez dans le cours normal de vos activités au moment de l’opération, et comme précisé dans vos politiques et procédures et conformément à celles-ci. |
+| † Numéro de référence | Si l’opération a impliqué un numéro de référence, indiquez-le dans ce champ.  Si l’opération concerne un compte auprès d’une entité financière, d’un courtier en valeurs mobilières ou d’un casino (entité déclarante dont les activités sont liées à des comptes), **ne fournissez pas les informations relatives au numéro de compte dans ce champ**. Fournissez **plutôt** ces informations dans le champ du numéro de compte.  Pour toutes les autres entités déclarantesInstructions non spécifiées, si vous avez un numéro de compte interne qui est utilisé comme numéro de référence, indiquez-le dans ce champ. |
+| Autre numéro lié au numéro de référence | Indiquez tout autre numéro lié au numéro de référence, le cas échéant. |
+| † Numéro d’institution financière | Instructions non spécifiées |
+| † Numéro de succursale | Instructions non spécifiées |
+| † Numéro de compte | Si l’opération implique un compte auprès d’une entité financière, d’un courtier en valeurs mobilières ou d’un casino (entités déclarantes dont les activités sont liées à des comptes), fournissez ce numéro de compte.  Si vous **n’êtes pas** une entité déclarante dont les activités sont liées à des comptes (par exemple, une entreprise de services monétaires), **mais** que l’opération concerne un compte auprès d’une entité déclarante dont les activités sont liées à des comptes (par exemple, une entité financière), indiquez ce numéro de compte dans ce champ. |
+| † Type de compte | Instructions non spécifiées |
+| † Si « autre », veuillez préciser | Instructions non spécifiées |
+| † Devise du compte | Instructions non spécifiées |
+| Date d’ouverture du compte | Instructions non spécifiées |
+
+##### Titulaire du compte – personne
+
+Instructions pour les champs sous « Titulaire du compte – personne »
+
+| Champs | Instructions |
+| † Nom de famille | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+
+##### Titulaire du compte – entité
+
+Instructions pour les champs sous « Titulaire du compte – entité »
+
+| Champ | Instructions |
+| † Nom de l’entité | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+
+##### Personne ou entité qui participe à l’action qui complète l’opération
+
+Instructions pour le champ sous « Personne ou entité qui participe à l’action qui complète l’opération »
+
+| Champ | Instructions |
+| ‡ Est-ce qu’une autre personne ou entité a participé à l’action qui complète l’opération? | Instructions non spécifiées |
+
+##### Renseignements au sujet de la personne ayant participé à l’action qui complète l’opération
+
+Si vous avez des renseignements au sujet d’autres personnes ayant participé à l’action qui complète l’opération, vous devez les inclure.
+
+**Remarque** : Ces personnes **ne peuvent pas être les suivantes** :
+
+* les personnes qui ont effectué l’opération
+* une partie pour le compte de qui l’opération a été effectuée (un tiers)
+* les bénéficiaires de l’opération
+
+Instructions pour les champs sous « Renseignements au sujet de la personne ayant participé à l’action qui complète l’opération »
+
+| Champs | Instructions |
+| † Nom de famille | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+| † Numéro de compte | Indiquez le numéro de compte de la personne ayant participé à l’action qui complète l’opération.  Vous pouvez inclure le numéro d’institution financière et de succursale dans le numéro de compte. |
+| † Numéro de police | Instructions non spécifiées |
+| † Numéro d’identification | Instructions non spécifiées |
+
+##### Renseignements au sujet de l’entité ayant participé à l’action qui complète l’opération
+
+Si vous avez des renseignements au sujet d’autres entités ayant participé à l’action qui complète l’opération, vous devez les inclure.
+
+**Remarque** : Ces entités **ne peuvent pas être les suivantes** :
+
+* les entités qui ont effectué l’opération
+* une partie pour le compte de qui l’opération a été effectuée
+* les bénéficiaires de l’opération
+
+Instructions pour les champs sous « Renseignements au sujet de l’entité ayant participé à l’action qui complète l’opération »
+
+| Champs | Instructions |
+| † Nom de l’entité | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Numéro de compte | Indiquez le numéro de compte de l’entité ayant participé à l’action qui complète l’opération.  Vous pouvez inclure le numéro d’institution financière et de succursale dans le numéro de compte. |
+| † Numéro de police | Instructions non spécifiées |
+| † Numéro d’identification | Instructions non spécifiées |
+
+##### Bénéficiaire
+
+Fournissez les renseignements sur le [bénéficiaire](/guidance-directives/glossary-glossaire/1-fra#bénéficiaire) pour chaque action d’achèvement.
+
+Un bénéficiaire, par exemple, peut être soit :
+
+* la personne qui reçoit la monnaie virtuelle
+* la personne nommée sur un mandat
+* la personne qui reçoit les bijoux
+
+Le bénéficiaire **peut être** la **même personne ou entité** qui effectue l’opération ou une autre personne.
+
+Le bénéficiaire **ne peut pas** être l’entité déclarante.
+
+##### Personne bénéficiaire
+
+Instructions pour les champs sous « Personne bénéficiaire »
+
+| Champs | Instructions |
+| † Nom de famille | Reportez-vous aux [champs de nom](#s8.1.2) sous « Instructions normalisées pour les champs ». |
+| † Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+| Alias | Mêmes instructions (champs de nom) |
+| Numéro de client | Instructions non spécifiées |
+| Numéro d’appartement/Pièce/Suite/ Unité | Reportez-vous aux [champs d’adresse](#s8.1.3) sous « Instructions normalisées pour les champs ». |
+| Numéro de domicile ou d’immeuble | Mêmes instructions (champs d’adresse) |
+| † Adresse (rue) | Mêmes instructions (champs d’adresse) |
+| † Ville | Mêmes instructions (champs d’adresse) |
+| District | Mêmes instructions (champs d’adresse) |
+| † Pays | Mêmes instructions (champs d’adresse) |
+| † Province ou État (code) | Mêmes instructions (champs d’adresse) |
+| † Province ou État (nom) | Mêmes instructions (champs d’adresse) |
+| Sous-province ou sous-localité | Mêmes instructions (champs d’adresse) |
+| Code postal ou zip | Mêmes instructions (champs d’adresse) |
+| Renseignements non structurés liés à l’adresse | Reportez-vous au [champs d’adresse non structuré](#uaf) sous « Instructions normalisées pour les champs ». |
+| Numéro de téléphone | Reportez-vous aux [champs de numéro de téléphone](#s8.1.6) sous « Instructions normalisées pour les champs ». |
+| Numéro du poste téléphonique | Mêmes instructions (champs de numéro de téléphone) |
+| Adresse électronique | Instructions non spécifiées |
+| Date de naissance | Instructions non spécifiées |
+| Pays de résidence | Indiquez le nom du principal pays de résidence de la personne.  Il peut s’agir du même pays inscrit dans la section de l’adresse ou d’un pays différent. |
+| Profession | Reportez-vous aux [champs de profession ou domaine d’activité](#s8.1.4) sous « Instructions normalisées pour les champs ». |
+| Nom de l’employeur | Mêmes instructions (champs de profession/domaine d’activité) |
+
+##### Identification du bénéficiaire
+
+Instructions pour les champs sous « Identification du bénéficiaire »
+
+| Champs | Instructions |
+| Type de document d’identification | Reportez-vous aux [champs d’identification](#s8.1.5)  sous « Instructions normalisées pour les champs ». |
+| † Si « autre », veuillez préciser | Mêmes instructions (champs d’identification) |
+| Numéro associé au type de document ou de renseignements d’identification | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (pays) | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (province ou État) (code) | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (province ou État) (nom) | Mêmes instructions (champs d’identification) |
+
+##### Lien entre le bénéficiaire (personne nommée ci-dessus) et la personne ou l’entité effectuant l’opération
+
+Instructions pour les champs sous « Lien entre le bénéficiaire (personne nommée ci-dessus) et la personne ou l’entité effectuant l’opération »
+
+| Champs | Instructions |
+| Lien | Sélectionnez le lien entre le bénéficiaire et la personne ou l’entité qui effectue l’opération.  Si le bénéficiaire et la personne ou l’entité qui effectue l’opération sont les mêmes, sélectionnez « soi-même ». |
+| † Si « Autre », veuillez préciser | Instructions non spécifiées |
+
+##### Entité bénéficiaire
+
+Instructions pour les champs sous « Entité bénéficiaire »
+
+| Champs | Instructions |
+| † Nom de l’entité | Reportez-vous aux [champs d’identification](#s8.1.5)  sous « Instructions normalisées pour les champs ». |
+| Numéro de client | Instructions non spécifiées |
+| Numéro d’appartement/Pièce/Suite/ Unité | Reportez-vous aux [champs d’adresse](#s8.1.3) sous « Instructions normalisées pour les champs ». |
+| Numéro de domicile ou d’immeuble | Mêmes instructions (champs d’adresse) |
+| † Adresse (rue) | Mêmes instructions (champs d’adresse) |
+| † Ville | Mêmes instructions (champs d’adresse) |
+| District | Mêmes instructions (champs d’adresse) |
+| † Pays | Mêmes instructions (champs d’adresse) |
+| † Province ou État (code) | Mêmes instructions (champs d’adresse) |
+| † Province ou État (nom) | Mêmes instructions (champs d’adresse) |
+| Sous-province ou sous-localité | Mêmes instructions (champs d’adresse) |
+| Code postal ou zip | Mêmes instructions (champs d’adresse) |
+| Renseignements non structurés liés à l’adresse | Reportez-vous au [champs d’adresse non structuré](#uaf) sous « Instructions normalisées pour les champs ». |
+| Numéro de téléphone | Reportez-vous aux [champs de numéro de téléphone](#s8.1.6) sous « Instructions normalisées pour les champs ». |
+| Numéro du poste téléphonique | Mêmes instructions (champs de numéro de téléphone) |
+| Adresse électronique | Instructions non spécifiées |
+| † Nature des activités principales de l’entité | Reportez-vous aux [champs de profession ou domaine d’activité](#s8.1.4) sous « Instructions normalisées pour les champs ». |
+| ‡ Avez-vous des informations sur l’enregistrement ou la constitution en société de l’entité? | Instructions non spécifiées |
+| Constituée en société ou enregistrée? | Instructions non spécifiées |
+| Numéro de constitution en société / Autorité de délivrance (pays, province ou État) | Indiquez le numéro de constitution en société et l’autorité de délivrance de l’entité bénéficiaire pour chaque autorité de délivrance où l’entité est constituée en société.  Si l’autorité est une province ou un État :   * **au** Canada, aux États-Unis ou au Mexique, sélectionnez le **code** dans la liste d’options * **à l’extérieur** du Canada, des États-Unis ou du Mexique, indiquez le **nom** de la province ou de l’État |
+| Numéro d’enregistrement / Autorité de délivrance (pays, province ou État) | Indiquez le numéro d’enregistrement de l’entité bénéficiaire pour chaque autorité de délivrance où l’entité est enregistrée.  Si l’autorité est une province ou un État :   * **au** Canada, aux États-Unis ou au Mexique, sélectionnez le **code** dans la liste d’options * **à l’extérieur** du Canada, des États-Unis ou du Mexique, indiquez le **nom** de la province ou de l’État   Pour les entités canadiennes, le numéro d’enregistrement peut inclure le numéro d’entreprise à 9 chiffres attribué à cette entité par l’Agence du revenu du Canada (ARC). |
+
+##### Identification de l’entité bénéficiaire
+
+Fournissez les renseignements suivants qui ont été utilisés pour vérifier l’identité de l’entité qui est un bénéficiaire.
+
+Pour certaines entités, ces renseignements peuvent être les mêmes que les renseignements d’enregistrement ou de constitution.
+
+Instructions pour les champs sous « Identification de l’entité bénéficiaire »
+
+| Champs | Instructions |
+| Type de document d’identification | Reportez-vous aux [champs d’identification](#s8.1.5)  sous « Instructions normalisées pour les champs ». |
+| † Si « Autre », veuillez préciser | Mêmes instructions (champs d’identification) |
+| Numéro associé au type de document ou de renseignements d’identification | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (pays) | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (province ou État) (code) | Mêmes instructions (champs d’identification) |
+| Autorité de délivrance (province ou État) (nom) | Mêmes instructions (champs d’identification) |
+
+##### Personne ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte (maximum 3)
+
+Instructions pour les champs sous « Personne ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte »
+
+| Champs | Instructions |
+| Nom de famille | Reportez-vous aux [champs d’identification](#s8.1.5)  sous « Instructions normalisées pour les champs ». |
+| Prénom | Mêmes instructions (champs de nom) |
+| Autre nom/Initiale | Mêmes instructions (champs de nom) |
+
+##### Lien entre l’entité bénéficiaire nommée ci-dessus et la personne ou l’entité effectuant l’opération
+
+Instructions pour les champs sous « Lien entre l’entité bénéficiaire nommée ci-dessus et la personne ou l’entité effectuant l’opération »
+
+| Champ | Instructions |
+| Lien | Sélectionnez le lien entre le bénéficiaire et la personne ou l’entité qui effectue l’opération.  Si le bénéficiaire et la personne ou l’entité qui effectue l’opération sont les mêmes, sélectionnez « soi-même  ». |
+| † Si « Autre », veuillez préciser | Instructions non spécifiées |
+
+## Annexe B : Scénarios
+
+Les scénarios suivants montrent comment remplir le formulaire et les renseignements attendus dans les champs d’une déclaration d’opérations importantes en espèces en fonction des instructions du client et de la ou des opérations dans chaque scénario.
+
+### Remarque au sujet de ces scénarios
+
+* Les champs du formulaire de déclaration d’opérations importantes en espèces ne sont pas tous affichés.
+* Seuls les champs pour lesquels des informations ont été fournies sont affichés.
+* Certains champs ont été combinés dans un souci de concision. Par exemple, le nom, l’adresse et le numéro de téléphone de la personne ou de l’entité qui effectue l’opération, ainsi que d’autres champs relatifs à la personne ou à l’entité qui effectue l’opération, ont été combinés en tant qu’informations relatives à la personne ou à l’entité qui effectue l’opération.
+* Certains champs étant obligatoires et d’autres non, il a été supposé que l’entité déclarante disposait de l’information si un champ a été rempli.
+* Pour les **scénarios d’opérations importantes en espèces liés à la règle de 24 heures**, veuillez consulter :
+  + [Annexe B de Déclaration d’opérations à CANAFE : la règle de 24 heures](/guidance-directives/transaction-operation/24hour/1-fra)
+
+### Dans cette annexe
+
+* [Scénario B.1 : Plusieurs opérations](#s9.1)
+* [Scénario B.2 : Plusieurs actions d’achèvement](#s9.2)
+* [Scénario B.3 : Opération de change en monnaie virtuelle](#s9.3)
+* [Scénario B.4a : Virement de fonds à l’étranger – Personne qui effectue l’opération](#s9.4)
+* [Scénario B.4b : Virement de fonds à l’étranger – Entité qui effectue l’opération](#s9.5)
+
+### Scénario B.1 : Plusieurs opérations
+
+#### Scénario
+
+Bruno Lebrun se rend à la Banque XYZ et demande à la banque de déposer :
+
+* 5 000 $ CAD dans le compte d’entreprise de la société Jeux vidéo super amusants
+* 5 000 $ USD dans son compte personnel
+
+Bruno Lebrun a informé la banque qu’il était un client de la société Jeux vidéo super amusants.
+
+La Banque XYZ n’a pas été en mesure d’obtenir l’origine des espèces pour les 5 000 $ CAD et les 5 000 $ USD.
+
+#### Informations attendues dans les champs de la déclaration
+
+Comme la Banque XYZ a pour habitude de traiter ces instructions comme 2 opérations, elle soumet une déclaration d’opérations importantes en espèces avec les informations suivantes.
+
+##### Renseignements généraux – Scénario B.1
+
+Renseignements généraux au sujet de la Banque XYZ
+
+| Champs | Informations fournies par la Banque XYZ |
+| Numéro d’entité déclarante | Le numéro d’entité déclarante attribué à la Banque XYZ lorsqu’elle s’est inscrite au Système de déclaration en ligne de CANAFE |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * la Banque XYZ * son fournisseur de services |
+| Secteur d’activité | Banque |
+| Avec qui CANAFE peut-il communiquer au sujet de la présente déclaration? | Coordonnées de la personne à la Banque XYZ avec qui CANAFE peut communiquer dans l’éventualité où un suivi est nécessaire |
+| Type de regroupement | Personne ou entité qui effectue l’opération |
+| Période de 24 heures pour le regroupement | La période de 24 heures de la Banque XYZ pour le regroupement, comme indiqué par les heures de début et de fin |
+
+##### Renseignements sur l’opération – Scénario B.1
+
+« Renseignements sur l’opération » fournis par la Banque XYZ
+
+| Champs | Informations fournies pour l’opération 1 de 2 | Informations fournies pour l’opération 2 de 2 |
+| Date et heure de l’opération | La date et l’heure auxquelles la Banque XYZ a reçu les espèces | La date et l’heure auxquelles la Banque XYZ a reçu les espèces |
+| Comment l’opération a-t-elle été effectuée | En personne | En personne |
+| Indicateur de seuil | Inférieur au seuil | Inférieur au seuil |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * la Banque XYZ * son fournisseur de services | Le numéro unique de la déclaration qui a été attribué soit par :   * la Banque XYZ * son fournisseur de services |
+| Numéro d’emplacement de l’entité déclarante | Renseignements au sujet du lieu où l’opération a eu lieu | Renseignements au sujet du lieu où l’opération a eu lieu |
+
+##### Action d’amorce – Scénario B.1
+
+Informations sur l’« action d’amorce » fournies par la Banque XYZ
+
+| Champs | Informations fournies pour l’action d’amorce 1 de l’opération 1 | Informations fournies pour l’action d’amorce 1 de l’opération 2 |
+| Montant | 5 000 | 5 000 |
+| Devise | CAD | USD |
+| Des informations sur l’origine (personne / entité) des espèces ont-elles été obtenues? | Non | Non |
+| Est-ce que l’opération est liée à un dépôt dans un compte d’entreprise autre qu’un dépôt de nuit ou d’un dépôt express? | Oui | Non |
+| Renseignements sur la personne qui effectue l’opération | Informations que la Banque XYZ détient sur Bruno Lebrun, incluant :   * nom * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur * documents ou renseignements d’identification | Informations que la Banque XYZ détient sur Bruno Lebrun, incluant :   * nom * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur * documents ou renseignements d’identification |
+| Est-ce que l’opération a été effectuée pour le compte d’une autre personne ou entité? | Non | Non |
+
+##### Action d’achèvement – Scénario B.1
+
+Informations sur l’« action d’achèvement » fournies par la Banque XYZ
+
+| Champs | Informations fournies pour l’action d’achèvement 1 de l’opération 1 | Informations fournies pour l’action d’achèvement 1 de l’opération 2 |
+| Détails de la répartition | Dépôt dans un compte | Dépôt dans un compte |
+| Montant | 5 000 | 5 000 |
+| Devise | CAD | USD |
+| Numéro d’institution financière et numéro de succursale | Pour la Banque XYZ | Pour la Banque XYZ |
+| Numéro de compte et renseignements sur le compte | Pour le compte d’entreprise de la société Jeux vidéo super amusants | Pour le compte personnel de Bruno Lebrun |
+| Titulaire du compte | société Jeux vidéo super amusants | Bruno Lebrun |
+| Est-ce qu’une autre personne ou entité a participé à l’action qui complète l’opération? | Non | Non |
+| Renseignements du bénéficiaire | Information que la Banque XYZ détient sur la société Jeux vidéo super amusants, incluant :   * nom * numéro de client * adresse * numéro de téléphone * adresse électronique * nature des activités principales de l’entité * détails de l’enregistrement/constitution en société * documents ou renseignements d’identification * personne ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte | Informations que la Banque XYZ détient sur Bruno Lebrun, incluant :   * nom * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur * documents ou renseignements d’identification |
+| Lien entre l’entité bénéficiaire nommée ci-dessus et la personne ou l’entité effectuant l’opération | Vendeur / Fournisseur | Soi-même |
+
+#### Infographie résumant le scénario B.1
+
+![Infographie résumant le scénario B.1 : Plusieurs opérations](images/fig2-fra.png)
+
+Infographie résumant le scénario B.1 : Plusieurs opérations
+
+### Scénario B.2 : Plusieurs actions d’achèvement
+
+#### Scenario
+
+Odette Orange apporte 10 500 $ en espèces à la Coopérative de crédit ABC. Odette Orange demande au caissier :
+
+* de déposer 5 500 $ dans son compte afin d’épargner pour des vacances
+* d’échanger les 5 000 $ restants contre des euros
+* d’envoyer le montant en euros à Olive Gingras, en Irlande, pour un cadeau de mariage
+
+La Coopérative de crédit applique ses politiques et procédures en matière de mesures raisonnables et demande à Odette Orange d’où vient l’argent.
+
+Odette Orange répond à la coopérative qu’elle a obtenu l’argent en vendant son bateau à Benjamin Blondin.
+
+Bien qu’Odette Orange soit en mesure de fournir le nom de Benjamin Blondin à la Coopérative de crédit, elle n’est pas en mesure de fournir d’autres informations sur l’origine des espèces (telles que le numéro de compte, le numéro de police ou le numéro d’identification).
+
+Le taux de change pour convertir les dollars canadiens en euros est de 0,680586 et Olive Gingras possède un compte à la Banque Celadon à Dublin, en Irlande.
+
+Afin de compléter les instructions d’Odette Orange, le caissier suit le processus opérationnel de la Coopérative de crédit et effectue les opérations suivantes :
+
+* il dépose la totalité des 10 500 $ en espèces dans le compte d’Odette Orange
+* il retire 5 000 $ pour les échanger contre des euros
+* il envoie le montant en euros à Olive Gingras
+
+#### Informations attendues dans les champs de la déclaration
+
+La Coopérative de crédit ABC soumet une déclaration d’opérations importantes en espèces avec les informations suivantes.
+
+##### Renseignements généraux – Scénario B.2
+
+Renseignements généraux concernant la Coopérative de crédit ABC
+
+| Champs | Informations fournies par la Coopérative de crédit ABC |
+| Numéro d’entité déclarante | Le numéro d’entité déclarante attribué à la Coopérative de crédit ABC lorsqu’elle s’est inscrite au Système de déclaration en ligne de CANAFE |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * la Coopérative de crédit ABC * son fournisseur de services |
+| Secteur d’activité | Coopérative de crédit |
+| Avec qui CANAFE peut-il communiquer au sujet de la présente déclaration? | Coordonnées de la personne à la Coopérative de crédit ABC avec qui CANAFE peut communiquer dans l’éventualité où un suivi est nécessaire |
+| Type de regroupement | Sans objet |
+| Période de 24 heures pour le regroupement | La période de 24 heures de la Coopérative de crédit ABC pour le regroupement, comme indiqué par les heures de début et de fin |
+
+##### Renseignements sur l’opération – Scénario B.2
+
+« Renseignements sur l’opération » fournis par la Coopérative de crédit ABC
+
+| Champs | Informations fournies pour l’opération 1 de 1 |
+| Date et heure de l’opération | La date et l’heure auxquelles la Coopérative de crédit ABC a reçu les espèces |
+| Comment l’opération a-t-elle été effectuée | En personne |
+| Indicateur de seuil | Inférieur au seuil |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * la Coopérative de crédit ABC * son fournisseur de services |
+| Objet de l’opération | Épargner pour des vacances et un cadeau de mariage pour un ami en Irlande |
+| Numéro d’emplacement de l’entité déclarante | Renseignements au sujet du lieu où l’opération a eu lieu |
+
+##### Action d’amorce – Scénario B.2
+
+Informations sur « l’action d’amorce » fournies par la Coopérative de crédit ABC
+
+| Champs | Informations fournies pour l’action d’amorce 1 de l’opération 1 |
+| Montant | 10 500 |
+| Devise | CAD |
+| Comment les espèces ont-elles été obtenues? | Vente de bateau |
+| Des informations sur l’origine (personne / entité) des espèces ont-elles été obtenues? | Oui |
+| Origine des espèces | Benjamin Blondin |
+| Est-ce que l’opération est liée à un dépôt dans un compte d’entreprise autre qu’un dépôt de nuit ou d’un dépôt express? | Non |
+| Renseignements sur la personne qui effectue l’opération | Informations que la Coopérative de crédit ABC détient sur Odette Orange, incluant :   * nom * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur * documents ou renseignements d’identification |
+| Est-ce que l’opération a été effectuée pour le compte d’une autre personne ou entité? | Non |
+
+##### Action d’achèvement – Scénario B.2
+
+Informations sur « l’action d’achèvement » fournies par la Coopérative de crédit ABC
+
+| Champs | Informations fournies pour l’action d’achèvement 1 de l’opération 1 | Informations fournies pour l’action d’achèvement 2 de l’opération 1 | Informations fournies pour l’action d’achèvement 3 de l’opération 1 |
+| Détails de la répartition | Dépôt dans un compte | Opération de change en monnaie fiduciaire | Virement de fonds à l’étranger |
+| Montant | 10 500 | 3 402,93 | 3 402,93 |
+| Devise | CAD | EUR | USD |
+| Taux de change | [champs laissés vide, car il n’est pas applicable] | 0.680586 | [champs laissés vide, car il n’est pas applicable] |
+| Numéro d’institution financière et numéro de succursale | Pour la Coopérative de crédit ABC | [champs laissés vide, car il n’est pas applicable] | [champs laissés vide, car il n’est pas applicable] |
+| Numéro de compte et renseignements sur le compte | Pour le compte personnel d’Odette Orange | [champs laissés vide, car il n’est pas applicable] | Pour le compte d’Olive Gingras à la Banque Celadon à Dublin, Irlande |
+| Titulaire du compte | Odette Orange | [champs laissés vide, car il n’est pas applicable] | Olive Gingras |
+| Est-ce qu’une autre personne ou entité a participé à l’action qui complète l’opération? | Non | Non | Non |
+| Renseignements du bénéficiaire | Informations que la Coopérative de crédit ABC détient sur Odette Orange, incluant :   * nom * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur * documents ou renseignements d’identification | Informations que la Coopérative de crédit ABC détient sur Odette Orange, incluant :   * nom * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur * documents ou renseignements d’identification | Nom d’Olive Gingras.  Aussi, si elles ont été obtenues, les informations sur Olive Gingras, incluant :   * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur * documents ou renseignements d’identification |
+| Lien entre l’entité bénéficiaire nommée ci-dessus et la personne ou l’entité effectuant l’opération | Soi-même | Soi-même | Ami |
+
+#### Infographie résumant le scénario B.2
+
+![Infographie résumant le scénario B.2 : Plusieurs actions d’achèvement](images/fig3-fra.png)
+
+Infographie résumant le scénario B.2 : Plusieurs actions d’achèvement
+
+### Scénario B.3 : Opération de change de monnaie virtuelle
+
+#### Scénario
+
+Sylvie Violette se rend à la Société de change ABC et échange une somme de 20 000 $ en espèces pour la monnaie virtuelle Litecoin.
+
+#### Informations attendues dans les champs de la déclaration
+
+La Société de change ABC soumet une déclaration d’opérations importantes en espèces avec les informations suivantes.
+
+##### Renseignements généraux – Scénario B.3
+
+« Renseignements généraux » concernant la Société de change ABC
+
+| Champs | Informations fournies par la Société de change ABC |
+| Numéro d’entité déclarante | Le numéro d’entité déclarante attribué à la Société de change ABC lorsqu’elle s’est inscrite au Système de déclaration en ligne de CANAFE |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * la Société de change ABC * son fournisseur de services |
+| Secteur d’activité | Entreprise de services monétaires |
+| Avec qui CANAFE peut-il communiquer au sujet de la présente déclaration? | Coordonnées de la personne à la Société de change ABC avec qui CANAFE peut communiquer dans l’éventualité où un suivi est nécessaire |
+| Type de regroupement | Sans objet |
+| Période de 24 heures pour le regroupement | La période de 24 heures de la Société de change ABC pour le regroupement, comme indiqué par les heures de début et de fin |
+
+##### Renseignements sur l’opération – Scénario B.3
+
+« Renseignements sur l’opération » fournis par la Société de change ABC
+
+| Champs | Informations fournies pour l’opération 1 de 1 |
+| Date et heure de l’opération | La date et l’heure auxquelles la Société de change ABC a reçu les espèces |
+| Comment l’opération a-t-elle été effectuée | En personne |
+| Indicateur de seuil | Supérieur au seuil |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * la Société de change ABC * son fournisseur de services |
+| Numéro d’emplacement de l’entité déclarante | Renseignements au sujet du lieu où l’opération a eu lieu |
+
+##### Action d’amorce – Scénario B.3
+
+Informations sur « l’action d’amorce » fournies par la Société de change ABC
+
+| Champs | Informations fournies pour l’action d’amorce 1 de l’opération 1 |
+| Montant | 20 000 |
+| Devise | CAD |
+| Des informations sur l’origine (personne / entité) des espèces ont-elles été obtenues? | Non |
+| Est-ce que l’opération est liée à un dépôt dans un compte d’entreprise autre qu’un dépôt de nuit ou d’un dépôt express? | Non |
+| Renseignements sur la personne qui effectue l’opération | Informations que la Société de change ABC détient sur Sylvie Violette, incluant :   * nom * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur |
+| Est-ce que l’opération a été effectuée pour le compte d’une autre personne ou entité? | Non |
+
+##### Action d’achèvement – Scénario B.3
+
+Informations sur « l’action d’achèvement » fournies par la Société de change ABC
+
+| Champs | Informations fournies pour l’action d’achèvement 1 de l’opération 1 |
+| Détails de la répartition | Opération de change en monnaie virtuelle |
+| Montant | 279.18 |
+| Type de monnaie virtuelle | Litecoin |
+| Taux de change | 0.013959 |
+| Numéro de référence et autres numéros connexes | Numéro de référence attribué par la Société de change ABC ou son fournisseur de services, le cas échéant, et tout autre numéro connexe |
+| Est-ce qu’une autre personne ou entité a participé à l’action qui complète l’opération? | Non |
+| Renseignements du bénéficiaire | Informations que la Société de change ABC détient sur Sylvie Violette, incluant :   * nom * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur * documents ou renseignements d’identification |
+| Lien entre l’entité bénéficiaire nommée ci-dessus et la personne ou l’entité effectuant l’opération | Soi-même |
+
+#### Infographie résumant le scénario B.3
+
+![Infographie résumant le scénario B.3 : Opération de change en monnaie virtuelle](images/fig4-fra.png)
+
+Infographie résumant le scénario B.3 : Opération de change en monnaie virtuelle
+
+### Scénario B.4a : Virement de fonds à l’étranger – Personne qui effectue l’opération
+
+#### Scénario
+
+Thomas Tangerine se rend à Service monétaire unique avec 10 000 euros où il :
+
+* demande à l’entreprise de services monétaires d’envoyer les fonds à Entreprises ABC en Italie pour payer des casseroles et des poêles
+* indique à l’entreprise de services monétaires qu’il envoyait les fonds au nom de son employeur, Société de fournitures de cuisine
+
+#### Informations attendues dans les champs de la déclaration
+
+Service monétaire unique soumet une déclaration d’opérations importantes en espèces avec les informations suivantes.
+
+##### Renseignements généraux – Scénario B.4a
+
+Renseignements généraux concernant Service monétaire unique
+
+| Champs | Informations fournies par Service monétaire unique |
+| Numéro d’entité déclarante | Le numéro d’entité déclarante attribué à Service monétaire unique lorsqu’elle s’est inscrite au Système de déclaration en ligne de CANAFE |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * Service monétaire unique * son fournisseur de services |
+| Secteur d’activité | Entreprise de services monétaires |
+| Avec qui CANAFE peut-il communiquer au sujet de la présente déclaration? | Coordonnées de la personne de Service monétaire unique avec qui CANAFE peut communiquer dans l’éventualité où un suivi est nécessaire |
+| Type de regroupement | Sans objet |
+| Période de 24 heures pour le regroupement | La période de 24 heures de Service monétaire unique pour le regroupement, comme indiqué par les heures de début et de fin |
+
+##### Renseignements sur l’opération – Scénario B.4a
+
+« Renseignements sur l’opération » fournis par Service monétaire unique
+
+| Champs | Information provided for transaction 1 of 1 |
+| Date et heure de l’opération | La date et l’heure auxquelles Service monétaire unique a reçu les espèces |
+| Comment l’opération a-t-elle été effectuée | En personne |
+| Indicateur de seuil | Supérieur au seuil |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * Service monétaire unique * son fournisseur de services |
+| Objet de l’opération | Paiement pour des fournitures de cuisine (poêles et casseroles) |
+| Numéro d’emplacement de l’entité déclarante | Renseignements au sujet du lieu où l’opération a eu lieu |
+
+##### Action d’amorce – Scénario B.4a
+
+Informations sur « l’action d’amorce » fournies par Service monétaire unique
+
+| Champs | Informations fournies pour l’action d’amorce 1 de l’opération 1 |
+| Montant | 10 000 |
+| Devise | EUR |
+| Des informations sur l’origine (personne / entité) des espèces ont-elles été obtenues? | Non |
+| Est-ce que l’opération est liée à un dépôt dans un compte d’entreprise autre qu’un dépôt de nuit ou d’un dépôt express? | Non |
+| Renseignements sur la personne qui effectue l’opération | Informations que Service monétaire unique détient sur Thomas Tangerine, incluant :   * nom * alias * numéro de client * adresse * numéro de téléphone * adresse électronique * date de naissance * pays de résidence * profession * nom de l’employeur * documents ou renseignements d’identification |
+| Est-ce que l’opération a été effectuée pour le compte d’une autre personne ou entité? | Oui |
+| Renseignements au sujet du tiers (personne ou entité pour le compte de qui l’opération a été effectuée) | Informations que Service monétaire unique détient ou a obtenu sur Société de fournitures de cuisine, incluant :   * nom * numéro de client * adresse * numéro de téléphone * adresse électronique * nature des activités principales de l’entité * détails de l’enregistrement/constitution en société * documents ou renseignements d’identification * personne ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte |
+| Lien entre l’entité bénéficiaire nommée ci-dessus et la personne effectuant l’opération | Employeur |
+
+##### Action d’achèvement – Scénario B.4a
+
+Informations sur « l’action d’achèvement » fournies par Société monétaire unique
+
+| Champs | Informations fournies pour l’action d’achèvement 1 de l’opération 1 |
+| Détails de la répartition | Virement de fonds à l’étranger |
+| Montant | 10 000 |
+| Devise | EUR |
+| Numéro de référence et autres numéros connexes | Numéro de référence attribué par Société monétaire unique ou son fournisseur de services, le cas échéant, et tout autre numéro connexe |
+| Numéro de compte et renseignements sur le compte | Compte bancaire des Entreprises ABC en Italie |
+| Titulaire du compte | Entreprises ABC |
+| Est-ce qu’une autre personne ou entité a participé à l’action qui complète l’opération? | Non |
+| Renseignements du bénéficiaire | Nom d’Entreprises ABC  Aussi, si elles ont été obtenues, les informations sur Entreprises ABC, incluant :   * numéro de client * adresse * numéro de téléphone * adresse électronique * nature des activités principales de l’entité * détails de l’enregistrement/constitution en société * documents ou renseignements d’identification * personne ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte |
+| Lien entre l’entité bénéficiaire nommée ci-dessus et la personne effectuant l’opération | Vendeur / Fournisseur |
+
+**Remarque** : Service monétaire unique doit également soumettre une déclaration de télévirement à CANAFE, car il a effectué un télévirement d’un montant supérieur à 10 000 $ CAD.
+
+Renseignements supplémentaires :
+
+* [Déclaration de télévirements à CANAFE](/guidance-directives/transaction-operation/eft-dt/eft-dt-fra)
+
+#### Infographie résumant le scénario B.4a
+
+![Infographie résument le scénario B.4a : Virement de fonds à l’étranger – Personne qui effectue l’opération](images/fig5-fra.png)
+
+Infographie résument le scénario B.4a : Virement de fonds à l’étranger – Personne qui effectue l’opération
+
+### Scénario B.4b : Virement de fonds à l’étranger – Entité qui effectue l’opération
+
+#### Scénario
+
+Sophie Saphire, PDG de Société de fournitures de cuisine, se rend à Service monétaire unique avec 10 000 euros et fait ce qui suit :
+
+* elle demande à Service monétaire unique de transférer l’argent à Entreprises ABC en Italie pour payer des casseroles et des poêles qu’elle avait commandées pour son entreprise
+* elle informe Service monétaire unique qu’elle est la PDG de Société de fournitures de cuisine
+
+Selon les politiques et procédures de Service monétaire unique, une entité sera déclarée comme étant la personne qui effectue l’opération lorsque toutes les conditions suivantes sont remplies :
+
+* le ou la PDG de l’entité effectue une opération
+* le ou la PDG représente la société – en d’autres termes, c’est la société qui effectue l’opération
+
+#### Informations attendues dans les champs de la déclaration
+
+Service monétaire unique soumet une déclaration d’opérations importantes en espèces avec les informations suivantes.
+
+##### Renseignements généraux – Scénario B.4b
+
+Renseignements généraux concernant Service monétaire unique
+
+| Champs | Informations fournies par Service monétaire unique |
+| Numéro d’entité déclarante | Le numéro d’entité déclarante attribué à Service monétaire unique lorsqu’elle s’est inscrite au Système de déclaration en ligne de CANAFE |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * Service monétaire unique * son fournisseur de services |
+| Secteur d’activité | Entreprise de services monétaires |
+| Avec qui CANAFE peut-il communiquer au sujet de la présente déclaration? | Coordonnées de la personne à Service monétaire unique avec qui CANAFE peut communiquer dans l’éventualité où un suivi est nécessaire |
+| Type de regroupement | Sans objet |
+| Période de 24 heures pour le regroupement | La période de 24 heures de Service monétaire unique pour le regroupement, comme indiqué par les heures de début et de fin |
+
+##### Renseignements sur l’opération – Scénario B.4b
+
+« Renseignements sur l’opération » fournis par Société monétaire unique
+
+| Champs | Informations fournies pour l’opération 1 de 1 |
+| Date et heure de l’opération | La date et l’heure auxquelles Société monétaire unique a reçu les espèces |
+| Comment l’opération a-t-elle été effectuée | En personne |
+| Indicateur de seuil | Supérieur au seuil |
+| Numéro de référence de déclaration de l’entité déclarante | Le numéro unique de la déclaration qui a été attribué soit par :   * Service monétaire unique * son fournisseur de services |
+| Objet de l’opération | Paiement pour des fournitures de cuisine (casseroles et des poêles) |
+| Numéro d’emplacement de l’entité déclarante | Renseignements au sujet du lieu où l’opération a eu lieu |
+
+##### Action d’amorce – Scénario B.4b
+
+Informations sur « l’action d’amorce » fournies par Service monétaire unique
+
+| Champs | Informations fournies pour l’action d’amorce 1 de l’opération 1 |
+| Montant | 10 000 |
+| Devise | EUR |
+| Des informations sur l’origine (personne / entité) des espèces ont-elles été obtenues? | Non |
+| Est-ce que l’opération est liée à un dépôt dans un compte d’entreprise autre qu’un dépôt de nuit ou d’un dépôt express? | Non |
+| Renseignements sur la personne qui effectue l’opération | Informations que Service monétaire unique détient sur Société de fournitures de cuisine, incluant :   * nom * numéro de client * adresse * numéro de téléphone * adresse électronique * nature des activités principales de l’entité * détails de l’enregistrement/constitution en société * documents ou renseignements d’identification * personne ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte |
+| Est-ce que l’opération a été effectuée pour le compte d’une autre personne ou entité? | Non |
+
+##### Action d’achèvement – Scénario B.4b
+
+Informations sur « l’action d’achèvement » fournies par Société monétaire unique
+
+| Champs | Informations fournies pour l’action d’achèvement 1 de l’opération 1 |
+| Détails de la répartition | Virement de fonds à l’étranger |
+| Montant | 10 000 |
+| Devise | EUR |
+| Numéro de référence et autres numéros connexes | Numéro de référence attribué par Société monétaire unique ou son fournisseur de services, le cas échéant, et tout autre numéro connexe |
+| Numéro de compte et renseignements sur le compte | Compte bancaire d’Entreprises ABC en Italie |
+| Titulaire du compte | Entreprises ABC |
+| Est-ce qu’une autre personne ou entité a participé à l’action qui complète l’opération? | Non |
+| Renseignements du bénéficiaire | Nom d’Entreprises ABC  Aussi, si elles ont été obtenues, les informations sur Entreprises ABC, incluant :   * numéro de client * adresse * numéro de téléphone * adresse électronique * nature des activités principales de l’entité * détails de l’enregistrement/constitution en société * documents ou renseignements d’identification * personne ayant le pouvoir de lier l’entité ou d’agir à l’égard du compte |
+| Lien entre l’entité bénéficiaire nommée ci-dessus et la personne effectuant l’opération | Vendeur / Fournisseur |
+
+**Remarque** : Service monétaire unique doit également soumettre une déclaration de télévirement à CANAFE, car il a effectué un télévirement d’un montant supérieur à 10 000 $ CAD.
+
+Renseignements supplémentaires :
+
+* [Déclaration de télévirements à CANAFE](/guidance-directives/transaction-operation/eft-dt/eft-dt-fra)
+
+#### Infographie résumant le scénario B.4b
+
+![Infographie résumant le scénario B.4b : Virement de fonds à l’étranger – Entité qui effectue l’opération](images/fig6-fra.png)
+
+Infographie résumant le scénario B.4b : Virement de fonds à l’étranger – Entité qui effectue l’opération
+
+## Pour obtenir de l’aide
+
+Si vous avez des questions concernant cette directive, veuillez contacter CANAFE par courriel à l’adresse suivante [guidelines-lignesdirectrices@fintrac-canafe.gc.ca](mailto:guidelines-lignesdirectrices@fintrac-canafe.gc.ca).
+
+## Définitions
+
+à jour
+:   S'agissant d'un document ou d'une source de renseignements utilisé pour vérifier l'identité, qui est actualisé, et, dans le cas d'un document d'identité avec photo délivré par un gouvernement, qui n'est pas expiré au moment de la vérification de l'identité. (current)
+
+accord de relation commerciale
+:   Entente conclue entre une entreprise de services monétaires (ESM) et une autre organisation en vertu de laquelle l'ESM doit fournir à l'organisation l'un des services d'ESM suivants de façon continue :
+
+    * des transferts de fonds;
+    * des opérations de change;
+    * des émissions ou rachats de mandats-poste, de chèques de voyage ou d’autres titres semblables;
+    * des services de commerce de monnaie virtuelle ;
+    * des services de sociofinancement;
+    * des services de véhicules blindés.
+
+    (service agreement)
+
+acquéreur
+:   Entité qui connecte un guichet automatique privé à un réseau de cartes de paiement, au sens de l’article 3 de la Loi sur les réseaux de cartes de paiement, pour faciliter les transactions. (acquirer)
+
+    Référence:  
+    Loi sur les réseaux de cartes de paiement.
+
+action d’achèvement
+:   S’agissant d’une opération pouvant faire l’objet d’une déclaration, les informations relatives aux instructions fournies par la personne ou l’entité qui demande à l’entité déclarante d’effectuer une opération. Par exemple, une personne se présente à une banque et demande d’acheter une traite bancaire. L’action d’achèvement correspond aux informations détaillées sur la manière dont l’entité déclarante a exécuté les instructions de la personne ou de l’entité qui ont mené à l’achèvement de l’opération. Cela inclut l’utilisation des fonds ou de la monnaie virtuelle initialement apportés à l’entité déclarante (voir « répartition de fonds »). Une opération peut comporter une ou plusieurs actions d’achèvement en fonction des instructions fournies par la personne ou l’entité. (completing action)
+
+action d’amorce
+:   S’agissant d’une opération pouvant faire l’objet d’une déclaration, les informations relatives aux instructions fournies par la personne ou l’entité qui demande à l’entité déclarante d’amorcer une opération. Par exemple, une personne se présente à une banque et demande d’acheter une traite bancaire. L’action d’amorce correspond aux instructions relatives à l’achat, y compris les fonds ou la monnaie virtuelle que le demandeur (la personne ou l’entité) a apportés à l’entité déclarante. Une opération doit avoir au moins une action d’amorce. (starting action)
+
+activité terroriste
+:   S'entend au sens du paragraphe 83.01(1) du [Code criminel](https://laws-lois.justice.gc.ca/fra/lois/C-46/). (terrorist activity)
+
+    Référence:  
+    La Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi), L.C. 2000, ch. 17, par. 2(1).
+
+administrateur hypothécaire
+:   Personne ou entité, autre qu’une entité financière, qui se livre à la gestion administrative de contrats de prêts hypothécaires sur immeubles ou biens réels pour le compte d’un prêteur. (mortgage administrator)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+affactureur
+:   Personne ou entité qui se livre à l’affacturage, que ce soit avec ou sans recours contre le cédant. (factor)
+
+    Référence:  
+    Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (DORS/2002-184), par. 1(2)
+
+agent de conformité
+:   Personne à qui vous confiez la responsabilité de mettre en œuvre votre programme de conformité et à qui ont été délégués les pouvoirs nécessaires. (compliance officer)
+
+agent général de gestion (AGG)
+:   Tout représentant d'assurance-vie qui agit à titre de facilitateur entre d'autres représentants d'assurance-vie et sociétés d'assurance-vie. Les AGG offrent généralement des services qui aident à passer des marchés avec des représentants d'assurance et au versement de commissions, ils facilitent le flux d'information entre l'assureur et le représentant, offrent une formation aux représentants d'assurance et assurent une surveillance de la conformité de ceux-ci. (Managing general agents)
+
+amorcer
+:   S'entend, à l'égard d'un télévirement, du fait de transmettre pour la première fois les instructions pour le transfert des fonds. (initiation)
+
+    Référence:  
+    Le Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement), DORS/2002-184, par. 1(2).
+
+assurance titre
+:   Assurance contre la perte ou le dommage résultant, selon le cas :
+
+    1. de l’existence d’une charge, d’une hypothèque, d’une servitude, d’un privilège ou de toute autre restriction sur un bien immeuble;
+    2. de l’existence d’une charge, d’une hypothèque, d’un privilège, d’un nantissement ou de toute autre restriction sur un bien meuble;
+    3. d’un vice entachant la validité d’un document attestant la création d’une restriction visée aux alinéas a) ou b);
+    4. d’un vice entachant la validité d’un titre de propriété;
+    5. de toute autre situation qui influe sur le titre de propriété ou le droit d’utilisation et de jouissance des biens.
+
+    (title insurance)
+
+    Référence:  
+    [Loi sur les sociétés d’assurances](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/TexteComplet.html).
+
+assureur de titres
+:   Personne ou entité dont l’activité consiste à offrir de l’assurance de la branche titres au sens de l’annexe de la Loi sur les sociétés d’assurances. (title insurer)
+
+    Référence:  
+    Le Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement), DORS/2002-184, par. 1(2).
+
+aussitôt que possible
+:   Une période de temps qui s'insère entre immédiatement et le plus rapidement possible à l'intérieur de laquelle une déclaration d'opérations douteuses (DOD) doit être transmise à CANAFE. Remplir et transmettre la déclaration doit avoir la priorité sur les autres tâches. Dans ce contexte, la déclaration doit être remplie rapidement, en tenant compte des faits et des circonstances de la situation. Bien qu'un certain délai soit permis, il doit y avoir une explication raisonnable. (as soon as practicable)
+
+authentique
+:   Aux fins de la vérification de l'identité, qui est conforme à un document ou à un relevé original, crédible et fiable et qui en comporte les caractéristiques. (authentic)
+
+autorité compétente
+:   Aux fins de la vérification du casier judiciaire présentée avec une demande d'inscription, toute personne ou organisation à qui l'on a délégué légalement l'autorité, la capacité ou le pouvoir de délivrer des attestations de vérification du casier judiciaire ou qui en est investie. (competent authority)
+
+banque fictive
+:   S'entend de l'institution financière étrangère qui, à la fois :
+
+    1. (a) ne tient pas d'établissement commercial :
+       1. (i) d'une part, ayant dans un pays où elle est autorisée à exercer des activités bancaires une adresse fixe à laquelle elle a à son emploi au moins un employé à temps plein et tient des relevés d'opérations se rapportant à ses activités bancaires,
+       2. (ii) d'autre part, faisant l'objet d'inspections par l'organisme de réglementation qui a accordé le permis d'exercer des activités bancaires;
+    2. (b) n'est pas sous le contrôle d'une institution de dépôts, d'une caisse de crédit ou d'une institution financière étrangère ayant un tel établissement commercial au Canada ou dans un pays étranger ou sous contrôle commun avec une telle entité.
+
+    (shell bank)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(1).
+
+bénéficiaire
+:   Personne ou entité qui tirera avantage de l'opération ou qui sera le destinataire des fonds. (beneficiary)
+
+bénéficiaire effectif
+:   Personne qui est un fiduciaire ou un bénéficiaire ou constituant connu d’une fiducie, un fiduciaire ou une personne qui détient ou contrôle, directement ou indirectement, au moins 25 % des unités d’une fiducie à participation multiple ou cotée en bourse, ou qui détient ou contrôle, directement ou indirectement, au moins 25 % d’une personne morale ou d’une entité autre qu’une personne morale, par exemple une société de personnes. Le bénéficiaire effectif ultime ne peut pas être une autre entité, y compris une personne morale. Il doit s’agir des véritables personnes qui détiennent ou contrôlent l’entité. (beneficial owner)
+
+bijou
+:   Objet fait d'or, d'argent, de palladium, de platine, de perles ou de pierres précieuses et destiné à être porté comme parure personnelle. (jewellery)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+cabinet d'expertise comptable
+:   Entité qui exploite une entreprise qui fournit des services d'expertise comptable au public et qui compte au moins un comptable parmi ses associés, ses employés ou ses gestionnaires. (accounting firm)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+cadre dirigeant
+:   S'entend, à l'égard d'une entité :
+
+    1. (a) de l'administrateur de cette entité qui en est l'employé à temps plein;
+    2. (b) du premier dirigeant, du directeur de l'exploitation, du président, du secrétaire, du trésorier, du contrôleur, du directeur financier, du comptable en chef, du vérificateur en chef ou de l'actuaire en chef, ou de la personne exerçant l'une ou l'autre de ces fonctions;
+    3. (c) soit un autre dirigeant relevant directement du conseil d'administration, du premier dirigeant ou du directeur de l'exploitation de l'entité.
+
+    (senior officer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+casino
+:   Gouvernement, organisme, conseil ou exploitant visé à l'un ou l'autre des alinéas 5k) à k.3) de la Loi. (Casino)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par 1(2) et le Règlement sur la déclaration des opérations douteuses — recyclage des produits de la criminalité et financement des activités terroristes (le Règlement sur la DOD), DORS/2001-317, par. 1(2).
+
+centrale de caisses de crédit
+:   Coopérative de crédit centrale, au sens de l'article 2 de la [Loi sur les associations coopératives de crédit](https://laws-lois.justice.gc.ca/fra/lois/C-41.01/), ou centrale de caisses de crédit ou fédération de caisses de crédit ou de caisses populaires régie par une loi provinciale autre qu'une loi édictée par la législature du Québec. (credit union central)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+client
+:   Toute personne ou entité qui se livre à une opération financière avec une autre personne ou entité. (client)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+comptable
+:   Comptable agréé, comptable général licencié, comptable en management accrédité ou, le cas échéant, comptable professionnel agréé. (accountant)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+compte de produit de paiement prépayé
+:   S'entend du compte — à l'exception de celui auquel seul un organisme public ou, s'il le fait à des fins d'aide humanitaire, un organisme de bienfaisance enregistré, au sens du paragraphe 248(1) de la Loi de l'impôt sur le revenu, peut verser des fonds ou de la monnaie virtuelle —, lié à un produit de paiement prépayé, qui permet :
+
+    1. (a) de verser au compte des fonds ou de la monnaie virtuelle totalisant 1 000 $ ou plus au cours d'une période de vingt-quatre heures;
+    2. (b) de maintenir un solde de 1 000 $ ou plus en fonds ou en monnaie virtuelle.
+
+    (prepaid payment product account)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+constituant
+:   Personne ou entité qui établit une fiducie constatée par un écrit de déclaration de fiducie. Le constituant s'assure de confier à un fiduciaire la responsabilité juridique de la fiducie et voit à ce que ce dernier obtienne un acte de fiducie qui explique la façon dont la fiducie sera utilisée au profit des bénéficiaires. Un constituant s'entend de toute personne ou entité qui contribue financièrement à la fiducie, que ce soit directement ou indirectement. (settlor)
+
+contexte
+:   Texte comportant des précisions sur un ensemble de circonstances ou des explications sur une situation ou une opération financière à des fins de compréhension et d'évaluation. (context)
+
+coopérative de services financiers
+:   Coopérative de services financiers régie par la Loi sur les coopératives de services financiers, RLRQ, ch. C-67.3 autre qu’une caisse populaire. (financial services cooperative)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+courtier en valeurs mobilières
+:   Personne ou entité visée à l'alinéa 5g) de la Loi. (securities dealer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+courtier hypothécaire
+:   Personne ou entité autorisée, au titre de la législation provinciale, à agir en qualité d’intermédiaire entre un prêteur et un emprunteur à l’égard de prêts garantis par hypothèques sur immeubles ou biens réels. (mortgage broker)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+courtier ou agent immobilier
+:   Personne ou entité autorisée, au titre de la législation provinciale, à agir en qualité de mandataire pour des acheteurs ou des vendeurs à l'égard de l'achat ou de la vente d'immeubles ou biens réels. (real estate broker or sales representative)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+demande de précisions
+:   Méthode utilisée par CANAFE pour communiquer avec une entreprise de services monétaires (ESM) ou une entreprise de services monétaires étrangère (ESME) lorsqu'il a besoin d'autres renseignements relatifs au formulaire d'inscription. En règle générale, la demande est envoyée par courriel. (clarification request)
+
+destinataire
+:   S'agissant d'un télévirement, la personne ou entité qui reçoit les instructions et qui effectuera la remise au bénéficiaire. (final receipt)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+devise
+:   Monnaie fiduciaire émise par un pays étranger. (foreign currency)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+dirigeant d'une organisation internationale
+:   Personne qui, à un moment donné, occupe — ou a occupé au cours d'une période antérieure prévue par règlement — le poste ou la charge de dirigeant:
+
+    1. a) d'une organisation internationale créée par les gouvernements de divers États;
+    2. b) d'une institution d'une organisation visée à l'alinéa a);
+    3. c) d'une organisation sportive internationale.
+
+    (head of an international organization)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 9.3(3).
+
+diriger des services
+:   Une entreprise dirige des services vers des personnes ou des entités au Canada si au moins une des conditions suivantes s'applique :
+
+    * le marketing ou la publicité de l'entreprise cible des personnes ou à des entités situées au Canada;
+    * l'entreprise exploite un nom de domaine « .ca »;
+    * l'entreprise est inscrite dans un registre des entreprises canadiennes.
+
+    D'autres critères peuvent être pris en compte, par exemple si l'entreprise décrit ses services offerts au Canada ou si elle cherche activement à obtenir de la rétroaction de personnes ou d'entités au Canada. (directing services )
+
+dossier de renseignements
+:   Dossier où sont consignés les nom et adresse d'une personne ou entité ainsi que les renseignements suivants :
+
+    1. (a) s'il s'agit d'une personne, sa date de naissance et la nature de son entreprise principale ou sa profession;
+    2. (b) s'il s'agit d'une entité, la nature de son entreprise principale.
+
+    (information record)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+entité
+:   Personne morale, fiducie, société de personnes ou fonds, ou organisation ou association non dotée de la personnalité morale. (entity)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+entité de financement ou de bail
+:   Personne ou entité qui se livre à l’octroi de financement ou de baux à l’égard :
+
+    1. (a) de biens qui ne sont pas des immeubles ou des biens réels, à des fins commerciales;
+    2. (b) de véhicules de tourisme au Canada;
+    3. (c) de biens qui ne sont pas des immeubles ou des biens réels, dont la valeur est égale ou supérieure à 100 000 $.
+
+    (financial or leasing entity)
+
+    Référence:  
+    Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (DORS/2002-184), par. 1(2)
+
+entité du même groupe
+:   Sont du même groupe les entités dont l'une est entièrement propriétaire de l'autre, celles qui sont entièrement la propriété de la même entité ou celles dont les états financiers sont consolidés. (affiliate)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 4.
+
+entité financière
+:   S'entends :
+
+    1. (a) de l'entité visée à l'un ou l'autre des alinéas 5a), b) et d) à f) de la Loi;
+    2. (b) de la coopérative de services financiers;
+    3. (c) de la société d'assurance-vie, ou de l'entité qui est un représentant d'assurance-vie, à l'égard des prêts ou des produits de paiement prépayés qu'elle offre au public et des comptes qu'elle tient à l'égard de ces prêts ou de ces produits de paiement prépayés, à l'exclusion :
+       1. (i) des prêts consentis par l'assureur au titulaire d'une police, si la personne assurée a une maladie en phase terminale qui réduit considérablement son espérance de vie et que le prêt est garanti par la valeur d'une police d'assurance,
+       2. (ii) des prêts consentis par l'assureur au titulaire d'une police dans le seul but de financer la police d'assurance-vie,
+       3. (iii) des avances consenties par l'assureur au titulaire d'une police auxquelles ce dernier a droit;
+    4. (d) de la centrale de caisses de crédit, lorsqu'elle offre des services financiers à une entité qui n'est pas l'un de ses membres, ou à une personne;
+    5. (e) du ministère ou de l'entité qui est un mandataire de Sa Majesté du chef du Canada ou d'une province, lorsqu'il exerce une activité visée à l'article 76.
+
+    (financial entity)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+entreprise d'acquisition de cartes de crédit
+:   Entité financière qui a conclu une entente avec un marchand afin de fournir les services suivants :
+
+    * permettre au marchand d'accepter les paiements par carte de crédit des titulaires pour des biens et services, et de recevoir les paiements pour les achats par carte de crédit;
+    * assurer les services de traitement et de règlement des paiements et fournir l'équipement nécessaire aux points de vente (par exemple les terminaux d'ordinateur);
+    * fournir au marchand d'autres services connexes.
+
+    (credit card acquiring business)
+
+entreprise d’encaissement de chèques
+:   Personne ou entité qui offre à ses clients d’encaisser des chèques en échange de fonds.
+    (cheque casher)
+
+entreprise de services monétaires
+:   Les personnes et entités qui ont un établissement au Canada et qui se livrent à la fourniture de l'un des services suivants :
+
+    1. (i) les opérations de change,
+    2. (ii) la remise de fonds ou la transmission de fonds par tout moyen ou par l'intermédiaire d'une personne, d'une entité ou d'un réseau de télévirement,
+    3. (iii) l'émission ou le rachat de mandats-poste, de chèques de voyage ou d'autres titres négociables semblables, à l'exclusion des chèques libellés au nom d'une personne ou d'une entité,
+    4. (iv) le commerce de monnaie virtuelle,
+    5. (v) tout service prévu par règlement.
+
+    (money services business)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 5(h), le Règlement sur l'inscription — recyclage des produits de la criminalité et financement des activités terroristes (le Règlement sur l'inscription), DORS/2007-121, art. 1 et Le Règlement, DORS/2002-184, par. 1(2).
+
+entreprise de services monétaires étrangère
+:   Les personnes et entités qui n'ont pas d'établissement au Canada et qui se livrent à la fourniture, à l'intention de personnes ou entités se trouvant au Canada, de l'un des services ci-après et qui les fournissent à leurs clients se trouvant au Canada :
+
+    1. (i) les opérations de change,
+    2. (ii) la remise de fonds ou la transmission de fonds par tout moyen ou par l'intermédiaire d'une personne, d'une entité ou d'un réseau de télévirement,
+    3. (iii) l'émission ou le rachat de mandats-poste, de chèques de voyage ou d'autres titres négociables semblables, à l'exclusion des chèques libellés au nom d'une personne ou d'une entité,
+    4. (iv) le commerce de monnaie virtuelle,
+    5. (v) tout service prévu par règlement.
+
+    (foreign money services business)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 5(h.1), le Règlement sur l'inscription, DORS/2007-121 art. 1 et Le Règlement, DORS/2002-184, par. 1(2).
+
+espèces
+:   Les pièces de monnaie visées à l'article 7 de la Loi sur la monnaie, les billets émis par la Banque du Canada en vertu de la Loi sur la Banque du Canada qui sont destinés à la circulation au Canada ou les pièces ou billets de banque de pays autres que le Canada. (cash)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2) et le Règlement sur l'inscription, DORS/2007-121, par. 1(2).
+
+État étranger
+:   Sauf pour l'application de la partie 2 de la Loi, pays autre que le Canada; est assimilé à un État étranger toute subdivision politique ou tout territoire de celui-ci. (foreign state)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+étranger politiquement vulnérable
+:   Personne qui occupe ou a occupé l'une des charges ci-après au sein d'un État étranger ou pour son compte :
+
+    1. (a) chef d'État ou chef de gouvernement;
+    2. (b) membre du conseil exécutif de gouvernement ou membre d'une assemblée législative;
+    3. (c) sous-ministre ou titulaire d'une charge de rang équivalent;
+    4. (d) ambassadeur, ou attaché ou conseiller d'un ambassadeur;
+    5. (e) officier ayant le rang de général ou un rang supérieur;
+    6. (f) dirigeant d'une société d'État ou d'une banque d'État;
+    7. (g) chef d'un organisme gouvernemental;
+    8. (h) juge de la cour suprême, de la cour constitutionnelle ou d'une autre cour de dernier ressort;
+    9. (i) chef ou président d'un parti politique représenté au sein d'une assemblée législative;
+    10. (j) titulaire d'un poste ou d'une charge visés par règlement.
+
+    (politically exposed foreign person)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 9.3(3).
+
+évaluation des risques
+:   L'examen des risques potentiels de blanchiment d'argent et de financement du terrorisme (BA/FT) auxquels est exposé une entreprise et leur documentation afin d'aider l'entreprise à établir des politiques, des procédures et des contrôles pour détecter et atténuer ces risques et leur incidence. (risk assessment)
+
+examen bisannuel de l'efficacité
+:   Examen effectué au moins tous les deux ans par un vérificateur interne ou externe visant à évaluer l'efficacité de vos politiques et procédures, de votre évaluation des risques et de votre programme de formation. (two year effectiveness review)
+
+faits
+:   Événement, action, circonstance connue ou élément qui existe ou qui a existé, ou qui est survenu à un moment donné. La présente définition exclut les opinions. Par exemple, les faits concernant une ou plusieurs opérations financières peuvent comprendre la date, l'heure, l'emplacement, ou le montant de l'opération, le type d'opération, les détails d'un compte, ainsi que le secteur d'activité ou l'historique des données financières du client. (facts)
+
+fiable
+:   S'agissant de renseignements utilisés pour vérifier l'identité, s'entend d'une source bien connue, de bonne réputation et que vous considérez digne de confiance pour vérifier l'identité d'un client. (reliable)
+
+fiche d'opération de change en devise
+:   Document constatant une opération de change à l'égard d'une devise, y compris son inscription dans un registre des opérations, et où sont consignés les renseignements suivants :
+
+    1. (a) la date de l'opération;
+    2. (b) dans le cas d'une opération de 3 000 $ ou plus, les nom et adresse de la personne ou entité qui demande l'opération de change, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    3. (c) les type et montant de chaque monnaie fiduciaire en cause dans le paiement fait et reçu par la personne ou entité qui a demandé l'opération de change;
+    4. (d) la manière dont le paiement est effectué et reçu;
+    5. (e) les taux de change utilisés et leur source;
+    6. (f) le numéro de chaque compte touché par l'opération, le type de compte et le nom de chaque titulaire du compte;
+    7. (g) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte.
+
+    (foreign currency exchange transaction ticket)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+fiche d'opération de change en monnaie virtuelle
+:   Document constatant une opération de change à l'égard d'une monnaie virtuelle, y compris son inscription dans un registre des opérations, et où sont consignés les renseignements suivants :
+
+    1. (a) la date de l'opération;
+    2. (b) dans le cas d'une opération de 1 000 $ ou plus, les nom et adresse de la personne ou entité qui demande l'opération de change, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    3. (c) les types de fonds et de monnaies virtuelles en cause dans le paiement fait et reçu par la personne ou entité qui a demandé l'opération de change;
+    4. (d) la manière dont le paiement est effectué et reçu;
+    5. (e) les taux de change utilisés et leur source;
+    6. (f) le numéro de chaque compte touché par l'opération, le type de compte et le nom de chaque titulaire du compte;
+    7. (g) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte;
+    8. (h) les identifiants de l'opération, y compris l'adresse d'envoi et l'adresse de réception.
+
+    (virtual currency exchange transaction ticket)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+fiche-signature
+:   S'entend, à l'égard d'un compte, du document signé par une personne habilitée à donner des instructions à l'égard du compte ou des données électroniques constituant la signature d'une telle personne. (signature card)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+fiduciaire
+:   Personne ou entité autorisée à détenir ou à administrer les biens d'une fiducie. (trustee)
+
+fiducie entre vifs
+:   Fiducie personnelle, autre qu'une fiducie constituée par testament. (inter vivos trust)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+fiducie institutionnelle
+:   Aux fins de l'article 15 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement), s'entend de la fiducie constituée par une personne morale ou une autre entité à des fins commerciales données, y compris le régime de retraite constitué en fiducie, la fiducie principale regroupant l'actif de plusieurs régimes de retraite, la fiducie de régime de retraite complémentaire, la fiducie de fonds commun de placement, la fiducie de fonds mis en commun, le régime enregistré d'épargne-retraite constitué en fiducie, la fiducie de fonds enregistré de revenu de retraite, la fiducie de régime enregistré d'épargne-études, le régime enregistré d'épargne-retraite collectif constitué en fiducie, la fiducie de régime de participation différée aux bénéfices, la fiducie de régime de participation des employés aux bénéfices, la fiducie de convention de retraite, la fiducie de régime d'épargne des employés, la fiducie de santé et de bien-être, la fiducie de régime de prestations de chômage, la fiducie d'actif de compagnies d'assurance étrangères, la fiducie d'actif de compagnies de réassurance étrangères, la fiducie de réassurances, la fiducie de placements immobiliers, la fiducie environnementale ainsi que la fiducie relative à des fonds de dotation, de fondations et d'organismes de bienfaisance enregistrés. (institutional trust)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 15(2).
+
+fiducie
+:   Droit de propriété détenu par une personne ou une entité (le fiduciaire) pour le compte d'une autre personne ou entité (le bénéficiaire). (trust)
+
+fonds
+:   S'entend :
+
+    1. (a) d'espèces et d'autres monnaies fiduciaires et de valeurs mobilières, de titres négociables ou d'autres instruments financiers, qui font foi du titre, d'un intérêt ou d'un droit à l'égard de ceux-ci;
+    2. (b) de la clé privé d'un système de chiffrement permettant à une personne ou entité d'avoir accès à une monnaie fiduciaire autre que des espèces.
+
+    Il est entendu que la présente définition exclut la monnaie virtuelle. (funds)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2) et le Règlement sur l'inscription, DORS/2007-121, s. 1(2).
+
+fonds enregistré de revenu de retraite
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (registered retirement income fund)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+Groupe d'action financière
+:   S'entend du Groupe d'action financière sur le blanchiment de capitaux créé en 1989. (Financial Action Task Force)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+groupe terroriste
+:   Au sens du paragraphe [83.01(1)](https://lois-laws.justice.gc.ca/fra/lois/C-46/page-8.html#docCont) du Code criminel, un **groupe terroriste** est défini comme étant :
+
+    * soit une entité dont l’un des objets ou l’une des activités est de se livrer à des activités terroristes ou de les faciliter;
+    * soit une **entité inscrite**;
+    * est assimilé à un groupe terroriste un groupe ou une association formé de groupes terroristes au sens de la présente définition.
+
+    Consultez la liste suivante des entités terroristes inscrites dans le Code criminel sur le site Web de Sécurité publique Canada :
+
+    * [Entités inscrites actuellement](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-fr.aspx)
+
+    (terrorist group)
+
+guichet automatique privé
+:   Guichet automatique qui n’est ni détenu ni exploité par une banque, au sens de l’article 2 de la Loi sur les banques, une association régie par la Loi sur les associations coopératives de crédit ou une coopérative de crédit, une caisse d’épargne et de crédit ou une caisse populaire régie par une loi provinciale. (private automated banking machine)
+
+immédiatement
+:   Aux fins de la soumission d’une déclaration de biens appartenant à une personne ou entité inscrite, s’entend de la période à l’intérieur de laquelle une déclaration doit être transmise, laquelle doit se faire sans tarder.(immediately)
+
+indicateurs de blanchiment d'argent et de financement des activités terroristes (indicateurs de BA/FAT)
+:   Signes d'alerte éventuels qui peuvent susciter des soupçons ou indiquer que quelque chose ne tourne pas rond, sans explication raisonnable. (Money laundering and terrorist financing indicators [ML/TF indicators])
+
+infraction de contournement des sanctions
+:   Une infraction qui découle d’un geste qui contrevient à une restriction ou à une interdiction établie par un décret ou un règlement pris en vertu de la Loi sur les Nations Unies, de la Loi sur les mesures économiques spéciales ou de la Loi sur la justice pour les victimes de dirigeants étrangers corrompus (loi de Sergueï Magnitski). (sanctions evasion offence)
+
+infraction de financement des activités terroristes
+:   Toute infraction visée aux articles 83.02 à 83.04 du [Code criminel](https://laws-lois.justice.gc.ca/fra/lois/C-46/) ou une infraction visée à l'article 83.12 de cette loi découlant d'une contravention à l'article 83.08 de la même loi.
+
+    S'entend de la collecte ou du don de biens (par exemple de l'argent) tout en sachant qu'ils sont destinés à la perpétration d'activités terroristes. Cela comprend l'utilisation et la possession d'un bien quelconque pour faciliter la réalisation d'activités terroristes. Les fonds obtenus pour financer le terrorisme peuvent provenir de sources légitimes, par exemple de dons personnels, de profits d'une entreprise ou de dons reçus par un organisme de bienfaisance. En revanche, l'argent peut aussi provenir de sources criminelles, par exemple le trafic de drogues, la contrebande d'armes et d'autres marchandises, la fraude, les enlèvements et l'extorsion. (terrorist activity financing offence)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+infraction de recyclage des produits de la criminalité
+:   L'infraction visée au paragraphe 462.31(1) du [Code criminel](https://laws-lois.justice.gc.ca/fra/lois/C-46/). Selon la définition des Nations Unies, le blanchiment d'argent correspond à tout acte ou toute tentative de perpétrer un acte dans le but de dissimuler l'origine de l'argent ou des biens dérivés d'une activité criminelle. Le blanchiment d'argent désigne essentiellement le processus par lequel de l'« argent sale » résultant d'une activité criminelle est transformé en « argent propre » dont l'origine criminelle est difficile à retracer. (money laundering offence)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+jour ouvrable
+:   Aux fins d'une déclaration de télévirement ou d'une déclaration d'opération importante en espèces, s'entend d'une journée de la semaine comprise entre le lundi et le vendredi, inclusivement. La présente définition exclut les samedis, les dimanches et les jours fériés. (working days)
+
+la Loi
+:   La Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes. (Act)
+
+    Référence:  
+    Le Règlement sur les pénalités administratives — recyclage des produits de la criminalité et financement des activités terroristes (le Règlement sur les PAP), DORS/2007-292, art. 1, le Règlement sur l'inscription, DORS/2007-121, art. 1, Le Règlement, DORS/2002-184, par. 1(2), et le Règlement sur la DOD, DORS/2001-317, par. 1(2).
+
+mandataire
+:   Personne qui agit, en vertu d'un mandat ou d'un accord, pour une autre personne ou entité. (mandatary)
+
+mandataire d'une entreprise de services monétaires
+:   Personne ou entité autorisée à fournir des services pour le compte d'une entreprise de services monétaires (ESM). La présente définition exclut les succursales d'ESM. (money services business agent)
+
+marketing ou publicité
+:   La personne ou l'entité utilise du matériel promotionnel comme des annonces, des images graphiques pour des sites Web ou des panneaux d'affichage, etc., dans le but de promouvoir des services d'entreprises de services monétaires (ESM) et de faire affaire avec des personnes ou des entités au Canada. (marketing or advertising)
+
+membre de la famille
+:   Pour l'application du paragraphe 9.3(1) de la Loi, est un membre de la famille de l'étranger politiquement vulnérable, du national politiquement vulnérable ou du dirigeant d'une organisation internationale :
+
+    1. (a) son époux ou conjoint de fait;
+    2. (b) son enfant;
+    3. (c) sa mère ou son père;
+    4. (d) la mère ou le père de son époux ou conjoint de fait;
+    5. (e) l'enfant de sa mère ou de son père.
+
+    (family member)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 2(1).
+
+menaces envers la sécurité du Canada
+:   S'entend au sens de l'article 2 de la [Loi sur le Service canadien du renseignement de sécurité](https://laws-lois.justice.gc.ca/fra/lois/C-23/). (threats to the security of Canada)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+mesures raisonnables
+:   Mesures que vous devez prendre pour recueillir certains renseignements, même si elles ne permettront pas nécessairement d’obtenir les renseignements voulus. Par exemple, vous pourriez effectuer au moins une des activités suivantes :
+
+    * demander au client;
+    * effectuer une recherche dans des sources ouvertes;
+    * récupérer de l’information déjà disponible, y compris celle conservée dans des formats non numériques; ou
+    * consulter les renseignements des bases de données commerciales.
+
+    (reasonable measures)
+
+métal précieux
+:   Or, argent, palladium ou platine sous forme de pièces de monnaies, barres, lingots ou granules ou sous toute autre forme semblable. (precious metal)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+ministre
+:   Le ministre de la Sécurité publique et de la Protection civile pour l'application des articles 24.1 à 39, et le ministre des Finances pour l'application des autres dispositions de la présente loi. (Minister)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+monnaie fiduciaire
+:   Monnaie qui est émise par un pays et qui y a cours légal. (fiat currency)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2) et le Règlement sur la DOD, DORS/2001-317, par. 1(2).
+
+monnaie virtuelle
+:   S'entend :
+
+    1. (a) de la représentation numérique de valeur pouvant être utilisée comme mode de paiement ou à titre de placement, qui n'est pas une monnaie fiduciaire et qui peut être facilement échangée contre des fonds ou contre une autre monnaie virtuelle qui peut être facilement échangée contre des fonds;
+    2. (b) de la clé privée d'un système de chiffrement permettant à une personne ou entité d'avoir accès à une telle représentation numérique de valeur.
+
+    (virtual currency)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2) et le Règlement sur la DOD, DORS/2001-317, par. 1(2).
+
+national politiquement vulnérable
+:   Personne qui, à un moment donné, occupe — ou a occupé au cours d'une période qui est antérieure prévue par règlement — l'une des charges prévues aux alinéas a) et c) à j) au sein de l'administration fédérale ou provinciale ou pour le compte d'elles ou l'une des charges prévues aux alinéas b) et k) :
+
+    1. (a) gouverneur général, lieutenant gouverneur ou chef de gouvernement;
+    2. (b) membre du Sénat ou de la Chambre des communes ou membre d'une assemblée législative d’une province;
+    3. (c) sous-ministre ou titulaire d'une charge de rang équivalent;
+    4. (d) ambassadeur, ou attaché ou conseiller d'un ambassadeur;
+    5. (e) officier ayant le rang de général ou un rang supérieur;
+    6. (f) dirigeant d'une société appartenant directement à cent pour cent à Sa Majesté du chef du Canada ou d'une province;
+    7. (g) chef d'un organisme gouvernemental;
+    8. (h) juge d'une cour d'appel provinciale, de la Cour d'appel fédérale ou de la Cour suprême du Canada;
+    9. (i) chef ou président d'un parti politique représenté au sein de l'assemblée législative;
+    10. (j) titulaire d'un poste ou d'une charge visés par règlement;
+    11. (k) maire, préfet ou tout autre responsable des autorités municipales ou locales.
+
+    (politically exposed domestic person)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 9.3(3).
+
+nature de l'entreprise principale
+:   Type d'entité ou domaine d'activité d'une entité. S'applique également à un particulier dans le cas d'une entreprise à propriétaire unique. (nature of principal business)
+
+négociant en métaux précieux et pierres précieuses
+:   Personne ou entité qui, dans le cadre de ses activités commerciales, se livre à l'achat ou à la vente de métaux précieux, de pierres précieuses ou de bijoux, y compris tout ministère ou tout mandataire de Sa Majesté du chef du Canada ou d'une province lorsque l'activité de vente de métaux précieux visée au paragraphe 65(1) qu'il exerce s'adresse au public. (dealer in precious metals and stones)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+notaire public de la Colombie-Britannique
+:   Une personne qui est un membre de la société de notaires de la Colombie-Britannique. (British Columbia notary public)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+nouveaux développements
+:   Changements apportés à la structure ou aux opérations d'une entreprise lorsque de nouveaux services, emplacements ou de nouvelles activités sont mis en place. Par exemple, les changements de modèle d'entreprise ou la restructuration d'une entreprise. (new developments)
+
+nouvelles technologies
+:   L'adoption d'une technologie qui est nouvelle pour une entreprise. Par exemple, lorsqu'une entreprise adopte de nouveaux systèmes ou logiciels tels que des systèmes de surveillance des opérations ou des outils pour l'intégration et la vérification de l'identité des clients. (new technologies)
+
+opération de change en devise
+:   Échange, à la demande d'une autre personne ou entité, d'une monnaie fiduciaire contre une autre. (foreign currency exchange transaction)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+opération de change en monnaie virtuelle
+:   Échange, à la demande d'une autre personne ou entité, d'une monnaie virtuelle contre des fonds, de fonds contre une monnaie virtuelle ou d'une monnaie virtuelle contre une autre. (virtual currency exchange transaction)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+opération effectuée
+:   Opération réalisée par une personne ou une entité, qui est effectuée et donne lieu à un mouvement de fonds, de monnaie virtuelle ou à l'achat ou à la vente d'un bien. (completed transaction)
+
+opération tentée
+:   Opération amorcée par une personne ou une entité, mais qui n'est pas effectuée. Par exemple, un client ou un client potentiel décide de ne pas effectuer un dépôt en espèces de 10 000 $ parce qu'il ne veut pas fournir ses pièces d'identité. (attempted transaction)
+
+ordonnance de communication
+:   Ordonnance judiciaire qui oblige une personne ou une entité à transmettre des documents à des agents de la paix ou à des fonctionnaires publics. (production order)
+
+organisme de bienfaisance enregistré
+:   L’organisme suivant, qui a présenté au ministre une demande d’enregistrement sur formulaire prescrit et qui est enregistré, au moment considéré, comme oeuvre de bienfaisance, comme fondation privée ou comme fondation publique :
+
+    1. a) œuvre de bienfaisance, fondation privée ou fondation publique, au sens du paragraphe 149.1(1), qui réside au Canada et qui y a été constituée ou y est établie;
+    2. (b) division — annexe, section, paroisse, congrégation ou autre — d’une œuvre de bienfaisance, fondation privée ou fondation publique, au sens du paragraphe 149.1(1), qui réside au Canada, qui y a été constituée ou y est établie et qui reçoit des dons en son nom propre.
+
+    (registered charity)
+
+    Référence:  
+    Loi de l’impôt sur le revenu (L.R.C. (1985), ch. 1 (5e suppl.))
+
+organisme public
+:   S'entend de
+
+    1. (a) d'un ministère ou d'un mandataire de Sa Majesté du chef du Canada ou d'une province;
+    2. (b) d'une administration métropolitaine, d'une ville, d'un village, d'un canton, d'un district, d'un comté ou d'une municipalité rurale constitué en personne morale ou d'un autre organisme municipal au Canada ainsi constitué, ou d'un mandataire de ceux-ci au Canada;
+    3. (c) d'une institution qui exploite un hôpital public et qui est désignée comme administration hospitalière par le ministre du Revenu national aux termes de la [Loi sur la taxe d'accise](https://laws-lois.justice.gc.ca/fra/lois/E-15/index.html), ou de tout mandataire de celle-ci.
+
+    (public body)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+origine des fonds ou de la monnaie virtuelle (MV)
+:   La provenance des fonds ou de la MV en cause ayant servi à effectuer une opération ou une tentative d'opération particulière. Il s'agit de la manière dont les fonds ont été acquis, et non pas d'où les fonds ont été transférés. Par exemple, l'origine des fonds pourrait être des activités ou des événements comme le revenu d'emploi, les cadeaux, la vente d'un bien important, des activités criminelles, etc. (source of funds or of virtual currency (VC))
+
+origine de la richesse
+:   La provenance de l'ensemble des avoirs d'une personne qui peut être raisonnablement expliquée, plutôt que ce à quoi l'on pourrait s'attendre. Par exemple, l'origine de la richesse d'une personne peut être une accumulation d'activités et d'événements tels que des entreprises commerciales, des biens patrimoniaux, des revenus d'emploi antérieurs et actuels, des investissements, des biens immobiliers, des héritages, des gains de loterie, etc. (source of wealth)
+
+pays de résidence
+:   Le pays où une personne a habité pendant une période consécutive de 12 mois ou plus. La personne doit avoir une demeure dans le pays concerné. Il est entendu qu'une personne a seulement un pays de résidence, peu importe le nombre de demeures qu'elle a dans le pays concerné ou dans un autre pays. (country of residence)
+
+pénalité administrative pécuniaire (PAP)
+:   Sanction civile pouvant être imposée par CANAFE à une entité déclarante qui ne respecte pas ses obligations en vertu de la Loi et des règlements connexes. (administrative monetary penalities [AMPs])
+
+personne autorisée
+:   Une personne autorisée en vertu du paragraphe 45(2). (authorized person)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+personne habilitée à donner des instructions
+:   S'agissant d'un compte, on entend une personne qui est habilitée à donner des instructions sur le compte ou à apporter des modifications au compte, telles que la modification du type de compte, la mise à jour des coordonnées du compte et, dans le cas d'un compte de carte de crédit, la demande d'augmentation ou de diminution de la limite, ou l'ajout ou la suppression de titulaires de carte. Une personne qui ne peut effectuer que des opérations sur le compte n'est **pas** considérée comme une personne habilitée à donner des instructions. (person authorized to give instructions)
+
+personne morale ou fiducie dont l'actif est très important
+:   Personne morale ou fiducie qui, d'après son dernier bilan vérifié, possède un actif net d'au moins 75 millions de dollars canadiens. Les actions de la personne morale doivent être cotées sur une bourse de valeurs au Canada ou sur une bourse de valeurs étrangère désignée au paragraphe 262(1) de la Loi de l'impôt sur le revenu. La personne morale ou fiducie doit également exercer ses activités dans un pays membre du Groupe d'action financière (GAFI). (very large corporation or trust)
+
+personne
+:   Un particulier. (person)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+personne ou entité inscrite
+:   **Une personne ou entité inscrite** s’entend :
+
+    À compter du **2 mars 2025** :
+
+    * de tout groupe terroriste au sens du paragraphe 83.01(1) du Code criminel;
+    * de toute personne ou entité visée par un décret ou un règlement pris en vertu de la Loi sur les Nations Unies;
+    * de tout État étranger, au sens de l’article 2 de la Loi sur les mesures économiques spéciales, visé par un décret ou un règlement pris en vertu de la Loi sur les Nations Unies; et
+
+    À compter du **1er octobre 2025** :
+
+    * de toute personne ou entité visée par un décret ou un règlement pris en vertu de la Loi sur les mesures économiques spéciales;
+    * de tout État étranger, au sens de l’article 2 de la Loi sur les mesures économiques spéciales, visé par un décret ou un règlement pris en vertu de cette Loi ou de la Loi sur les Nations Unies;
+    * de toute personne visée par un décret ou un règlement pris en vertu de l’article 4 de la Loi sur la justice pour les victimes de dirigeants étrangers corrompus (loi de Sergueï Magnitski).
+
+    Référence :  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+    Consultez les listes de sanctions suivantes :
+
+    * Loi sur les Nations Unies
+      + [Liste récapitulative du Conseil de sécurité des Nations Unies | Conseil de sécurité](https://main.un.org/securitycouncil/fr/content/un-sc-consolidated-list)
+    * Loi sur les mesures économiques spéciales et Loi sur la justice pour les victimes de dirigeants étrangers corrompus
+      + [La Liste consolidée des sanctions autonomes canadiennes](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/consolidated-consolide.aspx?lang=fra)
+
+    Consultez la liste qui suit sur le site Web de Sécurité publique Canada pour connaître les entités terroristes inscrites au Code criminel :
+
+    * [Entités inscrites actuellement](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-fr.aspx)
+
+pierre précieuse
+:   Diamant, saphir, émeraude, tanzanite, rubis ou alexandrite. (precious stones)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+plateforme de sociofinancement
+:   Site Web ou application ou autre logiciel permettant de recueillir des dons sous forme de fonds ou de monnaie virtuelle. (crowdfunding platform)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+politiques et procédures de conformité
+:   Documents écrits faisant état de l'ensemble des méthodes à suivre et des obligations que doit respecter votre entreprise en vertu de la Loi et des règlements connexes, ainsi que des processus et mécanismes de contrôle qu'elle doit mettre en place pour s'acquitter de ses obligations. (compliance policies and procedures)
+
+possibilité
+:   Lorsqu'il est question de remplir une déclaration d'opérations douteuses (DOD), risque qu'une opération soit liée à une infraction de blanchiment d'argent ou de financement du terrorisme (BA/FT). Par exemple, après avoir évalué les faits, le contexte et les indicateurs de BA/FT, vous avez des motifs raisonnables de soupçonner qu'une opération est possiblement liée à la perpétration, réelle ou tentée, d'une infraction de BA/FT. (possibility)
+
+prêteur hypothécaire
+:   Personne ou entité, autre qu’une entité financière, qui se livre à l’octroi de prêts garantis par hypothèques sur immeubles ou biens réels. (mortgage lender)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+probabilité
+:   Lorsqu'il est question de remplir une déclaration d'opérations douteuses (DOD), risque accru qu'une opération financière soit liée à une infraction de blanchiment d'argent ou de financement du terrorisme (BA/FT). Par exemple, si d'après les faits, vous avez des motifs raisonnables de croire qu'une opération est probablement liée à la perpétration, réelle ou tentée, d'une infraction de BA/FT. (probability)
+
+produit de paiement prépayé
+:   Produit émis par une entité financière et permettant à une personne ou entité de prendre part à une opération en lui donnant un accès électronique à des fonds ou à de la monnaie virtuelle versés, avant l'opération, dans un compte de produit de paiement prépayé détenu avec l'entité financière. La présente définition exclut :
+
+    1. (a) le produit permettant d'avoir accès à un compte de crédit ou de débit ou ne pouvant être utilisé qu'auprès d'un commerçant spécifique;
+    2. (b) à usage unique émis dans le cadre d'un programme de rabais d'un détaillant.
+
+    (prepaid payment product)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+profession ou métier
+:   Emploi ou occupation régulière rémunérée d'un client. (occupation)
+
+programme de conformité
+:   Tous les éléments (agent de conformité, politiques et procédures, évaluation des risques, programme de formation et examen de l'efficacité) que vous devez, à titre d'entité déclarante, mettre en place en vertu de la Loi et des règlements connexes pour vous assurer de respecter toutes vos obligations. (compliance program)
+
+programme de formation
+:   Programme écrit et mis en œuvre décrivant la formation offerte de façon continue à vos employés, à vos mandataires ou à d'autres personnes autorisées à agir en votre nom. Il doit contenir de l'information sur vos obligations et les exigences à remplir au titre de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et des règlements connexes. (training program)
+
+promoteur immobilier
+:   S'entend de la personne ou entité qui, au cours d'une année civile postérieure à 2007, a vendu au public, autrement qu'à titre de courtier ou agent immobilier, selon le cas :
+
+    1. (a) au moins cinq maisons ou unités condominiales neuves;
+    2. (b) au moins un immeuble commercial ou industriel neuf;
+    3. (c) au moins un immeuble résidentiel à logements multiples neuf contenant au moins cinq logements ou au moins deux immeubles résidentiels à logements multiples neufs contenant au total au moins cinq logements.
+
+    (real estate developer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+régime de participation des employés aux bénéfices
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (employees profit sharing plan)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+régime de participation différée aux bénéfices
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (deferred profit sharing plan)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+régime de pension agréé
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (registered pension plan)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+registre distribué
+:   Aux fins de l'article 151 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement), un registre distribué s'entend d'un registre numérique, tenu par plusieurs personnes ou entités, pouvant uniquement être modifié par consensus entre celles-ci. (distributed ledger)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 151(2).
+
+relation de correspondant bancaire
+:   Une relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d), e) ou e.1) ou une autre entité visée à l'article 5 et visée par règlement s'engage à fournir à une entité étrangère visée par règlement des services prévus par règlement ou des services de télévirements internationaux, de gestion de trésorerie ou de compensation de chèques. (correspondent banking relationship)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 9.4(3) et Le Règlement, DORS/2002-184, par. 16(1)(b).
+
+relevé de dépôt
+:   Document où sont consignés les renseignements suivants :
+
+    1. (a) la date du dépôt;
+    2. (b) le nom de la personne ou entité qui l'effectue;
+    3. (c) le montant du dépôt ainsi que le montant de toute partie du dépôt faite en espèces;
+    4. (d) la manière dont le dépôt est effectué;
+    5. (e) le numéro du compte au crédit duquel la somme est portée et le nom de chaque titulaire du compte.
+
+    (deposit slip)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+relevé de réception de fonds
+:   Document constatant la réception de fonds et où sont consignés les renseignements suivants :
+
+    1. (a) la date de réception;
+    2. (b) si les fonds sont reçus d'une personne, ses nom, adresse, numéro de téléphone et date de naissance et la nature de son entreprise principale ou sa profession;
+    3. (c) si les fonds sont reçus d'une entité ou pour son compte, ses nom, adresse et numéro de téléphone et la nature de son entreprise principale;
+    4. (d) le montant des fonds reçus ainsi que le montant de toute partie des fonds reçue en espèces;
+    5. (e) la manière dont les fonds sont reçus;
+    6. (f) les type et montant de chaque monnaie fiduciaire liée à la réception;
+    7. (g) le cas échéant, les taux de change utilisés et leur source;
+    8. (h) pour tout compte touché par l'opération au cours de laquelle la réception a lieu, le numéro du compte, le type de compte et le nom de chaque titulaire du compte;
+    9. (i) les nom, adresse et numéro de téléphone de toute autre personne ou entité qui a participé à l'opération, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    10. (j) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte;
+    11. (k) l'objet de l'opération.
+
+    (receipt of funds record)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+relevé d'opération importante en espèces
+:   Document constatant la réception d'une somme en espèces de 10 000 $ ou plus au cours d'une seule opération et où sont consignés les renseignements suivants :
+
+    1. (a) la date de réception;
+    2. (b) s'il s'agit d'un dépôt, l'heure à laquelle il est fait ou, s'il est fait dans une boîte de dépôt de nuit hors des heures d'ouverture, une mention à cet effet ainsi que le numéro du compte et le nom de chaque titulaire du compte;
+    3. (c) les nom et adresse de toute autre personne ou entité qui a participé à l'opération, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    4. (d) les type et montant de chaque monnaie fiduciaire liée à la réception;
+    5. (e) la manière dont la somme en espèces a été reçue;
+    6. (f) le cas échéant, les taux de change utilisés et leur source;
+    7. (g) pour tout autre compte touché par l'opération, le numéro du compte, le type de compte et le nom de chaque titulaire du compte;
+    8. (h) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte;
+    9. (i) l'objet de l'opération;
+    10. (j) les détails ci-après à l'égard de la remise de la somme reçue ou de la remise faite en échange de la somme :
+        1. (i) la manière dont la remise est faite,
+        2. (ii) si la remise prend la forme de fonds, les types de fonds en cause et la somme en cause, pour chaque type,
+        3. (iii) si la remise prend une autre forme, la forme en cause et, si elle diffère de la somme reçue en espèces, la valeur de la remise,
+        4. (iv) le nom des personnes ou entités liées à la remise, ainsi que leur numéro de compte ou de police ou, à défaut, leur numéro d'identification;
+    11. (k) s'il s'agit d'une somme reçue par un négociant en métaux précieux et pierres précieuses pour la vente de métaux précieux, de pierres précieuses ou de bijoux :
+        1. (i) les types de métaux précieux, de pierres précieuses ou de bijoux en cause,
+        2. (ii) leur valeur, si elle diffère de la somme reçue en espèces,
+        3. (iii) leur prix de gros.
+
+    (large cash transaction record)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+relevé d'opération importante en monnaie virtuelle
+:   Document constatant la réception d'une somme en monnaie virtuelle de 10 000 $ ou plus au cours d'une seule opération et où sont consignés les renseignements suivants :
+
+    1. (a) la date de réception;
+    2. (b) si la somme est reçue pour être portée au crédit d'un compte, le nom de chaque titulaire du compte;
+    3. (c) les nom et adresse de toute autre personne ou entité qui a participé à l'opération, la nature de son entreprise principale ou sa profession et, dans le cas d'une personne, sa date de naissance;
+    4. (d) les type et montant de chaque monnaie virtuelle liée à la réception;
+    5. (e) le cas échéant, les taux de change utilisés et leur source;
+    6. (f) pour tout autre compte touché par l'opération au cours de laquelle la réception a lieu, le numéro du compte, le type de compte et le nom de chaque titulaire du compte;
+    7. (g) les numéros de référence, liés à l'opération, qui tiennent lieu de numéro de compte;
+    8. (h) les identifiants de l'opération, y compris l'adresse d'envoi et l'adresse de réception;
+    9. (i) s'il s'agit d'une somme reçue par un négociant en métaux précieux et pierres précieuses pour la vente de métaux précieux, de pierres précieuses ou de bijoux :
+       1. (i) les types de métaux précieux, de pierres précieuses ou de bijoux en cause,
+       2. (ii) leur valeur, si elle diffère de la somme reçue en monnaie virtuelle,
+       3. (iii) leur prix de gros.
+
+    (large virtual currency transaction record)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+renseignements d'identification du client
+:   Les renseignements d'identification que vous avez obtenus sur vos clients, tels que le nom, l'adresse, le numéro de téléphone, la profession ou la nature de l'activité principale, et la date de naissance d'une personne. (client identification information)
+
+rente
+:   La définition étant la même qu'au paragraphe 248(1) de la [Loi de l'impôt sur le revenu](https://laws-lois.justice.gc.ca/fra/lois/I-3.3/). (annuity)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+répartition de fonds
+:   En parlant d'une opération pouvant faire l'objet d'une déclaration, la façon dont la monnaie virtuelle ou les fonds sont utilisés. Par exemple, une personne se présente à la banque avec des espèces et fait l'achat d'une traite bancaire. L'achat de la traite bancaire constitue un exemple de répartition de fonds. (disposition)
+
+représentant d'assurance-vie
+:   Personne ou entité autorisée, au titre de la législation provinciale, à exercer des activités visant la conclusion de contrats d'assurance-vie. (life insurance broker or agent)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+représentant du service
+:   Une personne au Canada qui a été nommée par une personne ou une entité qui est une entreprise de services monétaires étrangère (ESME), en vertu de la Loi, pour recevoir des avis et des documents au nom de l'ESME. (representative for service)
+
+sans raison apparente
+:   Situation où rien n'explique clairement le comportement ou les renseignements douteux. (no apparent reason)
+
+services de plateforme de sociofinancement
+:   La fourniture et la maintenance d’une plateforme de sociofinancement destinée à être utilisée par d’autres personnes ou entités afin de recueillir des fonds ou de la monnaie virtuelle pour leur propre compte ou au bénéfice de personnes ou entités qu’elles désignent. (crowdfunding platform services)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+signature
+:   S'entend notamment d'une signature électronique ou de tout autre renseignement électronique créé ou adopté par le client d'une personne ou entité visée à l'article 5 de la Loi et que cette personne ou entité reconnaît comme étant propre à ce client. (signature)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+société d'assurance-vie
+:   Société d'assurance-vie ou société d'assurance-vie étrangère régies par la [Loi sur les sociétés d'assurances ou société d'assurance-vie](https://laws-lois.justice.gc.ca/fra/lois/I-11.8/) régie par une loi provinciale. (life insurance company)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+société de fiducie
+:   Société visée à l'un ou l'autre des alinéas 5d) à e.1) de la Loi. (trust company)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+société de notaires de la Colombie-Britannique
+:   Entité qui exploite une entreprise offrant des services notariaux au public en Colombie-Britannique conformément à la loi de la Colombie-Britannique intitulée Notaries Act, R.S.B.C. 1996, ch. 334. (British Columbia notary corporation)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+succursale
+:   Établissement qui fait partie de votre entreprise, mais qui est situé à un emplacement autre que celui de votre bureau principal. (branch)
+
+SWIFT
+:   La "Society for Worldwide Interbank Financial Telecommunication". (SWIFT)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+télévirement
+:   Transmission par voie électronique, magnétique ou optique d’instructions pour le transfert de fonds y compris la transmission d’instructions amorcée et reçue à titre de destinataire par la même personne ou entité. Dans le cas des messages SWIFT, seuls les messages SWIFT MT-103 et leurs équivalents sont visés par la présente définition. Est exclue de la présente définition la transmission d’instructions pour le transfert de fonds :
+
+    1. (a) qui implique que le bénéficiaire retire des espèces de son propre compte;
+    2. (b) qui est effectuée au moyen d’un dépôt direct ou d’un débit préautorisé;
+    3. (c) qui est effectuée par imagerie et présentation de chèques;
+    4. (d) qui est amorcée et reçue à titre de destinataire par des personnes ou entités qui agissent en vue de compenser ou de régler des obligations de paiement entre elles;
+    5. (e) qui est amorcée ou reçue à titre de destinataire par une personne ou une entité visée aux alinéas 5a) à h.1) de la Loi en vue de la gestion de la trésorerie interne, y compris la gestion de ses actifs et passifs financiers, si une partie à l’opération est une filiale de l’autre ou si elles sont des filiales de la même société.
+
+    (electronic funds transfer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+télévirement international
+:   Télévirement, sauf celui pour le transfert de fonds à l'intérieur du Canada. (international electronic funds transfer)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+tiers
+:   Personne ou entité qui demande à une autre personne ou entité d'effectuer pour son compte une activité ou une opération financière. (third party)
+
+traducteur agréé
+:   Une personne qui détient le titre professionnel de traducteur agréé délivré par une association provinciale ou territoriale du Canada ou un organisme qui est compétent aux termes de la législation provinciale ou territoriale du Canada pour délivrer une telle certification. (certified translator)
+
+tuteur
+:   En droit civil, personne légalement nommée pour exercer l'autorité parentale vis-à-vis de l'enfant et pour protéger les biens de ce dernier. (tutor)
+
+utilisateur autorisé
+:   Personne autorisée par un titulaire d'un compte de produit de paiement prépayé à avoir accès électroniquement à des fonds ou à de la monnaie virtuelle s'y trouvant au moyen d'un produit de paiement prépayé lié à ce compte. (authorized user)
+
+    Référence:  
+    Le Règlement, DORS/2002-184, par. 1(2).
+
+valide
+:   S'agissant d'un document ou de renseignements utilisés pour vérifier l'identité, qui semble légitime ou authentique et qui ne semble pas avoir été modifié ni caviardé. Les renseignements doivent également répondre aux critères de l'organisme de délivrance. Par exemple, un passeport que l'organisme de délivrance ne considère pas comme valide en raison d'un changement de nom n'est pas considéré comme valide par CANAFE. (valid)
+
+véhicule de tourisme
+:   S’entend de tout véhicule à moteur qui est conçu ou aménagé pour transporter au plus dix personnes sur les routes et dans les rues, à l’exclusion d’une ambulance, d’un corbillard, d’un véhicule à moteur clairement identifié pour les activités policières, d’un véhicule à moteur clairement identifié et équipé pour les activités de secours médical d’urgence ou d’intervention d’urgence en cas d’incendie et d’un camion utilitaire. (passenger vehicle)
+
+    Référence:  
+    Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (DORS/2002-184), par. 1(2)
+
+Véhicules blindés
+:   Personnes ou entités faisant le commerce de transport d’espèces, de mandats, de chèques de voyage ou d’autres titres négociables semblables.(Armoured cars)
+
+vérifier l'identité
+:   Se reporter à certains renseignements ou documents, conformément aux méthodes prescrites, pour identifier une personne ou une entité (client). (verify identity)
+
+violation
+:   Toute contravention à la présente loi ou à ses règlements qui est ainsi qualifiée par les règlements pris en vertu du paragraphe 73.1(1). (violation)
+
+    Référence:  
+    La Loi, L.C. 2000, ch. 17, par. 2(1).
+
+Date de modification :
+:   2024-01-19

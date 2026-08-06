@@ -1,0 +1,27 @@
+{
+  "doc_id": "d583be3bf97b154d",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "Insurance and reinsurance undertakings requested to provide information for the EIOPA\u2019s 2017 long-term guarantees report - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/insurance-and-reinsurance-undertakings-requested-provide-information-eiopas-2017-long-term-2017-03-03_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:90471dff963735db68fed6e7744458b2d66f45f8da03e6d4892aefd07d8ed843",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/d583be3bf97b154d",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/insurance-and-reinsurance-undertakings-requested-provide-information-eiopas-2017-long-term-2017-03-03_en",
+  "fetch_method": "html_to_md"
+}

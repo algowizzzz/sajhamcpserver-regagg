@@ -1,0 +1,151 @@
+* [HOME](/en/index.html)
+
+[Tweet](https://twitter.com/share)
+
+[Japanese](/menkyo/menkyo.html)![open new window](/images/common/icon_newwin.gif)
+
+# List of licensed (registered) Financial Institutions
+
+## Banks
+
+* City Banks and Trust Banks ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/city.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/city.xlsx))
+* Regional Banks & Regional Banks II ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/reg.pdf) / [![](/images/common/icon_excel.gif)](/en/regulated/licensed/reg.xlsx)[Excel](/en/regulated/licensed/reg.xlsx))
+* Bank Holding Companies ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/bank_holding.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/bank_holding.xlsx))
+* Credit Associations (Shinkin Banks) ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/s_banks.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/s_banks.xlsx))
+* Labour Banks ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/rokin.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/rokin.xlsx)) (Available in Japanese)
+* Credit Cooperative (Shinkumi Banks) ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/e_shinkumi.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/e_shinkumi.xlsx))
+* Keito Financial Institutions ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/keito.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/keito.xlsx))
+* Financial Institutions which engage in Trust Business, etc. ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/fietb.pdf) / ![](/images/common/icon_excel.gif)[Excel](/en/regulated/licensed/fietb.xlsx))
+
+## Agents of Banks, etc.
+
+* Bank’s Agents ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_a.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_a.xls)) (Available in Japanese)
+* Post Office Bank’s Agents ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_e.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_e.xlsx)) (Available in Japanese)
+* Credit Association’s Agents ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_b.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_b.xlsx)) (Available in Japanese)
+* Labour Bank’s Agents ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_d.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_d.xlsx)) (Available in Japanese)
+* Credit Cooperative’s Agents ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_c.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dairi_c.xlsx)) (Available in Japanese)
+
+## Foreign Bank’s Agent Banks
+
+* Foreign Bank’s Agent Banks ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/foreign.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/foreign.xlsx))
+
+## Electronic Payment Services Operators
+
+* Electronic Payment Services Operators ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dendai.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/dendai.xlsx)) (Available in Japanese)
+* Credit Associations Electronic Payment Services Operators ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/shinkindendai.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/shinkindendai.xlsx)) (Available in Japanese)
+
+## Financial Service Intermediary Businesses Operators
+
+* Financial Service Intermediary Businesses Operators ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/01_1kinsa.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/02_1kinsa.xlsx)) (Available in Japanese)
+
+## Financial Instruments Business Operators, etc.
+
+* Financial Instruments Business Operators ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/fibo.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/fibo.xlsx))
+* Designated Parent Company ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/dpc.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/dpc.xlsx))
+* Registered Financial Institution ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/touroku.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/touroku.xlsx)) (Available in Japanese)
+* Authorized Transaction-at-Exchange Operators ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/authorized_ope.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/authorized_ope.xlsx))
+* Financial Instruments Intermediary Service Providers ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/fiisp.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/fiisp.xlsx))
+* Securities Finance Companies ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/sfc.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/sfc.xlsx))
+* Registered Investment Corporation ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/toushihoujin.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/toushihoujin.xlsx)) (Available in Japanese)
+* [Business Operators, etc., Engaging in Specially Permitted Businesses for Qualified Institutional Investors, etc.![open new window](/en/images/common/icon_newwin.gif)](/menkyo/menkyoj/tokurei.html)
+* [Business Operators, Engaging in Specially Permitted Business for Foreign Investors, etc.![open new window](/en/images/common/icon_newwin.gif)](/menkyo/menkyoj/spbfi/index.html)
+* Credit Rating Agencies ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/cra.pdf) /[![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/cra.xlsx))
+* Specified Financial Benchmark Administrators ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/Specified_Financial_Benchmark_Administrators.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/Specified_Financial_Benchmark_Administrators.xlsx))
+* High Speed Traders ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/hst.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/hst.xlsx))
+* Investment Management-Related Service Entrusted Business Operators ([![](/images/common/icon_pdf.gif)PDF](/menkyo/menkyoj/imrs.pdf) / [![](/images/common/icon_excel.gif)Excel](/menkyo/menkyoj/imrs.xlsx))
+
+## Insurance Companies
+
+* Life Insurance Companies ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/ins_life.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/ins_life.xlsx))
+* Non-Life Insurance Companies ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/ins_nonlife.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/ins_nonlife.xlsx))
+* Insurance Holding Companies ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/ins_holding.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/ins_holding.xlsx))
+* [Small Amount and Short-Term Insurance Companies![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/shougaku.html) (Available in Japanese)
+* [Authorized Specified Insurers![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/ninkatokutei.html) (Available in Japanese)
+* Insurance Brokers ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/nakadachi.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/nakadachi.xlsx)) (Available in Japanese)
+
+## Trust Companies
+
+* Trust Companies ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/trustcompanies.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/trustcompanies.xlsx))
+* Self-trust Companies ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/sintaku02.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/sintaku02.xlsx)) (Available in Japanese)
+* Trust Agreement Agents ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/sintaku_a.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/sintaku_a.xlsx)) (Available in Japanese)
+
+## Nonbank Financial Companies
+
+* Money Lending Business Operators ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/kasi.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/kasi.xlsx)) (Available in Japanese)
+* Specified Finance Companies ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/tokuteikinyuu.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/tokuteikinyuu.xlsx)) (Available in Japanese)
+* Prepaid Payment Instrument Issuers (for Third-Party Business) ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/daisan.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/daisan.xlsx)) (Available in Japanese)
+* Prepaid Payment Instrument Issuers (for Own Business) ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/jika.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/jika.xlsx)) (Available in Japanese)
+* Fund Transfer Service Providers ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/shikin_idou.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/shikin_idou.xlsx)) (Available in Japanese)
+* Specific Purpose Companies ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/tokutei_todokede.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/tokutei_todokede.xlsx)) (Available in Japanese)
+* Electronic Monetary Claim Recording Institution ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/denshisaiken.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/denshisaiken.xlsx)) (Available in Japanese)
+* Crypto-asset Exchange Service Providers ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/en_kasoutuka.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/en_kasoutuka.xlsx))
+* Electronic Payment Instrument Exchange Service Providers ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/denshikessaisyudan.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/denshikessaisyudan.xlsx))
+
+## Funds Transfer Transaction Analysis Service Providers
+
+* Funds Transfer Transaction Analysis Service Providers ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/kawasebunseki.pdf) /[![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/kawasebunseki.xlsx))
+
+## Mutual Financing Business Providers
+
+* Mutual Financing Business Providers ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/mujin.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/mujin.xlsx)) (Available in Japanese)
+
+## Financial Market Infrastructures
+
+* Financial Instruments Clearing Organizations ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/fico.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/fico.xlsx))
+* Foreign Financial Instruments Clearing Organizations (CCP: Central Counter Party)([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/foreign_fico.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/foreign_fico.xlsx))
+* Fund Clearing Organization ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/fco.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/fco.xlsx))
+* Book-Entry Transfer Institutions ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/beti.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/beti.xlsx))
+* Trade Repository ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/tr.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/tr.xlsx))
+
+## Audit Firms
+
+* Limited Liability Audit Corporation ([![](/images/common/icon_pdf.gif)PDF![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/kansahoujin.pdf) / [![](/images/common/icon_excel.gif)Excel![open new window](/images/common/icon_newwin.gif)](/menkyo/menkyoj/kansahoujin.xlsx)) (Available in Japanese)
+* Foreign Audit Firms and Individual Accountants ([![](/images/common/icon_pdf.gif)PDF](/en/regulated/licensed/fafia.pdf) / [![](/images/common/icon_excel.gif)Excel](/en/regulated/licensed/fafia.xlsx))
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

@@ -1,0 +1,25 @@
+{
+  "doc_id": "eef027f1696943db",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "IRB Credit Data Wholesale Transaction (BF) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/irb-credit-data-wholesale-transaction-bf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b136498bca151e5deb528d5804a643a06188ed96303089b61db2e7381b8ad346",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/eef027f1696943db",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

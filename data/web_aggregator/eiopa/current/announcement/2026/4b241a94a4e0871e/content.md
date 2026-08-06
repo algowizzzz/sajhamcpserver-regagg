@@ -1,0 +1,16 @@
+Page Content
+
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published a report on "Failures and near misses in insurance: Overview of the causes and early identification" to enhance the understanding of the causes of insurers' failures and near misses.
+
+The financial crisis put a substantial amount of insurance undertakings and groups under severe financial distress. Although the majority of troubled in­stitutions were banks, several insurers were also affected. Among other rea­sons, this was attributable to inappro­priate investment decisions by insur­ers, which led to significant losses, the interconnectedness with banks or, in general, evidence of poor governance.
+
+This report is the first of a series aimed at enhancing supervisory knowledge of the prevention and management of insurance failures. The findings are based on information contained in EIOPA's database of failures and near misses. The database was commenced in 2014, covering the period from 1999 to 2016 and gathering sample data of 180 affected insurance undertakings in 31 European countries.
+
+In the first part of the report the framework underlying the concepts of "failure" and "near miss" and the construction process of EIOPA's database are explained, followed by an overview of the stylised facts and statistics. The focus of the report is, however, the examination of the causes of failure in insurance, as well as the assessment of the reported early identification signals.
+
+Publication date
+:   17 July 2018
+
+## Related links
+
+[Failures and near misses in insurance - Report](/document/download/2eb6b3f7-ee37-4fc3-adc5-b5ee31cad58d_en?filename=Failures%20and%20near%20misses%20in%20insurance%20-%20Report.pdf)

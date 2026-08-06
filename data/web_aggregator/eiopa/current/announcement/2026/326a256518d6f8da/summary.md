@@ -1,0 +1,1 @@
+Summary: Insurance and reinsurance undertakings and insurance groups from the European Economic Area and subject to Solvency II are requested to provide the following information in the context of the 2020 review of Solvency II:

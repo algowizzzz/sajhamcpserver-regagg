@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of a Proposed Rule Change To Amend the Short Term Option Series Program Related to Qualifying Securities

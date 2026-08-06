@@ -1,0 +1,24 @@
+{
+  "doc_id": "2c242017eb037b99",
+  "regulator_id": "sec",
+  "doc_type": "announcement",
+  "title": "SEC Announces Roundtable on Preparations for 24-Hour Trading",
+  "language": "en",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading",
+  "reference_number": null,
+  "published_date": "2026-07-23",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:72dfaa1662cf61f9dbcbf9f6c608af0049dc8a6f42cf5c2c7db6cf72b8ecc7d1",
+  "version_ts": "2026-08-03T02-27-25Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:27:25.940758+00:00",
+  "run_id": "2026-08-02_sec_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/sec/current/announcement/2026/2c242017eb037b99",
+  "tags": [
+    "us",
+    "securities"
+  ]
+}

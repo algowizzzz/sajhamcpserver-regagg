@@ -1,0 +1,1 @@
+Summary: # OSFI Update on Capital Requirement for Federally Regulated Life Insurers – Letter

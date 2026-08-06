@@ -1,0 +1,1 @@
+Summary: # Applied Digital Corp (APLD)’s 400% Revenue Surge — Breakout AI Infrastructure Play or Risky Bet?

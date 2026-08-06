@@ -1,0 +1,53 @@
+# SAR Leads to Guilty Plea in Case against Doctor
+
+[Issue16-story2.pdf](/system/files/case_example/Issue16-story2.pdf "Issue16-story2.pdf")
+(12.93 KB)
+
+A Federal judge sentenced a chiropractor to 8 months’ imprisonment and fined the defendant $30,000 for structuring a series of transactions. In addition, during the course of the investigation, evidence surfaced that the defendant may have committed medical fraud and may have obtained a medical license under false pretenses.
+
+The defendant frequently converted a portion of income into cash, and it was transactions involving cash that raised suspicions with the defendant’s bank. Specifically, the reporting bank noticed two cash deposits of approximately $9,000 made on successive days. The bank reviewed the defendant’s transactions over a two-month period and identified multiple deposits of cash ranging from $8,300 to $9,500 that totaled over $100,000.
+
+Other transactions that occurred during the review period included the deposit of checks from several insurance companies and payments to credit card companies, utilities, and a department store. The defendant also purchased two checks payable to an individual for $50,000 each. The notation on the checks indicated that they were part of a divorce settlement.
+
+The local SAR review team identified the SAR during its monthly meeting as one for follow up action. A few months later, investigators from the SAR review team interviewed the defendant, who volunteered that the structured payments were part of a divorce settlement. The defendant claimed that an ex-spouse, who had previously worked in the financial industry, told the defendant to make deposits under $10,000 to avoid scrutiny. The defendant reported that the cash came from patient payments hidden in a safe.
+
+While reviewing records pertaining to the defendant, investigators began to suspect that medical fraud might be involved. When the SAR team brought the potential fraud to the other law enforcement agencies, they learned that a central reporting authority received inquiries from several insurance companies concerning suspicious claims filed on patients of the defendant.
+
+As the investigation progressed, more details about the defendant emerged. Through BSA record searches, investigators learned that the defendant was the subject of a CTR filed almost ten years earlier, confirming knowledge of the reporting requirement. Moreover, the defendant did not file Federal tax returns for several years, until shortly after being interviewed by investigators. Finally, the defendant failed to inform authorities of a previous felony, a disqualifying condition, when applying for a State medical license. The medical license was subsequently suspended.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues*, Issue 16, October 2009]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Involving CTRs
+
+Depository Institutions
+
+BSA Violations
+
+Tax Crimes
+
+Insurance Companies
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

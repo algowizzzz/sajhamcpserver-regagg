@@ -1,0 +1,50 @@
+# CANAFE impose une pénalité administrative pécuniaire à Canaccord Genuity Corp.
+
+**Communiqué de presse**
+
+**Le 3 juillet 2025 – Ottawa — [Centre d’analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)**
+
+CANAFE a annoncé aujourd’hui qu’il avait imposé une pénalité administrative pécuniaire à Canaccord Genuity Corp. À la suite d’un examen de conformité réalisé en 2023, Canaccord Genuity Corp., un courtier en placement ayant son siège social à Vancouver, en Colombie-Britannique, considéré comme étant un courtier en valeurs mobilières, s’est vu imposer une pénalité de 544 500 $ le 14 mai 2025 pour non-conformité à la partie 1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et des règlements connexes.
+
+Canaccord Genuity Corp. a commis les violations suivantes :
+
+* Fait de ne pas soumettre de déclaration d’opérations douteuses relativement à des opérations ou des tentatives d’opérations à l’égard desquelles il y avait des motifs raisonnables de soupçonner que des opérations étaient liées à la perpétration d’une infraction de recyclage des produits de la criminalité ou de financement des activités terroristes;
+* Fait de ne pas élaborer et appliquer des principes et des mesures de conformité écrits qui sont mis à jour et, dans le cas d’une entité, approuvés par l’un de ses dirigeants;
+* Fait de ne pas évaluer les risques en matière de blanchiment d’argent et de financement des activités terroristes, et de ne pas conserver les documents à l’appui, en tenant compte des critères règlementaires;
+* Fait de ne pas prendre les mesures spéciales prévues pour les risques élevés.
+
+La pénalité administrative pécuniaire a été payée au complet et les procédures ont pris fin.
+
+## Citation
+
+> « Le régime canadien de lutte contre le blanchiment d’argent et le financement des activités terroristes a été établi pour assurer la sécurité des Canadiens et des Canadiennes et pour protéger l’économie du Canada. CANAFE s’est engagé à travailler avec les entreprises pour les aider à comprendre et à remplir leurs obligations prévues par la Loi. Par contre, c’est avec fermeté que nous veillerons à ce que les entreprises continuent de faire leur part et que nous prendrons au besoin les mesures appropriées. »
+
+## Faits en bref
+
+* À titre d’unité du renseignement financier du Canada et de superviseur de la lutte contre le blanchiment d’argent et le financement des activités terroristes, CANAFE s’assure que les entreprises assujetties à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes se conforment à leurs obligations au titre de la Loi et des règlements connexes. Le Centre analyse également les informations et transmet des renseignements financiers aux organismes d’application de la loi et aux organismes de sécurité nationale pour contribuer à leurs enquêtes sur le blanchiment d’argent, le financement des activités terroristes, le contournement des sanctions et les menaces envers la sécurité du Canada.
+* Les casinos, les entités financières, les entreprises de services monétaires, les courtiers ou agents immobiliers et plusieurs autres secteurs d’activités doivent s’acquitter d’obligations au titre de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, telles que la tenue de certains documents, la vérification de l’identité des clients, le maintien d’un régime de conformité et la déclaration à CANAFE de certaines opérations financières, notamment les télévirements internationaux, les opérations importantes en espèces, les opérations importantes en monnaie virtuelle et les opérations douteuses.
+* La déclaration d’opérations douteuses, en particulier, est essentielle à la capacité de CANAFE de produire des renseignements financiers exploitables à l’intention des organismes d’application de la loi et de sécurité nationale du Canada.
+* En vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, les pénalités administratives pécuniaires ne doivent pas être de nature punitive, mais viser à modifier le comportement non conforme des entreprises.
+* En 2023-2024, CANAFE a dressé 12 procès-verbaux de non-conformité à l’intention d’entreprises dont les pénalités imposées totalisaient 26 115 999,50 $.
+* Depuis qu’il a reçu le pouvoir législatif d’imposer des pénalités en 2008, CANAFE a imposé plus de 140 pénalités administratives pécuniaires à des entités de la plupart des secteurs d’activité.
+
+## Produits connexes
+
+* [Avis public des pénalités administratives pécuniaires](/pen/4-fra)
+* [Changement apporté aux avis publics concernant les pénalités administratives pécuniaires](/pen/6-fra)
+* [Politique sur les pénalités administratives pécuniaires](/pen/2-fra)
+
+## Personnes-ressources
+
+Relations avec les médias  
+Centre d’analyse des opérations et déclarations financières du Canada  
+613-716-9983  
+[media.medias@fintrac-canafe.gc.ca](mailto:media.medias@fintrac-canafe.gc.ca)
+
+Suivez-nous sur  
+X: [@FINTRAC\_Canada](https://twitter.com/FINTRAC_Canada)   
+LinkedIn: [FINTRAC Canada | CANAFE Canada](https://www.linkedin.com/company/18406872/)   
+YouTube: [FINTRAC Canada](https://www.youtube.com/channel/UCxZzHo0HADR6G-C1fHi0QgA)
+
+Date de modification :
+:   2025-07-03

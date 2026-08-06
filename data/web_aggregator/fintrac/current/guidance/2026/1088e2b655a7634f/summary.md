@@ -1,0 +1,1 @@
+Summary: # When to verify the identity of persons and entities — Financing or leasing entities : FINTRAC's compliance guidance

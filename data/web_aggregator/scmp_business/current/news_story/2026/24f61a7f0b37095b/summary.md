@@ -1,0 +1,1 @@
+Summary: # Cheung Kong Center II tests higher rents amid rebound in Central office market

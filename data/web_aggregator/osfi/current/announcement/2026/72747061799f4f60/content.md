@@ -1,0 +1,827 @@
+# Canadian and Foreign Insurance Companies and Fraternal Benefits Societies
+
+## Alphabetical List
+
+[#](#nr)[A](#a)[B](#b)[C](#c)[D](#d)[E](#e)[F](#f)[G](#g)[H](#h)[I](#i)[J](#j)[K](#k)
+
+[L](#l)[M](#m)[N](#n)[O](#o)[P](#p)[Q](#q)[R](#r)[S](#s)[T](#t)[U](#u)[V](#v)
+
+[W](#w)[X](#x)[Y](#y)[Z](#z)
+
+### #
+
+* 12345 Insurance Company was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name 9918841 Canada Inc. effective September 23, 2016.
+
+### A
+
+* Abbey Life Insurance Company of Canada changed its name to ITT Hartford Life Insurance Company of Canada effective July 1, 1994.
+* Abeille Réassurances amalgamated its property and business with that of AXA Réassurance effective April 18, 1996, the continuing or combined company being AXA Réassurance.
+* ACA Assurance ceased transacting business in Canada. The company's order to insure in Canada risks was deemed revoked effective June 30, 2011.
+* ACE INA Life Insurance Company changed its name to Chubb Life Insurance Company of Canada effective October 1, 2016.
+* ACE INA Insurance and Chubb Insurance Company of Canada amalgamated and were continued as one company under the name Chubb Insurance Company of Canada effective October 1, 2016.
+* Adriatic Insurance Company of Canada amalgamated its property and business with that of Canadian Home Assurance Company effective January 1, 1991, the continuing or combined company being Canadian Home Assurance Company.
+* Advocate General Insurance Company's certificate of registry was withdrawn effective July 15, 1989, and the company is being wound up under the provisions of the Winding-up Act.
+* Aegon Insurance Company (U.K.) Limited ceased transacting business in Canada and transferred its Canadian liabilities to Legacy General Insurance Company. The company's order to insure in Canada risks was revoked effective December 23, 2002.
+* The Ætna Casualty and Surety Company, having transferred its Canadian liabilities to Aetna Casualty & Surety Company of Canada, ceased to be registered effective March 1, 1993.
+* Aetna Casualty & Surety Company of Canada changed its name to Travelers Casualty and Surety Company of Canada, effective July 1, 1997.
+* Ætna Casualty Company of Canada changed its name to Laurentian Casualty Company of Canada effective November 1, 1987.
+* Ætna Insurance Company changed its name to CIGNA Property and Casualty Insurance Company effective April 29, 1988.
+* Aetna Life Insurance Company of Canada and the Maritime Life Assurance Company amalgamated and were continued as one company under the name of The Maritime Life Assurance Company effective January 1, 2000.
+* A.G.F. Réassurances, having amalgamated its property and business with that of Société Anonyme Française de Réassurances pursuant to the laws of France, ceased to be registered effective December 31, 1991.
+* AIG Commercial Insurance Company of Canada changed its name to Chartis Insurance Company of Canada effective November 1, 2009.
+* AIG Life Insurance Company of Canada changed its name to BMO Life Assurance Company effective March 30, 2009.
+* AIG Life Insurance Company of Canada and AIG Assurance Canada amalgamated and continued as one company under the name AIG Life Insurance Company of Canada effective October 1, 2008.
+* AIG United Guaranty Mortgage Insurance Company Canada changed its name to Canada Guaranty Mortgage Insurance Company effective April 16, 2010.
+* Aktieselskabet Nordisk Gjenforsikrings Selskab changed its name to Baltica-Nordisk Reinsurance Company A/S effective December 8, 1986.
+* The Albion Insurance Company of Canada changed its name to Metropolitan General Insurance Company effective February 16, 1988.
+* Alea (Bermuda) Ltd. changed the name under which it insures in Canada risks to Catalina General Insurance Ltd., effective March 3, 2016.
+* Alea Europe Ltd changed its name to Alea (Bermuda) Ltd. effective October 22, 2009.
+* Alexander Hamilton Life Insurance Company of America ceased transacting business in Canada and transferred its Canadian policies to Household Life Insurance Company effective January 1, 1997. The company's order to insure in Canada risks was revoked effective May 15, 2002.
+* Allendale Mutual Insurance Company changed its name to Factory Mutual Insurance Company effective July 1, 1999, the date of the amalgamation of Allendale Mutual Insurance Company, Arkwright Mutual Insurance Company, and Protection Mutual Insurance Company pursuant to the laws of the United States of America.
+* Allianz Insurance Company, having transferred its Canadian liabilities to Canadian Home Assurance Company, ceased to be registered effective March 31, 1991.
+* Allianz Insurance Company of Canada and The Nordic Insurance Company of Canada amalgamated and were continued as one company under the name The Nordic Insurance Company of Canada effective April 1, 2006.
+* Allianz Insurance Company of Canada amalgamated its property and business with that of Cornhill Insurance Company of Canada effective November 1, 1993, the continuing or combined company being Allianz Insurance Company of Canada.
+* Allianz Life Insurance Company of North America ceased transacting business in Canada and reinsured, on an assumption basis, all of its Canadian policy liabilities with Assumption Mutual Life Insurance Company. The company's order to insure in Canada risks was revoked effective December 12, 2024.
+* Allstate Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 22, 2015.
+* Allstate Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective September 11, 2003.
+* Alpina Insurance Company Limited ceased transacting business in Canada on December 16, 1996 when it transferred all its Canadian policy liabilities to Zurich Insurance Company. Alpina Insurance Company Limited ceased to exist as an entity, on June 2, 2004, following a merger under Swiss laws and, accordingly, ceased to be governed by the Insurance Companies Act.
+* Alta Surety Company – On July 13, 2001 the Superintendent of Financial Institutions took control of Alta Surety Company and the court granted a winding-up order appointing the Superintendent as provisional liquidator of the company. The court subsequently appointed PricewaterhouseCoopers Inc. as permanent liquidator. The winding up of the company's business and affairs continues.
+* American Bankers Life Assurance Company of Florida changed the French name under which it insures in Canada risks to American Bankers Compagnie d'Assurance Vie de la Floride effective October 5, 2007.
+* American Bankers Insurance Company of Florida changed the French name under which it insures in Canada risks to American Bankers Compagnie d'Assurance Générale de la Floride effective October 5, 2007.
+* American Credit Indemnity Company of New York changed its name to American Credit Indemnity Company effective April 17, 1985.
+* American Credit Indemnity Company changed its name to EULER American Credit Indemnity Company effective October 4, 1999.
+* American Health and Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 21, 1993.
+* American Home Assurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with AIG Commercial Insurance Company of Canada. The company's order to insure in Canada risks was revoked effective October 22, 2009.
+* The American Insurance Company, having transferred its Canadian liabilities to Fireman's Fund Insurance Company, ceased to be registered effective December 31, 1982.
+* The American Insurance Company was re-registered to transact the business of insurance in Canada effective January 8, 1990.
+* The American Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective March 19, 1997.
+* American International Assurance Life Company Ltd. changed its name to AIG Life Insurance Company of Canada effective April 1, 1998.
+* American Life Insurance Company ceased transacting business in Canada and transferred its remaining Canadian policies to American International Assurance Life Company Ltd. The company's order to insure in Canada risks was revoked effective December 31, 1996.
+* American Mutual Liability Insurance Company's certificate of registry was withdrawn effective May 30, 1989, and the company is being wound up under the provisions of the Winding-up Act.
+* American National Fire Insurance Company changed its name to Great American Insurance Company of New York effective June 19, 2001.
+* American Re-Insurance Company changed its name to Munich Reinsurance America, Inc. effective September 29, 2006.
+* American Reserve Insurance Company's certificate of registry was withdrawn effective June 19, 1979, and the company is being wound up under the provisions of the Winding-up Act. The Supreme Court of Ontario approved the transfer of the company's remaining Canadian liabilities to INA Insurance Company of Canada effective July 9, 1984.
+* AMEX Assurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 23, 2010.
+* AMEX Life Assurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective October 10, 1997.
+* Ancienne Mutuelle Réassurance changed its name to Axa Ré effective March 26, 1990.
+* Anglo Canada General Insurance Company changed its name to AXA General Insurance effective December 31, 2006.
+* Arch Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with Arch Insurance Canada Ltd. The company's order to insure in Canada risks was deemed revoked effective February 28, 2014.
+* Argonaut Insurance Company's order to insure in Canada risks was revoked, at the company's request, effective November 23, 1993.
+* Arkwright-Boston Manufacturers Mutual Insurance Company amalgamated its property and business with Philadelphia Manufacturers Mutual Insurance Company effective September 7, 1984, the continuing or combined Company being Arkwright-Boston Manufacturers Mutual Insurance Company.
+* Arkwright-Boston Manufacturers Mutual Insurance Company changed its name to Arkwright Mutual Insurance Company effective April 14, 1987.
+* Arkwright Mutual Insurance Company, having amalgamated its property and business with that of Allendale Mutual Insurance Company and Protection Mutual Insurance Company, pursuant to the laws of the United States of America, ceased to be registered effective July 1, 1999. The foreign companies were continued as one mutual company under the name Factory Mutual Insurance Company, effective July 1, 1999.
+* Arrowood Indemnity Company ceased transacting business in Canada. The company's order to insure in Canada risks under its former name, Security Insurance Company of Hartford, was revoked effective February 19, 2016.
+* Assicurazioni Generali S.p.A. ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 31, 2000.
+* Assitalia-Le Assicurazioni d'Italia S.P.A. ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective June 30, 2000.
+* The Associated Canadian Travellers ceased transacting business in Canada. Letters patent of dissolution were issued effective November 16, 1994.
+* Associates Financial Life Insurance Company changed its name to American Health and Life Insurance Company effective July 1, 2003.
+* Associates Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective June 30, 2003.
+* Association Canado-Américaine changed its name to ACA ASSURANCE effective December 19, 1997.
+* Assurant Life of Canada changed its name to TruStage Life of Canada effective January 1, 2022.
+* Aurigen Reinsurance Company changed its name to PartnerRe Life Reinsurance Company of Canada effective April 3, 2017.
+* Avemco Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective February 23, 2010.
+* Aviation & General Insurance Company Limited ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian liabilities with the provincial insurer, Global Reinsurance Company. The company's order to insure in Canada risks was deemed revoked effective February 18, 2011.
+* Aviva International Insurance Limited ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with Aviva Insurance Company of Canada. The company's order to insure in Canada risks was deemed revoked effective December 10, 2012.
+* AXA Art Insurance Corporation ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with AXA Insurance Company. The company's order to insure in Canada risks was revoked effective March 28, 2018.
+* AXA Corporate Solutions Assurance ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with AXA Pacific Insurance Company. The company's order to insure in Canada risks was revoked effective August 12, 2008.
+* AXA Corporate Solutions changed its name to AXA RE effective December 23, 2002.
+* AXA General Insurance and Novex Insurance Company amalgamated and continued as one company under the name Novex Insurance Company effective May 1, 2012.
+* AXA General Insurance and Insurance Corporation of Newfoundland Limited amalgamated and were continued as one company under the name AXA General Insurance effective January 1, 2007.
+* AXA Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with XL Specialty. The company's order to insure in Canada risks was revoked effective April 6, 2020.
+* AXA RE changed its name to COLISEE RE effective February 19, 2009.
+* AXA Ré changed its name to AXA Réassurance effective December 21, 1990.
+* AXA Réassurance amalgamated its property and business with that of Abeille Réassurances effective April 18, 1996, the continuing or combined company being AXA Réassurance.
+* AXA Réassurance changed its name to AXA Corporate Solutions effective December 22, 2000.
+
+### B
+
+* Balboa Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 13, 2002.
+* Balboa Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 13, 2002.
+* The Baloise Insurance Company Limited ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective November 1, 1999.
+* Baltica-Nordisk Reinsurance Company A/S changed its name to Nordisk Reinsurance Company A/S effective May 24, 1988.
+* Baltica-Skandinavia Reinsurance Company of Canada changed its name to Primmum Insurance Company effective July 20, 1988.
+* Bankers Life and Casualty Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 12, 2005.
+* Beneficial Standard Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective October 10, 1995.
+* BMO Life Insurance Company and BMO Life Assurance Company, amalgamated and continued as one company under the name BMO Life Assurance Company, effective December 1, 2025.
+* Boreal Property & Casualty Insurance Company changed its name to AXA Pacific Insurance Company effective October 23, 1995.
+* The British Aviation Insurance Company Limited ceased transacting business in Canada and has reinsured, on an assumption basis, all of its liabilities with Omega General Insurance Company. The company's order to insure in Canada risks was deemed revoked effective July 15, 2011.
+* Brookfield Annuity Company changed its name to Blumont Annuity Company, effective January 29, 2025.
+* Buffalo Insurance Company changed its name to Underwriters Insurance Company effective November 9, 1988.
+* Business Men's Assurance Company of America ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective November 12, 1999.
+
+### C
+
+* Cabot Insurance Company Limited, formerly a provincial insurer based in Newfoundland, was issued letters patent continuing it as a company under the Insurance Companies Act, and concurrently amalgamated property and business with Canadian General Insurance Company effective June 16, 1997, the continuing company being Canadian General Insurance Company.
+* Caisse Centrale de Réassurance ceased transacting business in Canada and assumption reinsured all of its insurance business in Canada with CCR RE. The company's order to insure in Canada risks was deemed revoked effective September 27, 2017.
+* Calvert Insurance Company changed its name to Specialty National Insurance Company effective October 11, 2000.
+* The Canada Accident and Fire Insurance Company amalgamated its property and business with that of the Stanstead and Sherbrooke Insurance Company and that of Commercial Union Assurance Company of Canada effective January 1, 1989; the continuing or combined company being Commercial Union Assurance Company of Canada.
+* The Canada Life Assurance Company and Crown Life Insurance Company amalgamated and continued as one company under the name in English, The Canada Life Assurance Company and, in French, La Compagnie d'Assurance du Canada sur la Vie effective on December 31, 2012.
+* The Canada Life Assurance Company amalgamated its property and business with that of Crown Life Insurance Company of Canada effective July 1, 1999, the continuing company being the Canada Life Assurance Company.
+* Canada Life Casualty Insurance Company changed its name to Primmum Insurance Company effective May 1, 2001.
+* Canada Security Assurance Company changed its name to Scotia General Insurance Company effective January 10 , 1996.
+* The Canadian Commerce Insurance Company amalgamated its property and business with that of Trafalgar Insurance Company of Canada effective January 1, 1993, the continuing or combined company being Trafalgar Insurance Company of Canada.
+* Canadian Direct Insurance Incorporated changed its name to HSBC Canadian Direct Insurance Incorporated effective October 1, 1999.
+* Canadian Direct Insurance Incorporated was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name Canadian Direct Inc. effective October 1, 2019.
+* Canadian Foresters Life Insurance Society, having had its property and business acquired by The Independent Order of Foresters, ceased to be registered on February 26, 1992.
+* Canadian General Insurance Company amalgamated its property and business with that of USF&G Insurance Company of Canada effective June 30, 1990, the continuing or combined company being Canadian General Insurance Company.
+* Canadian General Insurance Company amalgamated its property and business with that of Toronto General Insurance Company as of January 1, 1994, the continuing company being Canadian General Insurance Company.
+* Canadian General Insurance Company amalgamated its property and business with that of Cabot Insurance Company Limited effective June 16, 1997, the continuing company being Canadian General Insurance Company.
+* Canadian General Insurance Company amalgamated its property and business with that of The General Accident Assurance Company of Canada effective January 1, 1998, the continuing company being The General Accident Assurance Company of Canada.
+* Canadian Group Underwriters Insurance Company changed its name to ING Novex Insurance Company of Canada effective January 31, 2000.
+* Canadian Home Assurance Company amalgamated its property and business with that of The Canadian Provincial Insurance Company effective December 31, 1992, the continuing or combined company being Allianz Insurance Company of Canada.
+* The Canadian Indemnity Company amalgamated its property and business with that of The Casualty Company of Canada and that of The Dominion of Canada General Insurance Company effective May 31, 1989, the continuing or combined company being The Dominion of Canada General Insurance Company.
+* Canadian Northern Shield Insurance Company changed its French name to Le Bouclier du Nord Canadien, Compagnie d'Assurance effective August 11, 1986.
+* The Canadian Provincial Insurance Company amalgamated its property and business with that of Canadian Home Assurance Company effective December 31, 1992, the continuing or combined company being Allianz Insurance Company of Canada.
+* Canadian Reassurance Company changed its name to Swiss Re Life Canada effective June 5, 1995.
+* Canadian Reinsurance Company changed its name to Swiss Reinsurance Company Canada effective June 5, 1995.
+* Canadian Slovak Benefit Society dissolved effective October 22, 2008.
+* Canadian Slovak League was created as a corporation under Part II of the Canada Corporations Act effective December 1, 2003. As a result, it is no longer subject to the provisions of the Insurance Companies Act.
+* The Canadian Surety Company Amalgamated its property and business with that of Allianz Insurance Company of Canada effective April 1, 1999, the continuing company being Allianz Insurance Company of Canada.
+* Canners Exchange Subscribers at Warner Inter-Insurance Bureau, having transferred its Canadian liabilities to Employers Insurance of Wausau a Mutual Company effective December 31, 1991, ceased to be registered February 5, 1993.
+* The Capitol Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective June 16, 1994.
+* Cardif-Assurances Risques order to insure in Canada risks was revoked effective August 13, 2009.
+* Cardif Assurance Vie order to insure in Canada risks was revoked effective August 13, 2009.
+* Cardinal Insurance Company's certificate of registry was withdrawn effective February 19, 1982, and the company is being wound up under the provisions of the Winding-up Act.
+* The Casualty Company of Canada amalgamated its property and business with that of The Canadian Indemnity Company and that of The Dominion of Canada General Insurance Company effective May 31, 1989, the continuing or combined company being The Dominion of Canada General Insurance Company.
+* Cavell Insurance Company Limited ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with Omega General Insurance Company. The company's order to insure in Canada risks was deemed revoked effective February 5, 2013.
+* CCR RE changed the corporate name under which it underwrites risks in Canada to Arundo Re, effective February 27, 2025.
+* Certas Direct Insurance Company, which was incorporated under the federal Insurance Companies Act, was continued effective on November 15, 2001 as a corporation under the laws of the Province of Quebec.
+* Certas Direct Insurance Company Ltd. changed its name to Certas Direct Insurance Company effective January 1, 2002.
+* Centennial Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian liabilities with the Canadian insurer, Omega General Insurance Company. The company's order to insure in Canada risks was deemed revoked effective February 4, 2011.
+* Central Mutual Insurance Company, having disposed of its liabilities in Canada, ceased to be registered effective March 31, 1986.
+* Century Insurance Company of Canada: An order was issued December 1, 1989, whereby the property and business of Century Insurance Company of Canada was to be wound up into the Dominion Insurance Corporation.
+* CGU Insurance Company of Canada amalgamated its property and business with that of GAN General Insurance Company effective December 31, 1999, the continuing company being CGU Insurance Company of Canada.
+* CGU Insurance Company of Canada changed its name to Aviva Insurance Company of Canada effective May 5, 2003.
+* CGU International Insurance plc changed its name to Aviva International Insurance Limited effective September 20, 2006.
+* Chancellor Reinsurance Company of Canada - On July 5, 1995 the Superintendent of Financial Institutions took control of Chancellor Reinsurance Company of Canada and the court granted a winding-up order appointing the Superintendent as provisional liquidator of the company. The court subsequently appointed KPMG Inc. as permanent liquidator. The winding up of the company's business and affairs continues.
+* Chancellor Reinsurance Company of Canada dissolved effective June 29, 2016.
+* Chartis Insurance Company of Canada changed its name to AIG Insurance Company of Canada effective July 1, 2013.
+* Chateau Insurance Company amalgamated its property and business with that of The Citadel General Assurance Company and Chateau Insurance Management Inc. effective October 1, 1994, the continuing company being The Citadel General Assurance Company.
+* Chequers Insurance Company, having transferred its Canadian liabilities to Markel Insurance Company of Canada, ceased to be registered effective May 31, 1992.
+* Chieftain Insurance Company and The Dominion of Canada General Insurance Company amalgamated and were continued as one company under the name The Dominion of Canada General Insurance Company effective January 1, 2002.
+* Christiania General Insurance Corporation ceased transacting business in Canada and transferred its remaining Canadian policies to Folksamerica Reinsurance Company. The company's order to insure in Canada risks was revoked effective May 6, 1997.
+* Chrysler Insurance Company changed its name to CorePointe Insurance Company effective March 31, 2011.
+* Chrysler Insurance Company changed its French name to La Compagnie d'Assurance Chrysler effective June 26, 2009.
+* Chrysler Insurance Company changed its name to DaimlerChrysler Insurance Company effective June 30, 2001.
+* Chrysler Life Insurance Company of Canada ceased transacting business in Canada. Letters patent of dissolution were issued effective March 31, 2003.
+* CIBC General Group Insurance Company Limited amalgamated its property and business with that of CIBC General Insurance Company Limited effective November 1, 1994, the continuing or combined company being CIBC General Insurance Company Limited.
+* CIBC General Insurance Company Limited changed its name to The Personal Direct Insurance Company of Canada effective September 1, 2000.
+* CIGNA Insurance Company of Canada changed its name to ACE INA Insurance effective September 1, 1999.
+* CIGNA Property and Casualty Insurance Company, having transferred its liabilities to CIGNA Insurance Company of Canada, ceased to be registered effective December 24, 1990.
+* The Citadel General Assurance Company was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name 4377320 Canada Inc., effective August 21, 2006.
+* The Citadel Life Assurance Company changed its name to Canadian Premier Life Insurance Company effective January 1, 1994.
+* Clarica Life Insurance Company and Sun Life Assurance Company of Canada amalgamated and were continued as one company under the name Sun Life Assurance Company of Canada effective December 31, 2002 at 11:59 p.m.
+* CMFG Life Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with CUMIS Life Insurance Company. The company's order to insure in Canada risks was deemed revoked effective March 26, 2014.
+* CNA Life Insurance Company of Canada changed its name to The Canada Life Insurance Company of Canada effective December 12, 2002.
+* COLISEE RE ceased transacting life insurance business in Canada effective February 23, 2012.
+* COLISEE RE ceased transacting property and casualty insurance business in Canada and has reinsured all of its remaining Canadian liabilities with Northbridge General Insurance Corporation. The company's order to insure in Canada risks was revoked effective December 7, 2015.
+* College Retirement Equities Fund ceased transacting business in Canada and transferred its Canadian policies to Sun Life Assurance Company of Canada. The company's order to insure in Canada risks was revoked effective April 6, 1998.
+* Cologne Life Reinsurance Company changed its name to General & Cologne Life Re of America effective February 25, 2000.
+* Cologne Reinsurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with General Reinsurance Corporation. The company's order to insure in Canada risks was revoked effective August 4, 2005.
+* Colonia Life Insurance Company changed its name to Concordia Life Insurance Company effective December 30, 1998.
+* Combined Specialty Insurance Company changed its name to Virginia Surety Company, Inc. effective July 18, 2003.
+* The Commerce Group Insurance Company, ING Wellington Insurance Company and ING Insurance Company of Canada amalgamated and were continued as one company under the name ING Insurance Company of Canada effective July 1, 2002.
+* The Commercial Travellers' Association of Canada changed its name to Canadian Professional Sales Association effective June 1, 1991.
+* Commercial Travelers Mutual Insurance Company ceased transacting business in Canada and transferred its Canadian policies to Toronto Mutual Life Insurance Company. The company's order to insure in Canada risks was revoked effective April 27, 2001.
+* Commercial Union Assurance Company plc changed its name to CGU International Insurance plc effective October 1, 1999.
+* Commercial Union Assurance Company of Canada amalgamated its property and business with that of CGU Insurance Company of Canada, effective October 1, 1999. The continuing or combined company is CGU Insurance Company of Canada.
+* Compagnie Transcontinentale de Réassurance ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 16, 1998.
+* Commercial Union Life Assurance Company of Canada changed its name to MFC Insurance Company Limited effective September 26, 2001.
+* Commonwealth Insurance Company changed its name to Northbridge Indemnity Insurance Corporation effective October 7, 2011.
+* Concordia Life Insurance Company and The Empire Life Insurance Company amalgamated and were continued as one company under the name The Empire Life Insurance Company effective January 1, 2002.
+* Confederation Life Insurance Company - On August 11, 1994 the Superintendent of Financial Institutions took control of Confederation Life Insurance Company and the court granted a winding-up order appointing the Superintendent as provisional liquidator of the company. The court subsequently appointed KPMG Inc. as permanent liquidator. The winding up of the company's business and affairs continues.
+* Consolidated General Insurance Company Limited changed its name to GE Capital Casualty Company, Canada effective July 17, 1996.
+* Consolidated Life Assurance Company Limited ceased transacting business in Canada and transferred its Canadian policies to American Bankers Life Assurance Company of Florida. The company's order to insure in Canada risks was revoked effective October 13, 1995.
+* Constitution Insurance Company of Canada dissolved effective January 16, 2014.
+* Constitution Insurance Company of Canada ceased transacting business in Canada. Letters patent of dissolution were issued effective January 16, 2014.
+* Continental Assurance Company ceased transacting business in Canada and transferred its Canadian liabilities to CNA Life Insurance Company of Canada. The company's order to insure in Canada risks was revoked effective July 25, 2002.
+* The Continental Insurance Company ceased transacting business in Canada and transferred its Canadian policies to Continental Casualty Company. The company's order to insure in Canada risks was revoked effective December 21, 2001.
+* The Continental Insurance Company of Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on September 6, 1995 under the name CICAN I Investment Holding Corp.
+* The Continental Insurance Company of Canada Inc. changed its name to Lombard General Insurance Company of Canada effective December 8, 1995.
+* Continental Insurance Limited changed its name to Lombard Insurance Company effective December 8, 1995.
+* The Contingency Insurance Company Limited, having transferred its Canadian liabilities to Gan Canada Insurance Company, ceased to be registered effective January 1, 1988.
+* Cornhill Insurance Company of Canada amalgamated its property and business with that of Allianz Insurance Company of Canada effective November 1, 1993, the continuing or combined company being Allianz Insurance Company of Canada.
+* Co-operators Life Insurance Company and CUMIS Life Insurance Company amalgamated and continued as one company under the name Co-operators Life Insurance Company / Co-operators Compagnie d’Assurance-Vie, effective December 31, 2021.
+* Co-operators General Insurance Company and COSECO Insurance Company amalgamated and continued as one company under the name Co-operators General Insurance Company / La Compagnie d’Assurance Générale Co-operators, effective December 31, 2021.
+* CorePointe Insurance Company Canada ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective May 20, 2025.
+* The Credit Life Insurance Company changed its name to Union Fidelity Life Insurance Company effective June 13, 1994.
+* Croatian Fraternal Union of America ceased transacting business in Canada. The Company's order to insure in Canada risks was revoked effective December 16, 2020.
+* Crown Life Insurance Company of Canada and The Canada Life Assurance Company amalgamated and were continued as one mutual company under the name The Canada Life Assurance Company effective July 1, 1999 at 12:01 a.m.
+* CT Direct Insurance Inc. changed its name to TD General Insurance Company effective September 1, 2000.
+* CUMIS Insurance Society, Inc. ceased transacting business in Canada. The Company's order to insure in Canada risks was revoked effective January 1, 2000.
+* CUNA Mutual Insurance Society changed its name to CMFG Life Insurance Company effective March 1, 2012.
+
+### D
+
+* DaimlerChrysler Insurance Company changed the name under which it insures in Canada risks to Chrysler Insurance Company effective January 1, 2009.
+* Darwin National Assurance Company changed the name under which it insures in Canada risks to Allied World Specialty Insurance Company effective May 7, 2015.
+* DAS Legal Protection Insurance Company Limited and Temple Insurance Company amalgamated and were continued as one company under the name Temple Insurance Company effective August 9, 2018.
+* Definity Financial Corporation was approved to discontinue under the Insurance Companies Act and continue under the Canada Business Corporations Act effective December 11, 2023.
+* Definity Insurance Company, The Missisquoi Insurance Company, Perth Insurance Company, and Waterloo Insurance Company amalgamated and continued as one company under the name Definity Insurance Company, effective January 1, 2024.
+* The Dominion Insurance Corporation was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on September 6, 1995 under the name CICAN II Investment Holding Corp.
+* The Dominion Life Assurance Company has been winding up under the provisions of the Winding-up and Restructuring Act since December 1986. Accordingly, the company is not subject to the Insurance Companies Act.
+
+### E
+
+* Eagle Star Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian liabilities with the Canadian insurer, Omega General Insurance Company. The company's order to insure in Canada risks was deemed revoked effective February 4, 2011.
+* Eaton Insurance Company: An order was issued December 19, 1989 winding up Eaton Insurance Company.
+* Echelon General Insurance Company changed its name to Echelon Insurance effective April 17, 2015.
+* Economical Holdings Corporation changed its name to Definity Financial Corporation effective August 12, 2021.
+* Economical Mutual Insurance Company changed its name to Definity Insurance Company effective December 18, 2021.
+* Electrical Workers' Benefit Association ceased to exist as at December 31, 1991.
+* Electric Insurance Company changed the corporate name under which it underwrites risks in Canada to RiverStone International Insurance, Inc., effective August 2, 2024.
+* Emmco Insurance Company changed its name to Associates Insurance Company effective October 30, 1986.
+* Employers Insurance of Wausau a Mutual Company changed its name to Employers Insurance Company of Wausau effective February 13, 2002.
+* Employers Reinsurance Corporation changed its name to Westport Insurance Corporation effective January 1, 2008.
+* Endurance Reinsurance Corporation of America ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with Omega General Insurance Company. The company's order to insure in Canada risks was revoked effective July 13, 2012.
+* English & American Insurance Company Limited's order to insure in Canada risks was revoked effective October 6, 1993, and the company is being wound up under the provisions of the Winding-Up Act.
+* Ennia Insurance Company (U.K.) Limited changed its name to Aegon Insurance Company (U.K.) Limited effective May 3, 1985.
+* The Equitable General Insurance Company was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name 10482323 Canada Inc. effective December 8, 2017.
+* Equitable Financial Life Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with Assumption Mutual Life Insurance Company. The company's order to insure in Canada risks was revoked effective August 22, 2022.
+* ERC Frankona Rückversicherungs-Aktien-Gesellschaft changed its name to GE Frankona Rückversicherungs-Aktiengesellschaft effective April 1, 2001.
+* The Equitable Life Assurance Society of the United States changed its name to AXA Equitable Life Insurance Company effective September 7, 2004.
+* Euler American Credit Indemnity Company changed its name to Euler Hermes American Credit Indemnity Company effective April 30, 2007.
+* Euler Hermes American Credit Indemnity Company changed its name to Euler Hermes North America Insurance Company effective March 5, 2012.
+
+### F
+
+* FaithLife Financial changed it name to Serenia Life Financial, effective December 3, 2025.
+* Federated Mutual Insurance Company's order to insure in Canada risks was revoked, at the company's request, December 31, 1992.
+* Federation Insurance Company of Canada changed its name to, in English, Sonnet Insurance Company and, in French, Compagnie d'assurance Sonnet effective January 1, 2016.
+* Federated Insurnace Company of Canada changed head office location from Manitoba to Ontairo, effective August 14, 2023.
+* Fidelity Insurance Company of Canada changed its name to USF&G Insurance Company of Canada effective June 1, 1985.
+* Fidelity Investments Insurance Company of Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name Fidelity FIICC Ltd. effective December 31, 2009.
+* Fidelity Investments Life Insurance Company ceased transacting business in Canada and transferred its Canadian policy liabilities to Fidelity Investments Insurance Company of Canada. The company's order to insure in Canada risks was revoked effective April 18, 2007.
+* Fidelity National Title Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with Chicago Title Insurance Company. The company's order to insure in Canada risks was deemed revoked effective December 20, 2013.
+* Financial Life Assurance Company of Canada ceased transacting business in Canada. Letters patent of dissolution were issued effective March 1, 2004.
+* Finial Reinsurance Company (formerly known as Converium Reinsurance (North America) Inc.) ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with National Liability & Fire Insurance Company. The company's order to insure in Canada risks was deemed revoked effective February 28, 2014.
+* The Fire Insurance Company of Canada changed its name to Legacy General Insurance Company effective January 1, 1994.
+* Fireman's Fund Insurance Company of Canada changed its name to Wellington Insurance Company effective March 1, 1985.
+* Fireman's Fund Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective March 19, 1997.
+* First Allmerica Financial Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was deemed revoked effective July 29, 2011.
+* The First Catholic Slovak Ladies Association of the United States of America ceased transacting business in Canada and transferred its Canadian policies to Toronto Mutual Life Insurance Company effective January 1, 1999. The society's order to insure in Canada risks was revoked effective February 15, 2002.
+* The First Catholic Slovak Union of the United States of America and Canada ceased transacting business in Canada and transferred its Canadian liabilities to Toronto Mutual Life Insurance Company effective January 1, 1999. The society's order to insure in Canada risks was revoked effective September 9, 2002.
+* First National Insurance Company of America ceased transacting business in Canada and transferred its Canadian policies to Dominion of Canada General Insurance Company. The company's order to insure in Canada risks was revoked effective October 18, 2001.
+* Folksamerica National Reinsurance Company ceased transacting business in Canada. The Company's order to insure in Canada risks was revoked effective December 31, 1996.
+* Folksamerica Reinsurance Company changed its name to White Mountains Reinsurance Company effective July 28, 2008.
+* Ford Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective November 29, 2002.
+* Foremost Insurance Company Grand Rapids, Michigan's order to insure in Canada risks was revoked, at the company's request, effective August 31, 1995.
+* Forethought Life Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Unity Life of Canada. The company's order to insure in Canada risks was revoked effective December 21, 2009.
+* Fortis Benefits Insurance Company, the name under which Union Security Insurance Company was authorized to insure in Canada risks, ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Assurant Life of Canada. The company's order to insure in Canada risks was revoked effective December 20, 2006.
+* Fortress Insurance Company of America, having transferred its Canadian liabilities to Marine Indemnity Insurance Company of America, ceased to be registered effective December 10, 1993.
+* Foresters Indemnity Company was approved to discontinue under the Insurance Companies Act and continue under the Canada Business Corporations Act effective May 18, 2023.
+* The Franklin Life Insurance Company ceased transacting business in Canada and transferred its remaining Canadian policies to Colonia Life Insurance Company. The company's order to insure in Canada risks was revoked effective December 31, 1996.
+* Frankona Rückversicherungs-Aktien-Gesellschaft changed its name to ERC Frankona Rückversicherungs-Aktien-Gesellschaft effective April 1, 1999.
+
+### G
+
+* Galt Insurance Company, Langdon Insurance Company and Economical Mutual Insurance Company amalgamated and were continued as one company under the name Economical Mutual Insurance Company effective December 30, 2000.
+* GAN Canada Insurance Company amalgamated its property and business with that of Traders General Insurance Company effective December 31, 1999, the continuing company being Traders General Insurance Company.
+* Gan Eurocourtage changed its name to Groupama S.A. effective February 28, 2013.
+* GAN General Insurance Company, formerly a provincial insurer based in Ontario, was issued letters patent continuing it as a company under the Insurance Companies Act, and concurrently amalgamated its property and business with CGU Insurance Company of Canada effective December 31, 1999, the continuing company being CGU Insurance Company of Canada.
+* Gan Incendie Accidents Compagnie Française, having transferred its Canadian liabilities to Gan Canada Insurance Company, ceased to be registered effective January 1, 1988.
+* GAN VIE Compagnie Française d'Assurances sur la Vie changed its name to GAN Assurances Vie Compagnie française d'assurances vie mixte effective June 24, 2002.
+* GCAN Insurance Company, formerly a provincial insurer based in Ontario, was issued letters patent continuing it as a company under the Insurance Companies Act, and concurrently amalgamated its property and business with Royal & Sun Alliance Insurance Company of Canada effective January 1, 2012, the continuing company being Royal & Sun Alliance Insurance Company of Canada.
+* GE Capital Casualty Company, Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on September 23, 2002 under the name GE4C INC.
+* GE Capital Mortgage Insurance Company (Canada) changed its name to Genworth Financial Mortgage Insurance Company Canada effective November 1, 2004.
+* GE Frankona Rückversicherungs-Aktiengesellschaft changed its name to Swiss Re Frankona Rückversicherungs-Aktiengesellschaft effective December 22, 2006.
+* GE Reinsurance Corporation ceased transacting business in Canada and transferred its Canadian liabilities to Employers Reinsurance Corporation. The company's order to insure in Canada risks was revoked effective December 30, 2003.
+* General & Cologne Life Re of America changed its name to General Re Life Corporation effective April 5, 2005.
+* The General Accident Assurance Company of Canada changed its name to CGU Insurance Company of Canada effective March 31, 1999.
+* General Accident Indemnity Company amalgamated its property and business with that of Prudasco Assurance Company effective January 1, 1994, the continuing or combined company being General Accident Indemnity Company.
+* The General Accident Indemnity Company amalgamated its property and business with that of The General Accident Assurance Company of Canada effective December 31, 1994, the continuing or combined company being The General Accident Assurance Company of Canada.
+* General American Life Insurance Company merged with Metropolitan Tower Life Insurance Company effective April 27, 2018, the continuing company being Metropolitan Tower Life Insurance Company. General American Life Insurance Company ceased to exist as an entity on April 27, 2018, following a merger under the laws of the State of Delaware and, accordingly, ceased to be governed by the Insurance Companies Act.
+* General American Life Reinsurance Company of Canada changed its name to RGA Life Reinsurance Company of Canada effective September 18, 1995.
+* General Insurance Company of America ceased transacting business in Canada and transferred its Canadian policies to Dominion of Canada General Insurance Company. The company's order to insure in Canada risks was revoked effective October 18, 2001.
+* General Insurance Company of Royal Bank of Canada changed its name to RBC General Insurance Company effective August 16, 1999.
+* General Reassurance Corporation changed its name to Life Reassurance Corporation of America effective August 3, 1989.
+* General Security Assurance Corporation of New York changed its name to SCOR Reinsurance Company effective March 31, 1994.
+* General Security Insurance Company of Canada, following the passage of a Special Act by the Senate of Canada, was continued by Letters Patent of Continuation as an insurance company under the laws of the Province of Quebec effective December 1, 1994, under the name General Security Insurance Company of Canada Inc.
+* Genworth Financial Mortgage Insurance Company Canada and MIC Holdings H Company Limited amalgamated and continued as one company under the name Genworth Financial Mortgage Insurance Company Canada effective on December 11, 2018.
+* Genworth Financial Mortgage Insurance Company Canada changed its name to Sagen Mortgage Insurance Company Canada effective June 1, 2021.
+* Gerber Life Insurance Company ceased transacting business in Canada. The company’s order to insure in Canada risks was revoked effective November 10, 2021.
+* Giraffe & Friends Life Insurance Company was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name 9733906 Canada Inc. effective August 11, 2016.
+* Glacier National Life Assurance Company changed its name to Scotia Life Insurance Company effective December 16, 1994.
+* Globe Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective May 19, 1995.
+* Gold Circle Insurance Company dissolved effective June 24, 2010.
+* Grain Insurance and Guarantee Company changed its name to Wynward Insurance Group effective May 1, 2013.
+* Granite Insurance Company was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on December 11, 2015 under the name Banff Wing Holdings Inc.
+* Great American Insurance Company of New York ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian liabilities with the Canadian branch of Great American Insurance Company. The company's order to insure in Canada risks was deemed revoked effective January 28, 2011.
+* The Great Eastern Insurance Company amalgamated its property and business with that of London-Canada Insurance Company effective December 31, 1987, the continuing or combined company being Hartford Insurance Company of Canada.
+* The Great Lakes Reinsurance Company changed its name to Temple Insurance Company, effective April 2, 1998.
+* The Great-West Life Assurance Company, London Life Insurance Company, Canada Life Financial Corporation and London Insurance Group Inc. amalgamated and continued as one company under the name The Canada Life Assurance Company effective January 1, 2020.
+* Groupama GAN Vie ceased transacting business in Canada, under the name GAN Assurances Vie Compagnie française d'assurances vie mixte, and transferred its remaining Canadian policy liabilities to L'Union-vie, compagnie mutuelle d'assurance. The company's order to insure in Canada risks was revoked effective December 13, 2016.
+* Groupama S.A. ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective June 23, 2016.
+* Groupama Transport changed its name to Gan Eurocourtage effective January 30, 2012.
+* The Guarantee Company of North America and 11554280 Canada Inc. amalgamated and continued as one company under the name The Guarantee Company of North America effective January 1, 2020.
+* The Guarantee Company of North America, 4082117 Canada Inc. and 4414667 Canada Inc. amalgamated and continued as one company under the name The Guarantee Company of North America effective December 31, 2008.
+* Guardian Insurance Company of Canada changed its name to The Nordic Insurance Company of Canada effective February 1, 1999.
+* Guildhall Insurance Company's order to insure in Canada risks was revoked, at the company's request, effective October 23, 1995.
+
+### H
+
+* The Halifax Insurance Company, a body corporate incorporated under the laws of the province of Nova Scotia, was continued as a company as a company under the Insurance Companies Act effective June 1, 2001.
+* The Halifax Insurance Company changed its name to ING Insurance Company of Canada effective January 1, 2002.
+* The Hannover Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with Omega General Insurance Company. The company's order to insure in Canada risks was revoked effective June 22, 2012.
+* Hannover Re (Ireland) Designated Activity Company changed the name under which it insures in Canada risks to Hannover Re (Ireland) DAC effective October 31, 2016.
+* Hannover Rückversicherung AG changed its name to Hannover Rück SE effective May 3, 2013.
+* Hannover Ruckversicherungs-Aktiengesellschaft changed its name to Hannover Rückversicherung AG effective April 30, 2004.
+* The Hartford Fire Insurance Company restated its name to Hartford Fire Insurance Company effective October 31, 2003.
+* Hartford Insurance Company of Canada changed its name to Langdon Insurance Company effective August 1, 2001
+* Harford Life Insurance Company changed the name under which it insures in Canada risks to Talcott Resolution Life Insurance Company effective August 14, 2018.
+* Hartford Life Insurance Company of Canada and AIG Life Insurance Company of Canada amalgamated and were continued as one company under the name AIG Life Insurance Company of Canada effective September 30, 1999.
+* The Hartford Steam Boiler Inspection and Insurance Company, having transferred its Canadian liabilities to The Boiler Inspection and Insurance Company of Canada, ceased to be registered effective December 31, 1988.
+* Hartford Life Insurance Company changed the corporate name under which it underwrites risks in Canada to Talcott Resolution Life Insurance Company, effective August 14, 2018.
+* HDI-Gerling Industrie Versicherung AG (now known as HDI Global SE) changed the name under which it insures in Canada risks to HDI Global SE Canada Branch, effective February 4, 2016.
+* Heartland Farm Mutual Inc. and The Kings Mutual Insurance Company amalgamated and were continued as one company under the name Heartland Farm Mutual Inc., effective August 1, 2021.
+* Helvetia Swiss Fire Insurance Company, Limited changed its name to Helvetia Swiss Insurance Company, Limited effective June 19, 1989.
+* Helvetia Swiss Insurance Company Limited ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 31, 2000.
+* Herald Insurance Company's order to commence and carry on business of Herald Insurance Company was revoked, at the request of the company, effective December 17, 1992.
+* Highlands Insurance Company has discontinued its insurance business in Canada. The company's order to insure in Canada risks was revoked effective July 6, 2007.
+* The Home Insurance Company – On June 18, 2003 the Superintendent of Financial Institutions took control of the Canadian branch of The Home Insurance Company. The Ontario Superior Court of Justice subsequently appointed Deloitte and Touche Inc. as provisional liquidator of the company.
+* Household Life Insurance Company changed the name under which it insures in Canada risks to Pavonia Life Insurance Company of Michigan effective December 23, 2013.
+* HSBC Bank USA, National Association ceased transacting business in Canada. The company's order to insure in Canada risks was deemed revoked effective July 23, 2014.
+* HSBC Canadian Direct Insurance Incorporated changed its name to Canadian Direct Insurance Incorporated effective April 30, 2004.
+* The Hungarian Reformed Federation of America ceased transacting business in Canada and transferred its Canadian policies to Toronto Mutual Life Insurance Company. The society's order to insure in Canada risks was revoked effective May 28, 1996.
+
+### I
+
+* ICAROM Public Limited Company ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with Omega General Insurance Company. The company's order to insure in Canada risks was deemed revoked effective December 13, 2012.
+* Ideal Mutual Insurance Company's certificate of registry was withdrawn effective February 15, 1985, and the company is being wound up under the provisions of the Winding-Up Act.
+* The Imperial Life Assurance Company of Canada and its wholly-owned subsidiary, Laurentian Life Insurance Company of Canada, amalgamated and were continued as one company under the name The Imperial Life Assurance Company of Canada effective January 1, 1993.
+* The Imperial Life Assurance Company of Canada, following the passage of a Special Act by the Senate of Canada, was continued as a corporation under the laws of the Province of Quebec effective September 10, 2001. Upon continuation under those laws, it ceases to be governed by the Insurance Companies Act.
+* INA Insurance Company of Canada changed its name to CIGNA Insurance Company of Canada effective September 1, 1985.
+* Industrial Alliance Pacific, General Insurance Corporation, which was incorporated under the federal Insurance Companies Act, was continued effective December 20, 2011 as a corporation under the laws of the Province of Quebec.
+* Industrial Alliance Pacific Insurance and Financial Services Inc., which was incorporated under the federal Insurance Companies Act, was continued effective May 25, 2012 as a corporation under the laws of the Province of Quebec.
+* Industrial-Alliance Pacific Life Insurance Company changed its name to Industrial Alliance Pacific Insurance and Financial Services Inc. effective July 17, 2007.
+* Industrial Credit Insurance Company: At the request of the company, its certificate of registry was discontinued effective October 5, 1984.
+* ING Insurance Company of Canada changed its name to Intact Insurance Company effective March 10, 2009.
+* ING Insurance Company of Canada, and ING Western Union Insurance Company amalgamated and were continued as one company under the name ING Insurance Company of Canada effective July 1, 2003.
+* ING Novex Insurance Company of Canada changed its name to Novex Insurance Company effective March 10, 2009.
+* ING Wellington Insurance Company, The Commerce Group Insurance Company and ING Insurance Company of Canada amalgamated and were continued as one company under the name ING Insurance Company of Canada effective July 1, 2002.
+* Insurance Company of North America, having transferred its Canadian liabilities to CIGNA Insurance Company of Canada, ceased to be registered effective February 28, 1993.
+* The Insurance Corporation of Ireland Limited changed its name to ICAROM Public Limited Company effective December 20, 1991.
+* The Insurance Corporation of New York ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective October 22, 2009.
+* Intact Insurance Company, AXA Pacific Insurance Company and AXA Insurance (Canada) were amalgamated and continued as one company under the name in English, Intact Insurance Company and, in French, Intact Compagnie d'assurance effective on January 1, 2014.
+* Intact Insurance Company and The Guarantee Company of North America were amalgamated and continued as one company under the name in English, Intact Insurance Company and, in French, Intact Compagnie d'assurance effective on April 1, 2021.
+* International Insurance Company of Hannover Limited changed its name to International Insurance Company of Hannover Plc effective August 30, 2013.
+* International Insurance Company of Hannover Plc changed its name under which it insures in Canada risks to International Insurance Company of Hannover SE effective September 3, 2014.
+* International Insurance Company of Hannover SE changed its name under which it insures in Canada risks to HDI Global Specialty SE effective December 14, 2018.
+* International Insurance Company Limited under the provisions of the Winding Up Act, appointing Ferdinand Alfieri, 1 Place Ville Marie, Suite 2115, Montréal, Quebec H3B 2C6, as provisional liquidator of the company to proceed with the winding-up of the business in Canada of the company.
+* Intact Insurance Company and Ascentus Insurance Ltd. amalgamated and continued as one company under the name Intact Insurance Company, effective January 1, 2023.
+* Intact Insurance Company, Western Assurance Company, and 13130126 Canada Inc. amalgamated and continued as one company under the name Intact Insurance Company, effective January 1, 2025.
+* Intact Insurance Company, Royal & Sun Alliance Insurance Company of Canada, and 13130100 Canada Inc. amalgamated and continued as one company under the name Intact Insurance Company, effective January 1, 2026.
+* Ironshore Insurance Ltd. changed the name under which it insures in Canada risks to, in English, Liberty Specialty Markets Bermuda Limited and, in French, Marchés Spécialisés Liberté Bermudes Limitée effective February 19, 2019.
+* ITT Hartford Life Insurance Company of Canada changed its name to Hartford Life Insurance Company of Canada effective October 1, 1997.
+
+### J
+
+* J.C. Penney Life Insurance Company changed its name to Stonebridge Life Insurance Company effective August 19, 2002.
+* Jewelers Mutual Insurance Company changed the name under which it insures in Canada risks to, in English, Jewelers Mutual Insurance Company, SI and, in French, Jewelers, Compagnie d'Assurance Mutuelle par actions effective March 24, 2020.
+* John Alden Life Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Assurant Life of Canada. The company's order to insure in Canada risks was revoked effective December 20, 2006.
+* John Deere Insurance Company of Canada changed its name to Echelon General Insurance Company, effective March 5, 1998.
+* John Hancock Life Insurance Company ceased transacting business in Canada and has reinsured all of its Canadian policy liabilities with Manulife Canada Ltd. The company's order to insure in Canada risks was revoked effective June 25, 2009.
+* John Hancock Mutual Life Insurance Company changed its name to John Hancock Life Insurance Company effective February 1, 2000.
+
+### K
+
+* Kanata Reinsurance Company changed its name to Trygg-Hansa Reinsurance Company of Canada effective January 28, 1991.
+* Kansa General Insurance Company Limited changed its name to Kansa General International Insurance Company Limited effective March 30, 1990.
+* Kansa General International Insurance Company Limited: On March 8, 1995 the court ordered the winding-up of Kansa General.
+* Kemper Reinsurance Company changed its name to GE Reinsurance Corporation effective May 19, 1999.
+* Kent General Insurance Corporation amalgamated its property and business with that of The Citadel General Assurance Company effective November 30, 1997, the continuing company being The Citadel General Assurance Company.
+* The Kings Mutual Insurance Company and The Pictou County Farmers' Mutual Fire Insurance Company amalgamated and were continued as one mutual company under the name The Kings Mutual Insurance Company effective January 1, 2016.
+
+### L
+
+* Langdon Insurance Company and Economical Mutual Insurance Company amalgamated and were continued as one company under the name Economical Mutual Insurance Company effective January 1, 2004.
+* Langdon Insurance Company, Galt Insurance Company and Economical Mutual Insurance Company amalgamated and were continued as one company under the name Economical Mutual Insurance Company effective December 30, 2000.
+* Laurentian Casualty Company of Canada changed its French name to Laurentienne Casualty Compagnie d'Assurance de Dommages du Canada effective February 21, 1990.
+* Laurentian Casualty Company of Canada amalgamated its property and business with that of Laurentian Pacific Insurance Company and that of The Laurentian Shield Insurance Company effective February 27, 1992, the continuing or combined company being Laurentian P&C Insurance Company.
+* Laurentian P&C Insurance Company changed its name to Boreal Property & Casualty Insurance Company effective December 9, 1993.
+* Laurentian Pacific Insurance Company amalgamated its property and business with that of Laurentian Casualty Company of Canada and that of The Laurentian Shield Insurance Company effective February 27, 1992, the continuing or combined company being Laurentian P&C Insurance Company.
+* The Laurentian Shield Insurance Company amalgamated its property and business with that of Laurentian Casualty Company of Canada and that of Laurentian Pacific Insurance Company effective February 27, 1992, the continuing or combined company being Laurentian P&C Insurance Company.
+* Laurier Life Insurance Company and The Imperial Life Assurance Company of Canada amalgamated and were continued as one company under the name The Imperial Life Assurance Company of Canada effective January 1, 1998.
+* Lawyers Title Insurance Corporation changed its name to Fidelity National Title Insurance Company effective June 30, 2010.
+* Le Mans Ré changed its name to XL Re Europe, Canada Branch effective December 15, 2003.
+* Legacy General Insurance Company changed its name to Canadian Premier General Insurance Company effective October 31, 2018.
+* Liberty Life Assurance Company of Boston ceased transacting business in Canada. The company’s order to insure in Canada risks was revoked effective September 29, 2021.
+* Liberty Insurance Company of Canada changed its name to TD Home and Auto Insurance Company effective March 7, 2005.
+* Liberty Mutual Fire Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Liberty Mutual Insurance Company. The company's order to insure in Canada risks was revoked effective November 22, 2007.
+* Liberty Specialty Markets Bermuda Limited ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Liberty Mutual Insurance Company. The company's order to insure in Canada risks was revoked effective January 28, 2020.
+* Life Insurance Company of Royal Bank of Canada changed its name to RBC Life Insurance Company effective October 4, 1999.
+* Life Investors Insurance Company of America ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Canadian Premier Life Insurance Company. The company's order to insure in Canada risks was revoked effective September 19, 2008.
+* Life Reassurance Corporation of America changed its name to Swiss Re Life & Health America Inc. effective March 8, 2001.
+* The Lincoln National Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective April 30, 2006.
+* Lombard General Insurance Company of Canada changed its name to Northbridge General Insurance Corporation effective October 7, 2011.
+* Lombard Insurance Company changed its name to Northbridge Personal Insurance Corporation effective October 7, 2011.
+* London and Midland General Insurance Company was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on November 17, 2008 under the name 4499441 Canada Inc.
+* The London Assurance ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 1, 1997.
+* London-Canada Insurance Company amalgamated its property and business with that of The Great Eastern Insurance Company effective December 31, 1987, the continuing or combined company being Hartford Insurance Company of Canada.
+* London Guarantee Insurance Company changed its name to St. Paul Guarantee Insurance Company effective January 1, 2003.
+* Longroup Insurance Company changed its name to London Guarantee Insurance Company effective June 12, 1995.
+* Lumbermens Mutual Casualty Company ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of the Canadian branch with Omega General Insurance Company. The company's order to insure in Canada risks was deemed revoked effective July 29, 2011.
+* Lumbermen's Underwriting Alliance ceased transacting business in Canada. The company's order to insure in Canada risks was deemed revoked effective December 30, 2015.
+* Lutheran Life Insurance Society of Canada changed its name to FaithLife Financial effective October 17, 2008.
+
+### M
+
+* Manulife Canada Ltd. was continued under the Canada Business Corporations Act under the name 8732868 Canada Limited effective December 30, 2013.
+* Mapfre Reinsurance Corporation ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Mapfre Re Compania de Reaseguros, S.A. The company's order to insure in Canada risks was revoked effective May 29, 2008.
+* Marine Indemnity Insurance Company of America ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 31, 1997.
+* Maritime Insurance Company Limited ceased transacting business in Canada and transferred its Canadian liabilities to Continental Casualty Company. The company's order to insure in Canada risks was revoked effective March 11, 2003.
+* The Maritime Life Assurance Company was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name 4274946 Canada Inc., effective December 31, 2004.
+* The Maritime Life Assurance Company, a company incorporated under The Maritime Life Assurance Company Act, Statutes of Nova Scotia, 1986, c 96 was continued as a company under the Insurance Companies Act effective December 24, 1999.
+* Markel Insurance Company of Canada changed its name to Northbridge Commercial Insurance Corporation effective October 7, 2011.
+* Maryland Casualty Company ceased transacting business in Canada and transferred its Canadian liabilities to Zurich Insurance Company. The company's order to insure in Canada risks was revoked effective December 31, 2002.
+* Massachusetts General Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective October 18, 1993.
+* Massachusetts Indemnity and Life Insurance Company changed its name to Primerica Life Insurance Company effective July 1, 1992.
+* Massachusetts Mutual Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was deemed revoked effective December 6, 2013.
+* MD Life Insurance Company and Scotia Life Insurance Company amalgamated and continued as one company under the name MD Life Insurance Company, effective November 1, 2024.
+* The Mercantile and General Life Reassurance Company of Canada and Swiss Re Life & Health Canada amalgamated and were continued as one company under the name Swiss Re Life & Health Canada effective July 1, 1997.
+* The Mercantile and General Reinsurance Company of Canada amalgamated its property and business with that of Swiss Reinsurance Company Canada effective July 1, 1997, the continuing company being Swiss Reinsurance Company Canada.
+* The Mercantile and General Reinsurance Company plc: At the company's request, its order to insure in Canada risk was revoked effective December 31, 1992.
+* MetLife Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on June 30, 2010 under the name MetLife Canada Inc.
+* MetLife Insurance Company of Connecticut ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with MetLife Canada. The company's order to insure in Canada risks was revoked effective February 29, 2008.
+* Metropolitan General Insurance Company, following the passage of a Special Act by the Senate of Canada, was continued by Letters Patent of Continuation as an insurance company under the laws of the Province of Quebec effective December 19, 1991.
+* Metropolitan Insurance Company amalgamated its property and business with that of Metropolitan Life Insurance Company of Canada effective December 30, 1992, the continuing or continued company being Metropolitan Life Insurance Company of Canada.
+* Metropolitan Life Insurance Company of Canada and The Mutual Life Assurance Company of Canada amalgamated and were continued as one mutual company under the name The Mutual Life Assurance Company of Canada effective December 31, 1998 at 11:59 p.m.
+* MFC Insurance Company Limited and The Manufacturers Life Insurance Company amalgamated and were continued as one company under the name The Manufacturers Life Insurance Company effective December 30, 2004.
+* MIC Life Insurance Corporation ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective November 21, 2002.
+* Midland Insurance Company's certificate of registry was withdrawn effective April 10, 1986, and the company is being wound up under the provisions of the Winding Up Act.
+* Minnesota Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was deemed revoked effective February 18, 2011.
+* The Minnesota Mutual Life Insurance Company changed its name to Minnesota Life Insurance Company effective April 30, 1999.
+* Mission American Insurance Company, having disposed of its liabilities in Canada, ceased to be registered effective March 31, 1991.
+* The Missisquoi and Rouville Insurance Company changed its name to the Missisquoi Insurance Company effective November 6, 1989.
+* Mitsui Marine and Fire Insurance Company, Limited and The Sumitomo Marine and Fire Insurance Company, Limited amalgamated and were continued as one company under the name Mitsui Sumitomo Insurance Company, Limited effective October 1, 2001.
+* MONY Reinsurance Corporation changed its name to Folksamerica National Reinsurance Company effective September 24, 1992.
+* The Mortgage Insurance Company of Canada changed its name to 12345 Insurance Company effective June 9, 2016.
+* The Mutual Life Assurance Company of Canada changed its name to Clarica Life Insurance Company, effective July 21, 1999 at 12:01 a.m., as part of the conversion of the company into a company with common shares.
+* The Mutual Life Insurance Company of New York ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective November 20, 2000.
+* Mutual of Omaha Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective November 20, 2002.
+* Mutuelle Générale Française Accidents changed its name to Les Mutuelles du Mans I.A.R.D. effective March 4, 1988.
+* La Mutuelle du Mans Assurances I.A.R.D. ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective June 30, 2000.
+* La Mutuelle du Mans Assurances Vie ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective September 5, 2003.
+* Les Mutuelles du Mans I.A.R.D. changed its name to La Mutuelle Du Mans Assurances I.A.R.D. effective March 5, 1991.
+
+### N
+
+* NAC Reinsurance Corporation changed its name to XL Reinsurance America Inc. effective October 22, 2001.
+* National Employers' Mutual General Insurance Association, Limited's certificate of registry was withdrawn effective December 11, 1990, and the company is being wound up under the provisions of the Winding Up Act.
+* National Fidelity Life Insurance Company, the name under which Bankers National Life Insurance Company was authorized to insure in Canada risks, changed its name to Washington National Insurance Company effective June 2, 2005.
+* National Fraternal Society of the Deaf ceased transacting business in Canada. The society's order to insure in Canada risks was revoked effective April 30, 1996. Policies were either surrendered or transferred to Croatian Fraternal Union of America.
+* National Guaranty Mortgage Insurance Company ceased to exist effective October 29, 2009 as the company did not seek an Order to commence and carry on business within the required one year after issuance of letters patent.
+* The National Reinsurance Company of Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act effective December 22, 1994 under the name 3100715 Canada Inc.
+* National Reinsurance Corporation ceased transacting business in Canada and transferred its Canadian liabilities to General Reinsurance Corporation. The company's order to insure in Canada risks was revoked effective December 31, 2003.
+* NCMIC Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective March 15, 2006.
+* Nederlandse Reassurantie Groep N.V. ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with NRG Victory Reinsurance Limited. The company's order to insure in Canada risks was revoked effective June 19, 2008.
+* New England Insurance Company (formerly New England Reinsurance Corporation), having transferred its Canadian policies to New England Reinsurance Corporation, formerly Tower Insurance Company of Connecticut, as of January 1, 1984.
+* New England Mutual Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective November 1, 1995.
+* New England Reinsurance Corporation changed its name to New England Insurance Company effective February 29, 1984.
+* New England Reinsurance Corporation, having transferred its Canadian liabilities to The Hartford Fire Insurance Company, ceased to be registered effective December 31, 1988.
+* New Hampshire Insurance Company ceased transacting business in Canada and transferred its Canadian liabilities to American Home Assurance Company. The company's order to insure in Canada risks was revoked effective September 5, 2003.
+* The New India Assurance Company, Limited ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective March 30, 2017.
+* New Rotterdam Insurance Company changed its name to UAP-NewRotterdam Insurance Company N.V. effective October 28, 1997.
+* New York Life Insurance Company of Canada and The Canada Life Assurance Company amalgamated and were continued as one company under the name The Canada Life Assurance Company effective April 1, 1994.
+* The New Zealand Insurance Company Limited, having transferred its Canadian liabilities to Christiania General Insurance Corporation, ceased to be registered effective March 31, 1991.
+* Niagara Fire Insurance Company ceased transacting business in Canada and transferred its Canadian policies to Continental Casualty Company. The company's order to insure in Canada risks was revoked effective December 21, 2001.
+* The Nippon Fire & Marine Insurance Company, Limited changed its name to NIPPONKOA Insurance Company, Limited effective April 1, 2001.
+* NN Life Insurance Company of Canada and Transamerica Life Insurance Company of Canada amalgamated and were continued as one company under the name Transamerica Life Canada effective December 31, 2000.
+* The Non-Marine Underwriters, Members of Lloyd's, London, England changed its name to Lloyd's Underwriters effective October 1, 1999.
+* Nordisk Reinsurance Company A/S ceased transacting business in Canada and transferred its Canadian liabilities to Employers Reinsurance Corporation. The company's order to insure in Canada risks was revoked effective December 30, 2003.
+* Norman Insurance Company Limited: At the company's request, the order to insure in Canada risks of Norman Insurance Company Limited was revoked effective December 31, 1992.
+* North American Benefit Association changed its name to Woman's Life Insurance Society effective January 1, 1996.
+* North American Company for Property and Casualty changed its name to NAC Reinsurance Corporation effective July 29, 1989.
+* The North American General Insurance Company's certificate of registry was withdrawn effective December 15, 1966, and the company is being wound up under the provisions of the Winding-up Act.
+* North American Life and Casualty Company changed its name to Allianz Life Insurance Company of North America as at March 31, 1993.
+* North American Life Assurance Company and The Manufacturers Life Insurance Company amalgamated and were continued as one mutual company under the name The Manufacturers Life Insurance Company effective January 1, 1996.
+* North American Reassurance Company changed its name to Swiss Re Life Company America effective December 19, 1996.
+* North American Reinsurance Corporation, having transferred its Canadian liabilities to Canadian Reinsurance Company, ceased to be registered effective December 27, 1991.
+* North American Specialty Insurance Company ceased transacting business in Canada and has reinsured all of its Canadian policies with Westport Insurance Corporation. The company's order to insure in Canada risks was revoked effective December 3, 2009.
+* The North Waterloo Farmers Mutual Insurance Company and Oxford Mutual Insurance Company were amalgamated and continued as one company under the name Heartland Farm Mutual Inc. effective January 1, 2016.
+* The North West Commercial Travellers' Association of Canada was continued under the Canada Not-for-profit Corporations Act effective March 2, 2012.
+* The North West Life Assurance Company of Canada changed its name to Industrial-Alliance Pacific Life Insurance Company effective September 1, 2000.
+* Northbridge General Insurance Corporation and Northbridge Commercial Insurance Corporation were amalgamated and continued as one company under the name in Northbridge General Insurance Corporation effective on January 1, 2017.
+* Northbridge General Insurance Corporation and Northbridge Indemnity Insurance Corporation were amalgamated and continued as one company under the name in English, Northbridge General Insurance Corporation and, in French, Société d'assurance générale Northbridge effective on January 1, 2014.
+* Northbridge Personal Insurance Corporation changed its name to Verassure Insurance Company effective May 31, 2018.
+* Northern Indemnity, Inc. amalgamated its property and business with that of Seaboard Surety Company of Canada effective January 1, 2000, the continuing company being Northern Indemnity, Inc. Northern Indemnity, Inc., St. Paul Guarantee Insurance Company, 3921042 Canada Inc., 3207692 Canada Limited, 3112675 Canada Limited and 176856 Canada Inc. amalgamated and were continued as one company under the name St. Paul Guarantee Insurance Company effective January 1, 2004.
+* Northumberland General Insurance Company amalgamated its property and business with that of The Strathcona General Insurance Company effective August 31, 1983, the continuing or combined company being Northumberland General Insurance Company.
+* Northumberland General Insurance Company's certificate of registry was not renewed effective July 5, 1985, and the company is being wound up under the provisions of the Winding-up Act.
+* Northwestern National Life Insurance Company changed its name to ReliaStar Life Insurance Company effective August 1, 1996.
+* Norwich Union Fire Insurance Society Limited ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective June 24, 1998.
+* Norwich Union Life Insurance Company (Canada) changed its name to AIG Assurance Canada effective October 1, 2001.
+* The Norwich Union Life Insurance Society ceased transacting business in Canada and transferred its Canadian policies to Norwich Union Life Insurance Company (Canada). The company's order to insure in Canada risks was revoked effective September 30, 1997.
+* Norwich Winterthur Reinsurance Corporation Limited changed its name to NW Reinsurance Corporation Limited effective November 5, 1992.
+* Nova Scotia General Insurance Company changed its name to Toronto Dominion General Insurance Company effective February 7, 1995.
+* NRG London Reinsurance Company Limited: At the company's request, its order to insure in Canada risks was revoked effective December 31, 1992.
+* NRG Victory Reinsurance Limited ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with National Liability & Fire Insurance Company. The company's order to insure in Canada risks was deemed revoked effective February 13, 2014.
+* NRG Victory Reinsurance Limited ceased transacting life insurance and accident and sickness insurance in Canada effective April 1, 1992.
+* NW Reinsurance Corporation Limited changed its name to Cavell Insurance Company Limited effective March 7, 2003.
+
+### O
+
+* Odyssey America Reinsurance Corporation changed its name to Odyssey Reinsurance Company effective April 13, 2011.
+* Odyssey Reinsurance Company of Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on December 2, 2002 under the name 4129768 CANADA INC.
+* Old Republic Insurance Company: At the company's request, the order to insure in Canada risks of Old Republic Insurance Company was revoked effective December 22, 1995.
+* Old Republic Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective September 1, 1993.
+* The Omaha Indemnity Company: At the company's request, the order to insure in Canada risks of The Omaha Indemnity Company was revoked effective January 25, 1994.
+* Omega General Insurance Company changed its name to Accelerant Insuance Company, effective November 8, 2023.
+* The Order of Italo-Canadians was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Not-for-profit Corporations Act, effective October 29, 2014.
+* The Orion Insurance Company Limited changed its name to The Orion Insurance Company PLC effective September 11, 1990.
+* The Orion Insurance Company PLC: On October 27, 1994 the Superintendent of Financial Institutions took control of The Orion Insurance Company PLC and on February 10, 1995 the court ordered the winding-up of The Orion Insurance Company PLC under the provisions of the Winding Up Act, appointing the Superintendent as liquidator of the company. Deloitte & Touche Inc., acting as agent for the liquidator, is proceeding with the winding up of the company's affairs.
+* The Order of United Commercial Travelers of America ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective May 24, 2022.
+* OTIP/RAEO Insurance Company Inc. changed its name to Everest Insurance Company of Canada, effective December 31, 1996.
+
+### P
+
+* Pacific Employers Insurance Company, having transferred its Canadian liabilities to CIGNA Insurance Company of Canada, ceased to be registered effective October 27, 1993.
+* Pafco International Insurance Company changed its name to Granite Insurance Company effective June 25, 1991.
+* Paragon Insurance Company of Canada changed its name to Laurentian Pacific Insurance Company effective May 3, 1984.
+* Paris Re S.A. changed its name to PARIS RE effective June 20, 2007.
+* PartnerRe SA ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Partner Reinsurance Europe Limited and Partner Reinsurance Company Limited. The company's order to insure in Canada risks was revoked effective November 24, 2009.
+* Partner Reinsurance Europe Public Limited Company changed its name to Partner Reinsurance Europe SE effective February 27, 2013.
+* Partner Reinsurance Europe Public Limited Company ceased transacting business in Canada under the name Partner Reinsurance Europe Limited, and all the risks undertaken by the Canadian branch were reinsured, on an assumption basis, by the Canadian branch of Partner Reinsurance Company of the U.S. The company’s order to insure in Canada risks was deemed revoked effective November 8, 2011.
+* Partner Reinsurance Europe SE ceased transacting business in Canada and has reinsured, on an assumption basis, all the risks remaining on the books of its Canadian branch with Partner Reinsurance Company Ltd. The company's order to insure in Canada risks was revoked effective August 7, 2015.
+* The Patriot Life Insurance Company was the name assumed by Balboa Life Insurance Company to transact business in Canada. Effective January 9, 1992, the company has been transacting business under its own name.
+* The Paul Revere Life Insurance Company ceased transacting business in Canada and transferred its Canadian policies to Provident Life and Accident Insurance Company effective December 31, 2000. The company's order to insure in Canada risks was revoked effective June 11, 2002.
+* Pearl Assurance Limited ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian liabilities with Omega General Insurance Company. The company's order to insure in Canada risks was deemed revoked effective December 1, 2011.
+* Partner Reinsurance Company Ltd. ceased transacting business in Canada and reinsured, on an assumption basis, all of its Canadian policy liabilities with PartnerRe Life Reinsurance Company of Canada. The company's order to insure in Canada risks was revoked effective August 22, 2022.
+* Pacific Life Re Limited ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective September 14, 2022.
+* Peopleplus Insurance Company was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on May 3, 2002 under the name PP CONTINUANCE CO. INC.
+* The Penn Mutual Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective July 9, 1999.
+* Penncorp Life Insurance Company of Hannover Limited changed its name to La Capitale Financial Security Insurance Company effective January 1, 2014.
+* Pennsylvania Life Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Penncorp Life Insurance Company. The company's order to insure in Canada risks was revoked effective March 31, 2009.
+* The Personal Direct Insurance Company of Canada changed its name to Certas Direct Insurance Company effective March 14, 2001
+* Philadelphia Manufacturers Mutual Insurance Company amalgamated its property and business with Arkwright-Boston Manufacturers Mutual Insurance Company effective September 7, 1984, the continuing or combined company being Arkwright-Boston Manufacturers Mutual Insurance Company.
+* Philadelphia Reinsurance Corporation ceased transacting business in Canada and has reinsured on an assumption basis all of its Canadian policy liabilities with Nederlandse Reassurantie Groep N.V. The company's order to insure in Canada risks was revoked effective June 13, 2005.
+* The Phoenix Assurance Company Limited changed its name to the Phoenix Assurance Public Limited Company effective December 1, 1989.
+* Phoenix Assurance Company of Canada: An order was issued December 1, 1989, whereby the property and business of Phoenix Assurance Company of Canada was to be wound up into the Dominion Insurance Corporation.
+* Phoenix Assurance Public Limited Company, having transferred its Canadian liabilities to Sun Alliance Insurance Company, ceased to be registered effective December 31, 1991.
+* The Phoenix Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective May 1, 2002.
+* Phoenix Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective February 15, 2017.
+* Phoenix Mutual Life Insurance Company changed its name to Phoenix Home Life Mutual Insurance Company effective July 1, 1992.
+* Pierce National Life Insurance Company changed its name to Fortis Benefits Insurance Company effective July 1, 2001.
+* Pitts Insurance Company's certificate of registry was withdrawn effective October 19, 1981, and the company is being wound up under the provisions of the Winding-up Act.
+* PMI Mortgage Insurance Company Canada changed its name to, in English, MIC Insurance Company Canada and, in French, Société d'assurance MIC du Canada, effective October 31, 2014.
+* Pohjola Group Insurance Corporation ceased transacting business in Canada and transferred its Canadian policies to Pohjola Non-Life Insurance Company Ltd. The company's order to insure in Canada risks was revoked effective February 11, 2002.
+* Pohjola Insurance Company Ltd. (Vakuutusosakeyhtio Pohjola) changed its name to Pohjola Group Insurance Corporation effective August 31, 1998.
+* Pohjola Non-Life Insurance Company Ltd. ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Omega General Insurance Company. The company's order to insure in Canada risks was revoked effective December 18, 2009.
+* Pool Insurance Company was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name 8221375 Canada Inc., effective July 16, 2012.
+* Préservatrice Foncière T.I.A.R.D., having transferred its Canadian policies to National Reinsurance Company of Canada, ceased to be registered effective January 1, 1988.
+* La Préservatrice Société Anonyme d'Assurances contre les Accidents, l'Incendie et les Risques Divers, having transferred all of its Canadian liabilities to Préservatrice Foncière T.I.A.R.D., ceased transacting business in Canada effective August 9, 1982.
+* Primerica Life Insurance Company ceased transacting business in Canada and transferred its Canadian policies to Primerica Life Insurance Company of Canada. The company's order to insure in Canada risks was revoked effective August 19, 1994.
+* Primmum Insurance Company changed its name to CT Direct Insurance Company effective March 10, 1998.
+* Principal Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 21, 2016.
+* Principal Mutual Life Insurance Company changed its name to Principal Life Insurance Company effective March 26, 1999.
+* Progressive Casualty Insurance Company ceased transacting business in Canada and has reinsured all of its remaining liabilities in Canada with Omega General Insurance Company. The company's order to insure in Canada risks was revoked effective December 18, 2015.
+* Progressive Casualty Insurance Company of Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on February 28, 2001 under the name 3841189 CANADA INC.
+* Protection Mutual Insurance Company, having amalgamated its property and business with that of Allendale Mutual Insurance Company and Arkwright Mutual Insurance Company, pursuant to the laws of the United States of America, ceased to be registered effective July 1, 1999. The foreign companies were continued to be registered as one mutual company under the name Factory Mutual Insurance Company, effective July 1, 1999.
+* Providence Washington Insurance Company ceased transacting business in Canada and has reinsured all of its Canadian policies with the Canadian branch of Omega General Insurance Company. The company's order to insure in Canada risks was revoked effective October 22, 2009.
+* Provident Life and Accident Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with RBC Life Insurance Company. The company's order to insure in Canada risks was revoked effective November 22, 2007.
+* The Provenance Life Insurance Company changed its name to Giraffe & Friends Life Insurance Company effective February 5, 2014.
+* Prudasco Assurance Company amalgamated its property and business with that of General Accident Indemnity Company effective January 1, 1994, the continuing or combined company being General Accident Indemnity Company.
+* Prudential of America General Insurance Company (Canada) changed its name to Liberty Insurance Company of Canada, effective January 1, 1997.
+* Prudential of America Life Insurance Company (Canada) was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on May 2, 2000 under the name 3752178 Canada Inc.
+* Prudential Assurance Company of England Property and Casualty (Canada) changed its name to General Accident Indemnity Company effective August 31, 1993.
+* The Prudential Group Assurance Company of England (Canada) changed its name to Sun Life of Canada Group Assurance Company effective March 31, 1995.
+* The Prudential Assurance Company Limited (of England) ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective February 6, 2015.
+* The Prudential Insurance Company of America ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 31, 2010.
+* The Prudential Life Assurance Company of England (Canada) and The Mutual Life Assurance Company of Canada amalgamated and were continued as one mutual company under the name The Mutual Life Assurance Company of Canada effective April 1, 1995.
+* Prudential Reinsurance Company (of America) changed its name to Everest Reinsurance Company effective May 21, 1996.
+
+### Q
+
+* QBE Insurance Limited, having disposed of its liabilities in Canada, ceased to be registered effective March 31, 1987.
+* Quebec Assurance Corporation was approved to discontinue under the Insurance Companies Act and continue under the Canada Business Corporations Act, effective July 2, 2025.
+
+### R
+
+* RBC General Insurance Company changed its name to Aviva General Insurance Company effective June 15, 2016.
+* RBC Travel Insurance Company changed its name to RBC Insurance Company of Canada effective May 30, 2007.
+* REAAL Schadeverzekeringen N.V. ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian liabilities with Aviva Insurance Company of Canada. The company's order to insure in Canada risks was revoked effective June 15, 2010.
+* Reassure America Life Insurance Company changed its name to Jackson National Life Insurance Company effective April 22, 2014.
+* The Reinsurance Corporation of New York changed its name to The Insurance Corporation of New York effective January 31, 1997.
+* Reliance Insurance Company – On November 8, 2001 the Superintendent of Financial Institutions took control of Reliance Insurance Company and the court granted a winding-up order appointing the Superintendent as provisional liquidator of the company. The court subsequently appointed KPMG Inc. as permanent liquidator. The winding up of the company's business and affairs continues.
+* Renaissance Reinsurance Ltd. ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 9, 2024.
+* Retail Lumbermen's Inter-Insurance Exchange having disposed of its liabilities in Canada ceased to be registered as at March 31, 1985.
+* Rhine Reinsurance Company Ltd. changed its name to Rhine Re Ltd. effective August 4, 2000.
+* Rhine Re Ltd. Changed its name to Alea Europe Ltd. effective May 7, 2001.
+* Royale Belge ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective June 26, 2001.
+* Royal Exchange Assurance of America Inc. changed its name to Fortress Insurance Company of America effective December 15, 1992.
+* Royal Insurance Company of Canada amalgamated its property and business with that of Sun Alliance Insurance Company effective January 1, 1994, the continuing or combined company being Royal Insurance Company of Canada.
+* Royal Insurance Company of Canada changed its name to Royal & Sun Alliance Insurance Company of Canada effective March 23, 1998.
+* Royal Life Insurance Company of Canada ceased transacting business in Canada and transferred all of its policies to Royal Life Insurance Company of Canada Limited, effective December 31, 1994. Royal Life Insurance Company of Canada's order to commence and carry on business was revoked effective December 31, 1994 and its property was amalgamated with that of Royal Insurance Company of Canada, the continuing company being Royal Insurance Company of Canada.
+* Royal Life Insurance Company of Canada Limited changed its name to Royal & Sun Alliance Life Insurance Company of Canada effective March 23, 1998.
+* Royal Life Insurance Limited ceased transacting business in Canada and disposed of its liabilities in Canada. The company's order to insure in Canada risks was revoked effective November 24, 1992.
+* Royal Maccabees Life Insurance Company changed its name to Reassure America Life Insurance Company effective August 9, 2000.
+* Royal Reinsurance Company Limited, having transferred its Canadian liabilities to Royal Insurance Company of Canada, ceased to be registered effective December 31, 1993.
+* Royal & Sun Alliance Life Insurance Company of Canada and The Maritime Life Assurance Company amalgamated and were continued as one company under the name The Maritime Life Assurance Company effective January 1, 2002.
+* RoyNat Guarantee Corporation: At the company's request, the certificate of registry of RoyNat Guarantee Corporation was discontinued effective June 21, 1984.
+
+### S
+
+* SAFECO Insurance Company of America ceased transacting business in Canada and transferred its Canadian policies to Dominion of Canada General Insurance Company. The company's order to insure in Canada risks was revoked effective October 18, 2001.
+* SAFECO Life Insurance Company, having disposed of its liabilities in Canada, ceased to be registered as at December 20, 1991.
+* SAFR PartnerRe changed its name to PartnerRe SA effective June 28, 2001.
+* SAFR Société Anonyme Française de Réassurances changed its name to SAFR effective April 7, 1998.
+* SAFR changed its name to SAFR PartnerRe effective January 26, 2000.
+* Saskatchewan Mutual Insurance Company changed its name to Sandbox Mutual Insurance Company, effective November 1, 2022.
+* Safety National Casualty Corporation ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Tokio Marine Canada Ltd. The company's order to insure in Canada risks was revoked effective September 2, 2025.
+* SCOR Global Life merged with SCOR SE effective March 31, 2019, the continuing company being SCOR SE. SCOR Global Life ceased to exist as an entity on March 31, 2019, following a merger and, accordingly, ceased to be governed by the Insurance Companies Act.
+* SCOR Reinsurance Company ceased transacting business in Canada and transferred its Canadian policies to SCOR Canada Reinsurance Company, as part of a restructuring. The company's order to insure in Canada risks was revoked effective January 21, 2009.
+* SCOR Reinsurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with SCOR Canada Reinsurance Company. The company's order to insure in Canada risks was revoked effective January 21, 2009.
+* SCOR Reinsurance Company of Canada amalgamated its property and business with that of two non-insurance entities, SCORFIN Inc. and SCOR Services Canada Inc., effective December 31, 1995, the continuing or combined company being SCOR Canada Reinsurance Company.
+* SCOR Vie changed its name to SCOR Global Life effective February 23, 2007.
+* SCOR Vie, the Canadian branch of the foreign company, SCOR, ceased transacting business in Canada. SCOR Vie's order to insure in Canada risks was revoked effective December 1, 2004. Its Canadian policy liabilities were transferred to the newly registered Canadian branch of the foreign insurer, SCOR Vie, operating in Canada under the name, SCOR Vie.
+* The Scottish Dominion Insurance Company Limited ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 1, 1998.
+* Seaboard Life Insurance Company dissolved effective December 14, 2009.
+* Seaboard Surety Company: At the company's request, the order to insure in Canada risks of Seaboard Surety Company was revoked effective June 13, 1995.
+* Seaboard Surety Company of Canada amalgamated its property and business with that of Northern Indemnity, Inc. effective January 1, 2000, the continuing company being Northern Indemnity, Inc.
+* Seaton Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was deemed revoked effective October 5, 2011.
+* SecuriCan General Insurance Company changed its name to Western Financial Insurance Company effective June 1, 2010.
+* Security National Insurance Company changed the french version of its name to La Sécurité Nationale Compagnie d'Assurance, effective October 21, 1997.
+* Security National Insurance Company changed the french version of its name to Sécurité Nationale Compagnie d'Assurance, effective April 6, 1998.
+* Sentry Insurance a Mutual Company changed its name to Sentry Insurance Company effective January 8, 2021.
+* Serb National Federation ceased transacting business in Canada. The society's order to insure in Canada risks was revoked effective December 11, 2002.
+* The Shipowners' Mutual Protection and Indemnity Association (Luxembourg) ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 1, 2020.
+* Sirius America Insurance Company changed the corporate name under which it underwrites risks in Canada to SiriusPoint America Insurance Company, effective October 25, 2021.
+* Skandia Canada Reinsurance Company changed its name to Odyssey Reinsurance Company of Canada, effective November 5, 1996.
+* Skandia Group Insurance Company Ltd. changed the name under which it insures risks in Canada to Skandia Insurance Company Ltd. effective December 23, 1993.
+* Skandia Insurance Company Ltd. ceased transacting business in Canada and transferred its Canadian liabilities to Liberty Mutual Insurance Company. The company's order to insure in Canada risks was revoked effective February 19, 2004.
+* Skandia Insurance Company changed its name in English to Skandia Group Insurance Company Ltd. effective December 17, 1990.
+* Skandia International Insurance Corporation ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective March 31, 2000.
+* SLLC Limited changed its name to Standard Life Assurance Limited effective July 10, 2006.
+* Société Anonyme Française de Réassurances changed its name to SAFR Société Anonyme Française de Réassurances effective June 17, 1996.
+* Société Commerciale de Réassurance: At the company's request, the order to insure in Canada risks of Société Commerciale de Réassurance was revoked effective December 24, 1992.
+* Société de Réassurance des Assurances Mutuelles Agricoles ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective July 8, 1998.
+* Sompo Japan Insurance Inc. changed the name under which it insures in Canada risks to, in English, Sompo Japan Nipponkoa Insurance Inc. and, in French, Assurances Sompo Nipponkoa du Japon Inc. effective October 21, 2014.
+* Sompo Japan Nipponkoa Insurance Inc. changed the name under which it insures in Canada risks to, in English, Sompo Japan Insurance Inc. and, in French, Assurances Sompo du Japon Inc. effective May 8, 2020.
+* Sons of Norway ceased transacting business in Canada and transferred its Canadian policies to Lutheran Life Insurance Society of Canada. The company's order to insure in Canada risks was revoked effective January 10, 2001.
+* Sons of Scotland Benevolent Association was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Not-for-profit Corporations Act, effective December 31, 2018.
+* Sorema North America Reinsurance Company ceased transacting business in Canada and transferred its Canadian policies to SCOR Canada Reinsurance Company, as part of a restructuring. The company's order to insure in Canada risks was revoked effective January 21, 2009.
+* Sorema North America Reinsurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with SCOR Canada Reinsurance Company. The company's order to insure in Canada risks was revoked effective January 21, 2009.
+* The Sovereign Life Insurance Company – On December 21, 1992, the Superintendent of Financial Institutions took control of The Sovereign Life Insurance Company and the court granted a winding-up order appointing the Superintendent as provisional liquidator of the company. The court subsequently appointed KPMG Inc. as permanent liquidator. An Order for Discharge of the liquidator became effective December 14, 2000.
+* Scotia General Insurance Company was approved to discontinue under the Insurance Companies Act and continue under the Canada Business Corporations Act, effective May 31, 2024.
+* Specialty National Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Omega General Insurance Company. The company's order to insure in Canada risks was revoked effective August 24, 2006.
+* Sphere Reinsurance Company of Canada changed its name to Chequers Insurance Company effective August 31, 1989.
+* St. Paul Guarantee Insurance Company changed its name to Travelers Guarantee Company of Canada effective January 1, 2007.
+* St. Paul Guarantee Insurance Company, Northern Indemnity, Inc., 3921042 Canada Inc., 3207692 Canada Limited, 3112675 Canada Limited and 176856 Canada Inc. amalgamated and were continued as one company under the name St. Paul Guarantee Insurance Company effective January 1, 2004.
+* The Standard Life Assurance Company 2006 ceased transacting business in Canada and has reinsured, on an assumption basis, all of its policy liabilities with The Standard Life Assurance Company of Canada and the Canadian branch of Standard Life Assurance Limited. The company's order to insure in Canada risks was deemed revoked effective August 15, 2014.
+* The Standard Life Assurance Company changed its name to The Standard Life Assurance Company 2006 effective July 10, 2006.
+* The Standard Life Assurance Company of Canada, having sold all of its assets to The Manufacturers Life Insurance Company, was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name SCDA (2015) INC., effective July 2, 2015.
+* Standard Life Assurance Limited ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Manulife Assurance Company of Canada. The company's order to insure in Canada risks was revoked effective April 20, 2016.
+* The Stanstead and Sherbrooke Insurance Company amalgamated its property and business with that of The Canada Accident and Fire Assurance Company, and that of Commercial Union Assurance Company of Canada effective January 1, 1989, the continuing or combined company being Commercial Union Assurance Company of Canada.
+* State Farm Life Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with State Farm International Life Insurance Company Ltd. The company's order to insure in Canada risks was revoked effective August 30, 2007.
+* State Farm Fire and Casualty Company ceased transacting business in Canada and all of its Canadian policy liabilities were assumption reinsured by insurance companies within the Fédération des Caisses Desjardins du Québec. The company's order to insure in Canada risks was revoked effective March 23, 2017.
+* State Farm International Life Insurance Company Ltd. ceased transacting business in Canada and all of its Canadian policy liabilities were assumption reinsured by insurance companies within the Fédération des Caisses Desjardins du Québec. The company's order to insure in Canada risks was revoked effective March 23, 2017.
+* State Farm Mutual Automobile Insurance Company ceased transacting business in Canada and all of its Canadian policy liabilities were assumption reinsured by insurance companies within the Fédération des Caisses Desjardins du Québec. The company's order to insure in Canada risks was revoked effective March 23, 2017.
+* State Mutual Life Assurance Company of America changed its name to First Allmerica Financial Life Insurance Company effective May 13, 1996.
+* Stonebridge Life Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Canadian Premier Life Insurance Company of Canada. The company's order to insure in Canada risks was revoked effective November 26, 2009.
+* Stonewall Insurance Company, having disposed of its liabilities in Canada, ceased to be registered effective March 27, 1990.
+* Storebrand International Insurance A/S changed its name to UNI Storebrand International Insurance A/S effective October 30, 1991.
+* Storebrand Reinsurance Company Ltd. changed its name to Storebrand International Insurance A/S effective March 12, 1991.
+* The Strathcona General Insurance Company amalgamated its property and business with that of Northumberland General Insurance Company effective August 31, 1983, the continuing or combined company being Northumberland General Insurance Company;
+* Supreme Council of the Royal Arcanum ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Teachers Life Insurance Society. The company's order to insure in Canada risks was revoked effective May 1, 2023.
+* Travelers Guarantee Company of Canada changed its name to Travelers Insurance Company of Canada effective May 1, 2012.
+* The Sumitomo Marine and Fire Insurance Company, Limited and Mitsui Marine and Fire Insurance Company, Limited amalgamated and were continued as one company under the name Mitsui Sumitomo Insurance Company, Limited effective October 1, 2001.
+* Sun Alliance and London Assurance Company Limited, having transferred its Canadian liabilities to Sun Alliance and London Assurance Company (Canada), had its order to insure in Canada risks revoked effective November 24, 1992.
+* Sun Alliance and London Assurance Company (Canada) changed its name to TBD Life Insurance Company effective August 1, 1995.
+* Sun Alliance Insurance Company amalgamated its property and business with that of Royal Insurance Company of Canada effective January 1, 1994, the continuing or combined company being Royal Insurance Company of Canada.
+* Sunderland Marine Mutual Insurance Company Limited changed the name under which it insures in Canada risks to, in English, Sunderland Marine Insurance Company Limited [Canada Branch] and, in French, Société d'assurance maritime Sunderland Limitée [succursale canadienne] effective October 6, 2014.
+* Sunderland Marine Insurance Company Limited [Canada Branch] ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective January 8, 2021.
+* Sun Life of Canada Group Assurance Company ceased transacting business in Canada. Letters patent of dissolution were issued effective October 21, 2002.
+* Sun Life Financial Services of Canada, Inc. changed its name to Sun Life Financial Inc. effective July 2, 2003.
+* Superior Life Insurance Company, the name under which Lincoln Heritage Life Insurance Company was authorized to insure in Canada risks, ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Unity Life of Canada. The company's order to insure in Canada risks was revoked effective January 10, 2007.
+* Swiss Re Frankona Rückversicherungs-Aktiengesellschaft ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 5, 2008.
+* Swiss Re Italia S.p.A. ceased transacting business in Canada and transferred its Canadian liabilities to Swiss Reinsurance Company Canada. The company's order to insure in Canada risks was revoked effective March 3, 2004.
+* Swiss Re Life Company America changed its name to Swiss Re Life & Health America Inc. effective January 27, 1998.
+* Swiss Re Life Canada changed its name to Swiss Re Life & Health Canada effective June 2, 1997.
+* Swiss Re Life & Health America Inc. merged with Life Reassurance Corporation of America effective December 28, 2000, the continuing company being Life Reassurance Corporation of America. The merger was pursuant to the laws of the State of New York.
+* Swiss Re Life & Health America Inc. ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective November 21, 2002.
+* Swiss Re Life & Health Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on May 21, 2010 under the name 7547552 Canada Inc.
+* Swiss Reinsurance Company changed its name to Swiss Reinsurance Company Ltd. effective June 13, 2008.
+* Swiss Reinsurance Company Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on December 18, 2008 under the name 4444647 Canada Inc.
+* Swiss Union General Insurance Company Limited ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 22, 1998.
+* Switzerland General Insurance Company, Limited: At the company's request, the order to insure in Canada risks of Switzerland General Insurance Company, Limited was revoked effective November 21, 1995.
+* Symons General Insurance Company changed its name to Pafco International Insurance Company effective December 22, 1988.
+
+### T
+
+* Taisho Marine and Fire Insurance Company, Limited changed its name to Mitsui Marine and Fire Insurance Company, Limited effective May 2, 1991.
+* Talcott Resolution Life Insurance Company ceased transacting business in Canada. The company’s order to insure in Canada risks was deemed revoked effective April 2, 2019.
+* TBD Life Insurance Company ceased transacting business in Canada. Letters patent of dissolution were issued effective November 20, 2001.
+* TD Life Insurance Company and CT Financial Assurance Company amalgamated and continued as one company under the name, in English, TD Life Insurance Company and, in French, TD, Compagnie d'assurance-vie, effective November 1, 2014.
+* Teachers Insurance and Annuity Association of America ceased transacting business in Canada and transferred its Canadian policies to Sun Life Assurance Company of Canada. The company's order to insure in Canada risks was revoked effective April 6, 1998.
+* Terra Nova Insurance Company Limited ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Lloyd's Underwriters Markel Syndicate 3000. The company's order to insure in Canada risks was revoked effective April 20, 2009.
+* T.H.E. Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its remaining insurance liabilities with the Canadian branch of XL Specialty Insurance Company. The company's order to insure in Canada risks was revoked effective November 7, 2019.
+* TIG Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its remaining insurance liabilities with Northbridge General Insurance. The company's order to insure in Canada risks was revoked effective April 24, 2015.
+* TIG Reinsurance Company changed its name to Odyssey America Reinsurance Corporation effective January 26, 2000.
+* Toa-Re Insurance Company of America changed its name to The Toa Reinsurance Company of America effective August 16, 1999.
+* The Tokio Marine and Fire Insurance Company, Limited changed its name to Tokio Marine & Nichido Fire Insurance Co., Ltd. effective December 14, 2004.
+* Toro Assicurazioni S.P.A., having transferred its Canadian liabilities to Sun Alliance Insurance Company, ceased to be registered effective December 21, 1990.
+* Toronto Dominion General Insurance Company changed its name to TD Direct Insurance Inc. effective September 1, 2000.
+* Toronto Dominion Life Insurance Company changed its name to TD Life Insurance Company effective April 18, 2001.
+* Toronto General Insurance Company amalgamated its property and business with that of Canadian General Insurance Company effective January 1, 1994, the continuing or combined company being Canadian General Insurance Company.
+* Toronto Mutual Life Insurance Company and The Western Life Assurance Company amalgamated and were continued as one company under the name Unity Life of Canada effective January 1, 2002.
+* Tower Insurance Company of Connecticut changed its name to New England Reinsurance Corporation effective February 29, 1984.
+* Trade Indemnity P.L.C. ceasing transacting business in Canada and transferred its Canadian liabilities to EULER American Credit Indemnity Company. The company's order to insure in Canada risks was revoked effective October 24, 2003.
+* Traders General Insurance Company amalgamated its property and business with that of GAN Canada Insurance Company effective December 31, 1999, the continuing company being Traders General Insurance Company.
+* Trafalgar Insurance Company of Canada amalgamated its property and business with that of The Canadian Commerce Insurance Company effective January 1, 1993, the continuing or combined company being Trafalgar Insurance Company of Canada.
+* Trafalgar Insurance Public Limited Company, having transferred its Canadian liabilities to Trafalgar Insurance Company of Canada, ceased to be registered effective December 31, 1986.
+* Triad Guaranty Insurance Corporation Canada was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act on June 20, 2008 under the name 4482069 Canada Limited.
+* Transamerica Insurance Company changed the name under which it insures risks in Canada to TIG Insurance Company effective December 29, 1993.
+* Transamerica Life Canada changed its name to ivari effective October 26, 2015.
+* Transamerica Life Insurance Company of Canada and NN Life Insurance Company of Canada amalgamated and were continued as one company under the name Transamerica Life Canada effective December 31, 2000.
+* Transamerica Occidental Life Insurance Company ceased transacting business in Canada and transferred its Canadian policies to Transamerica Life Insurance Company of Canada. The company's order to insure in Canada risks was revoked effective April 12, 1995.
+* Transit Insurance Company ceased transacting business in Canada. Letters patent of dissolution were issued effective December 29, 2000.
+* Transport Indemnity Company changed its name to Mission American Insurance Company effective June 16, 1986.
+* Transport Insurance Company: At the company's request, the order to insure in Canada risks of Transport Insurance Company was revoked effective December 31, 1994.
+* Travelers Casualty and Surety Company of Canada and St. Paul Guarantee Insurance Company amalgamated and were continued as one company under the name St. Paul Guarantee Insurance Company effective January 1, 2005.
+* The Travelers Indemnity Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with St. Paul Fire and Marine Insurance Company. The company's order to insure in Canada risks was revoked effective May 19, 2006.
+* Travelers Indemnity Company of Canada changed its name to Zurich Indemnity Company of Canada effective February 9, 1989.
+* The Travelers Insurance Company changed its name to MetLife Insurance Company of Connecticut effective May 1, 2006.
+* Truck Insurance Exchange: At the request of the company, the order to insure in Canada risks of Truck Insurance Exchange was revoked effective December 21, 1992.
+* Trygg-Hansa Reinsurance Company of Canada changed its name to Suecia Reinsurance Company effective January 21, 2000.
+
+### U
+
+* Ukrainian Fraternal Association ceased transacting business in Canada and has reinsured all of its Canadian policies with the Canadian branch of Supreme Council of the Royal Arcanum. The company's order to insure in Canada risks was revoked effective August 13, 2009.
+* UFSC Heritage Life Insurance Fraternal Society reinsured, on an assumption basis, all of its policy liabilities with The Grand Orange Lodge of British America. The company was approved to discontinue under the Insurance Companies Act and continue under the Canada Business Corporations Act effective July 18, 2022.
+* Ukrainian Fraternal Society of Canada changed its name to UFSC Heritage Life Insurance Fraternal Society effective July 2, 2019.
+* Ukrainian National Aid Association of America ceased transacting business in Canada and transferred its Canadian policies to Croatian Fraternal Union of America. The foreign fraternal benefit society's order to insure in Canada risks was revoked effective December 22, 2003.
+* Underwriters Insurance Company ceased transacting business in Canada and transferred its Canadian liabilities to Swiss Reinsurance Company Canada. The company's order to insure in Canada risks was revoked effective December 16, 2002.
+* Underwriters National Assurance Company's certificate of registry was withdrawn effective December 29, 1976. The company's business in Canada, which was being continued under a compromise arrangement sanctioned by the Supreme Court of Ontario, was transferred to Life Investors Insurance Company of America effective July 31, 1991.
+* Uni Storebrand International Insurance A/S ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective April 8, 1997.
+* Unigard Mutual Insurance Company changed its name to Unigard Security Insurance Company effective December 20, 1984.
+* Unigard Security Insurance Company changed its name to Seaton Insurance Company effective September 25, 2000.
+* Union Fidelity Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective October 29, 2004.
+* Union Reinsurance Company: At the company's request, the order to insure in Canada risks of Union Reinsurance Company was revoked effective June 15, 1994.
+* Unione Italiana di Riassicurazione S.p.A. changed its name to Swiss Re Italia S.p.A. effective August 28, 1998.
+* United Canada Insurance Company's certificate of registry was not renewed effective March 1, 1986, and the company is being wound-up under the provisions of the Winding-up Act.
+* United States Fidelity and Guaranty Company ceased transacting business in Canada and transferred its Canadian policy liabilities to St. Paul Fire and Marine Insurance Company. The company's order to insure in Canada risks was revoked effective January 24, 2005.
+* United States Fire Insurance Company: At the request of the company, the order to insure in Canada risks of United States Fire Insurance Company was revoked effective December 10, 1992.
+* United Transportation Union Insurance Association ceased transacting business in Canada. The society's order to insure in Canada risks was revoked effective March 14, 1995.
+* The Unity Fire and General Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 31, 1998.
+* Unity Life of Canada changed its name to Foresters Life Insurance Company effective October 6, 2011.
+* Unity Life of Canada was acquired by The Independent Order of Foresters, effective April 2, 2008, as part of the conversion of the company into a company with common shares.
+* UNUM Life Insurance Company changed its name to UNUM Life Insurance Company of America as at December 31, 1991.
+* UNUM Life Insurance Company of America ceased transacting business in Canada and transferred its Canadian policies to Provident Life and Accident Insurance Company effective December 31, 2000. The company's order to insure in Canada risks was revoked effective June 11, 2002.
+* United American Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective October 31, 2023.
+* USF&G Insurance Company of Canada amalgamated its property and business with that of Canadian General Insurance Company effective June 30, 1990, the continuing or combined company being Canadian General Insurance Company.
+* US International Reinsurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective October 8, 1997.
+* Utica Mutual Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was deemed revoked effective May 6, 2014.
+
+### V
+
+* Validus Reinsurance, Ltd. changed the corporate name under which it underwrites risks in Canada to Renaissance Reinsurance Ltd., effective November 6, 2024.
+* Victoria Insurance Company of Canada amalgamated its property and business with that of Traders General Insurance Company effective January 1, 1996, the continuing or combined company being Traders General Insurance Company.
+* The Victory Reinsurance Company Limited changed its name to NRG Victory Reinsurance Limited effective December 18, 1991.
+* Virginia Surety Company, Inc. changed its name to Combined Specialty Insurance Company effective May 16, 2002.
+* Virginia Surety Company, Inc. ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with American Bankers Insurance Company. The company's order to insure in Canada risks was revoked effective September 28, 2021.
+* Voyageur Insurance Company changed its name to RBC Travel Insurance Company effective June 28, 2000.
+* VSP Canada Vision Care Insurance was discontinued under the Insurance Companies Act and was issued a certificate of continuance under the Canada Business Corporations Act under the name VSP Vision Canada Inc. effective February 28, 2018.
+
+### W
+
+* Warner Reciprocal Insurers, having disposed of its liabilities in Canada, ceased to be registered effective March 31, 1986.
+* Washington National Insurance Company ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Unity Life of Canada. The company's order to insure in Canada risks was revoked effective July 21, 2009.
+* The Wawanesa Life Insurance Company and Western Life Assurance Company amalgamated and continued as one company under the name The Wawanesa Life Insurance Company effective January 1, 2020.
+* The Wawanesa Mutual Life Insurance Company changed its name to The Wawanesa Life Insurance Company effective at October 1, 1993.
+* Wellington Insurance Company changed its French name to Compagnie d'Assurance Wellington effective August 11, 1986.
+* Wellington Insurance Company changed its name to ING Wellington Insurance Company effective October 27, 2000.
+* Westbury Canadian Life Insurance Company and RBC Life Insurance Company amalgamated and were continued as one company under the name RBC Life Insurance Company effective July 3, 2000.
+* Western Financial Insurance Company changed its name to PETLINE INUSRANCE COMPANY effective January 1, 2017.
+* Western General Mutual Insurance Company amalgamated its property and business with that of Economical Mutual Insurance Company effective January 1, 1997, the continuing company being Economical Mutual Insurance Company.
+* The Western Life Assurance Company and Toronto Mutual Life Insurance Company amalgamated and were continued as one company under the name Unity Life of Canada effective January 1, 2002.
+* Westport Insurance Corporation ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 5, 2024.
+* White Mountains Reinsurance Company of America changed its name to Sirius America Insurance Company effective October 5, 2011.
+* Winterthur Life Insurance Company ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 31, 2001.
+* Winterthur Reinsurance Corporation of America ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 22, 1999.
+* Wilton Re (Canada) Limited ceased transacting business in Canada. The company's order to insure in Canada risks was revoked effective December 8, 2023.
+* Woman's Life Insurance Society ceased transacting business in Canada and all the risks undertaken by the Canadian branch were reinsured, on an assumption basis, by Faithlife Financial, a Canadian fraternal benefit society. The company's order to insure in Canada risks was deemed revoked effective February 20, 2012.
+* Woodmen of the World Life Insurance Society ceased transacting business in Canada. The society's order to insure in Canada risks was revoked effective December 1, 1994.
+* Workers Benevolent Association of Canada ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with Sons of Scotland Benevolent Association. Letters patent of dissolution were issued effective December 31, 2006.
+* The Workmen's Circle ceased transacting business in Canada. The society's order to insure in Canada risks was revoked effective December 31, 1996.
+
+### X
+
+* XL Insurance Company changed its name under which it insures in Canada risks to, in English, XL Insurance Company SE and, in French, Compagnie d'assurance XL effective September 15, 2014.
+* XL Insurance Company SE ceased transacting business in Canada and has reinsured, on an assumption basis, all of its remaining insurance liabilities in Canada with XL Specialty Insurance Company. The company's order to insure in Canada risks was revoked effective February 16, 2017.
+* XL Re Europe, Canada Branch ceased transacting business in Canada and has reinsured, on an assumption basis, all of its Canadian policy liabilities with XL Reinsurance America Inc. The company's order to insure in Canada risks was revoked effective September 20, 2006.
+* XL Winterthur International Insurance Company Limited changed its name to XL Insurance Company Limited effective September 19, 2003.
+
+### Y
+
+* The Yasuda Fire and Marine Insurance Company, Limited changed its name to Sompo Japan Insurance Inc. effective July 1, 2002.
+
+### Z
+
+* Zurich Indemnity Company of Canada changed its name to Peopleplus Insurance Company effective February 1, 1999.
+* Zurich Insurance Company changed its name to Zurich Insurance Company Ltd effective June 26, 2009.
+* Zurich Life Insurance Company of Canada and its wholly-owned subsidiary, Zurich Life & Health Insurance Company of Canada, amalgamated and were continued as one company under the name Zurich Life Insurance Company of Canada effective January 1, 1993.
+* Zurich Life Insurance Company of Canada changed its name to Manulife Canada Ltd. effective July 15, 2002.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2026-06-15

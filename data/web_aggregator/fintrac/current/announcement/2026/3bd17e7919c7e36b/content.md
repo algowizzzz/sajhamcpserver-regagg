@@ -1,0 +1,202 @@
+# Modernization and upcoming changes impacting reporting entities
+
+New initiatives and updates that FINTRAC is implementing, which impact reporting entities (businesses and individuals).
+
+## On this page
+
+* [Implementing amendments of the strengthening Canada's Immigration System and Borders Act](#border)
+* [Budget 2025 Implementation Act](#bg25)
+* [Budget 2024 amendments](#s1)
+* [Budget 2023 and Fall Economic Statement 2023 amendments](#s2)
+* [Related links](#s3)
+
+## Implementing amendments of the Strengthening Canada's Immigration System and Borders Act
+
+Description of initiative
+:   On March 26, 2026, the Strengthening Canada's Immigration System and Borders Act received Royal Assent, which introduces amendments to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations.
+
+    Various coming into force dates will apply, and FINTRAC will provide information to assist businesses subject to the Act in complying with obligations relating to these amendments as they come into force.
+
+Components of initiative
+:   **New administrative monetary penalties framework**
+
+    Coming into force: March 26, 2026, and in accordance with the transitional provisions
+
+    * Increase the maximum amount of administrative monetary penalties that may be imposed for prescribed violations
+    * Introduce ability to pay as part of the criteria for determining an administrative monetary penalty amount
+    * Introduce the use of compliance agreements in all cases where an administrative monetary penalty is imposed
+    * Introduce compliance orders as a new enforcement tool
+    * Designate the contravention of a compliance order as a new violation under the Act
+    * Elevate certain compliance program violations from serious to very serious
+
+    FINTRAC is currently updating its administrative monetary penalties policy and developing accompanying guidance that will outline the principles, processes, and criteria used to administer penalties.
+
+    **Compliance program and knowing your client requirements**
+
+    Coming into force: March 26, 2026
+
+    * Require compliance programs to be reasonably designed, risk-based and effective
+    * Clarify requirements related to the prohibition of anonymous accounts
+    * Introduce a definition of anonymous client
+
+    FINTRAC will update its guidance to outline the expectations for these requirements.
+
+    **Universal enrolment**
+
+    Coming into force: In line with Regulations to be developed and published in the Canada Gazette, Part II
+
+    * Require businesses subject to the Act (other than those already required to register) to enroll with FINTRAC
+
+    **Commissioner of Canada Elections as a new disclosure recipient**
+
+    Coming into force: March 26, 2026
+
+    * Enable FINTRAC to provide financial intelligence disclosures to the Commissioner of Canada Elections
+
+    **Financial Institutions Supervisory Committee membership**
+
+    Coming into force: March 26, 2026
+
+    * The Director and CEO of FINTRAC becomes a member of the Financial Institutions Supervisory Committee
+    * Enable FINTRAC to exchange supervisory information on federally regulated financial institutions with other members of the Financial Institutions Supervisory Committee
+
+Initiative status
+:   FINTRAC will update its existing guidance to integrate information relating to these amendments.
+
+    Information on universal enrolment will be provided as it becomes available.
+
+    Further reading:
+
+    * [FINTRAC's act and regulations](/act-loi/1-eng)
+    * [Government of Canada introduces new streamlined legislation to strengthen border security and keep Canadians safe - Canada.ca](https://www.canada.ca/en/public-safety-canada/news/2025/10/government-of-canada-introduces-new-streamlined-legislation-to-strengthen-border-security-and-keep-canadians-safe.html)
+
+## Budget 2025 Implementation Act
+
+Description of initiative
+:   On March 26, 2026, the Budget 2025 Implementation Act received Royal Assent, which introduces amendments to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations.
+
+    Various coming into force dates will apply, and FINTRAC will provide information to assist businesses subject to the Act in complying with obligations relating to these amendments as they come into force.
+
+Components of initiative
+:   **Stablecoin Act**
+
+    The Stablecoin Act establishes regulatory requirements for stablecoin issuers, that create stablecoins and make them available for purchase, directly or indirectly, by persons in Canada. Stablecoin issuers will be required to register with FINTRAC as money services businesses dealing in virtual currency. In addition, the Bank of Canada will maintain a public registry of stablecoin issuers.
+
+    Coming into force: In line with Regulations to be developed and published in the Canada Gazette, Part II
+
+    * Require stablecoin issuers to register with FINTRAC
+
+Initiative status
+:   FINTRAC will update its existing guidance for money services businesses.
+
+    Further reading:
+
+    * [FINTRAC's act and regulations](/act-loi/1-eng)
+    * [Canada's Stablecoin Framework - Canada.ca](https://www.canada.ca/en/department-finance/programs/financial-sector-policy/canadas-stablecoin-framework.html)
+
+## Implementing Budget 2024 amendments
+
+Description of initiative
+:   On March 26, 2025, the Government of Canada published new Regulations in the Canada Gazette, Part II, that create obligations for businesses subject to the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations and the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations. These measures were initially proposed in the Budget 2024 to strengthen Canada's Anti-Money Laundering and Anti-Terrorist Financing Regime.
+
+    FINTRAC will provide information and adapt reporting tools to assist businesses subject to the Act in complying with obligations relating to these amendments as they come into force.
+
+Components of initiative
+:   **Private-to-private information sharing**
+
+    Private-to-private information sharing between reporting entities is now in force.
+
+    * Allows reporting entities to share information with each other to more effectively detect and deter money laundering, terrorist financing and sanctions evasion, while maintaining privacy protections for personal information
+    * Information sharing between reporting entities has been recognized by the Financial Action Task Force (FATF) as an important tool for disrupting money laundering and terrorist financing
+    * Engaging in private-to-private information sharing with other reporting entities is voluntary.
+    * To engage, a code of practice must be submitted to FINTRAC for possible review and comment, as well as the Office of the Privacy Commissioner of Canada for approval.
+
+    **Factors, cheque cashing businesses and financing or leasing entities**
+
+    On April 1, 2025, obligations came into force for:
+
+    * factors
+    * cheque-cashing businesses
+    * financing or leasing entities
+
+    **Beneficial ownership discrepancy reporting**
+
+    On October 1, 2025, new obligations came into force to strengthen corporate beneficial ownership transparency by implementing a requirement for reporting entities to report material discrepancies between their records and a company's registry filings to the federal beneficial ownership registry administered by Corporations Canada, in circumstances where they assess there is a high risk of a money laundering or terrorist financing offence.
+
+Initiative status
+:   FINTRAC has published guidance for:
+
+    * [Factors](/re-ed/fact-affact-eng)
+    * [Cheque cashers](/re-ed/cheque-eng)
+    * [Financing or leasing entities](/re-ed/lease-bail-eng)
+    * [Beneficial ownership requirements](/guidance-directives/client-clientele/bor-eng)
+    * Private-to-private information sharing
+      + [Guidance: Private-to-private information sharing](/guidance-directives/sharing-echange/sharing-echange-eng)
+      + [Model code of practice for private-to-private information sharing](/guidance-directives/sharing-echange/code-fra)
+      + [Submit a code of practice under the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations](https://www.priv.gc.ca/en/contact-the-opc/submit-a-code-of-practice/) (Office of the Privacy Commissioner of Canada)
+
+    In the first year following the coming into force dates, FINTRAC is putting emphasis on engagement, outreach and guidance activities related to new regulatory obligations in order to foster greater awareness and understanding amongst new reporting entities.
+
+    Further reading:
+
+    * [FINTRAC's act and regulations](/act-loi/1-eng)
+    * [Canada Gazette, Part II, Volume 159, Number 7: Index](https://gazette.gc.ca/rp-pr/p2/2025/2025-03-26/html/index-eng.html)
+    * [Government strengthens Canada's anti-money laundering framework with new regulatory amendments](https://www.canada.ca/en/department-finance/news/2025/03/government-strengthens-canadas-anti-money-laundering-framework-with-new-regulatory-amendments.html)
+
+## Implementing Budget 2023 and Fall Economic Statement 2023 amendments
+
+Description of initiative
+:   On January 1, 2025, the Government of Canada published new Regulations in the Canada Gazette, Part II, that modify obligations for businesses subject to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act). These measures were initially proposed in the Budget 2023 and Fall Economic Statement 2023 to strengthen Canada's Anti-Money Laundering and Anti-Terrorist Financing Regime.
+
+    FINTRAC will provide information and adapt reporting tools to assist businesses subject to the Act in complying with obligations relating to these amendments as they come into force.
+
+Components of initiative
+:   On March 1, 2025, the **reporting of sanctioned property related information** under the United Nations Act came into force.
+
+    On October 1, 2025, the remaining Regulations came into force and will:
+
+    * strengthen the registration framework for money services businesses
+    * allow agents or mandataries to be used when verifying the identity of corporations and other entities
+    * create an obligation for real estate sales representatives and brokers to verify the identity of unrepresented parties, keep an information record and make the associated third party determination for these parties in real estate transactions
+    * create obligations for acquirers of private automated banking machines and title insurers
+    * require the reporting of sanctioned property related information under the Special Economic Measures Act and the Justice for Victims of Corrupt Foreign Officials Act
+
+Initiative status
+:   * FINTRAC has published new or updated existing guidance to integrate information on the following measures:
+
+    **Casino Disbursement Report**
+
+    * Guidance: [Reporting casino disbursements to FINTRAC](/guidance-directives/transaction-operation/cdr/casino-eng)
+
+    **Reporting terrorist and sanctioned property**
+
+    * Guidance: [Reporting terrorist and sanctioned property](/guidance-directives/transaction-operation/guide5/5-eng)
+    * Form: [Listed Person or Entity Property Report](/reporting-declaration/form/form-eng)
+
+    **Money services business registration requirements**
+
+    * Guidance:
+      + [Money services businesses](/msb-esm/msb-eng)
+      + [Register your money services business (MSB) or your foreign money services business (FMSB)](/msb-esm/register-inscrire/reg-ins-eng)
+
+    **Acquirers of private automated banking machines**
+
+    * Guidance: [Acquirer services in relation to private automated banking machines](/re-ed/abm-gap-eng)
+
+    **Title insurers**
+
+    * Guidance: [Title insurers](/re-ed/title-titre-eng)
+
+    Further reading:
+
+    * [FINTRAC's act and regulations](/act-loi/1-eng)
+    * [Canada Gazette, Part 2, Volume 159, Number 1: Regulations Amending Certain Regulations Made Under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act: SOR/2024-266](https://canadagazette.gc.ca/rp-pr/p2/2025/2025-01-01/html/sor-dors266-eng.html)
+    * [Canada Gazette, Part 2, Volume 159, Number 1: Regulations Amending Certain Regulations Made Under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act: SOR/2024-267](https://canadagazette.gc.ca/rp-pr/p2/2025/2025-01-01/html/sor-dors267-eng.html)
+
+## Related links
+
+* [Departmental plans](/publications/dp-eng)
+* [Departmental results reports](/publications/drr-rrm-eng)
+
+Date Modified:
+:   2026-04-13

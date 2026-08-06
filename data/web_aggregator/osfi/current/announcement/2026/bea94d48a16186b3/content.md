@@ -1,0 +1,82 @@
+# Filing financial returns
+
+Federally regulated financial institutions must file financial returns via the Regulatory Reporting System. See more information on how to [file and submit a return](/en/data-forms/reporting-returns/file-submit-return "File and submit a return").
+
+There are penalties for filing late returns, or returns with errors. See more information on the [Late and Erroneous Filing Penalties Framework](/en/data-forms/reporting-returns/file-submit-return/administrative-procedures-late-erroneous-filing-penalty-lefp-framework "Administrative Procedures for the Late and Erroneous Filing Penalty (LEFP) Framework").
+
+## On this page
+
+## All financial reporting instructions
+
+All financial returns must be submitted in the Regulatory Reporting System.
+
+You can find instructions, sample returns, templates and more in our database of financial reporting instructions.
+
+[Database of financial reporting forms and instructions](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions "Financial reporting instructions")
+
+## Reporting requirements
+
+Different types of federally regulated financial institutions have different reporting requirements.
+
+* [Reporting requirements for deposit-taking institutions](/en/data-forms/reporting-returns/filing-financial-returns/reporting-requirements-deposit-taking-institutions "Reporting Requirements for Deposit-Taking Institutions")
+* [Reporting requirements for life insurance companies and fraternal benefit societies](/en/data-forms/reporting-returns/filing-financial-returns/reporting-requirements-life-insurance-companies-fraternal-benefit-societies "Reporting Requirements for Life Insurance Companies and Fraternal Benefit Societies")
+* [Reporting requirements for property and casualty insurance companies](/en/data-forms/reporting-returns/filing-financial-returns/reporting-requirements-property-casualty-insurance-companies "Reporting Requirements for Property & Casualty Insurance Companies")
+* [Reporting requirements for federally regulated mortgage insurers](/en/data-forms/reporting-returns/filing-financial-returns/reporting-requirements-federally-regulated-mortgage-insurers "Reporting Requirements for Federally Regulated Mortgage Insurers")
+
+## Information specific to deposit-taking institutions
+
+### General instructions
+
+#### Rounding
+
+As a rule, figures in these forms are reported in thousands of dollars. Any exceptions to this rule are identified in the instructions. Rounding may result in details not adding to their stated totals. However, to ensure consistent reporting, the rounded detail items should be adjusted so that the totals and the sums of the components are identical. Institutions that wish to use a level of significance in millions should contact the Bank of Canada/Office of the Superintendent of Financial Institutions regarding the circumstances in which this can be implemented.
+
+#### Currency
+
+All figures are to be reported in Canadian currency. Where asset and liability reports indicate captions entitled "foreign currency", these figures should be foreign currency items translated to Canadian currency in accordance with the International Financial Reporting Standards (IFRS).
+
+#### Negative values
+
+Negative amounts should be reported with a negative (minus) sign. Do not put figures in brackets.
+
+#### Verification
+
+All additions, subtractions and calculations should be double-checked before reports are submitted. Totals and subtotals should be cross-checked to corresponding items in other reports. Institutions should retain work papers and other records used in preparing these reports.
+
+#### Applicability of generally accepted accounting principles
+
+All reports are to be prepared in accordance with generally accepted accounting principles (GAAP), the primary source of which is the Chartered Professional Accountants of Canada (CPA Canada) Handbook, except as otherwise specified by the Superintendent.  Effective January 1, 2011, the International Financial Reporting Standards (IFRS) were adopted into the CICA Handbook and are, therefore, GAAP.
+
+Accounting principles that have been specified by the Superintendent are referred to throughout these instructions. Further information is available in the Office's publication, Guidelines for Banks and Guidelines for Trust and Loan Companies.
+
+#### Rules of consolidation
+
+Consolidated financial statements should be prepared in accordance with IFRS. For purposes of these returns, all offices (i.e., branches and subsidiaries) that are within the scope of the consolidated institution are to be reported on a consolidated basis. Unless the report or line item instructions specifically state otherwise, this consolidation is to be on a line-by-line basis, according to the category shown.
+
+#### Contact information
+
+Bank of Canada: [IDAS-FIS@bank-banque-canada.ca](mailto:IDAS-FIS@bank-banque-canada.ca)   
+Office of the Superintendent of Financial Institutions (OSFI): [RA-RRS.Support@osfi-bsif.gc.ca](mailto:RA-RRS.Support@osfi-bsif.gc.ca)
+
+### Glossary of terms
+
+Refer to our [glossary of terms](/en/data-forms/reporting-returns/filing-financial-returns/glossary-terms "Glossary of Terms") for definitions of terms used in the instructions and forms for deposit-taking institutions. Please note that these definitions don’t necessarily apply to other regulations or for other legal purposes.
+
+### Government business enterprises
+
+This list of [Government business enterprises](/en/data-forms/reporting-returns/filing-financial-returns/government-business-enterprises-gbe "Government Business Enterprises (GBE)") is specific to deposit-taking institutions. Some Bank of Canada returns refer to this list.
+
+## Regulatory updates
+
+We update our forms and instructions on a regular basis. Here are the latest summaries of changes for reporting forms and instructions for deposit-taking institutions and insurance companies:
+
+* [2026 Memorandum - Earthquake Exposure Data](/en/guidance/guidance-library/2026-memorandum-earthquake-exposure-data "2026 Memorandum - Earthquake Exposure Data")
+* [2025 annual update to the manual of reporting forms and instructions for Deposit-Taking Institutions](/en/guidance/guidance-library/2025-annual-update-manual-reporting-forms-instructions-deposit-taking-institutions "“2025 Annual update” to the Manual of Reporting Forms and Instructions for Deposit-Taking Institutions ")
+* [2025 annual update to the manual of financial reporting forms and instructions for Life Insurance Companies and Fraternal Benefit Societies](/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-life-insurance-companies-fraternal "“2025 Annual Update” to the Manual of Financial Reporting Forms and Instructions for Life Insurance Companies and Fraternal Benefit Societies")
+* [2025 annual update to the manual of financial reporting forms and instructions for Property and Casualty Insurance Companies](/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-property-casualty-insurance "“2025 Annual Update” to the Manual of Financial Reporting Forms and Instructions for Property and Casualty Insurance Companies")
+* [2025 annual update to the manual of financial reporting forms and instructions for Canadian Mortgage Insurance Companies](/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-canadian-mortgage-insurance "“2025 Annual Update” to the Manual of Financial Reporting Forms and Instructions for Canadian Mortgage Insurance Companies")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2026-03-20

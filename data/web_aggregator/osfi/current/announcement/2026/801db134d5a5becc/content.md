@@ -1,0 +1,365 @@
+# Property and casualty insurance return – Section III – Definitions
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Insurance companies
+
+Return
+
+Property and casualty insurance return
+
+Last updated
+
+July 2025
+
+Table of contents
+
+Accompanying documents
+
+* [2025 Annual Update to the Manual of Financial Reporting Forms and Instructions for Property and Casualty Insurance Companies](/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-property-casualty-insurance)
+* [Property and casualty insurance return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/property-casualty-pc-insurance-return)
+
+## General
+
+Definitions have been included in these instructions to assist insurers with the preparation of their filings.
+
+This section is not a complete set of insurance and insurance accounting definitions or interpretations. It is related specifically to the preparation of the P&C Core Financial Statement Return, the Supervisory Quarterly and Supervisory Annual Returns and the Provincial Return.
+
+Other definitions are contained in the federal Insurance Companies Act and the various provincial and territorial insurance acts.
+
+Additional sources of definitions include:
+
+* [IBC Glossary](http://www.ibc.ca/on/resources/consumer-resources)
+* [A.M. Best Glossary of Insurance Terms](https://consumers.ambest.com/content.aspx?rec=261613)
+* [IRMI Risk and Insurance and Risk Management Terms](http://www.irmi.com/forms/online/insurance-glossary/terms.aspx#I)
+
+However, definitions contained in this section take precedence, for the completion of the P&C return, over any definition of the same terms contained in non-legislative sources.
+
+There may be jurisdictional differences in the interpretations of certain terms; please consult your primary regulator for technical interpretations.
+
+## Classes of Insurance Definitions
+
+The classes of insurance are defined below for ease of reference; however, please refer to your primary regulator's legislation or regulations.
+
+The classes of insurance are defined in the order they appear on the forms listed in the return.
+
+**Property - Personal** means insurance against the loss of, or damage to, property, and includes insurance against loss caused by forgery. It includes such classifications as habitational property and multi-peril policies, including residential contents of buildings such as apartments, rooming houses, motels, manufacturing and mercantile buildings and the liability exposure of personal package policies issued with indivisible premiums. This line would include fire policies, householder contents and homeowner personal risks, residential burglary and theft and special residential glass coverage. Casualty coverage such as personal liability for bodily injury would not be included in this category.
+
+**Home Warranty** refers to a contract of insurance issued by a warranty provider covering defects in the construction of a new home and consequential losses or costs incurred by the owner. It includes Deposit Protection and Home Completion Insurance in the province of Alberta:
+
+* **Deposit Protection** means insurance against the loss of a deposit paid to a residential builder or developer for the construction or reconstruction of a new home or for he purchase of land; and
+* **Home Completion Insurance** means insurance against the default of a residential builder to complete the construction or reconstruction of a new home.
+
+**Product Warranty** means insurance not incidental to any other class of insurance against loss of, or damage to, personal property, other than a motor vehicle, under which an insurer undertakes to pay the costs of repairing or replacing the personal property.
+
+**Property - Commercial** means insurance against the loss of, or damage to, property, and includes insurance against loss caused by forgery and all commercial property and multi-peril policies, but excludes all separate classes of insurance as defined by regulators (i.e. lines 10 through 70 of exhibits showing classes of insurance in the Annual Return).
+
+**Aircraft** means insurance against
+
+1. liability arising from bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an aircraft or the use of an aircraft; or
+2. the loss of, the loss of use of, or damage to, an aircraft.
+
+**Automobile** means insurance
+
+1. against liability arising from bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an automobile or the use or operation of an automobile;
+2. against the loss of, the loss of use of, or damage to, an automobile; or
+3. that falls within clause (i) or (ii) of the definition of accident and sickness insurance, if the accident is caused by an automobile or the use or operation of an automobile, whether or not liability exists in respect of the accident, and the policy includes insurance against liability arising from bodily injury to, or the death of, a person caused by an automobile or the use or operation of an automobile.
+
+Insurers are encouraged to report automobile classes of insurance on a basis consistent with those reported to the General Insurance Statistical Agency (GISA) for the statistical plans.
+
+Insurers should report under three sub-classes of coverage on the standard automobile insurance policy form as follows:
+
+|  | In all provinces excluding Quebec: | In Quebec: |
+| --- | --- | --- |
+| Liability | Section A | Chapter A |
+| Personal Accident | Section B | Endorsements #34, #34A |
+| Other | Section C (include Section D for Ontario) | Chapter B and all other endorsements |
+
+Private Passenger Auto excluding Farmers (PPAxF)
+:   PPAxF is defined as a combination of type of business 0, 1, 4, 5, 8, 9 and type of business 1-19. Other personal-use vehicles are classified as non-private passenger. All commercial vehicles including public-use vehicles are to be classified as non-private passenger.
+
+**Boiler and Machinery** means insurance
+
+1. against liability arising from bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by the explosion or rupture of, or accident to, pressure vessels of any kind or pipes, engines and machinery connected to or operated by those pressure vessels; or
+2. against liability arising from bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by a breakdown of machinery.
+
+**Equipment Warranty** means the sub-class of boiler and machinery insurance that covers loss of or damage to a motor vehicle or to equipment arising from its mechanical failure, but does not include automobile insurance or insurance incidental to automobile insurance.
+
+**Credit Insurance** means insurance against loss to a person who has granted credit if the loss is the result of the insolvency or default of the person to whom the credit was granted.
+
+**Credit Protection** means insurance under which an insurer undertakes to pay off credit balances or debts of an individual, in whole or in part, in the event of an impairment or potential impairment in the individual's income or ability to earn an income.
+
+**Fidelity** means insurance against loss caused by the theft, the abuse of trust or the unfaithful performance of duties by a person in a position of trust; and insurance under which an insurer undertakes to guarantee the proper fulfilment of the duties of an office.
+
+**Hail** means insurance against the loss of, or damage to, crops in the field caused by hail.
+
+**Legal Expenses** means insurance against the costs incurred by a person or persons for legal services specified in the policy, including any retainer and fees incurred for the services, and other costs incurred in respect of the provision of the services.
+
+**Liability** means insurance, other than insurance that falls within another class of insurance,
+
+1. against liability arising from bodily injury to a person or the disability or death of a person, including an employee;
+2. against liability arising from the loss of, or damage to, property; or
+3. if the policy includes the insurance described in sub-clause (i), against expenses arising from bodily injury to a person other than the insured or a member of the insured's family, whether or not liability exists.
+
+Insurers are encouraged to report liability classes of insurance on a basis consistent with those reported to the General Insurance Statistical Agency (GISA) for the statistical plans.
+
+Insurers should report under seven sub-classes of coverage the liability class of insurance as follows:
+
+**Comprehensive General Liability (with products)** means general liability policy. These include, but are not limited to, the following coverages:
+
+1. Bodily injury and property damage liability;
+2. Personal injury liability;
+3. Products and completed operations liability;
+4. Employers' liability and voluntary compensation (injury not covered by workers' compensation);
+5. Contractual liability;
+6. Owners', landlords' and tenants' liability.
+
+**Comprehensive General Liability (without products)** means a CGL policy with an endorsement excluding products and completed operations liability.
+
+**Cyber Liability** means coverage of risks associated around liability to third parties for losses arising out of the use of e-commerce or internet related activities. Examples of this coverage include:
+
+1. Privacy liability
+2. Identity theft response
+3. Network computer security
+4. Internet media liability
+5. Cyber extortion
+
+**Directors and Officers Liability** means liability as a result of accepting a position within a corporation.
+
+**Excess Liability** means coverage that operates to supplement limits of liability that are available at the primary level of a particular underlying policy.
+
+For policies that provide pure excess coverage over other separate policies, regardless of the type of liability coverage provided.
+
+**Professional Liability** means a policy which provides coverage for those "professionals" who have a liability exposure arising from a specialized service provided (e.g. giving advice, providing counselling or administering a service).
+
+Includes errors and omissions and malpractice coverages. Excludes Directors and Officers coverage.
+
+**Umbrella Liability** means liability coverage that provides both excess coverage for underlying liability policies and primary level insurance for the broader coverage it provides.
+
+**Pollution Liability** means coverage for pollution or environmental liability that is written as a separate policy.
+
+**Other** means any insurance written under the liability class of insurance license that does not fall within the above categories.
+
+**Mortgage** means insurance against loss caused by default on the part of a borrower under a loan secured by a mortgage or charge on, or other security interest in, real property.
+
+**Other Approved Products** means insurance against risks that do not fall within another class of insurance.
+
+**Surety** means insurance under which an insurer undertakes to guarantee the due performance of a contract or undertaking or the payment of a penalty or indemnity for any default.
+
+Insurers should report separately for contract surety and all other surety.
+
+**Title** means insurance against loss or damage caused by
+
+1. the existence of a mortgage, charge, lien, encumbrance, servitude or any other restriction on real property;
+2. the existence of a mortgage, charge, lien, pledge, encumbrance or any other restriction on personal property;
+3. a defect in any document that evidences the creation of any restriction referred to in sub-clause (i) or (ii);
+4. a defect in the title to property; or
+5. any other matter affecting the title to property or the right to the use and enjoyment of property.
+
+**Marine** means insurance against
+
+1. liability arising from
+
+   1. bodily injury to, or the death of, a person; or
+   2. the loss of, or damage to, property; or
+   3. the loss of, or damage to, property, occurred during a voyage or marine adventure at sea or on an inland waterway, or during a delay or a transit other than by water that is incidental to a voyage or marine adventure at sea or on an inland waterway.
+
+**Accident and Sickness** means insurance
+
+1. against loss resulting from bodily injury to, or the death of, a person caused by an accident;
+2. under which an insurer undertakes to pay a sum or sums of money in the event of bodily injury to, or the death of, a person caused by an accident;
+3. against loss resulting from the sickness or disability of a person not caused by an accident, but excludes loss resulting from the death of the person as a consequence of sickness;
+4. under which an insurer undertakes to pay a sum or sums of money in the event of the sickness or disability of a person not caused by an accident; or
+5. under which an insurer undertakes to pay a sum of money in respect of the health care, including dental care and preventative care, of a person.
+
+## Other Definitions
+
+AAR
+:   Appointed Actuary's Report
+
+Act
+:   Insurance Companies Act (ICA - Federal), Insurers Act, CQLR, c. A-32.1, or an act respecting insurance or similar legislation in other provincial or territorial jurisdictions.
+
+Affiliate
+:   A person or entity directly or indirectly controlling, being controlled by, or under common control with another person or entity.
+
+Ancillary Operations
+:   Any function that provides support or service to the insurance or investment operations can be considered an ancillary operation.
+
+Associate
+:   An associate is an entity, including an unincorporated entity such as a partnership, over which the investor has significant influence and that is neither a subsidiary nor an interest in a joint venture. "Significant influence" is defined in accordance with IFRS. For further detail on the definition of the term "associated", please refer to OSFI's [MCT Guideline](/en/guidance/guidance-library "Guidance library").
+
+Assume
+:   To accept risk from a ceding company.
+
+Canadian Branch
+:   Canadian branch of a foreign insurer that is insuring in Canada the risks.
+
+Cede
+:   Transfer of risk to assuming reinsurers / insurers.
+
+Contingent Commission
+:   Any commission not exclusively attributable to premium volume is a contingent commission and would be considered non-deferrable.
+
+Control
+:   Control is the power to govern the financial and operating policies of an entity so as to obtain benefits from its activities, in accordance with the meaning of the term under IFRS.
+
+Deposits of Reinsurers
+:   Deposits provided by unregistered reinsurers may also be used to reduce the capital/margin otherwise required for unregistered reinsurance, provided that such deposits materially reduce the risk associated with the reinsurer's credit quality.
+
+Experience Rating Refunds
+:   A refund to the insured that is based on a clause or agreement in an insurance contract that allows the insured to share in the favourable underwriting results of the contract. Also known as a "retrospective rating refund."
+
+Financing Reinsurance
+:   Where an agreement that is called a reinsurance agreement does not have as its primary purpose the transfer of insurance risk, such an agreement will be regarded as a financing or funding agreement rather than a reinsurance agreement and must be reported accordingly.
+
+Government Grade
+:   Refer to the [Minimum Capital Test (MCT) Guideline](/en/guidance/guidance-library "Guidance library") for guidance on government grade obligations.
+
+Incurred But Not Reported (IBNR)
+:   The additional claim reserves established to cover claims, including related adjustment expenses, which have occurred but which have not been reported to the insurer before the date of valuation, and for additional reserves set up to allow for an anticipated development in case reserves.
+
+Internal Target Capital Ratio
+:   The level of capital, based on the company's own risk and capital adequacy assessment process, necessary to cover the risks specified in the capital tests as well as all other risks of the insurer. Refer to OSFI's [Guideline A-4](/en/guidance/guidance-library "Guidance library") for further details.
+
+Joint Venture
+:   A contractual arrangement whereby two or more parties undertake an economic activity that is subject to joint control.
+
+Letters of Credit
+:   For Canadian insurers, to a limited extent, regulators are prepared to recognize approved letters of credit as security maintained in Canada for purposes of reducing the capital otherwise required for unregistered reinsurance.
+:   For Foreign insurers, to a limited extent, regulators are prepared to recognize approved letters of credit as security maintained in Canada for purposes of reducing the assets and margin otherwise required for unregistered reinsurance or a self-insured retention and the total value of assets otherwise required to be maintained in Canada.
+:   Refer to "[Section V - Jurisdictional Requirements](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-insurance-return-section-v-jurisdictional-requirements "Property and casualty insurance return – Section V – Jurisdictional Requirements")" for more information on federal requirements and the provincial requirements of Quebec and Ontario. Please also refer to "[Section IV - Detailed Instructions](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-insurance-return-section-iv-detailed-instructions "Property and casualty insurance return – Section IV – Detailed Instructions")" for assistance in completing page 70.38/70.39 and to obtain additional guidance with respect to letters of credit.
+
+Notional Principal Amount
+:   The notional principal amount is:
+
+    1. the stated notional amount, except where the stated notional amount is leveraged or enhanced by the structure of the transaction. In these cases, insurers must use the actual or effective notional amount when determining potential future exposure;
+    2. nil, where the credit exposure on single currency floating/floating interest rate swaps would be evaluated solely on the basis of their marked-to-market value; or
+    3. for contracts with multiple exchanges of principal, the sum of the remaining payments.
+
+Nuclear Risk
+:   Nuclear risk is not a separate class of insurance. The physical damage portion of nuclear risk coverage must be reported as property insurance, and the third-party liability portion must be reported as liability insurance.
+
+Policy Dividends
+:   Amounts paid to participating policyholders as determined by the insurer, and as prescribed by the insurance contract.
+
+Rating Refunds
+:   Refer to the definition of **Experience Rating Refunds.**
+
+Reciprocal Insurance Exchanges
+:   A group of subscribers exchanging reciprocal contracts of indemnity of inter-insurance with each other through a principal attorney as defined in some provincial jurisdictions.
+
+Registered and Unregistered Insurer
+:   The terms "registered" and "unregistered" are relevant in determining whether credit can be taken for reinsurance placed by federally regulated insurers and provincially incorporated insurers, respectively.
+
+    Please refer to the [MCT Guideline](/en/guidance/guidance-library "Guidance library") for further clarification.
+
+    **Provincially Incorporated Insurers:**
+
+    **Registered insurers** in a particular jurisdiction are insurers that are licensed in that jurisdiction. Certain regulators will also accept (re)insurers not licensed in their jurisdiction, but incorporated and licensed in another jurisdiction, as registered.  
+    Please verify with your primary regulator.
+
+    **Unregistered insurers** are insurers not licensed by one or more provincial regulators, and are not federally registered.
+
+Regulator
+:   The federal, provincial or territorial government agency responsible for the control and regulation of the insurance industry under its jurisdiction. The primary regulator is the regulator in the jurisdiction under which the insurer (a) obtained its order to carry on business; or (b) was incorporated.
+
+Reinsurance
+:   The transfer of some or all of an insurance risk to another insurer. The company transferring the risk is called the "ceding company"; the company receiving the risk is called the "assuming company" or "reinsurer."
+
+Reinsure
+:   To transfer significant insurance risk from one insurer to another insurer.
+
+Retrospective Rating Credits
+:   Refer to the definition of **Experience Rating Refunds**.
+
+Salvage and Subrogation Recoverable
+:   Salvage is the residual value that belongs to the insurer as a result of paying an insured's claim for the property covered by a policy issued by the insurer.
+
+    Subrogation is the assumption by an insurer of an insured's legal right to collect damages.
+
+Significant Dependencies
+:   Examples include 10% or more of total premiums from one source; fundamental operations or systems provided by others (claims, information technology, policy issuance, etc.).
+
+Stop Loss
+:   Cedant is reimbursed costs in excess of a specified amount (attachment point) up to a defined maximum.
+
+Structured Settlements
+:   A structured settlement refers to a contractual arrangement whereby a third party makes periodic payments to a claimant of an insurer.
+
+    The periodic payments are normally funded through the purchase by the insurer of an annuity from a life insurance enterprise and are usually arranged so that the payments are tax free in the hands of the claimant.
+
+    The insurer may have to report a financial liability and a financial asset on its balance sheet, depending on the type of contractual arrangement, and must disclose the information required in its notes to the financial statements.
+
+    There are essentially two types of structured settlements.
+
+Type 1
+:   Type 1 structured settlements have the following characteristics:
+
+    1. An annuity is purchased by an insurer who is named as the owner. There is an irrevocable direction from the insurer to the annuity underwriter to make all payments directly to the claimant.
+    2. Since the annuity is non-commutable, non-assignable and non-transferable, the insurer is not entitled to any annuity payments, and there are no rights under the contractual arrangement that would provide any current or future benefit to the insurer.
+    3. The insurer is released by the claimant to evidence settlement of the claim amount.
+    4. The insurer remains liable to make payments to the claimant in the event and to the extent the annuity underwriter fails to make payments under the terms and conditions of the annuity and the irrevocable direction given.
+
+    Under this type of structured settlement arrangement, the insurer does not have to recognize a liability to the claimant, nor does it have to recognize the annuity as a financial asset. However, the insurer is exposed to credit risk by guaranteeing the obligation of the annuity underwriter to the claimant.
+
+    The insurer should disclose in its notes to the financial statements the terms and conditions, the credit risk and the fair value of this financial guarantee.
+
+    Any gain or loss should be recorded as an adjustment of incurred claims expense. The insurer also should not recognize a financial asset at the time of purchase where the terms of the annuity make it commutable in the event the liability to the claimant becomes fully settled or otherwise discharged. In these circumstances, the insurer could record a gain amounting to the residual value after the liability is fully settled.
+
+    In this case, the contingent gain should be assessed for disclosure in the notes with respect to its amount, nature and terms and conditions.
+
+Type 2
+:   Type 2 structured settlements differ from Type 1 in that:
+
+    1. the annuity is commutable, assignable or transferable; that is to say, there is some form of reversionary interest or continuing right to a benefit for the insurer; and
+    2. a legal release is not necessarily obtained from the claimant.
+
+    The commutation rights of the insurer have the potential for terminating the claimant's right to future payments in advance of the annuity being exhausted.
+
+    The extent of the rights held by the insurer sometimes indicates that the insurer has contracted with the annuity underwriter to provide only administrative services with respect to the periodic payments.
+
+    Under this type of arrangement, the insurance liability must be recognized on the insurer’s balance sheet, and the annuity must be recognized as an asset.
+
+    The annuity asset should be carried initially at its cost to the insurer, and the liability should be measured in the same manner as other outstanding claim liabilities of similar type.
+
+    The insurer should disclose in its notes to the financial statements the terms and conditions, the credit risk and the fair value of the annuities recognized as assets on the balance sheet.
+
+    Refer to the section on federal guidelines and bulletins in "[Section V - Jurisdictional Requirements](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-insurance-return-section-v-jurisdictional-requirements "Property and casualty insurance return – Section V – Jurisdictional Requirements")."
+
+Subordinated Indebtedness
+:   Includes all indebtedness of the insurer that, in the event of the insolvency or winding-up of the insurer, are subordinate to all policy liabilities of the insurer and all other liabilities except those that rank equally with, or are subordinate to, such indebtedness.
+
+    Refer to the MCT Guideline for further information.
+
+Subsidiary
+:   In accordance with IFRS, a subsidiary is an entity, including an unincorporated entity such as a partnership, that is controlled by another entity (known as the parent).
+
+Substantial Investment
+:   For federally registered insurers, section 10 of the Insurance Companies Act (ICA) defines a substantial investment as follows:
+
+    * "the voting rights attached to the aggregate of any voting shares [owned] exceed 10 per cent of the voting rights attached to all of the outstanding voting shares;"
+
+      or
+    * "the aggregate of any shares" which are owned "represents ownership of greater than 25 per cent of the shareholders' equity."
+
+    Subsection 495(4) of the ICA provides that a property and casualty insurance company wanting to acquire or increase a substantial investment in a financial institution must control the financial institution (that is, must have more than 50% of the votes to elect directors), except as permitted under subsection 495(5).
+
+    For provincially incorporated insurers, please consult with your primary regulator for any jurisdictional differences.
+
+Unregistered Insurer (Company)
+:   Refer to the definition under [**Registered and Unregistered Insurers**](#Reg).
+
+Unregistered Reinsurer
+:   Refer to the definition under [**Registered and Unregistered Insurers**](#Reg).
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-07-16

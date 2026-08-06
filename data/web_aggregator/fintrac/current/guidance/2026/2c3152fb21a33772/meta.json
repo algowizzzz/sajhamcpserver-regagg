@@ -1,0 +1,24 @@
+{
+  "doc_id": "2c3152fb21a33772",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "D\u00e9claration de contournement soup\u00e7onn\u00e9 des sanctions",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/transaction-operation/sanctions/sanctions-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f095d46941b667267ec393e60dc68eb22d5531d057d55cafb35cdac3128be5ef",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/2c3152fb21a33772",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "ace418656b6aa156",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Self-Assessment Tool for Mortgage Sector",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/re-ed/mortgage-hypotheque/1-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:565567380accc95617f529e672a8ce32b7998780eaa71f0aab5bab992c5056ff",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/ace418656b6aa156",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

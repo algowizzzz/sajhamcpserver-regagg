@@ -1,0 +1,1 @@
+Summary: # [Joint Board of Appeal dismisses appeal against the EBA](/press-news/esma-news/joint-board-appeal-dismisses-appeal-against-eba)

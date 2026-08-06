@@ -1,0 +1,37 @@
+![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS-logo_1280x512.svg)
+
+[Back To Newsroom](/node/241971)
+
+## Acting Superintendent Kaitlin Asrow Secures $400,000 Settlement with Santander Consumer
+
+SHARE
+
+### Acting Superintendent Kaitlin Asrow Secures $400,000 Settlement with Santander Consumer
+
+Santander Consumer Will Return More than $275,000 to New Yorkers for Misleading Lending Practices
+
+**June 3, 2026**
+
+New York State Department of Financial Services Acting Superintendent Kaitlin Asrow announced today that Santander Consumer USA Inc. (Santander Consumer) will pay a $400,000 penalty and more than $275,000 to eligible impacted borrowers for violations of New York State Banking Law. An investigation determined the company imposed undisclosed extension fees on automobile loans.
+
+“The Department is committed to holding institutions accountable for essential consumer safeguards under New York Law,” **said Acting Superintendent Asrow**. “Today’s settlement puts money back in the pocket of New Yorkers for clear violations.”
+
+As a licensed lending institution, Santander Consumer permits consumers to request an extension of time to make payments on automobile loans. New York Banking Law prohibits licensees from advertising, printing, displaying, publishing, distributing, or broadcasting any statements or representations regarding rates, terms, or conditions of lending which are false, misleading, or deceptive. The Department’s investigation revealed that despite the extension agreement that was displayed, published, and distributed by Santander Consumer only disclosing a single $25.00 extension fee, in practice Santander Consumer charged borrowers an extension fee of $25.00 per month.
+
+Although Santander Consumer voluntarily ceased charging these undisclosed extension fees, this practice resulted in New York borrowers paying approximately $237,000 in undisclosed fees. Santander Consumer also assessed, but did not collect, $86,000 in undisclosed fees from other New York borrowers.
+
+Today’s settlement requires Santander Consumer to provide restitution to all eligible impacted borrowers in the form of either checks to refund paid fees (with interest) or a waiver of assessed but unpaid fees.
+
+Read the consent order on the [Department’s website](https://www.dfs.ny.gov/industry_guidance/enforcement_actions). Consumers may be eligible for restitution if they had an automobile loan with Santander prior to 2018. For inquiries related to restitution, consumers can call Santander toll free at: 888-356-0269.
+
+###
+
+### Contact the Press Office
+
+Contact us by phone:
+
+(212) 709-1691
+
+Contact us by email:
+
+[[email protected]](/cdn-cgi/l/email-protection#e4949186888d87c9858282858d9697a4808297ca8a9dca838b92)

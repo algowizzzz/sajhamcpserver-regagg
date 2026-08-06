@@ -1,0 +1,74 @@
+# Administrative monetary penalty on Marouf Management Inc.
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2025-05-13**]
+
+Marouf Management Inc., also operating as Marouf Currency Exchange and 1998063 Ontario Inc., a money services business in Toronto, Ontario, was imposed an administrative monetary penalty of $249,480.50 on November 4, 2024, for committing 6 violations. The violations were found during the course of a compliance examination in 2023. Marouf Management Inc. has appealed the decision to the Federal Court.
+
+## Nature of violation
+
+Violation #1
+:   **Failure to develop and apply written compliance policies and procedures that are kept up to date and, in the case of an entity, are approved by a senior officer – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 156(1)(b)**
+
+    FINTRAC determined that Marouf Management Inc. did not comply with the requirements of paragraph 156(1)(b) of the Regulations. Marouf Management Inc. had incomplete and inadequate policies and procedures. This was determined based on the results from the review of the documentation provided, interviews, as well as testing of transaction records.
+
+    FINTRAC confirmed that Marouf Management Inc.’s policies and procedures did not address the vast majority of the requirements under Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act) and associated Regulations. The policies and procedures also contained incorrect information related to suspicious transaction reports. FINTRAC also determined that Marouf Management Inc.’s policies and procedures did not address ministerial directive requirements, despite products and services being extended to countries subject to ministerial directives.
+
+    Policies and procedures are critical in a compliance program as they set out and communicate important principles and standards that employees and delegated persons with compliance responsibilities must meet in a consistent manner. Documented policies and procedures also serve to ensure clarity and consistency in business operations. Failing to develop, apply, and keep written compliance policies and procedures up to date can result in not meeting other requirements set out in the Act and associated Regulations, and undervalues sound business practices designed to minimize a business’ exposure to money laundering and terrorist activity financing. Partially documented policies and procedures potentially leave employees, or those acting on behalf of the business, unaware of the exact actions to take or appropriate decisions to make, in order to comply, when specific situations arise in practice.
+
+    In this case, violation #1 is classified by regulations as a Serious violation. The imposed penalty takes into account the criteria in section 73.11 of the Act and section 6 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations.
+
+Violation #2
+:   **Failure of a person or entity to assess and document the risk referred to in subsection 9.6(2) of the Act, taking into consideration prescribed factors, which is contrary to subsection 9.6(1) of the – Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act) and Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 156(1)(c)**
+
+    Marouf Management Inc. did not assess and document risks related to money laundering and terrorist financing activity.
+
+    Marouf Management Inc. failed to consider the risks of their products, services, and delivery channels, risks related to new developments and technologies, or other relevant factors. Marouf Management Inc. also did not establish risk assessment processes for clients and business relationships. Finally, Marouf Management Inc. had not assessed the specific geographical risks that are associated with its operations.
+
+    Assessing and documenting money laundering and terrorist financing risks ensures that reporting entities are aware of their potential exposure and vulnerability. Failing to assess and document the risks of money laundering and terrorist financing prevents reporting entities from identifying areas of its operations that are vulnerable to being exploited for these purposes, and prevents appropriate mitigation measures from being put in place. This can also lead to failing to identify high-risk clients and business relationships for which enhanced risk mitigation measures must be applied. This can further result in the failure to detect and report suspicious transactions to FINTRAC.
+
+    In this case, violation #2 is classified by regulations as a Serious violation. The imposed penalty takes into account the criteria in section 73.11 of the Act and section 6 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations.
+
+Violation #3
+:   **Failure to comply with a ministerial directive – Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act), section 11.43**
+
+    Marouf Management Inc. failed to comply with the Ministerial Directive on Financial Transactions Associated with the Islamic Republic of Iran. Specifically, the examination of the money services business revealed 44 instances where Marouf Management Inc. failed to report to FINTRAC transactions originating from Iran, conducted on or after July 25, 2020, regardless of the amount.
+
+    To safeguard the integrity of Canada's financial system, the Minister of Finance has the authority to issue directives to reporting entities in respect of a designated foreign jurisdiction or entity. A directive allows the Minister to require that specific measures be carried out beyond those of the Act and associated Regulations when a foreign jurisdiction or entity is at a heightened risk of facilitating money laundering and terrorist financing. Non-compliance with a minister's directive poses a very high risk to the integrity of Canada's financial system and the safety of Canadians. This is because detection and mitigation measures would not be applied to transactions originating from or destined to a foreign state or a foreign entity that has an ineffective or insufficient anti-money laundering and anti-terrorist financing regime. In a worst case scenario, suspicious transactions related to money laundering or terrorist financing offences could remain undetected, posing a risk to the financial system and the safety of Canadians.
+
+    In this case, violation #3 is classified by regulations as a Very Serious violation. The imposed penalty takes into account the criteria in section 73.11 of the Act and section 6 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations.
+
+Violation #4
+:   **Failure to keep prescribed records – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 36(i)**
+
+    FINTRAC examined 44 transaction tickets with respect to foreign exchange tickets related to transfers bound to or originating from Iran. Marouf Management Inc. failed to record the exchange rate and its source for all 44 foreign exchange transaction tickets.
+
+    Record keeping requirements are important to Canada's anti-money laundering and anti-terrorist financing regime because they compel the preservation of the information that is needed to achieve the objectives of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act) and FINTRAC's mandate. Records that businesses are required to keep serve many purposes for the reporting entity, law enforcement and FINTRAC. Records with missing, incomplete, incorrect or inadequate information may affect the reporting entity’s ability to submit high quality and timely transaction reports to FINTRAC and to conduct effective risk assessments. They may also interfere with law enforcement investigations, and with FINTRAC's ability to ensure compliance with the Act and associated Regulations.
+
+    In this case, violation #4 is classified by regulations as a Minor violation. The imposed penalty takes into account the criteria in section 73.11 of the Act and section 6 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations.
+
+Violation #5
+:   **Failure of an applicant or a registered person or entity to submit an application for registration in the prescribed manner and with the prescribed information – Proceeds of Crime (Money Laundering) and Terrorist Financing Registration Regulations, paragraph 4(a) and section 5**
+
+    Marouf Management Inc. registered as a money services business with FINTRAC; however, the contents of the registration did not reflect Marouf Management Inc.’s operations. Marouf Management Inc. indicated offering virtual currency transactions; however, during the examination Marouf Management Inc. confirmed no virtual currency services were offered. Additionally, Marouf Management Inc. confirmed the money services business had bank accounts used to remit or transmit funds; however, the bank information was not provided at the time of registration.
+
+    Money services businesses must register with FINTRAC to ensure that FINTRAC is aware of the businesses that operate in Canada and their activities. The information in the Money Services Business Registry helps FINTRAC ensure effective compliance in the sector, using a risk-based approach. When money services businesses fail to register and keep their registration information up to date, FINTRAC's ability to ensure that they comply with the requirements that are designed to detect, prevent and deter money laundering and terrorist financing offences is impacted.
+
+    In this case, violation #5 is classified by regulations as a Serious violation. The imposed penalty takes into account the criteria in section 73.11 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and section 6 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations.
+
+Violation #6
+:   **Failure to submit notification of change to money services business registration – Proceeds of Crime (Money Laundering) and Terrorist Financing Registration Regulations, paragraph 4(b) and section 5**
+
+    Marouf Management Inc. confirmed using other money services businesses to facilitate client transactions; however, Marouf Management Inc. did not update its registration within 30 days to document the money services businesses used to conduct transactions.
+
+    The money services business registration information lets FINTRAC know of the types of activities, products and services provided by money services businesses that could be used for money laundering and terrorist financing, such as cash transactions and transferable monetary instruments, international electronic funds transfers, informal remittance systems and foreign currency exchanges. Money services business registration information also includes details on a business’ model and size. This information allows FINTRAC to understand the complexity of the business’ operations and helps to assess the risks and consequences of non-compliance. Registration information that is not submitted in the prescribed manner or that is incomplete, outdated, or unclear diminishes the effectiveness of FINTRAC's compliance activities and its ability to ensure compliance in the money services business sector.
+
+    In this case, violation #6 is classified by regulations as a Serious violation. The imposed penalty takes into account the criteria in section 73.11 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and section 6 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations.
+
+## Related link
+
+* [News Release : FINTRAC imposes an administrative monetary penalty on Marouf Management Inc.](/new-neuf/nr/2025-05-13-eng)
+
+Date Modified:
+:   2025-05-13

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-15655",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15655/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies",
+  "reference_number": "2026-15655",
+  "published_date": "2026-08-03",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a12046d21ac046baf3dfef16b9c760c3639da6c4893a90284805d491843eae0a",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-15655",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

@@ -1,0 +1,12 @@
+# CANAFE impose une pénalité administrative pécuniaire à la Banque Laurentienne du Canada
+
+[**2022-04-29**]
+
+Banque Laurentienne du Canada, une banque établie à Montréal, au Québec, faisant également affaire sous le nom de Laurentian Bank of Canada, s'est vu imposer une pénalité de 486 750 $ le 17 février 2022 pour avoir commis une violation. La violation a été observée dans le cadre d’un examen de conformité réalisé en 2020. La pénalité a été payée et le dossier est clos.
+
+**Violation no 1 – Fait de ne pas déclarer des opérations douteuses – article 7 de la Loi**
+
+Banque Laurentienne du Canada n’a pas soumis de déclaration d’opérations douteuses relativement à des opérations à l’égard desquelles il y avait des motifs raisonnables de soupçonner qu’elles étaient liées à la perpétration d’une infraction de recyclage des produits de la criminalité.
+
+Date de modification :
+:   2022-04-29

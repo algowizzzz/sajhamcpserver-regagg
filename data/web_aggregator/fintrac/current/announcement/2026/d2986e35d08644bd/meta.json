@@ -1,0 +1,24 @@
+{
+  "doc_id": "d2986e35d08644bd",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Les plateformes de sociofinancement et certains fournisseurs de services de paiement doivent s'inscrire aupr\u00e8s de CANAFE",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/notices-avis/2022-07-21-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7fa3c140d71e47d2336c6d3a37d479aedbbe9e1dc2b4a81ce81301f855a4c5ea",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/d2986e35d08644bd",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

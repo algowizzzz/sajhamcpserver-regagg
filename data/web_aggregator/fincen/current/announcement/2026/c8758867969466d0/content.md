@@ -1,0 +1,49 @@
+# SAR Helps in Investigation of Doctor Prescribing Thousands of Pain Relief Pills
+
+[Issue 23-story2.pdf](/system/files/case_example/Issue%2023-story2.pdf "Issue 23-story2.pdf")
+(69.66 KB)
+
+A doctor who distributed more high powered pain pills than the largest regional medical center was brought to justice with the help of BSA records. In these types of investigations, proving that the prescriptions for pain relief are unwarranted can be very difficult because doctors often follow the letter of the law by seeing and listening to patients – although in very short sessions. However, a SAR detailed structuring that indicated additional financial crimes.
+
+A Federal judge sentenced the defendant to several years in prison and years of supervised release for distribution of a controlled substance and structuring financial transactions. The doctor prescribed tens of thousands of one type of pain relief pills in less than a year. By contrast, over the same period the region’s largest hospital ordered less than 20 percent of that number of tablets.
+
+According to records filed in the case and statements in open court, investigators began examining the defendant’s prescribing practices after numerous drug dealers were arrested with prescriptions the defendant had prescribed. Investigators sent a test patient into the clinic, who obtained a prescription for the powerful narcotic with only a cursory examination. The patient was also able to get the prescription renewed after subsequent visits that lasted about a minute. When investigators served a search warrant on the doctor’s home, office, and storage unit, they found hundreds of thousands of dollars in cash that he had never declared on his tax returns. The doctor admitted attempting to deposit it in amounts below $10,000 to avoid bank reporting requirements. The defendant’s plea agreement included a forfeiture of more than $1 million seized in the case. In re questing the multi-year prison term, prosecutors wrote to the court that as a medic al professional the defendant knew far better than the typical drug dealer the dangers of the substances he was distributing.
+
+As part of the investigation, analysts made several queries of the BSA records database over an extended period. During one query, they discovered a SAR filed by a financial institution that noted that in a 2-month period the doctor was responsible for more than 10 cash deposits totaling more than $94,000 in structured amounts. The discovery of the structuring indicated that he was making a lot of money and trying to hide it from the IRS. Interestingly, at some point the doctor became concerned about triggering a CTR and withdrew his money and closed the account at that financial institution.
+
+According to the case agent, the existence of the SAR proved critical to the investigation. First, the record showed evidence of another criminal activity – structuring. Second, the SAR also showed the potential of tax violations. Law enforcement officials have found that prosecuting doctors on suspect prescriptions is often difficult because the doctors follow the technical aspects of the law when it comes to patient care. But in this case, the probable financial violations helped generate enthusiasm for a robust criminal investigation.
+
+The evidence of structuring helped secure a search warrant for the defendant’s office. During that search, they found a statement of a business checking account from a local credit union. The credit union account had a balance of nearly $500,000 with more than $100,000 in structured deposits for the month and no withdrawals. Sensing that the account would be seized, the doctor withdrew most of the funds in the form of a cashier’s check just before the investigators were able to seize the money. Agents eventually retrieved the check from the doctor’s wife.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* Issue 23, May 2013]
+
+Tags
+
+Narcotics Trafficking
+
+Involving SARs
+
+Depository Institutions
+
+BSA Violations
+
+Tax Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

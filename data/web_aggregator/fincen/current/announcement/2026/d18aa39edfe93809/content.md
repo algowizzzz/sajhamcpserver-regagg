@@ -1,0 +1,204 @@
+# FinCEN Guidance-FIN-2008-G004(Replaces 10/31/05 FAQs)
+
+## Advisory Information
+
+FIN-2008-G004(Replaces 10/31/05 FAQs)
+
+[fin-2008-g004.pdf](/system/files/guidance/fin-2008-g004.pdf "fin-2008-g004.pdf")
+(98.1 KB)
+
+Issued Date
+
+March 20, 2008
+
+Subject
+
+requently Asked Questions Anti-Money Laundering Program and Suspicious Activity Reporting Requirements for Insurance Companies
+
+|  |
+| --- |
+| This guidance originally was issued on October 31, 2005. We have updated the guidance provided in these frequently asked questions at question 7, further coordinating the answer with guidance provided in the final anti-money laundering program rule for insurance companies that was published in the Federal Register on November 3, 2005. We additionally published frequently asked questions for insurance companies as FIN-2006-G010 on May 31, 2006. Insurance companies may continue to rely on the guidance contained in FIN-2006-G010, which has not been incorporated into this publication. |
+
+We are providing the following "Frequently Asked Questions" to assist insurance companies in understanding the scope of the final rules.
+
+1.Why is the Financial Crimes Enforcement Network issuing a regulation requiring insurance companies to establish anti-money laundering programs?
+
+As with all of our regulations requiring the establishment of an anti-money laundering program, we are issuing this regulation to better protect a class of financial institutions - in this case, the insurance industry - from potential abuse by criminals and terrorists, thereby enhancing the protection of the U.S. financial system generally. The characteristics of financial products, including certain insurance products, make them potentially vulnerable to those seeking to launder money. This regulation is a key step in ensuring that the Bank Secrecy Act is applied appropriately to these businesses.
+
+Recognizing the need for a more comprehensive anti-money laundering regime, Congress passed and the President signed into law the USA PATRIOT Act, which, among other things, requires that all entities defined as financial institutions for Bank Secrecy Act purposes establish anti-money laundering programs. An insurance company is defined as a "financial institution" under the Bank Secrecy. The USA PATRIOT Act further directs the Secretary of the Treasury to prescribe through regulation minimum standards for such programs.
+
+2.Does the final rule apply to all insurance companies?
+
+No. The term "insurance company" or "insurer" is defined in the final rule to describe any person engaged within the United States as a business in the issuing or underwriting of "covered products." Covered products, discussed further below, are those insurance products that we have determined to present a higher degree of risk for money laundering.
+
+The phrase "as a business" in the definition of "insurance company" is intended to exclude those persons that offer annuities or other covered products as an incidental part of their business. For example, a tax-exempt organization that offers charitable gift annuities, as defined in section 501(m)(5) of the Internal Revenue Code, that would not otherwise fall within the definition of an insurance company, would not be considered an insurance company for purposes of the final rule.
+
+If an insurance company that is not presently issuing or underwriting a covered product should do so in the future, the insurance company would then become subject to the rule (but only to the extent of its business relating to covered products). Conversely, if an insurance company ceases issuing or underwriting covered products, the insurance company would no longer be subject to the rule.
+
+An insurance company that is registered with the Securities and Exchange Commission as a broker-dealer in securities would not be required to establish a duplicate program under the final rule for insurance companies. Broker-dealers in securities currently are subject to an independent anti-money laundering program obligation under our regulations, 31 CFR 103.120; therefore, the insurance company would not be required to establish a separate anti-money laundering program in order to comply with the final rule, as long as it has established an anti-money laundering program pursuant to that requirement and complies with the program.1 However, the company should evaluate the extent (if any) to which its existing anti-money laundering program should be revised to appropriately address the risks of doing business in covered insurance products.
+
+3. What are "covered products"?
+
+For purposes of the final insurance company rule, the term "covered product" is defined to mean:
+
+* A permanent life insurance policy, other than a group life insurance policy;
+* An annuity contract, other than a group annuity contract; and
+* Any other insurance product with cash value or investment features.
+
+The definition incorporates a functional approach, and encompasses any insurance product having the same kinds of features that make permanent life insurance and annuity products more at risk of being used for money laundering, e.g., having a cash value or investment feature. To the extent that term life insurance, property and casualty insurance, health insurance, and other kinds of insurance do not exhibit these features, they are not products covered by the rule.
+
+4.Which insurance products are not "covered products" pursuant to the rule?
+
+Because they pose a lower risk for money laundering, the following products are not defined as "covered products" in the final rule:
+
+* group insurance products
+* products offered by charitable organizations, *e.g.* charitable annuities
+* term (including credit) life, property, casualty, health, or title insurance
+* reinsurance and retrocession contracts.
+
+Contracts of indemnity and structured settlements (including workers’ compensation payments) are not within the definition of "covered products" for purposes of the final rule.
+
+5.Does the final rule require insurance agents and brokers to establish anti-money laundering programs?
+
+No. Insurance agents and brokers are not required by the final rule to have separate anti-money laundering programs. However, insurance agents and brokers are an integral part of the insurance industry due to their contact with customers. Insurance agents and brokers typically are involved in sales operations and are therefore in direct contact with customers. As a result, the agent or broker will often be in a critical position of knowledge as to the source of investment assets, the nature of the clients, and the objectives for which the insurance products are being purchased. Agents and brokers have an important role to play in assisting the insurance company to prevent money laundering. Therefore, the final rule requires each insurance company to integrate its agents and brokers into its anti-money laundering program and to monitor their compliance with its program. The final rule also requires an insurance company’s anti-money laundering program to include procedures for obtaining relevant customer-related information necessary for an effective program, either from its agents and brokers or otherwise.
+
+The insurance company remains responsible for the conduct and effectiveness of its anti-money laundering program, which includes the activities of the agents and brokers that are involved with covered products. The insurance company must exercise due diligence, not only in the development of its anti-money laundering program and in the collection of appropriate customer and other information but also in monitoring the operations of its program, its employees, and its agents.
+
+6. What are the requirements for an anti-money laundering program?
+
+The final rule requires an insurance company that issues or underwrites covered products to develop and implement a written anti-money laundering program applicable to its covered products that is reasonably designed to prevent the insurance company from being used to facilitate money laundering. The program must be approved by senior management and made available to the Department of the Treasury (or its delegate) upon request.
+
+As is true of all of our anti-money laundering program rules, insurance companies must develop a risk-based program. Under the Bank Secrecy Act, financial institutions are required to identify, assess, and mitigate the risk that their business will be abused by criminals. Risks can be jurisdictional, product-related, service-related, or client-related. Regardless of where those risks arise, financial institutions covered by our regulations must take reasonable steps to mitigate them. Compliance is risk-based, meaning that a financial institution must devote more compliance resources to the areas of its business that pose the greatest risk. Moreover, as is true for all industries we regulate, we do not expect businesses of different sizes and circumstances to have the same types of anti-money laundering programs.
+
+We believe effective implementation must be predicated upon your knowledge of your business, a careful assessment of the vulnerabilities of your business to money laundering, and adoption of controls appropriate to that risk.
+
+At a minimum, insurance companies must establish an anti-money laundering program that comprises the four elements set forth below. Our website ([www.fincen.gov](/)) contains information and updates on money laundering and terrorist financing risks as they apply to the insurance industry. We do not expect that this program can prevent all potential money laundering. What is expected is that your business will take prudent steps, with the same kind of thought and care that you take to guard against other crimes, such as theft or fraud.
+
+It should be noted that the required components are minimum requirements. Insurance companies that offer a diversity of insurance products may decide to adopt institution-wide anti-money laundering programs regardless of the types of products offered. However, the final rule requirement applies only to covered products offered by the company.
+
+(1) A compliance officer who is responsible for ensuring that the program is implemented effectively.
+
+The compliance officer is an employee or group of employees who will be responsible for the day-to-day operation of your anti-money laundering program. In particular, this person (or persons) will be responsible for ensuring that the steps within your own program are fully implemented. As such, this person should be someone with enough authority to achieve this important task. The amount of time devoted to these duties will depend on the level of risk. An insurance company is not required to designate a person to serve on a full-time basis as a compliance officer for purposes of the final rule unless the level of risk or volume of transactions warrants. If your business faces a very high level of risk for money laundering, then a great deal will be required of this person. If your exposure to these risks is more moderate, then the level of effort will be commensurate with that risk.
+
+In all cases, however, the compliance officer should be thoroughly familiar with the operations of the business itself and with all aspects of your anti-money laundering program, as well as with the requirements of the Bank Secrecy Act and applicable Financial Crimes Enforcement Network forms, and should have read carefully all applicable documents we issue or post on our web page ([www.fincen.gov](/)).
+
+(2) Policies, procedures, and internal controls.
+
+Policies, procedures, and internal controls must be developed, based on the insurance company’s assessment of the money laundering risk associated with its business, that are reasonably designed to enable the insurance company to comply with the applicable requirements of the Bank Secrecy Act and to prevent the insurance company from being used by money launderers.
+
+As the preamble to the rule describes, you should assess the extent to which your particular business is susceptible to money laundering. Those companies dealing with covered products that pose a significantly higher risk require greater diligence for detecting transactions that may involve money laundering. Using customer and other information obtained through agents, brokers or otherwise, an insurance company can assess the money laundering risks presented by its business based on such factors as the particular types and locations of customers served, distribution channels, and products offered.
+
+(3) Ongoing training of appropriate persons concerning their responsibilities under the program.
+
+You should first consider what training is appropriate for each individual employee. Some employees may require no training on the program, given their particular duties. Others may require a great deal of training. The training should be clearly understood by your employees, agents, brokers, and others doing business with covered products. The compliance officer should be available to answer all questions posed by employees. Remember that you should periodically retrain your employees on your program to ensure that they understand and can fully implement your program.
+
+(4) Independent testing to monitor and maintain an adequate program.
+
+Some person or group of people who are not working specifically for the compliance officer on the compliance program should be selected to determine whether the program complies with the requirements of the rule and that the program functions as designed. For example, if the program requires that a particular employee be trained once every six months, then the independent testing should determine whether the training occurred and whether the training was adequate. Independent testing does not mean that an outside party must be hired, although outside parties may be utilized to conduct the independent review. It does mean, though, that the testing should be a fair and unbiased appraisal of the success in implementing the anti-money laundering program, and the results of the independent testing should be put into writing, including any recommendations to senior management.
+
+Independent testers should carefully consider all of the decisions made by the compliance officer, such as the determination of the level of risk faced by the insurance company for money laundering, the frequency of training, etc. The independent testing is intended to confirm that the program complies with the requirements of the rule and that the program functions as designed.
+
+7.Is an insurance company required to train all of its employees in-house? What about training of brokers and agents?
+
+An insurance company may satisfy the training requirement under its anti-money laundering program with respect to its employees, agents and brokers by directly training such persons. An insurance company may also satisfy the training requirement by having a competent third-party train those employees, agents and brokers. A competent third party may include, among others, another financial institution that is subject to an anti-money laundering program rule, such as another insurance company, a bank, or a broker-dealer in securities.
+
+An insurance company remains responsible for assuring compliance with the final rule and monitoring the effectiveness of its training program. The nature of the insurance company’s review of a training program performed by a competent third party depends upon the facts and circumstances of the particular situation. As a general rule, the insurance company should carefully evaluate the substance of training to be provided by a third-party for the insurance company’s own employees, its career agents, or independent agents or brokers representing it.
+
+When an agent is retained by or affiliated with another entity that is subject to an anti-money laundering program rule, however, the insurance company may reasonably rely on the compliance program of the other entity, including the requirement to train appropriate persons.2 When reasonably relying upon the anti-money laundering compliance program of another entity subject to an anti-money laundering program rule, the insurance company’s anti-money laundering program should contain policies and procedures to address circumstances where it may appear that an agent or agents employed by the other entity are not receiving proper training from the other entity. Indicators may include, for example, publicly available information about the other entity’s failure to comply with anti-money laundering program requirements, or elevated levels of suspicious activity coming from the other entity or certain agents or locations of the other entity.
+
+8.What resources are available to help an insurance company to establish an adequate program?
+
+The preambles to the final rules and these Frequently Asked Questions provide the foundation for the process of establishing an anti-money laundering program. Going forward, we will be issuing additional guidance to the industry. All such guidance will be posted on our website ([www.fincen.gov](/)). Additionally, we operate a Regulatory Helpline (1-800-949-2732), to provide answers to specific regulatory or compliance questions.
+
+9.When must we implement our Anti-Money Laundering Program?
+
+You will have 180 days from when the final rule is published in the *Federal Register* to implement your anti-money laundering program.
+
+10. Should insurance companies continue to file Form 8300 - Report of Cash Payments Over $10,000 Received in a Trade or Business?
+
+Yes. Insurance companies should continue to file Form 8300 in appropriate situations to report the receipt of cash over $10,000. There is no requirement at this time for insurance companies to file Currency Transaction Reports.3
+
+Also, Form 8300 includes Box 1b for reporting of suspicious transactions. Because covered insurance companies will be required to file Suspicious Activity Reports (see below) as part of their anti-money laundering program, the proposed Suspicious Activity Report for Insurance Companies form will be the required medium for reporting suspicious activity. An insurance company is not precluded from also checking the "suspicious transaction" box, as appropriate, when filing a Form 8300; however, checking the box on the Form 8300 is not required, and in any event will *not* satisfy the insurance company’s obligation to file a Suspicious Activity Report in the appropriate circumstances.
+
+11.Are insurance companies required to file Suspicious Activity Reports as a part of their anti-money laundering programs?
+
+Yes. Pursuant to a final rule adopted at the same time as the anti-money laundering program final rule, insurance companies will now be required to file Suspicious Activity Reports. This requirement will take effect 180 days from when the final rule is published in the *Federal Register*.
+
+We have proposed a new suspicious activity reporting form for insurance companies (FinCEN Form 108 - Suspicious Activity Report by Insurance Companies). Until such time as that form has been adopted and is available for use, insurance companies should use FinCEN Form 101 - Suspicious Activity Report by Securities and Futures Industries to report suspicious transactions. Importantly, to assist law enforcement in locating reports filed by insurance companies, the words "Insurance SAR" should be entered on the first line of the Narrative.
+
+Under the final rule requiring suspicious activity reporting by insurance companies, covered insurance companies must file Suspicious Activity Reports to report suspicious transactions, rather than checking the" suspicious transaction" box on Form 8300 (Box 1b) (see above). It may be appropriate for an insurance company to file a Form 8300 for receipt of cash and other items over $10,000 as well as to file a Suspicious Activity Report when the circumstances surrounding the receipt of cash and other items are suspicious.
+
+12.What are examples of suspicious activities with regard to insurance products?
+
+Some examples of "red flags" include, but are not limited to, the following: the purchase of an insurance product inconsistent with the customer’s needs; unusual payment methods, such as cash, cash equivalents (when such a usage of cash or cash equivalents is, in fact, unusual), or structured monetary instruments; early termination of a product (including during the "free look" period), especially at a cost to the customer, or where payment is made by, or the refund check is directed to, an apparently unrelated third party; the transfer of the benefit of a product to an apparently unrelated third party; a customer who shows little concern for the investment performance of a product, but a great deal of concern about the early termination features of the product; a customer who is reluctant to provide identifying information when purchasing a product, or who provides minimal or seemingly fictitious information; and a customer who borrows the maximum amount available soon after purchasing the product.
+
+13. How should suspicious activity involving variable insurance products funded by separate accounts that meet definition of a "mutual fund" be reported?
+
+Some insurance companies issue variable insurance products funded by separate accounts, some of which meet the definition of a mutual fund.4 We are in the process of finalizing a rule that would require mutual funds to themselves file suspicious activity reports. When that final rule becomes effective, we will amend the insurance company suspicious activity reporting rule to ensure that such suspicious activity is reported under the mutual fund rule.
+
+Until such time as a final rule requiring suspicious activity reporting by mutual funds is adopted, however, insurance companies that issue variable insurance products funded by separate accounts that meet the definition of a mutual fund may report suspicious activity on FinCEN Form 101 - Suspicious Activity Report by Securities and Futures Industries.
+
+14. Are insurance brokers and agents required to file suspicious activity reports?
+
+The obligation to identify and report suspicious transactions applies only to an insurance company, and not to its agents or brokers. Nevertheless, because insurance agents and brokers are an integral part of the insurance industry due to their direct contact with customers, the final rule requires an insurance company to establish and implement policies and procedures reasonably designed to obtain customer-related information necessary to detect suspicious activity from all relevant sources, including from its agents and brokers, and to report suspicious activity based on such information.
+
+The final rule imposes a direct obligation only on insurance companies, and not on their agents or brokers, for a number of reasons. First, whether an insurance company sells its products directly or through agents, we believe that it is appropriate to place on the insurance company, which develops and bears the risks of its products, the responsibility for guarding against such products being used to launder illegally derived funds. Second, insurance companies, due to their much larger size relative to that of their numerous agents and brokers, are in a much better position to shoulder the costs of compliance connected with the sale of their products. Finally, numerous insurers already have in place compliance programs and best practices guidelines for their agents and brokers to prevent and detect fraud. We believe that insurance companies largely will be able to integrate their obligation to report suspicious transactions into their existing compliance programs and best practices guidelines.
+
+Insurance agents and brokers will play an important role in the effective operation of an insurance company’s obligation to report suspicious transactions. By not placing an independent reporting obligation on agents and brokers, we do not intend to minimize their role. We intend to assess the effectiveness of the rule on an ongoing basis. If it appears that the effectiveness of the rule is being undermined by the failure of agents and brokers to cooperate with their insurance company principals, we will consider proposing appropriate amendments to the rule. We also expect that an insurance company, when faced with a non-compliant agent or broker, will take necessary actions to secure such compliance, including, when appropriate, terminating its business relationship with such an agent or broker.
+
+Certain insurance agents and insurance brokers may be broker-dealers in securities with an independent obligation to report suspicious activity under another Bank Secrecy Act regulation.5
+
+15.Are joint Suspicious Activity Report filings permissible?
+
+Yes. In circumstances where two or more financial institutions subject to suspicious activity reporting requirements under the Bank Secrecy Act are involved in a common or related transaction, and each financial institution has information about the transaction, a joint Suspicious Activity Report may be filed. Neither the Bank Secrecy Act nor regulations promulgated by us prohibit financial institutions from sharing information relating to suspicious activities as long as no persons involved in the transaction are notified.
+
+An insurance company must keep a copy of the filed Suspicious Activity Report form for its records. The Suspicious Activity Report and the original or business record equivalent of any supporting documentation must be maintained in the insurance company’s records for a period of five years from the date of filing. An insurance company must also retain copies of reports (and supporting documentation) provided to it by its agents that are required to make reports by another provision in 31 CFR Part 103 when the agents and the company file a joint report regarding a transaction involving both companies.
+
+A joint Suspicious Activity Report that is filed with us in the manner described above will be deemed to have been filed by each financial institution involved in the underlying transaction, thereby satisfying each financial institution’s obligation to report suspicious activity. Financial institutions may share information pertaining to the transaction, as long as no persons involved in the transaction are notified. Such communications between financial institutions for the purpose of filing or determining whether to file a joint Suspicious Activity Report are protected by a safe harbor from civil liability pursuant to 31 U.S.C. 5318(g), as disclosures authorized under that section’s implementing regulations and interpretative guidance.
+
+In all such joint filings, only one of the filing institutions should be identified as the "filer" in the filer identification section of the form (unless the form accommodates multiple filers, as the Suspicious Activity Report for Insurance Companies will do). The Narrative section of the suspicious activity report must include the words "joint filing" and must identify the other financial institution or institutions on whose behalf the report is being filed (unless the form will accommodate multiple filers, in which case there is no need to include that information in the Narrative section).
+
+16.If an insurance company files a Suspicious Activity Report voluntarily, will it be protected from civil liability?
+
+Yes. Pursuant to 31 U.S.C. 5318(g)(3): "Any financial institution that makes a voluntary disclosure of any possible violation of law or regulation to a government agency …shall not be liable to any person under any law or regulation of the United States… or regulation of any State…for such disclosure or for any failure to provide notice of such disclosure to the person who is the subject of such disclosure or any other person identified in the disclosure."
+
+It is the intent of this provision of the Bank Secrecy Act to provide the greatest possible protection to financial institutions, in the form of a "safe harbor," to encourage the filing of Suspicious Activity Reports if appropriate.
+
+17.May we disclose that a Suspicious Activity report was filed? What if we receive a civil subpoena?
+
+There are statutory and regulatory prohibitions against the disclosure of information filed in, or the fact of filing, a Suspicious Activity Report whether the report is required or is filed voluntarily. Thus, insurance companies filing the proposed Suspicious Activity Report by Insurance Companies (or receiving a copy of filed joint Suspicious Activity Reports from another financial institution involved in the same transaction) are specifically prohibited from disclosing that a Suspicious Activity Report has been filed or the information contained therein, except to appropriate law enforcement and regulatory agencies.
+
+If you are served with any subpoena requiring disclosure of the fact that a Suspicious Activity Report has been filed or of a copy of the Suspicious Activity Report itself, except to the extent that the subpoena is submitted by an appropriate law enforcement or supervisory agency, you should neither confirm nor deny the existence of the Suspicious Activity Report. You also should immediately notify the Office of Chief Counsel at the Financial Crimes Enforcement Network (703-905-3590).
+
+18.Certain financial institutions participate in information sharing pursuant to section 314(b) of the USA PATRIOT Act and Financial Crimes Enforcement Network regulations at 31 CFR 103.110. May insurance companies now participate in that information sharing?
+
+Yes. Pursuant to 31 CFR 103.110(a)(2), information sharing between financial institutions concerning terrorist financing and/or money laundering is available to financial institutions that have an obligation to establish anti-money laundering programs. Once an insurance company subject to the insurance company anti-money laundering program rule has established its anti-money laundering program it may file a certification for purposes of section 314(b) of the USA PATRIOT Act and 31 CFR 103.110.
+
+---
+
+1An insurance company that is registered or is required to register with the Securities and Exchange Commission will be deemed to have satisfied the requirements of this rule for those activities regulated by the Securities and Exchange Commission to the extent that the company complies with the anti-money laundering program requirements applicable to such activities that are imposed by the Securities and Exchange Commission or by a self-regulatory organization registered with the Securities and Exchange Commission.
+
+2"[T]he insurance company could generally rely on the agent’s own program requirements to address issues at the time of the sale if reasonable (i.e., the insurer knows of no defect in the agent’s program), while the insurer’s program should focus on the ongoing administration of the covered product." Anti-Money Laundering Programs for Insurance Companies, 70 Fed. Reg. 66754, 66758 (Nov. 3, 2005).
+
+3Currency Transaction Reports are filed by certain financial institutions for deposit, withdrawal, exchange of currency, or other payment or transfer by, through, or to the financial institution that involves a transaction or transactions in currency of more than $10,000.
+
+4A mutual fund is an investment company (as defined in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a-3) that is an open-end company (as defined in section 5 of the Investment Company Act of 1940 (15 U.S.C. 80a-5)) that is registered, or required to register, with the Securities and Exchange Commission under section 8 of the Investment Company Act of 1940.
+
+5Variable insurance products that are deemed securities under the Securities Exchange Act of 1934 must be sold by registered broker-dealers, which are themselves subject to a suspicious activity reporting obligation. See 31 CFR 103.19. Banks, which sell fixed annuities as agent for insurance companies, are also subject to suspicious activity reporting. See 31 CFR 103.18.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

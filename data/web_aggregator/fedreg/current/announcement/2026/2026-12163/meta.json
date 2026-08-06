@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12163",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12163/the-trade-through-rule-and-locked-and-crossed-markets-provisions-of-regulation-nms",
+  "reference_number": "2026-12163",
+  "published_date": "2026-06-17",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3af7aa8aeeb6e98c41023c8732ced07e7baf0c7a2dc8ec3ef0489c1dab784ebb",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12163",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

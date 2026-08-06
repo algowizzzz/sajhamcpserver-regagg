@@ -1,0 +1,27 @@
+{
+  "doc_id": "dd20547c78a5b00d",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Life Insurance Capital Adequacy Test (2025) \u2013 Chapter 6 Insurance Risk - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-6-insurance-risk",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b9421644d495363ccdfbe9626551b8cd8181cb05b5c854f502141d4284ab97a5",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/dd20547c78a5b00d",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-6-insurance-risk",
+  "fetch_method": "html_to_md"
+}

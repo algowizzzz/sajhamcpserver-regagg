@@ -1,0 +1,27 @@
+{
+  "doc_id": "f11f51a9f81e81e8",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Capital Adequacy Requirements (CAR) (2027) \u2013 Chapter 8 \u2013 Credit Valuation Adjustment (CVA) Risk - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-2027-chapter-8-credit-valuation-adjustment-cva-risk",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e618f073a3267f345986861cdb5d0f74c091c0f1c9c66f63c221e0c392b88c8e",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/f11f51a9f81e81e8",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-2027-chapter-8-credit-valuation-adjustment-cva-risk",
+  "fetch_method": "html_to_md"
+}

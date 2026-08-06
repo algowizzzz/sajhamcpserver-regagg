@@ -1,0 +1,28 @@
+# Rapports et relevés
+
+Les institutions financières fédérales doivent nous soumettre des relevés administratifs et financiers réglementaires à divers moments de l’année ou après des événements précis. Nous fournissons des instructions pour les aider à respecter ces exigences.
+
+## [Produire un relevé](/fr/donnees-formulaires/rapports-releves/produire-releve "Produire un relevé")
+
+Les institutions de dépôt, sociétés d’assurance et régimes de retraite trouveront sur cette page les instructions sur la production des relevés.
+
+## [Produire un relevé administratif](/fr/donnees-formulaires/rapports-releves/produire-releve-administratif "Produire un relevé administratif")
+
+Les institutions financières fédérales doivent produire des relevés administratifs à divers moments de l’année ou après des événements précis.
+
+## [Produire un relevé financier](/fr/donnees-formulaires/rapports-releves/produire-releve-financier "Produire un relevé financier")
+
+Les institutions financières fédérales doivent nous soumettre des relevés financiers.
+
+## [Cadre de pénalité pour production tardive et erronée](/fr/donnees-formulaires/rapports-releves/produire-releve/procedure-administrative-visant-cadre-penalite-pour-production-tardive-erronee-ppte "Cadre de pénalité pour production tardive et erronée")
+
+Des pénalités sont imposées pour la production tardive de relevés ou la production de relevés contenant des erreurs.
+
+## [Rapports sur la lutte contre le recyclage des produits de la criminalité et sur la lutte contre le financement des activités terroristes et sanctions](/fr/donnees-formulaires/rapports-releves/rapports-sur-lutte-contre-recyclage-produits-criminalite-sur-lutte-contre-financement-activites "Rapports sur la lutte contre le recyclage des produits de la criminalité et sur la lutte contre le financement des activités terroristes et sanctions")
+
+Le gouvernement du Canada impose des sanctions à l’encontre de nombreuses organisations terroristes et criminelles et de leurs membres.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2025-09-11

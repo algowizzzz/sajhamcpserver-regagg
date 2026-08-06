@@ -1,0 +1,577 @@
+# Spécifications opérationnelles des relevés sur les risques climatiques pour les institutions de dépôt
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevés sur les risques climatiques
+
+Dernière révision
+
+Novembre 2025
+
+Numéro de relevé
+
+BSIF1000-BSIF1001
+
+Table des matières
+
+Documents connexes
+
+* [Observations tirées des relevés sur les risques climatiques de 2025](/fr/propos-du-bsif/rapports-publications/observations-tirees-releves-sur-risques-climatiques-2025)
+
+## Relevés
+
+[DC1 (BSIF 1000) - Gabarit de relevé (CSV, 3,67 Ko)](/sites/default/files/documents/dc1-return-releve-2025-12-01-fr.csv "dc1-return-releve-2025-12-01-fr.csv") [DC1 (BSIF 1000) - Spécifications techniques de relevé (XLSX, 34,45 Ko)](/sites/default/files/documents/dc1-specifications-2025-11-fr.xlsx "dc1-specifications-2025-11-fr.xlsx") [DC2 (BSIF 1001) - Gabarit de relevé (CSV, 5,5 Ko)](/sites/default/files/documents/dc2-return-releve-2025-11-26-fr.csv "dc2-return-releve-2025-11-26-fr.csv") [DC2 (BSIF 1001) - Spécifications techniques du relevé (XLSX, 38,48 Ko)](/sites/default/files/documents/dc2-specifications-2026-02-fr.xlsx "dc2-specifications-2026-02-fr.xlsx") [Matrices d’application des champs pour les institutions de dépôt (XLSX, 57,27 Ko)](/sites/default/files/documents/dc1-dc2-matrices-2025-12-23-fr.xlsx "dc1-dc2-matrices-2025-12-23-fr.xlsx") [Relevé des changements](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-changements-releves-sur-risques-climatiques "Relevé des changements (relevés sur les risques climatiques)")
+
+## But
+
+Les relevés sur les risques climatiques ont pour but de recueillir, directement auprès de l’ensemble des institutions, des données normalisées sur les émissions et les expositions climatiques. Le BSIF pourra ainsi fonder ses activités d’élaboration de politiques, de réglementation et de surveillance prudentielle sur des données probantes en ce qui a trait à la gestion des risques climatiques.
+
+Les données saisies dans ces relevés permettent de quantifier 1) les expositions potentielles et réelles au risque physique; et 2) les expositions potentielles au risque de transition des institutions de dépôt, à la fin de l’exercice.
+
+Plus précisément, les données recueillies dans ces relevés couvrent :
+
+* les expositions sur actifs soumis au risque physique, selon l’emplacement géophysique;
+* les émissions de gaz à effet de serre (GES) en termes absolus (portées [ou champs d’application] 1, 2 et 3).
+
+Les données recueillies sont confidentielles et ne seront pas rendues publiques.
+
+## Champ d’application
+
+Ces relevés s’appliquent à toutes les institutions de dépôt (ID), à l’exception des succursales de banques étrangères.
+
+## Fréquence
+
+Annuelle.
+
+## Format de dépôt
+
+Les relevés doivent être produits au moyen du Système de déclaration réglementaire (SDR) en format .csv.
+
+## Date de mise en œuvre
+
+Ces relevés entrent en vigueur à compter du 31 octobre, pour les exercices suivants :
+
+* 2024, pour les banques d’importance systémique intérieure (BISi)
+* 2025, pour les petites et moyennes banques (PMB)
+
+## Date de déclaration
+
+Les relevés doivent être préparés à la fin de chaque exercice et être présentés dans les 180 jours suivant la date de clôture.
+
+Par exemple, une BISi dont l’exercice se termine le 31 octobre devra préparer son premier relevé pour l’exercice 2024 (à l’aide des données au 31 octobre 2024) et le présenter d’ici la fin du mois d’avril 2025, tandis qu’une PMB dont l’exercice prend fin le 31 décembre devra préparer son premier relevé pour l’exercice 2025 (à l’aide des données au 31 décembre 2025) et le produire d’ici la fin du mois de juin 2026.
+
+## Organisme responsable
+
+Bureau du surintendant des institutions financières (BSIF).
+
+## Personne-ressource
+
+Pour toute question opérationnelle ou d’interprétation au sujet de la version finale du relevé, veuillez communiquer avec le BSIF à l’adresse suivante : [ClimateRiskReturn-ReleveRisquesClimatiques@osfi-bsif.gc.ca](mailto:ClimateRiskReturn-ReleveRisquesClimatiques@osfi-bsif.gc.ca).
+
+## Termes et définitions clés
+
+| Terme clé | Définition |
+| --- | --- |
+| Catégorie d’actifs | Groupe d’instruments financiers ayant des caractéristiques financières semblables. |
+| Chaîne de valeur | Gamme complète d’activités, de ressources et de relations associées au modèle d’affaires d’une ID et à l’environnement externe dans lequel elle exerce ses activités. |
+| Émissions de gaz à effet de serre (GES) | Émissions des sept gaz à effet de serre visés par le Protocole de Kyoto : le dioxyde de carbone (CO2); le méthane (CH4), l’oxyde nitreux (N2O), les hydrofluorocarbures (HFC), le trifluorure d’azote (NF3), les perfluorocarbures (PFC) et l’hexafluorure de soufre (SF6). |
+| Émissions de gaz à effet de serre (GES) de portée 1 | Émissions directes de GES qui émanent de sources dont l’ID est propriétaire ou qu’elle contrôle, par exemple, les émissions de GES provenant de la combustion des chaudières, des fours ou des véhicules dont elle est propriétaire ou qu’elle contrôle. |
+| Émissions de gaz à effet de serre (GES) de portée 2 | Émissions indirectes de GES attribuables à la production d’électricité, de vapeur, de chaleur ou de climatisation achetée ou acquise et consommée par l’ID. |
+| Émissions de gaz à effet de serre (GES) de portée 3 | Toutes les autres émissions indirectes de GES (non comprises dans celles de la portée 2) issues de la chaîne de valeur de la société déclarante.  Aux fins du présent relevé, les émissions de portée 3 englobent les catégories suivantes (conformément au Protocole des GES) :  **1) à 14) – Émissions imputables à l’ID/émissions non financées**  **Les exigences en matière de déclaration pour ces catégories doivent être déterminées jusqu’à nouvel ordre.**  En amont :   1. produits et services achetés; 2. biens d’équipement; 3. activités liées au carburant ou à l’énergie qui ne sont pas incluses dans les émissions de portée 1 ni dans les émissions de portée 2; 4. transport et distribution en amont; 5. déchets générés par les activités; 6. voyages d’affaires; 7. déplacement domicile‑travail du personnel.   En aval :   8. actifs loués en amont; 9. transport et distribution en aval; 10. transformation des produits vendus; 11. utilisation des produits vendus; 12. traitement en fin de vie des produits vendus; 13. actifs loués en aval; 14. franchises; 15. **investissements** (aussi appelés **« émissions financées »**)     1. (portées 1 et 2) émissions des entités émettrices d’une ID;     2. (portées 1 et 2) émissions des emprunteurs d’une ID;   Voir la définition du terme « émissions financées » ci‑après. |
+| Émissions en termes absolus | Volume d’émissions de gaz à effet de serre (GES) exprimé en tonnes d’équivalent de dioxyde de carbone (éq. CO2). Aux fins du présent relevé, les « émissions en termes absolus » s’entendent des émissions générées, et non des valeurs liées aux émissions évitées ou retirées. |
+| Émissions financées | Émissions de GES en termes absolus que les ID et les investisseurs financent par l’entremise de leurs prêts et de leurs placements. Voir « émissions en termes absolus ». |
+| Équivalent de dioxyde de carbone (éq. CO2) | Unité de mesure universelle du potentiel de réchauffement climatique (PRC) de chacun des sept gaz à effet de serre correspondant au PRC d’une unité de dioxyde de carbone pour une durée de 100 ans. Cette unité sert à évaluer la libération de différents gaz à effet de serre par rapport à une base commune. |
+| Exposition | Valeur comptable d’une facilité ou d’une position, ou d’une catégorie d’actifs de celle‑ci. |
+| Péril | Les quatre types de périls climatiques qui peuvent avoir une incidence sur les ID sont les suivants : 1) feux de forêt; 2) inondations; 3) orages convectifs violents; 4) ouragans.   1. Feu de forêt : vaste incendie destructeur qui se propage rapidement (habituellement) dans les zones boisées ou broussailleuses. 2. Inondation : dommages causés par de fortes précipitations ou par le débordement d’un cours d’eau.  Les inondations peuvent comprendre :     * les déferlements côtiers ou les ondes de tempête;    * les débordements riverains ou fluviaux;    * les crues soudaines, de surface ou pluviales;    * les refoulements d’égout. 3. Orage convectif violent : vents forts causés par un phénomène météorologique convectif violent, ce qui inclut les orages générant des vents rectilignes, les tornades et la grêle. À noter que les orages convectifs violents et les ouragans sont deux phénomènes météorologiques différents. 4. Ouragan : dommages causés par les vents d’ouragan, les ondes de tempête et les inondations provoquées par les précipitations. |
+| Risques de transition | Le passage à une économie à plus faibles émissions de carbone pourrait impliquer des changements sur le plan des politiques, du droit, des technologies et des marchés pour satisfaire aux besoins d’atténuation et d’adaptation liés aux changements climatiques. Selon la nature, le rythme et le point central de ces changements, les risques de transition peuvent entraîner divers niveaux de risque financier et de risque d’atteinte à la réputation pour les ID. |
+| Risques physiques | Risques découlant des changements climatiques qui peuvent être causés par un événement (risques aigus) ou résulter de l’évolution à long terme (risques chroniques) des tendances climatiques. Ces risques peuvent entraîner des conséquences financières pour les entités, par exemple des dommages directs touchant leurs actifs ou des conséquences indirectes découlant de la perturbation de leur chaîne d’approvisionnement. Les résultats financiers des ID peuvent également être touchés par des changements dans la disponibilité, les sources d’approvisionnement et la qualité des ressources en eau, ou encore, par les variations de température extrêmes qui ont des répercussions sur les établissements, les activités, la chaîne d’approvisionnement, les besoins en transport et la sécurité du personnel. |
+
+## Unités de mesure pour la présentation de l’information
+
+### Données financières
+
+Sauf indication contraire, les données financières présentées, comme les soldes de prêts impayés ou la valeur des titres de placement, doivent être exprimées en dollars canadiens ou en équivalent de dollar canadien, sans décimale ni virgule.
+
+### Émissions de gaz à effet de serre (GES)
+
+Toutes les émissions de GES en termes absolus, y compris les émissions de portée 1, de portée 2 et de portée 3, doivent être déclarées en tonnes métriques d’équivalent dioxyde de carbone (t éq. CO2).
+
+### Probabilités et pourcentages
+
+Les probabilités et les pourcentages doivent être déclarés selon leur équivalent décimal. Par exemple, une probabilité de défaut (PD) de 1,09 % doit être exprimée comme suit : 0,01090.
+
+## Comptabilisation des émissions de gaz à effet de serre
+
+Pour calculer les émissions de GES, les ID doivent utiliser la plus récente version de la norme GHG Protocol Corporate Accounting and Reporting Standard et la plus récente version de la norme GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard.
+
+Pour calculer la part des émissions de GES de portée 3 se rapportant aux émissions financées ou à celles associées à l’assurance, les ID doivent utiliser la plus récente norme Global GHG Accounting and Reporting Standard for the Financial Industry du partenariat pour la comptabilisation du carbone dans le secteur financier (Partnership for Carbon Accounting Financials, ou PCAF).
+
+Le BSIF est conscient qu’il existe souvent un décalage entre le moment où doit être communiquée l’information financière et celui où les données requises sont disponibles, comme les données sur les émissions imputables aux contreparties d’une banque. Par conséquent, pour ce qui est des émissions de GES financées, les ID peuvent utiliser les données liées aux émissions les plus récentes dont elles disposent, provenant des entités faisant partie de leur chaîne de valeur, de pair avec les données financières de l’exercice en cours. Par exemple, dans le relevé relatif à l’exercice 2024, utilisez les données financières de l’exercice 2024 et les données sur les émissions de GES de l’exercice 2023.
+
+Bien qu’il n’y ait pas de période de vérification rétroactive maximale définie, une durée de 2 ans ou moins est recommandée. Les ID doivent indiquer dans leurs notes complémentaires si la période de vérification rétroactive dépasse 2 ans.
+
+## Structure des relevés sur les risques climatiques pour les ID
+
+### Structure tabulaire des gabarits des relevés de données climatiques
+
+Chaque relevé est structuré de manière à comporter trois types de champs de données :
+
+* champ de sous‑tableau;
+* champs de données catégoriques;
+* champs de données calculées.
+
+Voici un exemple tiré de la structure du relevé DC1 (BSIF 1000).
+
+![Exemple tiré de la structure du relevé DC1. Une description texte suit.](/sites/default/files/images/dc1-img-fr.PNG)
+
+1. **Champ de sous-tableau :** Ce champ sert à remplir le sous‑tableau du relevé (`sous_tableau_relevé`). Voir la rubrique Sous‑tableaux des relevés ci‑après pour de plus amples renseignements.
+2. **Champs de données catégoriques :** Ces champs servent à présenter des données qualitatives mutuellement exclusives. Les champs catégoriques des relevés sur les risques climatiques pour les ID comportent les clés de déclaration suivantes : `catégorie_actifs`, `région`, `secteur`, `qualité_crédit` et `rta`.
+3. **Champs de données calculées :** Sauf indication contraire, les données présentées dans ces champs doivent être calculées pour refléter le niveau de granularité maximal établi par les champs de données catégoriques applicables. Pour reprendre l’exemple ci‑dessus, le nombre de prêts déclaré à la première ligne du champ `nombre_actifs` (1149) correspond au nombre d’actifs (prêts) dans la région de tri d’acheminement (`rta`)[Note de bas de page 1](#fn1) A1A, dont le code de `catégorie_actifs` est « 5 » (ESP).
+
+### Format de référence
+
+Les clés de déclaration associées à chacun des champs de données sont indiquées dans la première ligne de chaque gabarit. Pour faciliter la lecture du présent document, les clés sont présentées en minuscules avec des traits de soulignement à la place des espaces (par exemple, `sous_tableau_relevé`).
+
+Les champs catégoriques, les codes catégoriques et les valeurs connexes sont indiqués entre guillemets (par exemple, code « 19 » et « Immobilier commercial », respectivement).
+
+### Sélections possibles dans les champs catégoriques
+
+Les tableaux présentant la liste exhaustive des codes (fourchette de valeurs attendues) applicables à chacun des champs catégoriques (sauf `rta`) figurent aux annexes suivantes :
+
+* [Annexe I – Catégories d’actifs](#annI)
+* [Annexe II – Régions](#annII)
+* [Annexe III – Secteurs](#annIII)
+* [Annexe IV – Notes de qualité de crédit](#annIV)
+
+Ces tableaux correspondent à ceux figurant dans les gabarits de saisie des relevés DC1 (BSIF 1000) et DC2 (BSIF 1001).
+
+### Sous‑tableaux des relevés
+
+Aux fins de la présentation de l’information, chaque relevé se compose d’un seul tableau de données divisé en sous‑tableaux qui regroupent des éléments de données connexes à déclarer. Les sous‑tableaux de chaque relevé sont les suivants :
+
+Relevé DC1 sur les risques physiques pour les ID (BSIF 1000)
+
+| Nom du sous‑tableau du relevé | Code du sous‑tableau | ID visées |
+| --- | --- | --- |
+| Expositions et paramètres du risque de crédit – Au Canada, par RTA | DC1-A | BISi, PMB |
+| Expositions et paramètres du risque de crédit – À l’extérieur du Canada, par région | DC1-B | BISi, PMB |
+
+Relevé DC2 sur les risques de transition pour les ID (BSIF 1001)
+
+| Nom du sous‑tableau du relevé | Code du sous‑tableau | ID visées |
+| --- | --- | --- |
+| Émissions de GES de l’ID à l’échelle de l’entité, selon la portée | DC2-A | BISi, PMB |
+| Émissions de GES financées selon la catégorie d’actifs | DC2-B | BISi, PMB |
+
+#### Application des champs par sous‑tableau
+
+Les champs applicables à chaque sous‑tableau sont décrits dans le document [Matrices d’application des champs (XLSX, 57,27 Ko)](/sites/default/files/documents/dc1-dc2-matrices-2025-12-23-fr.xlsx "dc1-dc2-matrices-2025-12-23-fr.xlsx"). Ainsi que l’indiquent ces matrices, les champs calculés doivent être remplis en fonction du sous‑tableau du relevé et de la valeur du champ `catégorie_actifs` pour les relevés DC1 (BSIF 1000) et DC2 (BSIF 1001). Les champs qui ne s’appliquent pas doivent être laissés vides sur chaque ligne.
+
+## Instructions pour le relevé DC1 sur les risques physiques (BSIF 1000)
+
+Ce relevé permet de recueillir auprès des ID des données essentielles sur les expositions au risque et certaines données sur le risque de crédit à l’égard des **prêts** et des **titres** au bilan qui pourraient être exposés à des risques physiques liés aux changements climatiques, à l’échelle de granularité géophysique de la région de tri d’acheminement (RTA) au Canada. Dans le cas des expositions à l’extérieur du Canada, les données sont recueillies à un niveau régional plus large. Les sous-tableaux du relevé DC1 sur les risques physiques (DC1-A et DC1-B) ne s’appliquent qu’aux instruments figurant au bilan, plus précisément aux prêts et aux titres. Les données ainsi recueillies seront combinées à d’autres données sur les périls climatiques pour évaluer l’exposition des ID aux risques physiques.
+
+### Vue d’ensemble des champs de données du relevé
+
+Le gabarit du relevé DC1 (BSIF 1000) comporte les champs suivants :
+
+#### Champ de sous‑tableau
+
+`sous_tableau_relevé`
+
+#### Champs de données catégoriques
+
+* `catégorie_actifs`
+* `région`
+* `rta`
+* `approche_risque_de_crédit`
+
+#### Champs de données calculées
+
+* `nombre_actifs`
+* `solde_autorisé`
+* `solde_impayé`
+* `pd_moyenne_pondérée`
+* `pcd_moyenne_pondérée`
+
+Pour déclarer les données demandées dans les champs qui précèdent, il faut remplir le gabarit figurant dans le document [Spécifications techniques du relevé DC1 (BSIF 1000) (XLSX, 34,45 Ko)](/sites/default/files/documents/dc1-specifications-2025-11-fr.xlsx "dc1-specifications-2025-11-fr.xlsx"), conformément aux instructions ci‑après sur la déclaration des expositions sur prêts et des paramètres de crédit applicables au Canada et à l’extérieur du Canada.
+
+#### Application des champs par sous‑tableau
+
+Les champs applicables à chaque sous‑tableau sont décrits dans le document [Matrices d’application des champs (XLSX, 57,27 Ko)](/sites/default/files/documents/dc1-dc2-matrices-2025-12-23-fr.xlsx "dc1-dc2-matrices-2025-12-23-fr.xlsx").
+
+### Sous‑tableau DC1-A : Expositions et paramètres du risque de crédit – Au Canada
+
+Remplir tous les champs du gabarit à l’égard des prêts et des titres d’emprunteurs et d’entités émettrices qui sont garantis par des actifs se trouvant au Canada sur chaque ligne selon les instructions pour chaque clé de déclaration ci-après.
+
+#### Champ de sous‑tableau
+
+* `sous_tableau_relevé` – Inscrire « DC1-A ».
+
+#### Champs de données catégoriques
+
+* `catégorie_actifs` – Déclarer le code de `catégorie_actifs` applicable d’après le tableau de l’annexe I, Catégories d’actifs.
+* `région` – Déclarer la province ou le territoire canadien correspondant à la `rta` présentée, le cas échéant.
+* `rta` – Déclarer l’indicateur d’emplacement de la région de tri d’acheminement (RTA) à trois caractères des emprunteurs/actifs pour les adresses au Canada seulement. Si les actifs déclarés par l’ID, comme des emprunts qui sont liés à l’emplacement physique des actifs pour certains comptes importants, par exemple des entreprises, des banques ou des emprunteurs souverains (par exemple, le gouvernement du Canada), ne peuvent pas être répartis entre plusieurs RTA à l’aide des données disponibles auprès du client, l’ID doit inscrire le code « ZZZ » dans le champ `rta`.
+* `approche_risque_de_crédit` – À l’aide du tableau C, déclarer les codes de l’approche utilisée à l’égard du risque de crédit (approche fondée sur les notations internes [approche NI] ou approche standard) pour chaque champ : nombre d’actifs, solde autorisé, solde impayé et PD et perte en cas de défaut (PCD) moyennes pondérées. Le code 1 (approche NI) s’applique uniquement aux ID qui utilisent des modèles approuvés établis selon l’approche NI avancée. Les banques qui appliquent l’approche standard doivent toujours utiliser le code 2.
+
+Tableau C : Approche utilisée à l’égard du risque de crédit
+
+| Code | Approche à l’égard du risque de crédit |
+| --- | --- |
+| 1 | Approche fondée sur les notations internes |
+| 2 | Approche standard |
+
+#### Champs de données calculées
+
+* `nombre_actifs` – Déclarer le nombre d’actifs (par exemple, prêts hypothécaires non résidentiels) impayés pour une `catégorie_actifs` donnée dans chaque `rta` présentée. Le nombre d’actifs doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.
+* `solde_autorisé` – Déclarer la somme des expositions brutes maximales autorisées pour une `catégorie_actifs` donnée dans chaque `rta` présentée. Le solde autorisé doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.
+* `solde_impayé` – Déclarer la somme des montants bruts de l’encours des expositions pour une `catégorie_actifs` donnée dans chaque `rta` présentée. Le solde impayé doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.
+* `pd_moyenne_pondérée` – Déclarer la probabilité de défaut (PD) moyenne pondérée (par le solde impayé) de l’exposition pour la `catégorie_actifs` dans chaque `rta` présentée, le cas échéant. Veuillez vous référer au tableau C et préciser l’approche utilisée à l’égard du risque de crédit pour calculer la PD.
+* `pcd_moyenne_pondérée` – Déclarer la perte en cas de défaut (PCD) moyenne pondérée (par le solde impayé) de l’exposition pour la `catégorie_actifs` dans chaque `rta` présentée. Veuillez vous référer au tableau C et préciser l’approche utilisée à l’égard du risque de crédit pour calculer la PCD.
+
+Les montants déclarés dans les champs `solde_autorisé` et `solde_impayé` doivent correspondre à la somme de chaque type d’exposition au niveau de granularité approprié. Ceux déclarés dans les champs `pd_moyenne_pondérée` et `pcd_moyenne_pondérée` doivent correspondre à la moyenne pondérée (par le solde impayé) de l’exposition pour chaque `catégorie_actifs` de chaque `rta`.
+
+**Consignes générales**
+
+* Les catégories d’actifs figurant dans les relevés sur les risques climatiques (RRC) sont celles du Relevé des normes de fonds propres de Bâle (RNFPB). Toutefois, les RRC n’ont pas été conçus pour servir d’exercice d’évaluation des fonds propres.
+* Pour les différentes catégories d’actifs, les soldes déclarés dans le relevé DC1 doivent correspondre aux soldes calculés avant application des ajustements requis par la ligne directrice Normes de fonds propres et cadrer avec les montants notionnels correspondants indiqués dans le RNFPB.
+
+**Catégories d’actifs n’entrant pas dans le champ d’application du relevé DC1 sur les risques physiques**
+
+* Les expositions liées aux **garanties** et aux **lettres de crédit**, les expositions liées au **risque de crédit de contrepartie**, notamment les **dérivés** et les **cessions temporaires de titres**, les **expositions sur transactions assimilées à des pensions** et les **expositions au risque de rajustement de la valeur du crédit (RVC)**, n’entrent pas dans le champ d’application du relevé DC1 sur les risques physiques.
+
+**Clarification de la source des codes pour la région de tri d’acheminement (RTA) :**
+
+* Les ID doivent utiliser la dernière version des codes RTA de Postes Canada.
+
+**Définition des catégories d’actifs « Placements en actions dans des fonds – Actions de sociétés ouvertes » et « Placements en actions dans des fonds – Capital‑investissement »**
+
+* Les catégories d’actifs « **Placements en actions dans des fonds – Actions de sociétés ouvertes** » et « **Placements en actions dans des fonds – Capital‑investissement** » dans le **relevé DC1 sur les risques physiques** et la catégorie d’actifs « **Placements en actions dans des fonds – Actions de sociétés ouvertes** » dans le **relevé DC2 sur les risques de transition** incluent seulement les **placements au bilan**.
+
+**Portée 3 – Catégories d’émissions non financées (propres à l’ID) et financées :**
+
+* **Catégories 1 à 14 (émissions propres à l’ID)** retirées des RRC et des documents connexes.
+* **Catégorie 15 (émissions financées) :** ventilation des composantes selon les portées 1 et 2 est facultative.
+
+### Sous‑tableau DC1-B : Expositions et paramètres du risque de crédit – Extérieur du Canada (par région)
+
+Remplir tous les champs du gabarit à l’égard des prêts et des placements d’emprunteurs et d’entités émettrices qui sont garantis par des actifs se trouvant à l’extérieur du Canada, selon les instructions pour chaque clé de déclaration ci‑après. Par contre, le champ `rta` doit être laissé vide sur chaque ligne remplie.
+
+#### Champ de sous‑tableau
+
+* `sous_tableau_relevé` – Inscrire « DC1-B » sur chaque ligne remplie.
+
+#### Champs de données catégoriques
+
+* `catégorie_actifs` – Déclarer le code de `catégorie_actifs` applicable d’après le tableau de l’annexe I, Catégories d’actifs.
+* `région` – Déclarer le code applicable à chaque `région` des États‑Unis ou aux « Autres » régions selon le tableau de l’annexe II, Régions, sur chaque ligne remplie. Si les actifs déclarés par l’ID, comme des emprunts qui sont liés à l’emplacement physique des actifs pour certains comptes clients importants aux États-Unis, par exemple, des entreprises, des banques ou des emprunteurs souverains, ne peuvent pas être répartis entre plusieurs régions à l’aide des données disponibles auprès du client, l’ID doit utiliser « É.‑U.‑Autre » dans le champ `région`.
+* `rta` – Laisser le champ vide (ce champ s’applique uniquement au Canada).
+* `approche_risque_de_crédit` – À l’aide du tableau C, déclarer les codes de l’approche utilisée à l’égard du risque de crédit (approche NI ou approche standard) pour chaque champ : nombre d’actifs, solde autorisé, solde impayé et PD et PCD moyennes pondérées. Le code 1 (approche NI) s’applique uniquement aux ID qui utilisent des modèles approuvés établis selon l’approche NI avancée. Les banques qui appliquent l’approche standard doivent toujours utiliser le code 2.
+
+Tableau C : Approche utilisée à l’égard du risque de crédit
+
+| Code | Approche à l’égard du risque de crédit |
+| --- | --- |
+| 1 | Approche fondée sur les notations internes |
+| 2 | Approche standard |
+
+#### Champs de données calculées
+
+* `nombre_actifs` – Déclarer le nombre de prêts impayés ou de titres en circulation pour une `catégorie_actifs` donnée dans chaque `région` présentée. Le nombre d’actifs doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.
+* `solde_autorisé` – Déclarer la somme des expositions brutes maximales autorisées pour une `catégorie_actifs` donnée dans chaque `région` présentée. Le solde autorisé doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.
+* `solde_impayé` – Déclarer la somme des montants bruts de l’encours des expositions pour une `catégorie_actifs` donnée dans chaque `région` présentée. Le solde impayé doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.
+* `pd_moyenne_pondérée` – Déclarer la probabilité de défaut (PD) moyenne pondérée (par le solde impayé) de l’exposition pour la `catégorie_actifs` dans chaque `région` présentée. Veuillez vous référer au tableau C et préciser l’approche utilisée à l’égard du risque de crédit pour calculer la PD.
+* `pcd_moyenne_pondérée` – Déclarer la perte en cas de défaut (PCD) moyenne pondérée (par le solde impayé) de l’exposition pour la `catégorie_actifs` dans chaque `région` présentée. Veuillez vous référer au tableau C et préciser l’approche du risque de crédit utilisée pour calculer la PCD.
+
+Les montants déclarés dans les champs `solde_autorisé` et `solde_impayé` doivent correspondre à la somme de chaque type d’exposition pour chaque `catégorie_actifs` et chaque `région` à l’extérieur du Canada. Ceux déclarés dans les champs `pd_moyenne_pondérée` et `pcd_moyenne_pondérée` doivent correspondre à la moyenne pondérée (par le solde impayé) de l’exposition pour chaque `catégorie_actifs` applicable et chaque `région` à l’extérieur du Canada.
+
+### Autres consignes
+
+Le document de spécifications techniques du relevé DC1 (BSIF 1000), qui comprend un gabarit, la définition des champs ainsi que des tableaux de référence, est accessible à partir de ce lien : [Spécifications techniques du relevé DC1 (BSIF 1000) (XLSX, 34,45 Ko)](/sites/default/files/documents/dc1-specifications-2025-11-fr.xlsx "dc1-specifications-2025-11-fr.xlsx"). Pour consulter un exemple de gabarit rempli contenant une liste abrégée des lignes remplies selon les instructions ci‑dessus, voir le document [Gabarit de relevé DC1 (BSIF 1000) (CSV, 3,67 Ko)](/sites/default/files/documents/dc1-return-releve-2025-12-01-fr.csv "dc1-return-releve-2025-12-01-fr.csv").
+
+## Instructions pour le relevé DC2 sur les risques de transition (BSIF 1001)
+
+Ce relevé permet de recueillir des données sur les émissions de GES en termes absolus à l’échelle de l’entité selon la portée, y compris les émissions financées de portée 3 associées aux prêts et aux placements au bilan. Par conséquent, les sous-tableaux du relevé DC2 sur les risques de transition (DC2-A et DC2-B) ne s’appliquent qu’aux instruments figurant au bilan, plus précisément aux prêts et aux placements.
+
+### Vue d’ensemble des champs de données du relevé
+
+Le gabarit du relevé DC2 (BSIF 1001) comporte les champs suivants :
+
+#### Champ de sous‑tableau
+
+`sous_tableau_relevé`
+
+#### Champs de données catégoriques
+
+* `catégorie_actifs`
+* `secteur`
+* `région`
+* `qualité_crédit`
+
+#### Champs de données calculées
+
+* `émissions_portée_1_termes_absolus_id`
+* `émissions_portée_2_termes_absolus_id`
+* `émissions_portée_1_termes_absolus_contreparties`
+* `émissions_portée_2_termes_absolus_contreparties`
+* `émissions_portée_3_termes_absolus_contreparties`
+* `note_qualité_données_portée_1_contreparties_moyenne_pondérée`
+* `note_qualité_données_portée_2_contreparties_moyenne_pondérée`
+* `note_qualité_données_contreparties_moyenne_pondérée`
+* `note_qualité_données_portée_3_contreparties_moyenne_pondérée`
+* `solde_actif`
+* `échéance_moyenne_pondérée`
+* `échéance_solde_5`
+* `échéance_solde_10`
+
+Pour déclarer les données demandées dans les champs qui précèdent, il faut remplir le gabarit figurant dans le document [Spécifications techniques du relevé DC2 (BSIF 1001) (XLSX, 38,48 Ko)](/sites/default/files/documents/dc2-specifications-2026-02-fr.xlsx "dc2-specifications-2026-02-fr.xlsx"), conformément aux instructions ci‑après sur la déclaration des expositions sur prêts et des paramètres de crédit applicables au Canada et à l’extérieur du Canada.
+
+#### Application des champs par sous‑tableau
+
+Les champs applicables à chaque sous‑tableau sont décrits dans le document [Matrices d’application des champs (XLSX, 57,27 Ko)](/sites/default/files/documents/dc1-dc2-matrices-2025-12-23-fr.xlsx "dc1-dc2-matrices-2025-12-23-fr.xlsx").
+
+### Sous‑tableau DC2-A : Émissions de GES de l’ID à l’échelle de l’entité, selon la portée
+
+Déclarer les émissions selon la portée pour chaque ligne d’après les instructions de chaque clé de déclaration ci‑après.
+
+#### Champ de sous‑tableau
+
+* `sous_tableau_relevé` – Inscrire « DC2-A ».
+
+#### Champs de données catégoriques
+
+* `catégorie_actifs` – Inscrire le code « 17 » (« Non attribuables - Émissions de GES ne pouvant être imputées à un actif en particulier ») pour chaque ligne remplie. La déclaration des autres catégories d’actifs ne s’applique pas au sous‑tableau DC2-A (voir la rubrique « Application des champs par sous‑tableau » ci‑dessus).
+* `secteur` – Sans objet; laisser le champ vide.
+* `région` – Inscrire le code de `région` applicable selon la province ou le territoire au Canada ou la région des É.‑U., ou un code « Autre » selon le tableau de l’annexe II, Régions.
+* `qualité_crédit` – Sans objet; laisser le champ vide.
+
+#### Champs de données calculées
+
+* `émissions_portée_1_termes_absolus_id` – Déclarer les **émissions de GES de portée 1 en termes absolus imputables à l'ID** (en t éq. CO2), produites dans chaque `région` présentée.
+* `émissions_portée_2_termes_absolus_id` – Déclarer les **émissions de GES de portée 2 en termes absolus imputables à l'ID** (en t éq. CO2), produites dans chaque `région` présentée.
+* Laisser les champs suivants vides sur chaque ligne :
+  + `solde_actif`
+  + `échéance_moyenne_pondérée`
+  + `échéance_solde_5`
+  + `échéance_solde_10`
+
+### Sous‑tableau DC2-B : Émissions de GES financées selon la catégorie d’actifs
+
+Pour déclarer les émissions financées de portée 3, remplir chaque ligne selon les instructions pour chaque clé de déclaration ci‑après.
+
+#### Champ de sous‑tableau
+
+* `sous_tableau_relevé` – Inscrire « DC2-B ».
+
+#### Champs de données catégoriques
+
+* `catégorie_actifs` – Déclarer chacune des catégories d’actifs définies (voir le tableau de l’annexe I, Catégories d’actifs). Ne **pas** utiliser le code de `catégorie_actifs` « 17 » (« Non attribuables - Émissions de GES ne pouvant être imputées à un actif en particulier ») pour déclarer les émissions de GES financées. Pour chaque élément sélectionné sous `catégorie_actifs`, certains champs catégoriques peuvent s’appliquer (voir la rubrique « Application des champs par sous‑tableau » ci‑dessus). La catégorie d’actifs 17 (émissions non attribuables) ne s’applique qu’aux émissions non financées (propres à l’ID).
+* `secteur` – Le cas échéant, selon les matrices d’application des champs, déclarer le code de `secteur` applicable pour chaque `catégorie_actifs` conformément au tableau de l’annexe III, Secteurs; sinon, laisser le champ `secteur` vide pour chaque ligne sans objet.
+* `région` – S’il y a un code `région` applicable à la `catégorie_actifs` pertinente d’après les matrices d’application des champs, déclarer la province ou le territoire applicable au Canada ou la région des É.‑U., ou inscrire un code « Autre » selon le tableau de l’annexe II, Régions. Si les actifs déclarés par l’ID, comme des emprunts qui sont liés à l’emplacement physique des actifs pour certains comptes importants, par exemple, des entreprises, des banques ou des emprunteurs souverains, ne peuvent pas être répartis entre plusieurs régions à l’aide des données disponibles auprès du client, l’ID qui produit le relevé doit inscrire « Canada‑Autre » ou « É.‑U.‑Autre » dans le champ `région`.
+* `qualité_crédit` – S’il y a lieu pour la `catégorie_actifs` selon les matrices d’application des champs, déclarer le code de `qualité_crédit` applicable pour chaque ligne d’après le tableau de l’annexe IV, Notes de qualité de crédit; sinon, laisser le champ `qualité_crédit` vide pour les lignes sans objet.
+
+#### Champs de données calculées
+
+La ventilation de la catégorie 15 de la portée 3 (émissions financées) en composantes des portées 1 et 2 est facultative.
+
+##### Déclaration financière des émissions de GES
+
+Ventilation facultative :
+
+* `émissions_portée_1_termes_absolus_contreparties` – Déclarer le montant applicable des **émissions de GES financées de portée 1 en termes absolus imputables aux contreparties de l’ID** pour chaque `catégorie_actifs` par `région` (le cas échéant), par `secteur` (le cas échéant) et par `qualité_crédit` (le cas échéant).
+* `émissions_portée_2_termes_absolus_contreparties` – Déclarer le montant applicable des **émissions de GES financées de portée 2 en termes absolus imputables aux contreparties de l’ID** pour chaque `catégorie_actifs` par `région` (le cas échéant), par `secteur` (le cas échéant) et par `qualité_crédit` (le cas échéant).
+
+Obligatoire (si la déclaration combinée de la portée 3 est utilisée) :
+
+* `émissions_portée_3_termes_absolus_contreparties` – Déclarer le montant applicable des **émissions de GES financées de portée 3 en termes absolus imputables aux contreparties de l’ID** pour chaque `catégorie_actifs` par `région` (le cas échéant), par `secteur` (le cas échéant) et par `qualité_crédit` (le cas échéant).
+
+##### Notes de qualité des données
+
+Ventilation facultative :
+
+* `note_qualité_données_portée_1_contreparties_moyenne_pondérée` – Déclarer la note de qualité des données du PCAF à l’égard du **total des émissions de portée 1 en termes absolus imputables aux contreparties de l’ID**, pondérées par l’encours, pour chaque `catégorie_actifs` par `région` (le cas échéant), par `secteur` (le cas échéant) et par `qualité_crédit` (le cas échéant).
+* `note_qualité_données_portée_2_contreparties_moyenne_pondérée` – Déclarer la note de qualité des données du PCAF à l’égard du **total des émissions de portée 2 en termes absolus imputables aux contreparties de l’ID**, pondérées par l’encours, pour chaque `catégorie_actifs` par `région` (le cas échéant), par `secteur` (le cas échéant) et par `qualité_crédit` (le cas échéant).
+* `note_qualité_données_contreparties_moyenne_pondérée` – Déclarer la note de qualité des données du PCAF à l’égard du **total des émissions (portées 1 et 2) en termes absolus imputables aux contreparties de l’ID**, pondérées par l’encours, pour chaque `catégorie_actifs` par `région` (le cas échéant), par `secteur` (le cas échéant) et par `qualité_crédit` (le cas échéant).
+
+Obligatoire (si la déclaration combinée de la portée 3 est utilisée) :
+
+* `note_qualité_données_portée_3_contreparties_moyenne_pondérée` – Déclarer la note de qualité des données du PCAF à l’égard du **total des émissions de portée 3 en termes absolus imputables aux contreparties de l’ID**, pondérées par l’encours, pour chaque `catégorie_actifs` par `région` (le cas échéant), par `secteur` (le cas échéant) et par `qualité_crédit` (le cas échéant).
+
+##### Mesures de l’exposition et de l’échéance
+
+* `solde_actif` – Déclarer le montant de l’encours (au bilan) applicable en dollars pour chaque `catégorie_actifs` par `région` (le cas échéant), par `secteur` (le cas échéant) et par `qualité_crédit` (le cas échéant).
+* `échéance_moyenne_pondérée` – Déclarer l’échéance résiduelle pondérée (par le solde impayé) du contrat pour l’exposition applicable (et non l’échéance effective utilisée dans le calcul des actifs pondérés en fonction du risque selon l’approche NI) en nombre d’années pour chaque `catégorie_actifs` par `région` (le cas échéant), par `secteur` (le cas échéant) et par `qualité_crédit` (le cas échéant).
+* `échéance_solde_5` – Déclarer le montant en dollars du `solde_actif` dont l’échéance résiduelle est de 5 ans tout juste ou comprise entre 5 et 10 ans.
+* `échéance_solde_10` – Déclarer le montant en dollars du `solde_actif` dont l’échéance résiduelle est égale ou supérieure à 10 ans.
+
+### Autres consignes
+
+Le document de spécifications techniques du relevé DC2 (BSIF 1001), qui comprend un gabarit, la définition des champs ainsi que des tableaux de référence, est accessible à partir de ce lien : [Spécifications techniques du relevé DC2 (BSIF 1001) (XLSX, 38,48 Ko)](/sites/default/files/documents/dc2-specifications-2026-02-fr.xlsx "dc2-specifications-2026-02-fr.xlsx"). Pour consulter un exemple de gabarit rempli contenant une liste abrégée des lignes remplies selon les instructions ci‑dessus, voir le document [Gabarit de relevé DC2 (BSIF 1001) (CSV, 5,5 Ko)](/sites/default/files/documents/dc2-return-releve-2025-11-26-fr.csv "dc2-return-releve-2025-11-26-fr.csv").
+
+## Annexe I – Catégories d’actifs
+
+* Les codes qui suivent correspondent aux catégories d’actifs aux termes de la ligne directrice Normes de fonds propres (NFP).
+* Le **relevé DC1 sur les risques physiques (BSIF 1000)** ne vise que les instruments (prêts et titres) au bilan.
+
+### DC1 (BSIF 1000) – Relevé sur les risques physiques
+
+Les codes figurant dans le tableau ci-après doivent être utilisés pour remplir le champ `catégorie_actifs` des relevés DC1 (BSIF 1000) suivants :
+
+* Sous-tableau DC1-A : Expositions et paramètres du risque de crédit – Au Canada, par RTA
+* Sous-tableau DC1-B : Expositions et paramètres du risque de crédit – À l’extérieur du Canada
+
+Remplir le champ `catégorie_actifs` en utilisant les codes suivants :
+
+| `catégorie_actifs` | Nom de la catégorie d’actifs |
+| --- | --- |
+| 1 | Emprunteurs souverains et banques centrales - Obligations |
+| 2 | Emprunteurs souverains et banques centrales - Prêts |
+| 5 | Entités du secteur public hors administration centrale (ESP) |
+| 7 | Entreprises - Prêts |
+| 8 | Clientèle de détail - Portefeuille réglementaire |
+| 9 | Clientèle de détail - Autres - Prêts automobiles |
+| 10 | Immobilier résidentiel - Prêts hypothécaires - Assurés par la SCHL |
+| 11 | Immobilier résidentiel - Prêts hypothécaires - Autres prêts assurés |
+| 12 | Immobilier résidentiel - Prêts hypothécaires - Non assurés |
+| 13 | Immobilier résidentiel - Marges de crédit adossées à un bien immobilier (MCBI) |
+| 14 | Immobilier commercial |
+| 15 | Prêts hypothécaires inversés |
+
+### DC2 (BSIF 1001) – Relevé sur les risques de transition
+
+* Le relevé DC2 sur les risques de transition (BSIF 1001) ne vise que les instruments (prêts et placements) au bilan.
+
+#### Sous-tableau DC2-A : Émissions de GES de l’ID à l’échelle de l’entité, selon la portée (Canada et extérieur du Canada)
+
+La catégorie « Non attribuables – Émissions de GES ne pouvant être imputées à un actif en particulier » doit servir à déclarer uniquement les émissions à l’échelle de l’entité dans le sous‑tableau DC2-A du relevé DC2; elle ne doit pas être utilisée pour déclarer les émissions par catégorie d’actifs dans le sous-tableau DC2-B du relevé DC2.
+
+Les codes figurant dans le tableau ci-après doivent être utilisés pour remplir le champ `catégorie_actifs` des relevés DC2 (BSIF 1001).
+
+| `catégorie_actifs` | Nom de la catégorie d’actifs |
+| --- | --- |
+| 17 | Non attribuables - Émissions de GES ne pouvant être imputées à un actif en particulier |
+
+La catégorie d’actifs 17 (émissions de GES non attribuables) ne s’applique qu’aux émissions non financées (propres à l’ID).
+
+#### Sous-tableau DC2-B : Émissions de GES financées, selon la portée (Canada et extérieur du Canada)
+
+Les codes qui suivent correspondent aux catégories d’actifs aux termes de la ligne directrice NFP, à l’exception des catégories suivantes :
+
+* La catégorie « Emprunteurs souverains et banques centrales - Obligations » exclut les entités sous-souveraines, les banques centrales et les institutions supranationales.
+* La catégorie « Emprunteurs souverains et banques centrales - Prêts » exclut les entités sous-souveraines, les banques centrales et les institutions supranationales.
+
+Le sous-tableau DC2-B doit être rempli au moyen des codes suivants.
+
+| `catégorie_actifs` | Nom de la catégorie d’actifs |
+| --- | --- |
+| 3 | Emprunteurs souverains et banques centrales - Obligations (à l’exclusion des entités sous-souveraines, des banques centrales et des institutions supranationales) |
+| 4 | Emprunteurs souverains et banques centrales - Prêts (à l’exclusion des entités sous-souveraines, des banques centrales et des institutions supranationales) |
+| 6 | Entreprises - Valeurs mobilières |
+| 7 | Entreprises - Prêts |
+| 9 | Clientèle de détail - Autres - Prêts automobiles |
+| 10 | Immobilier résidentiel - Prêts hypothécaires - Assurés par la SCHL |
+| 11 | Immobilier résidentiel - Prêts hypothécaires - Autres prêts assurés |
+| 12 | Immobilier résidentiel - Prêts hypothécaires - Non assurés |
+| 14 | Immobilier commercial |
+| 15 | Prêts hypothécaires inversés |
+| 16 | Placements en actions dans des fonds - Actions de sociétés ouvertes |
+
+## Annexe II – Régions
+
+Les codes catégoriques figurant dans le tableau ci‑après doivent être utilisés pour remplir le champ `région` des relevés DC1 (BSIF 1000) et DC2 (BSIF 1001). Le tableau indique également le nom de chaque région et une description qui énumère les régions associées à chaque code du champ `région`. Par exemple, le code de `région` « US2 », qui correspond à « Midwest É.‑U. », englobe le groupe d’États américains suivant : IA, IL, IN, KS, MI, MN, MO, ND, NE, OH, SD et WI.
+
+Remplir le champ `région` à l’aide des codes indiqués ci‑après.
+
+| `région` | Nom de la région | Description de la région |
+| --- | --- | --- |
+| AB | Alberta, Canada | Alberta, Canada |
+| BC | Colombie-Britannique, Canada | Colombie-Britannique, Canada |
+| MB | Manitoba, Canada | Manitoba, Canada |
+| NB | Nouveau-Brunswick, Canada | Nouveau-Brunswick, Canada |
+| NL | Terre-Neuve-et-Labrador, Canada | Terre-Neuve-et-Labrador, Canada |
+| NT | Territoires du Nord-Ouest, Canada | Territoires du Nord-Ouest, Canada |
+| NS | Nouvelle-Écosse, Canada | Nouvelle-Écosse, Canada |
+| NU | Nunavut, Canada | Nunavut, Canada |
+| ON | Ontario, Canada | Ontario, Canada |
+| PE | Île-du-Prince-Édouard, Canada | Île-du-Prince-Édouard, Canada |
+| QC | Québec, Canada | Québec, Canada |
+| SK | Saskatchewan, Canada | Saskatchewan, Canada |
+| YK | Yukon, Canada | Yukon, Canada |
+| C1 | Canada-Autre | Non attribuable à une seule région au Canada |
+| U1 | Ouest É.‑U. | Région des É.‑U. comprenant les États suivants : AK, CA, CO, HI, ID, MT, NV, OR, UT, WA, WY |
+| U2 | Midwest É.‑U. | Région des É.‑U. comprenant les États suivants : IA, IL, IN, KS, MI, MN, MO, ND, NE, OH, SD, WI |
+| U3 | Nord‑Est É.‑U. | Région des É.‑U. comprenant les États suivants : CT, MA, ME, NH, NJ, NY, PA, RI, VT |
+| U4 | Sud-Ouest É.‑U. | Région des É.‑U. comprenant les États suivants : AZ, NM, OK, TX |
+| U5 | Sud‑Est É.‑U. | Région des É.‑U. comprenant les États suivants : AL, AR, DE, FL, GA, KY, LA, MD, MS, NC, SC, TN, VA, WV, de même que DC |
+| U6 | É.‑U.‑Autre | Non attribuable à une seule région aux É.‑U. |
+| ZZ | Autres | Toutes les autres régions du globe |
+| ZZZ | Déclaration au niveau de la RTA | Non attribuable à une seule RTA au Canada aux fins de déclaration dans le sous-tableau DC1-A |
+
+## Annexe III – Secteurs
+
+Les codes figurant dans le tableau 1 ci‑après doivent être utilisés pour remplir le champ `secteur` du relevé DC2.
+
+Le tableau 1 dresse la liste de 17 secteurs, dont la plupart sont sensibles au regard de la transition vers une économie à faibles émissions de carbone. La liste commence par les codes de secteur « 1 » (« CHAR » - « Industrie du charbon et activités de soutien ») et se termine par les codes « 17 » (« AUTR » - « Autres industries »).
+
+Remplir le champ `secteur` à l’aide des codes indiqués ci-après (tableau 1).
+
+Tableau 1 – Secteurs désignés par le BSIF
+
+| Code | Secteur | Description du secteur | Industrie |
+| --- | --- | --- | --- |
+| 1 | CHAR | Industrie du charbon et activités de soutien | Combustibles fossiles |
+| 2 | CULT | Cultures agricoles et activités de soutien | Agriculture et foresterie |
+| 3 | ÉGIV-FABR | Fabrication | Industries énergivores |
+| 4 | ÉGIV-AUTR | Pâte et papier; Extraction minière; Aqueducs, égouts et gestion des déchets | Industries énergivores |
+| 5 | ÉLEC-FOSS | Production d’électricité à partir de combustibles fossiles | Activités de soutien au secteur de l’électricité et distribution |
+| 6 | ÉLEC-AUTR | Production d’électricité à partir d’énergies renouvelables et d’origine nucléaire; Activités de soutien au secteur de l’électricité et distribution; Production d’hydroélectricité | Activités de soutien au secteur de l’électricité et distribution |
+| 7 | GAZ | Industrie du gaz naturel et activités de soutien | Combustibles fossiles |
+| 8 | ÉLEV | Élevage et activités de soutien | Agriculture et foresterie |
+| 9 | PÉTR-EXTR | Extraction de pétrole | Combustibles fossiles |
+| 10 | PÉTR-AUTR | Activités de soutien à l’extraction pétrolière | Combustibles fossiles |
+| 11 | PÉTR-SBIT | Extraction de sables bitumineux et activités de soutien | Combustibles fossiles |
+| 12 | IMMO | Services immobiliers et services de location et de location à bail | Autres secteurs |
+| 13 | RAFF | Raffinage de combustibles fossiles | Combustibles fossiles |
+| 14 | TRNS-AÉRI | Transport aérien | Transport |
+| 15 | TRNS-AUTR | Autres modes de transport et activités de soutien | Transport |
+| 16 | TRNS-FERR | Transport ferroviaire | Transport |
+| 17 | AUTR | Tous les autres secteurs | Autres industries |
+
+## Annexe IV – Notes de qualité de crédit
+
+Des notes externes de solvabilité à long terme de l’emprunteur sont attribuées aux émetteurs de titres de créance et aux emprunteurs de gros, y compris les entreprises, les banques et les emprunteurs souverains. Pour faciliter la comparaison, les notes émises par plusieurs agences de notation du crédit reconnues doivent être mises en correspondance avec les catégories de `qualité_crédit` que présente le tableau qui suit. Aux fins des renseignements fournis dans le relevé DC2 (BSIF 1001), les emprunteurs doivent être regroupés sous chaque catégorie de `qualité_crédit`; ils ne doivent **pas** être présentés séparément.
+
+Remplir le champ `qualité_crédit` à l’aide des codes indiqués ci‑après.
+
+| `qualité_crédit` | S&P | DBRS | Moody’s | Fitch | KBRA |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AAA à AA− | AAA à AA (faible) | Aaa à Aa3 | AAA à AA− | AAA à AA− |
+| 2 | A+ à A− | A (élevée) à A (faible) | A1 à A3 | A+ à A− | A+ à A− |
+| 3 | BBB+ à BBB− | BBB (élevée) à BBB (faible) | Baa1 à Baa3 | BBB+ à BBB− | BBB+ à BBB− |
+| 4 | BB+ à BB− | BB (élevée) à BB (faible) | Ba1 à Ba3 | BB+ à BB− | BB+ à BB− |
+| 5 | B+ à B− | B (élevé) à B (faible) | B1 à B3 | B+ à B− | B+ à B− |
+| 6 | Inférieure à B− | CCC ou inférieure | Inférieure à B3 | Inférieure à B− | Inférieure à B− |
+| 7 | Non notée | Non notée | Non notée | Non notée | Non notée |
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   Les ID doivent utiliser la dernière version des codes RTA de Postes Canada.
+
+    [Retour à la référence de la note de bas de page 1](#fn1-rf)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2025-11-20

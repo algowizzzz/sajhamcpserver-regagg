@@ -1,0 +1,271 @@
+# Internal Capital Adequacy Assessment Process (ICAAP) for Deposit-Taking Institutions – Guideline (2010)
+
+Information
+
+Publication type
+
+Guideline
+
+Category
+
+Sound Business and Financial Practices
+
+Date
+
+October 31, 2010
+
+Sector
+
+Banks,
+
+Trust and Loan Companies
+
+No
+
+E-19
+
+Table of contents
+
+This guideline outlines OSFI’s expectations with respect to an institution’s internal capital adequacy assessment process as described in Part 3 of the Basel II Framework[Footnote 1](#fn1). It applies to banks, bank holding companies and to federally regulated trust and loan companies, collectively referred to as institutions.
+
+OSFI’s Capital Adequacy Requirements (CAR) guideline establishes minimum standards for calculating minimum or target regulatory capital requirements.
+
+## Statement of Regulatory Principles
+
+Capital requirements specified in the CAR guideline are regulatory minimums that assume an institution has a portfolio of risk exposures that is highly granular and widely diversified. Because minimum regulatory capital requirements contain restrictive or simplifying assumptions, an institution should not rely only on compliance with regulatory minimums when conducting its own assessment of the adequacy of its capital.
+
+A thorough and comprehensive ICAAP is a vital component of a strong risk management program. The ICAAP should produce a level of capital adequate to support the nature and level of an institution’s risk. Each federally-regulated deposit-taking institution is responsible for developing and implementing its own ICAAP for the purpose of setting internal capital targets and developing strategies for achieving those internal targets that are consistent with its business plans, risk profile and operating environment.
+
+While OSFI makes use of information gleaned from an institution’s ICAAP to assess the quality of risk management, OSFI does not approve an institution’s ICAAP.
+
+## Scope of the ICAAP
+
+OSFI expects federally regulated deposit-taking institutions, including Canadian subsidiaries of foreign banks, to put into place an ICAAP that covers the consolidated operations from the top level regulated entity in Canada. The consolidated approach means that a formal ICAAP is not required at every legal entity below the Canadian parent institution.
+
+Although an ICAAP should cover the consolidated operations from the top level regulated entity in Canada, OSFI expects an institution’s capital planning to consider the risks of its foreign operations and also the availability of capital and assets in Canada to protect Canadian depositors.
+
+Canadian subsidiaries of foreign banks may borrow from consolidated group methodologies for assessing risk. However, a foreign bank subsidiary’s ICAAP should reflect its own circumstances, and group-wide data and methodologies should be appropriately modified to yield internal capital targets and a capital plan that is relevant to the foreign bank subsidiary.
+
+## Expectations for an Institution’s ICAAP
+
+A rigorous ICAAP has six main components:
+
+1. Senior management oversight
+2. Sound capital assessment and planning
+3. Comprehensive assessment of risks
+4. Stress testing
+5. Monitoring and reporting
+6. Internal control review
+
+While these fundamental features of ICAAP are broadly prescribed, there is no single ‘correct’ approach, and one approach does not fit all institutions. An institution’s ICAAP should be as simple or complex as needed, and should reflect how the institution is managed and organized in practice. It should not be established solely to fulfill a regulatory requirement.
+
+The extent of formalization and sophistication of ICAAPs will differ, depending on the institution’s complexity, range of business activities, risk profile, and operating environment.
+
+### I. Senior management oversight
+
+Senior management is responsible for overseeing the design and implementation of the institution’s ICAAP. In order to perform an effective assessment of its capital adequacy, an institution should have in place a sound risk management process. Management should understand the nature and level of risk taken by the institution and how this risk relates to adequate levels of capital. Management should also ensure that the formality and sophistication of the risk management processes are appropriate for the risk profile and business plan of the institution.
+
+As part of the strategic planning process, an institution should perform an analysis of its current and future capital requirements in relation to its strategic objectives. The strategic plan should clearly describe the institution’s capital needs in relation to, among other things, anticipated balance sheet growth and acquisitions, the Risk Appetite Framework[Footnote 2](#fn2) and access to external capital resources.
+
+Please refer to OSFI’s Corporate Governance guideline for OSFI’s expectations of institution Boards of Directors in regards to the management of capital and liquidity.
+
+### II. Sound capital assessment and planning
+
+Capital planning is a crucial element in an institution’s ability to achieve its desired strategic objectives. A sound capital assessment process should include the following elements:
+
+1. A clear and documented process for evaluating risks and determining whether or not a risk should result in an explicit amount of capital being held[Footnote 3](#fn3).
+2. Policies and procedures designed to ensure that the institution identifies, measures and reports all material risks requiring capital
+3. A process that relates capital to current and anticipated future levels of risk in accordance with the institution’s risk appetite
+4. A process that states capital adequacy goals with respect to risk, taking account of the institution’s strategic focus and business plan
+5. A process of internal controls, reviews and audits to ensure the integrity of the overall risk management process
+
+Most institutions consider several factors in relating capital to the level of risk, for example:
+
+1. A comparison of their own capital levels with regulatory standards and with those of industry peers
+2. Consideration of identified risk concentrations in credit and other activities
+3. Their current and desired credit agency ratings, if applicable
+4. Potential severe adverse events, based on historical experiences, either of the institution itself or the markets in which the institution conducts business, as well as non-historical scenarios
+5. Planned changes in the institution’s business or strategic plans, identified changes in its operating environment, and consequential changes in its risk profile
+
+Institutions with more complex and diverse risk profiles will also use risk modeling techniques and integrated scenario analyses to estimate the risks that they may incorporate into their overall assessment of capital adequacy. Quantifiable estimates of risk used in this assessment should also have a business use (i.e., should not be made solely for use in ICAAP) and should be subject to validation. As economic capital (EC) models were designed as a relative measure of risk to be used for performance measurement and pricing, the assumptions underlying these models typically hold under normal conditions and not under the stressed conditions considered in ICAAP. Although EC models provide useful inputs to ICAAP, EC is not a substitute for ICAAP.
+
+In evaluating the adequacy of capital relative to risk and in making decisions on the appropriate level and structure of capital, smaller, less complex institutions may continue to rely heavily on well documented, qualitative considerations. Qualitative considerations may include implicit or explicit regulatory and market expectations, peer group analysis, and the results of forward- looking stress tests and sensitivity analyses of the components of risks that should be covered by capital. For risks that can not be directly quantified (e.g., reputational risk), all institutions may use well documented, qualitative considerations.
+
+An effective capital planning process requires an institution to assess both the risks to which it is exposed and the risk management processes in place to manage and mitigate those risks; evaluate its capital adequacy relative to its risks; and consider the potential impact on earnings and capital from potential economic downturns. The institution should identify the time horizon over which it is assessing capital adequacy. It should evaluate whether long-run capital targets are consistent with short-run goals, based on current and planned changes in risk profile and the recognition that accommodating additional capital needs can require significant lead time. Capital planning should factor in the potential difficulties of raising additional capital during downturns or other times of stress.
+
+### III. Comprehensive assessment of risks
+
+The ICAAP should address all material risks faced by the institution as they relate to the adequacy of capital, including all risks explicitly captured in minimum regulatory capital requirements as well as risks that are not fully captured under minimum regulatory capital requirements. The techniques used in assessing material risks should be commensurate with the scope and complexity of the institution’s risk taking activities.
+
+#### Credit risk
+
+Institutions should have methodologies that enable them to assess the credit risk involved in individual exposures and at the portfolio level. The credit review assessment of capital adequacy should cover four areas:
+
+1. Risk rating systems
+2. Portfolio analysis/aggregation
+3. Large exposures and risk concentrations
+4. Securitization and complex structured instruments (where relevant)
+
+The sophistication of the methodologies used to quantify credit risk should be appropriate to the scope and complexity of the institution’s credit risk taking activities. Less complex credit risk taking activities may incorporate a variety of methodologies but should at minimum take into consideration:
+
+* Historical loss experience
+* Forecast and past economic conditions
+* Attributes specific to a defined group of borrowers
+* Other characteristics directly affecting the collectability of a pool or portfolio of loans
+
+Institutions should refer to OSFI’s Large Exposure Limits[Footnote 4](#fn4) guideline and the [Large Exposure Limits](/en/guidance/guidance-library/large-exposure-limits " Large Exposure Limits ") guidance note as well as the supporting Basel Committee document [Principles for the Management of Credit Risk (PDF)](http://www.bis.org/publ/bcbsc125.pdf) for further guidance on expectations for managing exposures to single borrowers or connected entities.
+
+#### Risk concentrations
+
+The impact of risk concentrations should be reflected in an institution’s ICAAP. Typical situations in which risk concentrations can arise include exposures to:
+
+* a single counterparty, borrower or group of connected counterparties or borrowers
+* industry or economic sectors, including exposures to both regulated and nonregulated financial institutions such as hedge funds and private equity firms
+* geographical regions
+* similar collateral types or to a single or closely related credit protection provider, and other exposures arising from credit risk mitigation techniques
+* trading exposures/market risk
+
+Risk concentrations can also arise through a combination of exposures across these broad categories. An institution should have an understanding of its firm-wide credit risk concentrations resulting from similar exposures across its different business lines.
+
+An institution may also incur a concentration to a particular asset type indirectly through investments backed by such assets (e.g., collateralised debt obligations – CDOs), as well as through collateral or guarantees used to mitigate credit risk. Institutions that place more reliance on collateral values than on an evaluation of a borrower’s or counterparty’s capacity to perform may see themselves exposed to unexpected market risk in addition to wrong way risk[Footnote 5](#fn5), particularly where the value of the collateral declines.
+
+An institution should have in place adequate, systematic procedures for identifying high correlation between the creditworthiness of a protection provider or collateral and the obligors of the underlying exposures due to their performance being dependent on common factors beyond systemic risk (i.e. “wrong way risk”).
+
+#### Risk diversification
+
+Institutions should exercise caution when including risk diversification benefits in ICAAP. Assumptions on diversification are often based on expert judgement and are difficult to validate. Institutions should be conservative in their assessment of diversification benefits, in particular between different classes of risk, and should consider whether such benefits exist under stressed conditions.
+
+#### Securitization
+
+Where securitization activities (e.g., securitization of own-assets for risk transfer and/or funding; provision of backstop credit facilities to third-party conduits) are material, an institution’s ICAAP needs to consider the risks arising from originating, structuring, distributing and/or investing in such assets, including risks that are fully captured in minimum regulatory capital requirements. These may include, for example, reputational risk and the provision of non- contractual or implicit support to securitization vehicles. Asset performance may cause assets to return to the balance sheet through amortization and repurchase. Disruptions in market demand for asset-backed paper may leave assets in securitization pipelines on the balance sheet or force the originator to support its own paper. These have adverse implications for capital and liquidity that should be part of the institution’s capital and liquidity planning.
+
+An institution should develop prudent contingency plans specifying how it would respond to capital pressures that arise when access to securitization markets is reduced. The contingency plans should also address how the institution would address valuation challenges for potentially illiquid positions held for sale or for trading. The risk measures, stress testing results and contingency plans should be incorporated into the banks risk management processes and its ICAAP and should result in an appropriate level of capital under Pillar 2 in excess of the minimum requirements commensurate with the risk appetite statement.
+
+Institutions should also refer to Chapter 7 of the CAR guideline for further guidance on sound practices for managing risk associated with securitization transactions.
+
+#### Cross border lending
+
+Institutions that engage in cross border lending are subject to increased risk including country risk, concentration risk, foreign currency risk (market risk) as well as regulatory, legal, compliance and operational risks, all of which should be reflected in the ICAAP. Laws and regulators’ actions in foreign jurisdictions could make it much more difficult to realize on assets and security in the event of a default. Where regulatory, legal and compliance risks associated with concentrations in cross border lending are not considered elsewhere in an institution’s risk assessment process; additional capital may be required for this type of lending in an institution's ICAAP.
+
+#### Operational risk
+
+Similar rigour should be applied to the management of operational risk as is done for the management of other significant banking risks. The failure to properly manage operational risk can result in a misstatement of the institution’s risk/return profile and expose the institution to significant losses.
+
+Institutions should refer to OSFI’s guideline E-21 [Operational Risk Management and Resilience](/en/guidance/guidance-library/operational-risk-management-resilience-guideline "Operational Risk Management and Resilience – Guideline") and to the Basel Committee’s paper [Principles for the Sound Management of Operational Risk](http://www.bis.org/publ/bcbs195.htm) released in June 2011 which describes a set of principles for managing operational risk.
+
+#### Market risk
+
+Institutions should have methodologies that enable them to assess and actively manage all material market risks, wherever they arise throughout the institution (i.e., position, trading desk, business line or firm-level).
+
+For more sophisticated institutions, the assessment of internal capital adequacy for market risk, at a minimum, should be based on both value-at-risk (VaR) or similar modelling and stress testing, including an assessment of concentration risk and the assessment of illiquidity under stressful market scenarios.
+
+An institution’s VaR model should be adequate to identify and measure risks arising from all its trading activities and should be integrated into the overall internal capital assessment as well as subject to rigorous ongoing validation. A VaR model’s estimates should be sensitive to changes in the trading book risk profile.
+
+#### Interest rate risk in the banking book
+
+The ICAAP should include all material interest rate risk positions of the institution and consider all relevant repricing and maturity data. The system should have well-documented assumptions and techniques. An institution should be able to support its assumptions about the behavioural characteristics of non-maturity deposits and other assets and liabilities, especially those exposures characterized by embedded optionality. Given uncertainty in such assumptions, stress testing and scenario analysis should be used in the analysis of interest rate risks.
+
+In general, an increase in uncertainty related to modeling and business complexity should result in more capital being held.
+
+Institutions should refer to OSFI’s guideline B-12, [Interest Rate Risk Management](/en/guidance/guidance-library/interest-rate-risk-management-guideline-2019 "Interest Rate Risk Management - Guideline (2019)") and the supporting Basel Committee document [Principles for the Management and Supervision of Interest Rate Risk](http://www.bis.org/publ/bcbs108.htm) for further considerations relevant to the measurement of interest rate risk.
+
+#### Liquidity risk
+
+Liquidity is vital to the ongoing viability of any banking organization. An institution’s capital position can have an effect on its ability to obtain liquidity, especially in a crisis. Whereas, institutions are not expected to separately capitalize their liquidity risk, the stress scenarios for target capital planning and liquidity risk management should be complementary. Institutions should refer to OSFI’s guideline B-6, [Liquidity Principles,](/en/guidance/guidance-library/liquidity-principles-guideline-2020 "Liquidity Principles") and the supporting Basel Committee document [Principles for Sound Liquidity Risk Management and Supervision](http://www.bis.org/publ/bcbs144.htm)[Footnote 6](#fn6).
+
+#### Other risks
+
+Although risks such as strategic and reputation risk are not easily measurable, institutions are expected to develop techniques for managing all aspects of these risks. Reputation risk is a key issue for an industry that relies on the confidence of consumers, creditors and the general marketplace. For example, when an institution acts as an advisor, arranges or actively participates in financial transactions, it may assume insurance, market, credit, and operational risks. Reputation risk often arises because of inadequate management of these other risks, whether they are associated with direct or indirect involvement in the sale or origination of complex financial transactions or relatively routine operational activities.
+
+Reputational risk can lead to the provision of implicit support, which may give rise to credit, liquidity, market and legal risk – all of which can have a negative impact on an institution’s earnings, liquidity and capital position. An institution should identify potential sources of reputational risk to which it is exposed. This includes the institution’s business lines, liabilities, affiliated operations, off-balance sheet vehicles and markets in which it operates. The risks that arise should be incorporated into the institution’s risk management process and appropriately addressed in its ICAAP and liquidity contingency plans.
+
+Institutions should refer to the industry notice [OSFI’s Review of Reputation Risk Practices: Principles, Observations and Next Steps](/en/guidance/guidance-library/osfis-review-reputation-risk-practices-principles-observations-next-steps-discussion-paper-2005 "OSFI’s Review of Reputation Risk Practices - Principles, Observations and Next Steps – Discussion paper (2005)") for a further discussion of reputation risk.
+
+### IV. Stress testing
+
+Stress testing is a risk management technique used to evaluate the potential effects on an institution’s financial condition, of a set of specified changes in risk factors, corresponding to exceptional but plausible events[Footnote 7](#fn7). An institution’s capital planning process should incorporate rigorous, forward-looking stress testing that identifies possible events or changes in market conditions that could adversely impact the institutions. In their ICAAPs, institutions should examine future capital resources and capital requirements under adverse scenarios. The results of forward-looking stress testing should be considered when evaluating the adequacy of an institution’s capital.
+
+For further guidance on stress testing expectations, institutions should refer to guideline E-18, [Stress Testing](/en/guidance/guidance-library/stress-testing-guideline-2009 "Stress Testing").
+
+### V. Monitoring and reporting
+
+The institution should establish an adequate system for monitoring and reporting risk exposures and assessing how changes to the institution’s risk profile affects the need for capital. The institution’s senior management should receive regular reports on the institution’s risk profile and capital needs. These reports should allow senior management to:
+
+* Evaluate the level and trend of material risks and their effect on capital levels
+* Evaluate the sensitivity and reasonableness of assumptions used in the capital assessment measurement system
+* Determine that the institution holds sufficient capital against the various risks and is in compliance with established capital adequacy goals
+* Assess the future capital requirements based on the institution’s reported risk profile and make necessary adjustments to the institution’s strategic plan accordingly
+
+### VI. Internal control review
+
+The institution’s internal control structure is essential to the capital assessment process. Effective control of the capital assessment process includes an independent review and, where appropriate, the involvement of internal and external audits. Senior management has a responsibility to ensure that the institution establishes a system for assessing the various risks, develops a system to relate risk to the institution’s capital level, and establishes a method for monitoring compliance with internal policies.
+
+The institution should conduct periodic reviews of its risk management process to ensure its integrity, accuracy, and reasonableness. Areas that should be reviewed include:
+
+* Appropriateness of the institution’s capital assessment process, given the nature, scope and complexity of its activities
+* Identification of large exposures and risk concentrations
+* Accuracy and completeness of data inputs into the institution’s assessment process
+* Reasonableness and validity of scenarios used in the assessment process
+* Stress testing and analysis of assumptions and inputs
+
+## Interaction of ICAAP with Supervisory Review
+
+OSFI assesses capital adequacy at two levels. An institution must have sufficient capital to meet its target regulatory requirements (regulatory capital), as well as sufficient capital to support its risk profile.
+
+The depth and frequency of supervisory review of an institution’s ICAAP will be proportional to the nature, scale and complexity of its activities, and the risks posed to OSFI’s supervisory objectives with respect to the safety and soundness of the institution.
+
+OSFI’s assessment will embrace the following four elements:
+
+* Element 1: The level of conservatism in internal estimates of the risks captured in the CAR guideline (credit, market, and operational risk)
+* Element 2: Material risks not fully captured under the CAR guideline (for example, concentration risk, the degree of conservatism of estimates used by institutions approved for advanced approaches)
+* Element 3: Material risks not covered by CAR (for example, interest rate risk in the banking book, reputation risk, strategic risk). Under credit risk, element 3 would include underestimation of credit risk using standardised approaches and weaknesses in credit risk mitigation.
+* Element 4: External factors, where not already considered in the previous points, including stress testing in Internal Ratings Based Approaches, impact of economic cycles and other external risks and factors
+
+OSFI expects that capital assessment will not become a formula-driven process of add-ons. Expert judgement will continue to be necessary to operationalize the assessment and quantification of risk and integrate those results into the overall assessment of capital. Initially, this assessment will likely include measures of outliers for risk concentrations and outliers for interest rate risk in the banking book.
+
+The supervisory assessment of the internal target capital for some institutions could indicate that the industry-wide target is conservative for that institution or not conservative enough. This would lead to discussions with the institution about a more appropriate level of capital within the target capital framework.
+
+## Footnotes
+
+Footnote 1
+:   International Convergence of Capital Measurement and Capital Standards: a Revised Framework, issued by the Basel Committee on Banking Supervision, June 2006
+
+    [Return to footnote 1  referrer](#fn1-rf)
+
+Footnote 2
+:   Refer to OSFI’s [Corporate Governance](/en/guidance/guidance-library/corporate-governance-guideline-2018 "Corporate Governance – Guideline (2018)") guideline for additional guidance in this area.
+
+    [Return to footnote 2  referrer](#fn2-rf)
+
+Footnote 3
+:   Not all risks can be directly quantified and capitalized. Material risks, including those that are difficult to quantify in an ICAAP framework, should be mitigated by internal controls and contingency plans.
+
+    [Return to footnote 3  referrer](#fn3-rf)
+
+Footnote 4
+:   [Guideline B-2- Large Exposure Limits (2019)](/en/guidance/guidance-library/large-exposure-limits-domestic-systemically-important-banks-guideline-2019 "Large Exposure Limits for Domestic Systemically Important Banks – Guideline (2019)") applies to domestic systemically important banks (“D-SIBs”). Until OSFI provides further guidance, all other federally regulated deposit-taking institutions (excluding subsidiaries of D-SIBs that are incorporated or continued under the Bank Act and the Trust and Loan Companies Act remain subject to the original version of Guideline B-2.
+
+    [Return to footnote 4  referrer](#fn4-rf)
+
+Footnote 5
+:   Wrong way risk is defined in Chapter 4 of the CAR guideline.
+
+    * **General Wrong-Way Risk** arises when the probability of default of counterparties is positively correlated with general market risk factors.
+    * **Specific Wrong-Way Risk** arises when the exposure to a particular counterpart is positively correlated with the probability of default of the counterparty due to the nature of the transactions with the counterparty.
+
+    [Return to footnote 5  referrer](#fn5-rf)
+
+Footnote 6
+:   See also the Basel Committee’s December 2009 consultative paper, [International framework for liquidity risk measurement, standards and monitoring](https://www.bis.org/publ/bcbs165.htm). This document is expected to result in additional liquidity guidance which should also be considered.
+
+    [Return to footnote 6  referrer](#fn6-rf)
+
+Footnote 7
+:   Stress Testing by Large Financial Institutions: Current Practice and Aggregation Issues, Committee on the Global Financial System, April 2000
+
+    [Return to footnote 7  referrer](#fn7-rf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-11-21

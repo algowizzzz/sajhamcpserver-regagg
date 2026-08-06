@@ -1,0 +1,55 @@
+# Suspicious Activity Reports “Extremely Helpful” in Structuring Conviction Related to International Lottery Scheme
+
+[121.pdf](/system/files/case_example/121.pdf "121.pdf")
+(26.72 KB)
+
+In what a federal prosecutor called “the most blatant currency structuring case” he had seen, a federal judge sentenced an 82-year-old man in March 2007 to 15 months in prison and ordered him to pay $110,000 in restitution to American victims of an international lottery scheme. The defendant had been involved in several suspicious investment schemes over the past few years, and numerous SARs document a string of unusual transactions. In addition, the investigating FBI agent reported that he would not have been able to make the case without the SARs.
+
+The defendant told a U.S. district judge that he regretted his involvement in the case, which is still being investigated by Canadian law enforcement. Prosecutors charged that the defendant and his Canadian partners, none of whom have been apprehended, ran “an online scam” on the Internet involving false enticements pertinent to the Australian Lottery.
+
+As part of his plea agreement, the defendant admitted that he structured cash withdrawals from his bank, in amounts less than $10,000, for the purpose of evading reporting requirements of the BSA. He specifically admitted that he was aware of the CTR threshold.
+
+The defendant claimed to be the intermediary in the scheme. Victims would send money to him, mostly through wire transfers and personal checks that he deposited in various accounts, and he would withdraw the money in structured transactions.
+
+With cash in hand, he would purchase money orders to send to the principals in the scheme. In consideration of the defendant’s age, the assistant U.S. attorney suggested a term between 12 and 18 months in the U.S. Bureau of Prisons, although the usual guideline for that crime would be 33 to 41 months. “This is the most blatant currency structuring case I have ever seen in my career,” the prosecutor said. “He was attempting to hide from the federal authorities where all this money was coming from and why he was washing it through his accounts.”
+
+The FBI first encountered the defendant in connection with a stolen IRS check that he cashed. Additionally, his name repeatedly surfaced during proactive SAR searches by the local FBI office.
+
+In fact, the defendant is the subject of numerous SARs filed since 2004. These records document a trail of fraudulent activity, including an incident where he attempted to cash a counterfeit check. Through periodic review of the SARs filed for activity in the local area, the FBI also learned that the defendant was acting as a broker in a scheme to lure individuals to invest in a gold mine. In addition, several SARs include transactions related to the lottery scheme, including at least one SAR that documents the defendant’s inquiries on how to avoid transactions that would trigger CTRs.
+
+The investigation focused on a six-month period of frequent structuring related to the international lottery scheme. The FBI said the defendant “was going to great lengths to avoid the reporting requirements” of FinCEN during numerous transactions conducted between January and June 2006 at his bank.
+
+The investigating agent said that the SARs were extremely helpful to the case and as noted, he could not have made the case without them. In addition to describing the suspect transaction, the SARs provided details about accounts, contacts, and phone numbers.
+
+(Investigating Agency: Federal Bureau of Investigation)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 12, October 2007]
+
+Tags
+
+Involving SARs
+
+Schemes and Scams
+
+Depository Institutions
+
+BSA Violations
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

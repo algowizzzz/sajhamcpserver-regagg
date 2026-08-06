@@ -1,0 +1,30 @@
+**This was a notational vote.**
+
+## By notational vote, the Board approved a Memorandum and Resolution for the Notice of Proposed Rulemaking: Community Reinvestment Act and the Notice of Proposed Rulemaking on Extensions of Credit to Insiders of FDIC-supervised Institutions.
+
+A notational vote is an action by the Board of Directors taken without a meeting. The Executive Secretary distributes written materials to all members of the Board. Board members then vote or indicate their abstention in writing. The vote of the majority of the members of the Board on each item of business is the act of the Board, provided that a majority of members then in office vote or indicate their abstention on such item(s).
+
+The following items were notationally approved:
+
+## Notice of Proposed Rulemaking: Community Reinvestment Act
+
+* [Memorandum](/board/board-memorandum-npr-community-reinvestment-act.pdf "Board Memorandum - NPR on the Community Reinvestment Act")
+* [Notice of Proposed Rulemaking](/board/federal-register-notice-npr-community-reinvestment-act.pdf "Federal Register Notice - NPR Community Reinvestment Act")
+* [Press Release](/news/press-releases/2026/agencies-issue-joint-proposal-amending-community-reinvestment-act-rules "Agencies Issue Joint Proposal Amending the Community Reinvestment Act Rules")
+* [Financial Institution Letter](/news/financial-institution-letters/2026/fdic-and-occ-seek-public-comment-joint-notice-proposed "FDIC and OCC Seek Public Comment on Joint Notice of Proposed Rulemaking to Amend Community Reinvestment Act (CRA) Regulations")
+
+## Notice of Proposed Rulemaking on Extensions of Credit to Insiders of FDIC-supervised Institutions
+
+* [Memorandum](/board/board-memorandum-npr-extensions-credit-insiders-fdic-supervised-institutions.pdf "Board Memorandum - NPR on Extensions of Credit to Insiders of FDIC-supervised Institutions")
+* [Notice of Proposed Rulemaking](/board/federal-register-notice-npr-extensions-credit-insiders-fdic-supervised-institutions.pdf "Federal Register Notice - NPR Extensions of Credit to Insiders of FDIC-supervised Institutions")
+* [Press Release](/news/press-releases/2026/fdic-board-approves-proposal-amend-regulations-regarding-lending-limits "FDIC Board Approves Proposal to Amend Regulations Regarding Lending Limits for Bank Insiders")
+* [Financial Institution Letter](/news/financial-institution-letters/2026/notice-proposed-rulemaking-extensions-credit-insiders "Notice of Proposed Rulemaking: Extensions of Credit to Insiders")
+
+## Votes
+
+| Action | For | Against | Abstention |
+| --- | --- | --- | --- |
+| **Memorandum and Resolution: Notice of Proposed Rulemaking: Community Reinvestment Act** | Chairman Hill  Director Gould  Director Vought |  |  |
+| **Memorandum and Resolution: Notice of Proposed Rulemaking on Extensions of Credit to Insiders of FDIC-supervised Institutions** | Chairman Hill  Director Gould  Director Vought |  |  |
+
+Last Updated: July 31, 2026

@@ -1,0 +1,1 @@
+Summary: # Issuance of Shares or Membership Shares in Consideration of Property

@@ -1,0 +1,89 @@
+# FCA and PRA confirm changes to streamline senior manager accountability and boost growth
+
+The PRA and FCA have set out reforms to the Senior Managers and Certification Regime, designed to reduce costs and offer greater flexibility.
+
+Published on
+22 April 2026
+
+## News release
+
+Firms will benefit from reduced costs and greater flexibility and find it easier to comply with the Senior Managers and Certification Regime (SM&CR), following reforms set out today by the Financial Conduct Authority (FCA) and Prudential Regulation Authority (PRA).
+
+The changes, which come as the first phase of a multi-stage package of reform from Government and regulators, will maintain the core principle of senior leader accountability, and will benefit firms by:
+
+* Giving more time to submit senior manager applications when there has been an unexpected or temporary change.
+* Removing the need to certify people to hold multiple overlapping functions, which will reduce the total number of certification roles required by around 15%.
+* Helping to streamline annual checks to certify individuals as ‘fit and proper’.
+* Making only larger, more complex firms meet enhanced standards, by raising many of the enhanced firm thresholds by 30%.
+* Helping to better understand the definition of certain senior management roles.
+* Allowing more time to report updates to senior manager responsibilities.
+* Increasing how long criminal record checks for senior manager applications are valid for, prior to application submission.
+* Giving more time to update the directory, which lists certified staff.
+
+The government’s further changes to the regime, published in its consultation response today, follow its consultation last year. Proposals include removing the Certification Regime, which applies to less senior roles, from legislation. The government also proposes giving more flexibility to the regulators to further reduce the number of senior management functions (SMFs) which require pre-approval.
+
+The regulators plan to consult on wider changes taking advantage of any increased legislative freedom later in the year, as part of the Leeds reforms to halve the SM&CR’s regulatory burden on firms.
+
+Lucy Rigby, Economic Secretary to the Treasury, said: “The UK has some of the highest standards for financial sector governance in the world. They protect consumers, strengthen market integrity and are emulated internationally, helping make our financial services sector one of the great jewels in our economic crown.
+
+“We are committed to preserving those high standards — while making regulation simpler and easier to navigate. By working with regulators to streamline the Senior Managers and Certification Regime, we are cutting unnecessary complexity, halving the administrative burden, and building a simpler, faster and more competitive system.”
+
+Sarah Pritchard, deputy chief executive at the FCA, said: “These joint reforms will keep consumers and markets protected while making the regime more proportionate. We’ve also used our current powers to streamline the regime now, so firms can benefit before future legislation unlocks even more efficiencies”.
+
+David Bailey, executive director for prudential policy at the PRA, said: “The SM&CR plays an important role in ensuring accountability in the provision of financial services, but it is right that we work to ensure it is well-targeted and efficient. Today’s reforms are an important first step in allowing firms to focus on what matters most, and we will continue to deliver further improvements to the regime as part of the wider reforms being made by the Government.”
+
+Today’s announcement builds on work already done to speed up SM&CR approvals:
+
+* The FCA’s most [recent published quarterly metrics](https://www.fca.org.uk/data/fca-authorisations-operating-service-metrics-2025-26-q3 "Opens in new window") show 99.7% of applications were determined within the current 3-month statutory deadline, with 94.7% of determined within the Government's proposed new 2 month statutory deadline.
+* The PRA’s [most recent quarterly metrics](https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/publication/2025/authorisations-performance-report.pdf "Opens in new window")show 100% of applications were determined within the current 3-month statutory deadline, with 98% of determined within the Government's proposed new 2 month statutory deadline.
+
+## Notes to editors
+
+1. The SM&CR ensures accountability among senior managers within financial services firms and maintains standards of behaviour and competence across the board.
+2. Read the FCA’s Senior Managers & Certification Regime review [policy statement](http://www.fca.org.uk/publications/policy-statements/ps26-6-senior-managers-certification-regime-review "Opens in new window").
+3. Read the PRA’s Senior Managers & Certification Regime review [policy statement](https://urldefense.com/v3/__https:/www.bankofengland.co.uk/prudential-regulation/publication/2026/april/review-of-the-smcr-phase-1-policy-statement__;!!NpgLxcn0NwQP6K3JyhKAL1gv!syX5STtpwtpz0JSKLUL3nxmUTEOXqqjzGXWFnJZxGBXDTr2Xzv2aK1_DWDX_Jqx16RmgkyBmCgaV0rOUqbiZIPbe5XIZfw3Em0zGJw$ "Opens in new window").
+4. HM Treasury has also published its consultation response to support a further phase in which the regulators would be able to make additional changes if legislation is made. This includes developing a more proportionate replacement for the Certification Regime and significantly reducing the number of roles requiring regulatory pre-approval. Read HM Treasury’s [consultation paper](https://www.gov.uk/government/consultations/consultation-reforming-the-senior-managers-certification-regime "Opens in new window").
+5. Firms now have up to 12 weeks to submit a senior manager application, rather than needing FCA approval within that period.
+6. The Certification Regime is part of SM&CR that applies to staff who are not senior managers, but whose roles could still cause significant harm to consumers or markets - known as Certified Individuals.
+7. In December 2022, the government [announced](https://www.gov.uk/government/collections/financial-services-the-edinburgh-reforms "Opens in new window"), as part of the Edinburgh Reforms, that the Treasury, FCA and PRA would begin reviews of the SM&CR. In March 2023, the FCA published a [Discussion Paper](https://www.fca.org.uk/publications/discussion-papers/dp23-3-review-senior-managers-certification-regime "Opens in new window") with the PRA, inviting views on the regime’s effectiveness, scope and proportionality, and on potential improvements that could be made. The Treasury [launched a Call for Evidence](https://www.gov.uk/government/calls-for-evidence/senior-managers-certification-regime-a-call-for-evidence "Opens in new window") on the regime alongside this.
+8. In July 2025 the regulators published [phase 1 proposals](https://www.fca.org.uk/news/press-releases/fca-and-pra-cut-senior-manager-regime-red-tape-help-boost-growth "Opens in new window") to reform the SM&CR. To help accelerate through phase 2, the FCA also sought views on potential changes for phase 2 – as well as inviting any other ideas of reducing burden while maintaining the benefits of the SM&CR.
+9. See the FCA’s latest [authorisation operating metrics](https://www.fca.org.uk/data/fca-authorisations-operating-service-metrics-2025-26-q3 "Opens in new window") (Q3 2025/26) and the PRA’s [authorisations performance report](https://www.bankofengland.co.uk/prudential-regulation/authorisations) (Q4 2025/26).
+10. [Enhanced scope SM&CR firms](https://www.fca.org.uk/firms/senior-managers-certification-regime/categorisation-solo-regulated-firms "Opens in new window") are the largest and most complex firms. The financial thresholds for becoming an Enhanced SM&CR firm are being updated for inflation since their introduction in 2019, by 30%.
+
+## Other news
+
+[News
+
+30 July 2026
+
+### Minutes of the Meeting of the Court of Directors...
+
+### Minutes of the Meeting of the Court of Directors held on 4 June 2026](/minutes/2026/july/court-minutes-4-june-2026)
+
+[News // Monetary Policy Committee (MPC)
+
+30 July 2026
+
+### Bank Rate maintained at 3.75% - July 2026...
+
+### Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes](/monetary-policy-summary-and-minutes/2026/july-2026)
+
+[News // Letter
+
+23 July 2026
+
+### Letter from the Governor to the Daily Mail
+
+### Letter from the Governor to the Daily Mail](/letter/2026/letter-from-the-governor-to-the-daily-mail)
+
+[News // News release
+
+22 July 2026
+
+### PRA consults on updated guidance for friendly...
+
+### PRA consults on updated guidance for friendly society amalgamations and transfers](/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers)
+
+[View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

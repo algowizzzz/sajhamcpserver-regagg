@@ -1,0 +1,50 @@
+# Directives ministérielles et restrictions quant aux opérations
+
+En vertu de la partie 1.1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi), qui est entrée en vigueur le 19 juin 2014, le ministre des Finances peut :
+
+* émettre une directive qui enjoint les entités déclarantes de prendre toute contremesure nécessaire concernant une opération financière qui émane d’un État étranger ou d’une entité étrangère ou qui est destinée à l’un ou l’autre;
+* recommander l’introduction d’un règlement pour interdire aux entités déclarantes d’effectuer une opération financière qui émane d’un État étranger ou d’une entité étrangère ou qui est destinée à l’un ou l’autre.
+
+Ces pouvoirs permettent au ministre des Finances de prendre les mesures nécessaires pour protéger le système financier canadien des États étrangers ou des entités étrangères qui sont jugés présenter un risque élevé de faciliter le blanchiment d’argent et le financement du terrorisme.
+
+## Directives ministérielles
+
+Les directives seront émises par le ministre des Finances. Toutefois, CANAFE avisera les entités déclarantes de toute nouvelle directive. Chaque directive sera ajoutée ci-dessous et inclura des contremesures se limitant aux activités pour lesquelles l’entité déclarante a des obligations. Ces contremesures amélioreront ces obligations ou en ajouteront d’autres.
+
+Les directives préciseront leur date d’entrée en vigueur et demeureront en vigueur jusqu’à leur révocation, suspension ou modification.
+
+Les directives seront étudiées sur une base triennale, à compter de leur date d’entrée en vigueur.
+
+Directives en vigueur :
+
+* [Le 24 février 2024 : Russie](dir-rus-fra) Mis à jour le 22 mars 2025
+* [Le 25 juillet 2020 : République islamique d'Iran](dir-iri-fra) Mis à jour le 17 novembre 2025
+* [Le 9 décembre 2017: République populaire démocratique de Corée (RPDC)](dir-dprk-fra) Mis à jour le 22 mars 2025
+
+## Restrictions quant aux opérations
+
+Le pouvoir de recommander de nouveaux règlements afin de restreindre certaines opérations doit être utilisé dans les cas les plus graves. Le ministre des Finances devra consulter le ministre des Affaires étrangères avant de recommander des règlements au gouverneur en conseil. Ces règlements seront publiés dans la Gazette du Canada et seront préparés au cas par cas.
+
+## Respect des directives ministérielles et des restrictions quant aux opérations
+
+CANAFE surveillera et évaluera le respect de ces directives.
+
+Pour évaluer la conformité, la Loi accordera à CANAFE le pouvoir d’examiner les dossiers et de s’enquérir des activités et des affaires de toute entité assujettie à la Loi. Lorsque CANAFE effectuera des activités d’assurance de la conformité, comme des examens au bureau ou sur les lieux, afin d’étudier la mesure dans laquelle les entités déclarantes respectent leurs obligations en vertu de la Loi, le Centre pourra également se pencher sur le respect des directives.
+
+CANAFE peut imposer une pénalité administrative pécuniaire en cas de non-conformité, et peut également divulguer les cas de non-conformité aux services de police lorsque le manque de conformité est important ou qu’il est peu probable que la situation s’améliore immédiatement ou à plus long terme.
+
+Le programme actuel de pénalités administratives pécuniaires sera élargi et s’appliquera maintenant à toutes les directives, et le non-respect d’une directive pourra entraîner l’imposition d’une pénalité administrative pécuniaire. Les pénalités pour violation d’une directive seront décrites dans le Règlement sur les pénalités administratives - recyclage des produits de la criminalité et financement des activités terroristes.
+
+Toute personne ou entité qui ne respecte pas les mesures comprises dans une directive, ou les exigences en matière de déclaration comprises dans une directive, commet une infraction et encourt :
+
+* sur déclaration de culpabilité par procédure sommaire – une amende ne pouvant dépasser 250 000 $ ou un emprisonnement maximal de deux ans moins un jour, ou les deux;
+* sur déclaration de culpabilité par mise en accusation – une amende ne pouvant dépasser 500 000 $ ou un emprisonnement maximal de cinq ans, ou les deux.
+
+Le même cas de non-conformité ne pourra pas faire l’objet de sanctions pénales et de pénalités administratives pécuniaires.
+
+## Conseils quant aux directives ministérielles
+
+Le ministère des Finances a publié un [document d'orientation au sujet de la partie 1.1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](https://www.canada.ca/fr/ministere-finances/organisation/lois-reglements/liste-lois-reglements/loi-recyclage-produits-criminalite-financement-activites-terroristes/document-orientation.html) sur son site Web.
+
+Date de modification :
+:   2025-03-21

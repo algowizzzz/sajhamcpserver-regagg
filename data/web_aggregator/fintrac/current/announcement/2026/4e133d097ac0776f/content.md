@@ -1,0 +1,215 @@
+# Privacy impact assessment summaries
+
+As stated in its [Privacy Policy](2011-pp-eng), FINTRAC must ensure that privacy principles are being taken into account when there are proposals for, and during the design, implementation and evaluation of programs and services which raise privacy issues. This can include the carrying out of a Privacy Impact Assessment (PIA). This means that all projects and activities involving the collection and use of personal information, including modifications to its use in any program, activity or service, are evaluated to determine their impact on individual privacy. This includes any operational changes to processes involving the way personal information is assessed (in decision making), used and disclosed.
+
+Please consult [FINTRAC's Privacy Policy](2011-pp-eng) to find out more about how FINTRAC assesses privacy impacts on its programs and services.
+
+Privacy impact assessment executive summaries:
+
+## FINTRAC report and analysis program FINTRAC's activities involve the collection, use and disclosure of personal information for the purpose of detecting money laundering, terrorist activity financing and threats to the security of Canada.
+
+### Privacy impact assessment
+
+#### Introduction
+
+FINTRAC conducted an evaluation of the receipt of reports and collection of information that is stored in FINTRAC's systems, as mandated by the Treasury Board's Secretariat Privacy Impact Assessment Policy (PIA). The report from this evaluation was shared with the Office of the Privacy Commissioner in October of 2007.
+
+FINTRAC's activities involve the collection, use and disclosure of personal information. The Centre initiated a privacy impact assessment (PIA) covering business processes and basic data flows of personal information related to FINTRAC's activities in the context of the report collection and analysis it undertakes as part of its statutory mandate.
+
+The privacy analysis identified that even though FINTRAC continues to place privacy and security of information as an overarching and fundamental consideration in every aspect of its operations, including the processes associated with the reception of reports, there were five privacy risks identified where FINTRAC could improve its compliance with the Privacy Act and related policies.
+
+#### Objective
+
+Under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA), FINTRAC is mandated to receive, collect, analyze, use and disclose personal financial information with respect to money laundering, terrorist activities financing and threats to the security of Canada.
+
+The present privacy impact assessment process was prompted by the legislative changes to the PCMLTFA, in December of 2006. These amendments brought additional activities for FINTRAC, as well as new types of reports, which have triggered the need for FINTRAC to proceed with this assessment. As activities associated with the reports process involve personal information, FINTRAC initiated a PIA to identify any risk associated with the management of personal information within this program. This report presents the findings of that PIA process.
+
+#### Description
+
+Financial information contained in reports, together with any information voluntarily provided to FINTRAC and other information FINTRAC collects or receives that is relevant to money laundering activities or the financing of terrorist activities is collected, assessed and analyzed to identify indicators of suspected money laundering and/or terrorist activity financing and/or threats to the security of Canada. If FINTRAC, on the basis of this analysis, has reasonable grounds to suspect that "designated information" would be relevant to investigating or prosecuting a money laundering and/or a terrorist activity financing offence, FINTRAC must disclose the information to the appropriate law enforcement agency.
+
+#### Conclusion
+
+FINTRAC has taken a proactive approach to address and/or mitigate for each area identified as requiring varying degrees of modification:
+
+1. It was suggested that FINTRAC implement an internal process for managing occurrences of breach of privacy. (Considered a moderate risk.)
+
+   FINTRAC took steps to incorporate a process for handling potential breach incidents that involve personal information into FINTRAC's security breach procedures. This "Step-by-step" guide for employees clarifies the necessary actions to be taken if a breach were to happen. The Centre has also been working at the creation and implementation of guidelines specific to the investigation and management of privacy breaches.
+2. It was suggested that FINTRAC implement an internal process for assessing staff compliance with privacy-rated obligations. (Considered a moderate risk.)
+
+   Although not in a documented process, FINTRAC staff's privacy practices at the working level are continually being monitored by managers. Given that FINTRAC is mandated to protect the personal information with which it is entrusted, all FINTRAC staff including compliance officers are trained and reminded of the requirements of appropriate use and protection of personal information in a number of different formats:
+
+   * Mandatory Security presentation to all new FINTRAC employees: this session includes a specific section on the protection of privacy and the safeguarding of personal information.
+   * Privacy awareness video available on FINTRAC's corporate website
+   * Biennial review by the Office of the Privacy Commissioner as part of a larger, institution-wide assessment of FINTRAC's privacy-related practices.
+
+   More specific to the Compliance Program staff, awareness and reinforcement are provided through rigorous Compliance Officer Authorization Training, which focuses on the collection of information for compliance purposes under the PCMLTFA. In addition, policies and procedures have been developed, which are specifically built into the compliance function since its employees handle personal information on a daily basis.
+3. It was suggested that FINTRAC considers incorporating some of privacy-enhancing provisions to strengthen its memoranda of understanding (MOUs) with foreign financial intelligence units (FIUs) with which exchanges of information take place. (Considered a moderate risk.)
+
+   FINTRAC's MOUs have always included clear provisions aimed at ensuring that information provided to the various FIUs was protected in a manner reflective of our own security practices. As a member of the Egmont Group, FINTRAC also benefits from the tools developed to ensure safe information exchanges amongst the Group members. FINTRAC is committed to continuing to monitor its interaction with its international partners to find innovative ways to mitigate privacy risk.
+4. It was noted that, at the time of the assessment, FINTRAC's privacy statements did not fully comply with Treasury Board notice requirements. (Considered a low risk.)
+
+   To address this risk, FINTRAC is continually updating its privacy notices on its website as well as on its paper reports, and is in the process of reviewing all related Common Look and Feel requirements and adjusting its privacy notices and statements accordingly.
+5. It was suggested that FINTRAC's reports-related Personal Information Bank (PIB) on Info Source requires updating to incorporate changes brought about by the legislative amendments to the PCMLTFA. (Considered a low risk.)
+
+   FINTRAC has submitted new and updated PIBs to the Treasury Board Secretariat for registration. These new PIBs now include information on new report-related retention and disposal requirements, and additional information on any new primary and/or "consistent" uses of personal information.
+
+## Registration of money services businesses Through the enactment of Bill C-25, an amendment to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) required that FINTRAC develop and implement a web-based application for the registration of money services businesses operating in Canada.
+
+### Privacy impact assessment
+
+#### Introduction
+
+FINTRAC conducted an evaluation of its activities related to money services businesses (MSBs) as mandated by the Treasury Board's Secretariat Privacy Impact Assessment Policy (PIA). The report from this evaluation was shared with the Office of the Privacy Commissioner in December 2007.
+
+The privacy analysis identified that even though FINTRAC continues to place privacy and security of information as an overarching and fundamental consideration in every aspect of its operations including the Money Services Business Registration Program, there were three privacy risks identified where FINTRAC could improve its compliance with the Privacy Act and related policies.
+
+#### Objective
+
+Under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA), FINTRAC is mandated to receive, collect, analyze, use and disclose personal financial information with respect to money laundering, terrorist activities financing and threats to the security of Canada.
+
+An amendment to the PCMLTFA, through Bill C-25, required FINTRAC to develop and implement a new function - notably the Registration of Money Services Businesses. Pursuant to this, FINTRAC has created a registry of MSBs operating in Canada.
+
+The MSB application will continue to evolve to meet business requirements through various updates and releases. FINTRAC is committed to its adherence to the Privacy Act and in the future will continue to assess the MSB registration's compliance with the Privacy Act and its regulations and periodically update the associated PIA.
+
+#### Description
+
+To establish and manage this new legislated function, FINTRAC developed a web-based application specifically designed to facilitate the registration of MSBs.
+
+The purpose of the MSB application was to permit FINTRAC to meet the legislated requirement of collecting information about the MSBs and allow MSBs to fulfill their obligations of registering and maintaining their own information up to date, as required by the legislation.
+
+#### Conclusion
+
+FINTRAC has taken a proactive approach to address or mitigate any potential risk to privacy for each area identified.
+
+1. No Personal Information Bank (PIB) exists with respect to the personal information collected about MSBs and users of the registration system.
+
+   While most of the information collected for registration purposes may be business contact information, some information (e.g. date of birth) is personal information about the agents or mandataries of the MSB. Therefore, FINTRAC has submitted a PIB to Treasury Board Secretariat for registration.
+2. A Threat Risk Assessment (TRA) has not yet been done on the MSB Registration system.
+
+   A TRA was conducted on the MSB registry before it became operational in June 2008.
+3. No procedure has been established to record and review the nature, frequency and resolution of complaints.
+
+   FINTRAC has a procedure in place with respect to Privacy Act complaints that has been updated to include the management and periodic review of all complaints to ensure that any issues have been addressed.
+
+## Regional operations and compliance To ensure that reporting entities are complying with their obligations under the PCMLTFA, FINTRAC carries out a compliance program. This includes an administrative monetary penalty system that came into force on December 30, 2008, whereby civil penalties can be applied to reporting entities for non-compliance.
+
+### Privacy impact assessment
+
+#### Introduction
+
+The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) is Canada's financial intelligence unit. It is a specialized agency created to collect, analyze and disclose financial information and intelligence on suspected money laundering, terrorist activities financing and threats to the security of Canada. Created pursuant to the Proceeds of Crime (Money Laundering) Act (PCMLA) in July 2000, the Centre is an integral part of Canada's engagement in the global fight against money laundering and the financing of terrorist activities.
+
+The PCMLA was subsequently amended by the Anti-Terrorism Act, which was proclaimed in force on December 24, 2001. The amendments allowed for the extension of the mandate of FINTRAC to cover matters involving the detection and deterrence of the financing of terrorist activity and matters relating to the security of Canada. The amendments also changed the name of the Act to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA or the Act).
+
+Further amendments to the PCMLTFA contained in Bill C-25 which received Royal Assent on December 14, 2006. Some of those amendments increase FINTRAC's ability to deliver its compliance mandate, such as Money Services Business Registration, and the Administrative Monetary Penalty (AMP) regime, both of which are now in force as of December 30, 2008.
+
+Under the PCMLTFA, FINTRAC has a mandate to receive, collect, analyze, use and disclose personal financial information with respect to money laundering, terrorist activities financing and threats to the security of Canada. To ensure that those parties that are required by the Act to report financial transactions are complying with their obligations, FINTRAC carries out a Compliance Program.
+
+#### Objective
+
+As activities associated with the Compliance Program involve sensitive personal information, FINTRAC initiated a privacy impact assessment (PIA). The objective of this report is to present the findings of that PIA process.
+
+#### Description
+
+Previously the PCMLTFA allowed for serious criminal penalties if the Act were contravened. With the amendments to the PCMLTFA contained in Bill C-25 FINTRAC now has the ability to levy civil penalties to deal with lesser contraventions in order to take a more balanced and graduated approach to compliance enforcement. Under the amendments FINTRAC created the Administrative Monetary Penalty (AMP) system, whereby civil penalties can be applied to reporting entities (RE) for non-compliance.
+
+#### Conclusion
+
+The Treasury Board Secretariat's Privacy Impact Assessment Guidelines were used as the basis for this PIA, which consists of three components:
+
+* Data analysis of the flows of personal information
+* Privacy analysis designed to identify compliance with privacy principles
+* Privacy issues and recommendations including action items to address identified risks
+
+The privacy analysis examined its adherence to the 10 fair information principles and identified that even though FINTRAC continues to place privacy and security of information as an overarching and fundamental consideration in every aspect of its operations including the Compliance Program of which the Administrative Monetary Penalty (AMP) regime is a part, there were three privacy risks identified where FINTRAC could improve its compliance with the Privacy Act and related policies.
+
+FINTRAC has taken a proactive approach to address and/or mitigated for each area identified as requiring varying degrees of modification:
+
+1. FINTRAC has not, to date, implemented a process for periodically assessing the performance of its staff against its internal compliance process-specific privacy performance standards.
+
+   Considered a moderate risk it was suggested that FINTRAC develop and implement internal oversight processes for assessing compliance with the privacy-related obligations of staff.
+
+   Given that FINTRAC is mandated to protect the personal information with which it is entrusted, all FINTRAC staff including compliance officers are trained and reminded of the requirements of appropriate use and protection of personal information in a number of different formats:
+
+   * Policies and procedures have been developed, which are specifically built into the compliance function.
+   * Rigorous Compliance Officer authorization training, which focuses on the collection, use and protection of information.
+   * Biennial review by the Office of the Privacy Commissioner as part of a larger, institution-wide assessment of FINTRAC's privacy-related practices.
+2. FINTRAC has not completed the process of obtaining a disposal authority for records containing compliance-related personal information from the Librarian and Archivist of Canada.
+
+   Considered a moderate risk, it was suggested that FINTRAC complete discussions necessary to obtain a disposal authority for records containing compliance-related personal information from the Librarian and Archivist of Canada.
+
+   * FINTRAC Info Management met with Library and Archives Canada to discuss putting in place Record Disposition Authorities for all FINTRAC records, including compliance information. Discussions on this matter are on-going.
+3. FINTRAC's compliance-related documentation does not fully comply with Treasury Board notice requirements as stated in the Privacy Protection Policy and the Common Look and Feel for the Internet.
+
+   Considered a low risk, it was suggested that FINTRACinsert appropriate notices on electronic and paper forms and Web screens to ensure compliance with the Treasury Board's Privacy Protection Policy and the Common Look and Feel for the Internet.
+
+   * FINTRAC is continually updating its privacy notices on its web-site as well as on our paper reports, and will review all related Common Look and Feel requirements and adjust its privacy notices and statements accordingly.
+
+## Integrated query tool – police information portal access The Integrated Query Tool provided to partners in the National Integrated Interagency Information system allows FINTRAC to query and retrieve index information from databases of Canadian police agencies that are accessible through the Police Information Portal.
+
+### Introduction
+
+FINTRAC is governed by the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA). This Act authorizes the Centre to collect information that it considers relevant to money laundering activities or the financing of terrorist activities, and that is stored in databases maintained by the federal or provincial governments for purposes related to law enforcement or national security. Given FINTRAC's legislated authority to access these databases, the Centre is a partner in the National Integrated Interagency Information (N-III) system, which will employ a phased approach for federal departments and agencies to access index information from the databases of Canadian police agencies.
+
+FINTRAC has completed a privacy impact assessment (PIA) report concerning its access to index information from the Police Information Portal (PIP) through the Integrated Query Tool (IQT) as part of the N-III system. Although the report was completed as an appendix to the Overarching Cross-Jurisdictional Information Sharing Privacy Impact Assessment (PIA) Report for IQT, coordinated by Public Safety Canada, it relates directly and overlaps with the FINTRAC baseline [Reports and Analysis PIA](#s1).
+
+### Objective
+
+It serves to report on the outcome of the privacy evaluation specific to FINTRAC's business processes and data flows of personal information resulting from the Centre's access to specific index information in the PIP database through the IQT.
+
+### Description
+
+The IQT now allows FINTRAC to query and retrieve index information from databases of Canadian police agencies that will be accessible through PIP. FINTRAC's access to PIP will further expand the amount of police information available to analysts, which will allow for more comprehensive and complete intelligence analysis. Accessing PIP information in IQT will also improve efficiency in the Centre's case building because analysts will be able to run queries and receive index information from the various record systems simultaneously.
+
+### Conclusion
+
+The TBS'Privacy Impact Assessment Guidelines were used as the basis for this PIA, which consists of three components:
+
+* Data analysis of the flows of personal information
+* Privacy analysis designed to identify compliance with privacy principles
+* Privacy issues and recommendations including action items to address identified risks
+
+The privacy analysis examined the Centre's adherence to the 10 fair information principles and identified that FINTRAC continues to place privacy and security of information as an overarching and fundamental consideration in every aspect of its operations. There were three low impact privacy risks identified that relate to FINTRAC's compliance with the
+Privacy Act and related policies.
+
+FINTRAC has taken a proactive approach to address and/or mitigated for each area identified as requiring varying degrees of modification:
+
+1. FINTRAC has not completed the process of obtaining a disposal authority for records containing personal information acquired through IQT from the Librarian and Archivist of Canada
+   * MOU has been signed between FINTRAC Information Management and Library and Archives, Canada in November 2009. In 2010, FINTRAC has commenced formal discussions to obtain a record disposal authority (RDA) for all its records, including those containing personal information, from the Librarian and Archivist of Canada.
+   * FINTRAC Information Management is defining its full information architecture to ensure that all of the information for which LAC will need to grant RDAs will be ready for their review.
+   * FINTRAC ATIP will update its Personal Information Bank with the necessary information regarding the retention and disposal of records containing personal information acquired through government databases (such as PIP).
+2. FINTRAC's Personal Information Bank (PIB) PPU 220 Financial Analysis and Disclosure does not contain reference to its access to the IQT query tool.
+   * Given its intelligence mandate, FINTRAC must be careful when considering revealing specific sources of information. In order to keep confidential certain government databases to which FINTRAC does not have access FINTRAC is unable to include, in its PIB, a complete list of those databases to which it does have access.
+   * The maintenance of such confidentiality can reasonably be expected given FINTRAC's legislated mandate and role as an intelligence agency.
+3. FINTRAC has requested an exemption from the IQT policy clause requiring the validation of the information it receives in response to a query.
+   * Without the exemption, the required validation would entail a disclosure contrary to the legislative prohibition against unlawful disclosure of information under 55(1) of the PCMLTFA.
+   * FINTRAC does not conduct investigations, but rather it provides intelligence leads to law enforcement to assist in their investigations. Law enforcement agencies ensure the accuracy and validity of the information both in their databases and in their investigation case file before actions are take against an individual.
+
+## FINTRAC human resources management system – Workday In 2023, FINTRAC implemented the Workday Human Capital Management Solution Suite to manage its human resources activities.
+
+### Introduction
+
+In 2023, the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) implemented a new system to manage its human resources (HR) activities. The new system replaced its legacy HR applications with more modern workplace tools that aligned with the Government of Canada's digital transformation initiatives. “Software as a service (SaaS)” tools are the future of Human Capital Management products, and Workday, which is one of them, aligns with the Government of Canada IM/IT strategy. The new HR system provides an efficient and secure means for HR personnel to address recruiting, learning, compensation, absence and time tracking, talent and performance management, and analytics. It also greatly reduces administrative burden particularly in removing manual processes, and improves data management, integrity, privacy and security.
+
+FINTRAC has completed a privacy impact assessment (PIA) concerning its new HR management solution in compliance with the Directive on Privacy Impact Assessments. FINTRAC shared the PIA report with the Office of the Privacy Commissioner in 2023.
+
+### Objective
+
+FINTRAC procured the Workday Human Capital Management Solution Suite, which provides its HR Directorate (People, Culture and Workplace) with a single common solution for core functionality, new efficient workflows and self-service, and improved automated reporting capability.
+
+Aside from addressing immediate business needs, the key drivers for upgrading to the Workday solution include:
+
+* ease of use for HR service providers, end users and executives; and,
+* advanced security and privacy features.
+
+### Privacy risk summary
+
+An important aspect of FINTRAC's mandate under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) is the explicit legal obligation that FINTRAC ensures the protection of personal information under its control. In meeting this obligation, FINTRAC's commitment to privacy protection is an overarching consideration in all of its activities from its intelligence and compliance operations to the delivery of its corporate programs. Along with safeguards established for high security organizations in their agreement with Workday, FINTRAC's implementation of the solution has undergone layered security assessments to ensure that when it was deployed all security risks were identified, mitigated and that FINTRAC employee information is well protected. Along with extensive security requirements and safeguards, there is a non-disclosure agreement in place between FINTRAC and Workday Inc. as well as detailed plans to ensure the timely identification and response to security incidents. These include procedures outlining rolls and responsibilities, risk analysis, communication and documentation of incidents.
+
+Workday is modernizing how People, Culture and Workplace conducts its work and supports its employees. The use of Workday does not introduce new collections or uses of employee personal information; rather it simply modifies and brings greater transparency to how HR transactions are managed. Workday brings program efficiencies by integrating established HR processes and gives FINTRAC employees better access and control of their own information while also providing assurances to employees that their information is safeguarded from unauthorized access and use. Workday has built-in privacy-by-design and security configurations that prevent users from accessing information that is not their own or that they do not have a business requirement to access. Furthermore, unlike FINTRAC's legacy HR processes, since employees are in control of their personal information and have full visibility of their data and records, they are able to ensure that their information is kept accurate and up-to-date.
+
+As such, FINTRAC has assessed that the minor inherent risks of utilizing a third-party solution are far outweighed by the benefits that adopting Workday brings to employees, and their privacy.
+
+Date Modified:
+:   2024-09-17

@@ -1,0 +1,1 @@
+Summary: # Directive sur les personnes politiquement vulnérables et les dirigeants d'une organisation internationale à l'intention des secteurs d'entités déclarantes dont les activités ne sont pas liées à des comptes : Directive sur la conformité de CANAFE

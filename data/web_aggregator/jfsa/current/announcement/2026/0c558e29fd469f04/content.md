@@ -1,0 +1,98 @@
+* [HOME](/en/index.html)
+* [FSA Weekly Review/ACCESS FSA](/en/newsletter/index.html)
+
+[Tweet](https://twitter.com/share)
+
+# Financial Services AgencyFSA Weekly Review No.672
+:   January 26, 2026
+
+**What’s New on the FSA Website**
+
+Week of January 19, 2026 - January 23, 2026
+
+This page contains the latest in events, developments, and updates to the FSA website.  
+  
+For files in HTML formats, when you click original press release links, and click the "Language" button on the upper right of the Japanese website, and select "Machine translation" displayed on the screen, the results of the translation by AI are displayed. Please note that machine translated pages are not necessarily correct.
+
+## Press Conferences
+
+|  |  |
+| --- | --- |
+| January 20, 2026 | [Press Conference by the Minister of State for Financial Services (January 9, 2026)](/en/conference/minister/2026/20260109.html) |
+
+## Public Comments
+
+|  |  |
+| --- | --- |
+| January 19, 2026 | Publication of the draft partial amendment of the "Guidelines for Anti-Money Laundering and Combating the Financing of Terrorism." The amendment is for promoting the maintenance and enhancement of financial institutions' internal systems for managing money laundering and other risks, by compiling the recent environmental changes surrounding financial institutions, such as the trend of strengthening measures for preventing illegal use of deposits and savings accounts and the methodology concerning the FATF's 5th Round of Mutual Evaluations. Public comments will be accepted until no later than 5:00 p.m. (JST), February 19, 2026. [The original press release is available in Japanese.open new window](/news/r7/amlcft/20260119/20260119.html) |
+
+## Press Releases
+
+### Councils
+
+|  |  |
+| --- | --- |
+| January 22, 2026 | Publication of the minutes of the fourth meeting of the Working Group on Regional Financial Power Enhancement (provisional translation) of the Financial System Council held on December 4, 2025 [The original press release is available in Japanese.open new window](/singi/singi_kinyu/chiikikinyuryoku_wg/gijiroku/20251204.html) |
+
+### Banks
+
+|  |  |
+| --- | --- |
+| January 21, 2026 | Publication of information on an accusation against Iwaki Shinkumi, Ltd. for false reports and false answers. Today, the Tohoku Local Finance Bureau filed an accusation against Iwaki Shinkumi, Ltd. for false reports and false answers with the Fukushima Prefectural Police. [The original press release is available in Japanese.open new window](/news/r7/ginkou/20260121-2.html) |
+
+### Others
+
+|  |  |
+| --- | --- |
+| January 20, 2026 | [Remarks by Minister KATAYAMA at the event “Japan’s Turn” of the 56th Annual Meeting of the World Economic Forum](/en/news/2026/20260120/20260120.html) |
+| January 20, 2026 | Publication of material for speeches by FSA Commissioner Ito at events held in October and November 2025 [The original press release is available in Japanese.open new window](/common/conference/danwa/index_kouen.html) |
+| January 20, 2026 | Publication of information on the amendment, etc. of the "Guidelines Concerning Matters to Be Taken into Account by Companies, etc. in Assignment of Business and Mergers" issued by the Ministry of Health, Labour and Welfare  In response to the supplementary resolution on the draft Act on the Promotion of Cash Flow-Based Lending at the House of Representatives Financial Affairs Committee (on May 17, 2024) and the House of Councillors Financial Affairs Committee (on June 6, 2024), the subcommittee on labor conditions, "Subcommittee on the Adjustment of Labour-related Matters upon Organizational Restructuring" (provisional translation), of the Labour Policy Council, the Ministry of Health, Labour and Welfare, conducted deliberations while also taking into account the FSA's guidelines, and on January 20, 2026, amended the "Guidelines Concerning Matters to Be Taken into Account by Companies, etc. in Assignment of Business and Merger" to add items on the matters to be conducted by trustees in the procedures for using the Enterprise Value Charge. [The original press release is available in Japanese.open new window](/news/r7/sonota/20260120-2/20260120-2.html) |
+| January 20, 2026 | Publication of information on the public consultation procedures on the draft "Guidelines on Visualization of Human Capital (Revised)" (provisional translation) issued by the Cabinet Secretariat. For revising the "Guidelines on Visualization of Human Capital," deliberations have been held at the Study Group on Visualizing Non-financial Information, in which the FSA and the Ministry of Economy, Trade and Industry participate as observers. The public consultation procedures will be undergone by the Cabinet Secretariat, where the Study Group on Visualizing Non-financial Information is established. [The original press release is available in Japanese.open new window](/news/r7/sonota/20260120-3/20260120.html) |
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

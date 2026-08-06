@@ -1,0 +1,134 @@
+# Issuance of Shares or Membership Shares in Consideration of Property
+
+Information
+
+Type of document
+
+Transaction instructions
+
+Category
+
+Deemed approval
+
+Last updated
+
+October 2017
+
+Index DA No
+
+1
+
+## Legislative authorities
+
+* Sections 65, 79.1 and 709 of the [Bank Act](https://laws-lois.justice.gc.ca/eng/acts/b-1.01/) (BA)
+* Section 68 of the [Trust and Loan Companies Act](https://laws-lois.justice.gc.ca/eng/acts/t-19.8/) (TLCA)
+* Sections 69 and 748 of the [Insurance Companies Act](https://laws-lois.justice.gc.ca/eng/acts/i-11.8/) (ICA)
+* Section 74 of the [Cooperative Credit Associations Act](https://laws-lois.justice.gc.ca/eng/acts/c-41.01/) (CCAA)
+
+## Information Requirements
+
+The applicant is generally expected to provide:
+
+1. a description of the transaction or series of transactions (the transaction), including:
+   1. the rationale[Footnote 1](#fnb1) for the transaction,
+   2. a description of the property that the applicant would receive, including a substantiation for the value of the property that demonstrates that the applicant would receive fair consideration[Footnote 2](#fnb2) for the shares or membership shares to be issued,[Footnote 3](#fnb3)
+   3. the number and type of shares or membership shares that would be issued, and the rationale supporting the value of these shares or membership shares,[Footnote 4](#fnb4) and
+   4. the name of the counterparty and, if applicable, a description of the nature of the applicant’s affiliation with the counterparty;
+2. a confirmation from a senior officer[Footnote 5](#fnb5) that the:
+   1. applicant would receive fair consideration[Footnote 6](#fnb6) for the shares or membership shares to be issued, and
+   2. where the counterparty is a related party,
+      1. the transaction will not result in the applicant having material ongoing financial exposure to a related party[Footnote 7](#fnb7) (or, alternatively, provide a description of the exposure and of the measures or other safeguards that will be put in place to mitigate the exposure), and
+      2. the transaction will not have a detrimental effect on the financial position or risk profile of the applicant[Footnote 8](#fnb8);
+3. a description of the basis on which the assessment of each of the elements referred to in item 2 was made;
+4. details regarding the level of internal approval required with regard to the transaction (e.g., board of directors, board committee or senior management), based on the applicant's policies, as well as evidence that the transaction was approved at the appropriate level (e.g., relevant excerpts from the minutes of the meeting during which the transaction was approved); and
+5. an analysis of the effect of the transaction on the financial position and risk profile of the applicant, including:
+   1. details regarding the projected changes to the applicant’s balance sheet – where the transaction is material to the applicant, these details are expected to be in the form of a comparative *pro forma* balance sheet (pre- and post-transaction) including relevant assumptions,
+   2. details regarding the projected changes to the applicant’s capital position and liquidity position[Footnote 9](#fnb9) – where the transaction is material to the applicant, these details are expected to be in the form of a comparative *pro forma* capital position and liquidity position (pre- and post-transaction) that confirms compliance with the applicant’s internal target(s) and with OSFI’s requirements applicable to the applicant, together with relevant assumptions and a breakdown of:
+      1. in the case of a deposit-taking institution, all elements used to calculate:
+         1. the capital ratios, in accordance with the Capital Adequacy Requirements Guideline,
+         2. the leverage ratio, in accordance with the Leverage Requirements Guideline, and
+         3. the liquidity coverage ratio, in accordance with the Liquidity Adequacy Requirements Guideline,
+      2. in the case of a life insurance company, all elements used to calculate the Life Insurance Capital Adequacy Test, or
+      3. in the case of a property and casualty insurance company, all elements of the Minimum Capital Test or the Mortgage Insurer Capital Adequacy Test, as applicable, and
+   3. a confirmation that, following the transaction, the applicant will be in compliance with its relevant policies, including those related to liquidity, capital management, risk management and investments.
+
+## Administrative Guidance
+
+1. The property consideration to be received in the transaction should be no less than the fair equivalent of the money that the applicant would have received if the shares or membership shares had been issued for money. OSFI may, where appropriate, commission an independent evaluation at the applicant’s expense to confirm this.
+2. Depending on the type, and value of, the property consideration, the applicant may also require an approval under the applicable provisions of the legislation pertaining to investments or ownership.
+3. No approval is required under the Legislative Authorities in respect of the issuance of shares or membership shares (“New Shares”) in accordance with terms and conditions of other issued and outstanding shares or membership shares that provide for conversion into the New Shares.[Footnote 10](#fnb10) Where a conversion occurs by other means, or in the context of a share exchange, OSFI is generally of the view that approval is required under the Legislative Authorities in respect of the issuance of New Shares.
+4. OSFI generally considers the following elements when assessing applications where the counterparty is a related party:
+   1. **No ongoing financial exposure:** The transaction should generally not result in the applicant having material ongoing financial exposure to a related party, unless adequate mitigation measures or other safeguards have been put in place. Where there will be material financial exposure, it should generally only continue for a short period of time. OSFI generally considers an applicant to have ongoing financial exposure to a related party where it has a receivable from the related party, holds securities of the related party, has provided a guarantee for the benefit of the related party or holds a guarantee from the related party; and
+   2. **No detrimental effect:**  The transaction should not have a detrimental effect on the financial position or risk profile of the applicant. In this regard, OSFI will generally assess the impact of the transaction on the applicant’s business, asset mix, capital, income and liquidity position.
+5. If the shares or membership shares will be issued to a related party, the applicant may also require an approval under the applicable provisions of the legislation pertaining to self-dealing. However, where the shares or membership shares will be issued in exchange for shares of another body corporate, a separate approval under the legislative self-dealing regime is not required.[Footnote 11](#fnb11)
+6. The following email address should be used for the initial submission of documents in support of requests for approval(s) that are addressed in this document: [approvals-approbations@osfi-bsif.gc.ca](mailto:approvals-approbations@osfi-bsif.gc.ca). Once the initial submission has been received, a case officer will be assigned to the matter. Thereafter, all case-related documents and correspondence should be directed to the case officer.
+7. Requests for approval(s) addressed in this document are not subject to a service charge.[Footnote 12](#fnb12)
+
+The information requirements and administrative guidance are intended to satisfy typical applications. They have been derived from OSFI’s experience in assessing applications. Applicants who provide all information and material requested can generally expect a more timely assessment of their applications. As appropriate to the circumstances, OSFI may request additional information, take into account other matters, impose terms and conditions, or require undertakings.
+
+## Footnotes
+
+Footnote 1
+:   Where a proposed transaction is driven by tax considerations, OSFI will generally request that the applicant provide details regarding the due diligence it has carried out to satisfy itself that the transaction is permitted under tax rules and, as applicable, any impact of this tax position not being accepted by the tax authorities.
+
+    [Return to footnote 1](#fnb1-ref)
+
+Footnote 2
+:   Please see item 1 of the Administrative Guidance below.
+
+    [Return to footnote 2](#fnb2-ref)
+
+Footnote 3
+:   Where the counterparty is a related party and the property is not a security that trades on a recognized stock exchange or over-the-counter market, this value should generally be supported by an opinion from an independent third party or other reliable evidence. Please see the definition of “related party” in section 486 of the BA, section 474 of the TLCA, section 518 of the ICA and section 410 of the CCAA.
+
+    [Return to footnote 3](#fnb3-ref)
+
+Footnote 4
+:   Where the counterparty is a related party and the shares would not trade on a recognized stock exchange or over-the-counter market, this value should generally be supported by an opinion from an independent third party or other reliable evidence.
+
+    [Return to footnote 4](#fnb4-ref)
+
+Footnote 5
+:   In this Transaction Instruction, “senior officer” means the chief executive officer or a person that reports to the chief executive officer or the board of directors.
+
+    [Return to footnote 5](#fnb5-ref)
+
+Footnote 6
+:   Please see item 1 of the Administrative Guidance below.
+
+    [Return to footnote 6](#fnb6-ref)
+
+Footnote 7
+:   Please see item 4(a) of the Administrative Guidance below.
+
+    [Return to footnote 7](#fnb7-ref)
+
+Footnote 8
+:   Please see item 4(b) of the Administrative Guidance below.
+
+    [Return to footnote 8](#fnb8-ref)
+
+Footnote 9
+:   A liquidity position is only expected to be provided where the applicant is a deposit-taking institution.
+
+    [Return to footnote 9](#fnb9-ref)
+
+Footnote 10
+:   Please see OSFI [Ruling 2001-01 Conversion of shares](/en/supervision/rulings/conversion-shares "Conversion of shares").
+
+    [Return to footnote 10](#fnb10-ref)
+
+Footnote 11
+:   Please see subparagraph 487(2)(a)(vi) of the BA, 475(2)(b)(vi) of the TLCA, 519(2)(a)(vi) of the ICA and 411(2)(a)(iv) of the CCAA.
+
+    [Return to footnote 11](#fnb11-ref)
+
+Footnote 12
+:   Please see  [Charges for Services Provided by the Office of the Superintendent of Financial Institutions Regulations 2002](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-337/index.html).
+
+    [Return to footnote 12](#fnb12-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2022-12-21

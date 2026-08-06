@@ -1,0 +1,1 @@
+Summary: # Furukawa Electric to spend $635m in Japan, US, Brazil, India amid AI boom

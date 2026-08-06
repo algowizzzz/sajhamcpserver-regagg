@@ -1,0 +1,24 @@
+{
+  "doc_id": "cdc205256aab3d38",
+  "regulator_id": "fdic",
+  "doc_type": "announcement",
+  "title": "https://www.fdic.gov/board/notice-proposed-rulemaking-assessments-thresholds-rate-schedules-and-adjustments.pdf",
+  "language": "en",
+  "source_url": "https://www.fdic.gov/board/notice-proposed-rulemaking-assessments-thresholds-rate-schedules-and-adjustments.pdf",
+  "reference_number": null,
+  "published_date": "2026-06-22",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c2e38a17ce1a0b5a8732a65e03f64c0e33a3c7e0f6b36f345c1e028319ad12b9",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fdic_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fdic/current/announcement/2026/cdc205256aab3d38",
+  "tags": [
+    "us",
+    "banking"
+  ]
+}

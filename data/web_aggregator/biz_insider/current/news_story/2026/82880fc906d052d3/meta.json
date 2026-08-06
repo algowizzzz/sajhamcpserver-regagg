@@ -1,0 +1,25 @@
+{
+  "doc_id": "82880fc906d052d3",
+  "regulator_id": "biz_insider",
+  "doc_type": "news_story",
+  "title": "RXR Nuclear Receptor Agonists Promote Clearance of Alpha-Synuclein in Cellular Models",
+  "language": "en",
+  "source_url": "https://markets.businessinsider.com/news/stocks/rxr-nuclear-receptor-agonists-promote-clearance-of-alpha-synuclein-in-cellular-models-1036414297",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:37a2f485c01ce57ec21e8cf456211da0f6417f8b41917cb2cfb9ad2d741b4597",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_biz_insider_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/biz_insider/current/news_story/2026/82880fc906d052d3",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://markets.businessinsider.com/news/stocks/rxr-nuclear-receptor-agonists-promote-clearance-of-alpha-synuclein-in-cellular-models-1036414297",
+  "fetch_method": "feed_summary"
+}

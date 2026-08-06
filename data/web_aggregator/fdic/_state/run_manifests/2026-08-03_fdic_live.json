@@ -1,0 +1,27 @@
+{
+  "run_id": "2026-08-03_fdic_live",
+  "regulator_id": "fdic",
+  "logical_date": "2026-08-03",
+  "trigger": "schedule",
+  "detected": 23,
+  "fetched": 23,
+  "ingested": 23,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-07-31-3notation",
+    "https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-06-25-2closed",
+    "https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-06-25-1open",
+    "https://www.fdic.gov/news/board-matters/2026/june-25-2026-sunshine-act-meeting-notice",
+    "https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-05-20-3notation",
+    "https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-05-13-3notation",
+    "https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-04-23-3notation",
+    "https://www.fdic.gov/news/board-matters/2026/april-7-2026-sunshine-act-meeting-notice",
+    "https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-04-07-1open",
+    "https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-03-19-2closed"
+  ],
+  "duration_s": 18.001
+}

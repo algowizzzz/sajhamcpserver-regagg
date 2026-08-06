@@ -1,0 +1,5 @@
+# Regulatory Modernization and Relief for Mutual Holding Companies
+
+The Board invites comment on a notice of proposed rulemaking (proposal) to modernize the regulatory framework applicable to mutual holding companies (MHCs), primarily through proposed revisions to Regulation MM (12 CFR part 239), which governs the formation, operations, activities, and conversion of savings and loan holding companies in mutual form. The proposal would amend Regulation MM by, among other things, eliminating certain dividend waiver requirements, reducing burden associated with conversions from mutual-to-stock form, revising certain post-conversion restrictions, eliminating the requirement that subsidiary holding companies of MHCs obtain federal charters, and revising and clarifying other provisions of the regulation. The proposal also would amend the capital rule (12 CFR part 217) to clarify that certain mutual capital instruments may qualify as regulatory capital and to codify model term sheets for mutual capital certificates as appendices to the regulation.
+
+> Full text pending: source page is bot-gated; this is the official API abstract.

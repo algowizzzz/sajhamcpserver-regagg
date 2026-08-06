@@ -1,0 +1,1 @@
+Summary: # Life Insurance Capital Adequacy Test (2025) – Chapter 3 Credit Risk – On-Balance Sheet Items

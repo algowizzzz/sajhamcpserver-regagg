@@ -1,0 +1,30 @@
+# (Formerly known as 88-2) When, if ever, should a bank filea CMIR on behalf of its customer, when the customer is importing or exporting more than $ 10,000 in currency or monetary instruments?his ruling, formerly known as 88-2, was posted to the website
+
+FIN-1988-R002
+
+(Formerly known as 88-2) When, if ever, should a bank filea CMIR on behalf of its customer, when the customer is importing or exporting more than $ 10,000 in currency or monetary instruments?his ruling, formerly known as 88-2, was posted to the website
+
+Issued Date
+
+June 22, 1988
+
+Financial Institution
+
+Depository Institutions
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

@@ -1,0 +1,65 @@
+# Whether an Authorized Agent for the Receipt of Utility Payments is a Money Transmitter
+
+[fin-2008-r006.pdf](/system/files/administrative_ruling/fin-2008-r006.pdf "fin-2008-r006.pdf")
+(42.57 KB)
+
+FIN-2008-R006
+
+Whether an Authorized Agent for the Receipt of Utility Payments is a Money Transmitter
+
+Issued Date
+
+June 11, 2008
+
+I am responding to your letters dated September 14, 2005, and March 21 and May 3, 2006, requesting an administrative ruling as to whether [ ], which serves as an authorized agent for the receipt of utility payments, is a money services business as that term is defined in our regulations.1 Specifically, this ruling addresses whether [ ] is a money transmitter.2
+
+As you have described in your letter, [ ] is a gift shop that is also under contract with various utility companies to receive bill payments as the authorized agent of those utility companies. These payments are accepted in either cash or check; if paid by check, the check is made payable to the utility company. The payments are deposited into an account at [ ]’s bank, and withdrawn from the account by each individual utility company through an ACH transaction. [ ] does not sell or redeem money orders, or engage in wire transfer or check cashing activity.
+
+Whether a person is a money transmitter is a matter of facts and circumstances. Our regulations define the term "money transmitter" to include "[a]ny person… who engages as a business in accepting currency, or funds denominated in currency, and transmits the currency or funds, or the value of the currency or funds, by any means through a financial agency or institution… or… [a]ny other person engaged as a business in the transfer of funds."3 The regulations also provide that "the acceptance and transmission of funds as an integral part of the execution and settlement of a transaction other than the funds transmission itself… will not cause a person to be a money transmitter."4
+
+FinCEN has concluded that a merchant payment processor, processing payments from consumers as an agent of the merchant to whom the consumers owe money - rather than on behalf of the consumers themselves - is not a money transmitter by virtue of such activities.5 As long as [ ] limits itself to accepting payments only on behalf of the utilities with whom it has contracted as an agent, and declines to accept and transmit funds for any other purpose, [ ]’s activities are sufficiently similar to the services provided to merchants by merchant payment processors for the same conclusion to apply. Under these circumstances, therefore, FinCEN would not deem [ ] a money transmitter for purposes of 31 C.F.R. § 103.11(uu)(5).
+
+This ruling is provided in accordance with the procedures set forth at 31 C.F.R. § 103.81. In arriving at the conclusions in this letter, we have relied upon the accuracy and completeness of the representations made in your letters. Nothing precludes us from reaching a different conclusion or taking further action if circumstances change or any of the information provided is inaccurate or incomplete. We reserve the right, after redacting your name, and your company’s name and address, to publish this letter as guidance to financial institutions in accordance with our regulations. You have fourteen days from the date of this letter to identify any other information you believe should be redacted and the legal basis for redaction.
+
+If you have questions about this ruling, please contact [FinCEN’s regulatory helpline at (800) 949-2732].
+
+Sincerely,  
+/signed/  
+Jamal El-Hindi  
+Associate Director  
+Regulatory Policy and Programs Division
+
+---
+
+131 C.F.R. § 103.11(uu).
+
+231 C.F.R. §103.11(uu)(5).
+
+331 C.F.R. § 103.11(uu)(5)(i)(A) and (B).
+
+431 C.F.R. § 103.11(uu)(5(ii).
+
+5See FinCEN Ruling 2003-8 "Definition of Money Transmitter (Merchant Payment Processor)" dated November 19, 2003.
+
+Financial Institution
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

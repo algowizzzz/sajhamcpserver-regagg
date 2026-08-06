@@ -1,0 +1,50 @@
+# Trademark restrictions
+
+The Canadian Intellectual Property Office processes applications for trademarks in Canada under the *Trademarks Act*. However, a proposed trademark may include words that are restricted by other legislation in Canada.
+
+We’re also responsible for approving [company and business name requests](/en/supervision/company-business-name-requests "Company and business name requests") under various acts.
+
+## Our role in trademark requests
+
+OSFI is responsible for administering trademark restrictions under the *Bank Act*. These restrictions cover both [identifying marks](https://laws-lois.justice.gc.ca/eng/acts/B-1.01/page-98.html#23417) including any trademark or acronym.
+
+## Restricted words
+
+Words that are restricted under the *Bank Act* include:
+
+* bank
+* banker
+* banking
+
+[Other words (such as banc, mybank, and bancorp) may also be restricted](/en/guidance/guidance-library/advisory-2017-01-restrictions-use-words-bank-banker-banking "Advisory 2017-01 – Restrictions on the use of the words “bank”, “banker” and “banking”").
+
+You can use restricted words in a trademark or other identifying mark **only** if at least one of the following applies:
+
+* you’re a bank listed in Schedule I or II of the *Bank Act* (see the list of [domestic banks](https://www.osfi-bsif.gc.ca/Eng/wt-ow/Pages/wwr-er.aspx?sc=1&gc=1&ic=1#WWRLink111) and [foreign banks](https://www.osfi-bsif.gc.ca/Eng/wt-ow/Pages/wwr-er.aspx?sc=1&gc=1&ic=2#WWRLink112) under [Who we regulate](/en/supervision/who-we-regulate "Who we regulate"))
+* one of the exceptions available under the *Bank Act* applies
+
+## Exceptions may be available
+
+One type of common exception is the non-financial activity exception. This is for businesses, such as blood banks and food banks, who can use “bank” in their names, since their business activities aren’t financial in nature.
+
+## Contact us for more information
+
+If you’d like more information about trademark restrictions, please contact us by email or regular mail.
+
+[name-denomination@osfi-bsif.gc.ca](mailto:name-denomination@osfi-bsif.gc.ca)
+
+Managing Director, Legislative Policy, Interpretations and Compliance  
+Office of the Superintendent of Financial Institutions  
+255 Albert Street  
+Ottawa, Canada  K1A 0H2
+
+## Related links
+
+* [Advisory 2017-01 – Restrictions on the use of the words “bank”, “banker” and “banking”](/en/guidance/guidance-library/advisory-2017-01-restrictions-use-words-bank-banker-banking "Advisory 2017-01 – Restrictions on the use of the words “bank”, “banker” and “banking”")
+* [Canadian Intellectual Property Office](http://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/home)
+* [*Trademarks Act*](https://laws-lois.justice.gc.ca/eng/acts/t-13/)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-07-05

@@ -1,0 +1,59 @@
+# Change Control Log (N3)
+
+Information
+
+Type of document
+
+Change control log
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Loans in Arrears (N3)
+
+Last updated
+
+November 2019
+
+Return number
+
+N3
+
+Accompanying documents
+
+* [Loans in Arrears (N3)](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/loans-arrears-n3)
+
+Amendment control log
+
+| Amendment number | Effective reporting date | Page number | Description |
+| --- | --- | --- | --- |
+| 1 | Q1 1998 | 2, 4 | **Add:**  * *Section II - Mortgage Loans in Arrears*    Mortgage loans in arrears for mortgages on properties located out of Canada |
+| 2 | Q1 2000 | 1 | **Add:**  * Section 600 of the Bank Act (applies to Foreign Bank Branches)   **Change:**   * Section 523 of the Bank Act is now Section 628 |
+| 3 | Q1 2008 | 2, 4 | **Change:**  * Gross Non-Mortgage Impaired Loans to Gross Impaired Non-Mortgage Loans |
+| 4 | Q1 2009 | 2 | **Delete:**  * The return template copy has been deleted from these instructions and has been posted as a separate item on OSFI's website * References 2(a)(iv) or 2(b)(iv) under (iii) Other personal loans |
+| 2, 3, 4 | **Change:**  * Reference to Asset 11(f) changed to Asset 3(a)(vi) * Reference to Asset 12 changed to Asset 3(b) |
+| 4 | **Add:**  * Instructions under Section II – Memo items * Instructions under Section III – Recognized and Unrecognized Securitized Loans in Arrears |
+| 5 | Q1 2010 | 3 | **Change:**  * Gross Non-Mortgage Loans to Gross Outstanding Non-Mortgage Loans as well as related instructions * Gross Amount of Non-Mortgage Loans in Arrears to Gross Amount of Outstanding Non-Mortgage Loans (Current and in Arrears) and related instructions |
+| 4 | **Change:**  * Gross Mortgage Loans to Gross Outstanding Mortgage Loans as well as related instructions * Gross Amount of Mortgage Loans in Arrears to Gross Amount of Outstanding Mortgage Loans (Current and in Arrears) and related instructions |
+| 6 | Q1 2012 | Instructions: | |
+| 4 | **Delete:**  * (c) PMI, under Section II – Memo Items   **Change:**   * (d) AIG United Guarantee changed to (c) Canada Guarantee Mortgage Insurance Company, under Section II – Memo Items |
+| Return Template : | |
+| 2 | **Delete:**  * Line 1(c) under Section II – Memo items   **Change:**   * 1(d) AIG United Guarantee to 1(c) Canada Guaranty Mortgage Insurance Company |
+| 7 | Q1 2017 | Instructions: | |
+| 3, 4 | **Add:**  * New column added to Section I and II Basis Adjustment for Balance Sheet Purposes |
+| Return Template: | |
+| 1 | **Add:**  * Column Accounting Adjustments for Balance Sheet under Section I and II |
+| 8 | Q1 2018 | Instructions: | |
+| 3, 4 | **Change:**  * Allowance for impairment to Allowance for expected credit losses |
+| 3 | **Change:**  * Total Gross Impaired Non-Mortgage Loans to Total Credit Impaired Non-Mortgage Loans |
+| 4 | **Change:**  * Total Gross Impaired Mortgage Loans to Total Credit Impaired Mortgage Loans |
+| Return Template: | |
+| 1 | **Change:**  * Allowance for Impairment to Allowance for Expected Credit Losses under Section I and II * Total Gross Impaired Non-Mortgage Loans to Total Credit Impaired Non-Mortgage Loans under Section I * Total Gross Impaired Mortgage Loans to Total Credit Impaired Mortgage Loans under Section II |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2019-11-28

@@ -1,0 +1,24 @@
+{
+  "doc_id": "8fe7cacf71025b82",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "(Formerly known as 88-5) Does a financial institution havea duty to file a CTR on currency transactions where the financial institution never physically receives the cash because it uses an armored car service to collect, transport and process | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/formerly-known-88-5-does-financial",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5a75d0cece7ec97081ee0391c5ab7520316fa0cd7624eba7e0847d678021d561",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/8fe7cacf71025b82",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

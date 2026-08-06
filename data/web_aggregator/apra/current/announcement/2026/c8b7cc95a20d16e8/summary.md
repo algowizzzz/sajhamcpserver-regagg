@@ -1,0 +1,1 @@
+Summary: A comprehensive database of policy and claim information on professional indemnity and public and product liability insurance.

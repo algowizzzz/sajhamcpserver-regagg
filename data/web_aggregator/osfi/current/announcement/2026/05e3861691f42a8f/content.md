@@ -1,0 +1,3137 @@
+# Cahier d’information à l’intention du surintendant du BSIF
+
+Juillet 2021
+
+## Table des matières
+
+## À propos du BSIF
+
+Un survol de notre organisation, notamment de notre histoire, de notre raison d’être et de notre rôle dans l’industrie, ainsi qu’un aperçu de notre Plan stratégique.
+
+### Notions élémentaires sur la législation
+
+#### Mandat législatif
+
+Le mandat du BSIF, qui est précisé à l’article 4 de la Loi sur le Bureau du surintendant des institutions financières (Loi sur le BSIF), est de :
+
+* superviser les institutions financières pour s’assurer qu’elles sont en bonne santé financière et qu’elles se conforment aux lois qui les régissent en cherchant, par la même occasion, à protéger les droits et les intérêts des déposants, des souscripteurs et des créanciers des institutions financières;
+* superviser les régimes de retraite pour s’assurer qu’ils respectent les exigences minimales de capitalisation et qu’ils se conforment à la réglementation qui les régit et cherchant, par la même occasion, à protéger les droits et les intérêts des participants et des autres bénéficiaires des régimes.
+
+Le BSIF est considéré comme un organisme de réglementation « prudentiel » ou de « solvabilité » (par opposition à un organisme de réglementation de la « conduite des marchés »).
+
+Le mandat du BSIF consiste à veiller à ce que les entités réglementées « tiennent leurs promesses » :
+
+* en veillant à ce que les institutions financières gèrent prudemment leurs actifs de façon à accroître leurs chances d’avoir des ressources financières suffisantes pour remplir les promesses qu’elles ont faites à leurs clients (c.-à-d. pour payer tous les montants dus au titre d’un certificat de dépôt ou pour payer toutes les prestations d’assurance dues en vertu d’une police d’assurance);
+* en veillant à ce que les régimes de retraite soient suffisamment capitalisés de façon à accroître les chances qu’il y ait suffisamment d’actifs dans la caisse de retraite pour remplir les promesses que les employeurs ont faites à leurs employés (c.-à-d. payer les prestations de retraite et autres prestations payables au titre du régime de retraite).
+
+#### Institutions supervisées
+
+Le BSIF supervise les institutions financières fédérales (IFF), notamment :
+
+* les banques et les banques étrangères autorisées (aussi appelées « succursales de banques étrangères »);
+* les sociétés d’assurance constituées en vertu d’une loi fédérale et les sociétés d’assurance étrangères (aussi appelées « succursales d’assurance étrangères »);
+* les sociétés de fiducie ou de prêt constituées en vertu d’une loi fédérale;
+* les associations coopératives de crédit fédérales.
+
+Le BSIF a le pouvoir de superviser les sociétés de portefeuille bancaire et les sociétés de portefeuille d’assurance réglementées. Toutefois, aucune société de portefeuille réglementée n’existe actuellement (bien que certaines sociétés d’assurance inactives agissent comme sociétés de portefeuille pour leurs filiales).
+
+Le BSIF supervise également les régimes de retraite fédéraux, ce qui comprend les régimes parrainés par des employeurs engagés dans des entreprises fédérales comme :
+
+* les banques;
+les compagnies aériennes;* le transport interprovincial;
+* les télécommunications;
+* les employeurs dans les Territoires.
+
+#### Compétence fédérale
+
+##### Institutions financières
+
+* La réglementation des banques relève de la compétence fédérale.
+* Le gouvernement fédéral a le pouvoir de constituer en corporation des sociétés d’assurance, de fiducie ou de prêt et des associations coopératives de crédit (caisses de crédit), et de réglementer les questions relatives à leurs opérations.
+* Les provinces ont le pouvoir de constituer en corporation des sociétés d’assurance, de fiducie ou de prêt et des associations coopératives de crédit, et de réglementer leurs activités.
+
+##### Régimes de retraite
+
+* Le gouvernement fédéral a le pouvoir de réglementer les relations de travail dans les organisations qui relèvent de sa compétence. À ce titre, il a le pouvoir de réglementer les régimes de retraite parrainés par des employeurs engagés dans des entreprises fédérales.
+* La grande majorité des régimes de retraite privés au Canada sont réglementés par les lois provinciales.
+* Certains régimes sont assujettis à la fois aux lois fédérales et aux lois provinciales régissant les régimes de retraite. Il y a actuellement des ententes bilatérales entre le ministre des Finances et les provinces qui délèguent des pouvoirs à l’autorité à laquelle la plupart des participants sont assujettis. Les lois fédérales sur les régimes de retraite autorisent le ministre à conclure une entente multilatérale qui a pour effet d’adopter les lois de l’autorité à laquelle la majorité des participants au régime sont assujettis.
+
+#### Lois appliquées par le BSIF
+
+Le BSIF est responsable de l’application des lois que voici :
+
+* [Loi sur les banques](https://laws.justice.gc.ca/fra/lois/b-1.01/page-1.html);
+* [Loi sur les sociétés d’assurances](https://laws.justice.gc.ca/fra/lois/i-11.8/page-1.html);
+* [Loi sur les sociétés de fiducie et de prêt](https://laws.justice.gc.ca/fra/lois/t-19.8/page-1.html);
+* [Loi sur les associations coopératives de crédit [ne s’applique actuellement à aucune entité]](https://laws.justice.gc.ca/fra/lois/c-41.01/page-1.html);
+* [Loi sur l’association personnalisée le Bouclier vert du Canada](https://laws-lois.justice.gc.ca/fra/LoisAnnuelles/2005_54/page-22.html);
+* [Loi de 1985 sur les normes de prestation de pension](https://laws.justice.gc.ca/fra/lois/p-7.01/page-1.html);
+* [Loi sur les régimes de pension agréés collectifs](https://laws.justice.gc.ca/fra/LoisAnnuelles/2012_16/page-1.html);
+* [Loi sur le BSIF.](https://laws-lois.justice.gc.ca/fra/lois/o-2.7/page-1.html)
+
+L’Agence de la consommation en matière financière du Canada (ACFC) est responsable de l’application des dispositions relatives aux consommateurs qui se trouvent dans la législation sur les institutions financières (c.-à-d. les quatre premières lois de la liste ci-dessus).
+
+* Le BSIF a en outre des obligations légales au titre des lois suivantes :
+* [Loi sur la Société d’assurance-dépôts du Canada](https://laws.justice.gc.ca/fra/lois/c-3/page-1.html);
+* [Loi sur la protection de l’assurance hypothécaire résidentielle](https://laws.justice.gc.ca/fra/lois/p-25.7/page-1.html);
+* [Loi nationale sur l’habitation](https://laws.justice.gc.ca/fra/lois/n-11/page-1.html) (examen des activités commerciales de la Société canadienne d’hypothèque et de logement).
+
+#### Pouvoirs d’intervention
+
+La loi accorde divers pouvoirs d’intervention au BSIF pour l’exécution de son mandat, notamment :
+
+* mener des inspections sur place;
+* demander la production d’informations;
+* imposer des modalités et conditions;
+* exiger un audit spécial ou une évaluation actuarielle spéciale;
+* émettre une ordonnance de conformité;
+* révoquer des directeurs ou des cadres supérieurs d’institutions financières;
+* remplacer un administrateur de régime de retraite;
+* imposer des sanctions administratives pécuniaires (actuellement applicables seulement aux institutions financières et non aux régimes de retraite).
+
+Si une institution financière éprouve des difficultés financières qui pourraient compromettre sa solvabilité, le BSIF peut, au bout du compte, prendre le contrôle de l’institution et demander au procureur général du Canada de demander une ordonnance de liquidation en vertu de la Loi sur les liquidations et les restructurations.
+
+De même, si un régime de retraite éprouve des difficultés financières qui pourraient compromettre le versement des prestations, le BSIF peut, au bout du compte, ordonner la cessation du régime.
+
+#### Délégation des pouvoirs
+
+* Conformément à la Loi sur le BSIF, un dirigeant ou un employé du BSIF peut exercer les attributions que la Loi confère au surintendant, à condition d’avoir les compétences voulues (art. 10 de la Loi sur le BSIF).
+* Par conséquent, il n’est en général pas nécessaire de déléguer officiellement des pouvoirs.
+* Ont toutefois été exclus de la portée de cette disposition quelques pouvoirs, comme celui de prendre le contrôle d’une institution. En outre, le surintendant a imposé des conditions relativement à l’exercice de certains pouvoirs prévus dans le Cadre de délégation de l’exercice des pouvoirs du surintendant.
+
+#### Statut juridique du BSIF
+
+* Le BSIF est un organisme fédéral qui a été constitué aux termes de la Loi sur le BSIF.
+* Sur le plan administratif, le BSIF est généralement considéré comme un ministère.
+* Le BSIF n’est pas une entité juridique distincte du gouvernement du Canada.
+* Contrairement à la Banque du Canada ou à la Société d’assurance-dépôts du Canada, le BSIF n’est pas une société d’État.
+
+#### Liens redditionnels
+
+* Le BSIF est dirigé par le ministre des Finances, et c’est par son intermédiaire qu’il rend des comptes au Parlement.
+* Le surintendant est l’« administrateur général » du BSIF et, à ce titre, il peut être comparé au sous-ministre dans un ministère.
+* La loi distingue les pouvoirs d’intervention du surintendant sur les IFF (p. ex., prise de contrôle d’une institution) de ceux du ministre (p. ex., approbation des transactions organisationnelles). Les pouvoirs législatifs du surintendant peuvent être exercés à titre autonome.
+* Le surintendant est nommé par le gouverneur en conseil (c.-à-d. le Cabinet) et occupe son poste « à titre inamovible », sous réserve de révocation, pour un mandat de sept ans. Le surintendant ne peut être révoqué que pour un motif valable par le gouverneur en conseil; un décret prévoyant la révocation doit être déposé devant le Parlement.
+* La loi n’autorise pas le ministre ou le gouverneur en conseil à donner des instructions au surintendant.
+* Le ministère des Finances est responsable de l’élaboration des politiques concernant les lois et règlements que le BSIF est chargé d’appliquer.
+* En pratique, toutes les demandes d’approbation ministérielle en vertu de la législation sur les institutions financières sont traitées par le BSIF, qui fait ensuite une recommandation au ministre.
+
+#### Autorité contractante
+
+* Le BSIF n’a pas le pouvoir indépendant de conclure des contrats exécutoires.
+* Toutefois, le BSIF peut passer des marchés au nom du gouvernement du Canada (soit « Sa Majesté du chef du Canada ») au titre d’une délégation officielle des pouvoirs de signature de la part du ministre des Finances.
+* Le BSIF est assujetti aux règles sur l’approvisionnement et autres règles de passation de marchés administrées par le Secrétariat du Conseil du Trésor et Services publics et Approvisionnement Canada.
+
+#### Pouvoir de poursuivre et d’être poursuivi
+
+* Le BSIF ne peut pas intenter de poursuites ou être poursuivi en son nom.
+* Généralement, les poursuites intentées par ou contre le BSIF le sont par ou contre le gouvernement du Canada au nom du « procureur général du Canada ».
+* Le BSIF et ses employés sont protégés contre la responsabilité civile par une clause d’immunité pour les actes ou omissions commis de bonne foi dans l’application de toute loi fédérale (article 39 de la Loi sur le BSIF).
+* Quiconque est directement touché par l’objet d’une décision rendue par le BSIF peut présenter une demande de contrôle judiciaire au titre de l’article 18.1 de la Loi sur les Cours fédérales. Le contrôle judiciaire consiste à déterminer si le décideur avait le pouvoir légal de prendre la décision, si celle-ci était raisonnable et si elle respectait les exigences de l’équité procédurale.
+* Selon l’article 39.1 de la Loi sur le BSIF, les agents du BSIF ne peuvent être contraints de témoigner dans une procédure civile.
+
+#### Pouvoir de dotation et gestion des RH
+
+* Le BSIF n’a pas le pouvoir d’embaucher de façon autonome ses employés.
+* La Commission de la fonction publique a délégué au BSIF le pouvoir de nommer des employés au nom du gouvernement du Canada en vertu de la Loi sur l’emploi dans la fonction publique.
+* Le BSIF est un « organisme distinct » qui jouit d’une certaine souplesse dans la gestion de ses ressources humaines. Le BSIF peut exercer les pouvoirs en matière de gestion du personnel que le Conseil du Trésor exerce normalement en tant qu’employeur du reste de la fonction publique. Le BSIF a le pouvoir d’établir certaines conditions d’emploi. Il peut, sous réserve de l’approbation du gouverneur en conseil, conclure des conventions collectives avec des agents négociateurs représentant ses employés syndiqués.
+
+#### Pouvoirs financiers
+
+* La plupart des dépenses de fonctionnement du BSIF sont recouvrées sous forme de cotisations que lui versent les institutions financières et les régimes de retraite fédéraux.
+* Une petite partie du budget du BSIF consacré au Bureau de l’actuaire en chef provient de fonds publics affectés par le Parlement.
+* Le BSIF est également assujetti aux directives et aux lignes directrices du Conseil du Trésor (p. ex., rapports financiers, marchés, etc.).
+* Le BSIF a un comité ministériel d’audit (CMA) qui donne des conseils objectifs et fait des recommandations sur le caractère suffisant, la qualité et les résultats de l’assurance fournie à l’égard de la pertinence et du fonctionnement des processus et des cadres de gestion du risque, de contrôle et de gouvernance du surintendant.
+* Le BSIF ne possède pas de biens en son nom propre; tous les biens sous le contrôle du BSIF sont la propriété du gouvernement du Canada (c.-à-d. que ce sont des biens de l’État).
+
+#### Autres lois fédérales
+
+À titre d’organisme fédéral, le BSIF est assujetti aux lois suivantes :
+
+* [la Loi sur l’accès à l’information](https://laws.justice.gc.ca/fra/lois/a-1/page-1.html);
+* [la Loi sur la protection des renseignements personnels](https://laws.justice.gc.ca/fra/lois/p-21/page-1.html);
+* [la Loi sur les langues officielles](https://laws.justice.gc.ca/fra/lois/o-3.01/page-1.html);
+* [la Loi sur la gestion des finances publiques](https://laws.justice.gc.ca/fra/lois/f-11/page-1.html);
+* [la Loi sur l’emploi dans la fonction publique](https://laws.justice.gc.ca/fra/lois/p-33.01/page-1.html);
+* [la Loi sur les relations de travail dans le secteur public fédéral](https://laws.justice.gc.ca/fra/lois/p-33.3/index.html);
+* [la Loi canadienne sur les droits de la personne](https://laws.justice.gc.ca/fra/lois/h-6/page-1.html);
+* [la Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles](https://laws.justice.gc.ca/fra/lois/p-31.9/index.html);
+* [la Loi sur les conflits d’intérêts](https://laws.justice.gc.ca/fra/lois/c-36.65/page-1.html) (ne s’applique qu’au surintendant);
+* [la Loi sur le lobbying](https://laws.justice.gc.ca/fra/lois/l-12.4/page-1.html);
+* [la Loi canadienne sur l’accessibilité](https://laws.justice.gc.ca/fra/lois/a-0.6/page-1.html)  (les règlements ne sont pas encore en vigueur);
+* [le Code canadien du travail,](https://laws.justice.gc.ca/fra/lois/l-2/page-1.html)  Partie II, Santé et sécurité au travail.
+
+#### Confidentialité
+
+* La législation prévoit que tous les renseignements obtenus par le BSIF au sujet d’une institution financière doivent être traités de façon confidentielle (article 22 de la Loi sur le BSIF et dispositions équivalentes dans chacune des lois régissant les institutions financières).
+
+#### Bureau de l’actuaire en chef
+
+* L’actuaire en chef est chargé de préparer divers rapports actuariels au titre du Régime de pensions du Canada, de la Loi sur les rapports relatifs aux pensions publiques et de la Loi fédérale sur l’aide financière aux étudiants.
+* L’actuaire en chef est nommé par le surintendant.
+
+#### Services juridiques
+
+* Le BSIF obtient ses services juridiques du procureur général du Canada, qui est chargé de conseiller les ministères fédéraux sur toutes les questions juridiques au titre de la Loi sur le ministère de la Justice.
+
+### Quel est le rôle du BSIF?
+
+#### Qui sommes-nous et que faisons-nous?
+
+Le Bureau du surintendant des institutions financières (BSIF) est un organisme indépendant du gouvernement du Canada, établi en 1987 dans le but de rehausser la sûreté et la solidité du système financier canadien. Il a pour mandat de surveiller et de réglementer les banques et les sociétés d’assurances, les sociétés de fiducie et de prêt, ainsi que les régimes de retraite privés de compétence fédérale. Le BSIF rend compte de ses activités au Parlement du Canada par l’entremise du ministre des Finances.
+
+Le BSIF permet aux institutions financières de prendre des risques raisonnables tout en soutenant la concurrence, tant au Canada qu’à l’étranger, et protéger les intérêts des déposants, des souscripteurs, des participants et des bénéficiaires des régimes de retraite. Il s’efforce de concilier concurrence et stabilité financière, normes internationales et réalités du marché canadien.
+
+Le BSIF n’encadre pas la gestion des activités quotidiennes des institutions financières et des régimes de retraite privés. Ce sont les hauts dirigeants et les conseils d’administration ou fiduciaires qui sont ultimement responsables au premier chef de la réussite ou de l’échec de l’institution financière. Toutefois, le BSIF joue un rôle de surveillance important en veillant à ce que les processus de gestion du risque de l’institution soient prudents. Le BSIF n’a pas pour mandat de régler les questions touchant le consommateur ou les valeurs mobilières.
+
+#### Quel est le mode de financement des activités du BSIF?
+
+Le BSIF recouvre ses frais par les cotisations versées par les institutions financières et les régimes de retraite privés qu’il réglemente et surveille, et par un programme d’utilisateur-payeur à l’égard de certains services. Une modeste partie des revenus du BSIF provient d’un crédit parlementaire versé en contrepartie de la prestation de services actuariels fournis au gouvernement du Canada relativement à divers régimes de retraite et d’avantages sociaux du secteur public.
+
+#### Qu’est-ce que le BAC dans le contexte du BSIF?
+
+Le Bureau de l’actuaire en chef (BAC) est une unité indépendante au sein du BSIF. Il fournit une gamme de services d’évaluation et de consultation actuarielles au gouvernement du Canada et vérifie les coûts futurs des divers régimes de retraite et programmes sociaux qui relèvent de sa compétence, notamment le Régime de pensions du Canada (RPC), le Programme de la sécurité de la vieillesse et le Programme canadien de prêts aux étudiants.
+
+### Séries de vidéos du BSIF
+
+#### Chaîne YouTube du BSIF
+
+Le Bureau du surintendant des institutions financières (BSIF) est un organisme indépendant du gouvernement du Canada, établi en 1987 dans le but de rehausser la sûreté et la solidité du système financier canadien. Il a pour mandat de surveiller et de réglementer les banques et les sociétés d’assurances, les sociétés de fiducie et de prêt, ainsi que les régimes de retraite privés de compétence fédérale. Le BSIF rend compte de ses activités au Parlement du Canada par l’entremise du ministre des Finances.
+
+* [Coup d’œil sur le BSIF](https://www.youtube.com/watch?app=desktop&v=4py1QXRAk3U)
+* [Protéger le Canada d’une crise financière](https://www.youtube.com/watch?app=desktop&v=EKpvLJ-wWjE&feature=emb_title&ab_channel=BSIF-BSIF)
+
+### Indépendance opérationnelle
+
+L’intention du Parlement d’accorder au BSIF une indépendance opérationnelle dans l’exécution de son mandat est claire, compte tenu de la structure législative choisie par le Bureau. Par exemple, le Parlement a choisi d’établir le BSIF en tant que bureau distinct au titre du paragraphe 4(1) de la Loi sur le BSIF avec, conformément à l’article 3.1 de cette Loi, l’objectif déclaré de contribuer à la confiance du public envers le système financier canadien.
+
+L’article 5 de la Loi sur le BSIF prévoit que le BSIF soit dirigé par un surintendant nommé par le gouverneur en conseil pour un mandat fixe de sept ans, mandat qui n’est pas lié au mandat habituel de quatre ans du gouvernement au pouvoir. De plus, la nomination est faite « à titre inamovible », ce qui signifie que le surintendant ne peut être révoqué que pour un motif valable (par opposition à « à titre amovible », lorsque le titulaire peut être facilement remplacé pendant un mandat), ce qui assure un degré important d’indépendance opérationnelle.
+
+Le BSIF a le seul mandat légal de surveiller les banques au Canada et il est également responsable de superviser les autres IFF constituées ou enregistrées en vertu d’une loi fédérale. En tant qu’organisme, le BSIF est très conscient de son mandat. Les lois que le BSIF applique lui confèrent un large éventail de pouvoirs qui sont essentiels à l’exécution d’une surveillance efficace et fournissent le cadre dans lequel le BSIF établit et applique les normes prudentielles minimales. La clause de temporisation (révision obligatoire de cinq ans) contenue dans la législation régissant les IFF fournit un cadre juridique avec une capacité de mise à jour périodique afin que les exigences du système financier et les attentes imposées à la pratique de surveillance soient prises en compte.
+
+### Mandat et vision
+
+#### Mandat
+
+Protéger les déposants, les souscripteurs, les créanciers des institutions financières et les participants aux régimes de retraite, tout en permettant aux institutions financières de se mesurer à la concurrence et de prendre des risques raisonnables. Fournir des évaluations et des conseils actuariels au gouvernement du Canada.
+
+#### Vision
+
+Bâtir le BSIF d’aujourd’hui et de demain : cultiver la confiance, rester vigilant, s’améliorer continuellement.
+
+### Balises de l’organisme
+
+Un seul bureau, Cap sur la réussite, les valeurs organisationnelles, notre vision, et plus encore : les balises de l’organisme aident à définir notre identité.
+
+![](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img1-eng.jpg)
+
+#### MANDAT
+
+##### Notre raison d’être
+
+Protéger les déposants, les souscripteurs, les créanciers des institutions financières et les participants aux régimes de retraite, tout en permettant aux institutions financières de se mesurer à la concurrence et de prendre des risques raisonnables. Fournir des évaluations et des conseils actuariels au gouvernement du Canada.
+
+![](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img2-eng.jpg)
+
+#### VISION
+
+##### Nos mesures de réussite
+
+Bâtir le BSIF d’aujourd’hui et de demain : cultiver la confiance, rester vigilant, s’améliorer continuellement.
+
+![](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img3-eng.jpg)
+
+#### CAP SUR LA RÉUSSITE :
+
+##### Notre fonctionnement
+
+* Nous avons le souci des résultats
+* Nos activités sont axées sur des principes
+* Nous adoptons une approche axée sur les risques
+* Nous pratiquons une approche équilibrée
+* Nous fixons de points de comparaison
+
+![](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img4-eng.jpg)
+
+#### UN SEUL BUREAU
+
+##### Notre façon de collaborer
+
+L’initiative Un seul bureau a pour objet de résoudre le problème de cloisonnement administratif et d’encourager la communication et la collaboration. Il comporte trois grands éléments :
+
+un mandat, une activité, une voix.
+
+![](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img5-eng.jpg)
+
+#### VALEURS ORGANISATIONNELLES
+
+##### Notre façon d’incarner nos valeurs
+
+###### RESPECT
+
+Nos interactions sont toujours empreintes de respect :
+
+* Nous habilitons la diversité des idées
+* Nous favorisons l’inclusion et la collaboration
+* Nous faisons preuve d’authenticité et professionnalisme
+
+###### GESTION RESPONSABLE
+
+Nous assurons un saine gestion responsable.
+
+* Nous faisons preuve d’intégrité et assumons nos responsabilités
+* Nous cherchons à prendre des décisions éclairées, transparentes et équilibrées
+* Nous travaillons à asseoir la crédibilité et la réputation du BSIF
+
+###### CURIOSITÉ
+
+Nous sommes mus par la curiosité.
+
+* Nous enrichissons nos connaissances par la participation active et les échanges ciblés
+* Nous misons sur l’amélioration continue et l’innovation
+* Nous créons un environnement parfaitement sécuritaire
+* Nous remettons en question la complaisance et le statu quo
+
+### Vue d’ensemble de l’organisme
+
+Voici un aperçu de la structure du BSIF et des précisions sur chaque secteur d’activité, notamment l’interaction et le lien entre les divers secteurs d’activité.
+
+Structure de l’organisme
+
+![Structure de l’organisme - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img6-fra.jpg)
+
+Version textuelle - Structure de l'organisme
+
+Surintendant
+
+* Audit interne
+* Bureau de l'actuaire en chef
+* Réglementation
+  + Fonds propres
+  + Affaires réglementaires
+  + Politiques comptables
+  + Régimes de retraite privés
+* Surveillance
+  + Institutions de dépôt
+    - Petites et moyennes banques
+    - Conglomérats
+    - Redressement et résolution
+    - Bureau central
+  + Assurance
+    - Assurance multirisque
+    - Assurance vie
+    - Actuariat
+    - Assurance hypothécaire
+  + Soutien du risque
+    - Risque financier
+      * Risque de crédit
+      * Risques de marché et de liquidité
+      * Risque de modélisation
+    - Risque non financier
+      * Risque opérationnel
+      * Risque lié aux technologies
+      * Risques liés à la culture et à la conformité
+    - Surveillance du risque et des activités sectorielles
+    - Analyse du risque et des données
+  + Services communs de surveillance
+* Services intégrés
+  + Services juridiques
+  + Communications et engagement
+  + Finances
+  + Ressources humaines
+  + Gestion de l’information et technologie de l’information
+
+#### Vue d’ensemble
+
+La prestation du BSIF à l’égard du mandat que la population canadienne lui a confié se décline en trois grands secteurs d’activités :
+
+* La réglementation et la surveillance des institutions financières
+* La réglementation et la surveillance des régimes de retraite privés
+* La prestation de services actuariels au gouvernement du Canada
+
+Chacun de ces secteurs correspond à une activité qu’il exerce avec le concours de ses partenaires. De fait, chaque personne et chaque groupe a un rôle à jouer et nous avons tous la responsabilité de réussir en travaillant solidairement.
+
+#### Mode de collaboration
+
+Ne formant qu’« un seul bureau », nous intervenons tous dans l’obtention de résultats pour nos secteurs d’activités.
+
+![Secteurs d'activités - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img7-fra.jpg)
+
+Version textuelle - Secteurs d'activités
+
+Ce schéma indique les liens entre les différents secteurs du BSIF. La Division de l’audit interne et le Secteur des services intégrés collaborent avec l’ensemble de l’organisme. Les Services communs de surveillance appuient le Secteur de soutien du risque, le Secteur de la surveillance des sociétés d’assurance et le Secteur de la surveillance des institutions de dépôt.
+
+#### Un seul bureau
+
+Afin de produire l’effet positif voulu sur les institutions financières et les programmes et régimes de retraite, les secteurs du BSIF doivent tous se percevoir comme des partenaires dont les efforts se maillent constamment aux fins de l’obtention de résultats pour nos secteurs d’activités. Lorsque nous percevons notre propre travail comme faisant partie d’« un tout », parce que nous travaillons de concert avec des personnes en dehors de notre entourage immédiat, et lorsque nous nous adressons d’une seule voix à nos interlocuteurs, parce que nous communiquons bien entre nous, nous travaillons à la façon d’Un seul bureau.
+
+Il n’y a aucune recette miracle permettant de faire corps, de former Un seul bureau. Chacun de nous a quelque chose à offrir et nous avons besoin de toutes ces contributions pour nous rapprocher de notre but. Nous devons continuer de faire fond sur notre réputation d’organisme de réglementation et de surveillance prudentielles de calibre mondial tout en reconnaissant et en encourageant chaque effort mis à contribution dans la réalisation de notre objectif : former un seul bureau.
+
+#### Secteur d’activités : La réglementation et la surveillance des institutions financières
+
+* Définir, par nos consignes, nos attentes générales à l’égard de la gestion prudentielle des IFF
+* Surveiller les risques qui pèsent sur chaque institution en fonction des consignes, lois et règlements en vigueur
+* Évaluer et analyser les activités des IFF sous l’angle du risque au moyen d’examens et de contrôles
+* Intervenir rapidement lorsque des lacunes sont relevées en collaborant avec la haute direction et le conseil d’administration de l’IFF concernée pour qu’elle prenne des mesures correctives
+* Être prêt à exécuter divers scénarios si la viabilité d’une IFF est sérieusement compromise, notamment à prendre le contrôle de l’institution
+
+#### Secteur d’activités : La réglementation et la surveillance des régimes de retraite privés
+
+* Surveiller les régimes de retraite privés fédéraux pour protéger les participants et les autres bénéficiaires, et intervenir rapidement lorsque des mesures correctives s’imposent
+* Définir, par nos consignes, nos attentes générales à l’égard de la gestion prudentielle des régimes de retraite privés
+* Administrer le processus d’agrément
+
+#### Secteur d’activités : La prestation de services actuariels au gouvernement du Canada
+
+* Effectuer les évaluations actuarielles prévues par la loi et fournir des conseils actuariels sur les programmes fédéraux d’assurance sociale
+* Effectuer les évaluations actuarielles prévues par la loi et fournir des conseils actuariels sur les programmes d’assurance et de pension du secteur public fédéral, dont le régime d’indemnisation des anciens combattants
+
+#### Soutien à l’échelle du BSIF
+
+* Fournir les services administratifs, les outils et les conseils stratégiques dont l’ensemble du BSIF a besoin pour obtenir des résultats à l’échelle des trois secteurs d’activités
+* Fournir des conseils et des services d’assurance qui permettent d’améliorer le contrôle interne, la gestion du risque et la gouvernance du BSIF
+
+#### Secteur de la réglementation
+
+![Secteur de la réglementation - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img8-fra.jpg)
+
+Version textuelle - Secteur de la réglementation
+
+Ce schéma indique la structure organisationnelle du Secteur de la réglementation selon les rapports hiérarchiques suivants :
+
+**Ben Gully**  
+Surintendant auxiliaire
+
+* **Catherine Girouard**  
+  Conseillère principale du surintendant auxiliaire
+* **Natalie Young**  
+  Coordonnatrice administrative
+* **Bernard Dupont**  
+  Directeur principal,  
+  Division des fonds propres
+  + **Lisa Peterson**  
+    Directrice générale,  
+    Capital des sociétés d’assurance
+  + **Poste vacant**  
+    Directeur général,  
+    Modélisation et assurance hypothécaire
+* **Amar Munipalle**  
+  Directeur principal,  
+  Division des fonds propres
+  + **Brian Rumas**  
+    Directeur général,  
+    Fonds propres des banques
+  + **Steve Bevington**  
+    Directeur général,  
+    Fonds propres des banques
+* **Karen Stothers**  
+  Directrice principale,  
+  Bureau central
+  + **Brad Shinn**  
+    Conseiller principal
+* **Judy Cameron**  
+  Directrice principale,  
+  Division des affaires réglementaires
+  + **Jean-Pierre Girouard**  
+    Directeur général,  
+    Politique, interprétations et conformité législatives
+  + **Patrick Clermont**  
+    Directeur général,  
+    Approbations
+  + **Theresa Hinz**  
+    Directrice générale,  
+    Politiques prudentielles et Liaisons et politiques stratégiques
+* **Tamara DeMos**  
+  Directrice générale,  
+  Division des régimes de retraite privés
+* **Renée Chen**  
+  Directrice générale,  
+  Division des politiques comptables
+
+##### Structure et opérations
+
+Les responsabilités du Secteur de la réglementation se déclinent en deux catégories.
+
+1. ###### Réglementation des IFF
+
+   La réglementation des institutions financières fédérales (IFF) consiste à promouvoir un cadre réglementaire de consignes et de règles incitant les IFF à adopter des pratiques, des politiques et des procédures éprouvées leur permettant de planifier, d’encadrer et de contrôler les répercussions des risques découlant de leurs activités.
+
+   * Diriger l’élaboration du cadre national de réglementation prudentielle des IFF, notamment en participant aux travaux des organismes internationaux de normalisation (p. ex. le Comité de Bâle sur le contrôle bancaire [CBCB] et l’Association internationale des contrôleurs d’assurance [AICA]).
+   * Coordonner les examens réalisés par des tiers, comme le Programme d’évaluation du secteur financier (PESF) du Fonds monétaire international et le Programme d’évaluation de la concordance des réglementations (PECR) du CBCB.
+   * Gérer stratégiquement les relations du BSIF avec diverses entités canadiennes (provinciales et fédérales) et internationales de réglementation du secteur financier et du secteur public.
+   * Administrer un processus efficace d’agrément d’opérations et de nouvelles institutions et formuler de bonnes recommandations à l’intention du surintendant et du ministre.
+   * Diriger les efforts du BSIF dans la préparation de politiques, de lois et de règlements applicables au secteur financier fédéral.
+   * Faciliter les activités de gestion de crise en formulant des conseils stratégiques, notamment des options pour les opérations devant être agréées, les lettres relatives à la prise de contrôle et la communication avec les autres membres du Comité de surveillance des institutions financières (CSIF).
+   * Participer à la formation du personnel sur l’application des règles et des consignes réglementaires.
+2. ###### Réglementation et surveillance des régimes de retraite privés
+
+   La réglementation et la surveillance des régimes de retraite privés (RRP) fédéraux consistent à évaluer les risques qui pèsent sur les régimes de retraite et à promouvoir un cadre réglementaire de consignes et de règles incitant ces régimes à adopter de saines pratiques, politiques et procédures de gestion des risques.
+
+   * Surveiller les RRP et intervenir rapidement lorsque des mesures correctives s’imposent.
+   * Définir, par voie de consignes, des attentes générales sur la gestion prudentielle des RRP et fournir des conseils d’expert au sujet des modifications apportées au cadre de réglementation des régimes de retraite.
+   * Administrer les approbations réglementaires et veiller à ce que les exigences minimales de capitalisation soient respectées au moyen d’examens actuariels des rapports d’évaluation.
+
+##### Mandat et aperçu des divisions au sein du Secteur de la réglementation
+
+###### Division des politiques comptables
+
+La Division des politiques comptables (DPC) offre une vaste gamme de conseils spécialisés en comptabilité, en audit et en divulgation publique au sein du BSIF. Elle participe également au transfert des connaissances comptables au sein du BSIF et contribue activement à l’établissement de normes nationales et internationales de comptabilité et d’assurance lorsque ces dernières sont susceptibles d’influer sur les objectifs stratégiques du BSIF.
+
+###### Division des fonds propres
+
+La Division des fonds propres, qui comprend un groupe responsable des fonds propres des banques et un autre responsable du capital des sociétés d’assurance, est chargée d’élaborer, de tenir à jour et d’interpréter les règles prudentielles sur les fonds propres, les lignes directrices et les préavis à l’intention des IFF, y compris les institutions de dépôt (ID) et les sociétés d’assurance vie, d’assurance multirisque et d’assurance hypothécaire.
+
+###### Division des régimes de retraite privés
+
+La Division des régimes de retraite privés (DRRP) surveille les régimes de retraite privés fédéraux et protège les participants de ces régimes et les autres bénéficiaires en élaborant des consignes sur la gestion et l’atténuation des risques, en déterminant si les régimes de retraite privés répondent à leurs exigences de capitalisation et en gérant efficacement les risques. Elle intervient rapidement lorsque des mesures correctives s’imposent.
+
+###### Division des affaires réglementaires
+
+La Division des affaires réglementaires (DAR) est une équipe d’experts techniques et stratégiques chargés :
+
+* d’élaborer et de mettre en œuvre des consignes prudentielles et législatives;
+* d’interpréter et d’appliquer les lois régissant les institutions financières fédérales, principalement en ce qui concerne les approbations, la conformité et les outils d’intervention officiels du BSIF;
+* de gérer les relations stratégiques du BSIF avec les principaux organismes nationaux et internationaux.
+
+###### Bureau central
+
+Le Bureau central contribue au fonctionnement efficace et efficient du Secteur de la réglementation en participant ponctuellement aux efforts en matière de gouvernance, de planification, de finance et de gestion du capital humain. En maximisant l’efficacité opérationnelle en ce qui a trait aux principaux processus sectoriels et aux activités de production de rapports et de planification, le Bureau central permet au Secteur de la réglementation de se concentrer sur ses activités fondamentales à l’appui du mandat du BSIF.
+
+#### Secteur des services intégrés
+
+##### Structure et opérations
+
+![Structure et opérations - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img9-fra.jpg)
+
+Version textuelle - Structure et opérations
+
+Ce schéma indique la structure organisationnelle du Secteur des services intégrés selon les rapports hiérarchiques suivants :
+
+**Michelle Doucet**  
+Surintendante auxiliaire
+
+* **Lise Cardinal**   
+  Adjointe de direction
+* **Kirsten McDowell**  
+  Conseillère principale
+* **Gino Richter**  
+  Avocat général principal
+* **Jean Cheng**  
+  Dirigeant principal de l’information
+* **Marc Desautels**  
+  Dirigeant principal des finances
+* **Michele Bridges**  
+  Dirigeante principale des ressources humaines
+* **Tracie Noftle**  
+  Directrice principale, Division des communications et des affaires courantes
+
+###### Renseignements généraux
+
+Le Secteur des services intégrés fournit un soutien opérationnel complet au surintendant et au Bureau de l’actuaire en chef, y compris en ce qui concerne les ressources humaines, les finances et l’approvisionnement, les installations, la sécurité, la planification et la production des rapports du BSIF, les communications et la mobilisation, la gestion de l’information, la technologie de l’information et les services juridiques. Il fournit également du soutien pour les activités de surveillance et de réglementation.
+
+* Revoit et améliore, continuellement et par anticipation, toute la gamme des services administratifs à la lumière des priorités stratégiques et des besoins du BSIF qui évoluent sans cesse.
+* Fournit des conseils et des mesures d’assurance qui permettent d’améliorer le contrôle interne, la gestion du risque et la gouvernance.
+
+Le Secteur des services intégrés travaille de concert avec tous les secteurs de même qu’avec l’équipe des Services communs de surveillance et le Bureau de l’actuaire en chef à la conception, à la mise en œuvre et à l’évaluation de diverses mesures à l’échelle du BSIF.
+
+Les divisions spécialisées énumérées ci-dessous travaillent en étroite collaboration avec leurs pairs et leurs clients afin d’établir des normes strictes en matière de gestion des ressources et de veiller à ce qu’ils les observent, dans l’optique de permettre au BSIF de s’acquitter du mandat qui lui est confié.
+
+###### Division des communications et des affaires courantes
+
+La Division des communications et des affaires courantes comprend la Division des communications et de l’engagement (DCE), le Bureau de la gouvernance stratégique, l’équipe responsable de l’accès à l’information et la protection des renseignements personnels (AIPRP) et les Services de la sécurité et des installations (SSI). La Division des communications et de l’engagement fournit du soutien ainsi que des services et des conseils complets en matière de communication stratégique. Les SSI sont chargés de la sécurité matérielle, de la planification de la continuité des activités et de tous les projets liés aux installations, en plus de fournir des services administratifs. L’équipe des SSI est située à Ottawa et à Toronto. Le Bureau de la gouvernance stratégique fournit des services de secrétariat aux comités de gouvernance supérieurs du BSIF et héberge l’équipe responsable de l’accès à l’information et de la protection des renseignements personnels.
+
+###### Division des finances et de la planification intégrée
+
+La Division des finances et de la planification intégrée (FPI) offre à la direction et aux employés du BSIF des services financiers et des services d’approvisionnement, ainsi que des services de planification intégrée, de gestion du risque d’entreprise et de gestion du changement, de grande qualité, rentables et adaptés. La DFPI permet au Comité de direction et aux équipes de gestion des différents secteurs de faire une utilisation optimale des ressources du BSIF en les affectant en fonction des risques que nous percevons, tout en respectant nos limites budgétaires globales.
+
+###### Division des ressources humaines
+
+La Division des ressources humaines (DRH) offre une gamme complète de services, ce qui comprend le recrutement, la rémunération, la classification, les programmes de RH (comme la gestion des talents, le perfectionnement en leadership, les prix et reconnaissance et les langues officielles), les programmes en matière de diversité, d’équité et d’inclusion, d’apprentissage et de perfectionnement professionnel, la négociation collective, les relations de travail, la prévention de la violence en milieu de travail et le soutien pour gérer les problèmes de rendement et les cas d’invalidité. Comme le BSIF est un employeur distinct, l’équipe de la DRH aide l’organisme à jouir d’une certaine latitude tout en respectant les politiques gouvernementales et les lois applicables. L’équipe de la DRH est située à Ottawa et à Toronto.
+
+###### Division de la gestion de l’information et de la technologie de l’information (GI-TI)
+
+La Division de la gestion de l’information et de la technologie de l’information (DGITI) compte six groupes.
+
+* Le groupe **Gestion stratégique de la GI-TI**  élabore et exécute des plans, des processus, des mécanismes de gouvernance et des projets de GI-TI qui permettent à la DGITI d’offrir des systèmes bien coordonnés et souples.
+* Le groupe **Services de l’infrastructure et de la technologie** est chargé de la supervision, de la tenue à jour et de la gestion du cycle de vie, et s’occupe de projets nécessaires pour appuyer les opérations informatiques et l’infrastructure de réseaux. Ainsi, le BSIF est doté d’un environnement informatique à jour, fiable et sécuritaire.
+* Le groupe **Services des applications** s’occupe de configurer, de tenir à jour et d’améliorer les logiciels à l’appui des activités opérationnelles.
+* Le groupe **Gestion de l’information d’entreprise** se spécialise dans l’information du BSIF et est chargé d’établir le cadre régissant la collecte, l’utilisation, la conservation et l’élimination de nos renseignements.
+* Le groupe **Gestion des relations avec la clientèle** est chargé de faciliter et d’établir des relations efficaces entre les équipes de travail du BSIF et la GI-TI, en veillant à ce que les priorités opérationnelles soient bien comprises et la façon dont la technologie peut appuyer le BSIF mieux comprise.
+* Le groupe **Cybersécurité** veille à ce que le BSIF comprenne les cyberrisques auxquels il s’expose et met en place les mesures de contrôle appropriées afin de préserver la sécurité de l’information et des systèmes du BSIF.
+
+#### Secteur de soutien du risque
+
+##### Structure organisationnelle et opérations
+
+###### Renseignements généraux
+
+Le Secteur de soutien du risque (SSR) a été restructuré en 2017 pour appuyer les secteurs de la Surveillance et celui de la Réglementation et a permis de faire évoluer le soutien du risque au BSIF. L’initiative de restructuration du SSR visait à tenir compte de l’évolution de l’environnement de risque externe, comme les risques non financiers, et à renforcer les activités de base du Secteur.
+
+###### Structure
+
+Structure du SSR – Sanjiv Talwar, surintendant auxiliaire et son équipe de direction
+
+![Structure du SSR - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img10-fra.jpg)
+
+Version textuelle - Structure du SSR
+
+Ce schéma indique la structure organisationnelle du Secteur de soutien du risque (SSR) selon les rapports hiérarchiques suivants :
+
+**Sanjiv Talwar**  
+Surintendant auxiliaire
+
+* **Sonia Bagnarol**   
+  Conseillère spéciale
+* **Sharon Grossi**   
+  Adjointe de direction
+* **Angie Radiskovic**   
+  Directrice principale, Groupe du risque non financier
+  + **Mohamad Al-Bustami**   
+    Directeur général,  
+    Division du risque lié aux technologies
+  + **Anie Stuart**   
+    Directrice générale,  
+    Division des risques liés à la culture et à la conformité
+  + **Elspeth Bowler**   
+    Directrice générale,  
+    Division du risque opérationnel
+* **Mate Glavota**   
+  Directeur principal, Groupe du risque financier
+  + **Romana Mizdrak**   
+    Directrice générale,  
+    Division du risque de modélisation
+  + **Robert Dougall**   
+    Directeur général,  
+    Division du risque de crédit
+  + **Claire Deng**   
+    Directrice générale,  
+    Division des risques de marché et de liquidité
+* **Steven Wright**   
+  Directeur général,  
+  Division de la surveillance du risque et des activités sectorielles
+* **Andrew Miller**   
+  Dirigeant principal des données,  
+  Division de l’analyse du risque et des données
+
+###### Vision
+
+Un allié incontournable dont la prestation de solutions-conseils pratiques et évolutifs en matière de gestion du risque bonifie les activités de réglementation et de surveillance des institutions financières.
+
+###### Mandat
+
+Notre engagement : fournir des services d’analyse du risque dans une perspective transversale et sur mesure, et des services de données et de conseils de qualité à valeur ajoutée.
+
+###### Mission
+
+Notre approche
+
+* Insuffler innovation, agilité, objectivité et excellence aux méthodologies existantes.
+
+Rapports professionnels
+
+* Miser sur la synergie dans les rapports que nous entretenons avec les instances sectorielles et le soutien que nous offrons à nos interlocuteurs.
+
+Personnel
+
+* Cultiver l’inclusion et la diversité, et parfaire sans cesse notre expertise et notre leadership.
+
+##### Mandat et aperçu des divisions au sein du Secteur de soutien du risque
+
+###### Groupe du risque financier
+
+Fournir des services spécialisés en matière de risque financier afin d’aider l’ensemble des acteurs à cerner les risques propres à une IFF et les risques systémiques, et à évaluer la résilience financière. Ces services, qui englobent les risques de crédit, de modélisation, de marché et de liquidité, comprennent l’observation, l’évaluation des risques, l’analyse comparative, la communication des attentes et le suivi correspondant des lacunes à corriger. Les divisions intègrent leurs efforts à l’égard des risques financiers et non financiers pour appuyer les secteurs de la Surveillance et celui de la Réglementation.
+
+###### Division du risque de crédit (DRC)
+
+Fournir des services spécialisés en matière de risque de crédit à l’appui de mesures visant à cerner les risques propres à une IFF, les risques systémiques et les tendances et faits nouveaux connexes à même d’influer sur la résilience financière de l’IFF. Ces services recouvrent les risques de crédit de détail et de gros inhérents aux prêts, aux placements et aux autres instruments financiers et qui ont une incidence sur les institutions de dépôt, les assureurs et les régimes de retraite.
+
+###### Division des risques de marché et de liquidité (DRML)
+
+Fournir des services spécialisés en matière de risques de marché et de liquidité à l’appui de mesures visant à cerner les risques propres à une IFF, les risques systémiques et les tendances et faits nouveaux connexes à même d’influer sur la résilience financière de l’IFF. L’expertise de la DRML englobe les risques de marché, de contrepartie, de trésorerie, de placement et de liquidité ayant une incidence sur les institutions de dépôt, les sociétés d’assurance et les régimes de retraite.
+
+###### Division du risque de modélisation(DRM)
+
+Fournir des services spécialisés en matière d’évaluation du risque de modélisation et des modèles de fonds propres à l’appui de mesures visant à cerner les risques propres à une IFF, les risques systémiques et les tendances et faits nouveaux liés à l’utilisation de modèles internes de fonds propres (y compris les modèles) à même d’influer sur la résilience financière et opérationnelle de l’IFF. L’expertise de la DRM comprend l’application et l’évaluation de méthodes quantitatives et d’analytique avancée, ce qui comprend l’intelligence artificielle et l’apprentissage automatique, pour ce qui est des risques financier et non financier influant sur les IFF, les institutions de dépôt, les assureurs et les régimes de retraite, la gouvernance et la surveillance des modèles de fonds propres réglementaires pour le Secteur de la surveillance des institutions de dépôts.
+
+###### Équipe de l’analytique du risque financier (ARF)
+
+Pour accroître la capacité du Groupe du risque financier (GRF) à superviser nos institutions financières fédérales (IFF) et nos régimes de retraite privés fédéraux (RRPF), l’équipe de l’ARF fournira du soutien en matière de données et d’analyse au GRF, en étroite collaboration avec la Division de l’analyse du risque et des données. L’équipe collaborera également avec d’autres intervenants internes, les consultant fréquemment pour s’assurer de bien fournir des outils d’analyse généraux et particuliers qui répondent aux besoins des clients à l’échelle du BSIF. L’équipe contribuera à l’harmonisation du GRF avec la Stratégie de gestion des données du BSIF et à l’atteinte de son objectif, qui consiste à améliorer la compréhension des données et les compétences de l’effectif dans l’ensemble de l’organisme. En outre, l’équipe de l’ARF travaillera de près avec d’autres groupes semblables au sein du BSIF afin de créer une communauté d’innovation en matière de données et d’analyses qui soit à la fois souple et transparente.
+
+###### Groupe du risque non financier
+
+Fournit des services spécialisés en matière de risque non financier afin d’aider l’ensemble des acteurs à cerner les risques propres à une IFF et les risques systémiques, et à évaluer la résilience financière. Ces services, qui englobent les risques opérationnels actuels ou émergents, comprennent l’observation, l’évaluation des risques, l’établissement de valeurs de référence, la communication des attentes et le suivi correspondant des lacunes à corriger. Les divisions intègrent leurs efforts à l’égard des risques financier et non financier pour appuyer les secteurs de la Surveillance et celui de la Réglementation.
+
+###### Division du risque opérationnel (DRO)
+
+Mettre à profit son savoir-faire étendu à l’égard du programme de gestion du risque opérationnel à l’appui de l’évaluation de la résilience opérationnelle globale et de l’identification des risques propres à une IFF et des risques systémiques. Son savoir-faire réside dans l’évaluation de la gouvernance et la supervision des processus et des événements qui influent sur les institutions de dépôt, les sociétés d’assurance et les régimes de retraite.
+
+###### Division des risques liés à la culture et à la déontologie (DRCD)
+
+Fournit des services spécialisés en matière de risques liés à la culture et à la conformité aux fins du recensement des risques propres à une IFF, des risques sectoriels et des tendances et faits nouveaux connexes à même d’influer sur la résilience financière de l’IFF. Ces services englobent la culture, les personnes et la conformité qui influent sur les institutions de dépôt, les sociétés d’assurance et les régimes de retraite.
+
+###### Division du risque lié à la technologie (DRT)
+
+Fournit des services spécialisés en matière de risque technologique et de cyberrisque aux fins du recensement des risques propres à une IFF, des risques sectoriels et des tendances et faits nouveaux connexes à même d’influer sur la résilience opérationnelle de l’IFF. Les services spécialisés de la DRT comprennent le suivi des crises technologiques ainsi que les interventions après un cyberincident. Elle possède des connaissances approfondies des menaces qui guettent tout processus ou toute fonction faisant intervenir les systèmes, les données, l’infrastructure, les réseaux, la cybersécurité et la technologie numérique et qui influent sur les institutions de dépôt, les sociétés d’assurance et les régimes de retraite fédéraux, et elle a une solide expérience de l’évaluation de ces menaces.
+
+###### Division de la surveillance du risque et des activités sectorielles (DSRAS)
+
+La DSRAS fournit des services spécialisés en matière de risques non financiers afin d’aider l’ensemble des acteurs à cerner les risques propres à une IFF et les risques systémiques, et à évaluer la résilience financière. Ces services comprennent l’observation des marchés et l’identification, l’analyse et la mesure des risques multifactoriels et des facteurs de risque nouveaux ou interdépendants. Elle fournit aussi des services et un soutien dans l’établissement et le maintien de moyens complets de gouvernance et de contrôle relatifs à la surveillance des activités du SSR, afin que les travaux concordent avec les plans stratégiques.
+
+* Initiatives clés : Le Processus intégré de recensement et de surveillance des risques (PIRSR) a été créé pour coordonner les efforts de surveillance dans tous les secteurs, par l’intermédiaire du Comité des risques d’affaires (CRA) – Macro
+
+###### Division de l’analyse du risque et des données (DARD)
+
+La DARD fait profiter l’ensemble des secteurs du BSIF de son savoir faire en gestion et en analyse des données, dont la surveillance des systèmes de collecte de données (structurées et non structurées), des processus de qualité des données, de l’automatisation du flux de travail des données, de la production de rapports sur la veille stratégique et de l’utilisation croissante d’analytique avancée. En mettant en œuvre la Stratégie de gestion des données d’entreprise, la DARD vise à améliorer l’efficacité et l’efficience du BSIF dans l’exécution de son mandat de réglementation, en faisant ressortir la valeur analytique des données au moyen d’outils et de facultés modernes.
+
+* Initiatives clés : Stratégie de gestion des données d’entreprise et plan de mise en œuvre du BSIF
+
+#### Secteur de la surveillance des institutions de dépôt
+
+##### Vue d’ensemble
+
+Le Secteur de la surveillance des institutions des dépôt (SSID) assume les responsabilités suivantes :
+
+* Évaluer le du risque, formuler des recommandations et prendre des mesures d’intervention à l’égard des institutions de dépôt fédérales en menant des examens et des activités de suivi régulières.
+* Accentuer le suivi des mesures correctives pour veiller à ce que les décisions de surveillance et d’intervention aient l’effet souhaité sur le comportement des IFF.
+* Mettre au point et coordonner des activités de gestion de crise, de planification des mesures de redressement et de simulation de crise.
+* Établir et communiquer le niveau de la réserve pour stabilité intérieure (RSI).
+
+##### Vision
+
+Continuer de mieux surveiller les institutions des dépôt fédérales en prenant les mesures suivantes :
+
+* Améliorer les évaluations du risque, les recommandations, les décisions d’intervention et le suivi de mesures correctives pour veiller à ce que les décisions de surveillance et d’intervention aient l’effet souhaité sur le comportement des institutions des dépôts.
+* Améliorer la proportionnalité des mesures de surveillance pour tenir compte des différents niveaux de risque et des différences de taille et de complexité des institutions de dépôt, conformément au Cadre de tolérance au risque du SSID.
+* Mettre l’accent sur le risque en tenant compte des risques émergents et des analyses prospectives découlant des exercices de simulation de crise (notamment la macrosimulation de crise et l’outil d’analyse des scénarios de risque) dans toutes les facettes des processus de surveillance (activités de suivi, examens, examens ponctuels, etc.).
+* Coordonner l’évaluation des risques et des vulnérabilités se rapportant aux décisions à l’égard du niveau de la RSI.
+* Poursuivre les progrès réalisés en matière d’élaboration et de coordination des activités de planification et de gestion de crise pour les institutions de dépôt et le BSIF.
+* Moderniser et adapter les processus de surveillance pour nous préparer aux nouvelles tendances, comme la numérisation continue du secteur financier et les technologies financières.
+* Intégrer des éléments tirés des évaluations portant sur la gouvernance d’entreprise aux travaux de surveillance grâce à une approche axée sur les résultats.
+* Accorder une plus grande importance au risque en améliorant les processus de surveillance, les outils, l’analyse des données et la technologie.
+* Favoriser la mise en place de plans de perfectionnement professionnel, de mesures de formation et de mesures de roulement du personnel.
+
+##### Structure
+
+![Structure de la SSID - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img11-fra.jpg)
+
+Version textuelle - Structure de la SSID
+
+Ce schéma indique la structure organisationnelle du Secteur de la surveillance des institutions de dépôt (SSID) selon les rapports hiérarchiques suivants :
+
+**Jamey Hubbs**  
+Surintendant auxiliaire
+
+* **Sherri Zielinski**   
+  Adjointe de direction
+* **Brigitte Phaneuf**   
+  Directrice principale,  
+  Groupe des petites et moyennes banques
+  + **Ardene Wertheim**  
+    Directrice générale,  
+    PMB, Toronto
+  + **Graham Taylor**   
+    Directeur général,  
+    PMB, Vancouver
+  + **Robert Nguyen**   
+    Directeur général,  
+    PMB, Montréal
+* **Kathryn Dickson**   
+  Directrice principale,  
+  Banques d’importance systémique
+  + **Mark Porter**   
+    Directeur général,  
+    Équipe chargée de la BNE
+  + **Winnie LoBaker**   
+    Directrice générale,  
+    Équipe chargée de la BMO
+  + **Darrel Leadbetter**   
+    Directeur général,  
+    Équipe chargée de la TD
+  + **Lascelle Cummings**   
+    Directeur général,  
+    Équipe chargée de la RBC
+  + **Narindar Bhavnani**   
+    Directeur général,  
+    Équipe chargée de la CIBC
+* **Hala Nashmi**   
+  Directrice générale,  
+  Groupe des opérations bancaires et du bureau central
+
+Le SSID en bref
+
+| Nombre d’ETP au SSID | Nombre d’IF |
+| --- | --- |
+| * 49 – BIS * 12 – IF de taille intermédiaire * 58 - PMB * 16 - OBBC | * 6 – BIS (2 BISm) * 4 – IF de taille intermédiaire * 18 – Autres banques canadiennes * 24 – Filiales étrangères * 36 – Succursales de banques étrangères * 33 – Sociétés de fiducie et prêt * 19 – Bureaux de représentation |
+
+![Surintendant auxiliaire, SSID - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img41-fra.jpg)
+
+Version textuelle - Surintendant auxiliaire, SSID
+
+**Surintendant auxiliaire, SSID**
+
+* Opérations bancaires et bureau central
+* BIS
+* PMB\*
+
+\**équipes réparties entre Vancouver, Toronto et Montréal (y compris l’équipe chargée de la BNC)*
+
+* Trois secteurs clés relèvent du surintendant auxiliaire – SSID : Groupe des petites et moyennes banques (GPMB), Groupe des banques d’importance systémique (Groupe des BIS) et Groupe des opérations bancaires et du bureau central (Groupe des OBBC).
+* Le GPMB compte des équipes de surveillance à Toronto, à Montréal (y compris l’équipe de la Banque Nationale du Canada) et à Vancouver. Le Groupe des BIS comprend les équipes de surveillance des banques suivantes : BMO, BNE, CIBC, RBC et TD.
+
+Le Groupe des OBBC aide le SSID pour notamment la planification sectorielle annuelle, les macrosimulations de crise, la réserve pour stabilité intérieure, le cadre de propension à prendre des risques, la planification des mesures de redressement et de résolution, la gestion du processus du groupe d’experts et la production des rapports du SSID.
+
+##### Plan et initiatives sectoriels
+
+Un des projets clés du SSID est le Projet sur l’état de préparation du BSIF à gérer les crises dans les ID. Le but de cette initiative est d’améliorer l’état de préparation du BSIF à réagir à une crise dans une institution de dépôt en élaborant un cadre et en renforçant les capacités. En 2020, l’échéancier des produits livrables du projet a été repoussé afin de rediriger les ressources et l’attention vers le Groupe de travail sur la gestion de crise, en raison des répercussions de la COVID-19. Les réunions du Groupe de travail sur la préparation aux crises et les travaux visant à achever les produits livrables du projet ont repris en 2021 (y compris l’organisation de la formation prévue).
+
+Voici d’autres initiatives clés du SSID.
+
+* Les simulations de crise pour les petites et moyennes banques (PMB) et les macrosimulations de crise pour les BIS.
+* La réserve pour stabilité intérieure.
+* L’appui à l’élaboration de directives sur les fonds propres et la liquidité à l’intention des PMB et des BIS, et la mise en œuvre de la Stratégie de gestion des données du BSIF.
+* L’élaboration de directives sur la planification des mesures de redressement à l’intention des PMB.
+
+##### Paysage sectoriel et risques liés aux IFF
+
+[Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+Chaque trimestre, les équipes des secteurs de la Surveillance et du SSR font le point sur l’évaluation actuelle des risques à l’échelle du secteur, propres à des institutions et pour celles qui posent problème.
+
+#### Secteur de la surveillance des sociétés d’assurance
+
+##### Structure et opérations
+
+![Structure de la SSSA - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img13-fra.jpg)
+
+Version textuelle - Structure de la SSSA
+
+Ce schéma indique la structure organisationnelle du Secteur de la surveillance des sociétés d’assurance (SSSA) selon les rapports hiérarchiques suivants :
+
+**Neville Henderson**  
+Surintendant auxiliaire
+
+* **Chris Westfield**  
+  Adjoint de direction
+* **Maria Moutafis\***  
+  Directrice générale,  
+  Responsable, Services communs de surveillance  
+  *\* relève du président du CSCS, fonction assumée à tour de rôle par les responsables du SSSA, du SSID et du SSR*
+* **Jacqueline Friedland**  
+  Directrice principale,  
+  Groupe de l’assurance multirisque
+* **Chris Townsend**  
+  Directeur principal,  
+  Division de l’actuariat
+* **Stuart McIlwraith**  
+  Directeur principal,  
+  Groupe de l’assurance vie
+* **Stephane Tardiff**  
+  Directeur général,  
+  Secteur de la surveillance des sociétés d’assurance
+* **Paul Skosowski**  
+  Directeur,  
+  Secteur de la surveillance des sociétés d’assurance
+* **Andrea McCausland**  
+  Directrice,  
+  Équipe centrale opérationnelle
+
+Le Secteur de la surveillance des sociétés d’assurance (SSSA) surveille :
+
+* les sociétés d’assurance-vie fédérales (y compris les succursales, les filiales étrangères, les sociétés de secours et les sociétés mutuelles) et leurs filiales;
+* les sociétés d’assurance multirisque (y compris les succursales, les filiales étrangères et les sociétés mutuelles) et leurs filiales;
+* les sociétés d’assurance hypothécaire.
+
+###### Groupe de l’assurance multirisque (GAM)
+
+Le GAM s’occupe surtout de l’axe « protection des souscripteurs » du mandat du BSIF, c’est-à-dire qu’il évalue la capacité des sociétés d’assurance multirisque à régler les sinistres (sûreté, solidité et solvabilité).
+
+Il exerce sa surveillance en effectuant une évaluation des risques rattachés aux activités d’envergure et en évaluant le niveau de risque inhérent et les mesures d’atténuation connexes en se rendant sur place pour mener certains examens et en suivant la performance financière de l’institution. Il cherche aussi à intervenir rapidement et de la bonne manière pour corriger les problèmes qui mettent l’institution en péril.
+
+###### Groupe de l’assurance hypothécaire (GAH)
+
+Le Groupe de l’assurance hypothécaire (GAH) contribue à la sûreté et à la solidité globales du système financier canadien grâce à sa surveillance de l’un des piliers du financement du logement au Canada. Le GAH est responsable de la surveillance du secteur canadien de l’assurance hypothécaire (qui comprend actuellement une grande société d’État, deux assureurs importants du secteur privé et une société inactive).
+
+Outre ses travaux de surveillance, le GAH apporte régulièrement son concours aux réflexions sur des questions stratégiques portant sur l’exposition aux risques et la gestion des risques liés aux prêts hypothécaires et à l’assurance hypothécaire en collaborant avec ses collègues du Secteur de la réglementation et du Secteur de soutien du risque ainsi qu’avec le ministère des Finances et la Banque du Canada.
+
+À la surveillance de l’activité d’assurance hypothécaire s’ajoute celle des assureurs de titres en activité au Canada. L’assurance titre est une forme spécialisée de garantie qui protège les propriétaires pour contre le risque de perte financière causée par un vice dans le titre de propriété.
+
+###### Groupe de l’assurance vie (GAV)
+
+Le Groupe de l’assurance vie (GAV) contribue à la sûreté et la solidité générales des IFF par l’exécution d’activités de surveillance en phase avec le Cadre de surveillance.
+
+Le GAV est constitué de deux sous-groupes :
+
+* **Groupe de l’assurance vie – Conglomérats (GAV-C)**  
+  Les équipes des conglomérats contribuent à la sûreté et solidité globales des trois plus importants assureurs vie au Canada (Manuvie, SunLife et Canada-Vie) en réalisant des activités de surveillance axées sur les risques effectuées conformément au Cadre de surveillance. Il tient à jour des profils de risque précis, attribue des cotes, tisse des liens avec les cadres supérieurs et les conseils d’administration des sociétés, développe une base de connaissances sur les institutions et veille à la mise en application des lois.
+* **Groupe de l’assurance vie – Hors conglomérats (GAV-HC)**  
+  Les travaux de ce groupe sont axés sur le risque. Pour ce faire, il réalise, entre autres, des analyses des institutions par l’entremise d’activités de suivi, d’examens sur place et d’analyses sectorielles. Il tient à jour des profils de risque précis, attribue des cotes, tisse des liens avec les cadres supérieurs et les conseils d’administration des IFF, développe une base de connaissances sur les institutions et veille à la mise en application des lois.
+
+###### Division de l’actuariat (DA)
+
+La Division de l’actuariat (DA) travaille en collaboration avec tous les services du SSSA et du Secteur de la réglementation afin d’exécuter le mandat du BSIF, qui consiste à protéger les souscripteurs et les créanciers des sociétés d’assurance contre les pertes indues. La DA veille à l’application de connaissances, de normes et de conseils actuariels pertinents aux fonctions de réglementation et de surveillance du BSIF.
+
+La DA assure la liaison entre les acteurs internes et externes lorsqu’il s’agit d’élaborer des politiques et des analyses stratégiques nationales pour résoudre des questions liées aux produits d’assurance, à la suffisance des provisions pour le risque dans le passif et les capitaux propres, aux normes actuarielles, aux techniques de modélisation sensibles au risque et à la surveillance des sociétés d’assurance.
+
+###### Équipe centrale opérationnelle (ECO)
+
+Au sein du Secteur de la surveillance des sociétés d’assurance (SSSA), l’Équipe centrale opérationnelle (ECO) est le principal point de contact pour les priorités stratégiques de l’ensemble du BSIF. Elle gère les activités opérationnelles du SSSA pour mieux permettre aux surveillants de se concentrer sur les travaux de surveillance de base. L’ECO apporte son soutien au SSSA en gérant des activités destinées à rehausser l’efficacité opérationnelle du SSSA ou en y participant. Elle est responsable de la coordination du plan stratégique du SSSA, des budgets et de l’administration des RH, de l’engagement, de la gestion du changement, de la planification annuelle de la surveillance et des rapports et communications sur le rendement à l’échelle du SSSA.
+
+#### Services communs de surveillance
+
+##### Vue d’ensemble
+
+Le Comité de direction (CD) du BSIF a établi les Services communs de surveillance (SCS) en janvier 2016 dans le cadre de changements organisationnels plus vastes. Bien que les attributions de chacune des cinq unités de surveillance soient distinctes, elles ont toutes besoin de services semblables. Par conséquent, les SCS devaient fournir les services suivants :
+
+* **Technologie et outils de surveillance :** Inclure les surveillants expérimentés qui, à l’époque, devaient appuyer et lancer la mise en œuvre de l’initiative d’examen des outils technologiques de la surveillance (projet STTR) (qui est devenue le projet Vu).
+* **Formation en surveillance :** Inclure les surveillants expérimentés qui se concentreront à temps plein à la formation. Même si l’initiative de formation en surveillance avait déjà été lancée, le soutien permanent de la formation constituait une nouvelle tâche.
+* **Méthodes de surveillance :** Inclure l’élaboration du Cadre de surveillance et le soutien à sa mise en œuvre. Au début, cela comprenait les activités de l’ancienne Division des pratiques, mais on s’attendait à ce qu’elles évoluent.
+* **Cohérence de la surveillance :** Inclure l’élaboration et la mise en pratique d’une méthode de supervision dont l’objet sera de vérifier que des cotes de risque comparables sont attribuées aux institutions de même catégorie dont les circonstances sont similaires et qu’elles sont l’objet d’interventions du même ordre. Il s’agissait d’une nouvelle fonction.
+
+Le premier responsable des SCS a été nommé en octobre 2016 au niveau de directeur principal, avec un premier objectif axé sur l’établissement du programme de rotation et des niveaux de dotation. La prestation des services offerts par les SCS a commencé à l’été 2017. Le responsable actuel des SCS a été nommé directeur général le 1er décembre 2020.
+
+##### Principes directeurs
+
+La note de service du Comité de direction établit les principes directeurs suivants.
+
+* L’équipe des SCS ne doit intervenir que si un groupe commun est à même de fournir des services plus avantageusement que peut le faire chacune des unités de surveillance particulières.
+* Elle n’intervient que dans des dossiers où son expérience de la surveillance et son jugement dans le domaine sont essentiels.
+* Elle doit normalement être composée de surveillants chevronnés dont le poste d’attache relève de l’une des unités de surveillance et qui sont affectés aux SCS pour une période déterminée de deux à quatre ans.
+* Les activités des SCS complètent celles des autres unités sans toutefois les chevaucher. Notamment, les RH, la TI et les fonctions connexes sont du ressort des Services intégrés, ce sont les unités de surveillance mêmes qui ont la charge des processus de mesure et d’amélioration de la qualité de l’évaluation des risques et des décisions d’intervenir auprès des IFF, tandis que l’Audit interne est responsable des activités d’assurance (notamment celles que les unités de surveillance qualifient d’« assurance qualité »).
+
+![La version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img14-fra.jpg)
+
+Version textuelle
+
+Ce schéma souligne l’importance de l’incidence des travaux des Services communs de surveillance (SCS) sur le Secteur de la surveillance des institutions de dépôt (SSID), le Secteur de la surveillance des sociétés d’assurance (SSSA) et le Secteur de soutien du risque (SSR). Il consiste en un triangle central représentant les SCS, entouré de trois triangles représentant le SSID, le SSSA et le SSR.
+
+##### Vision, mission et mandat
+
+###### Vision
+
+Permettre aux surveillants de gagner en efficacité au quotidien dans leurs activités d’évaluation du risque et de surveillance.
+
+###### Mission
+
+Faire en sorte que la méthode de surveillance du BSIF demeure pertinente, efficace et appropriée et que les surveillants puissent prendre solidement appui sur une interprétation et une application uniformes du Cadre de surveillance grâce à la qualité de la formation et des outils technologiques.
+
+###### Mandat
+
+* **Promotion de saines pratiques de gestion du risque et de gouvernance**  
+  À titre de « gardiens » du Cadre de surveillance du BSIF, les SCS doivent promouvoir celui-ci et le réviser au besoin en prenant appui, lorsque les conditions sont réunies, sur les fondements théoriques et les pratiques optimales d’autres régimes de surveillance, contribuant ainsi à l’évaluation des risques des institutions financières.
+* **Surveillance et intervention rapide**  
+  Les SCS contribuent à la surveillance des institutions financières fédérales (IFF) en offrant un soutien à l’égard des évaluations prudentielles des risques et des mesures de surveillance au moyen d’outils technologiques et de formation, en tenant compte de la mise en œuvre des nouvelles lignes directrices du BSIF associées au Cadre de surveillance et des facteurs de risque présents.
+* **Analyse du contexte pour assurer la sûreté et la solidité des institutions financières**  
+  Les SCS surveillent la répartition des cotes ainsi que les tendances et les recommandations qui s’y rattachent pour faciliter l’application uniforme du Cadre de surveillance. Pour ce faire, ils offrent aux surveillants et aux gestionnaires une source indépendante d’analyses comparatives à l’appui de leurs activités de surveillance.
+* **Adoption d’une approche équilibrée**  
+  Les SCS visent à concilier l’application des fondements théoriques et axés sur des principes du Cadre de surveillance avec une application concrète qui se veut pragmatique, uniforme et aisément applicable et qui tient compte de la taille, de la nature et de la complexité des IFF.
+
+Un examen du mandat des SCS et des attributions de chacune de ses quatre équipes sera effectué par le chef actuel des SCS.
+
+##### Gouvernance des SCS
+
+Comme l’a établi le Comité de direction, la gouvernance des SCS est quelque peu unique et compliquée. Voici certaines de ses caractéristiques.
+
+* Les SCS seront dirigés par un seul directeur de niveau REX (d’abord au niveau du directeur principal; actuellement au niveau du directeur général).
+* Les SCS seront gouvernés par les dirigeants des unités de surveillance, agissant en tant que groupe appelé Comité des SCS (CSCS). Les SCS seront chargés de déterminer le mandat du comité et de son président, la description de travail du poste du dirigeant des SCS et de pourvoir ce poste. L’une des tâches les plus importantes du Comité sera de fixer le nombre de postes que compteront les SCS, qui seront pourvus à même les ressources des unités de surveillance. Il aura également pour fonction de gérer le roulement du personnel de surveillance en affectation temporaire.
+* Les dirigeants du SSID, du SSSA et du GSS présideront tour à tour le Comité des SCS, si bien que chacun des trois assurera la supervision du groupe durant une période limitée, ce qui fera valoir que les SCS ne relèvent d’aucune unité en particulier.
+* Le dirigeant des SCS fera rapport directement au président du CSCS, qui lui donnera des directives et supervisera et évaluera les activités des SCS pour le compte du Comité.
+
+Depuis avril 2021, les SCS procèdent à une rotation pour rendre compte au surintendant auxiliaire du SSSA.
+
+##### Modèle de dotation
+
+À l’instar du modèle de gouvernance, le modèle de dotation des SCS est quelque peu compliqué et unique au sein du BSIF.
+
+* Lorsque ce modèle a été créé, les membres de la Division des pratiques et les employés qui travaillaient à temps plein au STTR ont été transférés aux SCS.
+* La vision originale du plan de dotation, comme énoncé dans la note du Comité de direction, pour ce qui concerne la dotation de la plupart sinon la totalité des postes au sein des SCS, on fera appel à des employés permanents qui occupent déjà des postes dans l’une des unités de surveillance. À terme, nous nous attendions à ce qu’un séjour aux SCS fasse partie du plan de carrière de nombreux surveillants dont le rendement est remarquable. Pour assurer la continuité des Services communs de surveillance et le transfert du savoir des personnes responsables des diverses fonctions des SCS, le modèle des affectations pour une période déterminée devait être mis en place progressivement.
+
+Ce « modèle de rotation » comprend un soutien à la réintégration du personnel dans leur secteur d’attache, et on s’attend à ce que chaque membre des SCS participe également au travail de surveillance chaque année. Le « modèle de rotation » a soulevé un certain nombre de défis tant du point de vue du recrutement que de la gestion du plan de travail des SCS. Le modèle sera examiné par le chef actuel des SCS.
+
+Au 31 mars 2021, environ 54 % des postes des SCS étaient des postes « permutants » ou des affectations, et au moins trois des postes de directeur devraient faire l’objet d’une rotation au cours du premier trimestre de 2021-2022 (outils et technologie, cohérence et formation). L’intention est de pourvoir ces postes par l’intermédiaire du processus de gestion des talents; toutefois, cela constituera un important facteur d’attraction pour les secteurs de surveillance.
+
+##### Modèle de financement
+
+Comme pour le modèle de gouvernance et de dotation, le modèle de financement des SCS est également compliqué et unique.
+
+* Sur le plan conceptuel, les SCS ne disposent pas d’un financement comme tel.
+* Étant donné que les SCS ont été créés pour fournir des services centralisés aux secteurs de la Surveillance là où il était plus efficace de le faire, les trois secteurs de la Surveillance financent les SCS chaque année.
+* Les secteurs de la Surveillance peuvent transférer des fonds au centre de coûts des SCS ou financer directement un poste ou une initiative à partir de leur centre de coûts. Le budget de formation du centre de coûts pour la formation est un exemple d’affectation directe.
+* Le Programme de gestion de carrière en surveillance (PGCS) a toujours disposé de son propre budget dans le cadre du budget de surveillance, et lorsque le transfert du PGCS au sein des SCS a été effectué en avril 2020, le budget connexe a également été transféré.
+* À l’heure actuelle, les SCS administrent six centres de coûts pour appuyer ses activités, mais avec l’achèvement du projet Vu, le centre de coûts de l’élaboration du projet Vu sera bientôt éliminé.
+* Les projets officiels (comme le projet Vu) seraient financés directement à même le budget du BSIF et seraient assujettis aux exigences du Conseil du Trésor.
+
+#### Bureau de l’actuaire en chef
+
+##### Vue d’ensemble
+
+###### Mission et mandat
+
+Le Bureau de l’actuaire en chef (BAC) a pour mandat d’effectuer des évaluations actuarielles réglementaires du Régime de pensions du Canada (RPC), du programme de la Sécurité de la vieillesse (SV), des régimes de pension et d’assurance des employés du secteur public fédéral, du taux de cotisation de l’assurance-emploi (AE) et du Programme canadien de prêts aux étudiants (PCPE). Ces évaluations permettent de déterminer, d’après les exigences de la loi, la situation financière de ces régimes et programmes.
+
+Le BAC fournit aussi aux ministères intéressés, y compris au pouvoir exécutif des gouvernements provinciaux et territoriaux, qui sont les coadministrateurs du RPC, des conseils actuariels sur la conception, la capitalisation et l’administration de ces régimes. Les actifs des régimes sous la responsabilité du BAC s’élèvent à plus de 650 milliards de dollars. Parmi les clients du BAC, notons les suivants :
+
+* Emploi et Développement social Canada (EDSC)
+* Finances, Secrétariat du Conseil du Trésor (SCT)
+* Services publics et Approvisionnement Canada (SPAC)
+* Ministère de la Défense nationale (MDN)
+* Anciens combattants Canada (ACC)
+* Gendarmerie royale du Canada (GRC)
+* Justice Canada et Commission de l’assurance-emploi du Canada
+
+En 2020, l’équipe de direction du BAC s’est prêtée à un exercice de définition de la vision. La vision et les principes directeurs connexes ont été présentés au personnel du BAC, et visent à guider le BAC dans ses projets futurs. Les principes directeurs du BAC sont conformes aux valeurs du BSIF.
+
+###### Cadre de responsabilisation
+
+Le BAC a été mis sur pied au sein du Bureau du surintendant des institutions financières Canada à titre d’entité distincte. En étant à l’extérieur des ministères qui utilisent ses services, l’actuaire en chef peut exercer un jugement professionnel indépendant et impartial dans l’exercice de son mandat. Bien que l’actuaire en chef relève du surintendant, le cadre de responsabilisation précise qu’il est seul responsable du contenu des rapports préparés par le BAC et des opinions actuarielles qui y sont formulées.
+
+###### Financement du BAC
+
+Le BAC fournit des services prévus par la loi et des services non prévus par la loi qui sont financés soit par les crédits du BSIF, les crédits des clients ou un fonds dédié. Le financement au moyen des crédits des clients et des fonds dédiés est habituellement prévu dans des protocoles d’entente conclus avec les clients. Le budget total du BAC pour 2021-2022 est de 12,1 millions de dollars, dont 74 % sont affectés aux services prévus par la loi et 26 %, aux services non prévus par la loi.
+
+Le BAC n’a pas officiellement le pouvoir de fournir des services non prévus par la loi à d’autres ministères et organismes, même s’il fournit déjà ces services au moyen de protocoles d’entente à certains clients (principalement Anciens Combattants Canada et le Secrétariat du Conseil du Trésor pour des travaux liés aux Comptes publics du Canada). Le BAC et le BSIF sont tous deux au courant de ce problème, mais reconnaissent qu’il s’agit d’une situation à faible risque.
+
+###### Poste au sein du BSIF
+
+Par le passé, le BAC n’était pas directement représenté au Comité de direction (CD), et la responsabilité de veiller à ce que le BAC soit pris en compte dans les décisions du CD revenait officieusement au surintendant. En pratique, cela signifie que le BAC n’était pas pris en compte (ou du moins n’était pas consulté) dans la prise de diverses décisions.
+
+Depuis mars 2021, l’actuaire en chef participe désormais à toutes les activités du Comité de direction en guise d’essai jusqu’à la fin de juin 2021. Nous croyons qu’il est important de l’inclure dans ce processus en reconnaissance de son rôle de partenaire en ce qui a trait aux décisions opérationnelles et aux questions qui affectent les deux Bureaux. On s’attend à ce que cette entente soit peaufinée et officialisée avec la venue du nouveau surintendant.
+
+Le BAC est également représenté au sein de quatre des cinq comités de gouvernance du BSIF (Comité des données et de la technologie, Comité des gens et de la culture, Comité des risques d’affaires et Comité des opérations). En raison de la taille et de la composition de l’équipe de direction du BAC, un seul directeur représente celui-ci au sein de ces comités.
+
+En 2021, pour la première fois, le BAC a préparé un plan et rendra compte de ses progrès vis à vis ce plan par l’intermédiaire du rapport de mise en œuvre du plan stratégique et du rapport de gestion de la mise en œuvre du plan stratégique.
+
+##### Effectif
+
+###### Structure du Bureau
+
+Le BAC est composé de deux sections : une section responsable des travaux touchant les programmes de sécurité sociale (RPC, SV, PCPE, AE) et une autre responsable de ceux touchant les programmes de pension et d’assurance du secteur public. Chaque section compte trois directeurs qui dirigent des équipes de quatre à sept personnes. Les trois directeurs de la section de la sécurité sociale relèvent de l’actuaire en chef, tandis que les trois directeurs de la section des régimes de retraite et d’assurance du secteur public relèvent d’un directeur général qui, lui, relève de l’actuaire en chef.
+
+###### Effectif actuel
+
+L’effectif du BAC se compose de deux coordonnateurs administratifs et de 41 actuaires professionnels, dont la plupart ont obtenu le titre de Fellow (17) ou d’associé (14) de l’Institut canadien des actuaires ou de la Society of Actuaries, ou des deux. D’autres continuent de passer des examens pour obtenir leur titre d’associé, et certains ayant le titre d’associé s’emploient à obtenir leur titre de Fellow. Le BAC aide ses employés à obtenir une désignation actuarielle grâce à sa politique sur les crédits d’heures accordés aux étudiants en actuariat.
+
+L’actuaire en chef actuelle a été nommée en avril 2019 et, à la suite d’un processus de dotation des postes de directeurs, trois directeurs ont également été nommés en 2019. De plus, un poste de directeur général a été créé et pourvu à l’été 2019. Un directeur prendra sa retraite en mai 2021, et un nouveau directeur sera nommé à ce moment là.
+
+###### Programme de perfectionnement des actuaires
+
+Le Programme de perfectionnement des actuaires du BAC a été créé en 2016 dans le but de former du personnel hautement qualifié, grâce à des affectations professionnelles stimulantes, à de l’encadrement en cours d’emploi et à une combinaison de formation officielle et officieuse, qui permet aux personnes d’améliorer leurs connaissances, habiletés et compétences afin d’occuper un poste de plus haut niveau (niveaux de RE-04 à RE-07). Tous les actuaires aux niveaux RE ont eu la possibilité de participer au Programme de perfectionnement des actuaires dans le cadre d’un processus concurrentiel. Toutes les recrues embauchées depuis 2016 ont participé au programme. Plus de 25 promotions ont été accordées depuis son lancement.
+
+L’actuaire en chef actuelle a été nommée en avril 2019 et, à la suite d’un processus de dotation des postes de directeurs, trois directeurs ont également été nommés en 2019. De plus, un poste de directeur général a été créé et pourvu à l’été 2019. Un directeur prendra sa retraite en mai 2021, date à laquelle un nouveau directeur sera nommé.
+
+##### Produits de travail
+
+###### Cycles de travail
+
+Le BAC prépare des rapports actuariels prévus par la loi pour huit programmes selon un cycle triennal et pour l’AE selon un cycle annuel. De plus, le BAC prépare annuellement 12 rapports actuariels aux fins des Comptes publics, dont un qui porte sur les six régimes de retraite du secteur public fédéral. Le BAC aide également les ministres fédéral et provinciaux des Finances dans le cadre de leur examen triennal périodique du RPC.
+
+En outre, une partie du travail du BAC n’est pas cyclique, comme la préparation d’estimations de coûts pour les changements potentiels aux programmes, la préparation de projections de coûts à des fins budgétaires, la préparation d’études actuarielles, des exposés à différentes parties intéressées au pays et à l’étranger, etc.
+
+##### Contrôles externes
+
+###### Examen indépendant par les pairs du RPC
+
+* Dans le cadre de sa politique de prestation de conseils actuariels judicieux et pertinents aux parlementaires et à la population canadienne, le BAC commande un examen externe par les pairs de ses rapports actuariels sur le Régime de pensions du Canada. L’examen externe par les pairs vise à s’assurer que les rapports actuariels respectent des normes professionnelles élevées et qu’ils sont fondés sur des méthodes et des hypothèses raisonnables.
+* Instaurée en 1999, cette procédure de vérification par des tiers a produit des recommandations utiles qui ont permis d’améliorer la qualité et la transparence des rapports actuariels au fil des ans. Chaque examen indépendant apporte de nouvelles perspectives pour continuer d’améliorer la qualité du travail du Bureau et d’en renforcer l’indépendance.
+* Par souci d’impartialité et de crédibilité de l’examen par les pairs, les membres du comité sont choisis à la recommandation d’experts en sécurité sociale de réputation mondiale du Government Actuary’s Department (GAD) du Royaume-Uni qui donne une opinion indépendante sur le travail effectué par les examinateurs.
+* Les données, les hypothèses et les méthodologies utilisées pour produire les rapports sur le RPC sont également employées pour d’autres programmes relevant du BAC. Par conséquent, les constatations et les recommandations découlant du processus d’examen externe par les pairs s’appliquent également à d’autres programmes sous la responsabilité du BAC.
+
+###### Audit du Bureau du vérificateur général
+
+* Pour auditer les passifs du gouvernement du Canada liés aux pensions, aux indemnités de départ, aux prêts étudiants, aux prestations de soins de santé et de soins dentaires après la retraite, aux indemnités d’accident du travail et aux futures prestations pour les anciens combattants figurant dans les Comptes publics, le vérificateur général utilise le travail actuariel du BAC comme preuve d’audit. Dans le cadre de ses travaux d’audit, le Bureau du vérificateur général (BVG) examine les données, les méthodes et les hypothèses utilisées par le BAC dans ses rapports actuariels aux fins des Comptes publics. Les commentaires et les recommandations du BVG sont pris en compte dans les futurs rapports actuariels, le cas échéant.
+
+###### Normes professionnelles
+
+* Les conseils actuariels donnés et les rapports actuariels produits par le BAC sont préparés conformément à la pratique actuarielle acceptée au Canada. En particulier, la méthodologie et les hypothèses choisies doivent être conformes aux Normes de pratique de l’Institut canadien des actuaires. Tous les Fellows et les associés de l’Institut canadien des actuaires (ICA) doivent respecter rigoureusement les règles et obligations professionnelles et éthiques de l’ICA.
+
+###### Contrôles internes
+
+Outre les contrôles externes décrits ci-dessus, le BAC dispose de contrôles internes pour assurer l’exactitude et la pertinence de ses conseils actuariels. Les rapports actuariels prévus par la loi sont signés par au moins deux actuaires du Bureau de l’actuaire en chef qui ont le titre de Fellow de l’ICA, afin d’améliorer le processus interne de contrôle de la qualité. Un exercice officiel d’assurance de la qualité a également été mené en 2015-2016 pour tous les programmes sous la responsabilité du BAC; cet exercice portait sur des domaines comme le contexte des demandes, la validation des données, les modèles, la méthodologie et les hypothèses et la communication des résultats. Les résultats ont été communiqués aux ministères clients, et des améliorations ont fait l’objet de discussion pour les aspects jugés laissant à désirer. Un processus d’assurance de la qualité révisé est en cours d’élaboration et sera mis en œuvre en 2021-2022.
+
+##### Défis que doit relever le BAC
+
+###### Recrutement et maintien en poste
+
+Pour fonctionner de manière efficace, le BAC a besoin d’employés ayant des compétences techniques, actuarielles et supérieures en communication (écrite et orale). Ces dernières années, il a été de plus en plus difficile d’attirer à Ottawa des candidats possédant ces qualités. De plus, il y a très peu d’actuaires qui ont une expérience des programmes de sécurité sociale, et les actuaires en ayant une des pensions sont de plus en plus rares étant donné le déclin des régimes de retraite à prestations déterminées. Enfin, les compétences des employés du BAC en font des candidats intéressants, surtout pour certains groupes du BSIF. Une attention particulière doit être portée aux possibilités de carrière offertes au BAC si l’on veut éviter les problèmes de maintien en poste. Étant donné la rareté des actuaires chevronnés dans ses domaines d’expertise, le BAC doit embaucher des employés de niveau inférieur et veiller à leur perfectionnement. Le budget du BAC pour 2021‑2022 comprend 43 équivalents temps plein (ETP); à l’heure actuelle, le BAC compte 40 postes qui ont été pourvus. Les trois postes vacants devraient l’être à l’été 2021.
+
+Pour relever ces défis, un certain nombre d’initiatives ont été lancées au cours des dernières années.
+
+* Le Programme de perfectionnement des actuaires a été modifié pour assouplir certains critères relatifs à l’expérience et aux études difficiles à atteindre et pour étendre le programme au niveau RE-07. Ces changements permettront au BAC de bénéficier d’une plus grande marge de manœuvre pour recruter des candidats dans un environnement d’embauche difficile, et également d’offrir d’autres possibilités d’avancement professionnel aux employés du niveau RE-06, compte tenu du nombre limité de postes de gestion.
+* Il y a eu des séances de mobilisation de tous les employés des niveaux RE dans le but de recueillir leurs commentaires sur la meilleure façon pour le BAC de soutenir les employés de ce niveau. Par conséquent, un plan d’action a été élaboré, et il aborde les principaux points soulevés au cours des séances. La plupart des mesures du plan d’action ont été mises en œuvre en 2020.
+* Le BAC participe au projet pilote de gestion des talents pour les niveaux des RE.
+
+###### Niveau adéquat de dotation
+
+Le contexte économique, démographique et technologique dans lequel le BAC exerce ses activités est de plus en plus complexe et sophistiqué. Ainsi, le BAC doit disposer d’un effectif adéquat, pour non seulement remplir son mandat, mais aussi pour être au diapason des divers intervenants et de l’environnement changeant. Les employés doivent avoir suffisamment de temps pour acquérir des connaissances et les approfondir, et il faut consacrer suffisamment de temps à la documentation et à l’amélioration continue des outils et des processus. Il est important que les clients du BAC comprennent et appuient le niveau de dotation requis pour que le Bureau remplisse son mandat et concrétise sa vision.
+
+###### Planification de la relève
+
+Un certain nombre d’employés du BAC ont des connaissances spécifiques importantes sur les programmes, mais il n’y en a pas beaucoup. Trois des six directeurs prennent leur retraite d’ici cinq ans. Il faut déterminer les postes clés et mettre en place un plan de relève. Il faut aussi accorder la priorité à l’échange des connaissances. Une formation en leadership doit être fournie à tous les niveaux.
+
+Des mesures ont été prises pour remédier à la situation, dont les suivantes.
+
+* Tous les cadres du BAC sauf un ont participé ou participent actuellement au Programme de perfectionnement en leadership, et les cadres ont accès à des services de coaching.
+* Deux employés de niveau RE‑06 sont actuellement inscrits au Programme à l’intention des futurs directeurs offert par l’École de la fonction publique du Canada.
+* Deux autres employés de niveau RE-06 sont inscrits au Programme sur les notions essentielles en gestion du BSIF, et les possibilités futures de formation en leadership seront harmonisées avec le Programme de perfectionnement des actuaires.
+
+###### Technologie
+
+Le BAC utilise des outils différents de ceux du reste du BSIF, et certains de ces outils sont uniques. La main-d’œuvre est aussi en train de changer, et il devient difficile de trouver des employés ayant des compétences en actuariat et qui possèdent également de solides compétences en matière de programmes. Il y a donc un besoin général de documentation, de matériel de formation et d’échange de connaissances. Le BAC collabore actuellement avec la GI-TI du BSIF pour tirer profit de son expertise.
+
+###### Données
+
+Le BAC recueille beaucoup de données pour effectuer les analyses requises. La sécurité des données demeure un problème permanent pour le BAC; il collabore donc continuellement avec la GI-TI du BSIF à cet égard. Le BAC cherche toujours à améliorer ses capacités d’analyse des données et a demandé l’aide de la Division de l’analyse du risque et des données.
+
+#### Audit interne
+
+##### Vue d’ensemble
+
+###### Mandat
+
+Le rôle de la Division de l’audit interne (DAI) est d’ajouter de la valeur en évaluant les processus de gestion des risques, de contrôle et de gouvernance, et en contribuant à leur amélioration, conformément à la Politique sur l’audit interne du Conseil du Trésor (CT).
+
+La DAI fournit des évaluations indépendantes et objectives au moyen de services d’assurance et de services-conseils pour aider la direction du BSIF à atteindre ses objectifs opérationnels et à s’acquitter de son mandat de manière efficiente et efficace. Le mandat de la DAI est affiché à l’interne; vous pouvez le consulter en cliquant sur le lien ci-dessus.
+
+###### Plan d’audit interne 2021-2023
+
+La DAI interne prépare chaque année un plan pluriannuel axé sur les risques (le Plan) conformément à la Politique sur l’audit interne du Conseil du Trésor et au Cadre de référence international des pratiques professionnelles de l’audit interne de l’Institut des auditeurs internes.
+
+Le Plan décrit les activités de la DAI pour l’exercice 2021-2022 et fournit un inventaire complet des audits potentiels pour les années à venir. Ce plan vise à s’assurer que les ressources de la Divison sont affectées efficacement pour aider le BSIF à réaliser ses priorités stratégiques. Le Plan est publié à l’interne.
+
+## Stratégie, risque et rendement
+
+### Plan stratégique du BSIF
+
+#### Plan stratégique du BSIF pour 2019-2022
+
+##### Pourquoi un plan stratégique?
+
+Il trace la voie de notre avenir en faisant fond sur les nombreuses leçons et réalisations qui ont marqué notre parcours des trente dernières années. Il nous aidera à orienter nos efforts et nos ressources dans la bonne direction et à consolider les moyens dont nous disposons pour accomplir notre mission. Il nous indique la voie de l’avenir, établit nos priorités, oriente nos efforts vers la réalisation d’objectifs communs et indique les aboutissements et les résultats escomptés; ce faisant, il oriente la planification des activités des secteurs.
+
+##### Cycle de trois ans; plans sectoriels
+
+Le plan stratégique actuel du Bureau du surintendant des institutions financières (BSIF) expose l’orientation de l’organisation sur trois ans à la fois. Il s’agit du plan public que nous nous engageons à présenter à nos parties prenantes.
+
+À l’interne, chaque secteur crée également ses propres plans sectoriels qui décrivent des produits livrables précis pour une année donnée dans le cadre du plan stratégique du BSIF ainsi que pour les trois prochaines années. Le plan sectoriel énonce le travail que fait chaque secteur ou qu’il compte faire au cours des trois prochaines années en vue d’atteindre les objectifs cernés dans le plan stratégique. Les plans sectoriels nous aideront également à évaluer à la fois le rendement organisationnel et le rendement individuel.
+
+Pour l’exercice 2021-2022, il s’inscrit toujours dans le plan stratégique de 2019-2022 du BSIF. Le plan sectoriel définit les produits livrables pour l’exercice 2021-2022, mais touche également trois exercices, soit de 2021-2022 à 2023-2024.
+
+##### Concordance des plans
+
+Le plan stratégique, les plans sectoriels et les plans financiers du BSIF sont tous liés et découlent du plan stratégique global du BSIF. Plus particulièrement, par l’intermédiaire du plan stratégique, nous avons fixé l’orientation générale du BSIF, puis nous nous sommes demandé si nous avions les moyens de réaliser nos objectifs. Le résultat a une incidence sur nos enveloppes budgétaires chaque année.
+
+##### Plan stratégique du BSIF 2019-2022
+
+Le plan stratégique du BSIF 2019-2022 destiné aux parties prenantes décrit nos quatre principaux objectifs :
+
+![Plan stratégique du BSIF en bref - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img15-fra.jpg)
+
+Version textuelle - Plan stratégique du BSIF en bref
+
+###### Notre Mandat
+
+Protéger les déposants, les souscripteurs, les créanciers des institutions financières et les régimes de retraite, tout en permettant aux institutions financières et les participants des régimes de retraite, tout en permettant aux institutions financières de faire face à la concurrence et de prendre des risques raisonnables. Fournir des évaluations et des conseils actuariels au gouvernement du Canada.
+
+###### Notre Vision
+
+Bâtir le BSIF d'aujourd'hui et demain: cultiver la confiance, rester vigilant, s'améliorer continuellement.
+
+###### Réalisés grâce à nos activités
+
+En prennant appui sur les personnes, les donnés, et les infrastructures, nous réglementons et surveillons les institutions financières et les régimes de retraite privés de compétence fédérale, et nous fournissons des évaluations et des conseils actuariels au gouvernement du Canada.
+
+###### Facilités par nos objectifs triennaux
+
+1. Mieux préparer les institutions financières et les régimes de retraite fédéraux à composer avec les risques financiers et accroitre leur résilience à l'égard de ces risques, tant dans des conditions normales que lors de la prochaine crise financière.
+2. Mieux préparer les institutions financières et les régimes de retraite fédéraux à déceler les risques non financiers et accroitre leur résilience à l'égard de ces risques avant qu'ils nuisent à leur situation financière.
+3. Améliorer l'agilité et l'efficacité opérationnelle du BSIF.
+4. Conserver l'appui des Canadiens et la coopération du secteur financier.
+
+##### Réalisations du BSIF par rapport aux priorités de la dernière anné
+
+##### Rapport sur la mise en œuvre du plan stratégique (SPIRE) et Rapport de suivi de la mise en œuvre du plan stratégique (RSMOPS)
+
+Pour tenir nos employés au courant de l’état d’avancement de notre plan stratégique et assurer une bonne gouvernance et une bonne gestion des principales initiatives, nous produisons les rapports internes suivants :
+
+**SPIRE : Rapport sur la mise en œuvre du plan stratégique**  - rapport semestriel interactif de haut niveau à l’intention de tous les employés faisant état de l’avancement des éléments des plans sectoriels.
+
+**RSMOPS : Rapport de suivi de la mise en œuvre du plan stratégique**  - rapport trimestriel qui met l’accent sur les projets et les initiatives clés et qui fait le point sur les jalons. On présente ce rapport au Comité des opérations afin de gérer les risques des projets, et il est fourni au Comité de direction comme outil d’information et de sensibilisation.
+
+L’image ci-dessous montre comment le SPIRE et le RSMOPS s’inscrivent dans la vision générale de la gestion du risque d’entreprise (GRE) (remarque : le cadre de GRE est en cours d’élaboration).
+
+![Vision de la GRE - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img16-fra.jpg)
+
+Version textuelle - Vision de la GRE
+
+Ce schéma indique comment les éléments suivants s’inscriraient dans la perspective de la nouvelle gestion du risque d’entreprise (GRE) :
+
+* le tableau de bord SPIRE, qui présente ce que nous faisons;
+* le rapport de suivi de la mise en œuvre du plan stratégique (RSMOPS), qui présente les projets importants en cours d’exécution, le cas échéant;
+* le rapport sur le rendement du BSIF, qui permet d’évaluer les résultats obtenus et notre efficacité;
+* les indicateurs de risque d’entreprise (IRE), qui permettent d’évaluer si nous gérons bien les risques qui pèsent sur le BSIF.
+
+Enfin, en tangente, le rapport du Comité d’étude des risques émergents (CERE), qui permet d’évaluer si nous gérons bien les risques qui pèsent sur les IFF.
+
+### Risque et rendement
+
+#### Gestion du risques d’entreprise
+
+##### Contexte
+
+* La nouvelle vision et la nouvelle approche relativement à la GRE ont été approuvées par le Comité de direction (CD) en décembre 2019, puis présentées aux coprésidents des comités de la haute direction du BSIF en février et en mars 2020.
+* Après l’interruption subie pendant la plus grosse partie de l’exercice 2020-2021 en raison de la pandémie et de la suspension des travaux des comités de la haute direction, la mise en œuvre de la nouvelle approche de GRE a commencé fin 2020-2021.
+* Entre décembre 2020 et avril 2021, des présentations sur la nouvelle approche de GRE et les prochaines étapes ont été données au Comité des opérations (CO), au Comité d’audit (CA), au comité des coprésidents, au Comité des gens et de la culture (CGC) et au Comité des données et de la technologie (CDT).
+* En 2021-2022, l’objectif est d’élaborer le cadre complet de la GRE en se fondant sur la vision et l’approche approuvées de la GRE tout en tirant parti du concept de gouvernance d’entreprise du BSIF.
+
+##### Plan de mise en œuvre de trois ans
+
+Plan de mise en œuvre triennal
+
+| 2021-2022 | 2022-2023 | 2023 et au-delà |
+| --- | --- | --- |
+| **Transition**  * Élaborer le cadre et la politique de gestion du risque d'entreprise (GRE) * Concevoir et tester les processus et les outils de soutien (p. ex., les indicateurs de risque clés [IRC]). * Intégrer les travaux d’évaluation du risque à la planification et aux rapports * Mettre à contribution les comités de gouvernance du BSIF dans la mise en œuvre et la prise de décisions * Tenir compte de la gestion du changement tout au long du processus | **Intégration**  * Mener les activités de GRE selon le processus établi en 2021-2022   + Poursuivre la mise en place des processus (rapports et IRC) pour faciliter la prise de décisions et le suivi   + Obtenir un retour de terrain à la fin de l’exercice et ajuster le cadre, s’il y a lieu | **Maturité et amélioration continue**  * Poursuivre l’amélioration du processus de GRE |
+| Faire évoluer la maturité de la GRE; chercher à prendre des décisions davantage fondées sur le risque | | |
+
+##### Jalons pour 2021-2022
+
+L’exercice 2021-2022 sera une phase de transition et d’essai. Les travaux de mise en œuvre porteront en particulier sur les questions suivantes :
+
+Jalons 2021-2022
+
+|  | T1 | T2 | T3 | T4 |
+| --- | --- | --- | --- | --- |
+| Cadre et politique de gestion du risque d'entreprise (GRE) | Élaboration du cadre et de la politique | | Approbation du cadre de GRE par le Comité de direction (CD) | Approbation de la politique de GRE par le CD |
+| Risk Management and Analysis | Définition d’une structure de soutien pour les travaux d'évaluation et d’intégration; Collaboration avec le Bureau de la gouvernance stratégique pour mettre la touche finale à l'approche | Élaboration et mise à l’essai des outils et des processus par le Groupe de travail des comités de de gouvernance supérieurs (CGS) | Examen de l'évaluation du risque par les CGS | Approbation de l'évaluation du risque par le CD |
+| Intégration de la GRE | Étude des processus et outils d'intégration (surveillance du risque, planification/budgétisation et production de rapports) par le Groupe de travail des CGS et le Groupe de la planification (GP) | Examen des processus d'intégration (surveillance du risque, planification/budgétisation et production de rapports) par le Comité des opérations (CO) | Approbation des processus d'intégration (surveillance du risque, planification/budgétisation et production de rapports) par le CD |
+| Gestion de projets et gestion du changement | Élaboration d'une stratégie de gestion du changement | Mobilisation des CGS et du GP | | Formation sur les processus et les outils |
+| Consultation et communication | Sensibilisation, communication et mobilisation permanentes (CGS, GP et autres interlocuteurs internes) | | | |
+
+##### Optique du risque
+
+* Afin de mieux intégrer les facteurs de risque à la planification stratégique, à la gouvernance et à la prise de décisions, le Comité des opérations (CO) a élaboré l’optique du risque et la tolérance au risque, qui ont ensuite été approuvées par le CD.
+* Il est entendu que l’optique du risque servira de fondement au nouveau cadre de GRE.
+* À titre de référence, le graphique ci-dessous montre la mise en correspondance actuelle de la surveillance du CD par rapport à des catégories de risque précises.
+
+![Catégories de risque - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img19-fra.jpg)
+
+Version textuelle - Catégories de risque
+
+Ce schéma indique les différents risques que le Comité de direction et les comités de gouvernance supérieurs encadrent :
+
+* Le Comité de direction encadre le risque financier, le risque lié au capital humain et le risque stratégique.
+* Le Comité des opérations encadre le risque financier, le risque lié aux technologies, le risque opérationnel, le risque juridique et le risque de non-conformité, et le risque lié à la confiance des intéressés.
+* Le Comité des données et de la technologie encadre le risque lié aux technologies.
+* Le Comité des gens et de la culture encadre le risque lié au capital humain.
+* Le Comité des services communs de surveillance encadre le risque lié à la surveillance.
+* Le Comité des risques d’affaires encadre le risque lié à la surveillance, le risque stratégique et le risque lié au cadre réglementaire.
+
+##### Vision de la GRE
+
+Bien que le cadre de GRE soit toujours en cours d’élaboration, le SPIRE, le RSMOPS et le rapport sur le rendement du BSIF (actuellement opérationnel et accessible) alimentent la vision générale de la GRE. Les indicateurs de risque d’entreprise (IRE) pourraient faire partie de la série d’outils de GRE à l’avenir.
+
+![Vision de la GRE - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img16-fra_0.jpg)
+
+Version textuelle - Vision de la GRE
+
+Ce schéma indique comment les éléments suivants s’inscriraient dans la perspective de la nouvelle gestion du risque d’entreprise (GRE) :
+
+* le tableau de bord SPIRE, qui présente ce que nous faisons;
+* le rapport de suivi de la mise en œuvre du plan stratégique (RSMOPS), qui présente les projets importants en cours d’exécution, le cas échéant;
+* le rapport sur le rendement du BSIF, qui permet d’évaluer les résultats obtenus et notre efficacité;
+* les indicateurs de risque d’entreprise (IRE), qui permettent d’évaluer si nous gérons bien les risques qui pèsent sur le BSIF.
+
+Enfin, en tangente, le rapport du Comité d’étude des risques émergents (CERE), qui permet d’évaluer si nous gérons bien les risques qui pèsent sur les IFF.
+
+##### Prochaines étapes
+
+* Tenir compte des commentaires du CD dans l’approche de mise en œuvre et mettre au point les plans
+* Établir un groupe de travail de la haute direction et commencer à faire participer les membres au travail énoncé dans l’ordre du jour des prochaines réunions
+* Terminer l’élaboration d’une stratégie de gestion du changement
+* Embaucher un expert-conseil pour soutenir le travail
+
+## Cadre réglementaire
+
+### IFF
+
+#### Surveillance
+
+##### Surveillance des institutions de dépôts
+
+###### Attributions en matière de surveillance
+
+Le Secteur de la surveillance des institutions de dépôt (SSID) réglemente et surveille les institutions de dépôt, au nombre desquelles figurent des banques, des succursales de banques étrangères, des sociétés de fiducie et de prêt, et des coopératives de crédit.
+
+Au Canada, le secteur des institutions de dépôt fédérales se compose de six grandes banques nationales, désignées banques d’importance systémique intérieure (BISi), de quatre institutions de taille intermédiaire et de nombreuses institutions de moindre envergure. Deux des grandes banques (la Banque Royale du Canada et la Banque Toronto-Dominion) ont été désignées d’importance systémique mondiale par le Conseil de stabilité financière.
+
+Les six plus grandes banques représentent 90 % de l’actif total détenu par les institutions de dépôt fédérales. Leurs activités diversifiées vont au-delà des activités traditionnelles d’encaissement de dépôts et de prêt, et incluent les services commerciaux et d’investissement, la gestion de patrimoine et l’assurance. Outre leur principal objectif national, ces grandes banques exercent leurs activités dans de nombreux autres pays.
+
+Les petites et moyennes institutions représentent les autres 10 % des actifs. Ces institutions déploient diverses stratégies de marché et d’affaires comme les prêts hypothécaires, les prêts immobiliers commerciaux et les prêts par carte de crédit.
+
+Nous surveillons de près les risques économiques, financiers et non financiers auxquels font face les institutions de dépôt, y compris l’évolution systémique ou sectorielle qui pourrait avoir une incidence négative sur leur situation financière.
+
+###### Exécution du travail de surveillance
+
+Le BSIF dispose d’un solide régime de surveillance et d’intervention rapide, le principal pilier étant le Cadre de surveillance axé sur le risque. Les principales activités de surveillance comprennent :
+
+* la planification du travail de surveillance
+* l’exécution du travail de surveillance et la mise à jour du profil de risque (suivi de la situation financière des IFF et exécution du travail d’examen)
+* l’établissement de rapports et l’intervention
+
+L’étendue des mesures de surveillance est fondée sur le risque et guidée, en outre, par le Cadre de tolérance au risque du SSID.
+
+###### Coordination avec nos interlocuteurs externes
+
+Lorsque les risques d’une IFF sont élevés et ont une incidence sur sa viabilité financière et sa solvabilité, des mesures d’intervention sont requises. Le Guide en matière d’intervention à l’intention des institutions de dépôt fédérales fournit des conseils supplémentaires que peuvent suivre le BSIF et la Société d’assurance dépôts du Canada (SADC). Les mesures d’intervention peuvent comprendre un contrôle accru, des examens spéciaux ou, dans des situations extrêmes, la prise de contrôle ou la liquidation d’une institution, entre autres options de résolution.
+
+L’Entente d’alliance stratégique entre le BSIF et la SADC fournit un cadre permettant à tous deux de coordonner leurs activités, d’encourager la consultation inter-organisationnelle et de faciliter l’échange de renseignements dans le but d’améliorer la capacité de la SADC et du BSIF à s’acquitter de leurs mandats respectifs avec efficience et efficacité.
+
+Tous les deux ans, le programme de simulation de crise du BSIF pour les BISi, soit la macrosimulation de crise (MSC), est exécuté de concert avec la Banque du Canada. La MSC est un aperçu prospectif complet de la façon dont les banques s’attendent à ce qu’un scénario de simulation grave, mais plausible, se concrétise, ce qui faciliterait la formation de perspectives et de réponses en matière de surveillance et de politiques. Des travaux sont en cours pour étendre ce programme à certaines petites et moyennes institutions.
+
+Une coopération et un échange d’information efficaces, sous la forme de collèges de surveillance, jouent un rôle clé dans le renforcement de la surveillance, en particulier pour les banques multinationale. Tous les 12 à 18 mois, le BSIF organise des collèges de surveillance pour les BISi. De plus, les réunions du groupe de gestion des crises sont organisées conjointement par le BSIF et la SADC tous les 12 à 18 mois. Les surveillants sont également invités à participer aux collèges de surveillance organisés par les organismes de réglementation locaux.
+
+##### Surveillance des sociétés d’assurance
+
+###### Attributions en matière de surveillance
+
+Le Secteur de la surveillance des sociétés d’assurance (SSSA) surveille les sociétés d’assurance-vie fédérales (y compris les succursales, les filiales étrangères et les sociétés de secours mutuels) et leurs filiales; les sociétés d’assurance multirisque fédérales (y compris les succursales, les filiales étrangères et les sociétés de secours mutuels) et leurs filiales de même que les sociétés d’assurance hypothécaire. La Division de l’actuariat veille à l’application de connaissances, de normes et de conseils actuariels pertinents aux fonctions de réglementation et de surveillance du BSIF.
+
+###### Exécution du travail de surveillance
+
+À l’instar des institutions de dépôt, la surveillance des sociétés d’assurance fait appel au régime de surveillance et d’intervention rapide du BSIF, dont le principal pilier est le Cadre de surveillance axé sur le risque.
+
+###### Coordination avec les interlocuteurs externes
+
+Voir le Guide d’intervention (ci-après) pour obtenir de plus amples renseignements.
+
+###### Cote de risque composite et critères d’évaluation
+
+Le BSIF fait part à chaque institution financière qu’il surveille du profil de risque global, ou cote de risque composite (CRC), qui lui est attribué au terme de son évaluation. L’établissement de la CRC et des cotes dont elle découle repose sur des critères d’évaluation qui ont été définis lorsque le Cadre a été instauré. Or, ces critères font présentement l’objet de révisions à la lumière des améliorations apportées au Cadre de surveillance en 2010 et d’autres faits nouveaux. Ces critères ne sont pas des normes auxquelles les institutions financières sont tenues de souscrire; ils sont essentiellement destinés à baliser les évaluations de surveillance dans des cas particuliers.
+
+##### Cadre de surveillance
+
+###### Aperçu
+
+Le [Cadre de surveillance du BSIF (PDF)](/sites/default/files/documents/sframew_FR.pdf) énonce les principes, les concepts et le processus fondamental qui orientent les activités de surveillance des institutions financières fédérales (IFF) du BSIF. Ces principes, concepts et processus visent toutes les IFF du Canada, quelle qu’en soit la taille, et tiennent compte des caractéristiques propres aux secteurs des institutions de dépôt, de l’assurance-vie et de l’assurance multirisque. La surveillance des régimes de retraite fait quant à elle l’objet d’un cadre similaire, mais distinct.
+
+Les activités de surveillance du BSIF s’entendent de l’évaluation de la sécurité et de la solidité des IFF, de la prestation d’une rétroaction pertinente et du recours aux pouvoirs qui lui sont conférés pour intervenir en temps opportun lorsque la situation l’exige. Leur objectif, éviter aux déposants et aux souscripteurs d’encourir des pertes. C’est entre autres à cette fin qu’elles visent à comprendre ou à prévoir l’incidence, en termes de profil de risque, de facteurs émanant de l’IFF elle-même et du secteur dans lequel elle exerce ses activités.
+
+Le Cadre de surveillance est conçu pour aider le BSIF à s’acquitter des obligations législatives qui lui incombent aux termes de la Loi sur le Bureau du surintendant des institutions financières (Loi sur le BSIF) et d’autres lois régissant la surveillance des IFF. Ces obligations sont vastes et fondamentales et, pour s’en acquitter concrètement, il faut établir des normes et des critères de surveillance détaillés et cohérents.
+
+###### Historique
+
+Depuis l’instauration du Cadre de surveillance du BSIF, en 1999, le secteur des services financiers a beaucoup évolué et ces changements ont modifié la nature et la gestion des risques inhérents aux institutions financières. Par exemple, les produits se sont complexifiés, la mondialisation confère dorénavant une dimension systémique à certains facteurs de risque et les institutions financières ont traversé plusieurs crises graves qui ont exercé des pressions sur leur solvabilité et leurs liquidités. En outre, on constate le resserrement des normes et des exigences internationales en matière de surveillance des institutions financières en raison de la crise financière mondiale de 2008.
+
+La révision du Cadre de surveillance en 2010 reflètent les améliorations apportées par le BSIF en réponse à ces changements, ainsi que l’expérience acquise grâce à l’application du Cadre de 1999 au cours des dix dernières années. Les améliorations ont continué de conférer à la surveillance axée sur le risque un caractère aussi dynamique et prospectif que possible, et ont permis au BSIF de composer avec l’évolution du secteur financier au Canada et ailleurs dans le monde, aujourd’hui et demain.
+
+###### Coup d’œil sur l’avenir
+
+En janvier 2021, le Comité des services communs de surveillance (CSCS) a approuvé une révision exhaustive pluriannuelle du Cadre de surveillance du BSIF. L’exercice 2021-2022 marquera donc le début de cette révision. Même si le Cadre nous a été bien utile jusqu’à présent, cette révision visera tous ses aspects et éléments, et notamment la prise en compte des risques non financiers, les mesures en matière de technologies liées à la surveillance et le renforcement des instruments de gestion des données pour aider les surveillants et le BSIF à s’acquitter du mandat de celui-ci. Les Services communs de surveillance élaborent actuellement un plan détaillé pour approbation par le CSCS.
+
+#### Guide en matière d’intervention
+
+* [Guide en matière d’intervention à l’intention des institutions de dépôt fédérales](/fr/surveillance/pratiques-surveillance/guides-dintervention/guide-dintervention-aupres-institutions-depots-federales "Guide d’intervention auprès des institutions de dépôts fédérales")
+* [Guide d’intervention auprès des sociétés d’assurances multirisques fédérales](/fr/surveillance/pratiques-surveillance/guides-dintervention/guide-dintervention-aupres-societes-dassurance-multirisque-federales "Guide d’intervention auprès des sociétés d’assurance multirisque fédérales")
+* [Guide en matière d’intervention à l’intention des sociétés d’assurance-vie fédérales](/fr/surveillance/pratiques-surveillance/guides-dintervention/guide-dintervention-aupres-societes-dassurance-vie-federales "Guide d’intervention auprès des sociétés d’assurance vie fédérales")
+
+##### Institutions de dépôt fédérales
+
+###### Processus d’intervention
+
+L’objectif du processus d’intervention est de permettre au BSIF et à la SADC (lorsque des institutions membres de la SADC sont touchées) de déceler rapidement les situations préoccupantes et d’intervenir comme il se doit pour réduire au minimum les pertes subies par les déposants pour le compte du BSIF et d’atténuer les expositions aux pertes de la SADC. La législation qui encadre les institutions financières confère au BSIF et à la SADC divers pouvoirs d’intervention discrétionnaires qu’ils peuvent exercer lorsque la situation l’exige. Les évaluations effectuées pendant le processus d’intervention tiennent compte des particularités de l’institution en cause y compris sa nature, son envergure, sa complexité et son profil de risque.
+
+###### Fonctions du BSIF et de la SADC
+
+Le BSIF est responsable au premier chef de la réglementation et de la surveillance des institutions de dépôt fédérales. Pour s’acquitter de ses fonctions, le BSIF effectue des évaluations axées sur le risque de la sûreté et de la solidité des institutions. Dans le cours normal des activités, la SADC n’exerce pas de rôle de surveillance régulier auprès des institutions fédérales qui y adhèrent, car elle compte normalement sur le BSIF pour intervenir lorsque des institutions particulières suscitent des inquiétudes. La SADC administre la loi dont elle relève et ses règlements administratifs conformément aux exigences du mandat que lui confère ladite loi, et elle exerce sa discrétion lorsqu’elle traite des cas d’institutions membres qui posent problème. La SADC surveille les institutions membres et prend les mesures qu’appelle leur état, tel qu’il est évalué par la SADC dans l’exercice de ses pouvoirs et la réalisation de son mandat.
+
+##### Sociétés d’assurance multirisque fédérales
+
+###### Processus d’intervention
+
+L’objectif du processus d’intervention est de permettre au BSIF de déceler rapidement les situations préoccupantes et d’intervenir comme il se doit pour réduire au minimum les pertes subies par les souscripteurs et les créanciers des sociétés d’assurance multirisque fédérales (les « sociétés » ou la « société »). La Loi sur les sociétés d’assurances (LSA) confère au BSIF un large éventail de pouvoirs d’intervention discrétionnaires qu’il peut exercer lorsque la situation l’exige. Les évaluations effectuées pendant le processus d’intervention tiennent compte des particularités de la société en cause, y compris sa nature, son envergure, sa complexité et son profil de risque.
+
+###### Fonctions du BSIF et de la SIMA-IARD
+
+Le BSIF est responsable au premier chef de la réglementation et de la surveillance des sociétés. À ce titre, le BSIF effectue des évaluations axées sur le risque susceptible de porter atteinte à la sûreté et à la solidité de ces sociétés. La Société d’indemnisation en matière d’assurances IARD (SIMA-IARD), quant à elle, a pour mission de protéger les souscripteurs admissibles contre les pertes financières excessives dans l’éventualité où un assureur membre deviendrait insolvable. La SIMA n’exerce pas une surveillance continue de ses sociétés membres. Elle s’efforce de limiter les coûts liés à l’insolvabilité des assureurs et, en protégeant financièrement les souscripteurs, elle cherche à faire en sorte que les consommateurs et les entreprises accordent sans cesse un degré de confiance élevé au secteur canadien de l’assurance multirisque.
+
+##### Sociétés d’assurance-vie fédérales
+
+###### Processus d’intervention
+
+L’objectif du processus d’intervention est de permettre au BSIF de déceler aussitôt que possible les situations susceptibles d’engendrer des problèmes afin de pouvoir intervenir rapidement, réduisant ainsi au minimum les pertes pour les souscripteurs et les autres créanciers des sociétés d’assurance-vie fédérales (les « sociétés » ou la « société »). Assuris a pour mission d’atténuer l’impact, pour les souscripteurs canadiens, de la faillite de la société d’assurance-vie avec laquelle ils font affaires. Assuris collabore avec les autorités de contrôle dès qu’une intervention se révèle nécessaire, dans le but de réduire les coûts à long terme et de préserver l’image de la solidité du secteur auprès du public. La Loi sur les sociétés d’assurances confère au BSIF un large éventail de pouvoirs d’intervention discrétionnaires qu’il peut exercer lorsqu’une société suscite des préoccupations. Les évaluations effectuées durant l’intervention tiennent compte des particularités de la société en cause, y compris la nature de ses activités, sa taille, sa complexité et son profil de risque.
+
+###### Fonctions du BSIF et d’Assuris
+
+Le BSIF est responsable au premier chef de la réglementation et de la surveillance des sociétés. À ce titre, il effectue des évaluations axées sur les risques susceptibles de porter atteinte à la sûreté et à la solidité de ces sociétés. Assuris n’exerce pas une surveillance continue de ses sociétés membres. En termes d’intervention, le rôle d’Assuris consiste à protéger les souscripteurs en réduisant le plus possible la perte de leurs prestations et en assurant le transfert rapide des polices à une société solvable, qui assurera le maintien des garanties. Assuris est financée par le secteur de l’assurance-vie et sanctionnée par le gouvernement du Canada. Assuris travaille en partenariat avec le BSIF dans le cadre du processus de surveillance. Elle analyse de façon indépendante la situation financière de ses sociétés membres et rencontre périodiquement le BSIF pour s’entretenir de points découlant de cette analyse. En outre, le BSIF fournit à Assuris des renseignements au sujet des sociétés dont il juge la situation plus préoccupante (celles qui sont classées à la stade 1 ou au-delà).
+
+#### Lignes directrices, préavis et décisions
+
+Bien que la réglementation des IFF repose en grande partie sur les lois et les règlements connexes relatifs aux IFF, le BSIF émet également diverses formes de directives, notamment ce qui suit :
+
+* des **lignes directrices,** qui établissent les attentes en matière de réglementation pour régir les activités et le comportement du secteur. Elles portent entre autres sur la solvabilité (p. ex. la suffisance des fonds propres), les normes prudentielles et les normes comptables;
+* des **préavis,** qui précisent la position du BSIF sur certaines questions de politique ou décrivent la façon dont le BSIF administre et interprète généralement les dispositions des lois, des règlements ou des lignes directrices;
+* des **décisions ayant valeur de précédent,** qui décrivent la façon dont le BSIF a appliqué ou interprété les dispositions des lois, des règlements ou des lignes directrices dans un cas particulier;
+* des **lettres,** qui mettent en lumière les problèmes ou les préoccupations actuels et énoncent les attentes du BSIF.
+
+Ces formes de directives, ainsi que les lois applicables, fournissent les règles selon lesquelles les IFF existantes doivent mener leurs activités. Elles établissent également les critères que doivent respecter les entités qui se proposent d’entrer sur le marché canadien.
+
+#### Agrément
+
+##### Aperçu
+
+Les lois régissant les IFF obligent ces dernières à obtenir l’agrément du surintendant ou du ministre avant d’effectuer certaines opérations, d’établir une institution ou d’exercer certaines activités. Le mandat de l’équipe des Approbations est de gérer et analyser les demandes d’agrément, de formuler des recommandations à leur égard, ainsi que d’administrer les outils d’intervention législative du BSIF et de fournir des conseils sur leur application.
+
+Les IFF qui sont tenues d’obtenir l’agrément sont soit les institutions de dépôt, aux termes de la Loi sur les banques ou de la Loi sur les sociétés de fiducie et de prêt, soit les sociétés d’assurance, aux termes de la Loi sur les sociétés d’assurances.
+
+Si une IFF conclut une opération avant d’obtenir l’agrément requis, elle doit l’obtenir rétrospectivement et peut faire l’objet d’une sanction administrative pécuniaire (SAP). Dans certains cas, les institutions qui ne sont pas des IFF peuvent également avoir besoin de l’agrément législatif.
+
+En examinant les demandes, le surintendant peut tenir compte de toutes les questions prudentielles pertinentes, de la sécurité nationale, des relations internationales et des obligations juridiques du Canada. De plus, le surintendant peut imposer des conditions ou exiger un engagement lorsqu’il accorde un agrément et peut aussi révoquer, suspendre ou modifier un agrément ou demander une ordonnance du tribunal en cas de non-respect d’une condition ou d’un engagement.
+
+Par exemple, le surintendant peut agréer toutes les opérations entre apparentés, les rachats d’actions et les acquisitions de prêteurs non réglementés. Son agrément a tendance à être de nature exclusivement « prudentiel » et ne comporte pas de considérations d’intérêt public importantes.
+
+Selon les lois, il existe aussi tout un éventail d’agréments ministériels. En général, ils portent sur les principaux éléments qui façonnent le secteur des services financiers et qui ont d’importantes répercussions sur les politiques, comme les nouveaux venus (p. ex. constitution en société ou création d’une succursale de banque étrangère) et les fusions et acquisitions importantes.
+
+Dans le cas de l’agrément ministériel ou de l’agrément du surintendant, le BSIF est le point d’entrée unique pour le traitement de toutes les demandes d’approbation, d’évaluation et de recommandation. Il s’agit d’un processus bien élaboré, auquel participent des groupes pertinents du BSIF, dirigé par l’équipe des Approbations du Secteur de la réglementation.
+
+Les agréments, qu’ils soient directs (p. ex. du surintendant) ou indirects (p. ex. du ministre ou les recommandations au ministre), ont été délégués au surintendant auxiliaire, Secteur de la réglementation. À titre de surintendant, vous serez mis au courant des opérations importantes (y compris les situations où le BSIF conclut qu’une opération ne devrait pas être effectuée pour des raisons de prudence) au fur et à mesure.
+
+##### Le processus d’agrément
+
+1. Le BSIF reçoit une demande officielle et il l’enregistre dans le Système de gestion des cas (SGC). L’équipe des Approbations examine la demande pour s’assurer que tous les renseignements pertinents s’y trouvent, comme cela est indiqué dans les instructions relatives aux opérations sur le site Web externe du BSIF.
+2. Une fois que tous les renseignements ont été fournis (y compris le renvoi de l’opération par la Surveillance du BSIF) et que le demandeur a répondu à toutes les questions de suivi du BSIF, la demande est jugée complète et reçue. Une fois qu’un accusé de réception de la demande est remis au demandeur, le décompte commence au regard des normes de service du BSIF.
+3. Une fois que l’équipe des Approbations a terminé son examen, le chargé de dossier rédige une note qui énonce le calendrier, les faits importants, les analyses du dossier ainsi qu’une recommandation d’approuver la demande. Dans certains cas, l’agrément peut dépendre de certaines conditions.
+4. Une fois le cycle d’examen interne terminé, l’équipe des Approbations fait part de ses recommandations au surintendant auxiliaire, Secteur de la réglementation, ou au ministre des Finances. Une fois la demande approuvée, le chargé de dossier rédige et envoie un avis au demandeur l’informant que l’agrément a été accordé.
+
+##### Demandes d’établissement
+
+Toutes les demandes visant l’obtention d’un agrément de banque, de société de fiducie fédérale, de société de prêt ou de société d’assurance sont assujetties à un examen en quatre étapes :
+
+1. **Préparation à la demande :** Cela comprend l’examen d’un ensemble limité de documents (p. ex. plan d’affaires proposé). Le BSIF conclut son examen en se prononçant sur les risques importants et il en fait part au demandeur.
+2. **Demande officielle d’agrément ministériel :** Le demandeur publie son intention d’obtenir un permis fédéral. Le BSIF examine l’ensemble complet des documents de la demande, y compris les politiques proposées, et formule une recommandation au ministre des Finances au sujet des lettres patentes.
+3. **Ordonnance d’agrément préalable :** En général, le BSIF effectue un examen sur place avant le début des activités (cela ne s’applique pas aux nouvelles sociétés d’assurance). L’équipe des Approbations présente sa recommandation au surintendant de délivrer l’autorisation de fonctionnement.
+4. **Surveillance et réglementation par le BSIF :** Le demandeur commence à exercer des activités à titre d’IFF et est l’objet de la surveillance continue du BSIF.
+
+##### Sous-section de l’administration des valeurs mobilières et de la reddition de comptes sur les approbations
+
+* Examine et approuve les actes de fiducie (sociétés d’assurance) et les contrats de dépôt (banques) pour les nouveaux demandeurs étrangers (succursales) et les succursales qui changent de fiduciaires ou de dépositaires.
+* Administre le processus visant à obtenir de la Surveillance l’autorisation de libérer et de placer en fiducie des actifs détenus dans :
+  + des comptes d’actifs en fiducie pour les succursales d’assurance multirisque et d’assurance vie;
+  + des comptes de dépôt des succursales de banques étrangères.
+* Examine et accepte les lettres de crédit (et toutes les modifications subséquentes) avant de pouvoir les utiliser comme sûreté à des fins de crédit de capital.
+* Administre les contrats de sûreté en réassurance (CSR) – pour s’assurer que les sociétés d’assurance canadiennes sont admissibles à un crédit de capital/actif au titre de la réassurance non agréée si elles détiennent des sûretés au Canada.
+* Fournit de l’aide aux IFF concernant les processus d’acquisition d’actifs.
+* Gère les relations avec les fiduciaires et voit à ce qu’ils se conforment aux règles et règlements du BSIF.
+
+### Régimes de retraite privés
+
+#### Réglementation et surveillance
+
+La Loi de 1985 sur les normes de prestation de pension (LNPP) exige que les administrateurs de régime demandent l’approbation du surintendant pour différents types d’opérations touchant les régimes de retraite, y compris l’exploitation et la cessation d’un régime, le transfert d’éléments d’actif, le remboursement de l’excédent et la réduction des prestations. L’agrément ministériel n’est pas requis pour les demandes de régimes de retraite. Toutefois, une disposition de la LNPP qui permet à un employeur en difficulté de négocier une nouvelle entente de financement avec les participants au régime et les retraités exige l’agrément du ministre.
+
+Les régimes de pension agréés collectifs (RPAC) ont été établis au titre de la Loi sur les régimes de pension agréés collectifs et des règlements connexes afin de permettre aux employeurs et aux travailleurs autonomes relevant de la compétence fédérale de mettre en commun leurs cotisations aux fins de placement. En ce qui concerne la surveillance, les attributions du BSIF à l’égard des RPAC sont semblables à celles qu’il a à l’égard des régimes de retraite à cotisations déterminées agréés aux termes de la LNPP. Une différence, cependant, c’est que les administrateurs de RPAC doivent obtenir un permis du BSIF avant de pouvoir faire agréer et offrir un RPAC. Les conditions auxquelles une personne morale doit satisfaire pour obtenir un permis sont énoncées dans le Règlement sur les RPAC.
+
+Jusqu’à maintenant, la plupart des demandeurs étaient des sociétés d’assurance. Le BSIF est également responsable de la délivrance de permis, de l’agrément et de la surveillance des RPAC dont les activités relèvent à la fois du gouvernement fédéral et d’une province participant à l’Accord multilatéral sur les régimes de pension agréés collectifs et les régimes volontaires d’épargne-retraite (Colombie Britannique, Manitoba, Nouvelle-Écosse, Ontario, Québec et Saskatchewan), bien que des exceptions s’appliquent aux régimes volontaires d’épargne-retraite du Québec.
+
+#### Cadre d’évaluation des risques
+
+À l’instar du Cadre de surveillance des IFF, le BSIF a élaboré un Cadre d’évaluation des risques visant les régimes de retraite privés fédéraux. Le BSIF dispose également d’un cadre d’intervention anticipée et d’agrément pour les régimes de retraite privés. La LNPP accorde au surintendant une vaste gamme de pouvoirs d’intervention dans les situations qui préoccupent le BSIF.
+
+#### Guide en matière d’intervention
+
+Le Guide d’intervention des régimes de retraite privés fédéraux du BSIF décrit les types d’interventions, qui peuvent comprendre la cessation d’un régime de retraite, le remplacement d’un administrateur de régime ou l’obligation de divulguer des renseignements supplémentaires aux participants au régime. Comme c’est le cas pour les institutions financières, le ministre n’a aucun rôle législatif à jouer dans les interventions du BSIF à l’égard des régimes de retraite privés.
+
+## Coordination de politiques
+
+### Coordination nationale
+
+#### Comité de surveillance des institutions financières (CSIF)
+
+Le Comité de surveillance des institutions financières (CSIF) est un comité réglementaire (défini dans la Loi sur le BSIF) présidé par le surintendant qui organise une réunion tous les trimestres, ou plus souvent si nécessaire, pour faciliter l’échange d’information sur les questions relatives à la surveillance des institutions financières fédérales (IFF). Le CSIF (parmi ses membres figurent également le gouverneur de la Banque du Canada, le sous-ministre des Finances, le président et chef de la direction de la Société d’assurance-dépôts du Canada [SADC] et le commissaire de l’Agence de la consommation en matière financière du Canada [ACFC]) est également le principal comité de coordination et de communication entre les organismes fédéraux en ce qui concerne les stratégies et les plans d’action pour régler les problématiques des IFF et d’autres enjeux émergents qui peuvent avoir une incidence sur la santé des IFF. Le CSIF n’est pas un organe décisionnel. Il est appuyé par un secrétariat pour ce qui est de la gestion des éléments opérationnels associés au CSIF. Il y a aussi des réunions trimestrielles d’un sous-groupe du CSIF qui se réunit pour préparer les réunions du CSIF et discuter de façon approfondie des principaux risques liés aux IFF et au secteur financier.
+
+Le cycle de réunion du CSIF suit un processus de planification générale selon lequel le secrétariat prépare une ébauche d’ordre du jour du CSIF pour discussion au sous-groupe, qui est ensuite validé auprès du surintendant, des surintendants auxiliaires et des directeurs principaux concernés dans le cadre d’une séance de planification du CSIF. Une fois l’ordre du jour confirmé, les documents de réunion sont préparés et distribués par le secrétariat, par le biais du portail du CSIF du BSIF. Après les réunions du CSIF, le secrétariat prépare le procès-verbal officiel de la réunion, qui est transmis à la direction du BSIF et aux dirigeants des organismes du CSIF aux fins de commentaires. Le procès-verbal est approuvé officiellement à la prochaine réunion du CSIF. Le secrétariat prend également note des mesures à prendre et assure le suivi.
+
+#### Comité consultatif supérieur (CCS)
+
+Le Comité consultatif supérieur (CCS) se rencontre sur une base trimestrielle pour faciliter la discussion sur les principales questions stratégiques touchant le secteur financier, notamment la stabilité financière et les vulnérabilités systémiques, dans l’intention de conseiller le ministre des Finances. Ses membres sont les mêmes que ceux du CSIF, et le sous-ministre des Finances en est le président. Le CCS assure la coordination des activités des organismes et évalue les répercussions des mesures stratégiques sur les IFF et le système financier plus globalement. Le CCS est un organisme informel (non législatif), mais il est en place depuis de nombreuses années et son rôle est bien établi.
+
+Avant chaque réunion du CCS, il y a un « sous-CCS » entre les sous-directeurs et d’autres hauts fonctionnaires de chaque organisme pour discuter des enjeux plus en détail et évaluer les recommandations en cours de préparation pour le CCS. Le surintendant auxiliaire, Secteur de la réglementation, représente le sous-comité du CCS au BSIF. Le sous-CCS compte également un certain nombre de groupes de travail qui évaluent et effectuent un travail interorganismes exhaustif sur des questions précises (p. ex., résolution, financement du logement), et qui transmettent l’information et les recommandations au sous-CCS et, en fin de compte, au CCS. La Société canadienne d’hypothèques et de logement (SCHL) est périodiquement invitée à assister aux réunions du sous-CCS et du CCS pour discuter de questions en matière de logement, au besoin.
+
+Le ministère des Finances fournit des documents sous forme électronique aux organismes environ une semaine avant la réunion. Ces documents sont habituellement préparés par le personnel du ministère des Finances. Toutefois, selon le sujet, d’autres organismes fournissent également divers documents (exposés, présentations, etc.) pour discussion, que ce soit directement ou par l’entremise de groupes de travail. Habituellement, tous ces documents ont été transmis sous forme d’ébauche au personnel de niveau opérationnel et aux experts en la matière de tous les organismes pour obtenir leurs réactions, leurs commentaires et leurs suggestions de révisions avant les réunions du sous-CCS et du CCS. Par conséquent, les Finances fonctionnent généralement selon la politique « sans surprise ». Des séances d’information internes pour le surintendant ont lieu avant les réunions du CCS.
+
+#### Société d’assurance-dépôts du Canada (SADC)
+
+##### Conseil d’administration
+
+Le conseil d’administration de la SADC se réunit tous les trimestres pour délibérer et fournir une orientation stratégique sur les affaires de la Société, y compris l’approbation de son plan de direction, de ses règlements administratifs et d’autres résolutions. Au-delà des affaires générales de la SADC, le conseil discute également des stratégies de résolution pour les institutions de dépôt « en difficulté » (c.‑à‑d. celles qui sont sur la liste de surveillance de la SADC) et des questions stratégiques clés du secteur financier. Le conseil participe également à des exercices sur table portant sur la préparation aux crises. Le surintendant et le surintendant auxiliaire du Secteur de la surveillance des institutions de dépôt, sont des administrateurs d’office, tout comme les administrateurs généraux des autres organismes fédéraux du secteur financier.
+
+La SADC fournit des documents sous forme électronique aux membres du conseil et à un nombre très limité d’employés sur un site Web à accès contrôlé environ une à deux semaines avant les réunions du conseil. Les documents pertinents du conseil sont distribués aux experts en la matière du BSIF pour commentaires. Une fois tous les commentaires intégrés, une note d’information est préparée pour le surintendant et le surintendant auxiliaire du Secteur de la surveillance des institutions de dépôts.
+
+Le personnel de la SADC et celui du BSIF travaillent en étroite collaboration pour se fournir mutuellement des renseignements et des analyses à jour sur la situation des institutions préoccupantes. Bien que la SADC fonde ses propres documents sur les données du BSIF, les observations des secteurs de la surveillance du BSIF aident à clarifier les tendances, la fiabilité de certaines données et les changements importants aux institutions de dépôt, en plus de définir le contexte des risques présentés par les diverses institutions de dépôt. De même, le personnel des approbations fournit au personnel de la SADC des renseignements opportuns et exacts sur l’état des demandes ou des changements aux institutions de dépôt.
+
+L’Entente d’alliance stratégique est établie entre les deux organisations pour promouvoir la coopération, particulièrement en ce qui a trait à l’échange d’information. Cette entente a été renouvelée en 2020.
+
+En ce qui concerne tout conflit possible qui peut survenir de temps à autre (p. ex., lorsque les fonctions ou les décisions du surintendant peuvent dévier d’une orientation proposée par la SADC), les fonctions du surintendant en tant qu’administrateur du conseil d’administration de la SADC ont été interprétées juridiquement comme accessoires et subordonnées au bureau principal du surintendant. Par conséquent, dans l’éventualité peu probable où un conflit surviendrait, le surintendant devrait s’abstenir de voter sur la question pertinente et, en sa qualité de directeur de la SADC, il devrait cesser de s’occuper de la question. Toutefois, en tant que membre d’office du conseil d’administration de la SADC, le surintendant doit conserver un siège à titre de membre du conseil.
+
+#### Dirigeants des organismes de réglementation (HoA)
+
+Les réunions des dirigeants d’organismes de réglementation ont lieu tous les trimestres et servent de tribune aux autorités fédérales du secteur financier et aux organismes provinciaux de réglementation des valeurs mobilières pour échanger de l’information et des points de vue, et pour coordonner les mesures prises à l’égard des enjeux liés aux marchés financiers canadiens (p. ex., financement durable, fonctionnement du marché, instruments dérivés et autres instruments, système bancaire parallèle, système bancaire ouvert et autres questions de « périmètre de réglementation »). Les réunions sont présidées par le gouverneur de la Banque du Canada, et ses membres comprennent le surintendant, le sous-ministre des Finances (ou son délégué) et les dirigeants des organismes de réglementation des valeurs mobilières de l’Alberta, de la Colombie-Britannique, de l’Ontario et du Québec. La Banque du Canada fournit des services de secrétariat aux dirigeants des organismes de réglementation. Avant chaque réunion, il y a une téléconférence entre les hauts fonctionnaires de chaque organisme (c.-à-d. au niveau du surintendant auxiliaire) pour mettre la touche finale à l’ordre du jour de la réunion. Il existe actuellement deux sous-groupes de travail chez les dirigeants, le Groupe de travail sur les produits dérivés de gré à gré (actuellement présidé par la Commission des valeurs mobilières de l’Ontario [CVMO]) et le Groupe de travail responsable des cryptoactifs (actuellement présidé par la Banque).
+
+La Banque du Canada regroupe les documents de discussion fournis par les dirigeants individuellement et les distribue sous forme électronique à tous les membres quelques jours avant la réunion. Les documents des dirigeants sont distribués au personnel du BSIF, au besoin, en vue de la rédaction de notes d’information à l’intention du surintendant. Une réunion préparatoire a lieu quelques jours avant chaque réunion des dirigeants des organismes de réglementation de sorte que le surintendant puisse poser des questions sur les documents d’information et les points à l’ordre du jour.
+
+Le BSIF fait habituellement le point sur les domaines importants du secteur financier sous réglementation fédérale qui peuvent intéresser les dirigeants des organismes de réglementation (p. ex., tendances en matière de fonds propres et de liquidité, risque climatique/financement durable, etc.). Toutefois, le BSIF ne contribue généralement pas aux points à l’ordre du jour liés aux pratiques commerciales, au-delà des points d’intérêt liés à son travail sur la culture et la déontologie.
+
+#### Conseil canadien des responsables de la réglementation d’assurance (CCRRA)
+
+Le Conseil canadien des responsables de la réglementation d’assurance (CCRRA) est une association intergouvernementale d’organismes de réglementation de l’assurance dont le mandat est de faciliter et de promouvoir un système de réglementation de l’assurance efficient et efficace au Canada pour servir l’intérêt public. Les organismes de surveillance du secteur financier de toutes les provinces et de tous les territoires sont membres du CCRRA, tandis que le BSIF représente le gouvernement fédéral à titre de membre associé (sans droit de vote). Le BSIF est représenté par des cadres supérieurs aux réunions trimestrielles du CCRRA. Le BSIF a accru son engagement auprès du CCRRA dans le cadre d’un exercice de renforcement des relations avec les organismes de réglementation provinciaux et les entités connexes. Le CCRRA offre une tribune utile pour échanger de l’information sur une société d’assurance qui pose problème, si la situation le justifie. Le surintendant ne participe pas au CCRRA.
+
+#### Association des superviseurs prudentiels des caisses (ASPC)
+
+L’Association des superviseurs prudentiels des caisses (ASPC) est une association interprovinciale composée d’assureurs-dépôts et de superviseurs prudentiels de coopératives de crédit au Canada. L’ASPC a pour mandat de promouvoir la réglementation et la supervision efficaces des coopératives de crédit et des caisses populaires canadiennes. Le BSIF est représenté par des cadres supérieurs aux réunions trimestrielles de l’ASPC et fait le point sur des sujets d’intérêt pour les organismes de réglementation provinciaux. Le BSIF a également la possibilité de demander des renseignements sur divers sujets aux provinces. Le BSIF a accru son engagement auprès de l’ASPC, car celle-ci offre une tribune pour discuter et échanger de l’information sur les tendances des risques. Cela permet au BSIF de cerner les risques qui se concrétisent dans le système des coopératives de crédit et de surveiller l’émergence de ces risques dans le système fédéral. Le surintendant ne participe pas à l’ASPC.
+
+#### Comité de résolution de l’infrastructure des marchés financiers (IMF)(CR-IMF)
+
+Le CR-IMF a pour but de faciliter la consultation au niveau fédéral et l’échange d’information sur les questions relatives à la résolution des infrastructures des marchés financiers canadiens (IMF); il est présidé par le gouverneur de la Banque du Canada et regroupe le Bureau du surintendant des institutions financières, la Société d’assurance-dépôts du Canada et le ministère des Finances du Canada. Le président anime les réunions pour consulter les membres sur les questions liées à l’élaboration et à l’actualisation des plans de résolution pour les IMF et d’autres questions de résolution. Les membres formulent des recommandations sur la faisabilité et la crédibilité des plans de résolution pour les IMF et participent à toute initiative conjointe nécessaire pour s’assurer que les autorités fédérales peuvent coordonner efficacement une résolution concernant une IMF.
+
+#### Association canadienne des organismes de contrôle des régimes de retraite (ACOR)
+
+L’ACOR est une association nationale des organismes de contrôle des régimes de retraite qui a pour mission de favoriser l’efficacité et l’efficience du système canadien de réglementation des régimes de retraite. Elle élabore des solutions pratiques pour simplifier et uniformiser encore davantage la réglementation sur les régimes de retraite à l’échelle du Canada. L’ACOR offre une tribune où les organismes de réglementation des régimes de retraite du Canada échangent de l’information sur les questions de réglementation dans leur secteur de compétence et, dans la mesure du possible, collaborent à l’élaboration de solutions pour les régler. Tous les trois ans, l’ACOR établit un certain nombre de priorités stratégiques qui encadrent ses initiatives. L’ACOR élabore des politiques et des lignes directrices réglementaires pour améliorer l’administration des régimes de retraite et aider les administrateurs à s’acquitter de leur obligation fiduciaire, tout en améliorant la protection offerte aux participants des régimes de retraite partout au Canada.
+
+Le BSIF est membre de l’ACOR et participe à divers comités et groupes de travail pour faire progresser les initiatives actuelles de l’ACOR. Le personnel du BSIF assiste aux réunions trimestrielles de l’ACOR où les comités font le point sur leurs travaux, des sujets d’intérêt sont débattus et de l’information est échangée entre les organismes de réglementation provinciaux. Le surintendant ne participe pas à l’ACOR.
+
+### Organismes de normalisation internationaux
+
+#### Conseil de stabilité financière (CSF)
+
+Le Conseil de stabilité financière (CSF), établi en 2009 en réponse à la crise financière, vise à coordonner, au niveau international, les travaux des autorités financières nationales et des instances internationales de normalisation (Comité de Bâle sur le contrôle bancaire [CBCB], Association internationale des contrôleurs d’assurance [AICA] et Organisation internationale des commissions de valeurs [OICV]), en vue d’élaborer et de promouvoir la mise en œuvre de politiques efficaces sur le plan de la réglementation et de la surveillance, ainsi que dans d’autres aspects du secteur financier. Le CSF se concentre actuellement sur la mise en œuvre des réformes du secteur financier du G20. Le CSF est actuellement présidé par le vice-président de la Réserve fédérale américaine, Randal K. Quarles.
+
+#### Conseils stratégiques et coordination
+
+Le FSB Secretariat (Secrétariat du CSF) distribue des documents électroniques aux membres du CSF avant les réunions (habituellement de 7 à 10 jours avant une réunion, mais souvent moins depuis le début de la pandémie). Une équipe reçoit les documents du CSF et mène des consultations à l’interne en vue de la rédaction d’une note d’information à l’intention du surintendant. Les notes sont envoyées directement au surintendant lorsqu’elles sont prêtes. Une réunion préparatoire a lieu quelques jours avant chaque réunion du CSF afin d’informer le surintendant (contexte, interventions possibles) et lui permettre de poser des questions. Le processus est semblable pour toutes les réunions du CSF auxquelles participe le surintendant.
+
+#### Comités du CSF et membres canadiens
+
+##### Plenary (Comité plénier du CSF)
+
+Le Comité plénier est le seul organe décisionnel du CSF. Les décisions du Comité plénier sont prises par consensus. Le Comité plénier a un certain nombre de responsabilités, notamment l’approbation du programme de travail et du budget du CSF, l’adoption de rapports, de principes, de normes, de recommandations et d’orientations élaborés par le CSF et, de façon plus générale, la prise de décisions sur toute autre question régissant les activités et les affaires du CSF. Le Comité plénier est le plus important des groupes du CSF, comptant près de 75 représentants. Le surintendant siège à ce comité. Le ministère des Finances et la Banque du Canada sont les autres institutions canadiennes présentes au Comité plénier.
+
+##### Steering Committee (Comité directeur)
+
+Le Comité directeur fournit une orientation opérationnelle entre les réunions du Comité plénier pour appuyer ce dernier et faire avancer les orientations du CSF. Le Comité directeur surveille et oriente les progrès du travail continu du CSF, favorise la coordination entre les comités permanents, les organismes d’établissement de normes et d’autres groupes de travail, et assure la circulation efficace de l’information vers tous les membres du CSF. Le Comité directeur compte environ la moitié des représentants du Comité plénier. À ce jour, le surintendant a été le seul représentant canadien au Comité directeur.
+
+##### Standing Committee on Assessment and Vulnerabilities (Comité permanent du CSF sur l’évaluation des vulnérabilités)
+
+Les fonctions du Standing Committee on Assessment and Vulnerabilities (SCAV) consistent à surveiller et à évaluer les vulnérabilités qui touchent le système financier mondial et à proposer au Comité plénier les mesures nécessaires pour y remédier; à surveiller l’évolution du marché et du système, ainsi que leurs répercussions sur les politiques de réglementation, et à offrir des conseils à cet égard; et à contribuer à l’exercice d’alerte avancée (Early Warning Exercise) en collaboration avec le Fonds monétaire international. La Banque du Canada représente le Canada au sein du SCAV.
+
+##### Standing Committee on Supervisory and Regulatory Cooperation (Comité permanent de coopération en matière de surveillance et de réglementation)
+
+Voici les fonctions du Standing Committee on Supervisory and Regulatory Cooperation (SRC) :
+
+* régler les principaux problèmes de stabilité financière liés à l’élaboration des politiques de surveillance et de réglementation et chercher à faire en sorte que les différentes initiatives stratégiques forment un tout cohérent;
+* aider à gérer les questions qui nécessitent une coordination entre les superviseurs et les organismes de réglementation (p. ex., les questions qui ont des répercussions intersectorielles);
+* cerner les secteurs qui pourraient nécessiter l’élaboration de politiques pour combler les lacunes réglementaires;
+* établir des lignes directrices pour la création des collèges de surveillance, et superviser leur mise en place;
+* fournir des conseils sur les pratiques exemplaires en matière de respect des normes de réglementation et surveiller leur application dans le but d’assurer la cohérence, la coopération et des règles du jeu équitables entre les administrations.
+
+Le surintendant représente le Canada au sein du SRC. Depuis juillet 2020, le surintendant a délégué ce rôle au surintendant auxiliaire du Secteur de la surveillance des institutions de dépôt.
+
+##### Standing Committee on Standards Implementation (Comité permanent de la mise en œuvre des normes)
+
+Les fonctions du Standing Committee on Standards Implementation (SCSI) consistent à assurer un suivi complet et rigoureux de la mise en application des normes financières internationales, des engagements convenus du G20 et du CSF, et d’autres recommandations, au moyen de mécanismes comme le Cadre de coordination pour le suivi de la mise en œuvre. Le SCSI procède également à des examens par les pairs parmi ses membres et présente au comité plénier des rapports sur les engagements des membres et les progrès réalisés dans la mise en œuvre des politiques et des engagements convenus. Le ministère des Finances représente le Canada au sein du SCSI.
+
+##### Groupes de travail du CSF
+
+Il y a un certain nombre de groupes de travail au CSF, qui relèvent habituellement d’un comité permanent, qui ont été formés pour s’attaquer à des problèmes particuliers. Les membres canadiens du CSF, y compris le BSIF, participent parfois à ces groupes, habituellement au niveau opérationnel. Le surintendant auxiliaire du Secteur de la surveillance des institutions de dépôt copréside actuellement le groupe de travail sur le risque climatique. Le surintendant Jeremy Rudin a présidé la Table ronde du CSF sur l’audit externe au cours des dernières années.
+
+##### Relations entre le SCAV, le SRC et le SCSI
+
+![Comités du Conseil de stabilité financière (CSF) - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img21-fra.jpg)
+
+Version textuelle - Comités du Conseil de stabilité financière (CSF)
+
+Ce schéma indique les relations entre trois comités du Conseil de stabilité financière (CSF) et la manière dont le mandat de chaque comité contribue à orienter les travaux des autres comités. Il est constitué de trois cercles (représentant les trois comités du CSF) qui vont de l’un à l’autre. Le premier cercle correspond au Comité permanent sur l’évaluation des vulnérabilités (CPEV du CSF), qui est chargé de l’évaluation des vulnérabilités. Ses travaux contribuent à orienter les travaux du Comité permanent de coopération en matière de surveillance et de réglementation (CPCSR du CSF), le deuxième cercle, qui est responsable de l’élaboration et de la coordination des politiques. Ce cercle va ensuite jusqu’au suivant, qui représente le Comité permanent de la mise en œuvre des normes (CPMN du CSF). Les travaux du CPCSR contribuent à orienter les travaux du CPMN, qui est responsable du suivi de la mise en œuvre et des effets des réformes.
+
+##### Le rôle de l’équipe des Liaisons et politiques stratégiques
+
+* Préparer les documents d’information en prévision des réunions du CSF.
+* Coordonner les commentaires de divers experts en la matière et structurer la réunion préparatoire.
+* Assurer la liaison avec les partenaires externes (Banque du Canada, ministère des Finances, Autorités canadiennes en valeurs mobilières, etc.)
+
+##### Cadence des réunions
+
+###### Avant la pandémie
+
+**Cycle**
+
+* Le cycle du CSF suit habituellement celui du G20 (c.-à-d. qu’il correspond au début et à la fin des sommets du G20).
+* Le travail se termine souvent avec la remise de la version finale des rapports et des recommandations aux dirigeants du G20 (souvent en novembre).
+
+**Fréquence des réunions**
+
+* Réunions du Comité plénier du CSF : 2 à 3 par année
+* Réunions du Comité directeur du CSF : 2 à 3 par année
+* Réunions du SRC du CSF : 3 à 4 par année
+* Réunions des groupes de travail du CSF (avec la participation du surintendant) : 2 à 4 par année
+
+**Formule**
+
+* Principalement des réunions en personne, mais aussi des conférences téléphoniques
+
+###### Durant la crise de la COVID-19
+
+* Réunions du CSF plus fréquentes (mais plus courtes)
+* Depuis mars 2020, toutes les réunions sont virtuelles (par conférence téléphonique). Le CSF réexaminera la pratique en 2021 et envisagera la tenue de séances en personne.
+* Calendrier beaucoup plus condensé (le Secrétariat du CSF livre souvent les documents juste à temps).
+
+#### Groupe des gouverneurs de banque centrale et des responsables du contrôle bancaire (GHOS)
+
+Le Groupe des gouverneurs de banque centrale et des responsables du contrôle bancaire est l’organisme de supervision du Comité de Bâle sur le contrôle bancaire (CBCB). Le CBCB relève du GHOS et demande son approbation pour les décisions importantes. Le GHOS se réunit au besoin, mais au moins une fois par année, pour examiner le programme de travail et les priorités stratégiques du CBCB. Le surintendant et le gouverneur de la Banque du Canada représentent le Canada à la table du GHOS.
+
+En plus d’approuver les décisions importantes, le GHOS :
+
+* approuve la charte du CBCB et toute modification afférente;
+* fournit une orientation générale pour le programme de travail et les priorités stratégiques du CBCB;
+* nomme le président du CBCB parmi ses membres.
+
+Il n’y a actuellement aucun processus d’information officiel (c.-à-d. réunion permanente) en préparation des réunions du GHOS. Les séances d’information sont préparées de façon ponctuelle, en fonction des documents reçus avant les réunions. Le processus d’information spécial est dirigé par la Division des fonds propres.
+
+#### Comité de Bâle sur le contrôle bancaire (CBCB)
+
+Le Comité de Bâle sur le contrôle bancaire (CBCB) est le principal organisme d’établissement de normes prudentielles pour les banques à l’échelle mondiale et sert de tribune de collaboration à l’égard des questions de surveillance. Il a pour mandat de resserrer la réglementation, la surveillance et les pratiques des banques dans le monde entier dans le but de renforcer la stabilité financière.
+
+Le CBCB cherche à réaliser son mandat au moyen des activités suivantes :
+
+* échanger des informations sur l’évolution du secteur bancaire et des marchés financiers afin d’aider à cibler les risques actuels ou émergents pour le système financier mondial;
+* la mise en commun des questions, approches et techniques de surveillance afin de promouvoir une compréhension commune et d’améliorer la coopération transfrontalière;
+* établir et promouvoir des normes mondiales pour la réglementation et la surveillance des banques, ainsi que des lignes directrices et de saines pratiques;
+* combler les lacunes en matière de réglementation et de surveillance qui posent des risques pour la stabilité financière;
+* surveiller la mise en œuvre des normes du CBCB dans les pays membres et au-delà dans le but d’assurer leur mise en œuvre rapide, cohérente et efficace et de contribuer à l’établissement de « règles du jeu équitables » entre les banques actives à l’échelle internationale;
+* consulter les banques centrales et les autorités de surveillance des banques qui ne sont pas membres du CBCB pour bénéficier de leur contribution au processus de formulation des politiques du CBCB et promouvoir la mise en œuvre des normes, lignes directrices et bonnes pratiques du CBCB au-delà des pays membres du CBCB;
+* coordonner et collaborer avec d’autres organismes internationaux et organismes de normalisation du secteur financier, en particulier ceux qui s’occupent de promouvoir la stabilité financière.
+
+Le CBCB ne possède aucun pouvoir supranational officiel. Ses décisions n’ont pas force de loi. Le CBCB compte plutôt sur les engagements de ses membres pour réaliser son mandat.
+
+Les membres du CBCB comprennent des organisations disposant d’une autorité de surveillance bancaire directe et des banques centrales. Après avoir consulté le comité, le président du CBCB peut inviter d’autres organisations à devenir observateurs. Le BSIF (surintendant auxiliaire, Secteur de la réglementation) et la Banque du Canada représentent le Canada auprès du CBCB.
+
+Il existe un processus bien établi pour les séances d’information sur le CBCB, auxquelles le surintendant peut assister pour se tenir au courant des faits nouveaux.
+
+![Comité de Bâle sur le contrôle bancaire - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img22-fra.jpg)
+
+Version textuelle - Comité de Bâle sur le contrôle bancaire
+
+##### Comité de Bâle sur le contrôle bancaire
+
+* Niveau 1
+  + Comité de Bâle  
+    Ben Gully
+    - Niveau 2
+      * Groupe d’évaluation des risques et vulnérabilités  
+        **Mate Glavota**
+      * Groupe des normes et politiques  
+        **Amar Munipalle**
+      * Groupe de coopération en matière de surveillance  
+        **Kathryn Dickson, Ben Gully (coprésident)**
+      * Groupe consultatif de Bâle  
+        **Steve Bevington**
+    - Niveau 3
+      * **Groupes de travail (GT)**
+        + GT sur les risques financiers liés au climat  
+          **Michael Chase**
+        + GT sur les évaluations (représentant de la BdC et coprésident)
+        + GT sur l’examen aux termes du PECR  
+          **Ben Gully**
+        + GT sur la collecte de données (pas de représentant canadien)
+      * **Groupes d’experts**
+        + Risque de crédit et grands risques  
+          **Patrick Tobin; Brian Rumas (coprésident)**
+        + Titrisation  
+          **Matthew Gordon**
+        + Recherche (représentant de la BdC)
+        + Risque de marché  
+          **Leo Bozza**
+        + Communication d’informations financières  
+          **Javinder Sidhu**
+        + Comptabilité et audit  
+          **Renee Chen**
+        + Fonds propres et ratio de levier  
+          **Liane Orsi**
+        + Technologies financières  
+          **Joshua Tang**
+        + Simulation de crise  
+          **Tamara VanDeWalle**
+        + Liquidité  
+          **Robert Bélanger**
+        + Deuxième pilier  
+          **Regis Dahany**
+        + Lutte contre le recyclage des produits de la criminalité  
+          **Erin Feeney**
+        + Exigences de marge (surveillance du BSIF; pas de représentant officiel)
+        + Résilience opérationnelle  
+          **John Preiato**
+        + Études d’impact quantitatives  
+          **Sungchul Shin**
+
+#### Association internationale des contrôleurs d’assurance (AICA)
+
+L’Association internationale des contrôleurs d’assurance (AICA) est une association de membres volontaires de surveillants et d’organismes de réglementation de l’assurance de plus de 200 administrations dans près de 140 pays. Le Canada (BSIF) a joué un rôle déterminant dans sa création et au début de son développement.
+
+La mission de l’AICA consiste, d’une part, à promouvoir l’efficacité et la cohérence mondiale de la surveillance du secteur de l’assurance afin de veiller à l’équité, à la sécurité et à la stabilité des marchés de l’assurance, pour le bien et la protection des titulaires de police et, d’autre part, à contribuer à la stabilité financière mondiale.
+
+L’AICA est l’organisme international chargé d’élaborer des principes, des normes et d’autres documents d’appui pour la surveillance du secteur de l’assurance et d’aider à les mettre en œuvre. L’AICA offre également une tribune aux membres et aux observateurs pour qu’ils puissent mettre en commun leurs expériences et leur compréhension de la surveillance de l’assurance et des marchés de l’assurance. En reconnaissance de son expertise collective, l’AICA est régulièrement sollicitée par le CSF et d’autres organismes internationaux de normalisation.
+
+Le BSIF participe à plusieurs comités et sous-comités. En date de mai 2021, sept employés du BSIF participaient aux comités et aux groupes de l’AICA. Parmi les comités principaux auxquels participe le BSIF figurent le Comité de direction de l’AICA, le Comité d’élaboration des politiques, le Comité de mise en œuvre et d’évaluation (Implementation and Assessment Committee) (en date de février 2021) et le Comité macroprudentiel. Le personnel du BSIF participe également à certains groupes de travail qui relèvent de ces comités principaux.
+
+Le BSIF participe à plusieurs comités et sous-comités de l’AICA.
+
+#### Senior Supervisors Group (Groupe des surveillants principaux) (SSG)
+
+Le Senior Supervisors Group (SSG) est un forum pour les hauts représentants des autorités de surveillance prudentielle visant à engager le dialogue sur les pratiques de gestion des risques, la gouvernance et d’autres questions concernant les institutions financières complexes et actives à l’échelle mondiale. Le groupe est composé de cadres supérieurs des autorités de surveillance bancaire des états d’attache de ces institutions. Le SSG tire parti du réseau de relations du groupe pour échanger de l’information sur les approches de surveillance et s’engage également auprès du secteur des services financiers à mieux comprendre les nouveaux défis et les risques émergents systémiques auxquels font face les institutions d’importance. Le SSG est un forum utile pour harmoniser la réflexion et les priorités en matière de supervision entre les administrations, et il a été utile pendant la crise financière de 2008. Les réunions du SSG ont habituellement lieu trois fois par année et le surintendant auxiliaire, Surveillance des institutions de dépôt, ou son remplaçant désigné y assiste.
+
+#### Approche de la représentation du BSIF au sein des groupes internationaux – gouvernance et coordination
+
+Un examen de la représentation du BSIF au sein des groupes internationaux a été effectué en janvier 2021. L’un des principaux objectifs de l’examen est de veiller à ce que notre niveau de participation et nos domaines de participation correspondent aux objectifs et aux priorités du BSIF, tels qu’ils sont énoncés dans le plan stratégique du BSIF. Cela nous permet également d’être actifs dans les domaines où nous voulons influencer les résultats.
+
+L’un des principaux points à retenir a été l’établissement d’un cadre de gouvernance et de coordination de la participation internationale à l’échelle du BSIF. Un groupe, composé de membres du CSF, du CBCB et de l’AICA, sera mis sur pied pour faire avancer ce dossier. Le mandat de ce groupe est en cours d’établissement. Le nouveau groupe sera présidé par le directeur principal, Division des fonds propres.
+
+### Aperçu des consignes du BSIF
+
+#### Qu’est-ce qu’une consigne du BSIF?
+
+Les consignes sont un volet important du cadre de réglementation du BSIF. Elles énoncent les attentes du Bureau à l’égard des limites prudentielles, des renseignements à communiquer, de la suffisance des fonds propres et des liquidités, des exigences législatives et de déclaration et des saines pratiques de gestion du risque. Le BSIF évalue la mesure dans laquelle les attentes sont respectées dans le cadre de ses travaux de surveillance et, au besoin, il peut avoir recours à des mesures statutaires (p. ex., ordonnance de conformité et ordonnance de capital) pour les faire respecter.
+
+Les consignes du BSIF peuvent prendre diverses formes selon les circonstances et les objectifs.
+
+Les **lignes directrices** à l’intention des IFF définissent les principales attentes du BSIF. Elles sont d’habitude fondées sur des principes et sont proportionnelles à la taille, à la complexité et au profil de risque des IFF. Quant aux lignes directrices s’adressant aux régimes de retraite privés (RRP), elles précisent habituellement les règles et les exigences énoncées dans les lois et règlements.
+
+Les **préavis** et les **décisions** ayant valeur de précédent (pour les IFF) ou les **bulletins** (pour les RRP) clarifient les lois ou les attentes figurant dans les lignes directrices existantes, officialisent les processus de surveillance ou assurent la transition à une directive plus durable, p. ex., une ligne directrice
+
+De temps à autre, s’il y a lieu, il publie aussi des **lettres** dans lesquelles il fait état de préoccupations ou de problèmes actuels et définit ses attentes.
+
+![Aperçu des consignes du BSIF - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img24-fra.jpg)
+
+Version textuelle - Aperçu des consignes du BSIF
+
+Ce schéma est constitué de trois formes disposées à la verticale et formant une maison. Un rectangle, à la base du schéma, représente le sol et indique « Lois et règlements ». Une forme plus proche d’un carré repose sur le rectangle et indique « Lignes directrices du BSIF ». Enfin, un triangle où l’on peut lire « Préavis, Lettres, Bulletins, Décisions ayant valeur de précédent » forme le toit de la maison.
+
+#### Cadre du BSIF pour établir les priorités en matière de consignes
+
+Dans un environnement normal, le BSIF s’appuie sur son Plan stratégique et se pose les questions suivantes pour déterminer l’ordre de priorité des consignes :
+
+* **Suffisance de la réglementation :**   
+  Dans les consignes actuelles, les attentes à l’endroit des IFF et des RRP sont-elles établies clairement et sont-elles suffisantes et crédibles? Dans l’ensemble, manque‑t‑il des consignes?
+* **Capacité de surveiller :**   
+  Le BSIF peut‑il évaluer la mesure dans laquelle les IFF se conforment aux attentes énoncées dans les consignes?
+* **Proactivité :**   
+  Y a‑t‑il des changements dans l’environnement opérationnel (dont des faits nouveaux sur le marché de même que des nouvelles politiques publiques, lois ou normes internationales) qui nécessitent une intervention proactive du BSIF ou prévoit‑on qu’il y en aura?
+
+![Cadre du BSIF pour établir les priorités en matière de consignes - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img25-fra.jpg)
+
+Version textuelle - Cadre du BSIF pour établir les priorités en matière de consignes
+
+Ce schéma représente un cercle continu qui relie trois sphères. La première sphère, « Suffisance de la réglementation », est connectée par une ligne à la question « Avons-nous une règle?/Avons-nous besoin d’une règle? ». La deuxième sphère, « Capacité de surveiller », est connectée par une ligne à la question « Pouvons-nous évaluer les institutions en fonction des consignes que nous avons? ». La troisième sphère, « Anticipation », est connectée par une ligne à la question « Y a-t-il des changements ou des difficultés dans l’environnement qui nécessitent une adaptation des consignes? ». Au milieu du cercle continu entouré des trois sphères, on peut lire « Ordre de priorité des consignes ».
+
+### Priorités stratégiques en vigueur
+
+Les trois principales priorités stratégiques à court terme sont énumérées en bleu dans le menu. Tous les autres dossiers sur les priorités stratégiques sont énumérés à titre d’information seulement (en gris). Le calendrier des politiques prudentielles à court terme du BSIF pour les IFF et les régimes de retraite est présenté dans notre [lettre du 6 mai à l’attention de l’industrie](/en/guidance/guidance-library/osfis-near-term-plan-prudential-policy-federally-regulated-financial-institutions-federally "OSFI’s Near-Term Plan of Prudential Policy for Federally Regulated Financial Institutions and Federally Regulated Private Pension Plans").
+
+#### Risque climatique
+
+##### Document de travail
+
+En janvier 2021, le BSIF a lancé une consultation avec [son document de travail sur le risque lié aux changements climatiques (PDF)](/sites/default/files/documents/clmt-rsk_fr.pdf). Cette consultation visait à amorcer une discussion avec des intervenants externes sur la gestion du risque climatique par les institutions financières fédérales (IFF) et les régimes de retraite fédéraux (RRF) dans le contexte des changements climatiques et de l’économie. En avril 2021, le BSIF avait reçu plus de 70 propositions de divers intervenants, allant des IFF, des RRF et de leurs associations sectorielles, aux organismes d’intérêt spécial et aux particuliers concernés. L’équipe des politiques prudentielles analyse la rétroaction et formule des recommandations pour les prochaines étapes.
+
+##### Gouvernance de projet
+
+Le projet de réponse réglementaire au risque climatique fait partie des travaux liés aux changements climatiques à l’échelle du Bureau, qui sont supervisés par le Comité directeur du risque climatique, qui lui relève du Comité des risques d’affaires (CRA). L’équipe des politiques prudentielles présentera au CRA, en juillet 2021, un résumé des commentaires et des recommandations découlant des consultations sur les prochaines étapes.
+
+##### Orientation réglementaire sur le risque non financier (RNF)
+
+Au début de 2021, les discussions internes (Secteur de la réglementation et Secteur de soutien du risque) visant à articuler l’« architecture » réglementaire des risques financiers et non financiers ont mené à la planification et à la priorisation de certains domaines d’orientation réglementaire en RNF. À la suite de ces discussions, une gamme complète de projets d’orientation en matière de réglementation en RNF a été achevée, s’étendant de 2021-2022 à 2022-2023, dans la poursuite de l’objectif no 2 du Plan stratégique. Les projets répondent également aux priorités établies dans la consultation publique du BSIF de l’automne 2020 sur la technologie et les risques connexes. En bref, le document porte sur les secteurs suivants des RNF :
+
+* Risque opérationnel et résilience
+* Technologie et cyberrisque
+* Risques liés aux tiers (et impartition)
+* Analyse avancée et risque de modélisation
+* Risque lié à la culture et à la réputation
+* Risque de non-conformité
+
+Une présentation datée d’avril 2021 (accessible auprès d’Angie Radiskovic, directrice principale, Groupe des risques non financiers) à l’intention du surintendant auxiliaire, Secteur de la réglementation, et du surintendant auxiliaire, Secteur de soutien du risque, comprend plus de renseignements sur les échéanciers et les jalons du projet. Un comité directeur intersectoriel sur les RNF, composé de représentants de la haute direction des secteurs de la réglementation, de soutien du risque, de la surveillance des institutions de dépôt, de la surveillance des sociétés d’assurances et des services intégrés, assure la direction et la surveillance de ce travail.
+
+##### Financement du logement et ligne directrice B-20
+
+Le financement du logement est une question qui a beaucoup retenu l’attention du public au cours des dernières années et que le BSIF suit de près. Le BSIF réglemente et supervise un certain nombre d’institutions financières fédérales, comme les banques et les sociétés de fiducie qui sont des prêteurs hypothécaires (IFF), ainsi que des assureurs hypothécaires.
+
+##### Ligne directrice B-20 et le taux admissible minimal
+
+* En 2012, le BSIF a publié la ligne directrice B-20 (Pratiques et procédures de souscription de prêts hypothécaires résidentiels), qui porte sur les activités prudentes d’émission et d’acquisition de prêts hypothécaires résidentiels (p. ex., les attentes concernant la vérification du revenu de l’emprunteur, le service de la dette, les exigences en matière de documentation, etc.). En 2017, le BSIF a modifié la ligne directrice B-20 afin de renforcer les éléments liés à la vérification du revenu, aux prêts non conformes et au taux admissible minimal (ou, comme l’ont mentionné les médias, le « stress test » ou « simulation de crise »).
+* Le taux admissible minimal, en particulier, a fait l’objet d’un examen public important. À l’heure actuelle, la ligne directrice B-20 prévoit que le taux admissible applicable aux prêts hypothécaires non assurés (c.-à-d. ceux pour lesquels la mise de fonds est d’au moins 20 %) doit équivaloir au montant le plus élevé entre le taux hypothécaire contractuel majoré de 2 % et le taux de référence quinquennal fixé par la Banque du Canada. Ce taux de référence sert de taux admissible minimal (c.-à-d. un « taux plancher ») dans une conjoncture marquée par la faiblesse des taux d’intérêt.
+* Au début de 2020, le BSIF a lancé un processus de consultation sur le taux d’admissibilité minimal pour les prêts hypothécaires non assurés. Le BSIF a par la suite suspendu ses consultations en mars 2020 en raison de la pandémie de COVID-19. Depuis le début de la pandémie, toutefois, les taux d’intérêt ont baissé pour atteindre des niveaux records, ce qui a contribué à la hausse du prix des maisons au Canada. Par ailleurs, bien qu’une partie de la population canadienne ait pu se constituer d’importantes économies durant cette pandémie, le taux d’endettement des ménages demeure élevé.
+* Compte tenu de ces considérations, en avril 2021, le BSIF a relancé son travail stratégique sur le taux admissible minimal. Il proposait d’établir un plancher fixe plutôt que de se fier au taux de référence actuel ou proposé précédemment. Le surintendant a initialement fixé le plancher à 5,25 %. De cette façon, le système financier serait paré à la possibilité d’un retour aux conditions économiques qui avaient cours avant la pandémie. Le taux de référence moyen dans les 12 mois précédant la pandémie s’établissait d’ailleurs à 5,25 %.
+* À la suite d’un bref processus de consultation, le BSIF a annoncé le 20 mai 2021 qu’il irait de l’avant avec sa proposition. À compter du 1er juin 2021, le taux admissible pour tous les prêts hypothécaires non assurés est le plus élevé entre le taux contractuel de l’emprunteur plus 2 % ou 5,25 %.
+* Dorénavant, le BSIF examinera et communiquera ce taux minimal au moins une fois l’an, en décembre, soit bien avant la période printanière de forte activité immobilière. Le BSIF prendra une décision fondée sur son propre travail de supervision et d’analyse. Le BSIF consultera en outre ses vis-à-vis fédéraux en matière de réglementation financière, notamment le ministère des Finances du Canada et la Banque du Canada.
+
+#### Projet sur l’assurance fournie par les relevés de fonds propres, de levier et de liquidité
+
+##### Aperçu
+
+Le 13 avril 2021, le BSIF a publié un document de travail dans le but d’inviter les IFF à se prononcer sur ses propositions à l’égard du resserrement des attentes en matière d’assurance auxquelles doivent répondre les relevés de fonds propres, de levier et de liquidité.
+
+##### Objectif du projet
+
+* Clarifier et uniformiser par anticipation les attentes quant à l’assurance que procurent les principaux relevés réglementaires que produisent les institutions de dépôt fédérales et les assureurs fédéraux compte tenu de la complexité croissante du régime de relevés réglementaires, laquelle est attribuable aux changements qui découleront sous peu de la norme internationale d’information financière 17 (IFRS 17) et des réformes de Bâle III.
+* Appuyer le premier objectif stratégique du BSIF, c’est-à-dire améliorer la cohérence, la précision et la rapidité d’exécution des évaluations du risque.
+
+##### Résumé des propositions
+
+Le BSIF se propose de prendre les mesures suivantes afin de rehausser les attentes en matière d’assurance dans les trois domaines suivants :
+
+* Opinion d’un auditeur externe, qui comprend l’audit externe des principaux ratios réglementaires, notamment les contrôles et les processus connexes;
+* Attestation de la haute direction, qui comprend l’attestation de la haute direction concernant les résultats d’un examen interne des principaux relevés réglementaires;
+* Opinion de l’auditeur interne, qui comprend l’audit interne des principaux relevés réglementaires, notamment les contrôles et les processus connexes.
+
+##### Champ d’application
+
+Les mesures à l’intention des assureurs fédéraux visent à rehausser les attentes actuelles en matière d’assurance et devraient entrer en vigueur à l’exercice 2022 :
+
+* L’opinion annuelle d’un auditeur externe au sujet des ratios de fonds propres.
+* L’attestation mensuelle, trimestrielle et annuelle de la haute direction, et l’opinion annuelle de l’auditeur interne, sur les relevés de fonds propres.
+* Les renvois aux tableaux de fonds propres des assureurs seront mis à jour dans le projet de ligne directrice à ce sujet, après la publication par le BSIF de versions préliminaires de relevés par suite de l’entrée en vigueur de la norme IFRS 17.
+
+Les mesures à l’intention des institutions de dépôt, y compris les petites et moyennes banques (PMB), introduisent et rendent officielles de nouvelles attentes en matière d’assurance qui devraient entrer en vigueur en 2023 :
+
+* L’opinion annuelle d’un auditeur externe au sujet des ratios de fonds propres, de levier et de liquidité.
+* L’attestation mensuelle, trimestrielle et annuelle de la haute direction, et l’opinion annuelle de l’auditeur interne, sur les relevés de fonds propres, de levier et de liquidité.
+* Les attentes relatives à l’assurance que propose le document de travail s’inscrivent en complément du projet du BSIF qui consiste à accroître la proportionnalité du régime de fonds propres et de liquidité des PMB.
+* Les renvois aux tableaux de fonds propres et de liquidité sont fondés sur les consultations menées par le BSIF de mars 2021 au sujet de la mise en place de Bâle III.
+
+##### Prochaines étapes
+
+* Les intéressés ont jusqu’au 18 juin 2021 pour faire part de leurs observations.
+* Le BSIF a pour objectif de tenir une consultation publique sur un projet de ligne directrice à ce sujet au plus tard à l’automne de 2021, et de publier une ligne directrice définitive d’ici au printemps 2022.
+
+#### IFRS 17 – Norme sur les contrats d’assurance
+
+##### Aperçu
+
+La norme internationale d’information financière (IFRS) 17, Contrats d’assurance, remplacera la norme comptable existante (IFRS 4) le 1er janvier 2023. La norme IFRS 17 fournit des conseils sur la mesure de la responsabilité contractuelle, l’attribution des bénéfices et les exigences en matière de communication alors que la norme précédente de l’IASB restait muette à ce sujet. La norme IFRS 17 fournit des principes cohérents pour tous les aspects de la comptabilité des contrats d’assurance et permet une comparaison plus significative des sociétés d’assurance.
+
+Il s’agit d’un changement important en matière de comptabilité, de données, de systèmes et de processus pour le secteur de l’assurance. Le BSIF a reconnu les efforts déployés en 2017 lorsque la norme IFRS 17, qui était presque définitive, a été publiée. Le BSIF collabore avec les instances sectorielles et les autres organismes canadiens de réglementation pour revoir ses consignes afin que la norme soit mise en œuvre avec rigueur par les institutions.
+
+##### Objectif du projet
+
+Faciliter la mise en œuvre rigoureuse de la norme IFRS 17 en appliquant un cadre efficace de réglementation stratégique pendant la période de transition, tout en veillant à ce que le BSIF dispose des outils et de la formation nécessaires pour surveiller et réglementer efficacement les assureurs fédéraux après la transition afin de lui permettre de s’acquitter de son mandat en matière de sûreté et de solidité. Un principe fondamental du projet, communiqué à l’industrie dans cette lettre, est que « le BSIF entend faire en sorte que les cadres régissant le capital demeurent conformes aux politiques en matière de capital instaurées et réduire au minimum les potentielles répercussions en matière de capital à l’échelle de l’industrie ».
+
+#### Préoccupations de l’industrie et point de vue et réponse du BSIF
+
+##### Neutralité des cadres régissant le capital lors de la transition à la norme IFRS 17
+
+Le BSIF entend faire en sorte que les cadres régissant le capital demeurent conformes aux politiques en matière de capital instaurées et réduire au minimum les potentielles répercussions en matière de capital à l’échelle de l’industrie.
+
+##### Volatilité injustifiée du capital en raison de la norme IFRS 17
+
+Le BSIF a apporté des changements au test de suffisance du capital des sociétés d’assurance vie (TSAV) de 2023 pour répondre à bon nombre de ces préoccupations. Toute autre préoccupation fera l’objet de discussions avec l’industrie.
+
+##### Préparation des systèmes
+
+Le BSIF encourage les assureurs fédéraux à choisir des méthodes comptables tôt et à concevoir des solutions pratiques avec des fournisseurs de services de moteurs de calcul comme Moody’s GGY.
+
+##### Comparabilité et uniformité du taux d’actualisation
+
+La Division de l’actuariat du BSIF travaille avec l’Institut canadien des actuaires à restreindre l’étendue des pratiques acceptables.
+
+##### Mise en œuvre de Bâle III
+
+En décembre 2017, le Comité de Bâle a complété les révisions du cadre de travail de Bâle III. Ces révisions complémentent la phase initiale des réformes de Bâle III qui ont été mises au point par le comité immédiatement après la crise financière mondiale de 2007-2009. Un objectif clé de ces révisions plus récentes était de réduire la variabilité excessive des actifs pondérés en fonction du risque (APR). Les révisions du cadre réglementaire visent donc à rétablir la crédibilité du calcul des APR en : (i) renforçant la robustesse et la sensibilité au risque des approches normalisées pour le risque de crédit et le risque opérationnel, ce qui facilitera la comparabilité des ratios de fonds propres des banques; (ii) restreignant l’utilisation d’approches modélisées en interne; et (iii) en complémentant le ratio de fonds propres pondérés par un ratio de levier révisé et un plancher de capital révisé et robuste.
+
+Subséquemment, en janvier 2019, le CBCB a complété des révisions significatives à son cadre de risque de marché qui : i) définit clairement la frontière entre le portefeuille de négociation et le portefeuille bancaire; ii) améliore l’approche des modèles internes fondée sur l’utilisation de modèles d’écarts attendus et établit des exigences de capital séparées pour les facteurs de risque qui ne peuvent pas être modelés; et iii) révise l’approche normalisée pour la rendre plus sensible au risque, et conçue et calibrée pour servir de solution de rechange crédible à l’approche des modèles internes. De plus, en juillet 2020, le CBCB a complété les révisions au cadre de gestion de risque lié à l’ajustement de l’évaluation de crédit (AEC).
+
+À l’échelle nationale, le BSIF s’appuie sur les grands principes que voici pour mettre en œuvre les réformes de Bâle III :
+
+* Les dernières réformes de Bâle III serviront de point de départ, bien que des ajustements puissent être apportés afin de tenir compte des caractéristiques particulières du marché canadien;
+* Les ajustements apportés aux mesures nationales de fonds propres devraient aider à améliorer la sensibilité au risque des règles de fonds propres et fournir les bonnes structures incitatives aux institutions de dépôt;
+* La révision des mesures nationales de fonds propres devrait viser à promouvoir la sûreté et la solidité des institutions de dépôt tout en tenant compte des règles du jeu équitables et des problèmes de concurrence.
+
+Ces travaux ont abouti à la publication, en mars 2021, de l’ébauche des révisions de la ligne directrice Normes de fonds propres et de la ligne directrice sur les exigences de levier du BSIF aux fins de consultation publique jusqu’au début de juin, ce qui a une incidence sur l’ensemble de réformes de Bâle III. Les améliorations aux flux de trésorerie nets cumulatifs susmentionnées ont également été incluses à titre de révisions de la ligne directrice sur les Normes de liquidité aux fins de consultation publique en même temps. En juin 2021, le BSIF a publié des propositions de révision de la ligne directrice sur les normes de liquidité en ce qui a trait au risque lié à l’AEC. Les révisions finales des lignes directrices pour tous les domaines devraient être publiées d’ici la fin de 2021, en vue d’une mise en œuvre au premier trimestre de 2023 (à l’exception du risque de marché et du risque de l’AEC qui seront mis en œuvre au premier trimestre de 2024).
+
+###### Calcul du capital de l’assurance prêt hypothécaire privée pour les institutions de dépôt
+
+Aux termes de la Loi sur la protection de l’assurance hypothécaire résidentielle (LPAHR), le gouvernement du Canada garantit les prêts hypothécaires assurés par des assureurs hypothécaires privés (AHP) sous réserve d’une franchise égale à 10 % du montant principal initial du prêt hypothécaire. Les changements proposés refléteraient plus fidèlement la façon dont la garantie est rédigée. Bien qu’il s’agisse d’un changement dans les règles sur les fonds propres des banques, cela intéresse particulièrement les assureurs hypothécaires.
+
+En parallèle avec les changements plus vastes apportés à la ligne directrice sur les normes de liquidité dans le cadre de la mise en œuvre nationale des réformes de Bâle III qui devraient entrer en vigueur au premier trimestre de 2023, le BSIF a proposé des révisions à la gestion des prêts hypothécaires assurés par le secteur privé afin de les harmoniser plus étroitement avec le filet de sécurité du gouvernement fourni en vertu de la LPAHR. La consultation publique sur ces révisions proposées s’est terminée au début de juin 2021.
+
+##### Proportionnalité du régime applicable aux petites et moyennes banques (PMB)
+
+Comme il est mentionné dans son plan stratégique, le BSIF examine des façons d’adapter ses approches en matière de réglementation et de surveillance à la taille, à la complexité et au profil de risque des institutions financières. La révision des cadres de fonds propres et de liquidité par le BSIF vise à mieux équilibrer les principes suivants :
+
+* Les cadres de fonds propres et de liquidité appliqués aux PMB doivent refléter la nature, la taille, la complexité et les activités commerciales de ces institutions.
+* Les normes de fonds propres et de liquidité devraient contribuer à la protection des déposants et des créanciers et permettre aux institutions de se mesurer à la concurrence en prenant des risques raisonnables.
+* Les révisions apportées aux cadres devraient concilier la nécessité d’améliorer la sensibilité au risque des normes des PMB et de réduire la complexité des cadres afin qu’ils servent mieux leurs objectifs.
+
+Le BSIF a publié une nouvelle ligne directrice sur les fonds propres et la liquidité des PMB en mars 2021, en même temps que la consultation associée à la mise en œuvre nationale des réformes de Bâle III. Voici quelques caractéristiques clés du nouveau cadre de travail pour les PMB : la segmentation des institutions de dépôt en trois catégories afin de déterminer les exigences de fonds propres et de liquidité, et l’introduction d’un certain nombre d’approches simplifiées (sujettes aux restrictions) pour le risque du crédit et le risque opérationnel, et un ratio simplifié de fonds propres fondé sur le risque à l’intention des PMB de catégorie III qui remplace le ratio de fonds propres fondé sur le risque et le ratio de levier actuels.
+
+###### Élaboration d’une réserve de fonds propres fondée sur les notations internes (NI) pour les PMB
+
+Le BSIF a commencé au printemps 2021 à travailler sur un projet axé sur l’établissement des attentes en matière de fonds propres pour les petites et moyennes banques qui ont reçu l’agrément pour l’utilisation de l’approche fondée sur les notations internes pour les exigences en matière de fonds propres au titre du risque de crédit. Il n’y a actuellement qu’une seule PMB qui est autorisée à utiliser l’approche NI. Cependant, d’autres PMB souhaitent l’utiliser. Le BSIF doit veiller à ce que ses attentes en matière de fonds propres pour les PMB qui utilisent l’approche NI soient prudentes, déterminées de façon uniforme, crédibles, reproductibles et comprises par les intervenants.
+
+#### Projet sur les exigences de communication financière au titre du troisième pilier
+
+##### Aperçu
+
+Les projets sur les exigences de communication financière au titre du troisième pilier ont été mis en place afin de fournir un plan et une structure pour l’élaboration de lignes directrices à l’intention des institutions de dépôt canadiennes sur l’adoption des exigences de communication financière du troisième pilier, établies par le Comité de Bâle sur le contrôle bancaire (CBCB).
+
+##### Résultat escompté
+
+Fournir au public des renseignements pertinents sur les fonds propres réglementaires et les expositions au risque des institutions de dépôt fédérales canadiennes. Les exigences de communication publique permettent d’améliorer la transparence et la comparabilité des institutions de dépôt et du système financier canadien, et d’accroître la confiance du public dans le système.
+
+##### Date d’achèvement prévue
+
+* Banques d’importance systémique intérieure (BISi) – Février 2023
+* PMB – Avril 2023
+
+##### Approche générale
+
+L’approche ci-dessous s’applique à la fois aux projets des BISi et des PMB :
+
+* Phase 1 – Élaboration des politiques et consultations internes
+* Phase 2 – Consultation publique avec l’industrie
+* Phase 3 – Finalisation de la ligne directrice à la suite des consultations publiques
+* Phase 4 – Mise en œuvre et formation
+
+#### Capital des sociétés d’assurance vie – Garanties de fonds distincts
+
+##### Objectifs
+
+* L’approche actuelle pour l’évaluation du passif et du capital utilise la méthode de l’Institut canadien des actuaires (ICA) de 2001, fondée sur des scénarios réels. Le calibrage est désuet et certains risques ne sont pas pris en compte dans le cadre actuel.
+* L’IFRS 17 obligera les assureurs à utiliser une approche uniforme du marché pour évaluer les garanties de fonds distincts.
+* L’élaboration d’une nouvelle approche normalisée se poursuit avec des consultations auprès du secteur et des études d’impact quantitatives.
+
+[Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+Les principales initiatives en cours de l’AICA sont l’élaboration du Cadre commun pour la surveillance des groupes d’assurance actifs à l’échelle internationale (ComFrame), qui comprend la création d’une norme de capital en assurance (NCA) mondiale, et le cadre holistique pour le risque systémique dans le secteur de l’assurance.
+
+##### Norme de capital des sociétés d’assurance
+
+* L’AICA a adopté la version 2.0 de la norme de capital en assurance (NCA) de portée internationale pour une période de suivi de cinq ans. Par la suite, les administrations peuvent choisir d’adopter la NCA comme exigence en capital prescrite.
+* [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+##### Common Framework (ComFrame)
+
+* En novembre 2019, l’Association internationale des contrôleurs d’assurance (AICA) a annoncé l’adoption du cadre commun (Common Framework, ou ComFrame). Ce cadre établit des normes et des directives axées sur l’efficacité de la surveillance des groupes d’assurance actifs sur la scène internationale.
+* Le ComFrame établit également des critères pour qu’on puisse déterminer si un assureur est un groupe d’assurance actif sur la scène internationale. Il y a actuellement trois groupes canadiens d’assurance actifs sur la scène internationale sous la supervision du BSIF :
+  + La Compagnie d’Assurance du Canada sur la Vie;
+  + La Compagnie d’Assurance-Vie Manufacturers;
+  + Sun Life du Canada, compagnie d’assurance-vie.
+* [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+* La Division du capital des sociétés d’assurance prévoit entreprendre une analyse générale des écarts par rapport à ces exigences à compter du quatrième trimestre de 2020-2021.
+
+##### Cadre holistique
+
+* L’AICA a élaboré une approche fondée sur les activités pour évaluer et atténuer le risque systémique dans le secteur de l’assurance. L’approche actuelle fondée sur l’entité vise une seule entreprise et a pour but de déterminer si sa faillite constitue une menace pour l’ensemble du système financier. La nouvelle approche reconnaît que le risque systémique peut découler à la fois des activités et des expositions collectives des assureurs à l’échelle du secteur et de la difficulté financière ou de la défaillance des assureurs individuels. Le cadre holistique a été adopté en novembre 2021.
+* Du point de vue du BSIF, le nouveau cadre pourrait avoir des répercussions sur un certain nombre d’assureurs, car il dépend de l’accumulation du risque systémique dans le secteur de l’assurance et des activités particulières au sein des assureurs. Le BSIF pourrait devoir renforcer les exigences en matière de surveillance des assureurs canadiens en fonction des mesures stratégiques élaborées pour le cadre holistique, par exemple, la surveillance du risque de liquidité.
+
+##### Cadre de liquidité pour les assureurs
+
+* En mai 2021, il n’y avait pas de cadre formel de liquidité dans l’assurance (p. ex., semblable à celui auquel sont soumises les institutions de dépôt). Il s’agit d’une lacune qui a été relevée dans les récentes évaluations administratives ciblées de l’AICA. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+##### Cadre de capital pour l’assurance hypothécaire commerciale
+
+* Un projet est en cours pour réviser le cadre de capital existant pour l’assurance hypothécaire commerciale en raison de sa sensibilité limitée au risque et de la croissance importante de ce secteur au cours des dernières années. La Division du capital des sociétés d’assurance vise à ce que le cadre révisé soit mis en œuvre le 1er janvier 2025.
+* En janvier 2017, le BSIF a mis en œuvre un nouveau cadre de financement des prêts hypothécaires résidentiels, qui est plus sophistiqué et plus sensible au risque que son prédécesseur, ce qui a considérablement rehaussé les exigences réglementaires en matière de fonds propres pour les prêts hypothécaires résidentiels. Toutefois, le BSIF n’a pas élaboré de cadre de réglementation du capital pour les prêts hypothécaires commerciaux. Cette décision a été motivée par le désir d’accélérer la mise en œuvre d’un nouveau cadre pour les prêts hypothécaires résidentiels, tout en tenant compte du fait que (i) la Société canadienne d’hypothèques et de logement (SCHL), une société d’État, est le seul assureur autorisé à souscrire une assurance hypothécaire commerciale, et (ii) les prêts hypothécaires commerciaux représentaient une petite partie du total des prêts hypothécaires assurés.
+* Au cours des dernières années, le nombre total d’assurances hypothécaires résidentielles en vigueur a décliné, mais le volet d’assurance hypothécaire commerciale de la SCHL a pris de l’ampleur, passant de 63 milliards de dollars à la fin de l’exercice 2016, ce qui représentait 12 % du portefeuille d’assurance hypothécaire de la SCHL et 8 % du total de l’assurance de l’industrie en vigueur, à 91 milliards de dollars en hypothèques commerciales au deuxième trimestre de l’exercice 2020, ce qui représente 21 % du portefeuille d’assurance total de la SCHL et 13 % du total de l’industrie.
+
+##### Utilisation des modèles internes par les sociétés d’assurance
+
+* Les sociétés d’assurance déterminent habituellement le capital réglementaire à l’aide des cadres normalisés de fonds propres du BSIF, mais le BSIF a autorisé des sociétés plus sophistiquées à utiliser leurs propres modèles internes pour déterminer le capital réglementaire. Ces approbations ont toujours été limitées aux modèles des grands assureurs-vie pour les produits de garantie de fonds distincts.
+* [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+##### Actifs non grevés et nantissement
+
+* Cette initiative vise à améliorer notre compréhension de la gamme complète des politiques et des activités relatives aux actifs non grevés et au nantissement des institutions de dépôt, ce qui nous permet de mettre à jour les consignes et les pratiques de surveillance au besoin. Ces efforts permettront de combler les lacunes des consignes et des pratiques de surveillance du BSIF relatives aux activités de nantissement et aideront à faire en sorte que les institutions de dépôt conservent suffisamment d’actifs non grevés pour soutenir leur capacité de se rétablir en période difficile.
+* L’élaboration par le BSIF d’une approche plus globale du grèvement d’actif est guidée par les principes suivants (en mettant l’accent sur la continuité des activités) :
+  + Les institutions peuvent résister à une période de crise financière en ayant accès à un financement supplémentaire garanti pendant les périodes difficiles.
+  + Les institutions devraient reconnaître les risques engendrés par les activités de nantissement dans le maintien du statu quo, qui sont exacerbés en période de crise (p. ex., diminution de la qualité des actifs non grevés, augmentation soudaine des sûretés requises, migration des sûretés admissibles nécessitant un remplacement ou une substitution).
+  + Le BSIF dispose de l’information nécessaire pour surveiller et superviser adéquatement le grèvement d’actif, ainsi que des outils nécessaires pour mieux utiliser ses ressources en données afin d’atteindre cet objectif.
+  + Les attentes du BSIF à l’égard du grèvement d’actif et des activités de nantissement sont claires et transparentes.
+* [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+##### Souplesse réglementaire pour appuyer les IFF et les RRF pendant la crise de la COVID-19
+
+* Le BSIF a mis en place un certain nombre de mesures de réglementation et de surveillance en réponse à la crise de la COVID-19 dans le but de donner aux institutions la souplesse nécessaire pour faire face aux conditions tendues découlant de l’apparition rapide de la pandémie. Les mesures visaient également à s’harmoniser avec divers programmes gouvernementaux et à promouvoir la résilience et la stabilité financières des institutions financières.
+* Le BSIF a apporté des modifications à ses attentes pendant la pandémie de façon à respecter quatre critères clés qui ont été communiqués au public. Plus précisément, les changements devaient être :
+  + **Crédibles** – Les mesures sont transparentes, elles préservent l’intégrité du cadre réglementaire et elles respectent les normes internationales.
+  + **Cohérents**  – Les mesures adoptées peuvent être appliquées de la même manière à des institutions comparables.
+  + **Nécessaires**  – La réglementation n’est modifiée que s’il est impossible ou déconseillé de recourir à d’autres solutions raisonnables.
+  + **Adaptés aux circonstances**  – Les modifications apportées aux fins de l’adaptation aux circonstances actuelles hors du commun doivent accroître le degré de précision des mesures de fonds propres et de liquidité, éviter de brouiller la situation et être progressivement levées lorsqu’elles n’ont plus leur raison d’être.
+* Voici quelques-unes des mesures liées à la COVID-19 mises en place par le BSIF, sans s’y limiter : exclusion de certains actifs du ratio de levier; une restriction sur les rachats d’actions ordinaires et des augmentations des dividendes et de la rémunération des cadres supérieurs; gestion spéciale des fonds propres pour les paiements ou les reports de prime; réintégrations transitionnelles pour les pertes de crédit attendues; abaissement du plancher de fonds propres de Bâle II auquel doivent souscrire les institutions assujetties à l’approche NI; augmentation temporaire de la limite des obligations sécurisées; et suspension temporaire des options de transfert et des achats de rente en lien avec les prestations définies des régimes de retraite. La plupart de ces mesures ont depuis été assouplies, tandis que d’autres ont une échéance fixe (p. ex., au moment de la mise en œuvre de Bâle III) ou seront réexaminées dans un proche avenir (p. ex., exclusions liées aux exigences de levier).
+
+##### Précédents en matière de fonds propres
+
+* Une partie du travail de la Division des fonds propres consiste à évaluer l’admissibilité des instruments nouvellement proposés (p. ex., actions privilégiées, dettes subordonnées, billets liés à la capacité totale d’absorption des pertes) par rapport aux diverses exigences d’admissibilité aux fonds propres qui sont décrites dans les lignes directrices du BSIF se rapportant à chaque industrie.
+  + Au milieu de 2020, le BSIF a établi un précédent important en matière de fonds propres pour un instrument qui a d’abord été émis par la Banque Royale et qui a depuis donné à de nombreuses IFF un meilleur accès aux autres éléments de fonds propres de catégorie 1 de la part d’investisseurs institutionnels au Canada et à l’étranger. Les IFF ont un vif intérêt pour les billets avec remboursement de capital à recours limité en raison de leur déductibilité fiscale, ainsi que de la profondeur du marché institutionnel des titres par rapport aux actions privilégiées. En mars 2021, le BSIF a publié une décision révisée pour les billets avec remboursement de capital à recours limité [(lien)](/fr/surveillance/decisions/billets-avec-remboursement-capital-recours-limite "Billets avec remboursement de capital à recours limité"), qui visait à offrir une certaine souplesse aux IFF plus petites ou à capitaux privés, y compris les PMB, ainsi qu’à adapter les limites d’émission pour les assureurs-vie.
+  + [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+## Le surintendant
+
+### Fonctions et pouvoirs
+
+#### Fonctions
+
+Les pouvoirs du surintendant lui sont conférés en vertu de la Loi sur le Bureau du surintendant des institutions financières (la Loi sur le BSIF) ainsi que des lois énumérées ci-dessous qui régissent les institutions financières fédérales (IFF).
+
+#### Lois qui régissent les IFF
+
+* Loi sur les banques (LB)
+* Loi sur les sociétés d’assurances  (LSA)
+* Loi sur les sociétés de fiducie et de prêt (LSFP)
+
+#### Lois qui régissent les régimes de retraite privés fédéraux
+
+* Loi de 1985 sur les normes de prestation de pension (LNPP)
+* Loi sur les régimes de pension agréés collectifs (Loi sur les RPAC)
+
+Les articles 4 et 6 de la Loi sur le BSIF précisent la responsabilité du surintendant quant à l’application des lois régissant les institutions financières fédérales (IFF) aux termes du mandat prudentiel du BSIF.
+
+En vertu de ces lois (et de leurs règlements d’application), le surintendant dispose d’un ensemble de pouvoirs et d’autres options, notamment différents pouvoirs lui permettant d’intervenir dans les activités commerciales et les affaires internes d’une IFF pour des raisons prudentielles. La Loi sur les liquidations et les restructurations (LLR) confère par ailleurs au surintendant certains pouvoirs limités (p. ex., le transfert d’actifs à un liquidateur étranger).
+
+En règle générale, l’exercice de l’un ou l’autre de ces pouvoirs fait l’objet de discussions préalables à l’occasion de diverses réunions du BSIF. Il est relativement rare que le surintendant ait recours aux pouvoirs qui lui sont conférés par la loi, solution qui n’est envisagée que lorsque les moyens d’intervention non prévus par la loi (p. ex., persuasion dans le cadre du processus de surveillance, lettres du BSIF) ne fonctionnent pas.
+
+L’article 10 de la Loi sur le BSIF prévoit que les membres du personnel du BSIF ayant la compétence voulue peuvent exercer les attributions que la loi confère au surintendant. Toutefois, les pouvoirs conférés aux membres du personnel peuvent être assujettis à certaines conditions imposées par le surintendant.
+
+#### Pouvoirs
+
+Le BSIF a élaboré un cadre détaillé visant l’exercice des pouvoirs du surintendant. Ce cadre décrit les différents niveaux de délégation au sein du BSIF pour l’exercice de fonctions et de pouvoirs précis. La Division des services juridiques peut fournir des précisions à ce sujet.
+
+#### Fréquence et durée des réunions
+
+Voici une liste des réunions (internes et externes) auxquelles le surintendant assiste habituellement. Cette liste n’est pas exhaustive, mais donne une idée des rencontres qui ont lieu régulièrement et de certaines autres.
+
+Externes : Coordination
+
+| Réunions | Fréquence |
+| --- | --- |
+| Comité de surveillance des institutions financières (CSIF)  Le surintendant préside les réunions de ce comité. | Une réunion de trois heures chaque trimestre. |
+| Comité consultatif supérieur (CCS) | Une réunion de trois heures chaque trimestre. |
+| Conseil d’administration de la Société d’assurance-dépôts du Canada (SADC) | Une réunion de trois à quatre heures chaque trimestre. |
+| Comité des ressources humaines de la SADC | Une réunion de deux à trois heures chaque trimestre. |
+| Comité des dirigeants d’organismes de réglementation | Trois réunions de quatre heures par an. |
+| Conseil de stabilité financière (CSF) – Séance plénière | Deux à trois réunions d’une journée par an. |
+| Conseil de stabilité financière (CSF) – Comité permanent de coopération en matière de surveillance et de réglementation | Trois à quatre réunions d’une journée par an. |
+| Conseil de stabilité financière (CSF) – Comité directeur | Deux à trois réunions d’une journée par an. |
+| Groupe des gouverneurs de banque centrale et des responsables du contrôle bancaire | Une réunion de trois heures par an. |
+| Comité de résolution des infrastructures de marchés financiers | Une réunion de deux heures par an. |
+
+##### Externes : Engagements organisationnels
+
+###### Fréquence
+
+Centre international de surveillance du secteur financier (Centre de Toronto)
+
+Deux réunions de cinq à six heures par an. Le surintendant siège au conseil d’administration du Centre de Toronto; il assiste donc aux réunions semestrielles.
+
+Collège des gouverneurs du Conseil canadien sur la reddition de comptes (CCRP)
+
+Une réunion de deux heures par an. En tant que membre permanent du Collège des gouverneurs du CCRP, qui compte six membres, le surintendant rencontre chaque année d’autres membres du Collège. Le Collège fournit des évaluations générales du CCRP par rapport à son mandat et a le pouvoir de nommer ou de révoquer des administrateurs, le président et le vice-président du conseil d’administration.
+
+##### Externes : Secteur
+
+###### Fréquence
+
+Réunions budgétaires avec les instances sectorielles
+
+* Association des banquiers canadiens (ABC)
+* Association canadienne des compagnies d’assurances de personnes inc. (ACCAP)
+* Bureau d’assurance du Canada (BAC)
+
+Une réunion de deux heures par an.
+
+Réunions mixtes avec les premiers dirigeants des IFF
+
+* Premiers dirigeants des grandes banques
+* Premiers dirigeants des sociétés d’assurance vie
+
+Deux réunions d’une heure et demie à deux heures par an.
+
+Réunions des conseils d’administration des IFF
+
+* Banques d’importance systémique (BIS) et moyennes banques
+* Grandes sociétés d’assurance
+
+Banques : deux réunions d’une heure et demie par an.
+
+Sociétés d’assurance : une réunion d’une heure et demie par an.
+
+Réunions mixtes avec :
+
+* l’Institut canadien des actuaires (ICA)
+* le Conseil des normes actuarielles (CNA)
+
+Une réunion de deux heures par an.
+
+##### Internes :
+
+###### Fréquence
+
+Table ronde de la direction
+
+*Point d’information informel avec le Comité de direction*
+
+Deux réunions par semaine.
+
+Rencontres individuelles avec les subordonnés directs
+
+Une réunion d’une heure toutes les deux semaines.
+
+Point d’information du bureau du surintendant
+
+Une réunion d’une heure par semaine.
+
+Réunions du Comité de direction (CD)
+
+* Réunions ordinaires
+* Réunions thématiques
+* Réunions extraordinaires
+
+Réunions ordinaires : une réunion d’une heure par mois.
+
+Réunions thématiques : variable; une à deux réunions d’une heure par mois.
+
+Réunions extraordinaires : variable; une réunion d’une heure par mois.
+
+Audit interne
+
+Une réunion d’une journée chaque trimestre.
+
+Séances de réflexion du CD
+
+*Planification stratégique, échange à bâtons rompus, etc.*
+
+Séances de réflexion en personne : une séance de plusieurs jours par an.
+
+Séances de réflexion virtuelles : variable; séances de deux à trois heures
+
+Comité des risques d’affaires (CRA)
+
+* Triage des risques et intervention (CRA-TRI)
+* Suivi et planification intégrés visant les IFF (CRA-SUR)
+* Encadrement du risque macroéconomique (CRA-MAC)
+
+Réunions de deux à trois heures:
+
+* CRA-TRI : cinq réunions par an
+* CRA-SUR : deux réunions par an (Secteur de la surveillance des sociétés d’assurance [SSSA] et Secteur de la surveillance des institutions de dépôt [SSID])
+* CRA-MAC : quatre réunions par an
+
+### Les 90 premiers jours : Priorités et décisions à prendre
+
+Certaines des questions suivantes exigent que vous preniez des mesures dans les 90 premiers jours. Pour d’autres, vous n’êtes pas tenu d’agir, mais vous devez savoir qu’il est possible de le faire dans les 90 prochains jours.
+
+#### Questions internes exigeant un examen rapide
+
+1. **Rencontrer vos nouveaux collègues et vous présenter**
+
+   La Division des communications et des affaires courantes vous offrira des options et des suggestions. Vous pouvez également consulter les membres du CD.
+2. **Communiquer sur la date de retour au bureau**
+
+   En juin 2020, le surintendant a annoncé que les employés ne seraient pas tenus de retourner au bureau avant juin 2021. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+3. **[Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]**
+4. **[Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]**
+5. **Dotation en personnel au Bureau du surintendant**
+
+   Le précédent surintendant avait choisi de travailler avec une équipe très restreinte au sein de son bureau, lequel est actuellement composé d’un adjoint de direction nommé pour une période indéterminée et d’un conseiller spécial issu du « terrain » nommé pour une période d’environ deux ans. Le mandat du conseiller spécial actuel prend fin en octobre. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+6. **Rôle de l’actuaire en chef au sein du Comité de direction**
+
+   Le Bureau de l’actuaire en chef (BAC) est généralement décrit comme une « unité indépendante » au sein du BSIF. Cette indépendance découle des facteurs suivants : les attributions de l’actuaire en chef aux termes de la loi et ses responsabilités professionnelles sont distinctes de celles du surintendant; le BAC dispose de sa propre source de financement, qui n’est pas la même que celle du reste du BSIF; la décision du surintendant d’insister sur le fait que, même si l’actuaire en chef relève du surintendant, l’actuaire en chef est seul responsable du contenu des rapports préparés par le BAC et des opinions actuarielles qui y sont formulées.
+
+   [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+7. **Délégation des pouvoirs**
+
+   Le surintendant a recours à trois instruments de délégation distincts pour déléguer les pouvoirs qui lui sont conférés par la loi, les pouvoirs en matière de RH et les pouvoirs en matière de finances, respectivement. Tous ces pouvoirs continuent d’être en vigueur en l’état lorsqu’un nouveau surintendant est nommé. Il serait bon d’examiner sans tarder les instruments de délégation des pouvoirs qui vous sont conférés par la loi pour vous assurer d’être au fait du cadre actuel. Vous pouvez réviser ce cadre à tout moment. Des représentants de la Commission de la fonction publique devraient communiquer avec vous au début de votre mandat pour organiser le renouvellement de la délégation des pouvoirs en matière de RH. Enfin, la délégation des pouvoirs en matière de finances doit être revue chaque année par le dirigeant principal des finances (DPF) ou lors de la nomination d’un nouveau ministre (et non d’un nouveau surintendant).
+8. **Révision du Cadre de surveillance**
+
+   Le BSIF a récemment lancé une révision du Cadre de surveillance. Bien qu’il s’agisse d’un grand chantier qui prendra du temps, la portée et les objectifs du projet seront confirmés au cours des prochains mois. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+#### Questions externes nécessitant un examen rapide
+
+9. **Rencontrer les interlocuteurs externes**
+
+   Vous pouvez vous attendre à ce que de nombreux interlocuteurs cherchent à vous rencontrer au début de votre mandat. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+10. **Plan des premières communications**
+
+    Par le passé, les surintendants ont souvent choisi de faire des discours pour établir les grandes priorités stratégiques. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+11. **Questions stratégiques urgentes**
+
+    [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+    Au mois de mai, nous avons publié le Plan à court terme du BSIF relatif aux politiques prudentielles visant les institutions financières et les régimes de retraite privés de compétence fédérale. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+    En mars 2020, le BSIF a annoncé des restrictions visant les institutions financières sur l’augmentation des dividendes et de la rémunération totale des dirigeants, et sur le rachat d’actions. Ces restrictions sont, à quelques exceptions près annoncées en décembre 2020, toujours en vigueur. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+### Le BSIF et le cabinet ministériel
+
+#### Relations avec le ministre des Finances
+
+##### Notification des éléments nouveaux concernant les institutions financières ou le secteur
+
+Les approbations ministérielles en vertu des lois sur les institutions financières (énumérées plus haut) génèrent de nombreux échanges entre le BSIF et le cabinet ministériel. De façon générale, le BSIF travaille en étroite collaboration avec le ministère des Finances pour gérer le processus d’approbation, et le ministère a mis en place son propre protocole avec le cabinet ministériel à cet égard. Le BSIF avise rapidement le ministère de toute transaction qui soulève des préoccupations stratégiques.
+
+Au cours de l’exercice, plusieurs « documents du BSIF » doivent également être approuvés par le ministre (p. ex., le rapport annuel du BSIF, ainsi que divers documents financiers). Ils sont gérés d’une façon similaire et soumis à des représentants du ministère des Finances et du Conseil du Trésor, au besoin.
+
+Le BSIF et le cabinet ministériel échangent par ailleurs selon une politique générale qu’on pourrait qualifier de « sans surprise ». De fait, si le BSIF prend connaissance d’un élément nouveau important concernant une institution financière ou le secteur des services financiers, ou s’il aboutit à une conclusion ou à un précédent qui est susceptible d’être sensible et de retenir l’attention, le BSIF informe le cabinet ministériel et le ministère des Finances dès que possible.
+
+##### Notes de service au ministre
+
+Chaque année, le BSIF doit fournir au ministre plusieurs notes de service. Bien qu’il s’agisse généralement de documents pro forma, le BSIF doit mettre l’accent sur les principaux messages d’intention destinés au ministre. Les notes de service clés à l’intention du ministre, outre les approbations ministérielles habituelles (Secteur de la réglementation), comprennent les suivantes :
+
+##### Notes de service ou documents
+
+###### Description
+
+Lettre de conformité annuelle (secteurs de la Surveillance)
+
+*(« Rapport sur l’examen des activités commerciales et des affaires internes des institutions financières fédérales et sur les demandes de renseignements qui s’y rattachent »)*
+
+Les lois régissant les IFF stipulent que le BSIF doit présenter un rapport annuel au ministre sur l’examen des activités commerciales et des affaires internes des IFF pour l’exercice précédent. Bien que la loi ne l’exige pas, le BSIF inclut également dans cette lettre une vue d’ensemble des régimes de retraite privés fédéraux. La lettre est fournie au ministre à titre informatif, et aucune mesure n’est requise. Le BSIF envoie habituellement la lettre à la fin de mai ou au début de juin.
+
+Loi sur la protection de l’assurance hypothécaire résidentielle
+
+En vertu de la Loi sur la protection de l’assurance hypothécaire résidentielle (LPAHR), le surintendant fournit une note annuelle au ministre des Finances concernant l’examen par le BSIF des assureurs hypothécaires privés, de leur conformité aux exigences de la loi et de la suffisance de leur capital.
+
+Rapport annuel
+
+L’article 40 de la Loi sur le BSIF exige que le Bureau prépare un rapport annuel sur ses activités. Le ministre des Finances doit déposer le rapport devant le Parlement au plus tard le cinquième jour de séance de la Chambre des communes et du Sénat après le 30 septembre suivant la fin de l’exercice pour lequel le rapport est rédigé (c.-à-d. au début d’octobre).
+
+Divers rapports pour les organismes centraux fédéraux et les hauts fonctionnaires du Parlement.
+
+Le BSIF doit régulièrement produire divers rapports, comme l’exige la loi, à l’intention de certains organismes gouvernementaux (p. ex., le Conseil du Trésor, la Commission de la fonction publique) sur la gestion des ressources humaines et des finances. En règle générale, ces rapports sont envoyés au ministre pour approbation et/ou examen avant leur publication.
+
+La production de rapports sur la conformité à la Loi sur l’accès à l’information et à la Loi sur la protection des renseignements personnels se fait dans le cadre du processus afférent au rapport annuel (voir ci-dessus).
+
+## Gouvernance au BSIF
+
+### Le Comité de direction
+
+#### Vue d’ensemble
+
+La gouvernance assure la transparence du processus décisionnel du BSIF et la reddition de comptes à cet égard, et favorise l’harmonisation stratégique des décisions internes, concourant ainsi à la réalisation du troisième objectif du plan stratégique du BSIF (agilité et efficacité opérationnelle). Plus précisément, la gouvernance définit qui détient l’autorité, qui prend les décisions, comment les parties prenantes peuvent faire entendre leur voix et de quelle façon les personnes concernées ont à répondre de leurs décisions.
+
+#### Structures de gouvernance
+
+Les réunions du CD et les comités de gouvernance supérieurs sont les principaux organes décisionnels stratégiques du BSIF. Le Comité des risques d’affaires (CRA) et le Comité des services communs de surveillance (CSCS) rassemblent de manière hybride et unique les cadres dirigeants (en tant que présidents de ces comités) et la haute direction (en tant que membres de ces comités).
+
+* **Comité de direction**
+
+  Le CD est l’échelon de gouvernance le plus élevé du BSIF. Il tient ses pouvoirs du surintendant, lequel exerce les attributions que lui confère la Loi sur le BSIF. Plus précisément, le CD établit l’orientation stratégique du BSIF et donne le ton pour l’organisme.
+* **Comités de gouvernance supérieurs**
+
+  Les comités de gouvernance supérieurs sont des organes permanents officiels composés de représentants de la haute direction du BSIF qui ont le pouvoir de prendre des décisions et l’obligation de rendre des comptes au sujet de questions stratégiques relatives à la gestion des données et à la technologie, aux gens et à la culture et aux principales activités du BSIF, à l’appui du plan stratégique et des objectifs du Bureau. Ces comités sont responsables des questions stratégiques liées aux risques auxquels font face les institutions financières et les régimes de retraite que le BSIF surveille.
+* **Comité d’audit**
+
+  Le Comité d’audit formule des recommandations et donne des conseils objectifs sur le caractère suffisant, la qualité et les résultats des services d’assurance fournis à l’égard de la pertinence et du fonctionnement des cadres et processus de gestion du risque, de contrôle et de gouvernance du BSIF, y compris les systèmes de reddition de comptes et d’audit.
+
+![Structures de gouvernance - la verstion textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img26-fra.jpg)
+
+Version textuelle - Structures de gouvernance
+
+Ce schéma décrit les différents organes directeurs auxquels participent le Comité de direction (CD) et la haute direction.
+
+Le CD préside les réunions du CD (ordinaires, extraordinaires et thématiques), le Comité des risques d’affaires (CRA) et le Comité des services communs de surveillance (CSCS).
+
+La haute direction préside quant à elle le Comité des données et de la technologie (CDT), le Comité des opérations (CO) et le Comité des gens et de la culture (CGC).
+
+Les deux organes auxquels participent à la fois le CD et la haute direction sont le CRA et le CSCS, où la haute direction participe aux réunions des comités présidés par le CD.
+
+![Catégories de risque - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img19-fra_0.jpg)
+
+Version textuelle - Catégories de risque
+
+Ce schéma indique les différents risques que le Comité de direction et les comités de gouvernance supérieurs encadrent :
+
+* Le Comité de direction encadre le risque financier, le risque lié au capital humain et le risque stratégique.
+* Le Comité des opérations encadre le risque financier, le risque lié aux technologies, le risque opérationnel, le risque juridique et le risque de non-conformité, et le risque lié à la confiance des intéressés.
+* Le Comité des données et de la technologie encadre le risque lié aux technologies.
+* Le Comité des gens et de la culture encadre le risque lié au capital humain.
+* Le Comité des services communs de surveillance encadre le risque lié à la surveillance.
+* Le Comité des risques d’affaires encadre le risque lié à la surveillance, le risque stratégique et le risque lié au cadre réglementaire.
+
+#### Comité de direction
+
+##### Mandat
+
+En sa qualité d’intendant responsable du BSIF, le CD :
+
+* donne le ton en définissant et en incarnant la vision, les valeurs et la culture du BSIF;
+* détermine l’orientation stratégique du Bureau;
+* délimite la propension à prendre des risques et la tolérance à l’égard des risques, et encadre la surveillance des risques d’entreprise;
+* veille à ce que le BSIF dispose de mécanismes de contrôle interne rigoureux afin de pouvoir mener ses activités de façon efficace et responsable;
+* veille à ce que le BSIF continue d’inspirer la confiance.
+
+##### Portée des décisions du CD et interaction avec la gouvernance
+
+![Comité de direction - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img28-fra.jpg)
+
+Version textuelle - Comité de direction (CD)
+
+| Comité de direction (CD) | |
+| --- | --- |
+| Approbations en lien avec : | Conseils et consignes : |
+| * Valeurs et culture organisationnelles * Plan stratégique * Délimitation de la propension à prendre des risques et de la tolérance à l’égard des risques * Budgétisation et finances * Principaux mécanismes de contrôle interne et plans d’action de la direction faisant suite à des audits * Structure organisationnelle et structure de gouvernance * Dotation de la haute direction et gestion des talents * Communications stratégiques | * Le cadre responsable est une ressource pour les comités de gouvernance avant qu’un dossier ne soit présenté au CD. * Délégation efficace tant auprès des comités de gouvernance supérieurs qu’auprès des gestionnaires principaux individuels. * Le CD apporte des clarifications quand il s’agit de déléguer une décision ou une recommandation, et il précise les renseignements que requiert le CD en retour. |
+| Comités de gouvernance | |
+
+##### Types de réunions du CD
+
+###### Réunions ordinaires du CD
+
+* Le CD est un comité permanent qui se réunit tous les mois, sauf en juillet. On attend de ses membres qu’ils mettent tout en œuvre pour être présents.
+* Les points ordinaires à l’ordre du jour sont ceux devant faire l’objet d’une décision immédiate ou imminente. La prérogative d’ajouter d’autres points ne nécessitant aucune résolution appartient au président du comité.
+* Les réunions se déroulent selon l’ordre du jour établi et font l’objet d’un procès-verbal consignant le compte rendu des décisions.
+* Chaque point à l’ordre du jour est attribué à un responsable, à savoir un membre du CD, qui s’assure de sa pertinence et de la clarté de la demande adressée au CD, et veille à ce que les pièces requises soient présentées dans un délai raisonnable (une semaine avant la réunion).
+* Ces réunions visent à rendre des décisions qui touchent la majorité des secteurs ou l’ensemble du BSIF et requièrent la contribution de tous les membres du CD.
+
+###### Réunions extraordinaires du CD
+
+* Ces réunions sont organisées en plus des réunions ordinaires du CD, au besoin (p. ex., en parallèle du cycle de planification et d’établissement du budget annuel).
+* Elles traitent du processus de planification et d’établissement du budget annuel, des processus annuels des ressources humaines et des activités ou projets spéciaux à l’échelle de l’organisme.
+* Les décisions sont consignées dans un compte rendu que l’auteur de la demande présente pour approbation.
+* Tous les membres du CD doivent être présents.
+* Ces réunions visent à rendre des décisions qui touchent la majorité des secteurs ou l’ensemble du BSIF et requièrent la contribution de tous les membres du CD.
+
+###### Réunions thématiques du CD
+
+* Ces réunions ponctuelles traitent de recommandations ou de décisions du CD au sujet de projets ou de problèmes majeurs relatifs à la réglementation et à la surveillance.
+* Tous les membres du CD sont invités, mais seuls ceux dont le secteur est étroitement concerné sont tenus d’y assister.
+* Les décisions sont consignées dans un compte rendu que l’auteur de la demande présente pour approbation.
+* Ces réunions peuvent être de nature consultative, décisionnelle ou informationnelle (selon la nature et l’avancement du projet).
+
+###### Tables rondes de la direction
+
+* Les tables rondes de la direction ont lieu au moins une fois par semaine, et les discussions sont axées sur des questions opérationnelles. Habituellement, aucune décision n’y est prise. S’il faut toutefois prendre une décision, elle est consignée à la prochaine réunion ordinaire du CD.
+
+Lors de toutes les réunions, le CD apporte des clarifications quand il s’agit de déléguer une décision ou une recommandation, et il précise les renseignements que requiert le CD en retour. D’autres réunions ponctuelles peuvent être organisées à la discrétion du surintendant.
+
+#### Gestion du risque et gouvernance
+
+Le cadre de gestion du risque d’entreprise (GRE) permet au CD et aux comités de gouvernance supérieurs de s’occuper de multiples optiques du risque.
+
+![Catégories de risque - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img19-fra_1.jpg)
+
+Version textuelle - Catégories de risque
+
+Ce schéma indique les différents risques que le Comité de direction et les comités de gouvernance supérieurs encadrent :
+
+* Le Comité de direction encadre le risque financier, le risque lié au capital humain et le risque stratégique.
+* Le Comité des opérations encadre le risque financier, le risque lié aux technologies, le risque opérationnel, le risque juridique et le risque de non-conformité, et le risque lié à la confiance des intéressés.
+* Le Comité des données et de la technologie encadre le risque lié aux technologies.
+* Le Comité des gens et de la culture encadre le risque lié au capital humain.
+* Le Comité des services communs de surveillance encadre le risque lié à la surveillance.
+* Le Comité des risques d’affaires encadre le risque lié à la surveillance, le risque stratégique et le risque lié au cadre réglementaire.
+
+### Comités de gouvernance supérieurs
+
+#### Vue d’ensemble
+
+La gouvernance assure la transparence du processus décisionnel du BSIF et la reddition de comptes à cet égard, et favorise l’harmonisation stratégique des décisions internes, concourant ainsi à la réalisation du troisième objectif du plan stratégique du BSIF (agilité et efficacité opérationnelle). Plus précisément, la gouvernance définit qui détient l’autorité, qui prend les décisions, comment les parties prenantes peuvent faire entendre leur voix et de quelle façon les personnes concernées ont à répondre de leurs décisions.
+
+#### Comités de gouvernance
+
+Les comités de gouvernance supérieurs sont coprésidés par des membres de la haute direction, des directeurs principaux (REX-09), qui sont nommés par le CD à tour de rôle. Les membres sont choisis parmi la haute direction du BSIF, les directeurs généraux (REX-08) et les échelons supérieurs. Ces comités se réunissent une fois par mois.
+
+#### Comité des opérations (CO)
+
+Le CO s’occupe de l’encadrement, de l’orientation stratégique et du suivi des dossiers opérationnels, notamment ceux concernant les installations, la sécurité physique et la cybersécurité, la gestion de l’information d’entreprise, la gestion des risques d’entreprise et la supervision de la planification opérationnelle et financière.
+
+#### Comité des gens et de la culture (CGC)
+
+Le CGC appuie, façonne, fait évoluer et promeut le capital humain et la culture du BSIF. Il contribue à l’élaboration des stratégies visant à améliorer l’efficacité de nos effectifs et de notre organisation pour que le BSIF dispose des compétences qui lui permettront d’atteindre ses objectifs.
+
+#### Comité des données et de la technologie (CDT)
+
+Le CDT examine globalement les besoins opérationnels du BSIF, particulièrement en matière de données et de technologies, et fournit des consignes et des conseils stratégiques pour veiller à ce que le BSIF ait les données et les outils nécessaires pour accomplir son mandat. Le CDT assure la supervision de la Stratégie de gestion des données et de la stratégie de GI-TI du BSIF, et leur harmonisation avec le plan stratégique du Bureau.
+
+#### Autres comités de gouvernance
+
+D’autres comités de gouvernance, comme le CSCS et le CRA, reposent sur une approche hybride unique de la gouvernance qui rassemble des cadres dirigeants et des membres de la haute direction. Ces comités sont présidés par le surintendant (CRA-TRI), ou les surintendants auxiliaires, et composés de membres de la haute direction.
+
+#### Comité des services communs de surveillance (CSCS)
+
+Le CSCS veille à ce que les Services communs de surveillance (SCS) offrent les services requis par le Secteur de la surveillance des institutions de dépôt (SSID), le Secteur de la surveillance des sociétés d’assurance (SSSA) et le Secteur de soutien du risque (SSR) en ce qui concerne les outils technologiques, la formation, les méthodes et l’uniformité.
+
+#### Comité des risques d’affaires (CRA)
+
+Le CRA encadre l’élaboration de stratégies et de projets généraux, dans l’esprit d’Un seul bureau, qui permettront de mieux gérer les risques pansectoriels de portée transversale à l’échelle du milieu. Il appuie les responsables des secteurs et les aide à s’acquitter de leurs fonctions verticales en leur donnant une vue d’ensemble des risques et de leur incidence sur le secteur financier.
+
+Plus précisément, les membres discutent des principaux risques de portée transversale auxquels sont confrontés les institutions financières fédérales et les régimes de retraite privés fédéraux, et des priorités à cet égard. Le CRA a également pour tâche d’évaluer les différentes options pour que les plans intégrés tiennent compte des risques soumis au triage; ces plans servent à définir une approche descendante en matière de planification et d’affectation des ressources, et permettent d’évaluer les répercussions sur les autres priorités. Il utilise ces éléments pour orienter le processus annuel de planification des activités de surveillance et des examens.
+
+Le CRA fonctionne comme un comité unique qui se réunit une fois par mois par rotation des trois fonctions. Toutefois, l’objet et la fréquence des réunions peuvent varier selon les besoins du Bureau. Cette structure de gouvernance est adaptable et suffisamment flexible pour pouvoir répondre aux besoins en période de crise. La fréquence des réunions et les dossiers prioritaires qui y sont abordés peuvent par ailleurs être ajustés au besoin.
+
+* **Fonction Encadrement du risque macroéconomique (CRA-MAC)**  
+  La fonction CRA-MAC travaille à l’élaboration d’une perspective transversale englobant un large éventail de risques importants et discute des principaux risques auxquels sont confrontés les institutions financières fédérales et les régimes de retraite privés fédéraux, et des priorités à cet égard. Ces réunions ont lieu environ quatre fois l’an et sont présidées par le surintendant auxiliaire du SSR. Si le SSR contribue grandement à ces réunions, les autres secteurs sont également invités à participer s’il y a lieu. Ils ont notamment pour mission d’étudier le mandat et les fonctions du Comité d’étude des risques émergents (CERE) afin de les synchroniser dans le but de soutenir le CRA.
+* **Fonction Triage des risques et intervention (CRA-TRI)**  
+  La fonction CRA-TRI détermine les risques dont la priorité est la plus élevée et évalue différentes options de plans intégrés afin de répondre aux risques ainsi triés. Ces discussions constituent le fondement d’une approche descendante en matière de planification et d’affectation des ressources, et permettent d’évaluer les répercussions sur les autres priorités. Les réunions ont lieu cinq fois l’an et sont présidées par le surintendant.
+* **Fonction Suivi et planification intégrés visant les IFF (CRA-SUR)**  
+  La fonction CRA-SUR s’appuie sur les travaux des deux autres fonctions pour discuter ouvertement des activités de surveillance pouvant être envisagées à l’avenir et faire l’examen annuel des résultats des activités de surveillance de l’année précédente et du plan de surveillance prospectif. Les réunions sont coprésidées par les surintendants auxiliaires du SSID et du SSSA.
+
+Conformément à notre principe de collaboration, le CRA regroupe des membres de tous les secteurs. En effet, il est constitué des membres du CD, des directeurs principaux et de l’actuaire en chef. En outre, le directeur général de la Division des régimes de retraite privés et le dirigeant principal de l’audit sont invités à titre d’observateurs, et d’autres observateurs peuvent être conviés, à la discrétion du président.
+
+Le calendrier suivant décrit le rythme et la fréquence des réunions du CRA :
+
+![Le calendrier des réunions du CRA - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img30-fra.jpg)
+
+Version textuelle - Le calendrier des réunions du CRA
+
+Ce schéma indique la fréquence des réunions des trois fonctions du Comité des risques d’affaires (CRA).
+
+* La fonction Encadrement du risque macroéconomique (CRA-MAC) se réunit quatre fois par an.
+* La fonction Triage des risques et intervention (CRA-TRI) se réunit cinq fois par an.
+* La fonction Suivi et planification intégrés visant les IFF (CRA-SUR) se réunit deux fois par an.
+
+Le compte rendu de chaque réunion de la fonction CRA-MAC sert de base pour la réunion suivante de la fonction CRA-TRI.
+
+Le compte rendu de la réunion « Triage annuel des risques et intervention » sert de base à la réunion « Incidence des risques macroéconomiques sur les IFF et planification » organisée chaque année par la fonction CRA-SUR.
+
+**Nota : Dans chacune des réunions, on se fonde sur les travaux des réunions précédentes afin de coordonner et d’intégrer les informations, les connaissances et le processus décisionnel sous l’ombrelle d’un seul organe directeur qui sert ensuite à la prise de décisions verticales.**
+
+#### Bureau de la gouvernance stratégique
+
+Le Bureau de la gouvernance stratégique (BGS) relève de la Direction de la gouvernance stratégique, de l’accès à l’information et de la protection des renseignements personnels, qui fait partie de la Division des communications et des affaires courantes. Les comités de gouvernance sont secondés par le BGS qui leur procure des services professionnels et stratégiques pour faciliter l’intégration et la coordination des décisions ainsi que le travail de soutien de leur secrétariat.
+
+Pour chaque réunion des comités, le BGS dresse un procès-verbal bilingue qui fait état des principaux messages, des discussions intervenues, des mesures à prendre et des décisions prises. Le BGS produit un tableau de bord mensuel des activités des comités de gouvernance supérieurs ainsi qu’un bulletin trimestriel, Les rouages de la gouvernance, tous deux publiés à l’intention de l’ensemble du personnel sur le portail @BSIF.
+
+### Comité d’audit
+
+#### Éléments essentiels du mandat
+
+Le Comité d’audit joue le rôle de conseiller auprès du surintendant. Il formule des recommandations et donne des conseils objectifs sur le caractère suffisant, la qualité et les résultats des services d’assurance fournis à l’égard de la pertinence et du fonctionnement des cadres et processus de gestion du risque, de contrôle et de gouvernance du BSIF, y compris les systèmes de reddition de comptes et d’audit. À la demande du surintendant, le Comité fournit également des conseils et des recommandations à propos des priorités, des préoccupations, des risques et des possibilités qui se profilent à l’horizon, ainsi que des questions relatives à la reddition de comptes.
+
+#### Composition et fréquence des réunions
+
+Quatre membres externes sont nommés au Comité d’audit qui est présidé par M. Frederick W. Gorbet. Le surintendant, le dirigeant principal de l’audit et le dirigeant principal des finances assistent également à chaque réunion. Des biographies détaillées des membres externes sont affichées sur le site du BSIF (voir le lien ci-dessous). Le Comité se réunit en personne et virtuellement au moins cinq à six fois par an. L’ordre du jour des réunions s’inspire d’un plan de travail établi au début de l’exercice. Les procèsverbaux sont mis à la disposition des employés du BSIF à l’interne.
+
+[Biographies des membres du Comité d’audit](/en/about-osfi/reports-publications/audit-committee-members "Audit Committee Members")
+
+#### Rapports d’audit
+
+Selon la pratique opérationnelle interne, les plans d’action de la direction élaborés en réponse aux rapports d’audit sont présentés par le surintendant pour approbation par le CD avant d’être déposés pour approbation par le Comité d’audit.
+
+## La communauté du BSIF
+
+Le BSIF encourage la création d’un fort sentiment d’appartenance à une communauté pleinement mobilisée. Bien qu’il y ait plusieurs façons pour les employés d’apporter une contribution, le surintendant exprime son soutien en participant aux divers volets et activités de renforcement de l’esprit de communauté présentés ci-après.
+
+### Réseau Inclusion
+
+#### Historique
+
+Créé au début de 2017, le Réseau Inclusion (RI) est une initiative « de terrain » dirigée par Ben Gully à titre de président et cadre responsable, en collaboration avec cinq « membres fondateurs », qui sont tous des dirigeants du BSIF.
+
+#### Rôle
+
+Soutenir les projets du BSIF en matière de diversité et d’inclusion en fournissant une orientation stratégique et un encadrement :
+
+* Sensibiliser et informer les employés sur les questions de diversité et d’inclusion, et encourager les comportements inclusifs
+* Appuyer les volets pertinents de la Stratégie du capital humain du BSIF en intégrant la diversité et l’inclusion aux projets du Bureau à plus grande échelle
+* Superviser les activités des volets du RI
+
+#### Composition
+
+* Champion de la culture et du sentiment d’appartenance au BSIF (Ben Gully)
+* Coprésidents (Lydia Kimumwe et John Preiato)
+* Secrétaire (John Pehar)
+* Responsables (et coresponsables) des volets suivants :
+  + Accessibilité et mesures d’adaptation
+  + Diversité des idées
+  + Responsabilités familiales
+  + Identité de genre
+  + LGBTQI2S
+  + Santé mentale
+  + Multiculturalisme
+  + Préjugés inconscients
+* Représentant du BSIF – Langues officielles
+* Représentant du BSIF – Équité en matière d’emploi
+* Représentant du BSIF – Ressources humaines
+* Représentant du BSIF – Communications
+* Représentants du BSIF – Bureaux de Vancouver et de Montréal
+* Membres fondateurs du RI
+
+#### Principales réalisations
+
+* Création de huit volets sur la diversité et l’inclusion, composés de volontaires de l’ensemble du BSIF qui se réunissent régulièrement.
+* Mobilisation de l’ensemble des employés du BSIF grâce à la tenue de deux assemblées générales virtuelles ayant connu une très forte participation. Sollicitation de commentaires sur l’orientation future du BSIF en matière de diversité et d’inclusion.
+* Organisation d’un grand nombre d’activités liées à la diversité et à l’inclusion en 2019-2020, notamment :
+  + Célébration de journées importantes
+  + Séances de discussion
+  + Séances de questions-réponses organisées par des groupes d’experts
+  + Invitation de conférenciers
+
+#### Plan en cinq points du Conseil du RI (à court terme)
+
+|  | |
+| --- | --- |
+| 1  Remplacer le concept de *diversité et inclusion* (DI) par celui de *diversité, équité et inclusion* (DEI) | * Le concept de DI au BSIF doit être élargi pour inclure *l’équité*. * La notion d’*équité* tient compte du fait que le lieu de travail présente des avantages et des obstacles. * Inclusion of equity signals a commitment to correct and address the imbalance   **ÉTAT – La notion d’équité a été ajoutée au concept** |
+| 2  Accroître la mobilisation et l’adhésion du personnel grâce à des stratégies et objectifs sectoriels | * On ne peut obtenir une adhésion uniforme aux principes de DEI sans définir des objectifs clairs à l'échelle du BSIF et dans les documents sur les engagements à l’égard des buts (DEB) individuels. * Ajouter un objectif en matière de DEI arrimé à l’objectif 3.1 du Plan stratégique du BSIF aux DEB.   **ÉTAT – Objectif en matière de DEI ajouté aux DEB** |
+| 3  Offrir une formation sur la DEI à tout le personnel du BSIF | * Une formation sur la DEI est actuellement dispensée à tous les employés du groupe REX. * Il faut étendre cette formation à l’ensemble des employés afin de les sensibiliser aux questions de DEI.   **ÉTAT – En cours** |
+| 4  Accroître les activités de rayonnement en matière de diversité pour le programme COOP | * Pour accroître la diversité et l'équité au BSIF, on peut commencer par apporter des changements à la liste actuelle de candidats du programme COOP. * Étant donné que le télétravail demeurera la norme à court terme, il y a peu d'obstacles à ce que le BSIF élargisse sa liste de candidats potentiels.   **ÉTAT – En cours** |
+| 5  Convenir des attributions en matière de DEI au BSIF | * Nombre de personnes, de comités et d’équipes travaillent actuellement sur la DEI au BSIF. * Il est important de convenir des attributions de chacun, et que celles-ci soient bien comprises. * Le RI contribue aux travaux des Ressources humaines sur la matrice RACI (responsable, agent comptable, consulté, informé). * Le RI révise actuellement le mandat du Conseil et des volets du RI pour clarifier son rôle.   **ÉTAT – En cours** |
+
+### CCMTGC : Campagne de charité en milieu de travail du gouvernement du Canada
+
+Parallèlement aux activités de collecte de fonds plus générales du gouvernement du Canada, le BSIF mène chaque année une campagne de financement par l’intermédiaire de Centraide intitulée « Campagne de charité en milieu de travail du gouvernement du Canada » (CCMTGC). Cet événement, généralement lancé au début de l’automne, a connu un franc succès année après année grâce à la générosité des employés du BSIF.
+
+Outre les dons personnels sous forme de retenues salariales, les employés du BSIF participent à plusieurs activités de collecte de fonds qui revêtent un aspect social et amusant. Ces activités peuvent être organisées à l’échelle régionale ou dans l’ensemble du Bureau.
+
+Habituellement, un membre du CD se porte volontaire pour agir à titre de cadre responsable du CD (pour la CCMTGC de 2020, il s’agissait du surintendant auxiliaire du SSR). Le CGC supervise la constitution du comité organisateur de la CCMTGC, qui doit comprendre des membres des quatre régions et des différents secteurs.
+
+### Semaine du BSIF
+
+La Semaine du BSIF est un événement annuel qui coïncide avec la Semaine nationale de la fonction publique (SNFP). La SNFP a été créée en 1992 à la suite de l’adoption de la Loi sur la semaine nationale de la fonction publique : pour un meilleur service aux Canadiens, afin de reconnaître l’importance des employés de la fonction publique fédérale et de souligner leur dévouement envers les Canadiens. En vertu de cette loi, la troisième semaine du mois de juin est reconnue au Canada comme étant la SNFP. En 2021, la Semaine du BSIF aura donc lieu du 13 au 19 juin.
+
+La Semaine du BSIF est l’occasion pour les employés de participer à des activités sociales et d’assister à l’assemblée générale annuelle du BSIF au cours de laquelle les membres du CD communiquent des messages importants à l’ensemble de la communauté du BSIF (p. ex., les valeurs du BSIF, les projets en matière de diversité, d’équité et d’inclusion, etc.). C’est également à cette occasion que sont remis les Prix d’excellence du BSIF aux lauréats. Avant la pandémie, et dans la mesure du possible, les employés des différents bureaux se réunissaient à Toronto (pour coïncider avec les travaux prévus) pour assister en personne à l’assemblée générale du BSIF. En 2020, en raison de la pandémie, l’événement a été organisé entièrement en ligne et a reçu un accueil très favorable. On prévoit de nouveau d’organiser l’assemblée de juin 2021 en mode virtuel.
+
+Les différentes activités sociales prévues pendant la Semaine du BSIF donnent l’occasion aux employés du BSIF de réseauter. Des activités sont planifiées tout au long de la semaine dans les quatre régions (dans certains cas, simultanément). Parmi les activités proposées par le passé, citons des chasses au trésor, des repas-partage, des cafés-rencontres virtuels ou des marches organisées. De plus, les membres du Réseau Inclusion du BSIF organisent habituellement une activité au cours de cette semaine pour sensibiliser les employés à la diversité, à l’équité et à l’inclusion. Jusqu’à maintenant, toutes les activités organisées ont connu une bonne participation et étaient inclusives et peu ou pas coûteuses.
+
+Un comité organisateur constitué de volontaires est formé au début de l’année civile pour planifier et organiser ces activités. Les membres du comité travaillent en étroite collaboration avec l’équipe des Communications, qui est responsable d’organiser l’assemblée générale annuelle, pour assurer l’uniformité des messages, gérer le calendrier des activités, etc.
+
+Le CGC supervise le travail du comité organisateur et désigne l’un de ses membres pour appuyer les travaux. Les présidents du comité organisateur de Toronto et d’Ottawa assistent aux réunions mensuelles du CGC qui précèdent la semaine du BSIF pour faire le point sur les progrès réalisés.
+
+## Accès à l’information et protection des renseignements personnels, et communication d’information
+
+### Accès à l’information et protection des renseignements personnels (AIPRP), communication proactive et protection de la vie privée
+
+#### Accès à l’information
+
+##### Loi sur l’accès à l’information
+
+La Loi sur l’accès à l’information (LAI) accorde aux citoyens canadiens, aux résidents permanents ainsi qu’aux particuliers et aux sociétés présents au Canada le droit d’accéder aux documents de l’administration fédérale en consacrant le principe du droit du public à leur communication, les exceptions indispensables à ce droit étant précises et limitées et les décisions quant à la communication étant susceptibles de recours indépendants du pouvoir exécutif. À l’heure actuelle, environ 260 institutions fédérales sont assujetties à la LAI.
+
+##### Responsabilités et structure hiérarchique
+
+L’unité responsable de l’accès à l’information et de la protection des renseignements personnels (AIPRP) fait partie de la Direction de la gouvernance stratégique au sein de la Division des communications et des affaires courantes. Cette unité est chargée d’appliquer la LAI pour le compte du BSIF. À ce titre, elle coordonne, dans les meilleurs délais, le traitement des demandes présentées aux termes de la LAI, gère les plaintes déposées auprès du commissaire à l’information, répond aux demandes d’information informelles et est responsable des questions relatives à la communication proactive. De plus, elle prodigue conseils, instructions et formation aux employés du BSIF et aux équipes de projet sur des questions ayant trait à la LAI.
+
+Le gestionnaire, Protection des renseignements personnels et accès à l’information relève du directeur, Bureau de la gouvernance stratégique, accès à l’information et protection des renseignements personnels, et est secondé par un agent principal de l’AIPRP, un agent de l’AIPRP et un agent subalterne de l’AIPRP. Le poste d’agent principal de l’AIPRP – gouvernement ouvert a été créé et pourvu avant que le projet de loi C-58 n’obtienne la sanction royale en juin 2019. L’unité responsable de l’AIPRP a également recours à des marchés de services. Avant le 1er avril 2021, l’équipe de l’AIPRP faisait partie de la Direction de la gestion de l’information d’entreprise (GIE).
+
+##### Processus et vue d’ensemble de l’AIPRP
+
+Toutes les demandes officielles d’accès à l’information sont soumises au gestionnaire, Protection des renseignements personnels et accès à l’information, qui les examine et les attribue à un agent de l’AIPRP. Ce dernier demande l’information aux agents de liaison de l’AIPRP des services visés. Après avoir examiné les documents recueillis, le Bureau de l’AIPRP donne des conseils et des directives pour s’assurer que les dispositions de la loi sont respectées.
+
+Les documents rassemblés sont examinés par l’agent de l’AIPRP et le gestionnaire, Protection des renseignements personnels et accès à l’information. Les documents et les recommandations se rapportant à chaque demande sont ensuite soumis au secteur de programme pour validation. Une fois approuvée, la trousse de communication est soumise à l’examen et à l’aval du surintendant auxiliaire du Secteur des services intégrés.
+
+#### Communication proactive
+
+##### Projet de loi C-58
+
+Le projet de loi C-58, Loi modifiant la Loi sur l’accès à l’information, la Loi sur la protection des renseignements personnels et d’autres lois en conséquence, a reçu la sanction royale le 21 juin 2019, apportant d’importantes améliorations en matière d’ouverture et de transparence de l’administration fédérale. Il s’agit des modifications les plus importantes apportées à la loi depuis son entrée en vigueur en 1983 et de la première phase de l’examen de la Loi sur l’accès à l’information. La phase II, actuellement en cours, consistera en une révision complète de la loi.
+
+Pour la plupart des employés du BSIF, la conséquence la plus importante du projet de loi C-58 concerne la communication proactive, c’est-à-dire la publication volontaire de certains types de renseignements conformément aux délais prescrits par la loi. Les types de renseignements les plus fréquemment publiés sont les suivants :
+
+* les marchés d’une valeur supérieure à 10 000 $ (publiés chaque trimestre)
+* les frais de voyages et d’accueil (surintendant et surintendants auxiliaires, publiés chaque mois)
+* les cahiers d’information pour les comparutions du surintendant devant le Parlement (au besoin)
+* les rapports déposés au Parlement (au besoin)
+* les titres des notes d’information (notes de service à l’intention du surintendant ou du ministre, publiées chaque mois)
+* les documents d’information préparés pour le nouvel administrateur général (au besoin).
+
+##### Délégation des pouvoirs et responsabilités du surintendant
+
+La responsabilité de l’approbation finale et/ou de l’approbation du cadre supérieur chargé de la gestion de l’information (CSGI) avant la diffusion d’une demande d’accès à l’information dûment remplie ou la publication de documents prescrits au titre de la communication proactive incombe actuellement au surintendant auxiliaire du Secteur des services intégrés, aux termes de l’arrêté sur la délégation pris en vertu de la Loi sur l’accès à l’information. Il incombe au surintendant d’autoriser une version révisée de l’arrêté sur la délégation en vertu de la Loi sur l’accès à l’information à son entrée en fonction. À l’heure actuelle, le surintendant est également responsable de l’examen mensuel par le Bureau de première responsabilité (BPR) de tous les titres de notes d’information provenant du bureau du surintendant. Un survol du processus et du flux de travail qui s’y rattache dans eSpace seront mis à la disposition du surintendant dès que possible.
+
+#### Protection des renseignements personnels
+
+##### Loi sur la protection des renseignements personnels
+
+La Loi sur la protection des renseignements personnels (LPRP) a pour objet de compléter la législation canadienne en matière de protection des renseignements personnels relevant des institutions fédérales et de droit d’accès des individus aux renseignements personnels qui les concernent.
+
+##### Responsabilités et structure hiérarchique
+
+L’unité responsable de la protection des renseignements personnels fait partie de la Direction de la gouvernance stratégique au sein de la Division des communications et des affaires courantes. Cette unité est chargée d’appliquer la Loi sur la protection des renseignements personnels et les règlements et politiques qui s’y rattachent, et de contribuer aux projets de GI-TI par la préparation d’évaluations des facteurs relatifs à la vie privée et, dans le cas des renseignements personnels utilisés à des fins non administratives, des protocoles de protection des renseignements personnels. Des processus de dotation sont en cours pour pourvoir deux postes d’agent de la protection des renseignements personnels pour appuyer ce rôle. De plus, l’unité prodigue conseils et instructions aux employés du BSIF sur des questions ayant trait à la LPRP. Avant le 1er avril 2021, l’équipe de la protection des renseignements personnels faisait partie de la Direction de la gestion de l’information d’entreprise (GIE).
+
+## Perfectionnement du personnel
+
+### Vision de la haute direction
+
+#### Contexte – objectifs et approche
+
+##### Phase 1
+
+* Le premier Sommet des dirigeants s’est tenu en décembre 2019.
+* La vision initiale de la haute direction était définie comme suit :
+  1. La responsabilité de la dotation des postes de cadres dirigeants REX incombe au Comité de direction (CD).
+  2. Les nominations de cadres dirigeants REX sont effectuées à dessein.
+  3. Les postes de cadres dirigeants REX impliquent mobilité et polyvalence.
+* Depuis, le CD a pris des décisions d’embauche et effectué certaines rotations conformément à cette vision.
+
+##### Phase 2
+
+* Les points de vue de nos cadres dirigeants sur la vision et notre culture de leadership ont été recueillis entre octobre 2020 et février 2021 au moyen d’une série de réunions non hiérarchiques avec Jeremy, d’auto-évaluation et d’ateliers.
+* Ce processus a permis de cerner des thèmes clairs qui ont été présentés au CD.
+
+##### Phase 3
+
+* Les résultats des observations ont été communiqués à tous les cadres dirigeants et ont servi de base au deuxième Sommet des dirigeants, qui a eu lieu le 23 février 2021.
+* Dans le cadre du sommet, les cadres dirigeants ont discuté des façons de combler les lacunes cernées et se sont engagés à prendre les mesures appropriées, dont certaines font maintenant partie du cycle de gestion du rendement de 2021-2022.
+* Le projet Mimosa et des renseignements recueillis ont été présentés aux dirigeants du BSIF dans le cadre du Sommet des dirigeants de mars 2021, auquel étaient invités tous les employés des échelons REX.
+
+Équipe de projet
+
+| Nom | Titre | Fonction |
+| --- | --- | --- |
+| Jeremy Rudin | Surintendant | Cadre champion |
+| Patrick Clermont | Directeur général, Secteur de la réglementation | Porte-parole et champion du changement |
+| Geneviève Béland | Directrice, Apprentissage et perfectionnement | Leader et experte |
+| Barbara Oattes | Directrice, Gestion des relations avec la clientèle | Gestionnaire de projet |
+| Kevin Guerin | Conseiller principal, Apprentissage et perfectionnement | Expert |
+
+#### Prochaines étapes
+
+##### Phase 4
+
+En qualité de cadres dirigeants, nous faisons passer l’innovation avant le statu quo, l’efficacité avant la perfection et la transparence avant l’harmonie.
+
+* **En cours** - Résumer les mesures d’action auprès des cadres dirigeants et les prochaines étapes.
+* **Juin – terminé** - Rapport de clôture du projet. Le rapport complet est consultable sur demande.
+
+  En résumé, les renseignements tirés des rencontres non hiérarchiques, des autoévaluations et des ateliers ont été regroupés en trois axes prioritaires. Ces axes représentent le point de vue commun de la communauté des cadres dirigeants. Dans le cadre du Sommet des dirigeants, ces derniers ont discuté des façons dont ils peuvent exercer leurs fonctions de leadership d’une manière différente pour assurer le succès du BSIF (voir ci-dessous).
+
+  Pour renforcer la responsabilisation, nous nous sommes appuyés sur les résultats du Sommet des dirigeants afin de définir les engagements des dirigeants à l’égard des buts du BSIF. Ces engagements figurent dans les documents sur les engagements à l’égard des buts des employés REX-08 (ou d’un échelon supérieur) pour 2021-2022.
+
+  + L’innovation avant le statu quo
+  + L’efficacité avant la perfection
+  + La transparence avant l’harmonie
+* **En cours** - Communiquer au personnel du BSIF les points saillants du projet, les informations essentielles, les engagements et les prochaines étapes.
+
+### Stratégie en matière de capital humain
+
+#### Vue d’ensemble
+
+##### Contexte
+
+En 2017, le BSIF a lancé une stratégie pluriannuelle en matière de capital humain (SCH) qui sert de cadre général relatif aux priorités importantes pour le BSIF en matière de gestion des personnes. La stratégie nous guide sur la manière dont nous encadrons et gérons nos employés, dont nous favorisons le développement des compétences et l’apprentissage continu, et dont nous offrons une certaine mobilité et des possibilités d’avancement professionnel. Elle nous guide aussi sur la manière d’attirer de nouveaux talents au BSIF.
+
+La SCH s’arrime au plan stratégique du BSIF (2019-2022) dans le cadre de l’objectif no 3 : améliorer l’agilité et l’efficacité opérationnelle au BSIF. L’objectif no 3 consiste à assurer l’accès aux effectifs, aux habiletés et à l’infrastructure nécessaires pour répondre aux besoins de l’organisation, ainsi que l’utilisation efficace de ces ressources.
+
+Dans le cadre de la SCH, nous avons d’abord défini cinq domaines prioritaires importants pour le renforcement, le développement et le soutien du capital humain, et nous avons veillé à l’harmonisation des politiques et des pratiques. Les cinq domaines prioritaires sont les suivants : Perfectionnement des compétences en leadership; Gestion des talents; Apprentissage et perfectionnement; Culture et sentiment d’appartenance; et Gestion du changement d’entreprise.
+
+En 2021, un sixième pilier a été ajouté à la SCH afin de refléter et d’orienter les engagements pris dans le cadre de l’examen des processus d’embauche et de promotion. Ce pilier consiste à passer en revue nos politiques et pratiques en matière d’embauche afin d’éliminer tout préjugé éventuel et d’améliorer la représentativité. L’examen s’inscrite dans la stratégie globale de la diversité, de l’équité et de l’inclusion (DEI).
+
+Au cours de la prochaine année, nous prévoyons d’amorcer la conception et l’élaboration d’une nouvelle SCH, tout en suivant les directives du Comité des gens et de la culture (CPC), du Comité de direction (CD) et du nouveau surintendant. Ce travail comprendra la réalisation d’un examen complet visant à établir les priorités pour l’avenir, y compris l’environnement postpandémique, qui aura un effet transformateur sur notre lieu de travail, notre effectif et nos dirigeants.
+
+##### Piliers de la SCH
+
+Les six piliers suivants constituent la SCH. Les détails relatifs à chaque pilier sont résumés ci-dessous.
+
+* Perfectionnement des compétences en leadership
+* Gestion des talents
+* Apprentissage et perfectionnement
+* Culture et sentiment d’appartenance
+* Gestion du changement d’entreprise
+* Planification de l’effectif (addenda)
+
+Outre la SCH, on a élaboré une feuille de route afin de présenter un aperçu des activités prévues pour chacun des six piliers. Elle comprend une mise à jour sur les travaux entrepris depuis 2017 ainsi qu’une liste des travaux en cours ou à terminer. Les travaux approuvés dans le plan d’action sur les pratiques d’embauche et de promotion ont été inclus dans le pilier Planification de l’effectif.
+
+##### Pilier 1 :
+
+###### Perfectionnement des compétences en leadership
+
+* Plusieurs activités font partie du pilier Perfectionnement des compétences en leadership, notamment le Programme de perfectionnement en leadership (PPL) pour les cadres dirigeants, des séances d’encadrement par les pairs, la formation en perfectionnement du leadership comme la gestion du changement, l’acquisition de meilleures habitudes de travail à domicile, la résilience, une série d’apprentissage sur la diversité, l’équité et l’inclusion, et la compréhension de l’intelligence émotionnelle (EQ-i). Les gestionnaires de personnes du BSIF ont également accès à des services d’encadrement en personne et virtuels bilingues, ainsi qu’à des outils et à de la formation leur permettant d’offrir eux-mêmes un meilleur encadrement. Le Programme de rétroaction tous azimuts du BSIF est offert aux gestionnaires de personnes de tous les niveaux.
+* Dans le cadre du perfectionnement en leadership, le BSIF a conçu un modèle de leadership sur mesure afin d’établir les attentes en matière de leadership et de favoriser une solide culture de leadership, en particulier en ce qui concerne l’intégrité, la collaboration, l’agilité et la transparence. Le BSIF a entrepris un examen de son modèle de compétences en leadership (MCL), qui s’applique aux employés du groupe RE et au modèle de leadership. L’examen a pour objectif d’intégrer les deux modèles, tout en tenant compte des différentes compétences en fonction du volet : gestion des personnes ou gestion technique.
+* Le BSIF dispose d’un Programme sur les compétences essentielles en gestion (PCEG) et d’une trousse d’outils à l’intention des nouveaux gestionnaires de personnes du groupe RE. Dans le cadre d’une approche globale du leadership, le BSIF a conçu lui-même ce programme unique, qui s’étend au continuum de perfectionnement du leadership du BSIF. Depuis son lancement, le public cible s’est étendu aux employés du groupe RE qui ont non seulement des subordonnés directs, mais qui gèrent également des personnes dans d’autres fonctions de leur travail, comme des travaux liés à des projets ou des tâches courantes. En 2020, ce programme a été complété par le Programme de gestion en mode virtuel, qui met l’accent sur trois piliers clés de la gestion dans un environnement de travail virtuel : communication, mieux-être et gestion axée sur les résultats.
+
+##### Pilier 2 :
+
+###### Gestion des talents
+
+* Le BSIF a mis en place un programme cyclique de gestion des talents pour les REX, qui porte principalement sur le repérage et le perfectionnement des talents. Le programme vise également à prendre des mesures pour soutenir et développer les talents en vue de la planification de la relève. Le programme est exécuté chaque année, et les gestionnaires échangent avec leurs employés, examinent le placement sur une carte des talents, discutent des intérêts de l’employé et prévoient des plans de perfectionnement. Ces discussions sont distinctes de celles sur la gestion du rendement.
+* En 2019, le BSIF a lancé des projets pilotes visant à étendre le programme de gestion des talents aux employés du groupe RE. L’objectif est d’élaborer et de mettre en œuvre un programme de gestion des talents des RE à l’échelle de l’organisation, y compris des cheminements professionnels bien définis, ainsi que des possibilités de mobilité et de perfectionnement pour tous les employés du groupe RE.
+
+##### Pilier 3 :
+
+###### Apprentissage et perfectionnement
+
+* L’apprentissage continu représente la pierre angulaire du pilier de l’apprentissage et du perfectionnement du BSIF. Dans le cadre du cycle de gestion du rendement, les employés et les gestionnaires participent à un exercice annuel d’élaboration d’un plan d’apprentissage pour déterminer les besoins et les intérêts en matière d’apprentissage. Le BSIF surveille l’engagement du Bureau à l’égard de l’apprentissage et vise en moyenne cinq jours de formation par employé.
+* En 2017, le BSIF a lancé son Initiative de formation en surveillance (IFS), une vaste initiative pluriannuelle axée sur l’élaboration d’une formation technique à l’intention des surveillants. L’IFS a été appliquée à la formation du personnel des Services communs de surveillance (SCS) lorsque ce groupe a été mis sur pied. Jusqu’à maintenant, elle compte 75 modules d’apprentissage technique destinés aux employés du secteur de la surveillance dans les deux langues officielles, ainsi qu’un cours actualisé sur le Cadre de surveillance visant à améliorer les connaissances des participants et la mise en application des compétences. Tous les nouveaux surveillants doivent suivre le Programme des fondements de la surveillance de 12 mois. Tous les documents de formation sont accessibles à tous les surveillants par l’intermédiaire du portail de formation du groupe des SCS sur l’intranet.
+* Plus récemment, l’équipe de l’apprentissage et du perfectionnement, de concert avec un expert conseil externe, des partenaires et des intervenants du BSIF, ont élaboré une stratégie approfondie d’apprentissage et de perfectionnement dans le but de s’assurer que nos investissements renforcent les capacités humaines souhaitées, appuient la réalisation des activités clés et servent les objectifs en matière de talents. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+
+##### Pilier 4 :
+
+###### Culture et sentiment d’appartenance
+
+* Dans le cadre du pilier Culture et sentiment d’appartenance, l’objectif du BSIF consiste à accroître la fierté et la reconnaissance au sein de l’organisation, à créer des occasions d’établissement de liens et de réseautage, à favoriser le mieux-être et le bien-être des employés et à élaborer une stratégie de diversité, d’équité et d’inclusion (DEI).
+* En 2019-2020, le BSIF a mené une évaluation de la culture afin de comprendre l’état souhaité et d’alimenter l’élaboration de futurs projets. Au cours de l’exercice 2021-2022, le BSIF entreprendra un examen et une mise à jour de l’évaluation de la culture, et s’en servira pour bonifier ses politiques et pratiques sur un certain nombre de fronts liés à la DEI, au programme PIVOT (l’avenir du travail et du lieu de travail) et à la gestion des personnes.
+* Le BSIF dispose d’un solide Programme de reconnaissance, qui comprend des prix du BSIF à l’échelle de l’organisation (Valeurs du milieu de travail du BSIF, Un seul bureau), ainsi que la reconnaissance pour des catégories de prix particulières dans le cadre des prix sectoriels. En 2020, le surintendant a lancé les pièces du surintendant, des pièces commémoratives décernées aux employés qui s’efforcent continuellement d’appuyer les objectifs du Plan stratégique du BSIF.
+* Le Réseau Inclusion, un projet des employés, a été mis sur pied pour sensibiliser les gens et célébrer la diversité. Il comprend des activités dans divers volets comme les préjugés inconscients, le genre, le multiculturalisme, la communauté LGBTQI2S, les responsabilités familiales, la diversité des pensées de même que la santé mentale et le mieux-être.
+* Soucieux du mieux-être du personnel du BSIF au cours de la pandémie, les RH ont lancé une série à ce sujet qui comprend plusieurs guides, des webdiffusions et des séances d’information et qui met à la disposition du personnel un arsenal d’outils et de ressources afin de faire valoir l’importance de la santé mentale, du mieux-être et du soutien. [Les renseignements ont été retranchés, conformément à la Loi sur l'accès à l'information.]
+* Plus récemment, le BSIF a pris des dispositions pour officialiser son approche de l’intégration de la DEI dans le tissu même de sa culture. Vous trouverez des détails supplémentaires sur la DEI dans la section prévue à cet égard.
+
+##### Pilier 5 :
+
+###### Gestion du changement d’entreprise
+
+* Dans le cadre du pilier Gestion du changement d’entreprise (GCE), l’objectif est de faire de la gestion du changement une partie intégrale de la manière dont le BSIF exerce ses activités. En 2017-2018, le BSIF a lancé son cadre de GCE, qui prévoit des processus et des outils pour gérer le côté humain du changement sur les plans de l’initiative et du portefeuille. Ont été offerts des ateliers de formation pour renforcer les capacités de la direction et du personnel à diriger, à soutenir et à accepter le changement. Pour faciliter l’application du cadre de GCE, le BSIF a créé le réseau des responsables de la GCE, formé de représentants de chaque secteur. Le réseau des responsables a pour mission de promouvoir le cadre de la GCE. De plus, les responsables sont chargés de formuler des commentaires sur le cadre et des directives à l’appui de son application. Le BSIF fait également appel à des experts en GCE à temps partiel (ressources de tierces parties) qui fournissent des services consultatifs (c.-à-d. conseils et expertise sur la gestion du changement et l’application du cadre de GCE).
+* Depuis le lancement du pilier de la GCE, nous avons observé des signes positifs de progrès, notamment ce qui suit.
+* La sensibilisation à l’importance de la gestion du changement, en particulier en ce qui a trait aux projets d’envergure.
+* De meilleurs résultats ont été obtenus grâce à la capacité du BSIF de communiquer les changements organisationnels et d’offrir du soutien aux employés qui traversent des changements.
+* Le cadre et les outils sont jugés utiles.
+* Le réseau des responsables de la GCE a réalisé des progrès en ce qui a trait à la compréhension des projets de changement et de leur incidence sur l’organisation.
+* La formation sur la GCE a considérablement augmenté en 2019-2020, ce qui a entraîné une forte couverture dans l’ensemble de l’organisation.
+
+##### Pilier 6 :
+
+###### Planification de l’effectif
+
+* Le pilier de la planification de l’effectif a été lancé en 2021, dans le cadre de l’examen de l’embauche et de la promotion, et fait partie de la volonté du BSIF de revoir ses pratiques d’embauche. L’examen est désormais terminé, et le travail de mise en œuvre d’un plan d’action par étapes a été amorcé. Ce plan d’action vise à améliorer davantage nos pratiques, à sensibiliser les gestionnaires d’embauche, à offrir un plus grand soutien aux employés dans leur parcours professionnel et à accroître la transparence et la représentativité en cernant et en faisant tomber les obstacles et les préjugés éventuels.
+
+### Modèle de leadership
+
+Le modèle de leadership a été conçu sur mesure pour habiliter les dirigeants du BSIF à établir des attentes et à forger une culture solide en matière de leadership. Il s’appuie sur le modèle de compétences du BSIF et reflète la voie dans laquelle les gestionnaires de personnes doivent s’engager pour être perçus comme des sources d’inspiration et des dirigeants. Le modèle de leadership a pour but d’inciter les dirigeants à :
+
+* Incarner une expression cohérente du leadership
+* Mettre en œuvre la stratégie et la vision de l’organisation
+* Valoriser le leadership et les gens
+* Promouvoir les valeurs de l’organisation
+
+Le modèle de leadership énonce les comportements généraux qui permettent aux dirigeants de vivre les valeurs du BSIF dans le contexte du leadership. Il tient compte de la nature singulière du BSIF et de ce que devrait être son équipe de direction, tant individuellement que collectivement, et ce, en toutes circonstances, quel que soit le poste qu’occupe le gestionnaire de personnes. Il constitue le germe d’une culture permanente de leadership et laisse place à divers contextes et applications.
+
+Le modèle de leadership est le fondement de notre programme de perfectionnement en leadership et, ce faisant, permet aux dirigeants de réfléchir aux façons d’adopter les comportements dans leur travail de tous les jours. Ce modèle sera de plus en plus utilisé pour alimenter les discussions sur la gestion des talents et la gestion du rendement, à mesure qu’il sera intégré à la culture et aux divers processus organisationnels. Conjugué au modèle de compétences du BSIF, le modèle de leadership favorise la croissance des personnes et fait du BSIF une organisation à haut rendement sur la voie de nouveaux sommets.
+
+![Modèle de leadership - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img33-fra.jpg)
+
+Version textuelle - Modèle de leadership
+
+#### Collaboration
+
+Faire preuve d’un esprit collectif, favoriser la cohésion et éliminer les obstacles.
+
+* J’encouragerai la collaboration et la solidarité au sein des équipes et entre pairs, en créant un environnement inclusif.
+* J’éliminerai d’emblée tout ce qui nuit à la collaboration, y compris le cloisonnement.
+* Je solliciterai des commentaires et donnerai régulièrement mon avis afin que tous soient sur la même longueur d’onde et aient la même compréhension des choses, dans l’esprit d’Un seul bureau.
+
+#### Agilité
+
+S’adapter aux complexités environnementales par l’innovation.
+
+* J’instituerai un milieu où les employés ne craignent pas l’erreur en favorisant la prise de risques calculés.
+* Je miserai sur des idées diverses et de nouvelles façons de penser.
+* Je contribuerai à l’épanouissement personnel et professionnel des employés, je me ferai champion du changement et je créerai des équipes agiles.
+
+#### Transparence
+
+Cultiver l’ouverture et la confiance au sein l’organisme.
+
+* J’incarnerai la transparence, l’ouverture et la diversité des idées.
+* J’offrirai un encadrement et me comporterai de façon à promouvoir activement le respect, la dignité et la compréhension dans un climat inclusif.
+* Je communiquerai avec honnêteté et clarté.
+
+#### Intégrité
+
+Faire preuve d’authenticité dans l’exercice de son leadership.
+
+* J’appliquerai et inciterai les autres à appliquer une approche axée sur les résultats.
+* Je ne reculerai pas devant les tâches difficiles inhérentes à la direction, comme les conversations cruciales.
+* Je donnerai l’exemple et insufflerai courage, résilience et compassion dans nos décisions.
+
+### Programme de perfectionnement en leadership
+
+#### Contexte
+
+L’une des grandes priorités de la Stratégie du capital humain consiste à créer et à mettre en place un programme complet de perfectionnement en leadership au BSIF. Grâce au soutien de la société Lee Hecht Harrison Knightsbridge (LHHK), nous avons réalisé cet objectif le 15 mai 2018 lors de la prestation du Programme de perfectionnement en leadership (PPL) auprès d’une première cohorte de participants du BSIF.
+
+Ce sont les employés qui nous ont donné l’idée de mettre ce programme sur pied. Les résultats du sondage annuel et des exercices de consultation menés dans le cadre de la Stratégie du capital humain ont fait ressortir les compétences techniques remarquables de nos décideurs, ainsi que des lacunes importantes au chapitre de compétences telles que la communication, la rétroaction et la prise de mesures concrètes pour donner suite aux observations des employés.
+
+Nous avons également constaté que nos dirigeants devaient renforcer leurs liens, entre eux ainsi que par rapport à la vision et aux valeurs du Bureau. La société LHHK nous a aidés à définir nos besoins en matière de leadership en organisant des groupes de discussion, puis à bâtir un programme qui répond aux besoins cernés.
+
+Le programme est conçu pour affermir le leadership et les comportements qui aideront le BSIF à se démarquer par sa vision, à remplir sa mission et à incarner ses valeurs à même ses rangs et aux yeux de ses interlocuteurs. À l’aide d’un contenu éprouvé et pratique, les gestionnaires acquerront un état d’esprit et des compétences et mettront en application des moyens et des outils qui amélioreront la participation et le rendement de leurs équipes.
+
+#### Objectifs et architecture du programme
+
+Le Programme de perfectionnement en leadership (PPL) vise à parfaire les compétences des participants et à leur donner les moyens d’inspirer la confiance en tant que dirigeants. Il se compose de modules conçus pour enrichir les capacités en matière de leadership personnel, d’équipe et organisationnel. Plus précisément, il aidera les participants à :
+
+* Prendre conscience de leur propre style de gestion et de l’influence qu’ils exercent sur autrui
+* Exercer les responsabilités de leader au BSIF, aujourd’hui et demain
+* Optimiser l’utilisation du temps et de l’énergie pour donner le meilleur de soi-même
+* Former des personnes et des équipes très performantes
+* Représenter l’organisation en tant que communicateur et agent de changement
+
+Le PPL comporte divers éléments visant à favoriser et à soutenir l’apprentissage :
+
+* Orientation du programme pour les participants de la cohorte et leurs gestionnaires
+* Évaluation DiSC®
+* Travaux préparatoires et missions de terrain
+* Modules d’apprentissage (divisés en trois composantes de base)
+  + Composante 1 : Leadership personnel
+  + Composante 2 : Mise en place d’équipes gagnantes
+  + Composante 3 : Gestion du changement
+* Séances d’accompagnement par les pairs
+
+## Ressources humaines
+
+### Classification et conception organisationnelle
+
+#### Loi
+
+Le pouvoir de pourvoir à la classification des postes au sein du BSIF découle de la Loi sur le BSIF, qui stipule ce qui suit :
+
+*Le surintendant est autorisé, en ce qui a trait aux personnes nommées en vertu de l’article 11, à assumer les responsabilités et à exercer les attributions conférées au Conseil du Trésor en vertu des alinéas 7(1)b) et e) et de l’article 11.1 de la* [Loi sur la gestion des finances publiques](https://laws-lois.justice.gc.ca/fra/lois/f-11/) *(LGFP).*
+
+De plus, l’article 11.1 de la LGFP stipule ce qui suit :
+
+*11.1 (1) Le Conseil du Trésor peut, dans l’exercice des attributions en matière de gestion des ressources humaines que lui confère l’alinéa 7(1)e) :  
+b) pourvoir à la classification des postes et des personnes employées dans la fonction publique.*
+
+Par conséquent, en vertu des pouvoirs et des responsabilités énumérés dans la Loi sur le BSIF, le surintendant du Bureau du surintendant des institutions financières est autorisé à assurer la classification des postes et des personnes employées au BSIF.
+
+#### Subdélégation
+
+##### Pouvoirs en matière de classification
+
+Le surintendant est investi des pouvoirs de classification subdélégués suivants :
+
+| Niveaux de classification | Pouvoir d’approbation |
+| --- | --- |
+| RE-01 à RE-06 | Gestionnaire, Classification |
+| RE-07 à REX-07 | Dirigeant principal des ressources humaines |
+| REX-08 à REX-11 | Comité de direction (présidé par le surintendant) |
+
+##### Gouvernance et supervision
+
+Le Comité d’évaluation des postes (CEP) est l’organe de gouvernance et d’encadrement du BSIF pour ce qui est des activités de classification (évaluation des postes).
+
+Les activités d’encadrement de la classification maintiennent l’intégrité du Programme de classification en veillant :
+
+* à l’efficacité des décisions de classification grâce à un audit continu et systémique;
+* au respect et au maintien de la relativité;
+* au repérage des anomalies grâce à une surveillance et à un examen diligents;
+* à la prise de mesures correctives pour assurer l’application uniforme des normes de travail;
+* à la préparation d’un rapport trimestriel pour examen par le CEP;
+* à la préparation d’un plan annuel de surveillance et d’examen.
+
+Le gestionnaire, Conception organisationnelle et classification, veille à l’intégrité du Programme de classification du BSIF au moyen d’activités de surveillance et d’examen et d’un cycle régulier de présentation de rapports au dirigeant principal des RH et au Comité d’évaluation des postes (CEP).
+
+##### Normes et niveaux de classification au BSIF
+
+Le BSIF applique une seule norme de classification pour tous les postes, à savoir la méthode Hay. La méthode Hay est une forme de comparaison par facteurs dont se servent des milliers d’organisations de partout dans le monde pour évaluer tous les différents types d’emplois. Il s’agit de la norme utilisée par la Commission canadienne des droits de la personne pour étudier les plaintes en matière d’équité salariale, ainsi que par la Banque du Canada, la Société canadienne d’hypothèques et de logement, la Société d’assurance dépôts du Canada, la Monnaie royale canadienne, Exportation et développement Canada et l’administration publique centrale (pour les postes EX).
+
+Dans le système de classification du BSIF, les postes sont divisés en deux grandes catégories : le groupe RE ou le groupe REX, qui sont répartis de la façon suivante (veuillez noter que bien qu’il s’agisse de titres typiques, la liste suivante n’a pas pour but d’être exhaustive, et certains titres peuvent couvrir plus d’un niveau selon la discipline) :
+
+| Niveaux de classification | Titres de poste types |
+| --- | --- |
+| RE-01 | Commis |
+| RE-02 | Adjoint |
+| RE-03 | Coordonnateur, Agent, Analyste novice, Conseiller novice |
+| RE-04 | Adjoint de direction, Agent, Analyste |
+| RE-05 | Conseiller, Analyste principal |
+| RE-06 | Gestionnaire, Spécialiste |
+| RE-07 | Gestionnaire principal, Spécialiste principal |
+| REX-07 | Directeur |
+| REX-08 | Directeur général, Dirigeant principal de l'audit |
+| REX-09 | Directeur principal |
+| REX-10 | Directeur principal, Actuaire en chef |
+| REX-11 | Surintendant auxiliaire |
+
+#### Conception organisationnelle
+
+L’image ci-dessous illustre la distinction entre le leadership des cadres dirigeants et le Comité de direction du BSIF dans le contexte des niveaux de classification des postes.
+
+![Conception organisationnelle - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img36-fra.jpg)
+
+Version textuelle - Conception organisationnelle
+
+Ce schéma indique la structure de classification des postes :
+
+Comité de direction du BSIF
+
+Leadership des directeurs principaux
+
+Surveillance des institutions de dépôt REX-11
+
+* Directeur principal, PMB REX-09
+* Directeur principal, BIS REX-09
+
+Surveillance des sociétés d’assurance REX-11
+
+* Directeur principal, GAM REX-09
+* Directeur principal, GAV REX-09
+* Directeur principal, DA REX-09
+
+Soutien du risque REX-11
+
+* Directeur principal, Risque financier REX-09
+* Directeur principal, Risque non financier REX-09
+
+Réglementation REX-11
+
+* Directeur principal, Capital des sociétés d’assurance REX-09
+* Directeur principal, Affaires réglementaires et politiques stratégiques REX-09
+* Directeur principal, Fonds propres des banques REX-09
+
+Services intégrés REX-11
+
+* Dirigeant principal de l’information REX-09
+* Directeur principal, Communications et affaires courantes REX-09
+
+Responsable des Services communs de surveillance
+
+Avocat général (employé du ministère des Finances)
+
+Dirigeant principal de l’audit (relève directement du surintendant)
+
+Bureau de l’actuaire en chef (relève directement du surintendant)
+
+### Profil de l’effectif
+
+#### Population totale
+
+Au 31 mars 2021, le BSIF comptait 915 employés, soit une hausse de 6,2 % depuis le dernier exercice.
+
+![Effectif du BSIF - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img37-fra.jpg)
+
+Version textuelle - Effectif du BSIF
+
+Ce schéma indique l’évolution de l’effectif du BSIF :
+
+* 2015-16 : 701
+* 2016-17 : 712
+* 2017-18 : 746
+* 2018-19 : 782
+* 2019-20 : 862
+* 2020-21 : 915
+
+La majorité des employés sont situés à Toronto et à Ottawa.
+
+![Répartition de l’effectif entre les différents bureaux - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img38-fra.jpg)
+
+Version textuelle - Répartition de l’effectif entre les différents bureaux
+
+Répartition de l’effectif entre les différents bureaux
+
+Van. : 22
+
+Mtl. : 30
+
+Ott. : 400
+
+Tor. : 463
+
+Tous les secteurs ont connu une augmentation de l’effectif, la plus importante ayant été observée dans le Secteur de la surveillance des sociétés d’assurance (SSSA) (10,2 %), suivi du Secteur de la réglementation (8,6 %) et du Secteur des services intégrés (8,1 %). La catégorie « Autres » comprend les Services communs de surveillance (SCS), le Bureau de l’actuaire en chef (BAC), la Division de l’audit interne et le Bureau du surintendant. Le secteur le plus important quant à la population, les Services intégrés, représente environ 29 % de l’effectif du BSIF.
+
+![Effectif du BSIF par secteur - la version textuelle suit](/sites/default/files/import-media/general_content/transparency/2021-10/fr/TB21-img39-fra.jpg)
+
+Version textuelle - Effectif du BSIF par secteur
+
+Nbre d’employés
+
+Effectif du BSIF par secteur en 2019-2020
+
+* SI : 246
+* SSR : 164
+* REG : 139
+* SSID : 130
+* SSSA : 118
+* Autre : 65
+
+Effectif du BSIF par secteur en 2020-2021
+
+* SI : 266
+* SSR : 167
+* REG : 151
+* SSID : 133
+* SSSA : 130
+* Autre : 68
+
+En général, la répartition des employés est demeurée stable. Comme avant, la plus grande concentration d’employés se retrouve aux échelons RE-05 et RE-06. Bien que le nombre total de postes REX ait augmenté en 2020-2021, la proportion de la population REX, soit 18,4 % du total de l’effectif, a légèrement reculé par rapport à l’année dernière (18,8 %).
+
+| Niveau | 2021-21 | |
+| --- | --- | --- |
+| # | % |
+| RE-01 | 0 | 0 % |
+| RE-02 | 18 | 2 % |
+| RE-03 | 91 | 10 % |
+| RE-04 | 77 | 8 % |
+| RE-05 | 249 | 27 % |
+| RE-06 | 251 | 27 % |
+| RE-07 | 61 | 7 % |
+| REX-07 | 106 | 12 % |
+| REX-08 | 43 | 5 % |
+| REX-09+ | 19 | 2 % |
+| Total | 915 | 100 % |
+
+Au 31 mars 2021, l’âge moyen des employés du BSIF s’établissait à 45,8 ans, comparativement à la moyenne de 43,4 ans des employés de la fonction publique en 2019-2020. L’âge moyen des nouveaux employés du BSIF à la fin de l’exercice était de 40,9 ans.
+
+#### Utilisation des congés annuels
+
+L’utilisation des vacances a considérablement diminué par rapport à l’an dernier (12,5 jours comparativement à 17,4 jours) en raison de la pandémie. Les restrictions de voyage sont l’une des raisons de la diminution de l’utilisation des congés annuels. De plus, la possibilité de travailler en tout lieu assouplit le cadre professionnel; les employés peuvent avoir besoin d’un moins grand nombre de jours de congé, car ils sont en mesure de travailler à l’endroit de leur choix. L’utilisation moyenne des congés de maladie a sensiblement diminué (3,3 jours par rapport à 6,3 jours). Comme les employés peuvent travailler à domicile, ils sont moins exposés aux maladies et peuvent prendre des rendez-vous médicaux virtuels sans manquer le travail.
+
+#### Taux de roulement
+
+Le taux de roulement général a diminué en 2020-2021. Le taux de roulement annuel des quatre dernières années se situait entre 6,0 % et 6,7 %. Le taux de roulement pour 2020-2021 était de 3,9 %.
+
+Cette diminution est attribuable à la pandémie de COVID-19. Historiquement, les employés qui quittent le BSIF ont tendance à se tourner vers les services financiers, un secteur touché par la pandémie. Au cours de cette année sans précédent, certains employés ont peut-être reporté des changements de carrière. Le taux de roulement volontaire inférieur à la normale peut s’expliquer par le fait que les employés veulent conserver leur sécurité d’emploi.
+
+Nous savons aussi que certains employés ont décidé de reporter leur décision de partir à la retraite en raison de la pandémie. Cela peut s’expliquer en partie par la plus grande souplesse offerte aux employés pour travailler à domicile ou n’importe où au Canada. Les employés ont également eu la possibilité de travailler selon un horaire flexible, en fonction de leur situation personnelle.
+
+#### Départs à la retraire
+
+Parmi les employés admissibles à la retraite, seul un petit nombre prend sa retraite. En 2020-2021, 9,5 % (87) des employés étaient admissibles à la retraite et 1,6 % (15) des employés l’ont fait, ce qui est conforme à la situation passée. Remarque : l’admissibilité à la retraite n’est pas une mesure de prévision exacte des départs, étant donné que de nombreux employés travaillent après leur date d’admissibilité.
+
+L’admissibilité à la retraite est la plus élevée dans le Secteur de la surveillance des sociétés d’assurance, où la proportion d’employés de plus de 60 ans, soit l’âge auquel les règles d’admissibilité à la retraite deviennent moins restrictives, est proportionnellement plus élevée.
+
+### Embauche et promotion, diversité, équité et inclusion
+
+#### Embauche et promotion
+
+Le BSIF procède actuellement à un examen de ses pratiques d’embauche et de promotion dans le cadre de son engagement plus vaste sur le plan de la diversité, de l’équité et de l’inclusion. Cet examen a pour but de nous protéger contre les préjugés inconscients et de prendre des mesures délibérées pour accroître la transparence de nos décisions d’embauche et améliorer la représentation de l’équité en matière d’emploi.
+
+L’examen comprend une évaluation de nos politiques et pratiques d’embauche, ainsi que de la compréhension de l’expérience du gestionnaire d’embauche et du candidat. Bien que l’examen ait révélé que le BSIF continue de se conformer à ses exigences législatives, il a permis de cerner des domaines où d’autres améliorations peuvent être apportées pour tenir compte des perceptions des employés et améliorer leur expérience. Un plan d’action réactif échelonné sur 12 à 15 mois a été élaboré et communiqué aux employés; nous en sommes actuellement à la phase de mise en œuvre.
+
+Les mesures prises à court terme comprennent l’examen et la mise à jour de la politique de nomination ainsi que du guide et de la formation connexe du BSIF, la mise à jour de la Stratégie du capital humain et de la feuille de route, l’éducation sur les données démographiques et les lacunes en matière d’équité en emploi par secteur, le lancement d’un processus de planification de la dotation pour déterminer les postes vacants et les stratégies de dotation, l’examen des compétences en gestion des personnes, et la détermination d’autres établissements d’enseignement pour le programme COOP.
+
+À moyen et à long terme, nous simplifierons le libellé de nos annonces d’emploi, mettrons à jour les compétences en gestion des personnes, donnerons de la formation aux gestionnaires d’embauche sur les responsabilités liées à l’équité en emploi et élaborerons des ressources pour les employés sur la façon de naviguer dans le processus de demande d’emploi. Nous mettrons également à l’essai des initiatives comme des stratégies de recrutement axées sur l’équité en emploi, l’utilisation d’outils d’évaluation normalisés, l’efficacité du processus d’évaluation à l’aveugle et le recours à des membres de comités de sélection intersectoriels. En outre, nous examinerons et harmoniserons nos programmes de gestion des talents, d’éléments essentiels de la gestion et de leadership virtuel afin de cerner et de préparer les dirigeants de demain.
+
+L’approche de l’examen de nos processus et pratiques d’embauche et de promotion se veut agile grâce à des projets d’essai et à l’application des leçons apprises en cours de route.
+
+Vous trouverez des détails sur les mesures prises à court terme et les mesures approuvées à moyen et à long terme dans les mises à jour trimestrielles.
+
+#### La diversité, l’équité et l’inclusion au BSIF
+
+##### Diversité, équité et inclusion
+
+Le BSIF a continué de promouvoir la diversité et l’inclusion en milieu de travail dans le cadre du pilier Culture et sentiment d’appartenance de la Stratégie du capital humain. Les initiatives de ce pilier comprennent des événements et des activités qui célèbrent la diversité de nos employés et des collectivités dans lesquelles nous vivons. Le BSIF sollicite la rétroaction de ses employés dans le cadre de sondages annuels auprès des employés pour mesurer l’inclusivité, y compris les expériences de discrimination potentielle. L’équité est mesurée dans le rapport annuel sur l’équité en matière d’emploi du BSIF et traitée dans son plan triennal d’équité en matière d’emploi.
+
+En juillet 2020, le Comité de direction (CD) a affirmé son engagement à adopter une approche plus approfondie et plus systématique pour bâtir un milieu de travail encore plus diversifié, plus équitable et plus inclusif, dans le but de placer cet objectif au cœur de la culture du BSIF.
+
+Le CD a établi une voie à suivre, qui comprend ce qui suit :
+
+* la responsabilisation du Comité de direction en matière de diversité, d’équité et d’inclusion (DEI) au sein du BSIF;
+* l’encadrement de l’élaboration de la stratégie de diversité, d’équité et d’inclusion par le Comité des personnes et de la culture (CPC);
+* la création de plus d’occasions pour développer et favoriser les efforts de diversité et d’inclusion en s’inspirant de ce qui se fait sur le terrain et dans la communauté.
+
+En mars 2021, le BSIF a présenté son cadre de responsabilisation en matière de DEI, qui établit les responsabilités des neuf groupes d’intervenants qui s’emploient à faire de la DEI un élément central de la culture du BSIF. Nous faisons la promotion de la diversité de l’équité et de l’inclusion au BSIF, et avons donné au CGC le mandat d’élaborer la stratégie de DEI, en collaboration avec les Ressources humaines.
+
+Le CGC surveillera l’élaboration, l’avancement et la mise en œuvre en temps voulu de la stratégie de DEI, en assurant un leadership éclairé, une orientation et une gouvernance efficace à l’équipe de projet, et en présentant des rapports d’étape périodiques au CD et à tous les employés. Les efforts déployés actuellement par le CGC sont axés sur l’établissement de l’orientation et le soutien offert à la Division des ressources humaines dans la planification du travail à cet égard. En mai 2021, une division distincte de la DEI a été créée au sein des Ressources humaines; les prochaines étapes de l’élaboration de la stratégie consisteront à effectuer une évaluation diagnostique de l’inclusion et à mettre à jour l’évaluation de la culture menée en 2019. Ces éléments, ainsi qu’un examen des pratiques et des politiques du BSIF, constitueront le fondement de la conception et de l’élaboration de la stratégie de DEI.
+
+#### Équité en emploi
+
+En vertu de la Loi sur l’équité en matière d’emploi (LEE), le BSIF est tenu d’adopter des mesures pour assurer la représentation, dans son effectif, des quatre groupes désignés : les femmes, les Autochtones, les personnes handicapées et les minorités visibles. Le BSIF est également tenu d’éliminer les obstacles à l’emploi qui désavantagent les membres de ces groupes désignés. Il doit aussi adopter des politiques positives en matière d’embauche, de formation, de maintien en poste et d’avancement des membres de ces quatre groupes désignés et, chaque année, de comparer leurs taux de participation à l’effectif de l’organisme par rapport à ceux des membres des mêmes groupes possédant des compétences comparables dans la population active canadienne.
+
+Conformément aux exigences établies dans la LEE, le BSIF prépare et dépose un rapport annuel sur l’équité en matière d’emploi à l’intention du président du Conseil du Trésor du Canada. Ce rapport annuel souligne nos activités en matière d’équité en emploi et présente de l’information sur la représentation des quatre groupes désignés au sein du Bureau. De plus, le BSIF dispose d’un plan triennal d’équité en emploi 2020-2023, qui a été approuvé par le Comité des gens et de la culture (CGC) en octobre 2020. Au cours de 2021-2022, le BSIF lancera une nouvelle campagne d’auto-identification relativement à l’équité en emploi et utilisera les définitions mises à jour par le Conseil du Trésor du Canada.
+
+##### Comité consultatif sur l’équité en matière d’emploi et la diversité
+
+Le BSIF dispose d’un Comité consultatif sur l’équité en matière d’emploi et la diversité (CCEED) qui est composé de bénévoles issus de chacun des quatre groupes désignés ainsi que de représentants des deux syndicats du BSIF. Le CCEED joue un rôle consultatif dans la consultation et le suivi du Plan d’équité en matière d’emploi et du Rapport annuel, afin d’aider l’organisation à atteindre son objectif de pleine représentation.
+
+#### Initiative locale : Réseau Inclusion
+
+Au BSIF, les objectifs de DEI sont également appuyés par les activités du Réseau Inclusion. Le Réseau Inclusion, qu’on appelle aussi le RI, regroupe des employés qui souhaitent promouvoir l’inclusion en milieu de travail et encourager la diversité des pensées dans l’ensemble du BSIF. Le RI s’emploie à instaurer un environnement respectueux au sein duquel l’employé peut s’épanouir sans crainte, se sentir utile, apprécié et en symbiose, et mettre à contribution sa personne tout entière. Sa raison d’être est l’affirmation, la valorisation et le respect de la diversité.
+
+Le RI est constitué de huit volets relatifs à la diversité : préjugés inconscients, multiculturalisme, LGBTQI2S, diversité des pensées, genre, accessibilité, responsabilités familiales, santé mentale et mieux-être. Les responsables des volets organisent des activités et des événements pour accroître la sensibilisation, la compréhension et le sentiment d’appartenance.
+
+### Cadre des relations de travail
+
+#### Négociation collective
+
+##### Employés (non membres de la direction)
+
+Les employés non cadres du BSIF (classifiés aux échelons de RE-01 à RE-07) sont syndiqués et représentés par deux syndicats :
+
+* **L’Alliance de la Fonction publique du Canada (AFPC)** représente un petit nombre d’employés classifiés aux échelons RE-01 et RE-02 (environ 20 employés, soit 2 % de l’effectif).
+* **L’Institut professionnel de la fonction publique du Canada (IPFPC)** représente la majorité des employés du BSIF, classifiés aux échelons RE-03 à RE-07 (environ 680 employés, soit 74 % de l’effectif).
+
+En tant qu’organisme distinct, le BSIF gère son propre processus de négociation collective avec chacun des syndicats. Cela dit, les conventions collectives sont étroitement harmonisées avec celles de la fonction publique fédérale; tout écart par rapport à la norme appliquée dans la fonction publique fédérale doit être approuvé par le Secrétariat du Conseil du Trésor. Le BSIF a mis en place ce processus pour assurer l’uniformité et l’harmonisation des droits et des avantages sociaux des employés dans l’ensemble des ministères et organismes fédéraux. La plupart des dispositions contenues dans les conventions collectives du BSIF sont conformes à celles de la fonction publique fédérale.
+
+La convention collective de l’IPFPC a été renouvelée en août 2019 et prend fin le 31 mars 2022.
+
+La convention collective de l’AFPC a pris fin le 31 mars 2018. Le BSIF est actuellement en pourparlers avec le négociateur de l’AFPC pour reprendre les négociations.
+
+##### Cadres dirigeants
+
+Les cadres dirigeants ne sont pas représentés par un syndicat. Leur emploi est régi par les conditions d’emploi énoncées dans les conditions d’emploi du groupe REX. Le BSIF compte actuellement 174 cadres dirigeants, soit 19 % de son personnel.
+
+##### Relations patronales-syndicales
+
+Le BSIF entretient des relations solides et productives avec ses homologues syndicaux. Un Comité de consultation patronale-syndicale (CCPS) est en place, qui est composé de représentants de la direction, des deux syndicats et des Ressources humaines. Le Comité est présidé par le surintendant auxiliaire des Services intégrés. Ce forum donne l’occasion aux syndicats et à la direction de discuter des principaux dossiers d’intérêt. Les membres de l’équipe des Ressources humaines encouragent un dialogue ouvert avec les représentants syndicaux afin de régler rapidement les problèmes. La collaboration continue avec les syndicats a contribué à un nombre historiquement faible de recours officiels au BSIF.
+
+### Les langues officielles au BSIF
+
+#### Politique
+
+##### Politique sur les langues officielles
+
+Le BSIF est assujetti aux exigences de la Loi sur les langues officielles (LLO). En novembre 2012, le Secrétariat du Conseil du Trésor (SCT) a approuvé une série de quatre nouveaux instruments de politique sur les langues officielles, soit une politique sur les langues officielles, des directives concernant la gestion des personnes, les communications et les services ainsi que la mise en œuvre de règlements concernant les communications avec le public canadien et la prestation des services.
+
+Tous les postes au BSIF sont désignés unilingues ou bilingues. Les postes unilingues portent la mention « anglais essentiel », « français essentiel » ou « anglais ou français ».
+
+Le BSIF comporte principalement des postes bilingues ou unilingues anglais essentiel. Il n’existe pas de poste « français essentiel » au BSIF. Les postes bilingues exigent l’emploi des deux langues officielles, et les compétences requises dans l’autre langue officielle. Au BSIF, les bureaux d’Ottawa et de Montréal se trouvent dans des régions bilingues, et ceux de Toronto et de Vancouver, dans des régions unilingues. Dans les régions désignées bilingues pour les besoins de la langue de travail, le BSIF doit faire en sorte que le milieu de travail soit propice à l’usage effectif des deux langues officielles et que les employés puissent exercer le droit d’utiliser l’une ou l’autre, sous réserve des obligations de servir le public ou de rendre des services personnels ou centraux aux employés du BSIF.
+
+Dans les régions bilingues, tous les employés doivent avoir accès aux instruments de travail qui sont utilisés régulièrement et à grande échelle (p. ex. manuels, politiques, procédures, directives, guides, formulaires, gabarits et lexiques) ainsi qu’aux systèmes électroniques dans les deux langues officielles. Dans les régions unilingues, ils doivent avoir accès aux instruments de travail qui sont utilisés régulièrement et à grande échelle dans les deux langues officielles s’ils sont appelés à communiquer avec le public ou les employés ou à leur fournir des services en anglais et en français.
+
+Le BSIF compte un Comité des langues officielles et un champion des langues officielles (président), dont le but est de promouvoir la dualité linguistique en milieu de travail et de formuler des commentaires et des conseils aux RH et à la direction sur la façon de respecter les exigences de la LLO, la politique du gouvernement sur les langues officielles et les objectifs du BSIF en matière de langues officielles (p. ex. le Plan d’action pour les langues officielles du BSIF). Le Comité rend compte au dirigeant principal des Ressources humaines, Division des ressources humaines, qui fournit des mises à jour périodiques au Comité des gens et de la culture sur les activités du Comité des langues officielles.
+
+#### Formation linguistique
+
+La formation linguistique au BSIF est financée centralement par l’équipe de l’Apprentissage et du perfectionnement pour les catégories d’employés suivantes :
+
+* les employés nommés de façon non impérative à un poste bilingue (exigence prévue par la loi);
+* les titulaires de postes nouvellement désignés bilingues ou de postes bilingues dont le profil linguistique a récemment été relevé et qui ne satisfont pas aux exigences du poste relatives à la connaissance des langues officielles.
+
+Toute autre formation linguistique est financée par le centre de coûts de l’employé, et les personnes qui souhaitent suivre une formation linguistique aux fins de perfectionnement professionnel ou pour maintenir leurs compétences actuelles y ont également droit. L’employé peut discuter de ses objectifs avec son gestionnaire lors de l’élaboration de son plan d’apprentissage. Il incombe au superviseur d’approuver la formation à la lumière de divers facteurs, par exemple, les besoins et les objectifs de l’employé en matière d’apprentissage, les exigences opérationnelles et les contraintes budgétaires.
+
+Les options de formation offertes aux employés sont le tutorat à temps plein ou à temps partiel et les leçons de groupe virtuelles, ainsi que des ressources d’apprentissage en ligne. L’équipe de l’Apprentissage et du perfectionnement peut donner des conseils sur la meilleure option pour l’employé en fonction de ses besoins d’apprentissage.
+
+### Sondage auprès des employés
+
+[Sondage auprès des employés (SE) du BSIF – édition 2020 Rapport final (PDF)](https://publications.gc.ca/collections/collection_2021/bsif-osfi/IN4-29-2020-fra.pdf)
+
+## Finances et budget
+
+### Modèle de financement
+
+Le BSIF est principalement financé par les cotisations des institutions financières et des régimes de retraite privés qu’il réglemente, et par un programme d’utilisateur-payeur pour les agréments législatifs et certains autres services (environ 94 % des revenus).
+
+Le montant que nous percevons de chaque institution est établi dans des règlements et sert à défrayer nos principales activités, à savoir :
+
+* l’évaluation du risque et l’intervention (surveillance)
+* le traitement des demandes d’agrément et l’établissement de précédents
+* l’élaboration de règlements et de consignes
+
+De façon générale, le système du BSIF est conçu pour répartir les coûts entre les secteurs selon le temps approximatif consacré à leur surveillance et à leur réglementation. Ces coûts sont ensuite imputés aux institutions d’un secteur donné suivant la formule applicable et la taille de l’institution. Les institutions cotées à un stade d’intervention doivent aussi verser une surprime à la mesure des ressources de surveillance supplémentaires qu’exige leur situation. C’est ainsi que les institutions bien gérées et à moindre risque assument une part plus modeste de nos coûts.
+
+Nous tirons également des revenus de la prestation de services à frais recouvrés (environ 1 % des revenus). Cela comprend les sommes que nous versent les provinces dont nous surveillons les institutions financières aux termes de marchés de services, certaines sociétés d’État comme la Société canadienne d’hypothèque et de logement (SCHL), que nous encadrons au titre de la Loi nationale sur l’habitation, et les revenus provenant d’autres organismes fédéraux auxquels nous fournissons un soutien administratif.
+
+Nous imposons des sanctions administratives pécuniaires aux institutions financières qui enfreignent une disposition de la Loi sur le Bureau du surintendant des institutions financières et percevons ces montants en vertu du Règlement sur les sanctions administratives pécuniaires (BSIF). Ces pénalités sont ensuite versées au Trésor. En vertu du Règlement, on ne peut pas appliquer ces sanctions pour réduire le montant global de la cotisation imposée aux institutions du secteur.
+
+Le budget du Bureau de l’actuaire en chef (environ 5 % des revenus) provient des droits perçus en contrepartie de services d’évaluation et de consultations actuarielles visant le Régime de pensions du Canada, le programme de la Sécurité de la vieillesse, le Programme canadien de prêts aux étudiants et divers régimes de retraite et d’assurance du secteur public, ainsi que de crédits parlementaires.
+
+*Remarque : Aux termes de l’article 17 de la*  Loi sur le BSIF, *le ministre des Finances peut utiliser les produits perçus en vertu de l’article 23 et du paragraphe 23.1 de cette loi (cotisations) pour payer les charges d’exploitation du BSIF. En outre, la Loi prévoit que le plafond des charges à prélever sur le Trésor ne peut dépasser de plus de 40 millions de dollars le montant des produits perçus.*
+
+### Pouvoirs financiers délégués
+
+Le BSIF est assujetti à la Directive sur la délégation des pouvoirs de dépenser et des pouvoirs financiers du SCT, qui donne effet aux articles 32, 33 et 34 de la Loi sur la gestion des finances publiques (LGFP). Ces articles énoncent les exigences relatives à la délégation des pouvoirs financiers et à l’établissement et au maintien de contrôles internes pour le processus de dépenses par le dirigeant principal des finances d’un organisme –– le directeur général des finances et de la planification intégrée du BSIF. Le pouvoir financier du BSIF est délégué au surintendant par le ministre des Finances, et l’instrument qui facilite cette délégation est examiné chaque année. Les pouvoirs financiers internes sont subdélégués au personnel de direction du Bureau, proportionnellement au grade et aux responsabilités.
+
+### Budgets et cycles de prévision
+
+Le BSIF réévalue ses enveloppes budgétaires chaque automne pour s’assurer qu’elles tiennent adéquatement compte des nouvelles priorités et initiatives. Les décisions budgétaires finales sont prises par le Comité de direction à la mi-décembre ou à la fin de décembre avant le début d’un nouvel exercice. Les budgets sont établis pour les quatre prochains exercices, l’accent étant mis sur l’exercice à venir.
+
+À titre de pratique de surveillance du rendement des secteurs par rapport au budget annuel approuvé, le BSIF effectue des examens des prévisions pour l’année complète aux premier, deuxième et troisième trimestres. La portée des cycles de prévision est de déterminer les risques et les possibilités dans les prévisions de l’année en cours (par rapport au budget) et, au besoin, de réaffecter les fonds. Une mesure de l’exactitude des prévisions financières, applicable aux chefs de secteur, facilite la discipline financière. Le CD examinera les prévisions pour la prochaine année complète (premier trimestre de 2021-2022) à la mi-août.
+
+### Rapports financiers externes
+
+#### Audit externe des états financiers annuels
+
+Les états financiers du BSIF font l’objet chaque année d’un audit externe; toutefois, il n’y a aucune exigence prévue par la loi ou une politique gouvernementale qui obligent le Bureau à le faire. De son propre chef, le BSIF a commencé à soumettre ses états financiers annuels à un audit externe à la fin des années 1990, et cela a été fait jusqu’en 2012 par le Bureau du vérificateur général (BVG). Depuis 2012, le BSIF a retenu les services d’une firme privée (actuellement Deloitte) pour effectuer les audits, car le cadre législatif du BVG ne lui permet pas de recouvrer les coûts auprès du BSIF. La décision de recourir à des auditeurs externes était en grande partie fondée sur l’importance de démontrer la conformité aux normes d’audit du secteur financier.
+
+#### Rapports financiers trimestriels
+
+Le BSIF prépare des états financiers trimestriels, conformément à l’article 65.1 de la LGFP et aux Normes comptables pour le secteur public (NCSP), selon la méthode de comptabilité d’exercice. Ces rapports sont préparés pour les périodes se terminant le 30 juin, le 30 septembre et le 31 décembre, présentés au Comité d’audit et affichés sur le site Web externe du BSIF dans les 60 jours suivant la fin du trimestre.
+
+### Empreinte financière de 2021-2022 à 2024-2025
+
+Sur demande, le Bureau du dirigeant principal des finances du BSIF peut fournir l’empreinte financière de 2021-2022 à 2024-2025. Les réunions spéciales subséquentes du CD fourniront des détails sur les enveloppes budgétaires et le cycle prévisionnel actuel.
+
+## Autres liens de référence
+
+| Liens utiles | Publications du BSIF | Rapports externes |
+| --- | --- | --- |
+| [BSIF Twitter](https://twitter.com/BSIFCanada) | [Discours et exposés](/fr/nouvelles?search=&type=4&field_topics=All&year=&items_per_page=5) | [Rapports annuels](/fr/propos-du-bsif/rapports-publications?keys=&field_publication_type_target_id=70&year=) |
+|  | [Communiqués de presse et avis](/fr/nouvelles?search=&type=5&field_topics=All&year=&items_per_page=5) | [Consultations et sondages](/fr/consultations "Consultations") |
+|  | [Lettres et déclarations](/fr/nouvelles?search=&type=9&field_topics=All&year=&items_per_page=5) | [Rapport sur les résultats ministériels](/fr/propos-du-bsif/rapports-publications?keys=&field_publication_type_target_id=77&year=) |
+|  | Bulletins d’information | [Plan ministériel](/fr/propos-du-bsif/rapports-publications?keys=&field_publication_type_target_id=76&year=) |
+|  |  | [Rapports d’audit interne](/fr/propos-du-bsif/rapports-publications?keys=&field_publication_type_target_id=73&year=) |
+|  |  | [Rapports financiers trimestriels](/fr/propos-du-bsif/rapports-publications?keys=&field_publication_type_target_id=79&year=) |
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2021-10-27

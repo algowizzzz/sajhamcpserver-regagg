@@ -1,0 +1,14 @@
+# Information on upcoming changes to SWIFT EFTR and ISO20022 implementation
+
+Following the [regulatory amendments that came into force in 2019](https://gazette.gc.ca/rp-pr/p2/2019/2019-07-10/html/sor-dors240-eng.html), FINTRAC has undertaken a multi-year initiative to update and implement important changes to its reporting forms.
+
+We are currently in the process of updating the Electronic Funds Transfer Report (EFTR) form to align with the regulatory requirements. Until these changes are implemented, reporting entities are expected to continue to submit EFTRs to FINTRAC using the current SWIFT EFTR form, leveraging the SWIFT translation tool to translate MX messages to the MT format. We are aware that when using this tool, some information may be truncated. If you experience this issue, we will still accept the information as provided by the translation tool with the “+” symbol.
+
+Furthermore, reporting entities are expected to continue to include the name, account number and address of both the ordering client (tag 50) and beneficiary client (tag 59) in their SWIFT ETFR submissions. As a reminder, if there are additional information included in the report (such as identification, occupation, etc.), FINTRAC will accept the information that it has the authority to receive.
+
+At FINTRAC, we are committed to working collaboratively with reporting entities to combat money laundering and the financing of terrorist activities. We assist reporting entities in fulfilling their legal obligations by providing guidance, publishing policy interpretations, responding to enquiries, and participating in various reporting entity-related engagements.
+
+For questions, please contact FINTRAC by telephone at 1-866-346-8722 (toll free) or by email at [F2R@fintrac-canafe.gc.ca](mailto:F2R@fintrac-canafe.gc.ca).
+
+Date Modified:
+:   2024-07-04

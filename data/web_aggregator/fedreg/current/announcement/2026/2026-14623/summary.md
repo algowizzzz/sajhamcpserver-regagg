@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; The Options Clearing Corporation; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by The Options Clearing Corporation Concerning the Synthetic Futures Model

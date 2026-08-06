@@ -1,0 +1,37 @@
+# FINRA Securities Helpline for Seniors
+
+[**Ver en español**](/investors/need-help/linea-de-ayuda-de-valores-para-personas-mayores)
+
+**HELPS®**
+
+A toll-free number that senior investors can call to get assistance from FINRA or raise concerns about issues with brokerage accounts and investments.
+
+**Call 844-57-HELPS (844-574-3577)**  
+**Monday – Friday**  
+**9 a.m. – 5 p.m. Eastern Time**
+
+Are you a senior investor with questions about your brokerage account statement or an investment in a brokerage account?  Are you concerned that your account may have been mishandled by a broker? To help you with these and other investment-related questions, FINRA provides the Securities Helpline for Seniors®.
+
+| Why Should You Call? | Who Should Call? | What Can You Expect? |
+| --- | --- | --- |
+| * To better understand how to review your investment portfolio or account statements; * To raise concerns about the handling of a brokerage account; and * To get information about investor tools and resources from FINRA, including BrokerCheck.® | * Seniors who have questions or concerns about their investment accounts. | * During business hours, a FINRA staff member will answer your call and address your questions. * If your concerns are not resolved during that call, he or she will call you back or refer you to another regulator or agency for help. |
+
+### What is the Senior Helpline?
+
+FINRA is celebrating the 10-year anniversary of the Securities Helpline for Seniors. To commemorate this milestone, read [10 Facts About the FINRA Securities Helpline for Seniors](/sites/default/files/2025-05/10_Facts_About_the_FINRA_Securities_Helpline_for_Seniors.pdf).
+
+## More Investor Resources
+
+### FINRA BrokerCheck Hotline
+
+For assistance with checking the background of a broker or brokerage firm, or an investment adviser or investment representative, call the FINRA BrokerCheck Hotline at (800) 289-9999. You may also use the online version of [FINRA BrokerCheck](http://brokercheck.finra.org/).
+
+### FINRA Call Center
+
+Main FINRA Phone Number: (301) 590-6500
+
+### FINRA Investor Publications
+
+FINRA produces a number of publications—including newsletters, brochures, manuals and pamphlets—targeted to members, investors and the general public. [Download PDFs or order printed copies](/investors/free-investor-publications) of our materials today.
+
+### [Other Investor Contacts](/investors/investor-contacts)

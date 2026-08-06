@@ -1,0 +1,1 @@
+Summary: # Feuille de contrôle des modifications du glossaire

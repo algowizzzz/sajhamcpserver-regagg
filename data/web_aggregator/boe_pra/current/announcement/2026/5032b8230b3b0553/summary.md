@@ -1,0 +1,1 @@
+Summary: # Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes

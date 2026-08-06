@@ -1,0 +1,24 @@
+{
+  "doc_id": "2026-14976",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Modify Rules 971.1NYP and 971.2NYP To Allow FLEX Options To Trade in Its CUBE Auction for Single-Leg and Complex Orders",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/24/2026-14976/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of",
+  "reference_number": "2026-14976",
+  "published_date": "2026-07-24",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:13754a7ea0696c88e690827ff8a6df532de385b739ffb00fccdf2bc3fe14de00",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fedreg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14976",
+  "tags": [
+    "us",
+    "rulemaking"
+  ]
+}

@@ -1,0 +1,37 @@
+# BSA Data Instrumental in Drug Cases
+
+[005.pdf](/system/files/case_example/005.pdf "005.pdf")
+(20.6 KB)
+
+A Drug Enforcement Administration (DEA) investigation into a local cocaine and marijuana trafficker involved more than one cooperating source who knew of the trafficker but had no biographical data. A SAR was located that identified the trafficker, provided biographical data and notations that the subject had conducted frequent transactions where smaller bills would be exchanged for larger bills and, on occasion, the money smelled like marijuana.
+
+A recent drug and money laundering prosecution involving methylenedioxymethylamphetamine (MDMA or Ecstasy) traffickers and their use of several money remitters to move drug-related proceeds around the world resulted in the introduction into evidence that none of the defendant remitters ever filed a CTR as required. The government was able to establish that frequent deliveries of several hundreds of thousands of dollars would be delivered by couriers in cardboard boxes to the remitter sites, after which fictitious invoices and clients would be created to account for the large receipt of currency.
+
+(Investigating Agency: Drug Enforcement Administration.)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 11, May 2007]
+
+Tags
+
+Narcotics Trafficking
+
+Involving SARs
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

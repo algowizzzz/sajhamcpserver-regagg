@@ -1,0 +1,1 @@
+Summary: # Pacific Palisades Shopping Center Set to Reopen Following Palisades Fire

@@ -1,0 +1,134 @@
+# Relevé supplémentaire des succursales de banques étrangères (K3)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé supplémentaire des succursales de banques étrangères (K3)
+
+Dernière révision
+
+Juillet 2019
+
+Numéro de relevé
+
+K3
+
+## Relevés
+
+[K3 - Exemple de relevé (XLSX, 49,9 Ko)](/sites/default/files/import-media/data_and_forms/sample-return/2023-08/fr/K3_2020.xlsx "K3_2020.xlsx") [K3 - Règles de validation actuelles (XLSX, 66,77 Ko)](/sites/default/files/documents/k3-validation-fr.xlsx "k3-validation-fr.xlsx") [Relevé des changements](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-changements-k3 "Relevé des changements (K3)")
+
+## Relevé trimestriel supplémentaire – Succursales de banques étrangères
+
+### Objet
+
+Ce relevé vise à fournir au surintendant des institutions financières l'information nécessaire sur les placements qui composent les dépôts en équivalent de fonds propres et leur conformité à la ligne directrice du BSIF, sur les éléments de passif et les montants à remettre à la société mère par la succursale de la banque étrangère établie au Canada, ainsi que sur les dépôts visés par l'article 545 de la *Loi sur les banques*.
+
+### Fondement législatif
+
+Article 600 de la *Loi sur les banques*.
+
+### Institutions visées
+
+Seules les succursales d'une banque étrangère à services complets sont tenues d'établir ce relevé.
+
+### Publication
+
+Les renseignements figurant dans ce relevé ne sont pas publiés.
+
+### Fréquence
+
+Trimestrielle
+
+### Personne-ressource
+
+Fournir les nom et numéro de téléphone de la personne à joindre pour obtenir des renseignements au sujet du relevé.
+
+### Dates de déclaration
+
+Le relevé doit être établi en date du dernier jour de chaque trimestre et produit dans les 30 jours de cette date.
+
+### Organisme à contacter
+
+BSIF
+
+## Relevé trimestriel supplémentaire – Succursales de banques étrangères
+
+Le premier relevé a été établi pour le 3e trimestre de l'année 2000.
+
+Seules les succursales d'une banque étrangère à services complets sont tenues d'établir ce relevé.
+
+Tous les montants doivent être libellés en milliers de dollars canadiens.
+
+### Instructions générales
+
+Toutes les catégories d'actif et de passif visées par le relevé correspondent Texte surligné\*généralement\* à celles qui doivent être déclarées dans le bilan mensuel de la SBE. Texte surligné\*Vous trouverez ci-dessous des instructions plus détaillées concernant ce relevé.\*
+
+L'encours moyen à la fin du trimestre peut être calculé en fonction d'une moyenne quotidienne ou hebdomadaire.
+
+Lorsque les présentes instructions indiquent qu'une certaine catégorie comprend des postes particuliers, ceux-ci ne limitent pas le caractère général de l'en-tête, mais indiquent plutôt le type de postes qui doivent être déclarés.
+
+### Section I – Texte surligné\*Rapport sur les exigences relatives aux dépôts des succursales de banques étrangères\*
+
+Les montants de la section I doivent être déclarés selon leur valeur à la fin du trimestre et leur valeur moyenne pour le trimestre.
+
+Les succursales de banques étrangères doivent déclarer le montant des placements dont la garde lui a été confiée.
+
+Texte surligné\*En ce qui concerne la ligne 2(b)(i), les montants dus à la société mère peuvent comprendre des éléments tels que :\*
+
+* Texte surligné\*Les charges à payer à la société mère\*
+* Texte surligné\*L'intérêt couru payable dû à la société mère\*
+* Texte surligné\*Les montants dus à d'autres succursales de la société mère\*
+
+Pour obtenir de plus amples renseignements sur cette section, consultez la ligne directrice A-10 du BSIF, intitulée  *Texte surligné\*Exigences visant le dépôt de succursale de banque étrangère\**.
+
+### Section II – Rapprochement des montants à remettre à la société mère
+
+La section II vise toutes les opérations conclues entre la succursale déclarante et sa société mère, y compris le total du résultat étendu (perte) et le montant de la provision de groupe pour le risque de crédit relatif à la succursale.
+
+### Texte surligné\*Section II – Postes pour mémoire\*
+
+Texte surligné\*En ce qui concerne la ligne 3, « Éléments hors bilan », des montants en équivalent-crédit correspondant à chacun des postes doit être précisé. Les montants en équivalent-crédit sont calculés en multipliant les montants du principal notionnel par les coefficients de conversion prescrits pour le crédit.\*
+
+Texte surligné\*Calcul de l'incidence des postes pour mémoire sélectionnés de la Section II sur le ratio du dépôt des SBE :\*
+
+Texte surligné\*Prendre la valeur du poste « Total - Éléments de passifs des succursales de banques étrangères (B) » de la Section I, et :\*
+
+* Texte surligné\*en déduire les charges à payer; \*
+* Texte surligné\*y additionner le total des éléments hors bilan (après avoir appliqué le coefficient de conversion prescrit pour le crédit);\*
+* Texte surligné\*si les montants à recevoir de la société mère ou des apparentés et des autres succursales de la société mère sont supérieurs aux > montants à verser à la société mère ou aux apparentés et aux autres succursales de la société mère, alors ajouter les montants à recevoir de la société mère ou des apparentés et des autres succursales de la société mère et soustraire les montants à verser à la société mère ou aux apparentés et des autres succursales de la société mère. Si non, si les montants à recevoir de la société mère ou des apparentés et des autres succursales de la société mère < ou = montants à verser à la société mère ou aux apparentés et des autres succursales de la société mère, ajouter zéro.\*
+
+Texte surligné\*Diviser le « Total des dépôts des SBE » de la Section I (A) par le « Total - Éléments de passifs des succursales de banques étrangères (B) » après avoir fait les trois étapes ci-dessus.\*
+
+Texte surligné\*En ce qui concerne la ligne 2 (a) (i), les montants dus à l'APD 5213 et à l'APD 5313 de la société mère et en ce qui concerne la ligne 2 (b) (i), les montants dus de l'APD 5213 et de l'APD 5313 de la société mère; ne doivent pas comprendre les montants dus à d'autres succursales de la société mère. Les montants dus à d'autres succursales de la société mère devraient être inclus à la ligne 2(a)(iii) (APD 5212 et 5312) et les montants dus des autres succursales de la société mère devraient être inclus à la ligne 2(b)(iii) (APD 5215 et 5315).\*
+
+### Section III – Relevé des dépôt minimes
+
+Les succursales de banques étrangères doivent déclarer dans cette section les dépôts moins de 150 000 $, ainsi que les dépôts visés par règlement. Les dépôts moins de 150 000 $ admissibles et la définition des dépôts visés par règlement sont précisés à l'article 545 de la *Loi sur les banques* et dans le *Règlement sur les dépôts (banques étrangères autorisées*) connexe, daté du 10 février 2000.
+
+Aux lignes 1 à 4, la valeur déclarée doit correspondre aux données à la fin du trimestre Texte surligné\*dans la première colonne\*, et Texte surligné\*dans la deuxième colonne\*, à la moyenne du trimestre.
+
+### Section III - Postes pour mémoire
+
+Texte surligné\*En ce qui concerne la ligne 2, le terme « Actifs détenus à l'étranger » s'entend des actifs qui se trouvent à l'étranger mais qui sont détenus et comptabilisés par la succursale de la banque étrangère qui, elle, est située au Canada.\*
+
+Texte surligné\*Le terme « prêts » désigne les « prêts octroyés à des résidents non-canadiens ».\*
+
+Texte surligné\*Le terme « comptes bancaires » s'entend d'un compte bancaire à l'étranger.\*
+
+Texte surligné\*En ce qui concerne la ligne 3, le terme « situé au Canada » signifie que le lieu de résidence de l'emprunteur est au Canada.\*
+
+Texte surligné\*En ce qui concerne la ligne 4, si l'un ou l'autre des nantissements ou garanties se trouve à l'extérieur du Canada, celui-ci doit être considéré comme étant « à l'étranger ». Veuillez ne pas compter en double.\*
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-11-16

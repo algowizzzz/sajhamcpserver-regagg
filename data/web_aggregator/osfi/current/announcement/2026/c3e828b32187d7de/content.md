@@ -1,0 +1,100 @@
+# Produire un relevé
+
+Les institutions financières fédérales et les régimes de retraite fédéraux doivent soumettre régulièrement au BSIF certains relevés. Les institutions de dépôt, sociétés d’assurance et régimes de retraite trouveront sur cette page les instructions pour la production des relevés administratifs et financiers.
+
+## Sur cette page
+
+## Production des relevés pour une institution financière
+
+Veuillez utiliser les formulaires et les instructions pour produire adéquatement les relevés dans les délais prescrits.
+
+* [Produire les relevés administratifs](/fr/donnees-formulaires/rapports-releves/produire-releve-administratif "Produire un relevé administratif")
+* [Produire les relevés financiers](/fr/donnees-formulaires/rapports-releves/produire-releve-financier "Produire un relevé financier")
+
+[Répertoire des formulaires servant à produire les relevés financiers et leurs guides](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers "Guides de production des relevés financiers")
+
+### Pénalités pour production tardive et erronée
+
+Vous devez produire les relevés sans erreur et sans retard. Certains relevés et documents afférents sont assujettis à des [pénalités pour la production tardive et erronée](/fr/donnees-formulaires/rapports-releves/produire-releve/procedure-administrative-visant-cadre-penalite-pour-production-tardive-erronee-ppte "Procédure administrative visant le cadre de pénalité pour production tardive et erronée (PPTE)"). Les régimes de retraite fédéraux ne sont pas actuellement visés par ces pénalités.
+
+## Production des relevés pour un régime de retraite
+
+Veuillez consulter les guides de production pour connaître la marche à suivre et les dates limites.
+
+* [Procédure de production des relevés annuels – Régime de retraite à prestations déterminées](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/production-releves-regimes-retraite-prestations-determinees "Production des relevés des régimes de retraite à prestations déterminées")
+* [Procédure de production des relevés annuels – Régime de retraite à cotisations déterminées](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/production-annuelle-releves-regimes-retraite-cotisations-determinees "Production annuelle des relevés des régimes de retraite à cotisations déterminées")
+* [Procédure de production des relevés annuels – Régime de retraite agréé collectif](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/production-annuelle-releves-regimes-pension-agrees-collectifs "Production annuelle des relevés des régimes de pension agréés collectifs")
+* [Procédure pour les modifications, demandes et approbations – Régime de retraite](/fr/surveillance/retraites/administrer-regime-retraite/modifications-demandes-agrements "Modifications, demandes et agréments")
+
+### Important : Agrément d’un régime de retraite
+
+Pour agréer un régime de retraite, veuillez soumettre la demande d’agrément à [Approvals-Approbations@osfi-bsif.gc.ca](mailto:Approvals-Approbations@osfi-bsif.gc.ca) et inclure tous les documents à l’appui avec la demande.
+
+## Soumission de données dans le Système de déclaration réglementaire
+
+Il convient de soumettre les relevés administratifs et financiers au moyen du Système de déclarations réglementaire.
+
+[Se connecter ou créer un compte](https://connect-connexion.bank-banque-canada.ca/igw/apps/ami/portal/login)
+
+### Avis de non-responsabilité : Informations fournies par des tiers
+
+Les guides d’instruction du Système de déclaration réglementaire ont été fournis par des sources externes. Ces documents ne sont pas assujettis aux exigences en matière de langues officielles, de confidentialité et d’accessibilité. Le BSIF n’est pas responsable de l’exactitude, de la fiabilité et du caractère actuel de l’information.
+
+Gestion des relevés financiers
+
+* [Guide d’utilisation à l’intention des institutions de dépôt – Gestion des relevés financiers (PDF)](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2023/fr/rrs_mcr_dti.pdf "rrs_mcr_dti.pdf")
+* [Guide d’utilisation à l’intention des sociétés d’assurance et des régimes de retraite privés – Gestion des relevés financiers (PDF)](/sites/default/files/documents/rrs_mcr_ins_FR.pdf)
+* [Aide-mémoire à l’intention des institutions de dépôt - Gestion des relevés financiers (PDF)](/sites/default/files/2023-07/Aide-m%C3%A9moire%20%C3%A0%20l%E2%80%99intention%20des%20institutions%20de%20d%C3%A9p%C3%B4t%20-%20Gestion%20des%20relev%C3%A9s%20V1.1.pdf)
+* [Aide-mémoire à l’intention des sociétés d’assurance et des régimes de retraite privés – Gestion des relevés financiers (PDF)](/sites/default/files/2023-07/Aide-m%C3%A9moire%20%C3%A0%20l%E2%80%99intention%20des%20soci%C3%A9t%C3%A9s%20d%E2%80%99assurance%20et%20des%20r%C3%A9gimes%20de%20retraite%20priv%C3%A9s%20%E2%80%93%20Gestion%20des%20relev%C3%A9s%20financiers%20.pdf)
+
+Gestion des relevés administratifs
+
+* [Guide de l’utilisateur – Gestion des relevés d’entreprise (PDF)](/sites/default/files/documents/rrs_mcr_FR.pdf)
+* [Guide de l’utilisateur – Gestion des relevés d’entreprise pour les régimes de retraite privés (PDF)](/sites/default/files/documents/rrs_mcr_ppp_FR.pdf)
+* [Aide-mémoire – Gestion des relevés d’entreprise (PDF)](/sites/default/files/2023-07/Aide-m%C3%A9moire%20%E2%80%93%20Gestion%20des%20relev%C3%A9s%20d%E2%80%99entreprise.pdf)  
+  ​​​​​
+
+Recherche de relevés, de rapports, de profils d’organisation et de documents
+
+* [Aide-mémoire à l’intention des institutions de dépôt – Affichage des relevés, des rapports, des profils d’organisation et des documents (PDF)](http://archive.isiglobal.ca/osfi/document/Aide-m%C3%A9moire%20%C3%A0%20l%E2%80%99intention%20des%20institutions%20de%20d%C3%A9p%C3%B4t%20-%20Affichage%20des%20relev%C3%A9s,%20des%20rapports%20et%20des%20documents%20V1.1.pdf)
+* [Aide-mémoire à l’intention sociétés d'assurance et des régimes de retraite privés – Affichage des relevés, des profils d’organisation et des documents dans le portail SDR (PDF)](http://archive.isiglobal.ca/osfi/document/Aide-m%C3%A9moire%20%C3%A0%20l%27intention%20soci%C3%A9t%C3%A9s%20d%27assurance%20et%20des%20r%C3%A9gimes%20de%20retraite%20priv%C3%A9s%20-%20Affichage%20des%20relev%C3%A9s,%20des%20profils%20d%27organisation%20et%20des%20document%20dans%20le%20portail%20SDR.pdf)
+
+Interprétation des erreurs du système
+
+* [Interprétation des messages d’erreur des relevés traditionnels produits avec le SDR – Institutions de dépôt (PDF)](http://archive.isiglobal.ca/osfi/document/How%20to%20Interpret%20Return%20Errors%20in%20RRS%20for%20Deposit%20Taking%20Institutions%20-%20French%20V1.1.pdf)
+* [Interprétation des messages d’erreur du SDR – Sociétés d’assurance (PDF)](http://archive.isiglobal.ca/osfi/document/How%20to%20Interpret%20Return%20Errors%20in%20RRS%20for%20Insurance%20Companies%20-%20French%20V1.0.pdf)
+* [Interprétation des messages d’erreur du SDR – Régimes de retraite privés (PDF)](http://archive.isiglobal.ca/osfi/document/How%20to%20Interpret%20Return%20Errors%20in%20RRS%20for%20Private%20Pension%20Plans%20-%20French%20V1.0.pdf)
+
+Foire aux questions
+
+* [Questions fréquentes sur le SDR – Institutions de dépôt (PDF)](http://archive.isiglobal.ca/osfi/document/RRS%20Frequently%20Asked%20Questions%20for%20Deposit%20Taking%20Institutions%20-%20French.pdf)
+* [Questions fréquentes sur le SDR – Sociétés d’assurance (PDF)](http://archive.isiglobal.ca/osfi/document/RRS%20Frequently%20Asked%20Questions%20for%20Insurance%20Companies%20-%20French.pdf)
+* [Questions fréquentes sur le SDR – Régimes de retraite privés (PDF)](http://archive.isiglobal.ca/osfi/document/RRS%20Frequently%20Asked%20Questions%20for%20Private%20Pension%20Plans%20-%20French.pdf)​​​​​​
+
+## Si vous avez besoin d’aide
+
+### Gestion des comptes d’utilisateur
+
+Pour créer ou mettre à jour un compte d’utilisateur, veuillez communiquer avec votre autorité locale d’enregistrement. Pour en savoir plus :
+
+* [Bienvenue à Connexion Banque (PDF)](/sites/default/files/2023-07/boc_connect%20%281%29.pdf)
+* [Connexion Banque – Guide destiné aux autorités locales d’enregistrement (PDF)](/sites/default/files/documents/boc-registration-guide-enregistrement-fr.pdf "boc-registration-guide-enregistrement-fr.pdf")
+
+### Soutien du Système de déclaration réglementaire
+
+Communiquez avec l’équipe de soutien du Système de déclaration réglementaire pour l’accès des utilisateurs et les problèmes techniques.
+
+* Courriel : [RRS-SDR@bank-banque-canada.ca](mailto:RRS-SDR@bank-banque-canada.ca)
+* Téléphone : 1-855-865-8636, 8h30 – 15h30 (heure de l’Est)
+
+### Administration des relevés réglementaires
+
+Pour toute question sur les relevés administratifs et financiers, ou sur les relevés des régimes de retraite, veuillez écrire à l’équipe d’administration des relevés réglementaires.
+
+* Courriel : [RRSsupport-SDRsoutien@osfi-bsif.gc.ca](mailto:RRSsupport-SDRsoutien@osfi-bsif.gc.ca)
+* Téléphone : 1-613-991-0609, 8 h – 17 h (heure de l’Est)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2026-07-21

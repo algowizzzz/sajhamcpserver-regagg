@@ -1,0 +1,1 @@
+Summary: # À quel moment vérifier l'identité des personnes et des entités – Négociants en métaux précieux et pierres précieuses

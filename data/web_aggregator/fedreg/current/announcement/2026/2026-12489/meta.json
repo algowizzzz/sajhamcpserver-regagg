@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12489",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 2a-5",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/22/2026-12489/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-2a-5",
+  "reference_number": "2026-12489",
+  "published_date": "2026-06-22",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:13f2bafb47c5850ee8cdfa705d725931f069161bbae96a15c2e75d33776a210b",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12489",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

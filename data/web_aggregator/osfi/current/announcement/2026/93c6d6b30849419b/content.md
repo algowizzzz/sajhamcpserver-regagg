@@ -1,0 +1,362 @@
+# Relevé des expositions interbancaires et des principales autres expositions (EB/ET)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé des expositions interbancaires et des principales autres expositions (EB/ET)
+
+Dernière révision
+
+Juillet 2022
+
+Numéro de relevé
+
+EB/ET
+
+Documentation
+
+* [Relevé 2A pour la déclaration des actifs par contrepartie](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-2a-pour-declaration-actifs-contrepartie)
+* [Relevé 2L pour la déclaration des actifs par contrepartie](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-2l-pour-declaration-actifs-contrepartie)
+
+* **Suppression :**
+  + Les points (iii) et (iv) sous Objet
+  + Section postes pour mémoire
+
+## Relevés
+
+[EB - Valeur comptable (XLSX, 77,05 Ko)](/sites/default/files/import-media/data_and_forms/return/2023-09/fr/EB_2022.xlsx "EB_2022.xlsx") [EB - Règles de validation (XLSX, 49,33 Ko)](/sites/default/files/documents/eb-validation-fr.xlsx) [ET - Valeur marchande (XLSX, 76,61 Ko)](/sites/default/files/import-media/data_and_forms/return/2023-09/fr/ET_2022.xlsx "ET_2022.xlsx") [ET - Règles de validation (XLSX, 48,73 Ko)](/sites/default/files/documents/et-validation-fr.xlsx) [Relevé des changements (Relevé des expositions interbancaires et des principales autres expositions)](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-changements-releve-expositions-interbancaires-principales-autres-expositions "Relevé des changements (Relevé des expositions interbancaires et des principales autres expositions)")
+
+## Objet
+
+Le relevé des expositions interbancaires et des principales autres expositions permet aux institutions financières de produire différents renseignements dans un même document :
+
+* renseignements détaillés sur les relations entre les six grandes banques canadiennes produisant le relevé en ce qui a trait aux expositions au risque de contrepartie;
+* expositions totales, par catégorie, à d'autres institutions financières résidentes et à des institutions financières non résidentes situées aux États-Unis, au Royaume-Uni, dans d'autres pays européens ou ailleurs dans le monde, expositions relatives aux accords de prise en pension et expositions à des chambres de compensation;
+
+Le Bureau du surintendant des institutions financières (BSIF) et la Banque du Canada utilisent ces renseignements pour analyser en permanence la situation des institutions financières et les risques qui en découlent pour le système financier. Les données à fournir comprennent les expositions au bilan et hors bilan. Ces données doivent être présentées séparément en fonction de l'échéance et de la monnaie (dollars canadiens, dollars US et autres monnaies étrangères).
+
+## Fondement législatif
+
+Article 628 de la Loi sur les banques
+
+## Institutions visées
+
+Seules les banques suivantes doivent produire ce relevé : Banque Royale du Canada (RBC), Groupe financier Banque Toronto-Dominion (TD), Banque Scotia (BS), Banque de Montréal (BMO), Banque Canadienne Impériale de Commerce (CIBC) et Banque Nationale du Canada (BNC).
+
+## Publication
+
+L'information qui se trouve dans ce relevé n'est pas publiée.
+
+## Fréquence
+
+Mensuelle (à la fin du mois)
+
+## Personne-ressource
+
+Fournir le nom et le numéro de téléphone de la personne à joindre pour obtenir des renseignements au sujet du relevé.
+
+## Échéance
+
+Le relevé est établi la dernière journée de chaque mois et présenté dans les 30 jours qui suivent.
+
+## Organisme à contacter
+
+Banque du Canada[Note de bas de page 1](#fnb1)
+
+## Section I – Instructions générales
+
+Les banques déclarantes doivent déclarer séparément les expositions comptabilisées dans le portefeuille de négociation et les expositions consignées dans le portefeuille bancaire[Note de bas de page 2](#fnb2). Le relevé des expositions interbancaires et des principales autres expositions est le même pour toutes les institutions déclarantes, peu importe leur taille ou leur activité. Par conséquent, certaines catégories d'expositions peuvent ne pas s'appliquer à certaines institutions en raison de la nature de leurs opérations. Le cas échéant, les montants déclarés sont ventilés en fonction de l'échéance et de la monnaie.
+
+Pour chaque instrument (c.-à-d. chaque catégorie d'expositions interbancaires), les institutions déclarantes doivent préciser :
+
+* le montant total des expositions à chacune des cinq autres banques. Par exemple, RBC doit déclarer ses expositions relatives aux institutions suivantes : Groupe financier Toronto-Dominion (TD), Banque Scotia (BS), Banque de Montréal (BMO), Banque Canadienne Impériale de Commerce (CIBC) et Banque Nationale du Canada (BNC);
+* le montant total des expositions à d'autres institutions financières résidentes (sauf les cinq autres grandes banques désignées), à l'exclusion des chambres de compensation;
+* le montant total des expositions à des institutions non résidentes situées aux États-Unis, au Royaume-Uni, dans d'autres pays européens ou ailleurs dans le monde, à l'exclusion des chambres de compensation;
+* les expositions à des accords de prise en pension et les expositions à des chambres de compensation, quelle que soit leur situation de résidence.
+
+Lorsque les instructions ci-dessous indiquent qu'un certain instrument comprend des postes particuliers, l'énumération de ces postes ne limite pas la portée générale de la rubrique; elle ne fait qu'indiquer le genre de postes à y déclarer. Les montants doivent être exprimés en milliers de dollars canadiens équivalents.
+
+### 1. Définition d'institution financière
+
+Le relevé fait appel à la Classification type des industries, 1980 (CTI) de Statistique Canada pour l'identification des institutions financières qui sont des contreparties des banques déclarantes. La même définition d'« institution financière » s'applique aussi à toutes les institutions financières non résidentes.
+
+* Institutions de dépôts :
+  + Banques de l'Annexe I ou II de la Loi sur les banques (voir la CTI, division K, catégorie 7021) et succursales de banques étrangères
+  + Coopératives de crédit et caisses populaires, sociétés de fiducie et sociétés de prêts hypothécaires (voir la CTI, division K, catégories 7029, 7031, 7041, 7042, 7051, 7052 et 7099)
+* Sociétés d'assurance-vie, sociétés de secours mutuels, sociétés d'assurances multirisques, sociétés de fiducie et autres régimes de retraite (voir la CTI, division K, catégories 7291 et 7299 et groupes 731, 732 (hors gouvernement) et 733)
+* Négociants en placements (voir la CTI, division K, groupe 741) et fonds communs de placement, fonds de couverture, fonds d'investissement à capital fixe, sociétés de placement hypothécaire, fiducies de placement immobilier, sociétés de financement des ventes et de prêt à la consommation et autres institutions financières privées (par exemple, les sociétés de crédit-bail ou de capital de risque) (voir la CTI, division K, groupes 71, 72, (sauf les catégories 7291 et 7299, qui sont incluses ci-dessus) et groupes 742, 743 et 749)
+
+Pour les banques qui utilisent le Système de classification des industries de l'Amérique du Nord (SCIAN), les institutions financières sont celles qui appartiennent à l'un des sous-secteurs suivants :
+
+* Sous-secteur 522 : Intermédiation financière et activités connexes
+* Sous-secteur 523 : Valeurs mobilières, contrats de marchandises et autres activités d'investissement financier connexes
+* Sous-secteur 524 : Sociétés d'assurance et activités connexes
+* Sous-secteur 526 : Fonds et autres instruments financiers
+
+Exclusions :
+
+Les emprunteurs souverains (et leurs banques centrales), certains organismes publics et les banques multilatérales de développement devraient être exclus à titre de contreparties.
+
+Veuillez consulter les sections de la ligne directrice du BSIF sur les normes de fonds propres énumérées ci-après pour obtenir la liste complète des exclusions.
+
+* 3.1.1. Créances sur les emprunteurs souverains
+* 3.1.2. Créances sur des emprunteurs souverains non évalués
+* 3.1.3. Créances sur les organismes publics hors administration centrale (OP), sauf les créances sur les entités assimilées à des créances sur des entreprises énumérées au point (ii)
+* 3.1.4. Créances sur les banques multilatérales de développement (BMD)
+
+### 2. Définition de la situation de résidence des contreparties
+
+Le traitement de la situation de résidence et du niveau de consolidation des contreparties pour les expositions aux autres banques déclarantes (RBC, TD, BS, BMO, CIBC et BNC) diffère de celui des expositions à toutes les autres institutions financières.
+
+#### Expositions aux banques déclarantes
+
+* Pour chaque type d'instrument, les expositions à chacune des autres banques déclarantes (RBC, TD, BS, BMO, CIBC et BNC) doivent être déclarées de manière consolidée au niveau du prêteur et de l'emprunteur.
+
+#### Expositions à toutes les autres institutions financières
+
+* Pour chaque type d'instrument, les banques sont tenues de déclarer leurs expositions globales consolidées à l'égard d'institutions financières autres que les banques déclarantes (RBC, TD, BS, BMO, CIBC et BNC) en fonction de leur situation de résidence géographique, qui est déterminée par l'adresse figurant au dossier (sauf si l'institution déclarante sait que la situation de résidence ne correspond pas à l'adresse figurant au dossier). Les banques déclarantes doivent donc fournir les données sur ces expositions sur une base d'emprunteur immédiat, c.-à-d. en fonction de la situation de résidence de la contrepartie immédiate.
+
+#### Exemples de répartition géographique des expositions
+
+Exemple 1 :
+
+Une banque déclarante a réalisé un dépôt auprès d'une filiale ou d'une succursale étrangère d'une autre banque déclarante (BS) au Royaume-Uni.
+
+*Traitement :* Le dépôt doit être déclaré dans la colonne correspondant à la banque mère de la filiale ou de la succursale (dépôt auprès de BS).
+
+Exemple 2 :
+
+Une banque déclarante consent un prêt à une filiale ou à une succursale d'une banque étrangère (HSBC Canada) exerçant des activités au Canada.
+
+*Traitement :* La transaction doit être déclarée comme un prêt sous « Autres institutions financières résidentes » et non comme un prêt à la banque mère de HSBC Canada (HSBC), située au Royaume-Uni.
+
+Exemple 3 :
+
+Une filiale ou une succursale américaine d'une banque déclarante consent un prêt à une filiale américaine d'une banque européenne.
+
+*Traitement :* La transaction doit être déclarée comme un prêt sous « Institutions financières non résidentes – États-Unis » et non comme un prêt à une institution sous « Autres pays européens ».
+
+Exemple 4 :
+
+Une succursale d'une banque déclarante résidant en Irlande a consenti à une banque irlandaise un prêt qui est garanti par une banque située aux États-Unis.
+
+*Traitement :* La transaction doit être déclarée comme une exposition sous « Institutions financières non résidentes – Autres pays européens », et non comme un prêt à une banque aux États-Unis.
+
+Exemple 5 :
+
+Scotiabank (Ireland) Limited consent un prêt de 30 millions de dollars à une banque irlandaise; de ce montant, 20 millions de dollars sont garantis par la Banque Scotia.
+
+*Traitement :* Les 30 millions de dollars doivent être déclarés comme prêt à une banque sous  
+« Autres pays européens ».
+
+Voici la liste des autres pays européens :
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| * Allemagne | * Danemark | * Grèce | * Lituanie | * République tchèque |
+| * Autriche | * Espagne | * Hongrie | * Luxembourg | * Roumanie |
+| * Belgique | * Estonie | * Irlande | * Malte | * Slovaquie |
+| * Bulgarie | * Finlande | * Italie | * Pays-Bas | * Slovénie |
+| * Chypre | * France | * Lettonie | * Pologne | * Suède |
+|  |  |  | * Portugal | * Suisse |
+
+### 3. Provision pour pertes de crédit attendues
+
+Les expositions interbancaires doivent être déclarées après déduction de la provision spécifique pour pertes de crédit attendues ou autre ajustement spécifique de la valeur, le cas échéant. Toutes les provisions doivent être déduites des expositions appropriées dans la même monnaie que celle des expositions (liées à l'actif) pertinentes, qu'elles soient comptabilisées en monnaie canadienne ou en devises.
+
+### 4. Définition de l'échéance des instruments
+
+Par échéance, on entend le terme à courir tel qu'il est défini dans le contrat.
+
+### 5. Traitement des sûretés
+
+En ce qui concerne les expositions de la Section I et des postes pour mémoire, ainsi que les expositions[Note de bas de page 3](#fnb3) indiquées ci-après s'il y a lieu, les sûretés reçues des contreparties doivent être soustraites du montant de l'exposition aux fins du calcul des valeurs « après sûretés » ou « après ARC » (atténuation du risque de crédit).
+
+* Accords de prise en pension
+* Dérivés hors cote
+
+Par exemple, pour calculer l'exposition en cas de défaut après ARC correspondante dans les postes pour mémoire, il faut déduire directement de l'exposition en cas de défaut les sûretés données en garantie dans le cas des expositions à des dérivés hors cote plutôt que d'ajuster la perte en cas de défaut.
+
+## Section I – Expositions aux six grandes banques canadiennes, à d'autres institutions financières et aux chambres de compensation
+
+Les institutions déclarantes sont tenues de fournir de l'information sur les sept catégories d'expositions interbancaires suivantes :
+
+### (A) Dépôts, moins provision pour pertes de crédit attendues
+
+Dans cette section, la définition des dépôts est la même que celle de la « Section I – Actifs » du relevé *Bilan mensuel consolidé (M4)* du BSIF, à l'exception de certains postes qui doivent en être exclus (voir « Ne pas déclarer » ci-dessous). Plus particulièrement, les banques sont tenues de déclarer comme dépôts :
+
+* les soldes des dépôts à vue non productifs d'intérêt;
+* les soldes des dépôts productifs d'intérêt;
+* les comptes productifs d'intérêt qui sont des comptes avec leurs institutions correspondantes au Canada ou à l'étranger;
+* les dépôts à terme à des fins de placement;
+* les certificats de dépôt achetés.
+
+Ne pas déclarer :
+
+* les acceptations acquises;
+* les dépôts auprès de la Banque du Canada;
+* les dépôts auprès de banques centrales et d'institutions monétaires officielles étrangères.
+
+Les dépôts interbancaires comprennent tous les soldes non productifs d'intérêt et productifs d'intérêt, dont ceux des comptes avec des institutions correspondantes au Canada et à l'étranger, placés dans le cours normal des opérations du marché, lorsque la seule documentation échangée consiste en une confirmation du contrat et que les taux appliqués sont les cours acheteur et vendeur sur le marché.
+
+Pour les dépôts non assortis d'une date d'échéance ou d'une entente contractuelle concernant leur disponibilité (par exemple, dépôts à vue, auxquels aucune échéance ne s'applique), les montants correspondants doivent être déclarés à la ligne « échéance inférieure ou égale à un an ».
+
+### (B) Prêts, moins provision spécifique pour pertes de crédit attendues
+
+Les renseignements sur les prêts couvrent toutes les formes de facilités de crédit à terme ou renouvelables, y compris les lettres de crédit, à l'exclusion des placements à court terme (par exemple, les papiers commerciaux).
+
+*Postes à déclarer :*
+
+* Facilités avec garantie engagées mais non utilisées – Il s'agit de toutes les facilités non utilisées mais engagées, pour lesquelles la contrepartie a donné une sûreté.
+* Facilités sans garantie engagées mais non utilisées – Il s'agit de toutes les facilités non utilisées mais engagées, pour lesquelles la contrepartie n'a donné aucune sûreté.
+* Facilités avec garantie utilisées – Il s'agit de toutes les facilités de prêt utilisées, qu'il s'agisse ou non de facilités engagées, pour lesquelles la contrepartie a donné une sûreté.
+* Facilités sans garantie utilisées – Il s'agit de toutes les facilités de prêt utilisées, qu'il s'agisse ou non de facilités engagées, pour lesquelles la contrepartie n'a donné aucune sûreté.
+
+Les facilités utilisées (avec ou sans garantie) doivent être ventilées en fonction de la monnaie et de l'échéance, alors que les facilités non utilisées (avec ou sans garantie) doivent être ventilées en fonction de la monnaie seulement.
+
+Les créances achetées moyennant une prime ou un escompte doivent être déclarées après déduction de la prime ou de l'escompte. Le montant net déclaré de ces prêts doit être augmenté ou réduit à mesure que l'escompte ou la prime est incorporé au revenu sur la durée du prêt. Les prêts à terme fixe sur lesquels l'intérêt pour le terme a été calculé d'avance et ajouté au principal doivent être déclarés après déduction de l'intérêt calculé d'avance.
+
+Seules les expositions directes doivent être déclarées. Supposons par exemple que la Banque TD émette une lettre de crédit d'une valeur de 10 millions de dollars à l'intention de Suncor, dans laquelle la Banque de Montréal détient une participation de 50 %. Si Suncor ne rembourse pas sa dette, la Banque TD est responsable d'un montant de 5 millions de dollars, et la BMO d'un montant de 5 millions de dollars. Toutefois, si la BMO ne rembourse pas non plus la dette, la Banque TD devient responsable de la totalité du montant de 10 millions de dollars. Dans un tel cas, la Banque TD ne doit pas déclarer une exposition à la BMO, puisqu'une telle exposition est conditionnelle au défaut de Suncor.
+
+### (C) Accords de prise en pension
+
+Dans cette section, la définition des accords de prise en pension est la même que celle de la « Section I – Actifs » du relevé *Bilan mensuel consolidé (M4)* du BSIF. Par exemple, les montants déclarés dans la section C concernent les accords de prise en pension inscrits au bilan et les emprunts de titres inscrits au bilan. On ne fait aucune distinction entre les accords généraux portant sur les sûretés et les autres accords.
+
+*Exigences de déclaration* :
+
+* S'il n'y a pas d'accord de compensation avec la contrepartie, les banques sont tenues de déclarer le montant en espèces versé (c.-à-d. le montant notionnel de la transaction).
+* Si la compensation est permise en vertu d'un accord juridique avec la contrepartie, les banques doivent déclarer le montant en espèces net versé au titre des accords de prise en pension bilatéraux et tripartites. Les expositions relatives aux transactions de prise en pension tripartites doivent être déclarées dans la colonne de l'institution constituant la contrepartie immédiate.
+* Pour tenir compte des expositions éventuelles aux chambres de compensation comme la GSCC, les banques doivent déclarer ces expositions dans la colonne « Chambres de compensation », quelle que soit la situation de résidence de la chambre de compensation.
+* Les accords de prise en pension sans échéance doivent être déclarés à la ligne « sans échéance » pertinente.
+
+Les montants ventilés en fonction de la monnaie et de l'échéance doivent être déclarés sans tenir compte de la valeur marchande des sûretés. Pour chaque catégorie de monnaie, les institutions déclarantes doivent fournir les montants totaux après prise en compte de la valeur marchande des sûretés (y compris tout appel de marge effectué avant la date de déclaration). Lorsque la valeur de la sûreté obtenue est supérieure à celle de la transaction en espèces, la valeur négative qui en résulte doit aussi être déclarée.
+
+### (D) Acceptations bancaires
+
+Les acceptations bancaires comprennent les acceptations émises par des institutions financières et achetées par l'institution déclarante.
+
+### (E) Participations dans des actions
+
+Déclarer :
+
+* les participations dans des actions ordinaires émises par des institutions financières (selon la définition donnée dans la section des instructions générales) et achetées par l'institution déclarante;
+* les participations dans des actions privilégiées émises par des institutions financières (selon la définition donnée dans la section des instructions générales) et achetées par l'institution déclarante.
+
+*Exigences de déclaration :*
+
+* Les actions ordinaires ou privilégiées détenues dans les portefeuilles de négociation doivent être déclarées à la valeur du marché. Pour les deux types d'expositions, deux mesures doivent être déclarées. La première est la position nette au comptant (la somme des positions longues sur actions moins la somme des positions courtes sur actions). La deuxième est la valeur marchande delta nette. Ces deux mesures se rapportent uniquement à ce qu'on appelle une exposition directe dans le cadre du dispositif de Bâle III, et ne comprennent pas ce qu'on appelle une exposition indirecte au titre du même dispositif (panier, indice, etc.), comme il est stipulé au paragraphe 80 du dispositif de Bâle III.
+
+La valeur marchande delta nette correspond au montant notionnel des actions détenues dans les portefeuilles de négociation qui sont exposées aux fluctuations des marchés, rajusté pour tenir compte des couvertures et des instruments dérivés (incluant les positions nettes « hors bilan » liées à des swaps boursiers à rendement total).
+
+Exemple 1 :
+
+La banque A détient 1 000 000 d'actions de la banque B (en termes de position nette au comptant, qui correspond à la différence entre les positions longues et courtes sur actions); la banque A vend 1 000 000 d'options d'achat sur la banque B avec une valeur delta de -0,3. Dans ce cas, la valeur marchande delta nette se calcule comme suit : 1 000 000 d'actions – 300 000 actions = 700 000 actions \* prix sur le marché.
+
+* Les actions ordinaires ou privilégiées détenues dans le portefeuille bancaire doivent être déclarées à leur valeur au bilan, incluant toute couverture économique. En conséquence, aucune couverture comptable ne doit être utilisée. La valeur au bilan peut être soit la valeur marchande, soit la valeur initiale du titre.
+* Les expositions nettes doivent être déclarées même lorsque la couverture sous-jacente est liée à une autre institution financière. La compensation dans une autre monnaie n'est pas permise.
+
+Exemple 2 :
+
+La banque canadienne A détient une position longue de 1 000 000 de dollars US sur la banque américaine B. La banque A couvre cette position en achetant 50 000 options de vente sur la banque américaine C, avec une valeur delta de -0,5 et un prix au comptant de 25 dollars. La banque A doit donc déclarer une valeur delta nette des titres de 1 000 000 – (50 000\* 0,5\*25) = 375 000 dollars dans la colonne « Institutions financières non résidentes – États-Unis ».
+
+Exemple 3 :
+
+La banque A détient une position longue de 1 000 000 de dollars US sur la banque américaine B. La banque A couvre cette position en achetant 50 000 options de vente sur la banque européenne C, avec une valeur delta de -0,5 et un prix au comptant de 25 euros. La banque A doit donc déclarer une valeur delta nette des titres de 1 000 000 dollars dans la colonne « Institutions financières non résidentes – États-Unis » et une valeur delta nette de -625 000 euros dans la colonne « Institutions financières non résidentes – Autres pays européens ».
+
+* Les expositions relatives aux positions sur actions ordinaires ou privilégiées utilisées comme couvertures des expositions indirectes découlant de fonds cotés en bourse (FCT) ou d'autres produits financiers indiciels doivent être exclues.
+
+### (F) Participations dans des titres de créance, moins provision spécifique pour pertes de crédit attendues
+
+Déclarer :
+
+* les participations dans des titres de créance de rang supérieur avec et sans garantie (incluant les papiers commerciaux, le cas échéant);
+* les participations dans des titres de créance subordonnés, incluant les débentures, les effets subordonnés et les instruments novateurs.
+
+Ne pas déclarer :
+
+* les expositions associées à des titres comme les papiers commerciaux adossés à des actifs, les titres adossés à des créances, les titres hypothécaires, les titres hypothécaires commerciaux et les titres adossés à des créances hypothécaires résidentielles (avec ou sans soutien explicite). Ces expositions sont exclues parce qu'on souhaite connaître uniquement les expositions directes. Dans le cas de ces titres, même si l'émetteur est responsable (en dépit du fait qu'il n'y ait pas de recours juridique direct contre l'émetteur si l'emprunteur principal ne paie pas), l'exposition est conditionnelle au défaut de l'emprunteur principal.
+
+*Définitions*
+
+* Titre de créance de rang supérieur :
+
+  Titre de créance reconnu par les banques déclarantes comme étant de rang supérieur, c.-à-d. qu'il doit être remboursé en priorité en cas de défaut de la contrepartie. Les titres de créance de rang supérieur comprennent notamment les obligations foncières garanties et d'autres titres de créance de rang supérieur non garantis comme les obligations convertibles.
+* Titre de créance subordonné :
+
+  Titre de créance explicitement qualifié de subordonné dans le prospectus, en ce sens qu'il a une priorité inférieure à celle des autres créances sur l'actif de la contrepartie en défaut. Les titres de créance subordonnés comprennent notamment les instruments novateurs (par exemple, les titres fiduciaires).
+
+*Exigences de déclaration :*
+
+* Pour chaque type d'instrument, les institutions déclarantes doivent fournir les montants des encours, ventilés en fonction de l'échéance et de la monnaie.
+* Seules les expositions totales relatives aux deux types de titres de créance doivent être déclarées, après déduction des montants des couvertures du risque de crédit. Les couvertures du risque de crédit doivent être déduites, qu'elles soient fournies ou non par une autre institution financière. Si la couverture est fournie par une autre institution financière, l'acheteur ne doit pas considérer le montant de la couverture comme une exposition au fournisseur de celle-ci.
+* Les contrats dérivés sur défaut mono-émetteurs peuvent être considérés comme des couvertures du risque de crédit, mais pas les contrats dérivés sur défaut dans le panier.
+
+### (G) Dérivés hors cote
+
+La sous‑section G est réservée aux renseignements sur les expositions en cas de défaut (ECD) des opérations sur dérivés hors cote. Tous les chiffres, y compris les opérations admissibles à la comptabilité de couverture, doivent être déclarés dans la Section II (portefeuille de négociation). La section G Dérivés hors cote, comporte deux sous-sections, G(i) Dérivés hors cote – Approche standard à l'égard du risque de contrepartie et G(ii) Dérivés hors cote – Méthode des modèles internes. Les banques doivent déclarer leur exposition aux dérivés hors cote dans la sous-section (i) ou (ii), selon la méthode qu'elles appliquent aux fins du *Relevé des normes de fonds propres de Bâle (RNFPB)*[Note de bas de page 4](#fnb4). Les définitions et les méthodes d'évaluation utilisées doivent être celles décrites au tableau 40 du RNFPB, soit à la section B(i) dans le cas des méthodes d'évaluation des risques courants et à la section B(ii) dans celui de la méthode des modèles internes.
+
+Pour la sous-section G(i), vous devez déclarer les éléments suivants :
+
+* Coût de remplacement : contrats assujettis à la compensation permise
+  + Contrats avec marge
+  + Contrats sans marge
+* Coût de remplacement : contrats non assujettis à la compensation permise
+  + Contrats avec marge
+  + Contrats sans marge
+* Exposition éventuelle au risque de crédit futur : contrats assujettis à la compensation permise
+* Exposition éventuelle au risque de crédit futur : contrats non assujettis à la compensation permise
+
+Dans l'approche standard à l'égard du risque de crédit (SA-CCR), l'exposition en cas de défaut à un dérivé se calcule généralement en multipliant le facteur alpha par la somme du coût de remplacement (si ce coût est positif) et de l'exposition éventuelle au risque de crédit futur. Actuellement, le facteur alpha est de 1,4. Le coût de remplacement est calculé conformément aux instructions du Comité de Bâle sur le contrôle bancaire d'avril 2014 (SA-CCR), paragraphes 129-145. Que le coût de remplacement soit positif ou négatif, il est nécessaire de calculer l'exposition éventuelle au risque de crédit futur. Celle-ci se calcule conformément aux instructions du Comité de Bâle sur le contrôle bancaire d'avril 2014 (SA-CCR), paragraphes 146-184, et aux questions 2, 5, 6, 7 et 12 d'août 2015 publiées par le Comité de Bâle.
+
+Aux fins du calcul des expositions en cas de défaut de plusieurs contrats sur dérivés, les coûts de remplacement positifs peuvent être contrebalancés par des coûts de remplacement négatifs si les conditions sont remplies pour la compensation. Ces conditions sont décrites dans les lignes directrices du Comité de Bâle sur le contrôle bancaire d'avril 2014 (SA-CCR), paragraphe 133.
+
+Les expositions au risque de contrepartie liées aux dérivés hors cote en monnaie étrangère (y compris les swaps de devises) doivent être déclarées en dollars canadiens seulement. Toutes les autres expositions doivent être déclarées en monnaie étrangère.
+
+Les postes suivants doivent être déclarés à la sous-section G(ii) :
+
+* Dérivés pour lesquels le modèle tient compte des sûretés
+  + Expositions en cas de défaut (EPA réelle x Alpha)
+  + Réduction de l'ECD pour rajustement de la valeur du crédit subi (Pertes)
+  + Expositions en cas de défaut en circulation
+* Dérivés pour lesquels le modèle ne tient pas compte des sûretés
+  + Expositions en cas de défaut (EPA réelle x Alpha)
+  + Réduction de l'ECD pour rajustement de la valeur du crédit subi (Pertes)
+  + Expositions en cas de défaut en circulation
+
+Les expositions au risque de contrepartie liées aux dérivés hors cote en monnaie étrangère (y compris les swaps de devises) doivent être déclarées en dollars canadiens seulement. Toutes les autres expositions doivent être déclarées en monnaie étrangère.
+
+## Note de bas de page
+
+Note de bas de page 1
+:   Bien que le relevé des expositions interbancaires et des principales autres expositions soit produit en application de la Loi sur le Bureau du surintendant des institutions financières, c'est la Banque du Canada qui est responsable de la conception du relevé ainsi que des définitions et des directives s'y rapportant.
+
+    [réintégrer note 1](#fnb1-ref)
+
+Note de bas de page 2
+:   À cette fin, les banques doivent remplir deux fois la Section I du relevé (une fois pour les expositions du portefeuille bancaire et une fois pour les expositions du portefeuille de négociation) en y inscrivant les données pertinentes.
+
+    [réintégrer note 2](#fnb2-ref)
+
+Note de bas de page 3
+:   Veuillez consulter la Section I pour obtenir une définition détaillée de ces expositions.
+
+    [réintégrer note 3](#fnb3-ref)
+
+Note de bas de page 4
+:   Dans cette sous-section, seuls les dérivés hors cote donnant lieu à un risque de contrepartie sont pris en compte. Ainsi, les dérivés de crédit fournis ou acquis aux fins de protection du crédit dans le portefeuille bancaire sont exclus. En revanche, les dérivés de crédit hors cote conservés dans le portefeuille de négociation et non utilisés à des fins de couverture des postes du portefeuille bancaire ou du risque de contrepartie lié à d'autres dérivés hors cote du portefeuille de négociation sont pris en compte.
+
+    [réintégrer note 4](#fnb4-ref)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-09-25

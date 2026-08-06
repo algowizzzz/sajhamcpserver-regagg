@@ -1,0 +1,139 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+## Vacancies
+
+* [Ordinary](/v2/about/?subSection=vacancies&subSection1=ordinary)
+* [Secondments](/v2/about/?subSection=vacancies&subSection1=secondments)
+
+## Related Information
+
+* [IOSCO Secondment Policy](/v2/about/?subSection=vacancies&subSection1=secondments&subSection2=secondment_policy)
+* [IOSCO Asia-Pacific Hub Secondment Policy](/v2/about/?subSection=vacancies&subSection1=secondments&subSection2=hub_secondment_policy)
+
+# Ordinary Job Opportunities at IOSCO
+
+---
+
+## R202602 Accountant – Vacancy Notice at the IOSCO General Secretariat
+
+**Position:** Accountant, Operations Department   
+**Place of employment:** Madrid, Spain  
+**Start Date:** As soon as possible  
+**Type of Recruitment:** Permanent, 6-month probation period  
+**Deadline for applications:** 12/06/2026  
+  
+
+Download Job Description
+
+---
+
+**IOSCO**
+
+IOSCO, the International Organization of Securities Commissions — that brings together the world's securities regulators and is recognized as the global standard setter for financial markets regulation. We develop, implement and promote adherence to internationally recognized standards for financial markets regulation and work closely with other international organizations on the global regulatory reform agenda.
+
+Our [Objectives and Principles of Securities Regulation](https://www.iosco.org/library/pubdocs/pdf/IOSCOPD561.pdf)
+are endorsed by both the G20 and the FSB and serve as the overarching core principles that guide us in the development and implementation of internationally recognized and consistent standards of regulation, oversight and enforcement. They also form the basis for the evaluation of the securities sector for the Financial Sector Assessment Programs (FSAPs) of the International Monetary Fund (IMF) and the World Bank.
+
+Bringing together regulators from over 130 jurisdictions, our Secretariat is where that international mission becomes operational reality. As part of our finance team, you won't just be processing numbers — you'll move beyond the domestic market, this is a rare opportunity to build genuine international experience: working in a multilingual environment, and gaining exposure to the financial inner workings of a globally recognized institution — all from a permanent base in Spain.
+
+**The Role and responsibilities**
+
+The IOSCO General Secretariat is seeking an Accountant to support the work of the Finance Department to help accelerate the department’s digital transformation, supporting the implementation of AI in internal processes, and collaborating on the creation of new reporting and monitoring tools.
+
+Reporting to the Head of Finance primarily and under the overall supervision of the Head of Operations, the selected candidate will strengthen the Finance department of the Organization, and contribute to the organisation’s ongoing development in the face of new challenges posed by a rapidly changing environment.
+
+The Finance Department team covers work across several critical areas, including:
+
+* Accounting;
+* Invoicing;
+* Payroll;
+* Treasury;
+* Compliance and Controlling;
+* Internal and External Audit.  
+    
+  The tasks assigned to the successful candidate would typically include:
+* **Performing day-to-day bookkeeping** activities within the ERP system, ensuring accurate and timely recording of financial transactions. Following Spanish GAAP and with IFRS knowledge.
+* **Act as the functional owner of Sage (Sage 200 / Sage X3)** ensuring data integrity and system reliability. Design, configure and maintain Sage workflows, chart of accounts and cost centres. Liaise with external Sage consultants on system upgrades, customisations and integrations.
+* **Documentation:** In coordination with the Head of finance ensure integrity and traceability of all financial documentation in the Cloud and shared folders.
+* **Cash Flow & Treasury:** Performance of periodic bank reconciliations to verify that ledger balances match with bank statements, and to confirm that all recorded payments are matched to their corresponding invoice.
+* **Accounts Payable:** Monitor accounts payable cycles, review travel expenses claims and settlements ensuring compliance with internal policies and timely payment processes and creating reporting models.
+* **Tax, Compliance and Audit:** Oversee the preparation and submission of tax declarations (modelo 111-190-345) in coordination with the Head of finance and the external advisers. Assisting in the preparation and coordination of internal, external, and client audits.
+* Any other tasks that might be required from time to time by the Secretary General, Deputy Secretary General, HoO and the Head of Finance.
+
+**Qualifications & Requirements**
+
+**Education**
+
+* Degree in Accounting, Finance, Economics or a related field is required.
+* A Master's degree or postgraduate specialisation in Accounting or Finance is highly valued.
+
+**Experience**
+
+* Minimum **5 years** of progressive accounting experience, ideally within a multinational or international organisation.
+* Demonstrated hands-on expertise with Sage (Sage 200, Sage X3 or equivalent), including system configuration and reporting.
+* Solid working knowledge of Spanish GAAP (PGC) and IFRS, with experience in dual-framework reporting.
+* Proven track record of contributing to or leading digital transformation projects in a finance context.
+* Experience with audit coordination, statutory reporting and tax compliance in Spain.
+
+**Technical Skills**
+
+* Advanced proficiency in Sage ERP (mandatory).
+* Strong command of Microsoft Excel and/or Google Sheets, including pivot tables, financial modelling and data analysis.
+* Familiarity with business intelligence tools (Power BI, Tableau) and/or process automation tools (Power Automate) is a strong advantage.
+
+**Languages**
+
+* Spanish: Native or full professional proficiency (mandatory).
+* English: High professional proficiency, both written and spoken (mandatory).
+
+**Competencies**
+
+* High level of analytical thinking and attention to detail.
+* Strong organisational skills with the ability to manage multiple priorities under tight deadlines.
+* Proactive mindset with a drive for continuous improvement and innovation.
+* Team player with excellent interpersonal and communication skills
+
+**Application process**
+
+Interested candidates should apply directly through the following link: <https://www.pagepersonnel.es/job-detail/accountant-sage/ref/jn-052026-7016269>
+
+The positions will be filled on a competitive basis.
+
+IOSCO accepts all eligible candidates without discrimination on any grounds, such as sex, gender, race, colour, ethnic or social origin, religion or belief, membership of a national minority, disability, age or sexual orientation.
+
+**Summary of conditions of employment**  
+
+* Competitive salary and benefits package: the salary will be comprised within the range 40-50K EUR year gross, depending on experience, complemented by a private pension contribution of 10% of the gross salary.
+* We offer a hybrid working arrangement with up to two remote days per week
+* Headquarters in downtown Madrid and working in an international organization with a global impact
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

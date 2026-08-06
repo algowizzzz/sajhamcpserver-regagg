@@ -1,0 +1,1 @@
+Summary: # OSFI response to draft Guideline B-15 consultation feedback

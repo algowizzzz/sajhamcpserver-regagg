@@ -1,0 +1,13 @@
+# Release Number 9272-26
+
+# CFTC Staff Issues No-Action Position on Designated Contract Market Procedures
+
+**July 24, 2026**
+
+**WASHINGTON** — The Commodity Futures Trading Commission’s Division of Market Oversight today announced it has issued a no-action letter to Kraken Derivatives Exchange Inc., formerly Small Exchange Inc., a designated contract market, which addresses certain procedures related to dormancy.
+
+The no-action position is time-limited and subject to the terms and conditions in the division’s no-action letter.
+
+This position is in response to a request from Kraken Derivatives Exchange Inc. to extend the no-action position granted to KDE in CFTC Letter No. [25-46](https://www.cftc.gov/csl/25-46/download).
+
+**-CFTC-**

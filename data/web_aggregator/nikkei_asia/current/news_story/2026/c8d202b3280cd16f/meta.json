@@ -1,0 +1,25 @@
+{
+  "doc_id": "c8d202b3280cd16f",
+  "regulator_id": "nikkei_asia",
+  "doc_type": "news_story",
+  "title": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m",
+  "language": "en",
+  "source_url": "https://asia.nikkei.com/business/business-deals/bain-capital-to-buy-taiwan-originated-gong-cha-chain-for-over-635m",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fdc0a2c8814a2570b7bcb94615731aaca64e73d89576e218f9226d38397023db",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nikkei_asia_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nikkei_asia/current/news_story/2026/c8d202b3280cd16f",
+  "tags": [
+    "japan"
+  ],
+  "final_url": "https://asia.nikkei.com/business/business-deals/bain-capital-to-buy-taiwan-originated-gong-cha-chain-for-over-635m",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,1 @@
+Summary: ![People in a car at sunset](/sites/default/files/styles/wide_lead/public/media/2019/01/istock-906962986_auto_insurance.jpg?h=4c8dab9c&itok=4IyinIUH "Auto Insurance Information for Consumers")

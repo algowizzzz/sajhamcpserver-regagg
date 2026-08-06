@@ -1,0 +1,24 @@
+{
+  "doc_id": "46613d52783d43e3",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "When to verify the identity of persons and entities\u2014Securities dealers",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/client/sec-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:be455c45046bfd4636c74ac30d7f18f6f97c1a454ee097ffc55d9fa92a210b45",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/46613d52783d43e3",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

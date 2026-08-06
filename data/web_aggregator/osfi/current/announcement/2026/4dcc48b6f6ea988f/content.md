@@ -1,0 +1,46 @@
+# Exemption des restrictions relatives aux sociétés de personnes
+
+Information
+
+Type de document
+
+Instructions relatives aux opérations
+
+Catégorie
+
+Opérations avec présomption d'agrément
+
+Dernière révision
+
+Avril 2009
+
+Index PA No
+
+11
+
+## Fondement législatif
+
+* articles 421, 553.1 et 924 de la [Loi sur les banques](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/)
+* article 421 de la [Loi sur les sociétés de fiducie et de prêt](https://laws-lois.justice.gc.ca/fra/lois/t-19.8/)
+* articles 472, 542.09 et 964 de la [Loi sur les sociétés d’assurances](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/)
+* article 385 de la [Loi sur les associations coopératives de crédit](https://laws-lois.justice.gc.ca/fra/lois/c-41.01/ )
+
+## Exigences en matière d’information
+
+De façon générale, le requérant doit fournir :
+
+1. les détails du contrat de société proposé;
+2. le motif justifiant la société à devenir commandité d'une société en commandite ou associé d'une société de personnes;
+3. une description détaillée des activités proposées et du rôle de l’entité réglementée (ER) dans le cadre de la commandite ou de la société de personne;
+4. les obligations contractuelles supplémentaires qui pourraient incomber à l’ER.
+
+## Directives administratives
+
+Jusqu’à présent, aucune demande d’exemption n’a été présentée en vertu de l’une des autorisations législatives ci-dessus.
+
+*Les exigences en matière d’information et les consignes administratives visent à satisfaire à tous les genres de demandes types. Elles reflètent la vaste expérience du BSIF en matière de traitement des demandes. Les requérants qui fournissent tous les renseignements et documents demandés peuvent généralement s’attendre à ce que leur requête soit étudiée plus rapidement. Compte tenu des circonstances, le BSIF peut demander un complément d’information, tenir compte d’autres éléments, imposer des modalités ou exiger des engagements.*
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-01-17

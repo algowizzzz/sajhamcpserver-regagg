@@ -1,0 +1,1 @@
+Summary: # IFRS 18, États financiers : Présentation et informations à fournir – incidence de la norme sur les assureurs fédéraux relevant du BSIF

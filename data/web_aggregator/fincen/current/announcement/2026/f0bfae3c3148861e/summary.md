@@ -1,0 +1,1 @@
+Summary: # Currency Transaction Reporting: Completing a CTR and Aggregation

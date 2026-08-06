@@ -1,0 +1,27 @@
+{
+  "doc_id": "66b52a91ed08b7d2",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "Interview with Manuela Zweimueller and Katja Wuertz for the German Association of the Insured (Bund der Versicherten) - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/interview-manuela-zweimueller-and-katja-wuertz-german-association-insured-bund-der-versicherten-2017-10-24_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b2959d3d6735f3d86522292771e6e75231916e6d55faaced668c6496b636ad62",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/66b52a91ed08b7d2",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/interview-manuela-zweimueller-and-katja-wuertz-german-association-insured-bund-der-versicherten-2017-10-24_en",
+  "fetch_method": "html_to_md"
+}

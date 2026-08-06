@@ -1,0 +1,52 @@
+# Policy interpretations database
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+FINTRAC has been providing policy interpretations to persons and entities with obligations under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act) and associated Regulations since 2008.
+
+**Note**
+
+Policy interpretations are based solely on the information provided to FINTRAC and may be subject to change if additional information becomes available. They are provided as general information. They are not legal advice, and are not intended to replace the Act and associated Regulations.
+
+Each policy interpretation reflects the requirements of the Act and associated Regulations in force at the time they were written. Legislative and regulatory amendments may have taken place since the policy interpretation was issued that may impact the determination made at the time. Therefore, please take note of the date each policy interpretation request was answered.
+
+As of April 27, 2022, the policy positions in the following PI (PI-7670) concerning payment processing and merchant servicing activities have been retracted. Certain payment service providers are now subject to the requirements under the Act and associated Regulations as money services businesses and foreign money services businesses, with all of the associated obligations, as described in the notice on [Crowdfunding platforms and certain payment service providers must register with FINTRAC and the EFT definition was amended](/notices-avis/2022-04-27-eng). See the [Sector-specific guidance on Money Services Businesses](/msb-esm/msb-eng) for more information on who is a money services business or foreign money services business.
+
+[Most recently published interpretations](?date=2022-11-21#pi-results) 2022-11-21
+
+Updates the page to show the most recently published interpretations in the filtered results below.
+
+Archived policy interpretations
+
+The following policy interpretations have been archived as a result of the coming into force of the amended Regulations on June 1st, 2021. This content will be removed on March 31, 2023.
+
+* [Archived Beneficial Ownership](pi-archived-eng?s=7)
+* [Archived Business Relationship](pi-archived-eng?s=14)
+* [Archived Compliance Program](pi-archived-eng?s=4)
+* [Archived Correspondent banking](pi-archived-eng?s=15)
+* [Archived Enforcement](pi-archived-eng?s=9)
+* [Archived Money services business / Foreign money services business](pi-archived-eng?s=12)
+* [Archived Ongoing Monitoring](pi-archived-eng?s=13)
+* [Archived Politically Exposed Persons or Heads of an international organization](pi-archived-eng?s=10)
+* [Archived Record Keeping](pi-archived-eng?s=5)
+* [Archived Reporting](pi-archived-eng?s=1)
+* [Archived Third Party Determination](pi-archived-eng?s=6)
+* [Archived Verifying Identity](pi-archived-eng?s=11)
+* [Archived Other](pi-archived-eng?s=2)
+
+#### Filter policy interpretations
+
+Use filters to search through the Policy interpretation database.
+
+## Search results
+
+| Title | Question | Activity sector | Obligation | Date answered | Answer updated on | Language | What's new |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| DATATABLE | | | | | | | |
+
+## Related link
+
+* [FINTRAC interpretation notices](/guidance-directives/overview-apercu/FINS/1-eng)
+
+Date Modified:
+:   2023-10-12

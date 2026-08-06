@@ -1,0 +1,1 @@
+Summary: # Suspicious Activity Report Credited with Revealing Bank Fraud Scheme and Unraveling Auto Insurance Fraud Ring that Nets Principal Defendant Nearly $1.3 Million and a Nine-Year Prison Term

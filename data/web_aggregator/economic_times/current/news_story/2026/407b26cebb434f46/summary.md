@@ -1,0 +1,1 @@
+Summary: # Shopify shares soar 18% as AI push helps revenue beat estimates

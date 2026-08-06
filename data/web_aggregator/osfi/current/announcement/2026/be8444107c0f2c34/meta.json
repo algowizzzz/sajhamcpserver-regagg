@@ -1,0 +1,25 @@
+{
+  "doc_id": "be8444107c0f2c34",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Foire aux questions | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/foire-questions",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3edcde8fe65106948cce0c9e556ea38a554c934cf4d34b043b5e989c2890ac98",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/be8444107c0f2c34",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

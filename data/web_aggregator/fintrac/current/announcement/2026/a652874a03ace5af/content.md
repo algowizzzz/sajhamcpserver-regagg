@@ -1,0 +1,23 @@
+# 27 juillet 2020 Reprise des activités d'examen au bureau
+
+La présente mise à jour des procédures d'examen entre en vigueur le 27 juillet 2020.
+
+CANAFE comprend que les entités déclarantes peuvent encore éprouver des difficultés à remplir entièrement certaines de leurs obligations en raison de la pandémie de COVID-19. Vu la situation, le Centre a donc redéfini les priorités liées à son travail de supervision. Au cours des derniers mois, il a par exemple suspendu ses activités d'examen au bureau et sur place et les a remises à une date ultérieure.
+
+Dans les prochaines semaines, au fil de la réouverture de divers secteurs de l'économie dans les provinces, CANAFE communiquera avec un certain nombre d'entités déclarantes dans le cadre de la reprise de ses activités d'examen au bureau. Pour l'heure, le Centre ne fera pas d'examens sur place. Il attendra que davantage de restrictions soient levées et que d'autres directives soient publiées par les autorités de santé publique.
+
+Les examens de CANAFE ont pour objet d'évaluer l'efficacité du programme de conformité de votre entreprise, vos mécanismes de contrôle de la conformité, ainsi que le respect des obligations que vous devez remplir au titre de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes.
+
+Au moment d'amorcer la planification des examens au bureau, nous continuerons à nous montrer souples et raisonnables en accordant, au besoin, davantage de temps pour préparer la documentation requise et répondre à nos demandes.
+
+Comme nous l'avons déjà mentionné, nous tiendrons compte des répercussions de la pandémie de COVID-19 et des défis qu'elle engendre lorsque nous évaluerons la conformité des entités déclarantes avec les obligations énoncées dans la Loi et ses règlements. Ainsi, nous nous montrerons souples et raisonnables lors de l'évaluation de la capacité à actualiser les politiques et les procédures, à se conformer à des mesures provisoires relatives à la COVID-19 et à remplir certaines obligations soumises à un échéancier telles que l'examen bisannuel de l'efficacité.
+
+Dans les cas où votre capacité à remplir une obligation donnée est compromise, vous devez conserver un document décrivant les circonstances ayant causé cette incapacité (p. ex. une note de service faisant état d'une réduction de l'effectif) et, s'il y a lieu, consigner les mesures que vous avez prises pour atténuer les risques de non-conformité.
+
+Liens additionnels sur les examens de CANAFE :
+
+* [Examens de CANAFE]( /guidance-directives/exam-examen/05-2005/4-fra)
+* [Manuel d'évaluation de CANAFE]( /guidance-directives/exam-examen/cam/cams-fra)
+
+Date de modification :
+:   2020-07-27

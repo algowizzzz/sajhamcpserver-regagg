@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Connectivity Fees

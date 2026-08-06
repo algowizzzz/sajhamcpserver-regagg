@@ -1,0 +1,31 @@
+# Registration
+
+Both firms and individuals must be registered with FINRA to conduct securities business with the investing public. Firms must meet certain criteria to attain membership with FINRA, and register with the U.S. Securities and Exchange Commission (SEC), other self-regulatory organizations (SROs) and state regulators.
+
+To become registered as representative and/or principal, associated persons of  member firms are required to pass [qualification exams](/registration-exams-ce/qualification-exams) to demonstrate competence in their specific securities functions and submit [registration forms](/registration-exams-ce/broker-dealers/registration-forms)—such as the Form U4—that FINRA, SROs and state regulators review as a condition of registration approval. Additionally, FINRA registrants are required to remit [fingerprints](/registration-exams-ce/classic-crd/fingerprints) to FINRA pursuant to SEC rules, and complete annual [continuing education](/registration-exams-ce/continuing-education) requirements as prescribed by FINRA and other SROs.
+
+[Learn more](/investors/insights/regulated-by-FINRA) about what it means to be regulated by FINRA.
+
+---
+
+### [Broker-Dealer Registration](/registration-exams-ce/broker-dealers)
+
+You can find FINRA’s membership requirements for BD firms in the FINRA Rule 1000 Series. This outlines the standards and procedural guidelines for the BD membership application and registration process.
+
+---
+
+### [Capital Acquisition Brokers](/registration-exams-ce/capital-acquisition-brokers)
+
+Capital Acquisition Brokers (CABs) engage in a limited range of activities. Learn more about registering or transitioning to CAB status.
+
+---
+
+### [Funding Portals](/registration-exams-ce/funding-portals)
+
+Funding portal members are subject to FINRA regulatory oversight and reporting requirements. Learn about the funding portal membership application and registration process.
+
+---
+
+### [Individual Registration](/registration-exams-ce/individuals)
+
+Firms must register associated persons with FINRA and other regulators prior to conducting securities business of a broker-dealer firm—including retail salespersons, branch managers, supervisors, investment bankers, research analysts, operations staff, officers and directors—before they can take a qualification exam.

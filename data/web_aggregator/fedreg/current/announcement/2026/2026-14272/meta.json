@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14272",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; MIAX Emerald, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the MIAX Emerald Options Exchange Fee Schedule To Extend the Temporary Discount Program for Historical Requests of Certain Open-Close Report Data Until December 31, 2026",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/16/2026-14272/self-regulatory-organizations-miax-emerald-llc-notice-of-filing-and-immediate-effectiveness-of-a",
+  "reference_number": "2026-14272",
+  "published_date": "2026-07-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:626aa1f51d7e15b7d8cade6687fb454cd373b444d4cc66239e24fb7435f7df42",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14272",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

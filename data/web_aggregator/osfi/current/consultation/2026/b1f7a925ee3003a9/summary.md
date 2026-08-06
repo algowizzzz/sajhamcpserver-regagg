@@ -1,0 +1,1 @@
+Summary: # Consultation publique sur la ligne directrice B-20, Pratiques et procédures de souscription de prêts hypothécaires résidentiels

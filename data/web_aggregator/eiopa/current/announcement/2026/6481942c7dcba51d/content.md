@@ -1,0 +1,21 @@
+Due to COVID-19 outbreak, in the coming weeks European Insurance and Occupational Pensions Authority will carry out extraordinary calculations on weekly basis to monitor the evolution of the relevant risk-free interest rate term structures (RFR) and the symmetric adjustment to equity risk (EDA). EIOPA is publishing this information in order to support insurance and reinsurance undertakings in the monitoring of their solvency and financial position.
+
+The information will be published on a specific area of the website created for this purpose both for RFR and EDA named “Extraordinary weekly updates”.
+
+Download the technical information with reference to 27 April 2020 for:
+
+* **[Risk free interest rate term structures (RFR)](https://www.eiopa.europa.eu/tools-and-data/risk-free-interest-rate-term-structures-0_en#ExtraordinaryRFRweeklycalculations),** at the bottom of the page, under Extraordinary RFR weekly updates
+* **[Symmetric Adjustment to Equity Risk (EDA)](/tools-and-data/symmetric-adjustment-equity-capital-charge_en),** at the bottom of the page, under Extraordinary Symmetric adjustment weekly updates
+
+RFR information has been calculated applying the content of the [Technical Documentation](/document/download/80a87efd-ca69-465e-85fd-bfdbc757463b_en?filename=01.10.2019%20Technical%20documentation.pdf) published on 1 October 2019 and based on RFR coding released on 8 October 2019.
+
+All the documents are available on [RFR](http://www.eiopa.europa.eu/tools-and-data/risk-free-interest-rate-term-structures-0_en#ExtraordinaryRFRweeklycalculations) and [EDA](/tools-and-data/symmetric-adjustment-equity-capital-charge_en)specific areas on EIOPA's website. In particular, the updated version of the source code can be accessed under [Related links](https://www.eiopa.europa.eu/tools-and-data/risk-free-interest-rate-term-structures-0_en#MonthlyRFRcalculations) in the RFR area.
+
+Publication date
+:   30 April 2020
+
+## Related links
+
+[Risk-free interest rate term structures](/tools-and-data/risk-free-interest-rate-term-structures_en)
+
+[Symmetric adjustment of the equity capital charge](/tools-and-data/symmetric-adjustment-equity-capital-charge_en)

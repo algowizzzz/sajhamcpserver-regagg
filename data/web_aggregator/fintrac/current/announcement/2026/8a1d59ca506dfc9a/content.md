@@ -1,0 +1,147 @@
+# Directive de CANAFE faisant suite à la directive ministérielle sur les opérations financières associées à la Russie publiée le 24 février 2024
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)
+
+Mis à jour le 22 mars 2025
+
+La présente directive fournit des explications concernant les exigences de la directive ministérielle sur les opérations financières associées à la Russie.
+
+## Dans cette directive
+
+1. [L’objet de cette directive ministérielle](#s1)
+2. [Champ d’application de la directive ministérielle](#s2)
+3. [Exigences de la directive ministérielle](#s3)
+4. [Les documents à tenir et la durée de conservation](#s4)
+
+La présente directive fait suite à la directive du ministre des Finances publiée dans la [Gazette du Canada](https://www.gazette.gc.ca/rp-pr/p1/2024/2024-02-24/html/index-fra.html) et entrée en vigueur le 24 février 2024.
+
+## 1. L'objet de la directive ministérielle
+
+Conformément à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, il a été déterminé que
+
+* les mesures prises par la Russie pour lutter contre le recyclage des produits de la criminalité et le financement des activités terroristes sont inefficaces et inadéquates
+* la Russie risque de faciliter le contournement de sanctions, ce qui pourrait porter atteinte à l'intégrité ou poser un risque d'atteinte à la réputation du système financier canadien
+
+Ainsi, le ministre des Finances du Canada a publié une directive ministérielle afin d'assurer la sécurité et de protéger l'intégrité du système financier canadien.
+
+La directive ministérielle comporte des exigences qui viendront :
+
+* renforcer les obligations existantes énoncées dans le Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* étendre les obligations prescrites par le Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes
+
+Pour obtenir plus d’informations sur le régime canadien de sanctions et les sanctions canadiennes liées à la Russie, consultez le [site Web des sanctions canadiennes](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/index.aspx?lang=fra) et la page Web des [sanctions canadiennes liées à la Russie](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/russia-russie.aspx?lang=fra).
+
+## 2. Champ d'application de la directive ministérielle
+
+La directive ministérielle, qui est entrée en vigueur le 24 février 2024, s'applique aux personnes ou entités visées à l'article 5 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes.
+
+## 3. Exigences de la directive ministérielle
+
+Toute personne ou entité visée à l'article 5 de la Loi doit :
+
+* traiter **chaque** opération financière **effectuée depuis la Russie ou à destination de ce pays**, peu importe le montant de celle-ci, comme une opération à risque élevé au titre du paragraphe 9.6(3) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* [vérifier l'identité](/guidance-directives/client-clientele/Guide11/11-fra) de toute personne ou entité qui est le demandeur ou le bénéficiaire de l'opération, peu importe le montant de celle-ci, conformément à la partie 3 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes (le Règlement)
+* suivre les procédures de vigilance à l'égard des clients en ce qui concerne une telle opération, avec une attention particulière sur le risque d'une infraction de contournement des sanctions, notamment en vérifiant l'origine des fonds ou de la monnaie virtuelle, l'objet de l'opération, et le [bénéficiaire effectif](/guidance-directives/client-clientele/bor-fra) ou les personnes qui contrôlent l'entité qui est le demandeur ou le bénéficiaire de l'opération
+* [tenir un document](/guidance-directives/guidance-directives-fra#s4) sur une telle opération, peu importe le montant de celle-ci, conformément au Règlement
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, L.C. 2000, ch. 17, paragraphes (1) et (2) de l’article 11.42
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + articles 105 à 114
+  + articles 144 à 149
+
+### 3.1 Déterminer si l'opération a été effectuée depuis la Russie ou à destination de ce pays
+
+Pour déterminer si l'opération a été effectuée depuis la Russie ou à destination de ce pays, vous devez prendre en considération une variété d'éléments vu les circonstances différentes de chaque opération. Vous devez tenir compte des faits, du contexte et des indicateurs d'une opération pour déterminer si elle est assujettie à la directive ministérielle. **Les opérations effectuées depuis la Russie ou à destination de ce pays comprennent, sans s'y limiter :**
+
+* les télévirements, la remise de fonds ou d'autres virements comportant une adresse en Russie (demandeur ou bénéficiaire) – cela peut inclure les opérations où le demandeur (la personne ou l'entité), le bénéficiaire, ou le tiers sont Russes
+* les activités de représentant du gouvernement russe (par exemple, des opérations sur un compte bancaire de l'ambassade de la Russie au Canada)
+* la réception de roubles russes destinés à être déposés dans un compte ou à être utilisés lors d'une opération comportant de la monnaie virtuelle
+* l'échange de devises étrangères ou de monnaie virtuelle comportant des roubles russes (par exemple, échange de dollars canadiens contre des roubles russes, de roubles russes contre des dollars américains, ou de monnaie virtuelle contre des roubles russes)
+* l'émission ou le rachat de traites bancaires ou d'autres titres négociables dont une composante est en roubles russes
+
+La directive ministérielle **ne s'applique pas** aux opérations pour lesquelles il n'existe aucun lien, explicite ou soupçonné, avec la Russie, ou aucune preuve que l'opération ait été effectuée depuis la Russie ou à destination de ce pays. Voici quelques exemples de telles opérations :
+
+* un client qui a déjà envoyé des fonds en Russie demande la transmission d'un télévirement, mais les détails de l'opération n'indiquent pas que les fonds doivent être transférés en Russie et vous êtes incapable d'obtenir davantage de détails sur la destination de l'opération
+* les renseignements d'identité du client constituent le seul élément laissant supposer un lien avec la Russie (par exemple, la personne effectuant l'opération possède un passeport russe)
+* les renseignements d'une personne, qui est votre client au Canada, sont russes, mais il n'y a **pas d'autres renseignements** sur l'entité impliquée, le client demandeur, le destinataire, ou l'opération, laissant supposer un lien avec la Russie
+
+Pour plus de clarté, si les renseignements de votre client au Canada comprennent une adresse russe et que le client demande que les fonds soient envoyés à un bénéficiaire dans un pays autre que la Russie, lorsque des faits, un contexte et des indicateurs supplémentaires (par exemple, les renseignements du compte du bénéficiaire) indiquent un lien avec la Russie, alors cette opération doit être considérée comme étant **à destination de** la Russie, et traitée en conséquence.
+
+De même, si les renseignements de votre client au Canada comprennent une adresse russe et que ce client reçoit des fonds sur son compte à partir d'un compte dans un pays autre que la Russie, mais que des faits, un contexte et des indicateurs supplémentaires (par exemple, les coordonnées du compte d'envoi) indiquent un lien avec la Russie, alors cette opération doit être considérée comme **provenant de** la Russie, et traitée en conséquence.
+
+Par ailleurs, si les renseignements de votre client au Canada comprennent une adresse russe et que ce client demande que les fonds soient envoyés à un bénéficiaire dans un pays autre que la Russie, pour lequel des faits, un contexte et des indicateurs supplémentaires ne mettent **pas** en évidence un lien avec la Russie, alors cette opération ne doit pas être considérée aux fins de la directive ministérielle.
+
+À moins que l'opération ne soit effectuée par un représentant du gouvernement russe au Canada ou au bénéfice d'un tel représentant, les renseignements concernant votre client au Canada ne seront probablement pas suffisants pour que l'opération soit prise en compte en application des obligations de la directive ministérielle.
+
+**Remarque :** Dès que vous avez déterminé qu'une opération donnée est effectuée depuis la Russie ou à destination de ce pays, vous devez appliquer les mesures prévues dans la directive ministérielle.
+
+### 3.2 Vérifier l'identité de tout client qui est le demandeur ou le bénéficiaire d'une opération effectuée depuis la Russie ou à destination de ce pays
+
+Conformément à la directive ministérielle, vous devez prendre des mesures de vigilance accrues allant au-delà des éléments déclencheurs de vérification de l'identité et des exigences prévus par le Règlement sur le recyclage des produits de la criminalité et le financement des activités. Ainsi, même si les opérations dont le montant est inférieur aux seuils de déclaration n'entraînent habituellement aucune obligation relative à la vérification de l'identité des clients, vous **devez**, au titre de la directive, prendre les mesures suivantes :
+
+* vérifier l'identité de **chaque client** (y compris les clients avec qui vous entretenez une [relation d'affaires](/guidance-directives/client-clientele/brr-fra)) qui est le demandeur ou le bénéficiaire de ce genre d'opération, **peu importe le montant** de celle-ci, conformément aux [méthodes prévues par le Règlement](/guidance-directives/client-clientele/Guide11/11-fra) sur le recyclage des produits de la criminalité et le financement des activités terroristes
+* pour les opérations dont le montant correspond au seuil de déclaration, appliquer des **mesures accrues** à l'égard de la vérification de l'identité de chaque client, conformément aux [Exigences en matière de contrôle continu](/guidance-directives/client-clientele/omr-fra). Les mesures accrues peuvent comprendre : l'obtention de renseignements supplémentaires sur le client (par exemple, la profession, le montant des actifs, les renseignements tirés de bases de données publiques ou d'Internet); la collecte de documents, de données ou de renseignements supplémentaires, ou l'application d'autres mesures de vérification des documents obtenus
+
+### 3.3 Autres mesures requises
+
+Vous devez traiter **toutes** les opérations effectuées depuis la Russie ou à destination de ce pays comme des opérations à risque élevé. En plus de la vérification de l'identité de tout client qui est le demandeur ou le bénéficiaire de ce genre d'opération, vous devez, au titre de la directive ministérielle :
+
+* appliquer des mesures de vigilance accrues à l'égard des clients pour toutes les opérations (**peu importe le montant des opérations**), avec une attention particulière sur le risque d'infraction de contournement des sanctions
+* évaluer les renseignements du client pour déterminer s'il y a des motifs raisonnables de soupçonner qu'une infraction de blanchiment d'argent, de financement des activités terroristes ou de contournement des sanctions a été commise ou tentée et, le cas échéant, déclarer l'opération dans une [déclaration d'opérations douteuses](/guidance-directives/transaction-operation/str-dod/str-dod-fra) ou une [déclaration de biens appartenant à une personne ou entité inscrite à CANAFE](/guidance-directives/transaction-operation/Guide5/5-fra)
+* appliquer des mesures accrues pour **chaque client** dont le seuil de vérification de l'identité est atteint (seuil de déclaration d'opérations)
+* obtenir l'origine des fonds ou de la monnaie virtuelle et l'objet de l'opération
+* s'il y a lieu, obtenir des renseignements sur les bénéficiaires effectifs ou les personnes qui contrôlent toute entité qui est le demandeur ou le bénéficiaire de l'opération
+
+**Remarque :** Il revient à l'entité déclarante qui a établi la relation avec le client d'appliquer les mesures supplémentaires prévues dans la directive ministérielle (c'est-à-dire vérifier l'identité du client, et prendre des mesures de vigilance accrues à l'égard du client).
+
+Références juridiques
+
+* Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, DORS/2002-184
+  + article 157
+
+## 4. Les documents à tenir et la durée de conservation
+
+### 4.1 Documents de télévirements et de transferts de monnaie virtuelle – peu importe le montant de l'opération
+
+Pour un télévirement ou un transfert de monnaie virtuelle **de n'importe quel montant** en provenance ou à destination de la Russie, vous devez conserver ce qui suit :
+
+* les renseignements indiqués dans les documents du télévirement, et les renseignements indiqués dans les documents d'un transfert en monnaie virtuelle, **même si le montant de l'opération est inférieur à 1 000 $ CAD ou à un montant équivalent en monnaie virtuelle**
+* l'origine des fonds ou de la monnaie virtuelle de l'opération
+* l'objet de l'opération
+
+### 4.2 Relevés de réception de fonds ou de monnaie virtuelle – peu importe le montant de l'opération
+
+Vous devez conserver un document pour **chaque opération (peu importe le montant de l'opération)** dont vous êtes le destinataire et qui indique un lien avec la Russie. Vous devez conserver ce qui suit :
+
+* les renseignements indiqués dans le relevé d'opération importante en espèces ou en monnaie virtuelle, **même si le montant de l'opération est inférieur à 10 000 $ CAD ou à un montant équivalent en monnaie virtuelle**, les renseignements indiqués dans la fiche d'opération de change ou la fiche d'opération de change en monnaie virtuelle, et le relevé de réception de fonds **y compris les renseignements requis lors d'opérations de plus de 3 000 $ CAD**
+* l'origine des fonds ou de la monnaie virtuelle de l'opération
+* l'objet de l'opération
+
+### 4.3 Relevés d'opération pour le rachat d'autres titres négociables et relevés d'opération pour l'émission ou le rachat – peu importe le montant de l'opération
+
+Les opérations effectuées depuis la Russie ou à destination de ce pays comprennent également le rachat d'autres titres négociables (par exemple, traites bancaires, mandats-poste, chèques de voyage) peu importe le montant de l'opération. Ces derniers doivent eux aussi indiquer un lien avec la Russie, tel que l'utilisation de roubles russes, pour que la directive ministérielle s'applique. Vous devez conserver ce qui suit :
+
+* les renseignements indiqués dans le relevé d'opération, **même si le montant de l'opération est inférieur à 3 000 $ CAD ou à un montant équivalent en monnaie virtuelle**
+* l'origine des fonds ou de la monnaie virtuelle de l'opération
+* l'objet de l'opération
+
+### 4.4 Renseignements contenus dans les documents et conservation
+
+Si vous devez, au titre de la directive ministérielle, tenir un document renfermant des renseignements qui se trouvent déjà dans un autre document, vous n'avez pas à conserver les renseignements de nouveau. Ainsi, si vous conservez les renseignements requis et que vous pouvez les produire lors d'un examen de CANAFE, vous n'avez pas besoin de créer un nouveau document.
+
+Vous devez conserver tout document visé par la directive ministérielle conformément aux exigences de tenue de document qui y sont associées, ou pour une période d'au moins cinq ans à compter de la date de création du document.
+
+## Autres
+
+Les politiques et procédures de votre programme de conformité doivent comporter des renseignements sur la façon dont votre organisation prend connaissance des directives ministérielles publiées par le ministre des Finances, ainsi que des détails sur les mesures prises par votre organisation pour y donner suite. Vous devez remplir les exigences prévues par les directives ministérielles dès leur publication.
+
+Vos politiques et procédures doivent décrire en détail la méthode que vous adoptez pour déterminer qu'une opération donnée a été effectuée depuis la Russie ou est à destination de ce pays, ainsi que les mesures d'atténuation précises que vous prendrez après cette détermination. Par exemple, vos politiques et procédures pourraient souligner que vous demandez l'objet d'une opération. Similairement, vous pourriez rechercher l'origine ou la destination d'une opération pour déterminer si les renseignements au sujet du demandeur, du bénéficiaire ou des entités liées à l'opération, indiquent que l'opération a été effectuée depuis la Russie ou est à destination de ce pays.
+
+Des directives sur la façon de mener et de mettre par écrit votre évaluation des risques se trouvent sur la page [Directive sur l'évaluation des risques](/guidance-directives/compliance-conformite/rba/rba-fra). Vous devez instaurer certaines mesures d'atténuation des risques pour les opérations impliquant les pays visés par les directives ministérielles. Le ministère des Finances du Canada donne des exemples de ces mesures dans [Renseignements généraux sur la partie 1.1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](https://www.canada.ca/fr/ministere-finances/organisation/lois-reglements/liste-lois-reglements/loi-recyclage-produits-criminalite-financement-activites-terroristes/document-orientation.html).
+
+Pendant son examen de la conformité, CANAFE peut évaluer votre conformité avec n'importe laquelle des directives ministérielles pour vérifier que vous avez pris les mesures d'atténuation appropriées relativement aux opérations visées. CANAFE peut également examiner votre évaluation du risque globale pour vérifier si vous avez évalué et mis par écrit les risques liés à vos activités et à vos clients impliquant les pays en question. L'omission de se conformer aux mesures prévues à une directive ministérielle est une infraction très grave. Le régime de pénalités administratives pécuniaires s'applique à toutes les directives ministérielles. Ces pénalités, qui peuvent être imposées à quiconque contrevient aux directives, sont énoncées dans le [Règlement sur les pénalités administratives – recyclage des produits de la criminalité et le financement des activités terroristes](https://lois-laws.justice.gc.ca/fra/reglements/DORS-2007-292/TexteComplet.html).
+
+Date de modification :
+:   2025-03-21

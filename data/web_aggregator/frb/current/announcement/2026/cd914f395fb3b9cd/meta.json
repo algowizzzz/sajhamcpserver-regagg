@@ -1,0 +1,26 @@
+{
+  "doc_id": "cd914f395fb3b9cd",
+  "regulator_id": "frb",
+  "doc_type": "announcement",
+  "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+  "language": "en",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+  "reference_number": null,
+  "published_date": "2026-06-25",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4d7223c34a5a90e070767a4246203a7fc73a2eb6d1ed8959361ac3090537e1fe",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_frb_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/frb/current/announcement/2026/cd914f395fb3b9cd",
+  "tags": [
+    "us",
+    "central_bank",
+    "prudential",
+    "banking"
+  ]
+}

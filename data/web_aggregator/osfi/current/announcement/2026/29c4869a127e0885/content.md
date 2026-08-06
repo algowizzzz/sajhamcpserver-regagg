@@ -1,0 +1,31 @@
+# BSIF-596 – Relevé de la modification de la date de clôture de l'exercice
+
+**Type de publication :** Instructions  
+**Date :** Version 2016
+
+## Lois habilitantes
+
+L’information fournie dans ce relevé est exigée en vertu de l’une ou l’autre des dispositions législatives suivantes, ou de plusieurs d’entre elles : articles 628 et 950 de la *Loi sur les banques*, article 495 de la *Loi sur les sociétés de fiducie et de prêt*, articles 664 et 993 de la *Loi sur les sociétés d’assurances*, article 431 de la *Loi sur les associations coopératives de crédit*.
+
+## Applicabilité
+
+Toutes les institutions financières canadiennes, toutes les succursales canadiennes de banques et de sociétés d’assurances étrangères ainsi que les bureaux de représentation étrangers et les régimes de retraite privés sont tenus de produire ce relevé.
+
+## Objet
+
+Ce relevé sert à informer le BSIF des modifications apportées à la date de clôture de l’exercice de votre société. Ce n’est **pas** une déclaration annuelle. Il ne faut la produire que lorsqu’un changement est apporté à votre date de clôture. La soumission de ce relevé dans le Système de déclaration réglementaire (SDR) doit aussi être acceptée par le BSIF.
+
+Toute l’information demandée doit être saisie dans le relevé, même celle qui aurait pu avoir été fournie au BSIF oralement ou par écrit à d’autres occasions comme, par exemple, lors d’un entretien avec votre gestionnaire des relations ou d’une communication portant sur la modification d’un règlement administratif. Tous les renseignements demandés doivent figurer dans le relevé afin que le BSIF puisse les saisir dans ses systèmes de gestion de données.
+
+Il n’est pas permis de soumettre une nouvelle version de ce type de relevé dans le SDR. Si vous constatez une erreur dans votre profil, notamment une date d’entrée en vigueur erronée, vous devez téléphoner à l’Administration des relevés pour la signaler.
+
+Ce rapport n’est pas assujetti au *Cadre de pénalité pour production tardive ou erronée*.
+
+## Échéancier
+
+Ce relevé doit être produit dans le 30 jours suivant la date d’entrée en vigueur de la modification.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2016-01-29

@@ -1,0 +1,1 @@
+Summary: # Former ’60 Minutes’ Correspondents Sharyn Alfonsi, Scott Pelley Will Teach At Columbia

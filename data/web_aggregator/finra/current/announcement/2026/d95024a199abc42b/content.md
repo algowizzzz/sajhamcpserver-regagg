@@ -1,0 +1,51 @@
+# FINRA Homepage
+
+![Rules & Guidance](/sites/default/files/styles/crop_hero_image/public/2019-04/rules-guidance.jpg?h=1d4e0cab&itok=bnVFmfpV)
+
+EXPLORE THIS SECTION
+
+## FINRA Main Navigation
+
+* [FINRA Manual](/rules-guidance/rulebooks)
+  + [Updates](/rules-guidance/rulebooks/updates)
+* [Interpreting the Rules](/rules-guidance/interpreting-rules)
+  + [Notices](/rules-guidance/notices)
+  + [Guidance](/rules-guidance/guidance)
+  + [Frequently Asked Questions](/rules-guidance/guidance/faqs)
+  + [Key Topics](/rules-guidance/key-topics)
+  + [Interpretive Questions](/rules-guidance/interpretive-questions)
+* [The Rulemaking Process](/rules-guidance/rulemaking-process)
+  + [Rule Filings](/rules-guidance/rule-filings)
+  + [Rule Filing Status Report](https://tools.finra.org/rule_filings/)
+  + [Requests for Comments](/rules-guidance/requests-for-comments)
+  + [Regulatory Policy Agenda](/rules-guidance/rulemaking-process/regulatory-policy-agenda)
+  + [Rulebook Consolidation](/rules-guidance/rulebook-consolidation)
+  + [Retrospective Rule Review](/rules-guidance/rulemaking-process/retrospective-rule-review)
+* [Enforcement](/rules-guidance/enforcement)
+  + [Disciplinary Actions Online](/rules-guidance/oversight-enforcement/disciplinary-actions-online)
+  + [Monthly Disciplinary Actions](/rules-guidance/oversight-enforcement/disciplinary-actions)
+  + [Sanction Guidelines](/rules-guidance/oversight-enforcement/sanction-guidelines)
+  + [Individuals Barred by FINRA](/rules-guidance/enforcement/individuals-barred-finra)
+* [Adjudication & Decisions](/rules-guidance/adjudication-decisions)
+  + [National Adjudicatory Council (NAC)](/rules-guidance/adjudication-decisions/national-adjudicatory-council-nac)
+  + [Office of Hearing Officers (OHO)](/rules-guidance/adjudication-decisions/office-hearing-officers-oho/about)
+
+# Rules & Guidance
+
+![Rules & Guidance](/sites/default/files/styles/crop_hero_image/public/2019-04/rules-guidance.jpg?h=1d4e0cab&itok=bnVFmfpV)
+
+# Rules & Guidance
+
+FINRA is here to help keep investors and their investments safe. To ensure this protection, we enact rules and publish guidance for securities firms and brokers. We involve a number of interested parties in rule-making deliberations so that broker-dealers and investors can have confidence they are collaborating on a level playing field. Our relationship to these participants, as well as the SEC, puts us in the unique position to guard the integrity of the market
+
+FINRA Rule Book
+
+As the market changes, so do FINRA’s rules. Explore our latest regulatory updates—as well as longtime policies—in our rulebook.
+
+[Explore the Rulebook](/rules-guidance/rulebooks/finra-rules)
+
+### Try First
+
+The FINRA Rulebook Search Tool™ (FIRST™) is an enhanced search feature that can help users identify potentially relevant FINRA rules and their associated requirements
+
+[Learn more](/rules-guidance/rulebooks/finra-rulebook-search-tool-first)

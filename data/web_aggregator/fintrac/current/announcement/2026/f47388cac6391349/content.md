@@ -1,0 +1,36 @@
+# Pénalité administrative pécuniaire imposée à Immeubles Village Pointe-Claire Inc.
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)
+
+[**2025-05-06**]
+
+Immeubles Village Pointe-Claire Inc., un courtier immobilier à Pointe-Claire, Québec, faisant également affaire sous le nom Royal LePage Village Pointe-Claire et Royal LePage Village, s’est vu imposer une pénalité administrative pécuniaire de 36 360 $ le 17 juillet 2024, pour avoir commis 4 violations. Les violations ont été observées dans le cadre d’un examen de conformité réalisé en mars 2022. La pénalité administrative pécuniaire sera payée en totalité par Immeubles Village Pointe-Claire Inc. et les procédures ont pris fin.
+
+## Nature de la violation
+
+Violation no 1
+:   **Fait de ne pas élaborer et appliquer des principes et des mesures de conformité écrits qui sont mis à jour et, dans le cas d’une entité, approuvés par un de ses dirigeants – Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, alinéa 71(1)b)**
+
+    Immeubles Village Pointe-Claire Inc. n’a pas élaboré de politiques et procédures écrites concernant les directives ministérielles applicables. De plus, Immeubles Village Pointe-Claire Inc. n’a pas mis en application les politiques et procédures écrites concernant les exigences en matière de relations d’affaires, de contrôle continu de ces relations d’affaires, et de détermination quant aux tiers. Un examen des dossiers clients a révélé des lacunes dans la documentation des mesures prises pour effectuer le contrôle continu des relations d’affaires d’Immeubles Village Pointe-Claire Inc., et les informations obtenues dans le cadre de celui-ci.
+
+Violation no 2
+:   **Fait de ne pas élaborer et mettre à jour un programme écrit de formation continue axée sur la conformité – Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, alinéa 71(1)d)**
+
+    Immeubles Village Pointe-Claire Inc. n’a pas élaboré ou mis par écrit un programme de formation.
+
+Violation no 3
+:   **Fait, pour une personne ou entité tenue de vérifier l’identité d’une personne, de ne pas conserver les renseignements réglementaires – Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, article 6 et Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, article 64.2**
+
+    Dans 4 cas, Immeubles Village Pointe-Claire Inc. n’a pas conservé les documents liés à la vérification de l’identité de personnes effectuant des transactions immobilières.
+
+Violation no 4
+:   **Fait, si la vérification est effectuée au moyen d’une copie papier d’un document, de ne pas conserver le document ou une copie de celui-ci – Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, article 6 et Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes, article 65(4)**
+
+    Dans 6 cas, Immeubles Village Pointe-Claire Inc. n’a pas conservé une copie papier du document utilisé pour vérifier l’existence d’une personne morale.
+
+## Lien connexe
+
+* [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Immeubles Village Pointe-Claire Inc.](/new-neuf/nr/2025-05-06-fra)
+
+Date de modification :
+:   2025-05-06

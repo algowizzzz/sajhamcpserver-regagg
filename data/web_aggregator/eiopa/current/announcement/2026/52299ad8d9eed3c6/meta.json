@@ -1,0 +1,27 @@
+{
+  "doc_id": "52299ad8d9eed3c6",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA launches the fourth EU-wide insurance stress test - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-launches-fourth-eu-wide-insurance-stress-test-2018-05-14_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:53203c35825ae1b527e948f3003d8f46137bfa5392e0d5653e764a8c86eb0b83",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/52299ad8d9eed3c6",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-launches-fourth-eu-wide-insurance-stress-test-2018-05-14_en",
+  "fetch_method": "html_to_md"
+}

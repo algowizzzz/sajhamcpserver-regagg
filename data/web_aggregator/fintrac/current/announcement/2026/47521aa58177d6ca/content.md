@@ -1,0 +1,74 @@
+# La vie à CANAFE
+
+En tant qu’employeur distinct au sein du gouvernement du Canada, nous favorisons la flexibilité et valorisons notre talent, l’innovation et la diversité!
+
+Nous offrons les [mêmes avantages](/emplo/pa-fra) que la fonction publique fédérale — en plus d’une rémunération concurrentielle et d’une prime au rendement pour TOUS les postes.
+
+## Notre effectif est petit, mais puissant!
+
+CANAFE compte un peu plus de 500 employés offrant des possibilités d’emploi uniques dans les domaines suivants : conformité à la loi, renseignement financier, élaboration de politiques, relations internationales, et gestion et technologie de l’information — tous avec un objectif en tête : être un chef de file dans la lutte contre le blanchiment d’argent et le financement des activités terroristes.
+
+En tant que petite organisation, il est facile de faire connaissance avec vos nouveaux collègues, tant au sein de votre équipe que dans l’ensemble de l’organisation.
+
+## Flexible par sa conception
+
+En tant qu’employeur de choix, nous sommes fiers de notre culture axée sur l’excellence, soutenue par notre engagement envers un milieu de travail respectueux, sain, diversifié et inclusif.
+
+À CANAFE, nous sommes inclusifs par conception, ce qui signifie :
+
+* Un engagement à cultiver un effectif compétent et diversifié qui permet aux employés de réaliser leur plein potentiel.
+* La promotion du bien-être des employés en offrant une certaine flexibilité grâce à des modalités de travail dans le cadre de notre milieu de travail hybride, lorsque cela est possible sur le plan opérationnel. Ces options, qui sont soumises aux exigences opérationnelles, comprennent le télétravail, les horaires de travail flexibles, les semaines de travail comprimées et les congés avec étalement du revenu.
+* L’apprentissage continu pour encourager l’innovation et la croissance des employés, y compris la formation linguistique en interne.
+
+## Emplacement
+
+Nous sommes fiers d’être un employeur qui optimise et soutient le travail hybride, en offrant à nos employés les outils et les dispositifs dont ils ont besoin pour réussir et collaborer avec des collègues et des partenaires d’affaires dans tout le pays.
+
+**Administration centrale :** Les bureaux de l’administration centrale de CANAFE sont situés dans le centre-ville d’Ottawa. Environ 85 % de nos employés occupent un poste à l’administration centrale.
+
+**Bureaux régionaux :** Nos trois bureaux régionaux sont situés à Montréal, à Toronto et à Vancouver pour faciliter notre travail avec les entités déclarantes de partout au pays.
+
+## Un endroit où les valeurs comptent
+
+La nature délicate de notre mandat exige les normes éthiques les plus élevées. Ces valeurs constituent le fondement de nos activités, qui sont alignées sur le [Code de valeurs et d’éthique du secteur public](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=25049).
+
+À CANAFE, nous avons une culture de travail solide qui repose sur les valeurs partagées suivantes :
+
+![graphic displaying fintrac values](images/values-valeurs.png)
+
+Voir l'équivalent textuel
+
+### Description des valeurs :
+
+Nous respectons — avec une passion pour notre personnel et notre inclusivité et notre diversité
+
+Nous créons — avec un désir d’apprendre et une liberté d’innover
+
+Nous tenons à cœur — en mettant l’accent sur la confiance, les résultats et l’impact que nous avons les uns sur les autres
+
+Nous protégeons — avec un engagement à assurer la protection des renseignements
+
+Nous livrons — avec la volonté de renforcer la Sécurité des Canadiens et de l’économie
+
+## Diversité et inclusion
+
+Le programme de diversité et d’inclusion de CANAFE va au-delà des exigences de la Loi sur l’équité en matière d’emploi. Nous avons un champion de l’équité en matière d’emploi, de la diversité et de l’inclusion passionné qui sensibilise les employés, recommande des possibilités d’apprentissage et encourage la participation à divers événements.
+
+La diversité est l’une des plus grandes forces du Canada, c’est pourquoi nous nous sommes engagés à célébrer la richesse de nos différences. Nous sommes également déterminés à maximiser les contributions uniques de nos employés dans un environnement ouvert et accueillant. Nous nous efforçons de faire en sorte que notre effectif soit le reflet de la société canadienne. La diversité est un fait; l’inclusion est notre priorité.
+
+CANAFE est membre du [Défi 50-30](https://ised-isde.canada.ca/site/isde/fr/defi-50-30-votre-avantage-diversite), dans le cadre duquel les organisations aspirent à atteindre la parité des sexes (50 % de femmes et/ou de personnes non binaires) et une représentation significative (30 % de groupes méritant l’équité — minorités visibles, personnes handicapées, membres de la communauté 2SLGBTQ+ et/ou de minorités sexuelles et de genre, et/ou en tant que membre des peuples autochtones) au sein des conseils d’administration et/ou des postes de haute direction. D’autres programmes liés à la diversité qui sont actuellement mis en œuvre sont présentés dans la [lettre de CANAFE sur la mise en œuvre](https://www.canada.ca/fr/conseil-prive/organisation/greffier/appel-action-faveur-lutte-contre-racisme-equite-inclusion-fonction-publique-federale/lettres-mise-en-oeuvre/2/centre-analyse-operations-declarations-financieres-canada.html) de l’appel à l’action du greffier du Conseil privé. Le Centre s’efforce d’accroître la représentation et l’inclusion de divers groupes dans le milieu de travail, tout en soulignant qu’il gagne à assurer une meilleure représentation de tous les Canadiens.
+
+À CANAFE, nous croyons que le succès est possible lorsque nous tenons compte de la vaste gamme d’expériences et de perspectives que chaque personne apporte. Notre [Stratégie d’équité en matière d’emploi, de diversité et d’inclusion](/emplo/eedi-fra), qui s’étend d’avril 2023 à mars 2026, comprend divers engagements afin d’aller de l’avant ensemble. La diversité et l’inclusion sont au cœur des préoccupations de nos cadres supérieurs, qui ont tous choisi de signer [l’Engagement pour la diversité et l’inclusion](/emplo/divers-fra). Nous nous efforçons de recruter continuellement un effectif composé d’une variété d’antécédents, y compris la race, les cultures, les ethnies, les sexes, l’orientation sexuelle, l’âge et les capacités.
+
+**Bilinguisme :** Nous nous faisons une priorité de maintenir un environnement de travail où l’utilisation des deux langues officielles est encouragée et célébrée, sous la direction de notre championne des langues officielles, dévouée et passionnée. Les postes comportent diverses exigences linguistiques, qui sont décrites dans les descriptions de poste. Nous sommes heureux d’offrir des programmes qui permettent aux employés intéressés de développer leurs compétences en langue seconde, comme des cours de langue à temps partiel ou à temps plein, un programme informel de jumelage linguistique et la création de notre propre école de langue interne. Notre forte capacité bilingue nous aide à interagir plus efficacement avec un large éventail de partenaires, tant au niveau national qu’international.
+
+## Prix 2023 Innovative HR Teams du Canadian HR Reporter
+
+Notre secteur Personnes, culture et milieu de travail (PCMT) est le lauréat de cette année du [prix 2023 Innovative HR Teams du Canadian HR Reporter](https://www.hrreporter.com/best-in-hr/best-hr-teams-in-canada-innovative-hr-teams-2023/375544#winnersListSection) (en anglais seulement).
+
+L’on salue ainsi sa contribution à faire tomber les barrières pour faire progresser la profession des ressources humaines (RH) en adoptant une approche progressiste en matière de recrutement! Bien qu’il y ait de nombreux projets RH de CANAFE dont nous pouvons être fiers, c’est l’excellence du travail de PCMT avec [le Bureau de l’accessibilité au sein de la fonction publique](https://www.canada.ca/fr/secretariat-conseil-tresor/organisation/organisation.html#org1) du Secrétariat du Conseil du Trésor du Canada et avec l’organisation sans but lucratif Specialisterne qui est particulièrement soulignée. En tant que partenaires pour cette initiative en matière de neurodiversité, nous avons accompli un travail qui a facilité et augmenté le recrutement et la rétention à des postes professionnels de personnes qui s’inscrivent dans le spectre de l’autisme ou qui sont similairement neurodivergentes.
+
+Félicitations!
+
+Date de modification :
+:   2023-05-16

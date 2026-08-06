@@ -1,0 +1,25 @@
+{
+  "doc_id": "4956d248bd96127a",
+  "regulator_id": "bbc_business",
+  "doc_type": "news_story",
+  "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+  "language": "en",
+  "source_url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5c6441d980e9659e0d938323fdbae485a08b81b264ff89451f890def128a25ba",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_bbc_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bbc_business/current/news_story/2026/4956d248bd96127a",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+  "fetch_method": "feed_summary"
+}

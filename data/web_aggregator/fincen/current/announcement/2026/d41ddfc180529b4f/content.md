@@ -1,0 +1,37 @@
+# Insider Fraud Contributes to Bank Failure
+
+[034.pdf](/system/files/case_example/034.pdf "034.pdf")
+(19.9 KB)
+
+The filing of a number of Suspicious Activity Reports resulted in an investigation by the Federal Bureau of Investigation of three individuals for their part in the failure of a community bank that had been in business since the early 1900s. The individuals, one of whom was an officer at the bank, allegedly engaged in a check-kiting conspiracy that caused the bank to lose several million dollars in the months preceding its failure. A multi-count indictment was returned against all three subjects. The charges include aiding and abetting misapplication of bank funds, conspiracy to misapply bank funds and to make false entries in the bank’s financial records, wire fraud and making false entries in bank records.
+
+(Source: Federal Bureau of Investigation)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 8, April 2005]
+
+Tags
+
+Involving SARs
+
+Depository Institutions
+
+Check Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

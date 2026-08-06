@@ -1,0 +1,24 @@
+{
+  "doc_id": "473e9e24be54484a",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Securities Dealers",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/re-ed/sec-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a6dee1b15a728741706dc8a44a5807c1b6ee3f3ac2fdc1773d1b7859ce2f668d",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/473e9e24be54484a",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

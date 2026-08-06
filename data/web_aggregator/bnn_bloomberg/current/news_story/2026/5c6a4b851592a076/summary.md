@@ -1,0 +1,1 @@
+Summary: # Pfizer beats earnings estimates, targets US$2.5 billion in additional cost cuts

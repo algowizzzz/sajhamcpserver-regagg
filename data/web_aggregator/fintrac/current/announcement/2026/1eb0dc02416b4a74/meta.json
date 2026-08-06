@@ -1,0 +1,24 @@
+{
+  "doc_id": "1eb0dc02416b4a74",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Financial Transactions and Reports Analysis Centre of Canada 2024-2025 Departmental plan",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/publications/dp/2024-2025/dp-pm-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f4dfc70502d5aaebe3950fb3d7574471c148b96cee46ad9da444696c85288ee2",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/1eb0dc02416b4a74",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

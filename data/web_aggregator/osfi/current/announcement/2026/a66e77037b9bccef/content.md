@@ -1,0 +1,522 @@
+# Report on New and Existing Lending (A4)
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Report on New and Existing Lending (A4)
+
+Last updated
+
+October 2022
+
+Return number
+
+A4
+
+* **Change:**
+  + References to the Monthly Average Return of Assets and Liabilities (L4) updated to the Balance Sheet by Booking Location (Z4)
+
+## Return file
+
+[A4 - Sample return (XLSX, 53.22 KB)](/sites/default/files/import-media/data_and_forms/sample-return/2023-07/en/A4_2019.xlsx "A4_2019.xlsx") [A4 - Validation rules (XLS, 543 KB)](/sites/default/files/documents/a4-validation-en.xls "a4-validation-en.xls") [Change control log](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/report-new-existing-lending-a4-change-control-log "Report on New and Existing Lending (A4) - Change Control Log")
+
+## Purpose
+
+The purpose of this return is to provide information on the interest rates charged and funds advanced vis-à-vis new loans, booked in Canada, in Canadian dollars only, to Canadian households and business sectors by institutions. The pricing/ matching information will allow for analysis of the cost of borrowing as a result of an adjustment in monetary policy, improve individuals' and business credit information, and facilitate the calculation of the debt service ratio. The return also provides information on the interest rates charged and balances outstanding on existing loans, as well as detailed information on variable rate lending, allowing for analysis of the size and growth of specific areas of financial institution's lending portfolios to monitor potential financial stability issues.
+
+### Statutory
+
+Sections 628 and 600 of the Bank Act and Section 24 of the Bank of Canada Act.
+
+### Application
+
+This return applies to all banks and foreign bank branches, trust, and loan companies.
+
+### Publication
+
+Statistical aggregates derived from the information on a total-for-all-institutions basis may be published on the Bank of Canada's web site in various publications (e.g., the Banking and Financial Statistics tables, the Financial System Review) and/or in Statistics Canada's key socioeconomic database (CANSIM).
+
+### Frequency
+
+Monthly, on a weighted average basis for interest rates, and on a cumulative total basis for funds advanced. Existing lending should be reported as outstanding loan balances at the end of the month, with the exception of credit card lending which should be reported based on the closest billing cycle period.
+
+### Contact person
+
+Provide name and phone number of person to contact regarding any questions about this return.
+
+### Reporting dates
+
+The return is to be completed monthly and submitted within 30 days of the last day of each month to the Head Office of the Bank of Canada.
+
+### Contact agency
+
+Bank of Canada.
+
+## General instructions
+
+The definition of each loan category in the "New Lending" section corresponds to the definitions/ instructions on the Balance Sheet by Booking Location - Z4 and should be reported gross of allowance for expected credit losses.The definition of each loan category in the 'Existing Lending' section is the same as the 'New Lending' section, with the addition of credit card loans. These values should be reported gross of allowance for expected credit losses, with those to be reported separately.
+
+Only new and existing lending booked in Canada, in Canadian dollars, to Canadian individuals and business sectors by institutions is to be reported in the A4. New and existing lending to non-residents and foreign currency lending should not be reported in this return.
+
+The term, new lending, refers to all new funds advanced during the reporting month, while the term, existing lending, refers to outstanding loan balances at the end of the reporting month.
+
+New funds advanced refer to funds extended, new draws on existing credit facilities, mortgage renewals and refinancing, and as well as renewal and refinancing of term loans.
+
+Mortgage renewals are defined as contractual agreements subsequent to the initial mortgage that maintain or shorten the amortization period and do not increase the principal amount (irrespective whether done at term expiration or prior to it, i.e. as full prepayment).
+
+Mortgage refinancing is defined as a contractual agreement subsequent to the initial mortgage that does not qualify as a renewal using the above definition.
+
+A straight mortgage port with no change in principal is to be considered a collateral substitution and is not to be reported as an increase in mortgage lending. However, the porting of a mortgage that is accompanied with an increased principal amount is to be considered a form of refinancing and the entire amount is to be reported as such.
+
+In cases where there are both primary and secondary borrower with different residency status, report according to the residency status of the primary borrower, which is determined by their mailing address unless the bank has other information regarding residency.
+
+Information from accounts that were opened and subsequently became delinquent and closed during the month should be included in the data.
+
+Credit card lending is not to be reported in the new lending section of the return. Some institutions may have nothing to report, however, it is still necessary to submit a nil return in that case.
+
+Information across time bands are allocated based on the loan term as of origination for both the new and existing lending sections. Based on a term as of origination classification; as loans mature, amounts are not recategorized across time bands. Mortgage renewals and refinancings trigger a reclassification across time bands.
+
+Multi unit residential properties should be reported consistently with the M4 and Z4.
+
+Existing mortgage and loans portfolios purchased for investments from other entities should be excluded from the 'New Lending' section, but should be included in the 'Existing Lending' section.
+
+Margin accounts lending and short-term call loans to brokers/dealers should be excluded.
+
+Transactional based computation of the data for overdraft accounts is a challenge for many banks, especially in situations of unanticipated or courtesy overdrafts on individuals and business accounts. Of greater importance for this return is the information on contractual overdrafts as agreed between the bank and customers. For reporting purposes, please include information on contracted overdrafts on individuals and business accounts. To facilitate the compilation of the data, overdrafts may be included on a net end of day balance with the corresponding end of day interest rate. Unanticipated or courtesy overdrafts may be excluded from the data.
+
+Repurchase agreement should be excluded.
+
+Customers' liability under acceptances should be excluded.
+
+The return has undergone a clarification whereby mortgage loans are to be reported on a counterparty basis while non-mortgage loans are to continue to be reported by purpose.
+
+* Non-Mortgage consumer loans are reported by loan purpose in Section I (1)(a)(i to iv), Section II(1)(a)(i to iv), Section III(1)(a)(i to v) and Section IV(1)(a)(i to v).
+* Non-Mortgage business loans are reported by loan purpose in Section I (1)(b)(i to iii), Section II(1)(b)(i to iii), Section III(1)(b)(i to iii) and Section IV(1)(b)(i to iii).
+* Mortgage loans are reported by counterparty under both the 'individuals' and business sector' categories depending on whether the borrower is an individual or a business.
+
+## New lending
+
+### Section I –Interest rates - Canadian Dollars assets
+
+#### Example calculation of weighted average interest rates
+
+A simple example calculation for the rate for Total selected business loans,
+
+All is:
+
+* Business loan to Acme Toys on Aug 5/08 $500,000 @ 4.75
+* Non-residential mortgage to XYZ Shoes on Aug 28/08 $51,000 @ 5.85
+* Amount to be reported in Section I 1. (b) (v) for August 2008
+* ((500,000 x 4.75) + (51,000 x 5.85)) / 551,000 = 4.85
+
+In each time band report the weighted average interest rate charged on the total amount of each type of new lending granted in each month.
+
+For loans where the rate changes over time, report the rate that was being paid at the end of the month.
+
+Include interest rates charged on new draws on existing credit facilities, mortgage renewals and refinancing, and as well as renewal and refinancing of term loans.
+
+Hybrid loans with variable interest rate components should be reported as variable rate loans.
+
+The All category captures the weighted average interest rate of total new lending granted during the month by appropriate asset class.
+
+In the Total line, report the weighted average interest rate charged by time band.
+
+Interest rates should be reported to two decimal places.
+
+#### 1. (a) Interest rates charged on new funds advanced for non-mortgage loans to individuals for non-business purposes in the reporting month
+
+##### General instructions
+
+Loans to individuals for non-business purposes are those used to finance the acquisition of consumer goods and services, including the acquisition of securities.
+
+The definition of individual is provided in appendix 2.
+
+1. Personal loan plans
+   * **Include:**
+     + loans granted under an institution's personal loan plan (that is loans which are generally available, are made subject to standard terms and conditions and are usually repaid on an installment basis), whether at a fixed or variable rate of interest;
+     + conditional sales contracts to finance the acquisition of consumer goods and services.
+   * **(A) of which: are auto loans** 
+
+     In the case of indirect auto loans the interest rate to be reported is the institution's buy rate and not the dealer markup rate.
+
+     + **Include:** 
+       - both direct and indirect loans to individuals for the purchase of private passenger vehicles (e.g. cars, trucks, motorcycles, RVs).
+     + **Exclude:**
+       - loans for boats and mobile homes
+2. Personal lines of credit, secured
+   * **Include:**
+     + new draw down amounts for loans to individuals for non-business purposes which are advanced under pre-arranged secured lines of credit.
+   * **Exclude:**
+     + personal lines of credit unsecured
+3. Personal lines of credit, unsecured
+   * **Include:**
+     + new draw down amounts for loans to individuals for non-business purposes that are advanced under pre-arranged unsecured lines of credit.
+4. Other personal
+   * **Include:**
+     + loans on the security of bonds or stocks;
+     + new contractual overdraft amounts on individuals' deposit accounts under Demand and Notice Deposits and Fixed Term Deposits. Overdraft amounts can be reported as a net end of day balance with the corresponding end of day interest rate.
+     + new contractual overdraft amounts in tax accounts related to residential mortgages. Overdraft amounts can be reported as a net end of day balance with the corresponding end of day interest rate.
+     + bridge financing loans associated with residential properties;
+     + government-guaranteed loans made to individuals for non-business purposes, such as Home Improvement Loans under the National Housing Act and Canada Student Loans;
+     + all other loans to individuals for non-business purposes not included above.
+
+##### Interest rates charged on new funds advanced to individuals for mortgage loans in the reporting month
+
+The definition of individual is provided in appendix 2.
+
+5. Residential Mortgages, Insured
+
+   Refer to Appendix 1 below for definition of Residential Mortgage.
+
+   * **Include:**
+     + advances insured under NHA or by other private or public insurance companies/agencies.
+   * **Exclude:**
+     + mortgages that cease to be insured.
+6. Residential Mortgages, Uninsured
+
+   Refer to Appendix 1 below for definition of Residential Mortgage.
+
+   * **Include:**
+     + advances
+7. Non-Residential Mortgages
+
+   Refer to Appendix 1 below for definition of Non-Residential Mortgage.
+
+   Include both insured and uninsured non-residential mortgages.
+8. Total Personal Loans and Mortgage Loans
+
+#### (b) Interest rates charged on new funds advanced to the corporate sector for non-mortgage loans in the reporting month
+
+1. To regulated non-bank financial institutions
+   * **Include:**
+     + commercial loans to non-banks in Canada
+2. Lease Receivables
+   * **Exclude:**
+     + Conditional sales contracts
+3. Loans to Individuals and Others for Business Purposes
+   * **Include:**
+     + loans to government and municipal boards and commissions that are separately constituted and carry on business enterprises;
+     + loans to religious, charitable and welfare organizations, hospitals and private schools;
+     + loans, excluding loans to individuals for non-business purposes, guaranteed in whole or in part by Canada, a province or a municipality;
+     + securities acquired in the liquidation of a loan and held pending disposal or transfer to the Investment Account of the institution;
+     + except where offset is provided for in the Z4 Return instructions, other contractual overdrafts in deposit accounts under Z4 Return Liability 1 or 2 and not reported elsewhere. Overdraft amounts can be reported as a net end of day balance with the corresponding end of day interest rate.
+     + amount of partial participation in a loan made by another institution;
+     + accounts receivable factored;
+     + business loans secured by residential or non-residential property;
+     + conditional sales contracts for business purposes;
+     + bridge financing associated with non-residential properties;
+     + other loans not classified elsewhere.
+
+##### Interest Rates Charged on new funds advanced to corporations for mortgage loans in the reporting month
+
+The definition of corporation is provided in appendix 2.
+
+4. Residential Mortgages
+
+   Refer to Appendix 1 below for definition of Residential Mortgage.
+
+   Include both insured and uninsured residential mortgages.
+5. Non-residential Mortgages
+
+   Refer to Appendix 1 below for definition of Non-Residential Mortgage.
+
+   * **Include:**
+     + advances for commercial, farm and industrial mortgages;
+     + include both insured and uninsured non-residential mortgages.
+6. Total Selected Business Loans
+
+### Section II – Funds advanced – Canadian Dollars assets
+
+In each time band report the total amount of new lending granted in each month.
+
+Include new draws on existing credit facilities, mortgage renewals and refinancing, and as well as renewal and refinancing of term loans.
+
+The All category is the total amount of total new lending granted during the month.
+
+All amounts are to be expressed in thousands of Canadian dollars.
+
+#### 1. (a) New funds advanced for non-mortgage loans to individuals for non-business purposes in the reporting month
+
+##### General instructions
+
+Loans to individuals for non-business purposes are those used to finance the acquisition of consumer goods and services, including the acquisition of securities.
+
+The definition of individual is provided in appendix 2.
+
+1. Personal loan plans
+   * **Include:**
+     + loans granted under an institution's personal loan plan (that is loans which are generally available, are made subject to standard terms and conditions and are usually repaid on an installment basis), whether at a fixed or variable rate of interest;
+     + conditional sales contracts to finance the acquisition of consumer goods and services.
+   * **(A) of which: are auto loans** 
+     + **Include:**
+       - both direct and indirect loans to individuals for the purchase of private passenger vehicles (e.g. cars, trucks, motorcycles, RVs).
+     + **Exclude:** 
+       - loans for boats and mobile homes
+2. Personal lines of credit, secured
+   * **Include:**
+     + new draw down amounts for loans to individuals for non-business purposes which are advanced under pre-arranged secured lines of credit.
+   * **Exclude:**
+     + personal lines of credit unsecured
+3. Personal lines of credit, unsecured
+   * **Include:**
+     + new draw down amounts for loans to individuals for non-business purposes that are advanced under pre-arranged unsecured lines of credit.
+4. Other personal
+   * **Include:**
+     + loans on the security of bonds or stocks;
+     + new contractual overdraft amounts on individuals' deposit accounts under Demand and Notice Deposits and Fixed Term Deposits. Overdraft amounts can be reported as a net end of day balance.
+     + new contractual overdraft amounts in tax accounts related to residential mortgages. Overdraft amounts can be reported as a net end of day balance.
+     + bridge financing loans associated with residential properties;
+     + government-guaranteed loans made to individuals for non-business purposes, such as Home Improvement Loans under the National Housing Act and Canada Student Loans;
+     + all other loans to individuals for non-business purposes not included above.
+
+##### New funds advanced to individuals for mortgages loans in the reporting month
+
+The definition of individual is provided in appendix 2.
+
+5. Residential Mortgages, Insured
+
+   Refer to Appendix 1 below for definition of Residential Mortgage.
+
+   * **Include:**
+     + advances insured under NHA or by other private or public insurance companies/agencies.
+   * **Exclude:**
+     + mortgages that cease to be insured.
+6. Residential Mortgages, Uninsured
+
+   Refer to Appendix 1 below for definition of Residential Mortgage.
+
+   * **Include:**
+     + advances
+
+   Note for the above, Residential Mortgages Insured and Uninsured under Section II 1. (a)(v) and Section II 1. (a)(vi):
+
+   The total mortgage amounts recorded in these fields should include the following characteristics:
+
+   * New Funds advanced to Individuals for Non- Business purpose
+   * To residents for properties located outside of Canada booked in Canada and in Canadian Currency
+   * Canadian Currency
+
+   The total amounts should exclude the following characteristics:
+
+   * To residents for properties located in Canada and booked outside of Canada in foreign currency
+   * To resident individual borrowing for business purposes booked in Canada in Canadian Currency
+   * To resident others for business purposes booked in Canada in Canadian Currency
+
+   The total amounts for Residential Mortgages, Insured and Residential Mortgages, Uninsured require the above characteristics to balance with the E2 cross return validation rule (A4E201). The A4 return is designed to report on new and existing lending for mortgages booked in Canada and in Canadian currency. In addition, Section II of the A4 return refers to new funds to individuals for Residential Mortgages, Insured and Residential Mortgages, Uninsured.
+7. Non-residential mortgages
+
+   Refer to Appendix 1 below for definition of Non-Residential Mortgage.
+
+   Include both insured and uninsured non-residential mortgages.
+8. Total Personal loans and mortgage loans
+
+#### (b) New funds advanced to the corporate sector for non-mortgage loans in the reporting month
+
+1. To regulated non-bank financial institutions
+   * **Include:**
+     + commercial loans to non-banks in Canada
+2. Lease Receivables
+   * **Exclude:**
+     + Conditional sales contracts
+3. Loans to Individuals and Others for Business Purposes
+   * **Include:**
+     + loans to government and municipal boards and commissions that are separately constituted and carry on business enterprises;
+     + loans to religious, charitable and welfare organizations, hospitals and private schools;
+     + loans, excluding loans to individuals for non-business purposes, guaranteed in whole or in part by Canada, a province or a municipality;
+     + securities acquired in the liquidation of a loan and held pending disposal or transfer to the Investment Account of the institution;
+     + except where offset is provided for in the Z4 Return instructions, other contractual overdrafts in deposit accounts under Z4 Return Liability 1 or 2 and not reported elsewhere. Overdraft amounts can be reported as a net end of day balance.
+     + amount of partial participation in a loan made by another institution where recourse for reimbursement is against the lending institution only and limited to a share of the proceeds from the realization of the loan in proportion to the participation;
+     + accounts receivable factored;
+     + business loans secured by residential or non-residential property;
+     + conditional sales contracts for business purposes;
+     + bridge financing associated with non-residential properties;
+     + other loans not classified elsewhere.
+
+##### New Funds advanced to Corporations for Mortgage loans in the reporting month
+
+The definition of corporation is provided in appendix 2.
+
+4. Residential Mortgages
+
+   Refer to Appendix 1 below for definition of Residential Mortgage.
+
+   Include both insured and uninsured residential mortgages.
+5. Non-residential Mortgages
+
+   Refer to Appendix 1 below for definition of Non-Residential Mortgage.
+
+   Include both insured and uninsured non-residential mortgages.
+
+   * **Include:**
+     + advances as for commercial, farm and industrial mortgages
+6. Total Selected Business Loans
+
+## Existing lending
+
+### Section III – Interest rates - Canadian Dollars assets
+
+In each time band report the weighted average interest rate charged on the total amount of each type of outstanding loans by term as of origination using the same definitions as Section I.
+
+Include interest rates charged on total outstanding balances from existing credit facilities or lines of credit.
+
+Interest rates should be reported to two decimal places.
+
+In the 'Total' line, report the weighted average interest rate charged by time band.
+
+For credit card loans, only the 'All' category should be used to report the weighted average interest rate charged for credit card balances outstanding at the end of the billing cycle period (the periodic rate in effect at cycle, excluding fees). These should not include any balances not incurring any interest charges. Credit card loans in this section refers **ONLY** to retail credit cards loans.
+
+### Section IV – Outstanding loans - Canadian Dollars assets (gross of allowances)
+
+In each time band report the total amount of gross outstanding loans by term as of origination. Allowance for expected credit losses are included separately.
+
+Include allowance for expected credit losses separately in specified column.
+
+Include total gross outstanding balances from existing credit facilities, credit cards or lines of credit.
+
+The Accounting Adjustment for Balance Sheet Purposes' reports the amount which allows each loan category to maintain consistency with external financial reporting.
+
+The 'Amount Reported on Balance Sheet' is to maintain consistency with external financial reporting. This amount is equal to the reported value in the Report on New Lending - A4 minus any adjustment for balance sheet purposes.
+
+All amounts are to be expressed in thousands of Canadian dollars.
+
+For credit card loans, only the 'All' category should be used to report credit card balances outstanding at the end of the billing cycle period.
+
+#### Memo items - Section A - Additional information on new lending of variable rate residential mortgages (Gross of Allowances)
+
+This memo section provides additional information on the variable rate mortgages reported above. The amounts reported in this section should include only those amounts consistent with the variable rate residential mortgage values reported in sections I and II (i.e. the total variable rate mortgage values reported in this section should correspond to the variable rate residential mortgages reported in Sections I and II).
+
+* Closed non-convertible variable rate mortgages: variable rate mortgages with a specified term length and no option to change to a fixed rate mortgage without a penalty.
+* Closed convertible variable rate mortgage: variable rate mortgages with a specified term length and the option to change to a fixed rate mortgage without a penalty.
+* Open variable rate mortgages: variable rate mortgages with pre-payment flexibility and the ability to convert to a different term at any time without penalty.
+
+#### Memo items - Section B - Additional information on variable rate residential mortgages with fixed regular payments (Gross of Allowances)
+
+This memo section provides additional information on variable rate mortgages with fixed regular mortgage payments. In these mortgages the principal and interest portions of a payment are determined by a variable interest rate; however, the payment amount is fixed and interest rate fluctuations only impact the amortization period within the term (as the payments would be reset at renewal to satisfy the contractual amortization period), by changing the proportions of the payment attributed to interest and principal repayment. It is understood that under this type of contract the amount of the total payment can be reset to a higher level, if due to an increase in interest rates it no longer covers the amount of interest due.
+
+## Appendix 1 – Classification of properties as residential and non-residential
+
+The reference table below classifies common property types residential or non-residential. The general principle is that residential properties are non-institutional facilities for the long term lodging of individuals.
+
+### Non-residential properties
+
+#### Office Buildings
+
+* Office
+* Office/Residential Condo[Footnote 4](#fnb4)
+* Office Building/Hotel
+* Office/Shopping
+
+#### Shopping Centres
+
+* Strip Retail
+* Single Retail
+* Shopping Centre
+
+#### Land Banking and Development
+
+* Land
+
+#### Industrial Buildings
+
+* Commercial Condos
+* Commercial/Industrial/Retail
+* Industrial Condo
+* Warehouse
+* Industrial
+* Medical Buildings
+
+#### Hotels/Motels
+
+* Hotel/Motel
+* Apartment Hotel
+
+#### Other
+
+* Automobile
+* Franchise
+* Resort/Recreational (commercial resorts)
+* Time Share Units
+* Mixed Assets
+* Hospitals
+* Nursing Homes
+* Retirement Homes  [Footnote 1](#fnb1)
+* Day Care Centres
+* Churches
+* Farms
+* Other
+
+### Residential properties
+
+#### 1-4 unit residential properties
+
+* Detached homes
+* Semi-detached homes
+* Town house units
+* Condominium units
+* Other small residential structures with 1-4 units
+* Cottages and similar recreational property
+* 1-4 unit residential properties with commercial components
+* Construction sites for 1-4 unit residential properties[Footnote 2](#fnb2)
+
+#### More than 4 unit residential properties (multi-unit residential)[Footnote 3](#fnb3)
+
+* Small or large apartment buildings with more than 4 units
+* Apartment building complexes with commercial components
+* All other residential properties with more than 4 units
+* Construction sites for residential properties with more than 4 units[Footnote 2](#fnb2)
+
+## Appendix 2 – Classification of counterparties (individuals and corporations)
+
+The reference table below classifies various counterparty entities as individuals or corporations, where corporate is defined to include 'not for profit' organizations and quasi-corporations. The general principle is that counterparties are classified using a credit counterparty perspective. In the case of a default of the ultimate guarantor is an individual the loan should be classified as have an individual as the counterparty; however; if the ultimate guarantor is a non-individual (e.g. corporation, trust, co-operative) the loan should be classified as having a "corporation as the counterparty.
+
+Counterparty classification
+
+| Individuals | Corporations (including quasi-corporations and trusts) |
+| --- | --- |
+| Individual persons | Corporations (legal definition) |
+| Individuals personally engaged in a business or property rental | Co-operatives |
+| Sole proprietorships | Not for profit institutions |
+| Partnerships[Footnote 5](#fnb5) | Partnerships[Footnote 5](#fnb5) |
+| blank | Trusts |
+| blank | Self-employed individuals incorporated for tax or liability reasons |
+
+## Footnotes
+
+Footnote 1
+:   The intention with the term ‘retirement home’ is to refer to institutional establishments. Mortgages on institutional retirement homes are to be classified as non-residential, whereas mortgages on individual condo units within buildings marketed to the elderly are to be classified as residential. The agencies acknowledge that this distinction may not always be simple to identify. As a result the agencies will accept retirement home being classified as either residential or non-residential for the time being; however, filing institutions are encouraged to move towards the intended classification.
+
+    [Return to footnote 1](#fnb1-ref)
+
+Footnote 2
+:   Construction financing can include a wide range of products that have historically been classified inconsistently and recorded under three categories (business loans, residential mortgages, and non-residential mortgages). The agencies do not require this reporting practice to be changed. As a result it will be considered acceptable to record construction financing under any of the three categories; provided that the categorization is re-examined once the construction activity is complete.
+
+    [Return to footnote 2](#fnb2a-ref)
+
+Footnote 3
+:   The preferred reporting practice for mortgages on multi-unit residential properties is to include them under residential. However, it is acknowledged that some institution's legacy systems have included these mortgages under the non-residential category. Both approaches will be accepted for the time being; however, filing institutions are encouraged to move towards the intended classification.
+
+    [Return to footnote 3](#fnb3-ref)
+
+Footnote 4
+:   Mortgages on mixed office residential condo buildings are to be classified as non-residential. This is because individual condo units have separate ownership from the office portion of the building and therefore a mortgage on the office portion of the building should be classifies as non-residential.
+
+    [Return to footnote 4](#fnb4-ref)
+
+Footnote 5
+:   Using the credit counterparty principle, partnerships where the ultimate guarantor is an individual should be classified under the individual category; however, partnerships with a corporation as the ultimate guarantor should be classified as corporations.
+
+    [Return to footnote 5](#fnb5a-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-09-18

@@ -1,0 +1,1 @@
+Summary: # Daikin posts higher profit on AC sales driven by European heat waves

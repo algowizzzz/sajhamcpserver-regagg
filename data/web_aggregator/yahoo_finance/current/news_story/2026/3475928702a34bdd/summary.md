@@ -1,0 +1,1 @@
+Summary: # ICON plc (ICLR) Surged 57% in Q2 After Accounting Clarity

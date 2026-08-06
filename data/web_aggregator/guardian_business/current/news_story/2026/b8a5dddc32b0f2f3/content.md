@@ -1,0 +1,7 @@
+# ‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley
+
+As Elon Musk, Peter Thiel and their peers have grown richer and more influential, Gil Durán argues they have all but abandoned democracy – and found the perfect government to enable them In April, Gil Durán was permanently banned from Elon Musk’s X for posting just two words. Durán was responding to a post from the tech company Palantir outlining its 22‑point “technological manifesto” , which praised American “hard power”, western culture and AI weapons, denounced inclusivity and called for compulsory national service. Durán responded: “TLDR: Fascism” (TLDR is short for “too long, didn’t read”). Durán didn’t break any of X’s written rules, he points out over a video call from San Francisco – so much for Musk’s “free-speech absolutism” . His ban might just have had something to do with his preceding tweet, showing the cover of his new book, The Nerd Reich: Silicon Valley Fascism and the War on Democracy. The book’s central argument is that big tech is no longer our friend, as many of its billionaire owners have seized economic and political control and are steering the fate of the planet towards their own bizarre, apocalyptic visions. Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

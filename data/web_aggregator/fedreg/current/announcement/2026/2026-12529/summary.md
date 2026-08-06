@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Eliminate Obsolete References to the Discontinued QIX Proprietary Protocol From The Exchange's Rulebook

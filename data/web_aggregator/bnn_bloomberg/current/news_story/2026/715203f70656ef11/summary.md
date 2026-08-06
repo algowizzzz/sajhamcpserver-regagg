@@ -1,0 +1,1 @@
+Summary: # Vancouver-area home sales drop nearly 10% in July as summer demand slows: board

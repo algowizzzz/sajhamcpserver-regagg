@@ -1,0 +1,295 @@
+# Regional Distribution Assets and Liabilities (R2)
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Regional Distribution Assets and Liabilities (R2)
+
+Last updated
+
+July 2017
+
+Return number
+
+R2
+
+## Return file
+
+[R2 - Sample return (XLSX,66.42 KB)](/sites/default/files/import-media/data_and_forms/sample-return/2023-08/en/R2_2018.xlsx "R2_2018.xlsx") [R2 - Validation rules (XLSX, 75.35 KB)](/sites/default/files/documents/r2-validation-en.xlsx "r2-validation-en.xlsx") [Change control log](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/change-control-log-r2 "Change Control Log (R2)")
+
+## Regional distribution of selected assets and liabilities
+
+### Purpose
+
+This return provides a detailed breakdown of the consolidated balance sheet of deposit-taking institutions on a provincial basis.
+
+### Statutory
+
+Sections 628 and 600 of the Bank Act, Section 495 of the Trust and Loan Companies Act and Section 24 of the Bank of Canada Act.
+
+### Application
+
+This return applies to all deposit-taking institutions.
+
+### Publication
+
+Information from this return is published in the Bank of Canada Banking and Financial Statistics on a total for all institutions basis.
+
+### Frequency
+
+Quarterly - calendar.
+
+### Contact person
+
+Provide the name and phone number of the person to contact regarding any questions about this return.
+
+### Reporting dates
+
+This return is to be completed within 60 days of the calendar quarter-end.
+
+### Contact agency
+
+Bank of Canada.
+
+## General instructions
+
+Selected assets and liabilities reported in the consolidated balance sheet are to be distributed by region at the end of each calendar quarter. The analysis is to include: the ten provinces, the Northwest Territories, the Nunavut Territory, the Yukon Territory, In Canada Unallocated and International.
+
+The classes of assets and liabilities are to be reported as total Canadian-dollar equivalent amount. The total of the Canadian-dollar equivalent amount must equal the applicable asset or liability category on the balance sheet.
+
+The total of the Canadian-dollar equivalent amount will equal the total amount of the asset or liability class.
+
+For securitized assets returning to the balance sheet upon conversion to IFRS, financial institutions are asked to adhere to the reporting requirements for the return. Most importantly mortgage loans are to be allocated by location of mortgaged property, and for other loan types, according to the location of the branch making the loan or address of the customer, and not according to the location of the trusts holding the loan.
+
+**General Allocation Rules:**
+
+1. Any reported assets and liabilities that are booked outside Canada are to be allocated to the international column unless stated otherwise;
+2. Any reported assets and liabilities of non-residents booked in Canada are to be allocated to the international column unless stated otherwise;
+3. Any reported assets and liabilities of residents booked in Canada are to be allocated to the appropriate region on the basis indicated unless stated otherwise;
+4. The reported assets and liabilities of securities subsidiaries that were established business concerns acquired by banks subsequent to the Bank Act changes in 1987 (Acquired Securities Subsidiary) are to be allocated to the In Canada Unallocated column;
+5. The resident portion of an institution's Canadian treasury operation is to be allocated to In Canada Unallocated unless stated otherwise;
+6. Centrally booked assets and liabilities such as mortgages, credit card balances and tax-sheltered deposits are to be allocated according to the specific instructions.
+7. Any reported assets and liabilities related to business done by institutions via the internet are to be allocated to the appropriate region on the basis of the address of the customer unless stated otherwise.
+
+Various subtotal amounts appearing in the "Total" column must, when netted against the allowance for Highlighted Text\*expected credit losses\* figure that will also be shown in that row, reconcile to the amounts reported in the consolidated balance sheet for the equivalent classes of assets and liabilities.
+
+Assets are to be reported gross of the allowance for Highlighted Text\*expected credit losses\*.
+
+Highlighted Text\*Where applicable\*, the allowance for Highlighted Text\*expected credit losses\* is to be reported as a separate line item and to be allocated to the International and In Canada Unallocated category as appropriate.
+
+The allowance for impairment is to be reported as a separate line item and to be allocated to the International and In Canada Unallocated category as appropriate.
+
+The accounting adjustment for balance sheet purposes lines are intended to facilitate reporting by allowing small capitalized loan expenses such as legal fees and origination costs to be reported separately.
+
+All amounts are to be expressed in thousands of Canadian dollar equivalents.
+
+Balances are to be distributed as follows:
+
+### Selected assets
+
+#### A 1 Bank notes and other coin
+
+By location of the branch where assets are held.
+
+#### A 2 Securities issued or guaranteed by a Canadian province, Highlighted Text\*less allowance for expected credit losses where applicable\*
+
+To be allocated by province of issue regardless of where booked.
+
+**Exception:** Acquired security subsidiaries are to allocate their holdings of securities issued or guaranteed by a Canadian province to In Canada Unallocated.
+
+#### A 3 Securities issued or guaranteed by a Canadian municipal or school corporation, Highlighted Text\*less allowance for expected credit losses where applicable\*
+
+To be allocated by province of the issuer regardless of where booked.
+
+**Exception:** Acquired security subsidiaries are to allocate their holdings of securities issued or guaranteed by a Canadian municipal or school corporation to In Canada Unallocated.
+
+#### A 4 Other securities, Highlighted Text\*less allowance for expected credit losses where applicable\*
+
+1. Other securities, such as income debentures, common shares, preferred shares, term preferred shares and other debt securities should be reported as follows:
+
+   Those securities issued by Canadian issuers are to be allocated by residence of the issuer regardless of where booked.
+
+   **Exception**: Acquired security subsidiaries are to allocate their holdings of income debentures, common shares, preferred shares, term preferred shares and other debt securities to In Canada Unallocated.
+2. Small business bonds and small business development bonds.
+
+   To be allocated by location of the branch where the bonds are recorded.
+
+#### A 5 Non-mortgage loans
+
+1. Call and other short loans to investment dealers and brokers.
+
+   Call and other short loans are to be allocated by the location of the branch making the loan. For business done via the internet, allocate by address of the customer.
+2. To Canadian federal government, provinces, municipalities or school corporations
+
+   * Canadian federal government to be reported as In Canada Unallocated regardless of where booked;
+   * Canadian provinces to be allocated by debtor province regardless of where booked;
+   * Municipalities or school corporations are to be allocated by province of debtor regardless of where booked.
+3. Lease receivables
+
+   Lease receivables from residents are to be allocated on the basis of the province where the head office of the debtor is located.
+4. To individuals for non-business purposes
+
+   1. Personal loan plans
+
+      Personal loan plans to residents to be allocated by the location of the branch making the loan. For business done via the internet, allocate by address of the customer.
+   2. Credit card
+
+      Credit card loans to residents to be allocated by the address of the cardholder. For business done via the internet, allocate by address of the customer.
+   3. Made Under Personal Lines of Credit
+
+      Loans made under personal lines of credit to residents to be allocated by the location of the branch making the loan. For business done via the internet, allocate by address of the customer.
+
+      1. Of which: Home Equity Lines of Credit (HELOCs)
+
+         Report home equity lines of credit included on the balances sheet under non-mortgage loans to individuals for non-business purposes secured by residential property, Assets 3(a)(vi)(A).
+   4. Other personal
+
+      Other personal loans to residents to be allocated by the location of the branch making the loan. For business done via the internet, allocate by address of the customer.
+5. To individuals and others for business purposes
+
+   **Note:** report all "own acceptances purchased" under asset item 5(e)(iv) of this return.
+
+   1. Loans to CANADIAN resident non-financial businesses with authorization of:
+
+      1. Less than $500K
+      2. $500K to $5M
+      3. Over $5M
+
+      To be allocated by location of the branch making the loan. For business done via the internet, allocate by address of the customer. Report the actual amounts outstanding in the various size bands.
+
+      For the purposes of determining the authorization range, the authorization comprises the sum of the demand, term and indirect (acceptances, guarantees and letters of credit) authorizations and includes joint and specific authorizations in Canadian and foreign currencies.
+   2. Canadian agricultural loans
+   3. Other loans for business purposes
+
+      Other loans for business purposes to residents to be allocated by location of the branch making the loan. For business done via the internet, allocate by address of the customer.
+   4. Own acceptances purchased
+
+      Own acceptances purchased in relation to residents are to be allocated by the location of the branch where the acceptances are purchased.
+
+#### A 6 Mortgages
+
+1. Residential
+   1. Insured
+   2. Uninsured
+   3. Reverse mortgages
+2. Of which: home equity lines of credit reported (HELOCs)
+
+   Report home equity lines of credit included on the balances sheet as mortgages, Assets 3(b)(i).
+3. Non-residential
+
+   To be allocated by location of the mortgaged property.
+
+#### A7 Customers liabilities under acceptances
+
+Acceptances relating to residents to be allocated by location of the branch where the asset is recorded. For business done via the internet, allocate by address of the customer.
+
+Allocation is to be in agreement with liability item 3 on this return.
+
+#### A 8 Land, buildings, and equipment, less accumulated depreciation
+
+To be allocated by the location of the property.
+
+#### Memo Items
+
+Asset amounts included in the above vis-à-vis non-residents, booked in Canada (collected for Statistics Canada):
+
+These memo items relate to exports of banking services as assets are analogous to exports. According to Rule (b) in the General Allocation Rules on page 2, "Any reported assets and liabilities of non-residents booked in Canada are to be allocated to the international column unless stated otherwise." The amounts where this rule is used will generally have a province if they are booked at a bank branch in Canada. In the case of Canadian residents, often the province that booked the asset or liability is used (e.g., the location of the bank branch), or the location of the mortgaged property. Statistics Canada needs the same treatment given to the non-resident balances as well. The memo items are related specifically to the total amounts allocated to International under Rule (b) in the main body of the return. Statistics Canada requires where there are items vis-à-vis non-residents that do have a provincial distribution, such as deposits accounts and loans booked at bank branches in Canada, they be given the same provincial allocation method that is used for residents of Canada.
+
+### Selected liabilities
+
+#### L 1 Demand and notice deposits
+
+1. Provinces
+
+   To be allocated by creditor province regardless of where booked.
+2. Municipalities
+
+   To be allocated by creditor province regardless of where booked.
+3. Individuals
+
+   Deposits by resident individuals to be allocated by location of the branch holding the deposit. For business done via the internet, allocate by address of the customer.
+
+   1. Tax-sheltered
+
+      Deposits by resident individuals to be allocated by location of the branch holding the deposit or allocated by address of the holder where the institution accounts for these deposits centrally. Include Tax Free Savings Accounts (TFSA).
+   2. Other
+
+      Deposits by resident individuals to be allocated by location of the branch holder the deposit. For business done via the internet, allocate by address of the customer.
+4. Others
+
+   Deposits by resident - others to be allocated by location of the branch holding the deposit. For business done via the internet, allocate by address of the customer.
+
+#### L 2 Fixed-term deposits
+
+1. Provinces
+
+   To be allocated by creditor province regardless of where booked.
+2. Municipalities
+
+   To be allocated by creditor province regardless of where booked.
+3. Individuals
+
+   1. Tax-sheltered
+
+      Deposits by resident individuals to be allocated by location of the branch holding the deposit or allocated by address of the holder where the institution accounts for these deposits centrally. Include Tax Free Savings Accounts (TFSA).
+   2. Other
+
+      Deposits by resident individuals to be allocated by location of the branch holding the deposit. For business done via the internet, allocate by address of the customer.
+4. Others
+
+   Deposits by resident others to be allocated by location of the branch holding the deposit. For business done via the internet, allocate by address of the customer.
+
+#### L 3 Acceptances
+
+Acceptances relating to residents to be allocated by location of the branch where liability is recorded. Allocation is to be in agreement with asset item 7 on this return. For business done via the internet, allocate by address of the customer.
+
+#### L 4 Liabilities of subsidiaries, other than deposits
+
+To be allocated on the basis of the location of the head office of the subsidiary.
+
+#### L5 Non-controlling Interests
+
+**Include:**
+
+* Non-controlling interests arising from the consolidation of subsidiaries which are not 100% owned
+* Under IFRS (IAS 1), non-controlling interests are to be reported in equity – not liabilities
+* Companies converting to IFRS in their fiscal 2011 should report non-controlling interests in line 6.
+
+#### Memo Items
+
+Liability amounts included in the above vis-à-vis non-residents, booked in Canada (collected for Statistics Canada):
+
+These memo items relate to imports of banking services as liabilities are analogous to imports. According to Rule (b) in the General Allocation Rules on page 2, "Any reported assets and liabilities of non-residents booked in Canada are to be allocated to the international column unless stated otherwise." The amounts where this rule is used will generally have a province if they are booked at a bank branch in Canada. In the case of Canadian residents, often the province that booked the liability is used (e.g., the location of the bank branch. Statistics Canada needs the same treatment given to the non-resident balances as well. The memo items are related specifically to the total amounts allocated to International under Rule (b) in the main body of the return. Statistics Canada requires where there are items vis-à-vis non-residents that do have a provincial distribution, such as deposits accounts and loans booked at bank branches in Canada, they be given the same provincial allocation method that is used for residents of Canada.
+
+APPLICABLE TO THE REPORTING PERIODS DECEMBER 31, 1994 AND THEREAFTER
+
+CROSS REFERENCE OF LOANS
+
+| Return of Assets and Liabilities Distributed by Region Balance Sheet - Asset 5 | Non-Mortgage Loan Report Classified by Institutional Sector |
+| --- | --- |
+| 5 (a) Call and other Short Loans to Investment Dealers and Brokers, secured | 1 (a) Call and Other Short Loans to Investment Dealers and Brokers, secured |
+| 5 (b) Loans to Canadian federal government, provinces, municipalities or school corporations | 2 (a), (b) and (c)  Canadian governments |
+| 5 (c) Lease Receivables | 4 Lease receivables |
+| 5 (d) Loans to individuals for non-business purposes |  |
+| 1. Personal loan plan | Loans made under a personal loan plan and included in item 5 |
+| 2. Credit Card | 5 (c) Credit Card balances |
+| 3. Other | 5 (a) Loans to purchase or carry   1. Tax-sheltered plans 2. Securities   5 (b) Loans to purchase consumer goods and other personal services   1. Private passenger vehicles 2. Mobile homes 3. Renovation of residential property 4. Other   9 Loans by Securities Subsidiary   1. To Individuals for Non-business Purposes   Less: Loans made under a personal loan plan |
+| 5 (e) Loans to individuals and others for business purposes |  |
+| 1. Loans to CANADIAN resident non-financial businesses | 6 (a) Public (CANADIAN RESIDENTS ONLY)   1. Less loans to the Canadian Wheat Board   6 (b) Private (CANADIAN RESIDENTS ONLY)   2. Fishing and trapping 3. Logging and forestry 4. Mining, quarrying and oil wells, mines 5. Manufacturing 6. Construction/Real Estate 7. Transportation, communication and other utilities    1. (Excluding Agricultural loans re: grain elevators) 8. Wholesale trade    1. (Excluding Agricultural loans re: grain dealers and grain exporters) 9. Retail trade 10. Service 11. Other (Multiproduct conglomerates) |
+| 2. Canadian agricultural loans | CANADIAN RESIDENTS ONLY |
+| 3. Other loans for business purposes | All loans to unregulated financial institutions included in:  1 (c) Consumer and Business Finance Companies  1 (d) Investment Companies  1 (f) Pension funds  1 (g) Other (as applicable)  6 (a) Public (ALL NON-RESIDENT LOANS)  6 (b) (i) to (xi) (ALL NON-RESIDENT LOANS)   12. Other (ALL LOANS (RESIDENT AND NON-RESIDENT))   9 Loans by Securities Subsidiary   2. To Individuals and Others for Business Purposes |
+| 4. Own acceptances purchased | 7 Own Acceptances Purchased |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2022-11-16

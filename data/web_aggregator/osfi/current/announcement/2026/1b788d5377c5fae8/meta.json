@@ -1,0 +1,25 @@
+{
+  "doc_id": "1b788d5377c5fae8",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Final Instruction Guide \u2013 Authorization of Amendments Reducing Benefits in Defined Benefit Pension Plans - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/supervision/pensions/administering-pension-plans/guidance-topic/authorization-amendments-reducing-benefits-defined-benefit-pension-plans/final-instruction-guide-authorization-amendments-reducing-benefits-defined-benefit-pension-plans",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:bf9562f3041747fe6e3f74b1051589c57e0cdf0e59eaf59dca627badc80c43f6",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/1b788d5377c5fae8",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

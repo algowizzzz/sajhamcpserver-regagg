@@ -1,0 +1,25 @@
+{
+  "doc_id": "a843c00fe305ff31",
+  "regulator_id": "economic_times",
+  "doc_type": "news_story",
+  "title": "ETMarkets NRI Talk| The question is no longer 'Why India?' but 'At what valuation?': Bhaskar Hazra",
+  "language": "en",
+  "source_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-the-question-is-no-longer-why-india-but-at-what-valuation-bhaskar-hazra/articleshow/132979175.cms",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7d56be91763e4fee07640dfb909c6973a7e7dd069de85917bfd25eb998ab3d79",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_economic_times_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economic_times/current/news_story/2026/a843c00fe305ff31",
+  "tags": [
+    "india"
+  ],
+  "final_url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-the-question-is-no-longer-why-india-but-at-what-valuation-bhaskar-hazra/articleshow/132979175.cms",
+  "fetch_method": "feed_summary"
+}

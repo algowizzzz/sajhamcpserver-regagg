@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 4120 Regarding Regulatory Halts for Corporate Actions and Issuer-Related Events

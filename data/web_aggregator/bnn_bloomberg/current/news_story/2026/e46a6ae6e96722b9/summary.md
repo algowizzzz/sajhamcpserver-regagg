@@ -1,0 +1,1 @@
+Summary: # Volatus and Kraus Hamdani Aerospace Partner to Establish Sovereign Canadian Persistent Intelligence Capability

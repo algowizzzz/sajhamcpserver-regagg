@@ -1,0 +1,1 @@
+Summary: # Thomson Reuters lifts full-year revenue forecast with focus on AI rollout

@@ -1,0 +1,85 @@
+# Frequently Asked Questions
+
+#### What is money laundering?
+
+With few exceptions, criminals are motivated by one thing-profit. Greed drives the criminal, and the end result is that illegally-gained money must be introduced into the nation's legitimate financial systems. Money laundering involves disguising financial assets so they can be used without detection of the illegal activity that produced them. Through money laundering, the criminal transforms the monetary proceeds derived from criminal activity into funds with an apparently legal source.
+
+This process has devastating social consequences. For one thing, money laundering provides the fuel for drug dealers, terrorists, arms dealers, and other criminals to operate and expand their criminal enterprises. We know that criminals manipulate financial systems in the United States and abroad to further a wide range of illicit activities. Left unchecked, money laundering can erode the integrity of our nation's financial institutions.
+
+FinCEN is a network, a link between the law enforcement, financial, and regulatory communities. Because the changing financial world creates vast opportunities for criminals, FinCEN strives to work with its domestic and international partners to maximize the information sharing network and find new ways to prevent and detect financial crime.
+
+#### How big is the problem and why is it important?
+
+The profits of crime that creep into the United States' financial system each year are staggering and detrimental by any calculation. Drug trafficking alone generates tens of billions of dollars a year. Many believe that it is simply not possible to pinpoint the amount.
+
+It is clear, however, that the problem is enormous. It is also clear that money laundering extends far beyond hiding narcotics profits. The dimension of the problem increases rapidly when one considers, for example, trade fraud and tax evasion subject to the money laundering statutes, as well as organized crime and arms smuggling. Bank, medical, and insurance fraud-which can also entail significant laundering of funds-add many additional billions of dollars to the criminals' profits.
+
+#### Why do we need financial investigations?
+
+Intense financial investigations are essential if we are to beat criminals at their trade-whether it's narcotics trafficking, organized crime, money laundering, or bank fraud. Following the money leads to the top of the criminal organization. But financial investigations are extremely complex and difficult to conduct. First, it takes many years of working in the financial industry to understand all its intricacies. Second, no single agency possesses a sufficiently broad or cross-jurisdictional focus and information base to track financial movements. Finally, the sheer size, variety, and pace of change of the financial sector make financial investigations even more difficult. The tools of the money launderer range from complex financial transactions, carried out through webs of wire transfers and networks of shell companies, to old-fashioned, if increasingly inventive, currency smuggling. As soon as law enforcement learns the intricacies of a new laundering technique and takes action to disrupt the activity, the launderers replace the scheme with yet another, more sophisticated method.
+
+#### How has FinCEN addressed the problem?
+
+The Financial Crimes Enforcement Network (FinCEN) was established in April 1990 by Treasury Order Number 105-08. Its original mission was to provide a government-wide, multi-source intelligence and analytical network to support the detection, investigation, and prosecution of domestic and international money laundering and other financial crimes. In May 1994, its mission was broadened to include regulatory responsibilities.
+
+Today, FinCEN is one of Treasury’s primary agencies to oversee and implement policies to prevent and detect money laundering. This is accomplished in two ways. First, FinCEN uses counter-money laundering laws (such as the Bank Secrecy Act--"BSA") to require reporting and recordkeeping by banks and other financial institutions. This recordkeeping preserves a financial trail for investigators to follow as they track criminals and their assets. The BSA also requires reporting suspicious currency transactions which could trigger investigations. FinCEN establishes these policies and regulations to deter and detect money laundering in partnership with the financial community.
+
+Second, FinCEN provides intelligence and analytical support to law enforcement. FinCEN's work is concentrated on combining information reported under the BSA with other government and public information. This information is then disclosed to FinCEN's customers in the law enforcement community in the form of intelligence reports. These reports help them build investigations and plan new strategies to combat money laundering.
+
+#### Who are FinCEN's Customers?
+
+FinCEN serves the interests of the financial, law enforcement, and regulatory communities. FinCEN's analysts provide case support to more than 165 federal, state, and local agencies, issuing approximately 6,500 intelligence reports each year. Using advanced technology and a variety of data sources, FinCEN links together various financial elements of the crime, helping federal, state and local law enforcement find the missing pieces to the criminal puzzle.
+
+Addressing money laundering is a nationwide problem and FinCEN treats it that way. Through Project Gateway, FinCEN works with law enforcement officials in each state so that they have on-line access to FinCEN's databases. Gateway's cutting edge technology gives each state electronic access directly to financial information which they use with great success.
+
+FinCEN is becoming an international leader in the fight against financial crimes and the corresponding corruption of international economies. FinCEN supports the G-7 Financial Action Task Force (FATF), which came under the presidency of the United States for the seventh round (1995-96). In addition, FinCEN coordinates with financial intelligence units (FIUs) in scores of countries, including Britain, France, Belgium and Australia. FinCEN is also using its expertise to help establish FIUs worldwide.
+
+#### How is FinCEN organized?
+
+FinCEN's unique staffing both reflects and sustains its mission. Currently, there are approximately 300 employees on board. The majority of the staff is made up of permanent FinCEN personnel, mostly intelligence professionals, as well as specialists from the financial industry and computer experts. In addition, about 20 long-term detailees are assigned to FinCEN from 13 different regulatory and law enforcement agencies.
+
+#### What is the FOIA process ?
+
+In order to submit a Freedom of Information Act Request, view the process at [https://www.fincen.gov/foia/](/freedom-information-act-foia-and-guide-accessing-fincen-information)
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+  + [Anti-Money Laundering Act of 2020](/resources/statutes-and-regulations/anti-money-laundering-act-2020)
+  + [Bank Secrecy Act](/resources/statutes-and-regulations/bank-secrecy-act)
+    - [BSA Timeline](/resources/statutes-and-regulations/bank-secrecy-act/bsa-timeline)
+    - [BSA FAQs](/resources/frequently-asked-questions)
+    - [BSA AML History](/resources/history-anti-money-laundering-laws)
+    - [BSA Regulatory Efficiency and Effectiveness](/resources/statutes-and-regulations/bank-secrecy-act/regulatory-efficiency-and-effectiveness)
+  + [Chapter X](/resources/statutes-regulations/chapter-x)
+  + [Federal Register Notices](/resources/statutes-regulations/federal-register-notices)
+  + [Administrative Rulings](/resources/statutes-regulations/administrative-rulings)
+  + [Guidance](/resources/statutes-regulations/guidance)
+  + [USA PATRIOT Act](/resources/statutes-and-regulations/usa-patriot-act)
+  + [Special Measures](/resources/statutes-and-regulations/special-measures)
+  + [CDD Final Rule](/resources/statutes-and-regulations/cdd-final-rule)
+* [Whistleblower Program](/whistleblower-program)
+
+Header
+
+QUICK LINKS
+
+* [Frequently Asked Questions](/frequently-asked-questions)
+* [History of Anti-Money Laundering Laws](/history-anti-money-laundering-laws)
+* [BSA Timeline](/resources/statutes-regulations/bank-secrecy-act/bsa-timeline)
+* [BSA Acronyms](/acronyms)
+* [FBI Law Enforcement Bulletin Article; Money Laundering and Asset Forfeiture](https://leb.fbi.gov/2012/april/money-laundering-and-asset-forfeiture-taking-the-profit-out-of-crime)
+* [Financial Fraud Enforcement Task Force](/financial-fraud-enforcement-task-force-ffetf)
+* [Chapter X Main Page](/resources/statutes-regulations/chapter-x)

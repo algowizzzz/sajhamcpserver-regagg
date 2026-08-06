@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; The Depository Trust Company; Notice of Filing of Proposed Rule Amend the Redemptions Service Guide and the Operational Arrangements (Necessary for Securities To Become and Remain Eligible for DTC Services)

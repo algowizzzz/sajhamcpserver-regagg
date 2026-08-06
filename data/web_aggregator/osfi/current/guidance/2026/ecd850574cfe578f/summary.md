@@ -1,0 +1,1 @@
+Summary: # Amendments to the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”, and OSFI’s new compliance expectations

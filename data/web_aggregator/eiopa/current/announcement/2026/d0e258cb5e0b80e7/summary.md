@@ -1,0 +1,1 @@
+Summary: * ​*In 2018, supervisory activities contributed to high-quality supervision, to enhanced convergence of supervisory practices and to stability in the European insurance sector*

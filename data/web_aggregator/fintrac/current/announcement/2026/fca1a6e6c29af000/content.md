@@ -1,0 +1,47 @@
+# Pénalité administrative pécuniaire imposée à Global West Realty Limited
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du
+Canada](/intro-fra) (CANAFE)
+
+[**2024-01-17**]
+
+Global West Realty Limited, un courtier immobilier établi à Mississauga, en Ontario, faisant également affaire sous le nom de Global West Realty Limited Brokerage, s’est vu imposer une pénalité administrative pécuniaire de 132 000 $ le 18 août 2023. Les violations ont été observées dans le cadre d’un examen de conformité réalisé en 2021. Global West Realty Limited a interjeté appel devant la Cour d’appel fédérale.
+
+## Nature de la violation
+
+Violation no 1
+:   **Fait de ne pas nommer une personne responsable de la mise en œuvre d’un programme de conformité – alinéa 71(1)a) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes** 
+      
+      
+    Global West Realty Limited a désigné une personne en tant que responsable de la conformité, mais cette personne n’a pris aucune mesure pour mettre en place un programme de conformité. Par exemple, Global West Realty Limited n’avait aucune documentation de ses politiques et procédures, de son évaluation de risques, du programme de formation écrit ou de révision de son programme de conformité.
+
+Violation no 2
+:   **Fait de ne pas élaborer et de ne pas appliquer des principes et des mesures de conformité écrits qui sont mis à jour et, dans le cas d'une entité, approuvés par un de ses dirigeants – alinéa 71(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+      
+      
+    Global West Realty Limited n’avait pas élaboré et appliqué de politiques et procédures de conformité écrites.
+
+Violation no 3
+:   **Fait de ne pas évaluer les risques de blanchiment d'argent ou de financement des activités terroristes et de ne pas conserver les documents à l'appui en tenant compte des critères prévus par règlement – alinéa 71(1)c) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes** 
+      
+      
+    Global West Realty Limited n'a pas évalué les risques en matière de blanchiment d'argent et de financement des activités terroristes.
+
+Violation no 4
+:   **Fait de ne pas élaborer et de ne pas mettre à jour un programme écrit de formation continue axé sur la conformité – alinéa 71(1)d) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+      
+      
+    Global West Realty Limited n'a pas élaboré un programme écrit de formation continue axé sur la conformité.
+
+Violation no 5
+:   **Fait de ne pas établir de mécanismes d'examen et de ne pas conserver de documents à l'appui – alinéa 71(1)e) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+      
+      
+    Global West Realty Limited n'a pas établi de mécanismes d'examen visant à évaluer ses politiques et procédures de conformité, son évaluation des risques et son programme de formation, et n'a pas conservé les documents à l'appui.
+
+## Lien connexe
+
+* [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Global West Realty Limited](/new-neuf/nr/2024-01-17-fra)
+
+Date de modification :
+:   2024-01-17

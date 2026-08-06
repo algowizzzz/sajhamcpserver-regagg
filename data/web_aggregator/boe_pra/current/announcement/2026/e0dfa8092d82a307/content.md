@@ -1,0 +1,215 @@
+# Minutes of the Meeting of the Court of Directors held on 12 February 2026
+
+The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.
+
+Published on
+07 May 2026
+
+**Present** [Committee members](https://www.bankofengland.co.uk/about/people/court-of-directors)**:**
+
+**David Roberts**, Chair  
+**Andrew Bailey**, Governor  
+**Sarah Breeden,** Deputy Governor – Financial Stability  
+**Clare Lombardelli**, Deputy Governor – Monetary Policy  
+**Sir Dave Ramsden**, Deputy Governor – Markets & Banking  
+**Sam Woods**, Deputy Governor – Prudential Regulation  
+**Jonathan Bewes  
+Sabine Chalmers  
+Lord Jitesh Gadhia  
+Dame Anne Glover  
+Diana Noble  
+Tom Shropshire**
+
+**In attendance:**
+
+**Sarah John**, Chief Operating Officer
+
+**Secretary:**
+
+**Sebastian Walsh**, Secretary of the Bank
+
+## 1. Conflicts; Minutes of 9 December 2025; Matters Arising; Twelve-month Forward Planner
+
+The minutes of the meeting held on 9 December 2025 were approved.
+
+## 2. Governor’s Update
+
+The Governor gave an update to Court on developments around the Bank’s balance sheet, highlighting that a major gilt redemption in January – of which a large proportion had been held by the Bank of England Asset Purchase Facility Fund (BEAPFF) – had passed smoothly. He noted that this gave confidence that the Bank’s facilities were functioning as intended in helping to smooth out market events.
+
+Court welcomed the news of the nomination of Kevin Warsh as the next Chairman of the Federal Reserve.
+
+## 3. Audit & Risk Committee (ARCo)
+
+Jonathan Bewes gave an update on the recent meeting of ARCo.
+
+In the audit discussion, ARCo had approved the accounting policies for the financial statements as well as the year end timetable. EY had reported to ARCo on progress of the interim audit.
+
+In the risk discussion, ARCo had received an update on material controls, including testing and governance of controls, in light of the revised UK Corporate Governance Code, which requires Court to declare the effectiveness of the Bank’s controls in the Annual Report for financial year 26/27. ARCo also received the quarterly risk report and received an update on the Future FAME programme.
+
+## 4. Remuneration Committee (RemCo) Update
+
+Diana Noble gave an update on the recent meeting of RemCo.
+
+RemCo had approved pay awards for Governors, the COO, EDs and external members of statutory committees. RemCo also agreed opt out rates for pensions should remain unchanged.
+
+## 5. COO Update
+
+Sarah John gave her regular update to Court on the Bank’s Central Services.
+
+Sarah John updated Court on the search for a permanent office space in Leeds and advised on the completed expansion of its temporary office space in the city.
+
+Sarah John informed Court that the Bank’s security outsourcing arrangement with Amulet had now terminated, with the existing staff all transferred to the Bank under TUPE.
+
+* Project Mulberry update
+
+(Vivienne Grafton and Neil Rebeugeot)
+
+Vivienne Grafton introduced the item, noting following a competitive process, it was proposed to appoint ISS as a single integrated Facilities Management provider.
+
+In response to questions from Directors, Neil Reubegeot outlined the agreed key performance indicators for the contract, which related to compliance to the Bank’s budget, delivery of savings and compliance to governance and health & safety controls and noted that 100% of ISS’s management fee was at risk for meeting those KPIs.
+
+Directors noted the importance of ISS understanding Bank policies and processes. Vivienne Grafton and Neil Rebeugeot said that this was an output-based contract which the Bank would have to adapt to, and ensure the competence was in place to manage the contract.
+
+Court approved the appointment of ISS.
+
+## 6. Bank’s Finances
+
+* Business Planning: Update on proposed workforce change including MAR Scheme
+
+(Afua Kyei, Jane Tucker, Jo Hill and Jane Cathrall)
+
+Jo Hill introduced the item and noted because of staff take up of the Mutually Agreed Resignation (MAR) scheme, the level of restructuring outside of MAR needed this financial year would be smaller than originally anticipated. Court discussed the impact of the scheme.
+
+Directors asked how the Bank would manage the staff whose applications for MAR were not accepted. Jane Cathrall said that there would be leadership challenge in that respect, though reasons for applications varied.
+
+The Chair concluded by observing that its ultimate success would depend on limiting any backfill of roles rendered vacant.
+
+* Q3 forecast 2025/26 / Final 2026/27 budget and 3-year financial plan / Allocation of the 2026/27 investment portfolio / Interim dividend
+
+(Afua Kyei, Jane Tucker and Jo Hill)
+
+Jane Tucker introduced the item and noted that it would be possible to deliver a dividend to HMT within the range communicated. An interim dividend was therefore proposed, followed by a true up and final dividend payment after year end. The Governor noted that as the Bank had built-up capital, an annual dividend should now be sustainable.
+
+Court approved the interim dividend.
+
+Afua Kyei gave an overview of the Bank’s finances, noting that the costs in 25/26 are planned to grow by 3% by the end of 28/29 versus a 7.6% estimate for CPI over the same period. This will be delivered through the BAU cost challenge and the delivery of the investment portfolio allowing headcount to fall. Afua Kyei highlighted that the investment budget will be maintained over the course of the 3-year plan.
+
+The Governor highlighted that the BEAPFF Quarterly Report for Q4 2025 had now been published.
+
+* Draft letter to the Chief Secretary to the Treasury (CST)
+
+Court approved the 3-year financial plan, the one-year budget and the draft letter to the Chief Secretary to the Treasury.
+
+## 7. Update on the Bank’s Data & Analytics (D&A) Strategy and Data Transformation Portfolio
+
+(Ben Martin and Oliver Edwards)
+
+Ben Martin introduced the item and said that the Bank’s Data and Analytics (D&A) Strategy was now in place. Focus was now on delivery, with the transformation programme pivotal to this.
+
+Directors highlighted the importance of defining use cases, particularly around opportunities for AI as well as ensuring data security when migrating to new platforms and tools.
+
+Directors discussed the forecast costs, challenging both that the assumption investment could fall in outer years and how Cloud capacity would be contracted to prevent under or over buying. Ben Martin noted the priority for the investment was obsolescence but agreed further investment business cases were likely and said that Cloud costs would be charged out to business areas to ensure control of the costs they incurred.
+
+## 8. PRA External Business Plan 2026/27
+
+(Talib Idris)
+
+Talib Idris presented the PRA’s External Business Plan 2026/27 and noted the change to Strategic Priority 1.
+
+Court approved the plan.
+
+## 9. PRC Effectiveness Review
+
+(David Roberts)
+
+David Roberts introduced the report. The Governor and Sam Woods acknowledged that the PRC members often held a range of views, and that discussions were robust and effective.
+
+Directors discussed the upcoming recruitment for new external members, noting candidate identification would be key to ensure candidates with a breadth of industry experience and credibility come forward.
+
+The Chair noted the report would be shared with PRC members.
+
+## 10. Communications six-monthly update
+
+(James Bell and Helen Cowlyn)
+
+James Bell presented the six-monthly update.
+
+James Bell updated Court on internal communications. Court supported narrower, more focussed, messaging during the period of transformational change. Directors highlighted staff’s pride and sense of duty around public service and noted that how the Bank’s mission is delivered has changed over the years and it was important to ensure the Bank has the right capabilities for the future. It was therefore important to present a narrative on the Bank’s purpose, mission and strategy and ensure this flowed through into things like objective setting. Some Directors highlighted the importance of community and workplace culture to institutions, noting that private sector firms put huge focus on this.
+
+Directors discussed the importance of the Bank’s senior leadership having consistent engagement with staff in presenting a narrative as to the future of the Bank.
+
+## 11. Committee Appointments and Conflicts
+
+(Sebastian Walsh)
+
+* Appointment of the Executive Director for Monetary Policy (EDMP)
+
+Court approved the appointment of Rohan Churm as EDMP. RemCo approved the remuneration for the role.
+
+* Appointment of the Executive Director for Payments Innovation and Fintech
+
+Court approved the re-evaluation of the Director - Payments Innovation and Fintech to Executive Director for Payments Innovation and Fintech. Court approved the appointment of Tom Mutton to the role. RemCo approved the remuneration for the role.
+
+* Enforcement Decision Making Committee (EDMC) Appointments
+
+Court approved the appointments to the EDMC.
+
+Court agreed the delegation to approve the appointment of one additional new member to the Chair of Court.
+
+* Bank of England Pension Fund – Trustee Nomination
+
+Court approved the appointment of Abigail Caldwell as a Bank nominated Trustee of the Bank of England Pension Fund.
+
+## 12. Papers for Information
+
+Court noted:
+
+* Monetary Policy Committee Reports for December 2025 and February 2026
+* Internal Whistleblowing Annual Report
+* Annual Report to Court from the Bank’s Networks
+* Publication of historic Court Minutes for 2005
+* Approved minutes from Committee meetings since the last meeting of Court on 9 December 2025:
+  + ARCo minutes 18 November 2025
+  + RemCo minutes 25 November 2025
+
+**The meeting of Court was closed.**
+
+These minutes are published as the record of meeting as required by the Bank of England Act 1998 as amended. Court may decide to omit information from the record in the public interest. The record of matters reported to Court may also omit information which is legally sensitive or commercially confidential.
+
+## Other news
+
+[News
+
+30 July 2026
+
+### Minutes of the Meeting of the Court of Directors...
+
+### Minutes of the Meeting of the Court of Directors held on 4 June 2026](/minutes/2026/july/court-minutes-4-june-2026)
+
+[News // Monetary Policy Committee (MPC)
+
+30 July 2026
+
+### Bank Rate maintained at 3.75% - July 2026...
+
+### Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes](/monetary-policy-summary-and-minutes/2026/july-2026)
+
+[News // Letter
+
+23 July 2026
+
+### Letter from the Governor to the Daily Mail
+
+### Letter from the Governor to the Daily Mail](/letter/2026/letter-from-the-governor-to-the-daily-mail)
+
+[News // News release
+
+22 July 2026
+
+### PRA consults on updated guidance for friendly...
+
+### PRA consults on updated guidance for friendly society amalgamations and transfers](/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers)
+
+[View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

@@ -1,0 +1,185 @@
+# FinCEN Advisory – FIN-2013-A003
+
+## Advisory Information
+
+FIN-2013-A003
+
+[FIN-2013-A003.pdf](/system/files/advisory/2016-06-28/FIN-2013-A003.pdf "FIN-2013-A003.pdf")
+(232.55 KB)
+
+Issued Date
+
+April 24, 2013
+
+Subject
+
+Guidance to Financial Institutions Based on the Financial Action Task Force Publication on Anti-Money Laundering and Counter-Terrorist Financing Risks posed by ...
+
+|  |
+| --- |
+| Guidance to Financial Institutions Based on the Financial Action Task Force Publication on Anti-Money Laundering and Counter-Terrorist Financing Risks posed by Antigua and Barbuda; Azerbaijan; Bolivia; Greece; Indonesia, Kenya; Morocco; Burma; Nepal; Nigeria; Paraguay; Qatar; Sri Lanka; Sudan; Syria; Trinidad and Tobago; Thailand; Turkey; Ukraine; and Yemen. |
+
+The Financial Crimes Enforcement Network (FinCEN) is issuing this advisory to inform banks and other financial institutions operating in the United States of the money laundering and financing of terrorism risks associated with jurisdictions identified by the Financial Action Task Force (FATF) 1 on February 22, 2013, as having strategic deficiencies in their AML/CFT regimes, for which each jurisdiction has provided a high-level political commitment to address the strategic AML/CFT deficiencies.2 This advisory also includes information on the AML/CFT improvements made by Ghana and Venezuela and their subsequent removal from this FATF review process. Also, FinCEN is issuing a complementary advisory today, [FIN-2013-A004](/resources/advisories/fincen-advisory-fin-2013-a004)3, which addresses a separate but related FATF document identifying jurisdictions with strategic AML/CFT deficiencies that have either not made sufficient progress or are subject to FATF’s call for countermeasures.
+
+The FATF publication comes in response to the G-20 leaders’ call for the FATF to reinvigorate its process for assessing countries’ compliance with international AML/CFT standards and to publicly identify high-risk jurisdictions.4 Also, the G-20 leaders have repeatedly called for FATF to issue regular updates on jurisdictions with strategic deficiencies.5 The text highlights jurisdictions with strategic AML/CFT deficiencies for which each jurisdiction has provided a high-level political commitment to address the strategic AML/CFT deficiencies. FATF explains its specific concerns regarding each of the jurisdictions and notes it will continue to monitor the implementation of each jurisdiction’s action plan for addressing the deficiencies. On an ongoing basis, FATF will continue to update information on these and other jurisdictions that pose a risk to the international financial system.
+
+Please note that the countries on this advisory have changed since FinCEN’s Advisory, dated November 21, 2012. In particular, due to AML/CFT improvements, Bolivia, Sri Lanka, and Thailand are now identified in this document instead of the related FinCEN advisory, [FIN-2013-A004](/resources/advisories/fincen-advisory-fin-2013-a004)6. Cuba has also moved to this advisory because Cuba has provided the FATF with a high-level political commitment to address its AML/CFT deficiencies. This advisory also includes FATF’s update on the AML/CFT improvements in Ghana and Venezuela, which have been removed from the FATF monitoring process.
+
+Improving Global AML/CFT Compliance: On-Going Process ’   
+22 February 2013 7
+
+> As part of its on-going review of compliance with the AML/CFT standards, the FATF has to date identified the following jurisdictions which have strategic AML/CFT deficiencies for which they have developed an action plan with the FATF. While the situations differ among each jurisdiction, each jurisdiction has provided a written high-level political commitment to address the identified deficiencies. The FATF welcomes these commitments.
+>
+> A large number of jurisdictions have not yet been reviewed by the FATF. The FATF continues to identify additional jurisdictions, on an on-going basis, that pose a risk to the international financial system.
+>
+> The FATF and the FATF-style regional bodies (FSRBs) will continue to work with the jurisdictions noted below and to report on the progress made in addressing the identified deficiencies. The FATF calls on these jurisdictions to complete the implementation of action plans expeditiously and within the proposed timeframes. The FATF will closely monitor the implementation of these action plans and encourages its members to consider the information presented below.
+>
+> Afghanistan
+>
+> In June 2012, Afghanistan made a high-level political commitment to work with the FATF and APG to address its strategic AML/CFT deficiencies. Since then, Afghanistan has taken steps towards improving its AML/CFT regime. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Afghanistan should continue to work on implementing its action plan to address these deficiencies, including by: (1) adequately criminalising money laundering and terrorist financing; (2) establishing and implementing an adequate legal framework for identifying, tracing and freezing terrorist assets; (3) implementing an adequate AML/CFT supervisory and oversight programme for all financial sectors; (4) establishing and implementing adequate procedures for the confiscation of assets related to money laundering; (5) establishing a fully operational and effectively functioning Financial Intelligence Unit; and (6) establishing and implementing effective controls for cross-border cash transactions. The FATF encourages Afghanistan to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Albania
+>
+> In June 2012, Albania made a high-level political commitment to work with the FATF and MONEYVAL to address its strategic AML/CFT deficiencies. Since then, Albania has taken steps towards improving its AML/CFT regime. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Albania should continue to work on implementing its action plan to address these deficiencies, including by: (1) establishing and implementing an adequate legal framework for identifying, tracing and freezing terrorist assets; and (2) enhancing the framework for international co-operation related to terrorist financing. The FATF encourages Albania to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Algeria
+>
+> In October 2011, Algeria made a high-level political commitment to work with the FATF and MENAFATF to address its strategic AML/CFT deficiencies. Since October 2012, Algeria has taken steps towards improving its AML/CFT regime including through the publishing of CDD regulations by the Central Bank. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Algeria should continue to work on implementing its action plan, including by: (1) adequately criminalising terrorist financing; (2) establishing and implementing an adequate legal framework for identifying, tracing and freezing terrorist assets; (3) improving customer due diligence measures; and (4) ensuring an effectively functioning Financial Intelligence Unit. The FATF encourages Algeria to address its deficiencies and continue the process of implementing its action plan.
+>
+> Angola
+>
+> In June 2010, Angola made a high-level political commitment to work with the FATF to address its strategic AML/CFT deficiencies. The FATF has determined that certain strategic AML/CFT deficiencies remain. Since the original action plan was formulated, Angola was subject to a mutual evaluation. It has highlighted additional strategic deficiencies and these have been included in the revised action plan, to which a renewed political commitment was provided. Angola should continue to work on addressing these deficiencies, including by: (1) adequately criminalising money laundering and terrorist financing; (2) establishing and implementing an adequate legal framework for the confiscation of funds related to money laundering and the identification and freezing of terrorist assets without delay; (3) ensuring an effectively functioning Financial Intelligence Unit; and (4) ensuring that appropriate laws and procedures are in place to provide mutual legal assistance. The FATF encourages Angola to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Antigua and Barbuda
+>
+> In February 2010, Antigua and Barbuda made a high-level political commitment to work with the FATF and CFATF to address its strategic AML/CFT deficiencies. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Antigua and Barbuda should continue to work on implementing its action plan to address these deficiencies, including by continuing to improve the overall supervisory framework. The FATF encourages Antigua and Barbuda to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Argentina
+>
+> In June 2011, Argentina made a high-level political commitment to work with the FATF to address its strategic AML/CFT deficiencies. Since October 2012, Argentina has taken substantial steps towards improving its AML/CFT regime, including by enacting a new capital markets law on 28 December 2012, which improves licensing and supervision of the securities sector, enhances co-operation mechanisms, and removes secrecy among domestic agencies, improving the exchange of AML/CFT information with a positive impact on financial transparency. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Argentina should continue to work on implementing its action plan to address these deficiencies, including by: (1) addressing the remaining deficiencies with regard to the criminalisation of money laundering, confiscation of funds related to money laundering, and freezing terrorist-related assets; (2) addressing the remaining issues for the Financial Intelligence Unit and suspicious transaction reporting requirements; (3) further enhancing the AML/CFT supervisory programme for all financial sectors; (4) further improving and broadening customer due diligence measures; and (5) enhancing the appropriate channels for international co-operation and ensuring effective implementation. The FATF encourages Argentina to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Bangladesh
+>
+> In October 2010, Bangladesh made a high-level political commitment to work with the FATF and APG to address its strategic AML/CFT deficiencies. Since October 2012, Bangladesh has taken steps towards improving its AML/CFT regime, including by obtaining Cabinet approval for the necessary amendments to its CFT legislation and issuing AML/CFT guidance to the capital markets intermediaries. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Bangladesh should continue to work on implementing its action plan to address these deficiencies, including by: (1) adequately criminalising terrorist financing; (2) establishing and implementing adequate procedures to identify and freeze terrorist assets; (3) ensuring an effectively functioning Financial Intelligence Unit; and (4) improving international co-operation. The FATF encourages Bangladesh to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Bolivia
+>
+> Pursuant to Bolivia’s progress in largely addressing its action plan agreed upon with the FATF, Bolivia has been removed from the FATF’s Public Statement and identified in this document. Since February 2010, when Bolivia made a high-level political commitment to work with the FATF and GAFISUD to address its strategic AML/CFT deficiencies, Bolivia has made significant progress to improve its AML/CFT regime, including by enacting legislation enhancing the criminalisation of money laundering and terrorist financing; establishing and implementing measures for freezing, seizing, and confiscating funds related to terrorist financing; and enhancing the effectiveness of the Financial Intelligence Unit. The FATF will conduct an on-site visit to confirm that the process of implementing the required reforms and actions is underway to address deficiencies previously identified by the FATF.
+>
+> Brunei Darussalam
+>
+> Since June 2011, when Brunei Darussalam made a high-level political commitment to work with the FATF and APG to address its strategic AML/CFT deficiencies, Brunei Darussalam has made significant progress to improve its AML/CFT regime, including by enacting legislation to adequately criminalise money laundering and terrorist financing; establishing and implementing adequate procedures to identify and freeze terrorist assets; establishing and implementing adequate procedures for the confiscation of funds related to money laundering; improving suspicious transaction reporting requirements; ensuring a fully operational and effectively functioning Financial Intelligence Unit; and enacting and implementing appropriate mutual legal assistance legislation. The FATF will conduct an on-site visit to confirm that the process of implementing the required reforms and actions is underway to address deficiencies previously identified by the FATF.
+>
+> Cambodia
+>
+> In June 2011, Cambodia made a high-level political commitment to work with the FATF and APG to address its strategic AML/CFT deficiencies. The FATF has determined that certain strategic AML/CFT deficiencies remain. Cambodia should continue to work on implementing its action plan to address these deficiencies, including by: (1) adequately criminalising money laundering and terrorist financing; (2) establishing and implementing adequate procedures to identify and freeze terrorist assets; (3) establishing and implementing adequate procedures for the confiscation of funds related to money laundering; (4) ensuring a fully operational and effectively functioning Financial Intelligence Unit; and (5) establishing and implementing effective controls for cross-border cash transactions. The FATF strongly urges Cambodia to address its remaining deficiencies and continue the process of implementing its action plan, specifically by enacting the necessary AML/CFT amendments in line with the FATF standards.
+>
+> Cuba
+>
+> In February 2013, Cuba made a high-level political commitment to work with the FATF and the GAFISUD to address its strategic AML/CFT deficiencies. Cuba joined GAFISUD in December 2012. The FATF has determined that certain AML/CFT deficiencies exist. Cuba should work on implementing its action plan to address these deficiencies, including by: (1) adequately criminalising money laundering and terrorist financing; (2) establishing and implementing adequate procedures to identify and freeze terrorist assets; (3) improving customer due diligence measures; (4) improving suspicious transaction reporting requirements; (5) ensuring a fully operational and effectively functioning Financial Intelligence Unit; and (6) ensuring that appropriate laws and procedures are in place with regard to international cooperation and mutual legal assistance.
+>
+> Kuwait
+>
+> In June 2012, Kuwait made a high-level political commitment to work with the FATF and MENAFATF to address its strategic AML/CFT deficiencies. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Kuwait should continue to work on implementing its action plan to address these deficiencies, including by: (1) adequately criminalising terrorist financing; (2) implementing the Terrorist Financing Convention; (3) establishing and implementing adequate procedures to identify and freeze terrorist assets; (4) ensuring that appropriate laws and procedures are in place to provide mutual legal assistance; (5) establishing effective customer due diligence measures; (6) ensuring a fully operational and effectively functioning Financial Intelligence Unit (FIU), in particular addressing the operational autonomy of the FIU; and (7) ensuring that financial institutions are aware of and comply with their obligations to file suspicious transaction reports in relation to money laundering and terrorist financing. The FATF encourages Kuwait to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Kyrgyzstan
+>
+> In October 2011, Kyrgyzstan made a high-level political commitment to work with the FATF and EAG to address its strategic AML/CFT deficiencies. Since October 2012, Kyrgyzstan has taken steps towards improving its AML/CFT regime, including by enacting a Governmental decree on the implementation of UNSC Resolutions. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Kyrgyzstan should continue to work on implementing its action plan to address these deficiencies, including by: (1) adequately criminalising terrorist financing; (2) addressing the remaining issue regarding criminalisation of money laundering; (3) clarifying the legal framework for identifying, tracing and freezing terrorist assets; and (4) implementing an adequate and effective AML/CFT supervisory programme for all financial sectors. The FATF encourages Kyrgyzstan to address its deficiencies and continue the process of implementing its action plan, in particular swiftly enacting adequate CFT amendments.
+>
+> Mongolia
+>
+> In June 2011, Mongolia made a high-level political commitment to work with the FATF and APG to address its strategic AML/CFT deficiencies. Since October 2012, Mongolia has taken steps towards improving its AML/CFT regime, including by continuing to demonstrate regulation of money service providers. However, the FATF has determined that strategic AML/CFT deficiencies remain. Mongolia should continue to work on implementing its action plan to address these deficiencies, including by: (1) adequately criminalising money laundering and terrorist financing; (2) establishing and implementing adequate procedures to identify and freeze terrorist assets; (3) establishing adequate procedures for the confiscation of funds related to money laundering; (4) establishing suspicious transaction reporting requirements; and (5) demonstrating effective regulation of money service providers. The FATF encourages Mongolia to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Namibia
+>
+> In June 2011, Namibia made a high-level political commitment to work with the FATF and ESAAMLG to address its strategic AML/CFT deficiencies. Since October 2012, Namibia has taken significant steps to improve its AML/CFT system, including by enacting new TF legislation and updated AML legislation, and ratifying the Terrorist Financing Convention. The FATF has not yet assessed the new legislation due to its very recent nature, and therefore the FATF has not yet determined the extent to which it addresses any of the following issues: (1) adequately criminalising terrorist financing; and (2) establishing and implementing adequate procedures to identify and freeze terrorist assets. The FATF encourages Namibia to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Nepal
+>
+> In February 2010, Nepal made a high-level political commitment to work with the FATF and APG to address its strategic AML/CFT deficiencies. Since October 2012, Nepal has taken steps to improve its AML/CFT regime, including by promulgating the Organised Crimes Control Ordinance and issuing enforceable AML/CFT directives for both the insurance and securities sectors. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Nepal should continue to work on implementing its action plan to address these deficiencies, including by: (1) adequately criminalising money laundering and terrorist financing; (2) establishing and implementing adequate procedures to identify and freeze terrorist assets; (3) implementing adequate procedures for the confiscation of funds related to money laundering; (4) enacting and implementing appropriate mutual legal assistance legislation; (5) ensuring an effectively functioning Financial Intelligence Unit; and (6) establishing adequate suspicious transaction reporting obligations for money laundering and terrorist financing. The FATF urges Nepal to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Nicaragua
+>
+> In June 2011, Nicaragua made a high-level political commitment to work with the FATF and CFATF to address its strategic AML/CFT deficiencies. Since October 2012, Nicaragua has taken steps towards improving its AML/CFT regime, including by issuing AML/CFT regulations for the new FIU law and for the supervision of the microfinance sector. However, the FATF has not yet assessed these measures due to their very recent nature. Nevertheless, the FATF has determined that certain strategic AML/CFT deficiencies remain. Nicaragua should work with the FATF and CFATF on implementing its action plan to address these deficiencies, including by: (1) ensuring effective customer due diligence measures and record-keeping requirements, in particular entities not currently regulated by the supervisory authority; (2) establishing adequate suspicious transaction reporting obligations for money laundering and terrorist financing; (3) implementing an adequate AML/CFT supervisory programme for all financial sectors; (4) ensuring a fully operational and effectively functioning Financial Intelligence Unit; and (5) establishing adequate procedures for identifying and freezing terrorist assets. The FATF encourages Nicaragua to address its remaining deficiencies and continue the process of implementing its action plan.
+>
+> Philippines
+>
+> Since October 2010, when the Philippines made a high-level political commitment to work with the FATF and APG to address its strategic AML/CFT deficiencies, the Philippines has made significant progress to improve its AML/CFT regime and has largely addressed its action plan, including by enacting legislation to adequately criminalise money laundering and terrorist financing; implementing adequate procedures to identify and freeze terrorist assets and confiscate funds related to money laundering; enhancing financial transparency; ensuring capacity and financial resources for competent authorities; and extending the coverage of reporting entities to include all financial institutions and some of the designated non-financial businesses and professions. The FATF will conduct an on-site visit to confirm that the process of implementing the required reforms and actions is underway to address deficiencies previously identified by the FATF. However, the FATF has concerns that the casino sector in the Philippines continues to be unregulated for AML and CFT purposes and is still not subject to AML/CFT requirements and urges the Philippines to promptly and effectively address this outstanding deficiency.
+>
+> Sri Lanka
+>
+> Pursuant to Sri Lanka’s progress in largely addressing its action plan agreed upon with the FATF, Sri Lanka has been removed from the FATF’s Public Statement and identified in this document. Since February 2010, when Sri Lanka made a high-level political commitment to work with the FATF and APG to address its strategic AML/CFT deficiencies, Sri Lanka has made significant progress to improve its AML/CFT regime, including by enacting legislation to adequately criminalise money laundering and terrorist financing; and establishing and implementing adequate procedures to identify and freeze terrorist assets. The FATF will conduct an on-site visit to confirm that the process of implementing the required reforms and actions is underway to address deficiencies previously identified by the FATF.
+>
+> Sudan
+>
+> In February 2010, Sudan made a high-level political commitment to work with the FATF and MENAFATF to address its strategic AML/CFT deficiencies. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Sudan should continue to work on implementing its action plan to address these deficiencies, including by: (1) implementing adequate procedures for identifying and freezing terrorist assets; (2) ensuring a fully operational and effectively functioning Financial Intelligence Unit; and (3) ensuring an effective supervisory programme for AML/CFT compliance. The FATF welcomes the adoption of the MENAFATF mutual evaluation report and will work with Sudan in light of the significant additional deficiencies identified in the report. The FATF encourages Sudan to address its remaining deficiencies and continue the process of implementing its action plan
+>
+> Thailand
+>
+> Pursuant to Thailand’s progress in largely addressing its action plan agreed upon with the FATF, Thailand has been removed from the FATF’s Public Statement and identified in this document. Since February 2010, when Thailand made a high-level political commitment to work with the FATF and APG to address its strategic AML/CFT deficiencies, Thailand has made significant progress to improve its AML/CFT regime, including by enacting legislation to adequately criminalise terrorist financing, establishing and implementing adequate procedures to identify and freeze terrorist assets, and further strengthening AML/CFT supervision. The FATF will conduct an on-site visit to confirm that the process of implementing the required reforms and actions is underway to address deficiencies previously identified by the FATF.
+>
+> Zimbabwe
+>
+> In June 2011, Zimbabwe made a high-level political commitment to work with the FATF and ESAAMLG to address its strategic AML/CFT deficiencies. Since October 2012, Zimbabwe has taken steps towards improving its AML/CFT regime, including by ratifying the Terrorist Financing Convention. However, the FATF has determined that certain strategic AML/CFT deficiencies remain. Zimbabwe should continue to work with the FATF and ESAAMLG on implementing its action plan to address these deficiencies, including by: (1) adequately criminalising money laundering and terrorist financing; (2) establishing and implementing adequate procedures to identify and freeze terrorist assets; (3) ensuring a fully operational and effectively functioning Financial Intelligence Unit; (4) ensuring that financial institutions are aware of and comply with their obligations to file suspicious transaction reports in relation to money laundering and the financing of terrorism; and (5) enacting and implementing appropriate mutual legal assistance legislation. The FATF encourages Zimbabwe to address its remaining deficiencies and continue the process of implementing its action plan, including by enacting the necessary amendments to AML/CFT legislation.
+
+> Jurisdictions not making sufficient progress
+>
+> The FATF is not yet satisfied that the following jurisdictions have made sufficient progress on their action plan agreed upon with the FATF. The most significant action plan items and/or the majority of the action plan items have not been addressed. If these jurisdictions do not take sufficient action to implement significant components of their action plan by June 2013, then the FATF will identify these jurisdictions as being out of compliance with their agreed action plans and will take the additional step of calling upon its members to consider the risks arising from the deficiencies associated with the jurisdiction.
+>
+> Morocco
+>
+> Despite Morocco’s high-level political commitment to work with the FATF and MENAFATF to address its strategic AML/CFT deficiencies, the FATF is not yet satisfied that Morocco has made sufficient progress in addressing its remaining key deficiency of criminalising terrorist financing. While Morocco has completed the other elements of its action plan, Morocco should work with the FATF and MENAFATF on addressing this remaining deficiency by enacting the necessary legislation.
+
+> Tajikistan
+>
+> Despite Tajikistan’s high-level political commitment to work with the FATF and EAG to address its strategic AML/CFT deficiencies, the FATF is not yet satisfied that Tajikistan has made sufficient progress in implementing its action plan, and certain strategic AML/CFT deficiencies remain. Tajikistan should continue to work with the FATF and EAG on implementing its action plan to address these deficiencies, including by (1) addressing remaining issues regarding criminalisation of money laundering and terrorist financing; (2) establishing and implementing adequate procedures for the confiscation of funds related to money laundering and identifying and freezing terrorist assets; (3) addressing the remaining issues relating to the Financial Intelligence Unit, suspicious transaction reporting requirements, and customer due diligence measures. The FATF encourages Tajikistan to address its remaining deficiencies and continue the process of implementing its action plan.
+
+> Jurisdictions no longer subject to the FATF’s on-going global AML/CFT compliance process
+>
+> Ghana
+>
+> The FATF welcomes Ghana’s significant progress in improving its AML/CFT regime and notes that Ghana has established the legal and regulatory framework to meet its commitments in its Action Plan regarding the strategic deficiencies that the FATF had identified in October 2010. Ghana is therefore no longer subject to FATF’s monitoring process under its on-going global AML/CFT compliance process. Ghana will work with the GIABA as it continues to address the full range of AML/CFT issues identified in its Mutual Evaluation Report.
+>
+> Venezuela
+>
+> The FATF welcomes Venezuela’s significant progress in improving its AML/CFT regime and notes that Venezuela has established the legal and regulatory framework to meet its commitments in its Action Plan regarding the strategic deficiencies that the FATF had identified in October 2010. Venezuela is therefore no longer subject to FATF’s monitoring process under its on-going global AML/CFT compliance process. Venezuela will work with the CFATF as it continues to address the full range of AML/CFT issues identified in its Mutual Evaluation Report.
+
+FinCEN Guidance
+
+U.S. financial institutions should consider the risks associated with the AML/CFT deficiencies of jurisdictions in the FATF publication entitled: ’Improving Global AML/CFT Compliance: On-Going Process ’ 22 February 2013:’ **Afghanistan, Albania, Algeria, Angola, Antigua and Barbuda, Argentina, Bangladesh, Bolivia, Brunei Darussalam, Cambodia, Cuba, Kuwait, Kyrgyzstan, Mongolia, Morocco, Namibia, Nepal, Nicaragua, Philippines, Sri Lanka, Sudan, Thailand, Tajikistan, and Zimbabwe.**
+
+With respect to these jurisdictions, U.S. financial institutions are reminded of their obligations to comply with the general due diligence obligations under 31 CFR ’ 1010.610(a).
+
+As required under 31 CFR ’ 1010.610(a), covered financial institutions should ensure that their due diligence programs, which address correspondent accounts maintained for foreign financial institutions, include appropriate, specific, risk-based, and, where necessary, enhanced policies, procedures, and controls that are reasonably designed to detect and report known or suspected money laundering activity conducted through or involving any correspondent account established, maintained, administered, or managed in the United States.
+
+Additionally, as required under 31 CFR ’’ 1020.320, 1021.320, 1022.320, 1023.320, 1024.320, 1025.320, and 1026.320, if a financial institution knows, suspects, or has reason to suspect that a transaction involves funds derived from illegal activity or that a customer has otherwise engaged in activities indicative of money laundering, terrorist financing, or other violation of federal law or regulation, the financial institution shall then file a Suspicious Activity Report.
+
+---
+
+---
+
+1 The FATF is a 36-member inter-governmental policy-making body whose purpose is to establish international standards and develop and promote policies, both at national and international levels, to combat money laundering and counter the financing of terrorism and proliferation of weapons of mass destruction (WMD). See [www.fatf-gafi.org](http://www.fatf-gafi.org). The United States is a member of the FATF. All of FATF’s public statements are available, at <http://www.fatf-gafi.org/topics/high-riskandnon-cooperativejurisdictions/>.   
+2 The FATF issued two documents: (i) a public statement, at <http://www.fatf-gafi.org/topics/high-riskandnon-cooperativejurisdictions/documents/fatfpublicstatement22february2013.html>; and (ii) a publication entitled ’Improving Global AML/CFT Compliance: On-Going Process - 22 February 2013’ at <http://www.fatf-gafi.org/topics/high-riskandnon-cooperativejurisdictions/documents/improvingglobalamlcftcomplianceon-goingprocess-22february2013.html>.   
+3See [https://fincen.gov/resources/advisories/fincen-advisory-fin-2013-a004](/resources/advisories/fincen-advisory-fin-2013-a004)  
+4 See ’Declaration on Strengthening the Financial System: London Summit, April 2, 2009,’ at<http://www.treasury.gov/resource-center/international/g7-g20/Documents/London%20April%202009%20Fin_Deps_Fin_Reg_Annex_020409_-_1615_final.pdf> and ’Leaders’ Statement: The Pittsburgh Summit, September 24 - 25, 2009,’ at <http://www.treasury.gov/resource-center/international/g7-g20/Documents/pittsburgh_summit_leaders_statement_250909.pdf?bcsi_scan_D92198957E035F0B=lUBct6cE6cl6JeuGQT0yT3RFdOAZAAAAmn19Gw==&bcsi_scan_filename=pittsburgh_summit_leaders_statement_250909.pdf>  
+5 See ’The G-20 Seoul Summit Leaders’ Declaration, November 11-12, 2010,’ at ><http://www.treasury.gov/resource-center/international/Documents/1%20%20FINAL%20SEOUL%20COMMUNIQUE.pdf> and ’The G-20 Toronto Summit Declaration, June 26-27, 2010,’ at <http://www.treasury.gov/resource-center/international/Documents/The%20G-20%20Toronto%20Summit%20Declaration.pdf>  
+6See [https://fincen.gov/resources/advisories/fincen-advisory-fin-2013-a004](/resources/advisories/fincen-advisory-fin-2013-a004)  
+  
+7The text makes reference to the relevant FATF-style regional bodies (FSRBs) with whom FATF will continue to work to address the deficiencies identified. These FSRBs include: Caribbean Financial Action Task Force (CFATF); the Committee of Experts on the Evaluation of Anti-Money Laundering Measures and the Financing of Terrorism (MONEYVAL); Financial Action Task Force of South America Against Money Laundering (GAFISUD); Asia/Pacific Group on Money Laundering (APG); Eastern and Southern Africa Anti-Money Laundering Group (ESAAMLG); Middle East & North Africa Financial Action Task Force (MENAFATF); Eurasian group (EAG); and Intergovernmental Anti-Money Laundering Group in Africa (GIABA).
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

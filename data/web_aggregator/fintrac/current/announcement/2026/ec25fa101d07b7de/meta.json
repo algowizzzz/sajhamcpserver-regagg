@@ -1,0 +1,24 @@
+{
+  "doc_id": "ec25fa101d07b7de",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "R\u00e9pondre aux demandes de pr\u00e9cisions, Mettre \u00e0 jour, Renouveler or Annuler votre inscription",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/msb-esm/register-inscrire/respond-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0a2fc95b62d62f046b71c985e068267f3ae33bddaf45cbf51e147aea33900eb9",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/ec25fa101d07b7de",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

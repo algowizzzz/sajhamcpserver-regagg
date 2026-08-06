@@ -1,0 +1,1 @@
+Summary: # Avis aux entités déclarantes

@@ -1,0 +1,1 @@
+Summary: # Crowdfunding platforms and certain payment service providers must register with FINTRAC and the definition of "EFT" has been amended

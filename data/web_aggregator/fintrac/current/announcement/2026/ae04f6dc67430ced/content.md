@@ -1,0 +1,640 @@
+# Nouvelles de CANAFE
+
+* [YouTube](https://youtube.com/@canafe_canada)
+* [Twitter](https://x.com/CANAFE_Canada)
+* [Sign In | LinkedIn](https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGX80MvTRF9mQAAAX0vkIRgJxbo-55jR_NJa6WnSkdYGwwvVYBYC1n8cQku5pdeUuYlcfrdEk6y_SgjTGtEvicSi_G88XsUR772Ah7tkIYCu22geJCMupTJ_DP37-2KU_PSFbo=&originalReferer=https://www.canada.ca/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Ffintrac-canafe%2Fabout%2F)
+* [RSS](/rss/rss-fra.xml)
+
+Nouveautés
+
+Section pour quoi de neuf
+
+| Date | Sujet |
+| [ 2026-07-28 ] | [Communiqué de presse : Arrestations dans le cadre de la plus importante affaire de traite de personnes de l’histoire de la Police régionale de Halton (en anglais seulement)](https://www.haltonpolice.ca/news-releases/posts/arrests-made-in-largest-human-trafficking-case-in-hrps-history/) |
+| [ 2026-07-21 ] | [Communiqué de presse : Traite de personnes: 3 arrestations lors d’une enquête conjointe; on recherche d’autres victimes](https://www.ottawapolice.ca/fr/news/joint-human-trafficking-investigation-leads-to-three-arrests-police-seek-additional-victims.aspx) |
+| [ 2026-07-16 ] | [Communiqué de presse : La police de Toronto porte plus de 100 accusations supplémentaires à la suite d’une enquête conjointe sur l’agression et l’exploitation sexuelles d’enfants (en anglais seulement)](https://www.tps.ca/media-centre/news-releases/66292/) |
+| [ 2026-07-15 ] | [Le 15 juillet 2026 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2026-07-15-fra) |
+| [ 2026-07-15 ] | [Communiqué de presse : La GRC perturbe et démantèle un laboratoire de drogues synthétiques situé en Ontario](https://grc.ca/fr/nouvelles/2026/07/4354860) |
+| [ 2026-07-09 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à VIP Realty Inc.](/new-neuf/nr/2026-07-09-2-fra) |
+| [ 2026-07-09 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Société des loteries de l’Atlantique Inc.](/new-neuf/nr/2026-07-09-1-fra) |
+| [ 2026-06-25 ] | [Communiqué de presse : En payer le prix : un consultant en immigration non autorisé condamné pour avoir éludé plus de 112 000 $ d’impôt](https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/20260625-consultant-immigration-condamne-elude-impot.html) |
+| [ 2026-06-23 ] | [CANAFE met à jour sa directive, son document technique et son formulaire de déclaration associés à la directive ministérielle sur la République islamique d’Iran](/obligations/dir-iri-fra#s5) |
+| [ 2026-06-22 ] | [Communiqué de presse : Perquisitions en matière de trafic de stupéfiants et de recyclage des produits de la criminalité](https://www.sq.gouv.qc.ca/communiques/perquisitions-en-matiere-de-trafic-de-stupefiants-et-de-recyclage-des-produits-de-la-criminalite/) |
+| [ 2026-06-22 ] | [CANAFE met à jour sa directive sur l’échange de renseignements entre entités déclarantes](/guidance-directives/sharing-echange/sharing-echange-fra#s7 ) |
+| [ 2026-06-18 ] | [CANAFE publie une vidéo pour le secteur des prêts hypothécaires](/training-formation/mortgage-hypotheque/video3-fra) |
+| [ 2026-06-17 ] | [Communiqué de presse : Plus de 300 000 vapoteuses illégales saisies et des comptes en banque totalisant 1 800 000 $ bloqués](https://www.sq.gouv.qc.ca/communiques/plus-de-300-000-vapoteuses-illegales-saisies-et-des-comptes-en-banque-totalisant-1-800-000-bloques/) |
+| [ 2026-06-16 ] | [Communiqué de presse : L’Équipe mixte de lutte contre les infractions graves dépose des accusations contre Douglas John Vermeeren en vertu de la Loi sur les valeurs mobilières (en anglais seulement)](https://www.asc.ca/News-and-Publications/News-Releases/2026/06/15-JSOT-charges-Douglas-John-Vermeeren-under-the-Securities-Act) |
+| [ 2026-05-28 ] | [Communiqué de presse : Une personne inculpée à la suite d’une enquête sur la traite de personnes (en anglais seulement)](https://www.reginapolice.ca/2026/05/27/one-charged-in-human-trafficking-investigation/) |
+| [ 2026-05-28 ] | [Communiqué de presse : CANAFE publie des indicateurs de blanchiment d’argent lié à la traite de personnes et aux grands événements internationaux de sport et de divertissement](/new-neuf/nr/2026-05-28-fra) |
+| [ 2026-05-26 ] | [Communiqué de presse : Un groupe de travail sur l’extorsion démantèle un groupe criminel international ciblant une communauté sud-asiatique (en anglais seulement)](https://www.peelpolice.ca/news-feed/posts/extortion-task-force-takes-down-international-criminal-group-targeting-south-asian-community/) |
+| [ 2026-05-21 ] | [Une enquête interprovinciale sur le trafic de drogue aboutit à la plus importante saisie de drogue illicite de l'histoire du Manitoba; 33 personnes ont été arrêtées (en anglais seulement)](https://www.winnipeg.ca/police/community/news-releases/2026-05-20-interprovincial-drug-investigation-leads-largest-illicit-drug-seizure-manitoba-history-33 ) |
+| [ 2026-05-21 ] | [Communiqué de presse : La GRC porte des accusations dans la foulée d’une cyberfraude ciblant la PCU](https://grc.ca/fr/nouvelles/2026/05/4353253 ) |
+| [ 2026-05-14 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à 13010431 Canada Inc.](/new-neuf/nr/2026-05-14-fra) |
+| [ 2026-05-11 ] | [Communiqué de presse : Une enquête de fraude aux subventions salariales commise par voie électronique mène à des poursuites](https://grc.ca/fr/nouvelles/2026/05/4352894  ) |
+| [ 2026-05-06 ] | [Changements apportés au cadre de pénalités administratives pécuniaires](/pen/3-fra) |
+| [ 2026-05-05 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Birks Group Inc.](/new-neuf/nr/2026-05-05-2-fra) |
+| [ 2026-05-05 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à RE/MAX Twin City Realty Inc.](/new-neuf/nr/2026-05-05-1-fra) |
+| [ 2026-05-05 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à VersaBank](/new-neuf/nr/2026-05-05-fra) |
+| [ 2026-04-24 ] | [Communiqué de presse : Sejean Reid et Whitney Charles accusés de fraude et de blanchiment d’argent (en anglais seulement)](https://www.osc.ca/fr/nouvelles-evenements/nouvelles/sejean-reid-and-whitney-charles-charged-fraud-and-money-laundering) |
+| [ 2026-04-23 ] | [Notes d’allocution pour Sarah Paquet, Directrice et PDG de CANAFE auprès de l’Institut C.D. Howe](/new-neuf/ps-pa/2026-04-23-fra) |
+| [ 2026-04-23 ] | [Communiqué de presse : CANAFE publie des indicateurs de blanchiment d’argent liés à l’extorsion](/new-neuf/nr/2026-04-23-fra) |
+| [ 2026-04-21 ] | [Communiqué de presse : La GRC démantèle un réseau de distribution de cannabis de plusieurs millions de dollars](https://grc.ca/fr/nouvelles/2026/04/4352324 ) |
+| [ 2026-04-16 ] | [Mise en œuvre de modifications législatives](/businesses-entreprises/changes-changements-fra) |
+| [ 2026-03-27 ] | [Communiqué de presse : Un homme arrêté dans le cadre d’une enquête sur du matériel d’exploitation sexuelle d’enfants, secteur de l’avenue Kenilworth Nord et de la rue Cannon, secteur de la ville de Hamilton (en anglais seulement)](https://www.tps.ca/media-centre/news-releases/man-arrested-in-child-sexual-abuse-material-invest-25/) |
+| [ 2026-03-23 ] | [Deuxième édition du FIASSF : Risques et possibilités liés à l’IA : Adoption d’un cadre AGILE dans les services financiers canadiens](https://www.osfi-bsif.gc.ca/fr/propos-du-bsif/rapports-publications/deuxieme-edition-du-fiassf-risques-possibilites-lies-lia-adoption-dun-cadre-agile-dans-services) |
+| [ 2026-03-06 ] | [Communiqué de presse : Le projet Fletcher mène à huit arrestations ; cinq suspects sont toujours recherchés (en anglais seulement)](https://www.drps.ca/news/posts/project-fletcher-results-in-eight-arrests-five-suspects-still-sought/) |
+| [ 2026-03-02 ] | [Le 2 mars 2026 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2026-03-02-fra) |
+| [ 2026-02-25 ] | [CANAFE publie une vidéo sur les exigences relatives aux bénéficiaires effectifs](/training-formation/web/beneficial-beneficiaire-fra) |
+| [ 2026-02-19 ] | [Le gouvernement annonce de nouvelles mesures pour aider à protéger la population canadienne et les entreprises contre l’extorsion](https://www.canada.ca/fr/ministere-finances/nouvelles/2026/02/le-gouvernement-annonce-de-nouvelles-mesures-pour-aider-a-proteger-la-population-canadienne-et-les-entreprises-contre-lextorsion.html) |
+| [ 2026-02-19 ] | [Document d'information : Profils d'indicateurs ciblés sur le blanchiment des produits de l'extorsion](/intel/extortion-extorsion/profiles-profils-fra) |
+| [ 2026-02-19 ] | [Document d'information : Travailler en partenariat avec le secteur privé pour lutter contre l'extorsion](/intel/extortion-extorsion/partner-partenaire-fra) |
+| [ 2026-02-19 ] | [Document d'information : Création d'une nouvelle fonction de liaison pour appuyer les efforts de lutte contre l'extorsion](/intel/extortion-extorsion/liaison-fra) |
+| [ 2026-02-12 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Manor Windsor Realty Ltd.](/new-neuf/nr/2026-02-12-fra) |
+| [ 2026-02-10 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Century 21 Heritage Group Ltd.](/new-neuf/nr/2026-02-10-fra) |
+| [ 2026-02-06 ] | [Communiqué de presse : Jawad Rathore et Vincenzo Petrozza sont reconnus coupables et condamnés pour placement hypothécaire consortial frauduleux dans l’affaire Fortress](https://grc.ca/fr/nouvelles/2026/02/4349996) |
+| [ 2026-02-05 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Commerciale I.C. - Pacific Inc.](/new-neuf/nr/2026-02-05-fra) |
+| [ 2026-02-05 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à TreasureMeta Corporation](/new-neuf/nr/2026-02-05-1-fra) |
+| [ 2025-12-19 ] | [Communiqué de presse : Un homme de Toronto est arrêté pour terrorisme](https://grc.ca/fr/nouvelles/2025/12/4348591) |
+| [ 2025-12-19 ] | [Communiqué de presse : La BCSC conclut un accord avec une entreprise d’équipement d’alimentation pour véhicules électriques de la Colombie-Britannique (en anglais seulement)](https://www.bcsc.bc.ca/about/media-room/news-releases/2025/93-bcsc-settles-with-bc-based-electric-vehicle-supply-equipment-company) |
+| [ 2025-12-18 ] | [Communiqué de presse : Homme arrêté dans le cadre d’une enquête sur du matériel d’abus et d’exploitation pédosexuels, secteur du chemin York Mills et de la rue Leslie (en anglais seulement)](https://www.tps.ca/media-centre/news-releases/64788/) |
+| [ 2025-12-18 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à MP Technology Services Ltd.](/new-neuf/nr/2025-12-18-fra) |
+| [ 2025-12-17 ] | [Communiqué de presse : Enquête portant sur le vol de voitures à grande échelle ciblant celles et ceux qui facilitent l'exportation - accusations portées contre le crime organisé et le blanchiment d'argent](https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/12/enquete-portant-sur-le-vol-de-voitures-a-grande-echelle-ciblant-celles-et-ceux-qui-facilitent-lexportation---accusations-portees-contre-le-crime-or.html) |
+| [ 2025-12-11 ] | [Communiqué de presse : Une enquête de la CVMO a mené à des accusations pour fraude contre Smart Prime Group (en anglais seulement)](https://www.osc.ca/en/news-events/news/osc-investigation-leads-fraud-charges-smart-prime-group) |
+| [ 2025-12-11 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Juba Express Inc.](/new-neuf/nr/2025-12-11-fra) |
+| [ 2025-12-09 ] | [Communiqué de presse : L'ASFC inflige une amende de 36,9 millions de dollars à un entrepreneur de l'Ontario pour avoir omis de déclarer des véhicules exportés](https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/12/lasfc-inflige-une-amende-de-369-millions-de-dollars-a-un-entrepreneur-de-lontario-pour-avoir-omis-de-declarer-des-vehicules-exportes.html) |
+| [ 2025-12-08 ] | [CANAFE publie une vidéo sur les obligations en matière de conformité](/training-formation/about-apropos/video-fra) |
+| [ 2025-12-04 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Griffin Jewellery Designs Inc.](/new-neuf/nr/2025-12-04-fra) |
+| [ 2025-12-02 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Global Currency Exchange](/new-neuf/nr/2025-12-02-fra) |
+| [ 2025-11-28 ] | [Le 28 novembre 2025 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2025-11-28-fra) |
+| [ 2025-11-27 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Synergy Credit Union](/new-neuf/nr/2025-11-27-1-fra) |
+| [ 2025-11-27 ] | [CANAFE publie des indicateurs de blanchiment d'argent mis à jour visant à lutter contre l'exploitation sexuelle des enfants en ligne](/new-neuf/nr/2025-11-27-fra) |
+| [ 2025-11-26 ] | [CANAFE met à jour sa directive sur les personnes politiquement vulnérables et les dirigeants d’une organisation internationale pour tenir compte de la corruption](/guidance-directives/client-clientele/pep/pep-fra#s8) |
+| [ 2025-11-26 ] | [CANAFE publie des indicateurs de blanchiment d’argent liés à la corruption](/guidance-directives/guidance-directives-fra#s3) |
+| [ 2025-11-21 ] | [Communiqué de presse : Quatre hommes opérant comme un groupe criminel arrêtés par le Groupe de lutte contre les crimes de rue du Sud-Ouest de la Nouvelle-Écosse](https://grc.ca/fr/nouvelle-ecosse/nouvelles/2025/11/4347764) |
+| [ 2025-11-20 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Houston & Associates Realty Ltd.](/new-neuf/nr/2025-11-20-5-fra) |
+| [ 2025-11-20 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à HomeLife New World Realty Inc.](/new-neuf/nr/2025-11-20-4-fra) |
+| [ 2025-11-20 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Pacesetter Marketing Ltd.](/new-neuf/nr/2025-11-20-2-fra) |
+| [ 2025-11-20 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à LeHomes Realty Premier](/new-neuf/nr/2025-11-20-3-fra) |
+| [ 2025-11-20 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à 9321-0599 Québec Inc.](/new-neuf/nr/2025-11-20-1-fra) |
+| [ 2025-11-17 ] | [CANAFE met à jour sa directive liée à la directive ministérielle associée à la République islamique d’Iran](/obligations/dir-iri-fra) |
+| [ 2025-11-04 ] | [Communiqué de presse : L’Équipe mixte de lutte contre les infractions graves porte des accusations criminelles contre Alexander (Alex) Francis Ongoma (en anglais seulement)](https://www.asc.ca/en/News-and-Publications/News-Releases/2025/11/3-JSOT-criminally-charges-Alexander-Francis-Ongoma) |
+| [ 2025-11-03 ] | [Rapport sur L’atelier sur la criminalité financière, dans le cadre de la deuxième édition du forum sur l’intelligence artificielle dans le secteur des services financiers : Une approche collaborative à l’égard des menaces, possibilités et pratiques exemplaires liées à l’intelligence artificielle (site web externe)](https://globalriskinstitute.org/publication/fifai-ii-interim-2/) |
+| [ 2025-11-03 ] | [CANAFE publie une directive sur l’échange de renseignements entre entités déclarantes](/guidance-directives/sharing-echange/sharing-echange-fra) |
+| [ 2025-10-30 ] | [Communiqué de presse : CANAFE publie son Rapport annuel de 2024-2025, Canadiens en sécurité, économie sûre](/new-neuf/nr/2025-10-30-fra) |
+| [ 2025-10-22 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Xeltox Enterprises Ltd.](/new-neuf/nr/2025-10-22-fra) |
+| [ 2025-10-16 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Banque des Premières Nations](/new-neuf/nr/2025-10-16-fra) |
+| [ 2025-10-10 ] | [Communiqué de presse : Le président d’une société d’opérations de change inculpé après avoir détourné des millions](https://grc.ca/fr/nouvelles/2025/10/president-dune-societe-doperations-change-inculpe-apres-avoir-detourne-millions) |
+| [ 2025-10-09 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à DMCL Chartered Professional Accountants](/new-neuf/nr/2025-10-09-fra) |
+| [ 2025-10-03 ] | [Communiqué de presse : Arrestation effectuée suivant une enquête sur la traite de personne (en anglais seulement)](https://www.haltonpolice.ca/en/news/arrest-made-in-human-trafficking-investigation.aspx) |
+| [ 2025-10-02 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à HRA Group Holdings](/new-neuf/nr/2025-10-02-fra) |
+| [ 2025-10-01 ] | [Exigences relatives à la déclaration en vertu de la Loi sur les mesures économiques spéciales ou de la Loi sur la justice pour les victimes de dirigeants étrangers corrompus en vigueur à compter du 1er octobre 2025](/guidance-directives/transaction-operation/Guide5/5-fra) |
+| [ 2025-10-01 ] | [CANAFE met à jour sa directive sur les bénéficiaires effectifs : déclaration des écarts](/guidance-directives/client-clientele/bor-fra#s4) |
+| [ 2025-10-01 ] | [CANAFE met à jour ses directives à l’intention des entreprises de services monétaires : Utilisation de mandataires](/msb-esm/msb-fra) |
+| [ 2025-09-26 ] | [Communiqué de presse : La GRC de l'Ontario démantèle l'un des plus importants réseaux connus de trafic de drogue sur le « dark Web »](https://grc.ca/fr/nouvelles/2025/09/grc-lontario-demantele-lun-plus-importants-reseaux-connus-trafic-drogue-sur-dark-web) |
+| [ 2025-09-25 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Peken Global Limited (KuCoin)](/new-neuf/nr/2025-09-25-fra) |
+| [ 2025-09-23 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Spence Diamonds Ltd.](/new-neuf/nr/2025-09-23-fra) |
+| [ 2025-09-19 ] | [Communiqué de presse : La GRC procède à une saisie record de plus de 56 millions de dollars en cryptomonnaies](https://grc.ca/fr/nouvelles/2025/09/grc-procede-saisie-record-plus-56-millions-dollars-en-cryptomonnaies) |
+| [ 2025-09-18 ] | [Communiqué de presse : Mise à jour : Le projet Cerberus démantèle un groupe de crime organisé transnational (en anglais seulement)](https://alert-ab.ca/update-project-cerberus-dismantles-transnational-organized-crime-group/) |
+| [ 2025-09-18 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Primary Capital Inc.](/new-neuf/nr/2025-09-18-fra) |
+| [ 2025-09-15 ] | [CANAFE met à jour ses directives sur le recours à un mandataire à partir du 1er octobre 2025](/guidance-directives/client-clientele/Guide11/11-fra) |
+| [ 2025-09-15 ] | [CANAFE met à jour ses directives sur les dossiers de renseignements à l’égard des parties non représentées dans les opérations immobilières à partir du 1er octobre 2025](/guidance-directives/recordkeeping-document/record/real-fra#x5) |
+| [ 2025-09-12 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Saskatchewan Indian Gaming Authority](/new-neuf/nr/2025-09-12-fra) |
+| [ 2025-09-09 ] | [Exigences applicables aux services d’acquéreur à l’égard de guichets automatiques privés à partir du 1er octobre 2025](/re-ed/abm-gap-fra) |
+| [ 2025-09-09 ] | [Exigences applicables aux assureurs de titres à partir du 1er octobre 2025](/re-ed/title-titre-fra) |
+| [ 2025-09-08 ] | [Communiqué de presse : L’Équipe intégrée des infractions graves porte des accusations criminelles contre Yuvraj Verma et Rohit Sethi (en anglais seulement)](https://www.asc.ca/News-and-Publications/News-Releases/2025/09/5-JSOT-criminally-charges-Yuvraj-Verma-and-Rohit-Sethi) |
+| [ 2025-09-04 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Canadian National Exhibition Association](/new-neuf/nr/2025-09-04-fra) |
+| [ 2025-08-28 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la British Columbia Lottery Corporation](/new-neuf/nr/2025-08-28-fra) |
+| [ 2025-08-22 ] | [Évaluation nationale des risques](/businesses-entreprises/assessment-evaluation-fra) |
+| [ 2025-08-12 ] | [Communiqué de presse : Une importante escroquerie commise à des guichets automatiques bancaires dans un casino de l’Alberta débouche sur des accusations de blanchiment d’argent et de fraude](https://grc.ca/fr/nouvelles/2025/08/importante-escroquerie-commise-guichets-automatiques-bancaires-dans-casino-lalberta-debouche-sur) |
+| [ 2025-08-06 ] | [CANAFE met à jour sa politique sur les pénalités administratives pécuniaires](/pen/2-fra) |
+| [ 2025-08-06 ] | [CANAFE publie son cadre de surveillance](/introduction/cpf/cpf-fra) |
+| [ 2025-07-18 ] | [Communiqué de presse : L’ASC affirme que les lois de l’Alberta sur les valeurs mobilières ont été violées par une plateforme de négociation de cryptoactifs (en anglais seulement)](https://www.asc.ca/en/news-and-publications/news-releases/2025/07/17-asc-alleges-breach-of-alberta-securities-laws-by-crypto-asset-trading-platform-catalx-cts-ltd) |
+| [ 2025-07-17 ] | [Avis sur les travailleurs des technologies de l’information nord-coréens](https://grc.ca/fr/nouvelles/2025/07/avis-sur-travailleurs-technologies-linformation-ti-nord-coreens) |
+| [ 2025-07-14 ] | [Mise à jour de la directive concernant la directive ministérielle sur la République islamique d’Iran : Précisions au sujet des opérations et des instructions de déclaration](/obligations/dir-iri-fra) |
+| [ 2025-07-11 ] | [Bulletin spécial sur les activités financières associées au contournement des sanctions de lutte contre la prolifération](/intel/bulletins/proliferation-fra) |
+| [ 2025-07-10 ] | [CANAFE met à jour les directives pour les entreprises d’encaissement de chèques](/re-ed/cheque-fra) |
+| [ 2025-07-10 ] | [CANAFE met à jour les directives pour les affactureurs](/re-ed/fact-affact-fra) |
+| [ 2025-07-10 ] | [CANAFE met à jour les directives pour les entités de financement ou de bail](/re-ed/lease-bail-fra) |
+| [ 2025-07-09 ] | [Le 9 juillet 2025 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2025-07-02-fra) |
+| [ 2025-07-03 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Canaccord Genuity Corp.](/new-neuf/nr/2025-07-03-fra) |
+| [ 2025-07-02 ] | [Communiqué de presse : L’Équipe intégrée d’enquête sur le blanchiment d’argent dépose 29 accusations en lien avec un stratagème de blanchiment d’argent d’une valeur de 40 M$](https://grc.ca/fr/nouvelles/2025/06/lequipe-integree-denquete-sur-blanchiment-dargent-depose-29-accusations-en-lien-avec-stratageme) |
+| [ 2025-06-23 ] | [Communiqué de presse : Mise à jour : Le projet Leadline met au jour un réseau de trafic de drogues et de blanchiment d’argent (en anglais seulement)](https://alert-ab.ca/update-project-leadline-uncovers-drug-network-money-laundering/) |
+| [ 2025-06-12 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Hub Capital Inc.](/new-neuf/nr/2025-06-12-fra) |
+| [ 2025-06-10 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Cambrian Credit Union](/new-neuf/nr/2025-06-10-fra) |
+| [ 2025-06-09 ] | [Communiqué de presse : Arrestation par la GRC d’un individu qui exportait des technologies interdites vers la Russie](https://www.rcmp-grc.gc.ca/fr/nouvelles/2025/arrestation-grc-dun-individu-exportait-des-technologies-interdites-vers-russie) |
+| [ 2025-06-02 ] | [Communiqué de presse : Michael Baron conclut un règlement avec l’ASC pour avoir manipulé le marché (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2025/06/2-michael-baron-settles-with-the-asc-for-market-manipulation) |
+| [ 2025-05-29 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Crystal Currency Exchange Inc.](/new-neuf/nr/2025-05-29-fra) |
+| [ 2025-05-27 ] | [Communiqué de presse : Deux personnes accusées de blanchiment et de fraude (en anglais seulement)](https://www.reginapolice.ca/2025/05/23/two-charged-with-laundering-and-fraud/) |
+| [ 2025-05-20 ] | [Communiqué de presse : Un comptable de Surrey falsifie les comptes et sous-déclare près d’un million de dollars en TPS/TVH](https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/2025-05-16-comptable-de-surrey-sous-declare-million.html ) |
+| [ 2025-05-15 ] | [Communiqué de presse : Un Canadien plaide coupable à des accusations de terrorisme](https://www.rcmp-grc.gc.ca/fr/nouvelles/2025/canadien-plaide-coupable-a-des-accusations-terrorisme) |
+| [ 2025-05-13 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Marouf Management Inc.](/new-neuf/nr/2025-05-13-fra) |
+| [ 2025-05-06 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Immeubles Village Pointe-Claire Inc.](/new-neuf/nr/2025-05-06-fra) |
+| [ 2025-05-01 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Immeubles Jack Sera Inc.](/new-neuf/nr/2025-05-01-fra) |
+| [ 2025-04-24 ] | [Communiqué de presse : L'OSC porte des accusations de fraude contre Ryan Rumble, Michael Dziedzic et Justin Foss. (en anglais seulement)](https://www.osc.ca/en/news-events/news/osc-charges-ryan-rumble-michael-dziedzic-and-justin-foss-fraud ) |
+| [ 2025-04-17 ] | [Communiqué de presse : Le projet Glacier mène au démantèlement d’une organisation criminelle de Grande Prairie (en anglais seulement)](https://alert-ab.ca/project-glacier-dismantles-grande-prairie-criminal-organization/ ) |
+| [ 2025-03-27 ] | [Communiqué de presse : La GRC démantèle un réseau de production de cannabis qui comptait environ 17 000 plants illégaux](https://www.rcmp-grc.gc.ca/fr/nouvelles/2025/grc-demantele-reseau-production-cannabis-comptait-environ-17-000-plants-illegaux) |
+| [ 2025-03-26 ] | [Exigences applicables aux affactureurs à partir du 1er avril 2025](/re-ed/fact-affact-fra) |
+| [ 2025-03-26 ] | [Exigences applicables aux entreprises d’encaissement de chèques à partir du 1er avril 2025](/re-ed/cheque-fra) |
+| [ 2025-03-26 ] | [Exigences applicables aux entités de financement ou de bail à partir du 1er avril 2025](/re-ed/lease-bail-fra) |
+| [ 2025-03-26 ] | [Mise en œuvre des modifications annoncées dans le budget de 2024 concernant l’échange de renseignements entre les entités déclarantes et la déclaration de divergences en matière de bénéficiaires effectifs](/businesses-entreprises/changes-changements-fra) |
+| [ 2025-03-25 ] | [Communiqué de presse : Deux arrestations dans le cadre d’une enquête sur la traite de personnes (en anglais seulement)](https://www.haltonpolice.ca/en/news/two-arrested-in-human-trafficking-investigation.aspx) |
+| [ 2025-03-21 ] | [CANAFE publie des mises à jour à sa directive relative aux directives ministérielles : République populaire démocratique de Corée et Russie](/obligations/directives-fra) |
+| [ 2025-03-21 ] | [Le 21 mars 2025 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2025-03-21-fra) |
+| [ 2025-02-28 ] | [CANAFE publie une nouvelle directive et un nouveau formulaire pour déclarer les renseignements relatifs aux biens sanctionnés et appartenant à un groupe terroriste](/guidance-directives/transaction-operation/guide5/5-fra) |
+| [ 2025-02-26 ] | [Communiqué de presse : Une opération nationale ciblant le fentanyl a mené à d’importantes saisies](https://grc.ca/fr/nouvelles/2025/02/operation-nationale-ciblant-fentanyl-mene-dimportantes-saisies ) |
+| [ 2025-02-25 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à MSBG International Holdings Ltd.](/new-neuf/nr/2025-02-25-fra) |
+| [ 2025-02-20 ] | [Communiqué de presse : La GRC de l’Ontario met fin aux agissements de cyberfraudeurs prolifiques](https://www.rcmp-grc.gc.ca/fr/nouvelles/2025/grc-lontario-met-fin-aux-agissements-cyberfraudeurs-prolifiques) |
+| [ 2025-02-13 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Argosy Securities Inc.](/new-neuf/nr/2025-02-13-fra) |
+| [ 2025-02-06 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Cash Shop #27](/new-neuf/nr/2025-02-06-fra) |
+| [ 2025-02-05 ] | [Communiqué de presse : La police porte des accusations contre cinq personnes en rapport avec des fraudes d’identité et la falsification de documents (en anglais seulement)](https://www.lethbridgepolice.ca/news/posts/police-charge-five-people-in-connection-with-identity-frauds-forging-documents/) |
+| [ 2025-01-31 ] | [Communiqué de presse : Stratagème interprovincial de blanchiment d’argent à hauteur de 47 M$ : l’Équipe fédérale de la criminalité financière accuse un résident de la C.-B.](https://grc.ca/fr/nouvelles/2025/01/stratageme-interprovincial-blanchiment-dargent-hauteur-47-m-lequipe-federale-criminalite-financiere) |
+| [ 2025-01-27 ] | [Communiqué de presse : Le directeur d’une société minière de Thunder Bay condamné pour évasion fiscale](https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/directeur-societe-miniere-thunder-bay-condamne-evasion-fiscale.html ) |
+| [ 2025-01-23 ] | [Communiqué de presse : CANAFE publie des indicateurs de blanchiment d’argent visant à lutter contre le trafic de fentanyl et d’autres opioïdes synthétiques illégaux](/new-neuf/nr/2025-01-23-fra) |
+| [ 2024-12-11 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Banque de change du Canada](/new-neuf/nr/2024-12-11-fra) |
+| [ 2024-11-28 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Simple Canadian Services](/new-neuf/nr/2024-11-28-fra) |
+| [ 2024-11-26 ] | [Communiqué de presse : CANAFE publie son Rapport annuel de 2023-2024, Canadiens en sécurité, économie sûre](/new-neuf/nr/2024-11-26-fra) |
+| [ 2024-11-18 ] | [Le 18 novembre 2024 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2024-11-18-fra) |
+| [ 2024-11-06 ] | [Allocution d'ouverture de Sarah Paquet, Directrice et PDG de CANAFE lors de la Conférence d'Assembly Canada de l'ACAMS](/new-neuf/ps-pa/2024-11-06-fra) |
+| [ 2024-11-05 ] | [Communiqué de presse : L’Équipe mixte de lutte contre les infractions graves a déposé des accusations criminelles contre Thomas Norman David Fiddler de Lethbridge pour fraude et blanchiment d’argent (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2024/11/nov-4-jsot-criminally-charges-thomas-normal-david-fiddler-with-fraud-and-money-laundering) |
+| [ 2024-10-29 ] | [Communiqué de presse : Des arrestations à la suite de vols de banque armés en Ontario](https://www.opp.ca/nouvelles/#/viewnews/6720ee182703c) |
+| [ 2024-10-29 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Jones Lang Lasalle Real Estate Services, Inc.](/new-neuf/nr/2024-10-29-fra) |
+| [ 2024-10-22 ] | [Communiqué de presse : 6,3 kg de cocaïne sont retirés de la rue après une enquête conjointe avec le service de police de Brantford](https://www.rcmp-grc.gc.ca/fr/nouvelles/2024/63-kg-cocaine-sont-retires-rue-apres-enquete-conjointe-service-police-brantford) |
+| [ 2024-10-17 ] | [Communiqué de presse : Un fraudeur arrêté pour blanchiment d’argent via le système hawala](https://www.rcmp-grc.gc.ca/fr/nouvelles/2024/fraudeur-arrete-blanchiment-dargent-systeme-hawala) |
+| [ 2024-10-11 ] | [Communiqué de presse : Un résident de Brampton plaide coupable d’avoir omis de déclarer plus de 227 000 $ US à la frontière canadienne](https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2024/09/french.html) |
+| [ 2024-10-11 ] | [CANAFE met à jour les directives pour le secteur hypothécaire](/re-ed/mortgage-hypotheque-fra) |
+| [ 2024-10-11 ] | [Le CANAFE met à jour les directives sur la correspondance bancaire](/guidance-directives/relationship-relation/1-fra) |
+| [ 2024-10-08 ] | [CANAFE lance un outil d'auto-évaluation pour les entreprises du secteur des prêts pour vérifier si leurs activités seront visées par la Loi à partir du 11 octobre 2024](/re-ed/mortgage-hypotheque/1-fra) |
+| [ 2024-09-24 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à 1000085532 Ontario Inc.](/new-neuf/nr/2024-09-24-fra) |
+| [ 2024-09-19 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Coinseason Capital Inc.](/new-neuf/nr/2024-09-19-fra) |
+| [ 2024-09-12 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Canada Changjiang Management Ltd.](/new-neuf/nr/2024-09-12-fra) |
+| [ 2024-08-23 ] | [Communiqué de presse : Une enquête complexe sur le trafic de drogues aboutit à des accusations contre de gros narcotrafiquants](https://www.opp.ca/nouvelles/#/viewmediakit/66c7463e8608d) |
+| [ 2024-08-19 ] | [CANAFE met à jour sa directive sur la façon de déclarer le contournement soupçonné des sanctions dans une déclaration d’opérations douteuses](/guidance-directives/transaction-operation/str-dod/str-dod-fra) |
+| [ 2024-08-02 ] | [Le 2 août 2024 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2024-08-02-fra) |
+| [ 2024-08-01 ] | [Alerte opérationnelle : Blanchiment des produits de l’évasion fiscale dans l’immobilier](/intel/operation/tax-fiscale-fra) |
+| [ 2024-07-31 ] | [CANAFE met à jour son Registre des entreprises de services monétaires](/msb-esm/reg-fra) |
+| [ 2024-07-31 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Gestion de Patrimoine Blue Bridge Inc.](/new-neuf/nr/2024-07-31-fra) |
+| [ 2024-07-16 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Masters Realty (2000) Ltd.](/new-neuf/nr/2024-07-16-fra) |
+| [ 2024-07-11 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Metna General Trading Inc.](/new-neuf/nr/2024-07-11-fra) |
+| [ 2024-06-27 ] | [Communiqué de presse : Projet Uptown](https://www.opp.ca/nouvelles/#/viewmediakit/667c7e4d1024d) |
+| [ 2024-06-25 ] | [CANAFE publie une directive sur l’obligation de déclarer les opérations soupçonnées d'être liées au contournement des sanctions](/guidance-directives/transaction-operation/sanctions/sanctions-fra) |
+| [ 2024-06-24 ] | [CANAFE a mis à jour ses directives sur les déclarations de télévirements et les déclarations de déboursements de casino](/guidance-directives/guidance-directives-fra#s3) |
+| [ 2024-06-24 ] | [CANAFE termine la mise en œuvre des déclarations de télévirements et des déclarations de déboursements de casino modernisées dans l’API de soumission de déclarations de CANAFE](/reporting-declaration/Info/api/api-fra) |
+| [ 2024-06-11 ] | [Communiqué de presse : Mise à jour : Accusations portées à la suite d’une longue enquête sur des biens volés à Camrose (en anglais seulement)](https://alert-ab.ca/update-charges-laid-in-lengthy-camrose-stolen-property-investigation/) |
+| [ 2024-06-07 ] | [Communiqué de presse : Démantèlement d’un réseau international de passage de clandestins](https://www.rcmp-grc.gc.ca/fr/nouvelles/2024/demantelement-dun-reseau-international-passage-clandestins) |
+| [ 2024-05-16 ] | [Communiqué de presse : Une enquête conjointe mène à des accusations de fraude et de blanchiment d'argent contre le « roi de la crypto » autoproclamé et son associé (en anglais seulement)](https://www.osc.ca/en/news-events/news/joint-investigation-leads-fraud-money-laundering-charges-against-self-proclaimed-crypto-king-and) |
+| [ 2024-05-14 ] | [Le rôle des guichets automatiques de monnaie virtuelle dans le blanchiment des produits de la criminalité](/intel/advisories-avis/atm-ga-fra) |
+| [ 2024-05-10 ] | [Communiqué de presse : Le Service de police régional de Waterloo arrête un homme dans le cadre d'une enquête de fraude en matière d'investissement à grande échelle (en anglais seulement)](https://www.wrps.on.ca/en/news/wrps-arrest-male-in-connection-to-large-scale-investment-fraud-investigation.aspx) |
+| [ 2024-05-09 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Binance Holdings Limited](/new-neuf/nr/2024-05-09-fra) |
+| [ 2024-05-03 ] | [Déclaration sur l’utilisation de l’intelligence artificielle par CANAFE](/new-neuf/statement-declaration-24-05-03-fra) |
+| [ 2024-05-02 ] | [Communiqué de presse : L'Équipe mixte de lutte contre les infractions graves inculpe Kathleen Debra Kelley pour fraude et blanchiment d'argent (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2024/05/may-01-jsot-criminally-charges-kathleen-debra-kelley-with-fraud-and-money-laundering) |
+| [ 2024-05-02 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Banque Toronto-Dominion](/new-neuf/nr/2024-05-02-fra) |
+| [ 2024-05-01 ] | [Communiqué de presse : Enquête sur un trafic interprovincial de drogues (en anglais seulement)](https://www.winnipeg.ca/news/2024-05-01-inter-provincial-drug-investigation) |
+| [ 2024-05-01 ] | [Communiqué de presse : L’ASC affirme que Glenn Hunter, de Grande Prairie, et Kyle Watters, de Kelowna, et leurs entreprises, HW & Associates Inc. et HW TradeFX LLC, ont agi comme courtiers non inscrits (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2024/04/apr-30-asc-alleges-glenn-hunter-of-grande-prairie-and-kyle-watters-of-kelowna-and-their-companies) |
+| [ 2024-04-29 ] | [29 avril 2024 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d'action financière](/notices-avis/avs/2024-04-29-fra) |
+| [ 2024-04-18 ] | [Communiqué de presse : 14 arrestations pour fraude liée au besoin urgent d’argent- arnaque des grands-parents à travers le Canada](https://www.opp.ca/nouvelles/#/viewnews/6620fbd15d9cd) |
+| [ 2024-04-10 ] | [Communiqué de presse : L'ASC publie un avis d’audience concernant des allégations de système de manipulation du marché des actions de Softlab9 Software Solutions Inc. (en anglais seulement)](https://www.asc.ca/en/News-and-Publications/News-Releases/2024/04/Apr-09-ASC-alleges-market-manipulation-scheme-of-Softlab9-Software-Solutions-Inc-shares) |
+| [ 2024-04-09 ] | [Communiqué de presse : L'ASC prétend que Craig Michael Thompson, résident de Calgary, Black Box Management Corp. et Invader Management Ltd. ont enfreint les lois albertaines sur les valeurs mobilières (en anglais seulement)](https://www.asc.ca/en/news-and-publications/news-releases/2024/04/apr-05-asc-alleges-black-box-management-corp-and-invader-management-ltd-breached-securities-laws) |
+| [ 2024-04-08 ] | [Communiqué de presse : Un groupe criminel organisé manque de chance](https://www.rcmp-grc.gc.ca/fr/nouvelles/2024/groupe-criminel-organise-manque-chance) |
+| [ 2024-04-08 ] | [CANAFE met en œuvre son nouveau formulaire de déclaration d’opérations douteuses, qui peut maintenant être soumis au moyen de l’API de soumission de déclarations de CANAFE](/reporting-declaration/info/api/api-fra) |
+| [ 2024-02-23 ] | [Mise à jour de la directive liée à la directive ministérielle sur les opérations financières associées à la République islamique d’Iran : des précisions sur les exigences relatives aux opérations en monnaie virtuelle](/obligations/dir-iri-fra) |
+| [ 2024-02-23 ] | [Directive faisant suite à la directive ministérielle sur les opérations financières associées à la Russie publiée le 24 février 2024](/obligations/dir-rus-fra) |
+| [ 2024-02-20 ] | [Avis conjoint de renseignement financier : Acquisition illégale de marchandises à double usage par des utilisateurs russes (révisé)](/notices-avis/avs/2024-02-20-fra) |
+| [ 2024-01-17 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Global West Realty Limited](/new-neuf/nr/2024-01-17-fra) |
+| [ 2023-12-22 ] | [Communiqué de presse : La police a arrêté quatre personnes en lien avec une opération de blanchiment de millions de dollars (en anglais seulement)](https://newsroom.calgary.ca/media-advisory-police-arrest-four-people-in-multi-million-dollar-money-laundering-operation ) |
+| [ 2023-12-22 ] | [Communiqué de presse : David Del Bianco condamné à 4,5 ans de prison pour fraude et blanchiment d’argent (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2023/12/dec-20-david-del-bianco-sentenced ) |
+| [ 2023-12-21 ] | [Communiqué de presse : Déclaration du ministre sur l'importante confiscation des actifs de PacNet (en anglais seulement)](https://news.gov.bc.ca/releases/2023PSSG0093-002007) |
+| [ 2023-12-15 ] | [Document d’information : Changement apporté aux avis publics concernant les pénalités administratives pécuniaires](/pen/6-fra) |
+| [ 2023-12-14 ] | [Communiqué de presse : Trafic de stupéfiants : cocaïne et argent liquide saisis et de multiples accusations portées dans le cadre du projet Bustle](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/trafic-stupefiants-cocaine-et-argent-liquide-saisis-et-multiples-accusations-portees) |
+| [ 2023-12-08 ] | [Communiqué de presse : Deux hommes de l’Ontario arrêtés et accusés de terrorisme](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/deux-hommes-lontario-arretes-et-accuses-terrorisme) |
+| [ 2023-12-07 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Banque Canadienne Impériale de Commerce](/new-neuf/nr/2023-12-07-fra) |
+| [ 2023-12-06 ] | [Communiqué de presse : Le projet Decrypt de la GRC met au jour un stratagème de blanchiment d’argent au moyen de la cryptomonnaie](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/projet-decrypt-grc-met-au-jour-stratageme-blanchiment-dargent-au-moyen-cryptomonnaie) |
+| [ 2023-12-06 ] | [Groupe de travail de lutte contre le financement des activités terroristes – Israël : Déclaration publique du groupe de travail d’URF](/new-neuf/nr/2023-12-06-fra) |
+| [ 2023-12-05 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Banque Royale du Canada](/new-neuf/nr/2023-12-05-fra) |
+| [ 2023-11-23 ] | [Communiqué de presse : Deux individus accusés d’avoir exploité un bureau de change illégal](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/deux-individus-accuses-davoir-exploite-bureau-change-illegal) |
+| [ 2023-11-20 ] | [Le 20 novembre 2023 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2023-11-20-fra) |
+| [ 2023-11-16 ] | [Notes d'allocution pour Sarah Paquet, Directrice et présidente-directrice générale, Centre d’analyse des opérations et déclarations financières du Canada pour The Assembly Canada de l’ACAMS](/new-neuf/ps-pa/2023-11-16-fra) |
+| [ 2023-11-10 ] | [Communiqué de presse : L'ASC conclu qu'Ali Ghani, Prism, Summerside Development Trust et d'autres ont commis une fraude à l'égard d'investisseurs (en anglais seulement)](https://www.asc.ca/en/news-and-publications/news-releases/2023/11/nov-10-asc-finds-that-ali-ghani-prism-summerside-development-trust-perpetrated-a-fraud-on-investors) |
+| [ 2023-11-09 ] | [Communiqué de presse : Les gouvernements adoptent de nouvelles mesures pour lutter contre la criminalité financière qui alimente le commerce illicite d'espèces sauvages (en anglais seulement)](https://unitedforwildlife.org/news/international-statement-of-principles-announced/) |
+| [ 2023-10-31 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Austin Jewellers](/new-neuf/nr/2023-10-31-fra) |
+| [ 2023-10-27 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Norwich Real Estate Services Inc.](/new-neuf/nr/2023-10-27-fra) |
+| [ 2023-10-23 ] | [CANAFE met en œuvre des changements importants touchant le formulaire de déclaration d’opérations importantes en espèces, les directives, et l’API de soumission de déclarations](/businesses-entreprises/changes-changements-fra#s5) |
+| [ 2023-10-12 ] | [Modernisation et changements à venir ayant une incidence sur les entités déclarantes](/businesses-entreprises/changes-changements-fra) |
+| [ 2023-10-12 ] | [Facturer les entités déclarantes pour le programme de conformité de CANAFE à partir du 1er avril 2024](/guidance-directives/cost-cout/1-fra) |
+| [ 2023-10-12 ] | [Exigences applicables aux véhicules blindés à partir de 1er juillet 2024](/re-ed/cars-vehicules-fra) |
+| [ 2023-10-12 ] | [Exigences applicables au secteur des prêts hypothécaires à partir du 11 octobre 2024](/re-ed/mortgage-hypotheque-fra) |
+| [ 2023-10-05 ] | [Communiqué de presse : Le Groupe de la lutte contre le crime organisé du Manitoba dépose des accusations de blanchiment d’argent dans le cadre du projet DOOM](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/groupe-lutte-crime-organise-du-manitoba-depose-des-accusations-blanchiment-dargent) |
+| [ 2023-09-26 ] | [Communiqué de presse : La GRC fédérale et le département des enquêtes de la sécurité intérieure (Homeland Security Investigations - HSI) démantèlent un réseau international de trafiquants de drogue](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/grc-federale-et-departement-des-enquetes-securite-interieure-homeland-security) |
+| [ 2023-09-19 ] | [Communiqué de presse : Bilan d’opération – Trafic de stupéfiants](https://www.sq.gouv.qc.ca/communiques/bilan-doperation-trafic-de-stupefiants/  ) |
+| [ 2023-08-31 ] | [Effectuer des opérations avec une entreprise de services monétaires](/public/businesses-entreprises-fra) |
+| [ 2023-08-24 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à 857132 Ontario Limited](/new-neuf/nr/2023-08-24-fra) |
+| [ 2023-08-17 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Deshi Foreign Exchange Inc.](/new-neuf/nr/2023-08-17-fra) |
+| [ 2023-08-16 ] | [Communiqué de presse : Mise à jour : Soupçonné de traite de personne, un homme de Calgary fait face à des accusations supplémentaires (en anglais seulement)](https://alert-ab.ca/update-calgary-human-trafficking-suspect-facing-additional-charges/) |
+| [ 2023-08-10 ] | [Communiqué de presse : Le projet Odéon mène au démantèlement d'importants producteurs illégaux d'opioïdes (en anglais seulement)](https://hamiltonpolice.on.ca/news/project-odeon-dismantles-significant-illegal-opioid-producers/) |
+| [ 2023-08-10 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à The Centre Pacific Project Marketing Corp.](/new-neuf/nr/2023-08-10-fra) |
+| [ 2023-08-09 ] | [Communiqué de presse : Mise à jour : Accusations déposées dans le cadre du projet Carlos (en anglais seulement)](https://alert-ab.ca/update-charges-laid-in-project-carlos/) |
+| [ 2023-08-02 ] | [Vidéo 5 – Vérification de l'identité d'un client : méthode d'identification reposant sur les mesures prises par d’autres entités](/training-formation/id/id5-fra) |
+| [ 2023-07-31 ] | [Communiqué de presse : Dépôt d’accusations contre un financier de l’État islamique dans le cadre d’une enquête sur le financement d’activités terroristes](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/depot-daccusations-financier-letat-islamique-cadre-dune-enquete-financement) |
+| [ 2023-07-28 ] | [Communiqué de presse : Projet Safe 2023 (en anglais seulement)](https://www.londonpolice.ca/en/news/project-safe-2023.aspx) |
+| [ 2023-07-25 ] | [Indicateurs actualisés : Le recyclage des produits de la criminalité au moyen de stratagèmes bancaires clandestins](/intel/operation/ml-rec-fra) |
+| [ 2023-07-19 ] | [Communiqué de presse : Une opération conjointe de la police régionale de Peel permet de récupérer une importante quantité de cargaison volée (en anglais seulement)](https://www.peelpolice.ca/Modules/News/index.aspx?feedId=f812883f-9f6d-4ef7-a039-4f196f1f57eb,24cde32a-aa5c-4166-a2b3-26722a001fb4&newsId=d50b1a7a-8e08-4f98-8bcf-4dc4ae142c1e) |
+| [ 2023-07-17 ] | [Le 17 juillet 2023 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2023-07-17-fra) |
+| [ 2023-07-07 ] | [Communiqué de presse : L’EITSS de la GRC de la Saskatchewan accuse deux hommes à la suite d’une enquête sur le travail forcé dans des restaurants saskatchewanais](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/leitss-grc-saskatchewan-accuse-deux-hommes-a-suite-dune-enquete-travail-force-des) |
+| [ 2023-07-06 ] | [Communiqué de presse : Un trafiquant de personnes aurait recruté sa victime sur les médias sociaux (en anglais seulement)](https://alert-ab.ca/human-trafficker-allegedly-recruited-victim-over-social-media/) |
+| [ 2023-06-13 ] | [Communiqué de presse : Différents services de police et l'Agence des services frontaliers du Canada viennent en aide aux victimes d'un réseau de traite de personnes](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/differents-services-police-et-lagence-des-services-frontaliers-du-canada-viennent) |
+| [ 2023-06-12 ] | [Communiqué de presse : Quatre personnes accusées après une enquête en matière de drogue](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/quatre-personnes-accusees-apres-enquete-matiere-drogue) |
+| [ 2023-06-02 ] | [Communiqué de presse : Jordan McBean condamné à 7 ans de prison pour fraude (en anglais seulement)](https://www.asc.ca/en/News-and-Publications/News-Releases/2023/06/Jun-1-Jordan-McBean-sentenced-to-7-years-in-jail-for-fraud) |
+| [ 2023-05-31 ] | [Communiqué de presse : Projet Pacific – Résultats d’une enquête collaborative sur la traite de personnes (en anglais seulement)](https://www.peelpolice.ca/Modules/News/index.aspx?newsId=eb45d57e-999a-4504-abb7-148ded441f71) |
+| [ 2023-05-24 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Niavaran Canada Inc.](/new-neuf/nr/2023-05-24-fra) |
+| [ 2023-05-18 ] | [Bulletin spécial sur les activités de blanchiment d’argent liées à la Russie](/intel/bulletins/rlml-fra) |
+| [ 2023-05-11 ] | [Vidéo 4 – Vérification de l’identité d’un client: méthode d’identification liée aux affiliés ou membres](/training-formation/id/id4-fra) |
+| [ 2023-04-14 ] | [Communiqué de presse : Équipe intégrée de la police des marchés financiers porte des accusations contre cinq personnes en lien avec un stratagème transnational d’usurpation de marques](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/equipe-integree-police-des-marches-financiers-porte-des-accusations-cinq-personnes) |
+| [ 2023-04-03 ] | [Communiqué de presse : Le Service de police régional de Waterloo, avec l'aide de ses partenaires, procède à une arrestation dans le cadre d'une enquête de fraude (en anglais seulement)](https://www.wrps.on.ca/en/news/wrps-and-partners-make-arrest-in-fraud-investigation.aspx) |
+| [ 2023-03-31 ] | [Communiqué de presse : Arrestation effectuée à Orillia dans le cadre d’un cas de traite de personne à des fins d’exploitation de travailleurs (en anglais seulement)](https://www.opp.ca/news/#/viewmediakit/6426dc508aa1c) |
+| [ 2023-03-24 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Vision Bank Ltd.](/new-neuf/nr/2023-03-24-fra) |
+| [ 2023-03-22 ] | [Vidéo 3 – Vérification de l’identité d’un client : méthode d’identification à processus double](/training-formation/id/id3-fra) |
+| [ 2023-03-20 ] | [Le 20 mars 2023 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière (GAFI)](/notices-avis/avs/2023-03-20-fra) |
+| [ 2023-03-10 ] | [Notes d'allocution pour Sarah Paquet Directrice et présidente-directrice générale dans le cadre du panel Suivre la piste de l'argent : tendances en matière de crime financier et de financement des activités illicites lors de la 91e Conférence annuelle d'Ottawa sur la sécurité et la défense](/new-neuf/ps-pa/2023-03-10-fra) |
+| [ 2023-03-06 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Wealth One Bank of Canada](/new-neuf/nr/2023-03-06-fra) |
+| [ 2023-02-22 ] | [Communiqué de presse : L’IJFS vient en aide à 61 victimes de la traite de personnes - 239 accusations ont été portées (en anglais seulement)](https://www.gsps.ca/en/news/ijfs-assists-61-victims-of-human-trafficking-239-charges-laid.aspx#) |
+| [ 2023-02-22 ] | [Mise à jour de la Directive sur les méthodes pour vérifier l’identité des personnes et des entités : Ajout d’une nouvelle section intitulée « Comment vérifier l’identité d’une personne qui n’a aucun document ou renseignement vous permettant de le faire lors de l’ouverture d’un compte de dépôt de détail »](/guidance-directives/client-clientele/Guide11/11-fra#s6 ) |
+| [ 2023-02-20 ] | [Invitation à soumettre vos commentaires sur les règlements projetés liés à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes publiés dans la Gazette du Canada (Partie I, volume 157, numéro 7) jusqu’au 20 mars 2023](https://www.gazette.gc.ca/rp-pr/p1/2023/2023-02-18/html/index-fra.html#:~:text=Finances%2C%20min.%20des-,Loi%20sur%20le%20recyclage%20des%20produits%20de%20la%20criminalit%C3%A9%20et%20le%20financement%20des%20activit%C3%A9s%20terroristes,-R%C3%A8glement%20modifiant%20certains ) |
+| [ 2023-02-17 ] | [Communiqué de presse : Enquête interprovinciale – projet Onyx (en anglais seulement)](https://www.winnipeg.ca/news/2023-02-17-inter-provincial-investigation-project-onyx) |
+| [ 2023-02-09 ] | [Communiqué de presse : La GRC et l'ASFC empêchent 84 kg de cocaïne présumée d'entrer au Canada](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/grc-et-lasfc-empechent-84-kg-cocaine-presumee-dentrer-au-canada) |
+| [ 2023-01-26 ] | [Vidéo 2 – Vérification de l’identité d’un client : méthode d'identification à l'aide du dossier de crédit](/training-formation/id/id2-fra) |
+| [ 2023-01-19 ] | [Communiqué de presse : Accusations portées contre trois résidents de l'Ontario pour passage en contrebande de 1,5 tonne de cocaïne au Canada](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/accusations-portees-trois-residents-lontario-passage-contrebande-15-tonne-cocaine-au) |
+| [ 2023-01-16 ] | [Communiqué de presse : La cour déclare William Jordan McBean coupable de fraude (en anglais seulement)](https://www.asc.ca/en/news-and-publications/news-releases/2023/01/jan-16-court-finds-william-jordan-mcbean-guilty-of-fraud) |
+| [ 2022-12-15 ] | [Communiqué de presse : CANAFE publie des indicateurs de financement des activités terroristes dans sa nouvelle alerte opérationnelle](/new-neuf/nr/2022-12-15-fra) |
+| [ 2022-12-08 ] | [Informations sur les changements à venir concernant la DT SWIFT et la mise en œuvre d’ISO20022](/notices-avis/2022-12-08-fra) |
+| [ 2022-11-28 ] | [Le 28 novembre 2022 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière (GAFI)](/notices-avis/avs/2022-11-28-fra) |
+| [ 2022-11-02 ] | [Vidéo 1 – Vérification de l’identité d’un client : méthode d’identification à l’aide d’un document d’identité avec photo délivré par un gouvernement](/training-formation/id/id-fra) |
+| [ 2022-10-18 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Cathay Pacific Realty Ltd.](/new-neuf/nr/2022-10-18-fra) |
+| [ 2022-10-13 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à LaBoutique Realty Ltd.](/new-neuf/nr/2022-10-13-fra) |
+| [ 2022-10-06 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Pan Pacific Platinum Real Estate Services Inc.](/new-neuf/nr/2022-10-06-fra) |
+| [ 2022-09-28 ] | [Communiqué de presse : CANAFE publie des indicateurs sur le blanchiment des produits provenant du cannabis illicite, en soutien au projet Legion](/new-neuf/nr/2022-09-28-fra) |
+| [ 2022-08-16 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Cheetah Consulting Ltd.](/new-neuf/nr/2022-08-16-fra) |
+| [ 2022-07-21 ] | [Les plateformes de sociofinancement et certains fournisseurs de services de paiement doivent s'inscrire auprès de CANAFE](/notices-avis/2022-07-21-fra) |
+| [ 2022-07-21 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Thanh Hung Truong (Bijouterie Kim Dung)](/new-neuf/nr/2022-07-21-fra) |
+| [ 2022-07-12 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Nu Stream Realty Inc.](/new-neuf/nr/2022-07-12-fra ) |
+| [ 2022-07-08 ] | [Le 8 juillet 2022 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d'action financière (GAFI)](/notices-avis/avs/2022-07-08-fra) |
+| [ 2022-06-23 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Sokhom Ung, faisant également affaire sous le nom de Bureau de change Saint-Michel](/new-neuf/nr/2022-06-23-fra) |
+| [ 2022-06-15 ] | [Allocution de Sarah Paquet, Directrice et présidente-directrice générale, devant le 21e Forum canadien annuel du Canadian Institute sur la lutte contre le blanchiment d’argent et le crime financier](/new-neuf/ps-pa/2022-06-15-fra) |
+| [ 2022-05-12 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Montecristo Jewellers Inc.](/new-neuf/nr/2022-05-12-fra) |
+| [ 2022-05-10 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à 9293-0809 Québec Inc.](/new-neuf/nr/2022-05-10-fra) |
+| [ 2022-05-05 ] | [Communiqué de presse : CANAFE publie les caractéristiques clés des systèmes bancaires clandestins utilisant des entreprises de services monétaires non inscrites](/new-neuf/nr/2022-05-05-fra) |
+| [ 2022-04-29 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Banque Laurentienne du Canada](/new-neuf/nr/2022-04-29-fra) |
+| [ 2022-04-27 ] | [Obligation des plateformes de sociofinancement et de certains fournisseurs de services de paiement de s'inscrire auprès de CANAFE et modification de la définition de « télévirement »](/notices-avis/2022-04-27-fra) |
+| [ 2022-03-28 ] | [Le 28 mars 2022 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière (GAFI)](/notices-avis/avs/2022-03-28-fra) |
+| [ 2022-03-24 ] | [Bulletin spécial sur le blanchiment d’argent lié à la Russie et à l’évasion des sanctions](/intel/bulletins/rlml-fra) |
+| [ 2022-03-22 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Forest Hill Real Estate Inc.](/new-neuf/nr/2022-03-22-fra) |
+| [ 2022-03-21 ] | [Directive aux entreprises canadiennes sur les sanctions du Canada liées à l’invasion de l’Ukraine par la Russie – Invasion russe de l'Ukraine](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/ukraine-advisory-directive.aspx?lang=fra) |
+| [ 2022-03-16 ] | [Communiqué de presse : Déclaration d'intention du groupe de travail d'URF sur le financement illicite et les sanctions liées à la Russie](/new-neuf/nr/2022-03-16-fra) |
+| [ 2022-03-15 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Taiwanese Canadian Toronto Credit Union Limited](/new-neuf/nr/2022-03-15-fra) |
+| [ 2022-03-03 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Sino Financial Ltd](/new-neuf/nr/2022-03-03-fra) |
+| [ 2022-02-24 ] | [Allocution d’ouverture de Barry MacKillop, Directeur adjoint du Renseignement, Centre d’analyse des opérations et déclarations financières du Canada devant le Comité des finances de la Chambre des communes, Examen parlementaire de la Loi sur les urgences](/new-neuf/ps-pa/2022-02-24-fra) |
+| [ 2022-02-10 ] | [Mot d'ouverture prononcé par Barry MacKillop, sous-directeur, Secteur du renseignement, Centre d'analyse des opérations et déclarations financières du Canada devant le Comité permanent de la sécurité publique et nationale de la Chambre des communes](/new-neuf/ps-pa/2022-02-10-fra) |
+| [ 2022-01-31 ] | [Retrait du soutien temporaire aux entités déclarantes lié à la COVID](/notices-avis/2022-01-31-fra) |
+| [ 2022-01-13 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Libro Credit Union Limited](/new-neuf/nr/2022-01-13-fra) |
+| [ 2021-12-23 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Industrial and Commercial Bank of China (Canada)](/new-neuf/nr/2021-12-23-fra) |
+| [ 2021-12-02 ] | [Mise à jour pour les entités déclarantes sur les attentes à compter du 1 décembre 2021](/notices-avis/2021-12-02-fra) |
+| [ 2021-11-09 ] | [Notes d'allocution pour Sarah Paquet, Directrice et présidente-directrice générale, Centre d'analyse des opérations et déclarations financières du Canada lors de la conférence canadienne de l'Association of Certified Fraud Examiners](/new-neuf/ps-pa/2021-11-09-fra) |
+| [ 2021-11-04 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Pacific Place – Arc Realty Ltd.](/new-neuf/nr/2021-11-04-fra) |
+| [ 2021-11-03 ] | [Discours de Sarah Paquet, Directrice et présidente-directrice générale, Centre d’analyse des opérations et déclarations financières du Canada à la 9e conférence annuelle de l’ACAMS sur la lutte contre le blanchiment d’argent et le crime financier](/new-neuf/ps-pa/2021-11-03-fra) |
+| [ 2021-09-27 ] | [Mise à jour du système de déclaration en ligne de CANAFE - Déclaration d'opérations importantes en monnaie virtuelle](/notices-avis/2021-09-27-fra) |
+| [ 2021-07-30 ] | [Communiqué de presse : CANAFE fournit d’autres indicateurs de blanchiment d’argent associés à la traite de personnes à des fins d’exploitation sexuelle à l’appui du projet Protect](/new-neuf/nr/2021-07-30-fra) |
+| [ 2021-06-25 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Les Immeubles Diamant Diamant Inc.](/new-neuf/nr/2021-06-25-fra) |
+| [ 2021-06-15 ] | [Bulletin spécial sur le mode de financement des activités terroristes des adeptes de l’extrémisme violent à caractère idéologique](/intel/bulletins/imve-fra) |
+| [ 2021-06-11 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à HomeLife Glenayre Realty Chilliwack Ltd.](/new-neuf/nr/2021-06-11-fra) |
+| [ 2021-06-10 ] | [Communiqué de presse : CANAFE signe un protocole d’entente avec l’Organisme d’autoréglementation du courtage immobilier du Québec](/new-neuf/nr/2021-06-10-fra) |
+| [ 2021-06-01 ] | [Modifications réglementaires en vigueur à compter du 1er juin 2021](/notices-avis/2021-06-01-fra) |
+| [ 2021-05-20 ] | [Communiqué de presse : CANAFE signe un protocole d’entente avec la Society of Notaries Public of British Columbia](/new-neuf/nr/2021-05-20-fra) |
+| [ 2021-05-19 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Magasin Château D'Ivoire Inc.](/new-neuf/nr/2021-05-19-fra) |
+| [ 2021-05-18 ] | [Avis sur l'évaluation relative aux obligations entrant en vigueur le 1er juin 2021](/notices-avis/assessment-fra) |
+| [ 2021-03-22 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Park Georgia Realty Ltd.](/new-neuf/nr/2021-03-22-fra) |
+| [ 2021-03-18 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à RE/MAX All-Stars Realty Inc.](/new-neuf/nr/2021-03-18-fra) |
+| [ 2021-03-04 ] | [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à C&Z Holdings Ltd.](/new-neuf/nr/2021-03-04-fra) |
+| [ 2020-07-27 ] | [Reprise des activités d'examen au bureau](/notices-avis/covid-2020-07-27-fra) |
+
+Communiqués de presse
+
+Section pour les communiqués de presse
+
+| Date | Sujet |
+| [ 2026-07-09 ] | [CANAFE impose une pénalité administrative pécuniaire à VIP Realty Inc.](/new-neuf/nr/2026-07-09-2-fra) |
+| [ 2026-07-09 ] | [CANAFE impose une pénalité administrative pécuniaire à la Société des loteries de l’Atlantique Inc.](/new-neuf/nr/2026-07-09-1-fra) |
+| [ 2026-06-22 ] | [CANAFE met à jour sa directive sur l’échange de renseignements entre entités déclarantes](/guidance-directives/sharing-echange/sharing-echange-fra#s7 ) |
+| [ 2026-05-28 ] | [CANAFE publie des indicateurs de blanchiment d’argent lié à la traite de personnes et aux grands événements internationaux de sport et de divertissement](/new-neuf/nr/2026-05-28-fra) |
+| [ 2026-05-14 ] | [CANAFE impose une pénalité administrative pécuniaire à 13010431 Canada Inc.](/new-neuf/nr/2026-05-14-fra) |
+| [ 2026-05-05 ] | [CANAFE impose une pénalité administrative pécuniaire à Birks Group Inc.](/new-neuf/nr/2026-05-05-2-fra) |
+| [ 2026-05-05 ] | [CANAFE impose une pénalité administrative pécuniaire à RE/MAX Twin City Realty Inc.](/new-neuf/nr/2026-05-05-1-fra) |
+| [ 2026-05-05 ] | [CANAFE impose une pénalité administrative pécuniaire à VersaBank](/new-neuf/nr/2026-05-05-fra) |
+| [ 2026-04-23 ] | [CANAFE publie des indicateurs de blanchiment d’argent liés à l’extorsion](/new-neuf/nr/2026-04-23-fra) |
+| [ 2026-03-23 ] | [Deuxième édition du FIASSF : Risques et possibilités liés à l’IA : Adoption d’un cadre AGILE dans les services financiers canadiens](https://www.osfi-bsif.gc.ca/fr/propos-du-bsif/rapports-publications/deuxieme-edition-du-fiassf-risques-possibilites-lies-lia-adoption-dun-cadre-agile-dans-services) |
+| [ 2026-02-12 ] | [CANAFE impose une pénalité administrative pécuniaire à Manor Windsor Realty Ltd.](/new-neuf/nr/2026-02-12-fra) |
+| [ 2026-02-10 ] | [CANAFE impose une pénalité administrative pécuniaire à Century 21 Heritage Group Ltd.](/new-neuf/nr/2026-02-10-fra) |
+| [ 2026-02-05 ] | [CANAFE impose une pénalité administrative pécuniaire à Commerciale I.C. - Pacific Inc.](/new-neuf/nr/2026-02-05-fra) |
+| [ 2026-02-05 ] | [CANAFE impose une pénalité administrative pécuniaire à TreasureMeta Corporation](/new-neuf/nr/2026-02-05-1-fra) |
+| [ 2025-12-18 ] | [CANAFE impose une pénalité administrative pécuniaire à MP Technology Services Ltd.](/new-neuf/nr/2025-12-18-fra) |
+| [ 2025-12-11 ] | [CANAFE impose une pénalité administrative pécuniaire à Juba Express Inc.](/new-neuf/nr/2025-12-11-fra) |
+| [ 2025-12-04 ] | [CANAFE impose une pénalité administrative pécuniaire à Griffin Jewellery Designs Inc.](/new-neuf/nr/2025-12-04-fra) |
+| [ 2025-12-02 ] | [CANAFE impose une pénalité administrative pécuniaire à Global Currency Exchange](/new-neuf/nr/2025-12-02-fra) |
+| [ 2025-11-27 ] | [CANAFE impose une pénalité administrative pécuniaire à Synergy Credit Union](/new-neuf/nr/2025-11-27-1-fra) |
+| [ 2025-11-27 ] | [CANAFE publie des indicateurs de blanchiment d'argent mis à jour visant à lutter contre l'exploitation sexuelle des enfants en ligne](/new-neuf/nr/2025-11-27-fra) |
+| [ 2025-11-20 ] | [CANAFE impose une pénalité administrative pécuniaire à Houston & Associates Realty Ltd.](/new-neuf/nr/2025-11-20-5-fra) |
+| [ 2025-11-20 ] | [CANAFE impose une pénalité administrative pécuniaire à HomeLife New World Realty Inc.](/new-neuf/nr/2025-11-20-4-fra) |
+| [ 2025-11-20 ] | [CANAFE impose une pénalité administrative pécuniaire à Pacesetter Marketing Ltd.](/new-neuf/nr/2025-11-20-2-fra) |
+| [ 2025-11-20 ] | [CANAFE impose une pénalité administrative pécuniaire à LeHomes Realty Premier](/new-neuf/nr/2025-11-20-3-fra) |
+| [ 2025-11-20 ] | [CANAFE impose une pénalité administrative pécuniaire à 9321-0599 Québec Inc.](/new-neuf/nr/2025-11-20-1-fra) |
+| [ 2025-10-30 ] | [CANAFE publie son Rapport annuel de 2024-2025, Canadiens en sécurité, économie sûre](/new-neuf/nr/2025-10-30-fra) |
+| [ 2025-10-22 ] | [CANAFE impose une pénalité administrative pécuniaire à Xeltox Enterprises Ltd.](/new-neuf/nr/2025-10-22-fra) |
+| [ 2025-10-16 ] | [CANAFE impose une pénalité administrative pécuniaire à la Banque des Premières Nations](/new-neuf/nr/2025-10-16-fra) |
+| [ 2025-10-09 ] | [CANAFE impose une pénalité administrative pécuniaire à DMCL Chartered Professional Accountants](/new-neuf/nr/2025-10-09-fra) |
+| [ 2025-10-02 ] | [CANAFE impose une pénalité administrative pécuniaire à HRA Group Holdings](/new-neuf/nr/2025-10-02-fra) |
+| [ 2025-09-25 ] | [CANAFE impose une pénalité administrative pécuniaire à Peken Global Limited (KuCoin)](/new-neuf/nr/2025-09-25-fra) |
+| [ 2025-09-23 ] | [CANAFE impose une pénalité administrative pécuniaire à Spence Diamonds Ltd.](/new-neuf/nr/2025-09-23-fra) |
+| [ 2025-09-18 ] | [CANAFE impose une pénalité administrative pécuniaire à Primary Capital Inc.](/new-neuf/nr/2025-09-18-fra) |
+| [ 2025-09-12 ] | [CANAFE impose une pénalité administrative pécuniaire à la Saskatchewan Indian Gaming Authority](/new-neuf/nr/2025-09-12-fra) |
+| [ 2025-09-04 ] | [CANAFE impose une pénalité administrative pécuniaire à la Canadian National Exhibition Association](/new-neuf/nr/2025-09-04-fra) |
+| [ 2025-08-28 ] | [CANAFE impose une pénalité administrative pécuniaire à la British Columbia Lottery Corporation](/new-neuf/nr/2025-08-28-fra) |
+| [ 2025-07-03 ] | [CANAFE impose une pénalité administrative pécuniaire à Canaccord Genuity Corp.](/new-neuf/nr/2025-07-03-fra) |
+| [ 2025-06-12 ] | [CANAFE impose une pénalité administrative pécuniaire à Hub Capital Inc.](/new-neuf/nr/2025-06-12-fra) |
+| [ 2025-06-10 ] | [CANAFE impose une pénalité administrative pécuniaire à Cambrian Credit Union](/new-neuf/nr/2025-06-10-fra) |
+| [ 2025-05-29 ] | [CANAFE impose une pénalité administrative pécuniaire à Crystal Currency Exchange Inc.](/new-neuf/nr/2025-05-29-fra) |
+| [ 2025-05-13 ] | [CANAFE impose une pénalité administrative pécuniaire à Marouf Management Inc.](/new-neuf/nr/2025-05-13-fra) |
+| [ 2025-05-06 ] | [CANAFE impose une pénalité administrative pécuniaire à Immeubles Village Pointe-Claire Inc.](/new-neuf/nr/2025-05-06-fra) |
+| [ 2025-05-01 ] | [CANAFE impose une pénalité administrative pécuniaire à Immeubles Jack Sera Inc.](/new-neuf/nr/2025-05-01-fra) |
+| [ 2025-02-25 ] | [CANAFE impose une pénalité administrative pécuniaire à MSBG International Holdings Ltd.](/new-neuf/nr/2025-02-25-fra) |
+| [ 2025-02-13 ] | [CANAFE impose une pénalité administrative pécuniaire à Argosy Securities Inc.](/new-neuf/nr/2025-02-13-fra) |
+| [ 2025-02-06 ] | [CANAFE impose une pénalité administrative pécuniaire à Cash Shop #27](/new-neuf/nr/2025-02-06-fra) |
+| [ 2025-01-23 ] | [CANAFE publie des indicateurs de blanchiment d’argent visant à lutter contre le trafic de fentanyl et d’autres opioïdes synthétiques illégaux](/new-neuf/nr/2025-01-23-fra) |
+| [ 2024-12-11 ] | [CANAFE impose une pénalité administrative pécuniaire à la Banque de change du Canada](/new-neuf/nr/2024-12-11-fra) |
+| [ 2024-11-28 ] | [CANAFE impose une pénalité administrative pécuniaire à Simple Canadian Services](/new-neuf/nr/2024-11-28-fra) |
+| [ 2024-11-26 ] | [CANAFE publie son Rapport annuel de 2023-2024, Canadiens en sécurité, économie sûre](/new-neuf/nr/2024-11-26-fra) |
+| [ 2024-10-29 ] | [CANAFE impose une pénalité administrative pécuniaire à Jones Lang Lasalle Real Estate Services, Inc.](/new-neuf/nr/2024-10-29-fra) |
+| [ 2024-09-24 ] | [CANAFE impose une pénalité administrative pécuniaire à 1000085532 Ontario Inc.](/new-neuf/nr/2024-09-24-fra) |
+| [ 2024-09-19 ] | [CANAFE impose une pénalité administrative pécuniaire à Coinseason Capital Inc.](/new-neuf/nr/2024-09-19-fra) |
+| [ 2024-09-12 ] | [CANAFE impose une pénalité administrative pécuniaire à Canada Changjiang Management Ltd.](/new-neuf/nr/2024-09-12-fra) |
+| [ 2024-07-31 ] | [CANAFE impose une pénalité administrative pécuniaire à Gestion de Patrimoine Blue Bridge Inc.](/new-neuf/nr/2024-07-31-fra) |
+| [ 2024-07-16 ] | [CANAFE impose une pénalité administrative pécuniaire à Masters Realty (2000) Ltd.](/new-neuf/nr/2024-07-16-fra) |
+| [ 2024-07-11 ] | [CANAFE impose une pénalité administrative pécuniaire à Metna General Trading Inc.](/new-neuf/nr/2024-07-11-fra) |
+| [ 2024-05-09 ] | [CANAFE impose une pénalité administrative pécuniaire à Binance Holdings Limited](/new-neuf/nr/2024-05-09-fra) |
+| [ 2024-05-03 ] | [Déclaration sur l’utilisation de l’intelligence artificielle par CANAFE](/new-neuf/statement-declaration-24-05-03-fra) |
+| [ 2024-05-02 ] | [CANAFE impose une pénalité administrative pécuniaire à la Banque Toronto-Dominion](/new-neuf/nr/2024-05-02-fra) |
+| [ 2024-01-17 ] | [CANAFE impose une pénalité administrative pécuniaire à Global West Realty Limited](/new-neuf/nr/2024-01-17-fra) |
+| [ 2023-12-07 ] | [CANAFE impose une pénalité administrative pécuniaire à la Banque Canadienne Impériale de Commerce](/new-neuf/nr/2023-12-07-fra) |
+| [ 2023-12-06 ] | [Groupe de travail de lutte contre le financement des activités terroristes – Israël : Déclaration publique du groupe de travail d’URF](/new-neuf/nr/2023-12-06-fra) |
+| [ 2023-12-05 ] | [CANAFE impose une pénalité administrative pécuniaire à la Banque Royale du Canada](/new-neuf/nr/2023-12-05-fra) |
+| [ 2023-10-31 ] | [CANAFE impose une pénalité administrative pécuniaire à Austin Jewellers](/new-neuf/nr/2023-10-31-fra) |
+| [ 2023-10-27 ] | [CANAFE impose une pénalité administrative pécuniaire à Norwich Real Estate Services Inc.](/new-neuf/nr/2023-10-27-fra) |
+| [ 2023-08-24 ] | [CANAFE impose une pénalité administrative pécuniaire à 857132 Ontario Limited](/new-neuf/nr/2023-08-24-fra) |
+| [ 2023-08-17 ] | [CANAFE impose une pénalité administrative pécuniaire à Deshi Foreign Exchange Inc.](/new-neuf/nr/2023-08-17-fra) |
+| [ 2023-08-10 ] | [CANAFE impose une pénalité administrative pécuniaire à The Centre Pacific Project Marketing Corp.](/new-neuf/nr/2023-08-10-fra) |
+| [ 2023-05-24 ] | [CANAFE impose une pénalité administrative pécuniaire à Niavaran Canada Inc.](/new-neuf/nr/2023-05-24-fra) |
+| [ 2023-03-24 ] | [CANAFE impose une pénalité administrative pécuniaire à Vision Bank Ltd.](/new-neuf/nr/2023-03-24-fra) |
+| [ 2023-03-06 ] | [CANAFE impose une pénalité administrative pécuniaire à Wealth One Bank of Canada](/new-neuf/nr/2023-03-06-fra) |
+| [ 2022-12-15 ] | [CANAFE publie des indicateurs de financement des activités terroristes dans sa nouvelle alerte opérationnelle](/new-neuf/nr/2022-12-15-fra) |
+| [ 2022-10-18 ] | [CANAFE impose une pénalité administrative pécuniaire à Cathay Pacific Realty Ltd.](/new-neuf/nr/2022-10-18-fra) |
+| [ 2022-10-13 ] | [CANAFE impose une pénalité administrative pécuniaire à LaBoutique Realty Ltd.](/new-neuf/nr/2022-10-13-fra) |
+| [ 2022-10-06 ] | [CANAFE impose une pénalité administrative pécuniaire à Pan Pacific Platinum Real Estate Services Inc.](/new-neuf/nr/2022-10-06-fra) |
+| [ 2022-09-28 ] | [CANAFE publie des indicateurs sur le blanchiment des produits provenant du cannabis illicite, en soutien au projet Legion](/new-neuf/nr/2022-09-28-fra) |
+| [ 2022-08-16 ] | [CANAFE impose une pénalité administrative pécuniaire à Cheetah Consulting Ltd.](/new-neuf/nr/2022-08-16-fra) |
+| [ 2022-07-21 ] | [CANAFE impose une pénalité administrative pécuniaire à Thanh Hung Truong (Bijouterie Kim Dung)](/new-neuf/nr/2022-07-21-fra) |
+| [ 2022-07-12 ] | [CANAFE impose une pénalité administrative pécuniaire à Nu Stream Realty Inc.](/new-neuf/nr/2022-07-12-fra ) |
+| [ 2022-06-23 ] | [CANAFE impose une pénalité administrative pécuniaire à Sokhom Ung, faisant également affaire sous le nom de Bureau de change Saint-Michel](/new-neuf/nr/2022-06-23-fra) |
+| [ 2022-05-12 ] | [CANAFE impose une pénalité administrative pécuniaire à Montecristo Jewellers Inc.](/new-neuf/nr/2022-05-12-fra) |
+| [ 2022-05-10 ] | [CANAFE impose une pénalité administrative pécuniaire à 9293-0809 Québec Inc.](/new-neuf/nr/2022-05-10-fra) |
+| [ 2022-05-05 ] | [CANAFE publie les caractéristiques clés des systèmes bancaires clandestins utilisant des entreprises de services monétaires non inscrites](/new-neuf/nr/2022-05-05-fra) |
+| [ 2022-04-29 ] | [CANAFE impose une pénalité administrative pécuniaire à la Banque Laurentienne du Canada](/new-neuf/nr/2022-04-29-fra) |
+| [ 2022-03-22 ] | [CANAFE impose une pénalité administrative pécuniaire à Forest Hill Real Estate Inc.](/new-neuf/nr/2022-03-22-fra) |
+| [ 2022-03-16 ] | [Déclaration d'intention du groupe de travail d'URF sur le financement illicite et les sanctions liées à la Russie](/new-neuf/nr/2022-03-16-fra) |
+| [ 2022-03-15 ] | [CANAFE impose une pénalité administrative pécuniaire à Taiwanese Canadian Toronto Credit Union Limited](/new-neuf/nr/2022-03-15-fra) |
+| [ 2022-03-03 ] | [CANAFE impose une pénalité administrative pécuniaire à Sino Financial Ltd](/new-neuf/nr/2022-03-03-fra) |
+| [ 2022-01-13 ] | [CANAFE impose une pénalité administrative pécuniaire à Libro Credit Union Limited](/new-neuf/nr/2022-01-13-fra) |
+| [ 2021-12-23 ] | [CANAFE impose une pénalité administrative pécuniaire à Industrial and Commercial Bank of China (Canada)](/new-neuf/nr/2021-12-23-fra) |
+| [ 2021-11-04 ] | [CANAFE impose une pénalité administrative pécuniaire à Pacific Place – Arc Realty Ltd.](/new-neuf/nr/2021-11-04-fra) |
+| [ 2021-07-30 ] | [CANAFE fournit d’autres indicateurs de blanchiment d’argent associés à la traite de personnes à des fins d’exploitation sexuelle à l’appui du projet Protect](/new-neuf/nr/2021-07-30-fra) |
+| [ 2021-06-25 ] | [CANAFE impose une pénalité administrative pécuniaire à Les Immeubles Diamant Diamant Inc.](/new-neuf/nr/2021-06-25-fra) |
+| [ 2021-06-11 ] | [CANAFE impose une pénalité administrative pécuniaire à HomeLife Glenayre Realty Chilliwack Ltd.](/new-neuf/nr/2021-06-11-fra) |
+| [ 2021-06-10 ] | [CANAFE signe un protocole d’entente avec l’Organisme d’autoréglementation du courtage immobilier du Québec](/new-neuf/nr/2021-06-10-fra) |
+| [ 2021-05-20 ] | [CANAFE signe un protocole d’entente avec la Society of Notaries Public of British Columbia](/new-neuf/nr/2021-05-20-fra) |
+| [ 2021-05-19 ] | [CANAFE impose une pénalité administrative pécuniaire à Magasin Château D'Ivoire Inc.](/new-neuf/nr/2021-05-19-fra) |
+| [ 2021-03-22 ] | [CANAFE impose une pénalité administrative pécuniaire à Park Georgia Realty Ltd.](/new-neuf/nr/2021-03-22-fra) |
+| [ 2021-03-18 ] | [CANAFE impose une pénalité administrative pécuniaire à RE/MAX All-Stars Realty Inc.](/new-neuf/nr/2021-03-18-fra) |
+| [ 2021-03-04 ] | [CANAFE impose une pénalité administrative pécuniaire à C&Z Holdings Ltd.](/new-neuf/nr/2021-03-04-fra) |
+
+Avis
+
+Section pour les Avis aux entités déclarantes
+
+| Date | Sujet |
+| --- | --- |
+| [ 2026-07-15 ] | [Le 15 juillet 2026 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2026-07-15-fra) |
+| [ 2026-06-23 ] | [CANAFE met à jour sa directive, son document technique et son formulaire de déclaration associés à la directive ministérielle sur la République islamique d’Iran](/obligations/dir-iri-fra#s5) |
+| [ 2026-06-18 ] | [CANAFE publie une vidéo pour le secteur des prêts hypothécaires](/training-formation/mortgage-hypotheque/video3-fra) |
+| [ 2026-05-06 ] | [Changements apportés au cadre de pénalités administratives pécuniaires](/pen/3-fra) |
+| [ 2026-04-16 ] | [Mise en œuvre de modifications législatives](/businesses-entreprises/changes-changements-fra) |
+| [ 2026-03-02 ] | [Le 2 mars 2026 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2026-03-02-fra) |
+| [ 2025-11-28 ] | [Le 28 novembre 2025 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2025-11-28-fra) |
+| [ 2025-11-26 ] | [CANAFE publie des indicateurs de blanchiment d’argent liés à la corruption](/guidance-directives/guidance-directives-fra#s3) |
+| [ 2025-11-26 ] | [CANAFE met à jour sa directive sur les personnes politiquement vulnérables et les dirigeants d’une organisation internationale pour tenir compte de la corruption](/guidance-directives/client-clientele/pep/pep-fra#s8) |
+| [ 2025-11-17 ] | [CANAFE met à jour sa directive liée à la directive ministérielle associée à la République islamique d’Iran](/obligations/dir-iri-fra) |
+| [ 2025-11-03 ] | [CANAFE publie une directive sur l’échange de renseignements entre entités déclarantes](/guidance-directives/sharing-echange/sharing-echange-fra) |
+| [ 2025-10-01 ] | [CANAFE met à jour sa directive sur les bénéficiaires effectifs : déclaration des écarts](/guidance-directives/client-clientele/bor-fra#s4) |
+| [ 2025-10-01 ] | [CANAFE met à jour ses directives à l’intention des entreprises de services monétaires : Utilisation de mandataires](/msb-esm/msb-fra) |
+| [ 2025-10-01 ] | [Exigences relatives à la déclaration en vertu de la Loi sur les mesures économiques spéciales ou de la Loi sur la justice pour les victimes de dirigeants étrangers corrompus en vigueur à compter du 1er octobre 2025](/guidance-directives/transaction-operation/Guide5/5-fra) |
+| [ 2025-09-15 ] | [CANAFE met à jour ses directives sur les dossiers de renseignements à l’égard des parties non représentées dans les opérations immobilières à partir du 1er octobre 2025](/guidance-directives/recordkeeping-document/record/real-fra#x5) |
+| [ 2025-09-15 ] | [CANAFE met à jour ses directives sur le recours à un mandataire à partir du 1er octobre 2025](/guidance-directives/client-clientele/Guide11/11-fra) |
+| [ 2025-09-09 ] | [Exigences applicables aux services d’acquéreur à l’égard de guichets automatiques privés à partir du 1er octobre 2025](/re-ed/abm-gap-fra) |
+| [ 2025-09-09 ] | [Exigences applicables aux assureurs de titres à partir du 1er octobre 2025](/re-ed/title-titre-fra) |
+| [ 2025-08-06 ] | [CANAFE met à jour sa politique sur les pénalités administratives pécuniaires](/pen/2-fra) |
+| [ 2025-08-06 ] | [CANAFE publie son cadre de surveillance](/introduction/cpf/cpf-fra) |
+| [ 2025-07-17 ] | [Avis sur les travailleurs des technologies de l’information nord-coréens](https://grc.ca/fr/nouvelles/2025/07/avis-sur-travailleurs-technologies-linformation-ti-nord-coreens) |
+| [ 2025-07-14 ] | [Mise à jour de la directive concernant la directive ministérielle sur la République islamique d’Iran : Précisions au sujet des opérations et des instructions de déclaration](/obligations/dir-iri-fra) |
+| [ 2025-07-10 ] | [CANAFE met à jour les directives pour les entreprises d’encaissement de chèques](/re-ed/cheque-fra) |
+| [ 2025-07-10 ] | [CANAFE met à jour les directives pour les affactureurs](/re-ed/fact-affact-fra) |
+| [ 2025-07-10 ] | [CANAFE met à jour les directives pour les entités de financement ou de bail](/re-ed/lease-bail-fra) |
+| [ 2025-07-09 ] | [Le 9 juillet 2025 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2025-07-02-fra) |
+| [ 2025-03-26 ] | [Exigences applicables aux affactureurs à partir du 1er avril 2025](/re-ed/fact-affact-fra) |
+| [ 2025-03-26 ] | [Exigences applicables aux entreprises d’encaissement de chèques à partir du 1er avril 2025](/re-ed/cheque-fra) |
+| [ 2025-03-26 ] | [Exigences applicables aux entités de financement ou de bail à partir du 1er avril 2025](/re-ed/lease-bail-fra) |
+| [ 2025-03-26 ] | [Mise en œuvre des modifications annoncées dans le budget de 2024 concernant l’échange de renseignements entre les entités déclarantes et la déclaration de divergences en matière de bénéficiaires effectifs](/businesses-entreprises/changes-changements-fra) |
+| [ 2025-03-21 ] | [CANAFE publie des mises à jour à sa directive relative aux directives ministérielles : République populaire démocratique de Corée et Russie](/obligations/directives-fra) |
+| [ 2025-03-21 ] | [Le 21 mars 2025 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2025-03-21-fra) |
+| [ 2025-02-28 ] | [CANAFE publie une nouvelle directive et un nouveau formulaire pour déclarer les renseignements relatifs aux biens sanctionnés et appartenant à un groupe terroriste](/guidance-directives/transaction-operation/guide5/5-fra) |
+| [ 2024-11-18 ] | [Le 18 novembre 2024 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2024-11-18-fra) |
+| [ 2024-10-08 ] | [CANAFE lance un outil d'auto-évaluation pour les entreprises du secteur des prêts pour vérifier si leurs activités seront visées par la Loi à partir du 11 octobre 2024](/re-ed/mortgage-hypotheque/1-fra) |
+| [ 2024-08-19 ] | [CANAFE met à jour sa directive sur la façon de déclarer le contournement soupçonné des sanctions dans une déclaration d’opérations douteuses](/guidance-directives/transaction-operation/str-dod/str-dod-fra) |
+| [ 2024-08-02 ] | [Le 2 août 2024 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2024-08-02-fra) |
+| [ 2024-07-31 ] | [CANAFE met à jour son Registre des entreprises de services monétaires](/msb-esm/reg-fra) |
+| [ 2024-06-25 ] | [CANAFE publie une directive sur l’obligation de déclarer les opérations soupçonnées d'être liées au contournement des sanctions](/guidance-directives/transaction-operation/sanctions/sanctions-fra) |
+| [ 2024-06-24 ] | [CANAFE a mis à jour ses directives sur les déclarations de télévirements et les déclarations de déboursements de casino](/guidance-directives/guidance-directives-fra#s3) |
+| [ 2024-06-24 ] | [CANAFE termine la mise en œuvre des déclarations de télévirements et des déclarations de déboursements de casino modernisées dans l’API de soumission de déclarations de CANAFE](/reporting-declaration/Info/api/api-fra) |
+| [ 2024-05-14 ] | [Le rôle des guichets automatiques de monnaie virtuelle dans le blanchiment des produits de la criminalité](/intel/advisories-avis/atm-ga-fra) |
+| [ 2024-04-29 ] | [29 avril 2024 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d'action financière](/notices-avis/avs/2024-04-29-fra) |
+| [ 2024-04-08 ] | [CANAFE met en œuvre son nouveau formulaire de déclaration d’opérations douteuses, qui peut maintenant être soumis au moyen de l’API de soumission de déclarations de CANAFE](/reporting-declaration/info/api/api-fra) |
+| [ 2024-02-23 ] | [Mise à jour de la directive liée à la directive ministérielle sur les opérations financières associées à la République islamique d’Iran : des précisions sur les exigences relatives aux opérations en monnaie virtuelle](/obligations/dir-iri-fra) |
+| [ 2024-02-23 ] | [Directive faisant suite à la directive ministérielle sur les opérations financières associées à la Russie publiée le 24 février 2024](/obligations/dir-rus-fra) |
+| [ 2024-02-20 ] | [Avis conjoint de renseignement financier : Acquisition illégale de marchandises à double usage par des utilisateurs russes (révisé)](/notices-avis/avs/2024-02-20-fra) |
+| [ 2023-12-15 ] | [Document d’information : Changement apporté aux avis publics concernant les pénalités administratives pécuniaires](/pen/6-fra) |
+| [ 2023-11-20 ] | [Le 20 novembre 2023 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2023-11-20-fra) |
+| [ 2023-10-23 ] | [CANAFE met en œuvre des changements importants touchant le formulaire de déclaration d’opérations importantes en espèces, les directives, et l’API de soumission de déclarations](/businesses-entreprises/changes-changements-fra#s5) |
+| [ 2023-10-12 ] | [Modernisation et changements à venir ayant une incidence sur les entités déclarantes](/businesses-entreprises/changes-changements-fra) |
+| [ 2023-10-12 ] | [Facturer les entités déclarantes pour le programme de conformité de CANAFE à partir du 1er avril 2024](/guidance-directives/cost-cout/1-fra) |
+| [ 2023-10-12 ] | [Exigences applicables aux véhicules blindés à partir de 1er juillet 2024](/re-ed/cars-vehicules-fra) |
+| [ 2023-10-12 ] | [Exigences applicables au secteur des prêts hypothécaires à partir du 11 octobre 2024](/re-ed/mortgage-hypotheque-fra) |
+| [ 2023-07-17 ] | [Le 17 juillet 2023 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière](/notices-avis/avs/2023-07-17-fra) |
+| [ 2023-03-20 ] | [Le 20 mars 2023 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière (GAFI)](/notices-avis/avs/2023-03-20-fra) |
+| [ 2023-02-22 ] | [Mise à jour de la Directive sur les méthodes pour vérifier l’identité des personnes et des entités : Ajout d’une nouvelle section intitulée « Comment vérifier l’identité d’une personne qui n’a aucun document ou renseignement vous permettant de le faire lors de l’ouverture d’un compte de dépôt de détail »](/guidance-directives/client-clientele/Guide11/11-fra#s6 ) |
+| [ 2022-12-08 ] | [Informations sur les changements à venir concernant la DT SWIFT et la mise en œuvre d’ISO20022](/notices-avis/2022-12-08-fra) |
+| [ 2022-11-28 ] | [Le 28 novembre 2022 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière (GAFI)](/notices-avis/avs/2022-11-28-fra) |
+| [ 2022-07-21 ] | [Les plateformes de sociofinancement et certains fournisseurs de services de paiement doivent s'inscrire auprès de CANAFE](/notices-avis/2022-07-21-fra) |
+| [ 2022-07-08 ] | [Le 8 juillet 2022 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d'action financière (GAFI)](/notices-avis/avs/2022-07-08-fra) |
+| [ 2022-04-27 ] | [Obligation des plateformes de sociofinancement et de certains fournisseurs de services de paiement de s'inscrire auprès de CANAFE et modification de la définition de « télévirement »](/notices-avis/2022-04-27-fra) |
+| [ 2022-03-28 ] | [Le 28 mars 2022 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière (GAFI)](/notices-avis/avs/2022-03-28-fra) |
+| [ 2022-01-31 ] | [Retrait du soutien temporaire aux entités déclarantes lié à la COVID](/notices-avis/2022-01-31-fra) |
+| [ 2021-12-02 ] | [Mise à jour pour les entités déclarantes sur les attentes à compter du 1 décembre 2021](/notices-avis/2021-12-02-fra) |
+| [ 2021-09-27 ] | [Mise à jour du système de déclaration en ligne de CANAFE - Déclaration d'opérations importantes en monnaie virtuelle](/notices-avis/2021-09-27-fra) |
+| [ 2021-06-01 ] | [Modifications réglementaires en vigueur à compter du 1er juin 2021](/notices-avis/2021-06-01-fra) |
+| [ 2021-05-18 ] | [Avis sur l'évaluation relative aux obligations entrant en vigueur le 1er juin 2021](/notices-avis/assessment-fra) |
+| [ 2020-07-27 ] | [Reprise des activités d'examen au bureau](/notices-avis/covid-2020-07-27-fra) |
+
+Allocutions
+
+Section pour les allocutions
+
+| Date | Sujet |
+| --- | --- |
+| [ 2026-04-23 ] | [Notes d’allocution pour Sarah Paquet, Directrice et PDG de CANAFE auprès de l’Institut C.D. Howe](/new-neuf/ps-pa/2026-04-23-fra) |
+| [ 2024-11-06 ] | [Allocution d'ouverture de Sarah Paquet, Directrice et PDG de CANAFE lors de la Conférence d'Assembly Canada de l'ACAMS](/new-neuf/ps-pa/2024-11-06-fra) |
+| [ 2023-11-16 ] | [Notes d'allocution pour Sarah Paquet, Directrice et présidente-directrice générale, Centre d’analyse des opérations et déclarations financières du Canada pour The Assembly Canada de l’ACAMS](/new-neuf/ps-pa/2023-11-16-fra) |
+| [ 2023-03-10 ] | [Notes d'allocution pour Sarah Paquet Directrice et présidente-directrice générale dans le cadre du panel Suivre la piste de l'argent : tendances en matière de crime financier et de financement des activités illicites lors de la 91e Conférence annuelle d'Ottawa sur la sécurité et la défense](/new-neuf/ps-pa/2023-03-10-fra) |
+| [ 2022-06-15 ] | [Allocution de Sarah Paquet, Directrice et présidente-directrice générale, devant le 21e Forum canadien annuel du Canadian Institute sur la lutte contre le blanchiment d’argent et le crime financier](/new-neuf/ps-pa/2022-06-15-fra) |
+| [ 2022-02-24 ] | [Allocution d’ouverture de Barry MacKillop, Directeur adjoint du Renseignement, Centre d’analyse des opérations et déclarations financières du Canada devant le Comité des finances de la Chambre des communes, Examen parlementaire de la Loi sur les urgences](/new-neuf/ps-pa/2022-02-24-fra) |
+| [ 2022-02-10 ] | [Mot d'ouverture prononcé par Barry MacKillop, sous-directeur, Secteur du renseignement, Centre d'analyse des opérations et déclarations financières du Canada devant le Comité permanent de la sécurité publique et nationale de la Chambre des communes](/new-neuf/ps-pa/2022-02-10-fra) |
+| [ 2021-11-09 ] | [Notes d'allocution pour Sarah Paquet, Directrice et présidente-directrice générale, Centre d'analyse des opérations et déclarations financières du Canada lors de la conférence canadienne de l'Association of Certified Fraud Examiners](/new-neuf/ps-pa/2021-11-09-fra) |
+| [ 2021-11-03 ] | [Discours de Sarah Paquet, Directrice et présidente-directrice générale, Centre d’analyse des opérations et déclarations financières du Canada à la 9e conférence annuelle de l’ACAMS sur la lutte contre le blanchiment d’argent et le crime financier](/new-neuf/ps-pa/2021-11-03-fra) |
+
+Contributions du renseignement financier
+
+Section pour les contributions du renseignement financier
+
+| Date | Sujet |
+| --- | --- |
+| [ 2026-07-28 ] | [Arrestations dans le cadre de la plus importante affaire de traite de personnes de l’histoire de la Police régionale de Halton (en anglais seulement)](https://www.haltonpolice.ca/news-releases/posts/arrests-made-in-largest-human-trafficking-case-in-hrps-history/) |
+| [ 2026-07-21 ] | [Traite de personnes: 3 arrestations lors d’une enquête conjointe; on recherche d’autres victimes](https://www.ottawapolice.ca/fr/news/joint-human-trafficking-investigation-leads-to-three-arrests-police-seek-additional-victims.aspx) |
+| [ 2026-07-16 ] | [La police de Toronto porte plus de 100 accusations supplémentaires à la suite d’une enquête conjointe sur l’agression et l’exploitation sexuelles d’enfants (en anglais seulement)](https://www.tps.ca/media-centre/news-releases/66292/) |
+| [ 2026-07-15 ] | [La GRC perturbe et démantèle un laboratoire de drogues synthétiques situé en Ontario](https://grc.ca/fr/nouvelles/2026/07/4354860) |
+| [ 2026-06-25 ] | [En payer le prix : un consultant en immigration non autorisé condamné pour avoir éludé plus de 112 000 $ d’impôt](https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/20260625-consultant-immigration-condamne-elude-impot.html) |
+| [ 2026-06-22 ] | [Perquisitions en matière de trafic de stupéfiants et de recyclage des produits de la criminalité](https://www.sq.gouv.qc.ca/communiques/perquisitions-en-matiere-de-trafic-de-stupefiants-et-de-recyclage-des-produits-de-la-criminalite/) |
+| [ 2026-06-17 ] | [Plus de 300 000 vapoteuses illégales saisies et des comptes en banque totalisant 1 800 000 $ bloqués](https://www.sq.gouv.qc.ca/communiques/plus-de-300-000-vapoteuses-illegales-saisies-et-des-comptes-en-banque-totalisant-1-800-000-bloques/) |
+| [ 2026-06-16 ] | [L’Équipe mixte de lutte contre les infractions graves dépose des accusations contre Douglas John Vermeeren en vertu de la Loi sur les valeurs mobilières (en anglais seulement)](https://www.asc.ca/News-and-Publications/News-Releases/2026/06/15-JSOT-charges-Douglas-John-Vermeeren-under-the-Securities-Act) |
+| [ 2026-05-28 ] | [Une personne inculpée à la suite d’une enquête sur la traite de personnes (en anglais seulement)](https://www.reginapolice.ca/2026/05/27/one-charged-in-human-trafficking-investigation/) |
+| [ 2026-05-26 ] | [Un groupe de travail sur l’extorsion démantèle un groupe criminel international ciblant une communauté sud-asiatique (en anglais seulement)](https://www.peelpolice.ca/news-feed/posts/extortion-task-force-takes-down-international-criminal-group-targeting-south-asian-community/) |
+| [ 2026-05-21 ] | [Une enquête interprovinciale sur le trafic de drogue aboutit à la plus importante saisie de drogue illicite de l'histoire du Manitoba; 33 personnes ont été arrêtées (en anglais seulement)](https://www.winnipeg.ca/police/community/news-releases/2026-05-20-interprovincial-drug-investigation-leads-largest-illicit-drug-seizure-manitoba-history-33 ) |
+| [ 2026-05-21 ] | [La GRC porte des accusations dans la foulée d’une cyberfraude ciblant la PCU](https://grc.ca/fr/nouvelles/2026/05/4353253 ) |
+| [ 2026-05-11 ] | [Une enquête de fraude aux subventions salariales commise par voie électronique mène à des poursuites](https://grc.ca/fr/nouvelles/2026/05/4352894  ) |
+| [ 2026-04-24 ] | [Sejean Reid et Whitney Charles accusés de fraude et de blanchiment d’argent (en anglais seulement)](https://www.osc.ca/fr/nouvelles-evenements/nouvelles/sejean-reid-and-whitney-charles-charged-fraud-and-money-laundering) |
+| [ 2026-04-21 ] | [La GRC démantèle un réseau de distribution de cannabis de plusieurs millions de dollars](https://grc.ca/fr/nouvelles/2026/04/4352324 ) |
+| [ 2026-03-27 ] | [Un homme arrêté dans le cadre d’une enquête sur du matériel d’exploitation sexuelle d’enfants, secteur de l’avenue Kenilworth Nord et de la rue Cannon, secteur de la ville de Hamilton (en anglais seulement)](https://www.tps.ca/media-centre/news-releases/man-arrested-in-child-sexual-abuse-material-invest-25/) |
+| [ 2026-03-06 ] | [Le projet Fletcher mène à huit arrestations ; cinq suspects sont toujours recherchés (en anglais seulement)](https://www.drps.ca/news/posts/project-fletcher-results-in-eight-arrests-five-suspects-still-sought/) |
+| [ 2026-02-06 ] | [Jawad Rathore et Vincenzo Petrozza sont reconnus coupables et condamnés pour placement hypothécaire consortial frauduleux dans l’affaire Fortress](https://grc.ca/fr/nouvelles/2026/02/4349996) |
+| [ 2025-12-19 ] | [Un homme de Toronto est arrêté pour terrorisme](https://grc.ca/fr/nouvelles/2025/12/4348591) |
+| [ 2025-12-19 ] | [La BCSC conclut un accord avec une entreprise d’équipement d’alimentation pour véhicules électriques de la Colombie-Britannique (en anglais seulement)](https://www.bcsc.bc.ca/about/media-room/news-releases/2025/93-bcsc-settles-with-bc-based-electric-vehicle-supply-equipment-company) |
+| [ 2025-12-18 ] | [Homme arrêté dans le cadre d’une enquête sur du matériel d’abus et d’exploitation pédosexuels, secteur du chemin York Mills et de la rue Leslie (en anglais seulement)](https://www.tps.ca/media-centre/news-releases/64788/) |
+| [ 2025-12-17 ] | [Enquête portant sur le vol de voitures à grande échelle ciblant celles et ceux qui facilitent l'exportation - accusations portées contre le crime organisé et le blanchiment d'argent](https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/12/enquete-portant-sur-le-vol-de-voitures-a-grande-echelle-ciblant-celles-et-ceux-qui-facilitent-lexportation---accusations-portees-contre-le-crime-or.html) |
+| [ 2025-12-11 ] | [Une enquête de la CVMO a mené à des accusations pour fraude contre Smart Prime Group (en anglais seulement)](https://www.osc.ca/en/news-events/news/osc-investigation-leads-fraud-charges-smart-prime-group) |
+| [ 2025-12-09 ] | [L'ASFC inflige une amende de 36,9 millions de dollars à un entrepreneur de l'Ontario pour avoir omis de déclarer des véhicules exportés](https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2025/12/lasfc-inflige-une-amende-de-369-millions-de-dollars-a-un-entrepreneur-de-lontario-pour-avoir-omis-de-declarer-des-vehicules-exportes.html) |
+| [ 2025-11-21 ] | [Quatre hommes opérant comme un groupe criminel arrêtés par le Groupe de lutte contre les crimes de rue du Sud-Ouest de la Nouvelle-Écosse](https://grc.ca/fr/nouvelle-ecosse/nouvelles/2025/11/4347764) |
+| [ 2025-11-04 ] | [L’Équipe mixte de lutte contre les infractions graves porte des accusations criminelles contre Alexander (Alex) Francis Ongoma (en anglais seulement)](https://www.asc.ca/en/News-and-Publications/News-Releases/2025/11/3-JSOT-criminally-charges-Alexander-Francis-Ongoma) |
+| [ 2025-10-10 ] | [Le président d’une société d’opérations de change inculpé après avoir détourné des millions](https://grc.ca/fr/nouvelles/2025/10/president-dune-societe-doperations-change-inculpe-apres-avoir-detourne-millions) |
+| [ 2025-10-03 ] | [Arrestation effectuée suivant une enquête sur la traite de personne (en anglais seulement)](https://www.haltonpolice.ca/en/news/arrest-made-in-human-trafficking-investigation.aspx) |
+| [ 2025-09-26 ] | [La GRC de l'Ontario démantèle l'un des plus importants réseaux connus de trafic de drogue sur le « dark Web »](https://grc.ca/fr/nouvelles/2025/09/grc-lontario-demantele-lun-plus-importants-reseaux-connus-trafic-drogue-sur-dark-web) |
+| [ 2025-09-19 ] | [La GRC procède à une saisie record de plus de 56 millions de dollars en cryptomonnaies](https://grc.ca/fr/nouvelles/2025/09/grc-procede-saisie-record-plus-56-millions-dollars-en-cryptomonnaies) |
+| [ 2025-09-18 ] | [Mise à jour : Le projet Cerberus démantèle un groupe de crime organisé transnational (en anglais seulement)](https://alert-ab.ca/update-project-cerberus-dismantles-transnational-organized-crime-group/) |
+| [ 2025-09-08 ] | [L’Équipe intégrée des infractions graves porte des accusations criminelles contre Yuvraj Verma et Rohit Sethi (en anglais seulement)](https://www.asc.ca/News-and-Publications/News-Releases/2025/09/5-JSOT-criminally-charges-Yuvraj-Verma-and-Rohit-Sethi) |
+| [ 2025-08-12 ] | [Une importante escroquerie commise à des guichets automatiques bancaires dans un casino de l’Alberta débouche sur des accusations de blanchiment d’argent et de fraude](https://grc.ca/fr/nouvelles/2025/08/importante-escroquerie-commise-guichets-automatiques-bancaires-dans-casino-lalberta-debouche-sur) |
+| [ 2025-07-18 ] | [L’ASC affirme que les lois de l’Alberta sur les valeurs mobilières ont été violées par une plateforme de négociation de cryptoactifs (en anglais seulement)](https://www.asc.ca/en/news-and-publications/news-releases/2025/07/17-asc-alleges-breach-of-alberta-securities-laws-by-crypto-asset-trading-platform-catalx-cts-ltd) |
+| [ 2025-07-02 ] | [L’Équipe intégrée d’enquête sur le blanchiment d’argent dépose 29 accusations en lien avec un stratagème de blanchiment d’argent d’une valeur de 40 M$](https://grc.ca/fr/nouvelles/2025/06/lequipe-integree-denquete-sur-blanchiment-dargent-depose-29-accusations-en-lien-avec-stratageme) |
+| [ 2025-06-23 ] | [Mise à jour : Le projet Leadline met au jour un réseau de trafic de drogues et de blanchiment d’argent (en anglais seulement)](https://alert-ab.ca/update-project-leadline-uncovers-drug-network-money-laundering/) |
+| [ 2025-06-09 ] | [Arrestation par la GRC d’un individu qui exportait des technologies interdites vers la Russie](https://www.rcmp-grc.gc.ca/fr/nouvelles/2025/arrestation-grc-dun-individu-exportait-des-technologies-interdites-vers-russie) |
+| [ 2025-06-02 ] | [Michael Baron conclut un règlement avec l’ASC pour avoir manipulé le marché (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2025/06/2-michael-baron-settles-with-the-asc-for-market-manipulation) |
+| [ 2025-05-27 ] | [Deux personnes accusées de blanchiment et de fraude (en anglais seulement)](https://www.reginapolice.ca/2025/05/23/two-charged-with-laundering-and-fraud/) |
+| [ 2025-05-20 ] | [Un comptable de Surrey falsifie les comptes et sous-déclare près d’un million de dollars en TPS/TVH](https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/2025-05-16-comptable-de-surrey-sous-declare-million.html ) |
+| [ 2025-05-15 ] | [Un Canadien plaide coupable à des accusations de terrorisme](https://www.rcmp-grc.gc.ca/fr/nouvelles/2025/canadien-plaide-coupable-a-des-accusations-terrorisme) |
+| [ 2025-04-24 ] | [L'OSC porte des accusations de fraude contre Ryan Rumble, Michael Dziedzic et Justin Foss. (en anglais seulement)](https://www.osc.ca/en/news-events/news/osc-charges-ryan-rumble-michael-dziedzic-and-justin-foss-fraud ) |
+| [ 2025-04-17 ] | [Le projet Glacier mène au démantèlement d’une organisation criminelle de Grande Prairie (en anglais seulement)](https://alert-ab.ca/project-glacier-dismantles-grande-prairie-criminal-organization/ ) |
+| [ 2025-03-27 ] | [La GRC démantèle un réseau de production de cannabis qui comptait environ 17 000 plants illégaux](https://www.rcmp-grc.gc.ca/fr/nouvelles/2025/grc-demantele-reseau-production-cannabis-comptait-environ-17-000-plants-illegaux) |
+| [ 2025-03-25 ] | [Deux arrestations dans le cadre d’une enquête sur la traite de personnes (en anglais seulement)](https://www.haltonpolice.ca/en/news/two-arrested-in-human-trafficking-investigation.aspx) |
+| [ 2025-02-26 ] | [Une opération nationale ciblant le fentanyl a mené à d’importantes saisies](https://grc.ca/fr/nouvelles/2025/02/operation-nationale-ciblant-fentanyl-mene-dimportantes-saisies ) |
+| [ 2025-02-20 ] | [La GRC de l’Ontario met fin aux agissements de cyberfraudeurs prolifiques](https://www.rcmp-grc.gc.ca/fr/nouvelles/2025/grc-lontario-met-fin-aux-agissements-cyberfraudeurs-prolifiques) |
+| [ 2025-02-05 ] | [La police porte des accusations contre cinq personnes en rapport avec des fraudes d’identité et la falsification de documents (en anglais seulement)](https://www.lethbridgepolice.ca/news/posts/police-charge-five-people-in-connection-with-identity-frauds-forging-documents/) |
+| [ 2025-01-31 ] | [Stratagème interprovincial de blanchiment d’argent à hauteur de 47 M$ : l’Équipe fédérale de la criminalité financière accuse un résident de la C.-B.](https://grc.ca/fr/nouvelles/2025/01/stratageme-interprovincial-blanchiment-dargent-hauteur-47-m-lequipe-federale-criminalite-financiere) |
+| [ 2025-01-27 ] | [Le directeur d’une société minière de Thunder Bay condamné pour évasion fiscale](https://www.canada.ca/fr/agence-revenu/nouvelles/salle-presse/mesures-relatives-enquetes-criminelles-accusations-condamnations/directeur-societe-miniere-thunder-bay-condamne-evasion-fiscale.html ) |
+| [ 2024-11-05 ] | [L’Équipe mixte de lutte contre les infractions graves a déposé des accusations criminelles contre Thomas Norman David Fiddler de Lethbridge pour fraude et blanchiment d’argent (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2024/11/nov-4-jsot-criminally-charges-thomas-normal-david-fiddler-with-fraud-and-money-laundering) |
+| [ 2024-10-29 ] | [Des arrestations à la suite de vols de banque armés en Ontario](https://www.opp.ca/nouvelles/#/viewnews/6720ee182703c) |
+| [ 2024-10-22 ] | [6,3 kg de cocaïne sont retirés de la rue après une enquête conjointe avec le service de police de Brantford](https://www.rcmp-grc.gc.ca/fr/nouvelles/2024/63-kg-cocaine-sont-retires-rue-apres-enquete-conjointe-service-police-brantford) |
+| [ 2024-10-17 ] | [Un fraudeur arrêté pour blanchiment d’argent via le système hawala](https://www.rcmp-grc.gc.ca/fr/nouvelles/2024/fraudeur-arrete-blanchiment-dargent-systeme-hawala) |
+| [ 2024-10-11 ] | [Un résident de Brampton plaide coupable d’avoir omis de déclarer plus de 227 000 $ US à la frontière canadienne](https://www.canada.ca/fr/agence-services-frontaliers/nouvelles/2024/09/french.html) |
+| [ 2024-08-23 ] | [Une enquête complexe sur le trafic de drogues aboutit à des accusations contre de gros narcotrafiquants](https://www.opp.ca/nouvelles/#/viewmediakit/66c7463e8608d) |
+| [ 2024-06-27 ] | [Projet Uptown](https://www.opp.ca/nouvelles/#/viewmediakit/667c7e4d1024d) |
+| [ 2024-06-11 ] | [Mise à jour : Accusations portées à la suite d’une longue enquête sur des biens volés à Camrose (en anglais seulement)](https://alert-ab.ca/update-charges-laid-in-lengthy-camrose-stolen-property-investigation/) |
+| [ 2024-06-07 ] | [Démantèlement d’un réseau international de passage de clandestins](https://www.rcmp-grc.gc.ca/fr/nouvelles/2024/demantelement-dun-reseau-international-passage-clandestins) |
+| [ 2024-05-16 ] | [Une enquête conjointe mène à des accusations de fraude et de blanchiment d'argent contre le « roi de la crypto » autoproclamé et son associé (en anglais seulement)](https://www.osc.ca/en/news-events/news/joint-investigation-leads-fraud-money-laundering-charges-against-self-proclaimed-crypto-king-and) |
+| [ 2024-05-10 ] | [Le Service de police régional de Waterloo arrête un homme dans le cadre d'une enquête de fraude en matière d'investissement à grande échelle (en anglais seulement)](https://www.wrps.on.ca/en/news/wrps-arrest-male-in-connection-to-large-scale-investment-fraud-investigation.aspx) |
+| [ 2024-05-02 ] | [L'Équipe mixte de lutte contre les infractions graves inculpe Kathleen Debra Kelley pour fraude et blanchiment d'argent (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2024/05/may-01-jsot-criminally-charges-kathleen-debra-kelley-with-fraud-and-money-laundering) |
+| [ 2024-05-01 ] | [Enquête sur un trafic interprovincial de drogues (en anglais seulement)](https://www.winnipeg.ca/news/2024-05-01-inter-provincial-drug-investigation) |
+| [ 2024-05-01 ] | [L’ASC affirme que Glenn Hunter, de Grande Prairie, et Kyle Watters, de Kelowna, et leurs entreprises, HW & Associates Inc. et HW TradeFX LLC, ont agi comme courtiers non inscrits (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2024/04/apr-30-asc-alleges-glenn-hunter-of-grande-prairie-and-kyle-watters-of-kelowna-and-their-companies) |
+| [ 2024-04-18 ] | [14 arrestations pour fraude liée au besoin urgent d’argent- arnaque des grands-parents à travers le Canada](https://www.opp.ca/nouvelles/#/viewnews/6620fbd15d9cd) |
+| [ 2024-04-10 ] | [L'ASC publie un avis d’audience concernant des allégations de système de manipulation du marché des actions de Softlab9 Software Solutions Inc. (en anglais seulement)](https://www.asc.ca/en/News-and-Publications/News-Releases/2024/04/Apr-09-ASC-alleges-market-manipulation-scheme-of-Softlab9-Software-Solutions-Inc-shares) |
+| [ 2024-04-09 ] | [L'ASC prétend que Craig Michael Thompson, résident de Calgary, Black Box Management Corp. et Invader Management Ltd. ont enfreint les lois albertaines sur les valeurs mobilières (en anglais seulement)](https://www.asc.ca/en/news-and-publications/news-releases/2024/04/apr-05-asc-alleges-black-box-management-corp-and-invader-management-ltd-breached-securities-laws) |
+| [ 2024-04-08 ] | [Un groupe criminel organisé manque de chance](https://www.rcmp-grc.gc.ca/fr/nouvelles/2024/groupe-criminel-organise-manque-chance) |
+| [ 2023-12-22 ] | [La police a arrêté quatre personnes en lien avec une opération de blanchiment de millions de dollars (en anglais seulement)](https://newsroom.calgary.ca/media-advisory-police-arrest-four-people-in-multi-million-dollar-money-laundering-operation ) |
+| [ 2023-12-22 ] | [David Del Bianco condamné à 4,5 ans de prison pour fraude et blanchiment d’argent (en anglais seulement)](https://www.asc.ca/news-and-publications/news-releases/2023/12/dec-20-david-del-bianco-sentenced ) |
+| [ 2023-12-21 ] | [Déclaration du ministre sur l'importante confiscation des actifs de PacNet (en anglais seulement)](https://news.gov.bc.ca/releases/2023PSSG0093-002007) |
+| [ 2023-12-14 ] | [Trafic de stupéfiants : cocaïne et argent liquide saisis et de multiples accusations portées dans le cadre du projet Bustle](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/trafic-stupefiants-cocaine-et-argent-liquide-saisis-et-multiples-accusations-portees) |
+| [ 2023-12-08 ] | [Deux hommes de l’Ontario arrêtés et accusés de terrorisme](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/deux-hommes-lontario-arretes-et-accuses-terrorisme) |
+| [ 2023-12-06 ] | [Le projet Decrypt de la GRC met au jour un stratagème de blanchiment d’argent au moyen de la cryptomonnaie](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/projet-decrypt-grc-met-au-jour-stratageme-blanchiment-dargent-au-moyen-cryptomonnaie) |
+| [ 2023-11-23 ] | [Deux individus accusés d’avoir exploité un bureau de change illégal](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/deux-individus-accuses-davoir-exploite-bureau-change-illegal) |
+| [ 2023-11-10 ] | [L'ASC conclu qu'Ali Ghani, Prism, Summerside Development Trust et d'autres ont commis une fraude à l'égard d'investisseurs (en anglais seulement)](https://www.asc.ca/en/news-and-publications/news-releases/2023/11/nov-10-asc-finds-that-ali-ghani-prism-summerside-development-trust-perpetrated-a-fraud-on-investors) |
+| [ 2023-11-09 ] | [Les gouvernements adoptent de nouvelles mesures pour lutter contre la criminalité financière qui alimente le commerce illicite d'espèces sauvages (en anglais seulement)](https://unitedforwildlife.org/news/international-statement-of-principles-announced/) |
+| [ 2023-10-05 ] | [Le Groupe de la lutte contre le crime organisé du Manitoba dépose des accusations de blanchiment d’argent dans le cadre du projet DOOM](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/groupe-lutte-crime-organise-du-manitoba-depose-des-accusations-blanchiment-dargent) |
+| [ 2023-09-26 ] | [La GRC fédérale et le département des enquêtes de la sécurité intérieure (Homeland Security Investigations - HSI) démantèlent un réseau international de trafiquants de drogue](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/grc-federale-et-departement-des-enquetes-securite-interieure-homeland-security) |
+| [ 2023-09-19 ] | [Bilan d’opération – Trafic de stupéfiants](https://www.sq.gouv.qc.ca/communiques/bilan-doperation-trafic-de-stupefiants/  ) |
+| [ 2023-08-16 ] | [Mise à jour : Soupçonné de traite de personne, un homme de Calgary fait face à des accusations supplémentaires (en anglais seulement)](https://alert-ab.ca/update-calgary-human-trafficking-suspect-facing-additional-charges/) |
+| [ 2023-08-10 ] | [Le projet Odéon mène au démantèlement d'importants producteurs illégaux d'opioïdes (en anglais seulement)](https://hamiltonpolice.on.ca/news/project-odeon-dismantles-significant-illegal-opioid-producers/) |
+| [ 2023-08-09 ] | [Mise à jour : Accusations déposées dans le cadre du projet Carlos (en anglais seulement)](https://alert-ab.ca/update-charges-laid-in-project-carlos/) |
+| [ 2023-07-31 ] | [Dépôt d’accusations contre un financier de l’État islamique dans le cadre d’une enquête sur le financement d’activités terroristes](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/depot-daccusations-financier-letat-islamique-cadre-dune-enquete-financement) |
+| [ 2023-07-28 ] | [Projet Safe 2023 (en anglais seulement)](https://www.londonpolice.ca/en/news/project-safe-2023.aspx) |
+| [ 2023-07-19 ] | [Une opération conjointe de la police régionale de Peel permet de récupérer une importante quantité de cargaison volée (en anglais seulement)](https://www.peelpolice.ca/Modules/News/index.aspx?feedId=f812883f-9f6d-4ef7-a039-4f196f1f57eb,24cde32a-aa5c-4166-a2b3-26722a001fb4&newsId=d50b1a7a-8e08-4f98-8bcf-4dc4ae142c1e) |
+| [ 2023-07-07 ] | [L’EITSS de la GRC de la Saskatchewan accuse deux hommes à la suite d’une enquête sur le travail forcé dans des restaurants saskatchewanais](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/leitss-grc-saskatchewan-accuse-deux-hommes-a-suite-dune-enquete-travail-force-des) |
+| [ 2023-07-06 ] | [Un trafiquant de personnes aurait recruté sa victime sur les médias sociaux (en anglais seulement)](https://alert-ab.ca/human-trafficker-allegedly-recruited-victim-over-social-media/) |
+| [ 2023-06-13 ] | [Différents services de police et l'Agence des services frontaliers du Canada viennent en aide aux victimes d'un réseau de traite de personnes](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/differents-services-police-et-lagence-des-services-frontaliers-du-canada-viennent) |
+| [ 2023-06-12 ] | [Quatre personnes accusées après une enquête en matière de drogue](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/quatre-personnes-accusees-apres-enquete-matiere-drogue) |
+| [ 2023-06-02 ] | [Jordan McBean condamné à 7 ans de prison pour fraude (en anglais seulement)](https://www.asc.ca/en/News-and-Publications/News-Releases/2023/06/Jun-1-Jordan-McBean-sentenced-to-7-years-in-jail-for-fraud) |
+| [ 2023-05-31 ] | [Projet Pacific – Résultats d’une enquête collaborative sur la traite de personnes (en anglais seulement)](https://www.peelpolice.ca/Modules/News/index.aspx?newsId=eb45d57e-999a-4504-abb7-148ded441f71) |
+| [ 2023-04-14 ] | [Équipe intégrée de la police des marchés financiers porte des accusations contre cinq personnes en lien avec un stratagème transnational d’usurpation de marques](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/equipe-integree-police-des-marches-financiers-porte-des-accusations-cinq-personnes) |
+| [ 2023-04-03 ] | [Le Service de police régional de Waterloo, avec l'aide de ses partenaires, procède à une arrestation dans le cadre d'une enquête de fraude (en anglais seulement)](https://www.wrps.on.ca/en/news/wrps-and-partners-make-arrest-in-fraud-investigation.aspx) |
+| [ 2023-03-31 ] | [Arrestation effectuée à Orillia dans le cadre d’un cas de traite de personne à des fins d’exploitation de travailleurs (en anglais seulement)](https://www.opp.ca/news/#/viewmediakit/6426dc508aa1c) |
+| [ 2023-02-22 ] | [L’IJFS vient en aide à 61 victimes de la traite de personnes - 239 accusations ont été portées (en anglais seulement)](https://www.gsps.ca/en/news/ijfs-assists-61-victims-of-human-trafficking-239-charges-laid.aspx#) |
+| [ 2023-02-17 ] | [Enquête interprovinciale – projet Onyx (en anglais seulement)](https://www.winnipeg.ca/news/2023-02-17-inter-provincial-investigation-project-onyx) |
+| [ 2023-02-09 ] | [La GRC et l'ASFC empêchent 84 kg de cocaïne présumée d'entrer au Canada](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/grc-et-lasfc-empechent-84-kg-cocaine-presumee-dentrer-au-canada) |
+| [ 2023-01-19 ] | [Accusations portées contre trois résidents de l'Ontario pour passage en contrebande de 1,5 tonne de cocaïne au Canada](https://www.rcmp-grc.gc.ca/fr/nouvelles/2023/accusations-portees-trois-residents-lontario-passage-contrebande-15-tonne-cocaine-au) |
+| [ 2023-01-16 ] | [La cour déclare William Jordan McBean coupable de fraude (en anglais seulement)](https://www.asc.ca/en/news-and-publications/news-releases/2023/01/jan-16-court-finds-william-jordan-mcbean-guilty-of-fraud) |
+
+## X
+
+[Publications](https://x.com/CANAFE_Canada)
+
+  
+
+Les représentants des médias peuvent communiquer avec CANAFE au numéro ci-dessous :
+
+Relations avec les médias : 613-716-9983  
+Courriel : [media.medias@fintrac-canafe.gc.ca](mailto:media.medias@fintrac-canafe.gc.ca)
+
+## Lien connexe
+
+* [Avis public des pénalités administratives pécuniaires](/pen/4-fra)
+* [S’abonner à la liste de diffusion de CANAFE](/contact-contactez/list-liste-fra) (pour recevoir des notifications par courriel présentant notre nouveau contenu Web)
+
+Date de modification :
+:   2020-10-13

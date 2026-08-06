@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its [sixth Consumer Trends Report](/document/download/7c65e9fc-44f1-473d-966d-e41ea89167d2_en?filename=sixth_consumer_trends_report.pdf) outlining the major developments in the insurance and pensi

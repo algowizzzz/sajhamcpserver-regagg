@@ -1,0 +1,22 @@
+# Déclaration sur l’utilisation de l’intelligence artificielle par CANAFE
+
+Comme la directrice et PDG de CANAFE l'a déclaré [publiquement](/new-neuf/ps-pa/2023-11-16-fra), le Centre a entrepris une importante initiative de modernisation pour s'assurer de demeurer une unité du renseignement financier et un organisme de surveillance en matière de lutte contre le blanchiment d'argent et le financement du terrorisme de calibre mondial et pleinement capable de faire face aux menaces émergentes et changeantes dans le domaine de la lutte contre le blanchiment d'argent et le financement des activités terroristes.
+
+Le cœur de la vision de la modernisation de CANAFE réside dans l'expansion de l'analyse et de l'automatisation numériques, ainsi que dans l'utilisation de l'intelligence artificielle (IA), à l'échelle de l'organisation. Ainsi, CANAFE cherche à faire un bond en avant sur les plans technique, procédural et culturel afin de garder une avance sur les acteurs malveillants, de trouver de nouvelles façons significatives de collaborer avec ses partenaires, et de continuer à offrir de la valeur et à obtenir des résultats dans un monde en constante évolution.
+
+Dans le cadre de son initiative de modernisation, CANAFE élabore ses propres outils d'IA et n'a conclu aucun contrat en lien avec l'IA.
+
+Janak Alford, le dirigeant principal de la technologie à CANAFE, a créé sur son temps personnel, une application appelée mPersona, qui est une « interface de clavardage » pour les services GPT sous-jacents. Le code source de l'application est libre, disponible et **gratuit pour quiconque souhaite l'utiliser, le modifier ou le diffuser**.
+
+M. Alford n'a jamais tenté de breveter, de vendre de licences ou de vendre l'application mPersona, puisqu'elle est accessible au public et que son utilisation est **gratuite pour tout le monde**. L'entreprise personnelle de M. Alford, Symaiotics, n'a pas d'employés et n'a jamais obtenu ni cherché à obtenir de contrats du gouvernement. L'entreprise existe principalement pour traiter les questions de responsabilité potentielle dans le cas où quelqu'un utiliserait l'application gratuite à mauvais escient.
+
+M. Alford a pleinement déclaré tous les détails concernant la propriété de Symaiotics au dirigeant principal des ressources humaines de CANAFE. Cette déclaration a été dûment évaluée conformément au code de conduite, de valeurs et d'éthique de CANAFE. Dans le cadre de ce processus, M. Alford s'est vu imposer des conditions pour s'assurer que ses activités personnelles, en dehors de son rôle de dirigeant principal de la technologie à CANAFE, demeurent entièrement distinctes de ses fonctions au sein de CANAFE.
+
+En sa qualité de dirigeant principal de la technologie à CANAFE, M. Alford a présenté à d'autres ministères et organismes fédéraux, ainsi qu'au sein de CANAFE, la manière dont le Centre utilise l'IA générative, en soutien à ses activités. Dans le cadre de ces présentations, M. Alford a utilisé mPersona comme exemple, car l'application est gratuite et accessible à toute personne qui souhaite l'utiliser, la modifier ou la diffuser. Cela est conforme à la [Directive sur les services et le numérique](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32601) du gouvernement du Canada, qui stipule que l'emploi de logiciels libres est encouragé et doit contribuer, le cas échéant, aux collectivités dont le travail est exploité.
+
+La population canadienne s'attend à ce que les ministères et organismes partagent entre eux les leçons apprises et les pratiques exemplaires pour veiller à ce que les activités et opérations du gouvernement du Canada soient aussi efficientes et efficaces que possible.
+
+L'accent que met CANAFE sur la modernisation lui permettra de cerner, d'évaluer et de communiquer les risques en temps réel; de soutenir les entreprises et de leur répondre en temps réel; de recevoir les déclarations des entreprises en temps réel; de réaliser nos analyses en temps réel; et de produire du renseignement financier utile pour les organismes d'application de la loi et de sécurité nationale en temps réel. Cela signifie que nous pourrons beaucoup plus rapidement détecter et démanteler de manière proactive les réseaux criminels et terroristes ainsi qu'aider à secourir les victimes plus tôt, en leur évitant de subir davantage de préjudices, et en empêcher d'autres personnes de devenir des victimes.
+
+Date de modification :
+:   2024-05-03

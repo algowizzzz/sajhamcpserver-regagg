@@ -1,0 +1,24 @@
+{
+  "doc_id": "65dea0e269afbb80",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Rapport financier trimestriel pour le trimestre ayant pris fin le 31 d\u00e9cembre 2023",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/publications/qfr-rft/20231231-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8a63fc638d309ca0a549c1b885193df4b96bcfdcee9c2f4329d6183aea8f2991",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/65dea0e269afbb80",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

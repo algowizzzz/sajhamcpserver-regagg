@@ -1,0 +1,314 @@
+# Guide sur l'évaluation du tort causé pour les violations relatives aux déclarations d'opérations douteuses
+
+## Sur cette page
+
+1. [Introduction](#s1)
+   * 1.1 [Objet du présent guide](#s1-1)
+   * 1.2 [Définition du tort](#s1-2)
+   * 1.3 [Calculs des PAP prenant en compte le tort causé](#s1-3)
+2. [Déclaration des opérations douteuses et des renseignements visés par règlement](#s2)
+   * 2.1 [Violation relative à la déclaration d'opérations douteuses et de renseignements visés par règlement](#s2-1)
+   * 2.2 [Tort causé à l'égard de la violation relative à la déclaration d'opérations douteuses et de renseignements visés par règlement](#s2-2)
+   * 2.3 [Détermination de la pénalité à l'égard de la violation relative à la déclaration d'opérations douteuses et de renseignements visés par règlement](#s2-3)
+   * 2.4 [Détermination de la pénalité à l'égard de la violation relative à la déclaration de renseignements visés par règlement – DOD avec des renseignements manquants, incomplets, inadéquats ou insuffisamment détaillés (qualité des données)](#s2-4)
+   * 2.5 [Non-conformité à l'égard des renseignements qui servent à plus d'une fin](#s2-5)
+3. [Violation relative au délai de déclaration des DOD](#s3)
+   * 3.1 [Tort causé à l'égard de la violation relative au délai de déclaration des DOD](#s3-1)
+   * 3.2 [Détermination de la pénalité à l'égard de la violation relative au délai de déclaration des DOD](#s3-2)
+4. [Violations relatives aux modalités de transmission des DOD de CANAFE](#s4)
+   * 4.1 [Tort causé à l'égard de violations relatives aux modalités de transmission des DOD](#s4-1)
+   * 4.2 [Détermination de la pénalité à l'égard de violations relatives aux modalités de transmission des DOD](#s4-2)
+5. [Violations relatives à la conservation d'une copie de DOD](#s5)
+6. [Cas répétés d'une violation donnée](#s6)
+
+## 1. Introduction
+
+Cette page présente la façon dont nous évaluons le tort causé et calculons le montant de la pénalité de base appliqué aux violations relatives à la déclaration d'opérations douteuses.
+
+### 1.1 Objet du présent guide
+
+Le présent guide décrit la façon dont CANAFE aborde le critère du tort causé et le montant de la pénalité de base pour les violations en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et les règlements connexes. Au titre de l'article 73.11 de la Loi, CANAFE doit tenir compte du tort causé par une violation, du caractère non punitif des pénalités administratives pécuniaires (PAP), lesquelles visent plutôt à encourager la conformité, et de tout autre critère prévu par règlement, y compris les antécédents de l'entité déclarante (ED) en matière de conformité, au moment de déterminer le montant d'une pénalité. Les considérations quant à la nature non punitive d'une PAP et aux antécédents de l'ED en matière de conformité sont évaluées à une autre étape du calcul de la pénalité et sont énoncées séparément dans la [Politique sur les PAP](/pen/2-fra) de CANAFE.
+
+### 1.2 Définition du tort
+
+CANAFE définit le « tort causé » comme la mesure dans laquelle une violation nuit à l’atteinte des objectifs de la Loi[Note de bas de page 1](#fn1) ou à la capacité de CANAFE de s’acquitter de son mandat[Note de bas de page 2](#fn2). Ainsi, les conséquences de la non-conformité, lorsqu’une PAP est imposée, sont liées à ses effets sur les efforts déployés par le Canada pour lutter contre le blanchiment d’argent et le financement des activités terroristes (BA/FAT).
+
+Les activités d'application de la loi sont entreprises pour prévenir et corriger le tort causé par la non‑conformité à la Loi et aux règlements connexes. Le respect des exigences par les ED, comme la tenue de documents et la vérification de l'identité des clients, contribue à la dissuasion du BA et du FAT et appuie les enquêtes et les poursuites criminelles. Les exigences liées à la déclaration permettent de garantir que CANAFE reçoit en temps opportun les déclarations d'opérations financières de grande qualité dont il a besoin pour produire les renseignements financiers qui appuient les enquêtes et les poursuites relatives aux infractions de BA et de FAT.
+
+### 1.3 Calculs des PAP prenant en compte le tort causé
+
+Lors de la détermination d'une pénalité, CANAFE prend en compte le tort causé, soit la mesure dans laquelle la non-conformité nuit à l'atteinte des objectifs de la Loi ou à la réalisation du mandat de CANAFE. La non-conformité et le tort sont mesurés à l'aide de normes décrites dans le présent guide, qui énoncent les montants de référence pour les niveaux de tort correspondant à une violation donnée. CANAFE prend en compte les circonstances particulières de chaque cas, telles que l'étendue de la non-conformité et les facteurs atténuants, qui peuvent réduire davantage les montants réels appliqués.
+
+## 2. Déclaration des opérations douteuses et des renseignements visés par règlement
+
+Les déclarations d'opérations douteuses (DOD) doivent être transmises à CANAFE puisqu'elles sont essentielles pour notre travail d'analyse, notre capacité à produire des renseignements financiers, et s'il y a lieu, notre capacité d'appuyer les enquêtes et les poursuites relatives aux infractions de BA et de FAT. Nous utilisons ces déclarations pour dresser le portrait des relations financières entre les personnes et les entreprises, ainsi que pour relever les opérations à risque élevé et les tendances relatives au BA et au FAT, ce qui, en retour, nous aide à cerner les vulnérabilités du système financier canadien. Les renseignements peuvent également améliorer la sensibilisation du public sur les questions liées au BA et au FAT.
+
+Les renseignements contenus dans les DOD permettent à CANAFE d'atteindre les seuils de communication requis. Par conséquent, les déclarations non transmises à CANAFE, ou transmises avec des renseignements manquants, incomplets ou inadéquats nuisent à la capacité de CANAFE à analyser, à évaluer et à communiquer les renseignements financiers.
+
+Par conséquent, le fait de ne pas déclarer une opération douteuse aura une incidence directe sur la capacité de CANAFE à s'acquitter de son mandat, et pourrait interférer avec l'objet de la Loi tel qu'énoncé au sous-alinéa 3a)(ii). Lorsque les DOD ne sont pas transmises, la capacité de CANAFE à effectuer l'analyse est limitée. Par conséquent, la capacité de CANAFE à communiquer des renseignements financiers pour appuyer les enquêtes et les poursuites relatives aux infractions de BA et de FAT peut être réduite. De plus, le fait de ne pas transmettre une DOD entrave également la capacité de CANAFE à cerner les risques et les vulnérabilités liés au BA et au FAT dans le système financier, et à accroître la sensibilisation et la compréhension du public sur les questions liées au BA et au FAT comme il est énoncé aux alinéas 40b) et 40d) de la Loi.
+
+### 2.1 Violation relative à la déclaration d'opérations douteuses et de renseignements visés par règlement
+
+Cette section décrit l'approche de CANAFE à l'égard de la violation relative aux exigences de transmission des opérations douteuses, y compris l'évaluation du tort et le calcul de la pénalité.
+
+Tableau 1 – Violation relative à la déclaration d'opérations douteuses et de renseignements visés par règlement
+
+| Disposition de la Loi | Disposition du Règlement sur la DOD | Description | Nature de la violation |
+| **7** | 9(1) | Fait, pour toute personne ou entité, de ne pas joindre à la déclaration visée les renseignements réglementaires | Très grave De 1 $ à 500 000 $ |
+
+### 2.2 Tort causé à l'égard de la violation relative à la déclaration d'opérations douteuses et de renseignements visés par règlement
+
+Les opérations non déclarées ont une incidence différente de celle des déclarations transmises comportant des problèmes de qualité des données. Cette section explique le tort causé par le fait de ne pas déclarer une opération douteuse et de ne pas fournir les renseignements visés par règlement dans une déclaration transmise.
+
+#### 2.2.1 Opérations douteuses non déclarées
+
+Les DOD fournissent des renseignements essentiels pour les analyses de CANAFE et aux fins de communication aux organismes chargés de l'application de la loi, comme les noms, les numéros de compte, les emplacements et les relations importantes. Les DOD signalent également à CANAFE des opérations précises ou des tentatives d'opérations qui doivent être évaluées puisqu'une ED a conclu qu'il y a des motifs raisonnables de soupçonner qu'une opération ou une tentative d'opération est liée à la perpétration ou à la tentative de perpétration d'une infraction de BA ou de FAT.
+
+Le fait de ne pas déclarer une opération douteuse a une incidence directe et importante sur la capacité de CANAFE à s'acquitter de son mandat. Cela empêche CANAFE d'utiliser les renseignements aux fins d'analyse, d'évaluation, et de communication à la police et aux organismes chargés de l'application de la loi, si certains seuils sont atteints, entraînant ainsi une perte de renseignements, ce qui peut nuire à l'objectif énoncé à l'alinéa 3a) de la Loi, qui est de faciliter les enquêtes et les poursuites liées aux infractions de BA et de FAT.
+
+Les DOD comprennent des renseignements comme les motifs pour lesquels une ED soupçonne que l'opération ou la tentative d'opération est liée à la perpétration ou à la tentative de perpétration d'une infraction de BA ou de FAT, et les mesures qu'elle a prises. Ces détails permettent à CANAFE de prioriser son travail pour appuyer les organismes chargés de l'application de la loi dans le cadre de leurs enquêtes, ainsi que pour évaluer les risques et les vulnérabilités dans le système financier du Canada. Les DOD sont essentielles à la production de renseignements financiers de CANAFE, facilitent la détection, la prévention et la dissuasion du BA et du FAT, et améliorent la sensibilisation et la compréhension du public sur les questions liées au BA et au FAT, conformément aux alinéas 40b) et 40d) de la Loi.
+
+#### 2.2.2 DOD avec des renseignements manquants, incomplets, inadéquats ou insuffisamment détaillés (qualité des données)
+
+Les renseignements prévus à l'annexe 1 du Règlement sur la déclaration des opérations douteuses – recyclage des produits de la criminalité et financement des activités terroristes (Règlement sur la DOD) visent à recueillir les renseignements financiers qui sont nécessaires pour réaliser le mandat de CANAFE et atteindre les objectifs de la Loi. Les renseignements contenus dans une DOD permettent d'identifier les personnes et les entités impliquées dans les opérations, de suivre les mouvements de fonds, de déterminer les relations entre les personnes et les entités, de découvrir les personnes et les entités connexes à des fins d'analyse, de relever les opérations à risque élevé, de cerner les risques et les vulnérabilités dans le système financier canadien, et d'améliorer l'efficacité des analyses de CANAFE.
+
+Lorsque les DOD transmises à CANAFE comportent des lacunes liées à la qualité des données, la détermination de la pénalité tient compte des objectifs susmentionnés qui seraient entravés et de l'étendue de cette obstruction.
+
+### 2.3 Détermination de la pénalité à l'égard de la violation relative à la déclaration d'opérations douteuses et de renseignements visés par règlement
+
+Le Règlement sur les pénalités administratives – recyclage des produits de la criminalité et financement des activités terroristes (Règlement sur les pénalités administratives) prévoit une pénalité entre 1 $ et 500 000 $ pour une violation relative à l'exigence de transmettre des DOD. CANAFE a identifié six types de non‑conformité qui ont une incidence sur sa capacité d'évaluer et d'analyser les renseignements contenus dans les déclarations afin de produire des renseignements financiers, qui sont décrits ci-dessous.
+
+#### 2.3.1 Niveaux de tort de la violation relative à la déclaration d'opérations douteuses et de renseignements visés par règlement et pénalités correspondantes
+
+CANAFE a déterminé six niveaux de tort pour les différents types de non-conformité.
+
+Tableau 2 – Niveaux de tort de la violation relative à la déclaration d'opérations douteuses et de renseignements visés par règlement et pénalités correspondantes
+
+| Niveau de tort | Type de non-conformité | | Description du tort | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | DOD non transmise | Fait de ne pas déclarer des opérations douteuses (aucune DOD antérieure) | Perte totale de renseignements financiers – la déclaration n'est pas disponible et ne peut pas être utilisée à des fins d'analyse | 500 000 $ |
+| Niveau 2 | Fait de ne pas déclarer d'autres opérations douteuses (DOD antérieure) | Perte de renseignements supplémentaires – des renseignements supplémentaires ne sont pas disponibles aux fins d'analyse | 250 000 $ |
+| Niveau 3 | DOD transmise comportant des problèmes de qualité des données | Fait de ne pas fournir les noms de toutes les parties (personnes et entités) liées aux opérations | Impossibilité pour CANAFE d'analyser toutes les parties à une opération | 100 000 $ |
+| Niveau 4 | Les renseignements qui permettent d'identifier toutes les parties (personnes et entités) liées aux opérations ne sont pas conformes | Impossibilité pour CANAFE d'identifier toutes les parties à une opération | 75 000 $ |
+| Niveau 5 | Les renseignements qui permettent de déterminer les liens, qui décrivent les opérations ou les mouvements de fonds, ou qui décrivent les mesures prises ne sont pas conformes | Impossibilité pour CANAFE de déterminer les liens, de suivre les mouvements de fonds, ou de déterminer les mesures prises | 50 000 $ |
+| Niveau 6 | Les renseignements qui permettent à CANAFE d'améliorer l'efficacité de son analyse ne sont pas conformes | Réduction de la capacité de CANAFE à analyser les renseignements de façon efficace et efficiente, et à relever les opérations à risque élevé, et les vulnérabilités du système financier du Canada | 25 000 $ |
+
+CANAFE comprend que les circonstances entraînant le fait de ne pas transmettre une DOD peuvent être très différentes d'un cas à l'autre. Toutefois, l'incidence sur l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE peut être immédiate puisque les déclarations non transmises entraînent une perte de renseignements. Pour cette raison, les pénalités pour les opérations douteuses non déclarées se situent à l'échelon supérieur du barème de pénalité prescrit de 1 $ à 500 000 $.
+
+Les niveaux les plus élevés de tort, les niveaux 1 et 2, sont applicables aux opérations douteuses non déclarées. Ils engagent les pénalités maximales, 500 000 $ et 250 000 $ respectivement, puisqu'ils causeraient le plus grand tort à la capacité de CANAFE à s'acquitter de son mandat, ou à l'atteinte des objectifs de la Loi.
+
+Les autres niveaux de tort, les niveaux 3 à 6, sont applicables aux DOD transmises comportant des problèmes de qualité des données. Ils engagent des pénalités de 100 000 $, 75 000 $, 50 000 $ et 25 000 $ respectivement pour tenir compte du degré moindre de tort qu'ils présentent par rapport aux opérations douteuses non déclarées, mais ces pénalités doivent être suffisantes pour favoriser un changement de comportement, ce qui est l'objectif d'une PAP.
+
+Dans toutes les situations, les facteurs atténuants pertinents seront étudiés et pourraient réduire la pénalité autant qu'il le faut. Des exemples de facteurs atténuants pertinents sont fournis ci-dessous.
+
+#### 2.3.2 Montant de la pénalité pour une opération douteuse non déclarée
+
+Pour déterminer la pénalité pour une opération douteuse non déclarée (voir les niveaux 1 et 2 du [Tableau 2](#tb2)), CANAFE tiendra compte des facteurs décrits ci-dessous.
+
+#### 2.3.3 Tort de niveau 1 : Fait de ne pas déclarer des opérations douteuses (aucune DOD antérieure transmise)
+
+Lorsqu'une DOD n'est pas transmise à CANAFE, la première considération pour le tort causé est la perte de renseignements. Par conséquent, le facteur le plus important à prendre en compte est celui de savoir si une DOD a déjà été transmise au sujet de ce même client, pour une opération et un doute semblables. Lorsque aucune DOD n'a été transmise au sujet d'un client donné pour des opérations et des doutes semblables, nous croyons que cela pose beaucoup plus de tort à l'atteinte des objectifs énoncés aux alinéas 3a) et 40b) de la Loi, parce que les déclarations manquantes entraînent une perte totale de renseignements pour CANAFE, et ne nous avise pas des opérations à risque élevé qui ont une incidence directe sur notre mandat. La pénalité maximale (jusqu'à 500 000 $ par cas) sera prise en considération pour ces cas.
+
+La pénalité maximale de 500 000 $ s'applique lorsqu'une opération douteuse n'est pas déclarée et :
+
+1. aucune DOD antérieure n'a été transmise à CANAFE au sujet des opérations douteuses effectuées ou tentées par la personne ou l'entité en question;
+2. aucun facteur n'atténue le risque de BA ou de FAT.
+
+Cette situation est le pire scénario et présente le plus haut niveau de tort, parce que CANAFE ne dispose pas des renseignements dont il a besoin pour produire des renseignements financiers, s'acquitter de son mandat et contribuer à l'atteinte des objectifs de la Loi. Puisqu'il n'y a pas de facteurs atténuants, le risque de BA ou de FAT, les opérations douteuses non déclarées, et les risques et vulnérabilités du système financier demeurent non détectés.
+
+Toutefois, dans des cas où une DOD n'a pas été transmise à CANAFE, mais où il y avait des facteurs atténuants, la pénalité de 500 000 $ sera réduite comme décrit dans la section [Facteurs atténuants pour les opérations douteuses non déclarées](#s2-3-5).
+
+#### 2.3.4 Tort de niveau 2 : Fait de ne pas déclarer d'autres opérations douteuses (DOD antérieure transmise)
+
+Lorsqu'une ED ne présente pas une déclaration au sujet d'une opération douteuse, mais qu'elle avait présenté des déclarations au sujet des opérations douteuses de ce client dans le passé, CANAFE a déjà été informé. Par conséquent, une pénalité moindre (250 000 $) est appliquée.
+
+Une pénalité de 250 000 $ s'applique lorsqu'une opération douteuse n'est pas déclarée et :
+
+1. au moins une DOD a été transmise antérieurement au sujet d'une opération semblable, soulevant un soupçon semblable qu'elle est liée à la perpétration ou à la tentative de perpétration d'une infraction de BA ou de FAT, et a été effectuée par le même client;
+2. aucun autre facteur n'atténue le risque de BA ou de FAT.
+
+Même si une DOD n'a pas été transmise à CANAFE, l'ED a déjà présenté des DOD concernant le client pour des opérations et des soupçons semblables. Par conséquent, CANAFE a déjà été alerté des opérations semblables à risque élevé effectuées par ce client.
+
+Dans des cas où il existe des facteurs atténuants, la pénalité de 250 000 $ sera réduite comme décrit dans la section [Facteurs atténuants pour les opérations douteuses non déclarées](#s2-3-5).
+
+#### 2.3.5 Facteurs atténuants pour les opérations douteuses non déclarées
+
+Cette section décrit les facteurs atténuants qui devraient être pris en compte dans le calcul de la pénalité. Il faut faire preuve de discernement et tenir compte du caractère raisonnable des facteurs, puisque chaque situation sera unique.
+
+Il existe deux types de facteurs atténuants, ceux :
+
+1. présents à la suite des mesures prises par l'ED;
+2. présents en raison des circonstances, de l'opération et/ou du client.
+
+Le montant de la pénalité évalué doit tenir compte des faits de chaque dossier. CANAFE tiendra compte de tous les facteurs pertinents et déterminera une pénalité qui est conforme à l'étendue de l'atténuation. La présence de plusieurs facteurs atténuants peut réduire de façon importante le niveau de tort causé par une violation; par conséquent, la pénalité pourrait potentiellement être réduite au montant minimal prescrit de 1 $.
+
+Des facteurs aggravants ne sont pas pris en compte dans le calcul de la pénalité puisqu'ils le sont déjà dans la décision d'appliquer une PAP.
+
+##### Facteurs atténuants et réductions de la pénalité
+
+Étant donné que les facteurs atténuants pourraient réduire le tort causé à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE, les pénalités liées au fait de ne pas transmettre des DOD peuvent être réduites. Une réduction de 75 000 $ peut être appliquée à une pénalité lorsqu'il s'agit d'un facteur atténuant majeur, et une réduction de 25 000 $ pour un facteur atténuant mineur. Ces montants représentent 15 % et 5 % respectivement de la pénalité maximale (500 000 $) pour les opérations douteuses non déclarées, puisque les facteurs atténuants majeurs permettraient de réduire le tort causé à l'atteinte des objectifs de la Loi et la réalisation du mandat de CANAFE plus grandement que les facteurs atténuants mineurs.
+
+Comme indiqué ci-dessous, plus le nombre de facteurs atténuants présents est élevé, plus la réduction du tort causé à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE est importante. Plusieurs facteurs atténuants pourraient réduire de façon importante le tort causé par le fait de ne pas déclarer une opération douteuse; par conséquent, la pénalité serait réduite de façon cumulative par chaque facteur atténuant.
+
+Tableau 3 – Exemples de facteurs atténuants dans le cas de la violation relative à une DOD non déclarée
+
+| Facteurs majeurs – réduction de 75 000 $ pour chaque cas | Facteurs mineurs – réduction de 25 000 $ pour chaque cas |
+| Toutes les opérations ont été déclarées dans des déclarations d'opérations importantes en espèces (DOIE), des déclarations de télévirements (DT) et des déclarations de déboursements de casino (DDC) | Un contrôle continu accru a été effectué |
+| Des renseignements ont été fournis aux organismes chargés de l'application de la loi | Les renseignements sur les clients ont été mis à jour |
+| Opération annulée, inversée ou refusée | La source des fonds a été identifiée ou confirmée |
+| DOD transmise après la découverte de CANAFE |
+| Les personnes ont déjà été reconnues coupables d'infractions de BA ou de FAT au cours de la même période |
+
+##### Facteurs atténuants majeurs
+
+Les facteurs atténuants majeurs sont des mesures prises ou des actions effectuées par une ED qui réduisent de façon importante le tort causé à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE. Chaque facteur atténuant majeur permet de réduire une pénalité de 75 000 $. CANAFE tiendra compte de tous les facteurs qui atténuent le tort dans la même mesure que les facteurs énumérés ci-dessous, qui sont donnés à titre d'exemples, mais ne constituent pas une liste exhaustive.
+
+**Toutes les opérations ont été déclarées dans les déclarations réglementaires (DOIE/DDC/DT)**
+
+Lorsqu'une ED omet de transmettre une DOD lorsqu'il y a des motifs raisonnables de soupçonner qu'une opération est liée à la perpétration ou à la tentative de perpétration d'une infraction de BA ou de FAT, mais a déclaré l'opération dans une déclaration réglementaire différente, la capacité de CANAFE à analyser et à communiquer des renseignements à la police et à un organisme chargé de l'application de la loi est beaucoup moins touchée, parce que les renseignements sur l'opération sont disponibles à CANAFE pour l'analyse et la production de renseignements financiers. Toutefois, il y a encore un tort causé au régime canadien de lutte contre le BA et le FAT, puisque les renseignements importants fournis dans les DOD ne sont pas transmis à CANAFE (par exemple, une description détaillée des motifs de soupçonner que l'opération ou la tentative d'opération est liée à la perpétration d'une infraction de BA ou de FAT, ce qui a une valeur analytique élevée). Par conséquent, nous ne serions pas avisés des soupçons et des autres risques que pose l'opération qui a été déclarée dans une DOIE, une DT ou une DDC.
+
+**Des renseignements ont été fournis directement aux organismes chargés de l'application de la loi**
+
+Fournir des renseignements importants directement aux organismes chargés de l'application de la loi réduit le tort à l'atteinte des objectifs de la Loi, car ces organismes pourraient être en mesure d'agir face aux renseignements afin d'appuyer le régime canadien de lutte contre le BA et le FAT. Toutefois, il y a encore un tort causé au régime et au mandat de CANAFE, puisque les renseignements n'ont pas été mis à la disposition de CANAFE. CANAFE, à titre d'unité du renseignement financier, est en mesure de voir des opérations précises d'un point de vue élargi et coordonné. Nous examinons des opérations précises qui sont signalées comme suspectes en conjonction avec les déclarations d'opérations financières provenant d'autres ED, et les renseignements transmis volontairement par les organismes chargés de l'application de la loi et le public. Ces autres sources de renseignements peuvent ajouter une valeur importante en nous permettant de déterminer les liens nationaux et internationaux et de fournir un meilleur portrait des circonstances entourant les opérations douteuses, qui peuvent mieux appuyer les enquêtes et les poursuites relativement à des infractions de BA et de FAT.
+
+**Opération annulée, inversée ou refusée**
+
+Lorsqu'une ED annule, inverse ou refuse une opération douteuse, elle participe à l'atteinte de certains objectifs de la Loi en détectant et en prévenant des produits potentiels de la criminalité ou des fonds potentiellement destinés à financer des activités terroristes, d'entrer dans le système financier du Canada. Toutefois, il y a encore un tort causé à l'atteinte des autres objectifs de la Loi et à la réalisation au mandat de CANAFE puisque le client qui a effectué l'opération peut utiliser d'autres institutions financières. Si CANAFE n'est pas informé d'une opération en particulier, des soupçons connexes et des parties en cause, il ne peut pas évaluer et communiquer les renseignements à la police en temps opportun.
+
+##### Facteurs atténuants mineurs
+
+Les facteurs atténuants mineurs sont des facteurs qui sont propres aux circonstances d'une opération douteuse et permettent d'atténuer le tort, même s'ils le font beaucoup moins que les facteurs atténuants majeurs. Chaque facteur atténuant mineur permet de réduire une pénalité de 25 000 $. CANAFE tiendra compte de tous les facteurs qui atténuent le tort dans la même mesure que les facteurs énumérés ci-dessous, qui sont donnés à titre d'exemples, mais ne constituent pas une liste exhaustive.
+
+**Un contrôle continu accru a été effectué**
+
+Lorsqu'une ED effectue un contrôle continu accru sur une relation d'affaires, elle évalue le client, les opérations et les activités plus étroitement et plus fréquemment, incluant tenir à jour les renseignements sur la relation d'affaires, réévaluer le niveau de risque, déterminer si les activités concordent avec les renseignements obtenus, et déceler les opérations douteuses qui doivent être déclarées. Même si cela pourrait réduire le tort en facilitant la détection du BA et du FAT et mettre tous les renseignements à jour sur la relation d'affaires à la disposition des organismes chargés de l'application de la loi ou dans des déclarations futures à CANAFE, il y a encore un tort causé considérable puisque CANAFE ne peut pas analyser des renseignements et les communiquer à la police et aux organismes chargés de l'application de la loi.
+
+**Les renseignements sur les clients ont été mis à jour**
+
+Lorsqu'une ED met à jour les renseignements d'un client, elle recueille les renseignements à jour, pertinents ou supplémentaires qui pourraient être utilisés par les organismes chargés de l'application de la loi; elle peut également dissuader les criminels d'exploiter le système financier, ce qui permet de réduire le tort causé à l'atteinte des objectifs de la Loi. Les renseignements sur le client mis à jour peuvent également être utilisés dans des déclarations futures à CANAFE. Toutefois, il y a encore un tort considérable à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE, puisque CANAFE ne peut pas analyser les renseignements et les communiquer à la police et aux organismes chargés de l'application de la loi, et ne peut pas non plus analyser les renseignements afin d'accroître la sensibilisation et la compréhension du public sur les questions liées au BA et au FAT.
+
+**La source des fonds a été identifiée ou confirmée**
+
+Lorsqu'une ED identifie ou confirme la source des fonds utilisés par un client, par exemple pour des étrangers politiquement vulnérables ou dans le cadre de mesures particulières mises en œuvre par l'ED pour les risques élevés, elle recueille des renseignements qui pourraient être utilisés par les organismes chargés de l'application de la loi, ce qui permet de réduire le tort causé à l'atteinte des objectifs de la Loi. Les renseignements peuvent également être fournis à CANAFE dans des déclarations futures. Toutefois, il y a encore un tort considérable à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE, puisque CANAFE ne peut pas analyser les renseignements et les communiquer à la police et aux organismes chargés de l'application de la loi.
+
+**L'opération douteuse a été déclarée après qu'elle a été découverte par CANAFE**
+
+Le tort pourrait être réduit dans les situations où une DOD est transmise après le signalement de la non‑conformité par CANAFE, puisqu'avec les renseignements CANAFE peut effectuer son travail d'analyse. Toutefois, il pourrait encore y avoir un tort considérable à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE, puisque CANAFE ne peut pas évaluer et analyser les renseignements jusqu'à ce qu'il en dispose. De plus, si CANAFE n'avait pas décelé l'opération douteuse, les renseignements pourraient ne jamais avoir été envoyés.
+
+**Le client impliqué dans l'opération douteuse a déjà été reconnu coupable d'infractions de BA ou de FAT au cours de la même période**
+
+Lorsqu'un client a déjà été déclaré coupable d'une infraction de BA ou de FAT comprenant l'opération douteuse non déclarée en question, le tort causé pourrait être réduit. La déclaration de l'opération à CANAFE n'appuierait pas les enquêtes et les poursuites déjà achevées. Toutefois, il y a encore un tort possible à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE, puisque CANAFE ne peut pas analyser les renseignements pour découvrir d'autres liens et relations possibles.
+
+### 2.4 Détermination de la pénalité à l'égard de la violation relative à la déclaration de renseignements visés par règlement – DOD avec des renseignements manquants, incomplets, inadéquats ou insuffisamment détaillés (qualité des données)
+
+Lorsque CANAFE reçoit des DOD dans lesquelles des renseignements sont manquants, incomplets, inexacts ou inadéquatement détaillés, il tient compte de la déclaration dans son intégralité. Nous déterminons comment la non‑conformité nous empêche d'effectuer l'analyse qui mène à la réalisation de notre mandat, ou comment la non-conformité entrave l'atteinte des objectifs de la Loi.
+
+Comme expliqué ci-haut, l'échelon supérieur du barème de pénalité prescrit de 1 $ à 500 000 $ est utilisé afin de déterminer le montant de la pénalité pour ne pas avoir déclaré une opération douteuse, car cette violation nuit grandement à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE. En ce qui concerne la non-conformité dans la déclaration des renseignements prévus à l'annexe 1 du Règlement sur les DOD, qui sont des cas où des DOD sont transmises dans lesquelles des renseignements sont manquants, inexacts, inadéquats ou incomplets, le tort causé à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE est moins élevé que le tort issu de l'omission de déclarer une DOD. Par conséquent, l'échelon inférieur du barème de pénalité réglementaire est appliqué et l'échelle utilisée pour les infractions liées à la qualité des données des DOD va de 1 $ à 100 000 $. Cette échelle est conforme à ce qui est prescrit pour les violations graves, car après la réception de la DOD, l'exactitude et l'exhaustivité des renseignements fournis dans une DOD sont de la plus haute importance pour les analyses de CANAFE. Pour assurer l'atteinte de l'objectif de la Loi et la réalisation de son mandat, CANAFE est autorisé à recevoir tous les renseignements prévus à l'annexe 1 du Règlement sur les DOD. Nous utilisons ces renseignements pour dresser le portrait des relations financières entre des personnes et des entités qui ont été signalées comme présentant un risque élevé d'être liées à une infraction de BA et de FAT, ce qui, en retour, nous permet de produire de précieux renseignements financiers qui appuient la police, les agences de sécurité et d'autres organismes chargés de l'application de la loi. Lorsque des renseignements réglementaires ne sont pas inclus, complets, adéquats, ou suffisamment détaillés, nous tiendrons compte, dans notre détermination du montant de la pénalité, des objectifs qui seraient entravés, et dans quelle mesure ils le sont.
+
+Pour la violation relative à la qualité des données des DOD, CANAFE a identifié quatre niveaux de tort en prenant en compte l'incidence de la non-conformité sur sa capacité à évaluer et à analyser la déclaration afin de produire des renseignements financiers. Par conséquent, le barème de 1 $ à 100 000 $ est divisé en quatre pour représenter les différents niveaux de tort. Le montant le plus élevé dans ce barème, 100 000 $, est attribué à la violation relative à la qualité des données qui a la plus forte incidence sur la capacité de CANAFE à évaluer et analyser une DOD. Le montant de la pénalité pour le niveau de tort le plus bas dans ce barème est de 25 000 $, avant les facteurs atténuants. Le montant de la pénalité peut être réduit en fonction des facteurs atténuants, mais la pénalité réduite doit quand même être suffisante pour encourager la conformité et un changement de comportement, ce qui est l'objectif d'une PAP.
+
+Le [tableau 2](#tb2) détaille les niveaux de tort, les types de non-conformité et les montants des pénalités correspondantes. Ils sont énumérés par ordre d'importance à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE. Lorsqu'un cas de non-conformité peut s'appliquer à plus d'un niveau de tort, la pénalité sera fondée sur le niveau de tort le plus élevé. Les facteurs atténuants pertinents seront pris en compte et pourraient réduire la pénalité a aussi peu que 1 $, comme prévu au Règlement sur les pénalités administratives.
+
+CANAFE appliquera les critères présentés ci-dessous pour déterminer un montant conformément au tort causé à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE lors de la détermination de la pénalité pour les DOD qui ne sont pas conformes aux renseignements réglementaires en vertu de l'annexe 1 du Règlement sur la DOD (voir les niveaux 3 à 6 au [tableau 2](#tb2)).
+
+**Remarque :** Les DOD qui ne contiennent pas le nom complet d'au moins une personne ou entité (à l'exception des tentatives d'opérations), au moins une opération effectuée ou tentée, une section G remplie (motifs raisonnables de soupçonner) et les renseignements de l'ED, ne peuvent pas être utilisées par CANAFE à des fins analytiques. Par conséquent elles sont traitées comme non déclarées et engagent l'échelle de pénalité décrite au [tableau 2](#tb2). Toutefois, CANAFE tiendra compte des cas où une ED est incapable d'obtenir les renseignements nécessaires, parce que cela éveillerait des soupçons chez la personne qu'une déclaration d'opération douteuse pourrait être transmise.
+
+#### 2.4.1 Tort de niveau 3 : Fait de ne pas fournir les noms de toutes les parties (personnes et entités) liées aux opérations
+
+Pour une violation relative à la qualité des données des DOD, le fait de ne pas fournir les noms de toutes les parties à une opération, si ces renseignements existent, a la plus grande incidence sur la capacité de CANAFE à s'acquitter de son mandat, à analyser les déclarations et à communiquer les renseignements financiers. À tout le moins, le nom d'une personne ou d'une entité qui est une partie à l'opération signale à CANAFE une situation à risque élevé potentielle et justifie l'analyse approfondie des opérations des personnes ou des entités de ce nom. Sans les noms des personnes et des entités participant à une opération douteuse, CANAFE n'est pas avisé du risque et n'est pas en mesure d'effectuer l'analyse nécessaire. Par conséquent, la pénalité est la plus élevée attribuée à une violation relative à la qualité des DOD, soit 100 000 $. Ce montant tient compte de l'incidence importante de la non-conformité sur la capacité de CANAFE à s'acquitter de son mandat.
+
+#### 2.4.2 Tort de niveau 4 : Les renseignements qui permettent d'identifier toutes les parties (personnes et entités) liées aux opérations ne sont pas conformes
+
+La deuxième violation la plus dommageable, relative à la qualité des données, est le fait de ne pas fournir des renseignements qui confirment l'identité de toutes les parties à l'opération. Ce type de non‑conformité peut empêcher CANAFE de déterminer si une personne ou une entité qui participe à l'opération est celle visée dans ses analyses, limitant ainsi sa capacité à communiquer les renseignements à la police. Même si le fait de détenir certains renseignements est moins dommageable que le fait de n'avoir aucun nom déclaré, puisque CANAFE ne peut pas pleinement utiliser les renseignements pour s'acquitter de son mandat, la pénalité pour cette violation est la deuxième plus élevée des pénalités pour des lacunes sur le plan de la qualité des données, soit 75 000 $.
+
+#### 2.4.3 Tort de niveau 5 : Les renseignements qui permettent d'établir les liens, qui décrivent les opérations ou les mouvements de fonds, ou qui décrivent les mesures prises, ne sont pas conformes
+
+CANAFE utilise ces renseignements pour comprendre les opérations qui ont été effectuées, suivre le mouvement des fonds et découvrir de nouveaux liens qui peuvent être pertinentes pour les enquêtes de BA ou de FAT. Le fait de ne pas fournir ces renseignements peut empêcher CANAFE de contribuer à la détection, à la prévention et à la dissuasion du BA et du FAT, parce que les renseignements peuvent permettre de découvrir de nouvelles pistes et nous aider à mieux comprendre les opérations et les relations. Toutefois, puisque CANAFE peut encore utiliser la déclaration pour identifier les opérations et les personnes en cause, la pénalité prévue pour cette violation est de 50 000 $, le troisième montant le plus élevé. Ce montant tient compte de l'importance des renseignements pour les analyses de CANAFE, tout en reconnaissant qu'ils sont relativement moins dommageables à l'atteinte des objectifs de la Loi et à la réalisation du mandat de CANAFE que les deux catégories précédentes.
+
+#### 2.4.4 Tort de niveau 6 : Les renseignements qui permettent à CANAFE d'améliorer l'efficacité de son analyse ne sont pas conformes
+
+Le fait de ne pas fournir des renseignements complets, adéquats et détaillés autres que ceux présentés dans les niveaux de tort précédents influe sur l'efficience et l'efficacité de CANAFE à cerner les opérations à risque élevé et les vulnérabilités dans le système financier du Canada. Par exemple, nous pouvons évaluer si le type, la fréquence, la quantité et la valeur des opérations d'un client concordent avec sa profession lorsque les champs décrivant la profession ou la nature de l'entreprise du client sont complets, adéquats et suffisamment détaillés. Le système d'analyse de CANAFE s'appuie sur des renseignements déclarés de manière structurée afin de signaler les opérations à risque élevé et les DOD aux fins de priorisation, afin de cerner les tendances et d'identifier les personnes qui figurent dans plusieurs déclarations. Si ces champs contiennent des erreurs, les analystes doivent manuellement recourir à d'autres moyens ou sources afin de vérifier l'exactitude des renseignements. Bien que l'absence de ces renseignements n'empêche pas entièrement CANAFE d'effectuer ses analyses, elle a une incidence sur sa capacité à s'acquitter de son mandat de façon efficiente et efficace. Par conséquent, ce type de non-conformité entraîne la pénalité la plus faible pour une violation relative à la qualité des données, soit 25 000 $.
+
+### 2.5 Non-conformité à l'égard des renseignements qui servent à plus d'une fin
+
+La majorité des renseignements requis dans une déclaration peuvent servir à plusieurs des fins décrites ci-dessus. Pour cette raison, lorsqu'on détermine la pénalité pour une déclaration non conforme qui entraîne plus d'un niveau de tort, la pénalité est déterminée au montant correspondant au niveau de tort le plus élevé.
+
+Au moment d'évaluer le niveau de tort et de déterminer la pénalité, CANAFE tient compte de l'ensemble de la déclaration. Par exemple, si une déclaration ne comprend pas la date de naissance de la personne qui effectue l'opération, mais l'adresse, le numéro de téléphone et les renseignements relatifs à l'identification de cette personne sont fournis, CANAFE peut être en mesure de confirmer l'identité de cette personne en effectuant des analyses additionnelles avec d'autres renseignements contenus dans la même déclaration. Dans ce cas, même si les renseignements manquants étaient liés à l'identification des parties aux opérations (niveau 3), en examinant l'intégralité de la déclaration, il a été déterminé que le tort est causé par une non-conformité au niveau des renseignements qui permettent à CANAFE d'améliorer l'efficacité de son analyse (niveau 6). En fait, les renseignements manquants réduisent l'efficacité de l'analyse de CANAFE, car les systèmes d'analyse de CANAFE ne pourraient pas fonctionner sans une intervention manuelle. Par conséquent, le montant présumé de la pénalité serait de 25 000 $.
+
+## 3. Violation relative au délai de déclaration des DOD
+
+Cette section décrit l'approche de CANAFE à l'égard de la violation relative au délai de déclaration des DOD, y compris l'évaluation du tort et le calcul de la pénalité.
+
+Tableau 4 – Violation relative au délai de déclaration des DOD
+
+| Disposition de la Loi | Disposition du Règlement sur la DOD | Description | Nature de la violation |
+| **7** | 9(2) | Fait, pour toute personne ou entité, de ne pas envoyer la déclaration dans le délai réglementaire | Grave De 1 $ à 100 000 $ |
+
+### 3.1 Tort causé à l'égard de la violation relative au délai de déclaration des DOD
+
+Lorsqu'une déclaration n'est pas transmise dans le délai réglementaire, CANAFE n'est pas en mesure d'analyser les renseignements et de les communiquer en temps opportun, ou les renseignements peuvent ne pas être disponibles au moment où CANAFE l'exige.
+
+CANAFE examine et évalue les DOD dans les jours suivant leur transmission. Au besoin, par exemple, lorsqu'une DOD est liée à la sécurité nationale, CANAFE accélère la communication de renseignements financiers à la police et aux organismes chargés de l'application de la loi dans un délai d'un jour. Par conséquent, un retard dans la transmission d'une DOD peut avoir une incidence sur l'efficacité de CANAFE à s'acquitter de son mandat.
+
+### 3.2 Détermination de la pénalité à l'égard de la violation relative au délai de déclaration des DOD
+
+Le montant maximal de la pénalité prescrit de 100 000 $ est considéré pour les DOD tardives qui sont liées au financement des activités terroristes, à la sécurité nationale ou à une enquête en cours dont l'ED a été informée. Pour tous les autres cas, CANAFE a choisi un barème de référence de 1 $ à 10 000 $, ce qui est conforme au paragraphe 4(2) du Règlement sur les pénalités administratives, lequel stipule qu'une série de violations mineures totalisant 10 000 $ ou plus équivaut à une violation grave.
+
+Si les déclarations ne sont pas reçues en temps opportun, CANAFE ne peut pas produire des renseignements financiers qui sont opportuns et qui contribuent aux enquêtes de la police et des organismes chargés de l'application de la loi. Plus le délai est prolongé, plus il est probable que CANAFE aurait eu besoin d'une déclaration qui n'a pas été transmise. Par conséquent, la pénalité augmente avec le nombre de jours de retard. Le barème de pénalité est divisé en quatre intervalles égaux pour créer une échelle fondée sur les niveaux de tort. La pénalité la plus faible est de 2 500 $, et peut être réduite s'il y a des facteurs atténuants, tout en demeurant suffisante pour favoriser un changement de comportement en matière de conformité, ce qui est l'objectif d'une PAP.
+
+Tableau 5 – Niveaux de tort de la violation relative au délai de déclaration des DOD et pénalités correspondantes
+
+| Niveau de tort | Nombre de jours de retard | Pénalité (sans tenir compte des facteurs atténuants) |
+| Niveau 1 | 30 jours ou plus | 10 000 $ |
+| Niveau 2 | De 15 à 29 jours | 7 500 $ |
+| Niveau 3 | De 7 à 14 jours | 5 000 $ |
+| Niveau 4 | De 1 à 7 jours | 2 500 $ |
+
+## 4. Violations relatives aux modalités de transmission des DOD de CANAFE
+
+Cette section décrit l'approche de CANAFE à l'égard des violations relatives à la transmission des DOD selon les modalités réglementaires, y compris l'évaluation du tort et le calcul de la pénalité.
+
+Tableau 6 – Violations relatives aux modalités de transmission des DOD de CANAFE
+
+| Disposition de la Loi | Disposition du Règlement sur la DOD | Description | Nature de la violation |
+| **7** | 12(1) | Ne pas transmettre une déclaration par voie électronique selon les directives établies par le Centre, si le déclarant a les moyens techniques de le faire | Grave De 1 $ à 100 000 $ |
+| **7** | 12(2) | Ne pas transmettre une déclaration sur support papier selon les directives établies par le Centre, si le déclarant n'a pas les moyens techniques de le faire par voie électronique | Grave De 1 $ à 100 000 $ |
+| **7** | 12(3) | Ne pas transmettre la déclaration visée sur support papier selon les directives établies par le Centre | Grave De 1 $ à 100 000 $ |
+
+### 4.1 Tort causé à l'égard de violations relatives aux modalités de transmission des DOD
+
+CANAFE précise les modalités selon lesquelles les renseignements réglementaires doivent être déclarés afin que ses systèmes puissent valider si les déclarations sont complètes et immédiatement disponibles à des fins d'analyse, identifier les personnes et les entités pour effectuer une analyse et signaler les opérations à risque élevé et les DOD. Le fait de ne pas transmettre des déclarations conformément aux directives établies par le Centre peut nous empêcher d'analyser efficacement les renseignements et peut même rendre les renseignements inutilisables à des fins d'analyse.
+
+### 4.2 Détermination de la pénalité à l'égard de violations relatives aux modalités de transmission des DOD
+
+Lorsqu'une ED ne transmet pas une DOD selon les modalités prévues dans les directives de CANAFE, le montant de la pénalité pour la violation est fondé sur les types de non-conformité pour les violations relatives à la qualité des DOD (voir les niveaux 3 à 6 dans le [tableau 2](#tb2)).
+
+## 5. Violations relatives à la conservation d'une copie de DOD
+
+Cette section décrit l'approche de CANAFE à l'égard des violations relatives à l'obligation de conserver une copie des DOD transmises.
+
+Tableau 7 – Violations relatives à la conservation d'une copie de DOD
+
+| Disposition de la Loi | Disposition du Règlement sur les DOD | Description | Nature de la violation |
+| 6 | 12.1 | Fait, pour toute personne ou entité visée, de ne pas conserver une copie de la déclaration réglementaire | Mineure De 1 $ à 1 000 $ |
+| 6 | 12.3(1) | Fait, pour toute personne ou entité, de ne pas conserver la copie de la déclaration réglementaire pendant la période visée | Mineure De 1 $ à 1 000 $ |
+
+Consultez le [guide sur l'évaluation du tort causé pour les violations relatives à la tenue de documents](rk-fra) pour en apprendre davantage sur l'évaluation du tort et le calcul de la pénalité.
+
+## 6. Cas répétés d'une violation donnée
+
+Lorsqu'une violation donnée se produit à plusieurs reprises, CANAFE tiendra compte de sa cause sous-jacente, de son type et d'autres faits pertinents pour déterminer si le niveau de tort devrait être réduit pour les cas subséquents de cette violation. Par exemple, si plusieurs DOD au sujet d'une personne ne comprennent pas la profession de cette personne, et si cela a pour seul effet de réduire l'efficacité des analyses de CANAFE, il peut être approprié d'évaluer chaque cas récurrent à un montant nominal de 5 % du montant maximal de la pénalité réglementaire, peu importe le niveau de tort de la première occurrence.
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   Voir l'article 3 de la Loi.
+
+    [Retour à la référence de la note de bas de page 1](#fn1-rf)
+
+Note de bas de page 2
+:   Voir l'article 40 de la Loi.
+
+    [Retour à la référence de la note de bas de page 2](#fn2-rf)
+
+Date de modification :
+:   2019-08-26

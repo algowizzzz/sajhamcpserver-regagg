@@ -1,0 +1,1 @@
+Summary: # The Dividend Mind Trick

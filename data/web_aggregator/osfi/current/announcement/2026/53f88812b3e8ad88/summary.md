@@ -1,0 +1,1 @@
+Summary: # Franchise auto-assurée (Sociétés d'assurances canadiennes et étrangères)

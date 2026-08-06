@@ -1,0 +1,1 @@
+Summary: # Banque de Montréal – Ordonnance établissant l’exigence minimale de capacité totale d’absorption des pertes (TLAC)

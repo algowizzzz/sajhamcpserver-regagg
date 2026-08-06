@@ -1,0 +1,54 @@
+# Draft Internal Liquidity Adequacy Assessment Process Guideline (2027) – Letter
+
+Information
+
+Publication type
+
+Letter
+
+Category
+
+Liquidity Adequacy Requirements
+
+Date
+
+May 21, 2026
+
+Sector
+
+Banks,
+
+Trust and Loan Companies
+
+[Generate PDF](/en/print/pdf/node/3339)
+
+Table of contents
+
+Related documents
+
+* [Backgrounder: Draft Internal Liquidity Adequacy Assessment Process (ILAAP) Guideline](/en/news/backgrounder-draft-internal-liquidity-adequacy-assessment-process-ilaap-guideline)
+* [Summary of stakeholder comments on the Internal Liquidity Adequacy Assessment Process (ILAAP) Discussion Paper](/en/consultations/consultation-summaries/summary-stakeholder-comments-internal-liquidity-adequacy-assessment-process-ilaap-discussion-paper)
+* [Internal Liquidity Adequacy Assessment Process (ILAAP) for Deposit-Taking Institutions – Guideline (2027)](/en/guidance/guidance-library/internal-liquidity-adequacy-assessment-process-ilaap-deposit-taking-institutions-guideline-2027)
+
+Today, we are launching a 90-day public consultation on the [draft Internal Liquidity Adequacy Assessment Process (ILAAP) Guideline](/en/guidance/guidance-library/internal-liquidity-adequacy-assessment-process-ilaap-deposit-taking-institutions-guideline-2027 "Internal Liquidity Adequacy Assessment Process (ILAAP) for Deposit-Taking Institutions – Guideline (2027)"). The draft Guideline sets out a clear structure for the institutions’ assessment of liquidity adequacy and promotes a more consistent approach for our supervision of liquidity risk management. We are proposing a phased implementation schedule, beginning in May 2027 and building to maturity by 2029 fiscal year-end.
+
+In May 2025, we released a [discussion paper exploring Pillar 2 liquidity concepts](/en/guidance/guidance-library/pillar-2-liquidity-funding-risks-designing-internal-liquidity-adequacy-assessment-process-canadian "Pillar 2 Liquidity and Funding Risks: Designing an Internal Liquidity Adequacy Assessment Process for Canadian Deposit-Taking Institutions"). We invited stakeholder feedback on how we could enhance liquidity supervision and what we should consider when drafting an ILAAP guideline. We received many thoughtful and constructive responses. Although many stakeholders offered support for the initiative, many also emphasized the need for a more proportionate approach for smaller, less complex deposit-taking institutions. Stakeholders also asked that we consider sufficient transition time for governance, data, and stress-testing enhancements. We address both points below.
+
+## Proportionate approach
+
+It was important to stakeholders that we establish a proportionate approach in the draft ILAAP guideline, allowing institutions to scale their assessments based on size, complexity, and liquidity risk profile. We agree, and although we expect the final guideline will apply to all deposit-taking institutions, we acknowledge that some of the Pillar 2 liquidity risks will not be applicable to all deposit-taking institutions. The draft ILAAP Guideline makes this clear. Institutions will be responsible for assessing which Pillar 2 liquidity risks are relevant to their business and can omit immaterial risks from their assessments. For relevant risks, we also expect the depth of analysis, documentation, modelling, and validation requirements to vary depending on an institution’s size, business model, and liquidity risk exposure.
+
+## Phased implementation approach
+
+Many stakeholders expressed a need for a multi-year implementation to build out the resources and infrastructure needed to support an annual ILAAP. Thus, we are proposing a three-year phased implementation schedule in the draft ILAAP Guideline, applicable to all deposit-taking institutions. Initial expectations for year 1 focus on governance, risk appetite, foundational documentation, and internal liquidity stress-testing capabilities. In years 2 and 3, we will progressively enhance coverage of the Pillar 2 risks that the draft ILAAP Guideline identifies. Appendix 2 of the draft ILAAP Guideline details the proposed phased implementation schedule. We welcome feedback on the schedule, including recommendations for which Pillar 2 liquidity risks we should prioritize for consideration in year 2.
+
+For additional detail, please refer to the [summary of the comments we received and our responses](/en/consultations/consultation-summaries/summary-stakeholder-comments-internal-liquidity-adequacy-assessment-process-ilaap-discussion-paper "Summary of stakeholder comments on the Internal Liquidity Adequacy Assessment Process (ILAAP) Discussion Paper").
+
+## Stakeholder feedback on draft ILAAP Guideline
+
+Stakeholders who wish to submit comments should send them to [Consultations@osfi-bsif.gc.ca](mailto:Consultations@osfi-bsif.gc.ca) by August 19, 2026. We will post a non-attributed summary of comments received, together with our responses, on our website alongside the final version of the guideline.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2026-05-21

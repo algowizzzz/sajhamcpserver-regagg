@@ -1,0 +1,33 @@
+# FinCEN Advisory FIN-2020-A003 Spanish
+
+## Advisory Information
+
+FIN-2020-A003 Spanish
+
+[Advisory Covid 19 Imposter Spanish\_508.pdf](/system/files/advisory/2020-08-18/Advisory%20Covid%2019%20Imposter%20Spanish_508.pdf "Advisory Covid 19 Imposter Spanish_508.pdf")
+(413.38 KB)
+
+Issued Date
+
+August 18, 2020
+
+Subject
+
+Aviso sobre estafas de impostores y esquemas de “mulas de dinero” relacionados con la enfermedad por coronavirus 2019 (COVID-19)
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

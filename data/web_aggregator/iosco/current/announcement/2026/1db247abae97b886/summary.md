@@ -1,0 +1,1 @@
+Summary: Madrid, 22 July 2026 

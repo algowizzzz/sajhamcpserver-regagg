@@ -1,0 +1,18 @@
+{
+  "run_id": "2026-07-31_osfi_d01f",
+  "regulator_id": "osfi",
+  "logical_date": "2026-07-31",
+  "trigger": "schedule",
+  "detected": 2,
+  "fetched": 2,
+  "ingested": 2,
+  "archived": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://www.osfi-bsif.gc.ca/en/guidance/b-13-cyber",
+    "https://www.osfi-bsif.gc.ca/en/news/osfi-consults-climate"
+  ],
+  "duration_s": 0.021
+}

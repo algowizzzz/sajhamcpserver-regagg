@@ -1,0 +1,43 @@
+# Life Supplementary Quarterly Return - Letter (2022)
+
+Information
+
+Publication type
+
+Letter
+
+Date
+
+May 18, 2022
+
+Sector
+
+Life Insurance and Fraternal Companies
+
+[Generate PDF](/en/print/pdf/node/428)
+
+Table of contents
+
+Accompanying documents
+
+* [Life Supplementary Quarterly Return Instructions](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-supplementary-quarterly-return-lf4-instructions)
+
+**To:** All Federally Regulated Canadian Life Insurance Companies and Fraternal Benefit Societies and Branches of Foreign Life Insurance Companies and Fraternal Benefit Societies (“FRIs”).
+
+Office of the Superintendent of Financial Institutions (OSFI) is issuing the final LF4 Life Supplementary Quarterly Return ("the Return") and corresponding filing instructions for life insurance companies and fraternal benefit societies.
+
+The LF4 Return is a newly created Regulatory Return developed by OSFI with industry because of the transition to IFRS 17 in 2023. The Return and instructions were developed through a unique collaboration with the Life Insurance industry over several months. The objective of the Return is to capture additional information to supplement the IFRS 17 Regulatory Returns (LF1, LF2 and LF3 Returns), and provides visibility and clarity with respect to performance metrics, facilitating discussions with OSFI Supervisors upon transition to IFRS 17. The LF4 Return provides metrics on Life FRI financial strength (balance sheet), volume and profitability. These metrics are highlighted in this return.
+
+OSFI would like to thank all participants who provided feedback on the Return and instructions during the development of these metrics. The input received was taken into consideration in finalizing the Return and instructions.
+
+Please address any questions regarding this letter by email to Elspeth Bowler, Managing Director in the Policy Innovation and Stakeholder Affairs Sector at [elspeth.bowler@osfi-bsif.gc.ca](mailto:elspeth.bowler@osfi-bsif.gc.ca) or David Correia, Director, Accounting Policy Division at [david.correia@osfi-bsif.gc.ca.](mailto:david.correia@osfi-bsif.gc.ca)
+
+Sincerely,
+
+Jamey Hubbs  
+Vice Superintendent
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2022-05-18

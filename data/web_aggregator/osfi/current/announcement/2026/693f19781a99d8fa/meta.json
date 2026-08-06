@@ -1,0 +1,25 @@
+{
+  "doc_id": "693f19781a99d8fa",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Relev\u00e9 des s\u00fbret\u00e9s et des op\u00e9rations de nantissement (H4) | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-suretes-operations-nantissement-h4",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d4f76e5349e1a10857056fc18bc974d474e7f31186d16e948a372d0afde74282",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/693f19781a99d8fa",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

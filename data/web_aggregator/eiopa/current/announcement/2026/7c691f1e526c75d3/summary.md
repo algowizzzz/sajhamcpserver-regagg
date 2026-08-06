@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) is launching an EU-wide thematic review looking into consumer protection issues with mortgage life and other credit protection insurance sold through banks.

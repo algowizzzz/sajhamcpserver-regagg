@@ -1,0 +1,27 @@
+{
+  "doc_id": "01c27d964d9f9098",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "ESAs highlight main risks for the EU financial system - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/esas-highlight-main-risks-eu-financial-system-2017-09-21_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:619dc0d5f6ca26432f7d2ffc45b6dfc9ea8db484ab1f523549198b504b23b18e",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/01c27d964d9f9098",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/esas-highlight-main-risks-eu-financial-system-2017-09-21_en",
+  "fetch_method": "html_to_md"
+}

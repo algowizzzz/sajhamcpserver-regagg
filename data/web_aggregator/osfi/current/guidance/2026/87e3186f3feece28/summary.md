@@ -1,0 +1,1 @@
+Summary: # Business and Powers – Information respecting a customer

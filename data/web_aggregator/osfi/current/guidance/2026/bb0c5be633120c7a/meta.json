@@ -1,0 +1,27 @@
+{
+  "doc_id": "bb0c5be633120c7a",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Large Exposure Limits for Domestic Systemically Important Banks \u2013 Guideline (2019) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits-domestic-systemically-important-banks-guideline-2019",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c74786016422764d237f873569b0909b3a960201237b8437354c11ce70517b37",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/bb0c5be633120c7a",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits-domestic-systemically-important-banks-guideline-2019",
+  "fetch_method": "html_to_md"
+}

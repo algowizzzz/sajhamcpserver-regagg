@@ -1,0 +1,63 @@
+|  |  |
+| --- | --- |
+| **AAE** | Actuarial Association of Europe |
+| **AIP** | Annual implementation plan |
+| **AMICE** | Association of Mutual Insurers and Insurance Cooperatives in Europe |
+| **AMSB** | Administrative management or supervisory board |
+| **ATD** | Access to documents |
+| **AWP** | Annual work programme |
+| **BFI** | Berufsförderungsinstitut/vocational training institute |
+| **BIPAR** | Bureau international des producteurs d’assurances et de réassurances/European Federation of Insurance Intermediaries |
+| **BoS** | Board of Supervisors |
+| CDD | Customer due diligence |
+| **CSDB** | Centralised securities database |
+| **DB** | Defined benefit |
+| **DGB** | Deutscher Gewerkschaftsbund/German Trade Union Confederation |
+| **DNB** | De Nederlandsche Bank |
+| **DVA** | Dynamic volatility adjustment |
+| **EBA** | European Banking Authority |
+| **ECA** | European Court of Auditors |
+| **ECAI** | External credit-assessment institutions |
+| **ECB** | European Central Bank |
+| **EEA** | European Economic Area |
+| **EFTA** | European Free Trade Association |
+| **EIOPA** | European Insurance and Occupational Pensions Authority |
+| **EMIR** | European market infrastructure regulation |
+| **ESAs** | European Supervisory Authorities |
+| **ESFS** | European System of Financial Supervisors |
+| **ESG** | Environmental, social and governance |
+| **ESMA** | European Securities and Markets Authority |
+| **ESRB** | European Systemic Risk Board |
+| **EU** | European Union |
+| **FCA** | Financial Conduct Authority (UK) |
+| **FoS** | Freedom of services/freedom to provide service |
+| **FSB** | Financial Stability Board |
+| **FSC** | Financial Supervision Commission |
+| **FX** | Foreign exchange |
+| **IAIS** | International Association of Insurance Supervisors |
+| **IAS** | Internal Audit Service |
+| **ICS** | Internal Control Standards |
+| **IDD** | Insurance Distribution Directive |
+| **IORP**(s) | Institution(s) for occupational retirement provision |
+| **IPID** | Insurance product information document |
+| **IRSG** | Insurance and Reinsurance Stakeholder Group |
+| **IT** | Information technology |
+| **ITS** | Implementing technical standards |
+| **KPI** | Key performance indicators |
+| **MB** | Management Board |
+| **MoU** | Memorandum of understanding |
+| **NCA** | National competent authority |
+| **NGO** | Non-governmental organisation |
+| **OPSG** | Occupational Pensions Stakeholder Group |
+| **OTC** | Over the counter |
+| **PEPP** | Pan-European personal pension product |
+| **POG** | Product oversight and governance |
+| **PPI** | Payment protection insurance |
+| **RFR** | Risk-free interest rates |
+| **RTS** | Regulatory technical standards |
+| **SC** | Steering committees |
+| **PRIIPs** | Packaged Retail and Insurance-based Investment Products |
+| **SCR** | Solvency capital requirement |
+| **SRP** | Supervisory review process |
+| **UFR** | Ultimate forward rate |
+| **VA** | Volatility adjustment |

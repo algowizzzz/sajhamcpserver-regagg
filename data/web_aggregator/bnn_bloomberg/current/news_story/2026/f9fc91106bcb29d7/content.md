@@ -1,0 +1,7 @@
+# Colombia’s gold moment arrives, and Tiger Gold is drilling at the centre of it
+
+Colombia holds some of the largest undeveloped gold deposits in the Americas, yet still trades at a discount to comparable mining jurisdictions after years of underinvestment. That gap between world-class geology and second-tier valuations is now starting to close.
+
+[Read the full story at the source](https://www.bnnbloomberg.ca/investment-trends/2026/08/04/colombias-gold-moment-arrives-and-tiger-gold-is-drilling-at-the-centre-of-it/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

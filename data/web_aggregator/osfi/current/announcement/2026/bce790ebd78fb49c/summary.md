@@ -1,0 +1,1 @@
+Summary: # Intérêt de groupe financier\* assujetti à l’agrément du surintendant - entités admissibles

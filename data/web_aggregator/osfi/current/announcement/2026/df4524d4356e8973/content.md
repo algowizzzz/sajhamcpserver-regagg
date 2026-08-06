@@ -1,0 +1,751 @@
+# Guide for Incorporating Banks and Federally Regulated Trust and Loan Companies
+
+## Streamlined framework for new entrants
+
+Visit [Streamlined approvals framework for targeted new entrants](/en/data-forms/applications-approvals/streamlined-approvals-framework-targeted-new-entrants "Streamlined Approvals Framework for Targeted New Entrants ") to learn more about the requirements and process for entities seeking to enter Canada's federal financial system.
+
+## Document Properties
+
+* **Type of Publication:** Instruction Guide
+* **Category:** Application Guides
+* **Date:** 
+  + October 2001
+  + August 2004 (Revised)
+  + May 2013 (Revised)
+  + June 2015 (Revised)
+
+## Table of contents
+
+## Introduction
+
+The Office of the Superintendent of Financial Institutions (OSFI) is responsible for administering a number of federal statutes, including the statutes applicable to the regulation of banks (the  [Bank Act](http://laws-lois.justice.gc.ca/eng/acts/B-1.01) (BA)) and federal trust and loan companies (the  [Trust and Loan Companies Act](http://laws-lois.justice.gc.ca/eng/acts/T-19.8) (TLCA)). As part of the regulatory process, OSFI assesses applications for incorporation and makes recommendations to the Minister of Finance (the Minister), who has the ultimate responsibility for approving the incorporation of a federally regulated financial institution (a FRFI) under the BA or TLCA.
+
+## Purpose
+
+This Guide sets out the three phases of the process to establish a FRFI under the BA or TLCA along with the information that applicants[Footnote 1](#fnb1) are generally expected to submit in support of the requisite applications to:
+
+1. the Minister seeking the issuance of letters patent of incorporation (Letters Patent) establishing the FRFI; and
+2. the Superintendent of Financial Institutions (the Superintendent) for the making of an order to commence and carry on business (Order).
+
+This Guide also sets out the various prudential, regulatory and legislative criteria and information requirements relative to applications for the incorporation, and commencement of business, of a FRFI.[Footnote 2](#fnb2)
+
+One of the primary objectives of this Guide is to promote awareness and enhance the transparency of the assessment criteria and processes for the establishment of a FRFI.
+
+OSFI will generally evaluate a proposed incorporation against the criteria in this Guide; however, as the particular circumstances and facts of each application are different, this Guide should not be viewed as an exhaustive set of criteria and information requirements.[Footnote 3](#fnb3) OSFI officers from the Approvals Division and Deposit-Taking Supervision Sector jointly review and assess each application for the incorporation of a FRFI.
+
+This Guide does not apply to:
+
+1. the establishment of a foreign bank branch[Footnote 4](#fnb4) in Canada;
+2. the incorporation of, or continuance as, a bank holding company; and
+3. the incorporation of, or continuance as, a federal credit union.
+
+Applicants are encouraged to contact OSFI for further information regarding the establishment, incorporation or continuance of these entities.
+
+## General Overview
+
+There are two primary approvals related to an application to establish a FRFI in Canada: (i) the issuance of Letters Patentby the Minister[Footnote 5](#fnb5); and (ii) the making of an Order by the Superintendent.[Footnote 6](#fnb6)
+
+### Application Process
+
+The application process to establish a FRFI in Canada is comprised of three phases related to the two approvals noted above, the key elements of which are outlined below. The phased approach is intended to provide applicants with increased guidance and feedback both at the initial stages of the proposed application and throughout the application process.
+
+**Phase-1** (Pre-Application)
+
+* Applicant meets with OSFI to discuss the proposed application.
+* Applicant submits Phase-1 Information Requirements to OSFI for review and consideration.
+* Applicant meets with OSFI for a detailed discussion of its submissions and business plan for the proposed FRFI.
+* OSFI issues a letter to the applicant setting out its preliminary views and expectations regarding the proposed application.
+
+**Phase-2** (Letters Patent)
+
+* Applicant publishes a notice of intention to apply for Letters Patent.
+* Applicant submits its formal applications for Letters Patent and an Order to OSFI for review and consideration.
+* OSFI will generally request further information or details from the applicant and will meet with the applicant during the course of its review of the application.
+* OSFI submits its recommendation to the Minister regarding the issuance of Letters Patent.
+
+**Phase-3** (Order)
+
+* If Letters Patent are issued by the Minister, OSFI continues its review and consideration of the application with respect to the issuance of an Order.
+* OSFI will generally make additional requests for information or details and will have further meetings with the applicant.
+* OSFI carries out its pre-commencement onsite review of the FRFI.
+* If OSFI is satisfied that any material issues or concerns identified have been adequately addressed, the Superintendent issues the Order.
+
+### Application Timeframes
+
+While there is no specific time limit on the assessment of applications, OSFI endeavours to complete all application assessments as quickly as possible. The assessment of each application will depend on the specific facts and circumstances, and OSFI will communicate regularly with the applicant throughout this process.
+
+In OSFI's experience, delays in receiving the requested approval(s) most often result from the complexities presented in the application, the provision of incomplete information by the applicant in support of the application, and/or a failure on the part of the applicant to sufficiently address additional information requests from OSFI in a timely manner.
+
+Applicants should also note that a newly incorporated FRFI may require several months to prepare for the on-site review prior to receiving its Order, and the timing related to the making of an Order will largely depend on the on-site review readiness of the FRFI. In this regard, applicants should note that subsections 52(2) of the BA and 56(2) of the TLCA specify that the Superintendent shall not make an Order more than one year after the issuance of Letters Patent incorporating the FRFI.
+
+### Terminating Review of Application
+
+OSFI may terminate its review of an application where, in OSFI's view, based on the quality of the applicant's submissions, and despite significant feedback from OSFI, the applicant is unable to satisfy the information requirements in support of the application. In this regard, applicants should note that they bear the onus of satisfying OSFI's information requirements in a timely, clear and complete manner.
+
+## Phase-1 (Pre-Application)
+
+### (i) Initial discussion with OSFI
+
+Prior to submitting the formal application, prospective applicants are to contact the Approvals Division to schedule an initial in-person meeting with OSFI to discuss the proposed FRFI and the application process.[Footnote 7](#fnb7) This discussion provides an opportunity for OSFI to identify those persons who should be considered applicants for the purpose of this Guide and the requisite approvals, as well as to provide preliminary feedback regarding any apparent or potential regulatory, prudential or public policy issues.
+
+To facilitate the initial discussion, prospective applicants will generally be expected to provide the following written submissions prior to the meeting:
+
+1. the reason(s) for which they intend to apply to establish a FRFI;
+2. a brief overview of the proposed FRFI's business strategy and target market;
+3. a description of the proposed ownership structure, including details regarding potential impediments to the eligibility of any proposed owners and sources of capital for initial and on-going financial support;[Footnote 8](#fnb8) and
+4. a description of the proposed management team.
+
+The initial discussion also provides an opportunity for OSFI to clarify its processes and expectations regarding applications to establish a FRFI generally, along with any unique considerations that may be applicable to that particular prospective applicant.
+
+### (ii) Submission of Phase-1 Information
+
+OSFI will request the following information from prospective applicants who, after the initial discussion, wish to proceed with the application. OSFI's primary purpose in reviewing this information is to identify any fundamental issues that should be considered by the prospective applicant before or at the time of its Phase-2 application, including any:
+
+1. material risks that may impact the core viability of the applicants' business plan; and
+2. significant prudential or policy concerns that may prevent OSFI from making a positive recommendation to the Minister for the issuance of Letters Patent.
+
+### 1.0 Phase-1 Information Requirements
+
+#### 1.1 Ownership and Financial Strength
+
+The prospective applicant is generally expected to provide:
+
+1. the name of the jurisdiction and date of incorporation or establishment of the prospective applicant;
+2. the current organization chart (with percentages owned) of the prospective applicant`s corporate group, including entities in which the prospective applicant (and any of its parents that are not also prospective applicants) beneficially owns 10% or more of the voting rights (indicate by an asterisk whether any of the entities shown on the chart operate in Canada, and provide a summary of these operations);
+3. details regarding any voting agreement or other similar arrangements that involve persons exercising direct or indirect control over the prospective applicant;
+4. the names of all persons owning more than 10% of any class of shares or ownership interests in the prospective applicant (and in any of its parents that are not also prospective applicants), and the percentage of shares or ownership interests held (to the extent not already shown in the organization chart referred to in (b) above);
+5. details of any shares or ownership interests of the prospective applicant (and any of its parents that are not also prospective applicants) that are held by a government or a political subdivision, an agent or agency thereof, together with a summary of its involvement in the operation and affairs of the prospective applicant[Footnote 9](#fnb9);
+6. a summary of the current and proposed financial services and other key activities carried on by the prospective applicant and its affiliates (other than the proposed FRFI), including a list of jurisdictions in which they operate and the nature and degree of regulatory oversight applicable to the financial services activities;
+7. a copy of the most recent annual report of the prospective applicant (and of any of its parents that are not also prospective applicants);
+8. the audited consolidated financial statements of the prospective applicant (and of any of its parents that are not also prospective applicants) for the last three years (balance sheet, income statement, statement of changes in shareholders' equity);[Footnote 10](#fnb10) and
+9. details of whether the prospective applicant (and any of its affiliates that are not also prospective applicants) has been:
+   1. denied a request to establish a financial institution or a branch in any jurisdiction; and
+   2. the subject of any criminal proceedings or administrative sanctions.
+
+#### 1.2 Business Plan
+
+The prospective applicant is generally expected to provide a minimum five-year business plan for the proposed FRFI, including:
+
+1. the reasons why the prospective applicant is seeking to establish the proposed FRFI;
+2. an analysis of target markets and opportunities that the proposed FRFI will pursue and the plans to address them;
+3. an analysis of competitors, showing both challenges and opportunities, and plans to address them;
+4. the reasons why the prospective applicant believes that the proposed FRFI will be successful, and the overall strategy for achieving this success, including a discussion of key assumptions;
+5. the location(s) of the proposed branch(es)[Footnote 11](#fnb11) and head office of the proposed FRFI in Canada;
+6. a detailed description of each line of business to be conducted by the proposed FRFI and the products and services to be offered, including how the lines of business interrelate;
+7. for each year in the five-year business plan, details regarding the implementation of the Liquidity Adequacy Requirements, including on-going reporting on the Net Cumulative Cash Flow and Liquidity Coverage Ratio;[Footnote 12](#fnb12)
+8. the risk-based capital and leverage ratios for each year of the five-year business plan, including a breakdown of key elements used to calculate those ratios on a Basel III basis[Footnote 13](#fnb13);
+9. five-year *pro forma* financial statements (base case) for the proposed FRFI, including balance sheet, income statement, details regarding key assumptions and an identification of major asset, liability, income and expense categories;
+10. contingency plans resulting from variations associated with key assumptions used in developing the base case business plan, including a sensitivity analysis showing the results of changes in key assumptions on the base case business plan under a worst case scenario and a discussion of the changes in assumptions;
+11. details regarding the proposed organizational structure including senior management reporting lines key responsibilities within the organization;
+12. details regarding the proposed composition of the board of directors and senior management, and details regarding any persons selected or sought for those positions;
+13. a description of any proposed material outsourcing arrangements involving the proposed FRFI, how these arrangements would be managed, and copies of any material outsourcing arrangement contracts;[Footnote 14](#fnb14) and
+14. a copy of any proposed shareholders' agreement.
+
+#### 1.3 Other Information
+
+The prospective applicant is generally expected to provide:
+
+1. details regarding the proposed FRFI's
+   1. credit products and the underwriting criteria for those products,
+   2. trading and investment strategy,
+   3. information technology environment, and
+   4. exit-strategy in the event that the it is unable to execute its business plan; and
+2. in the case of a continuance from another Act, details regarding the incremental costs associated with being regulated as a FRFI for each year in the five-year business plan.
+
+### (iii) Business plan discussion with OSFI
+
+A second in-person meeting with the prospective applicant will be scheduled once OSFI has had an opportunity to consider the information submitted above under sections 1.1 to 1.3 above. The purpose of this meeting is for the prospective applicant to demonstrate an understanding of the material risks associated with its business plan and the methods by which it intends to mitigate those risks. Prior to the meeting, OSFI will provide the prospective applicant with an agenda and specific issues that the prospective applicant will be expected to address at the meeting.
+
+### (iv) OSFI Expectations Letter
+
+Following the business plan discussion with OSFI, the prospective applicant will receive a letter setting out OSFI's views and expectations regarding:
+
+1. any material risks or concerns with the proposed business plan and whether OSFI will expect those risks or concerns to be resolved in Phase-2 or Phase-3 of the application process; and
+2. additional information requirements, in addition to those already set out in this Guide, that the prospective applicant will be required to submit as part of its formal application in Phase-2.
+
+OSFI will also request that the prospective applicant provide a written timeline for its submission of a formal application.
+
+## Phase-2 (Letters Patent)
+
+### (i) Notice of Intention to Apply
+
+Prior to submitting the formal application, the prospective applicant must give notice of its intention to apply for Letters Patent (Notice). The primary purpose of the Notice is to inform the public of the identity of the persons making the application and to allow for public comment. The FRFI statutes state that the Notice must be published once a week for four consecutive weeks in the Canada Gazette and in a newspaper in general circulation at or near the place where the head office of the FRFI is to be situated. The FRFI statutes also specify that the Notice must be in a form satisfactory to the Superintendent. As such, a draft copy of the Notice should be provided to OSFI for review prior to publication to avoid the possibility of having to republish the Notice.[Footnote 15](#fnb15) In this regard, OSFI's expectation is that the Notice will set out:
+
+1. the name of the applicant;
+2. the geographical location/jurisdiction of the applicant;
+3. the proposed name of the FRFI; and
+4. a brief description of the proposed activities of the FRFI.
+
+The FRFI statutes provide that a person may formally object to the proposed incorporation of a FRFI by submitting the objection, in writing, to the Superintendent within 30-days of the last publication of the Notice. Where an objection is submitted, the Superintendent will assess its merits and determine whether a public inquiry into the objection is warranted. The Superintendent must also inform the Minister of the objection and the findings of any such inquiry.
+
+### (ii) Submission of Formal Application
+
+Following the publication of the Notice, the applicant may submit its formal application to OSFI for the issuance of Letters Patent. The information that OSFI generally expects to be submitted in respect of an application for Letters Patent is set out below.
+
+OSFI will review the application and will contact the applicant to discuss its completeness, status, and outstanding issues. This will typically be done through one or more written communications, discussions and/or meetings. Where necessary, OSFI may also request additional information to complete the assessment of the application, which may include additional corroborating information or analysis from third parties. OSFI's assessment will also be informed by its experience of the actual performance of existing FRFIs in similar business lines.
+
+### 2.0 Phase-2 Information Requirements: Issuance of Letters Patent by the Minister
+
+OSFI expects applications to contain all the information requirements set out in sections 2.1 to 2.9 of this Guide. Additionally, if any of the details have changed in respect of the information requirements submitted under sections 1.1 to 1.3 above, the applicant should update and re-submit that information.
+
+The level of detail of the information to be provided will depend on the size of the proposed FRFI, its corporate group, the ownership structure of the applicant and the nature, complexity and related inherent risks of the proposed FRFI's business.
+
+In certain circumstances, it may not be feasible for an applicant to provide all the information set out below at the time of the application. Where this is the case, applicants should explain to OSFI which information items will be provided at a later date.
+
+#### 2.1 Ownership and Financial Strength
+
+The applicant is generally expected to provide, as applicable:
+
+1. the name of the applicant;
+2. the address of the principal place of business and head office of the applicant;
+3. a certified copy of the constating documents and current company by-laws of the applicant;
+4. if the applicant is a foreign-owned financial institution:
+   1. the name and contact information of an individual from the applicant's home regulator that is familiar with the applicant's activities,
+   2. confirmation that the applicant's home regulator is aware of the applicant's intention to incorporate the proposed FRFI, details regarding whether the applicant requires regulatory approval from its home regulator to incorporate the proposed FRFI, and if so, confirmation that any such approval has been obtained,
+   3. information on whether, and in what manner, the applicant is subject to comprehensive consolidated supervision and regulation by its home regulator, and
+   4. a report of the examination in respect of the applicant, issued by its home regulator, if available, or confirmation from the applicant's home regulator that it reports favourably on the applicant;
+5. a copy of the most recent report on the applicant (and on any of its parents that are not also applicants) issued by a recognized credit rating agency, if available;
+6. details in support of the applicant's capacity to provide continuing financial, managerial and operational support to the proposed FRFI, including:
+   1. if the applicant is, or controls, a regulated financial institution, confirmation that the institution is adequately capitalized and meets, as a minimum, the Bank for International Settlements (BIS) standards, as applied in its home jurisdiction,[Footnote 16](#fnb16) and
+   2. if the applicant is not a regulated financial institution, a list of its corporate group's principal competitors, the key financial metrics for the group's industry (e.g., return on equity, debt to equity) and, for each metric identified, the industry average in each of the past 5 years and the group's performance against the average;
+7. if the applicant is an individual:
+   1. a completed [OSFI Security Information Form (PDF, 1.12 MB)](/sites/default/files/documents/security-info-formulaire-renseignment-securite-en.pdf "OSFI Security Information Form"),[Footnote 17](#fnb17)
+   2. a *curriculum vitae*, and
+   3. information that demonstrates that the applicant has, or has access to, the necessary resources to provide on-going financial support to the FRFI;
+8. at the time the application is filed, a written commitment from the applicant to provide the proposed initial capital of the FRFI as detailed in the business plan of the FRFI; and
+9. a certified copy of a resolution of the board of directors of the applicant approving the application.
+
+#### 2.2 Business Plan
+
+With respect to the five-year business plan submitted in Phase-1 for the proposed FRFI, the applicant is generally expected to provide:
+
+1. sources of initial and future capital in the form of a capital plan and funding plan;
+2. for each of the five years, a breakdown of all elements used to calculate the risk-based capital ratios, on a Basel III basis, the leverage ratio,[Footnote 18](#fnb18) and a *pro forma* [Internal Capital Adequacy Assessment Process (ICAAP)](/en/guidance/guidance-library/internal-capital-adequacy-assessment-process-icaap-deposit-taking-institutions-guideline-2010 "Internal Capital Adequacy Assessment Process (ICAAP) for Deposit-Taking Institutions – Guideline (2010)") reporting template and, in respect of the ICAAP, information supporting:
+   1. the identification of all key risks,
+   2. the effectiveness of proposed information systems that support ICAAP,
+   3. appropriateness of the measurement methodology employed to support the ICAAP assessment,
+   4. the reasonableness of the ICAAP output and the assumptions used,
+   5. the reasonableness and appropriateness of stress testing and analysis of assumptions,
+   6. integration of the ICAAP results and the proposed risk management processes, and
+   7. the reasonableness of the proposed capital plan and the proposed internal capital targets;[Footnote 19](#fnb19) and
+3. the intended financial year-end for the FRFI.
+
+#### 2.3 Management
+
+The applicant is generally expected to provide:
+
+1. details regarding the projected staff complement and an organization chart showing reporting lines for senior positions and key responsibilities in the FRFI over the lifespan of the business plan, including proposed mandates for each senior position and any senior management committees;[Footnote 20](#fnb20)
+2. details regarding the hiring criteria, including knowledge and experience for each senior position;
+3. information on each proposed senior officer of the FRFI, including:
+   1. a completed [OSFI Security Information Form (1.12 MB)](/sites/default/files/documents/security-info-formulaire-renseignment-securite-en.pdf "OSFI Security Information Form"),[Footnote 21](#fnb21)
+   2. the title of the position the individual would hold within the FRFI,
+   3. details of whether the individual and/or any entity in which the individual is or was a senior officer, have been the subject of any criminal proceedings or administrative sanctions, and
+   4. the individual's current *curriculum vitae* demonstrating that the individual has the necessary qualifications and expertise to manage or direct the FRFI's proposed business; and
+4. the name and address of the proposed external audit firm, and the specific partner of that firm, that will be responsible for auditing the FRFI, and confirmation that the proposed external auditor meets the suitability requirements set out in the FRFI statutes[Footnote 22](#fnb22).
+
+#### 2.4 Risk Management: Policies, Procedures and Risk Management Controls
+
+The applicant is generally expected to provide:
+
+1. the risk appetite framework for the proposed FRFI;[Footnote 23](#fnb23)
+2. a detailed description of all risks to which the FRFI would be exposed as well as the manner in which it would monitor and manage these risks, including the following specific risks:
+   1. market risk,
+   2. credit risk,
+   3. operational risk,
+   4. regulatory compliance, and
+   5. strategic risk;
+3. draft copies of the FRFI's proposed:
+   1. investment and lending policies, standards and procedures, and a self-assessment against OSFI's Guideline B-1,Prudent Person Approach, Guideline B-2, Large Exposure Limits, and Guideline B-20, Residential Mortgage Underwriting Practices and Procedures (if applicable),
+   2. funding and liquidity risk management policies, procedures and a description of the control procedures to monitor funding and liquidity,[Footnote 24](#fnb24)
+   3. provisioning policies and a description of the collective allowances that are anticipated in executing the FRFI's business plan,
+   4. dividend and capital management policies,[Footnote 25](#fnb25)
+   5. compensation policy for all human resources,[Footnote 26](#fnb26)
+   6. market risk management policies;
+   7. operational risk management policies,[Footnote 27](#fnb27) and
+   8. business continuity management policy, business impact analysis and plans for business continuity and disaster recovery;[Footnote 28](#fnb28)
+4. the name of the proposed senior officer to be responsible for risk management oversight of the proposed FRFI and a description of the resources and authority allocated to discharge this responsibility; and
+5. details of any proposed risk management and control processes that will be integrated with those of the operations of the applicant or other entities in the applicant's group.
+
+#### 2.5 Board of Directors and Committees
+
+The applicant is generally expected to provide:
+
+1. the information listed in subsection 2.3(c) of this Guide in respect of each proposed director of the FRFI;[Footnote 29](#fnb29)
+2. a description of:
+   1. the composition[Footnote 30](#fnb30) and mandate of the proposed board of directors (the Board) and its committees,[Footnote 31](#fnb31)
+   2. the Board's proposed policies and practices,
+   3. the proposed self-assessment programs of the Board, and
+   4. the Board's proposed responsibilities with respect to risk management and internal controls;[Footnote 32](#fnb32)
+3. a draft copy of the FRFI's proposed conflict of interest policy and, if applicable, details regarding the oversight that will be provided by the management committees of the FRFI's parent; and
+4. an analysis demonstrating that the proposed FRFI's corporate governance policies and practices will comply with OSFI's [Corporate Governance Guideline](/en/guidance/guidance-library/corporate-governance-guideline-2018 "Corporate Governance – Guideline (2018)").[Footnote 33](#fnb33)
+
+#### 2.6 Internal Audit
+
+The applicant is generally expected to provide:
+
+1. a description of the proposed mandate, organization structure, methodology and practices of the internal audit function, and a copy of the proposed Internal Audit Plan for the first year of operations (including audits planned for outsourced activities); and
+2. where applicable, a description of the involvement of any internal audit group(s) of the FRFI's affiliates to assess the internal controls of the FRFI.
+
+#### 2.7 Regulatory Compliance Management
+
+The applicant is generally expected to provide a detailed description of the proposed internal controls, policies and procedures that the FRFI would follow to ensure compliance with:
+
+1. the FRFI statutes and OSFI issued guidance, including the name of the proposed senior officer that would be responsible for such compliance, and a description of the resources and authority to be allocated to that person to discharge this responsibility;
+2. sections 83.08 to 83.12 of the Criminal Code and the Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism (UNSTR) and related directives issued by OSFI and the Government of Canada, including the name of the proposed senior officer that would be responsible for compliance with the Criminal Code and UNSTR, and a description of the resources and authority to be allocated to that person to discharge this responsibility;
+3. the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA), and related guidelines issued by the [Financial Transactions and Reports Analysis Centre of Canada](http://www.fintrac.gc.ca/) and OSFI Guideline B-8 - Deterring and Detecting Money Laundering, including the name of the proposed Chief Anti-Money Laundering Officer that would be appointed under the PCMLTFA, a description of the resources and authority to be allocated to that person to discharge this responsibility, and an assessment of the money laundering and terrorist financing risks relevant to the proposed FRFI's business plan; and
+4. all other pertinent Canadian legislation.[Footnote 34](#fnb34)
+
+#### 2.8 Information Technology
+
+The applicant is generally expected to provide:
+
+1. a risk assessment of the IT operations including copies of the FRFI's proposed cyber risk management policies and practices[Footnote 35](#fnb35);
+2. a description of any integration with third party systems;
+3. the proposed end user computing policy;
+4. the proposed IT policy and governance structure, including roles and responsibilities, and details on resources and staffing; and
+5. the proposed business continuity and disaster recovery plans.
+
+#### 2.9 Other Requirements
+
+The applicant is also generally expected to provide:
+
+1. the FRFI's proposed by-laws, including capital by-laws;
+2. the proposed name[Footnote 36](#fnb36) of the FRFI, in English, French, or both (as required), and a name search report[Footnote 37](#fnb37) accompanied by an analysis in support of the applicant's conclusion that the proposed name of the FRFI:
+   1. is available for use in Canada, and
+   2. is not prohibited by the FRFI statutes and meets the requirements of any other relevant Canadian legislation, including all pertinent financial institution statutes;[Footnote 38](#fnb38)
+3. where the proposed name of the FRFI is substantially the same as that of an affiliated entity:
+   1. the consent in writing of that entity, or from the controlling parent of the corporate group on behalf of that entity, to use the name, and
+   2. a description of the mitigants already in place, or mitigating measures that the FRFI would undertake, to avoid potential confusion in the marketplace;
+4. a statutory declaration or affidavit by a representative of the newspaper and Canada Gazette pertaining to the dates that the applicant's Notice was published, along with a copy of the published Notice;[Footnote 39](#fnb39)
+5. an acknowledgement of the [Support Principle](/en/data-forms/applications-approvals/implementation-support-principle-replace-requesting-letters-comfort "Implementation of Support Principle to Replace Requesting Letters of Comfort");[Footnote 40](#fnb40)
+6. if the proposed FRFI is to be a subsidiary of a non-WTO Member foreign bank or foreign institution[Footnote 41](#fnb41) that is engaged in trust or loan business (Non-WTO Parent), the applicant must demonstrate that treatment as favourable for FRFIs exists or will be provided in the jurisdiction in which the Non-WTO Parent principally carries on business, either directly or through a subsidiary;[Footnote 42](#fnb42)
+7. a draft copy of [OSFI-57 Return of Corporate Information](/en/data-forms/reporting-returns/filing-corporate-returns "Filing corporate returns"); and
+8. the non-refundable service charge in respect of the application, as required by the  [Service Charges (Office of the Superintendent of Financial Institutions) Regulations](/en/data-forms/applications-approvals/service-standards-fees "Service standards and fees").[Footnote 43](#fnb43)
+
+### Letters Patent
+
+The FRFI comes into existence on the date provided in the Letters Patent. The Minister may set out in the Letters Patent any terms and conditions that the Minister considers necessary or appropriate relative to the incorporation of the FRFI.
+
+Please note that the FRFI may not carry on any business until the Superintendent has made an Order in respect of the FRFI.
+
+## Phase-3 (Order)
+
+Once the Letters Patent have been issued, and before an Order is made by the Superintendent, OSFI must be satisfied that the FRFI has the necessary systems, management structure, control processes and regulatory compliance management systems in place. All policies and procedures should be finalised and approved prior to the making of an Order. The Phase-3 information requirements are set out below.
+
+OSFI will continue its review of the application and will contact the FRFI to discuss its completeness, status, and outstanding issues. As in Phase-2 of the application process, this will typically be done through one or more letters, discussions and meetings.
+
+As noted above in the General Overview, the Superintendent may not make an Order more than one year after the day on which the FRFI came into existence.[Footnote 44](#fnb44) Accordingly, in circumstances where OSFI requests additional information or documents from the FRFI with respect to the making of an Order, the FRFI should respond to the request in a complete and timely manner.
+
+An on-site review is arranged after the issuance of Letters Patent and the anticipated areas for review and discussion will be provided by OSFI at that time. The on-site review will assess, among other things, the operational readiness and control processes and management systems referred to in section 2.4 of this Guide. The on-site review will also assess whether the FRFI is capable of producing the required statutory and supervisory information in an accurate and timely manner at the commencement of operations.
+
+OSFI will provide the FRFI with a pre-commencement letter prior to the scheduled on-site review. The letter will request additional information that the FRFI is expected to provide sufficiently in advance of the on-site review so that OSFI can consider the submissions prior to the on-site review.
+
+Following the on-site review, OSFI will provide the FRFI with a letter setting out any outstanding concerns and OSFI's expectations regarding their resolution.
+
+### 3.0 Information Requirements for the Making of an Order by the Superintendent
+
+In support of its application for an Order, the FRFI is generally expected to provide:
+
+1. a certified copy of the minutes of the first meeting of the Board;
+2. a confirmation that the FRFI has the required amount of paid-in capital;
+3. a certified copy of the minutes of the first meeting of the shareholders of the FRFI;
+4. a detailed description of the amounts paid, or to be paid, by the FRFI in connection with its incorporation and organization, and a statement that the amounts are reasonable; and
+5. a signed letter of commitment by the FRFI[Footnote 45](#fnb45) to the effect that it will provide OSFI with adequate advance notice of any proposed material changes to the business plan.[Footnote 46](#fnb46)
+
+### Order
+
+The FRFI may only commence business on the date provided in the Order. The Superintendent may set out in the Order conditions or limitations on the FRFI's business to address supervisory and regulatory concerns. At the time that the FRFI receives its Order, it will also be assigned its authorized leverage ratio.
+
+The FRFI will be required to publish notice of the making of the Order in a newspaper in general circulation in the city where the FRFI's head office is located. OSFI is also required to publish a notice of the making of the Order in the Canada Gazette.[Footnote 47](#fnb47)
+
+## Administrative Guidance
+
+This portion of the Guide provides additional guidance to applicants in respect of the matters for consideration relative to the issuance of Letters Patent, ownership, the factors the Superintendent will take into account in determining OSFI's ability to supervise and regulate a FRFI, and other stakeholders to be considered by the applicant in the context of incorporation.
+
+### I. Letters Patent & Order
+
+OSFI will review the whole application with a view to ascertaining whether the criteria related to the Ministerial approval for the issuance of the Letters Patent have been met. Prior to recommending that the Minister issue Letters Patent, OSFI's review will focus on determining whether the following broad considerations have been satisfied:
+
+1. the applicant has sufficient resources to provide continuing financial support to the proposed FRFI;
+2. the applicant's business record and experience are appropriate;
+3. the applicant is of good character and integrity and has a good reputation;
+4. the application does not raise any national security concerns;
+5. any concerns raised by the application relative to Canada's international relations and international legal obligations are addressed;[Footnote 48](#fnb48)
+6. the business plan for the proposed FRFI is sound and feasible;
+7. the applicant has adequately assessed the risks to which the proposed FRFI will be exposed and has satisfied OSFI that it has the capability to implement, prior to the commencement of business by the FRFI, proper policies, processes and systems to monitor and mitigate those risks;
+8. the proposed FRFI's initial capital will be sufficient to support the business plan and provide adequate protection to depositors and creditors;
+9. the prospective managers and directors of the proposed FRFI have the necessary experience and competence to fulfil their roles;
+10. any integration of the applicant's businesses and operations with those of the proposed FRFI is appropriate for the proposed FRFI;
+11. any supervisability concerns presented by the ownership structure of the proposed FRFI are addressed;
+12. any regulatory compliance management or public policy issues raised by the application are addressed; and
+13. the issuance of the Letters Patent will be in the best interests of the financial system in Canada.
+
+Applicants should also note that additional information will be requested if the proposed FRFI is to be a subsidiary of a foreign bank or foreign institution[Footnote 49](#fnb49) that is engaged in trust or loan business,[Footnote 50](#fnb50) from a non-World Trade Organization (WTO) Member country.
+
+OSFI's review relative to the making of the Order will focus on whether the FRFI's management, policies, processes and systems are in place and meet OSFI's expectations. This component of the process will culminate in an on-site review of the FRFI by OSFI to determine whether the FRFI is sufficiently prepared to commence business operations.
+
+### II. Significant Interest and Control
+
+Acquisitions of a significant interest[Footnote 51](#fnb51) in, and/or control[Footnote 52](#fnb52) of, a FRFI are subject to Ministerial approval.[Footnote 53](#fnb53) Where such an approval is required in the context of the incorporation of a FRFI, a separate application in respect of that acquisition is not necessary.
+
+### III. Part XII of the Bank Act
+
+Where the applicant controls or is a major owner[Footnote 54](#fnb54) of a FRFI, the applicant and its affiliates will, if they are entities referred to in section 508 of the BA, have a financial establishment in Canada (where the group does not already have such an establishment) for purposes of Part XII of the BA.[Footnote 55](#fnb55) In such circumstances, the applicant and its affiliates become subject to an operating framework in Canada that is substantively equivalent to the one applicable to Canadian banks in certain areas, such as substantial investments.
+
+### IV. Non-Eligible Applicants
+
+Applicants who fall within the following categories are not eligible to apply for Letters Patent:
+
+1. Her Majesty in right of Canada or in right of a province, an agency of Her Majesty in either of those rights or an entity controlled by Her Majesty in either of those rights;
+2. the government of a foreign country or any political subdivision thereof;
+3. an agency of the government of a foreign country or any political subdivision thereof; or
+4. an entity that is controlled by the government of a foreign country or any political subdivision thereof, other than an entity that is a foreign bank, a foreign institution or a subsidiary of a foreign bank or foreign institution.[Footnote 56](#fnb56)
+
+In addition, no person may control or be a major shareholder[Footnote 57](#fnb57) of a bank if the person, or any of its affiliates:
+
+1. engages in Canada in any personal property leasing activity in which a bank is not permitted to engage, or
+2. has control, or a substantial investment in any entity that engages in Canada in any personal property leasing activity in which a bank is not permitted to engage.[Footnote 58](#fnb58)
+
+### V. Supervision and Regulation (Supervisability)
+
+OSFI carries out consolidated supervision for banking organizations to monitor potential contagion risks within the group and to be satisfied that there is comprehensive supervision of the material financial services of the group.
+
+In all applications to incorporate a FRFI, the Superintendent will assess OSFI's ability to supervise, examine and regulate the FRFI effectively. This assessment will entail an examination of the proposed corporate structure. Where appropriate, the Superintendent may consider whether the proposed structure would hinder effective implementation of corrective measures in the future.
+
+The Superintendent will generally consider the following factors in assessing the level of risk posed by the proposed corporate structure and its impact on OSFI's ability to effectively supervise and regulate the FRFI:
+
+1. the activities in which the FRFI proposes to engage, including any retail deposit-taking activity;
+2. the expected systemic importance of the proposed FRFI, including the expected future size or intended role of the FRFI, relative to the Canadian financial sector;
+3. the predominant nature of the applicant's group-wide financial activities, including the extent of the applicant's financial services activities, having regard to:
+   1. the complexity of the corporate structure of the group,
+   2. the strategic direction of the group or the nature of the planned financial services of the group,
+   3. the potential for prudential concerns (e.g., contagion, connected lending among members of the group),
+   4. the expected future size of the FRFI relative to the group,
+   5. the existence and extent of financial services activities carried on by the group in other jurisdictions, and
+   6. the branding to be used by the FRFI and the extent to which it differs from the branding used in respect of the other activities of the group;
+4. the extent to which the FRFI will be an independent and self-sustaining operation with the authority to make decisions independent of the group, having regard to:
+   1. the extent to which directors on the Board will be independent from the boards of the other entities in the group, and
+   2. the extent of the involvement, if any, of the FRFI's management in the business and affairs of the other entities in the group; and
+5. the regulatory oversight of the group, including the existence and extent to which affiliates within the corporate group are supervised by Basel Accord signatories, or other regulatory agencies with whom OSFI has concluded a Memorandum of Understanding pertaining to regulatory co-operation and to supervision of these affiliates.
+
+There are various ways that supervisory concerns arising out of corporate structures could be addressed. One possibility would be for an applicant to restructure and consolidate (existing and/or planned) financial services activities in or under the FRFI or under a Canadian regulated holding company. Another possibility would be for an applicant to address such concerns through an undertaking to OSFI that restricts certain activities of the corporate group.
+
+### VI. Other Stakeholders
+
+Applicants should note that FRFIs that intend to accept deposits of less than $150,000 (CAD) will be required to be members of the Canada Deposit Insurance Corporation (CDIC).
+
+Applicants are not required to make a separate application to CDIC for retail deposit insurance. OSFI will contact CDIC regarding any application for Letters Patent that includes a proposed retail deposit-taking activity. Pursuant to the Canada Deposit Insurance Corporation Act, upon the making of an Order, CDIC will insure the deposits held by a FRFI unless the Order prohibits the FRFI from accepting deposits in Canada or the Order authorizes the sole acceptance of deposits $150,000 (CAD) and greater.
+
+Applicants may also require membership in the Canadian Payments Association (CPA). Banks are automatically members of the CPA. Once incorporated, banks must register with the CPA. Trust and loan companies that accept transferable deposits can apply for membership. CPA membership is necessary in order to obtain an institution number for processing cheques and electronic payment transactions.
+
+Trust and loan companies should also approach provincial regulators to determine licensing and filing requirements in each of the provinces and/or territories in which they wish to transact business.
+
+### Contact Details for Additional Information
+
+All enquiries regarding the incorporation of a FRFI should be directed to:
+
+Office of the Superintendent of Financial Institutions  
+Approvals  
+Regulatory Affairs Division  
+15th Floor, 255 Albert Street  
+Ottawa, Ontario, Canada, K1A 0H2
+
+Website: [http://www.osfi-bsif.gc.ca](/)  
+Email: [approvals-approbations@osfi-bsif.gc.ca](mailto:approvals-approbations@osfi-bsif.gc.ca)
+
+## Footnotes
+
+Footnote 1
+:   For the purpose of this Guide, any reference to applicant generally includes any entity or individual who would hold the shares of the FRFI and any other person identified by OSFI.
+
+    [Return to footnote 1](#fnb1-ref)
+
+Footnote 2
+:   In respect of the requirements related to applications for continuance, please refer to OSFI [Transaction Instruction A No. 13 – Continuance of a Body Corporate](/en/data-forms/applications-approvals/transaction-instructions/continuation-body-corporate "Continuation of a body corporate"), and sections 33 through 39 of the BA or sections 31 through 37 of the TLCA.
+
+    [Return to footnote 2](#fnb2-ref)
+
+Footnote 3
+:   The FRFI legislation provides broad authority to the Minister and Superintendent to take into account all matters that they consider relevant in the circumstances related to the granting of any approval (e.g., section 973.01 of the BA).
+
+    [Return to footnote 3](#fnb3-ref)
+
+Footnote 4
+:   Please refer to the OSFI [Guide to Foreign Bank Branching](/sites/default/files/2023-10/fbbguide.pdf).
+
+    [Return to footnote 4](#fnb4-ref)
+
+Footnote 5
+:   Letters Patent are issued by the Minister upon recommendation of the Superintendent.
+
+    [Return to footnote 5](#fnb5-ref)
+
+Footnote 6
+:   Please see section 27 of the BA and section 26 of the TLCA, and paragraph I of Administrative Guidance below.
+
+    [Return to footnote 6](#fnb6-ref)
+
+Footnote 7
+:   The contact information for OSFI's Regulatory Affairs Division is located on the final page of this Guide.
+
+    [Return to footnote 7](#fnb7-ref)
+
+Footnote 8
+:   Please see, in particular, paragraph IV of Administrative Guidance below.
+
+    [Return to footnote 8](#fnb8-ref)
+
+Footnote 9
+:   Please see paragraph IV of Administrative Guidance below.
+
+    [Return to footnote 9](#fnb9-ref)
+
+Footnote 10
+:   If the person is a foreign entity, provide a comparison between the accounting standards used to complete the applicant's financial statements and International Financial Reporting Standards.
+
+    [Return to footnote 10](#fnb10-ref)
+
+Footnote 11
+:   Please note that "branch" is defined in section 2 of the BA and TLCA.
+
+    [Return to footnote 11](#fnb11-ref)
+
+Footnote 12
+:   Please see OSFI Guideline – Liquidity Adequacy Requirements (LAR).
+
+    [Return to footnote 12](#fnb12-ref)
+
+Footnote 13
+:   In preparing the *pro forma* financial statements, note that the initial leverage ratio assigned by OSFI will depend on several factors but will typically fall within the 8 to 12 *per cent* range. Factors include the nature of the proposed business, the anticipated peer group risk profile, the overall strength of the business plan, the financial strength of the owner and the level of initial capitalization. Applicants should discuss with OSFI the initial leverage ratio they intend to use.
+
+    [Return to footnote 13](#fnb13-ref)
+
+Footnote 14
+:   Please see OSFI [Guideline B-10 - Outsourcing of Business Activities, Functions and Processes](/en/guidance/guidance-library/outsourcing-business-activities-functions-processes "Outsourcing of Business Activities, Functions and Processes")
+
+    [Return to footnote 14](#fnb14-ref)
+
+Footnote 15
+:   Review by OSFI of the draft Notice will ensure that the applicant has performed the requisite name use analysis and that the form and information contained in the Notice provides the necessary information to the public. Please see sections 2.9(b) and (c) of this Guide.
+
+    [Return to footnote 15](#fnb15-ref)
+
+Footnote 16
+:   Please note that, in certain circumstances, OSFI may request that the applicant provide information that demonstrates that the institution meets the BIS standards in **both** its home jurisdiction and in Canada.
+
+    [Return to footnote 16](#fnb16-ref)
+
+Footnote 17
+:   The OSFI Security Information Form(s) must be provided to OSFI in the following two formats: (a) a signed and dated original hard-copy, and (b) an electronic version in Excel format. Once OSFI receives the completed forms, they are then forwarded to the relevant Canadian law enforcement and intelligence agencies to carry out the requisite background and security assessments. Please note that the time required by law enforcement and intelligence agencies to complete these assessments is not within OSFI's control, and the Superintendent will generally not seek the Minister's approval in respect of the Letters Patent until these assessments are completed without issue. As such, applicants are strongly encouraged to remit the completed OSFI Security Information Form(s) at the earliest possible stage in the application.
+
+    [Return to footnote 17](#fnb17-ref)
+
+Footnote 18
+:   In preparing the *pro forma* financial statements, note that the initial leverage ratio assigned by OSFI will depend on several factors but will typically fall within the 8 to 12 *per cent* range. Factors include the nature of the proposed business, the anticipated peer group risk profile, the overall strength of the business plan, the financial strength of the owner and the level of initial capitalization. Applicants should discuss with OSFI the initial leverage ratio they intend to use.
+
+    [Return to footnote 18](#fnb18-ref)
+
+Footnote 19
+:   The FRFI statutes require that the FRFI has paid-in capital of at least $5 million (CAD), or any greater amount that may be specified by the Minister, prior to the issuance of an Order. The capital must also meet OSFI's Capital Adequacy Requirements (CAR) 2014. OSFI generally expects that the initial amount of paid-in capital will be sufficient, at all times, for the FRFI to remain above its target risk-based capital ratios and remain above its leverage ratio for the longer of the first three years of the FRFI's operations, or until it is profitable under the base case scenario.
+
+    [Return to footnote 19](#fnb19-ref)
+
+Footnote 20
+:   Please see OSFI's [Corporate Governance Guideline](/en/guidance/guidance-library/corporate-governance-guideline-2018 "Corporate Governance – Guideline (2018)").
+
+    [Return to footnote 20](#fnb20-ref)
+
+Footnote 21
+:   Please see footnote 17.
+
+    [Return to footnote 21](#fnb21-ref)
+
+Footnote 22
+:   Please see section 315 of the BA and section 320 of the TLCA.
+
+    [Return to footnote 22](#fnb22-ref)
+
+Footnote 23
+:   Please see OSFI's [Corporate Governance Guideline](/en/guidance/guidance-library/corporate-governance-guideline-2018 "Corporate Governance – Guideline (2018)").
+
+    [Return to footnote 23](#fnb23-ref)
+
+Footnote 24
+:   Please see OSFI Guideline B-6 - Liquidity Principles.
+
+    [Return to footnote 24](#fnb24-ref)
+
+Footnote 25
+:   The capital management policy should detail the internal targeted levels of capital and describe on-going monitoring procedures to ensure that the FRFI will meet OSFI's minimum capital requirements.
+
+    [Return to footnote 25](#fnb25-ref)
+
+Footnote 26
+:   The compensation policy is expected to be consistent with Financial Stability Board [Principles for Sound Compensation](http://www.financialstabilityboard.org/publications/r_0904b.pdf).
+
+    [Return to footnote 26](#fnb26-ref)
+
+Footnote 27
+:   Operational risk management policies should be consistent with Basel Committee on Banking Supervision [Principles for the Sound Management of Operational Risk](http://www.bis.org/publ/bcbs195.pdf). OSFI generally expects operational risk management policies to include policies related to the following: outsourcing risk, business continuity and disaster recovery, privacy risk, information technology, information management and security, physical security, fraud risk and records retention. Please also see OSFI's [Supervisory Framework](/en/supervision/supervisory-practices/supervisory-framework "Supervisory Framework")
+
+    [Return to footnote 27](#fnb27-ref)
+
+Footnote 28
+:   In particular, the FRFI's business continuity plan should ensure that the proposed FRFI has in its possession or can readily access all records necessary to allow it to sustain business operations, meet its regulatory obligations, and provide all information as may be required by OSFI to meet its legislated mandate.
+
+    [Return to footnote 28](#fnb28-ref)
+
+Footnote 29
+:   The proposed directors named in the application for Letters Patent hold office until the election of directors at the first shareholders' meeting. Please note that OSFI will assess the strength of the Board at the time of incorporation and the Board's effectiveness going forward.
+
+    [Return to footnote 29](#fnb29-ref)
+
+Footnote 30
+:   Relevant financial institution and risk management expertise are key competencies for the Board. There should be reasonable representation of these skills at the Board and Board committee levels.
+
+    [Return to footnote 30](#fnb30-ref)
+
+Footnote 31
+:   Particular attention should be given to the audit and conduct review committees. In this regard, the FRFI statutes require that the directors of the FRFI establish audit and conduct review committees (please see subsection 157(2) of the BA and subsection 161(2) of the TLCA).
+
+    [Return to footnote 31](#fnb31-ref)
+
+Footnote 32
+:   Please see OSFI's [Corporate Governance Guideline](/en/guidance/guidance-library/corporate-governance-guideline-2018 "Corporate Governance – Guideline (2018)").
+
+    [Return to footnote 32](#fnb32-ref)
+
+Footnote 33
+:   The corporate governance practices adopted by a FRFI will likely depend on the nature, scope, complexity, and risk profile of that institution.
+
+    [Return to footnote 33](#fnb33-ref)
+
+Footnote 34
+:   Please see OSFI [Guideline E-13 - Regulatory Compliance Management (RCM)](/en/guidance/guidance-library/regulatory-compliance-management-rcm-guideline-2014 "Regulatory Compliance Management (RCM) – Guideline (2014)").
+
+    [Return to footnote 34](#fnb34-ref)
+
+Footnote 35
+:   Please see OSFI [Cyber-Security Self-Assessment Guidance](/en/risks/technology-cyber-risk-management/cyber-security-self-assessment "Cyber Security Self-Assessment").
+
+    [Return to footnote 35](#fnb35-ref)
+
+Footnote 36
+:   The proposed name can be reserved under the FRFI statutes.  Please see [Index A No. 20 – Name Reservation](/en/data-forms/applications-approvals/transaction-instructions/name-reservation "Name reservation") for information requirements and administrative guidance in relation to name reservation applications.
+
+    [Return to footnote 36](#fnb36-ref)
+
+Footnote 37
+:   OSFI will accept a Newly Upgraded Automated Name Search (NUANS) report, which includes a list of business names and trademarks that sound similar to the name being proposed. If the proposed FRFI would conduct business in the Province of Québec, a search of the Québec Corporations Database at "Registraire des entreprises" is also required.
+
+    [Return to footnote 37](#fnb37-ref)
+
+Footnote 38
+:   If the FRFI will use both an English and French form of the proposed name, a name search report and corresponding analysis must be provided in respect of both forms of that proposed name. Reference should also be made to OSFI [Advisory 2002-01-R1 - Corporate Names, Registered Names and Trade Names](/en/guidance/guidance-library/corporate-names-registered-names-trade-names "Corporate Names, Registered Names and Trade Names").
+
+    [Return to footnote 38](#fnb38-ref)
+
+Footnote 39
+:   Please see section 25 of the BA and section 24 of the TLCA.
+
+    [Return to footnote 39](#fnb39-ref)
+
+Footnote 40
+:   The Support Principle that the applicant is expected to acknowledge will be provided by OSFI. Where no person will control the FRFI, the applicant will not be required to provide this acknowledgement.
+
+    [Return to footnote 40](#fnb40-ref)
+
+Footnote 41
+:   Please see section 2 of the BA and TLCA for the definition of "non-WTO Member foreign bank" and "non-WTO member foreign institution" respectively.
+
+    [Return to footnote 41](#fnb41-ref)
+
+Footnote 42
+:   Please see section 24 of the BA and section 23 of the TLCA.
+
+    [Return to footnote 42](#fnb42-ref)
+
+Footnote 43
+:   A wire transfer, cheque or draft should be made payable to the "Receiver General for Canada".
+
+    [Return to footnote 43](#fnb43-ref)
+
+Footnote 44
+:   Please see subsection 52(2) of the BA and subsection 56(2) of the TLCA.
+
+    [Return to footnote 44](#fnb44-ref)
+
+Footnote 45
+:   The letter of commitment that the FRFI is expected to sign will be provided by OSFI.
+
+    [Return to footnote 45](#fnb45-ref)
+
+Footnote 46
+:   Material changes to the business plan may include new product offerings, changes in management structure or growth of the business beyond what was contemplated in the initial business plan submitted in support of the application for Letters Patent.
+
+    [Return to footnote 46](#fnb46-ref)
+
+Footnote 47
+:   Please see section 56 of the BA and section 59 of the TLCA.
+
+    [Return to footnote 47](#fnb47-ref)
+
+Footnote 48
+:   Please see section 973.01 of the BA and section 527.3 of the TLCA.
+
+    [Return to footnote 48](#fnb48-ref)
+
+Footnote 49
+:   Please see the definition of "foreign bank" and "foreign institution" in subsection 2(1) of the FRFI statutes.
+
+    [Return to footnote 49](#fnb49-ref)
+
+Footnote 50
+:   Please see section 24 of the BA, section 23 of the TLCA and section 2.9(f) of this Guide.
+
+    [Return to footnote 50](#fnb50-ref)
+
+Footnote 51
+:   Please see section 8 of the BA and TLCA.
+
+    [Return to footnote 51](#fnb51-ref)
+
+Footnote 52
+:   Please see section 3 of the BA and TLCA.
+
+    [Return to footnote 52](#fnb52-ref)
+
+Footnote 53
+:   Please see sections 373 and 377.1 of the BA and sections 375 and 375.1 of the TLCA.
+
+    [Return to footnote 53](#fnb53-ref)
+
+Footnote 54
+:   Please see subsections 507(9) and (10) of the BA.
+
+    [Return to footnote 54](#fnb54-ref)
+
+Footnote 55
+:   Please see paragraphs 507(15)(d) and 507(16)(d) of the BA.
+
+    [Return to footnote 55](#fnb55-ref)
+
+Footnote 56
+:   Please see section 23 of the BA and section 22 of the TLCA.
+
+    [Return to footnote 56](#fnb56-ref)
+
+Footnote 57
+:   A person is a major shareholder of a bank where the person directly or indirectly owns more than 20% of the voting shares, or 30% of the non-voting shares, of the bank.
+
+    [Return to footnote 57](#fnb57-ref)
+
+Footnote 58
+:   Please see sections 378.1 and 378.2 of the BA.
+
+    [Return to footnote 58](#fnb58-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2022-11-18

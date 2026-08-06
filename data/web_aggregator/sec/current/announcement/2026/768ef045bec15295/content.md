@@ -1,0 +1,78 @@
+FACT SHEET 
+Financial Data 
+Transparency Act: Joint 
+Data Standards 
+U.S. SECURITIES AND EXCHANGE COMMISSION  PAGE 1 OF 2 
+ 
+ 
+Background 
+The FDTA was signed into law on December 23, 2022, and directs certain federal agencies 
+to promote the interoperability of financial regulatory data. 
+As a first rulemaking step, the FDTA directs the agencies to establish joint standards after 
+notice and an opportunity for public comment. The SEC proposed the joint standards on 
+August 2, 2024. 
+As a second step, the FDTA directs most of the a gencies, including the SEC , to issue 
+agency-specific rules t hat implement the final joint standards. The FDTA  affords the 
+agencies some flexibility in considering how best to do so. 
+ 
+Joint Data Standards  
+Common Identifiers  
+The agencies’ joint standards include identifiers related to entities, geographic locations, 
+dates, and certain products and currencies . The identifiers are non-proprietary, available 
+under an open license, and free of charge to any user. 
+With regards to entities, the joint standards  establish Legal Entity Identifier (LEI) as a 
+common entity identifier . The LEI is a global identifier standard, developed by the 
+ 
+The Securities and Exchange Commission established joint data standards under the Financial Data 
+Transparency Act of 2022 (FDTA) . These establish technical standards for data submitted to certain 
+financial regulatory agencies. The joint standards include: 
+• Seven common identifiers related to entities, geographic locations, dates, and certain products 
+and currencies; 
+• A principles-based joint standard with respect to transmitting and structuring data; and 
+• A definition of “collections of information” in accordance with the Paperwork Reduction Act of 
+1995. 
+Eight additional agencies have also established or are expected to act on establishing the joint 
+standards: the Board of Governors of the Federal Reserve System, the Commodity Futures Trading 
+Commission, the Consumer Financial Protection Bureau, the Department of the Treasury, the Federal 
+Deposit Insurance Corporation, the Federal Housing Finance Agency, the National Credit Union 
+Administration, and the Office of the Comptroller of the Currency.
+
+FACT SHEET | Financial Data Transparency Act: Joint Data Standards 
+ 
+U.S. SECURITIES AND EXCHANGE COMMISSION  PAGE 2 OF 2 
+International Organization for Standardization (ISO), that uniquely and unambiguously 
+identifies a legal entity.  
+The joint standards also establish the following common identifiers or classifications: 
+• ISO 4914 – Financial services – Unique product identifier (UPI); 
+• ISO 10962 – Securities and related financial instruments – Classification of financial 
+instruments (CFI) code; 
+• ISO 8601 – Date and time — Representations for information interchange; 
+• U.S. Postal Service Abbreviations as published in Appendix B of Publication 28, 
+Postal Addressing Standards; 
+• Geopolitical Entities, Names, and Codes (GENC) standard (country codes); and 
+• ISO 4217 – Currency Codes. 
+The joint standards as established do not include the proposed Financial Instrument Global 
+Identifier (FIGI) standard, nor do they specify the use of the Basic format option for ISO 8601. 
+Data Transmission and Schema and Taxonomy Format Standards 
+The joint standards establish a principles -based joint standard for  data transmission, 
+structuring, and formatting that: 
+• Render data fully searchable and machine-readable; 
+• Enable high -quality data through schemas, with accompanying metadata, which 
+clearly define the semantic meaning of the data; 
+• Ensure that data that exists to satisfy an underlying regulatory information 
+requirement be consistently identified as such in machine-readable metadata; and 
+• Be nonproprietary or available under an open license. 
+Under this standard, any specific data transmission or schema or taxonomy format (e.g., 
+eXtensible Markup Language) that meets the above criteria would be permitted. The 
+agencies could adopt new open-source file formats as they are developed without needing 
+to amend the joint standards to include new specific formats. 
+Definition of “Collections of Information”  
+The FDTA applies to certain collections of information reported to each a gency; however, it 
+currently does not specifically define the term “collections of information.”  
+The joint standards, as proposed, establish the definition used in the Paperwork Reduction 
+Act of 1995, as it is already widely recognized and utilized. 
+ 
+What’s Next  
+The effective date for the final joint rule is October 1, 2026, which is the first day of the next 
+calendar quarter that begins at least 60 days after the final joint rule is published in the Federal 
+Register.

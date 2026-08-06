@@ -1,0 +1,25 @@
+{
+  "doc_id": "fbe34c3514244998",
+  "regulator_id": "osfi",
+  "doc_type": "consultation",
+  "title": "2020-21 Financial Institutions Survey (FIS) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/consultations/consultation-summaries/overview-2021-financial-institutions-survey-findings/2020-21-financial-institutions-survey-fis",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b5a1e2f1fb6ef13174c0fd753c2729f542dd8ec5bd91e0934d283ed087d609e4",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/consultation/2026/fbe34c3514244998",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

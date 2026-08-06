@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14275",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Chicago Mercantile Exchange Inc.; Order Approving a Proposed Rule Change Relating to Amendments to Chicago Mercantile Exchange Inc.'s Rules Governing Performance Bond Requirements: Account Holder Level",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/16/2026-14275/self-regulatory-organizations-chicago-mercantile-exchange-inc-order-approving-a-proposed-rule-change",
+  "reference_number": "2026-14275",
+  "published_date": "2026-07-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8066d416668653c25b1f7389d9f8ea1882f349c012615dc5d0568f6bbd577b0d",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14275",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "3c7892fb1d549dc5",
+  "regulator_id": "nyt_business",
+  "doc_type": "news_story",
+  "title": "Disney Theme Parks Report Strong Results, While Comcast\u2019s Universal Parks Dip",
+  "language": "en",
+  "source_url": "https://www.nytimes.com/2026/08/05/business/media/disney-parks-universal.html",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:11b5b0309021d28203dc560a4cf910a466e52a7592451970daab8f9232f1bbf6",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nyt_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nyt_business/current/news_story/2026/3c7892fb1d549dc5",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.nytimes.com/2026/08/05/business/media/disney-parks-universal.html",
+  "fetch_method": "feed_summary"
+}

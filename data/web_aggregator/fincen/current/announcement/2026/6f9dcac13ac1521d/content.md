@@ -1,0 +1,38 @@
+# Law Enforcement Overview
+
+![A wood and gold gavel on top of $100 bills](/system/files/shared/LE_large.jpg)
+
+FinCEN was created in 1990 to support federal, state, local, and international law enforcement by analyzing the information required under the [Bank Secrecy Act (BSA)](/resources/statutes-and-regulations/bank-secrecy-act), one of the nation’s most important tools in the fight against money laundering. The BSA’s recordkeeping and reporting requirements establish a financial trail for investigators to follow as they track criminals, their activities, and their assets. Over the years, FinCEN staff has developed its expertise in adding value to the information collected under the BSA by uncovering leads and exposing unknown pieces of information contained in the complexities of money laundering schemes.
+
+Dirty money can take many routes-some complex, some simple, but all increasingly inventive-the ultimate goal being to disguise its source. The money can move through banks, check cashers, money transmitters, businesses, casinos, and even be sent overseas to become clean, laundered money. The tools of the money launderer can range from complicated financial transactions, carried out through webs of wire transfers and networks of shell companies, to old-fashioned currency smuggling.
+
+FinCEN researches and analyzes this information and other critical forms of intelligence to support financial criminal investigations. The ability to link to a variety of databases provides FinCEN with one of the largest repositories of information available to law enforcement in the country. Safeguarding the privacy of the data it collects is an overriding responsibility of the agency and its employees-a responsibility that strongly imprints all of its data management functions, and indeed, all that the agency does.
+
+FinCEN provides a networking process designed to facilitate information sharing between agencies with shared investigative interests.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+  + [Support of Law Enforcement](/resources/law-enforcement/support-law-enforcement)
+  + [Case Examples](/resources/law-enforcement/case-examples)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)
+
+Header
+
+QUICK LINKS
+
+* [BSA Forms](/resources/filing-information)
+* [MSB Registration Web site](/msb-state-selector)
+* [Chapter X Main Page](/resources/statutes-regulations/chapter-x)

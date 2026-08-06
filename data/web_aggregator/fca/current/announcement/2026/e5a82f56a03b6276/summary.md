@@ -1,0 +1,1 @@
+Summary: This is an overview of geographical cash access coverage in the UK at the end of the second half-year (July to December) of 2025. This monitoring forms part of the FCA’s work on [access to cash](/firms/access-to-cash "Helping people access cash").

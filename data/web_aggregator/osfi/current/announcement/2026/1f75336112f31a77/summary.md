@@ -1,0 +1,1 @@
+Summary: # Geographic Assets and Liabilities Booked Outside Canada (GR)

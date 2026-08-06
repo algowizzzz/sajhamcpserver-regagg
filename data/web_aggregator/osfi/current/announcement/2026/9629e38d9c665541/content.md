@@ -1,0 +1,60 @@
+# Life Insurance Return
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Insurance companies
+
+Return
+
+Life Insurance Return and Instructions
+
+Return numbers
+
+LF1, LF2, LF3, LF4, LFPROV
+
+Accompanying documents
+
+* [2025 annual update to the manual of financial reporting forms and instructions for Life Insurance Companies and Fraternal Benefit Societies](/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-life-insurance-companies-fraternal)
+* [Development items and rationale since April 30, 2021](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/development-items-rationale-april-30-2021)
+
+## Instructions
+
+* [Section I – Introduction](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-insurance-return-section-introduction "Life Insurance Return – Section I – Introduction")
+* [Section II – Filing Requirements](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-insurance-return-section-ii-filing-requirements "Life Insurance Return – Section II – Filing Requirements")
+* [Section III – Definitions](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-insurance-return-section-iii-definitions "Life Insurance Return – Section III – Definitions")
+* [Section IV – Detailed Instructions](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-insurance-return-section-iv-detailed-instructions "Life Insurance Return – Section IV – Detailed Instructions")
+* [Section V – Jurisdictional Requirements](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-insurance-return-section-v-jurisdictional-requirements "Life Insurance Return – Section V – Jurisdictional Requirements")
+* [Section VI – Change Control Log](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-insurance-return-section-vi-change-control-log "Life Insurance Return – Section VI – Change Control Log")
+
+## Return files
+
+### Core financial quarterly return (LF1)
+
+[LF1 - Q4 2024 Core financial quarterly return (clean) (XLSX, 125.83 KB)](/sites/default/files/documents/lf1-2024-en.xlsx "lf1-2024-en.xlsx") [LF1 - Q4 2024 Core financial quarterly return (tracked changes) (XLSX, 126.74 KB)](/sites/default/files/documents/lf1-2024-dft-en.xlsx "lf1-2024-dft-en.xlsx") [LF1 – Q2 2025 Core financial quarterly return validation rules (XLSX, 164.35 KB)](/sites/default/files/documents/lf1-2025-q2-t2-validation-en.xlsx "lf1-2025-q2-t2-validation-en.xlsx") [LF1 – Q4 2024 sample XML (XML, 261 KB)](/sites/default/files/documents/lf1-2024-q4-t4.xml "lf1-2024-q4-t4.xml") [LF1 – Q4 2024 sample XSD (XSD, 1.52 MB)](/sites/default/files/documents/lf1-2024-q4-t4.xsd "lf1-2024-q4-t4.xsd")
+
+### Supervisory quarterly return (LF2)
+
+[LF2 - Q4 2024 Supervisory quarterly return (clean) (XLSX, 195.17 KB)](/sites/default/files/documents/lf2-2024-en.xlsx "lf2-2024-en.xlsx") [LF2 - Q4 2024 Supervisory quarterly return (tracked changes) (XLSX, 196.16 KB)](/sites/default/files/documents/lf2-2024-dft-en.xlsx "lf2-2024-dft-en.xlsx") [LF2 – Q2 2025 Supervisory quarterly return validation rules (XLSX, 199.08 KB)](/sites/default/files/documents/lf2-2025-q2-t2-validation-en.xlsx "lf2-2025-q2-t2-validation-en.xlsx") [LF2 – Q4 2024 sample XML (XML, 468 KB)](/sites/default/files/documents/lf2-2024-q4-t4.xml "lf2-2024-q4-t4.xml") [LF2 – Q4 2024 sample XSD (XSD, 2.70 MB)](/sites/default/files/documents/lf2-2024-q4-t4.xsd "lf2-2024-q4-t4.xsd")
+
+### Supervisory annual return (LF3)
+
+[LF3 - Q4 2024 Supervisory annual return (clean) (XLSX, 264.86 KB)](/sites/default/files/documents/lf3-2024-en.xlsx "lf3-2024-en.xlsx") [LF3 - Q4 2024 Supervisory annual return (tracked changes) (XLSX, 265.06 KB)](/sites/default/files/documents/lf3-2024-dft-en.xlsx "lf3-2024-dft-en.xlsx") [LF3 – Q2 2025 Supervisory annual return validation rules (XLSX, 143.55 KB)](/sites/default/files/documents/lf3-2025-q2-t2-validation-en.xlsx "lf3-2025-q2-t2-validation-en.xlsx") [LF3 – Q4 2024 sample XML (XML, 242 KB)](/sites/default/files/documents/lf3-2024-q4-t4.xml "lf3-2024-q4-t4.xml") [LF3 – Q4 2024 sample XSD (XSD, 1.59 MB)](/sites/default/files/documents/lf3-2024-q4-t4.xsd "lf3-2024-q4-t4.xsd")
+
+### Supplementary quarterly return (LF4)
+
+[LF4 - Supplementary quarterly return - Instructions](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-supplementary-quarterly-return-lf4-instructions "Life Supplementary Quarterly Return (LF4) – Instructions")
+
+### Provincial return (LFPROV)
+
+[LFPROV - Q4 2024 Provincial return (clean) (XLSX, 91.79 KB)](/sites/default/files/documents/lfprov-return-releve-2024-en.xlsx "lfprov-return-releve-2024-en.xlsx")[LFPROV - Q4 2024 Provincial return (tracked changes) (XLSX, 101.05 KB)](/sites/default/files/documents/lfprov-changes-mod-2024-en.xlsx "lfprov-changes-mod-2024-en.xlsx")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-09-05

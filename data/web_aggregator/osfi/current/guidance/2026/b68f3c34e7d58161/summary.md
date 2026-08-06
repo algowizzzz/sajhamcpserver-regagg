@@ -1,0 +1,1 @@
+Summary: # “2025 Annual update” to the Manual of Reporting Forms and Instructions for Deposit-Taking Institutions

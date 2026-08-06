@@ -1,0 +1,24 @@
+{
+  "doc_id": "4a6643827fbe5310",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "2022\u201323 Departmental Results Report",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/publications/drr-rrm/2022-2023/drr-rrm-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0f417ee3283ec02d90d5fc8a6229a0349c496ff5710d659bccd1b2c6eb29162b",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/4a6643827fbe5310",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

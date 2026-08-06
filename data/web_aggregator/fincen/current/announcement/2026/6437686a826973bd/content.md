@@ -1,0 +1,57 @@
+# Proactive Review of SARs Leads to Long Prison Sentences for Drug Traffickers
+
+[Issue 20-story5.pdf](/system/files/case_example/Issue%2020-story5.pdf "Issue 20-story5.pdf")
+(80.17 KB)
+
+Through a proactive review of SARs, a Federal agent identified records detailing structured transactions, unusual withdrawals, and unexplained wire transfers. The subsequent investigation uncovered over $2 million in cash and wire transfers from a drug-related money laundering conspiracy involving individuals in two states.
+
+The case was initiated when a Federal agent uncovered SARs filed by depository institutions and by MSBs who reported over $2 million in cash transactions through different bank accounts in the respective states, as well as wire transfers originated at MSBs.
+
+Two financial institutions filed SARs on the defendants detailing substantially large amounts of money structured into banks and then withdrawn. One SAR noted that in just over a year the defendants were responsible for more than 200 deposits totaling nearly $400,000, of which most was cash. The bank reported that the subjects appeared to be attempting to structure transactions, due to multiple deposits they made on the same day.
+
+The agent reviewing BSA records found the SARs filed on the defendants and some of their associates. Many of the SAR narratives noted that the subjects made numerous, substantial deposits and withdrawals with no explanation for the source of the funds, such as normal business expenses. One SAR noted that a defendant was evasive when questioned about the business. In addition to moving money through various banks, the defendants used numerous individuals to structure money into MSBs at various locations across two states and then wire the money to locations in the United States and overseas. One SAR-MSB noted that the transactions went through more than 90 MSBs. From the MSBs, the funds were transferred to various "business" locations linked to the defendants. In total, financial institutions filed four SARs, three SAR-MSBs, and more than 10 CTRs on the defendants.
+
+The investigation revealed that the two defendants were leaders of a prescription drug trafficking scheme that sent money from one state to another where other subjects used the funds to buy illegal prescription drugs. The defendants hired additional traffickers to transport the drugs, smuggling the illegal prescription drugs from one state to another state where they were distributed. After selling the drugs in their home state, the traffickers sent the money back to the originating state, where it was used to purchase more drugs, luxury cars, and other property. Investigators also identified two doctors who wrote fraudulent prescriptions used by the drug dealers to obtain the illegal prescription drugs.
+
+At one point, a state police officer, unaware of the Federal investigation, stopped one of the drug traffickers for a routine traffic violation. The police officer found drugs in the trafficker's car, which the trafficker admitted he had just purchased with cash. Other local police investigators later identified other drug dealers without jobs but who were driving luxury cars. When stopped for traffic violations, police found that the dealers often carried thousands of dollars in cash.
+
+Federal agents started the investigation of this conspiracy based solely on the SARs. The investigation proceeded with the help of local police, including the use of surveillance techniques. A Federal agent reported that this investigation resulted in the complete dismantlement of the money laundering organization, the elimination of the source of supply, incarceration of the organization's leaders and members, and the seizure of the organization's assets. The trial marked the end of a one-year investigation into a drug trafficking and money laundering conspiracy operating in two states.
+
+The defendants convicted at trial received more than 20 years in prison. Other drug traffickers and money launderers involved in this conspiracy pleaded guilty and received lower prison sentences. A Federal judge awarded the government more than $250,000 in seized assets, and imposed more than $3,600,000 in personal monetary judgments.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* Issue 20, October 2011]
+
+Tags
+
+Narcotics Trafficking
+
+Money Laundering
+
+Involving SARs
+
+Involving CTRs
+
+Depository Institutions
+
+BSA Violations
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

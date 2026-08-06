@@ -1,0 +1,1 @@
+Summary: # Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20)

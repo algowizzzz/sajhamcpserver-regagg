@@ -1,0 +1,24 @@
+{
+  "doc_id": "504014f05569b8d0",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Directive sur la d\u00e9claration d\u2019op\u00e9rations : la r\u00e8gle de 24\u00a0heures",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/transaction-operation/24hour/1-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:cdf4bcdedb5e0adecfe0438323229f91717aebc8065b4482d8345012c74c135c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/504014f05569b8d0",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

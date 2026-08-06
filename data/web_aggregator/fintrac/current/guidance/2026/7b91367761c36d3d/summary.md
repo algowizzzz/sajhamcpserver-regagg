@@ -1,0 +1,1 @@
+Summary: # Méthodes pour vérifier l'identité de personnes et d'entités : Directive de conformité de CANAFE

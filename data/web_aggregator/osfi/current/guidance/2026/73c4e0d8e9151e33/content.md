@@ -1,0 +1,19 @@
+# National Bank of Canada - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)
+
+Pursuant to subsection 485(1.2) of the Bank Act, I, on behalf of the Superintendent of Financial Institutions, provide that National Bank of Canada’s minimum capacity to absorb losses is as follows. National Bank of Canada shall maintain capital and prescribed shares and prescribed liabilities that equal at least:
+
+1. 21.5 per cent of risk-weighted assets; and
+2. 6.75 per cent of leverage ratio exposures,
+
+calculated pursuant to the Office of the Superintendent of Financial Institution’s Total Loss Absorbing Capacity Guideline, as amended from time to time.
+
+This Order is effective November 1, 2021.
+
+Date: August 21, 2018  
+Carolyn Rogers   
+Assistant Superintendent of Financial Institutions
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-10-29

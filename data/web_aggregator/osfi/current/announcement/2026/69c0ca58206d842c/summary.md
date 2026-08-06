@@ -1,0 +1,1 @@
+Summary: # Abandon du contrôle d’une entité tout en maintenant un intérêt de groupe financier

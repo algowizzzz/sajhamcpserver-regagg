@@ -1,0 +1,1 @@
+Summary: # Market Participants Survey results - July 2026

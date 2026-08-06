@@ -1,0 +1,27 @@
+{
+  "doc_id": "f97743456bfe1563",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA consults on a second set of Advice for the Review of the Solvency Capital Requirements - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-consults-second-set-advice-review-solvency-capital-requirements-2017-11-06_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ca5133a026ede6ede656d8590f23622f1b488df808620db884cb36a5f48ea403",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/f97743456bfe1563",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-consults-second-set-advice-review-solvency-capital-requirements-2017-11-06_en",
+  "fetch_method": "html_to_md"
+}

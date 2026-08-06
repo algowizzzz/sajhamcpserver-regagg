@@ -1,0 +1,27 @@
+## More in this Section
+
+Press Release
+
+# Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy
+
+For Immediate Release
+
+2026-70
+
+Washington D.C., July 27, 2026 —
+
+The Securities and Exchange Commission released a report to Congress today highlighting policy recommendations from the SEC’s [45th Annual Government-Business Forum on Small Business Capital Formation](https://www.sec.gov/newsroom/meetings-events/45th-annual-small-business-forum). The [report](https://www.sec.gov/files/2026-oasb-annual-forum-report.pdf) provides a summary of the forum proceedings, policy recommendations developed by participants for changes to the capital-raising framework, and the Commission’s responses to those recommendations.
+
+The forum took place on March 9, 2026, and featured remarks from each of the Commissioners and thoughtful discussions with members of the public and private sectors on improving policy affecting how entrepreneurs, small businesses, and smaller public companies raise capital from investors.
+
+The sessions focused on the following topics:
+
+* Early-Stage Capital Raising
+* Growth-Stage Companies and Smaller Funds
+* Small Cap Companies and the Public Markets
+
+The SEC’s Office of the Advocate for Small Business Capital Formation is charged by Congress with hosting the SEC’s annual Small Business Forum, where members of the public and private sectors gather to provide feedback to improve capital-raising policy. The Office thanks the speakers, participants, advisory planning group members, and SEC staff members who made this year’s forum a success. Video archives and a transcript of the discussions are available [online](https://www.sec.gov/newsroom/meetings-events/45th-annual-small-business-forum).
+
+###
+
+Last Reviewed or Updated: July 27, 2026

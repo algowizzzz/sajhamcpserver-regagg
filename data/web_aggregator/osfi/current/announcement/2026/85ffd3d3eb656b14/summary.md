@@ -1,0 +1,1 @@
+Summary: # Sale of all or Substantially all Assets by Deposit-taking Institutions

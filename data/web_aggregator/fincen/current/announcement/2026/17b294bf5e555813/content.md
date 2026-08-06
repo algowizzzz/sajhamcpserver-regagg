@@ -1,0 +1,41 @@
+# Structuring Charges Help Elderly Victim Recover Stolen Funds
+
+[Issue17-story3.pdf](/system/files/case_example/Issue17-story3.pdf "Issue17-story3.pdf")
+(12.78 KB)
+
+Case summary: A woman was sentenced in 2010 after pleading guilty to a structuring charge resulting from the theft of funds from her elderly mother. Although the defendant received a relatively light sentence, the assistant U.S. attorney prosecuting the case noted that structuring was the only criminal charge the government could bring to help retrieve the money.
+
+Case details: In 2009, the defendant admitted in a plea agreement that the United States could prove at trial that during a two-month period in 2008, she knowingly structured financial transactions, totaling approximately $170,000, with her mother's bank for the purpose of evading currency transaction reporting requirements of Section5313(a) of Title 31, United States Code, and regulations promulgated there under, Title31, Code of Federal Regulations, Section 103.22. Bank records show that within that timeframe, the daughter made approximately 20 withdrawals of $10,000 or less.
+
+In court documents, investigators point out that during a period of more than one year in 2007 and 2008, the daughter resided at the home of her elderly mother, and they had a joint bank account. In 2008, the daughter approached a bank employee and asked how much money she could withdraw at one time from the bank account before the bank notified the government. The bank employee did not give her the information and the daughter left the bank, but a few days later began the structured withdrawals.
+
+While the daughter was making the cash withdrawals from the joint account, bank employees made several failed efforts to contact her mother about the transactions.When individuals attempted to visit the mother, her daughter advised them that her mother was unavailable. The mother did not enter the bank during the time of her daughter's withdrawals, but called the bank because she discovered her daughter was withdrawing her money from the bank. Her daughter subsequently entered the bank and employees questioned her about her mother being upset with her for withdrawing the money. She told the bank employees to mind their own business and withdrew approximately $20,000, which was the amount remaining in the account. She also said that she was moving to the Pacific Northwest.
+
+The mother filed a police report for the theft of the money as well as some jewelry.She told investigators that her daughter was a long-time alcoholic and had moved in with her with no money or possessions. Investigators identified more than $20,000 in an account that the daughter held at a financial institution in the Pacific Northwest. They were able to seize the money and return it to her mother. All told, investigators were able to retrieve nearly $100,000 and return it to the mother.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues*, Issue 17, May 2010]
+
+Tags
+
+Depository Institutions
+
+BSA Violations
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

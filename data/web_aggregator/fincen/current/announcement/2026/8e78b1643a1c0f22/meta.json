@@ -1,0 +1,24 @@
+{
+  "doc_id": "8e78b1643a1c0f22",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Proactive SAR Review Identifies Retired U.S. Military Officer Involved in Bribery Scheme | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/proactive-sar-review-identifies-retired-us-military-officer",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:268b2e7fc80fbe16d102eceba19f808ac350a26c995b4d58a5b3234f52ee52a4",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/8e78b1643a1c0f22",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

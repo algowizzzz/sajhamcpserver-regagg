@@ -1,0 +1,27 @@
+{
+  "doc_id": "27e0c197976623d4",
+  "regulator_id": "eiopa",
+  "doc_type": "consultation",
+  "title": "ESAs welcome European Commission's public consultation on their operation - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/esas-welcome-european-commissions-public-consultation-their-operation-2017-03-21-0_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4b79e98c50f793f056bdd65ede35b5992b8b02dd1719937c8f3df8d21e9b7ca3",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/consultation/2026/27e0c197976623d4",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/esas-welcome-european-commissions-public-consultation-their-operation-2017-03-21-0_en",
+  "fetch_method": "html_to_md"
+}

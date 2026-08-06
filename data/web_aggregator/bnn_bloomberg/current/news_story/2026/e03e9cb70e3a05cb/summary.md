@@ -1,0 +1,1 @@
+Summary: # Jerome Hass’ Top Picks for August 5, 2026

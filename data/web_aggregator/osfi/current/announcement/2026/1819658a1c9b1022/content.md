@@ -1,0 +1,34 @@
+# 2024 Mémoire à l’intention de l’actuaire désigné - Tableaux supplémentaires
+
+Information
+
+Type de document
+
+Note d'information
+
+Secteur
+
+Sociétés d’assurance
+
+Relevé
+
+Mémoire à l’intention de l’actuaire désigné
+
+Dernière révision
+
+August 2024
+
+Documents connexes
+
+* [Mémoire à l’intention de l’actuaire désigné (2024)](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/memoire-lintention-lactuaire-designe-2024)
+
+## 2024 Tableaux supplémentaires
+
+* [BSIF605-BSIF600 - Tableaux supplémentaires - Rapport de l’actuaire désigné (assureur vie) (XLSX, 746 Ko)](/sites/default/files/documents/2024-memo-life-supplementary-table-supplementaire-vie-fr.xlsx "2024-memo-life-supplementary-table-supplementaire-vie-fr.xlsx")
+* [BSIF605-BSIF987 - Tableaux supplémentaires - Rapport de l’actuaire désigné (assureur hypothécaire) (XLSX, 179 Ko)](/sites/default/files/documents/2024-memo-mi-supplementary-table-supplementaire-ah-fr_0.xlsx "2024-memo-mi-supplementary-table-supplementaire-ah-fr_0.xlsx")
+* [BSIF605-BSIF987 - Tableaux supplémentaires - Rapport de l’actuaire désigné (assureur multirisque) (XLSX, 171 Ko)](/sites/default/files/documents/2024-memo-pc-supplementary-table-supplementaire-sam-fr_0.xlsx "2024-memo-pc-supplementary-table-supplementaire-sam-fr_0.xlsx")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-08-22

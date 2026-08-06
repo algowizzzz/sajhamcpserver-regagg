@@ -1,0 +1,26 @@
+{
+  "doc_id": "726099a55255edc6",
+  "regulator_id": "frb",
+  "doc_type": "announcement",
+  "title": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
+  "language": "en",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
+  "reference_number": null,
+  "published_date": "2026-07-02",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fd67b1546cc26a3f00dee73475ce991a7cc18ca0ce53e340219358b76d9bb255",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_frb_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/frb/current/announcement/2026/726099a55255edc6",
+  "tags": [
+    "us",
+    "central_bank",
+    "prudential",
+    "banking"
+  ]
+}

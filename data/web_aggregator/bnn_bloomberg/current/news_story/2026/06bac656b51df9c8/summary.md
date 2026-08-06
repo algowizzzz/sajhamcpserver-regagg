@@ -1,0 +1,1 @@
+Summary: # Stack Capital Group Inc. Reports Q2-2026 Financial Results

@@ -1,0 +1,1 @@
+Summary: User Guide for the New Member Application

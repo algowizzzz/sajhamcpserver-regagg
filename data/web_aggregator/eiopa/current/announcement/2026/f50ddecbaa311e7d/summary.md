@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) and all National Competent Authorities (NCAs) of the European Economic Area (EEA) with competencies in insurance have agreed Memoranda of Understanding (MoUs) with the Bank of England in its capacity as the Pruden

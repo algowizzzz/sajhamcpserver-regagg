@@ -1,0 +1,25 @@
+{
+  "doc_id": "608fde00295aa1be",
+  "regulator_id": "boe_pra",
+  "doc_type": "announcement",
+  "title": "The Bank of England\u2019s fees regime for financial market infrastructure supervision for CCPs and CSDs 2026/27",
+  "language": "en",
+  "source_url": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-fees-regime-for-fmi-supervision-for-ccps-and-csds-2026-27",
+  "reference_number": null,
+  "published_date": "2026-07-08",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fe944b2ecd8b54325900a3c00b1f7364ccb3b46a88a80c658fbe7d1d8020985b",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boe_pra_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boe_pra/current/announcement/2026/608fde00295aa1be",
+  "tags": [
+    "uk",
+    "prudential",
+    "banking"
+  ]
+}

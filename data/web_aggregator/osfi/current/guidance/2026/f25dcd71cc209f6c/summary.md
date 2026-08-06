@@ -1,0 +1,1 @@
+Summary: # Internal Capital Adequacy Assessment Process (ICAAP) for Deposit-Taking Institutions – Guideline (2010)

@@ -1,0 +1,69 @@
+# Pénalité administrative pécuniaire imposée à Canada Changjiang Management Ltd.
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du
+Canada](/intro-fra) (CANAFE)
+
+[**2024-09-12**]
+
+Canada Changjiang Management Ltd., une entreprise de services monétaires située à Richmond, en Colombie-Britannique, s’est vu imposer une pénalité administrative pécuniaire de 315 282 $ le 11 février 2024 pour avoir commis 6 violations. Les violations ont été observées dans le cadre d’un examen de conformité réalisé en 2022. La pénalité administrative pécuniaire a été payée en entier et le dossier est clos.
+
+## Nature de la violation
+
+Violation no 1
+:   **Fait pour une personne ou une entité de ne pas déclarer des opérations financières effectuées dans le cadre de ses activités et à l’égard desquelles il y a des motifs raisonnables de soupçonner qu’elles sont liées à la perpétration, réelle ou tentée, d’une infraction de recyclage des produits de la criminalité ou de financement des activités terroristes, ce qui est contraire à l’article 7 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et au paragraphe 9(1) du Règlement sur la déclaration des opérations douteuses – recyclage des produits de la criminalité et financement des activités terroristes** 
+      
+      
+    Canada Changjiang Management Ltd. a omis de soumettre 2 déclarations d’opérations douteuses, durant la période du 3 décembre 2020 au 19 mai 2021, alors qu’elle avait des motifs raisonnables de soupçonner que les opérations étaient liées à la perpétration, réelle ou tentée, d’une infraction de recyclage des produits de la criminalité ou de financement des activités terroristes.
+      
+      
+    Ces opérations incluent ce qui suit :
+
+    * Cas où le client effectue des opérations à différents emplacements physiques
+    * Cas où le client semble fractionner les montants pour éviter les seuils de vérification de l’identité des clients ou de déclaration
+    * Cas où les opérations sont effectuées avec des juridictions considérées comme présentant des risques plus élevés de blanchiment d’argent ou de financement des activités terroristes
+
+Violation no 2
+:   **Fait pour une entreprise de services monétaires de ne pas déclarer la réception d’un client d’une somme en espèces de 10 000 $ ou plus au cours d’une seule opération et de joindre à la déclaration les renseignements prévus par règlement, ce qui est contraire au paragraphe 9(1) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et à l’alinéa 28(1)a) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes** 
+      
+      
+    Canada Changjiang Management Ltd. a omis de soumettre 3 déclarations d’opérations importantes en espèces pour la période du 7 décembre 2020 au 27 mai 2021, suivant la réception d’une somme en espèces de 10 000 $ ou plus d’un client. CANAFE a déterminé que, dans 3 cas, Canada Changjiang Management Ltd. a reçu 2 ou plusieurs sommes en espèces de 10 000 $ ou plus de la même personne ou entité ou pour le compte de la même personne ou entité au cours d’une période de 24 heures consécutives, et n’a pas soumis de déclaration d’opérations importantes en espèces.
+
+Violation no 3
+:   **Fait pour une entreprise de services monétaires, de ne pas déclarer au Centre l’expédition d’un télévirement à l’étranger, à la demande d’un client, de 10 000 $ ou plus au cours d’une seule opération et de joindre à la déclaration les renseignements prévus par règlement, ce qui est contraire au paragraphe 9(1) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et à l’alinéa 28(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes** 
+      
+      
+    Canada Changjiang Management Ltd. a omis de soumettre 25 déclarations de télévirements – sortants pour la période du 7 décembre 2020 au 27 mai 2021, alors que l’entreprise a transmis des instructions électroniquement à l’extérieur du Canada, dans le cadre de 2 transferts ou plus totalisant 10 000 $ ou plus par la même personne ou entité ou pour le compte de la même personne ou entité au cours d’une période de 24 heures consécutives. CANAFE a déterminé que Canada Changjiang Management Ltd. ne suivait pas de manière cohérente ses politiques et procédures respectives et n’avait pas mis en œuvre un examen adéquat et une détermination appropriés des opérations regroupées totalisant plus de 10 000 $ dans une période de 24 heures.
+
+Violation no 4
+:   **Fait pour une entreprise de services monétaires, de ne pas déclarer la réception d’un télévirement de l’étranger de 10 000 $ ou plus au cours d’une seule opération et de joindre à la déclaration les renseignements prévus par règlement, ce qui est contraire au paragraphe 9(1) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et à l’alinéa 28(1)c) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes** 
+      
+      
+    Canada Changjiang Management Ltd. a omis de soumettre 4 déclarations de télévirements entrants pour la période du 22 janvier 2021 au 30 mars 2021, alors que l’entreprise a reçu des instructions électroniquement provenant de l’étranger, dans le cadre de 2 transferts ou plus totalisant 10 000 $ ou plus par la même personne ou entité ou pour le compte de la même personne ou entité au cours d’une période de 24 heures consécutives. CANAFE a déterminé que Canada Changjiang Management Ltd. ne suivait pas de manière cohérente ses politiques et procédures respectives et n’avait pas mis en œuvre un examen et une détermination appropriés des opérations regroupées totalisant plus de 10 000 $ dans une période de 24 heures.
+
+Violation no 5
+:   **Fait de ne pas élaborer et appliquer des politiques et procédures de conformité écrites qui sont tenues à jour et, dans le cas d’une entité, approuvées par un de ses dirigeants – alinéa 71(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes** 
+      
+      
+    CANAFE a déterminé que les politiques et procédures de conformité de Canada Changjiang Management Ltd. n’étaient pas conformes aux exigences de l’alinéa 71(1)b) du Règlement. Conformément aux obligations prescrites par la Loi et le Règlement, Canada Changjiang Management Ltd. n’avait pas inclut toutes les mesures nécessaires dans ces politiques et procédures documentées, et n’appliquait pas les mesures contenues dans ces politiques et procédures dans la pratique relativement à son organisation et à ses opérations.
+      
+      
+    CANAFE a également confirmé que, bien que les politiques et procédures d’identification et de détermination des opérations douteuses, des opérations importantes en espèces et des télévirements étaient documentées, Canada Changjiang Management Ltd. n’avait pas suivi ces processus; ce qui a entrainé les manquements en termes d’opérations douteuses, d’opérations importantes en espèces et de télévirements non déclarés. De plus, CANAFE aussi déterminé que la documentation soumise par Canada Changjiang Management Ltd. n’était pas appliquée dans la pratique en ce qui a trait aux mesures accrues spécifiques aux exigences de contrôle continu et de mesures spéciales pour les clients à risque élevé.
+      
+      
+    Enfin, ses politiques et procédures ne prenaient pas en compte les directives ministérielles et les restrictions sur les opérations et n’incluaient pas les processus que l’entreprise mettrait en œuvre pour l’examen des opérations de ses clients spécifiques aux nationaux politiquement vulnérables, aux dirigeants d’organisations internationales, aux membres de la famille ou aux proches de ces personnes.
+
+Violation no 6
+:   **Fait pour une personne ou une entité de ne pas évaluer les risques de blanchiment d’argent et de financement des activités terroristes visés au paragraphe 9.6(2) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et de ne pas conserver les documents à l’appui en tenant compte des critères prévus par règlement, ce qui est contraire au paragraphe 9.6(1) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et à l’alinéa 71(1)c) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes** 
+      
+      
+    Pour la période d’examen du 1er décembre au 31 mai 2021, CANAFE a déterminé que bien que l’évaluation des risques de Canada Changjiang Management Ltd. comportait un processus d’évaluation des risques de ses clients, celui-ci n’était pas mis en pratique. Spécifiquement, l’entreprise de services monétaires n’évalue pas le risque posé par chaque type de client à qui elle offre des services lorsqu’une relation d’affaires est établie. Cela est démontré par le manque d’évaluation des risques à la fois pour ses produits et ces moyens de distribution, ainsi que l’omission d’effectuer une évaluation des risques liés aux emplacements géographiques de ses clients et relations d’affaires.
+      
+      
+    De plus, il a été constaté que les dossiers de contrôle continu ne démontraient pas d’enquête documentée, de mesures spéciales prises, ou de mesures d’atténuation des risques exercées. Par conséquent, CANAFE a conclu que l’entreprise de services monétaires n’avait pas mis en œuvre sa stratégique d’évaluation des risques de manière efficace.
+
+## Lien connexe
+
+* [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Canada Changjiang Management Ltd.](/new-neuf/nr/2024-09-12-fra)
+
+Date de modification :
+:   2024-09-12

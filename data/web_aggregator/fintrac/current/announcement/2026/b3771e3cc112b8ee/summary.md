@@ -1,0 +1,1 @@
+Summary: # Speaking Notes for Nada Semaan, Director and Chief Executive Officer, Financial Transactions and Reports Analysis Centre of Canada at the 2019 Casino Forum

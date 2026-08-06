@@ -1,0 +1,41 @@
+# SAR Filing Leads to 125-Count Indictment in $2.7 Million Embezzlement Case
+
+[058.pdf](/system/files/case_example/058.pdf "058.pdf")
+(23.85 KB)
+
+A SAR filing by a credit union in Rapid City, South Dakota was instrumental in uncovering a massive scheme by individuals to embezzle approximately $2.7 million from a South Dakota College. The investigation was conducted by IRS-CID, FBI, the Department of the Interior, and the Department of Education and it produced a 125-count indictment of seven individuals charged with money laundering, structuring, conspiracy, obstruction of justice, and tax evasion. The SAR filing indicated that the defendants were structuring currency deposits in amounts under $10,000. The primary defendant in the case received a sentence of 10 years in custody and was ordered to pay restitution in the amount of $2.6 million. The co-defendants received sentences ranging from 24 months to 97 months in custody.
+
+(Source: IRS-Criminal Investigation Division)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 1, October 2000]
+
+Tags
+
+Money Laundering
+
+Involving SARs
+
+Depository Institutions
+
+BSA Violations
+
+Tax Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

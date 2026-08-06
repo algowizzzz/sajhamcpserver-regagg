@@ -1,0 +1,26 @@
+{
+  "doc_id": "cbf6b0f74ffee654",
+  "regulator_id": "osc",
+  "doc_type": "announcement",
+  "title": "Strategy One Ltd. and Maxi Platinum Ltd., doing business as www.superbinary.com (together \u201cSuperbinary\u201d) appears to operate an online binary options trading platform | OSC",
+  "language": "en",
+  "source_url": "https://www.osc.ca/en/investors/warnings/strategy-one-ltd-and-maxi-platinum-ltd-doing-business-wwwsuperbinarycom-together",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_osc_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osc/current/announcement/2026/cbf6b0f74ffee654",
+  "tags": [
+    "canada",
+    "securities"
+  ],
+  "final_url": "https://www.osc.ca/en/investors/warnings/strategy-one-ltd-and-maxi-platinum-ltd-doing-business-wwwsuperbinarycom-together",
+  "fetch_method": "html_to_md"
+}

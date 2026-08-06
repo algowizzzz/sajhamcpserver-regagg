@@ -1,0 +1,1 @@
+Summary: # Ratio de liquidité à court terme (LCR) (LA)

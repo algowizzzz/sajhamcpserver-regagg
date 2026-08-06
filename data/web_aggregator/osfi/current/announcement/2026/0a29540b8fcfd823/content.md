@@ -1,0 +1,464 @@
+# Examen de la réserve pour stabilité intérieure - Note sommaire - Décembre 2022
+
+* La réserve pour stabilité intérieure (RSI) est une réserve ajustable qui s’applique aux grandes banques canadiennes dites d’importance systémique intérieure (les BISi). Elle exige des BISi qu’elles constituent une réserve de fonds propres reflétant les vulnérabilités croissantes afin de pouvoir éponger les pertes et de continuer d’octroyer des prêts en période de crise.
+* Depuis son instauration en juin 2018, le taux de la RSI s’est maintenu dans une fourchette comprise entre 0 % et 2,5 % du total des actifs pondérés en fonction du risque (APR) des BISi. Après avoir été ramené à 1,0 % pendant la pandémie de COVID‑19, il a été porté à 2,5 % en juin 2021 en réponse à l’augmentation des vulnérabilités systémiques.
+* Même si, dans l’ensemble, la RSI a permis d’assurer la stabilité du système financier, l’environnement de risque s’est progressivement complexifié depuis 2018. De plus, les vulnérabilités intérieures et internationales sont devenues plus prononcées. Comme promis en 2021, le BSIF a examiné le concept et la fourchette de la RSI pour veiller à ce qu’elle demeure efficace face à ces tendances.
+* Par suite de cet examen, le BSIF a élargi la fourchette de la RSI qui s’étend dorénavant de 0 % à 4 % en partant du principe que les BISi devraient être en mesure d’éponger les pertes découlant d'une gamme de scénarios graves, mais vraisemblables, tout en continuant d’octroyer des prêts.
+* Le concept actuel sera maintenu pour que la RSI puisse être modulée selon l’évolution des vulnérabilités tout en servant de stabilisateur, ou d’amortisseur, pour absorber les pertes.
+* Le BSIF a amélioré la transparence entourant l’ajustement du taux de la RSI en diffusant les indicateurs qui interviennent dans la décision semestrielle. En outre, le jugement des surveillants continuera de jouer un rôle important dans les futures décisions concernant la RSI.
+
+## Contexte de la RSI
+
+La RSI est un important outil macroprudentiel qui aide à protéger le système financier canadien des vulnérabilités et des risques. Elle s’applique à toutes les BISi et prend la forme d’une réserve utilisable qui repose sur un pourcentage du total des actifs pondérés en fonction du risque de ces institutions. En juin 2018, le BSIF a instauré la RSI avec une fourchette comprise entre 0 % et 2,5 % et a d’abord fixé son taux à 1,5 %. Depuis, le taux de la RSI a été réexaminé et ajusté au besoin deux fois par année, en juin et en décembre; une annonce spéciale a été faite de façon exceptionnelle en mars 2020 en raison de la pandémie de COVID‑19.
+
+La RSI a été conçue pour protéger le système financier contre les vulnérabilités mesurables, importantes, cycliques et systémiques. Au nombre des vulnérabilités spécifiques dont tient compte la RSI depuis sa création, citons (i) l’endettement des ménages canadiens (le ratio dette/revenu, p. ex.); (ii) le déséquilibre des actifs au Canada comme le ratio prix des logements/revenu; et (iii) l’endettement des entreprises canadiennes, soit le niveau de la dette détenue par les grandes entreprises. Plus récemment, le BSIF a commencé à tenir compte des vulnérabilités géopolitiques et externes qui pourraient avoir des répercussions plus grandes sur le système financier canadien.
+
+Compte tenu de la progression soutenue des vulnérabilités et de la complexité croissante de l’environnement de risque, le BSIF a annoncé son intention d’examiner la RSI en décembre 2021 pour s’assurer qu’elle demeure pertinente, appropriée et adaptée. Le présent rapport résume les principales constatations et décisions issues de cet examen. Dorénavant, le BSIF compte examiner périodiquement la RSI pour s’assurer qu’elle continue d’atteindre ses objectifs et qu’elle contribue à l’efficacité à long terme du régime de fonds propres.
+
+### Évolution des vulnérabilités dans un environnement de risque incertain
+
+Dans le cadre de l’examen de la RSI, le BSIF s’est penché sur la portée des risques et des vulnérabilités. Comme cela a été mentionné à la section précédente, au départ, la RSI ciblait principalement les vulnérabilités intérieures. Plus récemment, l’environnement de risque à l’échelle mondiale a changé face à l’augmentation du coût de la dette et aux tensions géopolitiques, avec en toile de fond un niveau d’endettement élevé dans l’ensemble du système, une inflation à la hausse et un resserrement de la politique monétaire. L’édition 2022-2023 du Regard annuel du BSIF sur le risque fait d’ailleurs état de cette évolution. Ensemble, ces nouvelles considérations et la complexification de l’environnement de risque justifient l’élargissement de la portée de la RSI pour y inclure les vulnérabilités systémiques externes comme quatrième catégorie de vulnérabilités qu’englobe la RSI.
+
+Le BSIF a aussi procédé à des simulations de crise – qui consistent à modéliser une gamme de scénarios graves, mais vraisemblables, et leurs effets potentiels sur l’économie et le système financier au Canada – pour évaluer la fourchette de la RSI. Divers scénarios ont été étudiés, notamment de récentes simulations de crise et analyses de sensibilité, y compris des simulations de crise selon une approche descendante de la Banque du Canada et du Fonds monétaire international (FMI). Selon les résultats de ces simulations, dans certains scénarios hypothétiques, les niveaux de fonds propres pourraient dégringoler et, dans des scénarios plus graves, approcher ou dépasser le seuil de la réserve de conservation des fonds propres de 8 %. Cela indique qu’une fourchette plus large pour la RSI serait justifiée si les vulnérabilités devaient augmenter, afin de soutenir l’octroi de prêts et d’éponger les éventuelles pertes de crédit dans diverses conditions économiques[Note de bas de page 1](#fnb1).
+
+Il faut aussi tenir compte de l’exposition des BISi aux vulnérabilités systémiques et de la croissance globale de l’actif au fil du temps en comparaison avec la fluctuation de l’économie. Le rapport entre l’actif total des BISi et le produit intérieur brut (PIB) a grimpé pour atteindre environ 261 % au deuxième trimestre de 2022, alors qu’il s’établissait à 237 % en 2018 et à 186 % en 2012. S’ajoute à cela le fait que les BISi ont accru leurs activités à l’international, qu’elles ne cessent de gagner en complexité et qu’elles sont plus exposées aux risques mondiaux.
+
+Dans ce contexte, le rehaussement du plafond de la RSI permettrait de tenir compte des récentes tendances et de toute exacerbation éventuelle des vulnérabilités systémiques pesant sur les BISi.
+
+**Décision 1 issue de l’examen**
+:   La fourchette de la RSI s’étend désormais de 0 % à 4 % pour tenir compte d’une augmentation potentielle des vulnérabilités systémiques et de l’incertitude caractérisant l’environnement de risque actuel, tout en permettant aux BISi de continuer à consentir des prêts et à éponger les pertes découlant de divers événements générateurs de risque graves, mais vraisemblables.
+
+### Souplesse face à l’évolution des vulnérabilités
+
+La RSI est conçue pour veiller à ce que le système financier canadien demeure résilient en tout temps face à un certain nombre d’éventuels événements générateurs de risque, selon l’évaluation que fait le BSIF de l’environnement actuel. Cette approche s’arrime au mandat du BSIF en matière de surveillance et permet de réagir à l’évolution des vulnérabilités et des risques.
+
+Avant cet examen, le concept de la RSI prévoyait des annonces semestrielles du taux de la réserve d’après l’analyse d’une gamme de vulnérabilités et de risques et le jugement des surveillants du BSIF. À ce jour, les augmentations du taux de la RSI reflétaient l’évaluation du BSIF selon laquelle les vulnérabilités affichaient une tendance à la hausse. Dans bien des cas, cette tendance avait comme toile de fond un environnement où les risques pesant sur les BISi au cours des six prochains mois étaient considérés comme faibles ou stables.
+
+Les rehaussements du taux de la RSI (pour renflouer les réserves de fonds propres) comportaient habituellement une période de transition. Ce « préavis » laisse aux BISi le temps d’obtenir les fonds propres nécessaires et tient compte des avantages de la prévisibilité et de la stabilité des exigences de fonds propres, dans la mesure possible.
+
+Les décisions de réduire le taux de la RSI ou, pour être plus exact, de permettre l’utilisation des fonds propres conservés au titre de la RSI ont un effet immédiat et permettraient de réagir rapidement à une crise, à un événement générateur de risque ou à une conjoncture économique défavorable (la pandémie de COVID‑19 étant le seul exemple pour le moment).
+
+Une telle réduction, totale ou partielle, est ordonnée lorsque le BSIF est d’avis que les risques pour les BISi et le système financier dans son ensemble sont suffisamment importants pour justifier une intervention sur le plan de la réglementation afin de s’assurer que les institutions peuvent continuer à octroyer des prêts aux ménages et aux entreprises.
+
+Dans des circonstances exceptionnelles, le BSIF pourrait aussi modifier le taux de la réserve à d’autres moments de l’année.
+
+**Décision 2 issue de l’examen**
+:   Le BSIF maintient le concept actuel de la RSI qui permet la souplesse nécessaire pour faire face à l’évolution des vulnérabilités et des risques, tout en réaffirmant l’importance du jugement des surveillants.
+
+### Plus grande transparence pour accroître la confiance du public envers le système financier
+
+Le BSIF est d’avis que, outre le fait d’apporter toute modification annoncée de la RSI, il doit justifier les décisions la sous-tendant. Dans le contexte de la redéfinition des priorités de son mandat, qui met désormais davantage l’accent sur l’objectif d’accroître la confiance du public envers le système financier canadien, le BSIF a amélioré la transparence entourant les décisions touchant la fourchette, le concept et le taux de la RSI, tout en continuant d’insister sur le rôle que joue le jugement des surveillants dans ces décisions.
+
+En accord avec cet objectif, le BSIF a communiqué certains indicateurs liés aux vulnérabilités qu’il surveille (voir l’annexe) en prévision de chaque annonce au sujet de la RSI. Ces indicateurs donnent une idée des considérations qui éclairent l’ajustement de la RSI, mais ils ne doivent pas être vus comme une liste exhaustive de facteurs étant donné qu’ils peuvent évoluer à mesure que l’environnement économique et de risque change.
+
+Il faut également souligner qu’il n’y a pas de lien automatique ou mécanique entre quelconque indicateur et la révision de la RSI. Mises à part ces réserves, la surveillance d’un ensemble d’indicateurs montre comment le BSIF perçoit les risques pesant sur le système financier et comment il ajuste la RSI en conséquence.
+
+**Décision 3 issue de l’examen**
+:   Le BSIF a amélioré la transparence entourant l’ajustement de la RSI en diffusant certains indicateurs qui contribuent à la décision semestrielle. Cela oeuvre dans le sens du mandat du BSIF de promouvoir la confiancedu public envers le système financier canadien.
+
+## Conclusion
+
+Tout compte fait, l’examen du BSIF montre que la RSI a bien joué son rôle d’outil favorisant la stabilité systémique en exigeant des BISi qu’elles renflouent leurs réserves dans les période relativement stable ou positive du cycle économique et qu’elles soient prêtes à y puiser des fonds propres au besoin lorsque les conditions sont volatiles ou défavorables. Grâce aux quelques ajustements découlant de l’examen effectué par le BSIF à l’automne de 2022, l’adéquation, le fonctionnement et la visibilité de la RSI seront accrus, renforçant ainsi la confiance du public envers le système financier canadien.
+
+## Annexe
+
+**Figure 1 : Certains indicateurs liés aux vulnérabilités intérieures**
+
+![Certains indicateurs liés aux vulnérabilités intérieures. La version textuelle suit.](/sites/default/files/images/dsb-rsi-20221208-img1-fr.jpeg)
+
+Sources : Statistique Canada, Banque du Canada, Banque des règlements internationaux
+
+Version texte - Certains indicateurs liés aux vulnérabilités intérieures
+
+La crise financière mondiale s’est étendue du T3 de 2008 au T2 de 2009. La pandémie de COVID était à son plus fort de mars à septembre 2020.
+
+Ratio dette/revenu des ménages au Canada
+
+| Date | Dette/revenu |
+| --- | --- |
+| Juin 2006 | 140 % |
+| Septembre 2006 | 139 % |
+| Décembre 2006 | 141 % |
+| Mars 2007 | 142 % |
+| Juin 2007 | 147 % |
+| Septembre 2007 | 151 % |
+| Décembre 2007 | 152 % |
+| Mars 2008 | 153 % |
+| Juin 2008 | 154 % |
+| Septembre 2008 | 154 % |
+| Décembre 2008 | 157 % |
+| Mars 2009 | 160 % |
+| Juin 2009 | 162 % |
+| Septembre 2009 | 162 % |
+| Décembre 2009 | 164 % |
+| Mars 2010 | 162 % |
+| Juin 2010 | 167 % |
+| Septembre 2010 | 166 % |
+| Décembre 2010 | 166 % |
+| Mars 2011 | 167 % |
+| Juin 2011 | 169 % |
+| Septembre 2011 | 170 % |
+| Décembre 2011 | 168 % |
+| Mars 2012 | 169 % |
+| Juin 2012 | 170 % |
+| Septembre 2012 | 170 % |
+| Décembre 2012 | 170 % |
+| Mars 2013 | 168 % |
+| Juin 2013 | 169 % |
+| Septembre 2013 | 170 % |
+| Décembre 2013 | 170 % |
+| Mars 2014 | 170 % |
+| Juin 2014 | 171 % |
+| Septembre 2014 | 170 % |
+| Décembre 2014 | 172 % |
+| Mars 2015 | 170 % |
+| Juin 2015 | 171 % |
+| Septembre 2015 | 172 % |
+| Décembre 2015 | 175 % |
+| Mars 2016 | 181 % |
+| Juin 2016 | 181 % |
+| Septembre 2016 | 181 % |
+| Décembre 2016 | 181 % |
+| Mars 2017 | 183 % |
+| Juin 2017 | 182 % |
+| Septembre 2017 | 181 % |
+| Décembre 2017 | 181 % |
+| Mars 2018 | 183 % |
+| Juin 2018 | 184 % |
+| Septembre 2018 | 185 % |
+| Décembre 2018 | 183 % |
+| Mars 2019 | 183 % |
+| Juin 2019 | 181 % |
+| Septembre 2019 | 182 % |
+| Décembre 2019 | 181 % |
+| Mars 2020 | 181 % |
+| Juin 2020 | 162 % |
+| Septembre 2020 | 173 % |
+| Décembre 2020 | 177 % |
+| Mars 2021 | 175 % |
+| Juin 2021 | 176 % |
+| Septembre 2021 | 179 % |
+| Décembre 2021 | 185 % |
+| Mars 2022 | 180 % |
+| Juin 2022 | 182 % |
+
+Indice du prix des logements/revenu au Canada
+
+| Date | Prix des logements/revenu |
+| --- | --- |
+| Juin 2006 | 1,46 |
+| Septembre 2006 | 1,46 |
+| Décembre 2006 | 1,46 |
+| Mars 2007 | 1,47 |
+| Juin 2007 | 1,53 |
+| Septembre 2007 | 1,57 |
+| Décembre 2007 | 1,59 |
+| Mars 2008 | 1,59 |
+| Juin 2008 | 1,56 |
+| Septembre 2008 | 1,50 |
+| Décembre 2008 | 1,45 |
+| Mars 2009 | 1,42 |
+| Juin 2009 | 1,44 |
+| Septembre 2009 | 1,52 |
+| Décembre 2009 | 1,60 |
+| Mars 2010 | 1,60 |
+| Juin 2010 | 1,62 |
+| Septembre 2010 | 1,58 |
+| Décembre 2010 | 1,58 |
+| Mars 2011 | 1,63 |
+| Juin 2011 | 1,68 |
+| Septembre 2011 | 1,67 |
+| Décembre 2011 | 1,64 |
+| Mars 2012 | 1,63 |
+| Juin 2012 | 1,64 |
+| Septembre 2012 | 1,62 |
+| Décembre 2012 | 1,60 |
+| Mars 2013 | 1,59 |
+| Juin 2013 | 1,61 |
+| Septembre 2013 | 1,64 |
+| Décembre 2013 | 1,68 |
+| Mars 2014 | 1,71 |
+| Juin 2014 | 1,71 |
+| Septembre 2014 | 1,70 |
+| Décembre 2014 | 1,74 |
+| Mars 2015 | 1,73 |
+| Juin 2015 | 1,75 |
+| Septembre 2015 | 1,79 |
+| Décembre 2015 | 1,83 |
+| Mars 2016 | 1,97 |
+| Juin 2016 | 2,03 |
+| Septembre 2016 | 2,01 |
+| Décembre 2016 | 1,97 |
+| Mars 2017 | 2,01 |
+| Juin 2017 | 2,07 |
+| Septembre 2017 | 2,02 |
+| Décembre 2017 | 1,95 |
+| Mars 2018 | 1,97 |
+| Juin 2018 | 1,95 |
+| Septembre 2018 | 1,92 |
+| Décembre 2018 | 1,91 |
+| Mars 2019 | 1,89 |
+| Juin 2019 | 1,86 |
+| Septembre 2019 | 1,90 |
+| Décembre 2019 | 1,95 |
+| Mars 2020 | 1,98 |
+| Juin 2020 | 1,72 |
+| Septembre 2020 | 1,88 |
+| Décembre 2020 | 2,08 |
+| Mars 2021 | 2,19 |
+| Juin 2021 | 2,27 |
+| Septembre 2021 | 2,36 |
+| Décembre 2021 | 2,46 |
+| Mars 2022 | 2,46 |
+| Juin 2022 | 2,49 |
+
+Ratio dette non financière des grandes entreprises canadiennes/PBI
+
+| Date | Non financière des grandes entreprises canadiennes/PBI |
+| --- | --- |
+| Juin 2006 | 43,23 % |
+| Septembre 2006 | 43,72 % |
+| Décembre 2006 | 44,98 % |
+| Mars 2007 | 46,06 % |
+| Juin 2007 | 45,02 % |
+| Septembre 2007 | 45,86 % |
+| Décembre 2007 | 46,75 % |
+| Mars 2008 | 47,86 % |
+| Juin 2008 | 46,65 % |
+| Septembre 2008 | 46,62 % |
+| Décembre 2008 | 50,51 % |
+| Mars 2009 | 52,55 % |
+| Juin 2009 | 53,15 % |
+| Septembre 2009 | 51,95 % |
+| Décembre 2009 | 49,86 % |
+| Mars 2010 | 48,55 % |
+| Juin 2010 | 48,41 % |
+| Septembre 2010 | 48,63 % |
+| Décembre 2010 | 47,79 % |
+| Mars 2011 | 47,84 % |
+| Juin 2011 | 47,56 % |
+| Septembre 2011 | 49,18 % |
+| Décembre 2011 | 48,12 % |
+| Mars 2012 | 49,01 % |
+| Juin 2012 | 50,16 % |
+| Septembre 2012 | 50,95 % |
+| Décembre 2012 | 51,22 % |
+| Mars 2013 | 51,78 % |
+| Juin 2013 | 53,26 % |
+| Septembre 2013 | 52,99 % |
+| Décembre 2013 | 53,34 % |
+| Mars 2014 | 54,83 % |
+| Juin 2014 | 55,30 % |
+| Septembre 2014 | 56,45 % |
+| Décembre 2014 | 57,27 % |
+| Mars 2015 | 62,26 % |
+| Juin 2015 | 62,18 % |
+| Septembre 2015 | 62,86 % |
+| Décembre 2015 | 63,99 % |
+| Mars 2016 | 62,43 % |
+| Juin 2016 | 64,68 % |
+| Septembre 2016 | 65,14 % |
+| Décembre 2016 | 64,15 % |
+| Mars 2017 | 64,49 % |
+| Juin 2017 | 64,89 % |
+| Septembre 2017 | 65,17 % |
+| Décembre 2017 | 65,59 % |
+| Mars 2018 | 66,41 % |
+| Juin 2018 | 66,94 % |
+| Septembre 2018 | 66,31 % |
+| Décembre 2018 | 68,28 % |
+| Mars 2019 | 68,88 % |
+| Juin 2019 | 69,18 % |
+| Septembre 2019 | 69,99 % |
+| Décembre 2019 | 69,27 % |
+| Mars 2020 | 73,33 % |
+| Juin 2020 | 86,50 % |
+| Septembre 2020 | 77,78 % |
+| Décembre 2020 | 76,02 % |
+| Mars 2021 | 72,59 % |
+| Juin 2021 | 72,73 % |
+| Septembre 2021 | 72,28 % |
+| Décembre 2021 | 71,10 % |
+| Mars 2022 | 68,39 % |
+| Juin 2022 | 65,19 % |
+
+**Figure 2 : Certains indicateurs macrofinanciers externes**
+
+![Certains indicateurs macrofinanciers externes. La version textuelle suit.](/sites/default/files/images/dsb-rsi-20221208-img2-fr.jpeg)
+
+Sources : Organisation de coopération et de développement économiques; Banque des règlements internationaux
+
+Version texte - Certains indicateurs macrofinanciers externes
+
+La crise financière mondiale s’est étendue du T3 de 2008 au T2 de 2009. La pandémie de COVID était à son plus fort de mars à septembre 2020.
+
+Inflation (IPC) : pays du G7  
+Total - Taux de croissance annuel (%)
+
+| Date | Inflation (IPC)  pays du G7 |
+| --- | --- |
+| Septembre 2006 | 2,53 |
+| Décembre 2006 | 1,67 |
+| Mars 2007 | 1,93 |
+| Juin 2007 | 2,07 |
+| Septembre 2007 | 1,88 |
+| Décembre 2007 | 3,07 |
+| Mars 2008 | 3,27 |
+| Juin 2008 | 3,60 |
+| Septembre 2008 | 4,37 |
+| Décembre 2008 | 1,78 |
+| Mars 2009 | 0,43 |
+| Juin 2009 | -0,54 |
+| Septembre 2009 | -1,16 |
+| Décembre 2009 | 0,79 |
+| Mars 2010 | 1,66 |
+| Juin 2010 | 1,40 |
+| Septembre 2010 | 1,05 |
+| Décembre 2010 | 1,28 |
+| Mars 2011 | 1,89 |
+| Juin 2011 | 2,70 |
+| Septembre 2011 | 2,99 |
+| Décembre 2011 | 2,72 |
+| Mars 2012 | 2,44 |
+| Juin 2012 | 1,80 |
+| Septembre 2012 | 1,59 |
+| Décembre 2012 | 1,65 |
+| Mars 2013 | 1,37 |
+| Juin 2013 | 1,19 |
+| Septembre 2013 | 1,46 |
+| Décembre 2013 | 1,24 |
+| Mars 2014 | 1,32 |
+| Juin 2014 | 1,95 |
+| Septembre 2014 | 1,70 |
+| Décembre 2014 | 1,24 |
+| Mars 2015 | 0,31 |
+| Juin 2015 | 0,23 |
+| Septembre 2015 | 0,23 |
+| Décembre 2015 | 0,42 |
+| Mars 2016 | 0,74 |
+| Juin 2016 | 0,64 |
+| Septembre 2016 | 0,75 |
+| Décembre 2016 | 1,34 |
+| Mars 2017 | 1,99 |
+| Juin 2017 | 1,62 |
+| Septembre 2017 | 1,69 |
+| Décembre 2017 | 1,78 |
+| Mars 2018 | 1,90 |
+| Juin 2018 | 2,20 |
+| Septembre 2018 | 2,29 |
+| Décembre 2018 | 1,96 |
+| Mars 2019 | 1,42 |
+| Juin 2019 | 1,61 |
+| Septembre 2019 | 1,46 |
+| Décembre 2019 | 1,60 |
+| Mars 2020 | 1,71 |
+| Juin 2020 | 0,36 |
+| Septembre 2020 | 0,76 |
+| Décembre 2020 | 0,67 |
+| Mars 2021 | 1,37 |
+| Juin 2021 | 3,36 |
+| Septembre 2021 | 4,00 |
+| Décembre 2021 | 5,25 |
+| Mars 2022 | 6,38 |
+| Juin 2022 | 7,50 |
+| Septembre 2022 | 7,60 |
+
+Ratio dette non financière mondiale/PBI
+
+| Date | Non financière mondiale/PBI |
+| --- | --- |
+| Mars 2006 | 202 % |
+| Juin 2006 | 206 % |
+| Septembre 2006 | 205 % |
+| Décembre 2006 | 206 % |
+| Mars 2007 | 206 % |
+| Juin 2007 | 205 % |
+| Septembre 2007 | 210 % |
+| Décembre 2007 | 211 % |
+| Mars 2008 | 216 % |
+| Juin 2008 | 209 % |
+| Septembre 2008 | 198 % |
+| Décembre 2008 | 202 % |
+| Mars 2009 | 205 % |
+| Juin 2009 | 223 % |
+| Septembre 2009 | 236 % |
+| Décembre 2009 | 232 % |
+| Mars 2010 | 224 % |
+| Juin 2010 | 218 % |
+| Septembre 2010 | 229 % |
+| Décembre 2010 | 228 % |
+| Mars 2011 | 229 % |
+| Juin 2011 | 228 % |
+| Septembre 2011 | 219 % |
+| Décembre 2011 | 217 % |
+| Mars 2012 | 220 % |
+| Juin 2012 | 220 % |
+| Septembre 2012 | 228 % |
+| Décembre 2012 | 227 % |
+| Mars 2013 | 224 % |
+| Juin 2013 | 222 % |
+| Septembre 2013 | 226 % |
+| Décembre 2013 | 226 % |
+| Mars 2014 | 229 % |
+| Juin 2014 | 231 % |
+| Septembre 2014 | 222 % |
+| Décembre 2014 | 220 % |
+| Mars 2015 | 219 % |
+| Juin 2015 | 226 % |
+| Septembre 2015 | 229 % |
+| Décembre 2015 | 232 % |
+| Mars 2016 | 243 % |
+| Juin 2016 | 246 % |
+| Septembre 2016 | 247 % |
+| Décembre 2016 | 236 % |
+| Mars 2017 | 240 % |
+| Juin 2017 | 245 % |
+| Septembre 2017 | 247 % |
+| Décembre 2017 | 247 % |
+| Mars 2018 | 247 % |
+| Juin 2018 | 236 % |
+| Septembre 2018 | 233 % |
+| Décembre 2018 | 235 % |
+| Mars 2019 | 240 % |
+| Juin 2019 | 243 % |
+| Septembre 2019 | 241 % |
+| Décembre 2019 | 245 % |
+| Mars 2020 | 246 % |
+| Juin 2020 | 267 % |
+| Septembre 2020 | 278 % |
+| Décembre 2020 | 291 % |
+| Mars 2021 | 281 % |
+| Juin 2021 | 275 % |
+| Septembre 2021 | 267 % |
+| Décembre 2021 | 264 % |
+| Mars 2022 | 261 % |
+
+Tableau 1 : Catégories de vulnérabilités couvertes par la RSI
+
+| Principales vulnérabilités | Description/ Rationale |
+| --- | --- |
+| Endettement des ménages canadiens | Des taux d’endettement élevés des consommateurs réduisent la capacité des ménages à composer avec les crises et pourraient donc exacerber un ralentissement de l’économie en freinant les dépenses. Ils pourraient également exposer davantage les banques aux défauts de paiements et aux pertes en cas de ralentissement de l’économie. |
+| Déséquilibre des actifs au Canada | De fortes hausses des prix des actifs ou des valeurs immobilières élevées rendent l’économie vulnérable à une chute rapide des prix, ce qui peut freiner les dépenses et les investissements en plus de plomber la valeur des sûretés détenues par les banques. |
+| Endettement des entreprises canadiennes | Des taux d’endettement élevés des entreprises minent la capacité de ces dernières et des gouvernements à résister à des scénarios de crise et sont donc plus susceptibles d’amplifier la contraction en occasionnant une baisse des dépenses et des investissements. Il expose aussi davantage les banques aux défauts de paiements et aux pertes en cas de ralentissement de l’économie. |
+| Vulnérabilités systémiques externes | Changements sur la scène internationale qui rendent l’économie canadienne et les BISi plus vulnérables face à un ralentissement de l’économie. Ils englobent les vulnérabilités potentielles qui sont quantifiables et celles difficiles à mesurer, mais qui, si elles se concrétisaient, pourraient contribuer au risque macroéconomique. |
+
+Tableau 2 : Sommaire du cadre régissant le concept et l’ajustement de la RSI
+
+| vide | Caractéristiques liées au concept et à l’ajustement de la RSI à ce jour | Caractéristiques liées au concept et à l’ajustement de la RSI à l’avenir |
+| --- | --- | --- |
+| Portée et principales vulnérabilités | * Endettement des ménages canadiens * Déséquilibre des actifs au Canada * Endettement des entreprises canadiennes * Les vulnérabilités externes sont prises en compte dans les décisions concernant la RSI. | * Endettement des ménages canadiens * Déséquilibre des actifs au Canada * Endettement des entreprises canadiennes * Vulnérabilités systémiques externes |
+| Fourchette | * De 0 % à 2,5 % du total des APR | * De 0 % à 4 % du total des APR compte tenu des vulnérabilités systémiques et en accord avec les résultats de récentes simulations de crise caractérisées par des scénarios graves, mais vraisemblables, ainsi qu’avec la croissance continue des vulnérabilités. |
+| Taux | * L’ajustement du taux de la réserve repose sur le jugement des surveillants, qui s’appuient sur des travaux d’analyse portant sur une gamme de vulnérabilités et de risques. | * L’ajustement du taux de la réserve repose sur le jugement des surveillants, qui s’appuient sur des travaux d’analyse plus poussés portant sur une gamme de vulnérabilités et de risques (tendances émergentes, simulations de crise, etc.). |
+| Mécanisme d’augmentation et de réduction | * Le BSIF réduit le taux de la réserve s’il constate que l’exposition des BISi aux vulnérabilités a diminué. * Inversement, il en augmente le taux s’il est d’avis qu’il serait prudent de la part des BISi de détenir plus de fonds propres pour les protéger contre ces vulnérabilités. * Les augmentations sont sujettes à période de transition, tandis que les réductions sont mises en application sans délai. | * Les ajustements du taux reposeraient sur l’évaluation, par le BSIF, de l’équilibre entre les vulnérabilités et les risques à court terme pesant sur les BISi. * Le taux de la réserve sera réduit en cas de crise ou de conditions graves. * Inversement, le BSIF en augmentera le taux s’il est d’avis qu’il serait prudent de la part des BISi de détenir plus de fonds propres pour les protéger contre ces vulnérabilités. * Les augmentations seront sujettes à une période de transition, tandis que les réductions seront mises en application sans délai. |
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   Voir par exemple [Comment les grandes banques au Canada résisteraient-elles à une récession importante?](https://www.banqueducanada.ca/2022/05/note-analytique-personnel-2022-6/).
+
+    [Retour à la référence de la note de bas de page 1](#fnb1-ref)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-12-08

@@ -1,0 +1,108 @@
+# Premium Finance Cash Refunds and Beneficial Ownership Requirements for Legal Entity Customers
+
+[FIN-2018-R001.pdf](/system/files/administrative_ruling/2018-05-11/FIN-2018-R001.pdf "FIN-2018-R001.pdf")
+(207.87 KB)
+
+FIN-2018-R001
+
+Premium Finance Cash Refunds and Beneficial Ownership Requirements for Legal Entity Customers
+
+Issued Date
+
+May 11, 2018
+
+The Financial Crimes Enforcement Network (FinCEN) is issuing this ruling to provide exceptive relief to covered financial institutions with respect to the application of the Beneficial Ownership Requirements for Legal Entity Customers (31 CFR § 1010.230) (Beneficial Ownership Rule) to premium finance lending products that allow for cash refunds. Premium finance lenders provide loans to businesses to cover insurance premiums. In the normal course of business, premium finance lenders process a significant number of cash refunds each year. The Beneficial Ownership Rule currently exempts covered financial institutions from the requirements to identify and verify the identity of the beneficial owner of legal entity customers at account opening to the extent that the legal entity customer opens the account for the purpose of financing insurance premiums and for which payments are remitted directly by the financial institution to the insurance provider or broker unless there is a possibility of cash refunds. This ruling provides exceptive relief to covered financial institutions from the requirements to collect and verify the beneficial owner of a legal entity customer opening such premium financing account when there is a possibility of a cash refund. This ruling also reminds covered financial institutions of their obligation to comply with all other applicable BSA requirements, including the filing of suspicious activity reports
+
+Background
+
+Businesses of all sizes typically obtain commercial, property, casualty, and liability insurance policies to mitigate operational risks. While some businesses are able to purchase these policies outright, others either do not have sufficient funds to cover the premiums or prefer to finance the purchase of such policies for other reasons, such as to manage their cash flow. In these circumstances, many businesses engage the services of premium finance lenders falling within the scope of FinCEN’s regulations.
+
+Premium finance lenders provide short-term loans to help businesses cover their annual insurance premiums by making an advance payment, in full, directly to the insurance carrier. Premium finance lenders typically do not interact directly with the borrower; rather, they interact directly with insurance agents or brokers, who bring financing opportunities to the borrowers, and with whom they have direct contact.
+
+Premium finance lenders pay the loan proceeds (i.e., the insurance premium) directly to the insurance agent or broker arranging the loan transaction or to the insurance company issuing the policy.
+
+FinCEN exempted, subject to certain limitations, accounts established to finance insurance premiums from the Beneficial Ownership Rule, because of the low risk
+
+of money laundering presented by these loans.2 The structural characteristics of
+
+premium finance lending and the purpose for which premium finance accounts are established limit a legal entity customer’s ability to use the accounts for any other
+
+purpose. 3 The exemption as drafted in the rule, however, does not apply if there is a
+
+possibility of a cash refund on the account activity, in which case the beneficial owner of the legal entity customer must be identified and verified for such accounts.4
+
+Analysis
+
+Premium finance lending is an automated high-volume industry, with companies routinely processing a significant number of cash refunds each year in the normal
+
+course of business.5 Premium finance lenders process refunds on a significant number
+
+of their loans, which could limit the applicability of the regulatory exemption.6
+
+2. 31 CFR 1010.230(h)(1)(iii). See Customer Due Diligence Requirements for Financial Institutions (CDD Rule), 81 FR 29398, 29418 (May 11, 2016).
+3. Id.
+4. 31 CFR 1010.230(h) (2) (ii).
+
+5. Letter to Director Jennifer Shasky Calvery, “Request for an Advisory Opinion regarding the applicability of customer identification program and customer due diligence requirements to insurance premium finance loans,” American Bankers Association (March 3, 2016).
+6. Presentation to the Financial Crimes Enforcement Network and the Federal Banking Agencies, “Customer Identification and Due Diligence for Bank-Affiliated Premium Finance Companies” (December 11, 2017).
+
+Moreover, state laws may require premium finance companies to refund promptly, to either a customer, or a customer’s insurance broker or agent, any excess funds that the company has not earned.
+
+In the normal course of business, a premium finance company may be required to
+
+refund funds when:
+
+1. 1. unearned interest has accrued, such as when a borrower repays the loan prior to the loan’s maturity date;
+   2. a borrower has made inadvertent overpayments, such as when the borrower forgets to terminate prescheduled automated payments and accidentally makes an extra payment after the loan has been repaid; or
+   3. policies are cancelled, at which point any unearned premiums exceeding the loan amount, earned interest, or fees must be forwarded to the borrower and/or the borrower’s agent or broker.
+
+These types of cash refunds do not pose significant money laundering and terrorist financing risks. The processes for premium finance lending appear to be highly automated, and cash loan refunds are typically generated from an accounting transaction to correct an inadvertent error(s). Moreover, in many cases, state law requires that the refund be returned directly to the customer or their broker or agent. These structural characteristics of premium finance refunds further make them low risk for money laundering and terrorist financing activity. FinCEN has confirmed the low money laundering risk nature of these transactions, notwithstanding the potential for these types of cash refunds, through discussions with law enforcement.
+
+To the extent premium financing involving cash refunds carries a minimal risk of money laundering and terrorist financing, that risk will be mitigated by the requirement that covered financial institutions are required to comply with other
+
+BSA/AML reporting requirements. For example, covered premium finance lenders have a responsibility to report suspicious activity when a refund may not have an economic purpose or has other indicators of suspicious activity.
+
+Therefore, because of the low risk of significant money laundering and terrorist financing posed by premium finance lending potentially involving the above referenced types of cash refunds, and the fact that FinCEN and law enforcement can still be alerted to potentially more problematic transactions through other reporting requirements, exceptive relief from the beneficial ownership requirements
+
+is appropriate in the context of premium finance arrangements, notwithstanding the potential for cash refunds as part of the arrangement, provided that such refunds are only remitted directly to the borrower or the borrower’s agent or broker.
+
+FinCEN had placed limits on the exemption in its rule based on concerns that products involving cash refunds could be subject to misuse and might be used as instruments for money laundering. Based on its current understanding from industry and law enforcement that the business practices surrounding such cash refunds
+
+limit such risks, FinCEN is issuing this exceptive relief. However, as with any other exceptive relief, FinCEN may withdraw or modify this exceptive relief under any circumstances, particularly if FinCEN receives new or different information
+
+involving (1) the manner in which premium financing operates; (2) the risks of money laundering and terrorist financing associated with premium finance lending that incorporates the potential for cash refunds; and, (3) the value of information that would otherwise be collected but for the existence of this exception.
+
+Exceptive Relief
+
+Under 31 U.S.C. § 5318(a)(5) and 31 CFR § 1010.970, FinCEN has the authority tomake exceptions to the requirements of 31 CFR Chapter X. Such exceptions may be either conditional or unconditional and may apply to particular persons or classes of persons, but only to the extent that such limits are expressly stated in the order of authorization. Exceptions may be revoked at FinCEN’s discretion.
+
+Accordingly, for the reasons discussed above, FinCEN is granting exceptive relief to premium finance lenders whose payments are remitted directly to the insurance provider or broker from the requirements of the Beneficial Ownership Rule to identify and verify beneficial ownership information even in situations where such lending involves the potential for cash refunds. FinCEN also reminds covered
+
+financial institutions of their obligation to comply with all other applicable BSA/AML requirements, including the filing of suspicious activity reports.
+
+For questions concerning this ruling, please contact FinCEN’s Regulatory Helpline at (800) 949-2732.
+
+---
+
+The Beneficial Ownership Rule was issued as a part of the Customer Due Diligence Requirements for Financial Institutions (CDD Rule), 81 FR 29398 (May 11, 2016). The CDD Rule, including the beneficial ownership requirements, must be implemented by financial institutions beginning May 11, 2018. FinCEN is revisiting the requirement for premium finance lenders to collect beneficial ownership information in connection with loan accounts notwithstanding the potential for cash refunds based on new information received from industry after the CDD Rule was issued. As described in this ruling, the low risk of money laundering and terrorist financing posed by premium finance lending that may involve cash refunds does not warrant imposing the information collection requirement. Premium finance lenders, however, are still required to report any suspicious activity associated with premium financing, including lending involving cash refunds.
+
+Financial Institution
+
+Depository Institutions
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

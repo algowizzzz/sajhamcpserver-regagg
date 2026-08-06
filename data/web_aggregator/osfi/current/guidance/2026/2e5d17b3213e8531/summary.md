@@ -1,0 +1,1 @@
+Summary: # Regulatory notice on using natural catastrophe bonds in the Minimum Capital Test guideline

@@ -1,0 +1,22 @@
+# Priorité 3 : Culture
+
+## Résultat attendu
+
+Les membres du personnel brillent malgré un contexte incertain et en constante évolution, et ils adhèrent à nos facteurs de réussite essentiels que sont le cran, l’intégrité et le sentiment d’urgence dans tous les aspects de leur travail quotidien.
+
+![](/sites/default/files/images/pr5-on.png)
+
+## Pourquoi est-ce une priorité
+
+Une culture saine et florissante est essentielle à la réussite de notre organisme. Elle favorise le bien-être des membres du personnel ainsi que leur productivité et leur efficacité. Cette culture doit comporter de multiples facettes, être dynamique et bien comprise de tous les membres du personnel, et susciter un engagement indéfectible de leur part. Nous voulons instaurer une culture organisationnelle inclusive, qui crée un sentiment d’appartenance et fixe un objectif commun, et qui respecte notre propension à prendre des risques. La mise en place de cette culture passe par l’établissement de valeurs communes et la définition des comportements que nous devons adopter au quotidien.
+
+## Objectifs liés à cette priorité
+
+* Nous montrons que nous avons du cran en ayant le courage de persévérer, la détermination de continuer quand continuer devient difficile, et une attitude positive quoi qu’il arrive. Nous savons nous adapter lorsque les choses ne se passent pas comme prévu, nous utilisons les revers comme des tremplins pour réussir, et nous considérons l’échec comme une occasion d’apprendre et de progresser tout en reconnaissant et en célébrant les petites victoires en cours de route.
+* Nous faisons preuve d’intégrité en respectant nos valeurs communes et notre éthique dans nos actions et nos décisions. Nous respectons l’esprit et la lettre de notre Politique sur les conflits d’intérêts. Nous tenons les promesses et engagements que nous prenons les uns envers les autres, même quand cela s’avère difficile. Nos communications sont franches et claires, et nous communiquons rapidement les informations pertinentes et les précisions importantes, même si celles-ci ne sont pas favorables.
+* Nous agissons avec un sentiment d’urgence en étant attentifs au contexte et en étant proactifs pour déceler les situations qui risquent de devenir problématiques. Nous intervenons avec détermination, guidés par une vision claire, nous éliminons sans relâche les éléments peu prioritaires ou les distractions, et nous repérons et supprimons rapidement les obstacles. En cas de baisse de vigilance, nous en cernons les causes et avons la volonté de prendre toutes les mesures raisonnables nécessaires pour instiller un sentiment d’urgence.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-04-09

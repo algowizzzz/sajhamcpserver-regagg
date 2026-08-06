@@ -1,0 +1,24 @@
+{
+  "doc_id": "a09d983321e2ae7d",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FinCEN Advisory FIN-2019-A003 | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2019-a003",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c039c3d985cc66cf8c44174a825af44d9ca3ab8bf2f0fd46c5c4691e39c7e3dd",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/a09d983321e2ae7d",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

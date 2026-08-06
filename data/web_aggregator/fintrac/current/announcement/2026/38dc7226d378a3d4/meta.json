@@ -1,0 +1,24 @@
+{
+  "doc_id": "38dc7226d378a3d4",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Departments and agents or mandataries of His Majesty in right of Canada or of a province (Agents of the Crown)",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/re-ed/agents-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e5a585108f7be61a7dc50552e48bf4e896f1f80c21cb08e75f44b150b35f90b9",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/38dc7226d378a3d4",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

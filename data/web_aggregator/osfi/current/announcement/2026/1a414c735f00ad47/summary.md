@@ -1,0 +1,1 @@
+Summary: # Cessation des activités au Canada d’une banque étrangère autorisée

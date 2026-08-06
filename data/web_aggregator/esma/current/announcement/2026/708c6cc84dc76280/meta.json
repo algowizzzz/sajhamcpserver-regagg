@@ -1,0 +1,25 @@
+{
+  "doc_id": "708c6cc84dc76280",
+  "regulator_id": "esma",
+  "doc_type": "announcement",
+  "title": "ESMA authorises EuroCTP as the Consolidated Tape Provider for shares and exchange-traded funds",
+  "language": "en",
+  "source_url": "https://www.esma.europa.eu/press-news/esma-news/esma-authorises-euroctp-consolidated-tape-provider-shares-and-exchange-traded",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fe25f166078cedc0748f1967023c7c84a910d06ae7d1c6e7d904ac4f575b11a2",
+  "version_ts": "2026-08-03T02-32-41Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:32:41.141268+00:00",
+  "run_id": "2026-08-02_esma_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/esma/current/announcement/2026/708c6cc84dc76280",
+  "tags": [
+    "eu",
+    "securities",
+    "derivatives"
+  ]
+}

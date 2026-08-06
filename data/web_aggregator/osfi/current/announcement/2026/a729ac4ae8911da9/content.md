@@ -1,0 +1,41 @@
+# Guideline B-20 explained
+
+Sound mortgage underwriting practices reduce risks to the financial system.
+
+**Video duration:** 00:00:54  
+**Date:** December 22, 2022
+
+## Video
+
+[
+
+](https://www.youtube.com/watch?v=0qzDOjh8vzQ)
+
+OSFI's Guideline B-20 explained
+
+Transcript
+
+[Visual: OSFI logo]
+
+**Narrator:** Our expectations for residential mortgage underwriting standards are set out in Guideline B-20.
+
+Essentially this is the guideline that informs lenders about the standards that should apply when approving mortgages.
+
+Guideline B-20 allows financial institutions the flexibility to apply OSFI’s principles based on their size, complexity and the nature of their business.
+
+Ultimately, the terms of any mortgage contract will be a decision that is made between the lender and the borrower.
+
+One of the better known elements of B-20 is the Minimum Qualifying Rate, or MQR. This is sometimes referred to as the “stress test”.
+
+To know whether a borrower could handle a higher payment in the future - in case of rising interest rates or changes in income - OSFI expects lenders to use a higher interest rate to assess a borrower’s ability to repay a mortgage than the rate the borrower will actually pay.
+
+## Related links
+
+* [Guideline B-20 - Residential mortgage underwriting practices and procedures](/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017 "Residential mortgage underwriting practices and procedures – Guideline (2017)")
+* [Minimum qualifying rate for uninsured mortgages](/en/supervision/financial-institutions/banks/minimum-qualifying-rate-uninsured-mortgages "Minimum qualifying rate for uninsured mortgages")
+* [OSFI's role in housing finance (video)](/en/about-osfi/multimedia-library/osfis-role-housing-finance "OSFI's role in housing finance")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-05-03

@@ -1,0 +1,26 @@
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its 2017
+
+[oversight activities report](/document/download/a03e53e1-5a67-4646-a992-a0303557c4f0_en?filename=eiopa_oversight_activities_2017.pdf) addressed to the European Parliament.
+
+During last year, EIOPA conducted a number of activities that contributed to high-quality effective supervision, as well as overseeing the level playing field and appropriate application of supervisory measures within the European Union.
+
+EIOPA detected a growing number of issues related to cross-border business activities provided through ‘freedom to provide services’. To enhance cooperation and communication between supervisory authorities in such situations, EIOPA rolled out cooperation platforms, a new and important tool that facilitates stronger and timely cooperation between national supervisors in the assessment of the impact of cross-border activities and identification of preventive measures. Benefits of cooperation platforms have been identified for both home and host supervisors. By the close of 2017, nine cooperation platforms were operational.
+
+Furthermore, a wide range of tools such as balance sheet reviews, peer reviews, consistency projects on internal models, participation in meetings of colleges and bilateral engagements with national supervisory authorities continued to be used to enhance the supervisory capacity of national supervisors. For example, EIOPA oversaw a balance sheet review of the Bulgarian insurance sector and assets of its pension funds, issued three supervisory opinions, conducted two consistency projects and participated in 49 cross-border colleges and 14 colleges on internal models.
+
+This year, in the field of oversight, EIOPA will pay specific attention to further implementation of prudential regulation, Solvency II, and conduct of business supervision. In particular, EIOPA will continue to focus on the close interaction with national supervisory authorities, improvements in supervisory practices in the authorisation process and supporting reviews of business models to detect those models posing material prudential or conduct risk.
+
+**Background**
+
+**A cooperation platform** is set up when EIOPA and relevant national supervisory authorities see the merit in strengthening cooperation in case of material cross-border business in order to enable a sound internal market in the European Union. The platforms allow home supervisors to make use of expertise and knowledge about local market specificities from host supervisors.
+
+**Freedom of establishment and freedom to provide services**: Under the Solvency II Directive, once authorised by the home national supervisory authority, insurance and reinsurance undertakings have the right to establish a branch within the territory of another Member State (known as freedom of establishment) or may pursue their business in another Member State (known as the freedom to provide services) without any further authorisation.
+
+To find out more about oversight, see the short EIOPA Insight film [here](https://youtu.be/afwZ4IVXS6o).
+
+Publication date
+:   18 April 2018
+
+## Related links
+
+[Oversight activities in 2017 - Report](/document/download/80ff0200-c8eb-4238-9e99-8cc8d8d9e7d9_en?filename=Oversight%20activities%20in%202017%20-%20Report.pdf)

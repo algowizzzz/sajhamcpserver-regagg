@@ -1,0 +1,1 @@
+Summary: # Philippine Bond Slump to Extend on Inflation Worry, Analysts Say

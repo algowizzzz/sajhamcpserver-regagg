@@ -1,0 +1,154 @@
+# Assessment Tool - Operational Risk Capital Data
+
+Information
+
+Publication type
+
+Assessment tool
+
+Category
+
+Capital Adequacy Requirements
+
+Date
+
+February 21, 2022
+
+Sector
+
+Banks,
+
+Trust and Loan Companies
+
+[Generate PDF](/en/print/pdf/node/634)
+
+Table of contents
+
+Accompanying documents
+
+* [Operational Risk Capital Data Management Expectations](/en/guidance/guidance-library/operational-risk-capital-data-management-expectations)
+* [Data Maintenance Expectations for Institutions Using the Standardized Approach for Operational Risk Capital Data](/en/guidance/guidance-library/data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data)
+
+## Introduction
+
+The Assessment Tool for Operational Risk Capital Data ("AT") sets out OSFI's detailed expectations based on Chapter 3 of the Capital Adequacy Requirements Guideline, OSFI's Data Maintenance Expectations for Institutions using the Basel III Standardized Approach for Operational Risk Capital Data, and the Basel Committee on Banking Supervision's Principles for Effective Risk Data Aggregation and Risk Reporting.
+
+Together with the Data Maintenance Expectations, the AT aims to ensure that institutions have effective management of current and historical operational risk capital data, which includes both internal operational loss data and the components used to calculate the Business Indicator under the Basel III Standarized Approach for Operational Risk.
+
+## Rating Scale
+
+All three lines of defence ("LOD") are expected to rate each criterion in the AT using the following rating scale:
+
+1. **Fully Compliant:** FRFI is fully compliant with the criterion and can demonstrate adequacy of design and effective functioning.
+2. **Substantiallly Compliant:** FRFI is largely compliant with the criterion with minor exceptions that can be readily remediated. For areas of compliance, adequacy of design and effective functioning can be demonstrated.
+3. **Partially Compliant:** FRFI is compliant with some aspects of the criterion and can demonstrate adequacy of design and effective functioning for these apsects; however, significant actions are required to fully meet the criterion.
+4. **Non-Compliant:** FRFI has not implemented the criterion.
+
+Institutions should provide rationale for the rating and supporting documents where relevant.
+
+## Additional Comments Column in the AT
+
+Institutions can include any additional comments within the 'Additional Comments' column in the AT along with any relevant supporting documents. Institutions should specify if the comment is being made by thefirst, second or third LOD.
+
+### Reference Documents
+
+1. OSFI revised [Chapter 3 – Operational Risk - Capital Adequacy Requirements](/en/guidance/guidance-library/capital-adequacy-requirements-car-2023-chapter-3-operational-risk "Capital Adequacy Requirements (CAR) (2023) Chapter 3 – Operational Risk") ("CAR").
+2. OSFI's [Data Maintenance Expectations for Institutions Using the Basel III Standardized Approach for Operational Risk Capital Data](/en/guidance/guidance-library/data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data "Data Maintenance Expectations for Institutions Using the Standardized Approach for Operational Risk Capital Data") ("DME").
+3. Basel Committee on Banking Supervision's  [Principles for Effective Risk Data Aggregation and Risk Reporting](https://www.bis.org/publ/bcbs239.pdf) ("RDARR").
+
+### Assessment Tool - Operational Risk Capital Data
+
+|  | Criteria | Reference | Rating by 1st LOD (include rationale and supporting documents) | Target Compliance Date | Rating by 2nd LOD (include rationale and supporting documents) | Rating by 3rd LOD (include rationale and supporting documents) | Additional Comments (Including Supporting Documents) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. General Criteria on Loss Data Identification, Collection, and Treatment | | | | | | | |
+| 1.01 | The institution is using 10 years of high quality historical internal loss data for regulatory capital purposes. | CAR Ch. 3 (27) (a) |  |  |  |  |  |
+| 1.02 | The institution has demonstrated that robust, documented procedures and processes for the identification, collection, and treatment of internal loss data are in place. | CAR Ch. 3 (27) (b) |  |  |  |  |  |
+| 1.03 | The institution has documented its criteria and demonstrated that processes are in place for mapping historical internal loss data enterprise-wide to Basel Level 1 supervisory categories as defined in Annex 3-2 of OSFI's Capital Adequacy Requirements ("CAR") Guideline. | CAR Ch. 3 (27) (c) and Annex 3-2. |  |  |  |  |  |
+| 1.04 | The internal loss data are comprehensive and capture all material activities and exposures from all appropriate sub-systems and geographic locations. The institution has demonstrated the ability to identify and track any part of the institution where loss data have not, or are not being, collected and included in the dataset. | CAR Ch. 3 (27) (d) |  |  |  |  |  |
+| 1.05 | All operational losses related to the definition of operational risk as defined in section 3.1 of CAR Chapter 3 are included in the loss data collection. | CAR Ch. 3 (2) |  |  |  |  |  |
+| 1.06 | For capital purposes, the institution has set a minimum threshold of $30,000 CAD (net losses after recovery) per loss event for internal loss data collection and for the calculation of average annual losses, and has demonstrated that processes are in place to identify and measure when this threshold has been reached. | CAR Ch. 3 (27) (e) |  |  |  |  |  |
+| 1.07 | The institution has demonstrated that documented processes are in place to (i) calculate the percentage of total loss data that is estimated, and (ii) identify when it is approaching, or has surpassed, the materiality threshold for loss data comprehensiveness, detailed in Chapter 3 of OSFI's CAR Guideline. | CAR Ch. 3 (27)(d) |  |  |  |  |  |
+| 1.08 | The institution has demonstrated that effective documented processes are in place for the collection of information on the reference dates of operational risk events. The reference dates should include: date of occurrence, data of discovery, and date of accounting. | CAR Ch. 3 (27) (f) |  |  |  |  |  |
+| 1.09 | The institution has demonstrated that it has in place effective documented processes for the collection of information on recoveries of gross loss amounts as well as descriptive information on the drivers or causes of the loss event. The level of detail should be commensurate with the size of the gross loss amount. | CAR Ch.3 (27) (f) |  |  |  |  |  |
+| 1.10 | The institution has demonstrated that processes are in place for the inclusion or exclusion of certain operational loss events (i.e. those related to credit and market risk) in accordance with Section 3.4.3 of CAR Chapter 3. | CAR Ch.3 (27) (g) and (h) |  |  |  |  |  |
+| 1.11 | The institution has demonstrated that effective processes are in place to independently review the comprehensiveness and accuracy of loss data. The institution has also demonstrated that effective processes are in place to independently review the processes for the identification, collections and treatment of internal loss data. At a minimum, this would include regular, effective and independent challenge by the institution's second line of defense, and periodic independent review by the third line of defense. | CAR Ch. 3 (27) (i) |  |  |  |  |  |
+| 2. Specific Criteria on Loss Data Identification, Collection, and Treatment | | | | | | | |
+| 2.01 | The institution has documented policies and has demonstrated that procedures are in place for applying the gross loss definition, reference date, grouped losses, recovery, and net loss in the internal operational loss data sets and definitions align with those outlined in the CAR Chapter 3 Guideline. | CAR Ch. 3 (28) and (29) |  |  |  |  |  |
+| 2.02 | The institution has demonstrated that documented and effective processes are in place for identifying and capturing the gross loss amounts, non-insurance recoveries, and insurance recoveries for all operational loss events. | CAR Ch.3 (30) |  |  |  |  |  |
+| 2.03 | Recoveries are used to reduce losses in the calculation of capital requirements only after the institution receives payment (e.g. receivables do not count as recoveries). | CAR Ch. 3 (30) |  |  |  |  |  |
+| 2.04 | The institution has demonstrated that it has documented and effective processes in place to ensure that the gross loss computation in the calculation of capital requirements **includes** the following items (as defined in the CAR):  1. direct charges to the institution's P&L accounts and write-downs due to the operational risk event; 2. costs incurred as a consequence of the event including external expenses with a direct link to the operational risk event and costs of repair or replacement incurred to restore the position that was prevailing before the operational risk event and uncollected revenue due to an operational risk event that can be quantified based on the contractual obligations of the institution's client or customer; 3. provisions or reserves accounted for in the P&L against the potential operational loss impact; 4. pending losses; and 5. timing losses. | CAR Ch. 3 (31) |  |  |  |  |  |
+| 2.05 | The institution has demonstrated that it has documented and effective processes in place to ensure that the gross loss computation in the calculation of capital requirements **excludes** the following items:  1. costs of general maintenance contracts on property, plant or equipment; 2. internal or external expenditures to enhance the business after the operational risk losses: upgrades, improvements, risk assessment initiatives and enhancements; and 3. insurance premiums. | CAR Ch. 3 (32) |  |  |  |  |  |
+| 2.06 | The institution has demonstrated that the institution's loss dataset **includes** the date of accounting. The institution **uses** a date no later than the date of accounting for including losses related to legal events in the loss data set. For legal loss events, the date of accounting is the date when a legal reserve is established for the probable estimated loss in the P&L. For losses from uncollected revenue, the institution may use either the date the revenue should have been collected or the date the decision was made not to collect the revenue. | CAR Ch. 3 (33) |  |  |  |  |  |
+| 2.07 | The institution has demonstrated that documented and effective processes are in place so that losses caused by a common operational risk event or by related operational risk events over time, but posted to the accounts over several years, are allocated to the corresponding years of the loss database, in line with their accounting treatment. | CAR Ch.3 (34) |  |  |  |  |  |
+| 3. Exclusion of Losses from the Loss Component | | | | | | | |
+| 3.01 | The institution has demonstrated that documented and effective controls and governance are in place to (i) identify the exclusion of certain operational loss events from the calculation of the Loss Component that meet the criteria in section 3.4.5 of CAR Chapter 3; and (ii) ensure appropriate approvals occur, including approval from OSFI. | CAR Ch. 3 (35) and (37) |  |  |  |  |  |
+| 3.02 | The institution has demonstrated that documented and effective processes are in place for disclosing the total loss amount and number of exclusions in accordance with OSFI's Pillar 3 requirements. | CAR Ch. 3 (36) |  |  |  |  |  |
+| 4. Inclusion of operational loss events related to mergers and acquisitions | | | | | | | |
+| 4.01 | The institution has demonstrated that documented and effectively implemented policies and processes are in place for the inclusion of historical loss events from any merged or acquired businesses over the previous ten years. Loss data included from any mergers or acquired businesses meets OSFI's expectations, including those in the CAR Guideline. | CAR Ch. 3 (40) |  |  |  |  |  |
+| 4.02 | The institution has demonstrated that documented and effective processes are in place for the estimation of historical loss data for each of the years (within the last ten years) where high-quality internal loss data are missing, in accordance with the methodology detailed in CAR Chapter 3 section 3.4.7. | CAR Ch. 3 (40) (a) |  |  |  |  |  |
+| 4.03 | The institution has demonstrated that documented and effective processes are in placefor the estimation of operational risk loss amounts for merged entities or acquired businesses where the collection of actual loss data is not feasible immediately, in accordance with the methodology detailed in CAR Chapter 3 section 3.4.7. | CAR Ch. 3 (40) (b) |  |  |  |  |  |
+| 5. Quality of Operational Risk Capital Data (i.e., internal loss data and business indicator data) | | | | | | | |
+| 5.1 Governance | | | | | | | |
+| 5.1.01 | The institution has documented agreed service level standards (agreements, schedules, etc.) that cover explicitly or implicitly (where internal loss data is a subset of a number of processes covered by the standard) both outsourced and in-house operational risk capital data-related processes, as well as policies covering, data confidentiality, integrity and availability | RDARR Principle 1 |  |  |  |  |  |
+| 5.1.02 | The institution's data procedures and reporting practices are fully documented and subject to high standards of validation that are aligned and integrated with the other independent review activities within the institution's control frameworks. | RDARR Principle 1 |  |  |  |  |  |
+| 5.1.03 | Senior management have reviewed and approved , at least annually, the institution's operational risk capital data collection and reporting procedures for both current and historic data. | RDARR Principle 1 |  |  |  |  |  |
+| 5.1.03.1 | Senior management are aware of and understand any limitations associated with the quality of the operational risk capital data used to support the calculation of operational risk capital using the Standardized Approach. |  |  |  |  |  |  |
+| 5.1.04 | The institution's due diligence process for mergers and acquisitions includes an assessment of the operational risk capital data collection capabilities and reporting practices of the acquired entity. This includes development of a plan to integrate and align the acquired operational risk capital data collection capabilities and reporting practices within its own framework, and a process to report as a single entity in a consistent manner. | RDARR Principle 1 |  |  |  |  |  |
+| 5.2 Data architecture and IT infrastructure | | | | | | | |
+| 5.2.01 | The institution has established roles and responsibilities in relation to the ownership and quality of operational risk capital data and information for both the business and IT functions. | RDARR Principle 2 |  |  |  |  |  |
+| 5.2.02 | The operational risk capital data owners (business and IT functions as appropriate), in partnership with risk managers and/or other relevant second line functions, have established a process to ensure there are adequate controls throughout the lifecycle of operational risk capital data, including for all aspects of the technology infrastructure, as appropriate. | RDARR Principle 2 |  |  |  |  |  |
+| 5.2.03 | The institution has established integrated loss data taxonomies and architecture aligned with Annex 3-1 (Business Indicator) and Annex 3-2 (Level 1) (loss data) of the CAR Guideline. Operational risk capital data architecture includes but is not limited to:  1. Identification of all mapping rules and filter criteria; 2. Consistent naming conventions for loss data; 3. Usage of single identifiers and/or unified naming conventions for data; and 4. Established metadata (i.e. types of data to be stored, data types, valid range of data values, etc.). | RDARR Principle 2 |  |  |  |  |  |
+| 5.2.03.1 | The institution has fully documented and demonstrated the effectiveness of the end-to-end data flows, including key controls for critical failure points, to support data management processes and oversight of the data required to support the calculation of operational risk capital using the Standardized Approach (SA). At a minimum this would include:  1. identification of all systems, data flows, control points, processes and reports; 2. identification of all manual processes; and 3. identification of all data to be collected and managed to calculate the Internal Loss Multiplier and Business Indicator. |  |  |  |  |  |  |
+| 5.2.03.2 | If an institution has multiple systems involved in the end-to-end flow, the institution have the ability to demonstrate the linkages and approaches used to complete and aggregate the operational risk capital data. |  |  |  |  |  |  |
+| 5.3 Accuracy and Integrity | | | | | | | |
+| 5.3.01 | The institution has established documented processes for collecting operational risk capital data. Where the institution relies on manual processes and/or desktop applications (e.g. spreadsheets, end-user databases) for collecting internal loss data, it has effective mitigants in place (e.g. end-user computing policies and procedures) and other effective controls that are consistently applied for maintaining such data. | RDARR Principle 3 |  |  |  |  |  |
+| 5.3.01.1 | There are adequate documented controls throughout the lifecycle of the data. Operational risk capital data are correctly entered, kept current and aligned with the data definitions. |  |  |  |  |  |  |
+| 5.3.02 | Operational risk capital data are reconciled with, or supported by, sources, including accounting data where appropriate and the institution is able to explain all material differences. | RDARR Principle 3 |  |  |  |  |  |
+| 5.3.03 | Relevant personnel within the institution have sufficient access to operational risk capital data to ensure they can appropriately aggregate, validate and reconcile the data to relevant reports. | RDARR Principle 3 |  |  |  |  |  |
+| 5.3.04 | Measurement and monitoring processes have been designed and implemented to ensure the accuracy and integrity of operational risk capital data. | RDARR Principle 3 |  |  |  |  |  |
+| 5.3.04.1 | The institution has established documented processes and metrics and thresholds to measure accuracy and integrity of both current and historical operational risk capital data. The institution can also demonstrate that processes are in place to identify when measures are near defined thresholds. |  |  |  |  |  |  |
+| 5.3.04.2 | The institution has demonstrated that documented processes are in place for identifying when data limitations exist in both historical and current operational risk capital data. |  |  |  |  |  |  |
+| 5.3.05 | The institution has demonstrated that it has established escalation channels and processes to develop action plans to rectify poor operational risk capital data quality. | RDARR Principle 3 |  |  |  |  |  |
+| 5.4 Completeness | | | | | | | |
+| 5.4.01 | The institution has demonstrated that documented and effective processes are in place for measurement and monitoring completeness of all current and historic operational risk capital data including measurable metrics and thresholds to measure completeness. | RDARR Principle 4 |  |  |  |  |  |
+| 5.4.01.1 | The institution has demonstrated that documented and effective escalation channels and processes are in place to develop action plans to rectify completeness issues. |  |  |  |  |  |  |
+| 5.5 Timeliness | | | | | | | |
+| 5.5.01 | The institution has demonstrated that it has identified and documented timeliness requirements for reporting operational risk capital data. For operational loss data, these requirements must reflect the nature of the loss event based on the characteristics and overall risk profile of the institution. Internal loss data are reported one quarter in arrears while Business Indicator data are reported based on the most current quarter. | RDARR Principle 5 |  |  |  |  |  |
+| 5.5.02 | The institution has demonstrated that its operational risk capital data aggregation capabilities are able to produce aggregate information on a timely basis to meet all internal loss reporting and capital reporting requirements. | RDARR Principle 5 |  |  |  |  |  |
+| 5.6 Adaptability | | | | | | | |
+| 5.6.01 | The institution has demonstrated that it has sufficient capability to customize operational risk capital data, including internal loss data, to users' needs (e.g. dashboards, key takeaways, anomalies), to drill down as needed, and to produce quick summary reports. | RDARR Principle 6 |  |  |  |  |  |
+| 5.6.02 | The institution has demonstrated that its operational risk capital data aggregation processes allow for the incorporation of new developments in the organization of the business and/or external factors that influence the institution's information requirements. | RDARR Principle 6 |  |  |  |  |  |
+| 5.7 Accuracy | | | | | | | |
+| 5.7.01 | Requirements and processes to reconcile reports to internal loss data and other authoritative sources are defined and can be demonstrated. | RDARR Principle 7 |  |  |  |  |  |
+| 5.7.01.1 | Reconciliation processes include explanations, reporting and action plans to deal with data errors or weaknesses in data integrity. |  |  |  |  |  |  |
+| 5.7.02 | The institution has demonstrated that it has integrated procedures for identifying, reporting and explaining operational risk capital data errors or weaknesses in data integrity via exception reports and/or quality assurance , and for measuring and reporting data accuracy and integrity. | RDARR Principle 7 |  |  |  |  |  |
+| 5.7.02.1 | The institution has demonstrated that it has established materiality thresholds for accuracy, including thresholds for escalation. Where applicable, action plans have been established to rectify breaches. |  |  |  |  |  |  |
+| 5.7.03 | The institution has demonstrated that measurable accuracy requirements for operational risk capital data have been established and implemented. | RDARR Principle 7 |  |  |  |  |  |
+| 5.8 Comprehensiveness | | | | | | | |
+| 5.8.01 | The institution has demonstrated that it has determined reporting requirements for operational risk capital data that best suit its own business models and risk profiles. Risk management reports for loss data include exposure information for all risk areas (e.g. event type, etc.) and all significant components of those areas. | RDARR Principle 8 |  |  |  |  |  |
+| 5.9 Clarity and usefulness | | | | | | | |
+| 5.9.01 | . The institution has demonstrated that Senior Management receives sufficient information to confirm the integrity of the operational risk capital requirement. | RDARR Principle 9 |  |  |  |  |  |
+| 5.9.02 | The institution has demonstrated that it has an inventory and classification of operational risk capital data items that includes a reference to the CAR/BCAR requirements used to elaborate the reports. | RDARR Principle 9 |  |  |  |  |  |
+| 5.9.03 | The institution has demonstrated that it confirms periodically with recipients that the information in reports related to operational losses are relevant and appropriate, in terms of both amount and quality, to support the governance and decision-making process. | RDARR Principle 9 |  |  |  |  |  |
+| 5.10 Frequency | | | | | | | |
+| 5.10.01 | The institution has demonstrated that it assesses periodically the purpose of each report associated with the reporting of operational risk capital, including internal loss information, and ensures that the required reports can be produced in both normal and stress/crisis situations. | RDARR Principle 10 |  |  |  |  |  |
+| 5.10.02 | The institution demonstrated that it has tested its ability to produce accurate reports within established timeframes and can demonstrate that these timeframes are being adhered to. | RDARR Principle 10 |  |  |  |  |  |
+| 5.10.03 | The institution has demonstrated that in times of stress/crisis all relevant reports containing operational risk capital data, including internal loss information, would be available within a short period of time allowing management to react effectively to evolving risks. | RDARR Principle 10 |  |  |  |  |  |
+| 5.11 Distribution | | | | | | | |
+| 5.11.01 | The institution has demonstrated that documented procedures are in place to allow for rapid collection and analysis of operational risk capital data and timely dissemination of reports, balanced with the need to ensure confidentiality as appropriate. | RDARR Principle 11 |  |  |  |  |  |
+| 6. Operational Risk Capital Data Storage/Retention/Security | | | | | | | |
+| 6.01 | The institution has documented policies, and has demonstrated that procedures are in place, for the storage, security, retention and archiving of operational risk capital data. This includes, where applicable, the procedures for logical/physical deletion of data and destruction of data storage media and peripherals. | DME Section IV |  |  |  |  |  |
+| 6.02 | The institution has documented policies, and has demonstrated that procedures are in place, for the maintenance of back-ups of relevant data files, data stores and databases in a manner that allows for operational risk capital data/information to be secure and readily available. | DME Section IV |  |  |  |  |  |
+| 6.03 | The institution has demonstrated that it has processes in place to ensure the availability of electronic versions for all relevant operational risk capital data and that this data are in a format that provides flexibility to enable searching, aggregation and reporting. and can be made accessible in Canada. | DME Section IV |  |  |  |  |  |
+| 7. Specific Expectations for Business Indicator Data | | | | | | | |
+| 7.01 | The institution has demonstrated that processes are in place for the consistent mapping of its general ledger and/or relevant OSFI returns to the components of the BI. This includes a process for ensuring that Fee and Commission Income is reported on a gross basis, and that Fee and Commission Expenses includes all relevant expenses, including those netted against income, on the institution's financial statements. | DME Section VI |  |  |  |  |  |
+| 7.02 | The institution has demonstrated that processes are in place for the reconciliation between the BI reported on the capital adequacy return ("BCAR") and Net Interest Income and Non-Interest Income (as defined in OSFI's P3 Return). This reconciliation is done quarterly. | DME Section VI |  |  |  |  |  |
+| 7.03 | The institution has demonstrated that it conducts periodic independent reviews of the processes involved in the calculation and reporting of BI component. At a minimum, this would include regular, effective and independent challenge by the institution's second line of defense, and periodic independent reviews by the third line of defense. | DME Section VI |  |  |  |  |  |
+| 7.04 | The institution can demonstrate that it has processes in place for the exclusion of BI data for divested activities, including OSFI approval. | CAR Ch. 3 (38) |  |  |  |  |  |
+| 7.05 | The institution has established processes for disclosing those divested activities excluded from the BI in accordance with OSFI's Pillar 3 requirements. | CAR Ch. 3 (38) |  |  |  |  |  |
+| 7.06 | The institution has demonstrated that processes are in place to reflect mergers or businesses that have been acquired over the previous three years in the BI, as detailed in section 3.4.7 of CAR Chapter 3. | CAR Ch. 3 (39) |  |  |  |  |  |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2022-02-21

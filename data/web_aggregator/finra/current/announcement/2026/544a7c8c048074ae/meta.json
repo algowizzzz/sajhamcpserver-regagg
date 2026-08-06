@@ -1,0 +1,27 @@
+{
+  "doc_id": "544a7c8c048074ae",
+  "regulator_id": "finra",
+  "doc_type": "announcement",
+  "title": "Systems Status | FINRA.org",
+  "language": "en",
+  "source_url": "https://www.finra.org/filing-reporting/systems-status",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6979fb635f1dbe8b94e56564de6413efa39981203af29ae5040bf248b6af9389",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_finra_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/finra/current/announcement/2026/544a7c8c048074ae",
+  "tags": [
+    "us",
+    "securities",
+    "broker_dealer"
+  ],
+  "final_url": "https://www.finra.org/filing-reporting/systems-status",
+  "fetch_method": "html_to_md"
+}

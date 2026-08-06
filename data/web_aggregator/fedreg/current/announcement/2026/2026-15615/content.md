@@ -1,0 +1,5 @@
+# In the Matter of Nasdaq PHLX LLC; Order Granting Petition for Review and Scheduling Filing of Statements Regarding an Order Approving, on an Accelerated Basis, a Proposed Rule Change, as Modified by Amendment No. 1, To List and Trade Nasdaq Bitcoin Index Options
+
+Federal Register document 2026-15615, published 2026-08-03.
+
+> Full text pending: the source page is bot-gated and no API abstract exists for this record.

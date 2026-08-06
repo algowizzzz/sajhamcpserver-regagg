@@ -1,0 +1,25 @@
+{
+  "doc_id": "27c69f8ce59757de",
+  "regulator_id": "bnn_bloomberg",
+  "doc_type": "news_story",
+  "title": "Corpay Cross-Border Named the Official FX Partner of Ultimate Sevens",
+  "language": "en",
+  "source_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/05/corpay-cross-border-named-the-official-fx-partner-of-ultimate-sevens/",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7540ce1471ee68d0efe090754aba93c04458a0ae891cd59d2de70c92a67a991d",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_bnn_bloomberg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bnn_bloomberg/current/news_story/2026/27c69f8ce59757de",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/05/corpay-cross-border-named-the-official-fx-partner-of-ultimate-sevens/",
+  "fetch_method": "feed_summary"
+}

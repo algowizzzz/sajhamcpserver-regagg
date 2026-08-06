@@ -1,0 +1,1 @@
+Summary: # Montreal's Goodfood granted creditor protection from court, may sell business

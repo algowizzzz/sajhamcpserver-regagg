@@ -1,0 +1,1 @@
+Summary: ![A collage featuring planet Earth and a mountains landscape representing how climate change and business intersect](/sites/default/files/styles/wide_lead/public/media/2023/12/climate_change_page_hero_20231219.jpg?h=b5f6a62e&itok=ybO-U9Ci "A collage featuring planet Earth and a m

@@ -1,0 +1,43 @@
+# One Hundred SARs Help Outline Size and Scope of Fraudulent Mortgage Elimination Scheme
+
+[044.pdf](/system/files/case_example/044.pdf "044.pdf")
+(24.42 KB)
+
+In 2006, a Federal grand jury indicted several businesses and individuals, including mortgage brokers, on numerous charges of mail fraud, bank fraud, conspiracy to commit mail, wire and bank fraud and contempt of court in a nationwide scheme that purported to eliminate the mortgages of thousands of homeowners. The perpetrators, working largely through the Internet, offered to eliminate mortgage debt for fees amounting to thousands of dollars, and then fraudulently obtained equity loans, most of the proceeds of which went to the defendants. As the number of victims spread, various news articles and trade publications published information about the scheme and the defendants. With this increased awareness, financial institutions began filing SARs on the scheme. These SARs have helped investigators identify individuals and properties affected by the fraud.
+
+As part of the mortgage elimination scheme, false title documents were recorded, allegedly to transfer a lender’s secured interest in the property, even though the mortgage on the property had not been paid. The fraudulently obtained free and clear titles were then used to obtain hundreds of thousands of dollars in home equity loans from independent lenders.
+
+The Assistant U.S. Attorney on the case warned that homeowners should be cautious of offers that sound too good to be true, noting that the alleged scheme violated mortgage agreements between the lender and borrower and tainted property titles by recording false title documents.
+
+The scheme’s appeal rests on the argument that mortgage loans are not legally enforceable, and, therefore, that borrowers are not legally responsible for re-paying their mortgage loans. Defendants claim that when a borrower gives the bank a promissory note in exchange for a loan, the bank never fronts any “real” money for the loan, so the bank puts nothing into the transaction. As a result, under defendants’ theory -- sometimes called the “vapor money” theory -- no enforceable debt accrues. Normally, a single institution might file numerous SARs on an individual or organization for repeated suspicious activity. In this case, the widespread notoriety of the defendants has made it easier for financial institutions to recognize the fraudulent scheme. As the scheme and the perpetrators have become increasingly well-known, financial institutions have been filing increasing numbers of SARs. Since 2004, banks and others have filed at least 100 SARs on transactions to eliminate mortgage debt by the defendants dating back to 2001. The large number of SARs filed in connection with this case provides a rare opportunity for law enforcement and greatly contributes to law enforcement’s ability to determine the size and scope of the fraud.
+
+(Investigating Agencies: Federal Bureau of Investigation; U.S. Attorney’s Office.)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 11, May 2007]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Depository Institutions
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

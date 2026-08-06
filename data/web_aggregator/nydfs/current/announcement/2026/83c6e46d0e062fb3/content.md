@@ -1,0 +1,71 @@
+![Question Mark](/sites/default/files/styles/wide_lead/public/media/2019/01/istock-936532380_questions_cropped.jpg?h=24c3df32&itok=9MbPiDRF "Questions")
+
+## Have questions? Check our FAQs.
+
+Have questions? Check our FAQs.
+
+SHARE
+
+Whether you're a consumer or an industry professional, we have answers.
+
+![Student protection](/sites/default/files/2019-01/student_protection_1.jpg)
+
+Consumer Resources
+
+For consumers of financial products looking for help.
+
+[Consumer Resource Center...
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)](/consumers)
+
+Top Categories for Consumers
+
+  
+
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)
+
+[Banking and Credit FAQs](https://www.dfs.ny.gov/faqs/consumer_faqs/banking)
+
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)
+
+[Auto Insurance FAQs](https://www.dfs.ny.gov/faqs/consumer_faqs/automobile)
+
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)
+
+[Health Insurance FAQs](https://www.dfs.ny.gov/faqs/consumer_faqs/health_insurance)
+
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)
+
+[Homeowner and Property Insurance FAQs](https://www.dfs.ny.gov/faqs/consumer_faqs/homeowner_property)
+
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)
+
+[Life Insurance FAQs](https://www.dfs.ny.gov/faqs/consumer_faqs/life_insurance)
+
+![compass on a rock](/sites/default/files/2019-02/istock-1044022268_compass_rectangle.jpg)
+
+Industry Questions
+
+For business, industry and regulated entities seeking help.
+
+[Industry FAQs...
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)](/apps_and_licensing/industry_faqs)
+
+Top Questions for Industry Professionals
+
+  
+
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)
+
+[If a Covered Entity ceases to qualify for a cybersecurity exemption under Section 500.19, how should they notify the Department?](/node/159116)
+
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)
+
+[How do I print my Insurance Producer license?](/faqs/industry_faqs/licensing)
+
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)
+
+[How do I become a Temporary Adjuster for Catastrophes?](/apps_and_licensing/agents_and_brokers/temp_ind_adjuster_permit)
+
+![Arrow.svg](/themes/custom/b5dfssubtheme/dist/icons/dfs/arrow-teal.svg)
+
+[How do I use MFA to sign into DFS ID](/DFSID)

@@ -1,0 +1,75 @@
+# FinCEN Issues Ruling (FIN-2008-R005) on Whether Certain Reloadable Card Operations are Money Services Businesses
+
+[fin-2008-r005.pdf](/system/files/guidance/fin-2008-r005.pdf "fin-2008-r005.pdf")
+(44.01 KB)
+
+FIN-2008-R005
+
+FinCEN Issues Ruling (FIN-2008-R005) on Whether Certain Reloadable Card Operations are Money Services Businesses
+
+Issued Date
+
+May 20, 2008
+
+FIN-2008-R005Issued: March 10, 2008Subject: Whether Certain Reloadable Card Operations are Money ServicesBusinesses
+
+This letter is in response to a request from [Service Company], a subsidiary of [Parent], dated June 6, 2007, to the Financial Crimes Enforcement Network (FinCEN) for an administrative ruling concerning the treatment under the Bank Secrecy Act (BSA) provisions applicable to money services businesses (MSBs) of [Service Company] member-sponsored merchants and retail operators of automated teller machines (ATMs) that participate in the [Service Company]’s Prepaid Card Reload Program. FinCEN determines that [Service Company] member-sponsored merchants and ATMs are not MSBs to the extent that they participate in this program as described below.
+
+You represent that the [Service Company] consists of approximately 5,700 bank, savings association, credit union, and bank or savings and loan holding company members ("[Service Company] members") located throughout the United States that are financial institutions subject to the requirements of the BSA and its implementing regulations. There are approximately 140 million [Service Company] cards in circulation that may be used at over 1.9 million [Service Company] ATM and point-of-sale (POS) locations. These personal identification number (PIN) secured ATM, debit and prepaid cards are issued by [Service Company] members and can be used to withdraw cash, make purchases, check account balances and engage in certain other transactions at ATMs and merchant point-of-sale (POS) terminals either owned by, or sponsored by, [Service Company] members. [Service Company] members that sponsor ATMs and merchants are fully responsible for transactions initiated at those ATMs and POS terminals to the same extent as if they owned and operated them.
+
+Currently, value can only be added to [Service Company] reloadable cards by [Service Company] members conducting transactions through in-branch payments, automated clearing house direct deposits, or through receipt of transfers of value to the cards facilitated by competing reload networks. You represent that the [Service Company] anticipates expanding its network capabilities to allow [Service Company] member-sponsored ATMs and merchants to serve as additional conduits for customers seeking to add value to [Service Company] reloadable cards. The proposed process for adding value to a reloadable card at a [Service Company] member-sponsored merchant or ATM would require that the member-sponsored ATM or merchant collect funds from the customer to be forwarded to the [Service Company] member, and that the [Service Company] member verify that: (1) the account is open and in good standing, (2) the correct personal identification number is entered, and (3) other member-established limits on the number, dollar value and frequency of reload transactions have not been exceeded. The [Service Company] member would then return an approval response to the sponsored merchant or ATM, and credit the reloadable card, less any service fee. The [Service Company] member would bear the risk of merchant default on the obligation to forward funds.
+
+Our regulations define the term "money services business"1 to include, among others, persons doing business as a seller or redeemer of stored value or as a money transmitter.2 A seller or redeemer of stored value is defined as a person who sells stored value in an amount greater than $1,000 per person per day.3 Stored value is defined as "funds or monetary value represented in digital electronics format (whether or not specially encrypted) and stored or capable of storage on electronic media in such a way as to be retrievable and transferable electronically."4 A money transmitter is defined as "any person…who engages as a business in accepting currency, or funds denominated in currency, and transmits the currency or funds or the value of the currency or funds, by any means through a financial agency or institution."5 Further, the money transmitter definition also provides that "the acceptance and transmission of funds as an integral part of the execution and settlement of a transaction other than the funds transmission itself…will not cause a person to be a money transmitter."6
+
+[Service Company] members, which are banks as defined by the BSA’s implementing regulations7 , control how their sponsored merchants and ATMs facilitate adding value onto [Service Company] prepaid cards. While member-sponsored ATMs and merchants serve as the physical point in the reload process where the card is presented to transmit data to the [Service Company] member, as well as the point where the customer presents funds for collection, the [Service Company] member controls and conducts the actual transaction that results in the adding of value to the reloadable card. It is the [Service Company] member that verifies the PIN, determines that the terms of use have not been exceeded, determines the acceptable forms of payment, and bears the risk of loss if payment is not collected or forwarded. Member-sponsored merchants and ATMs only act as a conduit between the [Service Company] member and the members’ customers. [Service Company] member-sponsored merchants and ATMS have no control over the reload process, and cannot even complete a reload transaction if the member bank rejects the request to add value to the card. As a result, we do not deem a [Service Company] member-sponsored merchant or ATM for purposes of its participation in the [Service Company] Prepaid Card Reload Program to be a seller of stored value.
+
+Finally, [Service Company] member-sponsored merchants and ATMs nominally accept funds from customers and transmit those funds to the appropriate [Service Company] members. However, they do so solely in connection with the sale of stored value by the [Service Company] member to the customer consistent with the pre-existing agreement between the [Service Company] member and the customer. The acceptance and transmission of funds is an integral part of the execution and settlement of a transaction other than the funds transmission itself, namely the sale of stored value. As a result, to the extent that [Service Company] member-sponsored merchants and ATMS transmit funds in connection with such sales of stored value, [Service Company] member-sponsored merchants and ATMs are not money transmitters.
+
+This ruling is provided in accordance with the procedures set forth at 31 C.F.R. § 103.81. In arriving at our conclusions, we have relied upon the accuracy and completeness of the representations made in your letter. Nothing precludes FinCEN from arriving at a different conclusion or from taking other action should circumstances change, or if any of the information you have provided proves inaccurate or incomplete. We reserve the right, after redacting your name and address to publish this letter as guidance in accordance with our regulations. Please inform us within fourteen (14) days from the date of this letter of any other information that you believe should be redacted from this letter and the legal basis for redaction.
+
+If you have any questions regarding this administrative ruling, please contact [FinCEN’s regulatory helpline at (800) 949-2732].
+
+Sincerely,  
+/signed/  
+Jamal El-Hindi  
+Associate Director  
+Regulatory Policy and Programs Division
+
+---
+
+131 C.F.R. §103.11(uu) (definition of a money services business).
+
+2Id.
+
+331 C.F.R. §103.11(uu)(4).
+
+431 C.F.R. §103.11(vv).
+
+531 C.F.R. §103.11(uu)(5)(i)(A).
+
+631 C.F.R. §103.11(uu)(5)(ii) (emphasis added).
+
+731 C.F.R. §103.11(c).
+
+Financial Institution
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

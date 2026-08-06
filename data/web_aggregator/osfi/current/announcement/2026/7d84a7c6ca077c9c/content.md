@@ -1,0 +1,98 @@
+# Our timeline
+
+Many national, global, and financial environment events have shaped what OSFI is today.
+
+## 1871
+
+The first Bank Act is passed four years after Canada becomes a country.
+
+## c. 1900
+
+The Department of Insurance is founded.
+
+## 1925
+
+The Office of the Inspector General of Banks is founded to regulate Canada’s banks, largely in response to the failure of the Home Bank of Canada in 1923.
+
+## 1933
+
+The Macmillan Commission is set up to explore the banking system and all money matters.
+
+## 1961
+
+The Porter Commission is set up to explore the structure and operation of the Canadian financial system.
+
+## 1967
+
+The Canada Deposit Insurance Corporation is created to ensure the safety of deposits and to improve the standards of deposit-taking institutions.
+
+## 1980
+
+Revisions are made to the *Bank Act*.
+
+## 1984
+
+The Government of Canada reviews Canada’s financial system, leading to the Regulation of Canadian Financial Institutions paper (known as the Green Paper) in early 1985 that questions if the Office of the Inspector General of Banks and the Department of Insurance should be merged.
+
+## 1986
+
+The Estey Inquiry launches following the failures of Northland Bank and Canadian Commercial Bank. The Minister of State for Finance releases a policy paper (known as the Blue Paper) that recommends the merger of the Office of the Inspector General of Banks and the Department of Insurance.
+
+## 1987
+
+The Office of the Superintendent of Financial Institutions (OSFI) is created by merging the Office of the Inspector General of Banks and the Department of Insurance, and includes an independent unit housing the Office of the Chief Actuary.
+
+## 1992
+
+The Government of Canada announces a new legislative framework for federally regulated financial institutions that affect OSFI’s role and responsibilities, such as new financial institution safeguards and allowing banks to own securities dealers for the first time.
+
+## 1996
+
+The Task Force on the Future of the Canadian Financial Services Sector launches and results in the MacKay Report. Broad consensus on ways to improve the financial sector emerge, including recommendations to create a financial consumer agency to oversee consumer interests and improve consumer protection. [OSFI’s legislated mandate](/en/about-osfi/osfi-story#a1 "The OSFI story") is enacted to clarify its role and accountability.
+
+## 1999
+
+The Asian Crisis occurs emphasizing a need to bolster global standards and coordination. OSFI establishes a new Supervisory Framework that outlines a comprehensive, risk-based methodology for the supervision of federally regulated financial institutions in all industries and helps to relieve the burden of regulations on financial institutions.
+
+## 2001
+
+The government passes Bill C-8 which overhauls the financial institution statutes and creates the Financial Consumer Agency of Canada. The agency’s role is to expand consumer education and strengthen consumer protection oversight. OSFI is no longer responsible for overseeing consumer protection.
+
+## 2008
+
+Recession hits the global financial system, but Canadian banks fare better than those in many other countries because of the setup of the Canadian banking system.
+
+## 2009
+
+The Financial Stability Board is created in response to the global financial crisis. OSFI is a key member.
+
+## 2011
+
+As the Canadian and global economies recover, OSFI revises the 1999 Supervisory Framework to account for changes in the financial and international environments. OSFI maintains an active role in international forums.
+
+## 2012
+
+OSFI’s mandate expands to include oversight of Canada Mortgage and Housing Corporation and Business Development Bank of Canada.
+
+## 2013
+
+A standard is set to designate [global systemically important banks](/en/supervision/financial-institutions/banks/global-systemically-important-banks "Global systemically important banks"). These institutions face stronger scrutiny and disclosure rules, and more capital requirements.
+
+Countries who are members of the Financial Stability Board must now designate [domestic systemically important banks](/en/supervision/financial-institutions/banks/domestic-systemically-important-banks "Domestic systemically important banks"). OSFI labels Canada’s 6 largest banks as domestic systemically important banks.
+
+## 2016 – 2020
+
+OSFI introduces new guidelines related to corporate governance, mortgage insurance, underwriting practices, Basel requirements, capital requirements and more. With the onset of the COVID-19 pandemic in 2020, OSFI announces a series of measures to support the Canadian financial system and protect pension plan members.
+
+## 2022
+
+OSFI releases its first [Annual Risk Outlook](/en/about-osfi/reports-publications/osfis-annual-risk-outlook-fiscal-year-2022-2023 "OSFI’s Annual Risk Outlook – Fiscal Year 2022-2023"), which describes risks it considers most critical to the financial system—ranging from cyber-attacks and digital innovation to housing-related considerations and climate change—and how to address them.
+
+## 2023
+
+[Bill C-47 passes and expands OSFI’s mandate](/en/news/statement-superintendent-royal-assent-bill-c-47 "Statement from the Superintendent on Royal Assent of Bill C-47") to include examining each federally regulated financial institution’s policies and procedures related to integrity and security to determine if they are adequate. The Integrity and Security Risk Division and National Security Sector are established to fulfill this part of the mandate.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-02-21

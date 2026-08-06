@@ -1,0 +1,1 @@
+Summary: # [ESMA calls on firms to finalise preparations ahead of T+1 settlement deadlines](/press-news/esma-news/esma-calls-firms-finalise-preparations-ahead-t1-settlement-deadlines)

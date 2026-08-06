@@ -1,0 +1,57 @@
+# Name reservation
+
+Information
+
+Type of document
+
+Transaction instructions
+
+Category
+
+Non deemed approval
+
+Last updated
+
+July 2017
+
+Index A No
+
+20
+
+## Legislative authorities
+
+* Sections 43 and 697 of the [Bank Act](https://laws-lois.justice.gc.ca/eng/acts/b-1.01/) (BA)
+* Section 45 of the [Trust and Loan Companies Act](https://laws-lois.justice.gc.ca/eng/acts/t-19.8/) (TLCA)
+* Sections 45 and 734 of the [Insurance Companies Act](https://laws-lois.justice.gc.ca/eng/acts/i-11.8/) (ICA)
+* Section 39 of the [Cooperative Credit Associations Act](https://laws-lois.justice.gc.ca/eng/acts/c-41.01/) (CCAA)
+
+There is no provision in the ICA allowing foreign insurance companies to make a name reservation.
+
+## Information Requirements
+
+The applicant is generally expected to provide:
+
+1. its name;
+2. the proposed name to be reserved, in English, French, or both; and
+3. the purpose for reserving the proposed name.
+
+## Administrative Guidance
+
+1. Applicants are reminded that a name reservation **only** secures the approved name relative to applications submitted to OSFI under the BA, TLCA, ICA and CCAA, as applicable. A name reservation does not address any other requirements that may apply to the applicant’s intended use of that name or its prospective activities in Canada. Accordingly, OSFI recommends that all applicable statutes be reviewed, and the agencies that administer them be consulted, in connection with the name that the applicant is requesting the Superintendent to reserve.
+2. The reservation of a name provides no assurance that the reserved name will be acceptable for the purposes of any future application to OSFI and it does not in itself confer any rights to the reserved name.  Further information on protecting a corporate name can be found on the Industry Canada website at [http://www.strategis.ic.gc.ca](http://www.strategis.ic.gc.ca/).
+3. An approved name reservation is valid for a period of 90-days. If the applicant’s name has not been approved for use by the Superintendent or Minister, as the case may be, through a subsequent application before the 90-day period expires, the applicant may make a renewed request for a name reservation if the applicant wishes to continue to reserve the name with OSFI.
+4. Requests for approval(s) that are addressed in this document (including renewed requests) are subject to a service charge.[Footnote 1](#fnb1) A wire transfer, cheque or draft should be made payable to the “Receiver General for Canada” for the stipulated amount.
+
+*The information requirements and administrative guidance are intended to satisfy typical applications. They have been derived from OSFI’s experience in assessing applications. Applicants who provide all information and material requested can generally expect a more timely assessment of their applications. As appropriate to the circumstances, OSFI may request additional information, take into account other matters, impose terms and conditions, or require undertakings.*
+
+## Footnotes
+
+Footnote 1
+:   Please see [*Charges for Services Provided by the Office of the Superintendent of Financial Institutions Regulations 2002*](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-337/index.html)
+
+    [Return to footnote 1](#fnb1-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-01-17

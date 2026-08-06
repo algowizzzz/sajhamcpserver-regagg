@@ -1,0 +1,35 @@
+# State Coordinator’s Case Example (Embezzlement)
+
+[Issue22-story3.pdf](/system/files/case_example/Issue22-story3.pdf "Issue22-story3.pdf")
+(19.57 KB)
+
+In early 2012, FinCEN conducted outreach to all of its state and local law enforcement partners, and asked for cases where FinCEN data played a useful role in their investigations. Below, in their own words, is an example of how FinCEN's stakeholders use FinCEN data. It has been edited only for confidentiality and privacy concerns.The following example is from a state coordinator's case. State coordinators are the primary contact points for local and state law enforcement agencies to obtain FinCEN records. Depending on the state, the coordinator could be the attorney general, state police, or the department of public safety. Frequently, the state coordinators are the primary contact point for a variety of resources that can benefit law enforcement agencies.
+
+*"A plastic surgeon discovered an embezzlement scheme by his bookkeeper when, during the bookkeeper's vacation, he learned of his overdrawn account. The bookkeeper had attempted to evade detection of the embezzlement by destroying, inter alia, bank records and tax deficiency notices. FinCEN records led us to request all records for the subject's gaming activity from local casinos and we established that the subject had been embezzling for over 5 years to support her gambling habit. Upon our establishing an embezzlement of over $300,000 the subject took a nolo contendre plea and received a sentence of 20 years suspended after 78 months."*
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* 22, October 2012]
+
+Tags
+
+Schemes and Scams
+
+Casinos and Card Clubs
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

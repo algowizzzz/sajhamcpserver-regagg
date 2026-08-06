@@ -1,0 +1,1 @@
+Summary: In 2022, the European Insurance and Occupational Pensions Authority (EIOPA) carries out its first climate stress test to gain insights into the effects of environmental risks on the European occupational pension sector. Sustainability and the management of environmental risks hav

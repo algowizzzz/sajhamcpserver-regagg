@@ -1,0 +1,64 @@
+# Reinsurance Trust Agreements
+
+Information
+
+Publication type
+
+Letter
+
+Date
+
+August 9, 2010
+
+[Generate PDF](/en/print/pdf/node/393)
+
+Table of contents
+
+Accompanying documents
+
+* [Guidance for Reinsurance Security Agreements](/en/data-forms/applications-approvals/guidance-reinsurance-security-agreements)
+* [Letter](/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010)
+
+**To:**Federally Regulated Property and Casualty Insurance Companies, Federally Regulated Life Insurance Companies, including Fraternal Benefit Societies
+
+This letter is to inform you that the Office of the Superintendent of Financial Institutions (OSFI) will no longer develop, or be party to, standard form Reinsurance Trust Agreements (RTAs).
+
+## Background
+
+In the past, OSFI has developed standard form RTAs that federally regulated companies (“ceding companies”) were required to use in order to be eligible for a capital/asset credit in respect of risks that have been reinsured with an unregistered reinsurer.
+
+While OSFI is of the view that its standard form RTAs generally provide adequate protection to ceding companies, there is currently some discussion within the legal community as to whether their enforceability could be challenged and whether other arrangements would be beneficial to ceding companies, while providing a similar or greater level of protection. Although OSFI had initially considered developing a standard Reinsurance Security Agreement to replace the current RTA, OSFI has decided not to pursue that approach.
+
+## Rationale
+
+OSFI’s decision to move away from standard form agreements was supported by a number of factors. These factors include:
+
+* requiring ceding companies to manage risks related to unregistered reinsurance;
+* giving companies flexibility to create their own forms of security agreements;
+* harmonizing with the practice for other security and collateral arrangements by deposit taking institutions;
+* recognizing that the use of an appropriate standard form agreement is a fact-specific determination and the creation of a first-ranking perfected security interest depends on more than just the form of agreement (e.g., registration);
+* maintaining access to Canadian courts; and
+* minimizing the costs to, and responsibility of, OSFI associated with the review of all personal property legislation as well as securities transfer legislation in the thirteen provincial/territorial jurisdictions that would have been required if OSFI had decided to develop a standard Reinsurance Security Agreement.
+
+## New Approach
+
+Under its new approach, OSFI will require ceding companies to negotiate and enter into suitable arrangements and to take all necessary practical and operational measures to create and maintain a valid first-ranking security interest in assets of an unregistered reinsurer that are held in Canada. Ceding companies will also have to provide a legal opinion addressed to the ceding company and OSFI, and on which OSFI will be entitled to rely, asserting that such an interest has been created in their favour. Further, ceding companies will be expected to approve assets pledged or withdrawn. In that regard, OSFI has outlined minimum standards for a security agreement, for the accompanying legal opinion as well as supervisory matters (attached). These minimum standards are available on the OSFI Web site at
+
+[http://www.osfi-bsif.gc.ca/Eng/fi-if/rai-eri/sp-ps/Pages/rsa.aspx](/en/data-forms/applications-approvals/guidance-reinsurance-security-agreements "Guidance for Reinsurance Security Agreements")
+
+All newly entered agreements should follow OSFI’s new approach beginning **January 1, 2011** . However, companies are encouraged to move to the new regime as soon as practically possible prior to these timelines.
+
+OSFI recognizes that a smooth transition to the new approach is required and that companies will need time to adjust. However, OSFI expects that companies will replace all existing agreements by **January 1, 2012.**
+
+For additional information or if you have questions concerning security agreements please contact Philipe-A. Sarrazin, Director, Legislation and Policy Initiatives, by telephone at (613) 998-4190 or by e-mail at [Philipe.Sarrazin@osfi-bsif.gc.ca.](mailto:Philipe.Sarrazin@osfi-bsif.gc.ca)
+
+Yours truly,
+
+Mark E. White  
+Assistant Superintendent  
+Regulation Sector
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2013-07-12

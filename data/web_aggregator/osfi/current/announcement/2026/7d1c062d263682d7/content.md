@@ -1,0 +1,142 @@
+# Opérations sur l’actif avec un apparenté dans le cadre d’une restructuration
+
+Information
+
+Type de document
+
+Instructions relatives aux opérations
+
+Catégorie
+
+Opérations avec présomption d'agrément
+
+Dernière révision
+
+Juin 2015
+
+Index PA No
+
+22
+
+## Fondement législatif
+
+* Paragraphe 494(4) de la [Loi sur les banques](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/)(LB)
+* Paragraphe 482(4) de la [Loi sur les sociétés de fiducie et de prêt](https://laws-lois.justice.gc.ca/fra/lois/t-19.8/) (LSFP)
+* Paragraphe 527(4) de la [Loi sur les sociétés d’assurances](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/) (LSA)
+* Paragraphe 418(3.1) de la [Loi sur les associations coopératives de crédit](https://laws-lois.justice.gc.ca/fra/lois/c-41.01/ ) (LACC)
+
+## Exigences en matière d'information
+
+De façon générale, le demandeur doit fournir :
+
+1. le nom de la contrepartie avec laquelle il propose d'effectuer une opération ou une série d'opérations (l'opération), ainsi que :
+   1. une analyse pour appuyer sa conclusion à l'effet que la contrepartie est un apparenté[Note de bas de page 1](#fnb1) du demandeur, à laquelle est joint un organigramme à jour indiquant les parties pertinentes du groupe de sociétés du demandeur (avec pourcentages de propriété),
+   2. les derniers états financiers (bilan, état des résultats et état des fluctuations de l'avoir des actionnaires) de l'apparenté;
+2. une description de l'opération proposée, notamment :
+   1. le motif de l'opération, y compris une analyse pour appuyer la conclusion du demandeur à l'effet que l'opération se ferait dans le cadre d'une restructuration[Note de bas de page 2](#fnb2),
+   2. le type d'élément d'actif ou les types d'éléments d'actif (élément d'actif) en cause,
+   3. la question de savoir si le demandeur effectuera l'opération directement ou par l'intermédiaire d'une filiale[Note de bas de page 3](#fnb3),
+   4. dans le cas de l'acquisition d'un élément d'actif, une description de la contrepartie que versera le demandeur ou sa filiale, y compris les modalités de paiement,
+   5. dans le cas de l'aliénation d'un élément d'actif, une description de la contrepartie que recevra le demandeur ou sa filiale, y compris les modalités de paiement et l'utilisation confirmée ou proposée du produit;
+3. une déclaration d'un cadre dirigeant[Note de bas de page 4](#fnb4) confirmant que :
+   1. les conditions de l'opération seront au moins aussi favorables pour le demandeur que celles du marché[Note de bas de page 5](#fnb5) (cette confirmation n'est pas nécessaire quand l'opinion du tiers indépendant dont il est question au point 6 est fournie),
+   2. l'opération n'exposera pas le demandeur à un risque financier permanent important lié à un apparenté[Note de bas de page 6](#fnb6) (ou, le cas échéant, fournir une description du risque et des mesures ou des autres protections qui seront mises en place pour atténuer le risque),
+   3. l'opération n'aura pas un effet défavorable sur la situation financière ou le profil de risque du demandeur[Note de bas de page 7](#fnb7);
+4. une description du fondement de l'évaluation de chacun des éléments prévus au point 3;
+5. des précisions relatives aux approbations internes requises pour l'opération (p. ex., du conseil d'administration, d'un de ses comités ou de la haute direction), conformément aux politiques internes du demandeur, de même qu'une preuve à l'appui de l'obtention de ces approbations (p. ex., un extrait pertinent du procès-verbal de la réunion au cours de laquelle l'opération a été approuvée);
+6. si l'actif n'est pas un titre négocié sur une bourse reconnue ou sur un marché hors cote, une opinion d'un tiers indépendant ou, s'il y a lieu, un autre fait probant fiable, qui démontre que l'opération sera effectuée dans des conditions au moins aussi favorables pour le demandeur que celles du marché;
+7. une analyse de l'effet que l'opération aura sur la situation financière et le profil de risque du demandeur, notamment :
+   1. un bilan pro forma comparatif (avant et après l'opération), y compris les hypothèses pertinentes,
+   2. une analyse pro forma comparative des fonds propres (avant et après l'opération) confirmant que le demandeur respecte ses propres objectifs en matière de fonds propres ainsi que les exigences que le BSIF a établies à son endroit, assortie des hypothèses utilisées et, si l'opération est importante pour le demandeur, un relevé :
+      1. dans le cas d'une institution de dépôts, de tous les éléments utilisés pour calculer :
+         1. les ratios de fonds propres, conformément à la ligne directrice *Normes de fonds propres*,
+         2. le ratio de levier, conformément à la ligne directrice *Exigences de levier*,
+         3. le ratio de liquidité à court terme, conformément à la ligne directrice *Normes de liquidité*,
+      2. dans le cas d'une société d'assurance-vie, de tous les éléments utilisés pour calculer le Montant minimal permanent requis pour le capital et l'excédent,
+      3. dans le cas d’une société d’assurances multirisques, tous les éléments du Test du capital minimal ou du Test de suffisance du capital des assureurs hypothécaires, selon le cas,
+   3. si l'opération est importante pour le demandeur :
+      1. dans le cas d'une institution de dépôts, la version révisée d'un document sur le processus interne d'évaluation de la solvabilité (par exemple, Processus interne d'évaluation de l'adéquation des fonds propres (PIEAFP)),
+      2. dans le cas d’une société d’assurances, un rapport révisé de scénarios de simulation de crise (par exemple, Examen de la santé financière (ESF)),
+   4. si l'opération modifiera sensiblement la stratégie d'affaires du demandeur, la version révisée du plan d'affaires et :
+      1. dans le cas d'une institution de dépôts, la version révisée d'un document sur le processus d'évaluation interne de la solvabilité (par exemple, PIEAFP),
+      2. dans le cas d’une société d’assurances, un rapport révisé de scénarios de simulation de crise (par exemple, ESF),
+   5. une confirmation du fait qu'après l'opération, la situation du demandeur sera conforme à ses politiques pertinentes, notamment celles relatives aux liquidités, à la gestion des fonds propres, à la gestion des risques et aux placements.
+
+## Directives administratives
+
+1. En règle générale, le BSIF considère les demandes présentées en vertu du fondement législatif comme étant dans le cadre d'une restructuration lorsque :
+   1. l'opération a pour résultat ou comprend la création, l'acquisition ou la vente d'entités appartenant au même groupe que le demandeur;
+   2. le demandeur ou un membre de son groupe se lance dans un secteur d'activité[Note de bas de page 8](#fnb8) ou l'abandonne.
+2. En règle générale, le BSIF examine les éléments suivants quand il évalue les demandes d'opérations sur l'actif avec un apparenté dans le cadre d'une restructuration.
+   1. **Aucun risque financier permanent** : Normalement, l'opération ne devrait pas exposer le demandeur à un risque financier permanent important lié à un apparenté, à moins que des mesures d'atténuation ou d'autres protections adéquates n'aient été mises en place. S'il y a un risque financier permanent important, celui-ci devrait normalement être de courte durée. Le BSIF estime généralement qu'un demandeur est exposé à un risque financier important lié à un apparenté s'il détient une créance auprès de l'apparenté ou des titres de celui-ci, s'il lui a fourni une garantie ou si l'apparenté lui en a fourni une.
+   2. **Aucun effet défavorable** : L'opération ne devrait pas avoir d'effet défavorable sur la situation financière ou le profil de risque du demandeur. À cet égard, le BSIF évaluera normalement l'impact de l'opération sur les affaires, la composition de l'actif, les fonds propres, le revenu et la position de liquidité du demandeur.
+3. Les opérations sur l'actif visées dans la présente instruction relative aux opérations doivent être exécutées dans des conditions au moins aussi favorables pour le demandeur que celles du marché. Le BSIF peut, s'il y a lieu, demander une évaluation indépendante, aux frais du demandeur.
+4. Si l'opération sur l'actif est autorisée sans approbation aux termes d'autres dispositions visant les apparentés[Note de bas de page 9](#fnb9) (par exemple, opérations à valeur peu importante), l'institution financière fédérale (IFF) peut poursuivre l'opération conformément à ces autres dispositions.
+5. L'alinéa 6(1)*c*) de la *Loi nationale sur l'habitation* prévoit généralement que par dérogation aux dispositions de toute autre loi ou règle de droit limitant ses pouvoirs, le prêteur agréé par la Société canadienne d'hypothèques et de logement (SCHL) qui serait, en les circonstances, une IFF, peut aliéner ou acquérir des prêts assurés par la SCHL, ainsi que la garantie prise à leur égard. Ces dispositions permettent à l'IFF de poursuivre l'opération sans l'approbation requise par les dispositions du fondement législatif.
+6. Les éléments d'actif acquis ou aliénés dans le cadre d'opérations qui sont approuvées en vertu des dispositions du fondement législatif sont soustraits du calcul et à l'application du seuil de 10 % aux fins des opérations sur l'actif visées dans l'instruction relative aux opérations PA no 18, *Opérations sur l'actif de plus de 10 %*[Note de bas de page 10](#fnb10).
+7. Le surintendant pourrait vouloir déterminer si l'opération proposée nuirait dans l'avenir à la mise en œuvre de mesures correctives et demander de l'information à ce sujet.
+8. Aucun droit n'est exigé en contrepartie de cet agrément[Note de bas de page 11](#fnb11).
+
+Les exigences en matière d'information et les directives administratives visent à satisfaire à tous les genres de demandes types. Elles ont été élaborées à partir de la vaste expérience du BSIF au chapitre de l'évaluation des demandes. Les demandeurs qui fournissent toute l'information et tous les documents nécessaires peuvent s'attendre à ce que leurs demandes soient évaluées plus rapidement. Selon les circonstances, le BSIF peut exiger des renseignements supplémentaires, prendre en compte d'autres questions, imposer des conditions ou exiger des engagements.
+
+## Note de bas de page
+
+Note de bas de page 1
+:   Voir la définition d'« apparenté » à l'article 486 de la LB, à l'article 474 de la LSFP, à l'article 518 de la LSA et à l'article 410 de la LACC.
+
+    [Retour à la référence de la note de bas de page 1](#fnb1-ref)
+
+Note de bas de page 2
+:   Voir le point 1 des « Directives administratives » ci-dessous.
+
+    [Retour à la référence de la note de bas de page 2](#fnb2-ref)
+
+Note de bas de page 3
+:   Voir le paragraphe 489(2) de la LB, le paragraphe 477(2) de la LSFP, le paragraphe 521(2) de la LSA et le paragraphe 413(2) de la LACC.
+
+    [Retour à la référence de la note de bas de page 3](#fnb3-ref)
+
+Note de bas de page 4
+:   Dans la présente instruction relative aux opérations, « cadre dirigeant » s'entend du chef de la direction ou d'une personne qui relève de celui-ci ou du conseil d'administration.
+
+    [Retour à la référence de la note de bas de page 4](#fnb4-ref)
+
+Note de bas de page 5
+:   Voir la définition de « conditions du marché » à l'article 501 de la LB, à l'article 489 de la LSFP, à l'article 534 de la LSA et à l'article 425 de la LACC.
+
+    [Retour à la référence de la note de bas de page 5](#fnb5-ref)
+
+Note de bas de page 6
+:   Voir le point 2(a) des « Directives administratives » ci-dessous.
+
+    [Retour à la référence de la note de bas de page 6](#fnb6-ref)
+
+Note de bas de page 7
+:   Voir le point 2(b) des « Directives administratives » ci-dessous.
+
+    [Retour à la référence de la note de bas de page 7](#fnb7-ref)
+
+Note de bas de page 8
+:   En règle générale, le BSIF estime qu'un secteur d'activité est un produit en particulier, un marché précis sur lequel ce produit est offert ou un segment clairement défini de clients pour ce produit.
+
+    [Retour à la référence de la note de bas de page 8](#fnb8-ref)
+
+Note de bas de page 9
+:   Voir, par exemple, l'article 490 et les paragraphes 494(1) et (2) de la LB, l'article 478 et les paragraphes 482(1) et (2) de la LSFP, l'article 522 et les paragraphes 527(1) et (2) de la LSA et l'article 414 et les paragraphes 418(1) et (2) de la LACC.
+
+    [Retour à la référence de la note de bas de page 9](#fnb9-ref)
+
+Note de bas de page 10
+:   Voir l'alinéa 482(2)*k*) de la LB, l'alinéa 470(2)*g*) de la LSFP, l'alinéa 512(2)*g*) de la LSA et l'alinéa 406(3)*f*) de la LACC.
+
+    [Retour à la référence de la note de bas de page 10](#fnb10-ref)
+
+Note de bas de page 11
+:   Voir le  [*Règlement de 2002 sur les droits à payer pour les services du Bureau du surintendant des institutions financières*](http://laws-lois.justice.gc.ca/fra/reglements/DORS-2002-337/index.html).
+
+    [Retour à la référence de la note de bas de page 11](#fnb11-ref)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-01-17

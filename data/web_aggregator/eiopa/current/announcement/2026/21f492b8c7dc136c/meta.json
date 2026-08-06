@@ -1,0 +1,27 @@
+{
+  "doc_id": "21f492b8c7dc136c",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA welcomes the adoption of the Regulation introducing a Pan-European Personal Pension Product - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-welcomes-adoption-regulation-introducing-pan-european-personal-pension-product-2019-04-04_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d3fb118d0e8ff4b86b1d00a7c7f8e7ed57e86e679a788386a1bba1d3ae155168",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/21f492b8c7dc136c",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-welcomes-adoption-regulation-introducing-pan-european-personal-pension-product-2019-04-04_en",
+  "fetch_method": "html_to_md"
+}

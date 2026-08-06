@@ -1,0 +1,23 @@
+**What is the legal basis for EIOPA to issue recommendations?**
+
+Article 16 of Regulation (EU) No 1094/2010 empowers EIOPA to issue recommendations to one or more competent authorities, with a view to establishing consistent, efficient and effective supervisory practices, and to ensuring the common, uniform and consistent application of Union law.
+
+**What is expected from national competent authorities in relation to EIOPA’s recommendations?**
+
+According to Article 16 of Regulation (EU) No 1094/2010, national competent authorities have a duty to make every effort to comply with EIOPA’s recommendations and to report on their compliance to EIOPA within two months. In the event that a competent authority does not comply or does not intend to comply, it shall inform EIOPA, stating its reasons.
+
+**What happens if a national competent authority states that it complies with EIOPA’s recommendation?**
+
+Following the analysis of the national competent authority’s statement, EIOPA shall make public that the competent authority complies with EIOPA’s recommendation.
+
+**What happens if a national competent authority does not comply or does not intend to comply with EIOPA’s recommendation?**
+
+Following the analysis of the national competent authority’s statement, EIOPA shall publish the fact that a national competent authority does not comply or does not intend to comply with the recommendation. EIOPA may also decide, on a case-by-case basis, to publish the reasons provided by the competent authority for not complying with that recommendation. The competent authority shall receive advanced notice of such publication.
+
+With the publication of non-compliance, the proceeding under Article 16 of Regulation (EU) No 1094/2010 is closed. Nonetheless, EIOPA continues to closely monitor the next steps of the competent authority and might consider the use of other tools under its remit.
+
+**When does EIOPA decide to act and what is its role in the supervisory process?**
+
+EIOPA has a role to act in particular where insurance companies that operate on a cross-border basis in several countries in the European Economic Area face difficulties and pose risks for consumers. The protection of policyholders and financial stability are the ultimate objective of European insurance supervision and can only be ensured by effective and efficient supervisory actions.
+
+Currently, EIOPA has a role of a coordinator or mediator, while the direct supervision lays with the national competent authorities.

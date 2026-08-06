@@ -1,0 +1,24 @@
+{
+  "run_id": "2026-08-02_nydfs_live",
+  "regulator_id": "nydfs",
+  "logical_date": "2026-08-02",
+  "trigger": "schedule",
+  "detected": 75,
+  "fetched": 2,
+  "ingested": 2,
+  "archived": 0,
+  "errors": 1,
+  "status": "failed",
+  "error_list": [
+    {
+      "url": "https://www.dfs.ny.gov/industry_guidance",
+      "error": "404 Client Error: Not Found for url: https://www.dfs.ny.gov/industry_guidance"
+    }
+  ],
+  "detected_urls": [
+    "https://www.dfs.ny.gov/industry_guidance",
+    "https://www.dfs.ny.gov/",
+    "https://www.dfs.ny.gov/consumers"
+  ],
+  "duration_s": 1.81
+}

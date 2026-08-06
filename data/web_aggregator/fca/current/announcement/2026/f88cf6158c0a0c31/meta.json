@@ -1,0 +1,25 @@
+{
+  "doc_id": "f88cf6158c0a0c31",
+  "regulator_id": "fca",
+  "doc_type": "announcement",
+  "title": "FCA and Bank appoint members to their Transaction and Post-trade Reporting Harmonisation Taskforce",
+  "language": "en",
+  "source_url": "https://www.fca.org.uk/news/news-stories/fca-bank-appoint-members-their-transaction-post-trade-reporting-harmonisation-taskforce",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1ae41be43df04af3a14e6672e256ae127710f80dea7b0bc20690412a247f701d",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fca_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fca/current/announcement/2026/f88cf6158c0a0c31",
+  "tags": [
+    "uk",
+    "conduct",
+    "securities"
+  ]
+}

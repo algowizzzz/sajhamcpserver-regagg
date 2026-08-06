@@ -1,0 +1,83 @@
+# Amendments, Applications and Approvals
+
+## Amendments – Defined Benefit and Defined Combination Plans
+
+* **Instruction Guide:**[Amendments to Supporting Documents](/en/supervision/pensions/administering-pension-plans/guidance-topic/amendments-supporting-documents "Amendments to Supporting Documents")
+* **Forms:**[OSFI 594 – Defined Benefit/Combination Pension Plan Amendment Information Form](/en/supervision/pensions/administering-pension-plans/guidance-topic/osfi-594-defined-benefitcombination-pension-plan-amendment-information-form "OSFI 594 – Defined Benefit/Combination Pension Plan Amendment Information Form")
+* **RRS Filing Instructions:**[Filing Pension Plan Amendments using RRS](/en/supervision/pensions/administering-pension-plans/guidance-topic/filing-pension-plan-amendments-using-regulatory-reporting-system-rrs "Filing Pension Plan Amendments using the Regulatory Reporting System (RRS)")
+* **RRS Sample forms:**[PP1 - Amendments to Pension Plans and To Documents That Create or Support The Plan or The Pension Fund (sample)](/sites/default/files/2023-10/csppf.pdf "csppf.pdf")
+
+## Amendments – Defined Contribution Plans
+
+* **Instruction Guide:**[Amendments to Supporting Documents](/en/supervision/pensions/administering-pension-plans/guidance-topic/amendments-supporting-documents "Amendments to Supporting Documents")
+* **Forms:**[OSFI 593 – Defined Contribution Pension Plan Text Amendment Information Form](/en/supervision/pensions/administering-pension-plans/guidance-topic/osfi-593-defined-contribution-pension-plan-text-amendment-information-form "OSFI 593 – Defined Contribution Pension Plan Text Amendment Information Form")
+* **RRS Filing Instructions:**[Filing Pension Plan Amendments using RRS](/en/supervision/pensions/administering-pension-plans/guidance-topic/filing-pension-plan-amendments-using-regulatory-reporting-system-rrs "Filing Pension Plan Amendments using the Regulatory Reporting System (RRS)")
+* **RRS Sample forms:**[PP1 - Amendments to Pension Plans and To Documents That Create or Support The Plan or The Pension Fund (sample)](/sites/default/files/2023-10/csppf.pdf "csppf.pdf")
+
+## Asset Transfers – Defined Benefit
+
+* **Instruction Guide:**[Asset Transfers related to Defined Benefit Provisions of Pension Plans](/en/supervision/pensions/administering-pension-plans/guidance-topic/asset-transfers-related-defined-benefit-provisions-pension-plans "Asset Transfers related to Defined Benefit Provisions of Pension Plans")
+* **Forms:**[Approval Request Form – Asset Transfers related to Defined Benefit Provisions of Pension Plans (PDF, 2.15 MB)](/sites/default/files/documents/atrf18_EN.pdf "atrf18_EN.pdf")
+* **RRS Filing Instructions:**[Filing an Application for Approval of an Asset Transfer related to Defined Benefit Provisions using RRS](/en/supervision/pensions/administering-pension-plans/guidance-topic/filing-application-approval-asset-transfer-related-defined-benefit-provisions-using-regulatory "Filing an Application for Approval of an Asset Transfer related to Defined Benefit Provisions using the Regulatory Reporting System (RRS)")
+* **RRS Sample forms:**[PP6 - Approval Request Return for Asset Transfer Related to Defined Benefit Provisions (sample)](/sites/default/files/2023-10/db_at_rrs_form.pdf "db_at_rrs_form.pdf")
+
+## Asset Transfers – Defined Contribution
+
+* **Instruction Guide:**[Asset Transfers related to Defined Contribution Provisions of Pension Plans](/en/supervision/pensions/administering-pension-plans/guidance-topic/asset-transfers-related-defined-contribution-provisions-pension-plans "Asset Transfers related to Defined Contribution Provisions of Pension Plans")
+* **Forms:**[Standardized Asset Transfer Request Form – Asset Transfers related to Defined Contribution Provisions of Pension Plans (PDF, 299 KB)](/sites/default/files/documents/dcppp23_form-en.pdf "dcppp23_form-en.pdf")
+* **RRS Filing Instructions:**[Filing an Application for Approval of an Asset Transfer related to Defined Contribution Provisions (Provincial Plan Members Only) using RRS](/en/supervision/pensions/administering-pension-plans/guidance-topic/filing-application-approval-asset-transfer-related-defined-contribution-provisions-provincial-plan "Filing an Application for Approval of an Asset Transfer related to Defined Contribution Provisions (Provincial Plan Members Only) using the Regulatory Reporting System (RRS)")
+* **RRS Sample forms:**[PP5 - Approval Request Return for Asset Transfer Related to Defined Contribution Provisions (Provincial Plan Members Only) (sample)](/sites/default/files/2023-10/dc_at_rrs_form.pdf "dc_at_rrs_form.pdf")
+
+## Benefit Reductions
+
+* **Instruction Guide:**[Authorization of Amendments Reducing Benefits in Defined Benefit Pension Plans](/en/supervision/pensions/administering-pension-plans/guidance-topic/authorization-amendments-reducing-benefits-defined-benefit-pension-plans "Authorization of Amendments Reducing Benefits in Defined Benefit Pension Plans")
+* **Forms:**[Authorization Request Form – Amendments Reducing Benefits (PDF, 223 KB)](/sites/default/files/documents/bnft-rdc-form-en.pdf "bnft-rdc-form-en.pdf")
+* **RRS Filing Instructions:**[Filing an Application for Approval of Amendments Reducing Benefits using RRS](/en/supervision/pensions/administering-pension-plans/guidance-topic/filing-application-approval-amendments-reducing-benefits-using-regulatory-reporting-system-rrs "Filing an Application for Approval of Amendments Reducing Benefits using the Regulatory Reporting System (RRS)")
+* **RRS Sample forms:**[PP7 - Approval Request Return for Amendments Reducing Benefits (sample)](/sites/default/files/2023-10/bnft_rdc_rrs_form.pdf "bnft_rdc_rrs_form.pdf")
+
+## Conversions
+
+* **Instruction Guide:**[Guideline for Converting Plans from Defined Benefit to Defined Contribution](/en/supervision/pensions/administering-pension-plans/guidance-topic/guideline-converting-plans-defined-benefit-defined-contribution "Guideline for Converting Plans from Defined Benefit to Defined Contribution")
+* **Forms:**N/A
+* **RRS Filing Instructions:**N/A
+* **RRS Sample forms:**N/A
+
+## Refund of Surplus
+
+* **Instruction Guide:**[Refund of Surplus to the Employer](/en/supervision/pensions/administering-pension-plans/guidance-topic/refund-surplus-employer "Refund of Surplus to the Employer")
+* **Forms:**N/A (Refer to Instruction Guide)
+* **RRS Filing Instructions:**[Filing an Application for Approval of a Refund of Surplus to the Employer using RRS](/en/supervision/pensions/administering-pension-plans/guidance-topic/filing-application-approval-refund-surplus-employer-using-regulatory-reporting-system-rrs "Filing an Application for Approval of a Refund of Surplus to the Employer using the Regulatory Reporting System (RRS)")
+* **RRS Sample forms:**[PP8 - Application for a Refund of Surplus to The Employer (sample)](/sites/default/files/2023-10/rfnd_spl_rrs_form.pdf "rfnd_spl_rrs_form.pdf")
+
+## Registrations – Defined Benefit Plans
+
+* **Instruction Guide:**[Registration of a Defined Benefit Pension Plan](/en/supervision/pensions/administering-pension-plans/guidance-topic/registration-defined-benefit-pension-plan "Registration of a Defined Benefit Pension Plan")
+* **Forms:**[OSFI 48DB – Application for the Registration of a Defined Benefit Pension Plan (PDF, 603 KB)](/sites/default/files/documents/DB_osfi48_2022_EN.pdf)
+* **RRS Filing Instructions:**N/A - Submitted via email to [Approvals-Approbations@osfi-bsif.gc.ca](mailto:Approvals-Approbations@osfi-bsif.gc.ca)
+* **RRS Sample forms:**N/A - Submitted via email to [Approvals-Approbations@osfi-bsif.gc.ca](mailto:Approvals-Approbations@osfi-bsif.gc.ca)
+
+## Registrations – Defined Contribution Plans
+
+* **Instruction Guide:**[Registration of a Defined Contribution Pension Plan](/en/supervision/pensions/administering-pension-plans/guidance-topic/registration-defined-contribution-pension-plan "Registration of a Defined Contribution Pension Plan")
+* **Forms:**[OSFI-48DC – Application for the Registration of a Defined Contribution Pension Plan (PDF, 540 KB)](/sites/default/files/documents/DC_osfi48_2022_EN.pdf)
+* **RRS Filing Instructions:**N/A - Submitted via email to [Approvals-Approbations@osfi-bsif.gc.ca](mailto:Approvals-Approbations@osfi-bsif.gc.ca)
+* **RRS Sample forms:**N/A - Submitted via email to [Approvals-Approbations@osfi-bsif.gc.ca](mailto:Approvals-Approbations@osfi-bsif.gc.ca)
+
+## Terminations – Defined Benefit Plans
+
+* **Instruction Guide:**[Termination of a Defined Benefit Pension Plan](/en/supervision/pensions/administering-pension-plans/guidance-topic/termination-defined-benefit-pension-plan "Termination of a Defined Benefit Pension Plan")
+* **Forms:**[Approval Request Form – Termination of a Defined Benefit Pension Plan (PDF, 308 KB)](/sites/default/files/documents/DB-Trm-Form_EN.pdf)
+* **RRS Filing Instructions:**[Filing an Application for Approval of a Defined Benefit Pension Plan Termination Report using RRS](/en/supervision/pensions/administering-pension-plans/guidance-topic/filing-application-approval-defined-benefit-pension-plan-termination-report-using-regulatory "Filing an Application for Approval of a Defined Benefit Pension Plan Termination Report using the Regulatory Reporting System (RRS)")
+* **RRS Sample forms:**[PP4 - Approval Request Return for Defined Benefit Pension Plan Terminations (sample)](/sites/default/files/2023-10/db_trm_rrs_form.pdf "db_trm_rrs_form.pdf")
+
+## Terminations – Defined Contribution Plans
+
+* **Instruction Guide:**[Termination of a Defined Contribution Pension Plan](/en/supervision/pensions/administering-pension-plans/guidance-topic/termination-defined-contribution-pension-plan "Termination of a Defined Contribution Pension Plan")
+* **Forms:**[Standardized Termination Report – Defined Contribution Pension Plans (PDF, 647 KB)](/sites/default/files/documents/DC-Trm-Form_EN.pdf "DC-Trm-Form_EN.pdf")
+* **RRS Filing Instructions:**[Filing an Application for Approval of a Defined Contribution Pension Plan Termination Report using RRS](/en/supervision/pensions/administering-pension-plans/guidance-topic/filing-application-approval-defined-contribution-pension-plan-termination-report-using-regulatory "Filing an Application for Approval of a Defined Contribution Pension Plan Termination Report using the Regulatory Reporting System (RRS)")
+* **RRS Sample forms:**[PP3 - Approval Request Return for Defined Contribution Pension Plan Terminations (sample)](/sites/default/files/2023-10/dc_trm_rrs_form.pdf "dc_trm_rrs_form.pdf")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-01-22

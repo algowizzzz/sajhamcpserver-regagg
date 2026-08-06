@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Adopt a Policy Relating to the Exchange's Treatment of Trade Reports

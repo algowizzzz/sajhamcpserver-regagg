@@ -1,0 +1,131 @@
+` 
+ 
+1 
+ 
+ 
+Memorandum of Understanding  
+between the  
+New York State Department of Financial Services  
+and the  
+New York State Energy Research and Development Authority 
+ 
+THIS Memorandum of Understanding (“MOU”) is made by and between the New York State 
+Department of Financial Services (“DFS”) and t he New York State Energy Research and 
+Development Authority (“NYSERDA”) (each a “Party,” and collectively, the “Parties”). 
+ 
+WHEREAS: 
+ 
+1. DFS regulates and supervises a wide range of financial services institutions, including the 
+state’s insurance market; encourages, promotes, and assists financial services institutions 
+effectively and productively to locate, operate, employ, grow, remain, and expand in and 
+throughout New York; supports innovation, with a goal of improving consumer access and 
+market resiliency; and is committed to ensuring the safety and soundness of the financial 
+sector in the face of financial risks associated with climate change and using its authority 
+over the financial sector to help address the challenges of climate change; and 
+ 
+2. NYSERDA offers objective energy information and analysis, innovative clean energy 
+programs, technical expertise, and support to help all New Yorkers increase energy 
+efficiency, save money, use and benefit from  renewable energy, adopt cleaner modes of 
+transportation, and reduce reliance on fossil fuels, and is a public benefit corporation with 
+the mission to advance energy solutions to protect the environment , fight climate change 
+and create an energy system that is increasingly cleaner, reliable, affordable and equitable; 
+and 
+ 
+3. The Parties intend to cooperate in establishing nation-leading efforts to support New York 
+financial institutions and the nation’s financial sector more broadly  to better assess and 
+manage financial risks associated with climate change, leverage the financial sector to 
+address and mitigate the effects of climate change, support the implementation of New 
+York’s Climate Leadership and Community Protection Act (“CLCPA”), and enhance New 
+York communities’ climate resilience;  
+ 
+NOW THEREFORE, 
+ 
+The parties have reached the following understanding:
+
+` 
+ 
+2 
+ 
+ARTICLE I.  Scope of Cooperation 
+The Parties intend:  
+ 
+1. To cooperate and bring about an innovation program to spur the development of innovative 
+insurance and financial products with potential to de-risk and accelerate the development 
+and deployment of key low-carbon technologies to create green jobs, help meet the State’s 
+CLCPA goals, and enhance community resilience.   
+ 
+2. To cooperate on enhancing the financial sector’s responses to the financial risks posed by 
+climate change by reducing the barriers to forward-looking climate risk assessments, and 
+supporting data and analysis to quantify risks through activities including but  not limited 
+to: industry convening, supporting the development and dissemination of climate risk tools 
+and approaches, building capacity, and sharing best practices and expertise across industry 
+and financial regulators and innovators nationally and internationally. 
+  
+3. To cooperate with respect to cl imate and clean energy  policy and programming in any 
+manner that is mutually agreeable to both Parties and consistent with each Party’s powers 
+and responsibilities; and 
+ 
+4. As appropriate, to share information with respect to any relevant issue involving or 
+related to climate change.  
+ 
+ARTICLE II. Contact Points 
+ 
+To facilitate cooperation under this MOU, each Party will designate a contact point as specified in 
+Appendix 1, which  a Party  may amend from time to time by transmitting revised contact 
+information in writing to the other Party. 
+ 
+ARTICLE III. Nature of MOU 
+ 
+1. This MOU is a statement of intent that is not legally binding and does not create any direct 
+or indirect enforceable right, obligation or liability; nor does it constitute any waiver of 
+immunities or privileges on behalf of either Party or third parties. The Parties will endeavor 
+to fulfill their intents under this MOU so far as consistent with applicable law and policy. 
+ 
+2. This MOU does not amend or supersede any law or regulation or any provision under 
+existing agreements in force and applicable to either Party , nor does it  limit the terms of 
+any future agreement. 
+ 
+3. This MOU does not contemplate roles, responsibilities, or powers beyond those granted to 
+the Parties under law.
+
+` 
+3
+ 
+ARTICLE IV. Entry into Effect, Modification, and Termination 
+1. T
+his MOU will enter into effect on the date when it is signed by both Parties.
+2. T
+his MOU may only be modified in writing and if both Parties agree in writing to do so.
+3. E
+ither Party may terminate this MOU by giving 30 days’ advance written notice to the
+other Party.
+E
+xecuted by the Parties: 
+New York State Department of Fina ncial 
+Services 
+New York State Energy Research and 
+Development Authority 
+/s/ /s/ 
+Superintendent 
+Linda A. Lacewell 
+Acting President and Chief Executive Officer 
+Doreen M. Harris 
+Dated: Dated: 
+A
+ppendix 1: Contact Details 
+DF
+S 
+Y
+ue (Nina) Chen, Director of Sustainability and Climate Initiatives 
+New York State Department of Financial Services  
+One State Street  
+New York, NY  
+nina.chen@dfs.ny.gov  
+NYS
+ERDA 
+J
+ohn Lochner, Vice President, Innovation 
+New York State Energy Research and Development Agency 
+1359 Broadway, 19th Floor,  
+New York, NY 10018 
+John.Lochner@nyserda.ny.gov

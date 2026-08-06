@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-15061",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "ETF Opportunities Trust and Hedgeye Asset Management, LLC",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/27/2026-15061/etf-opportunities-trust-and-hedgeye-asset-management-llc",
+  "reference_number": "2026-15061",
+  "published_date": "2026-07-27",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b6e02bcca8b5e08eeca9700c3c5ddf8e4834c0a6fcc55af48e1aec18974494f4",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-15061",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

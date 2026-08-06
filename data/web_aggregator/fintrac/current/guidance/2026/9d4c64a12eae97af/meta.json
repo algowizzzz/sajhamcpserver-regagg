@@ -1,0 +1,24 @@
+{
+  "doc_id": "9d4c64a12eae97af",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Report suspected sanctions evasion",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/transaction-operation/sanctions/sanctions-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0f865d2ee86a751191f72aa8da044acb411aba046528090dc10a9ed03a568348",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/9d4c64a12eae97af",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

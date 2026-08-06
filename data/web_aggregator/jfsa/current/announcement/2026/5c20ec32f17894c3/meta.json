@@ -1,0 +1,25 @@
+{
+  "doc_id": "5c20ec32f17894c3",
+  "regulator_id": "jfsa",
+  "doc_type": "announcement",
+  "title": "Publication of \"FSA Analytical Notes (2026.2)\" : FSA",
+  "language": "en",
+  "source_url": "https://www.fsa.go.jp/en/about/fsaanalyticalnotes/20260227/20260227.html",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:736cb44b604fbc390fb12de2321e4f8559d34e2a863b55bbd5d69a19d5a1d8f1",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_jfsa_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/jfsa/current/announcement/2026/5c20ec32f17894c3",
+  "tags": [
+    "japan",
+    "banking",
+    "securities"
+  ]
+}

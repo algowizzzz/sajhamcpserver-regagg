@@ -1,0 +1,1824 @@
+﻿<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" dir="ltr">
+<!--<![endif]-->
+<head>
+
+
+
+
+    <meta charset="utf-8">
+    <!-- Version 17.1.1 Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+	<title>XML Batch Reporting Instructions and Specifications</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta name="description" content="Defines the format and specifications for sending reports to FINTRAC by XML batch - General XML specifications.">
+    <meta name="dcterms.title" content="XML Batch Reporting Instructions and Specifications | FINTRAC – Canada.ca  ">
+    <meta name="dcterms.creator" content="Government of Canada, Financial Transactions and Reports Analysis Centre of Canada">
+    <meta name="dcterms.issued" title="W3CDTF" content="2009-10-14">
+    <meta name="dcterms.modified" title="W3CDTF" content="2017-06-29">
+    <meta name="dcterms.subject" title="scheme"  content="Reports; specifications; systems; instructions; information technology; programming; Batch; format; XML; casino">
+    <meta name="dcterms.language" title="ISO639-2"  content="eng">
+
+	<link href="/theme-wet10/gcweb/assets/favicon.ico" rel="icon" type="image/x-icon">
+	<!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">-->
+	<link rel="stylesheet" href="/theme-wet10/gcweb/css/wet-boew.min.css">
+
+	<link rel="stylesheet" href="/theme-wet10/GCWeb/css/theme.min.css">
+    <link rel="stylesheet" href="/scripts/css/fintrac.css">
+	
+	<!--InvitationManager Files -->
+	<link rel="stylesheet" href="/invitation-manager/Overlay.css">
+	<!-- End InvitationManager Files -->
+
+<noscript><link rel="stylesheet" href="/theme-wet10/wet-boew/css/noscript.min.css" /></noscript>
+
+	  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P63QM5N0BY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-P63QM5N0BY');
+  </script>
+
+	
+</head>
+<body vocab="http://schema.org/" typeof="WebPage">
+
+
+
+<nav id='nav'>
+<ul id="wb-tphp">
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-cont">Skip to main content</a>
+</li>
+<li class="wb-slc">
+<a class="wb-sl" href="#wb-info">Skip to 'About government'</a>
+</li>
+</ul>
+</nav>
+
+
+<header>
+<div id="wb-bnr" class="container">
+<div class="row">
+<section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+<h2 class="wb-inv">Language selection</h2>
+<ul class="list-inline mrgn-bttm-0">
+<li>
+<!-- Check this -->
+<a lang="fr" hreflang="fr"  href="/reporting-declaration/XML/mod1XML-fra.php">
+<span class="hidden-xs">Français</span><abbr title="Français" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">fr</abbr></a>
+</li>
+</ul>
+</section>
+<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" resource="#wb-publisher" typeof="GovernmentOrganization">
+
+
+<a href="https://www.canada.ca/en.html" property="url"><img src="/theme-wet10/GCWeb/assets/sig-blk-en.svg" alt="Government of Canada" property="logo"><span class="wb-inv"> / <span lang="fr">Gouvernement du Canada</span></span></a>
+<meta property="name" content="Government of Canada">
+<meta property="areaServed" typeof="Country" content="Canada">
+<link property="logo" href="/theme-wet10/GCWeb/assets/wmms-blk.svg">
+</div>
+<section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+<h2>Search</h2>
+<form action="https://www.canada.ca/en/financial-transactions-reports-analysis/search.html" method="get" name="cse-search-box" role="search">
+<div class="form-group wb-srch-qry">
+<label for="wb-srch-q" class="wb-inv">Search FINTRAC website</label>
+<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Search FINTRAC website">
+<datalist id="wb-srch-q-ac">
+</datalist>
+</div>
+<div class="form-group submit">
+<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+</div>
+</form>
+</section>
+</div>
+</div>
+
+	
+	<nav class="gcweb-menu" typeof="SiteNavigationElement">
+	<div class="container">
+
+	<h2 class="wb-inv">Menu</h2>
+	<button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+	<ul role="menu" aria-orientation="vertical" data-ajax-replace="https://www.canada.ca/content/dam/canada/sitemenu/sitemenu-v2-en.html">
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+	<li role="presentation"><a role="menuitem" href="https://travel.gc.ca/">Travel and tourism</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/health.html">Health</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+	<li role="presentation"><a role="menuitem" href="https://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+	<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/science.html">Science and innovation</a></li>
+	</ul>
+	</div>
+	</nav>
+
+
+<nav id="wb-bc" property="breadcrumb">
+<h2>You are here:</h2>
+<div class="container">
+<ol class="breadcrumb">
+<li><a href='https://www.canada.ca/en.html'>Canada.ca</a> </li><li><a href='/intro-eng'>FINTRAC</a> </li><li><a href='/reporting-declaration/electron-eng'>Methods to report to FINTRAC</a> </li><li><a href='/reporting-declaration/info/f2r-eng'>FINTRAC Web Reporting System</a> </li><li><a href='/reporting-declaration/XML/mod1XML-eng'>XML</a> </li></ol>
+</div>
+</nav>
+</header>
+<main property="mainContentOfPage" resource="#wb-main" class="container" typeof="WebPageElement">
+<h1 id="wb-cont">XML Batch Reporting Instructions and Specifications</h1>
+<p><strong>MODULE 1</strong></p>
+<p><strong>May 30, 2015</strong></p>
+<h2>On this page</h2>
+<p class="mrgn-lft-lg"><a href="#changes">Changes in this Version</a></p>
+        <ol class="mrgn-lft-lg">
+           <li><a href="#s1"><strong>General Information</strong></a></li>
+  <li><a href="#s2"><strong>Acceptance Procedures</strong></a></li>
+  <li><a href="#s3"><strong>Batch Submission, Acknowledgement and Modification</strong></a>
+    <ul class="list-unstyled">
+      <li>3.1 <a href="#s3-1">Batch acknowledgements</a>
+        <ul>
+          <li class="list-unstyled">3.1.1 <a href="#s3-1-1">Accepted batch</a></li>
+          <li class="list-unstyled">3.1.2 <a href="#s3-1-2">Rejected batch</a></li>
+        </ul>
+      </li>
+      <li>3.2 <a href="#s3-2">Reports returned for further action (RRFA)</a></li>
+      <li>3.3 <a href="#s3-3">Modification</a>
+        <ul>
+          <li class="list-unstyled">3.3.1 <a href="#s3-3-1">Corrections by batch</a></li>
+          <li class="list-unstyled">3.3.2 <a href="#s3-3-2">Corrections in F2R</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#s4"><strong>General Specifications</strong></a>
+    <ul class="list-unstyled">
+      <li>4.1 <a href="#s4-1">General format requirements</a>
+        <ul>
+          <li class="list-unstyled">4.1.1 <a href="#s4-1-1">Prerequisites</a></li>
+          <li class="list-unstyled">4.1.2 <a href="#s4-1-2">Character sets</a></li>
+          <li class="list-unstyled">4.1.3 <a href="#s4-1-3">Schema versioning</a></li>
+          <li class="list-unstyled">4.1.4 <a href="#s4-1-4">Conventions used in XML specifications documents</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#s5"><strong>Code Tables</strong></a></li>
+  <li><a href="#s6"><strong>Acknowledgement from FINTRAC</strong></a>
+    <ul class="list-unstyled">
+      <li>6.1 <a href="#s6-1">General acknowledgment layout</a></li>
+      <li>6.2 <a href="#s6-2">General acknowledgement examples</a>
+        <ul>
+          <li class="list-unstyled">6.2.1 <a href="#s6-2-1">Acknowledgement example for an accepted batch</a></li>
+          <li class="list-unstyled">6.2.2 <a href="#s6-2-2">Acknowledgement example for a rejected batch</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#s7"><strong>Reports returned for further action (RRFA)</strong></a>
+    <ul class="list-unstyled">
+      <li>7.1 <a href="#s7-1">RRFA Message Formatting</a></li>
+      <li>7.2 <a href="#s7-2">RRFA message example</a></li>
+    </ul>
+  </li>
+  <li><a href="#s8"><strong>Report Validation and Processing Error Codes</strong></a>
+  	<ul class="list-unstyled">
+    	<li>8.1 <a href="#s8-1">Report validation rules</a></li>
+        <li>8.2 <a href="#s8-2">Batch error codes</a></li>
+    </ul>
+  </li>
+  <li><a href="#s9"><strong>External File Name</strong></a>
+    <ul class="list-unstyled">
+      <li>9.1 <a href="#s9-1">Batch file naming standard</a></li>
+      <li>9.2 <a href="#s9-2">FINTRAC batch acknowledgement naming convention</a></li>
+      <li>9.3 <a href="#s9-3">RRFA batch file naming convention</a></li>
+    </ul>
+  </li>  		  
+        </ol>
+
+
+
+
+<h2 id="changes">Changes in this Version</h2>
+<p><strong>Validation rules</strong></p>
+<p>The acknowledgment file  formatting specifications in Section 6 has changed to include the validation  rule number. This may require programming changes on your part.</p>
+Section  8 of this module has been amended to include information concerning the validation  of reports submitted by batch.
+<h2 id="s1">1 General Information</h2>
+<p>The purpose of this specification document is to provide reporting entities with the requirements and conditions for filing the following reports to the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) using the <strong>XML batch file transfer format</strong>:</p>
+<ul>
+  <li>Casino disbursement reports (CDR)</li>
+</ul>
+<p>The specifications defined in sections 4 and 5 reflect the file characteristics acceptable for submission of XML batch reports. These must be adhered to unless replaced by a revision to this specification document.</p>
+<p>Rather than use a version number for each revision to this module, revisions will show the publishing date, as well as the effective date for the specification change if different from the publishing date.</p>
+<p>This document reflects the provisions of the <em>Proceeds of Crime (Money 
+  Laundering) and Terrorist Financing Act</em> (the Act) and the related Regulations, that is, the <em>Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations</em>. This document is provided as general information only. It is not legal advice, and is not intended to replace the Act and Regulations. For more information about money laundering, terrorist financing or other requirements under the Act and Regulations, including what type of person or entity is a reporting entity, see the appropriate guideline from the Guidelines page of FINTRAC's website. </p>
+<p>Throughout this document, any references to dollar amounts (such as $10,000) refer to the amount in Canadian dollars or its equivalent in foreign currency.</p>
+<h2 id="s2">2 Acceptance Procedures</h2>
+<p>Approval to participate in batch report filing under this version of these specifications is contingent upon the following:</p>
+<ul>
+  <li>Enrolment with FINTRAC</li>
+  <li>Completion of the Public Key Infrastructure (PKI) registration process;</li>
+  <li>Installation and configuration of the batch transmission software; and</li>
+  <li>Successful completion of test submissions in the batch transmission software training channel for each report type to be submitted by batch.</li>
+</ul>
+<p>More information about the PKI registration process and batch transmission software installation can be found in the reporting section of FINTRAC's website<br />
+  (https://fintrac-canafe.canada.ca).</p>
+<p>Each time the format changes for one or more report types that you submit by batch, you will need to go through the acceptance procedure of test submissions. For example, if the format for CDRs changes from "1.0" to "2.0" and you submit CDRs by batch, you will need to submit test submissions for that report type using the new format.</p>
+<p>You (i.e., the transmitter of the batch files) will be asked to perform <strong>test</strong> submissions in a batch transmission software <strong>training channel</strong>, as follows:</p>
+<ul>
+  <li>The test data will consist of a set of reports containing the data that you would normally supply. The test file must contain only one batch header, between 25 and 100 reports and only one batch trailer. A minimum of five test files is required.</li>
+  <li>The formatting of the batch records must adhere to the specifications explained in sections 4 and 5. Otherwise, the batch and/or reports will be rejected. If files are unreadable for reasons such as format problems, error messages will be returned identifying the problem(s) through the batch transmission software process.</li>
+  <li>Reporting entity location numbers used in test reports data must be valid for the reporting entity.</li>
+  <li>Upon receipt of the test data by FINTRAC, it will be processed and an acknowledgement message, along with any error messages, will be returned to you within two working days.</li>
+  <li>If all the reports in four out of five of your test batches are error-free (i.e., they contain the required fields, the file and data fields are formatted correctly and the location numbers are valid), FINTRAC will issue final acceptance for you to begin production submissions. Acceptance will be based on the last five batches submitted to FINTRAC.</li>
+  <li>If a test file is incorrectly formatted or test reports contain a format error or an error in a field that is "mandatory for processing", you will have to submit a new set of test data to FINTRAC. You have to correct these errors before FINTRAC will authorize you to submit production reports.</li>
+</ul>
+<h2 id="s3">3 Batch Submission, Acknowledgement and Modification</h2>
+<p>Currently, batches may be sent to FINTRAC at any time of the day and any day of the week. All batches received by FINTRAC will be acknowledged (see subsection 3.1).</p>
+<p>A separate batch must be submitted for each report type. The physical batch size cannot exceed 5 megabytes, uncompressed.</p>
+<p>The batch file must be placed in the directory in which your batch transmission software is configured to look for files for transfer.</p>
+<p>To submit a new batch of CDRs, see module 2. To respond to a report returned by FINTRAC, see subsection 3.2. To submit a modification, see subsection 3.3. Even if you submit reports by batch, you can choose to process any corrections or deletions for reports through F2R, FINTRAC's secure website. See Section 3.3.2 for more information.</p>
+<h3 id="s3-1">3.1 Batch acknowledgements</h3>
+<p>The batch transmission software will contain a log message that your batch file was sent along with an indication that it was successfully transferred to FINTRAC (although not necessarily processed). Once your batch file is processed by FINTRAC, an acknowledgement file will be returned to you through the batch transmission software. This file will contain an acknowledgement that your batch file was received, the number of reports accepted and any associated error messages. It will <strong>not</strong> include any report content; only batch identifying information and any applicable report error messages.</p>
+<p>Any error messages will contain information referring to the reporting entity report reference number (<strong>OrganizationReportReferenceIdentifier</strong>). The error message will also contain the data element and the associated error code. If the batch cannot be processed, a rejection message will be returned to you through the batch transmission software with batch identifying information and applicable error messages.</p>
+<p>See section 6 for more information about how FINTRAC's acknowledgement messages are formatted, including two examples of a general Batch acknowledgement message.</p>
+<h4 id="s3-1-1">3.1.1 Accepted batch</h4>
+<p>If your batch is accepted, FINTRAC will indicate this in the batch status message (<strong>ExternalFileProcessStatusCode</strong>) in the <strong>ReportSubmissionResponseXmlFile</strong>. The acknowledgement will also contain the number of reports accepted in your batch.</p>
+<p>The acknowledgement will also alert you about any reports requiring correction, as follows:</p>
+<ul>
+  <li>Rejected reports (<strong>ReportRejectCount</strong> and <strong>ReportSubmissionResponseLineItem</strong> of the acknowledgement); or</li>
+  <li>Reports that have been accepted but have errors (<strong>ReportSubmissionResponseLineItem</strong> of the acknowledgement).</li>
+</ul>
+<p>In this case, you will have to correct those reports, as explained in subsection 3.3.</p>
+<h4 id="s3-1-2">3.1.2 Rejected batch</h4>
+<p>If your batch is rejected, it will be indicated in the batch status message (<strong>ExternalFileProcessStatusCode</strong>) in the <strong>ReportSubmissionResponseXmlFile</strong>. This means there are problems with that batch's header, trailer or report format. It also means that the reports included in that batch have not been received by FINTRAC. You will have to resubmit them in a new batch.</p>
+<p>In the case of a rejected batch, FINTRAC will not have any information about the reports it contained. However, if any information is available at the report level, it will be reflected in the <strong>ReportSubmissionResponseLineItem</strong> of your acknowledgement.</p>
+<h3 id="s3-2">3.2 Reports returned for further action (RRFA)</h3>
+<p>If there are data quality issues with your accepted reports, FINTRAC can return those reports to you for adjustment. These are called reports returned for further action (RRFA).</p>
+<p>For each report type that you submit by batch, you can choose to deal with RRFAs through either batch or F2R, as follows:</p>
+<ul>
+    <li>If  you choose to deal with <strong>RRFA by batch</strong>, you will receive an RRFA message  through the batch transmission software, in a similar manner to how you receive  your acknowledgements. See section 7 for more information about how RRFA acknowledgements  are formatted, including an example of an RRFA acknowledgement. If an RRFA is  sent to you in this manner, you will have to correct the affected reports and  re-submit them to FINTRAC as explained in subsection 3.3. Your F2R  administrator will also be notified by email when an RRFA message has been sent  by batch. These returned reports will appear in F2R along with additional  messaging to assist you in understanding the data quality issue, but the  reports must continue to be corrected and re-submitted by batch. </li>
+
+  <li>If you choose to deal with <strong>RRFA through F2R</strong>, your F2R administrator will receive the RRFA notifications. These reports will be available in the RRFA report queue in F2R so that the required corrections can be made and the affected reports re-submitted to FINTRAC.</li>
+</ul>
+<h3 id="s3-3">3.3 Modification</h3>
+<p>The following explains how you can make required modifications to reports that were submitted by batch to FINTRAC.</p>
+<p>Modifications are required in the following instances:</p>
+<ul>
+  <li>If your acknowledgement indicates that a batch is accepted but that there were rejected reports or reports with errors, you will have to modify those reports.</li>
+  <li>If FINTRAC sends you an RRFA, you will have to make the necessary modifications and resubmit that report as soon as possible.</li>
+  <li>You may also need to correct or delete a report for other reasons. For example, if you were to discover that a report contained invalid data or was submitted in error.</li>
+</ul>
+<p>How you modify reports depends on whether you wish to submit the modifications through correction batches or through F2R. You can only choose one of the two methods for a particular type of report, and it will apply to any modification required for all such reports.</p>
+<p>Subsection 3.3.1 applies only if you do <strong>not</strong> choose to process modifications through F2R. This applies to a processed report with errors as well as a rejected report.</p>
+<h4 id="s3-3-1">3.3.1 Corrections by batch</h4>
+<p>To <strong>correct</strong> one or more reports from a previously <strong>accepted</strong> batch, you must submit the complete corrected report with the <strong>ActionCode</strong> = "2" (Change). ALL FIELDS in each corrected report must be completed with the correct information, NOT JUST THE DATA ELEMENTS NEEDING CORRECTION<strong><em>.</em></strong></p>
+<p>To <strong>delete</strong> one or more reports from a previously <strong>accepted</strong> batch, you must submit the report with the <strong>ActionCode</strong> = "5" (Delete). Read the following instructions, depending on the type of report to be deleted:</p>
+<h5>Deleting a CDR</h5>
+<p>To delete a CDR from a previously accepted batch, you need not submit the complete report to be deleted in the correction batch. Only the following elements are to be completed to delete a report:</p>
+<ul>
+  <li><strong>CasinoDisbursementReportXmlFile</strong></li>
+  <li><strong>ReportSubmissionFileHeader</strong></li>
+  <li><strong>CasinoDisbursementReport</strong>
+    <ul>
+      <li><strong>ReportHeader</strong></li>
+    </ul>
+  </li>
+  <li><strong>ReportSubmissionFileTrailer</strong></li>
+</ul>
+<h5>Example of a batch file to delete a report</h5>
+<div>
+  <pre>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;CasinoDisbursementReportXmlFile ModelVersionNumber="1.0"&gt;
+ &lt;ReportSubmissionFileHeader&gt;
+  &lt;SubmitOrganizationNumber&gt;10090&lt;/SubmitOrganizationNumber&gt; 
+  &lt;ExternalFileName&gt;20091010_1101112_CDR.xml &lt;/ExternalFileName&gt; 
+  &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt; 
+  &lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt; 
+  &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt; 
+ &lt;/ReportSubmissionFileHeader&gt;
+ &lt;CasinoDisbursementReport ActionCode="5" 
+ CasinoDisbursementReportSequenceNumber="1"&gt;
+  &lt;ReportHeader&gt;
+   &lt;OrganizationNumber&gt;10090&lt;/OrganizationNumber&gt; 
+   &lt;OrganizationReportReferenceIdentifier&gt; Report01
+   &lt;/OrganizationReportReferenceIdentifier&gt; 
+   &lt;TwentyFourHourRuleCode&gt;0&lt;/TwentyFourHourRuleCode&gt; 
+   &lt;ReportContactInformation&gt;
+    &lt;IndividualName&gt;
+     &lt;Surname&gt;Le Caré&lt;/Surname&gt; 
+     &lt;GivenName&gt;John&lt;/GivenName&gt; 
+    &lt;/IndividualName&gt;
+    &lt;BusinessTelephone&gt;
+     &lt;TelephoneNumber&gt;613-888-8888&lt;/TelephoneNumber&gt; 
+    &lt;/BusinessTelephone&gt;
+   &lt;/ReportContactInformation&gt;
+  &lt;/ReportHeader&gt;
+ &lt;/CasinoDisbursementReport&gt;
+ &lt;ReportSubmissionFileTrailer&gt;
+  &lt;ReportCount&gt;1&lt;/ReportCount&gt; 
+ &lt;/ReportSubmissionFileTrailer&gt;
+&lt;/CasinoDisbursementReportXmlFile&gt;
+	</pre>
+</div>
+<h4 id="s3-3-2">3.3.2 Corrections in F2R</h4>
+<p>F2R is the interface through which you will be able to administer your locations and user information and send non-batch reports to FINTRAC.</p>
+<p>If you select this as an option upon your enrolment with FINTRAC for a particular report type (CDR, STR, LCTR or EFTO and EFTI reports), you can process modifications required to your reports of that type through F2R. If you choose this option, reports returned for further action (RRFAs) will be sent to you via F2R. </p>
+<p>You will be able to access previously accepted reports in F2R using the reporting entity report reference number. You will access report content to process your corrections.</p>
+<p>For more information about FINTRAC's enrolment process and use of F2R, contact FINTRAC.</p>
+<h2 id="s4">4 General Specifications</h2>
+<h3 id="s4-1">4.1 General format requirements</h3>
+<p>The following information describes the general formatting specifications for completing reports using the XML batch file transfer format.</p>
+<h4 id="s4-1-1">4.1.1 Prerequisites</h4>
+<p>The reader of this document should have the following:</p>
+<ul>
+  <li>in-depth knowledge of XML (http://www.w3.org)</li>
+  <li>in-depth knowledge of XML schemas</li>
+</ul>
+<p>Submitting your information to FINTRAC via batch involves creating an XML file formatted according to FINTRAC's XML schema. The schema is a file that defines rules by which the XML file must be constructed. It specifies which fields are required and which are optional. To some extent, it constrains the makeup of the data that can be included in the XML file. The schema file will be provided to you by FINTRAC. Use it to validate your XML batch files prior to submitting them to FINTRAC. </p>
+<h4 id="s4-1-2">4.1.2 Character sets</h4>
+<p>FINTRAC XML specification documents use the UTF-8 charset using code page 10646 as the default character encoding mechanism.</p>
+<h4 id="s4-1-3">4.1.3 Schema versioning</h4>
+<p>The version number is an integral part of the message name.</p>
+<h4 id="s4-1-4">4.1.4    Conventions used in XML specifications documents</h4>
+<p>The following conventions are used in FINTRAC's XML specifications documents:</p>
+<h5>GENERAL FORMAT REQUIREMENTS</h5>
+<table class="table table-bordered">
+  <caption class="wb-inv">GENERAL FORMAT REQUIREMENTS</caption>
+  <tr>
+    <th scope="col">Format Element</th>
+    <th scope="col">Comment</th>
+  </tr>
+  <tr>
+    <td><p> <img src="images/Mod1/image001.jpg" alt="sequence with mandatory and optional elements" /></p></td>
+    <td><p>Indicates a sequence with mandatory and optional elements</p></td>
+  </tr>
+  <tr>
+    <td><p><img src="images/Mod1/image002.jpg" alt="required element" /></p></td>
+    <td><p>Required element</p></td>
+  </tr>
+  <tr>
+    <td><p><img src="images/Mod1/image003.jpg" alt="optional element"/></p></td>
+    <td><p>Optional element</p></td>
+  </tr>
+  <tr>
+    <td><p> <img src="images/Mod1/image004.jpg" alt="required sub node" /></p></td>
+    <td><p>Required sub node</p></td>
+  </tr>
+  <tr>
+    <td><p><img src="images/Mod1/image005.jpg" alt="optional sub node"/></p></td>
+    <td><p>Optional sub node, 0 to N values</p></td>
+  </tr>
+  <tr>
+    <td><p><img src="images/Mod1/image006.jpg"  alt="optional"/></p></td>
+    <td><p>Optional, but one of the two nodes should be provided</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Date</strong></td>
+    <td><p>YYYYMMDD (year/month/day)</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Time</strong></td>
+    <td><p>HHMMSS - Use the 24-hour clock<br />
+        Hour (from 00 to 23), minutes (from 00 to 59) and seconds (from 00 to 59).<br />
+        Examples: 1 o'clock PM = 130000 or 2:45 PM = 144500.</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Address</strong></td>
+    <td><p>If there is an apartment, suite or unit number, place the number at the start of the street address.<br />
+        Enter entire names or use codes from appropriate code tables (see section 5).<br />
+        If the address is in Canada, the appropriate fields must contain a valid Canadian province or territory and a postal code. If the address is in the United States or Mexico, the appropriate field must contain a valid state, and in the case of an address in the United States, a valid zip code. Refer to the relevant code tables (see section 5) for provinces, territories and states. <br />
+        If the address is outside Canada and the United States and has no province/state or postal/zip code, those elements can be empty.</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Postal codes</strong></td>
+    <td><p>No embedded spaces or dashes (-).<br />
+        Canada: X9X9X9<br />
+        US: 99999 or 999999999</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Telephone numbers</strong></td>
+    <td><p>Must include area codes<br />
+        Canada and US: 999-999-9999<br />
+        For others, include country code, city code and local number: 999-9999-9999-9999</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Reporting entity report reference number</strong></td>
+    <td><p>Can contain letters from A to Z and numbers from 0 to 9. Do <strong>not</strong> use any special characters, such as "-", "#", etc., in this reference number.<br />
+        Each report submitted by the same reporting entity has to have a unique number. In this context, the upper case of any letter is considered the same as the lower case of that letter. For example, a report reference number of ABC123 is considered the same as the report reference number abc123.</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Decimal place</strong></td>
+    <td><p>For an amount of money, the format requires a fixed decimal place, with two decimal places.<br />
+        Do not include currency indicator (such as, "&pound;", "&euro;" or "$").<br />
+        FINTRAC will only accept '.' as a decimal place notation.<br />
+        For example, 12345.00 represents the amount of $12,345.00</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Alpha character</strong></td>
+    <td><p>Upper case and lower case letters</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Numeric character</strong></td>
+    <td><p>Numbers from 0 to 9</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>Character</strong></td>
+    <td><p>Any character accepted under the UTF-8 charset can be used except for the following five predeclared entities that must be escaped:</p>
+      <p><strong>&amp;</strong> or "ampersand" &amp;amp;<br />
+        <strong>&lt;</strong> or "less than" &amp;lt;<br />
+        <strong>&gt;</strong> or "greater than" &amp;gt;<br />
+        <strong>'</strong> or "apostrophe" &amp;apos;<br />
+        <strong>"</strong> or "quotation mark" &amp;quot; </p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>SequenceNumber</strong></td>
+    <td><p>The first sequence number for a particular element should begin at "1". Use "2" for the second sequence number, etc.</p></td>
+  </tr>
+  <tr>
+    <td class="text-center"><strong>*</strong></td>
+    <td><p>Denotes a mandatory field as prescribed in the Regulations.</p></td>
+  </tr>
+</table>
+<br />
+<h2 id="s5">5 Code Tables</h2>
+<p>The following code tables are available for download from the technical documentation area in the publications section of FINTRAC's website:</p>
+<ul>
+  <li>
+    <p>Country codes based on ISO 3166</p>
+  </li>
+  <li>Province/territory or state codes
+    <ul>
+      <li>Canadian province or territory codes</li>
+      <li>Mexican State codes</li>
+      <li>
+        <p>United States (U.S.) State codes</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Currency codes<br />
+      The rows without shading (or without brackets in txt format) in this table contain current currency codes on ISO 4217. The shaded rows (or the rows with brackets in txt format) provide retired codes that are not on the current ISO 4217 list.</p>
+  </li>
+  <li>
+    <p>Commonly used terms<br />
+      All the abbreviations listed in this table are singular. They may be changed from singular to plural by the addition of the letter 's'</p>
+  </li>
+  <li>
+    <p>Commonly used address terms</p>
+  </li>
+</ul>
+<h2 id="s6">6 Acknowledgement from FINTRAC</h2>
+<h3 id="s6-1">6.1 General acknowledgment layout</h3>
+<p>The following tables outline the format for the acknowledgement files sent to you once a batch has been processed by FINTRAC.</p>
+<h4>?xml (XML declaration)</h4>
+<table class="table table-bordered">
+  <caption class="wb-inv">Acknowledgement from FINTRAC</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the top level XML declaration which specifies the version of XML being used.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td><p><strong>version</strong>:<br />
+        fixed: "1.0"<br />
+        <strong>encoding</strong>:<br />
+        fixed: "UTF-8"</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per submission instance</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>This declaration is required to be <strong>alone</strong> on the first line of the file. The version number and encoding are fixed to the version of the schema.</p></td>
+  </tr>
+</table>
+<h4>ReportSubmissionResponseXmlFile (Root element)</h4>
+<p><img src="images/Mod1/image007.gif" alt="ReportSubmissionResponseXmlFile" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">ReportSubmissionResponseXmlFile (Root element)</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the container for the following batch file contents:<br />
+        <strong>ReportSubmissionResponseFileHeader</strong><br />
+        <strong>ReportSubmissionResponseLineItem</strong><br />
+        <strong>ReportSubmissionResponseFileTrailer</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per submission instance</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReportSubmissionResponseXmlFile&gt;&#8230;&lt;/ReportSubmissionResponseXmlFile&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReportSubmissionResponseFileHeader (Batch header)</h4>
+<p><img src="images/Mod1/image008.gif" alt="ReportSubmissionResponseFileHeader" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Batch header</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the container for the report acknowledgement file contents.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per <strong>ReportSubmissionResponseXmlFile</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><pre>&lt;ReportSubmissionResponseFileHeader&gt;
+                 &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+                 &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+                 &lt;ExternalFileSequenceNumber&gt;1&lt;/ExternalFileSequenceNumber&gt;
+                 &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+                 &lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt;
+                 &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+                 &lt;ExternalFileStatusCode&gt;1&lt;/ExternalFileStatusCode&gt;
+                 &lt;ReportAcceptCount&gt;750&lt;/ReportAcceptCount&gt;
+                 &lt;ReportRejectCount&gt;0&lt;/ReportRejectCount&gt;
+                &lt;/ReportSubmissionResponseFileHeader&gt;
+			</pre></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>This element uniquely identifies the XML batch file submitted to FINTRAC that is the subject of the acknowledgement file from FINTRAC.</p></td>
+  </tr>
+</table>
+<h4>SubmitOrganizationNumber (Organization's identifier number)</h4>
+<p><img src="images/Mod1/image009.gif" alt="SubmitOrganizationNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Organization's identifier number</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the identifier number assigned to the individual or institution who transmitted the file being acknowledged.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 7 numeric characters<br />
+        One per <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ExternalFileName (Batch file name)</h4>
+<p><img src="images/Mod1/image010.gif" alt="ExternalFileName" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Batch file name</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the identifier for the batch report file being acknowledged.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 80 characters<br />
+        One per <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ExternalFileName&gt;20091010_1101112_CDR.xml&lt;/ExternalFileName&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>Names should not contain spaces or dashes</p></td>
+  </tr>
+</table>
+<h4>ExternalFileSequenceNumber (Batch sequence number)</h4>
+<p><img src="images/Mod1/image011.gif" alt="ExternalFileSequenceNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Batch sequence number</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This number represents the "n<sup>th</sup>" time the external file name was submitted to FINTRAC.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 80 characters<br />
+        One per <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ExternalFileSequenceNumber&gt;1&lt;/ExternalFileSequenceNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReportTypeCode (Report type)</h4>
+<p><img src="images/Mod1/image012.gif" alt="ReportTypeCode" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Report type</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the code used to identify the type of report.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        2 numeric characters<br />
+        One per <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>Code:<br />
+        13 - Casino Disbursement Report</p></td>
+  </tr>
+</table>
+<h4>OperationModeCode (Operational mode)</h4>
+<p><img src="images/Mod1/image013.gif" alt="OperationModeCode" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Operational mode</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the code used to identify which transmission channel was used to submit the file being acknowledged.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 numeric character<br />
+        One per <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>Codes:<br />
+        2 - Production<br />
+        1 - Test (in a  batch transmission software training channel)</p></td>
+  </tr>
+</table>
+<h4>PKICertificateNumber (PKI certificate ID)</h4>
+<p><img src="images/Mod1/image014.gif" alt="PKICertificateNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">PKI certificate ID</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the PKI certificate identifier number used to submit the file being acknowledged.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        10 numeric characters<br />
+        One per <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ExternalFileStatusCode (Batch status message)</h4>
+<p><img src="images/Mod1/image015.gif" alt="ExternalFileStatusCode" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Batch status message</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the processing status code to indicate whether the batch file has been accepted or rejected.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 numeric character<br />
+        One per <strong>ReportSubmissionResponseFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>ExternalFileStatusCode&gt;1&lt;/ExternalFileStatusCode&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>Codes:<br />
+        1 - Accepted<br />
+        2 -  Rejected</p></td>
+  </tr>
+</table>
+<h4>ReportAcceptCount (Reports accepted)</h4>
+<p><img src="images/Mod1/image016.gif" alt="ReportAcceptCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Reports accepted</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the number of reports accepted.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        0 to 999999999 numeric characters<br />
+        One per <strong>ReportSubmissionReportResponseFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReportAcceptCount&gt;750&lt;/ReportAcceptCount&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReportRejectCount (Reports rejected)</h4>
+<p><img src="images/Mod1/image017.gif" alt="ReportRejectCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Reports rejected</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the number of reports rejected.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        0 to 999999999 numeric characters<br />
+        One per <strong>ReportSubmissionReportResponseFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReportRejectCount&gt;0&lt;/ReportRejectCount&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReportSubmissionResponseLineItem (Messages on accepted reports, reports in error and reports rejected (for accepted batches only))</h4>
+<p> <img src="images/Mod1/image018.gif" alt="ReportSubmissionResponseLineItem" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Messages on accepted reports, reports in error and reports rejected (for accepted batches only)</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the container for information about the error or warning messages for a report.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per <strong>ReportSubmissionResponseXmlFile</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><pre>&lt;ReportSubmissionResponseLineItem&gt;
+ &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/
+ CasinoDisbursementReport[2]/CasinoTransaction[1]/
+CasinoTransactionDetail/TransactionDate&lt;/XmlDataElementName&gt;
+ &lt;MessageNumber&gt;303&lt;/MessageNumber&gt;
+ &lt;OrganizationReportReferenceIdentifier&gt;Report02
+ &lt;/OrganizationReportReferenceIdentifier&gt;
+&lt;/ReportSubmissionResponseLineItem&gt;
+			</pre></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>XmlDataElementName (XML element name)</h4>
+<p><img src="images/Mod1/image019.gif" alt="XmlDataElementName" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">XML element name</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the name of the element to which the message relates.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 400 characters<br />
+        One per <strong>ReportSubmissionResponseLineItem</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/<br />
+      CasinoDisbursementReport[2]/CasinoTransaction[1]/CasinoTransactionDetail/<br />
+      TransactionDate&lt;/XmlDataElementName&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>The number with the square brackets indicates the index of the element within the XML. In the example, the error was caused by the first transaction within the second report.</p></td>
+  </tr>
+</table>
+<h4>MessageNumber (Validation message)</h4>
+<p><img src="images/Mod1/image020.gif" alt="MessageNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Validation message</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the error message code identifying the applicable issue. See section 8 for information about these messages.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        3 numeric characters<br />
+        One per <strong>ReportSubmissionResponseLineItem</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;MessageNumber&gt;303&lt;/MessageNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>OrganizationReportReferenceIdentifier (Reporting entity report reference number)</h4>
+<p> <img src="images/Mod1/image021.gif" alt="OrganizationReportReferenceIdentifier" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Reporting entity report reference number</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the unique report reference number of the report.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 20 characters<br />
+        One per <strong>ReportSubmissionResponseLineItem</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;OrganizationReportReferenceIdentifier&gt;Report02<br />
+      &lt;/OrganizationReportReferenceIdentifier&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+
+<h4>ValidationRuleNumber (Validation rule that caused the validation message)</h4>
+<p> <img src="images/Mod1/validation.gif" alt="ValidationRuleNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Validation rule that caused the validation message</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the validation rule number identifying the applicable issue. See section 8.1 for information about these message rules.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for  processing <br>
+9 numeric characters<br>
+One  per <strong>ReportSubmissionResponseLineItem</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ValidationRuleNumber&gt;200030&lt;/ValidationRuleNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+
+<h4>ReportSubmissionResponseFileTrailer (Batch file trailer)</h4>
+<p> <img src="images/Mod1/image022.gif" alt="ReportSubmissionResponseFileTrailer" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Batch file trailer</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the container for the acknowledgement file trailer.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per <strong>ReportSubmissionResponseXmlFile</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><pre>
+&lt;ReportSubmissionResponseFileTrailer&gt;
+ &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+&lt;/ReportSubmissionResponseFileTrailer&gt;</pre></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ResponseLineItemCount (Message count)</h4>
+<p><img src="images/Mod1/image023.gif" alt="ResponseLineItemCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Message count</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the total number of <strong>ReportSubmissionLineItem</strong> records contained in the acknowledgement file.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        0 to 999999999 numeric characters<br />
+        One per <strong>ReportSubmissionResponseFileTrailer</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h3 id="s6-2">6.2 General acknowledgement example</h3>
+<h4 id="s6-2-1">6.2.1 Acknowledgement example for an accepted batch</h4>
+<div>
+  <pre>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;ReportSubmissionResponseXmlFile&gt;
+ &lt;ReportSubmissionResponseFileHeader&gt;
+  &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+  &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+  &lt;ExternalFileSequenceNumber&gt;1&lt;/ExternalFileSequenceNumber&gt;
+  &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+  &lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt;
+  &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+  &lt;ExternalFileStatusCode&gt;1&lt;/ExternalFileStatusCode&gt;
+  &lt;ReportAcceptCount&gt;750&lt;/ReportAcceptCount&gt;
+  &lt;ReportRejectCount&gt;0&lt;/ReportRejectCount&gt;
+ &lt;/ReportSubmissionResponseFileHeader&gt;
+ &lt;ReportSubmissionResponseLineItem&gt;
+  &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/
+  CasinoDisbursementReport[2]/CasinoTransaction[1]/
+CasinoTransactionDetail/TransactionDate&lt;/XmlDataElementName&gt;
+  &lt;MessageNumber&gt;303&lt;/MessageNumber&gt;
+  &lt;OrganizationReportReferenceIdentifier&gt;Report02
+  &lt;/OrganizationReportReferenceIdentifier&gt;
+ &lt;/ReportSubmissionResponseLineItem&gt;
+ &lt;ReportSubmissionResponseFileTrailer&gt;
+  &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+ &lt;/ReportSubmissionResponseFileTrailer&gt;
+&lt;/ReportSubmissionResponseXmlFile&gt; 
+	</pre>
+</div>
+<h4 id="s6-2-2">6.2.2 Acknowledgement example for a rejected batch</h4>
+<div>
+  <pre>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;ReportSubmissionResponseXmlFile&gt;
+ &lt;ReportSubmissionResponseFileHeader&gt;
+  &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+  &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+  &lt;ExternalFileSequenceNumber&gt;1&lt;/ExternalFileSequenceNumber&gt;
+  &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+  &lt;OperationModeCode&gt;2&lt;/OperationModeCode&gt;
+  &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+  &lt;ExternalFileStatusCode&gt;2&lt;/ExternalFileStatusCode&gt;
+  &lt;ReportAcceptCount&gt;0&lt;/ReportAcceptCount&gt;
+  &lt;ReportRejectCount&gt;1&lt;/ReportRejectCount&gt;
+ &lt;/ReportSubmissionResponseFileHeader&gt;
+ &lt;ReportSubmissionResponseLineItem&gt;
+  &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile&lt;/XmlDataElementName&gt;
+  &lt;MessageNumber&gt;412&lt;/MessageNumber&gt;
+  &lt;OrganizationReportReferenceIdentifier&gt;&lt;/OrganizationReportReferenceIdentifier&gt;<a href="#f2" id="n2"><sup>1</sup></a>
+ &lt;/ReportSubmissionResponseLineItem&gt;
+ &lt;ReportSubmissionResponseFileTrailer&gt;
+  &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+ &lt;/ReportSubmissionResponseFileTrailer&gt;
+&lt;/ReportSubmissionResponseXmlFile&gt;
+	</pre>
+</div>
+<h2 id="s7">7 Reports Returned for Further Action (RRFA)</h2>
+<h3 id="s7-1">7.1 RRFA Message Formatting</h3>
+<p>The following tables outline the format for RRFA files that will be sent to you by FINTRAC if you choose to deal with RRFA by batch for reports that were originally submitted by batch.</p>
+<h4>?xml (XML declaration)</h4>
+<table class="table table-bordered">
+<caption class="wb-inv">XML declaration</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the top level XML declaration which specifies the version of XML being used.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td><p><strong>version</strong>:<br />
+        fixed: "1.0"<br />
+        <strong>encoding</strong>:<br />
+        fixed: "UTF-8"</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per submission instance</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>This declaration is required to be <strong>alone</strong> on the first line of the file. The version number and encoding are fixed to the version of the schema.</p></td>
+  </tr>
+</table>
+<h4>ReportReturnForFurtherActionXmlFile (Root element)</h4>
+<p> <img src="images/Mod1/image024.gif" alt="ReportReturnForFurtherActionXmlFile" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Root element</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the container for the following batch file contents:<br />
+        <strong>ReportReturnForFurtherActionFileHeader</strong><br />
+        <strong>ReportReturnForFurtherActionLineItem</strong><br />
+        <strong>ReportReturnForFurtherActionFileTrailer</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per submission instance</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReportReturnForFurtherActionXmlFile&gt;&#8230;&lt;/ReportReturnForFurtherActionXmlFile&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReportReturnForFurtherActionFileHeader (Batch header)</h4>
+<p> <img src="images/Mod1/image025.gif" alt="ReportReturnForFurtherActionFileHeader" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Batch header</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the container for the RRFA file contents.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per <strong>ReportForFurtherActionXmlFile</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><pre>&lt;ReportReturnForFurtherActionFileHeader&gt;
+ &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+ &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+ &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+ &lt;ReturnReportForFurtherActionIdentifierNumber&gt;125
+ &lt;/ReturnReportForFurtherActionIdentifierNumber&gt;
+ &lt;ReturnReportSummaryText&gt;Please correct the following information &hellip;
+ &lt;/ReturnReportSummaryText&gt;
+ &lt;ReturnReportDueDate&gt;20091112&lt;/ReturnReportDueDate&gt;
+ &lt;ReturnReportCount&gt;20&lt;/ReturnReportCount&gt;
+ &lt;QualityIssueCount&gt;45&lt;/QualityIssueCount&gt;
+ &lt;ExternalFileInvolveCount&gt;45&lt;/ExternalFileInvolveCount&gt;
+&lt;/ReportReturnForFurtherActionFileHeader&gt;
+			</pre></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>This element uniquely identifies the XML RRFA batch file submitted to you from FINTRAC.</p></td>
+  </tr>
+</table>
+<h4>SubmitOrganizationNumber (Reporting entity's identifier number)</h4>
+<p><img src="images/Mod1/image009.gif" alt="SubmitOrganizationNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Reporting entity's identifier number</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the identifier number assigned to the individual or institution who transmitted the file with the reports being returned.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 7 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReportTypeCode (Report type)</h4>
+<p><img src="images/Mod1/image012.gif" alt="ReportTypeCode" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Report type</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the code used to identify the type of report.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        2 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>Code:<br />
+        13 - Casino Disbursement Report</p></td>
+  </tr>
+</table>
+<h4>PkiCertificateNumber (PKI certificate ID)</h4>
+<p><img src="images/Mod1/image014.gif" alt="PkiCertificateNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">PKI certificate ID</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the PKI certificate identifier number used to submit the reports being returned.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        10 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReturnReportForFurtherActionIdentifierNumber (RRFA ID number)</h4>
+<p> <img src="images/Mod1/image026.gif" alt="ReturnReportForFurtherActionIdentifierNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">RRFA ID number</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>FINTRAC's numeric identifier for the RRFA.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        9 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReturnReportForFurtherActionIdentifierNumber&gt;125<br />
+      &lt;/ReturnReportForFurtherActionIdentifierNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReturnReportSummaryText (RRFA summary text)</h4>
+<p><img src="images/Mod1/image027.gif" alt="ReturnReportSummaryText" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">RRFA summary text</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the explanation of what issues need to be addressed.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        unlimited<br />
+        One per <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReturnReportSummaryText&gt;Please correct the following information &#8230;&lt;/ReturnReportSummaryText&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReturnReportDueDate (RRFA due date)</h4>
+<p><img src="images/Mod1/image028.gif" alt="ReturnReportDueDate" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">RRFA due date</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the date by which the corrected reports should be submitted to FINTRAC.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        8 characters<br />
+        One per <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReturnReportDueDate&gt;20091112&lt;/ReturnReportDueDate&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReturnReportCount (Number of reports returned)</h4>
+<p><img src="images/Mod1/image029.gif" alt="ReturnReportCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Number of reports returned</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the total number of reports returned.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 999999999 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReturnReportCount&gt;20&lt;/ReturnReportCount&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>QualityIssueCount (Number of quality issues)</h4>
+<p><img src="images/Mod1/image030.gif" alt="QualityIssueCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Number of quality issues</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the total number of data quality issues for all reports included in the RRFA.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 999999999 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;QualityIssueCount&gt;45&lt;/QualityIssueCount&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ExternalFileInvolveCount (Number of batches involved)</h4>
+<p><img src="images/Mod1/image031.gif" alt="ExternalFileInvolveCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Number of batches involved</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>The total number of batches involved.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        0 to 999999999 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionFileHeader</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ExternalFileInvolveCount&gt;45&lt;/ExternalFileInvolveCount&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReportReturnForFurtherActionLineItem (Data quality issues messages)</h4>
+<p> <img src="images/Mod1/image032.gif" alt="ReportReturnForFurtherActionLineItem" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Data quality issues messages</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>The container for information related to the individual data quality issue.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per <strong>ReportForFurtherActionXmlFile</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><pre>&lt;ReportReturnForFurtherActionLineItem&gt;
+ &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+ &lt;ExternalFileNameSequenceNumber&gt;21
+ &lt;/ExternalFileNameSequenceNumber&gt;
+ &lt;OrganizationReportReferenceIdentifier&gt;Report04
+ &lt;/OrganizationReportReferenceIdentifier&gt;         
+ &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/
+ CasinoDisbursementReport[4]/CasinoTransaction[1]/
+CasinoTransactionDetail/TransactionDate&lt;/XmlDataElementName&gt;
+ &lt;MessageNumber&gt;306&lt;/MessageNumber&gt;
+&lt;/ReportReturnForFurtherActionLineItem&gt;
+			</pre></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ExternalFileName (Batch file name)</h4>
+<p><img src="images/Mod1/image010.gif" alt="ExternalFileName" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Batch file name</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the identifier for the batch report file to which the returned report belonged.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 80 characters<br />
+        One per <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ExternalFileName&gt;20091010_1101112_CDR.xml&lt;/ExternalFileName&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>Names should not contain spaces or dashes</p></td>
+  </tr>
+</table>
+<h4>ExternalFileNameSequenceNumber (Batch sequence number)</h4>
+<p> <img src="images/Mod1/image033.gif" alt="ExternalFileNameSequenceNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Batch sequence number</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This number represents the n<sup>th</sup> time the external file was submitted to FINTRAC.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 999999999 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ExternalFileNameSequenceNumber&gt;21&lt;/ExternalFileNameSequenceNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>OrganizationReportReferenceIdentifier (Reporting entity report reference number)</h4>
+<p> <img src="images/Mod1/image021.gif" alt="OrganizationReportReferenceIdentifier" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Reporting entity report reference number</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the unique report reference number of report the report.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 20 characters<br />
+        One per <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;OrganizationReportReferenceIdentifier&gt;Report04<br />
+      &lt;/OrganizationReportReferenceIdentifier&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+
+<h4>XmlDataElementName (XML element name)</h4>
+<p><img src="images/Mod1/image019.gif" alt="XmlDataElementName" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">XML element name</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the name of the element to which the message relates.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 400 characters<br />
+        One per <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/<br />
+      CasinoDisbursementReport[4]/CasinoTransaction[1]/CasinoTransactionDetail/<br />
+      TransactionDate&lt;/XmlDataElementName&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td><p>The number with the square brackets indicates the index of the element within the XML. In the example, the data quality issue can be found in the first transaction within the fourth report.</p></td>
+  </tr>
+</table>
+<h4>MessageNumber (Data quality message number)</h4>
+<p><img src="images/Mod1/image020.gif" alt="MessageNumber" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Data quality message number</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the error message code identifying the applicable issue. See section 8 for information about these messages.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        3 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionLineItem</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;MessageNumber&gt;306&lt;/MessageNumber&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReportReturnForFurtherActionFileTrailer (Batch trailer)</h4>
+<p> <img src="images/Mod1/image034.gif" alt="ReportReturnForFurtherActionFileTrailer" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Batch trailer</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the container for the RRFA file trailer.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        One per<strong>ReportForFurtherActionXmlFile</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><pre>
+&lt;ReportReturnForFurtherActionFileTrailer&gt;
+ &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+&lt;/ReportReturnForFurtherActionFileTrailer&gt;
+			</pre></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h4>ReportLineItemCount (Message count)</h4>
+<p><img src="images/Mod1/image035.gif" alt="ReportLineItemCount" /></p>
+<table class="table table-bordered">
+<caption class="wb-inv">Message count</caption>
+  <tr>
+    <th scope="row">Definition:</th>
+    <td><p>This is the total number of <strong>ResponseLineItem</strong> records contained in the RRFA file.</p></td>
+  </tr>
+  <tr>
+    <th scope="row">Attributes:</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th scope="row">Limits:</th>
+    <td><p>Mandatory for processing<br />
+        1 to 999999999 numeric characters<br />
+        One per <strong>ReportReturnForFurtherActionFileTrailer</strong></p></td>
+  </tr>
+  <tr>
+    <th scope="row">Example:</th>
+    <td><code>&lt;ReportLineItemCount&gt;1&lt;/ReportLineItemCount&gt;</code></td>
+  </tr>
+  <tr>
+    <th scope="row">Remarks:</th>
+    <td></td>
+  </tr>
+</table>
+<h3 id="s7-2">7.2 RRFA message example</h3>
+<div>
+  <pre>
+        &lt;?xml version="1.0" encoding="UTF-8"?&gt;
+        &lt;ReportReturnForFurtherActionXmlFile&gt;
+         &lt;ReportReturnForFurtherActionFileHeader&gt;
+          &lt;SubmitOrganizationNumber&gt;987654&lt;/SubmitOrganizationNumber&gt;
+          &lt;ReportTypeCode&gt;13&lt;/ReportTypeCode&gt;
+          &lt;PkiCertificateNumber&gt;1211379999&lt;/PkiCertificateNumber&gt;
+          &lt;ReturnReportForFurtherActionIdentifierNumber&gt;125
+          &lt;/ReturnReportForFurtherActionIdentifierNumber&gt;
+          &lt;ReturnReportSummaryText&gt;Please correct the following information &#8230;
+          &lt;/ReturnReportSummaryText&gt;
+          &lt;ReturnReportDueDate&gt;20091112&lt;/ReturnReportDueDate&gt;
+          &lt;ReturnReportCount&gt;20&lt;/ReturnReportCount&gt;
+          &lt;QualityIssueCount&gt;45&lt;/QualityIssueCount&gt;
+          &lt;ExternalFileInvolveCount&gt;45&lt;/ExternalFileInvolveCount&gt;
+         &lt;/ReportReturnForFurtherActionFileHeader&gt;
+         &lt;ReportReturnForFurtherActionLineItem&gt;
+          &lt;ExternalFileName&gt;20090928_223915_CDR.XML&lt;/ExternalFileName&gt;
+          &lt;ExternalFileNameSequenceNumber&gt;21&lt;/ExternalFileNameSequenceNumber&gt;
+          &lt;OrganizationReportReferenceIdentifier&gt;Report04
+          &lt;/OrganizationReportReferenceIdentifier&gt; 
+          &lt;XmlDataElementName&gt;CasinoDisbursementReportXMLFile/
+          CasinoDisbursementReport[4]/CasinoTransaction[1]/
+        CasinoTransactionDetail/TransactionDate&lt;/XmlDataElementName&gt;
+          &lt;MessageNumber&gt;306&lt;/MessageNumber&gt;
+         &lt;/ReportReturnForFurtherActionLineItem&gt;
+         &lt;ReportReturnForFurtherActionFileTrailer&gt;
+          &lt;ResponseLineItemCount&gt;1&lt;/ResponseLineItemCount&gt;
+         &lt;/ReportReturnForFurtherActionFileTrailer&gt;
+        &lt;/ReportReturnForFurtherActionXmlFile&gt;</pre>
+</div>
+<h2 id="s8">8 8	Report Validation and Processing Error Codes</h2>
+<h3 id="s8-1">8.1	Report validation rules</h3>
+<p>Report validation rules apply at the  field level to reports within an accepted batch to ensure that reports are  error-free (i.e., they contain the required fields, the fields are formatted  correctly, and the data is valid). Validation rule messages (<strong>ValidationRuleNumber</strong>)  are included as part of the <strong>ReportSubmissionResponseLineItem</strong> in the batch acknowledgement file to identify rejected reports and provide  warnings about accepted reports based on these validation rules. </p>
+<p>A report validation rules table is  available for download in the technical documentation area of FINTRAC's website  at https://fintrac-canafe.canada.ca.  The table provides a description of the validation applied to each field within  the reports. </p>
+<h3 id="s8-2">8.2	Batch error codes</h3>
+<p>Batch processing error codes (<strong>MessageNumber</strong>) are included as part of the <strong>ReportSubmissionResponseLineItem</strong> in the batch acknowledgement file from FINTRAC. Error codes are also as part of the <strong>MessageNumber</strong> of the RRFA file to identify quality issues. A code table for these error messages is available for download, along with other code tables, in the technical publications area of the publications section of FINTRAC's website at https://fintrac-canafe.canada.ca.</p>
+<p>In the error code table, certain error codes such as 9, 77, 300 to 362, 442 and 986 to 993 apply at the <strong>element</strong> level to reports within an <strong>accepted</strong> batch. These error codes apply to explain why a report was rejected or to provide a warning message concerning an accepted report.</p>
+<p>The rest of the error codes (e.g., codes 400 to 436) are used when an entire batch file is <strong>rejected</strong>. In the case of a rejected batch, the error codes in the acknowledgement file will reflect FINTRAC's attempt to process the batch. It is possible that there were other errors that processing did not get far enough to detect.</p>
+<h2 id="s9">9 External File Name</h2>
+<p>The following provides batch file naming recommendations to ensure all batch files for an organization have a unique name.</p>
+<h3 id="s9-1">9.1 Batch file naming standard</h3>
+<p>Use the following naming convention for your batch files: Date_Time_Report Type.FileExtension</p>
+<p>Each element of this naming convention is required, except for the report type, as follows:</p>
+<ul>
+  <li>The date is required (YYYYMMDD).</li>
+  <li>The time is required (HHMMSS).</li>
+  <li>The report type is optional (CDR).</li>
+  <li>The following file extension is required: ".XML" The batch will be refused for any other file extension values.</li>
+</ul>
+<p>Example:          20090928_223915_CDR.XML</p>
+<p>File names may only include standard upper/lower case alphanumeric characters (A to Z and 0 to 9). The only separator allowed is the underscore character "_". The file name must only have one dot extension (e.g., .xml). File names containing spaces will cause the file to be rejected.</p>
+<p>In this context, the upper case of any letter is considered the same as the lower case of that letter. For example, a batch file name of 20090928_223915_CDR.XML is considered the same as 20090928_223915_cdr.xml.</p>
+<p>All new batch files that you submit to FINTRAC must have a unique file name, regardless of the file contents, or the file will be rejected.</p>
+<h3 id="s9-2">9.2 FINTRAC batch acknowledgement naming convention</h3>
+<p>The acknowledgement file sent to you by FINTRAC will have the same name as your original batch file name, but with a different suffix. For batch files with no batch reject or report validation messages the suffix will be ".001". For those files with reject or validation messages, the suffix will be as follows:</p>
+<ul>
+  <li>File_name.002: All reports accepted but some warning messages</li>
+  <li>File_name.004: Batch accepted but some rejected reports</li>
+  <li>File_name.005: Batch rejected for structural reasons (bad file name, invalid contents, report counts do not match, etc.)</li>
+</ul>
+<h3 id="s9-3">9.3 RRFA batch file naming convention</h3>
+<p>The following naming convention will be used by FINTRAC for the RRFA notification file sent to you:</p>
+<ul>
+  <li><strong>RRFA_DRM_999999999.xml</strong></li>
+</ul>
+<p>The "999999999" represents the RRFA number reflected in <strong>ReturnReportForFurtherActionIdentifierNumber</strong> of the RRFA message.</p>
+<p id="f2"><a href="#n2"><sup>1</sup></a> The <strong>OrganizationReportReferenceIdentifier</strong> element will be empty as the entire batch has been rejected.</p>
+
+
+
+
+<div class="container">
+<div class="pagedetails">
+	
+	<dl id="wb-dtmd">
+	<dt>Date Modified:&#32;</dt>
+	<dd><time property="dateModified">2017-06-29</time></dd>
+	</dl>
+	</div>	</div>
+</main>
+ 
+<footer id="wb-info">
+
+
+				﻿<h2 class="wb-inv">About this site</h2>
+<div class="gc-contextual">
+		<div class="container">
+			<nav>
+				<h3>Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="/contact-contactez/1-eng">Contact FINTRAC</a></li><li><a href="/new-neuf/1-eng">FINTRAC news</a></li><li><a href="/contact-contactez/list-liste-eng">Join FINTRAC’s mailing list</a></li></ul>
+			</nav>
+		</div>
+	</div>
+
+<div class="gc-main-footer">
+		<div class="container">
+			<nav>	
+<h3>Government of Canada</h3>
+				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="https://www.canada.ca/en/contact.html">All contacts</a></li>
+					<li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
+					<li><a href="https://www.canada.ca/en/government/system.html">About government</a></li></ul>
+				<h4><span class="wb-inv">Themes and topics</span></h4>
+				<ul class="list-unstyled colcount-sm-2 colcount-md-3"><li><a href="https://www.canada.ca/en/services/jobs.html">Jobs</a></li>
+					<li><a href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+					<li><a href="https://travel.gc.ca/">Travel and tourism</a></li>
+					<li><a href="https://www.canada.ca/en/services/business.html">Business</a></li>
+					<li><a href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+					<li><a href="https://www.canada.ca/en/services/health.html">Health</a></li>
+					<li><a href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+					<li><a href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+					<li><a href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+					<li><a href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+					<li><a href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+					<li><a href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+					<li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+					<li><a href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+					<li><a href="https://www.canada.ca/en/services/science.html">Science and innovation</a></li>
+					<li><a href="https://www.canada.ca/en/services/indigenous-peoples.html">Indigenous Peoples</a></li>
+					<li><a href="https://www.canada.ca/en/services/veterans-military.html">Veterans and military</a></li>
+					<li><a href="https://www.canada.ca/en/services/youth.html">Youth</a></li></ul>
+</nav>
+		</div>
+		</div>
+	
+			
+		<div class="gc-sub-footer">
+		<div class="container d-flex align-items-center">
+			<nav>
+				<h3 class="wb-inv">Government of Canada Corporate</h3>
+				<ul>
+					<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+					<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+					<li><a href="https://www.canada.ca/en/government/about.html">About Canada.ca</a></li><li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
+					<li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li></ul>			</nav>
+			<div class="wtrmrk align-self-end">
+				<img src="/theme-wet10/GCWeb/assets/wmms-blk.svg" alt="Symbol of the Government of Canada">
+			</div>
+		</div>
+	</div>
+	
+	
+	
+</footer>
+<script src="/theme-wet10/wet-boew/js/jquery/2.2.4/jquery.js"></script>
+<script src="/theme-wet10/wet-boew/js/wet-boew.min.js"></script>
+<script src="/theme-wet10/GCWeb/js/theme.min.js"></script>
+<script src="/scripts/dev-banner.js"></script>
+
+<!-- InvitationManager Files -->
+<script src="/invitation-manager/Overlay.js"></script>
+<script src="/invitation-manager/InvitationManager.js"></script>
+<!-- End InvitationManager Files -->
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "doc_id": "3b3ab898cf66c92f",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "(Formerly known as 92-1) How should a financial institution complete a CTR when multiple transactions are aggregated and reported on a single form and all or part of the information called for in the form may not be known? | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/formerly-known-92-1-how-should-financial",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a181dd7ab40b7143f12e72b03b4c9a21d86edef0919c276a0bf9447b11a39780",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/3b3ab898cf66c92f",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

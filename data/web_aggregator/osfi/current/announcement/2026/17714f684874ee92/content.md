@@ -1,0 +1,168 @@
+# Relevé des expositions importantes (BSIF930)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé des expositions importantes (BSIF930)
+
+Numéro de relevé
+
+OSFI930
+
+## Relevés
+
+[BSIF930 - Exemple de relevé (XLSX, 74,29 Ko)](/sites/default/files/import-media/data_and_forms/sample-return/2023-03/fr/LER_2020.xlsx "LER_2020.xlsx") [Relevé des modifications](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-modifications-osfi930 "Relevé des modifications (OSFI930)")
+
+## OBJET
+
+Le présent relevé a pour but de fournir, sur une base consolidée, de l'information sur les engagements importants au sens de la ligne directrice B-2 :
+
+1. toutes les expositions qui répondent à la définition d'une exposition importante, avant et après l'application de toute technique d'atténuation du risque de crédit, sous réserve d'un minimum de 20 expositions;
+2. les renseignements sur toutes les autres expositions qui auraient satisfait à la définition d'une exposition importante si l'effet des techniques d'atténuation du risque de crédit n'avait pas été pris en compte;
+3. toutes les expositions couvertes par les exceptions qui répondent à la définition d'exposition importante.
+
+Une exposition est considérée comme importante lorsque la somme de toutes les expositions sur une contrepartie ou un groupe de contreparties liées est égale ou supérieure à 10 % des fonds propres de catégorie 1 de l'institution.
+
+## FONDEMENT LÉGISLATIF
+
+Article 628 de la *Loi sur les banques*.
+
+## INSTITUTIONS VISÉES
+
+Le présent relevé s'adresse aux banques suivantes : Banque Royale du Canada (RBC), Groupe financier Toronto-Dominion (TD), Banque de Nouvelle-Écosse (BNE), Banque de Montréal (BMO), Banque Canadienne Impériale de Commerce (CIBC) et Banque Nationale du Canada (BNC).
+
+## PUBLICATION
+
+L'information figurant dans ce relevé n'est pas publiée.
+
+## FRÉQUENCE
+
+Trimestrielle
+
+## PERSONNE-RESSOURCE
+
+Fournir le nom et le numéro de téléphone de la personne à joindre pour obtenir des renseignements au sujet du relevé.
+
+## ÉCHÉANCE
+
+Le relevé est établi la dernière journée de chaque trimestre et présenté dans les 30 jours qui suivent la date de déclaration.
+
+## ORGANISME À CONTACTER
+
+BSIF
+
+## INSTRUCTIONS GÉNÉRALES
+
+Le *Relevé des expositions importantes* (REI) doit être rempli à l'aide des méthodes et des calculs décrits dans la ligne directrice B-2 du BSIF sur les expositions importantes pour les BISi (la ligne directrice). Les présentes instructions visent à faciliter la préparation du relevé en fournissant des explications supplémentaires pour certaines sections ou cellules du relevé. D'autres consignes sont données par renvoi aux formules du Relevé lui-même.
+
+Deux feuilles de calcul distinctes doivent être remplies : la feuille de calcul *Contreparties liées* et la feuille de calcul *Contreparties individuelles*. La première recueille des données agrégées sur des groupes de contreparties liées, tandis que la seconde recueille des renseignements sur un certain nombre de contreparties au sein de groupes de contreparties liées.
+
+Pour la feuille de calcul *Contreparties liées*, les institutions doivent fournir des renseignements sur les groupes de contreparties liées suivants (sur la même feuille de calcul) :
+
+* toutes les expositions sur des groupes de contreparties liées répondant à la définition d'exposition importante assujettie à des limites relatives aux expositions importantes, sous réserve d'un minimum de 20 expositions (même si elles ne répondent pas toutes à la définition d'une exposition importante);
+* toutes les expositions sur des groupes de contreparties liées qui sont exemptés des limites relatives aux expositions importantes si la somme des expositions exemptées et non exemptées représente au moins 10 % des fonds propres de catégorie 1 de l'institution;
+* toutes les expositions sur des groupes de contreparties liées lorsque l'exposition agrégée avant prise en compte de l'atténuation du risque de crédit dépasse 10 % des fonds propres de catégorie 1 de l'institution.
+
+Pour la feuille de calcul *Contreparties individuelles*, les institutions doivent fournir des renseignements sur les contreparties individuelles qui composent les groupes de contreparties liées déclarés dans la feuille de calcul *Contreparties liées*. Les contreparties individuelles composant chaque groupe de contreparties liées déclaré dans la feuille de calcul *Contreparties liées* doivent être déclarées si elles représentent individuellement au moins 0,1 % des fonds propres de catégorie 1 de l'institution. Les expositions sur des contreparties individuelles, au sein d'un groupe de contreparties liées, qui représentent moins de 0,1 % des fonds propres de catégorie 1 de l'institution doivent être groupées et déclarées sous le nom de contrepartie *Autres*. Toutes les contreparties déclarées dans la feuille de calcul *Contreparties liées*, incluant celles dont le groupe ne compte qu'une seule contrepartie, doivent être déclarées dans la feuille de calcul *Contreparties individuelles*.
+
+Pour les deux feuilles de calcul, les institutions doivent fournir des renseignements sur :
+
+* l'identité de chaque contrepartie ou groupe de contreparties liées;
+* les montants des expositions avant l'application de toute technique d'atténuation du risque de crédit, ventilés selon le type d'exposition;
+* le montant des expositions après application des techniques d'atténuation du risque de crédit;
+* le montant total des expositions exprimé en pourcentage des fonds propres de catégorie 1 de l'institution.
+
+Les montants doivent être exprimés en équivalent de milliers de dollars canadiens.
+
+Sauf indication contraire, seules les sommes non exemptées assujetties aux limites relatives aux expositions importantes doivent être déclarées. Les expositions exemptées ne doivent être déclarées que dans les colonnes *Expositions exemptées*.
+
+Pour un nom de risque commun donné, la somme d'une mesure donnée pour l'ensemble des contreparties déclarées dans la feuille de calcul *Contreparties individuelles* doit correspondre au nombre déclaré dans la feuille de calcul *Contreparties liées*. Le nom commun du risque et l'identifiant unique du risque commun devraient être identiques sur les deux feuilles de calcul pour un groupe donné de contreparties liées.
+
+Le gabarit ne doit pas être modifié avant la production des rapports (cellules verrouillées ou cachées, p. ex.). Toutefois, les institutions peuvent ajouter des lignes dans chacune des feuilles de calcul si leur nombre n'est pas suffisant pour déclarer tous les renseignements requis.
+
+### DÉFINITIONS
+
+**Nom commun du risque** : Devrait correspondre à la raison sociale de l'entité envers laquelle l'institution détient la plus grande exposition du groupe, mais un concept utilisé aux fins de la gestion du risque serait acceptable.
+
+**Identifiant unique du risque commun :** L'identifiant de l'entité juridique (c.-à-d. l'identifiant à 20 caractères) du nom du risque commun indiqué dans la colonne précédente doit être utilisé s'il est disponible. Autrement, l'identifiant unique peut être l'identifiant interne de l'institution.
+
+**Indicateur de** **BISi****/BISm canadienne :** Si au moins une contrepartie individuelle du groupe de contreparties liées est une BISm, inscrire « 2 »; si une contrepartie individuelle du groupe de contreparties liées est une BISi canadienne qui n'est pas une BISm, inscrire « 1 ». Autrement, inscrire « 0 ».
+
+**Nom de la contrepartie** : Nom légal de chaque contrepartie déclarée. Si la ligne sert à déclarer des expositions agrégées sur des contreparties individuelles représentant moins de 0,1 % des fonds propres de catégorie 1 de l'institution, inscrire « Autre ».
+
+**Identificateur de l'entité juridique de contrepartie** : L'identificateur de l'entité juridique (c.-à-d. l'identificateur à 20 caractères) doit être utilisé s'il est disponible. Si le nom de la contrepartie est « Autre », ce champ doit être laissé vide.
+
+**Système de classification des industries et version** : Nom du système de classification des industries suivi de son année de publication ou de son numéro de version.
+
+**Code de classification des industries** : Code d'industrie valide selon le système de classification des industries indiqué dans le champ précédent. Si le nom de la contrepartie est « Autre », ce champ doit être laissé vide.
+
+**Type de lien** : Si une contrepartie fait partie d'un groupe de contreparties liées, les institutions déclarantes doivent indiquer si le lien a été établi sur la base de l'interdépendance économique, des relations de contrôle ou des deux.
+
+**Avant ARC – Portefeuille bancaire – Expositions au bilan** : Pour les actifs au bilan, les actifs non dérivés, à l'exception des opérations de financement par titres (OFT) et les instruments comportant un risque de contrepartie, la valeur comptable qui est nette des provisions spécifiques et des ajustements d'évaluation comptable (p. ex., ajustements d'évaluation du crédit), avant la comptabilisation de l'ARC. Les institutions déclarantes peuvent utiliser les valeurs des expositions avant déduction des provisions spécifiques et des ajustements d'évaluation comptable.
+
+**Avant ARC – Portefeuille bancaire – Expositions hors bilan** : Montants en équivalent-crédit des expositions hors bilan, établis à l'aide de facteurs de conversion en équivalent-crédit applicables en vertu de l'approche standard pour risque de crédit, sous réserve d'une valeur minimale de 10 %.
+
+**Expositions brutes sur OFT** : Montants des expositions, avant prise en compte des techniques ARC, sur le nom commun du risque / la contrepartie découlant des OFT . Pour les expositions où l'ARC est reconnue aux fins du calcul des exigences de fonds propres, les expositions brutes correspondent à la lettre « *E* » dans la formule suivante:
+
+*E\** = max { 0, [ *E* \* (1 + *De* ) - *S* \* (1 - *Dc* - *Dfx* )]}
+
+**Instruments comportant un risque de contrepartie (au moyen de l'ECD selon l'approche SA-CCR)** : Exposition en cas de défaut des instruments détenus dans le portefeuille bancaire et dans le portefeuille de négociation, à l'exception des OFT, qui donnent lieu à un risque de contrepartie, mesurée à l'aide de l'approche standard pour risque de contrepartie (SA-CRC).
+
+**Portefeuille de négociation (après compensation)** : Valeur totale des expositions de l'institution sur la contrepartie qui se trouvent dans le portefeuille de négociation après compensation des positions longues et courtes, conformément aux règles de compensation définies dans la ligne directrice, avant l'application de toute technique d'atténuation du risque de crédit.
+
+**Mécanismes de titrisation et autres structures** : Montants des expositions découlant de la titrisation ou d'autres mécanismes structurés, y compris les expositions découlant de l'approche de transparence ainsi que le risque commun / la contrepartie constituant un facteur de risque additionnel, au sens de la ligne directrice.
+
+**Expositions de compensation sur contreparties centrales** : Expositions de compensation non exemptées sur contreparties centrales, au sens du paragraphe 29 de la ligne directrice.
+
+**Exposition totale sur la contrepartie avant atténuation du risque de crédit** : Exposition brute globale sur une contrepartie ou un nom de risque commun avant la prise en compte des techniques d'atténuation du risque de crédit. Cela devrait correspondre à la somme des champs suivants :
+
+Avant ARC – Portefeuille bancaire – Expositions au bilan
+
+* + Avant ARC – Portefeuille bancaire – Expositions hors bilan
+* + Expositions brutes sur OFT
+* + Instruments avec risque de contrepartie (utilisant ECD selon l'approche SA-CCR)
+* + Portefeuille de négociation (après compensation)
+* + Mécanismes de titrisation et autres structures
+* + Compensation des expositions sur contreparties centrales.
+
+**Expositions découlant du nom commun du risque / de la contrepartie agissant à titre de fournisseur d'atténuation du risque de crédit :** Expositions découlant du nom commun du risque / de la contrepartie agissant à titre de fournisseur d'atténuation du risque de crédit, ou à titre d'émetteur de sûreté lorsque cette sûreté a été reconnue pour réduire le montant de l'exposition sur une autre contrepartie (p. ex., émetteur de sûreté reçue en vertu d'une OFT).
+
+**Atténuation du risque de crédit admissible – OFT (approche globale)** : Réduction du montant de l'exposition au risque commun / à la contrepartie déclaré dans le champ « Expositions brutes sur OFT » résultant de l'application de l'approche globale. Pour les expositions où l'ARC est reconnue aux fins du calcul des exigences de fonds propres, le montant indiqué dans cette colonne correspond à la différence entre *E* et *E\*,* selon le calcul effectué en utilisant la formule suivante :
+
+*E\** = max { 0, [ *E* \* (1 + *De* ) - *S* \* (1 - *Dc* - *Dfx* )]}
+
+**Atténuation du risque de crédit admissible – Autres** : Réduction du montant de l'exposition au risque commun / à la contrepartie résultant de l'application de toute autre technique admissible d'atténuation du risque de crédit, non déjà saisie dans les champs précédents.
+
+**Expositions agrégées assujetties à des limites relatives aux expositions importantes** : Total des expositions agrégées sur le nom de risque commun / la contrepartie assujettie à des limites relatives aux expositions importantes. Pour plus de clarté, ce montant doit être calculé comme suit :
+
+Total des expositions avant atténuation du risque de crédit
+
+* + Expositions découlant du nom commun du risque / de la contrepartie agissant à titre de fournisseur d'atténuation du risque de crédit;
+* - Atténuation du risque de crédit admissible – OFT (approche globale)
+* - Atténuation du risque de crédit admissible – Autre
+
+**Expositions agrégées assujetties aux limites relatives aux expositions importantes en % des fonds propres de catégorie 1 :** Montant des expositions agrégées assujetties aux limites relatives aux expositions importantes en pourcentage de la mesure applicable des fonds propres en vertu du cadre fondé sur les risques.
+
+**Expositions exemptées – après ARC :** Si l'institution a des expositions au risque commun ou à la contrepartie qui sont exemptées des limites relatives aux expositions importantes ou si les expositions exemptées sont assujetties à des exigences de déclaration (c.‑à‑d. qu'elles satisfont à la définition des expositions importantes), les expositions restantes après application des techniques d'ARC doivent être déclarées.
+
+**Expositions exemptées – contrepartie agissant à titre de fournisseur d'ARC :** Montant des expositions exemptées à l'égard desquelles le risque commun ou la contrepartie agit à titre de fournisseur d'ARC.
+
+**Total des expositions exemptées :** Correspond à la somme des colonnes *Expositions exemptées – après ARC* et *Expositions exemptées – contrepartie agissant à titre de fournisseur d'ARC*.
+
+**Total des expositions exemptées en % des fonds propres de catégorie 1 :** Montant des expositions agrégées assujetties aux limites relatives aux expositions importantes en pourcentage de la mesure applicable des fonds propres en vertu du cadre fondé sur les risques.
+
+**Commentaires :** Champ facultatif. Pour chaque ligne, l'institution peut fournir des renseignements additionnels au sujet de la méthodologie employée ou des précisions au sujet des données déclarées. Par exemple, si des contreparties données font partie de deux groupes différents de contreparties liées et que ces deux groupes sont tenues de respecter des exigences de déclaration, cela devrait être indiqué dans la case réservée aux commentaires.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2019-09-17

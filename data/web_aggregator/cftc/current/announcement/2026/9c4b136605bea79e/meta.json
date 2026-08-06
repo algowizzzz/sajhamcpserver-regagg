@@ -1,0 +1,26 @@
+{
+  "doc_id": "9c4b136605bea79e",
+  "regulator_id": "cftc",
+  "doc_type": "announcement",
+  "title": "CFTC Staff Issues No-Action Position on Designated Contract Market Procedures",
+  "language": "en",
+  "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9272-26",
+  "reference_number": null,
+  "published_date": "2026-07-24",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:90ad04606575c7cf7f8c0c2c2c0b48b8c2ef88f566dba202c917b5b1c1fd4e40",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_cftc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cftc/current/announcement/2026/9c4b136605bea79e",
+  "tags": [
+    "us",
+    "derivatives",
+    "clearing",
+    "margin"
+  ]
+}

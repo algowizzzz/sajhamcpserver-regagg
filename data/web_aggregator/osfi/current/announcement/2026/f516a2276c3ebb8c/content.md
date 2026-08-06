@@ -1,0 +1,58 @@
+# Rapports annuels et les évaluations d’accès à l'information et la protection des renseignements
+
+En vertu du paragraphe 72(1) de la [*Loi sur l'accès à l'information*](https://laws-lois.justice.gc.ca/fra/lois/a-1/TexteComplet.html) et du paragraphe 72(1) de la [*Loi sur la protection des renseignements personnels*](https://laws-lois.justice.gc.ca/fra/lois/p-21/TexteComplet.html), à la fin de chaque exercice, chacun des responsables d'une institution fédérale établit pour présentation au Parlement le rapport d'application des lois en ce qui concerne son institution.
+
+## Rapports annuels
+
+Les rapports annuels produits par le Bureau du surintendant des institutions financières sont les suivants.
+
+### Rapports annuels de la Loi sur l'accès à l'information
+
+* [2024-2025 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2024-2025-rapport-annuel-au-parlement-sur-lapplication-loi-sur-lacces-linformation "2024-2025 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information")
+* [2023-2024 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2023-2024-rapport-annuel-au-parlement-sur-lapplication-loi-sur-lacces-linformation "2023-2024 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information")
+* [2022-2023 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2022-2023-rapport-annuel-au-parlement-sur-lapplication-loi-sur-lacces-linformation "2022-2023 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information")
+* [2021-2022 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2021-2022-rapport-annuel-au-parlement-sur-lapplication-loi-sur-lacces-linformation "2021-2022 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information")
+* [2020-2021 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2020-2021-rapport-annuel-au-parlement-sur-lapplication-loi-sur-lacces-linformation "2020-2021 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information")
+* [2019-2020 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2019-2020-rapport-annuel-au-parlement-sur-lapplication-loi-sur-lacces-linformation "2019-2020 Rapport annuel au Parlement sur l’application de la Loi sur l’accès à l’information ")
+
+### Rapports annuels de la Loi sur la protection des renseignements personnels
+
+* [2024-2025 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2024-2025-rapport-annuel-au-parlement-sur-lapplication-loi-sur-protection-renseignements-personnels "2024-2025 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels")
+* [2023-2024 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2023-2024-rapport-annuel-au-parlement-sur-lapplication-loi-sur-protection-renseignements-personnels "2023-2024 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels")
+* [2022-2023 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2022-2023-rapport-annuel-au-parlement-sur-lapplication-loi-sur-protection-renseignements-personnels "2022-2023 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels")
+* [2021-2022 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2021-2022-rapport-annuel-au-parlement-sur-lapplication-loi-sur-protection-renseignements-personnels "2021-2022 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels")
+* [2020-2021 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2020-2021-rapport-annuel-au-parlement-sur-lapplication-loi-sur-protection-renseignements-personnels "2020-2021 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels")
+* [2019-2020 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/2019-2020-rapport-annuel-au-parlement-sur-lapplication-loi-sur-protection-renseignements-personnels "2019-2020 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels ")
+
+## Évaluations des facteurs relatifs à la vie privée
+
+De nombreuses institutions et de nombreux organismes fédéraux mettent en oeuvre des méthodes électroniques de prestation de services aux Canadiennes et aux Canadiens. Pour s'assurer que ces initiatives soient conformes aux exigences en matière de protection de la vie privée, les institutions sont tenues d'effectuer des évaluations des facteurs relatifs à la vie privée afin de cerner et d'évaluer les risques visant les renseignements personnels communiqués. Elles aident les gestionnaires et les décideurs à éviter ou à réduire les risques d'atteinte à la vie privée et à promouvoir des choix pleinement éclairés au moment de la conception de politiques, de programmes et de systèmes.
+
+Une fois qu'elles ont effectué une évaluation des facteurs relatifs à la vie privée, les institutions sont tenues de produire un résumé des résultats de l'évaluation. Les institutions doivent communiquer au public ces résumés des résultats en temps opportun, dans un langage simple et dans les deux langues officielles.
+
+### Résumés des évaluations des facteurs relatifs à la vie privée
+
+* [BSIF – Résumés des évaluations des facteurs relatifs à la vie privée](/fr/transparence/acces-linformation-protection-renseignements-personnels/rapports-annuels-evaluations-dacces-linformation-protection-renseignements/bsif-resumes-evaluations-facteurs-relatifs-vie-privee "BSIF – Résumés des évaluations des facteurs relatifs à la vie privée")
+
+## Liens utiles
+
+* *[Loi sur l'accès à l'information](https://laws-lois.justice.gc.ca/fra/lois/a-1/TexteComplet.html)*
+* [Règlement sur l'accès à l'information](https://laws-lois.justice.gc.ca/fra/reglements/DORS-83-507/)
+* [Politique sur l'accès à l'information](http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12453)
+* [Manuel de l'accès à l'information](http://www.tbs-sct.gc.ca/atip-aiprp/tools/atim-maai00-fra.asp)
+* [Formulaire de demande d'accès à l'information](http://www.tbs-sct.gc.ca/tbsf-fsct/350-57-fra.asp)
+* [Commissariat à l'information du Canada](http://www.oic-ci.gc.ca/fra/)
+* *[Loi sur la protection des renseignements personnels](https://laws-lois.justice.gc.ca/fra/lois/p-21/TexteComplet.html)*
+* [Règlement sur la protection des renseignements personnels](https://laws-lois.justice.gc.ca/fra/reglements/DORS-83-508/index.html)
+* [Politique sur la protection de la vie privée](http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12510)
+* [Directive sur l'évaluation des facteurs relatifs à la vie privée](http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=18308)
+* [Formulaire de demande de renseignements personnels](http://www.tbs-sct.gc.ca/tbsf-fsct/350-58-fra.asp)
+* [Commissariat à l'information du Canada](http://www.priv.gc.ca/index_f.asp)
+* [Formulaire de demande de correction de dossier](http://www.tbs-sct.gc.ca/tbsf-fsct/350-11-fra.asp)
+* [Renseignements sur les programmes et les fonds de renseignements](https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements.html)
+* [Liste des coordonnateurs de l'accès à l'information et de la protection des renseignements personnels par institution](https://www.tbs-sct.gc.ca/ap/atip-aiprp/coord-fra.asp)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-01-18

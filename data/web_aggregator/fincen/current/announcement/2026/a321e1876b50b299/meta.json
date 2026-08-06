@@ -1,0 +1,24 @@
+{
+  "doc_id": "a321e1876b50b299",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Residential Real Estate Rule | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/rre",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c585e7307f9f90191c4a44c59e332a8117c1cc3e8801a62d120f17970fa7f0f4",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/a321e1876b50b299",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

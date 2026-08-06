@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a consultation on guidelines on outsourcing to cloud service providers. These guidelines shall provide guidance to market participants on how the outsourcing provisions set forth in the Directive 20

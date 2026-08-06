@@ -1,0 +1,24 @@
+{
+  "doc_id": "a4eee3e39c87dfd9",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Advisory Withdrawal - Issue 18A | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/advisories/advisory-withdrawal-issue-18a",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d9ceacca53082aebdf32a08723e0f9b2bd536d5fa986b5b0ddc1d896462a0217",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/a4eee3e39c87dfd9",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

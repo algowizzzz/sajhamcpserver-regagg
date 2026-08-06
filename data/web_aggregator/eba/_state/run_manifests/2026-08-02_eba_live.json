@@ -1,0 +1,26 @@
+{
+  "run_id": "2026-08-02_eba_live",
+  "regulator_id": "eba",
+  "logical_date": "2026-08-02",
+  "trigger": "schedule",
+  "detected": 10,
+  "fetched": 10,
+  "ingested": 7,
+  "archived": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://www.eba.europa.eu/publications-and-media/events/call-papers-13th-annual-research-workshop-boundaries-banking-regulation",
+    "https://www.eba.europa.eu/node/19908",
+    "https://www.eba.europa.eu/node/19890",
+    "https://www.eba.europa.eu/node/19883",
+    "https://www.eba.europa.eu/node/19863",
+    "https://www.eba.europa.eu/node/19853",
+    "https://www.eba.europa.eu/node/19839",
+    "https://www.eba.europa.eu/node/19833",
+    "https://www.eba.europa.eu/node/19827",
+    "https://www.eba.europa.eu/node/19820"
+  ],
+  "duration_s": 5.331
+}

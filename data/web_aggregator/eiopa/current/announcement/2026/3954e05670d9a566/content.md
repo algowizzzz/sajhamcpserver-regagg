@@ -1,0 +1,8 @@
+The Danish Financial Supervisory Authority, Finanstilsynet, has ordered Gefion Insurance A/S to cease writing business with immediate effect. Finanstilsynet [has also published a number of questions and answers](https://www.dfsa.dk/Supervision/Orders/Gefion_260320) which may be useful to Gefion’s policyholders. This information is also [available in Danish](https://www.finanstilsynet.dk/Tilsyn/Tilsynsreaktioner/Paabud/2020/Gefion_260320).
+
+Gefion offers insurance through agents in Europe. The company primarily offers insurance to individuals and small and medium sized companies and focuses on specialty lines, operating in the following Member States of the European Union: Denmark, France, Germany, Ireland, Italy and Poland. In addition, the company does business in the United Kingdom.
+
+The Danish Financial Supervisory Authority has informed the host national supervisory authorities about the order issued to Gefion Insurance via the Cooperation Platform set up by the European Insurance and Occupational Pensions Authority (EIOPA) in December 2018. Cooperation platforms are a tool aiming to enhance cooperation between home and host supervisory authorities for the purposes of the continuous supervisory review process enhancing understanding about the risks undertakings face or may face.
+
+Publication date
+:   27 March 2020

@@ -1,0 +1,26 @@
+{
+  "doc_id": "7b7f65baf3b0243f",
+  "regulator_id": "american_banker",
+  "doc_type": "news_story",
+  "title": "Circle officially opens its national trust bank",
+  "language": "en",
+  "source_url": "https://www.americanbanker.com/payments/news/circle-officially-opens-its-national-trust-bank",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7f0802cf0e27aa4d40683c1dcac94b88144a3e92d6d1ce7813089057d0a767e6",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_american_banker_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/american_banker/current/news_story/2026/7b7f65baf3b0243f",
+  "tags": [
+    "us",
+    "banking"
+  ],
+  "final_url": "https://www.americanbanker.com/payments/news/circle-officially-opens-its-national-trust-bank",
+  "fetch_method": "feed_summary"
+}

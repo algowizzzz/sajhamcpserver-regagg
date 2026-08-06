@@ -1,0 +1,25 @@
+{
+  "doc_id": "2b1ba515793897ef",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "2021-2022 Annual Report to Parliament on the Administration of the Privacy Act - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/transparency/access-information-privacy/access-information-privacy-annual-reports-assessments/2021-2022-annual-report-parliament-administration-privacy-act",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b72bbce797b04a0d75b2767d7e86a8fc8984c2620c17d95281f232f1a5e7f486",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/2b1ba515793897ef",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

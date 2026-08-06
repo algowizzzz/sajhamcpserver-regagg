@@ -1,0 +1,24 @@
+{
+  "doc_id": "b92a3081c7b3f1e4",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FATF Advisories | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/fatf-advisories",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f936107eb2d45ecf3ea0214201e6993d6ce9cd54c4297326ee1fc04ea263c95e",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/b92a3081c7b3f1e4",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

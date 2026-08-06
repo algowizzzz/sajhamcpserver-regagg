@@ -1,0 +1,24 @@
+# L'assurance longévité et les swaps de longévité (lettre)
+
+**Type de publication :** Lettre  
+**Date :** Le 9 juin 2014  
+**Destinataires :**  Administrateurs de régimes de retraite privés à prestations déterminées agréés aux termes de la *Loi de 1985 sur les normes de prestation de pension*
+
+Le Bureau du surintendant des institutions financières (BSIF) a fait paraître le préavis ci-annexé afin de communiquer des renseignements et des consignes aux administrateurs de régimes de retraite fédéraux à prestations déterminées qui songent à conclure un contrat d’assurance longévité ou de swap de longévité afin de réduire l’exposition de leur régime au risque de longévité. Dans ce préavis, le terme « contrat de couverture du risque de longévité » englobe à la fois les contrats d’assurance longévité et les contrats de swap de longévité.
+
+La version finale du préavis remplace le projet qui avait été soumis aux commentaires des intéressés en août 2013. Les attentes du BSIF qui y sont énoncées à l’intention des administrateurs qui envisagent de conclure un contrat d’assurance longévité ou de swap de longévité sont comparables à celles que contenait la version provisoire, à ceci près que des éclaircissements ont été ajoutés à certaines dispositions.
+
+Je vous invite à adresser toute question concernant le préavis à Chris Eccles, agent, Législation et initiatives stratégiques, au numéro 613‑990‑7109 ou à l’adresse [Christopher.Eccles@osfi-bsif.gc.ca](mailto:Christopher.Eccles@osfi-bsif.gc.ca).
+
+La directrice générale,  
+Division des régimes de retraite privés,  
+Tamara DeMos
+
+## Liens utiles
+
+* [Préavis](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/preavis-sur-lassurance-longevite-swaps-longevite "Préavis sur l’assurance longévité et les swaps de longévité")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2014-06-09

@@ -1,0 +1,118 @@
+# Phase 3 non-retail transactional level data call (OSFI 965)
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Deposit-taking institutions
+
+Last updated
+
+March 21, 2025
+
+Related documents
+
+* [Clarifications about the non-retail data call](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/clarifications-about-non-retail-data-call)
+
+## Return file
+
+[OSFI 965 - Non Retail Phase 3 LITE - Submission Template (XLSX, 35.6 KB)](/sites/default/files/documents/OSFI965-BSIF965-lite-nrp-pae-tpl-en.xlsx "OSFI965-BSIF965-lite-nrp-pae-tpl-en.xlsx")
+
+## General instructions
+
+Aligned with previous direction, Phase 3 expands the 965 non-retail data call to include corporate and commercial exposures.
+
+The first submission is required by April 29th, 2025. This submission should reflect reporting as at March 31, 2025. The 965 non-retail data call is to be submitted to OSFI quarterly, due no later than 30 days after each quarter end.
+
+Submissions should adhere to the standardized format as prescribed in the document “OSFI 965 - Non-Retail Phase 3 – Submission Template”.
+
+### Updated data scope
+
+#### Geography
+
+All geographies (US, Canada, and International)
+
+#### Asset classes
+
+* Commercial Real Estate (CRE)
+* Corporate, Bank, Sovereign and Commercial
+
+### Data call format
+
+The data provided should:
+
+* be contained in a plain-text Pipe Delimiter Separated file format
+* include all data elements provided in the 965 non-retail phase 3 - Submission Template, in the order they appear within the template
+* be null[Footnote 1](#fn1) where a data element is not available or not applicable, unless otherwise specified
+* be the current value of that data element, unless otherwise specified
+
+The data provided should **not**:
+
+* contain the pipe character in any field value
+* be encrypted
+
+### File specifications
+
+|  |  |
+| --- | --- |
+| Format | Delimiter Separated File |
+| Header | Variable names as described in the data template column **Submission Key** must appear on row 1 of each submission file in the order listed. Variable names must match exactly as shown in the template. |
+| Separator Character / Delimiter | ASCII #124:  | |
+| Filename | {Reporting Date}\_NRL\_01\_{FRFI Code}\_{Submission Date}.txt |
+| Reporting Date | Last day for Reporting month (Format yyyymmdd) |
+| Data call Name | NRL\_01 (fixed string) |
+| FRFI Code | OSFI issued FRFI Code |
+| Submission Date | Submission date (Format yyyymmdd) |
+| Example submission | 20250331\_NRL\_01\_AZ\_20250429.txt |
+
+### Data transmission
+
+The data call is to be submitted to the Regulatory Reporting System (RRS) using the return code OSFI 965.
+
+The filing instructions may be obtained on the OSFI website at following location: [Regulatory Reporting System (RRS) - Manage Financial Returns User Guide (PDF)](/sites/default/files/documents/rrs_mcr_en.pdf).
+
+### File details description
+
+The 965 non-retail data call is divided into four (4) sections which are described in the submission template and are to be transmitted as part of the full data call submission.
+
+Borrower (#101 - #133)
+:   Report all in-scope Borrowers for Phase 3 as of the end of each reporting period.
+
+Facility (#201 - #254)
+:   Report all in-scope facilities associated to a borrower.
+
+Collateral (#303 - #315)
+:   Report the **Primary** Collateral associated to each facility if one exists.
+
+Development Project (#402 - #424)
+:   Report the details of the Real Estate Development or Construction project associated to each facility, if applicable **(CRE only)**.
+
+### Data quality
+
+Financial Institutions (FIs) are responsible for ensuring that the data submitted aligns with prescribed definitions and formats. While there are differences in definitions on various regulatory returns, each FI should ensure that aggregate totals in the data call reasonably align to portfolio totals reported in other regulatory returns.
+
+### Data quality exception reports
+
+FI submissions are processed by an automated system to validate compliance with the template specifications and identify potential anomalies. If an issue is identified with a submission, we will send a data quality report to the FI detailing the issue and request an action plan or explanation.
+
+Depending on the severity of certain issues, we may require correction through resubmission. If a resubmission is requested, regardless of the filing period, the resubmission must adhere to the latest version of the data template and include all files.
+
+In all cases, we require that a response to the data quality report be returned to the support email ([nonretail.support-soutien.pretsauxentreprises@osfi-bsif.gc.ca](mailto:nonretail.support-soutien.pretsauxentreprises@osfi-bsif.gc.ca)) in order that any feedback can be processed by the Data Quality system.
+
+Please direct any questions regarding this data call to: [nonretail.support-soutien.pretsauxentreprises@osfi-bsif.gc.ca](mailto:nonretail.support-soutien.pretsauxentreprises@osfi-bsif.gc.ca)
+
+## Footnotes
+
+Footnote 1
+:   A null value contains no characters or symbols. Please do not include values such as “NULL”, “N/A” or a space etc...
+
+    [Return to footnote 1  referrer](#fn1-rf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-03-21

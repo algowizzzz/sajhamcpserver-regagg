@@ -1,0 +1,24 @@
+{
+  "doc_id": "b0c8e5631c604e2b",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Beneficial ownership requirements",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/bor-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:dce3a407181635b10a6a6b0d4891d666f9bb0dd5219b01c02af2c68a009837a1",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/b0c8e5631c604e2b",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

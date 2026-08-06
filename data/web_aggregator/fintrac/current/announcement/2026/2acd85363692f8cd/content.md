@@ -1,0 +1,61 @@
+# Allocution d'ouverture de Barry MacKillop, Directeur adjoint du Renseignement, Centre d'analyse des opérations et déclarations financières du Canada devant le Comité des finances de la Chambre des communes, Examen parlementaire de la Loi sur les urgences
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)
+
+## Allocution
+
+**Ottawa, Ontario**  
+**24 février 2022**
+
+**L'allocution prononcée fait foi**
+
+## Introduction
+
+Je vous remercie, monsieur le président, d'avoir invité CANAFE à participer à votre examen de la Loi sur les mesures d'urgence, laquelle a été révoquée par le gouvernement fédéral hier après-midi. Je suis accompagné aujourd'hui de Donna Achimov, la dirigeante principale de la conformité de CANAFE.
+
+## Le mandat de CANAFE
+
+Comme les membres du comité le savent, CANAFE est l'unité du renseignement financier du Canada et l'organisme de réglementation de la lutte contre le blanchiment d'argent et le financement des activités terroristes. Nous sommes chargés d'assurer la conformité de plus de 24 000 entreprises qui ont des exigences en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, y compris les institutions financières, les casinos, les entreprises de services monétaires et autres.
+
+CANAFE a mis en place une approche solide, fondée sur le risque, pour s'assurer que les entreprises remplissent leurs obligations, comme la vérification de l'identité des clients, la tenue de documents et la déclaration de certains types d'opérations financières, notamment les télévirements internationaux, les opérations importantes en espèces, les opérations importantes en monnaie virtuelle et les opérations douteuses.
+
+Grâce aux déclarations que nous recevons des entreprises assujetties à la Loi, et lorsque les seuils appropriés sont atteints, CANAFE communique des renseignements financiers aux services de police, aux organismes d'application de la loi et aux organismes de sécurité nationale du Canada afin d'appuyer leurs enquêtes sur le blanchiment d'argent et le financement des activités terroristes.
+
+Nos communications de renseignements financiers sont souvent basées sur des centaines, voire des milliers, d'opérations financières. Ces communications peuvent révéler des liens entre des personnes et des entreprises qui n'ont pas été soulevées dans le cadre d'une enquête, et peuvent aider les enquêteurs à délimiter la portée de leurs affaires ou à se tourner vers d'autres cibles. Une communication peut porter sur un individu ou un réseau criminel plus large, et peut également être utilisée par la police et les organismes d'application de la loi pour constituer des affidavits en vue d'obtenir des mandats de perquisition et des ordonnances de communication.
+
+Au total, l'an dernier, CANAFE a fourni plus de 2 000 communications de renseignements financiers exploitables à l'appui d'enquêtes liées au blanchiment d'argent, au financement d'activités terroristes et à des menaces à la sécurité du Canada. Depuis qu'il a amorcé ses activités en 2001, le Centre a fourni plus de 22 000 communications de renseignements financiers aux services de police, aux organismes d'application de la loi et aux organismes de sécurité nationale du Canada.
+
+En 2020-2021, nos renseignements financiers ont contribué à 376 enquêtes majeures, qui ont exigé beaucoup de ressources, et à plusieurs centaines d'autres enquêtes individuelles aux niveaux municipal, provincial et fédéral dans tout le pays.
+
+Ces organismes continuent de solliciter nos renseignements financiers en nombre record. L'an dernier, CANAFE a reçu 2 109 dossiers de renseignements volontaires des services de police, des organismes d'application de la loi et des organismes de sécurité nationale du Canada. Ces dossiers contiennent des renseignements sur de présumés criminels et financiers terroristes et constituent souvent le point de départ de notre analyse et des renseignements financiers que nous sommes en mesure de produire et de communiquer.
+
+Bon nombre des destinataires de nos communications nous ont dit qu'ils n'entreprendraient pas de projet d'enquête sans consulter nos renseignements financiers.
+
+## Mise en œuvre du Décret sur les mesures économiques d'urgence
+
+En vertu du Décret sur les mesures économiques d'urgence, certaines entreprises – y compris les entités financières, les entreprises de services monétaires, les plateformes de financement participatif et les fournisseurs de services de paiement – étaient tenues de prendre des mesures spécifiques concernant l'activité financière des personnes qui participaient aux barrages, comme le prévoit le Règlement sur les mesures d'urgence.
+
+Par exemple, les plateformes de financement participatif et les fournisseurs de services de paiement devaient s'inscrire auprès de CANAFE lorsqu'ils avaient en leur possession ou contrôle des biens qui appartenaient, étaient détenus ou contrôlés par une personne ou une entité qui participait à une activité qui était interdite aux termes du Règlement sur les mesures d'urgence.
+
+Suivant la déclaration de la Loi sur les mesures d'urgence, un certain nombre de plateformes de financement participatif ou fournisseurs de services de paiement avaient entamé le processus d'inscription auprès de CANAFE. La révocation de la Loi sur les mesures d'urgence a mis un terme à ce processus.
+
+Les plateformes de financement participatif et les fournisseurs de services de paiement qui devaient s'inscrire auprès de CANAFE devaient également déclarer les opérations douteuses, les opérations importantes en espèces, les télévirements internationaux et les opérations importantes en monnaie virtuelle lorsque les seuils établis dans la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et les règlements connexes étaient atteints. Ces mesures ont également été suspendues suivant la révocation de la Loi sur les mesures d'urgence.
+
+En tant qu'unité du renseignement financier, et en vertu de notre législation, nous ne pouvons pas parler des déclarations que nous recevons des entreprises ou des renseignements financiers que nous fournissons à la police, aux organismes d'application de la loi et de sécurité nationale du Canada.
+
+Monsieur le président, je veux être très clair au sujet du mandat de CANAFE. En tant qu'un des 13 ministères et organismes fédéraux qui jouent un rôle clé dans le régime canadien de lutte contre le blanchiment d'argent et le financement des activités terroristes, CANAFE a été créé en tant qu'unité administrative de renseignement financier et non en tant qu'organisme d'application de la loi ou d'enquête.
+
+Nous n'avons pas le pouvoir de surveiller ou de suivre les opérations financières en temps réel, de geler ou de saisir des fonds, de demander à une entité de geler ou de saisir des fonds, ou d'annuler ou de retarder des opérations financières.
+
+Le Parlement du Canada a délibérément pris cette décision pour s'assurer que nous aurions accès aux renseignements nécessaires pour appuyer les enquêtes sur le blanchiment d'argent et le financement du terrorisme menées par les services de police, les organismes d'application de la loi et de sécurité nationale du Canada, tout en protégeant la vie privée des Canadiens.
+
+La Loi sur les mesures d'urgence et le Décret sur les mesures économiques d'urgence n'ont rien changé à cet égard.
+
+## Conclusion
+
+Monsieur le président, nous sommes déterminés à travailler avec les entreprises canadiennes et nos partenaires nationaux et internationaux pour protéger la sécurité des Canadiens et Canadiennes et l'intégrité du système financier du Canada.
+
+Je vous remercie.
+
+Date de modification :
+:   2022-02-24

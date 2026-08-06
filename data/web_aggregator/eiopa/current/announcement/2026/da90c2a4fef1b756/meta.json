@@ -1,0 +1,27 @@
+{
+  "doc_id": "da90c2a4fef1b756",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EU and U.S. insurance regulators talks on cyber security & insurance, big data and transactions - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eu-and-us-insurance-regulators-talks-cyber-security-insurance-big-data-and-transactions-2018-11-14_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:30b1c649ac39cd1a9619961a1a835aac7e0bc7ef733a88440d1045b690c43c98",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/da90c2a4fef1b756",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eu-and-us-insurance-regulators-talks-cyber-security-insurance-big-data-and-transactions-2018-11-14_en",
+  "fetch_method": "html_to_md"
+}

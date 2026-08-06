@@ -1,0 +1,1 @@
+Summary: # Agency Information Collection Activities: Proposed Information Collection; Comment Request; Applications for Licensing or Registration To Issue Payment Stablecoins Under the GENIUS Act

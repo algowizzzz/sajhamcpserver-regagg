@@ -1,0 +1,1 @@
+Summary: # Extension of divestiture period for control or the holding of a substantial investment obtained through the realization of a security interest-minister’s approval

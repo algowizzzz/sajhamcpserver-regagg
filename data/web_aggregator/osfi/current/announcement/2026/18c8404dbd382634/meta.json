@@ -1,0 +1,25 @@
+{
+  "doc_id": "18c8404dbd382634",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "\u00c9valuation des risques et intervention | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/surveillance/retraites/administrer-regime-retraite/evaluation-risques-intervention",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:19c9f7bd1b5143be1e426a00ca21290d5ab78c4155170699070e1f785c549bef",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/18c8404dbd382634",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

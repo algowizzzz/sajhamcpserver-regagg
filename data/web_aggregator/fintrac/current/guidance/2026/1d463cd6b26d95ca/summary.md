@@ -1,0 +1,1 @@
+Summary: # When to verify the identity of persons and entities — Real estate brokers or sales representatives, and real estate developers : FINTRAC's compliance guidance

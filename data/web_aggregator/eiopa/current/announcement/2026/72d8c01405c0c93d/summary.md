@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority published the Opinion addressed to national supervisory authorities about the duty of insurance undertakings and insurance intermediaries to inform customers about the possible impact of the withdrawal of the Unite

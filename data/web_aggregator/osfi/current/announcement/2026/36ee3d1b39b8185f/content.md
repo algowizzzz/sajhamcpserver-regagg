@@ -1,0 +1,579 @@
+# Données de crédit selon l’approche NI des opérations de gros - Prêts en défaut et cas réglés (BG)
+
+Information
+
+Type de document
+
+Spécifications techniques
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Données de crédit selon l’approche NI des opérations de gros - Prêts en défaut et cas réglés (BG)
+
+Dernière révision
+
+Juillet 2008
+
+Version
+
+4.0, numéro 2
+
+Table des matières
+
+## Relevés
+
+[BG - Définition des données (XLSX, 540,8 Ko)](/sites/default/files/documents/bg-rapid2-dd-fr.xlsx "bg-rapid2-dd-fr.xlsx") [BG - Règles de validation (XLSX, 53,82 Ko)](/sites/default/files/documents/bg-validation-fr.xlsx "bg-validation-fr.xlsx")
+
+## Spécifications techniques
+
+Pour les relevés produits après le 1er décembre 2007
+
+### 1. Introduction
+
+Deux relevés ont été prescrits pour la demande de données sur les opérations de la clientèle de gros selon l'approche NI, également désignés Rapid2 : relevé des opérations de la clientèle de gros (BF) et relevé des opérations de la clientèle de gros – Prêts en défaut et cas réglés (BG). Le présent document décrit la structure de fichier du relevé BG.
+
+Dans le relevé sur les opérations de la clientèle de gros, 96 éléments de données seront déclarés pour chaque prêt d'au moins 10 millions de dollars canadiens (montant autorisé pour la mise en commun des risques). Si un prêt en défaut a été entièrement réglé, cinq champs de données additionnels (qui ne font pas partie du relevé sur les opérations de la clientèle de gros) doivent être remplis. Ces cinq champs sont des enregistrements du « cheminement B » au relevé des opérations de la clientèle de gros – Prêts en défaut et cas réglés (la section 2 renferme une explication des enregistrements du cheminement A et du cheminement B). Il convient de noter qu'un prêt donné sera déclaré soit dans le relevé BF (s'il n'est pas réglé), soit dans le relevé BG (s'il est réglé), mais jamais dans les deux à la fois.
+
+Dans le cas des prêts qui ne sont pas déclarés sur le relevé des opérations de la clientèle de gros (c.-à-d. les prêts d'une valeur inférieure à 10 millions de dollars), mais qui (1) étaient en défaut et (2) sont réglés, et (3) dont le montant autorisé pour la mise en commun des risques s'établit à plus d'un million de dollars canadiens, le BSIF exige la déclaration de 31 éléments de données à titre d'enregistrements du cheminement A au relevé des opérations de la clientèle de gros – Prêts en défaut et cas réglés. (Le montant autorisé étant de zéro dans le cas des prêts réglés, on utilisera le montant autorisé précédent – autre que zéro – pour calculer le montant autorisé pour la mise en commun des risques qui devra figurer dans le relevé BG). On suivra également le cheminement A si le prêt a été déjà déclaré dans le relevé Opérations de la clientèle de gros, mais sans date de défaut. (P. ex., la valeur autorisée pour la mise en commun des risques est tombée sous la barre des 10 millions de dollars avant que le prêt ne soit en défaut de remboursement.)
+
+Des éléments de données ne doivent pas être déclarés pour les prêts qui ne respectent pas les conditions susmentionnées (c'est-à-dire les prêts d'une valeur comprise entre 1 million de dollars et 10 millions de dollars qui ne sont pas en défaut et qui ne sont pas réglés, et tous les prêts d'une valeur d'un millions de dollars ou moins).
+
+Il convient de noter que les données concernant un prêt en défaut réglé ne sont déclarées qu'une fois. L'enregistrement correspondant porte sur un règlement précis du prêt et doit être déclaré pour la période au cours de laquelle le prêt a été réglé. Une fois présentées, les données ne peuvent pas être modifiées; les prêts dont le statut redevient actif par la suite ne peuvent pas être supprimés de la base de données du BSIF.
+
+Le diagramme ci-dessous illustre les critères de sélection des prêts pour déterminer le relevé et le cheminement à utiliser, de même que le mode de traitement des prêts en défaut et entièrement réglés.
+
+S'il y a lieu, des enregistrements de données différents sont fournis pour les cheminements A et B sur le même relevé.
+
+![Diagramme des critères de sélection des prêts](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2023-06/fr/ws_trn_dft_cdts_1.png)
+
+#### 1.1. Documents relatifs aux données sur le crédit selon l'approche NI
+
+Le présent document décrit la structure et la présentation de fichier du relevé des opérations de la clientèle de gros – Prêts en défaut et cas réglés. Les règles de validation des données, les erreurs et les avertissements y sont également abordés. Les définitions des données des champs du relevé se trouvent dans le document [1]. Le présent document contient également des exemples et des renseignements sur les données recueillies pour étoffer la base de données sur les opérations NCR.
+
+#### 1.2. Bibliographie
+
+[1] BSIF, « Définition des données sur le crédit - Prêts en défaut et cas réglés », fichier Microsoft Excel, mars 2007, publication non classifiée du BSIF.
+
+[2] BSIF, « Données sur le crédit – Approche NI – Prêts en défaut et cas réglés – Spécifications techniques : Présentation du fichier et règles de validation des données », document Word, mars 2007, publication non classifiée du BSIF.
+
+### 2. Exigences relatives au fichier d'extraction de données
+
+Les sections qui suivent décrivent la présentation du fichier d'extraction des données à verser dans le relevé des opérations de la clientèle de gros selon l'approche NI – Prêts en défaut et cas réglés. Dans tous les documents portant sur la présentation de ce fichier d'extraction des données, tous les champs de clé primaire apparaissent en caractères gras, et figurent énumérés dans l'ordre où ils figurent dans la clé.
+
+À l'intérieur de la structure des enregistrements de chaque section (sections 2.5 à 2.9), la première colonne correspond au numéro d'identification du champ, qui doit être utilisé pour établir un renvoi à la définition de champ correspondante en [1]. Les deuxième et troisième colonnes se rapportent aux positions de début et de fin du champ dans l'enregistrement. Les colonnes suivantes indiquent la longueur et le nom du champ, ainsi que son caractère obligatoire (« O »). La dernière colonne (« Remarques ») renferme des renseignements complémentaires pour faciliter la planification de l'extraction des données et précise le format (masque) de champ à utiliser.
+
+#### 2.1. Type de fichier and Naming Convention
+
+Les données destinées à la base de données sur les opérations NCR doivent être enregistrées dans un fichier texte de largeur fixe, soit 680 octets par ligne, incluant un caractère de retour de chariot (RC) et un caractère de saut de ligne (SL) pour séparer les enregistrements. Les champs vides (c.-à-d. qui ne contiennent aucune valeur) sont remplacés par des caractères d'espacement s'il s'agit normalement de données alphanumériques, ou par des zéros s'il s'agit de données numériques. Les champs obligatoires doivent être remplis conformément aux directives énoncées dans le document [1].
+
+Le fichier texte de largeur fixe doit être nommé, selon les conventions établies, au format FI\_BG\_MMAAAA.DAT, où IF correspond au numéro d'identification de l'institution financière (attribué par le BSIF), BG est une chaîne fixe, MM représente le mois de déclaration des données et AAAA, l'année indiquée en [1].
+
+#### 2.2. Type d'enregistrement
+
+Le premier champ de chaque ligne doit préciser le type d'enregistrement (identificateur de ligne). Les valeurs valides sont les suivantes :
+
+Types d'enregistrement pour le relevé des opérations de la clientèle de gros – Prêts en défaut et cas réglés (BG)
+
+| Type d'enregistrement | Description |
+| --- | --- |
+| 00 | Enregistrement de début (en-tête) |
+| 20 | Enregistrement de début relatif à l'emprunteur – Cheminement A |
+| 25 | Enregistrement de début relatif à l'emprunteur – Cheminement B |
+| 30 | Enregistrement de données sur la facilité – Cheminement A |
+| 35 | Enregistrement de données sur la facilité – Cheminement B |
+| 21 | Enregistrement de fin relatif à l'emprunteur |
+| 99 | Enregistrement de fin |
+
+#### 2.3. Structure du fichier
+
+La première ligne du fichier d'extraction doit correspondre à un enregistrement de début (« 00 ») et la dernière ligne, à un enregistrement de fin (« 99 »); il doit s'agir des seuls enregistrements « 00 » et « 99 » du fichier.
+
+À l'exception des enregistrements de début et de fin, tous les autres enregistrements peuvent être présentés dans n'importe quel ordre. L'intégrité référentielle est établie par la vérification de la présence d'enregistrements parents à l'aide de clés primaires (N° de l'emprunteur et N° de la facilité).
+
+Par exemple, tous les enregistrements relatifs à une facilité doivent être associés à un enregistrement relatif à l'emprunteur. Tant que la structure hiérarchique logique des données est maintenue, l'ordre des enregistrements n'a aucune importance. Il convient également de noter que chaque enregistrement relatif à l'emprunteur nécessite un enregistrement de fin lié à l'emprunteur.
+
+Voici la structure de fichier proposée par le BSIF :
+
+![diagramme d'introduction 2](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2023-06/fr/ws_trn_dft_cdts_2.png)
+
+#### 2.4. Ordre des champs dans les enregistrements
+
+Les champs appartenant à un enregistrement doivent apparaître dans le même ordre que celui qui est présenté dans les tableaux ci-dessous (sections 2.5 à 2.9). Les valeurs des champs doivent être au format précisé dans les tableaux définissant les structures d'enregistrement.
+
+#### 2.5. Enregistrement de début de fichier (00)
+
+L'enregistrement de début constitue un mécanisme de contrôle de la qualité qui permet d'identifier sans ambiguïté chacun des fichiers transmis au BSIF (expéditeur, date de déclaration, nom du fichier, etc.). Les renseignements contenus dans cet en-tête sont comparés au nom du fichier et aux données contenues dans ce dernier afin de s'assurer que le fichier reçu par le BSIF n'a pas été altéré.
+
+La structure des champs de données de l'enregistrement de début est décrite en détail ci-dessous. L'enregistrement de début est commun aux cheminements A et B.
+
+Structure des champs de données de l'enregistrement de début de fichier (00)
+
+| No d'identification du champ | Début | Fin | Longueur | Nom du champ | O | Remarques |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Type d'enregistrement | ✓obligatoire | pic(9) – Chaîne fixe "00" |
+| 1 | 3 | 6 | 4 | Code d'identification de l'institution | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 2 | 7 | 14 | 8 | Date de déclaration des données | ✓obligatoire | pic(9) – Format : AAAAMMJJ |
+| - | 15 | 21 | 7 | Type de fichier | ✓obligatoire | pic(X) – Chaîne fixe, « BG » remplissage à droite par des espaces |
+| - | 22 | 27 | 6 | Version du fichier | ✓obligatoire | pic(X) – Chaîne fixe "04.0.0" |
+| - | 28 | 670 | 643 | Caractères de remplissage | ✓obligatoire | pic(X) – Espaces |
+| - | 671 | 678 | 8 | Compteur de lignes séquentiel | ✓obligatoire | pic(9) – Remplissage à gauche par des zéros |
+| - | 679 | 680 | 2 | RC + SL | ✓obligatoire | pix(X) – Valeur hexadécimale : 0D + 0A |
+
+#### 2.6. Enregistrement relatif à l'emprunteur
+
+Pour le cheminement A (20), la structure des champs de données des enregistrements réservés aux emprunteurs est détaillée ci-dessous :
+
+Structure des champs de données des enregistrements relatif à l'emprunteur, pour le cheminement A (20)
+
+| No d'identification du champ | Début | Fin | Longueur | Nom du champ | O | Remarques |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Type d'enregistrement | ✓obligatoire | pic(9) – Chaîne fixe "20" |
+| 3 | 3 | 17 | 15 | Numéro de l'emprunteur | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 4 | 18 | 117 | 100 | Nom de l'emprunteur |  | pic(X) – Remplissage à droite par des espaces |
+| 5 | 118 | 118 | 1 | Code du système de classification des industries |  | pic(9) - 1, 2, ou 3 |
+| 6 | 119 | 124 | 6 | Code de classification des industries primaires | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 7 | 125 | 130 | 6 | Code de classification des industries secondaires | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| - | 131 | 670 | 540 | Caractères de remplissage | ✓obligatoire | pic(X) – Espaces |
+| - | 671 | 678 | 8 | Compteur de lignes séquentiel | ✓obligatoire | pic(9) – Remplissage à gauche par des zéros |
+| - | 679 | 680 | 2 | RC + SL | ✓obligatoire | pix(X) – Valeur hexadécimale : 0D + 0A |
+
+Pour le cheminement B (25), la structure des champs de données des enregistrements réservés aux emprunteurs est détaillée ci-dessous
+
+Structure des champs de données des enregistrements relatif à l'emprunteur, pour le cheminement B (25)
+
+| No d'identification du champ | Début | Fin | Longueur | Nom du champ | O | Remarques |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Type d'enregistrement | ✓obligatoire | pic(9) – Chaîne fixe, « 25 » |
+| 3 | 3 | 17 | 15 | Numéro de l'emprunteur | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| - | 18 | 670 | 653 | Caractères de remplissage | ✓obligatoire | pic(X) – Espaces |
+| - | 671 | 678 | 8 | Compteur de lignes séquentiel | ✓obligatoire | pic(9) – Remplissage à gauche par des zéros |
+| - | 679 | 680 | 2 | RC + SL | ✓obligatoire | pix(X) – Valeur hexadécimale : 0D + 0A |
+
+#### 2.7. Enregistrements relatifs aux facilités
+
+Pour le cheminement A (30), la structure des champs de données des enregistrements réservés aux facilités et aux produits est détaillée ci-dessous :
+
+Structure des champs de données des enregistrements relatifs aux facilités, pour le cheminement A (30)
+
+| No d'identification du champ | Début | Fin | Longueur | Nom du champ | O | Remarques |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Type d'enregistrement | ✓obligatoire | pic(9) – Chaîne fixe "30" |
+| 3 | 3 | 17 | 15 | Numéro de l'emprunteur | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 8 | 18 | 42 | 25 | Numéro de la facilité | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 15 | 43 | 48 | 6 | PCD réalisée | ✓obligatoire | pic(9) – Sans virgule ni point; remplissage à gauche par des zéros |
+| 9 | 49 | 56 | 8 | Type de facilité principal | ✓obligatoire | pic(X) – Remplissage à droite par des espaces Voir le tableau A dans le document de définition des données [1] |
+| 13 | 57 | 58 | 2 | Profil de subordination | ✓obligatoire | pic(X) –Voir le tableau 2 dans le document de définition des données [1] |
+| 14 | 59 | 59 | 1 | Facilité avec ou sans sûreté | ✓obligatoire | pic(9) - 1, 2 ou 9 |
+| 16 | 60 | 74 | 15 | ECD réalisée – Approche NI | ✓obligatoire | pic(9) – Sans virgule ni point; remplissage à gauche par des zéros |
+| 17 | 75 | 80 | 6 | FECD réalisée – Approche NI | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 12 | 81 | 83 | 3 | Pourcentage de couverture |  | pic(9) – Sans virgule ni point; remplissage à gauche par des zéros |
+| 10 | 84 | 85 | 2 | Pays d'attache de la facilité pour le risque | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 11 | 86 | 93 | 8 | Date du défaut | ✓obligatoire | pic(9) – Format : AAAAMMJJ |
+| 30 | 94 | 101 | 8 | Date de règlement | ✓obligatoire | pic(9) – Format : AAAAMMJJ |
+| 18 | 102 | 105 | 4 | Notations antérieures – 12e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 19 | 106 | 109 | 4 | Notations antérieures – 11e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 20 | 110 | 113 | 4 | Notations antérieures – 10e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 21 | 114 | 117 | 4 | Notations antérieures – 9e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 22 | 118 | 121 | 4 | Notations antérieures – 8e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 23 | 122 | 125 | 4 | Notations antérieures – 7e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 24 | 126 | 129 | 4 | Notations antérieures – 6e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 25 | 130 | 133 | 4 | Notations antérieures – 5e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 26 | 134 | 137 | 4 | Notations antérieures – 4e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 27 | 138 | 141 | 4 | Notations antérieures – 3e trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 28 | 142 | 145 | 4 | Notations antérieures – Avant-dernier trimestre |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 29 | 146 | 149 | 4 | Notations antérieures – Trimestre précédent |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| 31 | 150 | 153 | 4 | Système de notation du risque |  | pic(9) – Conforme au relevé du portefeuille de la clientèle de gros |
+| - | 154 | 670 | 517 | Caractères de remplissage | ✓obligatoire | pic(X) – Espaces |
+| - | 671 | 678 | 8 | Compteur de lignes séquentiel | ✓obligatoire | pic(9) – Remplissage à gauche par des zéros |
+| - | 679 | 680 | 2 | RC + SL | ✓obligatoire | pic(X) - Hexadecimal: 0D + 0A |
+
+Pour le cheminement B (35), la structure des champs de données des enregistrements réservés aux facilités et aux produits est détaillée ci-dessous :
+
+Structure des champs de données des enregistrements relatifs aux facilités, pour le cheminement B (35)
+
+| No d'identification du champ | Début | Fin | Longueur | Nom du champ | O | Remarques |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Type d'enregistrement | ✓obligatoire | pic(9) – Chaîne fixe "35" |
+| 3 | 3 | 17 | 15 | Numéro de l'emprunteur | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 8 | 18 | 42 | 25 | Numéro de la facilité | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 15 | 43 | 48 | 6 | PCD réalisée | ✓obligatoire | pic(9) – Sans virgule ni point; remplissage à gauche par des zéros |
+| 14 | 49 | 49 | 1 | Facilité avec ou sans sûreté | ✓obligatoire | pic(9) - 1, 2, ou 9 |
+| 16 | 50 | 64 | 15 | ECD réalisée | ✓obligatoire | pic(9) – Sans virgule ni point; remplissage à gauche par des zéros |
+| 17 | 65 | 70 | 6 | FECD réalisé | ✓obligatoire | pic(9) – Sans virgule ni point; remplissage à gauche par des zéros |
+| 30 | 71 | 78 | 8 | Date de règlement | ✓obligatoire | pic(9) – Format : AAAAMMJJ |
+| - | 79 | 670 | 592 | Caractères de remplissage | ✓obligatoire | pic(X) – Espaces |
+| - | 671 | 678 | 8 | Compteur de lignes séquentiel | ✓obligatoire | pic(9) – Remplissage à gauche par des zéros |
+| - | 679 | 680 | 2 | RC + SL | ✓obligatoire | pix(X) – Valeur hexadécimale : 0D + 0A |
+
+#### 2.8. Sous-enregistrement de fin – Emprunteur (21)
+
+Pour les cheminements A et B, la structure des champs de données des enregistrements réservés aux emprunteurs est détaillée ci-dessous :
+
+Structure des champs de données des sous-enregistrement de fin réservés aux emprunteurs (21) pour les cheminements A et B
+
+| No d'identification du champ | Début | Fin | Longueur | Nom du champ | O | Remarques |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Type d'enregistrement | ✓obligatoire | pic(9) – Chaîne fixe "21" |
+| 3 | 3 | 17 | 15 | Numéro de l'emprunteur | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| - | 18 | 670 | 653 | Caractères de remplissage | ✓obligatoire | pic(X) – Espaces |
+| - | 671 | 678 | 8 | Compteur de lignes séquentiel | ✓obligatoire | pic(9) – Remplissage à gauche par des zéros |
+| - | 679 | 680 | 2 | RC + SL | ✓obligatoire | pic(X) - Hexadecimal: 0D + 0A |
+
+#### 2.9. Enregistrements de fin (99)
+
+Pour les cheminements A et B, la structure des champs de données des enregistrements réservés aux facilités et aux produits est détaillée ci-dessous :
+
+Structure des champs de données des enregistrements de fin (99) réservés aux facilités et aux produits, pour les cheminements A et B
+
+| No d'identification du champ | Début | Fin | Longueur | Nom du champ | O | Remarques |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Type d'enregistrement | ✓obligatoire | pic(9) – Chaîne fixe "99" |
+| 1 | 3 | 6 | 4 | Code d'identification de l'institution | ✓obligatoire | pic(X) – Remplissage à droite par des espaces |
+| 2 | 7 | 14 | 8 | Date de déclaration des données | ✓obligatoire | pic(9) – Format : AAAAMMJJ |
+| - | 15 | 21 | 7 | Type de fichier | ✓obligatoire | pic(X) – Chaîne fixe, « BG » remplissage à droite par des espaces |
+| - | 22 | 27 | 6 | Version du fichier | ✓obligatoire | pic(X) – Chaîne fixe « 04.0.0 » |
+| - | 28 | 670 | 643 | Caractères de remplissage | ✓obligatoire | pic(X) – Espaces |
+| - | 671 | 678 | 8 | Compteur de lignes séquentiel | ✓obligatoire | pic(9) – Remplissage à gauche par des zéros |
+| - | 679 | 680 | 2 | RC + SL | ✓obligatoire | pic(X) - Hexadecimal: 0D + 0A |
+
+### 3. RÈGLES DE VALIDATION DES DONNÉES
+
+#### 3.1. Traitement des erreurs
+
+Dans le cadre du traitement des erreurs, on vise à détecter le plus grand nombre possible d'erreurs et d'avertissements. Le fichier sera rejeté en entier si des erreurs sont décelées; aucune donnée ne sera enregistrée dans la base de données. Les avertissements concernent des lacunes mineures au titre des données que les institutions sont encouragées à corriger, mais ils n'empêchent pas la base de données d'accepter le fichier.
+
+Le traitement du fichier se déroule comme suit :
+
+##### 3.1.1. Vérifications préalables au traitement
+
+Un traitement préalable est effectué pour s'assurer que les fichiers d'extraction des données reçus sont formatés comme il se doit, et que les enregistrements de début et de fin correspondent bien au contenu du fichier. Un programme vérifie que les fichiers d'extraction des données contiennent un enregistrement de début et sont dénués d'erreurs de formatage. Ce programme vérifie notamment que :
+
+* tous les enregistrements sont assortis d'un type valide (00, 20, 25, 30, 35, 21, 99).
+* tous les enregistrements du fichier ont 678 octets, plus deux caractères ASCII (retour de chariot et saut de ligne).
+* tous les enregistrements ont le nombre de champs correspondant au type d'enregistrement;
+* tous les enregistrements sont assortis d'un compteur séquentiel, celui de l'enregistrement de début étant 00000001 et la valeur des enregistrements suivants augmentée de 1 à chaque nouvel enregistrement;
+* le type de relevé correspond exactement aux données de l'enregistrement de début et de fin;
+* le nom du fichier porte l'extension \*.DAT;
+* le code de l'institution fourni dans le nom du fichier et dans les enregistrements de début et de fin est un code valide de la Banque du Canada (ce code est fourni par le BSIF);
+* chaque valeur de champ attribuée doit être structurée selon les spécifications. (P. ex. le remplissage à gauche par des espaces n'est pas acceptable si le remplissage par des zéros est précisé, même si la partie « significative » du champ est identique.
+
+##### 3.1.2. Vérification de la hiérarchie des données
+
+* Chaque enregistrement relatif à une facilité doit être associé à un enregistrement relatif à l'emprunteur.
+* Chaque emprunteur doit être représenté par une combinaison unique de type d'enregistrement et de numéro d'emprunteur, comme on l'explique aux sections 2.6 et 2.8 du présent document.
+* Chaque facilité doit être représentée par une combinaison unique de type d'enregistrement (« 30 »), de numéro d'identification de l'emprunteur et de numéro de facilité, comme on l'explique à la section 2.7 du présent document.
+
+##### 3.1.3. Vérification de la valeur des champs
+
+La vérification de la valeur des champs fait en sorte qu'un champ renferme des valeurs valides, comme il est précisé en [1].
+
+##### 3.1.4. Règles concernant les valeurs des champs
+
+Les règles concernant les valeurs des champs garantissent que les données contenues dans chaque champ sont conformes aux types de données décrits dans le document de définition des données [1]. Les règles générales suivantes s'appliquent à tous les fichiers de données de relevé. D'autres règles particulières concernant les valeurs des champs peuvent également être énoncées dans le document [1] ci-dessus.
+
+###### 3.1.4.1. Règles concernant les montants
+
+Tous les montants sont déclarés et validés selon les règles suivantes :
+
+1. Tous les montants sont déclarés en milliers de dollars.
+2. Tous les montants sont arrondis au millier de dollars près.
+3. Les champs renfermant des montants ne contiennent que des chiffres (à l'exception des montants négatifs). Aucune virgule ou séparateur décimal ne doit être utilisé.
+4. Les montants négatifs doivent être déclarés avec le signe moins devant le premier chiffre « significatif »; en d'autres termes, déclarer le nombre négatif, avec remplissage à gauche avec des zéros (voir l'exemple ci-après).
+5. Tous les montants doivent être déclarés dans un champ à 15 caractères, avec remplissage à gauche par des zéros.
+
+Par exemple, le montant 2 183 624,68 $ doit être déclaré au format 000000000002184, et –34 892,45 doit être déclaré au format 000000000000-35.
+
+###### 3.1.4.2. Règles concernant les probabilités et les pourcentages
+
+Tous les pourcentages sont déclarés et validés selon les règles suivantes :
+
+1. Toutes les probabilités entre 0 et 1 doivent être déclarées en pourcentage (entre 0 % et 100 %).
+2. Tous les pourcentages doivent comporter deux chiffres significatifs après le séparateur décimal. (Avec l'exception suivante : aucun chiffre significatif pour le champ 12 <Pourcentage de couverture>.)
+3. Tous les pourcentages doivent être arrondis au centième de pourcent le plus près. (Avec l'exception susmentionnée : arrondi au pourcentage entier pour le champ 12 <Pourcentage de couverture>.)
+4. Les pourcentages ne peuvent contenir que des valeurs numériques, un point et, dans le cas de valeurs négatives, un signe moins. Ne pas employer la virgule.
+5. Tous les pourcentages doivent être déclarés dans un champ à six caractères, avec remplissage à gauche par des zéros. (À l'exception du champ 12, qui comporte trois caractères.)
+
+Par exemple, la valeur 98,738543 % doit être exprimée ainsi : 098.74
+
+Exemple pour le champ 12 : 98,738543 % doit être exprimé ainsi : 099.
+
+Exemple de valeurs négatives (à l'exception du champ 12) : -6.1234 % doit être exprimé dans la chaîne 0-6.12
+
+Exemple de valeurs négatives (pour le champ 12) : -6.1234 % sera exprimé dans la chaîne 0-6
+
+###### 3.1.4.3. Règles concernant les autres valeurs numériques
+
+Toutes les autres valeurs numériques sont déclarées et validées selon les règles suivantes :
+
+1. Le nombre de chiffres dépend de la définition des données énoncée dans le document [1].
+2. Les valeurs numériques ne peuvent contenir que des chiffres et, dans le cas de valeurs négatives, un signe moins.
+3. Les valeurs numériques (autres que les montants et les pourcentages, dont il est question ci-dessus) sont des nombres entiers arrondis à l'unité près, sans chiffre significatif après la décimale.
+4. Les valeurs négatives doivent être déclarées avec le signe moins devant le premier chiffre significatif; en d'autres termes, il faut déclarer les nombres négatifs avec remplissage à gauche avec des zéros.
+5. Toutes les valeurs numériques sont assorties d'un remplissage à gauche avec des zéros.
+
+Par exemple, les valeurs 000073654 et 000000-79 sont des valeurs numériques valides à neuf caractères représentant 73,654 et -79.22 respectivement. Les valeurs suivantes ne sont pas valides :
+
+* 0073654 <= Nombre de caractères erroné (il devrait y avoir neuf chiffres au lieu de sept)
+* 00073,654 <= Virgule non permise
+* 0073654.5 <= Seuls les nombres entiers sont permis, et les caractères qui ne sont pas des chiffres sont interdits
+* 73654 <= Le champ n'est pas rempli à gauche par des zéros
+* -00000079 <= Le signe moins n'est pas à la bonne position
+
+###### 3.1.4.4. Règles concernant les dates
+
+Toutes les dates sont déclarées et validées selon les règles suivantes :
+
+1. Tous les champs renfermant une date comptent huit caractères;
+2. Une date ne peut contenir que des chiffres (les mois écrits en lettres, les caractères spéciaux et les espaces ne sont pas permis);
+3. Les dates doivent être au format AAAAMMJJ, où AAAA représente l'année, MM le mois et JJ le jour.
+
+Par exemple, la chaîne 20100608 correspond au 8 juin 2010.
+
+##### 3.1.5. Remarques importantes
+
+* Le champ correspondant au compteur de lignes séquentiel qui apparaît au début de chaque enregistrement doit avoir la valeur « 00000001 » dans l'enregistrement de début, et augmenter de 1 à chaque ligne. Le compteur de l'enregistrement de fin devrait donc indiquer le nombre total d'enregistrements du fichier.
+* Les valeurs agrégées correspondant aux pourcentages, aux ratios et aux probabilités doivent être calculées à partir des totaux préagrégés placés en position de numérateur et de dénominateur.
+
+#### 3.2. Règles relatives aux opérations
+
+L'expression « règles relatives aux opérations » désigne généralement un ensemble de conditions qui servent à déterminer la validité des données. Chaque règle précise les critères qu'un élément de donnée particulier (ou un nombre d'éléments) doit satisfaire pour être valide. Les règles relatives aux opérations sont appliquées pour cerner les données ayant été saisies de façon erronée. En retournant les enregistrements erronés aux institutions financières pour correction, on s'assure d'une meilleure intégrité des données de la base de données sur le portefeuille d'actifs à risque.
+
+Bon nombre des règles relatives aux opérations s'appliquant aux présentes spécifications techniques exigent le rapprochement de données provenant de différents enregistrements. En d'autres termes, la somme de certaines données devrait être égale à la somme de données provenant d'autres enregistrements. Les règles sont énumérées ci-dessous selon l'ordre numérique.
+
+##### 3.2.1. Données admissibles
+
+Déclarer toutes les opérations (prêts en défaut et cas réglés) en vertu desquelles le montant autorisé pour la mise en commun des risques en équivalent de dollars canadiens est supérieur à un millions de dollars.
+
+##### 3.2.2. Codes de classification des industries
+
+Le code de classification d'industrie primaire (champ 6) doit correspondre à un code valide à six chiffres du SCIAN. Le BSIF validera les codes SCIAN par rapport aux tables de la Classification des industries fournies par Statistique Canada. Tout code ne figurant pas dans la table appropriée est rejeté.
+
+Le code de classification d'industrie secondaire (champ 7) peut provenir de l'un des trois systèmes de classification des industries suivants. Le système retenu (1, 2 ou 3) est précisé au champ réservé au Code du système de classification d'industrie secondaire (champ 5) :
+
+1. Codes CTI canadiens = 4 caractères
+2. Codes CTI américains = 4 caractères
+3. Codes SCIAN = 6 caractères
+
+Quel que soit le système de classification des industries utilisé par l'institution financière, le BSIF exige les codes complets correspondant aux niveaux de granularité les plus bas de chaque industrie.
+
+Une fois vérifié le nombre de caractères du code de classification des industries, les codes CTI et SCIAN sont validés à partir des tables fournies par Statistique Canada. Les codes CTI américains sont validés au moyen des tables fournies par le Département du travail des États-Unis. Tout code ne figurant pas dans la table appropriée est rejeté.
+
+Les champs 5 et 7 doivent être remplis ensemble ou pas du tout, sans quoi un avertissement sera fourni.
+
+##### 3.2.3. Profils des notations antérieures
+
+Les profils des notations antérieures (champs 18 à 29) numérotés de un à douze témoignent des fluctuations des notations de crédit (NIRE) de tous les prêts en défaut et des cas réglés avant la date de défaut. Il existe douze profils, un pour chaque trimestre de déclaration des trois dernières années. Précisons qu'il ne peut y avoir aucun écart entre les notations antérieures trimestrielles déclarées. Autrement dit, à partir du moment où l'on attribue une valeur à un trimestre donné, il faut en faire de même pour tous les trimestres suivants. Les valeurs déclarées au niveau des NIRE doivent exister à l'intérieur du Système de notation du risque (champs 31). Autrement dit, les agencements de SNR-NIRE doivent être déclarés dans les relevés BB et BC. Sinon, les données seront rejetées.
+
+##### 3.2.4. Pays
+
+Les codes de pays (champ 10) seront validés par rapport aux normes ISO (ISO 3166). Tout code ne figurant pas dans la table appropriée est rejeté.
+
+##### 3.2.5. Champs de date
+
+La longueur des champs de date qui suivent ne doit pas dépasser celle de la date de déclaration, sans quoi les données seront refusées : Date de défaut (champ 11), Date de règlement (champ 30).
+
+##### 3.2.6. Valeurs négatives
+
+L'inscription de valeurs négatives dans le relevé entraînera leur refus; les exceptions suivantes ont été prévues : PCD réalisée (champ 15), ECD réalisée – Approche NI (champ 16) et FECD réalisée - Approche NI (champ 17); dans ces cas, les valeurs négatives sont réputées acceptables dans certaines circonstances. (Les valeurs négatives pour l' ECD réalisée – Approche NI et la FECD réalisée - Approche NI déclencheront un avertissement.)
+
+##### 3.2.7. Valeurs en pourcentage
+
+Les champs de pourcentage qui suivent ne doivent pas renfermer de valeurs supérieures à 100 % : Pourcentage de couverture (champ 12) et FECD réalisée - Approche NI (champ 17); cependant, une valeur se situant à l'extérieur de la fourchette n'est pas refusée; elle n'entraîne qu'un avertissement.
+
+##### 3.2.8. Autres règles de validation relatives aux opérations
+
+La valeur indiquée dans certains champs doit provenir d'un ensemble d'options prédéfinies figurant dans le document [1]. Une valeur se situant à l'extérieur de la fourchette entraînera le rejet du fichier de données.
+
+Le document [1] précise les options appliquées aux champs suivants :
+
+* Code du système de classification d'industrie secondaire (champ 5)
+* Type de facilité principal (champ 9)
+* Facilité avec ou sans sûreté (champ 14)
+* Profil de subordination (champ 13)
+
+Précisons que s'il est encore possible d'attribuer la valeur « inconnu » à certains champs, cette réponse ne sera plus acceptée après janvier 2008. Elle provoquera le rejet des données.
+
+##### 3.2.9. Correspondance des enregistrements déclarés en vertu du cheminement B
+
+Chaque prêt en défaut mais réglé et déclaré au moyen du cheminement B du relevé Données sur les défauts de la clientèle de gros et les prêts réglés doit correspondre aux prêts liés aux opérations de la clientèle de gros déjà déclarés à l'aide du « numéro d'emprunteur » et du « numéro de facilité ». Les enregistrements qui ne correspondent pas seront considérés comme non valides.
+
+##### 3.2.10. Correspondance des enregistrements déclarés en vertu du cheminement A
+
+Dans le cas des IF qui ne sont pas en mesure de retracer les données présentées antérieurement (cheminement A), le BSIF acceptera un enregistrement au champ 30 pour tous les prêts en défaut et les cas réglés de plus d'un million de dollars, mais exigera que l'IF déclare ces postes au moyen des mêmes numéros d'emprunteur et de facilité que ceux qui ont été déclarés dans le relevé des opérations de la clientèle de gros.
+
+#### 3.3. Éléments de données facultatifs et obligatoires
+
+Les points de données dits « facultatifs » portent sur les situations où il n'existe pas de points de données pour toutes les institutions financières. Toutefois, si une institution financière dispose des données pour un champ « facultatif », les données doivent être produites dans le relevé.
+
+Les champs obligatoires renferment des points de données qui doivent être fournis par toutes les institutions financières. Dans les autres cas, les données seront refusées.
+
+#### 3.4. Relevé des erreurs
+
+Si l'une des règles de validation ci-dessus n'est pas respectée, un relevé des erreurs est produit et le fichier des données est rejeté. Le contenu du relevé des erreurs varie selon le(s) type(s) d'erreur décelé(s). Le relevé contient tous les renseignements nécessaires pour faciliter la compréhension et la correction des erreurs. Cependant, si le relevé des erreurs ne renferme que des avertissements, le fichier de données est accepté par le BSIF. Veuillez noter que vous devez toujours corriger les données erronées ou incohérentes (en d'autres termes, éliminer les « avertissements ») pour la transmission de données suivante.
+
+L'institution financière visée reçoit un courriel confirmant ou infirmant l'enregistrement du fichier dans la base de données. Si des problèmes ont été décelés, le relevé des erreurs (renfermant les « erreurs » et les « avertissements ») est joint à ce courriel.
+
+### Relevé des modifications
+
+#### Modifications à signaler dans la version 2.0
+
+Le présent relevé s'adresse aux spécialistes. Nous l'avons préparé pour leur signaler les modifications apportées aux spécifications techniques depuis la version précédente. Le lecteur devrait avoir en main la version 1.0 de ce document lorsqu'il consulte le présent relevé.
+
+Les institutions qui n'utilisaient pas la version précédente du présent document n'ont pas besoin de tenir compte des modifications signalées ci-dessous.
+
+1. Section 1 Introduction – Troisième paragraphe - « ECD » est remplacé par « montant autorisé ».
+2. Section 1 Introduction – Mise à jour du tableau de la page 2. Le texte de la première case, « Le prêt est-il en défaut et réglé? » a été remplacé par « Le prêt en défaut a-t-il été réglé? ». En outre, le texte accompagnateur a été remplacé par « Tous les prêts admissibles doivent être déclarés jusqu'à ce qu'ils soient réglés ».
+3. Section 1 Introduction – On précise que les prêts en défaut et réglés ne doivent être déclarés et soumis qu'une seule fois. Une fois présentées, les données ne peuvent pas être modifiées.
+4. Section 2.1 Type de fichier et convention de désignation des fichiers - Sections 2.5, Enregistrement de début de fichier (00) et 2.9, Enregistrements de fin – la chaîne fixe « IRBDFRL » est remplacée par « BG ».
+5. Section 2.5 Enregistrement de début de fichier (00) et 2.9, Enregistrements de fin – La valeur du champ Version du fichier est maintenant de « 01.0.0 », ce qui correspond au nombre maximum de 6 caractères.
+6. Section 2.6 Enregistrement relatif à l'emprunteur – Modification de l'emplacement du début et de la fin du champ des structures d'enregistrement 20 et 25.
+7. Section 2.6 Enregistrement relatif à l'emprunteur – Correction de l'étiquetage des options de cheminement A et B dans cette section. Les étiquettes étaient inversées dans la version précédente.
+8. Section 2.7 Enregistrements relatifs aux facilités – Correction de l'étiquetage des options de cheminement A et B dans cette section. Les étiquettes étaient inversées dans la version précédente.
+9. Section 2.7 Enregistrements relatifs aux facilités – La longueur du champ 17 « FEDC réalisée – Approche NI » est maintenant de 6. Elle correspond ainsi à la définition des données qui figure dans les spécifications des activités.
+10. Section 2.7 Enregistrements relatifs aux facilités - Modification de l'emplacement du début et de la fin du champ des structures d'enregistrement 30 et 35.
+11. Règles de validation des données – Nouvelle section 3.1.4, Règles concernant les valeurs des champs, dans laquelle on apporte des précisions concernant l'arrondissement et la déclaration des montants, des pourcentages et des dates. Cette section a été harmonisée avec les Règles concernant les valeurs des champs, qui se trouvent dans les instructions des Déclarations de portefeuille.
+12. Section 3.1 Traitement des erreurs - Le contenu de cette section est remanié de façon à correspondre à la Déclaration des opérations de la clientèle de gros.
+
+#### Modifications à signaler dans la version 3.0
+
+Le présent relevé s'adresse aux spécialistes. Nous l'avons préparé pour leur signaler les modifications apportées aux spécifications techniques depuis la version précédente. Le lecteur devrait avoir en main la version 2.0 de ce document lorsqu'il consulte le présent relevé.
+
+Les institutions qui n'utilisaient pas la version précédente du présent document n'ont pas besoin de tenir compte des modifications signalées ci-dessous.
+
+1. Section 1 Introduction – Troisième paragraphe.  
+   Le montant autorisé est maintenant suivi du terme « original », parce que le montant autorisé est zéro dans le cas d'un prêt en défaut. Cette section comprend également une explication du concept de montant autorisé original.
+2. Section 1 Introduction  
+   Le quatrième paragraphe est reformulé pour expliquer pourquoi et comment il convient d'utiliser le cheminement B.
+3. Section 1 Introduction - La remarque qui se trouve sous le diagramme a été modifiée.
+4. Section 2.5 Enregistrement de début de fichier (00)  
+   Type de fichier. Nouvelle remarque : remplissage à droite par des espaces.
+5. Section 2.4 L'ordre des champs dans les enregistrements est maintenant 2.5 et 2.9 (était 4.6, 4.10).
+6. Section 2.6 Enregistrement relatif à l'emprunteur  
+   Cheminement A (20) – La remarque concernant le type d'enregistrement se lit maintenant pic(9) – chaîne fixe « 20 », reflétant ainsi le numéro exact de la structure de l'enregistrement.
+7. Section 2.6 Enregistrement relatif à l'emprunteur  
+   Cheminement B (25) – La remarque concernant le type d'enregistrement se lit maintenant pic(9) – chaîne fixe « 25 », reflétant ainsi le numéro exact de la structure du fichier.
+8. Section 2.7 Enregistrements relatifs aux facilités  
+   Cheminement A (30) – La remarque concernant le type d'enregistrement se lit maintenant pic(9) – chaîne fixe « 30 », reflétant ainsi le numéro exact de la structure de l'enregistrement.
+9. Section 2.7 Enregistrements relatifs aux facilités  
+   Cheminement B (35) – La remarque concernant le type l'enregistrement se lit maintenant pic(9) – chaîne fixe « 35 », reflétant ainsi le numéro exact de la structure du fichier.
+10. Section 2.7 Enregistrements relatifs aux facilités  
+    Cheminement A (30), champ numéro 8; la longueur du champ du « Numéro de la facilité » est maintenant « 25 », (était 15).
+11. Section 2.7 Enregistrements relatifs aux facilités  
+    Cheminement A (30), champ numéro 9; la longueur du champ du « Numéro de la facilité » est maintenant « 25 », (était 15).
+12. Section 2.7 Enregistrements relatifs aux facilités  
+    Cheminement A (30), la colonne « O » des champs 18 à 29 " Notations antérieures – Trimestre précédent » n'est plus cochée, ces champs n'étant plus obligatoires.
+13. Section 2.7 Enregistrements relatifs aux facilités  
+    Cheminement A (30), les positions de début et de fin des champs « Compteur de lignes séquentiel » et « RC + SL » ont été modifiées pour refléter la longueur des enregistrements.
+14. Section 2.7 Enregistrements relatifs aux facilités  
+    Cheminement B (35), champ numéro 8, la longueur du champ du « Numéro de la facilité » est maintenant « 25 », (était 15).
+15. Section 2.7 Enregistrements relatifs aux facilités  
+    Cheminements A(30) et B(35), champs 15 (PCD réalisée – Approche NI) et 17 (FECD réalisé). Modification de la remarque. Les mots « ni point » sont supprimés, les centièmes devant être exprimés par un point.
+16. Section 3.1.2. Vérification de la hiérarchie des données  
+    Les renvois ont été modifiés. Ils se lisent maintenant 2.6, 2.7 et 2.8 (étaient 4.6, 4.7, 4.8).
+17. Section 3.1.4.2 Règles concernant les probabilités et les pourcentages  
+    Les points 2 et 3 sont maintenant assortis d'une note expliquant que le champ 12 constitue une exception puisqu'il faut arrondir les valeurs correspondantes, à moins de deux chiffres. Un nouvel exemple est ajouté.
+18. Section 3.1.4.2 Règles concernant les probabilités et les pourcentages (Point 4)  
+    Nouvelle remarque : Ne pas employer la virgule.
+
+#### Modifications à signaler dans la version 3.5
+
+Le présent relevé s'adresse aux spécialistes. Nous l'avons préparé pour leur signaler les modifications apportées aux spécifications techniques depuis la version précédente. Le lecteur devrait avoir en main la version 3.0 du document lorsqu'il consulte le présent relevé. Précisons que les modifications de nature superficielle ne sont pas signalées ici.
+
+Les institutions qui n'utilisaient pas la version précédente du présent document n'ont pas besoin de tenir compte des modifications signalées ci-dessous.
+
+1. Section 1 Introduction  
+   Nouveau commentaire au sujet des deux relevés.
+2. Section 1 Introduction  
+   Mise à jour du diagramme au sujet des critères de sélection du relevé/cheminement; en outre, les seuils (1 million de dollars à 10 millions $) sont précisés et certains points de données sont mis à jour.
+3. Section 2.3 Structure du fichier  
+   Nouveau commentaire au sujet de la correspondance de l'enregistrement de fin de fichier.
+4. Section 2.5 Enregistrement de début de fichier (00)  
+   Modification des remarques du champ « Version du fichier » à « pic(X) – Chaîne fixe « 03.5.0 »
+5. Sections 2.5 à 2.9 Descriptions du type de fichier  
+   À la colonne de l'indicateur Obligatoire (« O »), la coche a été supprimée (certains champs obligatoires sont devenus facultatifs (champs 5, 7, 12)
+6. Sections 2.5 à 2.9 Descriptions du type de fichier  
+   Modification des remarques; l'expression « remplissage à gauche » remplacée par « Remplissage à droite par des espaces » pour plus de précision
+7. Section 2.7 Nouveaux renvois aux tables du document [1] à la section remarques de deux champs (champs 9 et 13)
+8. Section 2.9 Enregistrements de fin  
+   Modification des remarques du champ « Version du fichier » à « pic(X) – Chaîne fixe « 03.5.0 »
+9. Section 3.1.1 Vérifications préalables au traitement  
+   Ajout des types d'enregistrement manquants (25, 35).
+10. Section 3.1.1 Vérifications préalables au traitement  
+    Correction de la longueur (de 668 à 678).
+11. Section 3.1.1 Vérifications préalables au traitement  
+    Nouveaux commentaires au sujet de la vérification du type de relevé.
+12. Section 3.1.1 Vérifications préalables au traitement  
+    Nouveaux commentaires au sujet du formatage.
+13. Section 3.1.1 Vérifications préalables au traitement  
+    Suppression du dernier commentaire, au sujet du type de fichier.
+14. Section 3.1.4.1 Règles concernant les montants  
+    Modification/ajout des commentaires 3 et 4 pour intégrer l'option concernant les valeurs négatives. Nouvel exemple.
+15. Section 3.1.4.2 Règles concernant les probabilités et les pourcentages  
+    Modification/ajout des commentaires 2, 4 et 5 pour intégrer l'option concernant les valeurs négatives. Nouvel exemple.
+16. Section 3.1.4.3 Règles concernant les autres valeurs numériques  
+    Modification/ajout des commentaires 2 et 4 pour intégrer l'option concernant les valeurs négatives. Nouvel exemple.
+17. Section 3.2 Règles relatives aux opérations  
+    Ajout/précision des conséquences du non-respect des règles de validation pour chaque règle relative aux opérations.
+18. Section 3.2.1 Données admissibles  
+    Ajout de l'admissibilité des données aux fins de déclaration.
+19. Section 3.2.2 Codes de classification des industries  
+    Description des règles de validation modifiées des codes de classification des industries (champs 5, 6, 7).
+20. Section 3.2.3 Profils des notations antérieures  
+    Correction des renvois aux champs.
+21. Section 3.2.4 Pays  
+    Correction des renvois aux champs.
+22. Section 3.2.5 Champs de date  
+    Nouveaux champs de validation de la date.
+23. Section 3.2.6 Valeurs négatives  
+    Nouvelles règles concernant la validation des opérations à valeur négative.
+24. Section 3.2.7 Valeurs en pourcentage  
+    Nouvelles règles concernant la validation des opérations en pourcentage.
+25. Section 3.2.8 Autres règles de validation relatives aux opérations  
+    Nouvelle section pour prévoir la vérification des valeurs d'autres champs.
+26. Section 3.2.9 Correspondance des enregistrements déclarés en vertu du cheminement B  
+    Précision de l'explication.
+27. Section 3.2.10 Correspondance des enregistrements déclarés en vertu du cheminement A  
+    Correction de la description des prêts; ajout d'un renvoi au cheminement A.
+28. Section 3.3 Éléments de données facultatifs et obligatoires  
+    Nouvelle section pour préciser les attentes relatives aux options facultatives et obligatoires.
+29. Section 3.4 Relevé des erreurs  
+    Nouveau commentaire au sujet du relevé des erreurs et de la période de tolérance.
+
+#### Modifications à signaler dans la version 4
+
+Le présent relevé s'adresse aux spécialistes. Nous l'avons préparé pour leur signaler les modifications apportées aux spécifications techniques depuis la version précédente. Le lecteur devrait avoir en main la version 3.0 de ce document à des fins de comparaison. Précisons que les modifications de nature superficielle ne sont pas signalées ici.
+
+Les institutions qui n'utilisaient pas la version précédente du présent document n'ont pas besoin de tenir compte des modifications signalées ci-dessous.
+
+1. Section 2.5 Enregistrement de début de fichier (00)  
+   Champ « Version du fichier » – la remarque se lit maintenant pic(X) – chaîne fixe « 04.0.0. »
+2. Section 2.7 Enregistrements relatif aux facilités  
+   Champs 18 à 29 (colonne longueur) – on prévoit maintenant quatre espaces pour les notations antérieures des trimestres précédents et la remarque se lit maintenant pic(9) – conforme au relevé du portefeuille de la clientèle de gros.
+3. Section 2.7 Enregistrements relatif aux facilités  
+   Champ 31 – ajout de « Système de notation du risque ».
+4. Section 2.9 Enregistrements de fin (99)  
+   Champ « Version du fichier » – la remarque se lit maintenant pic(X) – Chaîne fixe « 04.0.0. »
+5. Section 3.2.3 Profils des notations antérieures  
+   Ajout de précisions concernant les agencements SNR-NIRE.
+6. Section 3.2.8 Autres règles de validation relatives aux opérations  
+   Ajout d'une précision concernant le choix de réponse « Inconnu ».
+
+#### Modifications à signaler dans la version 4.0 – numéro 2
+
+Le présent relevé s'adresse aux spécialistes. Nous l'avons préparé pour leur signaler les modifications apportées aux spécifications techniques depuis la version précédente. Le lecteur devrait avoir en main la version 4.0 de ce document à des fins de comparaison. Précisons que les modifications de nature superficielle ne sont pas signalées ici – elles ne devraient avoir aucune incidence sur le développement.
+
+Les institutions qui n'utilisaient pas la version précédente du présent document n'ont pas besoin de tenir compte des modifications signalées ci-dessous.
+
+1. Section 1 Introduction  
+   Nous avons apporté des précisions au sujet des données établies au moyen des cheminements A et B.
+2. Section 3.4 Relevé des erreurs  
+   Le dernier paragraphe de cette section, qui portait sur la « période de tolérance », a été supprimé parce que cette mesure ne s'applique pas aux relevés produits après le 1er décembre 2007.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-06-26

@@ -1,0 +1,25 @@
+{
+  "doc_id": "e2915222b54fded3",
+  "regulator_id": "nikkei_asia",
+  "doc_type": "news_story",
+  "title": "US imports more Asian goods during first half amid tariff uncertainty",
+  "language": "en",
+  "source_url": "https://asia.nikkei.com/economy/trade/us-imports-more-asian-goods-during-first-half-amid-tariff-uncertainty",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:811df132c171f8df6923567994b30de59eddb7133358d76579cd7f4af3614303",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nikkei_asia_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nikkei_asia/current/news_story/2026/e2915222b54fded3",
+  "tags": [
+    "japan"
+  ],
+  "final_url": "https://asia.nikkei.com/economy/trade/us-imports-more-asian-goods-during-first-half-amid-tariff-uncertainty",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,1 @@
+Summary: # Increase of regulatory prudential limits related to investment, lending and borrowing for all Canadian Property and Casualty Federally Regulated Insurance Companies

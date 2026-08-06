@@ -1,0 +1,24 @@
+{
+  "doc_id": "7514435804efdff6",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Aviso de FinCEN FIN-2025-A003 | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/advisories/aviso-de-fincen-fin-2025-a003",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ae549ece9f6c40dbab265583fbd841487906ced784ab76c832be78bbaa9cfb63",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/7514435804efdff6",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,55 @@
+# BSA Records, 314(a) Request Assists Investigation of International Money Laundering Using Stored Value Cards
+
+[008.pdf](/system/files/case_example/008.pdf "008.pdf")
+(27.08 KB)
+
+A man accused of managing an international theft ring involving more than $1 million has been indicted and faces charges including fraud and money laundering. Prosecutors allege that the defendant stole the identities of hundreds of people and used his stored-value card business to launder and transfer funds to Russia and elsewhere. Bank Secrecy Act records helped investigators piece together the investigation and provided additional leads.
+
+In late 2006, a federal grand jury indicted the defendant on 152 counts of wire fraud, money laundering, and identity theft. The government charges that he established a company in the business of selling stored-valued ATM cards and that he allegedly swindled unsuspecting victims using their bank account and credit card information.
+
+Customers set up PayPal accounts in order to simplify their transactions. Investigators said that the defendant’s co-conspirators assisted in the scheme by obtaining bank account and credit card information from victims and then stealing from their accounts. The stolen funds were then given to the defendant who in turn deposited the money into his stored-value cards. These cards were gift cards that acted as debit cards and carried the names of the victims whose identities had been stolen. In order to further carry out his scheme, the defendant transferred the money from one account to another which made tracing the funds difficult for investigators. Fifteen cards were held in the United States and six cards were sent to Russia. The co-conspirators would then retrieve the money from ATM machines.
+
+Prosecutors note that in 1998 the defendant filed for bankruptcy stating that in the previous year his income was only $10,000, but he had more than $55,000 of debt. However, within a few years, he was able to purchase a home valued at more than $1 million in a gated community. He also owned a new Lexus automobile and frequently vacationed in Las Vegas. The Federal Bureau of Investigation (FBI) seized the house and the car along with $160,000 in cash.
+
+The defendant originally started the business in question on-line. He later incorporated the business and attempted to sell stock in the corporation. That effort resulted in a cease and desist order. He later converted his business into a provider of stored-value cards. Through Internet bulletin boards, he attempted to solicit distributors for his service. The defendant attracted the attention of financial institutions, who originally contacted the Drug Enforcement Administration (DEA) because of the suspicious nature of the transactions.
+
+The investigation started when PayPal noticed suspicious activity that occurred in December 2002 associated with the defendant, filed a SAR, and notified the DEA. The activity, which included computer intrusion, credit card fraud, debit card fraud, and wire transfer fraud, involved numerous accounts for relatively low amounts of money. Apparently, PayPal believed the activity was consistent with transactions associated with illegal drug activity and thus contacted the DEA.
+
+The FBI, IRS, ICE, and state and local agencies eventually joined the task force investigation. Agents believe the defendant used his company to launder and transfer monies estimated to be close to $1 million through Europe, the U.S., and former Soviet republics. The defendant perpetrated the scheme through the identity theft of hundreds of Americans and numerous bank frauds.
+
+An FBI agent assigned to the case said that BSA records provided information that led to the subpoena of records from individuals, businesses, and banks. Those records in turn eventually led to the defendant’s indictment.
+
+(Investigating Agencies: Drug Enforcement Administration, Federal Bureau of Investigation, Internal Revenue Service, U.S. Immigration and Customs Enforcement)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 12, October 2007]
+
+Tags
+
+Money Laundering
+
+Involving SARs
+
+Other Crimes
+
+Fraud
+
+ID Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

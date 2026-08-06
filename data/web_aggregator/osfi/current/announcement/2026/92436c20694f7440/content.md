@@ -1,0 +1,121 @@
+# Domestic Stability Buffer design framework
+
+The Domestic Stability Buffer (DSB) is a capital buffer for Canada’s largest banks. As outlined below, its design is based on a set of core principles and OSFI considers several factors and indicators in determining the level of the DSB.
+
+## Principles of the DSB
+
+* **Countercyclicality:** OSFI requires Canada’s largest banks or Domestic Systemically Important Banks (D-SIBs) to build up capital buffers during periods of growth and stability. During challenging times characterized by elevated uncertainty, OSFI will release, or lower, those buffers. Thus, capital buffers expand and contract to offset volatility in the financial system and broader economy.
+* **Usability:** OSFI expects that D-SIBs will use the capital buffers in times of stress. Because OSFI employs the DSB as a buffer over and above its minimum requirement for capital adequacy, it serves as an economic and financial “shock absorber.” When OSFI reduces the DSB, we expect D-SIB capital ratios to fall so that those institutions continue lending to businesses and households while they absorb losses.
+* **Balanced approach:** DSB decisions are based on an assessment of both quantitative and qualitative inputs. It also includes supervisory judgment, meaning that OSFI has insights based on experience and expertise as a banking regulator. The range of the DSB is 0% to 4%. OSFI determined that range by considering the level of loss-absorbency banks need to withstand severe but plausible risk events and, as such, will change less frequently than the DSB itself.
+* **Early action:** In times of economic uncertainty or stress, OSFI will be proactive in using the DSB. For example, OSFI may decrease the buffer in response to a major economic shock or sequence of events that create expectations of significant losses at banks.
+
+## Indicators for setting the DSB level
+
+During the DSB decision-making process OSFI considers indicators based on research, international practices for similar buffers, and OSFI’s supervisory judgment. Indicators can be grouped into two categories:
+
+* **Vulnerability indicators** cover vulnerabilities that can adversely affect the Canadian financial system by potentially amplifying shocks (see Figure 1), warranting a build-up of capital.
+* **Near-term risk indicators** include recent and leading indicators of D-SIBs’ financial performance, as well as economic and financial market conditions.  These indicators are used to detect signs of systemic risk materializing (see Figure 2), which may require a decrease of the buffer.
+
+**Figure 1: Systemic vulnerability indicators used to inform the DSB level**
+
+**Canadian household indebtedness**
+
+* Household debt levels and serviceability
+
+**Canadian asset imbalances**
+
+* Housing and CRE price levels and valuations
+
+**Canadian institutional indebtedness**
+
+* Corporate debt levels and serviceability
+* Sovereign debt levels
+
+**External systemic vulnerabilities**
+
+* Global debt levels
+* Economic policy uncertainty
+* Geopolitical uncertainty
+
+**Figure 2: Near-term systemic risk indicators used to inform the DSB level**
+
+**D-SIB financial performance - recent trends**
+
+* Capital ratios and profitability
+* Credit losses and impairments
+
+**D-SIB financial performance - leading indicators**
+
+* Near-term outlook and provisioning
+* Market-based risk indicators
+* Funding costs
+
+**Macroeconomic risks**
+
+* Labour market indicators
+* Insolvency trends
+* Economic outlook
+
+**Financial market conditions**
+
+* Market, funding and counterparty stress
+* Equity and bond prices
+* Volatility indices
+
+Further details on the categories of vulnerabilities and potential impact on D-SIBs, can be seen in our [DSB Review – Summary Note (December 2022)](/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-review-summary-note-december-2022 "Domestic Stability Buffer Review - Summary Note - December 2022").
+
+In addition to these indicators, for each semi-annual review OSFI also considers perspectives from the [Financial Institutions Supervisory Committee](/en/about-osfi/osfi-story/financial-institutions-supervisory-committee "Financial Institutions Supervisory Committee: Oversight of Canada’s Financial System") (FISC).
+
+## What would cause OSFI to raise the DSB
+
+OSFI may consider a DSB increase when system-wide risks and vulnerabilities are persistently high or growing rapidly, while near-term risks to the banks are low. OSFI may increase the DSB when:
+
+* the economy and financial system is in a period of growth and relative stability,
+* there is evidence of high and rising household and business debt levels relative to related measures of income,
+* housing or commercial real estate experience rising valuations that are already elevated relative to income, or
+* external factors could negatively impact how the Canadian financial system functions.
+
+## What would cause OSFI to lower the DSB
+
+OSFI will lower the DSB when systemic vulnerabilities materialize, or threaten to materialize, into financial stress. In those cases, OSFI would lower the DSB to:
+
+* enable D-SIBs to absorb losses anticipated in stress tests,
+* adjust D-SIB capital expectations to a sudden shock or the occurrence of significant risk events, or
+* mitigate the amplification of adverse financial system shocks.
+
+Key factors affecting a decrease decision include the severity of impact that a risk event will have on the banks, how quickly system-wide risks could materialize, and how long these risks could last.
+
+In some cases, OSFI may act early to decrease the DSB in response to a sudden and severe event (for example, during the global pandemic). In other cases, OSFI may determine that the vulnerabilities have sufficiently dissipated to warrant a decrease indicating a reduced need for banks to keep capital in reserve.
+
+The size of a decrease would depend on the assessed likelihood and severity of losses banks could suffer where they would need to reduce lending.
+
+## DSB transparency
+
+In recent years, OSFI has provided greater transparency into the reasons for DSB decisions including:
+
+* twice-yearly announcements
+* technical briefings for media and financial analysts
+* publication of a decision rationale summary note
+
+By increasing transparency, OSFI ensures that financial markets, financial institutions, and the public understand DSB decisions, which in turn contributes to building confidence in Canada’s financial system.
+
+Given the dynamic nature of our environment and the inherent uncertainties, we remain committed to regularly evaluating the adequacy of this framework and updating it as necessary.
+
+## Related links
+
+* [Domestic Stability Buffer Decision - Summary Note (June 2026)](/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-decision-summary-note-june-2026 "Domestic Stability Buffer – Decision Summary Note – June 2026")
+* [Domestic Stability Buffer Decision - Summary Note (December 2025)](/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-decision-summary-note-december-2025 "Domestic Stability Buffer – Decision Summary Note – December 2025")
+* [Domestic Stability Buffer Decision - Summary Note (June 2025)](/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-decision-summary-note-june-2025 "Domestic Stability Buffer – Decision Summary Note – June 2025")
+* [Domestic Stability Buffer Decision - Summary Note (December 2024)](/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-decision-summary-note-december-2024 "Domestic Stability Buffer - Decision Summary Note - December 2024")
+* [Domestic Stability Buffer Decision - Summary Note (June 2024)](/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-decision-summary-note-june-2024 "Domestic Stability Buffer - Decision Summary Note - June 2024")
+* [Domestic Stability Buffer Decision - Summary Note (December 2023)](/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-decision-summary-note-december-2023 "Domestic Stability Buffer - Decision Summary Note - December 2023")
+* [Domestic Stability Buffer Decision – Summary Note (June 2023)](/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-decision-summary-note-june-2023 "Domestic Stability Buffer - Decision Summary Note - June 2023")
+* [Domestic Stability Buffer Review - Summary Note (December 2022)](/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-review-summary-note-december-2022 "Domestic Stability Buffer Review - Summary Note - December 2022")
+* [Domestic Stability Buffer home page](/en/supervision/financial-institutions/banks/domestic-stability-buffer "Domestic Stability Buffer")
+* [Domestic Stability Buffer news release](/en/news/osfi-lowers-domestic-stability-buffer-30-so-canadas-largest-banks-can-deploy-more-capital "OSFI lowers Domestic Stability Buffer to 3.0% so Canada's largest banks can deploy more capital")
+* [What is the Domestic Stability Buffer? (video)](/en/about-osfi/multimedia-library/what-domestic-stability-buffer "What is the Domestic Stability Buffer?")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2026-06-19

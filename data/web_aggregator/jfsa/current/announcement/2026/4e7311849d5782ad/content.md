@@ -1,0 +1,121 @@
+* [HOME](/en/index.html)
+* [Councils](/en/refer/councils/index.html)
+
+[Tweet](https://twitter.com/share)
+
+[Japanese![open new window](/en/images/common/icon_newwin.gif)](/singi/stewardship/list/20171225.html)
+
+# Stewardship Code: List of institutional investors who have accepted the Principles for Responsible Institutional Investors as of December 31, 2025
+
+The Principles for Institutional Investors (Japan’s Stewardship Code, hereinafter referred to as "the Code") was published on February 26, 2014.
+
+The Code has been revised three times in 2017, 2020, and 2025.
+
+The FSA publishes the list of institutional investors who have notified the FSA of their intention to accept the Code.
+
+The list below now includes institutional investors who have accepted the third revision as of December 31, 2025.
+
+\* Please note that the list includes institutional investors who have accepted the Code at least once between the time of its creation (2014) and the third revision (2025). For institutional investors who have specifically accepted the third revision, please refer to Column G of the list.
+
+The revised Code describes in its Preamble a process of the publication of the list of institutional investors who have accepted the code as follows:
+
+* 11. To make institutional investors' acceptance of the Code transparent, the Financial Services Agency expects institutional investors who accept the Code to:
+
+  + publicly disclose on their website:
+    - - their intention to accept the Code; and
+    - - disclosure items based on the principles, including guidance, of the Code, as below
+
+      * (i)  specific information that is required to be disclosed by the principles, including guidance, of the Code, such as the policy on how they fulfill the stewardship responsibilities, and
+      * (ii) if they do not comply with some of the principles, including guidance, an explanation of the reason;
+  + annually review and update the disclosed information and publicly disclose such update if it takes place; and
+  + notify the Financial Services Agency of the address of their website (the URL) used to disclose the information above.
+
+The Financial Services Agency will publish the information about the institutional investors who have made the disclosure in a tabular form.
+
+In addition, based on the third revision, for institutional investors classified as trust banks, investment managers and insurance companies, the new items “Response policy with respect to requests regarding the status of shareholding from investee companies” and “Address of the website disclosing the response policy with respect to requests regarding the status of shareholding from investee companies” are added to the list.
+
+The FSA also published on our website the messages titled “![PDF](/images/common/icon_pdf.gif)[Stewardship Code: Message from the FSA](/en/refer/councils/stewardship/message.pdf)” on September 2, 2014, and the messages titled “![PDF](/images/common/icon_pdf.gif)[Revision of the Stewardship Code](/en/refer/councils/stewardship/20250626/03.pdf)” on June 26, 2025. Please also see these messages.
+
+As of December 31, 2025, there are 350 institutional investors in the list, classified as follows;
+
+* Trust banks (Shintaku Ginko)
+  :   : 6
+* Investment managers (Toshishintaku/Toshikomon Gaisha)
+  :   : 218
+* Insurance companies
+  :   : 26
+* Pension funds
+  :   : 88 \*
+* Others (Service Providers for Institutional Investors, etc.)
+  :   : 12
+* (Total)
+  :   : 350
+
+\* This includes Corporation Pension Funds that have accepted the Japan’s Stewardship Code on March 28, 2025, with 269 member pension funds as of December 31, 2025.
+
+(Appendix)
+:   ![EXCEL](/images/common/icon_excel.gif)[The list of institutional investors who have accepted to the “Principles for Responsible Institutional Investors” ≪Japan’s Stewardship Code≫ - To promote sustainable growth of companies through investment and dialogue -(As of December 31, 2025)](/en/refer/councils/stewardship/en_list.xlsx)
+
+    \* Please note that the list above includes institutional investors who have accepted the Code at least once between the time of its creation (2014) and the third revision (2025). The number of institutional investors who have accepted the third revision is 282 (Trust banks (Shintaku Ginko) :6, Investment managers (Toshishintaku/Toshikomon Gaisha) : 165, Insurance companies: 26, Pension funds: 77, and Others (Service Providers for Institutional Investors, etc.) : 8). For institutional investors who have specifically accepted the third revision, please refer to Column G of the list.
+
+(Reference)
+:   * First revision : Revised on May 29, 2017 ([Finalization of the Japan’s Stewardship Code (Revised version)(May 29, 2017)](/en/refer/councils/stewardship/20170529.html)).
+    * Second revision : Revised on March 24, 2020 ([Finalization of the Japan’s Stewardship Code (Second revised version)(March 24, 2020)](/en/refer/councils/stewardship/20200324.html)).
+    * Third revision : Revised on June 26, 2025 ([Finalisation of Japan’s Stewardship Code (Third revision)(June 26, 2025)](/en/refer/councils/stewardship/20250626.html)).
+
+## To institutional investors/institutions who intend to newly sign up with the revised Code
+
+Please refer to [this page](/en/refer/councils/stewardship/20250626.html).
+
+Contact
+:   Corporate Accounting and Disclosure Division, Policy and Markets Bureau, Financial Services Agency
+
+    Tel +81-(0)3-3506-6000 (Ex. 3659, 3849)
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

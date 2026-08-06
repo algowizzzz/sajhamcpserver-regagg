@@ -1,0 +1,151 @@
+# Guidance for Reinsurance Security Agreements
+
+[PDF, 305 KB](/sites/default/files/2023-07/rsa.pdf)
+
+**Date:** December 2010  
+**Audiences:**  Life  / P&C
+
+This Guidance sets out OSFI's minimum standards with respect to collateral secured through the establishment of a Reinsurance Security Agreement (RSA). It also outlines OSFI's expectations regarding the operation by companies of the RSA process.
+
+A federally regulated insurance company is generally eligible for a capital/asset credit in respect of unregistered reinsurance if it benefits from collateral held in Canada. In that regard, a capital/asset credit is allowed where ceding companies obtain and maintain a valid and enforceable security interest that has priority over any other security interest in assets of an unregistered reinsurer that are held in Canada. Generally, such a security interest will be obtained by means of a RSA. OSFI will allow a capital/asset credit for RSAs in certain circumstances, including where the following criteria are met:
+
+* the assets of an unregistered reinsurer are pledged to the ceding company to secure the payment of the potential liabilities of the reinsurer under one or more reinsurance agreements pursuant to a security agreement made under provincial law;
+* the pledged assets are held in Canada (e.g., CDS Clearing and Depository Services Inc.)[Footnote 1](#fnb1) by a 'Collateral Agent';
+* the 'Collateral Agent' is a Canadian financial institution that is not affiliated with the unregistered reinsurer;
+* all documentation is binding on all parties and legally enforceable in all relevant jurisdictions;
+* the ceding company takes all necessary steps to obtain and maintain a valid and enforceable security interest that has priority over any other security interest in the collateral;
+* the legal mechanisms by which the assets are pledged provide that the ceding company has the right to liquidate or take legal possession of these assets, in a timely manner, in the event of default by the reinsurer;
+* if the pledged assets are financial assets to which securities transfer legislation applies, the 'Collateral Agent' obtains control of these assets on behalf of the ceding company;
+* in respect of a particular RSA, the ceding company obtains a legal opinion asserting that a valid and enforceable security interest, that has priority over any other security interest in the pledged assets, has been or will be created in its favour for the type of assets covered by the legal opinion (refer to the section below entitled Legal opinion);
+* the credit quality of the reinsurer and the value of the collateral must not have a material positive correlation. For example, securities issued by the reinsurer – or by any related group entity (i.e. obligations of the reinsurer itself, its parent, or one of its subsidiaries or affiliates) – provide little protection and are therefore ineligible; and
+* the ceding company must have clear and robust procedures for the timely liquidation of collateral to ensure that any legal conditions required for declaring the default of the reinsurer and liquidating the pledged assets are observed, and that pledged assets can be liquidated promptly.
+
+Although other conditions may apply to reinsurance with related parties (e.g., Superintendent approval[Footnote 2](#fnb2)), no additional specific conditions would apply in respect of security agreements.
+
+OSFI will require ceding companies to negotiate and enter into suitable arrangements and to take all necessary practical and operational measures to obtain and maintain a valid and enforceable security interest in the pledged assets that have priority over any other security interest in these assets. Ceding companies will also have to obtain a legal opinion asserting such an interest has been or will be created in their favour. Further, ceding companies are expected to approve assets offered as pledge or withdrawn. Below are minimum standards for a RSA and legal opinion. Once the legal opinion is obtained by the ceding company, the agreement should be filed on a timely basis[Footnote 3](#fnb3) with OSFI's Securities Administration Unit at:
+
+* Office of the Superintendent of Financial Institutions
+* Securities Administration and Approvals Reporting Unit
+* 255 Albert Street
+* 12th Floor
+* Ottawa, Ontario, Canada K1A 0H2
+* Email: [SAAR-SSAVMRCA@osfi-bsif.gc.ca](mailto:SAAR-SSAVMRCA@osfi-bsif.gc.ca)
+
+OSFI expects ceding companies to have a Board, or committee of the Board, approved policy requiring management to confirm[Footnote 4](#fnb4) to the Board, or committee thereof, from time to time but at a minimum once every two years, that a valid and enforceable security interest that has priority over any other security interest in the pledged assets continues to be created in their favour, including where changes have been made to personal property security legislation or securities transfer legislation in the province or territory where the assets are held.
+
+In addition, OSFI expects ceding companies to include in their policy the types of prudentially acceptable pledged assets and the limits (e.g. credit ratings as outlined in the capital/asset guidelines; counterparty concentrations; foreign denominated securities) as well as the practices and procedures for managing and controlling risks related to pledged assets. In respect of foreign insurance companies with branch operations in Canada, OSFI expects that the Chief Agent will ensure the branch has an approved policy.
+
+## Security agreement
+
+OSFI expects that the RSA, at a minimum, will:
+
+* include a reference to the applicable provincial statute pursuant to which the RSA is made;
+* provide that the pledged assets shall be held in Canada, in a location permitted under the provincial statute pursuant to which the RSA is made;
+* provide for the replacement of the 'Collateral Agent', where required;
+* specify events of default, including where:
+  + the reinsurer is no longer authorized in its home jurisdiction to carry on the business of reinsurance;
+  + a liquidator or receiver of the reinsurer or of any part of the insurance business of the reinsurer is appointed under the provisions of any statute or pursuant to any agreement between the reinsurer and a third party;
+  + the reinsurer defaults in its duties and obligations under the RSA and has not remedied such default within a specific time period (e.g., 30 days) after receiving written notice from the ceding company; or
+  + an event of default relating to the reinsurer under, and as defined in, the reinsurance agreement has occurred and is continuing;
+* specify remedies and/or rights (e.g., right to sell collateral) upon default;
+* provide that the pledged assets may not be used as part of a securities lending program;
+* provide that the 'Collateral Agent' represents that no material conflict of interest exists with respect to the 'Collateral Agent's' role;
+* provide that the pledged assets shall secure the reinsurer's present and future obligations to the ceding company to pay the reinsurer's share of any loss or liability or both (including, where required by the reinsurance agreement, any loss or liability on account of claims incurred but not reported) sustained by the ceding company for which the reinsurer is liable under the reinsurance agreement;
+* provide that the reinsurer agrees to deliver to, and maintain with, the 'Collateral Agent' as collateral under the RSA assets having a market value at all times at least equal to either a specific amount or an amount determined by a formula;
+* provide that the 'Collateral Agent' shall at all times, upon reasonable notice, permit the Superintendent, the reinsurer and the ceding company access, for purposes of examination, to all pledged assets under the RSA and to the records of the 'Collateral Agent' in relation thereto, and shall afford to the Superintendent, the reinsurer and the ceding company the same access to the records of any service provider as is exercisable by the 'Collateral Agent'; and
+* provide that the 'Collateral Agent', acting as agent for the ceding company, shall file with OSFI, for and on behalf of the ceding company, a duly completed declaration (see Appendix A for format) together with all the related information as required below.
+
+## Legal opinion
+
+For each particular RSA, OSFI expects the following to be included in the accompanying legal opinion addressed to the ceding company:
+
+* an assertion that the security interest in the pledged assets is valid and enforceable against all other creditors of the unregistered reinsurer, including in the event of insolvency;
+* a reference to the applicable provincial statute pursuant to which the RSA is made;
+* a confirmation of the validity and enforceability of the security interest in the context of the applicable rules governing conflict of laws[Footnote 5](#fnb5);
+* an assertion that this security interest has priority over any other security interest; and
+* as an attachment, a copy of all reinsurance arrangements to which the opinion applies.
+
+The opinion, on which OSFI and the ceding company will be entitled to rely, may be subject to customary qualifications. It must be provided by a lawyer who either has expertise in the area of personal property security legislation in the province where the assets are held or who is reasonably relying on the legal opinions of those who have such expertise. In relation to a particular RSA, where the ceding company approves a new type of asset not already covered by the accompanying legal opinion, OSFI expects that the company will obtain an additional legal opinion asserting that a valid and enforceable security interest has been or will be created in its favour in respect of this new type of asset. Where the foreign company's Chief Agent is the legal counsel of the company, the foreign company should seek a legal opinion from outside legal counsel. Where a ceding company's legal opinion is provided by in-house counsel, OSFI expects that the opinion will state that it is provided by counsel in his or her professional capacity as a lawyer and not in any other capacity.
+
+## Supervision of Reinsurance Security Agreements
+
+In addition to its expectations regarding content of RSAs, OSFI requires monthly reporting with respect to the market value of assets subject to each RSA. As such, OSFI expects that the ceding company shall, on or before the fifteenth day of each month[Footnote 6](#fnb6), or at such other times as requested by notice in writing to the ceding company, cause its 'Collateral Agent' to file with OSFI's Securities Administration Unit (see address above), the declaration in Appendix A (attached) and an electronic (text format) file and paper copy containing the following information:
+
+* the market value of individual assets held by the 'Collateral Agent' under the specific RSA as at the close of business of the 'Collateral Agent's' last business day in the immediately preceding month;
+* the date of valuation;
+* OSFI's RSA Identification Code;
+* the name of the security issuer;
+* the "cusip" number, if applicable;
+* the name of the security;
+* the number of units held; and
+* for fixed income securities, the maturity date, yield and coupon rate.
+
+While the filing of such declaration and related information, through the 'Collateral Agent', is required for ease of process, such filing shall remain the responsibility of the ceding company.
+
+## Implementation
+
+As a matter of best practice, ceding companies are encouraged to take steps to enter into RSAs that meet the requirements of this Guidance as soon as possible. All new agreements should comply with this Guidance beginning **July 1, 2011**. OSFI expects companies to take all commercially reasonable efforts to replace existing multi-year agreements that do not naturally come up for renewal prior to **January 1, 2012**. The designated OSFI Relationship Manager will follow each ceding company's efforts and progress.
+
+## APPENDIX ‘A’
+
+**DECLARATION**
+
+**WHEREAS** \_\_\_\_\_\_\_XXX\_\_\_\_\_\_\_ [CEDING COMPANY – where several attach list], a federally regulated insurer having its chief office or place of business for Canada in the City of \_\_\_\_\_\_\_, in the Province of \_\_\_\_\_\_\_, is the secured party under a Security Agreement made the \_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_, 20\_\_\_\_ among \_\_\_\_\_\_\_XXX\_\_\_\_\_\_\_ [CEDING COMPANY], XXX [REINSURER – where several attach list], and \_\_\_\_\_\_\_XXX\_\_\_\_\_\_\_ [party acting as COLLATERAL AGENT for the purposes of the Security Agreement].  
+The undersigned hereby declares that such Collateral Agent now holds, in accordance with and subject to the terms and provisions of the Security Agreement, the below noted assets, the total values of which, as at \_\_\_\_\_\_\_, 20 \_\_\_\_\_, based on the values as last determined by the requirements of the Security Agreement, are summarized below and details in respect of which are set forth in the electronic (text format) file and paper copy accompanying this Declaration and that the said Collateral Agent holds said assets under and subject to all the terms and provisions of the said Security Agreement and separate and apart from any other assets.  
+DATED at the City of \_\_\_\_\_\_\_this \_\_\_\_\_ day of \_\_\_\_\_\_\_, 20\_\_\_\_\_.  
+Filed for and on behalf of \_\_\_\_\_\_\_XXX\_\_\_\_\_\_\_ [CEDING COMPANY – where several attach list] by:  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+[NAME, TITLE]
+
+**OSFI’s Reinsurance Security Agreement Identification Code  
+Institution Code**  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Full Ceding Company Name and Reinsurer Name**    
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Accepted Value Book Market**  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Footnotes
+
+Footnote 1
+:   Foreign depositories are not accepted as assets held by foreign custodians are not considered pledged in Canada.
+
+    [Return to footnote 1 referrer](#fnb1-ref)
+
+Footnote 2
+:   Pursuant to section 523 or 597 of the *Insurance Companies Act*.
+
+    [Return to footnote 2 referrer](#fnb2-ref)
+
+Footnote 3
+:   Within 15 days of the ceding company obtaining a legal opinion asserting that a valid and enforceable security interest has been created in its favour.
+
+    [Return to footnote 3 referrer](#fnb3-ref)
+
+Footnote 4
+:   The confirmation should either state that the opinion may still be relied upon or that subsequent changes to legislation do not affect the validity of the opinion or, alternatively, a new opinion can be provided.
+
+    [Return to footnote 4 referrer](#fnb4-ref)
+
+Footnote 5
+:   Canadian counsel may elect to request a legal opinion from a lawyer who has expertise in this area in the jurisdiction of the unregistered reinsurer to ensure the security interest is recognized in the foreign jurisdiction.
+
+    [Return to footnote 5 referrer](#fnb5-ref)
+
+Footnote 6
+:   If the fifteenth day is not a business day of the 'Collateral Agent', on or before the first business day of the 'Collateral Agent' following the fifteenth day.
+
+    [Return to footnote 6 referrer](#fnb6-ref)
+
+## Related links
+
+* [Guidance for Reinsurance Security Agreements – Letter (2010)](/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010 "Guidance for Reinsurance Security Agreements – Letter (2010)")
+* [Letter regarding OSFI's New Approach - Reinsurance Trust Agreements](/en/guidance/guidance-library/reinsurance-trust-agreements "Reinsurance Trust Agreements")
+* [Questions and Answers - Guidance for Reinsurance Security Agreements](/en/data-forms/applications-approvals/questions-answers-guidance-reinsurance-security-agreements "Questions and Answers - Guidance for Reinsurance Security Agreements")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-10-20

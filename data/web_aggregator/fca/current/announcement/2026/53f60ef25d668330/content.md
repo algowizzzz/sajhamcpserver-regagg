@@ -1,0 +1,33 @@
+Anthropic will support the second group of firms in the FCA's Supercharged Sandbox.
+
+The [Sandbox](/firms/innovation/supercharged-sandbox "Sandbox") is a controlled environment where firms can safely experiment with advanced AI.
+
+Anthropic will provide access to Claude for participants – including Claude Code and Claude Cowork – to help speed up their development work.
+
+The second group of firms in the Supercharged Sandbox will explore a range of AI use cases. This includes testing solutions designed to:
+
+* enable safer agent-led payments and commerce
+* detect fraud and economic crime more effectively
+* strengthen AI governance and accountability
+* widen access to financial services for vulnerable and underserved consumers
+* streamline compliance and business automation
+
+21 organisations, including Scottish Widows, Money Advice Trust and TrueLayer, will join the second group. The selection process followed strong demand, with a 51% increase in the number of applications compared to the first group.
+
+The Sandbox builds on existing support from NayaOne and NVIDIA.
+
+'The high level of interest in the Supercharged Sandbox demonstrates the demand for trusted environments where firms can experiment safely and responsibly,' said Jessica Rusu, chief data, intelligence and information officer, FCA. 'With the support of Anthropic, participants will benefit from the technology they need to accelerate innovation.
+
+'This is central to our commitment to supporting economic growth – enabling firms to make the most of technological advances while maintaining the UK’s position at the forefront of responsible AI adoption and innovation.'
+
+The FCA has also launched the new Agentic Academy, a 10-week specialist AI programme for selected firms which is delivered by the FCA and the Centre for Finance, Technology and Entrepreneurship (CFTE).
+
+## Notes to editors
+
+1. Firms accepted into the second cohort also include: calQrisk; Merx Digital Solutions Ltd (SmartDrops); Aegis Trace; Sardine AI Corp; Zquas; Trustie Labs; Welleness; IntelXview Ltd; RMI Agentic; Ubyx, partnering with Amazon; Deepflow; FSCom; GAI Labs; Condukt; Kaption; and Relace.
+2. In 2025, the FCA announced the launch of the Supercharged Sandbox, designed to help firms experiment with AI in a safe and controlled environment. It helps firms who are in the discovery and experiment phase with AI.
+3. The Supercharged Sandbox builds on the existing [Digital Sandbox](/firms/innovation/digital-sandbox "Digital Sandbox") infrastructure provided by NayaOne, offering advanced compute power to accelerate AI innovation.
+4. Through a collaboration with NVIDIA, participating firms in the first group were given access to accelerated computing infrastructure and NVIDIA AI Enterprise software to support the development and testing of AI use cases. Firms in the second group will continue to have access to these capabilities.
+5. The second Supercharged Sandbox received 199 applications in total, compared to 132 in the first iteration.
+6. The FCA set out how we are working to accelerate digital innovation in our [response to the Prime Minister’s letter (PDF)](/publication/correspondence/fca-letter-new-approach-support-growth.pdf "response to the Prime Minister’s letter (PDF)"), including that we would avoid additional regulations for AI by relying on existing frameworks.
+7. Read more about [how FCA rules apply to AI](/firms/innovation/ai-approach "how FCA rules apply to AI").

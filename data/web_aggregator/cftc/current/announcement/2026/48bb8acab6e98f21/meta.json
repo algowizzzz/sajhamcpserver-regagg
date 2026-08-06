@@ -1,0 +1,26 @@
+{
+  "doc_id": "48bb8acab6e98f21",
+  "regulator_id": "cftc",
+  "doc_type": "announcement",
+  "title": "CFTC Approves Final Rule Amending Margin Requirements for Uncleared Swaps",
+  "language": "en",
+  "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9266-26",
+  "reference_number": null,
+  "published_date": "2026-07-13",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1cc5e3693bea83f2496201914d9ddd6e6f242c0218ddb95e32c4934597e574e5",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_cftc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cftc/current/announcement/2026/48bb8acab6e98f21",
+  "tags": [
+    "us",
+    "derivatives",
+    "clearing",
+    "margin"
+  ]
+}

@@ -1,0 +1,1 @@
+Summary: # US-Japan yen intervention reflects pragmatism behind show of 'friendship'

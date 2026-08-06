@@ -1,0 +1,1164 @@
+# Standardized Climate Scenario Exercise
+
+[Generate PDF](/en/print/pdf/node/2379)
+
+## Return files
+
+[SCSE workbook (XLSX, 2.85 MB)](/sites/default/files/documents/scse-workbook-classeur-enasc-en_0.xlsx "scse-workbook-classeur-enasc-en_0.xlsx") [SCSE instructions (XLSX, 208 KB)](/sites/default/files/documents/scse-instructions-enasc-en_2.xlsx "scse-instructions-enasc-en_2.xlsx") [SCSE questionnaire (XLSX, 86 KB)](/sites/default/files/documents/scse-questionnaire-enasc-en_1.xlsx "scse-questionnaire-enasc-en_1.xlsx")
+
+## 1. Introduction
+
+The mandate of the Office of the Superintendent of Financial Institutions Canada (OSFI) is to protect the rights and interests of depositors, policyholders, financial institution creditors, and pension plan members and beneficiaries while allowing financial institutions to compete and take reasonable risks. OSFI fulfills its mandate by focusing on the safety and soundness of federally regulated financial institutions (FRFIs) and federally regulated pension plans (FRPPs).
+
+Climate-related risks, including physical and transition risks, could have significant impacts on the safety and soundness of financial institutions, and the broader Canadian financial system. Building financial resilience against intensifying climate-related risks requires institutions to address vulnerabilities in their business model, their overall operations, and ultimately on their balance sheet.
+
+In March 2023, OSFI published [Guideline B-15: Climate Risk Management](/en/guidance/guidance-library/climate-risk-management "Climate Risk Management"), and OSFI updated the guideline a year later in March 2024. Guideline B-15 sets out OSFI's expectations for the management of climate-related risks. The Guideline is OSFI's first prudential framework that is climate sensitive and recognizes the impact of climate change on managing risk in Canada's financial system. Section III of chapter 1 describes OSFI's expectation with respect to climate scenario analysis.
+
+In addition to FRFIs’ own internal climate scenario analysis to understand the resilience of their business model and strategy, FRFIs will be required to complete standardized climate scenario exercises and report their results to OSFI on a periodic basis. These exercises will enable OSFI to assess aggregate exposures to physical and transition risks and compare FRFI approaches to climate scenario analysis. Note that Guideline B-15 outlines the expectation for FRFIs to complete standardized climate scenario exercises, **in addition** to their own internal climate scenario analysis. The exercise described in this document is not a substitution for individual FRFI’s own internal climate scenario analysis.
+
+This document describes the methodology for a Standardized Climate Scenario Exercise (SCSE) and reflects feedback received from a two-part consultation (What We Heard Reports: [Part I](/en/consultations/consultation-summaries/what-we-heard-consultations-draft-standardized-climate-scenario-exercise-methodology "What we heard: Consultations on draft Standardized Climate Scenario Exercise methodology "), [Part II](/en/consultations/consultation-summaries/what-we-heard-second-consultation-standardized-climate-scenario-exercise "What we heard: Second Consultation on the Standardized Climate Scenario Exercise ")). This methodology document should be read alongside the [SCSE Instructions (XLSX, 230 KB)](/sites/default/files/documents/scse-instructions-enasc-en_0.xlsx "scse-instructions-enasc-en_0.xlsx") and [SCSE Workbook (XLSX, 2.85 MB)](/sites/default/files/documents/scse-workbook-classeur-enasc-en_0.xlsx "scse-workbook-classeur-enasc-en_0.xlsx"). FRFIs are also required to complete the [SCSE Questionnaire (XSLX, 86 KB)](/sites/default/files/documents/scse-questionnaire-enasc-en_1.xlsx "scse-questionnaire-enasc-en_1.xlsx").
+
+As with Guideline B-15, all FRFIs, except for Foreign Bank Branches (FBBs) will be expected to submit a completed SCSE Workbook and Questionnaire. FRFIs that are currently inactive or in run-off are not required to complete the SCSE.
+
+OSFI wishes to acknowledge the Autorité des marchés financiers for their partnership and collaboration on the SCSE. OSFI would also like to acknowledge the contributions from Environment and Climate Change Canada, Moody's Analytics, and Riskthinking.AI.
+
+We would also like to thank colleagues at the Bank of Canada, Bank of England, Office of the Comptroller of the Currency, and United Nations Environment Programme Finance Initiative for providing valuable feedback on a draft of the SCSE.
+
+## 2. Standardized Climate Scenario Exercise overview
+
+Scenario analysis is a tool that can be used to measure the financial outcomes given different possible future states. Climate scenarios often refer to future states that reflect different possible climate policies and their associated physical impacts. Climate scenario analysis is often based on a set of forward-looking climate scenarios. However, the intent of these scenarios is not to predict the future. Climate scenario analysis exercises are intended to enable a better understanding of how different climate scenarios could impact financial market participants, including FRFIs, and the financial system.
+
+OSFI's approach to developing the SCSE recognizes that climate scenario analysis is in its nascency. The SCSE is not associated with changing climate policies, nor is it intended to "size the risks" i.e., trying to arrive at a definitive, absolute quantitative impact of climate change or predict the future. Risk sizing is a complex and difficult undertaking given the uncertainty associated with climate scenario analysis. The underlying modelling that links climate risks to financial risks is relatively untested, and the second order impacts of climate change are highly complex. Therefore, instead of sizing the risks, the SCSE focuses on risk discrimination and exposure assessments. While absolute risks can be hard to measure, OSFI believes that risk discrimination, i.e., identifying relative risks between counterparties, industries, and even FRFIs is achievable, even utilizing relatively less sophisticated approaches and modeling methodologies.
+
+The SCSE aims to measure climate risks that are arguably not reflected using traditional risk quantification techniques, e.g., models that use historical experience to measure risks. The SCSE considers characteristics associated with individual exposures that are not typically used in risk quantification today but may provide strong risk discrimination under future climate scenarios. The SCSE does not consider broad impacts of macroeconomic stresses since FRFIs' stress testing and capital requirements already consider the impact of a stressed macroeconomic environment.
+
+### 2.1 Objectives
+
+OSFI has identified three key objectives for the SCSE.
+
+**1. Raising awareness and encouraging a strategic orientation with FRFIs to better understand the potential exposures to climate change**.
+:   Climate risk quantification is a fast-developing field that is still in relatively early stages. Financial institutions and regulators in many jurisdictions are trying to better understand their exposure to climate risks through climate scenario analysis. The SCSE is designed as a starting point aiming to increase OSFI's and FRFIs' understanding of the risks.
+
+**2. Encouraging the building of FRFIs' capacity to assess the impact of climate related catastrophic events and policies and to conduct climate scenario analysis exercises**.
+:   The exercise is designed to encourage participating FRFIs to design and develop the foundational infrastructures necessary to identify and quantify climate risk in their financial exposures in their future climate risk assessment exercises.
+
+    The SCSE requires FRFIs to identify in-scope exposures and map them to climate relevant sectors using NAICS codes and/or latitude-longitude coordinates (i.e., geocoding), according to the nature of the exposure. Furthermore, FRFIs with real estate exposures are expected to identify additional relevant information related to climate risks, such as building energy and heating sources.
+
+**3. Establishing a standardized quantitative assessment of climate related risks, both transitional and physical in nature**.
+:   The motivation to issue a **standardized** climate scenario exercise comes from the lessons learned from the 2021 Bank of Canada/OSFI Pilot Project "[Using Scenario Analysis to Assess Climate Transition Risk](https://www.bankofcanada.ca/2022/01/assessing-climate-change-risks-to-our-financial-system/)". A key finding from the exercise was that climate risk assessments from the participating financial institutions varied greatly, despite the guidance that was provided. This made it challenging to compare the results between FRFIs.
+
+**A comprehensive sizing of climate risks is not an objective of the SCSE.**
+
+The SCSE is a foundational step; it is the first climate scenario analysis issued to FRFIs by OSFI and its results will be used to define future exercises. It is limited in scope across several dimensions, recognizing that climate scenario analysis will continue to evolve over many years. For example, the transition risk modules estimate climate risks at the industry sector level, ignoring the underlying distributions of climate risks for exposures within the same sector. The SCSE primarily considers direct impacts of climate risks, while indirect impacts, such as business interruptions, may pose even larger risks to FRFIs' exposures. These limitations constrain the SCSE, such that sizing the risks from the results would likely be an underestimation.
+
+### 2.2 Overview of exercise
+
+#### 2.2.1 Operational approach
+
+Different components of climate scenario analysis could be classified as "Top-down" or "Bottom-up", depending on their design and implementation. Top-down scenario analysis is generally performed by a public authority using its own climate scenario analysis framework and the scenario narratives are translated into projections for high-level risk drivers. Bottom-up scenario analysis is generally performed by a financial institution using their own internal risk assessments to determine the impact of scenario narratives.
+
+The SCSE was designed using a hybrid approach, as described in Figure 1.
+
+**Figure 1: Operational approach**
+
+| Top-down | Bottom-up |
+| --- | --- |
+| OSFI defined and developed the 2024 SCSE Methodology, scenarios, adjustment parameters, and calculations. | FRFIs will identify exposures, classify them into relevant sectoral and geographical segments, and perform calculations. |
+
+1. OSFI develops the SCSE Methodology
+2. OSFI prescribes scenarios, risk parameters, formulas, etc. to FRFIs
+3. FRFIs assess impacts to their exposures using prescribed information from OSFI
+
+#### 2.2.2 Scope of the Standardized Climate Scenario Exercise
+
+The SCSE includes four separate modules and a questionnaire. The modules are generally independent of each other and the SCSE does not consider how risks measured in each module may overlap or correlate. For example, the SCSE does not consider how physical risks may be impacted by different climate transition scenarios.
+
+**Figure 2: Standardized Climate Scenario Exercise modules**
+
+| Scope | Climate Risk | Exposures | Financial Risk |
+| --- | --- | --- | --- |
+| Impact of Climate Transition on Credit Risks for Commercial Exposures | Transition Risk | Commercial (Global) | Credit Risk |
+| Impact of Climate Transition on Market Risk for Commercial Exposures | Transition Risk | Commercial (Global) | Market Risk |
+| Climate Transition Real Estate Exposure Assessments | Transition Risk | Real Estate-related (Canadian) | Exposure Assessment |
+| Physical Risk Exposure Assessments | Physical Risks | Immobile physical assets including but not limited to real estate-related (Canadian) | Exposure Assessment |
+
+### 2.3 Reporting Standardized Climate Scenario Exercise results
+
+All participating FRFIs are required to complete the SCSE Workbook and SCSE Questionnaire according to this document and the SCSE Instructions. OSFI invites FRFIs to complete an additional copy of the SCSE Workbook, or a subset of it, using their own approaches, models, and data, if they believe the SCSE does not adequately reflect their specific climate risk profile.
+
+The reporting date for the SCSE is Q4 2023. However, a FRFI may report results as of Q2 2024 if the following conditions are met:
+
+* Q2 2024 is used consistently as the reporting date across all SCSE modules
+* The impact of choosing Q2 2024 instead of Q4 2023 is not significant
+
+All probabilities and percentages should be reported as their decimal equivalents. For example, a probability of default (PD) of 1.09% should be reported as 0.01090. Symbols, such as "%", "$", and "," should not be included in the SCSE Workbook. For example, an exposure of $1,234.56 should be reported as 1234.56.
+
+#### 2.3.1 Scope of consolidation
+
+The SCSE shall be completed on a consolidated basis, up to the financial sector level (i.e., deposit taking institutions and insurance companies). Groups with both deposit taking institutions and insurance companies shall therefore complete separate SCSE Workbooks and Questionnaires, while groups only active in one financial sector shall complete one SCSE Workbook and Questionnaire. Groups with both life and P&C insurers may choose to complete a single SCSE Workbook or separate SCSE workbooks by insurance sector.
+
+#### 2.3.2 Contact information
+
+Completion of the SCSE requires data that must be shared directly with FRFIs.
+
+* OSFI will share transition risk financial adjustments directly to the contacts that FRFIs provided to OSFI.
+* FRFIs will be able to download flood maps directly from riskthinking.AI.
+
+FRFIs may contact [climatescenario-scenarioclimatique@osfi-bsif.gc.ca](mailto:climatescenario-scenarioclimatique@osfi-bsif.gc.ca) for questions related to completing the SCSE.
+
+## 3. Climate transition risk for commercial exposures
+
+Climate transition scenarios may translate into financial losses for FRFIs through multiple transmission channels. Economic transmission channels explain how the underlying climate risk drivers may transform climate transition uncertainty into tangible risk parameters priceable by financial markets. The underlying risk drivers and risk parameters establish the link between how the transition climate scenarios translate into financial losses by negatively impacting the value of and/or likelihoods of default of investments and assets held by the FRFIs. Climate transition risk drivers stem from at least three different sources:
+
+1. Policy changes to adapt the economy to a low-carbon setup (e.g., stringent carbon-pricing policies to limit emissions, stricter energy efficiency standards)
+2. Technological changes (e.g., the introduction of more competitive low-carbon technologies)
+3. Changes in consumer preferences (e.g., environmentally concerned consumers tilting their decisions towards sustainable products)
+
+Each of these sources could impact the underlying risk parameters that typically drive credit and market risk assessments. Transition risk affects corporate, firm-specific financial assets, and the overall economy through its impact on macroeconomic parameters such as GDP, interest rates, and inflation. Figure 3 presents an illustration of transition risk channels.
+
+**Figure 3: Transition risk transmission channels**
+
+**Transition risk drivers**
+
+* Government climate policies
+* Technological change
+* Changes in consumer preferences
+
+**Transmission channels**
+
+**Microeconomic**
+
+* Households
+* Corporates
+* Issuer-specific financial assets
+
+**Macroeconomic**
+
+* Overall economy
+* Macroeconomic variables
+
+**Risk parameters used in credit and market risk assessments**
+
+* Net Income/Earnings
+* Firm asset value/enterprise value
+
+There are two modules related to transition risk for commercial exposures in the SCSE: one covering credit risk, and one covering market risk. Sections 3.1, 3.2, and 3.3 of the SCSE Methodology apply to both modules, Section 3.4 applies to credit risk, and Section 3.5 applies to market risk.
+
+Both modules related to transition risk for commercial exposures build upon the Bank of Canada/OSFI 2021 Pilot Project and are generally consistent with its approaches and methodologies.
+
+### 3.1 Balance sheet assumptions
+
+Climate scenario analysis requires FRFIs to project future balance sheets. These projections can be described as "dynamic" or "static". The SCSE uses a static balance sheet approach for the transition risk modules of the SCSE. Specifically:
+
+1. Balance sheets at 5-year intervals for 2030, 2035, 2040, and 2045 will be assumed to be identical to balance sheets as of the reporting date.
+2. For each 5-year interval, FRFIs will perform forward-looking calculations that assume the balance sheet runs-off.
+
+The SCSE Instructions include illustrative examples of how credit risk factors are applied using a static balance sheet as of the reporting date and forward-looking calculations for the credit risk module. The SCSE Instructions also include illustrative examples of how market risk shocks are applied using a static balance sheet assumption for the market risk module.
+
+Assuming balance sheets are static is a limitation of the SCSE. Real balance sheets are dynamic and reflect FRFIs evolving views of risks. However, dynamic balance sheets introduce significant complexity that does not align with the foundational nature of the SCSE.
+
+### 3.2 Transition scenarios
+
+Scenario analysis typically begins with identifying a set of hypothetical future scenario narratives and a set of macroeconomic and financial variable projections that capture the quantitative impact of these scenarios. The broad scenario narratives and assumptions for the two transition risk modules are discussed in the following section.
+
+#### 3.2.1 Selected scenarios and narratives
+
+The transition risk modules consider three different scenario narratives, each of which captures different degrees of transition risks.
+
+1. **Below 2℃ immediate** - an immediate policy action toward limiting average global warming to below 2℃ by 2100.
+2. **Below 2℃ delayed** - a delayed policy action toward limiting average global warming to below 2℃ by 2100.
+3. **Net-zero 2050 (1.5℃)** - a more ambitious immediate policy action scenario to limit average global warming to 1.5℃ by 2100 that includes current net-zero commitments by some countries.
+
+The three scenario narratives are benchmarked against a baseline scenario which is defined in Sections 3.4 and 3.5 for credit and market risk respectively.
+
+Both the **Below 2℃ immediate** and **Net-zero 2050** scenarios assume that climate policies are introduced early and gradually become more stringent. For the **Net-zero 2050** scenario, global warming is limited to 1.5℃ through stringent climate policies and technological innovation, with net-zero carbon emissions reached in around 2050. The smooth and gradual nature of the transitions in these two scenarios ensures that the costs resulting from the energy transition are minimized.
+
+The **Below 2℃ delayed** scenario considers the greater transition risk associated with delays in policy action. The key underlying assumption is that no new climate policies are introduced until 2030, and strong policy actions are then needed to limit warming to below 2℃ by 2100 and to compensate for lost time which leads to higher transition risks.
+
+In addition to transition risks, the three transition scenarios may also reflect different degrees of physical risks. Acting early, which is reflected in the two immediate policy action scenarios, may help mitigate future increases in physical risks compared to delayed policy action. However, the credit and market risk factors prescribed by OSFI only consider the impact of transition risk and abstract from any physical risk impacts.
+
+The **Below 2℃ immediate, Below 2℃ delayed** and **Net-zero 2050** scenarios will be benchmarked against a baseline scenario. To develop the risk factors, OSFI benchmarked these scenarios against a current policy scenario, which is the baseline scenario consistent with global climate policies currently in place. The SCSE does not require FRFIs to work directly with climate scenarios; instead, FRFIs will apply the risk factors prescribed by OSFI to their own baseline assessments. More details are provided in Section 3.4 and Section 3.5.
+
+#### 3.2.2 Scenario data sources
+
+The three transition scenario narratives vary in terms of policy ambition and climate target and therefore the values differ for a range of metrics such as carbon price and GDP. These values will also vary for different implementations of these scenario narratives. Given the uncertainty associated with climate scenario analysis, **OSFI developed the SCSE transition risk factors using two implementations of these scenario narratives**. Both implementations of the scenario narratives provide a 30-year scenario time horizon, and therefore the transition risk modules of the SCSE also consider a 30-year time horizon.
+
+1. We have used scenario data developed by the [Network for the Greening of the Financial System (NGFS)](https://data.ece.iiasa.ac.at/ngfs-phase-3/), the international standard setter for climate scenario data, specifically NGFS Phase III scenarios.
+2. We have also used [scenario data developed by the Bank of Canada](https://www.bankofcanada.ca/2022/01/climate-transition-scenario-data/) (BoC), and customized to the Canadian economy. This data is similar to the climate transition scenario data made available as part of the reporting of the 2021 climate scenario analysis pilot, but with updated values.
+
+These datasets contain different levels of information, but neither include the level of information OSFI plans to provide FRFIs, i.e., financial risk factors.
+
+**Figure 4: Data sources**
+
+Level of information included in different scenario data sources
+
+| Data sources | NGFS scenarios | Bank of Canada scenarios | SCSE |
+| --- | --- | --- | --- |
+| Climate scenario data, e.g., carbon prices | included | included | included |
+| Sectoral impacts, e.g., net incomes | not included | included | included |
+| Financial risk impacts, e.g., sectoral credit risk adjustments, sectoral changes in credit spreads, etc. | not included | not included | included |
+
+Both modules related to transition risk for commercial exposures build upon the Bank of Canada/OSFI 2021 Pilot Project and are generally consistent with its approaches and methodologies.
+
+There are other differences between the two sources of scenario data:
+
+##### Modeling techniques and macroeconomic models
+
+* The Bank of Canada scenario data uses a suite of models – an Emissions Policy Prediction and Analysis model from the Massachusetts Institute of Technology (MIT-EPPA) and two macroeconomic general equilibrium models that produce realistic macroeconomic outputs considering the possible transition risks.
+* The NGFS scenarios also use a suite of models approach, but with a different set of models, specifically, three integrated assessment models (IAM); GCAM (Global Change Analysis Model), REMIND (Regional Model of Investments and Development), and MESSAGE (Model for Energy Supply Strategy Alternatives and their General Environmental Impact). These IAMs produce transition pathways and are used in combination with NiGEM (National Institute Global Econometric Model), a macroeconomic model that generates macro-financial variables corresponding to each IAM. OSFI considered all three IAMs and their NiGEM outputs and concluded GCAM was the most appropriate for capturing Canada's macroeconomic environment as a unique geography within North America while also allowing for a finer sectoral granularity. However, GCAM is a partial equilibrium model which may under-estimate macroeconomic impacts of the transition, possibly materially. This limitation may be mitigated by the complementary use of the REMIND model and Bank of Canada scenario data.
+
+##### Sectoral granularity
+
+* The Bank of Canada climate transition scenario data is segmented into ten climate relevant sectors. However, the impacts of the climate transition may vary within a given sector, e.g., air transportation may be impacted differently than rail transportation. The latter limitation may be mitigated by the complementary use of the NGFS scenario data.
+* The NGFS – GCAM IAM offers flexibility in defining sectors and OSFI has developed a classification methodology for the SCSE which is discussed in the following section.
+
+To develop the macro-financial risk factors for the three transition scenarios, OSFI leveraged BoC scenarios and data from Moody's Analytics which is based on the NGFS-GCAM sectoral transition pathways. This addresses model uncertainty to some degree while also allowing us to draw robust insights across different models. FRFIs will use the resulting risk factors which are prescribed by OSFI for the three transition scenarios referenced in Section 3.2.1.
+
+### 3.3 Industry sector and regional sector classification
+
+Industry sector classification is a critical aspect the SCSE used to measure impacts of climate transition scenarios on financial risks. While a counterparty-level analysis may yield more accurate results, a sectoral approach avoids data challenges associated with the lack of reliable Greenhouse gas (GHG) emission data by using industry classification as a proxy to assess the impact of different climate scenarios. A sectoral approach also allows the SCSE to consider transition risks for counterparties that may not be high GHG emitters themselves, for example, GHG emissions produced up and down the value chain of a company, known as scope 3 emissions, could be considered using a sectoral approach.
+
+#### 3.3.1 Industry sectors
+
+For the transition risk modules, OSFI has identified 25 industry sectors for which financial risk factors have been provided. The financial risk factors are discussed in the credit and market risk modules.
+
+##### **Electricity Support and Distribution**
+
+* Electricity Production from Renewable Sources and Nuclear
+* Electricity Support and Distribution
+* Fossil Fuel Electricity Production
+* Hydro Electricity Production
+
+##### **Energy Intensive Industries**
+
+* Manufacturing
+* Mining
+* Paper and Pulp
+* Water, Sewage System, and Waste Management
+
+##### **Fossil Fuels**
+
+* Coal Industry and Support
+* Fossil Fuel Refinery
+* Natural Gas Industry and Support
+* Oil Extraction
+* Oil Extraction Support
+* Sand Oil Extraction and Support
+
+##### **Transportation**
+
+* Air Transportation
+* Rail Transportation
+* Other Transportation
+
+##### **Agriculture and Forestry**
+
+* Crop Production and Support
+* Livestock Production and Support
+* Forestry and Support
+
+##### **Other Sectors**
+
+* Finance and Insurance
+* Food and Beverage Industry and Support
+* Real Estate
+* Service Sectors
+* Other Industries
+
+#### 3.3.2 Industry sectoral mapping
+
+A comprehensive mapping of the [North American Industry Classification System (NAICS) 2022 Version 1.0 codes](https://www.statcan.gc.ca/eng/subjects/standard/naics/2022/v1/index) (for both Canadian and US systems) into industry sectors is included in the SCSE Instructions. FRFIs will identify and classify in-scope exposures of the credit and market risk modules into industry sectors (see Sections 3.4 and 3.5).
+
+We encourage FRFIs to use the NAICS to SCSE industry sector mapping. However, FRFIs that map exposures using other industry sector systems are permitted to create their own mapping to SCSE industry sectors provided that this mapping is sufficiently granular to capture the SCSE industry sectors. FRFIs who choose this approach are expected to include their mapping with their SCSE submission.
+
+OSFI has not provided prescriptive implementation instructions on how FRFIs will map individual counterparties to NAICS codes. FRFIs are expected to establish a common set of principles and rules to assign NAICS codes consistently for all counterparties, including counterparties that are active in multiple industry sectors. These assignments should be consistent, replicable and FRFIs should be able to explain and justify the principles and judgements of their designed mapping methodology.
+
+#### 3.3.3 Regional mapping
+
+OSFI has included a regional classification in the SCSE Instructions. FRFIs are expected to identify and classify in-scope exposures of the credit and market risk modules into these regions. This mapping is designed to capture the applicable narrative of transition scenarios for each region.
+
+OSFI has not provided prescriptive implementation instructions on how FRFIs will map individual counterparties to these regions. FRFIs are expected to establish a common set of principles and rules to assign regional affiliation for all counterparties, including counterparties that are active in multiple regions. These assignments should be consistent, replicable, and FRFIs should be able to explain and justify the principles and judgements of their designed mapping methodology.
+
+In the absence of detailed data, FRFIs could rely on proxy data (such as the location of a counterparty's headquarters). FRFIs are expected to explain the use of any such proxies.
+
+The regional sectors are:
+
+* Canada
+* United States
+* South America, Central America, and the Caribbean
+* Advanced European economies
+* Rest of Europe
+* Advanced Asian and Oceanic Economies
+* Rest of Asian and Oceanic Economies
+* Middle East
+* Africa
+
+For this classification, we benefited from the [classification of economies published by IMF](https://www.imf.org/en/Publications/WEO/weo-database/2023/April/groups-and-aggregates). The mapping was also extended to the complete list of countries and territories using [ISO 3166 country codes](https://www.iso.org/iso-3166-country-codes.html) which is included in the SCSE Instructions.
+
+### 3.4 Credit risk
+
+Credit losses associated with exposures such as commercial loans and corporate bonds could be significantly higher under certain climate transition scenarios. Climate policies in different jurisdictions may lead to revaluations of assets, increased production costs, and liquidity stresses. These impacts may lead to increased Probability of Defaults (PD) and Loss Given Default (LGD) for some participants in the economy, which could negatively affect FRFIs' exposures through increased expected credit losses.
+
+In the credit risk module, OSFI aims to measure the impact of different climate scenarios through their implications for the Expected Credit Loss (ECL) of the participants of the exercise. Conventionally, ECL is modelled through assessing PD, LGD, as well as Exposure at Default (EAD). Baseline and climate adjusted ECL calculations will leverage the International Financial Report Standard (IFRS) 9 ECL accounting framework. Climate adjusted ECLs will be estimated by adjusting PD and LGD components based on different climate scenarios. This methodology is described in further detail in the rest of this section.
+
+#### 3.4.1 Scope and classification of exposures
+
+Exposures are in scope for the credit risk module if they satisfy the following three conditions:
+
+1. the exposure is a corporate bond, preferred share, or corporate and commercial lending exposure that falls under the scope of IFRS 9 expected credit loss accounting standard
+2. the exposure is not part of the trading book nor is measured at fair value through profit or loss (FVTPL)
+3. the value of the exposure, as of the reporting date, exceeds an absolute threshold of CAD $1.5 million, where the threshold is to be applied on the security/exposure level
+
+The credit risk module results will be aggregated by asset classes in the SCSE Workbook. The credit risk adjustments defined in this section of the methodology do not vary by asset class, however, they do vary by industry sector, regional sector, and credit quality bucket (defined in Section 3.4.3) and are also aggregated by these dimensions.
+
+**Figure 5: Asset classes for credit risk**
+
+| SCSE Asset Class | Deposit Taking Institutions (DTIs) | Insurers |
+| --- | --- | --- |
+| Corporate bonds | Public and private corporate bonds that are part of the banking book | Public and private corporate bonds that are accounted as Fair Value through Other Comprehensive Income (FVOCI) and Amortized Cost |
+| Preferred shares | Publicly listed preferred shares that are part of the banking book and fall under IFRS 9 ECL | Publicly listed preferred shares that are accounted as Fair Value through Other Comprehensive Income and Amortized Cost |
+| Corporate and commercial lending exposures | Corporate and commercial lending exposures that are part of the banking book, such as loans and lease receivables, | Corporate and commercial lending exposures such as non-residential mortgage loans that are accounted as Fair Value through Other Comprehensive Income and Amortized cost |
+
+#### 3.4.2 Baseline ECL
+
+The baseline ECL  ( baselineECL )  for a given exposure is its lifetime ECL, calculated using a set of forward-looking macroeconomic scenarios as per IFRS 9. The baseline ECL is not calculated using a single FRFI-specific baseline scenario. The baseline ECL for each exposure is calculated based on the following formula:
+
+baselineECL =  ∑  k = 1   m    w k   ∑  i = 1   n    PD i k  ×  LGD i k  ×  EAD i k  ×   1     (  1 + r  )   i
+
+where for each ECL scenario  k  :
+
+* w k   is the weight of the ECL scenario  k
+* PD   i   k    ,    LGD   i   k    , and    EAD   i   k    are the respective PD, LGD and EAD of the exposure for year  i
+* r  is the discount rate used by FRFI for amortizing ECL of the exposure
+* m  is the number of underlying ECL scenarios used by the FRFI to determine ECL of the exposure
+* n  is the remaining maturity of the exposure[Footnote 1](#fn1) in years
+
+Lifetime ECLs are to be calculated for all exposures that are in scope, i.e., the SCSE ignores the 'staging' mechanism in IFRS 9 ECL calculations.
+
+ECL formulas are presented on an annualized basis for simplicity.
+
+#### 3.4.3 Credit quality buckets
+
+The 'credit quality bucket' for a given exposure is determined based on its 'credit quality PD'  (  PD CQ  )  . Credit quality PD represents the weighted average of all the annualized projected baseline PDs for the underlying exposure for the first year after the reporting date (see Section 2.3) for all the ECL macroeconomic scenarios, given by the following formula:
+
+PD CQ  =   ∑  k = 1   m      w   k       PD   i = 1   k
+
+where for each ECL scenario  k  :
+
+* w   k    is the weight of the ECL scenario  k
+* PD   i = 1   k    is the initial PD of the exposure for year  i = 1  .
+* m  is the number of underlying ECL scenarios.
+
+The credit quality bucket given an exposure's    PD   CQ    is determined as shown in the following table.
+
+**Figure 6: Credit Quality Buckets**
+
+| SCSE Credit Quality Bucket | Credit Quality PD  (   PD   CQ   )  Range |
+| --- | --- |
+| 1 | 0.00 % ≤   PD   CQ   < 0.07 % |
+| 2 | 0.07 % ≤   PD   CQ   < 0.25 % |
+| 3 | 0.25 % ≤   PD   CQ   < 1.00 % |
+| 4 | 1.00 % ≤   PD   CQ   < 7.00 % |
+| 5 | 7.00 % ≤   PD   CQ   < 20.00 % |
+| 6 | 20.00 % ≤   PD   CQ   < 100.00 % |
+
+The credit quality bucket calculation is included in the illustrative example in the SCSE Instructions. As mentioned above, the purpose of the credit quality classification is solely to define appropriate climate PD adjustments for different initial PD values and is not a measurement of creditworthiness of underlying assets.
+
+#### 3.4.4 Climate adjusted ECL
+
+The climate adjusted ECL  ( climateECL )  is calculated the same way as the baseline ECL, but with PDs and LGDs replaced by climate adjusted PDs and climate adjusted LGDs.
+
+The formula for the climate adjusted ECL for snapshot  T  is as follows:
+
+climateECL T  =   ∑  k = 1   m      w   k        ∑  i = 1   n       climatePD   T , i   k   ×   climateLGD   T , i   k   ×   EAD   i   k   ×   1     (  1 + r  )   i
+
+Where    climatePD   T , i   k    and    climateLGD   T , i   k    are the respective climate adjusted PD and LGD estimates for the combination of years  T , i  for the ECL scenario  k  . These adjustments are further discussed in the subsequent sections. The EAD parameter is agnostic to climate scenarios. The SCSE Instructions contain an example showing forward-looking ECL calculations at  T  for a hypothetical exposure.
+
+The difference between climate adjusted ECL and baseline ECL, i.e.,
+
+Δ   ECL   T   : =   climateECL   T   − baselineECL
+
+can be interpreted as the impact of the underlying climate scenario measured through the change of the expected credit loss of the in-scope exposures at  T  within the horizon of the exercise.
+
+Both climate adjusted and baseline ECL calculations are repeated at 5-year time steps throughout the scenario projection horizon, i.e.,  T  is selected from 2030, 2035, 2040, and 2045 for each of the climate scenarios discussed in Section 3.2.1.
+
+##### Conditional PD
+
+OSFI has provided climate PD add-ons that FRFIs will apply to annual conditional PDs, where the condition is that the exposure has not defaulted in that past. However, the PD used in the baseline ECL formula is an unconditional PD. Therefore, participants will need to use the corresponding annual conditional baseline PDs (     CPD   i   k     ). Here, we assume the following simplified relation between conditional and unconditional PDs:
+
+   PD   i   k   =   ∏  j = 1   i − 1    ( 1 −   CPD   j   k   )   ×   CPD   i   k   
+
+Accordingly, to derive conditional PDs, for each macroeconomic scenario  k  , the participants shall follow the recurring formula:
+
+CPD   1   k   =   PD   1   k
+
+CPD   i   k   =     PD   i   k       ∏  j = 1   i − 1    ( 1 −   CPD   j   k   )     , i = 2 , … , n
+
+As mentioned above,     PD   i   k     denotes the FRFIs' internally estimated unconditional PD for the underlying exposure year  i  and the participants' internal ECL macroeconomic scenario  k  .
+
+##### Climate adjusted PD
+
+OSFI prescribes climate PD add-ons  ( climateAdd-on )  to calculate climate transition adjusted PDs. For each scenario narrative and year, PD add-ons will vary across the following exposure characteristics:
+
+* regional sector
+* industry sector
+* credit quality bucket
+
+Each   climateAdd-on j   is provided for the conditional annual PDs for years  j ∈ 2025 , … , 2050  and applies to an exposure, based on the characteristics listed above, for the combination of years  T , i  and for a given climate scenario.
+
+Climate adjusted conditional PDs are calculated using conditional climate PD add-ons  (  climateAdd-on  T + i   )  as follows:
+
+climateCPD   T , i   k   =   1   ( 1 + exp ( − ( logit (   CPD   i   k   ) +   climateAdd-on   T + i   ) )
+
+For   T ∈ 2030 , 2035 , 2040 , 2045   and   i ∈ 1 , … , n   . Here,  logit  ( t )  = ln (   t   1 − t   )
+
+Subsequently, for each snapshot  T  the time series of climate adjusted conditional annual PDs is created   (   {    climateCPD   T , i   k    }   i = 1   n   )   . The participants use this time series to create the climate adjusted unconditional PD   (   climatePD   T , i   k   )   as follows:
+
+climatePD   T , i   k   =   ∏  j = 1   i − 1    ( 1 −   climateCPD   T + j   k   )   ×   climateCPD   T , i   k
+
+for each snapshot  T ∈ 2030 , 2035 , 2040 , 2045 ,  year  i ∈ 1 , … , n  , and macroeconomic scenario  k  .
+
+FRFIs that calculate ECLs using monthly or quarterly time steps can assume that a climate PD add-on for a given year is constant for the entire year. If an asset’s forwarded lifetime extends beyond the interval of provided climate PD add-ons, the climate PD add-on for the last available year can be applied for the remaining lifetime of the asset.
+
+##### Climate adjusted LGD
+
+Similarly to the Bank of Canada/OSFI Pilot Project, climate adjusted LGD  ( climateLGD )  is calculated using the Frye-Jacobs relationship[Footnote 2](#fn2) which provides a single-parameter, generic relationship between PD and LGD. Climate adjusted LGDs are calculated using the following formula:
+
+climateLGD   T , i   k   =   ϕ  [   ϕ   − 1   (    climatePD   T , i   k    ) −   ϕ   − 1   (    PD   i   k    ) +   ϕ   − 1   (    PD   i   k   ×   LGD   i   k    ) ]      climatePD   T , i   k
+
+Where  ϕ  represents the cumulative distribution function of the standard normal distribution, and    ϕ   − 1    represents the inverse of the same function. We assume the climate adjusted expected PD and LGD  ( climatePD  and  climateLGD )  obey a comonotonic Vasicek Distribution with no correlation between distinct exposures.
+
+### 3.5 Market risk
+
+Climate transition risk could significantly impact the value of financial assets such as stocks and bonds. As countries implement climate policies to reduce their overall emissions, the resulting transition risk drivers such as changes in policy, technology, and adjustments in general consumption patterns are expected to impact asset market valuations. Investors in financial markets could demand higher risk premiums for investing in assets of firms that are particularly vulnerable to economic consequences of transition risk, such as the emission intensive firms.
+
+While markets might already be pricing in climate-transition risks, for example, by demanding higher credit spreads on bonds issued by firms that have high carbon footprints and might face potential regulatory costs, there is not enough empirical evidence to confirm that climate risk is being adequately priced in. It is currently unclear if, how, and to what extent markets account for climate risks when determining the market value of a financial asset[Footnote 3](#fn3) . Furthermore, the unprecedented elevation of climate risk and the opacity of climate-vulnerable exposures make asset mispricing and downside risks of asset price shocks particularly relevant. This warrants further investigation and assessment of market risks for FRFIs.
+
+The market risk modules, therefore, aim to assess the impact of different transition scenarios on FRFIs' market risks by evaluating the changes in the market value of assets in the three transition scenarios. Changes will be measured relative to a baseline scenario. The market risk modules use "current policies" as the baseline scenario, given that market valuations may already reflect the impact of climate transition policies that are currently in place. Thus, market risk factors for the three transition scenarios are prescribed relative to the current policies scenario. The NGFS defines current policies as a scenario where no new climate policies are implemented and the risk factors prescribed by OSFI only consider the transition risk impacts and abstract from any direct impacts of physical risk.
+
+The market risk modules only focus on equity risk and interest rate risk (for interest rate sensitive assets in scope). The modules do not explore other types of market risks such as foreign exchange risk, changes in the market value of properties, right-of-use assets, equipment, etc. Thus, for any assets that are denominated in a foreign currency, the impact of fluctuations in exchange rates is not in scope.
+
+#### 3.5.1 Scope of exposures
+
+Only FRFIs with more than CAD $100 billion in total assets as of the reporting date (see Section 2.3) are required to complete market risk modules. The threshold shall be applied on a consolidated basis, up to the financial sector level (i.e., deposit taking institutions and insurance companies). Groups with both deposit taking institutions and insurance companies shall therefore consider the threshold and subsequently complete the market risk modules separately for both.
+
+We invite FRFIs that have significant exposures in scope for these modules to complete them even if their total assets are less than CAD $100 billion.
+
+The two broad asset classes that are in scope for the market risk modules are equities and corporate bonds. For DTI’s these assets are in scope if they are part of a DTI’s trading book and accounted as fair value through profit or loss (FVTPL). For insurers these assets are in scope if they are accounted as fair value through profit or loss or using the fair value option (FVO).
+
+In addition to equity and corporate bond assets, exposures to equities and corporate bonds in pooled funds are also in scope. Underlying exposures of equities and corporate bonds in a pooled fund are determined based on the percentage allocation of the underlying exposures in the pooled fund. FRFIs may use approximations to assess percentage allocation in pooled funds, provided they are applied consistently and are documented. If a benchmark index is used, it should adequately represent the pooled fund. The risk factors prescribed by OSFI can be applied to the underlying exposure amounts given their industry sector and region. Any pooled fund allocations to assets other than the in-scope assets are not in scope.
+
+Both long and short positions in the in-scope exposures are included.
+
+The following assets are not in scope for both DTIs and insurers:
+
+* Equities and corporate bonds that are part of a DTI's banking book or accounted as fair value through other comprehensive income or at amortized cost
+* Any sovereign, non-sovereign government, quasi-government, or supranational bonds
+* Any equity or bond allocations to pension plan assets
+* Securitized assets such as covered bonds and asset backed securities
+* Any asset that falls under the alternative asset class such as private equity, hedge funds, infrastructure, commodities, directly held real estate
+* Impact of interest rate changes on insurance contract liabilities will not be assessed
+* Client assets included in the general fund, such as universal life funds, are not in scope.
+* Mutual fund assets under management
+* Segregated funds (with and without guarantees).
+
+FRFIs may provide OSFI an additional completed SCSE workbook that incorporates fair value hedges.
+
+The two market risk modules are described in Sections 3.5.2 and 3.5.3.
+
+#### 3.5.2 Market risk for common shares
+
+The methodology described in this section applies to publicly listed common shares that are in scope as per section 3.5.1 as well as underlying publicly listed common shares in pooled funds.
+
+OSFI has prescribed paths for equity prices for a baseline scenario  ( baselineEquityIndex )  and instantaneous equity shocks for the three transition scenarios, relative to the baseline scenario  ( EquityShock )  to be applied to equity holdings.
+
+Equity paths in the baseline scenario and equity shocks in the three transition scenarios are prescribed for each reporting snapshot  T   ( T = 2030 , 2035 , 2040 , 2045 )  . Within each year, baseline equity paths for the three transition scenarios will vary by the regional sector and, equity shocks will vary by the regional sector and industry sector.
+
+For each region, baseline equity paths are prescribed as an index with 2023 as the base year and instantaneous equity shocks are prescribed for different industry sectors within the region.
+
+For each equity exposure, given the region and industry sector, and for each reporting snapshot of time  T  in the scenario horizon FRFIs will estimate the projected baseline market value  ( baselineMarketValue )  of the equity exposure as follows:
+
+baselineMarketValue   T   =   EquityExposure   reporting\_date   ×   baselineEquityIndex   T
+
+Where:
+
+* EquityExposure   reporting\_date    is the market value of the equity exposure as of the reporting date
+* baselineEquityIndex   T    is the baseline equity index value at time  T
+
+For each transition scenario, FRFIs will then assess the climate adjusted market value  ( Climate adjusted Market Value )  using the equity shocks prescribed by OSFI, based on the following formula:
+
+Climate adjusted Market Value   T   =   baselineMarketValue   T   × (  1 +   EquityShock   T    )
+
+Where:
+
+* baselineMarketValue   T    is the baseline market value of the exposure at time  T
+* EquityShock   T    is the OSFI prescribed instantaneous equity shock at time  T  for the underlying exposure in a given transition scenario, relative to the baseline scenario, based on the characteristics of the exposure
+
+#### 3.5.3 Market risk for corporate bonds and preferred shares
+
+The methodology described in this section applies to public and private corporate bonds and publicly listed preferred shares that are in scope as per section 3.5.1, as well as underlying corporate bonds and preferred shares in pooled funds.
+
+The impact on corporate bond and preferred share exposures is assessed through two key parameters; corporate credit spread shocks, and changes in 10-year government bond yields as the risk-free rate. Projected changes in 10-year government bond yields will be used as a proxy for the change in risk-free rates at all maturities. FRFIs will estimate the change in market values under the three transition scenarios (relative to the baseline scenario), based on these two parameters.
+
+OSFI has prescribed shocks to 10-year risk-free rates. The shocks vary by climate scenario narrative and reporting snapshot  T   ( T = 2030 , 2035 , 2040 , 2045 ) . For each transition scenario narrative and year, shocks are prescribed relative to the baseline and vary across different regions.
+
+For corporate credit spreads, OSFI has provided guidance to FRFIs on how to derive the credit spread shocks based on financial market traded credit spreads and changes in PD in Section 3.4.4.
+
+The approach described in this section of the SCSE Methodology is sensitivity based. Using the risk parameters prescribed by OSFI, FRFIs may also use a full revaluation approach if they provide evidence that the full revaluation approach would yield similar results to a sensitivity-based approach.
+
+The rest of this section describes the process for FRFIs to derive instantaneous shocks to corporate credit spreads. Steps 1- 6 below apply to both full-revaluation and sensitivity-based approach while step 7 only applies to the sensitivity-based approach.
+
+##### Deriving baseline and climate PD ratings
+
+**Step 1:** For each in-scope exposure, FRFIs will determine a baseline PD as of the reporting date, e.g., by mapping to a PD using the rating of the exposure. Subsequently, following the methodology described in Section 3.4.4, for each year  i  , the baseline PD will be adjusted to generate the climate adjusted PD  (   climatePD   i   )  using the climate PD adjustment prescribed by OSFI in Section 3.4.4, based on the following formula:
+
+climatePD   t   =   1   1 + exp ( − ( logit (  PD  ) +   climateAdd-on   t   ) )   ,  t = 2030 , 2035 , 2040 , 2045
+
+climatePD   i   =   climatePD   t    for  t ≤ i < t + 5
+
+The climate adjusted PDs will vary by climate scenario narrative and year. For each scenario narrative and year, climate adjusted PDs will be calculated relative to the baseline PD and will vary across the following exposure characteristics:
+
+* regional sector
+* industry sector
+* credit quality bucket
+
+If a reporting snapshot  T  extends beyond the interval of provided climate PD add-ons, the climate PD add-on for the last available year can be applied for the remaining years.
+
+For each year  i  , FRFIs will then assign a climate PD rating to the exposure based on the climate adjusted PDs, using their internal risk rating grade.
+
+##### Deriving climate credit spreads
+
+**Step 2:** For each exposure given its region, sector and maturity, FRFIs will determine the credit spreads for the baseline  ( baselineCS )  and transition scenarios  ( climateCS )  , for each year  i  in the horizon of the exercise, based on the baseline and climate PD ratings for each year  i  discussed in the previous step by using their internal mapping of financial market traded credit spreads.
+
+baseline PD rating → baselineCS
+
+climate PD rating for year   i  →   climateCS   i
+
+**Step 3:** Subsequently for each year  i  , the annual credit spread shock  ( Δ CS )  will be calculated as the difference between the credit spread in the transition and the baseline scenarios:
+
+Δ   CS   i   =   climateCS   i   − baselineCS
+
+**Step 4:** For each snapshot  T   ( T = 2030 , 2035 , 2040 , 2045 )  assuming  n  years until maturity of the exposure, FRFIs will estimate the maximum   ( Δ   CS   max , ( T , T + n )   )   and minimum  (  Δ   CS   min , ( T , T + n )    )  credit spread shocks starting at time  T  until the maturity of the bond (year  T + n  ) as follows:
+
+Δ   CS   max , ( T , T + n )   =     max   T ≤ i < T + n    ⁡  {  Δ   CS   i   , 0  }
+
+Δ   CS   min , ( T , T + n )   =     min   T ≤ i < T + n    ⁡  {  Δ   CS   i   , 0  }
+
+**Step 5:** Subsequently for each snapshot  T  , the instantaneous shock to credit spreads  ( CSshock )  will be calculated as follows:
+
+CSshock   T   = {     Δ   CS   max , ( T , T + n )   ,   if   |  Δ   CS   max , ( T , T + n )    | > | Δ   CS   min , ( T , T + n )   |     Δ   CS   min , ( T , T + n )   ,   if   |  Δ   CS   max , ( T , T + n )    | < | Δ   CS   min , ( T , T + n )   |
+
+**Step 6:** Similarly for each snapshot  T  , FRFIs will also estimate the instantaneous shocks to the risk-free rates  ( RFshock )  based on steps 3 and 4 as described above by replacing the annual credit spread shocks  ( Δ CS )  with the shocks to 10-year risk-free rates prescribed by OSFI.
+
+##### Estimating the Climate adjusted Market Value
+
+**Step 7:** For each exposure, climate scenario, and snapshot  T  , FRFIs will use the corresponding instantaneous shocks for credit spreads  ( CSshock )  and risk-free rate  ( RFshock )  derived above to estimate the climate adjusted market value  ( Climate adjusted Market Value )  of the bond (relative to the baseline) as follows:
+
+Climate adjusted Market Value   T    =  ExposureValue reporting date  × (  1 + (  CS 01 ×  CSshock T  + PV 01 ×  RFshock T   )  )
+
+Where:
+
+* ExposureValue reporting date   is the value of the bond exposure as of the reporting date
+* CS 01  is the absolute change in bond valuation when the underlying bond issue's credit spread widens/narrows by one basis point, more commonly referred to as the modified duration of a bond
+* PV 01  is the absolute change in valuation when the risk-free rate increases/decreases by one basis point, more commonly referred to as the effective duration of a bond
+
+As explained above, the shocks to credit spreads and risk-free rates in each transition scenario will be derived relative to the baseline scenario. FRFIs will use their internal estimates of bond sensitivity parameters for each exposure i.e.,  CS 01  and  PV 01  and apply them to credit spread and risk-free rate shocks to estimate the change in market values. FRFIs may use approximations for certain assets where sensitivity parameters are not readily available if they are applied consistently and are documented.
+
+The resulting change in market valuation will not be precise since this is an approximation based on first order sensitivities i.e., duration. Duration alone overestimates a decline in bond prices when credit spreads widen and underestimates an increase in bond prices when credit spreads narrow. The accuracy of the market value change estimation can be improved by including second order impacts, i.e., convexity adjustment. FRFIs can include second order impacts of convexity as an optional analysis. However, FRFIs that choose to do so must report the first order impacts and the combined impacts (first and second order) separately.
+
+FRFIs can estimate the combined first and second order impacts as follows:
+
+∆ MarketValue   instant , T   =  ExposureValue reporting date  × (  [  CS 01 ×   CSshock   T   +   1   2   C ×   (   CSshock   T   )   2    ] + [  PV 01 ×   RFshock   T   +   1   2     C   eff   ×   (   RFshock   T   )   2    ]  )
+
+Where:
+
+* C  is the convexity adjustment for the bond due to a one basis point change in the underlying bond issue's credit spread
+* C   eff    is the effective convexity of the bond i.e., convexity adjustment due to a one basis point change in the risk-free rate
+
+An illustrative example showing how to derive and apply instantaneous credit spread and risk-free shocks is provided in the SCSE Instructions.
+
+## 4. Real estate transition risk exposure assessment
+
+Climate transition risks may translate into financial losses for FRFIs' real estate secured lending and investment portfolios. The transition risks and their associated economic transmission channels are different than the transition risks associated with corporate and commercial exposures.
+
+OSFI has identified possible transmission channels related to the transition away from a carbon-intensive economy that may impact the risks associated with real estate lending and investments:
+
+1. Exposures to properties that are powered or heated by carbon-intensive sources such as fossil fuels or natural gas may be impacted by the transition to net-zero.
+
+   1. Property values may decrease relative to properties that use renewable power or electric heating sources as real estate buyer preferences change with the transition and due to the costs required to upgrade such buildings to an efficient heating source. These relative decreases in value may impact borrower PDs and LGDs given the risk discrimination associated with loan-to-value ratios (LTV) for real estate exposures.
+   2. As carbon tax policies lead to an increase in energy prices, borrowers may be under higher levels of stress due to the higher costs of maintaining and operating these properties. This additional stress may impact borrower PDs.
+2. Borrowers employed in industries exposed to higher transition risks may face additional financial hardship given shifts in the labour market. These shifts may impact borrower PDs.
+
+In this module, OSFI is aiming to better understand the extent to which climate transition risk may impact real estate exposures. The module focuses on the possible transmission channels related to properties' heating and energy sources as described in 1a. and 1b. above.
+
+Recognizing that some FRFIs may have data gaps that prevent them from assessing real estate transition risks at an exposure level, this module does not attempt to measure financial impacts, e.g., credit risks. Instead, the module is a foundational exercise that may be used to inform future climate scenario analyses.
+
+OSFI also considered how the transition away from a carbon-intensive economy may cause higher inflation, which may impact interest rates and put additional stress on mortgage borrowers. However, unlike the possible impacts listed above, interest rates would impact all borrowers, and the risks associated with rising interest rates are already reflected in regulatory policy such as the borrower stress test in Guideline B-20 - Residential Mortgage Underwriting Practices and Procedures, and capital regimes.
+
+### 4.1 Balance sheet assumptions
+
+The real estate transition exposure assessment is based on FRFIs' balance sheets as of the reporting date (see Section 2.3). There is no temporal nature to this aspect of the SCSE; it is a snapshot of exposures at a point in time.
+
+### 4.2 Transition scenarios
+
+The real estate transition exposure assessment assumes that there will be a transition away from a carbon-intensive economy but does not attempt to specify the timing of the transition. The scenario narratives discussed in Section 3.2.1 are not applicable to this module.
+
+### 4.3 Scope and classification of exposures
+
+As this module attempts to capture information about the heating and energy sources related to exposures, the scope of exposures concerns properties or buildings. That is, the scope for this module does not include land-related or equipment-related exposures the same way the physical risk module does.
+
+#### 4.3.1 Exposures for DTIs
+
+There are nine exposure classes for DTIs that are in scope for the real estate transition risk exposure assessment. Exposure classes are defined by the lending product, collateral/physical asset type, and the presence of mortgage default insurance status where applicable. The assets that are in scope for DTIs are aligned with OSFI's [Balance Sheet (M4) return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/balance-sheet-m4 "Balance Sheet (M4)"). The table below has references to the line(s) in the M4 return that match the SCSE exposure class. This reference is included to help DTIs understand the nature of the SCSE exposure classes and is not intended to imply a one-to-one relationship. The exposures that should be captured in the SCSE exposure class can differ from the exposures considered in the M4 return in the following ways:
+
+1. The SCSE only scopes in exposures which are associated with properties or buildings.
+2. The SCSE only scopes in exposures in Canada.
+
+**Figure 7: Exposures for real estate transition risk for DTIs**
+
+| Exposure ID | Lending Product | Physical Asset | Mortgage insurance | OSFI M4 Return Reference |
+| --- | --- | --- | --- | --- |
+| 1 | Mortgages | Secured by residential property | CMHC insured | 3(b)(i)(A) |
+| 2 | Mortgages | Secured by residential property | Other insured | 3(b)(i)(A) |
+| 3 | Mortgages | Secured by residential property | Uninsured | 3(b)(i)(C) |
+| 4 | HELOCs | Secured by residential property | Not applicable | 3(a)(vi)(A) |
+| 5 | Non-mortgage loans excluding HELOCs | Secured by residential property | Not applicable | 3(a)(viii)(A) |
+| 6 | Reverse mortgages | Secured by residential property | Not applicable | 3(b)(i)(D) |
+| 7 | Mortgages | Secured by non-residential property | Not applicable | 3(b)(ii) |
+| 8 | Non-mortgage loans | Secured by non-residential property | Not applicable | 3(a)(vi)(B)  3(a)(viii)(B) |
+| 9 | Not applicable | Buildings | Not applicable | 5 |
+
+Note that for Exposure IDs 1-8, the Physical Asset column describes the collateral type for a loan. However, for Exposure ID 9 the Physical Asset represents buildings owned by the FRFI.
+
+All securitized mortgages (i.e., securitized through the National Housing Act MBS program) are **not** in scope for the real estate transition risk module. These mortgages are insured by either the Canada Mortgage and Housing Corporation (CMHC) or other mortgage insurers, and so losses due to transition risk as described in the earlier part of this section are likely to fall on the insurer.
+
+Investments in mortgage-backed securities (MBS) are also **not** in scope for the real estate transition risk module, i.e., DTIs are not expected to obtain or proxy property-level information for underlying mortgages for MBS investments.
+
+Non-securitized mortgages that are insured are in scope for this module (see Exposure IDs 1 and 2 above).
+
+#### 4.3.2 Exposure classes for Insurers
+
+There are two asset classes and one insurance type that are in scope for the real estate transition risk exposure assessment for insurers. The assets that are in scope for insurers to complete the real estate transition risk module of the SCSE are aligned with OSFI's [Life Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-insurance-return "Life Insurance Return"), [P&C Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/property-casualty-pc-insurance-return "Property and casualty (P&C) insurance return"), and [Mortgage Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/mortgage-insurance-return "Mortgage Insurance Return").
+
+**Figure 8: Asset Exposures for real estate transition risk for Insurers**
+
+| Exposure ID | Asset exposed to transition risk | Return asset | Life Insurance Return Reference | P&C Insurance Return Reference | Mortgage Insurance Return Reference |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Properties | Investments – Mortgages | LF2(21012)500 | PC2(40.08)210 | MI4(40.08)210 |
+| 2 | Properties | Investment properties  Property and Equipment | LF1(20002)110  LF1(20002)120 | PC1(20.10)17  PC1(20.10)41 | MI3(20.10)17  MI3(20.10)41 |
+
+The only insurance policies that are in scope are mortgage insurance policies (or mortgage guarantee insurance):
+
+* Life insurance policies are not in scope.
+* All other P&C insurance policies are not in scope.
+
+### 4.4 Dimensions and aggregated amounts
+
+For this module, FRFIs will create two province level summaries capturing exposures' primary heating source and primary energy (electricity) source into fuel-based and non-fuel based sources.
+
+The SCSE Instructions provide further information of the classification of the heating and energy sources into fuel and non-fuel based sources.
+
+Understanding that there could be data gaps in heating and energy sources for FRFIs' real estate exposures, the use of data proxies is permitted for this module if collecting this information represents a significant burden on the FRFI. For example, if a FRFI does not know the heating source of the properties associated with their real estate lending or investment portfolios, they may refer to the [Statistics Canada Table: 38-10-0286-01 Primary heating systems and type of energy](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3810028601). This table provides percentages of heating source type at the provincial level and for 35 Census Metropolitan Areas (CMAs). Any use of data proxies should be rationalized and documented. Please see the SCSE Instructions for an example of how proxy data can be used for this module.
+
+FRFIs are invited to consider collecting the requisite information for future climate risk assessments.
+
+In addition to the real estate transition risk submission, the exposure assessment also includes a separate summary segmented by the following dimensions:
+
+1. Province
+2. Exposure type
+3. Loan-to-value buckets for lending exposures, see the Instructions for specific buckets
+4. Property age for property-based exposures, segmented to pre-2000 and post-2000, if available
+
+All summaries will include the following aggregated amounts
+
+* Exposure amount
+
+  + Outstanding balance for lending exposures
+  + Most recent market value for owned assets/investments
+  + Outstanding mortgage balance for mortgage insurance exposures
+* Undrawn amount (if applicable)
+
+## 5. Physical risk exposure assessments
+
+Physical climate scenarios may translate into financial losses for FRFIs through multiple transmission channels. Chronic and acute physical hazards have the potential to cause significant damages to physical assets held by FRFIs, impacting their values and/or likelihoods of default. Indirect impacts of physical hazards may impact financial risks as well; chronic hazards may impact asset values even if damages are repaired, large acute hazards may lead to business disruptions, etc.
+
+In this module, OSFI is aiming to better understand the extent to which FRFIs are exposed to certain physical hazards. Like the transition risk real estate exposure assessment, this module does not attempt to measure financial impacts, e.g., credit risks. Instead, the module is a foundational exercise that may be used to inform future climate scenario analyses.
+
+### 5.1 Balance sheet assumptions
+
+The physical risk exposure assessments are based on FRFIs’ balance sheets as of the reporting date (see Section 2.3). Unlike transition risk, where financial risks can be measured at different points in time, physical climate scenarios are often considered by using singular statistical values such as averages or return period values, e.g., 1:100-year events. The physical risk module includes average estimates that reflect recent historical data and return period/percentile values that reflect possible future climate scenarios for acute physical risks.
+
+### 5.2 Physical climate scenarios
+
+Climate scenarios that focus on physical risks are often defined using [Representative Concentration Pathways](https://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services/basics/scenario-models.html) (RCP). RCPs describe future patterns, in the context of future greenhouse gas emissions.
+
+Three specific RCP scenarios are often considered in physical climate risk scenario analysis. Each scenario results in different amounts of average global warming, as follows.
+
+* **RCP 2.6:** average rise in temperatures of 0.9 to 2.3℃ by 2090, which would require the most action to reduce GHG emissions.
+* **RCP 4.5:** average rise in temperatures of 1.7 to 3.2℃ by 2090, which would require significant action to reduce GHG emissions.
+* **RCP 8.5:** average rise in temperatures of 3.2 to 5.4℃ by 2090.
+
+In 2021, there was an introduction of Shared Socioeconomic Pathways (SSP), which further refine the societal and economic factors that drive emissions and other climate-relevant activities. These include population growth, economic development, technological change, and governance structures.
+
+In summary, RCPs and SSPs describe potential future climates based on different greenhouse gas concentration trajectories resulting from different possible futures in terms of socioeconomic development and their implications for greenhouse gas emissions. The exposure assessments conducted for this exercise focus on the direct damages from acute climate events and are therefore analyzed within the RCP and not SSP framework. The physical risk exposure assessments focus on one future scenario for each hazard and compare this against backward-looking average values.
+
+### 5.3 Scope and classification of exposures
+
+The physical risk exposure assessments include exposures related to immobile assets, such as residential properties, non-residential properties, land, and other immobile assets.  It is the physical asset associated with an exposure that determines whether or not it is within the scope of this module. Determinations of whether exposures are in-scope cannot be made solely at the portfolio level, as some portfolios may have exposures that are in scope and other exposures that are not. For example, a non-mortgage loan collateralized by an immobile physical asset, e.g., a pipeline, would therefore be in scope, but a non-mortgage loan in the same portfolio collateralized by a vehicle (mobile asset) or by common shares (non-physical) would not be in scope.
+
+#### 5.3.1 Exposures for DTIs
+
+There are nine exposure classes for DTIs that are in scope for the physical risk module. Exposure classes are defined by the lending product, collateral/physical asset type, and the presence of mortgage default insurance where applicable. The assets that are in scope for DTIs are aligned with OSFI's [Balance Sheet (M4) return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/balance-sheet-m4 "Balance Sheet (M4)"). The table below contains a reference to the line(s) in the M4 return that match the SCSE exposure class. This reference is provided to help DTIs understand the nature of the SCSE exposure classes and is not intended to imply a one-to-one relationship. The exposures that should be captured in the SCSE exposure class can differ from the exposures considered in the M4 return in the following ways:
+
+1. The SCSE only scopes in exposures which are associated with immobile, physical assets.
+2. The SCSE only scopes in certain geographic regions (see sections 5.5.1 and 5.5.2 below).
+3. For non-property, non-land exposures, the SCSE only captures exposures that meet the materiality threshold as defined in section 5.3.3 below.
+
+The SCSE includes certain off-balance sheet exposures as well, namely those that have been securitized through the National Housing Act MBS program and then sold. See further below in this section for more details.
+
+**Figure 9: Exposures for physical risks for DTIs**
+
+| Exposure ID | Lending Product | Immobile Physical Asset | Mortgage insurance | OSFI M4 Return Reference |
+| --- | --- | --- | --- | --- |
+| 1 | Mortgages | Secured by residential property | CMHC insured | 3(b)(i)(A) |
+| 2 | Mortgages | Secured by residential property | Other insured | 3(b)(i)(A) |
+| 3 | Mortgages | Secured by residential property | Uninsured | 3(b)(i)(C) |
+| 4 | HELOCs | Secured by residential property | Not applicable | 3(a)(vi)(A) |
+| 5 | Non-mortgage loans excluding HELOCs | Secured by residential property | Not applicable | 3(a)(viii)(A) |
+| 6 | Reverse mortgages | Secured by residential property | Not applicable | 3(b)(i)(D) |
+| 7 | Mortgages | Secured by other than residential property | Not applicable | 3(b)(ii) |
+| 8 | Non-mortgage loans | Secured by other than residential property | Not applicable | 3(a)(vi)(B)  3(a)(viii)(B) |
+| 9 | Not applicable | Land, buildings, and immobile equipment | Not applicable | 5 |
+
+Note that for Exposure IDs 1-8, the Physical Asset column describes the collateral type for a loan. However, for Exposure ID 9 the Physical Asset represents Land, buildings, and immobile equipment owned by the FRFI.
+
+For Exposure IDs 7 and 8, “Secured by other than residential property” refers to lending exposures that are secured by any immobile physical asset other than residential property. This may include commercial property, land, or any other immobile physical assets. Unsecured loans and loans secured by mobile or non-physical assets are not in scope.
+
+Mortgages insured by CMHC or other mortgage insurers are in scope whether or not they have been securitized through the National Housing Act MBS program, i.e., regardless of whether or not they are on the balance sheet. These mortgages are in scope because in the case of mortgage default, the FRFI that forecloses on the underlying property is exposed to its associated physical risks since mortgage insurance policies do not provide coverage for force majeure events.
+
+Investments in mortgage-backed securities (MBS) are not in scope for the physical risk module and DTIs are not expected to geocode underlying mortgages for MBS investments.
+
+#### 5.3.2 Exposure classes for Insurers
+
+There are two asset classes and three insurance types that are in scope for the physical risk exposure assessment for insurers.
+
+The assets that are in scope for insurers to complete the physical risk module of the SCSE are aligned with OSFI's [Life Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-insurance-return "Life Insurance Return"), [P&C Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/property-casualty-pc-insurance-return "Property and casualty (P&C) insurance return"), and [Mortgage Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/mortgage-insurance-return "Mortgage Insurance Return").
+
+**Figure 10: Asset Exposures for physical risks for Insurers**
+
+| Exposure ID | Immobile Physical Asset | Return Asset | Life Insurance Return Reference | P&C Insurance Return Reference | Mortgage Insurance Return Reference |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Properties | Investments – Mortgages | LF2(21012)500 | PC2(40.08)210 | MI4(40.08)210 |
+| 2 | Land, Buildings and Immobile Equipment | Investment properties  Property and Equipment | LF1(20002)110  LF1(20002)120 | PC1(20.10)17  PC1(20.10)41 | MI3(20.10)17  MI3(20.10)41 |
+
+The insurance policies that are in scope are different for each type of insurer:
+
+* Life insurance policies are not in scope.
+* Direct P&C insurance policies are in-scope for two lines of business if the policies cover the relevant hazards (flood or wildfire). The lines of business are aligned with OSFI's P&C Insurance Return and summarized in the table below.
+* Reinsurance policies are only in scope if they have the potential to pay out on the occurrence of a single claim. This includes but is not limited to proportional reinsurance and per risk excess of loss reinsurance. All other reinsurance policies are not in scope, however, this information is requested on a summarized basis in the SCSE Questionnaire.
+* Mortgage insurance (or mortgage guarantee insurance), for federally regulated mortgage insurers, is in-scope.
+
+For Direct P&C Insurance and Reinsurance policies, only policies which cover damages associated with the respective hazard (flood or wildfire) are in scope.
+
+**Figure 11: Insurance Exposures for physical risks for Insurers**
+
+| Exposure ID | Insurer | Immobile Physical Asset | Insurance Class | Return Reference | Notes |
+| --- | --- | --- | --- | --- | --- |
+| 3 | Mortgage | Residential properties | Mortgage | MI4(10.41)62 | All policies are in scope |
+| 4 | P&C | Residential properties | Personal property excluding Home and Product Warranty | PC2(10.41)03 | Only policies with flood or wildfire insurance coverage are in scope |
+| 5 | P&C | Commercial properties | Commercial property | PC2(10.41)07 | Only policies with flood or wildfire insurance coverage are in scope |
+
+All other asset classes and insurance exposures are out of scope.
+
+##### 5.3.3 Materiality Thresholds for Exposures to non-property, non-land assets
+
+The physical risk exposure assessments include exposures related to immobile physical assets, such as residential properties, non-residential properties, land, and other immobile assets.
+
+There is a materiality threshold for “other immobile assets” of CAD $0.5 million, i.e., exposures with exposure amount less than CAD $0.5 million, with underlying collateral being physical and immobile but not property nor land can be excluded from the physical risk exposure assessments. This applies at the exposure level for both DTIs and insurers. No materiality thresholds apply to exposures related to residential property, non-residential properties, or land.
+
+##### 5.3.4 Consideration of reinsurance
+
+For insurers who have insurance policies that cover damage caused by flood or wildfire, the "Exposure amount" is the "Total insured values, net of deductibles, co-insurance and per-risk reinsurance amounts". By "per-risk" reinsurance, we mean reinsurance that pays out when a claim on the specific, insured physical asset is made, and does not depend on any other claims on other assets to be made. This includes facultative reinsurance, proportional treaty reinsurance, per risk excess of loss reinsurance, etc. In other words, FRFIs should net out any reinsurance contracts that reduce the insurer's payout for a given claim, assuming only this claim occurs in isolation.
+
+All reinsurance policies that rely on an aggregate level of claims from multiple insurance policies before paying out should not be included. For instance, FRFIs should not capture Aggregate Excess of Loss, Aggregate Stop Loss, or Catastrophe Reinsurance. This approach is taken as attributing these types of reinsurance to the specific physical assets in scope is not practical, as this module only considers a subset of Canada. Omission of these types of reinsurance is identified as a limitation in the appendix of this document. The SCSE Questionnaire contains questions related to the aggregate level of reinsurance held by a direct P&C insurer and reinsurer, and the aggregate level of reinsurance provided by a reinsurer.
+
+### 5.4 Location and geospatial data
+
+The physical hazard maps used in the SCSE include shapes that are defined using latitude and longitude coordinates (geolocations). Merging these maps to exposure datasets will generally require FRFIs to know geolocations of individual exposures to an appropriate level of precision. This information is obtained through geocoding (i.e., taking text-based address information to determine geolocations), which may be required to complete the physical risk exposure assessment. The minimum level of precision for geocoding can vary depending on the specific location and the map used. For example, an entire postal code may fit inside one of the fire weather map grid cells. However, it is generally recommended that FRFIs geocode address level data (i.e., full address including property number and street name) for each in-scope exposure, to ensure that the correct physical hazard metrics are used.
+
+Geocoding multiple asset classes is an essential undertaking that will build capacity within FRFIs to conduct physical vulnerability assessments going forward. Physical hazard data is usually expressed using geolocations rather than postal locations. Geocoding will allow FRFIs to refine their physical climate risk assessments beyond this standardized exercise as more detailed and accurate hazard data becomes available.
+
+FRFIs will provide OSFI with aggregated amounts and not any exposure level location data. Geocoded data will remain with FRFIs.
+
+#### 5.4.1 Single-point geocoding
+
+Many exposures, e.g., residential real estate exposures will require FRFIs to determine single-point geolocations. i.e., one latitude and longitude pair.
+
+#### 5.4.2 Multi-point exposures
+
+Some exposures, e.g., large land areas, pipelines, may require geocoding that is more complex than obtaining a single geolocation for a counterparty. This is because some in-scope collateral may have a large physical footprint that is not adequately captured by a single point. In these cases, geocoding a single point is not sufficient for this exercise. However, given the challenges that can be associated with multi-point geocoding, FRFIs may use approximations and simplifications in this exercise. The following simplifications could be used by FRFIs:
+
+* FRFIs could only include exposures when it is known, with certainty, that part of the physical asset falls within the geographical scope of the respective flood and wildfire scoped FSAs. For example, if considering a pipeline, FRFIs are expected to use readily available locations of the pipeline (such as pipeline terminals or connection points) to determine if the pipeline is within the relevant geographical scope.
+* If the physical asset is in scope, FRFIs could take the maximum value of the hazard metrics across the known geolocations for the physical asset. For example, if part of a pipeline is within the geographical scope, FRFIs could assign the entire exposure amount to the maximum values of the hazard metrics across all known, relevant geolocations for the pipeline that are within geographical scope.
+
+In such cases, FRFIs would be expected to provide documented rationale on any approximations or simplifications along with their SCSE submission.
+
+### 5.5 Hazards
+
+The physical risk exposure assessments are limited to exposures in Canada and include two physical hazards:
+
+* Riverine and coastal flooding
+* Wildfire weather
+
+#### 5.5.1 Riverine and coastal flooding
+
+For the riverine and coastal flooding hazard, OSFI has worked with [riskthinking.AI](https://riskthinking.ai/), who will provide FRFIs with flood depth data for selected in-scope geographies at no cost. Once FRFIs have completed the "Identification" page of the SCSE Workbook, they will be able to access the riskthinking.AI portal. This portal contains the flood depth data needed for the SCSE and documentation describing how flood depths estimates were determined by riskthinking.AI.
+
+##### Hazard map and metrics
+
+The riverine and coastal flooding maps include two estimates of flood depths which are relevant for the SCSE:
+
+1. estimates that represent **baseline** flooding, specifically, flood depths under recent historical climate conditions using a one in five-year return period
+2. estimates that represent severe but plausible flood depths under possible **future** climate conditions as of 2050, specifically, flood depths using an AEP of 1%, or a one in one-hundred-year return period and a stochastic approach to climate scenarios that captures a range of RCP scenarios
+
+The specific flood depth metrics corresponding to (1) and (2) above are presented in the table below:
+
+**Figure 12: Flood depth metrics for the SCSE**
+
+| Flood Hazard | Return Period | Climatology | Climate Scenario | Statistic |
+| --- | --- | --- | --- | --- |
+| Baseline | RP 1 in 5 | baseline (historical) | baseline (historical) | mean |
+| Future | RP 1 in 100 | 2050 | Stochastic | 50th percentile |
+
+The dataset that FRFIs will access contains additional metrics which are for information only and are not an input to the SCSE submission. The SCSE Instructions contain precise field names to use in the SCSE.
+
+##### Geographical scope
+
+The riverine and coastal flooding maps include flood depths from eleven urban geographical regions. We have named these geographic areas based on the central city in the area, however, some regions include some surrounding areas. We have selected the regions for inclusion based on findings from the [Bank of Canada/OSFI flood project](https://www.bankofcanada.ca/2023/12/staff-discussion-paper-2023-33/) to target areas where there are material exposures and material flood risk.
+
+However, **these regions do not capture the entirety of flood risk in Canada and, for certain FRFIs, may not capture even the majority of their exposure to flood risks**.
+
+The eleven regions are:
+
+* Vancouver, British Columbia
+* Calgary, Alberta
+* Edmonton, Alberta
+* Winnipeg, Manitoba
+* Kitchener-Waterloo-Cambridge, Ontario
+* Ottawa-Gatineau, Ontario/Québec
+* Montréal, Québec
+* Québec City, Québec
+* Sherbrooke, Québec
+* Saguenay, Québec
+* Fredericton, New Brunswick
+
+The specific Forward Sortation Areas[Footnote 4](#fn4) (FSAs) that define each region are listed in the SCSE Instructions. All exposures that are outside of these FSAs are out of scope for the flood risk exposure assessment.
+
+The maps that are provided by riskthinking.AI to the exercise participants include flood depths for given locations that are defined by hexagonal grid cells using the H3 indexing system[Footnote 5](#fn5). For each asset in scope, FRFIs can obtain geolocations, i.e., latitude and longitude coordinates, and use them to identify each asset's associated H3 hexagon at resolution of 7. Alternatively, the central latitude and longitude for each hexagonal grid cell is also provided and a "nearest neighbor" approach can be taken to identify the grid cell (and corresponding flood depth metrics) that is most relevant to the asset's geolocation.
+
+Information about the approach used by riskthinking.AI to estimate flood depths is provided by riskthinking.AI to the exercise participants along with the flood maps.
+
+##### Riverine flooding and coastal flooding in Vancouver
+
+For the SCSE, riskthinking.AI provides FRFIs with two distinct datasets: one for riverine flooding and one for coastal flooding. Coastal flooding relates to flooding from bodies of water found on the coast of Canada (e.g., the Pacific Ocean). Coastal flooding is only relevant for the Vancouver region, while riverine flooding applies to all regions in scope. For exposures in the Vancouver region, FRFIs are expected to use the higher of the riverine flooding metric and the coastal flooding metric for baseline and future flood depths.
+
+#### 5.5.2 Wildfire
+
+For the wildfire hazard, OSFI is working with Environment and Climate Change Canada (ECCC), who have published fire weather index projections[Footnote 6](#fn6) on [ClimateData.ca](https://climatedata.ca/). Fire weather refers to the often hot, dry and windy conditions conducive to wildfires. These projections use weather outputs from global climate models to estimate the extent to which the weather aspect of wildfire danger will be affected by changing climate conditions. The maps and data can be found at: [Climage Change and Wildfire](https://climatedata.ca/fire-weather/) . It should be noted that these fire weather index projections provide information on only one factor (the weather component) that contributes to wildfire activity. Other factors include, but are not limited to, fuel availability and fire ignitions (human-caused or natural). This is identified as a limitation of this module.
+
+##### Wildfire weather map and metrics
+
+The wildfire weather maps include a variety of estimates for a variety of fire weather related metrics. Similar to the flood exposure assessment, OSFI has prescribed the specific metrics and estimates that are relevant for the SCSE:
+
+1. estimates that represent "baseline" or historical (recent past) wildfire weather
+2. estimates that represent wildfire weather under possible future climate scenarios
+
+There are two fire weather metrics that are included in this exposure assessment:
+
+* The build-up index (BUI) is a component of the Fire Weather Index System and represents the forest floor drought conditions that determine how much fuel is available for combustion. It is calculated using temperature, relative humidity, and rainfall. BUI values increase as soil moisture decreases. This means that higher BUI values indicate a higher fire weather contribution to wildfire danger.
+* A fire season length (or “fire season”) metric, which is the period during a year when the weather is warm enough to result in potential wildfire danger.
+
+Both the BUI and fire season projections are provided for the RCP 4.5 climate scenario, the scenario to be used in this exercise.
+
+The methodology used to obtain the projections requires the use of multiple simulations of possible futures. The ensemble statistic describes how these simulations have been summarized. For this module, the **mean ensemble statistic** has been selected.
+
+The annual quantile describes how the daily values of a fire season projection are summarized at the annual level. Given that wildfires are more likely during the periods of the summer months when the projected index is at its highest, the 95th percentile of the summer months (May to September) has been chosen for both the baseline and future metrics.
+
+**The key difference between the baseline and possible future metrics are the climatology time periods. The baseline period is 1971-2000 and the future period is 2041-2070.** The 1971-2000 period has been selected for the baseline as it roughly represents the climate to which we are implicitly adapted to currently. For the future metric, 2041-2070 has been selected as it aligns best with the time horizon that is used in the other modules of the SCSE.
+
+For further details on the fields above and the precise filtering needed, please see the SCSE Instructions.
+
+The required subsets of the data can be downloaded in the netCDF format in the Deep Dive section of the fire weather portal. This is a commonly used format with the advantage that it can hold several metrics with multiple dimensions. An example of how to access and utilize this data format to complete the SCSE Workbook can be found in the SCSE Instructions.
+
+##### Geographical Scope
+
+The wildfire weather maps cover all of Canada. However, similarly to the flood exposure assessment, the wildfire exposure assessment focuses on a relevant subset of Canada. We have selected eight rural geographical regions:
+
+* Northwest Territories
+* Northern Alberta
+* Northern Saskatchewan
+* Northern Manitoba
+* Northwest Ontario
+* Northern Québec
+* Eastern Labrador
+* Northeast Newfoundland
+
+The selection of these regions was informed in part by the "Community Wildfire Risk" map presented in the research paper [Mapping wildfire hazard, vulnerability, and risk to Canadian communities](https://www.sciencedirect.com/science/article/pii/S221242092300701X). As in the case of flood risk, this list does not represent an exhaustive consideration of wildfire risk. The specific FSAs that are included in each region are listed in the SCSE Instructions. All exposures that are outside of these FSAs are out of scope for the wildfire risk exposure assessment.
+
+The maps available on ClimateData.ca include wildfire weather metrics for all of Canada in the form of a 50x50 kilometer gridded map and dataset. This dataset contains central latitude and longitude pairs for each rectangle, along with the wildfire weather metrics.
+
+### 5.6 Reporting aggregated amounts
+
+FRFIs are not expected to include physical risk information at the address or geocoded location level as part of the SCSE. Instead, in-scope exposures are to be aggregated into exposure classes and across other dimensions. The physical risk exposure assessment is segmented by the following dimensions:
+
+* Regions, as described in Sections 5.5.1 and 5.5.2 respectively
+* Exposure type as classified by the Exposure ID and the collateral type as specified in the SCSE Instructions
+* Loan-to-value buckets for lending exposures
+* Property age for property-based exposures, segmented to pre-2000 and post-2000, if available
+* Physical hazard buckets
+  + For the flood exposure assessment, exposures will be bucketed by future flood depths, as specified in the SCSE Instructions
+  + For the wildfire exposure assessment, exposures will be bucketed by the future BUI metric, as specified in the SCSE Instructions
+
+The exposure assessment includes the following aggregated amounts:
+
+* Exposure amount
+
+  + Outstanding balance for lending exposures
+  + Most recent market value for owned assets/investments
+  + Total insured value, net of deductibles, co-insurance, and per-risk reinsurance amounts, for P&C insurance exposures, as described in section 5.3.4 above
+  + Outstanding mortgage balance for mortgage insurance exposures
+* Undrawn amount (if applicable)
+* Scenario (future) and baseline physical hazard metric for the flood and wildfire modules
+* Scenario (future) and baseline fire season length metric for the wildfire module only
+
+The Exposure amount and Undrawn amount should be summed for each of the segments. For the flood depth, BUI and fire season length metrics, an exposure amount weighted average for each segment should be submitted.
+
+## 6. Appendices
+
+### 6.1 Abbreviations
+
+Abbreviation
+:   **Definition**
+
+AEP
+:   Annual Exceedance Probability
+
+BoC
+:   Bank of Canada
+
+CMA
+:   Census Metropolitan Area
+
+CMHC
+:   Canada Mortgage and Housing Corporation
+
+DTI
+:   Deposit Taking Institution
+
+EAD
+:   Exposure at Default
+
+ECCC
+:   Environment and Climate Change Canada
+
+ECL
+:   Expected Credit Losses
+
+FBB
+:   Foreign Bank Branch
+
+FRFI
+:   Federally Regulated Financial Institution
+
+FRPP
+:   Federally Regulated Pension Plan
+
+FVOCI
+:   Fair Value through Other Comprehensive Income
+
+FVTPL
+:   Fair Value through Profit or Loss
+
+FSA
+:   Forward Sortation Area
+
+GCAM
+:   Global Change Analysis Model
+
+GHG
+:   Greenhouse gas
+
+GICS
+:   Global Industry Classification Standard
+
+IAM
+:   Integrated Assessment Model
+
+IFRS
+:   International Financial Reporting Standard
+
+LGD
+:   Loss Given Default
+
+LTV
+:   Loan-to-value ratio
+
+MBS
+:   Mortgage-backed securities
+
+MESSAGE
+:   Model for Energy Supply Strategy Alternatives and their General Environmental Impact
+
+MIT-EPPA
+:   Massachusetts Institute of Technology Emissions Policy Prediction and Analysis
+
+NAICS
+:   North American Industry Classification System
+
+NGFS
+:   Network for Greening of the Financial System
+
+NiGEM
+:   National Institute Global Econometric Model
+
+OSFI
+:   Office of the Superintendent of Financial Institutions
+
+PD
+:   Probability of Default
+
+RCP
+:   Representative Concentration Pathways
+
+REMIND
+:   Regional Model of Investments and Development
+
+SCSE
+:   Standardized Climate Scenario Exercise
+
+SSP
+:   Shared Socioeconomic Pathway
+
+### 6.2 Assumptions and limitations
+
+In this section, a list of major assumptions and limitations related to the design and execution of the SCSE is presented. The following list is not exhaustive; a more comprehensive list will be presented within future documentation of the exercise.
+
+#### Standardized Climate Scenario Exercise – All modules
+
+1. **Climate scenarios are not predictions:** The intent of the SCSE is to enable a better understanding of how different climate scenarios could impact FRFIs and the financial system, not to predict the future.
+2. **Limitations of NGFS scenarios:** NGFS scenarios have several limitations that could underestimate the true impact of climate change, possibly significantly. For example, they do not account for climate tipping points and the wider societal impacts of climate change such as migration etc. OSFI encourages FRFIs to explore alternative scenarios and models through their internal climate scenario analysis exercises.
+3. **Not using the latest scenarios:** OSFI used inputs from NGFS Phase III and BoC scenarios to develop the risk factors for this exercise. This is an extensive process and hence we may not be able to incorporate the latest updates into the scenarios such as those related to GDP, population and most recent country level commitments.
+4. **Sizing the risk:** The SCSE does not aim to execute a comprehensive sizing of climate risks, as discussed in Section 2.1. In particular, as a foundational exercise the SCSE does not comprehensively explore indirect or second order impacts, such as business interruptions, that may pose even larger risks to FRFIs' exposures.
+5. **Standardization:** There is a trade-off between standardization of a scenario analysis, and a comprehensive measurement of each individual FRFIs' risks. The standardization of scenario selection, execution, methodology, and reported results yields more comparable results while a more comprehensive exercise may yield more accurate results for certain FRFIs.
+
+#### Transition risk
+
+1. **Static Balance sheet:** Even though real balance sheets are dynamic and reflect FRFIs' evolving views of risks, a static balance sheet approach is appropriate for an initial and/or standardized assessment of the vulnerability of financial institutions to climate risk, such as the SCSE.
+2. **Use of Industry Sectors:**  To measure the impact of transition climate scenarios, the SCSE relies on industry sector and regional classification based on an assumption of homogeneity within each sector/regional group. Given the lack of readily available direct and indirect GHG emission data, this assumption is common.
+3. **Exchange Rate impacts:** The SCSE does not account for the impact of exchange rate movements on foreign currency investments and exposures for both credit and market risk modules. A comprehensive inclusion of climate related exchange rate movements would require portfolio specific modeling to ensure all aspects of the implied exchange rate fluctuations are thoroughly captured and assessed.
+
+#### Credit risk module
+
+1. **Out of Scope Asset Types:** As described in Section 3.4.1, the scope of the credit risk module is a subset of the IFRS 9 ECL scope, however, climate transition may also impact assets outside the scope of the credit risk module.
+2. **Second Round Impacts:** While the exercise attempts to capture some second-round impacts through the exposure classified as "Finance and Insurance" (see Section 3.4.1), this assessment is not comprehensive.
+3. **Survival Factors:** To adjust the survival factors in a lifetime PD estimate, we assume an exposure only terminates at its expiry or as a result of its default. For example, prepayments are not considered in this methodology. Given the SCSE relative measurement viewpoint, i.e., climate adjusted provisioning vs. baseline estimates, the impact of this assumption is not significant.
+4. **Agnostic EAD:** As discussed in Section 3.4, the impact of climate scenarios on credit risk estimates is captured by adjusting PD and LGD. The EAD parameter is assumed agnostic to climate scenarios.
+5. **Frye-Jacobs LGD:** Using Frye-Jacobs formula for the LGD, we assumed the climate adjusted LGD is a function of climate adjusted PD, baseline PD, and baseline LGD. Doing so we accept all the assumptions which are applicable to this relation, including the assumption of Vasicek Distribution for climate PD and LGDs. To simplify the formula, we further assumed the correlation factors in all the underlying Vasicek Distributions is zero.
+
+#### Market risk module
+
+1. **Systemic risks not included:** The market risk module only accounts for changes in asset valuations driven by shocks to the fundamental value factors such as firm level net income or free cash flows. It does not account for the systemic risk channels. However, financial sector interlinkages and common exposures may lead to a financial market contagion, flight to safety may result in fire sales and other disorderly market adjustments.
+2. **Constant baseline PD for corporate bonds:** For corporate bonds, we assume that the baseline PD stays constant through time, until the end of the scenario horizon.
+
+#### Real estate exposure assessment
+
+1. **Financial impacts not included:** The real estate exposure assessment does not consider the potential financial impacts of the climate transition on real estate exposures.
+2. **Borrower risk:** Possible impacts of climate transition scenarios on a borrower's ability to maintain their financial obligations are not considered in this exposure assessment.
+3. **Data gaps:** Understanding that there could be data gaps in heating and energy sources for FRFIs' real estate exposures, the use of data proxies is permitted for this module if collecting this information represents a significant burden on the FRFI. These proxies may lead the exposure assessment to be somewhat inaccurate.
+
+#### Physical risk exposure assessments
+
+1. **Financial impacts not included:** The physical risk exposure assessment does not consider the potential financial impacts of the climate transition.
+2. **Direct damages for collateralized assets only:** The physical risk exposure assessment only considers direct damages on collateralized assets caused by acute physical hazards, while indirect impacts, such as business interruptions, may pose even larger risks to FRFIs exposures.
+3. **Physical hazards in scope:** The physical risk exposure assessment only includes riverine and coastal flooding and wildfire weather and does not consider their possible interactions. The module does not consider other hazards, such as pluvial flooding. Further, the compounding impacts of multiple physical hazards occurring over a short period may be substantial.
+4. **Limited consideration of reinsurance:** The physical risk module only considers “per risk” reinsurance policies as described in Section 5.3.4. Aggregate reinsurance policies which are not captured in this module (e.g., catastrophe reinsurance) can contribute a significant amount to the climate risk faced by reinsurers and the risk ceded by direct insurers.
+5. **Exposure amount definitions:** The definition of the exposure amounts as described in Section 5.6 may not accurately represent the level of exposed risk for a FRFI to the hazards that are in scope. For example, using the total insured value net of deductibles, coinsurance and per risk reinsurance for an insurance exposure in the flood exposure assessment is not indicative of the expected claims for a flood-related event.
+6. **Data limitations in climate maps:** As is the case with all modelled data, there are limitations associated with the hazard data. This includes but is not limited to the uncertainty in the projected values, the granularity of the maps and the factors captured within the hazard models.
+
+### 6.3 Industry classification
+
+In this section, we provide more information regarding the rationale and the methodology of the industry classification.
+
+While this section discusses the development of the NAICS mapping for this exercise, it does not discuss the use of the mapping by the participants. As mentioned in Section 3.3.2, implementation instructions on how FRFIs will map individual counterparties to NAICS codes are expected to be established by FRFIs through a common set of principles and rules which will be consistently applied for all the applicable exposures. In particular, these rules and principles shall address challenges associated with mapping complex counterparties involved in multiple industry sectors.
+
+These assignments shall be consistent, replicable, and FRFIs shall be able to explain and justify the principles and judgements of their designed mapping methodology.
+
+#### Use of NAICS
+
+We chose to map industry sectors using NAICS because:
+
+1. Other classification systems, such as the Global Industry Classification Standard (GICS), do not necessarily enable the SCSE objectives, mostly due to their lack of granularity, especially in the key transition sensitive sectors (e.g., no separation of oil from gas in GICS).
+2. Statistics Canada and United States Census Bureau maintain NAICS codes and update them frequently to ensure they retain their relevance and suitability. The codes are freely available to the public along with detailed descriptions and technical information which facilitates their use.
+3. While US and Canadian NAICS codes are updated by the respective national agencies, the codes are coordinated and standardized across both systems. The standardization of NAICS codes has enabled OSFI to develop the SCSE industry mapping which functions within both Canadian and US systems and therefore is accessible to participants if they have used either of these two systems.
+
+#### Methodology
+
+The NAICS codes were distributed among 25 transition-sensitive sectors. The assignment of NAICS codes to different sectors is based on subject matter expert inputs, literature review, the description of the codes, and qualitative analysis. The SCSE Methodology implicitly assumes that exposures classified under one sector are subject to the same type and level of climate risk.
+
+The sectoral classification has been built upon the BoC/OSFI pilot project classification. We have reviewed each of the pilot's sectors and their assigned codes and have further modified/refined the classification based on the following considerations.
+
+* **Scope 1 Emissions:** Account for direct greenhouse gas emissions of the sector. On this ground, for example, we have divided electricity production into Fossil Fuel Electricity Production, Hydro Electricity Production, and other Renewable Sources.
+* **Scope 2 Emissions:** Account for the greenhouse gas emissions of the sector from the use of electricity, heat, steam, or cooling. As a result, industries with intensive energy consumption have been divided into Energy Intensive – Mining, Energy Intensive – Manufacturing, Energy Intensive – Water and Sewage, and Energy Intensive – Paper and pulp which besides high scope 1 emissions, consume significant amount of energy produced by the energy sector.
+* **Scope 3 Emissions:** Account for other indirect greenhouse emissions of the industries. For example, Timber tract operations (NAICS 1131) and Forest nurseries and gathering of forest products (NAICS 1132) have been grouped with Support activities for forestry (NAICS 1153) which indirectly inherits the greenhouse emissions of the forestry sector.
+* **Stranded Assets:** Account for the assets stranded because of transition. These are the assets that are exposed to premature write-downs, devaluations, or conversions to liabilities as a result of energy transition. For example, based on this definition, in this exercise, wood product manufacturing (NAICS 321) and Timber tract operations (NAICS 1131) have been grouped together, as they would be impacted by a transition that gives rise to stranded assets in the lumber sector.
+
+Note that in many cases, several similar arguments have contributed to the resulting classification. For example, we have split Oil Production into Sand Oil and Other Oil Extractive Codes, as Canadian sand oil is considered to be one of the most carbon intensive forms of oil production from the extraction stage (stage 1 and 2 emission) to refinery (stage 3 and stranded asset).
+
+This methodology has been inspired by and is aligned with the mapping proposed in [The NACE - CPRS - IAM mapping: A tool to support climate risk analysis of financial portfolio using NGFS scenarios](https://www.zora.uzh.ch/id/eprint/236073/). We have also benefited from reviewing the work conducted on NACE mapping of different sectors in [Climate Policy Relevant Sectors](https://www.finexus.uzh.ch/en/projects/CPRS.html).
+
+#### How to use the mapping tool
+
+The SCSE Instructions include a mapping tab which provides the mapping from NAICS codes (in both US and Canadian systems) to SCSE industry sectors in the draft.
+
+Note that the only reason a code is not assigned is that it includes multiple sectors which are deemed heterogenous under climate scenarios. For example, NAICS code 11 (Agriculture, forestry, fishing, and hunting) includes codes 111 (Crop Production), 112 (Animal Production and aquaculture), 113 (Forestry and logging), 114 (Fishing, hunting and trapping), 1151 (support activities for crop production), 1152 (support activities for animal production), and 1153 (support activities for forestry), which are all leading NAICS codes in this exercise, that is all the NAICS codes that start with the same digits also belong to the same sector.
+
+## Footnotes
+
+Footnote 1
+:   As mentioned above, the labeling "baseline" in front of PD and LGD is compared to climate adjusted PD and LGD and is not related to the ECL baseline scenarios used by FRFIs in calculating their scenario weighted IFRS 9 ECL estimations.
+
+    [Return to footnote 1  referrer](#fn1-rf)
+
+Footnote 2
+:   For a description of the methodology, see J. Frye and M. Jacobs, "Credit Loss and Systemic LGD," Journal of Credit Risk 8, no. 1 (Spring 2012): 109–140.
+
+    [Return to footnote 2  referrer](#fn2-rf)
+
+Footnote 3
+:   See Bank for International Settlements, "Climate-related risk drivers and their transmission channels," April 2021.
+
+    [Return to footnote 3  referrer](#fn3-rf)
+
+Footnote 4
+:   A forward sortation area is defined by the first three digits of a Canadian postal code.
+
+    [Return to footnote 4  referrer](#fn4-rf)
+
+Footnote 5
+:   Information about the H3 information system can be found at [Introduction | H3](https://h3geo.org/docs/). A visualization tool for the H3 information system can be found at [Uber H3 Viewer](https://wolf-h3-viewer.glitch.me).
+
+    [Return to footnote 5  referrer](#fn5-rf)
+
+Footnote 6
+:   [Developing user-informed fire weather projections for Canada – ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405880724000608)
+
+    [Return to footnote 6  referrer](#fn6-rf)
+
+## Related links
+
+* [OSFI takes data-driven approach to understanding potential impacts of climate risks at financial institutions](/en/news/osfi-takes-data-driven-approach-understanding-potential-impacts-climate-risks-financial-institutions "OSFI takes data-driven approach to understanding potential impacts of climate risks at financial institutions")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-09-10

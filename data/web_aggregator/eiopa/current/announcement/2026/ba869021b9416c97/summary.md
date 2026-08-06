@@ -1,0 +1,1 @@
+Summary: [Interview with Dimitris Zafeiris, Head of Risks and Financial Stability Department in EIOPA, conducted by Vasso Aggelou for Insider.gr](/document/download/d1024f8c-8c4c-4557-aec5-6217dac3c856_en?filename=interviewdimitris_zafeirisinsidergr.pdf)

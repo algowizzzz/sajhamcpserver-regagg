@@ -1,0 +1,25 @@
+{
+  "doc_id": "e36aa3eb63218d06",
+  "regulator_id": "wsj_markets",
+  "doc_type": "news_story",
+  "title": "Opinion | Warsh\u2019s Silence Manufactures Market Noise",
+  "language": "en",
+  "source_url": "https://www.wsj.com/opinion/warshs-silence-manufactures-market-noise-9132a01f?mod=rss_markets_main",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2b97c1f16d4ccf0af898cd02c6a6b62330917fee969270726f2adecb908fcccb",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_wsj_markets_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/wsj_markets/current/news_story/2026/e36aa3eb63218d06",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.wsj.com/opinion/warshs-silence-manufactures-market-noise-9132a01f?mod=rss_markets_main",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,1035 @@
+# Module 1 : Spécifications générales
+
+**Instructions et spécifications pour la transmission standard ASCII de déclarations par lots**  
+**30 mai 2015**
+
+## Sur cette page
+
+* **[Modifications apportées dans la présente version](#s0)**
+
+1. **[Renseignements généraux](#s1)**
+2. **[Procédures d'acceptation](#s2)**
+3. **[Transmission, accusé de réception et modification des lots](#s3)**
+   * 3.1 [Catégorie de lot « A » — Ajout d'un nouveau lot de déclarations](#s3.1)
+   * 3.2 [Accusé de réception de lot](#s3.2)
+     + 3.2.1 [Lot accepté](#s3.2.1)
+     + 3.2.2 [Lot rejeté](#s3.2.2)
+   * 3.3 [Déclarations retournées à des fins de modification (DRM)](#s3.3)
+   * 3.4 [Modification](#s3.4)
+     + 3.4.1 [Catégorie de lot « C » — Transmission de corrections](#s3.4.1)
+     + 3.4.2 [F2R](#s3.4.2)
+4. **[Spécifications générales](#s4)**
+   * 4.1 [Exigences générales de formatage](#s4.1)
+   * 4.2 [Champs obligatoires et champs requis](#s4.2)
+   * 4.3 [Structure du lot](#s4.3)
+5. **[Formatage des déclarations transmises par lots](#s5)**
+   * 5.1 [Configuration détaillée — En-tête, sous-en-tête et fin de lot](#s5.1)
+     + 5.1.1 [Exemples d'en-tête, de sous-en-tête et de fin de lot](#s5.1.1)
+   * 5.2 [Configuration des déclarations transmises par lots – Format de la version 03 et 04](#s5.2)
+     + 5.2.1 [Configuration détaillée (format de la version 04) – Déclaration d'opérations douteuses (DOD)](#s5.2.1)
+     + 5.2.2 [Configuration détaillée (format de la version 03) – Déclaration relative aux opérations importantes en espèces (DOIE)](#s5.2.2)
+     + 5.2.3 [Configuration détaillée (format de la version 03) – Déclarations relatives aux télévirements internationaux autres que les messages SWIFT](#s5.2.3)
+   * 5.3 [Diagrammes de production des déclarations](#s5.3)
+6. **[Tables de codes et règles d'introduction des noms](#s6)**
+   * 6.1 [Tables de codes](#s6.1)
+   * 6.2 [Règles d'introduction des noms](#s6.2)
+7. **[Formatage des accusés de réception](#s7)**
+   * 7.1 [Configuration détaillée – Accusé de réception de lots](#s7.1)
+     + 7.1.1 [Configuration générale de l'accusé de réception](#s7.1.1)
+     + 7.1.2 [Exemples d'accusé de réception de type général](#s7.1.2)
+       - 7.1.2.1 [Exemple d'accusé de réception pour un lot accepté](#s7.1.2.1)
+       - 7.1.2.2 [Exemple d'accusé de réception pour un lot rejeté](#s7.1.2.2)
+8. **[Formatage des messages de déclarations retournées à des fins de modification](#s8)**
+   * 8.1 [Configuration détaillée – Message de DRM](#s8.1)
+     + 8.1.1 [Configuration générale du message de DRM](#s8.1.1)
+     + 8.1.2 [Exemple de message de DRM](#s8.1.2)
+9. **[Validation des déclarations et codes d'erreurs dans le traitement](#s9)**
+   * 9.1 [Règles de validation des déclarations](#s9.1)
+   * 9.2 [Codes d'erreurs dans le traitement des lots](#s9.2)
+10. **[Désignation des fichiers de lots](#s10)**
+    * 10.1 [Norme de désignation des fichiers de lots](#s10.1)
+    * 10.2 [Norme de désignation des fichiers d'accusé de réception de lots de CANAFE](#s10.2)
+    * 10.3 [Norme de désignation des fichiers de messages de DRM](#s10.3)
+
+## Modifications apportées dans la présente version
+
+Les spécifications de formatage des fichiers des sections 7 et 8 ont été modifiées. La longueur de la ligne a augmenté, soit de 80 à 132 caractères. Il vous faudra peut-être apporter des changements à la programmation de vos systèmes.
+
+Les spécifications de formatage de l'accusé de réception de la section 7 ont été modifiées et comprennent désormais le numéro de la règle de validation. Il vous faudra peut-être apporter des changements à la programmation de vos systèmes.
+
+Les spécifications des indicateurs de rejet des sections C6 et D2 du message d'accusé de réception de lot ont été modifiées pour tenir compte de ce qui est à l'origine dudit message.
+
+Les spécifications de l'accusé de réception de la section 7 des lots acceptés ont été modifiées et correspondent désormais aux spécifications de la section D :
+
+* **Extrant actuel**
+* D D = SWIFT session number / Numéro de la séance SWIFT
+* D E = SWIFT sequence number / Numéro de la séquence SWIFT
+
+* **Modification**
+* D D = Transaction / Opération D E = Disposition / Répartition
+* Des modifications ont été apportées à la section 9 pour tenir compte des informations sur la validation des déclarations transmises par lots.
+
+Des modifications ont été apportées à la section 9 pour tenir compte des informations sur la validation des déclarations transmises par lots.
+
+## 1. Renseignements généraux
+
+Le présent document de spécifications a pour objet de communiquer aux entités déclarantes les exigences et les conditions à satisfaire pour la transmission des déclarations suivantes au Centre d'analyse des opérations et déclarations financières du Canada (CANAFE), en utilisant le **transfert électronique de fichiers par lots :**
+
+* les déclarations d'opérations douteuses (DOD);
+* les déclarations relatives aux opérations importantes en espèces (DOIE);
+* les déclarations relatives à la réception de télévirements internationaux autres que les messages SWIFT (DTR);
+* les déclarations relatives à la transmission (l'expédition) de télévirements internationaux autres que les messages SWIFT (DTT).
+
+Les spécifications établies aux sections 4, 5 et 6 définissent les caractéristiques de fichier acceptables pour la transmission électronique de déclarations par lots. Il faut respecter ces caractéristiques, à moins qu'elles ne soient remplacées par de nouvelles spécifications.
+
+Pour le module 1 seulement, chaque révision du document indiquera une date de publication et, le cas échéant, la date d'entrée en vigueur, au lieu d'y attribuer un nouveau numéro de version suite à chaque révision.
+
+Chaque révision des modules 2, 3 et 4 portera un numéro de version différent. Ce numéro sera établi en fonction de l'étendue des modifications.
+
+* **Modification aux formats acceptés de lots de déclarations**  
+  Si le numéro actuel de version du module 2, 3 ou 4 change d'un nombre entier, par exemple de 4.2 à 5.0, cela aurait pour but d'indiquer que le format des déclarations par lot a été changé. Cela signalerait que vous devrez modifier votre programmation si vous présentez déjà des déclarations par lot, car le format dont vous vous servez actuellement ne sera plus pris en charge.
+* **Modification résultant de modifications législatives**  
+  Si la révision du module 2, 3 ou 4 vise à refléter des modifications apportées aux exigences de déclaration, mais non au format, le numéro de version de chaque module modifié sera augmenté de 1 au niveau de la première décimale (« 0.1 »). Par exemple, si le numéro de version change de 4.2 à 4.2.1, cela indiquera que les exigences de déclaration ont été modifiées par suite de modifications apportées à la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/act-loi/1-fra) (la Loi) ou aux règlements connexes. Il sera alors possible que vous deviez modifier votre programmation, si les modifications touchent les exigences de déclaration qui s'appliquent à vous.
+* **Modification à la forme du document**  
+  Si la révision des modules 2,3 ou 4 ne touche que sa forme (sa présentation), le numéro de version du document serait alors augmenté de 1 au niveau de la seconde décimale (« 0.0.1 »), par exemple de « 4.2.1 » à « 4.2.2 ». Cela indique que des changements ont été apportés afin de clarifier le texte ou de corriger des erreurs typographiques. Ce genre de changement n'affectera en rien votre programmation, à moins qu'une modification législative ou de format soit également indiquée.
+
+Si vous devez déclarer des télévirements internationaux expédiés ou reçus à titre de membre (ou sous-membre) du réseau SWIFT et au moyen de ce réseau, consultez le document de spécifications intitulé [Instructions et spécifications pour la transmission par lots de déclarations relatives aux télévirements, selon le format SWIFT](/reporting-declaration/swift/swift-fra), afin de connaître les exigences et les conditions à satisfaire pour la transmission de ces déclarations à CANAFE.
+
+Le présent document est conforme aux dispositions de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et aux règlements](/act-loi/1-fra) connexes. Ce document a été préparé uniquement à titre d'information. Il ne constitue pas un avis juridique et ne vise aucunement à remplacer la Loi et les textes réglementaires connexes. Pour de plus amples renseignements sur le blanchiment d'argent, le financement des activités terroristes ou toute autre exigence en vertu de la Loi et des règlements, y compris quelles personnes et entités répondent à la définition d'« entité déclarante », veuillez consulter la page des [Obligations et directives](/guidance-directives/guidance-directives-fra).
+
+Dans le présent document, lorsqu'il est question de montants d'argent (comme 10 000 $), il s'agit de montants en dollars canadiens ou de montants équivalents en devises étrangères.
+
+## 2. Procédures d'acceptation
+
+Pour que soit approuvée votre participation à la transmission de déclarations par lots en vertu de la présent version des spécifications, il faut que les conditions suivantes soient réunies :
+
+* être inscrit auprès de CANAFE;
+* le respect du processus d'enregistrement lié à l'obtention du certificat d'infrastructure à clé publique (ICP);
+* l'installation et la configuration du logiciel pour la transmission par lots;
+* la transmission avec succès de données d'essai en mode opérationnel d'essai par l'entremise du canal de formation du logiciel pour la transmission par lots pour chaque genre de déclaration à être transmise par lots.
+
+Pour en savoir plus sur le processus d'enregistrement à l'ICP et l'installation du logiciel pour la transmission par lots, consultez la page de déclaration du site Web de CANAFE.
+
+Suite à tout changement au format d'un ou plusieurs types de déclarations transmis par lot, vous devrez transmettre des données d'essai en mode opérationnel d'essai (test) aux fins des procédures d'acceptation. À titre d'exemple, la version du format pour les DOD avait passé de « 03 » à « 04 » à compter du 23 juin 2008. Si à ce moment vous transmettiez des DOD par lots, vous auriez eu à transmettre des données d'essai en mode opérationnel d'essai pour cette déclaration selon le nouveau format.
+
+À titre de transmetteur de fichiers de lots, on vous demandera de transmettre des données d'**essai** en mode opérationnel d'**essai** (« test » par l'entremise du **canal de formation** du logiciel pour la transmission par lots), suivant les règles suivantes :
+
+* les données d'essai consisteront en un ensemble de déclarations contenant des données que vous auriez habituellement à communiquer. Le fichier d'essai doit contenir un seul en-tête de lot, de un à cinq sous-en- têtes et entre 25 et 100 déclarations et une seule fin de lot. Au moins cinq fichiers d'essai sont requis;
+* le formatage des enregistrements de lots doit respecter les spécifications énoncées aux sections 4 et 5, sinon le lot et/ou les déclarations seront rejetés. Si les fichiers sont illisibles par suite d'erreurs de format ou autres, des messages d'erreurs vous seront envoyés au moyen du logiciel pour la transmission par lots pour expliquer la raison du ou des problèmes;
+* les codes d'emplacement dans vos déclarations d'essai doivent représenter des emplacements réels pour l'entité déclarante. Voir la partie A de la DOD, la partie A de la DOIE, la partie C de la DTT ou la partie E de la DTR pour en savoir plus au sujet des emplacements;
+* sur réception des données d'essai par CANAFE, celles-ci seront traitées et un accusé de réception avec, le cas échéant, des messages d'erreurs seront envoyés au transmetteur dans les deux (2) jours ouvrables;
+* si toutes les déclarations d'au moins quatre des cinq lots d'essai que vous avez transmis ne contiennent aucune erreur (c'est-à-dire que les champs requis sont dûment remplis, que le fichier et les champs de données sont correctement formatés et que les codes d'emplacement sont valides), CANAFE produira une acceptation définitive, de sorte que vous pourrez commencer à expédier vos déclarations (en mode « production ») à la date indiquée. L'admissibilité sera établie en fonction des cinq derniers lots transmis à CANAFE;
+* lorsqu'un fichier d'essai est incorrectement formaté ou que des déclarations d'essai contiennent des erreurs dans les champs obligatoires ou dans le formatage des champs, vous devez faire parvenir à CANAFE un nouvel ensemble de données d'essai. Il vous incombe de corriger ces erreurs pour que CANAFE puisse vous autoriser à commencer la production de vos déclarations.
+
+## 3. Transmission, accusé de réception et modification des lots
+
+Actuellement, les lots peuvent être transmis à CANAFE en tout temps, peu importe le jour et l'heure. Tous les lots reçus par CANAFE font l'objet d'un accusé de réception (Voir la section 3.2).
+
+Les lots ne peuvent contenir qu'un seul genre de déclaration à la fois (DOD, DOIE, etc.). Même si un fichier peut contenir jusqu'à 10 000 déclarations, la taille d'un fichier ne doit pas dépasser 30 mégaoctets.
+
+Le fichier de lot doit être placé dans le répertoire de fichiers à transmettre pour lequel votre logiciel pour la transmission par lots a été configuré. Deux catégories de lots sont acceptées :
+
+* Catégorie de lot « **A** » — Ajout d'un nouveau lot de déclarations (voir la section 3.1)
+* Catégorie de lot « **C** » — Correction ou suppression d'une ou de plusieurs déclarations acceptées (voir la section 3.4.1)
+
+Plutôt que de présenter des lots de correction, vous pouvez choisir de traiter les corrections ou les suppressions pour les déclarations DOD, DOIE ou DTT et DTR par l'entremise de F2R, le site Web sécurisé de CANAFE. Voir la section 3.4.2 pour obtenir plus de renseignements.
+
+### 3.1 Catégorie de lot « A » — Ajout d'un nouveau lot de déclarations
+
+Les circonstances suivantes requièrent la production d'un nouveau lot :
+
+* **Nouvelles déclarations** – Si vous désirez soumettre des déclarations qui n'ont jamais été incluses dans un lot, vous devez les présenter dans un nouveau lot (de catégorie « **A** »).
+* **Lot rejeté** – Si vous avez transmis un lot et que celui-ci a été **complètement** rejeté par CANAFE, vous devez y apporter les corrections nécessaires et le soumettre à nouveau au titre d'un nouveau lot (de catégorie « **A** »).
+
+### 3.2 Accusé de réception de lot
+
+Le logiciel pour la transmission par lots produit un message de journal pour indiquer que le fichier a été expédié et pour confirmer que le fichier a bel et bien été transféré à CANAFE (mais pas nécessairement traité). À la suite du traitement du fichier par CANAFE, un message vous est retourné au moyen du logiciel pour la transmission par lots pour accuser réception du fichier, indiquer le nombre de déclarations acceptées et communiquer les messages d'erreurs, s'il y a lieu. Le contenu des déclarations **ne** vous est **pas** retourné, seuls les renseignements d'identification du lot et les messages d'erreurs pertinents le sont.
+
+Les messages d'erreurs contiennent les renseignements renvoyant au numéro séquentiel de la déclaration au sein du lot, au numéro de référence de la déclaration de l'entité déclarante, au numéro du champ et à la nature de l'erreur. Si le lot ne peut être traité, un message de rejet vous est retourné par le biais du logiciel pour la transmission par lots, indiquant les renseignements d'identification du lot et les messages d'erreurs qui s'appliquent.
+
+Pour obtenir de plus amples renseignements sur le formatage des messages d'accusé de réception et pour consulter des exemples, veuillez vous référer à la section 7.
+
+#### 3.2.1 Lot accepté
+
+Si votre lot est accepté, CANAFE l'indiquera dans le message de statut du lot (étiquette C2) de la partie C du message d'accusé de réception. La section C comprend également le nombre de déclarations acceptées dans votre lot.
+
+Le message d'accusé de réception vous avertira également si certaines déclarations nécessitent des corrections de la façon suivante :
+
+* déclarations rejetées (étiquettes C4, D et D2 du fichier d'accusé de réception);
+* déclarations acceptées mais qui comprennent des erreurs (étiquettes D et D2 du fichier d'accusé de réception).
+
+Si c'est le cas, vous devrez corriger ces déclarations, comme l'explique la section 3.4.
+
+#### 3.2.2 Lot rejeté
+
+Si votre lot est rejeté, cela est indiqué dans le message de statut du lot (étiquette C2) de la partie C du message d'accusé de réception de CANAFE. Cela signifie que certains problèmes existent avec l'en-tête de lot, le sous-en- tête de lot, la fin de lot ou le format des déclarations. Cela signifie également que les déclarations comprises dans le lot n'ont pas été reçues par CANAFE. Vous devez alors les présenter de nouveau dans un nouveau lot, comme l'explique la section 3.1.
+
+CANAFE ne disposera d'aucun renseignement au sujet des déclarations comprises dans un lot rejeté. Cependant, s'il en possède au niveau des déclarations, ces renseignements seront reflétés dans l'étiquette C6 de l'accusé de réception. CANAFE pourra vous transmettre jusqu'à 40 messages à cet effet, dans le but de vous aider à corriger les déclarations avant de les présenter de nouveau dans un nouveau lot.
+
+### 3.3 Déclarations retournées à des fins de modification (DRM)
+
+Si vos déclarations acceptées présentent des problèmes de qualité des données, CANAFE peut vous les retourner afin que vous y apportiez les modifications nécessaires. Ce sont des déclarations retournées à des fins de modification (DRM).
+
+Pour chaque type de déclaration (DOIE ou DTT et DTR) que vous transmettez par lots, vous pouvez choisir de modifier les DRM par lots ou par l'entremise de F2R de la façon suivante :
+
+* Si vous décidez de **modifier les DRM par lots**, vous recevrez un message de DRM par l'entremise du logiciel pour la transmission par lots, de la même façon que vous recevez les accusés de réception. Voir la section 8 pour de plus amples renseignements sur le formatage des messages de DRM et pour voir un exemple de messages de DRM. Si vous recevez un tel message de DRM, vous devez corriger les déclarations et les transmettre de nouveau à CANAFE dans un lot de corrections, comme l'explique la section 3.4. Votre administrateur F2R recevra également un courriel l'avisant qu'un message de DRM a été transmis par l'entremise du logiciel pour la transmission par lots. Ces déclarations retournées sont affichées dans F2R avec d'autres messages pour vous aider à comprendre le problème lié à la qualité des données. Elles doivent être corrigées et retransmises par l'entremise du logiciel pour la transmission par lots.
+* Si vous décidez de **modifier les DRM par l'entremise de F2R**, votre administrateur F2R reçoit les avis de DRM. Ces déclarations se trouvent dans la liste d'attente de DRM dans F2R afin que les modifications nécessaires soient faites et que les déclarations soient transmises de nouveau à CANAFE.
+
+### 3.4 Modification
+
+Voici comment vous pouvez apporter les modifications nécessaires aux déclarations qui ont été transmises par lots à CANAFE.
+
+Des modifications sont nécessaires dans les circonstances suivantes :
+
+* Si votre fichier d'accusé de réception indique qu'un lot est accepté mais que certaines déclarations comprennent des erreurs ou ont été rejetées, vous devez modifier ces déclarations.
+* Si CANAFE vous fait parvenir une DRM, vous devez y apporter les modifications nécessaires et la transmettre de nouveau le plus rapidement possible.
+* Il est possible que vous deviez également corriger ou supprimer une déclaration pour d'autres raisons, comme, par exemple, si vous découvrez qu'elle comprend des données non valides ou présentées par erreur.
+
+La façon dont vous modifiez des déclarations varie selon que vous désiriez présenter les modifications par l'entremise des lots de correction (catégorie « C ») ou de F2R. Vous devez choisir l'une ou l'autre de ces deux méthodes par genre de déclaration et ce choix vaut pour toute modification nécessaire à ces déclarations.
+
+#### 3.4.1 Catégorie de lot « C » — Transmission de corrections
+
+Les points suivants ne s'appliquent à vous que si vous ne choisissez **pas** d'effectuer des modifications par l'entremise de F2R. Cela vaut pour les déclarations rejetées ainsi que pour les déclarations traitées qui comprennent des erreurs.
+
+Seules les déclarations faisant l'objet de corrections ou devant être supprimées doivent être incluses dans le lot de correction. Il est possible de corriger toutes déclarations traitées en apportant les changements suivant au lot initial :
+
+1. la catégorie de lot est « **C** »;
+2. le nombre de sous-en-têtes est le nombre de sous-en-têtes du lot de correction;
+3. le nombre de déclarations est égal au nombre de déclarations dans le lot de correction;
+4. le nombre de déclarations par sous-en-tête dans l'ensemble applicable de sous-en-têtes est égal au nombre de déclarations dans le lot de correction.
+
+Pour **corriger** une ou des déclarations comprises dans un lot déjà **accepté** par CANAFE, vous devez présenter, dans un lot de correction (de catégorie « C »), les déclarations entières dûment corrigées. Veuillez inclure le même numéro de référence de la déclaration de l'ED qui a été utilisé dans le fichier original. TOUS LES CHAMPS de chaque déclaration à corriger doivent contenir l'information appropriée, NON SEULEMENT LES CHAMPS NÉCESSITANT DES CORRECTIONS. Le code d'action pour chacune des déclarations à corriger doit être « C ».
+
+Pour **supprimer** une déclaration ou plus d'un lot déjà **accepté**, vous devez également présenter un lot de correction (catégorie de lot « C »). Lisez les instructions suivantes, selon le genre de déclaration en question.
+
+**Pour supprimer une DOD ou un DOIE**  
+Afin de supprimer une DOD ou une DOIE d'un lot déjà accepté, par l'entremise d'un lot de correction, vous n'avez pas à présenter la déclaration complète à être supprimée. Seuls les éléments suivants doivent être complétés afin de supprimer une déclaration :
+
+* Identificateur de la partie « A1 »
+* Numéro de séquence de la déclaration
+* Numéro de référence de la déclaration de l'ED (le même que dans le fichier original)
+* Indicateur de code d'action (valeur « D »)
+* Numéro d'identification de l'entité déclarante
+* À la suite de ces champs, délimitez la déclaration supprimée grâce à <CRLF> (retour chariot suivi d'un saut de ligne). Commencez la déclaration suivante qui doit être corrigée ou supprimée.
+
+**Pour supprimer une DTT ou un DTR**  
+Afin de supprimer une DTT ou une DTR d'un lot déjà accepté, par l'entremise d'un lot de correction, vous devez présenter la déclaration complète à être supprimée. L'indicateur de code d'action doit comprendre la valeur « D ».
+
+#### 3.4.2 F2R
+
+F2R est une nouvelle interface grâce à laquelle vous êtes en mesure de gérer votre information d'inscription, y compris vos numéros d'emplacement, et d'envoyer des déclarations qui ne font pas partie d'un lot à CANAFE.
+
+Si vous choisissez cette option lors de votre inscription auprès de CANAFE pour un ou plusieurs des genres de déclarations que vous transmettez (DOD, DOIE ou DTT et DTR), vous pouvez vous servir de F2R pour modifier ces déclarations. Dans ce cas, vous n'enverrez pas de modifications par lot pour les déclarations en question. Plutôt, vous devrez effectuer les changements nécessaires à partir de lots déjà acceptés par l'entremise de F2R.
+
+Par l'entremise de F2R vous pourrez avoir accès à des déclarations à partir de lots acceptés grâce au numéro de référence de la déclaration de l'entité déclarante. Vous pourrez ainsi avoir accès au contenu de la déclaration afin d'effectuer vos corrections. Vous serez en mesure d'avoir accès aux déclarations qui contiennent des erreurs et aux déclarations rejetées d'un lot accepté.
+
+Vous pourrez obtenir de plus amples renseignements quant au processus d'inscription de CANAFE et à F2R en communiquant avec CANAFE.
+
+## 4. Spécifications générales
+
+### 4.1 Exigences générales de formatage
+
+Le tableau ci-dessous présente les spécifications générales de formatage à suivre pour produire, au moyen du transfert de fichiers par lots, des déclarations d'opérations douteuses (DOD), des déclarations relatives aux opérations importantes en espèces (DOIE), des déclarations relatives à la réception de télévirements internationaux autres que les messages SWIFT (DTR) et des déclarations relatives à la transmission de télévirements internationaux autres que les messages SWIFT (DTT).
+
+Vous trouverez les spécifications propres à chaque genre de déclaration à la section 5. Vous devez également respecter les normes de codification et les abréviations standards présentées à la section 6.
+
+**Tous les enregistrements doivent être de longueur fixe, selon ce qui est spécifié dans les instructions de formatage.** La taille du fichier ne peut dépasser 30 mégaoctets avant la compression.
+
+Les caractéristiques standards de fichiers exigent l'utilisation du format précisé dans les pages de codes ASCII 850 (Europe occidentale), des majuscules et des minuscules, et des claviers français et/ou anglais. Le format de données EBCDIC **ne** sera **pas** accepté. Le format 850 utilisé pour la page de codes doit être indiqué dans l'en-tête de lot.
+
+Tous les en-têtes et sous-en-têtes de lots ainsi que toutes les parties des déclarations et toutes les fins de lots doivent être délimitées par des <CRLF> (retour chariot suivi d'un saut de ligne). Comme ceux-ci peuvent être intégrés implicitement dans certains programmes, veuillez vous assurer que des lignes vides ne sont pas insérées automatiquement.
+
+**EXIGENCES GÉNÉRALES DE FORMATAGE**
+
+| Élément de format | Commentaires |
+| --- | --- |
+| **Garni de zéros** | Les champs vides doivent être garnis de zéros (0). |
+| **Garni d'espaces** | Les champs vides doivent être garnis d'espaces. |
+| **LJ** | Cadrer à gauche, garnir d'espaces (« left justified »). |
+| **RJ** | Cadrer à droite, garnir d'espaces (« right justified »). |
+| **RJZ** | Cadrer à droite, garnir de zéros (« right justified, zero filled »).  Pour tous les champs de montants : RJZ et aucun séparateur de milliers. |
+| **X** | Caractère alphanumérique. |
+| **9** | Caractère numérique. |
+| **Longueur du champ** | Indiqué entre parenthèses suivant le caractère alphabétique ou numérique. À titre d'exemple, X(2) ou 9(5). |
+| **d** | Position décimale — CANAFE acceptera les indicateurs de décimales suivants : « , » ou « . ».  S'il s'agit d'une somme d'argent, il faut utiliser une position décimale fixe avec deux positions décimales. Par exemple, 000000012345,00 représenterait un montant de 12 345.00 $ dans un champ de format X(15)d.  S'il s'agit d'un taux de change, il faut utiliser une position décimale flottante pour inclure le nombre de positions décimales requises. Par exemple, 00000012,123 représenterait un taux de change de 12,123 dans un champ de format X(12)d. |
+| **Numéro séquentiel de la déclaration** | La première déclaration d'un sous-en-tête de lot, lorsqu'il s'agit de l'ajout d'un nouveau lot (catégorie de lot « A »), doit porter le numéro 00001, et la numérotation de toutes les déclarations suivantes doit se faire en ajoutant 1 à chacune.  Dans le cas d'une correction (catégorie de lot « C »), il faut utiliser le numéro séquentiel de la déclaration qui a servi lors du lot original. |
+| **Date** | AAAAMMJJ (Année/mois/jour).  S'il n'y a pas de date, garnir d'espaces. |
+| **Heure** | HHMMSS — Utiliser un cycle de 24 heures.  Heures (de 00 à 23), minutes (de 00 à 59) et secondes (de 00 à 59).  Les secondes devraient être implicitement 00.  Exemples : 13 h = 130000 14 h 45 = 144500  RJZ |
+| **Nom** | LJ, garnir d'espaces, caractères alphabétiques. |
+| **Adresse** | LJ, garnir d'espaces, mélange de caractères alphabétiques et numériques. S'il y a un numéro d'appartement, de suite ou d'unité, insérer le numéro au début de l'adresse municipale.  Introduire les noms en entier ou se servir du code pertinent selon les tables de codes présentées à la section 6.  Si l'adresse est au Canada, les champs nécessaires doivent comprendre une province ou un territoire canadien et un code postal valides. Si l'adresse est aux États-Unis ou au Mexique, les champs nécessaires doivent comprendre un état valide. De plus, si l'adresse est aux États-Unis, le champ nécessaire doit comprendre un code zip valide. Veuillez consulter le tableau de codes pertinent à la section 6 pour trouver des provinces, des territoires ou des états valides.  Si l'adresse est à l'extérieur du Canada et des États-Unis et ne comprend ni province, ni État ou code postal, ces champs peuvent être garnis d'espaces. |
+| **Code postal** | X(9) — N'insérer aucun espace ou tiret (-).  Canada : X9X9X9  É.-U. : 99999 ou 999999999 |
+| **Numéro de compte** | Aucun zéro non significatif ne doit être inclus, à moins qu'il ne fasse partie du numéro de compte.  RJ, garnir d'espaces. |
+| **Numéro de téléphone** | Indiquer également l'indicatif régional.  Canada et É.-U. : 999-999-9999  Pour les autres pays, indiquer les codes de pays et de ville ainsi que le numéro local :  999-9999-9999-9999 |
+| **Numéro de référence de la déclaration de l'entité déclarante** | Peut contenir les lettres de A à Z et/ou les chiffres de 0 à 9. Ne pas utiliser de caractères spéciaux, tels que « - », « # », etc.  Il faut assigner un numéro de référence distinct pour chaque déclaration transmise par la même entité déclarante. Dans ce contexte, aucune distinction n'est faite entre une lettre majuscule et une lettre minuscule. Par exemple, le numéro de référence ABC123 n'est pas distinct du numéro de référence abc123. |
+| **\*** | Désigne un champ obligatoire prescrit par règlement. |
+| **±** | Désigne un champ requis pour la transmission d'une déclaration par lot. |
+
+### 4.2 Champs obligatoires et champs requis
+
+Les champs de chaque déclaration sont établis par règlement. Ces champs sont soit « obligatoires », soit « obligatoires le cas échéant », soit « requérant des efforts raisonnables pour obtenir les renseignements ».
+
+* **Obligatoires :** Tous les champs de la déclaration marqués d'un astérisque (\*) **doivent être remplis**.
+* **Obligatoires le cas échéant :** Les champs présentant à la fois un astérisque et la mention « le cas échéant » doivent être remplis uniquement s'ils vous concernent ou se rapportent à l'opération faisant l'objet de la déclaration.
+* **Requérant des efforts raisonnables :** Pour tous les autres champs, soit ceux ne comportant pas d'astérisque, vous devez faire des efforts raisonnables pour obtenir les renseignements demandés. Pour en savoir plus à ce sujet, reportez-vous à :
+  + [Déclaration d'opérations douteuses à CANAFE](/guidance-directives/transaction-operation/str-dod/str-dod-eng)
+  + [Déclaration d'opérations importantes en espèces à CANAFE](/guidance-directives/transaction-operation/lctr-doie/lctr-doie-fra)
+
+Les champs d'un format de lot portant la mention « **±** » sont requis pour fins de traitement, tout comme ceux des blocs d'en-tête et de sous-en-têtes.
+
+En de très rares circonstances, selon les instructions précises de la configuration détaillée de chaque type de déclaration, si vous devez indiquer qu'un champ requis d'une déclaration est « sans objet », entrez « S/O » ou « s/o ». Ne substituez aucun autre caractère spécial ou abréviation (par exemple, « x », « - » ou « \* »).
+
+Certaines parties des déclarations ne sont requises que si elles s'appliquent. Par exemple, la partie C de la DOD n'est requise que si l'opération a touché un compte. Les champs de ces parties ne sont pas requis, à moins que la partie ne soit pertinente. Les parties que l'on peut exclure parce qu'elles ne s'appliquent pas sont indiquées comme telles dans la configuration détaillée de chaque déclaration à la section 5.2.
+
+La déclaration peut être rejetée si l'un des champs obligatoires et requis n'a pas été rempli.
+
+### 4.3 Structure du lot
+
+Un lot doit comprendre un en-tête de lot, au moins un sous-en-tête de lot et un seul genre de déclaration (DOD, DOIE, DTT ou DTR). Il doit comprendre également une fin de lot.
+
+## 5. Formatage des déclarations transmises par lots
+
+Un lot distinct doit être présenté pour chaque genre de déclaration. Un seul fichier de lot est limité **à 10 000 déclarations**. La taille du fichier ne doit pas dépasser 30 mégaoctets, avant la compression.
+
+Les tableaux suivants indiquent comment formater les données à inclure dans les déclarations transmises par lots à CANAFE. La section 5.1 présente le formatage d'un en-tête de lot, d'un sous-en-tête de lot et d'une fin de lot. La section 5.2 précise le format à adopter pour chaque genre de déclaration, selon le format de lot de la version 03. Les formats de lot de la version 01 et de la version 02 ne seront plus acceptés à compter du 29 mai 2006.
+
+### 5.1 Configuration détaillée — En-tête, sous-en-tête et fin de lot
+
+**En-tête de lot -** L'en-tête de lot du fichier doit contenir les renseignements nécessaires pour identifier la personne ou l'institution à l'origine de la transmission. Chaque fichier transmis doit comprendre un seul en-tête de lot. Les éléments suivant de l'en-tête de lot sont requis lors de la transmission d'un lot
+
+| Champ no | Nom du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+| ± 0 | Genre d'enregistrement | X(2) | Valeur « 1A ». |
+| ± 1 | Code de format | 9(3)LJ | Valeur « 850 » |
+| ± 2 | Genre de déclaration | X(4)LJ | Valeur « **STR** » pour les DOD, « **LCTR** » pour les DOIE, « EFTI » pour les DTR ou « EFTO » pour les DTT. |
+| ± 3 | Numéro d'identification de l'entité déclarante | 9(7) RJZ | Un numéro d'identification de sept chiffres que vous donne CANAFE au moment de l'inscription.  Ce champ est obligatoire. S'il n'est pas valide, le lot sera rejeté. |
+| ± 4 | Nom de famille de la personne-ressource | X(20)LJ | Nom de famille de la personne-ressource. |
+| ± 5 | Prénom de la personne-ressource | X(15)LJ | Prénom de la personne-ressource. |
+| ± 6 | No de téléphone de la personne-ressource | X(20)LJ | Numéro de téléphone de la personne-ressource. |
+| ± 6A | Poste téléphonique de la personne-ressource | 9(5)RJZ | Poste téléphonique de la personne-ressource, s'il en existe un. |
+| ± 7 | Numéro de certificat d'ICP | 9(10)RJZ | Votre numéro d'identification de 10 caractères que CANAFE vous a fourni à titre d'utilisateur de l'ICP. |
+| ± 8 | Date du lot | 9(8) | Date de la création du lot. AAAAMMJJ |
+| ± 9 | Heure du lot | 9(6) | Heure de création du lot. HHMMSS |
+| ± 10 | Code séquentiel d'identification du lot | 9(5)RJZ | Le code numérique séquentiel d'identification en est un que vous attribuez au lot. La combinaison de date de lot, d'heure de lot et de numéro d'identification séquentiel du lot doit être unique pour chacun de vos lots. Par exemple, si vous prévoyez transmettre deux lots dans une même journée, indiquez 00001 pour le numéro séquentiel d'identification du premier lot et 00002 pour le second. |
+| ± 11 | Catégorie de lot | X(1) | « A » – Ajout d'un nouveau lot de déclarations.  « C » – Correction ou suppression de déclarations au sein d'un lot déjà **accepté** par CANAFE. |
+| ± 12 | Nombre de sous-en-têtes | 9(5)RJZ | Nombre de sous-en-têtes dans le lot. |
+| ± 13 | Nombre de déclarations | 9(5)RJZ | Introduire le nombre total de déclarations dans le lot (maximum 10000). |
+| ± 14 | Indicateur de format | 9(2)RJZ | Introduire le numéro de la version du format de lot, valeur  « 03 » |
+| ± 15 | Mode opérationnel | X(1) | « P » – Production  « T » – Test (essai par l'entremise du canal de formation du logiciel pour la transmission par lots) |
+| Total des caractères : | | 119 | Chaque lot doit comprendre un en-tête de lot. |
+
+**Sous-en-tête de lot -** Un sous-en-tête de lot contient des renseignements qui vous permettent de regrouper des déclarations incluses dans un lot selon votre structure organisationnelle ou toute autre exigence de regroupement. L'utilisation de plusieurs sous-en-têtes est optionnelle, mais votre lot doit en comporter au moins un. Les éléments suivants du sous-en-tête de lot sont requis lors de la transmission d'un lot :
+
+| Champ no | Nom du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+| ± 0 | Genre d'enregistrement | X(2) | Valeur « 1B ». |
+| ± 1 | Numéro séquentiel | 9(5)RJZ | Numéro séquentiel du sous-en-tête. |
+| ± 2 | Code d'identification interne de l'entité déclarante | X(25)LJ | Toute valeur que vous décidez d'attribuer au groupement de déclarations dans le lot. Si vous ne vous servez pas de cette valeur, garnir ce champ d'espaces. |
+| ± 3 | Nombre de déclarations | 9(5)RJZ | Introduire le nombre total de déclarations regroupées sous le sous-en-tête. |
+| Total des caractères : | | 37 | Chaque lot doit comprendre au moins un sous-en-tête de lot. |
+
+**Fin de lot -** La fin de lot indique la fin des déclarations comprises dans le fichier.
+
+| Champ no | Nom du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+| ± 0 | Genre d'enregistrement | X(2) | Valeur « 1C » |
+| ± 1 | Numéro séquentiel | 9(5)RJZ | Le numéro de séquentiel de la fin de lot devrait toujours être « 0001 ». |
+| Total des caractères : | | 7 | Chaque lot doit avoir une fin après la dernière déclaration du lot. |
+
+#### 5.1.1 Exemples d'en-tête, de sous-en-tête et de fin de lot
+
+Comme il est expliqué à la section 5.1, chaque lot que vous transmettez à CANAFE doit comporter un en-tête de lot, au moins un sous-en-tête de lot et une fin de lot. Les sous-en-têtes de lots vous permettent de regrouper des déclarations dans un lot selon votre structure organisationnelle ou toute autre exigence de regroupement. L'utilisation de plusieurs sous-en-têtes est optionnelle, mais vous devez toutefois en inclure au moins un dans votre lot.
+
+Les exemples ci-dessous illustrent deux scénarios possibles en ce qui a trait à l'utilisation d'en-têtes et de sous-en-têtes de lots.
+
+##### Exemple 1
+
+Une entité déclarante du nom de « ABC Ltée » envoie trois déclarations d'opérations douteuses dans un lot de production. Son numéro d'identification d'entité déclarante est 0004567 et son numéro de certificat d'ICP est 1234567890. Le nom de la personne ressource est John Smith et le numéro de téléphone de ce dernier est le (416) 555-5555 (aucun poste téléphonique). ABC Ltée ne désire pas regrouper les déclarations incluses dans le lot.
+
+```
+
+1A850STR 0004567SMITH     JOHN     416-555-5555     0000012345678902005071923155500001A000010000303P
+1B00001ABCLTEE 	          00003
+       Déclaration 1
+       Déclaration 2
+       Déclaration 3
+1C00001
+```
+
+##### Exemple 2
+
+Une entité déclarante du nom de « Entité X » exploite son entreprise en différents endroits (Endroit A, Endroit B, etc.). Elle désire regrouper ses déclarations par emplacement. Dans ce cas, l'entité déclarante présenterait un sous-en-tête différent pour chaque emplacement. Son numéro d'identification d'entité déclarante est 0000567 et son numéro de certificat d'ICP est 2345678901. La personne-ressource s'appelle John Brown et le numéro de téléphone de ce dernier est le (416) 666-6666 (aucun poste téléphonique). Pour transmettre un lot présentant cinq déclarations DOIE (dont trois provenant de l'emplacement A et deux provenant de l'emplacement B), l'entité utiliserait deux sous-en-têtes, comme suit :
+
+```
+
+1A850LCTR 0000567BROWN       JOHN       416-666-6666    0000077712345672005071923155500001A000020000503P
+1B00001   EMPLACEMENT A      00003
+          Déclaration 1 de l'endroit A
+          Déclaration 2 de l'endroit A
+          Déclaration 3 de l'endroit A
+1B00002   EMPLACEMENT B      00002
+          Déclaration 1 de l'endroit B
+          Déclaration 2 de l'endroit B
+1C00001
+```
+
+### 5.2 Configuration des déclarations transmises par lots – Format de la version 03 et 04
+
+Les spécifications s'appliquant aux DOIE, DTT et DTR sont fondées sur le format version « 03 ». Les spécifications pour les DOD sont fondées sur le format version « 04 ».
+
+#### 5.2.1 Configuration détaillée (format de la version 04) – Déclaration d'opérations douteuses (DOD)
+
+Les spécifications pour les DOD (« STR ») forment le Module 2.
+
+#### 5.2.2 Configuration détaillée (format de la version 03) – Déclaration relative aux opérations importantes en espèces (DOIE)
+
+Les spécifications pour les DOIE (« LCTR ») forment le Module 3.
+
+#### 5.2.3 Configuration détaillée (format de la version 03) — Déclarations relatives aux télévirements internationaux autres que les messages SWIFT
+
+Les spécifications pour les déclarations relatives aux télévirements internationaux autres que les messages SWIFT forment le Module 4.
+
+### 5.3 Diagrammes de production des déclarations
+
+Les diagrammes de production se trouvent dans les modules 2, 3 et 4, selon le genre de déclaration.
+
+## 6. Tables de codes et règles d'introduction des noms
+
+### 6.1 Tables de codes
+
+Il est possible de télécharger les tables de codes suivantes directement de [documentation relative à la transmission par lots](/reporting-declaration/info/f2r-fra#y1). Les tables de codes s'appliquent à tous les genres de déclarations transmises à CANAFE par lots, selon le format standard.
+
+* Codes de pays (ISO 3166)
+* Codes de provinces et d'États
+  + Codes de provinces et territoires canadiens
+  + Codes d'États mexicains
+  + Codes d'États américains
+* Codes de devises  
+  Les rangées sans ombrage (ou sans parenthèses dans le format « txt ») dans le tableau des codes de devises renferment les codes de devises courantes conformément à l'ISO 4217.  
+  Les rangées avec ombrage (ou avec des parenthèses dans le format « txt ») reflètent des codes retirés qui ne figurent plus dans la liste courante de l'ISO 4217.
+* Abréviations standard de termes  
+  Toutes les abréviations présentées dans la table des abréviations standard de termes sont au singulier. Elles peuvent être changées du singulier au pluriel par l'ajout de la lettre « s ».
+* Noms et abréviations de types de rues
+
+### 6.2 Règles d'introduction des noms
+
+Pour introduire le nom d'un particulier, veuillez utiliser les champs prévus à cet effet (nom de famille, prénom, autre nom/initiale). Supprimez tous les titres de civilité, préfixes, suffixes ou autres renseignements descriptifs tels que M., Mme, Dr, Révérend, associé ou fiduciaire. Toutefois, ne supprimez pas les suffixes qui distinguent les membres d'une famille, tels que père, fils, Jr, Sr, III ou IV. Les suffixes doivent suivre l'autre nom ou 1'initiale dans le champ correspondant (par exemple, si le nom d'un individu comporte l'initiale « S » de même que le suffixe « Junior », ces renseignements seront présentés ainsi dans le champ « Autre nom/Initiale » : S JR). Supprimez toute ponctuation (par exemple, pour « JR. », introduire « JR » uniquement).
+
+Pour introduire la dénomination sociale d'une entité ou d'une entreprise, utiliser les champs sans délimitation prévus à cet effet.
+
+## 7. Formatage des accusés de réception
+
+Les tableaux suivants indiquent comment sont formatés les fichiers d'accusés de réception de CANAFE au sujet des lots transmis à CANAFE.
+
+### 7.1 Configuration détaillée – Accusé de réception de lots
+
+#### 7.1.1 Configuration générale de l'accusé de réception
+
+Les tableaux suivants précisent le format des messages d'accusés de réception qui vous sont acheminés par CANAFE lorsque celui-ci a fini le traitement des lots. Toutes les étiquettes de champs comportent trois caractères, sont cadrées à gauche et sont garnies d'espaces.
+
+**Section A: Renseignements sur le fichier de lot transmis**
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+| **A** | Titre de l'accusé de réception | X(129)LJ | « Your batch has been processed. / Votre lot a été traité. » |
+| Séparateur | X(132) | Espaces |
+| **A2** | Genre de déclarations |  |  |
+| Description | X(37)LJ | « Report Type / Genre de déclaration » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Valeur du genre de déclarations | X(4)LJ | « STR » Lot de déclarations d'opérations douteuses (DOD)  « LCTR » Lot de déclarations d'opérations importantes en espèces (DOIE)  « EFTO » Lot de télévirements transmis autres que les messages SWIFT (DTT)  « EFTI » Lot de télévirements reçus autres que les messages SWIFT (DTR) |
+| Élément de remplissage | X(86)LJ | Espaces |
+| **A3** | Catégorie de lot |  |  |
+| Description | X(37)LJ | « Batch Type / Catégorie de lot » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Valeur de la catégorie de lot | X(1)LJ | « A »  Ajout d'un lot  « C »  Correction d'un lot |
+| Élément de remplissage | X(89)LJ | Espaces |
+| **A4** | Mode opérationnel |  |  |
+| Description | X(37)LJ | « Operational mode / Mode opérationnel » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Valeur du mode opérationnel | X(1)LJ | « P »  Production  « T »  Test (essai) |
+| Élément de remplissage | X(89)LJ | Espaces |
+| **A5** | Date de traitement du lot |  |  |
+| Description | X(65)LJ | « Date processed by FINTRAC / Date de traitement par CANAFE » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Date de traitement | 9(8) LJ | AAAAMMJJ |
+| Élément de remplissage | X(54)LJ | Espaces |
+| **A6** | Heure de traitement du lot |  |  |
+| Description | X(65)LJ | « Time processed by FINTRAC / Heure de traitement du lot par CANAFE » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Heure de traitement du lot | 9(6)LJ | HHMMSS |
+| Élément de remplissage | X(56)LJ | Espaces |
+
+**Section B : Messages portant sur l'identification du lot**
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+|  | Séparateur | X(132) | Espaces |
+| **B** | Titre de la section | X(129)LJ | « Batch ID / Identification du lot » |
+| **B2** | Date du lot |  |  |
+| Description | X(65)LJ | « Date / Date » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Date du lot | 9(8) | AAAAMMJJ |
+| Élément de remplissage | X(54)LJ | Espaces |
+| **B3** | Heure du lot |  |  |
+| Description | X(65)LJ | « Time / Heure » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Heure du lot | 9(6) | HHMMSS |
+| Élément de remplissage | X(56)LJ | Espaces |
+| **B4** | Numéro séquentiel d'identification du lot |  |  |
+| Description | X(65)LJ | « Batch sequence ID / Numéro séq. d'identification du lot » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Numéro séquentiel d'identification du lot | 9(5)RJZ | Le numéro séquentiel d'identification du lot attribué par l'entité déclarante (il est  unique à l'entité déclarante). |
+| Élément de remplissage | X(57)LJ | Espaces |
+
+**Section C : Messages portant sur le traitement du lot**
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+|  | Séparateur | X(132) | Espaces |
+| **C** | Titre de la section | X(129)LJ | « Batch processing messages / Messages portant sur le traitement du lot » |
+| **C2** | Message spécifiant l'état du lot | X(129) | « Batch accepted / Lot accepté »  ou  « Batch rejected – invalid format / Lot rejeté – Format invalide » |
+| **C3** | Sous-en-têtes de lot acceptés |  |  |
+| Description | X(65)LJ | « Sub-headers accepted / Sous-en-têtes de lot acceptés » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Nombre de sous-en-têtes de lot acceptés | 9(5)RJZ | Nombre de sous-en-têtes ayant été traités avec succès |
+| Élément de remplissage | X(57)LJ | Espaces |
+| **C4** | Déclarations rejetées |  |  |
+| Description | X(65)LJ | « Reports rejected / Nombre de déclarations rejetées » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Nombre de déclarations rejetées | X(5)LJ | Nombre de déclarations rejetées |
+| Élément de remplissage | X(57)LJ | Espaces |
+| **C4** | Déclarations en double mises de côté |  |  |
+| Description | X(65)LJ | « Duplicate reports ignored / Déclarations en double mises de côté » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Nombre de déclarations en double | X(5)LJ | Nombre de déclarations en double mises de côté |
+| Élément de remplissage | X(57)LJ | Espaces |
+| **C4** | Déclarations supprimées |  | S'applique uniquement aux accusés de réception au sujet d'un lot de catégorie « C » si vous avez supprimé une ou plusieurs déclarations. |
+| Description | X(65)LJ | « Reports deleted / Déclarations supprimées » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Nombre de déclarations supprimées | X(5)LJ | Nombre de déclarations supprimées |
+| Élément de remplissage | X(57)LJ | Espaces |
+| **C4** | Nouvelles déclarations acceptées |  |  |
+| Description | X(65)LJ | « New reports accepted / Nouvelles déclarations acceptées » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Nombre de nouvelles déclarations acceptées | X(5)LJ | Nombre de nouvelles déclarations acceptées |
+| Élément de remplissage | X(57)LJ | Espaces |
+| **C4** | Déclarations traitées |  | Pour un accusé de réception au sujet d'un lot de catégorie « C », ce total comprend les déclarations modifiées et les déclarations supprimées. |
+| Description | X(65)LJ | « Total reports processed / Nombre de déclarations traitées » |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Nombre de déclarations acceptées | X(5)LJ | Nombre de déclarations ayant été traitées avec succès. |
+| Élément de remplissage | X(57)LJ | Espaces |
+| **C5** | Légende de rejet A | X(129)LJ | « A = Sub-header sequence number / Numéro séquentiel du sous-en-tête » (seulement pour un lot rejeté) |
+| **C5** | Légende de rejet B | X(129)LJ | « B = Report sequence number / Numéro séquentiel de la déclaration » (seulement pour un lot rejeté) |
+| **C5** | Légende de rejet C | X(129)LJ | « C = RE report reference number / Numéro de référence de la déclaration de l'ED » (seulement pour un lot rejeté) |
+| **C5** | Légende de rejet D | X(129)LJ | « D = Transaction / Opération » (seulement pour un lot rejeté) |
+| **C5** | Légende de rejet E | X(129)LJ | « E = Disposition / Répartition » (seulement pour un lot rejeté) |
+| **C5** | Légende de rejet E | X(129)LJ | « F = Field / Champ » (seulement pour un lot rejeté) |
+| **C5** | Légende de rejet G | X(129)LJ | « G = Reject code / Code de rejet » (seulement pour un lot rejeté) |
+| **C5** | Légende de rejet | X(129)LJ | « \* = Reject indicator / Indicateur de rejet » (seulement pour un lot rejeté) |
+| **C5** | En-tête de message | X(129)LJ | «        A       B               C              D      E        F        G» (seulement pour un lot rejeté) |
+| **C6** | Message de validation |  | **Cette ligne est répétitive.** (seulement pour un lot rejeté) |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Numéro séquentiel du sous-en-tête (A) | X(5)LJ | Numéro séquentiel du sous-en-tête dans le fichier de lot. (seulement pour un lot rejeté) |
+| Indicateur de données variables | X(3)LJ | « :  » |
+| Numéro séquentiel de la déclaration (B) | X(5)LJ | Numéro séquentiel de la déclaration dans le fichier de lot. (seulement pour un lot rejeté) |
+| Indicateur de données variables | X(3)LJ | « :  » |
+| Numéro de référence de la déclaration de l'entité déclarante (C) | X(20)LJ | Le numéro de référence unique assigné pour la déclaration par l'entité déclarante (seulement pour un lot rejeté) |
+| Indicateur de données variables | X(3)LJ | « :  » |
+| Numéro séquentiel de l'opération (D) | X(4)LJ | Le numéro séquentiel de l'opération de la déclaration auquel le message est associé (seulement pour un lot rejeté et ne s'applique pas aux messages au sujet de déclarations de télévirement) |
+| Indicateur de données variables | X(3)LJ | « :  » |
+| Numéro séquentiel de la répartition (E) | X(6)LJ | Le numéro séquentiel de la répartition à laquelle le message est associé (seulement pour un lot rejeté et ne s'applique pas aux messages au sujet de déclarations de télévirement) |
+| Indicateur de données variables | X(3)LJ | « :  » |
+| Numéro du champ (F) | X(6)LJ | Numéro du champ de la déclaration ayant mené au rejet. (seulement pour un lot rejeté) |
+| Indicateur de données variables | X(3)LJ | « :  » |
+| Numéro du message de rejet (G) | 9(3)LJ | Numéro du message indiquant la raison du rejet du lot par CANAFE (seulement pour un lot rejeté). Voir la section 9 pour les renseignements au sujet des codes pour ces messages. |
+| Indicateur de rejet | X(1)LJ | « \* » |
+| Élément de remplissage | X(59)LJ | Espaces |
+
+**Section D : Messages portant sur les déclarations acceptées, les déclarations avec des erreurs et les déclarations rejetées**  
+(pour les lots acceptés seulement)
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+|  | Séparateur | X(132) | Espaces. |
+| **D** | Titre de la section | X(129)LJ | "Messages on accepted reports, reports in error and reports rejected" |
+| **D** | Titre de la section | X(129)LJ | « Messages portant sur les décl. acceptées, avec des erreurs et rejetées» |
+| **D** | Légende A | X(129)LJ | « A = Sub-header / Sous-en-tête » |
+| **D** | Légende B | X(129)LJ | « B = Report sequence / Séquence de la déclaration » |
+| **D** | Légende C | X(129)LJ | « C = RE report reference number / Numéro de référence de la déclaration de l'ED » |
+| **D** | Légende D | X(129)LJ | « D = Transaction / Opération » |
+| **D** | Légende E | X(129)LJ | « E = Disposition / Répartition » |
+| **D** | Légende F | X(129)LJ | « F = Field / Champ » |
+| **D** | Légende G | X(129)LJ | « G = Message code / Code de message » |
+| **D** | Légende | X(129) | « \*  = Reject indicator / Indicateur de rejet » |
+| **D** | Légende H | X(129)LJ | « H = Validation rule number / Numéro de la règle de validation » |
+|  | Séparateur | X(132) | Espaces. |
+| **D** | En-tête de messages | X(129)LJ | «     A       B               C              D      E        F        G      H» |
+| **D2** | Message de validation |  | **Cette ligne est répétitive.** |
+| Indicateur de données variables | X(2)LJ | « : » |
+| Numéro du sous-en-tête (A) | X(5)LJ | Sous-en-tête auquel le message est associé. |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro séquentiel de la déclaration (B) | X(5)LJ | Numéro séquentiel de la déclaration auquel le message est associé. |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro de référence de la déclaration de l'entité déclarante (C) | X(20)LJ | Le numéro de référence de la déclaration de l'entité déclarante dont traite le message. |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro séquentiel de l'opération (D) | X(4)LJ | Le numéro séquentiel de l'opération de la déclaration auquel le message est associé (ne concerne pas les messages relatifs aux déclarations de télévirements) |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro séquentiel de la répartition (E) | X(6)LJ | Numéro séquentiel de la répartition de la déclaration auquel le message est associé (ne concerne pas les messages relatifs aux déclarations de télévirements). |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro du champ (F) | X(6)LJ | Identification du numéro du champ de la déclaration auquel le message est associé |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Message de validation (G) | 9(3)LJ | Le message de validation est associé au champ qui est identifié. Vous trouverez les renseignements au sujet de ces codes dans la section 9.2. |
+| Indicateur de rejet | X(1)LJ | « \* » |
+| Indicateur des données variables | X(3)LJ | « : » |
+| Numéro de la règle de validation (H) | 9(9)LJ | Il s'agit du numéro de la règle de validation qui indique le problème lié à la déclaration. Voir la section 9.1 pour obtenir des informations sur les numéros de règles. |
+| Élément de remplissage | X(47)LJ | Espaces |
+
+**Section E : Nombre de sous-en-têtes et de déclarations traitées**  
+(pour les lots acceptés seulement)
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+|  | Séparateur | X(132) | Espaces |
+| **E** | Titre de la section | X(129)LJ | "Accepted sub-header and report processing totals" |
+| **E** | Titre de la section | X(129)LJ | « Nombre de sous-en-têtes acceptés et de déclarations traitées avec succès » |
+| **E** | Titre de la section | X(129)LJ | « Sub-header          Report count » |
+| **E** | Titre de la section | X(129)LJ | « Sous-en-tête        Nombre de déclarations » |
+| **E2** | Nombre de sous-en-têtes et de déclarations | | **Cette ligne est répétitive.** |
+| Indicateur de données variables | X(2)LJ | « :  ». |
+| Numéro séquentiel du sous-en-tête | X(5)LJ | Numéro séquentiel du sous-en-tête de lot ayant été traité avec succès. |
+| Élément de remplissage | X(12)LJ |  |
+| Indicateur de données variables | X(2)LJ | « :  » |
+| Nombre de déclarations du sous-en-tête | X(5)LJ | Nombre de déclarations du sous-en-tête ayant été traitées avec succès. |
+| Élément de remplissage | X(103)LJ | Espaces |
+
+**Section F : Fin du rapport**
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+|  | Séparateur | X(132) | Espaces |
+| **F** | Titre de la section | X(129)LJ | « End of report / Fin du rapport » |
+| Élément de remplissage | X(132)LJ | "============================================================================" |
+| Élément de remplissage | X(132)LJ | « Legend / Légende » |
+| Élément de remplissage | X(132)LJ | « A   Section contains summary of the batch processed » |
+| Élément de remplissage | X(132)LJ | « A   Cette section présente des renseignements sur le traitement du lot » |
+| Élément de remplissage | X(132)LJ | « A2  Report type contained in the batch / Genre de décl. comprises dans le lot » |
+| Élément de remplissage | X(132)LJ | « A3  Batch Type / Catégorie de lot » |
+| Élément de remplissage | X(132)LJ | « A4  Operational mode /Mode opérationnel » |
+| Élément de remplissage | X(132)LJ | « A5  Date processed by FINTRAC / Date de traitement par CANAFE » |
+| Élément de remplissage | X(132)LJ | « A6  Time processed by FINTRAC / Heure de traitement par CANAFE » |
+| Élément de remplissage | X(132)LJ | Espaces |
+| Élément de remplissage | X(132)LJ | « B   Section contains batch identification details » |
+| Élément de remplissage | X(132)LJ | « B   Cette section présente des renseignements sur l'identification du lot » |
+| Élément de remplissage | X(132)LJ | « B2  Date provided in the batch header / Date indiquée dans l'en-tête de lot » |
+| Élément de remplissage | X(132)LJ | « B3  Time provided in the batch header / Heure indiquée dans l'en-tête de lot » |
+| Élément de remplissage | X(132)LJ | « B4  Seq. provided in the batch header / Séq. indiquée dans l'en-tête de lot » |
+| Élément de remplissage | X(132)LJ | Espaces |
+| Élément de remplissage | X(132)LJ | « C   Section contains batch processing results » |
+| Élément de remplissage | X(132)LJ | « C   Cette section présente les résultats du traitement du lot » |
+| Élément de remplissage | X(132)LJ | « C2  Batch acceptance or reject message / Message d'acceptation ou de rejet du lot » |
+| Élément de remplissage | X(132)LJ | « C3  Number of sub-headers accepted / Nombre de sous-en-têtes acceptés » |
+| Élément de remplissage | X(132)LJ | « C4  Number of reports rejected / Nombre de déclarations rejetées » |
+| Élément de remplissage | X(132)LJ | « C4  Number of duplicate reports ignored / Nombre de déclarations en double mises de côté » |
+| Élément de remplissage | X(132)LJ | « C4  Number of reports deleted / Nombre de déclarations supprimées » |
+| Élément de remplissage | X(132)LJ | « C4  Number of new reports accepted / Nombre de nouvelles déclarations acceptées » |
+| Élément de remplissage | X(132)LJ | « C4  Number of reports processed / Nombre de déclarations traitées » |
+| Élément de remplissage | X(132)LJ | « C5  Rejected batch legend / Légende de rejet de lot » |
+| Élément de remplissage | X(132)LJ | « C6  Rejected batch messages / Messages de rejet de lot » |
+| Élément de remplissage | X(132)LJ | Espaces |
+| Élément de remplissage | X(132)LJ | « D   Section contains validation messages for reports » |
+| Élément de remplissage | X(132)LJ | « D   Cette section présente les messages de validation des déclarations » |
+| Élément de remplissage | X(132)LJ | « D2  Validation messages for report fields (repeating message line) » |
+| Élément de remplissage | X(132)LJ | « D2  Messages de validation des champs de la décl. (ligne répétitive du message) » |
+| Élément de remplissage | X(132)LJ | Espaces |
+| Élément de remplissage | X(132)LJ | « E   Section contains the total number of reports per sub-header in the batch » |
+| Élément de remplissage | X(132)LJ | « E   Cette section présente le nombre total de déclarations incluses dans chaque » |
+| Élément de remplissage | X(132)LJ | « E     sous-en-tête de lot » |
+| Élément de remplissage | X(132)LJ | « E2  For each sub-header, the number of reports (repeating message line) » |
+| Élément de remplissage | X(132)LJ | « E2  Nombre de déclarations par sous-en-tête (ligne répétitive du message) » |
+| Élément de remplissage | X(132)LJ | Espaces |
+| Élément de remplissage | X(132)LJ | « F   Section indicates the end of the acknowledgement messages » |
+| Élément de remplissage | X(132)LJ | « F   Cette section indique la fin des messages de l'accusé de réception » |
+| Élément de remplissage | X(132)LJ | « ============================================================================ » |
+
+#### 7.1.2 Exemples d'accusé de réception de type général
+
+##### 7.1.2.1 Exemple d'accusé de réception pour un lot accepté
+
+**Nota : Faute d'espace, le format du bloc de données n'a pas été maintenu à 132 caractères dans l'exemple ci-dessous.**
+
+```
+
+A  Your batch has been processed. / Votre lot a été traité.
+
+A2 Report type / Genre de déclaration       : LCTR 
+A3 Batch type  / Catégorie de lot           : A 
+A4 Operational mode / Mode opérationnel     : P
+A5 Date batch processed by FINTRAC / Date de traitement par CANAFE  : 20050723
+A6 Time batch processed by FINTRAC / Heure de traitement par CANAFE : 041733
+
+B  Batch ID / Identification du lot				
+B2 Date / Date                                                      : 20050722
+B3 Time / Heure                                                     : 234527
+B4 Batch sequence ID / Numéro séq. d'identification du lot          : 00003
+
+C  Batch processing messages / Messages portant sur le traitement du lot
+C2 Batch accepted / Lot accepté
+C3 Sub-headers accepted / Sous-en-têtes de lot acceptés	            : 00001
+C4 Reports rejected / Déclarations rejetées                         : 1
+C4 Duplicate reports ignored / Déclarations en double mises de côté : 0
+C4 Reports deleted / Déclarations supprimées                        : 0
+C4 New reports accepted / Nouvelles déclarations acceptées          : 3
+C4 Total reports processed / Nombre de déclarations traitées        : 4
+
+D  Messages on accepted reports, reports in error and reports rejected
+D  Messages portant sur les décl. acceptées, avec des erreurs et rejetées
+D  A = Sub-header / Sous-en-tête
+D  B = Report sequence / Séquence de la déclaration
+D  C = RE report reference number / Numéro de référence de la déclaration de l'ED  
+D  D = Transaction / Opération
+D  E = Disposition / Répartition
+D  F = Field / Champ
+D  G = Message code / Code de message
+D  * = Reject indicator / Indicateur de rejet
+D  H = Validation rule number / Numéro de la règle de validation
+
+D     A       B               C              D      E        F        G      H
+D2 : 1     : 1     : Report97000000       : 1    : 1      : B1.7a  : 320* : 28765
+D2 : 1     : 2     : Report97100000       : 1    : 1      : B1.7a  : 320  : 28765
+D2 : 2     : 3     : Report97200000       : 1    : 1      : B1.7a  : 320  : 28765
+
+E  Accepted sub-header and report processing totals
+E  Nombre de sous-en-têtes acceptés et de déclarations traitées avec succès
+E  Sub-header	      Report count
+E  Sous-en-tête	      Nombre de déclarations
+E2 : 1                : 4
+
+F  End of report / Fin du rapport
+============================================================================ 
+Legend / Légende
+
+A   Section contains summary of the batch processed
+A   Cette section présente des renseignements sur le traitement du lot 
+A2  Report type contained in the batch / Genre de décl. comprises dans le lot
+A3  Batch type / Catégorie de lot
+A4  Operational mode / Mode opérationnel
+A5  Date processed by FINTRAC / Date de traitement par CANAFE
+A6  Time processed by FINTRAC / Heure de traitement par CANAFE
+
+B   Section contains batch identification details
+B   Cette section présente des renseignements sur l'identification du lot
+B2  Date provided in the batch header / Date indiquée dans l'en-tête de lot
+B3  Time provided in the batch header / Heure indiquée dans l'en-tête de lot
+B4  Seq. provided in the batch header / Séq. indiquée dans l'en-tête de lot
+
+C   Section contains batch processing results
+C   Cette section présente les résultats du traitement du lot 
+C2  Batch acceptance or reject message/Message d'acceptation ou de rejet du lot 
+C3  Number of sub-headers accepted / Nombre de sous-en-têtes acceptés
+C4  Number of reports rejected / Nombre de déclarations rejetées
+C4  Number of duplicate reports ignored / Nombre de décl. en double mises de côté
+C4  Number of reports deleted / Nombre de décl. supprimées 
+C4  Number of new reports accepted / Nombre de nouvelles déclarations acceptées
+C4  Number of reports processed / Nombre de déclarations traitées
+C5  Rejected batch legend / Légende de rejet de lot
+C6  Rejected batch messages / Messages de rejet de lot
+
+D   Section contains validation messages for reports
+D   Cette section présente les messages de validation des déclarations
+D2  Validation messages for report fields (repeating message line)
+D2  Messages de validation des champs de la décl.(ligne répétitive du message)
+
+E   Section contains the total number of reports per sub-header in the batch
+E   Cette section présente le nombre total de déclarations incluses dans chaque
+E     sous-en-tête de lot
+E2  For each sub-header, the number of reports (repeating message line)
+E2  Nombre de déclarations par sous-en-tête (ligne répétitive du message)
+
+F   Section indicates end of the acknowledgement messages
+F   Cette section indique la fin des messages de l'accusé de réception
+```
+
+##### 7.1.2.2 Exemple d'accusé de réception pour un lot rejeté
+
+**Nota : Faute d'espace, le format du bloc de données n'a pas été maintenu à 132 caractères dans l'exemple ci-dessous.**
+
+```
+
+A  Your batch has been processed. / Votre lot a été traité.
+
+A2 Report type / Genre de déclaration       : LCTR 
+A3 Batch type  / Catégorie de lot           : A 
+A4 Operational mode / Mode opérationnel     : P
+A5 Date batch processed by FINTRAC / Date de traitement par CANAFE  : 20050723
+A6 Time batch processed by FINTRAC / Heure de traitement par CANAFE : 014532
+
+B  Batch ID / Identification du lot				
+B2 Date / Date                                                      : 20050722
+B3 Time / Heure                                                     : 234527
+B4 Batch sequence ID / Numéro séq. d'identification du lot          : 00003
+
+C  Batch processing messages / Messages portant sur le traitement du lot
+C2 Batch accepted / Lot accepté
+C3 Sub-headers accepted / Sous-en-têtes de lot acceptés	            : 00001
+C4 Reports rejected / Déclarations rejetées                         : 3
+C4 Duplicate reports ignored / Déclarations en double mises de côté : 0
+C4 Reports deleted / Déclarations supprimées                        : 0
+C4 New reports accepted / Nouvelles déclarations acceptées          : 0
+C4 Total reports processed / Nombre de déclarations traitées        : 0
+C5 A = Sub-header sequence number / Numéro séquentiel du sous-en-tête
+C5 B = Report sequence number / Numéro séquentiel de la déclaration
+C5 C = RE report reference number / Numéro de référence de déclaration de l'ED
+C5 D = Transaction / Opération
+C5 E = Disposition / Répartition
+C5 F = Field / Champ
+C5 G = Reject code / Code de rejet
+C5 * = Reject indicator / Indicateur de rejet
+
+C5    A       B               C              D      E        F        G  
+C6 : 1     : 1     : 111111234567         : 1    :        : A.1A   : 411*
+C6 : 1     : 2     : 111111234568         : 1    :        : A.1A   : 411*
+C6 : 1     : 3     : 111111234569         : 1    :        : A.1A   : 411*
+
+F  End of report / Fin du rapport
+============================================================================ 
+Legend / Légende
+
+A   Section contains summary of the batch processed
+A   Cette section présente des renseignements sur le traitement du lot 
+A2  Report type contained in the batch / Genre de décl. comprises dans le lot
+A3  Batch type / Catégorie de lot
+A4  Operational mode / Mode opérationnel
+A5  Date processed by FINTRAC / Date de traitement par CANAFE
+A6  Time processed by FINTRAC / Heure de traitement par CANAFE
+
+B   Section contains batch identification details
+B   Cette section présente des renseignements sur l'identification du lot
+B2  Date provided in the batch header / Date indiquée dans l'en-tête de lot
+B3  Time provided in the batch header / Heure indiquée dans l'en-tête de lot
+B4  Seq. provided in the batch header / Séq. indiquée dans l'en-tête de lot
+
+C   Section contains batch processing results
+C   Cette section présente les résultats du traitement du lot 
+C2  Batch acceptance or reject message / Message d'acceptation ou de rejet du lot 
+C3  Number of sub-headers accepted / Nombre de sous-en-têtes acceptés
+C4  Number of reports rejected / Nombre de déclarations rejetées
+C4  Number of duplicate reports ignored / Nombre de décl. en double mises de côté
+C4  Number of reports deleted / Nombre de décl. supprimées 
+C4  Number of new reports accepted / Nombre de nouvelles déclarations acceptées
+C4  Number of reports processed / Nombre de déclarations traitées
+C5  Rejected batch legend / Légende de rejet de lot
+C6  Rejected batch messages / Messages de rejet de lot
+
+D   Section contains validation messages for reports
+D   Cette section présente les messages de validation des déclarations
+D2  Validation messages for report fields (repeating message line)
+D2  Messages de validation des champs de la décl.(ligne répétitive du message)
+
+E   Section contains the total number of reports per sub-header in the batch
+E   Cette section présente le nombre total de déclarations incluses dans chaque
+E     sous-en-tête de lot
+E2  For each sub-header, the number of reports (repeating message line)
+E2  Nombre de déclarations par sous-en-tête (ligne répétitive du message)
+
+F   Section indicates end of the acknowledgement messages
+F   Cette section indique la fin des messages de l'accusé de réception
+```
+
+## 8. Formatage des messages de déclarations retournées à des fins de modification
+
+Les tableaux suivants donnent des détails sur la façon dont les messages de CANAFE concernant les déclarations retournées à des fins de modification (DRM) sont formatés.
+
+### 8.1 Configuration détaillée – Message de DRM
+
+#### 8.1.1 Configuration générale du message de DRM
+
+Les tableaux suivants décrivent le format des messages de DRM que vous envoie CANAFE si vous décidez de modifier par lots des déclarations que vous avez transmises de cette façon. Toutes les étiquettes de champs comportent trois caractères, sont cadrées à gauche et sont garnies d'espaces.
+
+**Section A : Introduction de la DRM**
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+| **A** | Introduction de la DRM | X(129)LJ | « Please review and correct the following report(s): » |
+| Introduction des DRM | X(129)LJ | « Veuillez réviser et corriger la ou les déclaration(s) suivante(s) : » |
+| Séparateur | X(132) | Espaces |
+| **A2** | Genre de déclaration |  |  |
+| Description | X(37)LJ | « Report type / Genre de déclaration » |
+| Indicateur de données variables | X(2)LJ | « :    » |
+| Valeur du genre de déclaration | X(4)LJ | « LCTR » Lot de déclarations d'opérations importantes en espèces (DOIE)  « EFTO » Lot de télévirements transmis autres que les messages SWIFT (DTT)  « EFTI » Lot de télévirements reçus autres que les messages SWIFT (DTR) |
+| Élément de remplissage | X(86)LJ | Espaces |
+| **A3** | Date d'envoi de la DRM |  |  |
+| Description | X(65)LJ | « Date issued by FINTRAC / Date d'envoi par CANAFE » |
+| Indicateur de données variables | X(2)LJ | « :    » |
+| Date de traitement | 9(8)LJ | AAAAMMJJ |
+| Élément de remplissage | X(54)LJ | Espaces |
+
+**Section B : Identification de la DRM**
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+|  | Séparateur | X(132) | Espaces |
+| **B** | Titre de la section | X(129)LJ | « RRFA identification / Identification de la DRM » |
+| **B2** | Numéro d'identification de la DRM | |  |
+| Description | X(65)LJ | « RRFA number / Numéro de la DRM » |
+| Indicateur de données variables | X(2)LJ | « : » |
+| Numéro d'identification de la DRM | 9(9)LJ | Identification numérique de la DRM accordée par CANAFE |
+| Élément de remplissage | X(53)LJ | Espaces |
+| **B3** | Nombre de lots impliqués |  |  |
+| Description | X(65)LJ | « Number of batches involved / Nombre de lots impliqués » |
+| Indicateur de données variables | X(2)LJ | « : » |
+| Nombre de lots impliqués | 9(5)LJ | Le nombre de lots d'où proviennent les DRM |
+| Élément de remplissage | X(57)LJ | Espaces |
+| **B4** | Nombre de déclarations retournées | |  |
+| Description | X(65)LJ | « Number of reports returned / Nombre de déclarations retournées » |
+| Indicateur de données variables | X(2)LJ | « : » |
+| Nombre de déclarations retournées | 9(5)LJ | Le nombre de déclarations comprises dans la DRM |
+| Élément de remplissage | X(57)LJ | Espaces |
+| **B5** | Nombre de problèmes de qualité | |  |
+| Description | X(65)LJ | « Number of quality issues / Nombre de problèmes de qualité » |
+| Indicateur de données variables | X(2)LJ | « : » |
+| Nombre de problèmes de qualité | 9(9)LJ | Nombre total de problèmes de qualité présentés pour l'ensemble des déclarations retournées. |
+| Élément de remplissage | X(53)LJ | Espaces |
+
+**Section C : Messages de problèmes de qualité des données**
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+|  | Séparateur | X(132) | Espaces |
+| **C** | Titre de la section | X(129)LJ | « Data quality issues / Problèmes de qualité des données » |
+| **C2** | Légende de problème de qualité A | X(129)LJ | « A = RE's identifier number / Numéro d'identification de l'ED » |
+| **C2** | Légende de problème de qualité B | X(129)LJ | « B = Batch date / Date du lot » |
+| **C2** | Légende de problème de qualité C | X(129)LJ | « C = Batch time / Heure du lot » |
+| **C2** | Légende de problème de qualité D | X(129)LJ | « D = Batch sequence ID / Numéro séq. d'identification du lot » |
+| **C2** | Légende de problème de qualité E | X(129)LJ | « E = RE report reference number / Numéro de référence de déclaration de l'ED » |
+| **C2** | Légende de problème de qualité F | X(129)LJ | « F = Report part and field number / Nos de la partie et du champ de la décl. » |
+| **C2** | Légende de problème de qualité G | X(129)LJ | « G = Transaction / Opération » |
+| **C2** | Légende de problème de qualité H | X(129)LJ | « H = Disposition / Répartition » |
+| **C2** | Légende de problème de qualité I | X(129)LJ | « I = Quality issue code / Code du problème de qualité » |
+|  | Séparateur | X(132) | Espaces |
+| **C3** | Entête de messages | X(129)LJ | «       A          B         C       D              E               F      G       H       I » |
+| **C4** | Message de la DRM |  | **Cette ligne est répétitive.** |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro d'identification de l'entité déclarante (A) | 9(7)LJ | Numéro d'identification de l'entité déclarante |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Date du lot (B) | 9(8) | Date du lot |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Heure du lot (C) | 9(6) | Heure du lot |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Code séquentiel d'identification du lot (D) | 9(5)RJZ | Code numérique séquentiel d'identification unique accordé par l'entité au lot dans lequel la déclaration retournée a été présentée à l'origine. |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro de référence de la déclaration de l'entité déclarante (E) | X(20) | Le numéro de référence unique accordé par l'entité déclarante à la déclaration retournée. |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Partie de la déclaration et numéro du champ (F) | X(6)LJ | La partie et le numéro du champ de la déclaration retournée dans lesquels le problème de qualité a été signalé. |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro séquentiel de l'opération (G) | X(4)LJ | Le numéro séquentiel de l'opération de la déclaration retournée dans laquelle le problème de qualité a été signalé. |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro séquentiel de la répartition (H) | X(6)LJ | Le numéro séquentiel de la répartition de la déclaration retournée dans laquelle le problème de qualité a été signalé. |
+| Indicateur de données variables | X(3)LJ | « : » |
+| Numéro du message de qualité des données (I) | 9(3)LJ | Numéro du message signalant le problème de qualité. Voir la section 9 pour de plus amples renseignements au sujet de ces messages. |
+| Élément de remplissage | X(38)LJ | Espaces |
+
+**Section D : Fin du rapport**
+
+| Étiquette | Description du champ | Format | Commentaires |
+| --- | --- | --- | --- |
+|  | Séparateur | X(132) | Espaces |
+| **D** | Titre de la section | X(129)LJ | « End of report / Fin du rapport » |
+| Élément de remplissage | X(132)LJ | « ======================================================================================== » |
+
+#### 8.1.2 Exemple de message de DRM
+
+**Nota : Faute d'espace, le format du bloc de données n'a pas été maintenu à 132 caractères dans l'exemple ci-dessous.**
+
+```
+
+A  Please review and correct the following report(s):
+A  Veuillez réviser et corriger la ou les déclaration(s) suivante(s) :
+
+A2 Report type / Genre de déclaration                : LCTR
+A3 Date issued by FINTRAC / Date d'envoi par CANAFE  : 20060523
+
+B  RRFA identification / Identification de la DRM
+B2 RRFA number / Numéro de la DRM                                    : 99
+B3 Number of batches involved / Nombre de lots impliqués             : 2
+B4 Number of reports returned / Nombre de déclarations retournées    : 4
+B5 Number of corrections required / Modifications à apporter         : 5
+
+C  Data quality issues / Problèmes de qualité 
+C2 A = RE's identifier number / Numéro d'identification de l'ED
+C2 B = Batch date / Date du lot 
+C2 C = Batch time / Heure du lot 
+C2 D = Batch sequence ID / Numéro séq. d'identification du lot
+C2 E = RE report reference number / Numéro de référence de déclaration de l'ED
+C2 F = Report part and field number / Nos de la partie et du champ de la décl.
+C2 G = Transaction / Opération
+C2 H = Disposition / Répartition
+C2 I = Quality issue code / Code du problème de qualité
+
+C3      A          B         C       D              E          F      G     H    I
+C4 : 1211379 : 20061028 : 000523 : 00003 : XT007889944100  : B1.7   : 1   :    : 329
+C4 : 1211379 : 20061028 : 000523 : 00003 : XT007889944100  : B2.8A  : 1   : 1  : 442
+C4 : 1211379 : 20061029 : 001725 : 00004 : 00QZ0078952123  : C.1    : 1   : 1  : 77
+C4 : 1211379 : 20061029 : 001725 : 00004 : 00RG0078751167  : C.2    : 1   : 1  : 77
+
+D  End of report / Fin du rapport
+=================================================================================================== 
+```
+
+## 9. Validation des déclarations et codes d'erreurs dans le traitement
+
+### 9.1 Règles de validation des déclarations
+
+Les règles de validation des déclarations s'appliquent au niveau des champs des déclarations qui font partie d'un lot accepté afin d'assurer qu'il n'y a pas d'erreurs dans les déclarations (c.-à-d. elles comprennent les champs requis, les champs sont formatés correctement et les données sont valides). Les messages de validation communiqués à la section D de l'accusé de réception du lot indiquent les déclarations rejetées et celles qui comprennent des avertissements au sujet des déclarations acceptées en fonction de ces règles de validation.
+
+Il est possible de télécharger un [tableau des codes de validation](/reporting-declaration/info/api/api-fra) dans la section traitant de la documentation technique. Le tableau comprend une description de la validation mise en application dans chacun des champs des déclarations.
+
+### 9.2 Codes d'erreurs dans le traitement des lots
+
+Les codes d'erreurs dans le traitement des lots vous sont communiqués dans un accusé de réception à la section C (pour un lot rejeté) ou à la section D (pour un lot accepté) du fichier de l'accusé de réception. Ces codes d'erreurs vous seront aussi communiqués dans la section C d'un message de DRM afin d'identifier les problèmes de qualité. Il est possible de télécharger une [table de codes](/reporting-declaration/info/f2r-fra#y1) pour ces messages d'erreurs dans la section traitant de la documentation technique.
+
+Dans la table de codes d'erreurs, certains des codes (par exemple, les codes 400 à 439) ne vous seront transmis que lors du **rejet** complet du fichier de lot. Si votre lot est rejeté, les codes d'erreurs de l'accusé de réception correspondront aux problèmes cernés pendant la tentative de traitement du lot en question. Il se peut que notre traitement du lot ait été arrêté avant la détection de toutes les erreurs présentes.
+
+D'autres codes d'erreurs (comme 9, 77, 372, 442 et 978 à 999) s'appliquent au niveau des **champs** des déclarations au sein d'un lot **accepté**. Ces codes servent à expliquer pourquoi la déclaration a été rejetée ou pourquoi un message d'avertissement a été reçu au sujet d'une déclaration acceptée.
+
+## 10. Désignation des fichiers de lots
+
+Les instructions suivantes portent sur la désignation des fichiers de lots. Elles visent à s'assurer que tous les fichiers de lots d'une entité déclarante ont un nom unique.
+
+### 10.1 Norme de désignation des fichiers de lots
+
+La structure suivante doit être utilisée pour nommer les fichiers de lots :   
+          
+Date\_Heure\_Genre de déclaration.Valeur de l'extension du fichier
+
+Chaque élément est requis, à l'exception du genre de déclaration, comme suit :
+
+* la date est obligatoire (AAAAMMJJ);
+* l'heure est obligatoire (HHMMSS);
+* le genre de déclaration est optionnel (« STR », « LCTR », « EFTO » ou « EFTI »);
+* l'une des extensions de fichier suivantes est obligatoire : « .DAT », « .DATA » ou « .TXT ». Les lots présentant d'autres valeurs d'extension de fichier seront rejetés.
+
+Exemple :         20050722\_223915\_LCTR.DAT
+
+Les noms de fichiers ne doivent comporter que des caractères alphanumériques standards présentés en majuscules ou en minuscules (A à Z et 0 à 9). Le seul séparateur permis est le trait de soulignement « \_ ». Le nom du fichier ne peut présenter qu'un seul point d'extension (par exemple, .dat). Les fichiers dont les noms comportent des espaces seront rejetés.
+
+Dans ce contexte, aucune distinction n'est faite entre une lettre majuscule et une lettre minuscule. Par exemple, le nom de fichier 20050722\_223915\_LCTR.DAT n'est pas distinct de 20050722\_223915\_lctr.DAT.
+
+Tous les fichiers de lots soumis par une entité déclarante à CANAFE doivent être désignés d'un nom unique, sans égard à leur contenu, sinon ils seront rejetés. Ceci est vrai même si le fichier soumis antérieurement a été rejeté et même si vous soumettez une correction de lot.
+
+### 10.2 Norme de désignation des fichiers d'accusé de réception de lots de CANAFE
+
+Le fichier d'accusé de réception que CANAFE vous transmettra portera le même nom que votre fichier de lot reçu initialement, sauf qu'il aura une valeur d'extension différente. L'extension sera « .001 » pour les fichiers de lots ne comportant aucun rejet de lot, ni aucun message de validation des déclarations. Pour les fichiers comportant des rejets ou des messages de validation, l'extension de fichier sera l'une des suivantes :
+
+* **fichier\_nom.002 :** Acceptation de toutes les déclarations, mais certains messages d'avertissement;
+* **fichier\_nom.004 :** Lot accepté, mais avec certaines déclarations rejetées;
+* **fichier\_nom.005 :** Lot rejeté pour des raisons de structure (mauvais nom de fichier, contenu incorrect, comptes de déclarations ne concordant pas, etc.);
+
+### 10.3 Norme de désignation des fichiers de messages de DRM
+
+La structure suivante sera utilisée par CANAFE pour nommer les fichiers de messages de DRM qui vous seront envoyés :
+
+* **RRFA\_DRM\_999999999.txt**
+
+Les « 999999999 » représentent le numéro de la DRM tel que reflété à l'étiquette B2 du message de DRM.
+
+Date de modification :
+:   2017-06-29

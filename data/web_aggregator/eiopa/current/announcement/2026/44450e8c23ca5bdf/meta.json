@@ -1,0 +1,27 @@
+{
+  "doc_id": "44450e8c23ca5bdf",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA publishes the second paper of a series on systemic risk and macroprudential policy in the insurance sector - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-publishes-second-paper-series-systemic-risk-and-macroprudential-policy-insurance-sector-2018-03-21_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:643d5787a25b8fb9c3168b84f7627ea9e857f183089e44f0e1a853962a647690",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/44450e8c23ca5bdf",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-publishes-second-paper-series-systemic-risk-and-macroprudential-policy-insurance-sector-2018-03-21_en",
+  "fetch_method": "html_to_md"
+}

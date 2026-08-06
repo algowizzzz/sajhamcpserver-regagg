@@ -1,0 +1,25 @@
+{
+  "doc_id": "98ba67bc341811da",
+  "regulator_id": "bis_bcbs",
+  "doc_type": "final_rule",
+  "title": "Various technical amendments and frequently asked questions",
+  "language": "en",
+  "source_url": "https://www.bis.org/bcbs/publ/d596.htm",
+  "reference_number": null,
+  "published_date": "2025-06-10",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:16fd4bea1608d6d6d4beabb937ad9d29d2b166877d7e51ab3e306762d320a81e",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_bis_bcbs_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bis_bcbs/current/final_rule/2025/98ba67bc341811da",
+  "tags": [
+    "international",
+    "basel",
+    "prudential"
+  ]
+}

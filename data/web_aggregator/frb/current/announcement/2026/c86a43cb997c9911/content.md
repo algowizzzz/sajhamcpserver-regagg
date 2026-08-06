@@ -1,0 +1,89 @@
+[Skip to main content](#content)
+
+![US Flag](/images/icon-us-flag.svg)
+
+An official website of the United States Government
+
+Here's how you know![Expand More](/images/expand_more.svg)
+
+![.gov icon](https://designsystem.digital.gov/assets/img/icon-dot-gov.svg)
+
+**Official websites use .gov**  
+A **.gov** website belongs to an official government organization in the United States.
+
+![HTTPS icon](https://designsystem.digital.gov/assets/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**  
+A **lock** (LockLocked padlock icon) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[Back to Home](/default.htm)
+[Board of Governors of the Federal Reserve System](/default.htm "Link to Home Page")
+
+* Stay Connected
+  + [Federal Reserve Facebook Page](https://www.facebook.com/federalreserve)
+  + [Federal Reserve Instagram Page](https://www.instagram.com/federalreserveboard/)
+  + [Federal Reserve YouTube Page](https://www.youtube.com/federalreserve)
+  + [Federal Reserve Flickr Page](https://www.flickr.com/photos/federalreserve/)
+  + [Federal Reserve LinkedIn Page](https://www.linkedin.com/company/federal-reserve-board)
+  + [Federal Reserve Threads Page](https://www.threads.net/@federalreserveboard)
+  + [Federal Reserve X Page](https://x.com/federalreserve)
+  + [Federal Reserve Bluesky Page](https://bsky.app/profile/federalreserve.gov)
+  + [Subscribe to RSS](/feeds/feeds.htm)
+  + [Subscribe to Email](/subscribe.htm)
+* [Recent Postings](/recentpostings.htm)
+* [Calendar](/newsevents/calendar.htm)
+* [Publications](/publications.htm)
+* [Site Map](/sitemap.htm)
+* [A-Z index](/azindex.htm)
+* [Careers](/careers.htm)
+* [FAQs](/faqs.htm)
+* [Videos](/videos.htm)
+* [Contact](/aboutthefed/contact-us-topics.htm)
+
+Toggle Dropdown Menu
+
+Main Menu Toggle Button
+Sections
+
+Search Toggle Button
+
+1. [Home](/default.htm)
+2. [News & Events](/newsevents.htm)
+3. [Press Releases](/newsevents/pressreleases.htm)
+
+## Press Release
+
+July 31, 2026
+
+### Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations
+
+For release at 10:00 a.m. EDT
+
+* [Share](# "Share")
+
+The Federal Reserve Board on Friday requested comment on a proposal to modernize rules for mutual banking organizations. These institutions are owned by depositors rather than shareholders, and more than 90 percent have less than $3 billion in total assets.
+
+The Board assumed regulatory and supervisory authority over mutual banks from the Office of Thrift Supervision in 2011. The rules governing these banks were first established in 1993. They have not been updated and have proven over time to be overly burdensome and complex.
+
+"Today's proposal is another important step in our work to modernize the bank regulatory framework by updating mutual bank regulations for the first time in 30 years. The continued success of this model contributes to the institutional diversity of the U.S. banking system, which is one of the greatest strengths of our financial system," said Vice Chair for Supervision Michelle W. Bowman. "This proposal will allow mutual banks to continue to grow and more effectively serve communities across the country, while preserving their unique depositor-owned structure."
+
+The proposal would modernize the framework and increase flexibility for certain mutual banks to raise capital. More specifically, it would clarify which instruments count as regulatory capital and reduce procedural burdens, among other comprehensive updates.
+
+Comments on the proposal are due 60 days after publication in the *Federal Register*.
+
+For media inquiries, please email [[email protected]](/cdn-cgi/l/email-protection#3c515958555d7c5a4e5e125b534a) or call 202-452-2955.
+
+[*Federal Register* notice: Regulatory Modernization and Relief for Mutual Holding Companies (PDF)](/newsevents/pressreleases/files/bcreg20260731a2.pdf)
+
+**Comments:** [Submit](https://www.federalreserve.gov/apps/proposals/FR-2026-0027-01/details "Submit") | [View](https://www.federalreserve.gov/apps/proposals/FR-2026-0027-01/comments "View")
+
+[Board memo (PDF)](/newsevents/pressreleases/files/bcreg20260731a1.pdf)
+
+[Statement by Governor Barr](/newsevents/pressreleases/barr-statement-20260731a.htm)
+
+##### Related Content
+
+* [Board Votes](/aboutthefed/boardvotes.htm)
+
+Last Update:
+July 31, 2026

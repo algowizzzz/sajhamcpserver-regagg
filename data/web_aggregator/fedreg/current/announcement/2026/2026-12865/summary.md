@@ -1,0 +1,1 @@
+Summary: # Nilsine Partners NP1X Fund and Nilsine Partners, LLC

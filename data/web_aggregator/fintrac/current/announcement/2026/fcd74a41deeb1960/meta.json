@@ -1,0 +1,24 @@
+{
+  "doc_id": "fcd74a41deeb1960",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Opportunities for students",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/emplo/students-etudiants-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:749f598a26d11a566ab1af8392a38b24a88008c5e234ad97a47e0d193e069092",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/fcd74a41deeb1960",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

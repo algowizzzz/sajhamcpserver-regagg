@@ -1,0 +1,1 @@
+Summary: # IPG Photonics Q2 Earnings Call Highlights

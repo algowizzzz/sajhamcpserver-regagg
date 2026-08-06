@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12260",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Long-Term Stock Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend its Rules Related to Market Makers",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/18/2026-12260/self-regulatory-organizations-long-term-stock-exchange-inc-notice-of-filing-of-a-proposed-rule",
+  "reference_number": "2026-12260",
+  "published_date": "2026-06-18",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c7a105c8400ad38975c48200aa8b541cdfe21f30f2ffaccda284b3d654c8c933",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12260",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

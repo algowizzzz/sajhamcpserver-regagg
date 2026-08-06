@@ -1,0 +1,27 @@
+{
+  "doc_id": "b6d77c8177c7163a",
+  "regulator_id": "mas",
+  "doc_type": "announcement",
+  "title": "Maintenance",
+  "language": "en",
+  "source_url": "https://www.mas.gov.sg/subscription-services",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:90d1a32d945ce4098be526de93bcff61e52f52462a96adf57e34615e1bd4d50b",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_mas_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/mas/current/announcement/2026/b6d77c8177c7163a",
+  "tags": [
+    "singapore",
+    "banking",
+    "securities"
+  ],
+  "final_url": "https://www.mas.gov.sg/subscription-services",
+  "fetch_method": "html_to_md"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "28eb314c5f4b675f",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "SAR Filing Unveils Customs Fraud | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/sar-filing-unveils-customs-fraud",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:daeb47e54812648afe3c99e89e577f56e38546edce1f74f31b3668a0a0abb138",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/28eb314c5f4b675f",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

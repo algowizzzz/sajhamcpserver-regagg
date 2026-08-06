@@ -1,0 +1,230 @@
+# Relevés d’assurance vie – Section III – Définitions
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Sociétés d’assurance
+
+Relevé
+
+Relevés et instructions des sociétés d’assurance vie
+
+Dernière révision
+
+Juillet 2025
+
+Table des matières
+
+Documentation
+
+* [Révision annuelle des formulaires servant à produire les états financiers des sociétés d’assurance vie et de secours mutuels et de leur guide de production pour 2025](/fr/consignes/repertoire-consignes/2025-revision-annuelle-formulaires-servant-produire-etats-financiers-societes-dassurance-vie-secours)
+* [Relevés des sociétés d’assurance vie](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-societes-dassurance-vie)
+
+## Généralités
+
+Des définitions sont ajoutées aux instructions afin d'aider l'assureur/la société à produire ses relevés.
+
+Ces définitions ne constituent pas une liste exhaustive des termes utilisés en assurance et en comptabilité d'assurance ou à des fins d'interprétation. Elles sont fournies exclusivement aux fins de préparation des relevés trimestriels et annuels VIE.
+
+La Loi sur les sociétés d'assurances et les lois provinciales et territoriales connexes renferment d'autres définitions.
+
+Voici d'autres sources de définitions :
+
+* [Glossary of Insurance Terms (A.M. Best)](https://consumers.ambest.com/content.aspx?rec=261613) (en anglais seulement)
+* [Association canadienne des compagnies d'assurances de personnes](http://www.clhia.ca/domino/html/clhia/clhia_lp4w_lnd_webstation.nsf/page/A9AD923AC775A46485257817005F5B43!OpenDocument)
+* [Risk and Insurance and Risk Management Terms (IRMI](http://www.irmi.com/forms/online/insurance-glossary/terms.aspx#I)) (en anglais seulement)
+
+Aux fins des relevés VIE, les définitions qui suivent prévalent sur celles figurant dans toute source non législative.
+
+Il se peut que les organismes de réglementation interprètent différemment une même expression. L'assureur doit consulter son organisme de réglementation pour obtenir des interprétations techniques.
+
+## Définitions des branches d'assurance
+
+Les branches d'assurance sont définies ci-après à des fins pratiques. Consulter les lois et règlements du principal organisme de réglementation pour en obtenir les définitions officielles.
+
+La séquence des définitions correspond à l'ordre dans lequel les branches sont mentionnées dans les formulaires du relevé.
+
+### Assurance accidents et maladie
+
+L'assurance accidents et maladie s'entend de :
+
+1. l'assurance contre la perte résultant de blessures corporelles ou du décès d'une personne causés par un accident;
+2. l'assurance aux termes de laquelle l'assureur s'engage à verser une ou plusieurs sommes en cas de blessures corporelles ou de décès d'une personne causés par un accident;
+3. assurance contre la perte résultant de la maladie ou de l'invalidité d'une personne, à l'exclusion de toute perte résultant du décès de la personne par suite de la maladie, dans la mesure où cette maladie ou invalidité n'a pas été causée par un accident;
+4. l'assurance aux termes de laquelle l'assureur s'engage à verser une ou plusieurs sommes en cas de maladie ou d'invalidité d'une personne non causée par un accident;
+5. l'assurance aux termes de laquelle l'assureur s'engage à verser une somme pour les soins de santé d'une personne, notamment les soins dentaires et soins préventifs.
+
+### Vie
+
+L'assurance vie s'entend :
+
+1. de toute assurance dont le produit est payable :
+   1. au décès de l'assuré;
+   2. à la survenance d'un événement prévu ou imprévu qui dépend de la vie humaine;
+   3. à une date fixe ou prévisible;
+   4. pour une durée qui dépend de la vie humaine.
+2. Sans restreindre la généralité du sous-alinéa (i), la définition englobe :
+   1. l'assurance aux termes de laquelle un assureur s'engage, en vertu d'un contrat d'assurance-vie, à verser un produit d'assurance supplémentaire au décès accidentel d'une personne dont la vie est assurée;
+   2. l'assurance aux termes de laquelle un assureur s'engage, en vertu d'un contrat d'assurance-vie, à verser un produit d'assurance ou des prestations advenant l'invalidité pour cause de blessure corporelle ou de maladie de la personne dont la vie est assurée;
+   3. l'engagement de servir une rente, ou une somme assimilable à une rente à ceci près que les versements périodiques peuvent être de montants inégaux, pour une durée qui dépend en totalité ou en partie de la vie d'une personne.
+
+## Autres définitions
+
+ACCAP
+:   Association canadienne des compagnies d'assurances de personnes.
+
+Accepter
+:   Accepter un risque d'une société cédante.
+
+Activité auxiliaire
+:   Activité réputée appuyer ou assurer la prestation d'un service pour faciliter les opérations d'assurance ou les placements.
+
+AFC
+:   Association fraternelle canadienne.
+
+Assurance temporaire à reconduction annuelle (TRA)
+:   Proportionnelle à la réassurance d'excédents ou en quote‑part; le réassureur impute un taux de prime TRA qui tient compte du coût annuel de l'assurance.
+
+Assureur‑vie canadien
+:   Assureur‑vie constitué en vertu des lois fédérales ou provinciales.
+
+Assureur‑vie étranger
+:   Assureur‑vie ayant son siège à l'extérieur du Canada et agréé par les instances fédérales afin d'exercer le commerce de l'assurance‑vie, de rentes et d'assurance accidents et maladie par l'entremise de succursales au Canada.
+
+Assuris
+:   Société canadienne d'indemnisation pour les assurances de personnes.
+
+Cession
+:   Transfert de risque à des réassureurs/assureurs.
+
+Coassurance
+:   Méthode de réassurance selon laquelle le réassureur obtient une part proportionnelle de l'ensemble des risques et des flux de trésorerie se rapportant à une police (la cédante peut conserver les frais de police). Le réassureur touche sa part des primes et des prestations, constitue sa part des provisions techniques et verse habituellement à la cédante une allocation représentant sa part des frais d'acquisition et de gestion des polices.
+
+Coassurance modifiée
+:   La seule différence relativement à la coassurance est que la cédante détient les provisions techniques tandis que le réassureur continue d'assumer le risque. La cédante est tenue de payer des intérêts en remplacement du revenu que le réassureur aurait gagné s'il avait détenu les actifs correspondant aux provisions techniques dans son propre portefeuille de placements (voir « Coassurance »).
+
+Coentreprise
+:   Entente contractuelle en vertu de laquelle deux parties ou plus exercent une activité économique soumise à un contrôle conjoint.
+
+Contrôle
+:   Le pouvoir de diriger les politiques financières et opérationnelles d'une entité pour obtenir des avantages de ses opérations, conformément au sens de l'expression aux termes des normes IFRS.
+
+Dépôts des réassureurs
+:   Les dépôts qu'effectue un réassureur non agréé peuvent également être utilisés pour réduire le capital exigé pour la réassurance non agréée, à condition qu'ils réduisent de façon importante le risque présenté par la qualité du crédit du réassureur.
+
+    Se référer à la section IV, Instructions détaillées pour la page 75.070.
+
+EDDV
+:   Entités à détenteurs de droits variables.
+
+Entreprise associée
+:   Entité, y compris entité non constituée en société, par exemple un partenariat, sur laquelle l'investisseur exerce une influence notable et qui n'est ni une filiale ni une participation dans une coentreprise. Influence notable s'entend conformément aux IFRS. La ligne directrice du BSIF sur le test du capital minimal (TCM) donne plus de détails sur la définition d'entreprise associée.
+
+ESCAP
+:   Exigences de suffisance du capital en assurance de personnes (Québec seulement).
+
+Filiale
+:   Au sens des IFRS, une filiale est une entité, y compris une entité non constituée en société tel un partenariat, contrôlée par une autre entité (appelée « société mère »).
+
+Frais de gestion
+:   Frais payés à une personne ou à une société ayant le pouvoir ou la responsabilité de gérer les affaires des fonds distincts et devant notamment gérer le portefeuille de placement des fonds et fournir des conseils en placements à cet égard.
+
+GMR/APMG
+:   Garantie minimale de retrait/Assiette de prestation minimum garantie.
+
+ICA
+:   Institut canadien des actuaires.
+
+Lettres de crédit
+:   Les organismes de réglementation peuvent reconnaître, à titre de garantie, des lettres de crédit approuvées qui sont maintenues au Canada pour réduire le capital autrement requis pour la réassurance non agréée ou une franchise auto‑assurée.
+
+    Se référer à la section V, Normes administratives ainsi qu'à la section IV, Instructions détaillées pour la page 75.070.
+
+Loi
+:   La Loi sur les sociétés d’assurances (LSA) fédérale, la Loi sur les assurances (L.R.Q., ch. A 32) du Québec ou une loi semblable des autres provinces ou territoires.
+
+Membre de l'OCDE
+:   S'entend d'un pays membre de l'Organisation de coopération et de développement économiques.
+
+Numéro d'immatriculation des valeurs mobilières
+:   Numéro attribué par le Committee on Uniform Security Identification Procedures permettant de désigner la plupart des valeurs mobilières, y compris les actions de toutes les sociétés canadiennes et américaines inscrites, de même que les obligations du gouvernement et des municipalités des États‑Unis.
+
+Organisme de réglementation
+:   Organisme fédéral ou provincial chargé de contrôler et réglementer les sociétés qui relèvent de sa compétence. Le principal organisme de réglementation est celui qui délivre l'ordonnance d'agrément ou auprès duquel l'entreprise est constituée en société.
+
+Prêts hypothécaires
+:   * **Hôtellerie –** Inclure les hôtels, les motels, les hôtels à pavillon et les centres de villégiature.
+    * **Immeubles industriels –** Hypothèques grevant des biens immobiliers constitués de bâtiments à vocation principalement industrielle, notamment à des fins d'entreposage ou de fabrication de produits.
+    * **Bureau** - Hypothèques grevant des biens immobiliers constitués de bâtiments utilisés principalement comme bureaux.
+    * **Multifamilial –** Déclarer tous les autres immeubles résidentiels sous « Multifamilial ».
+    * **Autres –** Inclure tous les autres types de biens immobiliers, y compris les terrains vagues.
+    * **Magasins de détail** – Hypothèques grevant des biens immobiliers constitués de bâtiments utilisés principalement comme magasins de détail (comprend les centres commerciaux).
+    * **Résidentiel** – Une hypothèque est dite « résidentielle » lorsqu'elle est garantie par un immeuble résidentiel. Un immeuble résidentiel s'entend d'un bien immeuble consistant en un bâtiment dont la majeure partie de la superficie habitable sert ou doit servir à des fins privées d'habitation. À noter que la définition d'une hypothèque résidentielle diffère de celle applicable aux calculs du [TSAV](/fr/consignes/repertoire-consignes "Répertoire de consignes")/ESCAP.
+    * **Résidence unifamiliale** – Une résidence unifamiliale est un immeuble sans mur mitoyen qui est conçu pour être occupé par une seule famille. À noter que la définition d'une hypothèque résidentielle diffère de celle applicable aux calculs du [TSAV](/fr/consignes/repertoire-consignes "Répertoire de consignes")/ESCAP.
+
+Produit indiciel
+:   Voir la ligne directrice sur le [TSAV](/fr/consignes/repertoire-consignes "Répertoire de consignes")/ESCAP.
+
+Propriétaire bénéficiaire
+:   Le propriétaire bénéficiaire est l'actionnaire ultime qui contrôle les droits de vote associés aux actions.
+
+RAD
+:   Rapport de l'actuaire désigné.
+
+Réassurance
+:   Transfert de tout ou partie d’un risque d’assurance à un autre assureur/société. La société qui cède le risque est dite la « cédante » et celle qui l’assume, le « cessionnaire » ou le « réassureur ».
+
+Réassurance agréée et non agréée
+:   Les expressions « agréé » et « non agréé » permettent de préciser si la réassurance cédée par un assureur/une société fédérale et par un assureur/une société provinciale peut lui être créditée.
+
+    Pour de plus amples renseignements, voir la ligne directrice sur le [TSAV](/fr/consignes/repertoire-consignes "Répertoire de consignes").
+
+Assureurs agréés provinciaux
+:   Les **assureurs agréés** auprès d’une administration sont des assureurs qui détiennent un permis délivré par l’administration en question. Certains organismes de réglementation considèrent également comme assureurs agréés les assureurs et les réassureurs qui ne détiennent pas de permis pour exercer des opérations d’assurance sur leur territoire, mais qui sont constitués en vertu des lois d’une autre administration et détiennent un permis délivré par cette dernière.
+
+    Prière de vérifier auprès de votre principal organisme de réglementation.
+
+    Les **assureurs non agréés** sont des assureurs qui ne détiennent pas un permis délivré par l’organisme de réglementation d’au moins une province et qui ne sont pas agréés auprès du gouvernement fédéral.
+
+Réassurance en excédent de pertes
+:   Les coûts en excédent d'un montant précisé (plein de conservation) sont remboursés à la société cédante jusqu'à concurrence d'une somme maximale définie.
+
+Réassurer
+:   Transférer un risque d'assurance significatif d'un assureur/une société à un autre.
+
+Réassureur non agréé
+:   Voir « Réassurance agréée et non agréée ».
+
+Rente d'invalidité
+:   Une rente d'invalidité s'entend d'une rente qu'un assureur/une société s'engage à verser sous forme de prestations périodiques au détenteur d'une assurance invalidité auquel un règlement important est accordé en raison d'une blessure physique. En est exclue la protection pour invalidité aux termes d'un contrat individuel ou collectif d'assurance accidents et maladie.
+
+Rentes en capitalisation (rentes différées)
+:   Contrats de rente qui en sont à l'étape de la capitalisation des dépôts et primes périodiques faits par les titulaires des contrats incluant le rendement des placements relatif à cette capitalisation.
+
+Rentes en cours de paiement
+:   Contrats de rente qui en sont à l'étape des paiements périodiques.
+
+Société affiliée
+:   Personne ou entité qui contrôle directement ou indirectement une autre personne ou entité ou qui subit un tel contrôle, seule ou conjointement avec une autre personne ou entité.
+
+Société de secours mutuels canadienne
+:   Société de secours mutuels constituée en vertu des lois fédérales ou provinciales.
+
+Société de secours mutuels étrangère
+:   Société de secours mutuels ayant son siège à l'extérieur du Canada et agréé par les instances fédérales afin d'exercer le commerce de l'assurance‑vie, de rentes et d'assurance accidents et maladie par l'entremise de succursales au Canada.
+
+Succursale canadienne
+:   Succursale canadienne d'un assureur-vie étranger/d'une société de secours étrangère qui assure au Canada les risques.
+
+TSAV/TSMAV
+:   Test de suffisance du capital des sociétés d'assurance-vie/Test de suffisance de la marge d'assurance-vie (sociétés fédérales seulement).
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2025-07-16

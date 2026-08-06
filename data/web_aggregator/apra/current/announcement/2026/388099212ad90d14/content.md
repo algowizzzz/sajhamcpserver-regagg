@@ -1,0 +1,53 @@
+[Print](#)
+
+### On this page
+
+### On this page
+
+APRA publishes statistics on superannuation funds on a quarterly basis.
+
+In June 2024 APRA released the inaugural quarterly fund-level statistics. The third in a suite of new publications which leverage new reporting standards implemented in Phase 1 of the Superannuation Data Transformation project to increase transparency in the superannuation industry.  
+  
+The quarterly fund-level statistics contains detailed member demographic information and total fund investments by asset sector types for each APRA regulated superannuation funds with more than six members.  
+  
+APRA intends to expand on the quarterly fund-level statistics to include information on derivatives held by each superannuation fund.
+
+[Quarterly Superannuation Fund Statistics March 2026
+
+XLSX
+359.65 KB
+‧
+22 June 2026](/system/files/2026-06/Quarterly%20Superannuation%20Fund%20Statistics%20March%202026.xlsx)
+
+The database presents the statistics in a database format for each of the topic areas of this publication.  
+     
+Database versions of this publication contain additional back series data where the current period statistics are provided in the Excel version of the publication.
+
+[Quarterly fund-level statistics database version March 2026
+
+ZIP
+1.12 MB
+‧
+22 June 2026](/system/files/2026-06/Quarterly%20fund-level%20statistics%20database%20version%20March%202026.zip)
+
+## Glossary
+
+[Quarterly Superannuation Industry Publication - Glossary](/node/3604) 
+
+## Next release
+
+September 2026 (June 2026 edition)
+
+> ### For more information
+>
+> Email [dataanalytics@apra.gov.au](mailto:dataanalytics@apra.gov.au) or mail to
+>
+> Manager, External Data Reporting  
+> Australian Prudential Regulation Authority  
+> GPO Box 9836, Sydney NSW 2001
+>
+> ### Looking for discontinued publications?
+>
+> [Search historical snapshots of APRA's website on the Australian Government web archive.](http://webarchive.nla.gov.au/gov/*/http://www.apra.gov.au)
+
+## Footnotes

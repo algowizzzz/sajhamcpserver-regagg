@@ -1,0 +1,27 @@
+{
+  "doc_id": "2d0ce1794a293207",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "6ebcbbe4 0d27 4fe2 963f b5cc7bb20f85 en",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/document/download/6ebcbbe4-0d27-4fe2-963f-b5cc7bb20f85_en?filename=JC%202023%2022%20-%20Consolidated%20JC%20PRIIPs%20Q%26As%20-%20December%2018%202023.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d25b55dbaa4b306d40f11e7d3192d81072b724e9385b5d71718569cdbf2c4108",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/2d0ce1794a293207",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/document/download/6ebcbbe4-0d27-4fe2-963f-b5cc7bb20f85_en?filename=JC%202023%2022%20-%20Consolidated%20JC%20PRIIPs%20Q%26As%20-%20December%2018%202023.pdf",
+  "fetch_method": "pdf_to_md"
+}

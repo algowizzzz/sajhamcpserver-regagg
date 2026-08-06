@@ -1,0 +1,1 @@
+Summary: ![Bank and Trust Cropped](/sites/default/files/styles/wide_lead/public/media/2019/01/bank_trust-copped-1.jpg?h=575d7fa3&itok=By_1OMfS "Bank and Trust Cropped")

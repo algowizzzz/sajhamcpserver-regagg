@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations: Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change by Miami International Securities Exchange, LLC Amend Rule 612, Aggregate Risk Manager (ARM), To Adopt a New Origin Multiplier To 

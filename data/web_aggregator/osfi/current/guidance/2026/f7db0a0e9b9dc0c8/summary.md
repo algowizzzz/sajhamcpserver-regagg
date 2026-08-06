@@ -1,0 +1,1 @@
+Summary: # OSFI consults on updates to the Liquidity Adequacy Requirements Guideline

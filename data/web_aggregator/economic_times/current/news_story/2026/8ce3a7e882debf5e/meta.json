@@ -1,0 +1,25 @@
+{
+  "doc_id": "8ce3a7e882debf5e",
+  "regulator_id": "economic_times",
+  "doc_type": "news_story",
+  "title": "No decision yet on merchant discount rate on UPI deals",
+  "language": "en",
+  "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/no-decision-yet-on-merchant-discount-rate-on-upi-deals/articleshow/132978779.cms",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:13263dd2856787802f2b0f329ffcd6ecb91bfaac10c3434e599b218c9d14647d",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_economic_times_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economic_times/current/news_story/2026/8ce3a7e882debf5e",
+  "tags": [
+    "india"
+  ],
+  "final_url": "https://economictimes.indiatimes.com/markets/stocks/news/no-decision-yet-on-merchant-discount-rate-on-upi-deals/articleshow/132978779.cms",
+  "fetch_method": "feed_summary"
+}

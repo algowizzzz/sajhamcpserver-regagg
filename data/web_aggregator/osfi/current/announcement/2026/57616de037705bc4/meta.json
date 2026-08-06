@@ -1,0 +1,25 @@
+{
+  "doc_id": "57616de037705bc4",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Exemption from restriction on being a partner in a partnership - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/transaction-instructions/exemption-restriction-being-partner-partnership",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:89963f66f324dfd96dd9387b79593faa0c3f2a16532f55948ed294c48218bcfe",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/57616de037705bc4",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

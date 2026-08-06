@@ -1,0 +1,25 @@
+{
+  "doc_id": "58f9c16c1acfaa7c",
+  "regulator_id": "economic_times",
+  "doc_type": "news_story",
+  "title": "New framework to standardise interest rate rules on the anvil, says RBI",
+  "language": "en",
+  "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/new-framework-to-standardise-interest-rate-rules-on-the-anvil-says-rbi/articleshow/132978749.cms",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:16f506222f05232f83180e6b6feef5d96404e4950e9382c40c57406fe4e71985",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_economic_times_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economic_times/current/news_story/2026/58f9c16c1acfaa7c",
+  "tags": [
+    "india"
+  ],
+  "final_url": "https://economictimes.indiatimes.com/markets/stocks/news/new-framework-to-standardise-interest-rate-rules-on-the-anvil-says-rbi/articleshow/132978749.cms",
+  "fetch_method": "feed_summary"
+}

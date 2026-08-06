@@ -1,0 +1,3497 @@
+JC 2023 22 
+5 December 2025 
+ 
+ 
+Consolidated questions and 
+answers (Q&A) on the 
+PRIIPs Key Information 
+Document (KID)
+
+2 
+ 
+Table of Contents 
+Acronyms and definitions used............................................................................................................... 3 
+Introduction ............................................................................................................................................ 4 
+I. General topics [Last update 28 June 2024] ..................................................................................... 5 
+II. ‘What is this product?’ section [Last update 15 March 2024] ...................................................... 10 
+III. Market risk assessment (Annex II, Part 1) ..................................................................................... 18 
+A. Product categories [Last update 15 March 2024] ................................................................... 18 
+B. MRM class determination [Last update 05 May 2025] ........................................................... 27 
+IV. Methodology for assessing credit risk (Annex II, Part 2) [Last update 18 August 2017] .............. 31 
+V. Summary Risk Indicator (SRI) (Annex III) [Last update 15 March 2024] ....................................... 36 
+VI. Performance Scenarios (Articles 3 and 8 and Annexes IV and V) [Last update 5 December 2025]
+ 38 
+VII. Past performance (Annex VIII) [Last update 15 March 2024] ....................................................... 50 
+VIII. PRIIPs with a RHP of less than one year [Last update 21 December 2022] .................................. 54 
+IX. Derivatives [Last update 21 December 2022] ............................................................................... 55 
+X. Multi-option products (MOPs) [Last update 05 December 2023] ................................................ 62 
+XI. Investment funds [Last update 05 December 2023]..................................................................... 65 
+XII. Autocallable products [Last update 14 November 2022] ............................................................. 67 
+XIII. Methodology for the calculation of costs ..................................................................................... 68 
+A. List of costs of investment funds (except transaction cost related questions) (Annex VI, Part 1) 
+[Last update 21 December 2022]...................................................................................................... 68 
+B. Transaction costs (Points 7-23 of Annex VI, Part 1) ...................................................................... 71 
+a. Methodology set out in Point 21 of the Annex VI of the Commission Delegated Regulation 
+(standardized costs) [Last update 21 December 2022] ................................................................ 71 
+b. Other Q&A on transaction cost related issues [Last update 21 December 2022] .................... 73 
+C. List of costs of PRIPs other than investment funds (Annex VI, Part 1) [Last update 21 December 
+2022] ................................................................................................................................................. 76 
+D. List of costs of insurance-based investment products (Annex VI, Part 1) [Last update 21 
+December 2022] ............................................................................................................................... 80 
+E. Calculation of the summary cost indicators (Annex VI, Part 2) [Last update 05 May 2025] ........ 81 
+F. Presentation of costs (Annex VII) [Last update 15 March 2024] .................................................. 83 
+G. Other topics on costs [Last update 4 July 2017] ........................................................................... 87 
+Appendix I ............................................................................................................................................. 88 
+Standardised transaction costs: examples of calculation [Last update 4 July 2017] ........................ 88
+
+3 
+ 
+Acronyms and definitions used 
+ 
+AIF  Alternative Investment Fund 
+CCP  Central Counterparty 
+CDS  Credit Default Swap 
+CRM  Credit Risk Measure 
+ETD  Exchange traded derivative 
+FX  Foreign Exchange 
+IPO  Initial Public Offering 
+KID  Key Information Document  
+MOP  Multi-option Product 
+MRM  Market Risk Measure 
+MTF  Multilateral Trading Facility 
+NAV  Net Asset Value  
+OTC  Over The Counter  
+PCA  Principal Component Analysis 
+PRIP  Packaged Retail Investment Product 
+PRIIP  Package Retail and Insurance-based Investment Product  
+Q&A  Question and Answer 
+RHP  Recommended holding period 
+RIY  Reduction in Yield 
+SRI  Summary Risk Indicator  
+UCITS  Undertakings for Collective Investment in Transferable Securities 
+VaR  Value-at-risk 
+VEV  VaR-Equivalent Volatility
+
+4 
+ 
+Introduction 
+These Q&As concern Regulation (EU) No 1286/2014 (the PRIIPs Regulation) and its Delegated Acts  
+(the PRIIPs Delegated Regulation).  
+ 
+The original delegated rules are found in Commission Delegated Regulation (EU) 2017/653. However, 
+this has been amended, in particular by Commission Delegated Regulation (EU) 2021/2268. The rules 
+in Commission Delegated Regulation (EU) 2021/2268 are, in general, applicable from 1 January 2023.  
+Following the Q&A publication of 14 November 2022 this document includes Q&As that relate to the 
+amendments introduced in Commission Delegated Regulation (EU) 2021/2268 that are applicable on 
+1 January 2023.  
+Given that  some Q&As published since 2017 concerned requirements that were amended by 
+Commission Delegated Regulation (EU) 2021/2268 , these Q&As needed to be revised or deleted. 
+These revisions or deletions were published on 21 December 2022 and in these cases it is specifically 
+indicated underneath the answer.  
+ 
+  
+This consolidated document combines responses given by the European Commission to 
+questions requiring the interpretation of Union Law according to Article 16b(5) of the ESA 
+Regulations, which are colour coded in blue , and responses generated by the ESAs relating to 
+the practical application or implementation of the PRIIPs Regulation and its Delegated Acts under 
+Article 16b(1) of the ESA Regulations, which are not colour coded. 
+Disclaimer: The answers provided by the European Commission in this document clarify 
+provisions already contained in the applicable legislation. They do not extend in any way the 
+rights and obligations deriving from such legislation nor do they introduce any additio nal 
+requirements for the concerned operators and competent authorities. The answers are merely 
+intended to assist natural or legal persons, including competent authorities and Union 
+institutions and bodies in clarifying the application or implementation of  the relevant legal 
+provisions. Only the Court of Justice of the European Union is competent to authoritatively 
+interpret Union law. The views expressed in the internal Commission Decision cannot prejudge 
+the position that the European Commission might take before the Union and national courts.
+
+5 
+ 
+I. General topics [Last update 28 June 2024] 
+ 
+1. Does the categorisation of a retail investor depend on the definition in Directive 2014/65/EU?   
+Yes, in accordance with Article 4(6) of the PRIIPs Regulation. 
+It is noted that in addition to the categories of “professional clients” and “retail client” in Directive 
+2014/65/EU a number of Member States have introduced further categories (such as “qualifying 
+investor”, “informed investor”, or “semi-professional investor”) which, by their definition, share some, 
+but not all elements of the definition of “professional client” pu rsuant to P oint 10 of Article 4(1) of 
+Directive 2014/65/EU. The obligation in the PRIIPs Regulation to provide a KID extends to all investors 
+that do not meet the criteria laid down in Annex II of Directive 2014/65/EU, irrespective of any 
+additional categorisation provided for in national law. 
+(Answer provided by the ESAs on the application of the PRIIPs Regulation , published on 18 August 
+2017) 
+ 
+ 
+2. Is a KID always required when an investment product is listed on a regulated market?  
+A manufacturer is not required to draw up a KID for a product listed on a regulated market when they 
+have defined the product as meant only for non-retail investors  
+(Answer provided by the ESAs on the application of the PRIIPs Regulation, published on 20 November 
+2017) 
+ 
+ 
+3. The Delegated Regulation uses terms “biometric risk premium” and “insurance premium”. Do these 
+terms have the same meaning? 
+The Delegated Regulation defines the term “biometric risk premium” in point 54 of Annex VI. The term 
+“insurance premium payment” in the second sub paragraph of Article 2(4) and the term “insurance 
+premium” at the top of Templates A and B of Annex V - Single or Regular premiums paid – are 
+considered to have the same meaning as biometric risk premium.  
+It can be added that some of the references to “premiums” in the Delegated Regulation, for example 
+in the first sub paragraph of Article 2(4) the terms “overall premium”, “premium” or “annual premium”, 
+refer to the total amount paid or total annual payment s made by the retail investor. The term 
+“Investment” at the top of Templates A and B of Annex V – Single or Regular premiums paid - also refers 
+to the total amount paid or total annual payments. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation , published on 
+20 November 2017)
+
+6 
+ 
+4. Does the KID need to be published on the public section of a website?  
+Yes, in order to comply with the obligation laid down in Article 5(1) of the PRIIPs Regulation, a PRIIP 
+manufacturer must publish a KID on the public section of its website. As reasoned in Recital 12 of the 
+PRIIPs Regulation, the publication ensures the widespread dissemination and availability of KIDs. 
+(Answer provided by the ESAs on the application of the PRIIPs Regulation, published on 19 July 2018) 
+ 
+ 
+5. What aspects should be considered by the manufacturer when determining the RHP of a PRIIP? 
+In accordance with Article 8(3)(g)(ii) of the Regulation and Articles 2(5) and 6 of the Delegated 
+Regulation, as well as the RHP, the PRIIP manufacturer needs to consider if there is a minimum required 
+holding period and if there is a maturity date when preparing the KID.  
+The minimum required holding period covers the period of time where the PRIIP does not offer 
+potential early exit or redemption possibilities, if any. The maturity date is the term of the product, 
+where the product has a fixed end date. The RHP represents the view of the PRIIP manufacturer 
+regarding a recommended period of time for the retail investor to hold the product.  
+The dates of these time periods can coincide, e.g. in the case of open-ended products (i.e. where there 
+is no maturity date) that the PRIIP manufacturer considers that the minimum required holding period 
+can be recommended, or e.g. in the case of fixed -term products that the maturity date can be 
+recommended. In many cases such coincidence may be reasonable, for example this is expected to be 
+the case for many investment funds, insurance -based investment products and structured bonds. 
+However, for some PRIIPs it may not be, for example it is expected that for certain derivatives it is not 
+recommended to hold the product until the maturity date. Therefore, the RHP should not automatically 
+be either the minimum required holding period or the maturity date.  
+Rather, when deciding on the RHP, the manufacturer needs to consider how long it might be advisable 
+for the targeted retail investor to be prepared to hold a product in view of the characteristics or 
+underlying financial structure of the product, such as its risk/reward profile, capital guarantees and cost 
+structure. There may also be other considerations, such as the tax implications where these apply at 
+the level of the product, (for example this may be relevant for some insurance -based investment 
+products). Considering that the risk indicator, as well as (some of) the return and costs figures are based 
+on the RHP, the selection of a RHP that is markedly different from how the manufacturer can reasonably 
+anticipate that the PRIIP is likely to be used by th e targeted retail investors may increase the risk of 
+misleading those investors as regards the true risks and returns that the PRIIP might provide. The 
+manufacturer may also use evidence of how similar products have been used by the intended retail 
+investors, or when reviewing the KID over time have evidence of how the product has been used by 
+retail investors (in this respect there is a link to the product governance arrangements required by 
+MiFID and IDD). 
+For example in terms of the link between a product’s characteristics and the RHP, for “return target” 
+and guaranteed products the RHP is expected to result from the analysis of the underlying mechanisms 
+of protection or guarantee. Its calculation requires a careful analysis of each component comprised in 
+the financial structure in order to get a clear picture of how any single protection or guarantee 
+mechanism actually works. In “risk target” or “benchmark” products, the RHP is expected to be 
+determined according to the criterion of the costs break -even, given the degree of risk of the product. 
+From the retail investor’s perspective, the RHP is not expected to be less than the minimum time period 
+within which the costs incurred may be amortized, taking into account the risks embedded in their
+
+7 
+ 
+financial engineering. In other words, the link between the risk and the potential returns of the PRIIP 
+can be fully appreciated only over the RHP.  
+The above elements should be considered when preparing the brief description of the reasons for the 
+selection of the RHP (Article 6(a) of the Delegated Regulation) as well as the information on the main 
+factors upon which the return of the product depends in accordance with Article 2(2) of the Delegated 
+Regulation. 
+At the same time, the selection of a RHP by the PRIIP manufacturer does not necessarily mean that only 
+that period would be a reasonable holding period. There may be products where different holding 
+periods are considered equally or similarly viable. This aspect could be reflected in this brief description 
+(Article 6(a) of the Delegated Regulation), including by describing other possible holding periods. 
+However, since the RHP is used as a basis for the risk, performance and cost figures, it should be clear  
+in the section ‘How long should I hold it and can I take money out early?’ the time period that has been 
+selected for the purposes of preparing the KID, including in the highlighted text ‘Recommended 
+[required minimum] holding period: [x]’. 
+Further, considering that retail investors may decide to use the product in a different way, or their 
+personal circumstances may change, the relevant implications of not holding the PRIIP for the RHP 
+should be clearly shown in the KID. For example, the inv estor should be warned if the risk of the PRIIP 
+is significantly higher if it is held for shorter or longer than the RHP (see Article 3(2)(d) of the Delegated 
+Regulation), as well as regarding the implications of disinvestment in the section ‘How long shou ld I 
+hold it and can I take my money out early?’ as set out in points (b) and (c) of Article 6 of the Delegated 
+Regulation. 
+(Answer provided by the ESAs on the application of the PRIIPs Regulation and Delegated Regulation, 
+published on 4 April 2019) 
+ 
+ 
+6. How does Article 15(2)(c) of the Delegated Regulation regarding the review of the KID apply to the 
+different holding periods shown? If the mean return for the PRIIP's moderate performance scenario, 
+expressed as an annualised percentage return, has changed by more than five percentage points for 
+at least one of the holding periods should an update be made?  
+This provision applies to all holding periods for the moderate performance scenario (at 1 year, half the 
+recommended holding period and the recommended holding period, as applicable, based on the length 
+of the recommended holding period of the PRIIP), i.e.  where the annualised percentage return has 
+changed by more than five percentages points for at least one of the holding periods shown.   
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation , published on 
+17 December 2021) 
+ 
+ 
+7. Is it possible to signpost to a glossary?  
+Yes, a glossary may be used to provide additional information. However, the relevant legislative 
+requirements need to be taken into account, such as that the KID shall be a stand -alone document 
+(Article 6(2) of the PRIIPs Regulation), containing informatio n on all of the key features of the product 
+and be understandable by itself, written in a language that is “clear, succinct and comprehensible”, and
+
+8 
+ 
+of a maximum of three sides (Article 6(4) of the PRIIPs Regulation). This means that where terminology 
+is used in the KID that may not be comprehensible to the type of retail investor targeted, the term 
+should be explained within the KID. If a glossary is used, it should be easily accessible from the KID, such 
+as via a hyperlink, and referred to in the ‘Other relevant information’ section of the KID.   
+(Answer provided by the ESAs on the application of the PRIIPs Regulation, published on 14 November 
+2022) 
+ 
+ 
+8. Is it possible to show the complete name of the PRIIP when first mentioned in the KID and then simply 
+refer to it as “the product” or “the Fund” thereafter? 
+Yes, an appropriate short form can be used after the full name has been stated and the same approach 
+can be taken for share classes of funds with a reference to “the share class of the fund/product”, as 
+well as for other types of PRIIPs, such as insurance-based investment products. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 14 
+November 2022) 
+ 
+ 
+9. It should be clarified in Annex I of the Delegated Regulation, where the name of the group should be 
+included and whether it should be shown in bold. 
+Where applicable, the name of the group should be included as part of the “Name of the PRIIP 
+manufacturer”. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on  
+14 November 2022) 
+ 
+ 
+10. Prior to 1 January 2023 is it possible to prepare a KID based on the new requirements in Commission 
+Delegated Regulation (EU) 2021/2268, for example for a product launched between September and 
+December 2022 or a product with a subscription period that run s from 2022 into 2023? 
+The requirements in Commission Delegated Regulation (EU) 2021/2268 do not apply until 1 January 
+2023. Therefore, all KIDs published prior to that point need to comply with the existing requirements 
+in Commission Delegated Regulation (EU) 2017/653. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published  on 
+14 November 2022) 
+ 
+ 
+11. If a product, linked to a single ISIN code, is available in both the single and recurring premium 
+versions, it is possible to provide a representation of the riskier version of the two by reporting in the 
+other relevant information section the possibility of purchasing the other version of the product?
+
+9 
+ 
+The PRIIPs Delegated Regulation does not prescribe the approach to be used where a product allows 
+both single and regular premium payments to be made. However, it is not compliant with the KID 
+template to include separate values for the risk, performance a nd cost information for single and 
+regular premium payments in the same KID. In order to show this information, separate KIDs would 
+need to be prepared.     
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published  on 
+05 December 2023) 
+ 
+12. Please clarify the term "PRIIPs open to subscription"?  
+The term ‘other PRIIPs open to subscription’ in Article 8(3), second subparagraph of the PRIIPs 
+Delegated Regulation is relevant only for Category 2 PRIIPs (Annex II, Part 1, point 5 of the PRIIPs 
+Delegated Regulation). 
+It covers cases where new contracts for such PRIIPs can be concluded or shares in such PRIIPs can be 
+subscribed to by retail investors. This includes the following cases regarding such Category 2 PRIIPs:  
+- If existing as well as new customers would conclude new contracts or subscribe to new shares - in 
+both these cases, the PRIIP would be open to subscription.  
+- PRIIPs that can be purchased by retail investors on secondary markets.  
+- Other PRIPs, besides UCITS and open -ended AIFs, which are in a subscription or marketing phase, 
+for example closed-ended AIFs in their marketing phase. 
+- All such products in which new or existing retail investors are able to invest additional amounts or 
+premiums, but would not include products in which it is only possible for existing retail investors 
+to continue to make previously agreed regular payments (e.g. for a fund regular savings plan) or 
+premiums (e.g. for a regular premium insurance -based investment product), as no new 
+subscriptions would be made in this case. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+15 March 2024) 
+ 
+13. Do FX forwards fall within the scope of the PRIIPs Regulation? 
+Yes. 
+Article 4(1) of the PRIIP Regulation defines PRIP as an investment, where, regardless of the legal form 
+of the investment, the amount repayable to the retail investor is subject to fluctuations because of 
+exposure to reference values or to the performance of one or more assets which are not directly 
+purchased by the retail investor. Under Article 4(3), PRIIPs are defined as a product that is a PRIP and/or 
+an insurance-based investment product. 
+FX forwards are financial instruments under point 4 of Annex C to Directive 2014/65/EU. Their value, 
+and consequently the amount repayable to investors, fluctuates during the holding period in response 
+to changes in relevant interest rates and FX rates. As a result, they should be considered as PRIPs within 
+the meaning of Article 4(1) and as PRIIPs within the meaning of Article 4(3) of the PRIIPs Regulation.  
+(Answer provided by the European Commission on the interpretation of the PRIIPs Regulation, 
+published on 28 June 2024)
+
+10 
+ 
+II. ‘What is this product?’ section [Last update 15 March 2024] 
+ 
+1. Does Article 2(2a)(d) of the Delegated Regulation require a UCITS or AIF to provide a clear indication 
+of whether it is actively or passively managed?  
+Yes. Article 2a(d) of the Delegated Regulation requires that a UCITS or AIF either has an index tracking 
+objective, or alternatively allows for discretionary choices, and in both cases this must be disclosed in 
+the objectives section of the KID.  
+In the case of index-tracking UCITS or AIFs, using the terms ‘passive’ or ‘passively managed’ in addition 
+to ‘index -tracking’ is recommended practice in order to assist investor understanding. A UCITS 
+management company or an AIF manager should consider pr oviding additional wording to ensure the 
+meaning of the term ‘passive’ or ‘passively managed’ is clear. An index -tracking (passive) UCITS or AIF 
+must disclose the index it is tracking and show performance against that index in the information 
+published on past performance.  
+An actively managed UCITS or AIF is one where the manager has discretion over the composition of its 
+portfolio, subject to the stated investment objectives and policy. As opposed to a passive UCITS or AIF, 
+an active UCITS or AIF does not have an index -tracking objective although it may include or imply 
+reference to a benchmark. A spectrum exists regarding the level of discretion active UCITS or AIFs may 
+wish to take or be permitted to take against a benchmark index. Some active UCITS or AIFs take a lower 
+level of risk against a benchmark index than others, and some are managed without any reference to a 
+benchmark index at all.  
+Nevertheless, it should be equally clear to investors where the UCITS or AIF is actively managed. 
+Explicitly using the terms ‘active’ or ‘actively managed’ is recommended practice in order to assist 
+investor understanding, and a UCITS management company or  an AIF manager should consider 
+providing additional wording to ensure the meaning of the term ‘active’ or ‘actively managed’ is clear.  
+Active UCITS or AIFs which are managed in reference to an index must provide additional disclosure on 
+the use of the benchmark index (Article 2a(d)) and show past performance against it (Point 11 of Annex 
+VIII)). They must also indicate the degree of freed om from the benchmark (see Q&A 3 in this section). 
+Point 11 of Annex VIII requires active UCITS or AIFs managed in reference to a benchmark index to 
+display past performance against that benchmark. 
+It should be clear which benchmark index (or indices) the UCITS or AIF is tracking or is being managed 
+in reference to. Where more than one version of a benchmark index is published (for example a total 
+return version, price return version, etc.), it should be clear which version is being used by the UCITS or 
+AIF.  
+To assist investor understanding, it is recommended practice that active UCITS or AIFs which are not 
+managed in reference to any benchmark should also make this clear to investors (see Q&A 2 in this 
+Section).
+
+11 
+ 
+This information is summarised in the following graphic, which is also applicable to Q&As 2 and 3 below 
+in this section and Q&A 2 in the section ‘Past performance’. 
+The information disclosed in the UCITS or AIF KID should be consistent with the UCITS or AIF’s objectives 
+and investment policy in the legal and regulatory documents of the fund.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on  
+14 November 2022) 
+ 
+ 
+2. What is the meaning of ‘whether this approach includes or implies a reference to a benchmark’ in 
+Article 2a(d) of the Delegated Regulation?  
+A UCITS or AIF managed in reference to a benchmark index is one where the benchmark index plays a 
+role in the management of the UCITS or AIF, for example, in the explicit or implicit definition of the 
+portfolio’s composition and/or the UCITS or AIF’s performance objectives and measures. This reference 
+may be present at the outset of a UCITS or AIF’s existence, or may be introduced during its lifecycle; in 
+both cases it should be disclosed. Ultimately, the onus is on the UCITS management company or AIF 
+manager to identify whether the UCITS or AIF is in practice managed in reference to a benchmark index. 
+However, the following are (non-exhaustive and non-cumulative) examples of where an approach may 
+include or imply reference to a benchmark index and where a U CITS or AIF should disclose that it is 
+managed in reference to that benchmark index: 
+Portfolio composition  
+• The UCITS or AIF uses a benchmark index as a universe from which to select securities. This applies 
+even if only a minority of securities listed in the index are held in the portfolio and the weightings 
+of the UCITS or AIF’ portfolio holdings diverge from their equivalent weighting in the index.   
+• The UCITS or AIF portfolio holdings are based upon the holdings of the benchmark index. For 
+example:  
+o The individual holdings of the UCITS or AIF’ portfolio do not deviate materially from those 
+of the benchmark index.  
+o Monitoring systems are in place to limit the extent to which portfolio holdings and/or 
+weightings diverge from the composition of the benchmark index.  
+ 
+Does the UCITS have ‘an index tracking objective’?
+Is the UCITS managed in reference to a benchmark?
+NO – active UCITS
+NOYES – benchmark-referenced UCITS
+The KID should:
+- State the UCITS is active
+- State the UCITS is managed in 
+reference to a benchmark
+- Name the benchmark
+- Indicate the degree of freedom 
+from the benchmark
+Show past performance against the 
+benchmark
+The KID should:
+- State the UCITS is active
+- State the UCITS is NOT 
+managed in reference to a 
+benchmark
+Show past performance of the 
+UCITS only
+The KID should:
+- State the fund is passive / has 
+an index tracking objective
+- Name the index in the objective 
+and investment policies
+Show past performance against 
+index
+YES – passive UCITS
+
+12 
+ 
+• The UCITS or AIF invests in units of other UCITS or AIFs in order to achieve similar performance to 
+a benchmark index 
+Performance measures  
+• Performance fees are calculated based on performance against a reference benchmark index.  
+• The UCITS or AIF has an internal or external target to outperform a benchmark index.  
+• Contracts between the UCITS management company or AIF manager and third parties, such as the 
+Investment Management Agreement covering delegation of investment management, or between 
+the UCITS management company or AIF manager and its directors and employee s, state that the 
+portfolio manager must seek to outperform a benchmark index.  
+• The individual portfolio manager(s) receive(s) an element of performance -related remuneration 
+based on the fund’s performance relative to a benchmark index.  
+• The UCITS or AIF is constrained by internal or external risk indicators that refer to a benchmark 
+index (e.g. tracking error limit, relative VaR for global exposure calculation).  
+• Marketing communications issued by the UCITS management company or AIF manager to one or 
+more investors or potential investors shows the performance of the fund compared with a 
+benchmark index. 
+For clarity, a benchmark index may refer to an individual index or composite index comprised of more 
+than one index / a basket of indices.  
+For additional clarity on disclosure of benchmarks, see the graphic in the previous Q&A (Q&A 1 of this 
+section).  
+To assist investor understanding, it is recommended that UCITS or AIFs which are not managed in 
+reference to a benchmark index also make this clear to investors.  
+To ensure fair, clear and not misleading communications, the information disclosed in the UCITS or AIF 
+KID should be consistent with the UCITS or AIF’s Investment Objectives in the legal and regulatory 
+documents of the fund. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on  
+14 November 2022) 
+ 
+ 
+3. What is the meaning of indicating ‘the degree of freedom from the benchmark’ in Article 2a(d) of the 
+Delegated Regulation?  
+To satisfy the requirements of this element of the Article, investors should be provided with an 
+indication of how actively managed the UCITS or AIF is, compared to its reference benchmark index. 
+The KID should strike a balance between providing the level of detail required to sufficiently disclose a 
+UCITS or AIF’s degree of freedom from a benchmark index, and the obligation to do so in clear language 
+understandable to a retail investor.  
+On this basis, the UCITS management company or AIF managers should at least take into account the 
+following elements when indicating in the KID the degree of freedom from the benchmark index for 
+actively managed UCITS or AIFs whose investment approach incl udes or implies a reference to a 
+benchmark index: 
+a) The description of the underlying investment universe of the UCITS or AIF should indicate to what 
+extent the target investments are part of the benchmark index or not.
+
+13 
+ 
+b) The KID should describe the degree or level of deviation of the UCITS or AIF in regards to the 
+benchmark index, thereby considering, where applicable, the quantitative and/or qualitative 
+deviation limitations underlying the investment approach (e.g. risk l imits defined by reference to 
+the benchmark index such as tracking error) as well as the narrowness of the investment universe. 
+In this context UCITS or AIFs may, when necessary for investor understanding, also disclose 
+quantitative metrics (e.g. precise internal limits on tracking error etc.).  
+Unless stricter requirements specific to a Member State apply, UCITS or AIFs which are actively 
+managed in reference to a benchmark index are not required to numerically quantify the degree of 
+freedom by outlining for instance expected tracking error, acti ve share, or other metrics in order to 
+provide a quantitative indication. However, where the UCITS management company or AIF manager 
+believes such information will assist investor understanding, it may do so by providing explanations in 
+language sufficiently comprehensible to retail investors.  
+Some examples of wording that is likely to be acceptable when indicating the degree of freedom from 
+the benchmark index in the KID can be found below. These examples are for illustrative purposes only 
+and are non-exhaustive: 
+1. Regarding point a) above: “The majority of the Sub-Fund’s equity securities will be components of 
+and have similar weightings to the Benchmark. The Investment Manager may use its discretion to 
+invest in companies or sectors not included in the Benchmark in order to take advantage of specific 
+investment opportunities.”  
+2. Regarding point b) above: “The investment strategy will restrict the extent to which the portfolio 
+holdings may deviate from the ABCD index. This deviation may be [limited]/[material]/[significant]. 
+This is likely to limit the extent to which the Sub-Fund can outperform the ABCD Index. Deviations 
+from the ABCD index are limited by a target tracking error of [X] [accompanied by a clear, concise 
+description of the quantitative indicator’s meaning]”.  
+Where a UCITS or AIF has a defined strategy to vary the risk it will take against an index, this should be 
+disclosed. For example, where a UCITS or AIF is structured in order to be managed in alignment with an 
+index during periods of market volatility, it should disclose this. This does not imply that the KID should 
+be updated to reflect very short-term / one-off variations in the investment strategy during a UCITS or 
+AIF lifecycle, as long as the capacity for such variations has been previously disclosed.  
+For additional clarity on disclosure of benchmarks, see the graphic in Q&A 1 of this section above.  
+To ensure fair, clear and not misleading communications, the information disclosed on past 
+performance should be consistent with the UCITS or AIF’s Investment Objectives in the legal and 
+regulatory documents of the fund. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+14 
+ 
+4. What type of information should be included in the “What is this product?” section of the KID of 
+index-tracking UCITS and index-tracking leveraged UCITS? 
+For index-tracking UCITS, the following information should be included in a summary form in the “What 
+is this product?” section: 
+a) a clear description of the indices including information on their underlying components. In order 
+to avoid the need to update the document frequently, the KID can direct investors to a web site 
+where the exact compositions of the indices are published;  
+b) information on how the index will be tracked (for example whether it will follow a full or sample 
+based physical replication model or a synthetic replication) and the implications of the chosen 
+method for investors in terms of their exposure to the underlying index and counterparty risk;  
+c) information on the anticipated level of tracking error in normal market conditions;  
+d) a description of factors that are likely to affect the ability of index -tracking UCITS to track the 
+performances of the indices, such as transaction costs, small illiquid components, dividend 
+reinvestment etc.  
+For index-tracking leveraged UCITS, the following information should be included in a summary form in 
+the “What is this product?” section:  
+a) a description of the leverage policy, how this is achieved (i.e. whether the leverage is at the level 
+of the index or arises from the way in which the UCITS obtains exposure to the index), the cost of 
+the leverage (where relevant) and the risks associated with this policy;  
+b) a description of the impact of any reverse leverage (i.e. short exposure);  
+c) a description of how the performance of the UCITS may differ significantly from the multiple of the 
+index performance over the medium to long term. 
+The summary information included in the KID needs to reflect the relevant legislative requirements in 
+the PRIIPs Regulation, such as that the language used is clear, succinct and comprehensible to the retail 
+investor. 
+(Answer provided by the ESAs on the application of the PRIIPs Regulation and Delegated Regulation, 
+published on 14 November 2022) 
+ 
+ 
+5.  How should UCITS ETFs be identified in the KID, and what information should be included in the 
+“What is this product?” section of the KID? 
+A UCITS ETF should use the term ‘UCITS ETF’ which identifies it as an exchange-traded fund. This should 
+be used as the “Type” of PRIIP in the KID (Article 2(1) of the Delegated Regulation) and this should be 
+used in all EU languages. A UCITS which is not a  UCITS ETF (as defined in the ESMA guidelines on ETFs 
+and other UCITS issues 1) should use neither the ‘UCITS ETF’ identifier nor ‘ETF’ nor ‘exchange -traded 
+fund’.  
+ 
+1 https://www.esma.europa.eu/sites/default/files/library/2015/11/esma-2014-0011-01-00_en_0.pdf
+
+15 
+ 
+A UCITS ETF should disclose clearly in the “What is this product section?” of the KID the policy regarding 
+portfolio transparency and where information on the portfolio may be obtained, including where the 
+indicative net asset value, if applicable, is published. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on  
+14 November 2022) 
+ 
+ 
+6. How should actively -managed UCITS ETF be identified in the KID, and what information should be 
+included in the “What is this product?” section of the KID? 
+An actively -managed UCITS ETF should inform investors clearly in the KID of that fact and should 
+disclose clearly in the “What is this product?” section how it will meet the stated investment policy 
+including, where applicable, its intention to outperform an index. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on  
+14 November 2022) 
+ 
+ 
+7. What is the difference between a "benchmark" and a "proxy" within the meaning of the Delegated 
+Regulation? If an AIF does not have a sufficient historical price time-series and the PRIIP manufacturer 
+therefore calculates the MRM class and/or performance sc enarios using the historical prices of a 
+comparable AIF, is the other AIF a benchmark that must be disclosed in the section "What is this 
+product?" of the key information document according to Article 2(2a)(d) of the Delegated 
+Regulation? And in this case, is the past performance of the other AIF to be published on the website 
+of the PRIIP manufacturer pursuant to Annex VIII, Point 11 of the Delegated Regulation?  
+Benchmarks are expected to be indexes, such as of stocks, bonds, interest rates or commodities, that 
+can be used to measure the performance of investment funds. The existence of a benchmark for a 
+particular AIF relates to how the fund is designed and manag ed, and specifically whether the 
+management of the AIF includes or implies a reference to a benchmark in accordance with Article 
+2(2a)(d) of the PRIIPs Delegated Regulation . In this case, the benchmark needs to be described in the 
+‘What is this product?’ s ection. Additionally, if it is an AIF that is required to publish past performance 
+(point 1(b) of Annex VIII of the PRIIPs Delegated Regulation), this shall also include the past performance 
+of this benchmark in accordance with point 11 of Annex VIII of the PRIIPs Delegated Regulation. Where 
+there are not sufficient historical prices for the AIF itself, but there are sufficient historical prices for this 
+benchmark of the AIF, the benchmark is expected to be appropriate for the purpose of calculating the 
+MRM class and if so, it should be used for the calculation. Similarly, this benchmark should be used for 
+the performance scenario calculations, in accordance with the conditions set out in point 12 of Annex 
+IV of the PRIIPs Delegated Regulation (case 2). 
+However, there might be other cases, where the AIF does not have a benchmark in the sense that Article 
+2(2a)(d) of the PRIIPs Delegated Regulation does not apply, but where a separate benchmark exists in 
+the market that is reasonable to use to calculate the MRM class or performance scenarios. In this case, 
+the benchmark needs to be appropriate, i.e. representative in accordance with point 7, second 
+subparagraph of Annex II and point 16 of Annex IV of the PRIIPs Delegated Regulation. This includes the 
+requirement that such benchmarks fulfil the necessary criteria regarding the frequency and length of 
+price history, and as such that this price data exists in the market (e.g. it cannot be generated 
+synthetically, such as by using estimations, artificial intelligence-models or algorithms). The other cases
+
+16 
+ 
+include case 3 in Annex IV of the PRIIPs Delegated Regulation, where it can be possible for an AIF to use 
+a benchmark regulated by Regulation (EU) 2016/1011 to calculate performance scenarios. By definition, 
+case 3 does not include benchmarks that need to be referred to in the ‘What is this product?’ section, 
+otherwise case 2 would apply. 
+Proxy is a more general term that is used in different contexts to capture cases where a substitute (e.g. 
+product or entity) can be used because it is not possible or appropriate to use the original. In the context 
+of the PRIIPs Delegated Regulation, the term proxy is used to capture other cases, besides benchmarks, 
+where there is reasonably expected to be a very good correlation between the performance of the PRIIP 
+and this proxy. This could include the use of another financial product or instrument that is of the same 
+type as the PRIIP , for example, where the PRIIP is an AIF, another comparable AIF. 
+The use of a proxy, such as a comparable AIF, specifically for the purpose of calculating the MRM class 
+or performance scenarios does not mean that the proxy becomes a benchmark for the AIF, since it does 
+not change how the AIF is managed.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+15 March 2024) 
+ 
+ 
+8. The new wording in Article 2(2a)(b) of the ‘What is this product?’ section appears to duplicate the 
+requirement already included in the RTS Article 6 (in the “How long should I hold it and can I take 
+money out early?” section), specifically where Article 6 (b) requires “a description of the 
+disinvestment procedure and when disinvestment is possible”. Is it necessary to include the same (or 
+broadly similar) wording in both places of the KID?  
+It is necessary to include the information required by the legislative provisions in Article 2(2a)(b) and 
+Article 6(b) of the PRIIPs Delegation Regulation in the ‘What is the product?’ and ‘How long should I 
+hold it and can I take money out early?’ section s respectively. However, this does not mean that the 
+same wording has to be used.  
+In general, there are expected to be cases where the same product aspect or feature has implications 
+for different sections of the KID. For example, the description of the product in the ‘What is this 
+product?’ section might cover areas that are relevant i n relation to the more specific sections on the 
+product’s risks and RHP . Taking into account the aim to provide comprehensible information to retail 
+investors and, in particular, Article 6(4) of the PRIIPs Regulation, manufacturers are responsible for 
+considering the overall coherence and readability of the document. In this regard, techniques such as 
+cross-references may be useful for the reader to help them navigate the document or avoid unnecessary 
+repetition, but equally excessive use of cross -references is likely to undermine the readability of the 
+document.  
+It can also be noted that Article 3(2)(e) of the PRIIPs Delegated Regulation concerning the section on 
+‘What are the risks and what could I get in return?’ covers a case where it is necessary to include a 
+reference to the section on ‘How long should I hold it and can I take money out early?’. 
+Regarding Articles 2(2a)(b) and 6(b) of the PRIIPs Delegation Regulation, the requirements in Article 
+2(2a)(b) further specify those in Article 8(3)(c) of the PRIIPs Regulation that the section ‘What is this 
+product?’ shall contain information about ‘the nature and main features of the PRIIP , including: (…) (iii) 
+(…) investment horizon; (…)(v) the term of the PRIIP , if known’. As specified in Article 2(2a)(b) of the 
+PRIIPs Delegated Regulation, the information on the nature and main features shall include t he 
+possibility of early redemption before the term.
+
+17 
+ 
+At the same time, Article 2(2a)(b) of the PRIIPs Delegated Regulation also indicates that the information 
+on this aspect in this section is rather a statement than a detailed description, distinguishing between 
+cases where it is possible to redeem units of  the UCITS or AIF on demand (indicating the redemption 
+frequency) and those where there is no possibility to redeem units on demand. For cases involving more 
+specific conditions regarding the redemption frequency, such as notice periods, redemption gates, and 
+other liquidity management tools, retail investors should be informed that redemptions might be 
+limited, delayed, or subject to conditions, and that further details about these conditions are provided 
+under the section ‘How long should I hold it and can I take money out early?’ 
+Therefore, with regard to investment and disinvestment possibilities and procedures, the section ‘How 
+long should I hold it and can I take money out early?’ is crucial and should more precisely inform retail 
+investors about, for instance, the redemption fr equency, the exit fees, the presence of redemption 
+gates, notice periods, minimum holding periods and their modalities and characteristics, etc. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+15 March 2024) 
+ 
+ 
+9. Does point 5(b) of Article 2 of the RTS – ‘an indication of whether the PRIIP manufacturer is entitled 
+to terminate the PRIIP unilaterally’ concern i) market circumstances or ii) client specific circumstances 
+(in which case the product would end for this client alone) or both? 
+This provision relates to any circumstances which allow the PRIIP manufacturer to cancel or redeem the 
+product without the consent of the retail investor. This covers both market circumstances whereby the 
+product as a whole might be redeemed, as well as circumstances specific to the retail investor whereby 
+only that investor’s product may be terminated, for example due to the failure of the retail investor to 
+comply with certain conditions, such as making regular payments. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+15 March 2024)
+
+18 
+ 
+III. Market risk assessment (Annex II, Part 1) 
+A. Product categories [Last update 15 March 2024] 
+ 
+1. Will it be possible for the manufacturer to include certain products, such as leveraged products, 
+voluntarily in “Category 1” for the purposes of the market risk assessment?  
+It is not possible to voluntarily include a PRIIP in any Category. The analysis of the appropriate 
+categorisation must be done. For example, leveraged products that could lead retail investors to lose 
+more than their initial investment would be Category 1. Other types of leveraged products, for example 
+those that track a reference value that cannot fall below zero, may be Category 2 or 3.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+2. The main difference between Category 2 and C ategory 3 is whether the condition of “constant 
+multiple” is fulfilled in Annex II, Part 1, P oint 5. Would it be correct to treat unit -linked insurance 
+products with minimal fees charged by the insurer (or absolute fees or fees depending on value) as 
+not fulfilling the definition of “constant multiple” and therefore belonging to Category 3? 
+The categorisation referred to in Annex II concerns the MRM of the product. Annex VI and VII concern 
+the calculation and presentation of costs or fees. For insurance-based investment PRIIPs which do not 
+fall into C ategory 4, the categorisation  depends only on the characteristics of the payoff of the PRIIP 
+and the availability of data. It does not depend on the nature of the charges.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+3. Are PRIIPs with unconditional capital protection categorised as Category 2 or Category 3? 
+If there is an unconditional ly protected amount this usually indicates a non-linear PRIIP and therefore 
+Category 3 or 4 is more likely. In this case, in accordance with Points 24 and 29 of Annex II, Part 1, the 
+MRM may be calculated by discounting the protected amount to get the (97,5%) VaR. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+4. Would a hedge fund that meets the following criteria be considered a Category 1 or Category 3 PRIIP?  
+The criteria are: the hedge fund invests in transferable securities, these transferable securities are 
+valued daily, the hedge fund has quarterly (or less frequent) redemption right, hedge fund  is able to 
+use leverage. 
+A determination as a C ategory 1 PRIIP overrules the other categories; thus where a PRIIP satisfies the 
+conditions for a C ategory 1 PRIIP it shall be classified as a Category 1 PRIIP irrespective of whether it
+
+19 
+ 
+also meets the conditions of another category. The historic availability of price data relates to the 
+frequency of the calculation of the NAV, not the frequency of redemption rights. That means it is a 
+Category 3 PRIIP if there is sufficient historic data from the hedge fund or a benchmark available.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+5. It appears that unit -linked insurance products with out guarantees would fall into C ategory 2. 
+However cost-profit-participation and risk -profit-participation is not reflected in the market values 
+or the Cornish-Fisher methodology. Please provide guidance on how this is to be taken into account.  
+Pure unit-linked insurance products, i.e. those which do not have a profit participation mechanism and 
+do not depend on other factors that are unobserved in the market , would fall into categories 1, 2 or 3 
+depending on the nature of the product´s payoff and the availability of data. 
+The same unit -linked product may offer units backed by different investment propositions (funds, 
+structured instruments , etc. ) that fall into different categories , (e.g. some being  Category 2, whilst 
+others being Category 3); separate Risk Indicators would be displayed for these different units.  
+In the cases of cost and risk profit participation described, the PRIIP or the units offered – depending at 
+what level the participation is occurring -- would not be Category 2, but C ategory 4. The cost-profit or 
+risk-profit participation is considered an unobserved factor in the market, therefore resulting in the 
+PRIIP being Category 4.  Points 25 to 29 of Annex II, Part 1 describe the methodology for calculating the 
+VEV of the part of the PRIIP that depends wholly or partly on factors that are unobserved in the market.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+6. What is the meaning of the term “underlying inv estments” in Annex II, Part 1, P oints 4-6 for a PRIIP 
+that is an Undertaking for Collective Investment (UCI)? In particular, do we need to look at the 
+portfolio of the UCI itself to determine which Category we should consider the PRIIP? 
+The determination of the PRIIPs’ C ategory addresses the PRIIP itself, and depends on the pay -off 
+structure and the availability of data. If the pay-off of the UCI is linear, it would be classified as Category 
+2 provided there is enough data available for the calculation. If  there is no data, it would be C ategory 
+1. If the pay -off is not linear (for example a st ructured UCITS), it would be a C ategory 3 product, 
+provided the data history requirements are met.   
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+20 
+ 
+7. For PRIIPs that allow for investment in underlying instruments of a different nature, which are 
+classified in different groups for risk calculation, how should the Summary Risk Indicator ( SRI) be 
+calculated? For instance, if the PRIIP that is a fund invests in non -linear instruments that are not 
+material at portfolio level or that do not induce a non -linear payoff for the fund? The reason for the 
+question is that Commission Delegated Regulation  indicates the methodology for the calculation of 
+the single underlying and not the combination. 
+It can be helpful to make a distinction between those PRIIPs that allow for investment in underlyings of 
+a different nature because they are for example a n Undertaking for Collective Investment or a 
+structured product, and those PRIIPs that allow for the retail investor to invest in different types of 
+underlyings of their choosing (i.e. multi-option products).   
+For the first type of PRIIP described above the categorisation for the purposes of the market risk 
+assessment depends on the overall PRIIP pay -off structure of the portfolio as a whole, and not on the 
+underlyings as such. In the two cases mentioned in the question the PRIIP would be classified a s 
+Category 2. Where a PRIIP includes a material exposure to a non-linear underlying financial instrument 
+and a linear one, and that, as a consequence, the combined pay -off structure is materially non -linear 
+(e.g. a PRIIP delivers an overall return equal to the upside of an index above a given strike, then the 
+PRIIP would be Category 3).  
+For multi-option products, the categorisation may be different for different units offered. The KID for 
+the MOP itself (the generic KID) would include a range of SRI classes in accordance with Article 12(1)(a), 
+but not the range of categorisations. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+8. In Annex II, Part 1, Points 9 and 10 it states that the minimum observation frequency is monthly but 
+subsequently it is specified that in the event of bi-monthly publication of prices the frequency will be 
+bi-monthly. Is that not contradictory? Further, in P oint 10, no minimum history is explicitly 
+mentioned for bi-monthly prices. 
+It is important to clarify that bi -monthly means that prices are available twice a month (to avoid 
+confusion with every 2 months), so that is more frequent than the minimu m monthly frequency. 
+Regarding Point 10, where prices are not available on a weekly basis, but are available on at least a 
+monthly basis (i.e. also including where they are available on a bi -monthly basis), the minimum data 
+history is 5 years.   
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+21 
+ 
+9. How should the requirement to use data of an appropriate benchmark/proxy be interpreted where 
+there is no, or insufficient, price data for the PRIIP or the underlying value. For example:  
+- Would an open end structured product linked to the performance of a newly issued st ock 
+automatically qualify as a Category 4 PRIIP? 
+- Would it change its Category during the tenor (into C ategory 2/3) once enough prices are 
+available? 
+- Do you agree that P oint 14 of Annex II may also be applied for new funds or funds with daily 
+observation of return lower than 2 years.  
+When insufficient price data for the PRIIP or its underlying asset are available, data of an appropriate 
+benchmark or proxy should be used. Such a PRIIP should not be assigned to a different Category unless 
+no appropriate benchmark or proxy exists, in which case it shall be classified as a Category 1 PRIIP and 
+a default MRM (MRM 6) will be assigned. The availability of data has no bearing on the applicability of 
+Point 14 of Annex II. The MRM of a PRIIP based on a newly issued stock should be computed using an 
+appropriate benchmark or proxy if available, until there is enough r eal data of the new stock. The 
+Category of such a product then will not change once sufficient data becomes available.  
+More specifically, in relation to the sub-questions above: 
+- No – it would be a C ategory 3 PRIIP, though the simulation would require using the returns of a 
+suitable proxy.  
+- No – it is a Category 3 PRIIP.   
+- Yes Point 14 may be applicable , but it  depends on the nature of the investment policies or 
+strategies and not on the availability of data. Point 14 can apply to new funds (and equally to funds 
+with sufficient data history), but the requirements regarding sufficient data history or the use of a 
+suitable benchmark or proxy still apply.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+10. Is the provision in Annex II, Part 1, Point 14 (b) applicable where a fund has sufficient history? This is 
+particularly relevant to multi-asset funds; it would be misleading to put these products in Category 1 
+(thus MRM class 6), whereas most often, they would actually fall into MRM class 2 or 3.  
+The same requirements apply to products to which Point 14 applies as to other products  in general as 
+regards the case where there is insufficient data, where a benchmark should be used. If there is no 
+appropriate benchmark or proxy the minimum data requirements will not be satisfied and the PRIIPs 
+will be categorised as 1. 
+Point 14(b) relates specifically to the case where there has been a revision (that is a material change) 
+to the investment policy (not, that is, simply a rebalancing of asset allocations according to an existing 
+investment policy). The portfolio composition of “life cycle funds”, for example, changes  substantially 
+over time usually becoming more defensive by switching from equity to fixed income assets. This means 
+that not all of the return history of the fund  may be representative of the fund’s current ove rall risk 
+profile. Therefore, the data history requirements in Point 5 or 6 may be met, but part or all of that 
+history may no longer be relevant for the fund due to a revision of its investment policy. In this case the
+
+22 
+ 
+actual fund data history is not used for the VEV calculation,  and instead the maximum of Points 14 (a) 
+(ii) and (iii) should be used. This would not involve a re-categorisation of the PRIIP into Category 1. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+11. Can an appropriate benchmark or proxy continue to be used once sufficient data becomes available? 
+It is not possible to use an appropriate benchmark or proxy where sufficient market data is available 
+for the PRIIP. However, where market data is available only for a part of the period used for the 
+calculation, the available market data should be concate nated with the relevant price data of an 
+appropriate benchmark or proxy (for example where monthly market data of the PRIIP is available, it 
+should be concatenated with monthly market data of the benchmark or proxy). Once sufficient market 
+data of the PRIIP becomes available to complete the data series, that data should be used in its entirety 
+rather than the data of the benchmark or proxy.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017) 
+ 
+ 
+12. What is meant by factors not observed in the market as stated in Annex II, Part 1, Point 7? 
+Category 4 products are those where the value depends, at least in part, on factors not observed in the 
+market. That is, the value is not calculated using market prices of underlyings but depends to some 
+extent on decisions of the manufacturer which are no t triggered automatically by external factors. In 
+insurance, a typical example mentioned in the Delegated Regulation is with -profit insurance contracts 
+that distribute to retail investors a portion of the manufacturer’s profits.  
+Structured products which depend on multiple underlying securities should not be classified as 
+Category 4 due to the impact of the correlation. These products are expected to be either Category 1 
+or 3 depending on the availability of data. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017) 
+ 
+ 
+13. How should credit -linked notes be treated, for example which is their product category for the 
+purposes of the MRM calculation? 
+The Delegated Regulation does not in general address the treatment of specific product types, and for 
+credit-linked notes the contractual arrangements for each product would need to be assessed on a 
+case-by-case basis, to identify the applicable category and the methodology for this category would 
+then be applied. 
+However, some guidance can be given in relation to how the Delegated Regulation can be applied to 
+instruments that pay a periodic coupon to the investor until either maturity or the default of a 
+reference entity.
+
+23 
+ 
+First, in accordance with Annex II, Part 1, point 4(c), where there is not sufficient historical data the 
+product shall be considered a Category 1 product, and hence the MRM is 6. For example, if a product 
+depends, on the default of multiple entities, there may not be observable correlations for a joint 
+default.  
+Where there is market data, for example CDS prices that give a market based estimate of the 
+probability of default for a particular reference entity, these products may be Category 3 and the 
+corresponding methodology for the risk and performance calculations would apply.  
+Credit events are not considered to be “factors not observed in the market” (see also Q&A no. 12, 
+Section MRM, 1. Product Categories), and therefore Category 4 is not considered to be applicable.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 20 
+November 2017) 
+ 
+ 
+14. If the PRIIP is an AIF investing into linear products yet the leverage on investments changes 
+throughout time (therefore leverage factor is non -constant but underlying exposures are linear), 
+would this be categorized as a Category 2 or Category 3 PRIIP? 
+This should be treated as a Category 2 PRIIP in accordance with point 5 of Part 1 of Annex II of the 
+Delegated Regulation. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 17 
+December 2021) 
+ 
+ 
+15. Annex II, paragraph 10 of the Delegated Regulation shows sub intervals to use for funds with pricing 
+frequencies of daily, weekly or monthly, but not what to apply for those funds with other pricing 
+frequencies, e.g. bi-weekly or bi-monthly. Should the sub intervals for weekly apply to any frequency 
+less than daily and the sub intervals for monthly apply to any frequency less than weekly, in a similar 
+manner to the data history requirements for the MRM? 
+The sub interval “daily prices” only applies to daily prices. The sub interval “weekly” applies to any 
+interval that is at least weekly but is less frequent than daily. The sub interval “monthly” applies to 
+any interval that is at least monthly but is less frequent than weekly.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 17 
+December 2021)
+
+24 
+ 
+16. Are the redemption prices of open -ended real estate AIFs "prices" within the meaning of point 5 of 
+Annex II of the Delegated Regulation? The question arises because the redemption price is 
+determined on the basis of the net asset value (NAV) of the respective fund. For the NAV, the market 
+prices of the AIF properties are determined only once a year. In contrast to UCITS, no market prices 
+of the underlying assets are available on a daily basis. 
+In accordance with point 4(c) of Annex II, Part 1 of the Delegated Regulation, unless there is an 
+appropriate benchmark or proxy which is priced on at least a monthly basis, where the net asset value 
+is calculated on a less regular basis than monthly (e.g. only yearly), the PRIIP would be Category 1.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 14 
+November 2022) 
+ 
+ 
+17. The UCITS KIID framework introduced the concept of “Absolute Return Funds”. For these types of 
+funds, there is no need to select an appropriate risk benchmark and the UCITS SRRI is determined in 
+its entirety by the risk limit of the fund as well as the NAV  history if sufficient data are available. Is 
+there any recommendation for how to consider “Absolute Return Funds” under the PRIIPs Regulation 
+– as regular or flexible funds? Additionally, in case these are flexible funds, is it required to produce 
+the VEV of the returns of the pro-forma asset mix for former Absolute Return Funds?  
+In the context of PRIIPs, specific provisions or guidance has not been developed concerning “absolute 
+return funds”. It needs to be considered whether or not the provision in Annex II, point 14 of the 
+Delegated Regulation concerning “flexible investment” approaches is applicable to the specific fund.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 14 
+November 2022) 
+ 
+ 
+18. In the Delegated Regulation, the VEV for flexible funds is determined by taking the maximum of the 
+three following options: 1. VEV of the returns of the share class self -history, 2. VEV of the returns of 
+the pro-forma asset mix, 3. VEV which is consistent with the risk limit of the fund. As regards option 
+1, is it required to backfill the time series with appropriate proxy (similarly to non -flexible funds) if 
+the share class have insufficient self-history to perform the calculation?  
+Yes, the requirements regarding the necessary historical data (and use of appropriate proxies) would 
+apply. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 14 
+November 2022) 
+ 
+ 
+19. Could you confirm if products with recurring premiums are to be modelled as Category 2 PRIIPs or 
+Category 3 PRIIPs?  Our opinion is that they should be modelled as category 3 because their 
+performance does not depend only on the performance of the underlying at RHP. However, in the 
+case in which a manufacturer shall produce KIDs for PRIIPs available as both single and re curring 
+premium versions, it may lead to KIDs that are not comparable, mainly given to modelling 
+assumptions (for example, the different lengths of the data series for Category 2 and 3 PRIIPs).
+
+25 
+ 
+The classification of a PRIIP as Category 2 or 3 concerns only the linearity, or not, of its expected pay -
+off, which will hold irrespective of the way in which investment in the product is made by the retail 
+investor.   
+Consequently, where a product is, or would be, a Category 2 PRIIP when a single premium or 
+investment is made, it should also be considered as a Category 2 PRIIP when a regular premium or 
+investment is made. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 05 
+December 2023) 
+ 
+20. When sufficient history for the SRI calculation is not available to cover 5 years of data for a daily share 
+class, can the PRIIP manufacturer decide to use a benchmark/proxy to cover up to 5 years of history 
+or should this only be used for the minimum 2 years requirement? Similarly, if a daily share class has 
+3 years of history can a PRIIP manufacturer choose to include 2 years of benchmark/proxy data and 
+base the calculation on a 5 year range? 
+Yes, as indicated in points 9 and 10 of Part 1 of Annex II of the PRIIPs Delegated Regulation the use of 
+5 years of data is intended where this is available. Where less than 5 years of historical daily prices of 
+the PRIIP are available, the historical daily prices of an appropriate benchmark or proxy can be used to 
+supplement the data of the PRIIP such that 5 years of historical daily prices are available for the SRI 
+calculation. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 15 
+March 2024) 
+ 
+ 
+21. Could an artificially created “synthetic” proxy be considered an appropriate proxy in accordance with 
+the PRIIPs RTS Annex II and Annex IV? 
+A proxy can only be considered appropriate if it is based on actual available market data or prices of 
+existing products, reference values or instruments that are comparable to the PRIIP or its underlying 
+assets.  
+The use of synthetic or artificial proxies (that are, for example, created using estimations, artificial 
+intelligence models or algorithms) to generate price data is not consistent with the PRIIPs Delegated 
+Regulation which refers to the use of actual historical prices. The prices of an appropriate proxy should 
+be determined based on a relatively simple and established method (i.e. not based on an artificial 
+intelligence model) and be verifiable.  
+The PRIIPs Delegated Regulation, for example in points 5, 6, 9 and 10 of Part 1 of Annex II, states that a 
+proxy is appropriate if that proxy provides the necessary data, which is not available for the PRIIP itself 
+or its underlying assets.  
+Point 4(c) of part 1 of Annex II of the PRIIPs Delegated Regulation covers the case that there is neither 
+sufficient market data for PRIIP itself nor an appropriate benchmark or proxy with sufficient market 
+data. While the ability to use an artificial prox y would imply that an appropriate proxy would always 
+exist.
+
+26 
+ 
+The criteria in point 16 of Annex IV of the PRIIPs Delegated Regulation on the use of appropriate 
+benchmarks and proxies are also based on the existence of actual and verifiable historical data for the 
+proxy.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 15 
+March 2024)
+
+27 
+ 
+B. MRM class determination [Last update 05 May 2025] 
+ 
+1. The MRM class determination for Category 3 PRIIPs, as specified in Annex II, Point 16, states that the 
+“[…] VaR shall be the value of the PRIIP at the 97.5% confidence level […]”. Since the formula in Annex 
+II, Point 17 can only be reasonably applied for a value of VaR between 0 and 1, please clarify that the 
+VaR in this formula sha ll be the ratio of the value of the PRIIP at the 97.5% confidence level and the 
+initial value of the PRIIP according to the proposed methodology? 
+The VaR is calculated from the ratio of the value at a 97.5% confidence level and the amount invested 
+in the PRIIP (as this represents the potential loss to the investor). This is stated in Annex II, Part 1, Point 
+1. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+2. Does the formula in Annex II Point 17 use the simulated value of the PRIIP divided by its initial value?  
+Should the calculation of VEV post -issuance be based on the ratio of the simulated value divided by 
+its initial value, or the ratio of the simulated value divided by the current va lue of the PRIIP?  We 
+would expect that the current value seems more appropriate. 
+When calculating the VEV, the ratio should reflect either the initial price to be paid at the time of the 
+first production of the KID, or the price at the point of the review and revision of the KID.  The VaR that 
+is used to calcul ate the VEV is specified under P oint 1 of Annex II as ‘the percentage of the amount 
+invested that is returned to the retail investor’, and is a reference to a rate of return based on the value 
+of units in the PRIIP at the point at which the KID is being prepared.  
+In more general terms, it should be stressed that the figures to be shown in the KID, are presented 
+according to a standardised and comparable starting point (for most PRIIPs 10 000 EUR according to 
+Annex VI Point 90). 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+3. For products with an automatic early -redemption feature, the holding periods might differ for each 
+of the simulations. What value of T, related to the formula for the calculation of the MRM, the length 
+of the recommended holding period, should be chosen? 
+The recommended holding period should not be confused with the T (Time) to be used in the 
+conversion of the VaR into a volatility. 
+When performing a set of simulations, the exact holding time (T) associated with the 97.5% confidence 
+level can be identified. That is the time to be used in the conversion instead of the recommended 
+holding period. 
+It can be noted that any contract with an early redem ption feature will be either a Category 3 or a 
+Category 4 product and will require simulations. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+28 
+ 
+4. The principal component analysis of Annex II, Point 23 ensures the consistent simulation of curves. Is 
+it mandatory to use this method also for PRIIPs that depend on only one interest rate underlying, e.g. 
+bonds with yearly coupons of max (12m EURIBOR + 0.5%, 0.3%)? 
+A PCA is required whenever an interest rate or interest rates are observed at multiple times in the 
+future. The purpose of the PCA is to capture the correlation between interest rate movements at 
+different points of time in the future. In the example given a PCA would be needed. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+5. Are we right to assume that the bootstrapping of equity baskets should also be based on a principal 
+component decomposition (at least for baskets of more than two underlyings)? On which rule should 
+the dimension of the resulting factor model be based (dime nsion 3 as in the curve case could be too 
+small)? 
+A principal component analysis is not needed for equity baskets. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+6. What is meant by unconditional protection of the capital (e.g. Point 24 of Annex II)? 
+This means that irrespective of market movements the amount invested in the PRIIP is protected up to 
+a prescribed level. The term refers only to market risk and therefore excludes losses in relation to the 
+obligor's default (i.e. credit risk). 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+7. A fully protected product can be allocated to MRM 1. Is this still the case if the underlying assets do 
+not have the required minimum historical data, or is the product automatically allocated to MRM 6 
+in that case? 
+When a product has protection at maturity this prevails over the availability of data. For a PRIIP that 
+has a 100% protection at maturity and insufficient availability of data, the manufacturer may apply the 
+methodology set out in Points 24 and 29 of Annex II, which indicates that the 97.5% VaR at maturity 
+may be assumed to be the redemption amount. This redemption value should then be discounted to 
+the present date using the expected risk -free discount. This does not necessarily mean that the PRIIP  
+will be allocated in MRM 1 as this depends on the discounted value.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+29 
+ 
+8. Regarding the correction for risk neutrality in Annex II, 22(c) of the Delegated Regulation - each of 
+the 10,000 simulated returns needs a correction to ensure that the simulated average return is equal 
+to an expected risk -neutral return and to avoid that the simulations follow the implicit drift of the 
+historic row. When applying a correction for risk neutrality, the resulting simulations at the end are 
+only usable for final returns (that appear risk -neutral) but not for the intermediate returns, which 
+means that they are not usable for products where the pay -off is a function of the underlying asset 
+even during the holding period. 
+To determine the performance at intermediate holding periods, the correction has to be performed for 
+each interval of time (e.g. from the start of the investment to the start of the intermediate holding 
+period and then from the start of the intermediate ho lding period to the end of the recommended 
+holding period). As the correction only depends on the length of each period in time, it can be applied 
+as required. 
+ (Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+20 November 2017) 
+ 
+ 
+9. According to the PRIIPs Delegated Regulation, if the MRM class changes to a different MRM class, the 
+PRIIP manufacturer shall attribute the corresponding MRM class to the MRM class which the PRIIP 
+has matched for the majority of the reference points over t he preceding four months.  
+On the other hand, PRIIP manufacturers shall review the information contained in the key 
+information document at least every 12 months. What should be the approach during the mentioned 
+annual review if the MRM class changes to a different MRM class, but it has not matched the majority 
+over the preceding four months? Is it allowed to use the MRM which has not reached the majority 
+over last four months yet to avoid the document republication due to upcoming monitoring event?  
+First, it should be noted that, in accordance with Article 15 of the PRIIPs Delegated Regulation, the 
+obligation to review the KID applies at least every 12 months, following the date of the initial publication, 
+and needs to be accompanied by an adequate p rocess to monitor the need for revisions to the KID on 
+an ongoing basis. Consequently, even though a PRIIP manufacturer might have recently reviewed and 
+published a revised KID (i.e. less than a year ago), if they identify a need to change the SRI, they have to 
+publish a further revision of the KID. This ongoing monitoring process is intended to ensure that the KID 
+contains fair and not misleading information at all times. 
+Secondly, in accordance with point 53 of Annex II of the PRIIPs Delegated Regulation, the MRM class 
+shall reflect the majority of the reference points over the preceding four months. If a different MRM 
+class is obtained for less than the majority of the reference points over the preceding four months, then 
+the MRM class remains unchanged. A change would only be triggered where the different MRM class is 
+obtained for the majority of reference points. Point 53 intends to provide a smoothing effect such that 
+frequent fluctuations of the MRM class between two neighbouring MRM classes should generally be 
+disregarded. 
+Equally, points 52a and 55 of Annex II of the PRIIPs Delegated Regulation are relevant in this context. A 
+review of the MRM class shall always be carried out following a change in the investment policy or 
+strategy (point 55). Additionally, the PRIIP manufacturer may increase the SRI number if they consider 
+the risk indicator does not adequately reflect the risks of the PRIIP (point 52a); in this case, the decision-
+making process for such an increase needs to be documented.
+
+30 
+ 
+ (Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+05 May 2025)
+
+31 
+ 
+IV. Methodology for assessing credit risk (Annex II, Part 2)  [Last 
+update 18 August 2017] 
+ 
+1. In which situations does the credit risk of the underlyings of a PRIIP need to be assessed? In particular, 
+a) what approach should be taken for stocks and UCITS investing in stocks? And b) If a position is fully 
+collateralized, shall we consider that there is no residual Credit Risk?  
+Stocks are not PRIIPs so they could only be subject to the PRIIPs methodology as underlyings of a PRIIP, 
+such as an investment fund, an SPV, unit-linked insurance product, or structured product.   
+For the PRIIPs methodology, stocks – for instance equity holdings in companies – do not carry credit 
+risk (as it has been defined for the SRI purposes) since the return on these instruments does not depend 
+on the creditworthiness of a manufacturer or party bound to make, directly or indirectly, relevant 
+payments to the investor.  The credit risk of this type of product would be generally captured by the 
+MRM.  
+In certain situations the credit risk of a PRIIP needs to be assessed at the level of the underlyings to 
+determine the CRM. In this case either a look-through or a cascade assessment shall be performed. 
+A look -through assessment is to be made when the credit risk is entailed solely at the level of the 
+underlying investments or exposures and not at the level of the PRIIP itself (e.g. securities issued by  a 
+special purpose vehicle (see point 34 of Annex II Part 2 ). Point 40 of Annex II Part 2 shall apply in this 
+case. 
+A cascade assessment is to be made when the credit risk is entailed at the level of the PRIIP, as  well as 
+at the level of the underlying investments or exposures of the PRIIP (e.g. unit -linked insu rance 
+contracts). In this case Point 41 of Annex II Part 2 shall apply. 
+It is correct that w here a position is fully collater alised it is considered that there is no residual credit 
+risk.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+2. For a PRIIP with an MRM of 6, the aggregate SRI will always be 6. Therefore, is it still necessary to 
+assess the credit risk for a PRIIP with an MRM of 6?   
+The CRM may only adjust the MRM upwards for the SRI. Therefore, if the MRM is 6, the SRI would be 6 
+as well since the credit risk scale is 1 to 6. Therefore, where the MRM is 6, the CRM has no impact on 
+the SRI based on the aggregated table. However, in te rms of the presentation of the SRI, the 
+manufacturer shall include a brief explanation of the classification of the product in the narrative 
+explanation. That explanation may differ depending on the CRM. Therefore, the CRM still needs to be 
+calculated when the MRM is 6. In addition, whilst a credit risk assessment is not required for a PRIIP 
+with an MRM of 7 (in acc ordance with Annex II, Part 2, P oint 30), for the same reasons, the PRIIP 
+manufacturer should still be aware of the credit risk in this case, and where there is material credit risk 
+it may be a good practice for a credit risk assessment to be performed.    
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+32 
+ 
+ 
+3. Where the investor has access to a compensation scheme for the investment amount of the KID, is it 
+correct to assume that credit risk is zero? 
+It is not correct to assume that there is no credit risk. A compensation scheme is not included in the 
+CRM assessment. However, a narrative below the SRI (element J) indicates whether a compensation 
+scheme is applicable and cross -refers to the section " What happens if [the name of the PRIIP 
+manufacturer] is unable to pay out?" 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+4. In case a PRIIP is a fund of funds, where the underlying investment is a fund which is in turn investing 
+in another fund, should we consider the funds in which the PRIIP is investing in directly as the 
+underlying investments, or should look through to the underlying exposures, for the credit risk 
+assessment? 
+In the case of fund of funds it is necessary to look-through the different levels of funds  to identify the 
+underlying exposures. This does not mean that a credit risk assessment is necessary for all underlying 
+investments or exposures. Point 34 of Annex II, Part II stipulates that the underlying investments or 
+exposures of a fund shall be assessed “where necessary”. “Where necessar y” refers to whether those 
+underlying investments or exposures enta il credit risk as described in P oints 30-36 of Annex II, Part  2, 
+for example, whether the investment represents more than 10% of the total assets or value of the PRIIP.   
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+5. How should derivatives be weighted when applying Point 40 of Annex II? 
+The c redit risk of the counterparty to a derivative, if it is not fully and appropriately collateralised, 
+should be weighted in propor tion to the assets that it represents compared to the other assets for 
+which a credit risk assessment needs to be undertaken.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+6. Please clarify the requirement in Point 38 of Annex II, part II:  where a  credit assessment is not 
+available under both (a) and (b), i.e. there is not both a credit assessment assigned to the PRIIP and 
+a credit assessment assigned to a relevant obligor, but one is available solely under (a) or solely under 
+(b), is it possible to use either of these (depending on which of the two is available)? 
+A default credit assessment as set out in Point 43 of Annex II is to be applied in the absence of a credit 
+assessment assigned to the PRIIP, the relevant obligor, or both. The measures under P oints 46 to 49 
+may also apply. In general, where a credit assessment has been assigned at the level of the PRIIP this
+
+33 
+ 
+should take precedence as to a credit assessment at the level of relevant obligors in relation to the 
+PRIIP. Where there are multiple obligors for which a credit assessment is necessary, and a credit 
+assessment is not available for certain of these, the de fault credit assessment according to P oint 43 
+shall be applied for each of these obligors for which a credit assessment is not available.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+7. Is it fair to assume that a EU-regulated UCITS fund will always meet the requirements under Annex II 
+Point 46 (a) and (b) and thus the CRM for a UCITS fund will always be equal to 1. If not under what 
+circumstances would a UCITS fund not comply with Point 46? 
+A UCITS fund will not always have a C RM equal to 1. As described in P oints 33 to 36 of Part 2 of Annex 
+II, in the case of a fund, credit risk may need to be assessed in relation to the underlying investments or 
+exposures, for example in the case of exposures to non -exchange traded derivatives and non -cleared 
+OTC derivatives , and to other efficient portfolio management techniques such as repo or securities 
+financing transactions, where these are  not fully and appropriately collateralised and amount to 10% 
+or more of the total assets or value of the PRIIP. This is also the case for a structured fund providing a 
+full capital guarantee to its investors. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+8. Is it possible for an insurance company to satisfy the criteria in Point 47 of Annex II, Part 2?  
+The drafting of the credit risk mitigation factor in Point 47 of Annex II, Part 2 is purposefully abstract 
+and general in view of ensuring its broad potential applicability by the full range of PRIIP manufacturers, 
+so as to not include or exclude specific types of PRIIP manufacturers or provide a specific tre atment 
+only for certain PRIIP manufacturers, for instance to either exclude insurance undertakings or to result 
+in only insurance undertakings being able to satisfy this provision.   
+Point 47 (a) relates to the matching of assets and liabilities over time. It ensures that the assets backing 
+the payment obligations of a PRIIP are able to satisfy – that is, are at least equivalent to, the payment 
+obligations of the PRIIP. 
+Point 47 (b) relates to the specific identification of these assets. It refers to arrangements based on 
+provisions in the Solvency II Directive, but does not exclude that other arrangements, including by PRIIP 
+manufacturers who are not insurance undertakings, can satisfy this provision.  
+Point 47 (c) relates to the priority of claims of retail investors to these assets over the claims of other 
+creditors.  
+With respect to insurance undertakings, the Commission Delegated Regulation does not automatically 
+lead to the conclusion that either all or no insurance undertakings would b enefit from the application 
+of Point 47. Some insurance undertakings are exempt from Solvency II, and these may not be able to 
+meet the conditions under Point 47. I n addition, the application of P oint 47 would not be met by all 
+insurance undertakings that are subject to Solvency II. Each insurance undertaking would need to apply 
+the criteria set out in Point 47 to assess whether the mitigation foreseen in Point 47 can be applied.
+
+34 
+ 
+Having said this, the breadth of the drafting has raised some specific practical challenges for insurance 
+undertakings as to how to assess the criteria, including in particular in regards the application of 47 (a) 
+and 47 (c) to an insurance undertaking subject to Solvency II. It is therefore appropriate to further clarify 
+the application of Point 47 in this case without altering the substance of this provision. 
+Regarding Point 47(a), since insurance undertakings have future liabilities that relate to non -financial 
+factors, the prudential approach in Solvency II is to ensure that in total the net present value of these 
+liabilities is covered by assets on an ongoing basis. The insurance undertaking should, that is, be always 
+in a position to transfer its different books of business to another insurance undertaking.  For this 
+reason, for those insurance undertakings that comply with Solvency II, Point 47 (a) can be met – this is 
+indicated already in the Commission Delegated Regulation in Recital 6. However, it is not the case that 
+all insurance undertakings subject to Solvency II will be capable of meeting this point at a given time.  
+Regarding Point 47 (c) this relates to the claims of policy holders in the insurance context. In this case, 
+the two arrangements foreseen under Article 275 (1) (a) and (b) of Solvency II are relevant. The 
+arrangement under Article 275 1 (a) entails the priority of th e claims of policyholders over other 
+claimants, and therefore should enable Point 47 (c) to be satisfied.  
+However, under Article 275 (1) (b) it would depend on how Article 278 of Solvency II is applied.  Article 
+278 requires that any claims that are prior to those of policyholders shall be represented by assets. In 
+view of this those insurance undertakings tha t are subject to Article 275 1 (b) are expected to hold 
+specific assets in respect of any claims that can be made on the insurance undertakings assets that are 
+prior to those of policy holders. An insurance undertaking subject to Article 275 (1) (b) may in  some 
+cases be ab le to meet the condition under P oint 47 (c), so long as these specific assets entirely cover 
+the claims that have priority over those of the policy holders, and also so long as the remaining assets 
+match, on their own, the insurance undertaking’s liabilities, as is required under Point 47 (a).  
+It can be noted that the legislative intention of the two alternatives foreseen in Article 275 (1) (a) and 
+(b) respectively was that these should be implemented so as to be equivalent in outcome in view of 
+policy holder protection. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+9. Should the 10% threshold for calculating credit risk in Annex II, part 2, P oint 35 be applied per 
+instrument or per exposure? 
+The 10% threshold should be assessed per reference entity. For example, if a PRIIP invests directly in 
+multiple financial instruments issued by the same reference entity which individually represent less 
+than 10% of the total assets or value of the PRIIP, but which when considered together represent 10% 
+or more of the total assets or value of the PRIIP, then  for the purposes of Annex II, Part 2, P oint 35, 
+these instruments should be assessed as an exposure of more than 10% to be separately assessed.   
+When a PRIIP (“initial PRIIP”) invests in another PRIIP (“underlying PRIIP”) that does not entail credit 
+risk itself but makes underlying investments that entail credit risk, a look through analysis is required 
+only if the underlying PRIIP represents an ex posure of 10 % or more of the total assets or value of the 
+initial PRIIP. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017)
+
+35 
+ 
+ 
+ 
+10. In accordance with Annex II, Part 2, Point 42 the credit quality step shall be adjusted to the maturity 
+or recommended holding period of the PRIIP. Should the maturity to be used for this adjustment be 
+updated over time during lifetime of the product? 
+Yes, the adjustment should reflect the maturity of the PRIIP at the time that the KID is prepared or 
+reviewed. In this latter case, and for those products with a fixed end date, the remaining time to 
+maturity should therefore be used. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017) 
+ 
+ 
+11. Can a credit assessment assigned to a group be used for the assessment of the credit risk of the 
+relevant obligor? 
+A credit assessment can only be used where it relates to the PRIIP or the legal entity that is the relevant 
+obligor or guarantor. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017)
+
+36 
+ 
+V. Summary Risk Indicator (SRI)  (Annex III)  [Last update 15 
+March 2024] 
+ 
+1. Clarification is necessary on the specific currency risks which will be covered by Element C of Annex 
+III of the Commission Delegated Regulation . Clarification is necessary for PRIIPs distributed 
+simultaneously in EUR and a non -EUR jurisdiction, as to whether only the currency risk between the 
+product currency and the home currency of the investor is covered.  
+Only the currency risk between the product currency and the currency of the Member State where the 
+product is being marketed is covered. See Article 3(2)(c) of the  Commission Delegated Regulation. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+2. How should the CRM be calculated when the credit risk needs to be assessed only for a part of the 
+assets of the PRIIP? For example if there are both individual investment holdings representing 10% 
+or more of the total value of the PRIIP and individual holding of below 10%; are all individual holdings 
+below 10% given a credit quality step of 0? 
+A proportional approach should be used when calculating the CRM.  
+In the case of credit risk assessed on a look -through basis in accordance with Point 40 of Annex II, Part 
+2 the credit quality step (CQS) shall be weighted in relation to the proportion of total assets that each 
+exposure represents. This can be illustrated with an example:  
+Asset A 12% CQS 1 
+Asset B 12% CQS 5 
+The rest of the assets (i.e. 76%) are not separately assessed and therefore a CQS of 0 should be used.  
+This means the weighted average CQS is (12% * 1) + (12% * 5) + (76% *0) = 0.72 (Rounded up to 1)  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017) 
+ 
+3. What are the implica tions of P oint 53 of Annex II, Part 3 in terms of the monitoring of data? In 
+particular, is it necessary to calculate the MRM on a daily basis? 
+The requirements for the review of the KID are set out in Article 15 of the Delegated Regulation, where 
+it is stated that changes in the summary risk indicator shall be identified without undue delay. The 
+requirement in Annex II, Part 3, P oint 53 is for the PRIIP manufacturer to monitor the market data 
+relevant to the calculation of the MRM.  
+Where the reference points for the MRM calculation are daily market prices, although a daily 
+recalculation of the MRM would be possible, the exact frequency with which the MRM needs to be 
+calculated is not prescribed. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017)
+
+37 
+ 
+ 
+4. Does “as appropriate” in Point 7 of Annex III mean that the wording of the elements A -J can be 
+amended? Or should the manufacturer remove an entire text element if it is not suitable for a specific 
+PRIIP? 
+The term "as appropriate" refers to whether or not the issue is relevant to the PRIIP, for example in 
+relation to element D this text is not appropriate where there are no circumstances in which the retail 
+investors will be required to make further payments to pay for losses. Where the retail investor may be 
+required to make further payments to pay for losses the exact wording of the narrative explanations 
+shall be used, unless the template explicitly allows the manufacturer discretion to draft the appropriate 
+text, such as for Element E. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017) 
+ 
+ 
+5. Is currency risk described by Risk Element C applicable to investment funds, or should currency risk 
+generally be considered by wrapper products / multi -option products only? In case currency risk is 
+applicable to investment funds, at which level shall currency risk be determined – the portfolio/sub-
+fund level or at the share class level – in relation to the currency of the investor in the EU member 
+state?  
+In accordance with Article 3(2)(c) of the PRIIPs Delegated Regulation, the narrative element C on 
+currency risk is applicable to PRIIPs that are denominated in a currency other than the official currency 
+of the Member State where the PRIIP is being markete d. Therefore, it relates to the currency in which 
+pay outs are made to retail investors.  
+Consequently, if a PRIIP, including an investment fund, is available to retail investors in a Member State 
+with a different currency to the currency of the product, then the KID needs to include the SRI narrative 
+element C. Equally, if a PRIIP can only be accessed by retail investors in a Member State with the same 
+currency as the currency of the product then the KID should not include the SRI narrative element C.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 15 
+March 2024)
+
+38 
+ 
+VI. Performance Scenarios (Articles 3 and 8 and Annexes IV and 
+V) [Last update 5 December 2025] 
+ 
+1. Could you clarify for which intermediate holding periods should we show performance scenarios 
+during the lifetime of a product? (E.g.: 1.1 years product, with remaining lifetime of 9 months). We 
+believe this should reference the remaining life of the product. 
+ 
+For products with a fixed end date, the remaining time to maturity should be used to demonstrate the 
+performance scenarios. Therefore, in this specific example, in accordance with Point 34 of Annex IV no 
+intermediate performance scenario is needed where the time to maturity is less than a year.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+2. Template B of Annex V refers to “regular investments” and includes a line “amount invested over 
+time”, but can the manager delete the narrative that relates specifically to the insurance element 
+(such as “survival” and “death”)? 
+ 
+Yes, the terms [Survival] and [Death] are between square brackets to indicate that they can be deleted 
+where they are not applicable. 
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+3. How should the number of trading periods to use be calculated (e.g. Point 19 of Annex IV)?  
+ 
+The Delegated Regulation does not specify a conventional number of trading periods which compose 
+one year. Since conventions can vary between Member States or markets, the number of trading 
+periods to use should be the actual number of prices observed in t he prescribed interval. 
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+4. How should the term “rolling” in Point 18c) of Annex IV be applied?  
+ 
+Rolling means that the volatility should be measured with the sub-interval – of length w – increasing by 
+one step each time; for example where there are daily prices and a recommended holding period of 1 
+year (see Point 18(a) of Annex IV of the Delegated Regulation) the sub-interval would start at 1-21 days 
+and roll to 2-22, 3-23 etc.  
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022)
+
+39 
+ 
+5. What performance scenarios shall be included in the Key Information Documents in the case of 
+Category 1 PRIIPs, as defined in Point 4(c) of Annex II of the Regulation No 2017/653? If the answer 
+includes the Stress scenario, could you, please, provide a rul e how the Stress scenario value shall be 
+calculated? 
+ 
+In accordance with Article 3(3) of the Delegated Regulation a stress scenario needs to be shown for 
+such PRIIPs. The rules regarding the calculation of the stress scenario in this case are provided in point 
+31 of Annex IV.  
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+6. For narrative Element E in Annex V, Part 2 of the Delegated Regulation, which states "[Element E] 
+This type of scenario occurred for an investment [add reference to benchmark where applicable] 
+between [add dates in years]", which dates should be linked wit h this narrative? Is the requirement 
+to put the start date and end date of period taken for each performance scenario (so basically 
+different dates for each scenario)? 
+In line with the performance scenario calculation, the dates shown should be in terms of the month 
+and year (e.g. March 2015 – March 2019) and should relate to the periods taken for each performance 
+scenario, such that it is expected to be different dates for the unfavourable, moderate and favourable 
+scenarios.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+7. In terms of the identification of sub intervals in point 7(a) of Annex IV of the Delegated Regulation 
+are these all contained within in the time period defined in point 6 of Annex IV?  
+Yes. If, for example, the historical time period is 10 years, ranging from July 2012 to July 2022 and the 
+RHP is 5 years, the 1st sub interval starts in July 2012 and the last one runs until July 2022, meaning that 
+all subintervals start and end dates must be contained within that 10 year time period.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+8. For the identification of additional shorter sub intervals in point 7(b) of Annex IV of the Delegated 
+Regulation, does this mean only the sub intervals that are truncated by the end of the time period 
+defined in point 6 of Annex IV? 
+Yes, and the sub intervals are intended to be based on monthly prices. For example, for a recommended 
+holding period of 5 years, point 7(b) of Annex IV of the Delegated Regulation intends to capture sub -
+intervals of less than 5 years covering the most rece nt years (i.e. less than 5 years prior to the date of 
+calculation). This means running from 4 years and 11 months to 1 year (i.e. including 4 years and 11 
+months, 4 years and 10 months, 4 years and 9 months…1 year and 2 months, 1 year and 1 month, and 
+1 year).  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+40 
+ 
+9. What is the intended calculation for the “linear transformation” in point 7(c)(iv) iof Annex IV of the 
+Delegated Regulation?  
+The linear transformation that must be done on the performance calculated for sub intervals indicated 
+in point 7(b) of Annex IV of the Delegated Regulation (i.e., shorter than the recommended holding 
+period) is necessary to make these returns comparable to the ones calculated for sub intervals indicated 
+in point 7(a) of Annex IV, (i.e. with length equal to the recommended holding period), such that they 
+can all afterwards be ranked for the purpose of selecting the unfavourable scenario. The linear 
+transformation means that the performance over that shorter period (e.g. an outcome of 8,000 EUR 
+over 2 years) is taken to be also the performance over the recommended holding period (e.g. an 
+outcome of 8,000 EUR over the recommended holding period).  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+10. Point 12 of Annex IV of the Delegated Regulation notes that where the objectives of the PRIIP make 
+reference to a benchmark, that benchmark shall be used for the performance scenario calculations. 
+However, is it permitted to use a different proxy (e.g. pri ce simulation or model scenario) if data 
+series are in line with the objectives of the PRIIP?  
+It is allowed to use a different benchmark for the performance scenario calculations only where the 
+conditions in the first subparagraph of point 12 of Annex IV of the Delegated Regulation, are not met.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+11. Is it required to keep the same benchmark for the SRI and performance scenario calculations?  
+For certain Category 1 PRIIPs, Category 3 PRIIPs and Category 4 PRIIPs, the same underlying data should 
+be used for calculating the SRI and performance scenario calculations.  
+For Category 2 PRIIPs falling into Case 2 or Case 3 set out in Annex IV of the Delegated Regulation, the 
+benchmark or proxy used for the performance scenario calculation should be the same as the one used 
+for SRI calculation. However, given that the histor ical data needed for the performance scenarios 
+calculation is longer than the data needed for the SRI calculation, then a longer data series for the 
+benchmark or proxy may need to be used for the performance scenario calculation. Where there is not 
+sufficient historical data for the benchmark or proxy (that was used for the SRI calculation) that meets 
+the criteria set out in point 5 of Annex IV, the historical data that is available for that benchmark or 
+proxy should be used, supplemented by data from an ad ditional benchmark or proxy in accordance 
+with point 13 of Annex IV.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+41 
+ 
+12. Regarding the methodologies for performance scenario described in Annex IV of the Delegated 
+Regulation ((EU) 2021/2268) it is not clear what approach should be used to build performance 
+scenarios for Category 2 PRIIPs other than unit linked, UCITS and AIF,  for which sufficient historical 
+data are available. We would like to know whether this situation should fall under Case 1 or whether 
+it should be considered under Case 3. If it needs to be considered under Case 3, we would like to ask 
+for further explanation about the data to use. Since the historical data of the PRIIP are sufficient, no 
+supplement should be necessary. Therefore, we would like to know whether only the historical data 
+of the PRIIP should be used or whether they should be completely replaced by the historical value of 
+the relevant benchmark regulated by Regulation (EU) 2016/1011.  
+Case 3 applies which covers ‘any other Category 2 PRIIP’ that does not fall within point 1 of Annex VIII 
+of the Delegated Regulation. 
+However, Case 3 does not exclude the use of the actual price history or the use of a benchmark with 
+sufficient price history. In the case described only the historical data of the PRIIP should be used. The 
+use of benchmarks regulated by Regulation (EU) 2016/1011 covers the case where it is necessary to 
+supplement the actual PRIIP values or the benchmark referred to in point 12 of  Annex IV of the 
+Delegated Regulation in order to have sufficient historical data.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+13. Point 15 of Annex IV of the Delegated Regulation states that for Category 2 PRIIPs for which there is 
+not an appropriate benchmark with sufficient history, performance scenarios shall be calculated in 
+accordance with the method for Category 3 PRIIPs using 15 years of historical data of the PRIIP or the 
+benchmark. If 15 years of historical data are available for the PRIIP or the benchmark, why are cases 
+1 or 2 not applicable? Or does this situation refer to a very long term PRIIP?  
+In accordance with point 5 of Annex IV of the Delegated Regulation, the historical data needs to be 5 
+years longer than the recommended holding period (as well as at least 10 years). Point 15 of Annex IV 
+addresses the situation that more than 15 years of h istorical data would be needed to follow the 
+methodology set out in points 7 to 11 of Annex IV, given that, for PRIIPs with a recommended holding 
+period longer than 10 years, more than 15 years of historical data is needed.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+14. For Category 2 PRIIPs, is it possible to use lower percentiles of the estimated distribution of outcomes 
+as foreseen in point 24 of the Delegated Regulation? 
+Point 24 of Annex IV of the Delegated Regulation only applies to certain Category 1 PRIIPs, Category 3 
+PRIIPs and Category 4 PRIIPs. It only applies to Category 2 PRIIPs for which point 15 of Annex IV is 
+applicable.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+42 
+ 
+15. What approach should be taken for Category 2 PRIIPs for which there is not an appropriate 
+benchmark or proxy with sufficient historical data which meets the criteria set out in point 5 of Annex 
+IV of the Delegated Regulation for the PRIIP, and for which there are not 15 years of historical returns 
+of the PRIIP or an appropriate benchmark or proxy (so point 15 of Annex IV also does not apply)?  
+In this case, performance scenarios should be calculated in accordance with point 31 of Annex IV of the 
+Delegated Regulation.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+16. Can a fund with multiple share classes use the price history of an existing share class when a new 
+share class is created rather than use the price history of a benchmark?  
+Yes, it is expected to be appropriate to use the price history of an existing share class in this case, on 
+the basis that in substance it is part of the same product. However, the features of the specific share 
+class should be reflected, such as adjusted for differences in costs.   
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+17. Regarding Article 8(3) of the Delegated Regulation: 
+a) What is meant by "performance scenario calculations"? Is it necessary for the full calculations 
+underlying each scenario to be published or just the result for each scenario?  
+b) When it says, "previous performance scenario calculations shall be published on a monthly basis", 
+is the requirement just for the latest month's figures (over-writing the previous month each time) or 
+will the full history from January 2023 need to be published?  
+“Previous performance scenario calculations” intends to cover only the performance scenarios (i.e. the 
+results for each scenario in terms of monetary units and average return in percentage included 
+previously within the KID) and not the full calculations underlying each scenario need to be published. 
+The information published should include figures covering all previous performance scenarios 
+calculated at least on a monthly basis and not over-writing the previous figures. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+43 
+ 
+18. Article 14(e) of the Delegated Regulation refers only to the publication of past performance of the 
+underlying Category 2 investment options as required by Article 8(3) and not to the requirement in 
+Article 8(3) to publish previous performance scenarios. D oes this mean that previous performance 
+scenarios should not be published for MOPs with Category 2 options? 
+The information on previous performance scenarios is considered to be equally relevant for investment 
+options in MOPs that are open-ended funds, or other PRIIPs open to subscription.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+19. What is the relationship between point 11 of Annex IV and Article 15 of the Delegated Regulation?  
+Annex IV, point 11 of the Delegated Regulation specifically concerns the frequency with which the 
+performance scenario should be calculated for Category 2 PRIIPs. 
+It does not require a review of the entire KID, which is governed by Article 15 of the Delegated 
+Regulation. The recalculation of the performance scenarios also does not automatically mean that it 
+will be necessary to revise and republish the KID. This depends on the degree to which the performance 
+scenario results have changed and whether the information contained in the key information document 
+remains accurate, fair, clear, and non-misleading. 
+In accordance with second sub-paragraph of Article 8(3) of the Delegated Regulation, for certain types 
+of PRIIPs (‘open -ended funds, or other PRIIPs open to subscription’), previous performance scenario 
+calculations shall be published on a monthly basis. T his monthly publication also does not require an 
+update to the KID itself.   
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+20. In life annuities, should the sum of rents paid up to the period be considered in the minimum 
+scenario? 
+In accordance with point 3(b) of Part 1 of Annex V of the PRIIPs Delegated Regulation, only guaranteed 
+amounts should be reflected in the scenario showing the minimum investment return amount.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+05 December 2023) 
+ 
+ 
+21. Could you confirm that for what concerns the calculation of performance scenarios, as specified in 
+Annex IV, point 7, the manufacturer must always use monthly data even if the NAV is available at 
+higher frequencies (i.e. daily or weekly)? 
+Yes, monthly data shall be used in accordance with point 7(a) of Annex IV of the PRIIPs Delegated 
+Regulation.
+
+44 
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+05 December 2023) 
+ 
+22. In Annex IV, Case 3 for PRIIPs referred to in point 1 of Annex VIII without sufficient historical data and 
+with no benchmark, or with a benchmark without sufficient historical data, or any other Category 2 
+PRIIPs. In point 13 it is said to use a benchmark regulated by Regulation (EU) 2016/1011 of the 
+European Parliament and of the Council. Is  not that a contradiction? In point 15 it is said that in the 
+case in which there is not an appropriate benchmark or proxy with sufficient historical data which 
+meets t he criteria set out in point 5 of this Annex for the PRIIP, performance scenarios shall be 
+calculated in accordance with points 21 to 27 of this Annex using 15 years of historical returns of the 
+PRIIP or an appropriate benchmark or proxy.  
+1) Does that mean we are to treat the PRIIP as a Category 3 product?  
+2) It seems contradictory that the regulation is asking to calculate performance scenarios in 
+accordance with points 21 to 27 with 15 years of historical returns, when we have not been able to 
+obtain 10 years historical data, either from the actual product or its appropriate benchmark  
+If we do not have sufficient data to meet the amended performance scenario calculations, may we 
+treat the PRIIP as Category 1 according to the definition in Annex II, point 4(c). Accordingly, its 
+Moderate, Favourable and Unfavourable performance scenarios should be “reasonable and 
+conservative best estimates of the expected values". If yes, we would like to clarify if the SRI 
+calculation should be set at a “6” in the case where the product may have sufficient data for SRI 
+calculation (e.g. 5 years monthly), but insufficient data for performance scenario calculation (e.g. 10 
+years historical returns not available).  
+Regarding the calculation of performance scenarios, the description of “Case 3” above point 13 of 
+Annex IV of the PRIIPs Delegated Regulation refers to a PRIIP which does not need to refer to a 
+benchmark in the “What is this product?” section of the KID (i n accordance with Article 2(2a)(d) of the 
+PRIIPs Delegated Regulation) and does not need to show past performance against a benchmark (in 
+accordance with point 11 of Annex VIII). In this case, the use of a benchmark regulated by Regulation 
+(EU) 2016/1011 of the European Parliament and of the Council may be appropriate for the calculation 
+of the performance scenarios. Please also see the answers to Q&As 13 and 15 in this section. 
+Regarding the SRI calculation, the application of point 15 of Annex IV of the PRIIPs Delegated Regulation 
+does not change the categorisation of the PRIIP in accordance with points 3 -7 of Part 1 of Annex II of 
+the PRIIPs Delegated Regulation. Where there ar e sufficient historical prices in accordance with point 
+5 of Part 1 of Annex II of the PRIIPs Delegated Regulation and it is a Category 2 PRIIP, the SRI calculation 
+should be performed using those historical prices. Point 8 of Part 1 of Annex II of the PRI IPs Delegated 
+Regulation does not apply in this case. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+05 December 2023)
+
+45 
+ 
+23. Should a KID disclose cost information and scenario information about 1 year and half the RHP in case 
+the investors may not be allowed to exit a PRIIP before the end of the RHP?  
+For PRIIPs where it is not possible for the retail investor to exit the product before the RHP, performance 
+and cost information should only be shown in relation to exiting the product at the RHP. The intention 
+for performance scenarios to not be shown at intermediate holding periods where the product cannot 
+be cashed in is indicated in point 9 of Part 1 of Annex V of the PRIIPs Delegated Regulation concerning 
+narrative element F. 
+As stated in point 90(d) of Annex VI of the PRIIPs Delegated Regulation, where a PRIIP does not allow 
+exit before the RHP, costs should be shown only at the RHP. Consequently, in this case, for Table 1, 
+‘Costs over time’, the intermediate holding periods d o not need to be shown, and in Table 2, 
+‘Composition of costs’, costs should also be shown at the RHP, including if the RHP is more than one 
+year.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+15 March 2024) 
+ 
+ 
+24. Point 26 of Annex IV reads: ‘For Category 3 PRIIPs, the following adjustments shall be made for the 
+calculation of the stress scenario compared to the calculation for Category 2 PRIIPs: (a) infer the stress 
+volatility based on the methodology defined in points 18(a), (b) and (c) of this Annex ’ 
+Should paragraph 26 read, ‘defined in points 18(a), (b), (c) and (d) of this Annex’ as it is (d) that defines 
+the 95th percentile? 
+As stated in point 18(d) of Annex IV of the PRIIPs Delegated Regulation, the use of the 99 th percentile 
+for one year and the 95th percentile for other holding periods is a part of the definition of, and calculation 
+method for inferring, the stressed volatility. 
+The stressed volatility is also used in the calculation of the stress scenario for Category 3 PRIIPs. 
+Consequently, when calculating the stressed volatility for Category 3 PRIIPs, this should be done by 
+inferring the value that corresponds to the 99 th percentile for one year and the 95 th percentile of the 
+distribution of volatilities for other holding periods, respectively. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 
+05 May 2025) 
+ 
+ 
+25. Point 35 of the Annex IV on Performance Scenarios states that ‘the values to be shown for the 
+intermediate periods for the unfavourable, moderate and favourable scenarios shall be calculated in 
+accordance with points 5 to 14 of this Annex, using the time period specified in point 6, but based on 
+the outcomes achieved over the intermediate holding period. ’ In order to evaluate unfavourable, 
+moderate, and favourable scenarios over 1 year and over half of the RHP, should the length of the 
+correspondent intermediate period for the fixed sub-interval be used, and similarly for the decreasing 
+sub-interval? 
+Yes, when the calculation is performed for the intermediate holding periods, then the duration of the 
+intermediate holding period should be used as the length of the fixed sub-interval (i.e. the sub-interval 
+referred to in point 7(a) of Annex IV of the PRIIPs Delegated Regulation).
+
+46 
+ 
+This is also the case for the decreasing sub -interval (i.e. the sub -interval referred to in point 7(b) of 
+Annex IV of the PRIIPs Delegated Regulation), but this is only relevant for intermediate holding periods 
+that are longer than one year. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 
+05 May 2025) 
+ 
+ 
+26. What is the meaning of ‘1 year’ and ‘> 1 year’ in the table in paragraph 18 of Annex IV of PRIIPs L2? 
+Specifically, we wonder whether ‘1 year ’ encompasses all Recommended Holding Periods (RHPs) 
+under 1 year? 
+Stress scenarios should be established for the recommended holding period and intermediate holding 
+periods if any, in accordance with point 2 of Annex IV of the PRIIPs Delegated Regulation setting out 
+that, ‘the stress scenario shall show intermediate periods where those periods are shown for the 
+performance scenarios under point 1(a) to (c) of this Annex. ’ The rules governing intermediate holding 
+periods are set out in points 32 to 38 of Annex IV of the PRIIPs Delegated Regulation. 
+Therefore, the table mentioned above in point 18(a) of Annex IV of the PRIIPs Delegated Regulation 
+should be used to calculate the formula described in point 18(c) of the same Annex, taking into account 
+the holding period for which this calculation is inte nded, i.e. the recommended holding period and 
+intermediate period(s) if any. The figures in the table below the label ‘1 year’ should be applied for the 
+calculation of the stress scenario where the holding period is 1 year or less. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 
+05 May 2025) 
+ 
+ 
+27. The main difference between Category 2 and Category 3 is, in accordance with Annex II Part 1 Point 
+5, whether the condition of "constant multiple" is fulfilled. In the event where a UCITs product has:  
+i) a RHP that is the same as the maturity of the product (e.g. 10 years) and  
+ii) the payoff at maturity is the redemption value (provided there is no credit default) of a pool of 
+bonds that have the same redemption date, would it be correct to treat the above product as not 
+fulfilling the definition of "constant multiple" (at maturity) and therefore belonging to Category 3? 
+If the PRIIP product is not qualified to be Category 3, hence it is Category 2:  
+1) How should the redemption value viewed in the performance scenarios (at maturity) in a 
+hypothetical scenario where negative returns exist throughout the lifetime of the product?  
+2) Shall we show the results as produced by the Category 2 scenarios (so not accounting for the 
+redemption value as a "floor") or we allow for the fact that the redemption value is the minimum to 
+be receive (hence we don't account for any credit event whic h is the case as the scenarios are 
+derived)?
+
+47 
+ 
+The UCITS described in the question should be classified as a Category 2 PRIIP as it pays out a constant 
+multiple of the prices of the underlying investments. The performance scenario figures should reflect 
+the outcome of the calculation methodology. Where  negative returns have been observed in the 
+historical data these would be reflected in the scenarios shown. The purpose of the minimum value or 
+floor shown in the performance scenarios, in accordance with point 4 of Annex IV and point 3(b) of Part 
+I of An nex V of the PRIIPs Delegated Regulation, is to highlight whether or not there is unconditional 
+capital protection. Therefore, in the case of products without such capital protection, it is necessary to 
+indicate that the retail investor could lose some or all of their investment, regardless of the results of 
+the performance scenario calculations. The redemption value for bonds does not constitute an 
+unconditional capital protection. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 5 
+December 2025) 
+ 
+ 
+28. According to point 16 (a) of Annex IV, the assessment of the appropriateness of a benchmark or proxy 
+depends, inter alia, on the risk -return profile where the benchmark or proxy and the PRIIP fall into 
+the same category of SRI or volatility and expected re turn or both. In this context, must it be taken 
+into account whether the PRIIP has credit liabilities? If so, is the current leverage ratio or the 
+maximum leverage ratio permitted under the investment conditions relevant?  
+In accordance with points 16 and 17 of Annex IV of the PRIIPs Delegated Regulation, PRIIP 
+manufacturers are responsible for assessing, inter alia, the consistency of the risk-return profile of the 
+PRIIP with that of the benchmark or proxy chosen, as well as the consistency in terms of the volatility 
+or historical volatility. In this respect, it is expected that any liabilities or leverage of the PRIIP will need 
+to be taken into account as part of this assessment. In view of point 16(d) concerning ‘potential  assets 
+in which the PRIIPs invests’, it is not sufficient to consider only the current leverage ratio; the maximum 
+leverage ratio should also be taken into account. In addition, it is relevant to note the last subparagraph 
+of point 16 of Annex IV, which s tates that, ‘PRIIP manufacturers may use criteria additional to those 
+listed in the first subparagraph provided they demonstrate that those additional criteria are relevant in 
+terms of the objectives of the PRIIP and the type of assets in which the PRIIP i nvests or the type of 
+underlying investments to which the PRIIP offers exposure’. Where a PRIIP manufacturer identifies that 
+additional criteria are relevant to this assessment, they are expected to take these into account.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 5 
+December 2025) 
+ 
+ 
+29. In assessing whether the use of a particular benchmark or proxy is appropriate, potential assets in 
+which the PRIIP invests, consistent with the investment policy, must be taken into account (point 16 
+d) of Annex IV). In addition, exposure to underlying asset classes is relevant (point 16 e) of Annex IV). 
+If the PRIIP can invest in a number of different asset classes in accordance with its investment policy, 
+is it permissible to consider only those asset classes in which the PRIIP is already invested as lon g as 
+there are no investments in other eligible asset classes and to consider other asset classes only from 
+the time when the PRIIP invests in these other asset classes?
+
+48 
+ 
+Point 16 of Annex IV of the PRIIPs Delegated Regulation specifies that the criteria used for the 
+assessment of the benchmark or proxy should be consistent with, inter alia, the type of assets in which 
+the PRIIP invests, and the asset allocation of the PRIIP (point 16 c)). However, point 16(d) specifies that 
+‘potential assets in which the PRIIP invests, consistent with the investment policy’, should also be taken 
+into account. Points 13 and 14 of Annex IV also envisage the case that different asset types or exposures 
+are offered. It is, therefore, not permissible to ex ante  dismiss any such potential assets in the 
+assessment of the appropriateness of the benchmark or proxy, given that it is aimed that the benchmark 
+or proxy would remain appropriate over time, including where the asset allocation may have changed. 
+At the same time, the extent to which an appropriate benchmark or proxy can be used, fully taking into 
+account all possible future asset allocations, will depend on the specific case, including whethe r it is a 
+new or longstanding product, the range of eligible assets, the likelihood of investment in specific asset 
+classes even though the investment policy theoretically allows such investment, or the frequency of 
+changes in the assets allocation. Overal l, the methods used in the assessment should be plausible and 
+appropriate for the particular product. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 5 
+December 2025) 
+ 
+ 
+30. Point 11 of Annex II, Methodology for the presentation of risk, defines the return over each period as 
+the natural logarithm of the ratio of the price at the market close at the end of the current period to 
+the market close at the end of the preceding peri od. Is this definition applicable to define the 
+performance of the PRIIP over a certain sub-interval? 
+The use of log normal is more appropriate for certain calculation methodologies, including the Cornish-
+Fisher expansion. In these cases, it is specified in the PRIIPs Delegated Regulation that log normal 
+returns shall be used (such as in point 11 of Annex II and point 18 of Annex IV). In other cases, where it 
+is not specified that log normal returns need to be used, such as the calculation steps in point 7 of Annex 
+IV of the PRIIPs Delegated Regulation for the unfavourable, moderate and favourable scenarios  for 
+Category 2 PRIIPs, simple returns can be used. Regardless of the calculation method used, the impact 
+of return compounding effects need to be accurately considered when showing returns in the 
+performance scenarios (in accordance with point 44 of Annex IV of the PRIIPs Delegated Regulation). 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 5 
+December 2025) 
+ 
+ 
+31. In the case of actively managed funds (meaning there is not a benchmark that can reflect the 
+performance) that have been valued on a weekly basis for more than 10 years (i.e. that currently 
+have only weekly NAV time series), but would transition to daily v aluations, we would like to have a 
+clarification on the following points: 
+i) Under the PRIIPs Regulation, can we still use weekly NAV for the calculation of VaR until we have a 
+NAV time series (greater or equal 2 years)?
+
+49 
+ 
+ii) For performance scenarios calculation we use 11 years weekly data. Does it mean we can switch 
+to daily scenario calculation only in 11 years?  
+First, it is relevant to mention that it is necessary for the data series used to include the most recent 
+price data available at the time of the calculation. It can also be noted that, given the requirements 
+regarding the necessary historical data may be different (depending on the PRIIP Category) for the 
+performance scenarios and MRM, a different frequency of price data might need to be used for the 
+performance scenarios calculations compared to the MRM calculation.   
+In terms of the specific questions raised, the PRIIPs Delegated Regulation does not address directly the 
+case described and a number of different approaches can be possible including the continued use of 
+weekly prices or the use of daily price data concatenated with daily prices of a proxy (if an appropriate 
+proxy is available). At the same time, the PRIIP manufacturer should select the most plausible and 
+appropriate approach for the particular product. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 5 
+December 2025)
+
+50 
+ 
+VII. Past performance (Annex VIII) [Last update 15 March 2024] 
+1. If a UCITS, AIF or unit-linked insurance-based investment product does not yet have past performance 
+data for one complete calendar year (and is not a UCITS or AIF which may provide simulated data for 
+past performance), how should this position be disclosed?  
+In accordance with point 8 of Annex VIII of the Delegated Regulation a statement that there is 
+insufficient data to provide a useful indication of past performance should be included. There is no need 
+to accompany that statement with a blank past performance chart. This Statement should be included 
+in the ‘Other relevant information’ section.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+2. Where a UCITS, AIF or unit -linked insurance -based investment product refers to an index in its 
+investment objectives and policy as a benchmark and will measure the performance against that 
+index, but does not intend to track it, is it necessary to show the past performance of the benchmark 
+index?  
+Yes, in accordance with point 11 of Annex VIII of the Delegated Regulation, a bar showing the 
+performance of the benchmark index must be included in the bar chart alongside each bar showing the 
+past performance of the PRIIP. It should be made clear that the performance is not tracking the index.  
+For additional clarity, point 11 of Annex VIII applies to all UCITS, AIFs and unit -linked insurance-based 
+investment products, including total return/absolute return UCITS. For example, the requirement also 
+applies to cases where:  
+• The comparator is not named a ‘benchmark’, but the PRIIP’s objectives and investment policy make 
+it clear that it is a comparator the UCITS, AIF or unit -linked insurance-based investment product 
+aims to outperform. For example, if the fund’s objectives and  investment policy state it will seek 
+to:  
+o outperform cash (for example, 3 -month EURIBOR), the performance of the PRIIP against 
+the full target should be shown  
+o outperform a target ‘plus X%’, the performance of the PRIIP against the enhanced target 
+should be shown.  
+• The UCITS, AIF or unit -linked insurance-based investment product targets outperformance of the 
+benchmark index over a period of time, for example ‘X% per annum over four years’. In this case, 
+annualised past performance of the benchmark index should be shown alongside that of the UCITS, 
+or AIF or unit-linked insurance-based investment product, even if the target is to beat it over four 
+years. 
+To ensure fair, clear and not misleading communications, the information disclosed in the UCITS or AIF 
+KID should be consistent with the UCITS’ or AIF Investment Objective in the legal and regulatory fund 
+documents, such as the Prospectus or the offering memorandum. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+51 
+ 
+3. Does the requirements in Articles 6(1) and 9 of the PRIIPs Regulation mean that past performance 
+disclosed regarding a benchmark index should be consistent with past performance disclosure in 
+other investor communications, including marketing communication s?  
+Yes. PRIIP manufacturers should ensure that disclosure of past performance is not misleading by way 
+of being inconsistent, including by ensuring consistency:  
+• Across legal and regulatory documents (including the prospectus) and marketing communications. 
+It may be unclear to investors if the PRIIP names and measures performance against a benchmark 
+index mentioned e.g. in the prospectus, or in marketing communications, but not in the disclosure 
+of past performance in accordance with Annex VIII of the PRIIPs Delegated Regulation. The 
+disclosure of past performance should be consistent with other product documents. This also 
+applies to ensuring that the benchmark index used is consistent.  
+• Across distribution channels. It may be inconsistent if a PRIIP arranges for, or permits, an index to 
+be referred to as a benchmark in certain media, such as online platforms or financial data providers, 
+but it does not make the same comparison in the disc losure of past performance in accordance 
+with Annex VIII. This also applies to ensuring that the benchmark index used is consistent.  
+• Across investor types. It should be ensured that all types of investors receive consistent and not 
+misleading information regarding whether or not the PRIIP has a benchmark index. For example, it 
+may be inconsistent if a PRIIP suggests performance should b e measured against a benchmark 
+index to only a cohort of investors (such as in communications to professional investors only) but 
+does not provide the equivalent performance comparison to all investors through the disclosure 
+of past performance in accordance with Annex VIII. This also applies to ensuring the version of the 
+benchmark index used is consistent. 
+(Answer provided by the ESAs on the application of the PRIIPs Regulation and Delegated Regulation, 
+published on 14 November 2022) 
+ 
+ 
+4. What should be displayed in the bar chart for years when there is no data?  
+Pursuant to point 7 of Annex VIII of the Delegated Regulation, when there is no data available, the year 
+shall be shown as blank with no annotation other than the date.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+5. If the benchmark is changed, how should the chart of past performance be displayed for the period 
+preceding the change?  
+Pursuant to points 15 and 16 of Annex VIII of the Delegated Regulation, where a material change occurs 
+to a UCITS or AIF’ objectives and investment policy or to the objectives of a unit-linked insurance-based 
+during the period displayed in the bar chart, t he past performance prior to that material change shall 
+continue to be shown. Therefore, if the benchmark is modified, the bar chart should display the 
+performance of the previous benchmark for the period preceding the change labelled with a clear 
+warning that the performance was achieved under circumstances that no longer apply.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+52 
+ 
+ 
+ 
+6. When several versions of a benchmark are available which differ in the approach taken to 
+reinvestment of revenues, which version should be used in the past performance chart?  
+Pursuant to point 2 of Annex VIII of the Delegated Regulation, past performance figures shall be 
+calculated on the basis that any distributable income has been reinvested. 
+Therefore, where available the performance of the benchmark with reinvestment of revenues should 
+be used in the bar chart alongside the past performance of the PRIIP. Where such a benchmark does 
+not exist, an appropriate disclosure highlighting that the be nchmark does not take into account the 
+reinvestment of revenues should be included.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+7. Point 19 of Annex VIII of the Delegated Regulation states that “In the case of mergers referred to in 
+Article 2(1)(p)(i) and (iii) of Directive 2009/65/EC, only the past performance of the receiving UCITS 
+shall be maintained.” Point 19 (and 20) of Annex VI II apply in cases where a receiving UCITS or AIF 
+has a performance history. How should points 19 and 20 of Annex VIII be interpreted in cases where 
+the receiving UCITS or AIF is a newly established UCITS or AIF with no performance history and is in 
+effect a continuation of the merging UCITS or AIF?  
+In the case of a merger where the receiving UCITS or AIF is a newly established UCITS or AIF with no 
+performance history, UCITS or AIFs should use the past performance of the merging UCITS or AIF in the 
+disclosure of past performance of the receiving UCITS or AIF if the competent authority of the receiving 
+UCITS or AIF reasonably assesses that the merger does not impact the UCITS or AIF’ performance. It is 
+expected that the performance of the UCITS or AIF would be impacted if there is, inter alia, a change to 
+the investment policy or to the entities involved in the investment management. It should also be made 
+clear in the disclosure of past performance of the receiving UCITS or AIF that the past performance is 
+that of the merging UCITS or AIF. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+8. Taking into account Article 23(3) of Commission Regulation (EU) No. 583/2010, should the 
+information on past performance in accordance with Article 8(3), first subparagraph of the PRIIPs 
+Delegated Regulation be published no later than 35 business days after 31 December each year? 
+In line with Q&A 4 in the section XI. Investment funds the requirement for UCITS to make available past 
+performance information no later than 35 business days after 31 December each year in Article 23(3) 
+of Commission Regulation (EU) No. 583/2010 implement ing Directive 2009/65/EC still applies, but the 
+requirements on the content and presentation of the past performance information (Article 78(3)(c) of 
+Directive 2009/65/EC) are replaced by the requirements for PRIIPs in Annex VIII of the PRIIPs Delegated 
+Regulation. Therefore, UCITS are required to publish a duly revised presentation of past performance 
+no later than 35 business days after 31 December each year.
+
+53 
+ 
+For other PRIIPs defined in point 1 of Annex VIII of the PRIIPs Delegated Regulation, including certain 
+types of AIFs and unit -linked insurance -based investment products, the rules on the content and 
+presentation of the past performance information are sim ilarly contained in Annex VIII of the PRIIPs 
+Delegated Regulation, including that information should be published for each complete calendar year 
+(i.e. covering the period January to December each year), once available. A deadline is not specified for 
+updating the information on past performance. However, for these other types of PRIIPs, it is also 
+expected that the information on past performance is updated and published as soon as possible after 
+the end of each calendar year, and consequently that this me ans it is also expected to be published 
+within 35 business days after 31 December each year.  
+Since the information on past performance is not published within the KID itself, it may not be necessary 
+for the PRIIP manufacturer to review and revise the KID at the same time as publishing the updated 
+information on past performance (e.g. if the requir ement in Article 15 of the PRIIPs Delegated 
+Regulation to review the KID every 12 months following the date of initial publication is separately 
+satisfied). 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+15 March 2024)
+
+54 
+ 
+VIII. PRIIPs with a RHP of less than one year  [Last update 21 
+December 2022] 
+ 
+1. If the recommended holding period (RHP) of the PRIIP is less than one year, how should performance 
+and cost figures be presented in the KID?  
+ 
+Point 45 of Annex IV and point 76a of Annex VI of the Delegated Regulation specify how the 
+performance and cost figures should be calculated for PRIIPs with a RHP of less than one year.  
+ 
+In this case, the RHP (e.g. in terms of the information on performance in the heading of the Templates 
+in Part 2, Annex V) should be stated in terms of days or months. For the performance scenario Template 
+it is also relevant to replace the term “average return each year” with the term “percentage return”, 
+and to delete the references to “annual” “per year” or “each year” in the cost Tables 1 and 2 as indicated 
+in Annex VII.  
+ 
+It is important to underline the importance of the other narrative explanations in the KID. The narrative 
+included in the ‘What is this product’ section should clearly explain, for example, the financial structure 
+of the product (i.e. avoiding jargon or fo rmulae) and its economic rationale so as to inform retail 
+investors on how the RHP is linked with the product features, including its objectives, risks and costs. 
+For PRIIPs with a RHP of less than one year, it should also explain the implications of the f igures being 
+presented over the RHP rather than per year on the comparability with other PRIIPs of different RHP.  
+ 
+In addition, Article 3(2) of the Delegated Regulation, explicitly requires retail investors to be informed 
+about the potential higher risks if the PRIIP is not held to maturity or for the RHP in the section ‘What 
+are the risks and what could I get in return’. In the case of open -ended PRIIPs with an extremely short 
+RHP (e.g. only one day) holding them for longer is expected to significantly affect their risk.  
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, r evised on 21 
+December 2022)
+
+55 
+ 
+IX. Derivatives [Last update 21 December 2022] 
+ 
+1. Should KIDs for ETDs be produced per individual series or can a KID with a lower level of granularity 
+be provided?  
+In the case of futures, call options or put options traded on a regulated market an appropriate level of 
+granularity could be a grouping according to the type of derivative and underlying (e.g. securities, 
+currencies, interest rates, commodities, indices, etc.), as long as the relevant product characteristics, 
+such as exercise style, that determine the presentation of risks and costs in the KID are the same within 
+that group. This level of granularity could for example result in different KIDs for long call  options on 
+shares, short put options on indices or futures long. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+2. Can non-ETDs use the same treatment as ETDs? 
+Call options, put options or futures traded on certain trading venues, including MTF may have similar 
+features to those traded on a regulated market, such as high levels of standardisation. However, these 
+products may also differ considerably in terms of r isk or reward and costs structure as a result of the 
+characteristics of the trading venue. The use of a pay -off structure graph and an equivalent level of 
+granularity to that described in question 1 of this section [Derivatives]  should only be possible for call 
+options, put options or futures that have the same characteristics relevant for the KID, for example in 
+terms of risk and reward, as call options, put options or futures traded on a regulated market.  
+This condition is not considered to be fulfilled unless at least the following conditions are met:  
+- The trading venue has non-discretionary rules; 
+- The definition of the contract is fixed by the trading venue; 
+- The costs of trading are fixed by the trading venue; 
+- The structure of the trading venue allows for an efficient price formation process: this is considered 
+to be facilitated when at least one market maker is available and the quotation rules are as 
+stringent as those in place on a regulated market in term of bid-ask spread, size and presence; 
+- The contract is cleared through a CCP;  
+- The policy the trading venue follows in cases of corporate actions (such as dividend payments, 
+stock splits, etc.) ensures the retail investor will not have a worse outcome as a result of a corporate 
+action than for the same derivative on a regulated market.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+56 
+ 
+3. Can a PRIIP manufacturer supplement the information described in Annex IV, point 30, of the  
+Commission Delegated Regulation for the pay -off graph to ensure that it is comprehensible and 
+meaningful for retail investors? 
+ 
+Whilst the information described in Point 30 of Annex IV must be included in the pay-off graph, in order 
+to help a retail investor to understand the product and what it means for his / her return, a good 
+practice would be to provide the retail investor with some additional information in the pay -off graph 
+to help him / her interpret the graph. 
+ 
+An example would be to label some elements of the pay -off graph that show the retail investors how 
+they can calculate their loss or profit at expiration date. A graphical example is provided below:  
+ 
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+  
+-2
+-1
+0
+1
+2
+3
+4
+5
+14 15 16 17 18 19 20 21 22 23 24 25 26
+Profit/loss
+Price underlying value
+Long Call option
+Premium paid = 
+maximum loss
+Strike 
+price
+Strike price + 
+premium = 
+break-even 
+point
+Price of 
+underlying -
+excercise price -
+premium = 
+profit
+
+57 
+ 
+4. Can OTC derivatives use the same approach as options and futures traded on an exchange in terms 
+of the level of granularity and the display of risks and performance scenarios?  
+It is not possible to use the same approach as for call and put options and futures traded on a regulated 
+market. The KID for an OTC derivative contract should be drawn up indicating the relationship with the 
+underlying asset, the type of underlying asset, the currency of the notional amount, the underlying 
+value of the contract, a representative term, price or interest rate, and any other relevant features such 
+as a strike, barrier or guarantee. 
+The content of the KID, including the performance scenarios and the cost information, should be based 
+on market data that are representative for the market conditions applicable as long as the OTC 
+derivative contract is made available to retail investors. This means that the KID should not be based 
+on purely hypothetical data nor that it has to contain specific contractual data. In turn, this means that 
+it could be acceptable, to draw up a single KID for a class or group of OTC derivatives that share the 
+same relevant product characteristics, including those outlined in the first paragraph. Equally, a 
+separate KID can be drawn up for each OTC derivative contract reflecting the bespoke offer to the retail 
+investor.  
+Where the KID does not reflect a bespoke offer, the guiding principle would be that there should be 
+limitations on any differences between the information in the KID and the actual OTC derivative 
+contract purchased such that the requirement for the KID to be accurate, fair, clear and not misleading 
+and consistent with the binding contractual documentation can be satisfied. Regarding the possibility 
+to draw up a KID for an entire class or group of OTC derivatives this would be acceptable only if the 
+data used would be such that the difference between the figures (e.g. on costs) in the KID for the group 
+and the corresponding figures that would have been included in the KIDs of each OTC derivative within 
+that group would be less than the reasonably expected mar gin of uncertainty on these figures in 
+general. 
+For example, regarding the representative term, it could be acceptable to draw up KIDs representing 
+different ranges of maturities for a derivative contract (e.g. one KID for the OTC derivative contract with 
+a maturity up to 3 months, one KID for the OTC derivative contract with a maturity from 3 to 6 months, 
+etc.). Regarding the applicable price or interest rate in this case this would need to be accurate within 
+the margin of uncertainty referred to above for all of the OTC derivative contrac ts within the range of 
+maturities for which the KID is prepared. In order to be fair and not misleading, it may be appropriate 
+to present the information in the KID, such as the performance scenarios and the cost information, 
+reflecting the worst outcome for the investor within the maturity range.  
+In case of a material change of the market conditions such that the data on which the KID is based are 
+no longer representative for the market conditions, the KID should be reviewed, if that OTC derivative 
+contract is still made available to retail investors. If a KID is drawn up for a bespoke offer, the review 
+requirements do not apply as that PRIIP is by definition no longer available to other retail investors.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+58 
+ 
+5. Is it possible to alter the prescribed wording in the KID template for OTC derivatives?  
+ 
+It is recognised in point 6a of Annex III and point 12 of Annex V of the Delegated Regulation that some 
+of the specific prescribed texts should be adjusted when applied to certain types of Category 1 PRIIPs, 
+such as swaps and similar OTC derivative products which do not require initial payments.  
+In this specific case, the use of the following texts is considered appropriate (changes shown in 
+strikethrough and bold).  
+Presentation of the SRI (Annex III) 
+ 
+1. Text below the presentation of the SRI based on Annex III, point 3(b):  
+Prescribed language [When considered illiquid]: 
+You cannot/may not be able to cash in early. You will/may have to pay significant extra costs to cash in 
+early 
+ 
+Specific adjustments: 
+You cannot/may not be able to cash in end your product early. You will/may have to pay significant 
+extra costs to cash in end your product early 
+ 
+Prescribed language [When considered to have a materially relevant liquidity risk]  
+“You may not be able to sell (end) your product easily or you may have to sell (end) at a price that 
+significantly impacts on how much you get back.”  
+ 
+Specific adjustments: 
+“You may not be able to sell end your product easily or you may have to sell end your product at a 
+price that significantly impacts on the performance of your product on how much you get back.” 
+ 
+2. Narrative explanation - Element D 
+Prescribed language: 
+“In some circumstances you may be required to make further payments to pay for losses. (in bold) The 
+total loss you may incur may significantly exceed the amount invested.”  
+ 
+Specific adjustment: 
+“In some circumstances you may be required to make further payments to pay for losses. (in bold) The 
+total loss you may incur may be significant.  
+ 
+ 
+3. Narrative explanation - Element H 
+Prescribed language: 
+“This product does not include any protection from future market performance so you could lose some 
+or all of your investment.” 
+ 
+Specific adjustment: 
+“This product does not include any protection from future market performance so you could lose some 
+or all of your investment. incur significant losses.” 
+ 
+ 
+4. Narrative explanation – Element I:  
+Prescribed language: 
+“If (we) (are) not able to pay you what is owed, you could lose your entire investment”  
+ 
+Specific adjustment: 
+“If (we) (are) not able to pay you what is owed, you could lose your entire investment incur significant 
+losses”
+
+59 
+ 
+ 
+ 
+Presentation of performance scenarios (Annex V) 
+ 
+1. Templates 
+ 
+Prescribed language:  
+“Investment” 
+ 
+Specific adjustment: 
+“Notional amount” 
+ 
+2. Templates – Table rows 
+Prescribed language: 
+“What you might get back after costs” 
+“Average return each year” 
+ 
+Specific adjustment for certain OTC derivatives where the amounts shown will represent the overall 
+value of the product over time, which could result in amounts due to, or owed by, the retail investor:  
+“What you might get back or pay after costs”. 
+“Average return/loss over notional amount each year” 
+ 
+ 
+3. Narratives - Element F 
+Prescribed language: 
+“This product cannot be [easily] cashed in. This means it is difficult to estimate how much you would 
+get back if you cash in before [the end of the recommended holding period/maturity]. You will either be 
+unable to cash in early or you will have to pay high costs or make a large loss if you do so. ” 
+ 
+Specific adjustment: 
+“This product cannot be [easily] cashed in ended. This means it is difficult to estimate how much you 
+would get back if you cash in end before [the end of the recommended holding period/maturity]. You 
+will either be unable to cash in end early or you will have to pay high costs or make a large loss if you 
+do so.” 
+ 
+ 
+Presentation of costs (Annex VII) 
+ 
+1. Description of the costs shown in the section “What are the costs?” 
+Prescribed language:  
+“The tables show the amounts that are taken from your investment to cover different types of costs. 
+These amounts depend on how much you invest, how long you hold the product [and how well the 
+product does (where applicable)]. The amounts shown here are illustrations based on an example 
+investment amount and different possible investment periods. 
+We have assumed: 
+- [In the first year] you would get back the amount that you invested (0 % annual return). [For the 
+other holding periods we have assumed the product performs as shown in the moderate scenario]  
+- [EUR 10 000/1 000 per year] is invested”  
+ 
+ 
+Specific adjustment: 
+“The tables show the amounts that are taken from your investment have to be paid to cover different 
+types of costs. These amounts depend on the notional value how much you invest, how long you hold 
+the product [and how well the product does (where applicable)]. The amounts shown here are 
+illustrations based on an example notional value investment amount and different possible investment 
+periods. 
+We have assumed:
+
+60 
+ 
+- [In the first year] you have no profit or loss would get back the amount that you invested (0 % 
+annual return). [For the other holding periods we have assumed the product performs as shown in 
+the moderate scenario] 
+- A notional value of [EUR 10 000/1 000 per year] is invested”  
+ 
+ 
+ 
+2. Narrative after Table 2 “Composition of costs” 
+Prescribed language: 
+(Where applicable): “Different costs apply depending on the investment amount [explain 
+circumstances or use an example in maximum 150 characters]” 
+ 
+Specific adjustment: 
+(Where applicable): “Different costs apply depending on the notional value investment amount 
+[explain circumstances or use an example in maximum 150 characters]” 
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+6. For CFDs or other leveraged products should the €10,000 amount in the KID be the amount of deposit 
+paid of the gross notional of the trade? For example, to buy €10,000 of a stock index only requires a 
+payment of €500 under the ESMA leverage guidelines. Acc ordingly, should the RIY calculation be 
+done off the deposit amount to clearly show the impact of leverage on overnight funding costs and 
+other costs? Alternatively, a €10,000 payment would buy someone €200,000 of a stock index under 
+ESMA’s 5% leverage rul e for CFDs so should the RIY and performance calculations be done off that 
+amount? Also, in the performance scenarios should it be the performance on the total notional of 
+the product or on the total deposit? Total deposit would be clearer as it would show  the impact of 
+the leverage. 
+For CFDs, following point 41 of Annex IV of the Delegated Regulation, performance figures in monetary 
+units shall be calculated for a notional amount of 10,000€ (or w here the currency of the PRIIP is not in 
+Euros, the amount specified in point 91 of Annex VI of the Delegated Regulation). According to point 
+43 of Annex IV, the figures to show shall be the profit or loss obtained in the holding period in each 
+scenario. 
+In addition, following point 46 of Annex IV, the percentage return shall be calculated considering the 
+notional amount of the contract and a footnote shall be added to explain that the potential return is 
+calculated as a percentage over the notional amount.  
+Point 12 of Annex V of the Delegated Regulation regarding the presentation of performance scenarios 
+states that for Category 1 PRIIPs, as defined in point 4(b) of Annex II of the Delegated Regulation, the 
+terminology used should be adjusted to reflect the specific features of the PRIIP, such as to refer to the 
+notional amount of the PRIIP. For CFDs, the ESAs consider it appropriate to replace the term “example 
+investment” in Template A of Annex V to clarify the difference between the notional amount referre d 
+to for the calculation of the performance scenarios and the initial guarantee of x € required to be 
+deposited by the retail investor.  
+Regarding the cost figures, following point 76b of Annex VI and Annex VII of the Delegated Regulation, 
+the cost indicators in percentage terms shall also be calculated considering the notional amount and 
+the following footnote to be added below the table: “This illustrates costs in relation to the notional 
+value of the PRIIP”.
+
+61 
+ 
+An example of the performance scenario table for a CFD with a recommended holding period of 1 day 
+could be as follows:  
+ 
+Recommended holding period:    1 day 
+Notional amount:     10,000€  
+       500€ (initial guarantee to deposit) 
+ 
+Scenarios       If you exit after 1 day 
+Minimum There is no minimum guaranteed return. You could lose some or all of 
+your investment 
+Stress  Profit or loss after costs   - 450 EUR 
+Percentage return    - 4.5% (*) 
+ 
+Unfavourable  Profit or loss after costs   - 150 EUR 
+Percentage return    - 1.5% (*) 
+ 
+Moderate  Profit or loss after costs   50 EUR 
+Percentage return    +0.5% (*) 
+ 
+Favourable  Profit or loss after costs   180 EUR 
+Percentage return    +1.8% (*) 
+ 
+(*) The return is calculated as a percentage over the notional amount  
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+62 
+ 
+X. Multi-option products (MOPs) [Last update 05 December 
+2023] 
+ 
+1. How does the information on the underlying options of a MOP need to be provided?  
+The rules for the provision of the KID are set out in Articles 13 and 14 of the Regulation. For MOPs, in 
+accordance with Article 10 of the Delegated Regulation, information can be provided in two different 
+ways. 
+The provision of the KID – in a face to face distribution - is on paper unless the investor requests the 
+KID through a durable medium other than paper or by means of a website. In the latter cases, the 
+person advising on, or selling, the PRIIP would need t o evidence that the conditions in paragraph 4 or 
+5 of Article 14 of the Regulation were met. This also applies in the case of an “open architecture” 
+product design, i.e. where a contract allows for retail investors to invest in a wide range of investment 
+options. 
+The person selling the PRIIP is not precluded from providing information to the retail investor in 
+addition to the provision of information necessary for the satisfaction of the requirements in Article 14 
+of the Regulation, for instance if the retail investor requests certain documents on paper in addition to 
+those provided through a durable medium other than paper or by means of a website, (such as the 
+generic KID or specific information on certain underlying investment options where the approach in 
+Article 10(b) of the Delegated Regulation is used). 
+Furthermore, taking into account the sales process followed, for example if advice is given, it is not 
+necessary to provide the retail investor with information on every possible underlying investment 
+option available, but only those options that the retai l investor is considering. In this case, the person 
+advising on, or selling, the PRIIP would need to be able to evidence that the retail investor is considering 
+a limited number of the underlying investment options and agrees to be provided with informatio n on 
+those options only. 
+In all cases, the person advising on, or selling, the PRIIP would need to evidence how it was determined 
+that the conditions for the provision of the KID in good time were met, or alternatively that the 
+conditions in Article 13(3) of the Regulation were satisfied. 
+(Answer provided by the ESAs on the application of the PRIIPs Regulation and Delegated Regulation, 
+published on 20 November 2017) 
+ 
+ 
+2. [Question deleted] 
+ 
+(Revised 21 December 2022)
+
+63 
+ 
+3. Which form and name should the ‘specific information on each underlying investment option’, 
+referred to in Article 14 of the Delegated Regulation, take?  
+ 
+The information on each underlying investment option should be specific. This implies that the 
+document should be drawn up specifically to comply with Article 14 Delegated Regulation, that the 
+document should only contain the information items listed in Article 14 Delegated Regulation, and that 
+these information items should not be included in a document drawn up for another purpose. PRIIP 
+manufacturers have the choice to draw up a single document containing the specific information for all 
+underlying options of the MOP or to draw up a separate document for each underlying option of the 
+MOP. For the information prescribed by Article 14 of the Delegated Regulation, this needs to follow the 
+structure of the relevant parts of the template for the Key Informatio n Document as set out in the 
+Annexes to the Delegated Regulation, e.g. headings, tables and narratives descriptions.  
+ 
+The name of the document should not be misleading and a name that is already assigned by law to 
+another document should in particular be avoided. It is a good practice to use the name ‘specific 
+information document’. 
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+4. Will a MOP be able to rely on the PRIIPs KID published for a fund as the specific information 
+document, as required in Article 10(b) of the Delegated Regulation?  “Open architecture” products 
+permit investment in any suitable investment vehicle and it woul d be impossible for a manufacturer 
+of these products to produce a SID for every investment option.   
+ 
+Also, as it would be impossible for the MOP manufacturer to post a SID for every fund on its website 
+alongside the MOP KID, will it be possible to direct a retail investor to find the KID for the selected 
+fund, as also indicated in Article 10(b) – “including a description of where the specific information on 
+each underlying investment option can be found”? 
+For a MOP offering a fund as an underlying investment option, the specific information on that fund 
+needs to comply with Article 14 of the Delegated Regulation. This includes “a statement on whether or 
+not those costs include all of the costs of the PRIIP in the case that the retail investor invests in that 
+specific investment option only” (point (d) of the first subparagraph of Article 14).  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+64 
+ 
+5. Could you confirm if manufacturers of insurance-based investment products are allowed to signpost 
+to KIDs produced by fund managers instead of proper SIDs in their IBIP MOPs? What happens when 
+the RHP of the insurance product is not compatible with the RHP of the underlying fund?    
+For insurance-based investment products offering a range of options for investments, the insurance 
+undertaking is responsible for designing the product, including selecting the investment options that 
+are offered within the product and for complying with t he provisions in Chapter II of the PRIIPs 
+Delegated Regulation. Article 14 sets out the requirements for the specific information document – in 
+particular, please also see the answer to the previous Q&A 4 in this Section.  
+In this context, there is not a requirement for the RHP of the product to be fully aligned with the RHP 
+of individual investment options offered. However, the implications of any differences in RHPs need to 
+be appropriately addressed by the PRIIP manufactu rer. This would include, for example, providing the 
+necessary explanations in the KID, as well as more generally ensuring that the product (including 
+investment options) is compatible with the needs, characteristics and objectives of the customers 
+belonging to the target market. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+05 December 2023)
+
+65 
+ 
+XI. Investment funds [Last update 05 December 2023] 
+ 
+1. Do the rules concerning the UCITS key investor information document (KIID) still apply?  
+The rules concerning the UCITS KIID still apply in certain specific situations. In particular, where a UCITS 
+is not made available to retail investors in the EU in accordance with Article 5(1) of the PRIIPs 
+Regulation, the UCITS management company is required to draw up a key investor information 
+document in compliance with the rules in Directive 2009/65/EC (UCITS Directive)2, unless it has decided 
+to draw up a KID as out in the PRIIPs Regulation.  
+(Answer provided by the ESAs on the application of the PRIIPs Regulation, published on 14 November 
+2022) 
+ 
+ 
+2. Should existing retail investors within a UCITS umbrella fund, who switch or exchange units in one 
+sub-fund for units in another, be provided with the KID for the sub-fund in which they are going into? 
+Yes. Retail investors must receive the KID for the sub -fund they are going into including where this 
+investment arises from switching from another sub-fund within the umbrella.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+3. Should individual KIDs be prepared for each class of units or shares within a UCITS or AIF?  
+In accordance with Article 14b of the Delegated Regulation a separate KID shall be produced for each 
+individual share class. However, information relevant to two or more share classes may be combined 
+into a single KID provided the resulting KID complies in full with all KID requirements (including the limit 
+on length). Also, a UCITS or AIF may select a class to represent one or more other classes of the UCITS 
+or AIF provided the information in the KID is fair, clear and not misleading to prospective investo rs in 
+those other classes. Where charging structures differ between classes, the share class with the highest 
+total costs is the most appropriate representative share class to avoid the risk of understating costs. 
+However, it is the responsibility of the UCITS or AIF to select the most appropriate representative share 
+class having regard to the characteristics of the UCITS or AIF, the nature of the differences between 
+share classes in the UCITS or AIF and the range of choices on offer to each investor.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+ 
+ 
+2 And further detailed in particular in the Commission Regulation (EU) 583/2010 and corresponding ESMA Q&As
+
+66 
+ 
+4.  While currently UCITS (or their management companies) send their KIID to the home 
+competent authority of the UCITS, it is unclear whether the reading of Articles 82 and 82a of Directive 
+2009/65/EC implies that from 1 January 2023: 
+a) UCITS (or their management companies) shall send the PRIIPs KID (instead of the UCITS KIID) to 
+the home competent authority of the UCITS (as per Article 82 of Directive 2009/65/EC); or  
+b) Whether Article 82 of Directive 2009/65/EC would no longer apply, and UCITS (or their 
+management companies) would not need to send their PRIIPs KID to any competent authority, except 
+in those Member States where the ex -ante notification option, allowed by Regulation (EU) No 
+1286/2014 of the European Parliament and of the Council has been implemented. And in that case, 
+the notification would need to be made to the competent authority of the Member States where it 
+is going to be marketed (host NCA)? 
+The correct reading is as set out in point (a): UCITS (or their management companies) shall send the 
+PRIIPs KID (instead of the UCITS KIID) to the home competent authority of the UCITS (as per Article 82 
+of Directive 2009/65/EC). Explanation: According to recital 7 of Directive (EU) 2021/2261 of the 
+European Parliament and of the Council, 2 which introduced Article 82a in Directive 2009/65/EC, “The 
+key investor information and the KID cover essentially the same information requirements. It is 
+therefore necessary to ensure that retail investors in PRIIPs interested in acquiring units of UCITS do 
+not receive, from 1 January 2023, both documents for the same financial product.” The new Article 82a 
+of Directive 2009/65/EC therefore provides that the key informat ion document (“PRIIPs KID”) drawn 
+up, provided, revised and translated by a management company for a UCITS pursuant to Regulation 
+(EU) No 1286/2014 is considered to “satisfy the requirements applicable to key investor information 
+set out in Articles 78 to 82 and Article 94 of this Directive.” Therefore, the PRIIPS KID replaces the UCITS 
+KIID for the purposes of Directive 2009/65/EC and Articles 78 to 82 and Article 94 of Directive 
+2009/65/EC, relating to the drawing up, the content, the translation, the upd ating of key information 
+are considered to be satisfied in the presence of a PRIIPS KID. The notification requirement to home 
+NCAs under Article 82 of Directive 2009/65/EC still applies, but the UCITS KIID is replaced by the PRIIPs 
+KID for the satisfaction of that requirement. 
+(Answer provided by the European Commission on the interpretation of the PRIIPs Regulation , 
+published on 27 January 2023) 
+ 
+ 
+5. In the case of an investment fund (UCITS or AIF), can the manufacturer of the PRIP be an entity to 
+which collective portfolio management functions, or other functions, have been delegated to by the 
+fund or by the management company (manager) or alternative investment fund manager of the fund 
+(those entities to which functions have been delegated might, for example, be referred to as the fund 
+promoter, sponsor, etc.)? 
+No, even if the fund delegates functions to third parties, the PRIP manufacturer can only be the 
+management company or the alternative investment fund manager of the fund, or, in particular in the 
+case of a self-managed UCITS or internally managed AIF, the fund itself. 
+(Answer provided by the ESAs on the application of the PRIIPs Regulation, published on 05 December 
+2023)
+
+67 
+ 
+XII. Autocallable products [Last update 14 November 2022] 
+ 
+1. For autocallables, for an early call scenario, what time periods should be used when calculating the 
+performance scenarios and cost figures? 
+For autocallables, for scenarios involving an early call, first the figures for performance scenarios should 
+be calculated based on the exact holding period in that scenario namely the time period until the call, 
+without assuming reinvestment until maturit y (neither for the amount in euros nor the percentage 
+return - these figures will reflect only the time until the call date).   The figures shall be displayed in the 
+last column under the heading “If you exit at call or maturity” and an indication of the l ength of the 
+holding period shall be included under the name of the scenario (“product ends after []”).  
+In addition, performance figures for intermediate periods (1 year and half the maturity, if applicable) 
+shall also be shown, but only in case the product is still outstanding at that time under that scenario; 
+otherwise, the columns for those periods shall be left empty.  
+So, for example, for an autocallable with a RHP (and maturity) of 3 years and possible autocall every 6 
+months, the performance scenario table will include two columns for “if you exit after 1 year” and “if 
+you exit at call or maturity”.).  
+If one of the performance scenarios is consistent with an early call at 6 months with a total payout of 
+10,200 EUR, (10,000 invested capital plus a 2% coupon), that amount shall be shown in the last column 
+of the table, as well as a percentage return of 2% (following point 45 of Annex IV and point 76a of Annex 
+VI of the Delegated Regulation where the early call scenario is less than one year, the percentage figures 
+should not be annualised; the term “average return each year” should be replaced by the term 
+“percentage return” accordingly). An indication that the product will end in 6 months will be included 
+under the name of the scenario.  The 1 year column shall be left empty in this scenario as the product 
+will not exist at the end of year 1.   
+Differently, if in another scenario the early call occurs at year 2, with a total payout of 10,800 EUR, other 
+than this outcome being shown in the last column, as well as the corresponding 4% average annual 
+return, with the indication that the product will  end after 2 years under the name of the scenario, a 
+figure must also be displayed for the 1 year time period showing the estimated performance at the end 
+of year 1, net of exit costs if applicable.  
+Regarding costs, and irrespective of the performance scenarios displayed, in accordance with point 76c 
+of Annex VI of the Delegated Regulation, the figures to be shown in Table 1 (“Costs over time”) shall 
+assume two different scenarios for autocallable pro ducts: (a) the PRIIP is called at the first possible 
+date; (b) the PRIIP reaches maturity. In the example above, the time periods shown in Table 1 will be 6 
+months and 3 years. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+68 
+ 
+XIII. Methodology for the calculation of costs 
+ 
+A. List of costs of investment funds (except transaction cost related 
+questions) (Annex VI, Part 1) [Last update 21 December 2022] 
+ 
+1. Point 3 (d) of Annex VI indicates that subscription fee includes taxes. Would this include the following 
+types of taxes: VATs, FTTs, stamp duties? 
+ 
+Yes, these are notably the types of taxes that are referred to in this point.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+2. How would the benefits from securities lending (compared to the costs as mentioned in Point 5 (b) 
+(v) of Annex VI) be presented in the KID?  
+ 
+The benefits from securities lending would be taken into account in the performance scenarios section 
+of the KID if these are passed to the investor. If these benefits are not passed to the investor, they 
+should be accounted for as costs, according to Point 5(p) of Annex VI. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+3. Is a look -through only required for underlying investments above a certain threshold within the 
+portfolio of the fund of fund? When dealing with fund of fund or other multi-layer instruments, does 
+the cost look-through need to be done through all layers or only through the first layer of underlying? 
+Private equity feeder funds invested in a master fund: do we have to apply a look through basis?  
+ 
+The calculation should take into account the costs incurred in the underlying funds or other underlying 
+PRIIPs. Where the underlying investments are PRIIPs producing KIDs, it will only be necessary to obtain 
+cost information from the KIDs. Where the underlying investments do not have KIDs, it will be necessary 
+to obtain KID equivalent information for the direct underlyings. This is because this information includes 
+costs incurred in any further layer of the underlying. This calculation applies to private eq uity feeder 
+funds as well. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+69 
+ 
+4. Some fees are paid from the fund/investors to the manager based on the narrowing of the share price 
+to NAV discount on a closed -ended listed fund. Should this type of fee be classed as a performance 
+fee?  
+ 
+The methodology specified in Point 24 of Annex VI applies to all performance related fees defined in 
+Point 6 as "performance–related fee payable to the management company or any investment adviser". 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+5. In the case of private Equity, infrastructure and other similar funds where the investments to be made 
+by those funds are unknown at the date of creation/investment in the fund, how to anticipate costs 
+that should be calculated for the purpose of the cost section of the KID?  
+ 
+In this case, the section "Calculation methodology for new PRIIPs" of the annex VI shall apply (Points 85 
+and followings) that includes in particular the use of best estimates adopting as proxies either a 
+comparable PRIIP or a peer group. With respect to p erformance fees and carried interest, there are 
+specific requirements for new PRIIPs, included in Point 24 (b) and 25 (b) of Annex VI.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+6. Could you provide an example of the provisioned fees for specific treatment of gain and losses, which 
+are referred to in Point 5 (d) of Annex VI? 
+ 
+For example, such fees are related to the treatment of gains and losses (withholding tax) in some non -
+EU countries, and the corresponding potential fees taken by asset managers on an ex -ante basis. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+7. While financing costs related to borrowing (provided by related parties)” are recognised as a 
+recurring cost in Point 5(h) of Annex VI, could you confirm that overdraft charges on a bank account 
+operated by an external custodian are in the scope of such co st calculation and disclosure?  
+ 
+Yes, overdraft charges on a bank account operated by an external custodian are in the scope of such 
+cost calculation. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+70 
+ 
+8. Could you specify which types of costs of capital guarantee provided by a third party guarantor are 
+those mentioned in Point 5 (i) of Annex VI? 
+ 
+Costs of capital guarantee are in particular related to the instruments (and associated costs) aimed to 
+provide for the capital guarantee.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+9. Could you provide an example of the ‘dividends served by the shares held in the portfolio of the 
+funds, shall the dividends not accrue to the fund’ mentioned in Point 5 (r) of Annex VI?  
+ 
+An example would be the following unit link contract. The unit link is based on the performance of a 
+single stock. The insurer owns the stock and is receiving the dividends. The client has initially purchased 
+the unit link at the market value of the stock.  The claim of the client is subsequently valued as the 
+current value of the stock (without reinvestment of the dividends).  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+10. For new funds with performance fees, is it possible to refer to an appropriate benchmark for 
+estimating the relevant returns of a peer group as foreseen in Point 24(b)(ii) second subparagraph of 
+Annex VI?  
+ 
+When computing performance fees for new funds, the relevant fund return shall be estimated using 
+the return of a" comparable fund or a peer group". The use of an "appropriate benchmark" as set out 
+in Point 16 of Annex IV could indeed be considered as a "peer group" under the requirements of Point 
+24(b)(ii) of Annex VI. If this “appropriate benchmark” is composed of other investment funds the 
+respective returns of which are calculated on the basis of net fund performance, the adjustment of 
+returns in terms of costs referred to in Point 24(b)(ii) second subparagraph of Annex VI is not needed.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+11. According to Point 5(l)(i) the most recently available summary cost indicator shall be used. What is 
+meant by most recently available summary cost indicator?  
+ 
+The most recently available summary cost indicator is the one that has been calculated according to 
+Points 61 to 89 of Annex VI of the  Delegated Regulation. Point 79 indicates that the cost figures shall 
+be calculated at least once a year. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+71 
+ 
+B. Transaction costs (Points 7-23 of Annex VI, Part 1) 
+a. Methodology set out in Point 21 of the Annex VI of the Commission Delegated Regulation 
+(standardized costs) [Last update 21 December 2022] 
+ 
+- Guidance on the methodology described in point 21(c)(i) to estimate transaction costs: 
+ 
+1. What could be the ‘reference indexes’ mentioned in Point 21(c)(i) of the Annex VI of the Commission 
+Delegated Regulation? 
+The ‘reference indexes’ mentioned in Point 21(c)(i) could be the following:  
+Asset Classes Sub Asset Classes Indice 
+Government bonds 
+Government bonds and similar 
+instruments developed market rating 
+AAA-A 
+JPMorgan EMU AAA -A + 
+JPMorgan US 
+Barclays Euro Sovereign High 
+Quality Index 
+  
+Government bonds and similar 
+instruments developed market different 
+rating below A 
+filtering on JPMEMU or iBoxx € 
+Overall 
+Government bonds emerging 
+markets (hard and soft 
+currency) 
+Government bonds emerging markets 
+(hard and soft currency) 
+JPMorgan EMBIG Diversified 
+Barclays EM Local Currency 
+Liquid Government Index 
+Investment grade corporate 
+bonds Investment grade corporate bonds 
+Barclays Euro Corporate IG + 
+Barclays US Corporate IG 
+EURO STOXX 50® Corporate Bond 
+Other corporate bonds High yield corporate bonds 
+Markit iBoxx EUR High Yield 
+Liquid + Markit iBoxx USD High 
+Yield Liquid 
+Liquidity 
+Money market instruments (for the sake 
+of clarity, money markets funds not 
+included) Barclays Euro Treasury Bill 
+Shares developed markets Large-cap shares (developed markets) 
+MSCI World Large Cap 
+STOXX® Europe 50 
+STOXX® Developed Markets 150 
+  Mid-cap shares (developed markets) 
+MSCI World Mid Cap 
+EURO STOXX® Mid 
+  Small-cap shares (developed markets) MSCI World Small Cap
+
+72 
+ 
+EURO STOXX® Small 
+Shares emerging markets Large-cap shares (emerging markets) 
+MSCI Emerging Markets Large 
+Cap  
+STOXX® Emerging Markets 50 
+  Mid-cap shares (emerging markets) 
+MSCI Emerging Markets Mid Cap  
+STOXX® Emerging Markets 500 
+Mid 
+  Small-cap shares (emerging markets) 
+MSCI Emerging Markets Small 
+Cap  
+STOXX® Emerging Markets 500 
+Small 
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+2. Using the ‘reference indexes’ mentioned in the question above, how should the ‘average bid-ask spreads’ 
+mentioned in Point 21(c)(i) of the Annex VI of the Commission Delegated Regulation be estimated? 
+Please refer to the Appendix I to this Q&A 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+- Guidance on the methodology described in Point 21(c)(ii) to estimate transaction costs: 
+ 
+3. What could be the  ‘comparable information’ mentioned in Point 21 (c) (ii) of the Annex VI of the 
+Commission Delegated Regulation? 
+ 
+The “comparable information’ could be for example i) the transaction costs of a comparable fund or 
+peer group (as an example of source: fund annual reporting); ii) information about transaction costs 
+used to calculate the bid and ask prices of the fund 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022)
+
+73 
+ 
+b. Other Q&A on transaction cost related issues [Last update 21 December 2022] 
+ 
+1. According to Point 8 of the Annex VI of the Commission Delegated Regulation aggregate transactions 
+shall be calculated as the sum of all transaction costs for all individual transactions undertaken by the 
+PRIIP in the specified period. What is meant by specified period? 
+ 
+The term specified period refers to the period of three years, as outlined in Point 7.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+2. According to Point 21 of the Annex VI of the Commission Delegated Regulation for PRIIPs that have 
+been operating less than 3 years transaction costs may be calculated as an average of the actual 
+transaction costs incurred during the period of operation and  a standardised estimate. When and 
+how should the costs be calculated? 
+ 
+Using the example of a new product and where the KID is revised annually: At the occasion of the first 
+annual review the product manufacturer can use data about the actual transaction costs for the first six 
+months of the PRIIPs existence and for the remaining 30 months (to give an average over 3 years) , 
+would use the estimate of portfolio turnover in each asset class according to the methodology referred 
+to in Point 21 (c). Accordingly, at the second annual review the product manufacturer may use 18 
+months of actual data and for the remaining 18 months the standardi sed estimate.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+3. Transaction costs are based on the average of the previous three years, but some managers have not 
+been collecting these in the detail required (with the "arrival price") by Annex VI. How to calculate 
+transaction costs in this case? 
+ 
+In this case, Point 15 of Annex VI may apply: "When calculating transaction costs using data prior to 31 
+December 2017, intra-day prices may be considered as not available" (therefore it is permissible to use 
+as the arrival price the opening price of the i nvestment on the day of the transaction or, where the 
+opening price is not available, the previous closing price"). 
+Notwithstanding this, firms should consider whether using opening prices or previous closing prices will 
+lead to a result that is contrary to the overall requirement to be accurate, fair, clear and not misleading. 
+For example, where a PRIIP frequently buys  and sells the same instrument on an intra -day basis, using 
+the opening or previous closing price will not be accurate, since this would be the same for both the 
+purchase and sale. In this instance, the firm should seek accurate intra -day arrival prices. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+74 
+ 
+4. Should transaction costs be calculated the same way in the ‘Composition of costs’ and the ‘Cost over 
+time’ table? 
+ 
+Yes, in both cases, transaction costs should be calculated according to Point 6 6 and the following 
+provisions  of Annex VI. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+5. When comparing the arrival price and execution price of an instrument denominated in a foreign 
+currency, should the manager apply the same FX conversion rate to base currency to both the arrival 
+price and the execution price?   
+ 
+In this case, transaction costs should be calculated in the foreign currency and then converted to the 
+base currency using the FX rate on the day of the transaction.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+6. Could the ‘reasonable estimate of the consolidated price’ referred to in Point 17 of Annex VI be an 
+average of observable quotes within a certain time frame?  
+ 
+Yes, an average of observable quotes could be a reasonable estimate of the consolidated price, 
+provided that they are not all quotes from a ‘single counterparty or foreign exchange platform’.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+7. If the order is a limit order, should the arrival price be the limit order?  
+ 
+No, Points 15 and following  provisions of Annex VI do not specify that limit orders should be treated 
+differently to other orders. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+8. [Question deleted] 
+ 
+(Revised 21 December 2022)
+
+75 
+ 
+ 
+9. [Question deleted] 
+ 
+(Revised 21 December 2022) 
+ 
+ 
+10. How should I calculate the transaction costs associated with an IPO or other offering of primary 
+securities? 
+ 
+The transaction costs of IPOs and other offerings of primary securities should use the offer price as the 
+arrival price. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+76 
+ 
+C. List of costs of PRIPs other than investment funds  (Annex VI, Part 1) [Last 
+update 21 December 2022] 
+ 
+1. According to Point 33 (b) of Annex VI, the costs of the underlying shall be taken into account in the 
+list of costs of PRIPs other than investment funds. How should this requirement be understood in the 
+case of a structured product or derivative linked to the performance of a fund?  
+ 
+First, it should be noted that if these costs are already taken into account (e.g. through the estimate of 
+costs embedded in the price), these costs should not be accounted twice in the summary cost 
+indicators, according to Point 77 of Annex VI. In additio n, the methodology set out in the case of 
+investment funds in Points 5 (l), 5 (m) and 5 (n) should equally apply in the case of PRIPs other than 
+investment funds (as well as in the case of insurance-based investment products which invest in funds). 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+2. Is it correct to say that for the purpose of the Points 36 and the following provisions, while the fair 
+value of the product needs to be in line with accounting standards, it does not have to be necessarily 
+equal to any accounting fair value (as accounting  standards generally allow for provisions and 
+adjustments to the fair value which are at book or portfolio level, rather at transaction level)?  
+ 
+Yes, as mentioned in Point 40 of Annex VI, the rules referred to in Point 39 of this Annex VI on fair value 
+shall aim at outlining a valuation process that complies with the applicable accounting standards in 
+relation to fair value and the principles outlined in Points 40 - 46 of the same Annex. This does not mean 
+that the value should be necessarily equal to the accounting fair value. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+3. What value should be input into portfolio transaction costs of PRIPs other than investment funds?  
+ 
+This will depend on the situation of each PRIP. All costs must be included but only once. When 
+transaction costs are, for example, included in hedging costs, there should not be any double counting 
+of such costs, as specified in Point 77 of Annex VI. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+77 
+ 
+ 
+4. According to the Point 37 of Annex VI ‘If the PRIIP manufacturer is unable to distinguish the relevant 
+implicit costs to be disclosed as referred to in Point 29 of this Annex using the difference between the 
+price and the fair value, it shall liaise with t he issuer of the different components of the product, or 
+the relevant body, in order to gather the relevant information on those costs’. Could you provide with 
+an example of such a situation?  
+ 
+This situation in particular occurs when a contractual arrangement between two entities (e.g. one being 
+the PRIIP manufacturer and the other the issuer of one or more derivative components used by the 
+PRIIP manufacturer to structure its PRIIP) is such that the PRIIP manufacturer is not aware of the amount 
+of hedging cost of a specific PRIIP. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+5. The exchange as manufacturer may not know all the costs, since some costs are added by the broker. 
+In this situation is it acceptable for the exchange only to report the costs which relate to the product 
+as they create it? 
+ 
+The manufacturer should only need to include distribution costs to the extent that the costs are fixed 
+(e.g. certain) and the manufacturer is aware of them. Therefore an exchange does not need to include 
+costs that are added by the broker, where these are different between different brokers. With respect 
+to extra costs, Annex VII (table 1) of the Delegated Regulation specif ies that the following explanatory 
+text should be included in the KID: “ The person advising on or selling you this product may charge yo u 
+other costs. If so, this person will provide you with information about these costs, and how they affect 
+your investment”. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+6. In the case of subscription products should manufacturer re -evaluate the fair value during the 
+offering period and to modify the entry costs if a relevant change happened, regardless of whether 
+his benefits do not increase/reduce, i.e. just because the market conditions changed the value of the 
+PRIIPs? 
+ 
+Yes. According to Article 15 of the Delegated Regulation, PRIIP manufacturers shall review the 
+information contained in the KID every time there is a change that significantly affects or is likely to 
+significantly affect the information contained in the KI D, to verify whether the information contained 
+in the KID remains accurate, fair, clear, and not misleading.  
+Regarding costs, if during the offering period the market conditions affect the fair value of the product, 
+causing a relevant change in the implicit costs of the product the client will assume when he subscribes
+
+78 
+ 
+for the product, the manufacturer shall update the KID to ensure it remains accurate and inform the 
+potential client before the subscription.  
+According to point 44 of Annex VI of the Delegated Regulation, in particular in the case of subscription 
+products where long offering periods or high market volatility exists, a criterion to update cost 
+information shall be defined by the manufacturer. 
+This is without prejudice of the obligations of distributors in these situations according to the applicable 
+Regulations.   
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 17 
+December 2021) 
+ 
+ 
+7. In the case of subscription products, should manufacturer also modify the entry costs, if the market 
+conditions during the offering period increase the initial fair value and thus the entry costs are lower 
+from the client's point of view? 
+ 
+According to Article 15 of the Delegated Regulation, if there is a relevant change in the costs included 
+in the KID, the manufacturer shall update the document to ensure the KID remains accurate.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 17 
+December 2021) 
+ 
+8. In the case of subscription products, shall the manufacturer modify the cost figures each time the KID 
+is revised even if the revision is caused by a change in another element and his percentage variation 
+criterion for costs is not exceeded? 
+  
+Yes. According to Article 16 of the Delegated Regulation, PRIIP manufacturers shall without undue delay 
+revise the KID where changes to the KID need to be made and shall ensure that all sections of the KID 
+affected by such changes are updated. 
+This is without prejudice of the obligations of distributors in these situations according to the applicable 
+Regulations. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 17 
+December 2021) 
+ 
+9. In the case of subscription products, could the manufacturer include a reference to the variation (+/- 
+Costs) due to variation in market conditions during the offering period? So, the client always will have 
+detailed costs and what is the real margin of the manufacturer.    
+ 
+No. A reference to potential variations in costs due to market conditions does not ensure accurate cost 
+information for the client. According to Article 15 of the Delegated Regulation, if there is a relevant 
+change in the costs of the product to be assumed by investors indicated in the KID, the manufacturer 
+shall update the document to ensure the KID remains accurate. According to point 44 of Annex VI , in
+
+79 
+ 
+particular, where long offering periods or high market volatility exists, a criterion to update cost 
+information shall be defined.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 17 
+December 2021)
+
+80 
+ 
+D. List of costs of insurance -based investment products  (Annex VI, Part 1)  
+[Last update 21 December 2022] 
+ 
+1. Are portfolio costs for traditional endowment insurances to be taken into account in the summary 
+cost indicator of the KID?  
+Yes, Point 52 (g) of Annex VI indicates that "Any amount implicitly charged on the amount invested such 
+as the costs incurred for the management of the investments of the insurance company (deposit fees, 
+costs for new investments, etc.)" shall be taken into account in the summary cost indicator. And Point 
+52 (h) of Annex VI specifies that "payments to third parties to meet costs necessarily incurred in 
+connection with the acquisition or disposal of any asset owned by the insurance -based investment 
+product (including transaction costs as referred to in P oints 7 to 23 of this Annex" shall also be taken 
+into account in the summary cost indicators. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+2. Does Point 53 of Annex VI appl y inter alia to insurance -based investment products (unit -linked 
+products as well as non-unit-linked products) in which the capital provided by investors is invested in 
+UCITS, AIFs or other PRIIPs? 
+Yes, this Point applies to insurance-based investment products that invest a part of their assets in UCITS 
+or AIFs in a PRIIP other than UCITS or AIFs or in an investment product other than a PRIIP. Points 5 (l), 
+5 (m) and 5 (n) of Annex VI shall then apply respectively. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+3. Point 52(h) of Annex VI indicates that transaction costs are included in the ‘other ongoing costs’. 
+What does this mean in terms of where transaction costs should be included in table 2 ‘Composition 
+of costs” of the Annex VII?  
+ As indicated in Point 66 of the Annex VI and in the table 2 of the Annex VII itself, transaction costs 
+should be shown separately in the section “ongoing costs” of the table 2 of the Annex VII.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022)
+
+81 
+ 
+E. Calculation of the summary cost indicators (Annex VI, Part 2) [Last update 
+05 May 2025] 
+ 
+1. The Reduction in Yield (RIY) summary cost indicator may be based on the moderate scenario of the 
+performance scenario section of the KID (according to Point 71 (b) of Annex VI), which is based on 
+prices which are already net of charges. Is it therefore nec essary to add the charges back into the 
+returns and then deducting all costs to arrive at a net return when calculating the RIY indicator?  
+No, in this case, the estimation of the future benefits for the purpose of the calculation of the RIY 
+indicator shall be calculated according to the methodology and hypothesis used for the calculation of 
+the moderate scenario of the performance scenario section of the KID ,  without further deductions or 
+calculations.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+2. For a product with tiered charging, is it possible to make an assumption on investment growth to 
+reflect in the cost over time section given it is difficult to determine what the underlying assets are?  
+The assumptions to use are specified in  Point 71 of Annex VI . Where point 71(a) does not apply , the 
+estimation of the future benefits for the purpose of the calculation of the RIY indicator shall be 
+calculated according to the methodology and hypothesis used for the estimation of the moderate 
+scenario of the performance scenario section of the KID. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+3. In the case of unit -linked products the underlying of which are UCITS, is it possible to use a 
+predetermined yield for the purpose of the estimation of the benefits to be used in the calculation of 
+the RIY indicator? 
+The assumptions to use are  specified in Point 71 of Annex VI . Where point 71(a) does not apply , the 
+estimation of the future benefits for the purpose of the calculation of the RIY indicator shall be 
+calculated according to the methodology and hypothesis used for the estimation of the moderate 
+scenario of the performance scenario section of the KID.  Please also refer to Points 74 to 76 of Annex 
+VI which are specific to insurance-based investment products. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022)
+
+82 
+ 
+4. If the moderate scenario shows a total loss of capital or even a negative return, should this be used 
+to present the costs, in which case the Reduction-in-Yield would suggest no or very low costs? 
+Where the moderate scenario shows the total loss of capital invested or more (i.e. is less than or zero), 
+point 71(a) of Annex VI should be applied in order to avoid potential errors in the calculation. That is a 
+net performance of 0% is assumed for the purposes of determining the reduction in yield.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+5. Costs of the PRIIP after 1 year, first table on costs, Annex VII of the Delegated Regulation - 
+performance after 1 year is to be calculated with net performance of 0%. For products with ongoing 
+premiums this requires an artificially very high assumed gross  performance due to one -off costs. 
+Furthermore, the mandatory explanation sentence “In the first year you would get back the amount 
+that you invested (0 % annual return).” could be misleading for consumers  
+In accordance with point 71 of Annex VI of the Delegated Regulation an assumption of 0% net 
+performance applies for all PRIIPs for the cost indicators showing the case that the PRIIP is held for one 
+year or less. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+6. 5. Should entry costs be included in the 10 000 EUR amount referred to point 90 of Annex VI of the 
+PRIIPs Delegated Regulation? 
+Yes, entry costs should be included in the 10 000 EUR amount referred to point 90 of Annex VI of the 
+PRIIPs Delegated Regulation. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 
+05 May 2025)
+
+83 
+ 
+F. Presentation of costs (Annex VII) [Last update 15 March 2024] 
+ 
+1. Should entry and exit costs under the table ‘Composition of costs’ of Annex VII be recalculated as an 
+impact per year based on the recommended holding period instead of a RIY figure?   
+No, the calculation of all costs in the second table ‘Composition of costs’ is specified in Points 61 and 
+the subsequent provision s of Annex VI. For insurance -based investment products, t hese are RIY 
+indicators calculated at the recommended holding period, allowing these figures to be consistent with 
+the RIY at the recommended holding period included in the line ‘ Annual cost impact’ of the first table 
+‘Costs over time’, as specified in Annex VII. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+2. Should the line ‘Incidental costs’ (performance fees and carried interests) included in the table 
+‘Composition of costs’ of Annex VII be included in the case of insurance -based investment products 
+and PRIPs other than investment funds?  
+No, according to Point  6 of Annex VI, incidental costs and incidental costs ratios apply to investment 
+funds, not to the other types of PRIIPs.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+3. Which annual cost impact is shown in table 2 (composition of costs)? 
+For insurance-based investment products, the table shows the impact of the different types of costs on 
+the investment return the investor might get at the end of the recommended holding period. The values 
+indicated are the impact on return per year, and more precisely the RIY at the recommended ho lding 
+period. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+4. How should the information on costs mentioned in Article 2(4) of the delegated Regulation 2017/653 
+be presented? 
+Article 2(4) of the Delegated Regulation indicates that “ The details of insurance benefits in the section 
+entitled ‘What is this product?’ of the key information document shall include ( … ) or the impact of the 
+cost part of the biometric risk premium taken into account in the recurring costs of the ‘Costs over the 
+time table’ calculated in accordance with Annex VII”.  
+So that this information on the cost part of the biometric risk premium is shown to retail investors in a 
+comparable and consistent way, the cost part of the biometric risk premium could be presented using
+
+84 
+ 
+a cost ratio, as for the other types of costs presented in the KID. For the purpose of this question and 
+answer, this ratio is called in the following parts of this answer the “insurance costs ratio”.  
+For the calculation of this insurance costs ratio, the costs to be disclosed should be the insurance costs 
+according to Points 59 and 60 of Annex VI for insurance based investment products and the 
+methodology to be used for the calculation of the ratio should be the methodology described in Points 
+70 to 76 of Annex VI.  
+This information on this cost part of the biometric risk premium could be accompanied with the 
+following narratives:  
+“This is the impact of insurance costs.  
+[Where full biometric risk premium presented]. This is the impact of the amount you are paying to buy 
+insurance protection. 
+[Where cost part of the biometric risk premium presented] This is the impact of the amount you are 
+paying for insurance cover which exceeds the estimated value of insurance benefits  
+Insurance costs are included in the “total costs” and “ Management fees and other administrative or 
+operating costs” presented in the cost section. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+5. Is the biometric risk premium part of the investment of insurance -based investment products?  
+In order to be consistent with table 1 in Annex VII (Cost over time), where investment is 10 000 EUR (or 
+1 000 EUR regular premium), investment should be the total payment made by the retail investor and 
+insurance premium should be part of it. Furthermore, since insurance costs are part of the total costs, 
+the biometric risk premium is a part of the total investment. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017) 
+ 
+6. When performance fees or exit costs are not applicable for a product - does the format of Table 2 
+Composition of costs allow that the manufacturer to mention ‘n.a.’ instead of ‘0%’ in the table?  
+Yes, in that specific case, the table 2 Composition of costs allows the manufacturer to mention ‘n.a.’ 
+instead of ‘0%’ in the table." 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 18 
+August 2017) 
+ 
+ 
+7. [Question deleted] 
+ 
+(Revised 21 December 2022)
+
+85 
+ 
+ 
+ 
+8. The paragraph which comes directly after the heading “Table 1” (“The person advising on or selling 
+you this product …”) is duplicate in view to Element A of Annex V and does not apply to all PRIIPs. Is 
+this compulsory?  
+Yes, because these statements apply to two different sections of the KIDs (costs and performance 
+scenarios) in which this information is equally relevant. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+9. What shall be shown as “Total costs” in Table 1? 
+“Total costs” in Table 1 of Annex VII of the Delegated Regulation shall show in monetary terms the 
+aggregated amount of costs associated with the investment for the case that the retail investor invests 
+the amounts indicated in points 90 and 91 of the Delegated Regulation (10 000 EUR or 1 000 EUR yearly 
+for regular premium or regular payment products or an amount of similar magnitude if not Euros).  
+This figure shall consider all the costs indicated in the list of costs and the calculation methodologies in 
+Annex VI, Part 1 of the Delegated Regulation, as per point 61 and 62 of Annex VI.  
+The methodology “reduction in yield” described in Part 2 of Annex VI shall only be used to calculate the 
+summary costs indicators in percentage terms (“annual cost impact”) in Table 1.   
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, revised on 21 
+December 2022) 
+ 
+ 
+10. What type of information on performance fees should be included in the line “performance fees” of 
+the table “composition of the cost” of the cost section of the KID?  
+This line should clearly set out the information necessary to explain the existence of the performance 
+fee, the basis on which the fee is charged and when the fee applies. Where performance fees are 
+calculated based on performance against a reference bench mark index, the KID should display the 
+name of the benchmark and the information published on past performance should be shown against 
+this benchmark. In case it is allowed for a performance fee to be paid also in times of negative 
+performance (for example, a fund has overperformed its reference benchmark index but, overall, has 
+a negative performance), there should be a prominent statement of this fact as part of the explanation. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022)
+
+86 
+ 
+11. Annex VII of the Delegated Regulation, Table 2 on composition of costs: Cost elements in the 
+“composition of costs” table are to be presented assuming a 0% annual return which is consistent 
+with the presentation of the cumulated costs for the 1 year holdin g period in the table “costs over 
+time”. What does this assumption mean for the presentation of performance fees. In most cases, 
+performance fees in funds will not be accrued in case of net performance of 0%. Does this mean that 
+a performance fee of zero w ill need to be presented in the “composition of costs” table and taken 
+into account as such for the 1 year cumulated cost calculations, even if performance fees have been 
+charged by the fund during the last five years? 
+The amendments to the Delegated Regulation do not intend to amend the method for calculating 
+performance fees specified in point 24 of Annex VI. This is indicated in point 69 of Annex VI.  
+Therefore, the costs shown in both Table 1 and Table 2 in Annex VII (consistent with the EUR amount 
+for performance fees used in the calculation of Total costs in the first column of Table 1) should reflect 
+the average over the last 5 years.  
+As indicated in Annex VII, the narratives within Table 2, composition of costs, are examples. These might 
+be adjusted, such as to the following:  
+“The actual amount will vary depending on how well your investment performs. The estimation in this 
+document includes the average over the last 5 years”. 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 
+14 November 2022) 
+ 
+ 
+12. Should the costs disclosed in table 1 (cost over time) and table 2 (total cost) be aligned for year 1?  
+Yes. Table 2 intends to show a breakdown of one of the figures included in table 1. This applies both to 
+PRIPs as well as to insurance -based investment products. For PRIPs which show costs in table 2 at 1 
+year in Euros, the sum of the different rows in tab le 2 should equal the ‘Total costs’ figure in Euros 
+shown at 1 year in table 1. Equally, for insurance -based investment products, the sum of the different 
+rows in table 2 showing ‘Annual cost impact’ percentage figures should equal the annual cost impact 
+percentage figure at the RHP in table 1. Taking this into account, table 2 does not include a ‘Total’ row 
+given that this figure should already be provided in table 1.   
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, p ublished on 
+15 March 2024)
+
+87 
+ 
+G. Other topics on costs [Last update 4 July 2017] 
+ 
+1. At what frequency must the Recurring costs and Incidental costs be calculated?  
+According to Point 79 of Annex VI all cost ratios shall be calculated at least once a year.  
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017) 
+ 
+ 
+2. Point 80 of Annex VI specifies that “the costs are assessed on an ‘all taxes included’ basis. Which types 
+of taxes are referred to in this point? 
+These taxes are not the taxes directly paid by the investor, but the taxes that are included in the product 
+(such as transaction tax - duty stamp, financial transaction tax, etc.) 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 
+July 2017)
+
+88 
+ 
+Appendix I 
+ 
+Standardised transaction costs: examples of calculation [Last update 4 July 
+2017] 
+ 
+The procedure explained in Point (c) of Point 21 of Annex VI, Part I can be broken down as follows: 
+EXAMPLES OF CALCULATION 
+Step 1: Index selection 
+Identify the relevant index on the basis of table below. 
+Asset Classes Sub Asset Classes Indice 
+Government bonds 
+Government bonds and similar 
+instruments developed market rating 
+AAA-A 
+JPMorgan EMU AAA-A +  
+JPMorgan US 
+Barclays Euro Sovereign High Quality 
+Index 
+  
+Government bonds and similar 
+instruments developed market different 
+rating below A filtering on JPMEMU or iBoxx € Overall 
+Government bonds 
+emerging markets (hard 
+and soft currency) 
+Government bonds emerging markets 
+(hard and soft currency) 
+JPMorgan EMBIG Diversified 
+Barclays EM Local Currency  
+Liquid Government Index 
+Investment grade 
+corporate bonds Investment grade corporate bonds 
+Barclays Euro Corporate IG +  
+Barclays US Corporate IG 
+EURO STOXX 50® Corporate Bond 
+Other corporate bonds High yield corporate bonds 
+Markit iBoxx EUR High Yield Liquid + 
+Markit iBoxx USD High Yield Liquid 
+Liquidity 
+Money market instruments (for the sake 
+of clarity, money markets funds not 
+included) Barclays Euro Treasury Bill 
+Shares developed 
+markets Large-cap shares (developed markets) 
+MSCI World Large Cap 
+STOXX® Europe 50 
+STOXX® Developed Markets 150 
+  Mid-cap shares (developed markets) 
+MSCI World Mid Cap 
+EURO STOXX® Mid
+
+89 
+ 
+  Small-cap shares (developed markets) 
+MSCI World Small Cap 
+EURO STOXX® Cap 
+Shares emerging markets Large-cap shares (emerging markets) 
+MSCI Emerging Markets Large Cap 
+STOXX® Emerging Markets 50   
+  Mid-cap shares (emerging markets) 
+MSCI Emerging Markets Mid Cap 
+STOXX® Emerging Markets 500 Mid  
+  Small-cap shares (emerging markets) 
+MSCI Emerging Markets Small Cap  
+STOXX® Emerging Markets 500 Small  
+ 
+Step 2: Time period  
+Identify the valuation day (the tenth business day of the month) and the time period (the 12 months before 
+YYYY/MM). 
+Step 3: Collect the index/indexes constituents 
+Collect the index/indexes (Step 1) constituents and their weights for each day of valuation of each month during 
+the time period (as defined in Step 2). (Following an example related to the government bond index).  
+ 
+Date ISIN Rating Index Weight 
+(%) 
+20160331 ISIN1 AA+ 0,00269808 
+20160331 ISIN2 BB 0,00290327 
+20160331 ISIN3 AAA 0,00329052 
+20160331 ISIN4 AA- 0,00155998 
+20160331 ISIN5 BBB 0,00133706 
+… … … … 
+TOTAL   100% 
+ 
+Step 4: Select the source of the closing bid-ask spread 
+Collect the closing bid -ask spread of the constituents identified in Step 4 for each day of valuation from the 
+source of information identified. 
+There could be different sources of information for the closing bid -ask spreads of the underlying indexes, since 
+this information may be not available from the index provider [and/or it could be costly]. The selection of the 
+source should be based on reaso nable grounds and resulting from an internal procedure. As an example, the 
+potential data source for closing bid-ask spreads of the underlying indexes may be: 
+- the index provider;
+
+90 
+ 
+- Multilateral Trading Facilities [as an example MarketAxess]; 
+- Alternative trading system  
+- Data providers [as an example Bloomberg BVAL, Bloomberg BondTrade Composite (CBBT/BBT), 
+Bloomberg Generic Number (BGN)]. 
+To estimate the transaction cost twelve monthly observation should be taken.  
+Date ISIN Rating Index/composite 
+Weights (in %) 
+PX-BID PX-ASK 
+20160331 ISIN1 AA+ 0,303341 105,3984375 105,484375 
+20160331 ISIN3 AAA 0,326410 106,9296875 107 
+20160331 ISIN4 AA- 0,369948 108,46875 108,53125 
+… … …    
+ 
+  
+100,00   
+ 
+Step 5: Calculate the estimate cost of transaction of each point in time  
+For each day of valuation, the bid -ask spread collected for each constituent (step 5) is divided by two applying 
+the following formula (please see column D in the next table) 
+𝑃𝑎𝑠𝑘  − 𝑃𝑏𝑖𝑑
+2∗𝑃𝑚𝑖𝑑
+  
+(Remark: in the denominator the multiplication *Pmid is intended to obtain a standardised data).  
+Then, calculate the estimated cost of transaction at each point in time (E) by multiplying (A) and (D) and adding 
+the results. 
+ 
+Date ISIN Rating Index/composite 
+Weights (A) 
+PX-BID 
+(B) 
+PX-ASK 
+(C) 
+D = (C–B) / 2 
+x ((C+B)/2)) 
+Estimate cost 
+of transaction 
+of each point in 
+time ( E): (A) X 
+(D) 
+20160331 ISIN1 AA+ 0,303341 105,3984375 105,484375 0,040750 0,00012362% 
+20160331 ISIN3 AAA 0,326410 106,9296875 107 0,032870 0,00010728% 
+20160331 ISIN4 AA- 0,369948 108,46875 108,53125 0,0288000 0,00010655% 
+… … …     … 
+TOTAL   100,00    0,03149%
+
+91 
+ 
+Step 6: Calculate the estimate cost of transaction under normal market conditions 
+Calculate the average of the estimated cost of transaction of each point in time identified (E) in Step 6 for the 
+last twelve months. 
+Time period Estimate cost of transaction of each point in time (E) 
+January 0,03149% 
+February 0,03256% 
+March 0,03158% 
+…  
+Estimated cost of transaction in normal market 
+condition (Average) 0,031742% 
+ 
+(Answer provided by the ESAs on the application of the PRIIPs Delegated Regulation, published on 4 July 
+2017)

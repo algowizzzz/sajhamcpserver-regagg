@@ -1,0 +1,24 @@
+{
+  "doc_id": "1ca6034c651cc9c2",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Examens de la conformit\u00e9",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/exam-examen/1-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3aa05058f2771416153a703d3ed8e4aff80d536547d4feb015041238dbbf226a",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/1ca6034c651cc9c2",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

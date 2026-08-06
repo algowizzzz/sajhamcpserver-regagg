@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14856",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend BOX Rule 3060 (Gratuities) To Conform With FINRA Rule 3220",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/23/2026-14856/self-regulatory-organizations-box-exchange-llc-notice-of-filing-of-a-proposed-rule-change-to-amend",
+  "reference_number": "2026-14856",
+  "published_date": "2026-07-23",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:cb54fbb717e63544135192984c1b5572880314cce62e204e309d3608540b970b",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14856",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

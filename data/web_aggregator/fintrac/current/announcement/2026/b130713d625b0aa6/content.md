@@ -1,0 +1,1294 @@
+Plan sur l’accessibilité de CANAFE 2026-2028   1 | 
+ 
+ 
+ 
+Plan sur l’accessibilité de CANAFE  
+2026-2028 
+ 
+« Rien sans nous »
+
+Plan sur l’accessibilité de CANAFE 2026-2028  2 |  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Sa Majesté le Roi du chef du Canada, 2025. 
+No. de cat. FD2-7F-PDF 
+ISSN 2817-0385
+
+Plan sur l’accessibilité de CANAFE 2026-2028  3 |  
+ 
+ 
+Table des matières 
+Table des matières ............................................................................... 3 
+Un message de la directrice et présidente-directrice générale .................... 4 
+Sommaire exécutif ................................................................................ 6 
+Quelques mesures clés pour éliminer les obstacles ................................. 6 
+Engagement envers l’inclusion et le progrès .......................................... 7 
+Établissement de rapports .................................................................. 7 
+Renseignements généraux ..................................................................... 8 
+Qui nous sommes et ce que nous faisons .............................................. 8 
+La Loi canadienne sur l’accessibilité et la culture de CANAFE ................... 9 
+Rétroaction ..................................................................................... 10 
+Déclaration de confidentialité ............................................................ 11 
+Cycle d’établissement de rapports du plan sur l’accessibilité .................. 12 
+Consultation .................................................................................... 13 
+Passer à l’action ................................................................................. 14 
+1. L’emploi ................................................................................. 14 
+2. L’environnement bâti ............................................................... 19 
+3. Les technologies de l’information et des communications .............. 22 
+4. Les communications, autres que les technologies de l’information et 
+des communications ................................................................ 24 
+5. L’acquisition de biens, de services et d’installations ..................... 26 
+6.  La conception et la prestation de programmes et de services ........ 28  
+7.  Les transports ......................................................................... 29  
+Gestion du programme d’accessibilité.................................................... 30 
+Gouvernance ................................................................................... 30
+
+Plan sur l’accessibilité de CANAFE 2026-2028  4 |  
+ 
+Un message de la directrice et présidente-directrice 
+générale  
+ 
+Je suis heureuse de vous présenter le deuxième plan sur l’accessibilité de 
+CANAFE, pour 2026-2028.  
+ 
+Le gouvernement du Canada s’est engagé à bâtir un pays où chacun, y 
+compris les personnes handicapées, peut participer pleinement à la société 
+sans obstacle. L’adoption de la Loi canadienne sur l’accessibilité a marqué un 
+jalon important, car il s’agit de la loi fédérale sur les droits des personnes 
+handicapées la plus importante depuis plus de trois décennies. La Loi adopte 
+une approche proactive en matière d’accessibilité en transférant la 
+responsabilité de cerner et d’éliminer les obstacles des personnes 
+handicapées aux organisations. 
+ 
+À CANAFE, nous reconnaissons que l’accessibilité est un élément clé de la 
+promotion d’un milieu de travail diversifié, inclusif et équitable. En acceptant 
+les différences, nous pouvons stimuler l’innovation et créer un 
+environnement où tous les employés se sentent valorisés, respectés et en 
+mesure de donner le meilleur d’eux-mêmes au travail. L’accessibilité n’est 
+pas seulement une question de conformité – il s’agit de veiller à ce que 
+chaque membre de l’équipe puisse s’épanouir sans crainte de discrimination 
+et contribuer de manière significative à notre mission commune. 
+ 
+Dans le cadre de notre engagement, CANAFE s’engage à être un chef de file 
+en matière d’accessibilité. Guidés par le principe « Rien sans nous », nous 
+travaillons main dans la main avec les personnes handicapées pour veiller à 
+ce que personne ne soit laissé pour compte. Notre nouveau plan triennal sur 
+l’accessibilité met l’accent sur sept domaines clés : l’emploi, l’environnement 
+bâti, les technologies de l’information et des communications (TIC), les 
+communications (autres que les TIC), l’acquisition de biens, de services et 
+d’installations, la conception et la prestation de programmes et de services, 
+et les transports. Ce plan s’articule également autour des trois priorités 
+stratégiques de l’organisation : 
+ 
+1. Mettre l’accent sur le mandat de base – renforcer, moderniser et 
+exceller dans nos activités principales, qui comprennent les objectifs 
+en matière d’accessibilité; 
+ 
+2. Mettre en œuvre l’optimisation des ressources et des processus – 
+préparer CANAFE pour l’avenir, notamment en dotant les employés 
+d’outils accessibles et des compétences nécessaires pour promouvoir 
+l’accessibilité;
+
+Plan sur l’accessibilité de CANAFE 2026-2028  5 |  
+ 
+ 
+3. Promouvoir la culture organisationnelle – favoriser la collaboration 
+continue et la responsabilisation pour renforcer l’environnement de 
+notre organisme, où l’accessibilité, l’inclusion et la diversité sont les 
+pierres angulaires de la culture de CANAFE. 
+ 
+Grâce à ces efforts, nous bâtissons un milieu de travail et une culture qui 
+reflètent nos valeurs et notre éthique. En veillant à ce que les programmes, 
+les services et les milieux de travail soient entièrement accessibles, nous 
+faisons ce qui est juste et nous libérons également le plein potentiel de notre 
+effectif talentueux. Ensemble, nous créons un CANAFE plus fort et plus 
+inclusif qui protège les Canadiens et renforce l’économie du Canada. 
+ 
+ 
+ 
+ 
+Sarah Paquet 
+Directrice et présidente-directrice générale
+
+Plan sur l’accessibilité de CANAFE 2026-2028  6 |  
+ 
+Sommaire exécutif 
+ 
+Le deuxième plan sur l’accessibilité de CANAFE (2026-2028) démontre son 
+engagement à favoriser un milieu de travail inclusif et exempt d’obstacles, 
+conformément à la Loi canadienne sur l’accessibilité (LCA). Le plan met 
+l’accent sur les sept piliers clés requis : l’emploi, l’environnement bâti, les 
+technologies de l’information et des communications (TIC), les 
+communications, l’approvisionnement, les programmes et services, et les 
+transports. Bien que certains piliers, comme les programmes et services et 
+les transports, s’appliquent moins à CANAFE, l’organisation demeure 
+déterminée à respecter leurs principes dans l’esprit d’améliorer l’accessibilité 
+en tant que collectivité. 
+ 
+Quelques mesures clés pour éliminer les obstacles 
+ 
+L’emploi : Améliorer le recrutement et le maintien en poste des personnes 
+handicapées grâce à des embauches ciblées, à des partenariats et à la mise 
+en œuvre complète du passeport pour l’accessibilité de CANAFE. Les 
+gestionnaires/superviseurs recevront une formation pour améliorer la 
+responsabilisation, et l’inclusion sera favorisée par des événements et une 
+représentation accrue au sein des comités de gouvernance. 
+ 
+L’environnement bâti : Les améliorations de l’accessibilité cibleront les points 
+d’entrée, les toilettes et les cuisines en collaboration avec Services publics et 
+Approvisionnement Canada (SPAC). En collaboration avec la fonction de 
+sécurité interne de CANAFE, les plans d’évacuation d’urgence seront mis à 
+jour pour refléter les besoins en matière d’accessibilité, et les espaces de 
+travail flexibles, tels que les bureaux assis-debout, seront augmentés. 
+ 
+Les technologies de l’information et des communications (TIC) : Les outils et 
+plateformes numériques seront évalués et améliorés pour répondre aux 
+normes d’accessibilité. Une formation sur les pratiques exemplaires en 
+matière d’accessibilité sera dispensée au personnel de la GITI, et 
+l’accessibilité de l’équipement de bureau et des technologies d’assistance 
+sera priorisée. 
+ 
+Les communications : La production de documents accessibles sera 
+encouragée par la formation et la création d’un nouveau réseau d’experts 
+techniques sur les documents accessibles, en veillant à ce que les 
+documents de gouvernance de CANAFE respectent les normes d’accessibilité. 
+Les campagnes de sensibilisation et les programmes d’intégration mettront 
+l’accent sur les pratiques exemplaires en matière d’accessibilité.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  7 |  
+ 
+L’approvisionnement : Les pratiques d’approvisionnement accessibles seront 
+renforcées grâce à des outils, à de la formation et à des mécanismes de 
+suivi. Le personnel de l’approvisionnement recevra une formation pour 
+assurer la conformité aux normes d’accessibilité. 
+ 
+Les programmes et services : CANAFE consultera les intervenants désignés, 
+comme les organismes d’application de la loi et les associations d’entités 
+déclarantes, afin de répondre aux préoccupations en matière d’accessibilité 
+liées à son site Web externe et à ses processus. 
+ 
+Les transports : CANAFE collaborera avec SPAC pour s’assurer que le 
+stationnement public à ses emplacements répond aux attentes en matière 
+d’accessibilité. 
+ 
+Engagement envers l’inclusion et le progrès 
+ 
+CANAFE met l’accent sur le principe « Rien sans nous » en mobilisant les 
+employés et les intervenants pour cerner et éliminer les obstacles. Des 
+consultations régulières et des mécanismes de rétroaction contribueront aux 
+améliorations continues. Le succès sera mesuré par une participation accrue 
+des employés, une meilleure accessibilité dans les installations et les outils, 
+et une meilleure sensibilisation dans l’ensemble de l’organisation. 
+ 
+En tant que petite organisation agile, CANAFE est dans une position unique 
+pour donner l’exemple en favorisant une culture inclusive. En éliminant les 
+obstacles et en respectant la Loi canadienne sur l’accessibilité, CANAFE 
+cherche à libérer le plein potentiel de son effectif, à améliorer la prestation 
+de services et à renforcer son rôle dans la protection des Canadiens et de 
+l’économie. 
+ 
+Établissement de rapports 
+ 
+CANAFE publiera des rapports d’étape annuels tout au long de ce cycle de 
+planification triennal, le premier rapport d’étape se terminant le 31 
+décembre 2026. Ce plan reflète l’engagement de CANAFE à créer un milieu 
+de travail où tous les employés peuvent s’épanouir et contribuer de manière 
+significative, guidés par ses valeurs fondamentales de diversité, d’équité et 
+d’inclusion.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  8 |  
+ 
+Renseignements généraux 
+ 
+Qui nous sommes et ce que nous faisons 
+ 
+En tant qu’unité du renseignement financier du Canada et organisme de 
+réglementation de la lutte contre le blanchiment d’argent et le financement 
+des activités terroristes, CANAFE joue un rôle essentiel dans la lutte contre 
+le blanchiment d’argent, le financement des activités terroristes et les 
+menaces à la sécurité du Canada. 
+ 
+Le Centre produit des renseignements financiers exploitables à l’appui des 
+enquêtes sur le blanchiment d’argent, le financement du terrorisme et le 
+contournement des sanctions mené par des services de police, les 
+organismes d’application de la loi et de sécurité nationale du Canada, ainsi 
+que par des partenaires internationaux. CANAFE produit également de 
+précieux renseignements financiers stratégiques, y compris des rapports de 
+recherche spécialisés et des analyses des tendances, à l’intention des 
+partenaires du régime et des décideurs, des entreprises et des homologues 
+internationaux, qui mettent en lumière la nature et la portée des activités de 
+blanchiment d’argent, de financement des activités terroristes et de 
+contournement des sanctions, de même que la menace que posent ces 
+activités.  
+ 
+Les renseignements financiers de CANAFE sont très prisés à l’échelle 
+internationale, tout comme ses connaissances et son expertise en matière 
+de renseignements spécialisés et de surveillance. Le Centre est 
+régulièrement invité à diriger des conférences et des ateliers internationaux 
+et à contribuer à des projets de recherche, à des activités de formation et à 
+des initiatives bilatérales et multilatérales de renforcement des capacités à 
+l’échelle mondiale.  
+ 
+Dans le cadre de ses mandats de base en matière de renseignement 
+financier et de conformité, CANAFE s’engage à protéger les renseignements 
+qu’il reçoit et recueille en vertu de la Loi. Le Centre comprend que la 
+protection de la vie privée est essentielle au maintien de la confiance des 
+Canadiens envers CANAFE et le régime canadien de lutte contre le 
+blanchiment d’argent et le financement des activités terroristes.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  9 |  
+ 
+La Loi canadienne sur l’accessibilité et la culture de CANAFE 
+ 
+La Loi canadienne sur l’accessibilité (LCA) a été promulguée en juillet 2019 
+et confirme l’engagement du gouvernement du Canada à cerner, éliminer et 
+prévenir de façon proactive les obstacles à l’accessibilité lorsque les 
+Canadiens interagissent avec des domaines de compétence fédérale, qu’ils 
+soient internes ou externes à une organisation. Dans le cadre de la LCA, les 
+ministères et organismes fédéraux se sont vu confier trois exigences 
+importantes pour favoriser l’accessibilité : 
+ 
+ Créer des plans sur l’accessibilité triennaux qui définissent comment ils 
+vont identifier, éliminer et prévenir les obstacles à l’accessibilité dans 
+les programmes et services. 
+ Publier des rapports d’étape annuels qui décrivent comment les 
+organisations mettent en œuvre leurs plans sur l’accessibilité. 
+ Mettre en œuvre des processus pour recueillir, gérer et répondre aux 
+commentaires sur l’accessibilité, y compris les plans sur l’accessibilité 
+et les rapports d’étape. 
+ 
+Ces activités doivent être entreprises en consultation avec les personnes 
+handicapées, dans le respect du principe « Rien sans nous ». Grâce à des 
+consultations et à une mobilisation régulière, CANAFE s’assure que ses activités 
+sont directement harmonisées avec les besoins et les attentes des personnes 
+handicapées. Cela signifie qu’il faut continuellement mobiliser les personnes 
+ayant une expérience vécue afin de cerner les obstacles à l’accessibilité, de 
+façonner le travail effectué pour éliminer ces obstacles et de s’assurer que ces 
+efforts produisent des résultats positifs. Bien que la LCA ait introduit de 
+nouvelles exigences que les organisations doivent suivre, s’assurer que les 
+expériences sont accessibles est plus qu’une obligation législative qui doit être 
+respectée; c’est tout simplement la bonne chose à faire. 
+ 
+CANAFE vise à être un chef de file en matière d’accessibilité. L’accessibilité 
+est un élément fondamental de l’expérience de nos intervenants et de nos 
+employés, et le renforcement de l’accessibilité dans l’ensemble de nos 
+programmes, services et politiques est ce que nous visons à réaliser grâce 
+au plan sur l’accessibilité. Les valeurs fondamentales de CANAFE sont 
+reflétées dans notre plan sur l’accessibilité, qui énonce l’approche du Centre 
+pour éliminer les obstacles à l’accessibilité au cours des trois prochaines 
+années, en mettant l’accent sur les sept domaines énumérés dans la LCA :  
+ 
+1. L’emploi 
+2. L’environnement bâti (bâtiments et espaces publics) 
+3. Les technologies de l’information et des communications
+
+Plan sur l’accessibilité de CANAFE 2026-2028  10 |  
+ 
+4. Les communications, autres que les technologies de l’information et 
+des communications 
+5. L’acquisition de biens, de services et d’installations 
+6. La conception et la prestation de programmes et de services 
+7. Les transports 
+ 
+Bien que les deux derniers piliers énumérés ne s’appliquent pas aux activités de 
+CANAFE, nous continuerons néanmoins à saisir l’essence et l’esprit de ces 
+éléments législatifs pour les intégrer à notre plan sur l’accessibilité. 
+ 
+En tant que petit organisme au sein de la communauté des organisations de 
+haute sécurité (OHS), comptant un effectif d’environ 500 employés, CANAFE 
+est confronté à des défis à la fois uniques et communs. Cependant, notre 
+taille offre également un avantage distinct. Le fait d’être une organisation 
+plus petite et plus agile nous permet de nous attaquer aux obstacles plus 
+efficacement et d’élaborer des solutions novatrices pour les surmonter. En 
+collaborant activement avec notre équipe dévouée et dynamique et en 
+accordant la priorité aux mesures significatives et aux investissements 
+stratégiques, nous sommes résolus à susciter des changements tangibles. 
+Ensemble, nous nous efforçons de cultiver une transformation culturelle qui 
+crée des effets positifs durables pour nos employés et renforce le travail 
+essentiel que nous accomplissons au nom des Canadiens. 
+ 
+Rétroaction 
+ 
+Le gestionnaire de Services aux personnes et opérations est la personne 
+chargée de superviser la responsable de l’accessibilité qui reçoit les 
+commentaires sur les obstacles et l’accessibilité à CANAFE. 
+ 
+ Pour nous faire part de vos commentaires, compliments et questions 
+sur tout ce qui concerne l’accessibilité, les obstacles que vous avez pu 
+rencontrer en traitant avec CANAFE, ou la mise en œuvre du plan sur 
+l’accessibilité, vous pouvez communiquer avec nous : 
+ 
+ Par courriel : Accessibility/Accessibilite@fintrac-canafe.gc.ca  
+ Par téléphone : 1-866-346-8722 (sans frais)  
+ Par téléscripteur : 1 800-465-7735  
+ Par la poste : 
+Gestionnaires, Services aux personnes et opérations  
+Personnes, culture et milieu de travail  
+CANAFE  
+234, avenue Laurier Ouest  
+Ottawa (Ontario) K1P 1H7
+
+Plan sur l’accessibilité de CANAFE 2026-2028  11 |  
+ 
+Les commentaires anonymes peuvent être fournis par téléphone ou par la 
+poste. 
+ 
+Veuillez soumettre votre demande, en utilisant les coordonnées indiquées ci-
+dessus, pour recevoir ce rapport dans un autre format, y compris en 
+imprimé, en gros caractères, en braille, en format audio ou dans un format 
+électronique compatible avec la technologie adaptée destinée à aider les 
+personnes handicapées. 
+ 
+Lorsque vous soumettez des commentaires sur le plan sur l’accessibilité, la 
+mise en œuvre du plan sur l’accessibilité ou tout obstacle que vous avez pu 
+rencontrer en faisant affaire avec CANAFE, veuillez décrire vos expériences 
+et les répercussions qu’elles ont eues sur vous, ainsi que toute 
+recommandation que vous pourriez avoir sur la façon d’éliminer les 
+obstacles. 
+ 
+Veuillez vous assurer d’inclure vos coordonnées lorsque vous soumettez vos 
+commentaires en utilisant les coordonnées indiquées ci-dessus. Nous 
+accuserons réception de vos commentaires, à moins qu’ils ne soient 
+anonymes, de la même manière qu’ils ont été reçus. Nous pouvons 
+également communiquer avec vous pour mieux comprendre vos 
+commentaires. 
+ 
+La personne désignée pour recevoir des commentaires au nom de CANAFE, 
+la gestionnaire, Services aux personnes et opérations, lira les 
+renseignements que vous fournissez. Nous enregistrerons vos 
+renseignements et pourrions les communiquer à d’autres secteurs de 
+CANAFE ou du gouvernement pour les aider à surmonter les obstacles. Tous 
+les commentaires reçus feront partie d’un rapport interne afin d’assurer une 
+gestion responsable de chaque commentaire et demande reçu, et d’éclairer 
+les plans sur l’accessibilité et les rapports d’étape à venir. 
+ 
+Déclaration de confidentialité  
+ 
+Les commentaires que vous fournissez dans le cadre de cette consultation 
+resteront confidentiels et ne seront utilisés que dans le but de recueillir vos 
+suggestions. Votre soumission est volontaire et nous vous recommandons de 
+ne pas fournir de renseignements personnels. Si vous fournissez des 
+renseignements personnels, ils seront protégés conformément aux 
+dispositions de la Loi sur la protection des renseignements personnels et 
+décrits dans le fichier de renseignements personnels POU 938 intitulé « 
+Activités de sensibilisation ». De plus, veuillez noter que le gouvernement du 
+Canada ne rendra pas publiques les soumissions individuelles, mais qu’il se 
+réserve le droit de rendre publics les résultats globaux.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  12 |  
+ 
+ 
+Pour obtenir de plus amples renseignements sur vos droits en vertu de la Loi 
+sur la protection des renseignements personnels, veuillez communiquer avec 
+le Bureau de l’accès à l’information et de la protection des renseignements 
+personnels de CANAFE à l’adresse atip-aiprp@fintrac-canafe.gc.ca 
+ 
+Cycle d’établissement de rapports du plan sur l’accessibilité 
+ 
+Cycle d’établissement de rapports – année 1 : 31 décembre 2026 
+Cycle d’établissement de rapports – année 2 : 31 décembre 2027
+
+Plan sur l’accessibilité de CANAFE 2026-2028  13 |  
+ 
+Consultation  
+ 
+Le Plan sur l’accessibilité de CANAFE a été influencé par les précieux 
+commentaires reçus de notre Réseau d’employés pour les personnes 
+handicapées (REPH). 
+ 
+Les membres du REPH sont des volontaires qui ont répondu à l’appel pour 
+aider à « faire une différence pour créer un milieu de travail sans obstacle ». 
+Le nombre de membres du REPH a doublé en 2025, et il y a une 
+représentation de personnes ayant une déficience physique, cognitive et 
+d’apprentissage avec un certain nombre de types d’obstacles différents qui 
+entravent leur capacité à participer pleinement et équitablement à la société.  
+ 
+La communauté du REPH se réunit de façon ponctuelle, et alors que nous 
+entamions l’élaboration du prochain plan sur l’accessibilité triennal de 
+CANAFE, quatre séances de consultation ont eu lieu avec les membres au 
+printemps, à l’été et à l’automne 2025. L’objectif était de mener des 
+consultations sur les obstacles cernés, les mesures à prendre et les mesures 
+de rendement pour le plan renouvelé 2026-2028. Les membres du REPH ont 
+fourni des renseignements précieux sur la façon de combler certaines 
+lacunes soulevées dans le cadre du processus de planification et des 
+consultations. Ils ont également relevé d’autres lacunes, soulignant 
+l’importance d’avoir une plus grande clarté sur la planification d’évacuation 
+et les attentes en matière d’accessibilité dans un monde de télétravail, ainsi 
+que d’avoir une expérience de travail positive et une évolution de carrière 
+continues. 
+ 
+Reconnaissant ses employés comme son plus grand atout, CANAFE a 
+concentré ses efforts de consultation à l’interne. Des plans sont toutefois en 
+cours d’élaboration pour lancer des consultations externes en 2025 et au-
+delà, avec la participation des principaux intervenants du régime du Centre, 
+tels que les organismes d’application de la loi et les entités déclarantes.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  14 |  
+ 
+Passer à l’action 
+ 
+Tout au long du processus de consultation interne, de nombreuses 
+discussions éclairantes et dynamiques ont façonné le deuxième plan sur 
+l’accessibilité de CANAFE. Il y a un engagement commun et enthousiaste à 
+explorer des approches novatrices pour éliminer les obstacles, en s’appuyant 
+sur les progrès significatifs réalisés au cours des trois dernières années. Cet 
+effort collectif s’étend à la résolution de certaines difficultés que 
+l’organisation n’a jamais relevées auparavant, comme une initiative dévouée 
+et sérieuse visant à rendre les documents quotidiens pleinement accessibles. 
+Cette approche collective et prospective souligne l’engagement indéfectible 
+de CANAFE à créer un environnement inclusif et exempt d’obstacles pour 
+tous. 
+ 
+Vous trouverez ci-dessous les détails des engagements pour chacun des sept 
+domaines ciblés :  
+ 
+1. L’emploi 
+ 
+CANAFE demeure fermement résolu à favoriser l’emploi accessible et inclusif 
+en favorisant le recrutement, le maintien en poste et l’avancement des 
+personnes en situation de handicap. Cet engagement reflète notre 
+engagement à cultiver une culture de travail qui reconnaît et valorise les 
+contributions uniques de chaque membre de l’équipe. À CANAFE, nous nous 
+efforçons de créer des conditions dans lesquelles chaque candidat et chaque 
+employé devrait se sentir en mesure d’être authentique dans tous les 
+contextes et environnements de travail.  
+ 
+Au cours des dernières années, CANAFE a entrepris un examen approfondi et 
+une modernisation de ses processus d’embauche afin de réduire les 
+obstacles à l’accès. Ces efforts ont mené à d’importantes réalisations, 
+notamment en assurant la conformité à la Loi canadienne sur l’accessibilité 
+(LCA) et à d’autres exigences législatives, ainsi qu’à la réalisation des 
+mesures à prendre précédemment définies grâce à des efforts collectifs. Bon 
+nombre de ces réalisations cadrent également avec les objectifs 
+organisationnels et les priorités stratégiques plus vastes de CANAFE. Les 
+faits saillants suivants illustrent les progrès que nous avons réalisés dans la 
+détermination, l’élimination et la prévention des obstacles à l’accès à 
+l’emploi.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  15 |  
+ 
+ 
+1.1 Mesures pour éliminer l’obstacle : Le processus d’adaptation manque 
+de clarté et d’orientation définie. 
+ 
+Description Responsabilité Échéancier 
+Amélioration continue des instruments de politique 
+fondamentaux, comme la mise à jour de la directive 
+sur l’obligation de prendre des mesures d’adaptation 
+et des outils connexes, au besoin. 
+ 
+DPRH Mars 2026 
+ 
+Simplifier et clarifier l’ensemble du processus 
+d’adaptation et du modèle de prestation de services. 
+ 
+DPRH Mars 2026 
+ 
+Offrir de la formation pour soutenir et éduquer les 
+employés sur « ce qui est considéré comme une 
+mesure d’adaptation ». 
+ 
+DPRH Mars 2027 
+ 
+Mise en œuvre complète du passeport pour 
+l’accessibilité. 
+ 
+DPRH Mars 2028 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le temps nécessaire pour que la demande de mesures d’adaptation 
+d’un employé soit traitée. 
+o Cible : À déterminer après l’établissement de la base de 
+référence. 
+ 
+ Le nombre de plaintes reçues par le programme de santé et de 
+sécurité au travail concernant les mesures d’adaptation et le nombre 
+de griefs relatifs à l’obligation de prendre des mesures d’adaptation. 
+o Cible : 0 
+ 
+ Pourcentage de personnes titulaires d'un passeport qui l'ont utilisé 
+pour faciliter une demande de mesure d’adaptation raisonnable. 
+o Cible : S.O.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  16 |  
+ 
+1.2 Mesures pour éliminer les obstacles : La responsabilité de la gestion en 
+ce qui concerne la détermination et l’élimination des obstacles pourrait 
+être améliorée. 
+ 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Participation des gestionnaires à la formation. 
+o Cible : 100% 
+ 
+ Le nombre de griefs et de plaintes liés à l’obligation de prendre des 
+mesures d’adaptation. 
+o Cible : 0 
+ 
+ La direction est mieux outillée pour répondre aux questions et aux 
+situations relatives aux mesures d’adaptation des employés grâce 
+aux conseils et à l’orientation fournis par les partenaires 
+stratégiques d’affaires en ressources humaines (PSARH) et les 
+services d’ombuds externes. 
+o Cible : 100% des commentaires sont pris en compte et mis en 
+œuvre. 
+ 
+Description Responsabilité Échéancier 
+Au-delà du passeport pour l’accessibilité, offrir une 
+formation pour outiller les gestionnaires – 
+éducation et état d’esprit sur la façon et l’endroit 
+où aller pour trouver des outils et de l’aide. 
+ 
+DPRH Mars 2027 
+ 
+ 
+ 
+En collaboration avec les services de l’ombuds, 
+élaborer le « comment » des conversations 
+concernant les demandes de mesures d’adaptation. 
+DPRH Mars 2027 
+ 
+Fournir des outils supplémentaires à la 
+communauté des dirigeants par l’intermédiaire de 
+l’initiative Parcours de leadership.  
+DPRH Mars 2027 
+ 
+Accroître la sensibilisation à la responsabilisation 
+de gestion au moyen de séances d’information et 
+de formations spécialement conçues pour les 
+superviseurs. 
+ 
+DPRH Mars 2027 
+ 
+Explorer l’élaboration d’une responsabilisation 
+conséquente pour la gestion du rendement. 
+ 
+DPRH Mars 2027
+
+Plan sur l’accessibilité de CANAFE 2026-2028  17 |  
+ 
+1.3 Mesures visant à éliminer les obstacles : Le recrutement, la promotion 
+et le maintien en poste des personnes handicapées pourraient être 
+améliorés. 
+ 
+Description Responsabilité Échéancier 
+Accroître la représentation des personnes 
+handicapées (veiller à ce qu’il n’y ait pas de lacunes 
+dans certains secteurs ou à des niveaux précis). 
+ 
+DPRH Mars 2028 
+En cours 
+Collaborer avec des tiers fournisseurs de services 
+pour explorer l’expertise en matière d’emploi des 
+personnes handicapées. 
+DPRH Mars 2028 
+En cours 
+Encourager et élaborer des processus de 
+recrutement inclusifs au moyen de listes de contrôle 
+et d’autres outils. 
+ 
+DPRH Mars 2028 
+En cours 
+Explorer un système d’emploi amélioré en mettant 
+en œuvre un module de recrutement qui permet 
+d’obtenir des données plus nombreuses et de 
+meilleure qualité pour les analyses statistiques 
+futures.  
+ 
+DPRH Mars 2028 
+En cours 
+Mieux identifier la population de personnes 
+handicapées du Centre. 
+DPRH Mars 2028 
+En cours 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Pourcentage d’employés qui déclarent avoir un handicap. 
+o Cible : Supérieure ou égale à (≥) la disponibilité au sein de la 
+population active pour les personnes handicapées (actuellement 
+12%). 
+ 
+1.4 Mesures pour éliminer les obstacles : La culture organisationnelle 
+pourrait être plus accueillante et inclusive. 
+ 
+Description Responsabilité Échéancier 
+Accroître la représentation des personnes 
+handicapées au sein des comités de gouvernance du 
+Centre. 
+ 
+DPRH Mars 2028 
+En cours 
+Élargir la communauté du Réseau d’employés pour 
+les personnes handicapées (REPH). 
+DPRH Mars 2027 
+En cours 
+Série d’événements « Une journée dans la vie » 
+pour mieux comprendre l’expérience vécue par les 
+personnes handicapées. 
+ 
+DPRH Mars 2027 
+En cours
+
+Plan sur l’accessibilité de CANAFE 2026-2028  18 |  
+ 
+Description Responsabilité Échéancier 
+Sensibilisation régulière dans la prestation d’un 
+soutien à l’intégration des nouveaux employés et à 
+l’intégration au Centre. 
+ 
+DPRH Mars 2027 
+En cours 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le pourcentage de comités qui atteignent les objectifs du Défi 50-
+30. 
+o Cible : 100% 
+ 
+ Participation des employés au Réseau d’employés pour les 
+personnes handicapées. 
+o Cible : Une augmentation par rapport au taux de participation 
+de 2024-2025 de 5 employés dans l’ensemble du Centre.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  19 |  
+ 
+2. L’environnement bâti 
+ 
+CANAFE exerce ses activités à partir de quatre emplacements, comprenant des 
+bureaux régionaux à Toronto, Montréal et Vancouver, ainsi que son 
+administration centrale à Ottawa. À tous les emplacements, CANAFE occupe 
+des locaux loués dans les immeubles gérés par Services publics et 
+Approvisionnement Canada (SPAC), qui supervise les contrats de location et 
+veille à la conformité aux exigences du code de l’immeuble de base. 
+ 
+Chaque fois que CANAFE travaille avec SPAC pour négocier de nouveaux 
+contrats de location pour chacun de ses emplacements, CANAFE cherche des 
+moyens d’intégrer des améliorations en matière d’accessibilité afin de mieux 
+répondre aux mises à jour des exigences du code qui amélioreront 
+l’accessibilité dans les aires communes telles que les points d’entrée, les 
+cuisines et les toilettes. 
+ 
+CANAFE demeure déterminé à accorder la priorité à l’accessibilité dans toutes 
+les rénovations apportées à ses locaux loués. De plus, le Centre a été reconnu 
+par les membres du REPH pour sa gestion efficace et sa réceptivité aux 
+besoins en matière de locaux. Dans le cadre des efforts continus déployés par 
+CANAFE pour soutenir son modèle de travail hybride, l’organisation continue 
+d’évaluer et d’intégrer des bureaux assis/debout supplémentaires dans les 
+« voisinages » établis à chaque étage, ainsi que de veiller autant que possible 
+à ce que de telles mesures d’adaptation soient disponibles pour les employés 
+ayant des besoins particuliers. 
+ 
+Bien que de bons progrès aient été réalisés au cours des dernières années, il 
+est toujours possible de collaborer pour surmonter les obstacles cernés : 
+ 
+2.1 Mesures pour éliminer les obstacles : Il se peut que les points d’entrée 
+et les aires communes du lieu de travail ne soient pas tous accessibles. 
+ 
+Description Responsabilité Échéancier 
+Évaluer tous les points d’accès, les portes, les 
+halls, les entrées de porte et les barrières de 
+sécurité pour répondre aux attentes en matière 
+d’accessibilité. 
+ 
+DPRH Septembre 
+2026 
+Évaluer les toilettes en fonction des exigences 
+universelles en matière de toilettes. 
+ 
+DPRH Septembre 
+2026 
+ 
+Évaluer que tout l’espace de cuisine répond aux 
+attentes en matière d’accessibilité. 
+DPRH Septembre 
+2026
+
+Plan sur l’accessibilité de CANAFE 2026-2028  20 |  
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Veiller à ce que tous les points d’accès répondent aux attentes en 
+matière d’accessibilité. 
+o Cible : 100% – base de référence actuelle de 100% 
+ 
+ Le pourcentage de toilettes qui répondent aux exigences 
+universelles. 
+o Cible : 100% – base de référence actuelle de 57% 
+ 
+ Le pourcentage de cuisines du personnel qui répondent aux 
+attentes en matière d’accessibilité. 
+o Cible : 100% – base de référence actuelle de 55% 
+ 
+ 
+2.2 Mesures pour éliminer les obstacles : Les Services en milieu de travail 
+s’engagent à soutenir l’accessibilité, mais ne sont pas toujours 
+pleinement conscients des obstacles auxquels font face les employés. 
+ 
+Description Responsabilité Échéancier 
+Poursuivre le travail avec PCMT sur l’élaboration et la 
+mise en œuvre du passeport pour l’accessibilité et 
+l’intégration aux activités des services en milieu de 
+travail. 
+DPRH 
+Décembre 
+2025 
+Améliorer la communication pour soutenir les options 
+d’accessibilité. 
+DPRH 
+En cours 
+ 
+Soutenir PCMT sur la conception du diagramme pour 
+l’obligation de prendre des mesures d’adaptation. 
+DPRH Mars 2026 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le nombre de demandes de passeport reçues et traitées par la 
+fonction Services en milieu de travail.  
+o Cible : S.O. 
+ 
+ Pourcentage de postes de travail dotés d’une option flexible. 
+o Cible : Augmentation par rapport à la base de référence de 61% 
+ 
+ Le pourcentage de postes de travail avec options flexibles identifiés 
+sur la plateforme de réservation. 
+o Cible : 100% – base de référence actuelle de 81%
+
+Plan sur l’accessibilité de CANAFE 2026-2028  21 |  
+ 
+2.3 Mesures pour éliminer l’obstacle : Les plans d’évacuation d’urgence 
+visant à répondre aux besoins des employés en matière d’accessibilité 
+et à en tenir compte ne sont pas bien connus. 
+ 
+Description Responsabilité Échéancier 
+Examiner les plans d’évacuation existants afin de 
+déterminer les moyens d’évacuer en toute sécurité 
+les employés dans l’environnement de travail 
+hybride. 
+DPS 
+DPRH Mai 2026 
+Collaborer avec les employés pour valider que les 
+politiques d’évacuation répondent aux besoins en 
+matière d’accessibilité. 
+ 
+DPS 
+DPRH En cours 
+Évaluer les plans d’évacuation d’urgence pour 
+s’assurer que les besoins en matière d’accessibilité 
+sont bien pris en compte (deux livrables). 
+DPS Janvier et 
+août 2026 
+ 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ La politique d’évacuation sera mise à jour pour inclure les 
+considérations d’accessibilité dans un environnement hybride.  
+o Cible : Le livrable sera terminé 
+ 
+ La sensibilisation à la sécurité des incendies comprendra la 
+détermination annuelle des obligations des gestionnaires à l’égard 
+des personnes ayant besoin d’assistance. 
+o Cible : Le livrable sera réalisé chaque année. 
+ 
+ Les étages contiendront des documents d’évacuation qui sont mis à 
+jour pour refléter les informations sur l’accessibilité. 
+o Cible : 100%
+
+Plan sur l’accessibilité de CANAFE 2026-2028  22 |  
+ 
+ 
+3.  Les technologies de l’information et des communications 
+ 
+Le gouvernement du Canada continue de se faire le champion d’une fonction 
+publique qui est un chef de file mondial dans la création de milieux de travail 
+et de services inclusifs et sans obstacle. CANAFE demeure résolu à soutenir 
+cette vision et la fait progresser grâce aux investissements prévus suivants : 
+ 
+Tirer parti des investissements stratégiques dans les technologies 
+numériques émergentes pour générer de la valeur opérationnelle, 
+accroître l’efficacité opérationnelle, optimiser les services numériques et 
+explorer de nouvelles approches pour exécuter le mandat et les priorités du 
+Centre. 
+Établir des bases numériques modernes en développant une 
+infrastructure numérique essentielle pour permettre la transformation 
+actuelle et future, et pour rehausser l’expérience du milieu de travail 
+numérique pour tous les employés de CANAFE. 
+Adopter des approches agiles et axées sur l’utilisateur et des 
+processus axés sur les produits pour obtenir de meilleurs résultats dans 
+l’ensemble de nos fonctions opérationnelles. 
+ 
+Animé par un esprit d’innovation et de créativité, CANAFE s’est engagé à 
+éliminer les obstacles soulevés et à assurer l’accessibilité pour tous et à 
+continuer d’améliorer ses outils et plateformes numériques pour répondre 
+aux normes d’accessibilité, garantissant ainsi que tous les employés peuvent 
+accéder à l’information et contribuer de manière significative. 
+ 
+3.1 Mesures pour éliminer les obstacles : Certains outils et plateformes 
+utilisés par CANAFE peuvent ne pas répondre aux attentes en matière 
+d’accessibilité. 
+ 
+Description Responsabilité Échéancier 
+Évaluer les outils et les plateformes pour les 
+utilisations de CANAFE et mettre en œuvre des 
+améliorations si les attentes en matière 
+d’accessibilité ne sont pas satisfaites. 
+DPT/DPSI Mars à 
+décembre 
+2026 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le pourcentage d’employés utilisant des plateformes spécifiques 
+identifiées comme étant plus accessibles.  
+ Cible : Plateforme 1 – 50 %; Plateforme 2 – 100 %
+
+Plan sur l’accessibilité de CANAFE 2026-2028  23 |  
+ 
+3.2 Mesure pour éliminer l’obstacle : Il pourrait y avoir une meilleure 
+harmonisation entre les besoins des employés ayant des 
+préoccupations en matière d’accessibilité et les ressources disponibles. 
+ 
+Description Responsabilité Échéancier 
+Préparation d’une liste d’outils, d’applications et 
+d’appareils approuvés avec des lignes directrices 
+pour les employés handicapés. 
+DPT/DPSI Mars 2027 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le pourcentage d’approvisionnements en GI-TI qui répondent aux 
+attentes de la liste de contrôle de l’accessibilité. 
+o Cible : 100 % 
+ 
+ S’assurer que des casques d’écoute à réduction de bruit sont 
+toujours disponibles pour être distribués aux employés, au besoin. 
+o Cible : Conserver un surplus de 5 unités. 
+ 
+3.3 Mesures visant à éliminer les obstacles : Le matériel de GI-TI n’est pas 
+toujours accessible. 
+ 
+Description Responsabilité Échéancier 
+CANAFE évaluera l’accessibilité de l’équipement de 
+GI-TI disponible. 
+DPT/DPSI 2028 
+ 
+Les lacunes relevées seront corrigées. DPT/DPSI 2028 
+ 
+ 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le pourcentage de photocopieurs qui répondent aux attentes en 
+matière d’accessibilité aux fauteuils roulants. 
+o Cible : 100 % 
+ 
+ Le pourcentage de photocopieurs disponibles avec plusieurs 
+technologies d’assistance.  
+o Cible : 100 % 
+ 
+ Le pourcentage de bureaux/d’équipement qui sont accessibles et 
+qui répondent aux attentes en matière d’accessibilité. 
+o Cible : 25 %
+
+Plan sur l’accessibilité de CANAFE 2026-2028  24 |  
+ 
+3.4 Mesures pour éliminer les obstacles : Les employés de la GI-TI ne sont 
+pas toujours conscients des problèmes d’accessibilité et de l’incidence 
+sur le site Web et les services numériques de CANAFE. 
+ 
+Description Responsabilité Échéanci
+er 
+Créer une formation sur les WCAG 2.1 pour les 
+employés des TI. 
+DPT/DPSI Automne 
+2027 
+ 
+Évaluer la conformité des sites Web et des services 
+numériques aux normes WCAG, version 2.1, niveau 
+AA. 
+ 
+DPT/DPSI 2028 
+ 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le pourcentage d’éléments numériques et de sites Web conformes 
+aux attentes des normes WCAG, version 2.1. 
+o Cible : 100 % 
+ 
+ 
+4. Les communications, autres que les technologies de 
+l’information et des communications 
+ 
+CANAFE reconnaît que des communications claires et inclusives, tant écrites 
+qu’orales, sont essentielles pour favoriser un milieu de travail où les 
+personnes handicapées sont des participants actifs et appréciés. Les 
+communications internes sont essentielles pour promouvoir nos valeurs 
+fondamentales, notamment l’accessibilité, en tenant les employés informés, 
+engagés, sensibilisés et connectés. 
+ 
+Grâce à des canaux tels que les mises à jour sur l’intranet, les messages aux 
+employés, les réunions d’équipe et les messages organisationnels, nous nous 
+efforçons de garantir que toutes les communications sont accessibles, 
+respectueuses et inclusives. Nous restons déterminés à appliquer ces 
+principes conformément à la Politique sur les communications du 
+gouvernement du Canada et à la Norme sur l’accessibilité des sites Web, afin 
+de contribuer à créer un milieu de travail où chacun peut participer 
+pleinement et équitablement.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  25 |  
+ 
+4.1 Mesures prises pour éliminer les obstacles : La création de documents 
+accessibles à l’échelle du Centre et destinés à un usage public n’est 
+pas toujours pratiquée par les responsables des documents. 
+ 
+Description Responsabilité Échéancier 
+Jouer un rôle de chef de file au sein des comités 
+de gouvernance en offrant des présentations et 
+des documents d’appui accessibles. 
+Tous les chefs de 
+secteur 
+2028 
+S’assurer que l’accessibilité des fichiers du SGDDI 
+qui sont liés à partir de FINTRANET a été évaluée 
+par le responsable du document. 
+Directeur adjoint, 
+Communications 
+DPRH 
+(en collaboration 
+avec tous les 
+secteurs) 
+2026 
+Rendre disponible sur le FINTRANET une liste 
+d’outils et de ressources permettant de créer des 
+documents accessibles à l’interne et à l’externe. 
+Directeur adjoint, 
+Communications 
+ 
+2028 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le pourcentage de documents accessibles présentés aux réunions 
+de comités de gouvernance.  
+o Cible : 100% 
+ 
+ Les fichiers de gestion de documents nouveaux ou mis à jour liés à 
+partir de l’intranet sont évalués en fonction de leur accessibilité et 
+déclarés conformes aux attentes en matière d’accessibilité par le 
+gardien des documents. 
+o Cible : 100% 
+ 
+ Pourcentage de documents désignés comme accessibles par les 
+responsables de documents et vérifiés par le réseau d’experts 
+techniques. 
+o Cible : 100% 
+ 
+ 
+4.2 Mesures pour éliminer les obstacles : Certains employés ne 
+connaissent pas les exigences en matière d’accessibilité. 
+ 
+Description Responsabilité Échéancier 
+Sensibiliser aux pratiques exemplaires en matière 
+d’accessibilité et à l’importance de les mettre en 
+œuvre pour renouveler l’engagement des cadres 
+supérieurs en matière d’accessibilité et d’EEDI. 
+DPRH Janvier 
+2026
+
+Plan sur l’accessibilité de CANAFE 2026-2028  26 |  
+ 
+Description Responsabilité Échéancier 
+Établir un réseau de base d’experts techniques en 
+accessibilité dont les membres proviennent de 
+tous les secteurs du Centre. 
+Tous les chefs 
+de secteur 
+En cours 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le pourcentage d’employés qui ont reçu une formation sur la façon 
+de rendre les documents accessibles. 
+o Cible : 100% 
+ 
+ Les secteurs ont des employés formés pour devenir une ressource 
+en matière d’accessibilité. 
+o Cible : Au moins deux employés par secteur. 
+ 
+5. L’acquisition de biens, de services et d’installations 
+ 
+L’approvisionnement accessible consiste à cerner et à éliminer les obstacles 
+afin de s’assurer que les biens et les services répondent aux divers besoins 
+de tous les utilisateurs finaux, y compris les personnes handicapées. Il s’agit 
+de définir les exigences de manière à promouvoir l’inclusion dès le départ. 
+ 
+À mesure que CANAFE ira de l’avant avec ses efforts en matière 
+d’approvisionnement accessible, il continuera de collaborer avec Services 
+publics et Approvisionnement Canada – le responsable de 
+l’approvisionnement du gouvernement du Canada – pour promouvoir la 
+sensibilisation, renforcer les capacités et élaborer des outils et des processus 
+qui soutiennent des pratiques d’achat inclusives. Il s’agit notamment de 
+renforcer la compréhension interne des considérations relatives à 
+l’accessibilité dans la planification, l’évaluation et la gestion des contrats 
+d’approvisionnement. 
+ 
+Au moyen de formations, d’orientations et d’une mobilisation continue, 
+CANAFE vise à développer des compétences en approvisionnement 
+accessibles dans l’ensemble de l’organisation, en veillant à ce que ses 
+décisions en matière d’approvisionnement contribuent à une fonction 
+publique inclusive et exempte d’obstacles.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  27 |  
+ 
+5.1 Mesures visant à éliminer l’obstacle : Manque de compréhension et de 
+sensibilisation générale des biens et services accessibles de la part des 
+responsables opérationnels et des responsables techniques. 
+ 
+Description Responsabilité Échéancie
+r 
+Développer un indicateur dans le processus 
+d’approvisionnement permettant de surveiller 
+l’accessibilité. 
+Directrice 
+adjointe et DPF 
+Janvier 
+2026 
+Préparation d’un tableau de bord sur 
+l’approvisionnement accessible pour les 
+responsables opérationnels. 
+Directrice 
+adjointe et DPF 
+Novembre 
+2026 
+L’approvisionnement poursuivra la formation 
+externe et transférera les connaissances aux 
+clients et aux responsables opérationnels. 
+Directrice 
+adjointe et DPF 
+En cours 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le pourcentage de dossiers d’approvisionnement initiaux qui 
+contiennent des documents d’approvisionnement accessibles 
+complets et exacts soumis par les responsables opérationnels. 
+o Cible : 100% 
+ 
+ 
+5.2 Mesure pour éliminer l’obstacle : Manque de capacité au sein de 
+l’équipe d’approvisionnement pour conseiller les responsables 
+opérationnels. 
+ 
+ 
+Description Responsabilité Échéancier 
+Suivi des inexactitudes en matière d’accessibilité 
+dans les dossiers d’approvisionnement. 
+Directrice 
+adjointe et DPF 
+Janvier 
+2026 
+Formation sur les inexactitudes des dossiers 
+d’approvisionnement liées à l’accessibilité. 
+Directrice 
+adjointe et DPF 
+Novembre 
+2026 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Pourcentage de dossiers d’approvisionnement retournés pour un 
+examen plus approfondi au sein de la fonction 
+d’approvisionnement. 
+o Cible : 0%
+
+Plan sur l’accessibilité de CANAFE 2026-2028  28 |  
+ 
+6. La conception et la prestation de programmes et de services 
+ 
+Contrairement à de nombreux autres ministères et organismes 
+gouvernementaux, CANAFE n’offre pas de services directs aux Canadiens. 
+Toutefois, CANAFE travaille en étroite collaboration avec deux principaux 
+groupes d’intervenants dans le cadre de l’exécution de son mandat de lutte 
+contre le blanchiment d’argent, le financement des activités terroristes et les 
+menaces à la sécurité du Canada, tout en assurant la protection des 
+renseignements personnels dont il détient. Les deux groupes d’intervenants du 
+Centre sont : 
+ 
+1. CANAFE fournit des renseignements financiers aux services de police, 
+aux organismes d’application de la loi et aux organismes de sécurité 
+nationale.  
+2. Réglemente les entreprises canadiennes qui sont tenues de déclarer 
+des opérations financières, comme les banques, les casinos, les 
+sociétés immobilières, les fournisseurs de services monétaires, etc. 
+ 
+Compte tenu de ce contexte, CANAFE s’attaquera à l’obstacle ci-dessous.  
+ 
+6.1 Mesure pour éliminer l’obstacle : CANAFE pourrait ne pas avoir de 
+visibilité sur les préoccupations en matière d’accessibilité de ses 
+intervenants (organisme d’application de la loi et entité déclarante) 
+concernant son site Web externe. 
+ 
+ 
+Description Responsabilité Échéancier 
+Collaborer avec les secteurs opérationnels de 
+CANAFE afin de déterminer les partenaires clés 
+sélectionnés à contacter pour obtenir une 
+rétroaction sur l’accessibilité – c.-à-d. les 
+destinataires des renseignements de CANAFE (par 
+exemple les services de police, le SCRS, l’ARC, 
+etc.) et les associations d’entités déclarantes. 
+Directeur 
+adjoint et DPRH 
+2028 
+ 
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Les activités de sensibilisation auprès des intervenants externes sont 
+menées de façon cyclique. 
+o Cible : À chaque cycle de planification.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  29 |  
+ 
+7. Les transports 
+ 
+En l’absence de responsabilités en matière de transport, telles que la gestion 
+du parc automobile, l’influence de CANAFE consiste davantage à travailler 
+avec Services publics et Approvisionnement Canada (SPAC) et ses services 
+externes de gestion immobilière afin d’éliminer les obstacles au transport 
+pour les personnes handicapées qui sont des employés occupant des 
+emplacements de CANAFE. 
+ 
+7.1 Mesure pour éliminer l’obstacle : Le stationnement public dans les 
+locaux de CANAFE peut ne pas répondre aux attentes en matière 
+d’accessibilité. 
+ 
+Description Responsabilité Échéancier 
+Consulter SPAC sur les exigences en matière de 
+stationnement accessible et tirer parti de ces 
+commentaires pour solliciter des changements 
+dans la mesure du possible. 
+Directeur 
+adjoint et DPRH 
+2028 
+  
+Comment CANAFE mesurera-t-il le succès : 
+ 
+ Le pourcentage d’emplacements de CANAFE où le stationnement 
+public répond aux attentes en matière d’accessibilité. 
+o Cible : 100%
+
+Plan sur l’accessibilité de CANAFE 2026-2028  30 |  
+ 
+Gestion du programme d’accessibilité 
+ 
+Gouvernance 
+ 
+Le Réseau des employés pour les personnes handicapées (REPH) 
+ 
+La REPH joue un rôle clé en aidant notre organisation à cerner les obstacles 
+à l’accessibilité, les mesures que nous pouvons prendre pour les éliminer et 
+à valider les domaines dans lesquels nous sommes peut-être déjà sur la 
+bonne voie pour réaliser des progrès continus. Les précieux commentaires 
+issus de ce REPH serviront de base au plan d’accessibilité pluriannuel de 
+CANAFE, renouvelable tous les trois ans. 
+ 
+En plus d’être consulté au fur et à mesure de l’élaboration du plan, le REPH 
+fera partie du processus de surveillance et d’établissement de rapports pour 
+suivre les progrès des mesures contenues dans le plan sur l’accessibilité afin 
+de s’assurer que les objectifs visés sont atteints. 
+ 
+Pour le cycle de planification à venir, des points de contact trimestriels 
+seront établis avec le REPH afin d’engager un dialogue ouvert sur tout 
+obstacle nouveau, existant ou en voie de matérialisation, que le Centre 
+devrait éliminer pour atteindre sa culture sans obstacle ciblée au Centre. À 
+long terme, on s’attend à ce que la fréquence des points de contact soit 
+ajustée en fonction des besoins, mais elle ne sera jamais inférieure à deux 
+réunions par année, soit au milieu et à la fin de l’année. 
+ 
+Équité en matière d’emploi, diversité et inclusion (EEDI) 
+ 
+Les co-champions et le groupe de travail sur l’EEDI sont en place pour aider 
+le Comité exécutif (COEX) à assurer le leadership dans ce domaine. Le 
+groupe de travail se consacre à la sensibilisation des employés, à 
+l’élaboration conjointe d’initiatives, à la modernisation des programmes et 
+des politiques actuels et à la refonte des normes organisationnelles, en 
+collaboration avec les co-champions de l’EEDI qui sont tous deux membres 
+du cadre exécutif, l’un d’eux étant un membre de direction du COEX. 
+ 
+Pour soutenir la gestion continue de cet important dossier de l’accessibilité, 
+l’accessibilité est un point régulier à l’ordre du jour du groupe de travail très 
+fonctionnel et actif sur l’EEDI du Centre, avec des membres qui font le pont 
+entre le groupe de travail sur l’EEDI et la communauté de la REPH. Cela 
+permettra d’assurer une harmonisation continue et transparente avec les 
+autres initiatives d’EEDI et de tirer parti du pouvoir de ce groupe de travail 
+pour faire progresser les nombreuses parties du plan d’accessibilité.
+
+Plan sur l’accessibilité de CANAFE 2026-2028  31 |  
+ 
+ 
+ 
+Comité consultatif de gestion (CCG) 
+ 
+Le CCG est un comité de la haute direction, qui aide le Comité exécutif à 
+remplir son mandat en lui fournissant des conseils stratégiques et des 
+recommandations sur les enjeux, les risques et les possibilités pour la saine 
+gestion des programmes, des politiques, des processus et des systèmes qui 
+soutiennent les activités opérationnelles de CANAFE, ainsi que sur les 
+investissements clés, les priorités et les initiatives d’élaboration de politiques 
+visant à faire progresser le programme de changement de CANAFE. 
+ 
+Le CCG recevra des mises à jour régulières sur l’état d’avancement du plan 
+sur l’accessibilité et sera appelé à soutenir et à éliminer tout obstacle qui 
+pourrait survenir lors de la mise en œuvre du plan. Au minimum, les conseils 
+et recommandations stratégiques du CCG seront sollicités sur le contenu du 
+plan d’accessibilité et de ses rapports d’étape annuels. 
+ 
+Comité exécutif (COEX)  
+ 
+Le Comité exécutif est le comité de plus haut niveau de CANAFE. Il fournit 
+une vision et une orientation stratégiques, établit les priorités stratégiques, 
+assure la surveillance et l’orientation des programmes et des activités 
+horizontales, et veille à ce que les conditions essentielles – cohérence 
+interne, discipline organisationnelle et responsabilités – soient en place pour 
+obtenir des résultats efficaces. Il est l’organe d’approbation du plan 
+d’accessibilité et des rapports d’étape annuels.

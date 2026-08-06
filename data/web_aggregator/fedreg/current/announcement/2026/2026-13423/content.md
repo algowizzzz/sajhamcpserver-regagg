@@ -1,0 +1,5 @@
+# Request for Comment on Novel ETFs
+
+The Securities and Exchange Commission (the "Commission" or the "SEC") requests public comment on exchange-traded funds ("ETFs") seeking to invest in innovative asset classes or engage in novel investment strategies. We seek comment on ways to facilitate innovation in the ETF space while protecting investors, maintaining fair, orderly, and efficient markets, and facilitating capital formation.
+
+> Full text pending: source page is bot-gated; this is the official API abstract.

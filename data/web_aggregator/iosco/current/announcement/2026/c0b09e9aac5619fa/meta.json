@@ -1,0 +1,26 @@
+{
+  "doc_id": "c0b09e9aac5619fa",
+  "regulator_id": "iosco",
+  "doc_type": "announcement",
+  "title": "IOSCO",
+  "language": "en",
+  "source_url": "https://www.iosco.org/v2/investor_protection/?subsection=what_to_do_when_suspecting_a_scam",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:33b749db3b8f75440a1f44e916ec3422fdcb193f0650c3eb2cfc599b9df86013",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_iosco_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/iosco/current/announcement/2026/c0b09e9aac5619fa",
+  "tags": [
+    "international",
+    "securities"
+  ],
+  "final_url": "https://www.iosco.org/v2/investor_protection/?subsection=what_to_do_when_suspecting_a_scam",
+  "fetch_method": "html_to_md"
+}

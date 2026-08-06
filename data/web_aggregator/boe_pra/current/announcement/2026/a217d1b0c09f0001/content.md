@@ -1,0 +1,313 @@
+# Market Participants Survey results - June 2026
+
+Expectations for monetary policy from experts in UK rates markets.
+
+* ## Related links Related links
+
+  + [Market Intelligence Charter](/markets/market-intelligence/market-intelligence-charter)
+  + [A review of Market Intelligence at the Bank of England](/markets/market-intelligence/a-review-of-market-intelligence-at-the-bank-of-england)
+  + [Market intelligence privacy notice](/markets/market-intelligence/market-intelligence-privacy-notice)
+
+Published on
+19 June 2026
+
+## Overview
+
+This survey forms part of the Bank’s quantitative market intelligence gathering. It is formulated by Bank of England staff, and enhances policymakers’ understanding of market expectations. The questions involve topics that are widely discussed in the public domain, and never presume any particular policy action. Monetary Policy Committee (MPC) members are not involved in the survey’s design.
+
+Survey respondents originate from a broad set of market participant firms, selected by the Bank based on a number of criteria, including: (i) relevant market activity in UK rates or money markets; (ii) expertise in UK rates markets and/or UK monetary policy; (iii) willingness to participate regularly in the survey and in the Bank’s market intelligence activity; and (iv) membership of one of the Bank’s external market committees.  
+  
+Please contact [MarketParticipantsSurvey@bankofengland.co.uk](mailto:MarketParticipantsSurvey@bankofengland.co.uk) for queries or for further information.
+
+## Survey results
+
+The survey was open from 3–5 June 2026 with responses being received from 88 market participants. For most questions, median responses across participants, along with the 25th and 75th percentiles, are reported.[footnote [1]](#footnote-1) For questions that ask respondents to weight different factors or assign probabilities to specific outcomes, the mean weightings or probabilities are reported. For questions that ask respondents to select one option from a given set of possibilities, the respondent count against each option is reported.
+
+### Question 1: Expectations for Bank Rate
+
+1a) Please provide your most likely (ie modal) expectation for Bank Rate after the following MPC meetings? ([a](#table1aa))
+
+|  | 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- | --- |
+| 18 June 2026 MPC | 3.75 | 3.75 | 3.75 | 87 |
+| 30 July 2026 MPC | 3.75 | 3.75 | 3.75 | 86 |
+| 17 September 2026 MPC | 3.75 | 3.75 | 4.00 | 86 |
+| 5 November 2026 MPC | 3.75 | 3.75 | 4.00 | 86 |
+| 17 December 2026 MPC | 3.75 | 3.75 | 4.00 | 86 |
+| 4 February 2027 MPC | 3.75 | 3.75 | 4.00 | 86 |
+| 18 March 2027 MPC | 3.50 | 3.75 | 4.00 | 86 |
+| 29 April 2027 MPC | 3.50 | 3.75 | 4.00 | 86 |
+| One year ahead (June 2027 MPC) | 3.50 | 3.63 | 4.00 | 86 |
+| End-2027 Q3 | 3.25 | 3.50 | 3.75 | 86 |
+| End-2027 Q4 | 3.06 | 3.25 | 3.75 | 86 |
+| End-2028 Q1 | 3.00 | 3.25 | 3.50 | 83 |
+| Two years ahead (June 2028) | 3.00 | 3.25 | 3.50 | 82 |
+| Three years ahead (June 2029) | 3.00 | 3.25 | 3.50 | 82 |
+| Five years ahead (June 2031) | 3.00 | 3.25 | 3.50 | 80 |
+
+#### Footnotes
+
+* (a) Numbers in the above table are rounded to two decimal places.
+
+1b) And where do you see the level of Bank Rate at which monetary policy is neither expansionary nor contractionary (often referred to as the neutral, natural or equilibrium rate)?
+
+| 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- |
+| 3.00 | 3.25 | 3.50 | 86 |
+
+1ci) Please indicate the percentage probability that you attach to Bank Rate being at the following levels after the 18 June 2026 meeting. ([a](#table1cia))
+
+|  | Mean probability (%) |
+| --- | --- |
+| 3.50% | 0.5 |
+| 3.75% | 88.1 |
+| 4.00% | 11.4 |
+| 4.25% | 0.1 |
+
+#### Footnotes
+
+* (a) In the question provided to respondents, the different Bank Rate outcomes spanned <2.50% and >5.00% at the extremes, and all 25 basis point increments in between. Results have been truncated where the mean probabilities above or below a certain outcome were at zero. Mean probabilities are rounded to one decimal place. 86 respondents answered this question.
+
+1cii) Please indicate the percentage probability that you attach to Bank Rate being at the following levels after the 30 July 2026 meeting. ([a](#table1ciia))
+
+|  | Mean probability (%) |
+| --- | --- |
+| 3.50% | 1.1 |
+| 3.75% | 63.8 |
+| 4.00% | 32.7 |
+| 4.25% | 2.2 |
+| 4.50% | 0.1 |
+
+#### Footnotes
+
+* (a) In the question provided to respondents, the different Bank Rate outcomes spanned <2.50% and >5.00% at the extremes, and all 25 basis point increments in between. Results have been truncated where the mean probabilities above or below a certain outcome were at zero. Mean probabilities are rounded to one decimal place. 87 respondents answered this question.
+
+1ciii) Please indicate the percentage probability that you attach to Bank Rate being at the following levels after the 17 December 2026 meeting. ([a](#table1ciiia))
+
+|  | Mean probability (%) |
+| --- | --- |
+| <3.25% | 0.5 |
+| 3.25% | 1.8 |
+| 3.50% | 7.0 |
+| 3.75% | 38.3 |
+| 4.00% | 30.8 |
+| 4.25% | 17.1 |
+| 4.50% | 3.7 |
+| >4.50% | 0.9 |
+
+#### Footnotes
+
+* (a) In the question provided to respondents, the different Bank Rate outcomes spanned <2.50% and >5.00% at the extremes, and all 25 basis point increments in between. Results have been aggregated where the mean probabilities above or below a certain outcome were close to zero. Mean probabilities are rounded to one decimal place. 86 respondents answered this question.
+
+1d) Please weight the following factors in terms of their importance in informing your expectations for the near-term path of Bank Rate. ([a](#table1da))
+
+|  | Mean weighting (%) |
+| --- | --- |
+| Energy and related commodity price developments | 30.3 |
+| Realised inflation outcomes (excluding energy) | 17.6 |
+| Domestic activity and labour market conditions | 17.5 |
+| Forward-looking indicators of inflation and price expectations | 16.7 |
+| The MPC’s communications | 16.5 |
+| Other | 1.5 |
+
+#### Footnotes
+
+* (a) Mean weightings are rounded to one decimal place. 88 respondents answered this question.
+
+1e) The April MPR set out three scenarios for the UK economy based on the path of energy prices and the extent of second-round effects in UK price and wage-setting.  
+   
+In Scenario A, energy prices were assumed to follow market futures curves and there were no second-round effects from the latest energy shock.  
+   
+In Scenarios B and C, energy prices were assumed to be higher for a longer period than the paths implied by futures, with Scenario C featuring a sharp initial increase. Second-round effects were incorporated in Scenarios B and C, and materially so in Scenario C.  
+   
+If it were known with certainty that events would unfold as in Scenarios A, B or C, what level of Bank Rate would you consider most likely at end-2026?
+
+|  | 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- | --- |
+| Scenario A | 3.50 | 3.75 | 3.75 | 87 |
+| Scenario B | 3.75 | 4.00 | 4.00 | 87 |
+| Scenario C | 4.25 | 4.50 | 4.75 | 87 |
+
+1f) It was noted in the April MPC minutes that the ‘median expectation in the April Market Participants Survey was for Bank Rate to be maintained at its current level this year. By contrast the market-implied path for Bank Rate was upward-sloping, suggesting some increase in Bank Rate this year’.  
+  
+How would you explain the gap between the April MaPS median (most likely) Bank Rate profile and the current market-implied path. Please weight each factor accordingly. ([a](#table1fa))
+
+|  | Mean weighting (%) |
+| --- | --- |
+| Changes in ‘most likely’ Bank Rate expectations | 22.4 |
+| Asymmetric risks to the outlook | 32.3 |
+| Risk premia (eg, compensation for uncertainty) | 24.1 |
+| Market technical and positioning effects | 18.3 |
+| Other | 2.9 |
+
+#### Footnotes
+
+* (a) Mean weightings are rounded to one decimal place. 87 respondents answered this question.
+
+1g) The April MPR highlighted uncertainty stemming from the Middle East conflict and resulting energy shock.  
+   
+How do the following factors contribute to your own uncertainty around the future path for Bank Rate? Please weight each factor accordingly. ([a](#table1ga))
+
+|  | Mean weighting (%) |
+| --- | --- |
+| Uncertainty around the future paths of global oil and gas prices | 39.3 |
+| Uncertainty around the strength of any second-round effects in domestic price and wage-setting | 28.1 |
+| Uncertainty around the domestic demand outlook | 15.4 |
+| Uncertainty around the MPC’s reaction function | 17.0 |
+| Other | 0.1 |
+
+#### Footnotes
+
+* (a) Mean weightings are rounded to one decimal place. 87 respondents answered this question.
+
+### Question 2: Macroeconomic outlook
+
+2a) Please provide your most likely (ie modal) expectation for the annual rate of CPI inflation – conditioned on your Bank Rate expectations (question 1a) – at each of the following time horizons. ([a](#table2aa))
+
+|  | 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- | --- |
+| End-2026 Q2 | 2.9 | 3.0 | 3.2 | 82 |
+| End-2026 Q3 | 3.3 | 3.5 | 3.6 | 82 |
+| End-2026 Q4 | 3.3 | 3.5 | 3.7 | 82 |
+| End-2027 Q1 | 3.0 | 3.2 | 3.5 | 82 |
+| One year ahead | 2.5 | 2.9 | 3.1 | 82 |
+| Two years ahead | 2.0 | 2.2 | 2.5 | 82 |
+| Three years ahead | 2.0 | 2.0 | 2.4 | 81 |
+| Five years ahead | 2.0 | 2.0 | 2.3 | 79 |
+
+#### Footnotes
+
+* (a) Numbers in the above table are rounded to one decimal place.
+
+2bi) Please assign percentage probabilities to the following rates of annual CPI inflation three years ahead. ([a](#table2bia))
+
+|  | Mean probability (%) |
+| --- | --- |
+| <=1.00% | 2.8 |
+| 1.01%–1.40% | 3.1 |
+| 1.41%–1.80% | 10.3 |
+| 1.81%–2.20% | 36.1 |
+| 2.21%–2.60% | 26.8 |
+| 2.61%–3.00% | 13.9 |
+| >3.00% | 6.9 |
+
+#### Footnotes
+
+* (a) Numbers in the above table are rounded to one decimal place. 79 respondents answered this question.
+
+2bii) Please assign percentage probabilities to the following rates of annual CPI inflation on average from 5 years ahead to 10 years ahead (ie analogous to the five-year, five-year forward rate). ([a](#table2biia))
+
+|  | Mean probability (%) |
+| --- | --- |
+| <=1.00% | 1.5 |
+| 1.01%–1.40% | 2.7 |
+| 1.41%–1.80% | 9.4 |
+| 1.81%–2.20% | 41.2 |
+| 2.21%–2.60% | 26.5 |
+| 2.61%–3.00% | 11.9 |
+| >3.00% | 6.8 |
+
+#### Footnotes
+
+* (a) Numbers in the above table are rounded to one decimal place. 76 respondents answered this question.
+
+2c) Please provide your most likely (ie modal) expectation for the annual rate of UK GDP growth – conditioned on your Bank Rate expectations (question 1a) – at each of the following time horizons.
+
+|  | 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- | --- |
+| 2026 GDP growth | 0.70 | 0.90 | 1.10 | 79 |
+| 2027 GDP growth | 0.90 | 1.00 | 1.20 | 79 |
+| 2028 GDP growth | 1.20 | 1.40 | 1.50 | 74 |
+| Long run (potential) | 1.25 | 1.40 | 1.50 | 77 |
+
+2d) When forming your expectations for Bank Rate and CPI inflation (questions 1a and 2a), what level of Brent crude oil is most consistent with your underlying assumption at the time horizons specified? ($ per barrel)
+
+|  | 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- | --- |
+| 3 months ahead | 87 | 90 | 96 | 81 |
+| 12 months ahead | 70 | 80 | 83 | 81 |
+
+### Question 3: Expectations for balance sheet and gilt yields
+
+3a) Please provide the annual reduction in the stock of gilts held in the Asset Purchase Facility, comprising both maturing gilts and gilt sales in initial purchase proceeds terms, that you see as most likely over the following annual review cycles (£ billions).
+
+|  | 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- | --- |
+| October 2026–September 2027 | 41 | 50 | 60 | 75 |
+| October 2027–September 2028 | 28 | 40 | 50 | 75 |
+| October 2028–September 2029 | 34 | 35 | 50 | 74 |
+| October 2029–September 2030 | 26 | 27 | 50 | 74 |
+
+3b) Please provide your most likely (ie modal) expectation for the 10-year gilt yield at the following points in the future. ([a](#table3ba))
+
+|  | 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- | --- |
+| End-December 2026 | 4.60 | 4.75 | 4.91 | 79 |
+| End-June 2027 | 4.26 | 4.50 | 4.75 | 78 |
+| End-December 2027 | 4.00 | 4.35 | 4.50 | 77 |
+
+#### Footnotes
+
+* (a) Numbers in the above table are rounded to two decimal places.
+
+### Question 4: Expectations for exchange rates
+
+4a) Please provide your most likely (ie modal) expectation for the level of GBPUSD one year ahead.
+
+| 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- |
+| 1.3000 | 1.3350 | 1.3638 | 70 |
+
+4b) Please provide your most likely (ie modal) expectation for the level of EURGBP one year ahead.
+
+| 25th percentile | 50th percentile | 75th percentile | Number of responses |
+| --- | --- | --- | --- |
+| 0.8600 | 0.8700 | 0.8800 | 70 |
+
+1. Throughout, the Xth percentile is calculated by ranking the survey responses in ascending order and reporting the response which is ranked in position k where k is (X/100)\*(sample size -1) +1. For numeric answers, where k is not an integer (ie this position lies between two responses), the result is interpolated by applying the percentile proportional to the distance between them. Discontinuous answers, such as policy meeting dates, are not interpolated. Instead, the first response which covers at least X% of the sample is reported.
+
+Throughout, the Xth percentile is calculated by ranking the survey responses in ascending order and reporting the response which is ranked in position k where k is (X/100)\*(sample size -1) +1. For numeric answers, where k is not an integer (ie this position lies between two responses), the result is interpolated by applying the percentile proportional to the distance between them. Discontinuous answers, such as policy meeting dates, are not interpolated. Instead, the first response which covers at least X% of the sample is reported.
+
+Close
+
+## Related documents
+
+* [Market Participants Survey results – June 2026 (XLSX 0.1MB)](/-/media/boe/files/markets/market-intelligence/survey/2026/market-participants-survey-results-june-2026.xlsx)
+
+## Other Market Participants Surveys
+
+[Publication // Market Participants Survey
+
+31 July 2026
+
+### Market Participants Survey results - July...
+
+### Market Participants Survey results - July 2026](/markets/market-intelligence/survey-results/2026/market-participants-survey-results-july-2026)
+
+[Publication // Market Participants Survey
+
+01 May 2026
+
+### Market Participants Survey results - April...
+
+### Market Participants Survey results - April 2026](/markets/market-intelligence/survey-results/2026/market-participants-survey-results-april-2026)
+
+[Publication // Market Participants Survey
+
+20 March 2026
+
+### Market Participants Survey results - March...
+
+### Market Participants Survey results - March 2026](/markets/market-intelligence/survey-results/2026/market-participants-survey-results-march-2026)
+
+[Publication // Market Participants Survey
+
+06 February 2026
+
+### Market Participants Survey results - February...
+
+### Market Participants Survey results - February 2026](/markets/market-intelligence/survey-results/2026/market-participants-survey-results-february-2026)
+
+[View more Other Market Participants Surveys](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&Taxonomies=7759a9a631ec488289fdc138151ffea3&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

@@ -1,0 +1,25 @@
+{
+  "doc_id": "912d4ab8f243512d",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Une ann\u00e9e en revue : Le point sur le Cadre de r\u00e9glementation des soci\u00e9t\u00e9s d\u2019assurance-vie, 2013 | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/surveillance/institutions-financieres/annee-en-revue-point-sur-cadre-reglementation-societes-dassurance-vie-2013",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:50202a8df8a141e037f03c7cc0034a206203d7899aa9d414903543c59d0da422",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/912d4ab8f243512d",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

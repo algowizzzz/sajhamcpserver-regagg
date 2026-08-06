@@ -1,0 +1,7 @@
+# Global industrial production sentiment splits as Canada, India and South Korea strengthen while UK, Germany and China weaken, Permutable data shows
+
+<link type="text/css" rel="stylesheet" href="https://www.globenewswire.com/styles/gnw_nitf.css" />London, LONDON, Aug.  05, 2026  (GLOBE NEWSWIRE) -- Global industrial production sentiment is becoming increasingly divided, with resources, metals, electricity supply and investment-related activity strengthening while automotive manufacturing and...
+
+[Read the full story at the source](https://markets.businessinsider.com/news/stocks/global-industrial-production-sentiment-splits-as-canada-india-and-south-korea-strengthen-while-uk-germany-and-china-weaken-permutable-data-shows-1036414298)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

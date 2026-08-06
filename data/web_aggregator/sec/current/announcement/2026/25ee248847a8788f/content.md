@@ -1,0 +1,8997 @@
+Conformed to Federal Register version 
+SECURITIES AND EXCHANGE COMMISSION 
+17 CFR Parts 240 and 242 
+[Release No. 34-105655; File No. S7-2026-20] 
+RIN 3235-AN50 
+The Trade-Through Rule and Locked and Crossed Markets Provisions of Regulation NMS 
+AGENCY: Securities and Exchange Commission. 
+ACTION: Proposed rule. 
+SUMMARY: The Securities and Exchange Commission (“Commission” or “SEC”) is proposing 
+amendments to Regulation NMS (“Regulation NMS”) under the Securities Exchange Act of 
+1934 (“Exchange Act”). The proposed amendments would rescind the trade-through rule for 
+NMS stocks, the provision regarding locking and crossing quotations for NMS stocks, and 
+certain defined terms. The proposed amendments would also make conforming changes to other 
+related provisions. 
+DATES: Comments should be received on or before August 17, 2026.  
+ADDRESSES: Comments may be submitted by any of the following methods:  
+Electronic comments:  
+• Use the Commission’s internet comment form (https://www.sec.gov/comments/s7-
+2026-20/amendments-regulation-nms); or  
+• Send an email to rule-comments@sec.gov. Please include File Number S7-2026-20 
+on the subject line. 
+Paper comments:  
+• Send paper comments to Secretary, Securities and Exchange Commission, 100 F 
+Street NE, Washington, DC 20549-1090.
+
+2 
+ 
+All submissions should refer to File Number S7-2026-20. This file number should be 
+included on the subject line if email is used. To help the Commission process and review your 
+comments more efficiently, please use only one method of submission. The Commission will 
+post all comments on the Commission’s website (https://www.sec.gov/rules-regulations/public-
+comments/s7-2026-20). Do not include personal identifiable information in submissions; you 
+should submit only information that you wish to make available publicly. We may redact in part 
+or withhold entirely from publication submitted material that is obscene or subject to copyright 
+protection. 
+Studies, memoranda, or other substantive items may be added by the Commission or staff 
+to the comment file during this rulemaking. A notification of the inclusion in the comment file of 
+any materials will be made available on our website. To ensure direct electronic receipt of such 
+notifications, sign up through the “Stay Connected” option at www.sec.gov to receive 
+notifications by email. 
+A summary of the proposal of not more than 100 words is posted on the Commission’s 
+website (https://www.sec.gov/rules-regulations/2026/06/s7-2026-20).  
+FOR FURTHER INFORMATION CONTACT: Theodore S. Venuti, Assistant Director; 
+Kevin Brennan, Special Counsel; Sarah Counts, Special Counsel; Jennifer Dodd, Special 
+Counsel; David Liu, Special Counsel; Gita Subramaniam, Special Counsel, at (202) 551-5500, 
+Office of Market Supervision, Division of Trading and Markets, U.S. Securities and Exchange 
+Commission, 100 F Street NE, Washington, DC 20549.
+
+3 
+ 
+SUPPLEMENTARY INFORMATION: The Commission is proposing amendments for public 
+comment to the following rules. 
+Commission Reference CFR Citation 
+(17 CFR) 
+Exchange Act Rule 15c3-5 § 240.15c3-5 
+ Rule 15b9-1 § 240.15b9-1 
+Regulation NMS Rule 600 § 242.600 
+ Rule 610 § 242.610 
+ Rule 611 § 242.611 
+ 
+Table of Contents 
+I. Introduction ......................................................................................................................... 4 
+A. Overview of Proposal ......................................................................................................... 4 
+B. Background ......................................................................................................................... 5 
+II. Rule 611 ............................................................................................................................ 21 
+A. Description of Rule 611 .................................................................................................... 22 
+1. Intermarket Price Protection ............................................................................................. 22 
+2. Exceptions under Rule 611(b) .......................................................................................... 25 
+B. Proposed Rescission of Rule 611 ...................................................................................... 27 
+1. Allowing Market Forces to Shape Equity Market Structure ............................................ 29 
+2. Addressing the Adverse Consequences of Rule 611 ........................................................ 31 
+3. Rule 611 is Unnecessary ................................................................................................... 37 
+C. Request for Comment ....................................................................................................... 44 
+III. Rule 610(e)........................................................................................................................ 46 
+A. Description of Rule 610(e)................................................................................................ 47 
+B. Proposed Rescission of Rule 610(e) ................................................................................. 49 
+1. Evolution of Market Structure and Investor Sophistication ............................................. 50 
+2. Potential for Improved Price Discovery and Competition ................................................ 53 
+3. Reduction in Complexity and Compliance Costs ............................................................. 56 
+4. Crossed Markets................................................................................................................ 59 
+C. Request for Comment ....................................................................................................... 63 
+I V. Conforming Amendments to Regulation NMS Definitions and Related Rules ............... 66 
+A. Description ........................................................................................................................ 66 
+B. Proposed Rescissions and Amendments to Related Rules ............................................... 66 
+1. Proposed Rescission of Related Defined Terms in Rule 600(b) of Regulation NMS ...... 66 
+2. Proposed Conforming Amendments to Other Rules in Regulation NMS ........................ 69 
+3. Proposed Conforming Amendments to Rules Outside of Regulation NMS..................... 71 
+C. Request for Comment ....................................................................................................... 73 
+V. Paperwork Reduction Act ................................................................................................. 74 
+A. Rescission of Rule 611...................................................................................................... 74 
+B. Request for Comment ....................................................................................................... 75 
+VI. Economic Analysis............................................................................................................ 76 
+A. Introduction ....................................................................................................................... 76
+
+4 
+ 
+B. Economic Baseline............................................................................................................ 78 
+1. Regulatory Baseline .......................................................................................................... 78 
+2. Economic Effects of Current Rule 611 ........................................................................... 102 
+3. Economic Effects of Current Rule 610(e) ...................................................................... 116 
+4. Current Exchange Competition, Revenue, Market Data, and Connectivity Services .... 120 
+5. Competition in the Market for Trading Services and Broker Execution Services ......... 150 
+C. Benefits and Costs........................................................................................................... 158 
+1. Rescinding Rule 611 ....................................................................................................... 158 
+2. Rescinding Rule 610(e)................................................................................................... 203 
+3. Combined Economic Effects .......................................................................................... 217 
+4. Monetized Benefits and Costs ........................................................................................ 232 
+D. Effect on Efficiency, Competition, and Capital Formation ............................................ 240 
+1. Efficiency ........................................................................................................................ 240 
+2. Competition..................................................................................................................... 241 
+3. Capital Formation ........................................................................................................... 245 
+E. Reasonable Alternatives.................................................................................................. 246 
+1. Venue Trading Volume Threshold for Protected Quotes ............................................... 246 
+2. Large Trade Exception from Rule 611 ........................................................................... 249 
+3. Only Rescind Locked Market Prohibition, Keep Prohibition on Crossed Markets. ....... 249 
+F. Request for Comment ..................................................................................................... 250 
+VII. Regulatory Flexibility Act Certification ......................................................................... 257 
+VIII. Congressional Review Act .............................................................................................. 263 
+IX. Other Matters .................................................................................................................. 263 
+Statutory Authority...................................................................................................................... 264 
+ 
+I. Introduction 
+A. Overview of Proposal 
+Rule 611 of Regulation NMS was adopted in 2005 and established intermarket protection 
+against trade-throughs for all national market system stocks. A trade-through occurs when one 
+trading center executes an order at a price that is inferior to the price of a protected quotation 
+displayed by another trading center. Rule 610(e) was also adopted in 2005 under Regulation 
+NMS and contains restrictions on locking and crossing quotations in national market system 
+stocks. A locked market occurs when the best bid price equals the best offer price, and a crossed 
+market occurs when the best bid price is higher than the best offer price.  
+Since the adoption of these rules, the structure of the U.S. equity markets has evolved 
+dramatically, and today’s markets are highly automated, interconnected, fast, and competitive.
+
+5 
+ 
+While a goal of Rule 611 was to incentivize displayed liquidity, since its adoption the percentage 
+of orders interacting with non-displayed liquidity on- and off-exchange has consistently 
+increased. In addition, since the adoption of Rules 611 and 610(e), U.S. equity markets have 
+become increasingly fragmented and complex.   
+The Commission is proposing to rescind Rules 611 and 610(e) under Regulation NMS. 
+Rules 611 and 610(e) have led to a myriad of consequences in today’s trading environment, 
+including increased costs and market structure complexity, limiting order handling and execution 
+choice, and contributing to exchange proliferation and fragmentation of trading on equity 
+exchanges. Moreover, technologies, particularly with respect to access and order handling and 
+routing, have advanced significantly and obviate any continued need for Rule 611, which was 
+adopted at a time when exchanges and market participants were not as well connected and many 
+linkages that did exist were relatively slow. Also, given this highly automated and interconnected 
+nature of our equity markets today, Rule 611 is not needed to backstop a broker’s duty of best 
+execution to seek the most favorable terms for customer orders reasonably available under the 
+circumstances. Similarly, such increases in automation and interconnectivity, as well as increases 
+in market participant access to market data, obviate the need for Rule 610(e). Rescinding Rules 
+611 and 610(e) would reduce compliance costs and benefit U.S. equity markets by eliminating 
+regulations to allow competition, innovation, and other market forces to shape the U.S. equity 
+market’s continued evolution. 
+B. Background 
+Congress, through section 11A of the Exchange Act (“section 11A”),1 charged the 
+Commission in 1975 with facilitating the establishment of a national market system, and 
+ 
+1  15 U.S.C. 78k-1.
+
+6 
+ 
+identified five key components for such a system to function properly: (1) economically efficient 
+execution of securities transactions; (2) fair competition among broker-dealers, among exchange 
+markets, and between exchange markets and non-exchange markets; (3) price transparency; 
+(4) best execution of investor orders; and (5) an opportunity, consistent with economic efficiency 
+and best execution, for investor orders to meet without the participation of a dealer.2 Following 
+the adoption of section 11A, over the next three decades the Commission sought to facilitate the 
+development of the national market system for NMS securities3 by adopting rules, and working 
+with various self-regulatory organizations (“SROs”) to adopt rules and establish national market 
+system plans (“NMS Plans”), relating to, among other things, linkages between markets; the 
+collection, consolidation, and dissemination of quotation and transaction information; the display 
+of quotations; and intermarket price protection.4 
+The years leading up to 2005 were a time of considerable transformation for the 
+secondary markets for U.S. listed equities. In particular, “the equity markets [had] experienced 
+sweeping changes, ranging from new technologies to new types of markets to the initiation of 
+trading in penny increments”5 and a majority of the Commission at that time believed there was 
+an “inescapable” and “pressing” need to modernize the national market system.6 Significant 
+ 
+2  Exchange Act section 11A(a)(1)(C)(i) through (v); 15 U.S.C. 78k-1(a)(1)(C)(i) through (v). 
+3  Rule 600(b)(64) of Regulation NMS defines “NMS security” to include “any security or class of securities 
+for which transaction reports are collected, processed, and made available pursuant to an effective 
+transaction reporting plan, or an effective national market system plan for reporting transactions  in listed 
+options.” See 17 CFR 242.600(b)(64). In other words, NMS securities include NMS stocks and listed 
+options. 
+4  See Securities Exchange Act Release No. 49325 (Feb. 26, 2004), 69 FR 11126 (Mar. 9, 2004) (“NMS 
+Proposing Release”) at 11130-31. See also infra note 13. 
+5  See Securities Exchange Act Release No. 51808 (June 9, 2005), 70 FR 37496 (June 29, 2005) (“NMS 
+Adopting Release”) at 37497. 
+6  Id. at 37497. But see Dissent of Commissioners Cynthia A. Glassman and Paul S. Atkins to the Adoption of 
+Regulation NMS, id. at 37639-43 (“Joint NMS Dissent”).
+
+7 
+ 
+increases in the usage of electronic trading systems resulted in more transparent order handling 
+and routing practices; at the same time, intensifying competition drove commissions lower and 
+penny pricing reshaped the mechanics of trading.7 After the “culmination of a long and 
+comprehensive rulemaking process,”8 and while acknowledging the wide range of different 
+opinions on many contentious issues,9 the Commission adopted Regulation NMS in 2005, which 
+it described as “a series of initiatives designed to modernize and strengthen the national market 
+system” for NMS securities.
+10 
+In adopting Regulation NMS, the Commission stated that it sought to promote certain 
+principles and objectives for the national market system, namely: (1) competition among markets 
+and competition among orders; and (2) serving the interests of long-term investors and listed 
+companies.11 At the same time, the Commission acknowledged that its primary challenge in 
+facilitating the establishment of a national market system was to maintain an appropriate 
+competitive balance, stating that it particularly sought to avoid the two extremes of “[i]solated 
+markets that trade an NMS stock without regard to trading in other markets and thereby fragment 
+the competition among buyers and sellers in that stock” and “a totally centralized system that 
+loses the benefits of vigorous competition and innovation among individual markets.”
+12 
+ 
+7  See Remarks at the Roundtable on Trade-Through Prohibitions by Paul S. Atkins, Chairman, Commission 
+(Sept. 18, 2025), available at https://www.sec.gov/newsroom/speeches-statements/atkins-091825-remarks-
+roundtable-trade-through-prohibitions (“Chairman Remarks at First TTR Roundtable”). 
+8  NMS Adopting Release at 37498; see also id. at 37497-98 (describing in detail the process the Commission 
+engaged in prior to adopting Regulation NMS in 2005). 
+9  Id. at 37497. 
+10  Id. at 37496. 
+11  Id. at 37498-501. 
+12  Id. at 37499.
+
+8 
+ 
+Under Regulation NMS, the Commission consolidated the then-existing national market 
+system rules previously adopted under section 11A13 and adopted several significant new rules, 
+including Rule 611 (relating to restrictions on trade-throughs), Rule 610 (relating to access to 
+quotations and restrictions on locking and crossing quotations), Rule 612 (relating to minimum 
+increments for orders and quotations), and Rule 603 (relating to the distribution, consolidation, 
+and display of market data).
+14 Thus, as originally adopted in 2005, Regulation NMS consisted of 
+twelve rules, along with a definitional rule (Rule 600).15 
+Rule 611 (referred to in the NMS Adopting Release as the “order protection rule,” and 
+referred to herein as the “trade-through rule”) was the core of the rules adopted by the 
+Commission in Regulation NMS and established intermarket protection against trade-throughs16 
+for all NMS stocks. In adopting Rule 611, the Commission emphasized that intermarket price 
+protection was designed to promote national market system objectives by promoting the use of 
+ 
+13  The national market system rules predating Regulation NMS are the requirements relating to: NMS defined 
+terms (Rule 600, previously Exchange Act Rule 11Aa2-1); public dissemination of trade reports (Rule 601, 
+previously Exchange Act Rule 11Aa3-1) and quotations (Rule 602, previously Exchange Act Rule 11Ac1-1 
+and commonly referred to as the “Quote Rule”); distribution, consolidation and display of quotes and 
+transactions in NMS stocks (Rule 603, previously Exchange Act Rule 11Ac1-2 and commonly referred to 
+as the “Vendor Display Rule”); public display of customer limit orders (Rule 604, previously Exchange Act 
+Rule 11Ac1-4 and commonly referred to as the “Limit Order Display Rule”); public disclosure of order 
+execution and routing information (Rules 605, previously Exchange Act Rule 11Ac1-5, and 606, previously 
+Exchange Act Rule 11Ac1-6); customer account statements (Rule 607, previously Exchange Act Rule 
+11Ac1-3); national market system plans (Rule 608, previously Exchange Act Rule 11Aa3-2); and 
+registration of securities information processors (“SIPs”) (Rule 609, previously Exchange Act Rule 11Ab2-
+1). 
+14  See 17 CFR 242.611, 17 CFR 242.610, 17 CFR 242.612, and 17 CFR 242.603, respectively. 
+15  17 CFR 242.600-612. Subsequent to the adoption of Regulation NMS in 2005, the Commission adopted:  
+Rule 613 of Regulation NMS, which required national securities exchanges and national securities 
+associations to submit a national market system plan to create, implement, and maintain a consolidated 
+audit trail with respect to the trading of NMS securities (“CAT”) (Securities Exchange Act Release No. 
+67457 (July 18, 2012), 77 FR 45722 (Aug. 1, 2012) (“CAT Adopting Release”)); and Rule 614, relating to 
+the registration and responsibilities of competing consolidators (Securities Exchange Act Release No. 
+90610 (Dec. 9, 2020), 86 FR 18596 (Apr. 9, 2021) (“Market Data Infrastructure Adopting Release”)). 
+Currently, Regulation NMS consists of fourteen substantive rules. 17 CFR 242.600-614. 
+16  A “trade-through” means “the purchase or sale of an NMS stock during regular trading hours, either as 
+principal or agent, at a price that is lower than a protected bid or higher than a protected offer.” 17 CFR 
+242.600(b)(105).
+
+9 
+ 
+displayed “non-marketable” limit orders (orders with limit prices that are not immediately 
+executable at current quoted prices)17 and minimizing the extent to which investor market orders 
+and marketable limit orders are executed at inferior prices.18  
+Broadly speaking,19 Rule 611 requires “trading centers”20 (which encompass national 
+securities exchanges (“exchanges”),21 alternative trading systems (“ATSs”),22 over-the-counter 
+(“OTC”) market makers, and any other broker-dealer that executes orders internally) to establish, 
+maintain, and enforce written policies and procedures reasonably designed to prevent trade-
+throughs,23 i.e., the execution of an order at a price that is inferior to the price of a “protected 
+ 
+17  Trade-through protection for displayed non-marketable limit orders was designed to encourage the use of 
+such orders by increasing the likelihood of their receiving an execution in a timely manner, as greater use of 
+displayed limit orders was believed to improve the price discovery process and contribute to increased 
+liquidity and depth. NMS Adopting Release at 37505-07. 
+18  Trade-through protection for market and marketable limit orders was designed both to prevent unfairness to 
+investors and to facilitate broker-dealers’ ability to achieve best execution of their customer orders. If a 
+broker-dealer routes an order to a trading venue that cannot execute the order at the best price, the venue 
+cannot simply execute the order at an inferior price. It can either cancel the order back to the broker -dealer 
+or route the order to another venue that will execute the order at the best price or better. See NMS Adopting 
+Release at 37505-07. 
+19  See infra section II.A. for a more detailed discussion of Rule 611’s requirements and exceptions. 
+20  17 CFR 242.600(b)(106) (definition of “trading center”). 
+21  See infra note 22.  
+22  Section 3(a)(1) of the Exchange Act defines an “exchange” as “any organization, association, or group of 
+persons…which constitutes, maintains, or provides a market place or facilities for bringing together 
+purchasers and sellers of securities or for otherwise performing with respect to securities the functions 
+commonly performed by a stock exchange as that term is generally understood…” 15 U.S. C. 78c(a)(1). 
+Exchange Act Rule 3b-16(a) provides a functional test to assess whether a trading system meets the 
+definition of “exchange” under section 3(a)(1) of the Exchange Act. Under Rule 3b-16(a), an organization, 
+association, or group of persons “constitutes, maintains, or provides a market place or facilities for bringing 
+together purchasers and sellers of securities” if it (1) brings together the orders for securities of multiple 
+buyers and sellers; and (2) uses established, non-discretionary methods (whether by providing a trading 
+facility or by setting rules) under which such orders interact with each other, and the buyers and sellers 
+entering such orders agree to the terms of a trade. See 17 CFR 240.3b-16(a). A national securities exchange 
+and ATS each meet the definition of exchange under section 3(a)(1) of the Act and Rule 3b-16(a) 
+thereunder but are subject to different registration requirements. When used herein, “exchange” is used to 
+mean “national securities exchange” unless the context specifies otherwise. 
+23  See supra note 16.
+
+10 
+ 
+quotation.”24 To be “protected,” a quotation must be immediately and automatically accessible 
+up to its full displayed size and must be the best-priced quotation (highest bid to buy and lowest 
+offer to sell) in round-lot sizes25 of an exchange or a national securities association (currently the 
+Financial Industry Regulatory Authority, Inc. (“FINRA”) is the only registered national 
+securities association and it operates the Alternative Display Facility (“ADF”)).26  
+Accordingly, Rule 611 provides for intermarket price priority of an exchange’s or the 
+ADF’s best bid and offer (“BBO”);27 it does not establish time priority among quotations at 
+different trading centers, nor does it protect “depth-of-book” quotations (quotations with prices 
+outside an exchange’s BBO). Rule 611 also provides certain exceptions to its requirements, 
+including an “intermarket sweep order” (“ISO”)28 exception that allows, among other things, a 
+trader simultaneously to sweep multiple price levels outside of a protected quotation, as long as 
+one or more ISOs, as necessary, are routed at the same time to execute against the full displayed 
+size of any protected quotations with better prices.29  
+ 
+24  17 CFR 242.600(b)(82) (definition of “protected quotation”); see also 17 CFR 242.600(b)(81) (definition 
+of “protected bid or protected offer”). 
+25  By its terms, Rule 611 only applies to round lots, as “quotation” is defined in Rule 600(b)(86) as “a bid or 
+offer,” which, in turn, is defined in Rule 600(b)(16) to be the bid price or the offer price communicated by a 
+member of a national securities exchange or member of a national securities association to any broker or 
+dealer, or to any customer, at which it is willing to buy or sell one or more “round lots” of an NMS security, 
+as either principal or agent, but shall not include indications of interest. In 2024, the Commissi on amended 
+the definition of “round lot” to implement a tiered approach based on an NMS stock’s average closing price 
+on its primary listing exchange. The change to the definition of “round lot” went into effect in November 
+2025. See Securities Exchange Act Release No. 101070 (Sept. 18, 2024), 89 FR 81620 (Oct. 8, 2024) 
+(“2024 Regulation NMS Amendments”).  
+26  See also infra note 90 and accompanying text (discussing the ADF, which currently has no active quoting 
+participants). 
+27  17 CFR 242.600(b)(15) (definition of “best bid and best offer”); see also 17 CFR 242.600(b)(16) 
+(definition of “bid or offer”). 
+28  17 CFR 242.600(b)(47) (definition of “intermarket sweep order”). 
+29  This allows, for example, a block trader to access large-sized quotations at prices outside protected 
+quotations.
+
+11 
+ 
+Another significant new rule adopted by the Commission under Regulation NMS was 
+Rule 610 of Regulation NMS.30 Rule 610 contains provisions relating to fair access to 
+quotations, and includes, among other things, a cap on the fees a trading center may impose for 
+access to quotations and restrictions on locked and crossed markets.31 In particular and relevant 
+to this release, Rule 610(e) requires each exchange and national securities association to 
+implement rules requiring members reasonably to avoid displaying quotations that lock or cross 
+protected quotations.32 The Commission stated that “[t]he restrictions on locking or crossing 
+quotations, in conjunction with [Rule 611], should encourage trading against displayed 
+quotations and enhance the depth and liquidity of the markets.”33 
+As discussed above, the Commission approved Regulation NMS at a time of considerable 
+transformation in the U.S. equity markets.34 Since the adoption of Regulation NMS in 2005, U.S. 
+securities markets have evolved further and continue to evolve and innovate. Trading has moved 
+from two traditional models of equity market structure that had dominated trading prior to 2005– 
+namely, floor-based auctions for stocks listed on the New York Stock Exchange LLC (“NYSE”) 
+ 
+30  See infra section III.A. for a more detailed discussion of Rule 610’s requirements. 
+31  See Rule 610(a) through (f). With respect to access fee caps under paragraph (c) of Rule 610, when first 
+adopted in 2005 the Commission limited exchange fees for accessing protected quotations with prices of $1 
+or greater to 0.3 cents per share (or 30 cents per 100 shares). Subsequently, in 2024, the Commission 
+amended Rule 610(c) to reduce the access fee caps to $0.001 (or 10 mils) per share for NMS stocks with 
+prices of $1 or greater. At the same time, the Commission established a second minimum pricing increment 
+of $0.005 under Rule 612 for quoting certain “tick constrained” NMS stocks and adopted new definitions 
+of “round lot” and “odd-lot information.” See 2024 Regulation NMS Amendments. The changes to the 
+access fee cap in Rule 610(c) and the minimum pricing increment in Rule 612 have yet to be implemented. 
+See infra note 76. 
+32  17 CFR 242.610(e). A locking quotation is when a bid is displayed with a price equal to the price of a 
+previously displayed offer, or when an offer is displayed with a price equal to the price of a previously 
+displayed bid. A crossing quotation is when a bid is displayed with a price higher than the price of a 
+previously displayed offer, or when an offer is displayed with a price lower than the price of a previously 
+displayed bid. 
+33  NMS Adopting Release at 37584.  
+34  See supra notes 5-7 and accompanying text.
+
+12 
+ 
+and dealer-based competition for stocks listed on the Nasdaq Stock Market LLC (“Nasdaq”)– to 
+evolve into today’s highly automated, electronic market structure model where exchange-listed 
+stocks trade on a wide range of different types of electronic trading centers, connected by private 
+linkages, including exchanges, ATSs, single-dealer trading platforms (“SDPs”),35 and other 
+broker-dealer trading systems. Rapid changes in technology led to the rise of sophisticated 
+algorithmic trading strategies and high-volume proprietary trading firms. 
+Moreover, since the adoption of Regulation NMS in 2005, the number of national 
+securities exchanges for NMS stocks has proliferated, further fragmenting the trading landscape. 
+Currently, there are 17 operating national securities exchanges that trade NMS stocks and three 
+exchanges approved to trade NMS stocks but not yet operating,36 as compared to eight national 
+securities exchanges that traded NMS stocks in 2005 (plus Nasdaq, which did not become an 
+exchange until 2006).37 
+There has also been a significant increase in the volume and proportion of trading 
+executing against non-displayed liquidity.38 Since the adoption of Rule 611, fragmentation 
+ 
+35  An SDP is a type of business operated by some OTC market makers which primarily seeks to attract the 
+orders of institutional investors for internal execution. See Where Do Stocks Trade?, FINRA (Sept. 28, 
+2023) available at https://www.finra.org/investors/insights/where-do-stocks-trade (for further discussion 
+about SDPs). 
+36  The 17 operating national securities exchanges are: Cboe BYX Exchange, Inc. (“Cboe BYX”); Cboe BZX 
+Exchange, Inc. (“Cboe BZX”); Cboe EDGA Exchange, Inc. (“Cboe EDGA”); Cboe EDGX Exchange, Inc. 
+(“Cboe EDGX”); Investors Exchange LLC (“IEX”); Long-Term Stock Exchange, Inc. (“LTSE”); MEMX 
+LLC (“MEMX”); MIAX Pearl, LLC (“MIAX PEARL”); Nasdaq Texas, LLC. (“Nasdaq TX”); Nasdaq 
+PHLX LLC (“Nasdaq Phlx”); The Nasdaq Stock Market LLC (“Nasdaq”); NYSE; NYSE American LLC 
+(“NYSE American”); NYSE Arca, Inc. (“NYSE Arca”); NYSE Texas, Inc. (“NYSE Texas”); NYSE 
+National, Inc. (“NYSE National”); and 24X National Exchange LLC (“24X”). The three national securities 
+exchanges approved to trade NMS stocks, but not yet operating, are: Green Impact Exchange, LLC  
+(“GIX”); MX2 LLC (“MX2”) and Texas Stock Exchange LLC (“TXSE”). 
+37  See NMS Adopting Release at 37576, n.730 (listing the eight national securities exchanges that traded 
+NMS stocks in 2005). 
+38  See, e.g., Staff of the Division of Trading and Markets, Trade Through Roundtable Supporting Data, pp. 
+10-15 (Sept.12, 2025), available at: https://www.sec.gov/files/trade-through-roundtable-supporting-
+data.pdf (providing measures of the number of round lots at the best bid and number best bids from 2015 -
+
+13 
+ 
+among non-displayed venues has occurred as trading volumes in U.S. equities have increased on 
+off-exchange venues, such as ATSs, SDPs, and wholesalers,39 with the market share of off-
+exchange trading steadily increasing in the last decade, and, since the end of 2024, now regularly 
+exceeding 50% of overall volume.40 Even on exchanges, the percentage of volume executed 
+against liquidity that is not displayed (i.e., is “hidden” or “dark”) has steadily increased.41 
+ 
+2025); see also Memorandum re: Rule 611 of Regulation NMS from SEC Division of Trading and Markets 
+to SEC Market Structure Advisory Committee, dated Apr. 30, 2015 at 21, available at 
+https://www.sec.gov/spotlight/emsac/memo-rule-611-regulation-nms.pdf (“EMSAC Market Structure 
+Memo”).  
+39  Wholesalers fall within the definition of an OTC market maker in Rule 600(b)(75) of Regulation NMS — 
+any dealer that holds itself out as being willing to buy from and sell to its customers, or others, in the 
+United States, an NMS stock for its own account on a regular or continuous basis otherwise than on a 
+national securities exchange in amounts of less than block size. The term “wholesaler” is not defined in 
+Regulation NMS but commonly refers to an OTC market maker that seeks to attract orders from broker -
+dealers that service the accounts of retail investors. 
+40  For example, from February 2005 to February 2014, the total percentage of volume executed by non -
+displayed ATSs and broker-dealers rose from 29.4% to 38.6% for Nasdaq-listed stocks and from 13.0% to 
+34.6% for NYSE-listed stocks. See EMSAC Market Structure Memo at 9-12. From February 2014 to 
+January 2026, these off-exchange volumes have risen even further, with total percentage of volume 
+executed off-exchange for Nasdaq-listed stocks climbing to 51.9% and NYSE-listed stocks climbing to 
+47%. See 2026 Data Update of the 2015 EMSAC Market Structure Memo, by Staff of the Office of 
+Analytics and Research, Division of Trading and Markets (June 11, 2026), available at 
+https://www.sec.gov/rules-regulations/public-comments/s7-2026-20. See The Volume Explosion No One 
+Saw Coming, by Jeff O’Oconnor, Liquidnet (Oct. 20, 2025) (noting that off-exchange volumes first began 
+to consistently clear 50% of total market volumes in Q4 of 2024). See also Rosenblatt Trading Talk – 
+Market Structure Analysis (Feb 6, 2026). For daily and monthly summaries of NMS stock volumes 
+executed on each exchange or reported to each trade reporting facility, see 
+https://www.cboe.com/us/equities/market_statistics/historical_market_volume/. 
+41  See, e.g., Summary Metrics by Exchange, available at https://www.sec.gov/data-research/sec-markets-
+data/marketstructuredata-exchange. Analysis of this data indicates, for example, that in the first quarter of 
+2015, the median proportion of equity exchange volume executed against non- displayed orders for stocks 
+was 16.0%, but in the second quarter of 2025, it was 30.7%, and that comparable  numbers for ETPs were 
+12% and 16.6%. This change was an increase of 92% for stocks and 38% for ETPs. Similarly, in the first 
+quarter of 2015, the exchange with the smallest proportion of volume executed against hidden orders for 
+stocks had 3.7% and the largest 28.4%, but in the second quarter of 2025, the smallest had 13.7% and the 
+largest had 54.6%. In the first quarter of 2015, the exchange with the smallest proportion of volume 
+executed against hidden orders for ETPs had 1.5% and the largest 17.1%, but in the second quarter of 2025, 
+the smallest had 5.6% and the largest had 43.1%. This analysis is based on quarterly averages of the 
+“etp_hidden_volume” and “stock_hidden_volume” data for each exchange, and excluded one exchange 
+that consistently executed nearly all trades against non-displayed liquidity. See also It’ s Darkest in the 
+Middle of the Day, by Phil Mackintosh, Nasdaq, available at https://www.nasdaq.com/articles/its-darkest-
+middle-day (discussing off-exchange market share rising above 50% for the first time in 2025 and lit price 
+discovery (exchange trades at the NBBO) at around 30% during portions of the trading day).
+
+14 
+ 
+The U.S. equities markets are continuing to evolve rapidly. Advances in technology and 
+increased automation and efficiencies have recently enabled settlement times to shrink42 and 
+have made near 24 hour equity trading a reality.43 In addition, innovative technology such as 
+distributed ledger technology (“DLT”) allows issuers to tokenize a security by issuing it in the 
+format of a crypto asset and facilitate trading among market participants.44 The use of DLT, 
+including smart contract applications undergirding automated market makers, has introduced 
+new methods of trading securities and opened access to such trading to various types of market 
+participants. Such innovative technology also raises challenges and questions relating to current 
+equities market structure and the application of current regulatory requirements.45  
+Given the importance of the U.S. national market system, the Commission and its staff 
+have periodically engaged in assessments of equity market structure over the two decades since 
+the adoption of Regulation NMS,46 most recently examining the impact of Rule 611 and related 
+ 
+42  See Securities Exchange Act Release No. 96930 (Feb. 15, 2023), 88 FR 13872 (Mar. 6, 2023) (Shortening 
+the Securities Transaction Settlement Cycle).  
+43  National securities exchanges have recently been approved to trade NMS stocks on an almost 24/5 basis. 
+See Securities Exchange Act Release Nos. 102400 (Feb. 11, 2025), 90 FR 9794 (Feb. 18, 2025) (order 
+approving NYSE Arca Inc. proposal to lengthen its trading session to 22 hours per day, 5 days per week); 
+101777 (Nov. 27, 2024); 89 FR 97092 (order approving application of 24X National Exchange, LLC for 
+registration as a national securities exchange and to trade 23 hours per day, 5 days per week, once the SIPs 
+are able to concurrently collect, consolidate, process and disseminate consolidated data  at all times during 
+that time). In addition, certain ATSs make NMS stocks available for trading during the overnight session.  
+44  See Statement on Tokenized Securities; Division of Corporation Finance, Division of Investment 
+Management, Division of Trading and Markets; Commission, Jan. 28, 2026, available at 
+https://www.sec.gov/newsroom/speeches-statements/corp-fin-statement-tokenized-securities-012826-
+statement-tokenized-securities.  
+45  See, e.g., Beyond Reg NMS: A Market Structure Framework for the Modern Era, Michael Cahill, CEO, and 
+Brandon Ferrick, General Counsel, Duoro Labs LLC (“Duoro Labs Paper”), at 18-19. 
+46  For example, in 2010 the Commission conducted a broad review of equity market structure and invited 
+public comment on a wide range of market structure issues, including high frequency trading, order 
+routing, market data linkages, and liquidity. See Securities Exchange Act Release No. 61358 (Jan. 14, 
+2010), 75 FR 3594 (Jan. 21, 2010) (“Concept Release on Equity Market Structure”). In 2015 the 
+Commission established an Equity Market Structure Advisory Committee (“EMSAC”) to provide the 
+Commission with “diverse perspectives on the structure and operations of the U.S. equities markets, as well 
+as advice and recommendations on matters related to equity market structure.” See Securities Exchange Act 
+Release No. 74092 (Jan. 20, 2015), 80 FR 3673 (Jan. 23, 2015). The EMSAC used its inaugural meeting in
+
+15 
+ 
+rules on equity market structure. To this end, the Commission held two public roundtables in late 
+2025 and engaged a range of panelists, including representatives from exchanges, ATSs, retail 
+and institutional broker-dealers, investor advocacy groups, academics, and regulators.47 In 
+conjunction with the TTR Roundtables, the Commission also welcomed public comments 
+regarding issues relating to Rule 611 and related rules.48 Through the TTR Roundtables and the 
+public comment process, the Commission received a wide range of input on Regulation NMS 
+broadly, and the current Rule 611 trade-through prohibition specifically, from a variety of market 
+participants, including industry groups, exchanges, broker-dealers, financial services firms, and 
+individual investors. While some commenters49 indicated support for the trade-through rule in its 
+ 
+May 2015 to focus on Rule 611. See https://www.sec.gov/newsroom/press-releases/2015-70 and EMSAC 
+Market Structure Memo at 18. See also supra note 15 (discussing amendments to Regulation NMS 
+following its 2005 adoption). Even preceding the adoption of Regulation NMS, the Commission and its 
+staff have undertaken periodic reevaluations of market structure. See, e.g., Concept Release on Market 
+Fragmentation, 65 FR 10577 (Feb. 28, 2000); Market 2000: An Examination of Current Equity Market 
+Developments, Division of Market Regulation, Commission (Jan. 1994) (‘‘Market 2000 Study’’). 
+47  The first Roundtable on Trade-Through Prohibitions (“First TTR Roundtable”) was held at the 
+Commission’s Washington DC headquarters on September 18, 2025. A transcript and webcast of the First 
+TTR Roundtable can be found at: https://www.sec.gov/newsroom/meetings-events/roundtable-trade-
+through-prohibitions (“First TTR Roundtable Transcript”). Data analysis supporting this roundtable can be 
+found at: https://www.sec.gov/files/trade-through-roundtable-supporting-data.pdf. The second Roundtable 
+on Rule 611 (“Second TTR Roundtable” and, together with the First TTR Roundtable, the “TTR 
+Roundtables”) was held in Austin, TX on December 16, 2025. A transcript and webcast of the Second TTR 
+Roundtable can be found at: https://www.sec.gov/newsroom/meetings-events/roundtable-rule-611-
+regulation-nms (“Second TTR Roundtable Transcript”). A broad overview from the roundtables is 
+summarized below.  
+48  See https://www.sec.gov/comments/4-862/4-862.htm.  
+49  The term “commenters” throughout this document refers to both the panelists at the TTR Roundtables and 
+those who submitted written comments.
+
+16 
+ 
+current form,50 many commenters criticized Rule 61151 and its effect on equity market 
+structure.52 
+In particular, some commenters questioned whether the trade-through rule is at least 
+partly to blame for the substantial increase in the number of exchanges and excessive 
+fragmentation of liquidity among trading venues.53 Some commenters contended that, by 
+requiring market participants to consider the protected quotations of all exchanges and to route 
+orders to execute against those quotations in certain contexts, Rule 611 enables more exchanges 
+to stay in business than may have otherwise been the case.54 Similarly, some commenters argued 
+that the proliferation of exchanges increases costs and complexity for market participants by, for 
+example, requiring them to connect to each exchange, directly or indirectly, and to pay for and 
+monitor market data from each exchange, regardless of such venue’s utility.55 
+ 
+50  See, e.g., letter from Allen Spence (Aug. 13, 2025) at 1-2; letter from R. T. Leuchtkafer (Aug. 25, 2025) 
+(“Leuchtkafer Letter”) at 4; letter from Haoxiang Zhu, Associate Professor of Finance, MIT Sloan School 
+of Management (Dec. 15, 2025) (“Zhu Letter”) at 1; First TTR Roundtable Transcript at 36 (Julie Andress, 
+Securities Traders Association and KeyBanc Capital Markets). Some of these commenters also expressed 
+support for maintaining other aspects of Regulation NMS, such as Rule 610(e)’s prohibition on locked and 
+crossed markets. See, e.g., Leuchtkafer Letter at 5-6; letter from Christopher Nagy, Research Director, 
+Healthy Markets Association (Dec. 12, 2025) (“Healthy Markets Letter II”) at 2 n.7. 
+51  See, e.g., letter from James J. Angel, Associate Professor, Georgetown University, McDonough School of 
+Business (Sept. 1, 2025) (“J. Angel Letter”) at 1, 16; letter from Matt Billings, President, Robinhood 
+Financial, LLC and Robinhood Securities, LLC (Sept. 16, 2025 (“Robinhood Letter”) at 2-5; letter from 
+Raz Tirosh and Calvin Hayes, Jane Street (Sept. 23, 2025) (“Jane Street Letter”) at 2 (stating the 
+continuation of Rule 611 “imposes negative externalities”); letter from Joseph Saluzzi, Partner, Themis 
+Trading LLC (Dec. 17, 2025) at 3 (calling Rule 611 flawed and offering reforms). 
+52  See, e.g., letter from Ari Burstein, General Counsel, Imperative Execution, IntelligentCross (Sept. 17, 2025) 
+(“IntelligentCross Letter”) at 3-4; Kelvin To, Founder and President, Data Boiler Technologies, Can Order 
+Protection be replaced by Competing Market Forces? (Sept. 8, 2025) (“Data Boiler Comment”) at 1, 4; 
+letter from John A. Zecca, Executive Vice President, Global Chief Legal, Risk & Regulatory Officer, 
+Nasdaq (Sept. 24, 2025) (“Nasdaq Letter I”) at 1-2. 
+53  See, e.g., Robinhood Letter at 3-5; letter from William O’Brien, Former CEO, Direct Edge (Sept. 16, 2025) 
+(“O’Brien Letter”) at 5; First TTR Roundtable Transcript at 57 (Pankil Patel, Bank of America), at 277 
+(Daniel Gerhardstein, FIA Principal Traders Group and Jump Trading Group). 
+54  See, e.g., Jane Street Letter at 2; First TTR Roundtable Transcript at 235 (Mehmet Kinak, T. Rowe Price). 
+55  See, e.g., Robinhood Letter at 2, 5; First TTR Roundtable Transcript at 68-69 (Pankil Patel, Bank of 
+America).
+
+17 
+ 
+Some commenters also attributed other market structure concerns to Rule 611. For 
+example, some stated that the trade-through rule has indirectly led to more non-displayed trading 
+by constraining the nature of competition on displayed venues to factors such as speed and 
+fees.56 In addition, some commenters stated that Rule 611 has led to unnecessary costs and 
+complexity for market participants57 and to the proliferation of complex order types.58 Others 
+have stated that the trade-through rule has harmed institutional investors that seek to trade in 
+large size by forcing them to access small-sized quotations that may signal their trading 
+intentions to short-term proprietary traders.59 Commenters critical of Rule 611 generally 
+contended that it has not succeeded in achieving the Commission’s stated objective of enhancing 
+the reward for the display of limit orders and has produced negative unintended consequences for 
+market participants.60 
+Based on these critiques, some commenters recommended rescinding Rule 611 in its 
+entirety.61 Other commenters offered alternatives to rescission of Rule 611, including 
+ 
+56  See, e.g., Nasdaq Letter I at 1-2. Non-displayed trading is sometimes referred to as “dark” liquidity and can 
+include off-exchange trading as well as non-displayed (or “hidden”) liquidity on exchanges. Displayed 
+trading is sometimes referred to as “lit” trading. 
+57  See, e.g., Robinhood Letter at 5; O’Brien Letter at 6.  
+58  See, e.g., Robinhood Letter at 4; FIA PTG Position Paper – Regulation NMS: A Renewed Call for Reform, 
+FIA PTG Principal Traders Group, Sept. 2025 (“FIA PTG Paper”) at 4; First TTR Roundtable Transcript at 
+78-80 (Maureen O’Hara, Cornell University, SC Johnson Graduate School of Management), at 169 
+(Armando Diaz, PureStream).  
+59  See, e.g., letter from Christopher Nagy, Research Director, Healthy Markets Association (Sept. 16, 2025) 
+(“Healthy Markets Letter I”) at 8. 
+60  See, e.g., First TTR Roundtable Transcript at 57 (Pankil Patel, Bank of America), 144-45 (Adam Nunes, 
+Hudson River Trading).  
+61  See, e.g., Second TTR Roundtable Transcript at 51-52 (Mehmet Kinak, T. Rowe Price), at 52-53 (Dmitry 
+Bulkin, Bernstein), at 53 (Brett Redfearn, Panorama Financial Markets Advisory); Robinhood Letter at 2; 
+O’Brien Letter at 7.
+
+18 
+ 
+modifications to Rule 61162 or modifications to other aspects of Regulation NMS instead.63 
+Several commenters described the interconnectedness of the trade-through rule with best 
+execution obligations64 and some commenters recommended, in light of possible changes to 
+Rule 611, consideration of ways to support best execution compliance.65 Some commenters 
+suggested that if the Commission rescinds Rule 611, it would need to change other parts of 
+Regulation NMS, including eliminating or modifying the access fee caps set forth in Rule 
+610(c)66 or the prohibition on locked and crossed markets in Rule 610(e).67 
+The Commission is cognizant of the complex and interconnected nature of our equity 
+market structure and believes that proceeding with any changes requires taking a holistic view to 
+help ensure that changes result in improvements in, and not a deterioration of, our national 
+market system. Changes to a single rule could have profound effects, both expected and 
+unexpected, on a multitude of other rules and aspects of market structure. Thus, changes to, and 
+modernizations of, the U.S. regulatory structure for our equity markets should be done through a 
+deliberative and calibrated process that is designed to result in improved market efficiency and 
+reduced costs and complexity for investors. 
+ 
+62  See, e.g., Healthy Markets Letter I at 8-10; Zhu Letter at 1-2; letter from Timothy J. Boyle, Chief Operating 
+Officer, McKay Brothers, LLC (Sept. 5, 2025) (“McKay Letter”).  
+63  See, e.g., letter from Patrick Sexton, EVP, General Counsel, and Corporate Secretary, Cboe Global Markets, 
+Inc. (Dec. 15, 2025) (“Cboe Letter II”) at 3-6. 
+64  See, e.g., letter from Adrian Griffiths, Head of Market Structure, MEMX LLC (Sept. 18, 2025) (“MEMX 
+Letter”) at 9-10 n.9; Healthy Markets Letter I at 5; FIA FTG Paper at 2-3; Jane Street Letter at 1-2. 
+65  See, e.g., Nasdaq Letter I at 3-7; McKay Letter at 2-3; Healthy Markets Letter II at 6-7. 
+66  See, e.g., letter from Patrick Sexton, EVP, General Counsel, and Corporate Secretary, Cboe Global Markets, 
+Inc. (Sept. 15, 2025) (“Cboe Letter I”) at 4; Nasdaq Letter I at 4; Second TTR Roundtable Transcript at 34-
+35 (Kevin Tyrell, New York Stock Exchange). See also O’Brien Letter at 7 (recommending the 
+Commission rescind Rule 611 and modify Rules 605 (disclosure of order execution information) and 612 
+(minimum pricing increment)).   
+67  See, e.g., MEMX Letter at 17-18; FIA PTG Paper at 6; Cboe Letter I at 4-5; First TTR Roundtable 
+Transcript at 129-130 (Jonathan Kellner, MEMX); Second TTR Roundtable Transcript at 55 (Brett 
+Redfearn, Panorama Financial Markets Advisory).
+
+19 
+ 
+Based on the experience of the Commission and its staff overseeing the equity markets 
+and taking into consideration the input from panelists at the TTR Roundtables and other 
+comments received, the Commission is proposing certain targeted changes to Regulation NMS. 
+Specifically, as described below in greater detail, the Commission proposes to: 
+• Rescind Rule 611 of Regulation NMS in its entirety;68 
+• Rescind Rule 610(e) of Regulation NMS in its entirety;69 and 
+• Make conforming revisions to Regulation NMS and other Commission rules to reflect 
+the rescission of Rules 611 and 610(e), including amending the definitional rule of 
+Rule 600 to rescind terms that would no longer be necessary to retain in Regulation 
+NMS given the proposed rescissions of Rules 611 and 610(e).70 
+The Commission understands these proposed changes could impact related aspects of 
+equity market structure. To the extent other changes may be warranted to Commission rules, 
+SRO rules, and NMS Plans71 in light of this proposal, the Commission requests market 
+participants to submit comments explaining these market structure impacts and other needed 
+changes.72 Such areas for comment may include, but are not limited to: (i) whether, and to what 
+ 
+68  See infra section II. 
+69  See infra section III. 
+70  See infra section I V.  Specifically, the provisions of Regulation NMS that are proposed to be rescinded are 
+Rules 600(b)(6), (7), (47), (54), (81), (82) and (105); the provisions of Regulation NMS that are proposed 
+to be revised are Rules 600(b)(26), (72), and (89), and Rule 610(c); and the other Commission rules that are 
+proposed to be revised are Rules 15c3-5 and 15b9-1 under the Exchange Act.  
+71  See Rule 608 (Filing and amendment of national market system plans), 17 CFR 242.608 , which allows two 
+or more SROs, acting jointly, or the Commission itself to propose amendments to effective NMS Plans.  
+72  Listed options have their own rules prohibiting trade-throughs and locked and crossed markets, which is set 
+forth in the Options Order Protection and Locked/Crossed Market Plan, a Commission approved NMS 
+Plan. See infra note 83. The options markets are materially different than the equities markets in a number 
+of ways. For example, as highlighted by commenters, there is no off-exchange trading in listed options, 
+options are more commonly quote-driven versus order-driven, and there are a great deal more listed options 
+than listed equities. See, e.g., First TTR Roundtable Transcript at 94-98 (Chris Isaacson, Cboe Global 
+Markets, Inc.; Chris Solgan, MIAX Exchange Group). These differences between the equities and options
+
+20 
+ 
+extent, best execution requirements and guidance should be updated if the proposed amendments 
+to Regulation NMS are adopted;73 (ii) whether, and to what extent, revisions should be made to 
+market data revenue allocation formulas;74 (iii) whether, and to what extent, conforming changes 
+would be required to SRO rules and NMS Plan provisions if the proposed amendments to 
+Regulation NMS are adopted;75 and (iv) whether, and to what extent, the access fee caps under 
+ 
+markets necessitate a separate review of the options markets to determine if any structural changes are 
+warranted. To that end, the Commission hosted a roundtable on April 16, 2026, to discuss listed options 
+market structure, including facilitating competition in a quote driven market, evaluating the customer 
+experience, and identifying opportunities and challenges for continued growth. See 
+https://www.sec.gov/newsroom/press-releases/2026-24-sec-announces-roundtable-options-market-
+structure-reform. 
+73  A broker’s duty of best execution derives from common law agency principles and fiduciary obligations, 
+and is incorporated implicitly, through judicial and Commission decisions, in the antifraud provisions of the 
+Federal securities laws. Securities Exchange Act Release No. 37619A, 61 FR 48290, 48322 (Sept. 12, 
+1996) (“Order Execution Obligations Adopting Release”), citing Market 2000 Study at V-1, 2 and sources 
+cited therein. The Commission has stated that the duty of best execution requires broker-dealers to execute 
+customers’ trades at the most favorable terms reasonably available under the circumstances. Id. FINRA’s 
+best execution rule (FINRA Rule 5310) requires FINRA member firms to “use reasonable diligence to 
+ascertain the best market” for a customer order for a securities transaction and to execute in such market to 
+provide the customer with a price that is “as favorable as possible under prevailing m arket conditions.” 
+FINRA Rule 5310(a)(1).  
+74  The Commission recognizes that the quality of consolidated data, including the national best bid and 
+national best offer (“NBBO”), is critical to the health of our markets. When the Commission adopted 
+Regulation NMS, it also implemented a new market data formula for revenue allocation among the relevant 
+SROs, essentially allocating half of market data revenues to trading and half to quoting. See NMS Adopting 
+Release at 37557-70. Some have criticized the formula’s quoting component, which they argued has 
+contributed to the creation of new exchanges and subsidizes exchanges that quote but rarely trade , thus 
+providing minimal value to market participants. See, e.g., Jane Street Letter; FIA PTG Paper; McKay 
+Letter. On June 2, 2026, the members of the CT Plan LLC (“CT Plan”) filed Amendment No. 3 to the CT 
+Plan pursuant to Rule 608 of Regulation NMS (proposing certain revisions to the provisions of the plan that 
+govern the allocation of net revenues received under the CT Plan among its members to impose a limit on 
+the ratio of revenue distributed to each individual member that is attributable to its q uoting activity 
+compared to revenue such member receives for trading activity under the revenue formula).  The CT Plan 
+was approved in November 2024 to become the successor to and replacement for the Nasdaq UTP Plan and 
+the CTA/CQ Plans. See Securities Exchange Act Release No. 101672 (Nov. 20, 2024), 89 FR 94924 (Nov. 
+29, 2024) (“CT Plan Approval Order”). The CT Plan is expected to begin disseminating quote and trade 
+data in the second quarter of 2027. See CT Plan FAQs, available at https://thectplanllc.com/faqs/. 
+75  For example, if the proposed amendments to Regulation NMS are adopted, SROs would no longer be 
+required to have rules restricting trade-throughs and locking or crossing quotations. In such a case, the 
+Commission believes, that most, if not all, SROs would seek to amend rules originally designed for 
+compliance with Rules 611 and 610(e). Similarly, if the proposed amendments to Regulation NMS are 
+adopted, key terms such as “protected quote,” “trade-through,” and “intermarket sweep orders” would no 
+longer be defined in Regulation NMS and SRO rulebooks would need to redefine or eliminate suc h terms. 
+In addition, the text of certain NMS Plans may reference Regulation NMS requirements or defined terms 
+that are being proposed to be rescinded and plan participants may choose to amend such plans. For
+
+21 
+ 
+Rule 610(c) under Regulation NMS should be revised.76 
+II. Rule 611 
+Rule 611 was adopted as the most significant and controversial piece of Regulation 
+NMS.77 At the time, the Commission believed that, in adopting Rule 611: (1) investors, 
+particularly retail investors, would be assured that orders would be filled at the best prices, 
+thereby giving them greater confidence that they would be treated fairly when they participated 
+ 
+example, the NMS Plans relating to the collection, consolidation, processing and dissemination of 
+consolidated equity market data by the SIPs, including the CT Plan, the Nasdaq UTP Plan and the CTA/CQ 
+Plan, currently determine “quote credits” based on certain automated quotations that do not lock or cross a 
+previously displayed automated quotation. See CT Plan Approval Order; Securities Exchange Release Nos. 
+104670 (Jan. 22, 2026), 91 FR 3609 (Jan. 27, 2026) (Notice of Filing of the Fifty-Fifth Amendment to the 
+Joint Self-Regulatory Organization Plan Governing the Collection, Consolidation and Dissemination of 
+Quotation and Transaction Information for Nasdaq-Listed Securities Traded on Exchanges on an Unlisted 
+Trading Privileges Basis); and 104665 (Jan. 22, 2026), 91 FR 3602 (Jan. 27, 2026) (Notice of Filing of 
+Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive 
+Amendment to the Restated CQ Plan). As discussed further below, the Commission is proposing to rescind 
+the defined term “automated quotation” and to eliminate the prohibitions on locking and crossing markets. 
+As a result, plan participants may determine to amend such plans to revise how “quote credits” are 
+determined under the plans. But see, e.g., Second TTR Roundtable Transcript at 56 (Brett Redfearn, 
+Panorama Financial Markets Advisory) (stating that even if the Commission rescinds the prohibition on 
+locked and crossed markets, the SIP revenue allocation formula should not reward participants for actively 
+locking or crossing a market). See also, e.g., section VI.A.1. of the NMS Plan to Address Extraordinary 
+Market V olatility (“Limit Up/Limit Down Plan”), available at https://www.luldplan.com/plans (which 
+excludes from certain requirements of the plan “transactions excepted or exempt from Rule 611 under 
+Regulation NMS”); section 8.1.2. of Appendix D of the Limited Liability Company Agreement of 
+Consolidated Audit Trail, LLC, dated Aug. 29, 2019, available at 
+https://catnmsplan.com/sites/default/files/2026-01/LLC_Agreement_of_Consolidated_Audit_Trail_LLC-
+as-of-01.13.26.pdf (referencing “protected best bid and offer”). 
+76  Rule 610(c) was adopted at the same time as Rule 611 and Rule 610(e), and was designed to promote fair 
+and non-discriminatory access to quotations displayed in the national market system, ensure the fairness 
+and accuracy of displayed quotations by establishing an outer limit on the cost of accessing such 
+quotations, and preclude trading centers that posted protected quotations from raising their fees in an 
+attempt to take improper advantage of the trade-through protections. See 2024 Regulation NMS 
+Amendments at 81643-44. In 2024, the Commission adopted amendments to the Rule 610(c) access fee 
+caps in conjunction with changes to Rule 612 of Regulation NMS (Minimum Pricing Increment). See 2024 
+Regulation NMS Amendments. These amendments to Rules 610(c) and 612 are scheduled to be 
+implemented in November 2026. See Securities Exchange Act Release No. 104172 (Oct. 31, 2025), 90 FR 
+51418 (Nov. 17, 2025) (“2025 Temporary Exemptive Relief”). However, on Feb. 26, 2026, the Commission 
+received a request for exemptive relief from the November 2026 implementation deadline, which request 
+was published for comment on Mar. 20, 2026. See Securities Exchange Act Release No. 105058 (Mar. 20, 
+2026), 91 FR 14602 (Mar. 25, 2026). See also infra notes 231-238 and accompanying text (discussing 
+access fee caps and locked and crossed markets). 
+77  See, e.g., NMS Adopting Release at 37498 (“Clearly, the Order Protection Rule was most controversial and 
+attracted the most public comment and attention.”); see also Joint NMS Dissent at 37633-35.
+
+22 
+ 
+in the equity markets; and (2) the promotion of the best displayed and accessible prices would 
+promote deep and stable markets that minimized investor transaction costs.78 Rule 611 was the 
+centerpiece of Regulation NMS and has been likened to the “head of an octopus” because of its 
+ability to impact many different areas of equity market structure.79 Rule 611 has recently been 
+analogized to the scaffolding of the national market system, akin to a temporary structure that 
+can now be taken down because it is no longer necessary.80 
+A. Description of Rule 611 
+ 
+The core of Rule 611 is paragraph (a)(1), which promotes intermarket price protection of 
+orders by restricting the execution of trades on one venue at prices that are inferior to displayed 
+quotations at another venue. Specifically, it requires a “trading center”81 to establish, maintain, 
+and enforce written policies and procedures that are reasonably designed to prevent trade-
+throughs on that trading center of “protected quotations,”82 unless one of the exceptions to the 
+ 
+78  NMS Adopting Release at 37498. 
+79  See First TTR Roundtable Transcript at 45-46 (Katie Kolchin, SIFMA) (“Like the octopus, market structure 
+involves many moving, interconnected pieces, and Rule 611 represents the head of this octopus. If you 
+move or change one piece, other parts could move as well.”). See also supra notes 66-67 and 
+accompanying text (relating to other areas of Regulation NMS commenters believed to be closely 
+connected to Rule 611). 
+80  See First TTR Roundtable Transcript at 123 (Jim Angel, Georgetown University). See also J. Angel Letter; 
+Jane Street Letter at 2 (stating that modern automated electronic markets have now evolved beyond the 
+baseline requirements of Rule 611 and that “[w]hile arguably Rule 611 served a historical function, its 
+continuation imposes negative externalities on market participants”).  
+81  Rule 600(b)(106) defines “trading center” to mean “a national securities exchange or national securities 
+association that operates an SRO trading facility, an alternative trading system, an exchange market maker, 
+an OTC market maker, or any other broker or dealer that executes orders internally by trading as principal 
+or crossing orders as agent.” 17 CFR 242.600(b)(106). Trading center is defined broadly to include venues 
+that execute trades in today’s equity market structure, including registered exchanges, ATSs, OTC market 
+makers, and any other broker-dealers that execute orders internally, whether as principal or agent. 
+82  Rule 600(b)(82) provides that “protected quotation” means “a protected bid or a protected offer.” 17 CFR 
+242.600(b)(82). Rule 600(b)(81) provides that a “protected bid or protected offer” means “a quotation in 
+an NMS stock that: (i) is displayed by an automated trading center; (ii) is disseminated pursuant to an 
+effective national market system plan; and (iii) is an automated quotation that is the best bid or best offer of
+
+23 
+ 
+trade-through restrictions set forth in paragraph (b) of the rule applies. A “trade-through” is 
+defined as the purchase or sale of an “NMS stock”83 during “regular trading hours”84 either as 
+agent or principal, at a price that is lower than a protected bid or higher than a protected offer.85 
+The definition of “protected bid or protected offer”86 (collectively, “protected 
+quotations”) includes several key elements. First, they must be “automated quotations”87 
+displayed by an “automated trading center.”88 The definitions of automated trading center and 
+automated quotation generally require that quotations must be immediately and automatically 
+ 
+a national securities exchange, or the best bid or best offer of a national securities association.” 17 CFR 
+242.600(b)(81). 
+83  An NMS stock generally means any exchange-listed security (other than listed options) for which 
+consolidated market data is disseminated. Rule 600(b)(65) defines an “NMS stock” to mean “any NMS 
+security other than an option.” 17 CFR 242.600(b)(65). See supra note 3 (defining NMS security). Listed 
+options have their own trade-through rule, which is set forth in the Options Order Protection and 
+Locked/Crossed Market Plan. That NMS Plan introduced features to the listed options markets analogous 
+to Rule 611 for the equity markets, including requiring its participants to establish, maintain and enforce 
+written policies and procedures that are reasonably designed to prevent trade -throughs, and provided for a 
+number of exceptions to the trade-through requirement (including ISOs). In addition, the plan requires 
+participants to have rules to reasonably avoid displaying locked and crossed markets. See Securities 
+Exchange Act Release No. 60405 (July 30, 2009), 74 FR 39362 (Aug. 6, 2009). 
+84  Rule 600(b)(88) defines “regular trading hours” to mean “the time between 9:30 a.m. and 4:00 p.m. Eastern 
+Time, or such other time as is set forth in the procedures established pursuant to 17 CFR  242.605(a)(2).” 17 
+CFR 242.600(b)(88). 
+85  17 CFR 242.600(b)(105) (definition of “trade-through”). 
+86  See supra note 82. 
+87  Rule 600(b)(6) defines the term “automated quotation” as “a quotation displayed by a trading center that: 
+(i) permits an incoming order to be marked as immediate-or-cancel; (ii) immediately and automatically 
+executes an order marked as immediate-or-cancel against the displayed quotation up to its full size; 
+(iii) immediately and automatically cancels any unexecuted portion of an order marked as immediate -or-
+cancel without routing the order elsewhere; (iv) immediately and automatically transmits a response to the 
+sender of an order marked as immediate-or-cancel indicating the action taken with respect to such order; 
+and (v) immediately and automatically displays information that updates the displayed quotation to reflect 
+any change to its material terms.” 17 CFR 242.600(b)(6). 
+88  Rule 600(b)(7) defines the term “automated trading center” as “a trading center that: (i)  has implemented 
+such systems, procedures, and rules as are necessary to render it capable of displaying quotations that meet 
+the requirements for an automated quotation set forth in [Rule 600(b)(6)]; (ii)  identifies all quotations other 
+than automated quotations as manual quotations; (iii) immediately identifies its quotations as manual 
+quotations whenever it has reason to believe that it is not capable of displaying automated quotations; and 
+(iv) has adopted reasonable standards limiting when its quotations change from automated quotations to 
+manual quotations, and vice versa, to specifically defined circumstances that promote fair and efficient 
+access to its automated quotations and are consistent with the maintenance of fair and orderly markets.” 17 
+CFR 242.600(b)(7).
+
+24 
+ 
+executable, without any programmed delay.89 Second, to be protected, a quotation must be 
+disseminated in the consolidated market data feeds. Consequently, Rule 611 does not apply when 
+the consolidated market data feeds are not operating. Third, to be protected, a quotation must be 
+the “best bid” (highest-priced bid) or “best offer” (lowest-priced offer) of an exchange or a 
+national securities association (currently FINRA through its ADF). Currently, 17 exchanges 
+quote and trade NMS stocks but there are no active quoting participants in the ADF,90 which 
+means that, practically, Rule 611 only applies to the best round-lot prices on an exchange. Rule 
+611 does not cover any additional depth-of-book prices (lower prices for bids and higher prices 
+for offers) that are outside the best prices displayed by an automated trading center. 
+Rule 611 restricts trades at prices worse than a protected quotation, though it does not 
+affirmatively require the routing of orders to trading centers that are displaying the best prices. 
+Any trading center is free to execute trades at prices that are equal to or better than a protected 
+quotation, regardless of whether such trading center is currently quoting at that price or is a non-
+displayed trading center that never displays quotations.
+91 Thus, for example, Rule 611 does not 
+prohibit the execution of trades on non-displayed trading centers (non-displayed ATSs which are 
+sometimes referred to as “dark pools,” off-exchange market makers, and other broker-dealers 
+that execute orders internally) at prices that match displayed prices at displayed trading centers. 
+ 
+89  See NMS Adopting Release at 37534 (“The term “immediate” precludes any coding of automated systems 
+or other type of intentional device that would delay the action taken with respect to a quotation.”) . In 2016, 
+the Commission updated its interpretation of the term “immediate” given technological and market 
+developments since the adoption of Regulation NMS and stated that “immediate” in the context of 
+Regulation NMS does not preclude a de minimis intentional delay – i.e., a delay so short as to not frustrate 
+the purposes of Rule 611 by impairing fair and efficient access to an exchange’s quotations. See Securities 
+Exchange Act Release No. 78102 (June 17, 2016), 81 FR 40785 (June 23, 2016).  
+90  See https://www.finra.org/filing-reporting/alternative-display-facililty-adf (stating “[c]urrently, there are no 
+active quoting ADF participants.”). 
+91  Stated another way, Rule 611 does not require orders to be routed to execute against displayed quotations 
+before trades could be executed at matching prices (sometimes referred to as a “trade- at” restriction).
+
+25 
+ 
+Moreover, Rule 611 does not mandate transparency or force investors to display their trading 
+interest when they wish not to do so.92 Any investor can choose not to display an order, whether 
+on an exchange or a non-displayed trading center, and such orders can be executed as long as 
+they are executed at NBBO prices or better. 
+ 
+Paragraph (b) of Rule 611 sets forth nine exceptions to the trade-through restrictions of 
+paragraph (a). Two of the most significant of these involve the use of intermarket sweep 
+orders.93 ISOs are defined as limit orders that are routed, as necessary, to execute against the full 
+displayed size of all protected quotations with prices that are better than the price of the ISO. 
+Thus, while ISOs are exceptions to Rule 611, they remain consistent with the trade-through 
+rule’s objective of promoting intermarket price priority. One ISO exception allows a trading 
+center to execute a trade immediately at any size and price as long as it simultaneously routes 
+ISOs to execute against any better-priced protected quotations.
+94 The other ISO exception allows 
+a trading center to execute an order it receives immediately at any size and price when the order 
+is identified as an ISO.95 This exception enables order routers to control the execution of their 
+own orders, while effectively relieving trading centers of the necessity of checking protected 
+ 
+92  For example, Rule 604 of Regulation NMS provides an exception from display for all block-sized limit 
+orders (unless the customer requests display), as well as an exception for limit orders of any size for which 
+the customer expressly requests non-display. Rule 604 of Regulation NMS (Display of Customer Limit 
+Orders). 17 CFR 242.604. 
+93  Rule 600(b)(47) defines an “intermarket sweep order” to mean “a limit order for an NMS stock that meets 
+the following requirements: (i) when routed to a trading center, the limit order is identified as an 
+intermarket sweep order; and (ii) simultaneously with the routing of the limit order identified as an 
+intermarket sweep order, one or more additional limit orders, as necessary, are routed to execute against the 
+full displayed size of any protected bid, in the case of a limit order to sell, or the full displayed size of any 
+protected offer, in the case of a limit order to buy, for the NMS stock with a price that is superior to the 
+limit price of the limit order identified as an intermarket sweep order. These additional routed orders also 
+must be marked as intermarket sweep orders.” 17 CFR 242.600(b)(47). 
+94  Rule 611(b)(6); 17 CFR 242.611(b)(6). 
+95  Rule 611(b)(5); 17 CFR 242.611(b)(5).
+
+26 
+ 
+quotations at other trading centers. For example, if an order router wishes to immediately access 
+a large-sized quotation with a price inferior to protected quotations at other trading centers, it can 
+route an ISO to execute against the large-sized quotation, while simultaneously routing 
+additional ISOs to execute against all of the better-priced protected quotations. 
+Another significant exception to Rule 611 is the “one-second window.”96 This exception 
+was primarily designed to deal with the practical difficulties that existed when Regulation NMS 
+was adopted of preventing intermarket trade-throughs during a fast-moving market when 
+quotations can change rapidly (sometimes referred to as “flickering quotes”).97 This exception 
+provides that if a trade is executed at a price that would not have been a trade-through of 
+protected quotations as they stood at any point within the previous one second (the one-second 
+window), then the trade is excepted from Rule 611.  
+Other exceptions to Rule 611 include: (1) the “self-help” remedy that allows market 
+participants to disregard the protected quotations of trading centers that are experiencing systems 
+problems;
+98 (2) transactions that are not “regular way contracts”;99 (3) single-priced opening, 
+reopening, and closing transactions;100 (4) trades during a crossed market when a protected bid is 
+ 
+96  Rule 611(b)(8); 17 CFR 242.611(b)(8). 
+97  In adopting the exception in 2005, the Commission stated that it “generally does not believe that the 
+benefits would justify the costs imposed on trading centers of attempting to implement an intermarket price 
+priority rule at the level of sub-second time increments.” NMS Adopting Release at 37523. The 
+Commission emphasized, however, that the exception is not an exception to the duty of best execution. For 
+example, a broker-dealer that owes a duty of best execution to its customers cannot disregard a quotation 
+for purposes of best execution if experience shows that it is likely to be accessible. Id.  at n. 213 (“In making 
+a best execution determination, for example, a broker-dealer cannot rely on the Rule’s exception for 
+flickering quotations to justify ignoring a recently displayed, better-priced quotation when experience 
+shows that the quotation is likely to be accessible.”). 
+98  Rule 611(b)(1); 17 CFR 242.611(b)(1). 
+99  Rule 611(b)(2); 17 CFR 242.611(b)(2). 
+100  Rule 611(b)(3); 17 CFR 242.611(b)(3).
+
+27 
+ 
+higher than a protected offer;101 (5) trades executed at benchmark prices rather than current 
+quoted prices (such as volume-weighted average price (“VWAP”) transactions and other types of 
+average price transactions);102 and (6) transactions in “stopped orders.”103 The Commission has 
+also issued several exemptions from Rule 611.104 
+B. Proposed Rescission of Rule 611 
+The Commission proposes to rescind Rule 611 in its entirety. The Commission 
+recognizes that our national market system is complex and interconnected, and that any changes 
+could impact other parts of the national market system and result in unintended consequences. It 
+is precisely for these reasons that the Commission has sought the input of market participants in 
+assessing Regulation NMS and Rule 611 in advance of formulating this proposal.105 
+The Commission has engaged in a broad assessment of the regulatory environment since 
+the adoption of Rule 611 and the economic effects of Rule 611106 and has taken into 
+consideration the comments and input received. Based on its assessment, rescinding Rule 611 
+ 
+101  Rule 611(b)(4); 17 CFR 242.611(b)(4). 
+102  Rule 611(b)(7); 17 CFR 242.611(b)(7).  
+103  Rule 611(b)(9); 17 CFR 242.611(b)(9). In particular, Rule 611(b)(9) provides an exception for the 
+execution by a trading center of an order for which, at the time of receipt of the order, the trading center had 
+guaranteed an execution at no worse than a specified price (a “stopped order”), where:  (i) the stopped order 
+was for the account of a customer; (ii) the customer agreed to the specified price on an order-by-order 
+basis; and (iii) the price of the trade-through transaction was, for a stopped buy order, lower than the 
+national best bid in the NMS stock at the time of execution or, for a stopped sell order, higher than the 
+national best offer in the NMS stock at the time of execution. Id. 
+104  See Securities Exchange Act Release No. 54389 (Aug. 31, 2006), 71 FR 52829 (Sept. 7, 2006), as modified 
+by Securities Exchange Act Release No. 57620 (Apr. 4, 2008), 73 FR 19271 (Apr. 9, 2008) (exemptive 
+order for “qualified contingent trades”); Securities Exchange Act Release No. 54678 (Oct. 31, 2006), 71 FR 
+65018 (Nov. 6, 2006) (exemptive order for certain sub-penny trade-throughs); Securities Exchange Act 
+Release No. 55884 (June 8, 2007), 72 FR 32926 (June 14, 2007) (exemptive order for certain error 
+correction transactions); Securities Exchange Act Release No. 55883 (June 8, 2007), 72 FR 32927 (June 14, 
+2007) (exemptive order for certain print protection transactions); Securities Exchange Act Release No. 
+57621 (Apr. 4, 2008), 73 FR 19270 (Apr. 9, 2008) (exemptive order for non-convertible preferred 
+securities). 
+105  See, e.g., supra notes 47-67 and accompanying text (discussing TTR Roundtables). 
+106  See infra section VI.
+
+28 
+ 
+and its trade-through restrictions may be appropriate and beneficial for the national market 
+system and, in particular, our equity markets. As discussed in more detail below, Rule 611 has 
+contributed to a myriad of consequences that have resulted in costs to market participants. In 
+addition, equity markets have significantly evolved since 2005 such that the trade-through 
+prohibition in Rule 611 may no longer be needed in our current equity markets because of 
+advancements in technologies, particularly with respect to access and order handling and 
+routing.107 Also, best execution obligations should continue to ensure brokers use reasonable 
+diligence to secure the most favorable terms for customer orders.108 Moreover, removing the 
+trade-through prohibition of Rule 611 would allow market participants greater freedom in order 
+handling execution and routing decisions, which could promote competition and foster 
+innovation among trading centers and executing brokers.  
+In general, our equity markets are well served by allowing competition, innovation, and 
+other market forces, rather than prescriptive requirements on market participants, to shape their 
+continued evolution to the greatest extent possible. If Rule 611 were to be rescinded, U.S. equity 
+markets may benefit from reduced costs associated with the reduction in market structure 
+complexity and fragmentation, and competition, innovation, and other market forces would no 
+longer be constrained by the restrictions of Rule 611.109 Today’s trading environment is highly 
+competitive, interconnected, and automated, which was not the case when the Commission 
+adopted Rule 611. Rule 611 therefore is unnecessary given that the Commission’s concern 
+expressed at the time of adoption of Rule 611 regarding the lack of mechanisms to connect 
+markets is no longer relevant. Rule 611 also is not needed as a backstop to best execution given 
+ 
+107  See infra section II.B.3.a. 
+108  See infra section II.B.3.b. 
+109  See infra section VI.C.1.
+
+29 
+ 
+today’s highly automated, interconnected and competitive equity markets, where retail investors 
+have widely available access to market data and execution quality information, and a broker’s 
+duty to provide best execution would apply regardless.110  
+Accordingly, the Commission believes that rescission of Rule 611 would be in the public 
+interest and appropriate for the protection of investors and the maintenance of fair and orderly 
+markets in that removing Rule 611 may, in furtherance of the goals of section 11A of the 
+Exchange Act,111 allow for more economically efficient executions of securities transactions, the 
+execution of investor orders in the best market, and remove impediments to competition.112 
+ 
+The goal of the changes proposed in this rulemaking is to strengthen our national market 
+system and, in furtherance of section 11A of the Exchange Act,113 to allow for more 
+economically efficient executions of securities transactions, and to remove impediments to 
+competition,114 in order to help ensure that the U.S. remains the preeminent securities market in 
+the world, where issuers, investors, and other market participants look to entrust their companies, 
+savings, and capital. When the Commission adopted Regulation NMS in 2005, the U.S. equity 
+markets were undergoing significant changes with respect to technology, trading, and 
+competition. At this time of still-emerging and still-evolving technologies, the Commission 
+adopted Regulation NMS, which set forth a uniform trade-through rule, in order to address 
+inefficiencies in the equity market structure that existed at the time. Rule 611 resulted in market 
+ 
+110  See Order Execution Obligations Adopting Release at 48323-24.  
+111  Exchange Act section 11A(a)(1)(C); 15 U.S.C. 78k-1(a)(1)(C). 
+112  See id. See also supra notes 1-2 and accompanying text (discussing section 11A). 
+113  Exchange Act section 11A(a)(1)(C); 15 U.S.C. 78k-1(a)(1)(C). 
+114  See supra notes 1-2 (discussing section 11A). See also section VI.D.1.a. (discussing the Commission’s 
+Economic Analysis regarding the benefits of rescinding Rule 611).
+
+30 
+ 
+participants needing, as a practical matter, to connect, directly or indirectly, to all markets with 
+protected quotations.115 Moreover, Rule 611 led to market participants focusing particularly on 
+price and speed with respect to executing trades, as described further in sections II.B.2. and 
+II.B.3 below. While this may be beneficial to the execution quality of retail orders, the overall 
+execution quality for large institutional orders may be negatively affected.116 Moreover, Rule 
+611’s restriction on trading through protected quotations may have had the effect of incentivizing 
+exchanges to adopt a particular trading protocol (i.e., price-time matching), thereby reducing 
+innovation in exchange trading models and limiting competition among exchanges.117 
+Markets are now once again undergoing a period of significant technological change.118 
+U.S. equity markets are highly competitive and resilient, and they should, whenever possible, be 
+allowed to develop on their own. The Commission’s involvement should be focused on those 
+areas where its regulatory reach can improve their functioning.119 Thus, core to the 
+Commission’s proposal to rescind Rule 611 is that, where appropriate, market forces should 
+shape U.S. equity market structure. By proposing to remove the regulatory restrictions contained 
+in Rule 611, the Commission seeks to simplify the regulation and structure of our equity markets 
+rather than continue to impose requirements and costs that are no longer necessary, and thus 
+empower market participants to compete on merit and innovation—whether through service, 
+price, technology, costs, or a combination thereof. The Commission believes that removing such 
+ 
+115  See infra note 121 and accompanying text (discussing the practical need for market participants to connect 
+to all markets). 
+116  See infra section VI.B.2.a. (discussing economic effects on large institutional orders). 
+117  See infra section VI.B.4. 
+118  See, e.g., supra notes 42-45 and accompanying text (discussing the rapidly changing technology in today’s 
+markets). 
+119  See Horses and Bourses: Remarks at the 12th Annual Conference on Financial Market Regulation, by 
+Commissioner Hester M. Peirce (May 16, 2025), available at https://www.sec.gov/newsroom/speeches-
+statements/peirce-remarks-financial-market-regulation-051625.
+
+31 
+ 
+restrictions could foster innovation in trading protocols and venue design and increase 
+competition among trading centers and executing brokers.120 
+ 
+ 
+Rule 611 and its numerous exceptions and exemptions have been at the core of the 
+complexity in our equity market structure since the adoption of Regulation NMS in 2005. The 
+prohibition against trade-throughs effectively requires market participants to connect or have 
+routing capability to all exchanges and to monitor quotes and route orders to exchanges that they 
+otherwise might choose not to do business with.
+121 This complexity may be particularly 
+impactful for institutional and larger-sized orders where requirements may result in executions 
+across multiple venues with varying fee structures and latencies, potentially leading to worse 
+overall execution quality than alternative approaches.122 
+In addition, since the adoption of Rule 611, there has been a proliferation of order types 
+offered by exchanges.123 Many of these order types were developed in response to Rule 611 and 
+other Regulation NMS-related requirements and are now commonplace among equity 
+ 
+120  See infra section VI.D.1. 
+121  Rule 611 does not mandate that trading centers connect to all trading centers with protected quotes, or even 
+that they have routing capabilities to reach such trading centers. Trading centers can operate without any 
+routing capabilities so long as they abide by the trade-through restrictions of Rule 611 (i.e., that, absent an 
+exception under Rule 611(b), they not trade-through protected quotes at away markets); however, the 
+practical effect of the rule for many market participants has been that they have routing capabilities to reach 
+all trading centers with protected quotes, directly or indirectly. Trade-Through Roundtable Supporting 
+Data, by Staff of the Office of Analytics and Research, Division of Trading and Markets (Sept. 9, 2025, 
+revised Sept. 12, 2025) (“121 Analysis”), available at https://www.sec.gov/files/trade-through-roundtable-
+supporting-data.pdf. 
+122  See Jane Street Letter at 2. See also infra section VI. 
+123  See Robinhood Letter at 4 (citing “Complaints Rise Over Complex U.S. Stock Orders,” by Herbert Lash, 
+Reuters (Oct. 19, 2012)).
+
+32 
+ 
+exchanges.124 These order types include but are not limited to ISOs and “price to comply” orders 
+and variations thereof.125 When such order types are combined or interact with other similarly 
+complex order types offered by trading venues, the resulting mix of combinations and 
+permutations that need to be considered increases the complexity faced by market participants.126 
+In addition, many order types themselves have one or more modifiers, which can add even more 
+market structure complexity,127 which may increase costs to market participants.128 Moreover, 
+this complexity and the costs associated therewith may provide an advantage to more 
+ 
+124  Some commenters have stated that this increase in order types stems directly from Rule 611 and related 
+Regulation NMS market structure requirements (such as Rule 610(e)’s prohibition on locking and crossing 
+markets), and that such order types have been developed to enable market participants to take advantage of 
+the complexities. See Nasdaq Letter I at 1-2 (citing EMSAC Market Structure Memo, supra note 46). See 
+also First TTR Roundtable Transcript at 230 (Matt Billings, Robinhood), at 78-80 (Maureen O’Hara, 
+Cornell University, SC Johnson Graduate School of Management), at 168 (Matt Mackenzie, Optiver), at 
+169 (Armando Diaz, PureStream); Robinhood Letter at 4; Healthy Markets Letter I at 9. One commenter 
+stated that certain order types are “not designed to enhance execution quality but to comply with display 
+rules while maintaining [SIP] visibility…” See FIA PTG Paper at 4. See also First TTR Roundtable 
+Transcript at 165-66 (Hubert De Jesus, BlackRock). See also First TTR Roundtable Transcript at 169 
+(Armando Diaz, PureStream) (noting that “the overwhelming majority of volume” on an exchange was 
+using order types “that are meant to suppress or sidestep 611”), at 168 (Matt Mackenzie, Optiver). 
+125  ISO order types are designed to allow market participants to avail themselves of the ISO exceptions under 
+Rules 611(b)(5) through (6); 17 CFR 242.611(b)(5) through (6). “Price to comply” orders and variations 
+thereof seek to automatically adjust an order’s price to avoid locking or crossing markets. See, e.g.,  Nasdaq 
+Rule 4702(b)(1). See also supra note 29 and accompanying text and section II.A.2. (discussing the ISO 
+exceptions and order types) and infra section III.B.3. (discussing complexities associated with Rule 
+610(e)). 
+126  See, e.g., First TTR Roundtable Transcript at 167 (Adam Nunes, Hudson River) (“[O]ne of the things that 
+adds a great deal of complexity is that you have features to do one thing sitting on top of features to do 
+another thing, and the combinations of those can get quite extreme.”) ; O’Brien Letter at 6-7 (discussing 
+complexity attributable to Rule 611); Robinhood Letter at 4 (stating that “[t]here has also been an 
+exponential increase in the number and complexity of order types offered by exchanges, with one source 
+estimating that exchanges offer 2,000 variations of order types”). 
+127  See, e.g., Trading Talk – An In-Depth Look at Exchange Order Types, Rosenblatt Securities Inc. (June 26, 
+2013) (“Rosenblatt Order Type Report”); No Order Type Conspiracy, Rosenblatt Study Says, by Editorial 
+Staff, Traders Magazine (July 5, 2013) (discussing findings of Rosenblatt Order Type Report, including that 
+“the proliferation of order types had indeed added to the complexities of the marketplace and that 
+‘undoubtedly creates opportunities for the savviest market participants.’”). 
+128  See infra section VI.C.1. (discussing estimated cost savings due to reduced complexity if Rule 611 is 
+rescinded). Some commenters stated that this complexity also increases risks to market IT infrastructure 
+and systems. See, e.g., O’Brien Letter at 7. See also Robinhood Letter at 5; FIA PTG Paper at 4. One 
+commenter stated that Rule 611’s rigid requirements make the equity markets more “brittle” because of all 
+the complexity they add. First TTR Roundtable Transcript at 291 (Cameron Smith, Texas Stock Exchange).
+
+33 
+ 
+sophisticated market participants, such as high-tech algorithmic traders with expansive data and 
+processing capacities who are more capable of managing increased complexity.129  
+In addition to this equity market structure complexity, Rule 611’s trade-through 
+prohibition has contributed to an environment where speed has become the primary competitive 
+advantage, allowing fast algorithms to capture price discrepancies.130 As discussed below, Rule 
+611 has contributed to the fragmentation of displayed liquidity across numerous order books.131 
+This in turn creates latency arbitrage opportunities and has incentivized massive investment in 
+low-latency infrastructure to gain a speed advantage over competitors, resulting in the rise of 
+high-frequency traders (“HFTs”).132 In today’s equity markets, participants are locked in a 
+technology and latency arms race for speed,133 and the Commission believes that Rule 611 has 
+contributed to this. 
+The Commission believes that rescinding Rule 611 would reduce the complexity in our 
+equity market structure that has occurred since its adoption in 2005, which would in turn reduce 
+costs for market participants and foster innovation and competition. 
+ 
+129  See infra section VI.B.3.  
+130  See First TTR Roundtable Transcript at 72-73 (Dave Lauer, Urvin Finance and We the Investors) (citing 
+Rule 611 as a factor driving the “speed race”), at 218 (Vlad Khandros, One Chronos) (stating Rule 611 is 
+exacerbating the “latency arms race”). See also Data Boiler Comment at 2 (stating that the trading 
+community is in a “low-latency arms race”). 
+131  See infra section II.B.2.b. 
+132  See letter from Benjamin L. Schiffrin, Director of Securities Policy, Better Markets, Inc. (Sept. 18, 2025) 
+(“Better Markets Letter”). This commenter states that HFTs pay the exchanges fees for high-speed 
+proprietary data feeds, fees for market data, and fees for having their computers “co- located” in the 
+exchanges’ data centers. Id. at 3.  
+133  See, e.g., First TTR Roundtable Transcript at 56-57 (Pankil Patel, Bank of America) (discussing a “more 
+sophisticated technology arms race”), 218 (Vlad Khandros, OneChronos) (stating that there is a “latency 
+arms race”), 219 (Jon Herrick, New York Stock Exchange) (discussing “the technological arms race that 
+we’re faced with”).
+
+34 
+ 
+ 
+Rule 611’s trade-through restrictions have contributed to greater fragmentation in the 
+U.S. equity markets. Rule 611 effectively lowered barriers to entry for exchanges by giving all 
+exchanges, no matter their trading volume or other competitive distinctions, an opportunity to 
+display a protected quotation, and thus avail themselves of guaranteed market data and 
+connectivity revenue as market participants are effectively required to connect, directly or 
+indirectly, to their markets. As a result, Rule 611 and Regulation NMS have contributed to the 
+proliferation of exchanges in our equity markets.134 To be clear, the Commission welcomes 
+competition and believes that exchanges that introduce innovations to our markets, such as 
+providing new ways to trade, can benefit the national market system overall. However, the 
+Commission believes that Rule 611 has distorted incentives in the U.S. equity markets by 
+providing new exchanges with protected quotation status at their inception, essentially 
+guaranteeing that market participants must connect to them and subscribe to their market data 
+feeds,
+135 and this has led to a proliferation of exchanges.  
+This proliferation of exchanges has increased fragmentation of trading on equity 
+exchanges, spreading market share across the increasing number of exchanges, resulting in a 
+ 
+134  See, e.g., O’Brien Letter at 5; Robinhood Letter at 3-4; FIA PTG Paper at 3-4; First TTR Roundtable 
+Transcript at 181-82 (Hubert De Jesus, BlackRock). See also infra section II.B.2.b. (discussing exchange 
+proliferation). 
+135  As one commenter stated, “[a]ll a new venue needs to do is post a quotation and the entire market must 
+connect to its infrastructure, code to its systems and re-shape its trading algorithms to accommodate it.” See 
+O’Brien at 5. See also FIA PTG Letter at 4; Robinhood Letter at 4 (stating that six exchanges account for 
+approximately 80% of the volume traded on all exchanges while 10 exchanges individually account for less 
+than a 2% market share); First TTR Roundtable Transcript at 49, 72-73 (Dave Lauer, Urvin Finance and We 
+the Investors) (stating that most of the additional exchanges have been “copycat” exchanges), at 288- 89 
+(Mehmet Kinak, T.Rowe Price) (stating that the additional exchanges have not offered anything to 
+differentiate themselves from existing exchanges), at 277 (Daniel Gerhardstein, FIA Principal Traders 
+Group and Jump Trading Group) (stating that “Rule 611 creates artificial incentives for the establishment of 
+new exchanges” and that “[a]chieving the protected quote status provides exchanges with guaranteed 
+revenue through the forced connectivity, market data, and access fees, without regard to new value 
+delivered to market participants”).
+
+35 
+ 
+dispersal of liquidity.136 This dispersal of displayed liquidity across numerous exchange order 
+books increases routing complexity and potentially thins size at each exchange’s best 
+quotations.137 This fragmentation is particularly impactful for large and institutional orders 
+because, as the fragmentation of displayed liquidity increases, institutional child orders face 
+more venues with small top-of-book sizes, which raises the complexity and cost of routing to 
+meet the requirements of Rule 611. This greater dispersion across exchanges can make 
+institutional trading intentions easier to detect, which can increase slippage and hurt the overall 
+execution quality of the parent order.138  
+Moreover, with the increase in the number of U.S. equity exchanges, costs for market 
+participants have increased due to the need to connect to trading centers with protected quotes, 
+maintain such connections and routing capabilities thereto, and subscribe to their market data 
+feeds.139 These costs include incurring connection, routing, and market data fees to certain 
+ 
+136  See, e.g., Better Markets Letter at 1-2; FIA PTG Paper at 2 (stating that during the first half of 2025, no 
+exchange had more than 20% market share based on notional volume and 9 exchanges had market share of 
+less than 1%, and that the primary listing exchanges had a combined market share of less than 30% over the 
+first half of 2025 (citing Cboe Exchange Inc, Historical Market Data V olume, available at 
+https://www.cboe.com/us/equities/market_statistics/historical_market_volume/)). See also infra section 
+II.B.2.b. (discussing exchange proliferation and fragmentation of displayed liquidity). 
+137  See infra section VI.B.2.c. 
+138  See infra section VI.B.2. 
+139  See, e.g., O’Brien Letter at 6-7; Robinhood Letter at 3-5; FIA PTG Paper at 1 (stating that major firms 
+spend millions annually on market data and connectivity fees to all U.S. exchanges) , 3. See also Jane Street 
+at 2 (stating that these types of costs were a “regulated subsidy for venue proliferation, as new exchanges 
+can effectively mandate that certain market participants purchase their connectivity and market data 
+services”); First TTR Roundtable Transcript at 51, 70-71 (Joe Mecane, Citadel), at 56-58 (Pankil Patel, 
+Bank of America) (discussing increased costs for infrastructure, colocation/connectivity, and market data), 
+at 48, 72-73 (Dave Lauer, Urvin Finance and We the Investors), at 232-233, 277 (Daniel Gerhardstein, FIA 
+Principal Traders Group and Jump Trading Group) (stating that “[a]chieving the protected quote status 
+provides exchanges with guaranteed revenue through forced connectivity, market data, and access fees, 
+without regard to new value delivered to market participants”), at 246 (Vlad Khandros, OneChronos). 
+Certain commenters have stated that some of the costs that emanate from Regulation NMS have come 
+down due to advances in technology and competition, particularly in areas relating to routing. See, e.g.,  
+First TTR Roundtable Transcript at 158 (Allison Bishop, Proof Trading), at 160 (Jeff Starr, Schwab). See 
+also First TTR Roundtable Transcript at 19-26 (Dan Mathisson, Commission, Division of Trading and 
+Markets, Office of Analytics and Research). The Commission acknowledges that certain costs may have
+
+36 
+ 
+exchanges that some participants feel may provide limited value, but that such participants must 
+nevertheless incur due to the requirements of Rule 611.140 In addition, market participants incur 
+costs to monitor for pre-trade and post-trade compliance with Rule 611, which costs increase 
+with the number of venues providing protected quotes.141 
+Without the requirements of Rule 611, market participants will no longer effectively be 
+required to connect, directly or indirectly, to every exchange, which should reduce the 
+connectivity, market data, routing, and compliance costs associated with such connections.142 In 
+turn, this may result in fewer new exchanges and potentially fewer existing exchanges, as the 
+exchange revenue streams currently associated with market data and connectivity fees would no 
+longer be guaranteed as they currently are. In addition, without the requirements of Rule 611, 
+market participants will have greater choice in determining which trading center provides the 
+ 
+come down, however, costs resulting from the trade-through prohibition in Rule 611 still remain high 
+because, in practice, Rule 611 results in market participants connecting to all protected markets, even if 
+indirectly through connectivity providers, and rescission of Rule 611 should result in reduced costs for 
+market participants.   
+140  One commenter stated that, according to its calculations, the increased costs to the industry as a whole for 
+connectivity, market data and options regulatory fees associated with small venues (i.e., for equities venues 
+with less than 2% market share and options venues with less than 4% market share) is approximately $375 
+million a year, which is about two thirds of the total revenue for those 21 venues. See First TTR Roundtable 
+Transcript at 51, 70-71 (Joe Mecane, Citadel Securities). This commenter, however, also stated that it did 
+not believe that eliminating the trade-through rule would impact that cost significantly for a variety of 
+reasons, including because firms are already connected to such venues and because firms’ best execution 
+obligations would make it difficult to simply disconnect from a venue to save costs. See id . 
+141  See, e.g., Robinhood Letter at 5; J. Angel Letter; First TTR Roundtable Transcript at 90 (Julie Andress, 
+Securities Traders Association and KeyBanc Capital Markets) (discussing trade-through compliance). 
+142  See infra section VI.C.1. One commenter estimated that the fixed costs of connecting to U.S. equity 
+exchanges are 350 percent greater than the average connection costs of the top ten markets that its firm 
+trades in globally. First TTR Roundtable Transcript at 232-33 (Daniel Gerhardstein, FIA Principal Traders 
+Group and Jump Trading Group). Another commenter estimated its costs associated with onboarding new 
+exchanges and connectivity maintenance costs to be $1.5 million for onboarding and $200,000 annually for 
+maintenance. First TTR Roundtable Transcript at 68-69 (Pankil Patel, Bank of America) (stating that, with 
+respect to onboarding a new exchange, the costs for his firm were estimated to be approximately $1.5 
+million and included not just connectivity and market data, but costs associated with integration into the 
+firm’s ecosystem, such as “third party sourcing, procurement, technology, testing, hardware, CAD 
+integration, [and] billing” and that ongoing maintenance costs were estimated at approximately $200,000 
+per year, and included continued connectivity costs, maintaining upgrades, and ensuring surveillanc e 
+systems were up-to-date, among other things).
+
+37 
+ 
+best market for execution of their orders given their investment objectives. Among other things, 
+if the Commission were to rescind Rule 611, market participants would have more flexibility to 
+send their orders to trading centers that have a consistently higher volume of order flow, more 
+reliable speed of execution, or lower adverse selection costs, if they are not constrained by 
+requirements to first route to execute against any protected quotation. Fragmentation may be 
+reduced as broker-dealers concentrate their orders on more liquid trading centers with better 
+execution quality. In turn, trading centers would have more flexibility to innovate and compete 
+for order flow on factors other than price and speed. And rescinding Rule 611 would allow 
+institutional investors more flexibility to route child orders, thereby allowing them to avoid 
+trading at exchanges that may increase their information leakage and reducing slippage.
+143 
+Accordingly, rescinding Rule 611 could lead to reduced exchange fragmentation, enable 
+competition and innovation among trading venues, reduce costs, and remove unnecessary 
+regulatory requirements that may advantage some market participants over others in today’s 
+equity markets. 
+ 
+ 
+When the Commission adopted Rule 611 and Regulation NMS, one of its goals was to 
+seek the proper balance between competition among markets and competition among orders, and 
+the Commission stated that investors “must be assured that they are participants in a system 
+which maximizes the opportunities for the most willing seller to meet the most willing buyer.”144 
+The Commission expressed concern regarding market fragmentation and the absence of 
+ 
+143  See infra section VI.C.1. 
+144  See NMS Adopting Release at 37499 (quoting H.R. Rep. 94–123, 94th Cong., 1st Sess. 50 (1975)).
+
+38 
+ 
+mechanisms and linkages “designed to assure that public investors are able to obtain the best 
+price for securities regardless of the type or physical location of the market upon which his 
+transaction may be executed.”145 Following the adoption of Regulation NMS in 2005, including 
+Rule 611 and its trade-through protections, market participants moved quickly towards 
+electronification of trading and invested in intermarket linkages and routing technologies for the 
+equity markets.146 One commenter stated that Rule 611 “helped spur investment in interlinkages 
+between venues as routing technology was developing, and best execution practices were less 
+sophisticated” and “served almost as ‘training wheels’ for the national market system, providing 
+clear, objective standards for order routing processes.”
+147 While it is possible that such changes 
+would have occurred in our equity markets without the intervention of Regulation NMS and 
+some have argued that it would have been preferable to allow the markets to evolve and develop 
+such technology and processes more naturally through competitive forces,148 the adoption of 
+Rule 611’s requirements and Regulation NMS generally did push the U.S. equity markets toward 
+automation and away from the inefficiencies that existed previously.149 Currently, the U.S. 
+equity markets are highly automated and interconnected and the Commission’s concern 
+expressed at the time of Regulation NMS’s adoption in 2005 regarding the lack of mechanisms 
+to connect markets is no longer an issue. Today’s market participants have quick, electronic 
+access to the markets and state-of-the-art routing technology is widely available for those 
+ 
+145  See id. at 37499, n.13. 
+146  See J. Angel Letter at 11-13. 
+147  Jane Street Letter at 2. 
+148  See, e.g., Robinhood Letter at 2. See also Chairman Remarks at First TTR Roundtable.  
+149  See, e.g., First TTR Roundtable Transcript at 62 (Katie Kolchin, SIFMA) (referring to the Intermarket 
+Trading System that previously linked various stock exchanges); O’Brien Letter at 3 and Robinhood Letter 
+at 3 (linking NYSE’s adoption of electronic quoting and trading to the status automated quotations under 
+Rule 611).
+
+39 
+ 
+seeking it.150 Liquidity providers now routinely provide enhanced execution results that surpass 
+any minimum benefits of Rule 611, such as through price improvement relative to the national 
+best bid and offer and the execution of orders at midpoint prices.151 The Commission believes 
+that these execution quality benefits are not dependent on Rule 611, but instead are due to the 
+intense competition among liquidity providers and the availability of execution quality 
+benchmarks and data,152 which will continue even if Rule 611 were to be rescinded. 
+The widely-available and fast routing capabilities and linkages in today’s equity markets 
+contrast with the period before the adoption of Regulation NMS, when exchanges and market 
+participants were not as well connected and many linkages that did exist were relatively slow.153 
+Because of the advances in these technologies and the competition among liquidity providers 
+since Regulation NMS’s adoption in 2005,154 Rule 611 is no longer necessary to address the 
+Commission’s concerns in 2005. As discussed above, while Rule 611 may have served a 
+historical function, it also has resulted in adverse consequences in the equity markets.155 As 
+technological advancements have changed how the U.S. securities markets operate since the 
+ 
+150  See First TTR Roundtable Transcript at 21-23 (Dan Mathisson, Commission, Division of Trading and 
+Markets, Office of Analytics and Research) (discussing the Division of Trading and Market’s analysis that 
+showed that an overwhelming majority of firms outsource some or all of their routing and fewer than 20 
+firms directly connect to/trade on every exchange). While fewer than 20 firms have such direct 
+connections, the practical effect of Rule 611 for nearly all trading centers has been that they incur costs for 
+routing capabilities to reach all trading centers with protected quotes, whether directly or indirectly through 
+a connectivity provider. See also supra notes 121 and 139-140 and accompanying text (costs of connecting 
+to trading centers with protected quotes). 
+151  See Jane Street Letter at 2. 
+152  See, e.g., Rule 605 of Regulation NMS, 17 CFR 242.605 (requiring certain reporting entities to publicly 
+disclose order execution quality statistics). 
+153  See NMS Adopting Release at 37538-59 (describing linkages in 2005 for exchange-listed stocks through 
+the Intermarket Trading System, or “ITS”, Plan, with “receiving markets generally having up to 30 seconds 
+to respond”). 
+154  See, e.g., J. Angel Letter at 12-13; O’Brien Letter at 5; Jane Street Letter at 2; First TTR Roundtable 
+Transcript at 62-64 (Katie Kolchin, SIFMA), at 216, 234 (Mehmet Kinak, T. Rowe Price). 
+155  See supra section II.B.2. (discussing market structure complexity, exchange proliferation and 
+fragmentation, and costs to market participants).
+
+40 
+ 
+adoption of Regulation NMS, to remain effective, the Commission must continuously monitor 
+the market environment and, as appropriate, adjust and modernize our rules, regulations, and 
+oversight tools and activities. At this point, Rule 611 is unnecessary to the functioning of our 
+equity markets, and the continued maintenance of the rule may inhibit innovation and the 
+development of new technologies, products, and services that could enhance competition in the 
+U.S. equity markets to the benefit of investors.156  
+ 
+When adopted, Rule 611 was “designed to assure that public investors are able to obtain 
+the best price for securities” given the absence of robust intermarket linkages at the time.157 The 
+Commission was concerned that investors “often may have difficulty monitoring whether their 
+orders receive the best available prices.”158 The Commission stated that “furthering the interests 
+of these investors in obtaining best execution on an order-by-order basis is a vitally important 
+objective that warrants adoption of [Rule 611.]”159 The Commission further stated, in adopting 
+Rule 611, that Rule 611 “will backstop a broker’s duty of best execution on an order-by-order 
+basis by prohibiting the practice of executing orders at inferior prices, absent an applicable 
+exception.”
+160  
+ 
+156  See also IntelligentCross Letter at 3 (“The elimination of the trade-through prohibitions would . . . foster a 
+more competitive playing field among lit venues, and more easily facilitate the introduction of innovation 
+to the displayed markets.”); Duoro Labs Paper (describing generally how the crypto market has evolved 
+and innovated in the absence of prescriptive regulatory requirements and stating that, because of 
+prescriptive rules like the trade-through rule, the equity markets “have not embraced mechanisms such as 
+intents-based trading, automated market makers, decentralized price oracles, or atomic cross -domain 
+settlement, which all emerged naturally in crypto”).  
+157  See NMS Adopting Release at 37499, n.13. 
+158  Id. at 37511. 
+159  Id.  
+160  Id. at 37516.
+
+41 
+ 
+A broker-dealer has a legal duty to seek best execution of customer orders.161 The duty of 
+best execution predates the Federal securities laws and is derived from an implied representation 
+that a broker-dealer makes to its customers.162 The duty of best execution is incorporated into 
+SRO rules and, through judicial and Commission decisions, the antifraud provisions of the 
+Federal securities laws.163 This obligation requires that a “broker-dealer seek to obtain for its 
+customer orders the most favorable terms reasonably available under the circumstances.”164 In 
+other words, broker-dealers should execute trades “at the best reasonably available price.”165 
+And, as the Commission has recognized, price is a critical concern for investors.166 In addition, 
+the Commission has described a non-exhaustive list of factors that may be relevant to broker-
+dealers’ best execution analysis. These factors include the size of the order,167 speed of 
+execution, clearing costs, the trading characteristics of the security involved, the availability of 
+ 
+161  See, e.g., Newton v. Merrill, Lynch, Pierce, Fenner & Smith, Inc., 135 F.3d 266, 269-70, 274 (3d Cir.), cert. 
+denied, 525 U.S. 811 (1998). 
+162  See id. 135 F.3d at 270.   
+163  See supra note 73. 
+164  See id. (noting that a broker-dealer’s duty of best execution requires the execution of customer trades at the 
+best reasonably available price, recognizing several terms in addition to price as relevant to best execution, 
+and stating that a broker-dealer must also take into account order size, trading characteristics of the security, 
+speed of execution, clearing costs, and the cost and difficulty of executing an order in a particular market) . 
+See also id. (citing Order Execution Obligations Adopting Release). 
+165  Reg NMS Adopting Release at 37538. 
+166  See Securities Exchange Act Release No. 43590 (Nov. 17, 2000), 65 FR 75414, 75418 (Dec. 1, 2000) 
+(“Order Execution and Routing Practice Release”) (“The Commission strongly believes, however, that 
+most investors care a great deal about the quality of prices at which their orders are executed, and that an 
+opportunity for more vigorous competition among market participants to provide the best quality of 
+execution will enhance the efficiency of the national market system.”). 
+167  It is the Commission’s understanding that when an institutional customer gives a large order to be executed 
+on behalf of one account (e.g., a single mutual fund or pension fund), it expects the broker -dealer that 
+handles and executes such large order to do so in a manner that ensures best execution is provided to the 
+“parent” order. In other words, to the extent that a parent order is split into smaller “child” orders, the 
+institutional customer expects the best execution analysis to evaluate whether the pa rent order was executed 
+at the most favorable price possible under prevailing market conditions according to customer instructions. 
+See, e.g., Concept Release on Equity Market Structure at 3604-3605 (measuring the transaction costs of 
+institutional investors “can be extremely complex” because their “large orders often are broken up into 
+smaller child orders and executed in a series of transactions” and “[m]etrics that apply to small order 
+executions may miss how well or poorly the large order traded overall.”).
+
+42 
+ 
+accurate information affecting choices as to the most favorable market center for execution and 
+the availability of technological aids to process such information, and the cost and difficulty 
+associated with achieving an execution in a particular market center.
+168 FINRA Rule 5310 
+requires broker-dealers to use reasonable diligence to ascertain the best market for a security 
+such that the price the customer receives is as favorable as possible under the prevailing market 
+conditions.169  
+As noted above, to comply with their best execution obligations, firms must consider a 
+number of factors when handling and executing a customer’s order, which should include the 
+best price.170 When adopting Rule 611, the Commission made clear the duty of best execution 
+requires broker-dealers to “periodically assess the quality of competing markets to assure that 
+order flow is directed to the markets providing the most beneficial terms for their customer 
+orders.”171 And, broker-dealers “must examine their procedures for seeking to obtain best 
+execution in light of market and technology changes and modify those practices if necessary to 
+enable their customers to obtain the best reasonably available prices.”
+172  
+Rule 611 is no longer needed to backstop a broker’s duty of best execution given the 
+evolution of U.S. equity markets since 2005. Since the adoption of Rule 611, U.S. equity markets 
+have become highly automated and interconnected, and routing technologies have become 
+increasingly sophisticated, resulting in increasingly accessible prices for investors. In addition, 
+ 
+168  See Order Execution and Routing Practice Release at 75418. 
+169  See supra note 73.  
+170  See id.; FINRA Rule 5310. Some have been critical of Rule 611 with respect to best execution, because its 
+focus on displayed price did not take into account other factors that may be important to clients. See, e.g.,  
+FIA PTG Paper at 2-3. See also Prepared Remarks of Paul S. Atkins at the SEC Investor Advisory 
+Committee, by Paul Atkins (June 10, 2021), available at https://patomak.com/2021/06/10/prepared-
+remarks-of-paul-s-atkins-at-the-sec-investor-advisory-committee-june-10-2021/. 
+171  Regulation NMS Adopting Release at 37538. 
+172  Id.; see also Order Execution Obligations Adopting Release at 48322-23.
+
+43 
+ 
+since 2005, retail investor participation in the equity markets has significantly increased,173 as 
+has investor access to market data and execution quality information.174 Given the evolution of 
+the U.S. equity markets since 2005 and the widely available access to liquidity, market data, and 
+execution quality information, the concern the Commission had in 2005, that Rule 611 was 
+beneficial as a backstop to best execution because of investors’ difficulty monitoring whether 
+their orders receive the best available prices and the absence of robust intermarket linkages, is no 
+longer applicable.175 Moreover, a broker’s duty to seek to obtain for its customer orders the most 
+favorable terms reasonably available under the circumstances will continue to apply regardless of 
+whether Rule 611 is rescinded. And a firm’s commercial and competitive incentives should 
+result in the firm routing orders to execute against the best price at an away market when 
+consistent with the duty of best execution (rather than being required to do so by Rule 611).176 
+ 
+173  See, e.g., Caitlin McCabe, “New Army of Individual Investors Flexes Its Muscle,” The Wall Street Journal 
+(Dec. 30, 2020), available at https://www.wsj.com/articles/new-army-of-individual-investors-flexes-its-
+muscle-11609329600.  
+174  See, e.g., Rule 605 Amendments Adopting Release at section IX.C. (discussing the availability of certain 
+information to, and how that information is used by, various types of market participants); Charles M. 
+Jones, Understanding the Market for U.S. Equity Market Data (Aug.31, 2018), available at 
+https://www.sec.gov/comments/4-729/4729-4545881-176154.pdf at 3-8 (discussing available equity market 
+data products and their uses). See also Robinhood Letter at 7 (stating that “[u]nlike any other moment in 
+history, retail investors today have easy access to tools and platforms, educational resources, real-time 
+market data and investment analytics”). 
+175 As further discussed in section VI.C.2. infra, retail brokers route most of their customers’ marketable 
+orders to off-exchange wholesalers, who usually internalize the order (i.e., execute the order in a principal 
+capacity). As a consequence, most marketable retail orders do not directly interact with protected quotes. 
+The majority of marketable retail orders are instead internalized off-exchange. 
+176  See First TTR Roundtable Transcript at 26-29 (Arun Manoharan, Commission, Division of Trading and 
+Markets, Office of Analytics and Research) (discussing analysis of trade-through rates during the second 
+quarter of 2025, including that trade-through rates during periods when Rule 611’s requirements did not 
+apply (such as for odd-lot trades and pre- and after-market trading sessions) remained relatively low, at 
+2.4% or less); OAR Roundtable Analysis. See also infra section VI.C.1.c. (discussing analysis of trade-
+throughs of odd-lot quotes inside the NBBO for high-priced stocks, showing trade-through rates of 1-5% 
+for trades that occur on exchange and trade-through rates of 11-19% for trades that occur off-exchange and 
+are larger than one share).
+
+44 
+ 
+For the reasons discussed above, the Commission proposes to rescind Rule 611 in its 
+entirety. 
+C. Request for Comment 
+The Commission generally requests comment from the public on the proposed rescission 
+of Rule 611. More specific requests for comment are set forth below. Responses supported by 
+empirical data are particularly helpful.  
+1. Do commenters agree with the Commission’s proposed rescission of Rule 611? Why 
+or why not? Are there benefits to maintaining Rule 611? 
+2. If Rule 611 is rescinded, should any other rules (of Regulation NMS or otherwise) be 
+modified or rescinded in addition to what the Commission is proposing herein?  
+3. Rather than rescinding Rule 611, should the Commission instead modify Rule 611? If 
+so, please be specific and describe how Rule 611 should be modified. What 
+advantages or disadvantages are there to such a modification in comparison to the 
+proposed rescission? Please also describe how such a modification would address the 
+adverse consequences the Commission has identified in section II.B.2. 
+4. Would the rescission of Rule 611 affect investor confidence? Why or why not? If it 
+were to decrease investor confidence, how could that effect be mitigated?  
+5. Given best execution obligations and the current level of automation and 
+interconnectedness of the U.S. equity markets, is Rule 611 still needed? Will a 
+broker-dealer’s processes to fulfill its best execution obligations be affected by 
+rescission of Rule 611? What steps should be taken by the Commission and/or SROs 
+with respect to best execution if the Commission were to rescind Rule 611? Is there a 
+need for additional best execution guidance concerning retail order handling?
+
+45 
+ 
+Institutional order handling? If so, what should that guidance include and should that 
+guidance be principles-based or more prescriptive? 
+6. What impact has Rule 611 had on complexity in the equity markets, including but not 
+limited to order types, exchange proliferation, and fragmentation? Will rescinding 
+Rule 611 reduce the complexity in our equity market structure that has occurred since 
+its adoption in 2005? Will rescinding Rule 611 reduce fragmentation of liquidity in 
+the equity markets? Will rescinding Rule 611 reduce costs on market participants? If 
+so, which costs and by how much?  
+7. What impacts have market technologies, including those relating to routing and 
+connectivity, had on Rule 611? Have market technologies advanced to such a degree 
+that Rule 611 is no longer needed? Why or why not? 
+8. Are the concerns regarding equity market structure that the Commission expressed 
+when it adopted Rule 611 still relevant? Is Rule 611 necessary to the current 
+functioning of our equity markets? Would the continued maintenance of Rule 611 
+inhibit innovation and the development of new technologies?  
+9. What is the impact of Rule 611 on the number of equity exchanges? What would be 
+the impact of the rescission of Rule 611 on the number of equity exchanges? Would 
+rescission of Rule 611 result in fewer or more equity exchanges? Why or why not?  
+10. What is the impact of Rule 611 on displayed liquidity? Would the rescission of Rule 
+611 result in more displayed liquidity, or instead more non-displayed liquidity? Why 
+or why not? What steps, if any, should be taken to bolster displayed liquidity if Rule 
+611 were to be rescinded? How would the availability of displayed liquidity and the 
+quality of the NBBO be impacted by the rescission of Rule 611?
+
+46 
+ 
+11. What steps (if any) would broker dealers, exchanges, and other market participants 
+need to take to implement a rescission of Rule 611? Are there any implementation 
+concerns if the Commission were to rescind Rule 611? For example, if Rule 611 is 
+rescinded how long should the implementation period be? Should implementation be 
+done in phases or tranches (and if yes, please be specific to describe what should be 
+phased and when)? Should the timing for implementation be tied to the timing for 
+implementation rescission of Rule 610(e), if applicable? If so, in what way? 
+12. Are there any NMS Plan amendments that would be necessary or desirable if Rule 
+611 is rescinded? If so, which ones, why, and in what way? 
+13. Are there any amendments to SRO rules that would be necessary or desirable if Rule 
+611 is rescinded? If so, which ones, why, and in what way? 
+III. Rule 610(e) 
+As discussed above,
+177 the adoption of Regulation NMS included the adoption of Rule 
+610, often referred to as the “Access Rule.” Broadly, Rule 610 was designed to promote fair and 
+non-discriminatory access to quotations displayed by NMS trading centers through a private 
+linkage approach for all NMS stocks.
+178 As originally adopted, Rule 610 primarily addressed: 
+(1) the means of access to quotations; (2) the fees for accessing protected quotations and any 
+other quotations that are the best bid or offer of a national securities exchange or national 
+securities association; and (3) locking and crossing quotations.179  
+In conjunction with the proposed rescission of Rule 611, the Commission is also 
+proposing to rescind paragraph (e) of Rule 610, which sets forth restrictions on locking and 
+ 
+177  See supra section I. 
+178  NMS Adopting Release at 37497. 
+179  Id. at 37539.
+
+47 
+ 
+crossing quotations. Advancements in the marketplace, including increased automation and 
+interconnectivity, that have occurred since the time the rule was adopted may have rendered the 
+rule no longer necessary. In addition, rescinding Rule 610(e) could reduce unnecessary 
+complexity in the U.S. equity markets stemming from the rule’s requirements. Recission of Rule 
+610(e) would also facilitate the benefits of the rescission of the trade-through prohibition in Rule 
+611. The Commission is also proposing conforming changes to Rule 610(c) to reflect the 
+proposed rescission of Rule 611 and the elimination of the concept of “protected quotations,” as 
+discussed in section IV.B. below. 
+A. Description of Rule 610(e)  
+Rule 610(e) of Regulation NMS addresses the locking and crossing of quotations.180 
+Specifically, Rule 610(e) requires each national securities exchange and national securities 
+association to establish, maintain, and enforce written rules that: (1) require their members to 
+reasonably avoid displaying quotations
+181 that lock or cross any protected quotation in an NMS 
+stock, and displaying manual quotations182 that lock or cross any quotation in an NMS stock 
+disseminated pursuant to an effective NMS Plan;183 (2) are reasonably designed to assure the 
+reconciliation of locked and crossed quotations in an NMS stock;184 and (3) prohibit their 
+members from engaging in a pattern or practice of displaying quotations that lock or cross any 
+ 
+180  See supra note 32 (explaining locking and crossing quotations). The other paragraphs of Rule 610, broadly 
+relating to access, are described generally in section I. supra note 31 and accompanying text.  
+181  As with respect to Rule 611, by its terms, Rule 610(e) only applies to round lots, as a result of the definition 
+of “quotation.” See supra note 25.  
+182  Rule 600(b)(54) provides that a “manual quotation” means “any quotation other than an automated 
+quotation.” 17 CFR 242.600(b)(54). 
+183  Rule 610(e)(1); 17 CFR 242.610(e)(1). In this regard, the rule distinguishes between protected automated 
+quotations and manual quotations. 
+184  Rule 610(e)(2); 17 CFR 242.610(e)(2). For example, the Commission stated that an SRO’s rules must 
+require the market participant responsible for displaying the locking or crossing quotation to take 
+reasonable action to resolve the locked or crossed market. NMS Adopting Release at 37550.
+
+48 
+ 
+protected quotation in an NMS stock, or from displaying manual quotations that lock or cross 
+any quotation in an NMS stock disseminated pursuant to an effective NMS Plan, other than 
+displaying quotations that lock or cross any protected or other quotation as permitted by an 
+exception contained in its rules established pursuant to Rule 610(e)(1).
+185 The rule does not 
+prohibit trading centers from displaying automated quotations that lock or cross the manual 
+quotations of other trading centers.
+186 Of note, Rule 610(e) also does not itself impose 
+prohibitions on the locking and crossing of markets, but rather requires SROs to establish, 
+maintain, and enforce rules that comply with the rule’s requirements. Throughout this discussion, 
+we refer to Rule 610(e)’s requirements generally as “locked and crossed market prohibitions.” 
+Adoption of Rule 610(e) was driven by concerns over the rise in the incidence of locked 
+and crossed markets at the time due to market fragmentation coupled with limitations on the 
+level of interconnectivity among markets.187 In addition, the economic incentives created by 
+access fee and liquidity rebate strategies at the time, as well as differences in the speed or 
+certainty of access among market centers, were believed to be contributing to the increase in the 
+frequency of locked markets.188 The Commission believed that the practice of displaying 
+ 
+185  Rule 610(e)(3); 17 CFR 242.610(e)(3). Rule 610(e)(3), together with the reasonable avoidance directive of 
+Rule 610(e)(1), was designed to recognize that locked and crossed markets may occur accidentally (such as 
+during updating of quoting), and that SRO rules could include “ship and post” procedures that would 
+require a member to first attempt to execute against a relevant displayed quotation while posting a 
+quotation that could lock or cross such a quotation. NMS Adopting Release at 37550. 
+186  NMS Adopting Release at 37503.  
+187  See NMS Proposing Release at 11154-56. In establishing the NMS, Congress stated that “market 
+fragmentation becomes of increasing concern in the absence of mechanisms designed to assure that public 
+investors are able to obtain the best price for securities regardless of the type or physical locat ions of the 
+market upon which his transaction may be executed.” NMS Adopting Release at 37499, n.13 and 
+accompanying text (citing H.R. Rep. 94–123, 94th Cong., 1st Sess. 50 (1975).  
+188  NMS Proposing Release at 11154-56. It was thought, for example, that market participants’ unwillingness 
+to pay the fee on the locked market, and preference to instead wait to receive the maker rebate, was a 
+contributor to locked markets. See id. at 11156-57. Additionally, some believed that electronic 
+communications network (“ECN”) access fees exacerbated locked markets and that certain ECNs 
+programmed their systems to lock the quote of other market participants automatically instead of routing to
+
+49 
+ 
+quotations that lock or cross previously displayed quotations was inconsistent with fair and 
+orderly markets and detracted from market efficiency.189 Moreover, the Commission believed 
+that reducing the instance of locked and crossed quotations would promote capital formation by 
+providing market participants a clear picture of the true trading interest in a stock.
+190  
+B. Proposed Rescission of Rule 610(e) 
+The Commission proposes to rescind Rule 610(e) in its entirety. Based on its assessment 
+of the national market system,191 the Commission believes that the rescission of Rule 610(e) 
+could benefit market participants by allowing for narrower spreads and improving price 
+discovery.192 Furthermore, rescinding Rule 610(e) should reduce the prevalence of certain order 
+types designed to automatically avoid displaying orders that lock or cross quotations thereby 
+reducing market complexity, as well as burdensome compliance costs. Additionally, the concerns 
+the Commission sought to address in 2005 with the adoption of Rule 610(e), namely concerns 
+about the level of automation and interconnectivity in the marketplace at that time, as well as the 
+potential for investor confusion when markets become locked or crossed, are no longer prevalent 
+in today’s trading environment. As such, rescission of Rule 610(e) would appear to be in the 
+public interest and appropriate for the protection of investors and the maintenance of fair and 
+ 
+the other quote to force the contra-party to be a liquidity taker and thereby collect the associated access fee 
+rebate for themselves. See id. at 11158.  
+189  NMS Adopting Release at 37547. In particular, the Commission stated that “an automated quotation is 
+entitled to protection from locking or crossing quotations” and that “[w]hen two market participants are 
+willing to trade at the same quoted price, giving priority to the first-displayed automated quotation will 
+encourage posting of quotations and contribute to fair and orderly markets .” Id. 
+190  NMS Adopting Release at 37596. For example, prior to the prohibition there could be an offer to sell at a 
+certain price displayed on one market at the same price as an offer to buy on another market , but the orders 
+could not meet because the two markets were not linked. As a result, some market centers at the time would 
+perceive the quotes to be stale. See NMS Proposing Release at 11155. 
+191  See supra note 46 and accompanying text. 
+192  See infra section VI.C.2.a. (discussing the potential for narrower spreads for some stocks, including the 
+possibility of a quoted spread of zero, which may, for some stocks, be closer to economic fundamentals).
+
+50 
+ 
+orderly markets in that removing the prohibitions on locked and crossed markets may allow for 
+more economically efficient executions of securities transactions, remove impediments to 
+competition, and improve the quality and availability of information with respect to trading 
+interest.193 Rescission of Rule 610(e) would also facilitate the benefits of rescinding Rule 611, 
+due to the connection between the two and the concept of “protected quotations.”194 
+ 
+Since the adoption of Regulation NMS, equity market structure has changed due, in part, 
+to the many technological advancements that have altered the speed and nature of trading.195 
+Computer-assisted trading tools are common and include smart order routing systems that are 
+designed to deal with the large number of trading centers in the fragmented U.S. equity market 
+structure. These tools also include trading systems with automated functionalities that enable 
+orders to be submitted to the marketplace in ways that are far beyond the manual capacities of a 
+human trader.196 As the Commission has previously recognized, the U.S. securities markets have 
+ 
+193  See supra note 2 (discussing section 11A); infra sections III.B.1., B.2. and B.3. (discussing, among other 
+things, the potential for more efficient price discovery and opportunities for competition if Rule 610(e) is 
+rescinded). 
+194  Some market participants expressed a similar view about the interconnectedness of the rules. See, e.g., 
+MEMX Letter at 17 (stating that the prohibition on locked and crossed markets is directly tied to trade -
+through protections); Nasdaq Letter I at 2-3 (stating that the prohibition against locked and crossed markets 
+would be impacted by rescinding Rule 611); First TTR Roundtable Transcript at 43-44 (Chris Isaacson, 
+Cboe Global Markets, Inc.), at 129-130 (Jonathan Kellner, MEMX), at 144 (Chris Nagy, Healthy Markets 
+Association). See also First TTR Roundtable Transcript at 166 (Adam Nunes, Hudson River) (stating that 
+Rule 611 and 610(e) are effectively the same rule “from an implementation and compliance standpoint”). 
+Others stated that removing the prohibitions on locked and crossed markets was necessary to get the full 
+benefit of rescinding the trade-through rule. See, e.g., Second TTR Roundtable Transcript, at 55-56 (Brett 
+Redfearn, Panorama Financial Markets Advisory) (stating, that if eliminating Rule 611, it does make sense 
+to eliminate the locked and crossed market provisions), at 58-59 (Oliver Sung, Cboe Global Markets) 
+(stating that it seems logical to remove the locked and crossed prohibition to get the full benefit of 611 
+removal). 
+195  Securities Exchange Act Release No. 99679 (Mar. 6, 2024), 89 FR 26428, 26429 (Apr. 15, 2024) (“Rule 
+605 Amendments Adopting Release”) (citing Securities Exchange Act Release No. 96493 (Dec. 14, 2022), 
+88 FR 3786 (Jan. 20, 2023) (Rule 605 Amendments Proposing Release) at 3787-88 (Jan. 20, 2023)).  
+196  “Equity Market Structure Literature Review Part II: High Frequency Trading Staff of the SEC Division of 
+Trading and Markets,” SEC, Mar. 14, 2014, available at 
+https://www.sec.gov/marketstructure/research/hft_lit_review_march_2014.pdf.
+
+51 
+ 
+become almost entirely electronic and highly dependent on sophisticated trading and other 
+technology, including complex and interconnected routing, market data, regulatory, surveillance 
+and other systems.
+197 At the same time, retail investor participation in the equity markets has 
+significantly increased,198 as has investor access to market data and execution quality 
+information.199 When the Commission proposed Rule 610(e), it recognized that, as automated 
+executions become more prevalent, there may be less reason to lock a displayed quote.200 Given 
+the evolution of the U.S. equity markets since 2005, Rule 610(e) may be no longer necessary and 
+the concerns it sought to address in 2005 may be no longer relevant. For example, increases in 
+market fragmentation at that time, and a lack of interconnectivity, resulted in a reduction in the 
+interaction between orders displayed in competing market centers; and there were greater 
+differences in speed among market centers than exist currently (i.e., there were more markets 
+that relied heavily on human traders to quote and trade, and which may not have adjusted their 
+quotations as quickly as automated markets).201 These kinds of inefficiencies are no longer 
+prevalent.202 While the equity markets continue to be highly fragmented, with the greater 
+ 
+197  Securities Exchange Act Release No. 73639 (Nov. 19, 2024), 79 FR 72252 (Dec. 5, 2014) (“Regulation SCI 
+Adopting Release”) at 72254. See also supra notes 146 and 150 and accompanying text (discussing 
+technological developments since the adoption of Regulation NMS). 
+198  See, e.g., Caitlin McCabe, “New Army of Individual Investors Flexes Its Muscle,” The Wall Street Journal 
+(Dec. 30, 2020), available at https://www.wsj.com/articles/new-army-of-individual-investors-flexes-its-
+muscle-11609329600.  
+199  See, e.g., Rule 605 Amendments Adopting Release at section IX.C. (discussing the availability of certain 
+information to, and how that information is used by, various types of market participants); Charles M. 
+Jones, Understanding the Market for U.S. Equity Market Data (Aug. 31, 2018), available at 
+https://www.sec.gov/comments/4-729/4729-4545881-176154.pdf at 3-8 (discussing available equity market 
+data products and their uses). See also Robinhood Letter at 7 (stating that “[u]nlike any other moment in 
+history, retail investors today have easy access to tools and platforms, educational resources, real-time 
+market data and investment analytics”). 
+200  NMS Proposing Release at 11159. 
+201  See, e.g., id. at 11159.  
+202  See, e.g., infra section VI.B.4.b. (discussing, among other things, the speed at which market participants are 
+able to react in today’s equity markets).
+
+52 
+ 
+automation and interconnectivity in today’s equity market structure, and increased access to 
+market data and execution quality information, market participants now have the tools necessary 
+to better navigate them. 
+In addition, the potential for investor confusion that could result from removing the 
+locked and crossed market prohibitions would be limited and, to the extent that it does occur 
+initially, would diminish over time as market participants adjust their behavior in response to the 
+new trading environment.203 Today’s investors have significantly greater access to market data, 
+execution quality information, and trading technologies,204 giving them the tools and market 
+information necessary to navigate the equity markets even when they are locked. Also, any 
+confusion from crossed markets should be mitigated by today’s routing technology, speed of 
+execution, and the resulting rate at which crossed markets are resolved.205 
+Additionally, eliminating restrictions on trading through protected quotations and 
+displaying orders that lock or cross quotations would provide broker-dealers greater freedom 
+when determining how to handle their customers’ orders, including where to route those orders 
+to achieve best execution.206 Among other things, if the Commission were to rescind the locked 
+ 
+203  See infra note 241 and accompanying text; section VI.C.2.b. (discussing investor confusion as a potential 
+cost associated with rescission of Rule 610(e)). Some commenters also stated that rescission of the crossed 
+markets prohibition could lead to investor confusion. See, e.g., Second TTR Roundtable Transcript at 64-65 
+(Dmitry Bulkin, Bernstein) (stating that retail brokers may need to take some time to educate their clients) , 
+at 65 (Mehmet Kinak, T. Rowe Price) (stating that self-directed or retail investors may not be confused by a 
+locked market, but that crossed markets could lead to some investor confusion). Other commenters did not 
+think that rescission would lead to investor confusion. See, e.g., First TTR Roundtable Transcript at 145-
+147 (Adam Nunes, Hudson River).   
+204  See supra note 199 and accompanying text.  
+205  See, e.g., Phil Mackintosh and Eugenio Piazza, Locked, Crossed and Barrel (Dec. 11, 2025) (analyzing the 
+significance of locked and crossed markets to investors), available at 
+https://www.nasdaq.com/articles/locked-crossed-and-barrel; Second TTR Roundtable at 57 (Mehmet 
+Kinak, T. Rowe Price), at 59 (Oliver Sung, Cboe Global Markets) (stating that in a crossed market arbitrage 
+opportunities would clear out crosses quickly). 
+206  See supra section II.B.3.b.
+
+53 
+ 
+and crossed market prohibitions, and to the extent permitted by SRO rules,207 market participants 
+would have more flexibility to post their trading interest on trading centers that have a 
+consistently higher volume of order flow, more reliable speed of execution, or lower adverse 
+selection costs, if they are not constrained by requirements to first route to execute against any 
+locking contra-side interest. In turn, trading centers would have more flexibility to compete for 
+order flow.  
+ 
+Rescission of Rule 610(e) could also lead to improved price discovery and tighter spreads 
+and foster competition among trading venues, which could benefit investors. Specifically, 
+allowing locked markets could strengthen public price formation to the extent that locked 
+markets are a natural consequence of competitive quoting, and that disallowing locked markets 
+(as is the case currently) may arbitrarily widen spreads.208 Locked markets may be indicative of 
+fair and efficient markets, and allowing them could lead to more advantageous pricing and cost 
+savings for some investors.209 Additionally, a quotation that would qualify as a locking quotation 
+for purposes of the prohibition may in fact not be a locking quotation if one were to consider the 
+ 
+207  Under Rule 610(e), the Commission requires exchanges to have rules that prohibit locked a nd crossed 
+markets. As a result, if the Commission rescinds Rule 610(e), the exchanges would still have those rules 
+and would need to decide whether to eliminate them. See also infra note 224 
+208  See, e.g., Cboe Letter I at 4-5. (stating that locked markets are a natural consequence of competitive 
+quoting, provide optimal pricing for investors, and contribute to fair markets and that allowing locked 
+markets would narrow or, in some cases, eliminate spreads to the benefit of investors); Second TTR 
+Roundtable Transcript at 56-57 (Mehmet Kinak, T. Rowe Price) (stating that trading at the market is true 
+price discovery and has benefits: there is no spread, no adverse selection, no information leakage).   
+209 See infra section VI.C.2.a. (discussing the potential benefits of rescinding Rule 610(e), including the 
+potential for more advantageous pricing and a reduction in transaction costs for some stocks). See also 
+Cboe Letter II at 6. This commenter stated that that locked markets occur naturally when quoting is 
+competitive, are indicative of fair and efficient markets, and allowing them would lead to optimal pricing 
+and cost savings to investors. This commenter also stated that the artificially wide spreads resulting from 
+the prohibition on locked markets creates an opportunity for off-exchange venues to execute orders at better 
+prices between such spreads that would not otherwise exist. Id.
+
+54 
+ 
+price with fees.210 In this regard, the prohibition on display of locked quotations may be 
+preventing the display of trading interest that would not be considered locking interest based on 
+the net price (e.g., if the exchange fees associated with taking the locking offer would cause the 
+order’s effective price to be higher than its displayed price). 
+Moreover, allowing locked markets could foster competition between exchanges and 
+other trading centers.211 A significant portion of trading in NMS stocks has migrated off 
+exchange in recent years.212 The structure of the OTC market that permits the execution of orders 
+more readily in finer increments has been a factor that contributes to this result.213 Allowing 
+locked markets means that the NBBO spread may, in some cases, be tightened to zero. 
+Competition may drive OTC market makers to provide even better prices in the event of locked 
+markets than they otherwise would currently. Allowing locked markets could also remove an 
+impediment to competition in that market participants would have fewer restrictions on their 
+ 
+210  See NMS Proposing Release at 11159 (stating, at the time Rule 610(e) was proposed, that in addition to 
+accidental locks, which are often resolved quickly, quotes also may lock because one or both quotes have 
+an access fee attached, which increases the net price of trading with that quote, and creates an undisclosed 
+spread). Some market participants make a similar observation. See, e.g., Second TTR Roundtable 
+Transcript at 56-57 (Oliver Sung, Cboe Global Markets). See also FIA PTG Paper at 6 (stating that “[w]hile 
+we are likely to see more locked markets in the absence of a prohibition, these prices represent the true 
+state of supply and demand, accounting for the cost of access and other potential market frictions .”). 
+211  See infra sections VI.D.2.c. (discussing that rescission of Rule 610(e) may improve liquidity on exchanges 
+for some stocks) and VI.D.2.e. (discussing that improved efficiency and liquidity on exchanges could, in 
+turn, allow exchanges to better compete with off-exchange market makers for order flow). 
+212  See supra notes 39-41 and accompanying text.  
+213  See 2024 Regulation NMS Amendments at 81643. See also Securities Exchange Act Release No. 96494 
+(Dec. 14, 2022), 87 FR 80266 (Dec. 29, 2022) (proposing release for the 2024 Regulation NMS 
+Amendments) at 80273-74 (describing how the combination of the requirements of Rule 612 and 
+differences in the underlying regulatory framework for exchanges, ATSs, and OTC market makers gives 
+OTC market makers the ability to more readily trade in finer increments than exchanges and ATSs). In the 
+2024 Regulation NMS Amendments, the Commission stated that under Rule 612 as amended, the OTC 
+Markets would continue to be able to trade more readily in comparatively smaller increments than 
+exchanges and ATSs. As stated by one commenter, “the current prohibition on locked markets artificially 
+widens spreads, creating an opportunity for off-exchange venues to execute orders at better prices between 
+an artificially wide spread that would otherwise not exist.” Cboe Letter II at 6.
+
+55 
+ 
+selection of trading centers that best meet their trading objectives and trading centers could better 
+compete for order flow based more fully on the merits of their system.  
+In fact, when the Commission originally proposed Rule 610(e), the Commission 
+requested comment on the extent of the concerns arising from locked markets in particular, 
+recognizing that some market participants stated that locked quotes convey useful price 
+information, and that the ability to lock quotes enables markets to efficiently communicate their 
+trading interest.214 In addition, the Commission stated that the problem of apparent locked 
+markets resulting from quotes with access fees attached may be reduced by the adoption of other 
+access provisions of Regulation NMS.215 For example, the Commission stated that if quoting 
+market centers and quoting market participants have fair access to each other’s quotations, and 
+access fees are limited to de minimis levels, the economic incentives that currently encourage 
+locked markets may diminish.216 The Commission also recognized that as automated executions 
+become more prevalent, there may be less reason to lock a displayed quote,217 and specifically 
+requested comment on the necessity of adopting restrictions on locked markets in the light of its 
+proposed provisions governing intermarket access and access fees.
+218 As discussed, the equity 
+markets have become more automated and interconnected, diminishing the need for Rule 610(e). 
+Locked markets may occur naturally when quoting is competitive, and may represent 
+greater price transparency, fairer competition, and more efficient markets that provide optimal 
+ 
+214  See NMS Proposing Release at 11159. 
+215  Id. 
+216  Id.  
+217  Id. 
+218  Id.
+
+56 
+ 
+pricing for investors.219 Currently, even with the requirements of Rule 610(e), the NBBO may 
+appear locked or crossed for part of each trading day; however, such occurrences are rare.220 If 
+locked markets were allowed, the Commission believes that spreads could narrow to zero for 
+some securities, which could result in cost savings to investors.221   
+ 
+Rescinding Rule 610(e) could reduce both unnecessary complexity in the marketplace 
+and compliance costs. Notably, Rule 610(e) does not itself prohibit locked and crossed markets. 
+Rather, the rule requires SROs to establish, maintain, and enforce rules for their members that 
+require the avoidance of such behavior and the reconciliation of locked and crossed quotations, 
+and all 20 of the exchanges approved to trade NMS stocks and FINRA have adopted such 
+rules.222 These rules generally require members to avoid entering orders that would create a 
+locked or crossed market and, in some cases, mandate specific handling procedures for such 
+orders, as discussed further below.223 
+ 
+219  See infra section VI.C.2.a. (discussing that locked markets can be a natural consequence of competitive 
+quoting and that in certain circumstances the potential reduction in transaction costs from allowing locked 
+markets could be significant). 
+220  See infra section VI.B.3. See also Mackintosh and Piazza, supra note 205 (reporting that while the NBBO 
+may appear locked or crossed for part of each trading day, such occurrences are rare and more commonly 
+involve the appearance of a locked market, and providing data that shows the appearance of locked and 
+crossed markets happens much more frequently in lower-priced, tick-constrained stocks, and that locks and 
+crosses resolve quickly). Id. This data includes an analysis of S&P 500 stocks and shows that on average, 
+each stock is locked for around 2.5 seconds each day, and that markets are crossed far less – with an 
+average of just 4.2 milliseconds each day. According to this market participant, the current rules mostly 
+make the NBBO unlock “much faster than a human can blink” and they have evidence that market makers 
+and arbitrageurs act very quickly to uncross markets. Their data also shows that latency in both time to 
+report and dissemination of SIP data appearing to be major contributing factors. Id. 
+221  See infra section VI.C.2.a. See also supra note 209 and accompanying text.  
+222  See supra note 207.  
+223  See, e.g., NYSE Rule 7.37 (requiring, with certain exceptions, the exchange and its members to reasonably 
+avoid displaying, and prohibiting the exchange and its members from engaging in a pattern or practice of 
+displaying, any quotations that lock or cross the protected best bid or protected best offer); Nasdaq Rules 
+4702 and 4703 (providing order types and order attributes designed to prevent the locking or crossing of 
+protected quotations, as well as orders on the Nasdaq book); FINRA Rule 6240 (requiring FINRA
+
+57 
+ 
+The Commission believes that the requirements of Rule 610(e) have contributed to the 
+proliferation of order types and attributes that cause the orders to be repriced, displayed at a price 
+that does not represent the market participants’ true trading interest, or that otherwise prohibit the 
+acceptance of such orders, and which introduce complexity in the equity markets.224 Some of 
+these order types and attributes include re-pricing features that automatically adjust the order’s 
+displayed price to avoid locking or crossing quotations, such as “price-to-comply” and other re-
+pricing order types, and provide market participants with the ability to execute only on that 
+market, and in some instances only against later arriving interest in order to ensure that the 
+market participant entering such order will be the provider of liquidity.225 These repricing 
+ 
+members, with certain exceptions, to reasonably avoid displaying, and not engage in a pattern or practice of 
+displaying, any quotations that lock or cross a protected quotation, and any manual quotations that lock or 
+cross a quotation previously disseminated pursuant to an effective NMS Plan); Cboe BYX Rule 11.20(b) 
+(the BYX system shall not make available for dissemination, and BYX users shall reasonably avoid 
+displaying, and shall not engage in a pattern or practice of displaying, any quotations that lock or cross a 
+protected quotation, and any manual quotations that lock or cross a quotation previously disseminated 
+pursuant to an effective national market system plan).  
+224  Some market participants expressed a similar view. See, e.g., FIA PTG Paper at 4, 6 (citing the prohibition 
+on locked and crossed markets as a factor in the proliferation of complex order types, such as price -to-
+comply orders); First TTR Roundtable at 166-69 (Adam Nunes, Hudson River Trading; Matt Mackenzie, 
+Optiver) (discussing that a lot of the order types designed for compliance are related to the lock- cross 
+prohibitions), at 168-69 (Matt Mackenzie, Optiver) (stating that their firm uses approximately 50 complex 
+order types and that the firm has to develop strategies to use such orders); Second TTR Roundtable at 59-60 
+(Oliver Sung, Cboe Global Markets) (stating that currently it is necessary to have order  types to hide and 
+price slide orders that would otherwise lock the market and discussing, as an exchange operator, the 
+number of order types and mechanisms created to, for example, prevent locking the market ), at 60 (Kevin 
+Tyrrell, New York Stock Exchange) (stating that it, an exchange operator, would be able to get rid of a lot 
+of the order types that lead to investor confusion if Rule 610(e) were eliminated). See also infra sections 
+VI.B.3. (discussing the development of specialized order types to comply with the prohibition on locked 
+and crossed markets) and VI.C.2.a. (discussing potential benefits that could flow from elimination of such 
+order types). 
+225 See, e.g., Cboe BYX Rule 11.9(g)(1) Display-Price Sliding (allowing an order that, at the time of entry, 
+would create a violation of Rule 610 by locking or crossing a protected quotation of an external market, to 
+be ranked at the locking price in the BYX book and displayed at one minimum price variation below the 
+current NBB (for bids) or to one minimum price variation above the current NBO (for offers)) ; Nasdaq 
+Texas Rules 4702 (b)(1)(A), (2)(B), and (4)(A) (describing the characteristics of the exchange’s Price to 
+Comply Order, Price to Display Order, and Post-Only Order types, respectively, and their design for 
+compliance with Rule 610’s locked and crossed market prohibitions). See also Rosenblatt Order Type 
+Report at 10-36 (discussing various pricing mechanisms, including those that re-price to prevent locking or 
+crossing the market and to keep interest on an exchange’s order book). This report also states that the 
+behavior of order types like the Post Only order type creates actionable information that “isn’t inherently
+
+58 
+ 
+features may mask a market participant’s true trading interests by, among other things, resulting 
+in the display of the market participant’s order at a price lower (for a buy order) or higher (for a 
+sell order) than the price at which the market participant is willing to trade, primarily to avoid 
+locking or crossing the market. For these reasons, the Commission believes that rescission of 
+Rule 610(e) could allow more unconstrained competition among trading centers and among 
+orders, could provide greater price transparency, and would provide more freedom to market 
+participants to make trading and order handling decisions based on the unique characteristics of 
+their order flow.226 
+Importantly, rescission of Rule 610(e) would not create a requirement that SROs rescind 
+their rules designed to comply with Rule 610(e)’s current prohibitions. Rather, market forces and 
+consistency with the Exchange Act would dictate which rules and practices, if any, SROs and, as 
+applicable, other trading centers, would seek to rescind or modify.227 The Commission 
+anticipates, however, that most, if not all, SROs would seek to amend rules originally designed 
+for compliance with Rule 610(e). Recognizing that some of these rules are reliant upon defined 
+terms that the Commission is proposing to rescind from Regulation NMS (e.g., “protected 
+ 
+nefarious, but [that] a sophisticated trader can use to make a meal out of an investor who doesn’t have the 
+time, money or inclination to achieve an equal level of sophistication”). Id. 
+226  As discussed above in the context of the proposed rescission of Rule 611, market participants should be 
+more free to compete on merit, and not based on their ability to maneuver around regulatory strictures. See 
+supra section II.B.1. See also infra section VI.B.4.f. (discussing potential impact on market participants’ 
+routing strategies and interference costs resulting from Rule 610(e)) and section VI.C.2.a (discussing how 
+reduced complexity could reduce costs to broker-dealers associated with their order routing logic). 
+227  SROs would be required to file any proposed changes to their rules with the Commission  pursuant to 15 
+U.S.C. 78s(b) (section 19(b) of the Exchange Act) and the rules and regulations thereunder, and such 
+changes would be subject to public notice and comment, and, if applicable, Commission approval. NMS 
+Stock ATSs would be required to comply with the requirements of 17 CFR 242.304 (Rule 304 of 
+Regulation ATS) for any changes to their practices and amend their publicly available disclosures on Form 
+ATS-N, as applicable.
+
+59 
+ 
+quotation”),228 however, the Commission is requesting comment on whether such defined terms 
+should be retained or modified, even if Rules 611 and 610(e) are rescinded, as proposed.229 
+Additionally, the Commission believes that rescission of Rule 610(e) should eliminate 
+certain compliance costs associated with monitoring and preventing locked and crossed 
+markets.230 Depending on whether SROs modify their own rules to eliminate prohibitions on 
+locked and crossed markets, market participants may also be able to reduce their costs associated 
+with maintaining routing logic designed to avoid locking and crossing. Consistent with section 
+11A of the Exchange Act, removing unnecessary complexity and compliance costs could help to 
+remove impediments to competition and foster efficiency. The level of any reduction in 
+complexity or compliance costs would, however, be impacted by whether and how SROs 
+determine to modify their own rules. 
+ 
+The Commission recognizes that elimination of the crossed markets prohibition could 
+raise concerns over intentional crossing and market distortion in the absence of access fee caps231 
+ 
+228  See, e.g., Nasdaq Rulebook, Equity 2, section 5(e)(2)(A) (defining “protected quotation” as having the 
+meaning set forth in Rule 600(b) of Regulation NMS); Cboe BYX Rulebook, Chapter 1, Rule 1.5(t) 
+(defining “protected bid,” “protected offer,” and “protected quotation” to mirror the definitions in Rule 
+600(b)(81) of Regulation NMS); see also infra note 258. 
+229  See infra section I V. C .  
+230  See sections VI.B. and VI.C.2.a. (discussing, respectively, the costs of, and potential benefits of rescinding, 
+Rule 610(e), including the potential to reduce operating costs to exchanges related to compliance). See also 
+FIA PTG Paper at 6 (stating that rescinding Rule 610(e) would eliminate elaborate systems designed to 
+capture quote snapshots and satisfying intermarket sweep orders solely to demonstrate that a quote was not 
+locked, crossed or traded through); First TTR Roundtable Transcript at 171-173 (Adam Nunes, Hudson 
+River Trading) (discussing systems necessary to demonstrate compliance). 
+231  Rule 610(c) provides an access fee cap that applies to protected quotations for NMS stocks and also applies 
+to any other quotation of a trading center that is the best bid or offer of a national securities exchange  or 
+national securities association. Rule 610(c); 17 CFR 242.610(c). As discussed above, the rule was designed 
+to promote fair and non-discriminatory access to quotations displayed in the national market system, ensure 
+the fairness and accuracy of displayed quotations by establishing an outer limit on the cost of accessing 
+such quotations, and preclude trading centers that posted protected quotations from raising their fees in an 
+attempt to take improper advantage of the trade-through protections. See supra note 76 (citing 2024
+
+60 
+ 
+or net pricing, concerns that more illiquid symbols could remain crossed for significant periods 
+of time, and concerns regarding the calculation of execution quality and price improvement in a 
+crossed market.232 However, arbitrage opportunities associated with crossed markets would 
+likely cause them to be cleared quickly by market participants.233 Additionally, the Commission 
+believes access fee caps are significant in helping to maintain the economic incentive for such 
+arbitrage opportunities.234 
+ 
+Regulation NMS Amendments at 81643-44). Specifically, Rule 610(c) was designed to address the 
+potential distortions caused by substantial, disparate fees, and was not intended to reduce access fees; 
+rather, the fee limitation was designed to preclude individual trading centers from raising their fees 
+substantially in an attempt to take improper advantage of strengthened protection against trade -throughs 
+and the adoption of a private linkage regime. In particular, a purpose of the fee limitation was to address 
+“outlier” trading centers that otherwise might charge high fees and pass most of the fees through as rebates 
+to attract liquidity providers. It also was designed to preclude a trading center f rom charging high fees 
+selectively to competitors. NMS Adopting Release at 37544-45; see also supra notes 31 and 76 (discussing 
+amendments to Rule 610(c) adopted by the Commission in 2024, as well as the status of  such 
+amendments). As discussed below, while the Commission is not proposing to rescind Rule 610(c), the 
+Commission is proposing to amend the rule to remove the reference to “protected quotations” given the 
+proposed rescission of Rule 611 and related defined terms. See infra section I V.B. 
+232 A number of commenters expressed greater concern about removing the crossed market prohibition as 
+compared to the locked market prohibition and the increase in crossed markets that could result.  See, e.g., 
+Second TTR Roundtable Transcript at 57-59 (Mehmet Kinak, T. Rowe Price; Oliver Sung, Cboe Global 
+Markets). One commenter stated that if the crossed market restriction were removed, a net pricing model 
+would be needed so that people are not crossing the market intentionally. See Second TTR Roundtable 
+Transcript at 57-58 (Mehmet Kinak, T. Rowe Price). Under a “net pricing model,” the displayed quote 
+would reflect the “all-in” or ultimate execution price per share to the buyer or seller, inclusive of applicable 
+exchange fees and rebates. This commenter expressed concern that without access fee caps or net pricing, 
+the market would be distorted, which would cause market participants to be interested in crossing the 
+market. Id. Another commenter stated that without the crossed market prohibition, more illiquid symbols 
+could remain crossed all day because they are not traded much and no one is paying attention to them. See 
+Second TTR Roundtable Transcript at 58-59 (Oliver Sung, Cboe Global Markets). One commenter raised 
+concerns regarding the implications for market quality and stated that measuring quality of execution and 
+price improvement is clear for locked quotes but needs to be thought through for crossed quotes . Second 
+TTR Roundtable Transcript at 64-65 (Dmitry Bulkin, Bernstein) (questioning how to measure quality of 
+execution for retail in the case of crossed quotes but stating that it is easy to measure price improvement in 
+the case of locked quotes). 
+233 See infra section VI.B.3. (discussing the temporary profit opportunities from locked and crossed markets). 
+Commenters also stated that in a crossed market, arbitrage opportunities would clear out crosses quickly. 
+See Second TTR Roundtable at 57 (Mehmet Kinak, T. Rowe Price), and 59 (Oliver Sung, Cboe Global 
+Markets). See also First TTR Roundtable Transcript at 145 (Adam Nunes, Hudson River); supra note 220. 
+234  Some commenters expressed consistent views. See, e.g., Second TTR Roundtable at 55-56 (Brett Redfearn, 
+Panorama Financial Markets Advisory) (supporting rescission of Rule 611 and 610(e), but stating that 
+without the access fee caps there would be too many locked and crossed markets and the NBBO would be 
+further degraded), and at 57 (Mehmet Kinak, T. Rowe Price) (stating support for eliminating locked
+
+61 
+ 
+In adopting Rule 610(e) the Commission recognized not only that markets occasionally 
+lock or cross, but that locked and crossed markets may reflect market inefficiencies.235 Locked 
+markets, however, may also reflect the existence of a market participant that is not truly willing 
+to trade at the displayed locking price, but instead chooses to post interest at the locking price to 
+receive a liquidity rebate.236 And the access fee caps were designed, in part, to address the 
+potential distortions caused by substantial, disparate fees.237 With the access fee caps, there is a 
+natural market incentive to resolve a crossed market in the form of the arbitrage opportunity for 
+the liquidity taker, in that a liquidity taker could buy (sell) at the lower offer (higher bid) and sell 
+(buy) at the higher bid (lower offer), locking in a risk-free profit. Without such caps, fees and 
+ 
+markets but expressing concern that if there were no access fee caps, and no net pricing, the true market 
+could become distorted, which may cause market participants to intentionally cross the market). As 
+discussed herein, while the Commission is not proposing to eliminate or modify Rule 610(c) at this time, 
+the Commission welcomes comment on this topic, including specifically in the context of the interplay 
+between the access fee caps and the proposed recession of Rules 611 and 610(e). 
+235  NMS Adopting Release at 37547. The Commission has also stated that “[w]hen the NBBO is crossed for a 
+significant period of time, it raises serious questions regarding whether the quotes continue to provide a 
+reliable benchmark for the statistical measures included in Rule 605.” Securities Exchange Act Release No. 
+105136 (Apr. 1, 2026), 91 FR 17313, at 17317 (Apr. 6, 2026) (Order Granting Limited Exemption Pursuant 
+to Rule 605(b) of Regulation NMS Under the Securities Exchange Act of 1934 from Rule 605 and 
+Modifying and Rescinding Certain Exemptions Granted Pursuant to Rule 605 of Regulation NMS) (“2026 
+Rule 605(b) Exemption”). The Commission has also outlined procedures for reporting entities to follow 
+during locked and crossed markets, including when orders should be excluded entirely in the event of a 
+persistent crossed market. See 2026 Rule 605(b) Exemption at 17317. See also Frequently Asked 
+Questions: Rule 605 of Regulation NMS (Apr. 1, 2026) available at https://www.sec.gov/rules-
+regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-rule-
+605-regulation-nms (“Rule 605 FAQs”). The new Rule 605 FAQs will become effective on August 1, 2026, 
+and the responses therein will supersede and replace the previous staff guidance regarding then Rule 
+11Ac1-5 and Rule 605. See id. Similar to the prior guidance, A19 of the new Rule 605 FAQs recognizes 
+that if the NBBO is crossed for a significant period of time, it raises serious questions  whether the quotes 
+continue to provide a reliable benchmark for the statistical measures in Rule 605, and the Commission has 
+therefore exempted all orders from the Rule that would require reference to an NBBO that has been crossed 
+for 30 seconds or more (citing the 2026 Rule 605(b) Exemption at section II.A.). A19 also provides 
+procedures for market centers, brokers, or dealers to follow under such circumstances and in light of the 
+exemption. The responses to questions, and any other Commission staff statements, represent the views of 
+the staff. They are not a rule, regulation, or statement of the Commission. Furthermore, the Commission 
+has neither approved nor disapproved their content. These staff statements, like all staff statements, have no 
+legal force or effect: they do not alter or amend applicable law; and they create no new or additional 
+obligations for any person. 
+236  NMS Adopting Release at 37547. 
+237  See supra note 231.
+
+62 
+ 
+rebates could become so large as to negate the arbitrage opportunity, which would disincentivize 
+market participants from clearing a crossed market.238 
+The Commission believes that the access fee caps should serve to mitigate the risk that 
+fees and rebates could become so large as to negate the arbitrage opportunity, and that the 
+potential overall reductions in costs and complexity in the marketplace from rescinding Rule 
+610(e) would mitigate any negative impacts of allowing crossed markets. Specifically, the access 
+fee caps should create an opportunity for arbitrage in a crossed market. Given the minimum 
+pricing increments for NMS stocks
+239 and the caps on the level of access fees,240 there would be 
+potential net profit from rapidly resolving the cross (i.e., the fees could never exceed the 
+difference between the crossed bid and ask prices); and the Commission believes that the speed 
+of trading technology in today’s equity markets and the economic incentives for arbitrage when a 
+market is crossed will help to ensure that crossed markets will continue to be infrequent and 
+quickly resolved.  
+The Commission also believes that to the extent crossed markets do occur and resolve 
+quickly due to market forces, the potential for investor confusion is minimal and would be 
+mitigated by the changes in technology, access to market data and investor sophistication 
+discussed above in section III.B.1., and that the potential for investor confusion among less 
+sophisticated investors would likely diminish over time as market participants adjust to the new 
+trading environment and adapt their behaviors accordingly.241 Additionally, SROs would have 
+ 
+238  Commenters also identified this potential risk. See, e.g., Second TTR Roundtable Transcript at 55-59 
+(discussion of access fees in the context of crossed markets). 
+239  See Rule 612 (establishing the minimum pricing increment for NMS stocks); supra note 31. 
+240  See Rule 610(c) (providing limitations on the fees to access certain quotations); supra note 31. See also 
+infra section I V.B.2. (discussing proposed conforming amendments to Rule 610(c)). 
+241  See infra section VI.C.2.b. (discussing investor confusion as a potential cost associated with rescission of 
+Rule 610(e)).
+
+63 
+ 
+the flexibility to determine whether to retain their own rules originally designed to comply with 
+the requirements of Rule 610(e) relating to the avoidance of crossed markets.  
+C. Request for Comment 
+The Commission generally requests comment from the public on the proposed rescission 
+of Rule 610(e), including its relation to the proposed rescission of Rule 611. More specific 
+requests for comment are set forth below. Responses supported by empirical data are particularly 
+helpful. 
+14. Is Rule 610(e) necessary in today’s equity markets? Are any of the concerns the 
+Commission identified when adopting Rule 610(e) still relevant? Should the 
+Commission maintain any of the requirements of Rule 610(e) rather than rescind the 
+entire rule? For example, should prohibitions on the display of crossed markets be 
+maintained? Why or why not? Are there different concerns for liquid and illiquid 
+securities that the Commission should consider? Should SROs continue to be required 
+to have rules designed to assure the reconciliation of locked or crossed quotations in 
+an NMS stock? Why or why not?  
+15. Would the availability of liquidity and the quality of the NBBO be impacted by the 
+rescission of Rule 610(e)? If so, how, and how might any such impact be mitigated? 
+16. Would the rescission of Rule 610(e) lead to investor confusion regarding the status of 
+displayed quotations or whether displayed quotations accurately represent available 
+trading interest? Why or why not? Would the possibility of crossed markets result in 
+the potential for investor confusion? Why or why not, and if yes, how could the 
+potential for such confusion be mitigated? Do investors have access to the tools and 
+market information necessary to understand and navigate equity markets when they 
+are locked or crossed? Why or why not?
+
+64 
+ 
+17. If Rule 610(e) is rescinded, would there be an increase in frequency or duration of 
+locked or crossed markets? Would locked or crossed markets, when they do occur, 
+resolve quickly? Why or why not? Are there particular concerns associated with 
+crossed markets for symbols that have certain characteristics, such as more illiquid 
+symbols? Why or why not, and if yes, how could such concerns be mitigated?  
+18. How would the rescission of Rule 610(e) impact execution quality metrics? For 
+example, do commenters have particular concerns regarding the potential impact on 
+their average execution performance statistics, or concerns regarding how to calculate 
+certain metrics for purposes of Rule 605 Reports that are not addressed by 
+Commission staff responses to Frequently Asked Questions or related exemption?
+242 
+If so, what are the concerns and why? How could these concerns be addressed?  
+19. What are the benefits to allowing the display of locked markets? Would allowing the 
+display of locked markets lead to zero spreads and lower transaction costs for some 
+stocks? Would it otherwise allow market participants to more accurately display their 
+trading interests? If so, how? If not, why not? Are there additional impacts on the 
+quality of markets that would result from the display of locked markets? For example, 
+how would competition between trading centers be impacted? Would rescission of 
+Rule 610(e) impact competition between exchanges and other trading centers, such as 
+ATSs? If so, how? 
+20. How might a broker-dealer’s processes to fulfill its best execution obligations be 
+affected by the rescission of Rule 610(e)? 
+ 
+242  See infra note 235.
+
+65 
+ 
+21.  Would rescinding Rule 610(e) reduce complexity? Why or why not? If so, how? 
+Have the requirements of Rule 610(e) contributed to the proliferation of order types? 
+Are such order types useful in the absence of Rule 610(e)? Why or why not? Do such 
+order types obscure market participant’s true trading interests? If so. How? 
+22. If trading centers were to eliminate order types and modifiers that are currently 
+designed to facilitate compliance with Rule 610(e), would other complexities 
+emerge? If so, what kinds of complexities and why? How would they impact market 
+structure and investors? 
+23. Would rescission of Rule 610(e) reduce costs for market participants? If so, what 
+costs would be reduced and by how much? 
+24. Would rescission of Rule 610(e), when taken together with the rescission of Rule 
+611, result in more displayed liquidity, or instead more non-displayed liquidity? Why 
+or why not? 
+25. Because SROs would not be required to rescind rules relating to locked and crossed 
+market prohibitions, would SROs continue to provide existing orders and modifiers, 
+as well as other rules to prevent the locking and crossing of quotations internally or 
+more broadly? Why or why not? Are there certain related rules that SROs would 
+retain? If so, which ones and why?  
+26. Are there any implementation concerns if the Commission were to rescind Rule 
+610(e)? For example, if Rule 610(e) is rescinded how far out from the date of 
+rescission should the implementation date be? Should implementation be done in 
+phases or tranches (and if yes, please be specific to describe what should be phased
+
+66 
+ 
+and when)? Should the timing for implementation be tied to the timing for 
+implementation rescission of Rule 611, if applicable? If so, in what way? 
+27. Are there any NMS Plan amendments that would be needed if Rule 610(e) is 
+rescinded? If so, which ones, why, and in what way? 
+28. Would rescission of Rule 610(e)’s prohibitions result in improved price transparency 
+and/or tighter spreads? Why or why not? Would market participants’ ability to pursue 
+their unique trading interests and strategies be improved? Why or why not? If so, 
+how? Would rescission of Rule 610(e)’s prohibitions permit greater competition 
+among orders and/or trading venues? Why or why not? If so, how? 
+IV. Conforming Amendments to Regulation NMS Definitions and Related Rules  
+A. Description 
+Rule 600(b) sets forth the defined terms used in Regulation NMS. Some of the defined 
+terms in Rule 600(b) outline the scope of obligations under, and exceptions to, Rules 611 and 
+610(e) and do not relate to any other provision of Regulation NMS. Such terms would no longer 
+be necessary to maintain in Rule 600(b) if Rules 611 and 610(e) are rescinded as proposed.  
+In addition, certain Regulation NMS rules and other Commission rules cross-reference 
+Rule 611 or Rule 610(e) and/or use terms defined in Rule 600(b) that solely relate to Rules 611 
+and 610(e). Such other Commission rules must be amended if Rules 611, 610(e), and related 
+definitions in Rule 600(b) are rescinded. 
+B. Proposed Rescissions and Amendments to Related Rules 
+ 
+In conjunction with the recommended rescission of Rules 611 and 610(e), the 
+Commission proposes to rescind certain defined terms in Rule 600(b) that relate to Rules 611
+
+67 
+ 
+and 610(e) and would no longer be necessary to maintain in Regulation NMS if such rules are 
+rescinded.243 First, the Commission proposes to rescind Rule 600(b)(105), which defines the 
+term “trade-through.”244 This defined term identifies the scope of the activity that is restricted 
+pursuant to Rule 611.245 If Rule 611 is rescinded, this definition is no longer necessary to retain 
+in Regulation NMS.246  
+Next, the Commission proposes to rescind Rule 600(b)(81), which defines the term 
+“protected bid or protected offer,” and Rule 600(b)(82), which defines the term “protected 
+quotation.”247 These terms identify the scope of quotations that are protected by Rule 611 and set 
+forth a category of quotations that are subject to the locked and crossed market prohibitions 
+pursuant to Rule 610(e).248 If Rules 611 and 610(e) are rescinded, these definitions are no longer 
+necessary to retain in Regulation NMS.249 
+The Commission proposes to rescind Rule 600(b)(54), which defines the term “manual 
+quotations.”250 This term is used in Rule 610(e) to set forth the scope of certain locking and 
+ 
+243  Several commenters indicated changes to Rule 611 should be accompanied by consideration of appropriate 
+changes to defined terms. See, e.g., Second TTR Roundtable at 78-82 (Valerie Bogard, Rosenblatt 
+Securities; Jeff Brown, Texas Stock Exchange; Bill Harts, Long Term Stock Exchange).  
+244  See supra note 85 and accompanying text. 
+245  See supra section II.A. 
+246  The term “trade-through” is also used in Rule 600(b)(89), which defines the term “regulatory data.” The 
+Commission is proposing to amend the definition of “regulatory data”  to eliminate references to “trade-
+through.” See infra notes 261-266 and accompanying text. 
+247  See supra note 82. 
+248  See supra sections II.A. and III.A. These terms are also currently used in the definitions of “trade-through” 
+and “intermarket sweep order,” which definitions are being proposed to be rescinded. See supra note 244 
+and infra note 255 and accompanying text.  
+249  The term “protected quotation” is also currently used in Rule 610(c), which sets forth a cap on access fees 
+imposed by trading centers. The terms “protected bid” and “protected offer” are also currently used in 
+Rules 600(b)(26) and 600(b)(72), which define the terms “core data” and “order size benchmark,” 
+respectively. The Commission is proposing to amend such rules to eliminate references to the terms 
+“protected quotation,” “protected bid,” and “protected offer.” See infra section I V. B .2. 
+250  See supra note 182 and accompanying text.
+
+68 
+ 
+crossing behavior prohibited by the rule.251 If Rule 610(e) is rescinded, this definition is no 
+longer necessary to retain in Regulation NMS.252 
+The Commission also proposes to rescind Rules 600(b)(6) and (7), which define the 
+terms “automated quotation” and “automated trading center,” respectively.253 These terms are 
+themselves used in Rule 600(b) to define the terms “manual quotation,” “protected bid,” and 
+“protected offer.” The Commission is proposing to rescind the defined terms “manual 
+quotation,” “protected bid,” and “protected offer.”254 As a result, the definitions of “automated 
+quotation” and “automated trading center” are no longer necessary to retain in Regulation NMS. 
+Finally, the Commission proposes to rescind Rule 600(b)(47), which defines the term 
+“intermarket sweep order.”255 This term is used to provide an exception to the requirements of 
+Rule 611.256 If Rule 611 is rescinded, this defined term is no longer necessary to retain in 
+Regulation NMS.257  
+Some of the terms proposed to be rescinded in Regulation NMS, including “protected 
+quotation,” “automated quotation,” “manual quotation,” and “intermarket sweep order,” are used 
+in exchange and FINRA rules that were adopted pursuant to the requirements of Rules 611 and 
+ 
+251  See supra section III.A. 
+252  The term “manual quotation” is also currently used to define the term “automated trading center” in Rule 
+600(b)(7). This term is being proposed to be rescinded. See infra note 253 and accompanying text.  
+253  See supra notes 87-88. 
+254  See supra notes 247 and 252 and accompanying text.  
+255  See supra note 93.  
+256  See supra section II.A.2. This term also is used by exchanges and national securities associations (i.e., 
+FINRA) to provide an exception to their prohibitions against locked and crossed markets. See , e.g., FINRA 
+Rule 6240 and NYSE Rule 7.37, which each provide an exception to the locking and crossing prohibition if 
+the member displaying the locking or crossing quotation simultaneously routed an intermarket sweep order 
+to execute against the full displayed size of the locked or crossed quotation.  As discussed below, the 
+Commission believes that, if Rule 610(e) is rescinded, most, if not all, SROs would seek to amend their 
+rules originally designed for compliance with Rule 610(e). See infra notes 258-259 and accompanying text.  
+257  In order to avoid unnecessary confusion throughout the remainder of Regulation NMS, the Commission 
+proposes to insert the word “Reserved” in the place of all defined terms proposed to be rescinded.
+
+69 
+ 
+610(e).258 The Commission believes that, if Rules 611 and 610(e) are rescinded, most, if not all, 
+SROs would seek to amend their rules originally designed for compliance with Rules 611 and 
+610(e), including related defined terms. However, the Commission is requesting comment on 
+whether there is a reason that such defined terms should be retained or modified, even if Rules 
+611 and 610(e) are rescinded, as proposed.259 
+ 
+In conjunction with the proposed rescission of Rules 611 and 610(e) and related defined 
+terms in Rule 600(b), the Commission proposes to amend certain other rules in Regulation NMS 
+that reference the defined terms being proposed to be rescinded. First, Rule 610(c) of Regulation 
+NMS, which sets forth a cap on the highest permitted level of fees a trading center may charge 
+for access to the best quotations of a trading center, currently provides that such access fee cap is 
+applicable to the execution of orders against a “protected quotation” and against any other 
+quotation of a trading center that is the best bid or offer of a national securities exchange or 
+national securities association.260 The Commission proposes to amend Rule 610(c) to eliminate 
+the reference to “protected quotation.” As a result, Rule 610(c), as proposed to be amended, 
+would apply to fees for the execution of an order against any quotation of the trading center that 
+is the best bid or best offer of an exchange or association in an NMS stock. 
+ 
+258  See, e.g., NYSE Rule 1.1(v) (defining “protected bid,” “protected offer”, and protected quotation”); NYSE 
+Rule 7.37(a) (Order Execution and Routing); NYSE Rule 7.31(e)(3) (Orders and Modifiers); Nasdaq Rule 
+Equity 1, section 1(a)(12) (defining “protected bid”, “protected offer”, “protected quotation”, and 
+“intermarket sweep order”); Nasdaq Rule Equity 2, section 5(e) (Locked and Crossed Markets). These 
+terms are also used in certain FINRA Rules. See, e.g., FINRA Rules 6282 (Transactions Reported by 
+Members to ADF); 6380A (Transaction Reporting). See also supra note 228.  
+259  See infra section IV .C.  
+260  See supra note 76 and accompanying text for a description of Rule 610(c).
+
+70 
+ 
+ Next, Regulation NMS includes provisions relating to the collection and dissemination of 
+consolidated market data.261 The definition of “consolidated market data”262 includes, among 
+other things, “core data”263 and “regulatory data.”264 The term “core data” is defined to include, 
+among other things, “protected bids and protected offers,”265 and the term “regulatory data” is 
+defined to include, among other things, “regulatory messages including…trade-through exempt 
+indicators.”266 The Commission proposes to amend the definition of “core data” in Rule 
+600(b)(26) to eliminate the reference to “protected bid and protected offer” and to amend the 
+definition of “regulatory data” in Rule 600(b)(89) to eliminate the reference to “trade-through 
+exempt indicators.” 
+Finally, Rule 605 of Regulation NMS requires market centers, brokers, and dealers to 
+make available standardized, monthly reports of statistical information concerning their order 
+executions in NMS stocks.267 Such reports must include, among other things, information 
+relating to the cumulative number of shares of the order size benchmark, which is a size 
+improvement benchmark metric.
+268 The term “order size benchmark” is defined in Rule 
+600(b)(72) in relevant part as “the number of shares of the full displayed size of all protected 
+bids at the same price as the national best bid at the time of order receipt, in the case of a market 
+or limit order to sell, or the full displayed size of all protected offers at the same price as the 
+ 
+261  See Rule 603(b); 17 CFR 242.603(b). See also Rule 614; 17 CFR 242.614.  
+262  See Rule 600(b)(24); 17 CFR 242.600(b)(24).  
+263  See Rule 600(b)(26); 17 CFR 242.600(b)(26). 
+264  See Rule 600(b)(89); 17 CFR 242.600(b)(89). 
+265  See Rule 600(b)(26)(i)(E); 17 CFR 242.600(b)(26)(i)(E). 
+266  See Rule 600(b)(89)(ii)(B); 17 CFR 242.600(b)(89)(ii)(B).  
+267  See Rule 605; 17 CFR 242.605.  
+268  See Rule 605(a)(1)(ii)(R); 17 CFR 242.605(a)(1)(ii)(R).
+
+71 
+ 
+national best offer at the time of order receipt, in the case of a market or limit order to buy.”269 
+The Commission proposes to revise the definition of “order size benchmark” to remove the 
+concept of “protected bids” and “protected offers,” consistent with the proposed rescission of 
+Rule 611 and related definitions. The Commission proposes to replace such references with 
+references to bids and offers disseminated pursuant to an effective national market system plan. 
+As discussed above, a key element of the definition of “protected quotation” is that it is 
+disseminated pursuant to an effective national market system plan.270 The Commission believes 
+it is important to Rule 605 that the bids and offers used to calculate the order size benchmark are 
+disseminated on the SIPs and readily accessible to reporting entities. 271 As a result, the 
+Commission proposes to retain this element in the definition of “order size benchmark” so that 
+“order size benchmark” is defined in terms of the number of shares of the full displayed size of 
+all bids or offers disseminated pursuant to an effective national market system plan at the same 
+price as the NBBO, as applicable, at the time of order receipt.  
+Except as otherwise set forth herein, all other provisions of Regulation NMS would be 
+retained and are not being proposed to be amended at this time. 
+ 
+In conjunction with the proposed rescission of Rules 611 and 610(e) and related 
+definitions in Rule 600(b), the Commission proposes to amend certain Commission rules outside 
+of Regulation NMS that reference the Regulation NMS rules and related definitions being 
+proposed to be rescinded.  
+ 
+269  See Rule 600(b)(72); 17 CFR 242.600(b)(72). 
+270  See supra section II.A.1. 
+271  See Rule 605 Amendments Adopting Release at 26478 (Apr. 15, 2024) (“Reporting entities will be able to 
+capture information about these shares without relying on proprietary depth- of-book feeds because the SIP 
+includes all protected bids and offers.”).
+
+72 
+ 
+First, Rule 15c3-5 under the Exchange Act sets forth risk management controls for 
+brokers or dealers with market access.272 The rule sets forth an exception from most of its 
+requirements where a broker-dealer “routes orders on behalf of an exchange or [ATS] for the 
+purpose of accessing other trading centers with protected quotations in compliance with Rule 
+611 of Regulation NMS for NMS stocks, or in compliance with a national market system plan 
+for listed options.”273 The Commission proposes to amend this rule to remove the language 
+excepting a broker-dealer routing orders for the purpose of accessing other trading centers with 
+protected quotations in compliance with Rule 611 from the requirements of the rule. As a result, 
+the exception set forth in Rule 15c3-5(b) would apply only to broker-dealers routing orders on 
+behalf of an exchange or ATS for the purpose of accessing other trading centers in compliance 
+with an NMS Plan for listed options (i.e., the Options Order Protection and Locked/Crossed 
+Markets Plan).
+274 
+Next, Rule 15b9-1 under the Exchange Act sets forth a limited exemption for certain 
+exchange members from the requirements of section 15(b)(8) of the Exchange Act275 to become 
+ 
+272  17 CFR 240.15c3-5. Specifically, the rule requires brokers or dealers with access to trading securities 
+directly on an exchange or ATS, including those providing sponsored or direct market access to customers 
+or other persons, and broker-dealer operators of an ATS that provide access to trading securities directly on 
+their ATS to a person other than a broker or dealer, to establish, document, and maintain a system of risk 
+management controls and supervisory procedures reasonably designed to manage the financial, regulatory, 
+and other risks of this business activity. See Rule 15c3-5(b) under the Exchange Act. 
+273  See id. See also Securities Exchange Act Release No. 63241 (Nov. 3, 2010), 75 FR 69792, 69800 (Nov. 15, 
+2010) (File No. S7-03-10) (Final Rule adopting Risk Management Controls for Brokers or Dealers with 
+Market Access).  
+274  The Options Order Protection and Locked/Crossed Markets Plan is a Commission-approved NMS Plan that 
+contains trade-through provisions for listed options. See Securities Exchange Act Release No. 60405 (July 
+30, 2009), 74 FR 39362 (Aug. 6, 2009) (Order Approving the National Market System Plan Relating to 
+Options Order Protection and Locked/Crossed Markets Submitted by the Chicago Board Options 
+Exchange, Incorporated, International Securities Exchange, LLC, The NASDAQ Stock Market LLC, 
+NASDAQ OMX BX, Inc., NASDAQ OMX PHLX, Inc., NYSE Amex LLC, and NYSE Arca, Inc.) 
+(“Options Order Protection and Locked/Crossed Markets Plan”). See also supra note 83.  
+275  15 U.S.C. 78o(b)(8).
+
+73 
+ 
+a member of a registered national securities association.276 The rule provides an exemption from 
+the requirements of section 15(b)(8) for Commission-registered broker-dealers that effect off-
+member-exchange securities transactions where the broker or dealer does not carry customer 
+accounts, is a member of at least one exchange, and effects off-member-exchange securities 
+transactions that: (1) result solely from orders that are routed by an exchange of which the broker 
+or dealer is a member in order to comply with Rule 611 of Regulation NMS or the Options Order 
+Protection and Locked/Crossed Market Plan;277 or (2) are solely for the purpose of executing the 
+stock leg of a stock-option order.278 The Commission proposes to amend Rule 15b9-1 to remove 
+the exemption for broker-dealers that effect off-member-exchange securities transactions that 
+result from orders that are routed by an exchange in order to comply with Rule 611. As a result, 
+the exemption from section 15(b)(8) set forth in Rule 15b9-1 would apply only to a broker-dealer 
+that does not carry customer accounts, is a member of at least one exchange, and effects off-
+member-exchange securities transactions that: (1) result solely from orders that are routed by an 
+exchange of which the broker or dealer is a member in order to comply with the Options Order 
+Protection and Locked/Crossed Market Plan; 
+ or (2) are solely for the purpose of executing the 
+stock leg of a stock-option order.  
+C. Request for Comment 
+The Commission generally requests comment from the public on the proposed rescission 
+of certain defined terms in Rule 600(b) and the proposed modification of other Commission rules 
+in connection with the proposed rescission of Rules 611 and 610(e). More specific requests for 
+comment are set forth below. Responses supported by empirical data are particularly helpful.  
+ 
+276  17 CFR 240.15b9-1.  
+277  See supra note 274. 
+278  See Rule 15b9-1 under the Exchange Act.
+
+74 
+ 
+29. Are the proposed rescissions of the defined terms in Rule 600(b) appropriate? Why or 
+why not? Are there other defined terms set forth in Rule 600(b) that should be 
+rescinded or modified? Are there any terms the Commission proposes to rescind that 
+should be retained or modified? If so, why? For example, should the Commission 
+retain or modify defined terms that are currently used in SRO rules? 
+30.  Are the proposed amendments to other provisions of Regulation NMS to remove 
+references to the rescinded defined terms appropriate? Why or why not? Are there 
+any other amendments to Regulation NMS that are necessary or appropriate if the 
+proposed rescissions of the defined terms in Rule 600(b) are adopted? 
+31. Are the proposed amendments described above to Commission rules outside of 
+Regulation NMS that reference Rule 611, Rule 610(e), and related definitions 
+appropriate? Why or why not? Are there any other Commission rules outside of 
+Regulation NMS that the Commission should modify if Rule 611, Rule 610(e), and 
+related defined terms are rescinded?  
+32. If the proposed amendments to Regulation NMS are adopted, should the Commission 
+allow the SROs to determine whether any NMS Plans should be changed to reflect 
+such amendments? Alternatively, should the Commission itself change any NMS 
+Plans pursuant to Rule 608 of Regulation NMS to reflect the proposed amendments to 
+Regulation NMS, should they be adopted? Why or why not? 
+V. Paperwork Reduction Act 
+A. Rescission of Rule 611 
+Rule 611 currently contains one collection of information. The title for this existing 
+collection of information is Order Protection Rule – Rule 611 of Regulation NMS. OMB 
+approved this collection of information and assigned it OMB Control No. 3235-0600.
+
+75 
+ 
+Specifically, Rule 611 requires a trading center279 to establish, maintain, and enforce written 
+policies and procedures reasonably designed to prevent trade-throughs on that trading center of 
+protected quotations in NMS stocks, unless a valid exception applies, and, if relying on such an 
+exception, that are reasonably designed to assure compliance with the terms of the exception. 
+The nature and extent of the policies and procedures that a trading center is required to establish 
+to comply with this requirement depends upon the type, size, and nature of the trading center. 
+The purpose of the collection of information has been to help ensure that “trading centers” and 
+their customers, subscribers, members, and employees, as applicable, generally avoid trade-
+throughs, unless a valid exception is applicable. 
+Rescission of Rule 611 would eliminate this collection of information and, therefore, 
+would eliminate the associated compliance burdens for trading centers.  
+If the rescission of Rule 611 is approved, upon publication of the final rule in the Federal 
+Register, the Commission will submit a request to OMB to discontinue OMB Control Number 
+3235-0600.280   
+B. Request for Comment 
+33. The Commission believes that this proposal would not impose any new collection of 
+information requirement as defined by the Paperwork Reduction Act of 1995, as 
+amended (“PRA”). The Commission requests comment on (a) whether the proposed 
+rescission of Rules 611 and 610(e), and the related amendments to Regulation NMS 
+ 
+279  See supra note 81.  
+280  The Commission estimates that there are currently 305 trading centers subject to Rule 611. This estimate 
+includes 20 exchanges (17 exchanges that trade NMS stocks + three exchanges that are approved but not 
+yet operating) and 33 ATSs that trade NMS stocks. Based on data from CAT for January 2026, the estimate 
+also includes 96 exchange market makers and 225 broker-dealers acting as OTC market maker or executing 
+orders internally by trading as principal or crossing orders as agent. 69 broker-dealers are both exchange 
+market makers and an OTC market maker or broker-dealer internalizing orders. 20 + 33 + 96 + 225 - 69 = 
+305 trading centers.
+
+76 
+ 
+definitions and related rules, would create any new, or revise any existing, collection 
+of information pursuant to the PRA and (b) to evaluate the accuracy of the 
+Commission’s assessment that the proposed rescission of Rule 611 would eliminate 
+the collection of information and its associated compliance burdens for respondents.  
+Persons submitting comments on the collection of information requirements should direct 
+them to the OMB Desk Officer for the Securities and Exchange Commission, 
+MBX.OMB.OIRA.SEC_desk_officer@omb.eop.gov, and should also send a copy of their 
+comments to Secretary, Securities and Exchange Commission, using any of the methods in the 
+ADDRESSES section, with reference to File Number S7-2026-20. Requests for materials 
+submitted to OMB by the Commission with regard to this collection of information should be in 
+writing, with reference to File Number S7-2026-20 and be submitted to the Securities and 
+Exchange Commission, Office of FOIA/PA Services, 100 F Street NE, Washington, DC 20549-
+2736. As OMB is required to make a decision concerning the collection of information between 
+30 and 60 days after publication, a comment to OMB is best assured of having its full effect if 
+OMB receives it within 30 days of publication. 
+VI. Economic Analysis 
+A. Introduction 
+The Commission is mindful of the economic effects, including the benefits and costs, of 
+the proposed amendments.
+281 The Commission has considered the economic effects of the 
+ 
+281  Section 3(f) of the Exchange Act requires the Commission, whenever it engages in rulemaking and is 
+required to consider or determine whether an action is necessary or appropriate in the public interest, to 
+consider, in addition to the protection of investors, whether the action will promote efficiency, competition, 
+and capital formation. Additionally, section 23(a)(2) of the Exchange Act requires the Commission, when 
+making rules under the Exchange Act, to consider the impact such rules will have on competition. Section 
+23(a)(2) of the Exchange Act prohibits the Commission from adopting any rule that would impose a burden 
+on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.
+
+77 
+ 
+proposed amendments and, wherever possible, the Commission has quantified the likely 
+economic effects. The Commission is providing both a qualitative assessment and quantified 
+estimates of the potential economic effects of the proposed amendments where feasible. The 
+Commission has incorporated data and other information to assist it in the analysis of the 
+economic effects of the proposed amendments. However, as explained in more detail below, the 
+Commission is unable to quantify certain economic effects because the Commission does not 
+have, and in certain cases does not believe it can reasonably obtain, data that may inform the 
+Commission on certain economic effects. Further, even in cases where the Commission has data, 
+it is not practicable to quantify certain economic effects due to the number and type of 
+assumptions necessary, which render any such quantification unreliable. Our inability to quantify 
+certain costs, benefits, and effects does not imply that such costs, benefits, or effects are less 
+significant.  
+In the years since Rules 611 and 610(e) of Regulation NMS were adopted, the structure 
+of the U.S. equity markets has evolved dramatically. Additionally, these rules have contributed 
+to a number of economic consequences for market participants, including regulatory compliance 
+costs, market structure complexity, limitations on order handling and execution choices, 
+exchange proliferation, and fragmentation of liquidity on equity exchanges. Furthermore, the 
+Commission expects that in today’s markets the negative impact on investor execution quality 
+from removing these rules would be minimal.
+282 For these reasons, which are discussed further 
+below,283 the Commission is proposing to rescind Rules 611 and 610(e). 
+ 
+282  See infra section VI.C.1.b, discussing these minimal impacts. 
+283  See infra sections VI.B.2., VI.B.3., and VI.B.4., discussing current costs of these rules, and section 
+VI.C.1.b., discussing the impact of rescinding Rule 611 on execution quality.
+
+78 
+ 
+B. Economic Baseline 
+The baseline against which the costs, benefits, and the effects on efficiency, competition, 
+and capital formation of the proposed amendments are measured consists of the current state of 
+the market; the current practices of national securities exchanges, other trading centers, and 
+registered broker-dealers; and the current regulatory framework.284  
+ 
+ 
+In the years since the adoption of Rule 611, market participants have developed various 
+practices to comply with its requirements, including practices for determining the best bid and 
+offer on a given exchange, methods for ensuring execution systems comply with Rule 611’s 
+prohibitions, and practices for surveillance in accordance with Rule 611(a)(2).
+285  
+Exchanges have promulgated their own rules to comply with Rule 611, and put in place 
+compliance processes.286 Each exchange has a methodology for determining its best bid and 
+offer in each NMS stock that takes into account the availability of odd-lot quotes on their 
+ 
+284  See, e.g., Nasdaq v. SEC, 34 F.4th 1105, 1111–14 (D.C. Cir. 2022). This baseline approach also follows 
+Commission staff guidance on economic analysis for rulemaking. See SEC, Current Guidance on 
+Economic Analysis in SEC Rulemaking 6 (Mar. 16, 2012), available at 
+https://www.sec.gov/divisions/riskfin/rsfi_guidance_econ_analy_secrulemaking.pdf (‘‘The economic 
+consequences of proposed rules (potential costs and benefits including effects on efficiency, competition, 
+and capital formation) should be measured against a baseline, which is the best assessment of how the 
+world would look in the absence of the proposed action.’’); id. at 7 (‘‘The baseline includes both the 
+economic attributes of the relevant market and the existing regulatory structure.’’).  
+285  The requirements of Rule 611 of Regulation NMS, which generally prohibit trading centers from executing 
+orders that trade-through protected quotations, are described above (see supra section II.A.). In addition to 
+these restrictions on execution, Rule 611(a)(2) requires a trading center to regularly surveil to ascertain the 
+effectiveness of the policies and procedures to prevent trade-throughs and take prompt action to remedy 
+any deficiencies.   
+286  See, e.g., Nasdaq Rule 4702(a) (“All Order Types and Order Attributes operate in a manner that is 
+reasonably designed to comply with the requirements of Rules 610 and 611 under Regulation NMS”), 
+Nasdaq Rule 4758(a)(1) (“All routing of orders shall comply with Rule 611 of Regulation NMS under the 
+Exchange Act”), available at 
+https://listingcenter.nasdaq.com/rulebook/nasdaq/rules/Nasdaq%20Equity%204.
+
+79 
+ 
+exchanges.287 Specifically, each exchange aggregates all displayed odd-lot quotes, starting with 
+the best priced odd-lot, across multiple prices, until their combined size is equal to or greater 
+than a round lot. Then the exchange disseminates the least aggressive price (i.e., lowest priced 
+bid and highest priced offer) of the aggregated odd-lot quotes, with their aggregated size 
+(rounded down to the nearest round lot) to the SIPs. The SIPs use this information to determine 
+the National Best Bid (“NBB”) and National Best Offer (“NBO”) for each NMS stock by 
+selecting the highest priced bid and lowest priced offer from among the best bid and offer quotes 
+across all exchanges.
+288 The SIPs then disseminate information on the NBB and NBO and each 
+exchange’s best bid and offer, including whether the best bid and offer qualify as a protected 
+quote under Rule 611. 
+The Commission understands that, in order to ensure compliance with Rule 611, 
+automated features to prevent trade-throughs are usually incorporated directly into a trading 
+center’s matching engine or order execution system. Such features would require a view of 
+prevailing quotations in the market to function. Trading centers may use exchange proprietary 
+market data feeds, the SIPs, or a combination of both, for this purpose.
+289 If a trading center 
+receives an order that would (based on its view of the market) result in the trade-though of a 
+protected quote on another trading center, then the order may be routed to the other trading 
+ 
+287  Because only round-lot-sized quotes have the potential to be protected, Rule 611 does not cover odd-lot-
+sized quotes on the automated trading center that might nevertheless be displayed at better prices ( i.e., a 
+higher bid price or lower ask price) than the best bid and offer. 
+288  If multiple exchanges have the same best bid or offer price, then the SIPs select the exchange with the 
+largest size at that price as the NBB or NBO. If multiple exchanges also tie for the largest size, then the 
+SIPs select the quote they received from these exchanges first as the NBB or NBO. See Rule 600(b)(60). 
+289  Some more sophisticated trading centers may subscribe to and aggregate the exchange direct feeds 
+themselves, while other trading centers may pay a third-party market data aggregator to aggregate the 
+exchange direct feeds and provide them with a consolidated view of the market. See infra section VI.B.4.c.
+
+80 
+ 
+center to execute against the protected quote. Alternatively, it may cancel the order.290 Trading 
+centers may charge a fee if they route an order and it executes on another trading center.291 
+Exchanges have also promulgated rules for when broker-dealers use the ISO exception to 
+Rule 611.292 The Commission understands that broker-dealers will generally incorporate 
+automated features to prevent trade-throughs into their smart order router (“SOR”). Similar to 
+trading centers, broker-dealers operating SORs also may use exchange proprietary market data 
+feeds, the SIPs, or a combination of both to obtain the real-time market data necessary to route 
+orders and identify protected quotes.293   
+The Commission understands that some broker-dealers may also send orders marked as 
+ISO even if they are not attempting to sweep through multiple price levels. On the timescales on 
+which market participants react to market changes, it can frequently happen that, at a given 
+instant, different market participants have a different view as to what the NBBO is.294 It is 
+ 
+290  The action the trading center takes could be based on either its own policies and procedures or customer 
+order instructions. For example, trading centers that do route orders to other venues may give their 
+customers the option, often through an order type or modifier, to specify that their order should not be 
+routed and instead be canceled if it cannot be executed on the trading center. See, e.g., Sida Li et al., 
+Refusing the Best Price? 147 J. FIN. ECON. 317 (2023) (discussing use of non-routable orders). For larger 
+orders, a trading center may also send out ISOs to execute against the protected quotes on other venues and 
+then execute the rest of the order, per the exception in Rule 611(b)(6). See, e.g., BIDS ATS Form ATS-N 
+Part III, Item 9 (as of 11/25/2025), available at 
+https://www.sec.gov/Archives/edgar/data/1368727/000110465925115861/xslATS-N_X01/primary_doc.xml 
+(discussing the ATS use of ISO orders for executions outside the NBBO). 
+291  See, e.g., N . Y. STOCK EXCH., PRICE LIST 2026, at 11-12 (2026), available at 
+https://www.nyse.com/publicdocs/nyse/markets/nyse/NYSE_Price_List.pdf; Nasdaq Equity Rule 7, section 
+118, available at https://listingcenter.nasdaq.com/rulebook/nasdaq/rules/Nasdaq%20Equity%207. 
+292  See, e.g., Nasdaq Rule 4703(j) (“In connection with the trading of securities governed by Regulation NMS, 
+Intermarket Sweep Orders shall be executed exclusively within the System and the entering Participant 
+shall be responsible for compliance with Rules 610 and 611 under Regulation NMS with respect to order 
+protection and locked and crossed markets with respect to such Orders. Orders eligible for execution 
+outside the System shall be processed in compliance with Regulation NMS, including accessing Protected 
+Quotations and resolving locked and crossed markets, as instructed”), available at 
+https://listingcenter.nasdaq.com/rulebook/nasdaq/rules/Nasdaq%20Equity%204. 
+293  See supra note 289 and accompanying text. 
+294  See infra note 450 and accompanying text, discussing different sources of latency.
+
+81 
+ 
+therefore possible that a broker-dealer’s view of the NBBO differs from that of an exchange due 
+to latency in that exchange’s reaction to market changes. To prevent this latency from interfering 
+with routing outcomes, the broker-dealer may mark its order as ISO to indicate to the exchange 
+that, by its own view of the market, this order does not trade through protected quotations. 
+Marking an order as ISO allows the exchange that receives the order to execute the order 
+immediately without regard to protected quotations in other markets.  
+In addition to requiring policies and procedures reasonably designed to prevent trade-
+throughs, Rule 611 also requires trading centers to regularly surveil to ascertain the effectiveness 
+of the policies and procedures. The Commission understands that the sophistication of these 
+surveillance programs may vary based on the size and expertise of the trading center. Larger, 
+more sophisticated entities may have developed internal processes that use historical or real-time 
+market data to monitor for compliance with Commission rules, including Rule 611,
+295 and 
+related FINRA rules, including Rule 5310.296 These firms may match either all or a subset of 
+their order and trade records with historical market data feeds to detect if any trade-throughs 
+occurred.297 As the data analysis and tools required to perform these checks would be similar to 
+what would be required to surveil for a large range of issues, the Commission understands that 
+these firms may perform this analysis as part of a batch process that also examines for other 
+compliance violations, rather than as a standalone process. 
+ 
+295  Trading centers may also use this real-time monitoring process to detect problems with their matching 
+engine or market data feeds. 
+296  See infra section VI.B.1.c. 
+297  These trading centers may compare their trades to market data quotes up to o ne second before the trade 
+occurred in order to check if a trade-through occurred. See supra section II.A.2., discussing the “one second 
+window” exception to Rule 611.
+
+82 
+ 
+Smaller trading centers or smaller broker-dealers routing orders may be more likely to 
+use a third-party service to surveil for their compliance with Commission rules, including Rule 
+611, and related FINRA rules, including Rule 5310. These firms usually send their order and 
+trade records to a third-party that specializes in compliance monitoring or transaction cost 
+analysis (“TCA”) and may offer the examination of trade-through compliance as part of a 
+package of services. The third party then matches the trade and order records with historical 
+market data and examines for compliance with and violations of trading rules, including trade-
+throughs. 
+The smallest trading centers and broker-dealers routing orders may manually monitor for 
+compliance with Rule 611 for a small sample of their orders. The Commission understands that 
+these firms do not usually compare their order and trade records to historical market data. 
+Instead, these firms tend to take manual snapshots of what the market looks like for a few of 
+their orders and then review these snapshots for compliance with Rule 611 and other trading 
+rules.  
+ 
+FINRA298 and the exchanges299 have promulgated rules for complying with Rule 610(e). 
+Market participants, likewise, have put in place practices to comply with the SRO rules 
+promulgated to implement with the requirements of Rule 610(e), including rules for ranking and 
+ 
+298  FINRA has implemented Rule 6240 which requires, with certain exceptions, that FINRA members “shall 
+reasonably avoid displaying, and shall not engage in a pattern or practice of displaying, any quotations that 
+lock or cross a protected quotation.” See FINRA Rule 6240(b). This rule largely prevents locked and 
+crossed markets on ATSs in NMS stocks. FINRA also has a similar Rule 6437 which applies to OTC equity 
+securities. 
+299  See NYSE Rule 7.37(f)(2) (“the Exchange and members of the Exchange shall reasonably avoid 
+displaying, and shall not engage in a pattern or practice of displaying, any quotations that lock or cross the 
+PBBO”), available at https://nyseguide.srorules.com; see also supra note 286 (citing Nasdaq Rules 
+4702(a), 4758(a)(1)).
+
+83 
+ 
+displaying orders, operational practices to ensure that locked or crossed markets are avoided, and 
+operational procedures to address the broader implications of these prohibitions.300 
+The Commission understands that, in practice, exchanges will display odd-lot and round- 
+lot orders that lock or cross a resting odd-lot quote on another exchange, but will not display an 
+odd-lot order that locks or crosses a resting round-lot quote on another exchange, even though 
+such display would not violate the requirements of Rule 610(e), because Rule 610(e) only 
+applies to the display of quotations of round-lot size.301 Exchanges and national securities 
+associations are allowed to display odd-lot-sized orders that lock or cross another odd-lot or 
+round-lot-sized quotation. In effect, the practice of not displaying an odd-lot quote that locks or 
+crosses a round-lot quote reflects an industry convention to preserve the prominence of resting 
+round‑lot quotations. 
+The Commission understands that, in order to ensure compliance with Rule 610(e), 
+automated features to avoid posting quotes that would lock or cross the market are usually 
+incorporated directly into a trading center’s matching engine. When a trading center receives a 
+limit order to display, it compares the price of the limit order to the NBBO that it calculates from 
+real-time market data it obtains from the SIPs or proprietary feeds. If the order would lock or 
+ 
+300  The requirements of Rule 610(e) of Regulation NMS, which generally prohibit market centers from posting 
+a displayed round-lot order that would lock or cross a protected quote, are described above (see supra 
+section III.A.). The SRO rules which implement these prohibitions include exceptions pursuant to current 
+staff guidance. (see https://www.sec.gov/divisions/marketreg/nmsfaq610-11.htm#sec5 at section 5: SRO 
+Lock/Cross Rules.) The ISO exception permits market participants to “ship-and-post” via ISO orders. They 
+can post an order on one side of the market that would lock or cross the market, so long as they execute the 
+quotes on the other side of the market that they are locking/crossing via an intermarket sweep order. For 
+example, if a trader wants to post a bid at $10.00, but there are offers at $9.99 and $10.00, normally the 
+trader would be prohibited from posting the bid at $10.00 because it would cr oss the $9.99 offer quote and 
+lock the $10.00 offer quote. However, using this exception, the trader could post the bid at $10.00 while 
+using an ISO order to execute against the offers at $9.99 and $10.00, which effectively unlocks/uncrosses 
+the market. The self-help exception applies to 610(e) in the same manner as the self-help exception of Rule 
+611. 
+301  See supra note 181.
+
+84 
+ 
+cross the best opposite side quote offered by other trading centers (the NBO for a buy limit order 
+and the NBB for a sell limit order), then the trading center may take one of several actions. If the 
+limit order is routable
+302 and able to take liquidity,303 then the trading center may route the order 
+to execute against the NBB or NBO. Alternatively, the trading center may display it at a price 
+one tick away from the locking price. Finally, the exchange may cancel the order. Exchanges 
+typically permit the broker-dealer routing the order to select the treatment it prefers in the event 
+that the order would lock or cross the market. These automated processes help ensure 
+compliance while providing members flexibility in how their orders are handled. 
+For example, one exchange has both Price-to-Comply and Price-to-Display order types, 
+which are designed to comply with Rule 610(e) in different ways.
+304 If the limit price on a Price-
+to-Comply Order would lock or cross a protected quote, then the order will be displayed one tick 
+lower than the current best offer (for buy orders) or one increment higher than the current best 
+bid (for sell orders). However, the Price-to-Comply Order would also be ranked in the matching 
+engine with a non-displayed price equal to the current best offer (for buy orders) or current best 
+bid (for sell orders). In contrast, for a Price-to-Display order, both the displayed price and the 
+price the order is ranked at in the matching engine would be one tick away from the locked or 
+ 
+302  An order is “routable” if the order type selected by the market participant who sent the order to the 
+exchange is not an order type for which the exchange has indicated that it will not re -route the order to 
+another trading center. 
+303  An order would be unable to take liquidity if the order type selected by the market participant who sent the 
+order to the exchange is an order type which indicates that the order is not to be executed if it would be the 
+aggressive order of the trade. An example of an order that is not able to take liquidity would be a “Post-
+Only” order. Typically, a Post-Only order with a marketable limit price will either be displayed one tick 
+away from the price that would lock the market, or canceled, depending on the broker-dealer’s instructions. 
+(See, e.g., NASDAQ, POST-ONLY ORDER (2026), available at 
+https://nasdaqtrader.com/content/ProductsServices/Trading/postonly_factsheet.pdf, describing the Post-
+Only order type for Nasdaq). 
+304  For additional information on Price-to-Comply and Price-to-Display Orders, see Nasdaq Texas Rules 
+4702(b)(1) and 4702(b)(2), available at 
+https://listingcenter.nasdaq.com/rulebook/nasdaqtx/rules/Nasdaq%20Texas%20Equity%204. These rules 
+describe further details about the behavior of Price-to-Comply and Price-to-Display order types.
+
+85 
+ 
+crossed best bid (for sell orders) or best offer (for buy orders). For Price-to-Comply orders, this 
+exchange also offers a range of options for what will happen to the order once the market 
+unlocks. The order may: 1) remain on the book with its non-displayed price and time priority, but 
+continue to be displayed one tick away from this price (i.e., it would be displayed at the price 
+assigned by the price-slide mechanism before the market unlocked); 2) be canceled back to the 
+member; or 3) be automatically displayed at the order’s original limit price, but with a new time 
+stamp. 
+Some exchanges, NMS Stock ATSs, and SDPs have special rules for handling orders and 
+executions when the NBBO is locked or crossed. The Commission understands that most NMS 
+Stock ATSs and SDPs have policies that prevent orders from executing when the NBB and NBO 
+are crossed.
+305 Some NMS Stock ATSs and SDPs also have policies to not execute orders when 
+the NBB and NBO are locked.306 Exchanges and NMS Stock ATSs may also have special rules 
+for handling pegged307 orders if the NBB and NBO become locked or crossed.308 
+Rule 605 requires trading centers and broker-dealers to classify orders and compute 
+statistics based on the NBB and NBO. However, a crossed NBB and NBO may interfere with 
+ 
+305  See ROSENBLATT’S 2025 US EQUITY TRADING GUIDE, available at https://www.rblt.com/market-structure-
+reports/rosenblatts-2025-us-equity-trading-guide (accessed through Market Structure Analysis dataset). 
+306  Some NMS Stock ATSs or SDPs may execute orders during a locked market or have policies that allow 
+their subscribers the option to specify whether or not their orders will execute during a locked market. See 
+id.  
+307  Exchanges and NMS Stock A TSs offer a number of order types that are pegged to the NBB, NBO, or 
+NBBO midpoint. For example, a midpoint peg order might permit a non-displayed order to rest on the limit 
+order book with a limit price equal to the midpoint of the NBBO. These orders automatically adjust their 
+prices as the NBB and NBO change. Market participants can also specify these pegged orders to have an 
+offset. For example, a market participant can submit a primary peg buy order with an offset of 1 tick, which 
+would result in the order always being priced 1 tick more aggressively than the NBB.  
+308  For example, some market centers may remove these orders from the limit order book or cancel them while 
+others may not reprice them if the NBB and NBO become locked or crossed. See, e.g.,  Nasdaq Rule 4702 
+(Order Types) https://listingcenter.nasdaq.com/rulebook/nasdaq/rules/Nasdaq%20Equity%204; NYSE 
+ARCA Rule 7.31-E (Orders and Modifiers) 
+https://nysearcaguide.srorules.com/rules/b44a1e347ccd1000af3290b11c2ac4f10258.
+
+86 
+ 
+order classifications and with the computing of certain statistics. When the NBBO is crossed for 
+a significant period of time, it raises serious questions whether the quotes continue to provide a 
+reliable benchmark for the statistical measures included in the Rule. Therefore, the Commission 
+has exempted all orders from being included in Rule 605 reports if they reference a NBBO that 
+has been crossed for 30 seconds or more.
+309 For NBBOs that are crossed for less than 30 
+seconds, staff guidance recommends that the next-in-time uncrossed NBBO be used in place of 
+the crossed NBBO for computing Rule 605 reports.310 
+ 
+Broker-dealers are subject to a duty of best execution, which requires them to execute 
+customers’ trades at the most favorable terms reasonably available under the circumstances. The 
+best execution obligation is independent from the requirements under Rule 611. A broker’s duty 
+of best execution derives from common law agency principles and fiduciary obligations, and is 
+incorporated implicitly, through judicial and Commission decisions, in the antifraud provisions 
+of the Federal securities laws.
+311 The duty of best execution requires a broker-dealer to execute 
+customers’ (either retail or institutional investors) trades at the best reasonably available price, 
+considering a non-exhaustive list of factors that may be relevant to broker-dealers’ best 
+execution analysis.
+312 These factors may include execution price, the size of the order, speed of 
+ 
+309  See Letter from Annette L. Nazareth, Director, Division, SEC, to Stuart J. Kaswell, Senior Vice President 
+and General Counsel, Securities Industry Association, dated March 12, 2001 (“SIA Exemption Letter”); see 
+also 2026 Rule 605(b) Exemption, supra note 235. 
+310  See SEC. & EXCH. COMM’N, DIV. OF MKT. REGUL., STAFF LEGAL BULL. NO. 12R (REVISED), FREQUENTLY 
+ASKED QUESTIONS ABOUT RULE 11AC1-5, Q. 7 (2001), available at: https://www.sec.gov/rules-
+regulations/staff-guidance/staff-legal-bulletins/slb-12r. The guidance document’s reference to the 
+“Consolidated BBO” applies to the NBBO. This guidance will be superseded on August 1, 2026. See Rule 
+605 FAQs, supra note 235. 
+311  See Order Execution Obligations Adopting release at 48322. The Commission has not adopted its own rule 
+governing a broker-dealer’s legal duty of best execution. 
+312  See Newton v. Merrill, Lynch, Pierce, Fenner & Smith, Inc., 135 F.3d 266, 270 (3d Cir. 1998); see also Kurz 
+v. Fidelity Mgmt. & Rsch. Co., 556 F.3d 639, 640 (7th Cir. 2009).
+
+87 
+ 
+execution, the trading characteristics of the security involved, the availability of accurate 
+information affecting choices as to the most favorable market center for execution and the 
+availability of technological aids to process such information, and the operational costs and 
+difficulty associated with achieving an execution in a particular market center.
+313 The importance 
+of each factor may differ depending on whether the order is retail or institutional and also due to 
+market conditions and order characteristics. 
+FINRA’s best execution rule (FINRA Rule 5310) requires that a member (i.e., a 
+registered broker-dealer) and persons associated with a member use reasonable diligence to 
+ascertain the best market for the subject security and buy or sell in such market so that the 
+resultant price to the customer is as favorable as possible under prevailing market conditions in 
+any transaction for or with a customer or customer of another broker-dealer (e.g., wholesalers 
+handling retail orders).
+314 FINRA Rule 5310 applies when the member acts as agent for the 
+account of its customer as well as when it executes a transaction as a principal.315 FINRA’s rule 
+lists a set of non-exclusive factors that will be considered in determining whether a member has 
+used reasonable diligence: (i) the character of the market for the security (e.g., price, volatility, 
+relative liquidity, and pressure on available communications); (ii) the size and type of 
+ 
+313  See Order Execution and Routing Practice Release at 75418; NMS Adopting Release at 37538 & n. 341. 
+The factors that are important to the best execution decision may vary based on the type of customer, 
+market conditions, and order characteristics. For example, execution price may be an important factor for a 
+marketable retail order but may not be as important for a large, institutional order. See, e.g., First TTR 
+Roundtable Transcript at 236 (Mehmet Kinak, T. Rowe Price) (discussing best execution for institutional 
+orders). 
+314  See FINRA Rule 5310(a)(1). 
+315  See FINRA Rule 5310(e). FINRA Rule 5310 also addresses two situations where a member’s best 
+execution obligation is modified or no longer applicable: (i) if a broker-dealer “receives an unsolicited 
+instruction from a customer to route that customer’s order to a particular market for execution, the member 
+is not required to make a best execution determination beyond the customer’s specific instruction” and (ii) 
+“when another broker-dealer is simply executing a customer order against the member's quote.” FINRA 
+Rules 5310.08, 5310.04.
+
+88 
+ 
+transaction; (iii) the number of markets checked; (iv) accessibility of the quotation; and (v) the 
+terms and conditions of the order which result in the transaction, as communicated to the 
+member and persons associated with the member.
+316 
+FINRA’s best execution rule and guidance addresses issues associated with payment for 
+order flow. Some retail brokers maintain arrangements involving payment for order flow from 
+wholesalers. Wholesalers internalize a significant portion of retail orders purchased via payment 
+for order flow. FINRA’s best execution guidance states that firms that provide payment for order 
+flow for the opportunity to internalize customer orders cannot allow such payments to interfere 
+with their best execution obligations.
+317 For example, inducements such as payment for order 
+flow and internalization may not be taken into account in analyzing market quality or 
+determining where to route a customer order.
+318 
+FINRA Rule 5310 requires broker-dealers to conduct at least quarterly reviews of the 
+quality of execution they obtain.319 Introducing brokers perform best execution reviews by 
+evaluating the execution quality achieved by executing brokers to which they route their 
+customers’ orders. Introducing brokers may rely on the best execution review processes of their 
+executing brokers and use these to evaluate the execution quality of orders by comparing 
+execution statistics of executing brokers with which the introducing broker has a relationship.
+320 
+ 
+316  See FINRA Rule 5310(a)(1).   
+317  See FINRA REGUL. NOTICE NO. 21-23, BEST EXECUTION & PAYMENT FOR ORDER FLOW 4 (2023), 
+https://www.finra.org/rules-guidance/notices/21-23. 
+318  Id. FINRA’s guidance stated that “the possibility of obtaining price improvement is a heightened 
+consideration when a broker-dealer receives payment for order flow.” Id. at 3-4.  
+319  See FINRA Rule 5310.09(a). 
+320  Broker-dealers (including introducing brokers) that route to clearing or executing brokers on an agency 
+basis may rely on the best execution review of their clearing firm or executing broker -dealers. See FINRA 
+Rule 5310.09(c). The clearing firm or executing broker-dealer must fully disclose the statistical results and 
+rationale of the review, and the routing broker-dealer must periodically review how the review is conducted 
+and the results of the review.
+
+89 
+ 
+Executing brokers review execution quality by comparing execution statistics of executions 
+received given particular execution methods, e.g., routing to a particular market center or 
+internalization. Some brokers utilize independent third‑party TCA providers to produce 
+quantitative execution-quality statistics to supplement their execution‑quality reviews. 
+ 
+The Commission has adopted new rules that will impact market practices in the baseline 
+for the proposed amendments. However, as discussed in more detail below, some provisions of 
+these rules have not been fully implemented, and so they have not yet affected market practices. 
+As a result, the data used to measure the baseline for the proposed amendments reflect the 
+regulatory structure in place prior to the implementation of some provisions of these rules. This 
+section will discuss the status of the implementation of these rules and provide an assessment of 
+the potential effects that the implementation can have on the baseline estimations.   
+ We discuss three rules with such partial implementations. First, in 2020, the Commission 
+adopted a new rule and amended existing rules to establish a new infrastructure for consolidated 
+market data (“MDI Rules”).
+321 Second, in 2024 the Commission adopted amendments to the 
+disclosure requirements of Rule 605 of Regulation NMS.322 Third, in 2024 the Commission 
+adopted amendments to certain rules under Regulation NMS to add an additional minimum 
+pricing increment for the quoting of certain NMS stocks, reduce the access fee caps for protected 
+quotations of trading centers, increase the transparency of exchange fees and rebates, and 
+accelerate the implementation of rules that will make information about the market’s best priced, 
+ 
+321  See Market Data Infrastructure Adopting Release.  
+322  See Rule 605 Amendments Adopting Release.
+
+90 
+ 
+smaller-sized orders publicly available.323 Because key components of these rulemakings are not 
+yet operative, their full effects are not reflected in the current baseline.  
+i.  Market Data Infrastructure Rules 
+Consolidated market data are made widely available to investors through the national 
+market system, a system set forth by Congress in section 11A of the Exchange Act324 and 
+facilitated by the Commission in Regulation NMS.325 Market data are collected by exclusive 
+SIPs,326 which consolidate that information and disseminate an NBBO and last sale information. 
+For quotation information, only the 17 national securities exchanges that currently trade NMS 
+stocks provide quotation information to the SIPs for dissemination in consolidated market 
+data.
+327 FINRA has the only SRO display-only facility (the ADF).328 No broker-dealer, however, 
+currently uses it to display quotations in NMS stocks in consolidated market data.329 
+Disseminated quotation information includes each exchange’s current highest bid and lowest 
+offer and the shares available at those prices, as well as the NBBO. For transaction information, 
+currently all national securities exchanges that trade NMS stocks, as well as FINRA, provide 
+real-time transaction information to the SIPs for dissemination in consolidated market data. Such 
+ 
+323  See 2024 Regulation NMS Amendments. 
+324  See 15 U.S.C. 78k-1.  
+325  17 CFR 242.600 through 242.614. 
+326  See Market Data Infrastructure Adopting Release, 86 FR at 18598-99 (describing that the exclusive SIPs, 
+among other things, disseminate core data, which currently consist of: (1) the price, size, and exchange of 
+the last sale; (2) each exchange’s current highest bid and lowest offer and the shares available at those 
+prices; and (3) the NBBO). A securities information processor (“SIP”) is defined in section 3(a)(22)(A) of 
+the Exchange Act. See 15 U.S.C. 78c(a)(22)(A). Further, an “exclusive processor” (also known as an 
+exclusive SIP) is defined in section 3(a)(22)(B) of the Exchange Act. See 15 U.S.C. 78c(a)(22)(B). 
+327  See supra note 36. 
+328  See supra note 26. 
+329  See supra note 90.
+
+91 
+ 
+information includes the symbol, price, size, and exchange of the transaction, and it includes 
+odd-lot transactions. 
+Currently, information on all odd-lot orders inside the NBBO and information about 
+quotes that are outside of an exchange’s best bid and best offer (i.e., depth of book information) 
+are available only to investors who subscribe to the proprietary data feeds of all exchanges.330 
+The same is true for comprehensive odd-lot and depth of book information. Among other things, 
+the MDI Rules update and expand the content of consolidated market data to include: (1) certain 
+odd-lot information;
+331 (2) information about certain orders that are outside of an exchange’s 
+best bid and best offer (i.e., certain depth of book data);332 and (3) information about orders that 
+are participating in opening, closing, and other auctions.333  
+The MDI Rules also introduce a decentralized consolidation model under which 
+competing consolidators, rather than the existing exclusive SIPs, will collect, consolidate, and 
+disseminate certain NMS information.
+334 These competing consolidators are not required to offer 
+a product containing all elements of consolidated market data, but are able to develop the 
+ 
+330  The exclusive SIPs currently disseminate information on the best odd-lot order to buy and the best odd-lot 
+order to sell (“BOLO”). The best odd-lot order to buy means the highest priced odd-lot order to buy that is 
+priced higher than the national best bid, and the best odd-lot order to sell means the lowest priced odd-lot 
+order to sell that is priced lower than the national best offer. The 2024 Regulation NMS Amendments 
+adopted a requirement for the exclusive SIPs to disseminate information on the BOLO starting in May 
+2026. See 2024 Regulation NMS Amendments at 81676-81. The exclusive SIPs began disseminating 
+BOLO information on April 27, 2026. See UTP Vendor Alert #2026 – 5: UTP Data Service (UQDF) 
+Updated Specs Related to Dissemination of Odd-Lot data, NasdaqTrader (Feb. 2, 2026), 
+https://www.nasdaqtrader.com/TraderNews.aspx?id=UTP2026-05. The 2024 Regulation NMS 
+Amendments also adopted a requirement for the exclusive SIPs to disseminate odd-lot information as 
+defined under the MDI Rules starting in May 2026. See 2024 Regulation NMS Amendments at 81674-76, 
+81681. However, on Jan. 15, 2026, the Commission granted an exemptive relief request delaying the 
+requirement for the exclusive SIPs to begin disseminating odd-lot information until May 2028. See 
+Securities Exchange Act Release No. 104612 (Jan. 15, 2026), 91 FR 12577 (Jan. 21, 2026). 
+331  See 17 CFR 242.600(b)(69); Market Data Infrastructure Adopting Release at 18613.  
+332  See Market Data Infrastructure Adopting Release at 18602. 
+333  See id. at 18630. 
+334  See id. at 18637.
+
+92 
+ 
+consolidated market data products that their subscribers demand.335 This model is intended to 
+promote competition in how consolidated market data products are created and delivered. 
+The MDI Rules also introduced a four-tiered definition of round lot that is tied to a 
+stock’s average closing price during the Evaluation Period.336 For stocks with prices greater than 
+$250, a round lot is defined as consisting of between 1 and 40 shares, depending on the specific 
+price tier.337 The MDI round-lot rules were implemented on November 3, 2025.338 The 
+compliance date for the SIPs to collect, consolidate, and disseminate the odd-lot information 
+required by the MDI Rules is May 1, 2028.339  
+In the Market Data Infrastructure Adopting Release, the Commission established a 
+transition period for implementing the remaining requirements of the MDI Rules.340 The starting 
+point will be the Commission's approval of the plan amendment(s) required by Rule 614(e) 
+(“MDI Plan Amendments”).341 After approval, the next step will be a 180-day development 
+period, during which competing consolidators can register with the Commission.342 Based on the 
+times provided in the transition plan for implementation of the MDI Rules, the Commission 
+ 
+335  See id. at 18603-4, 18671-72. 
+336 Round lots will be updated every six months, with the round lot determined by the stock’s average price 
+with a one-month lag—i.e., a stock’s round lot is updated in May of every year using its average stock 
+price in March, and the round lot is updated again in November using its average stock price in September. 
+See 2024 Regulation NMS Amendments at 81699-700; 17 CFR 242.600(b)(93)(iv).  
+337  See Market Data Infrastructure Adopting Release at 18602. The Commission adopted a four-tiered 
+definition of round lot: 100 shares for stocks priced $250.00 or less per share  and for new NMS stocks, 40 
+shares for stocks priced $250.01 to $1,000.00 per share, 10 shares for stocks priced $1,000.01 to 
+$10,000.00 per share, and 1 share for stocks priced $10,000.01 or more per share.  See 17 CFR 
+242.600(b)(93)(i) through (ii). 
+338  See 2024 Regulation NMS Amendments at 81681. 
+339  See supra note 330. 
+340  See Market Data Infrastructure Adopting Release at 18699-18701. 
+341  See id. at 18699. 
+342  See id. at 18699-18700.
+
+93 
+ 
+estimated that the full implementation of the MDI Rules will occur at least two years after the 
+Commission’s approval of the MDI Plan Amendments.343 
+The Operating Committees of the CTA/CQ Plan and UTP Plan filed the MDI Plan 
+Amendments on November 5, 2021.344 The Commission disapproved the proposed amendments 
+on September 21, 2022.345 As a result, the participants in the effective national market system 
+plan(s) will need to develop and file new proposed amendments, as required by Rule 614(e), 
+before the implementation period prescribed by the phased transition plan can commence. 
+Because the implementation of the MDI Rules has been delayed, the end date of the 
+implementation period cannot be estimated with greater certainty. 
+Given that some provisions of the MDI Rules have not yet been implemented, they have 
+not affected market practice and therefore data that would be required for a quantitative analysis 
+of a baseline that includes the effects of the MDI Rules are not available. It is possible that the 
+baseline (and therefore the economic effects relative to the baseline) could be different once the 
+MDI Rules are implemented. The following discussion reflects the Commission’s assessment of 
+the anticipated economic effects of the unimplemented MDI Rules described in the Market Data 
+Infrastructure Adopting Release as they relate to the baseline for the adoption of these 
+amendments.
+346 
+ 
+343  See id. at 18700-18701. 
+344  The Operating Committees of CTA Plan and UTP Plan filed proposed amendments on Nov. 5, 2021, which 
+were published for comment in the Federal Register. See Securities Exchange Act Release Nos. 93615 
+(Nov. 19, 2021), 86 FR 67800 (Nov. 29, 2021); 93625 (Nov. 19, 2021), 86 FR 67517 (Nov. 26, 2021); 
+93620 (Nov. 19, 2021), 86 FR 67541 (Nov. 26, 2021); 93618 (Nov. 19, 2021), 86 FR 67562 (Nov. 26, 
+2021). 
+345  See Securities Exchange Act Release Nos. 95848 (Sept. 21, 2022), 87 FR 58544 (Sept. 27, 2022); 95849 
+(Sept. 21, 2022), 87 FR 58592 (Sept. 27, 2022); 95850 (Sept. 21, 2022), 87 FR 58560 (Sept. 27, 2022); 
+95851 (Sept. 21, 2022), 87 FR 58613 (Sept. 27, 2022). 
+346  See Market Data Infrastructure Adopting Release at 18741-18799.
+
+94 
+ 
+The MDI Rules may result in a higher number of odd-lot trades, as the inclusion of odd-
+lot quotes that may be priced better than the current NBBO in consolidated market data may 
+attract more trading interest from market participants that did not have access to this information 
+prior to the MDI Rules.347 However, the magnitude of this effect depends on the extent to which 
+market participants who rely solely on SIP data and lack information on odd-lot quotes choose to 
+receive the odd-lot information and trade based on it. The Commission states in the Market Data 
+Infrastructure Adopting Release that it believes it is not possible to observe this willingness to 
+trade with existing market data.348 
+The MDI Rules may have implications for broker-dealers’ order routing practices. For 
+those market participants that rely solely on SIP data for their routing decisions and that choose 
+to receive the expanded set of consolidated market data, the Commission anticipated that the 
+additional information contained in consolidated market data would allow them to make more 
+informed order routing decisions.
+349 This in turn would help facilitate best execution, which 
+would increase execution quality.350 Broker-dealers may choose to receive market data from 
+competing consolidators, who may offer different consolidated market data products at different 
+prices or at different latencies, or with different amounts of data content.
+351 Competing 
+consolidators will be required to disclose information about their consolidated market data 
+ 
+347  See id. at 18754. 
+348  See id. 
+349  The Commission states in the Market Data Infrastructure Adopting Release that it believes that competition 
+among consolidators will support high quality consolidated market data ( see id. at 18661). Furthermore, 
+while competing consolidators are not required to offer a product containing all elements of consolidated 
+market data, the Commission states that it believes that one or more competing consolidators will be 
+incentivized to offer a consolidated market product containing all data elements (see id. at 18752). 
+350  See id. at 18725. 
+351  See id. at 18606.
+
+95 
+ 
+products, including the services they will offer, the prices for such services, and performance 
+metrics, which will assist broker-dealers in selecting an appropriate competing consolidator.352   
+The option to receive consolidated market data from a competing consolidator, or 
+produce consolidated market data as a self-aggregator,353 is expected to form a reasonable 
+alternative to the use of exchange proprietary data feeds, with potentially lower costs.354 When 
+this happens, the Commission believes that exchanges may respond by lowering their fees for 
+connectivity and proprietary data feeds.355 
+The MDI Rules may also result in differences in the baseline competitive standing among 
+different trading venues for several reasons. First, the Commission anticipated that adding 
+information on odd-lot quotes priced at or better than the NBBO to expanded core data may 
+cause changes to order flow as market participants take advantage of newly visible quotes.356 
+However, the Commission stated that it was uncertain about the magnitude of this effect.357 To 
+the extent that it occurs, a change in the flow of orders across trading venues may result in 
+differences in the competitive baseline in the market for trading services.  
+Where implementation of the above-described MDI Rules may affect certain baseline 
+figures, the description of the baseline below notes those effects. 
+  
+ 
+352  See id. 
+353  Under the MDI Rules, a “self-aggregator” is a “broker-dealer, exchange, national securities association, or 
+investment adviser registered with the Commission” that will obtain data necessary to construct 
+consolidated market data from exchanges and aggregate it into consolidated market data only for its own 
+use (see id. at 18604). 
+354  See id., section V.C.4.a. 
+355  Id. 
+356  See id. at 18596, 18754. 
+357  See id. at 18754.
+
+96 
+ 
+ii. Amendments to Rule 605  
+The Commission amended Rule 605 on March 6, 2024, and the requirements of that rule 
+are part of the baseline considered here.358 With certain exceptions, the amendments to Rule 605 
+have a compliance date of August 1, 2026.359 The following discussion reflects the 
+Commission’s assessment of the anticipated economic effects of the amendments to Rule 605 
+described in the Rule 605 Amendments, as they relate to the baseline for these proposed 
+amendments. Specific interactions between the expected economic effects of the amendments to 
+Rule 605 and those of rules proposed herein will be discussed in detail in a later section.360 
+Rule 605 requires disclosures about execution quality for order executions in NMS 
+stocks.361 The Rule 605 amendments modified disclosure requirements in several ways. The 
+amendments expanded the scope of reporting entities subject to the rule to include larger broker-
+ 
+358  See Rule 605 Amendments Adopting Release.   
+359  See Securities Exchange Act Release No. 104147 (Sept. 30, 2025), 90 FR 47552 (Oct. 2, 2025) (“Rule 605 
+Amendments Extension”). On August 1, 2026, market centers, brokers, and dealers subject to Rule 605 will 
+need to begin collecting the information for the execution quality reports required under the Rule 605 
+Amendments. Reporting entities will then need to make their detailed and summary reports covering data 
+from August 2026 publicly available by the end of September 2026. See 17 CFR 242.605(a)(6). As an 
+exception, after odd-lot order information sufficient to calculate best available displayed price is made 
+available pursuant to an effective NMS plan, market centers, brokers and dealers will have six months to 
+begin including price improvement statistics relative to best available displayed price in their Rule 605 
+reports. See Rule 605 Amendments Adopting Release at 26497. The 2024 Regulation NMS Amendments 
+set the compliance date for every national securities exchange on which an NMS stock is traded and 
+national securities association to make available to the exclusive SIPs all data necessary to generate odd -lot 
+information, and for the SIPs to collect, consolidate, and disseminate odd-lot information, including the 
+BOLO, to the first business day of May 2026. See 2024 Regulation NMS Amendments, 89 FR at 81681. 
+Although the dissemination of odd-lot information was delayed until May 2028, the SIPs began 
+disseminating the BOLO on Apr 27, 2026. See supra note 330. Therefore, the compliance date for 
+including price improvement statistics relative to the best available displayed price in Rule 605 reports 
+remains six months after the first business day in May 2026 (i.e., in November 2026).  
+360  See infra section VI.C.1.b. 
+361  17 CFR 242.605.
+
+97 
+ 
+dealers,362 in addition to market centers.363 The amendments also enhanced the accessibility of 
+the reported execution quality statistics by requiring all reporting entities to make a summary 
+report available.364  
+The Rule 605 Amendments also included amendments to the information required to be 
+reported under Rule 605. Among other requirements, the amendments to Rule 605 added 
+requirements related to the reporting of price improvement statistics relative to the best available 
+displayed price, which incorporates information about the best-priced odd-lot orders.365 These 
+price improvement statistics will not be required to be reported until six months after odd-lot 
+order information needed to calculate the best available displayed price is made available 
+pursuant to an effective national market system plan.366 
+Additionally, the amendments to Rule 605 require the separate reporting of non-
+marketable limit orders that are priced at the midpoint of the NBBO or better (“midpoint-or-
+better NMLOs”), and additionally require the reporting of information about the effective spread 
+ 
+362  The term “larger broker-dealer” refers to a broker-dealer that meets or exceeds the “customer account 
+threshold,” as defined in Rule 605(a)(7). A larger broker-dealer introduces or carries 100,000 or more 
+customer accounts through which transactions are effected for the purchase or sale of NMS stocks. See 17 
+CFR 242.605(a)(7). 
+363  Regulation NMS defines the term “market center” to mean any exchange market maker, OTC market 
+maker, ATS, national securities exchange, or national securities association. See 17 CFR 242.600(b)(55). 
+364  See Rule 605 Amendments Adopting Release at 26428. 
+365  See 17 CFR 242.600(b)(14) (defining the “best available displayed price” as, with respect to an order to 
+buy, the lower of: the national best offer at the time of order receipt or the price of the best odd-lot order to 
+sell at the time of order receipt as disseminated pursuant to an effective transaction reporting plan or 
+effective national market system plan; and, with respect to an order to sell, the higher of: the national best 
+bid at the time of order receipt or the price of the best odd-lot order to buy at the time of order receipt as 
+disseminated pursuant to an effective transaction reporting plan or effective national market system plan. 
+With respect to a midpoint-or-better limit order, the best available displayed price shall be determined at the 
+time such order becomes executable rather than the time of order receipt) and 17 CFR 242.605(a)(1)(ii)(M) 
+– (Q). 
+366  The compliance date for including price improvement statistics relative to the best available displayed price 
+in Rule 605 reports is November 2026. See supra note 359.
+
+98 
+ 
+and the price improvement offered to these orders.367 An analysis by the Commission in the Rule 
+605 Amendments indicates that a high percentage of midpoint-or-better NMLO share volume is 
+submitted with IOC designations as compared to other NMLOs. This confirms that many of 
+these orders are submitted by traders with the intention of executing immediately against hidden 
+or odd-lot inside-the-quote liquidity, and that these orders tend to have different execution 
+characteristics than other types of NMLOs.368 Therefore, the Commission stated that market 
+participants will benefit from an increase in transparency by the separate reporting of these 
+orders, along with the required reporting of certain execution quality statistics that measure the 
+cost of executing immediately, such as effective spreads.369 
+Furthermore, the amendments to Rule 605 require the reporting of information regarding 
+the extent to which orders were executed at prices at or better than the quote for share quantities 
+greater than the displayed size at the quote, i.e., “size improvement.” This information includes 
+(1) a benchmark metric that measures the displayed size at the time of order receipt, which can 
+then be compared to the number of submitted shares to determine the extent to which a market 
+center or broker-dealer handled orders that exceeded available displayed depth,
+370 and (2) for 
+orders that are larger than available displayed depth, the number of shares that received size 
+improvement.371 
+ 
+367  See 17 CFR 242.600(b)(57) (defining “midpoint-or-better limit orders”) and 17 CFR 242.605(a)(1)(ii). 
+368  See Rule 605 Amendments Adopting Release at 26528. 
+369  See Rule 605 Amendments Adopting Release at 26556-26557, 26568. 
+370  See 17 CFR 242.600(b)(72) (defining the “order size benchmark”) and 17 CFR 242.605(a)(1)(ii)(R).  
+371  See 17 CFR 242.605(a)(1)(ii)(S), requiring the reporting of “the sum of, for each execution of a covered 
+order, the greater of: the total number of shares executed with price improvement plus the total number of 
+shares executed at the quote minus the order size benchmark, or zero.” The “total number of shares 
+executed with price improvement plus the total number of shares executed at the quote minus the order size 
+benchmark” (“net size improvement”) will only be a strictly positive number for those orders that  are both 
+eligible to receive size improvement and actually receive size improvement, and thus is equivalent to a
+
+99 
+ 
+The amendments to Rule 605 also modified the definition of order size categories. 
+Previously, order size categories were based on numbers of shares, with orders less than 100 
+shares excluded. Under the amendments order size categories are now based on a notional dollar 
+value range, along with an indication of whether the category reflects orders that were for an 
+odd-lot, at least a round lot, or less than a share.372 
+In the Rule 605 Amendments, the Commission stated that the amendments to Rule 605 
+will promote increased transparency of order execution quality, particularly for larger broker-
+dealers who were not required to disclose execution quality information under preexisting Rule 
+605, but also for market centers, whose execution quality information will be more relevant and 
+easier to access because of improvements to existing Rule 605 disclosure requirements.
+373 The 
+Commission stated in the Rule 605 Amendments Adopting Release that this increase in 
+transparency is expected to increase the extent to which market centers and broker-dealers 
+compete on the basis of execution quality, and produce improvements in execution quality.374 
+The Commission also stated that the amendments to Rule 605 will result in initial and ongoing 
+compliance costs, the majority of which will be related to expanding the scope of reporting 
+entities to include larger broker-dealers, but a significant portion of which will result from the 
+need for market centers to update their systems to process and store the data necessary to prepare 
+the amended reports.
+375 
+ 
+measure of shares that are eligible to and that received size improvement. See  Rule 605 Amendments 
+Adopting Release at 26428 n.1544. 
+372  See 17 CFR 242.600(b)(18). 
+373  See Rule 605 Amendments Adopting Release at 26543.  
+374  See id. at 26543-26544. 
+375  See id. at 26579-26580.
+
+100 
+ 
+Where implementation of the above-described Rule 605 Amendments may affect certain 
+numbers in the baseline, the description of the baseline below notes those effects. 
+iii. Changes to Regulation NMS Tick Sizes, Access Fees, and 
+Transparency of Better Priced Orders 
+In December 2024, the Commission adopted amendments to Regulation NMS Rule 612 
+affecting minimum pricing increments, or tick sizes, and to Rule 610 which affects the maximum 
+access fee that exchanges can charge to access protected quotations.376 The Commission also 
+accelerated elements of the MDI rules to accelerate the dissemination of odd-lot information in 
+the SIP data.377 While not yet implemented, some of the effects associated with these 
+amendments could interact with the analysis of elements of this proposal. The effects of these 
+rules potentially interact with the analysis of the proposed rescission of Rules 611 and 610(e).  
+The amendments to Rule 612 reduce the minimum pricing increment, or tick size, from 
+$0.01 to $0.005 for some stocks with consistently narrow quoted spreads. They also reduce the 
+access fee cap, i.e., the fee which exchanges charge to access protected quotes, from $0.003 per 
+share to $0.001 per share. Combined, the primary anticipated effect of these rule changes is to 
+reduce transaction costs, via lower quoted and effective spreads. Additionally, it was anticipated 
+that these rules could potentially reduce transaction costs for orders internalized by wholesalers 
+off exchange by improving the baseline reference point that wholesalers provide price 
+improvement against as they compete for order flow. These amendments also effectively make 
+existing Rule 611 stricter by narrowing the price range of permissible execution prices. 
+ 
+376  Implementation of the reduction in the tick size and access fee cap has been delayed until November 2026. 
+See supra note 76. 
+377  The dissemination of MDI odd-lot information in the SIP data has been delayed until May 2028. However, 
+the SIPs began disseminating information on the BOLO on Apr 27, 2026. See supra note 330.
+
+101 
+ 
+The amendments adopted in December 2024 also provide for the release of information 
+about odd-lot orders in SIP data. Specifically, the amendments accelerate the implementation of 
+provisions of the MDI Rules that provide for odd-lot information to be disseminated with SIP 
+data.378 They also require that the SIPs disseminate information on the BOLO, which was 
+implemented on April 27, 2026. The primary economic effect of this aspect of the December 
+2024 amendments was to provide investors an additional standard benchmark to gauge execution 
+quality, particularly for smaller or odd-lot orders.  
+These amendments have not yet been fully implemented, and their implementation could 
+affect the baseline analysis in a number of ways. First, the reduction in the minimum pricing 
+increment will create a finer grid of allowable price points and thereby increase the opportunities 
+for markets to lock or cross. Thus, the analysis presented here may understate the prevalence of 
+locked and crossed markets in a world where these amendments are fully implemented. Second, 
+the reduction in the access fee cap will put upward pressure on quoted spreads (because the 
+access fee funds rebates for liquidity provision, and a reduction in the rebate may require 
+liquidity suppliers to quote wider spreads in order to cover their costs) which will reduce the 
+likelihood that markets lock or cross. Additionally, dissemination of odd-lot information in the 
+SIPs may reduce trade-throughs by making market participants more aware of better-priced-odd-
+lot quotes. Thus, the baseline herein may overstate the prevalence of trade-throughs relative to 
+what might occur once odd-lot information is disseminated in the SIPs.
+379  
+ 
+378  See id and accompanying text. 
+379  Although the BOLO was implemented on April 27, 2026, the analysis in this release uses data from before 
+the implementation. Therefore, it may overstate the prevalence of trade-through rates relative to what 
+occurred after the implementation of the BOLO, when market participants would be  more aware of the 
+best-priced-odd-lot quotes included in the SIPs. The inclusion of odd-lot information in the SIP beginning 
+in May 2028 may result in a further reduction in odd-lot trade-throughs because market participants would 
+be more aware of odd-lot quotes priced between the BOLO and the NBBO.
+
+102 
+ 
+ 
+Rule 611 affects how orders are handled and executed in today’s equity markets. This 
+section discusses the main economic effects of current Rule 611, including its effects on 
+institutional and retail order handling and execution, liquidity provision, and other major 
+economic effects of the Rule. 
+ 
+Rule 611 can affect how the orders of institutional investors are handled and executed. 
+Institutional investors typically trade in sizes that exceed immediately available liquidity, so their 
+larger “parent” orders are purposefully split into smaller “child” orders and traded gradually to 
+mitigate slippage—the adverse movement in prices that occurs while the residual balance is 
+being executed. In practice, brokers employ algorithms that stage these child orders across 
+venues and time intervals, with the goal of minimizing the total transaction cost for the parent 
+order rather than trying to obtain the best available price for every single child order.
+380 Brokers 
+and clients evaluate transaction costs for institutional order outcomes at the parent order or 
+portfolio level rather than the child order level.381 Rule 611 may increase information leakage 
+and the slippage faced by institutional investor parent orders because routing constraints under 
+Rule 611 may reveal trading intentions more quickly or broadly than institutional investors 
+would prefer, thereby affecting the overall execution quality for large orders. 
+Institutional child orders must execute at, or at prices better than, the protected quotes, or 
+fit within one of Rule 611’s exceptions. Price protection provided by Rule 611 may contribute to 
+ 
+380  See, e.g. Tyler Beason & Sunil Wahal, The Anatomy of Trading Algorithms (working paper Sept. 27, 2020) 
+available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497001 (retrieved from SSRN Elsevier 
+database). 
+381  See, e.g., Andrea Frazzini, et al., Trading Costs (working paper Apr. 7, 2018) available at 
+https://ssrn.com/abstract=3229719 (retrieved from SSRN Elsevier database).
+
+103 
+ 
+the increased slippage of institutional orders because of the requirement for child orders to 
+execute against the protected quotes across many exchanges before accessing deeper liquidity in 
+the order book. These child order executions may help alert liquidity providers to the presence of 
+a larger parent order that is in the process of being “worked” by the broker-dealer (i.e., broken up 
+by the broker-dealer into smaller child orders for execution). This may allow liquidity providers 
+to withdraw or revise their quotes before the larger parent order has finished executing, which 
+can increase the execution costs for the remaining unexecuted portion of the parent order.
+382 In 
+summary, the requirements of Rule 611 may force institutional orders to interact with small, 
+dispersed displayed sizes prior to reaching larger liquidity pools, thereby increasing the 
+cumulative execution costs for the parent order. 
+Rule 611 may also limit the options of institutional investors seeking block crosses at 
+prices outside the NBBO.
+383 The displayed liquidity at the NBBO is often insufficient to fully 
+execute the size of the block order. A block cross cannot occur at a price outside of the protected 
+quotes unless an exception to Rule 611 applies. In such cases, trading venues may cancel or 
+decline crosses at prices outside protected quotes, or an executing broker may initiate an ISO 
+sweep to remove protected quotes and then complete the block at the desired price. If a trading 
+venue cannot execute a block cross, it may result in a large block order having to either “walk 
+ 
+382  The movement of quotes in an adverse direction after a trade occurs (up for buy orders and down for sell 
+orders) is often referred to as “price impact”, which is measured as the difference between the midpoint of 
+the NBBO at the time of the trade and the midpoint of the NBBO at a specified time (e.g., one minute or 
+five minutes) after the time of the trade.  
+383  Rule 611 does not impact block crosses at prices at or inside the NBBO, such as the NBBO midpoint. 
+However, a counterparty may not always be willing to execute a block cross at prices inside the NBBO and 
+instead may require a price concession to execute a large trade, resulting in an execution price outside the 
+NBBO. The price concession to execute the block cross may be less than the cost of executing the trade 
+against the liquidity available on exchanges (if sufficient liquidity is available). See e.g. , Donald B. Keim & 
+Ananth Madhavan, The Upstairs Market for Large-Block Transactions: Analysis and Measurement of Price 
+Effects, 9
+ REV. FIN. STUD. 1 (Jan. 1996); see also First TTR Roundtable Transcript at 207 (Debbie 
+Toennies, J.P. Morgan), at 255 (Vlad Khandros, OneChronos) (discussing Rule 611 and block trades).
+
+104 
+ 
+the book” on multiple exchanges to access sufficient depth to execute the order, or, as discussed 
+above, be executed over a longer period of time through a series of child orders, both of which 
+can increase transaction costs, adverse selection risk, and slippage.  
+However, Rule 611 contains exceptions that aid in the execution of institutional orders, 
+including a benchmark-priced exception.384 This exception allows institutions to execute orders 
+at prices outside of the protected quotes if the execution price was not based, directly or 
+indirectly, on the quoted price of an NMS stock at the time of execution and if the material terms 
+were not reasonably determinable at the time the commitment to execute the order was made.385 
+This allows institutional investors to execute large block trades that are based on benchmark 
+prices, such as the time-weighted average price (“TWAP”) or VWAP of previous trades, even if 
+these derived prices fall outside the protected quote.  
+The ISO order exception to Rule 611 also aids in the execution of institutional orders. It 
+enables a broker to use multiple child orders to simultaneously sweep protected quotes across 
+venues and immediately “walk the book” to execute more size at the target venue at prices 
+outside the protected quotes.
+386 While ISOs can facilitate access to deeper book liquidity, 
+clusters of ISO child orders may also potentially increase the immediate price impact and 
+slippage for the parent order, which may raise the execution costs compared to if the whole 
+parent order (or a larger portion of it) were able to be executed outside the NBBO.387  
+ 
+384  See supra section II.A.2. for further discussions on the exceptions to Rule 611.   
+385  For further discussions on the benchmark-priced exception for Rule 611 see NMS Adopting Release at 
+37536, and Division of Trading and Markets: Responses to Frequently Asked Questions Concerning Rule 
+611 and Rule 610 of Regulation NMS questions 3.07 and 3.08 (available at 
+https://www.sec.gov/divisions/marketreg/nmsfaq610-11.htm). 
+386  See supra section II.A.2. for further discussions. 
+387  See Sugato Chakravarty, et al., Clean Sweep: Informed Trading Through Intermarket Sweep Orders, 47 J. 
+FIN. & QUANTITATIVE ANALYSIS 415 (2012). See also Jane Street Letter at 2 (stating that trade-through 
+protection “is impactful for larger-sized equities orders where sweep requirements may result in executions
+
+105 
+ 
+As discussed in detail below, Rule 611 may be one of the factors contributing to the 
+proliferation of exchanges and the heightened fragmentation of displayed liquidity.388 This may 
+indirectly affect the execution of institutional orders because, as the fragmentation of displayed 
+liquidity increases, institutional child orders face more venues with small top-of-book sizes, 
+which raises the complexity and cost of routing to meet the requirements of Rule 611. This 
+greater dispersion across venues can make institutional trading intentions easier to detect, which 
+can increase slippage and hurt the overall execution quality of the parent order. 
+Additionally, as discussed in detail below, Rule 611 may be one of the factors 
+contributing to brokers connecting and purchasing market data from exchanges they would 
+otherwise eschew, thereby raising fixed costs for market-data subscriptions, connectivity, and 
+compliance tools.389 Ultimately, these costs may be indirectly passed through to institutional 
+investors and contribute to higher commission rates or reduced services. 
+ 
+As a consequence of Rule 611, firms who fill retail orders in a principal capacity cannot 
+do so at a price worse than the NBBO.390 As discussed below, in today’s trading environment, 
+the Commission observes that the vast majority of retail marketable orders are executed inside 
+the NBBO, rather than at the NBBO. Therefore, it seems that there are additional incentives in 
+ 
+across multiple venues with varying fee structures and latencies, potentially leading to worse overall 
+execution quality than alternative approaches”). 
+388  See infra section VI.B.4.g. for further discussion on the fragmentation of displayed liquidity. 
+389  See infra section VI.B.4.f. 
+390  In adopting Rule 611, the Commission observed that the great majority of internalized trades are the small 
+trades of individual investors, and that, in 2003, nearly 1 out of every 30 of these trades, of which there 
+were millions, appears to have been executed at a price inferior to an automated and accessible quotation. 
+See NMS Adopting Release at 37508.
+
+106 
+ 
+the current market for NMS stocks besides Rule 611 that are promoting execution quality for 
+retail orders. 
+Retail brokers route most of their customers’ marketable orders to off-exchange 
+wholesalers, who usually internalize the order (i.e., execute the order in a principal capacity). As 
+a consequence, most marketable retail orders do not directly interact with protected quotes and 
+are instead internalized off exchange.391 Wholesalers usually do not charge retail brokers for this 
+service and often pay them to receive the retail orders, a practice that is commonly referred to as 
+payment for order flow (“PFOF”).392  
+In practice, wholesalers typically execute the marketable orders of retail investors at 
+better prices than these orders would have received if they were routed to an exchange.393 Even 
+the majority of those retail marketable orders whose size exceeds the displayed size at the NBBO 
+are likely to be executed by wholesalers at or inside the NBBO. This is in contrast to “walking 
+ 
+391  See, e.g., Robert Battalio & Robert Jennings, Wholesaler Execution Quality, Mgmt. Sci. (articles in 
+advance ed. 2025) (“Battalio & Jennings (2025)”) (showing that wholesalers fully internalize 87% (58%) of 
+retail orders (shares) and partially internalize (i.e., execute a portion of the retail order in a principal 
+capacity, as well as executing a portion of the order using liquidity they source from other trading centers) 
+2% (23%) of retail orders (shares) they receive); Lewis Letter attached to letter from Douglas A. Cifu, 
+Chief Executive Officer, Virtu Financial, Inc., dated Mar. 30, 2023 (“Lewis Letter”) at 44-45 (showing that 
+Virtu fully internalized 86% of retail orders they received in December 2020); and Securities Exchange Act 
+Release No. 96495 (Dec. 14, 2022), 88 FR 128 (Jan. 3, 2023) (“OCR Proposing Release”)  at 192, Table 7 
+(showing that for individual investor marketable retail orders under $200K, wholesalers execute 90% of the 
+dollar volume in a principal capacity). 
+392  See, e.g., Thomas Ernst & Chester Spatt, Payment for Order Flow and the Retail Trading Experience 
+(Wharton Initiative on Fin. Pol’y & Regul., White Paper 2023), available at 
+https://wifpr.wharton.upenn.edu/wp-content/uploads/2023/09/Payment-for-Order-Flow-final.pdf 
+393  See, e.g., Battalio & Jennings (2025) (showing wholesalers execute 84% of the marketable retail order 
+trades they fully internalize (i.e., fill the order completely from the wholesaler’s inventory) at prices better 
+than the NBBO); Anne Haubo Dyhrberg et al., The Retail Execution Quality Landscape, 168 J. FIN. ECON. 
+104051 (2025) (“Dyhrberg et al. (2025)”) (showing that wholesalers provide price improvement to 82% of 
+the shares they execute and execute 95% of shares at the NBBO or better (based on dollar -volume 
+weighting across stocks)); Lewis Letter at 46 (showing in December 2020 that Virtu executed 78% of the 
+marketable retail orders inside the NBBO and 20% at the NBBO); and OCR Proposing Release  at 192, 
+Table 7 (showing that for retail orders under $200,000, wholesalers execute 90% of shares with price 
+improvement).
+
+107 
+ 
+the book” on exchanges and trading at prices outside the NBBO.394 Wholesalers may execute a 
+portion of the very largest retail orders at prices outside the NBBO, but research has shown that 
+the wholesaler is usually still executing the order at a better price when compared with the price 
+it would have received if it had executed the order against the aggregate displayed liquidity 
+across all exchanges sufficient to fill the order.395  
+This practice of executing retail orders at prices better than the NBBO reflects at least 
+two forces in the market for retail order executions. First, it is a consequence of the lower risk of 
+trading against retail order flow. An important element of the wholesaler business model is the 
+unique risk profile of retail order flow, which typically has lower adverse selection risk than 
+other types of order flow.
+396 Because of this, wholesalers can afford to execute these orders at a 
+ 
+394  See Battalio & Jennings (2025). They estimate the “size improvement” wholesalers provide to marketable 
+retail orders whose size exceeds the aggregate displayed size at the NBBO. For marketable retail orders 
+whose size is greater than the aggregate displayed size at the NBBO, they calculate the percentage of trades 
+that occurred at prices better than the NBBO. They find that wholesalers have a size improvement rate of 
+80% for orders that they fully internalize (i.e., the order is filled completely from the wholesaler’s 
+inventory) and 45% for orders they fully externalize (i.e., the order is filled completely with liquidity 
+sourced from external venues). They note that wholesalers often provide supplemental price improvement 
+to orders they externalize (i.e., the wholesaler adjusts the price of the shares they source externally to 
+provide better prices to the customer at the expense of the wholesaler). They compare the average 
+execution price of the retail order with the VWAP price it would have received if it had “successfully 
+accessed all of the displayed liquidity on each exchange’s order book depth, including odd-lots, top of book 
+and depth of book quotes.” They find that, on average, wholesalers provide 1.75 cents per share of price 
+improvement relative to this benchmark on orders they fully internalize and 0.17 cents per share on orders 
+they fully externalize. See also OCR Proposing Release at 192, Table 7 (showing that wholesalers only 
+execute 1.7% of the shares in marketable retail orders at prices outside the NBBO); Dyhrberg et al. (2025) 
+(showing wholesalers execute 95% of the shares in marketable retail orders at the NBBO or better (based 
+on dollar-volume weighting across stocks)).  
+395  See Battalio & Jennings (2025). For larger orders (the average executed value is $408,000 and 5,450 
+shares) that the wholesaler partially internalizes (i.e., the order is partially filled from the wholesaler’s 
+inventory and partially with liquidity sourced from external venues), they find that the average price 
+improvement measured against the NBBO is negative, indicating the majority of shares executed outside 
+the NBBO. However, they also found that wholesalers provided these orders with price improvement of 
+4.17 cents per share compared to the VWAP benchmark price if they had “walked the book” and executed 
+against the aggregate exchange displayed liquidity. This indicates that the wholesalers executed these larger 
+orders at better prices then those displayed on exchanges, often providing supplemental price improvem ent 
+to the portion of shares they sourced externally. 
+396  Wholesalers and other liquidity providers face adverse selection risk when they accumulate inventory ( for 
+example, by providing liquidity to more informed traders) because of the risk of market prices moving
+
+108 
+ 
+narrower spread compared to other sources of order flow, such as the order flow faced by a 
+market maker posting quotes on an exchange.   
+Second, the execution of retail orders by wholesalers at prices better than the NBBO 
+likely reflects some amount of competition among wholesalers providing these execution 
+services to retail brokers. A typical retail broker usually maintains relationships with multiple 
+wholesalers, divides its order flow among them, and then evaluates those wholesalers based on 
+the average aggregate execution quality they provide. The percentage of order flow sent to each 
+of these wholesalers is typically determined by the prior performance of the wholesaler as 
+measured by its average execution quality.
+397 Those wholesalers with inferior performance may 
+see their percentage of order flow adjusted lower.398 This competitive structure may incentivize 
+wholesalers to maximize the average price improvement relative to the NBBO offered to retail 
+ 
+away from them before they are able to unwind their positions. Wholesalers and other market makers are 
+usually not privy to the motives or information of the investors with whom they are trading. As such, 
+should the liquidity provider trade with an investor who possesses short-lived price information about the 
+security, it is exposing its inventory to adverse selection risk. Hence, liquidity providers normally choose 
+their trading strategies to minimize their interaction with order flow that has  high adverse selection risk. 
+When trading with order flow that has higher adverse selection risk, liquidity providers will charge a higher 
+spread to compensate themselves for taking on this risk. 
+397  See Thomas Ernst et al., What Does Best Execution Look Like? (working paper Nov. 30, 2023) available at 
+https://microstructure.exchange/papers/BrokerRouting.pdf (“Ernst, Malenko, Spatt and Sun (2023)”). They 
+show that retail brokers use the average effective over quoted ratio (i.e., the average effective spread 
+divided by the average NBBO quoted spread) as one of the main measures to evaluate wholesaler 
+performance and that retail brokers allocate more future order flow to wholesalers that provide better 
+average historical execution quality. They also show that retail brokers vary in how they evaluate 
+wholesaler aggregate execution quality. Some retail brokers evaluate aggregate execution on an individual 
+symbol basis, while others look at aggregate execution quality across all stocks, or groups of stocks. 
+Additionally, retail brokers vary in the length of the historical time period they use to calculate aggregate 
+execution quality, with some firms in their sample using a 30-day historical average and others using a 90-
+day historical average. Furthermore, retail brokers vary in the frequency at which they reallocate order flow 
+among wholesalers. They show some retail brokers reallocate order flow among wholesalers on a daily 
+basis, while others do so on a monthly basis. 
+398  See id. (discussing how retail brokers adjust their order flow based on wholesaler execution quality).
+
+109 
+ 
+marketable orders, which provides an incentive to execute the orders at prices better than the 
+NBBO.399  
+While Rule 611 generally restricts retail trades from being executed at prices inferior to 
+the prevailing NBBO, in practice this restriction does not appear to be of significant 
+consequence. The most Rule 611 can do for a retail order is to require that its execution price be 
+at the prevailing NBBO at the time of trade. Therefore, a retail order being executed at a price 
+better than the NBBO implies the presence of additional incentives, likely unrelated to Rule 611, 
+that led to that superior price for that order. Given the evidence discussed above400 regarding the 
+frequency of retail executions being priced better than the prevailing NBBO, two such forces 
+currently present in the retail execution market are lower adverse selection risk and the presence 
+of some degree of competition among wholesalers.  
+However, while retail executions inside the NBBO are common,
+401 it is not always the 
+case that a retail order receives meaningful price improvement.402 When this happens, it could be 
+the case that, but for Rule 611, that retail order would have received a worse execution price. The 
+ 
+399  See id. They examine how wholesalers adjust the price improvement they offer as they approach the time 
+period when the retail broker reallocates order flow among wholesalers. They find that wholesalers offer 
+greater price improvement when they are further behind the nearest higher ranked competitor (i.e., they are 
+lower in the execution quality ranking compared to another wholesaler the retail broker routes orders to) , 
+but offer less improvement when they are further ahead of their closest worse competitor (i.e., they are 
+further ahead of other wholesalers in the competitive execution quality rankings). Additionally, they 
+examine the effects when a retail broker establishes a relationship with a new wholesaler and find that other 
+wholesalers increase the amount of price improvement they offer when the new wholesaler enters the 
+market. These results indicate that wholesalers respond to competitive pressures by increasing the amount 
+of price improvement they offer in order to attract more retail order flow. 
+400  See supra note 393 and accompanying text. 
+401  See id. 
+402   See, e.g., Battalio & Jennings (2025) (showing that 16% of the marketable retail order trades wholesalers 
+fully internalize (i.e., the order is filled completely from the wholesaler’s inventory) do not receive price 
+improvement); Lewis Letter at 46 (showing in December 2020 that Virtu executed 21% of the marketable 
+retail orders it fully internalized without price improvement); and OCR Proposing Release at 192, Table 7 
+(showing that for marketable retail orders under $200,000, wholesalers executed 10% of shares without 
+price improvement and that they executed 18.6% of shares with less than 0.1 cents of price improvement).
+
+110 
+ 
+empirical analysis in Table 7 below shows that, for high-priced stocks, when displayed, 
+unprotected odd-lot quotes are available at better prices inside the NBBO, wholesalers trade-
+through these odd-lot quotes between 15%-18% of the time. As a result, they internalize the 
+retail order at a worse price than it would have received if it had traded against the odd-lot 
+quotes.403 This analysis supports the argument that, in some cases when a retail order does not 
+receive price improvement relative to the NBBO, Rule 611 may prevent wholesalers from 
+executing the order at a price worse than the NBBO and contribute to the execution quality 
+received by these retail trades. 
+In addition, because wholesalers are evaluated based on average execution quality, they 
+may cross-subsidize the price improvement they offer to marketable retail orders. The wholesaler 
+may provide greater price improvement on some individual retail orders while providing less 
+price improvement on other retail orders, in such a way that the wholesaler’s overall profit is 
+increased. The manner in which wholesalers cross-subsidize may vary across retail brokers based 
+on how the individual retail broker evaluates aggregate wholesaler execution quality.404 Given 
+how retail brokers allocate order flow, wholesalers have incentives to earn higher profits and 
+ 
+403  See infra section VI.C.1.c.i, Table 7 and accompanying text. This analysis shows that, for off-exchange 
+retail trade sizes between 5 and 40 shares in high-priced stocks, when odd-lot quotes with sufficient size to 
+fill a retail trade are available at prices inside the NBBO, wholesalers trade-through these better priced odd-
+lot quotes between 15% to 17% of the time, with the trade-through rate declining as the trade size 
+increases. 
+404  The method of cross-subsidization could vary both across stocks and types of orders or order sizes. For 
+example, Ernst, Malenko, Spatt and Sun (2023) find that wholesalers increase the price improvement they 
+offer to odd-lot sized orders when a retail broker began placing more emphasis on these types of orders in 
+its wholesaler evaluation criteria. At the same time, the wholesalers decreased the amount of price 
+improvement they offered to large orders. This indicates the wholesalers might have switched to cross-
+subsidizing improved execution quality in odd-lot orders at the expense of larger orders. See also Thomas 
+Ernst et al., Would Order-By-Order Auctions Be Competitive?. 80 J. FIN. 1879 (2025) (showing in an 
+extension of their model that wholesalers incur losses when trading small, high- cost stocks, which they 
+compensate with larger profits from trading large, low-cost stocks); and Dyhrberg et al. (2025) (showing 
+that after accounting for inventory costs, wholesalers earn lower profits internalizing smaller stocks 
+compared to S&P 500 stocks; indicating wholesalers may cross-subsidize less liquid stocks). Additionally, 
+based on staff experience, the Commission understands that retail brokers may sometimes direct 
+wholesalers how (e.g. in which symbols or order sizes) to focus their price improvement.
+
+111 
+ 
+offer less price improvement on retail trades that have less impact on the average aggregate 
+execution quality metrics that retail brokers use to evaluate wholesaler performance. Thus, while 
+Rule 611 may not have an impact on the majority of wholesaler trades, there may be select cases 
+in which Rule 611 does result in a better execution price than would otherwise have been 
+given.405 This, in turn, may place limits on wholesalers’ ability to cross-subsidize and offer 
+additional price improvement to other retail orders.     
+In contrast to marketable retail orders, the Commission understands that the majority of 
+retail non-marketable limit orders are either directly or indirectly displayed on an exchange and 
+may qualify as a protected quote.406 Although Rule 611 may potentially benefit these retail 
+orders because trade-through protection may increase their chance of executing, the Commission 
+believes that this benefit may be limited and may not significantly affect the execution rates of 
+retail non-marketable limit orders.
+407 
+ 
+Rule 611 can impact how liquidity is supplied in a number of ways. Rule 611 can help 
+prevent trade-throughs of round-lot sized quotes, which can help incentivize the posting of 
+displayed limit orders, although its overall effects on displayed liquidity are likely limited. Rule 
+611 may also be one of the factors that contributes to the fragmentation of displayed liquidity, 
+ 
+405  These cases would coincide with those trades where no meaningful price improvement is offered. 
+406  Retail brokers may first route retail non-marketable limit orders to wholesalers, who then may post their 
+own representative limit order at the same price on an exchange and execute the retail limit order on a 
+riskless principal basis if their representative order executes. See Amber Anand, et al., Retail Limit Orders, 
+30 REV. FIN. 459 (2026). Wholesalers maintain connectivity with many exchanges and also have 
+sophisticated SORs. Retail brokers often outsource their order handling to wholesalers, who bundle their 
+market access services with their execution services. 
+407  See First TTR Roundtable Transcript, at 147 (Jeff Starr, Schwab) (stating that Schwab’s retail limit orders 
+execute 97% of the time when an execution occurs at the limit price or worse, and that this rate doesn’t 
+change if the limit order is a round-lot size or an odd-lot size). See also infra section VI.B.2.c for further 
+discussions on the effects of Rule 611 on liquidity supply and the trade-through of limit orders.
+
+112 
+ 
+which helps HFTs engage in certain trading strategies, such as latency arbitrage, that may 
+increase trading costs for other market participants. Additionally, Rule 611 may be one of the 
+factors that affects how exchanges set their access fees.  
+Rule 611 appears to limit trade-throughs, although the magnitude of its effect is 
+uncertain. An analysis by Commission staff compared the trade-through rate during normal 
+market hours with the trade-through rate during the pre-market and after-hours sessions, when 
+Rule 611 does not apply.
+408 This analysis found that trade-through rates increased slightly 
+outside of normal trading hours. In a separate analysis discussed below,409 Commission staff 
+examined the rate at which displayed, unprotected odd-lot quotes on exchanges were traded 
+through. For high-priced stocks, these odd-lot quotes represent substantial notional liquidity yet 
+can be traded-through without violating Rule 611.410 This analysis found higher trade-through 
+rates for odd-lot quotes than other studies have found for round-lot quotes that were subject to 
+trade-through protection, but also found that odd-lot trade-through rates decreased as the size of 
+ 
+408  See OAR Roundtable Analysis, supra note 121. The analysis found the average trade-through rates for 
+corporate stocks and ETPs during regular trading hours were 0.3% and 0.1%, respectively, when a one-
+second look back was included (see supra section II.A.2., discussing the one second exception to Rule 
+611). The analysis found that the average trade-through rates increased slightly to 0.5% (corporate stocks) 
+and 0.5% (ETPs) during the pre-market session and 0.4% (corporate stocks) and 0.6% (ETPs) during the 
+after-hours session, when Rule 611 does not apply. However, one limitation of this analysis is that the 
+comparison of trade-through rates in the regular market session to the pre-market and after-hours sessions 
+may not shed light onto how trade-through rates would change if Rule 611 is rescinded. It is possible that 
+some market participants and trading centers do not change their behavior and operate as if Rule 611 is still 
+in effect during the pre-market and after-hours sessions. See, e.g., First TTR Roundtable Transcript at 108 
+(Joe Mecane, Citadel) (discussing how his firm operates as if Rule 611 was in effect during the pre-market 
+and after-hours sessions). 
+409  See infra section VI.C.1.c (discussing Commission staff analysis of trade-through rates of unprotected odd-
+lot quotes.) 
+410  As high-priced stocks have become more common and represent a greater share of volume, the amount of 
+order flow covered by Rule 611 has fallen. This is because odd-lot orders and hidden liquidity are 
+particularly prevalent for high-priced stocks. See Robert P. Bartlett et al., The Market Inside the Market: 
+Odd-Lot Quotes, 38 REV. FIN. STUD. 661 (2025) (discussing displayed odd-lot liquidity on exchanges) and 
+Robert Bartlett & Maureen O'Hara, Navigating the Murky World of Hidden Liquidity (Stanford L. & Econ. 
+Olin Working Paper No. 594, Nov. 7, 2024), available at: https://ssrn.com/abstract=4988855 (retrieved 
+from SSRN Elsevier Database) (discussing hidden liquidity on exchanges).
+
+113 
+ 
+the transaction increased, suggesting that trade-through rates of unprotected round lots would be 
+lower than the estimates in the analysis.411   
+To the extent Rule 611 prevents trade-throughs of exchanges’ best round-lot sized bids 
+and offers, it may potentially increase the execution probability of a displayed limit order of 
+round-lot size, which in turn could increase the incentive for liquidity suppliers to display a limit 
+order of round-lot size at or inside the NBBO. However, the Commission believes that this effect 
+is likely to be limited. Market participants often display unprotected odd-lot orders inside the 
+NBBO, indicating that order protection may not be a significant factor in the size of, or decision 
+to display their order.412 Additionally, Commission staff analysis below shows that trade-through 
+rates of unprotected quotes fall as trade size increases, indicating that Rule 611 may not 
+significantly affect the trade-through rates of round-lot orders.
+413 Therefore, while the results of 
+these analyses suggest that Rule 611 may provide some protection for round-lot liquidity, its 
+overall effect on liquidity provision and displayed liquidity may be limited (particularly given 
+the increasing prevalence of odd-lot trading and unprotected odd-lot quotes inside the NBBO).414  
+As discussed in detail below, Rule 611 may also be one of the factors contributing to the 
+fragmentation of displayed liquidity.415 This fragmentation disperses displayed liquidity across 
+ 
+411  See infra section VI.C.1.c.i. For trades of size 5 to 40 shares, the analysis finds trade-through rates of 1-4% 
+for trades that occur on exchange, and 11-19% for trades off-exchange; the notional value of the trade-
+throughs—measured by the amount of dollar volume that executed outside the best quote—is 0.03-0.07 
+basis points for on-exchange trades, and 0.32-0.84 basis points for off-exchange trades. As trade size 
+increases, the estimated trade-through statistics fall, suggesting that the effect of Rule 611 on round lots 
+will be lower than these estimates. When extrapolating these results to round lots in the abse nce of Rule 
+611, the primary limitation is that round lots are both protected and set the NBBO; to the extent market 
+participants do not want to trade-through the NBBO even in the absence of Rule 611, the trade-through 
+rates of unprotected round lots will be lower than the rate estimated from unprotected odd -lots.  
+412  See Robert P. Bartlett et al., The Market Inside the Market: Odd-Lot Quotes, 38 REV. FIN. STUD. 661 
+(2025).  
+413  See supra note 411 and infra section VI.C.1.c.i.  
+414  See Robert P. Bartlett et al., supra note 412. 
+415  See infra section VI.B.4.g.
+
+114 
+ 
+numerous order books, increasing routing complexity and potentially thinning size at the inside, 
+even if aggregate depth is ample. As discussed further below, Rule 611 also helps HFTs engage 
+in certain trading strategies that lead to the “gaming” of displayed protected quotes and 
+potentially increase trading costs for other market participants, such as by posting fleeting orders 
+as protected quotes designed to attract the routing of marketable orders or engaging in certain 
+latency arbitrage strategies.
+416 This fragmentation has also created latency arbitrage opportunities 
+for HFTs due to price differentials across trading venues combined with differences in latency 
+between the SIPs and exchange direct feeds, which has contributed to the speed “arms race” 
+discussed below.417 However, exchanges have also innovated around protected quotes and 
+developed speed bumps and specific order types to counteract the effects of faster traders’ speed 
+advantage.418 
+Rule 611 also interacts with exchanges’ incentives for setting access fees. Maker-taker 
+exchanges419 often calibrate rebates and access fees near the access fee cap,420 so that being at 
+the inside (and therefore having a protected quote) becomes economically attractive for liquidity 
+suppliers. However, exchanges have reasons other than Rule 611 to set their access fees near the 
+ 
+416  See infra section VI.B.4.b. (discussing latency, HFTs and the speed “arms race”), section VI.B.4.g. 
+(discussing the fragmentation of displayed liquidity), and section VI.B.3. (discussing latency arbitrage).  
+417  See infra section VI.B.4.b. 
+418  See infra section VI.C.4.b. See also First TTR Roundtable Transcript at 72–73 (Dave Lauer, Urvin Finance 
+and We the Investors) (discussing fragmentation and latency arbitrage).  See infra section VI.B.4.g. 
+(discussing exchange innovation around protected quotes). 
+419  The predominant exchange fee structure is maker-taker, in which an exchange charges a fee to liquidity 
+takers and pays a rebate to liquidity providers, and the rebate is typically funded through the access fee.  See 
+infra section VI.B.3 (for details on the maker-taker fee structure). 
+420  Rule 610’s access-fee cap limits what venues can charge for accessing the best displayed bid and offer on 
+an exchange.
+
+115 
+ 
+cap. For example, half of SIP revenue is allocated to exchanges based on percentage of time they 
+are quoting at the NBBO.421  
+ 
+Rule 611 has a number of additional effects beyond its impact on order handling, 
+execution, and liquidity provision. Rule 611 imposes cost burdens on trading centers and broker-
+dealers, contributes to market complexity, and limits innovation in trading protocols. 
+Rule 611 imposes additional costs on trading centers and broker-dealers that operate 
+SORs. Rule 611 requires trading centers to incur ongoing costs to maintain their policies and 
+procedures and to surveil for trade-through violations. The Commission estimates that the 
+current annual ongoing cost for each trading center of maintaining up-to-date policies and 
+procedures related to Rule 611 is $30,996.422 Similarly, Rule 611 requires broker-dealers that 
+operate SORs to incur ongoing costs to maintain logic to prevent trade-throughs or to utilize one 
+of the exceptions to Rule 611. The Commission estimates that the current annual ongoing cost 
+for each broker-dealer operating a SOR to maintain this logic is $13,140.
+423   
+The requirements of Rule 611 and Rule 610(e) also make it more complicated and costly 
+for trading centers and broker-dealers to routinely maintain and update the systems for their 
+matching engines and SORs. For example, it might take staff longer to adjust routing algorithms 
+for a new order type, because they may need to write additional code for how the order type will 
+avoid trading through protected quotes on multiple venues. As discussed in further detail below, 
+the Commission estimates that the annual cost of this additional maintenance is between 
+$319,000 and $637,000 for each exchange, between $159,000 and $319,000 for each ATS, 
+ 
+421  See infra section VI.B.4.d. 
+422  See infra note 577 and accompanying text.  
+423  See infra note 581 and accompanying text.
+
+116 
+ 
+between $16,000 and $32,000 for each OTC market maker, and between $16,000 and $319,000 
+for broker-dealers that operate a SOR (broker-dealers that connect to more exchanges would 
+have higher costs).424 
+Rule 611 contributes to the current level of market complexity. Rule 611 has led to the 
+creation of additional order types and modifiers, such as ISO orders, to help manage compliance 
+with Rule 611 order routing.425 This has increased the complexity of order routing and execution. 
+Additionally, as discussed in detail below, Rule 611 is one of the factors that has contributed to 
+the fragmentation of displayed liquidity, which also increases market complexity by making it 
+more difficult to route orders and monitor the market.426 However, overall equity market 
+complexity has been increasing for unrelated reasons as well, including changes in technology, 
+other market structure rules, and economic incentives (such as SIP revenue allocations). 
+As discussed in detail below, Rule 611 is one of the factors that limits innovation in 
+exchange and ATS trading protocols.427 It limits these venues to having trading protocols that 
+execute at prices inside or at the protected quotes, unless they fall within one of the exceptions to 
+Rule 611. However, other factors besides Rule 611 (e.g. fair access requirements and limitations 
+on segmentation) may play a larger role in limiting exchange innovation.428  
+ 
+Current Rule 610(e) prevents markets that lock and cross the NBBO. Academic research 
+into NBBO locked and crossed markets indicates that truly locked and crossed markets occur 
+ 
+424  See infra section VI.C.3.a. for further discussions on these costs. 
+425  See supra section II.B.2.a. See also infra section VI.B.3 (discussing how Rule 610(e) has also led the 
+creation of additional order types). 
+426  See infra section VI.B.4.g. 
+427  See infra section VI.B.4.g. 
+428  See infra section VI.B.5.a. (comparing rules for exchanges and ATSs).
+
+117 
+ 
+very seldom and when they do, they are corrected very quickly.429 Most instances of locked and 
+crossed markets reported in SIP data are due to latency artifacts associated with the geographical 
+distances between the various data centers and the SIP. The SIP must compile data from 
+geographically separate data centers which, due to limitations on transmission speeds and 
+varying geographical distances, arrive at the SIP with different latencies.430 Thus, a locked or 
+crossed market posted by the SIP usually reflects stale information, and after correcting for this 
+latency, truly locked or crossed markets are rare occurrences. This rarity of locked and crossed 
+markets reflects the effectiveness of exchange protocols to prevent displaying orders that would 
+lock or cross markets. 
+Staff analysis of locked and crossed markets confirms this finding. This analysis finds 
+that for a sample of high-priced stocks, these stocks spend almost no time with locked or crossed 
+markets. On average, a stock-day in our sample spends 0.3% of the trading day locked, and 0.3% 
+crossed.
+431 Locked markets, however, are substantially more prevalent among stocks with tighter 
+spreads, and markets that lock or cross odd-lot quotes inside the NBBO, which are not prohibited 
+by 610(e), are also somewhat more common.432 
+Even without a rule prohibiting locked and crossed markets, locked and crossed markets 
+should be rare because they create temporary profit opportunities that will be acted upon very 
+quickly. For instance, if market prices move and a liquidity provider fails to update its quotes 
+ 
+429  See Robert H. Battalio et al., Latency and the Look-Ahead Bias in Trade and Quote Data (working paper 
+Dec. 11, 2025), available at https://ssrn.com/abstract=5907665 (retrieved from SSRN Elsevier Database). 
+See also analysis in infra section VI.C.2.c. 
+430  See Phil Mackintosh, Time is Relativity: What Physics Has to Say About Market Infrastructure, NASDAQ 
+(Mar. 20, 2026, 11:09AM), https://www.nasdaq.com/articles/time-is-relativity-what-physics-has-to-say-
+about-market-infrastructure-2020-04-09. See also infra section VI.B.4.b. (discussing the role of latency). 
+431  A stock-day is the unique pair of a stock symbol and a date. For example, one observation in the sample is 
+TSLA on October 1, 2025; a second observation is COST on October 2, etc. 
+432  See analysis in infra section VI.C.2.c.
+
+118 
+ 
+quickly enough, then this can result in a locked or crossed market. This situation sets off a race 
+between opportunistic arbitrageurs—who see an opportunity for profit—and the liquidity 
+provider, who will lose money if its stale quote is transacted against at a price that is 
+disadvantageous to it. This race means that locked and crossed markets will likely disappear very 
+quickly as both arbitrageurs and liquidity providers are on alert for such situations. Accordingly, 
+most locked and crossed markets that occur in the SIP data are the results of geographic 
+latencies.
+433  
+Prohibiting locked or crossed markets has a number of baseline economic effects. First, it 
+leads to wider spreads for some stocks. Prohibiting locked and crossed markets means that the 
+narrowest spread that a stock can quote at is the minimum pricing increment. However, some 
+stocks may have economic fundamentals justifying a narrower spread than the minimum pricing 
+increment. In these cases, a stock could trade efficiently with a zero quoted spread due to the 
+existence of rebates. In the predominant maker-taker system, liquidity demanders pay a fee 
+which is then partially rebated to liquidity providers. Consequently, even in an environment 
+where quoted spreads are zero, the liquidity provider will still earn the rebate. For stocks where 
+this rebate is sufficient compensation for providing liquidity, a zero quoted spread could be the 
+competitive outcome. However, by prohibiting locked markets, these stocks trade at a quoted 
+spread equal to the minimum pricing increment, which increases transaction costs.  
+Another economic effect is that prohibiting locked and crossed markets adds to market 
+complexity as market participants must manage orders sent and orders received to ensure that 
+they do not lock or cross markets. Trading centers have developed specialized order types to 
+ 
+433  See supra note 450.
+
+119 
+ 
+comply with the prohibition on locked and crossed markets.434 These order types add to market 
+complexity and may provide an advantage to more sophisticated market participants, such as 
+high tech algorithmic traders with expansive data and processing capacities, who are more 
+capable of managing increased complexity.  
+Prohibiting locked and crossed markets may also help prevent some investor 
+confusion.435 It is possible that some market participants, particularly those without direct data 
+feeds to the exchanges, could be confused about the current state of the market if a stock is 
+displaying locked or crossed quotations. Therefore, prohibiting locked and crossed markets could 
+reduce the likelihood of confusion among these investors, which could result in better order 
+routing by these market participants and lower transaction costs. However, there is significant 
+uncertainty regarding the extent to which locked and crossed markets result in investor 
+confusion. 
+The prohibition on locked and crossed markets also helps facilitate straightforward 
+computation of various Rule 605 statistics that require referencing the NBBO. For example, in 
+the presence of crossed markets, computing the percentage of trades receiving price 
+improvement (relative to the NBBO) would be difficult. This is because crossed markets can 
+indicate that markets are temporarily out of equilibrium. Prior to the prohibition on locked and 
+crossed markets, the Commission posted FAQ guidance on how to handle such instances of 
+ 
+434  See supra section VI.B.1.b. (describing the functionality of some of these order types). 
+435  See, e.g., Second TTR Roundtable Transcript at 64 (Dmitry Bulkin, Bernstein) (“However, I would say that 
+I can easily imagine a rising number of calls for retail brokers asking questions [in response to increased 
+locked or crossed markets]. So it's going to take time -- take some effort on behalf of retail brokers to 
+educate their clients.”) and at 65 (Mehmet Kinak, T. Rowe Price) (“I do think crossed markets could 
+obviously lead to some investor confusion.”).
+
+120 
+ 
+locked and crossed markets.436 By prohibiting locked and crossed markets, Rule 605 statistics 
+are easier to interpret.  
+ 
+In the years since Rules 611 and 610(e) were adopted, the NMS stock market has seen a 
+proliferation of new exchanges. Large executing broker-dealers have generally become active on 
+each new exchange as it comes online, often with significant cost. A number of market 
+conditions may contribute to the proliferation of exchanges and fragmentation. These include the 
+SIP revenue allocations, the market power that can come from offering significant liquidity, and 
+the effects of Rule 611 and 610(e). Rules 610(e), and especially Rule 611, impact the transaction 
+costs of different order routing strategies, which may incentivize broker-dealers to connect to 
+more exchanges and submit orders even to small exchanges to which they are connected. Rules 
+611 and 610(e), along with other factors, may limit exchange innovation because they 
+incentivize the adoption of certain exchange models. 
+ 
+The number of exchanges has more than doubled since the adoption of Regulation NMS. 
+Exchange ownership structures have also changed over time, with three exchange families now 
+operating twelve exchanges, as well as many independent exchanges. As the number of 
+exchanges has increased, so has the fragmentation of displayed liquidity.
+437 Overall market 
+fragmentation has also increased, as trading is now spread across more on- and off-exchange 
+venues. 
+ 
+436  See STAFF LEGAL BULL. NO. 12R, supra note 310. 
+437  See infra section VI.B.4.g. (describing fragmentation of displayed liquidity and market fragmentation).
+
+121 
+ 
+At the time of the adoption of Regulation NMS, there were eight exchanges and one 
+national securities association that traded NMS stocks.438 Six of these exchanges are still present 
+today. Two were absorbed during mergers, and the trading platform that was a national securities 
+association has since become an exchange.439 
+Currently, there are 17 exchanges that trade NMS stocks and three that are approved but 
+not yet operating.440 This suggests there has been a significant incentive for new entrants since 
+Regulation NMS was adopted. However, approximately half of the 10 new and currently 
+operating exchanges were ATSs or ECNs at the time Reg NMS was adopted but became 
+ 
+438  See NMS Adopting Release at 37576 at n. 730. The eight exchanges were Amex, BSE, CBOE, CHX, NSX, 
+NYSE, Phlx, and PCX, and the national securities association was NASD. 
+439  See infra note 440. The two exchanges that were absorbed during mergers are PCX and CBOE. PCX 
+merged with NYSE and Arca, while CBOE’s parent company still exists and currently operates four 
+exchanges after mergers with BATS and Direct Edge: BYX, BZX, EDGA, EDGX. 
+440  See supra note 36. Ownership has changed since the adoption of Regulation NMS. Amex was acquired by 
+NYSE (Euronext) in 2008 and later rebranded to NYSE American. See James Chen, American Stock 
+Exchange History: From AMEX to NYSE American, INVESTOPEDIA (Sept.11, 2025), 
+https://www.investopedia.com/terms/a/amex.asp. BSE was acquired by Nasdaq in 2007 and later rebranded 
+to Nasdaq BX and now Nasdaq Texas. See Boston Stock Exchange, NASDAQ, 
+https://www.nasdaq.com/glossary/b/boston-stock-exchange (last accessed Mar. 24, 2026) and Data News 
+#2026 – 2 Nasdaq Announces BX Name Change to Nasdaq Texas, NASDAQTRADER, (Feb. 12, 2026), 
+https://www.nasdaqtrader.com/TraderNews.aspx?id=DN2026-2. CHX was acquired by NYSE’s parent 
+company in 2018 and later rebranded to NYSE Chicago and now NYSE Texas. See Jesse Pound, The New 
+York Stock Exchange is Launching an Exchange in Texas, CNBC (Feb .12, 2025, at 9:37 AM EST), 
+https://www.cnbc.com/2025/02/12/the-new-york-stock-exchange-is-launching-an-exchange-in-
+texas.html?msockid=13f443750938674a18ca56bd08b86613. NSX was acquired by NYSE’s parent 
+company in 2017 and later rebranded to NYSE National. See Press Release, ICE Investors, NYSE Finalizes 
+Acquisition of National Stock Exchange (Jan. 31, 2017), available at https://ir.theice.com/press/news-
+details/2017/NYSE-Finalizes-Acquisition-of-National-Stock-Exchange/default.aspx. Phlx was acquired by 
+Nasdaq in 2007 and later renamed to Nasdaq PSX. See Press Release, Nasdaq Investor Relations, NASDAQ 
+to Acquire Philadelphia Stock Exchange (Nov. 7, 2007), available at https://www.nasdaq.com (from main 
+webpage, navigate to investor relations page). PCX was acquired by NYSE in 2006 along with Arca. See 
+The History of NYSE, NYSE, https://www.nyse.com/history-of-nyse (last visited Mar. 2, 2026). Cboe 
+acquired BATS in 2016, yielding BYX, BZX, EDGA, and EDGX. See Press Release, CBOE Holdings 
+Agrees to Acquire Bats Global Markets (Sept. 26, 2016), available at https://ir.cboe.com/news/news-
+details/2016/CBOE-Holdings-Agrees-to-Acquire-Bats-Global-Markets-09-26-2016/default.aspx. BATS 
+had previously acquired Direct Edge in 2013. See Michael J. De La Merced & Nathaniel Popper, BATS and 
+Direct Edge to Merge, Taking on Older Rivals, N.Y . Times (Aug. 26, 2013) (retrieved from Factiva 
+database).
+
+122 
+ 
+exchanges as a consequence of other incentives.441 Nevertheless, it is possible that these ATSs 
+converted to exchanges in response to new incentives created after Regulation NMS was 
+adopted. 
+The fragmentation of displayed liquidity has increased as more exchanges have entered 
+the market and the share of dollar volume traded is now spread across a greater number of 
+exchanges. In the month of January 2026, just over 50% of total dollar volume was traded on 
+exchanges.442 The three exchanges with the largest dollar volume represent over 30% of all 
+dollar volume.443 Of the remaining 14 exchanges, 10 have a market share of less than 1%. At the 
+time of adoption of Reg NMS, one exchange had a market share of approximately 80% in 
+NYSE-listed stocks.444 
+Another source of the increased market fragmentation is the fact that approximately half 
+of total dollar volume is now executed off exchange.445 There are currently 33 ATSs trading 
+NMS stocks,446 and in the month of January 2026, the three ATSs with the largest trade counts 
+ 
+441  The five exchanges are NYSE Arca, Cboe BYX, Cboe BZX, Cboe EDGA, and Cboe EDGX. Archipelago 
+was an ECN, which later became NYSE Arca. See Adam Hayes, Archipelago: What It Is, How It Works, 
+INVESTOPEDIA (Oct. 17, 2022), https://www.investopedia.com/terms/a/archipelago.asp. BATS was an ATS, 
+which later became BYX and BZX. See Will Kenton, BATS Global Markets: Definition, History, and Cboe 
+Acquisition, INVESTOPEDIA, (Nov. 16, 2025), https://www.investopedia.com/terms/b/better-alternative-
+trading-system-bats.asp. Direct Edge was an ECN, which later became EDGA and EDGX. See Phil Wahba, 
+Direct Edge Set to Become 4th U.S. Stock Exchange, REUTERS (Mar. 12, 2010), 
+https://www.interactivebrokers.ca/en/general/education/directedgeExchange.php. 
+442  January 2026 is chosen as a recent month for consistency with analysis conducted using CAT. The market 
+share is consistent with other recent months. See U.S. Equities Market Volume Summary, CBOE, 
+https://www.cboe.com/us/equities/market_share/ (last visited Apr. 16, 2026). 
+443  See U.S. Equities Market Volume Summary, supra note 442. 
+444  See EMSAC Market Structure Memo at 11. 
+445  See 2026 Data Update of the 2015 EMSAC Market Structure Memo, supra note 39, at Table 4. 
+446  See Form ATS-N Filings and Information, SEC, available at https://www.sec.gov/about/divisions-
+offices/division-trading-markets/alternative-trading-systems/form-ats-n-filings-information (last accessed 
+Apr. 28, 2026).
+
+123 
+ 
+represented over 40% of ATS trade count.447 Of the remaining ATSs, 4 had a share above 5% of 
+ATS trade count, and 17 had a share below 1%. 
+ 
+The speed at which a market participant can react to and take action on a trading center in 
+response to changes in the state of the market is important in today’s NMS stock market, and this 
+importance has increased dramatically since Regulation NMS was first adopted. This increase in 
+speed was facilitated in part by greater automation in NMS stock trading. Now, latency is 
+measured in single-digit microseconds, and sometimes even in units of hundreds of nanoseconds. 
+These developments have influenced market structure in significant ways, affecting both 
+exchange products and market participant routing strategies. 
+If one’s competitors can observe and react to information first, this can be costly.448 For 
+example, market participants may use market data to anticipate price movements and place limit 
+orders in advance to benefit from such movements. If other market participants do the same, 
+those who react faster will be able to place their quotes on the book first. This results in these 
+earlier quotes being first in the limit order book queue, as most exchange limit order books in the 
+US equity markets are based on a price-displayed-time priority model (i.e., displayed limit orders 
+ 
+447  See 10k+ Share Report, FINRA https://otctransparency.finra.org/otctransparency/AtsIssueData (last visited 
+Mar. 13, 2026). 
+448  There is academic literature on the effect of trading speed on revenue, adverse selection, and liquidity. See, 
+e.g., Matthew Baron et al., Risk and Return in High-Frequency Trading, 54 J. FIN. & QUANTITATIVE 
+ANALYSIS 993 (2019) (showing that relative latency matters and that ‘‘HFT firms exhibit large, persistent 
+cross-sectional differences in performance, with trading revenues disproportionally accumulating to a few 
+firms’’). Furthermore, when HFT firms use their relative latency advantages to trade on news to create short 
+term arbitrage opportunities, they generate adverse selection on slower traders. See Bruno Biais et al., 
+Equilibrium Fast Trading, 116 J. FIN. ECON. 292 (2015) (arguing that fast trading technology ‘‘provides 
+advance access to value-relevant information, which creates adverse selection, lowering welfare,’’ and 
+‘‘generates a negative externality’’); Thierry Foucault et al., Toxic Arbitrage, 30 REV. FIN. STUD. 1053 
+(2017) (providing evidence that ‘‘[a]rbitrage opportunities due to asynchronicities in the adjustment of 
+prices to news are toxic because they expose dealers to the risk of trading with arbitrageurs at stale 
+quotes’’). The authors then claim that these arbitrage opportunities associated with higher trading speed 
+impair market liquidity.
+
+124 
+ 
+at the same price are queued in order of time priority).449 Being last in these queues can expose a 
+limit order to greater risk of adverse selection, making this position undesirable. The only fix for 
+a market participant who consistently loses such races would be to respond more quickly, so that 
+its orders to the exchange matching engine faster than other market participants. The incentives 
+created by these costs of losing such races and the resulting behavior undertaken by market 
+participants to improve their response times are sometimes referred to as the speed “arms race.” 
+To mitigate the risk of losing speed races, market participants must manage the latency in 
+their systems’ responses to market events. Latency can be introduced through the processing 
+time of a market participant’s system, or the transmission time between systems, especially 
+between exchange matching engines and the participant’s SOR systems. The main source of 
+transmission latency in the NMS stock market is the geographically diverse locations of the 
+various equity exchanges. Equity exchanges are located at three data centers in Mahwah, 
+Carteret, and Secaucus, New Jersey.
+450 
+ 
+Exchanges charge for access to the liquidity on their limit order books via fees for 
+connections and colocation, as well as per-transaction access fees. In addition, exchanges offer 
+proprietary data products that provide a real-time view of activity on the exchange. The SIP also 
+offers real-time market data, and is utilized by most market participants, but competitive broker-
+ 
+449  Displayed limit orders have priority over hidden limit orders (i.e., limit orders that are not displayed to 
+other market participants) at the same price. 
+450  See Market Data Infrastructure Adopting Release, at section V .B.2.b. This geographic diversity in data 
+centers is understood by the Commission to be the most significant source of latency for market 
+participants. See also Phil Mackintosh, How Trades Speed Between Venues, NASDAQ (May 23, 2024, at 
+5:40 PM EDT), https://www.nasdaq.com (from main webpage, navigate to Market Makers Newsletter 
+page) describing geographic latency with fiber transmission to be on the order of 143-304 microseconds. 
+These various forms of latency have the effect of generating discrepancies in beliefs about the state of the 
+market among various market participants at a single instant in time. See Market Data Infrastructure 
+Adopting Release, section V .B.2.f., discussing the nature and causes of these discrepancies and current 
+market practice for dealing with them.
+
+125 
+ 
+dealers may find that SIP data are generally not substitutable for the exchanges’ proprietary data 
+products when it comes to order execution. 
+To trade on an exchange or receive market data from an exchange, a market participant 
+must arrange for connections to the exchange’s system. As a practical matter, these connections 
+are established in several parts, including the physical connection, logical connection and other 
+colocation services, each of which may incur separate charges. Exchanges offer a variety of 
+types of physical connections to cater to subscribers’ varying requirements for latency and 
+bandwidth.
+451 Exchanges also offer different types of logical connections, which may differ in 
+purpose, such as order entry452 or market data.453 If an exchange offers colocation services, these 
+might include cabinet space and other hardware.454 Some exchange members with a direct 
+connection to an exchange may also offer direct market access or sponsored market access to 
+ 
+451  For example, MIAX Pearl Equities exchange offers 1 Gb ultra-low latency (ULL) and 10 Gb ULL physical 
+connections. It recommends a 10 Gb connection if consuming its proprietary TOB or DOB data. See, e.g., 
+MIAX, EXPRESS NETWORK INTERCONNECT CONNECTIVITY GUIDE (2024), 
+https://www.miaxglobal.com/miax_connectivity_guide.pdf. Nasdaq offers their proprietary TotalView 
+DOB feed with an option for hardware-based delivery on a field-programmable gate array (FPGA) for 
+latency-sensitive market participants. See, e.g., NASDAQ, NASDAQ TOTALVIEW-ITCH 5.0, 
+https://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/NQTVITCHspecificati
+on.pdf (last visited Jan. 28, 2026).  
+452  See, e.g., NASDAQ, PROTOCOL QUICK REFERENCE (2025), available at 
+https://www.nasdaqtrader.com/content/ProductsServices/TRADING/Protocols_quickref.pdf. Drop copy 
+ports are used by market participants for real-time monitoring of their trading activity. See, e.g., CME 
+GROUP, FAQ: DROP COPY (2025), available at https://www.cmegroup.com/solutions/market-
+access/globex/trade-on-globex/faq-drop-copy.html#title-one (last accessed Jan. 16, 2026). 
+453  See, e.g., CBOE, CBOE TITANIUM US EQUITIES/OPTIONS MULTICAST DEPTH OF BOOK (PITCH) 
+SPECIFICATION, VERSION 2.41.65 (2026) 
+https://cdn.cboe.com/resources/membership/US_EQUITIES_OPTIONS_MULTICAST_PITCH_SPECIFIC
+ATION.pdf (last accessed Jan. 28, 2026); Nasdaq TotalView-ITCH 5.0, supra note 451. 
+454  See Nasdaq Rule General 8 
+https://listingcenter.nasdaq.com/rulebook/nasdaq/rules/Nasdaq%20General%208.
+
+126 
+ 
+another market participant.455 Market participants may also hire third parties to manage their 
+connections.456 
+Modern order routing strategies require a low-latency view of the state of the market 
+across all exchanges so that updates are received as quickly as possible in response to new 
+market events.457 This need is especially acute for exchanges where a market participant expects 
+to trade frequently. To meet this requirement, exchanges sell a variety of real-time proprietary 
+market data feeds. These feeds differ in their content and latency, and therefore in their use 
+cases. The data in top-of-book (“TOB”) products is generally limited to the highest bid and 
+lowest offer and last sale price.458 The data in depth-of-book (“DOB”) products provide more 
+content, such as odd-lot quotations, orders at prices above and below the best prices to varying 
+levels of depth, and information about auctions.459 There are also third-party vendors that 
+provide market data derived from exchange data feeds which may be consolidated.460 
+ 
+455  Generally, direct market access refers to an arrangement whereby a member permits a customer to use the 
+member’s trading systems to send orders directly to a trading center, and sponsored access refers to an 
+arrangement whereby a member permits a customer to send orders directly to an exchange while bypassing 
+the member’s trading system. See Securities Exchange Act Release No. 63241 (Nov. 3, 2010), 75 FR 69792 
+at 69793 (Nov. 15, 2010) (“Rule 15c3-5 Adopting Release”) at 69793. 
+456  Co-location services may be offered by third parties at third party data centers. These third parties may 
+effectively host the market participant and handle connections, including ports and cross -connects in 
+colocation. See, e.g., CBOE, CBOE TITANIUM U.S. EQUITIES/OPTIONS CONNECTIVITY MANUAL VERSION 
+10.4.26 (2026), at 3 (describing ways to connect), 39 (listing extranet providers) 
+https://cdn.cboe.com/resources/membership/US_Equities_Options_Connectivity_Manual.pdf . 
+457  See supra section VI.B.4.b (describing the need for low latency data). 
+458  Examples of proprietary TOB products include NYSE BBO (see https://www.nyse.com/market-data/real-
+time/bbo), NASDAQ Basic (see https://www.nasdaq.com/solutions/data/equities/nasdaq-basic), and Cboe 
+One Feed (see https://markets.cboe.com/us/equities/market_data_services/cboe_one). 
+459  Examples of proprietary DOB products include CBOE One Premium ( see 
+https://www.cboe.com/market_data_services/us/equities/cboe_one/), which includes five levels of 
+aggregated depth, NYSE Integrated (see https://www.nyse.com/data-products/catalog/integrated-feed), 
+Nasdaq Total View (see https://www.nasdaq.com/solutions/data/equities/nasdaq-totalview), and CBOE 
+Depth (see https://www.cboe.com/market_data_services/us/equities/) which include complete depth of 
+book. 
+460  See, e.g., The World’ s Top Vendors Provide Cboe Market Data, CBOE, 
+https://www.cboe.com/market_data_services/vendors/ (last visited Jan. 29, 2026) and Market Data
+
+127 
+ 
+Sophisticated market participants consider DOB data necessary for competitive order 
+routing strategies.461 The added information and potential latency advantages of such data may 
+create a meaningful improvement in the performance of order routing algorithms that are able to 
+use this sort of view of the market. 
+The cost of proprietary DOB data and connectivity can vary by exchange and can 
+sometimes be substantial. For example, the monthly non-display fee charged by one exchange 
+for its proprietary DOB data is $22,400.462 Another exchange charges a monthly non-display fee 
+of $2,000 for its proprietary DOB data.463 The monthly non-display fees are just one component 
+of most exchanges’ market data fee schedule, and do not include the fees for connectivity. 
+Connectivity fees can also be quite substantial. For example, the monthly fee charged by one 
+exchange for a 10 Gb connection is $18,500.464 
+ The Commission estimates that the total annual cost to purchase DOB market data from 
+all exchanges is about $1.6 million.465 The Commission estimates that the total annual cost to 
+ 
+Vendors, NASDAQ, https://www.nasdaq.com (subpage https://data.nasdaq.com/market-data-vendors) (last 
+visited Jan. 29, 2026). Note that market participants still pay the associated market data fees to the 
+exchanges. 
+461  See, e.g., Market Data Infrastructure Adopting Release, section V .B.2.c. 
+462  See NYSE, NYSE PROPRIETARY MARKET DATA PRICING GUIDE (2025), available at 
+https://www.nyse.com/publicdocs/nyse/data/NYSE_Market_Data_Pricing.pdf. 
+463  See CBOE, CBOE U.S. EQUITIES FEE SCHEDULES, EDGX EQUITIES (2026) 
+https://www.cboe.com/us/equities/membership/fee_schedule/edgx/. Currently, only one exchange, NYSE 
+Texas makes proprietary data available but does not charge for it. See, e.g., FEE SCHEDULE OF NYSE 
+TEXAS, INC. (2026), available at https://www.nyse.com/publicdocs/nyse/markets/nyse-
+texas/NYSE_Texas_Fee_Schedule.pdf. 
+464  Some exchange connectivity fees have an initial fee and an ongoing monthly fee. The initial cost of a fiber 
+connection at Nasdaq is $1,650 for a ULL connection or $1,100 for a regular connection and the monthly 
+ongoing cost for a 10 Gb ULL connection is $18,500. See Nasdaq Rule General 8, supra note 454. The 
+initial cost of a dedicated cabinet at NYSE is $5,000 and a monthly fee of $1,200 would be charged per the 
+first 8 kilowatts (kW). See NYSE, CONNECTIVITY FEE SCHEDULE (2026), available at 
+https://www.nyse.com/publicdocs/nyse/Wireless_Connectivity_Fees_and_Charges.pdf. 
+465  In 2019, IEX estimated that consuming market data from the Nasdaq, NYSE, and Cboe exchange families 
+costs approximately $1,151,772 per year. See Letter from Brad Katsuyama, CEO, Investors Exchange LLC, 
+to Brent J. Fields, Secretary, Commission (Jan. 29, 2019) (“Letter from IEX 2019”). We updated this
+
+128 
+ 
+purchase a connection to all exchanges is about $2.6 million.466 It is the Commission’s 
+understanding that broker-dealers that connect to all (or almost all) exchanges would likely have 
+two use cases for proprietary data feeds and thus would pay data fees for each use case. Thus, we 
+estimate that a broker-dealer that connects to all exchanges spends approximately $5.7 million on 
+market data and connectivity fees per year.467 
+Another source of real-time market data is the SIP, which sells market data that contains 
+the top of book of each exchange, and last sale information, as well as administrative and market 
+status messages. The Commission understands that most market participants who execute orders 
+purchase a non-display subscription to the SIP. The SIP’s administrative and market status 
+messages are important to market participants, and the SIP can also serve as a backup in the 
+event that a market participant’s exchange proprietary feed goes down. The SIP might also serve 
+as a sufficient view of the activity on small exchanges where a market participant does not 
+expect to trade frequently. 
+However, the Commission understands that sophisticated market participants typically do 
+not regard the SIP as a substitute for purchasing DOB data from the vast majority of exchanges. 
+The lack of odd-lot, depth and auction information may make the SIP insufficient for the needs 
+ 
+analysis. First, we, added the yearly market data fees of $255,480 charged by the exchanges that have 
+entered since 2019: IEX, MEMX, MIAX Pearl, LTSE, and 24X. Second, since 2019, the Nasdaq, NYSE, 
+and Cboe exchange families have had some fee increases. We estimate the cost of consuming market data 
+from the Nasdaq, NYSE, and Cboe exchange families is approximately $1,333,248 per year. Thus, 
+($255,480) + ($1,333,248) = $1,588,728. 
+466  In 2019, IEX estimated that purchasing physical and logical connections from the Nasdaq, NYSE, and 
+Cboe exchange families’ costs approximately $1,230,000 per year. See Letter from IEX 2019. We updated 
+this analysis. First, we, added the yearly connectivity fees of $1,025,400 charged by the exchanges that 
+have entered since 2019, IEX, MEMX, MIAX Pearl, LTSE, and 24X. Second, since 2019, the Nasdaq, 
+NYSE, and Cboe exchange families have had some fee increases. We estimate the cost of purchasing 
+connectivity to the Nasdaq, NYSE, and Cboe exchange families is approximately $1,546,944 per year. 
+Thus, ($1,025,400) + ($1,546,944) = $2,572,344. 
+467  See supra notes 465 and 466. The total cost is thus (cost of market data x 2) + (cost of connectivity). For 
+the new exchanges, we have ($255,480 x 2) + ($1,025,400) = $1,536,360. For the existing exchanges, we 
+have ($1,333,248 x 2) + ($1,546,944) = $4,213,440. Thus, ($1,536,360) + ($4,213,440) = $5,749,800.
+
+129 
+ 
+of sophisticated order routing strategies.468 In addition, proprietary DOB feeds generally have 
+significantly lower latency (i.e., are faster) than the SIP.469 
+The SIP is less expensive than purchasing proprietary market data from all exchanges by 
+a substantial amount. For example, the monthly non-display fee for data charged by the CTA/CQ 
+SIP, is $2,000 for Network A and $1,000 for Network B.470  
+In the fourth quarter of 2025, there were approximately 4-6 million non-professional 
+subscribers and 300,000 professional subscribers across the UTP and CTA/CQ SIPS.471 There 
+were also approximately 400 non-display vendors. 
+Market participants have estimated the total costs to onboard a new exchange at $1 
+million on the execution side and $500,000 on the clearing side.472 Additionally, market 
+participants have estimated the ongoing maintenance costs to be about $200,000 a year.473 The 
+Commission estimated that the total annual cost to connect to and intake market data from all 
+ 
+468  See, e.g., Market Data Infrastructure Adopting Release, section V .B.2.c. 
+469  See, e.g., Real Time Data, NYSE, https://www.nyse.com/market-data/real-time (last visited Jan. 22, 2026) 
+(describing order-by-order feed, NYSE Integrated, as a “high-performance” product). Consolidated market 
+data feeds sold by market data aggregators also tend to be lower latency than the SIP. This is due to both 
+faster aggregation times and the unique geographic latency profile of SIP data. See Equity Market Structure 
+Roundtables, Oct. 25–26, 2018: Roundtable on Market Data and Market Access, SEC, available at 
+https://www.sec.gov/spotlight/equity-market-structure-roundtables (‘‘Market Data Roundtable’’), Day One 
+Transcript at 126–29 (Mark Skalabrin, Redline Trading Solutions). 
+470  See CTA Plan, Schedule of Market Data Charges (Jan. 1, 2015), available at 
+https://www.ctaplan.com/publicdocs/ctaplan/notifications/trader-
+update/Schedule%20Of%20Market%20Data%20Charges%20-%20January%201,%202015.pdf. 
+471  See UTP Q4 2025, available at 
+https://www.utpplan.com/DOC/UTP_2025_Q4_Stats_with_Processor_Stats.pdf; CTA Q4 2025, available 
+at https://www.ctaplan.com/publicdocs/ctaplan/Q4_2025_CTA_Subscribers_Metrics_Report.pdf. It is the 
+Commission’s understanding that there is an overlap in subscribers across the exclusive SIPs. 
+472  See First TTR Roundtable Transcript at 68-69 (Pankil Patel, Bank of America) (This market participant said 
+these costs include “third party sourcing, procurement, technology, testing, hardware, CAD integration, 
+[and] billing”).  
+473  See First TTR Roundtable Transcript at 68-69 (Pankil Patel, Bank of America).
+
+130 
+ 
+exchanges is approximately $5.7 million per broker-dealer.474 The cost to connect to an 
+exchange may be lower for some market participants if they utilize a third-party vendor, but the 
+cost to intake market data from an exchange may not necessarily be lower if they utilize a third-
+party vendor because the structure of fees is such that the original market data fees are passed 
+through.475 The cost to connect to and intake market data from an exchange may also be higher 
+for other market participants if they utilize co-location services offered by the exchanges, or if 
+they require more connections or market data use cases than estimated. 
+Some market participants who are not particularly sensitive to latency, such as retail or 
+non-professional investors and wealth managers who access market data in a displayed format, 
+may use proprietary TOB data or the SIP.476 To satisfy obligations under Rule 603 (i.e., the 
+“Vendor Display Rule”), which requires broker-dealers to show a consolidated display of market 
+data in a context in which a trading or order routing decision can be made, broker-dealers rely on 
+SIP data for this purpose.477 Many retail investors use SIP data for trading decisions. 
+ 
+Currently, part of the SIP data revenue is used to pay for the cost of maintenance and 
+administration of the SIP and the remainder is distributed to SRO members based on trading and 
+quoting activity.478 The trade and quote revenue distributed to exchanges from the exclusive SIP 
+ 
+474  See supra note 467. See also FIA PTG Paper at 1 (stating that “major firms [spend] millions annually just 
+on market data and connectivity fees”). 
+475  See also First TTR Roundtable Transcript at 158 (Allison Bishop, Proof Trading). 
+476  See Letter from Matthew J. Billings, Managing Director, Market Data Strategy, TD Ameritrade, (Oct. 24, 
+2018) (‘‘TD Ameritrade Letter 2018’’), available at https://www.sec.gov/comments/4-729/4729-4560068-
+176205.pdf at 5-8. 
+477  See Vendor Display Rule, Rule 603 of Regulation NMS. See also TD Ameritrade Letter 2018 at 4-8. 
+478  See Notice of Filing of a National Market System Plan Regarding Consolidated Equity Market Data, 
+Securities Exchange Act Release No. 90096 (Oct. 6, 2020), 85 FR 64565 (Oct. 13, 2020) at Exhibit D.
+
+131 
+ 
+revenues totaled more than $300 million in 2024.479 For some smaller exchanges, this can be a 
+substantial revenue source.480 Obtaining a share of the SIP revenue may represent a meaningful 
+incentive for new entrants to start an exchange.481 This incentive may contribute both to the rate 
+of new entries in the equity exchange market and to  new exchanges adopting fee schedules that 
+encourage posting liquidity. 
+ 
+Despite the large and increasing number of exchanges for trading NMS stocks, the 
+Commission believes there are signs that exchanges, especially large ones, possess some market 
+power over their data and connectivity products. It is likely that this ability to obtain revenue 
+from proprietary data and connectivity sales, even with modest market share, has contributed to 
+exchange proliferation since the adoption of Regulation NMS.
+482 
+Many broker-dealers view proprietary data and connectivity services as necessary to be a 
+competitive executing broker-dealer. As a result, they purchase these services from many, if not 
+all, exchanges. This pattern of establishing connections to most exchanges has increased over 
+time. The Commission has released data from a sample period consisting of the week of 
+December 5, 2016. During that week, broker-dealers that connected to at least all but two 
+ 
+479  See CTA 2024-Q4, available at 
+https://www.ctaplan.com/publicdocs/ctaplan/Q4_2024_CTA_Quarterly_Revenue_Disclosure.pdf ; UTP 
+PLAN ADMIN., REVENUE EARNED BY FEE TYPE, 2024-Q4, available at 
+https://www.utpplan.com/DOC/UTP_Revenue_Disclosure_Q42024.pdf (last accessed Mar. 12, 2026). 
+480  For example, SIP revenue accounted for close to 60% of LTSE’s total revenue in 2024. See LTSE Form 1, 
+available at https://www.sec.gov/Archives/edgar/vprr/2500/25000224.pdf (last accessed Mar. 3, 2026). On 
+the other hand, SIP revenue only accounted for just over 3% of MEMX’s total revenue in 2024. Market 
+data and connectivity accounted for about 4% and 5%, respectively. Note that the vast majority of the 
+market data revenue is from SIP revenue. See MEMX Form 1, available at 
+https://www.sec.gov/Archives/edgar/vprr/2500/25000228.pdf (last accessed Mar. 3, 2026). See also CTA 
+Quarterly Revenue Disclosure and UTP Quarterly Revenue Disclosure, supra note 479. 
+481  See, e.g., Cboe Letter II at 3. 
+482  See infra section VI.B.4.f (discussing the role of Regulation NMS itself in this trend).
+
+132 
+ 
+exchanges accounted for 76.6% of exchange-directed message volume, and  broker-dealers that 
+connected to at least all but three exchanges accounted for 91.6%.483 At that time, the 
+Commission characterized the demand for connectivity services of exchanges as “less elastic,” 
+and said this was consistent “…with the stated view that in order to avoid a competitive 
+disadvantage, market participants have little choice but to purchase direct connectivity services 
+from multiple SROs.”
+484   
+Currently, the percentage of exchange-directed message volume accounted for by broker-
+dealers who connected to at least all but two exchanges is 66%, and the percentage of exchange-
+directed message volume accounted for by broker-dealers connected to at least all but three 
+exchanges is 93.4%.485 However, today’s numbers are based on the current number of active 
+exchanges, which stands at 17. At the time of the 2016 study, there were only 13 exchanges. To 
+hold the number of exchanges constant, one should look at the percentage of exchange-directed 
+message volume handled by broker-dealers connected to at least 11 exchanges and at least 10 
+exchanges. Currently, those percentages are 95.1% and 95.4%, respectively.
+486 
+Executed dollar volume is a better measure than message volume because message 
+volume includes cancellation and other messages.487 The percentage of exchange-directed 
+ 
+483  See Market Data Infrastructure Adopting Release, at 18740, n.1794. 
+484  See Market Data Infrastructure Adopting Release at 18740. 
+485  This analysis was completed using CAT data for the month of January 2026. A broker-dealer is defined by 
+its firm Central Registration Depository numeric identifier (CRD). A broker-dealer that submits the order to 
+the exchange is the executing broker-dealer. An executing connection is where a broker-dealer submitted an 
+order directly to an exchange. The number of connections may be larger to the extent that there are market 
+participants with a connection that do not have any orders or trades during the sample period.  Certain 
+CRDs may be affiliates. 
+486  This analysis was completed using CAT data for the month of January 2026. 
+487  Cancellation messages may be a substantial proportion of total message volume. See Market Structure Data 
+Downloads, Conditional Cancel and Trade Distributions, available at https://www.sec.gov/data-
+research/market-structure-data.
+
+133 
+ 
+executed dollar volume from broker-dealers connected to at least all but two exchanges is 78.4%, 
+and the percentage of exchange-directed executed dollar volume handled by broker-dealers 
+connected to at least all but three exchanges is 92.3%.488 Holding the number of exchanges 
+constant since 2016, the percentage of exchange-directed executed dollar volume handled by 
+broker-dealers connected to at least 11 exchanges is 95.6%.489 
+This appears to reflect a trend in which the vast bulk of activity in the NMS stock market 
+is handled by broker-dealers who determine it is necessary to connect to most if not all equity 
+exchanges, suggesting that the competitive pressure on broker-dealers to connect to most 
+exchanges, as identified by the Commission in 2020, remains persistent, and may be increasing. 
+Table 1 Executing Dollar Volume by Number of Broker Connections to 
+Exchanges 
+No. of 
+Exchange 
+Connections 
+All Customer Only 
+No. of 
+Brokers 
+% Shares 
+Traded 
+% Dollar 
+V olume 
+No. of 
+Brokers 
+% Shares 
+Traded 
+% Dollar 
+V olume 
+17 18 65.6% 59.3% 17 68% 62.7% 
+16 5 10.7% 13% 5 13% 19.1% 
+15 6 5.6% 6% 3 7.2% 8.6% 
+14 7 9.1% 13.9% 2 0.7% 1.4% 
+11-13 8 3.8% 3.4% 8 6.8% 5.9% 
+3 to 10 57 4.2% 2.7% 41 3.6% 2% 
+2 28 0.3% 0.2% 25 0.5% 0.1% 
+1 84 0.6% 1.5% 72 0.2% 0.2% 
+0 858 0 0 822 0 0 
+ 
+488  This analysis was completed using CAT data for the month of January 2026. 
+489  This analysis was completed using CAT data for the month of January 2026.
+
+134 
+ 
+This table uses CAT data from January 2026 to show information on the number of exchanges different 
+broker-dealers connect to (infra Table 3 shows information on the number of ATSs these broker-dealers 
+connect to). It also shows the percentages of exchange executed dollar and share volume that these 
+broker-dealers accounted for. The “All” category reflects exchange trading volume from orders that 
+originate from either a customer or proprietary account and the “Customer Only” category only reflects 
+exchange trading volume from orders that originate from a customer account. The sample for the “All” 
+category consists of 1,071 broker-dealers that either originated or executed an order from a proprietary 
+or customer account on an exchange or ATS in January 2026 (both exchanges and ATSs are included in 
+constructing the sample of broker-dealers to make this table and infra Table 3 comparable). The sample 
+for the “Customer Only” category consists of  995 broker-dealers that either originated or executed an 
+order from a customer account on an exchange or ATS in January 2026. 
+Broker-dealers are categorized by the number of executing connections found. A broker-dealer is 
+defined by its firm Central Registration Depository numeric identifier ( “CRD”).  An executing 
+connection is where a broker-dealer submitted an order directly to an exchange. The number of 
+connections may be understated if some market participants maintain connections but do not have any 
+orders or trades during the sample period. The potential for undercounting connections may be larger 
+on exchanges with lower volume. 
+Originating broker-dealer clients are categorized as customer accounts (individual, institutional, 
+foreign, or agency average price accounts) or proprietary accounts (market making, employee, error, or 
+other proprietary accounts). The category “All” reflects orders originating from all account types, 
+whereas “Customer Only” reflects orders from customer accounts only. 
+For the “All” sample, in January 2026, 213 broker-dealer CRDs submitted an order to an exchange, 186 
+submitted an order to an ATS, and 277 submitted an order to either an exchange or an ATS. Each order 
+is traced to its origin where an originating broker-dealer received the order from a client. 1,041 broker-
+dealer CRDs originated an order that went to an exchange, 1,031 originated an order that went to an 
+ATS, and 1,060 originated an order that went to either an exchange or an ATS. The originating broker-
+dealer may be the same or different from the executing broker-dealer. The executing broker-dealer 
+submits the order to the exchange or ATS. 1,050 broker-dealer CRDs either originated or executed an 
+order that went to an exchange, 1,037 broker-dealer CRDs either originated or executed an order that 
+went to an ATS, and 1,071 broker-dealer CRDs either originated or executed an order that went to an 
+exchange or ATS. 
+For the “Customer Only” sample, in January 2026, 173 broker-dealers submitted a customer order to an 
+exchange, 151 submitted a customer order to an ATS, and 229 submitted a customer order to an 
+exchange or ATS; 959 broker-dealer CRDs originated a customer order that went to an exchange, 957 
+originated a customer order to an ATS, and 978 originated a customer order to either an exchange or an 
+ATS. In total, 974 broker-dealers either originated or executed a customer order that went to an 
+exchange, 967 broker-dealers either originated or executed a customer order that went to an ATS, and 
+995 broker-dealers either originated or executed a customer order that went to an exchange or ATS.
+
+135 
+ 
+ 
+Table 2 Executing Volume by Number of Broker Connections and Memberships to Exchanges 
+No. of 
+Exchange 
+Memberships 
+No. of 
+Exchange 
+Connections 
+All Customer 
+No. of 
+Brokers 
+% Shares 
+Traded 
+% Dollar 
+V olume 
+No. of 
+Brokers 
+% Shares 
+Traded 
+% Dollar 
+V olume 
+17 17 18 65.6% 59.3% 17 68% 62.7% 
+17 15 or 16 5 10.7% 12.9% 5 13% 18.9% 
+15 or 16 15 or 16 6 5.6% 6.1% 3 7.2% 8.7% 
+14 to 16 14 or fewer 11 11.6% 16.4% 7 2.9% 4.8% 
+1 to 13 1 to 13 173 6.5% 5.2% 141 8.9% 4.9% 
+1 or more 0 136 0 0 176 0 0 
+0 0 746 0 0 716 0 0 
+This table uses CAT data from January 2026 to show information on the number of exchanges different broker-dealers 
+are members of and how many of these exchanges they connect to. It also shows the percentages of exchange 
+executed dollar and share volume that these broker-dealers accounted for. The “All” category reflects exchange 
+trading volume from orders that originate from either a customer or proprietary account and the “Custom er Only” 
+category only reflects exchange trading volume from orders that originate from a customer account. The sample for 
+the “All” category consists of 1,095 broker-dealers that were members of an exchange and/or originated or executed 
+an order from a proprietary or customer account on an exchange or ATS in January 2026 (i.e., it includes the 1,071 
+broker-dealers in the sample in supra Table 1 plus 24 broker-dealers that are members of an exchange but did not 
+originate or execute an order on an exchange or ATS). The sample for the “Customer Only” category consists of 1,065 
+broker-dealers that were members of an exchange and/or originated or executed an order from a customer account on 
+an exchange or ATS in January 2026 (i.e., it includes the 995 broker-dealers in the sample in supra Table 1 plus 70 
+broker-dealers that are members of an exchange but did not originate or execute a customer order on an exchange or 
+ATS). 
+ This table uses the same methodology as described above in supra Table 1 (discussing originating broker-dealers, 
+executing broker-dealers, customer account types, and the number of broker-dealer connections observed broken 
+down by venue, broker-dealer, and account types). A broker-dealer is defined by its firm CRD. Broker-dealers are 
+categorized by their number of executing connections to exchanges. Broker-dealers are also categorized by the 
+number of exchanges where they maintained a membership in January 2026 according to CAT industry member 
+reference data.  
+ 
+Broker-dealers with fewer connections also tend to outsource more of their exchange-
+directed order flow to other broker-dealers for execution. For example, broker-dealers
+
+136 
+ 
+connecting to all exchanges outsourced only 2.9% of their exchange dollar volume, compared to 
+broker-dealers connecting to 15 exchanges who outsourced 9.4% and broker-dealers connecting 
+to two exchanges who outsourced 91.1%.490 This shows that broker-dealers who connect to only 
+two exchanges do not use those connections for routing a significant number of their orders, and 
+instead rely heavily on outsourcing to get orders executed. 
+In addition to this evidence, the market for exchange data
+491 and connections has 
+experienced repeated fee increases, even as new entrants entered the market.492 This is consistent 
+with exchanges possessing pricing power. More recently, the market has seen a number of new 
+exchanges start charging fees for connections and data.
+493 A new exchange is observed to gain a 
+ 
+490  For customer exchange-directed order flow, the numbers are 5.5%, 2.5%, and 94.7%, respectively. 
+Outsourcing percentages are measured at order origination. Broker-dealers that do not originate orders, 
+such as exchange routing brokers, are not included in these percentages.  This analysis was conducted using 
+CAT data from January 2026. Each order is traced to its origin where an originating broker-dealer received 
+the order from a client. The originating broker-dealer may be the same or different from the executing 
+broker-dealer. Originating broker-dealer clients are categorized as customer accounts (individual, 
+institutional, foreign, or agency average price accounts) or proprietary accounts (market making, employee, 
+error, or other proprietary accounts) based on their account type. For the Consolidated Audit Trail, account 
+type definitions are available in Appendix G to the CAT Reporting Technical Specifications for Industry 
+Members (https://catnmsplan.com), for the field name “accountHolderType.” Account types represent the 
+beneficial owner of the account for which an order was received or originated, or to which the shares or 
+contracts are allocated. Possible types are: Institutional Customer, Employee, Foreign, Individual Customer, 
+Market Making, Firm Agency Average Price, Other Proprietary, and Error. An Institutional Customer 
+account is defined by FINRA Rule 4512(c) as a bank, investment adviser, or any other person with total 
+assets of at least $50 million. An Individual Customer account means an account that does not meet the 
+definition of an “institution” and is also not a proprietary account. Therefore, the CAT account type 
+“Individual Customer” includes natural persons as well as corporate entities that do not meet the definitions 
+for other account types 
+491  The data presented in Table 1 reflects evidence of a connection between the broker-dealer and the exchange 
+but does not characterize the type or number of connections purchased. It is not necessary that a broker -
+dealer purchase market data of any type in order to produce a record of order entry such as the records used 
+to produce Table 1, but the Commission believes it is typical for a broker-dealer to purchase message-by-
+message market data from all exchanges on which it trades. 
+492  See supra section VI.B.4.a (discussing new entrants to the exchange market). See Market Data 
+Infrastructure Adopting Release at 18738 (discussing commenter calculations of fee increases and revenue 
+increases). See also Eric Budish, et al., A Theory of Stock Exchange Competition and Innovation: Will the 
+Market Fix the Market?, 132 J. POL. ECON. 1065 (2024) (estimating that in 2015 exchanges earned $555.4-
+$623.0M in market data revenue and $436.8-$484.8M in connectivity revenue). See also infra note 511. 
+493  See supra section VI.B.4.c (estimating exchange fees). Some new exchanges may not charge fees for 
+market data or connectivity at first. See First TTR Roundtable Transcript at 86-87 (Chris Solgan, MIAX 
+Exchange Group) (describing initial waivers of data and connectivity fees for new exchanges).
+
+137 
+ 
+sizeable number of members in the first month of operation.494 While not all members may have 
+a connection to an exchange,495 this is suggestive of broker-dealers’ incentives to immediately 
+connect to new exchanges. As Table 1 shows, exchange-directed order flow is routed by largely 
+the same group of broker-dealers that connect to all or almost all exchanges, so these fees 
+represent an increase in overall connectivity and data expense for these broker-dealers. This may 
+demonstrate a further ability of suppliers in the market to raise prices on this customer group. 
+These fee increases, or new fees, have come over a period of time in which there have been new 
+entrants in the market, suggesting that the presence of additional exchanges has not lowered 
+demand for these connections and data. 
+Taken together, this evidence suggests that access to one exchange’s limit order book is 
+not a strong substitute for access to another exchange’s limit order book. There may be several 
+reasons for this. 
+Most fundamentally, access to two different exchanges does not give access to the same 
+thing. The limit order against which broker-dealers hope to fill the orders of their customers are 
+unique to the exchange on which they are posted, and execution cannot be conditioned on the 
+events of a different exchange.
+496 For example, suppose there are 100 shares available to buy on 
+Exchange A and 100 shares available to buy on Exchange B and no other liquidity available. A 
+broker-dealer who wishes to buy 200 shares cannot substitute access to the shares on Exchange 
+A with access to the shares on Exchange B. At that point in time, each exchange is only capable 
+ 
+494  In analysis completed using CAT data for the month of October 2025, the new exchange was observed to 
+have 25 members. 
+495  See supra Table 2. 
+496  There are certain order types, such as midpoint peg orders, in which the price that the order executes at 
+depends on the NBBO, which may be set by another exchange.
+
+138 
+ 
+of giving it 100 shares, and to fill a 200 share order, the broker-dealer must possess connections 
+to both, which effectively means purchasing connectivity and data services to both.497 
+This distinction ends up being of substantial practical significance, because the parent 
+orders that a broker-dealer is likely to receive from an institutional customer are typically much 
+larger than even the total number of shares available at the top of every exchange in the market 
+combined. Therefore, it is highly unlikely that an institutional broker-dealer can fill a single 
+order by taking shares from only a single exchange. Instead, a broker-dealer will have to 
+combine the liquidity available on all exchanges, often multiple times over, to fill a single parent 
+order. This effectively means that the broker-dealer cannot substitute one exchange for another; 
+it will generally need access to all relevant exchanges to be competitive.498 
+Market makers and other proprietary traders face a similar phenomenon. Market makers 
+offer to fill orders by sourcing shares at a discount to the price at which they sell them. 
+Throughout the trading day, a quote on any exchange might become cheap relative to changing 
+market conditions. Market makers who can rapidly hit this quote will have a cheaper source of 
+liquidity than market makers who are constrained to a subset of the exchanges, and will have no 
+choice but to post wider, and therefore less competitive, quotes. 
+While exchanges might not face close substitutes for data and connectivity products, 
+conditional on a market participant being connected to the exchanges, the exchanges are 
+potentially close substitutes for order routing. If a broker-dealer has paid the subscription costs 
+ 
+497  In practice, market participants may use a third-party broker-dealer to route orders to exchanges to which 
+they do not possess connections. Such third-party broker-dealers can include brokage services offered by 
+the exchanges, which will route orders to the protected quote if the exchange does not have the protected 
+quote. A commission of some kind would typically be paid for such services. Since this practice effectively 
+amounts to outsourcing part of the order routing function, broker-dealers who wish to offer order routing 
+services may find it difficult to add value to their customers while relying on such services.  
+498  Evaluations by broker-dealers regarding the appropriate venues to be connected to may also be part of their 
+review of compliance with requirements of best execution obligations.
+
+139 
+ 
+for data and connections, it faces notable similarities in the functioning of exchange limit order 
+books across different exchanges, particularly with a given fee model type (e.g., maker-taker, 
+inverted,499 etc.). The competition among exchanges that this substitutability induces may be 
+reflected in the fees typically charged to a market participant who has already paid for 
+connections and chooses to route a limit order to a particular exchange. These fees are in fact, 
+typically negative; that is, the exchange pays a rebate to the poster of a limit order that is traded 
+against by a marketable order.  
+The fact that exchanges face more competition for attracting limit orders than they do for 
+data and connections is consistent with academic research on markets with multi-sided 
+platforms. A multi-sided platform is a firm which sells two or more methods of accessing a 
+network, in which participation on one side or the other creates cross-network externalities.
+500 
+Exchanges serve as two-sided platforms, with trading activity on one side and data and 
+connections on the other.501 The lack of substitutability and the need to obtain access to liquidity 
+ 
+499  In an “inverted” pricing model, the exchange charges a fee to the provider of liquidity and pays a rebate to 
+the taker of liquidity. 
+500  See Marc Rysman, The Economics of Two-Sided Markets, 23 J. ECON. PERSPECTIVES 125, 127 n.2 (2009) 
+(“Rysman (2009)”) (citing disagreement about whether cross-network externalities are a necessary part of 
+the definition of a platform). Rochet and Tirole (2006) define a platform as “one in which the volume of 
+transactions between end-users depends on the structure and not only on the overall level of the fees.” See 
+Jean-Charles Rochet & Jean Tirole, Two-Sided Markets: A Progress Report, 37 RAND J. ECON. 645, 646 
+(2006). This would include markets with a fixed membership fee and a membership externality. The fixed 
+nature of the fee means there would be no network externality, as the decision to be a member happens 
+before the size of the platform (i.e., the number of members on each side) is known. There may also be 
+disagreement about specific markets being platforms. See Rysman (2009) at 126, n.1 (citing contrasting 
+views about whether a specific market – grocery stores – is a platform). See also Mark Armstrong, 
+Competition in Two-Sided Markets, 37
+ RAND J. ECON. 668 (2006) (“Armstrong (2006)”)). Platforms 
+exhibit cross-network externalities when a user’s utility depends on the number of users on the other side. 
+Cross-network externalities can also be referred to as cross-group or indirect network effects, also called 
+cross- or indirect network externalities. See Rysman (2009) at 127. 
+501  There is evidence for positive and negative externalities between trading and proprietary market data. One 
+academic paper finds evidence for a positive network externality from more data to trading: not only do 
+users that subscribe to data on a given exchange trade more on that exchange, but also more trading by 
+these users leads to more trading by users who don’t subscribe to data on that exchange. See  Terrence 
+Hendershott et al., Stock Exchanges as Platforms for Data and Trading, 75
+ J. FIN. MKT. 100986 (2025)
+
+140 
+ 
+on every exchange induces behavior known in the platform theory literature as “multi-homing,” 
+which refers to a market where the consumers acquire access to every platform.502 On the other 
+hand, since a limit order can only be posted to one exchange at a time, participation on the 
+trading side of the exchange platform exhibits “single-homing,” that is, participation at the point 
+of posting a limit order is constrained to only one venue at a time. 503 
+A platform with multi-homing participants on one side and single homing participants on 
+the other is called a “competitive bottleneck” platform. The platforms in a competitive bottleneck 
+market control access to the participants on the single homing side (limit orders) by charging 
+fees to the multi homing side (the connections and data). Economic theory has shown that in 
+such markets, platforms compete to attract users on the single homing side and exert monopoly 
+power on the multi homing side in the form of high prices.504  
+ 
+(“Hendershott, Rysman, and Schwabe (2025)”). Another academic paper finds a decrease in an exchange’s 
+share of trading volume following an increase in the exchange’s data fees, which is also consistent with a 
+positive externality. See Jonathan Brogaard et al., Competition and Exchange Data Fees (working paper 
+Oct. 10, 2024) available at https://papers.ssrn.com/abstract_id=3703431 (retrieved from SSRN Elsevier 
+database) (“Brogaard, Brugler, and Rösch (2024)”). However, the traders who purchase data can also exert 
+negative externalities on traders who do not purchase data as the data can help traders to be more informed. 
+See Brogaard, Brugler, and Rösch (2024) (citing David Easley et al., Differential Access to Price 
+Information in Financial Markets, 51 J. Fin. Quantitative Analysis 1071 (2016). See also Vincent Glode et 
+al., Arms Sales in Financial Markets (Jacobs Levy Equity Mgmt. Ctr. Quantitative Fin. Rsch. Paper May 
+30, 2025), available at https://ssrn.com/abstract=4146808 (retrieved from SSRN Elsevier database); 
+Konstantin Sokolov, et al., Who Benefits from Securities Exchange Innovation? (working paper May 15, 
+2024) available at https://papers.ssrn.com/abstract_id=4260872 (retrieved from SSRN Elsevier database). 
+The positive externalities are likely to be larger, because few traders do not purchase data. Other elements 
+of the exchange business, such as listings, can also fit into this platform model, but are not relevant to this 
+discussion. 
+502  See Armstrong (2006) at 669. 
+503  See Armstrong (2006) at 669. 
+504  See Armstrong (2006). In platform markets, and especially in platform markets with competitive bottleneck 
+configurations, “it does not make sense to speak of the competitiveness of ‘the market’. There are two 
+markets.” See Armstrong (2006) at 689.
+
+141 
+ 
+ 
+The Commission discusses above how, in the current equity market, exchanges possess 
+some market power in the sale of data and connectivity services, and that this may have 
+contributed to the proliferation of exchanges over years since Regulation NMS was 
+implemented.
+505 The Commission believes that Rules 611 and 610(e) also play a role in creating 
+this market power. 506 
+Rule 611 creates an “interference cost” for not connecting to every trading center which 
+may have a protected quote. To see this, suppose that a broker-dealer is connected to all 
+exchanges, and a new exchange enters the market. If the broker-dealer chooses not to connect to 
+this exchange, then every time this new exchange has the protected quote, the broker-dealer must 
+either utilize another broker-dealer who is connected to that exchange to hit this quote,507 or wait 
+until this quote disappears before resuming trading. When this happens, it slows down trading 
+and increases the risk of missed liquidity opportunities, thus raising transaction costs. The 
+Commission believes that, while these interruptions triggered by this new exchange having the 
+protected quote will be infrequent throughout the trading day, they will be meaningful enough to 
+raise transaction costs to a measurable degree. This meaningful interruption creates an 
+interference cost for not connecting to the new exchange, and this cost could be larger than the 
+ 
+505  See supra section VI.B.4.e. 
+506  Some commenters stated that Rule 611 has led to exchange proliferation. See, e.g., J. Angel Letter at 1, 16; 
+Robinhood Letter at 2-5. Some commenters also stated that Rule 611 requires broker-dealers to connect to 
+all exchanges. See, e.g., Robinhood Letter at 2, 5; First TTR Roundtable Transcript at 68-69 (Pankil Patel, 
+Bank of America). 
+507  The routing services offered by broker-dealer exchanges might be used for this purpose. The Commission 
+believes that utilizing a broker-dealer to handle such routing may not result in performance that matches the 
+performance of a SOR that handles all routes itself, because the technology and response of the third-party 
+broker-dealer is not integrated and coordinated with the decisions being made by the SOR  as well as it 
+might be if it were all handled by a single system.
+
+142 
+ 
+cost of connecting.508 The Commission observes that the broker-dealers that account for the 
+majority of executed dollar volume appear to connect to all exchanges, consistent with this 
+interference cost being a cost they are unwilling to bear. In addition, the Commission believes 
+that as a new exchange gains more market share, this interference cost increases, because the 
+exchange has the best quote more often and thus interferes with broker-dealers’ routing more 
+often. This may increase the percentage of exchange-directed dollar volume routed by broker-
+dealers connecting to all exchanges.509 
+Rule 610(e) is likely also creating an interference cost, though it is likely smaller than the 
+interference cost associated with Rule 611. If a market participant wishes to post a quote that will 
+lock the market, and it is not connected to the exchange which has the quote it will lock, it will 
+have to wait until someone else either cancels or trades against that quotation. Alternatively, the 
+participant can submit the order, in which case the exchange will either route the order to the 
+exchange with the best quote or post the order but “slide” the order’s price so that it does not 
+lock the market.
+510 This may interfere with the market participant’s routing strategy, leading to 
+increased transaction costs. 
+This interference cost from Rules 611 and 610(e) contributes to the incentive to connect 
+to as many exchanges as possible. In addition, even if a broker-dealer chooses not to connect to 
+an exchange, it will still need to either subscribe to the exchange’s market data or to the SIP and 
+ 
+508  See supra section VI.B.4.c. (discussing the startup costs incurred by broker-dealers to integrate a new 
+exchange into its routing system, including data and connection fees). 
+509  If broker-dealers choose to not connect to a new exchange, they may choose to use an executing broker-
+dealer in order to reach the quotes on the new exchange. 
+510  A “hide not slide” order type allows an order that would lock the market to be hidden while it would lock 
+the markets, rather than sliding the price. Then, the order becomes visible once it would no longer lock the 
+market. See supra section VI.B.1.b (discussing exchange order types to avoid locking and crossing 
+markets).
+
+143 
+ 
+update its SOR to comply with Rule 611 and 610(e) (e.g., for routing ISOs). Because the 
+interference cost has the effect of reducing the elasticity of demand for exchange connections, it 
+may also enable exchanges to charge higher prices for data and connections, creating an 
+“interference premium” in prices.
+511 
+There are reasons to believe that the demand for ATS connections is more elastic than the 
+demand for exchange connections. One reason is that ATSs represent a market for trading 
+services that do not command an interference cost, as no ATS currently has a protected quote.512 
+Another reason is that most ATSs are not subject to the fair access requirements and may thus 
+have more flexibility in determining their business models.513 It may be that some broker-dealers 
+regularly disconnect from ATSs514 and take longer to connect to a new ATS or do not connect at 
+all.515  
+The Commission observes a corresponding difference in the pattern of broker-dealer 
+trading by the number of connections to ATSs compared to the pattern of broker-dealer trading 
+by the number of connections to exchanges. As shown in Table 3, the majority of the ATS-
+directed dollar volume is from broker-dealers that connect to approximately half of ATSs, 
+compared to the majority of the exchange-directed dollar volume being from broker-dealers that 
+ 
+511  While new exchanges may not initially charge fees for market data and connectivity  (see infra note 729), 
+they often begin charging fees after gaining a small market share. For example, one exchange had a market 
+share of 0.1% in February 2026 and charges market data fees. See U.S. Equities Market Volume Summary, 
+supra note 443; see also 24X, 24X MARKET DATA FEES (2026), available at 
+https://equities.24exchange.com/api/media/file/24X%20Market%20Data%20Fees-2.pdf. 
+512  One ATS currently has a proposal to gain trade-through protection for its quotes. See IntelligentCross Letter 
+at 1. 
+513  See First TTR Roundtable Transcript at 249-253 (Andrew Smith, Virtu Financial) (stating that ATSs have 
+“lower barriers and more flexibility than exchanges”). 
+514  See First TTR Roundtable Transcript at 253-256 (Vlad Khandros, OneChronos). 
+515  See First TTR Roundtable Transcript at 216-218 (Vlad Khandros, OneChronos). This commenter also 
+states that it may take longer for market participants to connect to a new ATS because they first need to 
+connect to a new exchange.
+
+144 
+ 
+connect to all or almost all exchanges.516 Also, while broker-dealers with fewer ATS connections 
+do tend to outsource more of their ATS-directed order flow to other broker-dealers for execution, 
+they do so less than broker-dealers with fewer exchange connections.517  
+This comparison to the ATS market is imperfect for a number of reasons. ATSs typically 
+offer a different trading experience from the experience available on a national securities 
+exchange. ATSs typically do not offer displayed quotations, which limits the information leakage 
+in both posting a quote and in trading against quotes on an ATS. It may also be the case that 
+market participants expect to find various pegged orders, such as midpoint quotes, available on 
+an ATS with a frequency that differs from their expectations for exchange trading. ATS quotes 
+may also be segmented, with the goal of reducing the adverse selection risk of posting a quote on 
+the ATS compared to posting a quote on an exchange. Most ATSs are not subject to fair access 
+restrictions and can potentially limit their subscribers.
+518  
+Nevertheless, the comparison is informative in considering the impact of Rules 611 and 
+610(e) on the market. Rather than the majority of ATS-directed order flow being executed by a 
+few broker-dealers that connect to all or almost all ATSs, which is the case for exchange-directed 
+order flow, ATS-directed order flow is more evenly dispersed as broker-dealers do not tend to 
+connect to all ATSs and handle more of their own order flow. 
+  
+ 
+516  See infra Table 3. There are 33 ATSs, but the maximum number of connections observed is 25. Some ATSs 
+do not permit broker-dealers to trade on them at all and instead restricts participation to investors or 
+requires use of a particular executing broker-dealer. See supra Table 1 (showing the pattern of broker-dealer 
+exchange-directed executing dollar volume by number of exchange connections).  
+517  For example, broker-dealers connecting to over 20 ATSs outsourced only 10.8% of their A TS-directed 
+dollar volume, broker-dealers connecting to 15 to 19 ATSs outsourced 4.2%, broker-dealers connecting to 
+10 to 14 ATSs outsourced 8.5%, and broker-dealers connecting to 1 to 9 ATSs outsourced 41.4%. This 
+analysis was conducted using CAT data from January 2026. See supra note 490 and corresponding text 
+(discussing the pattern of broker-dealer outsourcing by number of exchange connections). 
+518  See infra note 516.
+
+145 
+ 
+ 
+Table 3 Executing Volume by Number of Broker Connections to ATSs 
+No. of ATS 
+Connections 
+All Customer 
+No. of 
+Brokers 
+% Shares 
+Traded 
+% Dollar 
+V olume 
+No. of 
+Brokers 
+% Shares 
+Traded 
+% Dollar 
+V olume 
+20 or more 6 28% 24.2% 4 17.3% 14.5% 
+15 to 19 25 57.5% 57.3% 21 58.9% 62.8% 
+10 to 14 12 7.4% 11.3% 10 14.7% 14.7% 
+1 to 9 143 7.2% 7.1% 116 9.2% 7.9% 
+0 885 0 0 844 0 0 
+This table uses CAT data from January 2026 to show information on the number of ATSs different 
+broker-dealers connect to (supra Table 1 shows information on the number of exchanges these 
+broker-dealers connect to). It also shows the percentages of AT S executed dollar and share volume 
+that these broker-dealers accounted for. The “All” category reflects ATS trading volume from 
+orders that originate from either a customer or proprietary account and the “Customer Only” 
+category only reflects ATS trading volume from orders that originate from a customer account. 
+The sample for the “All” category consists of 1,071 broker-dealers that either originated or 
+executed an order from a proprietary or customer account on an exchange or ATS in January 2026 
+(both exchanges and ATSs are included in constructing the sample of broker-dealers to make this 
+table and supra Table 1 comparable). The sample for the “Customer Only” category consists of  
+995 broker-dealers that either originated or executed an order from a customer account on an 
+exchange or ATS in January 2026. 
+This table uses the same methodology as described above in supra Table 1 (discussing originating 
+broker-dealers, executing broker-dealers, customer account types, and the number broker-dealer 
+connections observed broken down by venue, broker-dealer , and account types). A broker-dealer 
+is defined by its firm CRD. Broker-dealers are categorized by their number of executing 
+connections to ATSs, which is where a broker-dealer submitted an order directly to an ATS.  The 
+number of connections may be understated if some market participants maintain connections but 
+do not have any orders or trades during the sample period. The potential for undercounting 
+connections may be larger on ATSs with lower volume.
+
+146 
+ 
+ 
+Market fragmentation was a concern when Regulation NMS was adopted.519 At the time, 
+market fragmentation was primarily due to a lack of electronic trading and interlinkages between 
+trading venues, which have changed since the adoption of Regulation NMS.520 Fragmentation 
+now, both among displayed liquidity and the entire market (including off-exchange trading), is 
+primarily due to a proliferation of trading venues as well as the share of trading being more split 
+among venues. Rule 611 and 610(e) played a role in both types of fragmentation via exchange 
+proliferation.
+521 This section outlines the additional factors besides the proliferation of trading 
+venues that contribute to each type of fragmentation. This section also discusses how Rule 611 
+may have contributed to less innovation, particularly in trading protocols. 
+One potential way to capture fragmentation is using the Herfindahl-Hirschman Index 
+(“HHI”).
+522 For example, suppose there are five exchanges with the following market shares: 
+80%, 5%, 5%, 5%, and 5%. The HHI in this case would be 0.35.523 If the five exchanges instead 
+each have a market share of 20%, the HHI would be 0.8.524 Displayed liquidity is more 
+fragmented in the second scenario than the first scenario because the HHI is larger in the second 
+scenario. Staff of the Office of Analytics and Research, Division of Trading and Markets 
+ 
+519  See supra note 145. 
+520  See supra section II.B.3.a. 
+521  See supra section VI.B.4.f. (discussing how Rule 611 and 610(e) contributed to exchange proliferation). 
+522  The HHI is widely used to measure market concentration. The HHI for displayed liquidity fragmentation 
+can be calculated as “1 minus the sum of the squared market shares of lit venues. Under this metric, a fully 
+centralized market would have a fragmentation level of 0 and the maximum level of fragmentation would 
+be just less than 1.” See EMSAC Memo at 9, n. 18. 
+523  1 - (0.8^2 + 0.05^2 + 0.05^2 + 0.05^2 + 0.05^2) = 0.35. 
+524  1 - (0.2^2 + 0.2^2 + 0.2^2 + 0.2^2 + 0.2^2) = 0.8078.
+
+147 
+ 
+calculated the HHI for Nasdaq- and NYSE-listed stocks in January 2026,525 which allows for 
+comparison to previous HHIs calculated for February 2005 and February 2014.526 Compared to 
+February 2005, the January 2026 HHI is higher for Nasdaq- and NYSE-listed stocks, meaning 
+that market fragmentation has increased.527 However, compared to February 2014, the January 
+2026 HHI for NYSE-listed stocks is lower.528 Since 2014, there have been several new 
+exchanges.529 
+One concern when using the HHI to measure displayed liquidity fragmentation is that the 
+changes to the HHI from new exchanges with small market share can be minimal. Revisiting the 
+second scenario discussed above where the five exchanges each have a market share of 20%, 
+now assume there are two new exchanges for a total of seven with the market shares now as 
+follows: 20%, 20%, 20%, 19%, 19%, 1%, and 1%. In this case, the HHI would be 0.81.530 
+Compared to the initial HHI of 0.80 without these two new exchanges, liquidity is more 
+fragmented, but the change in HHI is relatively small. Thus, while it is useful to examine the 
+HHI,531 it is important to also note the number of venues to which a broker-dealer must connect. 
+Rule 611 and other features of Regulation NMS such as the SIP revenue allocation 
+formula that incentivized displayed liquidity have also contributed to the increased fragmentation 
+ 
+525  See 2026 Data Update of the 2015 EMSAC Market Structure Memo, supra note 39, at Table 3. 
+526  See EMSAC Memo at 11. 
+527  See 2026 Data Update of the 2015 EMSAC Market Structure Memo, supra note 39, at Table 3. The HHI 
+for Nasdaq-listed stocks is higher by (HHI in January 2026) – (HHI in February 2005) = (0.766) – (0.718) 
+= 0.048. The HHI for NYSE-listed stocks is higher by (0.750) – (0.176) = 0.574. 
+528  See 2026 Data Update of the 2015 EMSAC Market Structure Memo, supra note 39, at Table 3. The change 
+in the HHI for Nasdaq-listed stocks is (HHI in January 2026) – (HHI in February 2014) = (0.766) – (0.754) 
+= 0.012 and the change in the HHI for NYSE-listed stocks is (0.750) – (0.816) = -0.066. 
+529  See supra section VI.B.4.a and see EMSAC Memo at 10-11. 
+530  1 – (0.2^2 + 0.2^2 + 0.2^2 + 0.19^2 + 0.19^2 + 0.1^2 + 0.1^2) = 0.81. 
+531  See 2026 Data Update of the 2015 EMSAC Market Structure Memo, supra note 39, at Table 3.
+
+148 
+ 
+in displayed liquidity. Rule 611 strengthened the primacy of displayed prices and incentivized 
+liquidity suppliers to post displayed orders on all exchanges that they are connected to.532 
+Because most of the dollar volume on exchanges is executed by broker-dealers that are 
+connected to many, if not all exchanges,533 this increases the probability that a limit order is 
+posted and executed on a small exchange, increasing fragmentation of displayed liquidity. Other 
+features of Regulation NMS that incentivize displayed liquidity, particularly the SIP revenue 
+allocation formula, have also played a role. For example, most new exchanges have adopted fee 
+schedules that directly incentivize liquidity posting by liquidity makers. Such a fee schedule may 
+be beneficial for a new, small exchange to gain revenue because of the SIP revenue allocation 
+formula, which rewards quoting as well as trading.
+534 The SIP revenue allocation formula may 
+also contribute to exchange families continuing to operate multiple exchanges with similar 
+liquidity posting incentives. 
+Factors that have contributed to both types of fragmentation, in addition to trading venue 
+proliferation, include advances in technology, the electronification of trading, and lower 
+transaction costs. Advances in technology and the electronification of trading have made it easier 
+to connect to and route orders to many trading venues. Lower transaction costs may have also 
+contributed to both types of fragmentation because they increase the profitability of trading 
+strategies that utilize latency arbitrage between trading venues.
+535 
+ 
+532  This includes inverted exchanges, where liquidity posting is not directly incentivized through rebates as on 
+a maker-taker exchange. Posting quotes on inverted exchanges may be important to the order routing 
+strategies for certain market participants and for certain types of orders. 
+533  See supra section VI.B.4.f. 
+534  This fee schedule may allow a new, small exchange to gain a larger share of dollar volume quicker as 
+broker-dealers who connect initially are directly incentivized to submit orders. This may incentivize more 
+broker-dealers to connect, due to the increasing “interference cost”, who are also incentivized to submit 
+orders. See supra section VI.B.4.f. 
+535  See supra section VI.B.4.b. (discussing the role of latency).
+
+149 
+ 
+Other factors that may have contributed to market fragmentation include the 
+segmentation of order flow and business model competition.536 For example, the majority of 
+retail investor order flow is internalized by wholesalers, meaning that it is executed off 
+exchange.537 Also, ATSs offer alternatives to the traditional matching priority, which is based on 
+price and time, and have recently been gaining market share.538 Business model competition may 
+also contribute to displayed liquidity fragmentation. 539 
+While there have been some innovations to counteract the increased adverse selection 
+risk from faster traders, such as speed bumps,540 and order types such as midpoint peg orders and 
+hidden orders, there has otherwise been minimal differentiation between exchanges.541 As 
+previously mentioned, 542 market participants face notable similarities in the functioning of 
+exchange limit order books across different exchanges, particularly with a given fee model type. 
+Rules 611 and 610(e), along with other effects, created an incentive for the proliferation of new 
+exchanges with particular styles and thus may have limited innovation. 
+ 
+536  See also infra section VI.B.5.a (discussing the ability of ATSs to segment order flow). 
+537  See supra section VI.B.2.b. See also supra section VI. B.2.a. 
+538  See ROSENBLATT’S 2025 US EQUITY TRADING GUIDE, supra note 305. 
+539  While segmentation of order flow may contribute to the fragmentation of displayed liquidity, the effect is 
+likely small due to the limited ability of exchanges to segment order flow. See infra section VI.B.5.a 
+(discussing the limited ability of exchanges to segment order flow). 
+540  See supra section VI.B.4.b (discussing the role of latency). A speed bump intentionally slows down the 
+time it takes an order to reach the exchange. See The SEC Approves The Investors Exchange Speed Bump, 
+Mark D Schorr, The Hedge Fund Journal, Issue 116, available at https://thehedgefundjournal.com/the -sec-
+approves-the-investors-exchange-speed-bump/. See supra sections VI.B.2.a and VI.B.2.c (describing the 
+effects of faster traders). 
+541  See infra section VI.B.5.a (comparing rules for exchanges and ATSs).  
+542  See supra section VI.B.4.e.
+
+150 
+ 
+Other factors that may have limited exchange innovation are their fair access 
+requirements and limitations on their ability to segment order flow.543 In contrast to exchanges, 
+most ATSs do not meet the volume threshold for fair access requirements to apply.544 
+Additionally, most ATSs have one or more methods of segmenting customer order flow.545 It is 
+possible that the lack of limitations on segmenting orders and the lack of costs associated with 
+evaluating new matching mechanisms against fair access requirements have contributed to lower 
+innovation costs for ATSs when compared with exchanges.  
+ 
+ 
+National securities exchanges and off-exchange market centers (e.g., ATSs546, FINRA 
+members, and OTC market makers (including wholesalers and SDPs)) compete in the market for 
+NMS stock trading services. National securities exchanges and off-exchange market centers are 
+subject to different regulatory requirements.  
+National securities exchanges fall within the definition of an exchange in section 3(a)(1) 
+of the Exchange Act and are required to register under section 6 of the Exchange Act. As SROs, 
+national securities exchanges set standards of conduct for their members, administer 
+examinations for compliance with these standards, coordinate with other SROs with respect to 
+the dissemination of consolidated market data, and generally take responsibility for enforcing 
+ 
+543  See 15 U.S.C. 78f(b)(5), which states that the rules of the exchange are not designed to permit unfair 
+discrimination between customers, issuers, brokers, or dealers, or to regulate by virtue of any authority 
+conferred by this chapter matters not related to the purposes of this chapter or the administration of the 
+exchange. See also infra section VI.B.5.a (discussing differences between exchanges and ATSs). 
+544  See 17 CFR 242.301(b)(5). 
+545  Differences in how they segment customer order flow is one way in which ATSs innovate and differentiate 
+themselves from other trading centers. 
+546  The operators of ATSs are required to register as broker-dealers under the requirements of Regulation ATS.
+
+151 
+ 
+their own rules and the provisions of the Exchange Act and the rules and regulations thereunder. 
+The Exchange Act requires that national securities exchanges establish rules that generally: (1) 
+are designed to prevent fraud and manipulation, promote just and equitable principles of trade, 
+and protect investors and the public interest;
+547 (2) provide for the equitable allocation of 
+reasonable dues, fees, and other charges;548 (3) do not permit unfair discrimination;549 (4) do not 
+impose any burden on competition that is not necessary or appropriate in furtherance of the 
+purposes of the Act;550 and (5), with limited exceptions, allow any broker-dealer to become a 
+member.551 National securities exchanges must file proposed rule changes with the Commission 
+under section 19(b) of the Exchange Act, which are made available for public comment,552 and 
+are subject to Commission approval.553 Rule 610 of Regulation NMS prohibits national 
+securities exchanges from imposing unfairly discriminatory terms on non-members in obtaining 
+access to exchange quotations through the services of an exchange member.554 National 
+securities exchanges are limited in their ability to segment order flow.555 All national securities 
+exchanges are “lit” market centers, meaning they publicly display quotations for NMS stocks in 
+consolidated market data. The highest-priced bids and lowest-priced offers for round lots on 
+ 
+547  Section 6(b)(5) of the Exchange Act. 
+548  Section 6(b)(4) of the Exchange Act. 
+549  Section 6(b)(5) of the Exchange Act. 
+550  Section 6(b)(8) of the Exchange Act. 
+551  Section 6(b)(2) of the Exchange Act. 
+552  See 15 U.S.C. 78s(b)(1). 
+553  See 15 U.S.C. 78s(b) 
+554  See 17 CFR 242.610(a). 
+555  Retail liquidity programs (RLPs) provide an on-exchange means of order segmentation. The RLPs offered 
+by many exchanges are specifically set up to segment the marketable order flow of individual investors, 
+allowing liquidity suppliers to interact with this order flow without the risk that their orders will trade 
+against the marketable orders of other market participants that may impose greater adverse selection risk.
+
+152 
+ 
+national securities exchanges are included in the consolidated market data feeds disseminated by 
+centralized SIPs. 
+NMS Stock ATSs fall within the definition of an exchange under section 3(a)(1) of the 
+Exchange Act but are exempted from registering as an exchange if they meet the definition of an 
+ATS,
+556 register as broker-dealers,557 and otherwise comply with Regulation ATS under the 
+Exchange Act. NMS Stock ATSs are also required to file and publicly disclose Form ATS-N.558 
+The majority of NMS Stock ATSs segment trading interest into categories, classifications, tiers, 
+or levels and some allow subscribers to designate their trading interest to interact or not interact 
+with certain trading interest in the NMS Stock ATS (e.g., private rooms). Rule 301(b)(3) of 
+Regulation ATS requires an NMS Stock ATS that displays orders to any person and has 5% or 
+more of the aggregate average daily share volume reported in an NMS stock during four of the 
+preceding six calendar months to comply with certain order display and execution access 
+obligations.
+559 No NMS Stock ATS currently displays quotations in NMS stocks in consolidated 
+ 
+556  See 17 CFR 242.300(a). 
+557  See 17 CFR 242.301(b)(1). 
+558  See 17 CFR 242.304. The Commission reviews initial Form ATS-N filings and must declare them effective 
+before an NMS Stock ATS can begin operating. When an NMS Stocks ATS wants to make a material 
+change to its operations, it is required to file a material amendment at least 30 days prior to the date of 
+implementation. Material amendments to Form ATS-N are also subject to a Commission review period and 
+can be declared ineffective. An NMS Stock ATS must have an effective Form ATS-N on file with the 
+Commission to operate.   
+559  See 17 CFR 242.301(b)(3). An ATS that meets these criteria must comply with Rule 301(b)(3)(ii), which 
+requires the ATS to provide to a national securities exchange or national securities association (each an 
+SRO), for inclusion in the quotation data made available by the SRO to vendors, the prices and sizes of its 
+orders at the highest buy price and lowest sell price for that NMS stock that are displayed to more than one 
+subscriber. See 17 CFR 242.301(b)(3)(ii). An ATS that meets the volume threshold also is required to 
+comply with Rule 301(b)(3)(iii), which sets forth certain access standards regarding the orders that the ATS 
+is required to provide to an SRO pursuant to Rule 301(b)(3)(ii). See 17 CFR 242.301(b)(3)(iii). Under Rule 
+301(b)(4), an ATS must not charge any fee to broker-dealers that access the ATS through a national 
+securities exchange or national securities association that is inconsistent with the equivalent access to the 
+ATS that is required under Rule 301(b)(3)(iii). See 17 CFR 242.301(b)(4). In addition, if the national 
+securities exchange or national securities association to which an ATS provides the prices and sizes of 
+orders under Rules 301(b)(3)(ii) and 301(b)(3)(iii) establishes rules designed to assure consistency with 
+standards for access to quotations displayed on such national securities exchange, or the market operated by
+
+153 
+ 
+market data.560 The market centers that do not display quotations are known as “dark” trading 
+centers or “dark pools.”  
+Under Rule 301(b)(5) of Regulation ATS, an NMS Stock ATS is required to provide fair 
+access to its services if it has 5% or more of the average daily volume with respect to an NMS 
+stock during four of the preceding six calendar months. As of November 30, 2025, one NMS 
+Stock ATS discloses on its Form ATS-N that it is subject to these fair access requirements for 
+securities that are available for trading on its platform. 
+OTC market makers, which also include wholesalers and SDPs, are dealers that hold 
+themselves out as being willing to buy and sell an NMS Stock to market participants for its own 
+account on a regular or continuous basis, other than on a national securities exchange.561 A 
+wholesaler commonly refers to an OTC market maker that seeks to attract orders from broker-
+dealers (often called retail brokers) who service individual investors, and wholesalers internalize 
+the majority of marketable orders from these individual investors. Some OTC market makers, 
+such as wholesalers, operate SDPs through which they execute marketable institutional orders in 
+NMS stocks against their own inventory. Broker-dealers that do not display quotations in 
+consolidated market data and that trade outside of an ATS, such as wholesalers, are not subject to 
+any fair access requirements under the Exchange Act or Commission rules (i.e., wholesalers do 
+not display or otherwise reveal the prices at which they are willing to execute individual investor 
+orders internally). While they are subject to Commission and SRO requirements as broker-
+ 
+such national securities association, the ATS shall not charge any fee to members that is contrary to, that is 
+not disclosed in the manner required by, or that is inconsistent with any standard of equivalent access 
+established by such rules. See id. 
+560  Some ATSs display quotations to their subscribers or make their quotes available through market data 
+vendors. 
+561  See 17 CFR 242.600(b)(75).
+
+154 
+ 
+dealers, wholesalers are not prohibited from restricting access to their trading mechanisms or to 
+the investor orders they internalize. 
+Trading services for NMS stocks are highly fragmented among different types of market 
+centers. In January 2026, NMS stocks were traded on 17 national securities exchanges and on 
+off-exchange market centers, including 33 NMS Stock ATSs and other FINRA members.562 In 
+January 2026, a total of over 388 billion shares (over $20 trillion notional) were traded in NMS 
+stocks.563 National securities exchanges executed approximately 50.1% of total share volume in 
+NMS stocks (and 55.5% of total notional volume), while off-exchange market centers, including 
+ATSs and wholesalers, executed approximately 49.9% of total share volume (and 44.5% of total 
+notional volume).564 
+ 
+As of Q4 of 2025, there were 3,277 registered broker-dealers based on FOCUS Report 
+Form X-17A-5 Schedule II, representing a decline of approximately 25% compared to 2015, 
+when there were 4,450 registered broker-dealers.565 This reflects increased concentration in the 
+broker-dealer industry over the last decade. These broker-dealers service individual and/or 
+institutional investors in the market for NMS stocks, and include both carrying broker-dealers 
+that maintain custody of customer funds and securities and introducing broker-dealers that accept 
+customer orders and introduce their customers to a carrying broker-dealer that will hold the 
+ 
+562  Other FINRA members include wholesalers that internalize the majority of individual investor marketable 
+orders. 
+563  This estimate is based on January 2026. See U.S. Equities Market Volume Summary, supra note 442. 
+564  This estimate is based on January 2026. See U.S. Equities Market Volume Summary, supra note 442. 
+565  See U.S. Securities and Exchange Commission Fiscal Year 2015 Congressional Budget Justification, 
+available at https://www.sec.gov/about/reports/secfy15congbudgjust.pdf. See also Norges Bank comment 
+letter ‘‘Re: Notice of Proposed Rule on Market Data Infrastructure, Securities Exchange Act Release No. 
+88216 (Feb. 14, 2020) (File No. S7–03–20)’’, dated July 15, 2020, at 3, available at 
+https://www.sec.gov/comments/s7-03-20/s70320-7422691-219826.pdf and First TTR Transcript at 74-5 
+(Dave Lauer, Urvin Finance and We the Investors).
+
+155 
+ 
+customers’ securities and cash. The Commission estimates that there are approximately 164 
+broker-dealers that carry at least one customer account trading in NMS stocks, and 1,092 broker-
+dealers that introduce at least one customer trading in NMS stocks. 
+The Commission understands that the structure of the market for brokerage services can 
+be broadly separated into two distinct markets: brokerage services for individual investors and 
+brokerage services for institutional investors. In January 2026, there were approximately 806 
+registered broker-dealers that originated orders on behalf of individual investors in the market for 
+NMS stocks.566 Unlike institutional investors, individual investors generally use a single broker 
+to handle their orders. Retail brokers can be broadly divided into “discount” and “full-service” 
+brokers. Competition among discount brokers, in particular, has recently resulted in many new 
+entrants and a decline in commissions to zero or near zero. Instead of earning commissions on 
+transactions, these discount brokers earn revenue through other means, including, among other 
+products and services, interest on margin accounts and from lending securities, and broker-
+wholesaler arrangements involving PFOF paid by the wholesaler to the retail broker. Discount 
+broker-dealers can distinguish themselves by the accessibility and functionality of their trading 
+platform, which can be geared towards less experienced or more sophisticated retail investors, 
+and by providing more extensive customer service as well as tools for research and education on 
+financial markets. 
+ 
+566  This analysis was completed using CAT data for the month of January 2026. A registered broker-dealer is 
+defined by its firm Central Registration Depository numeric identifier (CRD). Brokers counted are those 
+that reported at least one order identified as account type “Individual Customer”. This includes individual 
+investors and accounts that do not meet the definition of “institution” in FINRA Rule 4512(c) and not a 
+proprietary account. See CAT REPORTING TECHNICAL SPECIFICATIONS FOR PLAN PARTICIPANTS: 7/29/2022 
+Version 4.1.0 r15, available at https://catnmsplan.com/sites/default/files/2022-07/07.29.2022-CAT-
+Reporting-Technical-Specifications-for-Participants-4.1.0-r15.pdf (“CAT Reporting Version 4.1.0 r15”).
+
+156 
+ 
+In January 2026, there were approximately 595 registered broker-dealers that originated 
+institutional orders in the market for NMS stocks.567 A distinguishing feature of institutional 
+brokerage services is that a significant portion of institutional investor orders are generally “not 
+held” orders. For not held orders, broker-dealers have time and price discretion in executing the 
+order, which institutional investors rely on to minimize price impact and for other reasons. Due 
+to the large size of institutional trading interests, broker-dealers often split these orders, 
+frequently using SORs. Specifically, a broker-dealer or its SOR will split a “parent” order into 
+multiple “child” orders, with the goal of executing the child orders in a way that achieves the 
+best execution for the parent order. The Commission understands that some investors, 
+particularly some institutional investors, are likely to use multiple broker-dealers. 
+Broker-dealers compete on many dimensions, including the execution quality. They may 
+seek to improve their competitive position by, for example, adding connections and subscriptions 
+to exchanges and ATSs, and by investing in the speed and quality of their routing technology.
+568 
+The majority of trading on ATSs and exchanges comes from the trades where the executing 
+broker and originating broker are the same.569 In January 2026, 82.2% of ATS dollar volume and 
+ 
+567  This analysis was completed using CAT data for the month of January 2026. A registered broker-dealer is 
+defined by its firm Central Registration Depository numeric identifier (CRD). Brokers counted are those 
+that reported at least one order identified as account type “Institutional Customer” as defined by FINRA 
+Rule 4512(c). See CAT Reporting Version 4.1.0 r15. 
+568  When making routing decisions, some broker-dealers may face conflicts of interest that arise when their 
+interests are not aligned with their customers’ interest in receiving better execution quality. These conflicts 
+of interest could result, for example, from broker-dealer affiliations with market centers. Similarly, the 
+presence of liquidity fees and rebates at some market centers may incentivize broker-dealers to make 
+routing decisions based on where they can receive the highest rebate (or pay the lowest fee), rather than 
+where they can receive better execution quality on behalf of their customer. Another potential conflict of 
+interest, particularly regarding individual investor order flow, includes the receipt of PFOF, which may 
+incentivize broker-dealers to route orders to wholesalers as a result of the terms of the PFOF arrangements. 
+569  This analysis was completed using CAT data for the month of January 2026. A connection is found when an 
+order is identified that was sent from a broker-dealer firm to an ATS or exchange. A broker is defined by its 
+firm Central Registration Depository numeric identifier (CRD). A broker that submits the order to the ATS 
+or exchange is the executing broker. Each order is traced to its origin where an originating broker received 
+the order from a client. For each order, the originating broker may be the same or different from the 
+executing broker.
+
+157 
+ 
+82.0% of exchange dollar volume came from trades for which the executing broker and 
+originating broker were the same. Furthermore, a relatively small number of brokers originate 
+and execute orders, while a larger number originate orders but do not execute. In January 2026, 
+of the 1,060 broker-dealers that originated orders to an exchange or ATS, 275 of them both 
+originated and executed orders, whereas 785 only originated orders and did not execute.570  
+There are several factors that have potentially contributed to the increased concentration 
+in the executing broker-dealer industry in particular. One factor is that data and connectivity 
+costs, which can be significant, have risen as new exchanges begin charging data and 
+connectivity fees and existing exchanges increase their data and connectivity fees.571 This 
+contributes to the high fixed costs for broker-dealers.572 Another factor is that other sources of 
+revenue for broker-dealers, such as commissions, have declined. Finally, as broker-dealers 
+compete in other dimensions, such as execution quality or by offering additional services 
+bundled with execution, high-volume broker-dealers may be better positioned competitively 
+compared to smaller broker-dealers. This is because high-volume broker-dealers tend to connect 
+to all or almost all exchanges and invest in the most sophisticated technology that allows them to 
+minimize transaction costs and execution quality.
+573 
+ 
+570  See supra Table 1 (discussing CAT analysis of the number of broker-dealers that originate and execute 
+orders on exchanges and ATSs). 
+571  See infra section VI.B.4.c. 
+572 See supra section VI.C.4.b.i. (describing broker-dealer fixed costs). See also First TTR Transcript at 172-3 
+(Adam Nunes, Hudson River Trading).  
+573  High-volume broker-dealers may also be able to take advantage of lower transaction pricing because 
+exchanges offer volume-based discounts. See Securities Exchange Act Release No. 98766 (Oct. 18, 2023), 
+88 FR 76282 (Nov. 6, 2023) (“V olume-Based Exchange Transaction Pricing for NMS Stocks”) at 76313.
+
+158 
+ 
+C. Benefits and Costs 
+This section separately discusses the benefits and costs of rescinding Rule 611 and Rule 
+610(e), as well as additional economic effects from rescinding both rules together.    
+ 
+ 
+As explained in detail below, rescinding Rule 611574 is expected to reduce market 
+complexity, which will result in cost savings for trading centers and broker dealers by reducing 
+compliance costs and ongoing maintenance associated with maintaining order execution systems 
+and SORs. It may also lower the market data and connectivity costs of some market participants, 
+although the magnitude of this effect is uncertain. Rescinding Rule 611 is also expected to result 
+in improvements in the execution quality of larger institutional orders. Furthermore, rescinding 
+Rule 611 may also reduce displayed fragmentation and potentially increase innovation in trading 
+protocols for both exchanges and ATSs.  
+Rescinding Rule 611 is expected to lower ongoing compliance and surveillance costs for 
+trading centers related to maintaining policies and procedures associated with Rule 611.
+575 Rule 
+611 requires trading centers to support ISO logic, and a thick layer of exception handling to 
+avoid trade-throughs, each of which cascades into surveillance alerting, exception review, and 
+supervisory controls.
+576 Rescinding Rule 611 would allow firms to retire ISO order types and 
+simplify surveillance programs. The Commission estimates that each trading center currently 
+ 
+574  In order for these effects to be realized, a majority of national securities exchanges for NMS stocks will 
+have to rescind their own rules to prevent trade-throughs. The Commission expects this to happen because 
+doing so will relieve the exchange of costly maintenance requirements described in this section. In addition, 
+not rescinding these rules may put them at a competitive disadvantage compared to other exchanges that 
+do.  
+575  See supra section VI.B.2.d (discussing compliance costs related to Rule 611). 
+576  See, e.g., Robinhood Letter at 5; J. Angel Letter; First TTR Roundtable Transcript at 90 (Julie Andress, 
+Securities Traders Association and KeyBanc Capital Markets) (discussing trade-through compliance).
+
+159 
+ 
+incurs $30,996 in annual ongoing compliance costs related to maintaining policies and 
+procedures to comply with Rule 611.577 Rescinding Rule 611 would result in trading centers 
+saving an estimated aggregate total of $9.45 million dollars in annual compliance costs.578 In 
+addition to these annual compliance cost savings, trading centers are also expected to experience 
+additional cost savings from the rescission of Rule 611 and 610(e) related to reductions in the 
+ 
+577  The Commission, in its most recent PRA renewal, estimated that each respondent (i.e., trading center) 
+would require an average of approximately 60 hours annually to ensure that the policies and procedures 
+established are up-to-date and remain in compliance with the Commission’s rule: two hours per month of 
+internal legal time and three hours per month of internal compliance time (2 hours x 12 month + 3 hours x 
+12 months = 60 hours annually). See Extension Without Change of a Currently Approved Collection: Order 
+Protection Rule - Rule 611 of Regulation NMS; ICR Reference No. 202005-3235-016; OMB Control No. 
+3235-0600 (Aug, 22, 2023), available at 
+https://www.reginfo.gov/public/do/PRA ViewICR?ref_nbr=202304-3235-011. The estimated monetized 
+annual hour burden is as follows: ($744 for an attorney x 2 hours x 12 months) + ($365 for a financial 
+examiner (i.e., compliance) x 3 hours x 12 months) = $30,996. To calculate the occupational hourly rates 
+used in this release, the Commission uses occupational mean hourly wage data from the Occupational 
+Employment and Wage Statistics (OEWS) program of the Bureau of Labor Statistics (BLS) for “Securities, 
+Commodity Contracts, and Other Financial Investments and Related Activities” (NAICS 523). See 
+Occupational Employment and Wage Statistics, U.S. Bureau of Labor Statistics, https://www.bls.gov/oes/; 
+see also Standard Occupational Classification, U.S. Bureau of Labor Statistics, https://www.bls.gov/soc/ 
+(describing occupational classification system used by BLS); Exec. Off. of the President, Off. of Mgmt. & 
+Budget, North American Industry Classification System (2022), available at 
+https://www.census.gov/naics/reference_files_tools/2022_NAICS_Manual.pdf (describing the industry 
+classification system used by BLS and other agencies). The mean hourly wage for each occupation is 
+adjusted for changes in the seasonally adjusted employment cost index for private wages and salaries 
+between the data reference period and when the data are released by BLS. See Employment Cost Index , 
+U.S. Bureau of Labor Statistics, https://www.bls.gov/eci/. The adjusted mean hourly wage is then 
+multiplied by a factor that accounts for nonwage costs borne by employers, such as bonuses, benefits, and 
+overhead. This factor is calculated as an average over the 10 most recently available years of data of the 
+ratio of the Bureau of Economic Analysis’s annual gross output data for NAICS 523 to total annual wages 
+across all occupations for NAICS 523 in the OEWS data. See Gross Output by Industry, U.S. Bureau of 
+Economic Analysis, https://www.bea.gov/data/industries/gross-output-by-industry; Occupational 
+Employment and Wage Statistics, U.S. Bureau of Labor Statistics, supra. The final product is the 
+occupational hourly rate. See generally Updated Methodology for Calculating Occupational Hourly Rates 
+(Dec. 19, 2025), available at https://www.sec.gov/files/method-occupational-hourly-rates.pdf. 
+578  The Commission estimates that there are currently 305 trading centers subject to Rule 611. This estimate 
+includes 20 exchanges (17 exchanges that trade NMS stocks + three exchanges that are approved but not 
+yet operating) and 33 ATSs that trade NMS stocks. Based on data from the consolidated audit trail for 
+January 2026, the estimate also includes 96 exchange market makers and 225 broker-dealers acting as OTC 
+market maker or executing orders internally by trading as principal or crossing orders as agent. 69  broker-
+dealers are both exchange market makers and an OTC market maker or broker-dealer internalizing orders. 
+Accordingly, the Commission estimates that rescission of Rule 611 would eliminate 305 trading centers x 
+60 hours annually = 18,300 annual burden hours that would be associated with complying with Rule 611. 
+The total estimated monetized annual hour burden is 305 trading centers x $30,996 = $9,453,780.
+
+160 
+ 
+burdens associated with regularly maintaining and updating their execution systems. These 
+additional cost savings are discussed below in section VI.D.3.a. 
+Broker-dealers that run SORs would also experience compliance cost savings from 
+rescinding Rule 611.579 Broker-dealers would no longer need to maintain logic to prevent trade-
+throughs, utilize exceptions to Rule 611 (such as conducting an ISO sweep of protected quotes), 
+or maintain policies and procedures to detect and surveil for trade-throughs in their order 
+handling.  For example, some firms may no longer need to collect snapshot information of 
+protected quotes at the time they submit an order to demonstrate compliance with the usage of 
+ISO orders for Rule 611 exceptions.580 Each broker-dealer that runs an SOR is estimated to save 
+$13,140 annually by no longer maintaining policies and procedures  related to Rule 611.581 
+Rescinding Rule 611 would result in broker-dealers operating SORs saving an estimated 
+aggregate total of $2.8 million in annual compliance costs.582 In addition to these annual 
+ 
+579  See supra section VI.B.2.d (discussing compliance costs related to Rule 611). 
+580  See, e.g., First TTR Roundtable Transcript at 171-173 (Adam Nunes, Hudson River Trading) (discussing 
+that systems necessary to demonstrate compliance with Rule 611 are associated with a lot of overhead) ; 
+First TTR Roundtable Transcript at 232 (Daniel Gerhardstein, FIA Principal Traders Group and Jump 
+Trading Group) (stating that industry participants and exchanges operate and maintain elaborate systems 
+solely for trade-through compliance). 
+581  The Commission estimates that each broker-dealer with an SOR currently requires an average of 
+approximately 36 hours annually to ensure that the policies and procedures established are up- to-date and 
+remain in compliance with the Commission’s rule: three hours per month of internal compliance time (3 
+hours x 12 months = 36 hours annually). The estimated monetized annual hour burden is as follows: ($365 
+for a financial examiner (i.e., compliance) x 3 hours x 12 months) = $13,140. See supra note 577  for 
+discussion on how the hourly burden are monetized. 
+582  The Commission estimates that there are 213 broker-dealers that operate a SOR. This number is estimated 
+by counting the number of unique CRDs that submitted an order directly to an exchange in January 2026. 
+See Table 1 for additional information. Accordingly, the Commission estimates that rescission of Rule 611 
+would eliminate 213 broker-dealers x 36 hours annually = 7,668 annual burden hours that would be 
+associated with broker-dealers complying with Rule 611. The total estimated monetized annual hour burden 
+is 213 broker-dealers with SORs x $13,140 = $2,798,820. There will be overlap between the broker-dealers 
+that operate a SOR and the broker-dealers that are an exchange market maker or OTC market maker 
+(estimated in supra note 578). For these broker-dealers, the Commission believes that the cost savings from 
+no longer updating their policies and procedures that are related to being a trading center and their cost  
+savings from no longer updating their policies and procedures that are related to operating a SOR will be 
+additive (i.e., they will save on both costs).
+
+161 
+ 
+compliance cost savings, broker-dealers that operate SORs are also expected to experience 
+additional cost savings from the rescission of Rule 611 and 610(e) related to reductions in the 
+burdens associated with regularly maintaining and updating their order routing systems. These 
+additional cost savings are discussed below in section VI.C.3.a. 
+However, the compliance cost savings for trading centers and broker-dealers that are 
+discussed above may be limited to the extent that the certain costs related to Rule 611 overlap 
+with the costs related to other Commission or SRO Rules. For example, some firms may collect 
+quote snapshots or other market surveillance data for compliance with multiple rules. They may 
+still collect this information for other compliance or evaluation purposes if Rule 611 is rescinded. 
+Additionally, some broker-dealers may outsource their compliance procedures and surveillance 
+to third party vendors. To the extent that Rule 611 is integrated into the same systems that the 
+vendor uses to evaluate for compliance with other rules, the rescission of Rule 611 may not 
+result in the vendor reducing their prices or cost savings for these broker-dealers. 
+Rescinding Rule 611 could result in institutional investors experiencing improved 
+execution quality for their large orders.583 Without trade-through restrictions, trading venues 
+could better facilitate block crosses at economically efficient prices. Rescinding Rule 611 would 
+also allow institutional investors more flexibility to route child orders, allowing them to avoid 
+trading at exchanges that may increase their information leakage. This would allow institutional 
+brokers to work parent orders with fewer compliance-driven routes, thereby reducing slippage. 
+Clusters of ISO child orders used to clear protected quotes may result in greater price impact. 
+ 
+583  See supra section VI.B.2.a (discussing how Rule 611 affects institutional order handling and executions). 
+Any improvements in the execution quality of institutional orders would represent a transfer from the 
+market participants that currently benefit from the increased slippage caused by trade -through restrictions 
+(e.g. liquidity providers that are alerted to the execution of a large parent order) to the institutional investors 
+that place the orders.
+
+162 
+ 
+Rescinding Rule 611 would therefore give brokers more flexibility to stage child orders to 
+minimize the parent order’s total cost consistent with institutional benchmarks, such as the 
+VWAP or TWAP. This would likely lead to an increase in the trade-through rates of displayed 
+quotes, because institutional investors would be better able to select which quotes they want to 
+interact with to reduce their price impact. The Commission is unable to estimate the magnitude 
+of improvements in institutional execution quality or the increase in institutional trade-through 
+rates if Rule 611 is rescinded, because it would depend on the latent demand for institutional 
+investors to execute at prices outside the protected quotes, which the Commission is unable to 
+estimate. 
+As explained in detail below, rescinding Rule 611 may allow some broker-dealers to 
+access and maintain connectivity to fewer exchanges, which could result in reduced market data 
+and connectivity expenditures for some broker-dealers.
+ 584 However, this effect may be limited.  
+As discussed in detail below, rescinding Rule 611 (along with Rule 610(e)) may also 
+reduce market complexity by eliminating certain orders types (e.g., ISO orders) and simplifying 
+algorithmic routing and trading strategies, because trading centers and broker-dealers will no 
+longer need to check if they are trading through protected quotes.585 This reduction in market 
+complexity is expected to result in ongoing cost savings for trading centers and broker-dealers 
+that operate SORs by simplifying the maintenance and updates to their execution and SOR 
+systems. These ongoing cost savings, together with those from rescinding Rule 610(e), are 
+described below in section VI.C.3.a.  
+ 
+584  See infra section VI.C.3.c.i. for further discussion on broker-dealers disconnecting from exchanges if Rules 
+611 and Rule 610(e) are rescinded. See also supra section VI.B.4.f (discussing how Rule 611 and Rule 
+610(e) increase broker-dealer connectivity and market data costs). 
+585  See infra section VI.C.3.a for further discussion on how rescinding Rule 611 and Rule 610(e) will reduce 
+market complexity. See also supra section II.B.2.a. and VI.B.2.d for further discussions on how Rule 611 
+potentially contributes to increased market complexity.
+
+163 
+ 
+As discussed in detail below, rescinding Rule 611 (and Rule 610(e)) could increase 
+competition among executing brokers, which may result in improved services (e.g., faster 
+connections, improved algorithms) or reduced costs for the introducing brokers and market 
+participants that utilize their services.586 However this effect could be limited by economies of 
+scale in the executing broker-dealer industry.  
+Rescinding Rule 611 could lessen exchange fragmentation. As discussed in detail 
+below,587 rescinding Rule 611 would eliminate the “interference cost” broker-dealers face when 
+not connecting to an exchange. Therefore, a broker-dealer may disconnect from an exchange or 
+not connect to a new exchange if the cost of disconnecting is less than or the cost of connecting 
+is greater than the benefits of the additional execution quality that connecting to the exchange 
+provides. This may reduce displayed fragmentation as broker-dealers concentrate their orders on 
+more liquid venues with better execution quality.
+588  
+Rescinding Rule 611 could foster innovation in trading protocols and venue design—for 
+both exchanges and ATSs. Currently, Rule 611’s restrictions on the trade-through of protected 
+quotes may limit the trading protocols that exchanges and ATSs can offer. Rescinding Rule 611 
+would allow exchanges and ATSs more flexibility to experiment and try new mechanisms, such 
+as alternative matching, priority, and auction constructs. These innovations may deliver better 
+outcomes for specific trading needs (e.g., institutional block mechanisms or time-staged response 
+markets). However, innovation in exchange trading protocols may still be limited by other 
+ 
+586  See infra section VI.D.2.d (discussing how rescinding Rule 611 and Rule 610(e) will increase competition 
+between execution brokers). See also supra section VI.B.5.b (describing how executing brokers currently 
+compete).  
+587  See infra section VI.C.3.c.i. (discussing broker-dealers disconnect from exchanges). 
+588  See infra section VI.C.3.c.i. (discussing broker-dealers routing to exchanges with better execution quality).
+
+164 
+ 
+constraints, such as fair access restrictions and restrictions on order segmentation, which may not 
+apply to most ATSs.589 
+ 
+This section discusses the costs associated with rescinding Rule 611. Rescinding Rule 
+611 is likely to impose one-time implementation costs on trading centers and broker-dealers that 
+operate SORs to update their systems and remove policies and procedures designed to prevent 
+trade-throughs and ensure compliance with Rule 611 exceptions. It could also result in more 
+order flow being routed off exchange, potentially reducing exchange revenues and displayed 
+liquidity, although the magnitude of this effect is likely to be limited. Based on data regarding 
+wholesaler price improvement practices, the Commission does not expect significant changes in 
+retail order execution quality if Rule 611 is rescinded. 
+The one-time implementation costs associated with rescinding Rule 611 include expenses 
+related to legal personnel updating policies and procedures as well as software engineering and 
+IT costs for updating and configuring systems related to trade execution, order handling and 
+surveillance. These updates will be made in combination with changes related to the rescission of 
+Rule 610(e), and these combined implementation costs are discussed below in section VI.C.3.b. 
+Additionally, some broker-dealers may choose to incur additional costs to update their 
+best execution policies and procedures to account for the rescission of Rule 611.
+590 To the extent 
+Rule 611 provided a best execution backstop, if rescinded, some broker-dealers may determine 
+they need to update their best execution policies and procedures relating to order routing choices 
+and attain the “most favorable terms reasonably available” when liquidity is fragmented across 
+ 
+589  See supra section VI.B.5.a (discussing differences between how exchanges and ATS are regulated). 
+590  See supra section VI.B.1.c. (discussing best execution rules). See also supra section II.B.3 (discussing the 
+evolution of U.S. equity markets and the effect of Rule 611 as best execution backstop).
+
+165 
+ 
+multiple venues and it is possible to execute orders at prices inferior to some displayed prices.591 
+For a broker-dealer that does choose to update its internal policies and procedures, the 
+Commission estimates that it would incur a one-time cost of approximately $40,100.592 Due to 
+the diversity of broker-dealer business models and operations, it is difficult for the Commission 
+to reasonably estimate how many broker-dealers would choose to update their best execution 
+policies and procedures if Rule 611 is rescinded. However, the Commission believes that the 
+number of broker-dealers that will choose to update their best execution policies and procedures 
+is likely to be less than the total number of broker-dealers that submitted customer orders to an 
+exchange (i.e., less than 173) simply because, given the diversity of execution strategies, some 
+broker-dealers may view it as optimal to not change their routing strategies.593 If all broker-
+dealers that submitted customer orders to an exchange chose to update their best execution 
+policies and procedures, the Commission estimates that the total one-time cost would be 
+approximately $6.94 million.594  
+Rescinding Rule 611 could cause more order flow to be executed off exchange, which 
+could reduce exchange revenue and may also reduce displayed liquidity. If there is no trade-
+ 
+591  It is possible that these broker-dealers might update their best execution review process as part of updating 
+their policies and procedures.  
+592  The Commission estimates that each broker-dealer that chooses to update its best execution policies and 
+procedures would, on average, need 54 hours to do so: 48 hours of legal time and 6 hours of review by a 
+Chief Compliance Officer. The estimated monetized one-time burden is as follows: ($744 for an attorney x 
+48 hours) + ($731 for a financial manager (i.e., Chief Compliance Officer) x 6 hours) = $40,098. See supra  
+note 577 for details on how hourly rates are calculated. If a broker-dealer also made changes to their SOR 
+as a result of the rescission of Rule 611, those costs would be included in the implementation costs 
+discussed in infra section VI.C.3.b. 
+593  The Commission estimates that there are 173 broker-dealers that submitted a customer order to an 
+exchange. This number is estimated by counting the number of unique CRDs that submitted a customer 
+order directly to an exchange in January 2026. See Table 1 for additional information. 
+594  The Commission estimates rescinding Rule 611 would result in a total one-time burden of 173 broker-
+dealers x 54 hours = 9,342 hours for broker-dealers to update their best execution policies and procedure. 
+The total estimated one-time monetized hour burden is 173 broker-dealers x $40,100 = $6,937,300. 
+However, the Commission acknowledges uncertainty regarding this estimate and has requested comment 
+on it.
+
+166 
+ 
+through protection, then there would be no obligation to interact with displayed exchange quotes 
+before executing at inferior prices in dark venues. The loss of this obligation combined with the 
+potential flexibility for executing orders at off-exchange venues (e.g., reduced adverse selection 
+from the segmentation of order flow and better control of counter-party risk), may cause more 
+broker-dealers to route orders to off-exchange venues.595 This could, in turn, increase the trade-
+through of displayed quotes on exchanges.596 If more orders are routed off exchange, exchange 
+transaction volume, and related revenue from transaction fees and the SIP, could decline.597 
+Additionally, more marketable orders routed off exchange may reduce the incentive to post limit 
+orders on exchanges, decreasing overall displayed liquidity. However, as discussed in detail 
+below, any reduction in displayed liquidity is likely to be limited.598 
+The Commission is unable to reasonably estimate the magnitude of order flow that could 
+move off exchange if Rule 611 is rescinded because it would depend on the latent demand to 
+execute at prices outside the protected quotes, which the Commission is unable to estimate. 
+However, there are a number of reasons why the amount of order flow that migrates off 
+exchange may be limited. First, most marketable retail orders are already executed off exchange, 
+so this order flow would not migrate. Second, broker-dealers would still have a commercial 
+incentive to maximize execution quality, which may incentivize them not to trade off exchange if 
+there are better-priced quotes displayed on exchanges. Therefore, to the extent that there is not a 
+ 
+595  In particular, broker-dealers may be more likely to route a larger portion of institutional investor orders off 
+exchange if Rule 611 is rescinded in order to reduce the overall slippage of some parent orders. See supra 
+section VI.C.1.a discussing on the effect of rescinding Rule 611 on institutional orders).  
+596  Commission analysis shows that trade-through rates of unprotected odd-lot quotes are higher for off-
+exchange transactions than for similar sized transactions occurring on exchange. See infra section VI.C.1.c. 
+597  It may also reduce the revenue some smaller and new exchanges receive from connectivity and market 
+data. See infra section VI.C.3.ii (discussing how exchange market data and connectivity is affected by 
+rescinding Rule 611 and Rule 610(e)). 
+598  See infra note 600 and related text.
+
+167 
+ 
+significant reduction in displayed liquidity, there might not be a significant reduction in the share 
+of marketable orders that are routed to exchanges for execution. Third, the implementation of the 
+MDI displayed odd-lot information in the SIP may improve the visibility of better priced quotes 
+on exchanges and help offset any marketable order flow that might have migrated off exchange. 
+Finally, to the extent that the rescission of Rule 611 helps improve innovation in exchange 
+trading protocols, such innovation might help partially counteract the potential migration of 
+order flow off exchange.
+599 
+Rescinding Rule 611 could reduce the total amount of displayed liquidity on exchanges. 
+However, any such effects are not expected to be significant.600 If rescinding Rule 611 leads to 
+more order flow being routed off exchange, trade-through rates of displayed round-lot quotes on 
+exchanges could increase. Higher trade-through rates could lower the expected probability of 
+execution for displayed limit orders, reducing the incentive to post and update best-priced 
+displayed orders on exchanges. In theory, this may prompt liquidity providers to quote less 
+aggressively, reduce the displayed size of their order, or even hide their order or move their 
+trading interest off exchange. This could widen NBBO quoted spreads and thin displayed 
+depth—raising transaction costs for liquidity takers (i.e., higher effective spreads) and 
+opportunity costs for non-marketable limit order posters whose orders no longer enjoy 
+trade-through protection.601     
+ 
+599  See supra section VI.C.1.a (discussing potential for increase in exchange innovation). 
+600  See also supra section VI.B.2.c (discussing how Rule 611 affects displayed liquidity). 
+601  To the extent it occurs, any reduction in displayed depth is likely to vary across stocks, with larger 
+reductions in smaller-cap, lower-volume stocks. A widening of the NBBO or a reduction in displayed depth 
+could also increase volatility and reduce price efficiency, since pre-trade transparency from displayed 
+quotes plays a significant role in the price discovery process. See Amy Edwards et al., The Effect of Hidden 
+Liquidity: Evidence from an Exogenous Shock (working paper Dec. 19, 2024), available at 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064340 (retrieved from SSRN Elsevier database).
+
+168 
+ 
+However, to the extent it does occur, the Commission does not expect any decline in the 
+aggregate amount of displayed liquidity to be significant, for several reasons. First, as discussed 
+above, the migration of order flow off exchange may be limited. Second, market participants 
+often display unprotected odd-lot orders inside the NBBO, indicating that order protection does 
+not have a significant impact on the price or size at which they display their order.602 Third, the 
+Commission analysis below shows that trade-through rates of unprotected quotes fall as trade 
+size increases—a large trade benefits more from executing at the best price per share—implying 
+that rescinding Rule 611 may not have a significant impact on lit liquidity for orders that are 
+equal to or greater than the round-lot size.603 Additionally, a separate analysis shows that trade-
+through rates in the pre-market and after-hours sessions—when quotes are not protected—are 
+estimated to be similar to trade-through rates of protected quotes during the regular trading 
+session.604 These analyses indicate that the removal of order protection may not significantly 
+decrease the probability that a displayed round-lot sized quote at the NBBO is traded through, 
+which would result in little change in the incentives to display the order. Finally, the 
+implementation of the MDI rule to display odd-lot orders inside the NBBO in the SIP may 
+increase the incentives to display limit orders at or inside the NBBO. These orders would not 
+have been protected under Rule 611 and the increased transparency from including them in the 
+SIP may increase their probability of execution, which would increase the incentives to display 
+aggressively-priced orders. However, this effect may be limited because a majority of the trading 
+ 
+602  See Robert P. Bartlett et al., The Market Inside the Market: Odd-Lot Quotes, 38 REV. FIN. STUD. 661 
+(2025). 
+603  See infra Table 5 and surrounding discussion. That analysis shows that off-exchange trade-through rates 
+decline from 19.1% for trades of five shares to 11.5% for trades of 40 shares. 
+604  See supra note 408 and surrounding discussion (also see footnote discussion of potential limitations of the 
+analysis).
+
+169 
+ 
+volume on exchanges may come from broker-dealers that use exchange proprietary DOB feeds 
+that already have access to this odd-lot information.605 
+Rescinding Rule 611 may have minor impacts on stocks that will receive a smaller tick 
+size.606 First, rescinding the trade-through prohibition could reduce the anticipated benefit of 
+lower transaction costs from narrower spreads due to the reduction in the tick size. This is 
+because a narrower spread can restrict the prices at which market participants transact. Thus, 
+without the trade-through prohibition, more trade-throughs of the narrower spreads could occur, 
+leading to less favorable trading terms for investors. However, this effect is expected to be 
+limited as broker-dealers would still be subject to best execution obligations, which would not 
+disappear with the rescission of Rule 611.  
+Rescinding Rule 611 is not expected to significantly impact average execution quality for 
+marketable retail orders, although some individual orders may receive worse prices.607 As 
+discussed above, retail brokers typically evaluate wholesalers based on average execution quality 
+relative to the NBBO, and allocate more order flow to those with higher average execution 
+quality.608 Because wholesalers often internalize marketable retail orders at prices significantly 
+better than the NBBO, their average execution quality is not constrained by the protected 
+ 
+605  See supra section VI.B.4.c (discussing SIP and proprietary data feeds) and section VI.B.1.d.i. (discussing 
+the MDI amendments). 
+606  See supra section VI.B.1.iii (discussing the anticipated economic effects when the amendments to Rule 612 
+adopted in the 2024 Regulation NMS Amendment are implemented). 
+607  In turn, some marketable retail orders may experience better prices if there is an increase in cross-
+subsidization by wholesalers. For additional discussions, see infra note 615 and accompanying discussion. 
+608  See supra section VI.B.2.b.
+
+170 
+ 
+quote.609 Therefore, competition among wholesalers makes it unlikely that the average execution 
+quality of retail marketable orders would significantly change if Rule 611 is rescinded.610  
+However, Commission staff analysis also shows that when wholesalers internalize 
+marketable retail orders, they sometimes trade through displayed odd-lot quotes available at 
+better prices and in sufficient quantity to fill the order, resulting in higher transaction costs for 
+these orders.611 If Rule 611 is rescinded, wholesalers may begin to trade through displayed 
+round-lot quotes that were previously protected and are of sufficient size to fill the order, 
+resulting in worse prices for these orders.612   
+However, there are several reasons why this effect may be limited. First, wholesalers may 
+be less likely to trade through a round-lot quote that sets the NBBO compared to a smaller odd-
+lot quote.613 Because retail brokers often benchmark wholesalers by their average execution 
+quality measured against the NBBO, this creates competitive pressure that may make 
+ 
+609  See id. 
+610  In addition, when the new Rule 605 reports are implemented, they may increase competition among retail 
+brokers based on average execution quality, because retail investors will be better able to compare the 
+execution quality across brokers. See Rule 605 Amendments Adopting Release at 26544. This, in turn, may 
+cause retail brokers to require better average execution quality from wholesalers to receive their retail 
+orders, which would further enhance the competitive incentives for wholesalers to not reduce the average 
+execution quality they provide if Rule 611 is rescinded.    
+611  See infra section VI.C.1.c. (discussing off-exchange trade-throughs of odd-lot quotes). 
+612  Separately, it is also possible that wholesalers may sometimes start to trade through round-lot quotes when 
+the retail order is larger than the displayed size, but it may not result in higher transactions costs for the 
+order. As discussed above, for larger retail orders, wholesalers currently may execute the order outside the 
+NBBO but provide price improvement compared to if the order had walked up the book against the 
+aggregated displayed liquidity available on exchanges. When this occurs, the wholesaler may submit an 
+order in a principal capacity to execute against the protected quotes on exchanges, to comply with Rule 
+611. If Rule 611 is rescinded, it is possible that wholesalers may no longer submit these principal orders to 
+execute against the exchange quotes, which would result in an increase in trade-throughs, but may not 
+result in increased transaction costs for the marketable retail orders. It is also possible that wholesalers may 
+still choose to execute against the exchange quotes in these circumstances to help ma nage their inventory. 
+See supra section VI.B.2.b (discussing size improvement wholesalers provide to larger retail orders). 
+613  The analysis in Table 5 below shows that the off-exchange trade-through rate decreases as the trade size 
+increases. Therefore, off-exchange trade-through rates for unprotected 100 share round-lot quotes may be 
+lower than the trade-through rates for 40 share trades observed in the table. See infra section VI.C.1.c.
+
+171 
+ 
+wholesalers less likely to trade through a round-lot quote that sets the NBBO. Second, 
+wholesalers usually execute larger retail orders with price improvement relative to the prices 
+they would have received if the order had executed against the aggregated displayed liquidity 
+across all exchange order books; i.e., they provide a better price compared to if the limit order 
+had “walked-the-book” on exchanges.614 This indicates that the displayed size at the protected 
+quotes is not usually a binding constraint on the execution quality that wholesalers provide (i.e., 
+they tend to also provide price improvement relative to unprotected displayed quotes they could 
+have traded through).  
+Third, when the new Rule 605 reports are implemented, they will include statistics on the 
+size improvement relative to aggregated depth at the NBBO, as well as the percentage of shares 
+of marketable orders that a retail broker executes outside the NBBO. If retail investors value 
+these additional dimensions of execution quality, competition among retail brokers may lead 
+them to evaluate wholesalers on these metrics as well, which could limit the extent to which 
+wholesalers execute large retail orders at prices worse than the NBBO.  
+If wholesalers begin trading through round-lot quotes after Rule 611 is rescinded, some 
+larger marketable retail orders may receive worse prices.
+615 This would transfer value from the 
+retail investors to the wholesalers, who would earn higher profits.  
+Wholesalers may pass some of these increased profits to other retail investors by cross-
+subsidizing additional price improvement to smaller orders. Wholesalers may do this because 
+ 
+614  See supra section VI.B.2.b. Additionally, some retail brokers may produce exception reports if a wholesaler 
+executes an order at a price outside of the VWAP price the order would have received if it had walked the 
+consolidated displayed limit order book. See Ernst, Malenko, Spatt and Sun (2023). 
+615  The magnitude of any increase in transaction costs resulting from trade-throughs of round-lot quotes may 
+not be large. For example, the analysis in Table 5 below shows that off-exchange trade-throughs of 40 share 
+odd-lot quotes increases transactions costs by 0.32 bps (or 5.0% of the 6.34 bps effective spread). The 
+increase in transaction costs declines with the trade size, which indicates the increased transaction costs for 
+trading through a 100 share round-lot quote may be lower. See infra section VI.C.1.c.
+
+172 
+ 
+they would still face competitive pressure to maintain average execution quality measured 
+against the NBBO to attract retail order flow. To offset the worse execution quality associated 
+with trade-throughs of round-lot quotes, the wholesaler would have to provide additional price 
+improvement to other retail orders. However, if the retail broker benchmark does not perfectly 
+reflect wholesaler profits, wholesalers may still retain some of the increased transaction costs 
+from larger marketable retail orders as profit, even if their average execution benchmark remains 
+unchanged. 
+Rescinding Rule 611 may also increase the likelihood that retail non-marketable limit 
+orders are traded through, although the Commission does not expect this effect to be significant. 
+As discussed above,616 most retail non-marketable limit orders are indirectly displayed on an 
+exchange, where they may currently qualify as protected quotes. If rescinding Rule 611 increases 
+trade-through rates of displayed orders on exchanges, it would also increase trade-through rates 
+for nonmarketable retail orders. However, as discussed above, there are reasons to believe that 
+trade-through rates for displayed limit orders may not significantly increase if Rule 611 is 
+rescinded. Therefore, rescinding Rule 611 may not significantly increase trade-through rates for 
+displayed retail non-marketable limit orders. 
+If there is an increase in retail marketable orders executed outside the NBBO or retail 
+non-marketable limit orders traded through, it could lead to investor confusion. This could create 
+additional costs for retail brokers to respond to more customer complaints, increase investor 
+education, or update their systems. For example, retail brokers may incur higher costs for call 
+centers, chat support, and content development to explain trade-throughs, reconcile price 
+discrepancies, and adjust user interfaces.   
+ 
+616  See supra section VI.B.2.b.
+
+173 
+ 
+ 
+i.  Odd-Lot Quote Trade-Through Analysis 
+This section presents the Commission’s empirical analysis of the prevalence and 
+economic determinants of trade-throughs. A primary challenge in empirically evaluating the 
+effect of the amendments is that Rule 611 requires trading centers to have policies and 
+procedures to prevent trade-throughs. This trade-through prohibition causes observed trade-
+throughs to be less frequent than they would be under market forces alone.  Further, trade-
+throughs that violate Rule 611(e.g., by mistake) are likely to differ systematically from 
+intentional trade-throughs that would occur without Rule 611. An empirical analysis therefore 
+requires a setting where Rule 611 does not prohibit trade-throughs; behavior in this setting can 
+serve as a counterfactual for broader market behavior if Rule 611 is rescinded. 
+The Commission therefore focuses on trade-throughs of odd-lot quotes inside the NBBO 
+for high-priced stocks. This setting is a useful laboratory for multiple reasons. First, Rule 611 
+only applies to round-lot quotes; odd-lot quotes inside the NBBO are not protected and market 
+participants are free to trade through them. Second, odd-lot trades are prevalent, comprising over 
+half of trades since 2021;617 this allows for a large sample of trades that can be benchmarked 
+against the prevailing odd-lot quotes to determine if the trade could have been executed at a 
+better price. Third, odd-lot quotes can represent substantial notional liquidity for high-priced 
+stocks and can emulate the liquidity of round lots for less expensive stocks.618 Fourth, odd-lot 
+quotes and trades occur during the core trading session when conditions are the same as with 
+ 
+617  See Bartlett et al., supra note 412. 
+618  See id; See also First TTR Roundtable Transcript at 77-78 (Maureen O’Hara, Cornell, SC Johnson 
+Graduate School of Management). A high price per share offsets the fact that odd-lots represent fewer 
+shares; to illustrate, a 30-share odd-lot quote for a stock priced at $100 per share represents as much 
+notional liquidity as a protected quote for a stock priced at $30 per share.
+
+174 
+ 
+round-lot quotes and trades. This setting therefore provides a relatively clean laboratory for 
+market behavior in the absence of Rule 611. 
+The results of the Commission’s analysis are summarized here. The analysis finds that 1-
+5% of trades on an exchange trade through a better-priced quote on another exchange. The cost 
+of these trade-throughs, measured as the fraction of notional executed outside the best quote, 
+ranges from 0.03 to 0.13 basis points.619 This cost is small relative to effective spreads—which 
+are over 6 basis points—and suggests that market participants trading on an exchange generally 
+execute at the best available prices, even without an explicit requirement. Trade-through rates are 
+higher for off-exchange executions, ranging from 11-19% for trades of 5 to 40 shares, with costs 
+ranging from 0.32 to 0.84 basis points. This suggests that there is demand for trade-throughs off 
+exchange, and this demand may extend to round lots if Rule 611 is rescinded. The analysis also 
+finds that trade-through rates decline with trade size. Therefore, to the extent that off-exchange 
+trade-throughs reduce the incentive to provide lit liquidity, this effect is expected to be small for 
+limit orders of meaningful size, such as those that set the NBBO. Finally, the analysis finds 
+similar trade-through rates for retail trades executed by wholesalers and trades executed on 
+ATSs, alleviating concerns that retail execution quality will be particularly sensitive to the 
+rescission of Rule 611.  
+There is a fundamental limit in extrapolating these results to round lots if Rule 611is 
+rescinded: round lots are protected and set the NBBO, while odd-lot quotes are neither protected 
+nor set the NBBO. If market participants avoid trading through the NBBO even without Rule 
+611, the observed trade-through rates of odd-lot quotes may overstate those for round lots if Rule 
+ 
+619  More specifically, the cost of a trade-through is calculated using the difference between the execution price 
+and the price of the best odd-lot quote of sufficient size to cover the trade. This cost is bounded by the 
+protected quote—that is, when an odd-lot quote inside the NBBO is traded through, the execution price will 
+generally not be outside of the NBBO.
+
+175 
+ 
+611 is rescinded. For example, off-exchange trading protocols are often benchmarked to 
+protected quotes and ignore odd-lot quotes, which may contribute to the observed off-exchange 
+trade-through rates. Additionally, these empirical results are based on a subset of high-priced 
+stocks with spreads wide enough to allow odd-lot quotes inside the NBBO.620 The behavior of 
+these stocks may differ systematically from that of stocks with low prices and tight spreads. 
+These caveats indicate that the estimated trade-through rates should be interpreted with caution, 
+as they may differ from those for round lots if Rule 611 is rescinded. Nevertheless, the 
+Commission believes that analyzing trade-throughs of odd-lot quotes inside the NBBO for high 
+priced stocks provides an economically meaningful environment to study market behavior 
+without a trade-through prohibition.  
+A detailed discussion of the methodology and results of the Commission’s analysis is 
+below. 
+The analysis starts by constructing a sample of stock-days with room inside the NBBO 
+for odd-lot quotes of meaningful liquidity.621 The sample construction has the following steps. 
+First, all stock-days for the fourth quarter of 2025 are collected from the TAQ Masterfile. 
+Second, stock-days are excluded if their VWAP is less than $100,622 their round lot is less than 
+ 
+620  The subsample used in the analysis is economically significant. For October of 2025, this subsample 
+includes approximately 880 stocks per day (out of a total of approximately 11,600 traded stocks). Many of 
+the high-priced stocks in this subsample are among the most active of all stocks, with the subsample 
+typically comprising 30-40% of total daily dollar volume for regular-way trades. The economic 
+significance of the subsample indicates that market participants are accustomed to trading in environments 
+where the best quote is often unprotected. 
+621  See supra note 431 for the definition of a stock-day. 
+622  The VWAP is the volume-weighted average price for the stock-day. It is computed using regular-way trades 
+from the SIP by dividing the notional value of the trades (i.e., trade price multiplied by trade size) by the 
+total number of shares that transacted.
+
+176 
+ 
+100,623 or their time-weighted average NBBO quoted spread (“NBBO TWAQS”) is less than 
+$0.04 during October.624 Third, to avoid data errors in exchange proprietary feeds, December 
+16th is excluded, as are 34 stock-days with a negative time-weighted quoted spread of the best 
+displayed prices (“BDP TWAQS”).625 The result is a sample of 45,647 stock-days. 
+Summary statistics are presented in Table 4. The sample captures a wide range of trading 
+activity: stock-days at the 5th percentile have less than 100 trades, while the 95th percentile has 
+over 88,000 trades. Similarly, the first ventile has a dollar volume under $0.5 million, while the 
+twentieth ventile is above $850 million. The sample covers over $11 trillion in notional volume 
+for the quarter.626 
+Turning toward quoted spreads, the sample contains NBBO TWAQS ranging from $0.05 
+to over $2, with a median of $0.316 and a mean of $0.661. Importantly, the distribution of the 
+BDP TWAQS is substantially lower than the distribution of the NBBO TWAQS. That is, at each 
+ 
+623  As a result of the round-lot amendments that took effect on November 3, this filter implies that stocks with 
+prices typically over $250 per share are only in the sample during October. The new round lots for these 
+stocks resulted in tighter NBBO spreads, thus reducing the space for odd- lot quotes inside the NBBO. 
+624  In order for there to be odd-lot quotes inside both sides of the NBBO, the NBBO spread needs to be at least 
+$0.03. The time-weighted average quoted spread is calculated from the SIP quotes. The data in this analysis 
+precedes the implementation of the 2024 Regulation NMS Amendments. Once implemented, stocks that 
+generally maintain an NBBO TWAQS less than $0.015 will trade with a reduced minimum pricing 
+increment; because this analysis conditions on an NBBO TWAQS greater than $0.04, the results of this 
+analysis are unlikely to be affected by the reduction in the minimum pricing increment. Additionally, once 
+implemented, the 2024 Regulation NMS Amendments reduce the access fee cap for all stocks; because the 
+change in the access fee cap affects all quotations, it is unlikely to affect the incentives to trade through a 
+particular quote and is therefore unlikely to affect the results of this analysis. The data in this analysis also 
+precedes the dissemination of top-of-book odd-lot quotations by the SIPs, which was implemented on 
+Monday, April 27, 2026. Market participants may be less likely to trade through odd-lot quotes once it is 
+easier and cheaper to see the top-of-book odd-lot quotations; to the extent that most trades are executed by 
+market participants who see odd-lot quotations in the proprietary feeds, the dissemination of odd-lot 
+quotations by the SIPs is unlikely to have a large impact on the results of this analysis. 
+625  December 16th is dropped due to a data quality issue with an exchange proprietary feed, which resulted in 
+missing quotes for half of the day. The best displayed prices are the lowest lit offer and the highest lit bid 
+across all 16 proprietary feeds, regardless of the size of the quote. The BDP TWAQS is the time-weighted 
+value of the spread between these best displayed prices; if this is negative, then it is likely due to an error 
+on one of the feeds. 
+626  The total notional is computed by multiplying the average notional by the number of stock- days in the 
+sample: $249.2 million x 45,647.
+
+177 
+ 
+percentile, the BDP TWAQS is lower than the NBBO TWAQS, indicating that there are often 
+odd-lots inside the NBBO. At the 5th percentile, the BDP TWAQS is about 25% lower than the 
+NBBO TWAQS, while at the 95th percentile the BDP TWAQS is less than half of the NBBO 
+TWAQS. The depth at the BDP exhibits a similar pattern: the time-weighted depth at the bid and 
+offer is less than 100 at the median of the distribution, which implies that the typical stock-day in 
+the sample spends most of the day with less than one round lot at the BDP. Finally, trade-
+weighted effective spreads—a measure of trading costs—range from $0.023 to $0.707 per share 
+from the 5th to 95th percentiles; in percentage terms, the effective spread averages 11.7 basis 
+points relative to the midpoint of the trade.627 
+  
+ 
+627  The effective spread is measured as twice the absolute difference between the trade execution price and the 
+midpoint of the NBBO at the time of the trade. For each stock-day, this measure is averaged across trades; 
+equally weighting trades (as opposed to weighting by shares or the notional value of the trade) gives 
+relatively more weight to small trades and therefore makes the measure more reflective of the trading cost 
+of small odd-lots.
+
+178 
+ 
+ 
+Table 4: Summary statistics for analysis of trade-through rates 
+ 
+Variable 
+Stock-
+days Mean P5 P25 P50 P75 P95 
+VWAP 45,647 $195 $103 $122 $153 $204 $397 
+Number of trades 45,647 26,522 84 3,426 12,074 27,261 88,176 
+Dollar-volume (millions) 45,647 $249.2 $0.5 $14.1 $62.4 $186.0 $851.8 
+Market Cap. (millions) 45,640 $53,074 $182 $2,372 $8,410 $28,676 $179,947 
+NBBO TWAQS 45,647 $0.661 $0.056 $0.152 $0.316 $0.698 $2.193 
+BDP TWAQS 45,647 $0.338 $0.041 $0.103 $0.199 $0.377 $0.990 
+BDP TW depth at bid 45,647 154 28 54 87 155 511 
+BDP TW depth at offer 45,647 171 26 51 85 160 620 
+Effective spread 45,647 $0.228 $0.023 $0.059 $0.113 $0.222 $0.707 
+Effective spread (%) 45,647 0.117% 0.016% 0.039% 0.069% 0.127% 0.330% 
+ 
+This table displays summary statistics for the sample constructed for the analysis of trade-
+throughs. The sample consists of all stock-days (unique stock-date pairs) in the TAQ Masterfile for 
+the fourth quarter of 2025, subject to the following filters: (1) stock-days with a volume-weighted 
+average price (“VWAP”) under $100 are excluded to focus on odd-lots; (2) stock-days are 
+excluded if the round-lot is less than $0.04 during October to allow for room inside the NBBO; (3) 
+December 16th is excluded due to a data quality issue with an exchange proprietary feed; (4) 34 
+stock-days with a negative “BDP TWAQS” are excluded due to likely data errors; and (5) stock-
+days without any trades are excluded. 
+Trade data is from the SIP and include regular-way trades (i.e., trades with a sale condition of 
+“Regular Trade,” “Intermarket Sweep Order”, or “Odd Lot Trade”). Market capitalization is 
+calculated as shares outstanding (from the TAQ Masterfile) multiplied by VWAP.  The NBBO 
+TWAQS is the time-weighted average quoted spread during market hours using the SIP round-lot 
+quotes. BDP TWAQS is the time-weighted average quoted spread during market hours using the 
+best-priced bid and ask, regardless of quote size, constructed from 16 exchange proprietary feeds. 
+BDW TW depth at bid (offer) is the time-weighted average depth at the best priced bid (offer), 
+measured in shares; when multiple venues quote at the best price, the maximum quote size is used. 
+Effective spread is computed as twice the absolute difference between the trade price and the 
+NBBO midpoint at the time of the trade, averaged equally across regular trades for each stock-day. 
+The effective spread is measured both in dollars and as a percent of the NBBO midpoint. 
+For each variable, the table reports the number of stock-days with non-missing values, the mean, 
+and the 5th, 25th, 50th, 75th, and 95th percentiles. 
+ 
+Conceptually, a trade-through occurs when a liquidity demander leaves money on the 
+table by not sending the order to a venue with a better-priced quote. To operationalize this 
+concept, an empirical analysis of trade-throughs must specify the conditions under which the
+
+179 
+ 
+liquidity demander could have reasonably executed at the better price. The following analysis 
+sets two conditions. First, the trade quantity must be no larger than the size of the better-priced 
+quote. Second, the better-priced quote must be sufficiently persistent that the liquidity demander 
+could have seen it and executed against it. If these conditions hold, then a liquidity demander 
+could have received—even if only after the fact—a better price by sending the order to a 
+different venue. 
+Regarding the first condition, if the trade size is larger than the better-priced quote, then 
+the liquidity demander would not have been able to execute the entire order at the better-priced 
+quote. Instead, they would either incur the cost of a partially filled order or execute the remaining 
+shares at a potentially worse price elsewhere. Commenters have noted that execution quality 
+should be benchmarked to the size of the order.628 Accordingly, this analysis benchmarks trades 
+against quotes that are large enough to fully accommodate the trade.  
+To implement this first condition, the analysis takes the following approach. First, the 
+analysis focuses on trades of a range of sizes: 1, 5, 10, 20, 40, and 100. Trades of these sizes are 
+relatively frequent.629 For each trade size, quotes are drawn  from the proprietary order book data 
+covering the sixteen exchanges that operated throughout the fourth quarter of 2025.630 The order 
+ 
+628  In the context of best execution for retail orders, one commenter stated, “since the odd lots don’t show up 
+in the NBBO, measuring [best execution] against the NBBO really doesn’t make sense. What we really 
+ought to do is measure [best execution] against the actual displayed liquidity that is in the lit markets.” See 
+First TTR Roundtable Transcript at 188 (Jim Angel, Georgetown University). In the context of institutional 
+best execution, one commenter stated that, “wholesalers are being held accountable to the order receipt 
+time depth of book quote.” See First TTR Roundtable Transcript at 275 (Robert Battalio, University of 
+Notre Dame). 
+629  See Michael Coccia et al., Is Smaller Better? Examining the Decrease in Trade Sizes in Financial Markets 
+30-31 (working paper July 16, 2025), available at 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358460 (retrieved from SSRN Elsevier Database). 
+630  The analysis excludes quotes from 24X National Exchange, LLC, on which trading commenced on October 
+14th, 2025. V olume on this exchange—whether measured by shares, trades, or notional—generally 
+accounted for less than 0.1% of aggregate volume on the days it operated during 2025. See US Equities 
+Historical Market Volume Data, CBOE,
+
+180 
+ 
+book data provides, for each exchange, the number of shares offered at each of ten price levels 
+on both the buy and sell sides (i.e., ten levels of buy orders, and ten of sell orders).631 For each 
+size and venue, the analysis constructs BBO-like quotes—analogous to the best bid and offer for 
+a round-lot quote—by identifying the lowest price at which a market sell order of that size would 
+execute (for bids) and the highest price at which a market buy order would execute (for offers), 
+assuming the order walks the book and does not interact with hidden liquidity. For example, a 
+10-share bid on an exchange is the lowest price that a 10-share market sell order would execute 
+against (assuming the sell order walks the book and does not interact with hidden liquidity); 
+similarly, the 10-share offer is the highest price that a 10-share market buy order would execute 
+against. This procedure creates BBO-like quotes for each trade size; trade execution prices are 
+then compared to the correspondingly sized quote to determine if the trade could have executed 
+at a better price at another venue.632 
+Turning to the second condition, if the relevant (correspondingly sized) quote is not 
+sufficiently persistent, then it will not be used to determine whether there was a trade-through. It 
+might not be feasible, for example, for a liquidity demander to execute against a quote that 
+“flickers.” The trade-through analysis considers the following factors when determining whether 
+it is feasible for a liquidity demander to execute against a quote.  
+ 
+https://www.cboe.com/us/equities/market_statistics/historical_market_volume/ (last visited April 16, 2026). 
+To the extent that better-priced odd-lot quotes persist on this exchange, the analysis may understate trade-
+through rates. 
+631  A price level is a price with a resting order. A price without a resting order does not count toward the ten 
+level limit—e.g. if an exchange has an offer to sell a share at $100.01 and the next offer to sell is at 
+$100.10, then those offers would constitute only two levels instead of ten. 
+632  The analysis excludes trades that occur when the best correspondingly sized quotes cross each other. For 
+example, a 10-share trade is excluded when the best 10-share offer is lower than the best 10-share bid. 
+When the market is crossed, every execution price is either below the best bid or above the best offer ; it is 
+therefore unclear how to evaluate the execution quality of such a trade.  See supra note 235.
+
+181 
+ 
+First, the quote needs to persist long enough for the message to travel from the exchange 
+to the liquidity demander. For example, if a broker is in Secaucus, NJ, and an exchange is in 
+Mahwah, NJ, a quote message traveling at the speed of light would take approximately 113 
+microseconds to arrive after it was released from the exchange’s matching engine—setting a 
+lower bound on travel time.633  
+Second, after receiving the quote message, the broker needs time to process and act on it, 
+and then the broker’s response must travel back to the exchange. 
+Third, there are limits to how closely market participants can synchronize their clocks, 
+which means messages from different venues might be reported out of order. For example, a 
+trade might be reported on one venue before a quote update is reported on another venue, even 
+though the quote update occurred first. Exchanges employ a methodology to ensure that their 
+timestamps are accurate within 100 microseconds.
+634  
+Fourth, a broker may send marketable orders to multiple venues simultaneously, but 
+differences in transit times (e.g., between Mahwah and Carteret, NJ) can create the appearance of 
+a trade-through. For example, if venue A has a worse quoted price than venue B but the broker’s 
+order reaches venue A first, it may appear as if the trade on venue A traded through a better-
+priced quote on venue B, even though both quotes were accessed nearly simultaneously.  
+ 
+633  The locations are approximately 21 miles apart, and the speed of light is 186,000 miles per second. Light 
+therefore requires 0.000113 seconds (21 miles / 186,000(miles/second)) to traverse the distance. 
+634  See, e.g., the definition of “Participant Timestamp” in UTP DATA FEED SERVICES SPECIFICATION VERSION 
+3.0c (2026), available at https://utpplan.com/DOC/UtpBinaryOutputSpec.pdf.
+
+182 
+ 
+Fifth, from the perspective of the liquidity supplier, if a quote is traded-through but then 
+canceled or subsequently executed by another order, the supplier is not worse off because of the 
+trade-through.635 
+In sum, these five factors necessitate that a better-priced quote persist for a window of 
+time around the execution in order for the trade to be classified as a trade-through: the first two 
+factors require that the quote exist before the trade, while the latter three require it to exist after 
+the reported time of execution. 
+To implement this condition of quote persistence, the analysis takes the following 
+approach. First, each trading day is divided into non-overlapping intervals of 1.2 milliseconds. 
+Quotes are mapped to every interval during which they are in effect, using the participant 
+timestamp that records when the exchange’s matching engine published the message.636 Second, 
+for each interval and venue, the analysis identifies the highest offer and lowest bid at which a 
+market order of a given size could have executed. These are considered the persistent quotes—
+quotes that do not persist for the full interval are excluded, as a liquidity demander could not 
+have reliably traded against them. Third, the analysis summarizes the persistent quotes across all 
+venues to determine the best persistent bid and offer for each interval. This produces NBBO-like 
+bids and offers for every 1.2 millisecond interval and for each trade size threshold.  
+Correspondingly, trades are assigned to one of the 1.2 millisecond intervals using the 
+trade’s participant timestamp,637 and then trades are merged to the best persistent quotes in the 
+ 
+635  One commenter discussed measuring, “…the cost to the limit order that is allegedly traded through” by 
+examining whether the order was subsequently filled. See First TTR Roundtable Transcript at 160-161 (Jim 
+Angel, Georgetown University). 
+636  See supra note 634. 
+637  For trades that occur on an exchange, this timestamp reflects the time that the message is published by the 
+exchange’s matching engine. For trades that occur off exchange, the timestamp reflects the execution time 
+of the trade reported by the FINRA member. By matching trades to quotes using the participant timestamp,
+
+183 
+ 
+same interval. Only trades with timestamps between the 800th and 1,000th microsecond of each 
+interval are retained in the sample. This sampling procedure keeps approximately one-sixth of 
+trades (those in the 200 microsecond window of each 1.2 millisecond interval) and matches them 
+to the best quotes that persisted from at least 800 microseconds before execution to at least 200 
+microseconds after execution. This approach ensures that the analysis accounts for the factors 
+previously discussed: 800 microseconds are allotted for a message to travel from the exchange to 
+the liquidity demander and back, and 200 microseconds are allotted for clock synchronization 
+and simultaneous execution issues.
+638 
+The sample of trades is shown in Table 5. Panel A shows trades that are executed on an 
+exchange, and Panel B shows trades that are executed off exchange. The first column shows the 
+size of the trade, and the second column shows the number of trades. There is a total of 91 
+million trades, each of which is matched to the best persistent quotes of various sizes. 
+To examine the effect of rescinding Rule 611, the analysis focuses on situations where 
+market participants are not prohibited from trading through better-priced quotes. Specifically, the 
+analysis includes only those trades where the best persistent quotes for the trade’s size are inside 
+the best persistent quotes for a 100-share order. For example, a 20 share trade is included in the 
+trade-through analysis only if the best persistent bid and ask for a 20-share order are inside the 
+best persistent bid and ask for a 100-share order.
+639 This approach avoids the direct effect of 
+Rule 611 in preventing trade-throughs. 
+ 
+the quotes reflect—as close as is possible—the state of the order book at the time of trade execution. See 
+supra note 634. 
+638  To the extent these allowances are too short, then the estimated trade-through rates will be too high (and 
+vice versa if the allowances are too long). Additionally, to the extent some off-exchange venues report 
+execution times rounded down to the nearest millisecond, then those trades will be evaluated against quotes 
+that are older by the length of the rounding, potentially increasing measured trade-through rates. 
+639  As discussed previously, every stock in this sample has a round lot of 100 shares.
+
+184 
+ 
+These trades are denoted “Candidate trades,” and are shown in the third column of Table 
+5. The fourth column reports the percentage of all trades that are “Candidate trades.” 
+Approximately 30% of 10-share trades are “Candidate trades.” The fraction of “Candidate 
+trades” decreases with trade size because larger trades are more likely to exhaust all of the 
+available odd-lot liquidity on a venue and thereby reach the protected quote. 
+The analysis next calculates trade-throughs for the “Candidate trades.” A trade-through 
+occurs when the trade’s execution price occurs outside of the best persistent bid and ask prices. 
+Column five shows the fraction of “Candidate trades” that are trade-throughs. For each trade-
+through, the analysis calculates the notional value of the trade-through by multiplying the 
+number of shares in the trade by the difference between the execution price and the best quote 
+(i.e., for a trade-through executed below the best bid, the execution price is subtracted from the 
+best bid; for an execution above the best offer, the best offer is subtracted from the execution 
+price). The summed notional value of all trade-throughs is then divided by the notional value of 
+all the “Candidate trades” to calculate the fraction of notional that is outside the best quote—this 
+is presented in the sixth column as “Notional amount outside of best quote (basis points).” The 
+last column shows the typical effective spread for stock-days in the sample, weighted by the 
+stock-days’ notional value of “Candidate trades” in each row. 
+Panel A shows trade-through rates of 1.6 to 5.5% for on-exchange odd-lot trades. Smaller 
+trades generally have higher trade-through rates, with one-share trades exhibiting the highest 
+trade-through rate—possibly because these are often exploratory or used to “ping” for hidden 
+liquidity rather than being price sensitive.
+640 Similarly, smaller trades have a higher notional 
+amount that is outside of the best quotes, ranging from 0.03 to 0.13 basis points. However, the 
+ 
+640  See, e.g., Ryan L. Davis et al., 1-Share Orders and Trades, 75 J. BANKING & FIN. 109 (2017).
+
+185 
+ 
+notional value of these trade-throughs is small compared to typical trading costs: effective 
+spreads range from 6 to 9.12 basis points, implying that liquidity demanders on exchange do not 
+leave much money on the table by passing over better-priced quotes. To provide a benchmark, 
+the last row of the panel shows results for trades of size 100 that occur on exchange, which are 
+evaluated against the best 100-share quotes (i.e., the protected NBBO). The trade-through rate 
+for these trades is 0.3%, with the notional amount outside of the best quotes estimated to be 0.01 
+basis points.641 
+Panel B shows results for off-exchange trades, where trade-through rates are substantially 
+higher than on-exchange trades. Trade-through rates off exchange range from 11.5 to 35.6% for 
+odd-lots.642 As with on-exchange trades, smaller trades have higher trade-through rates, 
+particularly for one-share trades A possibility for the high trade-through rates for one-share 
+trades is that some of them are the result of fractional trades. During this time period, trades for 
+retail orders smaller than one share are reported as 1-share trades in the SIPs.
+643 If a trade 
+involves a whole share component and a fractional share component (e.g. a trade for 10.4 
+shares), then the broker may execute the whole share component on an agency basis and the 
+fractional share component on a principal basis. This trade would result in two prints to the SIP: 
+ 
+641  The estimated trade-through rate of 0.3% is similar to the round-lot trade-through rates calculated in the 
+OAR Roundtable Analysis—see supra note 121. That analysis found a 0.06% trade-through rate for round-
+lot trades in corporate securities and a 0.08% trade-through rate for round-lot trades in ETP securities, both 
+using a one-second lookback window. 
+642  One study found off-exchange odd-lot trade-through rates of 31-46%. This study looked at a relatively 
+small sample of trades on one day and for two stocks. These trade-through rates were computed without the 
+requirement that the better-priced odd-lots have sufficient depth to cover the trade size; this difference in 
+methodology may explain part of the difference in the trade-through rate from Table 5. See Robert P. 
+Bartlett, Modernizing Odd Lot Trading, COLUM. BUS. L. REV . 101 (2021). 
+643  On February 23, 2006, the SIPs began reporting information on fractional share trade quantities. See UTP 
+Vendor Alert #2025 – 6: UPDATE New Release Date: SIP Fractional Share Trade Reporting 
+Enhancements, NASDAQTRADER (Mar. 28, 2025), 
+https://www.nasdaqtrader.com/TraderNews.aspx?id=UTP2025-06.
+
+186 
+ 
+one for 10 shares, and one for 1 share.644 Therefore, 1-share trades off exchange might be part of 
+a trade that is larger than 1 share, and the 1-share quotes—which serve as the benchmark for the 
+execution price of 1-share trades in this analysis—might be too stringent of a benchmark. 
+Separately, probing for hidden liquidity with 1-share orders might be particularly valuable off 
+exchange because these trades are only visible to other market participants when they are 
+published by the SIP, which entails a delay relative to the reporting of on-exchange trades 
+published by exchange proprietary feeds.645 
+The notional value of the odd-lot trade-throughs off exchange ranges from 0.32 to 1.44 
+basis points—roughly ten times higher than on exchange. A possibility for the high trade-through 
+rates off exchange is that orders off exchange are often pegged to the NBBO in various ways and 
+thereby ignore odd-lot quotes by design. A midpoint order, for example, might execute outside 
+of the best odd-lot quotes.646 Tracking odd-lot quotes can also be costly, both technically and 
+financially (e.g., purchasing the requisite data feeds and connections), so executing at a better 
+price might be less profitable than simply pegging to the NBBO.647 The last row of the panel 
+shows the trade-through rate for 100-share trades (evaluated against the NBBO) that execute off 
+exchange; the rate is 0.1% with a notional value under 0.01 basis points, and is similar to the 
+estimates for on-exchange trades. 
+ 
+644  See Robert P. Bartlett et al., Tiny Trades, Big Questions: Fractional Shares, 157 J. Fin. Econ. 1 (2024). 
+Table 6 therein shows that one broker executes most of their fractional trades at either the NBB or the 
+NBO, which would necessarily trade through any odd-lots inside the NBBO. 
+645  See Thomas Ernst et al., The V alue of Off-Exchange Data (working paper July 31, 2021), available at 
+https://microstructure.exchange/papers/12859989807_TRF_July_1b.pdf. 
+646  See figure 2 of Bartlett et. al. (2025), supra note 617, for an example. 
+647  The Best Odd-Lot Order started to be disseminated by the SIPs on April 27, 2026. To the extent this allows 
+market participants to more cheaply track odd-lot quotes, these quotes will experience lower trade-through 
+rates than observed in this analysis.
+
+187 
+ 
+The Commission understands that liquidity suppliers may be less willing to post 
+aggressively-priced quotes if they expect their quotes to be traded through by uninformed 
+liquidity demanders. If rescinding Rule 611 causes more uninformed traders to execute off 
+exchange, the pool of on-exchange liquidity demanders may skew toward informed traders,648 
+prompting liquidity suppliers to widen spreads to compensate for increased adverse selection. 
+The “notional amount outside of the best quote” in Panel B of Table 5 provides one way to gauge 
+the economic magnitude of this effect—it measures traders’ willingness to forgo better-priced 
+quotes when trading off exchange. For trades of five shares, off-exchange traders appear willing 
+to forgo approximately 11% of the effective spread;
+649 this drops to approximately 5.5% for 
+trades of twenty shares. This suggests that rescinding Rule 611 may have a smaller impact on lit 
+liquidity provisions for large trades—where the gains from executing at the best price are 
+multiplied by a high number of shares—than for small trades. Therefore, to the extent that the 
+NBBO represents, by design, an order of meaningful size,650 the rescission of Rule 611 might 
+have a small effect on it. 
+  
+ 
+648  See section VI.D.2.c. for a discussion of the amendments’ effects on competition between exchanges and 
+other venues. 
+649  The notional amount outside of the best quote is 0.84 basis points, while the typical effective spread is 7.52 
+basis points. The ratio is therefore 11% (0.84/7.52) 
+650  See Market Data Infrastructure Adopting Release, supra note 15, at 18618 n.274.
+
+188 
+ 
+ 
+Table 5: Aggregate trade-through rates by location and trade size 
+ 
+Panel A: On-exchange trades 
+Trade 
+size 
+Total 
+trades 
+Candidate 
+trades 
+Candidate 
+trades (%) 
+Trade-
+through 
+rate 
+Notional amount 
+outside of best quote 
+(basis points) 
+Typical 
+effective spread 
+(basis points) 
+1 16,754,409 7,619,267 45.5% 5.5% 0.13 9.12 
+5 5,810,260 2,219,607 38.2% 3.5% 0.07 7.60 
+10 6,908,856 2,122,907 30.7% 2.9% 0.05 6.86 
+20 2,975,260 662,803 22.3% 2.4% 0.05 7.06 
+40 1,354,922 140,189 10.3% 1.6% 0.03 6.04 
+100 15,293,576 n/a n/a 0.3% 0.01 4.87 
+Panel B: Off-exchange trades 
+Trade 
+size 
+Total 
+trades 
+Candidate 
+trades 
+Candidate 
+trades (%) 
+Trade-
+through 
+rate 
+Notional amount 
+outside of best quote 
+(basis points) 
+Typical 
+effective spread 
+(basis points) 
+1 21,296,491 9,375,566 44.0% 35.6% 1.44 6.45 
+5 3,818,979 1,441,830 37.8% 19.1% 0.84 7.52 
+10 3,476,438 1,064,874 30.6% 16.4% 0.64 6.52 
+20 2,124,338 496,508 23.4% 13.1% 0.42 7.65 
+40 899,180 86,278 9.6% 11.5% 0.32 6.34 
+100 10,417,251 n/a n/a 0.1% 0.00 5.06 
+ 
+This table displays trade-through rates for the sample of stock-days described in Table 4. Panel A 
+shows rates for trades that occur on an exchange, and Panel B shows rates for trades that occur off 
+exchange. The “Trade size” column indicates the number of shares that transacted in the trade. 
+To calculate trade-throughs for a given stock-day, the following procedure is followed. First, the 
+day is divided into 1.2 millisecond intervals with trades and quotes assigned to the interval by their 
+participant timestamp, and with trades occurring between the 800
+th and 1000th microsecond of the 
+interval. This procedure samples approximately one-sixth of all regular trades for the stock-day. 
+Quotes come from the proprietary feeds of the sixteen exchanges that operated during the entirety 
+of the fourth quarter of 2025. For a given trade size during the 1.2 millisecond interval, each 
+venue’s quotes are aggregated to determine the persistent quote that could have traded against a 
+market order of the specified size. E.g., if the trade size is 1 share, then a venue’s persistent quote 
+is the worst displayed price at the top of the venue’s book during the interval; if the trade size is 10 
+shares, then the persistent quote is the worst displayed quote with which a 10-share market order 
+would have interacted. The best persistent bid is the highest persistent bid across the sixteen 
+venues; the best persistent offer is the lowest persistent offer across the sixteen venues.  
+A “Candidate trade” is a trade that occurs when both the best persistent bid and offer quotes (for a 
+given size) do not cross and are strictly inside the best persistent bid and offer quotes for a round-
+lot (100-share) trade. An odd-lot trade-through occurs if the candidate trade’s execution price is 
+below the best persistent bid or above the best persistent offer. The concept of a “Candidate trade” 
+does not apply to 100-share trades, so these trades are classified as a trade-through if the execution
+
+189 
+ 
+price is below the best persistent 100-share bid or above the best persistent 100-share offer. When 
+a trade-through occurs, the difference between the execution price and the best quote is multiplied 
+by the size of the trade to determine the notional amount outside of the best quote.  
+The results of the above procedure are collected for 481,928 stock-day-size-location tetrads. Of 
+these tetrads, 33 are dropped because, when there is a trade-through in the tetrad, the average 
+distance from the best quote is larger than ten times the stock-day’s NBBO TWAQS and are 
+therefore likely a data error. The remaining tetrads are aggregated by the size-location pairs shown 
+in the table. For each size-location pair: “Total trades” is the number of regular trades in the 
+sample; “Candidate trades” is the number of candidate trades; the fourth column is the percent of 
+total trades that are candidate trades; “Trade-through rate” is the number of trade-throughs divided 
+by the number of candidate trades; “Notional amount outside of best quote” is the difference 
+between the execution price and the best quote for trade-throughs, multiplied by the number of 
+shares in the trade-through and divided by the notional value of the candidate trades. The final 
+column, “Typical effective spread” is a weighted average effective spread for the relevant stock-
+days. This weighted average effective spread is computed in two steps: first, the trade-weighted 
+effective spread is calculated for each stock-day as described in Table 4; second, the effective 
+spreads of the stock-days are averaged using the stock-days’ notional value of candidate trades as 
+weights. 
+ 
+To further explore the interaction of Rule 611 and liquidity, Table 6 tabulates trade-
+through rates by notional volume quartiles. The sample of stock-days is split into four quartiles 
+using the cutoffs for “dollar-volume” presented in Table 4; the “Notional quartile” column of 
+Table 6 shows the quartile from which the statistics are derived (with “Q1” being the quartile 
+with the smallest notional, and “Q4” being the quartile with the highest). Otherwise, the 
+methodology and calculations are identical to Table 5. 
+Broadly speaking, trade-through rates are similar across notional quartiles, once 
+conditioning on the trade size and the location of the trade. The largest outlier is the row of one-
+share trades off exchange for the most active quartile (“Q4”), which shows a trade-through rate 
+of 40.1% compared to rates near 20% for the other quartiles. This may reflect the importance of 
+probing for hidden liquidity in these stocks, or a higher share of fractional trades.
+651  
+ 
+651  See supra notes 644 and 640.
+
+190 
+ 
+The notional amount outside of the best quote generally declines as notional volume 
+increases. For example, for 20-share trades off exchange, the notional amount outside of the best 
+quote descends monotonically from 1.54 basis points to 0.34 basis points as the notional quartile 
+goes from Q1 to Q4. However, effective spreads also decline as the notional quartile goes from 
+Q1 to Q4, and the notional amount outside of the best quote as a fraction of the effective spread 
+is fairly constant at approximately 5% for these rows.
+652 These results suggests that rescinding 
+Rule 611 may not have a differential impact on stocks with varying levels of trading activity. 
+  
+ 
+652  E.g., for a trade size of 20 off exchange, the Q1 quartile has a notional outside of the best quote equal to 
+1.54 basis points, with an effective spread of 27.79 basis points, for a ratio of 5.5%. The numbers for the 
+Q4 quartile are 0.34 and 6.14, for a ratio of 5.5%.
+
+191 
+ 
+Table 6: Aggregate trade-through rates by notional volume quartiles 
+ 
+Panel A: On-exchange trades 
+Trade 
+size 
+Notional 
+quartile 
+Total 
+trades 
+Candidate 
+trades  (%) 
+Trade-
+through 
+rate 
+Notional 
+amount outside 
+of best quote 
+(basis points) 
+Typical 
+effective spread 
+(basis points) 
+1 Q1 405,801 262,300 64.6% 9.7% 0.76 36.66 
+1 Q2 1,865,312 1,114,612 59.8% 7.0% 0.33 20.00 
+1 Q3 3,257,542 1,626,278 49.9% 5.4% 0.15 11.51 
+1 Q4 11,225,754 4,616,077 41.1% 5.0% 0.08 6.51 
+10 Q1 63,997 22,547 35.2% 2.2% 0.14 30.09 
+10 Q2 567,947 234,621 41.3% 2.5% 0.09 16.34 
+10 Q3 1,082,768 377,555 34.9% 2.7% 0.07 11.00 
+10 Q4 5,194,144 1,488,184 28.7% 3.0% 0.05 5.01 
+20 Q1 23,946 6,012 25.1% 2.0% 0.13 30.81 
+20 Q2 242,688 70,733 29.1% 2.2% 0.07 14.99 
+20 Q3 580,476 142,961 24.6% 2.2% 0.05 10.19 
+20 Q4 2,128,150 443,097 20.8% 2.5% 0.04 5.46 
+Panel B: Off-exchange trades 
+Trade 
+size 
+Notional 
+quartile 
+Total 
+trades 
+Candidate 
+trades  (%) 
+Trade-
+through 
+rate 
+Notional 
+amount outside 
+of best quote 
+(basis points) 
+Typical 
+effective spread 
+(basis points) 
+1 Q1 312,158 119,163 38.2% 20.9% 2.99 29.05 
+1 Q2 1,610,017 828,485 51.5% 21.9% 1.98 15.49 
+1 Q3 3,149,907 1,494,542 47.4% 23.7% 1.61 9.96 
+1 Q4 16,224,409 6,933,376 42.7% 40.1% 1.38 5.40 
+10 Q1 31,092 9,054 29.1% 17.5% 1.92 28.63 
+10 Q2 230,863 89,896 38.9% 18.5% 1.39 15.11 
+10 Q3 545,041 180,733 33.2% 17.3% 1.00 10.12 
+10 Q4 2,669,442 785,191 29.4% 15.9% 0.54 5.33 
+20 Q1 23,478 5,325 22.7% 15.4% 1.54 27.79 
+20 Q2 207,377 59,475 28.7% 13.1% 0.81 15.23 
+20 Q3 430,347 107,795 25.0% 12.4% 0.58 11.03 
+20 Q4 1,463,136 323,913 22.1% 13.3% 0.34 6.14 
+ 
+This table displays trade-through rates for the sample of stock-days described in Table 4. The 
+procedure for calculating trade-throughs is described in Table 5. In Table 5, the statistics were 
+aggregated at the location-size pair; in this table, the statistics are aggregated at the location-size-
+quartile triple, where the quartile is determined by the stock-day’s notional trading volume. The 
+quartile cutoffs are shown in Table 4; “Q1” indicates the quartile of stock-days with the lowest 
+notional volume, and “Q4” indicates the quartile with the highest notional volume.
+
+192 
+ 
+The analysis next examines retail trade-throughs. Retail trades make up a large 
+percentage of smaller off-exchange trades, and retail brokers benchmark wholesaler execution 
+quality and price improvement based on the NBBO.653 If the observed off-exchange odd-lot 
+trade-throughs are due to wholesalers executing marketable retail orders, this would suggest that 
+wholesalers are not always taking advantage of better-priced displayed odd-lot liquidity on 
+exchanges at the time of execution.654 If these retail orders could have executed against better-
+priced odd-lot quotes, their transaction costs would have been lower. If wholesalers knowingly 
+trade-through these better-priced odd-lot quotes, it suggests they may also trade through the 
+NBBO for some retail trades if Rule 611 is rescinded. In that case, retail transaction costs could 
+increase for some trades that previously would have executed against protected quotes. However, 
+even if costs rise for some trades, the increase may not be large: Table 5 shows that for 40-share 
+trades, the notional amount traded outside the best quote is 0.32 basis points, compared to under 
+0.01 basis points for a round-lot trade.  
+Even if wholesalers begin trading through round-lot quotes, rescinding Rule 611 is 
+unlikely to significantly affect average retail execution quality. As discussed above, competition 
+among wholesalers—measured by average execution quality relative to the NBBO and price 
+improvement statistics for shares executed at or inside the NBBO—may limit trade-throughs, 
+ 
+653  See, e.g., Battalio & Jennings (2025) (showing that the average marketable retail order size in their sample 
+is $709) and Ernst, Malenko, Spatt and Sun (2023) (showing that retail brokers use the average effective 
+over quoted ratio, the average effective spread divided by the average NBBO quoted spread, as one of the 
+main measures to evaluate wholesaler performance). 
+654  As discussed above, wholesalers generally compete on average execution quality measured relative to the 
+NBBO to attract order flow from retail brokers. Since this competition is based on average execution 
+quality, rather than at the individual order level, it may result in wholesalers executing some retail orders at 
+prices worse than the displayed odd-lot quotes. However, wholesalers may also off-set this by cross-
+subsidizing additional price improvement for other orders in order to maintain their average execution 
+quality. See Thomas Ernst et al., supra note 404.
+
+193 
+ 
+even without explicit protection.655 Wholesaler performance can also be monitored using 
+publicly available Rule 605 data. Any decline in average execution quality would be detectable 
+in these data and would incentivize wholesalers to maintain average execution quality.656 
+To empirically examine retail trade-throughs, the analysis categorizes each trade-through 
+(from Table 5) by venue and broker type using CAT data. Each trade is assigned to one of three 
+mutually exclusive categories: “ATS” for trades that occurred on an ATS, “Retail – wholesaler” 
+for trades that are executed by a wholesaler and originated from a retail account,657 and “Other” 
+for all other trades. The results are shown in Table 7.  
+Panel A shows the percentage of off-exchange trade-throughs by venue and odd-lot size. 
+One-share trades are unusual—most of these trade-throughs occur on an “Other” venue, likely 
+because they represent fractional shares.658 For other sizes, the fraction of trade-throughs on ATS 
+is relatively stable at 50-60%, and for retail orders executed by wholesalers, at 20-30%. 
+Panel B shows trade-through rates by size and venue, scaling the number of trade-
+throughs by the number of candidate trades on each venue—i.e., the trade-through rate scales the 
+number of trade-throughs by the number of opportunities for trade-throughs. Trade-through rates 
+on ATSs decline from 20% to 10% as trade size increases, potentially because larger trades 
+benefit more from executing at the best price. Rates for retail orders executed by wholesalers 
+also decline from 21% to 15% as trade sizes increase. The similarity of the rates between these 
+ 
+655  See supra note 612 and surrounding discussion on potential changes to retail execution quality if Rule 611 
+is rescinded. 
+656  In addition, the Commission expects forthcoming changes to Rule 605 statistics to increase the force of this 
+incentive. 
+657  For the purpose of this analysis, seven broker-dealers are classified as wholesalers based on a review of 
+retail broker Rule 606(a) reports from Q4 2025; wholesalers were identified as the broker -dealers to which 
+retail brokers routed the majority of their market and marketable limit orders.  A trade is classified as 
+originating from a retail account if it has an “individual” account type and is not an IOC order. 
+658  See supra note 644 on the execution practices of one broker who specializes in fractional shares.
+
+194 
+ 
+two columns suggests that institutions routing to ATSs and wholesalers executing retail orders 
+have a similar willingness to trade through better-priced odd-lot quotes. This helps alleviate 
+concerns that retail execution quality is particularly sensitive to the rescission of Rule 611.
+
+195 
+ 
+Table 7: Source of off-exchange trade-throughs 
+ 
+Panel A: Percent of trade-throughs by trade size and source 
+Trade size 
+Total matched trade-
+throughs % ATS % Retail - wholesaler % Other 
+1 3,315,307 19% 10% 70% 
+5 272,061 63% 19% 18% 
+10 172,198 52% 27% 21% 
+20 64,620 63% 20% 17% 
+40 9,861 66% 16% 18% 
+ 
+Panel B: Trade-through rate by trade size and source  
+Trade size  % ATS % Retail - wholesaler % Other 
+1  20% 21% 52% 
+5  18% 17% 23% 
+10  14% 16% 25% 
+20  11% 16% 25% 
+40  10% 15% 23% 
+ 
+This table displays the source of off-exchange trade-throughs identified in Table 5. Trades are 
+assigned to one of three categories using data from CAT. Candidate trades are matched to CAT 
+trade records by date, stock, timestamp, price, and shares. 60% of trades match exactly on all 
+fields. A further 28% of trades are matched by adjusting the quantity field in CAT to reflect the 
+way in which fractional shares are reported by the SIP during the sample—in particular, quantities 
+less than one are rounded up to one, while quantities over one are rounded down to the nearest 
+integer. A final 12% of candidate trades are matched by allowing for a timestamp difference of 
+less than 1 millisecond. The final match rate is 99.6%. Trades are assigned to category “ATS” if 
+the matched CAT trades were reported to CAT with a market participant identifier (“MPID”) 
+identified in CAT as an ATS. Trades are assigned to category “Retail-wholesaler” if the matched 
+CAT trades 1) were reported to CAT with an MPID that a wholesaler typically uses to execute 
+orders from retail brokers, 2) do not involve an order marked with a time in force of immediate or 
+cancel, and 3) include at least one side that originated from an “Individual” account type order. 
+The remaining trades are assigned to category “Other”. For further information about CAT fields 
+see 
+https://www.catnmsplan.com/specifications. Seven broker-dealers were identified as 
+wholesalers based on a review of retail broker Rule 606(a) reports from Q4 2025. Wholesalers 
+were identified as the broker-dealers to which retail brokers routed the majority of their market and 
+marketable limit orders. Based on these wholesalers, CAT data was used to select the wholesaler 
+MPIDs where most orders originating from “Individual” account types executed.   
+Panel A shows the fraction of trade-throughs that occur on each venue; the fractions sum to 100% 
+for each row. Panel B shows the fraction of candidate trades that are trade-throughs by venue and 
+trade size.
+
+196 
+ 
+ 
+ii. Round-Lot Change Trade-Through Analysis 
+The analysis in the previous section showed that odd-lot quotes inside the NBBO are 
+traded-through more frequently than round-lot quotes. One possible explanation is that round lots 
+are larger, and therefore the incentives to avoid trade-throughs are stronger—as trade size 
+increases, the benefit of obtaining the best price per share rises. In other words, the earlier results 
+might not be driven by the protected status of a round lot. To address this concern, the analysis in 
+this section holds trade size constant and explores changes in trade-through rates around a 
+change in the round-lot definition. 
+As discussed above, the MDI Rules introduced a four-tiered definition of round lot that is 
+tied to a stock’s average closing price.659 The MDI round-lot rules were implemented on 
+November 3, 2025 and stocks with an average closing price greater than $250 during October 
+2025 had their round-lot size reduced. This round-lot size change provides a way to study the 
+effects of Rule 611 because these stocks changed from having a protected quote size of 100 
+shares to a protected quote size of 40 shares or fewer. The effects of trade-through protection can 
+potentially be estimated by comparing the change in trade-through rates between an unprotected 
+odd-lot quote before the round-lot change (October 2025) with the trade-through rate of a 
+similarly sized protected quote after the change (November and December 2025). A limitation of 
+this approach is that both the NBBO and the quotes shown in the SIPs changed for stocks that 
+experienced a round-lot size change, because the NBBO and each exchange’s BBO were now 
+based on a 40-share quote size. As a result, it is not possible to disentangle the effects of a 
+change in trade-through protection from the effects of a change in the NBBO benchmark and the 
+ 
+659  See supra section VI.C.1.d.i.
+
+197 
+ 
+broader dissemination of smaller quotes in the SIP. 660 Accordingly, the findings should be 
+interpreted with caution, as multiple factors may influence the observed changes in trade-through 
+rates. 
+This analysis starts by constructing a sample of stock-days that have a round lot of 100 
+shares in October. Some of these stock-days maintain a 100-share round lot throughout the 
+quarter, while those with an average closing price above $250 in September switch to a 40-share 
+round lot starting in November. Summary statistics for this sample are presented in Table 8. The 
+primary difference from the sample in the previous section is that this sample includes higher-
+priced stocks once they switch to a 40-share round lot, whereas the previous sample only 
+includes stock-days with a 100-share round lot. This difference can be seen by comparing Table 
+4 with Table 8—the latter sample has a higher VWAP, higher dollar volume, and slightly less 
+depth at the best displayed price. 
+  
+ 
+660  Prior to the change in round-lot size, the NBBO and exchange BBO for stocks in the sample were based on 
+a 100-share standard. Information on quote sizes of 99 shares or less were accessible exclusively through 
+exchange proprietary feeds.
+
+198 
+ 
+Table 8: Sample summary statistics for analysis of trade-throughs before and after the 
+round-lot change 
+Variable 
+Stock-
+days Mean P5 P25 P50 P75 P95 
+VWAP 54,354 $221 $104 $127 $169 $256 $525 
+Number of trades 54,354 30,219 104 4,510 13,370 30,105 96,833 
+Dollar-volume (millions) 54,354 $305.5 $0.6 $19.1 $76.4 $223.4 $987.1 
+Market Cap. (millions) 54,351 $68,165 $221 $3,212 $11,203 $38,016 $214,562 
+NBBO TWAQS 54,354 $0.660 $0.058 $0.161 $0.337 $0.767 $2.296 
+BDP TWAQS 54,354 $0.356 $0.043 $0.109 $0.213 $0.414 $1.093 
+BDP TW depth at bid 54,354 141 25 47 78 141 475 
+BDP TW depth at offer 54,354 155 24 45 76 143 558 
+Effective spread 54,354 $0.233 $0.024 $0.063 $0.122 $0.246 $0.745 
+Effective spread (%) 54,354 0.110% 0.015% 0.037% 0.065% 0.121% 0.317% 
+ 
+This table displays summary statistics for the sample constructed for the analysis of trade-
+throughs. The sample starts with all stock-days in the TAQ Masterfile for the fourth quarter of 
+2025. The following filters are then applied: to narrow the focus on odd-lots, stock-days with a 
+volume-weighted average price (“VWAP”) under $100 are dropped; stock-days are dropped if 
+they have a round lot less than 40 shares; to allow for room inside the NBBO, stock-days are 
+dropped if they a time-weighted average NBBO quoted spread (“NBBO TWAQS”) less than $0.04 
+over the month of October; December 16th is dropped due to a data quality issue with an exchange 
+proprietary feed; 34 stock-days with a negative “BDP TWAQS” are dropped due to a likely data 
+error; finally, stock-days without any trades are dropped. 
+Trade data is from the SIP and includes regular-way trades (i.e., a sale condition of “Regular 
+Trade,” “Intermarket Sweep Order”, or “Odd Lot Trade”). The market capitalization is calculated 
+by multiplying the shares outstanding from the TAQ Masterfile by the VWAP. The “NBBO 
+TWAQS” is the time-weighted average quoted spread during market hours using the SIP round-lot 
+quotes. The “BDP TWAQS” is the time-weighted average quoted spread during market hours 
+using the best-priced bid and ask regardless of quote size; this is constructed using 16 exchange 
+proprietary feeds. The time-weighted average depth at the best priced bid (“BDP TW depth at 
+bid”) is measured in shares and, in the case where multiple venues quote at the best price, the 
+maximum quote size is taken; the depth at the best priced offer is measured analogously. The 
+effective spread is a measure of trading cost and is computed as twice the absolute difference 
+between the trade price and the NBBO midpoint at the time of the trade; at the stock-day level, the 
+effective spread is equally weighted across regular trades. The effective spread is measured both in 
+dollars and as a percent of the NBBO midpoint. 
+For each variable, the following statistics are shown: the number of stock-days in the sample with 
+non-missing values, the mean, and the 5
+th, 25th, 50th, 75th, and 95th percentiles.
+
+199 
+ 
+Using the same methodology as the odd-lot quote trade-through analysis described 
+above,661 the Commission compared the trade-through rates for trade sizes of 1, 5, 10, 20, 40, 
+and 100 shares around the MDI round-lot size implementation, and did so separately for stocks 
+that maintained a 100 share round-lot size and those whose round-lot size was reduced from 100 
+to 40 shares.662 As discussed above, for each trade size, the trade-through rates are calculated for 
+“Candidate trades,” which are trades that occurred when the best persistent quotes for the trade’s 
+size are inside the best persistent quotes for a 100-share order. This means that for stocks in this 
+analysis, the best persistent quotes between 40 and 99 shares were unprotected before the MDI 
+round-lot change but became protected after the round lot changed from 100 to 40. Therefore, for 
+stocks that experience a reduction in the round lot, all of the best persistent quotes become 
+protected after the MDI round-lot change for the 40-share category, while a portion of the best 
+persistent quotes (those that are between 40 and 99 shares) become protected for the other trade-
+size categories. 
+The trade-through statistics are presented in Table 9. Panel A shows trades that are 
+executed on an exchange, and Panel B shows trades that are executed off exchange. Trades are 
+grouped together based on whether the stock maintained a 100-share round lot (indicated by a 
+“Round-lot change” of “None”) or switched from a 100-share to a 40-share round lot (“100 to 
+40”). Trades are further grouped by whether they occurred before the MDI round-lot change 
+(“Pre”) or after (“Post”).   
+The “Candidate trades(%)” column is generally higher for stocks that switch round lots. 
+This is consistent with these stocks being higher-priced and therefore more likely to have quotes 
+ 
+661  See supra section VI.C.1.c.i. 
+662  Based on how the round-lot size is determined, these stocks would have had an average closing price 
+between $250 and $1,000 during October 2025.
+
+200 
+ 
+better priced than the 100-share quote. In addition, the “Candidate trades(%)” increases in the 
+post-period for stocks that switch round lots, reflecting a greater likelihood of quotes sized 
+between 40 and 99 shares being inside the 100-share quote after the reduction in the round-lot 
+size. There is no comparable increase for stocks that maintained a 100-share round lot. 
+The next columns show trade-through rates. For stocks that maintained the 100-share 
+round lot, there is little evidence that the trade-through rates changed from the pre- to the post-
+periods, for either on- or off-exchange trades. Similarly, there is little evidence that the notional 
+value of the trade-throughs changed for these stocks. 
+For stocks that switched round lots, however, trade-through rates and the notional value 
+of the trade-throughs declined across the board. The declines were smaller for trades that 
+executed on exchange, indicating that market participants trading on exchange may already be 
+aware of odd-lot-sized quotes and are likely to trade against them whether they are protected or 
+not. In addition, the greater presence of small-sized quotes—as evidenced by the higher fraction 
+of candidate trades—may make it easier to execute at the best-priced quotes on exchange. The 
+decline in trade-through rates on exchange was largest for small trades: for one-share trades, the 
+trade-through rate fell from 5.8% to 4.3% with the notional value of the trade-throughs falling 
+from 0.10 basis points to 0.07; for 40-share trades, the trade-through rate fell from 1.6% to 0.5%, 
+with the notional value declining from 0.02 to 0.01 basis points. 
+The patterns off exchange are similar but larger in magnitude. For one-share trades, the 
+trade-through rate fell from 41.6% to 24.2%, with the notional value of trade-throughs falling 
+from 1.04 to 0.51 basis points. For 10-share trades, the corresponding declines are from 17.2% to 
+7.6%, and 0.53 to 0.17 basis points, respectively. For larger trades, the trade-through rates 
+converge toward those for on-exchange trades: for 40-share trades, the trade-through rate falls to
+
+201 
+ 
+0.2% from 12.6%, while the notional value declines to under 0.01.663 As discussed above, it is 
+difficult to disentangle how much of these decreases reflect the introduction of trade-through 
+protections versus changes in the NBBO benchmark. Nevertheless, the results indicate that the 
+variation in trade-through rates between protected and unprotected quotes is not driven solely by 
+size.   
+Table 9: Trade-through rates before and after the round-lot change 
+ 
+Panel A: On-exchange trades 
+Round-lot 
+change 
+Trade 
+size 
+Candidate trades (%) Trade-through (%) 
+Notional amount 
+outside of best quote 
+(basis points) 
+Pre Post Pre Post Pre Post 
+None 1 41.7% 41.6% 5.1% 5.6% 0.15 0.17 
+None 5 34.9% 34.7% 3.2% 3.5% 0.06 0.08 
+None 10 29.0% 28.0% 2.8% 2.7% 0.06 0.06 
+None 20 20.9% 20.4% 2.2% 2.4% 0.05 0.05 
+None 40 9.7% 9.7% 1.5% 1.7% 0.03 0.04 
+None 100 n/a n/a 0.2% 0.3% 0.01 0.01 
+100 to 40 1 57.3% 67.7% 5.8% 4.3% 0.10 0.07 
+100 to 40 5 48.1% 61.9% 3.8% 2.4% 0.05 0.03 
+100 to 40 10 39.8% 54.3% 3.5% 1.9% 0.04 0.02 
+100 to 40 20 29.0% 45.4% 2.7% 1.5% 0.04 0.02 
+100 to 40 40 15.0% 35.8% 1.6% 0.5% 0.02 0.01 
+100 to 40 100 n/a n/a 0.4% 0.2% 0.01 0.01 
+Panel B: Off-exchange trades 
+Round-lot 
+change 
+Trade 
+size 
+Candidate trades (%) Trade-through (%) 
+Notional amount 
+outside of best quote 
+(basis points) 
+Pre Post Pre Post Pre Post 
+None 1 38.5% 38.8% 31.8% 31.0% 1.17 1.06 
+None 5 33.9% 33.8% 18.2% 20.5% 0.86 1.00 
+None 10 27.4% 27.7% 16.5% 15.6% 0.69 0.62 
+None 20 20.5% 20.1% 13.0% 13.1% 0.48 0.49 
+None 40 8.9% 8.6% 11.4% 11.2% 0.36 0.33 
+None 100 n/a n/a 0.1% 0.1% 0.00 0.00 
+100 to 40 1 54.2% 60.6% 41.6% 24.2% 1.04 0.51 
+ 
+663  The forty-share trade-through rates of 0.2% (off exchange) and 0.6% (on exchange) represent round-lot 
+trade-through rates because this is the sample with the forty-share round lot. These estimates are close to 
+the round-lot trade-through rates calculated in Table 5, and the round-lot trade-through rates calculated in 
+the OAR Roundtable Analysis using a one-second lookback window—see supra note 121.
+
+202 
+ 
+100 to 40 5 49.0% 57.9% 17.9% 10.3% 0.64 0.31 
+100 to 40 10 41.3% 51.6% 17.2% 7.6% 0.53 0.17 
+100 to 40 20 31.4% 44.8% 13.1% 3.9% 0.34 0.07 
+100 to 40 40 15.3% 31.8% 12.6% 0.2% 0.26 0.00 
+100 to 40 100 n/a n/a 0.1% 0.1% 0.00 0.00 
+ 
+This table displays trade-through rates for the sample of stock-days described in Table 8. Panel A 
+shows rates for trades that occur on an exchange, and Panel B shows rates for trades that occur off 
+exchange. The “Round-lot change” column indicates whether the stock kept a 100-share round lot 
+(‘None’) or switched to a 40-share round lot (‘100 to 40’). The “Trade size” column indicates the 
+number of shares that transacted in the trade. Each statistic is calculated for the “Pre” and “Post” 
+periods separately, where “Pre” includes October 2025 and “Post” includes November and 
+December of 2025. 
+To calculate trade-throughs for a given stock-day, the following procedure is followed. First, the 
+day is divided into 1.2 millisecond intervals with trades and quotes assigned to the interval by their 
+participant timestamp, and with trades occurring between the 800th and 1000th microsecond of the 
+interval. This procedure samples approximately one-sixth of all regular trades for the stock-day. 
+Quotes come from the proprietary feeds of the sixteen exchanges that operated during the entirety 
+of the fourth quarter of 2025. For a given trade size during the 1.2-millisecond interval, each 
+venue’s quotes are aggregated to determine the persistent quote that could have traded against a 
+market order of the specified size. E.g., if the trade size is 1 share, then a venue’s persistent quote 
+is the worst displayed price at the top of the venue’s book during the interval; if the trade size is 10 
+shares, then the persistent quote is the worst displayed quote with which a 10-share market order 
+would have interacted. The best persistent bid is the highest persistent bid across the sixteen 
+venues; the best persistent offer is the lowest persistent offer across the sixteen venues. 
+A “Candidate trade” is a trade that occurs when both the best persistent bid and offer quotes (for a 
+given size) are not crossed and are strictly inside the best persistent bid and offer quotes for a 100-
+share trade. An odd-lot trade-through occurs if the candidate trade’s execution price is below the 
+best persistent bid or above the best persistent offer. The concept of a “Candidate trade” does not 
+apply to 100-share trades, so these trades are classified as a trade-through if the execution price is 
+below the best persistent 100-share bid or above the best persistent 100-share offer. When a trade-
+through occurs, the difference between the execution price and the best quote is multiplied by the 
+size of the trade to determine the notional amount outside of the best quote. 
+The results of the above procedure are collected for 584,318 stock-day-size-location tetrads. Of 
+these tetrads, 40 are dropped because, when there is a trade-through in the tetrad, the average 
+distance from the best quote is larger than ten times the stock-day’s NBBO TWAQS and are 
+therefore likely a data error. The remaining tetrads are aggregated by the size-location pairs shown 
+in the table. For each row of the table: “Candidate trades (%)” is the fraction of regular way trades 
+that are classified as a “Candidate trade”; “Trade-through (%)” is the number of trade-throughs 
+divided by the number of candidate trades; “Notional amount outside of best quote” is the 
+difference between the execution price and the best quote for trade-throughs, multiplied by the 
+number of shares in the trade-through and divided by the notional value of the candidate trades.
+
+203 
+ 
+ 
+ 
+The Commission expects repealing the prohibition on locked and crossed markets to 
+result in lower operating costs for exchanges and, relatedly, reduced complexity. Additionally, 
+for a limited number of stocks, the Commission estimates modestly lower spreads.  
+Rescinding rule 610(e) is likely to result in exchanges removing their rules prohibiting 
+locks or crosses, thereby reducing operating costs. While removing the prohibition on locked and 
+crossed markets does not require exchanges to modify their rules to permit locked or crossed 
+markets, it is likely that they will do so. This is because maintaining the prohibition requires 
+exchanges to operate and maintain systems designed to prevent locked and crossed markets, 
+which entails ongoing compliance costs associated with monitoring markets for, and responding 
+to, locked or crossed market conditions. Absent a mandate, exchanges are likely to seek to 
+reduce these compliance costs.
+664 Removing these rules, and the associated monitoring and 
+enforcement programs, would therefore reduce exchanges’ operating costs.  
+Allowing locked and crossed markets could reduce complexity by eliminating the need 
+for specific order types designed to manage locked and crossed markets. The prohibition on 
+locked and crossed markets has resulted in specialized order types, such as “price-to-comply” 
+and other re-pricing orders, which adjust automatically to avoid locking or crossing the 
+NBBO.665 Without a prohibition on locked or crossed markets, such orders may no longer be 
+necessary and thus could be expected to disappear, leading to a reduction in the number of order 
+types used. Having fewer order types reduces market complexity and should lower the cost that 
+ 
+664  See Cboe December 2025 Letter, at 6 calling for the elimination of the prohibition on locked and crossed 
+markets.  
+665  See, e.g., FIA PTG Paper at 4.
+
+204 
+ 
+broker-dealers face when managing orders, as their routing logic would no longer need to avoid 
+locking or crossing markets.  
+The impacts on compliance costs for both exchanges and broker-dealers are likely to be 
+similar to those associated with the rescission of Rule 611.666 Both rules require market 
+participants to have systems in place to monitor market conditions and then to use or maintain 
+specialized order types to avoid violating Rule 610(e) or Rule 611. Thus, rescinding both rules is 
+expected to result in similar market savings. Accordingly, rescinding Rule 610(e) is expected to 
+generate annual savings to exchanges of $619,000 associated with reduced compliance costs.
+667 
+Further, rescinding Rule 610(e) is expected to result in reduced compliance costs for broker-
+dealers that run SORs, producing annual savings of $2.8 million.668 
+This benefit would be moderated by the fact that, if exchanges modify their rules to allow 
+locked and crossed markets, both exchanges and broker-dealers would face one-time costs 
+associated with adjusting their logic to adapt to the new environment. These costs are likely to be 
+relatively minor. For exchanges, this is because the modifications largely consist of removing 
+existing restrictions and ensuring that the trading environment remains stable. Broker-dealers are 
+also accustomed to frequent modifications of their logic, as exchanges frequently change access 
+fees and rebates, which can affect how broker-dealers route orders.
+669 Further, the changes to 
+broker-dealer systems would also largely consist of removing logic designed to prevent orders 
+ 
+666  See infra section VI.C.3.a.  
+667  The Commission estimates that rescission of Rule 610(e) would eliminate 20 exchanges x 60 hours 
+annually = 1,200 annual burden hours that would be associated with complying with Rule 610(e) . The total 
+estimated monetized annual hour burden is 20 exchanges x $30,996 = $619,320. See infra note 577-578 
+and surrounding discussion (discussing how the cost per exchange is estimated).  
+668  See infra note 582 and surrounding discussion.  
+669  See 2024 Regulation NMS Amendments at section VII.C.2.
+
+205 
+ 
+from locking or crossing markets. However, once these adjustments are completed, the benefits 
+described above would be realized.  
+By removing exchange rules that prohibit locked and crossed markets, the specialized 
+order types used to prevent such outcomes would no longer be necessary and would likely be 
+eliminated. Reducing the set of order types available to broker-dealers when submitting orders 
+would lower complexity in the trading environment and reduce the costs associated with 
+designing, maintaining, and updating order routing systems.  
+A reduction in complexity could also have the benefit of reducing the trading 
+disadvantage of less sophisticated liquidity providers. This could help level the playing field 
+between less and more sophisticated liquidity providers. Less sophisticated liquidity providers 
+face adverse selection costs when interacting with more sophisticated liquidity providers who 
+may be able to act more quickly due to superior information-processing capacity and reaction 
+times. Because of this, less sophisticated liquidity providers are at risk of having stale quotes 
+adversely selected before they can cancel and update those quotes, which leads to trading losses 
+and thereby increases the cost of liquidity provision. If market complexity is reduced, the 
+disadvantage that less sophisticated liquidity providers face could diminish somewhat, which 
+could lower the cost of providing liquidity and induce more liquidity provision.  
+Another benefit of removing the prohibition on locked markets would be potentially 
+narrower spreads. Allowing markets to lock would narrow spreads and could allow some 
+investors to execute at prices that are more advantageous than those available currently. 
+Economically, the spread compensates liquidity suppliers for several costs: adverse selection 
+costs (liquidity demanders may have information unknown to liquidity suppliers), inventory-
+holding costs (the market maker acquires a position in a stock that may then change in value),
+
+206 
+ 
+and order-processing costs.670 While this required compensation is greater than zero, a quoted 
+spread of zero may be a sustainable equilibrium in the presence of rebates. In a maker-taker 
+rebate system, a locked market does not imply that there is no compensation for liquidity 
+providers: on a maker-taker exchange, liquidity providers receive a rebate generally around 30 
+mils, or $0.003 per share.671 This rebate is funded by an exchange transaction fee charged to the 
+liquidity demander that is also around $0.003.672 Thus, even if displayed spreads are zero, the 
+economic spread-the actual cost paid by liquidity demanders to access liquidity-will be the 
+access-fee cap, or approximately $0.003. In market settings where the cost of liquidity provision 
+is below $0.003, a displayed spread of $0.00 could therefore be maintainable as an economic 
+equilibrium.  
+The reduction in transaction costs due to allowing locked markets could be significant for 
+some stocks. In the presence of a prohibition on locked or crossed markets, the minimum 
+displayed spread equals the minimum pricing increment, or $0.01 for stocks priced greater than 
+$1.00.673 In this case, the actual cost of taking liquidity is half the spread ($0.005) plus the access 
+fee (normally around $0.003), for a total of approximately $0.008 ($0.005+$0.003). 
+Consequently, for some stocks, removing the prohibition on locked or crossed markets could 
+reduce the economic spread by more than 50%, from $0.008 to $0.003. However, the 
+ 
+670  See, e.g., Roger D. Huang and Hans R. Stoll, The Components of the Bid-Ask Spread: A General Approach, 
+10 REV. FIN. STUD. 995 (Winter 1997). 
+671  See analysis in 2024 Regulation NMS Amendments. 
+672  For protected quotations priced $1.00 or more, the access fee cap will be lowered to 10 mils, or $0.001 per 
+share in November, 2026 pursuant to the recently adopted amendments to the tick size and access fee cap 
+adopted by the Commission in 2024. See supra note 76. Thus, should the proposed rule be adopted and 
+implemented after that date, the following analysis can simply use $0.001 in place of $0.003. 
+673  For stocks priced below $1.00, the minimum pricing increment is $0.0001. Additionally, in November 2026 
+the minimum pricing increment for stocks priced greater than $1.00 and that have narrow prevailing quoted 
+spreads will reduce from $0.01 to $0.005.
+
+207 
+ 
+Commission is unable to estimate how many stocks this would apply to, as there is no reliable 
+way to determine how many stocks could justify an economic spread at this level.674 The 
+Commission seeks comment on this issue. 
+The reduction in transaction costs from allowing locked markets is likely to interact with 
+the 2024 Regulation NMS amendments in two ways. First, the amendments to Rule 612 will, 
+once implemented, allow some stocks to trade with a reduced minimum pricing increment of 
+$0.005. By creating a finer grid of allowable price points, these amendments will increase the 
+opportunities for markets to lock and thereby further reduce transaction costs.675 Second, the 
+amendments to Rule 610(c) will, once implemented, reduce the access fee cap from $0.003 to 
+$0.001. This reduction in the fee cap will reduce the rebates that exchanges can pay for liquidity 
+provision in the maker-taker system. With smaller rebates, it will become less likely that the 
+rebate alone will provide sufficient compensation to liquidity suppliers, reducing the likelihood 
+that a quoted spread of zero can be maintained.
+676 Hence, the implementation of the amendments 
+to Rule 610(c) is expected to reduce the benefits of allowing locked markets. 
+ 
+Removing the prohibition on locked and crossed markets is also expected to be 
+associated with certain costs. One potential cost is investor confusion. In particular, crossed 
+ 
+674  See analysis in the 2024 Regulation NMS Amendments. 
+675  For example, suppose, in the absence of rebates, a market maker is willing to purchase a stock at $10.003 
+and sell the stock at $10.007. With a rebate of $0.003, the market maker is willing to post a buy order up to 
+$10.006 and a sell order as low as $10.004—i.e., the market maker is willing to offer more aggressive 
+quotes because some of the required compensation comes in the form of a rebate. With a tick size of $0.01, 
+the posted buy price will be $10.00 (the highest allowable price below $10.006) and the  posted sell price 
+will be $10.01 (lowest allowable price above $10.004). However, with a tick size of $0.005, the market 
+maker is willing to lock the market by posting both a buy and a sell order at $10.005, thereby reducing 
+transaction costs.  
+676  Consider the example in id. If the rebate is reduced to $0.001, then the market maker is only willing to post 
+a buy order up to $10.004 and a sell order as low as $10.006, resulting in posted prices of $10.00 and 
+$10.01 rather than a locked market at $10.005.
+
+208 
+ 
+markets may create uncertainty regarding the true state of the order book, which could lead to 
+inefficient trading decisions. This risk would likely be higher for less sophisticated investors who 
+do not have access to data from all of the exchanges and therefore cannot view the entire order 
+book across venues. Access to full-depth of book data would mitigate this risk by enabling 
+investors to determine whether the lock or cross reflects market movements or another cause. 
+Investors without such data would be less able to make this assessment and thus could be 
+confused about the state of the order book. This cost will likely diminish over time as market 
+participants adjust to the new trading environment and adapt their behaviors accordingly.  
+Additionally, as mentioned above, if the exchanges choose to allow locked and crossed 
+markets, then they will face one-time costs associated with modifying their trading rules and the 
+logic in their trading systems. Broker-dealers will then face related costs to modify their order 
+routing logic to adapt to the new environment. These costs, along with the combined 
+implementation costs of rescinding Rule 611, are discussed below in section VI.C.3.b. 
+Another potential cost associated with rescinding Rule 610(e) is the reduced reliability of 
+Rule 605 statistics that reference the NBBO. This effect is expected to be minor. While locked 
+markets do not pose significant conceptual challenges for computing most Rule 605 statistics, 
+crossed markets are expected to be rare, and market participants are already familiar with 
+following guidance on how to handle such conditions.
+677 The primary exception is the effective 
+over quoted ratio: in cases where quoted spreads fall to zero when locked markets are allowed, 
+the ratio cannot be computed because its denominator cannot be zero. However, other Rule 605 
+statistics would still provide meaningful information to investors, and therefore the overall 
+market impact of this limitation is expected to be minor.  
+ 
+677  See supra note 235.
+
+209 
+ 
+ 
+This section presents the Commission’s empirical analysis of the prevalence and 
+economic determinants of locked and crossed markets. A primary challenge in empirically 
+evaluating the effect of the amendments is that Rule 610(e) requires exchanges and national 
+securities associations to enforce rules to prevent displayed quotations from locking or crossing 
+protected quotations. This prohibition on locked and crossed markets causes observed locks and 
+crosses to be less frequent than they would otherwise be if determined by market forces alone. 
+Further, the locked and crossed markets that violate Rule 610(e)—e.g., by mistake—are likely to 
+be systematically different than a quote that intentionally locks or crosses the market. An 
+empirical analysis therefore requires a setting where locked and crossed quotes are permissible; 
+behavior in this setting can then serve as a counterfactual for broader market behavior should 
+Rule 610(e) be rescinded. 
+The Commission therefore focuses on odd-lot quotes for high-priced stocks. This setting 
+is a useful laboratory for multiple reasons. First, Rule 610(e) only applies to protected (i.e., 
+round-lot) quotes; odd-lot quotes are not protected, and the rule does not prohibit them from 
+locking or crossing. Second, odd-lot quotes represent substantial notional liquidity for high-
+priced stocks and can therefore emulate the liquidity provision of round lots for less expensive 
+stocks.
+678 Third, odd-lot quotes occur during the core trading session under the same market 
+conditions as round-lot quotes, providing a relatively clean test of market behavior in the absence 
+of Rule 610(e). 
+The results of the Commission’s analysis are summarized here. The analysis finds that 
+the typical stock-day in our sample of high-priced stocks spends almost no time with locked or 
+ 
+678  See supra note 618.
+
+210 
+ 
+crossed odd-lot quotes. On average, a stock-day in our sample spends 0.3% of the trading day 
+locked, and 0.3% crossed. This indicates that locked and crossed markets will generally remain 
+rare in the event that Rule 610(e) is rescinded. However, locked markets are substantially more 
+prevalent among stocks with tighter spreads: stock-days with a BDP TWAQS of $0.015 or less 
+spend, on average, 3.8% of the day locked, which rises to 10.8% at the 90th percentile of the 
+distribution.679 This indicates that there is demand to lock the market when spreads are narrow, 
+which is expected to lead to a reduction in transaction costs in the event that Rule 610(e) is 
+rescinded.680  
+The Commission acknowledges, however, that these results come from a subset of high-
+priced stocks. The behavior of these stocks may vary systematically from the behavior of lower-
+priced stocks. Accordingly, the estimated frequency and duration of locked and crossed markets 
+should be interpreted with caution, as they may differ for round lots if Rule 610(e) is rescinded. 
+Nevertheless, the Commission believes that this setting provides an economically meaningful 
+environment to study patterns of market behavior in the absence of the prohibition on locked and 
+crossed markets. 
+A detailed discussion of the methodology and results of the Commission’s analysis is set 
+forth below. 
+The analysis starts by constructing a sample of stock-days with high share prices. The 
+sample construction has the following steps. First, all stock-days for the fourth quarter of 2025 
+ 
+679  The BDP TWAQS is the time-weighted average quoted spread using the best-priced bid and ask regardless 
+of quote size. See notes to Table 4. 
+680  One explanation is that locked quotes are not economically locked due to fees and rebates. With an access 
+fee of 30 mils, a locked quote implies that the cost of taking liquidity instead of making liquidity is $0.006. 
+One commenter stated: “with current . . . access fees and pricing, the market would be locked . . . certainly 
+much more often than having it prohibited because economically it’s not a locked market.” See First TTR 
+Roundtable Transcript at 146 (Adam Nunes, Hudson River Trading).
+
+211 
+ 
+are collected from the TAQ Masterfile.681 Second, stock-days are dropped from the sample if 
+their VWAP is less than $100 or they do not have a trade. Third, to avoid data errors in an 
+exchange proprietary feed, December 16th is dropped, as are 38 stock-days that have a negative 
+BDP TWAQS. Finally, slightly under half of stock-days for the SPY and QQQ symbols are 
+dropped to alleviate data processing constraints. The result is a sample of 62,992 stock-days. The 
+sample is larger and more active than the sample constructed in section VI.C.1.c. because that 
+section focused on stock-days with a round lot of 100 and relatively wide spreads. 
+Summary statistics are presented in Table 10. The sample captures a wide range of 
+trading activity—stock-days at the 5th percentile have fewer than 100 trades, while the 95th 
+percentile has over 115,000 trades. Likewise, dollar volume ranges from $0.4 million to $1.2735 
+billion; overall, the sample covers more than $26 trillion in notional volume over the quarter.682 
+Turning toward quoted spreads, the sample includes stock-days that are relatively tick-
+constrained with an NBBO TWAQS of $0.014 at the 5th percentile, and also includes stock-days 
+that are far from being tick-constrained with a NBBO TWAQS over $2 at the 95th percentile. 
+Importantly, the distribution of the BDP TWAQS lies below the distribution of the NBBO 
+ 
+681  The data in this analysis precede the implementation of the 2024 Regulation NMS amendments. Once 
+implemented, stocks that generally maintain an NBBO TWAQS less than $0.015 will trade with a reduced 
+minimum pricing increment; this will increase the number of price points at which market participants can 
+place a quote, which may increase the opportunities for markets to lock or cross in these tick-constrained 
+stocks. Additionally, once implemented, the 2024 Regulation NMS amendments will reduce the access fee 
+cap for all stocks; because access fees are generally used to fund rebates, the resulting reduction in rebates 
+may put upward pressure on quoted spreads and thereby reduce the incidences of locked and crossed 
+markets—see supra notes 675-676 for an example demonstrating this effect. The data in this analysis also 
+precedes the dissemination of top-of-book odd-lot quotations by the SIPs, which was implemented on 
+Monday, April 27, 2026. Market participants may be less likely to post quotes that lock or cross resting 
+odd-lot quotes once it is easier and cheaper to see the top-of-book odd-lot quotations; to the extent that 
+most orders are posted by market participants who see odd-lot quotations in the proprietary feeds, the 
+dissemination of odd-lot quotations by the SIPs is unlikely to have a large impact on the results of this 
+analysis. 
+682  The total notional is computed by multiplying the average notional by the number of stock- days in the 
+sample: $419.5 million * 62,992.
+
+212 
+ 
+TWAQS. That is, at each percentile, the BDP TWAQS is lower than the NBBO TWAQS, 
+indicating that there are often odd-lots inside the NBBO and thus an opportunity to lock and 
+cross the market without violating Rule 610(e).  
+The final two rows of the table show summary statistics for the fraction of the trading day 
+that the stock-day spends locked or crossed.683 When determining whether the market is locked 
+or crossed, the analysis uses the best displayed prices of any size—quotes could be for an odd-lot 
+or a round-lot order. The table shows that stocks in the sample spend almost no time locked or 
+crossed: the median stock-day spends 0.0% of the day locked or crossed, and the average is 
+0.3%. Only at the 95th percentile of the sample do stock-days spend a non-trivial amount of the 
+day locked or crossed—at this percentile, the fraction of the day locked is 0.9% and the fraction 
+crossed is 1.5%; 1% of the trading day amounts to approximately four minutes.684 
+  
+ 
+683  To avoid including limit-on-open orders, this analysis uses quotes that are in effect starting at 9:45 am each 
+day. As part of the opening cross, limit-on-open orders cross each other but are not executed until the end of 
+the opening process; this process may extend past 9:30 am, which can give the appearance of a crossed 
+market in the proprietary feeds. When calculating the fraction of the day that is locked or crossed, the 
+denominator of the fraction is the amount of time from 9:45 am to market close. 
+684  The typical trading day is 6.5 hours long (9:30 am to 4 pm)—390 minutes—1% of which amounts to 4 
+minutes.
+
+213 
+ 
+Table 10: Summary statistics for analysis of locked and crossed quotes 
+ 
+Variable Stock-days Mean P5 P25 P50 P75 P95 
+VWAP 62,992 $996 $102 $122 $165 $254 $594 
+Number of trades 62,992 36,282 68 3,784 13,032 31,210 115,875 
+Dollar-volume 
+(millions) 62,992 $419.5 $0.4 $18.4 $79.1 $248.9 $1,273.5 
+Market Cap. 
+(millions) 62,981 $80,067 $145 $3,047 $11,375 $40,954 $238,130 
+NBBO TWAQS 62,991 $1.422 $0.014 $0.118 $0.299 $0.728 $2.658 
+BDP TWAQS 62,992 $1.028 $0.011 $0.083 $0.190 $0.401 $1.299 
+Fraction of day with 
+locked quotes 62,992 0.3% 0.0% 0.0% 0.0% 0.0% 0.9% 
+Fraction of day with 
+crossed quotes 62,992 0.3% 0.0% 0.0% 0.0% 0.1% 1.5% 
+ 
+This table displays summary statistics for the sample constructed for the analysis of locked and 
+crossed quotes. The sample starts with all stock-days in the TAQ Masterfile for the fourth quarter 
+of 2025. The following filters are then applied: to narrow the focus on odd-lots, stock-days with a 
+volume-weighted average price (“VWAP”) under $100 are dropped; December 16th is dropped due 
+to a data quality issue with an exchange proprietary feed; half of the SPY and QQQ stock-days are 
+dropped due to data processing constraints; 38 stock-days with a negative “BDP TWAQS” are 
+dropped due to a likely data error; finally, stock-days without any trades are dropped. 
+Trade data is from the SIP and includes regular-way trades (i.e., a sale condition of “Regular 
+Trade,” “Intermarket Sweep Order”, or “Odd Lot Trade”). The market capitalization is calculated 
+by multiplying the shares outstanding from the TAQ Masterfile by the VWAP. The “NBBO 
+TWAQS” is the time-weighted average quoted spread during market hours using the SIP round-lot 
+quotes. The “BDP TWAQS” is the time-weighted average quoted spread during market hours 
+using the best displayed prices regardless of quote size; this is constructed using 16 exchange 
+proprietary feeds. The fraction of the day with locked quotes is computed by dividing the time in 
+which the best bid (of any size) is equal to the best offer by the length of the trading day; the 
+fraction of the day with crossed quotes is computed analogously using the time in which the best 
+bid is greater than the best offer. 
+For each variable, the following statistics are shown: the number of stock-days in the sample with 
+non-missing values, the mean, and the 5
+th, 25th, 50th, 75th, and 95th percentiles. 
+ 
+The primary determinant of a locked market is the spread. Panel A of Table 11 shows 
+summary statistics for the fraction of the day spent locked, split by the stock-day’s BDP 
+TWAQS. The first row shows results for the 3,870 stock-days that are tick-constrained with a 
+BDP TWAQS below $0.015—i.e., this sample spends the majority of the day with a quoted 
+spread of a penny or less. On average, these stock-days spend 3.8% of the day locked. At the 90
+th
+
+214 
+ 
+percentile, the number rises to 10.8%—i.e., nearly 400 stock-days spend over 10% of the day 
+locked. The second row shows results for the 2,821 stock-days with BDP TWAQS between 
+$0.015 and $0.03. These stock-days spend much less time locked—0.8% on average, and 1.6% 
+at the 90th percentile. As spreads widen with each subsequent row, the amount of time spent 
+locked falls. This suggests that, in the absence of Rule 610(e), the stocks that are most likely to 
+lock will be those whose quoted spread is closest to one tick. 
+Panel B of Table 11 shows summary statistics for the fraction of the day spent crossed, 
+split by the stock-day’s BDP TWAQS. The pattern in Panel B contrasts with Panel A: stock-days 
+with wider spreads spend more time crossed. Because stocks with tight spreads are generally 
+more liquid than stocks with wide spreads, the results in Panels A and B suggest that crossed 
+markets may be driven by illiquidity while locked markets are driven by liquidity. Illiquid stocks 
+might be more likely to cross for multiple reasons.  
+First, uncrossing a market—by buying at the low asking price and selling at the higher 
+bid price—is not entirely without risk. A trader attempting to uncross the market may transact on 
+only one side while the other quote is canceled or executed by another market participant, 
+leaving the trader with a position in an illiquid stock that is costly to unwind. If the gains to 
+uncrossing the market are small, it may not be worth taking this risk.  
+Second, uncrossing odd-lot quotes may not be possible due to limit-up/limit-down 
+(LULD) bands. If a stock is in a straddle state—i.e. one side of the NBBO is outside of the bands 
+while the other side is inside—odd-lot quotes that cross outside the bands may be impossible to 
+uncross until the bands move.
+685  
+ 
+685  Illiquid stocks can spend a long time in straddle states. During the fourth quarter of 2025, the average 
+number of tier 2 non-ETPs with multiple straddle states during a day was 100. The average time spent in a 
+straddle state for these stock-days was over an hour. See Reports/Studies: Quarterly Monitoring Report, 
+LULD PLAN, https://www.luldplan.com/studies (last visited April 16, 2026).
+
+215 
+ 
+In the absence of Rule 610(e), round lots of illiquid stocks might therefore be more likely 
+to cross, although the estimates in Panel B are likely overestimates because round-lot quotes 
+(unlike odd-lot quotes) cannot cross outside the LULD bands. 
+Table 11: Time spent locked or crossed, by quoted spread 
+ 
+Panel A: Time spent with locked quotes 
+BDP TWAQS Bucket 
+Stock-
+days 
+Stocks 
+per day Mean P50 P75 P90 P95 P99 
+Spread < $0.015 3,870 61 3.8% 1.5% 5.5% 10.8% 14.2% 20.5% 
+$0.015 < Spread < $0.03 2,821 45 0.8% 0.3% 0.8% 1.6% 3.1% 10.5% 
+$0.03 < Spread < $0.06 5,072 81 0.2% 0.1% 0.2% 0.4% 0.5% 1.6% 
+$0.06 < Spread < $0.12 10,317 164 0.1% 0.0% 0.1% 0.2% 0.3% 0.6% 
+$0.12 < Spread < $0.24 14,373 228 0.0% 0.0% 0.0% 0.1% 0.2% 0.5% 
+$0.24 < Spread 26,539 421 0.0% 0.0% 0.0% 0.0% 0.1% 0.3% 
+Panel B: Time spent with crossed quotes 
+BDP TWAQS Bucket 
+Stock-
+days 
+Stocks 
+per day Mean P50 P75 P90 P95 P99 
+Spread < $0.015 3,870 61 0.1% 0.0% 0.0% 0.0% 0.2% 1.9% 
+$0.015 < Spread < $0.03 2,821 45 0.3% 0.0% 0.1% 0.7% 1.2% 3.7% 
+$0.03 < Spread < $0.06 5,072 81 0.3% 0.0% 0.1% 0.6% 1.2% 4.6% 
+$0.06 < Spread < $0.12 10,317 164 0.4% 0.0% 0.2% 0.8% 1.7% 5.6% 
+$0.12 < Spread < $0.24 14,373 228 0.4% 0.0% 0.2% 0.9% 1.8% 5.6% 
+$0.24 < Spread 26,539 421 0.3% 0.0% 0.0% 0.6% 1.4% 4.7% 
+ 
+This table displays distributional statistics of the fraction of the stock-day spent locked or crossed. 
+The sample is defined in Table 10. The statistics are computed for subsamples based on the BDP 
+TWAQS of the stock-day, ranging from a BDP TWAQS under $0.015 to over $0.24. For each 
+subsample, the following statistics are shown: the number of stock-days in the subsample, the 
+average number of stocks per day, the mean, 50th, 75th, 90th, 95th, and 99th percentiles of the 
+duration variable. The duration variable in Panel A is the fraction of the stock-day spent with a 
+locked quote, while Panel B shows the fraction of the stock-day spent with a crossed quote. To 
+determine whether the quotes lock or cross, the best-priced bid and offer of any size are taken from 
+each exchange to construct the best bid and offer prices across all exchanges; the market is locked 
+if the best bid and offer are equal, and crossed if the best bid is greater than the best offer. 
+Table 12 further explores the composition of quotes that cause the market to be locked or 
+crossed. To do so, the analysis focuses on the subsample of stock-days that are locked or crossed 
+for at least 1% of the trading day and have a round lot of 100 shares. Panel A shows results for 
+stock-days that are locked for more than 1% of the day, split by the stock-day’s BDP TWAQS; 
+Panel B does likewise for stock-days that are crossed for more than 1% of the day. Columns two
+
+216 
+ 
+and three of the table show the number of stock-days in this subsample and the average fraction 
+of the day spent locked or crossed. 
+The remaining three columns decompose the time spent locked or crossed into three 
+mutually exclusive categories to reflect the three ways that a market might be locked or crossed: 
+(1) an odd-lot quote may lock or cross another odd-lot quote (e.g., an odd-lot bid is higher than 
+an odd-lot offer); (2) an odd-lot quote may lock or cross a round-lot quote (e.g., an odd-lot bid is 
+higher than a round-lot offer); or (3) two round-lot quotes may lock or cross each other.  
+For example, the first row of Panel A shows that there are 2,137 stock-days with a BDP 
+TWAQS less than $0.015 that spend at least 1% of the day locked and have a round lot of 100 
+shares. Of these stock-days, 6.7% of the day is spent locked. Further, of the time locked, 20.1% 
+is attributable to two odd-lots; 72.2% to an odd-lot locking a round lot; and 7.7% to two round 
+lots locking each other. 
+The analysis shows that the vast majority of locks and crosses involve odd-lot quotes. 
+When spreads are narrow, most of the locks and crosses involve an odd-lot locking or crossing a 
+round lot; when spreads are wider, most of the locks and crosses involve two odd-lot quotes. 
+These results underscore the importance of using odd-lot quotes when studying the determinants 
+of locked and crossed markets—if there is demand to lock or cross the market, it will be 
+manifested through odd-lot quotes because of Rule 610(e). In the event of a rescission of Rule 
+610(e), this demand to lock or cross the market might extend to round lots, though the magnitude 
+of the demand to lock or cross round lots may differ from what is observed with odd-lots. 
+ 
+Table 12: Composition of quotes that lock or cross the market for stock-days where at least 
+1% of the day is affected, and with a round lot of 100 shares 
+ 
+Panel A: Composition of locked markets
+
+217 
+ 
+BDP TWAQS Bucket 
+Stock-
+days 
+Fraction of 
+day locked Two odd-lots 
+Odd-lot locks 
+round lot Two round lots 
+Spread < $0.015 2,137 6.7% 20.1% 72.2% 7.7% 
+$0.015 < Spread < $0.03 507 3.1% 52.0% 46.6% 1.5% 
+$0.03 < Spread < $0.06 88 2.1% 64.3% 35.1% 0.6% 
+$0.06 < Spread < $0.12 28 1.7% 59.6% 38.6% 1.8% 
+$0.12 < Spread < $0.24 28 1.8% 72.8% 27.2% 0.0% 
+$0.24 < Spread 27 1.9% 81.1% 18.9% 0.0% 
+Panel B: Composition of crossed markets 
+BDP TWAQS Bucket 
+Stock-
+days 
+Fraction of 
+day crossed Two odd-lots 
+Odd-lot crosses 
+round lot Two round lots 
+Spread < $0.015 73 4.3% 22.3% 61.3% 16.4% 
+$0.015 < Spread < $0.03 172 3.1% 40.3% 48.4% 11.3% 
+$0.03 < Spread < $0.06 290 3.3% 44.8% 45.3% 9.9% 
+$0.06 < Spread < $0.12 729 3.2% 58.3% 36.8% 4.9% 
+$0.12 < Spread < $0.24 1,016 2.9% 65.6% 31.5% 3.0% 
+$0.24 < Spread 1,113 3.0% 74.2% 23.9% 1.9% 
+ 
+This table displays the composition of quotes that cause the market to lock or cross. The sample 
+starts with the stock-days defined in Table 10 but only includes the subsample with a round lot of 
+100 shares and which spend at least 1% of the day locked (Panel A) or crossed (Panel B). Like 
+Table 11, the statistics are tabulated by time-weighted BDP TWAQS category. For each category, 
+the following statistics are reported: the number of stock-days in the sample, the average fraction 
+of the trading day that is affected, and the type of quotes that cause the markets to lock or cross. A 
+locked or crossed market could be caused by two odd-lots, one odd-lot and one round lot, or two 
+round lots.  
+ 
+ 
+This section discusses the joint benefits and costs that result from the combined 
+rescission of both Rule 611 and Rule 610(e). The Commission anticipates rescinding both rules 
+will benefit market participants by reducing market complexity, which will result in ongoing cost 
+savings for trading centers and broker-dealers that operate SORs. However, these firms will also 
+experience one-time implementation costs to update their systems. Additionally, rescinding both 
+Rule 611 and Rule 610(e) will increase exchange competition, which may reduce market data 
+and connectivity costs for broker-dealers. However, it may also result in a loss of revenue for 
+smaller exchanges and higher barriers to entry for new exchanges.
+
+218 
+ 
+ 
+Rescinding both Rule 611 and Rule 610(e) together could reduce market complexity.686 
+Rescinding both rules would result in fewer mandatory linkages and routing constraints between 
+trading venues and also could result in a reduction of order types, such as the elimination of the 
+ISO order type as well price-to-comply and other re-pricing order types.687 This could result in 
+the simplification of algorithmic routing and trading strategies, reductions in operational risk 
+(e.g., broker-dealers will no longer need to deal with the risk of an execution trading through a 
+protected quote or submitting a quote that locks or crosses the NBBO), and also a simplification 
+of post-trade analytics because there would be no need to also monitor for trade-through 
+compliance. Rescinding Rule 611 would also allow market participants to simplify their routing 
+strategies by avoiding trading on venues that may have features that complicate their order 
+routing and execution, such as speed bumps.  
+Rescinding Rule 611 and Rule 610(e) may reduce market complexity by removing rules 
+that allow for trading strategies that lead to the “gaming” of displayed protected quotes, such as 
+posting flickering orders as protected quotes designed to attract the routing of marketable orders 
+or posting orders that are designed to establish queue priority in a locked market.
+688 This would 
+improve the ability of market participants to avoid interacting with the orders of HFTs and other 
+ 
+686  See supra sections II.C.2.a. and VI.B.2.d. for further discussions on how Rule 611 contributes to increased 
+market complexity. See also supra section III.B.3. and VI.B.3. for further discussions on how Rule 610(e) 
+contributes to increased market complexity. 
+687  See supra sections VI.C.2.d. and VI.C.3. (discussing how Rule 611 and Rule 610(e) increase market 
+complexity) and supra sections VI.B.1.a and VI.B.1.b (discussing order types related to Rule 611 and Rule 
+610(e)). See also supra sections II.B.2. and III.B.3 (for commenter discussions on how Rules 611 and 
+610(e) have contributed to an increase in the number of order types).  
+688  See, e.g., Sida Li et al., Financial Regulation, Clientele Segmentation, and Stock Exchange Order Types 
+(NBER Working Paper No. 28515, Feb. 2021), available at https://ssrn.com/abstract=3795035 (retrieved 
+from SSRN Elsevier database) (discussing the uses of different exchange order types to comply with Rule 
+611 and Rule 610).
+
+219 
+ 
+market participants that engage in these strategies (i.e., market participants could avoid routing 
+orders to a venue when they think an HFT quote is at the best price and is likely to cancel/reprice 
+before their order arrives at the venue), which may reduce their transactions costs and also the 
+profits HFTs earn from these strategies.
+689 This, in turn, may reduce the incentives for HFTs and 
+other market participants to engage in these types of trading strategies, which would reduce 
+market complexity. 
+Rescinding the rules should result in trading centers and broker-dealers that run SORs 
+experiencing cost savings related to regularly maintaining and updating their execution and smart 
+order routing systems.690 For example, the reduction in market complexity may reduce the time it 
+would take staff to make changes to their systems and program in logic for a new order type that 
+an exchange or ATS offers, because they would no longer need to account for additional logic 
+related to trading through or locking or crossing protected quotes.  
+To estimate the annual savings for trading centers and broker-dealers operating SORs, the 
+Commission assumes that rescinding Rule 611 and Rule 610(e) would reduce the time it takes to 
+update trade execution systems and SORs by 5% to 10%.
+691 Larger broker-dealers that connect 
+to more exchanges are likely to have more complicated SOR systems that are more costly to 
+maintain and update. We estimate that rescinding Rule 611 and Rule 610(e) would save each of 
+the 20 exchanges between $319,000 and $637,000 annually;692 each of the 33 ATSs between 
+ 
+689  This would represent a transfer from the HFTs and other market participants who currently engage in these 
+strategies to the market participants that interact with these HFT orders. 
+690  See, e.g., Robinhood Letter at 5 (stating that the resulting complexity from Rule 611 imposes increased 
+costs on market participants). 
+691  The Commission acknowledges uncertainty about how much time rescinding Rule 611 and Rule 610(e) 
+will save trading centers and broker-dealers operating SROs in updating their systems and has requested 
+comment on these estimates. 
+692  The Commission estimates that each exchange employs the equivalent of 3 full -time Financial Analysts and 
+4 full-time Software Developers to maintain its order execution and routing systems. The Commission’s
+
+220 
+ 
+$159,000 and $319,000 annually;693 each of the 23 largest broker-dealers with SORs that 
+connect to 16 or more exchanges between $159,000 and $319,000 annually;694 each of the 21 
+broker-dealers with SORs that connect to 11 to 15 exchanges between $54,000 and $109,000 
+annually;695 each of the 169 broker-dealers with SORs that connect to 1 to 10 exchanges between 
+$16,000 and $32,000 annually;696 and each of the 225 OTC market makers between $16,000 and 
+ 
+lower bound on the estimated annual savings for each exchange is ($405 for a financial analyst x 312 
+hours) + ($462 for a software developer x 416 hours) = $318,552. The Commission’s upper bound on the 
+estimated annual savings for each exchange is ($405 for a financial analyst x 624 hours) + ($462 for a 
+software developer x 832 hours) = $637,104.  
+693  The Commission estimates that each ATS employs the equivalent of 1.5 full-time Financial Analysts and 2 
+full-time Software Developers to maintain its order execution system. The Commission’s lower bound on 
+the estimated annual savings for each ATS is ($405 for a financial analyst x 156 hours) + ($462 for a 
+software developer x 208 hours) = $159,276. The Commission’s upper bound on the estimated annual 
+savings for each ATS is ($405 for a financial analyst x 312 hours) + ($462 for a software developer x 416 
+hours) = $318,552.  
+694  The Commission estimates that each larger broker-dealer with a SOR that connects to 16 exchanges 
+employs the equivalent of 1.5 full-time Financial Analysts and 2 full-time Software Developers to maintain 
+its SOR. The Commission’s lower bound on the estimated annual savings for each of these broker-dealers 
+is ($405 for a financial analyst x 156 hours) + ($462 for a software developer x 208 hours) = $159,276. The 
+Commission’s upper bound on the estimated annual savings for each of these broker-dealers is ($405 for a 
+financial analyst x 312 hours) + ($462 for a software developer x 416 hours) = $318,552. If a broker-dealer 
+operates both a SOR and an A TS, then it would save the cumulative amount of both its ATS and SOR 
+savings. The cost savings for broker-dealers that also operate as exchange market makers is included in 
+their SOR cost savings because the Commission believes these broker-dealers use the same systems for 
+both functions. See Table 1 in supra section VI.B.4.e for estimates of how many exchanges broker-dealers 
+connect to. See also supra note 578 for estimates of how many broker-dealers are exchange market makers. 
+695  The Commission estimates that each broker-dealer with a SOR that connects to 11 to 15 exchanges 
+employs the equivalent of 0.5 full-time Financial Analysts and 0.7 full-time Software Developers to 
+maintain its SOR. The Commission’s lower bound on the estimated annual savings for each of these 
+broker-dealers is ($405 for a financial analyst x 52 hours) + ($462 for a software developer x 72 hours) = 
+$54,324. The Commission’s upper bound on the estimated annual savings for each of these broker-dealers 
+is ($405 for a financial analyst x 104 hours) + ($462 for a software developer x 144 hours) = $108,648.  
+696  The Commission estimates that each broker-dealer with a SOR that connects to 1 to 10 exchanges employs 
+the equivalent of 0.15 full-time Financial Analysts and 0.2 full-time Software Developers to maintain its 
+SOR. The Commission’s lower bound on the estimated annual savings for each of these broker-dealers is 
+($405 for a financial analyst x 16 hours) + ($462 for a software developer x 21 hours) = $16,182. The 
+Commission’s upper bound on the estimated annual savings for each of these broker-dealers is ($405 for a 
+financial analyst x 32 hours) + ($462 for a software developer x 42 hours) = $32,364.
+
+221 
+ 
+$32,000 annually.697 We estimate that the total aggregate annual cost savings will be between 
+$22.8 million and $45.6 million.698  
+ 
+We anticipate that rescinding Rule 611 and Rule 610(e) would impose one-time 
+implementation costs on broker-dealers and trading centers to remove written policies and 
+procedures designed to prevent trade-throughs and locked and crossed markets and to capture 
+compliance with the exceptions to Rule 611. These compliance costs would include both costs 
+related to legal personnel updating policies and procedures as well as software engineering and 
+IT costs related to updating and configuring systems related to trade execution, order handling 
+and surveillance. Order routing and trade execution logic would need to be redesigned to allow 
+for trading through the NBBO; routing logic would need to be modified to remove ISO handling 
+and other trade-through exception logic; exchange matching engines would need to be updated to 
+allow for the display of orders that lock or cross the NBBO; SORs would need to be recalibrated; 
+ 
+697  The Commission estimates that there are 225 broker-dealers that operate as OTC market-makers. See supra 
+note 578. The Commission estimates that each of these OTC market-makers employs the equivalent of 0.15 
+full-time Financial Analysts and 0.2 full-time Software Developers to maintain its execution systems. The 
+Commission’s lower bound on the estimated annual savings for each of these OTC market makers is ($405 
+for a financial analyst x 16 hours) + ($462 for a software developer x 21 hours) = $16,182. The 
+Commission’s upper bound on the estimated annual savings for each of these OTC market makers is ($405 
+for a financial analyst x 32 hours) + ($462 for a software developer x 42 hours) = $32,364. There will be 
+overlap between the broker-dealers that operate a SOR and the broker-dealers that are OTC market makers. 
+For these broker-dealers, the Commission believes that the costs savings from operating their SOR and 
+their cost savings from operating as an OTC market maker will be additive (i.e., they will save on both 
+costs). 
+698  The Commission’s lower bound on the total estimated annual savings is (20 exchanges x $318,552) + (33 
+ATSs x $159,276) + (23 broker-dealers connect to 16 or more exchanges x $159,276) + (21 broker-dealers 
+connect to 11 to 15 exchanges x $54,324) + (169 broker-dealers connect to 1 to 10 exchanges x $16,182) + 
+(225 OTC market makers x $16,182) = $22.81 million. The Commission’s upper bound on the total 
+estimated annual savings is (20 exchanges x $637,104) + (33 ATSs x $318,552) + (23 broker-dealers 
+connect to 16 or more exchanges x $318,552) + (21 broker-dealers connect to 11 to 15 exchanges x 
+$108,648) + (169 broker-dealers connect to 1 to 10 exchanges x $32,364) + (225 OTC market makers x 
+$32,364) = $45.61 million.
+
+222 
+ 
+surveillance alerts that currently hinge on trade-through exceptions would need to be removed; 
+and staff would need to be trained on new policies and procedures.   
+We estimate that each of 33 ATSs would incur one-time implementation costs of 
+$195,000 to update their systems and policies and procedures for the rescission of Rule 611 and 
+Rule 610(e).699 Additionally, we estimate the one-time implementation costs for each of 23 
+largest broker-dealers with SORs that connect to 16 or more exchanges would be $195,000,700 
+each of the 21 broker-dealers with SORs that connect to 11 to 15 exchanges would be 
+$90,000,701 each of the 169 broker-dealers with SORs that connect to 1 to 10 exchanges would 
+ 
+699  The Commission estimates that each ATS, on average, would need 430 hours to update their systems and 
+policies and procedures for the rescission of Rule 611 and Rule 610(e): 24 hours of legal time, 36 hours of 
+compliance time, 6 hours of review by a Chief Compliance Officer, 156 hours of work by a financial 
+analyst, and 208 hours of work by a software developer. The estimated monetized one-time cost is as 
+follows: ($744 for an attorney x 24 hours) + ($365 for a financial examiner (i.e., compliance) x 36 hour s) + 
+($731 for a financial manager (i.e., Chief Compliance Officer) x 6 hours) + ($405 for a financial analyst x 
+156 hours) + ($462 for a software developer x 208 hours) = $194,658. See supra  note 577 for details on 
+how hourly rates are calculated.  
+700  The Commission estimates that each broker-dealer that operates a SOR that connects to 16 or more 
+exchanges, on average, would need 430 hours to update its systems and policies and procedures for the 
+rescission of Rule 611 and Rule 610(e): 24 hours of legal time, 36 hours of compliance time, 6 hours of 
+review by a Chief Compliance Officer, 156 hours of work by a financial analyst, and 208 hours of work by 
+a software developer. The estimated monetized one-time cost is as follows: ($744 for an attorney x 24 
+hours) + ($365 for a financial examiner (i.e., compliance) x 36 hours) + ($731 for a financial manager (i.e., 
+Chief Compliance Officer) x 6 hours) + ($405 for a financial analyst x 156 hours) + ($462 for a software 
+developer x 208 hours) = $194,658. See Table 1 in supra section VI.B.4.e for estimates of how many 
+exchanges broker-dealers connect to. If a broker-dealer operates both a SOR and an ATS, then it would 
+incur the cumulative implementation costs of both its ATS and SOR operations. The implementation costs 
+for broker-dealers that operate a SOR and also operate as exchange market makers is already averaged into 
+the cost estimate because the Commission believes there would be significant overlap in updating their 
+SOR and exchange market maker systems. 
+701  The Commission estimates that each broker-dealer that operates a SOR that connects to 11 to 15 exchanges, 
+on average, would need 190 hours to update their systems and policies and procedures for the rescission of 
+Rule 611 and Rule 610(e): 24 hours of legal time, 36 hours of compliance time, 6 hours of review by a 
+Chief Compliance Officer, 52 hours of work by a financial analyst, and 72 hours of work by a software 
+developer. The estimated monetized one-time cost is as follows: ($744 for an attorney x 24 hours) + ($365 
+for a financial examiner (i.e., compliance) x 36 hours) + ($731 for a financial manager (i.e., Chief 
+Compliance Officer) x 6 hours) + ($405 for a financial analyst x 52 hours) + ($462 for a software developer 
+x 72 hours) = $89,706.
+
+223 
+ 
+be $52,000,702 and each of the 225 OTC market makers would be $52,000.703 Furthermore, we 
+estimate that the one-time implementation costs to each of 20 exchanges to update their systems 
+and policies and procedures for the rescission of Rule 611 and Rule 610(e) would be 
+$389,000.704 Exchanges would incur higher costs because their systems might contain more 
+complex logic for ensuring they do not display quotes that lock or cross the NBBO. Exchanges 
+would also have to incur additional costs to update their rulebooks to account for the rescission 
+of Rule 611 and Rule 610(e) and related defined terms. We estimate that the total aggregate one-
+time implementation costs will be $40.9 million from rescinding Rule 611 and Rule 610(e).705  
+ 
+702  The Commission estimates that each broker-dealer that operates a SOR that connects to 1 to 10 exchanges, 
+on average, would need 103 hours to update its systems and policies and procedures for the rescission of 
+Rule 611 and Rule 610(e): 24 hours of legal time, 36 hours of compliance time, 6 hours of review by a 
+Chief Compliance Officer, 16 hours of work by a financial analyst, and 21 hours of work by a software 
+developer. The estimated monetized one-time cost is as follows: ($744 for an attorney x 24 hours) + ($365 
+for a financial examiner (i.e., compliance) x 36 hours) + ($731 for a financial manager (i.e., Chief 
+Compliance Officer) x 6 hours) + ($405 for a financial analyst x 16 hours) + ($462 for a software developer 
+x 21 hours) = $51,564. 
+703  The Commission estimates that each broker-dealer that operates as an OTC market maker, on average, 
+would need 103 hours to update its systems and policies and procedures for the rescission of Rule 611 and 
+Rule 610(e): 24 hours of legal time, 36 hours of compliance time, 6 hours of review by a Chief Compliance 
+Officer, 16 hours of work by a financial analyst, and 21 hours of work by a software developer. The 
+estimated monetized one-time cost is as follows: ($744 for an attorney x 24 hours) + ($365 for a financial 
+examiner (i.e., compliance) x 36 hours) + ($731 for a financial manager (i.e., Chief Compliance Officer) x 
+6 hours) + ($405 for a financial analyst x 16 hours) + ($462 for a software developer x 21 hours) = 
+$51,564. There will be overlap between the broker-dealers that operate a SOR and the broker-dealers that 
+are OTC market makers. For these broker-dealers, the Commission believes that the implementation costs 
+related to operating their SOR and their implementation costs related to operating as an OTC market maker 
+will be additive (i.e., they will incur both costs). 
+704  The Commission estimates that each exchange, on average, would need 860 hours to update its  systems and 
+policies and procedures for the rescission of Rule 611 and Rule 610(e): 48 hours of legal time, 72 hours of 
+compliance time, 12 hours of review by a Chief Compliance Officer, 312 hours of work by a financial 
+analyst, and 416 hours of work by a software developer. The estimated monetized one-time cost is as 
+follows: ($744 for an attorney x 48 hours) + ($365 for a financial examiner (i.e., compliance) x 72 hours) + 
+($731 for a financial manager (i.e., Chief Compliance Officer) x 12 hours) + ($405 for a financial analyst x 
+312 hours) + ($462 for a software developer x 416 hours) = $389,316.  
+705  The Commission estimates that the total one-time implementation cost for rescinding Rule 611 and Rule 
+610(e) is:(20 exchanges x $389,316) + (33 ATSs x $194,658) + (23 broker-dealers connect to 16 or more 
+exchanges x $194,658) + (21 broker-dealers connect to 11 to 15 exchanges x $89,706) + (169 broker-
+dealers connect to 1 to 10 exchanges x $51,564) + (225 OTC market makers x $51,564) = $40.89 million.
+
+224 
+ 
+ 
+Without Rule 611 and 610(e), broker-dealer demand for access to trading on every 
+exchange may diminish.706 This reduced demand may lower the cost to be an executing broker-
+dealer because broker-dealers would be able to disconnect from some exchanges, which may 
+introduce pressure on exchanges to attract broker-dealers. This could lead to lower prices for 
+products such as market data and connectivity and increase exchanges’ incentive to innovate to 
+try to attract or retain order flow.707 
+Exchanges may lose revenue because of broker-dealer disconnections and/or lower prices 
+for data and connectivity. Exchanges that experience disconnections may lose volume while 
+exchanges that do not may gain volume. It may become more difficult for small exchanges, as 
+well as potential new exchanges, to gain market share, reducing the incentive for new entry. 
+Small exchanges may even lose market share as broker-dealers shift their routing behavior away 
+from these exchanges. The fragmentation of displayed liquidity may also decrease.708 
+i.  Benefits 
+Some broker-dealers may choose to disconnect from existing exchanges, or not connect 
+to new exchanges, because there is no longer an “interference cost” from not connecting to an 
+exchange.709 Broker-dealers that have determined, consistent with their duty of best execution, 
+that it is reasonable for them to not connect to an exchange would be able to reorganize their 
+order routing to exclude that exchange without facing interference costs. Broker-dealers would 
+ 
+706  See supra section VI.B.4.e. (discussing broker-dealer demand for liquidity) and VI.C.1.a and VI.C.2.a. Note 
+that off-exchange trading may increase. See infra note 730 and section VI.D.2.c. (discussing competition 
+between exchanges and off-exchange venues). 
+707  See supra section VI.B.4.e. 
+708  Market fragmentation may also decrease. See also infra section VI.D.2.c. 
+709  See supra sections VI.B.4.e. (defining the “interference cost”) and VI.B.4.f. (discussing the role of 611 and 
+610(e)).
+
+225 
+ 
+face some costs from disconnecting from an exchange because they must update their routing 
+practices, but there would be no such costs for not connecting to a new exchange. 
+A broker-dealer may disconnect from an exchange if the cost to modify its routing 
+practices and any other costs, such as the cost of lost execution quality, is lower than the cost to 
+remain connected to the exchange. However, there may be other reasons that a broker-dealer 
+decides not to disconnect, such as the up-front costs which have already been paid and would 
+have to be paid again if the broker-dealer disconnects and then later reconnects.710 Rather than 
+fully disconnecting, broker-dealers may choose to subscribe to fewer services (e.g., unsubscribe 
+from or decrease the number of use cases for market data, reduce the number of connections)711 
+or utilize third-party vendors to save on costs rather than fully disconnecting. For a new 
+exchange, there may be fewer broker-dealers for whom the cost of connecting to a new exchange 
+is lower than the cost of not connecting and thus fewer broker-dealers would connect to a new 
+exchange.712 
+Disconnections may occur at small exchanges and by small- to medium-sized broker-
+dealers. Disconnections are more likely to occur at small exchanges because the effect on 
+execution quality from disconnecting is likely smaller because small exchanges have less 
+available liquidity. With the rescission, broker-dealers can concentrate their orders on venues 
+that contribute relatively more to overall execution quality. Academic research shows that 
+liquidity and trading tend to concentrate on the most liquid venues.713 If orders receive better 
+ 
+710  See, e.g., letter from Peter J. Haynes, CFA, Index and Market Structure Research, TD Securities, The 
+History of OPR in Canada – It is Not Exactly What You Think? (July 22, 2025) (“TD Securities Comment”) 
+at 4. See also First TTR Roundtable at 104 (Peter Haynes, TD Securities). 
+711  See supra section VI.B.4.c. (describing exchange products). 
+712  This would mean a slower uptake for new exchanges. See infra section VI.C.3.ii. 
+713  See Marco Pagano, Trading V olume and Asset Liquidity, 104 Q. J. ECON. 255 (1989).
+
+226 
+ 
+execution quality on larger, more liquid exchanges, then brokers may concentrate on sending 
+their orders to these venues and reduce the number of orders that they send to smaller, less liquid 
+exchanges. Disconnections are less likely to occur at small exchanges that are part of a large 
+exchange family because there may be more benefits, relative to an exchange that is independent 
+or part of a small exchange family, for broker-dealers that have a connection to multiple 
+exchanges within the large exchange family.
+714 Disconnections are more likely to occur by 
+small- to medium-sized broker-dealers because they may seek to lower their costs. High-volume 
+broker-dealers may be better positioned competitively,715 and the effect on execution quality 
+from disconnecting from an exchange may be smaller for small- to medium-sized broker-dealers 
+to the extent that they demand less liquidity. Broker-dealers that execute large block orders for 
+more shares than are available at the NBBO may continue to connect to as many venues as 
+possible, even if they are small, because of the effect of disconnecting from a venue on their 
+execution quality. Small- to medium-sized broker-dealers may already have lower up-front and 
+ongoing costs, particularly if they outsource some of their connectivity or data processing to 
+third-party vendors.716 
+Broker-dealers’ ability to disconnect, along with the potential for order flow to shift, may 
+increase the competitive pressure among exchanges. This may lead exchanges to lower prices for 
+ 
+714  For example, one exchange family has “integrated trading technology.” See NYSE Pillar, NYSE, 
+https://www.nyse.com/trade/pillar (last visited May 11, 2026). 
+715  See infra section VI.D.2.d. (describing competition for broker execution services). 
+716  See supra section VI.B.4.c. (discussing market data and connectivity use cases for market participants).
+
+227 
+ 
+connectivity and data717 or innovate.718 Some exchanges may receive more order flow as broker-
+dealers shift their market activity, whether after disconnecting from other venues or not,719 
+potentially leading to increased revenue from access fees and the SIPs for these exchanges. 
+This would also result in a reduction in displayed liquidity fragmentation. As broker-
+dealers can disconnect and can concentrate their orders on venues that offer better execution 
+quality or their preferred venue type, some exchanges would have more quotes while others 
+would have fewer. 
+We estimate that about 4 small- to medium-sized broker-dealers may disconnect from 
+each of the 5 smallest exchanges that are not part of the 3 largest exchange families. As 
+explained above, disconnections are more likely to occur from small exchanges because of the 
+potential for a lower effect on execution quality. Additionally, disconnections are more likely to 
+occur from the 5 small exchanges that are not a part of the three large exchange families because, 
+having connected to at least one exchange from a large exchange family, there is potentially a 
+lower cost to connecting to additional exchanges from that family compared to the cost of 
+connecting to a new exchange family.720 It is difficult to reasonably estimate how many broker-
+ 
+717  For example, if some broker-dealers currently view an exchange’s price for data as being too high, they 
+may unsubscribe once they are no longer required to comply with Rules 611 and 610(e). If enough broker-
+dealers unsubscribe, the exchange may find it advantageous to lower the price of its  data to keep more 
+customers. 
+718  The fact that order flow could shift off exchange as well is another potential source of competitive pressure 
+that could encourage lower prices and innovation. See infra section VI.D.2.c. 
+719  In addition to order flow potentially shifting away from small exchanges as described, broker -dealers may 
+trade less on some exchanges for other reasons, such as to avoid certain types of venues except when 
+submitting large block orders or because they downgrade their connection and devote fewer maintenance 
+resources rather than fully disconnecting. For example, HFTs may route fewer orders to exchanges with 
+speedbumps, but maintain a connection. 
+720  Until MX2 comes online, there are no two equities exchanges owned by the same company outside of the 
+three largest exchange families. See supra section VI.B.4.a.
+
+228 
+ 
+dealers may disconnect, but we estimate it could be 4 with more or fewer being possible.721 As 
+explained above, exchanges have an incentive to lower prices or innovate to attract order flow 
+and prevent disconnections. Broker-dealers may also maintain connections to avoid paying up-
+front costs again if they think they may have to reconnect later. They may also change or reduce 
+their services rather than fully disconnect. Finally, in light of the competition for broker 
+execution services, even the potential for small negative impacts on execution quality may limit 
+broker-dealer willingness to disconnect.
+722 Thus, we do not anticipate that many disconnections 
+will occur. 
+We do not expect that a broker-dealer’s costs to modify routing practices, or a broker-
+dealer’s ongoing yearly savings due to a disconnection, would depend on an exchange’s size. We 
+estimate that the ongoing yearly savings for a broker-dealer would be $187,000 per 
+disconnection.723 We estimate that the average cost a broker-dealer would save per disconnection 
+per year on market data and connectivity fees is approximately $307,000.724 We also expect that 
+broker-dealers that disconnect will correspondingly discontinue their exchange membership. The 
+estimated average savings for a broker-dealer per membership discontinuation is about 
+ 
+721  As mentioned above, broker-dealers that connect to all exchanges are not likely to disconnect from any 
+exchanges. To the extent there may be disconnections, we would expect broker-dealers to disconnect from 
+the newest and smallest exchanges. The newest and smallest exchanges have the smallest number of 
+connections. The older, more established exchanges that have more connections, and also more market 
+share, are likely to retain more connections. The exchanges that are smaller but are members of a large 
+exchange family are also likely to retain more connections. 
+722  See supra sections VI.B.4.e discussing the value of access to exchange liquidity for broker-dealer execution 
+costs, and VI.B.5.b, discussing competition among institutional brokers. In addition, significant alterations 
+to a broker-dealer’s routing practices would be made in accordance with that broker-dealer’s policies and 
+procedures for compliance with best execution requirements. 
+723  The Commission estimates that each broker-dealer, on average, would spend 429 hours to maintain its 
+SOR: 184 hours of work by a financial analyst, and 245 hours of work by a software developer. The 
+estimated monetized cost is as follows: ($405 for a financial analyst x 184 hours) + ($462 for a software 
+developer x 245 hours) = $187,710. See supra note 577 for details on how hourly rates are calculated. 
+724  See supra note 467. The cost to connect to the five new exchanges is $1,536,360 total, or divided by five 
+approximately $307,272 per exchange.
+
+229 
+ 
+$3,440.725 Thus, the total savings from all disconnections are estimated to be $10 million per 
+year.726 There may be additional broker-dealers who choose to subscribe to fewer services from 
+an exchange rather than fully disconnecting. Broker-dealers may instead utilize more third-party 
+services. Broker-dealers may also need to update their routing system to account for the change 
+in services. We are uncertain about the cost savings that this would generate, and how many 
+broker-dealers would choose to do this, because we are unable to quantify the costs of third-party 
+services or how many broker-dealers use such services. Third-party vendors that provide 
+connectivity and data services may also gain revenue if broker-dealers switch to using these 
+services to connect to or receive data from an exchange.727 
+The Commission believes that the cost to connect to a new exchange could be lower, and 
+that, without the “interference cost” from not connecting, fewer broker-dealers would find it 
+necessary to connect to a new exchange compared to today. We are unable to reasonably 
+estimate the change in the cost to connect due to the loss of the “interference cost” or how many 
+broker-dealers this would impact.728 We also expect that new exchanges will continue to charge 
+ 
+725  This estimate is based on the average yearly membership cost at 24X, IEX, LTSE, MEMX, and MIAX. 
+726  Each disconnection represents a savings for a broker-dealer from lower cost to maintain routing practices as 
+well as from not paying membership, market data, and connectivity fees to the exchange. Thus, the total 
+savings for all broker-dealer disconnections is [(savings from lower routing maintenance costs) + (savings 
+from not paying market data and connectivity fees) + (savings from not paying membership fees)] x 
+(number of broker-dealer disconnections), which is [($187,710)+($307,272) + ($3,440)] x (4 broker-dealers 
+x 5 exchanges) = $9,968,440. See supra notes 467, 723, and 725. 
+727  On the other hand, the vendors may lose revenue from customers that decide to disconnect from an 
+exchange or choose not to connect to a new exchange using a third-party vendor. The Commission would 
+anticipate that the loss is likely smaller than the potential gain of revenue from downgrading connections. 
+728  The Commission is unable to estimate the change in the cost to connect because this would require 
+estimating the interference cost itself. Estimating the interference cost is infeasible for the Commission, as 
+it would be impractical to create a detailed reconstruction of the circumstances faced by a SOR under 
+conditions where it is not connected to some exchanges. This would include knowledge of the cost to the 
+parent order, and the resulting impact on broker-dealer revenue, from failed child order routes.
+
+230 
+ 
+zero fees, or lower fees, for connections and market data for a longer initial period after they 
+commence to attract more order flow.729 
+ii. Costs 
+After the rescission of Rules 611 and 610(e), it may be more difficult for new and small 
+exchanges to gain market share, and their revenue could be lower.730 We do not expect that any 
+exchanges would exit the market or that new exchanges would not be able to enter. The small 
+exchanges may lose revenue and volume due to some small- to medium-sized brokers 
+disconnecting, but we do not expect any broker-dealers that connect to all or almost all 
+exchanges to disconnect. We expect that broker-dealers may submit fewer orders to small 
+exchanges.731 To the extent that dollar volume decreases on these exchanges, their revenue from 
+access fees as well as revenue from the SIPs may decrease.732 Because most of the dollar volume 
+traded on these exchanges comes from broker-dealers that connect to all or almost all 
+exchanges,733 the market share of these exchanges will not decrease significantly as a result of 
+broker-dealer disconnections. We would not anticipate that these revenue losses (i.e., from 
+disconnections, fewer order submissions) would be sufficient to make an exchange exit. Many of 
+ 
+729  See First TTR Roundtable Transcript at 86-87 (Chris Solgan, MIAX Exchange Group) (describing initial 
+waivers of data and connectivity fees for new exchanges). Additionally, one ATS that has quotes that are 
+not protected provides its market data for free. See First TTR Roundtable Transcript at 65 (Ari Burnstein, 
+IntelligentCross). 
+730  If there is increased competitive pressure among exchanges and large exchanges do not respond ( e.g., by 
+lowering fees or innovating), these large exchanges may lose market share to other small- to medium-sized 
+exchanges that better compete to attract order flow. It is unlikely that large exchanges would lose much 
+market share to other exchanges because they have the same incentives to attract order flow as small- to 
+medium-sized exchanges. See supra note 713. It is also possible that exchanges as a whole lose market 
+share to off-exchange venues, which could lead to lower revenue. See supra section VI.C.1.b. (discussing 
+how exchanges may lose market share to off-exchange venues). It is uncertain whether this effect would be 
+large enough to lead to large exchanges losing market share, but we preliminary expect that it would not.  
+731  See supra note 713. 
+732  See supra section VI.C.1.b. (discussing why there may be more trading off exchange and less trading on 
+exchange). 
+733  See supra section VI.B.4.e.
+
+231 
+ 
+these broker-dealers that connect to all or almost all exchanges may continue to connect to a new 
+exchange right away. These new or small exchanges may keep prices on connectivity and data 
+lower for longer, but this would not impact profitability significantly because the profit from 
+such sources is already smaller for these exchanges.734 
+We estimate that 4 broker-dealers may disconnect from the five exchanges that are not a 
+part of a large exchange family.735 We estimate that the one time cost per broker-dealer per 
+disconnection to modify routing practices would be $17,000, or in total $348,000.736 The loss in 
+revenue resulting from a disconnection is estimated at $311,000 per year, which is approximately 
+$1.2 million per exchange or $6.2 million total.737 
+Broker-dealers may face lower execution quality if they disconnect from exchanges. For 
+example, if a broker-dealer is not connected to the exchange with the best quote, it may decide to 
+trade through this quote on an exchange to which it is connected, thus achieving a worse 
+ 
+734  See supra note 480. 
+735  See supra section VI.C.3.c.i. (discussing why we believe this number of disconnections would occur on 
+these exchanges). 
+736  The Commission estimates that each broker-dealer, on average, would spend 43 hours to maintain its SOR: 
+18 hours of work by a financial analyst, and 25 hours of work by a software developer. The estimated 
+monetized cost is as follows: ($405 for a financial analyst x 18 hours) + ($462 for a software developer x 
+25 hours) = $17,415. Then, multiplying by the number of broker-dealers and disconnections, the total cost 
+is ($17,415) x (4 broker-dealers) x (5 exchanges) = $348,300. See supra note 577 for details on how hourly 
+rates are calculated. 
+737  See supra notes 724 and 725. To estimate the cost per disconnection, we add the revenue loss from market 
+data and connectivity and the revenue loss from membership: ($307,272) + ($3,440) = $310,712. To get the 
+average cost per exchange: ($310,712) x (number of disconnects per exchange) = $1,242,848. To get the 
+total cost: ($310,712) x (number of disconnects per exchange) x (number of exchanges) = $6,214,240.  A 
+part of this may represent a transfer. When a broker-dealer disconnects from an exchange, the broker-dealer 
+saves on costs, while an exchange loses revenue. At the same time, the broker-dealer no longer receives the 
+connection and thus the value of the liquidity on that exchange. The amount of the transfer would not 
+represent the total amount of the fee but rather the amount of the fee net of the value of liquidity on the 
+exchange (i.e. this would be the additional “interference premium” related to Rule 611 and Rule 10(e) that 
+they paid to connect to the exchange). We are unable to quantify the amount of the transfer because we 
+cannot quantify the “interference premium.” There may be an additional loss in revenue if exchanges lower 
+their fees or market participants that maintain a connection change their trading activity by routing fewer 
+orders to these exchanges, but the Commission does not know by how much exchanges may lower their 
+fees or how market participants would change their routing activity.
+
+232 
+ 
+execution quality for customers. Additionally, if a broker-dealer is executing a large block order 
+for more shares than available at the NBBO at the exchanges where it is connected, it may 
+achieve a worse execution quality because it does not access the liquidity at the exchanges to 
+which it is not connected.738 
+ 
+Throughout this economic analysis, we have estimated monetized benefits and costs per 
+affected entity. In this section, we present aggregate measures of these monetized effects. These 
+totals include only benefits and costs that are monetized in the economic analysis and thus do not 
+encompass all of the proposed amendments’ benefits and costs.  
+ 
+Tables 13 and 14 report the benefits and costs, respectively, that are monetized in this 
+economic analysis, aggregated across all affected entities and instances of compliance each year. 
+The annual aggregate monetized benefit is based on cost savings for trading centers (i.e., 
+exchanges, ATSs, and exchange and OTC market makers) and broker-dealers that operate SORs 
+from rescinding Rule 611 and 610(e). The sources of annual aggregate cost savings are as 
+follows: (i) compliance cost savings for trading centers from no longer having to maintain 
+policies and procedures and surveillance associated with Rule 611;
+739 (ii) compliance cost 
+savings for broker-dealers that operate SORs from no longer having to maintain policies and 
+procedures associated with Rule 611;740 (iii) compliance cost savings for exchanges from no 
+longer having to maintain policies and procedures and surveillance associated with Rule 
+ 
+738  The broker-dealer may choose to route to these exchanges using an exchange router or another broker-
+dealer. 
+739  See supra section VI.C.1.a. 
+740  See id.
+
+233 
+ 
+610(e);741 (iv) compliance cost savings for broker-dealers that operate SORs from no longer 
+having to maintain policies and procedures associated with Rule 610(e);742 (v) costs savings for 
+trading centers and broker-dealers that operate SORs due to the reduction in time for updating 
+trade execution systems and SORs from rescinding Rule 611 and Rule 610(e);743 and (vi) costs 
+savings for broker-dealers that operate SORs due to the disconnection from five exchanges from 
+rescinding Rule 611 and Rule 610(e).744 
+We estimate the lower and upper bound of total aggregate annual monetized benefit to be 
+approximately $54.2 million and $77.0 million, respectively. 
+Table 13: Aggregate Monetized Benefits 
+(2025 dollars) 
+ Lower Bound 
+of Annual 
+Benefit Per 
+Entity 
+(A) 
+Upper Bound 
+of Annual 
+Benefit Per 
+Entity 
+(B) 
+Estimated 
+Number of 
+Entities 
+(C) 
+Lower Bound 
+of Aggregate 
+Annual 
+Benefit 
+(Millions) 
+(D) 
+[(A) x (C)] 
+Upper Bound 
+of Aggregate 
+Annual 
+Benefit 
+(Millions) 
+(E) 
+[(B) x (C)] 
+Exchange $381,000a $699,000b 20c $7.6d $14.0e 
+ATS $190,000f $350,000g 33h $6.3i $11.5j 
+BD with SOR 
+connecting to 16 
+or more 
+exchanges 
+$190,000k $350,000l 23m $4.4n $8.0o 
+BD with SOR 
+connecting to 11 
+to 15 exchanges 
+$85,000p $140,000q 21r $1.8s $2.9t 
+BD with SOR 
+connecting to 1 to 
+10 exchanges 
+$47,000u $63,000v 169w $8.0x $10.7y 
+OTC market 
+maker 
+$47,000z $63,000aa 225ab $10.6ac $14.3ad 
+BD with SORs $26,000ae 213af $5.6ag 
+BD disconnecting 
+from exchange 
+$498,000ah 4 - 20ai $10.0aj 
+Total $54.2ak $77.0al 
+Notes: 
+ 
+741  See supra section VI.C.2.a. 
+742  See id. 
+743  See supra section VI.C.3.a. 
+744  See supra sectionVI.C.3.c.i.
+
+234 
+ 
+a   $30,996 + $30,996 + $318,552 = $380,544. See supra notes 577, 667, and 692. 
+b  $30,996 + $30,996 + $637,104 = $699,096. See supra notes 577, 667, and 692. 
+c  See supra note 578. 
+d  $380,544 x 20 = $7,610,880. 
+e  $699,096 x 20 = $13,981,920. 
+f  $30,996 + $159,276 = $190,272. See supra notes 577 and 693. 
+g  $30,996 + $318,552 = $349,548. See supra notes 577 and 693. 
+h  See supra note 578. 
+i  $190,272 x 33 = $6,278,976. 
+j  $349,548 x 33 = $11,535,084. 
+k  $30,996 + $159,276 = $190,272. See supra notes 577 and 694. 
+l  $30,996 + $318,552 = $349,548. See supra notes 577 and 694. 
+m  See supra note 694. 
+n  $190,272 x 23 = $4,376,256. 
+o  $349,548 x 23 = $8,039,604. 
+p  $30,996 + $54,324 = $85,320. See supra notes 577 and 695. 
+q  $30,996 + $108,648 = $139,644. See supra notes 577 and 695. 
+r  See supra note 695. 
+s  $85,320 x 21 = $1,791,720. 
+t  $139,644 x 21 = $2,932,524. 
+u  $30,996 + $16,182 = $47,178. See supra notes 577 and 696. 
+v  $30,996 + $32,364 = $63,360. See supra notes 577 and 696. 
+w  See supra note 696. 
+x  $47,178 x 169 = $7,973,082. 
+y  $63,360 x 169 = $10,707,840. 
+z  $30,996 + $16,182 = $47,178. See supra notes 577 and 697. 
+aa  $30,996 + $32,364 = $63,360. See supra notes 577 and 697. 
+ab  See supra note 697. 
+ac  $47,178 x 225 = $10,615,050. 
+ad  $63,360 x 225 = $14,256,000. 
+ae  $13,140 + $13,140 = $26,280. See supra notes 581 and 582. 
+af  See supra note 582. 
+ag  $26,280 x 213 = $5,597,640. 
+ah  $187,710 + $307,272 + $3,440 = $498,422. See supra notes 723, 724, and 725. 
+ai  We estimate that 4 to 20 distinct broker-dealers may disconnect from 5 exchanges. For example, 
+the same 4 broker-dealers may disconnect from 5 exchanges, resulting in the total cost savings of 
+$9,968,440 = ($498,422 x 5 exchanges) x 4 broker-dealers, or 20 distinct broker-dealers may
+
+235 
+ 
+disconnect, resulting in the total cost savings of $9,968,440 = $498,422 x 20 broker-dealers. See 
+supra section VI.C.3.c.i. 
+aj  $498,422 x 5 x 4 = $9,968,440. 
+ak  $7,610,880 + $6,278,976 + $4,376,256 + $1,791,720 + $7,973,082 + $10,615,050 + $5,597,640 + 
+$9,968,440 = $54,212,044. 
+al $13,981,920 + $11,535,084 + $8,039,604 + $2,932,524 + $10,707,840 + $14,256,000 + 
+$5,597,640 + $9,968,440 = $77,019,052. 
+ 
+The one-time aggregate monetized cost is based on the following sources: (i) costs 
+associated with updating best execution policies and procedures for broker-dealers that operate 
+SORs due to the rescission of Rule 611;745 (ii) costs associated with updating systems and 
+policies and procedures for exchanges, ATSs, OTC market makers, and broker-dealers that 
+operate SORs due to the rescission of Rule 611 and Rule 610(e);746 and (iii) costs associated with 
+modifying routing practices for disconnecting broker-dealers due to the rescission of Rule 611 
+and Rule 610(e).747 The annual aggregate monetized cost is based on the loss in revenue from 
+disconnections for five exchanges.748 
+We estimate that the total aggregate one-time monetized cost is approximately $48.2 
+million and the total aggregate annual monetized cost is approximately $6.2 million. 
+Table 14: Aggregate Monetized Costs 
+(2025 dollars) 
+ One-Time 
+Cost Per 
+Entity 
+(A) 
+Annual Cost 
+Per Entity 
+(B) 
+Estimated 
+Number of 
+Entities 
+(C) 
+Aggregate One-
+Time Cost 
+(Millions) 
+(D) 
+[(A) x (C)] 
+Aggregate 
+Annual Cost 
+(Millions) 
+(E) 
+[(B) x (C)] 
+Exchange $389,000a - 20b $7.8c - 
+ATS $195,000d - 33e $6.4f - 
+BD with 
+SOR 
+connecting to 
+16 or more 
+exchanges 
+$195,000g - 23h $4.5i - 
+ 
+745  See supra section VI.C.1.b. 
+746  See supra section VI.C.3.b. 
+747  See supra section VI.C.3.ii. 
+748  See id.
+
+236 
+ 
+BD with 
+SOR 
+connecting to 
+11 to 15 
+exchanges 
+$90,000j - 21k $1.9l - 
+BD with 
+SOR 
+connecting to 
+1 to 10 
+exchanges 
+$52,000m - 169n $8.7o  
+OTC market 
+maker 
+$52,000p - 225q $11.6r - 
+BD with 
+SORs 
+$40,000s - 173t $6.9u - 
+BD 
+disconnecting 
+from 
+exchange 
+$17,000v - 4 – 20w $0.3x - 
+Exchange 
+that 
+experiences 
+disconnection 
+- $1,243,000y 5z - $6.2aa 
+Total $48.2ab $6.2ac 
+Notes: 
+a   See supra note 704. 
+b  See supra note 704. 
+c  $389,316 x 20 = $7,786,320. 
+d  See supra note 699. 
+e  See supra note 699. 
+f  $194,658 x 33 = $6,423,714. 
+g  See supra note 700. 
+h  See supra note 700. 
+i  $194,658 x 23 = $4,477,134. 
+j  See supra note 701. 
+k  See supra note 701. 
+l  $89,706 x 21 = $1,883,826. 
+m  See supra note 702. 
+n  See supra note 702. 
+o  $51,564 x 169 = $8,714,316. 
+p  See supra note 703. 
+q  See supra note 703. 
+r  $51,564 x 225 = $11,601,900. 
+s  See supra note 593. 
+t  See supra note 593.
+
+237 
+ 
+u  $40,098 x 173 = $6,936,954. 
+v  See supra note 736. 
+w  See supra note 736. 
+x  $17,415 x 5 x 4 = $348,300. 
+y  See supra note 737. 
+z  See supra note 737. 
+aa  $1,242,848 x 5 = $6,214,240. This amount may include transfers. See supra note 737. 
+ab  $7,786,320 + $6,423,714 + $4,477,134 + $1,883,826 + $8,714,316 + $11,601,900 + $6,936,954 + 
+$348,300 = $48,172,464. 
+ac  See supra note aa. 
+ 
+ 
+Consistent with the requirements of Executive Order 12866, the Commission reports 
+estimated total monetized benefits and costs for all affected entities in two additional ways 
+specified in OMB Circular A-4.749 The two presentations are intended to address the fact that the 
+various benefits and costs of the proposed amendments would not accrue at the same point in 
+time; rather, benefits and costs that accrue sooner are generally more valuable than those that 
+occur later in time.
+750 
+We report (1) the present values of expected benefits and costs that are monetized in our 
+Economic Analysis, aggregated across all affected entities, over a 10-year time horizon, starting 
+in 2026, as well as (2) the annualized values over the same time horizon that are derived from the 
+ 
+749  See Executive Order (E.O.) 12866 (Sept. 30, 1993), 58 FR 51735, 51741 (Oct. 4, 1993) (requiring agencies 
+to provide an analysis of benefits, costs, and regulatory alternatives to OIRA for significant regulatory 
+actions); OMB, CIRCULAR A-4, at 31-34, 45 (Sept. 17, 2003) (providing guidance to agencies regarding 
+compliance with E.O. 12866); see also E.O. 14215 (Feb. 18, 2025), 90 FR 10447, 10448 (Feb. 24, 2025) 
+(requiring independent agencies to comply with E.O. 12866). In addition, E.O. 14192 requires agencies to 
+provide their best approximation of the total costs or savings associated with each new regulation or 
+repealed regulation consistent with the analyses required by E.O. 12866. See E.O. 14192 (Jan. 31, 2025), 
+90 FR 9065, 9066 (Feb. 6, 2025). For purposes of approximating the total cost savings and costs under E.O. 
+14192, the Commission uses the annualized monetized benefits and costs using a real discount rate of 7 
+percent. See Table 16 and accompanying discussion. 
+750  See CIRCULAR A-4, at 32.
+
+238 
+ 
+present values. This time horizon represents the period over which the principal benefits and 
+costs that are monetized in the Economic Analysis are expected to accrue.751 The present values 
+and annualized values account for the timing of benefits and costs through discounting, which is 
+a procedure that accounts for the time value of money.
+752  
+Table 15 reports the present values of the aggregate monetized benefits and costs from 
+Tables 13 and 14, combining one-time and annual monetized benefits and costs. The analysis 
+uses annual real discount rates of 3 percent and 7 percent over a 10-year time horizon, starting in 
+2026.753 We estimate that the present value of total monetized benefits is approximately between 
+$469.3 million (lower bound) and $666.8 million (upper bound) using a 3 percent discount rate 
+and approximately between $393.9 million (lower bound) and $559.6 million (upper bound) 
+using a 7 percent discount rate. We estimate that the present value of total monetized costs is 
+approximately $102.0 million using a 3 percent discount rate and approximately $93.3 million 
+using a 7 percent discount rate. 
+  
+ 
+751  See id. at 31 (stating that “[t]he ending point should be far enough in the future to encompass all the 
+significant benefits and costs likely to result from the rule”). For the purposes of this analysis, we assume 
+the effective date of the amendments, as well as the start year for the analysis’s time horizon, is the present 
+year. The analysis uses calendar years and accounts for the compliance periods included in the release (see 
+note a in Table 15). 
+752  See id. at 32 (“The Rationale for Discounting”) & 45 (“Treatment of Benefits and Costs over Time”); see 
+also OIRA, REGULATORY IMPACT ANALYSIS: A PRIMER, at 11 (Aug. 15, 2011), available at 
+https://www.reginfo.gov/public/jsp/Utilities/circular-a-4_regulatory-impact-analysis-a-primer.pdf (“To 
+provide an accurate assessment of benefits and costs that occur at different points in time or over different 
+time horizons, an agency should use discounting. Agencies should provide benefit and cost estimates using 
+both 3 percent and 7 percent annual discount rates expressed as a present value as well as annualized.”); 
+HARVEY S. ROSEN & TED GAYER, PUBLIC FINANCE 151 (8th ed. 2008) (defining present value as “the value 
+today of a given amount of money to be paid or received in the future”). 
+753  This approach is consistent with OMB Circular A-4. See CIRCULAR A-4, at 31-34 (stating that, “[f]or 
+regulatory analysis, [agencies] should provide estimates of net benefits using both 3 percent and 7 percent” 
+discount rates and discussing why those rates are reasonable default rates). Also, we use a mid-year 
+discount rate. See OMB, CIRCULAR A-94, at 21-22 (Oct. 19, 1992) (“When costs and benefits occur in a 
+steady stream, applying mid-year discount factors is more appropriate.”).
+
+239 
+ 
+Table 15: Present Value of Aggregate Monetized Benefits and Costs  
+over 10 years from 2026 to 2035  
+(2025 Dollars)  
+Estimated Effectsa 3% real discount rate 7% real discount rate 
+Benefits (lower bound, millions) $469.3 $393.9 
+Benefits (upper bound, millions) $666.8 $559.6 
+Costs (millions) $102.0 $93.3 
+Notes: 
+a   The present values for aggregated monetized benefits represent the present values of annual 
+aggregated benefits of $54.2 million (lower bound) and $77.0 million (upper bound) per year 
+(presented in Table 13) over 10 years using each of a 3 percent and 7 percent discount rate. The 
+present values for aggregated monetized costs represent the present values of one -time costs of 
+$48.2 million and annual aggregated costs of $6.2 million per year (presented in Table 14) over 10 
+years using each of a 3 percent and 7 percent discount rate. We assume that monetized benefits 
+and costs accrue mid-year, and we use a mid-year discount rate. 
+ 
+Table 16 reports annualized aggregate monetized benefits and costs using real discount 
+rates of 3 percent and 7 percent over a 10-year horizon.754 The lump sum present values of 
+aggregate monetized benefits and costs reported in Table 15 are converted in Table 16 into a 
+constant stream of annualized benefits and costs over a 10-year time horizon, starting in 2026.755 
+Annualized benefits and costs may differ from an aggregation of the recurring monetized annual 
+benefits and costs discussed earlier in the Economic Analysis because they incorporate the 
+timing of benefits and costs, through discounting, and combine one-time and recurring benefits 
+and costs.
+756 We estimate that annualized total monetized benefits are approximately between 
+$54.2 million and $77.0 million per year using 3 and 7 percent discount rate. The annualized 
+total monetized benefits (in 2025 dollars) in Table 16 are the same as the total monetized benefits 
+(in 2025 dollars) reported in Table 13 because there are no one-time benefits. We estimate that 
+ 
+754  This approach is consistent with the recommended treatment of benefits and costs over time in Circular A-
+4. See id. at 45 (“You should present annualized benefits and costs using real discount rates of 3 and 7 
+percent”). 
+755  For each discount rate, the annualized monetized benefits (costs, respectively) in Table 16 represent the 
+constant annual stream of benefits (costs, respectively) whose present value over the time horizon equates 
+the corresponding present value in Table 15. See note a, Table 16 for additional calculation details. 
+756  The annualized benefits and costs present these values over the 10-year time horizon, starting in the present 
+year.
+
+240 
+ 
+annualized total monetized costs are approximately $11.8 million per year using a 3 percent 
+discount rate and approximately $12.8 million per year using a 7 percent discount rate. Because 
+the annualized costs are discounted and include both one-time and annual costs, they should not 
+be compared directly to the aggregate annual monetized costs in Table 14. 
+Table 16: Annualized Aggregate Monetized Benefits and Costs  
+over 10 years from 2026 to 2035  
+(2025 Dollars)  
+Estimated Effectsa 3% real discount rate 7% real discount rate 
+Benefits (lower bound, millions) $54.2 $54.2 
+Benefits (upper bound, millions) $77.0 $77.0 
+Costs (millions) $11.8 $12.8 
+Notes: 
+a   For each discount rate, the annualized values are calculated by dividing the corresponding present 
+values in Table 15 by the sum of discount factors over the time horizon. The discount factor in 
+year t of the time horizon is equal to 1/(1 + 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑 𝑟𝑟𝑟𝑟𝑑𝑑𝑟𝑟)(𝑡𝑡−0.5).  
+ 
+D. Effect on Efficiency, Competition, and Capital Formation 
+ 
+The rescission of Rule 611 could have competing effects on efficiency, although the net 
+effect is likely to be an improvement in efficiency. On one hand, the rescission of Rule 611 could 
+increase the efficiency of order routing by removing the restriction Rule 611 imposes on how 
+orders are routed. This effect would increase price efficiency by reducing frictions to trading that 
+could slow the speed at which information is incorporated into prices. On the other hand, the 
+rescission of Rule 611 could harm price efficiency to the extent that it leads to a reduction in 
+displayed quotes, although this effect is expected to be relatively small.
+757 Thus, the overall 
+effect of rescinding Rule 611 on market efficiency is likely to be an improvement in efficiency.  
+ 
+757  See text surrounding supra note 587 for a discussion of the effects of the rescission of Rule 611 on liquidity 
+provision, and for a discussion of why those effects are expected to be relatively minor.
+
+241 
+ 
+The removal of the prohibition on locked and crossed markets is expected to improve 
+liquidity for some stocks.758 An improvement in liquidity is associated empirically with 
+improved price efficiency.759 Thus, to the extent that some stocks experience an improvement in 
+liquidity due to rescinding Rule 610(e), these stocks could experience an improvement in price 
+efficiency.  
+ 
+ 
+The rescission of Rule 611 is expected to increase competition among trading centers, 
+because exchanges would no longer be able to attract order flow away from non-exchange 
+trading centers by having a protected quote. Consequently, there is likely to be an increase in 
+innovation of trading protocols as exchanges search for other means of attracting order flow. To 
+the extent that these innovations improve the trading experience or execution quality on 
+exchanges, they may also improve liquidity and lead to more volume executing on exchanges.  
+ 
+Rescinding Rules 611 and 610(e) may increase competitive pressure among exchanges. 
+This is because one of the anticipated effects of rescinding Rule 611 is that if small exchanges 
+cannot provide sufficient value to justify the price of their connectivity products, then they may 
+see the number of market participants that connect to them shrink. With the rescission of Rule 
+611, broker-dealers can disconnect from an exchange, or not connect to a new exchange, and not 
+suffer the interference cost when routing orders. This may mean fewer broker-dealers consider it 
+worthwhile connecting to such exchanges or utilizing the full set of exchange products they 
+ 
+758  See supra section VI.C.2.a. 
+759  See, e.g., Tarun Chordia, et al., Liquidity and Market Efficiency, 87 J. FIN. ECON. 249 (2008).
+
+242 
+ 
+currently purchase.760 In economic terms, these effects reduce demand for exchange products, 
+which lowers broker-dealers’ willingness to pay for them, unless the exchange offers enough 
+value to justify the price. These effects would increase competition among exchanges leading to 
+lower prices and increased innovation in exchange services. 
+As a result of this increased competition, smaller exchanges may lose volume or exit the 
+market if some market participants disconnect. It could also be difficult for new exchanges to 
+enter the market or gain market share because fewer market participants may choose to connect. 
+Further, to the extent that the number of market participants connected to the exchange 
+diminishes, activity on that exchange would also diminish, resulting in a reduction in liquidity 
+available on that exchange. This, in turn, would lead to a further reduction in the value of that 
+exchange, further reducing its membership. This phenomenon may make it difficult for small 
+exchanges to persist unless they can differentiate themselves. It may also make it more difficult 
+for new exchanges to start and to acquire market share. Consequently, there may be a reduction 
+in the overall number of exchanges, or a reduction in the rate of entry of new exchanges to the 
+market. The exchanges that remain may need to compete more on execution quality and innovate 
+new features to attract order flow. In order to avoid losing customers and liquidity, exchanges, 
+particularly small or new ones, might charge lower fees for market data and connectivity. 
+However, a substantial portion of the cost to broker-dealers of connecting to an exchange 
+is in the initial new connection costs, which are already paid for existing connections, so it may 
+be the case that few broker-dealers disconnect.
+761  
+ 
+760  See supra section VI.C.3.c.i, further discussing these changes in broker-dealer connections. 
+761  See supra section VI.B.5.b.
+
+243 
+ 
+ 
+The Proposal’s impact on competition between on- and off-exchange trading venues is 
+uncertain. On the one hand, the rescission of 610(e) may improve liquidity on exchanges for 
+some stocks, which would make exchanges relatively more attractive places to transact and lead 
+more order flow onto exchanges.762 Further, to the extent that Rule 611 reduces the efficiency of 
+routing orders on exchanges, rescinding Rule 611 could further make exchanges relatively more 
+attractive venues. Market fragmentation may thus decrease, to the extent that displayed liquidity 
+fragmentation decreases. 
+On the other hand, the proposal, if adopted, may lead institutional investors to execute 
+more large orders off exchange. This could occur because Rule 611 may hinder block trades by 
+restricting trades from occurring outside protected quotes. The rescission of Rule 611 may enable 
+large block trades to occur at off-exchange venues at prices that, while potentially advantageous 
+to the traders, would occur outside of the NBB or NBO prices on exchanges. This could 
+potentially improve the competitive position of off-exchange venues. As a result of these 
+competitive dynamics, the proposal could result in an increase in innovation for both on- and off-
+exchange venues.  
+If the proposal is adopted, broker dealers may connect to new ATSs before connecting to 
+new exchanges because they may feel less obligation to connect to all exchanges to ensure that 
+they can access all protected quotes. This may lead to new ATSs experiencing more growth and 
+exchanges experiencing less growth. This could also result in an increase in innovation from 
+exchanges, in order to try to retain their current growth. 
+ 
+762  See supra section VI.C.2.a. (discussing on and off exchange order flow).
+
+244 
+ 
+The lack of restrictions on executions that would result from rescinding Rule 611 may 
+result in increased innovation opportunities for ATSs as well.  
+ 
+The Proposal may lead to an increase in competition for executing broker services, as it 
+may result in lower fixed costs to becoming an executing broker. This would occur to the extent 
+that broker-dealers do not need to connect to as many market centers to be competitive, or it 
+could occur to the extent that competitive pressures drive market data and connectivity fees 
+lower. Lower fixed costs would reduce the barriers to entry and increase competition for order 
+flow in the market for broker execution services. This effect may be mitigated to the extent that 
+competitive pressure in the market for broker execution services does not allow brokers to reduce 
+the number of connections to market centers. 
+The rescission may reduce the concentration in the broker-dealer industry because 
+broker-dealers may face lower costs.763. Because there may be fewer new exchanges, and new 
+exchanges that do enter may wait longer to charge fees for data and connectivity, the trend of 
+rising data and connectivity costs may slow. Additionally, existing exchanges could lower their 
+prices for data and connectivity. Also, broker-dealers may decide not to connect to some 
+exchanges, and thus the costs, especially the upfront costs, of being an executing broker-dealer 
+may decrease.
+764 The Commission believes that high-volume brokers may continue to be better 
+positioned competitively compared to small broker-dealers, in part because broker-dealers 
+compete in other dimensions, such as by offering additional services bundled with execution. 
+ 
+763  See supra sections VI.C.3.a. and VI.C.3.c. The broker-dealer industry continues to be competitive, but it is 
+the Commission’s belief that the industry may become less competitive if the broker-dealer industry 
+continues the trend of increasing concentration. 
+764 See First TTR Transcript at 172-3 (Adam Nunes, Hudson River Trading).
+
+245 
+ 
+High-volume broker-dealers will likely continue to connect to all or almost all exchanges and 
+invest in the most sophisticated technology that allows them to minimize transaction costs and 
+maximize execution quality. 
+ 
+Removing the prohibition on locked and crossed markets is expected to increase 
+competition for liquidity provision by making it easier for liquidity providers to compete on 
+price. Allowing locked and crossed markets means that if a liquidity provider sees a profitable 
+opportunity to provide liquidity, but such provision would lock or cross the market, it would be 
+able to post the quote at the desired price. This increased competition to provide liquidity could 
+improve efficiency and liquidity on exchanges, which could allow exchanges to better compete 
+with off-exchange market makers for order flow, as extant research suggests that improved 
+market quality on exchanges is associated with more volume being routed to exchanges.
+765 
+ 
+To the extent that the Proposal results in improved liquidity, or improved price 
+efficiency, it could improve capital formation because both factors are associated with a decrease 
+in the cost of capital. By standard economic arguments, investors must be compensated for risk. 
+Liquidity risk is the risk that a stock may be illiquid when investors need to liquidate. Investors 
+are compensated for this risk in the form of higher returns which imply a higher cost of capital. 
+As liquidity risk diminishes, the compensation that investors need to hold the stock declines, 
+ 
+765  See, e.g., Albert J. Menkveld et al., Shades of Darkness: A Pecking Order of Trading Venues, 124 J. FIN. 
+ECON. 503 (2017).
+
+246 
+ 
+which implies a lower cost of capital. Thus, to the extent that liquidity improves, the cost of 
+capital may decline for stocks experiencing improved liquidity.766  
+Similarly, mispricing risk is the risk that a stock is not priced in accordance with its 
+fundamental value. Investors must be compensated for this risk in the form of a higher cost of 
+capital. Thus, to the extent that the Proposal improves price efficiency for some stocks it can 
+reduce the cost of capital for these stocks.
+767 
+ A lower cost of capital facilitates capital formation by making investment easier for 
+firms, and thus to the extent that the proposal improves liquidity or price efficiency it can 
+facilitate capital formation.  
+E. Reasonable Alternatives 
+ 
+As an alternative to rescinding Rule 611, the Commission could consider a minimum 
+volume threshold requirement for an automated trading center to qualify for having a protected 
+quote under Rule 611. Under this alternative, an automated trading center would be required to 
+have an average daily dollar trading volume of a certain percentage or more of the aggregate 
+average daily dollar volume for all NMS stocks as reported by an effective transaction reporting 
+plan over a set period, e.g., during four out of the preceding six calendar months. The volume 
+threshold across all NMS stocks, and not merely for a single NMS stock, is designed to help 
+ensure that the automated trading center has a large enough market share to support the costs 
+associated with the requirements to connect and route to the automated trading center to prevent 
+ 
+766  See, e.g., Yakov Amihud & Haim Mendelson, Asset Pricing and the Bid-Ask Spread, 17 J. FIN. ECON. 223 
+(1986); Ľuboš Pástor & Robert F. Stambaugh, Liquidity Risk and Expected Stock Returns, 111 J. POL. 
+ECON. 642 (2003). 
+767  See, e.g., Michael J. Brennan & Ashley W. Wang, The Mispricing Return Premium, 23 REV. FIN. STUD. 
+3437 (2010).
+
+247 
+ 
+trading-through its protected quote. Quotes from automated trading centers below the threshold 
+would continue to be disseminated via the SIP and could contribute to the NBBO for 
+transparency and benchmarking purposes, but they would not be protected. Brokers would not be 
+required to route to those automated trading centers to avoid trade-throughs, and intermarket 
+sweep order (ISO) obligations would not attach with respect to their displayed prices.  
+We believe that both the benefits and costs of this alternative would be lower than those 
+of the Proposal. Trading centers and broker-dealers would experience lower one-time 
+implementation costs to reprogram systems under this alternative. However, the reduction in 
+their ongoing compliance costs and the ongoing reduction in costs they experience from 
+simplified maintenance and updates of their order execution and SOR systems would be smaller. 
+They would still have to maintain policies and procedures and programming logic to prevent 
+trading through protected quotes on automated trading centers that meet the volume threshold. 
+Additionally, they may have to make updates to their systems to track which automated trading 
+centers have protected quotes and which ones do not. Therefore, market complexity may not be 
+significantly reduced under this alternative compared to the Proposal. 
+There would potentially be a smaller increase in the trade-through rate of displayed limit 
+orders compared to the Proposal, which could potentially lead to less of a reduction in displayed 
+liquidity and less investor confusion. Maintaining order protection at larger exchanges may also 
+reduce the migration of order flow to off-exchange venues, because market participants would 
+still be required to interact with the protected quotes on these exchanges before trading at worse 
+prices off exchange.   
+Institutional investors could experience a smaller increase in the execution quality of their 
+large orders compared to the Proposal. Although their orders could ignore the displayed quotes
+
+248 
+ 
+on smaller automated trading centers, they would still need to execute against the displayed 
+quotes on protected trading centers before “walking the book” on an exchange or trading outside 
+the protected quotes off exchange. This may increase their price impact and information leakage 
+relative to the Proposal, which could increase the overall execution cost of the larger parent 
+order. 
+Under this alternative, larger exchanges may gain more of a competitive advantage over 
+smaller exchanges and the barriers to entry for new exchanges may be higher compared to the 
+Proposal. Market participants would not be able to trade through protected quotes at larger 
+exchanges, even if a smaller exchange offered better overall execution quality for an order. This 
+may make market participants less likely to disconnect from larger exchanges and more likely to 
+disconnect from smaller, unprotected exchanges. Additionally, new exchanges would have to 
+wait for a period of at least four months to qualify for a protected quote after they initially hit the 
+volume threshold. Compared to the Proposal, this may reduce the incentives for market 
+participants to connect to a new exchange when it firsts starts, raising the barriers to entry. 
+The Commission could vary the costs and benefits of this alternative by varying the 
+market volume threshold, which would increase or decrease the number of automated trading 
+centers that qualify to have a protected quote. For example, if the Commission set the threshold 
+at 1% of average dollar volume, then 7 exchanges would have a protected quote under this 
+alternative.
+768 If the Commission set the threshold higher, e.g., 2% of average dollar volume, 
+then only 6 exchanges would have a protected quote. A higher threshold would result in this 
+ 
+768   This estimate is based on CBOE Market V olume Data from September 2025 – February 2026. Exchanges 
+were identified as being eligible for a protected quote if their average daily dollar trading volume was 1% 
+or more of the average daily dollar market trading volume during at least four of the six months in the 
+sample period. See supra note 442 for more information in CBOE Market V olume data.
+
+249 
+ 
+alternative having benefits and costs more similar to the Proposal, while a lower threshold would 
+result in lower benefits and costs compared to the Proposal. 
+ 
+As an alternative to rescinding Rule 611, the Commission could consider adding an 
+exception to Rule 611 for large trades of institutional size. This exception would give trading 
+centers and broker-dealers more flexibility to negotiate large block crosses that do not fit one of 
+the other current exceptions to Rule 611, such as trades executed at benchmark prices (e.g., 
+VWAP or TWAP) or block crosses executed with an ISO sweep of protected quotes. 
+Under this alternative, market participants would not experience most of the costs and 
+benefits discussed in the Proposal. Institutional investors would experience some improvement in 
+the execution quality of their large orders compared to the baseline, but it would be less 
+improvement than they would experience under the Proposal (i.e., institutional investors would 
+experience lower execution quality in this alternative compared to the Proposal). Institutional 
+orders would have less flexibility in executing child orders, because smaller child orders would 
+still be limited in their ability to trade through protected quotes. This may result in higher price 
+impact and greater information leakage compared to the Proposal. Additionally, trading centers 
+and broker dealers may incur costs to modify their systems to incorporate the new exception, but 
+these costs would be small compared to the costs of the systems modifications they would make 
+under the Proposal. 
+ 
+The Commission could rescind only the prohibition on locked markets, while leaving in 
+place the prohibition on crossed markets. Due to the existence of rebates, a stock that has a zero 
+quoted spread, i.e., a stock with a locked market, may be an economically competitive and stable
+
+250 
+ 
+outcome since the liquidity providers may still earn the rebate on a maker/taker exchange 
+resulting in an economic spread that is greater than zero. Compared to the Proposal, this 
+alternative could have the benefit of reducing any confusion associated with crossed markets, 
+while still providing an improved pricing lattice, relative to the baseline, on which liquidity 
+providers can transact.  
+This alternative would also be associated with lower benefits in terms of reduced ongoing 
+compliance costs for broker-dealers and for exchanges compared to the Proposal. This is because 
+prohibiting crossed markets but allowing locked markets would require exchanges and broker-
+dealers to modify existing systems that currently ensure compliance with the prohibition on 
+locked and crossed markets, but they could not do away with such systems entirely as would be 
+the case with the Proposal. Keeping these systems in place, even if modifying them to allow for 
+locked markets but prohibiting crossed markets, would not be expected to result in the reduction 
+of significant compliance costs.  
+F. Request for Comment 
+34. Do commenters agree with the Commission’s qualitative and quantitative baseline 
+descriptions of the economic effects of Rule 611, Rule 610(e), and the structure of 
+trading for NMS stocks? Why or why not? 
+35. How do trading centers and broker-dealers routing orders surveil for compliance with 
+Rule 611? How does this vary based on the size of the trading center or broker-
+dealer? To what degree is this integrated with surveillance for compliance with other 
+SEC or SRO rules? Please explain. Please provide estimates of the costs trading 
+centers and broker-dealers incur to surveil for compliance with Rule 611. To what 
+degree are these costs separate or integrated with the costs associated with 
+surveillance for compliance with other SEC or SRO rules?
+
+251 
+ 
+36. Do commenters agree with the Commission’s baseline description of exchange 
+policies and procedures for posting odd-lot and round-lot quotes that may lock or 
+cross a protected quote? Why or why not? Please explain. 
+37. Do commenters agree with the Commission’s baseline description of how exchanges, 
+ATSs, and SDPs handle executions when the NBBO is locked or crossed? Why or 
+why not? Please explain. 
+38. Do commenters agree with the Commission’s assessment of how Rule 611 impacts 
+the handling of institutional orders? How does Rule 611 affect the execution costs of 
+institutional orders? How do the exceptions to Rule 611 impact the costs of executing 
+institutional orders? Please provide conceptual and quantitative context.  
+39. Do commenters agree with the Commission baseline description of the price 
+improvement wholesalers provide to marketable retail orders? Why or why not? 
+Please explain. 
+40. Do commenters agree with the Commission baseline description of how wholesalers 
+handle and internalize marketable retail orders? Why or why not? Please explain. 
+41. Do commenters agree with the Commission baseline description of how retail brokers 
+evaluate and route orders to wholesalers? Why or why not? Please explain. 
+42. Do commenters agree with the Commission baseline description of the effects Rule 
+611 has on how wholesalers handle and execute marketable and non-marketable retail 
+orders? Why or why not? Please explain. 
+43. Do commenters agree with the Commission baseline description of the effects Rule 
+611 has on displayed liquidity? Why or why not? Please explain.
+
+252 
+ 
+44. Do commenters agree with the Commission baseline description of the effects Rule 
+611 and Rule 610(e) have on market complexity? Why or why not? Please explain. 
+45. Do commenters agree with the Commission’s estimates of the cost to subscribe to 
+market data from all exchanges? Why or why not? Please explain and provide 
+conceptual and quantitative context. 
+46. Do commenters agree with the Commission's assumption that market participants 
+would have about 2 use cases for market data? Why or why not? Please explain and 
+provide conceptual and quantitative context. 
+47. Do commenters agree with the estimate by a commenter of $200,000 ongoing 
+maintenance costs per exchange and $1.5 million upfront costs to connect to a new 
+exchange? Why or why not? Please explain and provide conceptual and quantitative 
+context. 
+48. Do commenters have an estimate of the “interference cost” from not connecting to an 
+exchange currently? 
+49. How has Rule 611 affected the fragmentation of displayed liquidity? How have other 
+factors, such as exchange proliferation, technological advances and electronification 
+of trading, changes in transaction costs, SIP revenue allocation, the SRO rule filing 
+process, etc., affected the fragmentation displayed liquidity? Please explain and 
+provide conceptual and quantitative context. 
+50. How has Rule 611 affected overall market fragmentation, including off-exchange 
+trading? How have other factors, such as exchange proliferation, technological 
+advances and electronification of trading, changes in transaction costs, SIP revenue 
+allocation, the SRO rule filing process, etc., affected overall market fragmentation,
+
+253 
+ 
+including off-exchange trading? Please explain and provide conceptual and 
+quantitative context. 
+51. How have Rule 611 and Rule 610(e) affected exchange innovation? How have other 
+factors, such as fair access requirements, limitations on segmentation, the SRO rule 
+filing process, etc., affected exchange innovation? Please explain and provide 
+conceptual and quantitative context. 
+52. Do commenters agree with the Commission’s assessment of the benefits and costs of 
+the rescission of Rule 611? Why, or why not? Please explain. 
+53. Do commenters agree with the Commission’s assessment of the compliance costs 
+savings for trading centers and broker-dealers operating SORs from rescinding Rule 
+611? Why, or why not? Please explain and provide estimates of these cost savings. 
+54. Do commenters agree with the Commission’s assessment that rescinding Rule 611 
+will reduce institutional investor execution costs? What will be the magnitude of any 
+reduction in institutional investor execution costs if Rule 611 is rescinded? Please 
+explain and provide conceptual and quantitative context. 
+55. Will there be an increase in the rate that institutional orders trade through the NBBO 
+if Rule 611 is rescinded? If so, how much will the trade-through rate increase? Please 
+explain and provide conceptual and quantitative context. 
+56. Do commenters agree with the Commission’s assessment of the effects rescinding 
+Rule 611 will have on the execution quality of marketable retail orders? Why, or why 
+not? Please explain and provide conceptual and quantitative context.
+
+254 
+ 
+57. Do commenters agree with the Commission’s assessment of the effects rescinding 
+Rule 611 will have on the execution quality of non-marketable retail orders? Why, or 
+why not? Please explain and provide conceptual and quantitative context.   
+58. Do commenters agree with the Commission’s assessment of the effects rescinding 
+Rule 611 will have on displayed liquidity? Why, or why not? Please explain and 
+provide conceptual and quantitative context.  
+59. Do commenters believe more trading will occur off exchange if Rule 611 is 
+rescinded? Why, or why not? Please explain and provide conceptual and quantitative 
+context.  
+60. Do commenters agree with the Commission’s assessment of the benefits and costs of 
+the rescission of Rule 610(e)? Why, or why not? Please explain. 
+61. Do commenters agree with the Commission’s assessment of the compliance costs 
+savings for exchanges and broker-dealers operating SORs from rescinding Rule 
+610(e)? Why, or why not? Please explain and provide estimates of these cost savings. 
+62. Does the Economic Analysis in this release account for all compliance costs? If not, 
+what other compliance costs would market participants or exchanges incur? Please 
+provide estimates of the additional compliance costs that you believe should be 
+considered. 
+63. Do commenters agree with our assessment that rescinding Rule 611 and Rule 610(e) 
+will reduce market complexity? Why, or why not? Please explain and provide 
+conceptual and quantitative context.
+
+255 
+ 
+64. Will rescinding Rule 611 increase exchange innovation?  Will rescinding Rule 611 
+increase ATS innovation? Why, or why not? Please explain and provide conceptual 
+and quantitative context.  
+65. Do commenters agree with our assessment that rescinding Rule 611 and Rule 610(e) 
+will reduce the time it takes trading centers and broker dealers with SORs to regularly 
+update their trade execution and SOR systems?  Is the Commission’s estimate that it 
+will reduce the time to update these systems by 5%-10% reasonable? If not, how 
+much time will it save? Do commenters agree with our estimates of the annual 
+savings this will provide to exchanges, ATSs, OTC market makers, and broker-
+dealers operating SORs?  Why, or why not? Please explain and provide estimates of 
+these cost savings. 
+66. Do commenters agree with our assessment of the implementation costs trading 
+centers and broker-dealers with SOR systems will incur if Rule 611 and Rule 610(e) 
+are rescinded? Why, or why not? Please explain and provide estimates of these 
+implementation costs. 
+67. Do commenters agree with our estimate of the costs to maintain a SOR associated 
+with one exchange? Why or why not? Please explain. 
+68. Do commenters think that prices for market data and connectivity may decrease? By 
+how much? Do commenters think that new exchanges will charge lower prices for 
+longer? 
+69. Will broker-dealers update their best execution policies and procedures if Rule 611 is 
+rescinded? If so, how many broker-dealers will update their best execution policies 
+and procedures? Do you agree with the Commission’s estimate of how much it will
+
+256 
+ 
+cost each broker-dealer that chooses to update their best execution policies and 
+procedures?  Why or why not? Please explain and provide estimates of these costs. 
+70. Do commenters agree that third-party vendors may gain revenue? Do commenters 
+agree that the gain in revenue as a result of users subscribing to more third-party 
+vendors (rather than disconnecting from exchanges) would be larger than the loss of 
+revenue as a result of users that currently subscribe to third-party vendors 
+disconnecting from exchanges? 
+71. Do commenters agree that disconnections may occur at small independent exchanges 
+and with our estimate of the number of broker-dealers that will disconnect from 
+exchanges and discontinue exchange memberships as a result of the proposed 
+amendments, and our estimate of the resulting economic effects? Why or why not? 
+72. Do commenters believe that broker-dealers may modify their market activity by 
+trading more or less on some exchanges to which they maintain a connection? Why or 
+why not? 
+73. Do commenters agree that displayed liquidity fragmentation may decrease? Why or 
+why not? 
+74. Do commenters agree that no exchanges will exit and that new exchanges may still 
+enter, but that new and small exchanges may have more difficulty gaining market 
+share? Why or why not? 
+75. Do commenters agree with our estimate of the cost to modify SORs following a 
+disconnection?
+
+257 
+ 
+76. Does the Economic Analysis in this release account for all relevant costs? If not, 
+which other costs should the economic analysis consider? Please provide estimates of 
+additional costs, other than compliance costs, that you believe should be considered. 
+77. Do commenters agree with the Commission’s assessment of how the Proposed Rule 
+would impact efficiency, competition, and capital formation? Why, or why not? 
+Please explain. 
+78. Do commenters agree with the Commission’s analysis of the benefits and costs of the 
+reasonable alternatives to the Proposed Rule? Why, or why not? Please explain. 
+79. Are there any additional reasonable alternatives the Commission should consider? If 
+so, please describe that alternative and provide the benefits and costs of that 
+alternative relative to the baseline and to the proposal. 
+80. If SROs rescinded their own rules relating to locked and crossed market prohibitions, 
+what would the reduction in compliance costs be for SROs and other market 
+participants? Are there other SRO rules that should be rescinded or modified if Rule 
+610(e) is rescinded? 
+VII. Regulatory Flexibility Act Certification  
+The Regulatory Flexibility Act (“RFA”)
+769 requires Federal agencies, in promulgating 
+rules, to consider the impact of those rules on small entities. Section 603(a)770 of the 
+Administrative Procedure Act,771 as amended by the RFA, generally requires the Commission to 
+undertake a regulatory flexibility analysis of all proposed rules, or proposed rule amendments, to 
+ 
+769  5 U.S.C. 601 et seq. 
+770  5 U.S.C. 603(a). 
+771  5 U.S.C. 551 et seq.
+
+258 
+ 
+determine the impact of such rulemaking on “small entities.”772 Section 605(b) of the RFA states 
+that this requirement shall not apply to any proposed rule or proposed rule amendment which, if 
+adopted, would not have a significant economic impact on a substantial number of small 
+entities.773 
+The Commission is proposing to rescind Rule 611 and Rule 610(e). Rescinding Rule 611 
+would eliminate requirements for trading centers, which includes national securities exchanges, 
+NMS stock ATSs, exchange market makers, OTC market makers, and other broker-dealers 
+executing orders internally by trading as principal or crossing orders as agent. The rescission 
+would also result in non-trading center broker-dealers that operate SORs no longer using ISOs 
+and vendors making systems modifications to support the rescission of Rule 611. Rescinding 
+Rule 610(e) would remove the rule’s requirements for national securities exchanges and national 
+securities associations.  
+For purposes of Commission rulemaking in connection with the RFA, the Commission’s 
+definition of a small entity includes an exchange that has been exempt from the reporting 
+requirements of Rule 601 of Regulation NMS, and is not affiliated with any person (other than a 
+natural person) that is not a small business or small organization.774 Applying this test, no 
+ 
+772  Although section 601(b) of the RFA defines the term “small entity,” the statute permits agencies to 
+formulate their own definitions. The Commission has adopted definitions for the term “small entity” for 
+purposes of Commission rulemaking in accordance with the RFA. Those definitions, as relevant to this 
+proposed rulemaking, are set forth in 17 CFR 240.0-10 (“Rule 0-10”). 
+773  See 5 U.S.C. 605(b). 
+774  See 17 CFR 240.0-10(e) (providing that when used with reference to an exchange, means any exchange 
+that: (1) has been exempted from the reporting requirements of Rule 601; and (2) is not affiliated with any 
+person (other than a natural person) that is not a small business or small organization); see also 17 CFR 
+240.0-10(i) (providing that a person is affiliated with another person if that person controls, is controlled 
+by, or is under common control with such other person; and a person shall be deemed to control another 
+person if that person has the right to vote 25% or more of the voting securities of such other person or is 
+entitled to receive 25% or more of the net profits of such other person or is otherwise able to direct or cause 
+the direction of the management or policies of such other person).
+
+259 
+ 
+national securities exchange is a small entity. The only national securities association is also not 
+a “small entity.”775  
+For purposes of Commission rulemaking in connection with the RFA, a small entity 
+includes a broker or dealer that: (1) had total capital (net worth plus subordinated liabilities) of 
+less than $500,000 on the date in the prior fiscal year as of which its audited financial statements 
+were prepared pursuant to Rule 17a-5(d) under the Exchange Act,
+776 or, if not required to file 
+such statements, a broker-dealer with total capital (net worth plus subordinated liabilities) of less 
+than $500,000 on the last business day of the preceding fiscal year (or in the time that it has been 
+in business, if shorter); and (2) is not affiliated with any person (other than a natural person) that 
+is not a small business or small organization.
+777 Applying this test and based on a review of data 
+relating to broker-dealers,778 the Commission estimates, as discussed below, that of the 312 
+trading centers that are broker-dealers and currently subject to Rule 611, only one would be a 
+“small entity” and also in the scope of the rules the Commission is proposing to rescind.779 With 
+respect to non-trading center broker-dealers, the Commission estimates that none of the broker-
+ 
+775  See 13 CFR 121.201. 
+776  17 CFR 240.17a-5(d). 
+777  See 17 CFR 240.0–10(c); see also 17 CFR 240.0-10(i) (providing that a broker or dealer is affiliated with 
+another person if: such broker or dealer controls, is controlled by, or is under common control with such 
+other person; a person shall be deemed to control another person if that per son has the right to vote 25% or 
+more of the voting securities of such other person or is entitled to receive 25% or more of the net profits of 
+such other person or is otherwise able to direct or cause the direction of the management or policies of such 
+other person; or such broker or dealer introduces transactions in securities, other than registered investment 
+company securities or interests or participations in insurance company separate accounts, to such other 
+person, or introduces accounts of customers or other brokers or dealers, other than accounts that hold only 
+registered investment company securities or interests or participations in insurance company separate 
+accounts, to such other person that carries accounts on a fully disclosed basis).  
+778  The Commission considered FOCUS data and information about broker-dealers made publicly available by 
+FINRA through reports available at https://brokercheck.finra.org/. 
+779  At the time Rules 611 and 610(e) were adopted, the Commission certified that these rules would not have a 
+significant economic impact on a substantial number of small entities. See NMS Adopting Release at 
+37598-99.
+
+260 
+ 
+dealers operating SORs and using ISOs to comply with Rule 611 would be small entities for 
+purposes of the RFA.780  
+With respect to vendors, as defined in Rule 600(b)(111),781 a “small entity” includes a 
+securities information processor that: (1) had gross revenues of less than $10 million during the 
+preceding fiscal year (or in the time it has been in business, if shorter); (2) provided service to 
+fewer than 100 interrogation devices or moving tickers at all times during the preceding fiscal 
+year (or in the time that it has been in business, if shorter); and (3) is not affiliated with any 
+person (other than a natural person) that is not a small business or small organization under this 
+section.
+782 The Commission estimates that 13 of the 80 vendors including data related to Rule 
+611 would be small entities for purposes of the RFA. 
+Based on this analysis, the Commission believes that rescission of these rules, and the 
+amendments to rules to remove definitions and administrative rules relevant to Rules 611 and 
+610(e),783 correspondingly would not have a significant impact on a substantial number of small 
+entities.  
+ 
+780  The Commission has based this estimate on data from the consolidated audit trail for November 2025. 
+781  Regulation NMS Rule 600(b)(11) defines vendor as any securities information processor engaged in the 
+business of disseminating transaction reports, last sale data, or quotations with respect to NMS securities to 
+brokers, dealers, or investors on a real-time or other current and continuing basis, whether through an 
+electronic communications network, moving ticker, or interrogation device. 
+782  17 CFR 240.0-10(g). 
+783  These changes include proposed rescission of Rule 600(b)(105), defining “trade-through”; Rule 600(b)(81), 
+defining “protected bid or protected offer”; Rule 600(b)(82), defining “protected quotation”; Rule 
+600(b)(54), defining “manual quotation”; Rules 600(b)(6) and (7), which define the terms “automated 
+quotation” and “automated trading center,” respectively; and Rule 600(b)(47), which defines the term 
+“intermarket sweep order”; removing “protected quotation” from Rule 610(c) of Regulation NMS; and 
+changing two administrative rules to: (1) remove paragraph (82) from Rule 30-3, which delegates to the 
+Director the ability to grant or deny exemptions from Rule 611 pursuant to Rule 611(d); and (2) remove 
+references to Rule 611 and its related OMB control number from Rule 800, which sets forth the current 
+control numbers assigned to information collection requirements of the Commission by the Office of 
+Management and Budget pursuant to the Paperwork Reduction Act of 1995. See section IV .B.2.
+
+261 
+ 
+The Commission is also proposing to amend the definition of “core data” in Rule 
+600(b)(26) to eliminate the reference to “protected bid and protected offer” and the definition of 
+“regulatory data” in Rule 600(b)(89) to eliminate the reference to “trade-through exempt 
+indicators.”784 The Commission added these definitions in connection with the adoption of 
+market data infrastructure rules.785 The Commission certified that the adopted rules would not 
+have a significant economic impact on a substantial number of small entities for purposes of the 
+RFA for the reason that none of the entities subject to the adopted rules were small entities.
+786 As 
+a result, the Commission preliminarily estimates that none of the entities that would be affected 
+by the elimination of terms related to Rules 611 and 610(e) from the definitions of “core data” 
+and “regulatory data” are small entities.  
+The Commission also proposes to amend Rule 15c3-5 to remove the language excepting 
+a broker-dealer routing orders for the purpose of accessing other trading centers with protected 
+quotations in compliance with Rule 611 from the requirements of the rule. The Commission 
+preliminarily estimates that none of the broker-dealers that route orders to comply with Rule 611 
+are small entities
+787 for the purposes of the Regulatory Flexibility Act.  
+Finally, the Commission proposes to amend Rule 15b9-1 to remove an exemption from 
+becoming a member of a registered national securities association for broker-dealers that effect 
+off-member-exchange securities transactions that result from orders that are routed by an 
+exchange in order to comply with Rule 611.788 This exemption was adopted as part of 
+ 
+784  See supra section IV.B.2.  
+785  See Market Data Infrastructure Adopting Release. 
+786  See id. at 18808-09. See also 17 CFR 240.0-10(e) and (g).  
+787  17 CFR 240.0-10(c). 
+788  See supra section IV .B.3.
+
+262 
+ 
+amendments to Rule 15b9-1 that narrowed the criteria by which a Commission-registered 
+broker-dealer could be exempted from becoming a member of a registered national securities 
+association.789 At the time of adoption, the Commission certified that the amendments to Rule 
+15b9-1 would not have a significant economic impact on a substantial number of small entities 
+because no more than three small firms could be significantly impacted by the narrowed 
+exemptions (i.e., they could be required to become a member of FINRA if they did not qualify 
+for one of the adopted exemptions).790 Based on this analysis, the Commission believes that no 
+more than three small entities are potentially relying on the exemption that the Commission is 
+proposing to remove. The Commission believes that the proposed elimination of one of the Rule 
+15b9-1 exemptions would significantly impact no more than three small entities, and therefore, 
+would not have a significant economic impact on a substantial number of small entities.    
+For the above reasons, the Commission certifies that the proposed rescissions and the 
+proposed related amendments would not have a significant economic impact on a substantial 
+number of small entities for purposes of the RFA. 
+The Commission invites commenters to address whether the proposed rules would have a 
+significant economic impact on a substantial number of small entities, and, if so, what would be 
+the nature of any impact on small entities. The Commission requests that commenters provide 
+empirical data to support the extent of such impact. 
+ 
+789  See Securities Exchange Act Release No. 98202, 88 FR 61850 (Sept. 7, 2023) (Exemption for Certain 
+Exchange Members). 
+790  See id. at 61892-93. See also 17 CFR 240.0-10(c).
+
+263 
+ 
+VIII. Congressional Review Act 
+For purposes of Subtitle E of the Small Business Regulatory Enforcement Fairness Act of 
+1996 (also known as the Congressional Review Act),791 the Commission must seek OMB’s 
+determination as to whether a final regulation constitutes a “major rule”. Under the 
+Congressional Review Act, a rule is considered “major” where, if adopted, it results in or is 
+likely to result in:  
+• An annual effect on the economy of $100 million or more;  
+• A major increase in costs or prices for consumers or individual industries; or  
+• Significant adverse effects on competition, investment, or innovation.792   
+To help inform OMB’s determination as to whether any final rule that results from the 
+proposal would be a “major rule,” the Commission solicits comment and data on:  
+• The potential effect on the U.S. economy on an annual basis; 
+• Any potential increase in costs or prices for consumers or individual industries; 
+and 
+• Any potential effect on competition, investment, or innovation. 
+Commenters are requested to provide empirical data and other factual support for their 
+views to the extent possible. 
+IX. Other Matters 
+This action is an economically significant regulatory action under section 3(f)(1) of 
+Executive Order 12866 and has been reviewed by OMB, consistent with Executive Order 14215. 
+ 
+791  See 5 U.S.C. chapter 8. 
+792  See 5 U.S.C. 804(2) defining “major rule.”
+
+264 
+ 
+This action, if finalized as proposed, is expected to be an Executive Order 14192 deregulatory 
+action.  
+Statutory Authority 
+Pursuant to the Exchange Act, and particularly sections 2, 3(b), 5, 6, 11, 11A, 15, 15A, 
+17, 19, 23(a), and 36 thereof, 15 U.S.C. 78b, 78c, 78e, 78f, 78k, 78k-1, 78o, 78o-3, 78q, 78s, 
+78w(a), and 78mm, the Commission proposes to amend sections 240.15b9-1, 240.15c3-5, 
+242.600, 242.610, and 242.611 of Chapter II of Title 17 of the Code of Federal Regulations.  
+List of Subjects in 17 CFR Parts 240 and 242 
+Brokers, Reporting and recordkeeping requirements, Securities. 
+Text of Rule Amendments 
+ For the reasons stated in the preamble, the Commission is proposing to amend Title 17, 
+Chapter II of the Code of Federal Regulations as follows: 
+PART 240–GENERAL RULES AND REGULATIONS, SECURITIES EXCHANGE ACT 
+OF 1934  
+ 
+1. The authority citation for part 240 continues to read in part as follows: 
+Authority: 15 U.S.C. 77c, 77d, 77g, 77j, 77s, 77z-2, 77z-3, 77eee, 77ggg, 77nnn, 77sss, 
+77ttt, 78c, 78c-3, 78c-5, 78d, 78e, 78f, 78g, 78i, 78j, 78j-1, 78j-4, 78k, 78k-1, 78l, 78m, 78n, 
+78n-1, 78o, 78o-4, 78o-10, 78p, 78q, 78q-1, 78s, 78u-5, 78w, 78x, 78dd, 78ll, 78mm, 80a-20, 
+80a-23, 80a-29, 80a-37, 80b-3, 80b-4, 80b-11, 1681w(a)(1), 6801-6809, 6825, 7201 et seq., and 
+8302; 7 U.S.C. 2(c)(2)(E); 12 U.S.C. 5221(e)(3); 18 U.S.C. 1350; and Pub. L. 111-203, 939A, 
+124 Stat. 1376 (2010); and Pub. L. 112-106, sec. 503 and 602, 126 Stat. 326 (2012), unless 
+otherwise noted. 
+* * * * * 
+2. Amend §240.15b9-1 by revising paragraph (c)(1) to read as follows:
+
+265 
+ 
+§ 240.15b9-1 Exemption for certain exchange members. 
+* * * * * 
+(c) * * * 
+(1) A broker or dealer may effect transactions in securities otherwise than on a national 
+securities exchange of which the broker or dealer is a member that result solely from orders that 
+are routed by a national securities exchange of which the broker or dealer is a member to comply 
+with the Options Order Protection and Locked/Crossed Market Plan; or 
+* * * * * 
+3. Amend §240.15c3-5 by revising paragraph (b) to read as follows: 
+§ 240.15c3-5 Risk management controls for brokers or dealers with market access. 
+* * * * * 
+(b) A broker or dealer with market access, or that provides a customer or any other 
+person with access to an exchange or alternative trading system through use of its market 
+participant identifier or otherwise, shall establish, document, and maintain a system of risk 
+management controls and supervisory procedures reasonably designed to manage the financial, 
+regulatory, and other risks of this business activity. Such broker or dealer shall preserve a copy 
+of its supervisory procedures and a written description of its risk management controls as part of 
+its books and records in a manner consistent with § 240.17a-4(e)(7). A broker-dealer that routes 
+orders on behalf of an exchange or alternative trading system for the purpose of accessing other 
+trading centers in compliance with a national market system plan for listed options shall not be 
+required to comply with this rule with regard to such routing services, except with regard to 
+paragraph (c)(1)(ii) of this section. 
+* * * * *
+
+266 
+ 
+PART 242 – REGULATIONS M, SHO, ATS, AC, NMS, SE, AND SBSR, AND 
+CUSTOMER MARGIN REQUIREMENTS FOR SECURITY FUTURES  
+ 
+4. The authority citation for part 242 continues to read as follows:  
+Authority: 15 U.S.C. 77g, 77q(a), 77s(a), 78b, 78c, 78c-4, 78g(c)(2), 78i(a), 78j, 78k-
+1(c), 78l, 78m, 78n, 78o(b), 78o(c), 78o(g), 78q(a), 78q(b), 78q(h), 78w(a), 78dd-1, 78mm, 80a-
+23, 80a-29, 80a-37, and 8343.  
+5. Amend §242.600 by: 
+a. Removing and reserving paragraph (b)(6); 
+b. Removing and reserving paragraph (b)(7); 
+c. In paragraph (b)(26)(i), removing paragraph (E) and redesignating paragraphs (F) 
+through (J) as paragraphs (E) through (I);  
+d. In paragraphs (b)(26)(ii), (iii) and (iv), removing the text “protected bid and protected 
+offer”;  
+e. Removing and reserving paragraph (b)(47); 
+f. Removing and reserving paragraph (b)(54);  
+g. Revising paragraph (b)(72) to read as follows: 
+(b) * * * 
+(72) Order size benchmark means the number of shares of the full displayed size of all 
+bids disseminated pursuant to an effective national market system plan at the same price as the 
+national best bid at the time of order receipt, in the case of a market or limit order to sell, or the 
+full displayed size of all offers disseminated pursuant to an effective national market system plan 
+at the same price as the national best offer at the time of order receipt, in the case of a market or 
+limit order to buy. For midpoint-or-better limit orders, the full displayed size should be measured
+
+267 
+ 
+at the time the order becomes executable rather than the time of order receipt. For each order, the 
+share count shall be capped at the order size. 
+* * * * * 
+h. Removing and reserving paragraph (b)(81); 
+i. Removing and reserving paragraph (b)(82); 
+j. In paragraph (b)(89)(ii)(B), removing the text “and trade-though exempt;”; and 
+k. Removing and reserving paragraph (b)(105). 
+6. Amend §242.610 by: 
+a. In paragraph (c), removing the text “protected quotation of the trading center or against 
+any other”; 
+b. In paragraphs (c)(1) and (c)(2), removing the text “protected quotation or other”; and 
+c. Removing and reserving paragraph (e). 
+7. Remove and reserve § 242.611. 
+  By the Commission. 
+ 
+Dated: June 11, 2026. 
+ 
+J. Matthew DeLesDernier, 
+Deputy Secretary.

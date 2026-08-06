@@ -1,0 +1,47 @@
+# Pénalité administrative pécuniaire imposée à Wealth One Bank of Canada
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du
+Canada](/intro-fra) (CANAFE)
+
+[**2023-03-06**]
+
+Wealth One Bank of Canada, une banque établie à Toronto, en Ontario, s'est vu imposer une pénalité de 676 500 $
+le 15 février 2023 pour avoir commis 4 violations administratives. Ces lacunes administratives ne sont pas liées à des infractions de blanchiment d’argent ou de financement du terrorisme et ont été observées dans le cadre d’un examen de conformité réalisé en 2022. La pénalité administrative pécuniaire a été payée intégralement par Wealth One Bank et le dossier est clos.
+
+## Nature de la violation
+
+Violation no 1
+:   **Fait de ne pas élaborer et de ne pas appliquer des principes et des mesures de conformité écrits qui
+    sont mis à jour et, dans le cas d'une entité, approuvés par un de ses dirigeants – alinéa 156(1)b) du
+    Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+      
+      
+    Les politiques et procédures en matière de conformité de Wealth One Bank of Canada ne remplissaient pas
+    suffisamment les exigences relatives aux directives
+    ministérielles et au contrôle continu des relations d'affaires, et n’ont pas été appliquées de manière
+    consistante par rapport à la tenue de documents.
+
+    Violation no 2
+    :   **Fait de ne pas évaluer les risques de blanchiment d'argent ou de financement des activités terroristes et de ne pas conserver les documents à l'appui en tenant compte des critères prévus par règlement – alinéa 156(1)c) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+          
+          
+        L’évaluation des risques de Wealth One Bank of Canada n’a pas tenu compte pleinement des risques de blanchiment d’argent ou de financement des activités terroristes liés à ses produits, à ses modes de prestation, et à ses emplacements géographiques.
+
+    Violation no 3
+    :   **Fait de ne pas établir un mécanisme d'examen et de ne pas conserver les documents à l'appui – alinéa 156(1)f) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+          
+          
+        L'examen prévu par règlement de Wealth One Bank of Canada n'a pas évalué l'efficacité de certaines obligations relatives à la tenue de documents.
+
+    Violation no 4
+    :   **Fait de ne pas déclarer des opérations douteuses – article 7 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+          
+          
+        Wealth One Bank of Canada n'a pas soumis de déclarations d'opérations douteuses relativement à des opérations à l'égard desquelles elle avait des motifs raisonnables de soupçonner qu'elles étaient liées à la perpétration d'une infraction de recyclage des produits de la criminalité.
+
+## Lien connexe
+
+* [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à Wealth One Bank of Canada](/new-neuf/nr/2023-03-06-fra)
+
+Date de modification :
+:   2023-03-06

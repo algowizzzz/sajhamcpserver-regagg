@@ -1,0 +1,25 @@
+Page Content
+
+* ​Market participants to provide evidence on the integration of sustainability risks in investment and underwriting practices
+* Call for Evidence part of EIOPA's action plan on sustainable finance.
+
+The European Insurance and Occupational Pensions Authority (EIOPA) today issued a Call for Evidence to collect information from market participants on the integration of sustainability risks and factors in the prudential assessment of assets and liabilities for insurers and (re)insurers.
+
+In its call for Opinion, the European Commission asked EIOPA to assess whether Solvency II presents any inherent incentives and/or disincentives to sustainable investment.
+
+With this Call for Evidence EIOPA will analyse how sustainability risks affect (re)insurers' investments, with particular focus on climate change and collect market practices on insurance underwriting.
+
+To support EIOPA's analysis, National Competent Authorities will collect information from individual undertakings within their jurisdiction.
+
+Based on the collected evidence and analysis EIOPA will prepare the draft Opinion for consultation during the second half of 2019 for submission to the European Commission in Q3/2019.
+
+The deadline for submission to this Call for Evidence is Friday, 8 March 2019 at 23:59 hrs (CET). Submissions received after this deadline will not be considered.
+
+Further details about EIOPA's Action Plan can be obtained [here](https://www.eiopa.europa.eu/browse/sustainable-finance_en).
+
+Publication date
+:   16 January 2019
+
+## Related links
+
+[EC call for Opinion on integration of sustainability risks in Solvency II](/document/download/e060ac6a-219f-4bd0-a496-9778453c3db2_en?filename=EC%20call%20for%20Opinion%20on%20integration%20of%20sustainability%20risks%20in%20Solvency%20II.pdf)

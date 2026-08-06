@@ -1,0 +1,1 @@
+Summary: # AI-designed fashion gives boost to Japan apparel giant World

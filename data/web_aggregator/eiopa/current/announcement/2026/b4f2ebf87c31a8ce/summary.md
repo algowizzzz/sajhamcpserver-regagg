@@ -1,0 +1,1 @@
+Summary: The increasing frequency and sophistication of cyber-attacks and the continued digital transformation also make insurers increasingly prone to cyber threats, as more and more insurance undertakings are embracing new technologies and making use of big data.

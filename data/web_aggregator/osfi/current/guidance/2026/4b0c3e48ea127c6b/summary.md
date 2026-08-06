@@ -1,0 +1,1 @@
+Summary: # Liquidity Adequacy Requirements (LAR) (2027) Chapter 2 – Liquidity Coverage Ratio

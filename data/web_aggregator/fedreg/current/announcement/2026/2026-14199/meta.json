@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14199",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as modified by Amendment No. 1, To Establish a Package of Complimentary Services",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/15/2026-14199/self-regulatory-organizations-nasdaq-texas-llc-notice-of-filing-of-amendment-no-1-and-order-granting",
+  "reference_number": "2026-14199",
+  "published_date": "2026-07-15",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c1ec1974bbf0470496946e0d9393aa88530df5af58845d7a5f6c280d601bcc40",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14199",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "b046daaa202468d8",
+  "regulator_id": "yahoo_finance",
+  "doc_type": "news_story",
+  "title": "Is Intercontinental Exchange (ICE) a Buying Opportunity After Its 22% Drop?",
+  "language": "en",
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-buying-opportunity-161648534.html",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a6b0caf6d729507a10848d810c43a30921fab88a3db09a89be5e58cca8998acb",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_yahoo_finance_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/yahoo_finance/current/news_story/2026/b046daaa202468d8",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-buying-opportunity-161648534.html",
+  "fetch_method": "feed_summary"
+}

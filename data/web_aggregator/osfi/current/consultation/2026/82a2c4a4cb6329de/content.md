@@ -1,0 +1,299 @@
+# Questionnaire d’autoévaluation sur l’état de préparation à la ligne directrice B-15 : rapport « Ce que nous avons appris »
+
+## Sur cette page
+
+## Sommaire
+
+En mars 2023, le BSIF a publié la ligne directrice B-15, [Gestion des risques climatiques](/fr/consignes/repertoire-consignes/gestion-risques-climatiques "Gestion des risques climatiques"), qui donne aux institutions financières fédérales (IFF) des consignes sous forme de principes pour gérer les risques climatiques. En mai, il leur a envoyé un questionnaire d’autoévaluation pour connaître l’état de préparation des IFF à répondre aux attentes prévues par la ligne directrice selon l’échéancier de mise en œuvre.
+
+Les quelque 210 réponses des IFF visées que nous avons reçues en juillet 2023 forment la base du présent rapport « Ce que nous avons appris ». Selon les autoévaluations obtenues, la plupart des IFF ont commencé à gérer les risques climatiques ou ont prévu de le faire. Toutefois, certaines IFF en sont aux tout premiers stades de l’étude de ces risques et des moyens de les gérer, et il leur reste encore du travail à faire pour accélérer les préparatifs en prévision des dates de mise en œuvre de la ligne directrice.
+
+Même si les réponses des IFF ont été diverses, nous remarquons que nombre d’entre elles progressent vers l’intégration de la gestion des risques climatiques dans leurs structures, cadres et processus de gouvernance. Toutefois, elles n’en sont qu’aux étapes préliminaires de la quantification des répercussions des risques climatiques. Nous avons constaté des différences dans l’état de préparation selon le secteur, de même que des différences entre les grandes et les petites institutions. Par ailleurs, bien que les IFF déclarent n’en être qu’aux étapes préliminaires de la quantification des risques climatiques, une majorité d’entre elles s’estiment prêtes à communiquer les informations financières attendues en lien avec les changements climatiques dans la plupart des catégories.
+
+Quelques IFF ont porté à l’attention du BSIF les points pour lesquels des consignes supplémentaires les aideraient à combler les lacunes de capacité. Au vu de ces lacunes, plus particulièrement en ce qui concerne la quantification des risques, le BSIF a plusieurs projets en cours pour aider les IFF à développer leurs capacités, notamment l’exercice normalisé d’analyse de scénarios climatiques, qui aura lieu en 2024, et le relevé réglementaire sur les données climatiques. En outre, le BSIF mettra à profit le Forum sur le risque climatique (FRC) pour continuer de sensibiliser les IFF aux risques climatiques et d’accroître leur capacité à y faire face.
+
+Les projets du BSIF en matière de risque climatique sont des outils de base et il importe de rappeler aux IFF que ces projets ne sauraient servir de substitut à leurs propres activités de gestion et d’évaluation des risques climatiques. Il n’y a pas d’approche universelle en matière de gestion des risques climatiques compte tenu de la singularité des risques et des vulnérabilités qui varient selon la taille de l’IFF, la nature, la portée et la complexité de ses activités, et son profil de risque. Autrement dit, les IFF devront évaluer leurs risques et leurs expositions et respecter les attentes énoncées dans la ligne directrice proportionnellement à leur profil de risque global. Conformément à son approche de surveillance, le BSIF s’intéresse à la gestion des risques climatiques du point de vue du risque et de façon proportionnelle aux circonstances particulières de l’IFF.
+
+Pour  les prochaines étapes consisteront a discuter plus tard cette année des résultats du questionnaire d’autoévaluation avec les acteurs du secteur à lors du FRC. Par ailleurs, nous continuerons de suivre de près l’évolution des pratiques et des normes afin d’évaluer la nécessité d’émettre d’autres consignes. Enfin, dans 18 à 24 mois, nous renverrons le questionnaire aux IFF pour faire le suivi de leurs progrès.
+
+## 1.0 Contexte
+
+Pour renforcer leur résilience face aux risques climatiques, les institutions financières fédérales (IFF) doivent tenir compte des vulnérabilités de leur modèle d’affaires, de l’ensemble de leurs activités et, en fin de compte, de leur bilan. Il leur faut donc adopter des approches prospectives qui sont globales, intégrées et fondées sur des données empiriques fiables et des analyses solides. Elles doivent par ailleurs suivre de près les nouvelles tendances en matière de gestion des risques climatiques (amélioration de la qualité des données, évolution des méthodes de mesure des risques), et les intégrer à leurs pratiques de gouvernance et de gestion des risques.
+
+En mars 2023, le BSIF a publié la ligne directrice B-15, [Gestion des risques climatiques](/fr/consignes/repertoire-consignes/gestion-risques-climatiques "Gestion des risques climatiques"), qui donne aux IFF des consignes sous forme de principes pour gérer les risques climatiques. La ligne directrice établit trois résultats que les IFF devraient chercher à atteindre :
+
+1. L’IFF comprend et atténue les répercussions possibles des risques climatiques sur son modèle et sa stratégie d’affaires.
+2. L’IFF a mis en place les pratiques de gouvernance et de gestion des risques qui s’imposent pour gérer les risques climatiques identifiés.
+3. L’IFF demeure résiliente sur le plan financier face à des scénarios de risques climatiques graves, mais vraisemblables, et résiliente sur le plan opérationnel malgré les perturbations causées par des catastrophes climatiques.
+
+### 1.1 Questionnaire d’autoévaluation sur l’état de préparation à la ligne directrice B-15
+
+Pour connaître l’état de préparation des IFF à répondre aux attentes prévues par la ligne directrice selon l’échéancier de mise en œuvre, nous leur avons envoyé un questionnaire d’autoévaluation en mai 2023.
+
+Ce questionnaire portait sur les progrès et plans réalisés par les IFF en vue de répondre aux attentes énoncées au chapitre 1, à savoir :
+
+* Principe 1 : L’IFF doit avoir mis en place la structure de gouvernance et de reddition de comptes qui s’impose pour gérer les risques climatiques.
+* Principe 2 : L’IFF doit tenir compte, dans son modèle et sa stratégie d’affaires, des conséquences des risques physiques découlant des changements climatiques et des risques associés à la transition vers une économie à faibles émissions de gaz à effet de serre (GES).
+* Principe 3 : L’IFF doit gérer et atténuer les risques climatiques conformément à son cadre de gestion de la propension à prendre des risques.
+* Principe 4 : L’IFF doit utiliser l’analyse de scénarios climatiques pour évaluer l’incidence des risques climatiques sur son profil de risque, sa stratégie d’affaires et son modèle d’affaires.
+* Principe 5 : L’IFF doit maintenir des réserves de fonds propres et de liquidités suffisantes pour couvrir son exposition aux risques climatiques.
+
+Une section distincte du questionnaire comportait des questions sur l’état de préparation actuel des IFF à communiquer des informations financières en lien avec les changements climatiques dans les catégories principales conformément au chapitre 2 de la ligne directrice.
+
+Nous avons reçu plus de 210 réponses des IFF visées en juillet 2023. Parmi ces réponses, on compte des  «déclarations à l’échelle du groupe  » c’est-à-dire des déclarations provenant d’IFF appartenant à une même entité mère . Celles-ci représentaient plus de 95 % des IFF visées. Pour les besoins du présent rapport, ces IFF ont été regroupées en trois groupes sectoriels :
+
+* institutions de dépôt (ID), y compris les banques et les sociétés de fiducie et de prêt;
+* les sociétés d’assurance vie, y compris les sociétés de secours mutuels;
+* les sociétés d’assurance multirisque, y compris les sociétés d’assurance hypothécaire.
+
+Le présent rapport « Ce que nous avons appris » met en évidence les grands thèmes et les pratiques émergentes qui ressortent des réponses des IFF au questionnaire d’autoévaluation. Il ne constitue pas une évaluation du BSIF de l’état de préparation des IFF à répondre aux attentes de la ligne directrice.
+
+## 2.0 Principaux thèmes issus des réponses au questionnaire d’autoévaluation
+
+Bien que les réponses des IFF aient été variées, le BSIF a pu dégager quatre grands thèmes :
+
+* Les IFF progressent graduellement vers l’intégration de la gestion des risques climatiques dans leurs structures, cadres et processus de gouvernance.
+* Les IFF n’en sont qu’aux étapes préliminaires de la quantification des répercussions des risques climatiques.
+* Les IFF se préparent à communiquer les informations financières attendues en lien avec les changements climatiques dans la plupart des catégories, conformément au chapitre 2 de la ligne directrice.
+* L’émission de consignes supplémentaires par le BSIF pourrait aider les IFF à renforcer leur capacité à comprendre et à gérer les risques climatiques.
+
+Chacun des quatre thèmes fera l’objet d’une analyse détaillée ci-après.
+
+### 2.1 Les IFF progressent graduellement vers l’intégration de la gestion des risques climatiques dans leurs structures, cadres et processus de gouvernance
+
+Une gestion efficace des risques climatiques commence par une orientation claire du conseil d’administration et de la haute direction, et s’accompagne de la mise en place de structures, de cadres et de processus appropriés dans l’ensemble de l’institution pour bien gérer ces risques. Pour ce faire, une bonne compréhension des risques climatiques auxquels l’institution peut être exposée ainsi qu’une bonne connaissance des attributions des employés de l’institution chargés de les gérer sont nécessaires. Il faut en outre que les IFF intègrent les risques climatiques dans leur cadre de gestion du risque d’entreprise (GRE), dans leur énoncé de propension à prendre des risques et dans leur cadre de contrôle interne (CCI). Il faut aussi que les IFF aient mis en place des processus pour soutenir la préparation de rapports exacts et en temps voulu aux fins du suivi des risques et de la prise de décisions.
+
+Selon les réponses au questionnaire d’autoévaluation, plus de la moitié des IFF à l’échelle des groupes sectoriels :
+
+* ont officialisé les attributions du conseil d’administration, de la haute direction et de la direction des succursales, ou sont en voie de le faire;
+* ont intégré les risques climatiques dans leur cadre de GRE et dans leur cadre de gestion de la propension à prendre des risques, ou sont en voie de le faire;
+* rendent compte des risques climatiques au conseil d’administration et à la haute direction ou ont commencé à le faire.
+
+Si les IFF ont réalisé des progrès graduels dans les domaines susmentionnés, la majorité d’entre elles n’ont pas encore intégré les risques climatiques dans leur CCI.
+
+En particulier, à l’échelle de tous les groupes sectoriels, les grandes IFF ont progressé davantage que les petites IFF pour ce qui est de l’intégration de la gestion des risques climatiques dans leurs structures, cadres et processus de gouvernance. Nombre d’IFF ont officialisé les attributions de leur conseil d’administration et de la haute direction ou sont en voie de le faire et s’affairent à intégrer les risques climatiques dans leur cadre de GRE et leur cadre de gestion de la propension à prendre des risques.
+
+#### Établissement des responsabilités du conseil d’administration, de la haute direction et de la direction des succursales
+
+Comme l’indique le graphique 1, à l’échelle de tous les groupes sectoriels, les IFF sont en voie de définir les attributions en matière de risques climatiques pour le conseil d’administration, la haute direction et la direction des succursales. Fait à noter, les sociétés d’assurance, et plus particulièrement les sociétés d’assurance multirisque, ont une longueur d’avance sur les ID pour ce qui est d’officialiser ces attributions.
+
+**Graphique 1 — Proportion d’IFF, pour chaque groupe sectoriel, qui ont officialisé les attributions en matière de risques climatiques pour le conseil d’administration, la haute direction et la direction des succursales, ou qui sont en voie de le faire**
+
+![Diagramme à barres, texte descriptif ci-dessous](/sites/default/files/images/b15-saq-img1-fr.jpg)
+
+Graphique 1 - Description texte
+
+Graphique 1
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | IFF qui ont commencé ou terminé le processus d'officialisation des attributions | | |
+| Proportion des IFF sondées | ID | Vie | Multirisque |
+| Conseil d'administration | 38 % | 62 % | 70 % |
+| Haute direction et direction des succursales | 35 % | 67 % | 74 % |
+
+Selon l’analyse des réponses au questionnaire d’autoévaluation, les IFF reconnaissent l’importance des compétences et du savoir-faire du conseil d’administration en matière de risques climatiques. Un grand nombre d’IFF tiennent le conseil d’administration au courant de la situation au moyen de séances d’information portant expressément sur les risques climatiques et en traitant de ces risques dans les rapports qui lui sont destinés. Certaines IFF ont indiqué qu’elles tenaient à jour une matrice afin de faire le suivi des compétences et de l’expérience qui sont nécessaires au conseil d’administration pour superviser la gestion des risques climatiques. De nombreuses IFF ont fait savoir qu’elles avaient intégré la question des risques climatiques dans les mandats des divers comités du conseil d’administration.
+
+En ce qui concerne la haute direction, certaines IFF ont indiqué que, outre l’officialisation des attributions de certains des membres de leur haute direction, elles avaient établi en parallèle des comités de cadres chargés de superviser la gestion des risques climatiques, l’objectif étant de réunir les responsables des risques et les fonctions de supervision. D’autres encore ont fait savoir qu’elles s’en remettaient à leur institution mère pour assurer le soutien voulu en matière de supervision et de gestion des risques climatiques, conformément aux objectifs de l’institution mère en la matière ou à ses objectifs plus vastes sur le plan environnemental, social et de gouvernance (ESG).
+
+#### Intégration des risques climatiques dans les cadres de gouvernance et de gestion des risques des IFF
+
+La majorité des IFF ont déclaré être en voie d’intégrer les risques climatiques dans leur cadre de GRE et leur cadre de gestion de la propension à prendre des risques. Par ailleurs, plusieurs institutions ont pleinement intégré les risques climatiques dans leur processus de GRE ou ont élaboré des stratégies distinctes pour évaluer et analyser les risques physiques et les risques de transition.
+
+En ce qui concerne les cadres de gestion de la propension à prendre des risques, un grand nombre d’IFF ont fait savoir que les travaux étaient en cours et qu’elles s’attendaient à ce que leur approche évolue relativement aux risques climatiques. Cela dit, elles ont aussi indiqué que les risques climatiques étaient ou seront exprimés sous forme de mesures qualitatives et quantitatives, au sein des principales catégories de risques existantes. Certaines IFF ont indiqué qu’elles songeaient à inclure les risques climatiques dans leurs cadres de gestion de la propension à prendre des risques, pour des risques tels que le risque de crédit, le risque de souscription et le risque d’atteinte à la réputation.
+
+Enfin, l’intégration progressive des risques climatiques dans le CCI est moins avancée chez tous les groupes sectoriels, et la majorité des IFF n’ont pas commencé les travaux ni fait de plan en ce sens. Étant donné l’importance du CCI comme cadre d’intégration des pratiques de gestion du risque au sein d’une entreprise, tout porte à croire qu’il reste du travail à faire pour que la gestion des risques climatiques gagne en maturité à l’échelle des IFF.
+
+#### Suivi et rapports au conseil d’administration et à la haute direction
+
+Dans l’ensemble, plus de la moitié des IFF ont déclaré communiquer ou avoir commencé à communiquer des informations sur les risques climatiques au conseil d’administration et à la haute direction. Par ailleurs, environ 60 % des IFF ont dit en être aux premiers stades de l’élaboration d’indicateurs de risque climatique et ont fait savoir qu’elles prévoyaient mettre sur pied des paramètres particuliers qui seront présentés au conseil d’administration et à la haute direction. Les exemples des types de paramètres que les IFF ont mentionné comportent des indicateurs liés spécifiquement à la propension à prendre des risques climatiques, des paramètres reposant sur le cadre du Groupe de travail sur l’information financière relative aux changements climatiques (GIFCC) et des indicateurs liés aux responsabilités et à la rémunération. Comme c’est le cas dans d’autres aspects se rapportant à la gouvernance, nous avons constaté que les sociétés d’assurance multirisque étaient plus avancées que les autres groupes sectoriels pour ce qui est d’établir des indicateurs et des rapports sur les risques climatiques. Ces résultats n’ont rien de surprenant étant donné l’expérience que possèdent les sociétés d’assurance multirisque en fait de gestion des risques physiques, comme les risques météorologiques et les risques de catastrophes naturelles.
+
+### 2.2 Les IFF n’en sont qu’aux étapes préliminaires de la quantification des répercussions des risques climatiques
+
+Les risques climatiques étant prospectifs, les données empiriques et les approches et outils traditionnels de gestion du risque ne permettent pas de les identifier et d’en tenir compte, ce qui pourrait conduire à une prise en compte inadéquate du risque de même qu’une réponse inadéquate à cet égard.
+
+Bien que les IFF amorcent la mise en œuvre des pratiques de gestion des risques afin de répondre aux attentes énoncées dans la ligne directrice, une majorité d’entre elles comptent le faire d’ici les dates prévues de mise en œuvre. D’après les réponses reçues, la majorité des IFF :
+
+* ont encore de gros progrès à faire pour évaluer l’incidence des risques climatiques sur les risques financiers et non financiers qui pèsent sur elles;
+* n’en sont qu’aux étapes préliminaires de la détermination de leurs besoins en matière de données sur les risques climatiques et des sources de données;
+* effectuent leur analyse des scénarios climatiques en tenant compte, pour l’essentiel, des risques climatiques sur le court terme (moins de cinq ans);
+* n’ont pas encore intégré les risques climatiques dans leurs évaluations de l’adéquation des fonds propres et des liquidités.
+
+Compte tenu du caractère embryonnaire de ces pratiques, il n’est pas surprenant que plus de 60 % des IFF aient déclaré avoir commencé ou prévu de commencer à intégrer les risques climatiques dans leur plan de fonds propres ou dans leurs plans financiers et stratégiques, alors que plus de 20 % n’ont aucun plan dans l’immédiat pour ce genre de travaux. De même, si un grand nombre d’institutions comptent préparer un plan de transition climatique ayant des objectifs à court, à moyen et à long terme pour faire face aux  risques climatiques sur divers horizons temporels, la majorité n’a pas encore entrepris ces travaux. En particulier, quelques IFF ont indiqué qu’elles prévoyaient d’intégrer les risques climatiques dans leur plan stratégique en se fondant sur la stratégie générale de l’institution mère à l’égard des risques climatiques, ce qui laisse penser que le progrès de certaines IFF vers la conformité aux attentes de la ligne directrice dépendrait des progrès accomplis par l’institution mère.
+
+Fait à noter, les grandes IFF sont plus avancées dans l’adoption de pratiques de gestion des risques climatiques, car elles sont plus susceptibles d’avoir déjà mis en place, ou sont en train de mettre en place, une analyse des scénarios climatiques pour évaluer les risques physiques et les risques de transition. De plus, elles prennent en compte divers horizons temporels et élaborent leurs propres scénarios. Cela dit, nous avons relevé certains points pour lesquels il n’existait pas de différence importante entre les IFF de grande taille et celles de petite taille. Plus précisément, les progrès accomplis par les grandes IFF dans l’évaluation de l’incidence des risques climatiques sur les principales catégories de risque et, par conséquent, sur l’adéquation de leurs fonds propres et de leurs liquidités, sont semblables à ceux accomplis par les IFF de petite taille. Si toutes les IFF ont encore du travail à faire pour quantifier les risques climatiques, le BSIF s’attend à ce que les grandes institutions soient plus avancées que les autres du fait que leurs ressources et leurs capacités en matière de gestion du risque sont plus matures.
+
+Bien que les pratiques générales de gestion du risque des IFF n’en soient qu’à leurs balbutiements, le BSIF a relevé des pratiques émergentes, qui font l’objet des sections suivantes.
+
+#### Évaluation de l’incidence des risques climatiques sur les principaux secteurs de risque
+
+Les risques climatiques peuvent influer sur différentes catégories de risques des IFF, comme le risque de crédit, le risque de marché et le risque opérationnel. Comme le montrent les graphiques 2 et 3, où la courbe des résultats prend la forme d’un « bâton de hockey  », la plupart des IFF en sont aux premiers stades de l’évaluation de l’incidence des risques climatiques sur les principaux risques financiers et non financiers. En ce qui concerne la majorité des principales catégories de risques, de 45 % à 55 % des IFF environ ont évalué les conséquences des risques climatiques sur moins de 20 % de leurs portefeuilles, ce qui laisse à penser que les IFF doivent accélérer leurs évaluations à l’échelle de toutes les principales catégories de risques.
+
+**Graphique 2 – Progrès des IFF dans l’évaluation de l’incidence des risques climatiques sur le risque de crédit, de marché, d’assurance et le risque opérationnel**
+
+![Graphique linéaire, texte descriptif ci-dessous](/sites/default/files/images/b15-saq-img2-fr.jpg)
+
+Graphique 2 – Description texte
+
+Graphique 2
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Pourcentage des portefeuilles évalués | | | | |
+| Proportion des IFF sondées | 0 %-20 % | 21 %-40 % | 41 %-60 % | 61 %-80 % | 81 %-100 % |
+| Crédit | 46 % | 18 % | 8 % | 6 % | 9 % |
+| Marché | 49 % | 11 % | 11 % | 6 % | 10 % |
+| Opérationnel | 52 % | 14 % | 11 % | 7 % | 10 % |
+| Assurance | 35 % | 13 % | 16 % | 4 % | 14 % |
+
+**Graphique 3 – Progrès des IFF dans l’évaluation de l’incidence des risques climatiques sur le risque de liquidité, le risque stratégique et le risque d’atteinte à la réputation**
+
+![Graphique linéaire, texte descriptif ci-dessous](/sites/default/files/images/b15-saq-img3-fr.jpg)
+
+Graphique 3 – Description texte
+
+Graphique 3
+
+| Proportion des IFF sondées | Pourcentage des portefeuilles évalués | | | | |
+| --- | --- | --- | --- | --- | --- |
+| 0 %-20 % | 21 %-40 % | 41 %-60 % | 61 %-80 % | 81 %-100 % |
+| Liquidité | 56 % | 11 % | 4 % | 4 % | 7 % |
+| Stratégique | 51 % | 14 % | 14 % | 4 % | 10 % |
+| Réputation | 55 % | 11 % | 8 % | 9 % | 10 % |
+
+#### Déterminer les besoins en matière de données sur les risques climatiques et les sources des données
+
+La majorité des IFF n’en sont qu’aux premières étapes de la détermination des données dont elles ont besoin pour gérer les risques climatiques. Selon les résultats de l’autoévaluation, la compréhension qu’ont les ID de leurs besoins en matière de données est plus embryonnaire que les autres groupes sectoriels. Néanmoins, les IFF ont déclaré avoir besoin des mêmes points de données suivants en matière climatique :
+
+* les émissions de gaz à effet de serre (GES) de portée 1 et 2 découlant de leurs propres activités;
+* les données étayant le calcul des émissions de GES de portée 3;
+* les données géophysiques des actifs;
+* les données climatiques historiques,  la cartographie des catastrophes et des risques;
+* les scores ESG des agences de notation.
+
+Par ailleurs, plusieurs institutions ont affirmé utiliser des données de sources publiques, comme les informations fournies publiquement par des contreparties ainsi que les données et les rapports du Groupe d’experts intergouvernemental sur l’évolution du climat (GIEC) ou de l’Agence internationale de l’énergie (AIE), ou encore, les scénarios du Réseau pour le verdissement du système financier (NGFS).
+
+Outre ces sources, les IFF ont déclaré avoir besoin de données supplémentaires, lesquelles sont présentées dans le tableau 1 à titre d’exemple.
+
+Tableau 1 : Exemples de points de données en matière climatique
+
+|  |  |
+| --- | --- |
+| Données sur les contreparties ou sur les actifs | * Plans de transition et cibles des clients * Politique ESG des contreparties * Score de risque climatique au niveau des actifs (inondation, feux de forêt) * Codes de classification des industries, p. ex., Classification type des industries (CTI) et Système de classification des industries de l’Amérique du Nord (SCIAN) * Cotes d’efficacité énergétique au niveau des actifs * Certifications énergétiques des tiers |
+| Données comparatives | * Données sur l’application de la réglementation * Données sur les litiges en matière climatique * Données sur les sinistres * Prévisions des besoins en électricité * Données sur les énergies renouvelables * Données sur l’incidence des changements climatiques sur la mortalité et la morbidité |
+| Données climatiques ou météorologiques | * Conditions atmosphériques passées et présentes * Données de la National Oceanic and Atmospheric Administration (NOAA) * Données hydrologiques * Cartes mondiales des variables influant sur les changements climatiques * Estimations du niveau d’élévation de la mer |
+| Données propres aux territoires | * Données sur les politiques de réglementation * Exposition au risque de transition et vulnérabilité économique au niveau des pays * Prix du carbone et taxes sur le carbone * Cartes de la couverture terrestre |
+| Données relatives aux analyses de scénarios | * Parcours de transition sectorielle * Données microéconomiques et macroéconomiques reconnues par les secteurs et scénarios de transition * Scénarios basés sur les profils représentatifs d’évolution de concentration/profils socioéconomiques partagés |
+
+Des IFF ont fait état de la difficulté à obtenir certains points de données, comme celles étayant le calcul des émissions de GES de portée 3, et les données à long terme comme celles relatives à l’incidence des changements climatiques sur la mortalité et la morbidité. De plus, pour certaines IFF , les données sur les contreparties, ou sur les clients privés ou sur les clients de petite taille sont inexistantes ou non fiables. Enfin, quelques institutions ont fait savoir qu’elles travaillaient à la préparation de questionnaires sur les risques physiques et les risques de transition afin de recueillir des données directement auprès de leurs clients et contreparties.
+
+#### Recours à l’analyse de scénarios climatiques pour évaluer l’incidence des risques climatiques
+
+Plus de 40 % des IFF déclarent avoir commencé la mise en œuvre des analyses de scénarios climatiques ou ont prévu de le faire afin d’évaluer les risques climatiques; les progrès qu’elles ont accomplis portent un peu plus sur les risques physiques que sur les risques de transition.
+
+Par ailleurs, comme le montre le graphique 4, de 75 % à 85 % des IFF sondées déclarent qu’elles évaluent ou évalueront l’incidence des risques climatiques sur un horizon de cinq ans, et les IFF sont de moins en moins nombreuses à évaluer ces risques sur un horizon à plus long terme. Nous avons aussi constaté des différences qui sont propres à chaque secteur d’activité : il y a plus de sociétés d’assurance vie que d’ID et de sociétés d’assurance multirisque qui disent examiner les risques climatiques sur des horizons à long terme. Toutefois, ces données n’ont rien d’étonnant en raison de la nature des actifs et des passifs des sociétés d’assurance vie.
+
+**Graphique 4 – Proportion des IFF par groupe sectoriel qui prennent en compte différents horizons temporels pour leur analyse des scénarios climatiques**
+
+![Graphique à barres assorti d’un graphique linéaire, texte descriptif ci-dessous](/sites/default/files/images/b15-saq-img4-fr.jpg)
+
+Graphique 4 – Description texte
+
+Graphique 4
+
+| Proportion des IFF sondées | Horizon temporel de l'analyse des scénarios climatiques | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <5 ans | | | De 5 à 10 ans | | | De 10 à 30 ans | | | > 30 ans | | |
+| ID | Vie | Multirisque | ID | Vie | Multirisque | ID | Vie | Multirisque | ID | Vie | Multirisque |
+| Oui | 85 % | 84 % | 76 % | 64 % | 80 % | 56 % | 43 % | 64 % | 49 % | 16 % | 51 % | 27 % |
+| Non | 14 % | 16 % | 21 % | 34 % | 18 % | 41 % | 54 % | 36 % | 48 % | 81 % | 49 % | 69 % |
+
+Selon les réponses au questionnaire d’autoévaluation, bon nombre d’IFF utilisent ou comptent utiliser leurs propres scénarios pour analyser les risques physiques et les risques de transition ou faire appel aux services de tiers fournisseurs pour obtenir des scénarios sur mesure. Les scénarios les moins utilisés sont ceux de sources publiques, par exemple ceux de l’AIE.
+
+Un peu moins de la moitié des IFF sondées ont indiqué qu’elles réalisent ou réaliseront en interne des analyses de scénarios climatiques relatifs aux risques physiques et aux risques de transition, en faisant appel dans une certaine mesure aux spécialistes de leur institution mère. Quant au reste des IFF sondées, près de 25 % d’entre elles ont fait savoir qu’elles collaborent ou collaboreront avec des entreprises externes pour la réalisation des analyses des risques physiques et des risques de transition et environ 20 % ont indiqué qu’elles n’en étaient encore qu’aux premières étapes de la planification et qu’elles n’avaient donc pas décidé de la façon dont elles allaient s’y prendre. Fait à noter, très peu d’institutions utilisent exclusivement des ressources externes pour effectuer ces analyses.
+
+#### Intégration des risques climatiques dans les évaluations de l’adéquation des fonds propres et des liquidités
+
+Comme il a préalablement été mentionné, en raison du caractère embryonnaire des pratiques de quantification des risques, la majorité des IFF n’ont pas intégré les risques climatiques ni dans leur processus interne d’évaluation de l’adéquation des fonds propres (PIEAFP), ni dans leur évaluation interne des risques et de la solvabilité (ORSA), ni dans leurs évaluations de l’adéquation des liquidités. Cela dit, la plupart des IFF prévoient répondre à cette attente d’ici aux dates de mise en œuvre.
+
+De plus, comme le montre le graphique 5, 30 % à 50 % des IFF à l’échelle des groupes sectoriels ont indiqué qu’elles intègrent ou intégreront les risques climatiques dans les catégories de risques existantes lors de l’exécution du PIEAFP ou de l’ORSA. Comme autre indicateur du caractère embryonnaire des pratiques de quantification des risques, mentionnons que certaines IFF, et plus particulièrement des ID, ont indiqué qu’il était trop tôt pour dire de quelle manière elles avaient l’intention d’aborder les risques climatiques dans leur PIEAFP ou leur ORSA. Enfin, certaines IFF ont fait savoir qu’il serait important de mettre au point leur capacité d’analyse de scénarios climatiques et de simulation de crise avant d’intégrer les risques climatiques dans leur PIEAFP ou leur ORSA.
+
+**Graphique 5 – Proportion des IFF qui traitent les risques climatiques comme un risque distinct ou qui les intègrent dans les catégories existantes dans leur PIEAFP ou leur ORSA**
+
+![Graphique à barres empilées assorti d’un graphique linéaire, texte descriptif ci-dessous](/sites/default/files/images/b15-saq-img5-fr.jpg)
+
+Graphique 5 – Description texte
+
+Graphique 5
+
+| Proportion des IFF sondées | Traitement des risques climatiques dans le PIEFAP ou l'ORSA | | | |
+| --- | --- | --- | --- | --- |
+| Risque distinct | Intégrés dans les catégories de risques existantes | Les deux | Pas certain/Trop tôt pour le dire |
+| Toutes les IFF | 12 % | 39 % | 30 % | 19 % |
+| ID | 10 % | 31 % | 31 % | 29 % |
+| Vie | 9 % | 52 % | 20 % | 18 % |
+| Multirisque | 14 % | 39 % | 34 % | 13 % |
+
+### 2.3 Les IFF se préparent à communiquer les informations financières attendues en lien avec les changements climatiques dans la plupart des catégories
+
+Tandis que les IFF continuent de mettre en œuvre des pratiques leur permettant de répondre aux attentes du chapitre 1 de la ligne directrice liées à la gouvernance et à la gestion des risques, une faible majorité des IFF disent avoir ce qu’il faut pour communiquer la plupart ou la totalité des informations à fournir selon le chapitre 2. Ces résultats mettent en évidence un possible décalage entre l’état de préparation des IFF en vue de quantifier les risques et leur état de préparation en vue de communiquer publiquement les informations.
+
+Malgré ce possible décalage, le graphique  6 montre que, parmi les domaines dans lesquels les IFF ont des informations à fournir, la « Gouvernance » est la catégorie la plus courante pour laquelle elles ont déclaré être en mesure de communiquer toutes les informations voulues, suivie des catégories « Stratégie » et « Gestion des risques », pour lesquelles plus de la moitié des IFF ont affirmé pouvoir communiquer la totalité des informations. Fait à noter, c’est pour la catégorie « Émissions de GES de portée 3 » que les IFF sont les moins prêtes à communiquer les informations voulues. De fait, la majorité des IFF ont dit ne pas être prêtes, ce qui cadre avec les difficultés qu’elles ont évoquées quant à leurs capacités à bien recueillir, mesurer et communiquer ces informations.
+
+**Graphique 6 – Proportion des IFF ayant la capacité de communiquer les informations financières en lien avec les changements climatiques dans les différentes catégories**
+
+![Graphique à barres empilées, texte descriptif ci-dessous](/sites/default/files/images/b15-saq-img6-fr.jpg)
+
+Graphique 6 – Description texte
+
+Graphique 6
+
+| Catégorie d'informations à fournir | Tous les moyens à disposition | Une partie des moyens à disposition | Aucun moyen à disposition |
+| --- | --- | --- | --- |
+| Gouvernance | 62 % | 32 % | 6 % |
+| Stratégie | 57 % | 33 % | 10 % |
+| Gestion des risques | 54 % | 39 % | 7 % |
+| Indicateurs et cibles | 44 % | 39 % | 17 % |
+| Émissions de GES du champ d'application 1 | 58 % | 21% | 22% |
+| Émissions de GES du champ d'application 2 | 56 % | 24 % | 20 % |
+| Émissions de GES du champ d'application 3 | 15 % | 51 % | 34 % |
+
+### 2.4 L’émission de consignes supplémentaires par le BSIF pourrait aider à combler les lacunes de capacité
+
+En ce qui a trait au grand thème selon lequel les IFF qui en sont aux premiers stades de la quantification des risques climatiques, nous avons constaté que des IFF souhaiteraient que le BSIF fournisse des consignes supplémentaires afin d’accroître leurs capacités dans certains domaines. Elles ont demandé des consignes supplémentaires en ce qui concerne :
+
+* les données climatiques, y compris les sources de données que le BSIF recommande et des règles supplémentaires au sujet des catégories d’actifs;
+* les plans de transition climatique, y compris des éclaircissements sur les échéanciers et les attentes;
+* la quantification des risques à long terme, comme le risque de mortalité et le risque de marché et de crédit à long terme;
+* la traduction des effets des variables macroéconomiques en effets sur les états financiers;
+* l’intégration des risques climatiques dans les évaluations de l’adéquation des fonds propres et des liquidités;
+* les scénarios que les IFF devraient envisager pour l’analyse des scénarios climatiques.
+
+Par ailleurs, certaines IFF ont fait remarquer qu’elles comptaient s’appuyer sur le Forum sur le risque climatique (FRC) du BSIF<p>Le Forum sur le risque climatique (FRC) est le principal moyen pour le BSIF de gérer, de rassembler et de coordonner ses activités de mobilisation en matière de climat à l’échelle nationale. Le Forum a pour but de sensibiliser le secteur financier aux risques climatiques et de renforcer sa capacité à y donner suite. Il permet par ailleurs de réunir le BSIF, ses partenaires nationaux et ses parties prenantes.</p>, sur le prochain exercice normalisé d’analyse de scénarios climatiques et sur le relevé réglementaire de données sur les risques climatiques pour les aider à répondre aux attentes de la ligne directrice.
+
+## 3.0 Conclusion et prochaines étapes
+
+Le questionnaire d’autoévaluation a permis au BSIF de juger de l’état de préparation des IFF à répondre aux attentes énoncées dans la ligne directrice, et de bien comprendre les enjeux actuels et les pratiques émergentes. Le BSIF tient à remercier toutes les IFF qui y ont répondu.
+
+La diversité des réponses reçues nous amène à conclure qu’il n’y a pas d’approche universelle en matière de gestion des risques climatiques compte tenu de la singularité des risques et des vulnérabilités qui varient selon la taille de l’IFF, la nature, la portée et la complexité de ses activités, et son profil de risque. Autrement dit, les IFF devront évaluer leurs risques et leurs expositions et respecter les attentes énoncées dans la ligne directrice proportionnellement à leur profil de risque global.
+
+Bien qu’un grand nombre d’IFF cheminent graduellement vers la conformité aux différentes attentes énoncées dans la ligne directrice, nous avons constaté que certaines d’entre elles n’en étaient qu’aux étapes préliminaires de la prise en compte des risques climatiques et des façons dont elles allaient les gérer. Dans ces cas, nous recommandons aux IFF d’accélérer la préparation de leurs plans et de tenir compte de l’enchaînement des étapes et de ne pas oublier le temps requis pour développer et opérationnaliser leurs pratiques de gouvernance et de gestion des risques.
+
+Par ailleurs, nous avons remarqué que certaines IFF comptaient faire appel à des ressources externes, telles que des consultants, pour l’exécution d’une partie de leur programme de gestion des risques climatiques, comme la fourniture des données climatiques, la création de modèles et la réalisation d’analyses. Dans ces cas, nous suggérons aux IFF de veiller à confier la prise de décisions en matière de risque à des personnes compétentes, habiles et expérimentées afin qu’elles puissent évaluer, et remettre en question s’il y a lieu, les travaux de ces ressources externes.
+
+Au vu des défis mentionnés par les IFF, plus particulièrement en ce qui concerne la quantification des risques, l’exercice normalisé d’analyse de scénarios climatiques que le BSIF réalisera en 2024 pourrait servir à faire progresser les pratiques. En particulier, l’exercice normalisé vise à :
+
+* sensibiliser les IFF et favoriser une orientation stratégique afin qu’elles comprennent mieux leur exposition potentielle aux changements climatiques;
+* promouvoir le renforcement des capacités des IFF à évaluer les effets des politiques et des événements catastrophiques liés aux changements climatiques, et à effectuer des exercices d’analyse de scénarios climatiques;
+* établir une évaluation quantitative normalisée des risques climatiques, qu’il s’agisse de risques physiques ou de transition.
+
+En raison de la nature évolutive des risques climatiques, nous tirerons également parti du FRC dans le cadre, par exemple, de séances destinées aux spécialistes<p>Les séances destinées aux spécialistes constituent l’une des activités sous l’égide du FRC destinées aux IFF. Elles ont pour objectif de souligner les pratiques exemplaires applicables aux entités réglementées, de communiquer les attentes du BSIF en matière de gestion des risques climatiques et d’informations à fournir en lien avec les changements climatiques et de transmettre de l’information sur les tendances et les faits nouveaux dans le domaine de la gestion des risques climatiques et des informations à fournir à ce sujet.</p>, pour continuer de sensibiliser les IFF et d’améliorer leur capacité à réagir aux risques climatiques.
+
+Bien que le BSIF ait plusieurs projets en cours en lien avec les risques climatiques, il tient à rappeler aux IFF que ces projets sont des outils conçus pour servir de fondement et ne sauraient servir de substitut à leurs propres activités de gestion et d’évaluation des risques climatiques. Lorsqu’il surveillera la gestion des risques climatiques qu’exercent les IFF, le BSIF s’intéressera, conformément à son approche de surveillance, à la gestion des risques climatiques du point de vue du risque et de façon proportionnelle aux circonstances particulières de l’IFF.
+
+Pour les prochaines étapes, nous discuterons plus tard cette année des résultats du questionnaire d’autoévaluation avec les acteurs du secteur à l’occasion du FRC. Les IFF sont invitées à s’inscrire au FRC pour se tenir au courant des activités à venir. Par ailleurs, nous mettrons à profit les leçons tirées de l’exercice normalisé d’analyse de scénarios climatiques, en plus de suivre de près l’évolution des pratiques et des normes afin d’évaluer la nécessité d’émettre d’autres consignes. Enfin, dans 18 à 24 mois, nous prévoyons de renvoyer le questionnaire d’autoévaluation aux IFF afin de suivre leurs progrès.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-01-29

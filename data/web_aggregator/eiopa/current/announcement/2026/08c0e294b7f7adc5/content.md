@@ -1,0 +1,53 @@
+## What are peer reviews?
+
+EIOPA conducts peer reviews, pursuant to[Article 30 of Regulation (EU) No 1094/2010 (EIOPA regulation)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.334.01.0001.01.ENG&toc=OJ:L:2019:334:TOC), on activities of NCAs in order to further strengthen consistency in supervisory assessments and outcomes and improve the quality, efficiency and independence of supervision.
+
+Peer reviews assess the application by NCAs represented in the EIOPA Board of Supervisors of EU measures, including directives, regulations, technical standards, EIOPA guidelines and recommendations, or supervisory practices.
+
+## How are they planned and performed?
+
+The Management Board prepares a [Two Year Peer Review Work plan](/document/download/31e55225-fc20-47c5-be9e-0f9940763dfe_en?filename=Peer%20review%20work%20plan%202025-2026.pdf) which is adopted by the Board of Supervisors.  This plan sets out the topics and the scope of peer reviews.
+
+EIOPA sets up ad-hoc peer review committees who conduct the peer reviews and prepare follow-up reports. The ad-hoc peer review committees are composed of EIOPA staff members and members of the competent authorities. An EIOPA staff member chairs the peer review committees.
+
+Following a peer review, EIOPA may issue recommendations to NCAs.
+
+EIOPA undertakes a follow-up report after two years of the publication of the peer review report. The follow-up report includes an assessment of, but is not limited to, the adequacy and effectiveness of the actions undertaken by the competent authorities that are subject to the peer review in response to the follow-up measures of the peer review report.
+
+The results of the peer reviews and follow-up peer reviews are published on the EIOPA website.
+
+[TO THE PEER REVIEW REPORTS](/document-library_en)
+
+[Find out more about the methodology for the conduct of ad hoc peer reviews](/publications/peer-review-methodology_en)
+
+## Related resources
+
+* 29 JULY 2024
+
+Peer review work plan 2025-2026.pdf
+
+English
+
+(219.17 KB - PDF)
+
+[Download](/document/download/31e55225-fc20-47c5-be9e-0f9940763dfe_en?filename=Peer%20review%20work%20plan%202025-2026.pdf)
+
+* 31 JANUARY 2023
+
+Peer review work plan 2023-2024.pdf
+
+English
+
+(596.1 KB - PDF)
+
+[Download](/document/download/e8df407b-dc2f-44b0-b9ec-c658ccc878b8_en?filename=Peer%20review%20work%20plan%202023-2024.pdf)
+
+* 31 JANUARY 2023
+
+Peer review work plan 2020-2022
+
+English
+
+(165.33 KB - PDF)
+
+[Download](/document/download/ecf1dd39-4661-4e1d-a9f2-945a9f35b549_en?filename=Peer%20review%20work%20plan%202020-2022.pdf)

@@ -1,0 +1,7 @@
+# David Ellison claims opposition to his mega-merger stems from potential CNN control
+
+With $111bn deal to acquire cable network’s parent company stalled in courts, Ellison courts public Speaking out on the lawsuit against the big merger between Paramount Skydance and Warner Bros Discovery (WBD), Paramount ’s CEO, David Ellison, said that the legal backlash against the deal is “not really about market share” but rather stems from political motivations. Noting in a New York Times guest essay published on Tuesday that the deal had “been reviewed and approved by regulators reflecting 65 countries, including the United States”, Ellison played down the competitive concerns raised by the state coalition and Writers Guild of America West and Writers Guild of America East, which also sued to block the deal, and said he believed the reaction came from a “plainer worry”. Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/business/2026/aug/04/cnn-mega-merger-david-ellison)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

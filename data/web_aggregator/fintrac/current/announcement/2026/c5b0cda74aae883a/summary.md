@@ -1,0 +1,1 @@
+Summary: # Speaking points for Sarah Paquet, Director and Chief Executive Officer, Financial Transactions and Reports Analysis Centre of Canada at the ACAMS Assembly Canada Conference

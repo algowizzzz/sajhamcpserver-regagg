@@ -1,0 +1,1 @@
+Summary: # HSBC share price drops following lower-than-expected US$1 billion buy-back

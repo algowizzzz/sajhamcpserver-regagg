@@ -1,0 +1,401 @@
+# Valeurs mobilières (B2)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé des valeurs mobilières (B2)
+
+Dernière révision
+
+Juillet 2017
+
+Numéro de relevé
+
+B2
+
+## Relevés
+
+[B2 - Exemple de relevé (XLSX, 46,83 Ko)](/sites/default/files/import-media/data_and_forms/sample-return/2023-07/fr/B2_qrt_2018.xlsx "B2_qrt_2018.xlsx") [B2 - Règles de validation (XLSX, 84 Ko)](/sites/default/files/documents/b2-validation-fr.xlsx "b2-validation-fr.xlsx") [Relevé des modifications](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-modifications-b2 "Relevé des modifications (B2)")
+
+## Objet
+
+Le présent relevé fournit une répartition détaillée des valeurs mobilières détenues par les institutions de dépôts.
+
+## Fondement législatif
+
+Les articles 628 et 600 de la Loi sur les banques, l'article 495 de la Loi sur les sociétés de fiducie et de prêt, et l'article 24 de la Loi sur la Banque du Canada.
+
+## Institutions visées
+
+Toutes les institutions sont tenues d'établir le relevé.
+
+## Publication
+
+Les renseignements figurant dans le relevé ne sont pas publiés.
+
+## Fréquence
+
+Le relevé est établi tous les trimestres de l'année civile.
+
+## Personne ressource
+
+Fournir le nom et le numéro de téléphone de la personne à joindre pour obtenir des renseignements au sujet du présent relevé.
+
+## Échéance
+
+Le relevé est établi dans les 45 jours qui suivent la fin de chaque trimestre de l'année civile.
+
+## Organisme à contacter
+
+Banque du Canada
+
+## Instructions générales
+
+Ce relevé renferme des renseignements sur les valeurs mobilières (poste 2).
+
+Prière de veiller à ce que les chiffres qui figurent dans ce relevé concordent avec ceux au bilan de l'institution.
+
+Déclarer le total comptabilisé au Canada et à l'étranger.
+
+Déclarer tous les résultats nets de provisions pour Texte surligné\*pertes de crédit attendues, le cas échéant\*.
+
+## Section I - Ensemble des valeurs mobilières
+
+### Instructions générales
+
+#### 1. (a) Valeurs mobilières émises par le Canada
+
+Les valeurs mobilières émises par le Canada doivent être déclarées en termes d'échéance résiduelle.
+
+1. bons du Trésor
+2. valeurs mobilières à échéance résiduelle d'au plus trois ans
+3. valeurs mobilières à échéance résiduelle de plus de trois ans
+
+#### (b) Les valeur mobilières garanties par le Canada
+
+Les valeurs mobilières garanties par le Canada doivent être déclarées en termes d'échéance résiduelle.
+
+**Inclure :**
+
+Les titres d'entreprises publiques entièrement et explicitement garantis par le gouvernement du Canada.
+
+1. valeurs mobilières à échéance résiduelle d'au plus trois ans
+2. valeurs mobilières à échéance résiduelle de plus de trois ans
+
+#### (c) Valeurs mobilières émises ou garanties par les Provinces
+
+Déclarer la valeur au bilan des portefeuilles de valeurs mobilières émises ou garanties par les provinces en les répartissant dans les trois catégories figurant dans le relevé.
+
+1. « À court terme » des valeurs mobilières émises ou garanties par les Provinces, désigne les valeurs mobilières à **échéance initiale** d'au plus **un** an.
+2. « À long terme » des valeurs mobilières émises ou garanties par les Provinces, désigne les valeurs mobilières à **échéance initiale** de plus d'**un** an.
+3. « Actions » désigne les actions émises ou garanties par les provinces.
+
+#### (d) Valeurs mobilières émises ou garanties par des corps municipaux ou scolaires
+
+Texte surligné\*Déclarer les valeurs mobilières émises ou garanties par des corps municipaux ou scolaires moins les provisions pour pertes de crédit attendues, le cas échéant. \*
+
+Déclarer la valeur au bilan des portefeuilles de valeurs mobilières des corps municipaux ou scolaires en les répartissant dans les trois catégories figurant dans le relevé.
+
+1. « À court terme » désigne les valeurs mobilières à **échéance initiale** d'au plus **un** an.
+2. « À long terme » désigne les valeurs mobilières à **échéance initiale** de plus d'**un** an.
+3. « Actions » désigne les actions émises ou garanties par des corps municipaux ou scolaires.
+
+#### 2. Autres valeurs mobilières
+
+Texte surligné\*Déclarer les autres valeurs mobilières moins les provisions pour pertes de crédit attendues, le cas échéant. \*
+
+Déclarer la valeur au bilan des portefeuilles de valeurs mobilières en les répartissant dans les trois catégories figurant dans le relevé et entre les résidents et les non-résidents.
+
+1. « À court terme » désigne les valeurs mobilières à **échéance initiale** d'au plus **un** an. « À long terme » désigne les valeurs mobilières à **échéance initiale** de plus d'**un** an.
+   * Dont :
+     + Propres titres adossés à des créances, c'est-à-dire les créances titrisées de la banque.
+     + Autres titres adossés à des créances, c'est-à-dire les créances titrisées d'autres institutions et de tiers.
+   * Dont :
+     + Propres titres adossés à des créances, c'est-à-dire les créances titrisées de la banque.
+     + Autres titres adossés à des créances, c'est-à-dire les créances titrisées d'autres institutions et de tiers.
+     + Propres titres hypothécaires, c'est-à-dire les créances hypothécaires titrisées de la banque.
+     + Autres titres hypothécaires, c'est-à-dire les créances hypothécaires titrisées d'autres institutions et de tiers.
+2. Actions
+   * « Parts de fonds communs de placement » désigne les actions de fonds communs de placement.
+   * « Parts de fonds de titre à revenu fixe » désigne les actions de sociétés en fiducie ».
+   * Autres actions
+
+### Postes pour mémoire
+
+#### 1. Valeurs mobilières garantie par le gouvernement du Canada
+
+1. Entreprises publiques fédérales gouvernementales - à court terme (un an ou moins)
+2. Entreprises publiques fédérales gouvernementales - à long terme (plus d'un an)
+3. Titres adossés aux prêts hypothécaires de l'institution. Déclarer les portefeuilles de valeurs mobilières adossées aux prêts hypothécaires consentis par la banque.
+4. Titres adossés à d'autres prêts hypothécaires. Déclarer les portefeuilles de valeurs mobilières adossées aux prêts hypothécaires consentis par d'autres institutions financières.
+5. Autres valeurs mobilières
+
+Les sommes des postes pour mémoire de la section « valeurs mobilières garanties par le Canada » doivent correspondre au sous-total des valeurs mobilières déclarées dans la colonne « résidents », c'est-à-dire « Valeurs mobilières garanties par le Canada » tel que déclaré à la section I, 1(b)(i) et 1(b)(ii).
+
+#### 2. Total des valeurs mobilières
+
+Texte surligné\*Déclarer le total des valeurs mobilières moins les provisions pour pertes de crédit attendues, le cas échéant.\*
+
+Déclarer la valeur au bilan des valeurs mobilières Texte surligné\*à leur coût amorti, à leur juste valeur par l'entremise d'autres éléments du résultat étendu, à leur juste valeur selon l'option d'évaluation et à leur juste valeur au moyen du résultat net\*.
+
+Les sommes des postes pour mémoire de la section « total des valeurs mobilières » doivent correspondre au montant total des valeurs mobilières qui figurent aux colonnes « résidents » et « non résidents », c'est-à-dire tel que déclaré à la section I 1(a) à (d) et 2(a) à (c).
+
+## Section II - Autres valeurs mobilières distribuées selon le secteur
+
+Texte surligné\*Déclarer les autres valeurs mobilières distribuées selon le secteur moins les provisions pour pertes de crédit attendues, le cas échéant.\*
+
+À la section II, déclarer les valeurs mobilières, tel que déclaré à la section I 2(a), 2(b) et 2(c).  
+Nota : Les totaux signalés à la Section II doivent correspondre au poste 2(b) de l'actif, tel que déclaré au bilan.
+
+Les titres émis par des non-résidents doivent être déclarés selon la répartition sectorielle mentionnée. « Non-résidents » s'entend des particuliers, sociétés et autres organismes (y compris les agences internationales et autres organismes extraterritoriaux) ne résidant pas ordinairement au Canada. Le lieu de résidence doit être établi d'après l'adresse inscrite du particulier, de la société ou de l'organisme, à moins que l'institution ne sache que le lieu de résidence diffère de cette adresse.
+
+Les catégories d'émetteurs de valeurs retenues pour le présent relevé sont conformes aux Définitions des secteurs de flux financiers. Ce concept est appliqué au Relevé des prêts non hypothécaires et au Relevé du passif-dépôts pas catégorie de déposants.
+
+Le relevé utilise aussi la *Classification type des industries* (CTI) - 1980 publiée par Statistique Canada, pour l'identification des émetteurs des valeurs.
+
+Il convient de noter que les Définitions de secteurs de flux financiers et la *Classification type des industries* de Statistique Canada ne s'appliquent qu'au contexte canadien. Le cas échéant, les institutions doivent les adapter pour les émetteurs étrangers de valeurs mobilières.
+
+### 1. (a) Gouvernement étranger
+
+**Déclarer :**
+
+* tous les corps dérivés des administrations publiques nationales, municipales, d'États ou de districts, de l'étranger qui n'ont pas le pouvoir d'emprunter.
+
+**Ne pas déclarer :**
+
+* les valeurs mobilières des conseils d'administration de corporations et de commissions publiques constitués séparément et qui exploitent des entreprises. Déclarer des valeurs mobilières de ces derniers au poste 3(b) – Sociétés non financières / Sociétés privées, selon le cas.
+
+### 2. Institutions financières
+
+1. Institutions de dépôts
+   * **Déclarer :**
+     + toutes les banques à charte situées au Canada, les caisses d'épargne et de crédit, les caisses populaires, les sociétés de fiducie et les sociétés de prêts hypothécaires.
+2. Autres institutions financières
+   * **Déclarer :**
+     + Prêts à vue et autres prêts à court terme à des négociants en placements et courtiers, garantis
+       - Groupe 741, division K de la CTI.
+     + Sociétés de prêts à la consommation et de financement des entreprises
+       - Grand groupe 71, division K de la CTI.
+     + Sociétés d'investissement
+       - **Déclarer :**
+         * Grand groupe 72, division K de la CTI.
+       - **Ne pas déclarer :**
+         * les caisses de retraite en fiducie (classe 7291) et d'autres caisses de retraite (classe 7299), qui doivent être déclarés au poste 1(f).
+     + Sociétés d'assurances
+       - **Déclarer :**
+         * les sociétés d'assurance-vie, les sociétés de secours mutuels et les sociétés d'assurances multirisques (grand groupe 73, division K de la CTI - sociétés non publiques).
+     + Caisses de retraite
+       - **Déclarer :**
+         * classe 7291, division K de la CTI, et autres caisses de retraite (classe 7299).
+     + Autres
+       - **Déclarer :**
+         * les courtiers en prêts hypothécaires, les bourses des valeurs mobilières et des marchandises, et d'autres institutions financières (groupes 742, 743 et 749, division K de la CTI);
+         * les institutions financières publiques étrangères qui sont semblables à celles exerçant leurs activités au Canada;
+         * les prêts consentis aux banques centrales étrangères ou aux institutions monétaires officielles étrangères.
+
+Aux rubriques 2(a) et 2(b) ci-haut, inclure dans la colonne des non-résidents, s'il y a lieu, les entités étrangères similaires aux entités canadiennes précitées et les institutions monétaires officielles étrangères tels que les succursales du Trésor, les ministres des Finances ou autres ministères semblables, les banques centrales, les fonds de stabilisation, les comptes de paiements compensateurs, les autorités de contrôle des bourses ou toute autre agence fiscale similaire (y compris les sociétés d'État) qui agissent au nom de l'État et qui ont une ou plus d'une fonction importante similaire à celles du Trésor, d'une banque centrale ou d'un fonds de stabilisation.
+
+### 3. Sociétés non financières
+
+#### (a) Secteur public
+
+**Déclarer :**
+
+* les prêts à tous les corps dérivés des administrations publiques qui exploitent une entreprise ou qui sont dotés de pouvoirs d'emprunt (voir les Définitions des secteurs de flux financiers). On trouvera une liste des entreprises publiques fédérales et provinciales et leurs succursales à la nouvelle rubrique intitulée « Entreprises publiques gouvernementales » (GBE).
+* toutes les sociétés publiques canadiennes dans lesquelles des administrations canadiennes détiennent au moins la moitié des actions avec droit de vote, et leurs filiales.
+
+**Ne pas déclarer :**
+
+* la Société d'assurance-dépôts du Canada, la Société canadienne d'hypothèques et de logement, l'Expansion des exportations du Canada, le Crédit agricole du Canada, la Banque fédérale de développement et l'ATB Financial.
+
+#### (b) Secteur privé
+
+**Déclarer :**
+
+toutes les sociétés résidentes et non résidentes et les entreprises non constituées, à l'exception des institutions financières et les entreprises publiques déclarées dans une autre partie du présent rapport.
+
+1. Agriculture
+   * Grands groupes 01 et 02, division A de la CTI.
+2. Pêche et piégeage
+   * Grand groupe 03, division B de la CTI.
+3. Exploitation forestière et services forestiers
+   * Grands groupes 04 et 05, division C de la CTI.
+4. Mines, carrières et puits de pétrole
+   1. Mines
+      * Grand groupe 06, division D de la CTI.
+   2. Énergie - Pétrole et gaz
+      * Grand groupe 07, division D de la CTI.
+   3. Autres
+      * Grands groupes 08 et 09, division D de la CTI.
+5. Secteur manufacturier
+   1. Aliments, boissons et produits du tabac
+      * Grands groupes 10, 11 et 12, division E de la CTI.
+   2. Cuir, textile et vêtements
+      * Grands groupes 17, 18, 19 et 24, division E de la CTI.
+   3. Produits métalliques
+      * Grands groupes 29 et 30, division E de la CTI.
+   4. Matériel de transport
+      * Grand groupe 32, division E de la CTI.
+   5. Produits pétroliers Caoutchouc, plastique et produits chimiques
+      * Grand groupe 36, division E de la CTI.
+      * Grands groupes 15, 16 et 37, division E de la CTI.
+   6. Autres
+      * Grands groupes 25, 26, 27, 28, 31, 33, 35 et 39, division E de la CTI.
+6. Construction/Immobilier
+   1. Constructeurs et promoteurs - Immeubles résidentiels
+      * Groupe 401, division F de la CTI.
+   2. Constructeurs et promoteurs - Immeubles commerciaux
+      * Groupe 402, division F de la CTI.
+   3. Promoteurs fonciers
+      * Classe 4491, division F de la CTI.
+   4. Services immobiliers
+      * See SIC, Division L, Major Group 75
+   5. Autres
+      * Grands groupes 41 et 42, groupe 441 et classe 4499, division F de la CTI.
+7. Transports, communications et autres services publics
+   1. Transports
+      * Grand groupe 45, division G de la CTI.
+   2. Transport par pipelines
+      * Grand groupe 46, division G de la CTI.
+   3. Entreposage et emmagasinage
+      * Grand groupe 47, division G de la CTI.
+   4. Communications
+      * Grand groupe 48, division H de la CTI.
+   5. Autres services publics
+      * Grand groupe 49, division H de la CTI.
+8. Commerce de gros
+   1. Vêtements
+      * Grand groupe 53, division I de la CTI.
+   2. Autres
+      * Grands groupes 50, 51, 52, 54, 55, 56, 57 et 59, division I de la CTI..
+9. Commerce de détail
+   1. Aliments, boissons et médicaments
+      * Grand groupe 60, division J de la CTI.
+   2. Vêtements
+      * Grand groupe 61, division J de la CTI.
+   3. Meubles
+      * Grand groupe 62, division J de la CTI.
+   4. Automobiles
+      * Grand groupe 63, division J de la CTI.
+   5. Magasins à rayons
+      * Grand groupe 64, division J de la CTI.
+   6. Autres
+      * Grands groupes 65 et 69, division J de la CTI.
+10. Services
+    1. Hôtels
+       * Grand groupe 91, division Q de la CTI.
+    2. Restaurants et bars
+       * Grand groupe 92, division Q de la CTI.
+    3. Sociétés de crédit-bail
+       * Groupe 992, division R de la CTI.
+    4. Autres
+       * Grand groupe 76, division L; grand groupe 77, division M; et grands groupes 96 et 97, et groupes 991, 993, 994, 995, 996 et 999, division R de la CTI.
+11. Conglomérats
+    * Déclarer :
+      + les sociétés privées non financières dans lesquelles aucun des secteurs énumérés en (i) à (x) ci-dessus, ne représente à lui seul plus de la moitié de l'activité totale.
+12. Autres
+    * Déclarer :
+      + les oeuvres de charité, universités, clubs, organismes religieux, etc.
+      + tous les organismes de santé non inclus dans les prêts à des administrations publiques (section 2). Voir le grand groupe 84, division N; les groupes 852, 853, 854, 855 et 859, division O; le grand groupe 86, division P; et le grand groupe 98, division R de la CTI.
+
+#### (c) Non-résidents
+
+Déclarer tous les sociétés non financières non-résidentes.
+
+Aux rubriques 3(a) et 3(b) ci-haut, inclure dans la colonne des non-résidents, s'il y a lieu, les entités étrangères semblables à celles énumérées ci-haut.
+
+#### Poste pour mémoire (section II – Autres valeurs mobilières distribuées selon le secteur)
+
+Texte surligné\*Déclarer les postes pour mémoire (section II – Autres valeurs mobilières distribuées selon le secteur), moins les provisions pour pertes de crédit attendues, le cas échéant.\*
+
+##### 1. Titres du gouvernement des États-Unis
+
+Les titres du gouvernement des États-Unis sont à déclarer selon le terme à courir.
+
+1. Titres du gouvernement des Etats-Unis dont l'échéance résiduelle est de moins d'un an
+2. Titres du gouvernement des Etats-Unis dont l'échéance résiduelle est de plus d'un an
+
+**Exclure :**
+
+* Titres d'organismes du gouvernement des États-Unis et d'organismes parrainés par le gouvernement.
+
+##### 2. Titres d'organismes du gouvernement des États-Unis
+
+1. Les organismes du gouvernement des États-Unis sont des entités du gouvernement des États-Unis dont les dettes sont entièrement et explicitement garanties par la reconnaissance totale du gouvernement des États-Unis.
+   * Inclure notamment les titres de créance et les titres hypothécaires des organismes du gouvernement des États-Unis
+     + Export-Import Bank, Federal Housing Administration (FHA), Government National Mortgages Association (GNMA), US Maritime Administration, Small Business Administration (SBA), ainsi que les billets émis par la Farmers Home Administration (FmHA).
+2. Les organismes parrainés par le gouvernement des États-Unis sont des organismes établis ou présentés au départ par le gouvernement des États-Unis à des fins publiques indiquées par le Congrès des États-Unis mais dont les dettes ne sont pas explicitement garanties par la reconnaissance totale du gouvernement des États-Unis.
+   * Inclure notamment les titres de créance et les titres hypothécaires des organismes parrainés par le gouvernement des États-Unis
+     + Federal National Mortgage Association (Fannie Mae), Federal Home Loan Mortgage Corporation (Freddie Mac), Federal Home Loan Bank System (ou toute banque membre), Federal Farm Credit Bank System (ou toute banque membre), Federal Agricultural Mortgage Corporation (Farmer Mac), Federal Land Banks (FLBs), Resolution Funding Corporation, Student Loan Marketing Association (Sallie Mae), US Postal Service, The Financing Corporation, and Tennessee Valley Authority
+   * Ne pas déclarer :
+     + Titres de créance émis par la SLM Corporation, l'entreprise du secteur privé qui succède à Student Loan Marketing Association, et prêts aux étudiants titrisés émis par la SLM Corporation (ou ses sociétés affiliées).
+
+## Section III – Incluant les actions Texte surligné\*distribuées selon le secteur\*
+
+Texte surligné\*Déclarer les montants incluant les actions distribuées selon le secteur, moins les provisions pour pertes de crédit attendues, le cas échéant.\*
+
+À la section III, déclarer les actions qui sont déclarées à la section I 2(c).
+
+Nota : le total des montants déclarés à la section III doit correspondre au poste 2(b)(ii) de l'actif du bilan.
+
+## Définitions des secteurs de flux financiers
+
+Le concept des Secteurs de flux financiers figurant ci-après porte sur la situation canadienne uniquement.
+
+Ce concept est utilisé pour trois relevés notamment le Relevé des prêts non hypothécaires par catégorie d'emprunteurs; le Relevé des valeurs mobilières par catégorie d'émetteurs; et le Relevé du passif-dépôts par catégorie de déposants. Voici une brève description des catégories :
+
+### I. Administrations provinciales et municipales
+
+Comprend les opérations relatives aux programmes d'assurance sociale administrés par les pouvoirs publics (p.ex., indemnisation des accidents du travail), les régimes de pension des fonctionnaires non gérés en fiducie qui fonctionnent hors du cadre budgétaire gouvernemental (p.ex., caisse de retraite de la fonction publique de l'Ontario) et les hôpitaux publics.
+
+### II. Institutions publiques, financières et non financières
+
+Il s'agit des entreprises à caractère commercial qui font payer leurs biens et services en fonction de leur coût de production. Ces institutions s'occupent généralement de fabrication, de prêt, d'assurance, de transport, de communications, de l'alimentation d'électricité et de la distribution d'alcool par l'intermédiaire d'une régie provinciale.
+
+Les institutions de cette catégorie se caractérisent généralement par les éléments suivants :
+
+1. l'institution doit, de par sa fonction statutaire, s'occuper de produire un bien ou un service destiné à la vente sur le marché à un prix lié au coût;
+2. elle doit tenir des comptes financiers distincts de ceux du gouvernement qui l'a créée et déduire ses coûts de production de ses recettes;
+3. sa direction doit être relativement autonome.
+
+Ne sont pas compris dans cette catégorie les organismes qui :
+
+1. s'occupent entièrement ou principalement des mouvements de fonds entre gouvernements (p.ex., l'Alberta Capital Finance Authority); ou
+2. s'occupent entièrement ou principalement de vendre leur production au gouvernement qui les a créés. Ces organismes font partie de l'administration publique concernée.
+   1. Institutions financières publiques
+      1. Comprend la Société d'assurance-dépôts du Canada, la Société canadienne d'hypothèques et de logement, l'Expansion des exportations du Canada, le Crédit agricole du Canada, la Banque fédérale de développement et ATB Financial.
+   2. Entreprises publiques non financières
+      * Une liste des entreprises à l'échelle fédérale et provinciale est pourvue dans le manuel. Il n'existe aucune liste correspondante au niveau municipal.
+      * Chaque banque détermine ses critères d'utilisation de la catégorie municipale.
+
+### III. Sociétés privées non financières
+
+Comprend toutes les sociétés et les succursales non constituées en société de sociétés étrangères exploitées au Canada, sauf les institutions financières et les entreprises publiques.
+
+### IV. Institutions financières privées
+
+1. Banques à charte : s'explique de soi-même.
+2. Autres institutions de dépôts : comprend les caisses de crédit et les caisses populaires, les sociétés de fiducie et les sociétés de prêts hypothécaires.
+3. Autres institutions financières privées : comprend les sociétés d'assurance-vie, les sociétés de secours mutuels, les sociétés d'assurance incendie et risques divers, les régimes de pension en fiducie, les négociants en placements, les fonds mutuels ou sociétés d'investissement à capital variable, les sociétés d'investissement à capital fixe, les fiducies de placement hypothécaire, les sociétés de financement des ventes et de prêt à la consommation, les sociétés émettrices de valeurs mobilières adossées à des éléments d'actif et les autres institutions financières privées (comme les sociétés de portefeuille, les sociétés de crédit-bail financier, les sociétés de capital-risque et autres sociétés de financement commercial).
+
+### V. Entreprises non constituées en société
+
+Comprend toutes les entreprises qui ne sont pas constituées en vertu des lois du Canada ou d'une province et qui ne sont pas des succursales non constituées de sociétés étrangères (voir III ci-dessus).
+
+## Entreprises publiques
+
+On trouvera la liste complète des entreprises publiques fédérales et provinciales à la nouvelle rubrique intitulée « Entreprises publiques gouvernementales » (GBE).
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-11-16

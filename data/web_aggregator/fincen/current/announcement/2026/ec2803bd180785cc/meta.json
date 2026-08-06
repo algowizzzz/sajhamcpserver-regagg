@@ -1,0 +1,24 @@
+{
+  "doc_id": "ec2803bd180785cc",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FinCEN\u2019s Legal Authorities | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/fincens-legal-authorities",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:00eb4fb4128e6961ffbeb86e76e6eef7a0019412ddb5224cfe9af344ac67309f",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/ec2803bd180785cc",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

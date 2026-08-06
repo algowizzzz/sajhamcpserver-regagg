@@ -1,0 +1,67 @@
+# Company and business name requests
+
+Federal, provincial and territorial company registries approve company and business names under the applicable legislation. However, a proposed name may include words that are restricted by other legislation in Canada.
+
+We also play a role in [trademark requests](/en/supervision/company-business-name-requests/trademark-restrictions "Trademark restrictions").
+
+## Restricted words
+
+We’re responsible for administering name restrictions under the following acts:
+
+* *Bank Act*
+  + Restricted words include bank, banker, banking
+  + [Other words may be restricted](/en/guidance/guidance-library/advisory-2017-01-restrictions-use-words-bank-banker-banking "Advisory 2017-01 – Restrictions on the use of the words “bank”, “banker” and “banking”") (such as banc, mybank, bancorp)
+  + Applies to names, including trade names, for **all** companies and businesses in Canada, including:
+    - unincorporated businesses
+    - partnerships
+    - federal, provincial and territorial companies
+* *Insurance Companies Act*
+  + Restricted words include assurance, assurances, insurance, lifeco, and other listed insurance words
+  + Other similar words may be restricted (such as annuity and indemnity)
+  + Applies to federal companies
+* *Trust and Loan Companies Act*
+  + Restricted words include fiduciary, trust, trustco, loan, loanco, and other listed trust and loan words
+    - Other similar words may be restricted (such as lenders)
+  + Applies to federal companies
+
+To use these words in your business name, you need to apply to OSFI for an approval.
+
+## Exceptions may be available
+
+We’ll review your request to see if an exception is available for your company or business. One type of common exception is the non-financial activity exception. This is for businesses such as blood banks or and food banks, who can use “bank” in their names, since their business activities aren’t financial in nature.
+
+## Submit a request for an approval
+
+To apply for an approval from OSFI to use a restricted word in your business name, you need to submit a [request form (PDF 225KB)](/sites/default/files/2023-05/nc_form.pdf).
+
+Please provide clear and complete answers on the form to help us provide a timely response. Make sure to include a complete list of your current and future business activities.
+
+### Send the request
+
+Once you’ve completed the form, please send it by email or mail to:
+
+[name-denomination@osfi-bsif.gc.ca](mailto:name-denomination@osfi-bsif.gc.ca)
+
+Managing Director, Legislative Policy, Interpretations and Compliance  
+Office of the Superintendent of Financial Institutions  
+255 Albert Street  
+Ottawa, Canada  K1A 0H2
+
+### Processing your request
+
+We aim to process routine name requests within 30 calendar days. If your request is complex or needs more information, it may take longer.
+
+### After we complete your request
+
+We’ll send you a letter to let you know if we’ve approved or denied your request.
+
+## Related links
+
+* [Corporations Canada](https://corporationscanada.ic.gc.ca/eic/site/cd-dgc.nsf/eng/home)
+* [NUANS Reports](https://www.ic.gc.ca/eic/site/075.nsf/eng/home)
+* [Contact Information for provincial and territorial authorities](https://www.canada.ca/en/services/business/start/register-with-gov/register-corp/register-corp-prov.html)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-07-05

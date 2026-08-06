@@ -1,0 +1,1 @@
+Summary: EIOPA has responded to the European Commission on its public consultation on the operations of the European Supervisory Authorities.  

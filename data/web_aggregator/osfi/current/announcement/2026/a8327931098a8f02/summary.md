@@ -1,0 +1,1 @@
+Summary: # Courbe d’actualisation du rapport de l’actuaire désigné (PC6)

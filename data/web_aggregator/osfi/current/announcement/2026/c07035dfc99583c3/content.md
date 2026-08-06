@@ -1,0 +1,70 @@
+# Prêts garantis par des biens immobiliers
+
+La souscription de prêts garantis par des biens immobiliers – qui englobent les produits d’assurance hypothécaire – est l’une des sphères d’activités fondamentales de bon nombre d’[institutions](/fr/surveillance/entites-reglementees "Entités réglementées") que nous réglementons. Cette fonction essentielle contribue à la robustesse du système de financement de l’habitation au Canada.
+
+## Suivi du risque
+
+Les risques associés aux marchés canadiens de l’habitation et du financement hypothécaire résidentiel peuvent influer sur la stabilité financière. Nous surveillons les tendances en matière de risque pour pouvoir mieux comprendre l’effet qu’elles pourraient avoir sur les prêteurs et les assureurs hypothécaires que nous surveillons.
+
+Nous étudions les répercussions éventuelles de ces risques dans le but d’évaluer l’efficacité de notre travail. Les résultats de nos analyses étayent l’élaboration de nos consignes réglementaires et nos évaluations du risque, ce qui comprend les normes de fonds propres et le [taux admissible minimal](/fr/surveillance/institutions-financieres/banques/taux-admissible-minimal-pour-prets-hypothecaires-non-assures "Taux admissible minimal pour les prêts hypothécaires non assurés").
+
+Consultez notre plus récent [Regard annuel sur le risque](/fr/propos-du-bsif/rapports-publications/regard-annuel-sur-risque-du-bsif-pour-lexercice-2025-2026 "Regard annuel sur le risque du BSIF pour l’exercice 2025-2026") pour en savoir plus sur les principaux risques.
+
+![](/sites/default/files/images/role-housing-finance-habitation.png)
+
+[Regardez la vidéo sur notre rôle dans le financement de l’habitation](/fr/propos-du-bsif/mediatheque/role-du-bsif-dans-financement-lhabitation "Rôle du BSIF dans le financement de l’habitation")
+
+## Gestion du risque
+
+Le principal risque que les **prêteurs hypothécaires** doivent gérer est le risque de crédit, c’est‑à‑dire le risque de perte financière en cas d’incapacité de l’emprunteur à remplir ses obligations envers le prêteur, ce qui inclut le remboursement du prêt.
+
+Nous nous attendons à ce que les prêteurs gèrent le risque de crédit et les autres risques liés aux prêts :
+
+* À l’étape de la souscription, c’est-à‑dire lorsque le prêteur accorde le prêt à l’emprunteur;
+* Et tout au long de la gestion du compte, soit pendant toute la durée du prêt.
+
+La [ligne directrice B-20](/fr/consignes/repertoire-consignes/pratiques-procedures-souscription-prets-hypothecaires-residentiels-ligne-directrice-2017 "Pratiques et procédures de souscription de prêts hypothécaires résidentiels – Ligne directrice (2017)") énonce les attentes du BSIF en matière de souscription prudente de prêts hypothécaires résidentiels.
+
+Les **assureurs hypothécaires** offrent aux prêteurs une assurance contre le défaut de remboursement des prêts hypothécaires. Une telle assurance doit être souscrite lorsque la mise de fonds pour l’achat d’une propriété est inférieure à 20 % du prix d’achat de la propriété. Nous nous attendons à ce que les assureurs hypothécaires gèrent le risque de perte financière découlant de la réclamation d’un prêteur, après prise en compte de tout recouvrement éventuel (par exemple à la suite de la vente de la propriété).
+
+Le saviez-vous? L’assurance prêt hypothécaire garantie par le gouvernement doit elle aussi être conforme aux exigences énoncées dans le cadre législatif instauré par le gouvernement du Canada en matière d’assurance hypothécaire.
+
+La [ligne directrice B-21](/fr/consignes/repertoire-consignes/pratiques-procedures-souscription-dassurance-hypothecaire-residentielle-ligne-directrice-2019 "Pratiques et procédures de souscription d’assurance hypothécaire résidentielle – Ligne directrice (2019)") présente les attentes du BSIF au sujet de la souscription prudente d’assurance hypothécaire résidentielle et des activités qui s’y rattachent.
+
+## Maintien de la stabilité financière
+
+Nous [réglementons](/fr/consignes/generalites-sur-consignes "Généralités sur les  consignes") et [surveillons](/fr/surveillance/generalites-sur-surveillance "Généralités sur la surveillance ") les prêteurs et les assureurs pour nous assurer qu’ils gèrent efficacement le risque de perte financière. Ces activités servent à soutenir le bon fonctionnement du marché du financement hypothécaire résidentiel et à prévenir d’éventuelles pertes généralisées au sein du système financier, ce qui a en retour comme effet de réduire le risque à l’échelle du système financier canadien et de concourir à la stabilité financière.
+
+## Liens utiles
+
+### Questions d’actualité
+
+**Publications sur les principaux risques liés au marché du logement et du financement hypothécaire :**
+
+* [Clarification des consignes du BSIF concernant le revenu locatif et la classification des prêts hypothécaires](/fr/risques/prets-garantis-biens-immobiliers/clarification-consignes-du-bsif-concernant-revenu-locatif-classification-prets-hypothecaires "Clarification des consignes du BSIF concernant le revenu locatif et la classification des prêts hypothécaires")
+* [Regard annuel sur le risque – Mise à jour semestrielle – Exercice 2025-2026](/fr/propos-du-bsif/rapports-publications/regard-annuel-sur-risque-du-bsif-pour-lexercice-2025-2026 "Regard annuel sur le risque du BSIF pour l’exercice 2025-2026")
+* [Le point de vue du BSIF sur les évaluations globales et sur le moment de l’évaluation (July 2025)](/fr/risques/prets-garantis-biens-immobiliers/point-vue-du-bsif-sur-evaluations-globales-sur-moment-levaluation "Le point de vue du BSIF sur les évaluations globales et sur le moment de l’évaluation")
+* [Limite du ratio prêt-revenu (novembre 2024)](/fr/surveillance/institutions-financieres/banques/limites-associees-au-ratio-pret-revenu-sappliquant-portefeuilles-prets-hypothecaires-non-assures "Limites associées au ratio prêt-revenu s’appliquant aux portefeuilles de prêts hypothécaires non assurés")
+* [Avis du BSIF : Prêts hypothécaires à taux variable et à versements fixes assortis d’un amortissement prolongé (septembre 2023)](/fr/nouvelles/avis-du-bsif-prets-hypothecaires-taux-variable-versements-fixes-assortis-dun-amortissement-prolonge "Avis du BSIF : Prêts hypothécaires à taux variable et à versements fixes assortis d’un amortissement prolongé")
+* [Fiche documentaire – Ligne directrice B‑20 (janvier 2023)](/fr/consignes/repertoire-consignes/fiche-documentaire-ligne-directrice-b-20-pratiques-procedures-souscription-prets-hypothecaires "Fiche documentaire - Ligne directrice B-20, Pratiques et procédures de souscription de prêts hypothécaires résidentiels")
+* [Fiche documentaire – Taux admissible minimal pour les prêts hypothécaires non assurés (janvier 2024)](/fr/surveillance/institutions-financieres/banques/taux-admissible-minimal-pour-prets-hypothecaires-non-assures "Taux admissible minimal pour les prêts hypothécaires non assurés")
+
+### Consignes réglementaires
+
+* [Avis relatif à la réglementation – Renforcement des pratiques de gestion des risques liés aux prêts hypothécaires résidentiels (mars 2024)](/fr/consignes/repertoire-consignes/renforcement-pratiques-gestion-risques-lies-prets-hypothecaires-residentiels "Renforcement des pratiques de gestion des risques liés aux prêts hypothécaires résidentiels")
+* [Ligne directrice B-20, Pratiques et procédures de souscription de prêts hypothécaires résidentiels (octobre 2017)](/fr/consignes/repertoire-consignes/pratiques-procedures-souscription-prets-hypothecaires-residentiels-ligne-directrice-2017 "Pratiques et procédures de souscription de prêts hypothécaires résidentiels – Ligne directrice (2017)")
+  + [Clarification du régime s’appliquant aux produits de prêts garantis par un bien immobilier innovants en vertu de la ligne directrice B‑20](/fr/consignes/repertoire-consignes/clarification-du-regime-sappliquant-produits-prets-garantis-bien-immobilier-innovants-en-vertu-ligne "Clarification du régime s’appliquant aux produits de prêts garantis par un bien immobilier innovants en vertu de la ligne directrice B-20")
+  + [Réponses du BSIF aux commentaires reçus dans le cadre de la consultation initiale sur les mesures de remboursement de la dette (octobre 2023)](/fr/consignes/repertoire-consignes/reponses-du-bsif-commentaires-recus-dans-cadre-consultation-initiale-sur-mesures-remboursement-dette "Réponses du BSIF aux commentaires reçus dans le cadre de la consultation initiale sur les mesures de remboursement de la dette")
+* [Ligne directrice B-21, Pratiques et procédures de souscription d’assurance hypothécaire résidentielle (mars 2019)](/fr/consignes/repertoire-consignes/pratiques-procedures-souscription-dassurance-hypothecaire-residentielle-ligne-directrice-2019 "Pratiques et procédures de souscription d’assurance hypothécaire résidentielle – Ligne directrice (2019)")
+* [Normes de fonds propres (NFP) (octobre 2023)](/fr/consignes/repertoire-consignes/normes-fonds-propres-nfp-ligne-directrice-2026 "Normes de fonds propres (NFP) – Ligne directrice (2026)")
+* [Test de suffisance du capital des sociétés d’assurance hypothécaire (janvier 2025)](/fr/consignes/repertoire-consignes/test-suffisance-du-capital-societes-dassurance-hypothecaire-ligne-directrice-2025 "Test de suffisance du capital des sociétés d’assurance hypothécaire - Ligne directrice (2025)")
+* [IFRS 9, Instruments financiers et informations à fournir](/fr/consignes/repertoire-consignes/ifrs-9-instruments-financiers-informations-fournir "IFRS 9, Instruments financiers et informations à fournir")
+
+### Autres ressources
+
+[Ligne directrice sur les prêts hypothécaires existants des consommateurs dans des circonstances exceptionnelles (Agence de la consommation en matière financière du Canada)](https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/industrie/ligne-directrices-commissaire/prets-hypothecaires-circonstances-exceptionnelles.html)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2025-07-16

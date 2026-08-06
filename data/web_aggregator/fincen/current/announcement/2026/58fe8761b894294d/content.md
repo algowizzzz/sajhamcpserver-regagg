@@ -1,0 +1,76 @@
+# International Programs
+
+![Glowing Map of the World](/sites/default/files/shared/International_large.jpg)
+
+FinCEN works to establish and strengthen mechanisms for the exchange of information globally, and to engage, encourage, and support international partners in taking necessary steps to construct regimes to combat money laundering, terrorist financing, and other financial crimes. FinCEN responds to [requests](/resources/law-enforcement/support-law-enforcement) from financial intelligence units (FIUs) that are members of the [Egmont Group](/resources/international/egmont-group-financial-intelligence-units), and acts as a conduit for requests from domestic law enforcement to foreign FIUs. FinCEN also issues strategic products for law enforcement agencies and FIUs on topics of international interest.
+
+FinCEN works with foreign governments to provide policy recommendations and guidance, analytical training, technological advice, and staff support in order to foster the implementation of anti-money laundering and counter-terrorism financing (AML/CFT) regimes worldwide. FinCEN supports U.S. bilateral and multilateral efforts to join with other nations in a concerted fashion to combat transnational crime.
+
+#### International Engagements and Liaison Activity
+
+FinCEN engages with foreign FIUs and other counterparts on analytical, regulatory, and operational issues in order to strengthen information sharing mechanisms and increase international collaboration. FinCEN hosts foreign delegations to discuss issues of mutual interest. Several of these visits occur as part of the Department of State’s International Visitor Leadership Program. FinCEN supports the U.S. delegation to the [Financial Action Task Force](/resources/international/financial-action-task-force) (FATF) in its efforts to revise international standards concerning FIUs and international cooperation. FinCEN staff members serve on U.S. interagency delegations to the meetings of the eight FATF-style regional bodies (FSRBs), providing expertise on FIU-related issues.
+
+#### International Information Exchange and Analysis
+
+As the nation’s FIU, FinCEN is part of a worldwide network of agencies designed to exchange financial intelligence derived largely from financial industry reporting. FinCEN makes requests for information on behalf of Federal, State, and local law enforcement agencies. At the same time, FinCEN responds to requests for research from counterpart FIUs in other jurisdictions around the world. In addition, FinCEN and other FIUs send and receive spontaneous disclosures of information based on proactive internal analysis.
+
+FinCEN is one of the most active FIUs in the world in terms of exchanging information with counterpart FIUs. The demand for FinCEN’s services from foreign FIUs has expanded dramatically over the past decade.
+
+In addition to supporting foreign FIUs, FinCEN also obtains information from foreign FIUs to support investigations by U.S. law enforcement and regulatory agencies. FinCEN works with its counterparts to obtain information relevant to these requests, often working with multiple FIUs on a given request. FinCEN has experienced an increase in outgoing requests in support of U.S. law enforcement investigations, which reflects FinCEN’s efforts to encourage criminal investigator and prosecutors to more actively use this unique service. FinCEN continues its efforts in the area of strategic analysis on international topics, with a particular emphasis on joint work with other FIUs.
+
+#### Combating Transnational Organized Crime
+
+FinCEN recognizes that financial crime is a global phenomenon transcending geographic borders. Partnerships with other nations and international bodies are essential in the detection of criminal proceeds. FinCEN plays a significant role in the U.S. Government’s efforts to combat [transnational organized crime](/resources/international/combating-transnational-organized-crime). FinCEN carries out its mission by providing investigative support to law enforcement, intelligence, and regulatory agencies, cooperating globally with counterpart FIUs, and using its regulatory authorities to make it more difficult for organized criminal groups to move money through the financial system. FinCEN exercises its authority under Section 311 of the USA PATRIOT Act, which allows for the imposition of special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern. FinCEN supports the detection and deterrence of transnational organized crime by providing products and services to law enforcement agencies, the intelligence community, foreign FIUs, and other authorities.
+
+#### Internationally Focused Speeches by FinCEN Officials
+
+* Prepared Remarks of FinCEN Director Jennifer Shasky Calvery at the Florida International Bankers Association Anti-Money Laundering Conference (02/20/2014) [HTML](/news/speeches/remarks-jennifer-shasky-calvery-director-financial-crimes-enforcement-network-9) | [PDF](/system/files/shared/20140220.pdf)
+* Statement of Jennifer Shasky Calvery Director, Financial Crimes Enforcement Network Upon Signing a Memorandum of Understanding with Mexico’s National Banking and Securities Commission (10/24/2013) [PDF](/system/files/shared/Statement%20for%20MOU%20signing%20with%20CNBV.pdf)
+* Prepared Remarks of FinCEN Deputy Director Peter Alvarado, delivered at the Association of Mexican Banks 14th Anti-Money Laundering and Financing Terrorism International Seminar (10/05/2012) [HTML](/news/speeches/prepared-remarks-peter-s-alvarado-deputy-director-financial-crimes-enforcement) | [PDF](/system/files/shared/20121005.pdf)
+* Message from Director Freis: OAS/CICAD Adopts Principles and Best Practices for the Use and Protection of FIU Information when Shared with Third Parties (09/20/2012) [HTML](/news/news-releases/message-director-freis-oascicad-adopts-principles-and-best-practices-use-and) | [PDF](/system/files/shared/20120920.pdf)
+* Prepared Remarks of FinCEN Director Freis, delivered at the Florida International Bankers Association’s 12th Annual Anti-Money Laundering Compliance Conference (02/23/2012) [HTML](/news/speeches/prepared-remarks-james-h-freis-jr-director-financial-crimes-enforcement-network-us-8) | [PDF](/system/files/shared/20120223.pdf)
+* Prepared Remarks of FinCEN Director Freis, delivered at the 2011 Anti-Money Laundering and Counter-Terrorism Financing Conference in Sydney, Australia (11/07/2011) [HTML](/news/speeches/remarks-james-h-freis-jr-director-financial-crimes-enforcement-network-1) | [PDF](/system/files/shared/20111110.pdf)
+* FinCEN Director Freis discusses sharing and protecting information to promote AML effort at the Association of Mexican Banks AML & Terrorism International Seminar (09/29/2011) [HTML](/news/speeches/prepared-remarks-james-h-freis-jr-director-financial-crimes-enforcement-network-12) | [PDF](/system/files/shared/20110929.pdf)
+* Prepared Remarks of FinCEN Associate Director Bess Michael, Delivered at the Institute of International Bankers Annual Anti-Money Laundering Seminar (05/23/2011) [HTML](/news/speeches/prepared-remarks-bess-michael-associate-director-international-programs-division) | [PDF](/system/files/shared/20110531.pdf)
+* Prepared Remarks of FinCEN Director Freis on Global Initiatives to Combat Transnational Crime (04/25/2008) [HTML](/news/speeches/prepared-remarks-james-h-freis-jr-director-financial-crimes-enforcement-network-us) | [PDF](/system/files/shared/20080425.pdf)
+* Prepared Remarks of FinCEN Director William J. Fox on the Occasion of FinCEN Hosting the 13th Plenary Session of the Egmont Group of Financial Intelligence Units (06/30/2005) [HTML](/news/speeches/opening-remarks-william-j-fox-director-financial-crimes-enforcement-network-united) | [PDF](/system/files/shared/20050630.pdf)
+
+#### Egmont Group Plenary Meetings
+
+Egmont Group Co-Chairs Statement on the 21st Plenary of the Egmont Group of FIUs [HTML Only](http://www.egmontgroup.org/news-and-events/news/2013/07/05/co-chairs-statement-21st-egmont-plenary-2013)
+
+#### Egmont Archive
+
+* Message from Director Freis Regarding the 2012 Egmont Group Plenary (07/18/2012) [HTML Only](/news/news-releases/message-director-freis-2012-egmont-group-plenary)
+* Message from Director Freis Regarding the 2011 Egmont Group Plenary (07/19/2011) [HTML Only](/news/news-releases/message-director-freis-2011-egmont-group-plenary)
+* Message from Director Freis Regarding the 2010 Egmont Group Plenary (07/02/2010) [HTML Only](/news/news-releases/message-director-freis-2010-egmont-group-plenary)
+* Message from Director Freis Regarding the 2009 Egmont Group Plenary (06/04/2009) [HTML Only](/news/news-releases/message-director-egmont-plenary)
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+  + [Egmont Group of FIUs](/resources/international/egmont-group-financial-intelligence-units)
+  + [Financial Action Task Force](/resources/international/financial-action-task-force)
+  + [International AMLCFT Events](/resources/international/significant-international-amlcft-events)
+  + [Transnational Organized Crime](/resources/international/combating-transnational-organized-crime)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)
+
+Header
+
+QUICK LINKS
+
+* [BSA Forms](/resources/filing-information)
+* [MSB Registration Web site](/msb-state-selector)
+* [Chapter X Main Page](/resources/statutes-regulations/chapter-x)

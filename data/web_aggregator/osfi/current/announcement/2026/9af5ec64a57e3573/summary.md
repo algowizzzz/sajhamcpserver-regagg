@@ -1,0 +1,1 @@
+Summary: # Part XII: Acquisition of control of a provincially regulated financial institution or other financial intermediary

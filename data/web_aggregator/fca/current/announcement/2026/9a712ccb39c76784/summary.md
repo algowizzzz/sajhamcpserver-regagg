@@ -1,0 +1,1 @@
+Summary: The FCA has censured Equity for Growth (Securities) Limited (EFG) for approving financial promotions relating to minibonds that were unfair, unclear and misleading.

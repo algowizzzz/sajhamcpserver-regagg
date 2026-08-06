@@ -1,0 +1,27 @@
+{
+  "doc_id": "1889472190b53291",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2027-car-nfp-ch1-dft-en.pdf",
+  "language": "en",
+  "source_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2027-car-nfp-ch1-dft-en.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:72862f5b9fdacc4c55c6e9f740da461f7c8db80f328442d6fc6f412e573a6c57",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/1889472190b53291",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2027-car-nfp-ch1-dft-en.pdf",
+  "fetch_method": "pdf_to_md"
+}

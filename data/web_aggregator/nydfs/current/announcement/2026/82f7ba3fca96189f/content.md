@@ -1,0 +1,39 @@
+![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS-logo_1280x512.svg)
+
+[Back To Newsroom](/node/241971)
+
+## Superintendent Adrienne A. Harris Secures $40 Million Settlement with Block, Inc. for Inadequate Anti-Money Laundering Program and Virtual Currency Compliance Failures on Cash App Platform
+
+SHARE
+
+### Superintendent Adrienne A. Harris Secures $40 Million Settlement with Block, Inc. for Inadequate Anti-Money Laundering Program and Virtual Currency Compliance Failures on Cash App Platform
+
+DFS Investigation Found Insufficient Customer Identification Procedures and Transaction Monitoring Led to Increased Money-Laundering Risk  
+  
+Settlement Requires Block to Hire an Independent Monitor to Oversee Compliance Improvements
+
+**April 10, 2025**
+
+Superintendent of Financial Services, Adrienne A. Harris, announced today that Block, Inc. will pay a $40 million penalty for significant failures in its Bank Secrecy Act/Anti-Money Laundering compliance program, which violated the Department’s money transmitter and virtual currency regulations. In addition to the monetary penalty, Block is required to retain an independent monitor to perform a comprehensive evaluation of its compliance with the Department’s regulations and its remediation efforts.
+
+“All financial institutions, whether traditional financial services companies or emerging cryptocurrency platforms, must adhere to rigorous standards that protect consumers and the integrity of the financial system,” **said Superintendent Harris**. “Compliance functions must keep pace with company growth or expansion. The rapid growth of Block’s Cash App absent a robust compliance function created risk and vulnerabilities that violated the rules financial services companies operating in New York must adhere to. The Department is taking decisive steps to ensure accountability, including the appointment of an independent monitor to oversee corrective measures.”
+
+Block owns and operates Cash App, a peer-to-peer money transmission service that allows users to send and receive fiat currency. The company has been licensed by the Department to conduct money transmission business in the State of New York since 2013, and virtual currency business through Cash App since 2018.
+
+The Department’s investigation revealed critical gaps in Block’s Bank Secrecy Act/Anti-Money Laundering (BSA/AML) program, including inadequate customer due diligence, failure to implement sufficient risk-based controls designed to prevent money laundering and illicit activity, and failure to effectively and timely monitor transactions. Notably, Block’s lax treatment of high-risk Bitcoin transactions allowed largely anonymous transactions to proceed without proper scrutiny. Additionally, Block’s rapid growth between 2019 and 2020 contributed to a severe transaction alert backlog, which Block left unaddressed for a significant period of time.
+
+Block’s rapid growth, coupled with inadequate BSA/AML controls, created an environment vulnerable to criminal exploitation. Under the terms of the consent order, an Independent Monitor will be installed to ensure Block builds a successful and effective compliance program capable of identifying and preventing illicit activity, protecting the integrity of New York’s financial system.
+
+The Department acknowledges Block’s cooperation throughout the investigation. The company has already committed significant financial and other resources to remediate the shortcomings identified in the Consent Order.
+
+Read the [Block consent order](/industry-guidance/enforcement-discipline/ea20250410-block) on the Department’s website.
+
+### Contact the Press Office
+
+Contact us by phone:
+
+(212) 709-1691
+
+Contact us by email:
+
+[[email protected]](/cdn-cgi/l/email-protection#572722353b3e347a363131363e25241733312479392e79303821)

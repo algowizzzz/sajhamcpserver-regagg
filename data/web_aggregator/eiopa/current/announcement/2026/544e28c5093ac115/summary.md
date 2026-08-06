@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) established today its Consultative Expert Group on Digital Ethics in Insurance.

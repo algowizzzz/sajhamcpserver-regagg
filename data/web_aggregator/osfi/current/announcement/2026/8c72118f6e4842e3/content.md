@@ -1,0 +1,347 @@
+# Life Insurance Return – Section VI – Change Control Log
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Insurance companies
+
+Return
+
+Life Insurance Return and Instructions
+
+Last updated
+
+October 2025
+
+Accompanying documents
+
+* [2025 Annual Update to the Manual of Financial Reporting Forms and Instructions for Life Insurance Companies and Fraternal Benefit Societies](/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-life-insurance-companies-fraternal)
+* [Life Insurance Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/life-insurance-return)
+
+## 2025 Updates
+
+The following changes have been made during the course of the 2025 year:
+
+### Instructions
+
+No changes made.
+
+### 2025 “Q4” Annual and Quarterly Returns
+
+| Page | Changes |
+| --- | --- |
+| 98.060 | **Deleted.** |
+
+### 2026 “Q1” Quarterly Returns
+
+No changes made.
+
+## 2024 Updates
+
+The following changes have been made during the course of the 2024 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section I | * Instructions for Foreign Life Insurance Companies and Fraternal Benefit Societies – **Updated** * External Auditor Reports – **Added** |
+| Section IV | * Page 10.000 – **Updated** * Pages 10.002 – 10.004 – **Updated** * Page 10.020, line 001-020 – **Updated** * Page 10.020, line 021 – **Added** * Page 20.004, line 155 – **Added** * Page 20.016/20.017, line 530 – **Added** * Page 20.018/20.019, line 330 – **Added** * Page 20.022, line 220 – **Updated** * Page 20.022, line 315 – **Added** * Page 20.054, lines 310 and 320 – **Deleted** * Page 21.020 title – **Updated** * Page 21.020, columns 10 to 46 – **Updated** * Page 21.020, lines 60 and 71 – **Added** * Page 21.100 – Part B – **Updated** * Page 21.150 – **Updated** * Page 22.010 – **Updated** * Page 22.020 – **Updated** * Page 75.030 – **Updated** |
+| Section V | * New Brunwisk contact information – **Updated** * Ontario contact information – **Updated** * “Filing Requirements” for all jurisdictions – **Updated** * Federal section – **Updated** |
+
+### 2024 “Q4” Annual and Quarterly Returns
+
+| Page | Changes |
+| --- | --- |
+| All | Column heading “Prior Period Restated” to “Prior Period” – **Updated** |
+| 10.000, 10.002, 10.004 | Page title – Information **Added** |
+| 20.004 | Lines 155, 160, 175 and 180 – Page reference **Updated** |
+| 20.022, 20.032 | * Line 220 – **Updated** * Line 300 – Page reference **Deleted** |
+| 20.040 | * Lines 020, 320, 520 and 720 – **Updated** * Lines 030, 330, 530 and 730 – **Deleted** |
+| 20.044 | * Line 020 – **Updated** * Line 030 – **Deleted** |
+| 20.054 | * Lines 010, 049 and 099 – **Updated** * Lines 012, 310 and 320 – **Deleted** |
+| 21.012 | Line 050 – **Added** |
+| 21.020 | * Page title – **Updated** * Columns 10 and 60 – **Updated** |
+| 23.010 | * Lines 010 and 109 – **Added** * Sub-title above line 050 – **Updated** * Lines 099 and 889 – Page reference **Deleted** * Lines 830 and 889 – **Updated** |
+| 23.045 | * Line 105 – **Added** * Line 199 – **Deleted** |
+| 35.035, 35.045, 35.055, 35.065 | * Lines 250 and 255 – **Deleted** * Lines 260 and 265 – **Added** |
+| 45.060 | Line 699 – **Added** |
+| 20.038, 35.015, 35.025, 70.022, 70.036 | Line 220 – **Updated** |
+
+### 2025 “Q1” Quarterly Returns
+
+No changes made.
+
+## 2023 Updates
+
+The following changes have been made during the course of the 2023 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section IV | * Instructions related to Prior periods for quarterly reports – **Updated** * Page 23.025 – **Updated** |
+| Section V | * Regulators – **Updated** * Alberta, British Columbia and Northwest Territories – **Updated** * Federal (Filing Requirements) – **Updated** |
+
+### 2023 “Q4” Annual and Quarterly Returns
+
+No changes made.
+
+### 2024 “Q1” Quarterly Returns
+
+No changes made.
+
+## 2022 Updates
+
+### 2023 Quarterly and Annual Returns and Instructions
+
+With the implementation of IFRS 17, the existing Life Quarterly (10Q) and Annual Supplement (10A) returns have been decommissioned. New Quarterly and Annual Returns (Life Core Financial Statement Return (LF1), Life Supervisory Quarterly Return (LF2), Life Supervisory Annual Return (LF3) and Life Provincial Return (LFPROV)) have been created effective Q1 2023.
+
+All readers are encouraged to fully review the 2022 updated instructions, and the 2023 edition of the Quarterly and Annual Return filings.
+
+## 2021 Updates
+
+The following changes have been made during the course of the 2021 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section I | General email address – **Updated** |
+| Section V | * Saskatchewan contact information – **Updated** * Federal contact information – **Updated** * Saskatchewan – **Updated** |
+
+### 2021 “Q4” Quarterly Return
+
+No changes made.
+
+### 2021 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 10.002 | Foreign Affidavit – Wording **Updated** |
+
+### 2022 “Q1” Quarterly Return
+
+No changes made.
+
+## 2020 Updates
+
+The following changes have been made during the course of the 2020 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section V | * All references to AAR-DCAT – **Updated** to AAR-FCT * BC contact information – **Updated** * Quebec – **Updated** * British Columbia – **Updated** |
+| Section VI | Page 75.070, column 02 – **Added** |
+
+### 2020 “Q4” Quarterly Return
+
+No changes made.
+
+### 2020 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 10.005 | Quebec Affidavit – Wording **Updated** |
+| 10.090 | Question 5.5 – Wording **Updated** |
+
+### 2021 “Q1” Quarterly Return
+
+No changes made.
+
+## 2019 Updates
+
+The following changes have been made during the course of the 2019 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section V | * NB contact information – **Updated** * Yukon – **Updated** * Federal – **Updated** |
+| Section VI | * Page 20.031 – **Updated** * Page 20.037 – **Added** * Page 35.040 – **Updated** * Page 75.010 and 75.020 – **Updated** |
+
+### 2019 “Q4” Quarterly Return
+
+No changes made.
+
+### 2019 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 20.037 | **New** (BC Incorporated Insurers only) |
+| 70.010 | * Lines 550 and 750 – Wording **Changed** * Line 700 – **Deleted** |
+| 70.042 | * Line 460 – **Relocated** below line 440 * Line 860 – **Relocated** below line 840 |
+| 75.010/75.020 | * Title of page – Wording **Changed** * Lines 299, 599 and 749 – **Deleted** |
+
+### 2020 “Q1” Quarterly Return
+
+No changes made.
+
+## 2018 Updates
+
+The following changes have been made during the course of the 2018 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section III | * All references to MCCSR Guideline – **Updated** to LICAT Guideline * CAR definition – **Updated** * LICAT/LIMAT definition – **Added** * MCCSR/TAAM definition – **Deleted** * TAAM definition – **Deleted** |
+| Section V | All jurisdictions – **Updated** |
+| Section VI | * All references to MCCSR Guideline – **Updated** to LICAT Guideline * Page 20.010, lines 510 and 540 – **Added** * Page 20.020, line 160 – **Added** * Page 20.030, line 075 – **Added** * Page 20.031 – **Added** * Page 20.042, lines 220, 225 and 775 – **Added** * Page 70.035, line 075 – **Added** * Page 70.042, lines 220, 225 and 775 – **Added** |
+
+### 2018 “Q4” Quarterly Return
+
+| Page | Changes |
+| --- | --- |
+| 20.040 | * Lines 540 and 570 – **Relocated** below line 740 * Line 580 – **Added** |
+
+### 2018 Annual Supplement
+
+No additional changes introduced. See 2017 Updates for further details.
+
+### 2019 “Q1” Quarterly Return
+
+| Page | Changes |
+| --- | --- |
+| 20.031 | **New** (BC Incorporated Insurers only) |
+
+## 2017 Updates
+
+The following changes have been made during the course of the 2017 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section VI | * Page 20.030, lines 342, 344 – **Updated** * Page 21.012 – **Addition** * Page 21.012, columns 52, 53 and 54 – **Added** * Page 21.020 – **Addition** * Page 21.020, columns 10-46 – **Modified** * Page 21.020, columns 10 to 59 – **Added** * Page 21.070, column 70 – **Deletion** * Pages 35.010-35.020, lines 342-344 – **Updated** * Page 60.020 – **Modified** * Page 60.030, lines 110, 210 – **Additions/Deletions** * Page 60.030, lines 610-689 – **Updated** * Pages 70.010-70.042 – **Addition** * Pages 95.010-95.040, column 18 – **Updated** |
+
+### 2018 “Q1” Quarterly Return
+
+| Page | Changes |
+| --- | --- |
+| 20.020 | Line 840 – Page reference **Added** |
+| 20.021 | Line 840 – Page reference **Added** |
+| 20.030 | * Line 340 – **Deleted** * Lines 342, 344 – **Added** * Lines 859, 870, 899, 980, 989 – Wording **Changed** |
+| 20.041 | Line 299 – Page reference **Added** |
+| 20.044 | Line 080 – Page reference **Added** |
+| 20.042 | * Lines 010, 170, 615, 770 – Wording **Changed** * Lines 465, 865 – **Added** |
+| 20.054 | Column 16 – Wording **Changed** |
+| 21.012 | * Columns 11, 16 – Wording **Changed** * Columns 52, 53, 54, 55 – **Added** * Footnote – **Updated** |
+| 21.020 | * Columns 01, 06, 16, 21, 26, 31 – **Deleted** * Columns 33, 35, 57, 58, 59 – **Added** * Columns 40, 60 – Wording **Changed** |
+| 35.010 | * Line 340 – **Deleted** * Lines 342, 344 – **Added** * Lines 859, 870, 899, 980, 989 – Wording **Changed** |
+| 35.020 | * Line 340 – **Deleted** * Lines 342, 344 – **Added** * Lines 859, 870, 899, 980, 989 – Wording **Changed** |
+| 60.030 | * Page title – Wording **Changed** * Second table – Wording **Changed** |
+| 70.010-70.042 | Pages – **Added** (for provincial insurers and insurers/societies licensed in Quebec) |
+| 70.030 | * Line 340 – **Deleted** * Lines 342, 344 – **Added** * Lines 859, 870, 899, 980, 989 – Wording **Changed** |
+| 70.035 | * Line 340 – **Deleted** * Lines 342, 344 – **Added** * Lines 859, 870, 899 – Wording **Changed** |
+| 70.042 | * Lines 010, 170, 615, 770 – Wording **Changed** * Lines 465, 865 – **Added** |
+
+### 2018 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 10.070 | Column 08 – Reference **Added** |
+| 21.050 | Column 36 – Wording **Changed** |
+| 21.060 | Column 31 – Wording **Changed** |
+| 21.070 | Column 70 – Wording **Changed** |
+| 21.075 | Column 70 – Wording **Changed** |
+| 60.010 | Lines 310, 340, 360, 389 – **Deleted** |
+| 60.020 | * First table heading – Wording **Changed** * Second table heading – Wording **Changed** * Columns 11, 41 – **Deleted** |
+| 70.030 | * Line 340 – **Deleted** * Lines 342, 344 – **Added** * Lines 859, 870, 899, 980, 989 – Wording **Changed** |
+| 70.035 | Page – **Deleted** (moved to Quarterly Return) |
+| 70.042 | * Lines 010, 170, 615, 770 – Wording **Changed** * Lines 465, 865 – **Added** |
+
+## 2016 Updates
+
+The following changes have been made during the course of the 2016 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section V | * Nunavut – **Updated** * Federal – **Updated** |
+| Section VI | * Page 60.010 – **Modified** * Page 60.010, line 740 – **Deletion** * Page 60.020, column 21 – **Modified** * Page 60.030 – **Additions/Deletions** |
+
+### 2016 “Q4” Quarterly Return
+
+No changes made.
+
+### 2016 Annual Supplement
+
+| Page | Changes |
+| --- | --- |
+| 10.033 | * Lines 210-250 – **Deleted** * Lines 310-350 – **Added** |
+| 20.085 | Wording **Changed** |
+| 21.100 | Column 16 heading – **Changed** |
+
+## 2015 Updates
+
+The following changes have been made during the course of the 2015 year:
+
+### Instructions
+
+| Section | Changes |
+| --- | --- |
+| Section VI | * Page 20.030, lines 310-320 – **Deletion/addition** * Page 60.020 – **Addition** * Page 98.060-.070-.080 – **Modified** * Page 98.060-.070 – **New** |
+
+### 2015 “Q4” Quarterly Return
+
+No changes made.
+
+### 2015 Annual Supplement
+
+No changes made.
+
+## 2014 Updates
+
+The following changes have been made during the course of the 2014 year:
+
+### Instructions
+
+A comprehensive review of the instructions was performed in 2013-14. Significant changes have been made to the Life Insurance Return instructions.
+
+All readers are encouraged to completely review the 2014 edition.
+
+### 2014 “Q4” Quarterly Return
+
+| Page | Changes |
+| --- | --- |
+| Cover | **New** |
+| Table of Contents | **New** |
+| 10.006 | Certification page – **Added** |
+| 21.012 | Line 759 – Wording **Deleted** |
+| 21.080 | Page **Added** to Quarterly Return |
+| 60.030 | Footnotes – **Deleted** (and added within the instructions) |
+
+### 2014 Annual Supplement
+
+Significant changes include:
+
+* Combining of the Life-1 and Life-2 Returns.
+* 1 Quarterly Return to be filed at all 4 quarters and 1 Annual Supplement Return to be filed with the Q4 filing.
+
+| Page | Changes |
+| --- | --- |
+| 10.020 | Column 01 – Wording **Added** |
+| 10.060 | Question 2.2 – Wording **Added** |
+| 21.130 | * Page sub-title – **Deleted** * Column 32 – Wording **Deleted** |
+| 60.020 | Column 50 – **Added** |
+| 70.010 | Line 840 – Wording **Deleted** |
+| 70.020/70.021 | Line 145 – Wording **Deleted** |
+| 75.050/75.060 | Columns 31 and 32 Heading – Wording **Added** |
+
+### 2015 “Q1” Quarterly Return
+
+| Page | Changes |
+| --- | --- |
+| 21.080 | New quarterly page; applicable to insurers/societies licensed in the province of Alberta for Q1-Q3 |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-10-01

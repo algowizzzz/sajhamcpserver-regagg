@@ -1,0 +1,47 @@
+# Suspicious Activity Report Leads to Guilty Plea in Structuring Case
+
+[108.pdf](/system/files/case_example/108.pdf "108.pdf")
+(23.32 KB)
+
+In a case that started from a proactive review of SARs, an automobile dealership pleaded guilty to conducting transactions designed to avoid the filing of Currency Transaction Reports. Although the SAR only details activity that occurred in a period of twenty days, investigators found a pattern of transactions where the business engaged in a process to sell autos while ignoring and violating Bank Secrecy Act (BSA) requirements as well as avoiding traditional financing arrangements. Less than one year passed from the time the financial institution filed a SAR to when the corporate entity entered a guilty plea.
+
+In late 2006, an automobile dealership pleaded guilty to structuring cash deposits. The business faced a maximum term of five years probation, a fine of $50,000, and a special assessment.
+
+According to court documents, between April 2005 and January 2006, the business structured 20 cash deposits totaling over $400,000 into the company’s bank account. As part of the plea agreement, the corporation also forfeited over $325,000 to the U.S. Government. This amount is in addition to almost $70,000 administratively forfeited.
+
+The reporting financial institution noted that on twelve occasions in December
+
+2005, the business conducted transactions where an amount of currency just under the reporting requirement was deposited into the business’s account. The amount of currency ranged from $7,000 to over $9,000 and the total deposits for each day ranged from almost $11,000 to just under $20,000.
+
+Investigators found that the business dealt strictly with used cars. Normally, the defendants arranged for the sale of cars through cash payments and in-house financing. Buyers would typically pay a large portion in cash, up to $9,000, and finance the rest in $350 payments. The business performed no background or credit checks on buyers, nor did they complete any Bank Secrecy Act forms on the auto sales.
+
+The reporting bank completed a SAR in late 2005, and investigators reviewed it in February 2006. Investigators conducted a seizure in April of that year and conducted interviews in May. Based on the evidence the investigators had, the corporation agreed to a pre-indictment plea in late 2006.
+
+(Investigating Agency: Internal Revenue Service)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 12, October 2007]
+
+Tags
+
+Depository Institutions
+
+BSA Violations
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

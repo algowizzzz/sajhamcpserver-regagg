@@ -1,0 +1,1 @@
+Summary: # Spécifications opérationnelles des relevés sur les risques climatiques pour les assureurs

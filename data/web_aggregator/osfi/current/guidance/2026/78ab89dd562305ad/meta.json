@@ -1,0 +1,27 @@
+{
+  "doc_id": "78ab89dd562305ad",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Large Exposure Limits - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d7aa2e4edfd1e1bcd1428c47aaf97a0ff352d3ef06eb3d8685878e9d4c302c0c",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/78ab89dd562305ad",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits",
+  "fetch_method": "html_to_md"
+}

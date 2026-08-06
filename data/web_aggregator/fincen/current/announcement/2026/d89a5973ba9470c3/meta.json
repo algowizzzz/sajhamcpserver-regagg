@@ -1,0 +1,24 @@
+{
+  "doc_id": "d89a5973ba9470c3",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "BSA Records Identify Accounts and Transactions Related to an Illegal Gambling Enterprise | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/bsa-records-identify-accounts-and-transactions-related",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:11f2066a4605d64bc231c82935382e138b4f1253bf6fcb6756d6d4b629ca2a0a",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/d89a5973ba9470c3",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

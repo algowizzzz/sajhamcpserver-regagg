@@ -1,0 +1,56 @@
+# Pay, benefits and advantages
+
+Our business is all about the money, but, as an employer, we are all about our people. Our employees are our most valuable resource, and we are fully invested in their success.
+
+## Pay and benefits
+
+We offer an attractive compensation package, with competitive salaries and flexible benefits to meet the diverse needs of employees. Some highlights of our compensation and benefits include:
+
+* [Competitive salary](/emplo/sal-eng) and performance pay
+* Vacation leave starting at 15 days and increases based on the number of years of service\*
+* Up to 15 days of sick leave is earned yearly\*
+* Opportunities to deploy to and from the Core Public Administration
+* Benefits are transferable to and from the Core Public Administration
+
+Employees and their families may be eligible for health, dental, life and disability insurance coverage.
+
+* For more information, visit the [public service group insurance benefit plans website](https://www.canada.ca/en/treasury-board-secretariat/topics/benefit-plans.html).
+
+The public service pension plan is a fully indexed, defined benefit plan designed to provide employees with a lifetime income after retirement.
+
+* For more information, visit the [public service pension plan website](https://www.canada.ca/en/treasury-board-secretariat/topics/pension-plan.html).
+
+\*excludes casual and student contracts
+
+## Work-life balance
+
+The physical and psychological well-being of our employees is a top priority. We recognize that employees have families and interests outside of work and we are proud to offer a variety of programs and resources to assist them in achieving a healthy balance between their professional and personal lives.
+
+**Flexible by design work arrangements:** telework, flexible work hours, compressed work weeks, and leave with income averaging may be available, subject to operational requirements.
+
+**Healthy lifestyle:** Employees are eligible for discounted fitness club memberships, and the discount is extended to spouses and partners.
+
+**Info sessions:** Employees can learn about other health and wellness initiatives by accessing a variety of info sessions available to them such as Life Speak wellbeing sessions.
+
+**Additional support:** We have an Employee Assistance Program accessible by employees and their family members 24 hours a day, 7 days a week, which offers confidential counselling free of charge to help them manage a range of personal and work-related challenges and concerns. Also, FINTRAC’s Ombuds Office for Workplace Wellness provides a trusted, safe, impartial and informal forum for employees to share their personal or workplace issues or concerns that impact their mental health. The Office also helps employees navigate the various resources and systems that are available when they need them.
+
+## Professional development
+
+We pride ourselves on being a learning organization. That’s why employees have an individualized learning plan, and are encouraged to participate in training courses and activities to develop their knowledge and skills or to broaden their perspectives.
+
+FINTRAC invests in various leadership programs and we have our very own Talent Management Program designed to support ongoing growth, development and retention. Employees are encouraged to pursue career opportunities within the organization to broaden their experience, develop their skills and reach their full potential.
+
+Our business is unique and we have developed a broad range of innovative and interactive programs, and initiatives to maintain a learning culture, including:
+
+* **FINTRAC 101 Series** – to learn more about the organization's business
+* **Take Me With You program** – to observe committees and other meetings of interest
+* **FINTRAC Exchange program** – to participate in a one-year internal assignment
+* **Mentorship program** – to gain valuable insights from a senior leader and enhance professional development goals
+
+## Terms and conditions of employment
+
+* [Employee (FC-01 to FC-09)](/emplo/conditions-emplo-eng)
+* [Executive (FC-10 to FC-13)](/emplo/conditions-eng)
+
+Date Modified:
+:   2026-07-16

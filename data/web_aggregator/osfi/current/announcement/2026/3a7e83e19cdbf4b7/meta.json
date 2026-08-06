@@ -1,0 +1,25 @@
+{
+  "doc_id": "3a7e83e19cdbf4b7",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Instructions sur le relev\u00e9 trimestriel sur la simulation de crise des liquidit\u00e9s intrajournali\u00e8res | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/instructions-sur-releve-trimestriel-sur-simulation-crise-liquidites-intrajournalieres",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:50254a55f55c2e75665b9fc1ec76ffdb78ee11e0dc7fce6ffc4b4f85b565bbfc",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/3a7e83e19cdbf4b7",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

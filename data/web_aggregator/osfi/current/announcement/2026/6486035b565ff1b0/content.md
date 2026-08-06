@@ -1,0 +1,63 @@
+# A supervisory approach fit for the future
+
+## Good prudential supervision is vital
+
+Our main goal is to protect depositors, policyholders, and pension plan members from loss. If the organizations we regulate take excessive risks, it could jeopardize the safety and soundness of Canada’s financial system.
+
+The Supervisory Framework guides our oversight of financial institutions and pension plans. Supervision is judgment-based, and we use the framework to help identify risks as well as our response to those risks.
+
+## We’ve modernized the framework to make sure it remains fit for purpose
+
+Our new Supervisory Framework became effective on April 1, 2024. The new framework applies to both financial institutions and pension plans and recognizes the specific nature of the different industries we regulate.
+
+The previous framework served us well, but changes in the risk environment meant that it was time for an update to:
+
+* better capture the impact of the broader economic environment on the risk profile of federally regulated financial institutions and pension plans;
+* build flexibility to accommodate new business models and new risks, including integrity and security risks; and
+* further leverage data and advanced analytics to promote more risk-based supervision.
+
+By offering insights into how our approach is evolving, we hope you’ll better understand our role in maintaining the soundness of Canada’s financial system.
+
+## Supporting our ability to take early corrective action
+
+We aim to act early to address risks that could jeopardize the public’s confidence in the soundness of the Canadian financial system. To that end, we designed the new framework to respond quickly to the most serious risks and provide greater transparency to financial institutions through disclosure of:
+
+* a new tier rating based on size, complexity, and potential for contagion
+* a rating reflecting viability risk according to an expanded 8-point scale
+* for larger institutions, we will also include ratings of business risk, financial resilience, operational resilience and risk governance
+
+Our intervention stage ratings will continue on the existing scale. These stage ratings will be an ‘anchor’ to our intervention activities as other elements of the framework change.
+
+Switching to the new framework is not expected to change intervention ratings. However, financial institutions likely to see their ratings change more frequently than in the past, as we expect the new framework to be more responsive to changes in risk and as supervisors seek to distinguish more clearly between adequate and stronger practices. This information will help institutions achieve outcomes that address supervisory concerns.
+
+## Supervisory judgement remains a key part of the new Supervisory Framework
+
+While the risk environment is changing, the role of the supervisor stays the same and our approach is still principles-based and forward-looking.
+
+The Supervisory Framework provides a structure for our risk assessment. As such, we do not conduct public consultation about changes to the framework. The development process included a study of approaches used by prudential regulators in peer jurisdictions.
+
+We’re investing in continuous improvement. This will include a post-implementation review of the new framework and holistic reviews at least once every five years.
+
+## A new Supervision Institute
+
+We’re also developing a **Supervision Institute** to help our supervisors enhance their skills by offering:
+
+* new or improved supervisory tools and practices
+* new supervision technologies
+
+## A word from the Deputy Superintendent of Supervision
+
+> OSFI will never rest easy when it comes to the role of supervision in promoting financial safety and soundness. Our supervisors are on the front-line, verifying that Canada’s federally regulated financial institutions and private pension plans are meeting regulatory expectations through effective corporate governance and sound risk management. We’re working hard on transforming our approach to supervision that builds capability and is best suited for the changes in the risk environment. I look forward to sharing more on our approach to supervision throughout the coming year.
+
+![](/sites/default/files/images/conversation-ben-gully-en.png)
+
+[Watch a discussion with Ben Gully on OSFI’s supervisory approach](/en/about-osfi/multimedia-library/discussion-ben-gully-osfis-supervisory-approach "Discussion with Ben Gully on OSFI’s supervisory approach")
+
+## Related links
+
+* [​OSFI’s Supervisory Framework](/en/supervision/supervisory-practices/supervisory-framework-0 "Supervisory Framework")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-06-07

@@ -1,0 +1,7 @@
+# I was fined £500 after putting a coffee cup in a rubbish bag next to a full bin
+
+Reader expresses consternation after enforcement officer issues penalty notice outside station in London I was outside London Waterloo railway station and was looking for a bin to dispose of an empty coffee cup. The only bin I could see was completely full, but there was a plastic bag containing rubbish at the base. Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/money/2026/aug/03/littering-fine-coffee-cup-rubbish-bag-next-to-full-bin)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

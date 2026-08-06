@@ -1,0 +1,24 @@
+{
+  "doc_id": "0d4d6e37f826f03e",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Penalties for non-compliance",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/pen/1-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:61b07e19fa0ef09400a076d94d2b30a7352ac165242d00d8e20de0e75bf7143b",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/0d4d6e37f826f03e",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

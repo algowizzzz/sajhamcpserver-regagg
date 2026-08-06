@@ -1,0 +1,1 @@
+Summary: # Plan ministériel du Centre d'analyse des opérations et déclarations financières du Canada pour 2024-2025

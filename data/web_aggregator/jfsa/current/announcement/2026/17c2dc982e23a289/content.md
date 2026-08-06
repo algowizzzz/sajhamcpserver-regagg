@@ -1,0 +1,96 @@
+* [HOME](/en/index.html)
+
+[Tweet](https://twitter.com/share)
+
+[Japanese![新しいウィンドウで開きます](/images/common/icon_newwin.gif)](/access/index.html)
+
+## FSA Weekly Review
+
+### 2026
+
+* [July 27](/en/newsletter/weekly2026/697.html)
+* [July 22](/en/newsletter/weekly2026/696.html)
+* [July 14](/en/newsletter/weekly2026/695.html)
+* [July 8](/en/newsletter/weekly2026/694.html)
+* [June 29](/en/newsletter/weekly2026/693.html)
+* [June 22](/en/newsletter/weekly2026/692.html)
+* [June 16](/en/newsletter/weekly2026/691.html)
+* [June 9](/en/newsletter/weekly2026/690.html)
+* [June 2](/en/newsletter/weekly2026/689.html)
+* [May 26](/en/newsletter/weekly2026/688.html)
+* [May 19](/en/newsletter/weekly2026/687.html)
+* [May 12](/en/newsletter/weekly2026/686.html)
+* [April 28](/en/newsletter/weekly2026/685.html)
+* [April 21](/en/newsletter/weekly2026/684.html)
+* [April 14](/en/newsletter/weekly2026/683.html)
+* [April 7](/en/newsletter/weekly2026/682.html)
+* [March 31](/en/newsletter/weekly2026/681.html)
+* [March 23](/en/newsletter/weekly2026/680.html)
+* [March 17](/en/newsletter/weekly2026/679.html)
+* [March 10](/en/newsletter/weekly2026/678.html)
+* [March 3](/en/newsletter/weekly2026/677.html)
+* [February 24](/en/newsletter/weekly2026/676.html)
+* [February 16](/en/newsletter/weekly2026/675.html)
+* [February 9](/en/newsletter/weekly2026/674.html)
+* [February 3](/en/newsletter/weekly2026/673.html)
+* [January 26](/en/newsletter/weekly2026/672.html)
+* [January 20](/en/newsletter/weekly2026/671.html)
+* [January 14](/en/newsletter/weekly2026/670.html)
+* [January 7](/en/newsletter/weekly2026/669.html)
+
+## ACCESS FSA (monthly magazine)
+
+### 2026
+
+* ![PDF](/en/images/common/icon_pdf.gif)[April（No.272)](/en/newsletter/accessfsa2026/272.pdf)
+* ![PDF](/en/images/common/icon_pdf.gif)[March（No.271)](/en/newsletter/accessfsa2026/271.pdf)
+* ![PDF](/en/images/common/icon_pdf.gif)[February（No.270)](/en/newsletter/accessfsa2026/270.pdf)
+* ![PDF](/en/images/common/icon_pdf.gif)[January（No.269)](/en/newsletter/accessfsa2026/269.pdf)
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

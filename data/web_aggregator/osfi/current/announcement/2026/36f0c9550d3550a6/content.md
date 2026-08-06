@@ -1,0 +1,82 @@
+# Réserve pour stabilité intérieure
+
+La réserve pour stabilité intérieure (RSI) est un outil préventif fondé sur le risque qui aide à garantir une adéquation entre les niveaux de fonds propres des grandes banques canadiennes, aussi appelées [banques d'importance systémique intérieure](/fr/surveillance/institutions-financieres/banques/banques-dimportance-systemique "Banques d’importance systémique"), et les risques systémiques. Elle contribue au maintien de la stabilité du système financier canadien et par le fait même, de la confiance du public à l'égard du système.
+
+3.0 %
+
+**Réserve pour stabilité intérieure**  
+du total des actifs pondérés en fonction du risque à compter du 19 juin 2026
+
+## Importance de la réserve pour stabilité intérieure
+
+La RSI fait partie du cadre de fonds propres du BSIF régissant les institutions financières fédérales. Elle accroît la confiance du public dans le système bancaire en veillant à ce que les niveaux de fonds propres restent adaptés aux risques pesant sur l'environnement financier.Le BSIF ajuste le taux de la RSI selon la conjoncture et contribue ainsi au maintien de la stabilité du système financier canadien et au renforcement de sa résilience. Grâce à la RSI, les banques peuvent continuer à octroyer des prêts et à contribuer à la croissance économique même si les conditions changent.
+
+![Exigences de fonds propres CET1 s'appliquant aux grandes banques. Version textuelle ci-dessous.](/sites/default/files/images/dsb-rsi-2026-06-19-pillar-pilier-fr.png)
+
+Exigences de fonds propres CET1 s'appliquant aux grandes banques - Version textuelle
+
+À compter du 19 juin 2026, l'attente du BSIF en matière de fonds propres est de 11 % des actifs pondérés en fonction du risque, composée de :
+
+* Exigence minimale de fonds propres (4,5 % des actifs pondérés en fonction du risque)
+* Réserve de fonds propres (2,5 % des actifs pondérés en fonction du risque)
+* Supplément (1 % des actifs pondérés en fonction du risque)
+* Réserve pour stabilité intérieure (3,0 % des actifs pondérés en fonction du risque)
+
+Au 30 avril 2026, les banques déclaraient un niveau moyen de fonds propres de 13,5 % des actifs pondérés en fonction du risque, ce qui dépasse cette attente.
+
+## Établissement du taux de la réserve pour stabilité intérieure
+
+Nous fixons le taux de la RSI en consultation avec nos partenaires fédéraux en réglementation financière. Ce taux est examiné deux fois par année, en juin et en décembre, et peut être ajusté en tout temps si les conditions le justifient. Par exemple, le 13 mars 2020, nous avons fait passer le taux de la réserve de 2,25 % à 1 % en raison de la pandémie de COVID-19.
+
+Nous établissons le taux de la réserve à la lumière des tendances financières et d’une gamme de risques et de vulnérabilités importantes, comme :
+
+Endettement des ménages canadiens
+:   Le taux élevé d’endettement des ménages canadiens nuit à leur capacité de bien gérer les tensions financières. Cela peut se traduire par une réduction des dépenses et ultimement, une récession qui, à son tour, peut entraîner des défauts de paiement et des pertes.
+
+Déséquilibre des actifs au Canada
+:   Une forte augmentation de la valeur ou du prix des actifs, tels que les maisons, peut rendre l’économie vulnérable à une chute des prix. Cette chute peut freiner les dépenses et les investissements en plus de plomber la valeur des sûretés détenues par les banques.
+
+Endettement des entreprises canadiennes
+:   Un taux élevé d’endettement des entreprises restreint la capacité de ces dernières et des gouvernements à résister à des périodes de perturbations économiques. S’ils réagissaient en réduisant leurs dépenses et leurs investissements, les prix pourraient s’effondrer, ce qui pourrait mener à une récession qui entraînerait à son tour des défauts de paiement et des pertes.
+
+Vulnérabilités systémiques externes
+:   On entend par vulnérabilités systématiques externes des changements sur la scène internationale (tels que des pandémies, des conflits ou des troubles politiques) qui fragilisent l’économie canadienne et les grandes banques face à un ralentissement économique. Elles englobent les vulnérabilités quantifiables et celles difficiles à mesurer, mais qui, si elles se concrétisaient, pourraient contribuer au risque macroéconomique à l’échelle mondiale.
+
+## Calendrier et fonctionnement des examens de la réserve pour stabilité intérieure
+
+Nous examinons la réserve périodiquement pour déterminer si elle continue de refléter les risques et vulnérabilités pesant sur le système financier.
+
+La révision du taux de la RSI est l'un des outils dont dispose le BSIF pour favoriser la confiance envers le système financier et maintenir la stabilité de ce système. Le BSIF peut décider d'accroître, d'abaisser ou de maintenir le taux de la RSI selon son évaluation globale du risque.
+
+### Examen récent du concept et de la fourchette de la réserve pour stabilité intérieure
+
+Le 19 juin 2026, le BSIF a réduit la fourchette de la RSI, qui est passée à 0 à 3 % (elle était de 0 à 4 % auparavant). La décision du BSIF d'abaisser le plafond de la fourchette accorde aux grandes banques canadiennes une plus grande marge de manœuvre dans l'utilisation de leurs fonds propres.
+
+Nous examinons le concept et la fourchette de la réserve périodiquement pour nous assurer qu'ils demeurent efficaces et tournés vers l'avenir. Ces examens tiennent compte de l'évolution du paysage financier à l'échelle mondiale, des méthodes de pointe dans le domaine de l'évaluation du risque et des leçons tirées des résultats en matière de surveillance jusqu'à ce jour.
+
+## Liens utiles
+
+* [Annonce de juin 2026](/fr/nouvelles/bsif-ramene-taux-reserve-pour-stabilite-interieure-3-pour-que-grandes-banques-canadiennes-puissent "Le BSIF ramène le taux de la réserve pour stabilité intérieure à 3 % pour que les grandes banques canadiennes puissent utiliser davantage de fonds propres ")
+  + [Résumé de la décision (juin 2026)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-juin-2026 "Réserve pour stabilité intérieure – Résumé de la décision – Juin 2026")
+* [Analyse comparative des ratios de fonds propres des banques canadiennes par rapport à ceux des pairs étrangers – Note technique (Février 2026)](/fr/propos-du-bsif/rapports-publications/analyse-comparative-ratios-fonds-propres-banques-canadiennes-rapport-ceux-pairs-etrangers-note "Analyse comparative des ratios de fonds propres des banques canadiennes par rapport à ceux des pairs étrangers – Note technique – Février 2026")
+* [Annonce de décembre 2025](/fr/nouvelles/bsif-maintient-taux-reserve-pour-stabilite-interieure-35-signe-resilience-dans-environnement-risque "Le BSIF maintient le taux de la réserve pour stabilité intérieure à 3,5 %, signe de résilience dans un environnement de risque en évolution")
+  + [Résumé de la décision (décembre 2025)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-decembre-2025 "Réserve pour stabilité intérieure – Résumé de la décision – Décembre 2025")
+* [Annonce de juin 2025](/fr/nouvelles/bsif-maintient-taux-reserve-pour-stabilite-interieure-35-juin-2025 "Le BSIF maintient le taux de la réserve pour stabilité intérieure à 3,5 % – Juin 2025")
+  + [Résumé de la décision (juin 2025)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-juin-2025 "Réserve pour stabilité intérieure – Résumé de la décision – Juin 2025")
+* [Annonce de décembre 2024](/fr/nouvelles/bsif-maintient-taux-reserve-pour-stabilite-interieure-35-decembre-2024 "Le BSIF maintient le taux de la réserve pour stabilité intérieure à 3,5 % - Décembre 2024")
+  + [Résumé de la décision (décembre 2024)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-decembre-2024 "Réserve pour stabilité intérieure - Résumé de la décision - Décembre 2024 ")
+* [Annonce de juin 2024](/fr/nouvelles/bsif-maintient-taux-reserve-pour-stabilite-interieure-35 "Le BSIF maintient le taux de la réserve pour stabilité intérieure à 3,5 % ")
+  + [Résumé de la décision (juin 2024)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/taux-reserve-pour-stabilite-interieure-resume-decision-juin-2024 "Taux de la réserve pour stabilité intérieure - Résumé de la décision - Juin 2024")
+* [Annonce de décembre 2023](/fr/nouvelles/bsif-maintient-35-taux-reserve-pour-stabilite-interieure-0 "Le BSIF maintient à 3,5 % le taux de la réserve pour stabilité intérieure")
+  + [Résumé de la décision (décembre 2023)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-decembre-2023 "Réserve pour stabilité intérieure - Résumé de la décision - Décembre 2023")
+* [Annonce de juin 2023](/fr/nouvelles/bsif-renforce-resilience-du-systeme-financier-canadien-taux-reserve-pour-stabilite-interieure "Le BSIF renforce la résilience du système financier canadien : le taux de la réserve pour stabilité intérieure s’établit à 3,5 %")
+  + [Résumé de la décision (juin 2023)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-juin-2023 "Réserve pour stabilité intérieure - Résumé de la décision - Juin 2023")
+* [Annonce de décembre 2022](/fr/nouvelles/bsif-etablit-reserve-pour-stabilite-interieure-3-revise-fourchette-connexe "Le BSIF établit la réserve pour stabilité intérieure à 3 % et révise la fourchette connexe")
+  + [Résumé de la décision (décembre 2022)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/examen-reserve-pour-stabilite-interieure-note-sommaire-decembre-2022 "Examen de la réserve pour stabilité intérieure - Note sommaire - Décembre 2022")
+* [Annonce de juin 2022](/fr/nouvelles/bsif-maintient-reserve-pour-stabilite-interieure-250-fait-point-sur-processus-revision-connexe "Le BSIF maintient la réserve pour stabilité intérieure à 2,50 % et fait le point sur le processus de révision connexe")
+* [Cadre conceptuel de la réserve pour stabilité intérieure](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/cadre-conceptuel-reserve-pour-stabilite-interieure "Cadre conceptuel de la réserve pour stabilité intérieure")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2026-06-19

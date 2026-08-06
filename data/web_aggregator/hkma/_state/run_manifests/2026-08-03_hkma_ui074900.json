@@ -1,0 +1,38 @@
+{
+  "run_id": "2026-08-03_hkma_ui074900",
+  "regulator_id": "hkma",
+  "logical_date": "2026-08-03",
+  "trigger": "rerun",
+  "detected": 32,
+  "fetched": 31,
+  "ingested": 31,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 1,
+  "status": "failed",
+  "error_list": [
+    {
+      "url": "https://www.hkma.gov.hk/media/eng/doc/key-functions/banking-stability/supervisory-policy-manual/TB-1.pdf",
+      "error": "HTTPSConnectionPool(host='brdr.hkma.gov.hk', port=443): Max retries exceeded with url: /eng/doc-ldg/spm/current/TB-1 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))"
+    }
+  ],
+  "detected_urls": [
+    "https://www.hkma.gov.hk/eng/regulatory-resources/registers/",
+    "https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-svf-licensees/",
+    "https://www.hkma.gov.hk/eng/regulatory-resources/list-of-ai-related-trustees-acknowledgement/",
+    "https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/",
+    "https://www.hkma.gov.hk/eng/regulatory-resources/authorization-licensing-and-approval/",
+    "https://www.hkma.gov.hk/eng/regulatory-resources/regulatory-guides/svf-and-rps/stored-value-facilities-and-retail-payment-systems/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260803-3/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-8/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-7/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-6/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-5/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-4/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-3/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260730-5/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260730-4/",
+    "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260730-3/"
+  ],
+  "duration_s": 39.587
+}

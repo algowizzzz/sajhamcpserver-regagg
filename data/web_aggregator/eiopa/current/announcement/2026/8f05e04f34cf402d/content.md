@@ -1,0 +1,12 @@
+The European Insurance and Occupational Pensions Authority (EIOPA) and the other two European Supervisory Authorities - the European Banking Authority, the European Securities and Markets Authority - have received a [request](/document/download/71637c30-9530-4598-8afc-279bf88a0c5d_en?filename=request_to_esas_to_issue_recurrent_reports_-_cmu_action.pdf) from the European Commission to issue recurrent reports on the cost and past performance of the main categories of retail investment, insurance and pension products.
+
+The first Report to be issued in 2018 by EIOPA should cover insurance-based investment products (IBIPs) and personal pension products. At a later stage, EIOPA should also report on the costs and performance of Defined Contribution occupational pension schemes.
+
+EIOPA welcomes this request, as transparency and comparability of costs and potential returns are a crucial precondition for sound consumer protection.
+
+Publication date
+:   20 October 2017
+
+## Related links
+
+[Request from the European Commission](/document/download/9f440508-9c32-41da-84ae-22ec22f6fc9a_en?filename=Request%20from%20the%20European%20Commission.pdf)

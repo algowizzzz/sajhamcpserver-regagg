@@ -1,0 +1,78 @@
+OCC Bulletin 2026-29
+|
+June 25, 2026
+
+# Credit Risk: “Lending and Loan Portfolio Risk Management” Booklet of the Comptroller’s Handbook and Rescissions
+
+Share This Page:
+
+### To
+
+Chief Executive Officers of All National Banks, Federal Savings Associations, and Federal Branches and Agencies; Department and Division Heads; All Examining Personnel; and Other Interested Parties
+
+## Summary
+
+The Office of the Comptroller of the Currency today issued the “Lending and Loan Portfolio Risk Management” booklet of the *Comptroller’s Handbook*.
+
+## Rescissions
+
+The “Lending and Loan Portfolio Risk Management” booklet revises and combines the following, which are rescinded with the publication of this booklet:
+
+* The “Loan Portfolio Management” booklet of the *Comptroller’s Handbook* and the April 1998 cover letter that transmitted this booklet
+* *Office of Thrift Supervision (OTS) Examination Handbook* sections
+  + 201, “Overview: Lending Operations and Loan Portfolio Risk Management”
+  + 201p, “Program”
+  + 201q1, “Questionnaire: Lending Overview”
+  + 201q2, “Questionnaire: Portfolio Diversification”
+* The “Loan Portfolio Management” section of the “Internal Control Questionnaire” booklet of the *Comptroller’s Handbook*
+* The “Interest on Loans” section of the “Other Consumer Protection Laws and Regulations” booklet of the *Comptroller’s Handbook*
+
+Also rescinded is OTS Thrift Bulletin 78a, “Investment Limitations under the Home Owners’ Loan Act,” which has been incorporated as appendix K of this booklet.
+
+### Note for Community Banks
+
+These booklets provide information to inform and educate examiners about lending and loan portfolio risk management in banks[1](#ftn1) of all sizes, with emphasis on ranges of practices for varying sizes, complexities, and risk profiles. Examiners determine which expanded procedures to use, if any, based on risk.
+
+## Highlights
+
+The “Lending and Loan Portfolio Risk Management” booklet
+
+* is designed to provide information for examiners regarding
+  + risks associated with lending.
+  + risk-based supervision of lending and loan portfolio risk management, including how ongoing supervision may be used to identify changes, trends, concerns, or emerging risks.
+  + common risk management practices applicable to phases of a loan’s life cycle.
+  + risk management of the loan portfolio.
+* includes examination procedures to assist examiners in lending and loan portfolio risk management examinations, as appropriate based on risk, with emphasis on material financial risks.
+* is designed to be used in conjunction with other booklets in the *Safety and Soundness* and *Consumer Compliance* series of the *Comptroller’s Handbook*.
+
+## Background
+
+The *Comptroller’s Handbook* is designed to
+
+* inform and educate examiners about the subject matter reviewed—including associated risks and appropriate risk management practices.
+* guide examiners in performing consistent, high-quality, professional bank supervision across the spectrum of OCC-supervised banks.
+* provide examiners with the information necessary to plan and coordinate examinations, identify concerns, and conduct appropriate follow-up.
+
+This booklet is designed for use by examiners and is made available to the public to provide transparency into the OCC’s supervisory process. Refer to the “Foreword” booklet of the *Comptroller’s Handbook* for more information about the *Comptroller’s Handbook* generally.
+
+## Further Information
+
+Please contact Enice Q. Thomas, Deputy Comptroller for Credit Risk, at 202-649-8281.
+
+James M. Gallagher  
+Senior Deputy Comptroller and Chief National Bank Examiner
+
+## Related Link
+
+* “[Lending and Loan Portfolio Risk Management](/publications-and-resources/publications/comptrollers-handbook/files/lending-loan-portfolio-risk-management/index-lending-loan-portfolio.html "Lending and Loan Portfolio Risk Management")”
+
+1 “Banks” refers collectively to national banks, federal savings associations, and federal branches and agencies of foreign banking organizations.
+
+#### Topic(s):
+
+* [Commercial Credit](/news-events/newsroom/?topic=Commercial%20Credit)
+* [Credit](/news-events/newsroom/?topic=Credit)
+* [Credit Administration](/news-events/newsroom/?topic=Credit%20Administration)
+* [Loan Purchases, Participations, & Syndications](/news-events/newsroom/?topic=Loan%20Purchases,%20Participations,%20%26%20Syndications)
+* [Retail Credit](/news-events/newsroom/?topic=Retail%20Credit)
+* [Underwriting](/news-events/newsroom/?topic=Underwriting)

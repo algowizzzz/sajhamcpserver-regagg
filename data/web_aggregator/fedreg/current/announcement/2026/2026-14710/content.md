@@ -1,0 +1,5 @@
+# Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps
+
+The Commodity Futures Trading Commission ("CFTC" or the "Commission") is issuing this Order pursuant to Sec. 20.9 of its regulations, the sunset provision of the Commission's large trader reporting rules for physical commodity swaps ("Part 20" or the "Swaps LTR Rules"). Based on the findings set out below, the Commission is rendering the routine position-reporting requirements of Part 20 ineffective and unenforceable, while preserving, pursuant to Sec. 20.9(b), the Commission's authority to require the maintenance and production, on special call, of the underlying books, records, and futures-equivalent conversion methods. As a result, clearing organizations, clearing members, and swap dealers will no longer be required to file the daily and event-based position reports currently required under Part 20.
+
+> Full text pending: source page is bot-gated; this is the official API abstract.

@@ -1,0 +1,20 @@
+Page Content
+
+The European Supervisory Authorities (ESAs) published today a [joint report on innovation facilitators](/document/download/d696fbf6-0b83-40aa-a429-62e61bc953c8_en?filename=Joint%20Report%3A%20FinTech%3A%20Regulatory%20sandboxes%20and%20innovation%20hubs.pdf) (regulatory sandboxes and innovation hubs). The report sets out a comparative analysis of the innovation facilitators established to date within the EU. The ESAs also set out best practices for the design and operation of innovation facilitators.
+
+The number of innovation facilitators in the EU has grown rapidly in recent years. As at the date of the report, 21 EU Member States and 3 EEA States have established innovation hubs and 5 EU Member States have regulatory sandboxes in operation. A comparative analysis of these national innovation facilitators is set out in the report and, based on this analysis, a set of best practices has been prepared. The best practices are intended to: (i) promote consistency across the single market in the design and operation of innovation facilitators; (ii) promote transparency of regulatory and supervisory policy outcomes from arising from interactions in the context of innovation facilitators; and (iii) facilitate cooperation between national authorities, including consumer and data protection authorities.
+
+The ESAs also set out options, to be considered in the context of future EU-level work on innovation facilitators, to promote coordination and cooperation between innovation facilitators which would support the scaling-up of FinTech across the single market.
+
+#### Legal basis and background
+
+The European Commission's March 2018 [FinTech Action Plan](http://ec.europa.eu/info/publications/180308-action-plan-fintech_en)mandates the ESAs to carry out an analysis of innovation facilitators and to identify best practices.
+
+The ESAs have prepared the report pursuant to this mandate and to Article 9(4) of the founding regulation for each of the ESAs which requires each to establish a committee on financial innovation 'which brings together all relevant competent national supervisory authorities with a view to achieving a coordinated approach to the regulatory and supervisory treatment of new or innovative financial activities and providing advice … to present to the European Parliament, the Council and the Commission'.
+
+Publication date
+:   7 January 2019
+
+## Related links
+
+[Joint Report: FinTech: Regulatory sandboxes and innovation hubs](/document/download/d696fbf6-0b83-40aa-a429-62e61bc953c8_en?filename=Joint%20Report%3A%20FinTech%3A%20Regulatory%20sandboxes%20and%20innovation%20hubs.pdf)

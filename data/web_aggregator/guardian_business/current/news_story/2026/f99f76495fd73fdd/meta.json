@@ -1,0 +1,25 @@
+{
+  "doc_id": "f99f76495fd73fdd",
+  "regulator_id": "guardian_business",
+  "doc_type": "news_story",
+  "title": "Government contracts to require job creation instead of green targets under new rules",
+  "language": "en",
+  "source_url": "https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:74a14a9222fe628d49fb2dfb44eeeb3cdbcdf554c7c5aaedc3ed29c6f9919d51",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_guardian_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/guardian_business/current/news_story/2026/f99f76495fd73fdd",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules",
+  "fetch_method": "feed_summary"
+}

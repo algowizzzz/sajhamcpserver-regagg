@@ -1,0 +1,7 @@
+# Christopher Nolan’s The Odyssey gives UK poetry sales an epic boost
+
+Poetry sales surpassed £8m in the first 30 weeks of 2026 and are expected to reach a record high this year thanks to blockbuster adaptation of Homer’s 2,700-year-old poem UK poetry sales are on course to reach a record high this year, buoyed by the success of Christopher Nolan’s blockbuster film adaptation of Homer’s The Odyssey. Poetry sales surpassed £8m during the first 30 weeks of 2026, an increase of 13.3% on the same period last year, according to data from market researchers NielsenIQ. Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/books/2026/aug/04/christopher-nolan-the-odyssey-uk-poetry-sales-boost-homer)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

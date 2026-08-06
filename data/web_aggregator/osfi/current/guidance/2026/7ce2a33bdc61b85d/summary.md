@@ -1,0 +1,1 @@
+Summary: # Settlement Risk in Foreign Exchange Transactions – Guideline (2013)

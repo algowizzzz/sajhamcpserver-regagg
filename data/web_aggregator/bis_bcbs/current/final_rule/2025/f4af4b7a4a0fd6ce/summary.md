@@ -1,0 +1,1 @@
+Summary: [![The Bank for International Settlements](/img/bis-logo-short.gif)](/)

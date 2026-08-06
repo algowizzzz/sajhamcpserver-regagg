@@ -1,0 +1,1257 @@
+# Relevé des flux de trésorerie nets cumulatifs – Recueil d'instructions
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Recueil d'instructions pour le relevé des flux de trésorerie nets cumulatifs (NCCF)
+
+Dernière révision
+
+Février 2026
+
+Entrée en vigueur
+
+Janvier 2025
+
+Table des matières
+
+Documents connexes
+
+* [Version finale des relevés de liquidité de 2023 et consultation sur la version à l’étude des instructions de déclaration des flux de trésorerie nets cumulatifs (NCCF) - Lettre](/fr/consignes/repertoire-consignes/version-finale-releves-liquidite-2023-consultation-sur-version-letude-instructions-declaration-flux)
+* [Normes de liquidité - Ligne directrice (2025)](/fr/consignes/repertoire-consignes/normes-liquidite-ligne-directrice-2025)
+
+## Relevés
+
+[Relevé des changements](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-flux-tresorerie-nets-cumulatifs-releve-modifications "Relevé des flux de trésorerie nets cumulatifs – Relevé des modifications")
+
+### Relevés intégrale (DT2)
+
+[DT2 - Relevé NCCF version intégrale (XLSX, 4,68 Mo)](/sites/default/files/documents/nccf-dt2-return-releve-04-14-2026-fr.xlsx "nccf-dt2-return-releve-04-14-2026-fr.xlsx") [DT2 - Spécifications techniques (XLSX, 1,95 Mo)](/sites/default/files/documents/nccf-dt2-tech-spec-04-14-2026-fr.xlsx "nccf-dt2-tech-spec-04-14-2026-fr.xlsx") [DT2 - Fichier XML (exemple) (XML, 33,38 Ko)](/sites/default/files/documents/nccf-dt2-xml-2026-03.xml "nccf-dt2-xml-2026-03.xml") [DT2 - Fichier XSD (XSD, 452,47 Ko)](/sites/default/files/documents/nccf-dt2-xsd-2026-03.xsd "nccf-dt2-xsd-2026-03.xsd")
+
+### Relevés intégrale (BSIF948)
+
+[BSIF948 - Relevé NCCF version intégrale (XLSX, 4,62 Mo)](/sites/default/files/documents/nccf-osfi948-return-releve-04-14-2026-fr.xlsx "nccf-osfi948-return-releve-04-14-2026-fr.xlsx")
+
+### Relevés simplifiée (DT5)
+
+[DT5 - Relevé NCCF version simplifiée (XLSX, 816,86 Ko)](/sites/default/files/documents/nccf-dt5-return-releve-04-14-2026-fr.xlsx "nccf-dt5-return-releve-04-14-2026-fr.xlsx") [DT5 - Spécifications techniques (XLSX, 1,55 Mo)](/sites/default/files/documents/nccf-dt5-tech-spec-2026-03-fr.xlsx "nccf-dt5-tech-spec-2026-03-fr.xlsx") [DT5 - Fichier XML (exemple) (XML, 113,22 Ko)](/sites/default/files/documents/nccf-dt5-xml-2026-03.xml "nccf-dt5-xml-2026-03.xml") [DT5 - Fichier XSD (XSD, 165,44 Ko)](/sites/default/files/documents/nccf-dt5-xsd-2026-03.xsd "nccf-dt5-xsd-2026-03.xsd")
+
+### Relevés simplifiée (BSIF949)
+
+[BSIF949 - Relevé NCCF version simplifiée (XLSX, 810,34 Ko)](/sites/default/files/documents/osfi949-bsif949-nccf-rtn-05-27-2026-fr.xlsx "osfi949-bsif949-nccf-rtn-05-27-2026-fr.xlsx")
+
+## Relevé des flux de trésorerie nets cumulatifs (NCCF)
+
+### Objet
+
+Ce relevé rend compte des flux de trésorerie nets cumulatifs de l'institution déclarante, ainsi que de la méthode de calcul utilisée. Ce document présente les instructions pour la version intégrale et la version simplifiée du relevé NCCF.
+
+### Fondement législatif
+
+Articles 628 et 950 de la Loi sur les banques (banques et sociétés de portefeuille bancaire, respectivement), article 495 de la Loi sur les sociétés de fiducie et de prêt.
+
+### Application
+
+Certaines banques (y compris les caisses de crédit fédérales), les sociétés de portefeuille bancaire et les sociétés de fiducie et de prêt fédérales (collectivement désignées les « institutions ») sont concernées par le présent relevé.
+
+En particulier,
+
+* la version intégrale du NCCF (DT2) s'applique aux institutions que le BSIF considère comme des banques d'importance systémique intérieure (BISi) et aux petites et moyennes institutions de dépôt (PMB) de catégorie 1; et
+* la version simplifiée du NCCF (DT5) s'applique aux PMB de catégorie 2.
+
+Veuillez vous reporter à la ligne directrice Normes de fonds propres et de liquidité des petites et moyennes institutions de dépôt du BSIF pour connaître les critères de segmentation de la catégorie concernée.
+
+### Fréquence
+
+Mensuelle, sauf si le BSIF exige que cette fréquence soit accrue conformément à la ligne directrice Normes de liquidité (NL).
+
+### Échéance
+
+Les institutions doivent obligatoirement communiquer les NCCF au BSIF au moins une fois par mois, sauf si le BSIF exige que cette fréquence soit accrue. Le délai de production ne doit pas dépasser 14 jours civils. Ce délai peut être ramené à 3 jours ouvrables en situation de crise, à la discrétion du BSIF.
+
+### Destinataire
+
+BSIF
+
+## Instructions générales
+
+Le relevé NCCF doit être établi selon les méthodologies et les calculs décrits au chapitre 4 de la ligne directrice du BSIF sur les normes de liquidité (NL). On trouvera ci-dessous, ainsi qu'à l'annexe 2 du relevé NCCF, des instructions correspondant à chaque donnée à produire. Pour faciliter la production du relevé NCCF, les instructions renvoient aux paragraphes pertinents de la ligne directrice NL.
+
+De façon générale, le relevé NCCF doit être produit sur une base consolidée (les montants en devises doivent être convertis en dollars canadiens).
+
+Dans la version intégrale du relevé NCCF, les flux de trésorerie cumulatifs nets doivent être déclarés en dollars canadiens et dans une des principales devises, à savoir le dollar des États-Unis (USD), l'euro (EUR) et la livre sterling (GBP), ainsi que dans toute autre devise que le BSIF juge nécessaire. Dans la version simplifiée du relevé NCCF, les flux de trésorerie cumulatifs doivent être déclarés sur une base consolidée uniquement, toutes les devises étant regroupées et déclarées en dollars canadiens.
+
+Les NCCF des filiales doivent être déclarés lorsque leur bilan intervient pour au moins 5 % de l'actif notionnel consolidé, ou à la demande du BSIF (paragraphe 12 du chapitre 4, NL). Le cas échéant, le BSIF communiquera avec l'institution et ses filiales pour les en prévenir.
+
+Pour les institutions qui utilisent la version simplifiée, le relevé non structuré NCCF doit être soumis, en format Excel, par l'entremise du Système de déclarations réglementaires (SDR).
+
+La version intégrale (DT2) et la version simplifiée (DT5) des relevés NCCF peuvent être soumises au moyen du Système de déclarations réglementaires (SDR) en téléchargeant un fichier de données en XML. Un fichier XSD décrivant la structure des fichiers XML compatibles pourra être téléchargé à partir de la section Documents du portail du SDR.
+
+Ces instructions doivent être lues conjointement avec la [ligne directrice NL](/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-guideline-2025 "Liquidity Adequacy Requirements (LAR) - Guideline (2025)").
+
+## 1. Introduction
+
+### 1.0 Introduction
+
+Les présentes instructions étoffent le chapitre 4 de la ligne directrice Normes de liquidité (NL) du BSIF. Cette ligne directrice établit les définitions, les décotes, les taux de retrait et les exigences de déclaration dont les présentes instructions traitent largement.
+
+Les renvois à la ligne directrice NL visent la version finale de janvier 2022.
+
+Le gabarit NCCF intègre les flux de trésorerie des actifs, des passifs et des sûretés d'une institution financière. Si le modèle d'affaires d'une institution financière (IF) n'inclut pas certains aspects qui sont intégrés dans le gabarit NCCF, l'IF doit laisser simplement vides les lignes qui ne sont pas applicables.
+
+#### Version simplifiée du NCCF
+
+En général, il s'agit d'une version simplifiée de la version intégrale du relevé NCCF, dans laquelle le niveau de détail habituellement demandé pour les actifs, les passifs et les éléments hors bilan est plus poussé. La plupart des instructions s'appliquent aux 2 relevés. Toutefois, lorsque les instructions relatives à la version simplifiée du NCCF diffèrent, elles seront clairement énoncées dans les présentes instructions.
+
+### 1.1 Format du relevé
+
+Il englobe ce qui suit :
+
+* Entrées de trésorerie (y compris les actifs liquides non grevés admissibles, ou ALNGA, comme défini dans le chapitre 4, NL) – Attribution de toutes les entrées de trésorerie provenant d'actifs et de sûretés aux tranches d'échéance appropriées. L'admissibilité des flux de trésorerie et de titres et le traitement applicable sont abordés à la section 2 dans le cas des entrées de trésorerie. La déclaration des titres englobe les titres au bilan et les sûretés hors bilan données en garantie ou reçues.
+
+  Voir les paragraphes 15 à 37 du chapitre 4 de la ligne directrice NL.
+* Sorties de trésorerie – Attribution de toutes les sorties de trésorerie admissibles provenant de passifs et de sûretés aux tranches d'échéance appropriées. L'admissibilité des flux de trésorerie et de titres et le traitement applicable sont abordés à la section 3 dans le cas des sorties de trésorerie. La déclaration des titres englobe les titres au bilan et les sûretés hors bilan données en garantie ou reçues.
+
+  Voir les paragraphes 38 à 75 du chapitre 4 de la ligne directrice NL.
+
+Les tranches d'échéance indiquées dans le gabarit sont les suivantes :
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4[Note du gabarit \*](#tmpfn1) | Mois 2[Note du gabarit \*\*](#tmpfn2) | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >12 mois |
+
+Notes du gabarit
+
+Note du gabarit \*
+:   Il faut déclarer les flux de trésorerie se rapportant aux 1er, 29e, 30e et 31e jours du premier mois sont à déclarer dans la tranche d'échéance de la quatrième semaine. Dans le cas des dépôts, appliquer le taux de retrait mensuel équivalent attribué aux flux de trésorerie de la quatrième semaine (voir le paragraphe 39 et le tableau 1 du chapitre 4, NL).
+
+    [Retour à la référence de la note du gabarit \*](#tmpfn1-rf)
+
+Note du gabarit \*\*
+:   Il faut déclarer les flux de trésorerie se rapportant aux autres jours de la cinquième semaine dans la tranche d'échéance du deuxième mois. Dans le cas des dépôts, appliquer le taux de retrait mensuel attribué aux flux du deuxième mois (voir le tableau 1 du chapitre 4, NL).
+
+    [Retour à la référence de la note du gabarit \*\*](#tmpfn2-rf)
+
+### 1.2 Instructions générales
+
+* Les NCCF mesurent l'excédent ou le déficit d'une institution pour une période donnée, soit la différence entre la somme des entrées de trésorerie admissibles et la somme des sorties de trésorerie prescrites entre la date de déclaration et la période dont il est question. Par conséquent, l'horizon de survie d'une institution s'entend de la dernière période avant que les NCCF ne deviennent négatifs et s'exprime en semaines ou en mois.
+* Sauf indication contraire, les flux de trésorerie associés aux actifs, aux passifs et aux sûretés ayant une échéance contractuelle particulière doivent être pris en compte d'après leur échéance contractuelle résiduelle ou la première date d'option (paragraphes 25, 27 et 40 du chapitre 4, NL).
+* Les sorties associées à des passifs n'ayant pas d'échéance particulière, comme les dépôts à vue, sont calculées conformément à la ligne directrice NL et attribuées aux tranches d'échéance mentionnées à la section 1.1 ci-dessus.
+* Les instructions relatives aux sûretés sont intégrées dans les sections correspondantes relatives aux entrées et aux sorties.
+* Il faut aussi déclarer les soldes. Un rapprochement avec les soldes au bilan doit être effectué dans la mesure du possible. Les soldes doivent correspondre de près à ceux au bilan et le rapprochement doit être raisonnable et explicable.
+* Pour les prêts assortis d'un calendrier d'amortissement, les institutions peuvent déclarer les entrées combinées au titre de l'amortissement des hypothèques et des paiements d'intérêt, ou faire abstraction des paiements d'intérêt et déclarer uniquement les entrées au titre des paiements d'amortissement. Si l'institution décide de comptabiliser les entrées combinées au titre de l'amortissement des hypothèques et des paiements d'intérêt comme des entrées, elle doit obligatoirement le faire pour tous les types de prêts, et les soldes des sorties combinées au titre des dépôts et des paiements d'intérêt doivent être déclarés pour les dépôts. Sinon, l'institution peut choisir de déclarer les soldes uniquement pour les sorties issues de dépôts.
+* L'excédent des NCCF et l'horizon de survie seront établis selon les calculs qui figurent dans le gabarit NCCF au format Excel disponible sur le site Web du BSIF.
+* Si les exigences redditionnelles ne peuvent être satisfaites en raison de contraintes des systèmes, les institutions financières déclarantes doivent discuter de plans d'action correctifs et de mesures redditionnelles de remplacement provisoires de façon bilatérale avec le BSIF.
+
+### 1.3 Production
+
+Le relevé NCCF doit être produit chaque mois au BSIF; l'institution doit également être en mesure de le produire hebdomadairement, voire quotidiennement (pour les BISi), en situation de crise, à la discrétion du BSIF. Le délai de production ne doit pas dépasser 14 jours civils. Ce délai peut être ramené à 3 jours ouvrables en situation de crise.
+
+Si ses NCCF chutent – ou devaient chuter – en deçà de l'objectif spécifique de l'institution que lui a indiqué le BSIF, l'institution doit en informer ce dernier sans délai.
+
+### 1.4 Bilans selon les principales devises
+
+Dans la version intégrale du NCCF, les flux de trésorerie cumulatifs doivent être déclarés en équivalent de dollars canadiens pour chacune des principales devises, c'est-à-dire le dollar des États-Unis, l'euro, la livre sterling et les autres devises que le BSIF juge admissibles, collectivement désignées comme les « principales devises ». Le taux de change du dollar canadien en vigueur à la date du relevé doit être utilisé pour la conversion.
+
+S'agissant du bilan des principales devises et du bilan combiné, l'information sur les flux de trésorerie doit être résumée à partir des différents bilans en devises et en dollars canadiens.
+
+#### Version simplifiée du NCCF
+
+Dans la version simplifiée du NCCF, les flux de trésorerie cumulatifs doivent être déclarés sur une base consolidée uniquement, toutes les devises étant regroupées et déclarées en dollars canadiens. Les institutions qui utilisent la version simplifiée du NCCF doivent déclarer les entrées et sorties de sûretés seulement si elles remplissent également le relevé réglementaire Relevé des sûretés et des opérations de nantissement (H4) ou si le BSIF leur demande de le faire.
+
+### 1.5 Tableau de décote des titres
+
+Pour faire en sorte que la déclaration du grand nombre de types de titres soit cohérente et comparable pour l'ensemble des devises et des pays et territoires, les types de titres (y compris ceux qui constituent des actifs liquides non grevés admissibles [ALNGA], comme il est défini dans le chapitre 4 de la ligne directrice NL) ont été harmonisés en catégories plus larges selon leur nature et leur cote de crédit.
+
+Les titres qui constituent des ALNGA dans chaque devise sont assortis d'une décote qui correspond approximativement aux décotes prescrites par les banques centrales correspondantes pour chaque type de titre. Les types de titres qui ne sont pas des ALNGA dans un pays ou territoire donné n'ont aucune valeur de liquidité et sont assortis d'une décote de 100 % dans la première semaine; la valeur complète de liquidité serait attribuée à l'échéance du titre.
+
+Les flux de trésorerie des titres sont déterminés d'après la valeur marchande des titres après application de la décote pertinente prescrite par le tableau de décote des titres. Le tableau de décote des titres se trouve dans le gabarit NCCF au format Excel disponible sur le site Web du BSIF, dans la feuille de calcul « Annexe 1. Taux de réf. ».
+
+Les titres admissibles des banques centrales et les décotes ont été intégrés comme suit au tableau de décote des titres :
+
+* Paliers de cote de crédit – Au lieu de reposer sur différents systèmes de tranches de notation du crédit prescrits par les diverses banques centrales, la notation des types de titres utilise les paliers suivants :
+
+  Paliers de cote de crédit
+
+  | Tranche de cote de crédit | Cote de crédit |
+  | --- | --- |
+  | Élevée | AA−/Aa3 jusqu'à AAA/Aaa |
+  | Moyenne | A−/A3 jusqu'à A+/Aa1 |
+  | Faible/aucune cote | D jusqu'à BBB+/Baa1, ou aucune cote |
+* Cette démarche s'appuie sur l'approche standard pour risque de crédit instaurée par le Comité de Bâle sur le contrôle bancaire (dispositif de Bâle consolidé CRE20) et s'harmonise avec le régime de nivellement des actifs liquides de haute qualité (HQLA) aux fins du ratio de liquidité à court terme (LCR) (chapitre 2, NL).
+* Décotes – Pour simplifier les exigences redditionnelles et assurer la cohérence, un taux unique de décote a été choisi parmi la gamme de taux attribués par les banques centrales pour chaque type de titres et chaque principale devise dans le tableau de décote des titres. Bien que généralement prescrites par les banques centrales en fonction de l'échéance résiduelle des titres, les décotes n'étaient pas directement comparables, toutes autres choses étant égales, puisque les banques centrales adoptaient différentes tranches d'échéance résiduelle. Les autres devises que le BSIF juge admissibles seraient assorties des décotes en dollar canadien. À noter que les décotes sont susceptibles d'être modifiées, les banques centrales ajustant leurs décotes pour les facilités de liquidités permanentes.
+
+## 2. Entrées de trésorerie
+
+### 2.0 Vue d'ensemble des entrées
+
+Les entrées de trésorerie provenant d'actifs qui ne satisfont pas aux critères des ALNGA peuvent être constatées à l'échéance si elles respectent les exigences des paragraphes 22 et 25 à 37 du chapitre 4 de la ligne directrice NL.
+
+Les entrées de trésorerie doivent prendre la forme de montants positifs. Les entrées ne doivent être déclarées que pour les actifs prescrits. Dans les situations exceptionnelles où les entrées de trésorerie sont déclarées relativement à des passifs, les institutions doivent obligatoirement fournir une explication et une justification de l'entrée de trésorerie qui en résulte dans la colonne « Commentaires ».
+
+Les types d'actifs pour lesquels des entrées doivent être déclarées sont indiqués dans le gabarit. Le niveau de détail de déclaration des entrées doit être le même pour tous les bilans (pour chaque devise).
+
+### 2.1 Échéance des entrées
+
+À moins d'indication contraire, les entrées doivent toujours être jumelées aux tranches d'échéance en fonction de leur échéance contractuelle ou de leur première date d'option (paragraphes 25 et 27 du chapitre 4, NL). Le chapitre 4 de la ligne directrice NL prévoit les exceptions suivantes :
+
+* Les liquidités (dépôts auprès des banques centrales ou d'autres institutions financières) doivent être déclarées à titre d'entrées la semaine 1 (paragraphe 26 du chapitre 4, NL).
+* Les ALNGA doivent être déclarés à titre d'entrées la semaine 1 après application de la décote pertinente selon le tableau de décote des titres (paragraphe 16 du chapitre 4, NL).
+* Les actions ordinaires constituent des entrées selon les modalités des paragraphes 29 et 30 du chapitre 4 de la ligne directrice NL.
+* Les prêts sans échéance précise ne peuvent déclarer que des entrées associées aux paiements minimums contractuels. Ces paiements sont réputés être effectués le plus tard possible au cours de la période en question (paragraphe 32 du chapitre 4, NL).
+* Il faut déclarer les acceptations bancaires désignées des actifs (engagements de clients au titre d'acceptations) comme entrées à la dernière échéance contractuelle de la facilité sous-jacente (paragraphe 28 du chapitre 4, NL).
+* Il faut déclarer les soldes liés aux actifs au bilan qui ne sont pas mentionnés au chapitre 4 de la ligne directrice NL sous « Autres actifs – Autres actifs – Autres actifs » dans les NCCF, mais aucune valeur d'entrée de trésorerie ne leur est attribuée (paragraphe 37 du chapitre 4, NL).
+
+### 2.2 Liquidités
+
+Déclarer les soldes de trésorerie détenus par l'institution qui sont immédiatement disponibles pour faire honneur aux obligations sous « Liquidités – Pièces et billets de banque ». Ces dépôts sont déclarés à titre d'entrées de trésorerie dans la première tranche d'échéance (c.-à-dire la semaine 1).
+
+#### Dépôts auprès de banques centrales
+
+Déclarer les dépôts de liquidités confiés à des banques centrales pour répondre à des besoins de réserve et qui ne peuvent être utilisés en période de crise sous « Liquidités – Dépôts auprès de banques centrales – Dépôts auprès de banques centrales – obligatoires ». Ces dépôts sont déclarés à titre d'entrées de trésorerie dans la période lorsqu'ils cessent d'être grevés.
+
+Déclarer les dépôts de liquidités auprès de banques centrales qui peuvent être utilisés en cas de crise sous « Liquidités – Dépôts auprès de banques centrales – Dépôts auprès de banques centrales – non grevés ». Ces dépôts sont déclarés à titre d'entrées de trésorerie dans la première tranche d'échéance (c.-à-dire la semaine 1).
+
+#### Dépôts auprès des institutions financières (paragraphe 26 du chapitre 4, NL)
+
+Déclarer les dépôts à vue confiés aux IF sous « Liquidités – Dépôts auprès des institutions financières (IF) – Dépôts à vue auprès des IF ». Ces dépôts sont déclarés à titre d'entrées de trésorerie dans la première tranche d'échéance (c.-à-dire la semaine 1).
+
+Déclarer les dépôts à terme auprès des IF qui ne peuvent être retirés avant l'échéance sous « Liquidités – Dépôts auprès des institutions financières (IF) – Dépôts à terme auprès des IF ». Ces dépôts sont déclarés à titre d'entrées de trésorerie dans la tranche d'échéance la plus proche.
+
+Les dépôts à préavis dont le préavis est inférieur à 7 jours doivent être déclarés sous « Liquidités – Dépôts auprès des institutions financières (IF) – Dépôts à vue auprès des IF ». Les dépôts à préavis dont le préavis est supérieur à 7 jours doivent être déclarés sous « Liquidités – Dépôts auprès des institutions financières (IF) – Dépôts à terme auprès des IF ».
+
+Dans le cas des dépôts auprès des IF qui sont grevés et donnés en nantissement, voir les sections 2.7 (Actifs liés à des instruments dérivés [ALID]) et 3.9 (Passifs liés à des instruments dérivés [PLID]) ci-après.
+
+### 2.3 Titres
+
+L'objectif du relevé NCCF est de simuler la capacité d'une IF de résister à une période de crise. Une des hypothèses veut que les IF soient en mesure de générer du financement en vendant certains titres dans les marchés secondaires à des prix réduits. Ces prix réduits sont simulés par des décotes sur la valeur marchande des titres.
+
+Dans le cas de tous les titres, il faut déclarer le solde (en valeur marchande, excluant les intérêts courus) et les entrées (les montants contractuels) dans les tranches d'échéance contractuelle ou, pour les titres sans échéance (par exemple les actions ordinaires), déclarer uniquement le solde.
+
+Les titres qui constituent des ALNGA sont assimilés à des entrées de trésorerie dans la première tranche d'échéance (la semaine 1) après application de la décote pertinente prescrite dans le tableau de décote des titres (paragraphes 16-21 et 23-24 du chapitre 4, NL). À l'échéance des ALNGA, le montant de décote de l'entrée venant à échéance est constaté dans la tranche d'échéance contractuelle.
+
+Voir [l'exemple 1 en annexe](#ex1).
+
+Dans le cas des titres qui ne constituent pas des ALNGA, les entrées contractuelles sont constatées dans la période appropriée selon l'échéance contractuelle (paragraphe 27 du chapitre 4, NL).
+
+#### Fongibilité des titres en USD à titre d'ALNGA en CAD
+
+Dans la version intégrale du NCCF, les actifs liquides en USD peuvent être déclarés dans le bilan en CAD s'ils respectent les critères des ALNGA canadiens, c'est -à -dire qu'ils sont admissibles d'après la Banque du Canada (paragraphe 19 du chapitre 4, NL).
+
+Pour déclarer des titres en USD fongibles dans le bilan en CAD, déclarer les soldes (valeur marchande, excluant les intérêts courus) et les entrées (les montants contractuels) dans les catégories correspondantes après application des décotes canadiennes appropriées. Pour chaque catégorie de titres transférés, déclarer dans le champ « Commentaires » le montant des titres en USD indiqué dans le bilan en CAD.
+
+#### Billets négociés en bourse
+
+Déclarer le solde (en valeur marchande) et les entrées (les montants contractuels) dans les tranches d'échéance contractuelle :
+
+* **Version intégrale du NCCF :** « Titres – Obligations et papier commercial de sociétés – Obligations et papier commercial de sociétés émis par une IF (à cote faible) – Obligations et papier commercial non garantis émis par une IF (à cote faible)) »; ou
+* **Version simplifiée du NCCF :** « Obligations et papier commercial de société émis par une IF ou non (à cote faible ou aucune cote) ».
+
+Les entrées sont constatées dans les tranches d'échéance contractuelle selon l'échéancier contractuel initial.
+
+#### Actions ordinaires admissibles
+
+Dans le cas des actions ordinaires détenues par l'institution, les actions d'entités non financières admissibles sont des actions qui répondent aux critères de l'alinéa 47c) du chapitre 3 de la ligne directrice NL et aux exigences opérationnelles de la section 2.2.A.2 du chapitre 2 de la ligne directrice NL. Déclarer le solde à sa valeur marchande sous « Titres – Actions – Actions ordinaires d'entreprises non financières admissibles ». Une entrée est constatée pour 50 % du solde pour la quatrième semaine (paragraphe 29 du chapitre 4, NL).
+
+Voir [l'exemple 2 en annexe](#ex2).
+
+Pour être admissibles, les actions ordinaires d'institutions financières doivent répondre aux exigences opérationnelles de la section 2.2.A.2 du chapitre 2 de la NL. Déclarer le solde à sa valeur marchande sous « Titres – Actions – Actions ordinaires d'entreprises financières admissibles ». Les entrées sont constatées comme suit : 12,5 % le deuxième mois, 25 % le troisième mois et 12,5 % le quatrième mois (paragraphe 30 du chapitre 4, NL).
+
+Voir [l'exemple 3 en annexe](#ex3).
+
+#### Autres actions
+
+Pour toutes les autres actions, déclarer le solde à sa valeur marchande seulement sous « Titres – Actions – Autres actions ». Aucune valeur de liquidité ne leur sera attribuée.
+
+Les unités des véhicules de placements collectifs (les fonds cotés en bourse, par exemple) doivent également être déclarés sous « Titres – Actions – Autres actions ». Déclarer uniquement le solde à sa valeur marchande. Compte tenu de la difficulté de liquider ces positions et selon le marché des liquidités (bien que certaines unités puissent être négociées en bourse), aucune valeur de liquidité ne leur sera attribuée.
+
+#### Règle de transparence
+
+Dans le cas des swaps à rendement total (SRT), les actifs liés aux expositions à des SRT seront traités de la même façon que dans les LCR (paragraphe 17 du chapitre 4 et alinéa 47c) du chapitre 2, NL).
+
+#### Titres de l'institution détenus par cette dernière
+
+Dans le cas des titres de l'institution détenus par cette dernière (acceptations bancaires, papier commercial, etc.), déclarer les soldes et les entrées dans les tranches d'échéance contractuelle sous « Titres – Titres de la banque – non éliminés ». Les entrées contractuelles sont constatées dans les tranches d'échéance contractuelle selon leur échéancier contractuel.
+
+### 2.4 Prêts hypothécaires
+
+Déclarer les entrées issues d'hypothèques dans la tranche d'échéance appropriée selon l'échéance contractuelle (paragraphe 25 du chapitre 4, NL).
+
+Il faut déclarer les hypothèques titrisées (ou non) aux valeurs marchandes appropriées. Les hypothèques non titrisées doivent être déclarées à leur valeur comptable lorsque les hypothèses adoptées reflètent les conditions actuelles du marché.
+
+#### Solde à l'échéance
+
+Les institutions financières doivent déclarer séparément les soldes hypothécaires à l'échéance et les paiements périodiques d'amortissement comme des entrées sous « Solde à l'échéance » et « Paiements » respectivement selon le type d'hypothèque pertinent.
+
+#### Paiements
+
+Pour les « Paiements », les institutions peuvent déclarer les entrées combinées au titre de l'amortissement des hypothèques et des paiements d'intérêt, ou faire abstraction des paiements d'intérêt et déclarer uniquement les entrées au titre des paiements d'amortissement en indiquant l'option adoptée sous la colonne « Commentaires » des lignes concernées.
+
+#### Hypothèques titrisées
+
+* Dans le cas des hypothèques titrisées invendues, déclarer les soldes à l'échéance et les paiements périodiques d'amortissement des types d'hypothèques appropriés sous « Prêts – Hypothèques résidentielles/Hypothèques commerciales – Hypothèques résidentielles titrisées/Hypothèques commerciales titrisées – Hypothèques résidentielles titrisées par des ALNGA (solde à l'échéance/paiements) ».
+
+  Les soldes à l'échéance et le solde des paiements périodiques d'amortissement des hypothèques titrisées invendues sont considérés comme des entrées de trésorerie dans la première tranche d'échéance (c'est-à-dire la première semaine) après application de la décote pertinente (c.-à.-d. Titres hypothécaires [TH] – TH adossés par un organisme – TH adossés par un organisme [cote élevée]).
+
+  Dans le cas des hypothèques titrisées, mais invendues sur une longue période, le BSIF peut demander que toute baisse structurelle de la valeur des prêts attribuable aux conditions défavorables du marché soit déclarée.
+* Dans le cas des hypothèques titrisées servant à adosser des swaps de la Fiducie du Canada pour l'habitation (FCH), déclarer à la fois les soldes à l'échéance et les paiements périodiques d'amortissement selon le type d'hypothèques sous « Prêts – Hypothèques résidentielles/Hypothèques commerciales – Hypothèques résidentielles titrisées/Hypothèques commerciales titrisées – Hypothèques résidentielles titrisées grevées/Hypothèques commerciales titrisées grevées (solde à l'échéance/paiements) » selon les tranches d'échéance contractuelle correspondant à l'échéancier contractuel des swaps de la FCH.
+
+  Aucune valeur d'entrée de trésorerie ne serait reçue jusqu'à l'échéance des swaps de la FCH. Les entrées issues de soldes à l'échéance seront constatées à titre d'entrées de trésorerie dans les tranches d'échéance contractuelle.
+
+  Dans le cas des hypothèques titrisées et grevées, le passif correspondant est réputé ne pas être renouvelé (paragraphe 39 du chapitre 4, NL).
+* Dans le cas des titres hypothécaires vendus à des tiers, déclarer les soldes et les paiements périodiques d'amortissement du type approprié d'hypothèques sous « Prêts – Hypothèques résidentielles/Hypothèques commerciales – Hypothèques résidentielles titrisées/Hypothèques commerciales titrisées – Hypothèques résidentielles titrisées grevées/Hypothèques commerciales titrisées grevées (solde à l'échéance/paiements) ».
+
+  Les paiements périodiques d'amortissement et les entrées issues de soldes à l'échéance sont constatés dans les tranches d'échéance contractuelle des paiements.
+
+  Dans le cas des hypothèques titrisées et grevées, le passif correspondant est réputé ne pas être renouvelé (paragraphe 39 du chapitre 4, NL).
+* Dans le cas des titres hypothécaires achetés de tiers, déclarer les soldes et les paiements périodiques d'amortissement du type approprié d'hypothèques sous « Titres – Titres hypothécaires (TH) ».
+
+  Le solde est assimilé à une entrée de trésorerie dans la première tranche d'échéance (c'est-à-dire la première semaine) après application de la décote pertinente prescrite dans le tableau de décote des titres. Dans le cas des TH qui ne font pas l'objet d'une décote de 100 %, les paiements périodiques d'amortissement sont des entrées qui sont constatées dans chaque tranche d'échéance.
+
+#### Hypothèques non titrisées
+
+Dans le cas des hypothèques non titrisées, déclarer les soldes à l'échéance et les paiements périodiques d'amortissement selon le type d'hypothèques approprié sous « Prêts – Hypothèques résidentielles/Hypothèques commerciales – Hypothèques résidentielles – assurées/non assurées – Hypothèques commerciales – assurées/non assurées – (solde à l'échéance/paiements) ».
+
+Puisque les hypothèques sont réputées être renouvelées, aucune valeur d'entrée de trésorerie n'est attribuée aux soldes à échéance, et seules les entrées contractuelles (c'est-à-dire l'intérêt et les paiements d'amortissement) sont constatées à titre d'entrées (sous « Paiements » pour chaque type d'hypothèques) (paragraphe 25 du chapitre 4, NL).
+
+Puisque les hypothèques sont réputées être renouvelées, les entrées mensuelles déclarées aux lignes « Paiements » devraient se maintenir au même niveau. L'institution financière peut constater les entrées hebdomadairement durant le premier mois et mensuellement pour la période du deuxième au douzième mois en choisissant l'une des options suivantes :
+
+1. Paiements périodiques d'amortissement contractuel pour chaque période, ou
+2. Présumer que les paiements mensuels d'amortissement se poursuivront au même taux d'amortissement que lors du premier mois. Autrement dit, chaque paiement reçu au cours du premier mois sera constaté dans chacune des tranches d'échéance contractuelle du 2e au 12e mois.
+
+Il faut indiquer clairement l'option choisie dans le champ « Commentaires » : « Contractuelle » pour l'option 1, « 1er mois » pour l'option 2.
+
+### 2.5 Prêts non hypothécaires
+
+Il faut déclarer les entrées issues de prêts dans la période appropriée selon l'échéance contractuelle (paragraphe 25 du chapitre 4, NL).
+
+#### Entrées issues de l'intérêt sur les prêts
+
+Les institutions peuvent déclarer les entrées combinées au titre de l'amortissement des prêts et des paiements d'intérêt, ou faire abstraction des paiements d'intérêt et déclarer uniquement les entrées au titre des paiements d'amortissement selon le type approprié de prêt. L'option choisie doit obligatoirement être la même pour tous les types de prêts. Il faut indiquer clairement l'option choisie dans le champ « Commentaires ».
+
+#### Prêts à échéance fixe
+
+Dans le cas des prêts à échéance fixe, déclarer les soldes et les paiements venant à échéance selon le type approprié de prêt sous « Prêts – Prêts personnels/Prêts à des entreprises ou à des gouvernements – Prêts personnels – échéance fixe/Prêts à des entreprises ou à des gouvernements – échéance fixe ». Les paiements venant à échéance sont constatés à titre d'entrées au taux de 50 % dans les tranches d'échéance contractuelle pour les prêts à des entreprises ou à des gouvernements, et au taux de 100 % pour les prêts personnels.
+
+Voir [l'exemple 17 en annexe](#ex17).
+
+#### Prêts à échéance ouverte (paragraphe 32 du chapitre 4, NL)
+
+Dans le cas des prêts sans échéance précise, déclarer le solde et les paiements minimums contractuels sous « Prêts – Prêts personnels/Prêts à des entreprises ou à des gouvernements – Prêts personnels – échéance ouverte (avec paiement minimum) », « Prêts – Prêts à vue – Prêts à vue (avec paiement minimum) » ou « Prêts – Autres prêts – Cartes de crédit » selon le type de prêt. Les paiements contractuels sont constatés à titre d'entrées au taux de 50 % dans les tranches d'échéance contractuelle pour les prêts à des entreprises ou à des gouvernements, et au taux de 100 % pour les autres types de prêts.
+
+Voir [l'exemple 17 en annexe](#ex17).
+
+Dans le cas des prêts à échéance ouverte sans paiements minimums contractuels, déclarer uniquement les soldes sous « Prêts – Prêts personnels/Prêts à des entreprises ou à des gouvernements – Prêts personnels/Prêts à des entreprises ou à des gouvernements – échéance ouverte (sans paiement minimum) » ou « Prêts – Prêts à vue – Prêts à vue (sans paiement minimum) », selon le type de prêt. Aucune valeur de liquidité ne leur sera attribuée.
+
+#### Prêts intrabancaires avec swap (paragraphe 33 du chapitre 4, NL)
+
+Les prêts intrabancaires avec swap sont des swaps effectués au sein d'une même institution financière en lien avec des fonds dans une devise destinés à être prêtés ou investis dans une autre devise (transactions sud-nord/nord-sud, par exemple).
+
+Déclarer les soldes et les entrées venant à échéance sous « Prêts – Autres prêts – Prêts intrabancaires avec swap » à la valeur brute des prêts avec swap :
+
+* Les entrées et les sorties intrabancaires avec la même filiale/entité peuvent être compensées si elles surviennent au cours de la même période.
+* Les entrées et les sorties intrabancaires avec une filiale/entité différente ne peuvent être compensées entre elles, déclarer les entrées à la valeur brute des prêts avec swap.
+
+#### Prêts aux entités affiliées
+
+Les prêts aux entités affiliées ont les mêmes caractéristiques que les « Prêts personnels/Prêts à des entreprises ou à des gouvernements », hormis le fait qu'ils sont conclus entre l'IF et une entité connexe (par exemple, une filiale). Dans le cas des prêts à une entité affiliée, déclarer les soldes et les entrées dans chaque période sous « Autres Prêts – Prêts aux affiliées ».
+
+#### Engagements de clients au titre d'acceptations (paragraphe 28 du chapitre 4, NL)
+
+Le montant prélevé de la garantie d'une institution financière pour un client au titre d'une acceptation bancaire doit être déclaré comme un actif de prêt sous « Engagements de clients au titre d'acceptations ». Déclarer le solde et les entrées de la facilité sous-jacente sous « Prêts – Autres Prêts – Engagements de clients au titre d'acceptations ». Les entrées sont constatées dans la dernière tranche d'échéance contractuelle de la facilité sous-jacente.
+
+Un régime de liquidité semblable s'applique à tous les produits issus d'ententes visant plusieurs produits.
+
+### 2.6 Accords de cession en pension et financement de titres
+
+Les accords de cession en pension et les opérations de financement de titres sont traités de façon semblable aux fins des NCCF dans le chapitre 4 de la ligne directrice NL. Voir les paragraphes 21, 34 et 35 du chapitre 4 de la ligne directrice NL.
+
+S'agissant des liquidités liées aux cessions en pension et au financement de titres, déclarer le solde et les entrées venant à échéance pour chaque période (valeur marchande dans les deux cas) sous « Cessions en pension et titres empruntés ». Les entrées sont constatées dans les tranches d'échéance contractuelle.
+
+#### Sûretés
+
+Dans le cas des titres (autres que des actions ordinaires) reçus à titre de sûretés pour des cessions en pension et des opérations de financement de titres, déclarer le solde et les sorties à l'échéance contractuelle de la cession en pension ou de l'opération de financement de titres connexe (tous deux à la valeur marchande du bien reçu en guise de sûreté qui peut être hypothéqué à nouveau) sous « Sûretés – Entrées de sûretés sur cessions en pension ». Les soldes de sûretés sont considérés comme des entrées de trésorerie dans la première période (c. à d. la première semaine) après application de la décote pertinente prescrite par le tableau de décote des titres. Les sorties de sûretés sont constatées dans les tranches d'échéance contractuelle après application de la décote pertinente.
+
+Dans le cas des actions ordinaires reçues en guise de sûreté, déclarer le solde et les sorties à l'échéance contractuelle de la cession en pension ou de l'opération de financement de titres connexes (tous deux à la valeur marchande du bien reçu en guise de sûreté qui peut être hypothéqué à nouveau) sous « Sûretés – Entrées de sûretés sur cessions en pension ». Les entrées provenant de titres reçus en guise de sûreté sont constatées telles que décrites à la section 2.3 (Titres – actions ordinaires).
+
+Dans le cas des actions-sûretés remises après les échéances spécifiées à la section 2.3, il faut constater l'entrée cumulative (depuis la première semaine jusqu'à la période où la sûreté est remise) dans la période de la remise. Les sorties associées aux titres reçus en guise de sûreté se limitent aux montants constatés dans les entrées.
+
+Voir [l'exemple 12 en annexe](#ex12).
+
+### 2.7 Autres actifs
+
+#### Version simplifiée du NCCF
+
+Pour les actifs non déclarés dans les sections précédentes, les institutions doivent déclarer les soldes de tous ces autres actifs sous « Autres actifs ». Aucune valeur de liquidité ne leur sera attribuée (paragraphe 37 du chapitre 4, NL).
+
+#### Version intégrale du NCCF
+
+##### Actifs liés à des instruments dérivés (ALID)
+
+###### Compensation des flux des dérivés
+
+Sauf indication contraire, les flux des dérivés ne peuvent être déclarés sur une base nette par contrepartie que lorsqu'il existe une convention-cadre de contrepartie (paragraphe 36 du chapitre 4, NL).
+
+###### Dérivés de change
+
+Pour tous les actifs dérivés sur devises (contrat à terme sur devises, swaps de devises, etc.), déclarer uniquement le solde à sa valeur marchande sous « Autres actifs – Actifs liés à des instruments dérivés (ALID) – Actifs de swaps de devises ».
+
+Dans le bilan en USD seulement, déclarer les flux de trésorerie contractuels (valeur nominale) pour toutes les devises dans chaque période sous « Autres actifs – Actifs liés à des instruments dérivés (ALID) – Actifs de swaps de devises ».
+
+Dans tous les autres bilans, aucune valeur de liquidité ne sera attribuée. Dans le bilan en USD, la somme des flux de trésorerie contractuels nets pour toutes les périodes est constatée comme entrée de trésorerie dans la première période (c'est-à-dire la première semaine).
+
+Dans le bilan en USD, les flux contractuels de trésorerie (à valeur nominale) liés aux dérivés de change sont à déclarer parmi les postes pour mémoire, sous « Dérivés de change », dans les tranches d'échéance contractuelle pour chaque devise en cause séparément. Ces montants sont fournis à titre informatif seulement et n'ont pas d'impact sur les NCCF de l'institution.
+
+Voir [l'exemple 13 en annexe](#ex13).
+
+###### Flux de trésorerie liés à des options
+
+Les options doivent être considérées comme exercées quand elles sont « dans le cours » pour l'acheteur à la date de déclaration. Calculer les flux de trésorerie contractuels prévus liés à des options à l'aide des méthodologies d'évaluation existantes. Déclarer le solde à sa valeur marchande et les entrées de trésorerie contractuelles prévues pour chaque période sous « Autres actifs – Actifs liés à des instruments dérivés (ALID) – Autres ALID ». Les entrées contractuelles prévues sont constatées dans chaque période.
+
+###### ALID rajustés en fonction des contrats à terme admissibles
+
+Les « Autres ALID » peuvent être utilisés pour rajuster les flux de trésorerie compensatoires en fonction des contrats à terme couverts admissibles du portefeuille One Delta. La valeur des liquidités pour les flux de trésorerie correspond à 0. La valeur théorique intégrale de la position se réalise à l'échéance du contrat à terme sous forme d'un agencement de toute valeur nette calculée et des données sur les ALID.
+
+Voir [l'exemple 14 en annexe](#ex14).
+
+###### Tous les autres ALID
+
+Déclarer le solde à sa valeur marchande et les entrées contractuelles à leur valeur nominale pour chaque période (paragraphe 36 du chapitre 4, NL) à la ligne « Autres actifs – Actifs liés à des instruments dérivés (ALID) – Autres ALID ». Les entrées sont constatées dans les tranches d'échéance contractuelle.
+
+Voir [les exemples 8](#ex8) et [9 en annexe](#ex9).
+
+###### Sûretés
+
+Lorsque des titres sont reçus à titre de sûretés pour des ALID, déclarer le solde et les sorties à l'échéance contractuelle de l'ALID connexe (dans les deux cas, à la valeur marchande de la sûreté ne pouvant être hypothéquée de nouveau) sous « Sûretés – Nantissement de sûretés et charges – instruments dérivés et compensation ». Les soldes de sûretés sont considérés comme des entrées de trésorerie dans la première période (c'est-à-dire la première semaine) après application de la décote pertinente prescrite dans le tableau de décote des titres. Les sorties de sûretés sont constatées dans les tranches d'échéance contractuelle après application de la décote pertinente.
+
+Lorsque des ALID sont assortis de sûretés en liquidités, déclarer le solde des sûretés en liquidités nettes reçues et des sorties en règlement de l'ALID connexe sous « Autres passifs – Sûretés en liquidités reçues ». Le solde est constaté à titre d'entrée dans la première période (c'est-à-dire la première semaine) et les sorties sont constatées dans les périodes au cours desquelles les ALID connexes sont réglés.
+
+Voir [les exemples 8](#ex8) et [9 en annexe](#ex9).
+
+###### Swaps de sûretés
+
+Lorsque les swaps de sûretés respectent les conditions du paragraphe 22 du chapitre 4 de la ligne directrice NL, dans le cas des titres reçus à titre de sûretés, déclarer le solde et les sorties à l'échéance contractuelle des swaps de sûretés (dans les deux cas, à la valeur marchande de la sûreté ne pouvant être hypothéquée de nouveau) sous « Sûretés – Entrées de sûretés sur cessions en pension ». Les soldes de sûretés sont considérés comme des entrées de trésorerie dans la première période (c'est-à-dire la première semaine) après application de la décote pertinente prescrite dans le tableau de décote des titres. Les sorties de sûretés sont constatées dans les tranches d'échéance contractuelle après application de la décote pertinente.
+
+##### Autres actifs
+
+###### Sûretés en liquidités données en nantissement
+
+Pour les instructions de la section Sûretés en liquidités données en nantissement, voir les sections 3.8 et 3.9 des présentes instructions.
+
+###### Produits de base
+
+Déclarer les soldes de métaux précieux, de prêts de métaux précieux et d'autres produits de base sous « Produits de base ». Aucune valeur de liquidité ne leur sera attribuée.
+
+###### Autres actifs
+
+De même, déclarer sous « Autres actifs » les soldes des actifs qui ne sont pas mentionnés au chapitre 4 de la ligne directrice NL. Aucune valeur de liquidité ne leur sera attribuée (paragraphe 37 du chapitre 4, NL).
+
+## 3. Sorties de trésorerie
+
+### 3.0 Vue d'ensemble des sorties
+
+Les sorties comprennent soit les sorties liées aux passifs existants soit les sorties liées aux éléments hors bilan. Les sorties de trésorerie doivent prendre la forme de montants négatifs.
+
+Le traitement des sorties applicable aux passifs varie selon que le passif comporte une échéance contractuelle ou une échéance indéterminée (échéance non définie ou ouverte). Le gabarit indique la liste des passifs pour lesquels les sorties doivent être constatées. Les définitions et les traitements détaillés figurent à la section 4.6 du chapitre 4 de la ligne directrice NL.
+
+Les sorties résultant de tirages sur les facilités de crédit et de liquidité existantes doivent être déclarées dans la tranche d'échéance contractuelle la plus proche. Les définitions et les traitements figurent à la section 4.6 du chapitre 4 – « Éléments hors bilan ».
+
+### 3.1 Échéance des sorties
+
+Sauf avis contraire, les passifs assortis d'une échéance contractuelle ne sont pas réputés être renouvelés et les sorties de trésorerie doivent être constatées à leur échéance contractuelle ou à la première date d'option. Le chapitre 4 de la ligne directrice NL prévoit les exceptions suivantes :
+
+* Certains dépôts de la clientèle de détail et de petites entreprises et certains dépôts de gros peuvent être renouvelés à des taux prescrits. Voir la rubrique « Dépôts » ci-après (sections 3.2 à 3.5).
+* Les acceptations dont le promoteur est une banque peuvent être renouvelées à des taux prescrits.
+* Les titres vendus à découvert et les garanties de financement accordées aux filiales et aux succursales doivent tous être réputés générer des sorties de trésorerie immédiates (c'est-à-dire, figurer dans la première tranche d'échéance).
+* Les facilités de crédit et de liquidité visant à octroyer un financement à une date future sont présumées être utilisées selon les taux prescrits dans la tranche d'échéance contractuelle la plus proche.
+* Les soldes liés aux passifs qui ne sont pas mentionnés au chapitre 4 de la ligne directrice NL doivent être déclarés sous « Autres passifs » dans les NCCF, mais aucune valeur de sortie de trésorerie ne leur est attribuée.
+
+### 3.2 Dépôts
+
+Il faut déclarer les sorties issues de dépôts et de passifs de financement dans la période appropriée en fonction de l'échéance contractuelle. Sauf indication contraire, les dépôts seront généralement retirés selon une méthode d'amortissement dégressif[Note de bas de page 1](#fn1) conformément aux taux de retrait établis. Les taux de retrait sont indiqués au chapitre 4 de la ligne directrice NL.
+
+#### Sorties d'intérêt sur dépôts
+
+L'institution peut déclarer les sorties combinées au titre du remboursement des dépôts et des paiements d'intérêt, ou faire abstraction des sorties au titre des paiements d'intérêt.
+
+### 3.3 Dépôts – Clientèle de détail et petites entreprises
+
+Les dépôts de la clientèle de détail et de petites entreprises (DPE) sont réputés être renouvelés, déductions faites de la portion censée être retirée conformément aux taux de retrait établis spécifiés. Pour les dépôts à terme sélectionnés, les retraits effectués au cours des 4 premières semaines s'appuient sur le taux mensuel de retrait des dépôts équivalents, qui correspond au produit obtenu en multipliant le taux de retrait hebdomadaire par 4. L'onglet « Annexe 1. Taux de réf. » indique les dépôts à terme auxquels ce traitement s'applique.
+
+Le seuil des dépôts de la clientèle de petites entreprises est fixé à 5 millions de dollars canadiens ou moins, sur une base individuelle (paragraphe 5 du chapitre 4, NL).
+
+#### Assurance-dépôts
+
+Le traitement des dépôts assurés diffère selon les caractéristiques des régimes d'assurance-dépôts. Deux types sont définis :
+
+* **Type 1 assuré** – s'entend de l'assurance-dépôts conforme aux critères du paragraphe 59 du chapitre 2 de la ligne directrice NL.
+* **Type 2 assuré** – s'entend de l'assurance-dépôts non conforme aux critères du paragraphe 59 du chapitre 2 de la ligne directrice NL.
+
+#### Dépôts à vue
+
+Seul le champ « Solde » doit être rempli pour chaque type de dépôt à vue. On présume que les dépôts à vue sont renouvelés chaque semaine pendant le premier mois, puis chaque mois du 2e au 12e mois, et qu'une partie du solde restant est retirée au taux applicable selon le type de dépôt à vue. Les sorties sont constatées selon les taux de retrait indiqués au tableau 1 du chapitre 4 de la ligne directrice NL.
+
+Voir [l'exemple 4 en annexe](#ex4).
+
+Le champ Espace réservé 1 sous Espaces réservés pour passifs doit être utilisé, de manière temporaire, pour entrer les soldes de dépôts à vue provenant d'un accord de partenariat qui sont considérés comme étant stables, conformément au paragraphe 52 du chapitre 4 de la ligne directrice NL.
+
+Les billets négociés en bourse (BNB) et les dépôts à vue issus de partenariats classés comme étant moins stables doivent être inclus, de manière temporaire, dans le solde des dépôts à vue DPE gérés par un tiers non affilié. Cette consigne s'appliquera jusqu'à ce que de nouveaux gabarits de relevés puissent être mis en œuvre dans le cadre des mises à jour périodiques de gestion des données effectuées par le BSIF.
+
+#### Dépôts à terme encaissables
+
+Les produits à terme encaissables pour lesquels le client peut choisir un rachat anticipé doivent être traités comme des dépôts à vue à la première date d'option du client (paragraphe 40 du chapitre 4, NL).
+
+Déclarer le solde des dépôts venant à échéance dans chaque période. Les sorties sont constatées pour les dépôts venant à échéance et sont ensuite traitées comme des dépôts à vue au cours des périodes suivantes (c'est-à-dire qu'elles sont retirées selon une méthode d'amortissement dégressif). Les taux de retrait applicables correspondent généralement à ceux des dépôts à vue et présentent les mêmes caractéristiques indiquées au tableau 1 du chapitre 4 de la ligne directrice NL.
+
+Voir [l'exemple 5 en annexe](#ex5).
+
+#### Dépôts à terme
+
+Arrondir l'échéance initiale des dépôts à terme DPE en fonction des tranches de 30 jours, 60 jours, 90 jours, 180 jours, 1 an et plus de 1 an. Si l'échéance initiale d'un dépôt à terme est de moins de 30 jours, utiliser la tranche d'échéance de 30 jours; si l'échéance initiale d'un dépôt à terme survient à mi-chemin entre 2 tranches d'échéance, il faut utiliser la tranche d'échéance initiale la plus courte.
+
+Regrouper et déclarer dans la ligne appropriée le solde et les paiements venant à échéance des dépôts ayant les mêmes caractéristiques et la même échéance arrondie.
+
+Le solde restant des dépôts à terme est réputé être renouvelé pour la même durée que l'échéance initiale arrondie des dépôts. Les sorties sont constatées pour les dépôts venant à échéance et sont traitées comme des dépôts à vue au cours des périodes suivantes (c'est-à-dire qu'elles sont retirées selon une méthode d'amortissement dégressif) sur la base des taux de retrait au tableau 1 du chapitre 4 de la ligne directrice NL (paragraphes 38 et 39 du chapitre 4, NL).
+
+Voir [les exemples 6](#ex6) et [7 en annexe](#ex7).
+
+#### Billets structurés
+
+Les billets structurés sont des produits de dettes dotés de dérivés qui modifient le profil de risque et de rendement des titres.
+
+Dans le cas des billets structurés DPE pour lesquels le client a une option de rachat, déclarer le solde à sa valeur marchande et le montant nominal des sorties. La tranche d'échéance doit correspondre à la prochaine date de remboursement par anticipation disponible ou être déterminée d'après la probabilité et les conditions de marché prévues, sous « Dépôts – Billets structurés de la clientèle de détail et de petites entreprises (BSDPE) – BSDPE avec option de rachat du client ». Les sorties sont constatées selon la prochaine date de remboursement par anticipation disponible ou déterminées d'après la probabilité et les conditions de marché prévues.
+
+Pour tous les autres billets structurés DPE, déclarer le solde à sa valeur marchande et le montant nominal des sorties dans la tranche d'échéance sous « Dépôts – Billets structurés de la clientèle de détail et de petites entreprises – BSDPE sans option de rachat du client ».
+
+### 3.4 Dépôts – Clientèle de gros
+
+Les dépôts de la clientèle de gros sont réputés être renouvelés, et une portion du solde est retirée chaque fois que le dépôt est réputé être renouvelé.
+
+Les dépôts à vue non opérationnels des institutions financières (IF) constituent une exception à ce traitement, lorsque le solde total est censé être retiré uniformément au cours des 4 premières semaines (c'est-à-dire 25 % du solde initial chaque semaine).
+
+Pour les dépôts à terme sélectionnés, les retraits effectués au cours des 4 premières semaines doivent s'appuyer sur le taux mensuel de retrait des dépôts équivalents, qui correspond au produit obtenu en multipliant le taux de retrait hebdomadaire par 4 (paragraphes 38 et 39 du chapitre 4, NL).
+
+Voir [l'exemple 16 en annexe](#ex16).
+
+#### Pays et territoires approuvés
+
+* Un pays ou territoire approuvé (« dans un pays ou territoire approuvé ») s'entend d'un pays ou territoire qui adopte le taux de retrait de 3 % pour les dépôts stables assortis de l'assurance-dépôts de type 1, comme défini à la section 3.3.
+* Les autres pays et territoires (hors d'un pays ou territoire approuvé) sont ceux qui n'adoptent pas le taux de retrait de 3 % pour les dépôts stables, que leur régime d'assurance-dépôts soit de type 1 ou de type 2, comme défini à la section 3.3.
+
+#### Dépôts à vue
+
+Seul le champ « Solde » doit être rempli pour chaque type de dépôt à vue. Par conséquent, aucun montant ne doit être déclaré dans les tranches d'échéance pour les dépôts à vue. À l'exception des dépôts non opérationnels des IF, on présume que les dépôts à vue sont renouvelés chaque semaine pendant le premier mois puis chaque mois du 2e au 12e mois, et qu'une partie du solde restant est retirée au taux applicable selon le type de dépôt (paragraphes 59 à 63 du chapitre 4, NL). Les sorties sont constatées selon les taux de retrait indiqués au tableau 1 du chapitre 4 de la ligne directrice NL.
+
+Les soldes des dépôts à vue provenant d'intermédiaires financiers non bancaires (IFNB) qui sont assortis de caractéristiques de détail sous-jacentes doivent être entrés dans le champ Espace réservé 3 sous Espaces réservés pour passifs.
+
+#### Dépôts à préavis des sociétés commerciales et de la clientèle de gros, lorsque la notification de retrait a été fournie
+
+Pour les dépôts nécessitant une notification de retrait, et lorsque cette notification a été fournie par le client, déclarer les montants demandés dans les tranches d'échéance contractuelle les plus proches pour le retrait par le client.
+
+Toute partie des dépôts à préavis pour laquelle le client a la possibilité d'effectuer des retraits partiels sans préavis doit être déclarée dans la tranche d'échéance contractuelle la plus proche.
+
+#### Dépôts à terme opérationnels d'entreprises commerciales et de sociétés (avec échéance initiale de moins de 30 jours)
+
+Les dépôts à terme opérationnels d'entreprises commerciales et de sociétés à échéance initiale de 30 jours ou moins sont réputés être renouvelés aux 30 jours au même taux que les dépôts à vue opérationnels d'entreprises commerciales et de sociétés. Déclarer ces dépôts sous les lignes correspondantes de la section « Dépôts à vue et à préavis des sociétés commerciales et de la clientèle de gros (échéance initiale ≤ 30 jours) – Opérationnel ». Les sorties sont constatées pour les paiements venant à échéance dans la période courante et dans toutes les périodes antérieures, sur la base des taux de retrait des dépôts à vue présentant les caractéristiques indiquées au tableau 1 du chapitre 4 de la ligne directrice NL.
+
+#### Autres dépôts à terme
+
+Les dépôts à terme des entreprises commerciales, sociétés, emprunteurs souverains, banques centrales, entités du secteur public et banques multilatérales de développement sont réputés être retirés selon le taux indiqué au tableau 1 du chapitre 4 de la ligne directrice NL et se renouveler tous les 30 jours. Tous les autres dépôts à terme de la clientèle de gros sont réputés ne pas être renouvelés. Déclarer le solde et les sorties venant à échéance pour chaque période. Les sorties sont constatées dans les tranches d'échéance contractuelle.
+
+#### Dépôts à vue et à préavis des sociétés commerciales et de la clientèle de gros (échéance initiale > 30 jours) – Opérationnel et non opérationnel
+
+Les dépôts à préavis des entreprises commerciales, des sociétés et de la clientèle de gros pour lesquels l'obligation de notification est supérieure à 30 jours seront traités comme des dépôts à terme aux fins des NCCF.
+
+### 3.5 Dépôts – Autres
+
+#### Acceptations bancaires de clients émises
+
+Dans le cas des acceptations bancaires que l'IF a garanties pour ses clients, déclarer le solde et les paiements venant à échéance pour chaque période sous « Dépôts – Autres dépôts – Acceptations bancaires de clients émises ». Les sorties sont constatées dans les tranches d'échéance contractuelle (paragraphe 45 du chapitre 4, NL).
+
+#### Dépôts intrabancaires avec swap
+
+Les dépôts intrabancaires avec swap sont des swaps effectués au sein d'une même institution financière en lien avec des fonds dans une devise destinés à être prêtés ou investis dans une autre devise (transactions sud-nord/nord-sud, par exemple). Déclarer ces dépôts sous « Dépôts – Autres dépôts – Dépôts intrabancaires avec swap ».
+
+Les sorties sont déclarées à la valeur brute des dépôts avec swap où :
+
+* les paiements de différentes filiales/entités ne peuvent être compensés entre eux;
+* les entrées et les sorties intrabancaires avec la même filiale/entité peuvent être compensées si elles surviennent au cours de la même période.
+
+#### Dépôts des entités affiliées
+
+Les dépôts des entités affiliées ont les mêmes caractéristiques que les « Dépôts à terme d'entreprises/commerciaux et de gros », mais ils proviennent d'une entité connexe (par exemple, d'une filiale). Dans le cas des dépôts provenant d'une entité affiliée, déclarer les soldes et les sorties contractuelles dans chaque période sous « Autres dépôts/garanties – dépôts des entités affiliées ».
+
+### 3.6 Émissions de gros
+
+Les passifs liés aux émissions de gros sont réputés ne pas être renouvelés sauf indication contraire, et les sorties de trésorerie doivent être attribuées aux tranches d'échéance correspondant à leur échéance contractuelle ou à la première date d'option.
+
+#### Acceptations bancaires
+
+Dans le cas des acceptations bancaires émises par l'institution déclarante pour son propre compte, déclarer les soldes à leur valeur marchande et le montant nominal des paiements venant à échéance sous « Émissions de gros – Émissions de gros de titres de créance non garantis – Acceptations bancaires ».
+
+Regrouper les acceptations bancaires et les déclarer sur la ligne correspondante selon leur échéance initiale, sous « Acceptations bancaires à 1 mois émises/Acceptations bancaires à 2 mois émises/Acceptations bancaires à 3 mois émises ». Regrouper les acceptations bancaires dont l'échéance initiale est inférieure à 1 mois et les déclarer sous « Acceptations bancaires à 1 mois émises ».
+
+Les acceptations bancaires sont réputées être renouvelées pour la même durée que l'échéance initiale des dépôts. Les sorties sont constatées pour les paiements venant à échéance dans la période courante et toutes les périodes de renouvellement antérieures, selon un taux de retrait de 100 % (paragraphe 45 du chapitre 4, NL).
+
+#### Billets structurés commerciaux/de gros
+
+Dans le cas des billets structurés commerciaux/de gros assortis d'une option de rachat destinée au client, déclarer les soldes à leur valeur marchande et comptabliser les sorties au montant nominal. La tranche d'échéance doit correspondre à la prochaine date de remboursement par anticipation disponible ou être déterminée d'après la probabilité et les conditions de marché prévues, sous « Dépôts – Émissions de gros – Autres émissions de titres de créance non garantis – Billets structurés commerciaux/de gros ». Les sorties sont constatées selon la prochaine date de remboursement par anticipation disponible ou déterminées d'après la probabilité et les conditions de marché prévues.
+
+Dans le cas de tous les autres billets structurés commerciaux/de gros, déclarer les soldes à la valeur marchande et les sorties à la valeur nominale dans les tranches d'échéance. Les sorties sont constatées dans les tranches d'échéance.
+
+#### Autres opérations de titrisation de l'institution
+
+Déclarer les soldes et les sorties issues des autres opérations de titrisation de l'institution dont le financement reposant sur des véhicules de placement structurés n'est pas réputé être renouvelé. Les sorties sont constatées dans les tranches d'échéance contractuelle (paragraphe 41 du chapitre 4, NL).
+
+#### Autres émissions de gros garanties et non garanties
+
+Pour toutes les autres émissions de gros garanties et non garanties non couvertes ci-dessus, déclarer les soldes et les sorties venant à échéance pour chaque période sous les lignes correspondantes des types de transactions concernés. Les sorties sont constatées dans les tranches d'échéance contractuelle (paragraphe 41 du chapitre 4, NL).
+
+### 3.7 Accords de pension et transactions de financement de titres
+
+Les accords de pension et les transactions de financement de titres reçoivent un traitement similaire aux fins des NCCF conformément au chapitre 4 de la ligne directrice NL. Voir les paragraphes 43 et 74 du chapitre 4 de la NL.
+
+S'agissant des liquidités liées aux accords de pension et au financement de titres, déclarer le solde et les sorties venant à échéance pour chaque période (valeur du prêt dans les deux cas) sous « Accords de pension et titres prêtés ». Les sorties sont constatées dans les tranches d'échéance contractuelle
+
+#### Sûretés
+
+Dans le cas des titres (autres que des actions ordinaires) donnés en nantissement à titre de sûretés pour des accords de pension et des opérations de financement de titres, déclarer le solde et les entrées à l'échéance contractuelle de l'accord en pension ou de l'opération de financement de titres connexe (valeur marchande dans les deux cas) sous « Sûretés – Sorties de sûretés sur cessions en pension ». Les soldes de sûretés sont considérés comme des sorties de trésorerie dans la première période (c'est-à-dire la première semaine) après application de la décote pertinente prescrite dans le tableau de décote des titres. Les entrées de sûretés sont constatées dans les tranches d'échéance contractuelle après application de la décote pertinente.
+
+Dans le cas des actions ordinaires immobilisées à titre de sûreté, déclarer le solde et les entrées à l'échéance contractuelle de l'accord de prise en pension ou de l'opération de financement de la sécurité (dans les deux cas, à la valeur marchande de la sûreté) sous « Sûretés – Sorties de sûretés sur accord en pension ».
+
+Dans le cas des actions-sûretés remises par la contrepartie, les entrées sont constatées telles qu'elles sont décrites à la section 2.3 (Titres – actions ordinaires). Dans le cas des actions-sûretés remises après les échéances spécifiées à la section 2.3, il faut constater l'entrée cumulative (depuis la première semaine jusqu'à la période où la sûreté est remise) dans la période de la remise lorsque la sûreté est remise.
+
+Voir [l'exemple 11 en annexe](#ex11).
+
+### 3.8 Titres vendus à découvert
+
+Dans le cas des passifs existants liés aux titres vendus à découvert, déclarer la valeur marchande du solde sous « Titres vendus à découvert » sans appliquer de décote aux montants nominaux à rembourser. Le solde est constaté comme une sortie dans la première période (c'est-à-dire la première semaine) (paragraphe 44 du chapitre 4, NL).
+
+Dans le cas des cessions en pension et des transactions de financement de titres liées à des ventes à découvert, déclarer les montants en cause sous les lignes pertinentes.
+
+Si une marge de liquidité est fournie pour les ventes à découvert, il faut déclarer le montant du solde seulement, sous « Autres actifs – Sûretés en liquidités données en nantissement ». Aucune valeur de liquidité ne sera attribuée.
+
+Voir [l'exemple 10 en annexe](#ex10).
+
+### 3.9 Autres passifs
+
+#### Version simplifiée du NCCF
+
+Pour les passifs non déclarés dans les sections précédentes, les institutions doivent déclarer les soldes de tous ces autres passifs sous « Autres passifs ». Aucune valeur de liquidité ne leur sera attribuée.
+
+#### Version intégrale du NCCF
+
+##### Passifs liés à des instruments dérivés (PLID)
+
+###### Dérivés de change
+
+Pour tous les passifs liés à des instruments dérivés de change (contrat à terme sur devises, swaps de devises, etc.), déclarer uniquement le solde à sa valeur marchande sous « Autres passifs – Passifs liés à des instruments dérivés (PLID) – Passifs de swaps de devises ».
+
+Dans le bilan en USD seulement, déclarer les flux de trésorerie contractuels nets (valeur nominale) pour toutes les devises dans chaque période sous « Autres passifs – Passifs liés à des instruments dérivés (PLID) – Passifs de swaps de devises ».
+
+Dans tous les autres bilans, aucune valeur de liquidité ne sera attribuée. Dans le bilan en USD, la somme des flux de trésorerie contractuels nets pour toutes les périodes est constatée comme sortie de trésorerie dans la première période (c'est-à-dire la première semaine).
+
+Dans le bilan en USD, les flux de trésorerie liés aux dérivés de change sont à déclarer parmi les postes pour mémoire, sous « Dérivés FX » pour chaque devise en cause séparément. Ces montants sont fournis à titre informatif seulement.
+
+###### Flux de trésorerie liés à des options
+
+Les institutions doivent calculer les flux de trésorerie contractuels prévus liés à des options à l'aide de leurs méthodologies d'évaluation existantes. Les options doivent être considérées comme exercées quand elles sont « dans le cours » pour l'acheteur à la date de déclaration (paragraphe 46 du chapitre 4, NL). Déclarer le solde à sa valeur marchande et les sorties de trésorerie contractuelles prévues pour chaque période sous « Autres passifs – Passifs liés à des instruments dérivés (PLID) – Autres PLID ». Les sorties contractuelles prévues sont constatées dans chaque période.
+
+###### Tous les autres PLID
+
+Déclarer le solde à sa valeur marchande et les sorties contractuelles à leur valeur nominale pour chaque période (paragraphe 46 du chapitre 4, NL) à la ligne « Autres passifs – Passifs liés à des instruments dérivés (PLID) – Autres PLID ». Les sorties sont constatées dans les tranches d'échéance contractuelle.
+
+Sauf indication contraire, les flux de trésorerie liés à des instruments dérivés ne peuvent être déclarés au net par contrepartie que s'il existe une convention-cadre de compensation (paragraphe 46 du chapitre 4, NL).
+
+###### Sûretés
+
+Lorsque des titres sont donnés en nantissement à titre de sûretés pour des PLID, déclarer le solde et les entrées à l'échéance contractuelle du PLID connexe (à la valeur marchande de la sûreté dans les deux cas) sous « Sûretés – Nantissement de sûretés et charges – instruments dérivés et compensation ». Les soldes de sûretés sont considérés comme des sorties de trésorerie dans la première période (c'est-à-dire la première semaine) après application de la décote pertinente prescrite dans le tableau de décote des titres. Les entrées de sûretés sont constatées dans les tranches d'échéance contractuelle après application de la décote pertinente.
+
+Lorsque des PLID sont assortis de sûretés en liquidités, déclarer le solde des sûretés en liquidités nettes données en nantissement et des entrées lorsque les marges de trésorerie cessent d'être grevées sous « Autres actifs – Sûretés en liquidités données en nantissement ». Le solde est constaté à titre de sortie dans la première période (première semaine) et les entrées sont constatées dans les périodes au cours desquelles les marges de trésorerie cessent d'être grevées.
+
+###### Swaps de sûretés
+
+Lorsque les swaps de sûretés respectent les conditions du paragraphe 22 du chapitre 4 de la ligne directrice NL, dans le cas des titres donnés en nantissement à titre de sûretés, déclarer le solde et les entrées à l'échéance contractuelle des swaps de sûretés (à la valeur marchande de la sûreté dans les deux cas) sous « Sûretés – Sorties de sûretés sur cessions en pension ». Les soldes de sûretés sont considérés comme des sorties de trésorerie dans la première période (c'est-à-dire la première semaine) après application de la décote pertinente prescrite dans le tableau de décote des titres. Les entrées de sûretés sont constatées dans les tranches d'échéance contractuelle après application de la décote pertinente.
+
+##### Autres passifs
+
+###### Sûretés en liquidités reçues
+
+Pour les instructions liées à la section « Sûretés en liquidités reçues », voir la section 2.7 des présentes instructions.
+
+###### Produits de base
+
+Déclarer les soldes de métaux précieux vendus à découvert, de dépôts de métaux précieux et d'autres produits de base sous « Produits de base vendus à découvert ». Aucune valeur de liquidité ne leur sera attribuée.
+
+###### Autres passifs
+
+De même, déclarer sous « Autres passifs » les soldes des passifs qui ne sont pas mentionnés au chapitre 4 de la ligne directrice NL. Aucune valeur de liquidité ne leur sera attribuée (paragraphe 74 du chapitre 4, NL).
+
+### 3.10 Engagements hors bilan
+
+#### Engagements
+
+Dans le cas des facilités de crédit qui sont engagées (irrévocables ou révocables de façon conditionnelle) ou non engagées (révocables), déclarer le solde selon le type correspondant à la première semaine ou dans la tranche d'échéance contractuelle la plus proche. Lorsque des périodes de notification obligatoires sont prévues, les montants doivent être déclarés dans la tranche d'échéance à l'expiration des périodes de préavis.
+
+Les taux de retrait applicables sont disponibles dans le tableau 2 du chapitre 4 de la ligne directrice NL.
+
+Voir [l'exemple 15 en annexe](#ex15).
+
+#### Version simplifiée
+
+En ce qui concerne les « Portions inutilisées de facilités de crédit et de liquidité au bénéfice de clients de détail et de petites entreprises », les institutions peuvent choisir de ne pas différencier les titulaires sans solde des autres clients. Dans ce cas, les institutions se doivent de rapporter le solde complet dans la catégorie des clients qui ne sont pas des titulaires sans solde.
+
+#### Facilités de crédit engagées au bénéfice d'entreprises non financières
+
+Les institutions tenues de présenter la version intégrale du NCCF doivent obligatoirement déclarer les montants non utilisés des facilités de crédit engagées au bénéfice d'entreprises non financières, ventilés de façon à constater la présence ou l'absence de relations opérationnelles avec le client, et à établir la distinction entre un client qui est une entreprise commerciale ou une société. Les définitions de ces termes sont disponibles dans la section Éléments hors bilan de la section 4.6 de la ligne directrice NL.
+
+La distinction entre les titres de bonne qualité et les titres de qualité inférieure dans le solde des facilités de crédit engagées inutilisées au bénéfice d'entreprises non financières peut être déclarée si elle est connue. Si elle ne l'est pas, il faut déclarer ces soldes en fonction de la présence de relations opérationnelles ou non opérationnelles avec le client aux lignes 1390 ou 1392 pour les facilités de crédit engagées en titres de qualité inférieure au bénéfice d'entreprises non financières. La distinction entre les titres de bonne qualité et les titres de qualité inférieure dans le solde des facilités de crédit engagées inutilisées au bénéfice d'entreprises non financières sera déplacée dans la section des postes pour mémoire dans une prochaine version du NCCF. La classification établie des titres de bonne qualité par rapport aux titres de qualité inférieure doit obligatoirement être cohérente avec la classification interne des clients utilisée à des fins de gestion des risques (par exemple notation du risque de l'emprunteur ou autres indicateurs internes).
+
+Les facilités de liquidité sont considérées comme utilisées lorsque le financement externe qu'elles adossent a été mobilisé par des parties qui bénéficient des facilités.
+
+#### Montants non utilisés liés aux facilités de crédit pour les papiers commerciaux adossés à des actifs (PCAA)
+
+Les institutions ayant des facilités de financement structurées qui comprennent l'émission de papier commercial adossé à des actifs doivent déclarer la dette arrivant à échéance dans la période correspondante sous « Facilités de liquidité engagées aux PCAA – Solde arrivant à échéance ». Seules les dettes arrivant à échéance au cours des 4 premières semaines seront considérées comme des sorties dans le cadre du calcul des NCCF.
+
+Les institutions doivent également déclarer la capacité non utilisée de ces facilités sous la ligne « Facilités de liquidité engagées pour les PCAA non émis (déclarées en tenant compte des périodes de préavis) », dans la première tranche contractuelle durant laquelle la capacité peut être utilisée. Par exemple, une capacité non utilisée dans un délai de 35 jours doit obligatoirement être déclarée au cours du deuxième mois. Seules les capacités inutilisées qui peuvent être utilisées au cours des 4 premières semaines seront considérées comme des sorties dans le cadre du calcul des NCCF.
+
+#### Garanties de financement aux filiales
+
+Dans le cas des garanties de financement aux filiales, déclarer le montant nominal du solde sous « Engagements hors bilan – Garanties de financement aux filiales ». Le solde est constaté comme une sortie dans la première période (c'est-à-dire la première semaine) (paragraphe 44 du chapitre 4, NL).
+
+## 4. Postes pour mémoire
+
+Les éléments rapportés dans cette section le sont à titre informatif seulement et n'ont aucune incidence sur le calcul des NCCF.
+
+### 4.1 Revenus et frais autres que d'intérêt
+
+La section 4.1 ne s'applique pas aux BISi. Seules les PMB de catégorie 1 et 2 doivent déclarer les flux de trésorerie prévus pour les revenus et frais autres que d'intérêt admissibles (paragraphe 18 du chapitre 1, NL et chapitre 6 de la section 6.1 de l'encadré « Notes du BSIF »).
+
+Tant pour les revenus autres que d'intérêt admissibles que pour les charges d'exploitation, le BSIF s'attend à un niveau de précision relativement élevé pour les prévisions déclarées au cours des 4 premières semaines. Les institutions peuvent être en mesure d'utiliser des méthodes d'estimation adéquates pour la période allant du 2e au 12e mois. Les flux de trésorerie doivent refléter les meilleures estimations des institutions quant aux revenus autres que d'intérêt et aux charges d'exploitation à la date de déclaration.
+
+#### Revenus autres que d'intérêt admissibles
+
+Les entrées de trésorerie prévues provenant des revenus autres que d'intérêts admissibles doivent être déclarées dans les tranches d'échéance appropriées.
+
+#### Frais autres que d'intérêt
+
+Les sorties de trésorerie prévues provenant des charges d'exploitation doivent être déclarées dans les tranches d'échéance appropriées.
+
+Les revenus autres que d'intérêt admissibles et les frais autres que d'intérêt sont définis dans le tableau ci-dessous. Pour en savoir plus, voir les sections 19, 23 à 25 et 28 des instructions relatives à la [déclaration P3 du BSIF (état consolidé des revenus)](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/etat-du-resultat-global-benefices-non-repartis-aerg-p3 "État du résultat global, bénéfices non répartis et AÉRG (P3)").
+
+##### Revenus autres que d'intérêt admissibles
+
+* Frais d'administration sur les comptes de dépôt
+* Autres frais d'administration sur les paiements
+* Frais d'administration des cartes de crédit et de débit
+* Commissions d'engagements et d'engagements de crédit de soutien et autres commissions sur les prêts
+* Revenu tiré de la titrisation d'éléments d'actif
+* Frais liés aux prêts hypothécaires
+* Frais d'acceptation
+* Frais liés aux garanties et aux lettres de crédit
+* Frais liés au traitement de la paie
+* Frais de gestion de placements et de garde
+* Frais des fonds communs de placement
+* Commissions sur opérations de courtage immobilier
+* Commissions de prise ferme sur les nouvelles émissions
+* Commissions et frais liés aux valeurs mobilières
+* Autres commissions et frais
+* Tout autre revenu non détaillé ailleurs
+
+##### Frais autres que d'intérêt
+
+* Salaires des employés
+* Contributions aux caisses de retraite et autres avantages sociaux
+* Location de biens immobiliers
+* Locaux, mobilier et agencements
+* Ordinateurs et équipement
+* Publicité, relations publiques et représentation
+* Frais de bureau et frais généraux
+* Impôts sur le capital et taxes d'affaires
+* Jetons des administrateurs et frais connexes
+* Primes d'assurance-dépôts
+* Honoraires d'associations, de chambres de compensation et de réglementation
+* Honoraires de services professionnels
+* Impôts sur le revenu
+* Autres frais non détaillés ailleurs.
+
+### 4.2 Activités de prêt attendues
+
+#### Toutes les institutions sont tenues de déclarer les sorties de trésorerie prévues liées aux futures activités de crédit attendues
+
+Ces sorties doivent être déclarées dans les tranches d'échéance correspondantes sur la base des meilleures estimations de l'institution et, le cas échéant, être représentatives de nouveaux débouchés d'affaires sur la base de la continuité des activités (c'est-à-dire les sorties de trésorerie contractuelles et non contractuelles). Les obligations de financement doivent être déclarées à leur valeur brute, et ne doivent pas être compensées par les activités de remboursement de prêts attendues. Les estimations doivent être représentatives de l'information disponible à la date de déclaration, notamment les volumes à différents points de la filière (compte tenu des hypothèses de réalisation), les fluctuations saisonnières ainsi que les attentes et les plans de croissance des affaires.
+
+En ce qui a trait aux sorties de trésorerie prévues liées aux futures activités de prêt attendues, on ne doit déclarer aucun montant sous la colonne « Soldes » (colonne G). L'on doit déclarer sous la colonne « 365 » toutes les prévisions de sorties de prêts cumulatives connues à ce moment.
+
+Les sorties de trésorerie que les institutions doivent considérer comme des attentes de financement futur découlant des activités de prêt comprennent, sans s'y limiter, les éléments suivants :
+
+1. Hypothèques résidentielles et commerciales
+2. Immobilier commercial – Financement intermédiaire (prêts à la construction)
+3. Autres obligations contractuelles d'accorder des financements aux clients
+4. Autres flux de trésorerie non contractuels attendus liés aux activités de crédit
+
+Les institutions doivent avoir mis en place des processus leur permettant de déceler les sources d'écarts importants entre les estimations (englobant la croissance prévue) et les flux de trésorerie réels.
+
+##### Hypothèques résidentielles et commerciales
+
+Renouvellements : Le financement attendu des renouvellements des hypothèques résidentielles et commerciales doit être comptabilisé dans la tranche d'échéance appropriée en fonction des dates d'échéance/de renouvellement contractuelles. Les estimations des renouvellements peuvent prendre en compte des taux de renouvellement calculés en fonction de l'expérience passée ou des prévisions de réalisation.
+
+Obligations contractuelles (engagement accepté par l'emprunteur) à l'exclusion des renouvellements : Les sorties attendues liées au financement de nouveaux engagements hypothécaires, lorsque l'emprunteur a accepté l'engagement et que l'IF est contractuellement tenue de le financer, doivent être comptabilisées dans la tranche d'échéance appropriée en fonction de la date de financement contractuelle. Les estimations des sorties de trésorerie doivent tenir compte des taux de financement des engagements applicables. S'il n'existe pas de données précises concernant les obligations contractuelles à l'exclusion des renouvellements, les montants peuvent être groupés avec les autres financements hypothécaires attendus.
+
+Approbations préalables et garanties de taux : Les sorties attendues liées au financement obtenu au moyen d'approbations préalables de prêts hypothécaires et de garanties de taux doivent être déclarées dans la tranche d'échéance appropriée en fonction de la date de financement prévue. Les estimations des sorties de fonds doivent tenir compte des taux de financement applicables. S'il n'existe pas de données précises concernant les approbations préalables et les garanties de taux, les montants peuvent être groupés avec les autres financements hypothécaires attendus.
+
+Autre financement attendu des prêts hypothécaires : Déclarer toutes les autres sorties attendues de financement contractuel des prêts hypothécaires qui ne sont pas comprises dans les catégories ci-dessus.
+
+##### Immobilier commercial – Financement intermédiaire (prêts à la construction)
+
+Les prêts à la construction comprennent le financement de la viabilisation de terrains, la construction ou la rénovation d'immeubles en tout genre. Comprend le financement du terrain subissant des améliorations. Cette catégorie englobe les types de prêts présentant un risque lié à la construction et/ou un risque d'achèvement, sans égard au type de bien faisant l'objet du financement, sauf s'il s'agit d'une résidence unifamiliale qu'un particulier construit pour lui-même.
+
+Les sorties de trésorerie attendues liées au financement des prêts à la construction doivent être déclarées dans la tranche d'échéance appropriée en fonction des dates de retrait prévues. Les IF doivent estimer les sorties de trésorerie de leur mieux, par exemple en estimant les sorties de trésorerie réelles projet par projet ou, pour les portefeuilles plus importants, en estimant le taux de retrait prospectif pour une période donnée, ou selon toute autre méthodologie appropriée.
+
+S'il n'existe pas de données précises concernant l'immobilier commercial – financement intermédiaire (prêts à la construction), les montants peuvent être groupés avec les autres flux de trésorerie non contractuels attendus liés aux activités de prêt.
+
+##### Autres obligations contractuelles d'accorder des financements aux clients
+
+Les sorties de trésorerie attendues au titre d'autres obligations contractuelles visant à octroyer des financements qui ne sont pas saisis ailleurs doivent être comptabilisées dans la tranche d'échéance appropriée en fonction des dates de financement prévues. S'il n'existe pas de données précises concernant les autres obligations contractuelles d'accorder des financements aux clients, les montants peuvent être groupés avec les autres flux de trésorerie non contractuels attendus liés aux activités de prêt.
+
+##### Autres flux de trésorerie non contractuels attendus liés aux activités de prêt
+
+Les sorties de trésorerie attendues au titre d'autres obligations visant à accorder des financements qui ne sont pas saisis ailleurs doivent être comptabilisées dans la tranche d'échéance appropriée en fonction des dates de financement prévues. L'expression « non contractuelles » sera supprimée d'une future version du gabarit du NCCF de manière à tenir compte de l'inclusion de certains montants contractuels, dans les cas où l'IFF déclarante ne dispose pas de données précises.
+
+## Annexe – Exemples
+
+Les lignes qui commencent avec le terme « Entrées » correspondent aux entrées de l'institution déclarante, et les lignes qui commencent avec le terme « Flux de trésorerie calculés » montrent les flux de trésorerie calculés selon les calculs intégrés dans le gabarit. La section « Flux de trésorerie calculés » commence à la ligne 857 du relevé « Flux de trésorerie nets cumulatifs de 2023 », et à la ligne 530 du relevé « Flux de trésorerie nets cumulatifs (version simplifiée) de 2023 ». Les détails du calcul sont indiqués dans les lignes « Calcul ».
+
+Dans les exemples ci-dessous, les soldes entre parenthèses ( ) sont négatifs.
+
+### Exemple 1 : Actif – Obligation provinciale à cote élevée venant à échéance au septième mois
+
+Instructions de déclaration : Déclarer le solde sous la colonne « Soldes » et à nouveau dans la tranche d'échéance correspondante.
+
+Traitement : décote de 1,5 % en 1re semaine; 1,5 % à échéance
+
+Exemple 1 : Actif – Obligation provinciale à cote élevée venant à échéance au septième mois
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | 1 000 | 985 | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | 15 | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée |
+| Calcul | aucune donnée | = 1 000 × (100 % − 1,5 %) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = 1 000 × 1,5 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 2 : Actif – Actions ordinaires d'entreprises non financières
+
+Instructions de déclaration : Déclarer le solde sous la colonne « Soldes » uniquement
+
+Traitement : Action émise par une entreprise autre qu'une IF (entrées de 50 % la 4e semaine)
+
+Exemple 2 : Actif – Actions ordinaires d'entreprises non financières
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Actions ordinaires d'entreprises non financières admissibles | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Actions ordinaires d'entreprises non financières admissibles | 1 000 | aucune donnée | aucune donnée | aucune donnée | 500 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | 500 |
+| Calcul | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = 1 000 × 50 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 3 : Actif – Actions ordinaires d'institutions financières
+
+Instructions de déclaration : Déclarer le solde sous la colonne « Soldes » uniquement
+
+Traitement : Action émise par une IF (12,5 % le 2e mois, 25 % le 3e mois, 12,5 % le 4e mois)
+
+Exemple 3 : Actif – Actions ordinaires d'institutions financières
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Actions ordinaires d'entreprises financières admissibles | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Actions ordinaires d'entreprises financières admissibles | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | 125 | 250 | 125 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | 500 |
+| Calcul | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = 1 000 × 12,5 % | = 1 000 × 25 % | = 1 000 × 12,5 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 4 : Passif – Dépôts à vue DPE, type 1, assuré, stable
+
+Directives de déclaration : Déclarer le solde sous la colonne « Soldes » uniquement
+
+Traitement : DPE, type 1, assuré, stable, encaissable ou à terme (0,5 % de la 1re à la 4e semaine; 0,75 % du 2e au 12e mois)
+
+Exemple 4 : Passif – Dépôts à vue DPE, type 1, assuré, stable
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | … | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Dépôts à vue DPE, type 1, assuré, stable | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Dépôts à vue DPE, type 1, assuré, stable | (1 000) | (5,00) | (4,98) | (4,95) | (4,93) | (7,35) | (7,30) | (7,24) | … | (6,82) | (902,25) |
+| Calcul | aucune donnée | = −1 000 × 0,5 % | = (−1 000 +5) × 0,5 % | = (−1 000 + 5 + 4,98) × 0,5 % | = (−1 000 + 5 + 4,98 + 4,95) × 0,5 % | = (−1 000 + 5 + 4,98 + 4,95 + 4,93) × 0,75 % | = (−1 000 + 5 + 4,98 + 4,95 + 4,93 + 7,35) × 0,75 % | = (−1 000 + 5 + 4,98 + 4,95 + 4,93 + 7,35 + 7,3) × 0,75 % | … | = (−1 000 + 5 + 4,98 + 4,95 + 4,93 + 7,35 + 7,3 + 7,24 + 7,19 + 7,13 + 7,08 + 7,03 + 6,97 + 6,92 + 6,87) × 0,75 % | = −1 000 + 5 + 4,98 + 4,95 + 4,93 + 7,35 + 7,3 + 7,24 + 7,19 + 7,13 + 7,08 + 7,03 + 6,97 + 6,92 + 6,87 + 6,82 |
+
+### Exemple 5 : Passif – Dépôt à terme encaissable à la première date d'option du client la 3e semaine
+
+Instructions de déclaration : Déclarer le solde sous la colonne « Soldes » et à nouveau dans la tranche d'échéance correspondante (c'est-à-dire la 3e semaine).
+
+Traitement : DPE, type 1, assuré, stable, encaissable ou à terme (0,5 % de la 1re à la 4e semaine; 0,75 % du 2e au 12e mois)
+
+Exemple 5 : Passif – Dépôt à terme encaissable à la première date d'option du client la 3e semaine
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | … | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Dépôts à terme encaissables DPE, type 1, assuré, stable | (1 000) | aucune donnée | aucune donnée | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Dépôts à terme encaissables DPE, type 1, assuré, stable | (1 000) | -aucune donnée | -aucune donnée | (5,00) | (4,98) | (7,43) | (7,37) | (7,31) | … | (6,89) | (911) |
+| Calcul | aucune donnée | aucune donnée | aucune donnée | = −1 000 × 0,5 % | = (−1 000 +5) × 0,5 % | = (−1 000 + 5 + 4,98) × 0,75 % | = (−1 000 + 5 + 4,98 + 7,43) × 0,75 % | = (−1 000 + 5 + 4,98 + 7,43 + 7,37) × 0,75 % | … | = (−1 000 + 5 + 4,98 + 7,43 + 7,37 + 7,31 + 7,26 + 7,20 + 7,15 + 7,10 + 7,04 + 6,99 + 6,94) × 0,75 % | = −1 000 + 5 + 4,98 + 7,43 + 7,37 + 7,31 + 7,26 + 7,2 + 7,15 + 7,1 + 7,04 + 6,99 + 6,94 + 6,89 |
+
+### Exemple 6 : Passif – Dépôt à terme fixe (60 jours), type 1, assuré, venant à échéance la 2e semaine
+
+Instructions de déclaration : Déclarer le solde sous la colonne « Soldes » et à nouveau dans la tranche d'échéance correspondante (c'est-à-dire la 2e semaine).
+
+Traitement : DPE, type 1, assuré, stable, encaissable ou à terme (0,5 % par semaine durant le 1er mois ou 1 à 4 % d'équivalence le 1er mois, 0,75 % par mois par la suite)
+
+Exemple 6 : Passif – Dépôt à terme fixe (60 jours), type 1, assuré, venant à échéance la 2e semaine
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Dépôts à terme fixe (60 jours) DPE, type 1, assuré, stable | (1 000) | aucune donnée | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Dépôts à terme fixe (60 jours) DPE, type 1, assuré, stable | (1 000) | -aucune donnée | (20) | -aucune donnée | -aucune donnée | -aucune donnée | (7,35) | -aucune donnée | (7,29) | -aucune donnée | (7,24) | -aucune donnée | (7,19) | -aucune donnée | (7,13) | -aucune donnée | (943,80) |
+| Calcul | aucune donnée | aucune donnée | = −1 000 × 2 % | aucune donnée | aucune donnée | aucune donnée | = (−1 000 +20) × 0,75 % | aucune donnée | = (−1 000 + 20 + 7,35) × 0,75 % | aucune donnée | = (−1 000 + 20 + 7,35 + 7,29) × 0,75 % | aucune donnée | = (−1 000 + 20 + 7,35 + 7,29 + 7,24) × 0,75 % | aucune donnée | = (−1 000 + 20 + 7,35 + 7,29 + 7,24 + 7,19) × 0,75 % | aucune donnée | = (−1 000 + 20 + 7,35 + 7,29 + 7,24 + 7,19 + 7,13) |
+
+### Exemple 7 : Passif – Dépôt à terme fixe (1 an), type 1, assuré, venant à échéance la 4e semaine
+
+Instructions de déclaration : Déclarer le solde sous la colonne « Soldes » et à nouveau dans la tranche d'échéance correspondante (c'est-à-dire la 4e semaine).
+
+Traitement : DPE, type 1, assuré, stable, encaissable ou à terme (0,5 % par semaine durant le 1er mois ou 1 à 4 % d'équivalence le 1er mois, 0,75 % par mois par la suite)
+
+Exemple 7 : Passif – Dépôt à terme fixe (1 an), type 1, assuré, venant à échéance la 4e semaine
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Dépôts à terme fixe (1 an) DPE, type 1, assuré, stable | (1 000) | aucune donnée | aucune donnée | aucune donnée | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Dépôts à terme fixe (1 an) DPE, type 1, assuré, stable | (1 000) | -aucune donnée | -aucune donnée | -aucune donnée | (20) | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | (980) |
+| Calcul | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = −1 000 × 2 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = −1 000 + 20 |
+
+### Exemple 8 : ALID avec sûretés en liquidités – ALID à la valeur marchande de 1 000 $ à la date de présentation, venant à échéance en semaine 3
+
+Pour cette transaction, nous retenons un bénéfice de 1 000 $ nécessitant que la contrepartie dépose une sûreté en liquidités. L'institution déclarante dépose la sûreté en liquidités auprès d'une autre IF et la position de l'ALID a donc une valeur de 1 000 $. Par conséquent, pour cette transaction :
+
+* Actifs = 2 000 (dépôts à vue auprès des IF + ALID)
+* Passifs = 1 000 (sûretés en liquidités reçues)
+* Gains et pertes = +1 000
+
+#### Instructions de déclaration
+
+1. Déclarer la valeur de la sûreté reçue sous la ligne « Dépôts à vue auprès d'une autre IF » et la valeur de la sûreté déposée auprès d'une autre IF (= 1 000) sous la colonne « Soldes ».
+2. Déclarer la valeur marchande de la position de l'ALID (c'est-à-dire la valeur de la sûreté en liquidités reçue) sous la ligne « Autres ALID » sous la colonne « Soldes » et à nouveau dans la tranche d'échéance correspondante (3e semaine).
+3. Déclarer le montant de la sûreté en liquidités à remettre sous la ligne « Sûretés en liquidités reçues pour les produits dérivés cotés en bourse » sous la colonne « Soldes » (= – 1 000) et à nouveau dans la tranche d'échéance correspondante (3e semaine) comme une sortie.
+4. Veuillez noter que les gains et pertes ne doivent pas être déclarés dans le cadre des NCCF.
+
+Exemple 8 : ALID avec sûretés en liquidités - Instructions de déclaration
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Actifs – Dépôts à vue auprès des IF | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Actifs – Autres ALID | 1 000 | -aucune donnée | -aucune donnée | 1 000 | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée |
+| Entrées : Passif – Sûretés en liquidités reçues pour les produits dérivés cotés en bourse | (1 000) | aucune donnée | aucune donnée | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+#### Calculs
+
+Exemple 8 : ALID avec sûretés en liquidités - Calculs
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flux de trésorerie calculés : Actifs – Dépôts à vue auprès des IF | 1 000 | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | -aucune donnée |
+| Flux de trésorerie calculés : Actifs – Autres ALID | 1 000 | -aucune donnée | -aucune donnée | 1 000 | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée |
+| Flux de trésorerie calculés : Passif – Sûretés en liquidités reçues pour les produits dérivés cotés en bourse | (1 000) | -aucune donnée | -aucune donnée | (1 000) | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée |
+| Flux de trésorerie calculés : Flux de trésorerie nets cumulatifs de la transaction | aucune donnée | 1 000 | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée |
+
+### Exemple 9 : ALID avec sûretés en titres – ALID à la valeur marchande de 1 000 $ à la date de présentation, venant à échéance en semaine 3
+
+Pour cette transaction, nous retenons un bénéfice de 1 000 $ nécessitant que la contrepartie dépose une sûreté en titres. La valeur de l'ALID est de 1 000 $. Par conséquent, pour cette transaction :
+
+* Actifs = 1 000 (ALID)
+* Passifs = 0
+* Gains et pertes = +1 000
+
+La sûreté en titres constitue un élément hors bilan.
+
+#### Directives de déclaration
+
+1. Déclarer la valeur marchande de la position de l'ALID sous la ligne « Autres ALID » sous la colonne « Soldes » et à nouveau dans la tranche d'échéance correspondante (c'est-à-dire la 3e semaine).
+2. Déclarer la valeur marchande sous la colonne « Soldes » sous la ligne du titre correspondant dans la section « Nantissement de sûretés et charges – instruments dérivés et compensation » et à nouveau dans la tranche d'échéance correspondante (c'est-à-dire la 3e semaine).
+
+Exemple 9 : ALID avec sûretés en titres - Directives de déclaration
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Actifs – Autres ALID | 1 000 | -aucune donnée | -aucune donnée | 1 000 | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée |
+| Entrées : Nantissement de sûretés et charges – instruments dérivés et compensation – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | 1 000 | aucune donnée | aucune donnée | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+#### Flux de trésorerie calculés
+
+Exemple 9 : ALID avec sûretés en titres – Flux de trésorerie calculés
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flux de trésorerie calculés : Actifs – Autres ALID | 1 000 | -aucune donnée | -aucune donnée | 1 000 | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée |
+| Flux de trésorerie calculés : Nantissement de sûretés et charges – instruments dérivés et compensation – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | 1 000 | 985 | aucune donnée | (985) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie nets cumulatifs de la transaction | aucune donnée | 985 | aucune donnée | 15 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 10 : Titres vendus à découvert – Titres vendus à découvert pour 1 000 $, la valeur marchande du titre étant de 1 200 $ à la date de présentation
+
+Dans le présent exemple, nous retenons le cas de titres vendus à découvert pour 1 000 $. Compte tenu de l'augmentation de la valeur du titre vendu à découvert, l'institution déclarante a enregistré la différence entre 1 000 $ et la valeur marchande du titre, soit 200 $. L'institution a perdu 200 $ à la date de présentation. Le produit restant de la vente de titres à découvert a été déposé auprès d'une autre IF (800 $) :
+
+* Actifs = 1 000 (dépôts à vue auprès des IF + sûretés en liquidités données en nantissement)
+* Passifs = 1 200 (titres vendus à découvert)
+* Gains et pertes = (200)
+
+#### Instructions de déclaration
+
+1. Déclarer un montant de 800 $ sous la ligne « Dépôts à vue auprès d'autres IF » sous la colonne « Soldes ».
+2. Déclarer le montant de la sûreté en liquidités déposée par suite des variations de la valeur marchande du titre vendu à découvert sous la ligne « Sûretés en liquidités données en nantissement », 200 $ (= 1 200 – 1 000).
+3. Déclarer la valeur marchande sous la ligne correspondante dans la section « Titres vendus à découvert » sous la colonne « Soldes » (= −1 200), et à nouveau dans la tranche d'échéance correspondante.
+
+Exemple 10 : Titres vendus à découvert - Instructions de déclaration
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Actifs – Dépôts à vue auprès des IF | 800 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Actifs – Sûretés en liquidités données en nantissement | 200 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Passifs – Titres vendus à découvert – Titres gouvernementaux des emprunteurs souverains et des banques centrales (à cote élevée) | (1 200) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | (1 200) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+#### Flux de trésorerie calculés
+
+Exemple 10 : Titres vendus à découvert – Flux de trésorerie calculés
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flux de trésorerie calculés : Dépôts à vue auprès des IF | 800 | 800 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Sûretés en liquidités données en nantissement | 200 | 0 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Titres gouvernementaux des emprunteurs souverains et des banques centrales (à cote élevée) | (1 200) | (1 200) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie nets cumulatifs de la transaction | aucune donnée | (400) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 11 : Accord de pension à terme – Accord de pension à terme venant à échéance en semaine 2
+
+Dans cet exemple, nous retenons le cas d'un accord de pension dont le titre sous-jacent est un « titre gouvernemental d'État, de provinces et d'organismes (à cote élevée) ». Le produit de la transaction est déposé par l'institution déclarante auprès d'une autre IF (1 000 $). Puisque le titre doit être racheté à la 2e semaine, une sortie de trésorerie doit être créée.
+
+#### Instructions de déclaration
+
+1. Déclarer un montant de 1 000 $ sous la ligne « Dépôts à vue auprès d'autres IF » sous la colonne « Soldes ».
+2. Déclarer le montant nécessaire pour racheter le titre la 2e semaine (1 000 $) sous la ligne « Passifs – Accords de pension et titres prêtés – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) ».
+3. Déclarer la valeur du titre à la 2e semaine (1 000 $) sous la ligne « Sûretés – Sorties de sûretés sur cessions en pension – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) ».
+
+Exemple 11 : Accord de pension à terme - Instructions de déclaration
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Actifs – Dépôts à vue auprès des IF | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Passifs – Accords de pension et titres prêtés – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | (1 000) | aucune donnée | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Sûretés – Sorties de sûretés sur cessions en pension – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | (1 000) | aucune donnée | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+#### Flux de trésorerie calculés
+
+Exemple 11 : Accord de pension à terme – Flux de trésorerie calculés
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flux de trésorerie calculés : Actifs – Dépôts à vue auprès des IF | 1 000 | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Passifs – Accords de pension et titres prêtés – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | (1 000) | 0 | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Sûretés – Sorties de sûretés sur cessions en pension – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | (1 000) | (985) | 985 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie nets cumulatifs de la transaction | aucune donnée | 15 | (15) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 12 : Cession en pension à terme – Cession en pension à terme venant à échéance en semaine 2
+
+Dans cet exemple, nous retenons le cas d'un accord de pension à terme dont le titre sous-jacent est « titre gouvernemental d'État, de provinces et d'organismes (à cote élevée) ». Le titre doit être racheté par la contrepartie à la 2e semaine.
+
+#### Instructions de déclaration
+
+1. Déclarer un montant négatif de 1 000 $ sous la ligne « Dépôts à vue auprès d'autres IF » sous la colonne « Soldes ».
+2. Déclarer la valeur du titre à la 2e semaine (1 000 $) sous la ligne « Actifs – Cessions en pension et titres empruntés – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) ».
+3. Déclarer la valeur du titre à la 2e semaine (1 000 $) sous la ligne « Sûretés – Entrées de sûretés sur cessions en pension – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) ».
+
+Exemple 12 : Cession en pension à terme - Instructions de déclaration
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Actifs –[Note du tableau d'exemple 12 \*](#ex12fn1) Dépôts à vue auprès des IF | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Actifs – Cessions en pension et titres empruntés– Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | 1 000 | aucune donnée | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Sûretés – Entrées de sûretés sur cessions en pension – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | 1 000 | aucune donnée | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Notes du tableau d'exemple 12  Note du tableau d'exemple 12 \*  Bien que le gabarit ne permette pas l'entrée de montants négatifs, pour cet exemple, le montant négatif représente la variation des dépôts à vue par suite de la transaction, en ne considérant aucune autre source de financement.  [Retour à la référence de la note du tableau d'exemple 12 \*](#ex12fn1-rf) | | | | | | | | | | | | | | | | | |
+
+#### Flux de trésorerie calculés
+
+Exemple 12 : Cession en pension à terme - Flux de trésorerie calculés
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flux de trésorerie calculés : Actifs – Dépôts à vue auprès des IF | (1 000) | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Actifs – Cessions en pension et titres empruntés– Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | 1 000 | 0 | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Sûretés – Entrées de sûretés sur cessions en pension – Titres gouvernementaux d'État, de provinces et d'organismes (à cote élevée) | 1 000 | 985 | (985) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie nets cumulatifs de la transaction | aucune donnée | (15) | 15 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 13 : Dérivés de change
+
+Le solde des dérivés de change selon l'évaluation au prix du marché doit seulement être déclaré sous la colonne « Soldes » d'un onglet de devise. L'onglet de devise choisi pour déclarer le solde dépend du bilan dans lequel le dérivé de change a été comptabilisé à l'origine. Si le solde selon l'évaluation au prix du marché a déjà été déclaré dans un bilan dans une devise autre que le dollar des États-Unis (USD), le solde ne doit pas être déclaré à nouveau sous l'onglet USD. Pour la déclaration des flux de trésorerie liés aux dérivés de change, déclarer tous les flux de trésorerie, quelle que soit la devise, sous l'onglet USD uniquement.
+
+Par exemple, pour un swap de devise « FX » à terme en euros pour 1 000 CAD la 3e semaine, comptabilisé à l'origine dans le bilan canadien. En supposant qu'à la date de présentation du NCCF, la portion à verser en euros est de (1 200 $) en équivalent de dollars canadiens et que la portion à recevoir est de 1 000 $, la perte selon l'estimation au prix du marché est de 200 $.
+
+Bilan en CAD :
+
+* Actifs : 0
+* Passifs : 200 (PLID)
+* Gains et pertes : −200
+
+Déclarer les éléments suivants dans le bilan en CAD. Veuillez noter qu'aucun flux de trésorerie correspondant ne figure au bilan.
+
+Exemple 13 : Dérivés de change (CAD $)
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Passif – Passifs liés à des instruments dérivés (PLID) – Passifs de swaps de devises | (200) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+Déclarer les éléments suivants dans le bilan en USD
+
+Exemple 13 : Dérivés de change (USD $)
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Passif – Actifs liés à des instruments dérivés (ALID) – Actifs de swaps de devises | 0 | aucune donnée | aucune donnée | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Passif – Passifs liés à des instruments dérivés (PLID) – Passifs de swaps de devises | 0 | aucune donnée | aucune donnée | (1 200) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+Se reporter à la section des postes pour mémoire « Dérivés de change » pour inclure les détails relatifs aux devises
+
+Exemple 13 : Dérivés de change
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Actifs de swaps de devises – CAD | 0 | aucune donnée | aucune donnée | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Passifs de swaps de devises – CAD | (200) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Passifs de swaps de devises – EUR | 0 | aucune donnée | aucune donnée | (1 200) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+Flux de trésorerie calculés (dans le bilan en USD)
+
+Exemple 13 : Dérivés de change – Flux de trésorerie calculés (USD $)
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flux de trésorerie calculés : Passif – Actifs liés à des instruments dérivés (ALID) – Actifs de swaps de devises | 0 | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Passif – Passifs liés à des instruments dérivés (PLID) – Passifs de swaps de devises | 0 | (1 200) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie nets cumulatifs de la transaction | aucune donnée | (200) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 14 : Rajustement des ALID en fonction des contrats à terme admissibles
+
+Contrats à terme couverts de 3 mois du portefeuille One Delta
+
+Dans cet exemple, la stratégie examinée porte sur un contrat à terme couvert du portefeuille One Delta financé par un financement non garanti (billets structurés commerciaux/de gros) venant à échéance le 3e mois. Comme indiqué ci-dessus, la valeur des liquidités pour les flux de trésorerie correspond à 0; la valeur théorique intégrale de la position se réalise à l'échéance du contrat à terme sous forme d'un agencement de toute valeur nette calculée et des données sur les ALID.
+
+Les actions admissibles sont composées de 1 000 actions ordinaires d'entreprises non financières, de 1 000 actions ordinaires d'institutions financières et 1 000 autres actions.
+
+**Étape 1 :** Déclarer le solde des actions sous la colonne « Solde » sous les lignes correspondantes.
+
+Exemple 14 – Rajustement des ALID en fonction des contrats à terme admissibles – Étape 1
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Actions ordinaires d'entreprises non financières admissibles | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Actions ordinaires d'entreprises financières admissibles | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Autres actions | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+**Étape 2 :** Déclarer les financements non garantis sous les lignes correspondantes; déclarer le solde sous la colonne « Soldes » et à nouveau sous la tranche d'échéance correspondante.
+
+Exemple 14 – Rajustement des ALID en fonction des contrats à terme admissibles – Étape 2
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Billets structurés commerciaux/de gros | (3 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | (3 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+**Étape 3 :** Examiner les flux de trésorerie calculés à partir des actions déclarées et des financements non garantis des billets structurés, et du total correspondant (calculé comme la somme) de chaque tranche d'échéance.
+
+Exemple 14 – Rajustement des ALID en fonction des contrats à terme admissibles – Étape 3
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Flux de trésorerie calculés : Actions ordinaires d'entreprises non financières admissibles | 1 000 | aucune donnée | aucune donnée | aucune donnée | 500 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | 500 |
+| Calcul | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = 1 000 × 50 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Actions ordinaires d'entreprises financières admissibles | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | 125 | 250 | 125 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | 500 |
+| Calcul | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = 1 000 × 12,5 % | = 1 000 × 25 % | = 1 000 × 12,5 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Autres actions (aucune valeur attribuée) | 1 000 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | 1 000 |
+| Flux de trésorerie calculés : Billets structurés commerciaux/de gros | (3 000) | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | (3 000) | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée |
+| Calcul | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = −3 000 × 100 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Total de la transaction | -aucune donnée | aucune donnée | aucune donnée | aucune donnée | 50 | 125 | (2 750) | 125 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | 2 000 |
+| Calcul | = 1 000 + 1 000 + 1 000 − 3 000 | aucune donnée | aucune donnée | aucune donnée | = 50 + 0 + 0 + 0 | = 0 + 125 + 0 + 0 | = 0 + 250 + 0 − 3 000 | = 0 + 125 + 0 + 0 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+**Étape 4 :** Déclarer dans chaque tranche d'échéance de la ligne « Autres ALID » les montants négatifs correspondants de la ligne « Total de la transaction » (= -1 x montants).
+
+Exemple 14 – Rajustement des ALID en fonction des contrats à terme admissibles – Étape 4
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Autres ALID | -aucune donnée | aucune donnée | aucune donnée | aucune donnée | (50) | (125) | 2 750 | (125) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | (2 000) |
+
+### Exemple 15 : Éléments hors bilan – Facilités de crédit et de liquidité
+
+1. Facilités de crédit engagées au bénéfice d'entreprises non financières sans relation opérationnelle, 1 000 $ au premier retrait par le client disponible la 1re semaine et 1 000 $ disponibles la 4e semaine (en supposant que le client envoie la notification la 1re semaine, ce qui libère les fonds la 4e semaine).
+
+   Exemple 15.a – Éléments hors bilan – Facilités de crédit et de liquidité
+
+   |  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+   | Entrées : Facilités de crédit engagées au bénéfice d'entreprises non financières; dont les titres de qualité supérieure; aucune relation opérationnelle | (2 000) | (1 000) | aucune donnée | aucune donnée | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+   | Flux de trésorerie calculés : Facilités de crédit engagées au bénéfice d'entreprises non financières; dont les NIG; aucune relation opérationnelle | (2 000) | (150) | -aucune donnée | -aucune donnée | (150) | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | (835) |
+   | Calcul | aucune donnée | = −1 000 × 15 % | aucune donnée | aucune donnée | = −1 000 × 15 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+2. Dans l'exemple suivant, nous retenons le cas d'une facilité de liquidité engagée adossée au PCAA. L'encours actuel de la dette est de 1 000, dont 400 arrivent à échéance au cours des 4 premières semaines, 100 chaque semaine, et 600 au cours du deuxième mois. En outre, une capacité inutilisée de 1 000 est disponible, 100 étant disponibles avec un préavis de 25 jours et 900 avec un préavis de 35 jours.
+
+   Exemple 15.b – Éléments hors bilan – Facilités de crédit et de liquidité
+
+   |  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+   | Entrées : Facilités de liquidités engagées adossées aux PCAA – Solde arrivant à échéance | (1 000) | (100) | (100) | (100) | (100) | (600) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+   | Flux de trésorerie calculés : Facilités de liquidités engagées adossées aux PCAA – Solde arrivant à échéance | (1 000) | (100) | (100) | (100) | (100) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+   | Calcul | aucune donnée | = −100 × 100 % | = −100 × 100 % | = −100 × 100 % | = −100 × 100 % | = −600 × 0 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+   | Entrées : Facilités de liquidités engagées adossées aux PCAA non émis (déclarées en tenant compte des périodes de préavis) | (1 000) | aucune donnée | aucune donnée | aucune donnée | (100) | (900) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+   | Flux de trésorerie calculés : Facilités de liquidités engagées adossées aux PCAA non émis (déclarées en tenant compte des périodes de préavis) | (1 000) | -aucune donnée | -aucune donnée | -aucune donnée | (100) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+   | Calcul | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = −100 × 100 % | = −900 × 0 | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 16 : Dépôts de la clientèle de gros
+
+Dans cet exemple, nous examinons un dépôt effectué par une institution financière, d'un montant total de 1 100, dont 1 000 nécessitent un préavis de 35 jours et 100 sont disponibles sur demande.
+
+Exemple 16 – Dépôts de la clientèle de gros
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Dépôts à préavis de la clientèle de gros (toutes les autres contreparties, y compris les autres IF et les autres entités juridiques) | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | (1 000) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Dépôts à préavis de la clientèle de gros (toutes les autres contreparties, y compris les autres IF et les autres entités juridiques) | (1 000) | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | (1 000) | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée | -aucune donnée |
+| Calcul | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | = −1 000 × 100 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Entrées : Dépôt non opérationnel des sociétés commerciales et de la clientèle de gros, assuré (IF) | (100) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+| Flux de trésorerie calculés : Dépôt non opérationnel des sociétés commerciales et de la clientèle de gros, assuré (IF) | (100) | (25) | (25) | (25) | (25) | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | -aucune donnée |
+| Calcul | aucune donnée | = −100 × 25 % | = −100 × 25 % | = −100 × 25 % | = −100 × 25 % | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée | aucune donnée |
+
+### Exemple 17 : Prêts à des entreprises ou à des gouvernements
+
+Dans cet exemple, nous examinons les prêts à des entreprises ou à des gouvernements, à échéances fixes et ouvertes. Le solde des prêts à échéances fixes pour les échéances ouvertes est de 1 000 chacun. Les paiements et les soldes à l'échéance sont déclarés dans la tranche d'échéance correspondante lorsqu'ils arrivent à échéance.
+
+Exemple 17 – Prêts à des entreprises ou à des gouvernements
+
+|  | Soldes | Semaine 1 | Semaine 2 | Semaine 3 | Semaine 4 | Mois 2 | Mois 3 | Mois 4 | Mois 5 | Mois 6 | Mois 7 | Mois 8 | Mois 9 | Mois 10 | Mois 11 | Mois 12 | >365 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrées : Prêts à des entreprises ou à des gouvernements – Échéance fixe | 1 000 | 20 | 20 | 20 | 20 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 370 |
+| Flux de trésorerie calculés : Prêts à des entreprises ou à des gouvernements – Échéance fixe | 1 000 | 10 | 10 | 10 | 10 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 685 |
+| Calcul | aucune donnée | = 20 × 50 % | = 20 × 50 % | = 20 × 50 % | = 20 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | aucune donnée |
+| Entrées : Prêts à des entreprises ou à des gouvernements – Échéance ouverte (avec paiement minimum) | 1 000 | 10 | 10 | 10 | 10 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 410 |
+| Flux de trésorerie calculés : Prêts à des entreprises ou à des gouvernements – Échéance ouverte (avec paiement minimum) | 1 000 | 5 | 5 | 5 | 5 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 25 | 705 |
+| Calcul | aucune donnée | = 10 × 50 % | = 10 × 50 % | = 10 × 50 % | = 10 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | = 50 × 50 % | aucune donnée |
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   La méthode d'amortissement dégressif correspond à la méthode selon laquelle les taux de retraits sont applicables au solde restant à la période précédente.
+
+    [Retour à la référence de la note de bas de page 1](#fn1-rf)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2026-04-16

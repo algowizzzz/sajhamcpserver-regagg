@@ -1,0 +1,50 @@
+# Exemption des règles sur les opérations avec apparentés interdisant l’émission d’actions d’une institution financière en contrepartie d’actions d’une autre personne morale
+
+Information
+
+Type de document
+
+Instructions relatives aux opérations
+
+Catégorie
+
+Opérations avec présomption d'agrément
+
+Dernière révision
+
+Avril 2009
+
+Index PA No
+
+19
+
+## Fondement législatif
+
+* sous-alinéa 487(2)a)(vi) de la [Loi sur les banques](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/)
+* sous-alinéa 475(2)b)(vi) de la [Loi sur les sociétés de fiducie et de prêt](https://laws-lois.justice.gc.ca/fra/lois/t-19.8/)
+* sous-alinéa 519(2)b)(vi) de la [Loi sur les sociétés d’assurances](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/)
+* sous-alinéa 411(2)a)(iv) de la [Loi sur les associations coopératives de crédit](https://laws-lois.justice.gc.ca/fra/lois/c-41.01/ )
+
+## Exigences en matière d’information
+
+De façon générale, le requérant doit fournir :
+
+1. une justification de l’émission des actions de l’entité réglementée (ER);
+2. une description de l’opération, y compris le nombre et la valeur des actions de l’ER à émettre;
+3. le dernier rapport financier annuel et description de la personne morale dont les actions doivent être acquises;
+4. le nombre et valeur marchande des actions à acquérir (avec documentation à l’appui de la valeur marchande attribuée aux actions).
+
+## Directives administratives
+
+1. Toute demande présentée en vertu de l’une des autorisations législatives ci-dessus doit répondre aux critères suivants :
+
+   1. doit être accompagnée d’une demande d’approbation à l’intention du surintendant concernant l’émission d’actions par l’ER en contrepartie d’un apport autre qu’en numéraire;
+   2. lorsqu’il n’y a aucun créneau sur le marché public pour les actions à émettre, la demande doit comporter une justification à l’appui de la valeur et du nombre d’actions à émettre;
+   3. si le régime appliqué aux fonds propres s’applique aussi au capital émis, la demande doit être conforme aux lignes directrices et aux politiques du BSIF en matière de fonds propres.
+
+*Les exigences en matière d’information et les consignes administratives visent à satisfaire à tous les genres de demandes types. Elles reflètent la vaste expérience du BSIF en matière de traitement des demandes. Les requérants qui fournissent tous les renseignements et documents demandés peuvent généralement s’attendre à ce que leur requête soit étudiée plus rapidement. Compte tenu des circonstances, le BSIF peut demander un complément d’information, tenir compte d’autres éléments, imposer des modalités ou exiger des engagements.*
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-01-17

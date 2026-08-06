@@ -1,0 +1,10916 @@
+Methodology 
+For Assessing Implementation of the IOSCO Objectives and 
+Principles of Securities Regulation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS 
+ 
+ 
+ 
+  MAY 2017
+
+ii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copies of publications are available from: 
+The International Organization of Securities Commissions website www.iosco.org
+. 
+© International Organization of Securities Commissions 2017.  All rights reserved.  Brief 
+excerpts may be reproduced or translated provided the source is stated.
+
+iii 
+TABLE OF CONTENTS – BOOK I1  
+A. Principles Relating to the Regulator .............................................................. 5 
+B. Principles for Self-Regulation ........................................................................ 5 
+C. Principles for the Enforcement of Securities Regulation ............................... 5 
+D. Principles for Cooperation in Regulation....................................................... 5 
+E. Principles for Issuers ...................................................................................... 6 
+F. Principles for Auditors, Credit Rating Agencies, and Other Information Service 
+Providers ........................................................................................................ 6 
+G. Principles for Collective Investment Schemes............................................... 6 
+H. Principles for Market Intermediaries ............................................................. 6 
+I. Principles for Secondary and Other Markets ................................................. 7 
+J. Principles Relating to Clearing and Settlement ............................................. 7 
+I INTRODUCTION ...................................................................................... 8 
+A. Objectives of Securities Regulation ............................................................. 10 
+1. The Objectives .................................................................................... 10 
+2. Discussion of the Objectives .............................................................. 10 
+B. The Regulatory Environment ....................................................................... 12 
+C. Background of the Principles ....................................................................... 13 
+D. Purpose of Developing an Assessment Methodology.................................. 14 
+E. Scope of this Methodology and Intended Scope of Assessments ................ 15 
+F. The Assessment Process and Assessment Measures ................................... 15 
+II PRINCIPLE-BY-PRINCIPLE ANALYSIS ........................................... 20 
+A. Principles Relating to the Regulator ............................................................ 20 
+1. Preamble ............................................................................................. 20 
+2. Scope .................................................................................................. 21 
+3. Principles 1 through 8 ......................................................................... 22 
+B. Principle Relating to Self-Regulation .......................................................... 53 
+1. Preamble ............................................................................................. 53 
+2. Scope .................................................................................................. 53 
+  
+                                                 
+1  Book II is a compilation of Annexes relating to the conduct of assessments prepared for IOSCO members.  
+Book II is not publicly available on the IOSCO website.
+
+iv 
+ 
+3. Principle 9 ........................................................................................... 55 
+C. Principles Relating to Enforcement ............................................................. 63 
+1. Preamble ............................................................................................. 63 
+2. Scope .................................................................................................. 64 
+3. Principles 10 through 12 ..................................................................... 65 
+D. Principles Relating to Cooperation .............................................................. 80 
+1. Preamble ............................................................................................. 80 
+2. Scope .................................................................................................. 81 
+3. Principles 13 through 15 ..................................................................... 82 
+E. Principles Relating to Issuers ..................................................................... 100 
+1. Preamble ........................................................................................... 100 
+2. Scope ................................................................................................ 100 
+3. Principles 16 through 18 ................................................................... 104 
+F. Principles for Auditors, Credit Rating Agencies, and Other Information  
+Service Providers ....................................................................................... 127 
+1. Preamble ........................................................................................... 127 
+2. Scope ................................................................................................ 128 
+3. Principles 19 through 23 ................................................................... 129 
+G. Principles Relating to Collective Investment Schemes and Hedge Funds . 150 
+1. Preamble ........................................................................................... 150 
+2. Scope ................................................................................................ 151 
+3. Principles 24 through 28 ................................................................... 155 
+H. Principles Relating to Market Intermediaries ............................................ 191 
+1. Preamble ........................................................................................... 191 
+2. Scope ................................................................................................ 192 
+3. Principles 29 through 32 ................................................................... 194 
+I. Principles Relating to Secondary and Other Markets ................................ 221 
+1. Preamble ........................................................................................... 221 
+2. Scope ................................................................................................ 223 
+3. Principles 33 through 37 ................................................................... 224 
+J. Principle Relating to Clearing and Settlement ........................................... 266 
+Appendix 1 – The Legal Framework ................................................................... 269
+
+5 
+LIST OF PRINCIPLES 
+A. PRINCIPLES RELATING TO THE REGULATOR 
+1. The responsibilities of the Regulator should be clear and objectively stated. 
+2. The Regulator should be operationally independent and accountable in the exercise of 
+its functions and powers. 
+3. The Regulator should have adequate powers, proper resources and the capacity to 
+perform its functions and exercise its powers. 
+4. The Regulator should adopt clear and consistent regulatory processes. 
+5. The staff of the Regulator should observe the highest professional standards, including 
+appropriate standards of confidentiality. 
+6. The Regulator should have or contribute to a process to identify, monitor, mitigate and 
+manage systemic risk, appropriate to its mandate. 
+7. The Regulator should have or contribute to a process to review the perimeter of 
+regulation regularly. 
+8. The Regulator should seek to ensure that conflicts of interest and misalignment of 
+incentives are avoided, eliminated, disclosed or otherwise managed. 
+B. PRINCIPLES FOR SELF-REGULATION 
+9. Where the regulatory system makes use of Self-Regulatory Organizations (SROs) that 
+exercise some direct oversight responsibility for their respective areas of competence, 
+such SROs should be subject to the oversight of the Regulator and should observe 
+standards of fairness and confidentiality when exercising powers and delegated 
+responsibilities. 
+C. PRINCIPLES FOR THE ENFORCEMENT OF SECURITIES REGULATION 
+10. The Regulator should have comprehensive inspection, investigation and surveillance 
+powers. 
+11. The Regulator should have comprehensive enforcement powers. 
+12. The regulatory system should ensure an effective and credible use of inspection, 
+investigation, surveillance and enforcement powers and implementation of an effective 
+compliance program. 
+D. PRINCIPLES FOR COOPERATION IN REGULATION 
+13. The Regulator should have authority to share both public and non- public information 
+with domestic and foreign counterparts. 
+14. Regulators should establish information sharing mechanisms that set out when and how 
+they will share both public and non-public information with their domestic and foreign 
+counterparts.
+
+6 
+15. The regulatory system should allow for assistance to be provided to foreign Regulators 
+who need to make inquiries in the discharge of their functions and exercise of their 
+powers. 
+E. PRINCIPLES FOR ISSUERS 
+16. There should be full, accurate and timely disclosure of financial results, risk and other 
+information which is material to investors’ decisions.  
+17. Holders of securities in a company should be treated in a fair and equitable manner. 
+18. Accounting standards used by issuers to prepare financial statements should be of a 
+high and internationally acceptable quality. 
+F. PRINCIPLES FOR AUDITORS, CREDIT RATING AGENCIES, AND OTHER 
+INFORMATION SERVICE PROVIDERS 
+19. Auditors should be subject to adequate levels of oversight.  
+20. Auditors should be independent of the issuing entity that they audit.  
+21. Audit standards should be of a high and internationally acceptable quality. 
+22. Credit rating agencies should be subject to adequate levels of oversight.  The regulatory 
+system should ensure that credit rating agencies whose ratings are used f or regulatory 
+purposes are subject to registration and ongoing supervision.  
+23. Other entities that offer investors analytical or evaluative services should be subject to 
+oversight and regulation appropriate to the impact their activities have on the market or 
+the degree to which the regulatory system relies on them. 
+G. PRINCIPLES FOR COLLECTIVE INVESTMENT SCHEMES 
+24. The regulatory system should set standards for the eligibility, governance, organization 
+and operational conduct of those who wish to market or operate a collective investment 
+scheme. 
+25. The regulatory system should provide for rules governing the legal form and structure 
+of collective investment schemes and the segregation and protection of client assets. 
+26. Regulation should require disclosure, as set forth under the principles for issuers, which 
+is necessary to evaluate the suitability of a collective investment scheme for a particular 
+investor and the value of the investor’s interest in the scheme. 
+27. Regulation should ensure that there is a proper and disclos ed basis for asset valuation 
+and the pricing and the redemption of units in a collective investment scheme. 
+28. Regulation should ensure that hedge funds and/or hedge funds managers/advisers are 
+subject to appropriate oversight. 
+H. PRINCIPLES FOR MARKET INTERMEDIARIES 
+29. Regulation should provide for minimum entry standards for market intermediaries. 
+30. There should be initial and ongoing capital and other prudential requirements for 
+market intermediaries that reflect the risks that the intermediaries undertake.
+
+7 
+31. Market intermediaries should be required to establish an internal function that delivers 
+compliance with standards for internal organization and operational conduct, with the 
+aim of protecting the interests of clients and their assets and ensuring proper  
+management of risk, through which management of the intermediary accepts primary 
+responsibility for these matters. 
+32. There should be procedures for dealing with the failure of a market intermediary in 
+order to minimize damage and loss to investors and to contain systemic risk. 
+I. PRINCIPLES FOR SECONDARY AND OTHER MARKETS 
+33. The establishment of trading systems including securities exchanges should be subject 
+to regulatory authorization and oversight. 
+34. There should be ongoing regulatory supervision of exchanges and trading systems 
+which should aim to ensure that the integrity of trading is maintained through fair and 
+equitable rules that strike an appropriate balance between the demands of different 
+market participants. 
+35. Regulation should promote transparency of trading. 
+36. Regulation should be designed to detect and deter manipulation and other unfair trading 
+practices. 
+37. Regulation should aim to ensure the proper management of large exposures, default 
+risk and market disruption. 
+J. PRINCIPLES RELATING TO CLEARING AND SETTLEMENT 
+38. Securities settlement systems, central securities depositories, trade repositories and 
+central counterparties should be subject to regulatory and supervisory requirements that 
+are designed to ensure that they are fair, effective and efficient and that  they reduce 
+systemic risk.
+
+INTRODUCTION  
+8 
+INTERPRETATIVE TEXTS AND METHODOLOGY FOR ASSESSING 
+IMPLEMENTATION OF THE IOSCO OBJECTIVES AND PRINCIPLES OF 
+SECURITIES REGULATION 
+I INTRODUCTION 
+The International Organization of Securities Commissions (IOSCO) is the leading international 
+grouping of securities2 market regulators.  Its current membership comprises regulatory bodies 
+from over 100 jurisdictions that have day-to-day responsibility for securities regulation and the 
+administration of securities law s.  The IOSCO membership represents a broad spectrum of 
+markets of various levels of complexity and development, of different sizes, operating in 
+different cultural and legal environments. 
+This Methodology for Assessing Implementation of the IOSCO Objectiv es and Principles of 
+Securities Regulation (“Methodology”) is designed  to provide IOSCO’s interpretation of 
+IOSCO’s Objectives and Principles of Securities Regulation (“Principles ”)3 and to give 
+guidance on the conduct of a self-assessment or third party assessment of the level of Principles 
+implementation.  
+Securities and derivatives markets are vital to the growth, development and strength of market 
+economies.  They support corporate initiatives, finance the exploration  of new ideas and 
+facilitate the management of financial risk.  Further, since retail investors are placing an 
+increasing proportion of their money in mutual funds and other collective investments, 
+securities markets have become central to individual wealth and retirement planning. 
+Sound and effective regulation and, in turn, the confidence it brings is important for the 
+integrity, growth and development of securities markets.
+4 
+The Preamble to IOSCO’s By-Laws states that securities authorities resolve: 
+• to cooperate in developing, implementing and promoting adherence to internationally 
+recognized and consistent standards of regulation, oversight and enforcement in order 
+to protect investors, maintain fair, efficient and transparent markets, and seek to address 
+systemic risks;  
+• to enhance investor protection and promote investor confidence in the integrity of 
+securities markets, through strengthened information exchange and cooperation in 
+enforcement against misconduct and in supervision of markets and market 
+intermediaries; and  
+• to exchange information at both global and regional levels on their respective 
+experiences in order to assist the development of markets, strengthen market 
+infrastructure and implement appropriate regulation.  
+                                                 
+2  For convenience, in this Methodology, the words “securities markets” are used, where the context permits, 
+to refer compendiously to the various market sectors.  In particular, where the context permits they should 
+be understood to include reference to the derivatives markets.  The same applies to the use of the words 
+“securities regulation.” (See IOSCO By-Laws, Explanatory Memorandum.)  
+3  Objectives and Principles of Securities Regulation, Presidents’ Committee of IOSCO, May 2017, available 
+at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD561.pdf.   
+4  Measures to Disseminate Stock Property, Report of the Emerging Markets Committee of IOSCO, May 
+1999, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD95.pdf
+.
+
+INTRODUCTION  
+9 
+The IOSCO By-Laws also express the intent that securities regulators, at both the domestic and 
+international levels, should be guided by a constant concern for investor protection. 
+IOSCO recognizes that sound domestic markets are necessary to the strength of a developed 
+domestic economy and that dome stic securities trading is increasingly being integrated into a 
+global market. 
+Increasingly globalized and integrated financial markets pose significant challenges to the 
+regulation of securities markets.  At the same time, markets, particularly some emerg ing 
+markets which have seen much growth in recent years, have been prone to effects of 
+cross-border and cross -asset interactions, and some are also susceptible to higher short -term 
+volatilities after economic shocks or during periods of great uncertainty.  Therefore, in a global 
+and integrated environment regulators must be in a position to assess the nature of cross-border 
+conduct if they are to ensure the existence of fair, efficient and transparent markets. 
+An increasingly global marketplace also brings with it the increasing interdependence of 
+regulators.  There must be strong links between regulators and a capacity to give effect to those 
+links.  Regulators must also have confidence in one another.  Development of these linkages 
+and this confidence will be assisted by the development of a common set of guiding principles 
+and shared regulatory objectives.  Consistently high regulatory standards and effective 
+international cooperation will not only protect investors but also reduce systemic risk. 
+Regulators should be prepared to address the significant challenges posed by the increasing 
+importance of technology and particularly developments in the area of electronic commerce. 
+The international regulatory community should provide advice, and a yardstick agai nst which 
+progress towards effective regulation can be measured.  As the leading international grouping 
+of securities regulators, IOSCO accepts responsibility for helping to establish the high 
+standards for regulation.  This revised Methodology evidences I OSCO’s continued 
+commitment to the establishment and maintenance of consistently high regulatory standards 
+for the securities industry.   
+All of the topics addressed in this Methodology are already the subject of IOSCO  reports or 
+Resolutions.
+5  The reports published by IOSCO and the Resolutions adopted by its membership 
+are also a valuable source of information on the P rinciples that underlie effective securities 
+regulation and the tools and techniques necessary to give effect to those P rinciples.  This 
+Methodology draws upon those reports as a primary source as IOSCO’s reports generally 
+provide a more detailed treatment of the particular topic.  Reference is made to IOSCO reports 
+and Resolutions in this Methodology and these should be consulted when conside ring 
+particular topics.   
+  
+                                                 
+5 A full list of IOSCO Public Documents and Resolutions is published on IOSCO’s website: www.iosco.org.
+
+INTRODUCTION  
+10 
+A. OBJECTIVES OF SECURITIES REGULATION 
+1. The Objectives  
+The three IOSCO core objectives of securities regulation are: 
+• The protection of investors;6 
+• Ensuring that markets are fair, efficient and transparent; and 
+• The reduction of systemic risk. 
+2. Discussion of the Objectives 
+The three objectives are closely related and, in some respects, overlap.  Many of the 
+requirements that help to ensure fair, efficient and transparent markets also provide investor 
+protection and help to reduce s ystemic risk.  Similarly, many of the measures that reduce 
+systemic risk provide protection for investors. 
+Securities regulators seek to achieve these objectives through setting standards, supervising 
+markets, market participants and their activities, effective enforcement of those standards and 
+close cooperation with other regulators. 
+The objectives of securities regulation are further described below.  This Methodology explores 
+in greater detail, in the context of actual market structures and arrangements , the means to 
+satisfy the objectives articulated in the 38 Principles. 
+The Protection of Investors 
+Investors should be protected from misleading, manipulative or fraudulent practices, including 
+insider trading, front running or trading ahead of customers , and the misuse of client assets.  
+Investors in the securities markets are particularly vulnerable to misconduct by intermediaries 
+and others, but the capacity of individual investors to take action may be limited.  Investors 
+should have access to a neutra l mechanism (such as courts or other mechanisms of dispute 
+resolution) or means of redress and compensation for improper behaviour. 
+Further, the complex character of securities transactions and of fraudulent schemes requires 
+strong enforcement of securities laws.  Where a breach of law does occur, investors should be 
+protected through the strong enforcement of the law. 
+Full disclosure of information material to investors’ decisions is the most important means for 
+ensuring investor protection.  Investors are, thereby, better able to assess the potential risks and 
+rewards of their investments and, thus, to protect their own interests.  As key components of 
+disclosure requirements, accounting and auditing standards should be in place and they should 
+be of a high and internationally acceptable quality. 
+Only duly licensed or authorized persons should be permitted to hold themselves out to the 
+public as providing investment services, for example, as market intermediaries or the operators 
+of exchanges.  Initial and ongoing capital requirements imposed upon those license holders and 
+authorized persons should be designed to achieve an environment in which a securities firm 
+can meet the current demands of its counterparties and, if necessary, wind down its business 
+without loss to its customers. 
+                                                 
+6  For purposes of this Methodology, in the case of derivatives markets, the term “investor” includes the term 
+“customer”.
+
+INTRODUCTION  
+11 
+Regulation of market intermediaries should assist investor protection by setting minimum 
+standards for market participants.  Investors should be treated in a just and equitable manner 
+by market intermediaries according to standar ds which should be set out in rules of business 
+conduct.  Supervision by regulators should include a comprehensive system of inspection, 
+surveillance and ongoing compliance programs , including regular interaction between 
+regulator and market intermediaries. 
+Effective supervision and enforcement depend upon close cooperation between regulators at 
+the domestic and international levels. 
+Ensuring that Markets are Fair, Efficient and Transparent 
+The fairness of markets is closely linked to investor protection an d, in particular, to the 
+prevention of improper trading practices.  Market st ructures should not unduly favor some 
+market users over others.  The regulator’s approval of exchange and trading system operators 
+and of trading rules helps to ensure fair markets.   
+Regulation should detect, deter and penalize market manipulation and other unfair trading 
+practices.  Regulation should aim to ensure that investors are given fair access to market 
+facilities and market or price information.  Regulation should also pr omote market practices 
+that ensure fair treatment of orders and a price formation process that is reliable. 
+In an efficient market, the dissemination of relevant information is timely and widespread and 
+is reflected in the price formation process.  Regulation should promote market efficiency. 
+Transparency may be defined as the degree to which information about trading (both for 
+pre-trade and post-trade information) is made publicly available on a real-time basis.  Pre-trade 
+information concerns the posting of firm bids and offers as a means to enable investors to know, 
+with some degree of certainty, whether and at what prices they can deal.  Post-trade information 
+is related to the prices and the volume of all individual transactions actually concluded.  
+Regulation should ensure the highest levels of transparency. 
+The Reduction of Systemic Risk 
+The reduction of systemic risk is closely linked to investor protection ; however, risk taking is 
+essential to an active market and regulation should not unnecessarily stifle legitimate risk 
+taking.  Rather, regulators should promote and allow for the effective management of risk and 
+ensure that capital and other prudential requirements are sufficient to address appropriate risk 
+taking, allow the absorption of some losses and check excessive risk taking.  An efficient and 
+accurate clearing and settlement process that is properly supervised and utilizes effective risk 
+management tools is essential. 
+There must be effective and legally secure arrangements for default handling.  This is a matter 
+that extends beyond securities law to the insolvency provisions of a jurisdiction. 
+Instability may result from events in another jurisdiction or occur across several jurisdictions, 
+so regulators’ responses to market disruptions should seek to facilitate stability domestically 
+and globally through cooperation and information sharing.
+
+INTRODUCTION  
+12 
+Although regulators cannot be expected to prevent the financial failure of market 
+intermediaries, regulation should aim to reduce the risk of failure (including through capital 
+and internal control requirements).  Where financial failure nonetheless does occur, regulation 
+should seek to reduce the impact of that failure and, in particular, attempt to isolate the risk to 
+the failing institution.
+7  Market intermediaries should , therefore, be subject to adequate and 
+ongoing capital and other prudential requirements.  If necessary, an intermediary should be 
+able to wind down its business without loss to its customers and counterparties or systemic 
+damage. 
+ 
+B. THE REGULATORY ENVIRONMENT 
+Regulation of securities and derivatives markets is necessary for the achievement of the three 
+IOSCO core objectives.  Nevertheless, i nappropriate regulation can impose an unjustified 
+burden on markets and inhibit market growth and development. 
+Implicit throughout this Methodology is the belief that regulation should facilitate capital 
+formation and economic growth.  In the context of regulation, there should also be recognition 
+of the benefits of competition in the marketplace. 
+It is possible to identify general attributes of effective regulation that are consistent with sound 
+economic growth: 
+• there should be no unnecessary barriers to entry and exit from markets and products; 
+• markets should be open to the widest range of participants who meet the specified entry 
+criteria; 
+• in the development of policy, regulatory bodies should consider the impact of the 
+requirements imposed; 
+• there should be an equal regulatory burden on all who make a particular financial 
+commitment or promise. 
+More generally, there must be an appropriate and effective legal and accounting framework 
+within which the securities and derivatives markets can operate.  Securities laws and regulation 
+cannot exist in isolation from other laws ; there must be an appropriate and effective legal, 
+accounting and auditing requirements in a jurisdiction.  This may include framework 
+documents, such as a constitution or charter, as appropriate. 
+Matters that IOSCO considers are of particular importance in the legal framework of a 
+jurisdiction are set out in Appendix 1.  This Appendix is not intended to be an exhaustive list 
+of matters to be addressed in domestic legislation but rather to ide ntify some matters that 
+particularly impact upon the securities markets.
+8 
+                                                 
+7  See Hedge Funds and Other Highly Leveraged Institutions, Report of the Technical Committee of IOSCO, 
+November 1999, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD98.pdf. 
+8 In addition, sound corporate governance practices are an important additional protection of the interests of 
+shareholders.  Corporate governance may be addressed through statute or exchange listing rules or code of 
+practice, the details of which are outside the scope of this Methodology (see also Annexure 1).  See also 
+the OECD Principles of Corporate Governance, Report of the Organization for Economic Cooperation and 
+Development, 2004, available at 
+http://www.oecd.org/corporate/ca/corporategovernanceprinciples/31557724.pdf.
+
+INTRODUCTION  
+13 
+The accounting and auditing framework may also be considered an aspect of the legal 
+framework; however, they (particularly the preparation of financial statements and auditor 
+independence) are the subject of specific Principles and are discussed in Principles 18 and 21 
+respectively of this Methodology. 
+ 
+C. BACKGROUND OF THE PRINCIPLES 
+The Principles set out a broad general framework for the regulation of securities including the 
+regulation of: (i) securities and derivatives markets; (ii) the intermediaries that operate in those 
+markets; (iii) the issuers of securities; (iv) the entities offering investors analytical or evaluative 
+services such as credit rating agencies; and (v) the sale of interests in, and the management and 
+operation of, collective investment schemes.  
+The Principles were first adopted by the IOSCO Presidents’ Committee at the IOSCO Annual 
+Conference of September 1998.
+9  The Principles were adopted as “a valuable source of 
+information on principles that underlie effective securities regulation and on the tools and 
+techniques necessary to give effect to those principles… ”  The Presidents’ Committee further 
+found that: “just, efficient and sound domestic markets are critical components of many 
+national economies and that domestic securities markets are increasingly being integrated into 
+a global market, the Objectives and Principles encourage countries to improve the quality of 
+their securities regulatory systems; and the Objectives and Principles represent international 
+consensus on sound prudential principles and practices for the regulation of securities markets.”  
+These statements remain true of today’s markets. 
+In 2003, the Principles were revised and a detailed Methodology for assessing implementation 
+of the Principles was adopted.  In 2010, the IOSCO Presidents ’ Committee adopted a revised 
+set of 38 Principles, drawing on developments in securities regulation and the lessons from the 
+global financial crisis which emerged in 2007. In September 2011, the Methodology was 
+revised to support the 38 Principles.  In 2017, the Principles were updated to ensure consistency 
+with revisions made to the Methodology to incorporate IOSCO standards issued since 2010. 
+IOSCO Resolutions, which provide content to the more broadly- stated IOSCO Principles and 
+cited IOSCO reports, are a valuable source of information that should be consulted to 
+understand the Principles and the tools and techniques to be used to achieve their 
+implementation.
+10   
+                                                 
+9  At the same meeting, IOSCO indicated that it welcomed the efforts of other groups to strengthen financial 
+markets and to improve the level of investor protection, in particular, work of the G-22 economies related 
+to enhancing transparency and disclosure of information, and strengthening financial systems in national 
+economies and globally.  See also Resolution of the Presidents’ Committee on IOSCO Adoption of the 
+Objectives and Principles of Securities Regulation, September 1998, available at 
+http://www.iosco.org/library/resolutions/pdf/IOSCORES16.pdf. 
+10   A full numerical list of IOSCO Resolutions and public reports is set out on IOSCO’s 
+website:https://www.iosco.org/about/?subsection=resolutions and 
+http://www.iosco.org/publications/?subsection=public_reports (respectively), catalogued by reference to 
+the month and year of their issuance.
+
+INTRODUCTION  
+14 
+The IOSCO Principles are one of the key standards and codes (including those on clearing and 
+settlement) highlighted by the Financial Stability Board (FSB) as being key to sound financial 
+systems and deserving priority implementation. 11  Further articulation of how to apply the 
+Principles pursuant to this Methodology helps to effectuate the general objectives of IOSCO 
+as expressed in its By-Laws, in particular that securities authorities should cooperate to ensure 
+better regulation of th e markets on the domestic and international level by establishing 
+standards, among other things. 
+Shortly after initial publication, the Principles formed the basis of an IOSCO -directed, 
+comprehensive self-assessment exercise
+12 and continue to be used by the World Bank and the 
+International Monetary Fund (IMF) (referred to together as IFIs, or International Financial 
+Institutions) in the Financial Sector Assessment Program. 13  Further information on the 
+assessment process is provided in Section F.  
+ 
+D. PURPOSE OF DEVELOPING AN ASSESSMENT METHODOLOGY  
+The IOSCO Principles were drafted at a broad conceptual level to accommodate the differences 
+in the laws, regulatory framework and market structures among its m ember jurisdictions.  In 
+drafting the Principles, IOSCO c oncluded that it should avoid being overly prescriptive in its 
+requirements while, at the same time, providing sufficient guidance as to the core elements of 
+an essential regulatory framework for securities activities.   
+The IOSCO Executive, Technical and Emerging Markets Committees, endorsed the 
+development of benchmarks for assessing the Principles at the IOSCO Annual Conference in 
+Istanbul in May 2002.  Those Committees agreed that the criteria establishing the benchmarks 
+should be as objective as reason ably possible and should permit the assessor to assign an 
+assessment rating to a jurisdiction.  This approach has been maintained and has been applied 
+to the new Principles.  Additionally , the detail of the existing Principles was considered and 
+updated as necessary as part of the 2010 revision. 
+                                                 
+11  See the FSB’s website: http://www.financialstabilityboard.org/cos/index.htm.  The FSB has been 
+established as a successor to the Financial Stability Forum (FSF) to coordinate at the international level the 
+work of national financial authorities and international standard setting bodies and to develop and promote 
+the implementation of effective regulatory, supervisory and other financial sector policies in the interest of 
+financial stability.  It brings together national authorities responsible for financial stability in 24 countries 
+and jurisdictions, international financial institutions, sector-specific international groupings of regulators 
+and supervisors, and committees of central bank experts.  IOSCO has contributed actively to the work of 
+the FSB, previously to the FSF, which has urged commitment by national authorities to the implementation 
+of the 12 key standards and codes. 
+12  This exercise involved the development and completion by IOSCO Members of six surveys, as follows:  a 
+high level survey as to the regulator’s opinion of the level of implementation of each Principle in its 
+jurisdiction and five more detailed surveys intended to draw information that would facilitate 
+documentation that the Principles in fact have been implemented, these related to the regulator (including 
+enforcement and cooperation), issuers, collective investment schemes, market intermediaries, and 
+secondary and other markets.  A checking exercise also was conducted through IOSCO’s regional 
+committees led by regional coordinators.  This exercise provided feedback on the extent to which the 
+responses of individual jurisdictions to these surveys were clear, complete and consistent.  This process led 
+to the publication of the initial Methodology in October 2003. 
+13  The joint World Bank/IMF Financial Sector Assessment Program (FSAP), initiated in April 1999, seeks to 
+diagnose potential vulnerabilities and analyze development priorities in the financial sectors of member 
+countries of the IFIs and other jurisdictions.
+
+INTRODUCTION  
+15 
+This Methodology draws together the key aspects relevant to the implementation of the 
+Principles.  It explains how the Principles can be implemented in practice and provides 
+benchmarks by which the level of implementation can be assessed.  It draws from, but does not 
+expand on, relevant IOSCO Resolutions and reports, which are the core documents that IOSCO 
+members seeking more information should use.  
+ 
+E. SCOPE OF THIS METHODOLOGY AND INTENDED S COPE OF 
+ASSESSMENTS  
+This Methodology is intended to apply to the securities markets, intermediaries, information 
+service providers (such as credit rating agencies) and products addressed by the Principles and 
+to take account of the actual configuration of the markets, the sta ge of their development, and 
+participation therein.  
+The words “securities markets” are used, as the context permits, to refer compendiously to the 
+various market sectors, including markets for derivatives that are securities.
+14 The same 
+interpretative convention applies to the use of the words “securities regulation.” 15  The 
+Principles are not, however, specifically tailored to address all issues that are particular to 
+derivatives markets.  Accordingly, in determining whether the context permits the application 
+of a Principle to derivatives, assessors should take into account the functional differences 
+between, and the relevant jurisdiction’s statutory treatment of, securities and derivatives.  
+The Methodology does not apply to ma rkets such as the currency, bullion, or physical 
+commodity markets except to the extent that securities intermediaries deal for customers in 
+such markets.  The Methodology also contains information on the legal framework relevant to 
+meeting the objectives addressed by the Principles.
+16 
+ 
+F. THE ASSESSMENT PROCESS AND ASSESSMENT MEASURES 
+Implementation Intended to Be a Dynamic and Constructive Process for Regulatory 
+Improvement  
+The assessment is not an end in itself.  Rather, assessment should be viewed primarily as a tool 
+for identifying potential gaps, inconsistencies, weaknesses and areas where further powers or 
+authorities may be necessary, and as a basis for framing priorities for enhancements or reforms 
+to existing law s, rules and procedures.  This Methodol ogy specifically contemplates that the 
+assessment process will involve a dialogue in which the regulator will explain the details of its 
+market structure, laws, and regulatory program and how, in view thereof, the regulator believes 
+its regulatory program addresses the Key Questions and Key Issues so as to meet the objectives 
+of the Principles.   
+In this regard, IOSCO has made clear that the Principles are not intended to be a pure checklist 
+and that the r egulator and the assessors will need to exercise judgment when using the 
+Methodology as a tool, in particular when Key Questions relating to the sufficiency of a 
+program, of resources, or to the degree of achievement of a certain Principle are being assessed.  
+                                                 
+14  For an explanation of the scope of “secondary markets”, see the Preamble to the Principles Relating to 
+Secondary and Other Markets. 
+15  See footnote 2.   
+16   See Appendix 1.
+
+INTRODUCTION  
+16 
+Adequacy of Implementation Depends on the Level  of Development and Complexity of the 
+Market 
+There is often no single correct approach to a regulatory issue.  Legislation and regulatory 
+structures vary between jurisdictions and reflect local market conditions and historical 
+development.  The particular manner in which a jurisdiction implements the  objectives and 
+Principles described in this Methodology must have regard to the entire domestic context, 
+including the relevant legal and commercial framework.  The assessor needs to be aware of the 
+basic legal structure of a jurisdiction, including its civil, commercial and criminal law. 
+Consistently, this Methodology should not be interpreted as limiting the specific techniques or 
+actions that may be taken to achieve sound securities regulation, provided that the objectives 
+of the Principles are met.  Accordingly, in order to apply this Methodology in a manner that 
+appropriately reflects the nature of the market situation in the jurisdiction being assessed, it 
+will be necessary to provide, or to obtain, a complete and clear description of a jurisdiction’s  
+capital markets as part of any assessment.  Markets with a single or a few issuers, that are 
+totally domestic in nature, or that are predominantly institutional, will pose different questions 
+and issues as to the sufficiency of application of the Principl es, and as to the potential 
+vulnerabilities likely to arise from their non -application, than jurisdictions where there are 
+substantial numbers of retail participants, intermediaries frequently are part of complex groups, 
+issuers are established in other ju risdictions, or the markets have other international or cross -
+border components.  
+Thus, a jurisdiction could satisfy an assessor that its approach, while not explicitly described 
+in the Methodology, nonetheless meets the objectives of a particular Principl e.  Similarly, a 
+jurisdiction could document that the application of a particular approach was not applicable to 
+the particular trading system but that the objectives of market integrity, for example, were 
+achieved through other means.  In general, this opportunity to explain is often contained in the 
+Key Questions themselves or in the Explanatory Notes or Scope.  Accordingly, in all 
+circumstances assessors must explain the reasons for reaching their conclusions as to whether 
+a Key Question is satisfied, why they reach a “Yes” despite the presence of some deficiencies, 
+why they reach a “Yes” answer based on an alternative means of achieving the objectives set 
+out in the Key Issues and related Key Questions, or why they believe a particular Key Question 
+is not applicable or material in a particular jurisdiction’s circumstances. 
+The regulator should frequently review the particular way in which securities regulation is 
+carried out as markets themselves are in a constant state of development; therefore, the content 
+of a jurisdiction’s regulation must also change if it is to continue to facilitate and properly 
+regulate evolving markets.   
+How to Use the Methodology 
+This Methodology addresses each Principle in detail.  It provides interpretative text to the 
+Principles; sets out the Key Issues addressed by each Principle; establishes the Key Questions 
+relevant to the assessment of how the jurisdiction is addressing the Key Issues; where necessary 
+it provides Explanatory Notes; and also Benchmarks for evaluating the l evel of 
+implementation.  
+This Methodology envisions that the assessor will establish bases for testing whether the 
+objective of the Principle is sufficiently met from two perspectives:  
+(i) From a legal (or design) perspective, by identifying the powers and authorities 
+conferred on the regulator, the relevant provisions of applicable laws, rules and 
+regulations, and the programs or procedures intended to implement these that form the 
+framework of securities regulation in the jurisdiction.
+
+INTRODUCTION  
+17 
+(ii) From the perspective of the exercise of those powers and authorities in practice, by 
+documenting or otherwise measuring (through statistics, interviews with regulators, 
+regulated firms, and market participants, and other methods) how the powers and 
+responsibilities contained in the laws, rules and regulations are being exercised and 
+whether enforcement of the relevant framework is effective.  It is understood that, with 
+respect to judging the effectiveness of the framework from a legal perspective, 
+understanding of the basic legal structure of the jurisdiction is important, and from an 
+empirical perspective, the fact-finding processes need to be carefully designed. 
+Where firms, products, or transactions are exempted from regulatory requirements or where 
+the regulator has discr etion to grant such exemptions, the reason the exemption is conferred 
+and the process by which it is conferred should be transparent, give similar results for similarly 
+situated persons or sets of circumstances, and be explainable in the context of the Principles.  
+The ability to test implementation will understandably be limited by the scope of the inquiry, 
+the assessor’s need to rely in certain respects on statistical and anecdotal information, and the 
+fact that implementation will be as of a point in time and not continuing or periodic.  Generally, 
+an assessment of the level of implementation of the Principles assesses only the quality of 
+securities regulation in a jurisdiction.  There may be other factors (such as the economic and 
+political climate) that affect consistent delivery of a fair and equitable regulatory system.  Any 
+assessment of implementation cannot be expected to provide assurance against a political or 
+economic failure or the possibility that a sound regulatory framework can be circumvented. 
+Certain Principles should be assessed in conjunction with one another.  The Methodology and, 
+more specifically, the benchmarking have been consciously drafted to recognize, evaluate and 
+record gaps and flaws that recur across a number of Principles. In practice, this means that in a 
+number of cases a fundamental deficiency could impact the assessment of several Principles, 
+with the result that a regulator may find its assessment rating has been “downgraded” across a 
+number of these Principles.  
+This could be particularly the case in the evaluation that assessors make of the effectiveness of 
+supervision. For example, deficiencies in the supervisory program of a regulator could initially 
+impact the grade of Principle 12 but could also affect the grade of one or more other Principles 
+if such deficiencies have had a direct impact on the supervisory program of one or more types 
+of participants (e.g., if they have impacted issuer supervision, CIS supervision, intermediaries’ 
+supervision, etc.). Conversely, assessors should determine what, if any impact that deficiencies 
+identified in the supervisory program of one or more types of participant s (e.g., issuers, CIS, 
+intermediaries, etc.) may have on their evaluation of the overall effectiveness of the supervisory 
+program of a regulator and, depending on such evaluation, the grade of Principle 12 might also 
+be affected. Another example is lack of resources which could initially impact the grade of 
+Principle 3 but could also impact the grades of one or more other Principles, depending on the 
+effect that resource challenges could have on the supervisory program of one or more types of 
+participants or even on the effectiveness of the overall supervisory program. 
+However, care should be taken in regard to the application of this “cascading” effect .   For 
+example, an inability to cooperate in the context of Principle 6 (a specific standard designed to 
+identify, monitor, mitigate and manage systemic risk) is not intended to adversely affect the 
+broader requirements in Principles 13 to 15. The intention of the Methodology is that any undue 
+severity is avoided.
+
+INTRODUCTION  
+18 
+Assessors using this Methodology should refer to the assessed jurisdiction’s responses to the 
+Key Questions as a first step in the conduct of an assessment. 
+In assigning an assessment rating, the  assessor should be aware that the Principles relating to 
+the Regulator, and for Enforcement and for Cooperation17 should be considered to be applicable 
+to all jurisdictions, whether or not they have a market.  In contrast, the other Principles that 
+relate to regulatory functions may not apply to some jurisdictions.   
+For example, if a jurisdiction does not operate or  permit direct access to a secondary or other 
+market, the Principles for Secondary and Other markets may not apply.  However, even in a 
+jurisdiction without its own secondary  or own other market, there should be laws that permit 
+the jurisdiction to combat insider trading or other market misconduct originating from its 
+jurisdiction into other jurisdictions.  
+Assessment Measures 
+The Methodology sets out clear guidance on the Key Questions that must be answered in the 
+affirmative for a jurisdiction to score a Fully, Broadly or Partly Implemented rating (see below 
+for an explanation on these assessment measures).  It is understood that, where a Key Question 
+is applicable, either “Yes” or “No” answers to Key Questions used for testing implementation 
+should be augmented by explanations that explain the status of implementation in the context 
+of a particular jurisdiction and that answers might be qualified to explain any departure from a 
+full “Yes” or full “No” response.   
+Nonetheless, assessors should consider the materiality of any weaknesses and the applicability 
+to the jurisdiction of the Key Questions when making an assessment of compliance with 
+individual Key Questions.  Where a Key Question refers to the existence of specific powers or 
+authorities, the judgment as to implementation will generally be precisely specified, limited 
+only by applicability.  However, where a Key Question addresses the sufficiency of resources, 
+or the sufficiency of application of a system of enforcement, or effective achievement of 
+specific regulatory functions, the jurisdiction and the assessor may need to make a judgment 
+as to the sufficiency of the program or related resources or degree of achievement.   
+Although this  Methodology contemplates that judgment must be applied in assigning 
+assessment categories in these circumstances along the spectrum between  Partly and Fully 
+Implemented, the reasons for such judgments should be expressed by reference to the Key 
+Questions, the assessment criteria in the B enchmarks and the related objectives of regulation 
+expressed in the Key Issues, and should be documented. 
+It is also expected that the status of implementation will be tested as at a specific point in time, 
+that is, the tim e of the assessment.  Where changes are planned, the manner in which those 
+changes further implement the Principles, the timetable for their implementation and the 
+reasonableness of the timetable should be reflected in the comments, but should not alter the 
+assignment of an assessment rating. 
+                                                 
+17  The Principles for Enforcement and for Cooperation reflect the provisions of the IOSCO Multilateral 
+Memorandum of Understanding  concerning Consultation and Cooperation and the Exchange of 
+Information, Report of IOSCO, May 2002 (version revised May 2012), available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD386.pdf (“IOSCO MMoU”) which has become a 
+benchmark among securities regulators at the international level.
+
+INTRODUCTION  
+19 
+Where new legislation, programs or procedures have been adopted recently and are untested in 
+their application, the jurisdiction may receive a Fully Implemented status only as to having in 
+place the necessary powers, and/or the design of necessary programs, to effectuate the affected 
+Principle and not as to full implementation of the powers or the program designed to use those 
+powers.
+18  Additionally, failure actually to use the powers, or to apply the program, however 
+well designed, may also implicate an assessment of the existence of the powers.  
+After having assessed the responses to all the Key Questions of a Principle, the assessors 
+determine the assessment rating according to the Principles’ benchmarking.  Once this has been 
+established, assessors should see whether this rating is in line with their general appreciation 
+of the regulatory system in relation to the given Principle.  If this is not the case, based on clear 
+explanation, the assessors may decide to decrea se or increase the assessment rating by one 
+category.   
+Wherever a regulatory framework is assessed to be Broadly , Partly, or Not Implemented with 
+respect to a particular Principle, recommendations should be proposed for achieving full 
+implementation.  Where a jurisdiction has adopted but not yet implemented new legislation or 
+procedures, the assessor may refer to these in its recommendations. 
+Assessment Categories 
+Fully Implemented :  A Principle will be considered to be Fully Implemented whenever all 
+assessment criteria (as specified in the Benchmark) are generally met without any significant 
+deficiencies. 
+Broadly Implemented:  A Principle will be considered to be Broadly Implemented whenever a 
+jurisdiction’s inability to provide affirmative responses to applicable Key Questions for a 
+particular Principle is limited to the Questions excepted under the Principle’s Broadly 
+Implemented Benchmark and, in the judgment of the assessor, suc h exceptions do not 
+substantially affect the overall adequacy of the regulation that the Principle is intended to 
+address.   
+Partly Implemented:  A Principle will be considered to be Partly Implemented whenever the 
+assessment criteria specified under the P artly Implemented Benchmark for that Principle are 
+generally met without any significant deficiencies.  
+Not Implemented:  A Principle will be considered to be Not Implemented whenever major 
+shortcomings are found in adhering to the assessment criteria as specified in the Not 
+Implemented Benchmark. 
+Not Applicable:  A Principle will be considered to be Not Applicable whenever it does not 
+apply given the nature of the securities market in the jurisdiction and relevant structural, legal 
+and institutional considerations.  Criteria defining this assessment rating are not indicated for 
+every Principle. 
+ 
+                                                 
+18  If, however, the regulator’s prior program would have been Fully Implemented and the new program 
+would be an enhancement, the jurisdiction should have an opportunity to demonstrate this and should not 
+be penalized for improving its program.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+20 
+II PRINCIPLE-BY-PRINCIPLE ANALYSIS 
+A. PRINCIPLES RELATING TO THE REGULATOR  
+1. Preamble 
+In this Methodology, the regulator refers to the authority or authorities responsible for 
+regulating, overseeing and supervising securities and/or derivatives markets (“regulator”).  
+Responsible, or competent, authority(ies) are those with jurisdiction ove r each of the issues 
+addressed in the Principles and this Methodology under the headings:  Issuers; Auditors; Credit 
+Rating Agencies and Other Information Service Providers; Collective Investment Schemes ; 
+Market Intermediaries; and Secondary and Other Markets (including clearing and settlement), 
+and may include other law enforcement, governmental and regulatory bodies. 
+The Principles do not prescribe a specific structure for the regulator. 
+In this Methodology, the term “regulator” is used compendiously.  
+There need not be a single regulator.  In many jurisdictions, the desirable attributes of the 
+regulator set out in the Principles are in fact the shared responsibility of two or more 
+government or quasi-government agencies with governmental powers.   
+The Principles establish the desirable attributes of a regulator.  An independent and accountable 
+regulator with appropriate powers and resources is essential to ensure the achievement of the 
+three core objectives of securities regulation.  The Principles consi der the enforcement and 
+market oversight work of the regulator and the need for close cooperation between regulators 
+essential to the achievement of the regulatory function.  The potential role of self -regulatory 
+organizations and the desirable attributes of such organizations are separately addressed under 
+Principle 9. 
+Regulators also have an important role to play in identifying, monitoring, mitigating and 
+managing systemic risk, in regularly reviewing the perimeter of regulation and in addressing 
+conflicts of interest and misalignment of incentives.  
+The regulator and the effectiveness of its actions should be assessed in the context of the 
+regulatory framework and the legal system of the jurisdiction being assessed.  The regulator 
+should also be assessed  taking into account the situation, and stage of development, of the 
+market of the assessed country (see the Introduction to this Methodology).  
+To the extent objectives or tasks are to be achieved or powers exercised by the “regulator,” a 
+jurisdiction sho uld be deemed to have implemented the Principles as long as one of the 
+competent authorities can achieve each individual objective or task or exercise a specific power 
+even if the various objectives or tasks are achieved, or the various powers are exercised, by 
+several different law enforcement, governmental and regulatory authorities.   
+Principles 1 to 5 closely interrelate with Principles 10 to 15.  Therefore, evaluations of these 
+Principles should be consistent.  For example, it should be impossible to conclude that Principle 
+3 is fully implemented if the regulator is not endowed with comprehensive surveillance powers 
+as required under Principle 10.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+21 
+In every case, regulators should be held accountable for issuing and implementing rules and 
+regulations necessary to achieve the key core objectives of securities regulation, monitoring 
+whether the objectives are achieved, and taking enforcement or other appropriate action when 
+there is a violation or lack of compliance with regulatory requirements within the context of 
+their own legal and regulatory framework.  Regulators also should be required to implement 
+the regulatory framework responsibly, fairly and effectively. 
+ 
+2. Scope 
+The assessor should obtain a comprehensive overview of a given jurisdiction’s regulat ory 
+system.  As the responsibility for securities regulation can be shared by more than one 
+competent authority, the assessor should obtain information that reflects each authority’s 
+structure, powers, scope of responsibility and operations.  For example, in some jurisdictions, 
+market intermediaries other than securities firms (e.g., banking or credit institutions; insurance 
+providers; and retirement, pension, and superannuation funds ) may engage in the securities 
+activities listed above, but may be subject  to a different regulatory authority, for all or certain 
+of their activities. 
+Where more than one authority is responsible, the assessor should obtain a description of the 
+division of responsibility with respect to each of the functional areas of regulation identified 
+above and the details of cooperative arrangements among the authorities.  
+The sharing of tasks in the regulatory system should also be considered when assessing 
+Principles 6 to 7.  With regard to Principle 8, the assessor should see whether the regulator has 
+identified and assessed the degree to which the conflict s exist and determine the degree to 
+which regulation may be necessary to ensure the conflict s are avoided, eliminated, disclosed, 
+or otherwise managed.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+22 
+3. Principles 1 through 8 
+Principle 1 The responsibilities of the Regulator should be clear and objectively 
+stated 
+Unless the regulator’s responsibilities are clearly and objectively stated, investors and market 
+participants may be uncertain about the degree to which the r egulator is able to protect the 
+market’s integrity through fair and effective oversight.  Where this uncertainty exists, concerns 
+about the market’s integrity may become a self -fulfilling prophecy, to the detriment of all 
+market participants.  The capacity of the r egulator to act responsibly, fairly and effectively, 
+therefore, is assisted by a clear definition of responsibilities, preferably set out in  law; and 
+strong cooperation among responsible regulators, through appropriate channels. 
+The desirable attributes of a regulator include an organizational structure and powers that 
+permit it to achieve the basic objectives of securities regulation.  In assessing this Principle, the 
+assessor should consider whether, and how, the legal provisions that authorize and provide for 
+the operation of the regulator demonstrate that the regulator can perform its duties, according  
+to procedures and objectives predefined by the relevant regulatory framework.  The assessor 
+also should assess whether the arrangements in place demonstrate the ability of the regulatory 
+framework to create and implement a system intended to protect inves tors, provide fair, 
+efficient and transparent markets, and reduce systemic risk. 
+The packaging of products and services may be such that a single product or service exhibits 
+characteristics traditionally associated with at least two of the following:  secu rities; banking; 
+and insurance.  Legislation should be designed to ensure that any division of responsibility 
+among financial sector regulators avoids gaps or inequities.  Where there is a division of 
+regulatory responsibilities, similar types of conduct or products should be subject to similar 
+regulatory requirements regardless of how responsibility is divided among regulators.  
+ 
+Key Issues 
+1. Responsibilities of the r egulator should be clear and objectively set out, preferably in 
+law. 
+2. Legislation should be d esigned to ensure that any division of responsibility among 
+regulators avoids gaps or inequities.  Where there is a division of regulatory 
+responsibilities, substantially the same type of conduct and product generally should be 
+subject to consistent regulatory requirements. 
+3. There should be effective cooperation among responsible regulators , through 
+appropriate channels.
+19 
+ 
+                                                 
+19  See also Principles 13 and 14.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+23 
+Key Questions 
+1. Are the regulator’s responsibilities, powers and authority:20 
+(a) Clearly defined and objectively  set out, preferably in law, and in the case of 
+powers and authority, enforceable?  
+(b) If the regulator can interpret its authority, are the criteria for interpretation clear 
+and transparent?  
+(c) Is the interpretative process transparent enough to preclude situations in which 
+an abuse of discretion can occur? 
+2. When more than one regulator is responsible for securities regulation: 
+(a) Where responsibility is divided among regulators, is legislation designed to 
+avoid regulatory differences or gaps?  
+(b) Is substantially the same type of conduct an d product generally subject to 
+consistent regulatory requirements?  
+(c) Are responsible regulators  required to cooperate and communicate in areas of 
+shared responsibility? 
+(d) Are there arrangements for cooperation and communication between 
+responsible regulators through appropriate channels and are cooperation and 
+communication occurring between responsible regulators without significant 
+limitations?21 
+ 
+Explanatory Notes 
+Where the responsibilities for securities regulation are shared by more than one regulator and 
+there are differences in the responsibilities and powers of those regulators, the assessment 
+should identify each of the relevant responsible regulators and take into consideration whether 
+the responsibilities and powers of the regulators taken in combination are sufficient to address 
+each component of the Principles and the Key Questions and Key Issues thereunder.  This will 
+require an explanation of how powers and responsibilities considered relevant in the 
+Methodology are distributed and executed in a jurisdiction or where and how regulatory powers 
+are distributed e.g., by function, security, service or entity.  
+In this respect, the Principles are neutral as to whether securities regulation can be distinguished 
+by security, function, service, entity, and/ or type of transaction.  What is important is to 
+determine, and to consider, how regulation applies to the financial markets, participants, 
+intermediaries, securities and services that characterize the jurisdiction being assessed.   
+                                                 
+20  Regulatory discretion may be necessary to meet regulatory objectives in a rapidly evolving market, but 
+how the scope of such discretion is determined and how the manner of its exercise is subject to review is 
+relevant to the regulator’s ability to act responsibly, fairly and consistently. 
+21  Measures to protect the confidentiality of non-public information consistent with permitted uses should not 
+be considered significant limitations.  See also Principle 14.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+24 
+Gaps should be construed to mean gaps in coverage (not in performance) of areas of the basic 
+elements (functions and objectives) of securities regulation (e.g., collective investment 
+schemes, issuers, auditors, credit rating agencies, and other information service providers, 
+market intermediaries, secondary and other markets, enforcement) which are applicable to, but 
+are not covered by, the system being assessed.  The assessor should draw the views of the 
+jurisdiction being assessed regarding gaps and inequities.  More specific f unctional gaps or 
+deficiencies should be treated under the specific Principles related to each element of securities 
+regulation.  Evidence should be provided as to how all areas addressed by the Principles are 
+covered and, where there are divisions of authority  that effective arrangements exist for 
+cooperation. 
+Where legislation does not satisfactorily address gaps or inequities and an amendment is not 
+possible in the short -term, potential gaps or inequities may be addressed by procedures 
+intended to ensure  their avoidance as a result of any division of responsibilities, such as 
+protocols or arrangements with other responsible authorities to assure appropriate and equitable 
+coverage of the functions and objectives of securities regulation. 
+ 
+Benchmarks  
+Fully Implemented 
+Requires affirmative responses to all applicable Questions except to Question 2, where 
+it is not applicable as there is a single regulator responsible for securities regulation in 
+the jurisdiction. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 2(b) and 
+2(d) provided that different responsible regulators do not supervise the same entity, e.g., 
+where prudential and conduct of business supervision of the same entity is performed 
+by different responsible regulators.  
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 1(c) and 
+2(b) and 2(d) if more than one responsible regulator supervises the same entity.  
+Not Implemented 
+Inability to respond affirmat ively to one or both of Questions 1(a) and 1(b) and, if 
+applicable, one or more of Questions 2(a) or 2(c).
+
+PRINCIPLES RELATING TO THE REGULATOR  
+25 
+Principle 2 The Regulator should be operationally independent and accountable in 
+the exercise of its functions and powers  
+While the regulator should be accountable under a jurisdiction’s legal and governing structure, 
+the regulator should also be operationally independent from external political or commercial 
+interference.  Without such independence investors and other market participants may come to 
+doubt the regulator’s objectivity and fairness, with deleterious effects on the market’s integrity.  
+Generally, the regulator’s independence will be enhanced by a stable source of funding.  It also 
+means that the r egulator should remain independent from the market participants that it 
+supervises. 
+In some jurisdictions, particular matters of regulatory policy require consultation with or even 
+approval by, a government, minister, or other legislative authority.  The circumstances in which 
+such consultation or approval is required or permitted should be clear and the process 
+sufficiently transparent or subject to review to safeguard its integrity.  Generally, it is not 
+appropriate for these circumstances to include decision making on day -to-day technical 
+matters. 
+Independence implies:  
+• a regulator that operates independently of sectoral interest; and  
+• the ability to undertake regulatory measures and enforcement actions without external 
+(political or commercial) interference. 
+Accountability implies that the r egulator is subject to appropriate scrutiny and review, 
+including: 
+• periodic public reporting by the regulator on its performance; 
+• transparency in the regulator’s process and conduct; and  
+• a system permitting judicial review of licensing, authorizing or enforcement related 
+final decisions of the regulator. 
+The confidential and commercially sensitive nature of much of the information in the 
+possession of the regulator must be respected.  Safeguards must be in place to protect such 
+information from inappropriate use or disclosure. 
+The capacity of the regulator to act independently will be enhanced by adequate legal protection 
+for the r egulator and its staff when acting in the bona fide  discharge of their functions and 
+powers. 
+Key Issues   
+Independence 
+1. The regulator should be operationally independent from external political interference
+22 
+and from commercial, or other sectoral interests, in the exercise of its functions and 
+powers. 
+                                                 
+22  The term “interference” means a formal or informal level and method of contact that affects day-to-day 
+decision making and is unsusceptible to review or scrutiny.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+26 
+2. Consultation with or approval by a government minister  or other authority should not 
+include operational decisions.  
+3. In jurisdictions where particular matters of regulatory policy require consultation with, 
+or even approval by, a government minister or other authority, the circumstances in 
+which such consulta tion or approval is required or permitted should be clear and the 
+process of consultation and criteria for action sufficiently transparent or subject to 
+review to safeguard its integrity. 
+4. The regulator should have a stable source of funding sufficient to e xercise its powers 
+and responsibilities. 
+5. There should be adequate legal protection for the regulator and its staff acting in the 
+bona fide discharge of their functions and powers. 
+Accountability 
+6. The regulator should be publicly accountable in the use of its powers and resources to 
+ensure that the regulator maintains its integrity and credibility. 
+7. There should be a system permitting judicial review of final decisions of the regulator.  
+8. Where accountability is through the government or some other external a gency, the 
+confidential and commercially sensitive nature of information in the possession of the 
+regulator must be respected.  Safeguards should be in place to protect such information 
+from inappropriate use or disclosure. 
+ 
+Key Questions 
+Independence 
+1. Does the regulator have the ability to operate on a day-to-day basis without: 
+(a) External political interference? 
+(b) Interference from commercial or other sectoral interests?
+23 
+2. Where particular matters of regulatory policy require consultation with, or even 
+approval by, a government minister or other authority:  
+(a) Is the consultation process established by law?  
+(b) Do the circumstances, in which consultation is required, exclude decision 
+making on day-to-day technical matters?  
+(c) Are the circumstances in which such consultat ion or approval is required or 
+permitted clear and the process sufficiently transparent, or the failure to observe 
+procedures and the regulatory decision or outcome subject to sufficient review, 
+to safeguard its integrity?  
+3. Does the regulator have a stable and continuous source of funding sufficient to meet its 
+regulatory and operational needs?
+
+PRINCIPLES RELATING TO THE REGULATOR  
+27 
+4. Are the regulator, the head and members of the governing body of the regulator, as well 
+as its staff, accorded adequate legal protection for the bona fide  discharge of their 
+governmental, regulatory and administrative functions and powers?24 
+5. Are the head and governing board of the regulator subject to mechanisms intended to 
+protect independence, such as: procedures for appointment; terms of office; and criteria 
+for removal? 
+Accountability 
+6. With reference to the system of accountability for the regulator’s use of its powers and 
+resources:  
+(a) Is the regulator accountable to the legislature or another government body on an 
+ongoing basis? 
+(b) Is the regulator required to be transparent
+25 in its way of operating and use of 
+resources and to make public its actions that affect users of the market and 
+regulated entities, excluding confidential or commercially sensitive 
+information? 
+(c) Is the regulator’s receipt and use of funds subject to review or audit?  
+7. Are there means for natural or legal persons adversely affected by a regulator ’s 
+decisions or exercise of administrative authority ultimately to seek review in a court, 
+specifically: 
+(a) Does the regulator have to provide written reasons for its material decisions?
+26  
+(b) Does the decision -making process for such decisions include sufficient 
+procedural protections to be meaningful? 
+(c) Are affected persons permitted to make representations prior to such a decision 
+being taken by a regulator in appropriate cases?27 
+(d) Are all such decisions taken by the regulator subject to a sufficient, independent 
+review process, ultimately including judicial review? 
+8. Where accountability is through the government or some other external agency , is 
+confidential and commercially sensitive information subject to appropriate safeguards 
+to prevent inappropriate use or disclosure? 
+ 
+                                                 
+23  Principle 3.  Administrative actions, such as licensing or commencement of inspections or investigations 
+ordinarily should be particularly scrutinized for freedom from inappropriate influence. 
+24  Principle 5. 
+25  The regulator must be accountable as a matter of law.  The regulator may be considered to be required to 
+be transparent, if, as a general principle of administrative law, procedure or practice, its use of its powers 
+and resources generally is transparent. 
+26  The regulator need not be required by legislation to give written reasons provided that it has formal written 
+procedures as to when it will do so. 
+27  For example, a warning letter may not be subject to additional process.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+28 
+Explanatory Notes 
+The balance between independence and accountability is delicate.  The Principles take no 
+position on location of the regulator within the governmental structure.  Nevertheless, in 
+different circumstances the safeguarding of independence must be particularly scrutinized.  Not 
+only should the allocation of regulatory responsibilities, the framework for accountability and 
+procedures, or other mechanisms in place to achieve independence be considered, but also the 
+actual operation of the relationship between the regulator and any governmental overseer 
+should be considered.  If possible, the effect of such inter -relationship should be r eviewed in 
+specific cases.  For example, in some jurisdictions, rules or policies may require approval by a 
+government minister or other authority , or other important regulatory matters may require 
+consultation with or approval by a government minister or other authority.  Also, sometimes 
+matters are reviewed within the government for compliance with applicable law.  The 
+circumstances in which such consultation or approval is required or permitted should be clear, 
+and the process sufficiently transparent or subject to review as to safeguard its integrity.  
+Independence or accountability is not necessarily compromised just because the regulator is 
+part of the government and/or the top officials of the r egulator are political appointments, 
+including appointees that previously served in the government 
+Criteria for decision -making also can insulate the process from inappropriate political 
+interference.  For example, the ability to reverse licensing decisions at the ministerial level 
+without clear criteria both for the refusal to licence and related decision-making process would 
+inappropriately infringe independence.  A stable source of funding is critical because 
+operational independence can be compromised if funding can be curtailed by external action.  
+The assessor may inquire of the assessed jurisdiction as to whether the source of funds can 
+adversely affect its accessibility.  
+Forms of funding may vary for each regulator and includes cases where the regulator is funded 
+by the government’s budget.  
+As this Principle tests independence, the ability to protect sensitive information passed to other 
+decision-making authorities should be part of the regulatory framework to prevent undue 
+interference with the regulatory authorities’ operations.  The safeguards in place must be part 
+of the system. 
+In assessing implementation of Key Question 1, the assessor should determine  whether, 
+practically speaking, the regulator is in fact operationally independent from external political 
+interference and from commercial, or other sectoral interests, in the exercise of its functions 
+and powers. 
+A positive response to Key Question 1(a) in relation to independence from external political 
+interference will generally require the assessor to be satisfied – taking into account the legal, 
+regulatory and political environment in which the regulator operates – that:  
+• the legal and regulatory fra mework does not have structural features which could 
+significantly impact the independence of the regulator; and 
+• there is no evidence of actual interference in day-to-day operational decisions or other 
+evidence pointing to a deficit in independence; in the  assessment process the assessor 
+should also consider information based on discussions with market participants or other 
+reliable sources related to whether or not market participants in their entirety perceive 
+the regulator to be de facto independent.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+29 
+One example of adequate legal protection for regulators acting in bona fide  performance of 
+regulatory functions would be qualified immunity from personal liability for actions taken in 
+good faith within the scope of the regulator’s authority.  Other arrangeme nts may also be 
+possible.  The adequacy and type of legal protection for regulators acting in bona fide 
+performance of their regulatory functions must be evaluated according to the legal system 
+applicable in the assessed jurisdiction. 
+Formal consultation with commercial interests, including those subject to regulation , as 
+contemplated under Principle 4, does not impair independence. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions.  
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 6(b). 
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to either Question s 
+2(b) or 2(c), and to Questions 4, 5, 6(b) and 7(c). 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b), 2(a), both 2(b) 
+and 2(c), 3, 6(a), 6(c), 7(a), 7(b), 7(d) or 8.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+30 
+Principle 3 The Regulator should have adequate powers, proper resources and the 
+capacity to perform its functions and exercise its powers. 
+The regulator should have adequate powers, proper resources (including adequate funding) , 
+and the capacity to perform its functions and exercise its powers, both in regular and in 
+emergency situations.  What this means in  practical terms is the subject of elaboration in this 
+section.  It includes powers of licensing, supervision, inspection, investigation, and 
+enforcement.  It also includes the capacity and resources to attract and retain appropriately 
+trained, qualified, and skilled staff to perform its functions and exercise its powers, while being 
+able to provide ongoing training to its staff.  
+The regulator must ensure that its staff receives ongoing training as required. 
+The powers and resources of the regulator should be consistent with the size, complexity, and 
+type of the markets that it oversees and its need to meet the functions contained in these 
+Principles.  The assessor should determine after assessing all the Principles and the 
+effectiveness of the jurisdiction ’s regulatory program if there is a substantial basis for 
+concluding that the powers, resources, and capacity of the regulator are sufficient. 
+This Principle is relevant for the work of the regulator taking into account that the Principle 
+makes sure the ap propriate performing of the regulator’s functions and the effective exercise 
+of its powers, which is fundamental in terms of achieving both:  1) successful preventative 
+measures (surveillance, inspection, investigation) ; and 2)  credible and effective corrective 
+measures (detect, deter, enforce, sanction, redress and correct violations of securities laws).  
+Any circumstance that impedes or challenges the appropriate and effective exercise of the 
+functions and powers of the regulator is detrimental to the obje ctives behind these Principles.  
+In this way, this would be consistent and in compliance with Principles for the Enforcement of 
+Securities Regulation (10 to 12) and Principles for Cooperation in Regulation (13 to 15), and 
+the other way around, taking into account that they are inter-related. 
+The regulator should play an active role in the education of investors.  Investor education may 
+enhance investors’ understanding of the role of the r egulator and provide investors with the 
+tools to assess the risks associated with particular investments and to protect themselves against 
+fraud (and other abuses).  Investor education and financial literacy programs can also be useful 
+tools for the securities regulators in supporting their regulation and supervision.  For example, 
+investor education programs can complement regulations that enforce conduct standards, 
+require financial institutions to provide clients with appropriate information, strengthen legal 
+protections for consumers, or provide for redress.  IOSCO recognizes that there is no one-size-
+fits-all model for investor education and financial literacy programs.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+31 
+Key Issues28 
+1. The regulator should have powers of licensing, supervision, inspection, investigation 
+and enforcement. 
+2. The regulator should have adequate funding to exercise its powers and responsibilities. 
+3. The level of resources should recognize the difficulty of attracting and retaining 
+experienced and skilled staff. 
+4. The regulator should ensure that its staff receives adequate, ongoing training. 
+5. The regulator should have policies and governance practices in place to perform its 
+mandate adequately. 
+6. Regulators should play an active role in promoting the education of investors and other 
+market participants. 
+ 
+Key Questions
+29 
+1. Are the powers and authorities of the regulator sufficient, taking into account the nature 
+of a jurisdiction ’s markets and a full assessment of these Principles to meet the 
+responsibilities of the regulator(s) to which they are assigned? 
+2. With regard to funding:  
+(a) Is the regulator’s funding adequate to permit it to fulfil its responsibilities, taking 
+into account the size, complexity and types of functions subject to its regulation, 
+supervision or oversight? 
+(b) Can the regulator affect the operational allocation of resources once funded? 
+3. Does the level of resources recognize the difficulty of attracting and retaining 
+experienced and skilled staff?  
+4. Does the regulator ensure that its staff receives adequate ongoing training? 
+5. Does the regulator have policies and governance practices to perform its functions and 
+exercise its powers effectively? 
+6. Does the regulator play an active role in promoting education in the interest of 
+protecting investors? 
+ 
+                                                 
+28   See also Key Questions on enforcement and cooperation under Principles 10, 11, 13 and 15 and Key 
+Questions on regulatory powers related to issuers, market intermediaries, collective investment schemes 
+and secondary and other markets. 
+29  The answers to these questions should be consistent with powers and authorities discussed in other 
+Sections.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+32 
+Explanatory Notes 
+The powers granted to the regulator should be commensurate to the functions committed to the 
+regulator.  Where there is more than one responsible authority, the powers required for 
+implementation may be distributed among them.  The powers granted, taken together, should 
+be sufficient to provide the ability to achieve implementation of the othe r Principles set forth 
+in this Methodology.  The assessor may wish to review this Principle after the full assessment 
+is complete. 
+An assessment of governance should go beyond the framework of rules and practices by which 
+the regulator ensures accountability, fairness, and transparency.  It needs to go into the ability 
+of the regulator to formulate its strategic direction and deliver its mandate.  This could include, 
+but is not limited to, governance practices for developing priorities and responsive strategies. 
+In complex markets, technology may be necessary to assure efficient discharge of regulatory 
+functions.  An appropriate program of investor education in a jurisdiction may also assist the 
+regulator in carrying out its responsibilities.   
+The regulator should be given an opportunity to demonstrate to the assessor that its powers and 
+funding are adequate and, in particular, how they are deployed to achieve its objectives and 
+legal and regulatory responsibilities (e.g., how the regulator meas ures effectiveness, 
+promptness of action, level of coverage and ability to meet its priorities). 
+Turnover of staff may be an indication of inability to attract and retain experienced and skilled 
+staff.  The assessor should inquire further about the reasons. 
+The regulator should also be invited to explain what sort s of investor education activities or 
+programs are promoted by the regulator within the assessed jurisdiction. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented
+30 
+Requires affirmative responses to all applicable Questions except to Question 3.  
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 2(b), 3, 
+4, 5, and 6.  
+Not Implemented 
+Inability to respond affirmatively to one or both of Questions 1 and 2(a). 
+ 
+                                                 
+30  For Broadly and Partly, the availability and sufficiency of resources in fact may need to be evaluated along 
+the spectrum of Fully to Partly with guidance from the assessed jurisdiction.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+33 
+Principle 4 The Regulator should adopt clear and consistent regulatory processes 
+Clear, consistent, transparent procedures and processes are part of fundamental fairness and of 
+a framework for developing regulatory decisions and for undertaking regulatory actions that 
+assure accountability.  Transparency policies must however, balance the rights of individuals 
+to confidentiality, and regulators’ enforcement and surveil lance needs, with the objective of 
+fair, equitable and open regulatory processes. 
+In exercising its powers and discharging its functions, the regulator should adopt processes, 
+which are: 
+• consistently applied; 
+• comprehensible; 
+• transparent to the public; 
+• fair and equitable.  
+In the formulation of policy, the regulator should: 
+• have a process for consult ing with the public including those who may be affected by 
+the policy; 
+• publicly disclose its policies in important operational areas;
+31 
+• observe standards of procedural fairness; 
+• have regard to the cost of compliance with the regulation. 
+Many regulators have authority to publish reports on the outcome of investigations or inquiries, 
+particularly where publication would provide useful guidance to market participants and their 
+advisers.  Any publication of a report must be consistent with the rights of an individual to a 
+fair hearing and the protection of personal data  — factors that will often preclude publicity 
+when a matter is still the subject of investigation. 
+ 
+Key Issues 
+Clear and Equitable Procedures with Consistent Application 
+1. In exercising its powers and discharging its functions, the regulator should adopt 
+processes which are:  
+(a) Consistently applied. 
+(b) Comprehensible. 
+                                                 
+31 In some operational areas, and in some cases, particularly in the areas of surveillance and enforcement, 
+consultation and disclosure may be unnecessary or inappropriate as it may compromise the effective 
+implementation of the policy.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+34 
+(c) Transparent to the public. 
+(d) Fair and equitable. 
+2. In the formulation of policy, subject to enforcement and surveillance concerns,   the 
+regulator should:  
+(a) Have a process for consult ing with the public, inc luding those who may be 
+affected by the policy. 
+(b) Publicly disclose its policies in important operational areas.32 
+(c) Have regard to the cost of compliance with regulation. 
+3. The regulator should observe standards of procedural fairness. 
+Transparency and Confidentiality 
+4. Transparency practices, such as publication of reports on the outcome of investigations 
+or inquiries, where permitted, should be consistent with the rights of an individual to a 
+fair hearing and the protection of personal data  — factors tha t will often preclude 
+publicity when a matter is still the subject of investigation. 
+Key Questions 
+Clear and Equitable Procedures 
+1. Is the regulator subject to reasonable procedural rules and regulations?  
+2. Does the regulator:  
+(a) Have a process for consult ing with the public, or a section of the public, 
+including those who may be affected by a rule or policy, for example, by 
+publishing proposed rules for public comment, circulating exposure drafts or 
+using advisory committees or informal contacts? 
+(b) Publicly disclose and explain its rules and regulatory policies, not including 
+enforcement and surveillance policies, in important operational areas, such as 
+through interpretations of regulatory actions, setting of standards, or issuance of 
+decisions stating the reasons for regulatory actions? 
+(c) Publicly disclose changes and reasons for changes in rules or policies? 
+(d) Have regard to the costs of compliance with regulation? 
+(e) Make all rules and regulations available to the public?
+33  
+(f) Make its rulemaking procedures readily available to the public?34   
+                                                 
+32  That is policies with respect to issuers, collective investment schemes, market intermediaries and 
+secondary and other markets. 
+33  For example, on its website or through readily accessible reports.  See also Principle 1. 
+34   See also Principle 2.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+35 
+3. In assessing procedural fairness: 
+(a) Are there rules in place for dealing with the regulator that are intended to ensure 
+procedural fairness?  
+(b) Is the regulator required35 to give reasons in writing for its decisions that affect 
+the rights or interests of others? 
+(c) Are all material decisions of the regulator in applying its rules subject to review? 
+(d) Are such decisions subject to judicial review where they adversely affect legal 
+or natural persons? 
+(e) Are the general criteria for granting, denying or revoking a licence made public, 
+and are those affected by the licensing process entitled to a hearing with respect 
+to the regulator’s decision to grant, deny or revoke a licence? 
+Transparency and Confidentiality 
+4. If applicable, are procedures for making reports on investigations public consistent with 
+the rights of individuals, including confidentiality and data protection?   
+Consistent Application 
+5. Are the regulator’s exercise of its powers and discharge of its functions consistently 
+applied? 
+ 
+Explanatory Notes 
+The assessor should establish whether there are specific laws, rules or procedures that govern 
+the administrative structure and whether these rules are clear, accessible and transparent.  Such 
+rules would assist in assuring that procedures are: consistently applied; comprehensible; 
+transparent to the public; and fair and equitable. 
+In some operational areas, and in some cases, particularly in areas of surveillance and 
+enforcement, consultation and disclosure may be unnecessary or inappropriate as they  may 
+compromise the effective implementation of regulatory policy. 
+There may be different levels of, or procedures for, review for different types of regulatory 
+actions.  For example, rulemaking may be subject to different review procedures than actions 
+with respect to granting licences or taking enforcement action.  This is not inconsistent with 
+the Principles if the review procedures are transparent and equitably applied.
+36  
+An effective consultation process may be responsive to the need to take into account the impact 
+of regulation and to have regard to the costs of compliance with regulation.  The regulator 
+should be able generally to assess the use of its resources.  A regulator is not required to conduct 
+a specific cost/benefit analysis in order to be found to have regard for the cost of compliance 
+when framing regulatory policy. 
+                                                 
+35  The regulator need not be required by legislation to provide reasons, provided that it has written 
+procedures as to when it will do so. 
+36  See also Principle 2, Key Question 7.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+36 
+Interviews with affected parties and other documentation may be necessary to confirm whether 
+procedures are, in fact, consistently applied, fair and equitable , and the market is open to fair 
+competition practices.  
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions.37  
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 2(d).  
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 2(b), 
+2(d), 2(f) and 5.  
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1, 2(a), 2(c), 2(e), 3(a), 
+3(b), 3(c), 3(d), 3(e), or 4.  
+ 
+                                                 
+37  Principle 2.  If there is no power to make reports public, then there would be no need to protect 
+confidentiality.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+37 
+Principle 5 The staff of the Regulator should observe the highest professional 
+standards, including appropriate standards of confidentiality 
+This Principle refers to the integrity and the means for achieving and demonstrating the 
+integrity of the regulator and its staff.  In the context of this Principle, the term “staff” is 
+intended to include the head of the regulator, as well as its members.  Only the highest 
+professional standards of conduct are appropriate to achieving the objectives of regulation. 
+ 
+Key Issues 
+1. The staff of the regulator should observe the highest professional standards and be 
+required to follow clear guidance on matters of conduct including:  
+(a) The avoidance of conflicts of interest (including the conditions under which staff 
+may trade in securities). 
+(b) The appropriate use of information obtained in the course of the exercise of 
+powers and the discharge of duties.  
+(c) The proper observance of confidentiality and privacy provisions and the 
+protection of personal data. 
+(d) The observance of procedural fairness standards.  
+2. Failure to meet standards of professional integrity should be subject to sanctions. 
+ 
+Key Questions 
+1. Are the staff of the regulator required to observe requirements or a “Code of Conduct” 
+or other written guidance, pertaining to:  
+(a) The avoidance of conflicts of interest? 
+(b) Restrictions on the holding or trading in securities subject to the jurisdiction of 
+the regulator and/or requirements to disclose financial affairs or interests? 
+(c) Appropriate use of information obtained in the course of the exercise of powers 
+and the discharge of duties? 
+(d) Observance of confidentiality and priv acy provisions and the protection of 
+personal data? 
+(e) Observance by staff of procedural fairness standards in the performance of their 
+functions? 
+2. Are there: 
+(a) Processes to investigate and resolve allegations of violations of the above 
+standards? 
+(b) Legal or administrative sanctions for failing to adhere to these standards?
+
+PRINCIPLES RELATING TO THE REGULATOR  
+38 
+Explanatory Notes 
+The Key Questions are intended to address requirements relating to maintenance of high 
+professional standards.  The assessor should obtain documentation of specific procedures and 
+how they have been used in specific cases.  The assessor should also look at documentation of 
+confidentiality measures and arrangements to avoid conflicts of interest. 38  For example, 
+guidance on conflicts of interest should address outside employment a nd holding of other 
+positions, among other things.   
+Restrictions on trading could include, for example, pre-clearance of transactions or restrictions 
+on transactions above a specified threshold. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except that there may not be 
+active monitoring of matters under Questions 1(a) and 1(b). 
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except that with respect to 
+Questions 1(a) through (e), there may be minor shortcomings in observance of 
+procedures, including no active monitoring under Questions 1(a) and 1(b).   
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b), 1(c), 1(d) or 
+1(e), subject to the departures from full compliance permitted under Partly 
+Implemented, or failure to respond affirmatively to either of Questions 2(a) or 2(b).  
+ 
+                                                 
+38  See also Principle 4.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+39 
+Principle 6 The Regulator should have or contribute to a process to identify, monitor, 
+mitigate and manage systemic risk, appropriate to its mandate 
+Objective 
+Systemic risk refers to the potential that an event, action, or series of events or actions could 
+have a widespread adverse effect on the financial system and, in consequence, on the economy.  
+Securities regulators are concerned about systemic risk because of its potential widespread 
+effects and potential to harm a large number of investors and market participants. 
+Reducing systemic risk is one of the three IOSCO c ore objectives of s ecurities regulation.  
+Principle 6 recognizes that securities regulators have an important and unique role to play in 
+identifying, monitoring, mitigating, and managing systemic risk.  Systemic risk in the securities 
+markets in most cases is not the result of sudden adverse events, but instead the result of slow 
+and prolonged build-up of risk over a longer time frame.  It may also take the form of a more 
+gradual erosion of market trust , for example , as a result of widespread market misconduct .  
+Implementing many of the other P rinciples of securities regulation will be important in 
+mitigating risks to market trust.  In particular, strong investor protection standards, 
+transparency offered by extensive disclosure requirements, risk monitoring, research and 
+analytics, vigorous enforcement, robust resolution regimes, and other factors are all important 
+elements of how the r egulator can mitigate and manage risks against a gradual erosion of 
+market trust. 
+Promoting financial stability is a shared responsibility amongst the financial s ector regulatory 
+community.  Securities regulators, prudential regulators and central banks all have important 
+roles to play and come equipped with different tools at their disposal.  The nature of the risk 
+identified will, to a large extent, dictate which set of tools may be most effective in addressing 
+the risk.  The tools available to securities regulators to reduce systemic risk generally consist 
+of strong investor protection standards and enforcement measures, disclosure and transparency 
+requirements, business conduct regulation, and resolution regimes for market intermediaries.  
+This Principle explicitly recognizes that securities regulators may not have the appropriate tools 
+to address certain forms of systemic risk and, therefore, it is important that they cooperate with 
+other regulators. 
+Effective securities regulation is predicated on preserving market integrity, financial stability 
+and investor protection.  This approach recognizes that the market is composed of an 
+interconnected network where the activities of one or more participants can have spill -over 
+effects on all.  Systemic risk arising in one part of the financial system may also be spread to 
+other parts of the financial system through the markets and the economy.  Consequently, 
+securities regulators need to work with other relevant regulators and authorities to understand 
+the interconnections between market participants, markets and market infrastructures. 
+Securities markets are characterized by rapid changes and financial innovation.  Innovation 
+should be encouraged and facilitated where it has the potential to improve the functioning of 
+the markets and to provide investors with greater choice.  However, innovation may not always 
+be beneficial, particularly when it leads to opacity or is associated with poor risk management, 
+which could eventually lead to the build-up of risks.  Regulators should be aware of new and
+
+PRINCIPLES RELATING TO THE REGULATOR  
+40 
+evolving products, business models and participants, and the potential risks they may pose to 
+the financial system as a whole.  Regulators need to strive to stay in step with and understand 
+the potential risks associated with financial innovation and develop approaches that permit 
+beneficial innovation while preserving investor protection.   R isk monitoring, research and 
+analytics should include monitoring of innovation and new technologies. 
+Securities regulators should develop key risk metrics relevant to measuring systemic risks 
+arising within securities markets, intermediaries and regulated activities, and improve their 
+understanding and application of tangible steps that can be taken to mitigate such risks.  
+Securities regulators may be able to leverage work done by other supervisors but it will be 
+important to develop their own risk indicat ors through the use of qualitative and quantitative 
+data.   
+The identification, monitoring, mitigati on and manage ment of systemic risk should be 
+integrated into an organized and documented risk management framework through formalized 
+processes and arrangements. 
+ 
+Key Issues 
+1. The regulator should have or contribute to regulatory processes  through formalized 
+arrangements, which may be cross -sectoral, to identify, monitor, mitigate , and 
+appropriately manage systemic risk  based on clear responsibilities in relati on to 
+systemic risks.  The process can vary with the complexity of the market.   
+2. Given the central role of markets in the overall financial system and their capability to 
+generate and/or transmit risks, securities regulators should:  
+(a) work with other supervisors to improve the overall understanding of the 
+economics of the securities markets, their vulnerabilities and the 
+interconnections with the broader financial sector and the real economy; and  
+(b) have or develop formal systems and processes to permit the sharing of 
+information and knowledge as an essential component for the delivery of an 
+effective regulatory response to systemic risk. 
+3. The regulator should have appropriately skilled human and adequate technical 
+resources to support effective risk arrangements. 
+ 
+Key Questions 
+1.  
+(a) Does the regulator have clear responsibilities in: 
+(i) identifying, monitoring, mitigating and appropriately managing 
+systemic risks related to securities markets; and 
+(ii) contributing to processes in relation to other financial markets. 
+(b) Is there a clear definition of systemic risk within the jurisdiction?
+
+PRINCIPLES RELATING TO THE REGULATOR  
+41 
+2. Does the regulator have , or contribute to a regulatory process (which may be focused 
+on the securities market or be cross- sectoral) through formalized arrangements to  
+identify, monitor, mitigate and appropriately manage systemic risk, according to the 
+complexity of the regulator’s market consistent with its mandate and authority? 
+3.  
+(a)  Is there an effective information sharing framework in place with other 
+regulators and supervisors within the jurisdiction covering systemic risks, which 
+is supported by formal cooperation or institutional arrangements?  
+(b)  Does the regulator communicate information and data about identified systemic 
+risk(s) with regulators in other jurisdictions under established procedures or 
+arrangements and/or supported by bilateral and/or multilateral memoranda  of 
+understanding (MoUs)? 
+4. Does the regulator have appropriately skilled human and adequate technical resources 
+to support effective risk arrangements? 
+ 
+Explanatory Notes 
+Disclosure and transparency are critical to identifying and understanding the development of 
+systemic risk and arming regulators with the information needed to take the appropriate action.  
+Transparency in markets and products is also crucial to allow market participants to better price 
+risk.  Regulators have a particular responsibility and interest in promoting transparency at the 
+market level as well as adequate disclosure at the product and market participant level. 
+Regulators also have a particular responsibility for establishing organizational requirements, 
+business conduct regulation and resolution regimes for market intermediaries, whi ch are 
+important elements in mitigating and managing systemic risk.  Robust oversight of 
+organizational requirements and business conduct is essential to managing the build -up of 
+undesirable incentive structures which can become an important source of risk in the financial 
+system. 
+Reducing systemic risk needs to be considered within the context of the regulator’s broader 
+mandate.  A number of other principles also contribute to the regulator’s efforts to identify, 
+mitigate and manage systemic risk.  These i nclude, in particular, P rinciples relating to the 
+perimeter of regulation (Principle 7), conflicts of interest (Principle 8), cooperation and 
+information-sharing with other regulators (Principle 13–15), oversight of credit rating agencies 
+(Principle 22), o versight of hedge funds and/or hedge funds managers and advis ers 
+(Principle 28), procedures for dealing with the failure of a market intermediary (Principle 32) 
+and supervisory requirements of clearing and settlement (Principle 38). 
+When assessing Key Question 1, the key aspect is whether the regulator exercises a role, which 
+does not necessarily have to be backed by legal framework, in relation to systemic risk. 
+When assessing Key Question 2, the assessor should consider whether the regulator has or 
+contributes to a regulatory process (which may be focused on the securities market or be cross-
+sectoral) with respect to systemic risk posed by entities within the scope of its regulation (e.g., 
+with respect to market intermediaries, hedge funds or central c ounterparties which are 
+themselves systemically important in the relevant securities market).
+
+PRINCIPLES RELATING TO THE REGULATOR  
+42 
+Flexibility of approach and being open to new insights will be important as securities regulators 
+learn more about systemic risk. The formalized arrangements referred in Key Question 2 would 
+include general and systemic risk arrangements as indicated below.39 
+General Arrangements.  The arrangements to identify, monitor, mitigate and adequately 
+manage systemic risk should include components which: 
+• Entail a holistic an d systematic analysis of entities, products, markets, market 
+infrastructures and activities across securities markets that could be the source of 
+systemic risk; 
+• Involve the systematic and robust analysis of accessible, reliable and good quality data 
+(including micro- and macro-economic data and market intelligence) either collected 
+by the securities regulator or sourced from other agencies or parties (including other 
+relevant supervisors); 
+• Include mechanisms to assist in understanding the evolving functioni ng of securities 
+markets; 
+• Involve engagement with market participants to better understand emerging risks, 
+systemic and otherwise.  This engagement may take the form of surveys, formal 
+consultations, informal roundtables, individual meetings, etc.; 
+• Include documentation about the work performed in assessing potential systemic risks 
+at each stage of the assessment process, and documentation about the status of steps 
+taken to mitigate identified risks; 
+• Allow for periodic reassessment of procedures and outcomes; and 
+• Provide for policy and/or regulatory actions, where appropriate in the context of the 
+regulatory mandate, based on the assessments conducted. 
+Systemic Risk Arrangements.  These arrangements, in addition to the general arrangements set 
+out above, should include components which: 
+• Provide a broad understanding of the financial markets environment in which securities 
+regulators operate and on which assessments of systemic risk can be made.  It should 
+also take into account the interconnections between different products, markets, market 
+infrastructures and activities across securities markets; 
+• Complement reviews undertaken by other relevant regulators, where appropriate, by 
+incorporating analysis of the operation of securities markets and the interplay between 
+various markets and participants; and 
+• Include the development and use of indicators to calibrate systemic risk emerging from 
+(or affecting) securities markets. 
+                                                 
+39  See Thematic Review of the Implementation of Principles 6 and 7 of the IOSCO Objectives and Principles 
+of Securities Regulation, Final Report. Report of the Board of IOSCO, September 2013, pp. 6–10, 
+available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD424.pdf.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+43 
+Organizational Culture.  To achieve the above, securities regulators should build an 
+organizational culture that supports and serves as a foundation to processes in relation to 
+systemic risk.  This would include: 
+• Furthering a culture for a methodological, collaborative and integrated approach within 
+the regulator towards the identification, monitoring, mitigati on and manag ement of 
+systemic risk;  
+• Promoting “professional scepticism ” contributing to early identification of systemic 
+risk; and  
+• Ensuring organizational awareness of the culture, frameworks and  approaches for 
+identification, monitoring, mitigati on and management  of systemic risk , and 
+commitment to the effective and meaningful operation thereof. 
+ 
+Benchmarks 
+Fully implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly implemented 
+Inability to respond affirmatively to either Questions 1(b), 3(b) or 4. 
+Partly Implemented  
+Inability to respond affirmatively to either Question 1(a) or 3(a). 
+Not Implemented  
+Inability to respond affirmatively to Question 2.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+44 
+Principle 7 The Regulator should have or contribute to a process to review the 
+perimeter of regulation regularly. 
+Objective 
+Regular review of the perimeter of regulation promotes a regulatory framework that supports 
+investor protection, fair, efficient and transparent markets, and the reduction of systemic risk. 
+Depending on the structure of the market s and the legal system that underpins them , not all 
+market activities or market participants may be subject to direct regulation or oversight.  The 
+decision whether to regulate a specific product, market, market participant or activity is 
+ultimately a policy judgment made by the relevant authorities in each jurisdiction based on an 
+assessment (to which regulators should contribute) of the jurisdiction’s particular 
+circumstances.  Therefore, the regulator should have or contribute to a process to regularly 
+review whether its current regulatory requirements and framework adequately addresses risks 
+posed to investor protection, and to fair, efficient and transparent markets, as well as to the 
+reduction of systemic risks.   
+A regular review of the perimeter of regulation will also consider the effectiveness of existing 
+regulations and the need to modify them or adopt new regulations in light of new market 
+developments.  In par ticular, that review will need to address the risk of regulatory arbitrage 
+arising from changes to the intensity of regulation across the financial sector. 
+The review of the regulatory perimeter should be integrated into securities regulators’ risk 
+management frameworks through formalized processes and arrangements.  
+Principles 6 and 7 are interrelated in nature and similar processes might be applied by the 
+regulator for both Principles 6 and 7.  However, while Principle 6 has a particular focus on 
+systemic risk and is limited to the regulator’s mandate, Principle 7 is broader in scope 
+(including systemic risks and other risks) and is not limited to the regulator’s mandate. 
+ 
+Key Issues 
+1. The regulator should:  
+(a) adopt or adapt its own process, or participate in a process with other regulators 
+and/or government policy-makers, for conducting a regular review of products, 
+markets, market participants and activities so as to identify and assess possible 
+risks to investor protection and market fairness, efficiency and transparency or 
+other risks to the financial system; and  
+(b) have formalized arrangements and/or processes to r egularly review the 
+perimeter of regulation in order to promote the identification and assessment of 
+these risks.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+45 
+2. Such review should include consideration of:  
+(a) whether developments in products, markets, market participants and activities 
+have an effect on the scope of securities regulation; and  
+(b) whether the policy approach underlying the existing statutory or discretionary 
+exemptions, continues to be valid.   
+3. The process should focus on determining whether the regulator ’s existing powers, 
+operational structure, and regulations are sufficient to meet emerging risks. 
+4. The process should also allow for any changes to the existing perimeter of regulation 
+to be made in a timely manner in response to an identified emerging risk.  Such a 
+necessary change may include the regulator seeking changes to legislation. 
+ 
+Key Questions 
+1. Does the regulator have or participate in a process, to identify and assess whether its 
+regulatory requirements and framework adequately addresses risks posed by products, 
+markets, market participants and activities to investor protection, fair, efficient and 
+transparent markets and the reduction of systemic risk?  
+2. Does the regulator have formalized arrangement and/or a process to review, when there 
+is evidence of changing circumstances, its past regulatory policy decisions on products, 
+markets, entities, market participants or activities, especially decisions to exempt, and 
+take measures as appropriate? 
+3. Does the regulator participate in a process (with other financial system supervisors and 
+regulators if appropriate) whi ch reviews unregulated products, markets, market 
+participants and activities, including the potential for regulatory arbitrage, in order to 
+promote investor protection and fair, efficient and transparent markets and reduce 
+systemic risks? 
+4. Does the regulato r seek legislative or other changes when it identifies a regulatory 
+weakness or risk to investor protection, market fairness, efficiency , and transparency 
+that requires legislative or other changes? 
+ 
+Explanatory Notes 
+Assessors should recognize that each regulator may have its own unique process in reviewing 
+the perimeter of regulation and deference should be given to regulatory prerogative.  
+Examples of such processes could include:  
+• a team, group or division within th e organization to identify risks, regulatory gaps or 
+conflicts;  
+• the regulator being party to a formal or informal group of financial regulators that share 
+information and discuss the regulatory perimeter;
+
+PRINCIPLES RELATING TO THE REGULATOR  
+46 
+• ad hoc groups to identify and assess risks in response to a crisis or on a periodic basis; 
+or 
+• other formal or informal means of surveying or assessing the perimeter of regulation.     
+The responsibilities of the securities regulator within jurisdictional arrangements to review the 
+regulatory perimeter should be clear.  These arrangements should allow for identification of 
+risks posed by unregulated products, markets, market participants and activities , including 
+those resulting from innovation and technology.40 
+These arrangements, in addition to the general arrangements set out in Principle 6 (Explanatory 
+Notes), should include components which: 
+• involve securities regulators systematically identifying, prioritizing and determining 
+the scale and scope of emerging risks from different entities, activities, markets and 
+products in financial markets that could serve as the basis for deciding whether and 
+what type of regulatory action or intervention is warranted;  
+• build on existing risk identifica tion frameworks by requiring securities regulators to 
+proactively go beyond existing regulatory boundaries to identify potential risks; and  
+• recognize that different approaches may be required to discern and assess different 
+types of risks.  
+Further, securities regulators should also seek to build an organizational culture that supports 
+and serves as a foundation to processes in relation to reviewing the regulatory perimeter. This 
+would include: 
+• Furthering a culture for a methodological, collaborative and integrated approach within 
+the regulator towards reviewing the regulatory perimeter; and 
+• Ensuring organizational awareness of the culture, frameworks and approaches for 
+reviewing the regulatory perimeter and commitment to the effective and meaningful 
+operation thereof. 
+When assessing implementation of this Principle, the assessor should consider particular 
+instances where the perimeter of regulation has been reviewed.  The assessor could, for 
+example, consider if regulators have assessed whether current regu latory requirements and 
+framework adequately address risks that may be posed by the use of financial benchmarks, for 
+example, to investors or to fair, efficient and transparent markets. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions.    
+Broadly Implemented 
+There is no Broadly Implemented rating for this Principle. 
+                                                 
+40  See Id.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+47 
+Partly Implemented 
+Inability to respond affirmatively to Questions 2 or 4. 
+Not Implemented 
+Inability to respond affirmatively to Question 1 or 3.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+48 
+Principle 8 The Regulator should seek to ensure that conflicts of interest and 
+misalignment of incentives are avoided, eliminated, disclosed or 
+otherwise managed. 
+Objective 
+This Principle is an overarching Principle which sets out the role securities regulators should 
+have in focusing on: conflicts of interest and the misalignment of incentives.     
+Conflicts of Interest 
+A recurring concern of securities regulators has to do with what economists call “agency 
+problems”, where market participants entrusted to act in the interests of others use their 
+position, power or information to advance their own interests instead.   
+Such conflicts of interest are common problems in many financial markets and ar e often the 
+focus of securities regulation.  They arise for a range of reasons including compensation 
+programs in firms.  Conflicts should be and are the focus of securities regulation because they 
+can undermine investor protection and the fair, efficient and transparent operation of markets, 
+or present a systemic risk.  This focus on conflicts of interest is reflected in references to 
+conflicts of interest in a number of Principles (i.e., 5, 9, 22, 23, 24, 28, 29, and 31). 
+Where conflicts of interest may exist that pit the interests of a market participant against those 
+it has been entrusted to advance, the regulator should identify and assess the degree to which 
+the conflicts exist and determine the degree to which regulation may be necessary to ensure the 
+conflicts are avoided, eliminated, disclosed or otherwise managed.   
+Misalignment of Incentives in Securitization 
+This Principle also sets out the role the regulatory system should have where the incentives and 
+interests of those engaged in bringing financial products to market are not aligned with the 
+interests of investors.   
+This is a particular issue where different firms are responsible for the design, manufacture and 
+distribution of a financial product (as is the case with asset-backed securities and other complex 
+financial products).  Even where each firm engaged in bringing a product to market avoids, 
+eliminates, discloses or otherwise manages conflicts of interest with, and meets its obligations 
+to, direct counterparties and clients, incentives may exist for it to act in a way which is not in 
+the best interests of the end consumer or investor.  Firms in these circumstances may owe no 
+duty to the end consumer or investor but their actions may not always be in the interests of the 
+end consumer or investor.   
+The design, manufacture, and distribution of asset -backed securities are a particular focus for 
+this Principle.  The years preceding the 2008 global financial crisis provide an example of what 
+is called a “lack of alignment of incentives” or “misalignment of incentives”.
+41  Originators, 
+sponsors, issuers and underwriters during this period, while meeting contractual obligations 
+                                                 
+41  Unregulated Financial Markets and Products, Final Report, Report of the Technical Committee of 
+IOSCO, September 2009, pp. 15–21, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD301.pdf.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+49 
+and managing direct conflicts of interest to their imme diate client or counterparty, had no 
+additional incentive to perform appropriate levels of due diligence on the asset pools backing 
+the security or to employ robust underwriting standards.  Originators and brokers may have 
+focused on the origination of sec uritized products without due regard to longer term 
+performance of the products encouraged by short -term incentive remuneration structures. 42  
+The quality of the underlying assets suffered, resulting in diminished returns (and losses) to 
+end investors. 
+Where a jurisdiction has an active securiti zation market and identifies that the incentives of 
+investors and securitizers along the value chain (including the originator, issuer, sponsor, 
+underwriter or other entities) are misaligned, the regulatory system should evaluate, formulate 
+and implement approaches to align incentives, taking into account local market conditions.  
+Where appropriate, these approaches might include mandating retention of risk in 
+securitization products .  The approach to incentive ali gnment should be disclosed for each 
+transaction. 
+ 
+Key Issues 
+Conflicts of Interest 
+1. The regulator should identify and evaluate potential and actual conflicts of interests 
+regarding regulated entities.    
+2. The regulator should take steps so that conflicts of interest among regulated entities are 
+avoided, eliminated, disclosed or otherwise managed.  Disclosure of potential or actual 
+conflicts of interests should be made to or accessible by investors and/or other users of 
+the services or products. 
+Misalignment of Incentives in Securitization 
+3. For jurisdictions with active securitization markets, the regulatory system should 
+evaluate, formulate and implement approaches to aligning incentives, including where 
+appropriate, through mandating retention of risk in securitization products. 
+4. The regulatory system should require that the method chosen for compliance with the 
+incentive alignment approach, including any mandated risk retention requirements, is 
+clearly disclosed. 
+ 
+Key Questions 
+Conflicts of Interest 
+1. Does the regulator have in place a process designed to identify and evaluate potential 
+and actual conflicts of interest regarding regulated entities? 
+2. Where the regulator identifies significant conflicts of interest among regulated entities, 
+does it take steps so that these conflicts of interest are avoided, eliminated, disclosed or 
+otherwise managed? 
+                                                 
+42   Id, p. 16, paras. 52–53.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+50 
+3. Where the r egulator requires conflicts of interest to be disclosed, are the disclosures 
+mandated in such a way that they are accessible by investors and/or the users of t he 
+services or products? 
+Misalignment of Incentives in Securitization43 
+4. In jurisdictions with active securitization markets, has the regulatory system evaluated, 
+formulated and implemented approaches to align incentives, including mandatory risk 
+retention, wherever appropriate, taking into account local market conditions? 
+5. Does the regulatory system require that the method chosen for compliance with the 
+incentive alignment approach, including any mandated risk retention requirements, is 
+clearly disclosed? 
+ 
+Explanatory Note 
+Decisions on which regulatory tools to use to address particular conflicts of interest among 
+regulated entities (e.g., prohibitions, disclosures, use of information barriers, etc.) will 
+necessarily entail policy decisions reflecting legal an d market structures and regulatory 
+philosophies.  The critical issue from an assessment perspective is that the process by which 
+the regulator monitors conflicts of interest in the market may a ffect investor protection and 
+market fairness, efficiency and transparency, or pose a systemic risk. 
+Examples of conflicts of interest and misaligned incentives commonly highlighted in past 
+financial crises involve: 
+• mortgage brokers hired by financial institutions to assess the quality of loan 
+applications but who were compensated based on the volume and size of applications 
+processed (giving rise to an incentive to exaggerate the quality of the loan applications); 
+• credit rating agencies hired by issuers, arrangers and/or investors to publicly or widely 
+opine on the credit-worthiness of a security in which the issuer, arranger or investor has 
+an interest (and, therefore, a willingness to compensate the credit rating agency 
+according to whether the rating aligns with the issuer’s, arranger’s or investor’s 
+interest); and 
+• the judgment of audit firms being affected by the provision of non- audit services to 
+audit clients. 
+Not all of the entities are always regulated by securities regulators, and these above examples 
+should not be read as conflicts of interest or misaligned incentives that all regulators should 
+seek to address, unless noted in other Principles.  For example, mortgage brokers often fall 
+under banking regulation.  However, securities regu lators should work together with other 
+relevant regulators so as to formulate consistent approaches to address identified misalign ed 
+incentives. 
+Examples of approaches where the regulator has identified, evaluated and taken steps to avoid 
+conflicts of interests and the misalignment of incentives in areas highlighted in the 2008 crisis 
+might include:  
+• imposing risk retention requirements for originators, sponsors, original lenders and/or 
+issuers of securitized products; or
+
+PRINCIPLES RELATING TO THE REGULATOR  
+51 
+• requiring the independence of service providers engaged by, or on behalf of, an issuer, 
+where an opinion or service provided by those service providers may influence an 
+investor’s decision to acquire a securitized product. 
+Securitization market participants and their activities might be regulated by securities 
+regulators and other relevant regulators.  In assessing implementation of this Principle, the 
+assessor should consider all relevant parts of the regulatory framework (including requirements 
+which might be imposed by non-securities regulators). 
+The most common example of how misaligned  incentives could be addressed in the 
+securitization value chain is to require risk retention.  Risk retention or “skin in the game ” 
+requirements have been a key focus of regulatory responses since the crisis. These requirements 
+have been and are being developed as a means of addressing misaligned incentives that may 
+be embedded in the “originate to distribute” model of some securitization products with a view 
+to encouraging prudent behaviour by issuers and sponsors.  Where risk retention is mandated, 
+the applicable legislation, regulation and/or policy guidance should address the following 
+elements:    
+• the party on which obligations are imposed (i.e. direct and/or indirect regime, based on 
+an assessment of the most efficient and effective way of achieving risk retention);  
+• permitted forms of risk retention requirements (e.g. vertical, horizontal, etc.);  
+• exceptions or exemptions from the risk retention requirements.  
+Market circumstances may, however, warrant other approaches being taken. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all Questions except Questions 3 and 5. 
+Partly Implemented 
+There is no Partly Implemented rating for this Principle.  
+Not Implemented 
+Inability to respond affirmatively to Questions 1, 2, or 4. 
+                                                 
+43  See Global Developments in Securitization Regulation, Report of the Board of IOSCO, November 2012, 
+p. 48, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD394.pdf.
+
+PRINCIPLES RELATING TO THE REGULATOR  
+52 
+BIBLIOGRAPHY FOR PRINCIPLES RELATING TO THE REGULATOR 
+ 
+ Document Principle Other 
+Principles 
+1 Sound Practices for Investment Risk Education, Report of the 
+Board of IOSCO, September 2015, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD505.pdf 
+3  
+2 Strategic Framework for Investor Education and Financial 
+Literacy, Report of the Board of IOSCO, October 2014, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD462.pdf 
+3  
+3 Thematic Review of the Implementation of Principles 6 and 7 of 
+the IOSCO Objectives and Principles of Securities Regulation , 
+Report of the Board of IOSCO, September 2013,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD424.pdf 
+6 
+7 
+ 
+4 Principles for Financial Benchmarks, Report of the Board of 
+IOSCO, July 2013,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD415.pdf 
+7 36 
+5 Global Developments in Securiti zation Regulation, Report of 
+the Board of IOSCO, November 2012, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD394.pdf 
+8  
+6 Unregulated Financial Markets and Products , Final Report, 
+Report of the Technical Committee of IOSCO, September 2009, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD301.pdf 
+8 16
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+53 
+B. PRINCIPLE RELATING TO SELF-REGULATION 
+1. Preamble 
+Self-Regulatory Organi zations (SROs) can be a valuable complement to the regulator in 
+achieving the objectives of securities regulation. 
+Various models of self-regulation exist and the extent to which self -regulation is used varies.  
+The common characteristics of SROs in most jurisdictions are a separation from the r egulator 
+(although government oversight and authorization generally exist), and the participation of 
+business, industry and, if appropriate, investors in the operations of the SRO. 
+There can be substantial benefits from self-regulation: 
+• SROs may require the observance of ethical and business conduct standards which go 
+beyond government regulations. 
+• SROs may have broader ability to compel the production of information than 
+government regulators.   
+• SROs may offer considerable depth and expertise regarding market operations and 
+practices, and may be able to respond more quickly and flexibly than the government 
+authority to changing market conditions. 
+• SROs often build and maintain technology infrastructure to undertake their own, and 
+the regulator’s regulatory functions, with this infrastructure being funded entirely by 
+regulated persons, not taxpayers. 
+SROs should undertake those regulatory responsibilities which they have expertise to perform 
+most efficiently.  The actions of SROs will often be limited by applicable contracts and rules. 
+ 
+2. Scope  
+This Principle applies if an entity has one or several of the key features of an SRO .  The 
+understanding of what constitutes an SRO is further specified in the following guidance.  Self-
+regulation may encompass the authority to create, amend, implem ent and enforce rules of 
+trading, business conduct and/or qualification regimes with respect to the persons (i.e.  legal 
+and natural persons) subject to the SRO’s jurisdiction and to resolve disputes through 
+arbitration or other appropriate dispute resolution mechanisms.  This authority may be derived 
+from a statutory delegation of power to a non- governmental entity or through a contract 
+between an SRO and its members as is authorized or recognized by the r egulator.  In some 
+jurisdictions, SROs may not cover all the functions mentioned above.  
+An organization should be classified as an SRO (and subject to assessment under Principle 9) 
+if it has been given the power or responsibility to regulate and its rules are subject to meaningful 
+sanctions regarding any part of the securities market or industry.   One typical feature of an 
+SRO is that the organization establishes rules relevant for a certain industry, e.g. on eligibility 
+of individuals/firms, on (market) conduct or qualifications of staff or disciplinary ru les which 
+could trigger sanctions in case of infringements .  Another typical feature of SROs is that the 
+organization also enforces such rules.
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+54 
+In summary, SROs are organizations that:  
+• Establish rules of eligibility that must be satisfied in order for ind ividuals or firms to 
+participate in any significant securities activity or 
+• Establish and enforce binding rules of trading, business conduct and qualification for 
+individuals and/or firms engaging in securities activities or 
+• Establish disciplinary rules and /or conduct disciplinary proceedings, which would 
+enable the SRO to impose appropriate sanctions for non-compliance of its rules. 
+If self-regulation is used, the SRO should be subject to appropriate oversight by the regulator.
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+55 
+3. Principle 9 
+Principle 9 Where the regulatory system makes use of Self-Regulatory Organizations 
+(SROs) that exercise some direct oversight responsibility for their 
+respective areas of competence, such SROs should be subject to the 
+oversight of the Regulator and should observe standards of fairness and 
+confidentiality when exercising powers and delegated responsibilities. 
+The Principles recognize the value that a properly regulated SRO can play and set out general 
+recommendations for the proper authorization and oversight of SROs.  However, the use of 
+SROs is a discretionary policy option and , therefore, the absence of SROs in a jurisdiction 
+should have no assessment implication. 
+The “appropriate use” of an SRO is related to: 
+1. The SRO’s capacity to carry out the purposes of relevant governing laws, regulations, 
+including the development and implementation of SRO rules as well as the monitoring 
+and enforcement of compliance by its members and associated persons with those laws, 
+regulations and rules as reflected in the SRO ’s regulatory authorization requirements 
+and oversight program. 
+2. The adequacy of the regulator’s oversight. 
+3. The augmentation of regulatory resources by utilizing the SRO ’s expertise, its 
+proximity to the market and its flexibility in addressing issues that arise in the changing 
+market environment. 
+4. Adequate standard s of corporate governance, to effectively manage the conflicts of 
+interest inherent to the activity of self-regulation. 
+“Inappropriate use” of an SRO by extension might include the exercise of SRO functions by 
+an unauthorized entity or without regulatory oversight, designation of private sector institutions 
+that demonstrate an insufficient capability to meet standards of authorization, delegation or 
+enforcement to perform SRO functions, evidence of misuse of quasi-governmental powers, or 
+insufficient performance of the functions of self-regulation. 
+The regulator should require an SRO to meet appropriate standards bef ore allowing the 
+organization to exercise its authority.  These standards must include, inter alia, the ability to: 
+• Enact rules that prohibit fraudulent and manipulative practices. 
+• Maintain the organization and capacity to monitor compliance and have a disciplinary 
+mechanism to enforce rules, inter alia, expulsion; suspension; limitation of activities, 
+functions, and operations; fine; censure and suspend or bar. 
+Oversight of the SRO should be ongoing. 
+Moreover, once the SRO is operating, the regulator should assure itself that the exercise of this 
+power is in the public interest and protects investors, and results in fair, effective and consistent 
+enforcement of applicable securities laws, regulations and appropriate SRO rules.
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+56 
+The effectiveness of an SRO may be compromised by conflicts of interest.  The r egulator 
+should monitor and address the potential that may arise for conflicts of interest.  The regulator 
+must ensure that no conflict s of interest arise because of the SRO’s  access to valuable 
+information about market participants (whether or not they are members of the SRO itself).  
+The risk of conflicts arising may be acute when the SRO (e.g., an exchange) is responsible both 
+for the supervision of its members and the regulation of a market sector. 
+Regardless of the extent to which self -regulation is used , the regulator should retain the 
+authority to inquire into matters affecting investors or the market.  Where the powers of an 
+SRO are inadequate for inquiring into or addressing particular misconduct or where a conflict 
+of interest necessitates it, the regulator should take over the responsibility for an inquiry from 
+an SRO.  It is important, therefore, to ensure that the information provided by the SRO to the 
+regulator allows these matters to be identified at an early stage.  
+SROs should follow similar professional standards of behaviour on matters such as 
+confidentiality and procedural fairness as would be expected of the regulator.44 
+In assessing this Principle, the assessor should consider whether an SRO’s powers and levels 
+of oversight are consistent with its functions and responsibilities.  Like a regulatory authority, 
+an SRO’s processes should be fair and consistent; its decisions should be subject to regulatory 
+review; it should protect the confidentiality of its data; and it is the professional responsibility 
+of its staff that their conduct should be similar to that expected of regulator staff.  The regulator 
+should have full authority to oversee effectively any SRO. 
+ 
+Key Issues 
+Authorization  
+1. As a condition of authorization, the legislation or the regulator should require an SRO 
+to demonstrate that it: 
+(a) Has the capacity to carry out the purposes of relevant governing laws, 
+regulations and SRO rules and to enforce compliance by its  members and 
+associated persons subject to those laws, regulations, and rules. 
+(b) Treats all members of the SRO and applicants for membership in a fair and 
+consistent manner. 
+(c) Develops rules that are designed to set standards of behaviour for its members 
+and to promote investor protection and market integrity. 
+(d) Submits to the regulator its rules for review and/or approval, as the regulator 
+deems appropriate, and ensures that the rules of the SRO are consistent with the 
+public policy requirements established by the regulator. 
+(e) Cooperates with the regulator and other SROs to investigate and enforce 
+applicable laws and regulations. 
+                                                 
+44 SROs are generally non-governmental agencies and so will not always be subject to the same standards as 
+apply to a government agency.
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+57 
+2. The SRO should have:  
+(a) statutory delegation or other formal recognition from the regulator; and 
+(b) MoUs or other arrangements in place to secure cooperation between it and the 
+regulator. 
+3. Its own rules which are enforced and whose non- compliance is appropriately 
+sanctioned. 
+4. It should also: 
+(a) Assure a fair representation of members in selection of its directors and 
+administration of its affairs. 
+(b) Avoid rules that may create anti-competitive situations. 
+(c) Avoid using the oversight role to allow any market participant unfairly to gain 
+advantage in the market. 
+Oversight 
+5. Oversight should be ongoing to ensure that: 
+(a) An SRO meets the conditions of its authorization on an ongoing basis. 
+(b) The government regulator retains the authority to inquire into matters affecting 
+investors or the market. 
+(c) Where the powers of an SRO are inadequate to investigate, or otherwise to 
+address, alleged misconduct or where the SRO ha s a conflict of interest that 
+cannot be appropriately managed, the regulator conducts any necessary 
+investigation rather than the SRO. 
+(d) An SRO provides information to the regulator that allows matters requiring 
+regulatory intervention to be identified at an early stage. 
+Professional Standards 
+6. The SRO should adopt standards of confidentiality for its staff and standards of 
+procedural fairness applicable to its members comparable to those for the regulator. 
+Conflicts of Interest 
+7. The SRO should have procedures in place to address potential conflicts of interest.
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+58 
+Key Questions 
+Authorization or Delegation subject to Oversight 
+1. As a condition to authorization, does the legislation or the regulator require the SRO to 
+demonstrate that it:45 
+(a) Has the capacity to carry out the purposes of its governing laws, regulations and 
+SRO rules consistent with the responsibility of the SRO, and to enforce 
+compliance by its members and associated persons subject to its laws, 
+regulations and rules? 
+(b) Treats al l members of the SRO, applicants for membership and similarly 
+situated market participants subject to its rules in a fair and consistent manner? 
+(c) Develops rules that are designed to set standards for its members and to promote 
+investor protection? 
+(d) Submits to the regulator its rules and any amendments thereto, for review and/or 
+approval, as the regulator deems appropriate, and ensures that the rules of the 
+SRO are consistent with the public policy requirements established by the 
+regulator? 
+(e) Cooperates with the  regulator and other domestic SROs to investigate and 
+enforce applicable laws, regulations and rules? 
+2. Does the SRO:  
+(a) Have statutory delegation or other formal recognition from the regulator?  
+(b) Have MoUs or other arrangements in place to secure cooperation between it and 
+the regulator? 
+(c) Have its own rules which are enforced and whose non -compliance is 
+appropriately sanctioned? 
+(d) Where applicable, e.g., a mutualized organization, assures a fair representation 
+of members in selection of its board of directors and administration of its 
+affairs? 
+(e) Avoid rules that may create anti -competitive situations as defined in the 
+Explanatory Note? 
+(f) Avoid using the oversight role to allow any market participant unfairly to gain 
+an advantage in the market? 
+  
+                                                 
+45 In the case of a newly operational SRO, the applicant should demonstrate that it has programs and 
+procedures in place to meet the conditions of authorization, and ongoing and effective execution of such 
+programs or procedures should be considered a condition of authorization.
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+59 
+Oversight  
+3. Does the regulator: 
+(a) Have in place an effective ongoing oversight program of the SRO, which may 
+include: 
+(i) inspection of the SRO; 
+(ii) periodic reviews; 
+(iii) reporting requirements;  
+(iv) review and revocation of SRO governing laws, regulations, and rules; 
+and 
+(v) the monitoring of continuing compliance with the conditions of 
+authorization or delegation. 
+(b) Retain full authority to inquire into matters affecting the investors or the market? 
+(c) Take over or support an SRO’s responsibilities where the powers of an SRO are 
+inadequate for inquiring into or addressing particular misconduct or allegations 
+of misconduct or where a conflict of interest necessitates it? 
+Professional Standards similar to those Expected of a Regulator 
+4. Does the regulator, the law or other applicable regulation require the SRO to follow 
+similar professional standards of behaviour as would be expected of a regulator: 
+(a) On matters relating to confidentiality and procedural fairness?  
+(b) On the appropriate use of information obtained in the course of the SRO ’s 
+exercise of its powers and discharge of its responsibilities? 
+Conflicts of Interest 
+5. Does the regulator, the law or other applicable regulation assure that potential conflicts 
+of interest at the SRO are avoided or appropriately managed?  
+ 
+Explanatory Notes 
+Use of properly overseen SROs can expand regulatory resources in financial markets.
+46 
+The level and extent of regulatory oversight and the types of necessary powers and protections 
+may be affected by the structure of the SRO.  For example, there may be more concern for 
+conflicts of interest, or appropriate use of self -regulatory resources, in the case of for -profit, 
+demutualized markets.  Furthermore, in some markets, certain very specific functions are 
+delegated to the SRO and others are not.  Assessors must sensibly apply the Benchmarks in  
+  
+                                                 
+46 See also Principle 3.
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+60 
+this case, only requiring oversight of the functions performed and not testing powers or 
+attributes not performed by the SRO.  In addition, if an entity performs certain SRO functions, 
+for example an exchange, those SRO functions should be tested against Principle 9 as 
+applicable even though the exchange is authorized under Principle 33.  If, under consideration 
+of the criteria in the scope section, an SRO-function is performed, this activity will be captured 
+by Principle 9.  The assessments for Principle 33 and Principle 9 in this case should be 
+consistent.  Reference also may be made to other relevant Principles for testing the adequacy 
+of performance of regulatory functions by SROs where such functions are delegated to the 
+SRO.  
+Anti-competitive situations may include situations where the SRO acts in an exclusionary, 
+unfair or inequitable manner when governing access to the SRO, or when taking action with 
+respect to the enforcement, or promulgation or interpretation, of SRO rules and procedures in 
+a way that is not fair and equitable to similarly situated market participants.  Among other 
+things, regulatory oversight should be directed to the SRO undertaking its responsibilities in a 
+way that unreasonably prevents access to the market or that unreasonably creates barriers to 
+entry in the business of providing investment services that are unrelated to oversight of the 
+market or prudential concerns.  
+SROs that are public companies also should be subject to the governance provisions applicable 
+to other issuers.  See Principles 16 through 18. 
+ 
+Benchmarks  
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmat ive responses to all applicable Questions except, in the case of 
+Questions 2(d) and 2(e), the regulator does not have the power to require that the SRO:  
+(a) assures a fair representation of members in the selection of its board of directors 
+and the administration of its affairs; or 
+(b) avoids rules that may create anti-competitive situations;  
+provided that the SRO has relevant rules and procedures and/or there is a general law 
+that addresses these issues and there is not a record of substantial complaint. 
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 2(d), 
+2(e) and 5, provided that in the case of Question 5, the regulator can take over actions 
+undertaken by the SRO where these matters are at risk and there is no evidence of 
+obvious abuses. 
+Additionally, although the SRO may not have the power to assist in investigation of 
+compliance with applicable laws and regulations, the regulator  requires the SRO, as a 
+condition of authorization and on an ongoing basis, to make all relevant information 
+available to the regulator in regard to Question 1(e).
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+61 
+Not Implemented 
+Inability to demonstrate that the regulator can require an SRO to meet standards , or 
+failure to respond affirmatively to one or more of Questions 1(a), 1(b), 1(c), 1(d), 2(c), 
+2(f), 3(a), 3(b), 3(c), 4(a) or 4(b) or to Questions 1(e) or 5, absent the qualifications 
+under Partly Implemented , and/or a finding that the exercise of SRO functions in 
+practice occurs without oversight or there is demonstrable evidence of abuse or 
+insufficient performance of SRO functions.
+
+PRINCIPLE RELATING TO SELF -REGULATION  
+62 
+BIBLIOGRAPHY FOR PRINCIPLE RELATING TO SELF-REGULATION 
+ 
+ Document Principle Other 
+Principles 
+1 Issues Paper on Exchange Demutualization , Report of the 
+Technical Committee of IOSCO, June 2000,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD119.pdf 
+9  
+2 Model for Effective Self -Regulation, Report of the SRO 
+Consultative Committee of IOSCO, May 2000,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD110.pdf 
+9  
+3 Principles of Effective Market Oversight, Council of Securities 
+Regulators of the Americas, May 1995,  
+http://www.cvm.gov.br/ingl/inter/cosra/inter.asp  
+9
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+63 
+C. PRINCIPLES RELATING TO ENFORCEMENT  
+1. Preamble 
+Strong and rigorous enforcement of securities laws is fundamental to help foster investor 
+confidence and maintain fair and efficient markets.  Under the Principles, the term 
+“enforcement” should be interpreted broadly enough to encompass powers of inspection, 
+investigation and surveillance such that the regulator should be expected to have the ability, 
+the means, and a variety of measures to detect, deter, enforce, sanction, redress and cor rect 
+violations of securities laws. 
+Broadly interpreted, “enforcement” can be considered to take place across a continuum that 
+includes a range of activities and processes, such as: 
+• routine, risk-based and ad hoc inspections of regulated entities, including collecting 
+information from regulated entities necessary to establish and assess compliance, and 
+inspections prompted by tips and complaints from investors;  
+• surveillance of trading on organized platforms and gathering market intelligence more 
+generally; 
+• investigations in respect of regulated or unregulated entities, which may be prompted 
+by suspicion of misconduct; and  
+• taking action against non-compliance and misconduct, which may include enforcement 
+proceedings and seeking appropriate remedies and sanctions. 
+This list is not intended to be prescriptive or exhaustive.  Different regulators will have differing 
+values, goals and legal systems underlying their enforcement programs .  Accordingly, not all 
+of the activities and processes described above will be relevant to all regulators. 
+While Principles 10 and 11 are intended to establish the nature and extent of the regulator’s 
+powers, Principle 12 is designed to measure the ability of the regulator to use these powers , 
+and how effectively and credibly it exercises them .  Together they seek to determine a 
+regulator’s ability to monitor the entities subject to its supervision, to collect information on a 
+routine and ad hoc basis, and to take enforcement action  or otherwise effect corrective action 
+by regulated entities to ensure that persons and entities comply with relevant securities laws or 
+are sanctioned for non-compliance. 
+The assessment under these Principles requires a careful consideration of the legal system in 
+which the regulator operates .  The Principles contemplate both civil law and common law 
+systems and do not prescribe any specific enforcement model to be followed.  There are several 
+enforcement models that have been shown to be effective .  These include models in which 
+enforcement responsibilities are shared between several government or quasi -government 
+agencies, or in which responsibilities are shared with SROs. 
+It is important that not only are the legal mechanisms in place for ensuring inspection, 
+investigation, surveillance and enforcement powers, but that the authority has the ability to 
+carry out effective programs in each of these areas.  This includes ensuring that adequate 
+resources are devoted to enforcement because only through effective enforcement will 
+regulators most effectively deter future misconduct.   Enforcement of securities regulatory 
+requirements across the range of  entities and products in the capital markets is also of key 
+importance.  Principles 10, 11 and 12 are therefore highly interrelated with the specific 
+regulatory functions and responsibilities described under the Principles for Issuers, Collective 
+Investment Schemes, Market Intermediaries and Secondary and Other Markets.  Assessors
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+64 
+should ensure that the evaluation of Principles 10, 11 and 12 is consistent with the assessments 
+of the other Principles from an enforcement perspective in the assessed jurisdiction. 
+Under this framework, these Principles are relevant to the work of th e regulator on the basis 
+that they ensure the appropriate performance of the regulator’s functions and the effective 
+exercise of its enforcement and supervisory powers.   
+ 
+2. Scope 
+Mechanisms for ensuring enforcement of securities laws should be in force in all jurisdictions.  
+It is not necessary, however, that the responsibility for all aspects of enforcement of securities 
+laws be given to a single body. 
+Where enforcement is undertaken by an authority other than the regulator, or where 
+enforcement is shared b etween the regulator and another authority, cooperation among such 
+bodies is critical and the ability to do so in a timely and effective manner should be particularly 
+scrutinized.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+65 
+3. Principles 10 through 12  
+Principle 10 The Regulator should have comprehensive inspection, investigation and 
+surveillance powers. 
+Principle 10 is designed to address whether a regulator has comprehensive powers to conduct 
+inspections, investigations, and surveillance in relation to regulated entities in order to monitor 
+and assess compliance with relevant securities laws.  It covers the circumstances where, and 
+methods by which, the regulator may obtain information from regulated entities.  Principle 10 
+also addresses the regulator’s authority to conduct ongoing oversight and supervision of 
+regulated entities as a preventative measure. 
+The concept of inspection generally includes the routine activities that a regulator may 
+undertake in overseeing and supervising regulated entities in order to monitor compliance with 
+regulatory requirements, detect and deter non -compliance, and identify  risks and potential 
+issues.  These activities may vary among jurisdictions, and may include reviews of books, 
+records, continuous disclosure and other regulatory filings and other information in response 
+to an inquiry or as part of a reporting cycle.  They may also include on-site inspection or desk-
+based reviews.  For powers of inspection to be meaningful, regulated entities should be required 
+to make and keep records of their transactions and activities.  The regulator should also have 
+the power to carry out inspections of regulated entities on their premises without prior notice, 
+when it believes it is appropriate to verify compliance with regulatory requirements.    
+The suspicion of a breach of law should not be necessary to enable the regulator to require 
+information from or conduct inspections of regulated entities .  A regulator may choose to 
+determine when and how often to conduct routine or more focused inspections of  particular 
+regulated entities by fixing a schedule , considering risk assessment s and/or using other risk-
+based methods to set inspection priorities.   
+The concept of investigation generally includes activities that the regulator may undertake to 
+obtain information, records or statements.  An investigation may be prompted by findings from 
+an inspection, or by suspicion of a breach of securities law, with a view to determining if further 
+enforcement proceedings should be commenced. 
+Powers of inspection and investigation may be supported with the ability of the regulator or 
+other competent authority to take actions to ensure compliance with these powers, for example, 
+by seeking a court or judicial order to enforce the request to provide information to the 
+regulator. 
+The main focus of surveillance is usually on monitoring trading activity of listed securities on 
+authorized exchanges and regulated trading platforms .  However, surveillance can take 
+different forms and be conducted using a range of tools and technologies.  The regulator should 
+take advantage of the forms of surveillance that it considers appropriate for its market, which 
+may expand to include tracing connections and conducting more targeted monitoring of 
+particular persons subject to a regulator’s supervision (for example, individuals associated with 
+past misconduct) and having systems in place to alert the regulator when unusual or suspicious 
+trading patterns occur so that further inspections and investigations can take place.  
+In circumstances where inspection, investigation, surveillance or other regulatory enforcement 
+authority has been delegated to or is otherwise exercised by third parties, regulators should 
+maintain some level of oversight or involvement in order to avoid undue gaps.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+66 
+Key Issues 
+1. The reg ulator should have the power to require the provision of information in the 
+ordinary course of business, in response to an inquiry or as part of a reporting cycle, or 
+to carry out inspections of regulated entities’ business operations47 whenever it believes 
+it is appropriate to verify compliance with relevant standards.  
+(a) The suspicion of a breach of law should not be necessary to enable the regulator 
+to conduct inspections or require information of regulated entities. 
+(b) The regulator should be able to conduct on-site inspections of regulated entities. 
+2. The regulator should be able to require the provision of all information reasonably 
+needed to examine compliance with relevant standards, including books, records, 
+documents, communications and statements. 
+3. The regulator should have the power to conduct or supervise surveillance of trading 
+activity on its authorized exchanges and regulated trading platforms. 
+4. Where regulatory enforcement responsibilities are delegated to a third party, including 
+an SRO, the third party should be subject to disclosure and confidentiality requirements 
+that are as stringent as those applicable to the regulator.  
+ 
+Key Questions
+48 
+1. Does the regulator have the power to inspect a regulated entity’s business operations,49 
+including its books and records:  
+(a) Without giving prior notice? 
+(b) On-site? 
+2. Does the regulator have the power to obtain books and records and request data or 
+information from regulated entities without judicial action, even in the absence of 
+suspected misconduct: 
+(a) In response to a particular inquiry? 
+(b) On a routine basis? 
+                                                 
+47  See generally Outsourcing in Financial Services, Report of the Joint Forum, February 2005, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD184.pdf.  
+48  Questions for Principle 10 are generally taken from the Resolution on Principles for Record Keeping, 
+Collection of Information, Enforcement Powers and Mutual Cooperation to Improve the Enforcement of 
+Securities and Futures Laws, Resolution of the Presidents’ Committee of IOSCO, November 1997, 
+available at http://www.iosco.org/library/resolutions/pdf/IOSCORES15.pdf  (“Resolution on Record 
+Keeping”) and confirmed by the Multilateral Memorandum of Understanding concerning Consultation 
+and Cooperation and the Exchange of Information, Report of IOSCO, May 2002 (version revised May 
+2012), available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD386.pdf (the “IOSCO MMoU”). 
+49  “Regulated entity” includes authorized or licensed entities or persons.  These regulated entities remain 
+accountable to the regulator for any delegated activity.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+67 
+3. Does the regulator have the power to conduct or supervise surveillance of trading 
+activity on its authorized exchanges and regulated trading platforms? 
+4. Does the regulatory system have recordkeeping and record retenti on requirements for 
+regulated entities?50 
+5. Are regulated entities required:51  
+(a) To maintain records concerning client identity?52 
+(b) To maintain records that permit tracing of funds and securities in and out of 
+brokerage and bank accounts related to securities transactions? 
+6. Does the regulator have the authority to determine or have access to the identity of all 
+clients of regulated entities?53 
+7. Where a regulator 54 outsources or otherwise grants , or where legislation grants,  
+inspection or other regulatory enforcement authority to a third party, including an SRO: 
+(a) Does the regulator supervise the outsourced functions of the third party?   
+(b) Does the regulator have full access to information maintained or obtained by the 
+third party?  
+(c) Can the regulator cause changes/impro vements to be made in the third parties’ 
+processes? 
+(d) Is the third party subject to disclosure and confidentiality requirements that are 
+no less stringent than those applicable to the regulator? 
+ 
+Explanatory Notes 
+Full access to information maintained or obt ained by the third party includes access to 
+information being outsourced by the third party, taking into account that the SRO might use 
+some outsourced services for its surveillance and inspection activities.55 
+ 
+                                                 
+50  The FAQs to the IOSCO MMoU consider five years as the norm for maintenance of records (see 
+FAQ #41).  See also, Principles 29–32 for Market Intermediaries. 
+51  Key Question 4 is testing if a jurisdiction does have record keeping requirements and if there are retention 
+requirements for those records for regulated entities.  Key Question 5 is testing if a jurisdiction has specific 
+categories of documents that should be maintained by regulated entities.  These requirements can be found 
+in securities, banking, anti-money laundering or other laws of the jurisdiction and assessors should review 
+all relevant laws of the jurisdiction for these requirements.  
+52  See Principles on Client Identification and Beneficial Ownership for the Securities Industry, Report of 
+IOSCO, May 2004, p. 10, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD167.pdf.  See 
+also Initiatives by the BCBS, IAIS and IOSCO to Combat Money Laundering and the Financing of 
+Terrorism, Report of the Joint Forum, June 2003, p. 7, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD146.pdf.  
+53  See Principles on Client Identification and Beneficial Ownership for the Securities Industry, supra. 
+54  In the case of an SRO, the regulator should have these powers as a condition of continuing authorization.  
+See Principle 9. For this question, see generally Outsourcing in Financial Services, supra. 
+55  This footnote refers to Key Question 7(b).
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+68 
+Benchmarks 
+Fully Implemented   
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented   
+Requires affirmative responses to all applicable Questions, except to Question 7(c).  
+Partly Implemented   
+Requires affirmative responses to all applicable Questions, except to Questi ons 7(c) 
+and 7(d). 
+Not Implemented   
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b ), 2(a), 2(b), 3, 
+4, 5(a), 5(b), 6, 7(a) or 7(b).
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+69 
+Principle 11 The Regulator should have comprehensive enforcement powers. 
+While Principle 10 is limited to regulated entities, Principle 11 is intended to have wider 
+application to also include unregulated entities . Principle 11 deals with courses of action, 
+including investigations and proceedings, available to the regulator where a breach of relevant 
+securities laws by any person is suspected or identified.56 
+The regulator or other competent authority should, therefore, be provided with comprehensive 
+investigatory and enforcement powers.  Such powers may vary from jurisdiction to jurisdiction 
+and, for example, may include the powers described in the preamble to Principle 10, as well as 
+the power to:  
+• obtain information, records and statements from any entity or any persons involved 
+(whether regulated or unregulated) , directly or indirectly, or who may possess 
+information relevant to an investigation; 
+• commence actions and lay charges against persons suspected of misconduct or breach 
+of securities laws, and/or seek orders from courts or tribunals and/or to refer matters for 
+civil and/or criminal actions;  
+• seek or impose a range of effective, proportional and dissuasive administrative 
+sanctions where a breach is found, and to seek to enforce such sanctions where 
+necessary;  
+• make or seek temporary orders ( for example, the suspension of  trading) while an 
+investigation is, or proceedings are , taking place against the person suspected of 
+breaching securities laws; 
+• compel the attendance, statement or testimony  of individuals or representatives of 
+entities who have been charged or asked to provide evidence; 
+• allow for outcomes arrived at through alternative resolution mechanisms (for example, 
+through settlement, mediation or arbitration processes that may or may not be binding 
+on parties); 
+• appeal decisions and/or allow for appeals to be made. 
+It is not necessary that the responsibility for all aspects of enforcement of the securities law be 
+given to a single body.  There are several enforcement models that have been shown to be 
+effective.  These include models in which enforcement responsibilities are shared between 
+several government or quasi-government agencies or in which responsibilities are shared with 
+SROs.  
+The international nature of securities markets and the fact that, frequently, misconduct may 
+occur across several jurisdictions give rise to a number of particular issues. 
+                                                 
+56  See Resolution on Enforcement Powers, Resolution of the Presidents’ Committee of IOSCO, 
+November 1997, available at http://www.iosco.org/library/resolutions/pdf/IOSCORES14.pdf; and 
+Resolution on Record Keeping, supra.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+70 
+Legislation and the enforcement powers of the regulator should be sufficient to ensure that it 
+can be effective in cases of cross-border misconduct.  
+Details about the powers that an enforcement authority should have are described more 
+specifically in the IOSCO Multilateral Memorandum of Understanding c oncerning 
+Consultation and Cooperation and the Exchange of Information (the “IOSCO MMoU”).57 
+The general topic of international cooperation and its importance to effective regulation is 
+addressed in the Principles relating to Cooperation. 
+ 
+Key Issues 
+1. The regulator or other competent authority should have comprehensive investigative 
+and enforcement powers including the power: to seek court or judicial orders, or to take 
+action to enforce regulatory, administrative, or investigative requirements or decisions; 
+or to seek or impose  effective sanctions; or to initiate criminal proceedings or refer 
+matters to the criminal authorities.  
+2. The regulator or other competent authority should be able to obtain data, information, 
+documents, books and records, and to take at least voluntary statements or testimony 
+from any person, including third party entitie s and individuals (whether regulated or 
+unregulated), that are either involved in relevant conduct or who may have information 
+relevant to a regulatory or enforcement inquiry/investigation. 
+3. Enforcement powers should not compromise private rights of action.  Private persons 
+should be able to seek their own remedies (including, for example, for compensation, 
+damages or specific performance of an obligation). 
+4. Where the exercise of enforcement powers requires the action of more than one 
+regulator or other compe tent authority, prompt cooperation, including information 
+sharing between them, should be possible for investigative and enforcement purposes.
+58 
+ 
+Key Questions 
+1. Does the regulator or other competent authority have the investigative and enforcement 
+power to enforce compliance with the laws and regulations relating to securities 
+activities? 
+2. Does the regulator or other competent authority have the following powers:  
+(a) Power to seek court or judicial orders, to refer matters for civil proceedings or 
+to take other action to ensure compliance with regulatory, administrative, and 
+investigative requirements or decisions? 
+(b) Power to impose effective, proportionate and dissuasive administrative  
+sanctions?
+59  
+                                                 
+57   See Article 7 of the IOSCO MMoU, supra. 
+58  Principles 1 and 13. 
+59  Principle 10, Key Questions.  See also the Resolution on Record Keeping, supra.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+71 
+(c) Power to initiate criminal proceedings or to refer matters for criminal 
+prosecution? 
+(d) Power to order the suspension of trading in securities or to take other appropriate 
+actions?60  
+3. Does the regulator or other competent authority have the investigative and enforcement 
+power to require and to obtain from any person, incl uding third party entities and 
+individuals (whether regulated or unregulated), that are either involved in relevant 
+conduct or who may have information relevant to a regulatory or enforcement 
+inquiry/investigation:
+61 
+(a) Contemporaneous records sufficient to reconstruct all securities and derivatives 
+transactions, including records of all funds and assets transferred into and out 
+of bank and brokerage accounts relating to those transactions?  
+(b) Records for securities and derivatives transactions that identify:  
+(i) The client: 
+(1) Name of the account holder? 
+(2) Person authorized to transact business?  
+(ii) The amount purchased or sold?  
+(iii) The time of the transaction?  
+(iv) The price of the transaction?  
+(v) The individual and the bank or broker and brokerage house that handled 
+the transaction? 
+(c) Information located in its jurisdiction identifying persons who beneficially own 
+or control non-natural persons organized in its jurisdiction? 
+(d) Statements or testimony?
+62 
+(e) Any other information including documents and bank records? 
+4. Can private persons seek  their own remedies for misconduct relating to the securities 
+laws?63  
+                                                 
+60  Other actions include the imposition of trading restrictions or requirements on individual market 
+participants, e.g., position limits, reporting requirements, liquidation-only trading, special margin 
+requirements or other corrective actions.  Some jurisdictions also can seek compensatory remedies.  The 
+specific actions listed in Key Question 2(d), and in this footnote, are exemplary and are not necessary to 
+receive a Fully Implemented assessment provided the regulator can demonstrate that available sanctions 
+are proportionate, dissuasive and effective. 
+61  Resolution on Record Keeping, supra and the IOSCO MMoU, supra.  This question may be answered in 
+the affirmative if one competent authority has the authority to share all required information, including 
+information originally in the possession of another competent domestic authority, with its foreign 
+counterpart. See also Principle 10 and Principle 13, Key Question 1. 
+62  A regulator should be enabled to obtain at least voluntary statements. 
+63  Such actions need not be taken directly under the securities laws, but could be under provisions within the 
+general law.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+72 
+5. Where an authority other than the regulator must take enforcement or other corrective 
+action, can the regulator share information obtained through its regulatory or 
+investigation activities with that authority?  
+6. Where the regulator is unable to obtain information in its jurisdiction necessary to an 
+investigation is there another authority that can obtain the information?64  
+7. If yes: Are there respective arrangements between the regulator and the other domestic 
+authority with regard to the respective exchange of information in place?65 
+ 
+Explanatory Notes   
+The assessor must determine how the jurisdiction’s enforcement program is designed to use 
+the powers accorded.
+66  The sufficiency of the powers may depend on the ability to demonstrate 
+that they are exercised effectively.  The scope of the investigative and enforcement powers 
+conferred on the regulator and/or on other authorities, including public prosecuting authorities, 
+depends on the conduct under investigation and the legal system applicable in the jurisdiction.  
+The assessor should inquire whether the system, as such , is able effectively to detect, 
+investigate and prosecute violations of the securities laws.  
+Regulators and other competent authorities should recognize in applying their investigative and 
+enforcement powers that securities fraud or other securities misconduct often takes unusual, 
+complex or new forms.  They should be prepared to apply their laws to such unusual forms of 
+fraud and to contribute actively to develop their respective legislation, and 
+surveillance/inspection and investigation methodologies, where necessary. 
+The assessor also should inquire of the regulatory authority as to its view of the adequacy of 
+available sanctioning powers and powers to take corrective action. 
+Examples of measures used to enforce securities regulatory requirements and to deter and 
+sanction securities violations include: fines; disqualification; suspension and revoca tion of 
+authority to do business; injunctions or cease and desist orders, directly or through court order; 
+asset freezes, directly or through court order; action against unlicensed persons in conducting 
+securities transactions or referral of such activities to the criminal authorities;
+67 measures to 
+enforce disclosure and financial reporting requirements for issuers; measures to enforce 
+conduct of business, capital requirements and other prudential rules; and measures to enforce 
+recordkeeping and reporting by market intermediaries,
+68 operators of authorized exchanges, 
+regulated trading systems and collective investment schemes, and other regulated securities 
+entities. 
+Such sanctions are examples only and the regulator must demonstrate that there is a spectrum 
+of sanctions available that are proportionate, dissuasive, effective, and sufficient to cover the 
+spectrum of securities' violations. 
+                                                 
+64  See Principle 15, Key Question 8. 
+65  A respective arrangement could be an undertaking or an MOU. 
+66  Principle 12. 
+67   “Enforcement program” may be broadly understood as all the measures that are taken by a regulator in 
+order to use the powers it has. 
+68  An example of a measure to enforce reporting requirements would be the power to require an amended 
+financial report or disclosure statement.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+73 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions and, where cooperation 
+among another authority and the regulator is necessary to take action, that such action 
+is responsive to the priorities of the securities regulator and timely. 
+Broadly Implemented   
+There is no Broadly Implemented rating for this Principle.
+69 
+Partly Implemented   
+Requires affirmative responses to all applicable Questions except to Question 4.  
+Not Implemented   
+Inability to withdraw or suspend a licence , or inability to respond affirmatively to one 
+or more of Question 1, 2(a), 2(b), 2(c), 2(d), 3(a), 3(b), 3(c), 3(d), 3(e), 5, 6, or 7 or 
+demonstrated failures in cooperation arrangements. 
+ 
+                                                 
+69  Nevertheless, the grade Broadly Implemented could be applied on the basis of the “Assessment Measures” 
+described in the Introduction to this Methodology.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+74 
+Principle 12 The regulatory system should ensure an effective and credible use of 
+inspection, investigation, surveillance and enforcement powers and 
+implementation of an effective compliance program. 
+Principle 12 requires the regulator to demonstrate how the regulatory system in place, and its 
+own organization, provides for an effective and credible use of inspection, investigation, 
+surveillance and enforcement powers and compliance programs .  In particular, the regulator 
+should be able to demonstrate that there is a system to take effective inspection, investigation, 
+surveillance and enforcement actions and that, where appropriate, actions have been 
+undertaken t o address misconduct or abuses .  An effective program, for example, could 
+combine various means to identify, detect, deter and sanction such misconduct.  A wide range 
+of possible sanctions could meet the standards according to the nature of the legal syste m 
+assessed.  The regulator, however, should be able to provide documentation that demonstrates 
+that sanctions available (whatever their nature) are effective, proportionate and dissuasive.  
+Sections of the Principles that address specific functions also address possible sanctions. 
+The regulator should be able to demonstrate that an effective and credible use of inspection, 
+investigation, surveillance and enforcement powers has been made and will be made in the 
+future.  The effective and credible use of powers depends on adequate powers, proper resources 
+and the capacity to perform its functions and exercise its powers.  Whereas Principles 10 and 11 
+establish the nature and extent of the regulator’s enforcement powers, and Principle 3 addresses 
+resources in g eneral, Principle 12 covers the use of the resources by the regulator in the 
+performance of its functions and exercise of its enforcement powers. 
+In particular, the regulator should be able to demonstrate and explain how its powers are 
+exercised by: 
+• The regulatory actions undertaken in the jurisdiction.  This may include the manner in 
+which concerns raised through inspections, surveillance or compliance reviews may 
+lead to investigation and enforcement proceedings.  
+• The compliance programs that it requires regulated entities to have in place to prevent, 
+detect and correct securities law violations.  For example, a compliance program may 
+include establishing internal controls, day- to-day supervision, and monitoring of 
+activities within the entity and a requirement for written policies and procedures to be 
+communicated to employees of the entity.  The regulator should monitor the entity’s  
+compliance with policies and procedures.   
+• The type of ongoing and ad hoc inspections performed in the jurisdiction (see Principle 
+10 for a description of the term “inspections”).  For example, the regulator may have a 
+method for determining the frequency and scope of inspections of regulated entities, or 
+may have a risk-based process for setting inspection priorities and scope.  
+• The investigation and enforcement actions undertaken in the jurisdiction.  This may 
+include the regulators’ ability to detect and gather the information necessary to exercise 
+these actions, which may involve partner s such as other regulators, SROs and law 
+enforcement agencies. 
+• The sanctions imposed, or other corrective action effected, with respect to misconduct 
+detected within the jurisdiction.  Regulators may have and use a range of regulatory 
+responses and sanctions to deter potential misconduct, which will allow the regulator 
+to seek remedies that are effective, proportional and dissuasive.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+75 
+Key Issues  
+1. In order to have an effective and credible enforcement system, it is not sufficient for a 
+regulator simply to have the statutory powers set out in the Principles.  The regulator 
+should be able to:  
+(a) Detect suspected breaches of the law in an effective and timely manner. 
+(b) Gather the relevant information necessary for investigating such potential 
+breaches. 
+(c) Be able to u se such information to take action where a breach of the law is 
+identified. 
+(d) Demonstrate that it has programs in place and utilizes its resources in order to 
+effectively exercise activities according to Key Issues 1(a) to (c). 
+2. In addition, the regulator should require a compliance system to be in place for 
+regulated entities aimed at preventing, detecting and correcting securities law 
+violations, which includes: 
+(a) Inspections or self -reviews using methodologies and techniques which are 
+adequate, but which may vary from jurisdiction to jurisdiction. 
+(b) Other monitoring or surveillance techniques. 
+ 
+Key Questions 
+Detecting Breaches 
+1. Is there an effective system of inspection in place whereby the regulator carries out 
+inspections: 
+(a) On a routine periodic basis? 
+(b) Based upon a risk assessment?  
+(c) On a non- periodic basis in response to intelligence received (e.g. investor 
+complaints, and tips and complaints from other sources)?  
+2. Is there an automated system which identifies unusual transactions on authorized 
+exchanges and regulated trading systems? 
+3. Can the regulator demonstrate adequate mechanisms and procedures to detect and 
+investigate: 
+(a) Market and/or price manipulation? 
+(b) Insider trading? 
+(c) Misrepresentations of material information or other fraudulent or manipulative 
+practices relating to securities and derivatives? 
+(d) Failure of compliance with other regulatory requirements, for example: conduct 
+of business, capital adequacy, disclosure, or segregation of client assets?
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+76 
+4. Does the regulator have an adequate system to receive and r espond to the intelligence 
+that it receives?  
+Compliance System 
+5. Does the regulator require regulated entities to have in place supervisory and 
+compliance procedures reasonably designed to prevent securities law violations?   
+6. Does the regulator monitor how compliance procedures are executed and 
+communicated to employees of such entities? 
+7. Can the regulator take measures against or discipline or sanction regulated entities for 
+failure to supervise reasonably subordinate personnel whose activities violate the 
+securities laws? 
+8. Does the regulator require market surveillance mechanisms that permit an audit of the 
+execution and trading of all transactions on authorized exchanges and regulated trading 
+systems?
+70 
+Effectiveness 
+9. Based on articulated criteria,  does the regulator or other competent authority have an 
+effective enforcement program in place in order to enforce securities laws? 
+ 
+Explanatory Notes 
+In assessing this Principle, the assessor also should refer to Principles 10 and 11 with respect 
+to powers, Principles 13 and 15 with respect to cooperation and Principles 2 and 3 with respect 
+to adequacy of resources, procedures and accountability of regulators. 
+The assessor should assess whether there is evidence of an effective system in place to detect 
+breaches, gather and use information, promote compliance and sanction non-compliance, using 
+inspection, investigation, surveillance, and enforcement powers.  There should be effective and 
+credible use of these powers in respect of the various areas of securities regulation. 
+The regulator or third party, including a n SRO, should be able to demonstrate to the assessor 
+records and other material evidence that describe enforcement activities including legislative 
+provisions, published guidance, and illustrative press releases covering relevant enforcement 
+cases, complaints and dispositions, if public.   
+In assessing a risk-based inspection program, the assessor should determine how priorities are 
+set and how they are adjusted or updated, for example, by use of re view of periodic financial 
+reports or other mechanisms.  It is sufficient that a system for the redress of complaints under 
+the regulatory framework be addressed through an ombudsman, external dispute -resolution 
+provision or other third party scheme or through oversight of individual firm arrangements. 
+In assessing the effectiveness of an enforcement program, the assessor should assess whether 
+the regulator uses the powers set forth in Principle 11, Key Question 2(a) to 2(d). 
+The lack of skilled staff to operate an automated system referred to in Key Question 2 is a 
+strong indicator that the respective Question should be answered in the negative. 
+                                                 
+70  Assessors must check whether auditing of transactions is provided for and in fact has been performed.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+77 
+There is a strong indication that Key Question 3(a) and 3(b) cannot be answered affirmatively, 
+if Key Question 2 is answered negatively. 
+In relation to Key Question 9, assessors must articulate the metrics used to arrive at their 
+conclusions about the effectiveness of an enforcement program.  These metrics could, but not 
+need necessarily, include: (1) resources dedicated to an enforcement program; (2) level of fines 
+imposed per annum; (3) cost of capital in the jurisdiction as a proxy for investor confidence in 
+the enforcement program; (4) the number of cases filed per annum; and (5) number and type 
+of investigations conducted per year. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to either 1(a) or 1(b) and to all other applicable 
+Questions provided that, in the case of an affirmative response only to 1(b), there must 
+be some means to identify changes in risk priorities or status of firms potentially subject 
+to inspection and the ability to demonstrate effective coverage. 
+Broadly Implemented 
+Requires affirmative responses to either 1(a) or 1(b) and to all other applicable 
+Questions except to Questions 2, 4 and 8 and/or an investigation, surveillance and 
+enforcement system is in place but more resources need to be committed to ensure 
+effective management, adjustments in operation of the system may be necessary, or 
+certain desirable powers (see Principle 10) are necessary to augment the system to make 
+it more effective. 
+Partly Implemented 
+Requires affirmative responses to either Questions 1(a) or 1(b) and to Question 1(c), 
+3(a), 3(b), 3(c), 3(d), 5, 6, 7, and the regulator can demonstrate that it has an acti ve 
+enforcement and compliance program, although there are some deficiencies in 
+timeliness or coverage.  
+Not Implemented 
+Inability to respond affirmatively to both Question 1(a) and 1(b) or one or more of 
+Questions 1(c), 3(a), 3(b), 3(c), 3(d), 5, 6, 7 or 9.
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+78 
+BIBLIOGRAPHY FOR PRINCIPLES RELATING TO ENFORCEMENT 
+ 
+ Document Principle Other 
+Principles 
+1 Multilateral Memorandum of Understanding concerning 
+Consultation and Cooperation and the Exchange of 
+Information, Report of IOSCO, May 2002 (version revised 
+May 2012), 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD386.pdf  
+ “IOSCO MMoU” 
+10 
+11 
+12 
+13 
+14 
+15 
+2 Outsourcing in Financial Services, Report of the Joint 
+Forum, February 2005,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD184.pdf 
+10 18 
+31 
+3 Principles on Client Identification and Beneficial 
+Ownership for the Securities Industry , Report of IOSCO, 
+May 2004,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD167.pdf 
+10 31 
+ 
+4 Report on Securities Activity on the Internet III , Report of 
+the Technical Committee of IOSCO, October 2003,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD159.pdf  
+11 13 
+16 
+31 
+5 Initiatives by the BCBS, IAIS and IOSCO to Combat Money 
+Laundering and the Financing of Terrorism , Report of the 
+Joint Forum, June 2003, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD146.pdf 
+10 31 
+ 
+8 Securities Activity on the Internet II, Report of the Technical 
+Committee of IOSCO, June 2001,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD120.pdf  
+11 16 
+33 
+9 Securities Activity on the Internet , Report of the Technical 
+Committee of IOSCO, September 1998,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD83.pdf 
+11 13 
+16 
+31 
+33
+
+PRINCIPLES RELATING TO ENFORCEMENT  
+79 
+ Document Principle Other 
+Principles 
+10 Resolution on Principles for Record Keeping, Collection of 
+Information, Enforcement Powers and Mutual Cooperation 
+to Improve the Enforcement of Securities and Futures Laws, 
+Resolution of the President s’ 
+Committee of IOSCO, 
+November 1997,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES15.pdf 
+“Resolution on Record Keeping” 
+10 
+11 
+13 
+14 
+15 
+ 
+11 Resolution on Enforcement Powers , Resolution of the 
+Presidents’ Committee of IOSCO, November 1997,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES14.pdf 
+11 13
+
+PRINCIPLES RELATING TO COOPERATION  
+80 
+D. PRINCIPLES RELATING TO COOPERATION 
+1. Preamble 
+Principles 13, 14 and 15 address cooperation amongst regulators and their domestic and foreign 
+counterparts for investigations, enforcement and for supervision and other regulatory 
+purposes.71   
+The increasing internationalization of financial activities and the globalization of markets can 
+put information beyond the immediate reach of one individual regulator.  This puts an 
+additional emphasis on the need for international cooperation and information sharing among 
+regulators. 
+Fraud, mar ket manipulation, insider trading and other illegal activities, such as the 
+unauthorized provision of financial services that crosses jurisdictional boundaries, can and do 
+occur in a global market aided by modern telecommunications.  In addition, increasing numbers 
+of market participants are conducting business and regulated activity in and across multiple 
+jurisdictions.   
+Cooperation is vital to ensuring that compliance programs, as well as investigations and 
+enforcement actions are not impeded unnecessarily by jurisdictional boundaries.   
+Even within the same jurisdiction, there may be an important need to share information at a 
+domestic level.  Where there is more than one regulator or where the securities law overlaps 
+with the general law of a jurisdiction, the need for domestic cooperation may extend beyond 
+matters of enforcement and include information relevant to authorization to act in a particular 
+capacity and to the reduction of systemic risk, for example, where there are divisions in 
+responsibility for the securities, banking and other financial sectors.
+72  Principle 13 measures 
+the extent of a regulator’s ability to share information.  Principle 14 deals with whether the 
+regulator has mechanisms in place to establish when and how the regulator will share 
+information with its counterparts.  Principle 15 relates to the types of assistance that a regulator 
+may provide to a counterpart. 
+The IOSCO MMoU is designed to facilitate, among other things, the implementation of 
+Principles 13, 14 and 15.  Thus an authority which is not able to sign the IOSCO MMoU cannot 
+be fully implemented with regard to at least one of these Principles.  Conversely, accession to 
+the IOSCO MMoU is a strong indicator that these Principles are fully implemented since the 
+authority has the requisite legal authority to meet the international standards articulated in the 
+IOSCO MMoU.  However, accession to the IOSCO MMoU does not automatically lead to the 
+conclusion that the Principles are fully implemented since — for example — the authority 
+concerned may lack the resources and/or practical ability to assist properly at the time of the 
+Principles assessment. 
+                                                 
+71   Information sharing for supervision and other regulatory purposes may require, for example, among other 
+things: routine sharing of information on questionable activities and proven frauds; information on any 
+concern about an applicant in regard to licensing, authorization or eligibility determinations; listing or 
+registration of securities; information about the current circumstances of a licence holder or issuer; 
+information that may be needed to minimize the adverse effects of market disruptions, including 
+contingency plans, contact persons and structural measures to address market disruptions; and information 
+on market conditions, such as actions taken by market authorities, prices, trading activities, market data, 
+etc. 
+72  Principles 1 and 3.
+
+PRINCIPLES RELATING TO COOPERATION  
+81 
+International cooperation between regulators is also necessary for the effective regulation and 
+supervision of domestic markets.  T he inability to provide regulatory and supervisory 
+assistance can seriously compromise efforts towards effective securities regulation.  Domestic 
+laws need to remove impediments to international cooperation.73  
+ 
+2. Scope 
+The regulator should identify the agenc ies within the jurisdiction it needs to cooperate with, 
+the types of arrangements required and the purposes for cooperating.  For example, in some 
+jurisdictions it may be necessary to obtain information from another authority within the 
+jurisdiction, or to  rely on another authority to bring or to initiate a compliance review, 
+investigation or enforcement action.  The regulator should be able to demonstrate the gateways 
+or channels through which required information can be made available and that those channels 
+work when needed.  Additionally, the regulator should identify the laws of the jurisdiction, 
+such as blocking, bank secrecy or other types of legislation or judicial decisions, that can affect 
+its ability to cooperate with others. 
+The ability of a regulator to cooperate is closely related to its powers to obtain and keep 
+confidential the information requested by its foreign counterparts, as provided in the Principles 
+Relating to the Regulator and Principles for Self-Regulation, as well as in the IOSCO MMoU 
+and other cooperative arrangements.  
+ 
+                                                 
+73   Report on the Self-Evaluation Conducted by IOSCO Members Pursuant to the 1994 IOSCO Resolution on 
+“Commitment to Basic IOSCO Principles of High Regulatory Standards and Mutual Cooperation and 
+Assistance”, Report of IOSCO, November 1997, Parts C and D at pp. 8–9, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD76.pdf; Securities Activity on the Internet, Report of 
+the Technical Committee of IOSCO, September 1998, in particular Key Recommendations 21–24, 
+available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD83.pdf.
+
+PRINCIPLES RELATING TO COOPERATION  
+82 
+3. Principles 13 through 15 
+Principle 13 The Regulator should have authority to share both public and non-public 
+information with domestic and foreign counterparts. 
+This Principle addresses the power of the regulator(s) to share public and non- public 
+information within its files, or available to it through inspection,  investigation, and 
+surveillance, without other external process.  When sharing non-public information, care must 
+be taken by the requested regulatory authority to ensure that the use of such information is 
+consistent with the purpose for which it is shared and to preserve its conf identiality subject to 
+such uses. 
+There may be an important need to share information at a domestic level with other domestic 
+authorities.  Cases of fraud or money laundering that involve dealings in securities may require 
+close cooperation between two or more domestic agencies including law enforcement, 
+regulatory and judicial authorities.  The need for domestic cooperation is also important in the 
+context of supervision and will include information relevant to authorization to act in a 
+particular capacity and the reduction of systemic risk, especially where there are divisions in 
+responsibility for the securities, banking and other financial sectors. 
+International cooperation between regulators is necessary for the effective regulation and 
+supervision of domestic markets.  The inability to provide regulatory and supervisory 
+assistance can seriously compromise efforts towards effective securities regulation.  Domestic 
+laws need to remove impediments to international cooperation. 
+The removal of any “dual ille gality” conditions to information sharing and regulatory 
+cooperation is essential.  As a transitional matter, while a jurisdiction moves towards the 
+removal of dual illegality conditions, it is essential that any conditions be interpreted flexibly 
+and in a manner that minimizes impact on international cooperation. 
+While regulators have different supervisory approaches, each has a common interest in 
+information-sharing and cooperation based on earned trust in each other’s regulatory and 
+supervisory systems.
+74 
+The form and content of the cooperation will vary from case to case. 75  It is essential that 
+assistance can be provided not only for use in investigations but also for other types of inquiries, 
+for example as part of a program for the purpose of monitoring compliance or preventing illicit 
+activities within the scope of securities regulation .  Regulators may also assist each other in 
+providing or sharing enforcement techniques.   
+                                                 
+74   See Executive Summary to Principles Regarding Cross-Border Supervisory Cooperation, Final Report, 
+Report of the Technical Committee of IOSCO, May 2010, pp. 3–6, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD322.pdf.  
+75    Cooperation may require: routine sharing of information on questionable activities and proven frauds; 
+information on any concern about an applicant for licensing, listing or registration; information about the 
+current circumstances of a licence holder or issuer; information that may be needed to minimize the 
+adverse effects of market disruptions, including contingency plans, contact persons and structural measures 
+to address market disruption; and information on market conditions such as actions taken by market 
+authorities, prices, trading activities, and market data, Multi-Jurisdictional Information Sharing for Market 
+Oversight, Final Report, Report of the Technical Committee of IOSCO, April 2007, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD248.pdf
+.
+
+PRINCIPLES RELATING TO COOPERATION  
+83 
+Information that was provided to a regulator for investigation and enforcement purposes should 
+be able to be shared directly or indirectly through authorities in their jurisdiction for use in 
+investigation and prosecution (administrative, civil and criminal) of securities violation.   
+Cooperation in the context of supervision is also important.  There is a need to exchange general 
+and more specific information about matters of regulatory concern, including financial and 
+other supervisory information, technical expertise and surveillance. The sharing of information 
+related to systemic risks should also be central to cooperation between jurisdictions, as assessed 
+in Principle 6.   
+Globally active regulated entities, particularly with regard to their compliance culture, financial 
+condition and risk exposure, must be subject to information sharing on an ad hoc basis and in 
+a more organized and specific manner.  
+ 
+Key Issues
+76 
+1. A regulator should be able to share both public and non- public information with other 
+domestic authorities. 
+2. A regulator should be able to share public and non- public information with its foreign 
+counterparts. 
+3. Domestic laws should not impede international cooperation through sharing of 
+information for regulatory, inspection, investigation, surveillance  or enforcement 
+purposes.  
+4. Where confidential information gathered by the regulator in the exercise of its functions 
+or powers is shared with another competent a uthority, either domestically or 
+internationally, the regulator should be able to ensure that the information is provided 
+subject to conditions which, to the extent consistent with the purpose of the release, 
+preserve the confidentiality of that information. 
+ 
+Key Questions 
+1. For each of the regulators identified,
+77 does the regulator have authority to share with 
+other domestic regulators and authorities information on: 
+(a) Matters of inspection, investigation and enforcement?  
+(b) Determinations in connection with authorization, licensing or approvals?  
+(c) Surveillance? 
+(d) Market conditions and events?  
+                                                 
+76  Resolution on Record Keeping, supra, Parts C and D at p.2.  See also the IOSCO MMoU, supra, Parts 6, 7, 
+10 and 11. 
+77  That is, the regulators which have responsibility for securities enforcement identified as part of the 
+assessment process.
+
+PRINCIPLES RELATING TO COOPERATION  
+84 
+(e) Client identification including persons who beneficially own or control non-
+natural persons organized in the regulator’s jurisdiction? 
+(f) Regulated entities? 
+(g) Listed companies and companies that seek a listing of their securities? 
+2. Can the regulator share the information described in Key Question 1 for regulatory and 
+enforcement purposes with other domestic authorities without the need for external 
+approval78 such as from a relevant government minister or attorney?  
+3. Does the regulator have the authority to share information with foreign counterparts 
+with respect to each of the matters listed in Key Question 1?79 
+(a) Matters of inspection, investigation and enforcement? 
+(b) Determinations in connection with authorization, licensing or approvals?  
+(c) Surveillance?  
+(d) Market conditions and events?  
+(e) Client identification including persons who beneficially own or control non-
+natural persons organized in the regulator’s jurisdiction?  
+(f) Regulated entities? 
+(g) Listed companies and companies that seek a listing of their securities? 
+4. Can the regulator share the information identified in Key Question 3 above, for 
+enforcement and regulatory purposes with foreign counterparts without the need for 
+external approval,
+80 such as from a relevant government minister or attorney?  
+5. Can the regulator provide information to ot her domestic and foreign authorities on an 
+unsolicited basis? 
+6. Can the regulator share information with foreign counterparts even if the alleged 
+conduct would not constitute a breach of the laws of the regulator ’s jurisdiction if 
+conducted within that jurisdiction?  
+7. Can the regulator share with domestic and foreign counterparts information and records 
+identifying the person or persons beneficially owning or controlling bank accounts 
+related to securities and derivatives transactions and brokerage accounts as well as the 
+necessary information to reconstruct a transaction, including bank records?
+81   
+                                                 
+78  If such approval is purely formalistic and occurs immediately, the regulator could receive a Fully 
+Implemented assessment even though such approval is required.  For example, in some jurisdictions, the 
+Attorney General or similar official signs off on actions as the chief legal authority in the system.  Ideally, 
+in domestic circumstances some sharing would be pre-approved. 
+79  This question may be answered in the affirmative if one competent authority has the authority to share all 
+required information, including information originally in the possession of another competent domestic 
+authority, with its foreign counterpart. 
+80  If such approval is purely formalistic and occurs immediately, the regulator could receive a Fully 
+Implemented assessment even though such approval is required.  See previous example in footnote 78. 
+81  IOSCO MMoU, supra, par. 7(b)(ii) at p. 4.
+
+PRINCIPLES RELATING TO COOPERATION  
+85 
+8. Does the regulatory system provide enough assurance that the confidential information 
+gathered by the regulator in the exercise of its functions or powers that is s hared with 
+another competent authority, either domestically or internationally, is subject to 
+appropriate rules of confidentiality? 
+ 
+Explanatory Notes 
+An application for a licence may be received from a person known to be registered in another 
+jurisdiction, or registration may be sought for the same offer documents in several jurisdictions.  
+Similarly, threats to systemic stability are not confined to domestic factors and may include the 
+behaviour of individual financial institutions in another jurisdiction.  
+Further, an increasing number of companies have securities listed in more than one jurisdiction 
+and it is common for a significant part of an issuer’s commercial activity to take place in a 
+country other than the one in which its stock is listed.  Inves tors frequently invest in foreign 
+markets and securities either directly or in managed funds.  An increasing number of collective 
+investment schemes are marketed across jurisdictional boundaries.  It is also common for 
+scheme promoters, managers, and custodians to be located in several different jurisdictions and 
+they may not be in the same jurisdiction as investors to whom the scheme is promoted.  
+Similar financial products may be traded on various markets in several countries; moreover, 
+there are many der ivatives in which the underlying product or reference price is traded, 
+produced or derived on foreign markets.  
+Notwithstanding the obligation to cooperate domestically, when information is passed through 
+an international channel, the uses of such information may be restricted to the uses specified in 
+the information sharing arrangement.  For example, when information is obtained by a foreign 
+counterpart under the IOSCO MMoU, it is not allowed to use this information outside the uses 
+contemplated by the IOS CO MMoU.  If there is a necessity to use this information in a way 
+which is not covered by the IOSCO MMoU the requesting a uthority must obtain the consent 
+of the requested authority. 
+If there are bank secrecy, confidentiality or blocking statutes, the regu lator should be able to 
+demonstrate whether there are exceptions to these statutes that allow the regulator to obtain 
+and share information with foreign counterparts. 
+Assessors should ask whether there have been court cases or other developments that cast doubt 
+as to whether the powers granted to the regulator are in fact enforceable.  
+The Principles recognize that the regulator can legitimately impose conditions when it shares 
+information, particularly non- public information, with its domestic and foreign counterparts.  
+Conditions might include ensuring appropriate use of the information and ensuring the 
+confidentiality of the information except pursuant to the uses permitted, such as in a public 
+enforcement action for which the information was requested.  See also Principle 14, which 
+addresses confidentiality safeguards more generally. 
+A request for assistance may be denied by a requested authority:  
+1. where the request would require the requested authority to act in a manner that would 
+violate domestic laws;  
+2. on grounds of public interest or essential national interest;
+
+PRINCIPLES RELATING TO COOPERATION  
+86 
+3. where a criminal proceeding has already been initiated in the jurisdiction of the 
+requested authority based upon the same facts and against the same persons, or the same 
+persons have already been the subject of final punitive sanctions on the same charges 
+by the competent authorities of the jurisdiction of the requested authority, unless the 
+requesting authority can demonstrate that the relief or sanctions sought in any 
+proceedings initiated by the requesting authority would not be of the same nature or 
+duplicative of any relief or sanctions obtained in the jurisdiction of the requested 
+authority; or 
+4. where the request is not made in accordance with the provisions of the IOSCO MMoU.   
+Where a request for assistance is denied, or where assistance is not available under domestic 
+law, the requested authority will provide the reasons for not granting the assistance and consult 
+with the requesting authority.  
+ 
+Benchmarks 
+Fully Implemented 
+Requires an affirmative response to all applicable Questions. 
+Broadly Implemented 
+Requires an affirmative response to all applicable Questions except to Questions 2 
+and 4, provided that information sharing still can occur in a timely fashion.  
+Partly Implemented 
+Requires an affirmative response to all applicable Questions except to Question 3(c) 
+provided that information can be made available in specific cases, Questions 2 and 4 if 
+the conditions for Broadly Implemented are not met, and Question 5. 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b), 1(c), 1(d), 
+1(e), 1(f), 1(g), 3(a), 3(b), 3(c), 3(d), 3(e), 3(f), 3(g) or 6, 7, 8, or such a significant 
+inability to act in a timely manner that the Principle cannot be regarded as implemented.
+
+PRINCIPLES RELATING TO COOPERATION  
+87 
+Principle 14 Regulators should establish information sharing mechanisms that set out 
+when and how they will share both public and non- public information 
+with their domestic and foreign counterparts 
+Securities regulators have long used MoUs to facilitate consultation, cooperation and the 
+exchange of information in securities enforcement matters.  These enforcement MoUs permit 
+regulators who suspect there has been a violation of their laws and/or regulators to seek ad hoc 
+assistance from their overseas counterparts when evidence of the possible violation may lie 
+outside their jurisdictions.  Most of these MoUs have been entered into on a bilateral basis; 
+since 2005 the IOSCO MMoU has beco me the mandatory global minimum standard for 
+enforcement cooperation among securities regulators.  
+More recently, securities regulators have come to recognize that effective supervision and 
+oversight in today’s global environment requires that regulators b e equipped with tools not 
+only for assistance in securities enforcement (which are by nature ad hoc and focus on sharing 
+information related to a particular possible violation), but also both ad hoc and ongoing 
+regulatory cooperation in the supervision of regulated entities.  Such cooperation is critical to 
+help ensure the seamless and efficient regulation of globally active regulated entities, in a 
+manner fully consistent with the laws and requirements of all the jurisdictions involved.  Much 
+of this collaboration and cooperation has developed on an ad hoc basis but more established 
+forms, including MoUs and supervisory colleges, have also been established. 
+MoUs facilitate the process of information  exchange by establishing a more formalized 
+mechanism or framework that makes clear permitted uses, confidentiality arrangements, and 
+other operational procedures between the parties.  
+ 
+Key Issues
+82 
+1. The design of information-sharing mechanisms should take into account the following 
+factors:  
+(a) Which market authority or regulator has access to and is able to provide the 
+information or assistance.  
+(b) How such access can be obtained under applicable law. 
+(c) Confidentiality under applicable law. 
+(d) Permitted use under applicable law. 
+(e) The form and timing of the assistance or information sharing. 
+(f) The applicability of other arrangements, including MOUs between such 
+authorities for sharing investigative and financial information.    
+                                                 
+82  See Principles Regarding Cross-Border Supervisory Cooperation, supra, Chapter 8 (Mechanisms for 
+Supervisory Cooperation) at pp. 31–37; Principles for Memoranda of Understanding, Report of the 
+Technical Committee of IOSCO, September 1991, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD17.pdf, supra, Part 2.
+
+PRINCIPLES RELATING TO COOPERATION  
+88 
+2. Where confidential information gathered by the regulator in the exercise of its functions 
+is shared with another authority, particular care must be taken to ensure that the 
+information is provided subject to conditions, which, to the extent c onsistent with the 
+purpose of its release, preserve the confidentiality of that information.  
+3. The regulator should be able to maintain the confidentiality of the request consistent 
+with Article 11 of the IOSCO MMOU. 
+ 
+Key Questions  
+1. Does the regulator have the power, by legislation, rules or as a matter of administrative 
+practice, to enter into information -sharing agreements (whether formal or informal) 
+with other domestic authorities? 
+2. Does the regulator have the power, by legislation, rules or as a matter of administrative 
+practice, to enter into information -sharing agreements (whether formal or informal) 
+with foreign counterparts?  
+3. Is the regulator a signatory to the IOSCO MMoU (in the affirmative, please skip 
+Question 4(a))? 
+4. Has the relevant regulator developed information-sharing mechanisms to: 
+(a) Facilitate the detection and deterrence of cross-border misconduct?  
+(b) Assist in the discharge of licensing, surveillance and enforcement 
+responsibilities?83 
+5. Where warranted by the scope of cross- border activity and the ability to provide 
+reciprocal assistance, does the regulator actively try to establish information -sharing 
+arrangements with foreign regulators?  
+6. Are these arrangements documented in writing? 
+7. Does the regulator take steps to assure safeguards are in place to protect the 
+confidentiality of information transmitted consistent with its uses? 
+8. Can the regulator maintain the confidentiality of the request for information received 
+from a foreign regulator consistent with Article 11 of the IOSCO MMOU?  
+9. Can the regulator demonstrate that it shares information, where appropriate safeguards 
+are in place, when it is requested by another domestic authority or foreign counterpart?  
+ 
+Explanatory Notes 
+This Principle can be satisfied through the use of a range of mechanisms for sharing entity -
+specific information and market-wide intelligence – each address different, albeit overlapping, 
+types of information-sharing.  Each mechanism also buttresses the others, makin g all of them 
+more effective when used in conjunction as part of a single overarching supervisory 
+cooperation strategy among IOSCO members.  All of these different mechanisms, however, 
+are likely to be useful to securities regulators for different purposes.  
+                                                 
+83  When the person that is the subject of the inquiry is known to the requested authority.
+
+PRINCIPLES RELATING TO COOPERATION  
+89 
+MoUs or other documented arrangements can help to add certainty, and in some cases, 
+expedition, to the process of information exchange.  Nonetheless, the mere formality of an 
+arrangement is no substitute for a close and cooperative arrangement. 
+The assessor should be able to provide actual evidence of the usefulness of existing 
+arrangements for cooperation.  For example, the jurisdiction should be able to demonstrate that 
+it can and does share information when requested to do so by another authority.  If this is not 
+possible, then the assessor should question the efficacy of either formal or informal 
+arrangements.  The assessment does not address whether the regulator obtains the information 
+directly or indirectly.
+84 
+The regulator should identify responses to requests for assistance and should provide examples 
+of successful and substantive responses.  The regulator should provide a list of the number of 
+requests for assistance received, the type of assistance requested for each request, and provide 
+examples of successful and substantive responses by the regulator.
+85  The regulator should also 
+provide information if there are instances where cooperation was denied and provide the 
+rationale for such denial.  If practical cases have not occurred, the regulat or should be able to 
+demonstrate that there are internal processes in place that address the aforementioned issues. 
+In the context of the IOSCO MMoU, the regulator should be able to demonstrate its practical 
+ability to share information required under the IOSCO MMoU and show actual instances in 
+which information required under the IOSCO MMoU was shared with foreign counterparts. 
+Under the IOSCO MMoU, each authority will keep confidential requests made under the 
+IOSCO MMoU, the contents of such request, and any matters arising under the IOSCO MMoU, 
+including consultations between or among a uthorities, and unsolicited assistance.  After 
+consultation with the requesting a uthority, the requested a uthority may disclose the fact that 
+the requesting a uthority has m ade the request if such disclosure is required to carry out the 
+request.  In this context, confidentiality with regard to requests and information received from 
+another authority is very important.  In accordance with Article 11(b) of the IOSCO MMoU, 
+the a uthority that has made a request will keep confidential non- public documents and 
+information received under the MMoU, except as contemplated by Article 10(a) of the IOSCO 
+MMoU or in response to a legally enforceable demand.   In the latter case, the request ing 
+authority should notify the requested authority prior to complying with the demand and assert 
+such appropriate legal exemptions or privileges with respect to the information concerned as 
+may be available.   
+The assessor should assess the extent to which the regulator has to comply with demands for 
+disclosure of other domestic authorities; see Articles 10 and 11 of the IOSCO MMoU. 
+Although the regulator may not be a signatory to the IOSCO MMoU, the assessor should seek 
+to assess the extent to which the r egulator can still facilitate the detection and deterrence of 
+cross-border misconduct. 
+ 
+                                                 
+84  This question may be answered in the affirmative if one competent authority has the authority to share all 
+required information, including information originally in the possession of another competent domestic 
+authority, with its foreign counterpart. 
+85  Consistent with confidentiality obligations (including Article 11 of the IOSCO MMoU), the regulator, in 
+providing examples of successful and substantive responses, should consider masking references that 
+identify its counterpart and any individuals or firms.
+
+PRINCIPLES RELATING TO COOPERATION  
+90 
+Benchmarks 
+Fully Implemented 
+Requires an affirmative response to all applicable Questions.  
+Broadly Implemented 
+Requires an affirmative response to all applicable Questions except to Question 6. 
+Partly Implemented 
+Requires an affirmative response to all applicable Questions except to Question 6 and 
+that an affirmative response to one or more of Questions 4(a), 4(b) and 5 is not required 
+if the regulator’s jurisdiction does not do substantial cross-border business and the need 
+for information sharing is infrequent and ad hoc. 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1, 2, 3, 7, 8 or 9, or 
+Questions 4(a), 4(b) or 5 if the regulator’s jurisdiction does more than an insubstantial 
+cross-border business, or there is evidence that information cannot be, and is not being, 
+shared in appropriate cases in a timely manner.
+
+PRINCIPLES RELATING TO COOPERATION  
+91 
+Principle 15 The regulatory system should allow for assistance to be provided to 
+foreign Regulators who need to make inquiries in the discharge of their 
+functions and exercise of their powers.  
+Effective regulation a nd supervision can be compromised when necessary information is 
+located in another jurisdiction and is not available or accessible.  Thus, a regulator should be 
+empowered to assist and provide information necessary to foreign regulators in the discharge 
+of their mandate and mission.  Without this ability, information gathering powers would be 
+insufficient to ensure proper regulation, supervision and enforcement of markets. 
+Fraud, market manipulation, insider trading and other illegal conduct that crosses jurisdictional 
+boundaries can and do occur in a global market aided by modern telecommunications. 
+The IOSCO MMoU was put in place with the goal of ensuring that a cooperative mechanism 
+exists among IOSCO m embers at the international level to facilitate the d etection and 
+deterrence of cross-border misconduct.  The IOSCO MMoU is considered to be the minimum 
+standard for international enforcement and cooperation.  It is therefore essential for IOSCO 
+members to have the legal authority to meet this minimum standard.  The IOSCO MMoU is a 
+benchmark for international cooperation, but should not be considered as limiting the ability of 
+members to sign other agreements that may go beyond what is prescribed in the IOSCO 
+MMoU. 
+Assistance in taking substantive action may also be necessary.  When it is within their powers,
+86 
+regulators can more effectively enforce securities laws when they are able to prevent the 
+concealment of the proceeds of fraud or other misconduct, thus facilitating the return of money 
+to injured investors.
+87  
+Supervisory assistance and cooperation is also essential in the context of activities of regulated 
+entities and issuers on markets across the world.  In 2010, IOSCO published a set of principles 
+to guide IOSCO members in developing cross-border cooperative supervisory arrangements,
+88 
+as well as a sample MoU that could assist IOSCO members in designing supervisory 
+cooperation MoUs.  Since then, a number of regulators have used these principles and the 
+sample MoU to promote information sharing for supervisory purposes. 
+ 
+                                                 
+86  Regulators are encouraged by the Resolution on Cross-Border Cooperation to Freeze Assets Derived from 
+Securities and Derivatives Violations, Resolution of the IOSCO Presidents’ Committee, June 2006, 
+available at https://www.iosco.org/library/resolutions/pdf/IOSCORES25.pdf, to examine the legal 
+framework under which they operate and strive to develop, through law reform or otherwise, mechanisms 
+by which they or another authority within their jurisdiction could, on behalf of a foreign regulator, freeze 
+assets derived from suspected and established cross-border securities violations and thereby deny 
+wrongdoers the benefit of their ill-gotten gains. 
+87  See generally, Measures Available on a Cross-Border Basis to Protect Interests and Assets of Defrauded 
+Investors, Report of the Technical Committee of IOSCO, July 1996, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD55.pdf.  
+88  See Principles Regarding Cross-Border Supervisory Cooperation, supra, which includes at Annex A an 
+Annotated Sample Memorandum of Understanding Concerning Consultation, Cooperation and the 
+Exchange of Information Related to the Supervision of Cross-Border Regulated Entities.
+
+PRINCIPLES RELATING TO COOPERATION  
+92 
+Key Issues89 
+1. A domestic regulator should be able to provide effective assistance to foreign regulators 
+who need to make inquiries under their competence, with respect to securities and 
+derivatives matters, including bank and brokerage  records and client identification 
+information, regardless of whether the domestic regulator has an independent interest 
+in the matter. 
+2. Assistance, including compulsory assistance, in obtaining records should be provided 
+to foreign regulators in securing compliance with securities and derivatives laws.  
+3. Regulators should be able to provide assistance, including obtaining court orders, to the 
+full extent of their powers. 
+4. Regulators should be able to provide information on financial conglomerates subject to 
+their supervision.   
+5. Regulators should be able to share information and provide assistance for effective 
+regulation and supervision of markets and market participants.  
+ 
+Key Questions
+90  
+1. Is the domestic regulator able to offer effective and timely assistance to foreign 
+regulators in obtaining:91  
+(a) Contemporaneous records sufficient to reconstruct all securities and derivatives 
+transactions, including records of all funds and assets transferred into and out 
+of bank and brokerage accounts relating to those transactions?  
+(b) Records for securities and derivatives transactions that identify:  
+(i) The client: 
+(1) Name of the account holder? 
+(2) Person authorized to transact business?  
+(ii) The amount purchased or sold?  
+(iii) The time of the transaction?  
+(iv) The price of the transaction?  
+(v) The individual and the bank or broker and brokerage house that handled 
+the transaction? 
+(c) Information located in its jurisdiction identifying persons who beneficially own 
+or control non-natural persons organized in its jurisdiction? 
+                                                 
+89  See generally Principles for Memoranda of Understanding, supra.  See also IOSCO MMoU, supra. 
+90  For these questions, see generally Principles for Memoranda of Understanding, supra; Resolution on 
+Record Keeping, supra; and IOSCO MMoU, supra.   
+91  This question may be answered in the affirmative if one competent authority has the authority to share all 
+required information, including information originally in the possession of another competent domestic 
+authority, with its foreign counterpart.  See also Principle 13.
+
+PRINCIPLES RELATING TO COOPERATION  
+93 
+2. Is the domestic regulator able to offer effective and timely assistance to foreign 
+regulators in securing compliance with laws and regulations related to: 
+(a) Insider dealing, market manipulation, misrepresentation of material information 
+and other fraudulent or manipulative practices relat ing to securities and 
+derivatives, including solicitation practices, handling of investor funds and 
+customer orders? 
+(b) The registration, issuance, offer or sale of securities and derivatives, and 
+reporting requirements related thereto?  
+(c) Market intermediaries , including investment and trading advisers who are 
+required to be licensed or registered, collective investment schemes, brokers, 
+dealers and transfer agents?  
+(d) Markets, exchanges and clearing and settlement entities?  
+3. Is the domestic regulator able, according to its domestic laws and regulations, to provide 
+effective and timely assistance to foreign regulators regardless of whether the domestic 
+regulator has an independent interest in the matter?  
+4. Is the domestic regulator able to offer effective and timel y assistance to foreign 
+regulators in obtaining information on the regulatory processes
+92 in its jurisdiction?    
+5. Is the domestic regulator able to offer effective and timely assistance to foreign 
+regulators in requiring or requesting: 
+(a) The production of documents?  
+(b) Taking a person’s statement or, where permissible, testimony under oath? 
+6. Is the domestic regulator able to offer effective and timely assistance to foreign 
+regulators in obtaining court orders, if permitted, for example, urgent injunctions?93  
+7. Is the domestic regulator able to provide effective and timely assistance to foreign 
+regulators regarding information about financial conglomerates subject to its 
+supervision and more precisely assistance in relation, for example, to:  
+(a) The structure of financial conglomerates? 
+(b) The capital requirements in conglomerate groups? 
+(c) Investments in companies within the same group? 
+(d) Intra-group exposures and group-wide exposures? 
+(e) Relationships with shareholders? 
+(f) Management responsibility and the control of regulated entities?  
+8. If the regulator cannot directly obtain the information set out in Key Question 1, can 
+the regulator obtain that information from another domestic authority and share that 
+information with the requesting regulator? 
+9. May the requesting authority use the information furnished by the domestic authority 
+for the purposes set forth under Article 10(a) of the IOSCO MMoU? 
+                                                 
+92  “Regulatory processes” refer to formal processes, such as licensing procedures or audit procedures which 
+could be relevant to enforcement. 
+93  The regulator should be able to compel the production of documents.
+
+PRINCIPLES RELATING TO COOPERATION  
+94 
+Explanatory Notes 
+In assessing this Principle, the assessor should refer to Principles 10, 11, and 12 to assess if the 
+regulator has the appropriate power to gather information needed by the foreign regulator. 
+With respect to injunctions or other remedies, such as asset freezes, where permitted, it is 
+understood that the regulator may need the assistance of another authority.  Although the power 
+to assist in obtaining such court orders is not required for a Fully Implemented rating if such 
+assistance is not permitted, where such assistance is in fact permitted, the failure to cooperate 
+could result in a Partly Implemented rating. 
+The regulator should be able to demonstrate the timeliness of assistance or cooperative effort 
+by providing records, logs or other supporting evidence. 
+The regulator should also provide evidence of the type of requests for assistance received,  the 
+type of assistance requested for each request, and provide examples of successful and 
+substantive responses by the regulator.  The regulator should also provide information if there 
+are instances where cooperation was denied and provide the rationale for such denial. 
+The form of international assistance may include:
+94 
+• Assistance in obtaining public or non-public information, for example, about a licence 
+holder, listed company, shareholder, beneficial owner or a person exercising control 
+over a licence holder or company. 
+• Assistance in obtaining banking, brokerage or other records. 
+• Assistance in obtaining voluntary cooperation from those who may have information 
+about the subject of an inquiry. 
+• Assistance by providing examination reports. 
+• Assistance by pro viding risk analysis assessments and information to support the 
+identification, assessment and mitigation of hidden risks to markets and investors. 
+• Assistance in inspection of market participants, including visits. 
+• Assistance in obtaining information or in the compulsion of documents and at least 
+voluntary testimony or statements. 
+• Assistance in providing information on the regulatory processes in a jurisdiction, or in 
+obtaining court orders, for example, urgent injunctions. 
+The particular procedures used for the supervision of financial conglomerates must reflect the 
+domestic law of the places in which they operate and must take account of the possibility that 
+relevant regulatory responsibility may continue to be shared between agencies.  It is 
+nevertheless possible to identify some general issues that should be considered as matters 
+requiring close supervisory cooperation: 
+• structure of financial conglomerates;  
+                                                 
+94  See generally Report on Issues Raised for Securities and Futures Regulators by Under-Regulated and 
+Uncooperative Jurisdictions, Report of the Technical Committee of IOSCO, October 1994, available at  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD41.pdf; and Principles Regarding Cross-Border 
+Supervisory Cooperation, supra.
+
+PRINCIPLES RELATING TO COOPERATION  
+95 
+• capital requirements in conglomerate groups;95 
+• investments in companies within the same group;  
+• intra-group exposures and group-wide exposures;96 
+• relationships with shareholders; 
+• management responsibility and the control of regulated entities.  
+Derivatives are specifically identified in this section, because some jurisdictions can share 
+information with respect to securities, but not with respect to certain derivatives transactions.  
+The assessor should make this explicit when this is the case. 
+In the case where there is not power to provide specific assistance, the assessor also should 
+inquire as to whether the regulator is making efforts to seek further powers or taking other steps 
+to enhance its capacity to cooperate.  In circumstances where the authorities require a court 
+order to obtain certain information ( e.g., bank records), an inability to ob tain court orders for 
+that purpose in a timely fashion may indicate that the authority is unable to cooperate. 
+ 
+Benchmarks 
+Fully Implemented  
+Requires an affirmative response to all applicable Questions. 
+Broadly Implemented  
+Requires affirmative responses to all Questions except to Questions 7(a), 7(b), 7(c), 
+7(d), 7(e) and 7(f).   
+The regulator can only provide some of the types of information listed and this 
+limitation does not affect its ability to provide information on the entity subject to its 
+supervision or oversight, and provided, however, that the authority takes steps to 
+provide assistance within its powers and such assistance is not so untimely as to be 
+tantamount to being denied. 
+Partly Implemented  
+Requires affirmative responses to all Questions except to Questions 6, 7(a), 7(b), 7(c), 
+7(d), 7(e) and 7(f), provided, however, that the authority takes steps to provide 
+assistance within its powers and such assistance is not so untimely as to be tantamount 
+to being denied.  
+Not Implemented  
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b)(i), 1(b)(ii), 
+1(b)(iii), 1(b)(iv), 1(b)(v), 1(c) 2(a), 2(b), 2(c), 2(d), 3, 4 or 5(a), 5(b), 8 and 9 or 
+assistance does not occur or is so untimely as to be tantamount to being denied.  
+  
+                                                 
+95  See generally Risk Concentration Principles, Report of the Joint Forum, December 1999, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD102.pdf. 
+96  See generally Intra-Group Transactions and Exposures Principles, Report of the Joint Forum, 
+December 1999, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD101.pdf.
+
+PRINCIPLES RELATING TO COOPERATION  
+96 
+BIBLIOGRAPHY FOR PRINCIPLES RELATING TO COOPERATION  
+ 
+ Document Principles Other 
+Principles 
+1 Multilateral Memorandum of Understanding concerning 
+Consultation and Cooperation and the Exchange of 
+Information, Report of IOSCO, May 2002 (version revised 
+May 2012), 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD386.pdf  
+ “IOSCO MMoU”  
+13 
+14 
+15 
+10 
+11 
+12 
+2 Principles Regarding Cross -Border Supervisory 
+Cooperation, Final Report, Report of  the Technical 
+Committee of IOSCO, May 2010, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD322.pdf 
+13 
+14 
+15 
+33 
+34 
+3 Multi-Jurisdictional Information Sharing for Market 
+Oversight, Final Report, Report of the Technical Committee 
+of IOSCO, April 2007, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD248.pdf 
+13 33 
+34 
+36 
+4 Resolution on Cross -Border Cooperation to F reeze Assets 
+Derived from Securities and Derivatives Violations , 
+Resolution of the IOSCO Presidents’ Committee, June 2006,  
+https://www.iosco.org/library/resolutions/pdf/IOSCORES25.pdf, 
+15  
+5 Report on Securities Activity on the Internet III, Report of the 
+Technical Committee of IOSCO, October 2003,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD159.pdf 
+13 11 
+16 
+31 
+6 Principles for the Oversight of Screen -Based Trading 
+Systems for Derivatives Products —  Review and Additions , 
+Report of the Technical Committee of IOSCO, 
+October 2000,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD111.pdf 
+13 
+15 
+33 
+34 
+7 Risk Concentration Principles , Report of the Joint Forum, 
+December 1999,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD102.pdf 
+15
+
+PRINCIPLES RELATING TO COOPERATION  
+97 
+ Document Principles Other 
+Principles 
+8 Intra-Group Transactions and Exposures Principles, Report 
+of the Joint Forum, December 1999,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD101.pdf 
+15  
+9 Securities Activity on the Internet, Report of the Technical 
+Committee of IOSCO, September 1998,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD83.pdf 
+13 11 
+16 
+31 
+33 
+10 Guidance on Information Sharing,  Report of the Technical 
+Committee of IOSCO, March 1998,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD86.pdf 
+13 
+15 
+ 
+11 Report on the Self -Evaluation Conducted by IOSCO 
+Members Pursuant to the 1994 IOSCO Resolution on 
+“Commitment to Basic IOSCO Principles of High 
+Regulatory Standards and Mutual Cooperation and 
+Assistance”, Report of IOSCO, November 1997,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD76.pdf 
+13  
+12 Resolution on Principles for Record Keeping, Collection of 
+Information, Enforcement Powers and Mutual Cooperation 
+to Improve the Enforcement of Securities and Futures Laws, 
+Resolution of the Presidents ’ Committee of IOSCO, 
+November 1997,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES15.pdf 
+“Resolution on Record Keeping” 
+13 
+14 
+15 
+10 
+11 
+13 Resolution on Enforcement Powers , Resolution of the 
+Presidents’ Committee of IOSCO, November 1997,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES14.pdf 
+13 11 
+14 Measures Available on a Cross- Border Basis to Protect 
+Interests and Assets of Defrauded Investors, Report of the 
+Technical Committee of IOSCO, July 1996,   
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD55.pdf 
+15
+
+PRINCIPLES RELATING TO COOPERATION  
+98 
+ Document Principles Other 
+Principles 
+15 Recommendation on the Recognition of Bilateral Netting 
+Agreements in the Calculation of Capital Requirements for 
+Securities Firms, Resolution of the Technical Committee of 
+IOSCO, March 1996,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES38.pdf 
+15  
+16 Resolution Concerning Cross -Border Transactions , 
+Resolution of the Presidents’ Committee of IOSCO, 
+July 1995, 
+http://www.iosco.org/library/resolutions/pdf/IOSCORES12.pdf  
+15  
+17 Report on Issues Raised for Securities and Futures 
+Regulators by Under -Regulated and Uncooperative 
+Jurisdictions, Report of the Technical Committee of IOSCO, 
+October 1994,   
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD41.pdf 
+15  
+18 Resolution on Commitment to Basic IOSCO Principles of 
+High Regulatory Standards and Mutual Cooperation and 
+Assistance (Self -Evaluation), Resolution of the Presidents’ 
+Committee of IOSCO, October 1994,  
+https://www.iosco.org/library/resolutions/pdf/IOSCORES11.pdf  
+15  
+19 Resolution on Transnational Securities and Futures Fraud, 
+Resolution of the Presidents’ Committee of IOSCO, 
+October 1993,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES8.pdf 
+15  
+20 Resolution on Money Laundering, Resolution of the 
+Presidents’ Committee of IOSCO, October 1992,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES5.pdf 
+15  
+21 Resolution on Principles for Memoranda of Understanding, 
+Resolution of the Presidents’ Committee of IOSCO, 
+September 1991,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES42.pdf 
+15  
+22 Principles for Memoranda of Understanding, Report of the 
+Technical Committee of IOSCO, September 1991,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD17.pdf  
+13 
+14 
+15
+
+PRINCIPLES RELATING TO COOPERATION  
+99 
+ Document Principles Other 
+Principles 
+23 Resolution on Information Sharing between SROs , 
+Resolution of the SRO Consultative Committee of IOSCO, 
+November 1990,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES40.pdf 
+15  
+24 Resolution on International Equity Offers , Presidents’ 
+Committee of IOSCO, September 1989,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES41.pdf 
+13 
+15 
+ 
+25 Resolution on Cooperation in Matters of Surveillance and 
+Enforcement, Resolution of the Presidents’ Committee of 
+IOSCO, September 1987,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES44.pdf 
+15
+
+PRINCIPLES RELATING TO ISSUERS  
+100 
+E. PRINCIPLES RELATING TO ISSUERS 
+1. Preamble  
+These Principles are about the information that issuers should disclose to investors when they 
+invest in securities and on an ongoing basis. 
+The Principles seek to support IOSCO’s core objectives of securities regulation in the following 
+ways: 
+• they enhance investor protection by requiring issuers to provide investors with 
+information about the issuer, the risks of investing in its securities, and other matters to 
+support better investment decisions; 
+• they support the operation of fair, orderly, efficient and transparent markets by 
+providing investors and therefore the markets with accurate and relevant information; 
+and 
+• they support the reduction of systemic risk as it may be affected by investor confidence 
+by enhancing transparency in the market. 
+Principles 16, 17 and 18 are closely interrelated.  While Principle 16 focuses primarily on full, 
+timely and accurate disclosure of financial and non-financial information, these same qualities 
+of disclosure are essential for the purposes of Principles 17 and 18.  For example, it should be 
+impossible to conclude under Principle 17 that holders of securities are treated in a fair and 
+equitable manner if they are not provided with full, timely and accurate disclosure in 
+connection with the voting decisions and change of control transactions addressed in that 
+Principle.  Similarly, it should be impossible to conclude under Principle 18 that accounting 
+standards are of a high and internationally acceptable quality if full and accurate disclosure 
+would not be reflected in the financial statements to which such standards have been applied.  
+It also should be impossible to conclude that audited financial statements required in 
+prospectuses, listing documents and annual reports reflect full, timely, and accurate disclosure 
+under Principles 16 or full disclosure to shareholders under Principle 17, if accounting 
+standards of a high and internationally acceptable quality have not been applied to such 
+financial statements.  
+To determine whether Principles 16, 17 and 18 are implemented in a manner that achieves the 
+objectives of investor protection, fair, orderly, efficient and transparent markets, and reducing 
+systemic risk, it may also be necessary to consider a jurisdiction’s general legal framework and 
+laws that complem ent securities regulation.  Annexure 1 indicates the complementary laws, 
+such as the law of contracts, insolvency and company law, which may constitute part of the 
+legal framework.  
+Finally, an assessment of implementation of Principles 16, 17 and 18 is al so essential for 
+purposes of assessing implementation of Principle 26 regarding collective investment schemes. 
+ 
+2. Scope  
+Principles 16 and 18 are intended to apply to issuers making “public offerings” of securities 
+and also to issuers whose securities are “l isted and/or publicly traded” .
+97 Principle 17 is 
+intended to apply to companies whose securities are listed, publicly offered or traded.
+
+PRINCIPLES RELATING TO ISSUERS  
+101 
+Most jurisdictions separately regulate public offerings, thereby ensuring general protection of 
+the public while reduc ing the regulatory burden in the case of non- public undertakings.  The 
+definition of what amounts to an offer to the public varies, as does the threshold for what 
+constitutes public trading. 
+The term “issuer” should be understood broadly to include all ent ities and persons who offer 
+or sell their own securities.  The Principles do not apply to the issuing of debt by government 
+or entities created by statute which perform a public function or deliver a public service 
+pursuant to a statutory mandate provided that they are backed by the guarantee of the 
+government.  
+In assessing implementation of these Principles, however, the assessor should bear in mind that 
+the terms “ publicly traded”  and “public offerings ” are not defined in the Principles.  
+Accordingly, the universe of issuers and transactions to which these three Principles apply may 
+be expected to vary among jurisdictions.  The assessor should not attempt to substitute his or 
+her judgment in lieu of the law of the jurisdiction as to what constitutes a public offering, but 
+should indicate what public offerings are covered by the law.  This may affect the extent to 
+which these Principles are applicable.
+98 
+With respect to what constitutes “publicly traded” securities to which the Principles should 
+apply, the Principles relating to Secondary and Other Markets99 provide useful guidance.  Those 
+Principles indicate that the concept of a secondary or other market is not limited to traditional 
+organized exchanges, but is also intended to include various regulated forms of “off-exchange” 
+market systems that trade equity and debt securities, as well as options and certain derivative 
+products.  That Section, however, is directed principally at authorized exchanges and regulated 
+trading systems as defined therein.  Regulat ion appropriate to a particular secondary or other 
+market will depend upon the nature of the market and its participants.
+100 
+Bearing in mind that Principles 16, 17 and 18 set forth requirements for disclosure and reporting 
+primarily by issuers, that the obje ctive of these Principles is investor protection, and that the 
+objective of authorized exchanges and regulated trading systems101 is fairness,102 efficiency and 
+transparency,103 the assessor should determine the exchanges and trading systems within a 
+jurisdiction that are deemed to be exchanges and trading systems subject to regulation under 
+Principles 33 to 38 and which provide trading services in corporate equity and debt securities 
+for retail investors.  Implementation of Principles 16, 17 and 18 should be assessed with respect 
+to issuers whose securities are listed and/or traded on those authorized exchanges and regulated 
+trading systems.104 
+Even with this guidance, an assessor may have to exercise judgment in assessing whether 
+Principles 16, 17 and 18 have been implemented with respect to publicly traded securities in a 
+particular market. 
+                                                 
+97  These Principles do not apply to private offerings, except where the offering is made through a private 
+placement and the investor then resells to the public. 
+98   See Principle 1. 
+99  Refer to Principles for Secondary and Other Markets, Principles 33–37. 
+100   Refer to Principles on Market Intermediaries, Principles 29–32. 
+101   See Principle 33. 
+102  See Principle 34. 
+103   See Principle 35. 
+104  References to listing documents in Principles 16–18 apply only where the securities are listed on an 
+authorized exchange or, where relevant, a regulated trading system.
+
+PRINCIPLES RELATING TO ISSUERS  
+102 
+For greater clarification, these P rinciples apply to the following types of securities in the 
+following ways:105  
+• Principles 16 and 18 apply to the issuing of equity securities and of debt securities (other 
+than debt securities issued by government or entities created by statute which perform 
+a public function or deliver a public service to a statutory mandate) including publicly 
+traded asset-backed securities
+106 and structured financial products, and derivatives that 
+are securities.  They do not apply to the issue of sovereign debt. 
+• Principle 17 applies only to equity securities. 
+• Principles 16 to 18 also apply to rights issues to existing security holders.107 
+If a publicly offered, li sted or traded security has features of a derivative (for instance where 
+price is determined by reference to other instruments), these Principles will apply to the issue 
+of that instrument. 
+The Principles also apply to structured financial products (which may be described as highly 
+complex) that are securities.  Adequate disclosure of the risks that the underlying assets of these 
+securities face and the possible effect that these risks may have on the security itself is 
+particularly important.  Issuer’s disclosure should also include checks, assessments, duties, and 
+risk practices performed by underwriters, sponsors and originators; and asset pool performance. 
+In assessing the regulatory framework for issuers that make “ public offerings”, the assessor 
+should consider the requirements with respect to content of advertising, and information about 
+issuers, offerings, listing, periodic reports and reports of material events, bids or the change in 
+control or change of interest associated with the holding of a publicly offered or traded security.   
+In assessing implementation of Principles 16, 17 and 18, the assessor also should recognize 
+that the source of disclosure and reporting requirements will not necessarily be limited to 
+securities law and regulations.  For example, in some jurisdictions, timely disclosure and other 
+requirements are imposed by marketplace listing rules.  In such circumstances, there should be 
+appropriate oversight by the regulator.  In assessing implementation of these Principles, the 
+assessor also should recognize that regulatory requirements may be tailored based on the nature 
+of the issuing entity, the securities issued, or the initial investor.   
+                                                 
+105  The list of securities to which these Principles apply is not intended to be exhaustive. 
+106  Disclosure Principles for Public Offerings and Listings of Asset-Backed Securities, Final Report, Report of 
+the Technical Committee of IOSCO, April 2010, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD318.pdf and Principles for Ongoing Disclosure for 
+Asset-Backed Securities, Final Report, Report of the Board of IOSCO, November 2012, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD395.pdf, define asset-backed securities (at p. 4 and 
+p. 2 respectively) as “those securities that are primarily serviced by the cash flows of a discrete pool of 
+receivables or other financial assets that by their terms convert into cash within a finite period of time, such 
+as RMBS (residential mortgage-backed securities) and CMBS (commercial mortgage-backed securities), 
+among others.”  These Principles are not intended to apply to “securities backed by assets pools that are 
+actively managed (such as some securities issued by investment companies), or that contain assets that do 
+not by their terms convert to cash (such as collateralized debt obligations)”. 
+107  See International Disclosure Standards for Cross-Border Offerings and Initial Listings by Foreign Issuer, 
+Report of IOSCO, September 1998, pp. 9–10 available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD81.pdf.
+
+PRINCIPLES RELATING TO ISSUERS  
+103 
+Finally, the assessor should determine the extent to which a jurisdiction’s secondary market 
+and publicly traded issues are subject to, or are realistic candidates for, cross- border listing 
+and/or trading activity, since this may affect the importance of some of the Key Questions.108  
+In general, the appropriate framework for issuer regulation includes adequate company, 
+accounting, commercial and contract law.  While the assessor should be informed about the 
+legal framework, in general, the specific objectives of non-securities-specific law are addressed 
+explicitly in the Key Issues, Key Questions, and Benchmarks to this Section. 
+ 
+                                                 
+108  Principle 16, Key Question 9.  See also Principle 17, Key Question 6; and Principle 18, Key Question 7.
+
+PRINCIPLES RELATING TO ISSUERS  
+104 
+3. Principles 16 through 18 
+Principle 16  There should be full, accurate and timely disclosure of financial results, 
+risk and other information which is material to investors’ decisions. 
+Issuers should disclose to investors current and reliable information necessary to make 
+informed investment decisions on an ongoing basis.  The Principle of full, timely and accurate 
+disclosure of current and reliable information material to investment decisions is directly 
+related to the objectives of investor protection and fair, efficient and transparent markets.
+109 
+This Principle requires consideration of the adequacy, accuracy and timeliness of both financial 
+and non- financial disclosures as well as disclosure of risks that are material to investors’ 
+decisions.  These disclosures may pertain to specified transactions, periodic reports and 
+ongoing disclosure and reporting of material developments.   
+This Principle applies to issuers of securities, as defined in the Scope to these Principles.  
+Disclosure requirements set out in this Principle may extend beyond the issuing entity itself to 
+include others, such as directors and senior officers of the company, participating underwriters, 
+material shareholders and other parties playing a material role in issuing securities.
+110  It will 
+be apparent from the text where others have a relevant obligation. 
+ 
+Key Issues   
+Full Disclosure  
+1. The regulatory framework should ensure full, timely and accurate disclosure of risks, 
+financial results and other information that is material to investors making informed 
+investment decisions on an ongoing basis.  
+2. Disclosure rules shoul d include rules about the following (with the list being 
+illustrative): 
+(a) The conditions applicable to an offering of securities for public sale.  
+(b) The content and distribution of prospectuses, listing particulars documents or 
+other offering documents.  
+                                                 
+109  For example, see generally Principles for Ongoing Disclosure and Material Development Reporting by 
+Listed Entities, Statement of the Technical Committee of IOSCO, October 2002, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD132.pdf;  Principles for Ongoing Disclosure for 
+Asset-Backed Securities, supra; and Insider Trading – How Jurisdictions Regulate It, Report of the 
+Emerging Markets Committee of IOSCO, May 2003, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD145.pdf.  
+110  See Disclosure Principles for Public Offerings and Listings of Asset-Backed Securities, supra, Principle III 
+at p. 9. See also generally International Disclosure Standards for Cross-Border Offerings and Initial 
+Listings by Foreign Issuers, supra; and International Disclosure Principles for Cross-Border Offerings and 
+Listing of Debt Securities by Foreign Issuers, Final Report, Report of the Technical Committee of IOSCO, 
+March 2007, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD242.pdf.
+
+PRINCIPLES RELATING TO ISSUERS  
+105 
+(c) Supplementary documents prepared in the offering.  
+(d) Advertising in connection with the offering of securities.  
+(e) Information about those who have a significant interest in an issuer.111   
+(f) Information about those who seek control of an issuer (discussed in grea ter 
+detail below). 
+(g) Information material to the price, or value, of a security.112 
+(h) Periodic reports.  
+(i) Shareholder voting decisions. 
+(j) Material related party transactions and transactions including transactions 
+involving directors and senior managers of the issuer.113  
+(k) Periodic disclosure of information about director and senior management 
+compensation and risk management practices.114  
+(l) The most significant risks material to the offering.115 
+General Disclosure  
+3. Specific disclosure requirements should be augmented by a general disclosure 
+requirement.   
+                                                 
+111  See Principles for Periodic Disclosure by Listed Entities, Final Report, Report of the Technical Committee 
+of IOSCO, February 2010, pp. 16–17, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD317.pdf; see also Protection of Minority 
+Shareholders in Listed Issuers, Final Report, Report of the Technical Committee of IOSCO in consultation 
+with the OECD, June 2009, pp.10–14, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD295.pdf; see also International Disclosure Standards 
+for Cross-Border Offerings and Initial Listings by Foreign Issuers, supra, Item VII at pp. 18–19; 
+Disclosure Principles for Public Offerings and Listings of Asset-backed Securities, supra, Principle III at 
+pp. 10–12; and International Disclosure Principles for Cross-Border Offerings and Listing of Debt 
+Securities by Foreign Issuers, Final Report, Report of the Technical Committee of IOSCO, March 2007, 
+Item XI at pp. 23–24, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD242.pdf. 
+112  If there are classes of shares or other structural features that would affect share price, these should be 
+disclosed.  This information also would include the release of price sensitive information. 
+113  See Principles for Periodic Disclosure by Listed Entities, supra, p. 11. 
+114  The reference to ‘risk management practices’ is in the context of disclosure on compensation.  The 
+information about director and senior management compensation and risk management practices is 
+important to investors so that they can assess the incentives created by this use of the issuer’s resources, 
+whether the incentives of the compensation are aligned with investors’ interests, and how performance 
+may be oriented to the returns generated for shareholders.  This assessment can be facilitated by disclosure 
+of, among other things, the most important design characteristics of the compensation system including 
+how those characteristics may be tied to performance and, where appropriate, risk.  See Principles for 
+Periodic Disclosure by Listed Entities, supra, pp. 11–13. 
+115  See Disclosure Principles for Public Offerings and Listings of Asset-Backed Securities, supra, Principle XI 
+at p. 32; see also International Disclosure Standards for Cross-Border Offerings and Initial Listings by 
+Foreign Issuers, supra, Item III D at p. 12; and International Disclosure Principles for Cross-Border 
+Offerings and Listing of Debt Securities by Foreign Issuers, supra, Item III at p. 12.
+
+PRINCIPLES RELATING TO ISSUERS  
+106 
+Sufficiency, Accuracy, Timeliness and Accountability for Disclosure  
+4. Disclosure should be accurate, sufficiently clear and comprehensive, and reasonably 
+specific and timely.116   
+5. Regulation should ensure that proper responsibility is taken for the content of 
+information and, depending on the circumstances, those persons who take liability for 
+such disclosures may include the issuer, underwriters, promoters, directors, authorizing 
+officers of the issuer, experts and advisers who consent to be named in the 
+documentation or provide advice.  
+Derogations  
+6. The circumstances under which derogation from full and timely disclosure is permitted 
+should be limited and the safeguards that apply in such circumstance should be clear. 
+ 
+Key Questions  
+Full Disclosure  
+1. Does the regulatory framework have clear, comprehensive and reasonably specific 
+disclosure requirements that apply to:  
+(a) Public offerings, including the conditions applicable to an offering of securities 
+for public sale, the content and distribution of prospectuses and other offering 
+documents (and, where relevant, short form profile or introductory documents) 
+and supplementary documents prepared in the offering?
+117  
+(b) Annual reports?  
+(c) Other periodic reports?  
+(d) Shareholder voting decisions?  
+(e) Advertising of public offerings outside the prospectus?  
+2. Does the regulatory framework require accurate, sufficiently clear and comprehensive, 
+and reasonably specific and timely disclosure of:  
+(a) events that are material to the price or value of securities; 
+                                                 
+116  See International Equity Offers, Report of IOSCO, September 1989, pp. 7–8, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD2.pdf; and International Disclosure Standards for 
+Cross-Border Offerings and Initial Listings by Foreign Issuers, supra, pp. 5–6.  See also generally 
+Securities Activity on the Internet, supra, in particular, Key Recommendation 5 and text; Securities Activity 
+on the Internet II, Report of the Technical Committee of IOSCO, June 2001, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD120.pdf; Report on Securities Activity on the Internet 
+III, Report of the Technical Committee of IOSCO, October 2003, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD159.pdf; International Disclosure Principles for 
+Cross-Border Offerings and Listing of Debt Securities by Foreign Issuers, supra, pp. 3–4; and Disclosure 
+Principles for Public Offerings and Listings of Asset-Backed Securities, supra, p. 5. 
+117   The term “conditions” refers to both any restrictions, or any stipulations, with respect to an offer and the 
+transaction terms.
+
+PRINCIPLES RELATING TO ISSUERS  
+107 
+(b) the most significant risks of investing in the security;118 and 
+(c) important relevant information about the issuer and its activities?  
+3. Does the regulatory framework require:  
+(a) Financial information and other required disclosure in prospectuses, listing 
+documents, annual and other periodic reports, and, where applicable, in 
+connection with shareholder voting decisions, to be of sufficient timeliness to 
+be useful to investors?  
+(b) Periodic information about financial position and results of operations (which 
+may be in summary form) to be made publicly available to investors?  
+(c) Appropriate measures to be taken (for example, provision of more recent 
+unaudited financial information) when the audited financial statements included 
+in a prospectus for public offerings are not current?  
+General Disclosure  
+4. In addition to specific disclosure requirements, is there a general requirement to 
+disclose either all material information or all information necessary to keep the 
+disclosures made from being misleading?  
+Sufficiency, Accuracy, Timeliness and Accountability for Disclosure  
+5. Are there measures available to the regulator (e.g., review, certification,
+119 supporting 
+documentation, sanctions) to address concerns with the sufficiency, accuracy and 
+timeliness of the required disclosures?  
+6. Does regulation ensure that issuers and others involved in the issuing process, which 
+may include underwriters, directors, authorizing officers, promoters, experts an d 
+advisers, are liable for the content of disclosures they make?  
+Derogations  
+7. Are the circumstances where disclosures may be omitted or delayed limited to trade 
+secrets, similar proprietary information, or other valid business purposes, such as 
+incomplete negotiations?  
+8. Where there are derogations from disclosure, is regulation sufficient to provide for 
+fulfilment of the objective of full and timely disclosure by allowing for:
+120  
+(a) Temporary suspensions of trading?  
+(b) Restrictions on, or sanctions regarding, the trading activities of persons with 
+superior information?  
+                                                 
+118   See footnote 16. 
+119  “Certification” is generally used in conjunction with internal audits of financial statements, but the list is 
+intended to be exemplary and certification could also refer to other certifications. 
+120  In the case of price-sensitive information.
+
+PRINCIPLES RELATING TO ISSUERS  
+108 
+Cross-Border Matters  
+9. If public offerings or listings by foreign issuers are significant within the jurisdiction, 
+are the jurisdiction’s disclosure requirements for such offerings or listings of equity and 
+debt securities by foreign issuers consistent with IOSCO ’s International Disclosure 
+Standards for (i) Cross-Border Offerings and Initial Listings by Foreign Issuers and (ii) 
+Cross-Border Offerings and Listings of Debt Securities by Foreign Issuers?121  
+ 
+Explanatory Notes  
+With respect to a jurisdiction’s disclosure framework, the Key Questions envision that the 
+assessor should take into consideration not only whether the information required to be 
+disclosed is sufficiently clear, comprehensive, reasonably timely, and specific, but also whether 
+the disclosure is made available under circumstances that encourage investors to use this 
+information to make investment and voting decisions.  For example, the assessor should take 
+into consideration whether the regulatory regime addr esses sales practices, such as “touting” 
+advertising outside of the required disclosure documents that may detract from investors’ 
+reliance upon the required disclosure documents.  
+With respect to what may constitute full disclosure in Key Question 2, specific disclosures 
+would be expected to be included for material pieces of information relevant to investors being 
+able to make informed investment decisions.  This information should address the most 
+significant risks of investing in the security.
+122  Important information about the issuer should 
+include information about:  
+• those who have a significant interest in an issuer, including certain significant security 
+holders of the issuer; 
+• those who seek control of an issuer; 
+• material related party transactions, including transactions involving directors and senior 
+managers of the issuer; and 
+• director and senior management compensation and risk management practices. 
+Assessors should assess implementation of Key Question 2 in relation to derivatives which are 
+securities taking into account the specific features of those securities (including the risks related 
+to gearing or leverage). 
+                                                 
+121  International Disclosure Standards for Cross-Border Offerings and Initial Listings by Foreign Issuers, 
+supra; and International Disclosure Principles for Cross-Border Offerings and Listings of Debt Securities 
+by Foreign Issuers, Final Report, Report of the Technical Committee of IOSCO, March 2007, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD242.pdf. 
+122  See Disclosure Principles for Public Offerings and Listings of Asset-Backed Securities, supra, Principle XI 
+at p. 33; see also International Disclosure Standards for Cross-Border Offerings and Initial Listings by 
+Foreign Issuers, supra, Item III. D. at p. 12; International Disclosure Principles for Cross-Border 
+Offerings and Listing of Debt Securities by Foreign Issuers, supra, Item III at p. 12.
+
+PRINCIPLES RELATING TO ISSUERS  
+109 
+With respect to what may constitute comprehensive and specific disclosure requirements for 
+public offerings and listings of asset  backed securities for Key Question 2 , assessors should 
+consider whether issuers (or service providers where specified below) are required to do the 
+following: 
+• Disclose the identities of all parties involved in the transaction and the functions and 
+responsibilities of significant parties.
+123 
+• Disclose all checks and assessments that have been performed or risk assurance 
+practices that have been undertaken by the underwriter, sponsor and/or originator in 
+respect of the underlying asset pool.124 
+• Service providers revisit and maintain reports over the life of the product.125  
+• Provide initial and ongoing information about underlying asset pool performance;126 the 
+composition and characteristics of the asset pool; 127 details regarding significant 
+obligors of pool assets; 128 and the creditworthiness of the person(s) with direct or 
+indirect liability to the issuer.129 
+• Disclose the structure of the transaction, 130 credit enhancements, 131 and the use of 
+derivatives.132  
+• Disclose all exchanges or regulated markets on which the security is or is intended to 
+be traded.133 
+Assessors should also consider whether there are requirements for continuous disclosure of 
+material developments in respect of public asset -backed securities. These requirements may 
+incorporate some or all of the disclosure topics highlighted in the Principles for Ongoing 
+Disclosure for Asset-Backed Securities that are considered appropriate by the regulator taking 
+into account the characteristics of their specific regulatory framework, the characteristics of the 
+issuing entity or the characteristics of the securities involved.
+134 
+With respect to what may constitute “timely disclosure” for purposes of Key Question 2 , the 
+Principles for Ongoing Disclosure and Material Development Reporting by Listed Entities  
+issued by the IOSCO Technical Committee provide that the listed entity shall disclose ongoing 
+information on a timely basis, which could require disclosure on an immediate basis for 
+disclosure of material developments, where such a term could be defined to mean “as soon as 
+possible”, promptly or prescribed as a maximum of specified days.
+135 
+                                                 
+123  Id, Principles II and III. 
+124  See Unregulated Financial Markets and Products, supra, Recommendation #1.2.  
+125  Id, Recommendation #1.4 
+126  Id, Recommendation #2.1; and Disclosure Principles for Public Offerings and Listings of Asset-Backed 
+Securities, supra, Principle IV.  
+127  See Disclosure Principles for Public Offerings and Listings of Asset-Backed Securities, supra, Principle V. 
+128  Id, Principle VI. 
+129   See Unregulated Financial Markets and Products, supra, Recommendation #2.1. 
+130  See Disclosure Principles for Public Offerings and Listings of Asset-Backed Securities, supra, Principle 
+VIII. 
+131  Id, Principle IX. 
+132  Id, Principle X. 
+133  Id, Principle XII. 
+134  See Principles for Ongoing Disclosure for Asset-Backed Securities, supra, p. 2. 
+135  Principles for Ongoing Disclosure and Material Development Reporting by Listed Entities, supra, pp. 4–5.
+
+PRINCIPLES RELATING TO ISSUERS  
+110 
+These principles also indicate under the general ongoing obligation approach, disclosure may 
+be subject to delay, which may be granted in some jurisdictions by the competent authority, if 
+the information: 
+• is confidential under legislation; and 
+• concerns an incomplete proposal or negotiations or the disclosure of particular 
+information is such as to prejudice the legitimate interests of the entity’s investors; in 
+such cases the listed entity must ensure that the information is kept strictly 
+confidential.
+136 
+Finally, in referring to disclosures required on a periodic basis prescribed by law or listing 
+rules, such as quarterly or annual reports, these principles note that “[t]he disclosure obligation 
+may require disclosure of relevant information on an immediate basis even when it belongs to 
+periodic reporting.”
+137  
+With respect to what may constitute appropriate delivery of periodic financial information in 
+Key Question 3(b) , practices vary among jurisdic tions as to the frequency and timing of 
+disclosure of periodic financial information.  An affirmative response to Key Question 3(b) is 
+warranted if the periodic financial information is made available on at least a semi-annual basis. 
+With respect to what may constitute general disclosure in Key Question 4, a general disclosure 
+requirement will provide that all material information relevant to a particular security or issuer 
+is required to be disclosed.  Another approach for such a general disclosure requirement is that 
+disclosure is required of all material information that is necessary to keep disclosures made 
+from being misleading.138 
+With respect to assessing Key Question 6, and depending on the circumstances, persons taking 
+responsibility may include the issuer, underwriters, directors, authorizing officers, promoters, 
+and experts and advisers consenting to be named as such.
+139 
+With respect to what may constitute Derogations in Key Questions 7 and 8, assessors should 
+recognize that there are circumstances in which it may be necessary to the proper functioning 
+of the market to allow something less than full disclosure:   for example, of trade secrets or 
+incomplete negotiations.  In the limited circumstances where the market requires some 
+derogation from the obj ective of full and timely disclosure, there may need to be temporary 
+suspensions from trading or restrictions on the trading activities of those who possess more 
+complete information.  In such circumstances, trading should be prohibited in the absence of 
+full disclosure.  
+ 
+                                                 
+136  Id. 
+137  Id. 
+138  Reference should also be made to so-called “merit based” regulation in which the regulator takes some 
+responsibility for assessing the quality of a proposed offering.  This approach is generally associated with 
+developing markets and may be of particular benefit where a market lacks a group of analysts and advisers 
+who could analyze information if it were made publicly available.  It is therefore, generally regarded as 
+transitional and not necessary in a fully developed market. 
+139  For more guidance about the internal control mechanisms that could be implemented by an issuer, see 
+Issuer Internal Control Requirements —  A Survey, Report of the Technical Committee and the Emerging 
+Markets Committee of IOSCO, December 2006, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD229.pdf.
+
+PRINCIPLES RELATING TO ISSUERS  
+111 
+Benchmarks  
+Fully Implemented  
+Requires affirmative responses to all applicable Questions.  If there are no derogations 
+to disclosure, then Questions 7, 8(a) and 8(b) can be considered inapplicable.  
+Broadly Implemented  
+Requires affirmative responses to all applicable Questions except to Questions 1(e) 
+and 3(c).    
+Partly Implemented  
+Requires affirmative responses to all applicable Questions except to Questions 1(c), 
+1(e), 3(c), 7 (where derogations are provided for) and 9.  
+Not Implemented  
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b), 1(d), 2(a), 
+2(b), 2(c), 3(a), 3(b), 4, 5, 6, 8(a) or 8(b) (where derogations are provided for).
+
+PRINCIPLES RELATING TO ISSUERS  
+112 
+Principle 17  Holders of securities in a company should be treated in a fair and 
+equitable manner. 
+By seeking to safeguard the fair and equitable treatment of shareholders (particularly in 
+connection with voting decisions and change of control transactions), this Principle supports 
+investor protection and fair, efficient and transparent markets. 
+This Principle requires an assessment as to whether the basic rights of shareholders are 
+protected and whether shareholders within a class are treated equitably.  
+Principle 17 addresses many of the same issues that are covered by Principles I and II of the 
+Principles of Corporate Governance of the Organization for Economic Co- operation and 
+Development (OECD) regarding the rights and equitable treatment of shareholders, particularly 
+in connection with voting decisions, takeover bids, and other transactions that may result in a 
+change in control or that may consolidate control.
+140  
+Regulation which safeguards the fair and equitable treatment of shareholders should require 
+disclosure of the security holdings of management and of those persons who hold a substantial 
+beneficial ownership interest in a company.  This is generally regarded as information 
+necessary to make informed investment decisions. 
+The level at which disclosure is required varies from jurisdiction to jurisdiction, but is generally 
+set at a level well below that which would be characterized as a controlling interest.  More 
+stringent disclosure requirements may be appropriate for persons contemplating exercise of 
+control. 
+The nature of the disclosure required also varies, but full public disclosure is generally thought 
+to best meet the underlying policy rationale of disclosure where a change in control of a 
+company has occurred or is contemplated.  Regulation should have regard to the information 
+needs of the shareholders of the subject company. 
+The information necessary to enable informed decision-making will vary with the nature of the 
+transaction but the general objective remains true for cash offers, offers by way of tender and 
+exchange, business combinations and privatizations.  
+Generally, in the circumstances described in the preceding sentence, this will require that 
+shareholders of a company: 
+• have reasonable time in which to consider any offer under which a person would acquire 
+a substantial interest in the company; 
+• are supplied with adequate information to enable them to assess the merits of any 
+proposal under which a person would acquire a substantial interest in the company; 
+• as far as practicable, have reasonable and equal opportunities to part icipate in any 
+benefits accruing to the shareholders under any proposal under which a person would 
+acquire a substantial interest in the company; 
+                                                 
+140   This could include issuer bids as well as tender offers.
+
+PRINCIPLES RELATING TO ISSUERS  
+113 
+• receive fair and equal treatment (in particular, minority shareholders) in relation to the 
+proposal; and 
+• are not unfairly disadvantaged by the treatment and conduct of the directors of any party 
+to the transaction or by the failure of the directors to act in good faith in responding to 
+or making recommendations with respect to the proposal. 
+The relationship between Principles 16 and 17 requires some explanation.  While Principle 16 
+seeks to ensure that investors are provided with timely disclosure about changes in corporate 
+control (as set out in the Explanatory Notes on Key Question 2), Principle 17 seeks to ensur e 
+shareholders are provided with sufficient and timely information about transactions which 
+involve a change of control in a way that enables them to exercise rights in relation to those 
+transactions.   
+ 
+Key Issues  
+Rights of Shareholders  
+1. The basic rights of equity shareholders are:  
+(a) The right to document
+141 and transfer ownership.  
+(b) The right to participate on an informed basis in voting decisions (if the securities 
+have voting rights).  
+(c) The right to participate equitably in dividends and other distributions, when, as 
+and if declared, including distributions upon liquidation.  
+(d) The right to pass upon changes in the terms and conditions of rights attaching to 
+their shares.  
+(e) The right, as far as practicable, to have reasonable and equitable opportunities 
+to participate in any benefits accruing to the shareholders under any proposal 
+under which a person would acquire a substantial interest in the company.  
+(f) The right to hold a company’ s management accountable for their actions 
+including their involvement or oversight which results in breaches of the law.  
+(g) The right to receive fair and equitable treatment (in particular, treatment of 
+minority shareholders) including in relation to proposals described in 1(e) and 
+in relation to bankruptcy or insolvency of the company.  
+Control  
+2. To safeguard fair and equitable treatment of shareholders, regulation should require 
+disclosure of:  
+(a) Changes in controlling interests and substantial shareholdings above a specified 
+threshold and transactions which result or may result in changes in contro lling 
+interest and substantial shareholdings above a specified threshold.   
+                                                 
+141  Register or perfect.
+
+PRINCIPLES RELATING TO ISSUERS  
+114 
+(b) Information necessary to informed decision -making with respect to tender 
+offers, takeover bids, and other transactions intended to effectuate a change of 
+control or that potentially may result in a change of control, or that may 
+consolidate control.  
+(c) Shareholdings of directors and senior management.
+142 
+(d) Shareholdings of those persons who hold a substantial beneficial ownership 
+interest in a company.  
+ 
+Key Questions  
+Rights of Shareholders  
+1. Does the regulatory and legal frameworks address the rights and equitable treatment of 
+shareholders in connection with the following:  
+(a) V oting:  
+(i) For election of directors?  
+(ii) On corporate changes affecting the terms and conditions of their 
+securities?  
+(iii) On other fundamental corporate changes?  
+(b) Timely notice of shareholder meetings and voting decisions?  
+(c) Procedures that enable beneficial owners to give proxies or voting instructions 
+efficiently?  
+(d) Ownership registration (in the case of registered shares) and  transfer of their 
+shares?  
+(e) Receipt of dividends and other distributions, when, as, and if declared?  
+(f) Transactions involving:  
+(i) A takeover bid?  
+(ii) Other change of control transactions?  
+(g) Holding the company, its directors and senior management accountable for their 
+involvement or oversight resulting in violations of law?  
+(h) Bankruptcy or insolvency of the company?
+143  
+2. Is full disclosure of all information material to an investment or voting decision required 
+in connection with shareholder voting decisions generally and the transactions referred 
+to in Questions 1(a)(iii), 1(f)(i) and 1(f)(ii) specifically?  
+                                                 
+142  See definition in the Explanatory Notes. 
+143  This may affect the value of a listed security; shareholders should be able to determine and to exercise their 
+rights in the event of a liquidation or insolvency.
+
+PRINCIPLES RELATING TO ISSUERS  
+115 
+Control  
+3. With respect to transactions referred to in Question 1(f)(i) and 1(f)(ii), are shareholders 
+of the class or classes of securities affected by the proposal:  
+(a) Given a reasonable time in which to consider the proposal?  
+(b) Supplied with adequate information to enable them to assess the merits of the 
+proposal?  
+(c) As far as practicable, given reasonable and equitable opportunities to participate 
+in any benefits accruing to the shareholders under the proposal?  
+(d) Given fair and equitable treatment (in particular, minority security holders) in 
+relation to the proposal?  
+(e) Not unfairly disadvantaged by the treatment and conduct of directors of any 
+party to the transaction or by the failure of the directors to act in good faith in 
+responding to or making recommendations with respect to the proposal?  
+4. With respect to substantial holdings of voting securities:  
+(a) Is information about the identity and holdings of persons who hold a substantial 
+(well below controlling) beneficial ownership interest in a company required to 
+be disclosed in a timely manner:  
+(i) In public offering and listing particulars documents?  
+(ii) Once the ownership threshold requiring disclosure has been reached?  
+(iii) At least annually (e.g., in the issuer’s annual report)?  
+(b) Is it mandatory for material changes in such ownership and other required 
+information to be disclosed in a timely manner?  
+(c) Are these disclosure requirements applicable to two or more persons acting in 
+concert even though their individual beneficial ownership might not have to be 
+disclosed?  
+5. With respect to holdings of voting securities by directors and senior management:  
+(a) Is information about the beneficial ownership interest and material changes in 
+beneficial ownership in a company required to be disclosed in a timely manner?  
+(b) Is such information available:  
+(i) In public offering and listing particulars documents?  
+(ii) At least annually (e.g., in the issuer’s annual report)?  
+(c) Is the legal infrastructure sufficient to ensure enforcement of and compliance 
+with these requirements?
+
+PRINCIPLES RELATING TO ISSUERS  
+116 
+Cross-Border  
+6. If public offerings or listings by foreign issuers are significant within the jurisdictio n, 
+does the jurisdiction require disclosure in foreign issuers’ offering and listing particulars 
+documents of any governance provisions or information relating to the foreign issuer’s 
+jurisdiction that may materially affect the fair and equitable treatment of 
+shareholders?144 
+Explanatory Notes  
+Concerns regarding the issues treated by this Principle often arise in connection with potentially 
+disparate treatment of majority and minority shareholders, or takeover bids and other change 
+in control transactions where shareholders’ rights are affected.  
+Key Issue 1 sets forth the basic rights of shareholders which should be protected.  Corporate 
+governance may be addressed by general law, authorized exchange, or regulated trading system 
+rules, or a code of practice as well as securities laws and regulations. 
+The term “directors and senior management” includes (a) the company’s directors, (b) 
+members of the administrative, supervisory and management bodies, and (c) nominees to serve 
+in any of the aforementioned positi ons.  The persons covered by the term “administrative, 
+supervisory or management bodies” vary in different countries and, for purposes of complying 
+with the disclosure standards, will be determined by the host country.
+145 
+With respect to Key Questions 4(a)(i ), 4(a)(ii), 4(a)(iii) and 4(b) , practices vary among 
+jurisdictions regarding the threshold that constitutes substantial ownership required to be 
+disclosed (e.g., 5% or 10%) as well as the timeliness (e.g., 7 or 10 calendar or business days) 
+and frequency of disclosure and the thresholds for, and frequency and timeliness of disclosure 
+of, change in substantial ownership.  Nevertheless, when such disclosures involve an actual or 
+proposed change in control transaction, it is appropriate to look to the Explanatory Notes under 
+Principle 16 for guidance regarding timely disclosure in such circumstances.  
+With respect to Key Questions 4(a)(i), 4(a)(ii), 4(a)(iii), 5(b)(i) and 5(b)(ii) , the timeliness of 
+the ownership disclosure called for obviously will be affected by the timeliness of filing and/or 
+public availability of the document in which the information is included.  However, the assessor 
+also should consider whether the ownership information disclosed in such a document is as of 
+a date reasonably close to the date of filing and/or public availability of the document. 
+ 
+Benchmarks  
+Fully Implemented  
+Requires affirmative responses to all applicable Questions.  
+Broadly Implemented  
+Requires affirmative responses to all applicable Questions except to Question 1(c).  
+                                                 
+144  International Disclosure Standards for Cross-Border Offerings and Initial Listings by Foreign Issuers, 
+supra, Parts IX A and X A and B.
+
+PRINCIPLES RELATING TO ISSUERS  
+117 
+Partly Implemented  
+Requires affirmative responses to all applicable Questions except to Questions 1(b), 
+1(c), 1(g), 1(h), 3(e), 4(a)(iii), 4(c), 5(b)(ii) and 6.  
+Not Implemented  
+Inability to respond affirmatively to one or more of Questions 1(a)(i), 1(a)(ii), 1(a)(iii), 
+1(d), 1(e), 1(f)(i), 1(f)(ii), 2, 3(a), 3(b), 3(c), 3(d), 4(a)(i), 4(a)(ii), 4(b), 5(a), 5(b)(i) or 
+5(c).  
+ 
+                                                 
+145  Id, p. 7.  Disclosure of holdings of directors and senior management in a group is sufficient in lieu of 
+disclosure of individual holdings, provided, however, that Key Question 4 would apply regarding separate 
+disclosure of substantial ownership interests of individual directors and senior management.
+
+PRINCIPLES RELATING TO ISSUERS  
+118 
+Principle 18  Accounting st andards used by issuers to prepare financial statements 
+should be of a high and internationally acceptable quality. 
+This Principle supports the objectives of investor protection and fair, efficient and transparent 
+markets.  It does this by requiring that f inancial statements146 are prepared in accordance with 
+high quality and internationally acceptable accounting standards.  Use of these standards, in 
+turn, seeks to ensure the information provided in financial statements is comprehensive, 
+consistent, relevant, reliable and comparable and so supports investors in making investment 
+decisions, regardless of the geographic location of the entity concerned.
+147  
+Regulation should seek to ensure the following: 
+• Financial statements are prepared by issuers. 
+• Those statements are prepared in accordance with accounting standards which are of a 
+high quality and are internationally acceptable. 
+• An appropriate mechanism exists for the setting of these standards for use in preparing 
+financial statements such that, where there is some dispute or uncertainty, standards can 
+be the subject of authoritative and timely interpretation that fosters consistent 
+application.148 
+• A regulatory framework for enforcing compliance with accounting standards.149   
+This Principle should be conside red and assessed in conjunction with Principle 16, which 
+requires full, timely and accurate disclosure of financial information material to investment 
+decisions.  The assessor should establish under Principle 16 whether the financial statements 
+required in public offering and listing particulars documents and periodic reports are sufficient 
+to meet the full, accurate and timely disclosure requirement, and then assess, under 
+Principle 18, the quality of the accounting standards used in their preparation and verification.   
+In relation to Principles 16 to 18, assessors should assess how the Methodology applies to the 
+set of disclosure and accounting requirements which prevail and thus have broad application 
+in the jurisdiction in respect of public offerings, a nd publicly listed and traded securities.  
+Specific accounting or disclosure requirements which apply to specialized markets or limited 
+categories of market participants should not affect how a jurisdiction is assessed with respect 
+to these Principles.  Su ch differing requirements could be associated with, for example: the 
+                                                 
+146  Financial statements provide information about the financial position, financial performance (including 
+results of operations and cash flow) and other information (such as changes in the ownership equity of an 
+enterprise) that is useful to a wide range of users for decision making purposes. 
+147  Financial statements also show the accountability of management for the resources entrusted to them.  
+148  See generally Resolution on Harmonization of Accounting and Auditing Standards, Resolution of the 
+Presidents’ Committee of IOSCO, November 1988, available at 
+http://www.iosco.org/library/resolutions/pdf/IOSCORES39.pdf.  See also Resolution on IASC Standards, 
+Resolution of the Presidents’ Committee of IOSCO, May 2000, available at 
+http://www.iosco.org/library/resolutions/pdf/IOSCORES19.pdf; Statement on the Development and Use of 
+International Financial Reporting Standards, Report of the Technical Committee of IOSCO, February 
+2005, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD182.pdf; Outsourcing in Financial 
+Services, supra. 
+149  See generally Principles for Auditor Oversight, Statement of the Technical Committee of IOSCO, 
+October 2002, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD134.pdf.
+
+PRINCIPLES RELATING TO ISSUERS  
+119 
+overall level of disclosure; individual versus consolidated financial statements; financial 
+statement footnotes; or reporting on internal controls. 
+ 
+Key Issues  
+1. Regulation should require that issuers prepare audited financial statements in 
+accordance with accounting standards which are of a high quality and are 
+internationally acceptable.  High quality, internationally acceptable accounting 
+standards are essential  to enhance the comparability and reliability of financial 
+statements for informed decision-making.   
+2. There should be an appropriate mechanism for the setting and interpretation of high 
+quality internationally acceptable accounting standards.  
+3. These high quality, internationally acceptable accounting standards should be 
+enforceable and enforced.  
+ 
+Key Questions 
+1. Are issuers required to include audited financial statements in:  
+(a) Public offering and listing documents?150  
+(b) Publicly available annual reports?  
+2. Do the required audited financial statements include:  
+(a) A balance sheet or statement of financial position?  
+(b) A statement of the results of operations?  
+(c) A statement of cash flow?  
+(d) A statement of changes in ownership equity or comparable information included 
+elsewhere in the audited financial statements or footnotes?  
+3. With respect to the financial statements required in public offering and listing 
+documents and publicly available annual reports:  
+(a) Are these required to be prepared and presented in accordance with a 
+comprehensive body of accounting standards?  
+(b) Do these accounting standards require financial statements to  
+(i) Be comprehensive?  
+(ii) Be designed to serve the needs of investors?  
+                                                 
+150  There may be some circumstances, e.g., in a CIS that has not yet raised funds and an offering of a 
+securitized product, where financial statements are unnecessary.  In such circumstances, the regulator may 
+require other information deemed relevant to the terms of such offerings.
+
+PRINCIPLES RELATING TO ISSUERS  
+120 
+(iii) Reflect consistent application of accounting standards?  
+(iv) Be comparable if more than one accounting period is presented?  
+(c) Are the prevailing accounting standards of an internationally acceptable quality? 
+4. Where unaudited financial statements are used, for example, in interim reports, and 
+interim period financial statements in public offering and listing documents, in full or 
+summary format, are the financial statements presented in accordance with accounting 
+standards that are of a high and internationally acceptable quality?  
+5. In regard to oversight, interpretation  and independence with respect to accounting 
+standards:  
+(a) Does the regulatory framework provide for an organization responsible for the 
+establishment and timely interpretation of accounting standards?  
+(b) If yes, are the organization ’s processes open and transparent, and, if the 
+organization is independent, is the standard setting or interpretation process 
+undertaken in cooperation with, or subject to oversight by, the regulator or 
+another body that acts in the public interest?  
+6. Is there a system for enforcing compliance with accounting standards? 
+7. If public offerings or listings by foreign issuers are significant within the jurisdiction, 
+does the regulator permit the use of high quality, internationally acceptable accounting 
+standards by foreign companies that wish to list or offer securities in the country?
+151  
+ 
+Explanatory Notes  
+In order to be considered comprehensive for the purposes of Key Question 3(a), the accounting 
+standards under which annual financial statements are prepared should require footnotes that  
+(a) present information about the basis of preparation of the financial statements and the 
+significant accounting polices used in preparing them, and (b) include all material information 
+required to be disclosed by such standards that is not presented els ewhere in them.
+152  The 
+assessor should determine whether and how the standards are enforced.  
+The accounting standards referred to under Key Question 3 and parts of Key Question 5 need 
+not be standards that are established or interpreted by an organization within the jurisdiction.  
+Some jurisdictions may wish to adopt and rely upon standards established and/or interpreted 
+by international or other standards-setting organizations.  In such circumstances, however, it is 
+essential that a jurisdiction have a regulatory framework in place that provides a mechanism to 
+                                                 
+151  See also discussion under Principle 16 regarding timeliness and full disclosure of financial information 
+material to investment decisions and shareholder voting decisions.  See also generally Resolution on IASC 
+Standards, supra; Statement on the Development and Use of International Reporting Standards in 2005, 
+Report of the Technical Committee of IOSCO, February 2005, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD182.pdf; International Disclosure Principles for 
+Cross-Border Offerings and Listings of Debt Securities by Foreign Issuers, supra; and IOSCO Statement 
+on International Auditing Standards, June 2009, available at 
+https://www.iosco.org/library/statements/pdf/statements-7.pdf. 
+152  See generally Statement on Providing Investors with Appropriate and Complete Information on 
+Accounting Frameworks Used to Prepare Financial Statements, Report of the Technical Committee of 
+IOSCO, February 2008, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD262.pdf.
+
+PRINCIPLES RELATING TO ISSUERS  
+121 
+ensure effective implementation and enforcement of these standards.  A jurisdiction’s 
+implementation and enforcement mechanisms need not rely upon the regulator or other 
+enforcement authorities organized within the jurisdiction; however, if third party enforcement 
+is utilized, it is essential that the regulatory framework within the jurisdiction provides that the 
+regulator or another body that acts in the public interest is capable of overseeing the 
+enforcement process and ensuring that the process is binding upon companies whose securities 
+are publicly offered or publicly traded within the jurisdiction, and external auditors practising 
+within the jurisdiction.  
+In assessing whether adequate mechanisms are in place for enforcing compliance with 
+accounting standards under Key Question 6, assessors may take into account requirements that 
+where financial statements deviate from accepted standards they must be restated or otherwise 
+corrected. 
+ 
+Benchmarks  
+Fully Implemented  
+Requires affirmative responses to all applicable Questions.  
+Broadly Implemented  
+Requires affirmative responses to all applicable Questions except to Questions 5(b) and 
+7.  
+Partly Implemented  
+Requires affirmative responses to all applicable Questions except to Questions 2(c), 4, 
+5(b), and 7.  
+Not Implemented  
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b), 2(a), 2(b), 
+2(d), 3(a), 3(b), 3(c), 5(a) or 6.
+
+PRINCIPLES RELATING TO ISSUERS  
+122 
+BIBLIOGRAPHY FOR PRINCIPLES RELATING TO ISSUERS 
+ 
+ Document Principles Other 
+Principles 
+1 Principles for Ongoing Disclosure for Asset -Backed 
+Securities, Final Report, Report of the Board of IOSCO, 
+November 2012,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD395.pdf 
+16  
+2 Disclosure Principles for Public Offerings and Listings of 
+Asset-Backed Securities , Final Report, Report of the 
+Technical Committee of IOSCO, April 2010, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD318.pdf 
+16  
+3 Principles for Periodic Disclosure by Listed Entities, Final 
+Report, Report of the Technical Committee of IOSCO, 
+February 2010, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD317.pdf 
+16  
+4 Unregulated Financial Markets and Products , Final Report, 
+Report of the Technical Committee of IOSCO, September 
+2009, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD301.pdf 
+16 8 
+5 Protection of Minority Shareholders in Listed Issuers, Final 
+Report, Report of the Technical Committee of IOSCO in 
+consultation with the OECD, June 2009,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD295.pdf 
+16  
+6 IOSCO Statement on International Auditing Standards, June 
+2009,  
+https://www.iosco.org/library/statements/pdf/statements-7.pdf 
+18  
+7 Statement on Providing Investors with Appropriate and 
+Complete Information on Accounting Frameworks Used to 
+Prepare Financial Statements
+, Report of the Technical 
+Committee of IOSCO, February 2008,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD262.pdf 
+16 
+18
+
+PRINCIPLES RELATING TO ISSUERS  
+123 
+ Document Principles Other 
+Principles 
+8 International Disclosure Principles for Cross -Border 
+Offerings and Listing of Debt Securities by Foreign Issuers, 
+Final Report, Report of the Technical Committee of IOSCO, 
+March 2007, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD242.pdf 
+16 
+18 
+ 
+9 Issuer Internal Control Requirements —  A Survey, Report of 
+the Technical Committee and the Emerging Markets 
+Committee of IOSCO, December 2006,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD229.pdf 
+16 19 
+10 Outsourcing in Financial Services, Report of the Joint Forum, 
+February 2005, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD184.pdf 
+18 10 
+31 
+11 Statement on the Development and Use of International 
+Financial Reporting Standards , Report of the Technical 
+Committee of IOSCO, February 2005,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD182.pdf 
+16 
+18 
+ 
+12 OECD Principles of Corporate Governance , Report of the 
+Organization for Economic Cooperation and Development, 
+2004,  
+http://www.oecd.org/corporate/ca/corporategovernanceprinciples/31557724.pdf  
+17  
+13 Report on Securities Activity on the Internet III, Report of the 
+Technical Committee of IOSCO, October 2003, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD159.pdf 
+16 11 
+13 
+31 
+14 Insider Trading —  How Jurisdictions Regulate It , Report of 
+the Emerging Markets Committee of IOSCO, May 2003, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD145.pdf 
+16  
+15 General Principles Regarding Disclosure of Management’s 
+Discussion and Analysis of Financial Condition and Results 
+of Operations, Report of the Technical Committee of IOSCO, 
+February 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD141.pdf 
+16
+
+PRINCIPLES RELATING TO ISSUERS  
+124 
+ Document Principles Other 
+Principles 
+16 Principles for Auditor Oversight, Statement of the Technical 
+Committee of IOSCO, October 2002,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD134.pdf 
+18 19 
+17 Principles for Ongoing Disclosu re and Material 
+Development Reporting by Listed Entities, Statement of the 
+Technical Committee of IOSCO, October 2002, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD132.pdf 
+16  
+18 Securities Activity on the Internet II, Report of the Technical 
+Committee of IOSCO, June 2001,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD120.pdf 
+16 11 
+33 
+19 Adapting IOSCO International Disclosure Standards for 
+Shelf Registration Systems , Report of the Technical 
+Committee of IOSCO, March 2001, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD118.pdf 
+16  
+20 Resolution on IASC Standards, Resolution of the Presidents’ 
+Committee of IOSCO, May 2000, 
+http://www.iosco.org/library/resolutions/pdf/IOSCORES19.pdf 
+16 
+18 
+ 
+21 Resolution on IOSCO Endorsement of Disclosure Standards 
+to Facilitate Cross- Border Offerings and Listings by 
+Multinational Issuers , Resolution of the Presidents’ 
+Committee of IOSCO, September 1998, 
+https://www.iosco.org/library/resolutions/pdf/IOSCORES17.pdf 
+16  
+22 Securities Activity on the Internet , Report of the Technical 
+Committee of IOSCO, September 1998, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD83.pdf 
+16 11 
+13 
+31 
+33 
+23 International Disclosure Standards for Cross -Border 
+Offerings and Initial Listings by Foreign Issuer , Report of 
+IOSCO, September 1998, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD81.pdf 
+16 
+17
+
+PRINCIPLES RELATING TO ISSUERS  
+125 
+ Document Principles Other 
+Principles 
+24 International Equity Offers —  Changes in Regulation Since 
+April 1996, Report of the Technical Committee of IOSCO, 
+September 1997, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD71.pdf   
+16  
+25 Reporting of Material Events in Emerging Markets, Report of 
+the Emerging Markets Committee of IO SCO, September 
+1996, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD62.pdf 
+16  
+26 International Equity Offers —  Changes in Regulation Since 
+April 1994, Report of IOSCO, September 1996,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD61.pdf 
+16  
+27 Report on Disclosure and Accounting , Report of the 
+Technical Committee of IOSCO, October 1994,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD39.pdf 
+16 
+18 
+ 
+28 International Equity Offers —  Changes in Regulation Since 
+April 1992, Report of IOSCO, October 1994,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD38.pdf 
+16  
+29 Report on Disclosure , Report of the Emerging Markets 
+Committee of IOSCO, October 1993, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD32.pdf 
+16  
+30 Report on Disclosure Requirements , Report of the 
+Development Committee of IOSCO, October 1992,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD24.pdf 
+16  
+31 International Equity Offers —  Changes in Regulation Since 
+April 1990, Report of IOSCO, September 1991, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD16.pdf 
+16  
+32 International Equity Offers , Report of IOSCO, September 
+1989,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD2.pdf 
+16
+
+PRINCIPLES RELATING TO ISSUERS  
+126 
+ Document Principles Other 
+Principles 
+33 Resolution on Harmonization of Accounting and Auditing 
+Standards, Resolution of the Presidents’ Committee of 
+IOSCO, November 1988, 
+http://www.iosco.org/library/resolutions/pdf/IOSCORES39.pdf. 
+18
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+127 
+F. PRINCIPLES FOR AUDITORS, CREDIT RATING AGENCIES, AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+1. Preamble 
+These Principles are about information that investors may rely on when making investment 
+decisions.  They differ from the Principles on issuers in that they relate to information that is 
+not generally prepared by issuers themselves.  Within modern financia l markets, entities exist 
+that analyze, evaluate, or provide assurance of information for investors about issuers, or their 
+securities, in order to help investors with their investment decisions.  
+For the purposes of the IOSCO Principles, such entities are called “information service 
+providers”.  These analytical, evaluative or audit services can take the form of opinions on:  
+• the fair presentation or true and fair view of issuers’ financial statements; 
+• the issuers’ credit worthiness or expected financial performance; or 
+• other important aspects of issuers’ operations, that investors consider material to 
+making investment decisions.  
+Accordingly, auditors, credit rating agencies (CRAs), and sell -side research analysts are 
+covered by the Principles in this sec tion.  Other information service providers may also fall 
+within the scope of these Principles as well. 
+Principles 19, 20, and 21 relate to auditors and audit standards, and are closely inter -related.  
+They are intended to assist securities market regulator y authorities and other authorities with 
+responsibility for auditor oversight, in developing and enhancing regulatory audit -related 
+structures and requirements.  In the jurisdictions where the securities regulator does not have 
+primary responsibility for auditor oversight and standards, it will have an interest in promoting 
+the existence of an oversight system that is consistent with maintaining and enhancing investor 
+confidence in financial statements. 
+Comprehensiveness, consistency, relevance, reliability , and comparability of financial 
+statements are crucial to informed decision making.  Investors need credible and reliable 
+financial statements when making decisions about capital allocations.  The public’s perception 
+of the credibility of financial reporting by public issuers is influenced significantly by the 
+perceived effectiveness of external auditors in examining and reporting on financial statements.  
+The reliability of financial information is also enhanced by audits performed by independent 
+auditors, who attest whether the financial statements prepared by management fairly present or 
+provide a true and fair view of the financial position and financial performance of the issuer in 
+accordance with the standards under which they are prepared.  The audit report should give an 
+audit opinion concerning compliance with the requirements of the accounting framework, 
+including accounting standards and any “present fairly” or “true and fair view” requirements.  
+Audits should be conducted in accordance with a com prehensive body of high and 
+internationally accepted auditing standards and by auditors that are subject to effective 
+oversight and that are independent of the entities they audit, in both fact and appearance.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+128 
+Principles 22 and 23 relate respectively to CR As and other information service providers but 
+are not closely inter- related.  CRAs can play an important role in modern capital markets by 
+opining on the credit risk of issuers of securities and their financial obligations.  Because CRAs 
+can play an impor tant role in securities markets, the activities of CRAs are of interest to 
+investors, issuers, market intermediaries, and financial regulators.  Securities regulators, in 
+particular, frequently have a dual interest in the activities of CRAs, both because C RAs may 
+have an effect on market transparency and because some jurisdictions allow credit ratings to 
+be used for regulatory purposes. 
+In addition to CRAs, other entities exist which provide analytical or evaluative services of 
+various types to investors to assist them with assessing the desirability of a particular 
+investment opportunity.  An example of one such entity that provides analytical or evaluative 
+services is “sell-side” securities analysts employed by the research departments of full-service 
+investment firms such as broker-dealers and investment banks who offer research to both retail 
+and institutional investors.  Such sell-side securities analysts can face conflicts of interest that 
+may compromise their abilities to offer investors independent, unbiased opinions.  Other types 
+of entities that provide analytical or evaluative services may also face conflicts of interest as 
+well, which may be similar or quite different, depending on the nature of the provider and/or 
+the information services they provide. 
+ 
+2. Scope 
+Principles 19 to 21 are intended to apply to those that provide auditing services for issuers 
+whose securities are listed, publicly offered or traded (public issuer).    
+Principle 22 is intended to apply to all CRAs that provide rating services in respect of issuers’ 
+securities that are sold to investors.  CRAs should be subject to adequate levels of oversight, 
+the nature of which may depend on the structure of the market, the structure of the CRA 
+industry in a given jurisdiction, how credit ra tings are used in a given jurisdiction, and the 
+corresponding regulatory risks CRAs may pose.  Where credit ratings are used for regulatory 
+purposes in a jurisdiction, “adequate levels of oversight” will mean some form of registration 
+and ongoing supervision. 
+Principle 23 is intended to apply to entities other than auditors or CRAs that also provide 
+analytical or evaluative services of various types to investors to assist them with assessing the 
+desirability of a particular investment opportunity.  This would include sell-side analysts.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+129 
+3. Principles 19 through 23   
+Principle 19  Auditors should be subject to adequate levels of oversight. 
+Effective oversight of those performing audit services is critical to the reliability and integrity 
+of the financial reporting process, and helps reduce the risks of financial reporting and auditing 
+failures in the public securities market.  The ultimate purpose of such oversight is to protect 
+the interests of investors and further the public interest in the preparation of informative, true, 
+fair, and independent audit reports. 
+There are benefits to an auditor oversight system that is not based exclusively or predominantly 
+on self-regulation.  Oversight of auditors can occur in several ways, including within audit 
+firms, by professional organizations and public or private sector oversight bodies, and through 
+government oversight.  Within a jurisdiction, auditors should be subject to oversight by a body 
+that acts, and is seen to act, in the public interest.  Regulation should, among other things, seek 
+to ensure:  
+• audit work is conducted pursuant to high and internationally acceptable standards; 
+• rules are designed to promote the independence of the auditor;  
+• there are mechanisms for enforcing compliance with auditing standards; and 
+• audits are performed with a high degree of objectivity. 
+ 
+Key Issues 
+1. Auditors should be subject to oversight by a body that acts, and is seen to act, in the 
+public interest.  While the nature of an auditor oversight body and the process through 
+which it carries out its activities may differ among jurisdictions, effective oversight 
+generally includes the following mechanisms or processes that:
+153 
+(a) Require that the auditors have proper qualifications and professional 
+competency before being licensed to perform audits. 
+(b) Withdraw authorization to perform audits if proper qualifications and 
+competency are not maintained. 
+(c) Require that auditors are independent of the enterprises they audit, both in fact 
+and in appearance. 
+(d) Provide oversight over the quality of auditing, and implementation of auditing, 
+independence and ethical standards, as well as quality control environments.154  
+                                                 
+153  Principles for Auditor Oversight, supra, pp. 3–4.  
+154  See generally Board Independence of Listed Companies, Final Report of the Technical Committee of 
+IOSCO in consultation with the OECD, March 2007, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD238.pdf.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+130 
+(e) Require auditors to be subject to the discipline of an auditor oversight body that 
+is independent of the audit profession, or, if the professional body acts as the 
+oversight body, is overseen by an independent body.   
+(f) Require that regular reviews be conducted by the auditor oversight body of audit 
+procedures and practices of firms that audit the financial statements of public 
+issuers.  Reviews should be conducted on a recurring basis, and should be 
+designed to determine the extent to which audit firms have and adhere to 
+adequate quality control policies and procedures that address all significant 
+aspects of auditing. 
+(g) Require an auditor oversight body to also address other matters such as 
+professional competency, rotation of audit personnel, employment of audit 
+personnel by audit clients, consulting and other non- audit services, and other 
+matters as deemed appropriate. 
+(h) Require an auditor oversight body to have the authority to stipulate remedial 
+measures for problems detected, and to initiate and/or to carry out disciplinary 
+proceedings to impose sanctions on auditors and audit firms, as appropriate. 
+ 
+Key Questions 
+1. Does the regulatory system provide a framework for overseeing the quality and 
+implementation of auditing, independence, and ethical standards, including the quality 
+control environments in which auditors operate? 
+2. Are auditors required to be qualified and competent pursuant to minimum requirements 
+before being licensed to perform audits, and to maintain professional competency? 
+3. Is there an oversight body that operates in the public interest, has an appropriate 
+membership, an adequate charter of responsibilities and powers, and adequate funding, 
+such that the oversight responsibilities  are carried out in a manner independent of the 
+auditing profession?  
+4. Does the auditor oversight body have an established process for performing regular 
+reviews of audit procedures and practices of firms that audit financial statements of 
+public issuers? 
+5. Are there standards and processes for regular assessments by the oversight body to 
+assess whether the auditor is and remains independent, both in fact and in appearance, 
+of the enterprises that it audits?  
+6.  
+(a) If the oversight process is performed in coordination with similar quality control 
+mechanisms that are in place within the audit profession, does the oversight 
+body: maintain control over key issues such as, the scope of reviews, access to, 
+and retention of, audit work papers and other information needed in reviews; 
+and follow up the outcome of reviews?
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+131 
+(b) Are reviews conducted on a recurring basis, and designed to determine the 
+extent to which audit firms have, and adhere to, adequate quality control policies 
+and procedures that address all significant aspects of auditing? 
+7. Does the auditor oversight body have the authority to stipulate remedial measures for 
+problems detected, and to initiate, and/or carry out, disciplinary proceedings to impose 
+sanctions on auditors and audit firms, as appropriate? 
+ 
+Explanatory Notes 
+Oversight of auditors can occur in several ways, including within audit firms; by professional 
+organizations; by public or private sector oversight bodies; or through government oversight.   
+The use of the term “oversight body” should be interpreted broadly.  In some jurisdictions, 
+there is a specific organization that is charged to act in the public interest to oversee auditors 
+and which has been granted certain powers, including rule -making authority, as well as the 
+power to carry out inspections and discipline auditors.  In other jurisdictions, there may be two 
+or more organizations that share responsibility for fulfilling the same objectives.  Regardless 
+of the structure, the auditor oversight framework should not be based exclusively or 
+predominantly on self-regulation.  A mechanism should exist to require auditors to be subject 
+to the discipline of an auditor oversight body that is independent of the audit profession, or, if 
+a professional body acts as the oversight body, is overseen by an independent body.  
+The “significant aspects of auditing” referred to in Key Question 6(b) include: 
+• Independence, integrity and ethics of auditors. 
+• Objectivity of audits. 
+• Selection, training, and supervision of personnel. 
+• Acceptance, continuation, and termination of audit clients. 
+• Audit methodology. 
+• Audit performance (i.e., compliance with applicable generally accepted auditing 
+standards). 
+• Consultation on difficult, contentious, or sensitive matters and resolution of differences 
+of opinion during audits. 
+• Second partner reviews of audits. 
+• Communications with management, supervisory boards, and audit committees of audit 
+clients. 
+• Communications with bodies charged with oversight over the financial reporting 
+process. 
+• Provisions for continuing professional education. 
+• Professional competency. 
+• Rotation of audit personnel.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+132 
+• Employment of audit personnel by audit clients. 
+• Consulting and other non-audit services.155 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 6(b). 
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 4 and 
+6(b). 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1, 2, 3, 5, 6(a) or 7.
+                                                 
+155  Principles for Auditor Oversight, supra, p. 4.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+133 
+Principle 20  Auditors should be independent of the issuing entity that they audit 
+Independent auditors play a critical role in enhancing the reliability of financial information by 
+attesting as to whether the financial statements prepared by management fairly present, or 
+provide a true and fair view of, the financial condition and past performance of the issuer in 
+compliance with accepted standards. 
+An external auditor plays a critical role in lending independent credibility to published financial 
+statements used by investors, creditors, and other stakeholders as a basis for making capital 
+allocation decisions.  The public’s perception of the credibility of financial reporting by public 
+issuers is influenced significantly by the perceived effectiveness of external auditors in 
+examining and reporting on financial statements.  A fundamental element of this public 
+confidence is that external auditors operate, and are seen to operate, in an environment that 
+supports objective decision- making on key issues having a material effect on financial 
+statements.  For this to happen, auditors must be independent of the entities they audit, in both 
+fact and appearance. 
+Standards of independence for a uditors of public issuers should be designed to promote an 
+environment in which the auditor is free of any influence, interest, or relationship that might 
+impair professional judgment or objectivity or, in the view of the reasonable investor, might 
+impair professional judgment or objectivity.  Robust independence standards that are 
+consistently applied and enforced are a necessary element in reassuring the investing public 
+that auditors are in a position to exercise objective judgment in concluding on management’s 
+representations in an entity’s financial statement.
+156 
+ 
+Key Issues 
+1. The regulatory framework should be designed to foster auditor independence and 
+oversight of an auditor’s independence. 
+2. Standards of external auditor independence should establish a framework of principles, 
+supported by a combination of prohibitions, restrictions, other policies and procedures 
+and disclosures, which address at least the following threats to independence:  
+(a) self-interest;  
+(b) self-review;  
+(c) advocacy; 
+(d) familiarity; and  
+(e) intimidation. 
+                                                 
+156  See generally Principles of Auditor Independence and the Role of Corporate Governance in Monitoring an 
+Auditor’s Independence, Statement of the Technical Committee of IOSCO, October 2002, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD133.pdf.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+134 
+3. Independence should include appropriate rotation of the auditor and/or the audit 
+engagement team, such that senior member(s) of a team do not remain in key decision-
+making positions for an extended period.   
+4. In case of public issuers, regardless of the particular legal structure in a jurisdiction, a 
+governance body that is in both appearance and fact independent of management of the 
+company being audited (e.g., audit committee, board of corporate statutory auditors or 
+other body independent of the entity’ s management) should oversee the process of 
+selection and appointment of the external auditor. 
+5. Prompt disclosure to the public should be required when an auditor of a public issuer is 
+replaced. 
+6. The governance structure of public issuers should contribute to the monitoring and 
+safeguarding of the independence of its external auditor. 
+ 
+Key Questions 
+1. Does the regulatory framework set standards for the independence of external auditors? 
+2. Do the standards contain restrictions relating to audit firms and individuals within the 
+audit firm regarding financial, business or other relationships with an entity that the 
+firm audits? 
+3. Do the standards address the following: 
+(a) self-interest? 
+(b) self-review? 
+(c) advocacy? 
+(d) familiarity?  
+(e) intimidation? 
+4. Are there regulatory standards that govern the provision of non- audit services to an 
+entity that an audit firm audits? 
+5. Are auditors required to establish and maintain internal systems, governance 
+arrangements, and processes for monitoring, identifying and addressing threats to 
+independence, including the rotation of auditors and/or senior member(s) of the audit 
+engagement team, and ensuring compliance with the standards? 
+6. From the perspective of public issuers: 
+(a) Is the external auditor required to be independent in both fact and appearance of 
+the entity being audited? 
+(b) Is there a governance body independent in both fact and appearance of the 
+management of the entity (e.g., audit committee, board of corporate statutory 
+auditors or other body independent of the entity ’s management) that oversees 
+the process of selection and appointment of the external auditor?
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+135 
+(c) Are governance standards intended to promote and contribute to the monitoring 
+and safeguarding of the independence of the external auditor? 
+(d) Is prompt disclosure of information about the resignation, removal, or 
+replacement of an external auditor required? 
+7. Is there an adequate mechanism in place for enforcing compliance with auditor 
+independence standards, for example:  to stipulate remedial measures for problems 
+detected and to initiate and carry out disciplinary proceedings to impose sanction on 
+auditors and audit firms as appropriate; to refuse to accept, or require revision of, audit 
+reports; or for lack of independence? 
+ 
+Explanatory Notes 
+When considering how the regulatory framework is designed to address auditor independence 
+and adequate oversight of an auditor’s independence, the following more specific points are 
+relevant: 
+• Standards of independence should identify appropriate measures that the auditor should 
+implement in order to address any threats to independence that arise within permissible 
+activities and relationships. 
+• Standards of independence should be supported by rigorous requirements for audit 
+firms to e stablish and maintain internal systems and processes for monitoring, 
+identifying, and addressing threats to independence and ensuring compliance with 
+relevant standards, regulations, prohibitions and restrictions. 
+• Standards of independence should require t he auditor to identify and evaluate all 
+significant, or potentially significant, threats to independence, including those arising 
+from recent relationships with the entity being audited that may have preceded the 
+appointment as auditor, and demonstrate how the auditor has addressed such significant 
+threats. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 5. 
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 4 and 5. 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1, 2, 3(a), 3(b), 3(c), 3(d), 
+3(e), 6(a), 6(b), 6(c), 6(d) and 7.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+136 
+Principle 21  Audit standards should be of a high and internationally acceptable 
+quality 
+High quality auditing standards help safeguard the integrity of an issuer’s financial statements.  
+Auditing standards are necessary safeguards of t he reliability of financial information, such 
+standards should be comprehensive, well-defined and of a high and internationally acceptable 
+quality.  They are a necessary counterpart to high quality and internationally accepted 
+accounting standards and thei r application in audits contributes to providing investors with 
+accurate and relevant information on financial performance. 
+Regulation regarding audit standards should require: 
+• An independent verification of financial statements and compliance with account ing 
+principles through professional external auditing. 
+• An appropriate mechanism for the setting of quality standards and to ensure that where 
+there is some dispute or uncertainty, standards can be the subject of authoritative and 
+timely interpretation that is consistently applied. 
+• Any audit is conducted pursuant to standards of a high and internationally acceptable 
+quality. 
+Key Issues 
+1. Regulation should require that financial statements prepared by public issuers be 
+audited in accordance with a comprehensive set of auditing standards. 
+2. Such auditing standards should be of high and internationally acceptable quality in 
+order to contribute to the quality of financial reporting and reliability of financial 
+information, and thereby support investor confidence and decision-making.  
+3. There should be an appropriate mechanism for the setting and interpretation of the 
+auditing standards.  
+4. There should be a regulatory framework for enforcing compliance with auditing 
+standards. 
+Key Questions 
+1. Does the regulatory framework require that financial statements included in public 
+offering and listing particulars documents, and publicly available annual reports, be 
+audited in accordance with a comprehensive set of auditing standards?  
+2. Are the prevailing auditing standards of a high and internationally acceptable quality? 
+3.  
+(a) Does the regulatory framework provide for an organization responsible for the 
+establishment and timely updating of auditing standards?
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+137 
+(b) If yes, are the organization’s processes open, t ransparent and subject to public 
+oversight, and, if the organization is independent, is the standard setting and 
+interpretation process undertaken in cooperation with, or subject to oversight 
+by, the regulator or another body that acts in the public interest? 
+4. Is there an adequate mechanism in place for enforcing compliance with auditing 
+standards? 
+ 
+Explanatory Notes 
+This Principle should be considered and assessed in conjunction with Principle 16, which 
+requires full, timely, and accurate disclosure of financial information material to investment 
+decisions, and Principle 18, which requires the use of accounting standa rds of a high and 
+internationally acceptable quality.  The assessor should establish under Principles 16 and 18 
+whether the financial statements required in public offering and listing particulars documents, 
+and periodic reports are sufficient to meet the full, accurate and timely disclosure requirement, 
+and then assess, under Principle 21, the auditing standards used in their verification.  
+The auditing standards referred to above need not be standards that are established or 
+interpreted by an organization within the jurisdiction.  Some jurisdictions may wish to adopt 
+and rely upon standards established and/or interpreted by international or other standards -
+setting organizations.  
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 3(b). 
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 3(a) and 
+3(b). 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1, 2 or 4.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+138 
+Principle 22 Credit rating agencies should be subject to adequate levels of oversight.  
+The regulatory system should ensure that credit rating agencies whose 
+ratings are used for regulatory purposes are subject to registration and 
+ongoing supervision. 
+Credit rating agencies (CRAs) can play an important role in modern capital markets.  CRAs 
+typically opine on the credit risk of issuers of securities and their financial obligations.  Given 
+the vast amount of information available to investors today – some of it valuable, some of it 
+not – CRAs can play a useful role in helping investors and others sift through this information, 
+and analyze the credit risks they face when lending to a particular borrower or when purchasing 
+an issuer’s debt and debt-like securities. 
+Because CRAs can play an important role in securities markets, the activities of CRAs are of 
+interest to investors, issuers, market interme diaries, and financial regulators.  Securities 
+regulators, in particular, frequently have a dual interest in the activities of CRAs, both because 
+CRAs may have an effect on market transparency and because some jurisdictions allow CRA 
+ratings to be used for regulatory purposes. 
+Because CRAs can play an important role in helping market participants incorporate into their 
+decision-making voluminous, diverse, and highly complicated information about a particular 
+investment, regulators, market participants and CRAs themselves have an interest in ensuring 
+that CRAs carry out this role in an honest and fair manner.  Where credit ratings are used for 
+regulatory purposes – for example, permitting regulated entities to use ratings of a security as 
+part of a net capita l assessment, or requiring that fund managers only include securities rated 
+above a certain level in some types of funds – the regulator’s interest in the activities of these 
+CRAs may be even greater. 
+Accordingly, CRAs should be subject to adequate levels of oversight, the nature of which 
+depends on: 
+• the structure of the market; 
+• the structure of the CRA industry in a given jurisdiction; 
+• how credit ratings are used in a given jurisdiction; and 
+• the corresponding regulatory risks CRAs pose. 
+Where credit ratings are used for regulatory purposes in a jurisdiction, “adequate levels of 
+oversight” of the CRA issuing those ratings will mean some form of registration and ongoing 
+supervision albeit, as noted below, not necessarily by the regulator in whose jurisd iction the 
+ratings are used.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+139 
+Key Issues 
+1. IOSCO has developed a Statement of Principles Regarding the Activities of Credit 
+Rating Agencies  (“CRA Principles ”), which are designed to “ be a useful tool for 
+securities regulators, CRAs, and others wishing to improve how CRAs operate and how 
+the opinions CRAs assign are used by market participants.”157  To take into account the 
+varying size and business models of CRAs, the manner in which the principles were to 
+be implemented was left open.  The CRA Principles conte mplate that a variety of 
+mechanisms could be used, including both market mechanisms and regulation.  
+Following publication of the CRA Principles, some commentators, including a number 
+of CRAs, suggested that it would be useful if IOSCO were to develop a more detailed 
+and specific code of conduct to provide guidance to CRAs for implementing the 
+objectives of the CRA Principles.  In response, IOSCO developed a Code of Conduct  
+Fundamentals for Credit Rating Agencies  (the “IOSCO Code ”) to which IOSCO 
+Technical Committee members expect CRAs will give full effect.
+158  As with the CRA 
+Principles, the IOSCO Code is not designed to be rigid or formulaic, and is designed to 
+offer CRAs a degree of flexibility in how its measures are incorporated into their 
+individual codes of conduct, according to each CRA ’s specific legal and market 
+circumstances.  The IOSCO Code calls for CRAs to disclose how each provision of the 
+IOSCO Code is adopted in the CRA’ s own code of conduct, explain if and how their 
+own codes deviate from the IOSCO Code, and how such deviations nonetheless achieve 
+the objectives set forth in the CRA Principles and the IOSCO Code. 
+2. The IOSCO CRA Principles and the IOSCO Code “ articulate four objectives that 
+CRAs, regulators, issuers and other market participants should strive to achieve. ”
+159  
+The four objectives are designed to encourage the adoption of procedures and 
+mechanisms that promote: 
+(a) the quality and integrity of the rating process; 
+(b) CRA independence and avoidance of conflicts of interest; 
+(c) providing investor s with timely information about, and the procedures, 
+methodologies and assumptions, behind a rating; and 
+(d) the protection of non- public information from premature disclosure or use by 
+the CRA or its employees that is unrelated to a CRA’s rating activities. 
+                                                 
+157  IOSCO Statement Of Principles Regarding the Activities of Credit Rating Agencies, Statement of the 
+Technical Committee of IOSCO, September 2003, p. 1, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD151.pdf. 
+158  See generally Code of Conduct Fundamentals for Credit Rating Agencies, Report of IOSCO, December 
+2004 (revised May 2008 and March 2015), available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD482.pdf. 
+159  Regulatory Implementation of the Statement of Principles Regarding the Activities of Credit Rating 
+Agencies, Final Report, Report of the Technical Committee of IOSCO, February 2011, p. 6, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD346.pdf.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+140 
+3. An oversight regime designed to achieve these objectives may take many different 
+forms.  In some cases, a jurisdiction may decide that these objectives may be best 
+implemented through internal CRA mechanisms and promoted by borrowers, lenders 
+and other mar ket participants.  In other cases, a jurisdiction may decide that the 
+objectives may be best achieved through regulatory requirements.  As a result, 
+mechanisms for implementing the objectives may take the form of any combination of: 
+(a) government regulation; 
+(b) regulation imposed by non-government statutory regulators; 
+(c) industry codes; and 
+(d) internal rating agency policies and procedures. 
+4. Where a CRA ’s ratings are used for regulatory purposes, however, the regulatory 
+system should establish mechanisms that seek to achieve the above objectives through 
+registration and oversight requirements that impose binding and enforceable 
+obligations on CRAs. 
+ 
+Key Questions 
+Registration: 
+1.  
+(a) Does the jurisdiction have a definition of “ credit rating” and/or “credit rating 
+agency” or otherwise define a scope of activities for the purpose of imposing 
+registration and supervision requirements on entities that engage in the business 
+of determining and issuing credit ratings that are used for regulatory purposes? 
+(b) Are CRAs located in the jurisdiction and whose ratings are used for regulatory 
+purposes in the jurisdiction subject to registration (“regulated CRAs”)? 
+(c) Do the jurisdiction’s registration requirements provide the regulator with the 
+ability to obtain all information it deems necessary  from a CRA seeking 
+registration in order to determine whether the requirements for registration have 
+been fulfilled? 
+(d) If a CRA’s ratings are used for regulatory purposes but the CRA itself is not 
+located in the regulator’s market and the regulator does not require registration 
+or oversight of the CRA in question, has the regulator made a reasonable 
+judgment to ensure that the CRA is subject to registration and oversight as 
+required by Principle 22? 
+Ongoing Supervision: 
+2.  
+(a) Do the jurisdiction’ s requirements pr ovide the regulator with the ability to 
+obtain all information about a regulated CRA that the regulator deems necessary 
+to perform adequate oversight of the regulated CRA?
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+141 
+(b) Are CRAs whose ratings are used for regulatory purposes in the jurisdiction, 
+and who are located in the jurisdiction:  
+(i) supervised on an ongoing basis;  
+(ii) subject to examination by the regulator; and  
+(iii) subject to enforcement of the jurisdiction’s requirements? 
+Registering Authority: 
+3. Does the regulator have the power to: 
+(a) Refuse to register a CRA if the registration requirements have not been met, and 
+to withdraw, suspend or condition a registration or authorization in the event of 
+a failure of a regulated CRA to meet relevant requirements? 
+(b) Impose adequate measures and sanctions to address a failure of a regulated CRA 
+to meet relevant requirements? 
+Oversight Requirements:  Quality and Integrity 
+4. Does oversight of regulated CRAs incorporate requirements that address whether: 
+(a) Regulated CRAs adopt and implement written procedures and methodologies 
+designed to ensure that:  
+(i) they issue initial credit ratings based on a fair and thorough analysis of 
+all information known to the CRA that is relevant to its analysis 
+according to the CRA’s published rating methodology; and,  
+(ii) except for credit ratings that clearly indicate they do not entail ongoing 
+surveillance, the regulated CRA updates credit ratings as new 
+information becomes available in accordance with the regulated CRA’s 
+published rating methodology for monitoring credit ratings? 
+(b) Regulated CRAs maintain internal records to support their credit ratings? 
+(c) Regulated CRAs have sufficient resources to carry out high -quality credit 
+assessments? 
+Oversight Requirements:  Conflicts of Interest 
+5. Does oversight of regulated CRAs incorporate requirements that address whether: 
+(a) Regulated CRA credit rating decisions are independent and free from political 
+or economic pressures and from conflicts of interest arising due to the regulated 
+CRA’s ownership structure, business or financial activities, securities or 
+derivatives trading, or the financial interests of the regulated CRA’s employees 
+(including securities and derivatives trading by the employees and their 
+compensation arrangements)? 
+(b) Regulated C RAs (1) identify, and (2) eliminate, or manage and disclose, as 
+appropriate, any actual or potential conflicts of interest that may influence:  
+(i) the opinions and analyzes regulated CRAs produce; or
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+142 
+(ii) the judgment and analyz es of the individuals the regulated CRAs 
+employ, who have an influence on ratings decisions? 
+(c) Regulated CRAs disclose actual and potential conflicts of interest arising from 
+the nature of compensation arrangements for producing credit ratings? 
+Oversight Requirements:  Transparency and Timeliness 
+6. Does oversight of regulated CRAs incorporate requirements that address whether: 
+(a) Regulated CRAs distribute their credit ratings in a timely manner? 
+(b) Regulated CRAs disclose credit ratings on a non-selective basis? 
+(c) Regulated CRAs publish sufficient information about their procedures, 
+methodologies and assumptions, so that outside parties can understand how a 
+rating was arrived at by the regulated CRA, and the attributes and limitations of 
+such a rating? 
+(d) Regulated CRAs publish sufficient information about the historical default rates 
+of their credit ratings, so that interested parties can understand the historical 
+performance of their credit ratings? 
+Oversight Requirements:  Confidential Information 
+7. Does oversight of regulated CRAs incorporate requirements that address whether CRAs 
+protect non-public information: 
+(a) provided by issuers so that such information is only used for the purposes related 
+to their rating activities; and 
+(b) with respect to pending rating actions? 
+ 
+Explanatory Notes 
+CRAs vary considerably in their size, scope of operations, and business models.  Depending 
+on these factors, not all regulatory issues may be present in every jurisdiction, and regulators 
+should be afforded flexibility when assessing the regulatory issues CRAs raise in their  own 
+markets.  Regulators also approach the regulatory issues raised by CRAs in different ways, 
+with (for example) some approaching oversight of CRAs as a natural or de facto oligopoly that 
+is regulated in a fashion similar to a “utility,” while others may  emphasize increasing 
+competition in the CRA market.  The approach chosen by regulators may have an effect on the 
+emphasis they place on the different regulatory issues outlined above. 
+Legal systems vary in structure and specific provisions between jurisdi ctions.  However, they 
+embed implementation measures in varying degrees in order to achieve the objectives of the 
+four IOSCO CRA Principles (quality and integrity of the ratings process, management of 
+conflicts, transparency, and treatment of confidential information).
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+143 
+In respect of Key Questions 4 – 7, there may be different ways of ensuring that these Questions 
+can be answered affirmatively.160  For example, regulated CRAs may be subject to: regulatory 
+provisions on the national level that set forth the obj ectives themselves; conditions to become 
+registered, or maintain registration, that promote the objectives; requirements to establish 
+policies and procedures designed to achieve the objectives; or disclosure requirements that 
+promote the objectives. 
+In respect of Key Question 1(d), given the structure of the global CRA industry at the time of 
+adoption of this Methodology, there will be jurisdictions where credit ratings are used for 
+regulatory purposes where the relevant CRA is located (in the sense of physical presence) in a 
+different jurisdiction.  In such cases, steps may have been taken to reduce the use of such credit 
+ratings for regulatory purposes.  Where the use of credit ratings for regulatory purposes has not 
+been eliminated, the regulator should be able to demonstrate that it has made a reasonable 
+judgment not to register or oversee the CRA, based on factors such as: 
+• the activities of the CRA in the jurisdiction; 
+• the regulatory arrangements in the home jurisdiction. 
+Alternatively, in place of a registration requirement, the regulator may impose some oversight 
+or reporting requirements and make arrangements for supervisory cooperation with the 
+regulator which registers the CRA. 
+In respect of Key Question 4(c), regulated CRAs should have sufficient resources to determine 
+credit ratings according to their published and documented ratings methodologies, including 
+sufficient personnel to properly assess the entities they rate, seek out information they need in 
+order to make an assessment, and analyze all the information relevant to their decision-making 
+processes. 
+In respect of Key Question 6(b) , the non- selective disclosure of credit ratings means the 
+disclosure of credit ratings which are consistent with the regulated CRA’s business model.  For 
+example, a regulated CRA operating under the subscriber -pay model may disclose its credit 
+ratings only to persons who pay to access the credit ratings. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 4(a), 
+4(c), 5(c) and 6(a). 
+                                                 
+160  The Key Questions are based on the principles set forth in the CRA Principles.  The Regulatory 
+Implementation of the Statement of Principles Regarding the Activities of Credit Rating Agencies, supra, 
+describes the implementation undertaken in regulatory programs in various, different jurisdictions in order 
+to give effect to the IOSCO CRA Principles.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+144 
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 1(c), 
+4(a), 4 (b), 4(c), 5(c), 6(a), 6(b), 6(c), 6(d), 7(a), and 7(b). 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1 (a), 1(b), 1(d), 2(a), 
+2(b), 3(a), 3(b), 5(a), or 5(b).
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+145 
+Principle 23 Other entities that offer investors analytical or evaluative services should 
+be subject to oversight and regulation appropriate to the impact their 
+activities have on the market or the degree to which the regulatory system 
+relies on them. 
+Objective 
+In many markets, entities exist which provide analytical or evaluative services of various types 
+to investors to assist them with assessing the desirability of a particular investment opportunity.  
+Depending on the degree to which the regulatory system relies on them, or the impact their 
+activities have on the market, such entiti es may need to be subject to regulation or oversight.  
+An example of one such entity that provides analytical or evaluative services is “sell -side” 
+securities analysts employed by the research departments of full-service investment firms (such 
+as broker -dealers and investment banks) who offer research to both retail and institutional 
+investors.  Such sell-side securities analysts can face conflicts of interest that may compromise 
+their ability to offer investors independent unbiased opinions.  Other types of entities that 
+provide analytical or evaluative services may also pose risks to the users of these services, or 
+to the integrity of the market, and therefore may warrant oversight and regulation.  Oversight 
+and regulation of these entities may also be war ranted if the regulatory system relies on the 
+services they provide. 
+ 
+Key Issues 
+1. Entities that provide analytical or evaluative services to investors, such as sell -side 
+securities analysts, provide investors with valuable insights by distilling the wide range 
+of information that is available to the markets.  IOSCO has recognized that “ sell-side” 
+securities analysts, in particular, can face conflicts of interest that may compromise their 
+ability to offer investors independent unbiased opinions.  Biased resea rch can harm 
+investors and undermine the fairness, efficiency and transparency of the markets.  
+Because of concerns that sell-side securities analyst conflicts of interest pose problems 
+for investor protection and market integrity, IOSCO has developed principles regarding 
+sell-side securities analyst conflicts of interest.
+161 
+2. Among the principle regulatory concerns regarding sell -side securities analysts, is the 
+opportunity for fraud and deception, but also the risks posed to investors by hidden 
+conflicts of interest. 
+3. The key issues the regulator should consider when determining whether entities that 
+provide analytical or evaluative services should be subject to oversight and regulation 
+include: 
+(a) the type of analytical or evaluative services that these entities provide; 
+                                                 
+161  See generally IOSCO Statement of Principles for Addressing Sell-Side Analyst Conflicts of Interest, Report 
+of the Technical Committee of IOSCO, September 2003, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD150.pdf.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+146 
+(b) the impact of their services on a given market with regard, in particular, to the 
+potential risks that their activities pose to the users of these services or to the 
+integrity of the market, specifically with respect to potential conflicts or the  
+integrity of the service; 
+(c) whether the services offered by these entities are relied on for regulatory 
+purposes and, if so, to what degree; and 
+(d) where the regulator determines that the services provided by a type of entity 
+have enough impact on the market t o warrant oversight, whether, and to what 
+extent, regulation or oversight is necessary to help address identified risks. 
+Key Questions 
+1. Does the regulator periodically consider whether the different types of entities that 
+provide analytical or evaluative se rvices warrant regulation and oversight because of 
+the impact of their activities on the market or because of the degree to which the 
+regulatory system relies on them? 
+2. Where the regulator identifies the need for regulation and oversight, is the regulation 
+and oversight put into place appropriate to the risks posed by these types of entities? 
+3. With respect to sell-side securities analysts: 
+(a) Does regulation contain provisions directed at eliminating, avoiding, managing 
+or disclosing conflicts of interest that can arise from: 
+(i) Analysts’ trading activities or financial interests? 
+(ii) The trading activities or financial interests of the entities that employ 
+them? 
+(iii) The business relationships of the entities that employ them? 
+(iv) The reporting lines for analysts and their compensation arrangements? 
+(b) Does regulation contain provisions directed at an entity’ s compliance systems 
+and senior management responsibility: 
+(i) Requiring written internal procedures or controls to identify and 
+eliminate, manage or disclose actual and potential analyst conflicts of 
+interest? 
+(ii) Requiring procedures to eliminate or manage the undue influence of 
+issuers, institutional investors and other outside parties upon analysts? 
+(iii) Requiring complete, timely, clear, concise, specific, and prominent 
+disclosures of actual and potential conflicts of interest? 
+(c) Does regulation contain provisions directed at integrity and ethical behaviour, 
+such as requiring analysts, and/or the firms that employ analysts, to act honestly 
+and fairly with clients?
+162 
+                                                 
+162  Assessors should recognize that issues relating to ethics and integrity can be addressed by a variety of 
+mechanisms, including “fit and proper” requirements, statutory disqualification, industry and SRO codes 
+of conduct, etc.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+147 
+Explanatory Notes 
+The entities that could be covered by this principle could be quite broad.  Jurisdictions will 
+vary considerably in their assessments of the risks posed by different types of entities that 
+provide analytical or evaluative services, and even in their determination of what type of entity 
+would fall within this Principle.  Furthermore, depending on the jurisdiction’s laws, some 
+entities that provide analytical or evaluative services may be regulated by bodies other than the 
+securities regulator.  Likewise, some jurisdictions may restrict the authority of the government 
+to regulate certain types of entities that provide analytical or evaluative services if the services 
+they provide are viewed as particularly critical (possibly with laws against fraud rather than 
+regulation used to shield against egregious conflicts of interest or deception).
+163  These 
+differences in approach to regulating such entities should be deemed acceptable. 
+With regard to Key Questions 1 and 2, to date, the only entities offering investors analytical or 
+evaluative services that IOSCO has identified, and for which it has developed principles or 
+standards, are sell-side securities analysts. 
+There is overlap between Principle 23 and both Principle 7 (Perimeter of Regulation) and 
+Principle 8 (Conflicts of Interest).  Principle 23 can be viewed as a subset of both Principle 7 
+and Principle 8, insofar as conflicts of interest and other potentially problematic practices by 
+information service providers can pose particular risks to investor protection and m arket 
+integrity.  Consequently, it is possible that a regulator addresses Principle 23 through its general 
+review of the perimeter of regulation and conflicts of interest in the market. 
+There is also overlap between Principle 23 and Principle 7 insofar as the regulator does not 
+have the legal authority to regulate an information service provider that it identifies as 
+presenting a significant risk to the market’s integrity.  In such cases, Principle 7 is more 
+applicable insofar as the regulator identifies th e risk, and legislative authority to address it is 
+sought. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except Question 3(c). 
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except Questions 3(b)(iii) 
+and 3(c). 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1, 2 (where relevant 
+because of the outcomes of the review in Question 1) and 3(a), 3(b)(i), and 3(b)(ii). 
+  
+                                                 
+163  For example, laws protecting freedom of the press or freedom of speech may limit the degree to which 
+some entities are regulated in some jurisdictions.
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+148 
+BIBLIOGRAPHY FOR PRINCIPLES RELATING TO AUDITORS, CREDIT 
+RATING AGENCIES AND OTHER INFORMATION SERVICE 
+PROVIDERS 
+ 
+ Document Principle Other 
+Principles 
+1 Code of Conduct Fundamentals for Credit Rating Agencies , 
+Report of IOSCO, December 2004 (Revised May 2008 and 
+March 2015),  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD482.pdf 
+22  
+2 Principles for Oil Price Reporting Agencies , Report of the 
+Technical Committee of IOSCO, October 2012,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD391.pdf  
+23  
+3 Regulatory Implementation of the Statement of Principles 
+Regarding the Activities of Credit Rating Agencies , Final 
+Report, Report of the Technical Committee of IOSCO, 
+February 2011,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD346.pdf 
+22  
+4 IOSCO Statement on International Auditing Standards , 
+November 2007,  
+http://www.iosco.org/news/pdf/IOSCONEWS109.pdf   
+19  
+5 Board Independence of Listed Companies, Final Report of the 
+Technical Committee of IOSCO in consultation with the 
+OECD, March 2007,  
+ https://www.iosco.org/library/pubdocs/pdf/IOSCOPD238.pdf 
+19  
+6 Survey on the Regulation of Non-Audit Services Provided by 
+Auditors to Audited Companies, Summary Report of the 
+Technical Committee and Emerging Markets Committee of 
+IOSCO, January 2007,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD231.pdf 
+19  
+7 Issuer Internal Control Requirements —  A Survey, Report of 
+the Technical Committee and the Emerging Markets 
+Committee of IOSCO, December 2006,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD229.pdf 
+19 16
+
+PRINCIPLES RELATING TO AUDITORS , CREDIT RATING AGENCIES , AND OTHER 
+INFORMATION SERVICE PROVIDERS  
+149 
+ Document Principle Other 
+Principles 
+8 Survey Report on Regulation and Oversight of Auditors, 
+Report of the Technical Committee and Emerging Markets 
+Committee of IOSCO, April 2005,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD199.pdf 
+19  
+9 IOSCO Statement of Principles Regarding the Activities of 
+Credit Rating Agencies , Statement of the Technical 
+Committee of IOSCO, September 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD151.pdf  
+“CRA Principles” 
+22  
+10 IOSCO Statement of Principles for Addressing Sell -Side 
+Analyst Conflicts of Interest , Report of the Technical 
+Committee of IOSCO, September 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD150.pdf 
+23 31 
+11 Principles for Auditor Oversight , Statement of the Technical 
+Committee of IOSCO, October 2002,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD134.pdf 
+19 18 
+12 Principles of Auditor Independence and the Role of Corporate 
+Governance in Monitoring an Auditor’s Independence , 
+Statement of the Technical Committee of IOSCO, October 
+2002,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD133.pdf 
+19 
+20
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+150 
+G. PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND 
+HEDGE FUNDS  
+1. Preamble  
+Principles 24 to 27 relating to Collective Investment Schemes 
+The legal form taken by collective investment schemes (CIS) varies between jurisdictions, but 
+in all jurisdictions they play an important role, channelling resources to the securities markets 
+and offering investors a means to achieve diversified exposure to investment opportunities.  To 
+the extent that investors place their money in CIS, appropriate regulation is increasingly 
+important.  
+Proper regulation of CIS is critical to the objectives of investor protection and the preservation 
+of confidence in the market. 
+CIS, like other investment vehicles, are subject to disclosure requirements.
+164  However, 
+investors in CIS rely upon operators of the CIS to manage the CIS and its investment portfolio 
+and to act in their best interests.  CIS are widely marketed to retail investors, who may place 
+enhanced reliance on CIS operators and, therefore, may be vulnerable to misconduct by CIS 
+operators.  Regulation should promote and ensure a high level of compliance by entities 
+involved in CIS operations.  
+Regulation of CIS should cover:  
+• the eligibility, governance, organization and operational conduct of the CIS operator;  
+• adherence to the terms of the prospectus and other constituent documents;  
+• the proper safekeeping of investors’ funds and the assets of the CIS;  
+But not the wisdom of investment decisions (where these are within the terms of the constituent 
+documents).  
+Supervision should seek to ensure that the assets of a CIS are managed in the best interests of 
+its investors, and in accordance with the CIS objectives and the regulation to which it is subject.  
+This will include:  
+• ensuring promotion of high standards of competence, integrity and fair dealing;  
+• that the assets are held in safekeeping on behalf of investors; and  
+• having mechanisms in place to confirm that the investments of the CIS are valued 
+properly.   
+Supervision of a CIS operator in this regard includes oversight of arrangements to ensure that 
+investors are exposed to a level of risk that is consistent with the CIS’ objectives, as well as to 
+ensure that any regulatory minimum level of diversification is maintained.
+165  
+                                                 
+164 Principles 16–18 and Principle 26. 
+165 Principles for the Supervision of Operators of Collective Investment Schemes, Report of the Technical 
+Committee of IOSCO, September 1997, p. 4, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD69.pdf.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+151 
+Principle 28 relating to Hedge Funds 
+Historically, IOSCO has not included hedge funds within the definition of CIS.  This approach 
+recognizes the different ways in which IOSCO members regulate hedge funds and that hedge 
+funds traditionally have been offered to institutional or other sophisticated investors.  Some 
+IOSCO members regulate hedge funds as CIS and therefore apply some or all CIS Principles 
+in the hedge fund field, while others do not.  Therefore, Principle 28 deals separately with 
+hedge funds. 
+Hedge funds play an important role in global capital markets.  They can provide price 
+efficiency, and risk distribution, can contribute to the further global integration of financial 
+markets, and can offer diversification benefits.  They are a source of continuous product change 
+and innovation, potentially enhancing the liquidity and resilience of financial systems 
+worldwide.
+ 166 
+Hedge funds may however pose a number of risks to market integrity, investor protection, and 
+financial stability.  This may be the result of different factors, including a lack of transparency 
+regarding the fund, its strategy and asset allocation; conflicts of interest between fund managers 
+and other market participants and difficulties in valuing complex financial instruments 
+employed or held by hedge funds.  
+Potential risks posed by hedge funds are magnified when financial markets are suffering from 
+stress or instability.  Hedge f unds may use leverage and, should a problem arise, the 
+concentrated unwinding of their positions could cause major dislocation and potential 
+disorderly pricing of markets.  Failures in hedge funds may have a contagion effect on the 
+wider market through the  banks/prime brokers that they use as counterparties.  They may 
+increase systemic risks and directly impact on the real economy through disruptions to payment 
+and clearing services. 
+Potential risks posed by hedge funds need to be mitigated through appropri ate oversight of 
+hedge funds and/or hedge fund managers/advisers.  Regulatory oversight should be more 
+focused on systemically important and/or higher risk hedge fund managers in a risk -based 
+manner. 
+ 
+2. Scope  
+Taking into account the different approaches mentioned in the Preamble above, separate 
+Principles have been established by IOSCO for the assessment of the regulation of CIS and the 
+regulation of hedge funds and/or hedge fund managers/advisers. 
+Principles 24 to 27 relating to Collective Investment Schemes 
+Principle 24 requires regulation to set standards for those involved in the operation of a CIS 
+and marketing CIS interests; Principle 25 is mainly devoted to client asset protection; Principle 
+26 addresses CIS -focused disclosure requirements; and P rinciple 27 deals with the issues of 
+asset valuation and pricing and redemption of CIS units/shares. 
+                                                 
+166 See Hedge Funds Oversight, Final Report, Report of the Technical Committee of IOSCO, June 2009, pp. 
+7, 17 and 18, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD293.pdf; Principles for the 
+Valuation of Hedge Fund Portfolios, Final Report, Report of the Technical Committee of IOSCO, 
+November 2007, p. 6, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD253.pdf.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+152 
+Principles 24 to 27 are interrelated and complement each other and should be appropriately 
+implemented to seek to ensure proper investor protection.  In addition, assessment under 
+Principle 26, dealing with disclosure, should be consistent with, and/or compared to, the 
+assessment of disclosure obligations as set forth under the Principles for Issuers.
+167 
+The term “CIS operator” is intended as the legal entity that has overall responsibility for 
+management and performance of the functions of the CIS, which may include managing the 
+CIS portfolio of assets and operational services.
+168 
+The term “CIS” includes open-ended funds that will redeem their units or shares (w hether on 
+a continuous or periodic basis).  It also includes closed- ended funds whose shares or units are 
+traded on regulated or organized markets.  The term “CIS” also includes exchange-traded funds 
+(ETFs), which generally are open -end funds that trade throughout the day on an exchange. 169  
+The rules governing the legal form and structure of CIS vary across jurisdictions. 
+In some jurisdictions, closed- ended funds are not subject to special licensing or supervisory 
+requirements and are, instead, regulated according to the terms of relevant exchange listing 
+rules.  If this is the case in the assessed jurisdiction, the situation should be duly accounted for, 
+and a detailed explanation and assessment of the applicable listing rules should be undertaken 
+taking into account the investor protection objectives of the Key Issues in this Section.  
+In many jurisdictions, the requirements relating to CIS vary according to whether the CIS is 
+offered to the public.  In fact, most jurisdictions tend to reduce regulatory oversight in relation 
+to private placements.  The definition of what amounts to an offer to the public varies.  The 
+assessor should not attempt to substitute his or her judgment for what constitutes a public 
+offering but should indicate: which offerings are included and subject to the full panoply of 
+requirements; and how regulatory oversight is different for private placements or non- retail 
+offerings.  The assessor should explain the differences in treatment and assess the consequences 
+from an investor protection viewpoint – investor protection being the main objective of the CIS 
+Principles.   
+Where appropriate, the assessor should make reference to the assessment of Principle 7. 
+An increasing number of CIS are marketed across jurisdictional boundaries.  It is also common 
+for CIS promoters, managers and custodians to be located in several different jurisdictions and 
+not the same jurisdiction as investors to whom the CIS is promoted.
+   Therefore, particular 
+attention should be paid to the possible need for international cooperation and the interrelation 
+with Principles 13 to 15 relating to cooperation.   
+The assessor should determine the type and complexity of CIS in the jurisdiction, the number 
+of CIS in existence, the assets under management, the types of permitted investments and level 
+of gearing or leverage to gauge the regulatory challenge.  It is possible that a specific 
+jurisdiction will not have its own framework for the establishment of CIS.  If a jurisdiction 
+does not have its own CIS regulatory framework, it may not wish to admit offerings that do not 
+meet the basic requirements as to legal format in these Principles.  To the extent CIS established 
+                                                 
+167 Principles 16–18. 
+168 See Report on Investment Management, Report of the Technical Committee of IOSCO, July 1995, 
+‘Glossary of Terms’, p. 3, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD45.pdf.  
+169  ETFs thus are included in the scope of this Methodology and should be subject to appropriate CIS operator 
+qualifications, legal form and structure and custody, disclosure and valuation/redemption requirements.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+153 
+under other jurisdictions’ laws may be offered, the assessor should consider whether:  
+• the entity engaged in marketing should be authorized, recognized or otherwise eligible 
+(Principle 24);  
+• there are requirements concerning the public offer of CIS products (Principles  24, 26 
+and 27);  
+• there is adequate information sharing between the jurisdictions of establishment and the 
+jurisdiction being assessed.   
+The greater the level of CIS activity in a particular jurisdiction, the more likely it is that each 
+of the Principles 24 to 27 should be rated as Not Implemented rather than Not Applicable if no 
+requirements are applied to cross-border business.  
+Securities law and regulation cannot exist in isolation from the other laws of a jurisdiction.  
+Matters of particular importance to the legal framework in general are set out in Appendix 1.  
+To determine whether Principles 24 to 27 are implemented in a manner that achieves their 
+objectives, it is therefore necessary to consider the jurisdiction’s legal framework in that regard 
+and, in particular, laws and regulations on insolvency (having an impact on the treatment of 
+CIS in default), as well as laws and regulations on dispute resolution mechanisms or other 
+remedies (having an impact on investors’ ability to seek redress or compensation).  
+Principle 28 relating to Hedge Funds 
+Principle 28 is the only Principle of this sect ion applicable to the assessment of hedge fund 
+regulation.  IOSCO acknowledges that there is no consistent or agreed- upon definition of the 
+term “hedge fund”.  Previous IOSCO work recognized that an approach for identifying these 
+types of entities is to lo ok at the kinds of characteristics of, and strategies employed by, 
+institutions that would consider themselves to be hedge funds.  On this basis, IOSCO has 
+considered as “hedge funds” investment schemes displaying a combination of some of the 
+following characteristics: 
+• borrowing and leverage restrictions (which are typically included in CIS regulation) are 
+not applied and many (but not all) hedge funds use high levels of leverage;  
+• significant performance fees (often in the form of a percentage of profits) are paid to 
+the manager in addition to an annual management fee;  
+• investors are typically permitted to redeem their interests periodically, e.g.,  quarterly, 
+semi-annually or annually;  
+• often significant “own” funds are invested by the manager;   
+• derivatives may be used, often for speculative purposes, and there is an ability to short 
+sell securities; and  
+• more diverse risks or complex underlying products are involved.
+ 170 
+Hedge funds have traditionally been offered to non- retail investors but are offered to retail 
+investors in some jurisdictions.  
+                                                 
+170 See Hedge Funds Oversight, supra, pp. 4–5.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+154 
+Despite the broad characteristics described above, it is difficult to define hedge funds on a 
+universal basis, given their diffe rent legal and business structures – not only across different 
+jurisdictions but even within a single jurisdiction.  Therefore, the application of Principle 28 
+may vary depending on the manner in which each jurisdiction defines and regulates hedge 
+funds.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+155 
+3. Principles 24 through 28   
+Principle 24  The regulatory system should set standards for the eligibi lity, 
+governance, organization and operational conduct of those who wish to 
+market or operate a collective investment scheme.  
+Investor protection is the key objective.  CIS operators and CIS should meet clearly defined 
+standards as set by the regulatory system, for both initial approval and continuing operation.171  
+The eligibility standards and operating conditions to act as CIS operators should seek to ensure 
+that those who operate or market CIS are qualified to do so.  This includes standards as set out 
+by the regulatory system on honesty and integrity of the CIS operator and being experienced 
+and competent to operate, or advise, on the suitability of a CIS.  These standards should also 
+cover CIS governance and internal organization of CIS operators, including having accounting 
+procedures, an adequate risk management framework, including effective liquidity risk 
+management processes, and resources and processes in place to ensure ongoing compliance.
+172  
+There should be effective mechanisms to assess compliance with these standards and with the 
+policies and procedures the CIS operator has in place.173  
+CIS governance should provide for a framework that seeks to ensure that a CIS is organized 
+and operated in the interests of CIS investors and, where there might be conflict between the 
+interests of CIS investors and persons connected with the CIS, not in the interests of the 
+connected persons.  In order to ensure that CIS operators do not breach their duties, it is 
+fundamental that their organization and activity is subject to at least annual review by an 
+independent auditor and/or ongoing review and oversight by an independent third party. 
+The appropriate identification, monitoring and management of risks and compliance or internal 
+control policies and procedures by CIS operators should be ensured, and should be appropriate 
+and proportionate to the size, complexity and risk profile of the CIS. 
+To assist in supervision and to promote compliance, there should also be clear responsibilities 
+for maintaining records of the operations of the CIS.   
+                                                 
+171 See Report on Investment Management, supra, p. 7. 
+172 Id. See Investment Management: Areas of Regulatory Concern and Risk Assessment Methods, Report of 
+the Technical Committee of IOSCO, November 2002, pp. 3 and 5, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD136.pdf.  For factors relevant to the honesty and 
+integrity of the manager, see Investment Management Risk Assessment: Management Culture and 
+Effectiveness, Report of the Technical Committee of IOSCO, November 2002, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD137.pdf; and see Investment Management Risk 
+Assessment: Marketing and Selling Practices, Report of the Technical Committee of IOSCO, October 
+2003, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD156.pdf.  See also Collective 
+Investment Schemes as Shareholders: Responsibilities and Disclosure, Report of the Technical Committee 
+of IOSCO, October 2003, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD158.pdf; 
+Performance Presentation Standards for Collective Investment Schemes: Best Practice Standards, Report 
+of the Technical Committee of IOSCO, May 2004, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD169.pdf; Anti-Money Laundering Guidance for 
+Collective Investment Schemes, Final Report, Report of the Technical Committee of IOSCO, 
+October 2005, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD205.pdf. 
+173 Although a CIS operator should comply with the eligibility criteria from the commencement of its 
+activities, different approaches may be adopted by the regulator regarding when to assess compliance with 
+those standards, provided that the mechanisms in place are effective in terms of investor protection.  See 
+also Explanatory Notes.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+156 
+The operation of a CIS raises the potential for conflict between the interests of investors in the 
+CIS and those of CIS operators or their associates.  The regulatory system should seek to ensure 
+that CIS operators identify the potential conflicts of interest and properly manage any conflicts 
+that do arise by taking corrective actions (including, where appropriate, through disclosure).   
+In all cases, CIS operators should act in the best interests of CIS investors and in accordan ce 
+with the principle of fair treatment of investors.  Generally, this will require regulation covering 
+— in addition to the issues mentioned above (CIS governance, internal organization, 
+accounting procedures, recordkeeping, and risk management) — topics such as due diligence 
+in the selection of CIS investments and conduct of business, including best execution, 
+appropriate trading and timely allocation of transactions, commissions and fees, related party 
+transactions and underwriting arrangements.
+ 174 
+Many CIS operators delegate certain CIS operational responsibilities to third-parties.  The use 
+of delegates should not, in any way, be permitted to diminish the effectiveness of the primary 
+regulation and supervision of a CIS.  A delegate should comply with all  regulatory 
+requirements applicable to the conduct of the principal’s business activities.  A CIS operator 
+should remain responsible for the delegate’s compliance.
+ 175 
+The regulatory system should require supervision throughout the life of a particular CIS.  
+Supervision of a CIS operator should promote high standards of competence, integrity, and 
+investor protection.
+176  There should be clear powers with respect to: 
+• registration/authorization of a CIS;177 
+• inspections to be carried out in order to ensure compliance by CIS operators; 
+• investigations of suspected breaches; 
+• remedial action to be taken in the event of breach or default; and 
+• cooperation with foreign regulators for the purposes of registration/authorization of a 
+CIS, supervision and enforcement. 
+These powers should be sufficient to allow action in respect of all supervised entities with 
+responsibilities under the CIS. 
+                                                 
+174 See Conflicts of Interests of CIS Operators, Report of the Technical Committee of IOSCO, May 2000, 
+p. 11, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD108.pdf; Best Practice Standards 
+on Anti Market Timing and Associated Issues for CIS, Final Report, Report of the Technical Committee of 
+IOSCO, October 2005, p. 3, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD207.pdf; 
+Good Practices in Relation to Investment Managers’ Due Diligence When Investing in Structured Finance 
+Instruments, Final Report, Report of the Technical Committee of IOSCO, July 2009, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD300.pdf. For a discussion on fees and commissions, 
+see Fees and Commissions within the CIS and Asset Management Sector: Summary of Answers to 
+Questionnaire, Report of the Technical Committee of IOSCO, October 2003, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD157.pdf; Final Report on Elements of International 
+Regulatory Standards on Fees and Expenses of Investment Funds, Report of the Technical Committee of 
+IOSCO, November 2004, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD178.pdf.  In 
+relation to soft commissions, see Soft Commission Arrangements for Collective Investment Schemes, Final 
+Report, Report of the Technical Committee of IOSCO, November 2007, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD255.pdf. 
+175 See, e.g. Delegation of Functions, Report of the Technical Committee of IOSCO, December 2000, p. 5, 
+available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD113.pdf. 
+176 See Principles for the Supervision of Operators of Collective Investment Schemes, supra, p. 6. 
+177 The registration or authorization of CIS may take the form of document filing, CIS registration, or 
+approval of the parties to the CIS (such as the operator and custodian) as appropriate to the overall 
+regulatory system.  See Report on Investment Management, supra.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+157 
+Key Issues 
+Eligibility Criteria  
+1. The regulatory system should require CIS operators and CIS to comply with clear 
+criteria for both initial approval and continuing operation. 178  The eligibility179 criteria 
+to act as a CIS operator, as set out by the regulatory system, should comprise 
+requirements on the internal organization of the CIS operator, including risk 
+management mechanisms encompassing inter alia liquidity risk management, internal 
+controls and accounting procedures, and CIS governance.  There should be effective 
+mechanisms to assess compliance of the CIS operator with the eligibility criteria and 
+with the policies and procedures it has in place.   
+2. The regulator should have clear responsibility and powers with respect to 
+authorization/registration of CIS.
+180  The authorization/registration of CIS should have 
+regard to the possible need for international cooperation.   
+Supervision and Ongoing Monitoring  
+3. Records of the business and internal organization of the CIS operator should be 
+maintained.  The records should be made available to the regulator upon request. 
+4. The regulator should apply proper supervision throughout the life of a par ticular CIS.  
+Supervision should promote high standards of competence, integrity, and investor 
+protection.  
+5. There should be clear powers to allow action in respect of all supervised entities with 
+responsibilities under the CIS and to share information with foreign securities 
+regulators for both supervision and enforcement.  
+Conflicts of Interest and Operational Conduct 
+6. The regulatory system should set standards of conduct to be complied with on an 
+ongoing basis by CIS operators, including due diligence in the selection of CIS 
+investments.
+181  CIS operators should act in the best interests of CIS investors and in 
+accordance with the principle of fair treatment of investors.182 
+7. The regulatory system should seek to ensure that the risk of conflicts of interest arising 
+is minimized and that any conflicts that do arise are properly identified and managed 
+by taking appropriate actions, including where appropriate through disclosure.  
+                                                 
+178 See Report on Investment Management, supra, p. 8: operators and schemes must meet clearly defined 
+standards as set out by the regulatory authority for both initial approval and continuing operation.  
+179 The term “eligibility” is intended to include authorization, licensing, registration or other preconditions to 
+operating or marketing a CIS: see Report on Investment Management, supra, p. 7.  The CIS operator 
+should comply with the eligibility criteria from the commencement of its activities (irrespective of whether 
+the marketing of the CIS is made in an active or a passive way, or through private placement), but different 
+approaches may be adopted regarding when compliance with those criteria is assessed by a regulator.  
+180 Includes the operator and/or the pool.  See Report on Investment Management, supra, p. 11. 
+181 An operator should act with due skill, care and diligence and has a duty to make decisions as to the 
+investment portfolio structure and administrative procedures of the CIS so as to secure its objectives: 
+Report on Investment Management, supra, pp. 7–8. 
+182 See Soft Commission Arrangements for Collective Investment Schemes, supra, pp. 7 and 23; Report on 
+Investment Management, supra, pp. 7–8.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+158 
+Delegation  
+8. The use of delegates should not, in any way, be permitted to diminish the effectiveness 
+of the primary regulation and supervision of a CIS.  The CIS operator remains 
+responsible for the functions it delegates.  The CIS operator should not be allowed to 
+delegate its functions to the extent that it becomes an empty box.   
+9. A delegate should be accountable either directly or through the delegator for 
+compliance with all regulatory requirements applicable to the conduct of the principal’s 
+business activities.
+  
+ 
+Key Questions   
+Eligibility Criteria  
+1. Does the regulatory system set standards for the eligibility of those who wish to:  
+(a) Market a CIS?183  
+(b) Operate a CIS?184 
+2. Do the eligibility criteria for a CIS operator185 include the following:186   
+(a) Honesty and integrity of the operator?  
+(b) Having appropriate and sufficient human and technical resources to ensure that 
+it is capable of carrying out the necessary functions of a CIS operator?  
+(c) Financial capacity of the CIS or the CIS operator that would allow the launching 
+and operation of the CIS in appropriate conditions?  
+(d) Ability to perform specific powers and duties?187 
+(e) Having, or employing, appropriate identification, monitoring and management 
+of risks, based on, among other things, the size, the complexity and the risk 
+profile of the CIS?  
+(f) Having internal controls and compliance arrangements sufficient to ensure it can 
+carry out its business diligently, effectively, honestly and fairly?188 
+                                                 
+183 With respect to market intermediaries that may be involved in marketing or operating a CIS, such as 
+brokers, dealers and investment advisers, see also Principles 29 to 32 on Market Intermediaries regarding 
+approaches to regulation of such intermediaries.  For a discussion pertaining to the marketing of a CIS, see 
+Investment Management Risk Assessment: Marketing and Selling Practices, supra; Performance 
+Presentation Standards for Collective Investment Schemes: Best Practice Standards, supra. 
+184 For a discussion pertaining to the operation of a CIS, see Best Practices Standards on Anti Market Timing 
+and Associated Issues for CIS, Final Report, Report of the Technical Committee of IOSCO, October 2005, 
+available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD207.pdf. 
+185 Includes the operator and/or the pool.  Key Question 2 refers to the eligibility criteria that need to be 
+complied with by a CIS operator from the commencement of its activities, whereas Key Question 3 refers 
+to the assessment of the compliance with those criteria by the regulator. 
+186 Different regulatory approaches may be adopted on when to assess compliance with the eligibility criteria. 
+187 A CIS operator has a duty to make decisions as to the investment portfolio structure and administrative 
+procedures of the CIS so as to secure its objectives.  The CIS operator must not exceed the powers 
+conferred on it by the CIS’ constituting documents or particulars: see Report on Investment Management, 
+supra. 
+188 See Principles for the Supervision of Operators of Collective Investment Schemes, supra, p. 15.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+159 
+3. Does the regulatory system provide for effective mechanisms to assess compliance with 
+the criteria referred to in Questions 2(a) to 2(f)?189 
+4. Does the regulatory system set standards for th e CIS governance 190 seeking to ensure 
+that CIS are organized and operated in the interests of CIS investors, and not in the 
+interests of CIS connected persons?  
+5. Does the authorization/registration of CIS take into account the possible need for 
+international cooperation in the case of CIS marketed across jurisdictions or where 
+promoters, managers, or custodians are located in several different jurisdictions?  
+Supervision and Ongoing Monitoring  
+6. Is the regulator responsible for monitoring ongoing compliance wit h the standards 
+applicable to CIS and CIS operators?  In particular, does the regulator have clear 
+responsibilities and powers with respect to:  
+(a) Registration or authorization of a CIS?191  
+(b) Inspections to ensure compliance by CIS operators?  
+(c) Investigation of suspected breaches?  
+(d) Remedial action in the event of breach or default?  
+7. Does the ongoing monitoring involve a review of reports submitted to the regulator 
+with regard to CIS and entities involved in the operation of a CIS (CIS  operators, 
+custodians, etc.) on a routine basis or on a risk-assessment basis?192  
+8. Does the ongoing monitoring involve, where appropriate, performance of on- site 
+inspections of entities involved in operating CIS (CIS operators, custodians, etc.)?193  
+9. Do the regulatory authorities proacti vely perform investigative activities 194 in order to 
+identify suspected breaches with respect to entities involved in the operation of a CIS?  
+10. Is the operator of a CIS subject to a general and continuing obligation to report to the 
+regulatory authority or investors, either prior to or after the event, any information 
+relating to: material changes in its management or organization, or in the by-laws of the 
+CIS, or the CIS operator? 
+                                                 
+189 There may be different approaches regarding when a regulator assesses compliance with the eligibility 
+criteria: see Explanatory Notes. 
+190 See the IOSCO Technical Committee Reports Examination of Governance for Collective Investment 
+Schemes, Part I and Part II, of June 2006 and February 2007 respectively, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD219.pdf (June 2006) and 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD236.pdf (February 2007). 
+191  See Report on Investment Management, supra, p. 11.  
+192 For example, financial results. 
+193 The regulatory authority may adopt a risk-based approach in the performance of inspections to ensure 
+compliance by CIS operators. 
+194 This means activities not prompted by complaint, such as risk-based or periodic inspections, audits or 
+surveillance.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+160 
+11. Does the regulatory system assign clear responsibilities for maintaining records on the 
+organization and business of the CIS operator?  Does the regulatory system provide for 
+the keeping of books and records in relation to transactions involving CIS assets, and 
+all transactions in CIS shares or units? 
+Conflicts of Interest and operational conduct 
+12. Are there provisions: 
+(a) To prohibit, restrict or manage (including, if appropriate, by disclosure) certain 
+conduct likely to give rise to conflicts of interest between a CIS and its operators 
+or their associates or connected parties?  
+(b) To require a CIS operator to seek to minimize potential conflicts of interest and 
+ensure that any conflicts that do arise are identified and properly managed by 
+taking appropriate actions (including, where appropriate, through disclosure) so 
+that the interests of investors are not adversely affected?
+195  
+13.  
+(a) Does the regulatory system require the CIS operator to comply with operational 
+conduct standards?  
+(b) In particular, is the CIS operator required to act in the best interest of investors 
+and in accordance with the principle of fair treatment?
+196 
+14. Does the regulatory system address the regulatory issues associated with:  
+(a) Best execution?  
+(b) Appropriate trading and timely allocation of transactions?  
+(c) Churning?  
+(d) Related party transactions?  
+(e) Underwriting arrangements?  
+(f) Due diligence in the selection of investments? 
+(g) Fees and expenses, in order to ensure that no unauthorized charges or expenses 
+are levied against a CIS, or CIS investors, and that: commission rebates; soft 
+commission arrangements; and inducements, do not conflic t with the CIS 
+operator’s duty to act in the best interest of investors?
+197 
+(h) Requirements for CIS operators  or CIS  to establish and implement sound 
+liquidity risk management processes taking into account normal and stress 
+market conditions? 
+                                                 
+195 See Examination of Governance for Collective Investment Schemes, Part I, supra, pp. 4, 19, 27 and 30; 
+Conflicts of Interests of CIS Operators, supra, pp. 3, 6, 11, 13, 14 and 17. 
+196 A CIS operator should act with due skill, care and diligence.  See Principles for the Supervision of 
+Operators of Collective Investment Schemes, supra, pp. 1, 4, 8, 9 and 15; Report on Investment 
+Management, supra, p. 12. 
+197  Final Report on Elements of International Regulatory Standards on Fees and Expenses of Investment 
+Funds, supra, pp. 2, 10, 11 and 12; Principles for the Supervision of Operators of Collective Investment 
+Schemes, supra, pp. 1, 7, 8, 14 and 15.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+161 
+Delegation  
+15. Does the regulatory system provide for a clear indication of circumstances under which 
+delegation is allowed and is there prohibition of systematic and complete delegation of 
+core functions of the CIS operator to the extent that there is a transformation, gradua l 
+or otherwise, into an empty box? 198  
+16. If delegation is permitted, is the delegation done in such a way so as not to deprive the 
+investor of the means of identifying the company legally responsible for the delegated 
+functions?  In particular:  
+(a) Is the CIS operator responsible for the actions or omissions, as though they were 
+its own, of any party, to whom it delegates a function, including compliance 
+with the rules of conduct and other operating conditions?
+199  
+(b) Does the regulatory system require the CIS operator to retain adequate capacity 
+and resources and have in place suitable processes to monitor the activity of the 
+delegate and evaluate the performance of the delegate?
+200  
+(c) Can the CIS operator terminate the delegation and make alternative 
+arrangements for the performance of the delegated function where appropriate?  
+(d) Are there requirements for disclosure to investors in relation to the delegation 
+arrangements and the identity of the delegates?  
+(e) Does the regulatory system allow the regulator to take appropriate actions in 
+case of delegations which may give rise to a conflict of interest between the 
+delegate and the investors?  
+17. If delegation is permitted, is the delegation done in such a way so as not to jeopardize 
+the ability of the regulator to effectively access data related to the delegated functions, 
+either directly through the delegate(s) or through the CIS operator? 
+ 
+Explanatory Notes  
+Consideration should be given to the ability of the regulator to perform ongoing supervision 
+and to take action in respect  of all supervised entities with responsibilities under the scheme 
+for enforcement purposes and, more broadly, to ensure that the objectives of regulation are 
+attained.  To this end, where appropriate, the assessor should make reference to the assessment 
+of Principles 10, 11 and 12. 
+Attention should also be paid to the international features of the CIS business of the assessed 
+jurisdiction.  According to the Principles, these elements should not hinder proper supervision.  
+Assessors should take into account  whether the regulatory system recognizes the need for 
+possible international cooperation for a CIS’ registration and supervision, in particular in the 
+case of CIS marketed across jurisdictions or where promoters, managers, or custodians are 
+                                                 
+198 See also Delegation of Functions, supra. 
+199 See Report on Investment Management, supra, p. 9 
+200 The degree of monitoring would depend on the extent of the delegation, to whom the delegation was made 
+(e.g., to authorized intermediaries or to others) and the type of jurisdiction in which the delegate is located.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+162 
+located in several different jurisdictions.  Where appropriate, cross reference should be made 
+to the assessment of international cooperation Principles 13, 14, and 15.201  
+With respect to Key Question 2(e) , assessors can consider, for example, the extent to which a 
+CIS o perator should have a risk management framework supported by appropriate and 
+documented policies and procedures and by an independent risk management function, 
+proportionate to the size, complexity, and risk profile of the CIS. 
+With respect to Key Question  2 and 3, assessors should take into account that the eligibility 
+criteria need to be complied with (by a CIS operator) from the commencement of its activities, 
+but there may be different regulatory approaches regarding when to assess eligibility for 
+registration/authorization, including for example the honesty and integrity of CIS operators.  
+Fit and proper testing is not the only means by which regulators can approach honesty and 
+integrity of CIS operators (e.g., statutory disqualifications may offer an a cceptable alternative 
+approach).  It is not necessary that a regulator assesses compliance with the eligibility criteria 
+at the time of the initial approval in order to comply with Key Question 3.  However, the 
+mechanisms in place need to be effective in t erms of investor protection so as to ensure that 
+the CIS operator is qualified to market or operate a CIS.  In this respect, assessors should 
+consider the entire regulatory system; both the extent to which compliance with eligibility 
+criteria is assessed, by the competent authority, prior to commencement of marketing of a CIS; 
+as well as the existence of a rigorous inspection program designed to effectively monitor 
+compliance with eligibility criteria on an ongoing basis. 
+With respect to Key Question 4, assessors can consider, for example, if the internal organization 
+and activities of a CIS operator are required to be subject to independent review and oversight 
+from an objective and informed perspective.  
+With respect to Key Question 6(d) , assessors should consider whether the regulator has 
+adequate powers to protect investors’ interests, including taking actions to withdraw 
+authorization/registration, freeze CIS assets or the CIS operator’s assets, instigate 
+administrative or civil proceedings and recommend criminal action where appropriate.
+202  
+Remedial actions in the event of breach or default should include effective, proportionate and 
+dissuasive sanctions for unlicensed operation of a CIS and/or for violation of CIS operator 
+obligations. 
+Assessors should also take into account whether the sanctions for unlicensed operation of a 
+CIS and/or for violation of CIS operator obligations are consistently applied in the assessed 
+jurisdiction.  
+With respect to Key Questions 8 and 9, assessors should take into account that, where an entity 
+involved in the operations of a CIS is not subject to the regulation of a securities regulator, the 
+relevant on -site inspections and investigations may be conducted through cooperation with 
+other relevant financial regulators. 
+With respect to Key Question 11, assessors should also consider whether or not proper books 
+and records in relation to the internal organization and business of the CIS are required to be 
+maintained for an appropriate time and in the event of a winding-up.
+203 
+ 
+                                                 
+201 See also the Preamble to this Section on CIS. 
+202 See Report on Investment Management, supra, p. 11. 
+203 See Principles for the Supervision of Operators of Collective Investment Schemes, p. 17.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+163 
+Benchmarks 
+Fully Implemented  
+Requires an affirmative response to all applicable Questions.   
+ Broadly Implemented   
+Requires affirmative responses to all applicable Questions except to Questions 9, 16(d) 
+and 16(e). 
+ Partly Implemented   
+Requires affirmative responses to all applicable Questions except to Questions 5, 7, 8, 
+9, 10, 14(a), 14(b), 14(c), 14(d), 14(e), 14(f), 14(g), 15, 16(d), 16(e) and either Question 
+12(a) or 12(b). 
+Not Implemented  
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b), 2(a), 2(b), 
+2(c), 2(d), 2(e), 2(f), 3, 4, 6(a), 6(b), 6(c), 6(d), 11, 13(a), 13(b), 14(h), 16(a), 16(b), 
+16(c) or 17 and to both Questions 12(a) and 12(b).
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+164 
+Principle 25  The regulatory system should provide for rules governing the legal form 
+and structure of collective investment schemes and the segregation and 
+protection of client assets.  
+The legal form and structure of CIS vary among jurisdictions however they are important to 
+the protection of investors.  The legal form and structure affects the interests and rights of the 
+participants in the CIS, and enables the pool of investors’ funds to be distinguished and 
+segregated from the assets of other entities and of the operator.  
+The legal form and structure chosen for CIS has implications for the risk of default or breach 
+associated with the scheme.  The regulatory system should require that, on the one hand, the 
+legal form and structure of CIS and, on the other, the implication thereof on the risks associated 
+with the CIS, are disclosed to investors, and ensure that these risks to investors are addressed 
+either through statute, conduct rules or mandatory covenants in the constituent documents of a 
+CIS. 
+The regulatory system should ensure adequate segregation and protection of client assets, 
+including through use of custodians and/or depositories that are, in appropriate circumstances, 
+independent.  Client assets should be interpreted as: assets that are held or controlled on behalf 
+of investors in a CIS, including securities,  positions, and, in the case of derivatives, where 
+appropriate, collateral and margin payments. 
+The regulatory system should recognize the benefits for investor protection and confidence in 
+financial markets of effective mechanisms to protect client assets from the risk of loss and the 
+insolvency of CIS operators.
+204  
+As part of its ongoing supervision, the regulator should seek to ensure that within its 
+jurisdiction there are mechanisms which best achieve the overall objective of client asset 
+protection, taking into account its insolvency and investment services laws, regulations and 
+practices, and the objectives of market efficiency and investor protection.
+ 205. 
+ 
+Key Issues  
+Legal Form/Investors’ Rights  
+1. The regulatory system should address the legal form of CIS and the nature of the rights 
+and interests of investors.  Appropriate disclosure of such form and rights should be 
+provided to investors.  Such rights should not be left to the discretion of the CI S 
+operator.  
+2. Supervision should seek to ensure that any restrictions on type, or level, of 
+investment,206 or borrowing, are being complied with.207 
+                                                 
+204 See Client Asset Protection, Report of the Technical Committee of IOSCO, August 1996, p. 2, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD57.pdf. 
+205 Id. 
+206 In relation to money market funds see Policy Recommendations for Money Market Funds, Final Report, 
+Report of the Board of IOSCO, October 2012, p. 11, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD392.pdf. 
+207 See Principles for the Supervision of Operators of Collective Investment Schemes, supra, p. 13.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+165 
+Separation of Assets/Safekeeping  
+3. The regulatory system should ensure adequate segregation of the pool of invest ors’ 
+assets from the assets of the CIS operator and of other entities.  
+4. The regulatory system should ensure that effective mechanisms are in place to protect 
+client assets from the risk of loss and insolvency of the CIS operator and, where third 
+party custodians are used, that client assets are identified as such to any third party  
+custodian and equivalent protection is afforded to such assets.208  
+5. The risks arising from a default or a breach associated with the legal form and structure 
+chosen for a given CIS should be disclosed to investors.  
+6. The regulatory system should ensure that the above risks to investors are duly addressed 
+through statutes, rules, or mandatory arrangements.  
+ 
+Key Questions  
+Legal Form/Investors’ Rights  
+1. Does the regulatory system provide for requirements as to the legal form and structure 
+of CIS that delineates the interests of participants and their related rights?  
+2. Does the regulatory system provide that the legal form and structure of a CIS, as well 
+as the implications thereof for the nature of risks associated with the CIS, be disclosed 
+to investors in such a way that they are not dependent upon the discretion of the CIS 
+operator?
+209 
+3. Is there a regulatory authority responsible for ensuring that the form and structure 
+requirements are observed?  
+4. Does the regulatory system provide that where material changes are made to investor 
+rights that do not require prior approval from investors, notice is given to them before 
+the changes take effect?  
+5. Does the regulatory system provide that where material changes are made to investor 
+rights, notice is given to the relevant regulatory authority?  
+6. Does the regulator have powers aimed at ensuring that any restrictions on type, or level, 
+of investment, or borrowing, are being complied with? 
+Separation of Assets/Safekeeping  
+7. Does the regulatory system require adequate segregation of CIS assets from the assets 
+of the CIS operator and its managers or other entities?
+210  
+                                                 
+208 See Client Asset Protection, supra, pp. 2–3. 
+209 See generally Investment Management Risk Assessment: Marketing and Selling Practices, supra. 
+210 See Guidance on Custody Arrangements for Collective Investment Schemes, Discussion Paper of the 
+Technical Committee of IOSCO, September 1996, p. 5, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD60.pdf. See generally Client Asset Protection, supra.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+166 
+8. Does the regulatory system provide for either of the following requirements governing 
+the safekeeping of CIS assets:  
+(a) the obligation to entrust the assets to custodians and/or depositaries that are in 
+appropriate circumstances independent; or  
+(b) special legal or regulatory safeguards in cases where the functions of custodian 
+and/or depositary are performed by the same legal entity as is responsible for 
+investment functions (or related entities). 
+9. Does the regulatory system provide for adequate protection of client assets from losses 
+or insolvency of the CIS operator, and the obligation that, where third party custodians 
+are used, client assets are identified as such to any such custodian and equivalent 
+protection is afforded to the client assets, including when the custodian has entrusted 
+all or some of the assets in its safekeeping to a third party?
+211 
+10. Does the regulatory system adequately provide for an orderly winding up of CIS 
+business, if needed?  
+ 
+Explanatory Notes 
+In evaluating safekeeping, consideration should be given by an assessor to whether the 
+supervisory system in the assessed jurisdiction is capable of ensuring that all CIS investments, 
+including cash deposits, are properly held in safekeeping.  
+Consideration also should be given to the ability of the system to ensure that the risks of default 
+or breach associated with the scheme are properly addressed.  It is important that the interests 
+of CIS investors are duly protected not only while the CIS is a going concern, but also when 
+its continuity is affected by circumstances which require it to be wound up.  
+The assessor should verify that the regulatory system requires the rights of investors in CIS, or 
+impediments to investors exercising their rights, to be clearly disclosed.   
+The assessor should also  take into account whether supervision of CIS promotes financial 
+stability.  In particular, requirements on money market funds (MMFs) should include 
+restrictions on the type of assets that are permitted to be held.  To this end, where appropriate, 
+the assessor should make reference to the assessment of Principle 6. 
+With respect to Key Question 3 , assessors should consider also whether there is any evidence 
+that the requirements relating to the form and structure of a CIS are enforced in the assessed 
+jurisdiction. 
+ 
+                                                 
+211 Where third party custodians are used, there should be separation of the assets of a CIS from the assets of 
+the custodian itself.  The liability of a custodian for any losses suffered by the investors as a result of its 
+unjustifiable failure to perform its obligations or its improper performance of them cannot be affected by 
+the fact that it has entrusted to a third party all or some of the assets in its safekeeping: see Standards for 
+the Custody of Collective Investment Schemes’ Assets, Final Report, Report of the Board of IOSCO, 
+November 2015, https://www.iosco.org/library/pubdocs/pdf/IOSCOPD512.pdf ; Client Asset Protection, 
+supra; Report on Investment Management, supra.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+167 
+Benchmarks 
+Fully Implemented  
+Requires affirmative responses to all applicable Questions.   
+Broadly Implemented  
+Requires affirmative responses to all applicable Questions except to Question 4. 
+Partly Implemented   
+Requires affirmative responses to all applicable Questions except to Questions 4 and 5.   
+Not Implemented  
+Inability to respond affirmatively to one or more of Questions 1, 2, 3, 6, 7, 8(a) or (b), 
+9 or 10.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+168 
+Principle 26  Regulation should require disclosure, as set forth under the principles for 
+issuers, which is necessary to evaluate the suitability of a collective 
+investment scheme for a particular investor and the value of the 
+investor’s interest in the scheme.    
+This Principle is intended to ensure that matters material to the value of an investment in a CIS 
+are the subject of disclosure to investors and potential investors.  Disclosure about a CIS should 
+assist investors in understanding the nature of the investment vehicle and the relationship 
+between risk and return, so that investors evaluating CIS performance do not focus solely on 
+return, but also on the risk assumed to produce the return.
+212  However, investors should be free 
+to choose the level of market risk to which they are exposed.   
+The goal of disclosure should be to provide investors with sufficient information on a timely 
+basis, in a language and a format that are easy to understand having regard to the type of 
+investor, to evaluate whether and to what extent the CIS is an appropriate investment vehicle 
+for them.213 
+Disclosure should promote comparability among various CIS.214  Where appropriate, disclosure 
+should take into account the specific features of the CIS (e.g. ETFs). 
+One particular aspect of disclosure requiring close attention is the disclosure of all fees and 
+other charges that may be levied under the CIS.  Information on fees and charges should be 
+disclosed to both prospective and current investors in a way that enables the investors to 
+understand their nature, structure and impact on the CIS’s performance.
+215  There should also 
+be clear disclosure of investment policies.216 
+Advertisements concerning CIS should not contain inaccurate, untrue, or misleading 
+statements.  
+  
+Key Issues  
+1. Disclosure should assist investors in understanding the nature of the investment vehicle 
+and the relationship between risk and return.   
+2. All matters material to a valuation of the CIS, including fees and charges, should be 
+disclosed to investors and potential investors.  
+                                                 
+212 See Disclosure of Risk —  A Discussion Paper, Report of the Technical Committee of IOSCO, 
+September 1996, p. 2, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD59.pdf. For a 
+discussion of the obligation to disclose fees and expenses, see Key Question 8 below. 
+213 See generally Investor Disclosure and Informed Decisions: Use of Simplified Prospectuses by Collective 
+Investment Schemes, Report of the Technical Committee of IOSCO, July 2002, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD131.pdf. 
+214 See Performance Presentation Standards for Collective Investment Schemes: Best Practice Standards, 
+supra, p. 5.  
+215 See Final Report on Elements of International Regulatory Standards on Fees and Expenses of Investment 
+Funds, supra, pp. 3–4. 
+216 For a discussion of the obligations to disclose voting practices, see generally Collective Investment 
+Schemes as Shareholders: Responsibilities and Disclosure, supra.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+169 
+3. Information should be provided on a timely basis and in an easy to understand format 
+and language having regard to the type of investor.  
+4. There should be clear disclosure of investment policies.  
+5. Supervision should seek to ensure that the stated investment policy or trading strategy, 
+or any policy required by regulation, is being followed.  
+6. Advertisements concerning CIS should not contain inaccurate, false or misleading 
+statements and should not detract the investors ’ ability to make their own judgment 
+about investing in the CIS.  
+ 
+Key Questions  
+1. Does the regulatory system require that all matters material to the valuation of a CIS 
+are disclosed to investors and potential investors on a timely basis?  
+2. Does the regulatory system require that the information referred to in Question 1 above 
+be disclosed to investors and potential investors in an easy to understand format and 
+language having regard to the type of investor?
+ 217  
+3. Does the regulatory system require the use of standard formats for disclosure of offering 
+documents and periodic reports to investors? 
+4. Does the regulatory system include a general disclosure obligation to allow investors, 
+and potential investors, to evaluate the suitability of the CIS for that investor or potential 
+investor?  
+5. Does the regulat ory system specifically require that the offering documents, or other 
+publicly available information, include the following:  
+(a) The date of issuance of the offering document?  
+(b) Information concerning the legal constitution of the CIS?  
+(c) The rights of investors in the CIS?  
+(d) Information on the operator and its principals?  
+(e) Information on the methodology of asset valuation?  
+(f) Procedures for purchase, redemption and pricing of units/shares?  
+(g) Relevant, audited financial information concerning the CIS?  
+(h) Information on the custodial arrangements (if any)?  
+(i) The investment policy(ies) of the CIS?  
+(j) Information on the risks involved in achieving the investment objectives?   
+                                                 
+217 See Disclosure of Risk —  A Discussion Paper, supra, p. 3.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+170 
+(k) The appointment of any external administrator or investment managers or 
+advisers who have a significant and independent role in relation to the CIS 
+(including delegates)?  
+(l) Fees and charges in relation to the CIS, in a way that enables investors to 
+understand their nature, structure and impact on the CIS’ performance?218  
+6. Does the regulatory authority have the power to hold back, or intervene, with regard to 
+offering documents?  For example, are there regulatory actions available in the event 
+that the information is inaccurate, misleading or false, or does not satisfy the 
+filing/approval requirements?  
+7. Does the regulatory system cover advertising material outside of the offering 
+documents?  In particular, does it prohibit inaccurate, false, or misleading advertising?  
+Are there regulatory actions available to the regulator with regard to advertising 
+material outside of the offering document? 
+8. Does the regulatory system require that the offering documents be kept up to date to 
+take account of any material changes affecting the CIS?  
+9. Does the regulatory system require a report to be prepared in respect of a CIS’ activities 
+either on an annual, semi-annual or other periodic basis?  
+10. Does the regulatory system require the timely distribution of periodic reports?
+219  
+11. Does the regulatory system require that the accounts of a CIS be prepared in accordance 
+with high quality, internationally acceptable accounting standards?  
+12. Does the regulator have powers to ensure that the stated investment policy or trading 
+strategy, the aut horized investments that the CIS is able to undertake, or any policy 
+required by regulation is being followed?
+ 220  
+ 
+Explanatory Notes  
+The assessor should cross reference to assessment under Principles 16 to 21 as appropriate.  
+CIS normally target retail investors, therefore, particular attention should be paid to assure the 
+regulatory system is structured to prevent investors being misled by inappropriate presentation 
+of elements (e.g ., risks associated with the investment policies and trading strategies of  the 
+scheme, reference to past performance, and fees and other charges that may be levied under the 
+scheme).  The information should be provided in an easy to understand format and language 
+having regard to the type of investor.  Proper consideration should be given by the assessor to 
+the retail nature of CIS business.  
+For the purposes of Question 5(g) , the offering documents, or other publicly available 
+information, may refer to relevant, audited financial information concerning the CIS that is 
+previously or simultaneously provided or made available.  
+For the purposes of Questions 6, 7 and 12, assessors should also take into account whether 
+there is any evidence of actions taken by the regulator in those areas.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+171 
+Benchmarks 
+Fully Implemented  
+Requires affirmative responses to all applicable Questions.   
+Broadly Implemented  
+Requires affirmative responses to all applicable Questions except to Questions 3 and 
+10. 
+Partly Implemented   
+Requires affirmative responses to all applicable Questions except to Questions 3, 5(b), 
+10 and 11. 
+Not Implemented  
+Inability to respond affirmatively to one or more of Questions 1, 2, 4, 5(a), 5(c), 5(d), 
+5(e), 5(f), 5(g), 5(h), 5(i), 5(j), 5(k), 5(l), 6, 7, 8, 9 or 12. 
+ 
+                                                 
+218 See generally Final Report on Elements of International Regulatory Standards on Fees and Expenses of 
+Investment Funds, supra. 
+219 See also Explanatory Notes. 
+220 See generally Principles for the Supervision of Operators of Collective Investment Schemes, supra.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+172 
+Principle 27  Regulation should ensure that there is a proper and disclosed basis for 
+asset valuation and the pricing and the redemption of units in a collective 
+investment scheme.  
+Proper valuation of CIS assets is critical to ensure investor confidence in CIS as a reliable and 
+robust investment vehicle, and for proper investor protection, especially in cases where a 
+market price is unavailable.  Regulation should seek to ensure that all property of a CIS is fairly 
+and accurately valued, that the net asset value (NAV) of the CIS is correctly calculated,
+221  and, 
+where a CIS is allowed to display a stable NAV, that it is subject to measures designed to 
+reduce the specific risks associated thereto.  
+The regulatory system should permit the responsible authority to ensure compliance with the 
+relevant rules.  
+Regulation should require the CIS operator to publish or disclose the price of the CIS on a 
+regular basis to enable the investor, or potential investor, to assess performance over time. 
+The law or rules governing CIS should enable investors to redeem units or shares on a basis 
+that is made clear in the constituent documents and/or the prospectus.  The regulatory system 
+should address the general or exceptional circumstances in which there may be suspension or 
+deferral of: routine valuation and pricing; or regular redemption, of CIS units or shares. 
+ 
+Key Issues  
+Asset Valuation  
+1. Regulation should ensure that all property of a CIS is fairly and accurately valued, and 
+that the NA V of the CIS is correctly calculated.  The interes ts of the investor are 
+generally better protected by the use of value -based reporting
+222 wherever reliable 
+market or fair values can be determined. 223  Amortized cost accounting, where 
+permitted, should be subject to appropriate limitation and monitoring. 
+2. CIS should be valued regularly and on any day that CIS units are purchased or 
+redeemed. 
+3. CIS operators should be responsible for publishing or disclosing the price of the CIS 
+on a regular basis to enable investors or potential investors to assess the perfor mance 
+of the CIS over time. 
+4. Valuation methods should be applied consistently unless change is desirable in the 
+interest of investors. 
+                                                 
+221 See Principles for the Supervision of Operators of Collective Investment Schemes, supra, p. 10. 
+222 Value-based reporting is understood as marking financial assets to market or using market prices (values) 
+where these are available and reliable. 
+223 A mandatory requirement in some jurisdictions. See Best Practice Standards on Anti Market Timing and 
+Associated Issues for CIS, supra, p. 7.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+173 
+5. The valuation policies and procedures should be periodically reviewed.  A third party 
+should review the CIS valuation process at least annually.224 
+6. Where money market funds (MMF) display a stable NA V , the regulatory system should 
+include measures that are designed to reduce the specific risks associated with their 
+stable NA V feature and reinforce their resilience and their abil ity to face significant 
+redemptions. 
+Pricing and Redemption Issues 
+7. Regulation should require that the basis upon which investors may redeem units or 
+shares is made clear in the constituent documents and/or the prospectus.  
+8. Incoming, continuing and outgoing investors should be treated equitably, such that 
+purchases and redemptions of CIS interests are affected in a non -discriminatory 
+manner.  
+9. Suspension of redemptions in the open-ended CIS may be justified only: (i) if permitted 
+by law, regulation or regulators, and in exceptional circumstances provided such 
+suspension is in the best interest of unit -holders or market efficiency; or (ii) if the 
+suspension is required by law, regulation or regulators.
+225 
+10. Regulation should ensure that rights of suspension protect the interests of investors 
+rather than the interests of the CIS operator.  
+11. Regulators and unit-holders should be kept informed of any suspension of redemption 
+rights.   
+ 
+Key Questions  
+Asset Valuation  
+1. Are there specific regulatory requirements in respect of the valuation of CIS assets?
+226  
+2. Are there regulatory requirements that the NA V of CIS be calculated:  
+(a) On a regular basis? 
+(b) Each day that CIS units are purchased or redeemed? 
+(c) In accordance with high -quality, accepted accounting standards used on a 
+consistent basis? 227  
+3. Are there specific regulatory requirements in respect of the fair valuation of assets 
+where market prices are not available?228  
+                                                 
+224  See Principles for the Valuation of Collective Investment Schemes, Report of the Board of IOSCO, May 
+2013, p. 9, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD413.pdf. 
+225  See Principles for Suspension of Redemptions in Collective Investment Schemes, Report of the Board of 
+IOSCO, January 2012, p. 11, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD367.pdf 
+226 See also Principles for the Supervision of Operators of Collective Investment Schemes, supra, p. 10.  In 
+addition, there should be some arrangement for valuing illiquid holdings if any.  See also Key Issue 3. 
+227 Id. 
+228 Id.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+174 
+4. Are there specific regulatory requirements where amortized cost accounting is  
+permitted? 
+5. Are third parties (e.g. , independent auditors) required to check the valuations of CIS 
+assets?  
+6. Where MMFs display a stable NA V , does the regulatory system include measures that 
+are designed to reduce the specific risks associated with their st able NA V feature and 
+reinforce their resilience and their ability to face significant redemptions? 
+ Pricing and Redemption Issues   
+7. Does the regulatory system: 
+(a) Require the basis upon which investors may redeem units/shares to be made 
+clear in the constituent documents and/or the prospectus?  
+(b) Provide for specific regulatory requirements in respect of the pricing upon 
+redemption or subscription of units/shares in a CIS?  
+8. Does regulation ensure that the valuations made are fair and reliable?  
+9. Does regulation require the price of the CIS be disclosed or published on a regular basis 
+to investors or prospective investors?  
+10. Are there regulatory requirements, rules of pra ctice, and/or rules addressing pricing 
+errors?  Are the relevant regulatory authorities able to enforce these rules?  
+11. Does the regulatory system address the general or exceptional circumstances in which 
+there may be suspension, or deferral, of: routine val uation and pricing; or regular 
+redemption, of CIS units or shares?  
+12. Does the regulator have the power to ensure compliance with the rules applicable to 
+asset valuation, pricing and suspension of the redemption and subscriptions?   
+13. Does the regulatory system require that the regulator:  
+(a) Be kept informed of any suspension or deferral of redemption rights?  
+(b) Have the authority to address situations where the CIS operator: is failing to 
+honour redemptions; or is imposing a suspension of redemptions in a manner 
+that is not consistent with the CIS constitutive documents and prospectus, or the 
+contractual relationship between the CIS participants and the CIS operator; or 
+is otherwise deemed to be in violation of national law?  
+ 
+Explanatory Notes  
+The valuation of the property of a CIS and the calculation of the NAV are extremely important, 
+as the NAV
+229 reflects the price which an investor pays when investing in a CIS (subject to any 
+additional up- front charges) and the price an investor will receive should a holding be 
+liquidated (subject to any additional exit charges).  Assessors should pay proper attention to 
+                                                 
+229 NAV is calculated by dividing the total value of the investments in a CIS by the number of units in issue, 
+plus or minus adjustments for accrued fees, expenses and other liabilities.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+175 
+the calculation modalities and to the timing, and frequency, of publication of the CIS NAV.  
+Assessors should also evaluate whether the supervision of the CI S confirms that the operator 
+has systems and controls in place to ensure a fair and accurate valuation of the property of a 
+CIS, and that calculations of the NAV are correct at each valuation point, as indicated in Key 
+Issue 2.  
+The type and frequency of valuation may depend on the availability and timing of redemption 
+rights, the types of interests that may be held within a CIS, and the permitted legal structure of 
+a CIS.  
+In the jurisdiction, if there are third parties appointed to perform valuation services (such as 
+valuation agents), the responsible entity should conduct initial and periodic due diligence on 
+such third party valuation service providers. 
+The right to redeem units/shares is a key feature of open- ended CIS.  The assessor should 
+evaluate whether the rules in place are sufficient to prevent fees or charges payable by an 
+investor, in the case of redemption, from being conceived so as to prevent investors from 
+exercising their rights.  Assessors should take into account that the rights of suspension, 
+available to the CIS operator, may not be exerted in ways that impair the protection of 
+investors’ interests, and that regulators are able to enforce decisions aimed at protecting 
+investors’ interests.  In the case of closed -end funds, assessors may consider how regularly 
+such CIS are priced. 
+With respect to Key Question 6, assessors should consider whether the accuracy of the CIS 
+NAV calculation is required to be checked by auditors, which are subject to adequate levels of 
+oversight and independence in accordance with Principles 19 to 21.  However, it is not 
+necessary that independent auditors check each individual valuation of a CIS for a positive 
+answer to Key Question 6. 
+With respect to Key Question 10, assessors should also consider whether there is any evidence 
+that the requirements on asset valuation and pricing are enforced in the assessed jurisdiction. 
+ 
+Benchmarks  
+Fully Implemented  
+Requires affirmative responses to all applicable Questions.   
+Broadly Implemented  
+Requires affirmative responses to all applicable Questions except to Question 10. 
+Partly Implemented   
+Requires affirmative responses to all applicable Questions except to Questions 3, 4, 5, 
+10 and 12. 
+Not Implemented  
+Inability to respond affirmatively to one or more of Questions 1, 2(a), 2(b), 2(c), 6, 7(a), 
+7(b),8, 9, 11, 13(a) or 13(b).
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+176 
+Principle 28  Regulation should ensure that hedge funds and/or hedge funds 
+managers/advisers are subject to appropriate oversight. 
+Although some jurisdictions may regulate hedge funds as CIS, Principle 28 is the only principle 
+in this section applicable in the assessment of hedge funds and/or hedge fund 
+managers/advisers regulation.  
+In previous work,
+230 IOSCO has recognized that there is no universal definition of hedge funds 
+and that a variety of approaches to regulation of hedge funds and/or hedge fund 
+managers/advisers are possible.  The important point to note is that the regulatory system 
+should set standards for the authorization/registration and the regulation and supervision of 
+those who wish to operate hedge funds (managers/advisers) (and/ or, where relevant,231 for the 
+registration of the hedge fund).  
+The relevant regulatory requirements should al low the regulator at the funds level to get an 
+overall picture of the risks posed by the hedge funds.232  The information supplied through the 
+registration/authorization process could also be made available to all prospective investors 
+prior to the execution  of a subscription agreement or other investment management 
+agreement.233  
+Hedge fund managers/advisers which are required to register should be subject to appropriate 
+entry and ongoing regulatory requirements
+234 and should be supervised/monitored on an 
+ongoing basis.  In previous work,235 IOSCO has recommended that regulatory oversight should 
+be more focused on systemically important and/or higher risk hedge fund managers/advisers.  
+For example, a de-minimis cut-off is one of the possible approaches.  A possible cut-off could 
+be determined taking into account certain characteristics such as leverage, economic exposure 
+etc.  Another possibility, which takes into account the principle of proportionality, is to require 
+the registration of all hedge fund managers/advisers but consider a lower level of ongoing 
+supervision for managers below a certain de -minimis cut-off.
+236  In assessing the 
+implementation of Principle 28, assessors should determine whether the jurisdiction regulates 
+and supervises hedge fund managers/advisers according to the risks they pose.  
+ 
+                                                 
+230 See Hedge Funds Oversight, supra, p. 4. 
+231 Some securities regulators may have regulatory requirements at the level of the funds themselves to 
+facilitate obtaining fund specific information and to get an overall picture of the risks posed by the funds.  
+Such direct regulation at the fund level could involve a registration/authorization of the fund as well as 
+ongoing supervision of the fund.  Whether this additional layer of regulation is required to address 
+systemic and market integrity risks will reflect local conditions and industry structure. Nothing in this 
+Methodology should be interpreted to require the registration of the fund. 
+232 See Hedge Funds Oversight, supra, pp. 13–14. 
+233 Id, p. 12. 
+234 If the hedge fund is organized as an investment company, which does not appoint an external manager, the 
+requirements referring to the “hedge fund manager” should be complied with by the investment company 
+itself and by its managers. 
+235  See Hedge Funds Oversight, supra, pp. 15–16. 
+236 Id.  As noted above, there is no consistent or agreed-upon definition of the term “hedge fund”.  The 
+determination of what investment vehicles will be characterized as “hedge funds” is committed to the 
+regulator.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+177 
+Key Issues 
+1. Regulatory oversight of hedge fund managers/advisers should reflect the risks posed by 
+hedge funds and be risk-based and proportional (i.e., to the size and complexity of the 
+hedge fund managed) and, the refore, should be more focused on systematically 
+important and/or higher risk hedge fund managers/advisers.  
+2. Hedge funds and/or hedge fund managers/advisers that are required to register should 
+be subject to relevant entry standards.  The information suppl ied through the 
+registration/authorization process should provide adequate transparency into the 
+business of the hedge fund manager/adviser and/or on the hedge funds managed. 
+3. Hedge fund managers/advisers which are required to register should be subject to 
+appropriate ongoing regulatory requirements relating to:  
+(a) organizational and operational standards:  
+(b) conflicts of interest and other conduct of business rules;  
+(c) disclosure to investors; and  
+(d) prudential requirements.237  
+4. Securities regulators should be able to obtain – if necessary through working with other 
+regulators – non-public reporting of information on the prime brokers’ and banks’ most 
+systemically significant and/or higher risk hedge fund counterparties.238   
+5. Hedge fund managers/advisers should provide to the regulator information for systemic 
+risk purposes (including the identification, analysis, and mitigation of systemic risks).  
+                                                 
+237 Id.  Prudential regulation may vary from one jurisdiction to the other.  Each jurisdiction may decide what 
+form of prudential regulation is appropriate to the risks posed by hedge funds.  See Explanatory Notes.  
+See also the Joint Forum issued recommendations regarding minimum prudential requirements for hedge 
+fund operators: Review of the Differentiated Nature and Scope of Financial Regulation, Report of the Joint 
+Forum, January 2010, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD315.pdf.  Further 
+relevant work of IOSCO: in relation to valuation please see Principles for the Valuation of Hedge Fund 
+Portfolios, supra; on fund of hedge funds see: Elements of International Regulatory Standards on Funds of 
+Hedge Funds Related Issues Based on Best Market Practices, Final Report, Report of the Technical 
+Committee, September 2009, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD305.pdf; 
+Regulatory and Investor Protection Issues Arising from the Participation by Retail Investors in (Funds-of) 
+Hedge Funds, Report of the Technical Committee of IOSCO, February 2003, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD142.pdf. See also Explanatory Notes. 
+238 The objective of information gathering by securities regulators from hedge fund managers is to obtain 
+information on the hedge fund’s prime brokers and custodians and the hedge fund’s risk exposures that 
+could be made available for systemic risk purposes (including the identification, analysis and mitigation of 
+systemic risk): see Hedge Funds Oversight, supra.  The Hedge Funds Oversight report also makes 
+recommendations with respect to information gathering from prime brokers and banks by their relevant 
+prudential regulators:“The main objectives of this information gathering [by prudential regulators] through 
+prime brokers/banks are to gauge risk appetite (funds and banks), identify the emergence of large and 
+highly leveraged funds, to assess banks’ ability to aggregate counterparty exposure across business lines, 
+and to build a prime brokerage ‘soft network’”.  The relevant concern is that: “Prime brokers and banks 
+which provide funding and other services to hedge funds can be the main transmission mechanism through 
+which the significant distress or failure of a single fund or cluster of hedge funds may result in systemic 
+effects, and potentially impact on the real economy.  This may result through a curtailing of the provision 
+of credit or disruptions to payment and clearing services, which could then impact directly on the real 
+economy”.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+178 
+6. Regulators should have the authority to cooperate and share information, where 
+appropriate, with each other, in order: to facilitate efficient and effective oversight of 
+globally active hedge fund managers/advisers, and/or hedge funds; and to help identify 
+systemic risks, market integrity and other risks arising from the activities or exposures 
+of hedge funds, with a view to mitigating such risks across borders. 
+ 
+Key Questions 
+Registration/Authorization of Hedge Fund Managers/Advisers and/or, where relevant, the 
+Hedge Fund 
+1. Does the regulatory system set standards for: 
+(a) The registration/authorization and the regulation of those who wish to operate 
+hedge funds (managers/advisers)?  
+(b) And/or the registration of the hedge fund?
+239  
+2. Does the regulatory system specify the information contemplated by Key Issue 2 that 
+must be provided to the regulator at the time of the registration/authorization?240 
+Standards for Internal Organization and Operational Conduct 
+3. Does the regulatory system set (in view of the risk posed) standards for internal 
+organization and operational conduct to be observed, on an ongoing basis, by the hedge 
+fund manager/adviser, including appropriate risk management and protection, and 
+segregation of client money and assets?
+241 
+Conflicts of Interest and Other Conduct of Business Rules 
+4. Does the regulatory system set stand ards for hedge fund managers/advisers to 
+appropriately manage conflicts of interest, 242 and provide full disclosure and 
+transparency to the regulator and investors (including potential investors) about such 
+conflicts and how they manage them? 
+                                                 
+239 Id. See also Explanatory Notes on exempted/lower regulated hedge funds and/or hedge fund 
+managers/advisers. 
+240 Id. See also Explanatory Notes. 
+241 Id, p. 11. In assessing the application of Key Question 3, the assessors should consider at least the issues 
+mentioned in the Explanatory Notes. 
+242 Hedge fund managers, like other fund managers, are subject to significant conflicts of interest (institutional 
+and personal).  The first category includes conflicts that affect the hedge fund manager as an institution, 
+such as investment/trade/brokerage allocation practices; undisclosed compensation arrangements with 
+affiliates; undisclosed compensation arrangements with counterparties, etc.  The second category includes 
+individual conflicts, such as personal trading; personal investing; personal or business relationships with 
+issuers, etc.:  see Hedge Funds Oversight, supra, p. 11.  As regards compensation/remuneration structures 
+and practices, they should be subject to strong governance mechanisms and required to manage conflicts of 
+interest issues and to counter the short-term profit motives that are often inherent in hedge funds’ 
+operations: see Hedge Funds Oversight, supra, p. 12.  See also Principle 8.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+179 
+Disclosure to the Regulator and to Investors 
+5. Is the regulator able to obtain from hedge fund managers/advisers appropriate 
+information about their operations and about the hedge funds that they manage that 
+allow it to assess the risks that hedge funds pose to systemic stability?
+243  
+6. Does the regulatory system, in view of the risks posed, set standards for the proper 
+disclosure by hedge fund managers/advisers, or by the hedge fund, to investors?
+244  
+Prudential Regulation 
+7. Are hedge fund managers/advisers, which are required to register, subject to appropriate 
+ongoing prudential requirements that reflect the risks they pose?  
+Supervision and Enforcement 
+8.  
+(a) Does the regulatory system provide for ongoing supervision of the hedge fund 
+managers/advisers which are required to register?  
+(b) Does the regulator have the power to access and inspect the hedge fund 
+managers/advisers and their records and/or the hedge funds? 
+(c) Does the regulator have the authority to enforce against wrongdoers? 
+9. Subject to appropriate confidentiality safeguards and national law restrictions, from the 
+point of view of supervision and enforcement, does the regulator have the power to:  
+(a) Collect where necessary relevant information from hedge fund 
+managers/advisers an d/or hedge funds (and through cooperation with other 
+domestic regulators from hedge fund counterparties) also on behalf of a foreign 
+regulator?  
+(b) Exchange information on a timely and ongoing basis, as deemed appropriate, 
+with other relevant regulators on in ternationally active hedge funds that may 
+pose systemic or other significant risks?  
+10. Is the securities ’ regulator able to obtain from the hedge fund operator/adviser  — if 
+necessary working with other regulators — non- public reporting of information on the 
+hedge funds’ exposure to counterparties, (which may include prime brokers, banks or 
+OTC derivative counterparties)?    
+ 
+                                                 
+243 This information gathering would help regulators to identify current or potential sources of systemic risk 
+that hedge funds may pose, either individually or collectively and consequently help regulators in better 
+understanding: the leverage used in different strategies and the size of funds’ “footprints”; the scale of any 
+asset/liability mismatch; substantial market or product concentration and liquidity issues; and hedge fund 
+counterparty risks:  see Hedge Funds Oversight, supra, p. 14.  See also Explanatory Notes. 
+244 See Hedge Funds Oversight, supra, p. 12.  The timing of such disclosure is determined by the regulator.  
+See also Explanatory Notes.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+180 
+Explanatory Notes 
+In assessing implementation of this Principle, assessors should consider the regulatory 
+framework in the context of the risks that hedge funds (individually and collectively) pose to 
+investor protection, fair and efficient markets, and the reduction of systemic risk, and how the 
+regulatory framework addresses these risks.  This will require assessors to consider the risks 
+that hedge funds pose in the relevant jurisdiction and the risks they may pose to global and 
+regional markets. 
+Assessors should also recognize that industry standards and Codes of Conduct may be used in 
+implementing this Principle, provided, however, that  whatever method of implementation is 
+chosen is enforceable to the extent necessary to achieve its objectives and takes into account 
+the Benchmarks.  For instance, disclosure and conduct standards may be developed by industry, 
+with regulation requiring those standards to be applied.  In these cases, assessors may also 
+consider how compliance with those standards is enforced. 
+With respect to Key Question 1 , assessors should also consider whether the regulator has the 
+power to refuse registration/authorization if the entry standards are not met. 
+With respect to Key Question 2, there may be differences in how the jurisdictions handle this 
+Question. The type of information that could be considered as possible requirements, at 
+registration/authorization of the manager/adviser, includes:  
+• background of key management and investment personnel, organization and 
+ownership;  
+• business plan;  
+• services offered;  
+• hedge fund investors targeted;  
+• fees charged;  
+• policy on related parties investments;  
+• investment strategies utilized;  
+• risk tools or parameters employed;  
+• identification of key service providers, such as independent auditors, sub- advisers, 
+administrators, custodians, prime brokers and credit providers;  
+• delegation and outsourcing arrangements; and  
+• conflicts of interest and procedures to identify and address them.
+245 
+With respect to Key Question 3, there may be differences in how the jurisdictions handle this 
+Question.  Jurisdictions will determine what, and under what circumstances, standards for 
+internal organization and operational conduct will be imposed on the hedge fund 
+managers/advisers.  
+                                                 
+245 See Hedge Funds Oversight, supra, pp. 11–12.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+181 
+Assessors should consider whether the standards for internal organization and operational 
+conduct to be observed on an ongoing basis by the hedge fund manager/advisers (in view of 
+the risks posed) take into account at least the following:
+246 
+(a) A comprehensive risk  management framework supported by an independent 
+risk management function, appropriate to the size, complexity and risk profile 
+of the hedge fund manager/adviser. 
+(b) An independent compliance function, appropriate to the size, complexity and 
+risk profile of the hedge fund manager/adviser, supported by: sound and 
+controlled operations and infrastructure; adequate resources; and operations for 
+checks and balances. 
+(c) Adequate segregation of responsibilities for valuing and investing hedge fund 
+assets, and thorough written valuation policies.
+247   
+(d) Adequate segregation and protection of client monies and assets through use of 
+custodians and depositaries that are, in appropriate circumstances, independent, 
+and ensure investors’ funds are protected. 
+(e) Appropriate records of the trades performed on behalf of each hedge fund.
+248  
+(f) Independent audit, on an annual basis, of the financial statements of the fund 
+manager/adviser and/or each of the hedge funds managed. 
+With respect to Key Question 5 , regulators should be able to obtai n from hedge fund 
+managers/advisers information about the hedge funds in their portfolio, which could include, 
+for example, the information listed in the Explanatory Notes relating to Key Question 2 above.  
+In addition, regulators should be able to obtain from hedge fund managers/advisers appropriate 
+information on an ongoing basis, for example:  
+• information on their prime brokers, custodian, and background information on the 
+persons managing the assets;  
+• information on the manager’s/adviser’s larger hedge funds including, the NAV, 
+predominant strategy/regional focus and performance;  
+• leverage and risk, including concentration risk of the manager’s/adviser’s larger hedge 
+funds;  
+• asset and liability information for the manager’s/adviser’s larger hedge funds;  
+• counterparty risk, including the biggest sources of credit;  
+• product exposure for all of the hedge fund manager/adviser assets (e.g., equities, 
+structured/securitized credit, investment grade corporate bonds etc.); and  
+• identification of investment activi ty known to represent a significant proportion (in 
+terms of liquidity/volume) of such activity in important markets or products.  
+                                                 
+246 Id, pp. 10–11. 
+247 Id. See also Principles for the Valuation of Hedge Fund Portfolios, supra, pp. 11, 13–14.  
+248 Records should be maintained by the hedge fund managers (and where appropriate hedge funds 
+themselves), like other market participants.  Such information should be available to the regulators upon 
+request e.g., for market abuse inspections.  See Hedge Funds Oversight, supra, p. 12.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+182 
+Hedge fund managers/advisers must be able to obtain all the necessary information from the 
+hedge funds they manage – irrespective of the location of those hedge funds – so that hedge 
+fund managers/advisers are able to effectively evaluate the risks they are taking in their 
+portfolio. 
+With respect to Key Question 6, hedge fund managers/advisers, or the hedge fund, should 
+provide proper disclosure to investors, amongst other things on:  
+(a) the risks posed;  
+(b) the conditions and/or the limits for redemption;  
+(c) the existence and conditions of any side letters and gating structures;  
+(d) the hedge fund’ s strategy and performance, including audited financial 
+statements of the hedge fund manager/adviser and/or the hedge funds managed.  
+The timing of such disclosure is determined by the regulator. 
+With respect to Key Question 7 , there may be differences in how jurisdictions handle this 
+Question, since not all securities regulators are also prudential regulators.  
+Each jurisdiction will determine what, and under what circumstances, prudential requirements 
+will be imposed on hedge fund managers/advisers.  
+For a positive assessment of Key Question 7, assessors should consider whether the regulatory 
+system as a whole ensures that hedge fund managers/advisers, which are required to register, 
+are subject to prudential requirements that reflect the risks they take (and which are most likely 
+to be akin to other asset manager requirements), e.g., operational risk, client money, etc.  
+Jurisdictions also have different approaches to prudential regulation.  Some jurisdictions see 
+prudential regulation as being primarily about capital requirements.  Others see it more broadly 
+as also including risk management frameworks.  Standards for internal organization and 
+operational conduct will also be relevant to this question.  Differences in approach reflect 
+different institutional and market conditions.  Nothing in the Principles or this Methodology 
+should be interpreted to imply a negative assessment of Key Question 7 when the jurisdiction 
+imposes prudential requirements for the managers or advisers of hedge funds other than capital 
+requirements. 
+Assessors should take differences in approach to prudential regulation into account in assessing 
+whether appropriate prudential requirements are in place.  
+With respect to Key Questions 8(a), 8(b) and 8(c) , the regulator should have comprehensive 
+inspection, investigation, s urveillance and enforcement powers in relation to hedge funds 
+and/or hedge fund managers/advisers.  The regulatory system should ensure an effective and 
+credible use of these powers and the implementation of an effective compliance program, as 
+explained in Principles 10 to 12. 
+In case of failure to comply with the ongoing regulatory requirements, the regulator should 
+have the authority to impose measures (including withdrawing, suspending, or applying 
+conditions to a registration/authorization) and to impose effective, proportionate and dissuasive 
+sanctions.  
+With respect to Key Questions 9(a) and 9(b) , the regulator should be able to cooperate and 
+share information with other foreign authorities for the purposes of supervision and 
+enforcement in the same way as explained under Principles 13 to 15 on cooperation.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+183 
+Assessors should take into account any obstacles the regulator may face when asked to 
+cooperate with foreign securities regulators, including whether the regulator is able to exercise 
+the powers listed in Key Questions 9(a) and 9(b) with respect to exempted or lower regulated 
+entities. 
+With respect to Key Question 10 , the ability of a regulator to obtain non -public reporting of 
+information on the prime brokers’ and banks’ most systemically significant and/or higher risk 
+hedge fund counterparties is enhanced if the latter are supervised entities.  In previous work,
+249 
+IOSCO has recommended that “Prime brokers and banks which provide funding to hedge funds 
+should be subject to mandatory registration/regul ation and supervision.  They should have in 
+place appropriate risk management systems and controls to monitor their counterparty credit 
+risk exposures to hedge funds”.  
+Exempted/Lower regulated Hedge Funds and/or Hedge Fund Managers/Advisers 
+The assessors should take into account whether the regulator has discretion to grant exemptions 
+from the registration/authorization of those that wish to operate hedge funds and/or –  where 
+relevant – of hedge funds, or the regulatory system provides for lighter entry re quirements 
+compared to other assets pools or other assets pools’ operators (e.g., notification requirements 
+or cut -off).  In such a case, assessors should consider if t he reason why the exemption is 
+conferred and the process by which it is conferred are: t ransparent; give similar results for 
+similarly situated persons or sets of circumstances; and explainable in the context of this 
+Principle 28.  Assessors should consider the entry requirements, if any, applicable to 
+exempted/lower regulated hedge fund mana gers/advisers, including: the type of information 
+that the regulator is able to collect and any ongoing regulatory requirements applicable to them 
+relating to organizational and operational standards; conflicts of interest and other conduct of 
+business rules; disclosure toward the regulator and investors; and prudential regulation. 
+Where appropriate, the assessor should make reference to the assessment of Principle 7. 
+Assessments of Principle 28 should be consistent with any findings under the assessment of  
+Principle 6 on systemic risk. 
+To determine whether Principle 28 is implemented in a manner that achieves its objectives, it 
+is also necessary to consider whether the regulatory framework provides for mechanisms to 
+address current and potential systemic risks arising from the operation of hedge funds. 
+In particular, assessors should assess whether the securities regulator is able, either directly or 
+through working with other regulators, to obtain  non-public reporting of information on the 
+prime brokers’ an d banks’ most systemically significant and/or higher risk hedge fund 
+counterparties.
+250 
+ 
+                                                 
+249  See Hedge Funds Oversight, supra, pp. 12–13. 
+250 Id, pp. 15–16.
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+184 
+Benchmarks 
+Fully Implemented  
+Requires affirmative responses to Question 1(a) and/or 1(b) and to all other applicable 
+Questions.   
+Broadly Implemented  
+Requires affirmative responses to Question 1(a) and/or 1(b) and to all other applicable 
+Questions except to Question 7. 
+Partly Implemented   
+Requires affirmative responses to Question 1(a) and/or 1(b) and to all other applicable 
+Questions except to Questions 7 and 10.  
+Not Implemented  
+Inability to respond affirmatively to both Questions 1(a) and 1(b) or to one or more of 
+Questions 2, 3, 4, 5, 6, 8(a), 8(b), 8(c), 9(a) and 9(b).
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+185 
+BIBLIOGRAPHY FOR PRINCIPLES RELATING TO COLLECTIVE 
+INVESTMENT SCHEMES AND HEDGE FUNDS 
+ Document Principle Other 
+Principles 
+1 Standards for the Custody of Collective Investment Schemes’ 
+Assets, Final Report, Report of the Board of IOSCO, November 
+2015,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD512.pdf  
+25 
+27 
+ 
+2 Principles for the Regulation of Exchange Traded Funds , 
+Report of the Board of IOSCO, June 2013,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD414.pdf 
+24 
+25 
+26 
+27 
+ 
+3 Principles for the Valuation of Collective Investment Schemes , 
+Report of the Board of IOSCO, May 2013,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD413.pdf 
+27  
+4 Principles for Liquidity Risk Management for Collective 
+Investment Schemes , Report of the Board of IOSCO, March 
+2013,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD405.pdf 
+24  
+5 Policy Recommendations for Money Market Funds , Report of 
+the Board of IOSCO, October 2012, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD392.pdf  
+25 
+27 
+ 
+6 Principles for Suspension of Redemptions in Collective 
+Investment Schemes, Report of the Board of IOSCO, January 
+2012,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD367.pdf 
+27  
+7 Review of the Differentiated Nature and Scope of Financial 
+Regulation, Report of the Joint Forum, January 2010,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD315.pdf  
+28  
+8 Elements of International Regulatory Standards on Funds of 
+Hedge Funds Related Issues Based on Best Market Practices, 
+Final Report, Report of the Technical Committee, September 
+2009,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD305.pdf  
+28
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+186 
+ Document Principle Other 
+Principles 
+9 Good Practices in Relation to Investment Managers’ Due  
+Diligence When Investing in Structured Finance Instruments , 
+Final Report, Report of the Technical Committee of IOSCO, 
+July 2009,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD300.pdf 
+24  
+10 Hedge Funds Oversight, Final Report, Report of the Technical 
+Committee of IOSCO, June 2009,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD293.pdf  
+28  
+11 Soft Commission Arrangements for Collective Investment 
+Schemes, Final Report, Report of the Technical Committee of 
+IOSCO, November 2007,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD255.pdf 
+24 
+26 
+ 
+12 Principles for the Valuation of Hedge Fund Portfolios , Final 
+Report, Report of the Technical Committee of IOSCO, 
+November 2007,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD253.pdf 
+28  
+13 Examination of Governance for Collective Investment Schemes 
+Part II, Report of the Technical Committee of IOSCO, February 
+2007,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD236.pdf 
+24  
+14 The Regulatory Environment for Hedge Funds –  a Survey and 
+Comparison, Report of the Technical Committee of IOSCO, 
+November 2006,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD226.pdf 
+28  
+15 Examination of Governance for Collective Investment Schemes 
+Part I
+, Report of the Technical Committee of IOSCO, June 
+2006,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD219.pdf 
+24  
+16 Best Practice Standards on Anti Market Timing and Associated 
+Issues for CIS, Final Report, Report of the Technical Committee 
+of IOSCO, October 2005,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD207.pdf  
+24 
+26 
+27
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+187 
+ Document Principle Other 
+Principles 
+17 Anti-Money Laundering Guidance for Collective Investment 
+Schemes, Final Report, Report of the Technical Committee of 
+IOSCO, October 2005,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD205.pdf 
+24  
+18 An Examination of the Regulatory Issues arising from CIS 
+Mergers, Report of the Technical Committee of IOSCO, 
+November 2004,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD179.pdf 
+24 
+26 
+ 
+19 Final Report on Elements of International Regulatory 
+Standards on Fees and Expenses of Investment Funds , Report 
+of the Technical Committee of IOSCO, November 2004,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD178.pdf 
+24 
+26 
+29 
+20 Performance Presentation Standards for Collective Investment 
+Schemes: Best Practice Standards, Report of the Techni cal 
+Committee of IOSCO, May 2004,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD169.pdf 
+24 
+26 
+ 
+21 Collective Investment Schemes as Shareholders: 
+Responsibilities and Disclosure , Report of the Technical 
+Committee of IOSCO, October 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD158.pdf 
+24 
+26 
+ 
+22 Fees and Commissions within the CIS and Asset Management 
+Sector: Summary of Answers to Questionnaire , Report of the 
+Technical Committee of IOSCO, October 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD157.pdf 
+24 
+26 
+ 
+23 Investment Management Risk Assessment: Marketing and 
+Selling Practices , Report of the Technical Committee of 
+IOSCO, October 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD156.pdf   
+24 
+25 
+26 
+ 
+24 Regulatory and Investor Protection Issues Arising from the 
+Participation by Retail Investors in (Funds -of) Hedge Funds , 
+Report of the Technical Committee of IOSCO, February 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD142.pdf 
+28
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+188 
+ Document Principle Other 
+Principles 
+25 Investor Education , Report of the Emerging Markets 
+Committee of IOSCO, January 2003,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD140.pdf  
+26  
+26 Investment Management Risk Assessment: Management 
+Culture and Effectiveness, Report of the Technical Committee 
+of IOSCO, November 2002,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD137.pdf 
+24  
+27 Investment Management: Areas of Regulatory Concern and 
+Risk Assessment Methods, Report of the Technica l Committee 
+of IOSCO, November 2002,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD136.pdf 
+24  
+28 Investor Disclosure and Informed Decisions: Use of Simplified 
+Prospectuses by Collective Investment Schemes, Report of the 
+Technical Committee of IOSCO, July 2002,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD131.pdf 
+26  
+29 Discussion Paper on the Role of Investor Education in the 
+Effective Regulation of CIS and CIS Operators , Report of the 
+Technical Committee of IOSCO, March 2001,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD117.pdf 
+26  
+30 Performance Presentation Standards for Collective Investment 
+Schemes
+, Report of the Emerging Markets Committee of 
+IOSCO, December 2000,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD114.pdf 
+26  
+31 Delegation of Functions, Report of the Technical Committee of 
+IOSCO, December 2000,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD113.pdf 
+24  
+32 Conflicts of Interests of CIS Operators, Report of the Technical 
+Committee of IOSCO, May 2000,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD108.pdf 
+24
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+189 
+ Document Principle Other 
+Principles 
+33 A Comparison between the Technical Committee Report and the 
+Emerging Markets Committee Report on Valuation and Pricing 
+of Collective Investment Schemes, Joint Report of the Technical 
+Committee and Emerging Markets  
+Committee of IOSCO, 
+May 1999,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD93.pdf 
+27  
+34 CIS Unit Pricing, Report of the Emerging Markets Committee 
+of IOSCO, May 1999,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD92.pdf 
+27  
+35 Regulatory Approaches to the Valuation and Pricing of 
+Collective Investment Schemes , Report of the Technical 
+Committee of IOSCO, May 1999,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD91.pdf 
+27  
+36 Risk Management and Control Guidance for Securities Firms 
+and their Supervisors , Report of the Technical Committee of 
+IOSCO, May 1998,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD78.pdf 
+24  
+37 Principles for the Supervision of Operators of Collective 
+Investment Schemes , Report of the Technical Committee of 
+IOSCO, September 1997,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD69.pdf 
+24 
+25 
+26 
+27 
+ 
+38 Guidance on Custody Arrangements for Collective Investment 
+Schemes, Discussion Paper of the Technical Committee of 
+IOSCO, September 1996,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD60.pdf 
+25 
+27 
+ 
+39 Disclosure of Risk —  A Discussion Paper , Report of the 
+Technical Committee of IOSCO, September 1996,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD59.pdf 
+26  
+40 Client Asset Protection, Report of the Technical Committee of 
+IOSCO, August 1996,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD57.pdf  
+25 
+26
+
+PRINCIPLES RELATING TO COLLECTIVE INVESTMENT SCHEMES AND HEDGE FUNDS  
+190 
+ Document Principle Other 
+Principles 
+41 Report on Investment Management , Report of the Technical 
+Committee of IOSCO, July 1995,   
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD45.pdf 
+24 
+25
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+191 
+H. PRINCIPLES RELATING TO MARKET INTERMEDIARIES 
+1. Preamble 
+The Principles relating to Market Intermediaries seek to support the IOSCO objectives by 
+setting requirements related to entry criteria, capital and prudential requirements, conduct of 
+business, ongoing supervision, and discipline of market intermediaries, and the consequences 
+of default and financial failure.   
+Market intermediaries should conduct themselves in a way that protects the interests of their 
+clients and helps to preserve the integrity of the market.  Fundamental principles include: 
+• A firm should observe high standards of integrity and fair dealing.  
+• A firm should act with due care and diligence in the best interests of its clients and the 
+integrity of the market. 
+• A firm should observe high standards of market conduct. 
+• A firm should not place its interests above those of its clients and should give similarly 
+situated treatment to similarly situated clients. 
+• A firm should comply with any law, code or standard relevant to securities regulation 
+as it applies to the firm. 
+Supervision and Enforcement 
+In addition, regulation of the various types of market intermediaries should aim to provide for: 
+• Proper ongoing supervision with respect to market intermediaries. 
+• The right to inspect the books, records and business operations of a market 
+intermediary.
+251 
+• A f ull range of investigatory powers and enforcement remedies available to the 
+regulator or other competent authority in cases of suspected or actual breaches of 
+regulatory requirements. 
+• A fair and expeditious process leading to discipline and, if necessary, suspension or 
+withdrawal252 of a licence. 
+• The existence of an efficient and effective mechanism to address investor complaints. 
+Principles 29 to 32 deal with market intermediaries.  Principle 29 addresses authorization and 
+the standards for authorization; Principle 30 addresses ongoing monitoring and the initial and 
+ongoing capital requirements and prudential standards for intermediaries; Principle 31 
+addresses other operational standards for market intermediaries and standards for conduct of 
+business to protect the interests of clients and their assets and for ensuring proper management 
+of risks; and Principle 32 addresses procedures for minimizing the consequences to investors 
+and markets of the failure of a market intermediary.  These Principles should be a ssessed in 
+conjunction with each other.  
+                                                 
+251  Inspection powers should be available to a regulator to ensure compliance with all relevant requirements, 
+even in the absence of a suspected breach of conduct.  There must be complementary requirements for the 
+maintenance of comprehensive records.  See also Principle 10. 
+252  The term “withdrawal” would include revocation.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+192 
+The oversight of market intermediaries should primarily be directed to the areas where their 
+capital, client assets and public confidence may most be put at risk.  These include the risks of: 
+• Incompetence, poor risk management or risk management that fails to be adequate in 
+the context of an extraordinary event.  Any of these may lead to a failure: (1) to provide 
+best execution; (2) to obtain prompt settlement; and/or (3) to provide appropriate 
+advice. 
+• Breach of duty, laws and regulations (which may lead to misappropriation of client 
+funds or property, the misuse of client instructions for the intermediary’s own trading 
+purposes, i.e., “front running” or trading ahead of clients). 
+• Manipulation, insider trading and other trading irregularities; or fraud, money 
+laundering, or terrorist financing taking place at the intermediary. 
+• Conflicts of interest.   
+• Insolvency of an intermediary (which may result in loss of client money, securities or 
+trading opportunities and may re duce confidence in the market in which the 
+intermediary participates). 
+In assessing the adequacy of regulation, assessors should consider both the activities regulators 
+perform directly, as well as those activities performed by SROs (including an assessmen t of 
+the adequacy of the supervision of such self-regulatory activities by the regulator). 
+ 
+2. Scope 
+The Principles under this Section apply to market intermediaries.  Some or all of the Principles 
+may also apply to investment advisers, depending on the natur e of the investment adviser’s 
+business, as explained below.  
+“Market intermediaries” generally include those who are in the business of managing 
+individual portfolios, executing orders and dealing in, or distributing, securities.  A jurisdiction 
+may also choose to regulate as a market intermediary an entity that engages in any one or more 
+of the following activities:
+253 
+• Receiving and transmitting orders. 
+• Proprietary trading/dealing on own account. 
+• Providing advice regarding the value of securities or the advisability of investing in, 
+purchasing, or selling securities. 
+• Securities underwriting. 
+• Placing of financial instruments without a firm commitment basis. 
+                                                 
+253  A market intermediary may also be authorized, in addition to the activities mentioned in the paragraph 
+above, to hold custody of client assets (e.g., safekeeping and administration of securities) as an ancillary 
+activity.  Custody in this context means “physically” holding the client assets (i.e., in electronic or in paper 
+form) where they could be at risk of custodial error or misappropriation.  However, merely being able to 
+deduct an advisory fee from customer assets held not at the adviser but rather at a bank or broker-dealer 
+would not be considered having “custody.”
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+193 
+“Investment advisers” are those principally engaged in the business of advising others 
+regarding the va lue of securities or the advisability of investing in, purchasing or selling 
+securities.  This does not mean that they cannot provide other services.  In some jurisdictions, 
+an investment adviser that deals on behalf of clients and/or is permitted to hold client assets 
+would be classified as a market intermediary.  In other jurisdictions, investment advisers are 
+treated separately from market intermediaries.  When this distinction exists, the scope of 
+Principles 29 to 32 may apply differently depending on t he type of investment adviser. 254  
+Regulation should depend on, and be appropriate to, the adviser’s activities.  This is clarified 
+in more detail under the heading of “investment advisers” in Principle 29.   
+To the extent that this section calls for an assessment of the ongoing operations of 
+intermediaries consistent with the Principles, the assessor should be certain that any 
+conclusions reached are consistent with those contained in Principles 10, 11 and 12 related to 
+enforcement and inspection powers and implementation of such powers. 
+In many ways, the definition of traditional securities market intermediaries is applicable in the 
+OTC derivatives context.  However, there are a number of differences between traditional 
+market intermediaries and derivatives market intermediaries (DMIs), as noted in IOSCO’s 
+International Standards for Derivative Market Intermediary Regulation (“DMI Report”).
+ 255 
+DMIs should generally include those who are in the business of dealing, making a market or 
+intermediating transactions in OTC derivatives.  However, DMIs should not include end-users 
+and market participants who enter into OTC derivatives transactions but are not engaged in the 
+business of dealing, making a market or intermediating transactions.  Further, while in some 
+IOSCO jurisdictions certain derivatives may be classified as “securities”, the term “traditional 
+securities market” is used to refer to conventional securities, such as bonds and exchange-
+traded equities and options, in contrast to instruments that would be c onsidered OTC 
+derivatives (which does not include products listed on an exchange).256   
+The DMI Report focuses on the regulation of DMIs, taking into account the distinctions 
+between the OTC derivatives market and the traditional securities markets, includin g the fact 
+that the OTC derivatives market is primarily a principals market and the securities market is 
+primarily intermediated.  Where there are differences between traditional securities markets 
+and OTC derivatives markets, the DMI Report identified and  explained these differences in 
+order to tailor objectives and standards specifically to market intermediaries operating in the 
+OTC derivatives market.  Accordingly, the Principles for Market Intermediaries and related 
+Methodology should be applied to DMIs  only as specifically noted in K ey Issue 11 and Key 
+Question 8
+ of Principle 29 and Key Issue 4 and 8 and Key Question 6 and 12 of Principle 31. 
+                                                 
+254  In this respect, three types of investment adviser could be identified:  
+ (a) Investment advisers that deal on behalf of clients. 
+ (b) Investment advisers that do not deal on behalf of clients, but are permitted to have custody of client 
+assets. 
+ (c) Investment advisers who neither deal on behalf of clients nor hold or have custody of client assets nor 
+manage portfolios, but who offer only advisory services without offering other investment services. 
+255  See International Standards for Derivatives Market Intermediary Regulation, Final Report, Report of the 
+Technical Committee of IOSCO, June 2012, pp. 1 and 9, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD381.pdf  (“DMI Report”). 
+256  Id, pp. 4 and 10.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+194 
+3. Principles 29 through 32 
+Principle 29 Regulation should provide for minimum entry standards for market 
+intermediaries. 
+The licensing 257 and supervision of market intermediaries, including its staff, should set 
+minimum standards for them and provide consistency of treatment for all similarly situated 
+market intermediaries.  It should also reduce the risk to investors of loss caused by negligent 
+or illegal behaviour and/or inadequate capital. 
+ 
+Key Issues  
+Authorization 
+1. The authorization, licensing or registration should specify the services or activities 
+which the market intermediary is authorized to provide. 
+2. The authorization, licensing or registration of market intermediaries should set 
+minimum standards of entry that make clear the basis for authorization and the 
+standards that should be met on an ongoing basis.  Such standards should include: 
+(a) An initial minimum capital requirement as set forth in Principle 30. 
+(b) A comprehensive assessment of the applicant and all those who are in a position 
+directly, or indirectly, to control, or materially influence, the applicant.  In this 
+regard, regulation should determine the conditions or criteria to be met by the 
+market intermediary and its staff in order to be allowed to particip ate in the 
+market.  This should include, but not be restricted to, a demonstration of 
+appropriate knowledge, business conduct, resources, skills, ethical attitude 
+(including a consideration of past conduct), and internal organization.
+258 
+(c) A requirement that the entry standards be consistently applied. 
+Authority of Regulator 
+3. The licensing authority should have the power to:  
+(a) Refuse licensing of a market  intermediary, subject only to administrative or 
+judicial review, if authorization requirements have not been met. 
+(b) Withdraw, suspend or apply a condition to a licence or authorization where a 
+change in control or other change results in a failure to meet relevant 
+requirements, according to Principle 3. 
+                                                 
+257  The terms “licensing”, “authorization” and “registration” are used interchangeably in this section.  In some 
+jurisdictions authorization or registration is used instead of licensing.  The term “licence” in this section 
+should be understood to refer also to authorization and registration. 
+258  Examples from jurisdictions include: statutory disqualification programs and detailed criteria relating to 
+education, training, experience or the so-called “fitness and propriety” of an applicant to be met before a 
+person may be licensed.  These criteria are intended to protect the investor.  See generally Fit and Proper 
+Assessment —  Best Practice, Final Report, Report of the Emerging Markets Committee of IOSCO, 
+December 2009, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD312.pdf
+.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+195 
+4. The regulator, or the SRO subject to the regulator ’s oversight, should demonstrate an 
+ability to carry out an effective review of applications for licensing or authorization to 
+ensure compliance with regulatory requirements. 
+Ongoing Requirements 
+5. Periodic updating of rel evant information and reporting of material changes in 
+circumstances affecting the conditions of licensing should be required, in order to 
+ensure that continued licensing remains appropriate.  For example, changes in control, 
+or material influence, should be required to be made known to the regulator , such that 
+it may seek to ensure that its assessment of the market intermediary remains valid. 
+6. To enable investors to better protect their own interests, the regulator should seek to 
+ensure that the public has access to relevant information concerning the licensee or 
+authorized market intermediary such as: the identity of senior management , and those 
+authorized to act in the name of the market intermediary; the category of licence held 
+and its current status; and the scope of authorized activities.259 
+Investment Advisers 
+7. In jurisdictions where investment advisers are treated separately from market 
+intermediaries, as explained in the scope section above, investment advisers that deal 
+on behalf of clients or that are  permitted to have custody of client assets should be 
+licensed.  There are investment advisers who neither:  
+(a) deal on behalf of clients nor hold, or have custody of, client assets; nor  
+(b) manage portfolios,  
+but who only offer advisory services without other investment services.  In this case, separate 
+licensing of the investment adviser may not be strictly required.
+260  
+8. In regulating the activities of investment advisers, the regulator may elect to place 
+emphasis on the substantive licensing criteria and the capital and other requirements 
+recommended for regulation of other market intermediaries , as explained under 
+Principles 29 to 32.  Alternatively, the regulator may use a disclosure -based regime 
+designed to permit potential advisory clients to make an informe d choice of advisers 
+subject to the activities performed by the investment adviser.   
+9. Regardless of these two options, the regulatory scheme should include the following 
+requirements based on the type of adviser: 
+(a) If an investment adviser deals on behalf of  clients,
+261 the capital and other 
+operational controls (explained in Principles 29 to 32) applicable to other market 
+intermediaries also should apply to the adviser. 
+                                                 
+259  The information must be freely available and readily accessible.  It may be maintained in a central 
+repository by the regulator or by an SRO. 
+260  Where an investment adviser is offering advice through market intermediaries that are adequately licensed 
+according to the Principles, separate licensing of the investment adviser may not be required. 
+261  Investment adviser type (a) in footnote 254.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+196 
+(b) If the investment adviser does not deal, but is permitted to have custody of client 
+assets,262 regulation should provide for the protection of client assets, including 
+segregation and periodic or risk-based inspections (either by the regulator or an 
+independent third party), and capital and organizational requirements as 
+explained under Principles 29 to 32. 
+10. At a minimum, however, the regulatory scheme selected for investment advisers should 
+contain the following elements of the markets intermediaries regime, as applicable: 
+(a) A licensing regime that is sufficient to establish authorization to act as a n 
+investment adviser and to ensure access by the public to an up- to-date list of 
+authorized investment advisers. 
+(b) Bars against the licensing of persons who have violated securities or similar 
+financial laws or criminal statutes during a specific time period preceding their 
+application. 
+(c) Recordkeeping requirements. 
+(d) Clear and detailed disclosure requirements to be made by the investment adviser 
+to potential clients.
+263 
+(e) Rules and procedures designed to prevent guarantees of future investment 
+performance and misuse of client assets, and to address potential conflicts of 
+interest.264 
+Derivatives Market Intermediaries 
+11. In jurisdictions where DMIs are treated separately from market intermediaries, as 
+explained in the Scope Section, DMIs should be subject to registration or licensing, 
+recognizing that in certain limited circumstances full application of requirements and 
+standards may not be appropriate for certain types of entities.
+ 265      
+ 
+Key Questions 
+Authorization 
+1. Does the jurisdiction require that, as a condition of operating a securities business, the 
+market intermediaries (as defined above) are licensed? 
+                                                 
+262  Investment adviser type (b) in footnote 254. 
+263  For example, descriptions of the adviser’s educational qualifications, relevant industry experience, 
+disciplinary history (if any), investment strategies, fee structure and other client charges, potential conflicts 
+of interest and past investment performance (if relevant) that is updated periodically and as material 
+changes occur. 
+264  It may not be possible to resolve all potential conflicts but conflicts should be addressed and if not 
+resolved, at least disclosed. 
+265  However, because the majority of the OTC derivatives markets are composed of non-retail 
+clients/counterparties, a general exemption for DMIs who only transact with non-retail entities would not 
+be appropriate.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+197 
+2. Are there minimum standards or criteria that all applicants for licensing must meet 
+before a licence is granted (or denied)266 that are clear and publicly available, which: 
+(a) Are fair and equitable for similarly situated market intermediaries? 
+(b) Are consistently applied? 
+(c) Include an initial capital requirement, as applicable? 
+(d) Include a comprehensive assessment of the applicant and all those in a position 
+to control, or materially influence, the applicant, which requires a demonstration 
+of appropriate knowledge, business conduct, resources, skills, ethical attitude 
+(including a consideration of past conduct)? 
+(e) Include an assessment of the sufficiency of internal organization an d risk 
+management and supervisory systems in place, including relevant written 
+policies and procedures, which enable ongoing monitoring as to whether the 
+minimum standards are still met?  
+3. Does the regulator , or the SRO subject to the regulator ’s oversight , have in place 
+processes and resources to effectively carry out a review of applications for licence? 
+Authority of Regulator 
+4. Does the relevant authority have the power to: 
+(a) Refuse licensing, subject only to administrative or judicial review, if 
+authorization requirements have not been met? 
+(b) Withdraw, suspend or apply a condition to a licence where a change in control 
+or other change results in a failure to meet relevant requirements on an ongoing 
+basis? 
+(c) Take effective steps to prevent the employment of persons (or seek the removal 
+of persons) who have committed securities violations or who are otherwise 
+unsuitable, so that they cannot continue to engage in intermediary activities, 
+even if these persons are not separately licensed market intermediaries, if they 
+can have a material influence on the firm?  
+Ongoing Requirements 
+5. Are market intermediaries required: to update periodically relevant information with 
+respect to their licence; and to report immediately to the regulator (or licensing 
+authority) material changes in the circumstances affecting the conditions of the 
+licence?
+267 
+6. Is the following relevant information about licensed market intermediaries available to 
+the public: 
+(a) The existence of a licence, its category and status? 
+                                                 
+266  In some jurisdictions, the criteria are stated for denying or disqualifying potential applicants. 
+267  There should be regular information provided to the regulator that indicates the market intermediary’s 
+ongoing activities.  In addition, where there is a change in the market intermediary’s staff, activities or 
+environment that would have a material effect on its ability to perform its role, this should be reported to 
+the regulator in a timely fashion.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+198 
+(b) The scope of permitted  activities and the identity of senior management and 
+names of other authorized individuals who act in the name of the market 
+intermediary? 
+Investment Advisers 
+7. Does the regulatory scheme for investment advisers require that, as applicable: 
+(a) If an investment adviser deals on behalf of clients, the capital and other 
+operational controls (explained in Principles 29 to 32) applicable to other market 
+intermediaries also should apply to the investment adviser? 
+(b) If the investment adviser does not deal but is permitted to have custody of client 
+assets, regulation provides for the protection of client assets, including 
+segregation and periodic or risk-based inspections (either by the regulator or an 
+independent third party) and capital and organizationa l requirements as 
+explained under Principles 29 to 32? 
+(c) In the case of both (a) and (b), as well as investment advisers who manage client 
+portfolios without dealing on behalf of clients or holding client assets, does 
+regulation impose relevant requirements that cover recordkeeping, disclosure 
+and conflicts of interest as explained in Principle 31? 
+Derivatives Market Intermediaries 
+8. In jurisdictions where DMIs are treated separately from market intermediaries, as 
+explained in the Scope Section, does the regulatory system require that DMIs be subject 
+to registration or licensing, recognizing that in certain limited circumstances full 
+application of requirements and standards may not be appropriate for certain types of 
+entities?  
+Explanatory Notes 
+Some jurisdictions may licence persons who operate a CIS as CIS operators; other jurisdictions 
+may licence CIS operators as investment advisers.  This characterization should be without 
+prejudice to their assessment under Principles 24 through 28, on CIS, accor ding to the 
+assessment criteria for those Principles and, in any case, these Principles should still apply to 
+the market intermediaries’ activities of that investment adviser. 
+Recognition of another licensing regime, in connection with access to domestic c lients by a 
+foreign intermediary subject to relevant conditions, is contemplated as being a licensing or 
+authorization program under the assessment benchmarks, provided that the criteria used are 
+transparent, clear, consistently applied and address the objectives of the Principles.  
+Where individuals or entities are licensed, registered or authorized in more than one capacity, 
+assessors must assure what criteria are applied to each category. 
+Where a jurisdiction has an SRO that licences market intermediarie s, assessment of the 
+appropriate oversight of the process by the regulator is addressed under Principle 9. 
+When considering Key Question 3, assessors should give consideration to Principle 3 on 
+resources. 
+When considering Key Question 2(e), assessors should give consideration to the extent to which 
+assessment of these systems by the regulator, or its designee (such as an SRO), is possible prior 
+to the granting of a licence.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+199 
+Benchmarks268 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 6(b).   
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 2(e), 
+4(c), 6(b).  
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1, 2(a), 2(b), 2(c), 2(d), 
+3, 4(a) and (b), 5, 6(a), 7(a), 7(b) and 7(c) and 8 to the extent applicable. 
+ 
+                                                 
+268  In the case of investment advisers, affirmative answers are only required to those Questions applicable to 
+the category of adviser(s) permitted in the jurisdiction.  This does not refer to principal protected or 
+guaranteed specified minimum rate of return plans for which appropriate disclosures are made.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+200 
+Principle 30 There should be initial and ongoing capital and other prudential 
+requirements for market intermediaries that reflect the risks that the 
+intermediaries undertake. 
+Capital adequacy standards foster confidence in the financial markets and investor protection. 
+Establishment of adequate initial and ongoing capital standards also contributes to ensuring the 
+protection of investors, and the integrity and stability of financial systems.  A market 
+intermediary should be required to ensure that it maintains adequate financial resources to meet 
+its business commitments and to withstand the risks to which its business is subject. 
+Assessors should assess each country’s capital adequacy standards by reference to the capital 
+adequacy principles published by IOSCO.
+269 
+ 
+Key Issues 
+1. There should be an initial capital requirement for market intermediaries as a condition 
+of authorization.  This requirement should be based on a capital adequacy test that 
+addresses the risks to such firms judged by reference to the nature and amount of th e 
+business expected to be undertaken. 
+2. There should be an ongoing capital requirement directly related to the nature of the 
+risks and the amount of business actually  undertaken by a market intermediary.  The 
+capital required should be maintained by the market intermediary and subject to timely 
+periodic reporting to the regulator , or authorized SRO  that is subject to regulatory 
+oversight.  This should involve a combination of regular reporting, and one -off 
+trigger-based early warning reporting when the threshold levels for minimum capital 
+are approached. 
+3. Market intermediaries should be subject to capital adequacy and liquidity standards 
+which should cover solvency.  Lack of liquidity can cause difficulties for a firm because 
+it might not be able to meet its liabilities as they fall due.
+270 
+4. Capital adequacy standards 271 should be designed to allow a market intermediary to 
+absorb some losses and continue to operate, particularly in the event of large, adverse 
+market moves, and to achieve an environment in which it could wind down its business 
+over a relatively short period without loss to: its clients; its counterparties; or the clients 
+of other firms, and without disrupting the orderly functioning of the financial markets.  
+Capital standards should be designed to provide supervisory authorities with time to 
+intervene to accomplish the objective of orderly wind down. 
+                                                 
+269  See Capital Adequacy Standards for Securities Firms, Report of IOSCO, October 1989, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD1.pdf.. 
+270  Id, p. 17. 
+271  Id, Part IV at pp. 10–21.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+201 
+5. In addition to the organizational requirements under Principle 31, a market intermediary 
+should be subject to: 
+(a) Independent audits of its financial condition. 
+(b) Inspections, including periodic and for cause examinations, by a regulator, or an 
+authorized SRO that is subject to regulatory oversight. 
+6. The regulator should have specific authority to impose : restrictions on a market  
+intermediary’s regulated business activities; and more stringent capital monitoring 
+and/or reporting requirements, if a market intermediary’s capital deteriorates or when 
+it falls below minimum requirements.272 
+7. Any exposure of a market intermediary to significant risks arising from the activities of 
+other entities in its group(s) should be addressed.  Consideration should be given as to 
+the need for information about the activities of unlicensed and off balance sheet 
+affiliates.
+273 
+Key Questions 
+1. Are there initial and ongoing minimum capital requirements for market intermediaries?  
+Are there also liquidity standards?  Do the capital and liquidity standards address 
+solvency? 
+2. Are the capital adequacy requirements structured to result in capital addressed to the 
+full range of risks to which mar ket intermediaries are subject (e.g., market, credit, 
+liquidity and operational risks)?  
+3. Are capital adequacy requirements sensitive to the quantum of risks undertaken; that is, 
+does required capital increase as risk increases (e.g., in the event of large market 
+moves)? 
+4. Are capital standards designed to allow a market  intermediary to absorb some losses,  
+and to wind down its business over a relatively short period without loss to its clients 
+or disrupting the orderly functioning of the markets? 
+5. Are relevant market intermediaries required to maintain records such that capital levels 
+can be readily determined at any time?    
+6. Are the detail, format, frequency and timeliness of reporting to the regulator, and/or the 
+SRO, sufficient to reveal a significant deterioration in the capital adequacy position of 
+market intermediaries? 
+                                                 
+272  For example, when it is determined that an intermediary is in danger of not being able to fulfil its 
+obligations towards its clients, the market or its creditors, or it is determined that the intermediary’s 
+financial condition is deteriorating although still above minimum requirements.  Assessors should note that 
+although this is a regulatory requirement, in the first instance, the responsibility for managing risks rests 
+with the firm.  
+273  See e.g. Sound Practices for the Management of Liquidity Risk at Securities Firms, Report of the Technical 
+Committee of IOSCO, June 2002, p. 5 par. 21, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD128.pdf.  See also Multidisciplinary Working Group 
+on Enhanced Disclosure, Joint Report of the Basel Committee on Banking Supervision, the Committee on 
+the Global Financial System of the G-10 Central Banks, the International Association of Insurance 
+Supervisors and IOSCO, April 2001, pp. 2 and 21, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD116.pdf.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+202 
+7. Is the financial position of the market intermediary subject to audit by independent 
+auditors to provide additional assurance that the financial position reflects the risks that 
+the market intermediary undertakes?  
+8. Does the regulator: 
+(a) Regularly review market intermediaries’ capital levels?  
+(b) Take appropriate action when these reviews indicate material deficiencies?  
+9.  
+(a) Does the regulator have specific authority to impose : restrictions on a market 
+intermediary’s regulated business activities;  and more stringent capital 
+monitoring and/or reporting requirements , if a market  intermediary’s capital 
+deteriorates so as to endanger its capacity to fulfil its obligations or when it falls 
+below minimum requirements? 
+(b) Is there evidence that the regulator exercises this authority?  
+10. Does the prudential framework address risks from outside the regulated entity, for 
+example, from unlicensed affiliates and off-balance sheet affiliates?  
+ 
+Explanatory Notes 
+In assessing the Principles generally, it should be understood that there are two main 
+approaches to the setting of capital adequacy standards for market intermediaries.  A “net 
+capital” approach is used in the United States, Canada, Japan, and some other non- EU 
+jurisdictions.  The purpose of the net capital approach is, among other things, to protect clients 
+and creditors by requiring broker -dealers to maintain sufficient liquid assets to allow the 
+orderly self-liquidation of financially distressed broker -dealers.  The other main approach is 
+incorporated in the EU’s Capital Requirements Regulation and in the Credit Institutions 
+Directive, which are based on the amendment to the Basel Capital Accord to incorporate market 
+risks.274  The emphasis in this approach is on ensuring the capital solvency of firms.  The two 
+approaches differ somewhat in their objectives, but their practical effects overlap to a 
+significant extent.  There may be other equivalent approaches that address the p erformance 
+standards of the Principles, for example, in relation to investment advisers, 275 and there may 
+also be other equivalent approaches in various countries.  In the latter case, assessors need to 
+consider if the rules of that particular country comply with the capital adequacy principles 
+published by IOSCO.
+276  
+There are also different approaches to assessing the risks posed to market intermediaries by 
+affiliated entities.  One approach (used in the United States) is to require the regulated entity, 
+                                                 
+274  See Directive 2013/36/EU on access to the activity of credit institutions and the prudential supervision of 
+credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 
+2006/48/EC and 2006/49/EC; and Regulation (EU) 575/2013 on prudential requirements for credit 
+institutions and investment firms and amending Regulation (EU) 648/2012.  
+275  Principle 29, Key Issue 8, regarding investment advisers. 
+276  See Capital Adequacy Standards for Securities Firms, supra.  For additional guidance, see Guidance to 
+Emerging Market Regulators regarding Capital Adequacy Requirements for Financial Intermediaries, 
+Report of the Emerging Markets Committee of IOSCO, December 2006, pp. 24–25, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD230.pdf.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+203 
+the registered broker -dealer, to provide extensive “risk assessment” information to the 
+regulator concerning its material affiliates.  A number of other jurisdictions have regulatory 
+authority over such affiliates and may require the affiliates to provide info rmation to them 
+directly.   
+The EU generally requires securities firms to provide capital adequacy information on a 
+consolidated basis, and to meet capital requirements at the consolidated group level as well as 
+at the level of individual regulated entitie s.  The assessment criteria recognize that other 
+approaches may be employed. 
+Some market intermediaries act in such a way that their activity is of lower risk.  Where the 
+market intermediary does not handle client money directly, is an inter -dealer broker with no 
+principal at risk, or operates on a matched -book basis,
+277 it may be appropriate to set capital 
+requirements at a level lower than the level applicable to market intermediaries that carry client 
+assets or take principal positions for their own account. 
+Capital adequacy requirements may explicitly refer to a particular risk, but be set at a level that 
+in practice covers other risks as well.  The assessor should inquire about the method of 
+minimum capital determination being used, and the types of marke t intermediaries in the 
+jurisdiction to which it applies; taking into account that more than one method or technique of 
+computing capital or capital requirements is permitted under the Principles.
+278  
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 10.   
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 6, 9(b) 
+and 10. 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1, 2, 3, 4, 5, 7, 8(a), 8(b), 
+and 9(a). 
+ 
+                                                 
+277  Please note that this does not include market intermediaries that take positions on their own account. 
+278  For greater detail on the specified risks, see Methodologies for Determining Minimum Capital Standards 
+for Internationally Active Securities Firms which Permit the Use of Models under Prescribed Conditions, 
+Report of the Technical Committee of IOSCO, May 1998, pp. 5 et seq., available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD77.pdf.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+204 
+Principle 31 Market intermediaries should be required to establish an internal 
+function that delivers compliance with standards for internal 
+organization and operational conduct, with the aim of protecting the 
+interests of clients and their assets and ensuring proper management of 
+risk, through which management of the intermediary accepts primary 
+responsibility for these matters. 
+Market intermediaries should conduct their businesses in a way that protects the interests of 
+their clients and their assets and helps preserve the integrity of the market.  
+Regulation should require that market intermediaries have in place appropriate internal policies 
+and procedures for observance of securities laws and appropriate internal organization and risk 
+management systems.  Regulation should not be expected to remove risk from the marketplace 
+but should aim to ensure that there is proper management of that risk. 
+Instances of operational breach can occur despite the existence of internal procedures designed 
+to prevent misconduct or negligence.  It is not practicable for the regulator to oversee adherence 
+to those internal procedures on a day -to-day basis; that is the primary responsibility of the 
+management of the market intermediary.  Management must ensure that they are able to 
+discharge that responsibility.  
+ 
+Key Issues 
+Management and Supervision 
+1. The management of a market intermediary sho uld bear primary responsibility for 
+ensuring the maintenance of appropriate standards of conduct and adherence to proper 
+procedures by the whole firm.  This includes ensuring that the firm is structured 
+appropriately and has an adequate internal structure and controls, given the types of 
+business in which it engages, including any activities which have been outsourced,
+279 to 
+ensure investor protection and the management of risks. 
+(a) Management must ensure adherence to internal procedures on a day -to-day 
+basis.  They must understand the nature of the firm ’s business, its internal 
+control procedures and environment and its policies on the assumption of risk, 
+and clearly understand the extent of their own authority and responsibilities. 
+(b) All relevant information about the business must be:  
+(i) timely;  
+(ii) readily accessible;  
+(iii) and regularly reported to management,  
+and such information should be subject to procedures intended to maintain its 
+security, availability, reliability and integrity.  
+                                                 
+279  See Principles on Outsourcing of Financial Services for Market Intermediaries, Report of the Technical 
+Committee of IOSCO, February 2005, p. 3, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD187.pdf.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+205 
+2. Periodic evaluation of risk management processes within a regulated entity is necessary.  
+This should be conducted by someone of sufficient autonomy so as not to compromise 
+the evaluation.  SROs and third parties, such as external auditors, may be used to assist 
+in this process.  
+Organizational requirements280 
+3. Markets intermediaries should have systems or processes in place that se ek to ensure 
+that they are complying with all applicable laws and regulations and to reduce their risk 
+of legal or regulatory sanctions, financial loss or reputational damage.  
+4. With respect to DMIs specifically: 
+(a) DMIs should be subject to business conduct standards, which should be tailored, 
+as appropriate, for the OTC derivatives market.   
+(b) DMIs should have risk management systems and organization to properly 
+identify and manage their OTC derivatives-related business risks.   
+(c) DMIs should be required to desig n supervisory policies and procedures to 
+manage their OTC derivatives operations and the activities of their 
+representatives. 
+(d) DMIs should be required to retain OTC derivatives transaction records and be 
+able to provide them in a timely, organized and reada ble manner.  The record 
+retention period for OTC derivatives transactions should apply for a specified 
+period after its termination, maturity or assignment.  
+5. The details of the appropriate internal organization of a firm, including risk 
+management, internal audit and compliance functions, will vary according to the size 
+of the firm, the nature of its business and the risks it undertakes.  Information regarding 
+the firm’s internal organization should also be available to the regulator upon request.  
+With regards to a market intermediary’s internal organization, the regulatory framework 
+should require the following to be considered: 
+(a) Compliance with all applicable legal and regulatory requirements, as well as 
+with the firm ’s own internal policies and procedures , should be monitored, 
+where appropriate, by a separate compliance function
+281 that reports directly to 
+senior management in a structure that makes it independent from operational 
+divisions.  
+(b) Maintenance of effective policies and operational procedures and controls in 
+relation to the firm’s day-to-day business, including:  
+(i) clear policies covering the risk management and internal controls 
+applicable to proprietary trading; and  
+(ii) procedures that seek to ensure the integrity, security, availability, 
+reliability and thoroughness of all information, business continuity, as 
+well as outsourcing procedures.
+282  
+                                                 
+280  See Compliance Function at Market Intermediaries, Final Report, Report of the Technical Committee of 
+IOSCO, March 2006, p. 7, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD214.pdf. 
+281  See Id, p. 7.  
+282  Those operational procedures could include consideration of the use of risk transfer mechanisms (and the 
+implications of their use in transforming or transferring risks).
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+206 
+(c) Evaluation of the “effectiveness” of those operational procedures and controls 
+in light of whether they serve reasonably to ensure: 
+(i) The integrity of the firm’s dealing practices, including the treatment of 
+all clients in a fair, honest and professional manner. 
+(ii) Appropriate segregation of key duties and functions, particularly those 
+duties and functions which, when performed by the same individual, 
+may result in undetected errors, or may be susceptible to abuses which 
+expose the firm or its clients to inappropriate risks.  
+(d) Addressing any conflicts of interest arising between its interests and those of its 
+clients.  Where the potential for conflicts arise, a market intermediary should 
+ensure fair treatment of all its clients by taking reasonable steps to manage the 
+conflict through organizational measures to prevent damage to its clients ’ 
+interest, such as:  internal rules, including rules of confidentiality ; proper 
+disclosure; or declining to act where conflict cannot be resolved.  
+6. If Direct Electronic Access (DEA) is allowed, market intermediaries should use 
+controls, including automated pre -trade controls, which can limit or prevent a DEA 
+client from placing an order that exceeds the market intermediary’s existing position or 
+credit limits.283 
+Protection of Clients 
+7. Where a market intermediary has control of, or is otherwise responsible for, assets 
+belonging to a client which it is required to safeguard, it should make adequate 
+arrangements to safeguard clients ’ ownership rights (for example, segregation and 
+identification of those assets).  These measures are intended to: provide protection from 
+defalcation; facilitate the transfer of positions in cases of severe market  disruption; 
+prevent the use of client assets for proprietary trading or the financing of a market 
+intermediary’s operations; and assist in orderly winding up of  the insolvency of an 
+individual market intermediary and the return of client assets. 
+Particular obligations of an intermediary should include: 
+(a) An intermediary should maintain accurate and up-to-date records and accounts 
+of client assets that readily establish the precise nature, amount, location and 
+ownership status of client assets and the clients  for whom the client assets are 
+held. The records should also be maintained in such a way that they may be used 
+as an audit trail.
+284 
+                                                 
+283  See Principles for Direct Electronic Access to Markets, Final Report, Report of the Technical Committee 
+of IOSCO, August 2010, pp. 17, 21–22, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD332.pdf. 
+284  See Recommendations Regarding the Protection of Client Assets, Final Report, Report of the Board of 
+IOSCO, January 2014, p. 3 (Principle 1), available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD401.pdf.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+207 
+(b) Where client assets are to be held or placed in a foreign jurisdiction and will be 
+subject to the client asset protection an d/or insolvency regimes of that foreign 
+jurisdiction and not the home jurisdiction, the intermediary should inform the 
+clients of that fact.  Any required disclosure of the relevant client asset 
+protection regime(s) and arrangements and the consequent risk s involved 
+should be in writing and be prepared in clear, plain, concise and understandable 
+language.  Legal or financial jargon not commonly understood should be 
+avoided.
+285 
+8. With respect to DMIs specifically, for centrally cleared OTC derivatives transactio ns, 
+DMIs should segregate collateral belonging to clients from their own proprietary assets 
+and employ an account structure that enables the efficient identification and segregation 
+of positions and collateral belonging to DMI clients.   
+9. Intermediaries as defined in IOSCO’s Report on Suitability Requirements with respect 
+to the Distribution of Complex Financial Products  should be required to adopt and 
+apply appropriate policies and procedures to distinguish between retail and non- retail 
+customers when distr ibuting complex financial products.  The classification of 
+customers should be based on a reasonable assessment of the customer concerned, 
+taking into account the complexity and riskiness of different products.  The regulator 
+should consider providing guidance to intermediaries in relation to customer 
+classification.
+286 
+10. Market intermediaries should have an efficient and effective mechanism to address 
+investor complaints. 
+11. With regards to a market intermediary ’s conduct with clients, the following are to be 
+considered as important components: 
+(a) When establishing a business relationship with a client, a market intermediary 
+should identify, and verify, the client’s identity using reliable, independent data.  
+A market intermediary should also obtain sufficient information to identify 
+persons
+287 who beneficially own or control securities and, where relevant, other 
+accounts.288  Procedures to implement this requirement will facilitate a market 
+intermediary’s ability to mitigate the risk of being implicated in fraud, m oney 
+laundering, or terrorist financing. 
+                                                 
+285  Id, p. 5 (Principle 5 Means of Implementation 2).   
+286  For the definitions of the terms “intermediary” (including exemptions), “distribution” and “complex 
+financial products” see Suitability Requirements with respect to the Distribution of Complex Financial 
+Products, Final Report, Report of the Board of IOSCO, January 2013, fn 4, pp. 4–6, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD400.pdf. See also the Principles in Part 5 at pp. 9–20. 
+The Suitability Requirements with respect to the Distribution of Complex Financial Products notes that 
+recommendations with respect to transactions in OTC derivatives were addressed separately in the June 
+2012 DMI Report: at p.9. 
+287  For example, by obtaining the beneficial owner’s name and address. See Principles on Client Identification 
+and Beneficial Ownership for the Securities Industry, supra, pp. 4–6. 
+288  For further clarification of this requirement, see the discussion under Principle 2: Id, pp. 7–8.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+208 
+(b) A market intermediary should obtain and retain from its clients any information 
+about their circumstances and investment objectives relevant to the services to 
+be provided.  Where the activities of a market  intermediary extend to giving 
+specific advice, the advice should be given based on an understanding of the 
+needs and circumstances of the customer.289 
+(c) The client should be able to obtain a written contract of engagement or account 
+agreement, or a written form of the  general and specific conditions of doing 
+business through the market intermediary. 
+(d) Records containing the above information should be kept for a reasonable 
+number of years in accordance with best practices in order to facilitate investor 
+protection and exchange of information between jurisdictions. 290  If market 
+intermediaries are permitted to use reliable third parties to meet their client 
+obligations under these Principles, they nonetheless remain responsible for the 
+performance of such obligations.  Policies and procedures should be established 
+which ensure the integrity, security, availability, reliability and thoroughness of 
+all information, including documentation and electronically -stored data, 
+relevant to the market intermediary’s business operations. 
+(e) A market intermediary should disclose or make available adequate information 
+to its client in a comprehensible and timely way so that the client can make an 
+informed investment decision.  It may be necessary for regulation to require a 
+particular form of disclosure where products carry risk that may not be readily 
+apparent to the retail client.  Recruitment and training should seek to ensure that 
+staff who provide investment advice understand the characteristics of the 
+products they advise upon.  
+(f) A market intermediary should promptly, and at suitable intervals, provide each 
+client with a report of the value and composition of the clients ’ account or 
+portfolio including, as appropriate, an account of transactions and balances.
+291 
+(g) A market intermediary should provide each client with information about fees 
+and commissions.  
+(h) Disclosures of key information 292 regarding collective investment schemes 
+(CIS) to retail investors in their distribution prior to the point of sale 293 should 
+be clear, accurate and not misleading to the target investor.294  
+                                                 
+289  In this context, the “know your customer” principle relates to suitability of investment recommendations 
+and disclosure obligations.  It should be distinguished from obligations relating to client identification 
+imposed to prevent money laundering. 
+290  See Principles on Client Identification and Beneficial Ownership for the Securities Industry, supra,  
+pp. 10–14. 
+291   Recommendations Regarding the Protection of Client Assets, supra, p. 3 (Principle 2).   
+292  The term “key information” is described by IOSCO in this context as “necessarily vary[ing] depending on 
+the type of financial product being offered. For some complex financial products with a multitude of risks, 
+the amount of key information that a regulator might mandate for immediate disclosure to the investor 
+under a “layered approach” may be greater than for less complicated products.”:  see Principles of Point of 
+Sale Disclosure, Report of the Technical Committee of IOSCO, November 2009, p. 28 fn. 30, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD310.pdf
+. 
+293  Id, p. 4 fn. 5.  
+294  Id, p. 31 (Principle 5).
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+209 
+(i) A market intermediary should act: with due care and diligence in the best 
+interests of its clients and protect their assets; and in a way that helps preserve 
+the integrity of the market. 
+(j) The regulator should be able to demonstra te that it has in place a supervision 
+program, which includes internal processes, skilled and knowledgeable staff and 
+other resources, that monitors compliance by market intermediaries with these 
+requirements.295 
+ 
+Key Questions 
+Management and Supervision 
+1. With regards to a market  intermediary’s internal organization, does the regulatory 
+framework require the following to be considered: 
+(a) An appropriate management and organization structure, including in relation to 
+activities that have been outsourced?296 
+(b) Adequate297 internal controls? 
+(c) Management that is required to bear primary responsibility for ensuring the 
+maintenance of appropriate standards of conduct and adherence to proper 
+procedures by the whole firm?  
+2. Does the regulatory framework require market intermediaries: to provide all relevant 
+information about the business in a timely, readily accessible way;  and to regularly 
+report to management?  Is such information subject to procedures intended to maintain 
+its security, availability, reliability and integrity? 
+3. Does the regulatory framework require a market intermediary to be subject to an 
+objective,
+298 periodic evaluation of its internal controls and risk management processes?   
+Organizational Requirements 
+4. Does the regulatory framework include the assess ment of a market intermediary ’s 
+compliance function, taking into account the market intermediary’s size and business?  
+When the regulator becomes aware of deficiencies are steps taken to require market 
+intermediaries to improve their compliance function?   
+5. Does the regulatory framework require a market intermediary to establish and maintain 
+appropriate systems of client protection, risk management and internal and operational 
+controls, including policies, procedures and controls relating to all aspects of i ts day-
+to-day business intended reasonably to ensure:   
+(a) The integrity of the firm’s dealing practices, including the treatment of all clients 
+in a fair, honest and professional manner? 
+                                                 
+295  Recommendations Regarding the Protection of Client Assets, supra, p. 7 (Principle 7).   
+296  See Principles on Outsourcing of Financial Services for Market Intermediaries, supra, pp. 3–4. 
+297  The notion of adequacy should take into account the size of the firm, the nature of its business and the 
+types and amount of risks it undertakes. 
+298  This evaluation should be performed by someone of sufficient autonomy so as not to compromise the 
+evaluation.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+210 
+(b) Appropriate segregation of key duties and functions, particularly those  duties 
+and functions which, when performed by the same individual, may result in 
+undetected errors, or may be susceptible to abuses, which expose the firm, or its 
+clients, to inappropriate risks? 
+6. With respect to DMIs specifically: 
+(a) Does the regulatory framework require DMIs to be subject to business conduct 
+standards, tailored, as appropriate, for the OTC derivatives market?  
+(b) Does the regulatory framework require DMIs to have risk management systems 
+and organization to properly identify and manage their OTC derivatives related 
+business risks? 
+(c) Does the regulatory framework require DMIs to design supervisory policies and 
+procedures to manage their OTC derivatives operations and the activities of 
+their representatives?  
+(d) Does the regulatory framework require DMIs to retain OTC derivatives 
+transaction records and be able to provide them in a timely, organized and 
+readable manner?  Does the record retention period for OTC derivatives 
+transactions apply for a specified period after the transactions’ termination, 
+maturity or assignment?  
+7. Taking into account Principle 8, does the regulatory framework require a market 
+intermediary:
+299 
+(a) To endeavour to address a conflict of interest arising between its interests and 
+those of its clients, or between its clients?  
+(b) Where the potential for conflicts arises:  
+(i) to have mechanisms in place to manage conflicts of interests that seek 
+to ensure an unbiased decision making process and fair treatment of all 
+its clients; and  
+(ii) consider further steps  if the mechanisms identified in (a)  prove 
+inadequate, which may include disclosure of the conflict, internal rules 
+of confidentiality, and declining to act where a conflict cannot be 
+resolved? 
+8. If DEA is allowed, does the regulatory framework require market intermediaries to use 
+controls, including automated pre -trade controls, which can limit or prevent a DEA 
+client from placing an order that exceeds the market intermediary’s existing position or 
+credit limits?
+300 
+                                                 
+299  Market Intermediary Management of Conflicts that Arise in Securities Offerings, Final Report, Report of 
+the Technical Committee of IOSCO, November 2007, Part 2 at pp. 7–14, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD257.pdf; IOSCO Statement of Principles for 
+Addressing Sell-side Analyst Conflicts of Interest, supra. 
+300  See Principles for Direct Electronic Access to Markets, supra, p. 20.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+211 
+Protection of Clients 
+9. If a market intermediary has control of, or is otherwise responsible for, assets belonging 
+to a client which it is required to safeguard, are there regulations that require proper 
+protection for them (for example, segregation and identification of those assets) by the 
+market intermediary?  Do these measures facilitate the transfer of positions and assist 
+in the orderly winding up in the event of financial insolvency and the return of client 
+assets? 
+10. Does the regulatory framework require market intermediaries to maintain accurate and 
+up-to-date records and accounts of client assets that readily establish the precise nature, 
+amount, location and ownership status of client assets and the clients for whom the 
+client assets are held?  Does the regulatory framework require that the reco rds be 
+maintained in such a way that they may be used as an audit trail?
+301 
+11. Where client assets are to be held or placed in a foreign jurisdiction and will be subject 
+to the client asset protection and/or insolvency regimes of that foreign jurisdiction and 
+not the home jurisdiction, does the regulatory framework require the interm ediary to 
+inform the clients of that fact?  Does the regulatory framework require market 
+intermediaries to provide any required disclosures 
+of the relevant client asset protection 
+regime(s) and arrangements and the consequent risks involved  in writing, whi ch is 
+prepared in clear, plain, concise and understandable language and that avoids the use 
+of legal or financial jargon that is not commonly understood? 
+12. With respect to DMIs specifically, for centrally cleared OTC derivatives transactions, 
+does the regulatory framework require DMIs to segregate collateral belonging to clients 
+from their own proprietary assets and employ an account structure that enables the 
+efficient identification and segregation of positions and collateral belonging to DMI 
+clients? 
+13. Does the regulatory framework require market intermediaries to provide for an efficient 
+and effective mechanism to address investor complaints? 
+14. Does the regulatory framework require market intermediaries to identify, and verify, 
+the client’s identity using reliable, independent data, including persons who beneficially 
+own or control securities? 
+15. Does the regulatory framework require market intermediaries to obtain and retain 
+information from a client about their circumstances and investment objectives relevant 
+to the services to be provided? 
+16. Does the regulatory framework require a market intermediary to “ know its customer” 
+before providing specific advice to a client?  
+17. Does the regulatory system require that intermediaries, as defined in IOSCO ’s Report 
+on Suitability Requirements with respect to the Distribution of Complex Financial 
+Products
+302 adopt and apply appropriate policies and procedures to distinguish between 
+retail and non-retail customers when distributing complex financial products? 
+                                                 
+301  Recommendations Regarding the Protection of Client Assets, supra, p. 3 (Principle 1). 
+302  See Key Issue 9 and footnote 286.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+212 
+18. Does the regul atory framework require market intermediaries to keep records 
+containing the above information for a reasonable number of years?   Is the market 
+intermediary required to maintain those books and records in such a way that allows 
+the supervisor to be able to find all the relevant facts relating to a particular transaction? 
+19. Does the regulatory framework require market intermediaries to provide to the client a 
+written contract of engagement or account agreement, or a written form of the general 
+and specific conditions of doing business through the market intermediary? 
+20. Does the regulatory framework require a market intermediary to disclose, or make 
+available, information to its client so that the client can make an informed investment 
+decision? 
+21. Does the regulatory framework require market intermediaries to provide a client with 
+statements of account (including details on the client assets held for or on behalf of such 
+a client) on a regular basis (at least annually) and reasonably promptly upon request?303 
+22. Does the regulatory framework require market intermediaries to provide a client with 
+information about any fees and commissions associated with the client’s transactions? 
+23. Does the regulatory regime require that disclosures of key information regarding 
+collective investment schemes (CIS) to retail investors in their distribution prior to the 
+point of sale be clear, accurate and not misleading to the target investor?  
+24. Does the regulatory framework require market intermediaries to act with due care and 
+diligence in the  best interests of its clients and their assets and in a way that helps 
+preserve the integrity of the market? 
+25. Can the regulator demonstrate that it has in place a supervision program, including 
+internal processes that seek to monitor compliance by market intermediaries with these 
+requirements?
+304 
+ 
+Explanatory Notes 
+Treatment of client assets also may be relevant to adequacy of capital as addressed in 
+Principle 30. 
+What constitutes adequate disclosure by a market intermediary may depend on the type of 
+services being offered.  For example, the disclosures required of a pure order taker would be 
+different from those of a full-service broker also providing investment advice.  
+Key Question 19 should not be interpreted as imposing or requiring a fiduciary duty on all 
+market participants in dealing with their clients. 
+                                                 
+303  Recommendations Regarding the Protection of Client Assets, supra, p. 3 (Principle 2).   
+304  Id, p. 7 (Principle 7).
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+213 
+The term “compliance function” is used as a generic reference to refer to the range of roles and 
+responsibilities for carrying out specific compliance activities and responsibilities.  The 
+expression does not intend to denote any particular organizational structure, recognizing the 
+diversity of size and type of securities firms.305   
+In smaller firms, there may b e an overlap between senior management who trade or provide 
+advice and the compliance function.  In such a case, procedures are required to prevent conflicts 
+of interest or other problems regarding the performance of their compliance responsibilities.
+ 306   
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions.  
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 13.  
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 3, 5(a), 
+5(b), 6(a), 6(b), 6(c), 6(d), 7(a) or (b), 8 (if applicable), 11, 12, 13, 14, 16, 19, 20 and 23.  
+Not-Implemented 
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b), 1(c), 2, 4, 9, 
+10, 15, 17, 18, 21, 22, 24, 25. 
+ 
+                                                 
+305  See Compliance Function at Market Intermediaries, supra , p. 7. 
+306  See Id, p. 12.  Assessors need to recognize the difficulty of achieving complete independence for the 
+compliance function in smaller firms.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+214 
+Principle 32 There should be procedures for dealing with the failure of a market 
+intermediary in order to minimize damage and loss to investors and to 
+contain systemic risk. 
+The failure of a market intermediary can have a negative impact on clients and counterparties 
+and may have systemic consequences.  The regulator must have a clear and flexible plan in 
+place to deal with the eventuality of failure by market intermediaries.    
+ 
+Key Issues 
+1. The regulator should have a clear plan for dealing with the eventuality of failure by 
+market intermediaries.  The circumstances of financial failure are unpredictable so the 
+plan should be flexible. 
+2. The regulator should attempt to minimize damage and loss to investors and to the 
+functioning of the financial system caused by the failure of a market intermediary.  A 
+combination of actions, may be necessary:  
+(a) to restrain conduct;  
+(b) to aim to ensure that assets are properly managed; and  
+(c) to provide information to the market. 
+3. Depending upon the prevailing domestic bank regulatory model, it may also be 
+necessary to cooperate with banking regulators and, if the domestic arrangements 
+require it, insolvency authorities.  As a minimum position, the  regulator should have 
+identified contact persons at other relevant domestic and foreign market authorities.
+307 
+4. The regulator should have a mechanism/monitoring system in place to determine the 
+potential systemic impact of the failure of a market intermediary in a very short time 
+frame. 
+ 
+Key Questions 
+1. Does the regulator have clear plans for dealing with the eventuality of a firm ’s failure, 
+including a combination of activities: to restrain conduct; to ensure assets are properly 
+managed; and to provide information to the market, as necessary? 
+2. Are there early warning systems or other mechanisms in place to give the regulator 
+notice of a potential default by a market intermediary, and time to address the problem 
+and take corrective actions? 
+                                                 
+307  See Report on Cooperation between Market Authorities and Default Procedures, Report of the Technical 
+Committee of IOSCO, March 1996, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD49.pdf.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+215 
+3. Does the regulator have the power to take appropriate actions:  In particular, can it: 
+(a) Restrict activities of the market intermediary with a view to minimizing damage 
+and loss to investors? 
+(b) Require the market intermediary to take specific actions, for example, moving 
+client accounts to another market intermediary? 
+(c) Request appointment of a monitor, receiver, curator or other administrator , or, 
+in the absence of such power, can the regulator apply to the relevant authorities 
+to take possession or control of the assets held by the market intermediary or by 
+a third party on behalf of the market intermediary? 
+(d) Apply other available measures intended to minimize client, counterparty and 
+systemic risk in the event of intermediary failure, such as, client and settlement 
+insurance schemes, or guarantee funds? 
+4. Can the regulator demonstrate that it has the power and practical ability to take these 
+actions against a market intermediary? 
+5. Do the regulator’s processes and procedures for addressing financial disruption include 
+communication and cooperation with other regulators, both domestic and foreign, 
+where appropriate, and is there evidence that contact arrangements are in place,  and 
+that such cooperation occurs? 
+ 
+Explanatory Notes 
+In assessing the adequacy of the regulatory regime to protect client assets in the possession of 
+failed or failing market intermediaries, in addition to consideration of the adequacy of capital 
+and other prudential regulations, it is appropriate to consider the adequacy of arrangements for 
+segregation, if applicable.  Also, it is appropriate to consider the availability and adequacy of 
+insurance and/or compensation schemes designed to protect clients' funds and securities in the 
+event of a market intermediary’s insolvency, as well as settlement assurance schemes or other 
+arrangements that may minimize counterparty and systemic risk. 
+The assessor should indicate what combination of arrangements is available and how they are 
+intended to mitigate risk.  
+Assessments of Principle 32 should be consistent with any findings under the assessment of 
+Principle 6 on systemic risk, and with any findings related to risk management practices under 
+Principles 29 and 30.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+216 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 3(d).  
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 3(b), 
+3(c) and 3(d). 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1, 2, 3(a), 4 and 5.
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+217 
+BIBLIOGRAPHY FOR PRINCIPLES RELATING TO MARKET 
+INTERMEDIARIES 
+ 
+ Documents Principles Other 
+Principles 
+1 Recommendations Regarding the Protection of Client Assets , 
+Report of the Board of IOSCO, January 2014 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD401.pdf  
+31  
+2 Suitability Requirements with respect to the Distribution of 
+Complex Financial Products , Report of the Board of IOSCO, 
+January 2013,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD400.pdf 
+31  
+3 International Standards for Derivatives Market Intermediary 
+Regulation, Report of the Technical Committee of IOSCO, June 
+2012,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD381.pdf  
+“DMI Report” 
+29 
+30 
+31 
+ 
+4 Principles for Direct Electronic Access to Markets , Final 
+Report, Report of the Technical Committee of IOSCO, August 
+2010,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD332.pdf 
+31 33 
+5 Fit and Proper Assessment —  Best Practice , Final Report, 
+Report of the Emerging Markets Committee of IOSCO, 
+December 2009,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD312.pdf 
+29  
+6 Principles of Point of Sale Disclosure , Report of the Technical 
+Committee of IOSCO, November 2009,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD310.pdf. 
+31  
+7 Market Intermediary Management of Conflicts that Arise in 
+Securities Offerings , Final Report, Report of the Technical 
+Committee of IOSCO, November 2007, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD257.pdf 
+31
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+218 
+ Documents Principles Other 
+Principles 
+8 Guidance to Emerging Market Regulators regarding Capital 
+Adequacy Requirements for Financial Intermediaries, Report of 
+the Emerging Markets Committee of IOSCO, December 2006, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD230.pdf 
+30  
+9 Regulatory and Market Differences: Issues and Observations, 
+Report of the Joint Forum, May 2006, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD215.pdf 
+30  
+10 Compliance Function at Market Intermediaries , Final Report, 
+Report of the Technical Committee of IOSCO, March 2006,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD214.pdf 
+31  
+11 Principles on Outsourcing of Financial Services for Market 
+Intermediaries, Report of the Technical Committee of IOSCO, 
+February 2005,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD187.pdf 
+31  
+12 Outsourcing in Financi al Services, Report of the Joint Forum, 
+February 2005,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD184.pdf  
+31 10 
+18 
+13 Final Report on Elements of International Regulatory 
+Standards on Fees and Expenses of Investment Funds , Report 
+of the Technical Committee of IOSCO, November 2004,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD178.pdf 
+29 24 
+26 
+14 Principles on Client Identification and Beneficial Ownership for 
+the Securities Industry, Report of IOSCO, May 2004,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD167.pdf 
+31 10 
+15 Report on Securities Activity on the Internet III , Report of the 
+Technical Committee of IOSCO, October 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD159.pdf 
+31 11 
+13 
+16 
+16 IOSCO Statement of Principles for Addressing Sell-Side Analyst 
+Conflicts of Interest , Report of the Technical Committee of 
+IOSCO, September 2003, available at 
+ https://www.iosco.org/library/pubdocs/pdf/IOSCOPD150.pdf 
+31 23
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+219 
+ Documents Principles Other 
+Principles 
+17 Trends in Risk Integration and Aggregation, Report of the Joint 
+Forum, August 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD149.pdf  
+30  
+18 Operational Risk Transfer Across Financial Sectors, Report of 
+the Joint Forum, August 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD148.pdf 
+30  
+19 Initiatives by the BCBS, IAIS and IOSCO to Combat Money 
+Laundering and the Financing of Terrorism, Report of the Joint 
+Forum, June 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD146.pdf 
+31 10 
+20 Sound Practices for the Management of Liquidity Risk at 
+Securities Firms, Report of the Technical Committee of IOSCO, 
+June 2002,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD128.pdf 
+30  
+21 Risk Management Practices and Regulatory Capital —  Cross-
+Sectoral Comparison , Report of the Joint Forum, November 
+2001, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD122.pdf 
+30  
+22 Securities Activity on the Internet  II, Report of the Technical 
+Committee of IOSCO, June 2001,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD120.pdf 
+33 11 
+16 
+23 Multidisciplinary Working Group on Enhanced Disclosure , 
+Joint Report of the Basel Committee on Banking Supervision, 
+the Committee on the Global Financial System of the G -10 
+Central Banks, the International Association of Insurance 
+Supervisors and IOSCO, April 2001, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD116.pdf 
+30  
+24 Securities Activity on the Internet , Report of the Technical 
+Committee of IOSCO, September 1998, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD83.pdf 
+31 
+33 
+11 
+13 
+16
+
+PRINCIPLES RELATING TO MARKET INTERMEDIARIES  
+220 
+ Documents Principles Other 
+Principles 
+25 Methodologies for Determining Minimum Capital Standards for 
+Internationally Active Securities Firms which Permit the Use of 
+Models under Prescribed Conditions , Report of the Technical 
+Committee of IOSCO, May 1998,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD77.pdf 
+30  
+26 Report on Cooperation between Market Authorities and Default 
+Procedures
+, Report of the Technical Committee of IOSCO, 
+March 1996,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD49.pdf 
+32 37 
+27 Operational and Financial Risk Management Control 
+Mechanisms for Over -the-Counter Derivatives Activities of 
+Regulated Securities Firms, Report of IOSCO, July 1994,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD35.pdf 
+31  
+28 Capital Requirements for Multinational Securities Firms , 
+Report of the Technical Committee of IOSCO, November 1990, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD14.pdf 
+30  
+29 International Conduct of Business Principles , Report of the 
+Technical Committee of IOSCO, July 1990,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD8.pdf 
+31  
+30 Capital Adequacy Standards for Securities Firms , Report of 
+IOSCO, October 1989, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD1.pdf 
+30  
+31 Resolution on Rules of Ethics of Intermediaries , Resolution of 
+the Presidents’ Committee of IOSCO, September 1989,  
+http://www.iosco.org/library/resolutions/pdf/IOSCORES43.pdf 
+31
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+221 
+I. PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+1. Preamble 
+Regulators in all jurisdictions acknowledge that investors want fair, efficient and transparent 
+markets.  The Principles under this section are intended to promote these objectives.  The 
+fairness of the markets is closely linked to investor protection and to the prevention of improper 
+trading practices. 
+In Principles 33 to 37, the word “markets” should be understood in its widest sense, including 
+any facility used to trade securities or derivatives related to equity, debt and commodity 
+derivative products.  However, the word “markets” used in this section does not cover publi c 
+offerings of securities which are meant to be dealt with under Principles 16 through 18 relating 
+to issuers.  In addition to traditional organized exchanges, secondary and other markets should 
+be understood to include various forms of non- exchange trading market systems.  These 
+systems include among others alternative trading systems (ATSs), multilateral trading facilities 
+(MTFs), organized trading facilities (OTFs), and “proprietary” systems developed by 
+intermediaries, typically offering their services to other brokers, banks, and institutional/retail 
+investors who meet the operator’s credit standards.  However, there are fundamental 
+differences between the OTC derivatives and traditional securities markets meaning that in 
+many cases these principles are not applicable to OTC derivatives markets.  Moreover, OTC 
+derivatives are not resold and do not have a secondary market.  For these reasons, Principles 33 
+to 37 apply to OTC derivatives traded on authorized exchanges and trading systems only where 
+expressly noted, and do not apply to other OTC derivatives. 
+Notwithstanding the broad meaning of “markets”, for assessment purposes this Methodology 
+is directed to topics that have been addressed by IOSCO reports.  Authorized exchanges and 
+regulated trading systems, i.e., market systems that bring together multiple buyers and sellers 
+in a manner that results in completed transactions or trades, are the main focus of this 
+assessment.  
+Regulation appropriate to a particular secondary or other market will depend upon the nature 
+of the market, its products, and its participants.  For example, this Methodology has taken 
+account of the particular characteristics of physical commodity derivative s markets.  The 
+applicable Principles help to ensure that such markets serve their fundamental price discovery 
+and hedging functions, while operating free from manipulation and susceptibility to abusive 
+trading schemes.
+308   
+Regulation will increasingly need to take account of the growing internationalization of trading, 
+and the impact of technological developments on markets and their infrastructure.309  
+The operation of some exchanges and trading systems is performed by the markets and systems 
+themselves.  In others, it is undertaken by a separate entity that acts as the operator.  In this 
+section, the terms “authorized exchange” and “regulated trading system” should be understood 
+to include both of these types of exchanges and trading systems.
+310  
+                                                 
+308  See Principles for the Regulation and Supervision of Commodity Derivatives Markets, Report of the 
+Technical Committee of IOSCO, September 2011, p. 11, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD358.pdf. 
+309   See Regulatory Issues Raised by the Impact of Technological Changes on Market Integrity and Efficiency, 
+Report of the Technical Committee of IOSCO, October 2011, p. 7 et seq., available at: 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD361.pdf
+. 
+310  References to “operator” herein should be understood to include the authorized exchange or regulated 
+trading system and vice versa.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+222 
+The level of regulation will depend upon the characteristics of the market in question, 
+including: the structure of the market and the sophistication of its participants; rights of access; 
+types of products traded; the degree of integration with other markets; the extent of cross -
+border business; the impact of technological developments; and the  ability of the operators to 
+fulfil any self-regulatory and risk management role under the powers and authority granted by 
+law.  
+Because regulation may differ according to market structure, market participant or product, 
+information about such differences,  and the rationale for such differences, is an important 
+component of any assessment.  For example, the Principles do not specify particular regulatory 
+methodologies.  In most cases the Principles may be implemented by legislation, administrative 
+rules, advisories, guidelines or procedures, market rules, equitable principles of trade or best 
+practices, or professional market codes of conduct, agreed market conventions or, for electronic 
+markets, integrated into the algorithm; provided, however, that whate ver method of 
+implementation is chosen is enforceable to the extent necessary to achieve its objectives and 
+takes into account the Benchmarks. 
+Accordingly, in order to accurately assess regulatory structure, assessors must understand the 
+market structure, including clearing and settlement arrangements, types of participants and 
+international linkages (both foreign and domestic).  The Introduction to this Assessment 
+Methodology provides further guidance regarding the effect of market structure on the 
+approach to undertaking an assessment. 
+The Principles also recognize that “in some cases it will be appropriate that a trading system 
+should be largely exempt from direct regulation…” but will require approval from the relevant 
+regulator after proper consideratio n by the regulator of the type of approval (or exemption) 
+necessary.  If this is the case, the criteria should be transparent, accessible and consistently 
+applied.
+311  The effect of exemptions on the market and public may be relevant to inquiries into 
+the “perimeter of regulation” inquiry under Principle 7.   
+In addition, in many jurisdictions, the authorization or recognition process and relevant 
+requirements for electronic trading systems sponsored by foreign operators may differ from the 
+process for fully domestic systems.
+312  Similarly, some jurisdictions may provide tiered levels 
+of regulation for markets depending upon the type of product traded and sophistication of the 
+participants.  Still other jurisdictions regulate alternative trading systems as brokers and apply 
+regulation consistent with that for market intermediaries under these Principles coupled with 
+certain rules on transparency, insider trading and market abuse prohibitions.  Such flexibility 
+in regulation is consistent with the Principles.  Dif ferences related to the type of service 
+provided, product traded and participants in the market are generally accepted bases for 
+drawing appropriate regulatory distinctions.
+313  
+                                                 
+311  For example, exemption from some requirements for trading systems with limited trading volumes may be 
+appropriate.  Also, in many jurisdictions, the trading markets for sovereign (and in some cases, sub-
+sovereign) debt securities are not subject to regulation, or subject to more limited regulation, than the 
+trading markets for corporate securities. 
+312  There should, however, be no unnecessary barriers to entry and exit from markets and products.  In some 
+cases, these may be caused by laws not subject to the control of regulators, such as fiscal or other general 
+laws: see Annexure 1.  For example, however, access criteria can be based on mutual recognition, 
+additional disclosure or other requirements. 
+313  See Supervisory Framework for Markets, Report of the Technical Committee of IOSCO, May 1999, 
+Section IV A (Alternative Trading Systems), at p. 13, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD90.pdf.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+223 
+Confidence in the rule of law, the enforceability of contracts and the adequacy of commercial 
+and insolvency law are critical to the effective regulation of secondary and other markets, so 
+to the extent gaps exist these should be identified in the assessment.314   
+ 
+2. Scope 
+Principles 33 to 38 examine how a jurisdiction’s overall regulatory structure ensures the 
+integrity of regulated markets. 
+Principles 33 and 34 examine the general requirements for authorization of exchanges and 
+trading systems and their ongoing supervision.  Specifically, Principle 33 examines the criteria 
+that are required when an exchange or trading system is initially  authorized in a jurisdiction.  
+Principle 34, on the other hand, examines the procedures by which the regulator is assured of 
+the ongoing compliance  by an authorized exchange or regulated trading system wi th the 
+relevant conditions thought necessary as prerequisites to authorization. 
+Principles 35, 36 and 37 focus on specific regulatory objectives that are intended to promote 
+market integrity.  Principle 35 focuses on the extent to which the regulatory structure promotes 
+transparency (defined in terms of the availability of pre -trade and post -trade information), 
+which is important for the price discovery process, mitigating the potentially adverse impact of 
+market fragmentation, with respect to pre -trade transparency, and/or the efficient functioning 
+of the market, with respect to post-trade transparency.
+315  Principle 36 focuses on the regulations 
+and mechanisms that prohibit, detect and deter manipulative (or attempts at manipulative) 
+conduct, fraudulent or deceptive conduct, or other market abuses.  Finally, Principle 37 focuses 
+on the mechanisms in place to ensure the proper management of large exposures, defaults, and 
+market disruptions.  Principle 37 also addresses the need for short selling regulatory 
+requirements in equity security markets, mitigating risks related to OTC derivative s 
+transactions, and addressing risks in the commodity derivatives markets.  
+Principle 38 makes clear that b ecause of the potential for disruptions to securities and 
+derivatives markets and to payment and settlement systems, both domestic and non- domestic, 
+securities settlement systems, central securities depositories, trade repositories  and central 
+counterparties should be subject to effective regulation and oversight to ensure that they are 
+fair, effective and efficient and that they reduce systemic risk.   
+ 
+                                                 
+314  Annexure 1. 
+315  See Regulatory Issues Raised by the Impact of Technological Changes on Market Integrity and Efficiency, 
+supra, pp. 69–70.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+224 
+3. Principles 33 through 37 
+Principle 33 The establishment of trading systems including securities exchanges 
+should be subject to regulatory authorization and oversight. 
+The regulator’s authorization of exchanges and trading systems, including the review and 
+approval of trading rules, helps to ensure fair and orderly markets. 316  The fairness of markets 
+is closely linked to investor protection and, in particular, by the prevention of improper trading 
+practices. 
+Regulation should seek to ensure that investors are provided fair access to market facilities on 
+a non-discriminatory basis.  Regulation should promote market practices and structures that 
+ensure fair treatment of orders and a reliable price formation process.  This includes the 
+requirement of an appropriate post -trade reporting system that provides the public promptly 
+with information concerning the prices at which trades were executed. 
+ 
+Key Issues  
+Criteria for Authorization 
+Exchanges or Trading Systems subject to Regulation 
+1. Regulation should provide for the assessment of the initial and ongoing propriety and 
+competence of the operator of an exchange or trading system as a secondary or other 
+market as defined in the Preamble.  The operator should be accountable to the regulator 
+and, when assuming principal, settlement, guarantee or performance risk, must comply 
+with prudential and other requirements designed to reduce the risk of non- completion 
+of transactions. 
+Supervision 
+2. The regulator should assess the reliability of all the arrangements made by the operator 
+for the monitoring, surveillance and supervision of the exchange or trading system and 
+its members or participants to ensure fairness, efficiency, transparency and investor 
+protection, as well as compliance with securities legislation.  There must be 
+mechanisms in place to identify and address disorderly trading conditions and to ensure 
+that contravening conduct, when detected, will be dealt with.  Details of trading control 
+mechanisms (including, but not limited to, trading halts, volatility interruptions, limit-
+                                                 
+316  Assessors should refer to the following IOSCO reports for background particularly regarding trading rules 
+and the promotion of fair and orderly markets: Report on Issues in the Regulation of Cross-Border 
+Proprietary Screen-Based Trading Systems, Report of IOSCO, October 1994, p. 5 et seq., available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD42.pdf.  See also Screen-Based Trading Systems for 
+Derivative Products, Report of the Technical Committee of IOSCO, June 1990, p. 4, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD6.pdf.  See also Principles for the Oversight of 
+Screen-Based Trading Systems for Derivatives Products —  Reviews and Additions, Report of the Technical 
+Committee of IOSCO, October 2000, p. 6, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD111.pdf.  See also Securities Activity on the Internet, 
+supra, p. 19 et seq.; and Securities Activity on the Internet II, supra, p. 6 et seq. (on information sharing).
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+225 
+up/limit-down controls, and other trading limitations)317 and assistance available to the 
+regulator in circumstances of potential trading disruption on the market should be 
+provided to the regulator. 
+In order to provide an appropriate level of stability, regulators should require trading 
+venues to have in place mechanisms to help ensure the resiliency, reliability and 
+integrity (including security) of critical systems. 318 While the prevention of failures is 
+important, trading venues should also be required to be prepared for dealing with suc h 
+failures and, in this context, establish, maintain and implement as appropriate a 
+Business Continuity Plan.
+319 
+3. When functions are outsourced, such outsourcing does not negate the liability of the 
+outsourcing market for any and all functions that the market may outsource to a service 
+provider.  The outsourcing market must retain the competence and ability to be able to 
+ensure that it complies with all regulatory requirements.  Accordingly, with respect to 
+the outsourcing of key regulatory functions, markets should consider how and whether 
+such functions may be outsourced.  Outsourcing should not be permitted if it impairs 
+the market authority’s
+320 ability to exercise its statutory responsibilities, such as proper 
+supervision and audit of the market. 
+Products and Participants 
+4. The regulator should, as a minimum requirement, be informed of the types of securities 
+and products to be traded on the exchange or trading system, and should review/approve 
+the rules governing the trading of the product, where applicable.  In doing so, the market 
+and/or the regulator should: 
+(a) Consider product design principles, where applicable, listing requirements and 
+trading conditions.  Due to the unique characteristics of exchange -traded 
+commodity derivatives markets, the market authority should follow the contract 
+design principles set out in the Principles for the Regulation and Supervision of 
+Commodity Derivatives Markets.
+321 
+                                                 
+317  See Recommendation 2 in Regulatory Issues Raised by the Impact of Technological Changes on Market 
+Integrity and Efficiency, supra, p. 45.  
+318  See Recommendation 1 in Mechanisms for Trading Venues to Effectively Manage Electronic Trading 
+Risks and Plans for Business Continuity, Final Report, Report of the Board of IOSCO, December 2015, 
+p.18, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD522.pdf. 
+319  See Id, Recommendation 2 at p.34.  
+320  The term “market authority” is used in this context to refer to the authority in a jurisdiction that has 
+statutory or regulatory powers with respect to the exercise of certain regulatory functions over a market.  
+The relevant market authority may be a regulatory body, an SRO and/or the market itself:  Principles on 
+Outsourcing by Markets, Final Report, Report of the Technical Committee of IOSCO, July 2009, fn. 2 p.3, 
+available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD299.pdf
+.  
+321  See Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra.  These 
+principles are intended to apply primarily to exchange-traded, physical commodity derivatives e.g., futures 
+contracts, options on futures contracts and options, for which the underlying reference interest is a physical 
+commodity or physical commodity index or price series and which may settle in cash or by physical 
+delivery.  These commodity derivatives instruments should be distinguished from transactions in the actual 
+underlying physical market for commodities: at pp. 11–12.  See also The Application of the Tokyo 
+Communiqué to Exchange-Traded Financial Derivatives Contracts, Report of the Technical Committee of 
+IOSCO. September 1998, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD85.pdf, which 
+for commodity derivatives was superseded by the above-mentioned report, and which is not intended to 
+apply to equity derivatives: see p. 2.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+226 
+(b) Ensure that access to the system or exchange and to associated products is fair, 
+transparent and objective, and c onsider the related admission criteria and 
+procedures.322    
+Execution Procedures    
+5. The order execution rules, as well as any cancellation procedures, should be disclosed 
+to the regulator and to market participants, and should be applied fairly to all 
+participants.   
+The exchange or trading system’s order routing procedures should also be clearly 
+disclosed to the regulator and to market participants, applied fairly, and should not be 
+inconsistent with relevant securities regulation (e.g., client precedence or prohibition of 
+front running or trading ahead of customers).
+323   
+6. The fairness of latency differences resulting from different technical connection options 
+and, in particular, from co-locating high speed algorithmic trading systems adjacent to 
+exchange servers raises significant technical and market integrity issues.324   
+7. Direct electronic access (DEA) refers to the process by which a person transmits orders 
+on their own (i.e., without any handling or re-entry by another person) directly into the 
+market’s trade matching system for execution.325  
+8. A market should not permit DEA unless there are in place effective systems and controls 
+reasonably designed to enable the management of risk with regard to fair and orderly 
+trading including, in particular, automated pre-trade controls that enable intermediaries 
+to implement appropriate trading limits.
+326  
+9. Markets should provide member intermediaries with access to pre-trade and post-trade 
+information (on a real -time basis) to enable these intermediaries to implement 
+appropriate monitoring and risk management controls.327     
+                                                 
+322  See Regulatory Issues Raised by the Impact of Technological Changes on Market Integrity and Efficiency, 
+supra, p. 45. 
+323  Not all jurisdictions grant SRO obligations to markets.  The specific responsibilities of a market will 
+always be defined by the applicable laws and regulations.  
+324  See Principles for Direct Electronic Access to Markets, supra, p. 15. 
+325  Id,  Appendix 1, definition of DEA. 
+326  Id, p. 20, Principle 6.   
+327  Id, p.17, Principle 5.  This Principle reflects the Technical Committee’s recognition that in the dispersed 
+world of electronic trading, intermediaries must have timely access to relevant pre-trade and post-trade 
+information in order to facilitate the performance of their traditional risk management functions in the 
+context of DEA.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+227 
+Trading Information 
+10. Information on completed transactions, trading information and rules and operating 
+procedures328 should be available, and the regulator should verify that it is provided on 
+an equitable basis to all similarly situated market participants.329 
+In an environment where trading occurs across multiple trading spaces, regulators 
+should seek to ensure that proper arrangements are in place in order to facilitate the 
+consolidation and dissemination of information as close to real time as is technically 
+possible and reasonable.330   
+(a) Any categorization of participants, for the purpose of access to pre -trade 
+information, should be made on a reasonable basis.   
+(b) Any differential access to such information should not unfairly disadvantage 
+specific categories of participants.  
+11. Full trade documentation and an audit trail should be available to the regulator.   
+ 
+Key Questions 
+Exchanges or Trading Systems subject to Regulation 
+1. Does the establishment of an exchange or trading system331 require authorization? 
+2. Are there criteria for the authorization332 of exchange and trading system operators that: 
+(a) Require analysis and authorization of the market by a competent authority?  
+(b) Seek evidence of operational or other competence of the operator of an exchange 
+or trading system? 
+(c) Require the operator of an exchange or trading system that assumes principal, 
+settlement, guarantee or performance risk, to comply with prudential and other 
+requirements designed to reduce the risk  of non- completion of transactions 
+(e.g., mandatory margin assessment and collection, capital or financial 
+resources, member contributions, guaranty fund, credit or position limits)?    
+                                                 
+328  Dark pools, and transparent markets that offer dark orders, should provide market participants with 
+sufficient information so that they are able to understand the manner in which their orders are handled and 
+executed: see Principle 5 at p. 30 in Principles for Dark Liquidity, Final Report, Report of the Technical 
+Committee of IOSCO, May 2011, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD353.pdf. 
+329  Market participants include not only market members, but also investors in a larger sense. 
+330  See Recommendation 2 in Regulatory Issues Raised by Changes in Market Structure, Final Report, Report 
+of the Board of IOSCO, December 2013, p. 21, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD431.pdf. 
+331  To the extent a trading system is treated as a broker the applicable requirements under these Principles 
+would be those related to market intermediaries, coupled with any transparency, insider trading or market 
+abuse requirements. 
+332  The term “authorization” should be interpreted to include “licensed”, “granted authority to do investment 
+business” or “recognition.”
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+228 
+(d) Permit the regulator to impose ongoing conditions (as appropriate) on the 
+operator of an authorized exchange or regulated trading system, such as the 
+obligation to establish:  rules; policies; and procedures , to prevent fraudulent 
+behaviour, treat all members or participants fairly, and have the capacity to carry 
+out the market’s and the competent authority’s obligations?
+333  
+Supervision 334 
+3. Does regulation require an assessment of: 
+(a) The reliability of all arrangements made by the operator for the monitoring, 
+surveillance and supervision of an exchange or trading system and its members 
+or participants to ensure fairness, efficiency, transparency and investor 
+protection, as well as compliance with securities legislation?  The market ’s 
+dispute resolution and appeal procedures or arrangements as appropriate, its 
+technical systems st andards and procedures related to operational failure, 
+information on its recordkeeping system, reports of suspected breaches of law, 
+arrangements for holding client funds and securities, if applicable, and 
+information on how trades are cleared and settled? 
+(b)  Whether the trading venue has in place suitable trading control mechanisms 
+(such as trading halts, volatility interruptions, limit-up/limit-down controls and 
+other trading limitations) to deal with volatile market conditions?
+335  
+(c) Assistance available to t he regulator, in circumstances of potential trading 
+disruption on the system? 
+(d) Whether the relevant market authority (i.e., the regulator or relevant SRO), the 
+outsourcing market, and its auditors, have: access to the books and records of 
+service providers relating to an exchange’s outsourced activities; and the ability 
+to obtain promptly, upon request, other information concerning activities that 
+are relevant to regulatory oversight? 
+Securities and Commodity Derivatives and Market Participants 
+4. With respect to securities and commodity derivatives and market participants: 
+(a) Is the regulator informed of the types of financial products to be traded, and does 
+it approve the rules governing the admission of the securities to trading or 
+listing?  
+                                                 
+333  See Supervisory Framework for Markets, supra, states at p. 7: “Through the authorization process, the 
+regulator retains an important enforcement tool: the ability to prohibit or place restrictions upon 
+operations.”  This is implicit in the concept of being “accountable”. 
+334  Id, pp. 8–9. 
+335  See Recommendation 2 in Regulatory Issues Raised by the Impact of Technological Changes on Market 
+Integrity and Efficiency, supra, p. 45.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+229 
+(b) Where applicable, does the regulator, or the market, take product design 336 and 
+trading conditions into account in order to admit a product for trading?337 
+(c) Does the regulatory framework provide for fair access 338 to the exchange, or 
+trading system, through oversight of the related rules for participation? 
+Fairness of Order Execution Procedures 
+5. With respect to order execution procedures: 
+(a) Are order routing procedures clearly disclosed to regulators and to market 
+participants, applied fairly, and not inconsistent with relevant securities 
+regulation (e.g., requirements with respect to precedence of client orders and 
+prohibition of front running or trading ahead of customers)?339  
+(b) Are execution rules disclosed to the regu lator and to market participants, and 
+consistently applied to all participants? 
+(c) Where applicable, does the regulator review the trade matching or execution 
+algorithm of automated trading systems for fairness?340 
+                                                 
+336  Securities may be subject to rules or requirements for admission to public trading.  Further, see The 
+Application of the Tokyo Communiqué to Exchange-Traded Financial Derivatives Contracts, supra.  This 
+report, which in the case of commodity derivatives has been superseded by Principles for the Regulation 
+and Supervision of Commodity Derivatives Markets, supra, is not intended to address equity derivatives 
+and its applicability to OTC markets may require additional analysis.   
+ This notwithstanding, in the case of derivatives, “Contract design standards for derivatives markets should 
+be viewed as a complement to an appropriate surveillance system.  In general, contract design standards 
+are intended to assure that contracts are not readily susceptible to manipulation, that the delivery and/or 
+settlement mechanism is reliable, and (for derivative products) that the prices of the underlying and the 
+derivative converge at expiration and, as a consequence, can serve a valid risk management function.”  See 
+The Application of the Tokyo Communiqué to Exchange-Traded Financial Derivatives Contracts, supra, 
+p. 12. 
+337  With respect to exchange-traded physical commodity derivatives markets, the market authority should 
+follow the contract design principles set out in the Principles for the Regulation and Supervision of 
+Commodity Derivatives Markets, supra, p. 21.  The contract design principles also require that settlement 
+and delivery procedures should reflect the underlying physical market and promote reliable pricing 
+relationships and price convergence, and should be regularly evaluated to ensure that they meet this 
+standard.  Settlement and delivery terms should be specified and made available to market participants. 
+338  For example, with respect to access to electronic systems for derivative products, do rules ensure that: 
+response time is equivalent for all system participants; all similarly situated system users have an equal 
+ability to connect and to maintain the connection to the system; all equivalent “inputs” (e.g., volume and 
+order type) by system users are treated fairly and equally; and access by links or interfaces with other 
+systems (e.g., clearing systems, order routing systems, quotation vendors) are equitable?  See also the 
+discussion of Principle 3 in Screen-Based Trading Systems for Derivative Products, supra, p. 16.  These 
+are illustrative “best practices” developed in the context of regulated trading systems for derivative 
+products and are not intended to limit or define practices for regulated trading systems for other securities 
+products.   
+339  Regulatory issues may depend on whether orders are transmitted to an organized regulated market or to 
+other regulated trade execution and matching systems.  See also the discussion in paras. 67–73 of Report 
+on Issues in the Regulation of Cross-Border Proprietary Screen-Based Trading Systems, supra.   
+340  See Screen-Based Trading Systems for Derivative Products, supra.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+230 
+(d) Do all system users have equal opportunity to connect, and maintain the 
+connection to, the electronic trading system, and are differences in order 
+execution response times disclosed by the system operator? 
+(e) Are there in place effective systems and controls reasonably designed to enable 
+the management o f risk with regard to fair and orderly trading  including, in 
+particular, automated pre-trade controls that enable intermediaries to implement 
+appropriate risk limits?  
+Operational Information 
+6. With respect to trading information: 
+(a) Do similarly situated market participants have equitable access to market rules 
+and operating procedures?341   
+(b) Are adequate records (i.e., audit trails) available to reconstruct trading activity 
+within a reasonable time? 
+(c) Is the system capable of disclosing the types of information tha t it is designed 
+to make available, and, conversely, of providing safeguards to preserve the 
+confidentiality of other information, the disclosure of which is not intended?
+342 
+(d) Does the market provide member intermediaries with access to relevant pre- and 
+post-trade information (on a real -time basis) to enable these intermediaries to 
+implement appropriate monitoring and risk management controls?  
+ 
+Explanatory Notes 
+Not all of the regulatory objectives set out above would apply to ATSs, MTFs or proprietary 
+trading systems in the same way. 343  For example, some jurisdictions use a combination of 
+intermediary and market regulation for trading systems.  In addition, in some jurisdictions, only 
+exchanges may have rules relating to disciplining members or participa nts.  However, trading 
+systems should have mechanisms for ensuring compliance with, at a minimum, securities 
+legislation. 
+The assessor should understand the regulatory structure used by the jurisdiction and apply the 
+appropriate Benchmarks.  For example, w hen combinations of regulatory programs are used, 
+some trading systems may be regulated under Principles for Market Intermediaries, subject to 
+adequate transparency arrangements and market abuse prohibitions and surveillance.  This 
+observation also applies to Principles 34 and 35. 
+                                                 
+341  Additionally, for exchange-traded physical commodity derivatives markets: Is information concerning a 
+physical commodity derivative’s contract’s terms and conditions, as well as other relevant information 
+concerning delivery and pricing, readily available to market authorities with respect to all derivatives 
+transactions within its jurisdiction and to market participants in organized derivatives? See the contract 
+design principle on transparency, which sets out the terms and conditions that market rules should specify 
+in Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra, pp. 24–25.  
+342  See the discussion of Principle 2 in Screen-Based Trading Systems for Derivative Products, supra, p. 13. 
+343  The extent to which a jurisdiction regulates these types of trading systems will vary.  Not all jurisdictions 
+authorize or otherwise regulate ATSs or proprietary trading systems.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+231 
+The availability of trading information, particularly when combined with the speed of 
+electronic trading technology and the increased linkages among markets, both within the 
+market’s jurisdiction and in other jurisdictions where traders or information providers have 
+access to the market, can exacerbate the market consequences of transactions that are executed 
+in error.  A regulator’s assessment into the reliability of all arrangements made by the operator 
+for the monitoring, surve illance and supervision of an exchange, or trading system, should 
+include, among other things, a consideration of the need of an exchange, or a trading system, 
+for adopting error trade policies.
+344     
+More broadly, a regulator’s review of an exchange, or a trading system, should inquire into any 
+linkages or inter -connections with other trading venues, both domestic and outside the 
+jurisdiction.
+345  
+A regulator may recognize an exchange, or trading system, established in another jurisdiction 
+based on the equiva lence, or comparability, of the regulation applicable to the market in its 
+domestic jurisdiction consistent with these Principles.  In cases of multiple markets, the 
+assessor will be required to form a judgment about the criteria applied by the regulator having 
+due regard to the volume of trading and turnover, and the related importance of the market.     
+Key Questions 4(b) and 6(a) reference the contract design principles set out in the IOSCO 
+report on Principles for the Regulation and Supervision of Commodity Derivatives Markets.  A 
+key objective of the contract design principles is to eliminate, to the extent possible, the 
+susceptibility of the derivatives contract to price manipulation or distortion.   
+To be an effective economic tool for hedging and pri ce discovery, physical commodity 
+derivatives contracts must accurately reflect the characteristics and operation of the referenced 
+underlying physical commodity market to the extent possible, and minimize factors which may 
+inhibit or bias the delivery process.  Where contract terms are not consistent with commercial 
+practices or the delivery process is biased in favor of either participant, the contract may not be 
+commercially successful or it may be susceptible to market abuses or manipulation and 
+                                                 
+344  See Policies on Error Trades, Final Report, Report of the Technical Committee of IOSCO, October 2005, 
+available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD208.pdf.  Recommendation 7 at p. 16 
+states that “market supervisors should support the implementation of error trade policies that are consistent 
+with [the report]”.  
+345  A variety of IOSCO Reports have discussed the implications of “linkages” or “inter-connections” among 
+trading systems and products as well as the need for regulators to cooperate and share information to 
+address these cross-market and cross-jurisdictional effects.  As general background on this issue, see e.g. 
+Principles Regarding Cross-Border Supervisory Cooperation, supra; Multi-Jurisdictional Information 
+Sharing for Market Oversight, supra; Regulatory Issues Arising from Exchange Evolution, Final Report, 
+Report of the Technical Committee of IOSCO, November 2006, p. 26 et seq., available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD225.pdf
+; Report on Trading Halts and Market 
+Closures, Report of the Technical Committee of IOSCO, November 2002, p. 23 et seq., available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD138.pdf; Mechanisms to Enhance Open and Timely 
+Communication between Market Authorities of Related Cash and Derivative Markets During Periods of 
+Market Disruption, Report of the Technical Committee of IOSCO, October 1993, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD29.pdf; Coordination between Cash and Derivative 
+Markets, Report of the Technical Committee of IOSCO, October 1992, available at  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD22.pdf.  See generally recommendation 11 – risks in 
+links between CCPs in Recommendations for Central Counterparties, Final Report, Report of the 
+Technical Committee of IOSCO and the Committee on Payment and Settlement Systems (CPSS), 
+November 2004, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD176.pdf.  See also 
+Responsibility E in Principles for Financial Market Infrastructures, Report of the Technical Committee of 
+IOSCO and the CPSS, April 2012, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD377-
+PFMI.pdf.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+232 
+contribute to price distortion and disorderly markets.  A non -robust contract design may lead 
+to a lack of price convergence between a commodity futures contract and the referenced 
+underlying physical commodity at the expiration of the contract.  As a result, the contract is of 
+less use as a hedging tool and could even multiply risk by doubling positions, rather than 
+offsetting them.
+346 
+Assessors should consider a Principle to be N ot Applicable whenever it does not apply given 
+the nature of the securities market in t he given jurisdiction (where there is no operating 
+exchange or trading system, established, or operating, within the jurisdiction), and relevant 
+structural, legal, and institutional considerations.  In such a case, the reason for the 
+determination should be documented. 
+ 
+Benchmarks  
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 3(b) in 
+so far as it pertains to dispute resolution o r applicable appellate procedures, and to 
+Questions 4(b) and 5(c). 
+Partly Implemented   
+Requires affirmative responses to all applicable Questions except to Questions 4(b), 
+5(c), 5(d) and 6(b) and Question 3(b) as otherwise permitted under Broadly 
+Implemented. 
+Not Implemented  
+Inability to respond affirmatively to one or more of Questions 1, 2(a), 2(b), 2(c), 2(d), 
+3(a), 3(b) subject to the departures set forth in Broadly Implemented above, 3(c), 4(a), 
+4(c), 5(a), 5(b), 5(e), 6(a), 6(c) or 6(d). 
+ 
+                                                 
+346  See Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra, p. 14.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+233 
+Principle 34 There should be ongoing regulatory supervision of exchanges and trading 
+systems which should aim to ensure that the integrity of trading is 
+maintained through fair and equitable rules that strike an appropriate 
+balance between the demands of different market participants. 
+Orderly smooth functioning markets promote investor confidence.  Accordingly, there should 
+be ongoing supervision of the markets.347  
+ 
+Key Issues 
+1. The regulator must remain satisfied that the conditions thought to be necessary 
+pre-requisites of authorization remain in place during operation.  
+2. Amendments to the rules or requirements of the authorized exchange or regulated 
+trading system should be provided to, or approved by, the regulator.  
+3. Authorization o f the authorized exchange or regulated trading system should be re -
+examined, or withdrawn, when it is determined that the system is unable to comply with 
+the conditions of its authorization, or with securities law or regulation.  
+ 
+Key Questions 
+1. Does the regulatory system:  
+(a) Include a program whereby the regulator or an SRO, which is subject to 
+oversight by the regulator:  
+(i) monitors day-to-day trading activity on the exchange or trading system 
+(through a market surveillance program);  
+(ii) monitors conduct of marke t intermediaries (through examinations of 
+business operations); and  
+(iii) collects and analyzes the information gathered through these 
+activities?
+348  
+(b) Include regulatory oversight mechanisms to verify compliance by the exchange, 
+or trading system, with its statutory or administrative responsibilities, 
+particularly as they relate to the integrity of the markets, market surveillance, 
+the monitoring of risks and the ability to respond to such risks?
+349  
+(c) Provide the regulator with adequate access to all pre -trade and post -trade 
+information available to market participants? 
+                                                 
+347  See Supervisory Framework for Markets, supra, p. 3. 
+348  See Id, p. 9. 
+349  Such information can be provided through formal mechanisms, such as written reports and inspections, or 
+through informal mechanisms such as regular meetings:  see Supervisory Framework for Markets, supra, 
+p. 9.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+234 
+2. Does the regulatory framework require that amendments to the rules or requirements of 
+the exchange, or trading system, must be provided to, or approved by, the regulator? 
+3. When the regulator determines that the exchange, or trading system, is unable to comply 
+with the conditions of its approval, or with securities law or regulation, is there a 
+mechanism that permits the regulator350 to:  
+(a) Re-examine the exchange, or trading system, and impose a range of act ions, 
+such as restrictions or conditions on the market operator? 
+(b) Withdraw the exchange, or trading system, authorization?  
+ 
+Explanatory Notes 
+These issues and questions apply to both exchanges and trading systems; however, they may 
+apply in different ways.  For example, an exchange may also act as an SRO and therefore have 
+regulatory responsibilities; a trading system may not act as an SRO.  Consequently, the rules 
+or requirements for an exchange will have broader scope — such as issuer and participant 
+regulation.  Trading systems requirements may outline the market structure of the trading 
+system, how orders are entered, interact and are executed.  They will not have the same 
+regulatory impact as exchange rules. 
+Question 3(a) gives more content to the phras e “re -examine the market’s authorization.”  
+“Since licence revocation is such a serious disciplinary action, in many cases, market operators 
+will not believe it would ever be used and therefore it may not be an effective deterrent.  The 
+regulator also should have the clear power to impose an escalating range of disciplinary actions, 
+such as conditions or restrictions on the market operator.  While imposition of these restrictions 
+should be subject to some procedural fairness conditions, the process must not  be so slow, or 
+cumbersome, so as to prevent regulators acting swiftly and effectively when required.” 351  If 
+not, the regulator should be invited to discuss how revocation power can be used to buttress its 
+ability to use moral suasion to achieve corrective action. 
+If the regulator does not have authority to withdraw the exchange, or trading system, 
+authorization because the authorization was not subject to approval by the regulator (e.g., the 
+exchange was “grandfathered in”), it may be possible to adjust the rating to take account of this 
+fact.  In such circumstances, where a negative answer to Question 3(b) is the only reason for a 
+Not Implemented rating, it would be permissible for an assessor to conclude that Question 3(b) 
+is answered affirmatively and a Partly Implemented  rating is warranted, if the regulator 
+demonstrates it has authority to suspend all trading on the exchange or trading system for a 
+period of at least six months.  
+Alternatively, a Partly Implemented  rating may be justified if the regulat or can answer 
+affirmatively to Question 3(a), and the regulator demonstrates that the range of available 
+sanctions and restrictions include the ability to revoke the authority of the market operator, or 
+change the management of the exchange, or trading system.  
+ 
+                                                 
+350  Id. 
+351  Id, p. 7.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+235 
+Benchmarks  
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 3(a).  
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 2 and 
+3(a).  
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b), 1(c) or 3(b).
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+236 
+Principle 35 Regulation should promote transparency of trading. 
+Transparency may be defined as the degree to which information about trading (both for pre -
+trade and post-trade information) is made publicly available.  The degree of transparency of a 
+market can be measured as a deviation from a real -time standard.  Pre -trade information 
+concerns the posting of firm bids and offers, in both quote and order-driven markets, as a means 
+to enable intermediaries and investors (“market participants”) to know, with some degree of 
+certainty, whether, and at what prices, they can deal.  Post -trade information is related to the 
+prices and volume of all individual transactions actually concluded. 
+Market transparency is generally regarded as central to both the fairness and efficiency of a 
+market, and in particular to its liquidity and quality of price-formation.  
+Pre-trade and post-trade transparency enhances fairness and investor protection by making it 
+easier for investors to monitor the quality of executions that they receive from their 
+intermediaries.  Transparency can also help to promote market efficiency.  Inefficiencies in the 
+pricing of securities and wider bid -offer spreads can occur when market par ticipants are 
+unaware of others’ trading activity.  This is particularly the case in dealer -dominated markets 
+where pre-trade quotation information, if it can be obtained at all, can be obtained only from a 
+small number of dealers, thus leaving buy-side clients at an informational disadvantage.  Post-
+trade transparency can reduce information asymmetries between dealers and buy -side clients.  
+If trade prices are publicly known, buy-side market participants will be more likely to question 
+if they are not obtaining prices similar to those at which executions have occurred in the past. 
+The wide availability of information on bids and off ers is a central factor in ensuring price 
+discovery and in strengthening users’ confidence that they will be able to trade at fair prices.  
+This confidence should in turn, increase the incentive of buyers and sellers to participate; 
+facilitate liquidity; and stimulate competitive pricing. 
+Information in respect of the volumes and prices of completed trades enables market 
+participants not only to take into account the most recent information on volumes and prices 
+but also to monitor the quality of executions  they have obtained compared with other market 
+users. 
+In general, the more complete and more widely available trading information is, the more 
+efficient the price discovery process should be, and the greater the public’s confidence in its 
+fairness.   
+Establishing market transparency standards is not straightforward, as the interest of individual 
+market participants in transparency levels varies.  Regulators may not require pre- trade 
+transparency for certain types of market structures (e.g. call markets, reference-pricing venues) 
+or certain types of orders (e.g. large orders of institutional investors that do not wish such orders 
+to be displayed), taking into account the impact on price discovery, fragmentation, fairness and 
+overall market quality considering in particular the relative overall proportion of dark trading 
+compared to lit trading.
+352   Regulators need to assess the appropriate level of transparency of 
+                                                 
+352  See Principles for Dark Liquidity, supra, p. 27.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+237 
+any particular market structure with considerable care.353  IOSCO has encouraged each member 
+jurisdiction to take steps toward enhancing post-trade transparency in the credit default swaps 
+market. 
+ 
+Key Issues  
+1. Ensuring timely access to information is key to the regulation of trading in secondary 
+and other markets.  Timely access to relevant information about trading in secondary 
+and other market s allows market participants to assess the terms on which they can 
+trade, and the quality of the execution that they receive, and thereby to look after their 
+own interests, and also reduces the potential for manipulative, or other unfair trading 
+practices.354 
+2. Where a market authority permits some derogation from the objective of real- time 
+transparency, either pre-trade or post-trade, the conditions should be clearly defined and 
+the market authority (being either, or both, the exchange operator and the regulator) 
+should have access to the complete information to be able to assess the need for 
+derogation and, if necessary, to prescribe alternatives.
+355 
+3. Transparent orders should have priority over dark orders at the same price within the 
+same trading venue. 
+4. Information on completed transactions should be provided on an equitable basis to all 
+market participants including those transactions executed in dark pools, or as a result 
+of dark orders entered into a transparent market.
+356 
+5. Regulators should periodically monitor the development of dark pools and dark orders 
+in their jurisdictions to seek to ensure that such developments do not adversely affect 
+the efficiency of the price formation process, and take appropriate action as needed. 
+ 
+                                                 
+353  See Transparency and Market Fragmentation, Report of the Technical Committee of IOSCO, November 
+2001, pp. 4–5, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD124.pdf.  See also 
+Transparency of Structured Finance Products, Final Report, Report of the Technical Committee of 
+IOSCO, July 2010, p. 21, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD326.pdf. 
+Principles for Dark Liquidity, supra, p. 26. 
+354  Discussed in Transparency on Secondary Markets: A Synthesis of the IOSCO Debate, Report of the 
+Technical Committee of IOSCO, December 1992, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD27.pdf, in Sections 3 and 4 on the content of 
+information and For a discussion of practice in member jurisdictions see Transparency of Corporate Bond 
+Markets, Report of the Technical Committee of IOSCO, May 2004, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD168.pdf. 
+355  See e.g. Transparency of Structured Finance Products, supra, p. 25, for a list of non-prescriptive factors 
+that regulators may wish to consider in developing a post-trade transparency regime for structured financial 
+products.   
+356  Principle 33 requires that participants have sufficient information so that they are able to understand the 
+manner in which their orders are handled and executed: see Key Issue 10 and Key Question 5.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+238 
+Key Questions 
+1. Does the regulatory framework include:  
+(a) Requirements or arrangements for providing pre-trade (e.g., posting of orders357) 
+information to market participants? 
+(b) Requirements or arrangements for providing post-trade information (e.g., last 
+sale price and volume of transaction) to market participants on a timely basis?358   
+(c) Requirements or arrangements that information on completed transactions be 
+provided on an equitable basis to all market participants?  
+2. Where derogation from the objective of real-time transparency is permitted: 
+(a) Are the conditions clearly defined? 
+(b) Does the market authority (being either, or both, the exchange operator and the 
+regulator) have access to the complete information to be able to assess the need 
+for derogation and, if necessary, to prescribe alternatives?  
+(c) Does the regulator have access to adequate information to monitor the 
+development of dark trading and dark orders? 
+(d) Do transparent orders have priority over dark orders?  
+(e) Do dark pools, and transparent markets that offer dark orders, provide market 
+participants with sufficient information so that they are able to understand the 
+manner in which their orders are handled and executed? 
+  
+Explanatory Notes 
+Market transparency is generally regarded as central to both the fairness and efficiency of a 
+market, and in particular to its liquidity and quality of price formation.359  For example, as stated 
+in IOSCO’s report Principles for Dark Liquidity , the price and volume of firm orders  and 
+information regarding trades should generally be transparent to the public.  Regulators should 
+support the use of transparent orders, which should have priority over any dark orders at the 
+same price within a trading venue.  Regulators should be able to access information regarding 
+dark orders.  Market participants should have sufficient information so that they are able to 
+understand the manner in which their dark orders are handled and executed.  Regulators should 
+periodically monitor the development of dark pools and dark orders in their jurisdictions. 
+As noted above, the degree of transparency of a market can be measured as a deviation from a 
+real-time standard.  However, there is no single standard of “timeliness.”  Most exchanges and 
+regulatory systems provide for a certain degree of deviation from a real-time standard, such as: 
+                                                 
+357  Orders do not include non-binding offers. 
+358  See Post-Trade Transparency in the Credit Default Swaps Market, Final Report, Report of the Board of 
+IOSCO, August 2015, pp. 1 and 36, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD499.pdf, which contains a recommendation to 
+encourage member jurisdictions to take steps toward enhancing post-trade transparency in the credit 
+default swaps market.  This could involve providing information on individual transactions in the CDS 
+market. 
+359  See Transparency and Market Fragmentation, supra, p. 3.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+239 
+permitting some degree of opaqueness of quote information for block transactions; adopting 
+different definitions of “real-time”; adopting a “promptness” standard that varies from several 
+minutes to a longer time; allowing exceptions to real -time based on the size of the trade, type 
+of trade (dealer mediated rather than auction market), or type of dealer and market model.  
+Indeed, each type of market microstructure delivers m arket fairness, efficiency and 
+transparency in slightly different ways.  
+Any derogation to the general requirements relating to post -trade transparency should be 
+explained.360 Reasonable derogations should not prompt the assignment of the jurisdiction to a 
+lower rating but should be documented.  For markets whose participants are largely 
+institutional investors, different transparency standards may be appropriate for the execution 
+of large orders that expose intermediaries to risk and could affect the integri ty of the price 
+formation process, liquidity, or the orderly conduct of the market.   
+In all cases, the market authority (being either, or both, the exchange operator and the regulator) 
+should, in any such event, have access to the complete information to be able to assess the need 
+for derogation and, if necessary, to prescribe alternatives.  Under any circumstance, the 
+market’s regulator should, in carrying out its supervisory role, be aware of the market’s 
+transparency decisions.  In addition, it is important that regulators monitor the development of 
+dark pools to ensure that they do not adversely impact on the price discovery process of 
+transparent markets.  Where regulators are concerned that the development of dark trading may 
+adversely impact the pric e discovery process they should take appropriate action to address 
+such a distortion. 
+In practice, except for wholesale and certain over-the-counter transaction venues, most markets 
+seek to have post -trade price reporting and publication as close as possible to real -time.  
+Assessments are focused on regulated/organized markets, but any assessment must consider 
+the prevailing structure of markets within the jurisdiction when addressing transparency.  
+In the end, the final approach to transparency — and the degree of timeliness — is a policy 
+decision, taken at the level of each individual juri sdiction, on how to weigh the conflicting 
+interests of the different market players (small investors, institutions, intermediaries and 
+exchanges).
+361  The regulator should provide information, as to the basis for these decisions, 
+and as to how they meet the objectives stated in the Key Issues. 
+ 
+                                                 
+360  Where derogations are permitted, regulators may have policies aimed at mitigating any adverse effects, 
+generally by post-trade transparency requirements and by imposing limitations on the way in which dark 
+trading, or the execution of dark orders, may take place.  This may be achieved through, for example: 
+  (a) ensuring transparent orders receive execution priority over dark orders at the same price within a 
+trading venue;  
+ (b) ensuring dark pools provide price improvement over the National Best Bid/Offer (NBBO) to small 
+orders;  
+ (c) ensuring limited scope for waivers to pre-trade transparency;  
+ (d) referencing prices within the dark pools to those of the national securities exchange;   and 
+ (e) trade through protection. 
+ Principles for Dark Liquidity, supra, pp. 20–21. 
+361  See Transparency on Secondary Markets: A Synthesis of the IOSCO Debate, supra, pp. 23–24 and 30.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+240 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions.  
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Question 2(c) 
+and/or to Question 1(a), in a primarily institutional trading market. 
+Partly Implemented  
+Requires affirmative responses to all applicable Questions except to Question s 1(a), 
+2(c), 2(d) and 2(e) as specified above and Questions  1(b) and 1(c) post -trade 
+information is not available  on an equitable basis to all participants in an institutional 
+market.  
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1(a), 1 (b), 1(c), 2(a), 
+2(b) if applicable, subject to the departures permitted above, or post -trade information 
+on concluded transactions is not available either on a timely or on an equitable basis in 
+a market accessible to retail investors.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+241 
+Principle 36 Regulation should be designed to detect and deter manipulation and 
+other unfair trading practices 
+Market manipulation (or attempts at manipulation), misleading conduct, insider trading and 
+other fraudulent or deceptive conduct, may distort the price discovery system, distort prices 
+and unfairly disadvantage investors.362 
+Such conduct could be addressed through a number of mechanisms, which, might include: 
+direct surveillance; inspection; reporting; product design requirements; position limits 
+settlement price rules; or market halts, complemented by vigorous enforcement of the law and 
+trading rules. 
+An effective market oversight program should have a mechanism for monitoring compliance 
+with the securities laws, regulations and market rules, operational competence requirements, 
+and market standards.  
+The regulator must ensure that there are in place arrangement s for the continuous monitoring 
+of trading.  These arrangements should trigger inquiry whenever unusual and potentially 
+improper trading occurs. 
+Particular care must be taken to ensure that regulation is sufficient to cover cross- market 
+conduct, for example, conduct in which the price of an equity product is manipulated in order 
+to benefit through the trading of options, warrants or other derivative products, or where there 
+are multiple markets trading the same product.   
+Regulators should continue to assess the impact of technological developments and market 
+structure changes on market integrity and efficiency, including algorithmic and high frequency 
+trading.  Based on this, regulators should seek to ensure that suitable measures are taken to 
+mitigate any related risks to market integrity and efficiency, including any risks to price 
+formation or to the resiliency and stability of markets, to which such developments give rise.
+363  
+Key Issues  
+1. The regulation of trading in secondary and other markets should prohibit: market 
+manipulation (or attempts at manipulation); misleading conduct; insider trading; and 
+other fraudulent or deceptive conduct, and apply adequate, proportionate, and 
+dissuasive sanctions.
+364 
+                                                 
+362  See Investigating and Prosecuting Market Manipulation, Report of the Technical Committee of IOSCO, 
+May 2000, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD103.pdf, and Principles for 
+Financial Benchmarks, Report of the Board of IOSCO, July 2013, pp. 7–8, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD415.pdf.  
+363  See Recommendation 4 in Regulatory Issues Raised by the Impact of Technological Changes on Market 
+Integrity and Efficiency, supra, p. 47. 
+364  See Investigating and Prosecuting Market Manipulation, supra, pp. 5–6.  See also Principle 11 and 
+Principle 12.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+242 
+2. The regulator should ensure tha t there are in place arrangements for the continuous 
+monitoring of trading.  These arrangements should trigger inquiry whenever unusual 
+and potentially improper trading occurs.  Market authorities should have rules, 
+compliance programs, sanctioning policies and powers to prohibit, detect, prevent and 
+deter abusive practices on their markets, including manipulation (or attempts at 
+manipulation) of the market.
+365 
+3. Regulation should cover cross -market conduct where, for example, the price of an 
+equity product could be manipulated through the trading of options, warrants or OTC 
+derivatives or other derivative products. The regulator should also work collectively 
+and take any steps that would be appropriate to strengthen its cross-border surveillance 
+capabilities.366 
+4. There must be adequate information sharing between relevant regulatory authorities, 
+sufficient to ensure effective enforcement.367  
+5. Authorities responsible for the supervision of commodity derivatives markets 
+(e.g., either the market, a governmental regulator or an SRO) should have the authority 
+to access information on a routine and non-routine basis that permits them to reconstruct 
+transactions, identify large concentrations of positions, and the overall composition of 
+the market, including the power to acc ess on an “as needed basis” information on the 
+size and beneficial ownership of a trader ’s related financial and underlying market 
+positions in order to aggregate positions held under common ownership and control.
+368 
+Key Questions 
+1. Does the regulatory system prohibit the following with respect to products admitted to 
+trading on authorized exchanges and regulated trading systems: 
+(a) Market or price manipulation (or attempts at market or price manipulation)? 
+(b) Misleading information?  
+(c) Insider trading? 
+(d) Front running? 
+(e) Other fraudulent or deceptive conduct and market abuses?
+369   
+                                                 
+365  See Principle 15 of the Principles for the Regulation and Supervision of Commodity Derivatives Markets, 
+supra, p. 67. 
+366  See Technological Challenges to Effective Market Surveillance: Issues and Regulatory Tools, Final 
+Report, Report of the Board of IOSCO, April 2013, p.37, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD412.pdf  
+367  See Indexation: Securities Indices and Index Derivatives, Report of the Technical Committee of IOSCO, 
+February 2003, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD143.pdf, at pp. 35–40 
+regarding enhanced inter-market and cross-border cooperation. 
+368  See Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra, pp. 30–32; 
+Task Force on Commodity Futures Markets, Final Report, Report of the Technical Committee of IOSCO, 
+March 2009, p. 17, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD285.pdf. 
+369  See Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra, pp. 47–48 for 
+an enumerated list of practices that market authorities should seek to detect and prevent.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+243 
+2. Does the regulatory approach to detect and deter such conduct include an effective and 
+appropriate combination of mechanisms drawn from the following: 
+(a) Direct surveillance, inspection, reporting, such as, for example:  
+(i) securities listing, or product design requirements (where applicable); 
+(ii) position limits;  
+(iii) audit trail requirements;  
+(iv) quotation display rules;  
+(v) order handling rules;  
+(vi) settlement price rules;   
+(vii) market halts, complemented by enforcement of the law and trading 
+rules; or 
+(viii) power to obtain information on a market participant ’s positions in 
+related OTC commodity derivatives and the underlying physical 
+commodity markets.
+370 
+(b) Effective, proportionate and dissuasive sanctions for violations?371 In the case of 
+exchange-traded commodity derivatives markets, does the relevant market 
+authority have and use effective sanctioning powers to discipline its members 
+or other authorized market participants and does it ha ve powers to take action 
+against non-members of the market or other market participants?372 
+3. Are there arrangements in place for: 
+(a) The continuous collection and analysis of information concerning trading 
+activities? 
+(b) Providing the results of such analysis to ma rket and regulatory officials in a 
+position to take remedial action if necessary?  
+(c) Monitoring the conduct of market intermediaries participating in the market(s)? 
+(d) Triggering further inquiry as to suspicious transactions or patterns of trading? 
+4. If there is potential for domestic cross-market trading, are there:  
+(a) inspection;  
+(b) assistance; and  
+(c) information-sharing, requirements or arrangements in place to monitor and/or 
+address domestic cross-market trading abuses?373 
+                                                 
+370  See Id, p. 32. 
+371  Compare to requirements under Principles 10, 11 and 12. 
+372  See the discussion in Principles for the Regulation and Supervision of Commodity Derivatives Markets, 
+supra, pp. 52–53, regarding disciplinary sanctions against market members and disciplinary sanctions 
+against non-members of the market in the IOSCO. 
+373  In the case of exchange-traded physical commodity derivatives markets, the overall framework for market 
+surveillance and enforcement within a jurisdiction should be structured to provide for active and 
+coordinated detection and enforcement action against manipulative or abusive schemes that might affect 
+trading on multiple exchange and OTC markets, as well as the underlying physical commodity markets.  
+See Id, p. 49.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+244 
+5. If there are foreign linkages, substantial foreign participation, or cross listings, are there 
+cooperation arrangements with relevant foreign regulators, and/or markets, that address 
+manipulation, or other abusive trading practices?374 
+6. Regarding market authorities responsible for the supervision of commodity derivatives 
+markets only:  
+(a) Does the market authority have authority to access information on a routine and 
+non-routine basis for regulated commodity derivatives markets as well as the 
+power to obtain information on a market participant’s positions in related OTC 
+commodity derivatives and the underlying physical commodity markets?375 
+(b) Does the market authority collect information on a routine and regular basis on 
+relevant on-exchange commodity derivatives transactions and does it have the 
+capability to aggregate position holder information promptly in order to identify 
+positions under common ownership and control?  Reference should be made to 
+the commodity derivatives principles for the type of information required.376 
+(c) In respect of OTC commodity derivati ves transactions and positions, has the 
+market authority considered what information it should collect on a routine basis 
+and what it should collect on an “as needed” basis.377 
+7. Does the market authority have the organizational and technical capabilities to monitor 
+effectively the trading venues it supervises, including the ability to identify market 
+abuse and activities that may impact the fairness and orderliness of trading on such 
+venues?378 
+ 
+Explanatory Notes 
+An effective and credible market oversight program should include robust powers over fraud, 
+market manipulation or attempts at such manipulation.  These powers might be general in their 
+application or they might relate more specifically to a particular topic of manipulation or 
+attempted manipulation.  For example, it might include manipulation or attempts at 
+manipulation of a benchmark referenced in a financial contract or financial instrument. 
+                                                 
+374  In the case of exchange-traded physical commodity derivatives markets, market authorities should have 
+arrangements that allow them to share information on large exposures in linked markets and on supplies 
+relative to these markets.  Information sharing to facilitate heightened surveillance is warranted where 
+physical commodity derivatives contracts trade on different exchanges and are linked economically, such 
+as where one contract’s settlement price is determined by reference to the settlement price of the other 
+contract:  Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra, p. 69. 
+375  See Id, p. 32. 
+376  See Id, p. 33 for the specific types of on-exchange information that should be collected. 
+377  A market authority that has access to a relevant Trade Repository’s (TR’s) data should take such broader 
+access into account, as well as its statutory obligations with respect to the TR, in constructing its data 
+collection policies.  IOSCO has stated that, in connection with commodity derivatives markets, IOSCO 
+members should promote the reporting of OTC derivatives contracts to TRs: Id, pp. 33 and 60, 
+respectively. 
+378  Technological Challenges to Effective Market Surveillance: Issues and Regulatory Tools, supra, p. 32.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+245 
+Essential elements of monitoring compliance include:  
+1. monitoring the day-to-day trading activity in the markets (through a market surveillance 
+program);  
+2. monitoring the conduct of market intermediaries (through examinations of business 
+operations); and  
+3. collecting and analyzing information gathered from these activities.379  Techniques may 
+differ for securities and derivatives markets.  The regulator should be invited to explain 
+how its approach operates to detect, deter, and sanction misconduct. 
+For commodity derivatives markets, market authorities should devel op, employ and maintain 
+methods for monitoring of trading activity on the markets they supervise, collecting needed 
+information and analyzing the information they collect that are efficient and suitable for the 
+type of market being supervised. Effective monitoring of orders and electronic transactions 
+requires real-time monitoring capabilities, supported by automated systems that detect trading 
+anomalies.  Monitoring, collection and analysis should also focus on intra-day trading.
+380  
+In respect to on -exchange commodity derivatives transactions, a market authority should 
+collect information on a routine and regular basis on the matters set out in the commodity 
+derivatives principles.  
+The overall framework for market surveillance and enforcement within a jurisdiction should be 
+structured to provide for active and coordinated detection and enforcement action against 
+manipulative or abusive schemes that might affect trading on multiple markets, including 
+organized trading facilities and swaps execution facilities and OTC markets, as well as the 
+underlying physical commodity markets.   
+The following are examples of some cases when cross -market surveillance information is 
+relevant: when the underlying instrument is traded in a jurisdiction other than the one where a 
+derivative instrument is traded, or where identical financial products are traded in two 
+jurisdictions, there may be increased potential for fraud or manipulation because of the 
+difficulty of a regulator in one jurisdiction to monitor market activity dire ctly or to conduct 
+complete investigations of market activities in another jurisdiction.
+381  It is also relevant if the 
+product is traded on multiple markets.382  
+The regulator can make use of an exchange or trading system surveillance system provided that 
+the regulator has reviewed it under Principle 34 above. 
+Market authorities should have authority to seek access to information in foreign jurisdictions.  
+Market authorities should at a minimum map and be aware of the extent of any gaps in their 
+cross-border surveillance capabilities.
+383 
+                                                 
+379  Supervisory Framework for Markets, supra, p. 9. 
+380  For physical delivery contracts, the credible possibility of delivery is critical for the contract to serve as an 
+effective economic tool for hedging and price discovery.  It is important for market authorities to have the 
+ability to ascertain a market participant’s delivery intentions with regard to an exchange-traded contract as 
+well as to understand the effect of such physical market transactions on price formation in the physical 
+market.  While the principle does not require market authorities to impose mandatory reporting 
+requirements, market authorities should have the ability to reconstruct the entire trading record of a market 
+participant to conduct an effective investigation for market manipulation. 
+381  See Supervisory Framework for Markets, supra, p. 6. 
+382  See Multi-Jurisdictional Information Sharing for Market Oversight, supra, p.13. 
+383  See Technological Challenges to Effective Market Surveillance: Issues and Regulatory Tools, supra, p.37
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+246 
+Market authorities should monitor for novel forms or variations of market abuse that may arise 
+as a result of technological developments and take action as necessary.  They should also 
+review their arrangements (including cross -border information sharing arrangements) and 
+capabilities for the continuous monitoring of trading (including transactions, orders entered or 
+orders cancelled) to help ensure that they remain effective.384 
+The unique information needs of commodity derivatives  markets mean that the market 
+authority should have the power to:385 
+1. access information that allows the reconstruction of all transactions on a regulated 
+commodity derivatives market (audit trail); 
+2. access information that permits them to identify large positions (i.e., “large exposures” 
+or “concentrations”) and the composition of the market in question; 
+3. access information, if needed, on the size and beneficial ownership of positions held by 
+a market participant in order to aggregate positions held under common ownership and 
+control; 
+4. access information about a market participant ’s transactions and positions in related 
+OTC and physical commodity markets; and 
+5. take appropriate action where a commodity derivatives market participant does not 
+make requested market information available to the market authority.  
+The trading of physical commodity derivatives  differs fundamentally from the trading of 
+financial-based derivatives in that the actual supply of the underlying physical commodity is 
+restricted to a finite supp ly.  Commodity derivatives contracts that require the delivery of a 
+physical commodity are most susceptible to manipulation when the deliverable supply on such 
+contracts is small relative to the size of positions held by traders, individually or in related  
+groups, as the contract approaches expiration.  Because of this concern, surveillance programs 
+need to identify the build-up of large position concentrations, particularly during the settlement 
+month.
+386 
+For physical commodity derivatives markets, information is a critical tool for maintaining fair 
+and orderly markets and ensuring market integrity. Information about transactions permits a 
+market authority to detect customer and market abuses. Information about futures, and related 
+OTC and physical market positions, as appropriate, allows market authorities to identify large 
+positions which could potentially result in a disorderly market or relate to market abuse, 
+evaluate the overall composition of the market and to assess its functioning.  See the IOSCO 
+Principles for the Regulation and Supervision of Commodity Derivatives Markets  for the 
+specific types of on-exchange information that should be collected.
+387   
+                                                 
+384  See Recommendation 5 in Regulatory Issues Raised by the Impact of Technological Changes on Market 
+Integrity and Efficiency, supra, p.48.   
+385  See Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra, p. 33 
+(collection of information on on-exchange transactions).  
+386  Id, p. 26. 
+387  Id, p. 33.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+247 
+Obtaining this information is particularly critical during periods of significant and abrupt price 
+movements (e.g., high price volatility) in order to determine whether a market is functioning 
+properly.  Position information also enables market authorities to understand the composition 
+of the market and to analyze the participation of various classes of traders such as commercial 
+and non-commercial market participants.
+388 
+Equity derivatives raise additional issues that were not addressed by the Tokyo Communiqué 
+and assessment must take into account the unique attributes of the market and product in 
+question.389    
+ 
+Benchmarks   
+Fully Implemented 
+Requires affirmative responses to all applicable Questions. 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 4 and 5, 
+provided that there is not substantial cross -border or cross -market activity and 
+cooperation in fact occurs. 
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except that if Questions 4 
+and 5 are applicable, there is evidence o f cross-market and cross- border cooperation 
+and information sharing, although no formal arrangements for cooperation may be in 
+place. 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1(a), 1(b), 1(c), 1(d), 
+1(e), 2(a), 2(b), 3(a), 3(b), 3(c), 3(d) or 6 (if applicable), or 7 or if Questions 4 or 5 are 
+applicable, there is no evidence of cross -border cooperation whether or not there are 
+formal arrangements for cooperation in place. 
+                                                 
+388  Id, p. 34.  
+389  The Application of the Tokyo Communiqué to Exchange-Traded Financial Derivatives Contracts, supra, 
+p. 2.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+248 
+Principle 37 Regulation shou ld aim to ensure the proper management of large 
+exposures, default risk and market disruption 
+Risk taking is essential to an active market and regulation should not unnecessarily stifle 
+legitimate risk taking.  Rather, regulators should promote and allow f or the effective 
+management of risk, also with a view to fostering market resilience and stability, and ensure 
+that capital and other prudential requirements: are sufficient to address appropriate risk taking; 
+allow the absorption of some losses; and check excessive risk taking.  An efficient and properly 
+structured clearing and settlement process that is supervised and uses effective risk 
+management tools is essential.
+390  The legal system also must support effective and legally 
+secure arrangements for default handling.  This is a matter that extends beyond securities law 
+to the insolvency provisions of a jurisdiction.  Insolvency law must support isolating risk, and 
+retaining and applying margin previously paid into the system, notwithstanding a default, or 
+commencement of an administration or bankruptcy proceeding. 
+Instability may result from events that occur in another jurisdiction or occur across several 
+jurisdictions, so regulators’ responses to market disruptions should seek to facilitate stability 
+domestically and globally through cooperation and information sharing. 
+This section also addresses concerns with regard to risks related to short selling practices in 
+equity markets and risks related to commodity derivatives markets, as well as transactions in  
+OTC derivatives.  
+ 
+Key Issues 
+Monitoring of Large Exposures 
+1. Market authorities
+391 should have mechanisms to monitor open positions, or credit 
+exposures, on unsettled trades that are sufficiently large to pose a risk to the market or 
+to a clearing firm (i.e., large exposures)392 and for this purpose: 
+(a) Establish trigger levels appropriate t o their markets and continuously monitor 
+the size of positions on their markets. 393  With respect to exchange -traded 
+                                                 
+390  See Principle 38.  
+391  The term “market authority” is used, for purposes of large exposures, to refer to the authority in a 
+jurisdiction that has statutory or regulatory powers with respect to the exercise of certain regulatory 
+functions over a market.  The relevant market authority, depending on the jurisdiction, may be a regulatory 
+body, an SRO, and/or the market itself.  Report on Cooperation between Market Authorities and Default 
+Procedures, supra, p. 2. 
+392  The expression “large exposure” refers to an open position that is sufficiently large to pose a risk to the 
+market or a clearing firm.  For these purposes large exposures may be construed to be open unsettled 
+positions; open short positions, margined positions, options and other derivatives.  
+393  The assessor should request empirical evidence of an evaluative procedure before concluding that there is 
+effective ongoing monitoring.  See also Report on Cooperation between Market Authorities and Default 
+Procedures, supra, p. 3 par. 6; Principles for the Regulation and Supervision of Commodity Derivatives 
+Markets, supra, p. 36.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+249 
+physical commodity derivatives markets, market authorities should (i) require 
+the reporting of large trader positions for the relevant on -exchange commodity 
+derivatives contracts and (ii) publish the aggregate exposures of different 
+classes of large traders, especially commercial and non -commercial 
+participants, within the bounds of maintaining trader confidence.394 
+(b) Have access to information, if  needed, on the size and beneficial ownership of 
+positions held by direct customers of market intermediaries’ members.395    
+(c) Have authority to take appropriate action where a direct market participant does 
+not make requested market information available to the market authority.  
+(d) Have the power to take appropriate action, such as requiring the market 
+participant to reduce exposures, increase margin, or deposit additional 
+collateral. 
+(e) Promote mechanisms that facilitate the sharing of information on large 
+exposures through appropriate channels.  
+Default Procedures —  Transparency and Effectiveness  
+2. Market authorities should make relevant information concerning market default 
+procedures available to market participants.  
+3. Regulators should ensure that the procedures relating to defaults, and permitted 
+corrective actions, are effective and transparent.  
+4. Market authorities for related products (cash or derivative) should consult with each 
+other, as soon as practicable, with a view to minimizing the adverse effects of market 
+disruptions.  
+Short Selling 
+5. Short selling should be subject to appropriate controls to reduce or minimize the 
+potential risks that could affect the orderly and efficient functioning and stability of 
+financial markets. 
+6. Short selling should be subject t o a reporting regime that provides timely information 
+to the market, or to market authorities.  
+7. Short selling should be subject to an effective compliance and enforcement system that 
+is intended to instil settlement discipline and minimize the potential for settlement 
+disruption risk and provides for surveillance of short selling activities.  
+                                                 
+394  Id, pp. 36 (large positions) and 59 (publication of aggregate positions). 
+395  A broker’s direct (i.e., immediate) client who signed the account documentation in reality may be 
+operating on behalf of an unknown person who controls the account (the beneficial owner).  A market 
+authority must be able to identify such a beneficial owner in order to aggregate positions, for example.  See 
+also Id, p. 66.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+250 
+8. Regulation of short selling should allow appropriate exceptions for certain types of 
+transactions for efficient market functioning and development. 
+Addressing Risks in the Commodity Derivative Markets 
+9. Regarding authorities responsible for the supervision of excha nge-traded physical 
+commodity derivatives markets (e.g., either the market, a governmental regulator or an 
+SRO):396 
+(a) Market authorities should have and use formal position management powers, 
+including the power to set ex- ante position limits, particularly in the delivery 
+month.  
+(b) Market authorities should also have the powers to employ additional measures, 
+as appropriate to address market disruption or the perceived threat of such 
+disruption. 
+Transactions in OTC Derivatives Markets
+397 
+10. It is appropriate to trade s tandardized derivatives contracts with a suitable degree of 
+liquidity on exchanges or electronic trading platforms, provided that a flexible approach 
+encompassing a range of platforms that would qualify as “exchanges or electronic 
+trading platforms” for derivatives trading is taken. 
+11. Standardized OTC derivatives should be cleared through central counterparties (CCPs). 
+Authorities implementing a mandatory clearing regime should consider using bottom -
+up and top- down approaches to determine products that are subject to a mandatory 
+clearing obligation.  
+12. All derivatives transactions which are not cleared by CCPs should be subject to 
+appropriate margining practices.  All financial entities and systemically important non-
+financial entities that deal in non -centrally cleared derivatives should exchange initial 
+and variation margin as appropriate to the counterparty risks posed by such transactions.  
+The determining authority should also be able to consult with foreign authorities so as 
+to minimize inconsistencies among different regulatory standards on non- centrally 
+cleared OTC derivatives.  
+13. Alongside margin, financial entities  and systemically important non- financial entities 
+that deal in non- centrally cleared OTC derivatives should employ risk mitigation 
+techniques, consistent with the standards set out by IOSCO in the report Risk Mitigation 
+Standards for Non-Centrally Cleared OTC Derivatives.   
+                                                 
+396  Id, p. 40. 
+397  In 2009, the Leaders of the G-20 committed to ensuring that all standardized OTC derivatives contracts are 
+cleared through central counterparties (CCPs) by end-2012.  The Financial Stability Board (FSB) 
+recommended in its Implementing OTC Derivatives Market Reforms (FSB Report, October 2010, available 
+at http://www.fsb.org/wp-content/uploads/r_101025.pdf) that IOSCO, working with other authorities as 
+appropriate, should coordinate the application of central clearing requirements on a product and participant 
+level, and any exemptions from them as a means of minimizing the potential for regulatory arbitrage as the 
+G-20 commitments on central clearing are implemented.  The Report outlines recommendations that 
+authorities should follow in establishing a mandatory clearing regime within their jurisdiction: 
+Requirements for Mandatory Clearing, Report of the Technical Committee of IOSCO, February 2012, 
+available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD374.pdf.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+251 
+14. OTC derivatives contracts should be reported to trade repositories (TRs).  At a 
+minimum, transaction -level data should be reported to TRs, including at least 
+transaction economics, counterparty information, underlying information, opera tional 
+data and event data.  Authorities that require information on OTC derivatives 
+transactions in order to carry out their respective mandates should have sufficient and 
+timely access to relevant data.  Authorities obtaining access to data should have t he 
+ability to keep the data confidential.   
+Key Questions   
+Monitoring of Large Exposures 
+1. Does the market authority have a mechanism in place that is intended to monitor and 
+evaluate continuously the risk of open positions, or credit exposures, that are 
+sufficiently large to expose a risk to the market, or to a clearing firm, that includes: 
+(a) Qualitative, or quantitative, trigger levels appropriate to the market for the 
+purpose of identifying large exposures (as defined by the market authority), 
+continuous monitoring, and an evaluative process?398 
+(b) Access to information, if needed, on the size and beneficial ownership of 
+positions held by direct customers of market intermediaries?  
+(c) The power to take appropriate action against a market participant that does not 
+provide relevant information needed to evaluate an exposure (e.g., require 
+liquidation of positions, increase margin requirements and/or revoke trading 
+privileges)?399 
+(d) The general power to take appropriate action, such as to compel market 
+participants carrying, or controlling, large positions to reduce their exposures or 
+to post increased margin? 
+2. Do arrangements, whether formal or informal, exist to enable markets and regulators to 
+share information on large exposures of common market participants, or on related 
+products: 
+(a) In the domestic jurisdiction?  
+(b) In other relevant jurisdictions?
+400 
+3. With respect to exchange-traded physical commodity derivatives markets, do relevant 
+market authorities (i) require the reporting of large trader positions for the relevant on-
+exchange commodity derivatives contracts and (ii) publish the aggregate exposures of 
+different classes of large traders, especially commercial and non -commercial 
+participants, within the bounds of maintaining trader confidence?
+401 
+                                                 
+398  See Report on Cooperation between Market Authorities and Default Procedures, supra, p. 3 par. 4. 
+399  Id, p. 4 par. 8. 
+400  Id, p. 4 par. 8 regarding the promotion of formal/informal mechanisms.  See also Report on Trading Halts 
+and Market Closures, supra, pp. 23–24. 
+401  See Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra, pp. 36 (large 
+positions) and 59 (publication of aggregate positions).
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+252 
+Default Procedures —  Transparency and Effectiveness  
+4. Does a market authority make its default procedures available to market participants, 
+including, specifically, information concerning: 
+(a) The general circumstances in which action may be taken? 
+(b) Who may take it? 
+(c) The scope of actions which may be taken.402 
+5. Do default procedures, and/or national law, permit markets, and/or the clearing and 
+settlement system(s), to promptly isolate the problem of a failing firm by addressing its 
+open proprietary positions, and positions it holds on behalf  of customers; or otherwise 
+protect customer funds and assets, from an intermediary’s default under national law? 
+6. Is there a mechanism by which market authorities for related products can consult with 
+each other in order to minimize the adverse effects of market disruptions?  
+Short Selling on Equity Markets
+403 
+7. Does the relevant market authority404 provide for: 
+(a) Controls which are appropriate to the equity market in question and that have as 
+their goal: to reduce or minimize the potential risks that could affect the orderly 
+and efficient functioning and stability of equity markets including, at a 
+minimum, a strict settlement of failed trades?    
+(b) A reporting regime that provides timely short selling information to the market 
+or, as a minimum requirement, to market authorities? 
+(c) As part of an effective compliance and enforcement system (assessed under 
+Principle 11): (i) measures that promote settlement discipline, including regular 
+monitoring by the market authority of settlement failures ; and (ii) surveillance 
+of short selling activities.  Any deficiency here should also be taken into account 
+in the assessment of Principle 11.  
+(d) Appropriate exceptions for certain types of transactions for efficient market 
+functioning and development (such as, but not limited to, bona fide  hedging, 
+market making and arbitrage activities)?   
+                                                 
+402  Id.  For a template or list of information that should be available to market participants as to market default 
+procedures regarding futures and options transactions. 
+403  See Regulation of Short Selling, Final Report, Report of the Technical Committee of IOSCO, June 2009, 
+available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD292.pdf, addresses short selling in equity 
+markets only.  For example, the report’s reference to naked short selling, capital markets, and the need for 
+a short settlement cycle illustrate the equity focus of the report.  
+404  Id, p. 4 fn. 2 describes the term “market authority” to include securities regulators, SROs, exchanges and 
+alternative trading facilities.  That report further states that “in some jurisdictions, short selling regulation 
+comprises statute-based requirements overseen by securities regulators and rules set by self-regulatory 
+organizations, exchanges or alternative trading systems”.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+253 
+Addressing Risks in the Commodity Derivatives Markets  
+8. Regarding authorities responsible for the supervision of exchange -traded physical 
+commodity derivatives markets (e.g., either the market, a governmental regulator or an 
+SRO) (“commodity derivatives market authorities)):  
+(a) Does the relevant market authority have and use formal position management 
+powers, including the power to set ex-ante position limits, particularly in the 
+delivery month?405  
+(b) Does the relevant market authority have the powers to employ additional 
+measures, as appropriate to address market disruption or the perceived threat of 
+such disruption? 
+Transactions in OTC Derivatives Markets 
+9. Are standardized OTC derivatives contracts with a suitable degree of liquidity required 
+to be traded on “ exchanges or electronic trading platforms” provided that a flexible 
+approach encompassing a range of platforms that would qualify as “ exchanges or 
+electronic trading platforms” for OTC derivatives is taken?  
+10. Are the platforms which may qualify as exchanges or electronic trading platforms for 
+mandatory OTC derivatives trading appropriately identified as such?  
+11. Are standardized OTC derivatives required to be cleared through CCPs? In particular, 
+has the market authority a clear process in place for the determination that a product or 
+set of products should be subject to a mandatory clearing obligation? 
+12. Is the determining authority able to consult with foreign authorities to minimize 
+inconsistencies among different regulatory standards on non- centrally cleared OTC 
+derivatives? 
+13. Are all OTC derivatives transactions not cleared by CCPs subject to appropriate 
+margining practices?  
+14. Are all financial firms and systemically important non-financial entities that engage in 
+non-centrally cleared OTC derivatives required to exchange initial and variation margin 
+as appropriate to the counterparty risks posed by such transactions? 
+15. Where required by the authority, do financial entities and systemically important non-
+financial entities that engage in non -centrally cleared OTC derivatives employ risk 
+mitigation techniques consistent with the standards set out by IOSCO in the report Risk 
+Mitigation Standards for Non-Centrally Cleared OTC Derivatives? 
+16. Are OTC derivatives contracts required to be reported to TRs?   
+17. Are transaction-level data on OTC derivatives required to be reported to TRs, including 
+at least transaction economics, counterparty information, underlier information, 
+operational data and event data?  
+                                                 
+405  See Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra, p. 40.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+254 
+18. Does the market authority have sufficient and timely access to relevant data in order to 
+carry out its respective mandate related to OTC derivatives?  
+19. Do reporting entities and counterparties have appropriate access to their own data stored 
+with TRs?  
+ 
+Explanatory Notes 
+“Large Exposure” Monitoring 
+Market authorities should closely monitor large exposures and share information with one 
+another in order to permit the appropriate assessment of risk.  The approach to large exposure 
+monitoring contained in this Methodology reflects, as noted in the Secondary and Other 
+Markets Methodology Preamble that “regulation may differ according to market structure, 
+market participant or product…”.  Accordingly, assessment of the related Key Questions 
+should recognize the different regulatory structures in place and the characteristics of markets.  
+For example, the Methodology recognizes that the large exposure monitoring function itself 
+may be performed by a regulatory body, an SRO, and/or the market itself (i.e., a “market 
+authority”).    
+Similarly, in stating that “trigger levels” (which are qualitative, or quantitative, criteria that are 
+used to identify a large exposure) should be established, the Principles and Key Question 1 
+makes clear that they should be “appropriate” to the markets in question.  In this regar d, the 
+determination of what constitutes a “large exposure” will be made by the relevant “market 
+authority” acting within its discretion.  It therefore follows that not every market will have the 
+same large exposure monitoring needs, trigger levels, or approach to monitoring.  These levels 
+will necessarily vary between different markets and contracts, and should be subject to regular 
+review to ensure that they are appropriate for current market conditions.  
+For example, in physical commodity derivatives markets, the relationship between the size of 
+a position, the trading intention behind it and the owner is of vital importance in the market 
+authority’s decision-making process with regard to a large position.  The justification for 
+holding a large position m ay well rest on the business function of the owner.  A commercial 
+market participant with large delivery commitments may well be able to justify a large position 
+in a commodity derivatives contract, but a non- commercial market participant with a similar 
+position may find it more difficult to argue the case.   
+To perform this monitoring function market authorities should have access to information on 
+the size and beneficial ownership of positions held by “direct” customers of market members 
+(i.e., the custom ers with whom the market member deals).  Market authorities can then take 
+the appropriate action, such as requiring the member to reduce the exposure, or increasing 
+margin requirements. 
+Market authorities should promote mechanisms that facilitate the shari ng of the above 
+information through appropriate channels.  Where a market member does not make the relevant 
+information available to the market authority, the authority should be able to take appropriate 
+action — while taking into account the mechanisms al ready provided by the CCP, such as: 
+imposing limitations on future trading by the member; requiring liquidation of positions; 
+increasing margin requirements; or revoking trading privileges.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+255 
+The Market and Financial Integrity Objectives of Large Exposure Monitoring 
+The monitoring program itself should be appropriate not only for the type of market, but also 
+for the monitoring objective – i.e., market integrity or financial integrity.  Differences between 
+equity and futures markets must be taken into account.     
+For example, large exposure monitoring in commodity futures markets for market integrity 
+purposes (i.e., market surveillance for the purpose of detecting possible manipulation or other 
+abusive trading) has been directly addressed by IOSCO.  This work makes clear that a “large 
+exposure” monitoring program is necessary with respect to commodity futures markets.
+406  
+IOSCO’s work also noted that, in relation to commodity futures markets, transparency of the 
+aggregate positions of large traders contributes to  both price discovery of futures markets as 
+well as providing data that might improve the analysis of any causal relationships between 
+financial and physical market activity.
+407   
+In contrast, IOSCO reports on the market integrity concerns of equity markets have focused on 
+the relationship between cash (equity) and derivatives markets during periods of market 
+disruption, and stressed the need for market authorities to be able to access information on 
+related positions.
+408   
+For both equity and derivatives markets, the financial integrity concerns that are related to large 
+credit exposures are dealt with in greater detail in the standards to be applied to securities 
+settlement systems, central securities depositories, trade repositories  and to central 
+counterparties; their related assessment methodologies that have been jointly adopted by 
+IOSCO and the Committee on Payment and Settlement Systems (CPSS now the Committee on 
+Payments and Market Infrastructures or CPMI), and may be jointly revised and adopted, from 
+time to time, by IOSCO and the CPSS (now CPMI).  Accordingly, in assessing a market 
+authority’s monitoring program that addresses credit exposures, assessment under Principle 38 
+should be undertaken and viewed as complementary to any separate assessment that  may be 
+conducted under the IOSCO-CPSS standards.    
+Defaults  
+Effective and Transparent — Regulators should ensure that the procedures relating to defaults 
+are effective and transparent.  Market authorities should make relevant information concerning 
+market default procedures available to market participants.  
+Consultation and Information Shari ng —  Market authorities for related products (cash or 
+derivative) should consult with each other, as soon as practicable, with a view to minimizing 
+the adverse effects of market disruption.  The information that may be needed includes 
+contingency plans, contact persons, and structural measures to address market disruption; and 
+information about market conditions (such as actions taken by market authorities, prices, 
+trading activities and aggregate market data).   
+Instability may result from events that occu r in another jurisdiction or occur across several 
+jurisdictions, so regulators’ responses to market disruptions should seek to facilitate stability 
+domestically and globally through cooperation and information sharing. 
+                                                 
+406  Id, pp. 36–38. 
+407  Id, pp. 58–59.     
+408  See Mechanisms to Enhance Open and Timely Communication between Market Authorities of Related 
+Cash and Derivative Markets During Periods of Market Disruption, supra, and Coordination between 
+Cash and Derivative Markets, supra.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+256 
+Insolvency Law — The legal system mus t support effective and legally secure arrangements 
+for default handling.  This is a matter that extends beyond securities law to the insolvency 
+provisions of a jurisdiction.  Insolvency law must support isolating risk, and retaining and 
+applying margin previously paid into the system, notwithstanding a default or commencement 
+of an administration or bankruptcy proceeding. 
+For example, the following mechanisms can be relevant to addressing a financial failure or 
+market disruption; however, other mechanisms also may be adequate if the objectives of: 
+isolating risk; and protecting funds from being taken to cover the intermediary’s default, are 
+achieved. 
+• National insolvency laws that specifically accommodate market default procedures.  
+• Central bank guarantees. 
+• The use of the defaulting firm’s proprietary funds and assets to meet its obligations to 
+market counterparties. 
+• The transfer or liquidation of customer positions at the defaulting firm under market 
+rules without interference from bankruptcy law.
+409 
+• The transfer of customer funds and assets, or use of a guarantee system. 
+• Where customer positions or funds are to be transferred, arrangements for 
+distinguishing firm and customer positions, deposits and accruals.  
+The regulator should identify any concerns with respect to applicable bankruptcy law. 
+Assessments of Principle 37 should take account of any vulnerability in risk management 
+identified with respect to Principle 38, and there should be close communication as to any 
+findings under this Principle and the Principle relating to Clearing and Settlement. 
+Short Selling 
+Short selling is regarded as a useful mechanism in some jurisdictions to aid liquidity.  It plays 
+an important role in the market for a variety of reasons, such as providing more efficient price 
+discovery, as well as potentially mitigating market bubbles and facilitating hedging and other 
+risk management activities.  However, there is also a general concern that, especially in extreme 
+market conditions, certain types of short selling, or the use of short selling in combination with 
+certain abusive strategies, may contribute to disorderly markets.  When short selling is 
+introduced, an effective regulatory framework should be put in place.  The primary objective 
+of such regulation would be to reduce the potential destabilizing effect that short selling, used 
+in an abusive manner, can cause without exerting undue impact on securities lending, hedging 
+and other types of transactions that are critical to capital formation and to reducing volatility 
+(such as  those used for risk management purposes).  Short selling regulation should allow 
+appropriate exceptions for certain types of transactions for efficient market functioning and 
+development. 
+                                                 
+409  Liquidation is acceptable in cases where the nature of the position makes transfer impracticable, or in cases 
+where a customer may not have completed the documentation necessary for the transfer or the applicable 
+regulation does not allow for transfers.  See also Report on Cooperation between Market Authorities and 
+Default Procedures, supra, par. 6(3).  The market, however, should not be required to maintain open 
+unsettled transactions once a direct participant has defaulted.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+257 
+In respect of Key Question 6(c) , monitoring and surveillance are components of an effective 
+compliance and enforcement system which can be carried out through the reporting of short 
+positions, and/or flagging of short sales.  Market authorities of jurisdictions that have a short 
+sale flagging, and/or short position reporting, regime are encouraged to establish a mechanism 
+to analyze the information obtained through short selling reporting to identify potential market 
+abuses and systemic risk. 
+Addressing Risks in the Commodity Derivatives Markets  
+Disorderly conditions in physical commodity derivatives markets can have significant negative 
+effects on national economies.  Accordingly, it is critical that market authorities have the 
+necessary powers to intervene in the markets to address disorderly co nditions.  These should 
+necessarily include position management powers that:  
+(a) Establish a trader’s automatic consent to follow an order of the market authority when 
+that trader’s position reaches a defined threshold size or any size, which the market 
+authority considers prejudicial to orderly market functioning, taking into account all 
+relevant circumstances.  They should also require such a trader to comply with the 
+market authority’s order, either not to increase a position or to decrease a position; and  
+(b) Authorize a market authority to place ex- ante restrictions on the size of a position a 
+market participant can take in a commodity derivatives contract (i.e., position limits). 
+In particular, there should be a credible use by market authorities of powers to stabilize markets 
+should disorderly conditions exist, including by ordering market participants to reduce the 
+levels of their positions, if that outcome is deemed necessary by the relevant market authority.  
+The flexibility provided by position management powers to intervene where specific 
+circumstances so require is an effective way of preventing manipulation and disorderly markets 
+arising from large positions (e.g. positions amassed close to the settlement date of physical 
+delivery), especially concerning participants that are not hedging their positions in the physical 
+markets.
+410 
+Further, market authorities should also have the powers to employ any of the following 
+measures, as appropriate, to address market disruption or the perceived threat of such 
+disruption: 
+(a) the imposition of price movement limits; 
+(b) calling for additional margin, either from customers or from clearing members on 
+behalf of their clients;  
+(c) ordering the liquidation or transfer of open positions;  
+(d) suspending or curtailing trading on the market (e.g., trading halts and circuit breakers);  
+(e) altering the delivery terms or conditions;  
+(f) cancelling trades;  
+(g) requiring owners of positions to specify delivery intentions; and 
+(h) requiring traders to disclose related OTC derivatives or large physical market positions. 
+                                                 
+410  See Principles for the Regulation and Supervision of Commodity Derivatives Markets, supra, p. 41.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+258 
+The dynamic nature of markets requires market authorities to assess whether their existing 
+policies are adequate to address changing market structures, trading technologies and practices.  
+Market authorities should therefore review their existing powers in light of changing market 
+conditions and, if necessary, seek additional powers as appropriate.   
+Transactions in OTC Derivatives Markets 
+Regulators may consider implementing organized platform trading mandates through a two-
+step, phased -in process, which would allow regulators to observe the market’s reaction to 
+mandatory trading requirements and to adjust implementation of future phases accordingly.  
+The first step of this phased-in approach would focus on OTC derivatives products with some 
+minimum proportion of their overall trading presently taking place on organized platforms.  
+Taking into account market dynamics, regulators then could mandate that a portion of such 
+derivatives products be traded in a certain proportion or exclusively on organized platforms by 
+a specified date.  
+In the second step of the approach, regulators would establish a set of publicly disclosed criteria 
+and then mandate that a derivatives product or class of products, once satisfying such criteria, 
+trade in a certain proportion or exclusively on organized platforms (e.g., impose a requirement 
+that once a derivatives product is accepted for central clearing, all future transactions in that 
+derivatives product or class of products must be traded on organized platforms where organized 
+platforms exist to accept such trades).  In establishing specific criteria for requiring trading on 
+organized platforms, regulators should be aware that market participants may attempt to evade 
+required trading by seeking to design activities that fall short of published standards.  
+Standardized derivatives trading can be undertaken on trading platforms that take multiple 
+forms and exhibit a range of characteristics, but that have certain common elements, including 
+access provisions, transparency requirements, trading rules, operational efficiency, resiliency, 
+structural arrangements, and market surveillance capacities.  Market regulators may specify the 
+types of trading platforms that are most appropriate for mandatory derivatives trading in their 
+jurisdiction, taking into account the direct relationship between a platform’s level of structure 
+and the liquidity of the derivatives product that is appropriate for trading on such a platform.  
+At a minimum, the platform should satisfy the following characteristics: 
+• Registration of the platform with a competent regulatory authority, including 
+requirements relating to financial resources and operational capability;  
+• Access for participants based on objective and fair criteria that are applied in an 
+impartial, non-discriminatory manner;  
+• Pre- and post-trade transparency arrangements which are appropriate to the nature and 
+liquidity of the product and the functionalities offered by the platform;  
+• Operational efficiency and resilience including approp riate linkages to post- trade 
+infrastructure and measures to handle potential disruption to the platform;  
+• Active market surveillance capabilities, including audit trail capability;  
+• Transparent rules governing the operation of the platform; and  
+• Rules that  do not permit a platform operator to discriminate between comparable 
+platform participants in relation to the interaction of buying and selling interests within 
+the system, whether fully electronic or hybrid.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+259 
+The following additional characteristic may also be considered: 
+• The opportunity for platform participants to seek liquidity and trade with multiple 
+liquidity providers within a centralized system. 
+There are two general approaches to the determination that a product or set of products should 
+be subject to a mandatory clearing obligation:  
+• The bottom-up approach considers products that a CCP proposes to, or is authorized to, 
+clear; and  
+• The top-down approach considers products that should be assessed for a mandatory 
+clearing obligation, but where there may be no CCP clearing, or seeking to clear, that 
+product.  
+Authorities implementing a mandatory clearing regime should clearly set out the criteria 
+against which mandatory clearing obligations will be assessed in its jurisdiction. 
+Moreover, in assessing a mandatory clearing obligation, a determining authority should 
+consider information from a range of sources, including TRs.  
+A determining authority should consult with stakeholders as part of its decision-making process 
+as part of a top -down approach and through a public consultation in the case of a bottom -up 
+approach.  A determining authority should seek to narrowly define exemptions and limit their 
+number, as appropriate.  A determining authority should clearly communicate the terms of any 
+exemptions from mandatory clearing obligations, whether permanent or temporary, for both 
+product and participant level exemptions.  
+Authorities should closely cooperate to identify overlaps, conflicts and gaps between regimes 
+with respect to cross -border application of the clearing obligation.  Authorities should 
+coordinate their approaches via multilateral or bilateral channels to red uce such issues, to the 
+extent possible.  
+TRs are entities that maintain a centralized electronic record (database) of OTC derivatives 
+transaction data.  By centralizing the collection, storage and dissemination of data, TRs can 
+play an important role in p roviding information that supports risk reduction, operational 
+efficiency and cost savings for both individual entities and the market as a whole.  Reporting 
+of OTC derivatives data to a TR enables authorities to ascertain accurate information 
+concerning an OTC derivatives contract shortly after it is entered into, as well as information 
+concerning any changes to the contract throughout its existence.  In addition, given their 
+centralized role, TRs are able to provide information on OTC derivatives markets that could 
+serve to: (i) promote financial stability; (ii) assist in the detection and prevention of market 
+abuse; and (iii) enhance the transparency of information to relevant authorities and the public. 
+Risk mitigation techniques for non- centrally cleared OTC derivatives have the benefit of: a) 
+promoting legal certainty and facilitating timely dispute resolution; b) facilitating the 
+management of counterparty credit and other risks; and c) increasing the overall financial 
+stability.
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+260 
+The market for non- centrally cleared OTC derivatives is global in scope.  Key market 
+participants in the derivatives markets frequently deal with counterparties on a cross- border 
+basis.  Given the global nature of the market, the effectiveness of the risk mitigation 
+requirements could be undermined, if inconsistent requirements are adopted.  The different 
+regulatory regimes should interact to minimize inconsistencies in risk-mitigation requirements 
+for non-centrally cleared OTC derivatives across jurisdictions. 
+ 
+Benchmarks 
+Fully Implemented 
+Requires affirmative responses to all applicable Questions taking into account that the 
+combination of mechanisms enumerated in Question 5 available in the jurisdiction are 
+sufficient to reduce the impact of any failure and in particular to isolate risk to the failing 
+institution.411 
+Broadly Implemented 
+Requires affirmative responses to all applicable Questions subject to an evaluation of 
+the mechanisms in Question 5, except to Questions 1(a), 1(b), 1(c), 2(b), 4(a), and 6, 
+provided that other me asures are in place to address cross- market risks,
+412 and 12 and 
+19, and only minor deficiencies in Question 7(c) or 7(d).  
+Partly Implemented 
+Requires affirmative responses to all applicable Questions except to Questions 1(a), 
+1(b), 1(c), 2(b), 4(a), 6 and 7(a) and 7(b), and 10, 12, 14, 15, 17, 18 and 19. 
+Not Implemented 
+Inability to respond affirmatively to one or more of Questions 1(d), 2(a) if applicable, 
+4(b), 4(c), 5, or 7(a) and 7(b), and 8, 9, 11, 13 if applicable and 16, or bankruptcy or 
+other relevant national law is uncertain or does not support isolation of risk to the failing 
+firm and effective management of a disruption. 
+  
+                                                 
+411  The responses to market disruption should seek to facilitate stability domestically and globally through 
+cooperation and information sharing. 
+412  Exception reporting based on a surveillance program is consistent with the monitoring contemplated by 
+Key Question 1(a).
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+261 
+BIBLIOGRAPHY FOR PRINCIPLES RELATING TO SECONDARY AND 
+OTHER MARKETS 
+ 
+ Document Principles Other 
+Principles 
+1 Mechanisms for Trading Venues to Effectively Manage 
+Electronic Trading Risks and Plans for Business Continuity , 
+Final Report, Report of the Board of IOSCO, December 2015, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD522.pdf. 
+33 
+34 
+ 
+2 Post-Trade Transparency in the Credit Default Swaps Market , 
+Final Report of the Board of IOSCO, August 2015, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD499.pdf 
+35 
+36 
+ 
+3 Margin Requirements for Non- Centrally Cleared Derivatives, 
+Report by IOSCO and Basel Committee on Banking 
+Supervision, March 2015,  
+http://www.bis.org/bcbs/publ/d317.pdf 
+37  
+4 Risk Mitigation Standards for Non- Centrally Cleared OTC 
+Derivatives, Report of IOSCO, January 2015,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD469.pdf 
+37  
+5 Regulatory Issues Raised by Changes in Market Structure, Final 
+Report of the Board of IOSCO, December 2013,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD431.pdf. 
+33 
+34 
+ 
+6 Principles for Financial Benchmarks , Report of the Board of 
+IOSCO, July 2013,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD415.pdf  
+36 7 
+7 Technological Challenges to Effective Market Surveillance: 
+Issues and Regulatory Tools, Final Report, Report of the Board 
+of IOSCO, April 2013,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD412.pdf 
+36  
+8 Principles for Financial Market Infrastructures , Report of the 
+Technical Committee of IOSCO and the Committee on Payment 
+and Settlement Systems (CPSS), April 2012,   
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD377-PFMI.pdf 
+33 38
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+262 
+ Document Principles Other 
+Principles 
+9 Requirements for Mandatory Clearing, Report of the Technical 
+Committee of IOSCO, February 2012,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD374.pdf 
+37  
+10 Regulatory Issues Raised by the Impact of Technological 
+Changes on Market Integrity and Efficiency , Report of the 
+Technical Committee of IOSCO, October 2011,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD361.pdf.   
+33 
+34 
+37 
+ 
+11 Principles for the Regulation and Supervision of Commodity 
+Derivatives Markets, Final Report, Report of the Technical 
+Committee of IOSCO, September 2011,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD358.pdf. 
+33 
+34 
+35 
+36 
+ 
+12 Principles for Dark Liquidity, Final Report, Report of the 
+Technical Committee of IOSCO, May 2011,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD353.pdf. 
+33 
+34 
+35 
+ 
+13 Report on Trading of OTC Derivatives, Report of the Technical 
+Committee of IOSCO, February 2011,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD345.pdf 
+37  
+14 Task Force on Commodity Futures Markets, Report to the G-20, 
+Report of the Technical Committee of IOSCO, November 2010,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD340.pdf  
+37  
+15 Principles for Direct Electronic Access to Markets , Final 
+Report, Report of the Technical Committee of IOSCO, August 
+2010,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD332.pdf 
+33 31 
+16 Transparency of Structured Finance Products , Final Report, 
+Report of the Technical Committee of IOSCO, July 2010, 
+available at  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD326.pdf 
+35
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+263 
+ Document Principles Other 
+Principles 
+17 Task Force on Commodity Futures Markets, Report to the G-20, 
+Report of the Technical Committee of IOSCO, June 2010,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD324.pdf 
+37  
+18 Principles Regarding Cross- Border Supervisory Cooperation, 
+Final Report , Report of the Technical Committee of IOSCO, 
+May 2010, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD322.pdf. 
+33 
+34 
+13 
+14 
+15 
+19 Principles on Outsourcing by Markets, Final Report, Report of 
+the Technical Committee of IOSCO, July 2009,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD299.pdf. 
+33  
+20 Regulation of Short Selling , Final Report, Report of the 
+Technical Committee of IOSCO, June 2009,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD292.pdf 
+37  
+21 Task Force on Commodity Futures Markets , Final Report, 
+Report of the Technical Committee of IOSCO, March 2009,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD285.pdf 
+36 
+37 
+ 
+22 Multi-Jurisdictional Information Sharing for Market Oversight, 
+Final Report , Report of the Technical Committee of IOSCO, 
+April 2007,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD248.pdf. 
+33  
+34 
+36 
+13 
+23 Regulatory Issues Arising from Exchange Evolution, Final 
+Report, Report of the Technical Committee of IOSCO, 
+November 2006,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD225.pdf. 
+33 
+34 
+ 
+24 High Level Principles for Business Continuity, Report of the 
+Joint Forum, August 2006,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD224.pdf 
+37  
+25 Policies on Error Trades, Final Report, Report of the Technical 
+Committee of IOSCO, October 2005,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD208.pdf.   
+33
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+264 
+ Document Principles Other 
+Principles 
+26 Recommendations for Central Counterparties , Final Report, 
+Report of the Technical Committee of IOSCO and the 
+Committee on Payment and Settlement Systems (CPSS), 
+November 2004, 
+ https://www.iosco.org/library/pubdocs/pdf/IOSCOPD176.pdf. 
+33 38 
+27 Transparency of Corporate Bond Markets , Report of the 
+Technical Committee of IOSCO, May 2004,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD168.pdf 
+35 
+36 
+ 
+28 Indexation: Securities Indices and Index Derivatives, Report of 
+the Technical Committee of IOSCO, February 2003,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD143.pdf, 
+36  
+30 Report on Trading Halts and Market Closures , Report of the 
+Technical Committee of IOSCO, November 2002, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD138.pdf. 
+33 
+34 
+37 
+ 
+31 Transparency and Market Fragmentation , Report of the 
+Technical Committee of IOSCO, November 2001, available at 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD124.pdf 
+35  
+32 Principles for the Oversight of Screen -Based Trading Systems 
+for Derivatives Products —  Review and Additions, Report of the 
+Technical Committee of IOSCO, October 2000, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD111.pdf. 
+33 
+34 
+13 
+15 
+33 Investigating and Prosecuting Market Manipulation, Report of 
+the Technical Committee of IOSCO, May 2000, available at  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD103.pdf. 
+36  
+34 Supervisory Framework for Markets , Report of the Technical 
+Committee of IOSCO, May 1999,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD90.pdf 
+33 
+34 
+36 
+37
+
+PRINCIPLES RELATING TO SECONDARY AND OTHER MARKETS  
+265 
+ Document Principles Other 
+Principles 
+35 Application of the Tokyo Communiqué to Exchange -Traded 
+Financial Derivatives Contracts , Report of the Technical 
+Committee of IOSCO, September 1998,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD85.pdf. 
+33 
+34 
+36 
+37 
+ 
+36 Report on Cooperation between Market Authorities and Default 
+Procedures, Report of the Technical Committee of IOSCO, 
+March 1996,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD49.pdf 
+37 32 
+37 Report on Issues in the Regulation of Cross-Border Proprietary 
+Screen-Based Trading Systems , Report of IOSCO, 
+October 1994, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD42.pdf. 
+33  
+38 Mechanisms to Enhance Open and Timely Communication 
+between Market Authorities of Related Cash and Derivative 
+Markets During Periods of Market Disruption , Report of the 
+Technical Committee of IOSCO, October 1993, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD29.pdf. 
+33 
+34 
+37 
+ 
+39 Transparency on Secondary Markets: A Synthesis of the IOSCO 
+Debate, Report of the Technical  Committee of IOSCO, 
+December 1992, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD27.pdf 
+35  
+40 Coordination between Cash and Derivative Markets , Report of 
+the Technical Committee of IOSCO, October 1992, 
+https://www.iosco.org/library/pubdocs/pdfdocs/IOSCOPD22.pdf. 
+33 
+34 
+37 
+ 
+41 Screen-Based Trading Systems for Derivative Products, Report 
+of the Technical Committee of IOSCO, June 1990,  
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD6.pdf. 
+33
+
+PRINCIPLE RELATING TO CLEARING AND SETTLEMENT  
+266 
+J. PRINCIPLE RELATING TO CLEARING AND SETTLEMENT 
+Principle 38 Securities settlement systems, central securities depositories, trade 
+repositories and central counterparties should be subject to regulatory 
+and supervisory requirements that are designed to ensure that they are 
+fair, effective and efficient and that they reduce systemic risk. 
+Because of the potential for disruptions to securities and derivatives markets and to payment 
+and settlement systems, both domestic and non-domestic, securities settlement systems (SSSs) 
+central counterparties (CCPs), central securities deposit ories (CSDs) and trade repositories 
+(TRs) should be subject to effective regulation and oversight to ensure that they are fair, 
+effective, and efficient; and that they reduce systemic risk.  Regulators should be prepared to 
+cooperate with each other and other relevant authorities, including central banks and resolution 
+authorities, both domestically and internationally, to address potential domestic and cross -
+border risks. 
+In particular, in April 2012, the then Committee on Payments and Settlement Systems (CPSS) 
+(and currently the Committee on Payments and Market Infrastructures (CPMI)) and the 
+Technical Committee of the International Organization of Securities Commissions (IOSCO) 
+published the standards report Principles for Financial Market Infrastructures (PFMI).
+413  The 
+new standards largely replace the three existing sets of international standards set out in the 
+Core
+ Principles for Systemically Important Payment Systems (CPSS, 2001); the 
+Recommendations for Securities Settlement Systems (CPSS-IOSCO, 2001); and the 
+Recommendations for Central Counterparties (CPSS-IOSCO, 2004). 414  CPMI and IOSCO 
+have strengthened and harmonized these three sets of standards by raising minimum 
+requirements, providing more detailed guidance and broadening the scope of the standards to 
+cover new risk -management areas and new types of financial market  infrastructures (FMIs).  
+The PFMI also incorporate additional detailed guidance for CCPs and TRs handling over-the-
+counter (OTC) derivatives. 
+In general, these new standards are expressed as broad principles in recognition of FMIs’ 
+differing organizations, functions and designs and the range of ways potentially available to 
+achieve a particular result.  In some cases, however, the PFMI do incorporate a specific 
+quantitative minimum (such as in the credit, liquidity and general business risk principles) to 
+promote a common base level of risk management across FMIs and countries.  In addition to 
+the new principles themselves, the PFMI also outline the general responsibilities of relevant 
+authorities for FMIs in implementing these standards.  In the context of  assessing a regulator, 
+it is these responsibilities that are applicable. 
+                                                 
+413   See Report of the Technical Committee of IOSCO and the Committee on Payment and Settlement Systems 
+(CPSS), April 2012, available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD377-PFMI.pdf.  
+414  One example of standards the PFMI did not replace are the marketwide recommendations in the 
+Recommendations for Securities Settlement Systems (Report of the Technical Committee of IOSCO and 
+the CPSS, November 2001, available at https://www.iosco.org/library/pubdocs/pdf/IOSCOPD123.pdf
+), 
+those recommendations remain in effect.
+
+PRINCIPLE RELATING TO CLEARING AND SETTLEMENT  
+267 
+Accompanying the PFMI Report, CPMI and IOSCO have also published Principles  for 
+Financial Market Infrastructures: D isclosure Framework and A ssessment M ethodology.415  
+The disclosure framework and the assessment methodology are intended to promote consistent 
+disclosures of information by FMIs and consistent assessments by international financial 
+institutions and national authorities. 
+  
+                                                 
+415  See Report of the Board of IOSCO and the CPSS, December 2012, available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD396.pdf.
+
+PRINCIPLE RELATING TO CLEARING AND SETTLEMENT  
+268 
+BIBLIOGRAPHY FOR PRINCIPLE RELATI NG TO CLEARING AND 
+SETTLEMENT 
+ 
+ Document Principles Other 
+Principles 
+1 Principles for F inancial Market Infrastructures: Disclosure 
+Framework and Assessment M ethodology, Report of the 
+Board of IOSCO and the CPSS, December 2012,  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD396.pdf  
+38  
+2 Principles for Financial Market Infrastructures, Report of the 
+Technical Committee of IOSCO and the Committee on 
+Payment and Settlement Systems (CPSS), April 2012, 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD377-PFMI.pdf 
+38 33 
+3 Recommendations for Central Counterparties , Final Report, 
+Report of the Technical Committee of IOSCO and the 
+Committee on Payment and Settlement Systems (CPSS), 
+November 2004, 
+ https://www.iosco.org/library/pubdocs/pdf/IOSCOPD176.pdf. 
+38 33 
+4 Recommendations for Securities Settlement Systems, Report 
+of the Technical Committee of IOS
+CO and the CPSS, 
+November 2001, 
+https://www.iosco.org/library/pubdocs/pdf/IOSCOPD123.pdf 
+38
+
+269 
+Appendix 1 — The Legal Framework  
+Effective securities regulation depends upon an appropriate legal framework.  The matters to 
+be addressed in the domestic laws of a jurisdiction include: 
+1 Company Law 
+1.1 company formation 
+1.2 duties of directors and officers 
+1.3 regulation of takeover bids and other transactions intended to effect a change in 
+control 
+1.4 laws governing the issue and offer for sale of securities 
+1.5 disclosure of information to security holders to enable informed voting decisions 
+1.6 disclosure of material shareholdings 
+2 Commercial Code / Contract Law 
+2.1 private right of contract 
+2.2 facilitation of securities lending and hypothecation 
+2.3 property rights, including rights attaching to securities, and the rules governing the 
+transfer of those rights 
+3 Taxation Laws 
+3.1 clarity and consistency, including, but not limited to, the treatment of investments 
+and investment products 
+4 Bankruptcy and Insolvency Laws 
+4.1 rights of security holders on winding up 
+4.2 rights of clients on insolvency of intermediary 
+4.3 netting 
+5 Competition Law 
+5.1 prevention of anti-competitive practices 
+5.2 prevention of unfair barriers to entry 
+5.3 prevention of abuse of a market dominant position 
+6 Banking Law 
+7 Dispute Resolution System 
+7.1 a fair and efficient judicial system (including the alternative of arbitration or other 
+alternative dispute resolution mechanisms) 
+7.2 enforceability of court orders and arbitration awards, including foreign orders and 
+awards

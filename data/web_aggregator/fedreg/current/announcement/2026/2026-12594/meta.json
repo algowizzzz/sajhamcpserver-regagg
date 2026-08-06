@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12594",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities: Information Collection Renewal; Submission for OMB Review; Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/23/2026-12594/agency-information-collection-activities-information-collection-renewal-submission-for-omb-review",
+  "reference_number": "2026-12594",
+  "published_date": "2026-06-23",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d418acff929c4db42e085434a3e7840ce831c33295aba3e076db6b13effd85a7",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12594",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

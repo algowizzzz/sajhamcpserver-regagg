@@ -1,0 +1,1 @@
+Summary: # Statement of Comprehensive Income, Retained Earnings and AOCI (P3)

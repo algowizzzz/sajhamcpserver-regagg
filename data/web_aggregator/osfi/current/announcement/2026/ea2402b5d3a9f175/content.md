@@ -1,0 +1,59 @@
+# Relevé des changements (N3)
+
+Information
+
+Type de document
+
+Relevé des changements
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé des prêts en souffrance (N3)
+
+Dernière révision
+
+Novembre 2019
+
+Numéro de relevé
+
+N3
+
+Documentation
+
+* [Prêts en souffrance (N3)](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/prets-en-souffrance-n3)
+
+Relevé des modifications
+
+| Numéro de la modification | Date d’établissement du rapport | Numéro de la page | Description |
+| --- | --- | --- | --- |
+| 1 | T1 1998 | 2, 4 | **Ajout :**  * *Section II - Prêts hypothécaires en souffrance*    Il sagit des prêts hypothécaires en souffrance visant des biens situés à l'étranger. |
+| 2 | T1 2000 | 1 | **Ajout :**  * Article 600 de la *Loi sur les banques* (s'applique aux succursales de banques étrangères)   **Modification :**   * L'article 523 de la *Loi sur les banques* est maintenant l'article 628 |
+| 3 | T1 2008 | 2, 4 | **Modification :**  * Prêts douteux bruts est remplacé par Prêts non hypothécaires douteux bruts |
+| 4 | T1 2009 | 2 | **Suppression :**  * La copie du formulaire qui se trouvait dans ce guide a été supprimée et nous en avons fait un document distinct qui est maintenant affiché sur le site Web du BSIF * Référence 2(a)(iv) ou 2(b)(iv) |
+| 2, 3, 4 | **Modification :**  * Référence au poste 11(f) a été modifiée au poste 3(a)(vi) * Référence au poste 12 a été modifiée au poste 3(b) |
+| 4, 5 | **Ajout :**  * Instructions sous Section II – Postes pour mémoire * Instructions sous Section III – Prêts titrisés reconnus et non reconnus en souffrance |
+| 5 | T1 2010 | 3 | **Modification :**  * Prêts non hypothécaires est remplacé par Encours des prêts non hypothécaires bruts ainsi que les instructions relatives * Montant brut des prêts non hypothécaires en souffrance est remplacé par Montant brut de l'encours des prêts non hypothécaires (courant et en souffrance) ainsi que les instructions relatives |
+| 4 | **Modification :**  * Prêts hypothécaires est remplacé par Encours des prêts hypothécaires bruts ainsi que les instructions relatives * Montant brut des prêts hypothécaires en souffrance est remplacé par Montant brut de l'encours des prêts hypothécaires (courant et en souffrance) ainsi que les instructions relatives |
+| 6 | T1 2012 | Instructions : | |
+| 4 | **Suppression :**  * (c) PMI, sous la Section II – Postes pour mémoire   **Modification :**   * (d) AIG United Guarantee a été modifié pour (c) Canada Guarantee Mortgage Insurance Company, sous la Section II – Postes pour mémoire |
+| Gabarit : | |
+| 2 | **Suppression :**  * Ligne 1(c) sous la Section II – Postes pour mémoire   **Modification :**   * 1(d) AIG United Guarantee est remplacé par (c) Canada Guarantee Mortgage Insurance Company, sous la Section II – Postes pour mémoire |
+| 7 | T1 2017 | Instructions : | |
+| 3,4 | **Ajout :**   * Ajustements comptables pour bilan sous les sections I et II |
+| Gabarit : | |
+| 1 | **Ajout :**   * Nouvelle colonne ajoutée aux sections I et II : Ajustements comptables aux fins du bilan |
+| 8 | T1 2018 | Instructions : | |
+| 3, 4 | **Modification :**  * Provision pour créances douteuses est remplacé par Provision pour pertes de crédit attendues |
+| 3 | **Modification :**  * Prêts non hypothécaires douteux bruts est remplacé par Total – Prêts non hypothécaires de crédit douteux |
+| 4 | **Modification :**  * Prêts hypothécaires douteux bruts est remplacé par Total – Prêts hypothécaires de crédit douteux |
+| Gabarit : | |
+| 1 | **Modification :**  * Provision pour créances douteuses est remplacé par Provision pour pertes de crédit attendues sous les sections I et II * Prêts non hypothécaires douteux bruts est remplacé par Prêts non hypothécaires de crédit douteux sous la section I * Prêts hypothécaires douteux bruts est remplacé par Prêts hypothécaires de crédit douteux sous la section II |
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2019-11-28

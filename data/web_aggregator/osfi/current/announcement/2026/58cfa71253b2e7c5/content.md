@@ -1,0 +1,191 @@
+# Guide for Applications under Section 2 of the Information Technology Activities Regulations
+
+[PDF, 101 kB](/sites/default/files/2023-07/InfoTech_Guide_May04.pdf)
+
+**Type of Publication:** Instruction Guide  
+**Category:** Application Guides  
+**Date:** May 2004  
+**Audiences:** Banks / FBB  / T&L  / Coop  / P&C
+
+## Table of contents
+
+## 1.0 Introduction
+
+The *Information Technology Activities Regulations*[Footnote11](#fnb1) (the Regulations) provide federally regulated financial institutions (FRFIs) with the flexibility to engage in information technology activities beyond those that pertain to the business of a FRFI, relate to providing information that is primarily financial or economic in nature, or relate to the business of a permitted entity.
+
+This Instruction Guide sets out the information requirements and assessment factors that will be used by OSFI to evaluate applications to the Minister under section 2 of the Regulations.
+
+The Instruction Guide does not provide advice on the interpretation of any other aspects or provisions of the financial legislation that pertain to the business of a FRFI, nor does it provide guidance on how legislative provisions might interact or overlap.
+
+## 2.0 Definitions
+
+For the purpose of this Instruction Guide,
+
+**“FRFI group”**
+:   includes the FRFI and any of the entities referred to in subsection 464(2) of the *Bank Act*, subsection 449(2) of the *Trust and Loan Companies Act*, subsection 490(2) of the *Insurance Companies Act*, and subsection 386(2) of the *Cooperative Credit Associations Act*.
+
+**“information technology activities”**
+:   means activities to develop, design, hold, manage, manufacture, sell or otherwise deal with technology facilities.
+
+**“materially related information technology activities”**
+:   (MRITAs) means information technology activities where the technology facility is used for a purpose or in a circumstance that is materially related to the provision of financial products or services by the FRFI group in a non-financial context.
+
+**“non-financial context”**
+:   means the use of a technology facility for a purpose or in a circumstance that does not appertain to the business of providing financial products or services.
+
+**“technology facilities”**
+:   means data transmission systems, information sites, communication devices or information platforms or portals.
+
+## 3.0 Legislative Authority
+
+* Subparagraph 410(1)(c.1)(iii), paragraph 468(2)(f) and subparagraph 539(1)(b.2)(iii) of the *Bank Act*
+* Subparagraph 410(1)(c.1)(iii) and paragraph 453(2)(f) of the *Trust and Loan Companies Act*
+* Subparagraph 376(1)(c.1)(iii) and paragraph 390(2)(f) of the *Cooperative Credit Associations Act*
+* Subparagraph 441(1)(d.1)(iii) and paragraph 495(2)(f) of the *Insurance Companies Act*
+
+## 4.0 Process for Assessing Applications (see Annex 1)
+
+OSFI will undertake the following sequential review when a FRFI applies to the Minister to engage in, or invest in an entity that engages in, MRITAs:
+
+* **Step 1:** OSFI will consider whether the proposal fits within the scope of the Regulations.
+* **Step 2:** OSFI will review the application to establish whether it fits within one of the examples listed in Annex 2. A positive recommendation for ministerial approval will generally be made in situations where OSFI determines that the proposal will not have significant negative implications for the safety and soundness of the applicant, and the proposed MRITA fits within one of the examples.
+* **Step 3:** Applications that do not fit within one of the examples will be considered in greater detail by assessing the proposal against each of factors A, B and C outlined in 4.1.
+
+### 4.1 Assessment factors
+
+As a general rule, the degree of flexibility provided to the FRFI group to engage in MRITAs, or invest in an entity that engages in MRITAs, will depend on how closely linked the use of the technology facility is to the FRFI group’s provision of financial products and services. Greater flexibility will be given to the FRFI group when it can demonstrate that the use of the technology facility is inherent to the FRFI group’s provision of financial products or services (i.e., A.1 below). Undertakings restricting the FRFI group’s ability to engage in MRITAs, or invest in an entity that engages in MRITAs, may be required in circumstances where the use of the technology facility is less closely linked to the FRFI group’s provision of financial products or services (i.e., A.2 and/or A.3 below).
+
+1. **The relationship between the proposed MRITA and the provision of financial products and services by the FRFI group.** This would include the proportion of the proposed MRITA to the financial activities of the FRFI group. Under factor A, FRFIs should demonstrate how the proposed MRITA fits within at least one of A.1, A.2 or A.3:
+
+   * A.1 **How the proposed MRITA is inherent to the provision of financial services or products.** When the technology facility is used for a purpose or in a circumstance that is inherent to the provision of financial products or services, the FRFI will be given full flexibility to:
+     + engage in MRITAs where the technology facility would be used in a non-financial context; or
+     + invest in an entity that engages in MRITAs where the technology facility would be used in a non-financial context.
+   * A.2 **How the proposed MRITA would be an efficient use of excess capacity or expertise.** A FRFI group may have excess capacity with respect to a technology facility used for the provision of a financial product or service, or for the business of a permitted entity. As well, a member of a FRFI group may have expertise that resulted from their information technology activities. An efficient use of this excess capacity or expertise would be where a FRFI proposes to:
+     + engage in the same MRITA in a non-financial context;
+     + pursue new non-financial uses for the expertise or technology facility; or
+     + invest in an entity that engages in MRITAs and, in so doing, acquires excess capacity or expertise.
+   * A.3 **How the proposed MRITA is related to the provision of an integrated package of financial products or services to a customer.** A MRITA will be considered related to the provision of an integrated package of financial products or services if:
+     + the technology facility associated with the MRITA is, or will be, used to offer a non-financial product or service that is, or will be, included in a broader suite of financial products or services offered by the FRFI group; and
+     + the non-financial product or service is a reasonable extension of the package of financial products or services offered by the FRFI group.
+2. **The advantages to the FRFI of engaging in the MRITA or investing in an entity that engages in a MRITA.**
+3. **The potential impact of the proposal on the safety and soundness of the FRFI.**
+
+## 5.0 Information Requirements
+
+### 5.1 With respect to an application by a FRFI to engage in a MRITA:
+
+1. if applicable, a description of how the proposed MRITA fits within one of the examples set out in Annex 2;
+2. if applicable, a description of how the proposed MRITA fits within one of the factors set out in Section 4.1 of the Guide including:
+   * a detailed description of the proposed MRITA, and
+   * a description of the technology facility and its use in relation to the proposed MRITA;
+3. a business case including the amount and type of incremental costs, financial projections, and the anticipated impact on capital adequacy; and
+4. a description of the FRFI’s experience with the proposed MRITA.
+
+### 5.2 With respect to an application by a FRFI to invest in an entity that engages in a MRITA:
+
+1. the name of the entity or proposed entity for which approval is requested;
+2. if applicable, a description of how the proposed MRITA fits within one of the examples set out in Annex 2;
+3. if applicable, a description of how the proposed MRITA fits within one of the factors set out in Section 4.1 of the Instruction Guide including:
+   * a detailed description of the proposed MRITA, and
+   * a description of the technology facility and its use in relation to the proposed MRITA;
+4. a description of the FRFI group’s experience with the proposed MRITA;
+5. the details of ownership interest, including the number, value and percentage of each type of ownership interest to be held and whether the ownership interest will result in control or control-in-fact of the entity;
+6. a business case, including the amount and type of consideration, anticipated impact of investment on capital adequacy as appropriate to the materiality of the investment, and financial projections; and
+7. the most recent audited and interim financial statements for the entity.
+
+## Annex 1 - Process for Assessing Applications
+
+![Annex 1- Process for Assessing Applications decision chart; text description follows)](/sites/default/files/2023-07/infotech_guide_may04_1-0000.jpg)
+
+Text description - Process for Assessing Applications
+
+Step 1: Does the application fit within the scope of the Regulations?
+
+Step 2: Does the activity fit within one of the examples?
+
+If yes: OSFI will generally recommend that ministerial approval be provided if there will be no significant negative impact on the safety and soundness of the applicant.
+
+If no: Proceed to Step 3.
+
+Step 3: The following factors will be considered:
+
+1. The relationship between the proposed MRITA and the financial products or services of the FRFI group, having regard to the following factors:
+   * is inherent to the provision of financial products or services;
+   * demonstrates efficient use of excess capacity or expertise; or
+   * is related to the provision of an integrated package of financial products or services.
+2. The advantages to the FRFI of engaging in the activity or investing in an entity that engages in the activity.
+3. The impact on safety and soundness.
+
+## Annex 2 - Examples of Materially Related Information Technology Activities
+
+Under Step 2 of the Process for Assessing Applications, OSFI will assess whether an application fits within one of the examples described in this annex. OSFI will recommend that the Minister approve applications that will not have a significant negative impact on the safety and soundness of an applicant and are fully consistent with one of the examples.
+
+The examples in this annex have been categorized according to the factors set out in Section 4.1. Additional examples may be developed and added to the annex. Proposed MRITAs that do not fit within one of these examples will be assessed under the factors described in Section 4.2.
+
+### 1. Inherent to the Provision of Financial Products or Services
+
+#### Example - Encryption in a Non-Financial Context
+
+##### Preamble
+
+Encryption technology is a method for ensuring that a customer’s assets are held securely, that customer information is protected and that customers are properly identified. It is essential to the provision of financial products and services. As the use of encryption technology is inherent to the provision of financial products or services, it is considered a MRITA even when it is used in a purely non-financial context.
+
+##### Description of Permitted Encryption Activities in a Commercial Context
+
+MRITAs covered by this example could include offering encryption software and services to protect commercial information, and acting as a certificate authority in a public key encryption technology system. This example may also include:
+
+* authentication of customer identity prior to certificate issuance which involves the collection and validation of information required for identity verification;
+* certificate processing;
+* issuance of digital certificates and provision of any necessary software required to use digital certificates;
+* maintaining a directory of revoked certificates for reference of parties relying on a given certificate; and
+* acting as a repository for issued digital certificates.
+
+Ministerial approval will be recommended when a FRFI seeks to engage in encryption technology activities in a non-financial context or invest in an entity that engages in such information technology activities.
+
+### 2. Efficient Use of Excess Capacity or Expertise
+
+#### Example - Web-Hosting Facilities
+
+##### Preamble
+
+A FRFI that hosts its own Web site may have excess capacity at certain points in time (e.g., due to efforts to ensure that servers have enough capacity to handle peak traffic). Providing excess capacity to a third party in a FRFI’s Web-hosting facility (e.g., servers) in a non-financial context will be considered a MRITA as long as the FRFI can demonstrate that the excess capacity was intended for the FRFI’s own use (i.e., for the delivery of its own financial products or services).
+
+##### Description of Permitted Web-Hosting Activities in a Non-Financial Context
+
+The types of MRITAs covered by this example may encompass:
+
+* the provision of excess computer capacity by the FRFI group to another company for the purpose of running the other company’s Web site; and
+* the provision of expertise in a non-financial context related to the design, development, marketing, manufacturing or sale of software or hardware that is integral to Web-hosting activities.
+
+To receive ministerial approval, a FRFI will be required to demonstrate that any excess capacity in its Web-hosting facility was acquired for the purpose of handling peak demand or handling future demand for access to the FRFI’s own Web site (or the Web site of a member of the FRFI group). Undertakings may be required to ensure that any limitations related to the MRITA apply on an ongoing basis.
+
+### 3. Integrated Package of Products or Services for Customers
+
+#### Example — Web Design
+
+##### Preamble
+
+Technology has expanded the scope of financial products offered by FRFIs and has led FRFIs to design new products. For example, a Web design service could allow small business clients to accept customer orders and online payments.
+
+A Web design service that is offered as a component of a suite of other financial products or services (e.g., along with accounts or payment processing services) will be considered to be a MRITA.
+
+##### Description of Permitted Web Design Activities in a Non-Financial Context
+
+The types of non-financial MRITAs covered by this example may encompass the following:
+
+* the provision of Web design computer software; and
+* the provision of consulting and advisory services relating to designing a Web site.
+
+To receive ministerial approval, a FRFI must demonstrate that the proposed Web design activities are a component and a reasonable extension of a suite of other financial products or services (e.g., along with accounts, payment processing services). In such cases, undertakings limiting the scope of the MRITA may be required.
+
+## Footnotes
+
+Footnote 1
+:   *Information Technology Activities (Banks) Regulations; Information Technology Activities (Authorized Foreign Banks) Regulations; Information Technology Activities (Bank Holding Companies) Regulations; Information Technology Activities (Foreign Banks) Regulations; Information Technology Activities (Trust and Loan Companies) Regulations; Information Technology Activities (Cooperative Credit Associations) Regulations; Information Technology Activities (Life Companies) Regulations;* and *Information Technology Activities (Property and Casualty Companies) Regulations.*
+
+    [Return to footnote 1 referrer](#fnb1-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2013-07-10

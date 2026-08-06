@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) and the World Bank signed another operational Memorandum of Understanding (Memorandum), replacing the Memorandum signed in 2013.

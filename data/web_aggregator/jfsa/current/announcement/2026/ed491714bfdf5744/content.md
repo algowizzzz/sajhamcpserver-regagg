@@ -1,0 +1,115 @@
+* [HOME](/en/index.html)
+* [FSA Weekly Review/ACCESS FSA](/en/newsletter/index.html)
+
+[Tweet](https://twitter.com/share)
+
+# Financial Services AgencyFSA Weekly Review No.687
+:   May 19, 2026
+
+**What’s New on the FSA Website**
+
+Week of May 11, 2026 - May 15, 2026
+
+This page contains the latest in events, developments, and updates to the FSA website.  
+  
+For files in HTML formats, when you click original press release links, and click the "Language" button on the upper right of the Japanese website, and select "Machine translation" displayed on the screen, the results of the translation by AI are displayed. Please note that machine translated pages are not necessarily correct.
+
+## Press Conferences
+
+|  |  |
+| --- | --- |
+| May 12, 2026 | [Press Conference by the Minister of State for Financial Services (April 28, 2026)](/en/conference/minister/2026/20260428.html) |
+| May 12, 2026 | [Press Conference by the Minister of State for Financial Services (April 24, 2026)](/en/conference/minister/2026/20260424-2.html) |
+| May 12, 2026 | [Press Conference by the Minister of State for Financial Services (April 24, 2026)](/en/conference/minister/2026/20260424-1.html) |
+
+## Public Comments
+
+|  |  |
+| --- | --- |
+| May 13, 2026 | Publication of information on the public consultation procedures on a draft partial amendment to the Guidelines for the Protection of Personal Information in the Financial Sector  The Personal Information Protection Commission and the FSA prepared the draft partial amendment to the Guidelines for the Protection of Personal Information in the Financial Sector and will seek opinions from the general public as follows. Submitted opinions will be examined and referred to in drafting amendments. Public comments will be accepted until no later than 0:00 a.m. (JST), June 12, 2026. [The original press release is available in Japanese.open new window](/news/r7/sonota/20260513/20260513.html) |
+| May 11, 2026 | The FSA published a draft partial amendment to the Comprehensive Guidelines for Supervision for Financial Instruments Business Operators, etc.  Based on the FY2026 Tax Reform, the “Points to Note upon Account Opening, Solicitation, and Sale under the NISA Program (Guidelines)” (provisional translation), which was prepared by the NISA Promotion and Liaison Council for the purpose of ensuring the appropriateness of confirmation of locations of NISA users, was revised. Accordingly, the Comprehensive Guidelines are to be amended to encourage financial instruments business operators, etc. to make responses in line with the amended “Points to Note.” Public comments will be accepted until no later than 5:00 p.m. (JST), June 10, 2026. [The original press release is available in Japanese.open new window](/news/r7/shouken/20260511/20260511.html) |
+
+## Press Releases
+
+### Policies
+
+|  |  |
+| --- | --- |
+| May 12, 2026 | [Updated: Initiatives announced by financial groups to enhance their asset management businesses](/en/policy/pjlamc/initiativesbythefinancialindustry/20240124.html) |
+| May 12, 2026 | [Updated: Publication of the examples of initiatives taken by financial institutions under their EMPs](/en/news/2024/20240607-1.html) |
+
+### International
+
+|  |  |
+| --- | --- |
+| May 15, 2026 | [Comment letter on the Draft Delegated Regulation on revised European Sustainability Reporting Standards (ESRS)](/en/news/2026/20260515.html) |
+| May 14, 2026 | The FSA published the fact that the FSA’s Vice Minister for International Affairs assumed the office of Vice-Chair of the Board of the International Organization of Securities Commissions (IOSCO).  At the IOSCO Board meeting held online on May 13, 2026, Mr. Miyoshi Toshiyuki, Vice Minister for International Affairs, FSA, was elected as Vice-Chair. His term of office lasts until the Annual Meeting of IOSCO in 2028 (specific schedules have yet to be decided).  As IOSCO Board Chair, Mr. Jean-Paul Servais (Chairman of the Belgian Financial Services and Markets Authority (FSMA)) was re-elected. Together with Mr. Miyoshi, Mr. Grant Vingoe (Chief Executive Officer, Ontario Securities Commission (OSC), Canada) and Mr. Mark T. Uyeda (Commissioner, US Securities and Exchange Commission (SEC)) were elected as Vice-Chairs.  Dr. Islam Azzam (Executive Chairman, Financial Regulatory Authority, Egypt) is ex-officio IOSCO Board Vice-Chair in his capacity as Chair of the IOSCO Growth and Emerging Markets Committee (GEMC). [The original press release is available in Japanese.open new window](/inter/ios/20260514/20260514.html) |
+| May 11, 2026 | [Paris Plenary Meeting of the International Forum of Independent Audit Regulators (IFIAR)](/en/ifiar/20260423.html) |
+| May 11, 2026 | [International Forum of Independent Audit Regulators published the new Report about use of technology in audits](/en/ifiar/20260420.html) |
+
+### Councils
+
+|  |  |
+| --- | --- |
+| May 15, 2026 | Publication of the agenda and handouts of the 5th meeting of the Working Group on Corporate Disclosure of the Financial System Council to be held on May 18, 2026. [The original press release is available in Japanese.open new window](/singi/singi_kinyu/disclosure_wg/shiryou/20260518.html) |
+| May 11, 2026 | Publication of the results of the 152nd and 153rd meetings of the Council on Automobile Liability Insurance  The 152nd meeting of the Council on Automobile Liability Insurance was held from 4:00 p.m., Friday, April 17, 2026, and the 153rd meeting of the Council on Automobile Liability Insurance was held from 2:00 p.m., Thursday, April 30, 2026, respectively. [The original press release is available in Japanese.open new window](/singi/singi_zidousya/kekka/20260430.html) |
+| May 11, 2026 | Publication of the materials compiling the details deliberated on at the 152nd and 153rd meetings of the Council on Automobile Liability Insurance  As a result of deliberations at the 152nd and 153rd meetings of the Council on Automobile Liability Insurance, it was decided to make amendments to raise auto liability insurance premiums and to commence the application of the amendments in November 2026. With the view to promoting automobile users’ understanding of the developments leading to the raising of premiums and the necessity thereof, the materials compiling the details deliberated on at the meetings were published. [The original press release is available in Japanese.open new window](/singi/singi_zidousya/siryou/20260430/20260430.html) |
+| May 11, 2026 | [The fifth meeting of the Working Group on Corporate Disclosure of the Financial System Council](/en/news/2026/20260518.html) |
+
+### Others
+
+|  |  |
+| --- | --- |
+| May 15, 2026 | Publication of the main issues raised by the FSA at opinion exchange meetings held in February with relevant associations in the financial sector [The original press release is available in Japanese.open new window](/common/ronten/index.html) |
+| May 15, 2026 | Updated lists of entities that are operating financial instruments businesses without registration [The original press release is available in Japanese.open new window](/ordinary/chuui/mutouroku.html) |
+| May 14, 2026 | Updated the webpage titled “Please beware of unauthorized access to internet transaction services and unauthorized transactions” [The original press release is available in Japanese.open new window](/ordinary/chuui/chuui_phishing.html) |
+| May 14, 2026 | [Working Group under the “Public-Private Coordination Meeting on Strengthening Cybersecurity Measures in the Financial Sector Against AI-Related Threats”](/en/news/2026/20260514/20260514.html) |
+| May 14, 2026 | Publication of information on the nationwide "Problem Gambling Awareness Week" campaign (from May 14 to May 20 every year) [The original press release is available in Japanese.open new window](/policy/kashikin/gambling/20260514-2.html) |
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

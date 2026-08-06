@@ -1,0 +1,181 @@
+# Guide de présentation des demandes en vertu de l’article 2 du Règlement sur les activités en matière de technologie de l’information
+
+[PDF, 101 kB](/sites/default/files/2023-07/InfoTech_Guide_May04%20%281%29.pdf)
+
+**Type de publication :** Guide d’instruction  
+**Catégorie :** Guides d’application  
+**Date :** Mai 2004  
+**Public :**  Banques / SBE  / F&P  / Coop  / Vie  / Multirisques
+
+## Table des matières
+
+## 1.0 Introduction
+
+Le *Règlement sur les activités en matière de technologie de l’information*[Note de bas de page 1](#fnb1) (le « Règlement ») fournit aux institutions financières fédérales (IFF) la marge de manoeuvre requise pour exercer des activités en matière de technologie de l’information autres que celles qui ont trait à leur activité ou se rapportent soit à la fourniture de renseignements de nature principalement économique ou financière, soit à l’activité d’une entité admissible.
+
+Le présent guide énonce les renseignements et les facteurs à l’aide desquels le BSIF évaluera les demandes présentées au ministre en vertu de l’article 2 du Règlement.
+
+Le présent guide ne renferme aucune consigne au sujet de l’interprétation de quelque autre aspect ou disposition de la législation régissant les institutions financières qui se rapporte à l’activité d’une IFF, ou de l’interaction ou du chevauchement entre les dispositions législatives.
+
+## 2.0 Définitions
+
+Les définitions qui suivent s’appliquent au présent guide :
+
+* « activités en matière de technologie de l’information » Activités consistant notamment à développer, à concevoir, à détenir, à gérer, à fabriquer et à vendre des installations de technologie.
+* « activités étroitement liées en matière de technologie de l’information » ou « AELTI » Activités en matière de technologie de l’information dont les installations de technologie sont utilisées à des fins ou dans des circonstances étroitement liées à la fourniture de produits ou de services financiers par le groupe de l’IFF dans un contexte non financier.
+* « contexte non financier » Utilisation d’une installation de technologie à des fins ou dans des circonstances qui ne se rapportent pas à la fourniture de produits ou de services financiers.
+* « groupe de l’IFF » S’entend de l’IFF et de toute entité visée aux paragraphes 464(2) de la *Loi sur les banques*, 449(2) de la *Loi sur les sociétés de fiducie et de prêt*, 490(2) de la *Loi sur les sociétés d’assurances* et 386(2) de la *Loi sur les associations coopératives de crédit*.
+* « installation de technologie » Un système de transmission de données, un site d’information, un moyen de communication, une plateforme informatique ou un portail d’information.
+
+## 3.0 Fondement législatif
+
+* Le sous-alinéa 410(1)c.1)(iii), l’alinéa 468(2)f) et le sous-alinéa 539(1)b.2)(iii) de la *Loi sur les banques*
+* Le sous-alinéa 410(1)c.1)(iii) et l’alinéa 453(2)f) de la *Loi sur les sociétés de fiducie et de prêt*
+* Le sous-alinéa 376(1)c.1)(iii) et l’alinéa 390(2)f) de la *Loi sur les associations coopératives de crédit*
+* Le sous-alinéa 441(1)d.1)(iii) et l’alinéa 495(2)f) de la *Loi sur les sociétés d’assurances*
+
+## 4.0 Évaluation des demandes (voir l’annexe 1)
+
+Le BSIF appliquera la procédure suivante lorsqu’une IFF demandera au ministre l’autorisation d’exercer des AELTI ou d’investir dans une entité exerçant de telles activités :
+
+* **Étape 1 :** Le BSIF déterminera si la demande est visée par le Règlement.
+* **Étape 2 :** Le BSIF examinera la demande pour déterminer si elle correspond à l’un des exemples décrits à l’annexe 2. De façon générale, l’agrément du ministre sera recommandé dans les cas où le BSIF détermine que la demande n’aura pas d’importantes répercussions négatives sur la sûreté et la solidité du demandeur et que les AELTI proposées correspondent à l’un des exemples.
+* **Étape 3 :** Les demandes qui ne correspondent à aucun des exemples seront étudiées de plus près sous l’angle de chacun des facteurs A, B et C décrits à la section 4.1.
+
+### 4.1 Facteurs d’évaluation
+
+En règle générale, la mesure dans laquelle le groupe de l’IFF sera autorisé à exercer des AELTI, ou à investir dans une entité exerçant des AELTI, dépendra de l’étroitesse du lien entre l’utilisation de l’installation de technologie et la fourniture de produits et de services financiers par le groupe de l’IFF. Ce dernier aura plus de latitude s’il démontre que l’utilisation de l’installation de technologie est inhérente à ses activités de fourniture de produits et de services financiers (voir A.1 ci-après). Des engagements limitant la capacité du groupe de l’IFF d’exercer des AELTI ou d’investir dans une entité qui exerce des AELTI pourraient être exigés dans des cas où l’utilisation de l’installation de technologie est moins étroitement liée à la fourniture de produits ou de services financiers par le groupe de l’IFF (voir A.2 et A.3 ci-après).
+
+1. **La relation entre les AELTI proposées et la fourniture de produits et de services financiers par le groupe de l’IFF**. Ce facteur comprend le ratio des AELTI proposées aux activités financières du groupe de l’IFF. L’IFF doit démontrer en quoi les AELTI proposées correspondent à au moins l’un des sous-facteurs A.1, A.2 et A.3.
+   * **A.1 Degré d’inhérence des AELTI proposées à la fourniture de produits et de services financiers.** Si l’installation de technologie est utilisée à des fins ou dans des circonstances inhérentes à la fourniture de produits ou de services financiers, l’IFF aura toute latitude pour :
+     + exercer des AELTI si l’installation de technologie est utilisée dans un contexte non financier;
+     + investir dans une entité qui exerce des AELTI si l’installation de technologie est utilisée dans un contexte non financier.
+   * **A.2 Mesure dans laquelle les AELTI proposées seraient une façon efficiente d’exploiter une capacité excédentaire ou de l’expertise**. Le groupe de l’IFF peut disposer d’une capacité excédentaire relativement à une installation de technologie pour la fourniture de produits et de services financiers, ou pour l’activité d’une entité admissible. En outre, un membre du groupe peut avoir acquis de l’expertise par l’exercice de ses activités en matière de technologie de l’information. Cette capacité excédentaire ou cette expertise sera utilisée de façon efficiente si le groupe de l’IFF propose, selon le cas :
+     + d’exercer les mêmes AELTI dans un contexte non financier;
+     + d’utiliser cette expertise ou l’installation de technologie à nouvelles fins non financières;
+     + d’investir dans une entité qui exerce des AELTI, acquérant du coup une capacité excédentaire ou de l’expertise.
+   * **A.3 Le lien entre les AELTI proposées et la fourniture d’un ensemble intégré de produits et de services financiers à un client**. Les AELTI seront considérées comme étant liées à la fourniture d’un ensemble intégré de produits et de services financiers si, à la fois :
+     + l’installation de technologie associée aux AELTI est ou sera utilisée pour offrir un produit ou un service non financier qui est ou sera inclus dans un ensemble plus large de produits ou de services financiers offerts par le groupe de l’IFF;
+     + le produit ou le service financier constitue le prolongement logique de l’ensemble de produits et de services financiers offerts par le groupe de l’IFF.
+2. **Les avantages pour l’IFF de l’exercice des AELTI comparés à ceux de l’investissement dans une entité qui exerce des AELTI.**
+3. **L’impact potentiel de la proposition sur la sûreté et la solidité de l’IFF.**
+
+## 5.0 Renseignements à fournir
+
+### 5.1 Par une IFF souhaitant exercer des AELTI :
+
+1. le cas échéant, une description de la façon dont les AELTI proposées correspondent à l’un des exemples figurant à l’annexe 2;
+2. le cas échéant, une description de la façon dont les AELTI proposées respectent l’un des facteurs décrits à la section 4.1 ci-dessus, y compris :
+   * une description détaillée des AELTI proposées;
+   * une description de l’installation de technologie et de son utilisation en rapport avec les AELTI proposées;
+3. une analyse de rentabilisation, y compris le montant et la nature des coûts additionnels, des projections financières et l’impact prévu sur la suffisance du capital;
+4. une description de l’expérience de l’IFF en ce qui touche les AELTI proposées.
+
+### 5.2 Par une IFF souhaitant investir dans une entité qui exerce des AELTI :
+
+1. le nom de l’entité, existante ou proposée, pour le compte de laquelle l’agrément est demandé;
+2. le cas échéant, une description de la façon dont les AELTI proposées correspondent à l’un des exemples figurant à l’annexe 2;
+3. le cas échéant, une description de la façon dont les AELTI proposées respectent l’un des facteurs décrits à la section 4.1 ci-dessus, y compris :
+   * une description détaillée des AELTI proposées;
+   * une description de l’installation de technologie et de son utilisation en rapport avec les AELTI proposées;
+4. une description de l’expérience du groupe de l’IFF en ce qui touche les AELTI proposées;
+5. le détail des participations, y compris le nombre, la valeur et le poids de chaque participation et une mention indiquant si cela se traduira par l’exercice du contrôle, de droit ou de fait, de l’entité;
+6. une analyse de rentabilisation, y compris le montant et la nature de la contrepartie, l’impact prévu du placement sur la suffisance du capital compte tenu de l’importance relative du placement et des projections financières;
+7. les plus récents états financiers vérifiés et provisoires de l’entité.
+
+## Annexe 1 - Processus d’évaluation des demandes
+
+![Annexe 1- Processus d’évaluation des demandes diagramme de décision; la description textuelle suit)](/sites/default/files/2023-07/infotech_guide_may04_1_1-0000.jpg)
+
+Description textuelle - Processus d’évaluation des demandes
+
+Étape 1 : La demande est-elle visée par le Règlement?
+
+Étape 2 : L’activité est-elle conforme à l’un des exemples?
+
+Si oui : De façon générale, le BSIF recommandera au ministre d’agréer la demande si cette dernière ne présente pas de répercussions négatives importantes sur la sûreté et la solidité du demandeur.
+
+Si non : Passer à l’étape 3.
+
+Étape 3 : Les facteurs suivants seront considérés :
+
+1. La relation entre les AELTI proposées et la fourniture de produits et de services financiers par le groupe de l’IFF, dans la mesure où l’exercice des AELTI, selon le cas :
+   * est inhérente à la fourniture de produits ou de services financiers;
+   * témoigne de l’utilisation efficiente d’une capacité excédentaire ou d’expertise;
+   * est liée à la fourniture d’un ensemble intégré de produits ou de services financiers.
+2. Les avantages pour l’IFF de l’exercice des AELTI comparés à ceux de l’investissement dans une entité qui exerce des AELTI.
+3. L’impact sur la sûreté et la solidité du demandeur.
+
+## Annexe 2 - Exemples d’activités étroitement liées en matière de technologie de l’information
+
+En vertu de l’étape 2 du processus d’évaluation des demandes, le BSIF déterminera si la demande correspond à l’un des exemples décrits dans la présente annexe. Le BSIF recommandera au ministre d’agréer les demandes qui n’auront pas de répercussions négatives importantes sur la sûreté et la solidité du demandeur et qui sont entièrement conformes à l’un des exemples.
+
+Les exemples présentés ici sont classés selon les facteurs mentionnés dans la section 4.1. D’autres exemples pourront être élaborés et ajoutés à la présente annexe. Les AELTI proposées qui ne concordent pas avec l’un de ces exemples seront évalués à l’aide des facteurs décrits à la section 4.2.
+
+### 1. Inhérent à la fourniture de produits ou de services financiers
+
+#### Exemple : Cryptage dans un contexte non financier
+
+##### Préambule
+
+Le cryptage est une méthode qui assure la garde sécuritaire des actifs d’un client, la protection des renseignements sur les clients et l’identification adéquate des clients. Il s’agit d’un volet essentiel de la fourniture de produits et de services financiers. Puisque le recours à la technologie du cryptage est inhérent à la fourniture de produits ou de services financiers, il est assimilé à des AELTI même lorsqu’il est employé dans un contexte purement non financier.
+
+##### Description des activités de cryptage admissibles dans un contexte commercial
+
+Les AELTI visées par cet exemple comprennent l’offre de logiciels et de services de cryptage pour protéger des renseignements commerciaux, et le fait d’agir à titre d’autorité de certification dans le cadre d’un système de technologie de cryptage à clé publique. Cet exemple peut aussi inclure :
+
+* le contrôle de l’identité des clients avant la délivrance du certificat, ce qui comprend la collecte et la validation des renseignements nécessaires au contrôle d’identité;
+* le traitement du certificat;
+* la délivrance de certificats numériques et la fourniture de tout logiciel nécessaire à leur utilisation;
+* la tenue d’un registre des certificats révoqués aux fins de consultation par des parties s’appuyant sur un certificat donné;
+* la prise en charge du rôle de dépositaire des certificats numériques délivrés.
+
+On recommandera au ministre d’agréer la demande si l’IFF s’engage à exercer des activités liées à la technologie de cryptage dans un contexte non financier, ou à investir dans une entité qui exerce de telles activités liées à la technologie de l’information.
+
+### 2. Utilisation efficiente de la capacité excédentaire ou de l’expertise
+
+#### Exemple - Installation d’hébergement Web
+
+##### Préambule
+
+Une IFF qui est l’hôte de son propre site Web peut être en situation de capacité excédentaire à l’occasion (p. ex., en raison d’efforts visant à faire en sorte que les serveurs aient la capacité requise pour traiter l’achalandage en période de pointe). La fourniture à un tiers d’une capacité excédentaire dans l’installation d’hébergement Web d’une IFF (c.-à-d. les serveurs) dans un contexte non financier sera assimilée à des AELTI pourvu que l’IFF puisse démontrer que cette capacité excédentaire était destinée pour son propre usage (c.-à-d. pour la fourniture de ses propres produits et services financiers).
+
+##### Description des activités d’hébergement Web admissibles dans un contexte non financier
+
+Les AELTI couvertes par cet exemple peuvent englober :
+
+* la fourniture d’une capacité informatique excédentaire par le groupe de l’IFF à une autre société dans le but d’exploiter le site Web de cette dernière;
+* la fourniture d’expertise dans un contexte non financier relativement à la conception, à la mise au point, au marketing, à la fabrication ou à la vente de logiciels ou de matériel faisant partie intégrante d’activités d’hébergement Web.
+
+Pour obtenir l’agrément du ministre, l’IFF devra prouver que toute capacité excédentaire de son installation d’hébergement Web a été acquise pour traiter l’achalandage en période de pointe ou la demande future d’accès au propre site Web de l’IFF (ou du site Web d’un membre de son groupe). Des engagements pourraient être exigés pour garantir la permanence de toute restriction se rapportant aux AELTI.
+
+### 3. Ensemble intégré de produits ou de services destinés aux clients
+
+#### Exemple - Conception de site Web
+
+##### Préambule
+
+La technologie a étendu la gamme de produits financiers qu’offrent les IFF et a incité ces dernières à mettre au point de nouveaux produits. Par exemple, un service de conception de site Web pourrait permettre à une petite entreprise cliente d’accepter des commandes et des paiements en ligne de la part de clients.
+
+La fourniture d’un service de conception de site Web offert dans le cadre d’un ensemble d’autres produits ou services financiers (p. ex., en plus de services de tenue de compte ou de traitement de paiements) sera assimilée à des AELTI.
+
+##### Description d’activités admissibles de conception de site Web dans un contexte non financier
+
+Les AELTI non financières couvertes par cet exemple peuvent englober :
+
+* la fourniture d’un logiciel de conception de sites Web;
+* la fourniture de services d’expert-conseil et de consultation se rapportant à la conception d’un site Web.
+
+Pour obtenir l’agrément du ministre, l’IFF devra prouver que les activités proposées de conception de site Web font partie d’un ensemble d’autres produits ou services financiers (p. ex., en plus de services de tenue de compte ou de traitement de paiements) et en constituent le prolongement logique. En pareil cas, des engagements limitant la portée des AELTI pourront être exigés.
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   *Règlement sur les activités en matière de technologie de l’information (associations coopératives de crédit), Règlement sur les activités en matière de technologie de l’information (banques), Règlement sur les activités en matière de technologie de l’information (banques étrangères), Règlement sur les activités en matière de technologie de l’information (banques étrangères autorisées); Règlement sur les activités en matière de technologie de l’information (sociétés d’assurances multirisques), Règlement sur les activités en matière de technologie de l’information (sociétés d’assurance-vie), Règlement sur les activités en matière de technologie de l’information (sociétés de fiducie et de prêt),* et *Règlement sur les activités en matière de technologie de l’information (sociétés de portefeuille bancaires)*.
+
+    [Retour à la référence de la note de bas de page 1](#fnb1-ref)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2013-07-10

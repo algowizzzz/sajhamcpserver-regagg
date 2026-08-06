@@ -1,0 +1,32 @@
+DFS Form 28‐0011, April 2019 
+FORECLOSURE COMPLAINT 
+CHECKLIST  
+ 
+This checklist will to help you identify important documents that should be submitted 
+ to the Department as part of your complaint. 
+This form is for your information only. Do not return it with your complaint package. 
+ 
+Loan Application Form 1003 
+Good Faith Estimate 
+Pre‐Application Disclosure 
+Broker Agreement 
+(If loan was originated through a broker) 
+HUD‐1 or HUD‐1A Settlement Statement 
+Loan Commitment   
+Financial Statement or P & L Statement 
+Modification Package 
+(provide the complete modification 
+package submitted to the servicer) 
+Letter of Hardship 
+Truth in Lending Statement 
+Right of Rescission Form 
+(for refinanced loans only) 
+Payment History (if available) 
+Loan Modification Agreement 
+Foreclosure Documents and Correspondence 
+(include affidavits) 
+Most Recent Default Notice 
+Pre‐Foreclosure Notice 
+(all letters from servicer relating to complaint) 
+Servicer’s Response to Complaint 
+Modification Denial Letter

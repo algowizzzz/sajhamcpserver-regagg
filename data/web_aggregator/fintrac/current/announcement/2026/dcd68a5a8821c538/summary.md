@@ -1,0 +1,1 @@
+Summary: # Allocution d'ouverture de Sarah Paquet, Directrice et PDG de CANAFE lors de la Conférence d'Assembly Canada de l'ACAMS

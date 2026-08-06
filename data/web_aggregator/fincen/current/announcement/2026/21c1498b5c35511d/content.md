@@ -1,0 +1,39 @@
+# Attorney General’s Office Case Example (Tax Fraud)
+
+[Issue22-story6.pdf](/system/files/case_example/Issue22-story6.pdf "Issue22-story6.pdf")
+(19.38 KB)
+
+In early 2012, FinCEN conducted outreach to all of its state and local law enforcement partners, and asked for cases where FinCEN data played a useful role in their investigations. Below, in their own words, is an example of how FinCEN's stakeholders use FinCEN data. It has been edited only for confidentiality and privacy concerns. The following example is from an attorney general's office.
+
+*"The defendant owned gas stations, and following an investigation by the department of revenue the defendant was indicted on multiple counts of fraud related to sales and tax records.*
+
+*A FinCEN search was conducted on the defendant and the defendant's businesses. Information obtained through FinCEN established that the defendant had made numerous large cash deposits during the period of time covered by the indictment. The defendant was confronted with this information. Shortly thereafter, the defendant pled guilty to all charges.*
+
+*In addition, the defendant claimed he had no assets. The FinCEN searches identified financial accounts controlled by the defendant. This information was vital at sentencing. The defendant was sentenced to a period of probation and ordered to pay almost $1 million in restitution."*
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* 22, October 2012]
+
+Tags
+
+Fraud
+
+Tax Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

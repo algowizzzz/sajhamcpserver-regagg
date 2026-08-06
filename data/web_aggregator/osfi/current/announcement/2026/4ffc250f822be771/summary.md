@@ -1,0 +1,1 @@
+Summary: # 2026 OSFI P&C Financial Condition Testing Data Collection Template instructions

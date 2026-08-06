@@ -1,0 +1,1 @@
+Summary: # Partie XII: Établissement, maintien ou acquisition pour utilisation au Canada de guichets automatiques

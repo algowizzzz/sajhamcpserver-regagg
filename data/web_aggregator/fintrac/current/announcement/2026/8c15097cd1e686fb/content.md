@@ -1,0 +1,133 @@
+# The case
+
+[
+
+](https://www.youtube.com/watch?v=Mq8A-g-qFvY)
+
+Examination of a money laundering case brought to light by our analysis team. (Transcript)
+
+## Announcer
+
+Money laundering by organized criminal groups is a serious offence that can take years to investigate and prosecute successfully.
+Hiding the profits from drug trafficking and fraud can often involve many individuals and shell companies moving the funds through
+a series of complex transactions.
+
+Shedding light on this money trail is the unique contribution of FINTRAC, Canada's financial
+intelligence unit, in the fight against organized crime. Working with banks, credit unions, casinos, and other business sectors
+FINTRAC collects reports on millions of financial transactions each month. We then analyze this information to detect patterns and
+links that might otherwise go unnoticed. We do it by the numbers and follow the money where it leads.
+
+In this video we will share a money laundering case brought to light by our analysis team. Working with Suspicious Transaction
+Reports provided by financial institutions and information submitted by law enforcement, FINTRAC was able to follow the money trail,
+linking seven individuals and four businesses in a suspected criminal network involving 800 individual transactions worth more than
+$12 million.
+
+Once the financial picture became clear, FINTRAC was able to provide law enforcement with valuable information, allowing
+them to focus their investigation and identify suspects previously unknown to them.
+
+Here is a reconstruction of the events that led to FINTRAC's case disclosure.
+
+This case concerns a group of individuals and several
+companies both in Canada and offshore. The suspected criminal activity is the laundering of over $12 million in Canadian funds - money
+suspected to be the income from drug trafficking over a two and a half-year period.
+
+In early 2002, a number of suspicious transaction
+reports began to appear on FINTRAC's system, from two branches of the same financial institution. This activity was attributed to
+Subject A. Deposits were made to a joint account shared with Subject B, and multiple bank drafts then moved the money to Company 1.
+
+Female Bank Employee
+
+"The client has been coming into the branch two or three times a month and always deposits large amounts of cash, usually all in
+$20's. The customer seems nervous when we ask about the source of funds, and always provides similar answers – the money was from
+the sale of household items, from the sale of a car, and other things like that. This customer reports her occupation as a homemaker.
+We find this activity suspicious."
+
+## Announcer
+
+Later in 2002, similar suspicious transaction reports linked to the same depositor and payees were submitted, from different
+reporting entities and different branches. Some referred to the cash deposit activity conducted by A or B, and others referred to
+bank drafts purchased in the name of Company 1. During this period, we were able to ascertain the true relationship between Subject A
+and Subject B, that they were married.
+
+Female Bank Employee
+
+"Over the past several months, both clients have been regularly depositing cash. The deposits occur two to three times a week, and then
+Subject B purchases a draft in the name of Company 1. When asked about this activity, Subject B explained that he sells a variety of
+items for his wife's brother, the Director of Company 1. However, our records indicate employment with Company 2."
+
+## Announcer
+
+With this, we confirmed that Subject B was an employee of Company 2.
+
+As our work gained momentum, we identified a third and fourth
+reporting entity involved, and searches against our database showed electronic funds transfers ordered by Company 1 for the benefit of
+Company 3, located in a foreign country.
+
+We looked more closely at Company 1, and identified Subject C, who had been previously convicted
+of drug trafficking-related charges in a foreign country. According to publicly available information, this individual was listed as a
+Director of both Company 1 and Company 3. Through information contained in a suspicious transaction report, we identified Subject C as
+the brother of Subject A.
+
+We then discovered that a business account, held by a gas and convenience store located in the same city in
+Canada as Subjects A and B, was receiving bank drafts from the same joint account that had been sending money to Company 2. Our analysis
+then focused on searching for information related to the activities of this joint account.
+
+A new party, Subject G, was identified through
+publicly available information as the Director of the gas bar and convenience store.
+
+At this point, voluntary information was
+submitted to FINTRAC by Law Enforcement Agency 1.
+
+Male Police Official
+
+"We are currently conducting an ongoing money laundering investigation relating to Subject G, and are herewith providing identification
+of the person and the suspected offences being investigated at this time."
+
+## Announcer
+
+Information shared by the law enforcement agency identified that Subject G was thought to be a member of an East Asian Organized
+Crime group and was suspected of trafficking narcotics and laundering the proceeds of this criminal activity.
+
+At FINTRAC, our analysts were also uncovering additional key financial information:
+
+* bank drafts made out to the gas bar from the same joint account that had been sending electronic funds transfers to Company 3;
+* a number of bank drafts made out to the same institution from a personal account; and
+* suspicious transactions reported from a casino.
+
+Casino Employee
+
+"Subject G often attends the casino with Subject E or F. They buy in at the cage then go to separate gaming areas. We've seen them
+meet up several times throughout a short stay, and one or all will often cash out for large amounts of money, even though they don't
+seem to be doing much gaming. We find this very suspicious and will continue to monitor these players."
+
+## Announcer
+
+Through the suspicious transaction report submitted by the casino, FINTRAC focused on the newly-identified Subject D and Subject E,
+tying Subject D back through publicly available information on the website of Company 2. Our database showed he was the holder of
+the bank account that had been purchasing bank drafts for the gas bar and convenience store of which Subject G was a Director, and one
+of the account holders that had been ordering electronic funds transfers for the offshore company, Company 3.
+
+Focus on Subject E showed
+that Subject F, also identified by the Casino, had made cash deposits to an account held by Company 3, along with multiple bank drafts
+from his personal account to a joint account for which he was one of the account holders.
+
+The pattern, and all its layers and complexities was now eminently clear. We then transmitted the financial details to the law
+enforcement agencies in Canada and to a financial intelligence unit overseas to assist the investigation.
+
+This case included some 800 transactions, some reported to FINTRAC as suspicious, other as large cash or electronic funds
+transactions. These reports along with publicly available records, and Voluntary Information from law enforcement allowed the links to
+be made and the criminal network to be seen.
+
+In this instance, the money laundering case involved drugs and organized crime.
+
+This is just one of hundreds of successfully-concluded
+analyses that have been performed by FINTRAC – but it is essential to remember that FINTRAC can only build its financial case when
+transactions are reported. In this case, reports of suspicious transactions helped uncover the connections between the players. The value
+of this information – from banks and other financial institutions, from real estate agents, money services businesses, casinos, and other
+entities is enormous.
+
+Each suspicious transaction report matters and each one receives FINTRAC's attention. For more information about
+FINTRAC, visit our website at https://fintrac-canafe.canada.ca.
+
+Date Modified:
+:   2016-05-12

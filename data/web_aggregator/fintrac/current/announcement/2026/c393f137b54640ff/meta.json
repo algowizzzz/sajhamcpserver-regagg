@@ -1,0 +1,24 @@
+{
+  "doc_id": "c393f137b54640ff",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "CANAFE fournit d\u2019autres indicateurs de blanchiment d\u2019argent associ\u00e9s \u00e0 la traite de personnes \u00e0 des fins d\u2019exploitation sexuelle \u00e0 l\u2019appui du projet Protect",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/new-neuf/nr/2021-07-30-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:bdd2c1dc5fe2fff8c9056d1faa42455b5b7272d109cfab7db584f01b49858c38",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/c393f137b54640ff",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

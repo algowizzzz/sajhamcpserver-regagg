@@ -1,0 +1,25 @@
+{
+  "doc_id": "b8a5dddc32b0f2f3",
+  "regulator_id": "guardian_business",
+  "doc_type": "news_story",
+  "title": "\u2018If we don\u2019t fight back, we don\u2019t have a future\u2019: the journalist taking on the \u2018tech fascists\u2019 of Silicon Valley",
+  "language": "en",
+  "source_url": "https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6aa0d8cf490a32432b68dc4e7576fd88ec1cdc396953554b19965aaed3d41b2e",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_guardian_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/guardian_business/current/news_story/2026/b8a5dddc32b0f2f3",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley",
+  "fetch_method": "feed_summary"
+}

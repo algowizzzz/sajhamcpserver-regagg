@@ -1,0 +1,174 @@
+Mapping of Disclosure Categories for FINRA Rule 1017(a)(7) 
+The table below is intended to help member firms determine whether a continuing membership 
+application (Form CMA) or materiality consultation is required to be submitted to the Department of 
+Member Supervision, Membership Application Group (MAP), to comply with FINRA Rule 1017(a)(7) 
+by mapping the disclosure events relevant for the rule to the Uniform Registration Forms (i.e., Forms U4, 
+U5, U6, and BD).   
+Pursuant to FINRA Rule 1017(a)(7), unless the member firm has submitted a written request to the 
+Department of Member Supervision seeking a materiality consultation for the contemplated activity, a 
+member firm is required to file a Form CMA whenever a natural person seeking to become an owner, 
+control person, principal or registered person of a member firm has, in the prior five years, a record of one 
+or more “final criminal matters” or two or more “specified risk events.” The terms “final criminal matter” 
+and “specified risk event,” which are defined in FINRA Rule 1011, are based on events that are disclosed, 
+or are or were required to be disclosed, on any of the Uniform Registration Forms.  
+In the table below: 
+• Where only specific Uniform Registration Form disclosure questions are listed for an event, the 
+mapping is to an affirmative response to any one of those disclosure questions.   
+• Where only relevant Disclosure Reporting Pages (DRP) fields are listed for an event, the mapping 
+is to: 
+o a selection of any of the listed DRP structured fields (i.e., checkbox fields); or  
+o entry of relevant text (e.g., the sanctions listed in the definition of “specified risk event” 
+and their equivalents) in a listed DRP unstructured field (i.e., free-text field). 
+• Where specific Uniform Registration Form disclosure questions and relevant DRP fields are 
+listed for an event, the mapping is to an affirmative response to any one of the listed disclosure 
+questions and either: 
+o a selection of any of the listed DRP structured fields (i.e., checkbox fields); or  
+o entry of relevant text (e.g., the sanctions listed in the definition of “specified risk event” 
+and their equivalents) in a listed DRP unstructured field (i.e., free-text field). 
+Questions regarding this mapping guidance table should be directed to mappingguidance@finra.org
+.  
+This mapping guidance table may be updated periodically, as needed.  FINRA will notify the membership 
+of any such updates.
+
+Mapping of Disclosure Categories for Final Criminal Matters and Specified Risk Events (Forms U4, U5, U6 and BD)
+ Rule Subsection Rule Text Form U4 Question # Form U5 Question # Form U6* Question # Form BD** Question #
+  Final Criminal Matters 1011(h) 14A(1)(a), 14A(2)(a), 14B(1)(a), 
+14B(2)(a) 
+7C(1), 7C(3)       ●   Criminal DRP 4B (Disposition of
+            Charge): 
+11A(1), 11B(1) 
+o Convicted,  
+o Pled Guilty
+  Specified Risk Events: 1011(p) The term “specified risk event” means any one of the following 
+events that are disclosed, or are or were required to be disclosed, 
+on an applicable Uniform Registration Form:
+1011(p)(1) 14I(1)(b)² 7E(1)(b)²       ●   SRO Arbitration DRP 10A:² N/A³
+o Award
+1011(p)(2) 14I(1)(d) 7E(1)(d)       ●   SRO Arbitration DRP 10A:⁴ N/A³
+o Settled
+1011(p)(3) 14H(1)(a), 14H(1)(b) & 
+       ●   Civil Judicial DRP 12A: ⁵       ●   Civil Judicial DRP 12A: ⁵ 11H(1)(a), 11H(1)(b) & 
+        ●   Civil Judicial DRP Part II, 13A:
+o  Civil and Administrative
+    Penalty(ies)/Fine(s),
+o  Disgorgement, 
+o  Monetary Penalty other
+    than Fines, 
+o  Restitution
+o Civil and Administrative
+   Penalty(ies)/Fine(s), 
+o Disgorgement, 
+o Monetary Penalty other
+   than fines, 
+o Restitution
+  o Disgorgement/Restitution, 
+  o Monetary/Fine
+  o Bar, 
+  o Suspension, 
+  o Revocation/Expulsion/Denial 
+●   Civil Judicial DRP 12B⁶       ●   Civil Judicial DRP 12B⁶ ●    Civil Judicial DRP 13B⁸
+14C, 14D, 14E & 
+      ●  Regulatory Action DRP 13A: ⁹
+  7D & 
+       ● Regulatory Action DRP 12A: ⁹      ●   Regulatory Action  DRP 13A: ⁹ 11C, 11D, 11E & 
+       ●   Regulatory Action DRP Part II, 12A: 
+o Civil and Administrative
+   Penalty(ies)/Fine(s), 
+o Restitution, 
+o Disgorgement, 
+o Monetary Penalty other
+   than Fines
+o Bar (Permanent), 
+o Bar (Temporary/Time
+   Limited), 
+o Rescission, 
+o Suspension, 
+o Revocation, 
+o Expulsion
+o Civil and Administrative
+    Penalty(ies)/Fine(s),
+o Restitution, 
+o Disgorgement, 
+o Monetary Penalty other
+   than Fines
+o Bar (Permanent), 
+o Bar (Temporary/Time
+   Limited), 
+o Rescission, 
+o Suspension, 
+o Revocation, 
+o Expulsion
+o Civil and Administrative
+   Penalty(ies)/Fine(s), 
+o Restitution, 
+o Disgorgement, 
+o Monetary Penalty other
+   than Fines
+o Bar (Permanent), 
+o Bar (Temporary/Time
+   Limited), 
+o Rescission, 
+o Suspension, 
+o Revocation, 
+o Expulsion
+o Disgorgement/Restitution, 
+o Monetary/Fine   
+     
+o Bar, 
+o Suspension, 
+o Revocation/Expulsion/Denial
+●  Regulatory Action DRP 13C ● Regulatory Action DRP 12D       ●   Regulatory Action DRP 13D
+●  Regulatory Action DRP 13B10 ● Regulatory Action DRP 12B10       ●   Regulatory Action DRP 13B10    ●   Regulatory Action DRP Part II, 12B10
+a final investment-related civil action where: (A) the total monetary 
+sanctions (including civil and administrative penalties or fines, 
+disgorgement, monetary penalties other than fines, or restitution) 
+were ordered for a dollar amount at or above $15,000; or (B) the 
+sanction against the person was a bar, expulsion, revocation or 
+suspension;
+N/A⁷
+Version 2- August 2021
+a final regulatory action where: (A) the total monetary sanctions 
+(including civil and administrative penalties or fines, disgorgement, 
+monetary penalties other than fines, or restitution) were ordered for 
+a dollar amount at or above $15,000; or (B) the sanction against 
+the person was a bar (permanently or temporarily), expulsion, 
+rescission, revocation, or suspension.
+4) Final Regulatory Action with 
+a) monetary sanctions (above de 
+minimis threshold), or b) bars 
+and suspensions¹
+1011(p)(4)
+The term “final criminal matter” means a criminal matter that 
+resulted in a conviction of, or plea of guilty or nolo contendere (“no 
+contest”) by, a person that is disclosed, or is or was required to be 
+disclosed, on the applicable Uniform Registration Forms.
+a final investment-related, consumer-initiated customer arbitration 
+award or civil judgment against the person for a dollar amount at or 
+above $15,000 in which the person was a named party;
+1) Customer Awards (above de 
+minimis threshold) in which 
+individual was named¹
+2) Customer Settlements (above 
+de minimis threshold) in which 
+individual was named¹
+a final investment-related, consumer-initiated customer arbitration 
+settlement or civil litigation settlement for a dollar amount at or 
+above $15,000 in which the person was a named party;
+3) Final Civil Judicial Actions 
+with a) monetary sanctions 
+(above de minimis threshold), or 
+b) bars and suspensions
+Notes and Assumptions:
+* The listed questions refer to the Form U6 for individuals (not firms).
+** Includes questions associated with control affiliates.
+1 De minimis threshold is $15,000.
+2 Includes Customer Awards above de minimis threshold of $15,000. On Forms U4 and U5, Customer Award amounts are reported on Customer Complaint/Arbitration/Civil Litigation DRP 11A. On Form U6, Customer Award amounts are reported on SRO Arbitration DRP 10C.
+3 Form BD does not include information on Customer Awards or Customer Settlements.
+4 Includes Customer Settlements above de minimis threshold of $15,000. On Form U6, Customer Settlement amounts are reported on SRO Arbitration DRP 10C.
+5 Includes monetary sanctions associated with a Final Civil Judicial Action above de minimis threshold of $15,000. On Forms U4 and U6, these sanctions amounts are reported on Civil Judicial DRP 12D.
+6 The Civil Judicial DRP lists "Other Sanctions." The relevant sanctions are those listed in the Rule text, including Bar (permanent or temporary), Expulsion, Revocation or Suspension, and their equivalents.
+7 Form U5 does not include information on Civil Judicial Actions.
+8 The Civil Judicial DRP lists "Other Sanctions." The relevant sanctions are those listed in the Rule text and their equivalents.
+9 Includes monetary sanctions associated with a Final Regulatory Action above de minimis threshold of $15,000. On Form U4, these sanctions amounts are reported under Regulatory Action DRP 13E. On Form U5, these sanctions amounts are reported under Regulatory Action DRP 12F. On Form U6, these sanctions amounts are reported under 
+Regulatory Action DRP 13F.
+10 The Regulatory Action DRP lists "Other Sanctions." The relevant sanctions are those listed in the Rule text and their equivalents.

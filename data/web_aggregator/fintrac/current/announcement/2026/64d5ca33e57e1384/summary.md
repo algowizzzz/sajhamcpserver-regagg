@@ -1,0 +1,1 @@
+Summary: # Stratégie d’équité en matière d’emploi, de diversité et d’inclusion

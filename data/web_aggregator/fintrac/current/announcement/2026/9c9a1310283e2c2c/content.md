@@ -1,0 +1,31 @@
+# Administrative monetary penalty on Gestion de Patrimoine Blue Bridge Inc.
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2024-07-31**]
+
+Gestion de Patrimoine Blue Bridge Inc., an independent wealth management firm considered as a securities dealer, was imposed an administrative monetary penalty of $49,500 on April 19, 2024, for committing 2 violations. The violations were found during the course of a compliance examination in 2022. The administrative monetary penalty has been paid in full and proceedings have ended.
+
+## Nature of violation
+
+Violation #1
+:   **Failure of a person or entity to develop and apply written compliance policies and procedures that are kept up to date and, in the case of an entity, are approved by a senior officer – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 71(1)(b)**
+      
+      
+    FINTRAC determined that Gestion de Patrimoine Blue Bridge Inc.’s compliance policies and procedures do not comply with the requirements of paragraph 71(1)(b) of the Regulations. Gestion de Patrimoine Blue Bridge Inc. did not document and apply the necessary measures in its compliance policies and procedures to meet all of its obligations under the Act and Regulations.
+      
+      
+    FINTRAC’s examination determined that Gestion de Patrimoine Blue Bridge Inc. did not sufficiently develop and document its compliance policies and procedures in relation to client identification, third party determination, politically exposed persons, heads of international organizations and beneficial ownership. In addition, these requirements were not applied at all times. Gestion de Patrimoine Blue Bridge Inc. also had insufficient ongoing monitoring measures for its business relationships. Furthermore, the reporting timeframes for submitting suspicious transactions or attempted transactions and terrorist property reports were not documented. Finally, its policies and procedures did not reflect measures to address the requirements under the Ministerial Directive on the Democratic People’s Republic of Korea (DPRK) published on December 9, 2017.
+
+Violation #2
+:   **Failure of a person or entity to assess and document the risk referred to in subsection 9.6(2) of the Act, taking into consideration prescribed factors – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 71(1)(c)** 
+      
+      
+    FINTRAC’s examination determined that Gestion de Patrimoine Blue Bridge Inc.’s risk-based assessment was incomplete as it did not take into account the factor of new developments and new technologies. The risk assessment also did not include a rationale to support the risk levels determined by the organization. Furthermore, the analysis of the geographic risk of the location of clients and business relationships as well as their operations was incomplete. Gestion de Patrimoine Blue Bridge Inc.’s risk assessment did not reflect other factors such as ministerial directives, economic sanctions, embargoes or other measures that would assess the country from which the source of funds originates as being at high risk.
+
+## Related link
+
+* [News Release : FINTRAC imposes an administrative monetary penalty on Gestion de Patrimoine Blue Bridge Inc.](/new-neuf/nr/2024-07-31-eng)
+
+Date Modified:
+:   2024-07-31

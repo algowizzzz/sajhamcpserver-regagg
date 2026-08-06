@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13008",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend the Connectivity Fee Schedule",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13008/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-and-immediate",
+  "reference_number": "2026-13008",
+  "published_date": "2026-06-29",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6b8b17718f14b79f27134d87d5662ea270dae8423f238e3358336df579b8d531",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13008",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

@@ -1,0 +1,1 @@
+Summary: # Doctor Pleads Guilty to Charges Related to Failure to Comply with BSA Reporting Requirements for Overseas Accounts

@@ -1,0 +1,25 @@
+{
+  "doc_id": "c0ea6f96b990d508",
+  "regulator_id": "nikkei_asia",
+  "doc_type": "news_story",
+  "title": "Japan trading houses more upbeat on earnings as Iran war lifts prices",
+  "language": "en",
+  "source_url": "https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4b0bcabc1fe0b0250ac8b2e7665605a6c96b4a2ed4f51fe2ecfe4623bd274330",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nikkei_asia_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nikkei_asia/current/news_story/2026/c0ea6f96b990d508",
+  "tags": [
+    "japan"
+  ],
+  "final_url": "https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices",
+  "fetch_method": "feed_summary"
+}

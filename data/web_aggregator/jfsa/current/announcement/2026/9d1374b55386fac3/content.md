@@ -1,0 +1,127 @@
+本文開始
+
+Note: This page is machine translated. Translated pages are not necessarily correct.
+
+## トピックス
+
+* [![](/images/bnr_01s.svg)未来を育む資産形成　NISA](/policy/nisa2/index.html)
+* [![](/images/bnr_00s_ja.svg)金融行政方針](/policy/summary.html)
+* [![](/images/bnr_pjlamc_ja.svg)資産運用立国](/policy/pjlamc/20231214.html)
+
+## 重要なお知らせ
+
+* [令和８年熊本地震関連情報NEW](/ordinary/earthquake202607/press.html)
+* [中東情勢や米国関税措置等への対応・対策](/ordinary/tariff202504/press.html)
+* [災害関連情報](/ordinary/press.html)
+
+![](/images/top_j/top_caution.gif)**注意喚起情報**
+:   * [口座売買は犯罪です！](/news/r7/ginkou/20251128/20251128.html)
+    * [その送金、本当に大丈夫ですか？](/news/r7/sonota/20260416/20260416.html)
+    * [それ詐欺です！SNS上の投資勧誘にご注意ください！](/receipt/toushisagi_koukoku/shuhou.html)
+
+    [このほかの金融取引にあたっての注意喚起情報などの一覧へ](/ordinary/chuui/chuui.html)
+
+## 新着情報
+
+[RSS ver2.0](/kouhou/rss.html)
+
+* [すべて](#content_tab01)
+* [報道発表](#content_tab02)
+* [審議会等](#content_tab03)
+* [その他](#content_tab04)
+
+[さらに見る](#)
+
+[さらに見る](#)
+
+[さらに見る](#)
+
+[さらに見る](#)
+
+[新着情報の一覧へ](/recent/recent2026.html)
+
+## サイトマップ
+
+[金融庁について](/common/about/index.html)
+:   [組織](/common/about/index.html#about_01)
+
+    * [大臣・副大臣・政務官](/common/about/profile/index.html)
+    * [金融庁の概要](/common/about/fsainfo.html)
+    * [金融庁の改革](/common/about/kaikaku/index.html)
+    * [所管の法人](/koueki/index.html)
+    * [予算・決算](/common/budget/index.html)
+    * [政策評価](/seisaku/index.html)
+    * [採用情報](/common/recruit/index.html)
+
+[報道・広報](/kouhou/index.html)
+:   [報道対応](/kouhou/index.html#press_releases_01)
+
+    * [報道発表資料](/news/index.html)
+    * [記者会見](/common/conference/index.html)
+    * [大臣談話等](/common/conference/danwa/index.html)
+:   [広報活動](/kouhou/index.html#press_releases_02)
+
+    * [アクセスＦＳＡ（広報誌）](/access/index.html)
+    * [白書・年次報告](/common/paper/index.html)
+    * [職員による講演等](/common/conference/danwa/index_kouen.html)
+    * [職員による寄稿等![新しいウィンドウで開きます](/images/common/icon_newwin.gif)](/frtc/kikou/index.html)
+    * [利用者の方へ](/user/index.html)
+    * [注意喚起情報](/ordinary/chuui/chuui.html)
+    * [業界団体との意見交換会において金融庁が提起した主な論点](/common/ronten/index.html)
+    * [よく閲覧されているページ](/common/popular.html)
+
+[政策・審議会](/policy/index.html)
+:   [基本方針等](/policy/index.html#policies_councils_01)
+
+    * [金融行政方針](/policy/summary.html)
+    * [政府方針における金融庁関連の施策](/policy/fsa.html)
+:   [政策テーマ・施策](/policy/index.html#policies_councils_02)
+
+    * [政策テーマ等一覧（金融行政方針との関連）](/news/r7/20250829/20250829.html#sp_summary)
+    * [政策テーマ等一覧（全体）](/policy/index_sonota.html)
+:   [審議会・研究会等](/policy/index.html#policies_councils_03)
+
+    * [審議会・研究会等一覧](/singi/index.html)
+:   [研究・調査](/policy/index.html#policies_councils_04)
+
+    * [金融研究センター![新しいウィンドウで開きます](/images/common/icon_newwin.gif)](/frtc/index.html)
+
+[法令・指針等](/common/law/index.html)
+:   [所管法令等](/common/law/index.html#laws_regulations_01)
+:   [検査・監督の基本方針等](/common/law/index.html#laws_regulations_02)
+
+    * [基本方針・ディスカッションペーパー一覧](/common/law/houshin.html)
+:   [監督指針・事務ガイドライン](/common/law/index.html#laws_regulations_03)
+
+    * [監督指針一覧](/common/law/guide.html)
+    * [事務ガイドライン（第三分冊：金融会社関係）一覧](/common/law/guide/kaisya/index.html)
+:   [告示・ガイドライン・Ｑ＆Ａ等](/common/law/index.html#laws_regulations_04)
+
+    * [告示・ガイドライン・Ｑ＆Ａ・法令解釈事例集一覧](/common/law/kokuji.html)
+:   [金融上の行政処分等](/common/law/index.html#laws_regulations_05)
+
+[金融機関情報](/status/index.html)
+:   [全金融機関共通](/status/index.html#all_finance)
+:   [預金取扱金融機関（銀行等）関連](/status/index.html#deposit)
+:   [保険会社関連](/status/index.html#insurance)
+:   [金融商品取引業者等関連](/status/index.html#financial_Instruments)
+:   [金融会社関連](/status/index.html#financial_company)
+
+[国際関係情報](/inter/index.html)
+:   [国際関係の取組み](/inter/index.html#international_01)
+
+    * [国際金融センター![新しいウィンドウで開きます](/images/common/icon_newwin.gif)](/internationalfinancialcenter/)
+    * [金融庁グローバル金融連携センター（GLOPAC）](/inter/glopac/index.html)
+    * [監査監督機関国際フォーラム（IFIAR）事務局への活動支援](/ifiar/20161207-1.html)
+:   [国際基準設定主体等の公表資料等](/inter/index.html#international_02)
+
+    * [金融安定理事会（FSB）](/inter/fsf/index.html)
+    * [バーゼル銀行監督委員会（BCBS）](/inter/bis/bis_menu.html)
+    * [保険監督者国際機構（IAIS）](/inter/iai/index.html)
+    * [証券監督者国際機構（IOSCO）](/inter/ios/iosco_04.html)
+    * [金融活動作業部会（FATF）](/inter/fatf/fatf_menu.html)
+    * [その他](/inter/etc/etc_menu.html)
+
+[アクセスＦＳＡ（広報誌）](/access/index.html)
+
+[![](/libs/images/pagetop_btn_j_ja.png)ページの先頭に戻る](#header)

@@ -1,0 +1,1 @@
+Summary: # À quel moment vérifier l'identité des personnes et des entités – Sociétés d'assurance-vie et représentants d'assurance-vie

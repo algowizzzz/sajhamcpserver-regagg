@@ -1,0 +1,2214 @@
+# Minimum Capital Test – Guideline (2026)
+
+Information
+
+Publication type
+
+Guideline
+
+Category
+
+Capital Adequacy Requirements
+
+Date
+
+November 20, 2025
+
+Sector
+
+Property and Casualty Companies
+
+Number
+
+A
+
+Effective date
+
+January 1, 2026
+
+[Generate PDF](/en/print/pdf/node/2634)
+
+Table of contents
+
+Related documents
+
+* [Minimum Capital Test (2026) - Letter](/en/guidance/guidance-library/minimum-capital-test-2026-letter)
+* [Summary of comments and our responses from the public consultation for the MCT Guideline (2026)](/en/consultations/consultation-summaries/summary-comments-our-responses-public-consultation-mct-guideline-2026)
+* [P&C Minimum Capital Test and Branch Adequacy of Assets Test PC4 instructions](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/pc-minimum-capital-test-branch-adequacy-assets-test-pc4-instructions-0)
+
+Subsection 515(1) of the Insurance Companies Act (ICA) requires Federally Regulated Property and Casualty Insurance Companies (property and casualty companies) to maintain adequate capital. Subsection 608(1) of the ICA requires foreign property and casualty companies operating in Canada on a branch basis (foreign property and casualty companies) to maintain an adequate margin of assets in Canada over liabilities in Canada. The Minimum Capital Test (MCT) Guideline is not made pursuant to subsections 515(2) and 608(3) of the Act. However, the minimum and supervisory target capital standards set out in this guideline provide the framework within which the Superintendent assesses whether a property and casualty company that is not a mortgage insurance company[Footnote 1](#fn1) maintains adequate capital pursuant to subsection 515(1) and whether a foreign property and casualty company maintains an adequate margin pursuant to subsection 608(1). Notwithstanding that a property and casualty company that is not a mortgage insurance company may meet these standards, the Superintendent may direct the property and casualty company to increase its capital under subsection 515(3) or the foreign property and casualty company to increase the margin of assets in Canada over liabilities in Canada under subsection 608(4).
+
+This guideline outlines the capital framework, using a risk-based formula, for target and minimum capital/margin required, and defines the capital/assets that are available to meet the minimum standard. The MCT determines the minimum capital/margin required and not the level of capital/margin required at which property and casualty companies that are not mortgage insurance companies must operate.
+
+Foreign property and casualty companies are reminded that the MCT is only one element in the determination of the required assets that must be maintained in Canada by foreign property and casualty companies. Foreign property and casualty companies must vest assets in accordance with the Adequacy of Assets in Canada test as prescribed in the Assets (Foreign Companies) Regulations.
+
+## Chapter 1. Overview and General Requirements
+
+The Minimum Capital Test (MCT) Guideline applies to Canadian property and casualty insurance companies that are not mortgage insurance companies and foreign property and casualty companies operating in Canada on a branch basis, collectively referred to as insurers. Chapter 3 of this guideline, Foreign Companies Operating in Canada on a Branch Basis, defines assets available for foreign property and casualty companies operating in Canada on a branch basis (foreign companies). The MCT Guideline uses generic expressions that are meant to apply to both Canadian insurers and foreign companies; e.g. capital available also refers to assets available for Branch Adequacy of Assets Test (BAAT) purposes, capital required refers to margin required for BAAT purposes and capital adequacy refers to margin adequacy for BAAT purposes.
+
+This chapter provides an overview of the MCT Guideline and sets out general requirements. More detailed information on specific components of the capital test is contained under subsequent chapters.
+
+Further guidance concerning some of the requirements of the MCT Guideline may be found in other guidelines and advisories available on OSFI's website under the Property and Casualty Insurance Companies section.
+
+* [Table of OSFI Guidelines](/en/guidance/guidance-library "Guidance library")
+
+### 1.1. Overview
+
+#### 1.1.1. Minimum and target capital requirements under the MCT
+
+Under the MCT, regulatory capital requirements for various risks are set directly at a pre-determined target confidence level. OSFI has elected 99% of the expected shortfall (conditional tail expectation or CTE 99%) over a one-year time horizon including a terminal provision as a target confidence level.[Footnote 2](#fn2)
+
+The risk factors defined in this guideline are used to compute capital requirements at the target level. The resulting MCT capital requirements are then divided by 1.5 to derive the minimum capital requirements. The MCT ratio is expressed as the capital available over the minimum capital required.
+
+#### 1.1.2. Risk-based capital adequacy
+
+Insurers are required to meet the MCT capital requirements at all times. The definition of capital available to be used for this purpose is described in chapter 2 and includes qualifying criteria for capital instruments, capital composition limits, and regulatory adjustments and deductions. The definition encompasses capital available within all subsidiaries that are consolidated for the purpose of calculating the MCT ratio.
+
+Insurers' minimum capital requirements are calculated on a consolidated basis and determined as the sum of the capital requirements at the target level for each risk component, less the diversification credit, divided by 1.5.
+
+The minimum capital requirements are calculated as follows:
+
+**Sum of capital required for:**
+
+1. Insurance risk (reference chapter 4):
+   1. Liability for incurred claims and unexpired coverage;
+   2. Reinsurance held with unregistered insurers;[Footnote 3](#fn3)
+   3. Earthquake and nuclear catastrophe reserves.
+2. Market risk (reference chapter 5):
+   1. Interest rate;
+   2. Foreign exchange;
+   3. Equity;
+   4. Real estate;
+   5. Right-of-use assets;
+   6. Other market exposures.
+3. Credit risk (reference chapter 6):
+   1. Counterparty default for balance sheet assets;
+   2. Counterparty default for off-balance sheet exposures;
+   3. Collateral held for unregistered reinsurance and self-insured retention (reference section 4.3.3).
+4. Operational risk (reference chapter 7).
+
+**Less:**
+
+5. Diversification credit (reference chapter 8).
+
+**Divided by 1.5.**
+
+#### 1.1.3. Scope of consolidation
+
+The capital adequacy requirements apply on a consolidated basis. The consolidated entity includes the insurer and all of its directly or indirectly held subsidiaries, which carry on business that the parent could carry on directly in accordance with the Insurance Companies Act (ICA), including holding companies (e.g. property and casualty insurance and ancillary businesses such as agencies, brokerages and mutual funds). It therefore excludes:
+
+* life insurance subsidiaries,
+* other regulated financial institutions carrying on business that the parent would not be permitted to carry on directly under the Insurance Companies Act (ICA).
+
+Whether a subsidiary should be consolidated is determined by the nature of the subsidiary's business (i.e. whether it carries on business related to property and casualty insurance), not the location where the subsidiary conducts its business (e.g. a U.S. property and casualty insurance subsidiary). All other interests in subsidiaries are considered "non-qualifying" for capital purposes and are excluded from capital available and capital required calculations.
+
+#### 1.1.4. Foreign companies
+
+The margin requirement for foreign companies is set forth under the BAAT in chapter 3. The BAAT covers each of the risk components and is determined using risk factors and other methods that are applied to assets under the control of the Superintendent, to specific assets under the control of the Chief Agent, and to liabilities in Canada.
+
+The BAAT is only one element in the determination of the required assets that must be maintained in Canada by foreign companies. Foreign companies must vest assets in accordance with the Adequacy of Assets in Canada test, as prescribed in the Assets (Foreign Companies) Regulations.
+
+#### 1.1.5. Interpretation of results
+
+The MCT is a standardized measure of capital adequacy of an insurer. It is one of several indicators that OSFI uses to assess an insurer's financial condition and should not be used in isolation for ranking and rating insurers.
+
+### 1.2. General Requirements
+
+#### 1.2.1. MCT supervisory capital ratio for federally regulated insurers
+
+The MCT ratio is expressed as a percentage and is calculated by dividing the insurer's capital available by minimum capital required, which is derived from capital required calculated at the target level for specific risks.
+
+Federally regulated insurers are required, at a minimum, to maintain an MCT ratio of 100%. OSFI has established an industry-wide supervisory target capital ratio (supervisory target) of 150% that provides a cushion above the minimum requirement and facilitates OSFI's early intervention process. The supervisory target provides additional capacity to absorb unexpected losses and addresses capital needs through on-going market access.
+
+OSFI expects each insurer to establish an internal target capital ratio (internal target) per Guideline A-4 [Regulatory Capital and Internal Capital Targets (2025)](/en/guidance/guidance-library/regulatory-capital-internal-capital-targets-2025 "Regulatory Capital and Internal Capital Targets (2025)") and maintain on-going capital, above this target. However, the Superintendent may, on a case-by-case basis, establish an alternative supervisory target (in consultation with an insurer) based upon the insurer's individual risk profile.
+
+Insurers are required to inform OSFI immediately if they anticipate falling below their internal target and to lay out their plans, for OSFI's supervisory approval, to return to their internal target. OSFI will consider any unusual conditions in the market environment when evaluating insurers' performance against their internal targets.
+
+Insurers are expected to maintain their MCT ratios at or above their established internal targets on a continuous basis. Questions about an individual insurer's target ratio should be addressed to the Lead Supervisor at OSFI.
+
+#### 1.2.2. Audit requirement
+
+Insurers are required to engage their auditor appointed pursuant to section 337 or 633 of the ICA to report annually on the MCT or BAAT prepared as at fiscal year-end, in accordance with the relevant standards for such assurance engagements, as promulgated by the Canadian Auditing and Assurance Standards Board (AASB).
+
+The annual audit report of the MCT or BAAT must be prepared separately from the audit report for the financial statements, and is to be filed no later than 90 days after the insurers' fiscal year-end for Canadian companies and no later than May 31st for foreign companies.
+
+#### 1.2.3. Allocation Methodology
+
+Insurers may need to undertake an allocation exercise to determine capital requirements in accordance with this guideline. In doing so, OSFI expects that:
+
+1. Allocation methods should be systematic and have a rationale that is reasonable.
+2. Allocation methods for capital purposes should align with allocation methods used by the insurer for other business decision-making purposes.
+3. Allocation methods should be reasonably consistent with respect to similarity of characteristics, and over time. Any occasional changes to the allocation methodology should be justifiable.
+4. Allocation methods should be determined without bias. Insurers should be aware if their choices of allocation methods routinely bias results and adjust methods accordingly.
+5. Allocation methods should allocate amounts of revenues and costs with reasonable accuracy[Footnote 4](#fn4), and consider all reasonable and supportable information available at the reporting date, without undue cost or effort.
+
+An insurer should have effective monitoring and internal reporting procedures to comply, on an ongoing basis, with the above principles. An insurer should document the basis of its allocation methodology, as well as any changes to significant judgements in the allocation methods, including how it meets the principles set out above.
+
+#### 1.2.4. Intra-Group Pooling Arrangements
+
+OSFI's supervisory approval of any intra-group pooling arrangement must be obtained prior to applying the intra-group pooling capital treatment described in this guideline.
+
+### 1.3. Transitional Arrangements
+
+#### 1.3.1. Business combinations and portfolio transfers entered into and effective on or prior to June 30, 2019
+
+The contractual service margin (CSM) arising from favorable development from business combinations and portfolio transfers entered into on or prior to June 30, 2019, can be included in capital available. This transitional arrangement will apply for the three-year period beginning January 1, 2023 and ending in the fourth quarter of an insurer's fiscal year.
+
+## Chapter 2. Definition of Capital Available
+
+This chapter establishes requirements for the adequacy and appropriateness of capital resources used to meet capital requirements, having regard to their ability to meet insurers' obligations to policyholders and creditors and to absorb losses in periods of stress. This includes the determination of the criteria for assessing the quality of capital components for inclusion in capital available and the composition of capital available for regulatory purposes, focusing on the predominance of highest quality capital.
+
+### 2.1. Summary of Capital Components
+
+The four primary considerations for defining the capital available of a company for the purpose of measuring capital adequacy are:
+
+* availability: the extent to which the capital element is fully paid in and available to absorb losses;
+* permanence: the period for, and extent to which, the capital element is available;
+* absence of encumbrances and mandatory servicing costs: the extent to which the capital element is free from mandatory payments or encumbrances; and
+* subordination: the extent to which and the circumstances under which the capital element is subordinated to the rights of policyholders and creditors of the insurer in an insolvency or winding-up.
+
+Regulatory capital available will consist of the sum of the following components: common equity or category A capital, category B capital, and category C capital.
+
+#### 2.1.1. Category A capital (i.e. common equity)
+
+* Common shares issued by the insurer that meet the category A qualifying criteria as described below;
+* Surplus (share premium) resulting from the issuance of instruments included in common equity capital and other contributed surplus[Footnote 5](#fn5);
+* Retained earnings;
+* Earthquake, nuclear and general contingency reserves;
+* Accumulated other comprehensive income; and
+* Residual interest, reported either as equity or as a liability, of owner-policyholders of mutual entities.
+
+Retained earnings and accumulated other comprehensive income include interim profit or loss. Dividends are removed from capital available in accordance with applicable accounting standards.
+
+##### 2.1.1.1. Qualifying criteria for inclusion of capital instruments in category A for regulatory capital purposes[Footnote 6](#fn6)
+
+For an instrument to be included in capital available under category A, it must meet **all** of the following criteria:
+
+1. Represents the most subordinated claim in liquidation of the insurer.
+2. The investor is entitled to a claim on the residual assets that is proportional with its share of issued capital, after all senior claims have been paid in liquidation (i.e. has an unlimited and variable claim, not a fixed or capped claim).
+3. The principal is perpetual and never repaid outside of liquidation (setting aside discretionary repurchases or other means of effectively reducing capital in a discretionary manner that is allowable under relevant law and subject to the prior approval of the Superintendent).
+4. The insurer does not, in the sale or marketing of the instrument, create an expectation at issuance that the instrument will be bought back, redeemed or cancelled, nor do the statutory or contractual terms provide any feature that might give rise to such expectation.
+5. Distributions are paid out of distributable items (retained earnings included). The level of distributions is not in any way tied or linked to the amount paid in at issuance and is not subject to a contractual cap (except to the extent that an insurer is unable to pay distributions that exceed the level of distributable items or to the extent that distribution on senior ranking capital must be paid first).
+6. There are no circumstances under which the distributions are obligatory. Non-payment is, therefore, not an event of default.
+7. Distributions are paid only after all legal and contractual obligations have been met and payments on more senior capital instruments have been made. This means that there are no preferential distributions, including in respect of other elements classified as the highest quality issued capital.
+8. It is in the form of issued capital that takes the first and proportionately greatest share of any losses as they occur. Within the highest quality capital, each instrument absorbs losses on a going concern basis proportionately and *pari passu* with all the others.
+9. The paid-in amount is recognized as equity capital (i.e. not recognized as a liability) for determining balance sheet solvency.
+10. It is directly issued and paid-in[Footnote 7](#fn7) and the insurer cannot directly or indirectly have funded the purchase of the instrument. Where the consideration for the shares is other than cash, the issuance of the common shares is subject to the prior approval of the Superintendent.
+11. The paid-in amount is neither secured nor covered by a guarantee of the issuer or related entity[Footnote 8](#fn8) or subject to any other arrangement that legally or economically enhances the seniority of the claim.
+12. It is only issued with the approval of the owners of the issuing insurer, either given directly by the owners or, if permitted by applicable law, given by the Board of Directors or by other persons duly authorized by the owners.
+13. It is clearly and separately disclosed on the insurer's balance sheet, prepared in accordance with the relevant accounting standards.
+
+#### 2.1.2. Category B capital
+
+* Instruments issued by the institution that meet category B criteria and do not meet the criteria for classification as category A, subject to applicable limits;
+* Surplus (share premium) resulting from the issuance of instruments meeting category B criteria.
+
+##### 2.1.2.1. Qualifying criteria for inclusion of capital instruments in category B for regulatory capital purposes
+
+For an instrument to be included in capital available under category B, it must meet **all** of the following criteria:
+
+1. Issued and paid-in in cash or, subject to the prior approval of the Superintendent, in property.
+2. Subordinated to policyholders, general creditors and subordinated debt holders of the insurer.
+3. Is neither secured nor covered by a guarantee of the issuer or related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis policyholders and creditors.[Footnote 9](#fn9)
+4. Is perpetual, i.e. there is no maturity date and there are no step-ups[Footnote 10](#fn10) or other incentives to redeem.[Footnote 11](#fn11)
+5. May be callable at the initiative of the issuer only after a minimum of five years:
+   1. To exercise a call option, an insurer must receive prior approval of the Superintendent; and
+   2. An insurer's actions and the terms of the instrument must not create an expectation that the call will be exercised; and
+   3. An insurer must not exercise a call unless:
+      1. It replaces the called instrument with capital of the same or better quality, including through an increase in retained earnings, and the replacement of this capital is done at conditions that are sustainable for the income capacity of the insurer;[Footnote 12](#fn12) or
+      2. The insurer demonstrates that its capital position is well above the supervisory target capital requirements after the call option is exercised.
+6. Any repayment of principal (e.g. through repurchase or redemption) must require approval of the Superintendent and insurers should not assume or create market expectations that such approval will be given.
+7. Dividend/coupon discretion:
+   1. the insurer must have full discretion at all times to cancel distributions/payments;[Footnote 13](#fn13)
+   2. cancellation of discretionary payments must not be an event of default or credit event;
+   3. insurers must have full access to cancelled payments to meet obligations as they fall due;
+   4. cancellation of distributions/payments must not impose restrictions on the insurer except in relation to distributions to common shareholders.
+8. Dividends/coupons must be paid out of distributable items.
+9. The instrument cannot have a credit sensitive dividend feature, i.e. a dividend/coupon that is reset periodically based in whole or in part on the insurance organization's credit standing.[Footnote 14](#fn14)
+10. The instrument cannot contribute to liabilities exceeding assets if such a balance sheet test forms part of national insolvency law.
+11. Other than preferred shares, category B instruments included in capital available must be classified as equity per relevant accounting standards.
+12. Neither the insurer nor a related party over which the insurer exercises control or significant influence can have purchased the instrument, nor can the insurer directly or indirectly have funded the purchase of the instrument.
+13. The instruments cannot have any features that hinder recapitalization, such as provisions that require the issuer to compensate investors if a new instrument is issued at a lower price during a specified timeframe.
+14. If the instrument is not issued directly by the insurer (e.g. it is issued out of a special purpose vehicle or SPV), proceeds must be available immediately without limitation to an insurer in a form that meets or exceeds all of the other criteria for inclusion in capital available as specified under category B. For greater certainty, the only assets the SPV may hold are intercompany instruments issued by the insurer or a related entity with terms and conditions that meet or exceed criteria specified under category B. Put differently, instruments issued to the SPV have to fully meet or exceed all of the eligibility criteria under category B as if the SPV itself was an end investor – i.e. the insurer cannot issue a lower quality capital or senior debt instrument to an SPV and have the SPV issue higher quality capital instruments to third-party investors so as to receive recognition as qualifying capital under category B.
+
+Purchase for cancellation of Category B capital instruments is permitted at any time with the prior approval of the Superintendent. For further clarity, a purchase for cancellation does not constitute a call option as described in the above Category B qualifying criteria.
+
+Tax and regulatory event calls are permitted during an instrument's life subject to the prior approval of the Superintendent and provided the insurer was not in a position to anticipate such an event at the time of issuance.
+
+Dividend stopper arrangements that stop payments on common shares or Category B instruments are permissible provided the stopper does not impede the full discretion the insurer must have at all times to cancel distributions or dividends on the Category B instrument, nor must it act in a way that could hinder the recapitalization of the institution pursuant to criterion number 13 above. For example, it would not be permitted for a stopper on a Category B instrument to:
+
+* attempt to stop payment on another instrument where the payments on the other instrument were not also fully discretionary;
+* prevent distributions to shareholders for a period that extends beyond the point in time that dividends or distributions on the Category B instrument are resumed;
+* impede the normal operation of the institution or any restructuring activity, including acquisitions or disposals.
+
+A dividend stopper may also act to prohibit actions that are equivalent to the payment of a dividend, such as the insurer undertaking discretionary share buybacks.
+
+Where an amendment or variance of a Category B instrument's terms and conditions affects its recognition as regulatory capital, such amendment or variance will only be permitted with the prior approval of the Superintendent.[Footnote 15](#fn15)
+
+Insurers are permitted to "re-open" offerings of capital instruments to increase the principal amount of the original issuance provided that call options will only be exercised, with the prior approval of the Superintendent, on or after the fifth anniversary of the closing date of the latest re-opened tranche of securities.
+
+Defeasance options may only be exercised on or after the fifth anniversary of the closing date with the prior approval of the Superintendent.
+
+#### 2.1.3. Category C capital
+
+* Instruments issued by the institution that meet category C criteria, but do not meet the category A or B criteria, subject to an applicable limit;
+* Surplus (share premium) resulting from the issuance of instruments meeting the category C criteria.
+
+##### 2.1.3.1. Qualifying criteria for inclusion of capital instruments in Category C for regulatory capital purposes
+
+For an instrument to be included in capital available under category C, it must meet **all** of the following criteria:
+
+1. Issued and paid-in in cash or, with the prior approval of the Superintendent, in property.
+2. Subordinated to policyholders and general creditors of the insurer.
+3. Is neither secured nor covered by a guarantee of the issuer or related entity or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis the insurer's policyholders and/or general creditors.
+4. Maturity:
+   1. minimum original maturity of at least five years;
+   2. recognition in regulatory capital in the remaining five years before maturity will be amortized on a straight-line basis;
+   3. there are no step-ups[Footnote 16](#fn16) or other incentives to redeem.
+5. May be callable at the initiative of the issuer only after a minimum of five years:
+   1. To exercise a call option, an insurer must receive the prior approval of the Superintendent; and
+   2. An insurer must not do anything that creates an expectation that the call will be exercised;[Footnote 17](#fn17) and
+   3. An insurer must not exercise a call unless:
+      1. It replaces the called instrument with capital of the same or better quality, including through an increase in retained earnings, and the replacement of this capital is done at conditions that are sustainable for the income capacity of the insurer;[Footnote 18](#fn18) or
+      2. The insurer demonstrates that its capital position is well above the supervisory target capital requirements after the call option is exercised.
+6. The investor must have no rights to accelerate the repayment of future scheduled payments (interest or principal), except in bankruptcy, insolvency, wind-up, or liquidation.
+7. The instrument cannot have a credit sensitive dividend feature, i.e. a dividend/coupon that is reset periodically based in whole or in part on the insurer's credit standing.[Footnote 19](#fn19)
+8. Neither the insurer nor a related party over which the insurer exercises control or significant influence can have purchased the instrument, nor can the insurer directly or indirectly have funded the purchase of the instrument.
+9. If the instrument is not issued directly by the insurer (e.g. it is issued out of an SPV), proceeds must be available immediately without limitation to the insurer in a form that meets or exceeds all of the criteria for inclusion specified under category C. For greater certainty, the only assets the SPV may hold are intercompany instruments issued by the institution or a related entity with terms and conditions that meet or exceed the above category C criteria. Put differently, instruments issued to the SPV have to fully meet or exceed all of the eligibility criteria under category C as if the SPV itself was an end investor – i.e. the institution cannot issue a lower capital or a senior debt instrument to an SPV and have the SPV issue higher quality capital instruments to third-party investors so as to receive recognition as qualifying capital under category C.
+
+Category C capital instruments must not contain restrictive covenants or default clauses that would allow the holder to trigger acceleration of repayment in circumstances other than the insolvency, bankruptcy or winding-up of the issuer.
+
+Purchase for cancellation of category C instruments is permitted at any time with the prior approval of the Superintendent. For further clarity, a purchase for cancellation does not constitute a call option as described in the above Category C criteria.
+
+Tax and regulatory event calls are permitted during an instrument's life subject to the prior approval of the Superintendent and provided the insurer was not in a position to anticipate such an event at the time of issuance.
+
+Where an amendment or variance of a Category C instrument's terms and conditions affects its recognition as regulatory capital, such amendment or variance will only be permitted with the prior approval of the Superintendent.[Footnote 20](#fn20)
+
+Institutions are permitted to "re-open" offerings of capital instruments to increase the principal amount of the original issuance provided that call options will only be exercised, with the prior approval of the Superintendent, on or after the fifth anniversary of the closing date of the latest re-opened tranche of securities.
+
+Defeasance options may only be exercised on or after the fifth anniversary of the closing date with the prior approval of the Superintendent.
+
+##### 2.1.3.2. Amortization
+
+Category C capital instruments are subject to straight-line amortization in the final five years prior to maturity. Hence, as these instruments approach maturity, redemption or retraction, such outstanding balances are to be amortized based on the following schedule:
+
+Amortization Schedule
+
+| Years to Maturity | Included in Capital |
+| --- | --- |
+| 5 years or more | 100% |
+| 4 years and less than 5 years | 80% |
+| 3 years and less than 4 years | 60% |
+| 2 years and less than 3 years | 40% |
+| 1 year and less than 2 years | 20% |
+| Less than 1 year | 0% |
+
+For instruments issued prior to January 1, 2015, where the terms of the instrument include a redemption option that is not subject to prior approval of the Superintendent and/or holders' retraction rights, amortization should begin five years prior to the effective dates governing such options. For example, a 20-year debenture that can be redeemed at the insurer's option at any time on or after the first 10 years would be subject to amortization commencing in year 5. Further, where a subordinated debt was redeemable at the insurer's option at any time without the prior approval of the Superintendent, the instrument would be subject to amortization from the date of issuance. For greater certainty, this would not apply when redemption requires the Superintendent's approval as is required for all instruments issued pursuant to the above criteria in section 2.1.3.1.
+
+Amortization should be computed at the end of each fiscal quarter based on the "years to maturity" schedule above. Thus, amortization would begin during the first quarter that ends within five calendar years to maturity. For example, if an instrument matures on October 15, 2020, 20% amortization of the issue would occur on October 16, 2015 and be reflected in the December 31, 2015 regulatory return. An additional 20% amortization would be reflected in each subsequent December 31 return.
+
+#### 2.1.4. Non-controlling interests
+
+Insurers are permitted to include, in capital available, non-controlling interests in operating consolidated subsidiaries, provided:
+
+1. the capital instruments meet the qualifying criteria under category A, B and C;
+2. the capital in the subsidiary is not excessive in relation to the amount necessary to carry on the subsidiary's business; and
+3. the level of capitalization of the subsidiary is comparable to that of the insurance company as a whole.
+
+If a subsidiary issues capital instruments for the funding of the insurer, or that are substantially in excess of its own requirements, the terms and conditions of the issue, as well as the intercompany transfer, must ensure that investors are placed in the same position as if the instrument were issued by the insurer directly in order for it to qualify as capital available upon consolidation. This can only be achieved by the subsidiary using the proceeds of the issue to purchase a similar instrument from the parent. Since subsidiaries cannot buy shares of the parent P&C insurance company, it is likely that this treatment will only be applicable to the subordinated debt. In addition, to qualify as capital for the consolidated entity, the debt held by third parties cannot effectively be secured by other assets, such as cash, held by the subsidiary.
+
+### 2.2. Capital Composition Limits
+
+The inclusion of capital instruments qualifying under category B and category C criteria is subject to the following limits:
+
+* The sum of capital instruments meeting the qualifying criteria under category B and category C will not exceed 40% of total capital available, excluding accumulated other comprehensive income;
+* Capital instruments meeting the qualifying criteria under category C will not exceed 7% of total capital available, excluding accumulated other comprehensive income.
+
+Category B and category C capital exceeding the allowable limits will be subject to the following treatment for regulatory capital purposes:
+
+* In cases where capital instruments qualifying under one of either category B or C exceed the limits, the capital in excess of the limits will not be considered in the calculation of capital available. In cases where capital instruments both under category B and category C are in excess of the prescribed limits, the greater value of the two excess amounts will be excluded from capital available. In doing so, insurers must first fully exclude excess capital under category C, followed by excess capital under category B.
+* Under certain exceptional circumstances and subject to OSFI's supervisory approval, a company may be permitted to continue to include such excess amounts in capital available temporarily, upon providing OSFI with a satisfactory plan outlining the company's strategy to achieve compliance with the limits as soon as possible. Typically, only those excesses arising after issuance and as a result of operating losses or extraordinary events beyond the control of management will normally be eligible for temporary inclusion in capital available. In most other circumstances, for example, excesses resulting from:
+  1. purchases or redemptions of capital instruments;
+  2. discretionary dividend payments;
+  3. new issuances of non-common capital instruments within the same fiscal quarter; or
+  4. foreseeable events;
+
+  would generally **not** qualify for inclusion in capital available.
+
+### 2.3. Regulatory Adjustments to Capital Available
+
+#### 2.3.1. Deductions
+
+1. Interests in and loans or other forms of lending provided to non-qualifying subsidiaries, associates, and joint ventures in which the company holds more than a 10% ownership interest:
+
+   * Interests in non-qualifying subsidiaries, associates, and joint ventures in which the company holds more than a 10% ownership interest must be deducted from capital available (reference [section 2.4](#Toc-2.4));
+   * Loans or other forms of lending provided to non-qualifying subsidiaries, associates, and joint ventures in which the company holds more than a 10% ownership interest that are reported as equity on their financial statements must be deducted from capital available (reference [section 2.4](#Toc-2.4)).
+2. Unsecured unregistered reinsurance exposures and self-insured retentions:
+
+   * Amounts receivable and recoverable from an unregistered reinsurer to the extent that they are not covered by amounts payable to the same assuming reinsurer or acceptable collateral (reference [section 4.3](#Toc-4.3)) must be deducted from capital available;
+   * Self-insured retentions, included in other recoverables on liability for incurred claims, where OSFI requires acceptable collateral to ensure collectability of recoverables, and no collateral has been received (reference [section 4.4](#Toc-4.4)) must be deducted from capital available.
+3. The earthquake premium reserve (EPR) not used as part of financial resources to cover earthquake risk exposure (reference [section 4.5](#Toc-4.5)).
+4. Insurance acquisition cash flows:
+
+   * Any asset for insurance acquisition cash flows must be deducted from capital available.
+   * Unamortized insurance acquisition cash flows other than those arising from commissions[Footnote 21](#fn21) and premium taxes. This deduction is gross of any associated income tax and does not apply to the class of title insurance contracts. The amount of unamortized insurance acquisition cash flows is determined as follows:
+
+     **General measurement method (GMM)**
+
+     The balance of unamortized insurance acquisition cash flows at the end of a reporting period is determined by taking the insurance acquisition cash flows allocated to the group for the purpose of calculating the contractual service margin (CSM) or loss component at the date of initial recognition and removing the portion that would have been amortized under paragraph B125 of IFRS 17.
+
+     **Premium allocation approach (PAA)**
+
+     Unless the entity chooses to recognize insurance acquisition cash flows as an expense (i.e. by applying paragraph 59(a) of IFRS 17), the balance of unamortized insurance acquisition cash flows at the end of a reporting period is determined by:
+
+     + taking the insurance acquisition cash flows for a group paid at initial recognition, [see IFRS 17.55(a) (ii)]
+     + adding any amount arising from the derecognition at initial recognition of any asset for insurance acquisition cash flows applying paragraph 28C of IFRS 17, [see IFRS 17.55(a) (iii) 1.]
+     + adding the cumulative amount of insurance acquisition cash flows paid since the date of initial recognition, [see IFRS 17.55(b) (ii)] and
+     + removing the portion that would have been amortized since the date of initial recognition under paragraph B125 of IFRS 17. [see IFRS 17.55(b) (iii) and IFRS 17.B125]
+
+     If the insurer chooses to expense its insurance acquisition cash flows, per IFRS 17 paragraph 59 (a), the remaining amount of unamortized insurance acquisition cash flows will be zero.
+5. Accumulated other comprehensive income on cash flow hedges
+
+   * The amount of cash flow hedge reserve that relates to the hedging of items that are not fair valued on the balance sheet (including projected cash flows) must be derecognized in the calculation of capital available. This includes items that are not recognized on the balance sheet but excludes items that are fair valued on the balance sheet. Positive amounts should be deducted from capital available and negative amounts should be added back. This treatment specifically identifies the element of the cash flow hedge reserve that is to be derecognized for prudential purposes. It removes the element that gives rise to artificial volatility in capital available, as in this case the reserve only reflects one half of the picture (the fair value of the derivative, but not the changes in fair value of the hedged future cash flow).
+6. Goodwill and other intangible assets
+
+   * Goodwill related to consolidated subsidiaries and subsidiaries deconsolidated for regulatory capital purposes and the proportional share of goodwill in joint ventures subject to the equity method accounting must be deducted from capital available. The amount reported on the balance sheet is to be deducted net of any associated deferred tax liability that would be extinguished if the goodwill becomes impaired or derecognized under relevant accounting standards.
+   * All other intangible assets[Footnote 22](#fn22) must be deducted from capital available. This includes intangible assets related to consolidated subsidiaries and subsidiaries deconsolidated for regulatory capital purposes, and the proportional share of intangible assets in joint ventures subject to the equity method of accounting. The full amount is to be deducted net of any associated deferred tax liability that would be extinguished if the intangible assets become impaired or derecognized under relevant accounting standards.
+7. Deferred tax assets
+
+   * Deferred tax assets (DTAs), except for those eligible for the 10% risk factor, must be deducted from capital available. In addition, the amount of DTAs that is in excess of the amount that could be recoverable from income taxes paid in the three immediate preceding years is deducted from capital available. Deferred tax assets may be netted with associated deferred tax liabilities (DTLs) only if the DTAs and DTLs relate to taxes levied by the same taxation authority and offsetting is permitted by the relevant taxation authority.[Footnote 23](#fn23) The DTLs permitted to be netted against DTAs must exclude amounts that have been netted against the deduction of goodwill, intangibles and defined benefit pension plan assets, and must be allocated on a pro rata basis between DTAs that are to be deducted in full and DTAs that are subject to the 10% risk factor (reference [section 6.1](#Toc-6.1)).
+8. Cumulative gains and losses due to changes in own credit risk on fair valued financial liabilities
+
+   * All accumulated after-tax unrealized gains and losses that have resulted from changes in the fair value of insurer's financial liabilities that are due to changes in the institution's own credit risk must be deducted from capital available. In addition, with regard to derivative liabilities, all accounting valuation adjustments arising from the institution's own credit risk should also be deducted on an after-tax basis. The offsetting between valuation adjustments arising from the institution's own credit risk and those arising from its counterparties' credit risk is not permitted.
+9. Defined benefit pension fund assets and liabilities
+
+   * For each defined benefit pension fund that is in a surplus position and reported as an asset on the institution's balance sheet, the amounts reported as a surplus asset on the balance sheet must be deducted from capital available, net of any associated deferred tax liability that would be extinguished if the asset becomes impaired or derecognized under the relevant accounting standards, and net of any amount of available refunds of defined benefit pension fund surplus assets to which the insurer has unrestricted and unfettered access. Insurers may only reduce this deduction by an amount of available refunds of defined benefit pension plan surplus assets if they obtain a prior written supervisory approval from OSFI.[Footnote 24](#fn24)
+10. Investments in own instruments (treasury stock)
+
+    * All of institution's investments in its own instruments, whether held directly or indirectly, must be deducted from capital available (unless already derecognized under IFRS). In addition, any own stock that the institution could be contractually obliged to purchase should be deducted from capital available.
+11. Reciprocal cross holdings in the common shares of insurance, banking and financial entities
+
+    * Reciprocal cross holdings in common shares (e.g. Insurer A holds shares of Insurer B and Insurer B in return holds shares of Insurer A), also known as back-to-back placements, that are designed to artificially inflate the capital position of institutions must be fully deducted from capital available.
+12. Underlying future business under the general measurement method (GMM)
+
+    * Insurers should deduct the excess of:
+
+      + the amount of aggregate reinsurance contracts held that are assets that correspond to underlying future business, other than underlying future business that has been assumed through reinsurance contracts issued; over
+      + the amount of aggregate reinsurance contracts held that are liabilities that correspond to underlying future business, other than underlying future business that has been assumed through reinsurance contracts issued
+
+      if this amount is positive.
+
+Items that are deducted from capital available will be subject to a 0% risk factor for capital required purposes.
+
+#### 2.3.2. Additions
+
+1. Contractual service margin (CSM) associated with title insurance contracts:
+   * The net of reinsurance amount of CSM for the class of title insurance contracts is added to the insurer's capital available.
+
+#### 2.3.3. Adjustments
+
+Adjustments to owner-occupied property valuations:[Footnote 25](#fn25)
+
+* For owner-occupied property accounted for using the cost model and where the deemed value of the property was determined at conversion to the International Financial Reporting Standards (IFRS) by using fair value, unrealized after tax fair value gains (losses) must be reversed from the institution's reported retained earnings for capital adequacy purposes. The amount determined at conversion is an on-going deduction from capital available and can only be changed as a result of a sale of owner-occupied properties (owned at the time of IFRS conversion) and the resulting realization of actual gains (losses); and
+* Accumulated net after tax revaluation losses in excess of gains accounted for using the revaluation model must be reversed from retained earnings. Net after tax revaluation gains must be reversed from accumulated other comprehensive income included in capital available.
+
+### 2.4. Capital Treatment of Interests in and Loans to Subsidiaries, Associates and Joint Ventures
+
+The equity method of accounting is used for all interests in non-qualifying subsidiaries, associates and joint ventures.[Footnote 26](#fn26) These interests remain unconsolidated for MCT purposes.
+
+#### 2.4.1. Consolidated subsidiaries (e.g. property and casualty insurance and ancillary businesses such as agencies, brokerages and mutual funds)
+
+The financial statements of the subsidiaries are fully consolidated and the net value is included in the parent's capital available. The assets and liabilities of these subsidiaries are therefore subject to risk factors and liability margins in the parent's MCT.
+
+#### 2.4.2. Non-qualifying subsidiaries
+
+Interests in non-qualifying subsidiaries are excluded from capital available. Loans or other forms of lending provided to a non-qualifying subsidiary, if they are reported as equity on the financial statements of the non-qualifying subsidiary, are also excluded from capital available of the insurer. Loans or other forms of lending provided to a non-qualifying subsidiary that are **not** reported as equity are subject to a risk factor of 45%. Receivables from non-qualifying subsidiaries will attract a risk factor of 5% or 10% depending on how long the balances are outstanding (reference [section 6.1](#Toc-6.1)).
+
+#### 2.4.3. Associates
+
+An enterprise is an associate of another enterprise if:
+
+* both are subsidiaries of the same enterprise; or
+* each of them represents an investment by the same person or enterprise, in which the investor holds 20% or more of the voting power in each investment; or
+* one enterprise exerts significant influence over the other. The notion of significant influence is defined in accordance with IFRS; or
+* if an insurance broker is economically dependent on the insurer, then the broker must be treated as an associate of the insurer for capital purposes.
+
+Interests in associates are excluded from capital available. Loans or other forms of lending provided to associates, if they are reported as equity in the financial statements of the associates, are also excluded from capital available of the insurer. Loans or other forms of lending provided to associates that are **not** reported as equity are subject to a risk factor of 45%. Insurance receivables from associates that are registered reinsurers will attract a risk factor of 0.7%. Other receivables from associates will be subject to risk factors of 5% or 10% depending on how long the balances are outstanding (reference [section 6.1](#Toc-6.1)).
+
+#### 2.4.4. Joint ventures in which a company holds less than or equal to 10% ownership interest
+
+Where an insurer holds less than or equal to 10% ownership in a joint venture, the investment is included in capital available. The investment is reported under capital required for equity risk, and is subject to the risk factor applicable to investments in common shares (reference [section 5.3](#Toc-5.3)).
+
+#### 2.4.5. Joint ventures in which a company holds more than a 10% ownership interest
+
+Interests in joint ventures with more than 10% ownership are excluded from capital available. Loans or other forms of lending provided to a joint venture with more than a 10% ownership interest, if they are reported as equity on the financial statements of the joint venture with more than a 10% ownership interest, are also excluded from capital available of the insurer. Loans or other forms of lending provided to a joint venture with more than a 10% ownership interest that are **not** reported as equity are subject to a risk factor of 45%. Receivables from joint ventures with more than a 10% ownership interest will attract a risk factor of 5% or 10% depending on how long the balances are outstanding (reference [section 6.1](#Toc-6.1)).
+
+#### 2.4.6. Ownership interests in an intra-group investment arrangement
+
+Where companies participate in an intra-group investment arrangement, and the arrangement has been approved by OSFI pursuant to the requirements of the ICA, companies are not required to deduct from capital available their ownership interest. A "look-through" approach should be used for intra-group investments, similar to that for mutual funds (reference [section 6.1](#Toc-6.1)).
+
+#### 2.4.7. Summary of exposures
+
+Types of exposures an insurer might have with non-qualifying subsidiaries, associates, and joint ventures.
+
+Examples of exposures and capital treatment
+
+| Exposure | Capital treatment |
+| --- | --- |
+| Common or preferred shares (non-qualifying subsidiaries and associates) including share of accumulated earnings/losses less dividends received based on equity accounting | Excluded from capital available |
+| Ownership interests > 10% joint venture | Excluded from capital available |
+| Ownership interests ≤ 10% joint venture | Included in capital available with a risk factor of 30% applied to the ownership interest |
+| Loans or other forms of lending (bonds, debentures, mortgages, etc.) reported as equity | Excluded from capital available |
+| Loans or other forms of lending (bonds, debentures, mortgages, etc.) **not** reported as equity | Included in capital available with a risk factor of 45% |
+| Insurance receivables from associates that are registered reinsurers | Included in capital available with a risk factor of 0.7% |
+| Receivables from associates that are registered reinsurers | Included in capital available with a risk factor of 5% or 10% depending on how long the balances are outstanding |
+| Receivables from other associates, non-qualifying subsidiaries and joint ventures | Included in capital available with a risk factor of 5% or 10% depending on how long the balances are outstanding |
+
+### Appendix 2: Information Requirements for Capital Confirmations
+
+Given the potential impact of the disqualification of a capital instrument, insurers are encouraged to seek confirmations of capital quality from OSFI prior to issuing instruments.[Footnote 27](#fn27) Confirmation requests should be sent electronically to OSFI at [confirmations@osfi-bsif.gc.ca](mailto:confirmations@osfi-bsif.gc.ca). In conjunction with such requests, the insurer is expected to provide, at a minimum, the following information:
+
+1. An indicative term sheet specifying indicative dates, rates and amounts and summarizing key provisions in respect of all proposed instruments.
+2. The draft and final terms and conditions of the proposed instrument supported by relevant documents (i.e. Prospectus, Offering Memorandum, Debt Agreement, Share Terms, etc.).
+3. A copy of the institution's current by-laws or other constating documents relevant to the capital to be issued as well as any material agreements, including shareholders' agreements, which may affect the capital quality of the instrument.
+4. Where applicable, for all debt instruments only:
+   1. the draft and final Trust Indenture and supplemental indentures; and
+   2. the terms of any guarantee relating to the instrument.
+5. Where the terms of the instrument include a redemption option or similar feature upon a tax event, an external tax opinion confirming the availability of such deduction in respect of interest or distributions payable on the instrument for income tax purposes.[Footnote 28](#fn28)
+6. An accounting opinion describing the proposed treatment and disclosure of the capital instrument (other than common shares) on the institution's financial statements.[Footnote 29](#fn29)
+7. Where the initial interest or coupon rate payable on the instrument resets periodically or the basis of the interest rate changes from fixed to floating (or vice versa) at a pre-determined future date, calculations demonstrating that no incentive to redeem, or step-up, will arise upon the change in the initial rate. Where applicable, a step-up calculation should be provided according to the swap-spread methodology, which confirms there is no step-up upon the change in interest rate and supported by screenshots of the applicable reference index rate(s).
+8. Capital projections demonstrating that the insurer will be in compliance with its supervisory target capital ratios as well as the capital composition requirements specified in [section 2.2](#Toc-2.2) at the end of the quarter in which the instrument is expected to be issued.
+9. An assessment of the features of the proposed capital instrument against the qualifying criteria for category B capital instruments or category C capital instruments, as applicable, as specified in the MCT Guideline. For greater certainty, this assessment would only be required for an initial issuance or precedent and is not required for subsequent issuances provided the terms of the instrument are not materially altered.
+10. A written attestation from a senior officer of the institution confirming that the insurer has not provided financing to any person for the express purpose of investing in the proposed capital instrument.
+
+#### Service Fees related to Capital Confirmation Requests
+
+Each capital confirmation request (i.e. preliminary or final) is subject to [service fees](/en/data-forms/applications-approvals/service-standards-fees "Service standards and fees"). Amounts due to OSFI are based on the service fees in effect for precedent and/or non-precedent setting capital confirmation requests on the date of the request plus HST. Insurers should remit payments to OSFI promptly when they receive a capital confirmation.
+
+## Chapter 3. Foreign Companies Operating in Canada on a Branch Basis
+
+Under subsection 608(1) of the ICA, a foreign company is required to maintain in Canada an adequate margin of assets over liabilities in respect of its insurance business in Canada. The Branch Adequacy of Assets Test (BAAT) provides the framework within which the Superintendent assesses whether foreign companies maintain an adequate margin pursuant to subsection 608(1).
+
+All provisions in this guideline apply to branches unless stated otherwise in this chapter.
+
+Notwithstanding the stated requirements, in any case where the Superintendent believes that the capital treatment is inappropriate, a specific additional capital requirement will be determined.
+
+### 3.1. Branch Adequacy of Assets Test
+
+The BAAT ratio measures the adequacy of net assets available to meet the margin requirements as determined in accordance with this guideline. The BAAT ratio is defined as the net assets available divided by the minimum margin required, expressed as a percentage. The determination of the net assets available and the minimum margin required is described below.
+
+#### 3.1.1. Net assets available
+
+For BAAT purposes, net assets available are calculated as follows, subject to regulatory adjustments:
+
+**Total vested assets**
+
+**Less:**
+
+**Total net liabilities,** which are equal to total liabilities, net of:
+
+* Insurance contract assets
+* Reinsurance contracts held assets associated with registered reinsurers;
+* Reinsurance contracts held assets associated with unregistered reinsurers;
+* Other allowable recoverables on liability for incurred claims, including salvage and subrogation;
+* Self-insured retention recoverables to the extent permitted by OSFI (reference [section 4.4](#Toc-4.4));
+* Contractual service margin (CSM) associated with title insurance contracts net of CSM associated with reinsurance contracts held;
+* Residual interest, reported as a liability, of owner-policyholders of mutual entities.
+
+#### 3.1.2. Regulatory adjustments to net assets available
+
+**Additions:**
+
+1. Balance sheet values of right-of-use assets associated with owner-occupied leased properties, as recognized on the branch's balance sheet in accordance with relevant accounting standards.
+2. Accumulated net after tax revaluation losses in excess of gains on owner-occupied properties that are reflected in the head office account for accounting purposes.
+3. Amounts due from federally regulated insurers and approved reinsurers under funds withheld reinsurance arrangements that can be legally netted against the insurance contract liability of the branch and that meet the following conditions:
+   * The amount due does not exceed the liability owed to the insurer (i.e. any excess of receivables over liabilities is excluded).
+   * The branch has executed a written, bilateral netting contract or agreement with the insurer to which the liability is owed that creates a single legal obligation. The result of such an arrangement must be that the branch has only one obligation for payment or one claim to receive funds based on the net sum of the liabilities and amounts due in the event the counterparty to the agreement failed to perform due to default, bankruptcy, liquidation or similar circumstances.
+   * The netting arrangement specifies that only the liabilities to the counterparty arising out of the Canadian operations of the foreign company may be taken into consideration in determining the net amount owed. In particular, the counterparty must not be able to net amounts due to the branch against any liabilities of the home office or affiliates of the branch that are not liabilities arising out of the Canadian operations of the foreign company.
+   * The branch must have written and reasoned legal opinions confirming that, in the event of any legal challenge, the relevant courts or administrative authorities will find the amount owed under the netting agreement to be the net amount under the laws of all relevant jurisdictions. In reaching this conclusion, legal opinions must address the validity and enforceability of the entire netting agreement under its terms.
+     + The laws of "all relevant jurisdictions" are: a) the law of the jurisdiction where the counterparty is incorporated and, if the foreign branch of a counterparty is involved, the laws of the jurisdiction in which the branch is located; b) the law governing the individual insurance transaction; and c) the law governing any contracts or agreements required to effect the netting arrangement. The legal opinions must be generally recognized as such by the legal community in Canada or by a memorandum of law that addresses all relevant issues in a reasoned manner.
+   * The branch must have procedures in place to update legal opinions as necessary to ensure continuing enforceability of the netting arrangement in light of possible changes in relevant law.
+   * The netting contract/agreements terms and conditions and the quality and content of the legal opinions must meet the conditions of this guideline and be available to OSFI for review, if requested.
+
+**Deductions:**
+
+1. Amounts recoverable from unregistered reinsurers to the extent that they are not covered by acceptable collateral held as security from assuming reinsurers (reference [section 4.3](#Toc-4.3)).
+2. Unrealized fair value gains (losses) on owner-occupied properties reflected in the head office account at conversion to IFRS.
+3. Accumulated net after tax revaluation gains on owner-occupied properties that are reflected in the accumulated other comprehensive income for accounting purposes.
+4. Cash flows in from other insurers and subsidiaries, associates & joint ventures, including cash flows in from reinsurance contracts held that do not meet the criteria in (3) of the additions above, that are included in the determination of liabilities.
+5. Insurance acquisition cash flows
+
+   * unamortized insurance acquisition cash flows[Footnote 30](#fn30) other than those arising from commissions[Footnote 31](#fn31) and premium taxes. This deduction does not apply to the class of title insurance contracts;
+   * 45% of unamortized insurance acquisition commission[Footnote 32](#fn32) cash flows associated with accident and sickness (A&S) business (reference [section 4.6](#Toc-4.6)).
+
+   These deductions are gross of any associated income tax.
+6. Underlying future business under the general measurement method (GMM):
+
+   Insurers should deduct the excess of:
+
+   * the amount of aggregate reinsurance contracts held that are assets that correspond to underlying future business, other than underlying future business that has been assumed through reinsurance contracts issued; over
+   * the amount of aggregate reinsurance contracts held that are liabilities that correspond to underlying future business, other than underlying future business that has been assumed through reinsurance contracts issued
+
+   if this amount is positive.
+
+#### 3.1.3. Margin required
+
+Margin required is calculated with respect to the branch's liabilities, vested assets and other assets available. The BAAT minimum margin required is the sum of the following risk margins, less the diversification credit, divided by 1.5:
+
+**Sum of margin required for:**
+
+1. Insurance risk (reference chapter 4):
+   1. Liability for incurred claims and unexpired coverage;
+   2. Reinsurance held with unregistered insurers;
+   3. Earthquake and nuclear catastrophe reserves.
+2. Market risk (reference chapter 5):
+   1. Interest rate;
+   2. Foreign exchange;
+   3. Equity;
+   4. Real estate;
+   5. Right-of-use assets;
+   6. Other market exposures.
+3. Credit risk (reference chapter 6):
+   1. Counterparty default for balance sheet assets;
+   2. Counterparty default for off-balance sheet exposures;
+   3. Collateral held for unregistered reinsurance and self-insured retention (reference section 4.3.3).
+4. Operational risk (reference chapter 7).
+
+**Less:**
+
+5. Diversification credit (reference chapter 8).
+
+**Divided by 1.5.**
+
+## Chapter 4. Insurance Risk
+
+Insurance risk is the risk arising from the potential for claims or payouts to be made to policyholders or beneficiaries. Exposure to this risk results from the present value of losses being higher than the amounts originally estimated.
+
+Insurance risk includes uncertainties around:
+
+1. the ultimate amount of net cash flows from premiums, commissions, claims, and related settlement expenses, and
+2. the timing of the receipt and payment of these cash flows.
+
+The insurance risk component reflects the insurer's consolidated risk profile by individual classes of insurance and results in specific margin requirements for insurance risk. For the MCT, the risk associated with insurance exposure is divided into four parts:
+
+1. liability for incurred claims (i.e. reserving risk associated with variation in claims provisions);
+2. unexpired coverage (i.e. underwriting risk including catastrophe risk, other than earthquakes and nuclear);
+3. unregistered reinsurance; and
+4. earthquake and nuclear catastrophes.
+
+### 4.1. Diversification Credit within Insurance Risk
+
+The risk factors for each class of insurance contain an implicit diversification credit based on the assumption that insurers have a well-diversified portfolio of risks for a given portfolio of business.
+
+### 4.2. Margins for Liability for Incurred Claims and Unexpired Coverage
+
+Given the uncertainty that insurance contract liabilities will be sufficient to cover future claims, margins are added to cover a potential shortfall.
+
+#### 4.2.1. Margin for liability for incurred claims
+
+The margin for liability for incurred claims is calculated by class of insurance, by multiplying the liability for incurred claims for insurance contracts issued (net of salvage and subrogation), excluding the associated risk adjustment for non-financial risk, less the asset for incurred claims for reinsurance contracts held excluding the associated risk adjustment for non-financial risk, by the applicable risk factors multiplied by 1.10
+
+Margin for liability for incurred claims = 1.10 × ∑class of insurance risk factor × (best estimate liability for incurred claims for insurance contracts issued less the best estimate asset for incurred claims for reinsurance contracts held)
+
+Where:
+
+Best estimate liability for incurred claims for insurance contracts issued = liability for incurred claims for insurance contracts issued excluding the associated risk adjustment for non-financial risk
+
+Best estimate asset for incurred claims for reinsurance contracts held = asset for incurred claims for reinsurance contracts held excluding the associated risk adjustment for non-financial risk
+
+Table of applicable insurance risk factors for determining the margins for liability for incurred claims are as follows:
+
+| Class of Insurance | Risk Factor Liability for Incurred Claims |
+| --- | --- |
+| Personal property | 15% |
+| Commercial Property | 10% |
+| Aircraft | 20% |
+| Auto – Liability | 10% |
+| Auto – Personal Accident | 10% |
+| Auto – Other | 15% |
+| Boiler & Machinery | 15% |
+| Credit | 20% |
+| Credit Protection | 20% |
+| Fidelity | 20% |
+| Hail | 20% |
+| Legal Expense | 25% |
+| Liability | 25% |
+| Other Approved Products | 20% |
+| Surety | 20% |
+| Title | 15% |
+| Marine | 20% |
+| Warranty | Use same risk factors as the underlying class of insurance |
+| Accident & Sickness | Refer to [section 4.6](#Toc-4.6) |
+
+For reinsurance contracts, the liability or asset for incurred claims should be grossed up by the amount of funds held, if any. For insurance contracts issued, the funds held amount held by the ceding insurer is added back to the assuming insurers' liability for incurred claims. For reinsurance contracts held, the funds held amount is added back to the ceding insurers' asset for incurred claims.
+
+For groups of retrospective reinsurance contracts held carried on the balance sheet as an asset for remaining coverage, where the underlying insurance contract issued is carried as a liability for incurred claims, these contracts are included in the determination of the margin for liability for incurred claims (section 4.2.1) instead of in the determination of the margin for unexpired coverage (section 4.2.2).
+
+#### 4.2.2. Margin for unexpired coverage
+
+The margin for unexpired coverage is calculated by class of insurance, by multiplying the greater of:
+
+* net unexpired coverage; and
+* 30% of net premiums received (i.e. premiums received net of associated reinsurance premiums paid) in the past 12 months
+
+by the applicable risk factors.
+
+The net unexpired coverage is determined as:
+
+Net unexpired coverage  
+= Unexpired coverage for insurance contracts issued  
+− Unexpired coverage for reinsurance contracts held
+
+Insurance contracts issued in accordance with paragraphs 25 to 28 of the IFRS 17 standard are recognized for capital purposes in this guideline, unless otherwise specified. To determine the unexpired coverage for insurance contracts issued, only insurance contracts that have the earliest of:
+
+1. the date the coverage begins, and
+2. the date on which the first payment of the premium is due,
+
+on or prior to the reporting date should be considered recognized. For greater clarity, this means that only insurance contracts that individually meet the recognition criteria (a) or (b) set out in paragraph 25 of IFRS 17, by the reporting date, are to be treated as insurance contracts issued for purposes of the MCT's requirements for unexpired coverage.
+
+##### 4.2.2.1. Unexpired coverage for insurance contracts issued
+
+The unexpired coverage for a group of insurance contracts issued is determined as follows:
+
+Unexpired coverage for insurance contracts issued  
+= estimate of future cash flows for insurance contracts issued (excluding premium, reinsurance commission and acquisition expenses cash flows), adjusted for the time value of money if applicable
+
+Any future cash flows contingent on claims shall not be excluded. Reinsurance commissions to exclude are those not meeting the definition of insurance acquisition cash flows. The reinsurance commission used here as well as elsewhere in this document is the ceding commission (or portion of the ceding commission) paid by the reinsurer to the ceding insurer that is not contingent on claims of the underlying contracts and generally includes a total provision for broker/agent commissions, premium taxes, and other acquisition and servicing expenses.
+
+The estimate of future cash flows shall include all the future cash flows within the boundary of each contract in the group and includes expenses directly attributable to fulfilling the obligations under insurance contracts, but it would not include the risk adjustment for non-financial risk.
+
+##### 4.2.2.2. Unexpired coverage for reinsurance contracts held
+
+The unexpired coverage for a group of reinsurance contracts held is determined as follows:
+
+Unexpired coverage for reinsurance contracts held  
+= estimate of future cash flows for reinsurance contracts held (excluding premium and reinsurance commission cash flows that are due[Footnote 33](#fn33)), adjusted for the time value of money if applicable
+
+Any future cash flows contingent on claims of the underlying insurance contracts issued shall not be excluded.
+
+The estimate of future cash flows does not include the risk adjustment for non-financial risk. Estimates of future cash flows for reinsurance contracts held used here refer to the portion of current and future reinsurance contracts that covers the unexpired portion of underlying insurance contracts issued. These cash flows include expected losses recoverable, net of expected future reinsurance costs.
+
+Table with the applicable insurance risk factors for determining the margins for unexpired coverage are as follows:
+
+| Class of Insurance | Risk Factor Net Unexpired Coverage |
+| --- | --- |
+| Personal property | 20% |
+| Commercial Property | 20% |
+| Aircraft | 25% |
+| Auto – Liability | 15% |
+| Auto – Personal Accident | 15% |
+| Auto – Other | 20% |
+| Boiler & Machinery | 20% |
+| Credit | 25% |
+| Credit Protection | 25% |
+| Fidelity | 25% |
+| Hail | 25% |
+| Legal Expense | 30% |
+| Liability | 30% |
+| Other Approved Products | 25% |
+| Surety | 25% |
+| Title | 20% |
+| Marine | 25% |
+| Warranty | Use same risk factors as the underlying class of insurance |
+| Accident & Sickness | Refer to [section 4.6](#Toc-4.6) |
+
+#### 4.2.3. Risk factors for warranty business
+
+The risk factors to be used for home and product warranty should be the same as those applied for personal property. The risk factors to be used for equipment warranty should be the same as the risk factors applied for boiler and machinery.
+
+### 4.3. Risk Mitigation and Risk Transfer - Reinsurance
+
+#### 4.3.1. General
+
+The terms registered and unregistered, as defined below, are relevant in determining whether credit can be taken for reinsurance placed by insurers. In order for an insurer to obtain credit for reinsurance on account of any reinsurance arrangement with a registered or unregistered reinsurer, the reinsurance arrangement must comply with the requirements of Guideline B-3 [Sound Reinsurance Practices and Procedures – Guideline (2025)](/en/guidance/guidance-library/sound-reinsurance-practices-procedures-guideline-2025 "Sound Reinsurance Practices and Procedures – Guideline (2025)").
+
+#### 4.3.2. Registered reinsurers
+
+##### 4.3.2.1. Definition of registered reinsurer
+
+A reinsurer is generally considered to be a registered reinsurer if it is:
+
+1. a reinsurer that is either:
+
+   1. incorporated federally and has reinsured the risks of the ceding company, or
+   2. a foreign company that has reinsured in Canada the risks of the ceding company, and is authorized by order of the Superintendent to do so;
+2. a provincially/territorially regulated insurer that has been approved by the Superintendent;
+3. the Insurance Corporation of British Columbia;
+4. the Manitoba Public Insurance Corporation;
+5. Saskatchewan Government Insurance;
+6. Export Development Canada;
+7. Provincial Risk Sharing Pools administered by The Facility Association; or
+8. Quebec Risk Sharing Plan administered by the Groupement des assureurs automobiles.
+
+Subsection 578(5) of the ICA requires a foreign company, in respect of risks it reinsures in Canada, to set out in all premium notices, applications for policies and policies (which may include cover notes, offer letters or quotations) a statement that the document was issued or made in the course of its insurance business in Canada. In cases where the cover note, offer letter or quotation can be considered neither an application for a policy nor a policy, an insurer will be permitted to treat a reinsurance arrangement as registered reinsurance only if the foreign reinsurer includes, in the cover note, offer letter or quotation, a statement that the foreign reinsurer intends to issue the policy under negotiation in the course of its insurance business in Canada, and that it will take measures to ensure that the cedant's risks will be reinsured in Canada in accordance with OSFI's advisory No. 2007-01-R1 entitled [Insurance in Canada of Risks](/en/guidance/guidance-library/insurance-canada-risks " Insurance in Canada of Risks ").
+
+With respect to a Canadian company's reinsurance of out-of-Canada business only, reinsurers regulated in an OECD country may be recognized as "registered" on the basis of financial soundness, provided that the reinsurance contracts are recognized by the regulatory agencies of the countries in question. OSFI retains the authority to disqualify such reinsurance if not satisfied with the financial condition of the reinsuring company.
+
+All out-of-Canada business ceded to reinsurers not satisfying the recognized "registered" definition in the previous paragraph must follow the requirements of section 4.3.3 and must be reported on the unregistered reinsurance exhibit of the MCT Return.
+
+##### 4.3.2.2. Risk factors
+
+The risk of uncollectability of recoverables from reinsurers arises from the risk that the reinsurer will fail to pay the insurer what it is owed. There is additional risk associated with mis-assessing the amount of the required provision. The risk factor applied to the premiums associated with unexpired coverage on reinsurance contracts held from registered reinsurers[Footnote 34](#fn34) and the asset for incurred claims recoverable from registered reinsurers is treated as a combined weight under the MCT (reference [section 6.1](#Toc-6.1)).
+
+The balance sheet value used to calculate the credit risk requirement for the amounts of premiums associated with unexpired coverage on reinsurance contracts held and the asset for incurred claims recoverable from the assuming insurer arising from registered reinsurance may be reduced by:
+
+1. the liability for funds held by the ceding insurer for exclusive benefit of the ceding insurer (e.g. funds held reinsurance) to secure the payment to the ceding insurer by the reinsurer of the reinsurer's share of any loss or liability for which the reinsurer is liable under the reinsurance contract; and
+2. any other liabilities of the ceding insurer due to the reinsurer for which the ceding insurer has a legal and contractual right of setoff against the amount recoverable from the reinsurer.
+
+Total reinsurance contract assets by reinsurer cannot be negative. Acceptable collateral posted by the reinsurers under registered reinsurance contracts may be recognized provided the conditions under section 4.3.3.4 are met.
+
+#### 4.3.3. Unregistered reinsurers
+
+##### 4.3.3.1. Definition of unregistered reinsurer
+
+A reinsurer is generally considered to be unregistered if it is not a registered reinsurer as defined in section 4.3.2.1.
+
+A ceding insurer is given credit for unregistered reinsurance where the ceding insurer obtains and maintains a valid and enforceable security interest that has priority over any other security interest in assets of an unregistered reinsurer that are held in Canada in accordance with OSFI's [Guidance for Reinsurance Security Agreements – Letter (2010)](/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010 "Guidance for Reinsurance Security Agreements – Letter (2010)"). A ceding insurer is also given credit for the amount of acceptable letters of credit held to secure the payment to the ceding insurer by the reinsurer of the reinsurer's share of any loss or liability for which the reinsurer is liable under the reinsurance contract. Insurers should refer to [General Guidelines for Use of Letters of Credit (LOC's)](/en/data-forms/applications-approvals/general-guidelines-use-letters-credit-locs "General Guidelines for Use of Letters of Credit (LOC’s)") available on OSFI's website.
+
+##### 4.3.3.2. Deduction from capital available
+
+Amounts receivable and recoverable from an unregistered reinsurer, as reported for regulatory purposes, are deducted from capital available to the extent that they are not covered by premiums payable to the assuming reinsurer or acceptable collateral. Acceptable collateral is defined as non-owned deposits under a RSA, other acceptable non-owned deposits, funds held to secure payment from an assuming reinsurer, and letters of credit held as security from an assuming reinsurer. Section 4.3.3.4 outlines further conditions for using collateral to obtain credit for unregistered reinsurance. Amounts payable to an assuming reinsurer may be deducted from amounts receivable and recoverable only where there is a legal and contractual right of setoff.
+
+In respect of each unregistered reinsurer to which an insurer has ceded business, a deduction from capital available is required if the following calculation is positive:
+
+A+B+C−D−E−F−G−H
+
+Where:
+
+(A) is the amount of premiums associated with unexpired coverage, including any loss-recovery component, on reinsurance contracts held.
+
+Premiums associated with unexpired coverage on reinsurance contracts held are determined using one of two methods depending on whether an insurer uses the GMM or PAA to measure the ARC for a group of reinsurance contracts held.
+
+1. For P&C insurers using the PAA to measure a group of reinsurance contracts held, the premiums associated with unexpired coverage on reinsurance contracts held is determined as:
+
+   Asset for remaining coverage on reinsurance contracts held  
+   + unamortized reinsurance commission[Footnote 35](#fn35)  
+   + premiums to be paid to the assuming insurer
+2. For P&C insurers using the GMM to measure a group of reinsurance contracts held, the premiums associated with the unexpired coverage on reinsurance contracts held is determined as:
+
+   1. If the contractual service margin (CSM) of a group of reinsurance contracts held represents a net cost of purchasing reinsurance:[Footnote 36](#fn36)
+
+      Expected cash inflow from reinsurer + risk adjustment (RA) + CSM + unamortized reinsurance commission
+   2. If the CSM of a group of reinsurance contracts held represents a net gain of purchasing reinsurance:
+
+      Expected cash inflow from reinsurer + risk adjustment (RA) − CSM + unamortized reinsurance commission
+
+(B) is the asset for incurred claims on reinsurance contracts held from the assuming insurer;
+
+(C) is the amount of cash outflows associated with the funds held collateral that are included in (A) and (B) above;
+
+(D) are the amounts receivable from the assuming insurer that are already included in (A) or (B) above (foreign branches only);
+
+(E) is the amount of non-owned deposits held as security from assuming insurer under an acceptable RSA;
+
+(F) is the amount of premiums payable, net of any associated reinsurance commissions receivable, if any, and other acceptable non-owned deposits;
+
+(G) is the amount of funds held to secure payment from the assuming insurer;
+
+(H) is the amount of acceptable letters of credit held as security from assuming insurer.
+
+##### 4.3.3.3. Margin required
+
+The margin required for unregistered reinsurance is calculated in the unregistered reinsurance exhibit of the MCT Return and reported as margin required for "Reinsurance ceded to unregistered insurers" in the MCT.
+
+The margin is 20% of premiums associated with the unexpired coverage on reinsurance contracts held, asset for incurred claims recoverable from the assuming insurer, cash flows out for funds held less amounts receivable (foreign branches) included in A or B (the sum of amounts A, B and C less D in section 4.3.3.2). The margin requirement for each unregistered reinsurer may be reduced to a minimum of zero by premiums payable to the reinsurer and acceptable collateral (the sum of amounts E to H in section 4.3.3.2) that are in excess of the amounts of premiums associated with the unexpired coverage on reinsurance contracts held, asset for incurred claims recoverable from the assuming insurer, cash flows out for funds held less amounts receivable (foreign branches) included in A or B (the sum of amounts A, B and C less D in section 4.3.3.2).
+
+##### 4.3.3.4. Collateral
+
+The collateral used to obtain credit for a specific unregistered reinsurer must materially reduce the risk arising from the credit quality of the reinsurer. In particular, collateral used may not be related party obligations of the unregistered reinsurer (i.e. obligations of the reinsurer itself, its parent, or one of its subsidiaries or associates). With respect to the above three sources available to obtain credit, this implies that:
+
+* To the extent that a ceding insurer is reporting obligations due from a related party of the reinsurer as assets in its annual return, the ceding insurer is precluded from taking credit for funds held to secure payment from the unregistered reinsurer;
+* Reinsurers' assets located in Canada in which a ceding company has a valid and perfected first priority security interest under applicable law may not be used to obtain credit if they are obligations of a related party of the unregistered reinsurer; and
+* A letter of credit is not acceptable if it has been issued by a related party of the unregistered reinsurer.
+
+Collateral must be available to the company for a period of not less than the remaining term of the liabilities covered by the reinsurance contracts held in order to be valid towards obtaining credit for unregistered reinsurance. In cases where an arrangement contains a renewal provision for the cedant to maintain collateral for a part of or the whole of the remaining term of the liabilities covered by the reinsurance contracts held (e.g. additional fees or higher interest rate), the renewal provision should be included when determining the ceded reserves.
+
+###### Non-owned deposits from reinsurers
+
+Insurers that have received non-owned deposits provided by an unregistered reinsurer must comply with OSFI's [Guidance for Reinsurance Security Agreements – Letter (2010)](/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010 "Guidance for Reinsurance Security Agreements – Letter (2010)"). Deposits from reinsurers that are "not owned" by an insurer, including deposits held on behalf of reinsurers, are not to be reported on the insurer's balance sheet. Details of these deposits must be reported in the unregistered reinsurance exhibit of the MCT Return.
+
+Non-owned deposits held on behalf of an unregistered assuming reinsurer must be valued at market value as at the end of the statement year, including the amount of investment income due and accrued respecting these deposits.
+
+###### Letters of credit
+
+In order to be recognized for capital purposes, letters of credit must be approved by OSFI. Insurers should refer to [General Guidelines for Use of Letters of Credit (LOC's)](/en/data-forms/applications-approvals/general-guidelines-use-letters-credit-locs "General Guidelines for Use of Letters of Credit (LOC’s)"), available on OSFI's website, for OSFI's requirements relating to the use of LOCs and their approvals.
+
+The limit on the use of letters of credit to obtain capital credit for unregistered reinsurance is 30% of reinsurance contract assets (the sum of A and B in section 4.3.3.2) from assuming insurers. This limit is applied in the aggregate and not against individual reinsurance exposures.
+
+###### Capital requirements
+
+Letters of credit for unregistered reinsurance are considered a direct credit substitute and are subject to risk factors based on the credit rating of the issuing/confirming bank and the term of the liabilities covered by the reinsurance contracts held. Non-owned deposits held as collateral are subject to the same risk factors as those applied to similar assets owned by the insurer (reference [sections 5.3](#Toc-5.3) and [6.1](#Toc-6.1)).
+
+Capital requirements for collateral associated with unregistered reinsurance are calculated on an aggregate basis for the total amount of acceptable collateral from each reinsurer using applicable risk factors. Acceptable collateral that is greater than the unregistered reinsurance requirements is considered excess collateral and are not subject to capital requirements.
+
+Two steps are required to compute excess collateral and arrive at a reduction in capital required for excess collateral.
+
+**Step 1 Example: Computation of excess collateral Canadian Company** (reference unregistered reinsurance exhibit of the MCT Return)
+
+Table with step 1 calculation example
+
+| Reinsurance Contracts Held from an Unregistered Insurer | Amount ($) |
+| --- | --- |
+| Premiums associated with the unexpired coverage for reinsurance contracts held | 100 |
+| Asset for incurred claims recoverable from assuming insurer | 500 |
+| Cash flows out for funds held | 100 |
+| 20% margin on premiums associated with the unexpired coverage, asset for incurred claims and cash flows out for funds withheld recoverable | 140 |
+| Unregistered reinsurance exposure | **840** |
+| Collateral required to reduce the margin required to 0  (100 + 500 + 100) × 120% | 840 |
+| Premiums payable and Non-owned deposits | 1,000 |
+| Funds held | 100 |
+| Letters of credit | 100 |
+| Total collateral | **1,200** |
+| Excess collateral (no capital required on this amount)  1,200−840 | **360** |
+
+The amount of excess collateral should be calculated separately for each individual reinsurer and then added together.
+
+**Step 2 Example: Reduction in capital required for excess collateral**
+
+The total amount of capital required for collateral should be pro-rated to discount for excess collateral.
+
+Following step 1, the ratio of 0.30 (360/1,200) should be applied to the total amount of capital required for collateral in order to calculate the capital required for collateral excluding the excess.
+
+Table with step 2 calculation example
+
+|  | Collateral amount  (01) | Risk factor  (02) | Total capital required  (03)=(01)×(02) | Proportional allocation of excess collateral  (04) | Reduction in capital required for excess collateral  (05)=(03)×(04) |
+| --- | --- | --- | --- | --- | --- |
+| LOCs  (AA rating ≤ 1 year) | $100 | 0.25% | $0.25 | n/a not applicable | n/a not applicable |
+| Non-owned deposits  (AAA bonds ≤ 1 year) | $500 | 0.25% | $1.25 | n/a not applicable | n/a not applicable |
+| Non-owned deposits  (AA bonds > 1 year ≤ 5 years) | $500 | 1.00% | $5.00 | n/a not applicable | n/a not applicable |
+| Funds Held  (demand deposits) | $100 | 0.25% | $0.25 | n/a not applicable | n/a not applicable |
+| Total | $1,200 | n/a not applicable | $6.75 | 0.30 | $2.025 |
+
+The capital requirements for acceptable collateral, less the excess, are reported as part of capital required for credit risk (reference [chapter 6](#Toc-6)).
+
+###### Funds held to secure payment from unregistered reinsurer
+
+Cash and securities received to secure payment from unregistered reinsurers that have been co-mingled with the insurer's own funds should be reported on the insurer's balance sheet in the appropriate asset categories and will be subject to the corresponding risk factors. Funds held also include reinsurance premiums withheld by the ceding company as specified in the reinsurance contract. Details of funds held must also be reported in the unregistered reinsurance exhibit of the MCT Return. The reinsurance contract must clearly provide that, in the event of the cedant's or reinsurer's insolvency, the funds held must form part of the property of the cedant's general estate.[Footnote 37](#fn37)
+
+In order for a ceding insurer to obtain credit for funds held under a funds held reinsurance arrangement, the arrangement must not contain any contractual provision that would require payment of funds held to the reinsurer, other than those funds that, together with other forms of acceptable collateral, if any, are in excess of the ceded policy liabilities and the margin required for unregistered reinsurance, before all subject policies have expired and all claims settled (e.g. an acceleration clause). Furthermore, the ceding insurer may not provide non-contractual or implicit support, or otherwise create or sustain an expectation that any funds held could be paid to the reinsurer, other than those funds that, together with other forms of acceptable collateral, if any, are in excess of the ceded policy liabilities and the margin required for unregistered reinsurance, before all subject policies have expired and all claims settled.
+
+### 4.4. Self-Insured Retention
+
+Self-insured retention (SIR) represents the portion of a loss that is payable by the policyholder. In some cases, SIRs may be included in the policy declaration or in an endorsement to the policy, stipulating that the policy limit applies in excess of the SIR.
+
+To admit SIRs recoverable for regulatory capital purposes, OSFI must be satisfied with the collectability of recoverables, and may require collateral to ensure collectability. For example, collateral may be required when it is deemed that there is an excessive concentration of SIRs owed by any one policyholder.
+
+Letters of credit and other acceptable securities may be used as collateral for SIRs. Collateral used may not be related party obligations of the policyholder (i.e. obligations of the policyholder itself, its parent, or one of its subsidiaries or associates).
+
+Letters of credit for SIRs are considered a direct credit substitute and are subject to a risk factor based on the credit rating of the issuing/confirming bank and the term of ceded liabilities (subject to the provision for excess collateralization). General guidelines concerning letters of credit as referred to in [section 4.3](#Toc-4.3) also apply to SIRs. Risk factors for collateral other than letters of credit are the same as those applied to similar assets owned by the insurer (reference [Chapter 5](#Toc-5) and [Chapter 6](#Toc-6)).
+
+### 4.5. Earthquake and Nuclear Catastrophes
+
+#### 4.5.1. Earthquake risk exposure
+
+Insurers must refer to OSFI's Guideline B-9 [Earthquake Exposure Sound Practices](/en/guidance/guidance-library/earthquake-exposure-sound-practices-guideline-2013 "Earthquake Exposure Sound Practices - Guideline (2013)") for details on OSFI's expectations relating to insurers' earthquake exposure risk management and the related definitions. The MCT Guideline outlines the framework for quantifying the earthquake risk exposure for regulatory capital purposes and assessing insurers' capacity and financial preparedness to meet contractual obligations that may arise from a major earthquake.
+
+##### Earthquake Reserves Formula
+
+Earthquake Reserves = (EPR + ERC) × 1.25
+
+The amount of earthquake reserves includes Earthquake Premium Reserve (EPR) and Earthquake Reserve Component (ERC) and is added to total capital requirements for the purposes of the MCT/BAAT as capital/margin required at the target level.
+
+ERC (Section 4.5.1.3) = {Earthquake Risk Exposure (Section 4.5.1.1)} − {Financial Resources (Section 4.5.1.2)} ≥ 0
+
+The ERC must always be greater than or equal to 0.
+
+In the case where EPR is not used as part of financial resources to cover the earthquake risk exposure, i.e. the company has enough financial resources to cover its earthquake risk exposure without the voluntary reserve, the EPR can be deducted from capital available instead of being added to total capital requirements.
+
+##### 4.5.1.1. Measurement of Earthquake Risk Exposure
+
+The earthquake **Probable Maximum Loss (PML)** is the threshold dollar value of losses beyond which losses caused by a major earthquake are unlikely. Gross PML, which is the PML amount **after** deductibles but **before** catastrophic and other reinsurance protection, is used for calculating earthquake risk exposure for regulatory purposes. In this section, PML refers to a dollar amount[Footnote 38](#fn38) that includes adjustments for data quality, non-modelled exposures and model uncertainty as outlined in Guideline B-9 [Earthquake Exposure Sound Practices](/en/guidance/guidance-library/earthquake-exposure-sound-practices-guideline-2013 "Earthquake Exposure Sound Practices - Guideline (2013)").
+
+###### Model approach
+
+Insurers with material exposure to earthquake risk are required to use models to estimate their PML. Earthquake models include models licensed from various commercial vendors and maintained in-house or run by third parties on behalf of the insurer or can be an internal estimation technique or model developed by the insurer to OSFI's satisfaction.
+
+OSFI expects an insurer to meet a test of financial preparedness for a 500 year return period country-wide earthquake event.
+
+Country-wide PML500 =   (  East Canada PML500 1.5  +  West Canada PML500 1.5  )     1 1.5      ,
+
+where
+
+* **East Canada PML500** refers to a one in 500 year Eastern Canada event, which represents the 99.8th percentile of the exceedance probability curve plus appropriate adjustments for data quality, model uncertainty, non-modelled business etc., using exceedance probability curves based only on earthquake risk exposure in Eastern Canada.
+* **West Canada PML500** refers to a one in 500 year Western Canada event, which represents the 99.8th percentile of the exceedance probability curve plus appropriate adjustments for data quality, model uncertainty, non-modelled business etc., using exceedance probability curves based only on earthquake risk exposure in Western Canada.
+
+###### Standard approach
+
+Insurers should use the following standard formula for calculating their PML if:
+
+* The insurer does not use an earthquake model for calculating its PML, or
+* An earthquake risk exposure estimation technique is not to OSFI's satisfaction
+
+Country-wide PML = Maximum (East Canada PTIV − applicable policyholder deductibles, West Canada PTIV − applicable policyholder deductibles),
+
+where
+
+**PTIV** is the property total insured value for earthquake risk exposure, which includes building, contents, outbuildings, additional living expenses and business interruption.
+
+##### 4.5.1.2. Financial Resources
+
+An insurer must have adequate financial resources to cover its earthquake risk exposure calculated in section 4.5.1.1. Financial resources that can be used to support the insurer's earthquake risk exposure include:
+
+* capital & surplus;
+* earthquake premium reserve;
+* reinsurance coverage; and
+* capital market financing.
+
+###### Capital and Surplus
+
+Insurers can count up to a maximum of 10% of capital and surplus as part of their financial resources to cover their earthquake risk exposure. This maximum limit is subject to OSFI's discretion and can be lowered to an amount less than 10% of capital and surplus.
+
+For Canadian insurers, the amount of capital and surplus corresponds to a maximum of 10% of total equity as at the end of the reporting period being filed.
+
+A Canadian branch of a foreign insurer may use up to 10% of its worldwide capital and surplus to cover its earthquake risk exposure; however, it must be able to demonstrate that after an event, at least 10% of the worldwide capital and surplus is still available to meet its obligations to Canadian policyholders. The amount of worldwide capital and surplus corresponds to the Canadian dollar amount as at the end of the most recent reporting period filed in the home jurisdiction.
+
+###### Earthquake Premium Reserve
+
+Earthquake Premium Reserve (EPR) is the voluntary accumulation of earthquake premiums. This amount must not exceed the country-wide PML500.[Footnote 39](#fn39)
+
+* In the case where the earthquake coverage premium is implicitly included in an overall policy premium, the insurer should be able to demonstrate the reasonableness of the premium allocation specifically attributed to earthquake coverage. As an example, in the case of catastrophic reinsurance coverage not specific to earthquake risk, an allocation of the premium amount must be made and the reasonableness of the reinsurer's premium allocation must be demonstrated.
+* Any earthquake premium contributed to the EPR must remain in the EPR unless there is a material decrease in the exposure.
+* Should an earthquake occur and trigger claims, companies would establish an incurred claims provision including claims adjustment expenses. The EPR component would be reduced by an amount equal to the claims reserves.
+* Any reduction in the EPR should be brought back into unappropriated surplus immediately.
+* The EPR is a component of the reserves amount reported on the balance sheet.
+
+###### Reinsurance Coverage
+
+The estimated reinsurance coverage available should be based on reinsurance in force on the day immediately following the end of the financial reporting period and should be equal to an amount of reinsurance collectable for a loss of the size of the PML, net of retention (e.g. policies in force on July 1 for MCT calculations as at June 30).
+
+###### Capital Market Financing
+
+Prior supervisory approval from OSFI is required before these instruments can be recognized as a financial resource in the calculation of the earthquake risk formula. Refer to Guideline B-9  [Earthquake Exposure Sound Practices](/en/guidance/guidance-library/earthquake-exposure-sound-practices-guideline-2013 "Earthquake Exposure Sound Practices - Guideline (2013)") for additional information.
+
+##### 4.5.1.3. Earthquake Reserve Component
+
+Earthquake Reserve Component (ERC) is an additional component used to cover an insurer's earthquake risk exposure not covered by the financial resources. The formula to compute the ERC is as follows:
+
+ERC = Country-wide PML500 − capital and surplus − reinsurance coverage − capital market financing − EPR
+
+* Should an earthquake occur and trigger claims, companies would establish an incurred claims provision including claims adjustment expenses. The ERC component would be reduced after the EPR, by an amount equal to the claims reserves.
+* Any reduction in the ERC should be brought back into unappropriated surplus immediately.
+* The ERC is a component of the reserves amount reported on the balance sheet.
+
+#### 4.5.2. Nuclear reserve
+
+Insurers issuing nuclear risk policies are required to record an additional provision of 100% of premiums received, less premiums paid, and net of commissions, multiplied by 1.25. This provision must be held by the insurer for twenty years, after which it may be reversed.
+
+### 4.6. Accident and Sickness Business
+
+Accident and sickness reserves determined by actuaries in their valuations are primarily intended to cover expected variations in these requirements based on assumptions about mortality and morbidity. Margins on unexpired coverage and liabilities for incurred claims for accident and sickness insurance are included in the MCT to take into account possible abnormal negative variations in actual requirements.
+
+The unexpired coverage margin is calculated by applying a factor to annual insurance revenue. Generally, the factor varies with the length of the premium guarantee remaining. For Canadian insurers, a margin for insurance acquisition cash flows arising from commissions is also required and is calculated by multiplying unamortized insurance acquisition cash flows[Footnote 40](#fn40) on commissions, net of unamortized reinsurance commissions, by 45%. The liability for incurred claims margin is calculated by applying a factor to the liability for incurred claims experience relating to prior years. Generally, the factor varies with the length of benefit period remaining.
+
+Instructions for calculating the margin required for accident and sickness business are included in this section. The total requirement calculated should be included in the amount reported as the margin required for liability for incurred claims and unexpired coverage in the MCT.
+
+#### Instructions for calculating the margin required
+
+Mortality/morbidity risk for accident and sickness insurance is the risk that the liability assumptions about mortality and morbidity rates will be wrong.
+
+To compute the mortality/morbidity component, a factor is applied to the measure of the exposure to the risk. The resulting values are added to arrive at the liability for incurred claims and unexpired coverage margin requirements.
+
+The factors used in deriving the risk component vary with the guaranteed term remaining in the exposure measure.
+
+Table with the measure of the exposure to risk
+
+| Risk | Measure of Exposure | Applicable Guaranteed Term |
+| --- | --- | --- |
+| Disability Income, New Claims Risk | Annual insurance revenue | the length of the premium guarantee remaining |
+| Disability Income, Continuing Claims Risk | Disability income net reserves relating to claims of prior years | the length of the benefit period remaining |
+| Accidental Death and Dismemberment | Net amount at risk = the total net face amount of insurance less the policy liabilities (even if negative) | the period over which the mortality cost cannot be changed (limited to the remaining period to expiry or maturity) |
+
+#### 1. Disability income insurance
+
+The additional risks associated with non-cancellable guaranteed premium business should be recognized. As well, increased volatility is characteristic of disability income insurance, as compared to medical and dental expense reimbursement business.
+
+##### Unexpired coverage margin
+
+The unexpired coverage component relates to claims arising from the current year's coverage, and includes the risks of incidence and claims continuance.
+
+Table of factors applied to the measure of exposure
+
+| Percentage of Annual Insurance Revenue[Footnote 41](#fn41) | | Length of Premium Guarantee Remaining |
+| --- | --- | --- |
+| Individually Underwritten | Other |
+| 15% | 15% | less than or equal to 1 year |
+| 25% | 31.25% | greater than 1 year, but less than or equal to 5 years |
+| 37.5% | 50% | greater than 5 years |
+
+##### Liability for incurred claims margin
+
+The liability for incurred claims component covers the risk of claims continuance arising from coverage provided in prior years. The factor applies to disability income claim reserves related to claims incurred in prior years, including the portion of the provision for incurred but unreported claims.
+
+Table of the factors applied to the measure of risk exposure
+
+| Duration of Disability | | | Length of Benefit Period Remaining |
+| --- | --- | --- | --- |
+| less than or equal to 2 years | greater than 2 years but less than or equal to 5 years | greater than 5 years |
+| 5.0% | 3.75% | 2.5% | less than or equal to 1 year |
+| 7.5% | 5.625% | 3.75% | greater than 1 year but less than or equal to 2 years |
+| 10.0% | 7.5% | 5.0% | greater than 2 years or lifetime |
+
+#### 2. Accidental death and dismemberment
+
+To compute the components for accidental death and dismemberment, factors are applied to the net amount at risk.
+
+Table of factors applied to the net amount at risk
+
+| Type | | Factor | Guaranteed Term Remaining |
+| --- | --- | --- | --- |
+| Participating | Group | .019% | less than or equal to 1 year |
+| All other | .038% | All |
+| Non-participating  Individual | Adjustable | .038% | All |
+| All other | .019% | less than or equal to 1 year |
+| .038% | greater than 1 year but less than or equal to 5 years |
+| .075% | greater than 5 years, whole life, and all life insurance continued on disabled lives without payment of premiums |
+| Non-participating  Group | All | .019% | less than or equal to 1 year |
+| .038% | greater than 1 year but less than or equal to 5 years |
+| .075% | greater than 5 years, whole life, and all life insurance continued on disabled lives without payment of premiums |
+
+For participating business without meaningful dividends, and participating adjustable policies where mortality adjustability is not reasonably flexible, the factors for all other non-participating business should be used.
+
+If current premium rates are significantly less than the maximum guaranteed premium rates, the guarantee term used is that applicable to the current rates.
+
+Additional adjustments are according to group insurance. They are as follows:
+
+* The above factors may be multiplied by 50% for any group benefit that carries one of the following features: 1) a "guaranteed no risk", 2) deficit repayment by policyholders, or 3) "hold harmless" agreement where the policyholder has a legally enforceable debt to the insurer.
+* No component is required for "Administrative services only" group cases where the insurer has no liability for claims.
+
+Only "all cause" policies solicited by mail should be included in this section for automobile and common carrier accidental death and dismemberment. Specific accident perils included in accidental death and dismemberment policies solicited by mail, and "free" coverages on premium credit card groups, should be included in the "Other accident and sickness benefits" section.
+
+#### 3. Other accident and sickness benefits
+
+##### Unexpired coverage margin
+
+The component requirement is 15% of annual insurance revenue.
+
+##### Liability for incurred claims margin
+
+The component requirement is 12.5% of the provision for the liability for incurred claims relating to prior years. The use of prior years avoids a double component requirement for the liability for incurred claims arising from coverage purchases by premiums paid in the current year.
+
+#### 4. Special policyholder arrangements
+
+For group insurance deposits in excess of liabilities, excluding the liability for such deposits may reduce the component requirement on any policy to a minimum of zero. Such deposits must be:
+
+* made by policyholders;
+* available for claims payment (e.g. claim fluctuation and premium stabilization reserves, and accrued provision for experience refunds); and
+* returnable, net of applications, to policyholders on policy termination.
+
+## Chapter 5. Market Risk
+
+Market risk arises from potential changes in rates or prices in various markets such as for interest rates, foreign exchange rates, equities, real estate, and other market risk exposures. Exposure to this risk results from trading, investing, and other business activities, which create on- and off-balance sheet positions.
+
+Investments in mutual funds or other similar assets must be broken down by type of investment (bonds, preferred shares, common shares, etc.) and assigned the appropriate risk factor relating to the investment. If these investments are not reported on a prorated basis, then the factor of the riskiest asset held in the fund is assigned to the entire investment.
+
+### 5.1. Interest Rate Risk
+
+Interest rate risk represents the risk of economic loss resulting from market changes in interest rates and the impact on interest rate sensitive assets and liabilities. Interest rate risk arises due to the volatility and uncertainty of future interest rates.
+
+Assets and liabilities whose value depends on interest rates are affected. Interest rate sensitive assets include fixed income assets. Interest rate sensitive liabilities include those for which the values are determined using a discount rate.
+
+To compute the interest rate risk margin, a duration and an interest rate shock factor are applied to the fair value of interest rate sensitive assets and liabilities. The interest rate risk margin is the difference between the change in the value of interest rate sensitive assets and the change in the value of interest rate sensitive liabilities, taking into account the change in the value of recognized interest rate derivative contracts, as appropriate.
+
+#### 5.1.1. General requirements
+
+The components used to calculate the interest rate risk margin are as follows.
+
+##### 5.1.1.1. Interest rate sensitive assets
+
+The interest rate sensitive assets to be included in the calculation of the interest rate margin are those for which their fair value will change with movements in interest rates. Although certain assets, for example loans and bonds held to maturity, may be reported on the balance sheet on an amortized cost basis, their economic value, and changes in that value, are to be considered for interest rate risk margin purposes. Interest rate sensitive assets include:
+
+* term deposits and other similar short-term securities (excluding cash),
+* bonds and debentures,
+* commercial paper,
+* loans,
+* mortgages (residential and commercial),
+* mortgage-backed and asset-backed securities (MBS and ABS),
+* preferred shares,
+* interest rate derivatives held for other than hedging purposes,
+* insurance contracts assets, and
+* reinsurance contracts held assets.
+
+Investments in mutual funds and other similar assets should be broken down by type of investment (bond, preferred share, common shares, etc.). The assets in the fund that are interest rate sensitive are to be included in the determination of the fair value of the insurer's total interest rate sensitive assets.
+
+Other assets, such as cash, investment income due and accrued, common shares and investment properties, are not to be included in the determination of the value of interest rate sensitive assets. Such assets are assumed for interest rate risk margin determination purposes to be insensitive to movements in interest rates.
+
+Branches of foreign companies are to include only vested interest rate sensitive assets and interest rate sensitive assets included in the determination of net assets available.
+
+##### 5.1.1.2. Interest rate sensitive liabilities
+
+The interest rate sensitive liabilities to be included in the calculation of the interest rate risk margin are those for which their fair value will change with movements in interest rates. The following liabilities are considered sensitive to interest rates and are to be included:
+
+* insurance contracts liabilities for incurred claims,
+* insurance contracts liabilities for remaining coverage, and
+* reinsurance contract held liabilities.
+
+Insurers must obtain OSFI's supervisory approval in order to include other liabilities in the calculation of interest rate risk margin.
+
+A mutual P&C insurer's residual interest of owner-policyholders is not to be included in the interest rate sensitive liabilities in the calculation of the interest rate risk margin.
+
+For branches of foreign companies, the interest rate sensitive liabilities are those included in the determination of net assets available.
+
+##### 5.1.1.3. Allowable interest rate derivatives
+
+Interest rate derivatives are those for which the cash flows are dependent on future interest rates. They may be used to hedge an insurer's interest rate risk and as such may be recognized in the determination of the margin required for interest rate risk, subject to the conditions below.
+
+Only plain-vanilla interest rate derivatives that clearly serve to offset fair value changes in a company's capital position due to changes in interest rates may be included in the interest rate risk calculation. Plain-vanilla interest rate derivative instruments are limited to the following:
+
+* interest rate and bond futures,
+* interest rate and bond forwards, and
+* single-currency interest rate swaps.
+
+Other interest rate derivatives, including interest rate options, caps and floors are not considered plain-vanilla and may not be recognized in the determination of the interest rate risk margin.
+
+Insurers must understand the interest rate hedging strategies that they have in place and be able to demonstrate to OSFI, upon request, that the underlying hedges decrease interest rate risk exposure and that the addition of such derivatives does not result in overall increased risk. For example, insurers are expected to be able to demonstrate that they have defined the hedging objectives, the class of risk being hedged, the nature of the risk being hedged, the hedge horizon, and have considered other factors, such as the cost and liquidity of the hedging instruments. In addition, the ability to demonstrate an assessment, retrospectively or prospectively, of the performance of the hedge would be appropriate. If the insurer cannot demonstrate that the derivatives result in decreased overall risk, then additional capital may be required, and companies in this situation should contact OSFI for details.
+
+Derivatives used for hedging an insurer's interest rate risk are subject to credit risk requirements. Refer to [section 6.2](#Toc-6.2) for further details.
+
+##### 5.1.1.4. Duration of interest rate sensitive assets and liabilities
+
+Insurers are required to calculate the duration of the interest rate sensitive assets and liabilities for the purpose of the interest rate risk requirement calculation. The duration of an asset or a liability is a measure of the sensitivity of the value of the asset or liability to changes in interest rates.[Footnote 42](#fn42) [Footnote 43](#fn43) More precisely, it is the percentage change in an asset or liability value given a change in interest rates.
+
+The calculation of duration for an asset or liability will depend on the duration measure chosen and whether the cash flows of the asset or liability are themselves dependent on interest rates. **Modified duration** is a duration measure in which it is assumed that interest rate changes do not change the expected cash flows. **Effective duration** is a duration measure in which recognition is given to the fact that interest rate changes may change the expected cash flows.
+
+An insurer may use either modified duration or effective duration to calculate the duration of its assets and liabilities. However, the duration methodology chosen should apply to all interest rate sensitive assets and liabilities under consideration and the same methodology must be used consistently from year to year (i.e. "cherry-picking" is not permitted).
+
+The cash flows associated with interest rate derivatives are sensitive to changes in interest rates and therefore the duration of an interest rate derivative must be determined using effective duration. In particular, if a company has interest rate derivatives on its balance sheet that lie within the scope of section 5.1.1.3, then it must use effective duration for all of its interest rate sensitive assets and liabilities.
+
+The **portfolio duration** (modified or effective) can be obtained by calculating the weighted average of the duration of the assets or the liabilities in the portfolio.
+
+The **dollar duration** of an asset or liability is the change in dollar value of an asset or liability for a given change in interest rates.
+
+##### 5.1.1.5. Modified duration
+
+Modified duration is defined as the approximate percentage change in the present value of cash flows for a 100 basis point change in the annually compounded yield rate, assuming that expected cash flows do not change when interest rates change.
+
+Modified duration can be written as:
+
+Modified duration =   1  1 + Yield    ×    Σ t ×  PVCF t   Market Value
+
+where,
+
+* Yield = the annually compounded yield to maturity of the cash flows,
+* PVCFt = the present value of the cash flow at time t discounted at the yield rate, and
+* the sum in the numerator is taken over all times t at which a cash flow occurs.
+
+##### 5.1.1.6. Effective duration
+
+Effective duration is a duration measure in which recognition is given to the fact that interest rate changes may change the expected cash flows. Although modified duration will give the same estimate of the percentage fair value change for an option-free series of cash flows, the more appropriate measure for any series of cash flows with an embedded option is effective duration.
+
+Effective duration is determined as follows:
+
+Effective duration =    Fair value if yields decline − fair value if yields rise   2 × ( initial price ) × ( change in yield in decimal )
+
+where,
+
+* ∆y = change in yield in decimal
+* V0 = initial fair value
+* V− = fair value if yields decline by ∆y
+* V+ = fair value if yields increase by ∆y,
+
+then effective duration is as follows:
+
+V −  −  V +    2 × (  V 0  ) × ( Δ y )
+
+##### 5.1.1.7. Portfolio duration
+
+The duration of a portfolio of interest rate sensitive assets or liabilities is to be determined by calculating the weighted average of the duration of the assets or liabilities in the portfolio. The weight is the proportion of the portfolio that a security comprises. Mathematically, a portfolio's duration is calculated as follows:
+
+w1D1 + w2D2 + w3D3 + … + wkDK
+
+where,
+
+* wi = fair value of security i/fair value of the portfolio
+* Di = duration of security i
+* K = number of securities in the portfolio.
+
+##### 5.1.1.8. Dollar fair value change
+
+Modified and effective duration are related to percentage fair value changes. The interest rate risk requirements depend on determining the adjustment to the fair value of interest rate sensitive assets and liabilities for dollar fair value changes. The dollar fair value change can be measured by multiplying duration by the dollar fair value and the number of basis points (in decimal form). In other words,
+
+Dollar fair value change = duration × dollar fair value × interest rate change (in decimal)
+
+##### 5.1.1.9. Duration of allowable interest rate derivatives
+
+Effective duration is the appropriate measure that should be used when assets or liabilities have embedded options. For portfolios with eligible plain-vanilla interest rate derivatives, insurers should be using effective dollar duration because the insurer is hedging the dollar interest rate risk exposure.
+
+###### Example 5-1: Effective dollar duration of a swap
+
+Assuming an insurer has a longer duration for its interest rate sensitive assets and a shorter duration for its interest rate sensitive liabilities, the current dollar duration position of the insurer, prior to taking into consideration any interest rate derivatives, is effectively as follows:
+
+Insurer's dollar duration = dollar duration of assets − dollar duration of liabilities > 0
+
+The insurer enters into a single-currency interest rate swap in which it pays fixed-rate and receives floating-rate. The dollar duration of a swap for a fixed-rate payer can be broken down as follows:
+
+Effective dollar duration of a swap for a fixed-rate payer = effective dollar duration of a floating-rate bond − effective dollar duration of a fixed rate bond
+
+Assuming the dollar duration of the floating-rate bond is near zero, then
+
+Effective dollar duration of a swap for a fixed-rate payer = 0 − effective dollar duration of a fixed-rate bond
+
+The dollar duration of the swap position is negative; therefore, adding the swap position reduces the company's dollar duration of assets and moves the insurer's overall dollar duration position closer to zero.
+
+#### 5.1.2. Interest rate risk margin
+
+The interest rate risk margin is determined by measuring the economic impact on the insurer of a ∆y change in interest rates. The ∆y interest rate shock factor is 1.25% (∆y = 0.0125).
+
+1. The estimated change in the interest rate sensitive asset portfolio for an interest rate shock factor increase of ∆y is determined as follows:
+
+   Dollar fair value change of the interest rate sensitive asset portfolio = (Duration of interest rate sensitive asset portfolio) × ∆y × (Fair value of interest rate sensitive asset portfolio)
+2. The change in the interest rate sensitive liabilities for an interest rate shock factor increase of ∆y is determined as follows:
+
+   Dollar fair value change of the interest rate sensitive liabilities = (Duration of interest rate sensitive liabilities) × ∆y × (Fair value of interest rate sensitive liabilities)
+3. The change in the allowable interest rate derivatives for the interest rate shock factor increase of ∆y is determined as follows:
+
+   Effective dollar duration of the allowable interest rate derivatives portfolio = sum of the effective dollar duration of the allowable interest rate derivatives for a ∆y increase in interest rates
+4. The capital requirement for an interest rate shock factor increase of ∆y is determined as the greater of zero and A − B + C.
+5. Steps A through C are repeated for an interest rate shock factor decrease of ∆y (i.e. −∆y) and the capital requirement for an interest rate decrease of ∆y is the greater of zero and A − B + C.
+6. The interest rate risk margin is then determined as the maximum of D or E.
+
+### 5.2. Foreign Exchange Risk
+
+The foreign exchange risk margin is intended to cover the risk of loss resulting from fluctuations in currency exchange rates and is applied to the entire business activity of the insurer.
+
+#### 5.2.1. General requirements
+
+Two steps are necessary to calculate the foreign exchange risk margin. The first is to measure the exposure in each currency position. The second is to calculate the capital requirement for the portfolio of positions in different currencies.
+
+The foreign exchange risk margin is 10% of the greater of:
+
+1. the aggregate net long positions in each currency, adjusted by effective allowable foreign exchange rate hedges if any are used, and
+2. the aggregate net short positions in each currency, adjusted by effective allowable foreign exchange rate hedges if any are used,
+
+where effective allowable foreign exchange rate hedges are limited to plain-vanilla foreign currency derivatives such as futures and forward foreign currency contracts and currency swaps.
+
+Investments in mutual funds and other similar assets should be broken down by type of investment (bonds, preferred shares, common shares, etc.) for calculating foreign exchange risk margin. The assets in the fund that are denominated in a foreign currency are to be included in the calculation to determine the capital requirement for each currency position. In cases where a claim liability is recorded in Canadian dollars but the settlement of the claim will be made in a foreign currency, the liability must be included in the calculation of the foreign exchange risk margin.
+
+#### 5.2.2. Foreign exchange risk margin
+
+##### Step 1: Measuring the exposure in a single currency
+
+**The net open position for each currency is calculated by summing:**
+
+* the net spot position, defined as all asset items less all liability items denominated in the currency under consideration, including accrued interest and accrued expenses if they are subject to exchange rate fluctuations;
+* the net forward position (i.e. all net amounts under forward foreign exchange transactions, including currency futures and the principal on currency swaps), valued at current spot market exchange rates or discounted using current interest rates and translated at current spot rates;
+* guarantees (and similar instruments) that are certain to be called and are likely to be irrecoverable;
+* net future income/expenses not yet accrued but already fully hedged (at the discretion of the reporting institution); and
+* any other item representing a profit or loss in foreign currencies.
+
+**Adjustments:**
+
+For insurers with foreign operations, those items that are currently deducted from capital available in calculating the MCT ratio and are denominated in the corresponding currency may be excluded from the calculation of net open currency positions, to a maximum of zero. For example:
+
+* Goodwill and other intangibles;
+* Interests in non-qualifying subsidiaries, associates and joint ventures; and
+* Non-allowable foreign exchange rate hedges that are not considered in capital available.
+
+**Carve-out:**
+
+An insurer with a net open long position in a given currency may reduce the amount of the net exposure, to a maximum of zero, by the amount of a carve-out, which is equivalent to a short position of up to 25% of the liabilities denominated in the corresponding currency.
+
+##### Step 2: Calculating the capital requirement for the portfolio
+
+The nominal amount (or net present value) of the net open position in each foreign currency calculated in step 1 is converted at a spot rate into Canadian dollars. The gross capital requirement is 10% of the overall net open position, calculated as the greater of:
+
+* the sum of the net open long positions; and
+* the absolute value of the sum of the net open short positions.
+
+**Example:**
+
+An insurer has $100 of U.S. assets and $50 of U.S. liabilities.
+
+* The net spot position, defined as assets less liabilities, is a long position of $50.
+* The carve-out, using 25% of liabilities, is:
+
+  = 25% \* 50  
+  = 12.5
+* Therefore, the foreign exchange risk margin is:
+
+  = 10% \* MAX[Footnote 44](#fn44) ((net spot position − carve-out), 0)  
+  = 10% \* MAX ((50 − 12.5), 0)  
+  = 10% \* 37.5  
+  = 3.75
+
+##### 5.2.2.1. Allowable foreign currency hedges
+
+Foreign currency derivatives are those for which the cash flows are dependent on future foreign exchange rates. They may be used to hedge an insurer's foreign exchange risk and as such, may be recognized in the determination of the capital requirement for foreign exchange risk, subject to the following requirements.
+
+Only effective hedges that offset the changes in fair value of the hedged item may be included in the foreign exchange risk calculation. The company must be able to demonstrate to OSFI the effectiveness of its foreign exchange hedges.
+
+Companies with foreign currency derivatives on their balance sheet must be able to demonstrate that the addition of such derivatives does not result in increased risk. If the insurer cannot demonstrate that the derivatives do not result in increased risk, then OSFI may require additional capital.
+
+Only plain-vanilla foreign currency derivatives may be recognized in the calculation of the foreign exchange capital requirement. Plain-vanilla foreign currency derivative instruments are limited to the following:
+
+* futures foreign currency contracts,
+* forward foreign currency contracts, and
+* currency swaps.
+
+Other foreign currency derivatives, including options on foreign currencies, are not considered plain-vanilla and are not to be recognized in the determination of the foreign exchange risk margin.
+
+Derivatives used for hedging an insurer's foreign exchange risk are subject to credit risk requirements. Refer to [section 6.2](#Toc-6.2) for further details.
+
+##### 5.2.2.2. Measurement of forward currency positions
+
+Forward currency positions should be valued at current spot market exchange rates. It would not be appropriate to use forward exchange rates since they partly reflect current interest rate differentials. Companies that base their normal management accounting on net present values are expected to use the net present values of each position, discounted using current interest rates and translated at current spot rates, for measuring their forward currency positions.
+
+##### 5.2.2.3. Accrued and unearned interest income and expenses
+
+Accrued interest, accrued income and accrued expenses should be treated as a position if they are subject to exchange rate fluctuations. Unearned but expected future interest, income or expenses may be included, provided the amounts are certain and have been fully hedged by allowable forward foreign exchange contracts. Companies must be consistent in their treatment of unearned interest, income and expenses and must have written policies covering the treatment. The selection of positions that are only beneficial to reducing the overall position will not be permitted for capital purposes.
+
+##### 5.2.2.4. Unregistered reinsurance
+
+A separate component calculation must be performed for each group of liabilities ceded to an unregistered reinsurer that is backed by a distinct pool of assets, where the defining characteristic of the pool is that any asset in the pool is available to pay any of the corresponding liabilities. Each calculation should take into consideration the ceded liabilities, the assets supporting them, and deposits placed by the reinsurer to cover the capital requirement for the ceded liabilities if the deposits are in a currency different from the currency in which the ceded liabilities are payable to policyholders. If some of the assets supporting the liabilities ceded to an unregistered reinsurer are held by the ceding company (e.g. funds held), the company's corresponding liability should be treated as an asset in the calculation of the open positions for the ceded business.
+
+Excess deposits placed by an unregistered reinsurer within a pool of supporting assets may be used to reduce the foreign exchange risk requirement for the corresponding ceded business to a minimum of zero. Any requirements not covered by excess deposits must be added to the ceding company's own requirement.
+
+### 5.3. Equity Risk
+
+Equity risk is the risk of economic loss due to fluctuations in the value of common shares and other equity securities.
+
+#### 5.3.1. Common shares and joint ventures
+
+A 30% risk factor applies to investments in common shares and joint ventures in which a company holds less than or equal to 10% ownership interest.
+
+#### 5.3.2. Futures, forwards, and swaps
+
+Equity futures, forwards, and swaps attract a 30% risk factor, which is applied to the market value of the underlying equity security or index. Where a swap exchanges a return on an equity security or index for a return on a different equity security or index, a 30% risk factor applies to the market value of both equity securities or indices for which the returns are being exchanged.
+
+**Example:**
+
+An insurer has entered into a one-year swap during which it will pay the 3-month Canadian Dollar Offered Rate (CDOR) plus fees, and receive the total return on a notional index of equities that was worth 100 at the time of inception. The index of equities is currently worth 110. A 30% equity risk charge will apply to 110 for the long position in the index, but no capital charge will be required on the short position in the bond because such a position is not subject to an equity risk charge.
+
+In addition to the capital requirements set out in this section, futures, forwards, and swaps are subject to credit risk requirements. Refer to [section 6.2](#Toc-6.2) for further details.
+
+#### 5.3.3. Short positions
+
+The capital requirements for short positions in common shares, equity futures, forwards, and swaps that do not wholly or partially offset a long equity position are determined by assuming the instrument is held long and then applying the corresponding risk factor. Common shares, futures, forwards, and swaps eligible for offset recognition and the corresponding capital treatment are described in section 5.3.4.
+
+#### 5.3.4. Recognition of equity hedges
+
+Equity futures, forwards, and swaps, as well as common shares can be used to wholly or partially hedge an equity exposure. Insurers may recognize qualifying equity hedges in the calculation of the capital requirements in accordance with section 5.3.4.1 and 5.3.4.2.
+
+Insurers must document the equity hedging strategies employed and demonstrate that the hedging strategies decrease the overall risk. The documentation must be available for review, upon request. If the insurer cannot demonstrate, to the satisfaction of the Superintendent, that the hedging strategies result in decreased overall risk, then additional capital above that calculated as per sections 5.3.4.1 and 5.3.4.2 may be required, at the discretion of the Superintendent.[Footnote 45](#fn45)
+
+For hedges to qualify, they must be issued by an entity that:
+
+* issues obligations which attract a 0% factor under section 6.1.2; or
+* is rated A- or better (including clearing houses rated A- or better).
+
+##### 5.3.4.1. Identical equity securities or indices
+
+Long and short positions in exactly the same underlying equity security or index may be considered to be offsetting so that the capital requirements are calculated for the net exposure only. Individual instruments of portfolios that qualify for the capital treatment under section 5.3.4.2 cannot be carved out of the portfolios to receive the capital treatment of section 5.3.4.1.
+
+Only common shares and plain-vanilla equity futures, forwards, and swaps can obtain the capital treatment under this section. Exotic equity derivatives[Footnote 46](#fn46) do not qualify for this treatment.
+
+##### 5.3.4.2. Closely linked equity securities or indices
+
+A portfolio of common shares and equity futures, forwards, and swaps can be used to partially hedge the equity exposure of another portfolio of similar instruments. When the instruments contained in both portfolios are closely linked, instead of following the capital requirements set out in sections 5.3.1, 5.3.2, and 5.3.3, insurers may calculate the capital requirements for the combined portfolios in the following manner:
+
+(1 − Correlation Factor) × 1.5 × MIN(market value of the portfolio of hedging instruments, market value of the portfolio of instruments being hedged)
+
+The capital requirements set out above are capped at 60% of the minimum market value of both portfolios.
+
+The difference between the market value of the two portfolios is not considered a hedged position and is subject to a 30% risk factor.
+
+The Correlation Factor is derived by using:
+
+CF = A\*(B/C)
+
+where:
+
+* **A** represents the historical correlation between the returns on the portfolio of instruments being hedged and the returns on the portfolio of hedging instruments
+* **B** represents the minimum of [standard deviation of returns on the portfolio of instruments being hedged, standard deviation of returns on the portfolio of hedging instruments]
+* **C** represents the maximum of [standard deviation of returns on the portfolio of instruments being hedged, standard deviation of returns on the portfolio of hedging instruments]
+
+The historical correlations and standard deviations must be calculated on a weekly basis, covering the previous 52-week period. The returns on each portfolio of hedging instruments used to calculate the components of the CF must be determined by assuming that the portfolio is held long. The returns on each portfolio must be measured net of additional capital injections, and must include the returns on each component of the portfolio. For example, the returns on both the long and short legs of a total return swap included in a portfolio must be reflected in the calculation of the CF.
+
+The CF for the previous 52 weeks is required to be calculated for each of the past four quarters. The Correlation Factor is the lowest of the four CFs calculated and is used to calculate capital requirements.
+
+In order for the portfolios to obtain the capital treatment set out in this section, the following conditions must be met:
+
+* The instruments in both portfolios are limited to exchange-traded common shares, and plain-vanilla equity futures, forwards, and swaps where the underlying asset is an exchange-traded common share or an equity index. Portfolios that contain instruments other than those specified in this section will be subject to the capital treatment under sections 5.3.1, 5.3.2, and 5.3.3.
+* The CF is determined at the portfolio level. Individual instruments cannot be carved- out of the portfolios and receive the capital treatment as per section 5.3.4.1.
+* The portfolios that are part of a hedging strategy must have been established at least two years prior to the reporting date. In addition, the hedging strategy and the active management strategy on which both portfolios are based must not have changed in the past two years prior to the reporting date.[Footnote 47](#fn47) Portfolios that have been established for at least two years but have undergone a change in the hedging strategy or active management strategy will attract a 30% risk factor.
+
+**Example:**
+
+Suppose a portfolio of instruments is valued at $200 and is paired with another portfolio of instruments as part of a qualifying equity hedge. Assuming that the second portfolio is worth $190 and that the Correlation Factor between the two portfolios is 0.95, the total capital charge for both portfolios will be 190 × 5% × 1.5 + $10 × 30% = $17.25.
+
+Portfolios that were established less than two years prior to the reporting date attract the following capital treatment:
+
+1. No recognition of the equity hedge in the first year following the establishment of the portfolios (i.e. a 30% factor is applied to both portfolios); and
+2. in the second year, the sum of:
+   * T × capital requirements for the combined portfolios using the correlation factor approach described in this section;[Footnote 48](#fn48) and
+   * (1−T) × capital requirements set out in 1 above.
+
+   T equals 20%, 40%, 60%, and 80% in the first, second, third, and fourth quarter, respectively, of the second year following the establishment of the portfolios.
+
+**Example:**
+
+Two portfolios (as part of an equity hedge), each equal to 100, are established on April 1, 2016. On March 31, 2017, the capital charge for both portfolios will be 30% × 100 + 30% × 100 = 60. On June 30, 2017, assuming that the Correlation Factor is 0.90, the combined portfolios will be subject to a capital charge of 20% × 10% × 1.5 × 100 + 80% × 60% × 100 = 51.
+
+### 5.4. Real Estate Risk
+
+Real estate risk is the risk of economic loss due to changes in the value of a property or in the amount and timing of cash flows from a property.
+
+The risk factors for real estate
+
+| Type of Real Estate | Risk Factor |
+| --- | --- |
+| Owner-occupied properties | 10% |
+| Investment properties | 20% |
+
+For owner-occupied properties, the risk factor is applied to the value using the cost model, excluding any unrealized fair value gains (losses) arising at the conversion to IFRS, or subsequent unrealized fair value gains (losses) due to revaluation.
+
+### 5.5. Right-of-Use Assets
+
+The risks associated with right-of-use assets are related to fluctuating market lease rates and to potential changes in the amount and timing of cash flows from early cancellation penalties, and costs associated with renegotiating or locating a new lease.
+
+A 10% risk factor is applied to right-of-use assets, determined in accordance with relevant accounting standards, associated with leased owner-occupied properties and associated with leased assets that fall in the category of "other assets" (e.g. equipment).
+
+A 20% risk factor is applied to right-of-use assets, determined in accordance with relevant accounting standards, associated with leased investment properties.
+
+### 5.6. Other Market Risk Exposures
+
+Other market risk exposures include assets that fall in the category "other assets," for example, equipment, that are exposed to asset value fluctuations that may result in the value realized upon disposal being less than the balance sheet carrying value. A 10% risk factor applies to other assets as part of the total capital requirements for market risk.
+
+## Chapter 6. Credit Risk
+
+Credit risk is the risk of loss arising from a counterparty's potential inability or unwillingness to fully meet its contractual obligations due to an insurer. Exposure to this risk occurs any time funds are extended, committed, or invested through actual or implied contractual agreements. Components of credit risk include loan loss/principal risk, pre-settlement/replacement risk and settlement risk. Counterparties include issuers, debtors, borrowers, brokers, policyholders, reinsurers and guarantors.
+
+All on- and off-balance sheet exposures are subject to a specific risk factor that either: 1) corresponds to the external credit rating of the counterparty or issuer or 2) represents a prescribed factor determined by OSFI. To determine the capital requirements for balance sheet assets, factors are applied to the balance sheet values or other specified values of these assets. To determine the capital requirements for off-balance sheet exposures, factors are applied to the exposure amounts determined according to the [section 6.2](#Toc-6.2). Collateral and other forms of credit risk mitigators may be used to reduce the exposure. No risk factors are applied to assets deducted from capital available (reference [section 2.3](#Toc-2.3)). The resulting amounts are summed to arrive at the credit risk capital requirements.
+
+In respect of invested assets, insurers must comply with OSFI's Guideline B-2 [Property and Casualty Large Insurance Exposures and Investment Concentration](/en/guidance/guidance-library/property-casualty-large-insurance-exposures-investment-concentration "Property and Casualty Large Insurance Exposures and Investment Concentration").
+
+### 6.1. Capital Requirements for Balance Sheet Assets
+
+For the purpose of calculating the capital requirements for credit risk, balance sheet assets should be valued at their balance sheet carrying amounts, with the following exceptions:
+
+* Loans measured at fair value through profit and loss, fair value hedge accounting, or fair valued through other comprehensive income, should be measured at amortized cost;
+* financial assets measured at amortized cost should be valued gross of IFRS 9 Stage 1 and Stage 2 expected credit loss provisions; and
+* off-balance sheet exposures should be valued in accordance with [section 6.2](#Toc-6.2).
+
+#### 6.1.1. Use of ratings
+
+Many of the risk factors in this chapter depend on the external credit rating assigned to an asset or an obligor. In order to use a factor that is based on a rating, an insurer must meet all of the conditions specified in this section. For MCT purposes, insurers may recognize credit ratings from the following rating agencies:
+
+* DBRS
+* Fitch Rating Services
+* Japan Credit Rating Agency (JCR)
+* Kroll Bond Rating Agency (KBRA)
+* Moody's Investors Service
+* Rating and Investment Information (R&I)
+* Standard and Poor's (S&P)
+
+An insurer must choose the rating agencies it intends to rely on and then use their ratings for MCT purposes consistently for each type of asset or obligation. Companies should not select the assessments provided by different rating agencies with the sole intent to reduce their capital requirements (i.e. "cherry picking" is not permitted).
+
+Any rating used to determine a factor must be publicly available, i.e. the rating must be published in an accessible form and included in the rating agency's transition matrix. Ratings that are made available only to the parties to a transaction do not satisfy this requirement.
+
+If an insurer is relying on multiple rating agencies and there is only one assessment for a particular asset or obligor, that assessment should be used to determine the capital requirements. If there are two assessments from the rating agencies used by an insurer and these assessments differ, the insurer should apply the risk factor corresponding to the lower of the two ratings. If there are three or more assessments for an asset or obligor from an insurer's chosen rating agencies, the insurer should exclude one of the ratings that corresponds to the lowest capital requirement, and then use the rating that corresponds to the lowest capital requirement of those that remain (i.e. the insurer should use the second-highest rating from those available, allowing for multiple occurrences of the highest rating).
+
+Where an insurer holds a particular securities issue that carries one or more issue-specific assessments, the capital requirements for the asset or obligor will be based on these assessments. Where an insurer's asset is not an investment in a specifically rated security, the following principles apply:
+
+* In circumstances where the borrower has a specific rating for an issued debt security, but the insurer's asset is not an investment in this particular security, a rating of BBB− or better on the rated security may only be applied to the insurer's unrated asset if this asset ranks *pari passu* or senior to the rated security in all respects. If not, the credit rating cannot be used and the insurer's asset must be treated as an unrated obligation.
+* In circumstances where the borrower has an issuer rating, this assessment typically applies to senior unsecured assets or obligations on that issuer. Consequently, only senior assets or obligations on that issuer will benefit from a BBB− or better issuer assessment; other unassessed assets or obligations on the issuer will be treated as unrated. If either the issuer or one of its issues has a rating of BB+ or lower, this rating should be used to determine the capital requirements for an unrated asset or obligation on the issuer.
+* Short-term assessments are deemed to be issue specific. They can only be used to derive capital requirements for assets or obligations arising from the rated facility. They cannot be generalized to other short-term assets or obligations, and in no event can a short-term rating be used to support a risk factor for an unrated long-term asset or obligation.
+* Where the risk factor for an unrated exposure is based on the rating of an equivalent exposure to the borrower, foreign currency ratings should be used for exposures in foreign currency. Canadian currency ratings, if separate, should only be used to determine the capital requirements for assets or obligations denominated in Canadian currency.
+
+The following additional conditions apply to the use of ratings:
+
+* External assessments for one entity within a corporate group may not be used to determine the risk factors for other entities within the same group.
+* No rating may be inferred for an unrated entity based on assets that the entity possesses.
+* In order to avoid the double counting of credit enhancement factors, companies may not recognize credit risk mitigation if the credit enhancement has already been reflected in the issue-specific rating.
+* An insurer may not recognize a rating if the rating is at least partly based on unfunded support (e.g. guarantees, credit enhancement or liquidity facilities) provided by the insurer itself or one of its associates.
+* Any assessment used must take into account and reflect the entire amount of credit risk exposure an insurer has with regard to all payments owed to it. In particular, if an insurer is owed both principal and interest, the assessment must fully take into account and reflect the credit risk associated with repayment of both principal and interest.
+* Insurers may not rely on unsolicited ratings in determining the risk factors for an asset, except where the asset is a sovereign exposure and a solicited rating is not available.
+
+#### 6.1.2. Credit risk factors
+
+Various risk factors are applied to invested assets depending on the external credit rating and the remaining term to maturity as outlined below.
+
+Investments in mutual funds or other similar assets must be broken down by type of investment (bonds, preferred shares, etc.) and assigned the appropriate risk factor relating to the investment. If these investments are not reported on a prorated basis, then the factor of the riskiest asset held in the fund, is assigned to the entire investment.
+
+##### 6.1.2.1. Long-term obligations
+
+Long-term obligations, including term deposits, bonds, debentures, and loans that are not eligible for a 0% risk factor attract risk factors according to the following table. Long-term obligations generally have an original term to maturity at issue of 1 year or more.
+
+Factors for long-term obligations
+
+| Rating | 1 year or less remaining term to maturity | Greater than 1 year up to and including 5 years remaining term to maturity | Greater than 5 years remaining term to maturity |
+| --- | --- | --- | --- |
+| AAA | 0.25% | 0.50% | 1.25% |
+| AA+ to AA− | 0.25% | 1.00% | 1.75% |
+| A+ to A− | 0.75% | 1.75% | 3.00% |
+| BBB+ to BBB− | 1.50% | 3.75% | 4.75% |
+| BB+ to BB− | 3.75% | 7.75% | 8.00% |
+| B+ to B− | 7.50% | 10.50% | 10.50% |
+| Unrated | 6.00% | 8.00% | 10.00% |
+| Below B− | 15.50% | 18.00% | 18.00% |
+
+* Remaining term to maturity denotes the number of years from the reporting date until the maturity date.
+* Insurers may use effective maturity as an option for determining risk factors for investments in long-term obligations subject to a determined cash flow schedule. The following formula may be used to calculate effective maturity:
+
+  Effective Maturity (M) =     Σ t  t ×  CF t     Σ t   CF t      ,
+
+  where CFt denotes the cash flows (principal, interest payments and fees) contractually payable by the borrower in period t.
+* In cases where an insurer elects not to calculate an effective maturity or if it is not feasible to do so using the above formula, the insurer is required to use the maximum remaining time (in years) that the borrower is permitted to fully discharge its contractual obligation (principal, interest, and fees) under the terms of the loan agreement. Normally, this would correspond to the nominal maturity or term to maturity of the instrument.
+* Where information is not available to determine the redemption/maturity of an asset, insurers must use the "greater than 5 years" category for that asset.
+
+##### 6.1.2.2. Short-term obligations
+
+Short-term obligations, including commercial paper, that are not eligible for a 0% risk factor have risk factors assigned according to the following table. Short-term obligations generally have an original term to maturity at issue of no more than 365 days.
+
+Factors for short-term obligations
+
+| Rating | Factor |
+| --- | --- |
+| A-1, F1, P-1, R-1 or equivalent | 0.25% |
+| A-2, F2, P-2, R-2 or equivalent | 0.50% |
+| A-3, F3, P-3, R-3 or equivalent | 2.00% |
+| Unrated | 6.00% |
+| All other ratings, including non-prime and B or C ratings | 8.00% |
+
+##### 6.1.2.3. Asset-backed securities
+
+The category of asset-backed securities encompasses all securitizations, including collateralized mortgage obligations and mortgage-backed securities, as well as other exposures that result from stratifying or tranching an underlying credit exposure. For exposures that arise as a result of asset securitization transactions, insurers should refer to Guideline B-5: [Asset Securitization](/en/guidance/guidance-library/asset-securitization-guideline-2018 "Asset Securitization - Guideline (2018)")[Footnote 49](#fn49) to determine whether there are functions provided (e.g. credit enhancement and liquidity facilities) that require capital for credit risk.
+
+###### National Housing Act (NHA) mortgage-backed securities
+
+NHA mortgage-backed securities that are guaranteed by Canada Mortgage Housing Corporation (CMHC) receive a factor of 0% to recognize the fact that obligations incurred by CMHC are legal obligations of the Government of Canada.
+
+###### Other asset-backed securities
+
+The capital requirements for all other asset-backed securities are based on their external ratings. In order for an insurer to use external ratings to determine a capital requirement, the insurer must comply with all of the operational requirements for the use of ratings in Guideline B-5: [Asset Securitization](/en/guidance/guidance-library/asset-securitization-guideline-2018 "Asset Securitization - Guideline (2018)").
+
+For asset-backed securities (other than resecuritizations) rated BBB or higher, the capital requirement is the same as the requirement specified in subsection 6.1.2.1 for a long-term obligation having the same rating and maturity as the asset-backed security. If an asset-backed security is rated BB, an insurer may recognize the rating only if it is a third-party investor in the security. The credit risk factor for an asset-backed security (other than a resecuritization) rated BB in which a company is a third-party investor is 300% of the requirement for a long-term obligation rated BB having the same rating and maturity as the security.
+
+The credit risk factors for short-term asset-backed securities (other than resecuritizations) rated A-3 or higher are the same as those in subsection 6.1.2.2 for short-term obligations having the same rating.
+
+The credit risk factor for any resecuritization rated BBB or higher is 200% of the risk factor applicable to an asset-backed security having the same rating and maturity as the resecuritization.
+
+The credit risk factor for securitization exposures classified within the highest risk category of securitization exposures, as defined in Guideline B-5: [Asset Securitization](/en/guidance/guidance-library/asset-securitization-guideline-2018 "Asset Securitization - Guideline (2018)"), is 60%.
+
+The credit risk factor for any asset-backed security that is not mentioned above (including unrated securities and any asset-backed security that is rated lower than BB) is 60%.
+
+##### 6.1.2.4. Preferred shares
+
+Risk factors for preferred shares
+
+| Rating | Factor |
+| --- | --- |
+| AAA, AA+ to AA-, Pfd-1, P-1 or equivalent | 3.00% |
+| A+ to A-, Pfd-2, P-2 or equivalent | 5.00% |
+| BBB+ to BBB−, Pfd-3, P-3 or equivalent | 10.00% |
+| BB+ to BB−, Pfd-4, P-4 or equivalent | 20.00% |
+| B+ or lower, Pfd-5, P-5 or equivalent or unrated | 30.00% |
+
+##### 6.1.2.5. Other balance sheet assets
+
+Other risk factors for balance sheet assets
+
+| Factor | Asset |
+| --- | --- |
+| 0.00% | * Cash held on the company's own premises,[Footnote 50](#fn50) * Obligations[Footnote 51](#fn51) of federal, provincial, and territorial governments in Canada, * Obligations of agents of the federal, provincial or territorial governments in Canada whose obligations are, by virtue of their enabling legislation, direct obligations of the parent government, * Obligations of sovereigns rated AA- or better and their central banks,[Footnote 52](#fn52) * Obligations that have been explicitly, directly, irrevocably and unconditionally guaranteed by a government entity eligible for a 0% risk factor including, for example, residential mortgages insured under the NHA or equivalent provincial mortgage insurance program and NHA mortgage-backed securities that are guaranteed by the Canada Mortgage and Housing Corporation, * Current tax assets (income tax receivables), * Premiums associated with the unexpired coverage on reinsurance contracts held from registered reinsurers arising from intra-group pooling arrangements approved by OSFI. * Asset for incurred claims recoverable from registered reinsurers arising from intra-group pooling arrangements approved by OSFI. * Any deductions from capital, including goodwill, intangible assets and interests in non-qualifying subsidiaries, associates, and joint ventures with more than 10% ownership interest. |
+| 0.25% | * Demand deposits, certificates of deposit, drafts, checks, acceptances and similar obligations that have an original maturity of less than three months, and that are drawn on regulated deposit-taking institutions subject to the solvency requirements of the Basel Framework.   (Note: where the maturity of the asset is longer than three months, the risk factor related to the credit rating of the regulated deposit-taking institution would apply instead.) |
+| 0.70% | * Insurance receivables from registered reinsurers that are included in premiums associated with the unexpired coverage on reinsurance contracts held or asset for incurred claims recoverable, excluding intra-group pooling arrangements approved by OSFI, * Receivables from the Facility Association Residual Market and Uninsured Automobile Fund. |
+| 2.50% | * Investment income due and accrued, * Premiums associated with the unexpired coverage on reinsurance contracts held from (reference [section 4.3.2.2](#Toc-4.3.2.2)) registered reinsurers, excluding intra-group pooling arrangements approved by OSFI, * Asset for incurred claims recoverable from registered reinsurers, excluding intra-group pooling arrangements approved by OSFI. |
+| 4% | * First mortgages on one- to four-unit residential dwellings. |
+| 5% | * Receivables, outstanding less than 60 days, from agents, brokers, non-qualifying subsidiaries, associates, joint ventures, and policyholders, including instalment premiums and other receivables.[Footnote 53](#fn53) |
+| 10% | * Receivables, outstanding 60 days or more, from agents, brokers, non-qualifying subsidiaries, associates, joint ventures and policyholders, including instalment premiums and other receivables,[Footnote 54](#fn54) * Commercial mortgages and other residential mortgages that do not qualify as first mortgages on one- to four-unit residential dwellings, * The amount of available refunds of defined benefit pension fund surplus assets included in capital available, * Deferred tax assets arising from temporary differences that the institution could recover from income taxes paid in the three immediate preceding years. DTAs from temporary differences that are in excess of the amount of taxes recoverable in the three immediate preceding years should be deducted from capital available. * Other investments not specified in this section or [section 5.5](#Toc-5.5) as part of other market risk exposures, excluding derivative-related amounts. Capital requirements for derivative-related amounts included in other investments are set out in [section 6.2](#Toc-6.2), * Other assets not specified in this section or [section 5.5](#Toc-5.5) as part of other market risk exposures, excluding other investments. |
+| 15% | * Mortgages secured by undeveloped land (i.e. construction financing), other than land used for agricultural purposes or for the production of minerals. A property recently constructed or renovated will be considered as "under construction" until it is completed and 80% leased. |
+| 20% | * Other recoverables (mainly salvage and subrogation) on the liability for incurred claims, * Self-insured retention recoverables not deducted from capital (reference [section 4.4](#Toc-4.4)), * Assets held for sale (other than financial).[Footnote 55](#fn55) |
+| 45% | * Loans or other forms of lending (bonds, debentures, mortgages, etc.) to non-qualifying (non-consolidated) subsidiaries, associates and joint ventures with more than a 10% ownership interest, that are not reported as equity on their financial statements. * Unamortized insurance acquisition commission cash flows related to A&S business (reference [section 4.6](#Toc-4.6)). |
+
+### 6.2. Capital Requirements for Off-Balance Sheet Exposures
+
+The capital required for off-balance sheet exposures such as structured settlements, letters of credit or non-owned deposits, derivatives and other exposures is calculated in a manner similar to on-balance sheet assets in that the credit risk exposure is multiplied by a counterparty risk factor to arrive at the capital required. However, unlike most assets, the face amount of an off-balance sheet exposure does not necessarily reflect the true credit risk exposure. To approximate this exposure, a credit equivalent amount is calculated for each exposure. This amount, net of any collateral or guarantees, is then multiplied by a credit conversion factor. For letters of credit and non-owned deposits, the credit equivalent amount is the face value. The determination of the counterparty credit risk categories and the approach for determining the eligibility of collateral and guarantees is the same as it is for other assets. For letters of credit and non-owned deposits, the counterparty credit risk is found under [section 4.3](#Toc-4.3).
+
+Insurers should also refer to OSFI's Guideline B-5: [Asset Securitization](/en/guidance/guidance-library/asset-securitization-guideline-2018 "Asset Securitization - Guideline (2018)"), which outlines the regulatory framework for asset securitization transactions, including transactions that give rise to off-balance sheet exposures.
+
+The risk to an insurer associated with structured settlements, letters of credit, non-owned deposits, derivatives and other exposures and the amount of capital required to be held against this risk is:
+
+1. The credit equivalent amount of the instrument at the reporting date;
+2. Less: the value of eligible collateral securities or guarantees (reference [section 6.3](#Toc-6.3));
+3. Multiplied by: a factor reflecting the nature and maturity of the instrument (credit conversion factor); and
+4. Multiplied by: a factor reflecting the risk of default of the counterparty to a transaction (counterparty credit risk).
+
+#### 6.2.1. Credit equivalent amount
+
+The credit equivalent amount related to off-balance sheet exposures varies according to the type of instrument.
+
+##### 6.2.1.1. Structured settlements
+
+The credit equivalent amount for a "Type 1" structured settlement is the current replacement cost of the settlement, which is gross of the coverage provided by Assuris.
+
+"Type 1" structured settlements are not recorded as liabilities on the balance sheet, and have the following characteristics:
+
+1. An annuity is purchased by an insurer who is named the owner. There is an irrevocable direction from the insurer to the annuity underwriter to make all payments directly to the claimant.
+2. Since the annuity is non-commutable, non-assignable and non-transferable, the insurer is not entitled to any annuity payments and there are no rights under the contractual arrangement that would provide any current or future benefit to the insurer.
+3. The insurer is released by the claimant indicating settlement of the claim amount.
+4. The insurer remains liable to make payments to the claimant in the event and to the extent the annuity underwriter fails to make payments under the terms and conditions of the annuity and the irrevocable direction given.
+
+Under this type of structured settlement arrangement, the insurer is not required to recognize a liability to the claimant, nor is it required to recognize the annuity as a financial asset. However, the insurer is exposed to some credit risk by guaranteeing the obligation of the annuity underwriter to the claimant and, consequently, must set aside additional capital.
+
+Insurers should refer to Guideline D-5 [Accounting for Structured Settlements](/en/guidance/guidance-library/accounting-structured-settlements "Accounting for Structured Settlements").
+
+##### 6.2.1.2. Derivatives
+
+The credit equivalent amount for derivatives is the positive replacement cost (obtained by "marking to market") plus an amount for potential future credit exposure (an "add-on" factor).
+
+Derivatives include forwards, futures, swaps, purchased options, and other similar contracts. Insurers are not exposed to credit risk for the full face value of these contracts (notional principal amount); only to the potential cost of replacing the cash flow (on contracts showing a positive value) if the counterparty defaults. The credit equivalent amounts are assigned the risk factor appropriate to the counterparty in order to calculate the capital requirement.
+
+The credit equivalent amount depends on the maturity of the contract and the volatility of the underlying instrument. It is calculated by adding:
+
+1. the total replacement cost (obtained by "marking to market") of all contracts with positive value; and
+2. an amount for potential future credit exposure (or "add-on"). This is calculated by multiplying the notional principal amount by the following factors:
+
+Derivative "Add-On" Factors
+
+| Residual Maturity (01) | Interest Rate (02) | Exchange Rate and Gold (03) | Equity (04) | Precious Metals except Gold (05) | Other Instruments (06) |
+| --- | --- | --- | --- | --- | --- |
+| One year or less | 0.0% | 1.0% | 6.0% | 7.0% | 10.0% |
+| One year to five years | 0.5% | 5.0% | 8.0% | 7.0% | 12.0% |
+| Over five years | 1.5% | 7.5% | 10.0% | 8.0% | 15.0% |
+
+Notes:
+
+1. Instruments traded on exchanges do not require capital for counterparty credit risk where they are subject to daily margining requirements.
+2. For contracts with multiple exchanges of principal, the factors are to be multiplied by the number of remaining payments in the contract.
+3. For contracts that are structured to settle outstanding exposures following specified payment dates, and where the terms are reset so that the market value of the contract is zero on these specified dates, the residual maturity is considered to be the time until the next reset date. In the case of interest rate contracts with remaining maturities of more than one year and that also meet the above criteria, the add-on factor is subject to a floor of 0.5%.
+4. Contracts not covered by columns (02) to (05) in the above table are to be treated as "other instruments" for the purpose of determining the add-on factor.
+5. No potential credit exposure would be calculated for single currency floating/floating interest rate swaps; the credit exposure on these contracts would be evaluated solely on the basis of their mark-to-market value.
+6. The add-ons are based on effective rather than stated notional amounts. In the event that the stated notional amount is leveraged or enhanced by the structure of the transaction, companies must use the actual or effective notional amount when determining potential future exposure. For example, a stated notional amount of $1 million with payments calculated at two times LIBOR would have an effective notional amount of $2 million.
+7. Potential credit exposure is to be calculated for all over-the-counter (OTC) contracts (with the exception of single currency floating/floating interest rate swaps), regardless of whether the replacement cost is positive or negative.
+
+No add-on for potential future exposure is required for credit derivatives. The credit equivalent amount for a credit derivative is equal to the greater of its replacement cost or zero.
+
+##### 6.2.1.3. Other exposures
+
+###### Commitments
+
+A commitment involves an obligation (with or without a material adverse change or similar clause) of the insurer to fund its customer in the normal course of business should the customer seek to draw down the commitment. This includes:
+
+1. extending credit in the form of loans or participations in loans, lease financing receivables, mortgages or loan substitutes; or
+2. purchasing loans, securities, or other assets.
+
+Normally, commitments involve a written contract or agreement and a commitment fee or some other form of consideration.
+
+The maturity of a commitment should be measured from the date when the commitment was accepted by the customer, regardless of whether the commitment is revocable or irrevocable, conditional or unconditional, until the earliest date on which:
+
+1. the commitment is scheduled to expire, or
+2. the insurer can, at its option, unconditionally cancel the commitment.
+
+###### Repurchase and reverse repurchase agreements
+
+A securities repurchase (repo) is an agreement whereby a transferor agrees to sell securities at a specified price and repurchase the securities on a specified date and at a specified price. Since the transaction is regarded as a financing transaction for accounting purposes, the securities remain on the balance sheet. Given that these securities are temporarily assigned to another party, the factor accorded to the asset should be the higher of the factor of the security and the factor of the counterparty to the transaction (net of any eligible collateral).
+
+A reverse repo agreement is the opposite of a repo agreement, and involves the purchase and subsequent sale of a security. Reverse repos are treated as collateralized loans, reflecting the economic reality of the transaction. The risk is therefore to be measured as an exposure to the counterparty. Where the asset temporarily acquired is a security that attracts a preferential factor, this would be recognized as collateral and the factor would be reduced accordingly.
+
+###### Guarantees provided in securities lending
+
+In securities lending, insurers can act as principal to the transaction by lending their own securities or as agent by lending securities on behalf of clients. When the insurer lends its own securities, the risk factor is the higher of:
+
+* the risk factor related to the instruments lent, or
+* the risk factor for an exposure to the borrower of the securities. The exposure to the borrower may be reduced if the insurer holds eligible collateral (reference [section 6.3](#Toc-6.3)). Where the insurer lends securities through an agent and receives an explicit guarantee of the return of the securities, the insurer may treat the agent as the borrower subject to the conditions in section 6.3.2.
+
+When the insurer, acting as an agent, lends securities on behalf of a client and guarantees that the securities lent will be returned, or the insurer will reimburse the client for the current market value, the insurer should calculate the capital requirement as if it were the principal to the transaction. The capital requirements are those for an exposure to the borrower of the securities, where the exposure amount may be reduced if the insurer holds eligible collateral (reference [section 6.3](#Toc-6.3)).
+
+#### 6.2.2. Credit conversion factors
+
+Separate credit conversion factors exist for structured settlements, letters of credit, non-owned deposits, derivatives and other exposures.
+
+For other exposures, the weighted average of the credit conversion factors, described below, for all of these instruments held by the P&C insurer, should be used.
+
+Table of Credit Conversion Factors
+
+| Factor | Instrument |
+| --- | --- |
+| 100% | * Direct credit substitutes (general guarantees of indebtedness and guarantee-type instruments, including standby letters of credit and non-owned deposits serving as financial guarantees for, or supporting, loans and securities). * Derivatives such as forwards, futures, swaps, purchased options (including options purchased over the counter) and other similar derivative contracts, including:   1. Interest rate contracts (single currency interest rate swaps, basis swaps, forward rate agreements and products with similar characteristics, interest rate futures, interest rate options purchased, and similar derivative contracts based on specific parameters as well as on indices, etc.).   2. Equity contracts (forwards, swaps, purchased options, and similar derivative contracts based on specific parameters as well as on indices, etc.).   3. Exchange rate contracts (gold contracts, cross-currency swaps, cross-currency interest rate swaps, outright forward foreign exchange contracts, currency futures, currency options purchased, and similar derivative contracts based on specific parameters as well as on indices, etc.).   4. Precious metals (except gold) and other commodity contracts (forwards, swaps, purchased options, and similar derivative contracts based on specific parameters as well as on indices, etc.).   5. Other derivative contracts based on specific parameters as well as on indices (such as catastrophe insurance options and futures). * Forward agreements (contractual obligations) to purchase assets. * Sale and repurchase agreements. * All other exposures not reported elsewhere (provide details). |
+| 50% | * Structured settlements that are not recorded as liabilities on the balance sheet (refer to Type 1 characteristics and to Guideline D-5 [Accounting for Structured Settlements](/en/guidance/guidance-library/accounting-structured-settlements "Accounting for Structured Settlements")). * Transaction-related contingencies (for example, warranties and standby letters of credit related to a particular transaction). * Commitments with an original maturity exceeding one year. |
+| 20% | * Commitments with an original maturity of one year or less. |
+| 0% | * Commitments that are unconditionally cancellable at any time without prior notice. |
+
+#### 6.2.3. Risk factors
+
+Risk factors for off-balance sheet exposures are assigned a risk factor consistent with [section 6.1](#Toc-6.1). All criteria in [section 6.1](#Toc-6.1) around the use of ratings are applicable to off-balance sheet exposures.
+
+Risk factors for structured settlements, which are considered long-term exposures, are based on the credit rating of the counterparty from which the annuity is purchased.
+
+Risk Factors by Credit Rating
+
+| Rating | Risk factor |
+| --- | --- |
+| Rated A− and higher | 2% |
+| Rated BBB+ to B− | 8% |
+| Unrated | 10% |
+| Below B− | 18% |
+
+If the structured settlement is not rated by one of the four rating agencies listed in section 6.1.1, an insurer may use a credit rating from another reputable rating agency. The use of an alternative rating agency must comply with all the criteria around the use of ratings specified in section 6.1.1, including a consistent use of the same rating agency in order to assign a risk factor based on the credit rating of the annuity underwriter.
+
+### 6.3. Capital Treatment of Collateral and Guarantees
+
+#### 6.3.1. Collateral
+
+A collateralized transaction is one in which:
+
+* a company has a credit exposure or potential credit exposure; and
+* the credit exposure or the potential credit exposure is hedged in whole or in part by collateral posted by a counterparty or by a third party on behalf of the counterparty.
+
+Recognition of collateral in reducing the capital requirement is limited to cash or securities rated A- or higher. Any collateral must be held throughout the period for which the exposure exists. Only that portion of an exposure that is covered by eligible collateral will be assigned the risk factor given to the collateral, while the uncovered portion retains the risk factor of the underlying counterparty. Only collateral securities with a lower risk factor than the underlying exposure will lead to reduced capital requirements. All criteria in [section 6.1](#Toc-6.1) around the use of ratings are applicable to collateral. Where a rating is not available for the collateral asset, exposure, or counterparty where applicable, no reduction in capital required is permitted.
+
+The effects of collateral may not be double counted. Therefore, insurers may not recognize collateral on claims for which an issue-specific rating is used that already reflects that collateral.
+
+Collateral securities used to reduce capital requirements must materially reduce the risk arising from the credit quality of the underlying exposure. In particular, collateral used may not be related party obligations of the issuer of the underlying exposure (i.e. obligations of the underlying counterparty itself, its parent, or one of its subsidiaries or associates).
+
+#### 6.3.2. Guarantees
+
+Investments (principal and interest) or exposures that have been explicitly, directly, irrevocably and unconditionally guaranteed by a guarantor whose long-term issuer credit rating is A- and higher, may attract the risk factor allocated to a direct claim on the guarantor where the desired effect is to reduce the risk exposure. Thus only guarantees[Footnote 56](#fn56) issued by entities with a lower risk factor than the underlying counterparty will lead to reduced capital requirements. To be eligible, guarantees must be legally enforceable.
+
+Where the recovery of losses on a loan, financial lease agreement, security or exposure is partially guaranteed, only the part that is guaranteed is to be weighted according to the risk factor of the guarantor (see examples below). The uncovered portion retains the risk factor of the underlying counterparty.
+
+All criteria in [section 6.1](#Toc-6.1) around the use of ratings remain applicable to guarantees. Where a rating is not available for the investment, exposure, or guarantor where applicable, no reduction in capital required is permitted.
+
+An insurer may not recognize a guarantee provided by a related party (parent, subsidiary or associate) of the insurer. This treatment follows the principle that guarantees within a corporate group are not a substitute for capital.
+
+The effects of credit protection may not be double counted. Therefore, no capital recognition is given to credit protection on claims for which an issue-specific rating is used that already reflects that protection.
+
+To be eligible, a guarantee must cover the full term of the exposure, i.e. no recognition will be given to a guarantee if there is a maturity mismatch.[Footnote 57](#fn57)
+
+##### 6.3.2.1. Additional requirements for guarantees
+
+The following conditions must be satisfied in order for a guarantee to be recognized:
+
+1. On the qualifying default/non-payment of the counterparty, the insurer may in a timely manner pursue the guarantor for any monies outstanding under the documentation governing the transaction. The guarantor may make one lump sum payment of all monies under such documentation to the insurer, or the guarantor may assume the future payment obligations of the counterparty covered by the guarantee. The insurer must have the right to receive any such payments from the guarantor without first having to take legal action in order to pursue the counterparty for payment.
+2. The guarantee is an explicitly documented obligation assumed by the guarantor.
+3. Except as noted in the following sentence, the guarantee covers all types of payments the underlying obligor is expected to make under the documentation governing the transaction, for example notional amount, margin payments etc. Where a guarantee covers payment of principal only, interest and other uncovered payments should be treated as an unsecured amount in accordance with section 6.1.2.
+
+###### Example 6-1: Credit risk exposure
+
+To record a $100,000 bond rated AAA due in 10 years that has a government guarantee of 90%, the insurer would report a balance sheet value of $90,000 ($100,000 x 90%) in the 0% risk weighted category and a balance value of $10,000 ($100,000 - $90,000) in the AAA category under bonds expiring or redeemable in more than five years. The capital required in the 0% risk weighted category is $0 ($90,000 x 0.0%). The capital required in the AAA category is $125 ($10,000 x 1.25%) for a total capital requirement of $125.
+
+Example of the credit risk calculation, assuming no other assets
+
+| Bonds | Factor (%) | Balance Sheet Value | Capital Required |
+| --- | --- | --- | --- |
+| 0% risk factor | 0.0% | $90,000 | $0 |
+| Rating: AAA | 1.25% | $10,000 | $125 |
+| Total | n/a not applicable | **$100,000** | **$125** |
+
+###### Example 6-2: Type 1 structured settlement
+
+To record a $300,000 Type 1 structured settlement rated BBB+ to B−, backed by collateral or a guarantee of $200,000 from a counterparty rated A− or higher, the insurer would report a credit equivalent amount of $300,000 and collateral and guarantees of negative $200,000 in the BBB+ to B− category, and collateral and guarantees of $200,000 in the A− and higher category.
+
+The capital required in the BBB+ to B− category is $4,000 (($300,000 − $200,000) × 50% × 8%). The capital required in the A− and higher category is $500 ($200,000 × 50% × 0.5%) for a total capital requirement of $4,500.
+
+Example of the structured settlement calculation, assuming no other exposures
+
+| Structured Settlements | Credit Equivalent Amount (01) | Collateral and Guarantees (02) | Credit Conversion Factor (03) | Risk Factor (04) | Capital Required (05) |
+| --- | --- | --- | --- | --- | --- |
+| 0% risk factor | n/a not applicable | n/a not applicable | n/a not applicable | n/a not applicable | n/a not applicable |
+| Rated A− and higher | n/a not applicable | $200,000 | 50% | 0.5% | $500 |
+| Rated BBB+ to B− | $300,000 | ($200,000) | 50% | 8.0% | $4,000 |
+| Total | n/a not applicable | n/a not applicable | n/a not applicable | n/a not applicable | **$4,500** |
+
+## Chapter 7. Operational Risk
+
+Operational risk is the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. The definition includes legal risk[Footnote 58](#fn58) but excludes strategic and reputation risk.
+
+Exposure to operational risk results from either day-to-day operations or a specific, unanticipated event.
+
+### 7.1. Operational Risk Formula
+
+The two risk drivers used to determine the operational risk margin are capital required and premiums, subject to a cap.
+
+Operational risk margin = MIN {30% CR0, (8.50% CR0 + 2.50% Pd + 1.75% Pa + 2.50% Pr + 2.50% PΔ) + MAX(0.75% Paig, 0.75% Prig)}
+
+where:
+
+* **CR0** is total capital required for the reporting period, before the operational risk margin and diversification credit
+* **Pd** is direct premiums received in the past 12 months for insurance contracts issued
+* **Pa** is premiums received in the past 12 months for reinsurance contracts issued arising from third party reinsurance
+* **Paig** is premiums received in the past 12 months for reinsurance contracts issued arising from intra-group pooling arrangements
+* **Pr** is premiums paid in the past 12 months for reinsurance contracts held arising from third party reinsurance
+* **Prig** is premiums paid in the past 12 months for reinsurance contracts held arising from intra-group pooling arrangements
+* **PΔ** is growth in gross premiums received in the past 12 months above a 20% threshold
+
+### 7.2. Components of Operational Risk Margin
+
+#### 7.2.1. Capital required
+
+A portion of the operational risk margin is based on total capital required, reflecting the overall riskiness of an insurer. An 8.50% risk factor applies to total capital required, before the operational risk margin and diversification credit.
+
+#### 7.2.2. Premium volume
+
+The following risk factors apply to insurance premiums:
+
+* 2.50% for direct premiums received for insurance contracts issued
+* 1.75% for premiums received for reinsurance contracts issued arising from third party reinsurance
+* 0.75% for premiums received for reinsurance contracts issued arising from intra-group pooling arrangements
+* 2.50% for premiums paid for reinsurance contracts held arising from third party reinsurance
+* 0.75% for premiums paid for reinsurance contracts held arising from intra-group pooling arrangements
+
+The 2.50% risk factor for direct premiums received and the 1.75% risk factor for premiums received from third party reinsurance contracts issued capture an insurer's operational risk exposure on new business and renewals.
+
+The 2.50% risk factor for premiums paid for reinsurance contracts held from third party reinsurance captures the operational risk remaining with the ceding insurer. While the insurer cedes a portion of its insurance risk exposure through reinsurance, the operational risk remains with the ceding insurer. Because the capital requirements for insurance liabilities (reference [section 4.2](#Toc-4.2)) are calculated on the net amount of risk (net of reinsurance), the portion of operational risk requirement calculated as 8.50% of capital required does not account for the operational risk on the entire business of the insurer.
+
+##### Intra-group pooling arrangements
+
+The 0.75% risk factor for premiums received for reinsurance contracts issued and premiums paid for reinsurance contracts held arising from intra-group pooling arrangements captures the additional operational risks associated with pooling premiums within a group compared to a company that does not enter into transactions moving the premiums from a company to another within a group.
+
+Only premiums received and paid from intra-group pooling arrangements between associated Canadian federally or provincially regulated companies are included in **Paig** and **Prig**, and a prior supervisory approval from OSFI is required. If prior approval is not granted, the premiums received and paid in the intra-group pooling arrangement will be considered as premiums arising from a third-party reinsurance arrangement and, therefore, will be included in **Pa** and **Pr** for capital requirement calculation purposes.
+
+In cases where property and casualty subsidiaries are consolidated in the financial statements of the property and casualty parent company, **Pd**, **Pa**, and **Pr**, at the parent level, must be determined on a consolidated basis, while **Paig** and **Prig** must be equal to the non-consolidated intra-group pooled premiums received and paid by the parent company, respectively.
+
+* For example, assume that two subsidiaries, company Y and company Z cede 100% of their direct business to Company X (the parent). Company X then cedes 20% of the total of the direct business of each company (including the parent's business) to each subsidiary. Assuming that each of the three companies receive $100 of direct premiums, the following amounts would apply to calculate the operational risk margin for company X:
+  + **Pd**: 3 × $100 (direct premiums received by each company) = $300
+  + **Pa** and **Pr**: $0 (assuming all three companies are not part of third-party reinsurance arrangements)
+  + **Paig**: 2 × $100 (premiums received by company X as part of the intra-group arrangement) = $200
+  + **Prig**: 2 × $60 (premiums paid by company X as part of the intra-group arrangement) = $120
+
+  The capital requirement for operational risk associated with the premiums would be calculated as follows:
+
+  (2.50% Pd + 1.75% Pa + 2.50% Pr + 2.50% PΔ) + MAX (0.75% Paig, 0.75% Prig) = ($7.50 + 0 + 0 + 0) + $1.50 = $9.00
+
+#### 7.2.3. Year-over-year premium growth beyond a threshold
+
+Rapid growth, which is linked to the acquisition of another entity, the acquisition of a block of business through assumption reinsurance, new lines of business or changes to existing products or underwriting criteria, can create additional pressures on people and systems. Companies with premium growth beyond a 20% threshold are subject to additional capital requirements for operational risk.
+
+The premium growth requirement is calculated using gross premiums received, i.e. direct premiums received on insurance contracts issued plus premiums received for reinsurance contracts issued. For the purposes of this section, premiums received for reinsurance contracts issued arising from intra-group pooling arrangements (i.e. **Paig**) are excluded from gross premiums received. A 2.50% risk factor applies to the total amount of premiums received in the past 12 months above the 20% growth threshold compared to the premiums received for the same period in the previous year.
+
+* For example, assume that as a result of rapid growth, gross premiums received increase by 50% from $100 to $150. The amount above the 20% increase ($30) is subject to an additional risk factor of 2.50%.
+
+In the case of an acquisition, the total gross premiums received for a prior reporting period (before the acquisition) is the sum of the gross premiums received by the two separate entities, i.e. the sum of the acquiring and the acquired companies' gross premiums received.
+
+* For example, assume that in Year T a company A with gross premiums received of $100 for the 12 months period ending December 31, Year T-1 acquired a company B with gross premiums received of $50 for the same period. The merged company reported a total of $225 in gross premiums received for the 12 months period ending December 31, Year T. The capital requirement for operational risk associated with rapid growth in premiums would be calculated as follows:
+
+  2.50% × [225 − ((100 + 50) × 1.20)] or 2.50% × $45 = $1.13
+
+#### 7.2.4. Cap on operational risk margin
+
+A 30% cap serves to dampen the operational risk margin for companies that have high-volume/low-complexity business. The 30% cap is calculated in relation to total capital required, before the operational risk margin and diversification credit.
+
+## Chapter 8. Diversification Credit
+
+Because losses arising across some risk categories are not perfectly correlated with each other, a company is not likely to incur the maximum possible loss at a given level of confidence from each type of risk simultaneously. Consequently, an explicit credit for diversification is permitted between the sum of credit and market risk requirements, and the insurance risk requirement so that the total capital required for these risks is lower than the sum of the individual requirements for these risks.
+
+### 8.1. Risk Aggregation and Diversification Credit
+
+The diversification credit is calculated using the following formula:
+
+Diversification credit = A + I −   A 2  +  I 2  + 2 × R × A × I   ,
+
+where:
+
+**A** is the asset risk margin, which is the sum of capital required for:
+
+* credit risk, including requirements for balance sheet assets and off-balance sheet exposures, and collateral for unregistered reinsurance and self-insured retentions;
+* market risk, including interest rate risk, foreign exchange risk, equity risk, real estate risk and other market risk exposures.
+
+**I** is the insurance risk margin, which is the sum of capital required for:
+
+* liability for incurred claims;
+* unexpired coverage;
+* unregistered reinsurance exposures; and
+* earthquake and nuclear catastrophes.
+
+**R** is the correlation factor between A and I, equal to 50%.
+
+## Footnotes
+
+Footnote 1
+:   Capital requirements for Federally Regulated Property and Casualty insurance companies that are mortgage insurance companies are set out in the guideline: Mortgage Insurer Capital Adequacy Test (MICAT).
+
+    [Return to footnote 1 referrer](#fn1-rf)
+
+Footnote 2
+:   As an alternative, a value at risk (VaR) at 99.5% confidence level or expert judgement was used when it was not practical to use the CTE approach.
+
+    [Return to footnote 2 referrer](#fn2-rf)
+
+Footnote 3
+:   For the definition of a registered reinsurer, see section 4.3.2
+
+    [Return to footnote 3 referrer](#fn3-rf)
+
+Footnote 4
+:   Allocation methods of loss component amounts, where relevant, should reflect the expected relative profitability of each MCT class of insurance grouping.
+
+    [Return to footnote 4 referrer](#fn4-rf)
+
+Footnote 5
+:   Where repayment is subject to Superintendent's approval.
+
+    [Return to footnote 5 referrer](#fn5-rf)
+
+Footnote 6
+:   The criteria also apply to non-joint stock companies, such as mutuals, taking into account their specific constitution and legal structure. The application of the criteria should preserve the quality of the instruments by requiring that they are deemed fully equivalent to common shares in terms of their capital quality as regards loss absorption and do not possess features that could cause the condition of the insurer to be weakened as a going concern during periods of market stress.
+
+    [Return to footnote 6 referrer](#fn6-rf)
+
+Footnote 7
+:   Paid-in capital generally refers to capital that has been received with finality by the institution, is reliably valued, fully under the institution's control and does not directly or indirectly expose the institution to the credit risk of the investor.
+
+    [Return to footnote 7 referrer](#fn7-rf)
+
+Footnote 8
+:   A related entity can include a parent company, a sister company, a subsidiary or any other affiliate. A holding company is a related entity irrespective of whether it forms part of the consolidated insurance group.
+
+    [Return to footnote 8 referrer](#fn8-rf)
+
+Footnote 9
+:   Further, where an institution uses a special purpose vehicle to issue capital to investors and provides support, including overcollateralization, to the vehicle, such support would constitute enhancement in breach of criterion #3 above.
+
+    [Return to footnote 9 referrer](#fn9-rf)
+
+Footnote 10
+:   A step-up is defined as a call option combined with a pre-set increase in the initial credit spread of the instrument at a future date over the initial dividend (or distribution) rate after taking into account any swap spread between the original reference index and the new reference index. Conversion from a fixed rate to a floating rate (or vice versa) in combination with a call option without any increase in credit spread would not constitute a step-up.
+
+    [Return to footnote 10 referrer](#fn10-rf)
+
+Footnote 11
+:   Other incentives to redeem include a call option combined with a requirement or an investor option to convert the instrument into common shares if the call is not exercised.
+
+    [Return to footnote 11 referrer](#fn11-rf)
+
+Footnote 12
+:   Replacement issuances can be concurrent with, but not after, the instrument is called.
+
+    [Return to footnote 12 referrer](#fn12-rf)
+
+Footnote 13
+:   A consequence of full discretion at all times to cancel distributions/payments is that "dividend pushers" are prohibited. An instrument with a dividend pusher obliges the issuing insurer to make a dividend/coupon payment on the instrument if it has made a payment on another (typically more junior) capital instrument or share. This obligation is inconsistent with the requirement for full discretion at all times. Furthermore, the term "cancel distributions/payments" means to forever extinguish these payments. It does not permit features that require the insurer to make distributions/payments in kind at any time.
+
+    [Return to footnote 13 referrer](#fn13-rf)
+
+Footnote 14
+:   Institutions may use a broad index as a reference rate in which the issuing institution is a reference entity; however, the reference rate should not exhibit significant correlation with the institution's credit standing. If an institution plans to issue capital instruments where the margin is linked to a broad index in which the institution is a reference entity, the institution should ensure that the dividend/coupon is not credit-sensitive.
+
+    [Return to footnote 14 referrer](#fn14-rf)
+
+Footnote 15
+:   Any modification of, addition to, or renewal or extension of an instrument issued to a related party is subject to the legislative requirement that transactions with a related party be at terms and conditions that are at least as favourable to the institution as market terms and conditions.
+
+    [Return to footnote 15 referrer](#fn15-rf)
+
+Footnote 16
+:   A step-up is defined as a call option combined with a pre-set increase in the initial credit spread of the instrument at a future date over the initial dividend (or distribution) rate after taking into account any swap spread between the original reference index and the new reference index. Conversion from a fixed rate to a floating rate (or vice versa) in combination with a call option without any increase in credit spread would not constitute a step-up.
+
+    [Return to footnote 16 referrer](#fn16-rf)
+
+Footnote 17
+:   An option to call the instrument after five years but prior to the start of the amortisation period will not be viewed as an incentive to redeem as long as the insurer does not do anything that creates an expectation that the call will be exercised at this point.
+
+    [Return to footnote 17 referrer](#fn17-rf)
+
+Footnote 18
+:   Replacement issuances can be concurrent with but not after the instrument is called.
+
+    [Return to footnote 18 referrer](#fn18-rf)
+
+Footnote 19
+:   Insurers may use a broad index as a reference rate in which the issuing insurer is a reference entity; however, the reference rate should not exhibit significant correlation with the insurer's credit standing. If an insurer plans to issue capital instruments where the margin is linked to a broad index in which the insurer is a reference entity, the insurer should ensure that the dividend/coupon is not credit-sensitive.
+
+    [Return to footnote 19 referrer](#fn19-rf)
+
+Footnote 20
+:   Any modification of, addition to, or renewal or extension of an instrument issued to a related party is subject to the legislative requirement that transactions with a related party be at terms and conditions that are at least as favourable to the institution as market terms and conditions.
+
+    [Return to footnote 20 referrer](#fn20-rf)
+
+Footnote 21
+:   Excluding contingent and other commissions that cannot be readily identified as exclusively relating to and varying with insurance premiums and therefore are not recoverable.
+
+    [Return to footnote 21 referrer](#fn21-rf)
+
+Footnote 22
+:   This includes computer software intangibles.
+
+    [Return to footnote 22 referrer](#fn22-rf)
+
+Footnote 23
+:   This does not permit offsetting of DTAs across provinces.
+
+    [Return to footnote 23 referrer](#fn23-rf)
+
+Footnote 24
+:   To obtain OSFI supervisory approval, an insurer must demonstrate, to OSFI's satisfaction, that it has clear entitlement to the surplus and that it has unrestricted and unfettered access to the surplus pension assets. Evidence required by OSFI may include, among other things, an acceptable independent legal opinion and the prior authorization from the pension plan members and the pension regulator.
+
+    [Return to footnote 24 referrer](#fn24-rf)
+
+Footnote 25
+:   No adjustments are required for "investment properties" as fair value gains (losses) are allowed for capital purposes.
+
+    [Return to footnote 25 referrer](#fn25-rf)
+
+Footnote 26
+:   Interests in limited partnerships that are reported using the equity method of accounting are subject to the same capital treatment as joint ventures.
+
+    [Return to footnote 26 referrer](#fn26-rf)
+
+Footnote 27
+:   If an insurer fails to obtain a capital confirmation (or obtains a capital confirmation without disclosing all relevant material facts to OSFI), OSFI may, at its discretion and at any time, determine that such capital does not comply with these principles and is to be excluded from the insurer's capital available.
+
+    [Return to footnote 27 referrer](#fn27-rf)
+
+Footnote 28
+:   OSFI reserves the right to require a Canada Revenue Agency advance tax ruling to confirm such tax opinion if the tax consequences are subject to material uncertainty.
+
+    [Return to footnote 28 referrer](#fn28-rf)
+
+Footnote 29
+:   OSFI reserves the right to require such accounting opinion to be an external opinion of a firm acceptable to OSFI if the accounting consequences are subject to material uncertainty.
+
+    [Return to footnote 29 referrer](#fn29-rf)
+
+Footnote 30
+:   The amount of unamortized insurance acquisition cash flows is determined in accordance with bullet number four in section 2.3.1.
+
+    [Return to footnote 30 referrer](#fn30-rf)
+
+Footnote 31
+:   Excluding contingent and other commissions that cannot be readily identified as exclusively relating to and varying with insurance premiums and therefore are not recoverable.
+
+    [Return to footnote 31 referrer](#fn31-rf)
+
+Footnote 32
+:   Idem
+
+    [Return to footnote 32 referrer](#fn32-rf)
+
+Footnote 33
+:   Premiums and reinsurance commission cash flows on risk attaching proportional reinsurance contracts held are considered due and are therefore excluded.
+
+    [Return to footnote 33 referrer](#fn33-rf)
+
+Footnote 34
+:   The definition of unexpired coverage on reinsurance contracts held, is defined in part (A) of section 4.3.3.2.
+
+    [Return to footnote 34 referrer](#fn34-rf)
+
+Footnote 35
+:   Unamortized reinsurance commission is equal to the amount used for the measurement of the ARC, and includes ceding commissions that are received, and yet to be amortized.
+
+    [Return to footnote 35 referrer](#fn35-rf)
+
+Footnote 36
+:   A group of reinsurance contracts representing a net cost may include the aggregate of groups of contracts within a portfolio that have not been included in the group of contracts with a net gain for accounting purposes (i.e. the groups with no significant possibility of a net gain and remaining contracts).
+
+    [Return to footnote 36 referrer](#fn36-rf)
+
+Footnote 37
+:   This requirement only applies to reinsurance contracts that came into force on or after January 1, 2018, or that have been renewed after that date.
+
+    [Return to footnote 37 referrer](#fn37-rf)
+
+Footnote 38
+:   The PML amount corresponds to the worldwide exposure for Canadian insurers and Canadian exposure for branches of foreign insurers.
+
+    [Return to footnote 38 referrer](#fn38-rf)
+
+Footnote 39
+:   Refer to the Canadian Income Tax Act for the annual contribution limit.
+
+    [Return to footnote 39 referrer](#fn39-rf)
+
+Footnote 40
+:   The amount of unamortized insurance acquisition cash flows is determined in accordance with Section 2.3.1, bullet number four.
+
+    [Return to footnote 40 referrer](#fn40-rf)
+
+Footnote 41
+:   For travel insurance, annual insurance revenue should be considered revenue premiums.
+
+    [Return to footnote 41 referrer](#fn41-rf)
+
+Footnote 42
+:   An asset or liability for which the future cash flows are not adjusted to reflect the time value of money has a duration of zero.
+
+    [Return to footnote 42 referrer](#fn42-rf)
+
+Footnote 43
+:   The duration of the LRC is a weighted average of its components including the CSM. The CSM component of the LRC under GMM accounting is normally not interest rate sensitive. Therefore, the duration of the CSM is zero.
+
+    [Return to footnote 43 referrer](#fn43-rf)
+
+Footnote 44
+:   The carve-out can be used to reduce the net open long currency position to a minimum of zero.
+
+    [Return to footnote 44 referrer](#fn44-rf)
+
+Footnote 45
+:   An insurer may contact OSFI to discuss the adequacy of its documentation and assessment of the likelihood or amount of potential additional capital that may be required.
+
+    [Return to footnote 45 referrer](#fn45-rf)
+
+Footnote 46
+:   An example of an exotic derivative would be one that has a discontinuous payoff structure.
+
+    [Return to footnote 46 referrer](#fn46-rf)
+
+Footnote 47
+:   For the purposes of this section, the hedging strategy and active management strategy together are deemed to be unchanged if the ex-ante equity risk profile of the combined portfolios is maintained. For example, the ex-ante equity risk profile is maintained if the combined beta is continuously targeted to be 0 (the hedging strategy), and if instrument selection is continuously based on the price-earnings ratio (the active management strategy).
+
+    [Return to footnote 47 referrer](#fn47-rf)
+
+Footnote 48
+:   For the purposes of this calculation, the Correlation Factor must be determined based on actual portfolio returns (i.e. portfolio returns up to the reporting date). Projected (simulated) returns cannot be used. The Correlation Factor must be determined as the lowest of available 52 week Correlation Factors given the actual history of portfolio returns. During the second year, the number of available 52 week Correlation Factors will increase from one to four as time elapses.
+
+    [Return to footnote 48 referrer](#fn48-rf)
+
+Footnote 49
+:   Guideline B-5 should be read in conjunction with any current Advisories concerning securitization (e.g., the October 2008 Advisory, "Securitization – Expected Practices").
+
+    [Return to footnote 49 referrer](#fn49-rf)
+
+Footnote 50
+:   Applies to all vested cash assets of branches.
+
+    [Return to footnote 50 referrer](#fn50-rf)
+
+Footnote 51
+:   Includes securities, loans and accounts receivable.
+
+    [Return to footnote 51 referrer](#fn51-rf)
+
+Footnote 52
+:   Sovereign obligations rated lower than AA− may not receive a factor of 0%, and are instead subject to the factor requirements in section 6.1.2.
+
+    [Return to footnote 52 referrer](#fn52-rf)
+
+Footnote 53
+:   Includes receivables from unregistered insurers for reinsurance contracts issued.
+
+    [Return to footnote 53 referrer](#fn53-rf)
+
+Footnote 54
+:   Includes receivables from unregistered insurers for reinsurance contracts issued.
+
+    [Return to footnote 54 referrer](#fn54-rf)
+
+Footnote 55
+:   1) Alternatively, assets classified as held for sale may be re-consolidated (look-through approach) at the option of the insurer. If this method is selected, any write-down made as a result of re-measuring the assets classified as held for sale at the lower of carrying amount and fair value less costs to sell should be reflected in the MCT after re-consolidation. Any asset within a consolidated group that is deducted from capital available for MCT purposes should continue to be deducted from capital when it becomes an asset held for sale.
+
+    2) If the insurer has elected to apply a 20% risk factor to assets held for sale instead of using the look-through approach, associated liabilities held for sale should be subject to the usual MCT treatment of liabilities as per chapter 4.
+
+    [Return to footnote 55 referrer](#fn55-rf)
+
+Footnote 56
+:   Letters of credit for which a company is the beneficiary are included within the definition of guarantees, and receive the same capital treatment.
+
+    [Return to footnote 56 referrer](#fn56-rf)
+
+Footnote 57
+:   A maturity mismatch occurs when the residual maturity of the credit protection is less than that of the underlying exposure.
+
+    [Return to footnote 57 referrer](#fn57-rf)
+
+Footnote 58
+:   Legal risk includes, but is not limited to, exposure to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements.
+
+    [Return to footnote 58 referrer](#fn58-rf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-11-20

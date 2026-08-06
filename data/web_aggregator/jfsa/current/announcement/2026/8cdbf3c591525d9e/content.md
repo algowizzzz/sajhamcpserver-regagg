@@ -1,0 +1,77 @@
+* [HOME](/en/index.html)
+* [Policies and Councils](/en/policies_councils/index.html)
+
+[Tweet](https://twitter.com/share)
+
+April 9, 2026
+
+Updated on April 17, 2026
+
+Financial Services Agency
+
+# Human Capital Disclosures
+
+Investments in human capital are essential for sustainable corporate growth and the creation of mid- to long-term corporate value. However, in many cases, such investments are recorded as expenses in financial statements and investors noted that relevant information is not necessarily disclosed.
+
+Although investments in human capital may reduce short-term profits, they contribute to medium- to long-term value creation and ultimately enhance shareholder returns. Therefore, human capital disclosure is critical to facilitating constructive dialogue between investors and corporate management. In this context, a research report and guidance on human capital disclosure have been published.
+
+## Links
+
+* ![PDF](/images/common/icon_pdf.gif)[Strategy-Focused Human Capital Disclosures](/en/policy/humancapitaldisclosures/01.pdf) (April 9, 2026) \*1
+* ![PDF](/images/common/icon_pdf.gif)[Examples of Disclosure on the Alignment Between Business Strategy and Human Capital Management Strategy, and Related Metrics](/en/policy/humancapitaldisclosures/02.pdf) (April 17, 2026) \*2
+* ![PDF](/images/common/icon_pdf.gif)[The Research Report, "Study on Global Investors' Focus Areas Regarding Human Capital Disclosure and Corporate Case Studies"](/en/news/2025/20250411/01.pdf) (April 11, 2025)
+
+\*1, 2 These materials are translations of the original Japanese documents on "Strategy-Focused Human Capital Disclosure" and appendix published on March 23, 2026. Toshitake Inoue (Director-General, Policy and Markets Bureau, Financial Services Agency) spoke about the "Strategy-Focused Human Capital Disclosure" at the Asia Sustainability Symposium on April 9, 2026.
+
+Contact
+:   Corporate Accounting and Disclosure Division, Policy and Markets Bureau, Financial Services Agency
+
+    Tel +81-(0)3-3506-6000 (ext. 3606)
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

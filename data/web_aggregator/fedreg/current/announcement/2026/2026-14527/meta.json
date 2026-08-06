@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14527",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 6.8-O To Increase Position and Exercise Limits for Options on iShares Bitcoin Trust ETF",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14527/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed",
+  "reference_number": "2026-14527",
+  "published_date": "2026-07-20",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ee25b2b8f6df7ece5bcfba1eca17d265db7ac594fcb0009396248556f2d3f550",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14527",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="thumbnail" content="https://www.fsa.go.jp/images/fsa_thumbnail.png">
+<!--<PageMap>
+<DataObject type="thumbnail">
+	<Attribute name="src" value="https://www.fsa.go.jp/images/fsa_thumbnail.png"/>
+	<Attribute name="width" value="192"/>
+	<Attribute name="height" value="192"/>
+</DataObject>
+</PageMap>-->
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta data-navi="0">
+<title>Links : Financial Services Agency</title>
+<link rel="stylesheet" href="/libs/css/reset.css">
+<link rel="stylesheet" href="/libs/css/format.css">
+<link rel="stylesheet" media="(max-width: 767px)" href="/libs/css/layout_sp.css?v=5">
+<link rel="stylesheet" media="(min-width: 768px)" href="/libs/css/layout_pc.css?v=5">
+<link rel="stylesheet" media="(max-width: 767px)" href="/libs/css/general_sp.css">
+<link rel="stylesheet" media="(min-width: 768px)" href="/libs/css/general_pc.css">
+<link rel="stylesheet" href="/libs/css/common.css?v=2">
+<link rel="stylesheet" href="/libs/css/ikou_fsa_en.css?v=3">
+<link rel="icon" type="image/png" href="/images/icon.png">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<!-- CMS006 -->
+<!-- 参照するjQueryのバージョンを変更 -->
+<script src="/libs/js/jquery-3.7.1.min.js"></script>
+<!-- CMS006 END -->
+<script src="/libs/js/navi_fsa_en.js?date=20191101"></script>
+<script src="/libs/js/navi_set.js?date=20170620"></script>
+<script src="https://cdn.cistate.io/frontend-translator/latest/fsa/translator.js" charset="UTF-8"></script>
+<!-- Google tag (gtag.js) START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JD08XY7G9K"></script>
+<script>
+if (location.pathname.indexOf("/preview/") != 0) {
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'G-JD08XY7G9K');
+}
+</script>
+<!-- Google tag (gtag.js) END -->
+</head>
+<body id="common" class="top en">
+
+<!-- noscript STRAT -->
+<noscript>
+<p id="noscript">For the complete experience, please enable JavaScript in your browser. </p>
+</noscript>
+<!-- noscript END -->
+
+<!-- header STRAT -->
+<header id="header" class="clearfix">
+<div class="inner">
+<p class="skiplinkbody"><a href="#main"><span>Link to Body</span></a></p>
+<span id="logo"><a href="/en/index.html"><img class="logo-fsa_e" src="/en/images/title_e.svg" width="341" height="47" alt="Financial Services Agency"/></a></span>
+<div id="sp_menu">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<button type="button" class="search" aria-expanded="false" aria-controls="spsearchPanel"><img src="/images/btn_search_sp.svg" alt=""/>Search</button>
+<button type="button" id="sp_sns_btn" class="sns-trigger" aria-expanded="false" aria-controls="snsMenu"><img src="/libs/images/sns.png" alt=""><span>SNS menu</span></button>
+<button type="button" id="sp_menu_btn" class="menu-trigger" aria-expanded="false" aria-controls="spMenu"><span>MENU</span></button>
+<!-- CMS006 END -->
+</div>
+<div id="header_menu">
+<div class="menu_box">
+<dl id="fontsize_box">
+<dt>Size</dt>
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dd id="fontChange">
+<button type="button" id="fontL" class="large">font Large</button>
+<button type="button" id="fontM" class="middle">font Middle</button>
+<button type="button" id="fontS" class="small">font Small</button>
+<!-- CMS006 END -->
+</dd>
+</dl>
+<button type="button" class="language_button" popovertarget="popover-from-ja-to-en" popovertargetaction="show" aria-controls="popover-from-ja-to-en"><img src="/libs/images/icon_lang_b.svg" alt=""><span>Language</span></button>
+<div id="popover-from-ja-to-en" popover="auto">
+    <div class="popover_window_body">
+        <ul>
+            <li>Global Site
+                <ul>
+                    <li><a href="/index.html" class="setLanguageJa">Japanese Site</a></li>
+                </ul>
+            </li>
+            <li><a href="/index.html" class="setLanguageEn">Machine translated English of Japanese Site</a></li>
+        </ul>
+    </div>
+    <div class="popover_window_header">
+        <button type="button" class="popover_window_button" popovertarget="popover-from-ja-to-en" popovertargetaction="hide">Close</button>
+    </div>
+</div>
+</div>
+<div class="search_sns_box">
+<!-- Google Search -->
+<div id="spsearchPanel" class="search_area" style="height:auto;">
+<form action="/en/search.html" id="cse-search-box" name="searchBox">
+<input type="hidden" name="cx" value="361aa989716c545fa">
+<input type="hidden" name="cof" value="FORID:9">
+<input type="hidden" name="ie" value="UTF-8">
+<label for="google" class="search_text_en">Site Search</label>
+<input type="text" name="q" class="ime-activ" id="google" >
+<input type="button" name="sa" id="sa" alt="Search" value="Search" onClick="submit();" style="font-size: 1em;">
+<input name="siteurl" type="hidden" value="www.fsa.go.jp/en/index.html"><input name="ref" type="hidden" value="www.fsa.go.jp/"><input name="ss" type="hidden" value="">
+</form>
+<img style="margin-left:90px" src="https://www.google.com/cse/static/images/1x/en/branding.png" alt="ENHANCED BY Google"/>
+</div>
+<!-- Google Search -->
+<div id="snsMenu" class="">
+<ul>
+<li><a href="https://x.com/JFSA_en" target="_blank"><img style="width:45px;" alt="Financial Services Agency official X(formely twitter) (open new window)" src="/libs/images/sns_btn_xb.png" /></a></li>
+<li><a href="https://www.youtube.com/channel/UCpIgZIDc-ptkZZTvzqlwGQg" target="_blank"><img style="width:45px;" alt="Financial Services Agency official YouTube (open new window)" src="/libs/images/sns_btn_youtube.png" /></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</header>
+<!-- header END -->
+
+<div id="conteinar">
+
+<!-- global_navi STRAT -->
+<nav id="global_navi" aria-label="global_navi">
+<ul>
+<li><a href="/en/index.html">HOME</a></li>
+<li><a href="/en/about/index.html">About FSA</a></li>
+<li><a href="/en/press_releases/index.html">Press Releases &amp; Public Relations</a></li>
+<li><a href="/en/policies_councils/index.html">Policies &amp; Councils</a></li>
+<li><a href="/en/laws_regulations/index.html">Laws &amp; Regulations</a></li>
+<li><a href="/en/regulated_institutions/index.html">Regulated Institutions</a></li>
+<li><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a></li>
+</ul>
+</nav>
+<!-- global_navi END -->
+
+<!-- content STRAT -->
+<article id="content">
+<div id="location">
+<ul>
+      <li class="home">
+      <a href="/en/index.html">HOME</a>
+    </li>
+        <li>
+          Other Links
+        </li>
+  </ul>
+</div>
+
+<!-- main STRAT -->
+<div id="main">
+<p class="share-button"><a href="https://twitter.com/share" class="twitter-share-button" data-dnt="true" data-lang="en" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<div class="inner">
+<div class="navihidden">
+ <img alt="begin of the main contents" height="1" width="1" src="/images/common/space.gif">
+</div><a id="skip" name="skip"></a>
+<h1>Other Links</h1>
+<p class="indent">Attention: clicking on this link will open another window.</p>
+<ul>
+ <li><a href="https://japan.kantei.go.jp/" target="_blank">Prime Minister of Japan and His Cabinet</a></li>
+ <li><a href="https://www.boj.or.jp/en/index.htm" target="_blank">The Bank of Japan</a></li>
+ <li><a href="https://www.mof.go.jp/english/index.htm" target="_blank">Ministry of Finance</a></li>
+ <li><a href="https://www.dic.go.jp/english/index.html" target="_blank">Deposit Insurance Corporation of Japan</a></li>
+</ul>
+<h2>Related Industries and Institutions</h2>
+<ul>
+ <li><a href="https://www.zenginkyo.or.jp/en/" target="_blank">Japanese Bankers Association (JBA)</a></li>
+ <li><a href="https://www.ibajapan.org/" target="_blank">International Bankers Association of Japan(IBA)</a></li>
+ <li><a href="https://www.shinkin-central-bank.jp/e/index.html" target="_blank">Shinkin Central Bank</a></li>
+ <li><a href="https://www.nochubank.or.jp/en/" target="_blank">The Norinchukin Bank</a></li>
+ <li><a href="https://www.ffaj.or.jp/en/" target="_blank">The Financial Futures Association of Japan</a></li>
+ <li><a href="https://www.tfx.co.jp/en/" target="_blank">Tokyo Financial Exchange Inc.(TFX)</a></li>
+ <li><a href="https://www.seiho.or.jp/english/index.html" target="_blank">The Life Insurance Association of Japan</a></li>
+ <li><a href="https://www.sonpo.or.jp/en/" target="_blank">The General Insurance Association of Japan</a></li>
+ <li><a href="https://www.fnlia.gr.jp/english/" target="_blank">Foreign Non-Life Insurance Association of Japan (FNLIA)</a></li>
+ <li><a href="https://www.jsda.or.jp/en/index.html" target="_blank">Japan Securities Dealers Association (JSDA)</a></li>
+ <li><a href="https://www.imaj.or.jp/en/" target="_blank">Investment Management Association of Japan (IMAJ)</a></li>
+ <li><a href="https://www.jpx.co.jp/english/" target="_blank">Japan Exchange Group(JPX)</a></li>
+ <li><a href="https://www.tse.or.jp/english/index.shtml" target="_blank">Tokyo Stock Exchange (TSE)</a></li>
+ <li><a href="https://www.ose.or.jp/e/" target="_blank">Osaka Exchange (OSE)</a></li>
+ <li><a href="https://www.nse.or.jp/e/index.html" target="_blank">Nagoya Stock Exchange (NSE)</a></li>
+ <li><a href="https://www.jpx.co.jp/jscc/en/" target="_blank">Japan Securities Clearing Corporation</a></li>
+ <li><a href="https://www.hp.jicpa.or.jp/english/" target="_blank">The Japanese Institute of Certified Public Accountants (JICPA)</a></li>
+</ul>
+<h2>Financial Supervisory Authorities in Foreign Countries</h2>
+<h3>AUSTRALIA</h3>
+<ul>
+ <li><a href="https://www.apra.gov.au/" target="_blank">Australian Prudential Regulation Authority (APRA)</a></li>
+ <li><a href="https://www.asic.gov.au/asic/asic.nsf" target="_blank">Australian Securities and Investments Commission (ASIC)</a></li>
+</ul>
+<h3>CANADA</h3>
+<ul>
+ <li><a href="https://www.osfi-bsif.gc.ca/" target="_blank">Office of the Superintendent of Financial Institutions (OSFI)</a></li>
+</ul>
+<h3>CHINA</h3>
+<ul>
+ <li><a href="http://www.cbirc.gov.cn/en/view/pages/index/index.html" target="_blank">China Banking And Insurance Regulatory Commission (CBIRC)</a></li>
+ <li><a href="https://www.csrc.gov.cn/pub/csrc_en/" target="_blank">China Securities Regulatory Commission (CSRC)</a></li>
+</ul>
+<h3>FRANCE</h3>
+<ul>
+ <li><a href="https://www.banque-france.fr/en/" target="_blank">BANQUE DE FRANCE</a></li>
+ <li><a href="https://www.amf-france.org/en" target="_blank">Autorite des Marches Financiers (AMF)</a></li>
+</ul>
+<h3>GERMANY</h3>
+<ul>
+ <li><a href="https://www.bafin.de/EN/Homepage/homepage_node.html" target="_blank">Bundesanstalt fur Finanzdienstleistungsaufsicht (Bafin)</a></li>
+</ul>
+<h3>HONG KONG</h3>
+<ul>
+ <li><a href="https://www.info.gov.hk/hkma/" target="_blank">Hong Kong Monetary Authority (HKMA)</a></li>
+ <li><a href="https://www.ia.org.hk/en/index.html" target="_blank">Insurance Authority (IA)</a></li>
+ <li><a href="https://www.sfc.hk/sfc/html/EN/" target="_blank">Securities and futures commission (SFC)</a></li>
+</ul>
+<h3>INDIA</h3>
+<ul>
+ <li><a href="https://www.rbi.org.in/home.aspx" target="_blank">Reserve Bank of India</a></li>
+</ul>
+<h3>ITALY</h3>
+<ul>
+ <li><a href="https://www.bancaditalia.it/" target="_blank">BANKA D’ITALIA</a></li>
+ <li><a href="https://www.consob.it/" target="_blank">Commissione Nazionale per le Societa'e la Borsa (CONSOB)</a></li>
+</ul>
+<h3>KOREA</h3>
+<ul>
+ <li><a href="http://www.fsc.go.kr/eng/index.jsp" target="_blank">Financial Supervisory Commission (FSC)</a></li>
+ <li><a href="https://www.fss.or.kr/fss/kr/main.html" target="_blank">The Financial Supervisory Service (FSS)</a></li>
+</ul>
+<h3>HOLLAND</h3>
+<ul>
+ <li><a href="https://www.dnb.nl/en/" target="_blank">De Nederlandsche Bank (DNB)</a></li>
+</ul>
+<h3>SINGAPORE</h3>
+<ul>
+ <li><a href="https://www.mas.gov.sg/" target="_blank">Monetary Authority of Singapore (MAS)</a></li>
+</ul>
+<h3>SWITZERLAND</h3>
+<ul>
+ <li><a href="https://www.finma.ch/e/pages/default.aspx" target="_blank">Finanzmarktaufsicht</a></li>
+</ul>
+<h3>U.K.</h3>
+<ul>
+ <li><a href="https://www.fca.org.uk/" target="_blank">Financial Conduct Authority (FCA)</a></li>
+ <li><a href="https://www.bankofengland.co.uk/pra/Pages/default.aspx" target="_blank">Prudential Regulation Authority (PRA)</a></li>
+</ul>
+<h3>U.S.A</h3>
+<ul>
+ <li><a href="https://www.federalreserve.gov/" target="_blank">Board of Governors of the Federal Reserve System (FRB)</a></li>
+ <li><a href="https://www.occ.treas.gov/" target="_blank">Office of the Comptroller of the Currency (OCC)</a></li>
+ <li><a href="https://www.fdic.gov/index.html" target="_blank">Federal Deposit Insurance Corporation (FDIC)</a></li>
+ <li><a href="https://www.ncua.gov/" target="_blank">National Credit Union Administration (NCUA)</a></li>
+ <li><a href="https://www.naic.org/" target="_blank">National association of Insurance commissioners (NAIC)</a></li>
+ <li><a href="https://www.sec.gov/" target="_blank">Securities and Exchange Commission (SEC)</a></li>
+ <li><a href="https://www.cftc.gov/" target="_blank">Commodity Futures Trading Commission (CFTC)</a></li>
+</ul>
+<h2>International Institutions</h2>
+<ul>
+ <li><a href="https://www.bis.org/" target="_blank">Bank for International Settlements (BIS)</a></li>
+ <li><a href="https://www.bis.org/bcbs/index.htm" target="_blank">Basel Committee on Banking Supervision (Basel)</a></li>
+ <li><a href="https://www.fatf-gafi.org/" target="_blank">Financial Action Task Force (FATF)</a></li>
+ <li><a href="https://www.fsb.org/" target="_blank">Financial Stability Board (FSB)</a></li>
+ <li><a href="https://www.iaisweb.org/" target="_blank">International Association of Insurance Supervisors (IAIS)</a></li>
+ <li><a href="https://www.imf.org/external/index.htm" target="_blank">International Monetary Fund (IMF)</a></li>
+ <li><a href="https://www.iosco.org/" target="_blank">International Organization of Securities Commissions (IOSCO)</a></li>
+ <li><a href="https://www.bis.org/bcbs/jointforum.htm" target="_blank">Joint Forum</a></li>
+ <li><a href="https://www.ngfs.net/">The Central Banks and Supervisors Network for Greening the Financial System (NGFS)</a></li>
+ <li><a href="https://www.oecd.org/en.html" target="_blank">Organisation for Economic Co-operation and Development (OECD)</a></li>
+ <li><a href="https://www.wto.org/" target="_blank">World Trade Organization (WTO)</a></li>
+ <li><a href="https://www.eba.europa.eu/" target="_blank">European Banking Authority (EBA)</a></li>
+ <li><a href="https://eiopa.europa.eu/" target="_blank">European Insurance and Occupational Pensions Authority(EIOPA)</a></li>
+ <li><a href="https://www.esma.europa.eu/" target="_blank">European Securities and Markets Authority(ESMA)</a></li>
+ <li><a href="https://www.ecb.int/home/html/index.en.html" target="_blank">European Central Bank (ECB)</a></li>
+ <li><a href="https://commission.europa.eu/index_en" target="_blank">European Commissions (EC)</a></li>
+ <li><a href="https://www.emeap.org/" target="_blank">Executives' Meeting of East Asia Pacific Central Banks (EMEAP)</a></li>
+</ul>
+<div>
+ &nbsp;
+</div>
+<ul class="link_bnrs no_icon">
+ <li><a target="_blank" href="/sesc/english/index.html"><img alt=" Securities and Exchange Surveillance Commission" height="34" width="180" src="/images/top_e/top_banner03.gif"></a></li>
+ <li><a target="_blank" href="/cpaaob/english/index.html"><img alt="Certified Public Accountants and Auditing Oversight Board" height="34" width="180" src="/images/top_e/top_banner04.gif"></a></li>
+ <li><a target="_blank" href="/frtc/english/index.html"><img alt="Financial Research Center" height="34" width="180" src="/images/top_e/top_banner01.gif"></a></li>
+</ul>
+<ul class="link_bnrs no_icon">
+ <li><a href="/en/glopac_old/index.html"><img alt="Global Financial Partnership Center (GLOPAC)" border="0" height="34" width="180" src="/images/top_e/glopac.gif"></a></li>
+ <li><a href="https://www.japaneselawtranslation.go.jp/?re=02" target="_blank"><img alt="Japanese Law Translation" height="34" width="180" src="/images/top_e/top_banner11.gif"></a></li>
+ <li><a href="https://japan.kantei.go.jp/index.html" target="_blank"><img alt="Prime Minister of Japan and His Cabinet" border="0" height="51" width="170" src="/en/images/common/kantei.jpg"></a></li>
+</ul>
+<ul class="link_bnrs no_icon">
+ <li><a href="https://www.japan.go.jp/" target="_blank"><img alt="JAPANGOV" border="0" height="45" width="180" src="/en/images/common/japangov.jpg"></a></li>
+ <li><a href="https://www.immi-moj.go.jp/newimmiact_3/en/index.html" target="_blank"><img alt="For Highly Skilled Foreign Professionals " border="0" height="45" width="180" src="/images/top_e/top_fhsfp.gif"></a></li>
+</ul>
+</div>
+</div>
+<!-- main END -->
+
+<!-- side STRAT -->
+<div id="side">
+</div>
+<!-- side END -->
+
+<section id="sitemap">
+<h2>Site Map</h2>
+<div class="inner">
+<dl>
+<div id="fsa_sitemap01">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/about/index.html">About FSA</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap01"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/about/index.html#Ministerial Team">Ministerial Team</a></dd>
+<dd><a href="/en/about/index.html#Organization">Organization</a></dd>
+<dd><a href="/en/about/about02_menu.html">Location</a></dd>
+<dd><a href="/en/about/index.html#Pamphlet">Pamphlet</a></dd>
+<dd><a href="/en/about/openpolicylab.html">Open Policy Lab</a></dd>
+</div>
+<div id="fsa_sitemap02">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/press_releases/index.html">Press Releases &amp; Public Relations</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap02"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/news/index.html">Press Releases</a></dd>
+<dd><a href="/en/conference/index.html">Press Conferences</a></dd>
+<dd><a href="/en/announce/state/index.html">Official Statements</a></dd>
+<dd><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a></dd>
+<dd><a href="/en/announce/state/index_speeches.html">Speeches</a></dd>
+<dd><a href="/en/press_releases/index.html#FinancialUsers">For Financial Users</a></dd>
+<dd><a href="/en/press_releases/index.html#Others">Others</a></dd>
+<dd><a href="/en/press_releases/index.html#Archives">Archives</a></dd>
+</div>
+<div id="fsa_sitemap03">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/policies_councils/index.html">Policies &amp; Councils</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap03"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/policies_councils/index.html#Policies">Policies</a></dd>
+<dd><a href="/en/policies_councils/index.html#Councils">Councils</a></dd>
+</div>
+<div id="fsa_sitemap04">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/laws_regulations/index.html">Laws &amp; Regulations</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap04"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/refer/legislation/legislation.pdf" target="_blank">Name of Laws and Regulations(PDF)<img src="/libs/images/icon_blank.png" alt="open new window" width="10" height="10" class="newwin"></a></dd>
+<dd><a href="/en/laws_regulations/index.html#recent_changes">Recent Changes (Legislation, Ordinances, Guidelines)</a></dd>
+<dd><a href="/en/laws_regulations/index.html#Guidelines">Guidelines</a></dd>
+<dd><a href="/en/policy/fiel/index.html">Financial Instruments and Exchange Act</a></dd>
+<dd><a href="/en/laws_regulations/index.html#Financial_Monitoring_Policy">Financial Monitoring Policy</a></dd>
+<dd><a href="/en/laws_regulations/index.html#Public_Comment">Public Comment</a></dd>
+<dd><a href="/en/refer/noact/index_menu.html">No-Action Letter System</a></dd>
+<dd><a href="/en/laws_regulations/fami/index.html">Procedures concerning Foreign Account Management Institutions</a></dd>
+</div>
+<div id="fsa_sitemap05">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/regulated_institutions/index.html">Regulated Institutions</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap05"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/regulated/licensed/index.html">List of Institutions</a></dd>
+<dd><a href="/en/regulated_institutions/index.html#Administrative_Action">Administrative Action</a></dd>
+<dd><a href="/en/regulated/statistics/index.html">Statistics</a></dd>
+<dd><a href="/en/regulated/hst/index.html">For those engaging in High Speed Trading</a></dd>
+<dd><a href="/en/news/2016/20160203-1.html">To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.</a></dd>
+<dd><a href="/en/regulated_institutions/arfp/index.html">Asia Region Funds Passport (ARFP)</a></dd>
+</div>
+<div id="fsa_sitemap06">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap06"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/newsletter/2022a.html">Back Number (2022)</a></dd>
+<dd><a href="/en/newsletter/2021a.html">Back Number (2021)</a></dd>
+<dd><a href="/en/newsletter/2020a.html">Back Number (2020)</a></dd>
+</div>
+</dl>
+</div>
+</section>
+<!-- content END -->
+
+<p id="pagetop"><a href="#header"><img src="/libs/images/pagetop_btn_e.png" alt="" width="103" height="15"/><span>top of page</span></a></p>
+</article>
+<!-- content END -->
+
+
+<!-- footer STRAT -->
+<footer id="footer">
+<div class="inner">
+<nav id="footer_menu" aria-label="footer_menu">
+<ul>
+<li><a href="/en/sitemap/index.html">Site Map</a></li>
+<li><a href="/en/rules/index.html">Terms of Use of the FSA Website</a></li>
+<li><a href="/en/privacy/index.html">Privacy Policy</a></li>
+<li><a href="/en/about/about02_menu.html">Access</a></li>
+<li><a href="/en/contact.html">Contact us</a></li>
+<li><a href="/en/links/index.html">Other Links</a></li>
+</ul>
+</nav>
+<p id="corporate">Financial Services Agency, The Japanese Government (Corporate Number 6000012010023)</p>
+<p id="copyright">Copyright(C) 2017 Financial Services Agency All Rights Reserved.</p>
+<address>3-2-1 Kasumigaseki Chiyoda-ku Tokyo, 100-8967 Japan THE CENTRAL COMMON GOVERNMENT OFFICES No. 7</address>
+</div>
+</footer>
+<!-- footer END -->
+
+</div>
+
+<!-- spMenu -->
+<section id="spMenu">
+<div class="inner">
+<ul class="spMenu_function">
+<!-- /* JavaSctiptの動作に必要だったため、class="spMenu_language"を復活(aria-expandedの動作を同期させる処理) */ -->
+    <li class="spMenu_language">
+        <div class="title_of_menu_second-level">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+            <button type="button" aria-controls="fsa_spmenu_function01" class="gmspmenu_language"><img src="/libs/images/icon_lang_w.svg" alt=""><span>Language</span></button><button type="button" aria-controls="fsa_spmenu_function01" class="gmspmenu"></button>
+<!-- CMS006 END -->
+        </div>
+        <ul lang="en" class="menu_second-level" id="fsa_spmenu_function01">
+            <li><a href="/index.html" class="setLanguageJa">Global Site<span class="sentence-space"></span>Japanese Site</a></li>
+            <li><a href="/index.html" class="setLanguageEn">Machine translated English of Japanese Site</a></li>
+        </ul>
+    </li>
+    <li id="sp_fontsize_box">
+        <p><img src="/libs/images/icon_font_w.svg" alt=""><span>Size</span></p>
+        <div id="sp_fontChange">
+            <button type="button" id="sp_fontL" class="large">font Large</button>
+            <button type="button" id="sp_fontM" class="middle">font Middle</button>
+            <button type="button" id="sp_fontS" class="small">font Small</button>
+        </div>
+    </li>
+</ul>
+<ul>
+<li><a href="/en/index.html">HOME</a></li>
+<li><a href="/en/about/index.html">About FSA</a></li>
+<li><a href="/en/press_releases/index.html">Press Releases &amp; Public Relations</a></li>
+<li><a href="/en/policies_councils/index.html">Policies &amp; Councils</a></li>
+<li><a href="/en/laws_regulations/index.html">Laws &amp; Regulations</a></li>
+<li><a href="/en/regulated_institutions/index.html">Regulated Institutions</a></li>
+<li><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a></li>
+</ul>
+</div>
+</section>
+<!-- //SPMENU -->
+
+<script src="/libs/js/jquery.easing.1.3.js"></script>
+<script src="/libs/js/jquery.responsiveTabs.js"></script>
+<script src="/libs/js/jquery.cookie.js"></script>
+<script src="/libs/js/common.js?date=20260316"></script>
+<script src="/libs/js/common_fsa.js?date=20260316"></script>
+</body>
+</html>
+

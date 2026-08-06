@@ -1,0 +1,76 @@
+* [HOME](/en/index.html)
+
+[Tweet](https://twitter.com/share)
+
+[Japanese![open new window](/images/common/icon_newwin.gif)](/news/r7/sonota/20260514/20260514.html)
+
+May 14, 2026
+
+Financial Services Agency
+
+# Working Group under the “Public-Private Coordination Meeting on Strengthening Cybersecurity Measures in the Financial Sector Against AI-Related Threats”
+
+A working group has been held following discussions at the “Public-Private Coordination Meeting on Strengthening Cybersecurity Measures in the Financial Sector Against AI-Related Threats,” held on April 24.
+
+The purpose of this working group is to deepen practitioner-level discussions to ensure that the financial industry, IT service providers, and relevant public bodies—including the government and the Bank of Japan—share a common understanding of threats arising from advances in AI technology and jointly consider appropriate responses.
+
+Details of the working group held under the coordination meeting will not be disclosed, as they involve cybersecurity-related information.
+
+【Participating Organizations in the WorkingGroup】(Listed in Japanese alphabetical order)
+
+|  |  |
+| --- | --- |
+| (Financial Institutions, etc.)  * Seven Bank, Ltd. * Japan Exchange Group, Inc. * Mizuho Bank, Ltd. * Sumitomo Mitsui Banking Corporation * MUFG Bank, Ltd. * Rakuten Bank, Ltd.  (IT Vendors, etc.)  * Amazon Web Services Japan G.K. * Anthropic Japan GK * NTT DATA Japan Corporation * OpenAI Group PBC * Google * IBM Japan, Ltd. * NEC Corporation * Microsoft Japan Co., Ltd. * Nomura Research Institute, Ltd. * Hitachi, Ltd. * BIPROGY Inc. * Fujitsu Limited | (Industry Associations)  * Financials ISAC Japan * The Center for Financial Industry Information Systems * The Life Insurance Association of Japan * Japanese Bankers Association * Regional Banks Association of Japan * The National Association of Shinkin Banks・The Shinkin Banks Information System Center * Shinkumi Banks Association of Japan・The Shinkumi Federation Bank * National Association of Labour Banks・The Rokinren Bank * The Second Association of Regional Banks * The General Insurance Association of Japan * Japan Securities Dealers Association  (Government Agencies, etc.)  * Japan AI Safety Institute * National Cybersecurity Office * Ministry of Finance * Bank of Japan * Financial Services Agency (Secretariat) |
+
+Contact
+:   Office of Policy Coordination for IT Risk, Cybersecurity and Economic Security, Strategy, Development and Management Bureau, Financial Service Agency
+
+    Telephone:+81-(0)3-3506-6000 (ext.2217, 3850)
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

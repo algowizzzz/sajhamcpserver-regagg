@@ -1,0 +1,1 @@
+Summary: # FORM 542 - Terms and Conditions of Standard Form Trust Agreement

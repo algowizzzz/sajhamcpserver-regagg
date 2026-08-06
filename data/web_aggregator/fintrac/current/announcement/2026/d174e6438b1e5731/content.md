@@ -1,0 +1,78 @@
+# Publications de CANAFE
+
+Cette page présente toutes les publications du Centre d'analyse des opérations et déclarations financières du Canada (CANAFE).
+
+## Sur cette page
+
+* [Publications pour les entreprises](#s1)
+* [Publications de renseignements stratégiques](#s3)
+* [Information pour le public](#s4)
+* [Publications organisationnelles](#s5)
+* [Formulaires](#s6)
+* [Multimédia](#s7)
+
+## Publications pour les entreprises
+
+* [Cadre de surveillance de CANAFE](/introduction/cpf/cpf-fra)
+* [Avis aux entités déclarantes](/notices-avis/notices-avis-fra)
+* [Toutes les directives de CANAFE](/guidance-directives/guidance-directives-fra)
+* [Bulletins d'interprétation de CANAFE](/guidance-directives/overview-apercu/fins/1-fra)
+* [Base de données d'interprétations de politiques](/guidance-directives/overview-apercu/pi/pi-fra)
+* [Manuel d'évaluation de CANAFE](/guidance-directives/exam-examen/cam/cams-fra)
+* [Guides d'évaluation du tort causé](/pen/1-fra)
+* [Vidéos : ressources d'apprentissage](/training-formation/training-formation-fra)
+
+## Publications de renseignements stratégiques
+
+* [Alertes opérationnelles](/intel/sintel-fra?type=alerte#s1)
+* [Avis sectoriel et géographique](/intel/sintel-fra?type=avis#s1)
+* [Rapports opérationnels](/intel/sintel-fra?type=rapport#s1)
+* [Bulletins spéciaux](/intel/sintel-fra?type=bulletin#s1)
+* [Évaluations](/intel/sintel-fra?type=évaluation#s1)
+
+## Information pour le public
+
+* [La Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et la vérification de l'identité des clients](/individuals-individus/05-2003/3-fra)
+* [Questions fréquemment posées sur les nationaux politiquement vulnérables et les dirigeants d'une organisation internationale](/individuals-individus/faq-pep-fra)
+
+## Publications organisationnelles
+
+* [Rapport annuel](/publications/ar/2025/1-fra)
+* [Rapports sur les résultats ministériels](/publications/drr-rrm-fra)
+* [Plans ministériels](/publications/dp-fra)
+* [Rapports financiers trimestriels](/publications/qfr-rft-fra)
+* [Vérification des contrôles de base](/publications/audit-verification/core-base-fra)
+* [Rapport annuel sur l'application de la Loi sur l'accès à l'information](/atip-aiprp/ar/2025-ai-fra)
+* [Rapport annuel sur l'application de la Loi sur la protection des renseignements personnels](/atip-aiprp/ar/2025-pa-pr-fra)
+* [Décrets du Bureau du Conseil privé](/transp/pco-bcp-fra)
+* [Stratégie ministérielle de développement durable](/publications/dsds-smdd-fra)
+* [Le travail forcé dans les chaînes d’approvisionnement canadiennes](/publications/fl-tf/fl-tf-fra)
+
+## Formulaires
+
+* [Formulaires pour la déclaration](/reporting-declaration/form/form-fra)
+* [Formulaire de présentation d'observations la directrice](/raa-rea/1-fra)
+
+## Multimédia
+
+* [Le cas (vidéo)](/intel/case-fra)
+* [Vidéo – La lutte contre le blanchiment d'argent et le financement d'activités terroristes: c'est aussi votre affaire](/training-formation/role/role-fra)
+* [Vidéo – Avis sectoriel et géographique : Systèmes bancaires clandestins utilisant des entreprises de services monétaires non inscrites](/intel/advisories-avis/bank-video-fra)
+* [Vidéo – Secteur des prêts hypothécaires : Exigences relatives au programme de conformité](/training-formation/mortgage-hypotheque/video-fra)
+* [Vidéo – Secteur des prêts hypothécaires : Déclarations d’opérations douteuses](/training-formation/mortgage-hypotheque/video2-fra)
+* [Vidéo – Secteur des prêts hypothécaires : Scénarios](/training-formation/mortgage-hypotheque/video3-fra)
+* [Vidéo 1 – L’importance des déclarations d’opérations douteuses](/training-formation/str-dod/video1-fra)
+* [Vidéo 2 – Comprendre les motifs raisonnables de soupçonner](/training-formation/str-dod/video2-fra)
+* [Vidéo 3 – Éléments à considérer au moment de soumettre une déclaration d’opérations douteuses](/training-formation/str-dod/video3-fra)
+* [Vidéo 1 – Vérification de l'identité d'un client : méthode d'identification à l'aide d'un document d'identité avec photo délivré par un gouvernement](/training-formation/id/id-fra)
+* [Vidéo 2 – Vérification de l'identité d'un client : méthode d'identification à l'aide du dossier de crédit](/training-formation/id/id2-fra)
+* [Vidéo 3 – Vérification de l’identité d’un client : méthode d’identification à processus double](/training-formation/id/id3-fra)
+* [Vidéo 4 – Vérification de l'identité d'un client : méthode d'identification liée aux affiliés ou membres](/training-formation/id/id4-fra)
+* [Vidéo 5 – Vérification de l'identité d'un client : méthode d'identification reposant sur les mesures prises par d’autres entités](/training-formation/id/id5-fra)
+* [Vidéo 6 – Vérification de l’identité d’une entité](/training-formation/id/id6-fra)
+* [Enregistrement du webinaire – Contournement des sanctions déclaration des biens et lutte contre le financement illégal du fentanyl](/training-formation/sanctions/video-fra)
+* [Vidéo – CANAFE : Présentation à l'intention des entités déclarantes](/training-formation/about-apropos/video-fra)
+* [Bénéficiaires effectifs : Comprendre vos exigences](/training-formation/web/beneficial-beneficiaire-fra)
+
+Date de modification :
+:   2026-02-25

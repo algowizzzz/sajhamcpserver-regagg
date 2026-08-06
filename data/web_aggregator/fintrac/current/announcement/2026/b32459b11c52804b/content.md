@@ -1,0 +1,34 @@
+# Administrative monetary penalty on Canadian Imperial Bank of Commerce
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2023-12-07**]
+
+Canadian Imperial Bank of Commerce (CIBC), also operating as Banque Canadienne Impériale de Commerce, a bank headquartered in Toronto, Ontario, was imposed an administrative monetary penalty of $1,329,150 on October 23, 2023, for committing 2 violations. This penalty was imposed for administrative violations committed by CIBC under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and its associated Regulations, and not for criminal offences for money laundering or terrorist activity financing. The administrative monetary penalty has been paid in full by CIBC and proceedings have ended.
+
+## Nature of violation
+
+Violation #1
+:   **Failure of a person or entity to report financial transactions that occurred in the course of its activities and in respect to which there are reasonable grounds to suspect that the transactions are related to the commission or the attempted commission of a money laundering or a terrorist activity financing offence, which is contrary to section 7 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.**
+      
+      
+    Canadian Imperial Bank of Commerce failed to submit a suspicious transaction report where there were reasonable grounds to suspect that one or more transactions were related to a money laundering or terrorist activity financing offence.
+      
+      
+    FINTRAC’s 2021 examination of the Bank identified an instance where a suspicious transaction report ought to have been filed with FINTRAC. This instance relates to a client of the Bank who had been arrested and charged with criminal offences. The Bank was aware of the charges and reviewed the client’s transactions. However, the Bank determined that no suspicious transaction report was required as the observed activity appeared to be normal and in line with the client’s profile, despite the presence of ML/TF indicators and contextual information obtained by the Bank.
+
+Violation #2
+:   **Failure of a financial entity to report the receipt from outside Canada of an electronic funds transfer of $10,000 or more in the course of a single transaction, together with the prescribed information – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 12(1)(c)**
+      
+      
+    Canadian Imperial Bank of Commerce failed to submit incoming electronic funds transfer reports with prescribed information.
+      
+      
+    FINTRAC’s 2021 examination identified 1,003 instances of non-compliance related to unreported Electronic Funds Transfers (EFTs) in a sample of 20,000 incoming SWIFT EFTs over a narrow timeframe, where the Bank was the last Canadian Financial Institution that received an international EFT from another Canadian Financial Institution and for which the name and/or address was incomplete. During the examination, a gap was identified in the Bank’s EFT reporting processes for incoming SWIFT payments, as well as its testing to ensure compliance reporting requirements. As a result, the Bank had not been submitting EFTRs to FINTRAC to meet its reporting obligations under subsection 12(5) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations.
+
+## Related link
+
+* [News release: FINTRAC imposes an administrative monetary penalty on Canadian Imperial Bank of Commerce](/new-neuf/nr/2023-12-07-eng)
+
+Date Modified:
+:   2023-12-07

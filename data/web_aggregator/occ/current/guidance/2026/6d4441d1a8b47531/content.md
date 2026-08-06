@@ -1,0 +1,42 @@
+OCC Bulletin 2026-31
+|
+July 13, 2026
+
+# Bank Supervision: Interagency Guidance on Lending to Individuals Not Legally Authorized to Work in the United States
+
+Share This Page:
+
+### To
+
+Chief Executive Officers of All National Banks, Federal Savings Associations, and Federal Branches and Agencies; Department and Division Heads; All Examining Personnel; and Other Interested Parties
+
+## Summary
+
+On July 13, 2026, following the President’s Executive Order on “Restoring Integrity to America’s Financial System,” the Office of the Comptroller of the Currency (OCC), Federal Deposit Insurance Corporation (FDIC), and National Credit Union Administration (NCUA) issued guidance reminding supervised financial institutions to apply existing safe-and-sound credit risk management practices when lending to borrowers who are not legally authorized to work in the United States (non–work authorized borrowers). The guidance advises that non–work authorized borrowers may present elevated credit risk because their ability to generate income, employment continuity, and financial stability may be more uncertain.
+
+### Note for Community Banks
+
+The interagency guidance applies to community banks.
+
+## Highlights
+
+* Lending to non–work authorized borrowers may involve elevated credit risk because their ability to generate income, keep employment, and remain financially stable may be uncertain.
+* Financial institutions should continue to apply sound underwriting practices that assess a borrower’s willingness and capacity to repay according to the terms of the credit obligation. These practices include assessing the source of repayment, the borrower’s repayment capacity, and the borrower’s overall financial condition, resources, and willingness to repay the obligation as agreed.
+* Uncertainties related to a borrower’s employment authorization may affect the stability and sustainability of income, repayment capacity, collateral recovery, or other factors relevant to credit risk.
+* The guidance highlights the Consumer Financial Protection Bureau’s (CFPB) June 8, 2026, “Statement on Ability To Repay and Immigration Status,” which reminds creditors of obligations under the Truth in Lending Act (TILA) and Regulation Z and the Equal Credit Opportunity Act (ECOA) and Regulation B.
+* Financial institutions are expected to incorporate the risks associated with non–work authorized borrowers into their underwriting, account management, credit classification, allowance analysis, and compliance processes while remaining consistent with applicable consumer protection laws.
+
+## Further Information
+
+Please contact Enice Thomas, Deputy Comptroller for Credit Risk, Office of the Chief National Bank Examiner, at 202-649-5420.
+
+James M. Gallagher  
+Senior Deputy Comptroller and Chief National Bank Examiner
+
+## Related Link
+
+* [Interagency Guidance on Lending to Individuals Not Legally Authorized to Work in the United States](/news-issuances/news-releases/2026/nr-ia-2026-57a.pdf "Agencies Issue Guidance on Lending to Individuals Not Legally Authorized to Work in the United States") (PDF)
+
+#### Topic(s):
+
+* [Credit](/news-events/newsroom/?topic=Credit)

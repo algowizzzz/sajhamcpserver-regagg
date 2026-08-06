@@ -1,0 +1,62 @@
+# FinCEN Advisory – FIN-2011-A008
+
+## Advisory Information
+
+FIN-2011-A008
+
+[FIN-2011-A008.pdf](/system/files/advisory/FIN-2011-A008.pdf "FIN-2011-A008.pdf")
+(39.96 KB)
+
+Issued Date
+
+April 15, 2011
+
+Subject
+
+Guidance to Financial Institutions on Transactions Involving Banking Activities by Entities Originating in the Transnistria Region of Moldova
+
+The Financial Crimes Enforcement Network (FinCEN) is issuing this Advisory to inform and assist the financial industry with detecting and reporting suspicious activity relating to Transnistria, a region that operates as an unrecognized separatist area in the country of Moldova. A previous alert issued by a U.S. regulatory authority highlighted warnings issued by the Deputy Governor of the National Bank of Moldova concerning unauthorized banking activities of Transnistrian entities.1 These entities are not authorized financial institutions of Moldova and, as such, are not required to obtain or maintain transaction records or customer identification information, or file reports of suspicious transactions with the Moldovan authorities. The National Bank of Moldova has identified the following entities as those acting as unauthorized financial institutions:
+
+| Name | Location |
+| --- | --- |
+| Trans-Dniester Republican Bank | Tiraspol |
+| Sberbank [public information suggests this entity is not affiliated with Sberbank headquartered in Russia] | Tiraspol |
+| Elektronny Regionalny Bank LAMINAT | Tiraspol |
+| Ipotechny Bank | Tiraspol |
+| Social Development Benderysotsbank | Bendery |
+| Businessinvestbank (formerly known as Gazprombank) [public information suggests this entity is not affiliated with Gazprombank headquartered in Russia] | Tiraspol |
+| Tiraspromstrojbank | Tiraspol |
+| CJSC “Agroprombank” | Tiraspol |
+
+Through recent meetings with Moldovan officials, FinCEN confirmed the Transnistria region may still present a vulnerability to U.S. financial institutions that offer financial services or maintain correspondent account relationships for financial institutions in Transnistria. Currently, the anti-money laundering laws of Moldova are not being enforced against banks operating within Transnistria because financial institutions within this specific region are not under the supervision of the Moldovan government. Despite the previous warning to the international community by the National Bank of Moldova, large wire transfers are still being routed out of the Transnistria region and into financial institutions in other jurisdictions. Further, publicly available information indicates the lack of oversight in the Transnistria region encourages criminal activities and the movement of proceeds from smuggling and trafficking.2
+
+Guidance
+
+FinCEN reminds U.S. financial institutions that hold foreign correspondent accounts, to conduct due diligence as required by 31 CFR § 1010.630(a) when assessing the money laundering risk presented by accounts with financial institutions in this region of Moldova. Additionally, if a U.S. financial institution knows, suspects, or has reason to suspect that a transaction involves funds derived from illegal activity or that a customer has otherwise engaged in activities indicative of money laundering, terrorist financing, or other violation of federal law or regulation, the financial institution shall file a Suspicious Activity Report. 3
+
+FinCEN will continue analyzing information from the Transnistria region of Moldova in an effort to aid in the detection and deterrence of illicit persons in that region gaining access to the U.S. financial sector. Questions or comments regarding the contents of this Advisory should be addressed to the FinCEN Regulatory Helpline at 800-949-2732.
+
+---
+
+1 Federal Deposit Insurance Corporation Special Alert SA-134-2009 (Aug. 19, 2009).
+
+2 *See* United States Department of State Bureau for International Narcotics and LawEnforcement Affairs, “International Narcotics Control Strategy Report: Volume II, Money Laundering and Financial Crimes,” 358-9 (Mar. 2009) *available at* <http://www.state.gov/documents/organization/120055.pdf> ; *see also* MONEYVAL, “Third Round Detailed Assessment Report on Moldova” (Oct. 2, 2007) *available at* <http://www.coe.int/t/dghl/monitoring/moneyval/Evaluations/round3/MONEYVAL(2007)18Rep-MDA3_en.pdf>.
+
+3 *See* 31 CFR § 1020.320.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

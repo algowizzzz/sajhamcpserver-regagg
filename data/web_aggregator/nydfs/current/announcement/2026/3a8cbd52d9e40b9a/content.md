@@ -1,0 +1,79 @@
+![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS-logo_1280x512.svg)
+
+# Measures Regulated Entities Should Consider in a Heightened Cybersecurity Threat Environment
+
+May 21, 2026 Guidance on Measures Regulated Entities Should Consider in a Heightened Cybersecurity Threat Environment
+
+SHARE
+
+## Industry Letter
+
+---
+
+**Date: May 21, 2026**
+
+**To: Organizations and Individuals Regulated by the Department of Financial Services**
+
+**Re: Guidance on Measures Regulated Entities Should Consider in a Heightened Cybersecurity Threat Environment**
+
+The Department is issuing guidance on measures organizations and individuals regulated by the Department of Financial Services (“Regulated Entities”) should consider taking when they become aware of a heightened cybersecurity threat environment. A heightened threat environment exists when cybersecurity risks are significantly elevated and therefore have a high likelihood of impacting Information Systems, Nonpublic Information1 or operations. This Guidance is intended to inform risk management and compliance efforts and does not establish new legal requirements.
+
+The Department’s cybersecurity regulation, [23 NYCRR Part 500]( https://www.dfs.ny.gov/system/files/documents/2023/12/rf23_nycrr_part_500_amend02_20231101.pdf) (Part 500), provides a framework for Regulated Entities to assess and address cybersecurity risks. Regulated Entities are required to identify and assess internal and external cybersecurity risks that may threaten the security or integrity of Nonpublic Information stored on their Information Systems. Regulated Entities should consider taking additional steps that may go beyond these minimum requirements when they become aware of a heightened threat environment. For example, geopolitical events that have the potential to increase the risk of cyberattacks, or technological developments that materially change cybersecurity risks, such as the release of frontier AI models,2 may result in a heightened threat environment and warrant stronger defensive measures and increased vigilance.
+
+This Guidance identifies a non-exhaustive list of best practices Regulated Entities should consider incorporating into their existing cybersecurity program, to the extent not already required and implemented. Whether to adopt such practices depends on the unique circumstances and operations of an organization. To determine when and which additional security controls to employ to address specific threat environments, Regulated Entities should assess the specific cybersecurity threat, their Information Systems, supply chain dependencies and usage, as well as sector-specific risks.
+
+In some instances, these recommendations may go beyond the explicit minimum controls required under Part 500. However, the Guidance does not alter the requirements under Part 500.
+
+### 1. Measures to Reduce the Attack Surface
+
+1.1 Expeditiously identify and remediate known exploited vulnerabilities in firmware, hardware, and software, especially for Information Systems exposed to the Internet.3
+
+1.2 Where possible, disable the use of inactive or unnecessary ports and protocols.
+
+1.3 Restrict MFA enrollment and changes to authorized processes with strong identity verification. For example, consider requiring IT approvals for adding new MFA authenticator devices, applications, and accounts.
+
+1.4 Employ phishing-resistant MFA methods, such as authenticator applications with number matching or hardware tokens.
+
+1.5 Establish network access protections (*e.g.*, IP accept-listing, geofencing) and segment networks to limit movement across Information Systems.
+
+1.6 Review and validate cloud application configurations to ensure alignment with the Regulated Entity’s risk tolerance.
+
+1.7 Conduct privileged access reviews, especially for threat-relevant users, systems, and devices, to prevent unauthorized or unregistered access to Information Systems.
+
+1.8 Confirm that secure programming practices are used, including validating user inputs; restricting unsafe execution of commands, scripts, processes, or generated outputs; and preventing unauthorized exposure of sensitive data, credentials, and encryption keys.
+
+1.9 Restrict and validate inputs prior to generating outputs, running scripts or processes, or otherwise executing commands to protect.
+
+### 2. Measures to Improve Threat Detection and Readiness
+
+2.1 Confirm that intrusion prevention, detection, and response controls (*e.g.*, firewalls, antivirus, endpoint detection and response tools) are in use, up-to-date, and appropriately deployed.
+
+2.2 Confirm that log and security event alerting data is captured on Information Systems and that anomalous or suspicious activity is promptly identified and appropriately actioned (*e.g.*, unexpected logins from certain geographic regions).
+
+2.3 Ensure that appropriate personnel review and take appropriate action on relevant threat intelligence and guidance including for known indicators of compromise and complete remediation steps.
+
+2.4 Alert all personnel to relevant steps they can take to prevent, detect, and respond to ongoing cyber threat campaigns, including social engineering techniques.
+
+2.5 Enhance monitoring and validation of expected behavior(s) of third-party code, applications, permissions, and practices.
+
+2.6 Engage with critical Third-Party Service Providers to confirm awareness of and appropriate action on heightened cybersecurity risks and readiness to respond to potential disruptions.
+
+### 3. Measures to Improve Resilience and Response
+
+3.1 Test the integrity, immutability, and restorability of backups, including validation of recovery time objectives.
+
+3.2 Prepare for the specific heightened threat environment by reviewing and testing threat-relevant operational resilience procedures (*e.g.*, incident response and business continuity plans) to protect and restore critical functions, Information Systems, and Nonpublic Information.
+
+3.3 Review or develop threat-relevant personnel, customer, and third-party communication strategies to confirm they are sufficient to address prolonged system and service disruptions.
+
+3.4 If the Regulated Entity uses operational technologies, confirm that critical system functions can operate if other Information Systems are unavailable or otherwise compromised.
+
+3.5 Monitor financial transactions, including virtual currency business activity, to ensure compliance with applicable orders and guidance on sanctions and anti-money laundering.
+
+---
+
+1N.Y. Comp. Codes R. & Regs. tit. 23, § 500.1(k). Capitalized terms used herein are defined in the Cybersecurity Regulation.
+
+2[Advisory on Heightened Cybersecurity Risks Associated with Frontier AI Models](/industry-guidance/industry-letters/20260521-heightened-cybersecurity-risks-assoc-with-frontier-ai-models)
+
+3Authoritative sources, such as the [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), can offer additional, free insight into vulnerabilities known to have been exploited and help with vulnerability management prioritization.

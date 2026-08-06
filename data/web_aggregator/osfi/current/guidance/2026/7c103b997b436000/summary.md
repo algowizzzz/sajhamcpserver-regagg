@@ -1,0 +1,1 @@
+Summary: # 2024 Minimum Capital Test (MCT) – Letter (2023)

@@ -1,0 +1,295 @@
+# Earthquake Exposure Sound Practices - Guideline (2013)
+
+Information
+
+Publication type
+
+Guideline
+
+Category
+
+Prudential Limits and Restrictions
+
+Date
+
+February 28, 2013
+
+Sector
+
+Property and Casualty Companies
+
+Number
+
+B-9
+
+Table of contents
+
+Accompanying documents
+
+* [Earthquake Exposure Sound Practices - Guideline impact analysis statement (2013)](/en/guidance/guidance-library/earthquake-exposure-sound-practices-guideline-impact-analysis-statement-2013)
+* [Earthquake Exposure Sound Practices - Letter (2013)](/en/guidance/guidance-library/earthquake-exposure-sound-practices-letter-2013)
+
+## I. Purpose and Scope
+
+Catastrophic losses from exposure to earthquakes may pose a significant threat to the financial wellbeing of many Property & Casualty (P&C) insurers and reinsurers (insurers). As such, insurers must effectively measure, monitor and limit their exposures in accordance with a prudent [risk appetite](#riskapp) and [risk tolerance](#risktol).
+
+The complexities associated with managing earthquake exposures, combined with the potential severity of losses, the difficulty of mitigating the risk post-event, and the high public profile of a major earthquake require insurers to have comprehensive policies and procedures in place, along with an appropriate level of oversight to ensure that they are effective.
+
+This Guideline sets out OSFI's expectations for policies and procedures applicable to insurers[Footnote 1](#fn1) that write business materially exposed to earthquake-related losses. These policies and procedures should form part of an insurer's overall catastrophe risk management. OSFI recognizes that individual insurers may have differing earthquake exposure risk management depending on, among other factors, their: size; ownership structure; nature, scope and complexity of operations; corporate strategy; and risk profile.
+
+The Guideline also sets out common parameters and other factors to be considered when calculating [probable maximum loss](#pml) (PML). This information, when compared to the level of financial resources available, will enable an insurer to assess its capacity and financial preparedness to handle claims that may arise from a major earthquake. As further described in the Guideline, insurers are expected to report certain earthquake exposure information to OSFI on an annual basis.
+
+## II. Key Principles
+
+The following key principles are intended to assist insurers in developing prudent approaches to managing their earthquake risk. OSFI will assess an insurer's earthquake exposure risk management policy against these principles and, where considered necessary, will require remedial action consistent with its early intervention mandate.
+
+Prudent use of catastrophe models to measure earthquake exposure risk is an important component of sound earthquake exposure risk management, and the following principles make numerous references to sound practices for use of catastrophe models. At the same time, there is significant uncertainty associated with catastrophe modeling, and it is critical that all users of the output of catastrophe models are conscious of this uncertainty. Accordingly, good corporate governance for this risk and other risk management techniques, such as risk limits, risk transfer and risk avoidance should also be considered by the insurer, and references in this guideline to these alternatives are as important as the guidance on the use of catastrophe models.
+
+### 1. Earthquake Exposure Risk Management - Insurers should have a sound and comprehensive earthquake exposure risk management policy that is overseen by senior management
+
+#### Policies & Procedures
+
+Earthquake policies and procedures should document the significant elements of the insurer's approach to managing its earthquake risk.
+
+Earthquake policies and procedures should include:
+
+* the institution's [risk appetite](#riskapp) and [risk tolerance](#risktol) for [earthquake insurance](#earthins);
+* data management practices;
+* exposure aggregation monitoring and reporting;
+* appropriate understanding, selection and use of earthquake models, including considerations for model limitations, uncertainties and non-modelled classes of business;
+* identification and estimation of relevant PML factors;
+* the nature and adequacy of financial resources available in relation to the PML;
+* contingency plans to ensure adequate claim handling resources and continued efficient operations;
+* consideration of potential increases in claim and operating costs following a major loss event.
+
+#### Senior Management
+
+OSFI expects senior management[Footnote 2](#fn2) to oversee the development of earthquake policies and procedures and to ensure that they are effectively implemented. At a minimum, senior management should review and discuss the policies and procedures as part of its periodic review of overall catastrophe risk management.
+
+Senior management is responsible for implementing the policies and procedures throughout the organization. Exposure management is an ongoing process, and effective management may require internal reporting more frequently than annually. The exposure should be managed across the insurer, considering the accumulation of all related risks, such as insurance, reinsurance, investments and operations.
+
+Senior management should ensure that appropriate internal controls exist to monitor the effectiveness of, and operational compliance with, the earthquake policies and procedures on an on-going basis. Further, there should be controls in place to ensure the nature of exposure to earthquake risk (low frequency / high impact) is appropriately aligned with the design of management and broker/agent compensation plans. While all oversight functions are expected to contribute to this effort, the actuarial function can play a very important role in reviewing models used to determine exposures, the adequacy of the reinsurance programs to mitigate these exposures, and the pricing of earthquake insurance when delegated by senior management.
+
+Please refer to OSFI's Corporate Governance Guideline for OSFI's expectations of insurer Boards of Directors in regards to operational, business, risk and crisis management policies.
+
+### 2. Earthquake Exposure Data - Earthquake exposure data needs to be appropriately captured and regularly tested for consistency, accuracy and completeness
+
+The data required to run earthquake models goes beyond that traditionally used to rate insurance policies. Improving data consistency, accuracy and completeness is one area where an insurer's efforts can significantly reduce the uncertainty inherent in earthquake exposure measurement. Good earthquake exposure data facilitates the management of this risk through risk transfer, pricing and monitoring against limits as well as catastrophe modeling.
+
+#### Data Integrity
+
+An insurer's earthquake policies and procedures should reflect a strong commitment by senior management to obtain consistent, accurate and complete data to estimate the insurer's exposure to earthquake risk. Senior management needs to understand the data requirements of the model(s) used and place a high priority on the quality of data and its timely capture. Data quality needs to be considered within the context of the assumptions and requirements of the earthquake model(s) used. If necessary, new processes should be put in place to improve data quality.
+
+Responsibilities for the accuracy of data should be clearly defined, both within the insurer and in dealing with outside parties. Since intermediaries such as brokers and agents are often responsible for data collection, senior management should have policies and procedures in place to ensure that the data collected meets the insurer's requirements.
+
+As data quality is often impacted by a trade-off between completeness and accuracy, the insurer should implement a quality control process around data collection and entry including the adoption of criteria to measure data completeness and accuracy. Processes may include:
+
+* Scoring data quality at the time of underwriting;
+* Conducting remediation of sources providing inadequate data;
+* Developing and implementing safeguards to prevent data collectors from miscoding business; and
+* Investing in technology to improve data quality.
+
+#### Data verification
+
+OSFI expects insurers to have processes in place to verify that their databases are accurately capturing all the data received. While the quality of individual risk data is often the key driver of overall data quality, an aggregate analysis and assessment of the overall data quality of a portfolio/group of risks may be the most appropriate approach when the (re)insurer has limited access to the underlying policy processing system. This will often be the case for assumed reinsurance portfolios. Accordingly, reinsurers should have processes in place to evaluate the quality of data submitted by their cedants.
+
+#### Data limitation
+
+Senior management also needs to understand the data limitations and the level of possible errors in the data. While perfect data is the objective, it will be difficult or impossible to achieve this in practice. Therefore, senior management must understand the possible impact of data limitations on the results projected by the model and make prudent adjustments to the model estimates.
+
+Data should be subject to periodic (at least annually) review by individuals independent of those responsible for data collection and data quality. While the insurer may use reinsurance brokers for this independent review, this work should extend beyond the regular review of data prior to submission to reinsurers to include a specific report that acknowledges that their work is being done to support the insurer's compliance with this guideline. Less frequent and broader external reviews of the insurer's data policies, testing and reporting can add value by providing independent benchmarking.
+
+These reviews should cover the completeness, accuracy and consistency of the exposure data as well as the processes applied and the steps taken to achieve adequate data completeness and accuracy. Documentation of the testing and sign-off from the reviewers should be obtained. Testing, which should ensure that errors and erroneous coding are not occurring, could include:
+
+* Summarizing data by key occupancy, construction and geocode and reviewing statistics such as the percent of data with known attributes, the amount of bulk coding and the most frequently observed values;
+* Comparing year-to-year exposure changes;
+* Using historical loss experience, if available, to identify specific portfolio coding issues and behaviour vs. model construction and assumptions; and
+* Running portfolio-specific data quality sensitivity tests as a regular part of portfolio risk analysis process and incorporating into risk decision making
+
+Senior management needs to ensure a plan is developed and documented to address all concerns identified in the reviews and select an appropriate time frame for updating the portfolio exposure data and model results.
+
+### 3. Earthquake Models - Earthquake models should be used with a sound knowledge of their underlying assumptions and methodologies, as well as with a high degree of caution that reflects the significant uncertainty in such estimates
+
+#### Use of Earthquake Models
+
+Insurers are expected to utilize theoretically sound earthquake models as part of their earthquake exposure management. Considering that earthquake-related PMLs are derived from a complex set of variables and related assumptions, earthquake models are an essential tool in providing a systematic approach to such estimates. However, while earthquake models continue to be refined as new information emerges, they have significant limitations and a high degree of inherent uncertainty. This uncertainty is demonstrated by the material differences observed when model estimates are compared to actual events and by the wide range of results from model to model. Nevertheless, when users appropriately consider model limitations and uncertainties, they provide a basis for PML estimation and reinsurance arrangements. Similarly, models further enhance their value as a risk management tool when they are also used to monitor earthquake exposure accumulations and to assist in underwriting decisions.
+
+#### Sound Earthquake Model Practices
+
+Earthquake models are available through a variety of means. They may be licensed from various commercial vendors and maintained in-house or run by third parties on behalf of the insurer. Some insurers have also developed their own in-house models. In any event, in order to ensure that earthquake models are appropriately used, insurers are expected to:
+
+* Document how the use of earthquake models fits within their earthquake risk management process, including PML estimates and, where applicable, how models are used to monitor exposure accumulations and make underwriting decisions;
+* Understand current modelling alternatives and why the model used is appropriate for the applicable insurance portfolio;
+* Ensure there are adequately qualified staff to appropriately run the models on a regular basis when earthquake models are used in-house;
+* Have a sound understanding of the key assumptions, methodologies and limitations underlying the model used, including:
+
+  + how different settings (i.e., switches) impact PML estimates; insurers will need to justify why selected settings are appropriate when they vary from those recommended per the model;
+  + ability to handle related factors such as demand surge, fire following and business interruption;
+  + how changes in portfolio characteristics influence PML variability;
+  + modelled losses versus non-modelled losses;
+* Understand model uncertainty and how this is addressed in determining capital adequacy and related reinsurance arrangements;
+* Have evidence that the granularity and quality of data used is appropriate for the model;
+* When more than one model is used and they produce materially different results, be able to explain the results of their efforts to identify the key reasons for the differences and explain how this work is reflected in parameterization and adjustments (if any) to the particular model(s) chosen as the basis for PML.
+
+#### Model Versions
+
+While the use of an earthquake model is important, it represents only one element in an insurer's risk management framework for earthquake exposure. While models continue to be refined, they retain inherent uncertainty. To counter the inherent uncertainty in models, insurers should consider the use of more than one model. Insurers should implement material updates to commercially available models in a timely manner. More specifically, it is expected that within one year of the release of any material change in a model, the revised model will be used, or an explanation provided for why not. Insurers are to identify the model(s) and version they are using.
+
+When using vendor software to determine its PML, it is important for an insurer to understand the model, its purpose, use and limitations. The model documentation should provide sufficient detail to understand the model methodology, parameters, mathematical basis, limitations and specific insurer modelling refinements used.
+
+Where an earthquake model has been developed in-house, it is expected to be updated on a regular basis and periodically tested for functionality and comparative PML results against other commercially available models.
+
+#### Model Validation
+
+Model validation provides important information on the performance of models.
+
+An important element of this process is to ensure that the model prudently captures risks based upon actual events. This analysis should demonstrate that, over a sufficient historical period, the model-based measurement of loss is consistent with actual losses. To the extent that insufficient data exists to validate the model, an alternative but suitable prudent proxy should be employed for validation.
+
+For example, one could compare the few major historical earthquake events to the losses produced by similar events in the model and assess any divergences. Given the limited number of major historical Canadian earthquakes, it may also be helpful to consider the lessons learned from earthquake events in other parts of the world.
+
+One could also compare the modelled tail losses to market prices for reinsurance coverage. This test is not a validation per se but, rather, will serve as a source for further investigations. An outcome might be that the risk is treated more conservatively than the vendor model would show.
+
+The setting and refinement of model parameters, including loadings for non-modelled risks or costs, should be robust and reflect the results of the model validation process.
+
+The model validation process should be documented, and should clearly identify any limitations of the model or the data in assessing risk and should discuss how any such material deficiencies are mitigated.
+
+### 4. PML Estimates - PML estimates should properly reflect the total expected ultimate cost to the insurer, including considerations for data quality, non-modelled exposures, model uncertainty and exposures to multiple regions
+
+While models are an essential tool in assisting insurers in the management of their earthquake exposures, they are limited in their capabilities. This results in a significant degree of uncertainty. As such, while insurers are required to develop PML estimates in accordance with this principle, they are also encouraged to consider other exposure limitation techniques, such as concentration limits by geography, occupancy and/or construction type.
+
+#### Data Quality
+
+Senior management needs to understand the possible impact of data limitations on the results projected by the model and to make prudent adjustments to the model estimates. While the upward PML adjustment may be necessary to offset some data shortcomings, it should be understood that a large adjustment to the PML for data quality is not a substitute for appropriate data capture.
+
+#### Non-Modelled Exposures and Risk Factors
+
+Many risks cannot be, or are difficult to, adequately consider within an earthquake model. As such, insurers need to take an inventory of exposures and risk factors relevant to their business and identify those that are not included in the model used. These non-modeled exposures and risk factors may include:
+
+* exposure growth between the date of the data and the end of the relevant period of exposure;
+* contingent business interruption;
+* auto and marine insurance;
+* claims handling expenses;
+* adequacy of **insurance to value**;
+* guaranteed replacement cost;
+* increased seismicity after a large event; and
+* blanket coverage and coverage extensions or clauses (i.e., debris removal).
+
+These exposures and risk factors may be relatively small individually; however, their accumulation may be significant and need to be considered as part of an insurer's earthquake PML.
+
+#### Model Uncertainty
+
+Many vendor models now automatically recognize the uncertainty associated with the conversion from the location specific estimate of ground motion to damage levels (secondary uncertainty) in their standard model outputs. There are other sets of assumptions in the earthquake models that are in a continuous process of being updated and refined. When considering its PML as a measure of the potential financial impact on the insurer, senior management needs to prudently factor in a margin of safety to reflect the uncertainty of these additional assumptions.
+
+#### Exposures to Multiple Regions
+
+Earthquake PMLs have historically been based on the larger of the British Columbia or Quebec PMLs. This approach understates the PML for insurers with significant exposures in both earthquake zones. It also ignores earthquake exposure elsewhere, which can have a material impact. Earthquake PMLs should be estimated and reported to senior management based on Canada wide[Footnote 3](#fn3) exposure for foreign insurers or worldwide exposure for Canadian insurers, as well as any regulatory capital requirements. Therefore, insurers are expected to take account of risk which may result from exposures to more than one region.
+
+### 5. Financial Resources and Contingency Plans - Insurers need to ensure that they have an adequate level of financial resources and appropriate contingency plans to successfully manage through a major earthquake
+
+Throughout this section, PML refers to a dollar amount that includes adjustments for data quality, non-modelled exposures and model uncertainty as outlined in Principle 4 above.
+
+#### Financial Resources
+
+Earthquake policies and procedures should quantify an insurer's willingness to take on earthquake insurance risk and outline how the insurer's financial resources cover its gross PML. Insurers should refer to OSFI's Guideline Minimum Capital Test for Federally regulated Property and Casualty Companies (MCT Guideline) in order to determine if they meet the regulatory test of financial preparedness for earthquakes. The following represent financial resources that could be used to support the insurer's earthquake exposures:
+
+##### 1. Capital and Surplus
+
+The MCT Guideline defines capital and surplus, making appropriate distinctions between Canadian incorporated insurers and Canadian branches of foreign insurance companies. It also specifies the maximum retention that can be supported within the insurer's capital and surplus.
+
+##### 2. Earthquake Reserves
+
+Refer to the MCT Guideline for details on the earthquake reserve requirements.
+
+##### 3. Reinsurance Coverage
+
+While most insurers will use a catastrophe reinsurance treaty for this purpose, other reinsurance, such as per risk, quota share and whole account excess of loss may provide substantial coverage for some insurers. When an insurer includes non-catastrophe reinsurance in its determination of available financial resources, it needs to be prepared to demonstrate that it has appropriately considered per event limits and other events, terms and conditions that would otherwise exhaust coverage provided by these other types of reinsurance. In the case of whole account reinsurance insurers may need to use a full stochastic model.
+
+Formal reinsurance agreements, evidenced by written documents between Canadian incorporated insurance companies and their foreign parent institutions, constitute a traditional mechanism with which insurers manage their insurance exposure. Other supporting financial arrangements provided by parent companies, such as letters of credit or guarantee facilities, cannot be used to support the insurer's gross PML exposure.
+
+Reinsurance programs should be arranged following Guideline B-3 Sound Reinsurance Practices and Procedures. Insurers that participate in global catastrophe reinsurance program must consider:
+
+* on-going protection for Canadian operations (e.g., exhaustion of layers or program by other events); and
+* adequacy and recoverability if other regions are impacted by the same event.
+
+##### 4. Capital Market Financing
+
+Insurers can enter into innovative financing transactions designed to hedge their risk for a catastrophic event. In some cases, these are standby capital market financing facilities that become operative when a catastrophe occurs. Insurers also need to respect the provisions of the Borrowing (Property and Casualty Companies and Marine Companies) Regulations. Prior approval from OSFI is required before these instruments can be recognized as a financial resource under the MCT Guidelines.
+
+#### Contingency Plans
+
+Insurers must have contingency plans in place to ensure continued efficient business operations. The contingency plan should address the key elements of claims management, such as emergency communications links, availability and adequacy of claims and adjustment service personnel, and off-site systems back-up, that also includes reinsurance records.
+
+## III. Regulatory Reporting
+
+All insurers will be required to annually file an Earthquake Exposure Data form with OSFI. The form will be updated periodically, and detailed instructions will be provided each year.
+
+Insurers without material earthquake exposure should submit a letter stating this fact.
+
+Note that earthquake exposure can exist for automobile and marine policies, as well as property policies, can arise from secondary sources such as fire-following and tsunami, and that all Canadian regions have some exposure to shake events.
+
+## IV. Guideline Administration
+
+### Supervisory Information
+
+Enhanced transparency will allow OSFI to better understand the economic impacts and risks associated with an insurer's earthquake exposure. Insurers with material exposure to earthquake risk are required to maintain and provide to OSFI, upon request, their policies that govern the earthquake exposure risk management, including PML and supporting reinsurance programs. Insurers with material exposure to earthquake risk should ensure that their overall catastrophe risk management provides enough coverage with respect to the B-9 principles.
+
+OSFI expects the insurer's annual Financial Condition Testing (FCT) will consider an earthquake event, and that the FCT report will either include this scenario or document the rational for not including it. The actuary would ensure consistency with any minimum return period for an earthquake event that may be required by the regulator.
+
+### Capital / Asset Requirements
+
+Earthquake exposure may be a major risk to an insurer. If an insurer fails to meet the principles set out in this Guideline, on a case-by-case basis, OSFI may use its discretionary authority to adjust the insurer's capital / asset requirements or target solvency ratios.
+
+### Reporting
+
+A senior officer of an insurer should regularly report to senior management, details on the earthquake exposure and how the exposure is being managed. The officer should confirm the insurer's practices and procedures meet, except as otherwise disclosed , the standards set in this Guideline. The report should also include the PML and detail the financial resources that support the exposure. The report should be available to OSFI, upon request.
+
+### Implementation
+
+Each insurer should file an approved copy of its earthquake exposure risk management policy with OSFI.
+
+## V. Description of Terms
+
+The following descriptions of terms are provided for their usage in the context of this guideline.
+
+**Earthquake Insurance**
+:   principally covers the damage from the initial shaking, but also covers the related risks of fire following and tsunami. Shake insurance is usually sold as an endorsement or rider to an insurance policy and covers damages to property and contents. In addition, it may include business interruption, additional living expenses, automobile damage and other types of coverage. Fire following an earthquake is the second main earthquake-related risk. Studies have shown that fire following damages can be quite severe because of broken gas mains, curtailment of water supply, road blockage for fire engines, etc. Coverage for damages from this risk may be sold as an endorsement or rider to an insurance policy (where legislation permits) or, alternatively, is sold as part of the standard property policy. Depending upon how this insurance is packaged, business interruption, additional living expenses, etc., may also be covered. A tsunami may also follow an earthquake that occurs under an ocean or a large lake. Although the impact of tsunamis is limited to coastal areas, their destructive power can be enormous and insurers should consider whether or not coverage (direct or indirect, as noted above for quake and fire following) is provided by any of their policies.
+
+**Probable Maximum Loss (PML)**
+:   the threshold dollar value of losses beyond which losses caused by a major earthquake are unlikely. When probabilistic models are used, PML is return period loss, which is defined as the dollar level of loss expected to be exceeded once in every X years. Gross PML is the PML amount **after** deductibles but **before** catastrophic and other reinsurance protection. Net PML is the PML **after** deductibles and catastrophic and other reinsurance protection. Note that a gross net PML (that is, after deductibles and other reinsurance inuring to the catastrophe treaty) is relevant to the placement of the catastrophe treaty; it is not directly relevant to this guideline.
+
+**Risk Appetite**
+:   the total level and type of risk exposure that an insurer is willing to undertake to achieve its objectives. Risk Appetite is often a qualitative assessment.
+
+**Risk Tolerance**
+:   specific parameters and/or limits on the level and amount of risk an insurer is willing to accept/retain.
+
+## VI. Other OSFI Guidance
+
+This Guideline is complementary to, and should be read in conjunction with, other OSFI guidance that implicitly or explicitly addresses various elements of earthquake or governance, including:
+
+* [Minimum Capital Test](/en/guidance/guidance-library/minimum-capital-test-guideline-2024 "Minimum Capital Test - Guideline (2024)") - for federally regulated property and casualty insurers;
+* [Corporate Governance](/en/guidance/guidance-library/corporate-governance-guideline-2018 "Corporate Governance – Guideline (2018)") Guideline - provides information to Boards and management of insurers about OSFI's expectations on corporate governance;
+* Guideline B-3: [Sound Reinsurance Practices and Procedures](/en/guidance/guidance-library/sound-reinsurance-practices-procedures-guideline-2025 "Sound Reinsurance Practices and Procedures – Guideline (2025)") - sets out expectations for effective reinsurance practices and procedures; and
+* Guideline E-17: [Background Checks on Directors and Senior Management of Federally Regulated Entities (FRE)](/en/guidance/guidance-library/background-checks-directors-senior-management-fres-guideline-2008 "Background Checks on Directors and Senior Management of FREs – Guideline (2008)") - outlines principles to assess the suitability and integrity of directors and senior management by FREs.
+
+## Footnotes
+
+Footnote 1
+:   For the purposes of this guideline, “insurers” refers to all federally regulated property and casualty insurers, including domestic insurance companies and foreign insurance companies in respect of their insurance business in Canada.
+
+    [Return to footnote 1  referrer](#fn1-rf)
+
+Footnote 2
+:   For foreign company branches, OSFI looks to branch management to oversee operations in Canada.
+
+    [Return to footnote 2  referrer](#fn2-rf)
+
+Footnote 3
+:   Throughout this guideline, Canada wide includes business reported on a company's P&C-2 by virtue of the application of Part XIII.
+
+    [Return to footnote 3  referrer](#fn3-rf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-11-21

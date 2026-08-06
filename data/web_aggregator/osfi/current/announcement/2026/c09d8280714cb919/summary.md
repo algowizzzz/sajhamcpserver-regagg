@@ -1,0 +1,1 @@
+Summary: # Acquisition or disposal of assets exceeding 5% of a FI’s assets, to/from a widely held bank or insurance holding company or a subsdiary of the holding company that is related to FI

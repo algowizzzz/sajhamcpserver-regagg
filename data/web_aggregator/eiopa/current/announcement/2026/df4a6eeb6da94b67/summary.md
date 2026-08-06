@@ -1,0 +1,1 @@
+Summary: ![stakeholder group selection process](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-03/adobestock_news_job_candidates.jpg?itok=TyGAVs2D "stakeholder group selection process")

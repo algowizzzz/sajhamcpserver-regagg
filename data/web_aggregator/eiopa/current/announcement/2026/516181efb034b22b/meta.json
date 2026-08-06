@@ -1,0 +1,27 @@
+{
+  "doc_id": "516181efb034b22b",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA\u2019s 9th Annual Conference to be held on 19 November 2019 in Frankfurt am Main - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopas-9th-annual-conference-be-held-19-november-2019-frankfurt-am-main-2019-03-07_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5ed86bf946ed58aee78ed9d9aa66db2825e1f44f8294dfc0c1eca9c860aa8f69",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/516181efb034b22b",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopas-9th-annual-conference-be-held-19-november-2019-frankfurt-am-main-2019-03-07_en",
+  "fetch_method": "html_to_md"
+}

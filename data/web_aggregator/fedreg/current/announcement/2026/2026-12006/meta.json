@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12006",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Whistleblower Award Determination",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/15/2026-12006/whistleblower-award-determination",
+  "reference_number": "2026-12006",
+  "published_date": "2026-06-15",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:aa13786cb684a5b0b95ad3b8b5ce6687b0266f0951d3f14d573a246e9aa298e6",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12006",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

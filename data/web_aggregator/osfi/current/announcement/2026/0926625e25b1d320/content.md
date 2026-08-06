@@ -1,0 +1,26 @@
+# Final Instruction Guide – Registration of a Defined Benefit Pension Plan
+
+**Type of Publication:** Letter  
+**Date:** August 4, 2022  
+**To:** Administrators of federally regulated pension plans with defined benefit provisions under the Pension Benefits Standards Act, 1985 and their consultants
+
+The Office of the Superintendent of Financial Institutions (OSFI) is issuing the final version of the  [Instruction Guide for the Registration of a Defined Benefit Pension Plan](/en/supervision/pensions/administering-pension-plans/guidance-topic/registration-defined-benefit-pension-plan "Registration of a Defined Benefit Pension Plan") (Instruction Guide). The Instruction Guide assists plan administrators of defined benefit pension plans in completing the  [OSFI-48DB – Application form for the Registration of a Defined Benefit Pension Plan](/sites/default/files/documents/DB_osfi48_2022_EN.pdf) (the Application form).
+
+OSFI issued a revised draft Instruction Guide and the Application form for consultation on February 24, 2022. No comments were received as part of the consultation, however we made minor changes to the Instruction Guide and the Application form based on feedback received from the consultation on the  [Instruction Guide for the Registration of a Defined Contribution Pension Plan](/en/supervision/pensions/administering-pension-plans/guidance-topic/registration-defined-contribution-pension-plan "Registration of a Defined Contribution Pension Plan"). A summary of comments received with respect to that instruction guide can be found on [OSFI’s website](/en/supervision/pensions/final-instruction-guide-registration-defined-contribution-pension-plan#ann).
+
+Questions and comments concerning any of OSFI’s requirements or expectations set out in the Instruction Guide may be sent to [pensions@osfi-bsif.gc.ca](mailto:pensions@osfi-bsif.gc.ca).
+
+Yours truly,  
+Judy Cameron  
+Senior Director  
+Regulatory Affairs and Strategic Policy
+
+## Related links
+
+* [2022 Instruction Guide (Defined Benefits Plans)](/en/supervision/pensions/administering-pension-plans/guidance-topic/registration-defined-benefit-pension-plan "Registration of a Defined Benefit Pension Plan")
+* [2022 DB Application Form (PDF, 603 KB)](/sites/default/files/documents/DB_osfi48_2022_EN.pdf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2022-08-04

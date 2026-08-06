@@ -1,0 +1,1 @@
+Summary: # Sociétés d’assurance vie et de secours mutuels

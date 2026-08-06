@@ -1,0 +1,1 @@
+Summary: # Information on upcoming changes to SWIFT EFTR and ISO20022 implementation

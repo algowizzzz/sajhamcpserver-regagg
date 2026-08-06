@@ -1,0 +1,17 @@
+{
+  "run_id": "2026-08-01_sec_80ae",
+  "regulator_id": "sec",
+  "logical_date": "2026-08-01",
+  "trigger": "schedule",
+  "detected": 1,
+  "fetched": 1,
+  "ingested": 0,
+  "archived": 0,
+  "errors": 0,
+  "status": "success_empty",
+  "error_list": [],
+  "detected_urls": [
+    "https://www.sec.gov/rules/final/cyber-disclosure"
+  ],
+  "duration_s": 0.003
+}

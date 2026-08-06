@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13112",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Consisting of Amendments to MSRB Rule G-28, on Transactions With Employees and Partners of Other Municipal Securities Professionals, To Harmonize and Better Align With FINRA Rule 3210, on Accounts at Other Broker-Dealers and Financial Institutions",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/30/2026-13112/self-regulatory-organizations-municipal-securities-rulemaking-board-notice-of-filing-and-immediate",
+  "reference_number": "2026-13112",
+  "published_date": "2026-06-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:744305d8086632da11b6c6b2074a09c4dd1af4ccbe18644e564d548c5b09f294",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13112",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

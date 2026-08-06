@@ -1,0 +1,6006 @@
+39794 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+1 See 12 U.S.C. 1817(b). 
+2 As used in this notice of proposed rulemaking, 
+the term ‘‘bank’’ is synonymous with the term 
+‘‘insured depository institution’’ as it is used in 
+section 3(c)(2) of the FDI Act, 12 U.S.C. 1813(c)(2). 
+As used in this notice, the term ‘‘small bank’’ is 
+synonymous with the term ‘‘small institution,’’ as 
+defined in 12 CFR 327.8(e), or using the proposed 
+revised definition. Additionally, as used in this 
+notice, the terms ‘‘large bank’’ and ‘‘highly complex 
+institution’’ refer to an insured depository 
+institution that meets the definition of a large 
+institution or highly complex institution as defined 
+in 12 CFR 327.8(f) and (g), or using the proposed 
+revised definitions of those terms. 
+3 12 CFR part 327. 
+4 See 12 U.S.C. 1817(b)(1)(C). 
+5 See 12 U.S.C. 1817(b)(1)(D). 
+6 See 12 CFR 327.16(a) and (b). 
+7 See 12 CFR 327.3(b)(1). 
+8 See 12 CFR 327.5(a). 
+9 See 12 CFR 327.16. 
+10 Banks that elect to use the community bank 
+leverage ratio framework are also considered small 
+institutions, even if those banks would otherwise 
+meet the definition of a large institution. See 12 
+CFR 327.8(e)(3). An insured branch of a foreign 
+bank is not considered a large institution. See 12 
+CFR 327.8(f). 
+A small institution is reclassified as a large 
+institution beginning in the fourth consecutive 
+quarter that it reports assets of $10 billion or more 
+on the Call Report. Similarly, a large institution is 
+reclassified as a small institution beginning in the 
+fourth consecutive quarter that it reports assets of 
+less than $10 billion on the Call Report. 
+FEDERAL DEPOSIT INSURANCE 
+CORPORATION 
+12 CFR Part 327 
+RIN 3064–AG27 
+Assessments Thresholds, Rate 
+Schedules, and Adjustments 
+AGENCY: Federal Deposit Insurance 
+Corporation. 
+ACTION: Notice of proposed rulemaking. 
+SUMMARY: The Federal Deposit 
+Insurance Corporation (FDIC) invites 
+public comment on a proposed rule that 
+would amend the assessment 
+regulations in 12 CFR part 327 to: 
+update the $10 billion asset threshold in 
+the definitions of small and large 
+institutions to $30 billion and adjust the 
+threshold every four years to reflect 
+inflation, pursuant to a pre-determined 
+indexing methodology; decrease initial 
+base deposit insurance assessment rate 
+schedules by 2 basis points for small 
+institutions and by 1 basis point for 
+large and highly complex institutions; 
+provide a downward resolution 
+readiness adjustment to assessment 
+rates for large and highly complex 
+institutions, including 0.5 basis points 
+for passing virtual data room testing and 
+0.5 basis points for providing prescribed 
+data access; and remove obsolete 
+provisions. 
+DATES: Comments must be received no 
+later than August 31, 2026. 
+ADDRESSES: You may submit comments 
+on the notice of proposed rulemaking, 
+identified by RIN 3064–AG27 using any 
+of the following methods: 
+• FDIC website: https://www.fdic.gov/ 
+federal-register-publications. Follow the 
+instructions for submitting comments 
+on the agency website. 
+• Email: Comments@fdic.gov. Include 
+RIN 3064–AG27 on the subject line of 
+the message. 
+• Mail: Jennifer M. Jones, Deputy 
+Executive Secretary, Attention: 
+Comments—RIN 3064–AG27, Federal 
+Deposit Insurance Corporation, 550 17th 
+Street NW, Washington, DC 20429. 
+• Hand Delivery to FDIC: Comments 
+may be hand-delivered to the guard 
+station at the rear of the 550 17th Street 
+NW building (located on F Street NW) 
+on business days between 7 a.m. and 5 
+p.m. 
+• Public Inspection: Comments 
+received, including any personal 
+information provided, may be posted 
+without change to https://www.fdic.gov/ 
+federal-register-publications. 
+Commenters should submit only 
+information that the commenter wishes 
+to make available publicly. The FDIC 
+may review, redact, or refrain from 
+posting all or any portion of any 
+comment that it may deem to be 
+inappropriate for publication, such as 
+irrelevant or obscene material. The FDIC 
+may post only a single representative 
+example of identical or substantially 
+identical comments, and in such cases 
+will generally identify the number of 
+identical or substantially identical 
+comments represented by the posted 
+example. All comments that have been 
+redacted, as well as those that have not 
+been posted, that contain comments on 
+the merits of the proposed rule will be 
+retained in the public comment file and 
+will be considered as required under all 
+applicable laws. All comments may be 
+accessible under the Freedom of 
+Information Act. 
+This proposal, all comments received, 
+and a summary of not more than 100 
+words of the proposed rule pursuant to 
+the Providing Accountability Through 
+Transparency Act of 2023 are available 
+at https://www.fdic.gov/federal-register- 
+publications. 
+FOR FURTHER INFORMATION CONTACT : 
+Division of Insurance and Research: 
+Daniel Hoople, Associate Director, 
+Financial Risk Management Branch, 
+202–898–3835, dhoople@fdic.gov; 
+Division of Complex Institution 
+Supervision and Resolution: Ryan 
+Tetrick, Deputy Director, Resolution 
+Readiness Branch, 202–898–7028, 
+rtetrick@fdic.gov; Sean Healey, Acting 
+Associate Director, Policy Analysis, 
+Systemic Risk Branch, 202–898–7049, 
+seahealey@fdic.gov; Patrick Bittner, 
+Senior Policy Specialist, Policy 
+Analysis, Systemic Risk Branch, 202– 
+898–3550, pabittner@fdic.gov; Division 
+of Resolutions and Receiverships: 
+Shivali Nangia, Deputy Director, 
+Receivership Operations, 972–761– 
+2945, snangia@fdic.gov; Catherine 
+Linhart, Assistant Director, Closing 
+Operations and Data, 571–242–5368, 
+clinhart@fdic.gov; Legal Division: Ryan 
+McCarthy, Counsel, 202–898–7301, 
+rymccarthy@fdic.gov; Jacques Schillaci, 
+Counsel, 202–898–7298, jschillaci@
+fdic.gov; Dena Kessler, Counsel, 202– 
+898–3833, dkessler@fdic.gov. 
+SUPPLEMENTARY INFORMATION: 
+I. Background 
+A. Legal Framework 
+Pursuant to section 7 of the Federal 
+Deposit Insurance (FDI) Act,1 the FDIC 
+has established a risk-based assessment 
+system for calculating and charging all 
+insured depository institutions (IDIs)
+2 a 
+quarterly assessment for deposit 
+insurance.
+3 The FDI Act defines a risk- 
+based assessment system as a system for 
+calculating a depository institution’s 
+assessment based on: (1) the probability 
+that the Deposit Insurance Fund (DIF) 
+will incur a loss with respect to the 
+institution; (2) the likely amount of any 
+such loss; and (3) the revenue needs of 
+the DIF.
+4 The FDIC has established 
+separate risk-based assessment systems 5 
+and calculates a bank’s assessment rate 
+using different methods for small, large, 
+and highly-complex institutions.
+6 
+Under the assessment regulations, the 
+amount of an IDI’s deposit insurance 
+assessment is equal to its assessment 
+base multiplied by its risk-based 
+assessment rate.
+7 Generally, an IDI’s 
+assessment base equals its average 
+consolidated total assets minus its 
+average tangible equity.
+8 An IDI’s risk- 
+based assessment rate is determined 
+each quarter based on supervisory 
+ratings and information collected on the 
+Consolidated Reports of Condition and 
+Income (Call Report) or the Report of 
+Assets and Liabilities of U.S. Branches 
+and Agencies of Foreign Banks (FFIEC 
+002), as appropriate.
+9 
+The assessment regulations generally 
+define a small institution as an IDI with 
+total assets of less than $10 billion, as 
+reported on the Call Report.
+10 
+Assessment rates for established small 
+banks (i.e., small banks that have been 
+federally insured for at least five years) 
+are calculated based on seven financial 
+ratios and a weighted average of 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00002 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39795 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+11 Bank examiners review and evaluate an 
+institution’s condition using the Uniform Financial 
+Institutions Rating System, also known as CAMELS 
+(Capital, Asset quality, Management, Earnings, 
+Liquidity, and Sensitivity to market risk). CAMELS 
+ratings are scored on a scale of ‘‘1’’ (best) to ‘‘5’’ 
+(worst). Examiners assign a rating for each CAMELS 
+component and an overall Composite rating. 
+12 See 12 CFR 327.16(a); see also 81 FR 32180 
+(May 20, 2016). 
+13 See 12 CFR 327.8(f). 
+14 See 12 CFR 327.8(g). 
+15 See 12 CFR 327.16(b)(1) and (2); see also 76 FR 
+10672 (Feb. 25, 2011) and 77 FR 66000 (Oct. 31, 
+2012). 
+16 See 12 CFR 327.16(e). 
+17 Id. See also 74 FR 9525 (Mar. 4, 2009) and 76 
+FR 10672, 10680 (Feb. 25, 2011). The unsecured 
+debt adjustment applies to all institutions except 
+new institutions and insured branches of foreign 
+banks. 
+18 See 12 CFR 327.16(e)(3). 
+19 See 12 CFR 327.16(b)(3); see also Assessment 
+Rate Adjustment Guidelines for Large and Highly 
+Complex Institutions, 76 FR 57992 (Sept. 19, 2011). 
+20 See 12 U.S.C. 1817 and 1819 (Tenth). 
+21 See 12 CFR 327.8(e) and (f). 
+22 See Adjusting and Indexing Certain Regulatory 
+Thresholds, 90 FR 55789 (Dec. 4, 2025). Any 
+references to inflation in this proposal refer to 
+inflation as measured under the consumer price 
+index for urban wage earners and clerical workers 
+(CPI–W), unless specifically noted otherwise. 
+23 Progressively lower assessment rate schedules 
+will take effect when the reserve ratio exceeds 2 
+percent and 2.5 percent, and the FDIC did not 
+modify those schedules when increasing rates in 
+2023. See 12 CFR 327.10(c) and (d). See also 87 FR 
+64314 (Oct. 24, 2022). 
+supervisory CAMELS 11 components 
+that are statistically significant in 
+predicting the probability of an 
+institution’s failure over a three-year 
+horizon.
+12 The CAMELS composite 
+rating is used to determine the 
+minimum and maximum assessment 
+rate for a small institution. 
+For purposes of deposit insurance 
+assessments, a large institution is 
+generally defined as an IDI that reports 
+assets of $10 billion or more on its Call 
+Report for four consecutive quarters that 
+does not meet the definition of a highly 
+complex institution.
+13 A highly 
+complex institution is generally defined 
+as an institution that has $50 billion or 
+more in total assets and is controlled by 
+a parent holding company that has $500 
+billion or more in total assets, or is a 
+processing bank or trust company.
+14 
+Assessment rates for large banks and 
+highly complex institutions are 
+calculated using a scorecard approach 
+based on CAMELS component ratings 
+and certain forward-looking financial 
+measures to assess the risk that the 
+institution poses to the DIF. One version 
+of the scorecard applies to most large 
+banks and another to highly complex 
+institutions.
+15 
+As part of the risk-based assessment 
+system, institutions are subject to 
+certain adjustments to their assessment 
+rates for factors that can increase or 
+reduce loss to the DIF in the event the 
+bank fails.
+16 For example, the unsecured 
+debt adjustment is a downward 
+adjustment intended to better account 
+for certain liabilities that can reduce the 
+loss to the DIF in the event of failure.
+17 
+The brokered deposit adjustment is an 
+upward adjustment.
+18 In addition, the 
+FDIC may adjust a large or highly 
+complex institution’s total score, which 
+is used in the calculation of its 
+assessment rate, to consider 
+idiosyncratic or other relevant risk 
+factors not reflected in the appropriate 
+scorecard.
+19 
+B. Overview of the Proposal and Policy 
+Objectives 
+The FDIC, under its general 
+rulemaking authority in section 9 of the 
+FDI Act, and its specific authority under 
+section 7 of the FDI Act to set 
+assessments and establish a risk-based 
+assessment system,
+20 is proposing to 
+make several revisions to the deposit 
+insurance assessment regulations (the 
+proposal), including to: (1) update the 
+$10 billion asset threshold in the 
+definitions of small and large 
+institutions to $30 billion and adjust the 
+threshold every four years to reflect 
+inflation, pursuant to a pre-determined 
+indexing methodology; (2) decrease 
+initial base assessment rate schedules by 
+2 basis points for all small institutions, 
+including new small institutions and 
+insured branches of foreign banks, and 
+by 1 basis point for large and highly 
+complex institutions; and (3) provide a 
+downward resolution readiness 
+adjustment (RRA) to assessment rates 
+for large and highly complex 
+institutions electing to participate, 
+including 0.5 basis points for passing 
+voluntary virtual data room (VDR) 
+testing and 0.5 basis points for 
+providing prescribed data access. In 
+addition, the FDIC is proposing to make 
+certain technical amendments to the 
+assessment regulations to remove 
+obsolete provisions. 
+The FDIC continues to explore 
+opportunities for updating the 
+assessment regulations, including 
+adjusting other thresholds and possible 
+updates and improvements to the 
+scorecard methodology applied to 
+calculate assessments for large banks 
+and highly complex institutions. Any 
+future updates would be made through 
+a separate notice and comment 
+rulemaking. 
+1. Proposed Updates to Small and Large 
+Institution Definitions 
+The FDIC is proposing to update the 
+definitions of small and large 
+institutions that determine which risk- 
+based deposit insurance assessment 
+methodology is applied to calculate an 
+institution’s deposit insurance 
+assessment rate.
+21 Specifically, the FDIC 
+is proposing to update the asset-based 
+threshold (the assessment methodology 
+threshold) used to define small and 
+large institutions from $10 billion to $30 
+billion and to adjust the threshold every 
+four years to reflect inflation, pursuant 
+to a pre-determined indexing 
+methodology which would generally 
+align with the methodology used to 
+adjust certain other thresholds within 
+FDIC regulations.
+22 
+The primary objective of the proposed 
+update and future indexing is to provide 
+for a more durable deposit insurance 
+assessment framework by preserving, in 
+real terms, the assessment methodology 
+threshold used to define small and large 
+institutions. The inflation adjustment 
+would also preserve the FDIC’s ability to 
+apply different assessment 
+methodologies based on size that are 
+more appropriate to banks’ risk profiles 
+and risk exposure to the DIF. 
+2. Proposed Revisions to Assessment 
+Rates 
+The FDIC is also proposing revisions 
+to deposit insurance assessment rate 
+schedules. First, the proposal would 
+decrease initial base deposit insurance 
+assessment rate schedules uniformly by 
+2 basis points for IDIs that meet the 
+proposed definition of a small 
+institution, and by 1 basis point for IDIs 
+that meet the proposed definition of a 
+large institution or that are highly 
+complex institutions. The proposed 
+reductions would only apply to initial 
+base assessment rate schedules 
+applicable while the reserve ratio is less 
+than 2 percent.
+23 
+3. The Resolution Readiness Adjustment 
+The proposed rule would amend the 
+risk-based assessment system to include 
+a downward adjustment, the RRA, of up 
+to 1 basis point to initial base 
+assessment rates if a large or highly 
+complex institution elects to (1) submit 
+to testing of the institution’s ability to 
+populate a VDR with information that 
+could be used to market a bank in the 
+event of its failure; and/or (2) provide 
+the FDIC access to an institution’s 
+service provider(s) and/or internal 
+systems to obtain detailed bank data 
+needed to manage and market the bank 
+in receivership. The RRA would be 
+applied to a large or highly complex 
+institution’s assessment rate in 
+recognition of the expected reduction in 
+losses to the DIF in the event of the 
+failure of a bank that successfully 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00003 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39796 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+24 The FDI Act requires the FDIC to establish a 
+risk-based assessment system for calculating an 
+IDI’s assessment based on the probability that the 
+DIF will incur a loss with respect to that IDI and 
+the likely amount of any such loss, among other 
+factors. See 12 U.S.C. 1817(b)(1)(C). 
+25 See supra fn 23. 
+26 See 12 CFR 327.8(e), (f), and (g). 
+27 Generally, an established institution is one that 
+has been federally insured for at least five years. See 
+12 CFR 327.8(k). 
+28 See supra fn 10. 
+29 See 71 FR 69270, 69281 (Nov. 30, 2006). 
+30 See 76 FR 57992 (Sept. 19, 2011). 
+completes the VDR testing exercise and/ 
+or provides the prescribed data access.24 
+The RRA would be applied to a bank’s 
+initial base assessment rate prior to 
+application of any other applicable 
+adjustments to initial base assessment 
+rates. Under the current regulations, the 
+minimum initial base assessment rate 
+applied to large and highly complex 
+institutions becomes progressively 
+lower when the reserve ratio reaches 2 
+percent and 2.5 percent. Under the 
+proposal, the minimum initial base 
+assessment rates applied to large and 
+highly complex institutions would still 
+become progressively lower, but the 
+decrease would be smaller in order to 
+incorporate the RRA. 
+Under the revised schedules, a large 
+or highly complex institution at the 
+minimum initial base assessment rate 
+that also earns the full 1 basis point 
+RRA would be eligible to receive the 
+same maximum unsecured debt 
+adjustment as it would under the rate 
+schedules applied in the current 
+regulation after the reserve ratio reaches 
+2 percent. In addition, under the 
+proposed rate schedules, the minimum 
+assessment rate after application of all 
+adjustments would be the same for large 
+and highly complex institutions and for 
+small banks, which is equal to the 
+minimum assessment rates applied 
+prior to the increase implemented in 
+2023.
+25 
+4. Technical Amendments To Remove 
+Obsolete Content 
+The FDIC is also proposing technical 
+amendments to its regulations governing 
+deposit insurance assessments to 
+remove obsolete provisions that are no 
+longer applicable and have not been 
+applicable to any IDI for at least three 
+years. 
+II. Updating Definitions of Small and 
+Large Institutions 
+A. Background 
+The FDIC is proposing to amend the 
+definitions of small and large 
+institutions in the assessment 
+regulations. Under the assessment 
+regulations, the definitions of small, 
+large, and highly complex institutions 
+determine which risk-based deposit 
+insurance assessments methodology is 
+applied when calculating an 
+institution’s deposit insurance 
+assessment rate.
+26 
+The current definitions of small and 
+large institutions, first adopted in 2006, 
+use certain static, dollar-based 
+thresholds, which have not been 
+updated in twenty years. Adjusting 
+these thresholds on a consistent 
+schedule would mitigate the risk that 
+the deposit insurance assessment 
+system becomes less effective at 
+differentiating risk and more 
+burdensome on smaller institutions due 
+solely to inflation rather than 
+meaningful changes in an institution’s 
+size, risk profile, or level of complexity. 
+Under the proposal, the dollar-based 
+asset threshold used to define small and 
+large institutions would be updated and 
+adjusted in the future to reflect 
+inflation, pursuant to a pre-determined 
+indexing methodology. The primary 
+objective of this component of the 
+proposal is to provide for a more 
+durable deposit insurance assessment 
+framework by preserving, in real terms, 
+the threshold used to define small and 
+large institutions. The inflation 
+adjustment, in combination with the 
+proposed threshold and definition 
+updates, also would preserve the FDIC’s 
+ability to apply different assessment 
+methodologies based on size and 
+engagement in certain activities that are 
+more appropriate to banks’ risk profiles 
+and risk exposure to the DIF. 
+In the absence of these ongoing 
+threshold adjustments, institutions 
+would also become subject to additional 
+assessment-related reporting 
+requirements as they grow above the 
+threshold. This additional reporting 
+burden may be justified in cases where 
+asset growth reflects changes to actual 
+size, risk profile, and complexity but 
+would be less appropriate to the extent 
+that growth instead reflects inflation. 
+Adjusting regulatory thresholds over 
+time helps preserve the intended use 
+and application, in real terms, of 
+additional reporting requirements and 
+helps ensure that IDIs are assessed 
+appropriately, commensurate with the 
+risk they pose to the DIF. 
+B. Current Definitions of Small and 
+Large Institutions 
+For established institutions that are 
+not insured branches of foreign banks, 
+asset size, as measured by total assets 
+reported on the Call Report, is the sole 
+factor used by the FDIC to determine 
+whether an institution’s assessment rate 
+is calculated using the pricing 
+methodology for small institutions or 
+large institutions.
+27 The FDIC’s 
+assessment regulations generally define 
+a small institution as an IDI with total 
+assets of less than $10 billion, as 
+reported on the Call Report, while a 
+large institution is defined as an IDI that 
+reports total assets of $10 billion or 
+more on its Call Report for four 
+consecutive quarters and that does not 
+meet the definition of a highly complex 
+institution.
+28 The $10 billion asset size 
+threshold has been in place since the 
+FDIC first established separate risk- 
+based pricing methods for large and 
+small banks in 2006.
+29 
+C. Proposed Increase in the Asset 
+Threshold in the Definitions of Small 
+and Large Institutions 
+The FDIC is proposing to update the 
+asset-based threshold in the assessment 
+regulations used to define small and 
+large institutions for deposit insurance 
+assessments purposes and to determine 
+whether assessment rates are calculated 
+using the small bank pricing 
+methodology or the large bank scorecard 
+approach from $10 billion in total assets 
+to $30 billion in total assets. In future 
+years, the proposed assessment 
+methodology threshold of $30 billion 
+would be adjusted on a consistent basis 
+as later described in section II.F. of this 
+Supplementary Information. 
+An institution that is priced as a large 
+institution immediately prior to the 
+effective date of any final rule but that 
+reports less than $30 billion in total 
+assets would be classified as a small 
+institution as of the effective date of any 
+final rule. Such a bank would not need 
+to report less than $30 billion in total 
+assets for four consecutive quarters 
+before being reclassified as small. 
+Thereafter, a small institution would be 
+reclassified as a large institution only if 
+it reports total assets of $30 billion (or 
+such threshold adjusted in the future for 
+inflation) or more for four consecutive 
+quarters. Similarly, a large institution 
+would be reclassified as a small 
+institution only if it reports total assets 
+under $30 billion (or such threshold 
+adjusted in the future for inflation) for 
+four consecutive quarters. 
+For large and highly complex 
+institutions, the FDIC can adjust the 
+total score based on relevant risk or risk- 
+mitigating factors that are not 
+adequately reflected in the scorecards.
+30 
+The proposed increase in the 
+assessment methodology threshold from 
+$10 billion to $30 billion has the effect 
+that institutions with total assets under 
+$30 billion that are not priced as large 
+banks would not be considered for these 
+potential score adjustments, though the 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00004 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39797 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+31 See FDIC Chairman Travis Hill, ‘‘Oversight of 
+Prudential Regulators,’’ Testimony, Committee on 
+Financial Services, United States House of 
+Representatives, December 2, 2025, available at: 
+https://www.fdic.gov/news/speeches/2025/ 
+oversight-prudential-regulators. A revised 
+assessment methodology threshold of $30 billion in 
+total assets is also consistent with recent actions 
+taken by the Office of the Comptroller of the 
+Currency (OCC) to tailor its regulatory and 
+supervisory frameworks to minimize burden for its 
+regulated institutions and promote economic 
+growth. See OCC News Release, ‘‘OCC Announces 
+Actions to Reduce Regulatory Burden for 
+Community Banks,’’ October 6, 2025, available at: 
+https://occ.gov/news-issuances/news-releases/2025/ 
+nr-occ-2025-95.html. 
+32 Analysis is based on data from the Call Report 
+and FFIEC 002 for the reporting period that ended 
+December 31, 2025, reported as of February 16, 
+2026. 
+33 The regulatory and reporting requirements for 
+institutions with total assets under $1 billion 
+generally differ from that of those with over $1 
+billion. See, e.g., 12 CFR 363.1(a). 
+adjustment guidelines would be 
+retained and would be unchanged for an 
+institution that would meet the 
+proposed definition of a large institution 
+or that is defined as a highly complex 
+institution. 
+The proposed assessment 
+methodology threshold of $30 billion in 
+total assets is consistent with the recent 
+update to the FDIC’s continuous 
+examination process. The FDIC has 
+historically supervised banks under 
+either a point-in-time examination 
+process or a continuous examination 
+process. Prior to recent changes, nearly 
+all FDIC-supervised banks with $10 
+billion or more in total assets were 
+subject to the continuous examination 
+process, as were a small handful below 
+$10 billion in total assets based on 
+certain risk considerations. The FDIC 
+recently raised the threshold for 
+presumptive inclusion in the 
+continuous examination process from 
+$10 billion to $30 billion in total assets, 
+while retaining the ability to include a 
+bank below $30 billion in total assets if 
+warranted.
+31 
+1. Analysis 
+The FDIC anticipates that increasing 
+the assessment methodology threshold 
+to $30 billion in total assets would shift 
+the share of industry assets held by 
+banks priced using the scorecard 
+methodology to more closely align with 
+the share held by such institutions in 
+2011, when the current large bank and 
+highly complex scorecard methodology 
+was first implemented. At that time, 
+institutions priced as large or highly 
+complex institutions made up 78.9 
+percent of industry assets. As of 
+December 31, 2025, that share has 
+increased to 85.0 percent. Under the 
+proposed $30 billion assessment 
+methodology threshold, large and highly 
+complex institutions would make up 
+79.5 percent of industry assets based on 
+data as of December 31, 2025. 
+The FDIC anticipates that increasing 
+the assessment methodology threshold 
+to $30 billion in total assets would 
+result in 76 institutions shifting from 
+the large bank pricing scorecard 
+methodology to the small bank pricing 
+methodology based on data as of 
+December 31, 2025. 
+The FDIC estimates that among the 76 
+institutions that would shift from the 
+large bank pricing scorecard 
+methodology to the small bank pricing 
+methodology as a result of the proposal, 
+almost all would pay less in 
+assessments, particularly after applying 
+the proposed 2 basis point reduction in 
+initial base assessment rate schedules 
+applicable to small banks detailed 
+below. However, to mitigate possible 
+effects on some institutions, the FDIC is 
+proposing to provide for a one-time 
+election for reclassified institutions to 
+be temporarily priced using the large 
+bank scorecard methodology to mitigate 
+any impact and allow for a transition, as 
+described below. 
+The overall impact to institutions’ 
+assessments from the proposed change 
+in definitions would vary by institution, 
+based on differences in the pricing 
+methodologies for small and large banks 
+and the institution’s specific financial 
+data and supervisory ratings. Therefore, 
+the shift in pricing methodology is 
+expected to result in varied financial 
+outcomes for the affected IDIs, which 
+will further vary over time and through 
+banking and economic cycles. For 
+example, a given bank likely would 
+have paid a lower rate when priced as 
+large in 2020 due to the influx of 
+deposits in response to the pandemic 
+and related relief efforts which 
+improved liquidity and core deposits 
+measures applicable to large banks, 
+whereas the small bank pricing 
+methodology directly prices for rapid 
+asset growth. 
+Generally, possible impacts could 
+include, but would not be limited to, 
+banks with significant concentrations in 
+higher-risk assets or elevated funding 
+stress paying lower assessments, and 
+banks with greater concentrations in 
+core deposits or larger government 
+guaranteed loan portfolios paying higher 
+assessments under the small bank 
+pricing methodology relative to the 
+current large bank scorecard 
+methodology. Institutions with higher 
+leverage ratios could also pay lower 
+assessments if shifted to the small bank 
+pricing methodology. These potential 
+effects arise because the small bank 
+pricing methodology uses a different set 
+of financial measures and weights based 
+on how the measures corresponded with 
+the probability of failure for small 
+banks. 
+In aggregate and disregarding the 
+other proposed changes to the 
+assessment regulations in this proposal, 
+the proposed increase in the assessment 
+methodology threshold is estimated to 
+result in an approximate net decrease of 
+$129 million in annual assessments 
+based on data as of December 31, 
+2025.
+32 This component of the proposal, 
+if adopted, is therefore expected to 
+reduce the banking industry’s aggregate 
+assessment cost, with varied impacts on 
+individual affected institutions 
+depending on how their specific risk 
+profiles at a specific point in time are 
+priced under the small bank pricing 
+methodology. 
+The FDIC analyzed the similarity 
+between institutions with total assets 
+between $1 billion and $10 billion and 
+the 76 institutions with assets between 
+$10 billion and $30 billion that would 
+be reclassified as small institutions 
+under the proposal. As reflected in 
+Table 1, on average, both groups 
+reported approximately similar shares of 
+deposit and loan types and leverage 
+ratios as of December 31, 2025.
+33 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00005 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39798 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+Institutions that would shift from the 
+large bank scorecard methodology to the 
+small bank pricing methodology would 
+also benefit from a reduction in 
+reporting burden, as large institutions 
+must report granular data on higher-risk 
+asset exposures and specific liability 
+concentrations under the scorecard 
+approach. These reporting burden 
+reductions would be expected to create 
+operational savings for the reclassified 
+IDIs. 
+2. Alternatives Considered 
+In developing the proposal, the FDIC 
+considered alternatives to the proposed 
+$30 billion assessment methodology 
+threshold, including maintaining the 
+$10 billion threshold or increasing the 
+assessment methodology threshold to 
+$20 billion, $25 billion, or $50 billion. 
+The FDIC believes that maintaining 
+the current $10 billion assessment 
+methodology threshold would not be 
+appropriate because institutions 
+between $10 billion and $30 billion in 
+total assets are more appropriately 
+priced using the small bank pricing 
+methodology than the large bank 
+scorecard. Increasing the asset-based 
+threshold in the definitions of small and 
+large banks in the assessments 
+regulations to $30 billion would more 
+closely align the share of industry assets 
+held by banks priced using the 
+scorecard methodology under the 
+proposal with the share held by such 
+institutions when the current large bank 
+and highly complex scorecard 
+methodology was first implemented in 
+2011. At that time, institutions priced as 
+large or highly complex institutions 
+made up 78.9 percent of industry assets. 
+As of December 31, 2025, that share has 
+increased to 85.0 percent. Under the 
+proposed $30 billion assessment 
+methodology threshold, large and highly 
+complex institutions would make up 
+79.5 percent of industry assets based on 
+data as of December 31, 2025. 
+Further, institutions that would shift 
+from the large bank scorecard 
+methodology to the small bank pricing 
+methodology under the proposal 
+demonstrate certain similarities with 
+other small institutions. For example, 
+and as described above, small 
+institutions with total assets between $1 
+billion and $10 billion report 
+approximately similar shares of foreign 
+deposits, uninsured deposits, and real 
+estate loans as those of the 76 
+institutions that would shift from the 
+large bank pricing scorecard 
+methodology to the small bank pricing 
+methodology under the proposal. 
+The FDIC considered several 
+alternative thresholds. In general, 
+relative to the alternatives considered, 
+the FDIC believes that the proposed 
+threshold of $30 billion best preserves 
+its intended purpose as it most closely 
+aligns with the shares of industry assets 
+held by small and large institutions in 
+2011, when the current large bank 
+pricing methodology was implemented, 
+but seeks comments on alternatives. 
+Question 1: What are the advantages 
+and disadvantages of updating the 
+threshold for defining an institution as 
+small or large for deposit insurance 
+assessments purposes from $10 billion 
+in total assets to $30 billion in total 
+assets, as described above? Should the 
+FDIC consider other asset thresholds for 
+defining an institution as small or large 
+for deposit assessment purposes? Are 
+there any other factors the FDIC should 
+consider? 
+Question 2: What are the potential 
+unintended consequences, if any, of 
+establishing a higher threshold for 
+deposit insurance assessments 
+purposes? 
+D. Removing the Option for a Small 
+Institution To Request That the FDIC 
+Determine Its Assessment Rates as a 
+Large Institution 
+The FDIC’s assessment regulations 
+currently permit a small institution with 
+assets between $5 billion and $10 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00006 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.061</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39799 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+34 12 CFR 327.16(f)(1). 
+35 The U.S. Bureau of Labor Statistics publishes 
+the CPI–W on a monthly basis. The CPI–W is used 
+to annually adjust benefits paid to Social Security 
+beneficiaries and Supplemental Security Income 
+recipients. See U.S. Social Security Administration, 
+CPI for Urban Wage Earners and Clerical Workers, 
+available at: www.ssa.gov/oact/STATS/cpiw.html. 
+36 The use of CPI–W to index thresholds is 
+consistent with other bank regulations, such as 
+those relating to the Community Reinvestment Act 
+and the March 2026 proposed updates to the 
+regulatory capital rules. The indexing methodology 
+would also generally align with the methodology 
+used to adjust certain thresholds within FDIC 
+regulations. See, e.g., Community Reinvestment Act 
+Regulations Asset-Size Thresholds, 89 FR 106480, 
+106481 (Dec. 30, 2024); Regulatory Capital Rule: 
+Category I and II Banking Organizations, Banking 
+Organizations With Significant Trading Activity, 
+and Optional Adoption for Other Banking 
+Organizations, 91 FR 14952, 14960 (Mar. 27, 2026); 
+and Regulatory Capital Rules: Regulatory Capital 
+and Standardized Approach for Risk-Weighted 
+Assets, 91 FR 15332, 15364 (Mar. 27, 2026). See 
+also 12 CFR 229.11. 
+billion to request that the FDIC 
+determine its assessment rate as a large 
+institution.
+34 Approved requests 
+become effective within one year of the 
+date of the request. If an institution 
+whose request has been granted 
+subsequently reports total assets of less 
+than $5 billion in its Call Report for four 
+consecutive quarters, the institution 
+shall be deemed a small institution for 
+assessment purposes. If the FDIC 
+approves an institution’s request to be 
+treated as a large institution, the 
+institution is not eligible to request to be 
+assessed as a small institution for a 
+period of three years from the first 
+quarter its approval became effective. 
+Small institutions that have exercised 
+this option generally have paid lower 
+assessments under the large bank 
+scorecard approach relative to the small 
+bank pricing methodology. However, 
+several additional reasons for requesting 
+this option have been cited, including 
+anticipated growth above the $10 billion 
+threshold and having an affiliated large 
+bank with which the small bank shares 
+the same reporting and risk framework. 
+The FDIC is proposing to remove this 
+option to promote fairness, simplicity, 
+and accuracy in risk-based deposit 
+insurance assessments. Additionally, if 
+the assessment methodology threshold 
+is consistently adjusted in the future to 
+reflect inflation, banks will be less likely 
+to naturally grow above the threshold. 
+The FDIC expects the impact of 
+removing this provision to be minimal 
+given that only nine requests were 
+received in the last ten years. 
+Question 3: What are the advantages 
+and disadvantages of eliminating the 
+option for a small institution to request 
+treatment as a large institution for 
+purposes of the assessment regulations, 
+as described above? 
+Question 4: What are the potential 
+unintended consequences, if any, of 
+eliminating this option? 
+E. One-Time Election for Reclassified 
+Institutions To Be Temporarily Priced 
+Using the Large Bank Scorecard Pricing 
+Methodology 
+Under the proposal, an institution 
+priced as a large institution immediately 
+prior to the effective date of any final 
+rule that reports total assets below the 
+updated threshold of $30 billion would 
+be priced as a small institution as of the 
+effective date of any final rule. To 
+mitigate possible effects on some 
+institutions, including the potential 
+‘‘cliff effect’’ of immediately switching 
+pricing frameworks, the FDIC is 
+proposing to provide any bank classified 
+as a large institution immediately prior 
+to the effective date of any final rule that 
+report total assets below $30 billion a 
+one-time option to temporarily continue 
+to be priced as a large institution. Under 
+the proposal, a bank that exercises this 
+option would be ineligible for the RRA 
+unless and until the bank meets the 
+proposed definition of a large institution 
+by reporting total assets of $30 billion 
+(or such threshold adjusted in the future 
+for inflation) or more for four 
+consecutive quarters and elects to 
+submit to VDR testing or provides the 
+prescribed data access. 
+An institution electing this option 
+would continue to be priced as a large 
+institution for eight consecutive quarters 
+(inclusive of the first quarter) after the 
+effective date of any final rule. If an 
+institution that elects to be priced as a 
+large institution and has not reported 
+total assets of $30 billion or more for at 
+least four consecutive quarters reports 
+total assets of less than $30 billion at the 
+end of the eight-quarter transition 
+period, it will be classified as a small 
+institution beginning on the first day of 
+the subsequent quarter. If an institution 
+that elects to be priced as a large 
+institution reports total assets of $30 
+billion or more for four consecutive 
+quarters during the eight-quarter 
+transition period, it would be classified 
+as a large institution unless and until it 
+subsequently reports total assets below 
+the proposed threshold of $30 billion for 
+four consecutive quarters. 
+To elect this option, an eligible 
+institution would be required to provide 
+notice to the FDIC indicating its one- 
+time election for the FDIC to determine 
+its assessment rate as a large institution 
+for a period of time not to exceed the 
+eight-quarter transition period, as 
+defined under the proposal. The FDIC 
+anticipates posting on its website a form 
+letter that an eligible institution can 
+submit as notice. The FDIC must receive 
+such correspondence by mail or email 
+prior to the end of the quarter in which 
+any final rule becomes effective. 
+1. Alternatives Considered 
+An alternative to the proposed 
+approach would be to allow banks 
+reporting total assets between $10 
+billion and $30 billion a one-time 
+election to remain a large institution for 
+a longer period—for example, until the 
+next indexing adjustment. Another 
+alternative would be to reclassify banks 
+as small or large based on their asset 
+size as of the effective date of any final 
+rule without allowing any transition 
+period. 
+The FDIC believes that providing for 
+a transition period would mitigate 
+possible effects on some institutions, 
+including the potential ‘‘cliff effect’’ of 
+immediately switching pricing 
+frameworks and invites comment, 
+including the appropriate length of any 
+transition. 
+Question 5: What are the advantages 
+and disadvantages of providing an 
+institution that is reclassified as a small 
+institution as a result of the proposed 
+update to the assessment methodology 
+threshold a one-time option to continue 
+to be priced as large for eight 
+consecutive quarters following the 
+effective date of any final rule? 
+Question 6: Should the FDIC consider 
+a shorter or longer transition period for 
+institutions reclassified as small 
+institutions as a result of the proposal? 
+Please explain. 
+Question 7: Should the FDIC permit 
+an institution that exercises the election 
+to be treated as a large institution to be 
+eligible for all or some of the RRA 
+during the time period it is priced as a 
+large institution? 
+F. Indexing of Threshold Used To 
+Define Small and Large Institutions 
+Under the proposal, the dollar-based 
+threshold included in the proposed 
+definitions of a small and large 
+institution would be updated and 
+adjusted every four years to reflect 
+inflation, pursuant to a pre-determined 
+indexing methodology. Specifically, the 
+proposed indexing methodology would 
+adjust the threshold based on the 
+consumer price index for urban wage 
+earners and clerical workers (CPI–W) 
+published by the U.S. Bureau of Labor 
+Statistics.
+35 The use of CPI–W to index 
+thresholds is consistent with the 
+indexing methodology in other bank 
+regulations.
+36 Further, the indexing 
+methodology included under the 
+proposal would generally align with the 
+methodology used to adjust certain 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00007 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39800 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+37 See supra fn 22. 
+38 See 91 FR 14952, 14960 (Mar. 27, 2026) and 91 
+FR 15332, 15364 (Mar. 27, 2026). See also 90 FR 
+55789 (Dec. 4, 2025). 
+39 Any periods of deflation would be reflected in 
+future threshold increases, as threshold adjustments 
+in the future would be based on the positive net 
+cumulative change in CPI–W. 
+40 For example, a threshold that would otherwise 
+be calculated as $30.964 billion would be rounded 
+to $31 billion. 
+41 The U.S. Bureau of Labor Statistics publishes 
+the CPI–W on a monthly basis. 
+42 Deposit insurance assessments are collected 
+quarterly in arrears. For example, for deposit 
+insurance coverage in the first quarter of each year 
+(i.e. from January 1 through March 31), institutions 
+are invoiced and payment is due in June of each 
+year. Accordingly, if an institution is reclassified as 
+a small institution with an effective date of January 
+1, for example, payment for the institution’s first 
+quarterly assessment calculated pursuant to the 
+small bank pricing methodology would not be 
+invoiced and due until June. See 12 CFR 
+327.3(b)(2). 
+43 See supra fn 22. 
+44 See 90 FR 35449, 35458 (Jul. 28, 2025). See also 
+90 FR 55789, 55791 (Dec. 4, 2025). 45 See supra fn 22. 
+other thresholds within FDIC 
+regulations.37 
+Under the proposal the asset-based 
+threshold defining small and large 
+institutions for purposes of deposit 
+insurance assessments would be 
+adjusted at the end of every consecutive 
+four-year period based on the 
+cumulative percent change of the non- 
+seasonally adjusted CPI–W since the 
+effective date of any final rule. This 
+four-year period is intended to provide 
+an appropriate cadence for capturing 
+meaningful changes in inflation on a 
+timely basis while minimizing the 
+burden of adjustment. The proposed 
+four-year cadence differs from the two- 
+year cadence proposed in the March 
+2026 proposed updates to the regulatory 
+capital rules and adopted in other FDIC 
+regulations in consideration of the 
+requirement that an institution exceed 
+the dollar-based asset threshold in the 
+definitions of small and large 
+institutions in the assessment 
+regulations for at least four consecutive 
+quarters before a definition becomes 
+applicable.
+38 
+The proposal would not lower the 
+threshold in the event of deflation.39 In 
+contrast to the indexing methodology 
+included in the March 2026 proposed 
+updates to the regulatory capital rules, 
+the threshold defining small and large 
+institutions in the assessment 
+regulations would not be adjusted 
+during any intervening calendar year to 
+address the possibility of periods of 
+unusual inflation. The FDIC believes 
+this difference is appropriate given the 
+requirement that an institution must 
+generally report dollar amounts above or 
+below the asset threshold defining small 
+and large institutions in the assessment 
+regulations for four consecutive quarters 
+in order to meet the criteria for 
+applicability of the definitions and the 
+regular cadence of threshold 
+adjustments would instill consistency 
+and transparency in quarterly 
+assessment payments for IDIs. 
+Additionally, the threshold adjusted 
+under the proposed indexing 
+methodology would be rounded based 
+on the size of the threshold (e.g., 
+billions, millions, thousands), generally, 
+to the nearest two significant digits, as 
+appropriate.
+40 
+To effectuate future threshold 
+adjustments under the proposal, the 
+FDIC would announce the thresholds 
+adjusted in accordance with the 
+indexing methodology by issuing a final 
+rule in the Federal Register to announce 
+the updated threshold without notice 
+and comment. Although the FDIC 
+would be required to publish a final rule 
+in the Federal Register, the adjustment 
+would occur even in the absence of 
+publication in the Federal Register. 
+Threshold adjustments would be 
+calculated based on cumulative CPI–W 
+data through August of the year in 
+which the adjustment is made, relative 
+to the same initial baseline and would 
+be effective for the assessment period 
+beginning on October 1 of the year 
+during which an adjustment is made.
+41 
+An institution priced as a large bank 
+immediately prior to the effective date 
+of any final rule announcing a threshold 
+update that reports total assets below 
+the updated threshold, would be priced 
+as a small bank as of the effective date 
+of any final rule.
+42 
+1. Alternatives Considered 
+In developing this proposal and in 
+proposing and finalizing the first phase 
+of adjustments to certain thresholds 
+within FDIC regulations,
+43 the FDIC 
+considered other factors that could be 
+used to adjust certain thresholds in the 
+assessment regulations to preserve the 
+threshold levels in real terms over 
+time.
+44 For example, the indexing 
+methodology could rely on an 
+alternative index or measure of inflation 
+(e.g., core versus non-core measures). 
+Additionally, the FDIC considered using 
+changes in economic growth, such as 
+gross domestic product (GDP), or 
+banking industry assets as well as 
+alternative approaches using a less or 
+more frequent cadence or a process that 
+is less automated (e.g., requiring Board 
+approval or public notice and 
+comment). 
+Properly constructed, periodic 
+adjustments can avoid unintended and 
+undesirable outcomes. For example, 
+frequent adjustments in the absence of 
+meaningful change can result in 
+inefficiencies, as institutions realign 
+their reporting and balance sheet 
+management practices to reflect 
+adjusted thresholds. Conversely, 
+infrequent adjustments increase the risk 
+that the intended purpose of the 
+threshold is not preserved consistently 
+over time. 
+A threshold may be periodically 
+updated through ad-hoc review or 
+consistent adjustments. An ad-hoc 
+approach that does not pre-determine 
+future adjustments may better preserve 
+the threshold’s intended application by 
+allowing consideration of relevant 
+contextual factors at each future 
+adjustment. Such an approach may also 
+be less predictable and introduce 
+inefficiencies. Conversely, periodic 
+adjustments using a pre-determined 
+indexing methodology based on one or 
+more specified factors, such as inflation, 
+would increase efficiency and 
+predictability, but may limit flexibility 
+in cases where the measure is less 
+relevant to a future context. 
+Finally, the threshold used in the 
+assessment regulations to define an 
+institution as a small or large institution 
+and determine which assessment 
+methodology is applied can influence a 
+bank’s decision to grow, as a bank’s 
+deposit insurance assessment rate may 
+increase or decrease depending on 
+whether it is defined as a small, large, 
+or highly complex institution. 
+Moreover, while all banks are required 
+to report certain items on the Call 
+Report, as noted above, large and highly 
+complex institutions have additional 
+reporting requirements related to 
+assessments. 
+In general, properly structured and 
+appropriately sequenced threshold 
+adjustments promote consistent 
+application of regulatory requirements 
+over time and contribute to a more 
+durable regulatory framework that 
+enhances the overall efficacy of the risk- 
+based assessment system. In addition, 
+such adjustments can enhance 
+transparency and certainty and therefore 
+allow for more enhanced balance sheet 
+management practices for IDIs. 
+As noted in the FDIC’s 2025 final rule 
+on adjusting and indexing certain 
+regulatory thresholds, many 
+commenters supported the proposed 
+indexing methodology and related 
+process for automatic threshold 
+adjustments.
+45 The FDIC is proposing 
+substantively the same indexing 
+methodology as the 2025 final rule, with 
+the exception of the four-year cadence 
+and disallowing adjustments in 
+intervening years for periods of unusual 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00008 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39801 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+46 See supra fn 1. 
+47 See supra fn 7. 
+48 12 U.S.C. 1817(b)(2)(A). 
+49 The risk factors referred to in factor (iv) include 
+the probability that the DIF will incur a loss with 
+respect to the institution, the likely amount of any 
+such loss, and the revenue needs of the DIF. See 
+section 7(b)(1)(C) of the FDI Act, 12 U.S.C. 
+1817(b)(1)(C). 
+50 See section 7(b)(2)(B) of the FDI Act, 12 U.S.C. 
+1817(b)(2)(B). 
+51 See 12 CFR 327.10(f)(3). In no case may any 
+such rate adjustments result in total base 
+assessment rates that are negative. See 12 CFR 
+327.10(f)(1). 
+52 See 87 FR 39388 (Jul. 1, 2022) and 87 FR 64314 
+(Oct. 24, 2022). The FDI Act requires the Board to 
+adopt a restoration plan when the DIF reserve ratio 
+falls below the statutory minimum of 1.35 percent 
+or is expected to within 6 months, to restore the DIF 
+to at least 1.35 percent within eight years, absent 
+extraordinary circumstances. See 12 U.S.C. 
+1817(b)(3)(B) and (E). The reserve ratio is calculated 
+as the ratio of the net worth of the DIF to the value 
+of the aggregate estimated insured deposits at the 
+end of a given quarter. See 12 U.S.C. 1813(y)(3). 
+53 See 12 CFR 327.10(b). 
+54 See 12 CFR 327.10(c) and (d). 
+55 The DRR is expressed as a percentage of 
+estimated insured deposits. The FDI Act requires 
+that the Board designate the DRR for the DIF and 
+publish the DRR before the beginning of each 
+calendar year. The Board must set the DRR in 
+accordance with its analysis of certain statutory 
+factors: risk of losses to the DIF; economic 
+conditions generally affecting IDIs; preventing 
+sharp swings in assessment rates; and any other 
+factors that the Board determines to be appropriate. 
+In December 2010, the Board set the DRR at 2 
+percent based on a comprehensive, long-range 
+management plan for the DIF and has voted 
+annually since then to maintain the 2 percent DRR, 
+most recently in November 2025. See 90 FR 54688 
+(Nov. 28, 2025). 
+56 See supra fn 16. 
+57 See 12 CFR 327.10(b)(2). An established 
+insured depository institution is a bank or savings 
+association that has been federally insured for at 
+least five years as of the last day of any quarter for 
+which it is being assessed. See 12 CFR 327.8(k). 
+inflation, in lieu of alternatives, to 
+reflect that general support. 
+Comments on the 2025 final rule on 
+adjusting and indexing certain 
+regulatory thresholds were mixed as to 
+whether to use CPI–W as the reference 
+index under the proposed indexing 
+methodology. A few commenters 
+supported the FDIC applying the same 
+methodology when updating and 
+adjusting thresholds across its 
+regulations. Others suggested 
+alternatives to CPI–W, including 
+nominal GDP, banking industry assets, 
+or an approach that would tailor the 
+reference index by threshold type—for 
+example, using CPI–W for consumer- 
+facing monetary thresholds, and 
+nominal GDP for asset-based thresholds. 
+In general, the FDIC is proposing to 
+update the assessment methodology 
+threshold using CPI–W rather than 
+using one or more other potential 
+measures to promote consistency and 
+reduce complexity across regulatory 
+thresholds. 
+The FDIC considered these 
+alternatives and comments in 
+developing the proposal for adjusting 
+thresholds in the assessment 
+regulations. The FDIC requests 
+additional feedback on all alternative 
+approaches discussed and any other 
+alternative approaches that should be 
+considered. 
+The FDIC continues to evaluate other 
+dollar-based thresholds in the 
+assessment regulations and may 
+consider soliciting comment on 
+updating and adjusting additional 
+thresholds through a subsequent 
+proposal to amend the assessment 
+regulations. 
+Question 8: What are the advantages 
+and disadvantages of the proposed 
+approach for indexing the threshold 
+used for defining large and small 
+institutions for purposes of deposit 
+insurance assessments? What 
+alternatives should the FDIC consider 
+and why? 
+Question 9: What are the advantages 
+and disadvantages of using a different 
+index for adjusting the threshold, such 
+as banking industry assets, nominal 
+GDP, or the GDP deflator, instead of 
+CPI–W? 
+Question 10: Should the FDIC 
+consider a shorter or longer interval 
+than four years for automatic threshold 
+adjustments, and if so, why? 
+Question 11: What are the advantages 
+and disadvantages of discretionary off- 
+year adjustments for periods of unusual 
+inflation? Should the FDIC consider a 
+framework for adjustment in off years, 
+and if so, why? 
+III. Proposed Revisions to Assessment 
+Rates 
+A. Background 
+1. Deposit Insurance Assessment Rates 
+Pursuant to section 7 of the FDI Act, 
+the FDIC has established a risk-based 
+assessment system through which it 
+charges all IDIs an assessment amount 
+for deposit insurance.
+46 Under the 
+FDIC’s assessment regulations, an IDI’s 
+assessment amount is equal to its 
+assessment base multiplied by its risk- 
+based assessment rate.
+47 The FDIC is 
+authorized to set assessments for IDIs in 
+such amounts as the FDIC may 
+determine to be necessary or 
+appropriate.
+48 In setting assessment 
+rates, the FDIC is required by statute to 
+consider the following factors: 
+(i) The estimated operating expenses 
+of the DIF. 
+(ii) The estimated case resolution 
+expenses and income of the DIF. 
+(iii) The projected effects of the 
+payment of assessments on the capital 
+and earnings of IDIs. 
+(iv) The risk factors and other factors 
+taken into account pursuant to section 
+7(b)(1) of the FDI Act (12 U.S.C. 
+1817(b)(1)) under the risk-based 
+assessment system, including the 
+requirement under such section to 
+maintain a risk-based system.
+49 
+(v) Other factors the FDIC has 
+determined to be appropriate.50 
+In addition, the FDIC Board of 
+Directors (Board) is authorized to 
+uniformly increase or decrease the total 
+base rate assessment schedule up to a 
+maximum of 2 basis points or a fraction 
+thereof, as the Board deems necessary, 
+without further rulemaking.
+51 
+2. Current Assessment Rate Schedules 
+and the Reserve Ratio 
+Effective January 1, 2023, the FDIC 
+adopted an increase in initial base 
+deposit insurance assessment rate 
+schedules of 2 basis points as part of the 
+statutorily-required Restoration Plan.
+52 
+Those rate schedules are currently in 
+effect and are detailed below.
+53 
+Progressively lower assessment rate 
+schedules will take effect when the 
+reserve ratio exceeds 2 percent and 2.5 
+percent, and the FDIC did not modify 
+those schedules when increasing rates 
+in 2023.
+54 
+As of June 30, 2025, the reserve ratio 
+increased to 1.36 percent, above the 
+statutory minimum of 1.35 percent. 
+Therefore, the FDIC is no longer 
+operating under a Restoration Plan. The 
+reserve ratio was 1.43 percent as of 
+March 31, 2026, and has continued to 
+progress toward the FDIC’s long-term 
+goal of a 2 percent designated reserve 
+ratio (DRR).
+55 
+a. Current Assessment Rate Schedules 
+for Established Small Institutions and 
+Large and Highly Complex Institutions 
+Assessment rates for established small 
+institutions and large and highly 
+complex institutions currently in effect 
+while the reserve ratio is less than 2 
+percent are set forth in Table 2 below. 
+An institution’s total base assessment 
+rate may vary from the institution’s 
+initial base assessment rate as a result of 
+possible adjustments for certain 
+liabilities that can increase or reduce 
+loss to the DIF in the event the 
+institution fails.
+56 After applying all 
+possible adjustments, the current 
+minimum and maximum total base 
+assessment rates for established small 
+institutions and large and highly 
+complex institutions are set forth in 
+Table 2 below.
+57 
+BILLING CODE 6714–01–P 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00009 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39802 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+58 In lieu of dividends, and pursuant to the FDIC’s 
+authority to set assessments, the progressively 
+lower initial base and total base assessment rates set 
+forth in 12 CFR 327.10(c) and (d) will come into 
+effect without further action by the Board when the 
+fund reserve ratio at the end of the prior assessment 
+period reaches 2 percent and 2.5 percent, 
+respectively. 
+The assessment rates currently 
+applicable to established small 
+institutions and large and highly 
+complex institutions in Table 2 above 
+remain in effect unless and until the 
+reserve ratio meets or exceeds 2 
+percent.
+58 
+Table 3 below applies if the reserve 
+ratio of the DIF as of the end of the prior 
+assessment period is equal to or greater 
+than 2 percent and less than 2.5 percent. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00010 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.062</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39803 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+Under the current regulations, Table 4 
+below applies to established small 
+institutions and large and highly 
+complex institutions if the reserve ratio 
+of the DIF as of the end of the prior 
+assessment period is greater than 2.5 
+percent. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00011 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.063</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39804 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+59 See 12 CFR 327.10(e)(1)(iv)(B). Subject to 
+exceptions, a new depository institution is a bank 
+or savings association that has been federally 
+insured for less than five years as of the last day 
+of any quarter for which it is being assessed. See 
+also 12 CFR 327.8(j). 
+60 See 12 CFR 327.10(e)(1)(iv)(B). 
+61 See 75 FR 66272, 66283 (Oct. 27, 2010) and 76 
+FR 10672, 10686 (Feb. 25, 2011). 
+b. Current Assessment Rate Schedules 
+for New Small Institutions 
+Current assessment rates applicable to 
+new small institutions are set forth in 
+Table 5 below.59 New small institutions 
+remain subject to the assessment 
+schedules in Table 5 when the reserve 
+ratio reaches 2 percent or 2.5 percent.
+60 
+As stated in the 2010 notice of proposed 
+rulemaking describing the FDIC’s 
+comprehensive, long-term fund 
+management plan, and adopted in a 
+2011 Final Rule, the lower assessment 
+rate schedules applicable when the 
+reserve ratio reaches 2 percent and 2.5 
+percent do not apply to any new 
+depository institutions; these 
+institutions will remain subject to the 
+assessment rates shown below, until 
+they no longer are new depository 
+institutions.
+61 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00012 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.064</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39805 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+62 See 12 CFR 327.10(e)(2)(ii). 
+63 In lieu of dividends, and pursuant to the FDIC’s 
+authority to set assessments, the progressively 
+lower initial base and total base assessment rates set 
+forth in 12 CFR 327.10(e)(2)(iii) and (iv) will come 
+into effect without further action by the FDIC Board 
+when the fund reserve ratio at the end of the prior 
+assessment period reaches 2 percent and 2.5 
+percent, respectively. 
+c. Current Assessment Rate Schedule for 
+Insured Branches of Foreign Banks 
+Current assessment rates applicable to 
+insured branches of foreign banks are 
+set forth in Table 6 below.62 The rates 
+in Table 6 remain in effect unless and 
+until the reserve ratio meets or exceeds 
+2 percent.
+63 Progressively lower 
+assessment rate schedules for insured 
+branches of foreign banks will become 
+effective when the reserve ratio exceeds 
+2 percent and 2.5 percent. 
+BILLING CODE 6714–01–C 
+B. Proposed Updates to Assessment 
+Rate Schedules 
+The FDIC is proposing several 
+updates to deposit insurance assessment 
+rate schedules after considering the 
+statutory factors and the current status 
+of the DIF, as discussed below in section 
+VII. of this Supplementary Information. 
+As noted, the DIF is no longer operating 
+under a Restoration Plan, and the 
+reserve ratio is steadily progressing 
+toward the 2 percent DRR. 
+1. Proposed 2 Basis Point Reduction in 
+Initial Base Assessment Rate Schedules 
+Applied to Small Institutions 
+The FDIC is proposing to decrease 
+certain initial base deposit insurance 
+assessment rate schedules by 2 basis 
+points, beginning upon the effective 
+date of any final rule. Specifically, the 
+proposed 2 basis point decrease in 
+initial base assessment rate schedules 
+would apply to small institutions as 
+defined under this proposal and would 
+be applicable to established small 
+institutions, new small institutions, and 
+insured branches of foreign banks. 
+As earlier described, the FDIC is 
+proposing to update the asset-based 
+threshold in the assessment regulations 
+used to define a small institution from 
+$10 billion in total assets to $30 billion 
+in total assets. Based on Call Report data 
+as of December 31, 2025, raising the 
+threshold from $10 billion to $30 billion 
+would result in approximately 76 IDIs 
+shifting from the large institution 
+definition to the small institution 
+definition for which the small 
+institution pricing methodology and the 
+proposed 2 basis point decrease in 
+initial base assessment rate schedules 
+would apply. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00013 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.065</GPH> EP30JN26.066</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39806 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+64 See 12 CFR 327.10(c) and (d). 
+65 The FDI Act requires the FDIC to establish a 
+risk-based assessment system for calculating an 
+IDI’s assessment based on the probability that the 
+DIF will incur a loss with respect to that IDI and 
+the likely amount of any such loss, among other 
+factors. See 12 U.S.C. 1817(b)(1)(C). 
+66 If a large or highly complex institution is 
+affiliated with other IDIs, only an affiliate that is 
+itself a large or highly complex institution would 
+be eligible to seek a resolution readiness assessment 
+adjustment. 
+67 See 12 CFR 327.10(c) and (d). 68 See supra fn 16. 
+The proposed initial base assessment 
+rate schedules would remain in effect 
+unless and until the reserve ratio meets 
+or exceeds 2 percent. In lieu of 
+dividends, the progressively lower 
+initial base assessment rate schedules 
+currently in the regulation would 
+remain unchanged for small institutions 
+and would come into effect without 
+further action by the Board when the 
+DIF reserve ratio at the end of the prior 
+assessment period reaches 2 percent and 
+2.5 percent, respectively.
+64 
+a. Analysis 
+Based on data as of December 31, 
+2025, a 2 basis point reduction in initial 
+base assessment rate schedules 
+applicable to banks that would meet the 
+proposed definition of a small 
+institution (generally, those under $30 
+billion in total assets) is estimated to 
+result in a decline in annual 
+assessments of approximately $917 
+million, or 7.5 percent of total annual 
+assessments. 
+2. Proposed Updates to Assessment Rate 
+Schedules Applied to Large and Highly 
+Complex Institutions 
+a. Proposed Reduction in Initial Base 
+Assessment Rates 
+The FDIC is also proposing to 
+decrease initial base deposit insurance 
+assessment rate schedules applicable to 
+large and highly complex institutions by 
+1 basis point, beginning upon the 
+effective date of any final rule. 
+b. Proposed Resolution Readiness 
+Adjustment 
+The proposal would also establish a 
+new downward assessment rate 
+adjustment, the RRA, available to IDIs 
+that meet the proposed definition of a 
+large institution or that are highly 
+complex institutions, and that elect to 
+submit to testing of the institution’s 
+ability to populate a VDR with 
+information that could be used to 
+market a bank in the event of failure, 
+and/or provide the FDIC prescribed data 
+access, including access to an 
+institution’s service provider(s) and/or 
+internal systems, to support readiness 
+for the resolution of rapid failures. 
+In recognition of the expected 
+reduction in losses to the DIF in the 
+event of failure,
+65 the FDIC is proposing 
+to apply a downward adjustment of up 
+to 1 basis point to assessment rates, 
+available to large and highly complex 
+institutions that elect to participate, 
+including 0.5 basis points for passing 
+the VDR testing exercise and 0.5 basis 
+points for providing prescribed data 
+access, as described in section IV. of this 
+Supplementary Information.
+66 
+c. Proposed Revisions to Initial Base 
+Assessment Rates When the Reserve 
+Ratio Reaches 2 Percent and 2.5 Percent 
+Under the current regulation, 
+progressively lower initial base 
+assessment rate schedules applicable to 
+large and highly complex institutions 
+will come into effect when the reserve 
+ratio reaches 2 percent and 2.5 percent, 
+with minimum initial base assessment 
+rates declining from 5 basis points to 2 
+basis points and 1 basis point, 
+respectively.
+67 Under the proposal, the 
+minimum initial base assessment rates 
+applied to large and highly complex 
+institutions would still become 
+progressively lower, declining from 4 
+basis points to 3 basis points and to 2 
+basis points when the reserve ratio 
+reaches 2 percent and 2.5 percent, 
+respectively, in order to incorporate the 
+RRA into the assessment rate schedules. 
+This proposed revision to the initial 
+base assessment rate schedules 
+combined with the proposed allocation 
+of adjustments described below have the 
+result that a large or highly complex 
+institution at the minimum initial base 
+assessment rate could effectively 
+achieve the maximum proposed RRA. 
+This proposal would also maintain the 
+same minimum total base assessment 
+rates applicable to large and highly 
+complex institutions as the rates in the 
+current schedules that come into effect 
+when the reserve ratio reaches 2 percent 
+and 2.5 percent applicable to small 
+banks. 
+d. Proposed Allocation of Assessment 
+Rate Adjustments Applicable to Large 
+and Highly Complex Institutions 
+Assessment Rates 
+Under the current assessment 
+regulations, adjustments to the initial 
+base assessment rates of institutions are 
+made in the following order: (1) the 
+unsecured debt adjustment can reduce 
+an institution’s assessment rate by the 
+lesser of 5 basis points or 50 percent of 
+the institution’s initial base assessment 
+rate; (2) the depository institution debt 
+adjustment can increase an institution’s 
+assessment rate based on unsecured 
+debt held by the institution that is 
+issued by another depository institution; 
+and finally (3), the brokered deposit 
+adjustment can increase an institution’s 
+assessment rate by up to 10 basis 
+points.
+68 
+The FDIC is proposing that the RRA 
+would be applied to a large or highly 
+complex institution’s initial base 
+assessment rate first, prior to the 
+application of the other adjustments, 
+and the unsecured debt adjustment 
+would be limited to the lesser of 5 basis 
+points or 50 percent of a large or highly 
+complex institution’s initial base 
+assessment rate less any applicable 
+RRA. Under the proposal, the allocation 
+of, and limitations on, a small bank’s 
+rate adjustments would remain 
+unchanged. 
+The proposed allocation of 
+adjustments—specifically, allowing for 
+an institution’s initial base assessment 
+rate to be reduced by up to the 
+maximum RRA of 1 basis point before 
+applying the unsecured debt 
+adjustment—would have the result that 
+a large or highly complex institution 
+that is assigned an assessment rate that 
+is the least risky, or the minimum initial 
+base assessment rate, would be able to 
+apply an unsecured debt adjustment of 
+up to 1.5 basis points when the reserve 
+ratio is less than 2 percent, as shown in 
+Table 7. This maximum unsecured debt 
+adjustment of 1.5 basis points would be 
+equal to the maximum unsecured debt 
+adjustment that could apply to a small 
+institution assigned the minimum initial 
+base assessment rate, and would also be 
+equal to the maximum unsecured debt 
+adjustment available prior to the 2023 
+increase in the rate schedules applied 
+while the reserve ratio is less than 2 
+percent. 
+Similarly, when the reserve ratio 
+exceeds 2 percent, allocating the RRA 
+before the unsecured debt adjustment 
+would result in a large or highly 
+complex institution that is assigned the 
+minimum initial base assessment rate 
+being able to apply up to a 1 basis point 
+unsecured debt adjustment, also shown 
+in Table 7, and on par with a small 
+institution assigned the minimum initial 
+base assessment rate. 
+When the reserve ratio exceeds 2.5 
+percent, the proposed allocation would 
+result in a large or highly complex 
+institution that is assigned the 
+minimum initial base assessment rate 
+being able to apply up to a 0.5 basis 
+point unsecured debt adjustment. As 
+proposed, the 1 basis point RRA is equal 
+to or exceeds the maximum unsecured 
+debt adjustments of 1 basis point and 
+0.5 basis points available to large and 
+highly complex institutions with the 
+minimum initial base assessment rate in 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00014 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39807 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+the schedules applied when the reserve ratio is between 2 percent and 2.5 
+percent, and 2.5 percent or greater. 
+In absence of these revisions, the 
+maximum unsecured debt adjustment 
+that a bank at the minimum initial base 
+assessment rate could receive would 
+decrease because the adjustment is 
+limited to the lesser of 5 basis points or 
+50 percent of the bank’s initial base 
+assessment rate (or, in the case of the 
+proposal, 50 percent of the bank’s initial 
+base assessment rate less any applicable 
+RRA). For example, when the reserve 
+ratio is equal to or greater than 2 percent 
+but less than 2.5 percent, the minimum 
+initial base assessment rate for large and 
+highly complex institutions is 2 basis 
+points. Under the current assessments 
+regulations, a bank receiving the 
+minimum initial base assessment rate of 
+2 basis points would have a maximum 
+unsecured debt adjustment of 1 basis 
+point. If the same bank under the 
+proposal also received the full RRA of 
+1 basis point, its maximum unsecured 
+debt adjustment would decline to 0.5 
+basis points. 
+Recognizing the significant benefit 
+that the issuance of unsecured debt may 
+have on potential losses to the DIF in 
+the event of a bank failure, the proposed 
+rate schedules would result in no 
+change to the maximum unsecured debt 
+adjustment for banks receiving the 
+minimum initial base assessment rate in 
+the rate schedules applied when the 
+reserve ratio exceeds 2 percent. In the 
+preceding example, the minimum initial 
+base assessment rate for large and highly 
+complex institutions would be 3 basis 
+points and the maximum unsecured 
+debt adjustment for a bank receiving the 
+minimum would remain 1 basis point. 
+In addition, under the proposed rate 
+schedules, the minimum assessment 
+rate after all adjustments are applied 
+would be the same for large and highly 
+complex institutions and for small 
+banks. 
+e. Timing of the Application of the 
+Resolution Readiness Adjustment 
+As further described below in section 
+IV. of this Supplementary Information, 
+to be eligible for the RRA, a large or 
+highly complex institution that wishes 
+to opt into the RRA would submit a 
+notice of election to the FDIC to 
+participate in testing of the institution’s 
+ability to populate a VDR and/or to 
+provide access to an institution’s service 
+provider(s) and/or internal systems to 
+obtain detailed bank data needed to 
+manage and market the bank in 
+receivership. 
+f. Timing of the Component of the RRA 
+for Data Access Engagement 
+The FDIC anticipates that the initial 
+round of data access engagement would 
+take approximately four years to 
+complete for large or highly complex 
+institutions that elect to participate. 
+Under this proposal, the first 0.5 basis 
+points of the RRA for providing the 
+FDIC access to an institution’s service 
+provider(s) and/or internal systems to 
+obtain detailed bank data needed to 
+manage and market the bank in 
+receivership would be applied at the 
+beginning of the first full quarterly 
+assessment period after the date on 
+which the institution elects to 
+participate. For instance, if an 
+institution elected to participate on May 
+15, it would first be entitled to a 0.5 
+basis point adjustment for providing 
+data access in the quarterly assessment 
+period beginning on July 1, for which 
+payment would be invoiced and due in 
+December. 
+If an institution fails to follow through 
+on providing prescribed data access or 
+does not provide information or access 
+to personnel that the FDIC needs to 
+assess the data, documents, and other 
+materials that must be provided, the 
+FDIC would cease application of the 0.5 
+basis point adjustment beginning the 
+following quarterly assessment period. 
+If this occurs in the initial data access 
+engagement, the institution would be 
+liable to reimburse the FDIC for an 
+amount equal to the total amount of the 
+0.5 basis point component of the 
+adjustment for data access the 
+institution already received. 
+g. Timing of the Component of the RRA 
+for VDR Testing 
+If the institution satisfies the 
+requirements of the rule with respect to 
+the VDR test, the FDIC would generally 
+apply the 0.5 basis point component of 
+the RRA beginning in the first quarterly 
+assessment period after the institution 
+passes the VDR test. However, as 
+described further below, the FDIC will 
+not initially apply the downward 
+adjustment until all banks have 
+completed the initial round of testing, to 
+ensure that institutions who are tested 
+sooner do not unfairly benefit from the 
+timing of the tests. 
+h. Retesting and Follow-Up Data Access 
+Engagements 
+Participating institutions would be 
+subject to periodic retesting and follow- 
+up data access engagements, as 
+described in section IV. of this 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00015 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.067</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39808 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+Supplementary Information. If an 
+institution receives an RRA, the 
+institution would generally continue to 
+receive the adjustment for each 
+quarterly assessment period unless and 
+until the institution does not 
+successfully complete a future VDR test 
+or declines to participate in subsequent 
+data access engagement, at which point 
+the institution’s downward adjustment 
+for the applicable component would 
+cease to apply in the next quarterly 
+assessment period. 
+i. Analysis 
+While the reserve ratio is less than 2 
+percent, the minimum total base 
+assessment rate for large and highly 
+complex institutions that receive the 
+maximum proposed RRA would be 1.5 
+basis points, the same minimum that 
+would apply to small institutions. The 
+proposed minimum total base 
+assessment rate of 1.5 basis points is 1 
+basis point lower than in the current 
+schedule and is the same as the 
+minimum total base assessment rate that 
+was applicable prior to the 2023 
+increase in the assessment rate schedule 
+in place while the reserve ratio is less 
+than 2 percent. 
+The minimum total base assessment 
+rates when the reserve ratio is equal to 
+or greater than 2 percent are the same 
+for small, large, and highly complex 
+institutions and are unchanged from the 
+current schedules, which were not 
+raised in 2023. The proposed revisions 
+to the assessment rate schedules are 
+illustrated in the tables below. 
+If all IDIs that meet the proposed 
+definition of a large institution or that 
+are highly complex institutions 
+successfully participate in and pass the 
+VDR exercise and provide the 
+prescribed data access to achieve the 
+maximum RRA of 1 basis point, the 
+RRA combined with the proposed 1 
+basis point reduction in initial base 
+assessment rates is generally estimated 
+to result in a decline in annual 
+assessments of approximately $3.4 
+billion, or approximately 27.8 percent of 
+total annual assessments, based on data 
+as of December 31, 2025. 
+While the proposed reduction in the 
+initial base assessment rates would be 
+applied beginning with the effective 
+date of any final rule, and the 
+component of the RRA associated with 
+data access engagement would be 
+applied the quarterly assessment period 
+following the institution’s election, the 
+effects of the component of the RRA 
+associated with the initial VDR testing 
+would not be applied until all 
+institutions who initially elect to 
+participate have completed testing, 
+which under the proposal the FDIC 
+would complete within one year from 
+the effective date of any final rule. In 
+addition to the staggered timing for 
+completion of the first cycle and 
+application of the adjustment, the 
+aggregate effect of the RRA is also 
+contingent on the number of large and 
+highly complex institutions that elect to 
+participate in and successfully pass the 
+VDR testing and provide the prescribed 
+data access. 
+Expanded analysis of the aggregate 
+expected effects of the proposal, 
+evaluation of the costs and benefits, and 
+consideration of the statutory factors are 
+included below in sections VII. and VIII. 
+of this 
+SUPPLEMENTARY INFORMATION. 
+C. Proposed Assessment Rate Schedules 
+1. Proposed Assessment Rate Schedules 
+for Established Small Institutions and 
+Large and Highly Complex Institutions 
+Pursuant to the FDIC’s authority to set 
+assessments, the FDIC is proposing the 
+following initial base assessment rates, 
+adjustments, and total base assessment 
+rates applicable to established small 
+institutions and large and highly 
+complex institutions set forth in Table 
+8 below. 
+BILLING CODE 6714–01–P 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00016 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39809 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+69 In lieu of dividends, and pursuant to the FDIC’s 
+authority to set assessments, the progressively 
+lower initial base and total base assessment rates set 
+forth in 12 CFR 327.10(c) and (d) will come into 
+effect without further action by the Board when the 
+fund reserve ratio at the end of the prior assessment 
+period reaches 2 percent and 2.5 percent, 
+respectively. 
+The proposed assessment rate 
+schedules applicable to established 
+small institutions and large and highly 
+complex institutions in Table 8 above 
+would remain in effect unless and until 
+the reserve ratio meets or exceeds 2 
+percent.
+69 
+The proposed initial base assessment 
+rates, adjustments, and total base 
+assessment rates in Table 9 below 
+would be in effect if the reserve ratio of 
+the DIF as of the end of the prior 
+assessment period is equal to or greater 
+than 2 percent and less than 2.5 percent. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00017 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.068</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39810 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+The proposed initial base assessment 
+rates, adjustments, and total base 
+assessment rates in Table 10 below 
+would be in effect if the reserve ratio of 
+the DIF as of the end of the prior 
+assessment period is equal to or greater 
+than 2.5 percent. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00018 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.069</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39811 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+2. Proposed Assessment Rates for New 
+Small Institutions 
+Pursuant to the FDIC’s authority to set 
+assessments, the proposed initial and 
+total base assessment rates applicable to 
+new small institutions set forth in Table 
+11 below would take effect beginning 
+upon the effective date of any final rule. 
+New small institutions would remain 
+subject to the assessment schedules in 
+Table 11, even when the reserve ratio 
+reaches 2 percent or 2.5 percent, until 
+they no longer were new depository 
+institutions, consistent with current 
+assessment regulations. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00019 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.070</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39812 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+3. Insured Branches of Foreign Banks 
+Pursuant to the FDIC’s authority to set 
+assessments, the proposed initial and 
+total base assessment rates applicable to 
+insured branches of foreign banks set 
+forth in Table 12 below would take 
+effect beginning upon the effective date 
+of any final rule. 
+BILLING CODE 6714–01–C 
+a. Alternatives Considered 
+In proposing the updates to 
+assessment rate schedules, the FDIC 
+considered a number of potential 
+alternatives, including maintaining the 
+current schedule of initial base 
+assessment rates, applying higher or 
+lower reductions to initial base 
+assessment rates, applying higher or 
+lower VDR and data access adjustments, 
+and modifying the assessment rate 
+schedules that apply when the reserve 
+ratio exceeds 2 percent and 2.5 percent. 
+The FDIC also considered how the 
+unsecured debt adjustment would 
+interact with the RRA and the impact on 
+the maximum unsecured debt 
+adjustment applicable to large and 
+highly complex institutions at the 
+minimum initial base assessment rates 
+and at higher rates. The unsecured debt 
+adjustment was adopted in recognition 
+that, all else equal, greater amounts of 
+long-term unsecured debt can reduce 
+the potential loss to the DIF in the event 
+of an IDI’s failure. The FDIC is 
+proposing to adopt the RRA in 
+recognition that a large or highly 
+complex institution’s ability to both 
+populate a VDR with information that 
+could be used to market the bank in the 
+event of its failure and provide the FDIC 
+access to detailed bank data needed to 
+manage and market the bank in 
+receivership can improve resolution 
+efficiencies and result in a reduction in 
+losses to the DIF in the event of the 
+institution’s failure. The FDIC 
+recognizes that the proposed structure 
+creates a potential asymmetry in which 
+the unsecured debt adjustment can be 
+significantly greater than the RRA for 
+institutions with higher initial base 
+assessment rates, while the RRA would 
+be equal to or greater than the 
+unsecured debt adjustment for 
+institutions with the minimum initial 
+base assessment rate when the reserve 
+ratio exceeds 2 percent, and seeks 
+comment on this proposed structure. 
+Question 12: The FDIC invites 
+comment on the proposal to revise 
+deposit insurance assessment rates, 
+beginning with the effective date of any 
+final rule. How does the approach in the 
+proposed rule support or not support 
+the objectives of the FDIC’s 
+comprehensive, long-range management 
+plan for the DIF? What are the 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00020 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.071</GPH> EP30JN26.072</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39813 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+70 If a large or highly complex institution is 
+affiliated with other IDIs, only an affiliate that is 
+itself a large or highly complex institution would 
+be eligible to seek a resolution readiness assessment 
+adjustment. 
+advantages and disadvantages of the 
+proposed reductions in assessment 
+rates? Are there alternatives the FDIC 
+should consider, and if so, why? 
+Question 13:The FDIC invites 
+comment on the proposed RRA. What 
+are the advantages and disadvantages of 
+implementing such an adjustment? Is 
+the calibration appropriate, and if not, 
+why? 
+Question 14: The FDIC additionally 
+invites comment on the proposed 
+allocation of the RRA and incorporation 
+into the assessment rate schedules. Are 
+there alternative approaches for 
+allocation or incorporation into the 
+assessment rate schedules the FDIC 
+should consider? 
+Question 15: Under the proposal, the 
+unsecured debt adjustment would be 
+limited to the lesser of 5 basis points or 
+half of an institution’s initial base 
+assessment rate less any applicable 
+RRA. As proposed, the 1 basis point 
+RRA equals or exceeds the maximum 
+unsecured debt adjustments of 1 basis 
+point and 0.5 basis points available to 
+large and highly complex institutions 
+with the minimum initial base 
+assessment rate in the schedules 
+applied when the reserve ratio is 
+between 2 percent and 2.5 percent, and 
+2.5 percent or greater. The FDIC invites 
+comment on the relative allocation of 
+these adjustments. Are there are 
+alternative allocations or limitations the 
+FDIC should consider? 
+IV. Resolution Readiness Adjustment 
+Under the proposed rule, the FDIC 
+would apply a downward resolution 
+readiness adjustment to the assessment 
+rate of a large or highly complex 
+institution that elects to (1) submit to 
+testing of the institution’s ability to 
+populate a VDR (VDR test) with 
+information that could be used to 
+market the bank in the event of its 
+failure (VDR component) and/or (2) 
+provide the FDIC access to an 
+institution’s service provider(s) and/or 
+internal systems if the institution 
+maintains its own proprietary data 
+systems, to obtain detailed bank data 
+needed to manage and market the bank 
+in receivership (data access 
+component).
+70 The proposed RRA 
+would be comprised of a 0.5 basis point 
+adjustment for successfully passing a 
+VDR test (VDR adjustment) and a 0.5 
+basis point adjustment for completing 
+the data access component (data access 
+adjustment) in recognition of the 
+expected reduction in losses to the DIF 
+in the event of the failure of an 
+institution that participates and 
+completes both components. 
+A. Background 
+A large or highly complex 
+institution’s ability to quickly populate 
+a VDR with complete, timely, and 
+accurate information can be key to 
+ensuring that the FDIC receives high 
+quality bids in the event of the 
+institution’s failure, which would 
+reduce the likely amount of loss to the 
+DIF. From a marketing standpoint, an 
+institution’s ability to quickly populate 
+a VDR is critical to ensuring necessary 
+information on unique business lines 
+can be supplied in a timely manner for 
+bidders to evaluate the institution’s 
+franchise. Better information for bidders 
+when marketing a franchise increases 
+bid quality which, in turn, increases the 
+likelihood that a failed bank will be 
+acquired over the course of the weekend 
+immediately following its entry into 
+receivership. This also decreases the 
+likelihood of needing to operate the 
+bank as a bridge depository institution, 
+which can further erode franchise value 
+and increase costs to the DIF. 
+While having the ability to quickly 
+populate a VDR is important for the 
+rapid marketing and sale of a failed 
+institution, directly accessing data from 
+the institution’s systems and/or its 
+service provider(s), as applicable, would 
+allow the FDIC to build out internal 
+FDIC infrastructure to enable the FDIC 
+to receive and process necessary data in 
+the event of an institution’s rapid 
+failure. Additionally, the data would 
+further enhance the quality and 
+robustness of the information provided 
+to potential bidders and enable the FDIC 
+to more effectively operate an eventual 
+receivership or, if needed, a bridge 
+depository institution. 
+B. Election Process 
+Under the proposed rule, a large or 
+highly complex institution that wishes 
+to opt into the RRA would submit a 
+notice of its election or elections to the 
+FDIC. An institution’s election would 
+include certain information needed by 
+the FDIC for the elected component or 
+components. To support the VDR 
+component, the institution’s notice of 
+election would provide the FDIC with 
+the contact information of the 
+institution’s personnel with whom the 
+FDIC should engage prior to the VDR 
+test. To support the data access 
+component, the institution’s notice of 
+election would provide the FDIC a 
+complete list of all systems and 
+applications maintained by itself and/or 
+third-party vendor(s) that serve as core 
+data processors for deposit and loan 
+data and the institution’s general ledger, 
+and a list of key personnel (including 
+personnel of third-party vendors) 
+needed to support and operate such 
+systems and applications. The 
+institution would also authorize the 
+FDIC to communicate with, and request 
+data from, its third-party vendors and 
+acknowledge that any costs required to 
+obtain any necessary data would be 
+borne by the institution. The institution 
+would be able to opt in to one of or both 
+components of the RRA as part of its 
+election, whether it be one election 
+submission or two. 
+An institution that is a large or highly 
+complex institution as of the effective 
+date of any final rule would submit a 
+notice of election to the FDIC within 30 
+days of the effective date of the rule. 
+Such an institution would be eligible to 
+receive a data access adjustment 
+beginning in the assessment period 
+following the institution’s election, and 
+would be eligible to receive a VDR 
+adjustment beginning in the assessment 
+period one year after the effective date 
+of the final rule if the institution passes 
+the VDR test. 
+Following the end of this 30-day 
+period, institutions would still be able 
+to make an election at any time. 
+However, the FDIC would not conduct 
+a VDR test of such an institution until 
+after all institutions who initially opted 
+in completed VDR tests, and the 
+institution’s VDR adjustment would not 
+be available until after completing the 
+VDR test. Additionally, an institution 
+that is a large or highly complex 
+institution on the effective date of the 
+final rule that does not opt in to the data 
+access component during the initial 30 
+days, but does opt in to the data access 
+component within the initial four year 
+period subsequent to the expiration of 
+the initial 30 day period, will not 
+receive the adjustment until two 
+quarters after the end of the quarter in 
+which the election is made, to 
+discourage institutions from delaying 
+making an election. 
+An institution that becomes a large or 
+highly complex institution after the 
+effective date of any final rule would be 
+eligible to submit a resolution readiness 
+adjustment election notice to the FDIC 
+upon becoming a large or highly 
+complex institution. Such an institution 
+would be eligible to receive a data 
+access adjustment beginning in the 
+quarterly assessment period following 
+the institution’s election, and would be 
+eligible to receive a VDR adjustment 
+beginning in the quarterly assessment 
+period after the institution passes the 
+VDR test. Such an institution would not, 
+however, receive the VDR adjustment 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00021 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39814 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+71 The FDIC would generally delete data shortly 
+after concluding the test. 
+until the initial round of VDR testing is 
+complete. 
+If an institution’s notice of election for 
+the data access component contains 
+materially inaccurate information or the 
+institution does not provide required 
+information in its notice of election, the 
+FDIC may notify the institution that it 
+is no longer eligible for the data access 
+adjustment. In that case, the data access 
+adjustment would be removed 
+beginning the next quarterly assessment 
+period, and the institution would be 
+liable to reimburse the FDIC for an 
+amount equal to the amount of data 
+access adjustment the institution 
+received. The institution could seek to 
+resume eligibility for the data access 
+adjustment by submitting another notice 
+of election. 
+C. VDR Test 
+In order to demonstrate its ability to 
+adequately populate a VDR, a large or 
+highly complex institution must be able 
+to provide information under the below 
+categories in a VDR set up by the FDIC 
+within 48 hours of a request.
+71 These 
+categories of information reflect the data 
+and information that potential bidders 
+have identified as most useful for 
+conducting due diligence, especially 
+when there is a short runway to an 
+institution’s failure: 
+1. Key financial information, 
+including balance sheets, income 
+statements, general ledgers (both 
+consolidated and unconsolidated), and 
+other relevant financial information; 
+2. Deposit data and information, 
+including deposit tapes and data 
+dictionary, and a report regarding key 
+depositors (including key depositors by 
+name and business segment, the amount 
+of each key depositor’s deposits, and a 
+list of other services provided to such 
+key depositors), though existing 
+management reports are acceptable; 
+3. Loan and lending data and 
+information, including loan tapes and 
+data dictionary, and a report regarding 
+key loan relationships (including key 
+loan relationships by name and business 
+segment, the amount of each 
+outstanding loan of each key loan 
+relationship, and a list of other services 
+provided to such key loan 
+relationships), though existing 
+management reports are acceptable; 
+4. A sample of imaged loan files 
+sufficient for a potential bidder to 
+conduct due diligence to inform a 
+potential bid; 
+5. Securities and investment portfolio 
+information, including securities tapes 
+and data dictionary; 
+6. A corporate organizational chart 
+showing all financially or operationally 
+significant entities, as well as a 
+description of each of these entity’s 
+operations and role within the 
+institution’s operations, and licensing 
+and regulatory information for each 
+entity; 
+7. A list of key personnel identified by 
+title, function, physical location, 
+employing legal entity, and business 
+line or business segment the individual 
+supports, and if an individual is ‘‘dual 
+hatted’’ at the institution and at one or 
+more of its affiliates; 
+8. A list of material third-party 
+contracts and a description of what 
+services or business lines each contract 
+supports; 
+9. Recent key internal risk 
+management reports, such as 
+assessments concerning credit, capital, 
+liquidity, risk governance risks; and 
+10. Other information the institution 
+believes is necessary to facilitate a rapid 
+and effective due diligence process for 
+the sale of the institution, as well as 
+data or information requested by the 
+FDIC in its notice concerning the timing 
+of the institution’s VDR test that is not 
+covered by other items listed above. 
+FDIC resolution experience has 
+shown that VDRs that can be quickly 
+and accurately populated with key 
+financial data and operational 
+information are necessary for bidder due 
+diligence and results in more and 
+higher-quality bids. 
+1. Initial Timing of VDR Test 
+The FDIC anticipates that the initial 
+round of VDR tests for institutions that 
+are large or highly complex as of the 
+effective date of the final rule would 
+take up to one year from the effective 
+date of the final rule. The FDIC would 
+notify an institution not less than four 
+weeks in advance of when it would 
+conduct the VDR test, and on the date 
+of the test, the institution would have 48 
+hours to populate the VDR. 
+2. Satisfaction of VDR Test 
+The institution would be considered 
+to have satisfied the VDR test if (1) all 
+of the required documents, data and 
+information are uploaded to the virtual 
+data room within 48 hours after the test 
+begins, (2) the FDIC determines that the 
+information and data uploaded is 
+sufficient for a potential bidder to 
+conduct adequate due diligence to 
+inform a potential bid, including that 
+the financial information provided is 
+consistent with the general ledger, and 
+(3) the institution provides the FDIC 
+such information and access to such 
+personnel of the institution as the FDIC 
+in its discretion determines is relevant 
+to properly evaluate the documents and 
+information uploaded to the VDR. 
+3. Results of VDR Test and Application 
+of VDR Adjustment 
+The FDIC will notify the institution in 
+writing concerning the results of its test. 
+If the institution has satisfied the 
+requirements of the rule with respect to 
+the VDR test, it will be entitled to a VDR 
+adjustment. The FDIC would retest an 
+institution’s capabilities with respect to 
+the VDR test once every three years. In 
+certain circumstances, such as when the 
+FDIC determines that it can access 
+certain important information in a 
+timely manner in connection with data 
+access engagement, the FDIC may waive 
+aspects of future VDR tests. The FDIC 
+would provide an institution with not 
+less than four weeks’ notice if it plans 
+to retest an institution’s VDR population 
+capabilities. The FDIC may extend the 
+timeline to more than three years at its 
+discretion. The FDIC may do so if, for 
+example, there is an increase in bank 
+failures resulting in increased resources 
+devoted to resolution activity. If an 
+institution has experienced material 
+changes with respect to its ability to 
+populate a data room, such as 
+undergoing a merger, the FDIC may 
+conduct a retest in less than three years 
+at its discretion. If the institution does 
+not satisfy the requirements of the VDR 
+test, the FDIC may offer the institution 
+an opportunity to retake the test not less 
+than one month after the initial test. 
+If the institution receives a 0.5 basis 
+point adjustment for successfully 
+completing the VDR test, the institution 
+will continue to receive the adjustment 
+for each quarterly assessment period 
+unless and until the institution does not 
+successfully complete a future VDR test, 
+at which point the institution’s 
+downward adjustment would cease to 
+apply in the next quarterly assessment 
+period. 
+Under the proposal, because the VDR 
+component is intended to incentivize 
+banks to maintain the ability to produce 
+robust information within a 48-hour 
+timeframe, an institution would not be 
+able to receive partial credit if it is able 
+to produce the required data in a period 
+longer than 48 hours, or if the 
+institution is able to produce some but 
+not all of the content required. The FDIC 
+is seeking comment on whether partial 
+credit should be offered. 
+D. Data Access 
+As discussed above, a large or highly 
+complex institution will be entitled to 
+the data access adjustment beginning in 
+the first full assessment period after the 
+date on which the institution submits its 
+notice of election. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00022 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39815 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+72 The FDIC would generally delete data shortly 
+after concluding the engagement. 
+1. Initial Timing of Data Access 
+Engagement 
+The FDIC anticipates that the initial 
+round of engagement with respect to the 
+data access component for electing 
+institutions that are large or highly 
+complex as of the effective date of the 
+final rule would take four years from 
+this date and therefore believes it 
+appropriate to grant the data access 
+adjustment upon submission of a notice 
+of election rather than require 
+institutions to wait until every 
+institution has completed the process 
+before applying adjustments. 
+Furthermore, the FDIC believes it is 
+generally unlikely an institution that 
+elects to participate in the data access 
+component will fail to ultimately 
+qualify for the data access adjustment. 
+An institution that elects to 
+participate in the data access 
+component would be required to 
+facilitate the FDIC’s access to its data 
+service provider(s) and/or any internal 
+data systems. As noted above, the 
+purpose of data access engagement by 
+the FDIC would be to allow the FDIC to 
+engage with service provider(s) and/or 
+institution personnel to build out 
+internal FDIC infrastructure to enable 
+the FDIC to receive and process 
+necessary data in the event of an 
+institution’s rapid failure. Specifically, 
+the FDIC would seek access to such data 
+service provider(s) and/or internal data 
+systems in order to access and process 
+the following data:
+72 
+1. The institution’s consolidated and 
+unconsolidated ledger; 
+2. Core data regarding the institution’s 
+deposit portfolio, including: 
+a. Depositor and beneficiary 
+information; 
+b. Deposit account title; 
+c. Deposit account type; 
+d. Deposit account balances, 
+including principal and accrued 
+interest; 
+e. Deposit account status; 
+f. Deposit account rate terms; and 
+g. Any other information about 
+material characteristics of deposits; 
+3. Core data concerning the 
+institution’s loan portfolio, including: 
+a. Borrower, co-borrower, and 
+guarantor information; 
+b. Loan balances, including charge 
+offs; 
+c. Participation information; 
+d. Loan status; 
+e. Loan terms; 
+f. Loan type; 
+g. Collateral associated with each 
+loan; and 
+h. Any other information about 
+material characteristics of loans; 
+4. A list of key personnel (including 
+those employed by third-party vendors) 
+needed to support and operate each 
+system and application used to produce 
+data, information, and other materials 
+listed above identified by name, title, 
+employer, telephone number, and email 
+address. 
+If an institution fails to follow through 
+on providing prescribed data access or 
+does not provide information or access 
+to personnel that the FDIC needs to 
+assess the data, documents, and other 
+materials that must be provided, the 
+FDIC would cease application of the 
+adjustment beginning the following 
+quarterly assessment period. If this 
+occurs during the initial data access 
+engagement, the institution would be 
+liable to reimburse the FDIC for an 
+amount equal to the amount of data 
+access adjustment the institution 
+received. 
+After the initial engagement, the 
+institution must notify the FDIC within 
+30 days of any material changes to its 
+internal data systems or data service 
+providers that made the FDIC’s prior 
+engagement with respect to data access 
+no longer relevant, such as when an 
+institution engages a new data service 
+provider with respect to the data that 
+the FDIC would seek to collect in the 
+event of the institution’s failure. The 
+FDIC anticipates that such notices 
+would be rare. Failure to provide notice 
+of material change may result in the 
+data access adjustment being removed 
+in the following assessment period and, 
+potentially, liability for repayment if 
+discovered after multiple assessment 
+periods. 
+The FDIC will conduct follow-up 
+engagements every seven years, except 
+that the FDIC may (1) extend the 
+timeline at its discretion or (2) conduct 
+a follow-up engagement sooner than 
+seven years in the event of a material 
+change to an internal data system or 
+data service provider. The FDIC would 
+provide an institution with not less than 
+four weeks’ notice if it chooses to 
+conduct a new engagement concerning 
+an institution’s data access capabilities. 
+If the institution qualifies for the data 
+access adjustment after the first 
+engagement, and then declines to 
+participate in subsequent engagement, 
+the data access adjustment will be 
+removed in the assessment period 
+following receipt of notice that it 
+declines to participate, and the 
+institution would not be liable to 
+reimburse the FDIC. 
+Question 16: Please describe and 
+quantify the costs that large and highly 
+complex institutions would expect to 
+incur in seeking the RRA? If possible, 
+please delineate costs by VDR test and 
+data access engagement. 
+Question 17: Do commenters believe 
+that the amount of the RRA is 
+appropriately calibrated to recognize 
+the potential reduction in losses to the 
+DIF in the event of a large or highly 
+complex institution’s failure? If not, 
+what would be a more appropriate 
+calibration and why? 
+Question 18: Do commenters believe 
+that the proposed rule asks for large and 
+highly complex institutions to provide 
+the correct set of data for a VDR test? 
+What, if any, alternative data and 
+information would potential bidders 
+want access to in connection with the 
+marketing of a failed bank and why? 
+What other information in the 
+possession of a large or highly complex 
+institution would help facilitate 
+competitive, high-quality bids? Should 
+any of the data or information items 
+requested under the proposal for 
+purposes of the VDR test be removed 
+under any final rule and, if so, why? 
+Would this set of data benefit from more 
+or less prescription in the rule and why? 
+Question 19: What, if any, other data 
+would be useful to potential bidders, 
+help improve the marketing process for 
+a failed institution, or be useful to 
+operate the institution if the FDIC is 
+unable to solicit adequate bids over 
+resolution weekend? Would this set of 
+data benefit from more or less 
+prescription in the rule and why? 
+Question 20: Does the information 
+that must be populated in a VDR and 
+to which access would be provided 
+under the proposed rule overlap with 
+information that is otherwise provided 
+by large and highly complex institutions 
+to the FDIC or information that is 
+otherwise publicly available? 
+Question 21: Is the information that 
+would be required to be submitted with 
+respect to the election notice 
+appropriate and sufficient to provide 
+the FDIC an understanding of the 
+institution’s information technology 
+systems in order to aid the FDIC in 
+conducting testing under the proposed 
+rule? What, if any, other information 
+should a large or highly complex 
+institution provide when seeking an 
+adjustment? 
+Question 22: Are the timelines for the 
+initial VDR test and data access 
+engagement appropriate and, if not, 
+why? What alternative timeframe, if any, 
+would be more appropriate to ensure 
+sufficient time for the FDIC to conduct 
+testing under the proposed rule? 
+Question 23: To what extent would an 
+appeals process be beneficial for 
+situations in which the FDIC denies all 
+or part of the resolution readiness 
+adjustment? 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00023 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39816 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+73 See 12 U.S.C. 1817(e)(3). See also 71 FR 61374 
+(Oct. 18, 2006). 
+74 90 FR 55240 (Dec. 1, 2025). 
+75 See supra fn 45. 
+76 See supra fn 50. 
+77 See supra fn 23. 
+Question 24: Should an institution be 
+liable to reimburse the FDIC for an 
+amount equal to the amount of the data 
+access component of the RRA in the 
+event that the institution elects to opt in 
+but is subsequently notified that it failed 
+to provide the prescribed data access? 
+Should the application of the 0.5 basis 
+point component of the RRA for 
+satisfying the requirements of the data 
+access engagement be applied after the 
+engagement is completed and the 
+institution is notified of their eligibility? 
+If so, how would that be implemented? 
+Question 25: Should the proposal 
+provide a partial adjustment for 
+institutions that satisfy some, but not 
+all, of the requirements of the VDR test? 
+If so, how should the FDIC calibrate any 
+partial adjustment? Should the FDIC 
+consider partial credit of the VDR 
+adjustment to be divided between a 
+timeliness and information 
+subcomponent? If so, what is an 
+appropriate scoring for partial credit in 
+each category? 
+Question 26: Do commenters believe 
+that the categories of information 
+requested with respect to the VDR test 
+are sufficiently clear? Do institutions 
+have existing internal management 
+reports that could be used to populate 
+a VDR, even on a partial basis, without 
+having to generate additional reports 
+and, if so, which types of existing 
+internal management reports could be 
+leveraged by institutions? 
+V. Other Proposed Amendments to Part 
+327 
+A. Conforming Amendments to the 
+Assessment Regulations 
+The FDIC also is proposing 
+conforming amendments to sections 
+327.8, 327.10, and 327.16 of the 
+assessment regulations to effectuate the 
+modifications described above. These 
+conforming amendments would ensure 
+that the proposed updates to the 
+definitions, thresholds, and assessment 
+rate schedules are properly incorporated 
+into the assessments regulation 
+provisions governing the calculations of 
+an IDI’s quarterly deposit insurance 
+assessment. The FDIC is proposing 
+revisions to section 327.10 to reflect the 
+assessment rate schedules that would be 
+applicable before and after the effective 
+date of any final rule. 
+The FDIC is also proposing to revise 
+the uniform amounts for small banks 
+and insured branches of foreign banks 
+in sections 327.16(a) and (d), 
+respectively, to reflect the proposed 2 
+basis point decrease in initial base 
+assessment rate schedules applicable to 
+these institutions. 
+B. Technical Amendments to the 
+Assessment Regulations To Remove 
+Obsolete Provisions 
+The FDIC is proposing other technical 
+amendments to its regulations governing 
+deposit insurance assessments to 
+remove obsolete provisions. Removal of 
+these provisions, described below, will 
+neither affect deposit insurance 
+assessments nor result in new 
+requirements for IDIs. 
+1. Surcharges and Assessments 
+Required To Raise the Reserve Ratio of 
+the DIF to 1.35 Percent in Section 
+327.11 
+As a technical change, the FDIC is 
+proposing to rescind in its entirety 12 
+CFR 327.11 which includes provisions 
+relating to surcharges and assessments 
+required to raise the reserve ratio of the 
+DIF to 1.35 percent that are no longer 
+applicable. 
+2. Prepayment of Quarterly Risk-Based 
+Assessments in 12 CFR 327.12 
+As a technical change, the FDIC is 
+rescinding in its entirety 12 CFR 327.12, 
+which includes provisions relating to 
+the prepayment of quarterly risk-based 
+assessments that are no longer 
+applicable. 
+3. Implementation of One-Time 
+Assessment Credit in 12 CFR part 327 
+Subpart B 
+As a technical change, the FDIC is 
+proposing to rescind in its entirety 12 
+CFR 327 Subpart B which implemented 
+a one-time assessment credit required 
+by section 7(e)(3) of the FDI Act.
+73 
+VI. Reporting 
+In December 2025, the FDIC, the 
+Office of the Comptroller of the 
+Currency, and the Board of Governors of 
+the Federal Reserve System (the 
+agencies), issued a Request for 
+Information on Streamlining the Call 
+Report.
+74 The request offered the 
+opportunity for interested stakeholders 
+to identify ways that the agencies could 
+streamline the Call Report forms and 
+instructions while still meeting the 
+purposes of the collection. 
+The agencies received several 
+comments in response to the request 
+addressing the collection of data on 
+Schedule RC–O—Other Data for Deposit 
+Insurance Assessments. Many of the 
+comments on Schedule RC–O addressed 
+line items that are used in the 
+calculation of deposit insurance 
+assessments for small, large, and highly 
+complex institutions. Revisions to such 
+line items would generally require 
+changes to the risk-based pricing 
+methodologies in the assessment 
+regulations. The FDIC continues to 
+consider the comments received 
+addressing line items on Schedule RC– 
+O and is considering addressing those 
+comments through a potential future 
+proposal to amend risk-based deposit 
+insurance pricing methodologies in the 
+assessment regulations. 
+VII. Statutory Considerations and 
+Expected Effects 
+A. Background 
+In setting assessment rates, the FDIC 
+is required by statute to consider the 
+following factors: 
+(i) The estimated operating expenses 
+of the DIF. 
+(ii) The estimated case resolution 
+expenses and income of the DIF. 
+(iii) The projected effects of the 
+payment of assessments on the capital 
+and earnings of IDIs. 
+(iv) The risk factors and other factors 
+taken into account pursuant to section 
+7(b)(1) of the FDI Act (12 U.S.C. 
+1817(b)(1)) under the risk-based 
+assessment system, including the 
+requirement under such section to 
+maintain a risk-based system.
+75 
+(v) Other factors the FDIC has 
+determined to be appropriate.76 
+For purposes of statutory 
+considerations and expected effects, the 
+FDIC based its analysis on data as of 
+December 31, 2025, including data from 
+the Call Report and FFIEC 002 for the 
+reporting period that ended December 
+31, 2025, reported as of February 16, 
+2026. 
+B. Deposit Insurance Fund Expenses 
+and Income 
+As of December 31, 2025, the DIF 
+balance totaled $153.9 billion, an 
+increase of $16.8 billion from the 
+previous year. Since second quarter 
+2023, the DIF balance has steadily 
+increased, primarily from assessments 
+earned. Assessments earned totaled $13 
+billion for 2025. The weighted average 
+assessment rate was approximately 5.6 
+basis points as of December 31, 2025, up 
+1.8 basis points from the weighted 
+average assessment rate of 3.8 basis 
+points for the assessment period ending 
+June 30, 2022, just prior to the adoption 
+of the 2022 final rule implementing a 
+uniform increase in initial base deposit 
+insurance assessment rate schedules of 
+2 basis points.
+77 Net investment income 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00024 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39817 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+78 Estimated losses do not include amounts 
+associated with the special assessment to recover 
+estimated losses attributable to protecting 
+uninsured depositors pursuant to the systemic risk 
+determination announced following the failures of 
+Silicon Valley Bank and Signature Bank in March 
+2023. The FDIC is required by statute to recover 
+such losses through a special assessment. See 12 
+U.S.C. 1823(c)(4)(G)(ii). See also 88 FR 83329 (Nov. 
+29, 2023) and 90 FR 59369 (Dec. 19, 2025). 
+79 Loss estimates for failures that occurred 
+between 2023 through 2026 as of March 31, 2026. 
+FDIC BankFind Suite: Bank Failures & Assistance 
+Data, available at: https://banks.data.fdic.gov/ 
+bankfind-suite/failures. See also ‘‘Anchor Bank 
+Assumes Insured Deposits of Community Bank and 
+Trust—West Georgia, LeGrange, Georgia,’’ May 1, 
+2026, available at: https://www.fdic.gov/news/press- 
+releases/2026/anchor-bank-assumes-insured- 
+deposits-community-bank-and-trust-west-georgia. 
+80 ‘‘Problem’’ institutions are institutions with a 
+CAMELS composite rating of ‘‘4’’ or ‘‘5’’ due to 
+financial, operational, or managerial weaknesses 
+that threaten their continued financial viability. 
+further added to the DIF balance, 
+totaling $4.8 billion for 2025. 
+Operating expenses partially offset 
+increases in the DIF balance, ranging 
+between $497 million and $666 million 
+on a quarterly basis for the past three 
+years. Full-year operating expenses were 
+$2.4 billion for 2025, unchanged from 
+2024. 
+Losses from bank failures, or case 
+resolution expenses, represent the 
+largest potential expenses of the DIF. 
+Except for 2023, the DIF has 
+experienced low losses since 2016. 
+Between 2016 and 2022, three banks per 
+year failed, at an average annual cost to 
+the DIF of about $177 million. In 2023, 
+five banks failed with estimated losses 
+to the DIF of $18.0 billion, excluding 
+losses that are being recovered through 
+the special assessment.
+78 Since 2023, six 
+institutions have failed as of May 2026, 
+with an estimated cost to the DIF of 
+$928 million.
+79 
+The total number of institutions on 
+the FDIC’s Problem Bank List was 60 at 
+the end of the fourth quarter of 2025, up 
+by a net of three institutions from the 
+previous quarter.
+80 The number of 
+problem banks represented 1.4 percent 
+of total banks in the fourth quarter of 
+2025, which is in the normal range of 
+1 to 2 percent for non-crisis periods. 
+While future losses to the DIF are 
+highly uncertain, FDIC-insured 
+institutions reported strong earnings in 
+2025. Loan growth accelerated in 2025, 
+as did domestic deposit growth. Asset 
+quality metrics remained favorable 
+overall despite continued weakness in 
+certain portfolios. Unrealized losses 
+reported by banks continued to decline 
+from the second quarter 2022 peak but 
+remained elevated relative to historical 
+conditions. The banking industry 
+continued to have strong capital and 
+liquidity levels, which support lending 
+and protect against potential losses. 
+As shown in Table 13 below, the DIF 
+balance has risen steadily since fourth 
+quarter 2022, just prior to the 2 basis 
+point increase in assessment rate 
+schedules. Over the period from the 
+fourth quarter 2022 to fourth quarter 
+2025, growth in the DIF balance 
+outpaced growth in estimated insured 
+deposits, resulting in continued growth 
+in the reserve ratio—DIF balance as a 
+percentage of estimated insured 
+deposits. As previously noted, the 
+reserve ratio further increased to 1.43 
+percent on March 31, 2026, up 15 basis 
+points from the year-end 2024 and 28 
+basis points from year-end 2023. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00025 Fmt 4701 Sfmt 4725 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.073</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39818 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+C. Projections for DIF Balance, Insured 
+Deposits, and Reserve Ratio 
+In developing the proposal, the FDIC 
+projected how changes to the threshold 
+used to define small and large 
+institutions and to rate schedules would 
+affect assessment revenue and therefore 
+growth in the DIF balance and reserve 
+ratio, including when the reserve ratio 
+would reach 2 percent. These 
+projections assume the continuation of 
+current trends, including low to 
+moderate losses from bank failures, and 
+do not contemplate a significant 
+downturn in banking or economic 
+conditions. Projections also assume no 
+change in bank behavior. For example, 
+changes to assessment rates and pricing 
+methodologies because of the proposal 
+may motivate banks to adjust their risk 
+profiles or practices, including changes 
+to borrowing rates, deposits rates, or 
+service fees. Any potential adjustments 
+to bank behavior are unknown and 
+therefore not incorporated into 
+projections. 
+The projections generally assume that 
+changes to the definitions of small and 
+large institutions and decreases to 
+assessment rate schedules take effect at 
+the beginning of 2027. Projections 
+further assume that 75 percent of large 
+and highly complex institutions elect to 
+participate and receive assessment rate 
+adjustments of 0.5 basis points for the 
+data access component of the RRA and 
+0.5 basis points for the VDR testing 
+component of the RRA beginning in 
+2027 and 2028, respectively. The FDIC 
+believes these are reasonable 
+assumptions given the expected cost of 
+initial and continued participation in 
+the proposed engagement relative to the 
+proposed assessment benefit. 
+In total, the FDIC projects a decline in 
+assessment revenue of $3.7 billion in 
+2027 and $22.6 billion, cumulatively, 
+through 2031, as shown in Chart 1. By 
+2031, the DIF balance would be reduced 
+by about $24.6 billion under the 
+proposal, which includes reduced 
+investment income resulting from the 
+decrease in assessment revenue. 
+As a result of the reduced DIF balance 
+relative to the baseline, the reserve ratio 
+would rise under the proposal but at a 
+slower pace than the baseline. Under 
+the baseline, the reserve ratio is 
+projected to reach the current DRR by 
+the end of 2031, as shown in Chart 2. 
+Under the proposal, the reserve ratio is 
+projected to be 1.85 percent at the end 
+of 2031 and would reach the 2 percent 
+DRR in 2035. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00026 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.074</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39819 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+81 Equity capital is defined as capital (stock and/ 
+or surplus earnings) that is free of debt, calculated 
+as assets less liabilities. 
+82 Annual income is assumed to equal income 
+from January 1, 2025, through December 31, 2025, 
+adjusted for mergers. 
+83 Profitable institutions are defined as those 
+having positive merger-adjusted income before 
+taxes for the 12 months ending December 31, 2025. 
+Analysis excludes nine insured branches of foreign 
+banks and three institutions that reported an 
+assessment base of zero as of December 31, 2025, 
+as their estimated annual change in assessments as 
+a percentage of income would be zero. Of the 
+remaining 4,333 IDIs, 230 were unprofitable based 
+Continued 
+D. Projected Effects on Capital and 
+Earnings 
+Consistent with section 7(b)(2)(B) of 
+the FDI Act, the analysis that follows 
+estimates the annual effect on equity 
+capital and earnings of IDIs from the 
+proposal. Specifically, the analysis 
+considers the effects from raising the 
+threshold defining a small institution 
+and a large institution from $10 billion 
+to $30 billion, decreasing initial base 
+assessment rate schedules by 2 basis 
+points for small institutions and by 1 
+basis point for large and highly complex 
+institutions, and implementing the 
+proposed RRA applicable to large and 
+highly complex institutions.
+81 
+Data as of December 31, 2025, are 
+used to calculate each bank’s 
+assessment base and risk-based 
+assessment rate, absent the proposed 
+changes. In 2025, the industry reported 
+full-year net income of $295.6 billion, 
+up $27.5 billion from full-year 2024. 
+The industry’s ROA increased to 1.20 
+percent from 1.12 percent the year prior. 
+The increase was driven by higher net 
+interest and noninterest income, which 
+offset higher noninterest expense. 
+For institutions that would experience 
+a change in assessment rates under the 
+proposal, the immediate financial 
+impact would be either (1) a decrease in 
+assessment expense and a 
+corresponding increase in pre-tax 
+income; or (2) an increase in assessment 
+expense and a corresponding decrease 
+in pre-tax income. To avoid the 
+possibility of underestimating effects on 
+bank earnings or capital, the analysis 
+also assumes that the effects of the 
+proposal are not transferred to 
+customers in the form of changes in 
+borrowing rates, deposit rates, or service 
+fees. 
+A banking organization’s earnings 
+retention and dividend policies 
+influence the extent to which changes in 
+assessments affect equity levels. If an 
+IDI maintains the same dollar amount of 
+dividends when it recognizes the 
+assessment expense, equity (retained 
+earnings) will be increased by the full 
+amount of the change in pre-tax 
+assessments. This analysis instead 
+assumes that an IDI would maintain a 
+dividend rate (that is, dividends as a 
+percentage of net income) equal to the 
+weighted average rate reported over the 
+four quarters ending December 31, 2025. 
+The analysis first reclassifies 
+institutions using the proposed revised 
+definitions of small and large 
+institutions. As of December 31, 2025, 
+there were approximately 76 IDIs that 
+were priced as large institutions that 
+would shift to the small bank pricing 
+framework under the proposed 
+definitions. For purposes of this 
+analysis, none of these 76 IDIs are 
+assumed to elect the one-time option to 
+temporarily continue to be priced as a 
+large institution and therefore are 
+subject to the small bank pricing 
+framework for the scenarios below. 
+The analysis next applies the 
+proposed decrease in initial base 
+assessment rate schedules of 2 basis 
+points for small institutions and 1 basis 
+point for large and highly complex 
+institutions. The proposed changes to 
+the definitions of small and large 
+institutions combined with the 
+proposed decreases in assessment rate 
+schedules are estimated to result in an 
+annual decrease in assessments of 
+approximately $2.7 billion. 
+The effect of these components of the 
+proposal on bank earnings is measured 
+by calculating the amount of (1) savings 
+to institutions that would pay lower 
+future assessments; or (2) losses to 
+institutions that would pay higher 
+assessments; as a percentage pre-tax 
+income (hereafter referred to as 
+‘‘income’’).
+82 This income measure is 
+used in order to eliminate the 
+potentially transitory effects of taxes on 
+profitability. The FDIC analyzed the 
+impact of the proposal on the 4,103 
+institutions that were profitable based 
+on their annual income from January 1, 
+2025, to December 31, 2025.
+83 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00027 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.075</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39820 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+on average quarterly income from January 1, 2025, 
+to December 31, 2025. 
+84 Analysis of projected effects on capital and 
+earnings excludes nine insured branches of foreign 
+banks, given differences in reporting requirements 
+between the Call Report and FFIEC 002, and three 
+institutions that reported an assessment base of zero 
+as of December 31, 2025. Four institutions are 
+expected to pay higher assessments due to the 
+proposed change in definition for small and large 
+institutions. If those four institutions elect the one- 
+time option to temporarily continue to be priced as 
+large, they may pay lower assessments during the 
+election period. 
+Table 14 shows the effects of the 
+proposed definitions of small and large 
+institutions, combined with the 
+proposed decreases in assessment rate 
+schedules, on profitable IDIs. 
+Approximately 74.3 percent of 
+profitable institutions are projected to 
+experience a reduction in assessments 
+of one percent or more of income from 
+these components of the proposal. An 
+additional 25.6 percent of profitable IDIs 
+would experience an estimated decrease 
+in assessments totaling less than one 
+percent of income. Four institutions (0.1 
+percent) would experience an increase 
+in assessments, with additional amounts 
+totaling one percent or more of income 
+for three institutions, and less than one 
+percent of income for one institution.
+84 
+Finally, the analysis includes the 
+proposed RRA of 1 basis point, 
+applicable to large and highly complex 
+institutions that elect to participate. If 
+75 percent of large and highly complex 
+institutions receive the maximum 
+adjustment, the expected effect of all 
+components of the proposal is an annual 
+decrease in assessments of 
+approximately $4.0 billion. Table 15 
+shows the effects of the full proposal on 
+profitable IDIs as of December 31, 2025. 
+Approximately 75.2 percent of 
+profitable institutions are projected to 
+experience a reduction in assessments 
+of one percent or more of income from 
+the proposal, while 0.1 percent are 
+projected to experience an increase in 
+assessments totaling one percent or 
+more of income because of the proposal. 
+Approximately 24.2 percent of 
+profitable IDIs would experience an 
+estimated decrease in assessments 
+totaling less than one percent of income 
+and one institution would experience an 
+estimated increase in assessments 
+totaling less than one percent of income. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00028 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.076</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39821 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+85 Estimated effects on capital are calculated 
+based on data reported as of December 31, 2025, on 
+the Call Report. 
+86 For purposes of the economic analysis, unless 
+specified otherwise, small institutions include 
+newly insured small institutions and insured 
+branches of foreign institutions. See sections III.C.2. 
+and III.C.3. of this Supplementary Information for 
+a discussion of assessment rates and schedules for 
+these institutions. 
+87 The proposal contains certain other technical 
+amendments to the assessments regulations to 
+remove obsolete provisions. The FDIC anticipates 
+these amendments will have little to no effect on 
+deposit insurance assessments for IDIs. As such, the 
+effects on IDIs due to these amendments under the 
+proposal are likely to be de minimis. 
+The FDIC also considered the effects 
+of the proposal on equity capital. The 
+proposed changes to the assessment 
+regulations are expected to increase tier 
+1 capital of IDIs by an estimated 16.3 
+basis points, on average, resulting from 
+the estimated net decrease in annual 
+assessments of $4.0 billion.
+85 No 
+institutions are expected to fall below 
+the minimum Tier 1 capital requirement 
+as a result of the proposal. 
+VIII. Impact and Economic Analysis 
+This section evaluates the projected 
+economic effect of the proposal relative 
+to a baseline in which the proposal is 
+not adopted. Specifically, the section 
+discusses the expected material costs 
+and benefits of the proposal to small 
+institutions and large and highly 
+complex institutions.
+86 Relevant 
+regulations and financial data as of 
+December 31, 2025, are generally used 
+to estimate outcomes under the proposal 
+and the baseline. 
+The proposal would update and 
+provide for future indexing of the asset- 
+based threshold used in the definitions 
+of small and large institutions, decrease 
+initial base assessment rate schedules by 
+2 basis points for small institutions and 
+by 1 basis point for large and highly 
+complex institutions, and provide a 
+downward adjustment to assessment 
+rates, including 0.5 basis points for 
+passing virtual data room testing and 0.5 
+basis points for providing prescribed 
+data access to large and highly complex 
+institutions electing to participate.
+87 
+As of December 31, 2025, the FDIC 
+insured 4,345 IDIs, including nine 
+insured branches of foreign institutions. 
+Table 16 breaks out these institutions by 
+assessments pricing methodology as of 
+December 31, 2025, under current 
+regulations (baseline) and under the 
+proposed changes to the definitions of 
+small and large institutions. Excluding 
+banks that may utilize the proposed 
+one-time election for reclassified 
+institutions to be temporarily priced 
+using the large bank scorecard pricing 
+methodology, 76 institutions would 
+shift from the large bank pricing 
+methodology to the small bank pricing 
+methodology. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00029 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.077</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39822 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+88 See section VII.D., Capital and Earnings 
+Analysis for more details on the estimated changes 
+in annual assessments. 
+89 See, e.g., Hughes, Joseph P., Jagtiani, Julapa, 
+Mester, Loretta J., and Moon, Choon-Geol, ‘‘Does 
+scale matter in community bank performance? 
+Evidence obtained by applying several new 
+measures of performance,’’ Journal of Banking & 
+Finance, Volume 106, 2019, https://doi.org/ 
+10.1016/j.jbankfin.2019.07.005; and Kovner, Anna 
+and Vickery, James Ian and Zhou, Lily, ‘‘Do Big 
+Banks Have Lower Operating Costs?’’ Federal 
+Reserve Bank of New York, Economic Policy 
+Review, Vol. 20, No. 2, 2014, https://
+www.newyorkfed.org/medialibrary/media/research/ 
+epr/2014/EPRvol20no2.pdf. 
+90 Analysis of disparities in assessment rates from 
+1995 to 1996 found that banks with higher 
+assessments shifted to longer maturity and higher 
+yielding assets. See: Shoukry, George F., ‘‘Insurance 
+Pricing, Distortions, and Moral Hazard: Quasi- 
+Experimental Evidence from Deposit Insurance’’, 
+Journal of Financial and Quantitative Analysis. 
+2024; Vol. 59(2), pages 896–932, https://doi.org/ 
+10.1017/S0022109022001491. 
+91 As discussed previously, institutions 
+reclassified from large to small may experience a 
+cliff effect after switching assessment pricing 
+frameworks. Such institutions could mitigate any 
+changes in assessment costs (and any costs 
+associated with the loss of the option to request 
+discretionary adjustments under the 2011 
+adjustment guidelines) using the proposal’s one- 
+time election to be priced temporarily using the 
+large bank scorecard pricing methodology. See 
+section II.E. for additional details. 
+92 For example, the reclassified banks’ incentives 
+to hold liquid assets or stable funding, which are 
+directly tied to assessments in the large bank 
+scorecard, would be reduced under the proposal. 
+A. Effects on all IDIs 
+Using data as of December 31, 2025, 
+the FDIC estimates the proposal would 
+result in an overall decrease in annual 
+assessments of approximately $4.0 
+billion (1.1 percent of 2025 pre-tax 
+income) when aggregated across the 
+4,345 IDIs.
+88 
+1. Distributional Effects on IDIs 
+Annualized assessments earned for all 
+4,345 IDIs based on data as of December 
+31, 2025, were $12.3 billion in 
+aggregate. Large banks, including highly 
+complex institutions, would pay 
+approximately 33 percent less in 
+assessments under the proposal once 
+revised rate schedules take effect and 
+assuming 75 percent of institutions elect 
+to participate and receive the full RRA 
+(about one year after the effective date 
+of the rule). Small banks, including 
+newly insured institutions, insured 
+branches of foreign banks and those 
+newly defined as small banks under the 
+proposal, would pay approximately 35 
+percent less in assessments under the 
+proposal after the revised rate schedule 
+take effect and the election for 
+reclassified institutions to be priced as 
+large concludes after eight quarters 
+(about two years after the effective date 
+of the rule). The annual reductions 
+could be significant for smaller 
+institutions which typically have higher 
+operational costs relative to their size.
+89 
+2. Effects Due to Reductions in 
+Assessments 
+Institutions with reduced assessments 
+under the proposal would have reduced 
+noninterest expense commensurate with 
+bank size. Affected IDIs could adjust 
+their balance sheet in several ways. 
+First, they could distribute more income 
+to equity holders or retain additional 
+earnings. Second, they could increase 
+noninterest expenses by increasing 
+salaries and employee benefits, 
+expanding premises or fixed assets, or 
+spending more on data processing or 
+other expenses. Third, with reduced 
+expenses related to holding deposits, 
+banks could pay higher interest to 
+depositors and thereby attract more 
+deposits. Fourth, with reduced expenses 
+related to holding deposits, banks could 
+instead rebalance their asset portfolio, 
+subject to their business models, and 
+capital and other regulatory 
+constraints.
+90 The FDIC acknowledges 
+that institutions could vary their 
+responses and does not have the 
+information necessary to quantify the 
+range of responses. 
+Any difference in the rate of return 
+between the DIF and how IDIs choose to 
+employ any assessment reductions as a 
+result of the proposal would produce a 
+general welfare effect. As previously 
+discussed, the FDIC does not have the 
+information to forecast how IDIs will 
+utilize the income resulting from the 
+proposal and therefore cannot quantify 
+any such effects. 
+B. Effects Specific to Small Institutions 
+As noted previously, under the 
+proposal, the number of IDIs classified 
+as small institutions, including newly 
+insured small institutions and insured 
+branches of foreign institutions, under 
+12 CFR 327 would increase by 76 IDIs 
+to 4,271. The FDIC estimates that these 
+4,271 IDIs would experience a collective 
+decrease in annual assessments of 
+approximately $1.0 billion, under the 
+proposal, relative to the baseline.
+91 
+1. Balance-Sheet Incentives Due to 
+Reclassification 
+For the 76 reclassified institutions, 
+differences between the large bank 
+scorecard and the small bank pricing 
+methodology would change their 
+incentives to hold certain assets or 
+liabilities under the proposal, which 
+may result in changes in these 
+institutions’ balance sheet composition. 
+As noted in section II.C. of this 
+Supplementary Information, these 
+differences arise because the small bank 
+pricing methodology uses a different set 
+of financial measures and weights based 
+on how the measures corresponded with 
+the probability of failure for small 
+banks.
+92 The FDIC lacks specific data to 
+anticipate how these institutions might 
+adjust their operations or balance sheet 
+compositions in response to the 
+proposal. 
+2. Increased Flexibility for Small 
+Institutions Under the Proposal With 
+Assets Between $10 Billion and $30 
+Billion 
+The proposed change in the small 
+institution threshold from $10 billion to 
+$30 billion and the subsequent indexing 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00030 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.078</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39823 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+93 In a historical timeframe, the same approach to 
+indexing would have resulted in fewer banks 
+surpassing a given threshold. In 2021Q4, there were 
+five banks with assets between 85% and 95% of $30 
+billion (another bank was in the process of being 
+acquired). Four years later, four of these banks had 
+surpassed $30 billion. If the $30 billion value were 
+adjusted for CPI–W growth, it would rise to $35.6 
+billion. Only one of the five banks exceeded that 
+size by 2025Q4. So, for this small set of banks near 
+a size threshold (that was not binding at the time), 
+80% surpassed the threshold without indexing, but 
+only 20% surpassed the threshold with indexing. 
+94 Academic research suggests that the higher the 
+cost of due diligence and, more generally, the less 
+relevant information available about a failing 
+institution, the more difficult it becomes for 
+potential acquirers to determine a profitable 
+bidding strategy in the auction. See, e.g., Granja, 
+Joa˜o, ‘‘The Relation Between Bank Resolutions and 
+Information Environment: Evidence from the 
+Auctions for Failed Banks,’’ Journal of Accounting 
+Research, 2013, Vol. 51 (5), https://doi.org/10.1111/ 
+1475-679X.12028 and references therein. 
+95 See section X.A for additional details. The 
+estimated number of respondents for the data access 
+component is 
+3⁄4 of 56, or 42 institutions, because 
+of the four-year cycle for that component. 
+96 The FDIC’s estimated allocations of labor 
+associated with the reporting compliance burden 
+for institutions that would elect to participate in 
+and complete the VDR and data access components 
+reflects an assumption that the majority will be 
+attributable to financial analysts (including 
+accountants and risk management specialists) and 
+information technology occupations, with 
+executives and managers, and legal occupations 
+accounting for the remaining balance. The 
+estimated weighted average hourly compensation 
+cost of these employees are found by using the 75th 
+percentile hourly wages reported by the Bureau of 
+Labor Statistics (BLS) National Industry-Specific 
+Occupational Employment and Wage Estimates for 
+the relevant occupations in the Depository Credit 
+Intermediation sector, as of May 2024. These wages 
+are adjusted to account for inflation and non- 
+monetary compensation rates for health and other 
+benefits, as of March 2024, to provide a 
+comprehensive estimate of overall compensation. 
+97 The burden excludes any costs incurred by the 
+FDIC to set up and administer the program. This 
+analysis does not quantify the proposal’s effect on 
+FDIC administrative costs. 
+98 For a large or highly complex institutions that 
+receives the downward resolution readiness 
+adjustment under the proposal, the unsecured debt 
+adjustment is limited to the lesser of 5 basis points 
+or 50 percent of the bank’s initial base assessment 
+rate less any applicable RRA. 
+that would be applied to the threshold 
+would provide increased flexibility to 
+all banks between these thresholds as 
+well as banks close to $10 billion. To 
+the extent the $10 billion threshold 
+created barriers for banks to grow 
+beyond it, increasing the threshold 
+would allow more banks to determine 
+size based on business needs rather than 
+a regulatory threshold. Due to inflation, 
+the nominal threshold contracts in real 
+terms, so even a bank maintaining a 
+stable operational size could potentially 
+grow to over $10 billion. As is described 
+in the preamble, raising the threshold to 
+$30 billion would restore the original 
+stratification of bank sizing, in terms of 
+the distribution of banks across sizes. 
+Moreover, indexing bank classification 
+thresholds with CPI–W will improve 
+transparency and predictability of 
+regulatory requirements, allowing banks 
+to plan operations with more certainty. 
+For example, suppose that inflation is 
+2.5 percent, a bank of $27 billion (10 
+percent below the proposed large-bank 
+size threshold) could maintain steady 
+operations in real terms for four years 
+and remain below the nominal 
+threshold. At that point, if the threshold 
+rose in line with the CPI–W, the bank 
+could expect to remain below the large 
+bank threshold. As such, a bank with 
+nominal growth could stay constant in 
+real terms and experience greater 
+regulatory certainty.
+93 
+C. Effects Specific to Large or Highly 
+Complex Institutions That Would Elect 
+To Participate in VDR Testing and 
+Provide Prescribed Data Access 
+This subsection discusses the large or 
+highly complex institutions that would 
+elect to participate in VDR testing and 
+provide the prescribed data access, and 
+the benefits and costs of that choice. 
+The FDIC does not have data to predict 
+the number of large or highly complex 
+institutions that would elect to 
+participate in, and successfully pass, 
+VDR testing and provide the prescribed 
+data access. For simplicity, and to 
+provide a quantitative discussion of 
+benefits and costs under the proposal, 
+the FDIC assumes that 75 percent of 
+institutions would elect to participate 
+under the proposal. 
+1. Benefits 
+As noted previously, under the 
+proposal, the number of institutions 
+classified as large and highly complex 
+would decrease to 74. The FDIC 
+estimates that the proposal would 
+generally decrease annual assessments 
+for these institutions by approximately 
+33 percent once all components of the 
+proposal are implemented and assuming 
+75 percent of large and highly complex 
+institutions elect to participate and 
+receive the full RRA. 
+Institutions that elect to complete one 
+or both resolution readiness 
+components would directly benefit from 
+a decrease in assessments, which if 
+invested, could earn additional returns. 
+Institutions that elect to complete one or 
+both components would demonstrate 
+readiness for rapid resolution which 
+could pose benefits to the institution 
+and to the FDIC, both before and during 
+the resolution process. For example, the 
+VDR testing and data access engagement 
+could provide information to 
+participating IDIs that may help 
+optimize their business or identify ways 
+to reduce their risk of loss. In the event 
+of failure, the FDIC may need less time 
+to set up a VDR. Providing access to 
+more complete, timely, and accurate 
+data during the bidding process could 
+also preserve the franchise value of the 
+institution, decrease administrative 
+costs of the receivership, and in turn, 
+reduce costs to the DIF in the event of 
+a failure.
+94 
+2. Reporting Burden 
+As discussed above, the FDIC assumes 
+75 percent of large and highly complex 
+institutions would elect to participate in 
+and complete both the VDR and data 
+access components. The total estimated 
+voluntary burden borne by these 56 
+institutions in the first three years under 
+the proposal would be approximately 
+3,893 hours per year.
+95 Using an 
+estimated wage rate of $110.95 96 per 
+hour, this would amount to total 
+estimated reporting costs of 
+approximately $431,928 annually for 
+the participating institutions 
+(constituting less than half a percent of 
+their aggregate total noninterest 
+expenses).
+97 
+3. Additional Economic Considerations 
+and Effects 
+Institutions that elect to participate 
+would likely incur some regulatory 
+costs, in addition to the reporting costs 
+presented above, to transition their 
+internal systems and processes. The 
+FDIC does not have access to 
+information that would enable it to 
+estimate such costs. However, the FDIC 
+expects that such costs are likely to be 
+small relative to the size of the 
+institutions. 
+Under the proposal, when the 
+designated reserve ratio is less than 2 
+percent, the application of the 
+unsecured debt adjustment would start 
+from a lower base assessment rate (after 
+factoring in the downward adjustments) 
+for a large or highly complex institution 
+that elects to participate in and 
+complete both the VDR and data access 
+components.
+98 As of December 2025, 45 
+large or highly complex institutions 
+received an unsecured debt adjustment 
+under the baseline. For such 
+institutions, participation in the VDR 
+and data access components may 
+change their preferences for the funding 
+mix. 
+The proposal would revise the 
+assessment rate schedules for large and 
+highly complex institutions when the 
+designated reserve ratio reaches its 
+statutorily mandated level of 2 percent. 
+The revised assessment rates would 
+maintain the adjustments for 
+institutions participating in the VDR 
+and data access components and for 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00031 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39824 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+99 FDIC Call Report data as of March 31, 2025 
+through December 31, 2025, reported as of February 
+16, 2026. 
+100 The EGRPRA requires that regulations 
+prescribed by the Federal Financial Institutions 
+Examination Council, Office of the Comptroller of 
+the Currency, Federal Deposit Insurance 
+Corporation, and Board of Governors of the Federal 
+Reserve System be reviewed by the agencies not 
+less frequently than once every 10 years. The 
+purpose of the EGRPRA review is to identify 
+outdated or unnecessary regulations and consider 
+how to reduce regulatory burden on insured 
+depository institutions while, at the same time, 
+ensuring their safety and soundness and the safety 
+and soundness of the financial system. Public Law 
+104–208, Div. A, Title II, section 2222, 110 Stat. 
+3009–414 (1996) (codified at 12 U.S.C. 3311). See 
+also Regulatory Publication and Review Under the 
+Economic Growth and Regulatory Paperwork 
+Reduction Act of 1996, 90 FR 35241 (Jul. 25, 2025). 
+their unsecured debt while recognizing 
+the reduced need for assessment 
+collections. Such changes may 
+perpetuate changes to the long-run 
+optimal funding mix for large and 
+highly complex institutions, relative to 
+the baseline levels. The FDIC does not 
+have data on institutions’ business 
+models, or associated costs/benefits of 
+changes in their funding mix in future 
+periods to predict their responses to this 
+aspect of the proposal. 
+Finally, any additional costs that 
+institutions incur after electing to 
+complete both the resolution readiness 
+components may not have significant 
+adverse impacts on the provision of 
+banking services such as originating and 
+servicing loans, processing payments, or 
+various financial market activities that 
+the institutions may be involved in. 
+This analysis illustrates that estimated 
+reporting costs in future years would 
+constitute less than half a percent of 
+current noninterest expenses
+99 for all 
+large and highly complex institutions. 
+Overall, the FDIC expects that 
+institutions that elect to participate 
+would likely not do so if they determine 
+the costs to be significantly greater than 
+the benefits. 
+D. Effects on the Deposit Insurance 
+Fund and Safety and Soundness 
+While the estimated reductions in 
+assessments under the proposal would 
+result in a reduced DIF balance relative 
+to the baseline, as described previously, 
+the FDIC expects a reduction in the 
+losses to the DIF in the event of the 
+failure of a large or highly complex 
+institution that would elect to 
+participate and complete the resolution 
+readiness components. The 
+reclassification of some institutions 
+under the proposal from large to small 
+would focus the overall assessment 
+framework on the most salient aspects 
+of an institution’s risk profile. This 
+focus would promote institutions’ safety 
+and soundness while reducing 
+assessment burden and enabling 
+additional economic activity. 
+E. Conclusion 
+The proposal, if finalized, would 
+provide meaningful economic relief to 
+IDIs through lower assessment rates. 
+The proposal would lower the 
+assessment rate by 2 basis points for 
+small institutions and 1 basis point for 
+large and highly complex institutions. 
+Additionally, it would establish VDR 
+test and data access engagement that 
+would provide meaningful downward 
+adjustments to assessment rates for large 
+and highly complex institutions that 
+would elect to participate. In total, the 
+proposal would result in an estimated 
+reduction of approximately $4.0 billion 
+(approximately 33 percent) in annual 
+deposit insurance assessments, once 
+revised rate schedules take effect and 
+assuming 75 percent of large and highly 
+complex institutions elect to participate 
+and receive the full RRA. 
+Provisions in the proposed rule would 
+provide additional benefits to the 
+banking industry. The increase in the 
+large institution threshold and indexing 
+thereof would increase flexibility to 
+affected IDIs, especially to those with 
+total assets near $10 billion for whom 
+the current threshold imposes 
+disincentives to grow. The VDR test and 
+data access engagement would provide 
+information to participating IDIs that 
+may help optimize their business or 
+identify ways to reduce their risk of 
+loss. The information gleaned from 
+these tests would reduce losses to the 
+DIF in the event of the failure of a large 
+or highly complex institution, which 
+would mitigate the reduced DIF revenue 
+growth. As described previously, 
+participating institutions could 
+experience voluntary reporting burdens 
+(constituting less than half a percent of 
+their aggregate total noninterest 
+expenses). Such institutions could also 
+incur regulatory burdens to transition 
+their internal systems and processes, 
+which are likely to be small. The FDIC 
+expects that institutions that elect to 
+participate would likely not do so if 
+they determine the costs to be greater 
+than the benefits. 
+Proposed technical changes to 12 CFR 
+327 and removal of unnecessary or 
+obsolete provisions would also provide 
+benefits to the banking industry and the 
+public through increased clarity and 
+improved ease of references. 
+Given the effects described above, the 
+FDIC expects the benefits of the 
+proposal to justify its costs. The FDIC 
+invites comments on this analysis. The 
+FDIC is particularly interested in 
+comments on any material economic 
+effects that the agency has not 
+identified. 
+IX. Request for Comment 
+In addition to its request for comment 
+on specific parts of the proposal, the 
+FDIC seeks comment on all aspects of 
+this proposed rulemaking. 
+Elements of the proposal, including 
+the proposed reduction in initial base 
+assessment rate schedules and the 
+update to the $10 billion asset threshold 
+in the definitions of small and large 
+institutions to $30 billion, would 
+address comments received from the 
+Economic Growth and Regulatory 
+Paperwork Reduction Act of 1996 
+(EGRPRA) public notices.
+100 
+X. Regulatory Analysis 
+A. Paperwork Reduction Act 
+This notice of proposed rulemaking 
+has been reviewed for compliance with 
+the Paperwork Reduction Act of 1995 
+(PRA) (44 U.S.C. 3501 et seq.). In 
+accordance with the PRA, the FDIC may 
+not conduct or sponsor, and an 
+organization is not required to respond 
+to, an information collection unless the 
+information collection displays a 
+currently valid Office of Management 
+and Budget (OMB) control number. The 
+FDIC has reviewed the notice of 
+proposed rulemaking and determined 
+that it would introduce new information 
+collection requirements pursuant to the 
+PRA and necessitate clarification of the 
+instructions to reporting for depository 
+institutions. 
+The FDIC is seeking a new control 
+number for these information collection 
+requirements and will submit them to 
+OMB for review and approval. 
+Proposed Information Collection 
+Title: Resolution Readiness 
+Adjustments. 
+OMB Control No.: 3064–NEW. 
+Type of Review: Regular. 
+Affected Public: Businesses or other 
+for-profit. 
+Description: Among other things, the 
+proposal would provide a downward 
+resolution readiness adjustment to 
+assessment rates for large and highly 
+complex institutions, including 0.5 
+basis points for passing virtual data 
+room testing and 0.5 basis points for 
+providing the prescribed data access. 
+The information collection requirements 
+in the proposed rule are as follows: 
+Section 327.18(d) would allow a large 
+or highly complex financial institution 
+to submit to the FDIC a notice of 
+election to participate in the resolution 
+readiness adjustment. 
+Section 327.18(e) would allow a large 
+or highly complex financial institution 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00032 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39825 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+to submit to the FDIC information 
+relating to the virtual data room 
+capabilities test. 
+Section 327.18(f) would allow a large 
+or highly complex financial institution 
+to submit to the FDIC information 
+relating to the data access capabilities 
+test. 
+Section 327.18(f)(3)(i) would allow a 
+large or highly complex financial 
+institution to submit to the FDIC 
+information relating to a material 
+change notice. 
+BILLING CODE 6714–01–P 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00033 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39826 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00034 Fmt 4701 Sfmt 4725 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.079</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39827 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+101 5 U.S.C. 601 et seq. 
+102 The SBA defines a small banking organization 
+as having $850 million or less in assets, where an 
+organization’s ‘‘assets are determined by averaging 
+the assets reported on its four quarterly financial 
+statements for the preceding year.’’ See 13 CFR 
+121.201 (as amended by 87 FR 69118, effective Dec. 
+19, 2022). In its determination, the ‘‘SBA counts the 
+receipts, employees, or other measure of size of the 
+concern whose size is at issue and all of its 
+domestic and foreign affiliates.’’ See 13 CFR 
+121.103. Following these regulations, the FDIC uses 
+an insured depository institution’s affiliated and 
+acquired assets, averaged over the preceding four 
+quarters, to determine whether the insured 
+depository institution is ‘‘small’’ for the purposes of 
+RFA. 
+103 5 U.S.C. 601. 
+104 Note that the definition of small institution at 
+12 CFR 327.8(e) encompasses all ‘‘small entities’’, 
+as defined by the RFA. 
+105 Analysis is based on data from the Call Report 
+for the reporting period that ended December 31, 
+2025, reported as of February 16, 2026. 
+BILLING CODE 6714–01–C 
+This final rule will also necessitate 
+clarifications of the instructions to 
+reporting for depository institutions. 
+The FDIC will coordinate with the 
+Office of the Comptroller of the 
+Currency and Board of Governors of the 
+Federal Reserve System, under the 
+auspices of the Federal Financial 
+Institutions Examination Council 
+(FFIEC), to separately address such 
+clarifications to the instructions to the 
+Consolidated Reports of Condition and 
+Income (Call Report) (FFIEC 031, FFIEC 
+041, and FFIEC 051; OMB Nos. 1557– 
+0081; 3064 0052, and 7100–0036). 
+Comments are invited on: 
+(a) Whether the collection of 
+information is necessary for the proper 
+performance of the FDIC’s functions, 
+including whether the information has 
+practical utility; 
+(b) The accuracy of the estimate of the 
+burden of the information collection, 
+including the validity of the 
+methodology and assumptions used; 
+(c) Ways to enhance the quality, 
+utility, and clarity of the information to 
+be collected; and 
+(d) Ways to minimize the burden of 
+the information collection on 
+respondents, including through the use 
+of automated collection techniques or 
+other forms of information technology. 
+All comments will become a matter of 
+public record. Comments on aspects of 
+this proposed rule that may affect 
+reporting, recordkeeping, or disclosure 
+requirements and burden estimates 
+should be sent to the address listed in 
+the 
+ADDRESSES section. Written 
+comments and recommendations for 
+this information collection also should 
+be sent within 60 days of publication of 
+this document to www.reginfo.gov/ 
+public/do/PRAMain. Find this 
+particular information collection by 
+selecting ‘‘Currently under 60-day 
+Review—Open for Public Comments’’ or 
+by using the search function. 
+B. Regulatory Flexibility Act 
+The Regulatory Flexibility Act (RFA) 
+generally requires an agency, in 
+connection with a proposed rule, to 
+prepare and make available for public 
+comment an initial regulatory flexibility 
+analysis that describes the impact of the 
+proposed rule on small entities.
+101 
+However, an initial regulatory flexibility 
+analysis is not required if the agency 
+certifies that the proposed rule will not, 
+if promulgated, have a significant 
+economic impact on a substantial 
+number of small entities. The Small 
+Business Administration (SBA) has 
+defined ‘‘small entities’’ to include 
+banking organizations with total assets 
+of less than or equal to $850 million.
+102 
+Generally, the FDIC considers a 
+significant economic impact to be a 
+quantified effect in excess of 5 percent 
+of total annual salaries and benefits or 
+2.5 percent of total noninterest 
+expenses. The FDIC believes that effects 
+in excess of one or more of these 
+thresholds typically represent 
+significant economic impacts for FDIC- 
+supervised institutions. 
+Certain types of rules, such as rules 
+relating to rates, corporate or financial 
+structures, or practices relating to such 
+rates or structures, are expressly 
+excluded from the definition of ‘‘rule’’ 
+for purposes of RFA.
+103 Because the 
+proposed rule relates directly to the 
+assessment rates imposed on insured 
+depository institutions for deposit 
+insurance and to the deposit insurance 
+assessment system that determines each 
+bank’s assessment rate, the proposed 
+rule is not subject to RFA. Nonetheless, 
+the FDIC is voluntarily presenting the 
+following information and is seeking 
+comment on whether, and the extent to 
+which, the proposed rule would affect 
+small entities. 
+As noted above, the FDIC is proposing 
+several revisions to its risk-based 
+deposit insurance assessment 
+framework. The FDIC is proposing to: 
+(1) update definitions of small and large 
+institutions;
+104 (2) decrease initial base 
+assessment rate schedules by 2 basis 
+points for small institutions and by 1 
+basis point for large and highly complex 
+institutions; (3) and provide a 
+downward adjustment of up to 1 basis 
+point for large and highly complex 
+institutions based on their election to 
+participate in the virtual data room 
+testing and data access exercise. In 
+addition, the FDIC is proposing to make 
+certain technical amendments to the 
+assessment regulations to remove 
+obsolete provisions. 
+As of December 31, 2025, the FDIC 
+insured 4,345 institutions,
+105 of which 
+2,996 were ‘‘small entities’’ for purposes 
+of RFA. The proposed 2 basis point 
+reduction in initial base assessment rate 
+schedules for small institutions is the 
+only aspect of the proposed rule that 
+would affect small entities, because no 
+small entities have over $10 billion in 
+assets, and no small entities are large or 
+highly complex institutions. 
+As mentioned previously, all small 
+entities would see a 2 basis point 
+reduction in their initial base 
+assessment rate. Based on Call Report 
+data as of December 31, 2025, the FDIC 
+estimates that only two small entities 
+would experience reduced assessment 
+costs in excess of 5 percent of total 
+annual salaries and benefits or 2.5 
+percent of total noninterest expenses. 
+Thus, the proposed 2 basis point 
+assessment reduction is unlikely to 
+result in a significant impact on a 
+substantial number of small entities. 
+The FDIC welcomes comments on any 
+aspect of the information presented in 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00035 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4
+EP30JN26.080</GPH>
+khammond on DSK9W7S144PROD with PROPOSALS4
+
+39828 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+106 12 U.S.C. 4802(a). 
+107 12 U.S.C. 4802(b). 
+108 Public Law 106–102, section 722, 113 Stat. 
+1338, 1471 (1999), 12 U.S.C. 4809. 
+the Regulatory Flexibility Act section 
+and requests comment on whether the 
+proposed rule has a significant effect on 
+a substantial number of small entities. 
+C. Riegle Community Development and 
+Regulatory Improvement Act 
+Pursuant to section 302(a) of the 
+Riegle Community Development and 
+Regulatory Improvement Act of 1994 
+(RCDRIA),
+106 in determining the 
+effective date and administrative 
+compliance requirements for new 
+regulations that impose additional 
+reporting, disclosure, or other 
+requirements on IDIs, each Federal 
+banking agency must consider, 
+consistent with principles of safety and 
+soundness and the public interest, any 
+administrative burdens that such 
+regulations would place on affected 
+depository institutions, including small 
+depository institutions, and customers 
+of depository institutions, as well as the 
+benefits of such regulations. In addition, 
+section 302(b) of the RCDRIA requires 
+new regulations and amendments to 
+regulations that impose additional 
+reporting, disclosures, or other new 
+requirements on IDIs generally to take 
+effect on the first day of a calendar 
+quarter that begins on or after the date 
+on which the regulations are published 
+in final form. The FDIC invites 
+comments that further will inform its 
+consideration of the RCDRIA.
+107 
+D. Plain Language 
+Section 722 of the Gramm-Leach- 
+Bliley Act 108 requires the Federal 
+banking agencies to use plain language 
+in all proposed and final rulemakings 
+published in the Federal Register after 
+January 1, 2000. The FDIC invites your 
+comments on how to make this 
+proposed rule easier to understand, 
+including the following: 
+• Has the FDIC organized the material 
+to suit your needs? If not, how could the 
+proposed rule be more clearly stated? 
+• Are the requirements in the 
+proposed rule clearly stated? If not, how 
+could the proposed rule be more clearly 
+stated? 
+• Does the proposed rule contain 
+language or jargon that is not clear? If 
+so, which language requires 
+clarification? 
+• Would a different format (grouping 
+and order of sections, use of headings, 
+paragraphing) make the proposed rule 
+easier to understand? If so, what 
+changes to the format would make the 
+proposed rule easier to understand? 
+• What else could the FDIC do to 
+make the proposed rule easier to 
+understand? 
+E. Executive Orders 12866, 13563, and 
+14192 
+Executive Order 12866 directs 
+agencies to assess the costs and benefits 
+of available regulatory alternatives and, 
+if regulation is necessary, to select 
+regulatory approaches that maximize 
+net benefits. This proposed rule was 
+drafted and reviewed in accordance 
+with Executive Order 12866. Within 
+OMB, the Office of Information and 
+Regulatory Affairs (OIRA) has 
+determined that this rulemaking is a 
+‘‘significant regulatory action’’ under 
+section 3(f)(1) of Executive Order 12866. 
+Accordingly, the draft rule was 
+submitted to OIRA for review. As noted 
+in other sections of the 
+SUPPLEMENTARY 
+INFORMATION of this document, the FDIC 
+has assessed the costs and benefits of 
+this rulemaking and has made a 
+reasoned determination that the benefits 
+of this rulemaking justify its costs. 
+Executive Order 14192, titled 
+‘‘Unleashing Prosperity Through 
+Deregulation,’’ was issued on January 
+31, 2025. Section 3(a) of Executive 
+Order 14192 requires an agency, unless 
+prohibited by law, to identify at least 
+ten existing regulations to be repealed 
+when the agency publicly proposes for 
+notice and comment or otherwise 
+promulgates a new regulation. In 
+furtherance of this standard, section 3(c) 
+of Executive Order 14192 requires that 
+the new incremental costs associated 
+with new regulations shall, to the extent 
+permitted by law, be offset by the 
+elimination of existing costs associated 
+with at least ten prior regulations. This 
+proposed rule, if finalized as proposed, 
+is not expected to be a regulatory action 
+under Executive Order 14192. 
+List of Subjects in 12 CFR Part 327 
+Bank deposit insurance, Banks, 
+Banking, Savings associations. 
+For the reasons stated in the 
+preamble, the Federal Deposit Insurance 
+Corporation proposes to amend 12 CFR 
+part 327 as follows: 
+PART 327—ASSESSMENTS 
+■ 1. The authority citation for part 327 
+continues to read as follows: 
+Authority: 12 U.S.C. 1813, 1815, 1817–19, 
+1821, 1823. 
+■ 2. Amend § 327.4(c) by removing 
+‘‘(§ 327.16(f)(3))’’ after the word 
+‘‘institution’’ in the third sentence. 
+■ 3. Amend § 327.8 by revising 
+paragraphs (e), (f), and (g) to read as 
+follows: 
+* * * * * 
+(e) Small institution. 
+(1) In general. An insured depository 
+institution with total assets of less than 
+$30 billion, excluding assets as 
+described in § 327.17(e), as of [effective 
+date of rule], and an insured branch of 
+a foreign institution shall be classified 
+as a small institution. 
+(2) Transition from large to small 
+institution. Except as provided in 
+paragraph (e)(3) of this section, if an 
+institution classified as large under 
+paragraph (f) of this section reports total 
+assets of less than $30 billion in its 
+quarterly reports of condition for four 
+consecutive quarters after [effective date 
+of rule], excluding assets as described in 
+§ 327.17(e), the FDIC will reclassify the 
+institution as small beginning the 
+following quarter. 
+(3) CBLR exception. An insured 
+depository institution that elects to use 
+the community bank leverage ratio 
+framework under 12 CFR 3.12(a)(3), 12 
+CFR 217.12(a)(3), or 12 CFR 
+324.12(a)(3), shall be classified as a 
+small institution, even if that institution 
+otherwise would be classified as a large 
+institution under paragraph (f) of this 
+section. 
+(4) One-time election. An institution 
+with total assets of more than $10 
+billion but less than $30 billion as of 
+[effective date of rule] that was 
+classified as large under paragraph (f) of 
+this section for [the assessment period 
+immediately preceding effective date of 
+rule] may elect to continue to be 
+classified as large until [eight quarters 
+from effective date of rule]. 
+(i) An institution that makes this 
+election will be classified as small 
+starting [ninth quarter after effective 
+date of rule] if it reports total assets less 
+than $30 billion in its quarterly reports 
+of condition for the quarter ending 
+[eighth quarter after effective date of 
+rule]. 
+(ii) An institution that makes this 
+election and reports total assets of $30 
+billion or more for four consecutive 
+quarters will be classified as a large 
+institution until it is reclassified as 
+small under paragraph (e)(2) of this 
+section. 
+(iii) An institution that makes this 
+election will not be subject to the 
+resolution readiness adjustment under 
+§ 327.18 unless it satisfies the definition 
+of large or highly complex institution 
+because it reports total assets of $30 
+billion or more for four consecutive 
+quarters. 
+(f) Large institution. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00036 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39829 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+(1) In general. An insured depository 
+institution with total assets of $30 
+billion or more, excluding assets as 
+described in § 327.17(e), as of [effective 
+date of rule] (other than an insured 
+branch of a foreign bank or a highly 
+complex institution) shall be classified 
+as a large institution. 
+(2) Transition from small to large 
+institution. If an institution classified as 
+small under paragraph (e) of this section 
+reports total assets of $30 billion or 
+more in its quarterly reports of 
+condition for four consecutive quarters 
+after [effective date of final rule], 
+excluding assets as described in 
+§ 327.17(e), the FDIC will reclassify the 
+institution as large beginning the 
+following quarter. 
+(g) Highly complex institution. 
+(1) * * * 
+(2) Control has the same meaning as 
+in section 3(w)(5) of the FDI Act. A U.S. 
+parent holding company is a parent 
+holding company incorporated or 
+organized under the laws of the United 
+States or any State, as the term ‘‘State’’ 
+is defined in section 3(a)(3) of the FDI 
+Act. If, after December 31, 2010, an 
+institution classified as highly complex 
+under paragraph (g)(1)(i) of this section 
+falls below $50 billion in total assets in 
+its quarterly reports of condition for four 
+consecutive quarters, or its parent 
+holding company or companies fall 
+below $500 billion in total assets for 
+four consecutive quarters, the FDIC will 
+reclassify the institution beginning the 
+following quarter. If, after December 31, 
+2010, an institution classified as highly 
+complex under paragraph (g)(1)(ii) of 
+this section falls below $10 billion in 
+total assets for four consecutive 
+quarters, the FDIC will reclassify the 
+institution beginning the following 
+quarter. 
+* * * * * 
+■ 4. Amend § 327.10 by revising 
+paragraphs (a) through (e) to read as 
+follows: 
+§ 327.10 Assessment rate schedules. 
+(a) Assessment rate schedules for 
+established small institutions and large 
+and highly complex institutions 
+applicable in the first assessment period 
+after December 31, 2022, and in all 
+subsequent assessment periods through 
+the assessment period ending [the 
+quarter prior to the quarter during 
+which a final rule becomes effective], 
+where the reserve ratio of the DIF as of 
+the end of the prior assessment period 
+is less than 2 percent. 
+(1) Initial base assessment rate 
+schedule for established small 
+institutions and large and highly 
+complex institutions. In the first 
+assessment period after December 31, 
+2022, and for all subsequent assessment 
+periods through the assessment period 
+ending [the quarter prior to the quarter 
+during which a final rule becomes 
+effective], where the reserve ratio as of 
+the end of the prior assessment period 
+is less than 2 percent, the initial base 
+assessment rate for established small 
+institutions and large and highly 
+complex institutions, except as 
+provided in paragraph (f) of this section, 
+shall be the rate prescribed in the 
+schedule in the following table: 
+TABLE 1 TO PARAGRAPH (a)(1) INTRODUCTORY TEXT—I NITIAL BASE ASSESSMENT RATE SCHEDULE BEGINNING THE FIRST 
+ASSESSMENT PERIOD AFTER DECEMBER 31, 2022, AND FOR ALL SUBSEQUENT ASSESSMENT PERIODS THROUGH THE  
+ASSESSMENT PERIOD ENDING [THE QUARTER PRIOR TO THE QUARTER DURING WHICH A FINAL RULE BECOMES EF-
+FECTIVE], WHERE THE RESERVE RATIO AS OF THE END OF THE PRIOR ASSESSMENT PERIOD IS LESS THAN 2 PER-
+CENT 1 
+Established small institutions 
+Large & highly 
+complex institutions CAMELS composite 
+1 or 2 3 4 or 5 
+Initial Base Assessment Rate ................................................ 5 to 18 8 to 32 18 to 32 5 to 32 
+1 All amounts for all risk categories are in basis points annually. Initial base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+(i) CAMELS composite 1- and 2-rated 
+established small institutions initial 
+base assessment rate schedule. The 
+annual initial base assessment rates for 
+all established small institutions with a 
+CAMELS composite rating of 1 or 2 
+shall range from 5 to 18 basis points. 
+(ii) CAMELS composite 3-rated 
+established small institutions initial 
+base assessment rate schedule. The 
+annual initial base assessment rates for 
+all established small institutions with a 
+CAMELS composite rating of 3 shall 
+range from 8 to 32 basis points. 
+(iii) CAMELS composite 4- and 5- 
+rated established small institutions 
+initial base assessment rate schedule. 
+The annual initial base assessment rates 
+for all established small institutions 
+with a CAMELS composite rating of 4 or 
+5 shall range from 18 to 32 basis points. 
+(iv) Large and highly complex 
+institutions initial base assessment rate 
+schedule. The annual initial base 
+assessment rates for all large and highly 
+complex institutions shall range from 5 
+to 32 basis points. 
+(2) Total base assessment rate 
+schedule after adjustments. In the first 
+assessment period after December 31, 
+2022, and for all subsequent assessment 
+periods through the assessment period 
+ending [the quarter prior to the quarter 
+during which a final rule becomes 
+effective], where the reserve ratio for the 
+prior assessment period is less than 2 
+percent, the total base assessment rates 
+after adjustments for established small 
+institutions and large and highly 
+complex institutions, except as 
+provided in paragraph (f) of this section, 
+shall be as prescribed in the schedule in 
+the following table: 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00037 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39830 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+TABLE 2 TO PARAGRAPH (a)(2) INTRODUCTORY TEXT—T OTAL BASE ASSESSMENT RATE SCHEDULE (AFTER ADJUST-
+MENTS) 1 BEGINNING THE FIRST ASSESSMENT PERIOD AFTER DECEMBER 31, 2022, AND FOR ALL SUBSEQUENT AS-
+SESSMENT PERIODS THROUGH THE ASSESSMENT PERIOD ENDING [THE QUARTER PRIOR TO THE QUARTER DURING 
+WHICH A FINAL RULE BECOMES EFFECTIVE], WHERE THE RESERVE RATIO AS OF THE END OF THE PRIOR ASSESS-
+MENT PERIOD IS LESS THAN 2 PERCENT 2 
+Established small institutions 
+Large & highly 
+complex institutions CAMELS composite 
+1 or 2 3 4 or 5 
+Initial Base Assessment Rate ................................................ 5 to 18 8 to 32 18 to 32 5 to 32 
+Unsecured Debt Adjustment .................................................. ¥5 to 0 ¥5 to 0 ¥5 to 0 ¥5 to 0 
+Brokered Deposit Adjustment ................................................ N/A N/A N/A 0 to 10 
+Total Base Assessment Rate ......................................... 2.5 to 18 4 to 32 13 to 32 2.5 to 42 
+1 The depository institution debt adjustment, which is not included in the table, can increase total base assessment rates above the maximum 
+assessment rates shown in the table. 
+2 All amounts for all risk categories are in basis points annually. Total base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+(i) CAMELS composite 1- and 2-rated 
+established small institutions total base 
+assessment rate schedule. The annual 
+total base assessment rates for all 
+established small institutions with a 
+CAMELS composite rating of 1 or 2 
+shall range from 2.5 to 18 basis points. 
+(ii) CAMELS composite 3-rated 
+established small institutions total base 
+assessment rate schedule. The annual 
+total base assessment rates for all 
+established small institutions with a 
+CAMELS composite rating of 3 shall 
+range from 4 to 32 basis points. 
+(iii) CAMELS composite 4- and 5- 
+rated established small institutions total 
+base assessment rate schedule. The 
+annual total base assessment rates for all 
+established small institutions with a 
+CAMELS composite rating of 4 or 5 
+shall range from 13 to 32 basis points. 
+(iv) Large and highly complex 
+institutions total base assessment rate 
+schedule. The annual total base 
+assessment rates for all large and highly 
+complex institutions shall range from 
+2.5 to 42 basis points. 
+(b) Assessment rate schedules for 
+established small institutions and large 
+and highly complex institutions 
+beginning [the quarter in which a final 
+rule becomes effective], where the 
+reserve ratio of the DIF as of the end of 
+the prior assessment period is less than 
+2 percent. 
+(1) Initial base assessment rate 
+schedule for established small 
+institutions and large and highly 
+complex institutions. Beginning [the 
+quarter in which a final rule becomes 
+effective], where the reserve ratio of the 
+DIF as of the end of the prior assessment 
+period is less than 2 percent, the initial 
+base assessment rate for established 
+small institutions and large and highly 
+complex institutions, except as 
+provided in paragraph (f) of this section, 
+shall be the rate prescribed in the 
+schedule in the following table: 
+TABLE 3 TO PARAGRAPH (b)(1) INTRODUCTORY TEXT—I NITIAL BASE ASSESSMENT RATE SCHEDULE BEGINNING [THE 
+QUARTER IN WHICH A FINAL RULE BECOMES EFFECTIVE], W HERE THE RESERVE RATIO AS OF THE END OF THE  
+PRIOR ASSESSMENT PERIOD IS LESS THAN 2 PERCENT 1 
+Established small institutions 
+Large & highly 
+complex institutions CAMELS composite 
+1 or 2 3 4 or 5 
+Initial Base Assessment Rate ................................................ 3 to 16 6 to 30 16 to 30 4 to 31 
+1 All amounts for all risk categories are in basis points annually. Initial base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+(i) CAMELS composite 1- and 2-rated 
+established small institutions initial 
+base assessment rate schedule. The 
+annual initial base assessment rates for 
+all established small institutions with a 
+CAMELS composite rating of 1 or 2 
+shall range from 3 to 16 basis points. 
+(ii) CAMELS composite 3-rated 
+established small institutions initial 
+base assessment rate schedule. The 
+annual initial base assessment rates for 
+all established small institutions with a 
+CAMELS composite rating of 3 shall 
+range from 6 to 30 basis points. 
+(iii) CAMELS composite 4- and 5- 
+rated established small institutions 
+initial base assessment rate schedule. 
+The annual initial base assessment rates 
+for all established small institutions 
+with a CAMELS composite rating of 4 or 
+5 shall range from 16 to 30 basis points. 
+(iv) Large and highly complex 
+institutions initial base assessment rate 
+schedule. The annual initial base 
+assessment rates for all large and highly 
+complex institutions shall range from 4 
+to 31 basis points. 
+(2) Total base assessment rate 
+schedule after adjustments. Beginning 
+[the quarter in which a final rule 
+becomes effective], where the reserve 
+ratio of the DIF as of the end of the prior 
+assessment period is less than 2 percent, 
+the total base assessment rates after 
+adjustments for established small 
+institutions and large and highly 
+complex institutions, except as 
+provided in paragraph (f) of this section, 
+shall be as prescribed in the schedule in 
+the following table: 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00038 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39831 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+TABLE 4 TO PARAGRAPH (b)(2) INTRODUCTORY TEXT—T OTAL BASE ASSESSMENT RATE SCHEDULE (AFTER ADJUST-
+MENTS) 1 BEGINNING [THE QUARTER IN WHICH A FINAL RULE BECOMES EFFECTIVE], WHERE THE RESERVE RATIO AS  
+OF THE END OF THE PRIOR ASSESSMENT PERIOD IS LESS THAN 2 PERCENT 2 
+Established small institutions 
+Large & highly 
+complex institutions CAMELS composite 
+1 or 2 3 4 or 5 
+Initial Base Assessment Rate ................................................ 3 to 16 6 to 30 16 to 30 4 to 31 
+Resolution Readiness Adjustment ......................................... N/A N/A N/A ¥1 to 0 
+Unsecured Debt Adjustment .................................................. ¥5 to 0 ¥5 to 0 ¥5 to 0 ¥5 to 0 
+Brokered Deposit Adjustment ................................................ N/A N/A N/A 0 to 10 
+Total Base Assessment Rate ......................................... 1.5 to 16 3 to 30 11 to 30 1.5 to 41 
+1 The depository institution debt adjustment, which is not included in the table, can increase total base assessment rates above the maximum 
+assessment rates shown in the table. 
+2 All amounts for all risk categories are in basis points annually. Total base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+(i) CAMELS composite 1- and 2-rated 
+established small institutions total base 
+assessment rate schedule. The annual 
+total base assessment rates for all 
+established small institutions with a 
+CAMELS composite rating of 1 or 2 
+shall range from 1.5 to 16 basis points. 
+(ii) CAMELS composite 3-rated 
+established small institutions total base 
+assessment rate schedule. The annual 
+total base assessment rates for all 
+established small institutions with a 
+CAMELS composite rating of 3 shall 
+range from 3 to 30 basis points. 
+(iii) CAMELS composite 4- and 5- 
+rated established small institutions total 
+base assessment rate schedule. The 
+annual total base assessment rates for all 
+established small institutions with a 
+CAMELS composite rating of 4 or 5 
+shall range from 11 to 30 basis points. 
+(iv) Large and highly complex 
+institutions total base assessment rate 
+schedule. The annual total base 
+assessment rates for all large and highly 
+complex institutions shall range from 
+1.5 to 41 basis points. 
+(c) * * * 
+(1) * * * 
+TABLE 5 TO PARAGRAPH (c)(1) INTRODUCTORY TEXT—I NITIAL BASE ASSESSMENT RATE SCHEDULE IF THE RESERVE 
+RATIO AS OF THE END OF THE PRIOR ASSESSMENT PERIOD IS EQUAL TO OR GREATER THAN 2 PERCENT BUT LESS 
+THAN 2.5 PERCENT 1 
+Established small institutions 
+Large & highly 
+complex institutions CAMELS composite 
+1 or 2 3 4 or 5 
+Initial Base Assessment Rate ................................................ 2 to 14 5 to 28 14 to 28 3 to 29 
+1 All amounts for all risk categories are in basis points annually. Initial base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+(i) * * * 
+(ii) * * * 
+(iii) * * * 
+(iv) Large and highly complex 
+institutions initial base assessment rate 
+schedule. The annual initial base 
+assessment rates for all large and highly 
+complex institutions shall range from 3 
+to 29 basis points. 
+(2) * * * 
+TABLE 6 TO PARAGRAPH (c)(2) INTRODUCTORY TEXT—T OTAL BASE ASSESSMENT RATE SCHEDULE (AFTER ADJUST-
+MENTS)1 IF THE RESERVE RATIO AS OF THE END OF THE PRIOR ASSESSMENT PERIOD IS EQUAL TOO R GREATER 
+THAN 2 PERCENT BUT LESS THAN 2.5 PERCENT 2 
+Established small institutions 
+Large & highly 
+complex institutions CAMELS composite 
+1 or 2 3 4 or 5 
+Initial Base Assessment Rate ................................................ 2 to 14 5 to 28 14 to 28 3 to 29 
+Resolution Readiness Adjustment ......................................... N/A N/A N/A ¥1 to 0 
+Unsecured Debt Adjustment .................................................. ¥5 to 0 ¥5 to 0 ¥5 to 0 ¥5 to 0 
+Brokered Deposit Adjustment ................................................ N/A N/A N/A 0 to 10 
+Total Base Assessment Rate ......................................... 1 to 14 2.5 to 28 9 to 28 1 to 39 
+1 The depository institution debt adjustment, which is not included in the table, can increase total base assessment rates above the maximum 
+assessment rates shown in the table. 
+2 All amounts for all risk categories are in basis points annually. Total base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00039 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39832 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+(i) * * * 
+(ii) * * * 
+(iii) * * * 
+(iv) Large and highly complex 
+institutions total base assessment rate 
+schedule. The annual total base 
+assessment rates for all large and highly 
+complex institutions shall range from 1 
+to 39 basis points. 
+(d) * * * 
+(1) * * * 
+TABLE 7 TO PARAGRAPH (d)(1) INTRODUCTORY TEXT—I NITIAL BASE ASSESSMENT RATE SCHEDULE IF THE RESERVE 
+RATIO AS OF THE END OF THE PRIOR ASSESSMENT PERIOD IS EQUAL TO OR GREATER THAN 2.5 PERCENT 1 
+Established small institutions 
+Large & highly 
+complex institutions CAMELS composite 
+1 or 2 3 4 or 5 
+Initial Base Assessment Rate .................................................... 1 to 13 4 to 25 13 to 25 2 to 26 
+1 All amounts for all risk categories are in basis points annually. Initial base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+(i) * * * 
+(ii) * * * 
+(iii) * * * 
+(iv) Large and highly complex 
+institutions initial base assessment rate 
+schedule. The annual initial base 
+assessment rates for all large and highly 
+complex institutions shall range from 2 
+to 26 basis points. 
+(2) * * * 
+TABLE 8 TO PARAGRAPH (d)(2) INTRODUCTORY TEXT—T OTAL BASE ASSESSMENT RATE SCHEDULE (AFTER ADJUST-
+MENTS) 1 IF THE RESERVE RATIO AS OF THE END OF THE PRIOR ASSESSMENT PERIOD IS EQUAL TO OR GREATER 
+THAN 2.5 PERCENT 2 
+Established small institutions 
+Large & highly 
+complex institutions CAMELS composite 
+1 or 2 3 4 or 5 
+Initial Base Assessment Rate ................................................ 1 to 13 4 to 25 13 to 25 2 to 26 
+Resolution Readiness Adjustment ......................................... N/A N/A N/A ¥1 to 0 
+Unsecured Debt Adjustment .................................................. ¥5 to 0 ¥5 to 0 ¥5 to 0 ¥5 to 0 
+Brokered Deposit Adjustment ................................................ N/A N/A N/A 0 to 10 
+Total Base Assessment Rate ......................................... 0.5 to 13 2 to 25 8 to 25 0.5 to 36 
+1 The depository institution debt adjustment, which is not included in the table, can increase total base assessment rates above the maximum 
+assessment rates shown in the table. 
+2 All amounts for all risk categories are in basis points annually. Total base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+(i) * * * 
+(ii) * * * 
+(iii) * * * 
+(iv) Large and highly complex 
+institutions total base assessment rate 
+schedule. The annual total base 
+assessment rates for all large and highly 
+complex institutions shall range from 
+0.5 to 36 basis points. 
+(e) Assessment rate schedules for new 
+institutions and insured branches of 
+foreign banks. 
+(1) New depository institutions, as 
+defined in § 327.8(j), shall be subject to 
+the assessment rate schedules as 
+follows: 
+(i) Assessment rate schedules for new 
+large and highly complex institutions 
+after December 31, 2022, and through 
+the assessment period ending [the 
+quarter prior to the quarter during 
+which a final rule becomes effective]. In 
+the first assessment period after 
+December 31, 2022, and for all 
+subsequent assessment periods through 
+the assessment period ending [the 
+quarter prior to the quarter during 
+which a final rule becomes effective], 
+new large and new highly complex 
+institutions shall be subject to the initial 
+and total base assessment rate schedules 
+provided for in paragraph (a) of this 
+section. 
+(ii) Assessment rate schedules for new 
+large and highly complex institutions 
+beginning [the quarter in which a final 
+rule becomes effective] and for all 
+subsequent periods. Beginning in [the 
+quarter in which a final rule becomes 
+effective] and for all subsequent 
+assessment periods, new large and new 
+highly complex institutions shall be 
+subject to the initial and total base 
+assessment rate schedules provided for 
+in paragraph (b) of this section. 
+(iii) Assessment rate schedules for 
+new small institutions beginning the 
+first assessment period after December 
+31, 2022, and for all subsequent 
+assessment periods through the 
+assessment period ending [the quarter 
+prior to the quarter during which a final 
+rule becomes effective]— 
+(A) Initial base assessment rate 
+schedule for new small institutions. In 
+the first assessment period after 
+December 31, 2022, and for all 
+subsequent assessment periods through 
+the assessment period ending [the 
+quarter prior to the quarter during 
+which a final rule becomes effective], 
+the initial base assessment rate for a 
+new small institution shall be the rate 
+prescribed in the schedule in the 
+following table: 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00040 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39833 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+TABLE 9 TO PARAGRAPH (e)(1)(iii)(A) INTRODUCTORY TEXT—I NITIAL BASE ASSESSMENT RATE SCHEDULE BEGINNING THE 
+FIRST ASSESSMENT PERIOD AFTER DECEMBER 31, 2022 AND FOR ALL SUBSEQUENT ASSESSMENT PERIODS 
+THROUGH THE ASSESSMENT PERIOD ENDING [THE QUARTER PRIOR TO THE QUARTER DURING WHICH A FINAL RULE 
+BECOMES EFFECTIVE] 1 
+Risk Category I Risk Category II Risk Category III Risk Category IV 
+Initial Assessment Rate ........................................... 9 14 21 32 
+1 All amounts for all risk categories are in basis points annually. 
+(1) Risk category I initial base 
+assessment rate schedule. The annual 
+initial base assessment rates for all new 
+small institutions in Risk Category I 
+shall be 9 basis points. 
+(2) Risk category II, III, and IV initial 
+base assessment rate schedule. The 
+annual initial base assessment rates for 
+all new small institutions in Risk 
+Categories II, III, and IV shall be 14, 21, 
+and 32 basis points, respectively. 
+(B) Total base assessment rate 
+schedule for new small institutions. In 
+the first assessment period after 
+December 31, 2022, and for all 
+subsequent assessment periods through 
+the assessment period ending [the 
+quarter prior to the quarter during 
+which a final rule becomes effective], 
+the total base assessment rates after 
+adjustments for a new small institution 
+shall be the rate prescribed in the 
+schedule in the following table: 
+TABLE 10 TO PARAGRAPH (e)(1)(iii)(B) INTRODUCTORY TEXT—T OTAL BASE ASSESSMENT RATE SCHEDULE (AFTER AD-
+JUSTMENTS) 1 BEGINNING THE FIRST ASSESSMENT PERIOD AFTER DECEMBER 31, 2022, AND FOR ALL SUBSEQUENT 
+ASSESSMENT PERIODS THROUGH THE ASSESSMENT PERIOD ENDING [THE QUARTER PRIOR TO THE QUARTER DURING  
+WHICH A FINAL RULE BECOMES EFFECTIVE ] 2 
+ Risk Category I Risk Category II Risk Category III Risk Category IV 
+Initial Assessment Rate ........................................... 9 14 21 32 
+Brokered Deposit Adjustment (added) .................... N/A 0 to 10 0 to 10 0 to 10 
+Total Base Assessment Rate ........................... 9 14 to 24 21 to 31 32 to 42 
+1 The depository institution debt adjustment, which is not included in the table, can increase total base assessment rates above the maximum 
+assessment rates shown in the table. 
+2 All amounts for all risk categories are in basis points annually. Total base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+(1) Risk category I total assessment 
+rate schedule. The annual total base 
+assessment rates for all new small 
+institutions in Risk Category I shall be 
+9 basis points. 
+(2) Risk category II total assessment 
+rate schedule. The annual total base 
+assessment rates for all new small 
+institutions in Risk Category II shall 
+range from 14 to 24 basis points. 
+(3) Risk category III total assessment 
+rate schedule. The annual total base 
+assessment rates for all new small 
+institutions in Risk Category III shall 
+range from 21 to 31 basis points. 
+(4) Risk category IV total assessment 
+rate schedule. The annual total base 
+assessment rates for all new small 
+institutions in Risk Category IV shall 
+range from 32 to 42 basis points. 
+(iv) Assessment rate schedules for 
+new small institutions beginning the 
+[quarter in which a final rule becomes 
+effective] and for all subsequent 
+assessment periods— 
+(A) Initial base assessment rate 
+schedule for new small institutions. 
+Beginning in [the quarter in which a 
+final rule becomes effective] and for all 
+subsequent assessment periods, the 
+initial base assessment rate for a new 
+small institution shall be the rate 
+prescribed in the schedule in the 
+following table, even if the reserve ratio 
+equals or exceeds 2 percent or 2.5 
+percent: 
+TABLE 11 TO PARAGRAPH (e)(1)(iv)(A) INTRODUCTORY TEXT—I NITIAL BASE ASSESSMENT RATE SCHEDULE BEGINNING 
+THE FIRST ASSESSMENT PERIOD [IN THE QUARTER IN WHICH A FINAL RULE BECOMES EFFECTIVE] AND FOR ALL SUB-
+SEQUENT ASSESSMENT PERIODS 1 
+Risk Category I Risk Category II Risk Category III Risk Category IV 
+Initial Assessment Rate ........................................... 7 12 19 30 
+1 All amounts for all risk categories are in basis points annually. 
+(1) Risk category I initial base 
+assessment rate schedule. The annual 
+initial base assessment rates for all new 
+small institutions in Risk Category I 
+shall be 7 basis points. 
+(2) Risk category II, III, and IV initial 
+base assessment rate schedule. The 
+annual initial base assessment rates for 
+all new small institutions in Risk 
+Categories II, III, and IV shall be 12, 19, 
+and 30 basis points, respectively. 
+(B) Total base assessment rate 
+schedule for new small institutions. 
+Beginning in [the quarter in which a 
+final rule becomes effective] and for all 
+subsequent assessment periods, the total 
+base assessment rates after adjustments 
+for a new small institution shall be the 
+rate prescribed in the schedule in the 
+following table, even if the reserve ratio 
+equals or exceeds 2 percent or 2.5 
+percent: 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00041 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39834 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+TABLE 12 TO PARAGRAPH (e)(1)(iv)(B) INTRODUCTORY TEXT—T OTAL BASE ASSESSMENT RATE SCHEDULE (AFTER AD-
+JUSTMENTS) 1 BEGINNING [THE QUARTER IN WHICH A FINAL RULE BECOMES EFFECTIVE] AND FOR ALL SUBSEQUENT 
+ASSESSMENT PERIODS 2 
+Risk Category I Risk Category II Risk Category III Risk Category IV 
+Initial Assessment Rate ........................................... 7 12 19 30 
+Brokered Deposit Adjustment (added) .................... N/A 0 to 10 0 to 10 0 to 10 
+Total Base Assessment Rate ........................... 7 12 to 22 19 to 29 30 to 40 
+1 The depository institution debt adjustment, which is not included in the table, can increase total base assessment rates above the maximum 
+assessment rates shown in the table. 
+2 All amounts for all risk categories are in basis points annually. Total base rates that are not the minimum or maximum rate will vary between 
+these rates. 
+(1) Risk category I total assessment 
+rate schedule. The annual total base 
+assessment rates for all new small 
+institutions in Risk Category I shall be 
+7 basis points. 
+(2) Risk category II total assessment 
+rate schedule. The annual total base 
+assessment rates for all new small 
+institutions in Risk Category II shall 
+range from 12 to 22 basis points. 
+(3) Risk category III total assessment 
+rate schedule. The annual total base 
+assessment rates for all new small 
+institutions in Risk Category III shall 
+range from 19 to 29 basis points. 
+(4) Risk category IV total assessment 
+rate schedule. The annual total base 
+assessment rates for all new small 
+institutions in Risk Category IV shall 
+range from 30 to 40 basis points. 
+(2) Insured branches of foreign 
+banks— 
+(i) Beginning the first assessment 
+period after December 31, 2022, and for 
+all subsequent assessment periods 
+through the assessment period ending 
+[the quarter prior to the quarter during 
+which a final rule becomes effective], 
+where the reserve ratio as of the end of 
+the prior assessment period is less than 
+2 percent. In the first assessment period 
+after December 31, 2022, and for all 
+subsequent assessment periods through 
+the assessment period ending [the 
+quarter prior to the quarter during 
+which a final rule becomes effective], 
+where the reserve ratio as of the end of 
+the prior assessment period is less than 
+2 percent, the initial and total base 
+assessment rates for an insured branch 
+of a foreign bank, except as provided in 
+paragraph (f) of this section, shall be the 
+rate prescribed in the schedule in the 
+following table: 
+TABLE 13 TO PARAGRAPH (e)(2)(i) INTRODUCTORY TEXT—I NITIAL AND TOTAL BASE ASSESSMENT RATE SCHEDULE 1 BE-
+GINNING THE FIRST ASSESSMENT PERIOD AFTER DECEMBER 31, 2022, AND FOR ALL SUBSEQUENT ASSESSMENT PE-
+RIODS THROUGH THE ASSESSMENT PERIOD ENDING [THE QUARTER PRIOR TO THE QUARTER DURING WHICH A FINAL 
+RULE BECOMES EFFECTIVE], W HERE THE RESERVE RATIO AS OF THE END OF THE PRIOR ASSESSMENT PERIOD IS 
+LESS THAN 2 PERCENT 2 
+Risk Category I Risk Category II Risk Category III Risk Category IV 
+Initial and Total Assessment Rate ........................... 5 to 9 14 21 32 
+1 The depository institution debt adjustment, which is not included in the table, can increase total base assessment rates above the maximum 
+assessment rates shown in the table. 
+2 All amounts for all risk categories are in basis points annually. Initial and total base rates that are not the minimum or maximum rate will vary 
+between these rates. 
+(A) Risk category I initial and total 
+base assessment rate schedule. The 
+annual initial and total base assessment 
+rates for an insured branch of a foreign 
+bank in Risk Category I shall range from 
+5 to 9 basis points. 
+(B) Risk category II, III, and IV initial 
+and total base assessment rate schedule. 
+The annual initial and total base 
+assessment rates for Risk Categories II, 
+III, and IV shall be 14, 21, and 32 basis 
+points, respectively. 
+(C) * * * 
+(ii) Assessment rate schedule for 
+insured branches of foreign banks 
+beginning [the quarter in which a final 
+rule becomes effective], where the 
+reserve ratio of the DIF as of the end of 
+the prior assessment period is less than 
+2 percent. Beginning [the quarter in 
+which a final rule becomes effective], 
+where the reserve ratio of the DIF as of 
+the end of the prior assessment period 
+is less than 2 percent, the initial and 
+total base assessment rates for an 
+insured branch of a foreign bank, except 
+as provided in paragraph (f) of this 
+section, shall be the rate prescribed in 
+the schedule in the following table: 
+TABLE 14 TO PARAGRAPH (e)(2)(ii) INTRODUCTORY TEXT—I NITIAL AND TOTAL BASE ASSESSMENT RATE SCHEDULE 1 BE-
+GINNING [THE QUARTER IN WHICH A FINAL RULE BECOMES EFFECTIVE], WHERE THE RESERVE RATIO AS OF THE END 
+OF THE PRIOR ASSESSMENT PERIOD IS LESS THAN 2 PERCENT 2 
+Risk category I Risk category II Risk category III Risk category IV 
+Initial and Total Assessment Rate ........................... 3 to 7 12 19 30 
+1 The depository institution debt adjustment, which is not included in the table, can increase total base assessment rates above the maximum 
+assessment rates shown in the table. 
+2 All amounts for all risk categories are in basis points annually. Initial and total base rates that are not the minimum or maximum rate will vary 
+between these rates. 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00042 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39835 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+(A) Risk category I initial and total 
+base assessment rate schedule. The 
+annual initial and total base assessment 
+rates for an insured branch of a foreign 
+bank in Risk Category I shall range from 
+3 to 7 basis points. 
+(B) Risk category II, III, and IV initial 
+and total base assessment rate schedule. 
+The annual initial and total base 
+assessment rates for Risk Categories II, 
+III, and IV shall be 12, 19, and 30 basis 
+points, respectively. 
+* * * * * 
+■ 5. Revise § 327.11 to read as follows: 
+§ 327.11 Assessments thresholds 
+indexing. 
+(a) Methodology. The dollar 
+thresholds specified in paragraph (c) of 
+this section shall be adjusted by 
+multiplying the baseline threshold value 
+for the thresholds specified in paragraph 
+(c) of this section by one plus the 
+cumulative percent change in the non- 
+seasonally adjusted Consumer Price 
+Index for Urban Wage Earners and 
+Clerical Workers, measured from [the 
+effective date of this rule], as further 
+described in paragraph (b) of this 
+section, and shall be rounded in 
+accordance with paragraph (d) of this 
+section. 
+(b) Frequency— 
+(1) In general. Except as otherwise 
+provided in paragraph (b)(2) or (3) of 
+this section, the adjustments described 
+in paragraph (a) of this section shall be 
+effective on October 1 following each 
+consecutive four-year period ending 
+August 31, and using the non-seasonally 
+adjusted Consumer Price Index for 
+Urban Wage Earners and Clerical 
+Workers as of August 31 of that year. 
+(2) First adjustment. The first 
+adjustment described in paragraph (a) of 
+this section, which shall be effective on 
+October 1, 2029, shall be made using 
+one plus the cumulative percent change 
+in the non-seasonally adjusted 
+Consumer Price Index for Urban Wage 
+Earners and Clerical Workers through 
+August 31, 2029. 
+(3) Periods of negative inflation. 
+Notwithstanding paragraph (b)(1) or (2) 
+of this section, if an adjustment of dollar 
+thresholds using the cumulative percent 
+change of the non-seasonally adjusted 
+Consumer Price Index for Urban Wage 
+Earners and Clerical Workers from the 
+effective date of this rule or the most 
+recent adjustment, as applicable, would 
+not result in an increase from the 
+current dollar thresholds, no adjustment 
+will be made pursuant to paragraph (a) 
+of this section. 
+(c) Specified thresholds. The 
+thresholds in the following sections 
+shall be adjusted in accordance with 
+paragraph (a) of this section: 
+(1) § 327.8(e), baseline threshold value 
+$30 billion as of October 1, 2029; and 
+(2) § 327.8(f), baseline threshold value 
+$30 billion as of October 1, 2029; 
+(d) Rounding. When adjusting 
+thresholds under this section, each 
+threshold shall be rounded to the 
+nearest number with two significant 
+digits. 
+(e) Effective date of threshold 
+adjustments. The FDIC shall announce 
+the thresholds adjusted in accordance 
+with this section by publishing in the 
+Federal Register a final rule without 
+notice and comment. Such adjusted 
+thresholds shall be effective on October 
+1 of the year during which an 
+adjustment is made. 
+(f) Failure to publish final rule in 
+Federal Register. In the event, for any 
+reason, a final rule is not published in 
+the Federal Register in a year in which 
+an adjustment is made under this 
+section, the thresholds specified in 
+paragraph (c) of this section will adjust 
+as provided in this section and be 
+effective on October 1, notwithstanding 
+the lack of a final rule published in the 
+Federal Register. 
+§ 327.12 [Removed and Reserved] 
+■ 6. Remove and reserve § 327.12. 
+■ 7. Amend § 327.16 as follows: 
+■ a. Revise paragraphs (a)(1)(i) and 
+(d)(4)(ii); 
+■ b. Revise paragraph (e)(1)(ii); 
+■ c. Add new paragraph (e)(4); and 
+■ d. Remove and reserve paragraph (f). 
+The revisions and additions read as 
+follows: 
+§ 327.16 Assessment pricing methods— 
+beginning the first assessment period after 
+June 30, 2016, where the reserve ratio of the 
+DIF as of the end of the prior assessment 
+period has reached or exceeded 1.15 
+percent. 
+* * * * * 
+(a) * * * 
+(1) * * * 
+(i) Uniform amount. Except as 
+adjusted for the actual assessment rates 
+set by the Board under § 327.10(f), the 
+uniform amount shall be: 
+(A) 9.352 whenever the assessment 
+rate schedule set forth in § 327.10(a) is 
+in effect; 
+(B) 7.352 whenever the assessment 
+rate schedule set forth in § 327.10(b) is 
+in effect; 
+(C) 6.188 whenever the assessment 
+rate schedule set forth in § 327.10(c) is 
+in effect; or 
+(D) 4.870 whenever the assessment 
+rate schedule set forth in § 327.10(d) is 
+in effect. 
+* * * * * 
+(d) * * * 
+(4) * * * 
+(ii) Uniform amount. Except as 
+adjusted for the actual assessment rates 
+set by the Board under § 327.10(f), the 
+uniform amount for all insured branches 
+of foreign banks shall be: 
+(A) ¥3.127 whenever the assessment 
+rate schedule set forth in § 327.10(a) is 
+in effect; 
+(B) ¥5.127 whenever the assessment 
+rate schedule set forth in § 327.10(b) is 
+in effect; 
+(C) ¥6.127 whenever the assessment 
+rate schedule set forth in § 327.10(c) is 
+in effect; or 
+(D) ¥7.127 whenever the assessment 
+rate schedule set forth in § 327.10(d) is 
+in effect. 
+* * * * * 
+(e) * * * 
+(1) * * * 
+(ii) Limitation. No unsecured debt 
+adjustment for any institution shall 
+exceed the lesser of 5 basis points or 50 
+percent of the institution’s initial base 
+assessment rate less any applicable 
+resolution readiness adjustment. 
+(iii) * * * 
+(2) * * * 
+(3) * * * 
+(4) Resolution readiness adjustment. 
+All large institutions and all highly 
+complex institutions (including new 
+large and new highly complex 
+institutions) shall be subject to the 
+resolution readiness adjustment under 
+§ 327.18. 
+(f) [Reserved] 
+* * * * * 
+■ 8. Amend § 327.17(e) by removing the 
+last sentence starting with the word 
+‘‘Any’’ and ending with ‘‘§ 327.16(f).’’ 
+■ 9. Add § 327.18 to read as follows: 
+§ 327.18 Resolution Readiness Adjustment 
+for Large Institutions and Highly Complex 
+Institutions. 
+(a) Scope. This section applies to all 
+large institutions as defined in § 327.8(f) 
+and all highly complex institutions as 
+defined in § 327.8(g). 
+(b) Definitions. 
+(1) Data access adjustment means a 
+0.5 basis point downward adjustment 
+applied to a large or highly complex 
+institution’s initial base assessment rate. 
+(2) Key depositors means an 
+institution’s depositors that hold or 
+control the largest deposits (whether in 
+one account or multiple accounts) that 
+collectively are material to one or more 
+business segments. 
+(3) Key personnel has the same 
+meaning as in § 360.10(b) of this 
+chapter, regardless of whether an 
+institution is subject to § 360.10 of this 
+chapter. 
+(4) Material entity has the same 
+meaning as in § 360.10(b) of this 
+chapter, regardless of whether an 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00043 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39836 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+institution is subject to § 360.10 of this 
+chapter. 
+(5) Resolution readiness adjustment 
+means the sum of the virtual data room 
+adjustment and the data access 
+adjustment. 
+(6) Virtual data room means an online 
+repository where information pertinent 
+to a sale or disposition of an institution 
+is maintained in a secure and 
+confidential manner to facilitate, 
+whether by the institution or the FDIC, 
+such sale or disposition to one or more 
+third-party acquirers. 
+(7) Virtual data room adjustment 
+means a 0.5 basis point downward 
+adjustment applied to a large or highly 
+complex institution’s initial base 
+assessment rate. 
+(c) Resolution readiness adjustment. 
+The FDIC will apply an adjustment to a 
+large or highly complex institution’s 
+initial base assessment rate under 
+§ 327.10 as provided in this section. 
+(d) Electing to participate in 
+resolution readiness adjustment. 
+(1) A large or highly complex 
+institution may submit to the FDIC a 
+notice of election to participate in the 
+resolution readiness adjustment. In the 
+notice, an institution may elect to 
+participate in the virtual data room 
+component by providing the 
+information described in paragraph 
+(d)(2)(i) of this section, the data access 
+component by providing the 
+information described in paragraph 
+(d)(2)(ii) of this section, or both. An 
+institution may submit a notice for each 
+component at different times. 
+(2) A notice of election must contain 
+the following: 
+(i) To elect the virtual data room 
+component: 
+(A) Electing institution’s name, 
+charter/certificate number, and mailing 
+address; 
+(B) Contact person including name, 
+title, employer, mailing address, email 
+address, and telephone number; 
+(C) Agreement that the institution will 
+participate in a test of the institution’s 
+capabilities to populate a virtual data 
+room as provided by paragraph (e)(2) of 
+this section; 
+(D) Acknowledgment that any costs 
+required to obtain needed data, 
+information, and other materials to 
+participate in the test under paragraph 
+(e)(2) of this section and to provide and 
+facilitate access to data, documents, and 
+other materials specified by paragraph 
+(e)(1) of this section will be borne by the 
+institution; and 
+(E) A list of key personnel (including 
+those employed by third parties) needed 
+to support the institution’s efforts to 
+participate in a test of its capabilities to 
+populate a virtual data room as 
+provided by paragraph (e)(2) of this 
+section. 
+(ii) To elect the data access 
+component: 
+(A) Agreement to provide and 
+facilitate access to data, documents, and 
+other materials specified in paragraph 
+(f)(1) of this section, including that the 
+institution authorizes the FDIC to 
+communicate with and request such 
+data, information, and other materials 
+from third-party vendors; 
+(B) Acknowledgment that any costs 
+required to obtain needed data, 
+information, and other materials to 
+participate in the engagement under 
+paragraph (f)(2) of this section and to 
+provide and facilitate access to data, 
+documents, and other materials 
+specified by paragraph (f)(1) of this 
+section will be borne by the institution; 
+(C) Certification that the institution 
+may be liable for an assessment 
+reimbursement under paragraph (f)(4) of 
+this section; 
+(D) A complete list of all systems and 
+applications maintained by the 
+institution that serve as core data 
+processors for deposit and loan data and 
+the institution’s general ledger; 
+(E) A complete list of all systems and 
+applications maintained by third-party 
+vendors that serve as core data 
+processors for deposit and loan data and 
+the institution’s general ledger; and 
+(F) A list of key personnel (including 
+those employed by third-party vendors) 
+needed to support and operate each 
+system and application identified 
+pursuant to paragraphs (d)(2)(ii)(D) and 
+(E) of this section identified by name, 
+title, employer, telephone number, and 
+email address. 
+(3) Timing of election and effect of 
+electing to participate in data access 
+component. 
+(i) An institution that submits a notice 
+of election for the data access 
+component within 30 days of [the 
+effective date of rule], will receive the 
+data access adjustment beginning the 
+next quarterly assessment period. 
+(ii) An institution that is a large or 
+highly complex institution on [the 
+effective date of rule] but does not 
+submit a notice of election for the data 
+access component within 30 days of [the 
+effective date of rule] may submit a 
+notice within [four years of the effective 
+date of rule] and will receive the data 
+access adjustment beginning two 
+quarterly assessment periods after 
+submission. 
+(iii) An institution that becomes a 
+large or highly complex institution after 
+[the effective date of rule] that submits 
+a notice of election for the data access 
+component will receive the data access 
+adjustment beginning the quarterly 
+assessment period after submitting the 
+notice of election. 
+(iv) An institution that is large or 
+highly complex as of [the effective date 
+of the rule] that submits a notice of 
+election for the data access component 
+after the date that is four years after [the 
+effective date of the rule] will receive 
+the data access adjustment beginning 
+the quarterly assessment period after 
+submitting a notice of election. 
+(v) If the notice of election for the data 
+access component is materially 
+inaccurate or the institution fails to 
+provide to the FDIC information 
+required under paragraph (d)(2)(ii) of 
+this section, the FDIC may provide 
+notice to the institution that it is no 
+longer eligible for the data access 
+adjustment and that the adjustment will 
+be removed the next quarterly 
+assessment period and the institution 
+would be subject to reimbursement 
+under paragraph (f)(4) of this section. To 
+resume eligibility for the data access 
+adjustment, the institution must submit 
+another notice of election pursuant to 
+paragraph (d)(2)(ii) of this section. 
+(4) Timing of election to participate in 
+virtual data room component. 
+(i) An institution that submits a notice 
+of election for the virtual data room 
+component within 30 days of [the 
+effective date of rule] will have the 
+opportunity to participate in the virtual 
+data room capabilities test within one 
+year, as described in paragraph (e) of 
+this section. 
+(ii) An institution that submits a 
+notice of election for the virtual data 
+room component more than 30 days 
+after [the effective date of the rule] will 
+not be able to participate in the virtual 
+data room test until all institutions that 
+submitted a notice within that 30 day 
+period have been given the opportunity 
+to participate in the virtual data room 
+capabilities test. 
+(e) Virtual data room capabilities test. 
+(1) Testing component: required data, 
+documents, and other material. After 
+submitting its notice of election 
+pursuant to paragraph (d)(2)(i) of this 
+section, the institution must 
+demonstrate its ability to populate a 
+virtual data room with the following: 
+(i) Key financial information, 
+including balance sheet (both 
+consolidated and unconsolidated), 
+income statement, annual and interim 
+financial statements, general ledger, and 
+other relevant financial information; 
+(ii) Deposit data and information, 
+including deposit tapes and data 
+dictionary, and a report regarding key 
+depositors; 
+(iii) Loan and lending operations 
+information, including loan tapes and 
+data dictionary; 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00044 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39837 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+(iv) A sample of imaged loan files 
+sufficient for a potential bidder to 
+conduct due diligence to inform a 
+potential bid; 
+(v) Securities and investment 
+portfolio information, including 
+securities tapes and data dictionary; 
+(vi) A corporate organizational chart 
+showing all material entities, as well as 
+a description of each material entity’s 
+operations and role within the 
+institution’s operations, and licensing 
+and regulatory information for each 
+material entity; 
+(vii) A list of key personnel identified 
+by title, function, physical location, 
+employing legal entity, and business 
+line or business segment the individual 
+supports, and if an individual is dual 
+hatted; 
+(viii) A list of material third-party 
+contracts and a description of what 
+services or business lines each contract 
+supports; 
+(ix) Recent internal risk management 
+reports, including assessments 
+concerning key financial and regulatory 
+risks; and 
+(x) Other information that the 
+institution believes is necessary to 
+facilitate a rapid and effective due 
+diligence process for the sale of the 
+institution, as well as data or 
+information requested by the FDIC in a 
+notice described in paragraph (e)(2) of 
+this section. 
+(2) Testing component: process. 
+(i) After an institution submits a 
+notice of election pursuant to paragraph 
+(d)(2)(i) of this section, the FDIC will 
+notify the institution when the 
+institution will participate in a test of its 
+capabilities to populate a virtual data 
+room hosted by the FDIC with data, 
+information, and other materials 
+specified by paragraph (e)(1) of this 
+section. The FDIC may notify the 
+institution that it need not populate a 
+data room with certain data, 
+information, or other materials specified 
+by paragraph (e)(1) of this section. 
+(ii) The FDIC will provide written 
+notice of an institution’s date for a 
+virtual data room capabilities test no 
+less than four weeks before the test date. 
+Upon providing such written notice, the 
+FDIC can adjust the test date to a date 
+that provides the institution a 
+reasonable amount of notice. 
+(3) Testing component: evaluation 
+criteria and notice of test results. 
+(i) The institution will be deemed to 
+have demonstrated its capabilities to 
+populate a virtual data room if: 
+(A) All data, information, and other 
+materials specified by paragraph (e)(1) 
+of this section are uploaded to the 
+virtual data room specified by the FDIC 
+no later than 48 hours after the test 
+begins; 
+(B) The FDIC, after conducting a 
+review and examination of the virtual 
+data room, determines that the data, 
+information, and other materials 
+uploaded are sufficient for a potential 
+bidder to conduct adequate due 
+diligence to inform a potential bid. 
+Among other things, the financial 
+information in materials specified in 
+paragraph (e)(1)(i) of this section should 
+be reconcilable against the general 
+ledger; and 
+(C) The institution provides the FDIC 
+such information and access to such 
+personnel of the institution as the FDIC 
+in its sole discretion determines is 
+relevant to properly evaluate the data, 
+information, and other materials 
+uploaded to the virtual data room 
+specified by the FDIC, if needed. 
+(ii) Within an amount of time 
+determined by the FDIC to be 
+commensurate with the nature of the 
+data, information, and other materials 
+provided pursuant to paragraph (e)(1) of 
+this section, the FDIC will notify the 
+institution in writing concerning the 
+results of the test. Such notice will: 
+(A) State that the institution has 
+demonstrated its capabilities to 
+populate a virtual data room; or 
+(B) State the institution is presently 
+ineligible for the virtual data room 
+adjustment, and that to be eligible for 
+the virtual data room adjustment the 
+institution must participate in another 
+test at a future date to be determined by 
+the FDIC pursuant to paragraph (e)(2) of 
+this section. 
+(4) Effect of FDIC notifying an 
+institution it has demonstrated its 
+readiness to populate a virtual data 
+room on virtual data room adjustment. 
+After receiving written notice pursuant 
+to paragraph (e)(3)(ii)(A) of this section 
+stating that the institution demonstrated 
+its capabilities to populate a virtual data 
+room: 
+(i) Application of virtual data room 
+adjustment. The FDIC will apply the 
+virtual data room adjustment beginning 
+the next quarterly assessment period 
+after the institution receives written 
+notice under paragraph (e)(3)(ii)(A) of 
+this section, but in no event will the 
+FDIC apply the virtual data room 
+adjustment earlier than the end of the 12 
+month period following the [effective 
+date of this section]. 
+(ii) Retesting. The institution will be 
+subject to periodic retesting by the FDIC 
+of the institution’s capabilities to 
+populate a virtual data room with data, 
+information, and other materials 
+specified by paragraph (e)(1) of this 
+section. The processes in paragraphs 
+(e)(2) and (3) of this section will apply 
+to such retesting. Retesting following a 
+successful test will occur every three 
+years, unless the institution experiences 
+a material change that could impact its 
+ability to populate a data room, such as 
+undergoing a merger, which may result 
+in retesting sooner, or unless the FDIC 
+extends the timeframe at its discretion. 
+If the institution declines to participate 
+in retesting, the virtual data room 
+adjustment will be removed the next 
+quarterly assessment period. 
+(f) Data access capabilities. 
+(1) Required data access. After 
+submitting its notice of election 
+pursuant to paragraph (d)(2)(ii) of this 
+section, the institution must provide, or 
+facilitate the provision to the FDIC of, 
+the following: 
+(i) The institution’s consolidated and 
+unconsolidated ledger; 
+(ii) Core data regarding the 
+institution’s deposit portfolio, 
+including: 
+(A) Depositor and beneficiary 
+information; 
+(B) Deposit account title; 
+(C) Deposit account type; 
+(D) Deposit account balances, 
+including principal and accrued 
+interest; 
+(E) Deposit account status; 
+(F) Deposit account rate terms; and 
+(G) Any other information about 
+material characteristics of deposits; 
+(iii) Core data concerning the 
+institution’s loan portfolio, including: 
+(A) Borrower, co-borrower, and 
+guarantor information; 
+(B) Loan balances, including charge 
+offs; 
+(C) Participation information; 
+(D) Loan status; 
+(E) Loan terms; 
+(F) Loan type; 
+(G) Collateral associated with each 
+loan; and 
+(H) Any other information about 
+material characteristics of loans; and 
+(iv) A list of key personnel (including 
+those employed by third-party vendors) 
+needed to support and operate each 
+system and application used to produce 
+data, information, and other materials 
+provided pursuant to paragraph (f)(1)(i) 
+through (iii) of this section identified by 
+name, title, employer, telephone 
+number, and email address. 
+(2) Data access engagement. 
+(i) After receiving an institution’s 
+notice of election pursuant to paragraph 
+(d)(2)(ii) of this section, the FDIC will 
+notify the institution in writing when 
+the institution will begin engaging with 
+the FDIC to provide or make available 
+to the FDIC the data, information, and 
+other materials specified by paragraph 
+(f)(1) of this section. The FDIC will 
+provide such written notice no less than 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00045 Fmt 4701 Sfmt 4702 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4
+
+39838 Federal Register / Vol. 91, No. 124 / Tuesday, June 30, 2026 / Proposed Rules 
+four weeks before the beginning of the 
+engagement. Upon providing such 
+written notice, the FDIC can adjust the 
+beginning of the engagement to a date 
+that provides the institution a 
+reasonable amount of notice. 
+(ii) During the engagement specified 
+in this paragraph (f)(2), the institution 
+will provide or facilitate the provision 
+to the FDIC the data, documents, and 
+other information specified in paragraph 
+(f)(1) of this section. Failure to provide 
+such data, documents, and other 
+information may result in the FDIC 
+notifying the institution that it is no 
+longer eligible for the data access 
+adjustment, that the adjustment will be 
+removed the next quarterly assessment 
+period, and that the institution will be 
+subject to reimbursement under 
+paragraph (f)(4) of this section. 
+(iii) During the engagement specified 
+in this paragraph (f)(2), the institution 
+will provide the FDIC such information 
+and access to such personnel of the 
+institution and any third-party vendor 
+as the FDIC in its discretion determines 
+is relevant to properly evaluate the data, 
+information, and other materials 
+specified in paragraph (f)(1) of this 
+section. Failure to provide such 
+information and access to personnel 
+may result in the FDIC notifying the 
+institution that it is no longer eligible 
+for the data access adjustment, that the 
+adjustment will be removed the next 
+quarterly assessment period, and that 
+the institution will be subject to 
+reimbursement under paragraph (f)(4) of 
+this section. 
+(iv) The FDIC will provide the 
+institution written notice upon 
+completion of the engagement specified 
+in this paragraph (f)(2). 
+(3) Ongoing data access. Upon an 
+institution receiving written notice 
+pursuant to paragraph (f)(2)(iv) of this 
+section: 
+(i) Notice of material change. If an 
+institution experiences a change in any 
+internal data system or data service 
+provider that would materially affect the 
+institution’s ability to provide or 
+facilitate the provision of access to the 
+FDIC of data, information, or other 
+materials specified in paragraph (f)(1) of 
+this section, the institution must 
+provide the FDIC a written notice of 
+material change within 30 days. The 
+notice of material change must explain 
+the nature of the change, and how it 
+affects the institution’s ability to 
+provide or facilitate the provision of 
+access of such data, information, or 
+other materials. If an institution does 
+not submit a notice when required to 
+under this paragraph, the FDIC may 
+provide written notice that the 
+institution is not eligible for the data 
+access adjustment, that the adjustment 
+will be removed the next quarterly 
+assessment period, and that the 
+institution is be liable for 
+reimbursement pursuant to paragraph 
+(f)(4) of this section if multiple quarterly 
+assessment periods have elapsed since 
+the material change occurred. 
+(ii) Reengagement. The institution 
+will be subject to periodic reengagement 
+with the FDIC to provide or facilitate the 
+provision of access to data, information, 
+and other materials specified in 
+paragraph (f)(1) of this section. The 
+processes in paragraph (f)(2) of this 
+section will apply to such 
+reengagement. Reengagement will occur 
+every seven years, unless there is a 
+material change, which may result in 
+reengagement occurring sooner, or 
+unless the FDIC extends the timeline at 
+its discretion. If the institution declines 
+to participate in reengagement, the data 
+access adjustment will be removed the 
+next quarterly assessment period. 
+(4) Assessments reimbursement for 
+receiving data access adjustment 
+without providing data access. If the 
+FDIC has applied the data access 
+adjustment to an institution that 
+subsequently receives notice under 
+paragraph (d)(3)(v) of this section or 
+paragraphs (f)(2)(ii), (f)(2)(iii), or (f)(3)(i) 
+of this section that it is required to 
+provide the FDIC reimbursement 
+pursuant to this paragraph (f)(4), the 
+institution will be required to provide 
+reimbursement beginning the next 
+quarterly assessment period. The FDIC 
+will notify the institution, in writing, 
+that it is subject to such reimbursement. 
+(i) Reimbursement amount. The 
+reimbursement amount will be equal to 
+the difference of the total amount of 
+quarterly assessments the institution 
+would have paid without the data 
+access adjustment for each quarter it 
+received the adjustment and the total 
+amount that it paid with the data access 
+adjustment. 
+(ii) Reimbursement period. The 
+reimbursement amount will be invoiced 
+to the institution with the amount 
+evenly divided across the next eight 
+consecutive quarterly assessment 
+periods following the written notice 
+issued pursuant to this paragraph (f)(4). 
+(iii) Invoicing and payment of 
+reimbursement. For each quarterly 
+assessment period an institution is 
+subject to the assessment 
+reimbursement, the FDIC will advise the 
+institution of the amount and 
+calculation of the reimbursement at the 
+same time as the institution’s quarterly 
+certified statement invoice under 
+§ 327.6. The institution will pay the 
+reimbursement in compliance with and 
+subject to the provisions of § 327.3. The 
+payment due date will be the date 
+provided in § 327.3(b)(2) for the 
+institution’s quarterly certified 
+statement invoice for the calendar 
+quarter in which the reimbursement is 
+imposed. 
+(iv) Not an underpayment. An 
+institution required to pay an 
+assessment reimbursement under this 
+paragraph (f)(4) is not considered to 
+have made an underpayment of 
+assessments in the quarters the 
+institution received the data access 
+adjustment. 
+Subpart B—[Removed and Reserved] 
+■ 10. Remove and reserve subpart B, 
+consisting of §§ 327.30 through 327.36. 
+* * * * * 
+Federal Deposit Insurance Corporation. 
+By order of the Board of Directors. 
+Dated at Washington, DC, on June 26, 2026. 
+Jennifer M. Jones, 
+Deputy Executive Secretary. 
+[FR Doc. 2026–13192 Filed 6–29–26; 8:45 am] 
+BILLING CODE 6714–01–P 
+VerDate Sep<11>2014 18:18 Jun 29, 2026 Jkt 268001 PO 00000 Frm 00046 Fmt 4701 Sfmt 9990 E:\FR\FM\30JNP4.SGM 30JNP4khammond on DSK9W7S144PROD with PROPOSALS4

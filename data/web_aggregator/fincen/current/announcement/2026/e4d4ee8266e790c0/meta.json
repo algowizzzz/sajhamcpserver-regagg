@@ -1,0 +1,24 @@
+{
+  "doc_id": "e4d4ee8266e790c0",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Money Services Business (MSB) Registration | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/money-services-business-msb-registration",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c0670ba8509c954e6c7dcf5498a7a1c74d199e5661b27214f6429f84c5cc9642",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/e4d4ee8266e790c0",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

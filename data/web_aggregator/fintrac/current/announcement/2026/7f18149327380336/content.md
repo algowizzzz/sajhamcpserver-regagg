@@ -1,0 +1,180 @@
+# Administrative monetary penalties policy
+
+The purpose of FINTRAC's administrative monetary penalties program is to encourage future compliance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act) and associated Regulations, and to promote a change in behaviour. The administrative monetary penalties program supports FINTRAC's mandate by providing a measured and proportionate response to particular instances of non-compliance. FINTRAC is committed to working with reporting entities to help them achieve compliance.
+
+## Purpose
+
+The purpose of this policy is to provide a framework for the determination of an administrative monetary penalty; and to summarize the principles and guidelines that are used by FINTRAC to issue an administrative monetary penalty.
+
+## Our operating principles and framework
+
+The purpose of the administrative monetary penalties program is to support FINTRAC’s efforts to ensure compliance with the Act and associated Regulations by providing a measured response to non-compliance issues. The program’s guiding principles are:
+
+**Objectivity**: FINTRAC officers will conduct themselves professionally during an assessment and in their communications with a reporting entity. FINTRAC officers will make objective assessments based on the facts and circumstances of each case, ensuring fair and reasonable decisions.
+
+**Reasonableness**: FINTRAC officers will exercise professional judgement when assessing a reporting entity’s compliance with the Act and associated Regulations. This involves considering the circumstances and all relevant factors prior to considering an administrative monetary penalty.
+
+**Transparency**: FINTRAC officers will ensure that the expectations about compliance are communicated in a clear manner throughout the assessment process.
+
+**Fairness**: A reporting entity has the right to understand the case being made for an administrative monetary penalty, and will have a fair opportunity to respond.
+
+**Consistency**: FINTRAC officers follow established policies and procedures to ensure that similar reporting entities, with the same types and extent of non-compliance, can expect to be treated in a similar manner.
+
+**Documentation:** FINTRAC officers will rely on facts and document those facts and any other information to support their analysis and findings.
+
+## Background and application
+
+FINTRAC works with businesses and law enforcement to combat money laundering and terrorist activity financing. By effectively identifying clients and keeping records, reporting entities help deter criminal activity and are able to provide law enforcement with evidence for the investigation and prosecution of money laundering, terrorist financing and sanctions evasion offenses. By reporting the required financial transactions to FINTRAC, reporting entities are supplying it with the information that it needs to carry out its mandate, support law enforcement partners, and contribute to the protection of the integrity of Canada's financial system and the safety of Canadians.
+
+[FINTRAC's supervisory framework](/introduction/cpf/cpf-eng) recognizes that the success of Canada's Anti-Money Laundering and Anti-Terrorist Financing Regime depends on the concrete application of the regulatory measures designed to detect, prevent and deter money laundering and terrorist activity financing. Our own compliance effort aims to bring awareness and understanding of the requirements under the Act and associated Regulations, to deter non-compliance, and to assist in the detection of money laundering and terrorist activity financing in support of the efforts of the police and intelligence communities.
+
+### Assess compliance
+
+In the normal course of our compliance activities, we identify instances of non-compliance with the Act and associated Regulations. We assess the severity of each non-compliance issue by understanding both the extent and the root cause of the non-compliance. Each non-compliance issue is assessed for its adverse impact on FINTRAC's mandate and on the achievement of the objectives of the Act.
+
+### Addressing non-compliance
+
+Following the completion of an assessment activity, and depending on the extent of the non-compliance identified, FINTRAC may decide:
+
+* to take no further action
+* to conduct follow-up assessment activities
+* to issue an administrative monetary penalty to encourage a change in behaviour
+* to disclose relevant information to law enforcement for investigation and prosecution of non-compliance offences under the Act and associated Regulations
+
+## Authority to issue an administrative monetary penalty
+
+The following outlines the framework applicable when FINTRAC has decided that an administrative monetary penalty is the most suitable option to address non-compliance.
+
+FINTRAC may issue an administrative monetary penalty and serve a notice of violation when it has **reasonable grounds to believe** that a reporting entity has violated a requirement of the Act and associated Regulations.
+
+### Categories of violations
+
+The [Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2007-292/page-1.html) list the non-compliance violations that could be the basis of an administrative monetary penalty. The Administrative Monetary Penalty Regulations categorize violations by degree of importance, and assign the following penalty ranges:
+
+Categories of violations
+
+| Degree of importance | Penalty range |
+| Minor violation | $1 to $1,000 per violation |
+| Serious violation | $1 to $100,000 per violation |
+| Very serious violation | $1 to $100,000 per violation for an individual  $1 to $500,000 per violation for an entity |
+
+  
+
+The limits above apply to each violation, and multiple violations can result in a total amount that exceeds these limits.
+
+### Criteria for determining an administrative monetary penalty amount
+
+The Act and the Administrative Monetary Penalty Regulations set out 3 criteria that must be taken into account when determining a penalty amount:
+
+* The purpose of administrative monetary penalties, which is to encourage compliance, not to punish (non-punitive)
+* [The harm done by the violation](/pen/1-eng)
+* The reporting entity’s history of compliance
+
+We present the methods that we use to determine the penalty amount, along with the factors that we consider in our assessment when we issue an administrative monetary penalty.
+
+FINTRAC will take a reasonable approach in the calculation of penalty amounts. We consider an administrative monetary penalty to be effective when the penalty amount is proportional to the harm done and prompts a change in behaviour toward future compliance. These amounts are in keeping with the type and extent of the violations, given the circumstances of each case.
+
+The following guidelines are in place as benchmarks to assist FINTRAC in the calculation of a penalty amount, while taking into consideration the circumstances of each case.
+
+**Note:** FINTRAC may exercise its discretion to adjust its policy and may choose not to apply the penalty reduction based on the established criteria, particularly in cases of serious violations.
+
+#### Step 1: Harm done assessment
+
+FINTRAC defines “harm” as the degree to which a violation interferes with achieving the objectives of the Act ([section 3, Act](http://lois-laws.justice.gc.ca/eng/acts/P-24.501/index.html)) or with FINTRAC's ability to carry out its mandate ([section 40, Act](http://lois-laws.justice.gc.ca/eng/acts/P-24.501/index.html)).
+
+The Administrative Monetary Penalty Regulations classify all violations by degree of importance. They also determine the minimum and maximum penalty amounts for each level.
+
+In assessing the harm done by a violation, FINTRAC considers both the potential and the resulting harm. “Resulting harm” means separate violations that come from the original violation. For example, when the compliance policies and procedures do not address how to report large cash transactions, the resulting harm is the unreported large cash transactions.
+
+The first step to assess the harm done when calculating a penalty amount is to determine whether the reporting entity has completely failed to meet a requirement or only in part. For some violations, this is clear; the requirement was met or it was not met. Other violations require further analysis. For example, when a client is not identified under the prescribed circumstances, the requirement is not met. When compliance policies and procedures are missing a component, the requirement is met in part.
+
+When a reporting entity has completely failed to meet a requirement, the base penalty amount that is typically considered for that violation is the maximum amount set out by the Administrative Monetary Penalty Regulations. Failure to fully comply with statutory requirements is the primary obstacle to achieving the objectives of the Act and undermines FINTRAC's ability to effectively fulfill its mandate.
+
+When a reporting entity fails to comply with a requirement, the base penalty for each violation is determined by the specific nature of non-compliance and the degree of the failure. The severity of the failure is assessed using established criteria, based on its impact on achieving the objectives of the Act and FINTRAC's mandate.
+
+#### Step 2: Compliance history and non-punitive adjustment
+
+The second step in a penalty calculation looks at both the compliance history of the reporting entity and the administrative monetary penalty's purpose, which is to encourage compliance, not to punish (non-punitive).
+
+FINTRAC adjusts the penalty amount for each violation (determined in Step 1 above) and if the violation has been observed as a deficiency.
+
+## Administrative monetary penalty process
+
+The administrative monetary penalty process begins with the issuance of a notice of violation and continues as outlined below:
+
+### Notice of violation
+
+A reporting entity subject to an administrative monetary penalty will receive a notice of violation that will include the following:
+
+* The name and address of the reporting entity that is subject to the administrative monetary penalty
+* The penalty amount
+* Payment instructions
+* Information on the right to make written representations to FINTRAC's Director and Chief Executive Officer (CEO), up to 30 days after receiving the notice of violation
+* Instructions on how to make representations to FINTRAC's Director and CEO, and where to obtain additional information on the administrative monetary penalties program
+* A list of the violations committed which will include the related legislative and regulatory provisions
+* The details of the penalty calculation, including the factors considered and the reasons
+* A list of all the instances of the committed violations, including relevant references such as account numbers, transaction numbers, and report numbers
+
+A notice of violation must be issued no more than 2 years from the date when the non-compliance became known to FINTRAC.
+
+### Payment of penalty
+
+Upon receipt of a notice of violation, a person or entity can pay the penalty by completing the remittance form and submitting it with the payment in Canadian funds to:
+
+FINTRAC   
+Finance Unit   
+24th Floor, 234 Laurier Avenue West   
+Ottawa, ON K1P 1H7
+
+All payments of penalty amounts are to be made payable to the Receiver General for Canada. Payments must be made in the form of a certified cheque, money order, or bank draft.
+
+If a reporting entity pays the penalty indicated in the notice of violation, the reporting entity is deemed to have committed the violations specified, and the administrative monetary penalty process ends.
+
+## Representations to FINTRAC’s Director and CEO
+
+A reporting entity may [request a review of a notice of violation](/raa-rea/1-eng#s1). This can be done by making written representations on the violations or the penalty or both at the same time, to the Director and CEO of FINTRAC, within 30 days of receiving the notice of violation.
+
+If a reporting entity requests a review, FINTRAC's Director and CEO will decide on the balance of probabilities whether the reporting entity committed the violation or not; and may impose the penalty proposed in the notice of violation or a lesser penalty. A notice of decision will be issued to communicate the Director and CEO's decision and the reasons behind it.
+
+### Failure to pay or make representations and notice of penalty
+
+If you receive a notice of violation and do not pay or make representations to FINTRAC's Director and CEO within 30 days, the administrative monetary penalties process will end, the violations will be upheld and a notice of penalty will be issued.
+
+### Notice of decision and right of appeal
+
+A reporting entity that receives a notice of decision from FINTRAC's Director and CEO has 30 days to exercise its right of appeal to the Federal Court of Canada.
+
+The administrative monetary penalty process ends when a reporting entity pays the penalty imposed in the notice of decision, or does not appeal the Director and CEO's decision within 30 days.
+
+Should the Director and CEO not issue a notice of decision within 90 days of receiving your representation for review, you may appeal the proposed penalty in Federal Court within 30 days.
+
+### Federal Courts
+
+The Federal Courts have the power to confirm, set aside or change a notice of decision issued by FINTRAC's Director and Chief Executive Officer. As long as the administrative monetary penalty is before the Federal Court, the Federal Court of Appeal, or the Supreme Court of Canada, the administrative monetary penalty process is considered to be ongoing.
+
+## Public notice
+
+FINTRAC must make public, as soon as feasible, the name of the reporting entity, the nature of the violation or default, and the amount of the penalty imposed in the following cases:
+
+* A reporting entity pays the penalty issued in a notice of violation
+* A reporting entity neither pays the penalty issued in a notice of violation nor makes representations to FINTRAC’s Director and Chief Executive Officer
+* A reporting entity receives a notice of decision indicating that a violation has been committed
+* A reporting entity enters into a compliance agreement with FINTRAC
+* A reporting entity does not comply with a compliance agreement
+
+When publicizing the nature of the violation, FINTRAC may also include the reasons for its decision, including the relevant facts, analysis and considerations that formed part of the decision.
+
+Providing additional details on the nature of violations will help better educate reporting entities and the public about FINTRAC's compliance and enforcement activities, and strengthen FINTRAC's ability to foster compliance with the Act and associated Regulations.
+
+You can review the administrative penalties imposed by FINTRAC on the [Public notice](/pen/4-eng) page.
+
+### Collection of penalties
+
+The penalty amount is due 30 days after the notice of violation or notice of decision is received. Interest would begin to accrue on the day after the penalty was due. Any penalty that becomes payable is an outstanding debt to the Crown. FINTRAC will pursue outstanding administrative monetary penalty payments.
+
+## Related links
+
+* [Administrative monetary penalties: Changes following legislative amendments](/pen/3-eng)
+
+Date Modified:
+:   2025-08-06

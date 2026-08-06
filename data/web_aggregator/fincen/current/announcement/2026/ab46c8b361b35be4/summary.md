@@ -1,0 +1,1 @@
+Summary: # SAR Leads to Former Deputy Sheriff Sentenced for Extortion and Title 31 Violations

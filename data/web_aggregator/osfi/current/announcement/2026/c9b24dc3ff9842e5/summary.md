@@ -1,0 +1,1 @@
+Summary: # Constitution d’une société d’assurances fédérale

@@ -1,0 +1,67 @@
+# Monthly Decision Maker Panel data - June 2026
+
+The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. We use it to monitor developments in the economy and to track businesses’ views.
+
+Published on
+03 July 2026
+
+## News release
+
+The June 2026 DMP survey was conducted between 5-19 June 2026 and received 2,083 responses.  
+  
+Firms reported that their realised annual own-price growth was 3.8% in the three months to June, unchanged from the three months to May. Note that the DMP covers own prices from firms across the whole economy, not just consumer-facing firms.  
+  
+Year-ahead own-price inflation was expected to be 4.1% in the three months to June, 0.1 percentage points higher than firms reported in the three months to May. The single-month reading was unchanged at 4.0%. Businesses therefore expect output price inflation to rise by 0.3 percentage points over the next year, based on three-month averages.  
+  
+Expectations for year-ahead CPI inflation remained unchanged at 3.7% in the three months to June. In the single-month data year-ahead CPI inflation expectations fell from 3.7% to 3.3%. Three-year-ahead CPI inflation expectations were 2.9% in the three months to June, up 0.1 percentage points relative to the three months to May.  
+  
+Firms reported that annual wage growth was 4.1% in the three months to June, down 0.1 percentage points from the three months to May. Expected year-ahead wage growth rose slightly, by 0.1 percentage points to 3.5% in the three months to June. This implies that firms expect their wage growth to decline by 0.6 percentage points over the next 12 months.  
+  
+Since April, the DMP survey has asked firms how they expect the recent energy shock to affect their business over the next 12 months. In June, higher prices and lower profit margins remained the most common forms of adjustment, although the expected impact on prices continued to ease. 56% of firms expected to increase prices (down 8 percentage points since April), while 7% expected to lower prices. At the same time, 66% of firms expected lower profit margins, little changed from previous months. The expected impact of higher energy prices on wages remained modest, with 23% of firms expecting wages to increase and 19% expecting them to be lower.
+
+* [Monthly aggregate-level data for a limited number of DMP series up to June 2026 (XLSX 0.2MB)](/-/media/boe/files/decision-maker-panel-survey/2026/monthly-dmp-data-june-2026.xlsx)
+* [Quarterly aggregate-level data for all survey questions up to April 2026 (XLSX 1MB)](/-/media/boe/files/decision-maker-panel-survey/2026/quarterly-dmp-data-april-2026.xlsx)
+
+The next release date for the DMP survey data will be 24 July 2026.
+
+The DMP was set up in August 2016 and is run by the Bank of England in collaboration with King’s College London and the University of Nottingham. It was designed to be representative of the population of UK businesses. All results are weighted. See Bunn et al (2024) for more details.
+
+The DMP receives funding from the Economic and Social Research Council.
+
+## Other Monthly Decision Maker Panel data
+
+[Publication // DMP
+
+24 July 2026
+
+### Monthly Decision Maker Panel data - July...
+
+### Monthly Decision Maker Panel data - July 2026](/decision-maker-panel/2026/july-2026)
+
+[Publication // DMP
+
+05 June 2026
+
+### Monthly Decision Maker Panel data - May 2026
+
+### Monthly Decision Maker Panel data - May 2026](/decision-maker-panel/2026/may-2026)
+
+[Publication // DMP
+
+24 April 2026
+
+### Monthly Decision Maker Panel data - April...
+
+### Monthly Decision Maker Panel data - April 2026](/decision-maker-panel/2026/april-2026)
+
+[Publication // DMP
+
+02 April 2026
+
+### Monthly Decision Maker Panel data - March...
+
+### Monthly Decision Maker Panel data - March 2026](/decision-maker-panel/2026/march-2026)
+
+[View more Other Monthly Decision Maker Panel data](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&Taxonomies=3cdd3191bbc342db9b22e7d5abcf02c8&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

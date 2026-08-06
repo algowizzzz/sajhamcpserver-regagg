@@ -1,0 +1,33 @@
+# OSFI Revises General Guidelines for Use of Letters of Credit
+
+## Document properties
+
+* **Type of publication:** Letter
+* **To:** Federally Regulated Insurance Companies, Trustees, and Issuing Banks
+* **Date:** November 8, 2023
+
+Letters of credit (LOC) for unregistered reinsurance are considered a direct credit substitute. They are subject to risk factors based on the credit rating of the issuing/confirming bank and the term of the liabilities covered by the reinsurance contracts held. OSFI will recognize an approved LOC as security for the purposes of:
+
+* reducing the reserve and required coverage for unregistered reinsurance, and
+* admitting Self Insured Retention (SIR) recoverable for the capital test.
+
+To improve efficiency in the issuance of LOC approvals, OSFI is amending its process to reduce the amount of time LOCs spend in transit. In summary:
+
+* All LOCs issued by banks will be forwarded to the respective insurance company for review.
+* The insurance company performs an initial review to ensure the LOC meets OSFI Guidelines and is free from errors.
+* Following review, a soft copy of the LOC is emailed to OSFI for approval.
+* Once approved, OSFI will notify the insurance company and, if applicable, the trustee.
+* The insurance company will retain the LOC or forward the LOC to the trustee for safekeeping as required.
+
+The revised [Guideline](/en/data-forms/applications-approvals/general-guidelines-use-letters-credit-locs "General Guidelines for Use of Letters of Credit") is effective as of the date of this letter.
+
+Questions related to this Guideline can be directed to [SAAR-SSAVMRCA@osfi-bsif.gc.ca](mailto:SAAR-SSAVMRCA@osfi-bsif.gc.ca).
+
+## Related links
+
+* [General Guidelines for Use of Letters of Credit (LOC's)](/en/data-forms/applications-approvals/general-guidelines-use-letters-credit-locs "General Guidelines for Use of Letters of Credit (LOC’s)")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-11-08

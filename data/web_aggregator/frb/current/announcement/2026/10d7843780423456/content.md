@@ -1,0 +1,76 @@
+[Skip to main content](#content)
+
+![US Flag](/images/icon-us-flag.svg)
+
+An official website of the United States Government
+
+Here's how you know![Expand More](/images/expand_more.svg)
+
+![.gov icon](https://designsystem.digital.gov/assets/img/icon-dot-gov.svg)
+
+**Official websites use .gov**  
+A **.gov** website belongs to an official government organization in the United States.
+
+![HTTPS icon](https://designsystem.digital.gov/assets/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**  
+A **lock** (LockLocked padlock icon) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[Back to Home](/default.htm)
+[Board of Governors of the Federal Reserve System](/default.htm "Link to Home Page")
+
+* Stay Connected
+  + [Federal Reserve Facebook Page](https://www.facebook.com/federalreserve)
+  + [Federal Reserve Instagram Page](https://www.instagram.com/federalreserveboard/)
+  + [Federal Reserve YouTube Page](https://www.youtube.com/federalreserve)
+  + [Federal Reserve Flickr Page](https://www.flickr.com/photos/federalreserve/)
+  + [Federal Reserve LinkedIn Page](https://www.linkedin.com/company/federal-reserve-board)
+  + [Federal Reserve Threads Page](https://www.threads.net/@federalreserveboard)
+  + [Federal Reserve X Page](https://x.com/federalreserve)
+  + [Federal Reserve Bluesky Page](https://bsky.app/profile/federalreserve.gov)
+  + [Subscribe to RSS](/feeds/feeds.htm)
+  + [Subscribe to Email](/subscribe.htm)
+* [Recent Postings](/recentpostings.htm)
+* [Calendar](/newsevents/calendar.htm)
+* [Publications](/publications.htm)
+* [Site Map](/sitemap.htm)
+* [A-Z index](/azindex.htm)
+* [Careers](/careers.htm)
+* [FAQs](/faqs.htm)
+* [Videos](/videos.htm)
+* [Contact](/aboutthefed/contact-us-topics.htm)
+
+Toggle Dropdown Menu
+
+Main Menu Toggle Button
+Sections
+
+Search Toggle Button
+
+1. [Home](/default.htm)
+2. [News & Events](/newsevents.htm)
+3. [Press Releases](/newsevents/pressreleases.htm)
+
+## Press Release
+
+July 08, 2026
+
+### Minutes of the Federal Open Market Committee, June 16-17, 2026
+
+For release at 2:00 p.m. EDT
+
+* [Share](# "Share")
+
+The Federal Reserve on Wednesday released the minutes of the Federal Open Market Committee meeting that was held on June 16–17, 2026.
+
+The minutes for each regularly scheduled meeting of the Committee are generally published three weeks after the day of the policy decision. The descriptions of economic and financial conditions contained in these minutes are based solely on the information that was available to the Committee at the time of the meeting.
+
+The minutes can be viewed on the Board's [website](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm).
+
+For media inquiries, e-mail [[email protected]](/cdn-cgi/l/email-protection#2f424a4b464e6f495d4d01484059) or call 202-452-2955.
+
+Minutes of the Federal Open Market Committee  
+June 16-17, 2026: [HTML](/monetarypolicy/fomcminutes20260617.htm) | [PDF](https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260617.pdf)
+
+Last Update:
+July 08, 2026

@@ -1,0 +1,1 @@
+Summary: # FINTRAC imposes an administrative monetary penalty on Coinseason Capital Inc.

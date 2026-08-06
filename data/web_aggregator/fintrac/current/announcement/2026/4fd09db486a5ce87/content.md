@@ -1,0 +1,235 @@
+# November 28, 2022 – FINTRAC Advisory: Financial transactions related to countries identified by the Financial Action Task Force (FATF)
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+## On this page
+
+* [Financial transactions related to countries identified by the FATF](#s1)
+* [Democratic People's Republic of Korea (DPRK)](#s2)
+* [Ministerial Directive on the DPRK](#s3)
+* [Iran](#s4)
+* [Ministerial Directive on Iran](#s5)
+* [Myanmar](#s6)
+* [Other jurisdictions](#s7)
+* [Nicaragua no longer subject to FATF’s increased monitoring process](#s8)
+* [Pakistan no longer subject to FATF’s increased monitoring process](#s9)
+* [FATF action on the terrorist group, Islamic State](#s10)
+* [FATF public statement on the situation in Afghanistan](#s11)
+* [FATF public statements on the situation in Ukraine and on the Russian Federation](#s12)
+
+On October 21, 2022, the FATF issued a [statement on high-risk jurisdictions subject to a call for](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-october-2022.html) action and a [statement on jurisdictions under increased monitoring](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-october-2022.html). These statements are updated and released following every FATF Plenary.
+
+The statement on high-risk jurisdictions subject to a call for action identifies jurisdictions for which the FATF has called on its members to apply countermeasures or enhanced due diligence. The statement on jurisdictions under increased monitoring identifies those jurisdictions, which have developed an action plan with the FATF to address their strategic AML/CFT deficiencies
+
+## Financial transactions related to countries identified by the FATF
+
+As communicated in the FATF’s [statement on high-risk jurisdictions subject to a call for action](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-october-2022.html) dated October 21, 2022:
+
+> “Since February 2020, in light of the COVID-19 pandemic, the FATF has paused the review process for Iran and DPRK, given that they are already subject to the FATF’s call for countermeasures. Therefore, please refer to the statement on these jurisdictions adopted in 21 February 2020. While the statement may not necessarily reflect the most recent status of Iran and the Democratic People’s Republic of Korea’s AML/CFT regimes, the FATF’s call to apply countermeasures on these high-risk jurisdictions remains in effect.”
+
+## Democratic People’s Republic of Korea (DPRK)
+
+As communicated in the [statement on high-risk jurisdictions subject to a call for action](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2020.html) dated February 21, 2020, the FATF:
+
+> “Remains concerned by the DPRK’s failure to address the significant deficiencies in its anti-money laundering and combatting the financing of terrorism (AML/CFT) regime and the serious threats they pose to the integrity of the international financial system. Further, the FATF has serious concerns with the threat posed by the DPRK’s illicit activities related to the proliferation of weapons of mass destruction (WMDs) and its financing.
+>   
+>   
+> The FATF reaffirms its 25 February 2011 call on its members and urges all jurisdictions to advise their financial institutions to give special attention to business relationships and transactions with the DPRK, including DPRK companies, financial institutions, and those acting on their behalf. In addition to enhanced scrutiny, the FATF further calls on its members and urges all jurisdictions to apply effective counter-measures, and targeted financial sanctions in accordance with applicable United Nations Security Council Resolutions, to protect their financial sectors from money laundering, financing of terrorism and WMD proliferation financing (ML/FT/PF) risks emanating from the DPRK. Jurisdictions should take necessary measures to close existing branches, subsidiaries and representative offices of DPRK banks within their territories and terminate correspondent relationships with DPRK banks, where required by relevant UNSC resolutions.”
+
+## Ministerial Directive on the DPRK
+
+Accordingly, in order to safeguard the integrity of Canada’s financial system, and in accordance with section 11.42 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA)[Footnote1](#fn1), the Minister of Finance has issued the following directive as published in the [Canada Gazette](http://gazette.gc.ca/rp-pr/p1/2017/2017-12-09/html/notice-avis-eng.html) on December 9, 2017:
+
+> “Every person or entity referred to in section 5 of the PCMLTFA shall treat all transactions originating from, or destined to, North Korea (Democratic People’s Republic of Korea) as high risk for the purposes of subsection 9.6(3) of the Act.”
+
+The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) has issued [guidance related to the Ministerial Directive](/obligations/dir-dprk-eng), which can be found on its website. FINTRAC will assess compliance with the Ministerial Directive.
+
+In addition, on December 12, 2017, FINTRAC published an [Operational Alert](/intel/operation/oai-dprk-eng) on the DPRK’s use of the international financial system for money laundering and terrorist activity financing. The purpose of this Operational Alert is to inform Canadian reporting entities of the patterns and risk areas related to the DPRK’s suspected money laundering and terrorist activity financing.
+
+## Iran
+
+As communicated in the [statement on high-risk jurisdictions subject to a call for action](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2020.html) dated February 21, 2020, the FATF welcomed Iran’s high-level political commitment to address its strategic AML/CFT deficiencies in June 2016. However:
+
+> “In June 2016, Iran committed to address its strategic deficiencies. Iran’s action plan expired in January 2018. In February 2020, the FATF noted Iran has not completed the action plan.[1]
+>
+> In October 2019, the FATF called upon its members and urged all jurisdictions to: require increased supervisory examination for branches and subsidiaries of financial institutions based in Iran; introduce enhanced relevant reporting mechanisms or systematic reporting of financial transactions; and require increased external audit requirements for financial groups with respect to any of their branches and subsidiaries located in Iran.
+>
+> Now, given Iran’s failure to enact the Palermo and Terrorist Financing Conventions in line with the FATF Standards, the FATF fully lifts the suspension of counter-measures and calls on its members and urges all jurisdictions to apply effective counter-measures, in line with Recommendation 19.[2]
+>
+> Iran will remain on the FATF statement on [High Risk Jurisdictions Subject to a Call for Action] until the full Action Plan has been completed. If Iran ratifies the Palermo and Terrorist Financing Conventions, in line with the FATF standards, the FATF will decide on next steps, including whether to suspend countermeasures. Until Iran implements the measures required to address the deficiencies identified with respect to countering terrorism financing in the Action Plan, the FATF will remain concerned with the terrorist financing risk emanating from Iran and the threat this poses to the international financial system.
+>
+> [1] In June 2016, the FATF welcomed Iran’s high-level political commitment to address its strategic AML/CFT deficiencies, and its decision to seek technical assistance in the implementation of the Action Plan. Since 2016, Iran established a cash declaration regime, enacted amendments to its Counter-Terrorist Financing Act and its Anti-Money Laundering Act, and adopted an AML by-law.
+>
+> In February 2020, the FATF noted that there are still items not completed and Iran should fully address: (1) adequately criminalizing terrorist financing, including by removing the exemption for designated groups “attempting to end foreign occupation, colonialism and racism”; (2) identifying and freezing terrorist assets in line with the relevant United Nations Security Council resolutions; (3) ensuring an adequate and enforceable customer due diligence regime; (4) demonstrating how authorities are identifying and sanctioning unlicensed money/value transfer service providers; (5) ratifying and implementing the Palermo and TF Conventions and clarifying the capability to provide mutual legal assistance; and (6) ensuring that financial institutions verify that wire transfers contain complete originator and beneficiary information.
+>
+> [2] Countries should be able to apply appropriate countermeasures when called upon to do so by the FATF. Countries should also be able to apply countermeasures independently of any call by the FATF to do so. Such countermeasures should be effective and proportionate to the risks.”
+
+## Ministerial Directive on Iran
+
+Accordingly, in order to safeguard the integrity of Canada’s financial system, and in accordance with section 11.42 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA)[Footnote2](#fn2), the Minister of Finance has issued the following directive as published in the [Canada Gazette](http://www.gazette.gc.ca/rp-pr/p1/2020/2020-07-25/html/notice-avis-eng.html) on July 25, 2020:
+
+> “Every person or entity referred to in paragraphs 5(a), (b) and (h) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act) shall
+>
+> (a) treat every financial transaction originating from or bound for Iran, regardless of its amount, as a high risk transaction for the purposes of subsection 9.6(3) of the Act;
+>
+> (b) verify the identity of any person or entity requesting or benefiting from such a transaction in accordance with the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations (the Regulations);
+>
+> (c) exercise customer due diligence, including ascertaining the source of funds in any such transaction, the purpose of the transaction and, where appropriate, the beneficial ownership or control of any entity requesting or benefiting from the transaction;
+>
+> (d) keep and retain a record of any such transaction, in accordance with the Regulations; and
+>
+> (e) report all such transactions to the Centre.”
+
+FINTRAC has issued [guidance related to the Ministerial Directive](/obligations/dir-iri-eng), which can be found on its website. FINTRAC will assess compliance with the Ministerial Directive.
+
+## Myanmar
+
+As communicated in the [statement on high-risk jurisdictions subject to a call for action](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-october-2022.html) dated October 21 2022, Myanmar is subject to a FATF call on its members and other jurisdictions to apply enhanced due diligence measures proportionate to the risks arising from the jurisdiction.
+
+As communicated in the FATF’s [statement on high-risk jurisdictions subject to a call for action](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-october-2022.html):
+
+> “In February 2020, Myanmar committed to address its strategic deficiencies. Myanmar’s action plan expired in September 2021.
+>
+> In June 2022, the FATF strongly urged Myanmar to swiftly complete its action plan by October 2022 or the FATF would call on its members and urge all jurisdictions to apply enhanced due diligence to business relations and transactions with Myanmar. Given the continued lack of progress and the majority of its action items still not addressed after a year beyond the action plan deadline, the FATF decided that further action was necessary in line with its procedures and FATF calls on its members and other jurisdictions to apply enhanced due diligence measures proportionate to the risk arising from Myanmar. When applying enhanced due diligence measures, countries should ensure that flows of funds for humanitarian assistance, legitimate NPO activity and remittances are not disrupted.
+>
+> Myanmar should continue to work on implementing its action plan to address these deficiencies, including by: (1) demonstrating an improved understanding of ML risks in key areas; (2) demonstrating that on-site/offsite inspections are risk-based, and hundi operators are registered and supervised; (3) demonstrating enhanced use of financial intelligence in LEA investigations, and increasing operational analysis and disseminations by the FIU; (4) ensuring that ML is investigated/prosecuted in line with risks; (5) demonstrating investigation of transnational ML cases with international cooperation; (6) demonstrating an increase in the freezing/seizing and confiscation of criminal proceeds, instrumentalities, and/or property of equivalent value; (7) managing seized assets to preserve the value of seized goods until confiscation; and (8) demonstrating implementation of targeted financial sanctions related to PF.
+>
+> The FATF urges Myanmar to work to fully address its AML/CFT deficiencies and Myanmar will remain on the list of countries subject to a call for action until its full action plan is completed.”
+
+Accordingly, FINTRAC is reiterating to all reporting entities subject to the requirements of the PCMLTFA, the risks of doing business with individuals and entities based in, or connected to, Myanmar.
+
+**FINTRAC is advising** that reporting entities should consider the above in determining whether they are required to file a suspicious transaction report in respect of one or more financial transaction(s) or attempted financial transaction(s) emanating from, or destined to, Myanmar. Reporting entities are required to consider the geographic location of a person’s or entity’s activities as part of their risk assessment and to undertake mitigating measures, as applicable, and are encouraged to undertake enhanced customer due diligence, including obtaining information on the reasons for intended transactions, with respect to clients and beneficiaries involved in such financial transactions or attempted financial transactions.
+
+## Other jurisdictions
+
+In its [statement on jurisdictions under increased monitoring](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-october-2022.html) dated October 21, 2022, the FATF brought to the attention of its members several jurisdictions that have strategic AML/CFT deficiencies.
+
+The FATF noted in this statement that:
+
+> “Since the start of the COVID-19 pandemic, the FATF has provided some flexibility to jurisdictions not facing immediate deadlines to report progress on a voluntary basis. The following countries had their progress reviewed by the FATF since June 2022: Albania, Barbados, Burkina Faso, Cambodia, Cayman Islands, Haiti, Jamaica, Jordan, Mali, Morocco, Myanmar, Nicaragua, Pakistan, Panama, Philippines, Senegal, South Sudan, Türkiye, UAE and Uganda. For these countries, updated statements are provided below. Gibraltar chose to defer reporting; thus, the statement issued in June 2022 for that jurisdiction is included below, but it may not necessarily reflect the most recent status of the jurisdiction’s AML/CFT regime. Following review, the FATF now also identifies the Democratic Republic of the Congo, Mozambique, and Tanzania.”
+
+The following jurisdictions have developed an action plan with the FATF to address identified strategic deficiencies in their regimes to counter money laundering, terrorist financing, and proliferation financing: Albania, Barbados, Burkina Faso, Cambodia, Cayman Islands, Democratic Republic of the Congo, Gibraltar, Haiti, Jamaica, Jordan, Mali, Morocco, Mozambique, Panama, Philippines, Senegal, South Sudan, Syria, Tanzania, Türkiye, Uganda, the United Arab Emirates, and Yemen.
+
+## Nicaragua no longer subject to the FATF’s increased monitoring process
+
+In its [statement](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-october-2022.html) dated October 21, 2022, the FATF noted that it:
+
+> “…notes Nicaragua’s progress in improving the elements of its AML/CFT regime covered by its action plan. Nicaragua has addressed technical deficiencies to meet the commitments of its action plan regarding strategic deficiencies in the areas that the FATF identified in February 2020. Nicaragua is therefore no longer subject to the FATF’s increased monitoring process.
+>
+> However, the FATF is strongly concerned by the potential misapplication of the FATF Standards resulting in the suppression of Nicaragua’s non-profit sector. Nicaragua should continue to work with GAFILAT to improve further its AML/CFT regime, .including by ensuring its oversight of NPOs is risk-based and in line with the FATF Standards. Nicaragua is strongly encouraged to continue cooperating with GAFILAT on this issue.”
+
+## Pakistan no longer subject to the FATF’s increased monitoring process
+
+In its [statement](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-october-2022.html) dated October 21, 2022, the FATF noted that it:
+
+> “…welcomes Pakistan’s significant progress in improving its AML/CFT regime. Pakistan has strengthened the effectiveness of its AML/CFT regime and addressed technical deficiencies to meet the commitments of its action plans regarding strategic deficiencies that the FATF identified in June 2018 and June 2021, the latter of which was completed in advance of the deadlines, encompassing 34 action items in total. Pakistan is therefore no longer subject to the FATF’s increased monitoring process.
+> Pakistan will continue to work with APG to further improve its AML/CFT system.”
+
+## FATF action on the terrorist group, Islamic State [Footnote3](#fn3)
+
+On September 24, 2014, the Government of Canada [updated the Criminal Code list of terrorist entities to include the Islamic State (IS)](https://www.canada.ca/en/news/archive/2014/09/government-canada-updates-criminal-code-list-terrorist-entities-include-islamic-state.html), which was previously listed as Al Qaeda in Iraq. The Government of Canada also lists eight of its regional affiliates as terrorist entities, including IS – Khorasan Province (ISKP), IS-Bangladesh, IS – Sinai Province (ISSP), IS-Democratic Republic of the Congo, IS- East Asia, IS in the Greater Sahara, IS-Libya and IS-West Africa Province.
+
+FINTRAC would like to reiterate previous statements issued by the FATF, expressing its deep concern with the financing generated by, and provided to, the terrorist group known as the Islamic State.
+
+Accordingly, FINTRAC is reminding all reporting entities subject to the requirements of the [PCMLTFA](https://lois-laws.justice.gc.ca/eng/acts/P-24.501/page-1.html#h-398215)[Footnote4](#fn4) of their obligation[Footnote5](#fn5) to submit a terrorist property report (TPR) to FINTRAC without delay, once they have met the threshold to disclose under the Criminal Code or the Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism (RIUNRST). [Guidance related to TPRs](/guidance-directives/transaction-operation/Guide5/5-eng) can be found on FINTRAC’s website.[Footnote6](#fn6)
+
+In this context, **property** includes any type of real or personal property. This also includes any deed or instrument giving title or right to property, or giving a right to recover or receive money or goods. A terrorist property report includes information about the property as well as any transaction or attempted transaction relating to that property.
+
+**FINTRAC is advising** that reporting entities should consider the above in determining whether to file a suspicious transaction report in respect of one or more financial transaction(s) emanating from, or destined to, a jurisdiction under IS control or a surrounding jurisdiction where there are reasonable grounds to suspect that the transactions or attempted transactions are related to the commission or attempted commission of a money laundering offence or a terrorist activity financing offence.
+
+Reporting entities are also encouraged to undertake enhanced customer due diligence with respect to clients and beneficiaries involved in such financial transactions or attempted financial transactions.[Footnote7](#fn7)
+
+## FATF Public Statement on the Situation in Afghanistan
+
+On May 9, 2013, the Taliban was added to the Criminal Code list of terrorist entities. [Footnote8](#fn8)
+
+On October 21, 2021, the FATF issued a [statement on the situation in Afghanistan](http://www.fatf-gafi.org/publications/fatfgeneral/documents/afghanistan-2021.html).
+
+In this statement, the FATF expressed:
+
+> “its concern about the current and evolving money laundering and terrorist financing risk environment in [Afghanistan]”.
+
+Accordingly, FINTRAC is reminding reporting entities of their obligation[Footnote9](#fn9) to submit a TPR to FINTRAC without delay, once they have made a disclosure under the Criminal Code or the Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism RIUNRST.
+
+**FINTRAC is advising** that reporting entities should consider the above in determining whether to file a suspicious transaction report in respect of one or more financial transaction(s) emanating from, or destined to Afghanistan where there are reasonable grounds to suspect that the transactions or attempted transactions are related to the commission or attempted commission of a money laundering offence or a terrorist activity financing offence.
+
+## FATF Public Statements on the Situation in Ukraine and on the Russian Federation
+
+On February 24, 2022, without provocation, Russian forces, with the support of the Belarusian regime, initiated a comprehensive invasion of Ukraine.
+
+On March 4, 2022, the FATF issued a [Public Statement on the Situation in Ukraine](http://www.fatf-gafi.org/publications/fatfgeneral/documents/ukraine-2022.html).
+
+In this statement, the FATF expressed:
+
+> “its grave concern about the invasion’s impact on the money laundering, terrorist financing and proliferation financing risk environment as well as the integrity of the financial system, the broader economy and safety and security”.
+
+The FATF also called:
+
+> “on all jurisdictions’ competent authorities to provide advice and facilitate information sharing with their private sectors on assessing and mitigating any emerging ML/TF/PF risks identified, including in relation to virtual assets, as well as other threats to international safety and security from the region.”
+
+On June 17, 2022, the FATF issued a [Statement on the Russian Federation](https://www.fatf-gafi.org/publications/fatfgeneral/documents/ukraine-june-2022.html) following discussions at the June 2022 FATF Plenary.
+
+The FATF noted that:
+
+> “The Russian actions run counter to the FATF core principles aiming to promote security, safety and the integrity of the global financial system. They also represent a gross violation of the commitment to international cooperation and mutual respect upon which FATF Members have agreed to implement and support the FATF Standards.”
+
+**FINTRAC is advising** that reporting entities should consider the above in determining whether to file a suspicious transaction report where there are reasonable grounds to suspect that the transactions or attempted transactions emanating from, or destined to Russia are related to the commission or attempted commission of a money laundering offence or a terrorist activity financing offence.
+
+Reporting entities are also encouraged to undertake enhanced customer due diligence with respect to clients and beneficiaries involved in such financial transactions or attempted financial transactions.[Footnote10](#fn10)
+
+FINTRAC would also like to bring the attention of reporting entities that Canada has imposed a significant number of new sanctions measures in response to Russia’s unprovoked and unjustifiable invasion of Ukraine. For additional information on the measures that have been imposed in relation to Russia, Ukraine and Belarus, as well as information on the duty to disclose, please refer to the [Sanctions – Russian invasion of Ukraine webpage](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/ukraine-sanctions.aspx?lang=eng), the [Canadian sanctions website](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/index.aspx?lang=eng&_ga=2.137591536.1332254234.1605191627-1340446011.1602075487), and the [FINTRAC Special Bulletin](/intel/bulletins/rlml-eng).
+
+## Footnotes
+
+Footnote 1
+:   The Department of Finance Canada provides additional information on its website: [General Information on Part 1.1 of the PCMLTFA.](https://www.canada.ca/en/department-finance/corporate/laws-regulations/list-acts-regulations/proceeds-crime-money-laundering-terrorist-financing-act.html)
+
+    [Return to footnote 1 referrer](#fn1-rf)
+
+Footnote 2
+:   The Department of Finance Canada provides additional information on its website: [General Information on Part 1.1 of the PCMLTFA.](https://www.canada.ca/en/department-finance/corporate/laws-regulations/list-acts-regulations/proceeds-crime-money-laundering-terrorist-financing-act.html)
+
+    [Return to footnote 2 referrer](#fn2-rf)
+
+Footnote 3
+:   The Islamic State is known by a variety of names. Reporting entities should refer to [Public Safety Canada’s list of terrorist entities](http://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-eng.aspx#2005).
+
+    [Return to footnote 3 referrer](#fn3-rf)
+
+Footnote 4
+:   Section 5 of the PCMLTFA lists the reporting entities subject to the reporting requirements of the Act. The list of reporting entities is also available on the FINTRAC website: [Who Must Report (fintrac-canafe.gc.ca)](/reporting-declaration/info/re-ed-eng).
+
+    [Return to footnote 4 referrer](#fn4-rf)
+
+Footnote 5
+:   Subsection 7.1(1) of the PCMLTFA.
+
+    [Return to footnote 5 referrer](#fn5-rf)
+
+Footnote 6
+:   Section 2 and 5 of FINTRAC’s guidance related to TPRs describes terrorist property reporting requirements.
+
+    [Return to footnote 6 referrer](#fn6-rf)
+
+Footnote 7
+:   Reporting entities are reminded of their obligation under subsection 9.6(2) of the PCMLTFA, to undertake enhanced customer due diligence on high-risk clients that have been identified through a risk assessment.
+
+    [Return to footnote 7 referrer](#fn7-rf)
+
+Footnote 8
+:   The Taliban is an Islamic fundamentalist political movement in Afghanistan.
+
+    [Return to footnote 8 referrer](#fn8-rf)
+
+Footnote 9
+:   Subsection 7.1(1) of the PCMLTFA.
+
+    [Return to footnote 9 referrer](#fn9-rf)
+
+Footnote 10
+:   Reporting entities are reminded of their obligation under subsection 9.6(2) of the PCMLTFA, to undertake enhanced customer due diligence on high-risk clients that have been identified through a risk assessment.
+
+    [Return to footnote 10 referrer](#fn10-rf)
+
+Date Modified:
+:   2022-11-28

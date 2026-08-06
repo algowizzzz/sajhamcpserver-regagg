@@ -1,0 +1,74 @@
+# PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data
+
+The Prudential Regulation Authority (PRA) has imposed a financial penalty of £4,165,000 on HDI Global SE in connection with the submission of incorrect data to the PRA.
+
+Published on
+20 July 2026
+
+## News release
+
+The Prudential Regulation Authority (PRA) has imposed a financial penalty of £4,165,000 on HDI Global SE in connection with the submission of incorrect data to the PRA. This occurred on multiple occasions between August 2021 and August 2024 and included errors in data provided to the PRA in purported remediation of previously incorrect submissions.     
+  
+The information related to Financial Services Compensation Scheme (FSCS) Liabilities and FSCS Fee Tariff data. Misreporting of FSCS Liabilities may hinder the PRA’s ability to identify material risks and may also result in a firm underpaying any applicable levy to the FSCS.   
+  
+The errors in HDI Global SE’s submissions arose and persisted because of its failure to apply due skill, care and diligence to ensure that the data was calculated correctly. Prior to the summer of 2023, HDI Global SE failed to check the PRA Rulebook or guidance as to what liabilities are covered by the FSCS and the methodology for the calculation of the components of the FSCS Fee Tariff Data. HDI Global SE also had no effective written processes that would ensure that such calculations were carried out to any reliable standard, and there was a lack of clear accountability, internal oversight and challenge, reflecting a failure in organising and controlling its affairs responsibly and effectively. These failures resulted in inaccurate data being provided to the PRA.    
+  
+HDI Global SE has now implemented a number of remediation initiatives and has submitted corrected historical data and paid additional levies required to date by the FSCS to remedy the errors in respect of FSCS Fee Tariff data.   
+  
+The PRA permitted HDI Global SE to participate in the Early Account Scheme (EAS).  HDI Global SE produced a detailed and thorough account as to the facts and circumstances leading to the breaches. This materially assisted the PRA’s investigation and is something the PRA gave credit for when determining the financial penalty.   
+  
+HDI Global SE agreed to resolve this matter and qualified for a 30% reduction in the amount of the financial penalty, which otherwise would have been £5,950,000.   
+  
+**Gareth Truran, Executive Director - Insurance Supervision, said:**  
+  
+“The PRA relies on firms submitting accurate, complete and timely data to assess risks, monitor compliance, inform prudential decisions, and ensure that FSCS levies are correctly calculated. Firms must maintain effective systems and controls to ensure the integrity of data submissions. This is fundamental to achieving the PRA’s safety and soundness objective.”
+
+## Notes to editors
+
+1. [Final Notice](/-/media/boe/files/prudential-regulation/regulatory-action/2026/final-notice-hdi-global-se.pdf)
+2. HDI Global SE is a branch of a global insurance company headquartered in Hanover, Germany. In the UK, the Firm is regulated by the PRA and the Financial Conduct Authority.
+3. Approach to the supervision of Third Country Insurance Branches: [SS 2/18](/prudential-regulation/publication/2018/international-insurers-pras-approach-to-branch-authorisation-and-supervision-ss); [SoP 7/24](/-/media/boe/files/prudential-regulation/statement-of-policy/2024/approach-to-branch-authorisation-and-supervision-sop-may-2024.pdf); [PS 8/24](/prudential-regulation/publication/2024/may/the-pras-approach-to-the-authorisation-and-supervision-of-insurance-branches).
+4. [Fundamental Rules](https://www.prarulebook.co.uk/rulebook/Content/Part/211136/29-01-2024): The PRA found that HDI Global SE breached the following during the relevant period:   
+   - **Fundamental Rule 2** – A firm must conduct its business with due skill, care and diligence.   
+   - **Fundamental Rule 6** – A firm must organise and control its affairs responsibly and effectively.
+5. Information about the FSCS can be found here: [What is the FSCS and what is the new deposit protection limit?](/explainers/what-is-the-financial-services-compensation-scheme)
+6. [The Bank’s approach to enforcement: statutory statements of policy and procedure](/-/media/boe/files/prudential-regulation/publication/boe-approach-to-enforcement-sop-procedure.pdf) (as updated in November 2024) sets out the PRA’s approach to exercising its main enforcement powers under the Financial Services and Markets Act 2000.
+7. The EAS became part of the Bank of England’s enforcement policy for PRA firms and FMIs in January 2024. In appropriate cases, the EAS provides a mechanism for subjects of PRA and FMI investigations to provide a full account, along with all relevant material, to inform the investigation.
+
+## Other news
+
+[News
+
+30 July 2026
+
+### Minutes of the Meeting of the Court of Directors...
+
+### Minutes of the Meeting of the Court of Directors held on 4 June 2026](/minutes/2026/july/court-minutes-4-june-2026)
+
+[News // Monetary Policy Committee (MPC)
+
+30 July 2026
+
+### Bank Rate maintained at 3.75% - July 2026...
+
+### Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes](/monetary-policy-summary-and-minutes/2026/july-2026)
+
+[News // Letter
+
+23 July 2026
+
+### Letter from the Governor to the Daily Mail
+
+### Letter from the Governor to the Daily Mail](/letter/2026/letter-from-the-governor-to-the-daily-mail)
+
+[News // News release
+
+20 July 2026
+
+### PRA fines HDI Global SE £4,165,000 for inaccurate...
+
+### PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data](/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting)
+
+[View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

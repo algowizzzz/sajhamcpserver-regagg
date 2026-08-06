@@ -1,0 +1,25 @@
+{
+  "doc_id": "4ac7a5634957ef37",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "ESTABLISHMENT OR TERMINATION OF A TRUST FOR VESTING ASSETS IN CANADA BY A FOREIGN COMPANY (including a foreign fraternal benefit society) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/establishment-or-termination-trust-vesting-assets-canada-foreign-company-including-foreign-fraternal",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:48d117cd6f1e27ab6772a6f14e0f92b60b1b21e2f6a7a3747569b1812e175237",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/4ac7a5634957ef37",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

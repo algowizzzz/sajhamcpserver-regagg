@@ -1,0 +1,65 @@
+# FinCEN Advisory - Issue 30
+
+## Advisory Information
+
+n/a
+
+[advis30.pdf](/system/files/advisory/advis30.pdf "advis30.pdf")
+(54.21 KB)
+
+Issued Date
+
+April 01, 2002
+
+Subject
+
+Transactions Involving the Arab Republic of Egypt
+
+FinCEN Advisory
+
+This Advisory is being issued to inform banks and other financial institutions operating in the United States of serious deficiencies in the counter-money laundering systems of the Arab Republic of Egypt. The impact of such deficiencies on the scrutiny that should be given to certain transactions or banking relationships involving Egypt, in light of the suspicious transaction reporting obligations of financial institutions operating in the United States, is discussed below.
+
+Egypt is a Northern African nation that borders the Mediterranean Sea between Libya and the Gaza Strip. It forms the only land bridge between Africa and the remainder of the Eastern Hemisphere and has an area of approximately 1,001,450 square kilometers. With a population of more than 68 million, Egypt had an estimated 1999 GDP of $200 billion. Egypt maintains a republic form of government.
+
+The counter-money laundering regime embodied in the legal, supervisory, and regulatory systems of Egypt suffers from serious systemic problems as follows:
+
+* The Government of Egypt has failed to enact a specific law criminalizing money laundering.
+* Egypt lacks effective laws and regulations requiring non-bank financial institutions to identify their customers.
+* Although banks in Egypt are required under regulations issued in June 2001 to maintain records of unusual transactions, they are not required to submit those records to a competent authority.
+* Egypt lacks an effective centralized unit for the collection, analysis, and dissemination of financial information to competent authorities to combat money laundering.
+
+These deficiencies, among others, caused Egypt to be identified in June 2001 by the Financial Action Task Force on Money Laundering (the “FATF”) as noncooperative “in the fight against money laundering.” The FATF, created at the 1989 G-7 Economic Summit, is a 31 member international group that works to combat money laundering.
+
+Egypt is taking steps to correct the systemic deficiencies identified above. Most notably, the Central Bank of Egypt issued in June 2001 new counter-money laundering regulations that include customer identification and record-keeping provisions for banks. The Egyptian Government has also signaled a willingness to enact specific legislation to criminalize money laundering. Nonetheless, Egypt’s legal, supervisory, and regulatory systems create significant opportunities and tools for money laundering and increase the possibility that transactions involving Egyptian entities and accounts will be used for illegal purposes.
+
+Thus, banks and other financial institutions operating in the United States should carefully consider, when dealing with transactions (especially those involving large sums of money, whether in cash or by wire transfer) originating in or routed to or through Egypt, or involving entities organized or domiciled, or persons maintaining accounts, in Egypt, how the deficiencies in Egyptian counter-money laundering controls affect the possibility that those transactions are being used for illegal purposes. A financial institution subject to the suspicious transaction reporting rules contained within 31 C.F.R. Part 103, and in corresponding rules of the federal financial institution supervisory agencies, should carefully examine the available facts relating to any such transaction to determine if such transaction requires reporting in accordance with those rules. Institutions subject to the Bank Secrecy Act but not yet subject to specific suspicious transaction reporting rules should consider such a transaction with relation to their reporting obligations under other applicable law. All institutions are particularly advised to give enhanced scrutiny to transactions or relationships that do not involve established, and adequately identified and understood, commercial or investment enterprises.
+
+It should be emphasized that the issuance of this Advisory and the need for enhanced scrutiny for certain transactions or banking relationships does not mean that U.S. financial institutions should curtail legitimate business involving Egypt.
+
+To dispel any doubt about application of the “safe harbor” to transactions within the ambit of this Advisory, the Treasury Department will consider any report relating to a transaction described in this Advisory to constitute a report of a suspicious transaction relevant to a possible violation of law or regulation for purposes of the prohibitions against disclosure and the protection from liability for the reporting of suspicious transactions contained in 31 U.S.C. 5318(g)(2) and (g)(3).
+
+United States officials stand ready to provide appropriate technical assistance to Egyptian officials as they work to remedy the deficiencies in Egypt’s countermoney laundering systems that are the subject of this Advisory.
+
+James F. Sloan  
+Director
+
+---
+
+FinCEN Advisory is a product of the Financial Crimes Enforcement Network, Department of the Treasury, Post Office Box 39, Vienna, Virginia 22183. For more information about FinCEN’s programs, visit the FinCEN web site at <https://www.fincen.gov>. General questions or comments regarding FinCEN publications should be addressed to the Office of Communications, FinCEN, (703) 905-3773. Information may also be faxed to (703) 905-3885.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

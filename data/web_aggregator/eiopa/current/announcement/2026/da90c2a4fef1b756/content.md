@@ -1,0 +1,16 @@
+Page Content
+
+* *Growing cyber threats, increasing power of big data as well as contagion risk from intra-group transactions in multi-national insurance groups are focus areas for risk-based and forward-looking supervision in the United States and the European Union*
+* *The Steering Committee of the EU -U.S. Insurance Dialogue Project set the scene for 2019 for further deepening the cooperation and mutual understanding of regulatory approaches and supervisory practices in these evolving and critical areas*
+* *The recent EU -U.S. Forum served as an important platform to share multiple perspectives on objectives, opportunities, challenges and risks in these key areas.*
+
+On 10 November 2018, the European Insurance and Occupational Pensions Authority (EIOPA) together with the National Association of Insurance Commissioners (NAIC) and the Federal Insurance Office (FIO) of the U.S. Department of Treasury hosted the sixth EU- U.S. Forum in Luxembourg. Representatives from the industry, consumer organisations and regulators from the United States and the European Union discussed challenges and opportunities related to cyber risks, the use of big data, artificial intelligence and intra-group transactions in multi-national insurance groups.
+
+Gabriel Bernardino, Chairman of EIOPA, said: "*We particularly welcome cooperation with our American colleagues, building on successful past dialogue and now benefiting from deepening the mutual understanding of supervisory approaches and practices to address fast evolving cyber risks, increasing power of big data and the critical area of intra-group transactions. Considering the implications for the operational environment and the business models of insurers, globally, a collective response of supervisors is required to meet our primary objective which is the protection of policyholders and beneficiaries*."
+
+Katharine L. Wade, Commissioner, Connecticut Insurance Department, said: "*The EU- U.S. Insurance Dialogue Project has led to an enhanced mutual understanding of our respective regulatory frameworks and initiatives in the areas of cyber security, cyber insurance, use of big data and intra-group transactions. Continued dialogue with our European colleagues in these key areas helps to ensure effective coordinated supervision of cross border insurance groups for the benefit of our policyholders."*
+
+**The EU-U.S. Insurance Dialogue Project started in early 2012. At that time the European Commission (EC), EIOPA, the NAIC and the FIO agreed to participate in a deeper dialogue to contribute to an increased mutual understanding and enhanced cooperation between the European Union and the United States. The objective of the Project is to promote business opportunity, consumer protection and effective supervision. The Federal Reserve Bank (FRB) has since joined the EU-U.S. Insurance Project.**
+
+Publication date
+:   14 November 2018

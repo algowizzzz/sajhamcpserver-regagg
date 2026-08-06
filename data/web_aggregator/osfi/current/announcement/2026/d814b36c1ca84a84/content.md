@@ -1,0 +1,128 @@
+# Guide d’intervention auprès des sociétés d’assurance vie fédérales
+
+Le [nouveau Cadre de surveillance](/fr/surveillance/pratiques-surveillance/cadre-surveillance-0 "Cadre de surveillance") du BSIF est entré en vigueur le 1er avril 2024. Nous mettrons à jour les guides d’intervention pour en retirer les références obsolètes. Veuillez-vous reporter au tableau sur [les nouvelles cotes de risque global et les stades d’intervention](/fr/surveillance/pratiques-surveillance/cadre-surveillance-0#echelle-crg "Cadre de surveillance").
+
+## Le processus d’intervention
+
+L’objectif du processus d’intervention est de permettre au Bureau du surintendant des institutions financières (BSIF) de déceler aussitôt que possible les situations susceptibles d’engendrer des problèmes afin de pouvoir intervenir rapidement, réduisant ainsi au minimum les pertes pour les souscripteurs et les autres créanciers des sociétés d’assurance-vie fédérales (les « sociétés »).
+
+Assuris a pour mission d’atténuer l’impact, pour les souscripteurs canadiens, de la faillite de la société d’assurance-vie avec laquelle ils font affaires. Assuris collabore avec les autorités de contrôle dès qu’une intervention se révèle nécessaire, dans le but de réduire les coûts à long terme et de préserver l’image de la solidité de l’industrie auprès du public.
+
+La *Loi sur les sociétés d’assurances* confère au BSIF un large éventail de pouvoirs d’intervention discrétionnaires qu’il peut exercer lorsqu’une société suscite des préoccupations. Les évaluations effectuées durant l’intervention tiennent compte des particularités de la société en cause, y compris la nature de ses activités, sa taille, sa complexité et son profil de risque.
+
+## Les rôles du BSIF et d’Assuris
+
+Le BSIF est responsable au premier chef de la réglementation et de la surveillance des sociétés. À ce titre, il effectue des évaluations axées sur les risques susceptibles de porter atteinte à la sûreté et à la stabilité de ces dernières. Assuris n’exerce pas une surveillance continue de ses sociétés membres.
+
+En termes d’intervention, le rôle d’Assuris consiste à protéger les souscripteurs en réduisant le plus possible la perte de leurs prestations et en assurant le transfert rapide des polices à une société solvable, qui assurera le maintien des garanties. Assuris est financée par le secteur de l’assurance-vie et sanctionnée par le gouvernement du Canada.
+
+Assuris travaille en partenariat avec le BSIF dans le cadre du processus de surveillance. Elle analyse de façon indépendante la situation financière de ses sociétés membres et rencontre périodiquement les représentants du BSIF pour s’entretenir de points découlant de cette analyse. En outre, le BSIF fournit à Assuris des renseignements au sujet des sociétés dont il juge la situation plus préoccupante (celles qui se situent à l’étape 1 ou au-delà).
+
+## Aperçu du Guide
+
+Le présent guide vise à faire connaître le cadre d’intervention auprès des sociétés d’assurance-vie fédérales et à en accroître la transparence. Il décrit les types d’interventions auxquelles peuvent s’attendre normalement les sociétés de la part du BSIF en résumant les circonstances dans lesquelles des mesures d’intervention particulières sont prévues et en présentant les mécanismes de coordination qui existent entre, d’une part, le BSIF et, d’autre part, Assuris et d’autres intervenants. Au besoin, le Guide est mis à jour en fonction des modifications apportées au processus d’intervention ou aux rôles et aux responsabilités du BSIF et d’Assuris dans le cadre du processus d’intervention.
+
+## Interprétation du Guide
+
+Le processus d’intervention n’est pas un régime rigide qui prévoit l’application d’un ensemble de mesures préétablies dans chaque situation. Les circonstances de chaque cas peuvent varier sensiblement, et il ne faut pas considérer que le guide limite la marge de manoeuvre dont bénéficie le BSIF face à des problèmes particuliers ou à des sociétés données. Il précise l’étape à laquelle a généralement lieu une action ou une intervention devrait avoir lieu. Or, les interventions prévues à un stade particulier servent également à des stades ultérieurs et, si la situation le justifie, certaines d’entre elles peuvent avoir lieu avant le moment prévu dans le Guide. Qui plus est, le BSIF peut choisir d’exercer ses pouvoirs à différents moments ou à différents stades, selon les circonstances.
+
+**Aucun problème particulier/activités normales** – Si le BSIF juge que la situation financière, les politiques et les procédures d’une société sont acceptables et que ses pratiques, conditions et circonstances ne révèlent pas de lacunes de contrôle ou de problèmes importants, la société ne sera généralement pas cotée.
+
+Si une société n’est pas cotée, cela signifie que le BSIF a conclu que, compte tenu de l’ensemble de son risque net global, de ses fonds propres et de ses bénéfices, elle pourra supporter la plupart des conditions commerciales et économiques négatives normales. Le rendement de la société se situe dans la fourchette de satisfaisant à bon, et la plupart de ses indicateurs clés égalent ou dépassent les normes du secteur. Il est possible que la société ait accès à des fonds propres supplémentaires, et elle est à même de répondre aux préoccupations susceptibles de se présenter en matière de surveillance.
+
+Activités et responsabilités générales par établissement
+
+| BSIF | Protocoles mixtes et avec Assuris | Assuris |
+| --- | --- | --- |
+| **Activités et responsabilités du BSIF :**   * Évaluer la situation financière et les résultats d’exploitation de la société. * Examiner l’information contenue dans les déclarations exigées par la loi, les rapports financiers obligatoires et les rapports de la direction au conseil d’administration (y compris les procès-verbaux des réunions du conseil et de ses comités). * Rencontrer des représentants de la société. * Soumettre régulièrement la société à des examens de surveillance axés sur les risques. * Dans certains cas, des représentants du BSIF assistent à des réunions du conseil d’administration de la société pour passer en revue les résultats d’examens de surveillance. Fournir une lettre de surveillance à la société. * Remettre au président du comité de la vérification des copies de la lettre de surveillance. * Informer la société de ses cotes de risque composites. * Demander à la direction de la société de faire tenir copie de la lettre de surveillance au vérificateur externe. * Informer la société de toutes les mesures correctives qu’elle devra prendre. * Surveiller toutes les mesures correctives, ce qui peut l’amener à demander des renseignements supplémentaires ou à effectuer des examens de surveillance d’appoint. * Faire rapport annuellement au ministre des Finances. | **Activités et responsabilités mixtes possibles :**   * Le BSIF informe Assuris des changements de la situation de la société. * Des représentants du BSIF et d’Assuris se rencontrent périodiquement et fréquemment pour discuter de la société si Assuris a des questions. * Le BSIF et Assuris discutent de toutes les mesures correctives que le BSIF a demandé à la société de prendre. | **Activités et responsabilités d’Assuris :**   * Terminer l’analyse de l’information reçue directement de la société. * Les représentants d’Assuris discutent des résultats de leur analyse avec les représentants du BSIF. * Communiquer ses préoccupations ou ses questions au BSIF. |
+
+**Étape 1 – Avertissement rapide** – Si une société est classée à l’étape 1, cela signifie que le BSIF a repéré des lacunes dans sa situation financière ou ses politiques et procédures, ou d’autres pratiques, conditions ou circonstances susceptibles de provoquer des problèmes propres à l’étape 2 si la société tarde à les régler.
+
+Les conditions suivantes pourraient amener le BSIF à classer une société à l’étape 1 :
+
+* l’ensemble du risque net global, des fonds propres et des bénéfices de la société compromet sa résistance;
+* des problèmes de gestion des risques ou des lacunes de contrôle, bien qu’ils ne soient pas suffisamment graves pour menacer la viabilité financière ou la solvabilité de la société, pourraient s’aggraver s’ils ne sont pas réglés.
+
+Stade 1 : Signes précurseurs – activités et responsabilités par établissement
+
+| BSIF | Protocoles mixtes et avec Assuris | Assuris |
+| --- | --- | --- |
+| **Activités et responsabilités supplémentaires possibles du BSIF :**   * Envoyer une lettre de surveillance à la direction, au conseil d’administration et au vérificateur externe afin de les informer officiellement du classement de la société au à l’étape 1 et de son obligation de prendre des mesures pour atténuer ou corriger les lacunes constatées. * Rencontrer la direction, le conseil d’administration (ou un de ses comités) et/ou le vérificateur externe de la société pour leur décrire les préoccupations et discuter de mesures correctives. * Faire parvenir à la société un avis de cotisations additionnelles. * Intensifier la surveillance de la société en augmentant la fréquence des rapports obligatoires et/ou le niveau de détail des renseignements que la société doit présenter. * Effectuer des examens de surveillance plus approfondis ou plus fréquents, ou donner instruction aux spécialistes internes de la société de se livrer à des examens qui visent des préoccupations particulières, par exemple l’évaluation des actifs ou des engagements aux termes des polices. * Conclure un accord prudentiel avec la société en vue de la mise en oeuvre de toutes les mesures visant à maintenir ou à améliorer sa sûreté et sa stabilité. * Obliger la société à augmenter ses fonds propres. * Imposer des restrictions à l’exploitation de la société et/ou lui délivrer une ordonnance de conformité lorsque les circonstances le justifient. | **Activités et responsabilités mixtes possibles :**   * Le BSIF informe Assuris qu’il cote la société et renseigne Assuris au sujet des motifs de la décision et de toutes les mesures qu’il envisage. * Les représentants d’Assuris et du BSIF se rencontrent plusieurs fois par année pour discuter de toutes les sociétés cotées à l’étape 1 et de celles dont la situation préoccupe Assuris pour mettre en lumière des problèmes précis et discuter des solutions prévues ainsi que des échéanciers. * Le surintendant rencontre le conseil d’administration d’Assuris au moins une fois l’an. | **Activités et responsabilités supplémentaires possibles d’Assuris :**   * Analyser en profondeur toute l’information publique pertinente, et celle obtenue directement de la société ou du BSIF. |
+
+**Étape 2 – Viabilité financière ou solvabilité menacée** – A l’étape 2, la sûreté et la stabilité de la société suscitent d’importantes inquiétudes, et celle-ci est vulnérable aux conditions commerciales et économiques négatives. Le BSIF a recensé des problèmes susceptibles de s’aggraver faute d’une action prompte, bien qu’ils ne soient pas suffisamment graves pour présenter une menace immédiate pour la viabilité financière ou la solvabilité de la société.
+
+Il est probable que le BSIF classe une société à l’étape 2 si au moins l’une des conditions suivantes est remplie :
+
+* l’ensemble du risque net global, des fonds propres et des bénéfices de la société la rend vulnérable à des conditions commerciales et économiques négatives qui pourraient présenter une menace grave pour sa viabilité financière ou sa solvabilité à moins de mesures correctives efficaces;
+* la société connaît des problèmes de gestion des risques qui, bien qu’ils ne soient pas suffisamment graves pour présenter une menace immédiate pour sa viabilité financière ou sa solvabilité, pourraient s’aggraver s’ils ne sont pas réglés sans tarder.
+
+Stade 2 : Viabilité financière ou solvabilité menacée - activités et responsabilités par établissement
+
+| BSIF | Protocoles mixtes et avec Assuris | Assuris |
+| --- | --- | --- |
+| **Activités et responsabilités supplémentaires possibles du BSIF :**   * Intensifier la surveillance des mesures correctives en imposant à la société l’obligation de présenter des rapports plus fréquents. * Augmenter le nombre des examens de surveillance d’appoint et/ou en étendre la portée. * Obliger la société à intégrer à son plan d’entreprise des mesures pertinentes visant à régler les problèmes dans des délais précis. * Exiger du vérificateur externe qu’il étende la portée de son examen des états financiers et/ou applique d’autres procédures et en fasse rapport. Remarque : Le BSIF peut imputer à la société le coût des travaux du vérificateur externe. * Obliger la société à effectuer une vérification spéciale menée par un vérificateur autre que le vérificateur externe de la société. Remarque : Le BSIF peut imputer à la société le coût de la vérification. * Exiger que l’actuaire désigné calcule les engagements pris aux termes des polices à l’aide d’autres hypothèses ou méthodes. * Exiger qu’un actuaire autre que celui de la société procède à un examen spécial des provisions actuarielles de la société. * Élaborer un plan d’urgence pour être prêt à prendre sans tarder le contrôle des actifs de la société ou de cette dernière si la situation s’aggrave rapidement. | **Activités et responsabilités mixtes possibles :**   * Le BSIF informe Assuris des données et des résultats obtenus à la suite d’examens de surveillance approfondis, de vérifications accrues et d’un suivi renforcé. * Le BSIF, en collaboration avec Assuris, entreprend l’élaboration d’un plan d’urgence (quoique cette activité puisse avoir lieu à l’étape 1 dans des circonstances exceptionnelles). | **Activités et responsabilités supplémentaires possibles d’Assuris :**   * Demander des renseignements, dont les suivants, au BSIF, et les analyser :    + le plan d’entreprise fourni par la société indiquant ses mesures correctives;   + les rapports et les résultats des examens réglementaires et spéciaux du BSIF;   + le mandat des vérificateurs, de même que la portée et les résultats de leurs travaux;   + le mandat des actuaires, de même que la portée et les résultats de leurs travaux. * Embaucher des experts-conseils pour analyser en profondeur les aspects critiques. Remarque : Le BSIF considérera ces experts-conseils comme des dirigeants d’Assuris tant que des ententes de confidentialité appropriées sont en vigueur. * Élaborer un plan de restructuration préliminaire. |
+
+**Étape 3 – Viabilité financière ou solvabilité menacée** – Si une société est classée à l’étape 3, cela signifie que le BSIF a constaté qu’elle n’a pas réglé les problèmes relevés à l’étape 2 et que la situation s’aggrave. La sûreté et la stabilité de la société suscitent de graves inquiétudes, et celle-ci éprouve des problèmes qui menaceront sérieusement sa viabilité financière ou sa solvabilité à l’avenir s’ils ne sont pas bien réglés sans tarder. L’une des conditions suivantes ou les deux sont remplies:
+
+* l’ensemble du risque net global, des fonds propres et des bénéfices de la société la rend vulnérable à des conditions commerciales et économiques négatives qui présentent une menace grave pour sa viabilité financière ou sa solvabilité si des mesures correctives ne sont pas prises sans tarder;
+* la société éprouve de sérieux problèmes de gestion des risques ou d’importantes lacunes de contrôle qui présentent une menace grave pour sa viabilité financière ou sa solvabilité si des mesures correctives ne sont pas prises sans tarder.
+
+Stade 3 : Viabilité financière sérieusement compromise - activités et responsabilités par établissement
+
+| BSIF | Protocoles mixtes et avec Assuris | Assuris |
+| --- | --- | --- |
+| **Activités et responsabilités supplémentaires du BSIF :**   * Charger des spécialistes ou des professionnels externes d’évaluer certains secteurs, par exemple la qualité des actifs, la liquidité, l’adéquation des réserves, l’adéquation des engagements aux termes des polices et la fiabilité des accords de réassurance, etc. * Étendre les restrictions à l’exploitation qui ont déjà été imposées à la société et/ou augmenter le niveau de détail des renseignements que cette dernière doit lui présenter. * Le personnel du BSIF se rend sur place pour surveiller la situation de la société de façon continue. * Accroître les activités de planification d’urgence. * Sensibiliser la direction et le conseil d’administration de la société à l’importance d’envisager des solutions possibles, par exemple la restructuration de la société ou la recherche d’un acheteur potentiel. | **Activités et responsabilités mixtes possibles :**   * Assuris et le BSIF discutent plus souvent et plus en profondeur de la société. | **Activités et responsabilités supplémentaires d’Assuris :**   * Désigner la société à titre de « membre en difficulté ». * Élaborer un plan de restructuration détaillé. * Estimer la protection à fournir. * Déterminer si elle doit prendre un engagement financier pour appuyer le plan de restructuration dans les circonstances afin de réduire sonexposition potentielle. * Élaborer un plan de mesures d’urgence pour gérer la liquidation et financer ses engagements de couverture. |
+
+**Étape 4 – Non-viabilité/insolvabilité imminente** – Si une société est classée à l’étape 4, cela signifie que le BSIF a constaté qu’elle éprouve de sérieuses difficultés financières et que son état s’est aggravé à un tel point que :
+
+* • la société ne répond pas aux normes des fonds propres règlementaire et est incapable de corriger la situation dans l’immédiat;
+* les conditions de prise de contrôle prescrites par les dispositions législatives pertinentes ont été remplies;
+* la société n’a pas élaboré et mis en oeuvre un plan d’entreprise acceptable, si bien que l’un ou l’autre des deux critères précédents sera inévitablement satisfait sous peu.
+
+A l’étape 4, le BSIF a déterminé que la non-viabilité de la société est imminente.
+
+Stade 4 : Non-viabilité/insolvabilité imminente - activités et responsabilités par établissement
+
+| BSIF | Protocoles mixtes | Assuris |
+| --- | --- | --- |
+| **Activités et responsabilités supplémentaires possibles du BSIF :**   * Prendre temporairement le contrôle des actifs de la société et de ceux qu’elle administre (ou, dans le cas d’une société étrangère, de ses actifs au Canada et de ses autres actifs au Canada qu’administre son agent principal, y compris tous les montants reçus ou à recevoir relativement à ses activités d’assurance au Canada) si les conditions de prise de contrôle des actifs prévues par la loi sont réunies. * Prendre le contrôle des actifs de la société et de ceux qu’elle administre (ou, dans le cas d’une société étrangère, de ses actifs au Canada et de ses autres actifs au Canada qu’administre son agent principal, y compris tous les montants reçus ou à recevoir relativement à ses activités d’assurance au Canada) ou prendre le contrôle de la société si les conditions de prise de contrôle prévues par la loi sont réunies, sauf si le Ministre avise le BSIF que la prise de contrôle n’est pas dans l’intérêt public. * Inviter le procureur général du Canada à déposer une demande d’ordonnance de liquidation relativement à la société si le surintendant a pris le contrôle de celle-ci ou de ses actifs ou, dans le cas d’une société étrangère, si le surintendant a pris le contrôle de ses actifs au Canada et de ses autres actifs. | **Activités et responsabilités mixtes possibles :**   * Le BSIF consulte Assuris au sujet des mesures qui pourraient être prises, dont :    + une prise de contrôle temporaire;   + des mesures de gestion intérimaires;   + la planification de la fin de la période de contrôle et l’exécution de la liquidation;   + la désignation d’un liquidateur ou d’un mandataire suppléant. * Les représentants d’Assuris discutent avec ceux du BSIF de la mise en oeuvre du plan d’urgence élaboré à l’étape 3. | **Activités et responsabilités supplémentaires possibles d’Assuris :**   * Obtenir l’engagement du Conseil d’administration à fournir une protection en cas de liquidation. * En prévision de l’émission de l’ordonnance de liquidation, préparer une demande de cotisation afin d’amasser les fonds requis pour remplir ses engagements en matière de protection. * Le cas échéant, planifier, avec l’aide du liquidateur choisi, les travaux ordonnés de liquidation, notamment :    + en préparant un manuel de clôture conçu pour faciliter le règlement des questions et les actions découlant directement de la liquidation;   + en formant des agents d’information chargés de répondre aux demandes de renseignements du public;   + en organisant le financement et en faisant rapport sur les dispositions prises pendant la liquidation;   + en élaborant des stratégies avec le liquidateur aux fins de l’exploitation de la société visée par l’ordonnance. |
+
+## Glossaire
+
+Le présent glossaire définit certains termes utilisés dans le *Guide d’intervention auprès des sociétés d’assurance vie fédérales*. Les termes décrits dans le glossaire renferment de l’information en rapport avec les activités ou les affaires des sociétés d’assurance-vie. Veuillez noter que tous les renseignements relatifs aux activités ou aux affaires des sociétés que reçoit le BSIF ou qui sont produits par ce dernier ou Assuris doivent être traités confidentiellement, tel que la loi le prévoit. Il est également interdit aux sociétés de divulguer ces documents lorsqu’ils renferment des renseignements relatifs à la supervision, tels qu’ils sont définis dans le règlement applicable.
+
+Accord prudentiel
+:   Accord conclu entre une société et le surintendant afin de mettre en oeuvre les mesures visant à assurer ou à améliorer la sûreté et la stabilité de la société.
+
+Avis de cotisation additionnelle
+:   Avis par écrit du surintendant à l’intention d’une société dans lequel il informe cette dernière qu’elle doit verser une cotisation additionnelle. Ce supplément de cotisation est exigé des sociétés qui se voient attribuer une cote d’intervention, conformément au *Guide d’intervention auprès des sociétés d’assurance vie fédérales* ou en vertu des principes énoncés dans le Guide. Le montant de la cotisation additionnelle est prévu par règlement.
+
+Cotes de risque composites (CRC)
+:   La CRC représente l’évaluation globale, par le BSIF, de la sûreté et de la stabilité d’une société. Il existe quatre cotes de risque composites, « faible », « modérée », « supérieure à la moyenne » et « élevée ». La détermination de la CRC est fondée sur un ensemble de critères d’évaluation qui ont été élaborés de concert avec l’industrie.
+
+Lettre de surveillance
+:   Lettre que le BSIF envoie à une société pour lui faire part de ses constatations et recommandations découlant de ses travaux de surveillance, de la cote de risque composite (CRC) et, le cas échéant, de sa cote d’intervention. Les sociétés reçoivent une lettre de surveillance au moins tous les ans, et plus souvent si des modifications sont apportées à leur CRC ou à leur cote d’intervention.
+
+Manuel de clôture
+:   Le Manuel de clôture regroupe les politiques et les procédures que doivent appliquer les employés du liquidateur, et d’autres intervenants sous la gouverne du liquidateur, pour prendre le contrôle de la société et l’exploiter après l’émission d’une ordonnance de liquidation par le tribunal.
+
+Membre en difficulté
+:   Selon le règlement administratif interne d’Assuris, un « membre en difficulté » s’entend de « tout membre qui est un membre insolvable ou tout autre membre au sujet duquel le Conseil d’administration détermine qu’il existe de fortes chances que ce membre devienne un membre insolvable. »
+
+Ordonnance de conformité
+:   Directive qu’adresse le surintendant à une société, ou à une personne relativement à société, lorsqu’il est d’avis que la société ou la personne est en train ou sur le point de commettre un acte ou d’adopter une attitude contraire aux bonnes pratiques du commerce, dans le cadre de l’exercice des activités de la société. Une ordonnance de conformité peut enjoindre à une société ou à une personne de mettre un terme à l’acte ou à la conduite ou de s’en abstenir et/ou de prendre les mesures qui, selon le surintendant, s’imposent pour remédier à la situation.
+
+Plan de restructuration
+:   Un plan de restructuration décrit les mesures à prendre pour recapitaliser la société et la céder aux nouveaux propriétaires, ou pour transférer les blocs de polices à une société d’assurances solvable.
+
+Sommaire de l’évaluation des risques (SER)
+:   Résumé des principaux renseignements relatifs à la supervision se rapportant à une société. Il présente l’évaluation du profil de risque d’une société et donne un aperçu général de cette dernière, ce qui permet de définir le contexte de l’évaluation.
+
+## Liens utiles
+
+* [Guide d’intervention auprès des sociétés d’assurance vie fédérales (lettre)](/en/guidance/guidance-library/guide-intervention-federally-regulated-life-insurance-companies-letter "Guide to Intervention for Federally Regulated Life Insurance Companies (Letter)")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-04-02

@@ -1,0 +1,93 @@
+# Notices and advisories for reporting entities
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+FINTRAC issues notices and advisories to convey the latest information on obligations, reporting and examinations.
+
+## On this page
+
+* [Notices to reporting entities](#s1)
+* [FINTRAC advisories](#s2)
+* [Stay up to date](#s3)
+
+## Notices to reporting entities
+
+* 2026-06-23[FINTRAC updates its guidance, reporting form and technical documentation related to the Ministerial Directive on the Islamic Republic of Iran](/obligations/dir-iri-eng#s5)
+* 2026-06-18[FINTRAC publishes a video for the mortgage sector](/training-formation/mortgage-hypotheque/video3-eng)
+* 2026-05-06[Changes to the administrative monetary penalties framework](/pen/3-eng)
+* 2026-04-16[Implementation of legislative amendments](/businesses-entreprises/changes-changements-eng)
+* 2025-11-26[FINTRAC publishes money laundering indicators related to bribery and corruption](/guidance-directives/guidance-directives-eng#s3)
+* 2025-11-26[FINTRAC updates its guidance on politically exposed persons and heads of international organizations related to bribery and corruption](/guidance-directives/client-clientele/pep/pep-eng#s8)
+* 2025-11-17[FINTRAC updates its guidance related to the Ministerial Directive on the Islamic Republic of Iran](/obligations/dir-iri-eng)
+* 2025-11-03[FINTRAC publishes guidance on private-to-private information sharing](/guidance-directives/sharing-echange/sharing-echange-eng)
+* 2025-10-01[FINTRAC updates its guidance on beneficial ownership: discrepancy reporting](/guidance-directives/client-clientele/bor-eng#s4)
+* 2025-10-01 [FINTRAC updates its guidance for money services businesses: engaging agents or mandataries](/msb-esm/msb-eng)
+* 2025-10-01[Reporting requirements for disclosures under the Special Economic Measures Act or the Justice for Victims of Corrupt Officials Act in effect October 1, 2025](/guidance-directives/transaction-operation/Guide5/5-eng)
+* 2025-09-15[FINTRAC updates its guidance on information records relating to unrepresented parties in real estate transactions as of October 1, 2025](/guidance-directives/recordkeeping-document/record/real-eng#x5)
+* 2025-09-15[FINTRAC updates its guidance on the use of an agent or mandatary as of October 1, 2025](/guidance-directives/client-clientele/Guide11/11-eng)
+* 2025-09-09[Requirements applicable to acquirer services in relation to private automated banking machines as of October 1, 2025](/re-ed/abm-gap-eng)
+* 2025-09-09[Requirements applicable to title insurers as of October 1, 2025](/re-ed/title-titre-eng)
+* 2025-08-06[FINTRAC updates its administrative monetary penalties policy](/pen/2-eng)
+* 2025-08-06[FINTRAC publishes its supervisory framework](/introduction/cpf/cpf-eng)
+* 2025-07-14[Updates to the guidance related to the Ministerial Directive on the Islamic Republic of Iran: clarifications on transactions and reporting instructions](/obligations/dir-iri-eng)
+* 2025-07-10[FINTRAC updates guidance for cheque cashers](/re-ed/cheque-eng)
+* 2025-07-10[FINTRAC updates guidance for factors](/re-ed/fact-affact-eng)
+* 2025-07-10[FINTRAC updates guidance for financing or leasing entities](/re-ed/lease-bail-eng)
+* 2025-07-09[July 9, 2025 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2025-07-02-eng)
+* 2025-03-26[Requirements applicable to factors as of April 1, 2025](/re-ed/fact-affact-eng)
+* 2025-03-26[Requirements applicable to cheque cashers as of April 1, 2025](/re-ed/cheque-eng)
+* 2025-03-26[Requirements applicable to financing or leasing entities as of April 1, 2025](/re-ed/lease-bail-eng)
+* 2025-03-26[Implementation of Budget 2024 amendments on private-to-private information sharing and beneficial ownership discrepancy reporting](/businesses-entreprises/changes-changements-eng)
+* 2025-03-21[FINTRAC publishes updates to its guidance related to Ministerial directives: Democratic People’s Republic of Korea and Russia](/obligations/directives-eng)
+* 2025-02-28[FINTRAC publishes new guidance and form to report terrorist and sanctioned property-related information](/guidance-directives/transaction-operation/guide5/5-eng)
+* 2024-10-08[FINTRAC launches self-assessment tool for businesses in the mortgage sector to determine their obligations under the Act as of October 11, 2024](/re-ed/mortgage-hypotheque/1-eng)
+* 2024-08-19[FINTRAC updates its guidance on how to report suspected sanctions evasion in a Suspicious Transaction Report](/guidance-directives/transaction-operation/str-dod/str-dod-eng)
+* 2024-07-31[FINTRAC updates its online Money Services Business Registry](/msb-esm/reg-eng)
+* 2024-06-25[FINTRAC publishes guidance on the requirement to report transactions suspected to be related to sanctions evasion](/guidance-directives/transaction-operation/sanctions/sanctions-eng)
+* 2024-06-24[FINTRAC updates guidance on Electronic Funds Transfer Reports and Casino Disbursement Reports](/guidance-directives/guidance-directives-eng#s3)
+* 2024-06-24[FINTRAC completes implementation of modernized Electronic Funds Transfers Reports and Casino Disbursement Reports in FINTRAC API report submission](/reporting-declaration/Info/api/api-eng)
+* 2024-04-08[FINTRAC implements its new Suspicious Transaction Report form which can now be submitted through FINTRAC API report submission](/reporting-declaration/info/api/api-eng)
+* 2024-02-23[Update to the guidance related to the Ministerial Directive on Financial Transactions Associated with the Islamic Republic of Iran: clarifications on requirements for virtual currency transactions](/obligations/dir-iri-eng)
+* 2024-02-23[Guidance related to the Ministerial Directive on Financial Transactions Associated with Russia issued on February 24, 2024](/obligations/dir-rus-eng)
+* 2023-12-15[Backgrounder: Change to public notices for administrative monetary penalties](/pen/6-eng)
+* 2023-10-23[FINTRAC implements important changes: Large Cash Transaction Report form, guidance and API report submission](/businesses-entreprises/changes-changements-eng#s5)
+* 2023-10-12[Modernization and upcoming changes impacting reporting entities](/businesses-entreprises/changes-changements-eng)
+* 2023-10-12[Charging reporting entities for FINTRAC’s compliance program as of April 1, 2024](/guidance-directives/cost-cout/1-eng)
+* 2023-10-12[Requirements applicable to armoured cars as of July 1, 2024](/re-ed/cars-vehicules-eng)
+* 2023-10-12[Requirements applicable to the mortgage sector as of October 11, 2024](/re-ed/mortgage-hypotheque-eng)
+* 2023-02-22[Update to the Guidance on methods to verify the identity of persons and entities: New section entitled “How to verify the identity of a person who does not have any identity verification documentation or information for a retail deposit account”](/guidance-directives/client-clientele/Guide11/11-eng#s6)
+* 2022-12-08[Information on upcoming changes to SWIFT EFTR and ISO20022 implementation](/notices-avis/2022-12-08-eng)
+* 2022-07-21[Crowdfunding platforms and certain payment service providers must register with FINTRAC](/notices-avis/2022-07-21-eng)
+* 2022-04-27[Crowdfunding platforms and certain payment service providers must register with FINTRAC and the definition of “EFT” has been amended](/notices-avis/2022-04-27-eng)
+* 2022-01-31[Withdrawal of temporary COVID-related support to reporting entities](/notices-avis/2022-01-31-eng)
+* 2021-12-02[Update to reporting entities on expectations as of December 1, 2021](/notices-avis/2021-12-02-eng)
+* 2021-09-27[Update to the FINTRAC web reporting system – Large virtual currency transaction reporting](/notices-avis/2021-09-27-eng)
+* 2021-06-01[Regulatory amendments in force as of June 1, 2021](/notices-avis/2021-06-01-eng)
+* 2021-05-18[Notice on the assessment of obligations coming into force on June 1, 2021](/notices-avis/assessment-eng)
+* 2020-07-27[Desk examination resumption](/notices-avis/covid-2020-07-27-eng)
+
+## FINTRAC advisories
+
+* 2026-07-15[July 15, 2026 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2026-07-15-eng)
+* 2026-03-02[March 2, 2026 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2026-03-02-eng)
+* 2025-11-28[November 28, 2025 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2025-11-28-eng)
+* 2025-07-17[Advisory on North Korean information technology workers](https://rcmp.ca/en/news/2025/07/advisory-north-korean-information-technology-it-workers)
+* 2025-03-21[March 21, 2025 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2025-03-21-eng)
+* 2024-11-18[November 18, 2024 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2024-11-18-eng)
+* 2024-08-02[August 2, 2024 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2024-08-02-eng)
+* 2024-05-14[The role of virtual currency automated teller machines in laundering the proceeds of crime](/intel/advisories-avis/atm-ga-eng)
+* 2024-04-29[April 29, 2024 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2024-04-29-eng)
+* 2024-02-20[Joint financial intelligence advisory: illegal procurement of dual-use goods by Russian end-users (revised)](/notices-avis/avs/2024-02-20-eng)
+* 2023-11-20[November 20, 2023 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2023-11-20-eng)
+* 2023-07-17[July 17, 2023 – FINTRAC advisory: Financial transactions related to countries identified by the Financial Action Task Force](/notices-avis/avs/2023-07-17-eng)
+* 2023-03-20[March 20, 2023 – FINTRAC Advisory: Financial transactions related to countries identified by the Financial Action Task Force (FATF)](/notices-avis/avs/2023-03-20-eng)
+* 2022-11-28[November 28, 2022 – FINTRAC Advisory: Financial transactions related to countries identified by the Financial Action Task Force (FATF)](/notices-avis/avs/2022-11-28-eng)
+* 2022-07-08[July 8, 2022 – FINTRAC Advisory: Financial transactions related to countries identified by the Financial Action Task Force (FATF)](/notices-avis/avs/2022-07-08-eng)
+* 2022-03-28[March 28, 2022 – FINTRAC Advisory: Financial transactions related to countries identified by the Financial Action Task Force (FATF)](/notices-avis/avs/2022-03-28-eng)
+
+## Stay up to date
+
+* [Subscribe to FINTRAC mailing list](/contact-contactez/list-liste-eng) (to receive e-mail notifications of our new web content)
+
+Date Modified:
+:   2022-04-27

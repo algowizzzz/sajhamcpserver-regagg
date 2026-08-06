@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) issued today a Supervisory Statement on the application of the proportionality principle in the supervision of the Solvency Capital Requirement (SCR) calculated in accordance with the standard formula. EIOPA ident

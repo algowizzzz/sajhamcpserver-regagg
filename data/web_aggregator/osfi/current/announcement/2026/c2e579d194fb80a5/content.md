@@ -1,0 +1,189 @@
+# Instructions to complete ICAAP data return
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Internal Capital Adequacy Assessment Process
+
+Last updated
+
+March 2025
+
+Return number
+
+OSFI943
+
+## Return files
+
+[OSFI943 - Internal Capital Adequacy Assessment Process - data return (XLSX, 96 KB)](/sites/default/files/documents/icaap-data-return-pieafp-processus-interne-en.xlsx "icaap-data-return-pieafp-processus-interne-en.xlsx")
+
+## I. Purpose
+
+The Internal Capital Adequacy Assessment Process (ICAAP) Data Return standardizes the format for Deposit-Taking Institutions (DTIs) to submit their ICAAP information on a regular basis.
+
+## II. Reporting Frequency
+
+* DSIBs – The ICAAP Data Return must be completed on a quarterly fiscal basis (using quarter-end data) and filed within 30 days of the fiscal quarter end date through the Regulatory Reporting System (RRS).
+* SMSBs – The ICAAP Data Return must be completed on an annual basis (using year-end data) and filed within 90 days of the fiscal year end date through the Regulatory Reporting System (RRS). Note that OSFI may, at its discretion, direct SMSBs to submit the ICAAP on a more frequent basis.
+
+## III. General Instructions
+
+The ICAAP Data Return applies to all DTIs (note that this includes federally-regulated non-deposit-taking Trust and Loan Companies but excludes foreign bank branches). The ICAAP Data Return should be completed on a fully consolidated basis by the reporting institution.
+
+Where values correspond to percentages, these should be reported as decimal numbers up to 2 decimal places (i.e., "10.00%").
+
+Comments boxes are limited to the number of characters as noted in the ICAAP Data Return. Any additional information should be sent to the OSFI Lead Supervisor team via email.
+
+The ICAAP Data Return is divided into three worksheets: '1. ICAAP', '2. ICAAP Comparison', and '3. Climate Risk'. Details on each of the worksheets are as follows:
+
+1. ### 1. ICAAP
+
+   Pillar 1 and Pillar 2 Summary (on a CET1 and Total Capital basis)
+
+   1. **Rows #100 to #190** {Pillar 1 Risks} – For the purpose of the ICAAP Data Return, populate Pillar 1 figures within these rows based on Regulatory Pillar 1 capital requirements. DTIs need to ensure that the figures reported for Pillar 1 risks within Columns #20 and #30 (summed in Row #190) are equal to the OSFI Target CET1 Capital Ratio and Target Total Capital Ratio percentages outlined below, respectively, multiplied by the DTIs risk-weighted assets.
+
+      | Pillar 1 (%) | DSIBs | SMSBs |
+      | --- | --- | --- |
+      | Minimum CET1/Total Capital | 4.5% / 8.0% | 4.5% / 8.0% |
+      | Capital Conservation Buffer | 2.5% | 2.5% |
+      | DSIB Surcharge | 1.0% | –no data |
+      | Countercyclical Buffer (CCyB) | varies | –no data |
+      | **Total Pillar 1 – CET1/Total Capital** | **8.0% / 11.5% + CCyB** | **7.0% / 10.5%** |
+
+      Pillar 1 capital related to Credit Risk should exclude Pillar 1 Credit Valuation Adjustment (CVA) Risk, which is to be reported separately in Row #140.
+
+      For Category III SMSBs:
+
+      * Pillar 1 risks should be reported into Row #160 {Operational Risk} and #180 {Adjusted Total Assets} only.
+      * Total Pillar 1 risk (summed in Row #190) should be equal to the figures calculated using the OSFI Target CET1 Simplified Risk-Based Capital Ratio (SRBCR) and Target Total SRBCR percentages outlined above, respectively, multiplied by the Category III SMSB's sum of Adjusted Total Assets and Operational Risk risk-weighted assets.
+   2. **Rows #200 to #220** {Adjustment for Pillar 1 Difference between Regulatory Capital and Economic Capital} – These rows are available for IRB banks only to allow institutions to include the adjustment for Pillar 1 differences between Regulatory Capital and Economic Capital. The result will enable the "ICAAP Requirement for Pillar 1 & 2" (Row #950) to match the total Economic Capital requirement used by IRB banks.
+   3. **Column #10** (Risk Categories) – The broader definitions of risk categories are provided below under Section IV 'Risk Definitions'.
+   4. **Columns #20 and #30** {ICAAP (Institution's Assessment of Capital Required for the Risk)} – DTIs are expected to report their own assessment of Pillar 2 capital required to cover all material risks for ICAAP purposes. The Pillar 2 capital amounts reported should not include the Pillar 1 capital requirements noted above. Where applicable, allocations should be broken down by sub-risk categories.
+      * At a minimum, except Category III SMSBs, OSFI expects DTIs to provide a Pillar 2 capital allocation to cover Credit Concentration Risk and IRRBB. Where the DTI does not have a material Credit Risk, it should ensure Pillar 2 capital allocations are made to cover Operational/Reputation Risk.
+      * For any risk that are not applicable, the cells in the respective row should be left blank.
+      * Where DTIs have identified risks that are applicable but were determined as immaterial and therefore not quantified, institutions should populate those sections with zeros and select an appropriate item in Column #40.
+   5. **Column #40** {Risk Quantification Methodology} – Use the drop-down selection to identify the following for each particular risk:
+      * **M – Model quantified:** The capital allocation for the particular risk has been quantified via model methodology.
+      * **NM – Non-model quantified:** The capital allocation for the particular risk has been quantified via non-model methodology.
+      * **RM – Not quantified but risk managed (through stress testing, limits, or other controls) or mitigated:** No quantification has been made because the risk has been risk managed/mitigated through stress testing, limits or other controls.
+      * **TBD – Identified as material risk but not yet quantified:** Where risk has been identified as material but has not yet been quantified for capital allocation, "TBD" should be selected from the drop-down menu.
+      * **MUNQ – Materiality unknown and not yet quantified:** Where materiality of the risk is unknown and not yet quantified, "MUNQ" should be selected from drop-down menu.
+      * **NMNQ – Not material and not quantified:** Where risks have been identified as applicable but determined as immaterial and therefore not quantified, DTIs should populate those rows with zeros and select "NMNQ" from the drop-down menu.
+   6. **Column #50** {Other Comments (If Necessary)} – Where appropriate, supplement with additional comments to provide further clarification on the risk and/or risk quantification methodology.
+   7. **Row #310** {Concentration Risk} – Complete this row **only if** the DTI is unable to breakdown concentration risk into Rows #320 to #360 (i.e., DTIs are to complete either Row #310 or Rows #320 to #360).
+   8. **Row #410** {IRRBB} – Complete this row **only if** the DTI is unable to breakdown IRRBB risk into Rows #420 to #460 (i.e., DTIs are to complete either Row #410 or Rows #420 to #460).
+   9. **Row #490** {Trading Market Risk (TMR)} – Complete this row **only if** the DTI is unable to breakdown market risk into Rows #500 to #560 (i.e., DTIs are to complete either Row #490 or Rows #500 to #560).
+   10. **Row #610** {Operational Risk} – Complete this row **only if** the DTI is unable to breakdown operational risk into Rows #620 to #650 (i.e., DTIs are to complete either Row #610 or Rows #620 to #650).
+   11. **Row #920** {Inter-risk Diversification Benefit} – If an inter-risk diversification benefit is considered, complete this row (i.e., inter-risk diversification benefit should not be included as part of any other risk categories) and clearly describe the rationale in Column #50. Note that OSFI's supervisory review process will generally not take into account any inter-risks diversification benefit unless it is quantified by a rigorous model with adequate support.
+   12. **Row #930** {Additional Capital to Cover Stress Testing (Not Already Allocated to Pillar 2 Risks Above)} – Where the DTI has determined that additional capital is required to cover specific stress impacts and for which amounts have not already been allocated to specific Pillar 2 risks, this row should be completed.
+   13. **Rows #1000 to #1020** {Available Regulatory Capital} – DTIs need to ensure that the figures reported for available regulatory capital are equal to the figures reported within the BCAR in DPA\_1017, DPA\_1003, and DPA\_1004. For Category III SMSBs, available regulatory capital should equal figures reported within the BCAR in DPA\_16003, DPA\_16004, and DPA\_16005.
+   14. **Rows #1030** {Available Economic Capital} – IRB banks are expected to populate their available economic capital.
+   15. **Rows #1100 to #1160**
+       * **Column #002** {Board Limit} – Indicate the Board approved capital limits as required by OSFI's Corporate Governance Guideline. In the case of layers of limits which are all approved by the Board (Board, Management, Operating, etc.), indicate the limit that is closest to OSFI's supervisory capital targets/regulatory minimums.
+       * **Column #003** {Management Limit} – Indicate the internal capital limit closest to the Board approved capital limit which does not require Board-level approval in the event of limit breach (but requires management-level approval). Should there be a range for the management limit, indicate the lowest value of the range.
+       * Note, TLAC ratios (Rows #1140 to #1160) are applicable to DSIBs only.
+   16. **Rows #1200 to #1240** {Impact from OSFI Prescribed Stress Tests} and **Rows #1300 to #1310** {OSFI Prescribed Stress Tests - Probability of Default / Loss Given Default} – Note that, unless otherwise instructed, these rows are applicable to SMSBs only. OSFI requests all SMSBs to conduct single-factor prescribed stress tests and report the capital ratio impact of such stress tests pre- and post-management actions. Detailed assumptions on these stress tests will be provided by the Lead Supervisor.
+       * **Row #1230** {OSFI Prescribed Stress Test – Capital Ratio Impact from Real Estate Downturn Substitution Stress Test (Real Estate Downturn Substitution)} – Where multiple single-factor stress tests are conducted, indicate the most severe capital impact in Row #1230 and provide additional comments in Row #2000 outlining the single-factor stress test used that resulted in the most severe capital impact as well as the ranges of capital impacts from other single-factor stress tests.
+       * **Rows #1300 to #1310** {Probability of Default / Loss Given Default information} – Use weighted-average where appropriate.
+   17. **Row #2000** {Additional Comments} – Additional information can be provided as necessary.
+2. ### 2. ICAAP Comparison
+
+   This worksheet presents a period over period comparison for the DTI's capital adequacy assessment.
+
+   * **Column #30** {Reporting Date (Current Period)} – Total Capital data on this column will **populate automatically** from the '1. ICAAP' worksheet. Populate Reporting Date for the current period.
+   * **Column #60** {Reporting Date (Previous Period)} – Total Capital data populated in the previous ICAAP Data Return submission should be included in this column. Populate Reporting Date for the previous period.
+   * **Column #70** {Difference (Current Period - Previous Period)} – Data in this column will **populate automatically**.
+   * **Column #80** {Is Risk Quantification Methodology Changed for Current Reporting Period?} – Select "Yes" or "No" from the drop down menu to identify whether there has been a change to the Risk Quantification Methodology since the last reporting period.
+   * **Column #90** {Comments on Material Differences} – Explanations should be provided for any material changes in the capital required, considering quantitative (with +/-5% difference) and qualitative factors.
+3. ### 3. Climate Risk
+
+   Climate Risk is a financial risk that can drive more traditional risks including Credit, Market, Operational, Reputational, Insurance and Legal Risk. The purpose of this worksheet is to provide a breakdown of Climate Risk already captured within the risk categories in the ICAAP Data Return (i.e., for Pillar 1 '1. ICAAP' worksheet Rows #110 to #180; for Pillar 2 '1. ICAAP' worksheet Rows #780 and #790). DTIs are to complete this worksheet on a best efforts basis.
+
+   * **Column #110** {Total Climate Risk} – Complete this column on a best efforts basis, and where available, provide further breakdown in Columns #120 and #130.
+
+## IV. Risk Definitions
+
+This section is intended to provide risk definitions that are commonly used in the banking industry. If DTIs define a particular risk differently, indicate it within the submission.
+
+Risk definitions – Credit risk
+
+| Row # | Risk Categories | Definitions |
+| --- | --- | --- |
+| 310 | Concentration Risk | Any single (direct and/or indirect) exposure or group of exposures with the potential to produce material losses.  Complete only if unable to breakdown in Rows #320 to #360. |
+| 320 | Single Name Concentration | Significant credit exposures to an individual counterparty or group of related counterparties. |
+| 330 | Sector Concentration | Significant credit exposures to counterparties in the same economic sector. |
+| 340 | Geographical Concentration | Significant credit exposures to counterparties in the same geographic region. |
+| 350 | Collateral Concentration | Indirect credit exposures arising from a DTI's credit risk mitigation activities, e.g., exposure to a single, or limited number of, collateral types or to credit protection provided by a single counterparty. |
+| 360 | Other Concentration | Any concentration-related risk that is not captured in Rows #320 to #350. |
+| 370 | Other Credit Risk | Other credit risk that has not been included in sub-risk categories in Rows #310 to #360. |
+
+Risk definitions – Market Risk
+
+| Row # | Risk Categories | Definitions |
+| --- | --- | --- |
+| 410 | IRRBB | The impact of changes in interest rates on a DTI's earnings, economic value, and cash flows arising from its interest-sensitive assets, liabilities, and off-balance items such as derivatives and loan commitments.  Complete only if unable to breakdown in Rows #420 to #460. |
+| 420 | IRRBB – Basis Risk | The impact of relative changes in interest rates for financial instruments that have similar tenors but are priced using different interest rate indices. |
+| 430 | IRRBB – Automatic Option Risk | Risk arising from standalone instruments, such as exchange-traded and over-the-counter option contracts, or explicitly embedded within the contractual terms of an otherwise standard financial instrument (e.g., a capped rate loan) and where the holder will almost certainly exercise the option if it is in their financial interest to do so. |
+| 440 | IRRBB – Behavioural Option Risk | Risk arising from flexibility embedded implicitly or within the terms of financial contracts, such that changes in interest rates may effect a change in the behaviour of the client (e.g., rights of a borrower to prepay a loan, with or without penalty, or the right of a depositor to withdraw their balance in search of higher yield). |
+| 450 | IRRBB – Gap Risk | Gap risk arises from the term structure of banking book instruments and describes the risk arising from the timing of instruments' rate changes. The extent of gap risk depends on whether changes to the term structure of interest rates occur consistently across the yield curve (parallel risk) or differentially by period (non-parallel risk). |
+| 460 | Other IRRBB Risk | Any IRRBB-related risk that is not captured in Rows #420 to #450. |
+| 470 | Credit Spread Risk in the Banking Book (CSRBB) | CSRBB refers to any kind of asset/liability spread risk of credit-risky instruments that is not explained by IRRBB and by the expected credit/jump to default risk. |
+| 480 | Structural Foreign Exchange Risk | The risk to earnings or capital arising from fair value movement of foreign exchange rates (excluding exposure in Row #500). |
+| 490 | Trading Market Risk (TMR) | The risk to earnings or capital arising from fair value movements in trading book instruments.  Complete only if unable to breakdown in Rows #500 to #560. |
+| 500 | TMR – FX Risk | The risk to earnings or capital arising from fair value movement of foreign exchange rates. |
+| 510 | TMR – Interest Rate Risk | The risk to earnings or capital arising from fair value through profit and loss movement in interest rates. |
+| 520 | TMR – Credit Spread Risk | The risk to earnings or capital arising from fair value through profit and loss movement in credit spreads. |
+| 530 | TMR – Equity Risk | The risk to earnings or capital arising from fair value through profit and loss movement in equity prices. |
+| 540 | TMR – Commodity Risk | The risk to earnings or capital arising from fair value movement in commodity prices. |
+| 550 | TMR – Credit Valuation Adjustment (CVA) Risk | The risk to earnings or capital arising from fair value through profit and loss movement in CVA. |
+| 560 | TMR – Illiquid Position Risk | The risk from less liquid financial instruments in the trading book for which valuation adjustments have been taken. |
+| 570 | Other Market Risk | Any other market risk that has not been included in sub-risk categories Rows #410 to #560. This would include risks related to one-way risk and concentrated positions. |
+
+Risk definitions – Operational Risk
+
+| Row # | Risk Categories | Definitions |
+| --- | --- | --- |
+| 610 | Operational Risk | The risk of loss resulting from inadequate or failed internal processes, peoples and systems or from external events.  Complete only if unable to breakdown in Rows #620 to #650. |
+| 620 | Fraud Risk | The risk to current or projected financial condition and resilience arising from inadequate or failed internal processes or systems, human errors or misconduct, or adverse external events. |
+| 630 | Technology/Cybersecurity Risk | "Technology risk", which includes "cybersecurity risk", refers to the risk arising from the inadequacy, disruption, destruction, failure, damage from unauthorised access, modifications, or malicious use of information technology assets, people or processes that enable and support business needs, and can result in financial loss and/or reputational damage. |
+| 640 | Third Party Risk | The risk arising from a third party failing to provide goods, business activities, functions and services, protect data or systems thereby creating an exposure to negative outcomes. |
+| 650 | Other Operational Risk | Other operational risk (e.g., Non-model related data risk) that has not been included in sub-risk categories Rows #620 to #640. |
+
+Risk definitions – Other Risks
+
+| Row # | Risk Categories | Definitions |
+| --- | --- | --- |
+| 710 | Model Risk | The risk of adverse financial (e.g., capital, losses, revenue) and reputational consequences arising from the design, development, implementation and/or use of a model. It can originate from, among other things, inappropriate specification; incorrect parameter estimates; flawed hypotheses and/or assumptions; mathematical computation errors; inaccurate, inappropriate, or incomplete data; inappropriate, improper or unintended usage; and inadequate monitoring and/or controls. |
+| 720 | Reputation Risk | When a FRFI acts as an advisor, arranges, or actively participates in financial transactions, it may assume insurance, market, credit, operational and/or other risks. Reputation risk often arises because of inadequate management of these other risks, whether they are associated with complex financial transactions or relatively routine operational activities. The way these activities are executed can create reputation risks that are difficult to predict and quantify. |
+| 730 | Business Risk | The risk of financial loss and/or impairment to viability due to an inability to adapt to changes in the competitive environment, in a timely and sustainable manner. |
+| 740 | Funding Risk | The potential for losses to be incurred from not having access to sources of liquidity, whether name-specific or market-wide in origin. |
+| 750 | Strategic Risk | The risk to earnings or capital arising from failure to achieve business objectives and strategic goals. This risk is a function of the compatibility of an organization's strategic goals, the business strategies developed to achieve those goals, the resources deployed against these goals, and the quality of implementation. The resources needed to carry out business strategies are both tangible and intangible. They include people, communication channels, operating systems, delivery networks, and managerial capacities and capabilities. Any goodwill and intangibles considered in Pillar 2 risks should be reported as part of Strategic Risk, with details of such amounts specified in Column #50 {Other Comments (If Necessary)}. |
+| 760 | Geopolitical Risk | The risk associated with wars, terrorist acts, and tensions between states that affect the normal and peaceful course of international relations. Geopolitical risk captures both the risk that these events materialize, and the new risks associated with an escalation of existing event. |
+| 770 | Insurance Risk | The risk of loss arising from the obligation to pay out benefits and expenses on insurance policies and annuities in excess of expected amounts. |
+| 780 | Climate Risk – Transition | The financial risks related to the process of adjustment towards a low-greenhouse gas (GHG) economy. These risks can emerge from current or future government policies, legislation, and regulation to limit GHG emissions, as well as technological advancements, and changes in market and customer sentiment towards a low-GHG economy. Transition risk may include additional impacts from the interaction between transition risk and physical risk. E.g., the increased frequency and severity of physical risk may create additional pressure on policymakers to take mitigating actions, resulting in increased probability that transition risk could manifest alongside physical risk. |
+| 790 | Climate Risk – Physical | The financial risks from the increasing severity and frequency of extreme climate change-related weather events (i.e., acute physical risks); longer-term gradual shifts of the climate (i.e., chronic physical risks); and indirect effects of climate change such as public health implications (e.g., morbidity and mortality impacts). Physical risk may include additional impacts from the interaction between transition risk and physical risk. E.g., a delayed climate policy response associated with transition risk may aggravate physical risk. |
+| 800 | Residual Risk | Risk that remains after applying risk mitigation measures or controls to address specific risks. |
+| 810 | Securitization Risk | Where securitization activities (e.g., securitization of own-assets for risk transfer and/or funding; provision of backstop credit facilities to third-party conduits) are material, a DTI's ICAAP needs to consider the risks arising from originating, structuring, distributing and/or investing in such assets, including risks that are fully captured in minimum regulatory capital requirements. These may include, for example, reputational risk and the provision of non- contractual or implicit support to securitization vehicles. |
+| 820 | Fixed Asset Risk | The potential for losses that could arise from the ownership or use of physical assets. Assess and manage their exposure to property and equipment risks as part of their overall risk management. |
+| 830 | Pension Risk | The risk to a DTI's earnings and financial health that arises from the underfunding of a pension plan from all causes (i.e. longevity, investment return, change in benefits, and etc.). |
+| 840 | Sovereign Risk | Risk faced by the DTIs arising from the creditworthiness and stability of a sovereign government or its ability to meet its financial obligations. |
+| 850 | Culture and Behavioural Risk | The impact of culture and behaviours on sound decision-making, prudent risk-taking and effective risk management.  'Culture' refers to the commonly held values, mindsets, beliefs, and assumptions that guide both what is important and how people should behave in an organization. 'Behavioural patterns' are also known as 'behavioural norms' and refers to behaviours that are common or typical across a group of people.  'Behaviour risks' refers to behavioural patterns that are misaligned to the expected behaviours and the desired culture of the FRFI and/or increase financial and non-financial risks. |
+| 860 | Cross Border Lending Risk | DTIs that engage in cross border lending are subject to increased risk including country risk, concentration risk, foreign currency risk (market risk) as well as regulatory, legal, compliance and operational risks, all of which should be reflected in the ICAAP. Laws and regulators' actions in foreign jurisdictions could make it much more difficult to realize on assets and security in the event of a default. Where regulatory, legal and compliance risks associated with concentrations in cross border lending are not considered elsewhere in a DTI's risk assessment process; additional capital may be required for this type of lending in a DTI's ICAAP. |
+| 870 | Human Capital Risk | The risk arising from a difference between human capital needs and existing human capital. It includes various factors that impact the DTI's ability to attract, develop, retain, and create a sustainable talent pool with the skills and competencies s to carry out its operations. |
+| 880 | Legal Risk | The risk arising from non-compliance with laws, regulations, and legal obligations. It includes financial harm resulting from legal and regulatory actions, penalties, fines, lawsuits, and adverse judgement against a DTI. |
+| 890 | Other Risks | Any other risk that has not been included in risk categories Rows #710 to #880. |
+| 900 | Additional Pillar 2 Buffer | Discretionary buffer allocated to arrive at Total Pillar 2 Risk quantification. |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-03-17

@@ -1,0 +1,9 @@
+# China’s social security fund boosts stakes in A-share firms in first 7 months, data shows
+
+China’s social security sovereign fund cast a vote of confidence in the onshore stock market by increasing stakes in A-share companies in the first seven months of this year, financial data showed.
+“[The fund] is investing in China’s tech sector to capture its faster growth rate,” said Gary Ng, senior economist for Asia Pacific at Natixis Corporate and Investment Bank. “It should be positive for those who are chosen by long-term capital.”
+The buying came as the CSI 300 Index, which tracks the...
+
+[Read the full story at the source](https://www.scmp.com/business/banking-finance/article/3362766/chinas-social-security-fund-boosts-stakes-share-firms-first-7-months-data-shows?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

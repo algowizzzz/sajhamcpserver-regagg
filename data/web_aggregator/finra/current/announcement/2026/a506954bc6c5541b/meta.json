@@ -1,0 +1,27 @@
+{
+  "doc_id": "a506954bc6c5541b",
+  "regulator_id": "finra",
+  "doc_type": "announcement",
+  "title": "Form FP CMA Web Content",
+  "language": "en",
+  "source_url": "https://www.finra.org/sites/default/files/Form%20FP-CMA%20Web%20Content.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f9747062161ea1efe99ef1034bb12784d9748676bf3d55827cdb0ffc89d2668a",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_finra_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/finra/current/announcement/2026/a506954bc6c5541b",
+  "tags": [
+    "us",
+    "securities",
+    "broker_dealer"
+  ],
+  "final_url": "https://www.finra.org/sites/default/files/Form%20FP-CMA%20Web%20Content.pdf",
+  "fetch_method": "pdf_to_md"
+}

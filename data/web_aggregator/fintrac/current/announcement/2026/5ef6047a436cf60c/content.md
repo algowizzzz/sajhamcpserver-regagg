@@ -1,0 +1,47 @@
+# CANAFE impose une pénalité administrative pécuniaire à la Banque Royale du Canada
+
+**Communiqué de presse**
+
+**Le 5 décembre 2023 – ⁠Ottawa – [Centre d’analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)**
+
+CANAFE a annoncé aujourd’hui qu’il avait imposé une pénalité administrative pécuniaire à la Banque Royale du Canada (RBC). À la suite d’un examen de conformité mené en 2022, cette banque s’est vu imposer une pénalité de 7 475 000 $ le 3 novembre 2023 pour non-conformité avec la partie 1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et des règlements connexes.
+
+La Banque Royale du Canada a commis les trois violations administratives suivantes :
+
+* Fait de ne pas soumettre de déclarations d’opérations douteuses relativement à des opérations à l’égard desquelles il y avait des motifs raisonnables de soupçonner qu’elles étaient liées à la perpétration d’une infraction de recyclage des produits de la criminalité;
+* Fait de ne pas fournir les renseignements prescrits par règlement dans les déclarations d’opérations douteuses;
+* Fait de ne pas tenir à jour ses politiques et procédures écrites.
+
+Cette pénalité a été imposée pour des violations administratives commises par RBC en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et des règlements connexes, et non pour des infractions criminelles liées au recyclage des produits de la criminalité ou au financement des activités terroristes.
+
+## Citation
+
+> « Le régime canadien de lutte contre le blanchiment d’argent et le financement des activités terroristes a été établi pour assurer la sécurité des Canadiens et des Canadiennes et pour protéger l’économie du Canada. CANAFE s’est engagé à travailler avec les entreprises pour les aider à comprendre et à remplir leurs obligations prévues par la Loi. Par contre, c’est avec fermeté que nous veillerons à ce que les entreprises continuent de faire leur part et que nous prendrons au besoin les mesures appropriées. »
+
+## Faits en bref
+
+* À titre d’unité du renseignement financier du Canada et de superviseur de la lutte contre le blanchiment d’argent et le financement des activités terroristes, CANAFE s’assure que les entreprises assujetties à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes se conforment à leurs obligations au titre de la Loi et des règlements connexes. Le Centre analyse également les informations et transmet des renseignements financiers à la police, aux organismes d’application de la loi et aux organismes de sécurité nationale pour contribuer à leurs enquêtes sur le blanchiment d’argent, le financement des activités terroristes et les menaces envers la sécurité du Canada.
+* Les casinos, les entités financières, les entreprises de services monétaires, les courtiers ou agent immobiliers et plusieurs autres secteurs d’activités doivent s’acquitter d’obligations au titre de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, telles que la tenue de certains documents, la vérification de l’identité des clients, le maintien d’un programme de conformité et la déclaration à CANAFE de certaines opérations financières.
+* En vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, les pénalités administratives pécuniaires ne doivent pas être de nature punitive, mais viser à modifier le comportement non conforme des entreprises.
+* En 2022-2023, CANAFE a dressé 6 procès-verbaux de non-conformité à l’intention d’entreprises dont les pénalités imposées totalisaient 1 113 569 $.
+* Depuis qu’il a reçu le pouvoir législatif d’imposer des pénalités en 2008, CANAFE a imposé plus de 125 pénalités administratives pécuniaires à des entités de la plupart des secteurs d’activité.
+
+## Produits connexes
+
+* [Politique sur les pénalités administratives pécuniaires](/pen/2-fra)
+* [Avis public des pénalités administratives pécuniaires](/pen/4-fra)
+
+## Personnes-ressources
+
+Relations avec les médias  
+Centre d'analyse des opérations et déclarations financières du Canada  
+613-947-6875  
+[media.medias@fintrac-canafe.gc.ca](mailto:media.medias@fintrac-canafe.gc.ca)
+
+Suivez-nous sur  
+Twitter : [@CANAFE\_Canada](https://twitter.com/CANAFE_Canada)  
+LinkedIn : [CANAFE Canada|FINTRAC Canada](https://www.linkedin.com/company/18406872/)  
+YouTube : [CANAFE Canada](https://www.youtube.com/channel/UCTz3W5F0Orkfv9yzxLHuf3A)
+
+Date de modification :
+:   2023-12-05

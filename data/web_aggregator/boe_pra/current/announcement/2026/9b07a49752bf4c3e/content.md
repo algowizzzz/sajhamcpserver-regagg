@@ -1,0 +1,161 @@
+# 2025 CCP Global International Default Simulation: key findings and observations
+
+Bafin, the Bank of England, Bundesbank, CFTC and ESMA present a summary of industry feedback from the 2025 CCP Global Default Simulation exercise and identify areas for consideration in the development of CCPs’ default management processes and future exercises.
+
+Published on
+19 June 2026
+
+## Introduction
+
+In November 2025, 38 central counterparties (‘CCPs’) around the globe, together with many of their members, conducted a simultaneous default management exercise involving the simulation of the default of a hypothetical common clearing member. This exercise is known as the CCP Global International Default Simulation (“CIDS”) exercise.
+
+This was the largest CIDS exercise to date, with an increase in participation from 32 CCPs in 2023. A wide range of asset classes featured, including commodities, equities, interest rate swaps, credit default swaps and FX.
+
+The fire drill was coordinated by CCP Global, an industry body representing CCPs globally. Regulatory involvement in the drill was led by a group of five CCP authorities (the "Lead Authorities"). The Lead Authorities provided advice on the design of the CIDS 2025 drill parameters, monitored the exercise, and surveyed participants to draw lessons learned from the exercise and inform future design improvements for future exercises. A wider group of international CCP regulators from Europe, Asia, and the Americas also observed the drill for the CCPs they supervise.
+
+This report summarises the 2025 CCP Global Default Simulation (CIDS) exercise and sets out feedback from participating clearing members and clients, alongside the observations and recommendations of the Lead Authorities.
+
+### Why do we do multi-CCP default fire drills?
+
+Default management exercises are tests of CCPs’ abilities to liquidate the defaulting members cleared and collateral portfolio(s) in line with their default procedures, and tests clearing members’ abilities to fulfil their obligations to the CCPs. By synchronising these tests at multiple CCPs, the exercise adds realism and is a more severe test of system-wide operational capability.
+
+Such multi-CCP fire drills have generally occurred every two years since 2016, and are widely regarded by CCPs, regulators and clearing members as important tests of CCPs' and market participants' operational readiness to execute their default management procedures. Simultaneous testing of international CCPs’ default management exercises allows these arrangements to be rehearsed and potential operational bottlenecks and issues to be identified and addressed
+
+The first global CCP default exercise coordinated by a group of regulators took place in 2016. Initially they were organised by the Bafin, BoE, Bundesbank and later also the CFTC. Several exercises have been organised since 2016 with a continuously increasing number of participating CCPs, clearing members, clients and regulators and scope. Prior to the 2025 CIDS exercise, the most recent exercise was conducted in November 2023. This was the first exercise where CCP Global assumed a coordinating role and acted as a central point of contact for the lead authorities and CCPs.
+
+### New elements in the 2025 drill
+
+At a minimum, the CIDS exercise tests the abilities of CCPs and clearing members to execute various default management processes including hedging of the defaulted clearing member's portfolio, liquidation auctions, and communications.
+
+For the 2025 drill, the Lead Authorities advocated for the inclusion of a new "Client Porting" module. Porting refers to the transfer of a client’s portfolio from a defaulted clearing member to a surviving clearing member. This is generally preferable to liquidation as it preserves the client’s assets and market access, and reduces the size of the defaulter’s portfolio that the CCP has to manage. Some CCPs already test porting procedures, including during CIDS 2023, and there was feedback to include this in an ‘official’ capacity in the 2025 exercise.
+
+This module was well-received, and the majority of CCPs opted to include the Client Porting module. Some clearing members had suggestions on how the Porting Module might be improved in future iterations of the drill as discussed below.
+
+### Participant surveys
+
+Following the exercise, CIDS participants were invited to complete a survey to capture information on the nature of their involvement and their views on the exercise. Two surveys were created to capture this information. The Lead Authorities created a survey for clearing members and their clients to complete. Following the drill, a total of seventy-three clearing members and clients completed these surveys, providing a wealth of information and qualitative comments/suggestions.
+
+Separately, CCP Global created a survey for participating CCPs which captured useful information around their planning for the exercise and their views on the exercises’ outcomes.
+
+## What we learned about default management abilities of CCP participants:
+
+Overall, CIDS 2025 demonstrated the successful ability of CCPs and market participants to execute default management processes in a multi-CCP setting where operational frictions and capacity constraints are more likely to surface. Some firms, particularly those with numerous responsibilities and/or memberships at multiple CCPs, reported challenges in meeting all these responsibilities at the same time. In some cases, however, these firms noted they had increased capacity and strengthened group-wide coordination relative to the previous exercise, which helped support participation across multiple, similarly timed processes.
+
+### Resource constraints during the exercise
+
+The main pressure points appeared to be competing priorities and resource constraints. Some members reported de-prioritising porting activity and/or participation in non-mandatory auctions where those activities competed with obligatory activities at the same time.
+
+Market participants also highlighted constraints around the availability of experienced traders seconded by clearing members to support CCP hedging activity, especially where the same specialists were required across multiple CCP exercises.
+
+### Communication before the exercise
+
+Feedback from participants on CCPs’ communication before the drill was broadly positive. Market participants highlighted certain good practices where some CCPs provided detailed information packs ahead of time, ran practice “mock” auctions, and responded quickly to questions.
+
+### Standardisation of communication during the exercise
+
+As in previous exercises, participants called for greater harmonisation and wider adoption of best practices across CCPs, particularly given the short time windows involved. Three areas of auction communications were most frequently raised as potential areas of focus: (i) format convention for sharing information on positions; (ii) bidding processes; and (iii) quick feedback of key outcomes.
+
+### File dissemination
+
+On auction file dissemination, participants requested greater consistency in file formats and conventions, enrichment of auction portfolios with ISIN/trade identifier codes, universal alignment of sign conventions, and clear market pricing information. Some suggested this could be achieved with a universally agreed format as a voluntary alternative to each CCP’s own proprietary formats. There were also some operational concerns around the use of email compared to web-based forms, as this increases the number of interactions between CCPs and bidders potentially leading to unclear communication in the bidding process.
+
+### Bidding process
+
+On auction bidding, participants generally agreed that web portals were best practice, particularly where bids can be entered directly (rather than via file upload) and validated in real time, reducing the risk of transmission, formatting, and operational errors more common in email-based processes.
+
+Whilst most CCPs are using aligned and clear terminology, different bidding conventions continue to be used across CCPs, which may increase workload and lead to incorrect interpretation of auction bids.
+
+### Auction feedback
+
+On auction feedback, participants expressed a desire for faster and more consistent communications after key elements of the exercise, including immediate feedback when a CCP had rejected a porting request or an auction bid. Such delays may affect participants’ ability to engage in parallel default management processes at other CCPs. Some participants also expressed an interest in receiving more feedback on the overall outcomes of the exercise, such as the estimated impact on default waterfall resources.
+
+### Client porting
+
+Client segregation arrangements are a key determinant of the likelihood of successful porting. Participants generally noted that, in practice, client porting was difficult to execute within the short windows of the exercise, with AML/KYC constraints cited as a key practical barrier particularly for clients without a pre-arranged backup clearing member. It could be further investigated by industry participants how AML/KYC due diligence might be considered in light of the relatively short porting window.
+
+Some members said that porting analysis was done by the same teams as those supporting CCP auction activity, which created further pressure at peak times. Further to this, they highlighted that some CCPs provide porting information on a client-by-client basis, which was not considered operationally efficient for firms to process at scale where many clients seek to port simultaneously. Participants indicated a preference for more aggregated or consolidated porting information to support effective processing under stressed conditions.
+
+## Feedback on the 2025 CIDS exercise and potential future improvements
+
+The general theme of ‘scenario realism’ is an area that could be addressed for the next CIDS exercise. Three areas were noted that could provide opportunities for improvement: (i) the defaulter’s portfolio; (ii) market prices; and (iii) porting module.
+
+### Defaulters’ portfolio
+
+Feedback noted that in some cases the hypothetical defaulter portfolio used was too narrow to be realistic. The drills were intended to simulate the default of a top five clearing member, which would typically include a broad portfolio covering the full range of products cleared at a CCP. However, due to either technical limitations or to simplify the test, some CCPs only included a subset of products in the defaulting portfolio. By only testing a narrow portfolio, the operational capabilities of both the CCP and the clearing members are not stretched as much as they could be. Evaluating a complex portfolio under time pressure is important to simulate as this would likely be the situation in an actual default of a large Clearing Member.
+
+More diverse portfolios could also force CCPs to confront the question of whether they should split the portfolio into multiple auctions or not. Not all clearing members trade all products, and there was feedback that some were challenged by being mandated to participate in auctions for portfolios they couldn’t realistically accept. It is important that the size of the portfolio is also realistic, as a small portfolio might not test functions such as Clearing Members’ ability to price in concentration risks.
+
+### Market prices
+
+Most CCPs did not use stressed scenarios but live pricing during the firedrill scenario. However, in a real default, prices would almost certainly be stressed, and inclusion of this in the exercise would also allow members to more thoroughly test their internal processes. While we recognise there is a balance between a too broad and too prescriptive scenario, a coherent stress narrative among CCPs would allow for a more realistic simulation; if CCPs use different stress scenarios, or some don’t use stress scenarios at all, then it may be confusing for members who clear at multiple CCPs as they simultaneously navigate different pricing assumptions.
+
+Practical considerations and technological limitations at some CCPs may limit the use of a hypothetical stress scenario, and previous feedback has highlighted that it may be difficult to describe a stressed scenario clearly enough to guarantee a consistent interpretation by all participants. We would be interested in further discussion among participants about the trade-offs and possible future voluntary additions to the CIDS exercise.
+
+### Porting module
+
+The scope and depth of this client porting exercise varied across CCPs. Some CCPs only tested operational process related to porting, whilst others also included interactions with clearing members and assessment of clients.
+
+Member feedback noted that CCPs’ porting tests were sometimes not very realistic both in terms of the number of clients looking to port and the process being simulated. As noted earlier, AML/KYC was difficult for clearing members to execute in the tight timeframe, and in a real default it is unlikely that members would be looking to onboard unknown clients.
+
+In terms of the volume of porting assumed, some CCPs only simulated a few clients wishing to port. In reality, a large clearing member could have a large number of diverse clients and other clearing members might have to assess a range of portfolios in a live default. In a live default, many of these clients may seek to port their positions. The clearing members expected to receive those portfolios would therefore need to assess, often under significant time pressure, whether they can take on multiple incoming portfolios while continuing to meet their own risk, liquidity, and operational constraints. As a result, receiving clearing members may be required to review and manage a large number of new and potentially heterogeneous portfolios arriving in quick succession, which adds material complexity to the porting process.
+
+Additional guidance regarding the best practices to test the client porting procedures could further increase the added value of this type of exercise.
+
+### General feedback
+
+Other topics were also raised in connection with making the exercise more challenging: for example, the possibility of simulating what would happen if an auction failed and CCPs had to use tools further down their waterfall. In general, CCPs should test a broad range of activities linked to the management of a default event including liquidity risk management and the (potential) allocation of losses.
+
+It is encouraging to observe that some participants are actively seeking a greater challenge in order to maximise their preparedness, and discussions in this area are welcomed, though this could also be tested in CCPs’ individual default exercises.
+
+## Conclusions
+
+The global CCP fire-drill exercise is an important recurring event, providing CCPs and their clearing members with an opportunity to test the operational effectiveness of default management arrangements against a common, high-level scenario involving the default of a major clearing member. We recognise that participation requires a significant investment of firms’ time and resources. Nevertheless, we continue to strongly support this form of co-ordinated testing as a complement to firm-specific fire-drills given the value in identifying system-wide issues that may not be apparent through individual testing.
+
+We are pleased to continually observe growing interest to participate in the global fire-drill, with the most recent exercise involving 38 CCPs, an increase compared with the 2023 exercise. Major CCPs continue to demonstrate a high level of commitment to these exercises. The increased participation also reflects broader engagement by a wider range of CCPs, greater involvement and sophistication among major clearing members in understanding default management processes and increased participation by clients.
+
+We are supportive of continued participation by a wider set of CCPs in global fire-drills, reflecting differences in business models, markets and operational approaches. Broader participation, from both CCPs, CMs, and their clients, would deepen collective understanding of default scenarios and enhance the overall realism of the exercise.
+
+The findings set out above reflect the wide range of responses received from clearing members participating in the fire-drill, which authorities have reviewed carefully. There are several areas where we would expect to see further progress, including the following priority issues, echoing issues previously identified following the 2023 CIDS exercise.
+
+1. First, the continued variation in procedures and communication conventions presents challenges for clearing members and may inhibit CCPs’ ability to achieve optimal auction outcomes, potentially at hidden financial cost. We would welcome industry led progress in this area, for example through the development of a voluntary auction file standard that could be offered alongside proprietary tools, and greater use of portal-based solutions, with less reliance on email processes. Together these could improve consistency and competitiveness, and reduce the risk of operational error, particularly under compressed auction windows. We would support coordination on this issue, including with relevant industry groups.
+2. Second, with respect to the design of future CIDS exercises, and taking participant feedback into account, we would support more realistic testing of porting in future iterations of the CIDS exercise. This would hopefully ensure that the exercise remains proportionate and aligned with what might realistically occur in a live default scenario, and we will consider the need to provide more explicit guidance for CCPs and members in subsequent exercises. We will also consider the inclusion of an additional voluntary “market stress overlay” module, under which CCPs could request stressed bids based on a coherent, cross-CCP macro stress scenario, whilst continuing to apply CCP-specific risk frameworks. CCPs could then subsequently analyse auction performance and loss allocation beyond the default fund, under conditions of heightened market volatility. This would support CCPs and their members in more fully testing operational capacity and constraints under conditions in stressed but plausible conditions.
+
+The next CIDS fire drill exercise is expected to occur in 2027, and we look forward to continuing to work closely with fellow regulators, CCPs, clearing member firms, and CCPG once preparations begin. Taken together, successive global fire‑drills have strengthened collective understanding of default management processes and improved operational readiness across the financial system, reinforcing the value of these exercises as a core component of system‑wide resilience.
+
+## Other publications
+
+[Publication // Market Participants Survey
+
+31 July 2026
+
+### Market Participants Survey results - July...
+
+### Market Participants Survey results - July 2026](/markets/market-intelligence/survey-results/2026/market-participants-survey-results-july-2026)
+
+[Publication // Weekly report
+
+30 July 2026
+
+### Bank of England Weekly Report 29 July 2026
+
+### Bank of England Weekly Report 29 July 2026](/weekly-report/2026/29-july-2026)
+
+[Publication // Monetary Policy Report (MPR)
+
+30 July 2026
+
+### Monetary Policy Report - July 2026
+
+### Monetary Policy Report - July 2026](/monetary-policy-report/2026/july-2026)
+
+[Publication // Working Paper
+
+24 July 2026
+
+### The devil in the DeTail: assessing state-contingent...
+
+### The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital...](/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects)
+
+[View more Other publications](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

@@ -1,0 +1,27 @@
+{
+  "doc_id": "94676b6359964740",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "ESAs warn on money laundering and terrorist financing risks affecting the EU\u2019s financial sector - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/esas-warn-money-laundering-and-terrorist-financing-risks-affecting-eus-financial-sector-2017-02-21_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f97e57e77d831a1c08695f06d7a28940ba3293887b413083af5bf1a728554828",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/94676b6359964740",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/esas-warn-money-laundering-and-terrorist-financing-risks-affecting-eus-financial-sector-2017-02-21_en",
+  "fetch_method": "html_to_md"
+}

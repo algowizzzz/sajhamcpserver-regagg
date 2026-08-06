@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13234",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Consolidated Tape Association; Order Approving the Fortieth Substantive Amendment to the Second Restatement of the CTA Plan and Thirty-First Substantive Amendment to the Restated CQ Plan, as Modified by Amendment No. 1 Thereto",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13234/consolidated-tape-association-order-approving-the-fortieth-substantive-amendment-to-the-second",
+  "reference_number": "2026-13234",
+  "published_date": "2026-07-01",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e2a1665196a474e06d51e850a9f99bab1f02bc9d6a001b35a76500906fc7c4af",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13234",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

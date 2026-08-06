@@ -1,0 +1,1 @@
+Summary: # Giving up control in fact\* of an entity while maintaining another type of control

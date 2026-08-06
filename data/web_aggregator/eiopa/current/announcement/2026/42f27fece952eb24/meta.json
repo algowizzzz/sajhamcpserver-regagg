@@ -1,0 +1,27 @@
+{
+  "doc_id": "42f27fece952eb24",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA\u2019s third annual analysis on the use and impact of long-term guarantees measures and measures on equity risk - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopas-third-annual-analysis-use-and-impact-long-term-guarantees-measures-and-measures-equity-risk-2018-12-18_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:862a92e3704663397358d8ca738e0213effcd9635a5b60818cacb0efd5d9b8f6",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/42f27fece952eb24",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopas-third-annual-analysis-use-and-impact-long-term-guarantees-measures-and-measures-equity-risk-2018-12-18_en",
+  "fetch_method": "html_to_md"
+}

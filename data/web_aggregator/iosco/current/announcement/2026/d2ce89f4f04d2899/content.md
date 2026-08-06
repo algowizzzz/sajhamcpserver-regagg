@@ -1,0 +1,133 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+## MMoU
+
+* [Text of the IOSCO MMoU](/v2/publications/?subsection=public_reports&publicdocid=386)
+* [Signatories to Appendix A and Appendix B List](/v2/about/?subSection=mmou&subSection1=signatories)
+* [2013 List of Non-signatories to the MMoU](/v2/about/?subSection=mmou&subSection1=2013_list)
+
+## EMMoU
+
+* [EMMoU Main Page](/v2/about/?subSection=mmou&subSection1=emmou)
+* [Signatories to EMMoU](/v2/about/?subSection=mmou&subSection1=emmou_signatories)
+
+# Multilateral Memorandum of Understanding Concerning Consultation and Cooperation and the Exchange of Information (MMoU)
+
+---
+
+The MMoU sets an international benchmark for cross-border co-operation. Established in 2002, it has provided securities regulators with the tools for combating cross-border fraud and misconduct that can weaken global markets and undermine investor confidence.
+
+## What is the MMoU?
+
+The MMoU represents a common understanding among its signatories of how they should consult, cooperate, and exchange information for the purpose of regulatory enforcement regarding securities markets.
+
+The MMoU itself sets out the specific requirements for:
+
+* what information can be exchanged and how it is to be exchanged;
+* the legal capacity to compel information;
+* the types of information that can be compelled;
+* the legal capacity for sharing information; and
+* the permissible use of information.
+
+It also sets out specific requirements regarding the confidentiality of the information exchanged, and ensures that no domestic banking secrecy, blocking laws or regulations will prevent securities regulators from sharing this information with their counterparts in other jurisdictions.
+
+## When was the MMoU established?
+
+The MMoU was developed by IOSCO following the events of 11 September 2001, when IOSCO created a Special Project Team to explore how securities regulators could expand cooperation and information sharing.
+
+## Which activities fall under the scope of the MMoU?
+
+Information requests can be made when authorities are in the process of investigating offences relating to the following activities under the relevant laws and regulations of the jurisdictions in question:
+
+* insider dealing and market manipulation;
+* misrepresentation of material information and other fraudulent or manipulative practices relating to securities and derivatives;
+* solicitation and handling of investor funds, and customer orders;
+* the registration, issuance, offer, or sale of securities and derivatives;
+* the activities of market intermediaries, including investment and trading advisers who are required to be licensed or registered, collective investment schemes, brokers, dealers, and transfer agents; and
+* the operations of markets, exchanges, and clearing and settlement entities
+
+The specific types of offences for which information requests can made are set out in Paragraph 4 of the MMoU.
+
+## What type of assistance is available under the MMoU?
+
+Under the terms of the MMoU, the securities regulators can provide information and assistance, including records:
+
+* to enable reconstruction of all securities and derivatives transactions, including records of all funds and assets transferred into and out of bank and brokerage accounts relating to these transactions;
+* that identify the beneficial owner and controller of an account;
+* for transactions, including the amount purchased or sold; the time of the transaction; the price of the transaction; and the individual and the bank or broker and brokerage house that handled the transaction; and
+* providing information identifying persons who beneficially own or control companies;
+* taking or compelling a person’s statement or, where permissible, testimony under oath, regarding the potential offence
+
+The scope of assistance to be made to members is set out under Paragraph 7 of the MMoU.
+
+## Who has signed the MMoU?
+
+The list of signatories of the MMoU is available on the IOSCO website [here](/about/?subSection=mmou&subSection1=signatories).
+
+All governmental regulatory bodies that are ordinary or associate members of IOSCO are eligible to apply to sign the MMoU: In total, 167 ordinary and associate members are eligible, of which 131 are MMoU signatories as of March 2026.
+
+Below is a table of the number of information requests that have been made under the MMoU since 2003:
+
+  
+
+## What has IOSCO Done to Increase the Number of MMoU Signatories?
+
+In 2005, at IOSCO's Annual Conference in Colombo, Sri Lanka, the Presidents Committee, representing all the ordinary and associate members of IOSCO, decided that by 1 January 2010 all ordinary and associate members with primary responsibility for securities regulation in their jurisdictions should:
+
+* have applied for and been accepted as signatories under Appendix A of the MMoU; or
+* have expressed, via Appendix B, a commitment to seek legal authority to enable them to become signatories.
+
+At the IOSCO Annual Conference in Montreal, Canada in June 2010, the Presidents Committee decided to create a watch list for members who had not applied to become a MMoU signatory by 1 January 2013.
+
+At the IOSCO Annual Conference in Beijing, China in May 2012, the Presidents Committee approved a resolution that called for measures to encourage compliance by IOSCO members who have not yet signed the MMoU. The resolution was designed to assist these non-signatories in overcoming the obstacles they often encounter in securing support from their governments or legislatures for implementing the legal and regulatory changes required for compliance with the MMoU.
+
+The resolution called for the following measures:
+
+* IOSCO would ensure that a comprehensive program of technical assistance and political support was made available to non-signatory members to enable them to make the changes necessary to sign the MMoU.
+* From 1 January 2013, IOSCO would publish on its website a watch list of those members who had not become MMoU signatories and;
+* IOSCO would consider further measures to persuade non-signatory members to sign the MMoU, such as limiting their ability to influence IOSCO decision making.
+
+At IOSCO's Annual Conference in Luxembourg in September 2013, the Presidents Committee resolved to introduce Graduated Additional Measures taking effect from 30 September 2013, with an aim to encourage non signatory-members to sign the MMoU.
+
+In addition, IOSCO has been providing technical assistance to eligible IOSCO member jurisdcitions to enable them to overcome the legal hurdles that have prevent them from signing the MMoU, in line with its Strategic Direction (2015 – 2020). So far, five jurisdictions have received technical assistance under this program and are at different stages towards joining the MMoU network. Three other jurisdictions that are currently receiving technical assistance from IOSCO in this regard.
+
+## The MMoU and the G20
+
+The G20 has encouraged IOSCO to continue its work on cross-border enforcement cooperation and its efforts to deal with uncooperative jurisdictions in the areas of securities regulation, market conduct and prudential supervision. This will assist in ensuring that securities regulators from under-regulated or uncooperative jurisdictions develop the capacity to meet the MMoU international cooperation standards and have the practical ability to implement those standards.
+
+## Relevant Documents
+
+* [Text of the Multilateral Memorandum of Understanding Concerning Consultation and Cooperation and the Exchange of Information (MMoU)](/v2/publications/?subsection=public_reports&publicdocid=386)
+* [IOSCO Resolutions 2002, 2005, 2010, 2012, 2013, 2014](/about/?subSection=mmou&subSection1=signatories)
+* [Frequently Asked Questions](/about/?subSection=mmou&subSection1=2013_list)
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

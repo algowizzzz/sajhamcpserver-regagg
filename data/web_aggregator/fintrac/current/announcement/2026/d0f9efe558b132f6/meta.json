@@ -1,0 +1,24 @@
+{
+  "doc_id": "d0f9efe558b132f6",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Plan minist\u00e9riel du Centre d'analyse des op\u00e9rations et d\u00e9clarations financi\u00e8res du Canada pour 2025-2026 en un coup d'\u0153il",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/publications/dp/2025-2026/1-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:abec7830eb8f868c0133ebaa126ec9c75983e4794334a5126a3bf181626491c2",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/d0f9efe558b132f6",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

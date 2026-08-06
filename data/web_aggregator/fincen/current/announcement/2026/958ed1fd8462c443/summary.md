@@ -1,0 +1,1 @@
+Summary: # Administrative Ruling Regarding the Participation of Associations of Financial Institutions in the 314(b) Program (Rescinded by FIN-2020-R002)

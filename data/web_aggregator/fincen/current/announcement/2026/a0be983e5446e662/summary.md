@@ -1,0 +1,1 @@
+Summary: # FinCEN CTR (Form 112) Reporting of Certain Currency Transactions for Sole Proprietorships and Legal Entities Operating Under a “Doing Business As” (“DBA”) Name

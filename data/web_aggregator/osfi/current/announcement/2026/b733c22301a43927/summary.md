@@ -1,0 +1,1 @@
+Summary: # Issuance of subordinated debt in consideration of property

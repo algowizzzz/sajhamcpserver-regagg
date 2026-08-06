@@ -1,0 +1,25 @@
+{
+  "doc_id": "8419e32833419dfd",
+  "regulator_id": "jfsa",
+  "doc_type": "announcement",
+  "title": "Regulated Institutions : FSA",
+  "language": "en",
+  "source_url": "https://www.fsa.go.jp/en/regulated_institutions/index.html",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4ac7f12c330d6fc36ab16a97de4d1004418384f3112305fce8d3163f4a2362e1",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_jfsa_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/jfsa/current/announcement/2026/8419e32833419dfd",
+  "tags": [
+    "japan",
+    "banking",
+    "securities"
+  ]
+}

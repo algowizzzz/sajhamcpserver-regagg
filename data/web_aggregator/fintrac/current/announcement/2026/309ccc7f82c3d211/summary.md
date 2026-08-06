@@ -1,0 +1,1 @@
+Summary: # Pénalité administrative pécuniaire imposée à Gestion de Patrimoine Blue Bridge Inc.

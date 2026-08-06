@@ -1,0 +1,7 @@
+# Toshiba Starts Shipping Engineering Samples of TXZ+™ Family Entry‑Class M4V Group, Standard Microcontrollers with Arm® Cortex®‑M4 Core for System Control Applications
+
+―Enhanced security and data management functions support secure system design for IoT equipment and other applications― KAWASAKI, Japan — Toshiba Electronic Devices & Storage Corporation (“Toshiba”) has announced TXZ+™ Family Entry-Class M4V Group, standard microcontrollers[1] featuring an Arm® Cortex®-M4 core with a floating-point unit (FPU), that enhance security and data management in IoT devices and […]
+
+[Read the full story at the source](https://financialpost.com/pmn/business-wire-news-releases-pmn/toshiba-starts-shipping-engineering-samples-of-txz-family-entry%e2%80%91class-m4v-group-standard-microcontrollers-with-arm-cortex%e2%80%91m4-core-for-system-control-applications)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

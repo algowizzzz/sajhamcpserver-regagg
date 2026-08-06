@@ -1,0 +1,219 @@
+# Key Metrics Report – Life insurers – Instructions (2025)
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Insurance companies
+
+Return
+
+Life insurers key metrics (OL)
+
+Last updated
+
+November 2024
+
+Return number
+
+OL
+
+Changes effective Q1 2025:
+
+* Addition of instructions for the Date of ORSA field
+* Line numbers updated to reflect changes to Segregated Fund Guarantee Risk in LICAT 2025
+
+Changes effective Q1 2024:
+
+* Removal of the unstructured template filing requirement
+* Removal of the embedded formulas from the return template
+* Addition of Penalties for Late Filings
+* Addition of Footnote 2 under Column 04, Line 29
+* Instructions updated under Reconciliation of Capital (Margin) Resources
+
+## Return files
+
+[OL - 2025 Sample return (tracked change) (XLSX, 113 KB)](/sites/default/files/documents/2025-ol-kmr-life-rppe-vie-dft-rtn-en.xlsx "2025-ol-kmr-life-rppe-vie-dft-rtn-en.xlsx")[OL - 2025 Sample XSD (XSD, 36.72 KB)](/sites/default/files/documents/ol-2025-06-xsd-bil.xsd)[OL - 2025 Sample XML (XML, 6.71 KB)](/sites/default/files/documents/ol-2025-06-xml-bil.xml "ol-2025-06-xml-bil.xml")
+
+## Instructions
+
+All federally regulated insurance companies (insurer) are required to complete a Key Metrics Report (KMR). The KMR form is to be submitted to OSFI at least annually and within 30 days of the Own Risk and Solvency Assessment (ORSA) report being reviewed by the insurer's Board of Directors or signed off by its Chief Agent. The following instructions are provided to assist in completing the KMR:
+
+### General Instruction
+
+#### Structured Return (OL)
+
+A structured return (OL) will be made available within your RRS Draft Returns folder on a yearly basis. Insurers will have two filing options:
+
+1. The RRS on-line web form for direct data input and submission.
+2. Alternatively, institutions can submit this data by uploading an XML file to RRS. Technical specifications for the format and structure of this data file are available for download in RRS under Documents / Portal Documents / English / Return Technical Specifications.
+
+Insurers who wish to include an alternative presentation should do so by submitting an additional schedule to their OSFI Lead Supervisor in addition to the RRS KMR (OL) structured filing.
+
+#### Date of the ORSA
+
+The date on which the Own Risk and Solvency Assessment (ORSA) report is reviewed by the insurer’s Board of Directors or signed off by its Chief Agent.
+
+#### Penalties for Late Filing
+
+The KMR must be received electronically on or before the applicable due date. There are penalties for late filing. Please refer to the [Administrative Procedures for the Late and Erroneous Filing Penalty (LEFP) Framework](/en/data-forms/reporting-returns/file-submit-return/administrative-procedures-late-erroneous-filing-penalty-lefp-framework "Administrative Procedures for the Late and Erroneous Filing Penalty (LEFP) Framework") for more information.
+
+### Column 02 Instructions
+
+#### General
+
+The amounts reported as Regulatory Capital (Margin) should be those calculated per the LICAT guideline.
+
+#### Line 05: LICAT Capital (Margin) Requirements: Before Credits and Non-Diversified Risks (A)
+
+The amount reported should be equal to the amount of an insurer’s regulatory LICAT capital (margin) requirements needed to support specific risks, as outlined in the LICAT guideline.
+
+#### Line 08: LICAT Credits (B)
+
+The amount reported should be equal to the amount of an insurer’s credits as outlined in the LICAT guideline.
+
+#### Line 10: LICAT Capital (Margin) Requirements: Non-Diversified Risks (C)
+
+The amount reported should be equal to the amount of an insurer’s regulatory LICAT capital (margin) requirements needed to support non-diversified risks as outlined in the LICAT guideline.
+
+#### Line 19: LICAT Base Solvency Buffer (Required Margin) at Supervisory Target Level (D)
+
+The amount reported represents the insurer’s regulatory LICAT Base Solvency Buffer (Required Margin)[Footnote 1](#fn1), calculated at the Supervisory Target level. Refer to the LICAT guideline for the detailed calculation approach.
+
+#### Line 27: LICAT Capital (Margin) Resources (J)
+
+The amount reported is the sum of the insurer’s Tier 1 (Available Margin – Other Admitted Assets), Tier 2 (Non-Core), Surplus Allowance and Eligible Deposits (which are all defined in the LICAT guideline).
+
+#### Line 29: LICAT Core Supervisory Target (L)
+
+The amount reported represents a ratio of 70% of the Base Solvency Buffer (Required Margin) and is the regulatory Core Supervisory Target as outlined in the LICAT guideline.
+
+#### Line 30: LICAT Core Capital (Margin) Resources (M)
+
+The amount reported is the sum of the insurer’s Tier 1 (Available Margin – Other Admitted Assets), 70% of Surplus Allowance and 70% of Eligible Deposits, as outlined in the LICAT guideline.
+
+### Columns 03 & 05 Instructions
+
+#### For all applicable Lines
+
+The amounts reported represent the percentages of the amount of each applicable line in relation to the amount reported as regulatory capital (margin) on Line 19 (D).
+
+### Column 04 Instructions
+
+#### General
+
+The risk categories (e.g. Credit, Market, Insurance, Segregated Fund Guarantee, Operational, Other) and amounts reported as an insurer’s ORSA Capital (Margin) should reflect those determined as part of the insurer’s ORSA process.
+
+An insurer’s allocation of the various component calculations of its Own Capital (Margin) Needs should be consistent with the components of LICAT Base Solvency Buffer (Required Margin) with explanations and details provided.
+
+#### Lines 01 – 04: Specific Risks - Credit, Market, Insurance and Segregated Fund Guarantee risks
+
+Include these risks assessed as part of the ORSA process.
+
+#### Lines 06 – 07: Credits
+
+These lines should be equal to the amount of an insurer’s credits assessed as part of the ORSA process. Include, on Line 07, amounts for between-risk diversification benefits (i.e. within-risk diversification should be reflected on that individual risk line), net of any dependencies creating, in aggregate, capital (margin) needs that are greater than the sum of the individual risk assessments. If an amount is not entered on Line 07, an amount may be entered on Line 17 (see below).
+
+#### Lines 09: Non-Diversified Risks - Operational risk
+
+Include non-diversified risks assessed as part of the ORSA process.
+
+#### Lines 11 – 16: Other ORSA Risks (write in)
+
+Describe and include amounts for other risks not explicitly specified in the LICAT guideline (e.g. concentration risk) but assessed as part of the ORSA. (These should therefore not be included in any lines under Column 02 vis-à-vis Regulatory Capital (Margin)).
+
+#### Line 17: ORSA Adjustments – Other
+
+Include amounts for elements that relate to an adjustment to a number of own risks or to a specific own risk not identified /included on a particular line (e.g. model risk, data quality/quantity, management tolerances or diversification credit, if not quantified elsewhere).
+
+#### Line 18: ORSA Adjustments - Extremely Severe Scenarios
+
+May be necessary when sophisticated scenario testing tools uncover dependencies between risks that had not been measured by individual risk assessment, or when it is determined that some plausible but extremely severe scenarios, in aggregate, amount to capital (margin) needs greater than the sum of the individual risk assessments.
+
+#### Line 19: ORSA Own Capital (Margin) Needs
+
+The amount reported reflects the insurer’s assessment of Own Capital (Margin) Needs for all risks.
+
+#### Line 20: ORSA Adjustments – Other
+
+Once an insurer has determined "ORSA Own Capital (Margin) Needs" (i.e. Line 19 above), other adjustments may be required to account for external or third party margin expectations, notably OSFI expectations including that the "Internal Target" (Line 22) should not be less than the LICAT Base Solvency Buffer (Required Margin) at the Supervisory Target Level. Adjustments applied in line 20 must be positive.
+
+#### Line 21: ORSA Adjustments – Varying Nature & Severity Scenarios
+
+In addition to the “Adjustments – Other” (i.e. Line 20 above), an insurer may include additional adjustments based on scenarios of varying nature and severity to assess the adequacy of the margin between the amount of its “Own Capital (Margin) Needs” and external expectations (e.g. OSFI’s Supervisory Target). Adjustments applied in line 21 must be positive.
+
+#### Line 22: Internal Target (E)
+
+The amount reported should be the same as the Internal Target identified in the insurer’s Capital Management Policy and disclosed to OSFI. This amount should not be less than OSFI’s Supervisory Target[Footnote 2](#fn2). As outlined in Guideline A-4: Regulatory Capital and Internal Targets, the Internal Target should be determined through the ORSA process.
+
+#### Line 27: ORSA Capital (margin) resources (J)
+
+This line represents the amount of an insurer’s capital (margin) resources, assessed as part of the ORSA process. It is the sum of the insurer’s Core and Non-Core capital (margin) resources. It should include all elements determined to be core and non-core, as part of the ORSA process.
+
+#### Line 29: ORSA Core Internal Target (L)
+
+This amount represents the insurer’s ORSA Core Internal Target. (The ORSA Core Internal Target ratio calculated on this line in Column 05 should be determined as part of the insurer’s ORSA and should be the same as the Core Internal Target identified in the insurer’s Capital Management Policy and disclosed to OSFI. The ratio should not be less than OSFI’s Supervisory Target Core Ratio[Footnote 2](#fn2)).
+
+#### Line 30: ORSA Core capital (margin) resources (M)
+
+This line represents an amount equivalent to regulatory Core Capital (Margin) Resources, assessed as part of the ORSA process. It may include various elements determined to be core capital (margin) as per the ORSA process.
+
+### Column 06 Instructions
+
+#### Methodology & References
+
+Should identify the methods used in the ORSA process and include references to the sections of the ORSA report that provide a description of how the risks or elements were quantified.
+
+### Reconciliation of Capital (Margin) Resources
+
+If regulatory "Capital (Margin) Resources" differs from ORSA amounts (e.g. foreign branch's non-vested assets), insurers should provide details on any "ORSA Capital (margin) resources" reconciling items.
+
+In conducting their ORSA, insurers may include components of capital (margin) that differ from regulatory Tier 1 (Available Margin – Other Admitted Assets) and Tier 2 (Non-Core) included in the LICAT. These different components should be written-in on Lines 33 – 36 for reconciling to regulatory Tier 1 (Available Margin – Other Admitted Assets), and on Lines 39 – 42 for reconciling to regulatory Tier 2 (Non-Core).
+
+1. Reconciling regulatory Tier 1 (Available Margin – Other Admitted Assets) with ORSA Core capital (margin) resources (Line 23):
+   1. Begin with Line 32 Column 04 which is equal to Line 23 Column 04, ORSA Core capital (margin) resources.
+   2. Use Line 33 Column 04 to Line 36 Column 04 to add or subtract ORSA Core capital (margin) resources amounts that are included in Line 23 Column 04 but not included in Line 23 Column 02, regulatory Tier 1 (Available Margin – Other Admitted Assets).
+   3. Then, Line 37 Column 02 is the sum of Line 32 Column 04 to Line 36 Column 04 and must equal Line 23 Column 02.
+2. Reconciling regulatory Tier 2 (Non-Core) Resources and ORSA Non-Core capital (margin) resources:
+   1. Begin with Line 38 Column 04 which is equal to Line 24 Column 04, the ORSA Non-Core capital (margin) resources.
+   2. Use Line 39 Column 04 to Line 42 Column 04 to add or subtract ORSA Non-Core capital (margin) resources amounts that are included in Line 38 Column 04 but not included in Line 24 Column 02
+   3. Then, Line 43 Column 02 is the sum of Line 38 Column 04 to Line 42 Column 04 and must equal Line 24 Column 02.
+
+Line 46 Column 02 is then equal to Line 37 Column 02 + Line 43 Column 02 + Line 44 Column 02 + Line 45 Column 02, which must equal Line 27 Column 02, LICAT Capital (Margin) Resources.
+
+Line 46 Column 04 is then equal to Line 32 Column 04 + Line 38 Column 04, which must equal Line 27 Column 04, ORSA Capital (Margin) Resources.
+
+### The following should be documented and included within the ORSA report or supporting materials
+
+To determine if the Internal Target is above OSFI's Total Supervisory Target, compare the dollar ($) amount of the:
+
+* "Internal Target" (Column 04 Line 22 [E]) to
+* "LICAT Base Solvency Buffer (Required Margin)" (Column 02 Line 19 [D]).
+
+A summary calculation with rationale of the determination of the ORSA Core Internal Target (Line 29 [L]) should also be included.
+
+To determine if the ORSA Core Internal Target is above OSFI's Core Supervisory Target, compare the dollar ($) amount (Line 29 [L]) of the:
+
+* "ORSA Core Internal Target" to
+* "LICAT Core Supervisory Target".
+
+## Footnotes
+
+Footnote 1
+:   The Base Solvency Buffer (Required Margin) should be reported after application of scalar.
+
+    [Return to footnote 1 referrer](#fn1-rf)
+
+Footnote 2
+:   Industry-wide Supervisory Targets are not applicable to regulated insurance holding companies and non-operating insurance companies; therefore, their Internal Targets are expected to be not less than OSFI’s minimum required capital levels.
+
+    [Return to footnote 2 referrer](#fn2-1-rf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-11-21

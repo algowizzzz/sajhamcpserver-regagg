@@ -1,0 +1,41 @@
+# SAR Leads to Guilty Plea of Money Laundering
+
+[079.pdf](/system/files/case_example/079.pdf "079.pdf")
+(22.07 KB)
+
+A SAR filed by a bank revealed that an individual had deposited over $44,000 to and withdrawn over $31,000 from his account in a one-month period. Subpoenaed bank records revealed that this individual had deposited over $103,000 in a nine-month period from late 1999 to mid-2000. The individual had no record of employment and had not filed state income taxes for the three (3) prior tax years. Further investigation revealed that this individual had purchased several vehicles for over $23,000 in cash. A criminal records check revealed that this individual had numerous arrests, several of which were drug related.
+
+In September 2000, search warrants were executed at two (2) residences associated with the individual. These search warrants resulted in the seizure of over $25,000 in cash, three (3) vehicles, numerous pieces of expensive jewelry, and four (4) handguns. Also executed were three (3) seizure warrants on financial institutions that resulted in the seizure of over $113,500.
+
+This individual was indicted on four (4) counts of possession of a firearm by a convicted felon, four (4) counts of possession of a firearm with obliterated serial numbers, and one (1) count of money laundering. In May 2001, the individual pled guilty to one (1) count of felony possession of a firearm by a convicted felon and one count of money laundering.
+
+(Source: Prince Georges County Police, State of Maryland)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 4, August 2002]
+
+Tags
+
+Money Laundering
+
+Involving SARs
+
+Depository Institutions
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

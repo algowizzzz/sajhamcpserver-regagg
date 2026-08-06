@@ -1,0 +1,1 @@
+Summary: # Joint Industry Plan; Notice of Filing and Immediate Effectiveness of the Fourth Amendment to the Limited Liability Company Agreement of CT Plan LLC

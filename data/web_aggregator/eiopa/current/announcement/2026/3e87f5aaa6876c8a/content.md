@@ -1,0 +1,14 @@
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published the calculation of the Ultimate Forward Rate (UFR) for 2020.
+
+EIOPA calculated the ultimate forward rate (UFR) for 2020 in accordance with the methodology to derive the UFR which can be obtained via this link (p.p. 108-111).
+
+For the euro, the applicable UFR as of as of 1 January 2020 will be 3.75%.
+
+Publication date
+:   21 May 2019
+
+## Related links
+
+[Calculation of the Ultimate Forward Rate (UFR) for 2020.](/document/download/9a7c2a9c-ffb4-40eb-892b-456b3aad08ee_en?filename=Calculation%20of%20the%20Ultimate%20Forward%20Rate%20%28UFR%29%20for%202020.%20)
+
+[Technical documentation of the methodology to derive EIOPA’s risk-free interest rate term structures](/document/download/9d72e7f2-97c7-4cdc-844b-65fa2292b779_en?filename=Technical%20documentation%20of%20the%20methodology%20to%20derive%20EIOPA%E2%80%99s%20risk-free%20interest%20rate%20term%20structures.pdf)

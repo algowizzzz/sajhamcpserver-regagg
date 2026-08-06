@@ -1,0 +1,1 @@
+Summary: # Foreign borrowings hit over $6 billion in June as 140 firms tap global market

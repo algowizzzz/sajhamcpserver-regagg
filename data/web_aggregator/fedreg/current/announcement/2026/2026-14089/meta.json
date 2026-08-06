@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14089",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Elevation Series Trust and CresAlta Investment Management, Inc.",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14089/elevation-series-trust-and-cresalta-investment-management-inc",
+  "reference_number": "2026-14089",
+  "published_date": "2026-07-14",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:75558c3ae1ec75cc435c3e9db1feb53cc4b591fee20fa7fad7bc9b3bbf90d76e",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14089",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

@@ -1,0 +1,48 @@
+# ESTABLISHMENT OR TERMINATION OF A TRUST FOR VESTING ASSETS IN CANADA BY A FOREIGN COMPANY (including a foreign fraternal benefit society)
+
+Applications should be sent to:
+
+Office of the Superintendent of Financial Institutions  
+Securities Administration and Approvals Reporting Unit  
+255 Albert Street  
+Ottawa, Ontario  
+K1A 0H2
+
+Comments, suggestions and questions concerning this Instruction Guide should be directed to Jason Oickle, Manager, Securities Administration and Approvals Reporting Unit, at the same address as above or by email at [Jason.Oickle@osfi-bsif.gc.ca](mailto:Jason.Oickle@osfi-bsif.gc.ca)
+
+## Legislative Authority
+
+* Sub-section 611 (3) of the Insurance Companies Act
+
+## Information Requirements
+
+### Establishment of a Trust
+
+In seeking the Superintendent's approval to enter into a trust agreement the applicant will provide the following:
+
+* A duly completed *OSFI Form No. 541 – Standard Form Trust Agreement* ("Form 541"or "Trust Agreement") in triplicate and in standard format duly signed by the foreign insurance company and the Canadian financial institution that will be acting as trustee.
+  + All references to the parties involved in the agreement must use the proper legal name of the entity as found in the incorporating instruments or another acceptable certificate or document indicating the legal name.
+  + Clause 2 of the Trust Agreement should refer to the latest published version of the *OSFI Form No.542 - Terms and Conditions of Standard Form Trust Agreement* ("Form 542"). Please do not file a copy of Form 542, as this is the standard form used by OSFI. Two copies of the signed Trust Agreement, along with originals, as published by the Office, of the referenced version of Form 542, will be returned to the applicant.
+  + Form 541 may include amendments to the standard terms and conditions set out in Form 542. OSFI reserves the right to reject all changes requested by the applicants.
+  + Applicants that wish to use the services of the "Canadian Depository for Securities Limited" must insert the name of that entity in the spaces provided of clauses 3, 4(d), 5(a) of Form 541. Other book-based systems are not currently permitted by OSFI.
+  + Applicants who wish to use other custodians need to enter into a separate custodial agreement and insert the name of the custodian in clause 5(b). Delete paragraph 5(b) if you do not wish to use another custodian. OSFI reserves the right to reject other custodians requested by the applicants.
+* When the trustee is not a federally regulated financial institution, the applicant should ensure that a certified copy of the incorporating instrument including any subsequent amendments or another acceptable certificate or document indicating the legal name is on file with OSFI.
+* A copy of the custodial agreement as referred to in clause 5(b) of Form 541 for our review.
+
+### Termination of a Trust by a company
+
+In assessing an application for approval to terminate a trust agreement pursuant to clause 14 (b) of Form 542, OSFI would request the following:
+
+* Reasons why the company wishes to terminate an agreement.
+* Confirmation that all assets have been transferred out of the trust account(s).
+
+## Administrative Guidance
+
+The revised standard forms are available in English and French on the OSFI website at [http://www.osfi-bsif.gc.ca](/en) under the "Publications / Practices / Supervisory Practices / Life" icons for Life companies, under "Publications / Practices / Supervisory Practices / Fraternal" icons for Fraternal Benefit Societies under the "Publications / Practices / Supervisory Practices / Property & Casualty" icons for Property and Casualty companies.
+
+If OSFI releases a new version of Form 542, the parties to an existing agreement would continue to be required to comply with the version of Form 542 referenced in clause 2 of the respective Trust Agreement previously signed by the three parties, unless advised otherwise by OSFI pursuant to subparagraph 6(b) of Form 541.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2021-04-30

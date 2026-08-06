@@ -1,0 +1,24 @@
+{
+  "doc_id": "2e21be29e2cd2a37",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "FINTRAC - Privacy Policy",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/atip-aiprp/2011-pp-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:10375170e2b3aa2ec6fe1abdc320875d3e4403f0ae717e53cebb2a5d7ff6477e",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/2e21be29e2cd2a37",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

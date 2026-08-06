@@ -1,0 +1,1 @@
+Summary: # OSFI finalizes its Solo Capital guideline and Solo Total Loss Absorbing Capacity (TLAC) guideline

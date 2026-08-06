@@ -1,0 +1,64 @@
+# Life Insurance Capital Adequacy Test (LICAT) 2025 – Letter
+
+Information
+
+Publication type
+
+Letter
+
+Category
+
+Capital Adequacy Requirements
+
+Date
+
+August 22, 2024
+
+Sector
+
+Life Insurance and Fraternal Companies
+
+[Generate PDF](/en/print/pdf/node/2338)
+
+Table of contents
+
+Related documents
+
+* [Backgrounder: 2025 Life Insurance Capital Adequacy Test (LICAT)](/en/news/backgrounder-2025-life-insurance-capital-adequacy-test-licat)
+* [Life Insurance Capital Adequacy Test – Guideline (2025)](/en/guidance/guidance-library/life-insurance-capital-adequacy-test-guideline-2025)
+
+Today, the Office of the Superintendent of Financial Institutions (OSFI) is publishing the draft [Life Insurance Capital Adequacy Test](/en/guidance/guidance-library/life-insurance-capital-adequacy-test-guideline-2025 "Life Insurance Capital Adequacy Test – Guideline (2025)") (LICAT) 2025 guideline, along with other related documents for public consultation. The final LICAT 2025 guideline will be published on November 21, 2024 and will come into effect on January 1, 2025.
+
+Key revisions to the LICAT 2025 guideline include:
+
+* For life insurers with segregated fund guarantee (SFG) business, OSFI is developing a new framework to determine capital requirements for SFG risk to replace the current method. The new framework comprises a standard approach and a simplified option, where the latter will only be available to insurers with very small total SFG portfolios (a total guaranteed value of $100 million or less). Under the standard approach, capital requirements will be calculated by applying shocks to SFG liabilities. It will replace existing internal models and factored approach.
+* Other changes to LICAT 2025 include minor adjustments and clarifications to apply the framework accurately.
+
+In addition, the Own Risk and Solvency Assessment (ORSA) Key Metrics Report form and instructions, as well as Guideline A-4 Regulatory Capital and Internal Capital Targets and OSFI’s Solo Capital Framework for Federally Regulated Life Insurers received minor consequential updates as a result of the changes made to the LICAT 2025 guideline.
+
+OSFI will host an information session on the OSFI Industry Day on September 5, 2024 to provide more details to stakeholders and offer opportunities for dialogue and discussion.
+
+Comments can be submitted to [LICAT-TSAV@osfi-bsif.gc.ca](mailto:LICAT-TSAV@osfi-bsif.gc.ca) **by end of day October 22, 2024**.
+
+Below is a list of the documents included in public consultation:
+
+1. Draft of LICAT 2025 Guideline
+2. Draft LICAT regulatory reporting forms:
+   1. LICAT Quarterly Return (LCQ)
+   2. LICAT Annual Return (LCA)
+   3. LICAT regulatory reporting instructions
+3. The Solo Capital Framework for Federally Regulated Life Insurers
+4. The Key Metrics Report (KMR) Structured Return (OL) and instructions
+5. Guideline A4 – Regulatory Capital and Internal Capital Targets
+
+Should you have any questions, please contact Regis Dahany, Managing Director, Insurance Capital and Liquidity Standards Division by email at [regis.dahany@osfi-bsif.gc.ca](mailto:regis.dahany@osfi-bsif.gc.ca) or use the mailbox, [LICAT-TSAV@osfi-bsif.gc.ca](mailto:LICAT-TSAV@osfi-bsif.gc.ca).
+
+Sincerely,
+
+Amar Munipalle  
+Executive Director, Risk Advisory Hub
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-08-22

@@ -1,0 +1,1 @@
+Summary: # Residential mortgage underwriting practices and procedures – Guideline (2017)

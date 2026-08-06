@@ -1,0 +1,27 @@
+{
+  "doc_id": "9e939402f2cfea8f",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA publishes Discussion Paper on Systemic Risk and Macroprudential Policy in Insurance - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-publishes-discussion-paper-systemic-risk-and-macroprudential-policy-insurance-2019-03-29_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8c721e5d672d36af4aaaac7ea902f5733aa1f38fc044cc4e3e27765f71034557",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/9e939402f2cfea8f",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-publishes-discussion-paper-systemic-risk-and-macroprudential-policy-insurance-2019-03-29_en",
+  "fetch_method": "html_to_md"
+}

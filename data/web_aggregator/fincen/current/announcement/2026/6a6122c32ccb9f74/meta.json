@@ -1,0 +1,24 @@
+{
+  "doc_id": "6a6122c32ccb9f74",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "SAR Technical Bulletins | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/news/sar-technical-bulletins",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1b1c1351b405db1dddb9a6ddb60dc9ac18994a916cb4bcedb99545db949d1f90",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/6a6122c32ccb9f74",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

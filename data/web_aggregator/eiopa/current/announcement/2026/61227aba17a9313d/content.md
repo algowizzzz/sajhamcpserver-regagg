@@ -1,0 +1,15 @@
+## What are thematic reviews?
+
+Thematic reviews are in-depth analysis of risks and issues with certain products and activities in the insurance and occupational pensions markets.
+
+## How are they used?
+
+By investigating specific key issues with relevant products and activities in detail, thematic reviews provide guidance and evidence for reasoned policy proposals and consistent supervisory practices.
+
+Thematic reviews have an embedded EU-wide focus. They are intended to be used to investigate issues that go beyond one national market, either because the issues have been identified in several national markets or because they have a cross-border element to them. This facilitates building a coordinated understanding across the markets where issues have been identified and, furthermore, an assessment and “early warning” of the potential for these issues to develop in other Member States.
+
+## What topics do they cover?
+
+Travel insurance issues, Big Data analytics, and mobile phone insurance are some of the topics covered by thematic reviews.
+
+[DISCOVER OUR THEMATIC REVIEWS](/document-library_en)

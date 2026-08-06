@@ -1,0 +1,45 @@
+# Local Municipality Case Example (SARs/CTRs Lead to Asset Forfeiture)
+
+[Issue22-story16.pdf](/system/files/case_example/Issue22-story16.pdf "Issue22-story16.pdf")
+(22.13 KB)
+
+In early 2012, FinCEN conducted outreach to all of its state and local law enforcement partners, and asked for cases where FinCEN data played a useful role in their investigations. Below, in their own words, is an example of how FinCEN's stakeholders use FinCEN data. It has been edited only for confidentiality and privacy concerns.The following example is from a local municipality case. Local police and sheriff's agencies increasingly use FinCEN records in their investigations. Many local agencies have representatives on SAR review teams and task forces that share FinCEN data. In addition, FinCEN has given direct access to some local agencies with a robust financial crime focus that have a history of using the data.
+
+*"While investigating an alleged robbery at an upscale hotel, local law enforcement officials identified the complainant of the alleged robbery as a suspected drug trafficker. The initial investigation also resulted in the on scene-seizure of currency in excess of $131,000. Asset forfeiture investigators found SARs filed in 2010 and 2012, as well as CTR information filed during 2011, directly associated to the defendant.*
+
+*This SAR and CTR information assisted investigators with the identification of bank accounts and detailed the structuring of funds. Specifically, within a 2-year period, the defendant structured more than $246,000 by means of cash deposits and cash withdrawals. The defendant had no record of legitimate employment and provided investigators with conflicting information as to the origin of the $131,000.*
+
+*As the investigation progressed, the defendant attempted to bribe several law enforcement officials in an attempt to avoid criminal charges. Preliminary investigation did not identify any accounts subject to seizure and/or forfeiture, at present. The defendant's criminal history for trafficking controlled dangerous substances, combined with current evidence of marijuana possession, drug ledgers for bulk sales of marijuana distribution, and evidence refuting the alleged robbery resulted in the forfeiture of the aforementioned seized currency."*
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* 22, October 2012]
+
+Tags
+
+Narcotics Trafficking
+
+Involving SARs
+
+Involving CTRs
+
+Depository Institutions
+
+BSA Violations
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

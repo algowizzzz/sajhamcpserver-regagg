@@ -1,0 +1,26 @@
+{
+  "doc_id": "2026-11997",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Order Granting Temporary Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 and Rules 610(f) and 612(d) of Regulation NMS, from Compliance With Rule 600(b)(89)(i)(F), Rule 610(c) and Rule 612 of Regulation NMS, as Amended",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/15/2026-11997/order-granting-temporary-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of",
+  "reference_number": "2026-11997",
+  "published_date": "2026-06-15",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:13754a7ea0696c88e690827ff8a6df532de385b739ffb00fccdf2bc3fe14de00",
+  "version_ts": "2026-08-04T01-11-54Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-04T01:11:54.868965+00:00",
+  "run_id": "2026-08-03_fedreg_ui011154",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-11997",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md"
+}

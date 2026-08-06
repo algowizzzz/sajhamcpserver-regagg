@@ -1,0 +1,25 @@
+{
+  "doc_id": "7e5bde44ec1c9fd1",
+  "regulator_id": "wsj_markets",
+  "doc_type": "news_story",
+  "title": "Gold Gains as Markets Track Mideast Developments, Rethink Rate Views",
+  "language": "en",
+  "source_url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-markets-track-mideast-developments-rethink-rate-views-6c4f3d56?mod=rss_markets_main",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:868e53f2b99da2723e0db6a3d93e925b9257a7ca6729c40050e72478916c4a6b",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_wsj_markets_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/wsj_markets/current/news_story/2026/7e5bde44ec1c9fd1",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-markets-track-mideast-developments-rethink-rate-views-6c4f3d56?mod=rss_markets_main",
+  "fetch_method": "feed_summary"
+}

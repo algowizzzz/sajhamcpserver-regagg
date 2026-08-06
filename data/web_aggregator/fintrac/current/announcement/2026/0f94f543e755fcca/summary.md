@@ -1,0 +1,1 @@
+Summary: # Discours de Sarah Paquet, Directrice et présidente-directrice générale, Centre d'analyse des opérations et déclarations financières du Canada à la 9e conférence annuelle de l'ACAMS sur la lutte contre le blanchiment d'argent et le crime financier

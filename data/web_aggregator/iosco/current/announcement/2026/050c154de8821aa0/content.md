@@ -1,0 +1,149 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+# Committee on Regulation of Secondary Markets (Committee 2)
+
+Committee 2 is concerned with recent developments in the structure of global capital markets and financial market infrastructure, and how they are affected by, and contributed to, the financial crisis. Particular attention is given to changes that impact the effectiveness and integrity of markets.
+
+## Members of Committee 2
+
+### Chair
+
+Ms. Martina Tambucci, Head of International Relations Office, Commissione Nazionale per le Società e la Borsa, **Italy**
+
+### Vice-Chair
+
+Mr. Saeed Juraybi, Director, Market Surveillance & Analysis, Capital Market Authority, **Saudi Arabia**
+
+### Members (32)
+
+Financial Services Regulatory Authority, **Abu Dhabi**  
+*(Mr. Simon O'Brien, Executive Director – Markets)*
+
+Australian Securities and Investments Commission, **Australia**  
+*(Mr. Andrew McPherson, Senior Manager, Market Infrastructure / Caitlin Chau, Analyst, Market Infrastructure)*
+
+Comissão de Valores Mobiliários, **Brazil**  
+*(Ms. Margareth Noda, Analyst at the Trading and Markets Supervision Office)*
+
+Canadian Investment Regulatory Organization, **Canada**  
+*(Ms. Sonali GhuptaBhaya, Vice-President of Market Regulation Policy and Trading Conduct)*
+
+China Securities Regulatory Commission, **China**  
+*(Mr. Liuyi Pi, Deputy Director-General, Department of Market Supervision / Ms. Qin He, Division Director, Department of Market Supervision)*
+
+Dubai Financial Services Authority, **DIFC, Dubai**  
+*(Brad Douglas, Director and Acting Head of Markets)*
+
+Autorité des marchés financiers, **France**  
+*(Mr. Patrice Aguesse, Head of Markets Regulation Policy Division)*
+
+Bundesanstalt für Finanzdienstleistungsaufsicht, **Germany**  
+*(Mr. Mark Gillert, Head of Market Abuse Analysis & Secondary Markets Oversight Division / Mr. Sebastian Kimmer, Senior Advisor)*
+
+Securities and Futures Commission, **Hong Kong**  
+*(Mr. Rico Leung, Executive Director, Supervision of Markets / Mr. Hokinson Ho, Associate Director, Supervision of Markets)*
+
+Securities and Exchange Board of India, **India**  
+*(Mr. Shashikumar Valsakumar, Executive Director)*
+
+Commissione Nazionale per le Società e la Borsa, **Italy**  
+*(Ms. Martina Tambucci, Head of International Relations Office / Ms. Isadora Tarola, Head of Markets Division and Head of Market Infrastructures Surveillance Office)*
+
+Financial Services Agency, **Japan**  
+*(Mr. Jiro Masuda, Deputy Director for International Capital Market Regulation)*
+
+Financial Services Commission/Financial Supervisory Service, **Korea, Republic of**  
+*(Mr. Junhyung Kim, Senior Manager, Securities Market Team, Capital Market Supervision Department / Ms. Bosug Hong, Associate, Securities Market Team, Capital Market Supervision Department)*
+
+Capital Markets Authority, **Kuwait**  
+*(Mr. Fawaz Boresli, Department Director, Studies & Capital Markets Developments Department)*
+
+Securities Commission, **Malaysia**  
+*(Mr. Nor Zahrul Zainal, General Manager, Institution Supervision)*
+
+Comisión Nacional Bancaria y de Valores, **Mexico**  
+*(Mr. Rodrigo Hernández, General Director of Securities Supervision / Ms. Ivette Casasola)*
+
+The Dutch Authority for the Financial Markets, **The Netherlands**  
+*(Mr. Hans Wolters, Senior Policy Advisor, Strategy, Policy and International Affairs Division)*
+
+Securities and Exchange Commission, **Nigeria**  
+*(Ms. Salamatu Idris, Assistant Director / Ms. Ekinadose Mobolaji, Senior Manager)*
+
+Ontario Securities Commission, **Ontario**  
+*(Ms. Michelle Alexander, Manager of the Market Regulation Branch)*
+
+Autorité des marchés financiers, **Quebec**  
+*(Mr. Martin Dominique, Senior Director, Market Structures)*
+
+Financial Supervisory Authority, **Romania**  
+*(Mrs. Francesca Rainof, Responsible Officer, Electronic Supervision and Transactions Monitoring Unit)*
+
+The Bank of Russia, **Russia**  
+*(Mr. Popov Kirill, Deputy Head of Infrastructure Supervision Division, Securities Market and Commodities Market Department)*
+
+Capital Market Authority, **Saudi Arabia**  
+*(Mr. Saeed Juraybi, Director, Market Surveillance & Analysis)*
+
+Monetary Authority of Singapore, **Singapore**  
+*(Mr. Tang Jong Chye, Deputy Director, Markets and Infrastructure Supervision Division)*
+
+Financial Sector Conduct Authority, **South Africa**  
+*(Mr. Kedibone Dikokwe, Divisional Executive in the Market Integrity Division / Mpho Musetsho, Supervision Manager / Shreelin Naicker)*
+
+Comisión Nacional del Mercado de Valores, **Spain**  
+*(Mr. Jose Vicente Garcia, Senior Advisor for Securities Markets / Marta Redondo Fernández, Senior Advisor for Securities Markets)*
+
+Finansinspektionen, **Sweden**  
+*(Ms. Karin Jedkvist, Senior Securities Markets Specialist)*
+
+Swiss Financial Market Supervisory Authority, **Switzerland**  
+*(Ms. Dorothee Kammerer / Mr. Harald Schrenk / Mr. Thomas Güntensperger, Senior Supervision Specialist Financial Market Infrastructures)*
+
+Capital Markets Board, **Türkiye**  
+*(Ms. Merve Astim, Expert, Corporate Finance Dept. / Mr. Selami Erbas, Senior Expert, Strategy Development Department)*
+
+Financial Conduct Authority, **United Kingdom**  
+*(Ms. Gabriella Toth, Lead Associate, Trading Policy)*
+
+Commodity Futures Trading Commission, **United States of America**  
+*(Mr. Daniel Burstein, Associate Director, Office of International Affairs / Mr. John Miller, Attorney Advisor)*
+
+Securities and Exchange Commission, **United States of America**  
+*(Ms. Kelly Riley, Senior Special Counsel, Division of Trading and Markets)*
+
+### Observers (1)
+
+European Securities and Markets Authority, **European Union**  
+*(Mr. Jose Leitao de Seabra, Policy Officer, Markets and Digital Innovation Department)*
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

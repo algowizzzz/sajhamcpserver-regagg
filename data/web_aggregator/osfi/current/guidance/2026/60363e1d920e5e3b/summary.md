@@ -1,0 +1,1 @@
+Summary: # Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025)

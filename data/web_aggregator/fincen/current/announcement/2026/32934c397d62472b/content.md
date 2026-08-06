@@ -1,0 +1,104 @@
+# FinCEN Guidance-FIN-2008-G007
+
+## Advisory Information
+
+FIN-2008-G007
+
+[fin-2008-g007.pdf](/system/files/guidance/fin-2008-g007.pdf "fin-2008-g007.pdf")
+(85.46 KB)
+
+Issued Date
+
+July 31, 2008
+
+Subject
+
+Recognizing Suspicious Activity - Red Flags for Casinos and Card Clubs
+
+This guidance is intended to assist casinos and card clubs1 with the reporting of suspected money laundering, terrorist financing and related financial crimes. This guidance contains examples of circumstances or "red flags" - based on actual reports, the observations of examiners and the experience of law enforcement - that may indicate the presence of money laundering, terrorist financing, and related financial crimes.
+
+Casinos that are subject to the federal Bank Secrecy Act ("BSA") have an obligation to implement anti-money laundering programs that include procedures for detecting and reporting suspicious transactions. Casinos are required to implement risk-based anti-money laundering programs that assist with the identification and reporting of suspicious transactions, including employee training and written procedures on recognizing and addressing indicia of suspicious activity and vulnerabilities that may arise in the provision of particular products and services.
+
+Recognizing Suspicious Customer Activity
+
+Casino employees who monitor customer gaming activity or conduct transactions with customers are in a unique position to recognize transactions and activities that appear to have no legitimate purpose, are not usual for a specific player or type of players, or are not consistent with transactions involving wagering. Many casinos routinely obtain a great deal of information about their customers through deposit, credit, check cashing, player rating and slot club accounts. These accounts generally require casinos to obtain basic identification information about the accountholders and to inquire into the kinds of wagering activities in which the customer is likely to engage.
+
+Attempts to Evade BSA Reporting or Recordkeeping Requirements
+
+Be alert to customers who try to keep their transactions just below the reporting or recordkeeping thresholds, such as:
+
+* Two or more customers each purchase chips with currency in amounts between $3,000 and $10,000, engage in minimal gaming, combine the chips (totaling in excess of $10,000), and one of them redeems the chips for a casino check.
+* A customer seeks to cash out chips, tickets or tokens in excess of $10,000, but when asked for identification for completing a CTRC, reduces the amount of chips or tokens to be cashed out to less than $10,000.
+* A customer pays off a large credit debt, such as markers or bad checks, of more than $20,000 over a short period of time (e.g., less than one week), through a series of currency transactions, none of which exceeds $10,000 in a gaming day.
+* A customer receives a race book or sports pool payout in excess of $10,000 and requests currency of less than $10,000 and the balance paid in chips. The customer then goes to the cage and redeems the remaining chips for currency in an amount that is less than the CTRC reporting threshold.
+* A customer, who is a big winner, enlists another individual (who is not a partner of the customer in the gaming activity), to cash out a portion of the chips or tokens won to avoid the filing of a CTRC, IRS Form W-2G or other tax forms.
+* A customer attempts to influence, bribe, corrupt, or conspire with an employee not to file CTRCs.
+
+Using a Cage Solely for Its Banking-Like Financial Services
+
+Be alert to customer activity involving unusual banking-like transactions at the cage, such as:
+
+* A customer wires funds derived from non-gaming proceeds, to or through a bank and/or a non-bank financial institution(s) located in a country that is not his/her residence or place of business.
+* A customer appears to use a casino account primarily as a temporary repository for funds by making frequent deposits into the account and, within a short period of time (e.g., one to two days), requests money transfers of all but a token amount to domestic or foreign-based bank accounts.
+
+Minimal Gaming Activities Without Reasonable Explanations
+
+Be alert to customers conducting large transactions on the floor with little or no related gaming activity and without reasonable explanation, such as:
+
+* A customer purchases a large amount of chips with currency at a table, engages in minimal gaming, and then redeems the chips for a casino check.
+* A customer draws casino markers (e.g., between $5,000 and $10,000) which he/she uses to purchase chips, engages in minimal or no gaming activity, and then pays off the markers in currency and subsequently redeems the chips for a casino check.
+* A customer makes a large deposit using numerous small denomination bills (e.g., $5s, $10s and $20s); and withdraws it in chips at a table game, engages in minimal gaming, and exchanges remaining chips at a cage for large denomination bills (e.g., $100), a casino check or a money transfer.
+* While reviewing computerized player rating records, an employee determines that a customer frequently purchases chips with currency between $5,000 and $10,000, engages in minimal gaming, and walks away with the chips.
+* A customer using a slot club account card inserts $2,990 of paper money (or an amount just below established thresholds) into a bill acceptor on a slot machine or video lottery terminal (e.g., contemporaneously inserting $5s, $10s and $20s), accumulating credits with minimal or no gaming activity, presses the "cash out" button to obtain a ticket. The customer goes to three other machines and conducts the same activity for $2,990 at each machine. Then the customer redeems the tickets for large denomination bills or casino checks with different cage cashiers at different times in a gaming day.
+* A customer transfers funds to a casino for deposit into a front money account in excess of $5,000; and withdraws it in chips at a table game, engages in minimal or no gaming activity, and exchanges remaining chips at a cage for a casino check.
+
+Unusual Transaction Characteristics or Activities
+
+Be alert to transactions with any unusual characteristics, such as:
+
+* A pair of bettors frequently cover between them both sides of an even bet, such as:
+  + - Betting both "red and black" or "odd and even" on roulette;
+  + - Betting both with and against the bank in baccarat/mini-baccarat; or
+  + - Betting the "pass line" or "come line" and the "don't pass line" or "don't come line" in craps; and,the aggregate amount of both bettors' total wagering is in excess of $5,000.
+* A customer routinely bets both sides of the same line for sporting events (i.e., betting both teams to win) and thus the amount of overall loss to the customer is minimal (known as hedging).
+* A customer requests the issuance of casino checks, each less than $3,000, which are made payable to third parties or checks without a specified payee.
+* A customer furnishes a legitimate type of identification document, in connection with the completion of a CTRC, or the opening of a deposit, credit or check cashing account, which:
+  + - Does not match the customer's appearance (e.g., different age, height, eye color, sex); or
+  + - Is false or altered (e.g., address changed, photograph substituted).
+* A customer presents information for the completion of CTRCs for different gaming days that contains conflicting identification information, such as:
+  + - Different address or different spelling or numeration in address;
+  + - Different state driver's license number; or
+  + - Different social security number.
+* A customer makes large deposits or pays off large markers with multiple instruments (e.g., cashier's checks, money orders, traveler's checks, or foreign drafts) in amounts of less than $3,000.
+* A customer withdraws a large amount of funds (e.g., $30,000 or more) from a deposit account and requests that multiple casino checks be issued each of which is less than $10,000.
+* A customer arranges large money transfers out of the country which are paid for by multiple cashier's checks from different financial institutions in amounts under $10,000.
+
+Criminal Activities
+
+Be alert to a customer conducting illegal activity, such as:
+
+* A customer conducts transactions that the casino believes to be the result of some illegal activity or from an illegal source (e.g., narcotics trafficking).
+* A customer or a group of individuals forge signatures or use counterfeit business or personal checks to obtain currency, chips or tokens.
+
+---
+
+Questions or comments regarding the contents of this Guidance should be addressed to the FinCEN Regulatory Helpline at 800-949-2732.
+
+1 See 31 U.S.C. § 5312(a)(2)(X) and 31 C.F.R. § 103.11(n)(5)(i) and (n)(6)(i). In this guidance, the term "casino" is used to refer to casinos, card clubs and other gaming establishments that fall within the BSA and FinCEN's regulations, unless otherwise noted.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

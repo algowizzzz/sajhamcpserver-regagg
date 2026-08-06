@@ -1,0 +1,25 @@
+{
+  "doc_id": "f7bbbf20d77de258",
+  "regulator_id": "boe_pra",
+  "doc_type": "announcement",
+  "title": "Banknote imagery advisory group minutes \u2013 15 December 2025",
+  "language": "en",
+  "source_url": "https://www.bankofengland.co.uk/minutes/2025/december/banknote-advisory-minutes-15-december",
+  "reference_number": null,
+  "published_date": "2026-06-15",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:bacf134838818273adfe8d202846bf349aadb9051b1c22c1ef01772d02016518",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boe_pra_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boe_pra/current/announcement/2026/f7bbbf20d77de258",
+  "tags": [
+    "uk",
+    "prudential",
+    "banking"
+  ]
+}

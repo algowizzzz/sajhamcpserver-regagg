@@ -1,0 +1,1 @@
+Summary: # Mot d'ouverture prononcé par Barry MacKillop, sous-directeur, Secteur du renseignement, Centre d'analyse des opérations et déclarations financières du Canada devant le Comité permanent de la sécurité publique et nationale de la Chambre des communes

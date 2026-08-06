@@ -1,0 +1,9 @@
+# HSBC share price drops following lower-than-expected US$1 billion buy-back
+
+The share price of HSBC Holdings fell 2.5 per cent on Tuesday afternoon following the lender’s announcement of a lower-than-expected share buy-back.
+HSBC – the top lender in Hong Kong – resumed its share repurchase programme for the first time since October on Tuesday, earmarking US$1 billion to buy back shares over the next three months, according to a stock exchange filing.
+The bank said in October it would have to pause share buy-backs for three quarters to conserve capital for its US$14...
+
+[Read the full story at the source](https://www.scmp.com/business/banking-finance/article/3362872/hsbc-sets-aside-us1-billion-first-share-buy-back-october?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,0 +1,25 @@
+{
+  "doc_id": "7b6fe4c28e7bc838",
+  "regulator_id": "boe_pra",
+  "doc_type": "announcement",
+  "title": "Banknote imagery advisory group minutes \u2013 29 April 2026",
+  "language": "en",
+  "source_url": "https://www.bankofengland.co.uk/minutes/2026/april/banknote-advisory-minutes-29-april",
+  "reference_number": null,
+  "published_date": "2026-06-15",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:83732a39b6a823d20e54c3ff02df32e239846831513e9e4873e31690e403bdef",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boe_pra_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boe_pra/current/announcement/2026/7b6fe4c28e7bc838",
+  "tags": [
+    "uk",
+    "prudential",
+    "banking"
+  ]
+}

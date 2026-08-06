@@ -1,0 +1,106 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+# FSB, BIS and Other Updates
+
+---
+
+* [APRC Letter to the CFTC on the impact of the SEF rule on Asia Pacific derivatives markets](/about/aprc/pdf/20140409-APRC-letter-to-CFTC.pdf)
+    
+  9 April 2014
+* [Response from EU Commissioner Barnier on the regulation of Asia Pacific Central Counterparties under Emir](/about/aprc/pdf/20131220-Response-from-EU-to-APRC-letter.pdf)
+    
+  20 December 2013
+* [Update To EU Commissioner Barnier On Further Action on Recognition of Asia Pacific Central Counterparties under EMIR](/about/aprc/pdf/20131122-APRC-letter-to-EU.pdf)
+    
+  22 November 2013
+* [IFSB-IOSCO-SC Collaborate on Disclosure Requirements for Islamic Capital Market Products](/news/pdf/IOSCONEWS304.pdf)
+    
+  31 October 2013
+* [IOSCO Urges Implementation of Principles for Financial Benchmarks](/news/pdf/IOSCONEWS305.pdf)
+    
+  30 October 2013
+* [International Organization of Securities Commissions and IFRS Foundation - Statement of Protocols for Cooperation on International Financial Reporting Standards](/library/statements/pdf/statements-21.pdf)
+    
+  18 September 2013
+* [Letter from IOSCO Board Chair to the FSB Regarding IOSCO Work on *Cybercrime, Long-Term Investment, Crowd Funding and Cross-Border Regulation*](/library/briefing_notes/pdf/IOSCOBN02-13.pdf)
+    
+  28 October 2013
+* [Letter to EU Commissioner Barnier on recognition of Asia Pacific Central Counterparties under EMIR](/about/aprc/pdf/20130606-APRC-letter-to-EU.pdf)
+    
+  6 June 2013
+* [IOSCO Letter to the G20 Ministers and Central Bank Governors on *Transparency and Competition Among Credit Rating Agencies*](/library/briefing_notes/pdf/IOSCOBN01-13.pdf)
+    
+  15 April 2013
+* [BN03-11 Report On OTC Derivatives Data Reporting and Aggregation Requirements](/library/briefing_notes/pdf/IOSCOBN03-11.pdf)
+    
+  24 August 2011
+* [BN02-11 IOSCO Recommendations to the FSB on Market Efficiency and Integrity](/library/briefing_notes/pdf/IOSCOBN02-11.pdf)
+    
+  06 July 2011
+* [BN01-11 Cover Note on Consultative Report on Principles for Financial Markets Infrastructure](/library/briefing_notes/pdf/IOSCOBN01-11.pdf)
+    
+  10 March 2011
+* [Final Update - IOSCO 35th Annual Conference](/library/briefing_notes/pdf/IOSCOMS03-10.pdf)
+    
+  10 June 2010
+* [IOSCO Quarterly Update January 2010](/library/briefing_notes/pdf/IOSCO_Quarterly_Update_January_2010.pdf)
+    
+  26 January 2010
+* [IOSCO Quarterly Update August 2009](/library/briefing_notes/pdf/IOSCO_Quarterly_Update_August_2009.pdf)
+    
+  17 August 2009
+* [IOSCO Quarterly Update April 2009](/library/briefing_notes/pdf/IOSCO_Quarterly_Update_April_2009.pdf)
+    
+  7 April 2009
+* [IOSCO Quarterly Update December 2008](/library/briefing_notes/pdf/IOSCO_Quarterly_Update_December_2008.pdf)
+    
+  19 December 2008
+* [IOSCO Quarterly Update Autumn 2008](/library/briefing_notes/pdf/IOSCO_Quarterly_Update_Autumn_2008.pdf)
+    
+  03 October 2008
+* [IOSCO Quarterly Update June 2008](/library/briefing_notes/pdf/IOSCO_Quarterly_Update_June_2008.pdf)
+    
+  07 July 2008
+* [Subprime Recommendations](/library/briefing_notes/pdf/briefing_note2.pdf)
+    
+  29 May 2008
+* [Amendments to Credit Rating Agencies Code of Conduct](/library/briefing_notes/pdf/briefing_note1.pdf)
+    
+  28 May 2008
+* [IOSCO Quarterly Update March 2008](/library/briefing_notes/pdf/IOSCO_Quarterly_Update_March_2008.pdf)
+    
+  01 April 2008
+* [IOSCO Quarterly Update December 2007](/library/briefing_notes/pdf/IOSCO_Quarterly_Update_December_2007.pdf)
+    
+  21 December 2007
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

@@ -1,0 +1,37 @@
+# SARs Identify Internal Fraud at Local Bank
+
+[089.pdf](/system/files/case_example/089.pdf "089.pdf")
+(21.64 KB)
+
+On December 12, 2002, the Delaware State Police obtained a federal conviction for bank fraud against a former bank employee. The subject was sentenced to two years federal incarceration and an additional five years federal probation. The Delaware State Police received information from a local city bank that a current bank employee was responsible for a bank fraud scheme at their bank. The subsequent investigation revealed that the subject was drafting cashier’s checks in his own name, and adjusting bank entries in an attempt to conceal the transactions. SARs were used to identify previous similar transactions by the subject, which occurred during employment at another bank. Also, BSA records assisted in the expansion of the case investigation. Use of the SAR data and other BSA records of banking transactions were instrumental in the investigation to identify bank accounts and the identification of expensive automobile and other cash purchases.
+
+(Source: Delaware State Police)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 5, February 2003]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Depository Institutions
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

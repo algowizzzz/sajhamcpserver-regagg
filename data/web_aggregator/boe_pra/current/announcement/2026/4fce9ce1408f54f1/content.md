@@ -1,0 +1,89 @@
+# Bank of England/Ipsos Inflation Attitudes Survey - May 2026
+
+This quarterly survey, conducted by Ipsos on our behalf, assesses public attitudes to inflation, opinions about the Bank and awareness of our work.
+
+Published on
+12 June 2026
+
+## News release
+
+This news release describes the results of the Bank of England’s latest quarterly survey of public attitudes to inflation.
+
+From February 2022, the survey has been conducted on the Bank of England’s behalf by Ipsos, prior to that it was conducted by Kantar. Ipsos interviewed a quota sample of people aged 16-75 across the United Kingdom; the sample was surveyed between 30 April and 5 May 2026.
+
+Please note since May 2020 the survey changed from being conducted face-to-face to online. This change resulted in a methodological break in the series in May 2020. For example, the proportions of respondents who answered “Don’t know/ No idea” to the May survey’s questions declined substantially. That perhaps reflected the design of the online questionnaire, where the option of “Don’t know/ No idea” appeared only if the respondent tried to move onto the next question without giving an answer. In the surveys since August 2020 however, the option of “Don’t know/ No idea” appeared in the same showcard as the other options. The proportions of respondents answering “Don’t know/ No idea” returned to usual levels for most questions in the August 2020 and subsequent surveys.
+
+These mode of collection changes mean caution should be taken when making comparisons across the latest twelve surveys and May 2020 and with previous vintages, which were based on face-to-face interviews.
+
+More details about the methodology applied in the sureys since May 2020 can be found in the ‘Methodology and notes – online survey’ attachment and that of previous surveys in the ‘Methodology and notes – face-to-face survey’ attachment.
+
+### Highlights from the Survey
+
+### **Question 1**: Asked to give the current rate of inflation, respondents gave a median answer of 5%, up from 4.6% in February 2026.
+
+**Question 2a**: Median expectations of the rate of inflation over the coming year were 4%, up from 3.2% in February 2026.
+
+**Question 2b**: Asked about expected inflation in the twelve months after that, respondents gave a median answer of 3.5%, up from 3.2% in February 2026.
+
+**Question 2c**: Asked about expectations of inflation in the longer term, say in five years’ time, respondents gave a median answer of 3.9%, up from 3.7% in February 2026.
+
+**Question 3**: By a margin of 78% to 4%, survey respondents believed that the economy would end up weaker, rather than stronger, if prices started to rise faster, compared to 72% and 4% respectively in February 2026.
+
+**Question 4**: 39% of respondents thought the inflation target was ‘about right’, unchanged from 39% in February 2026. The proportions saying the target was ‘too high’ or ‘too low’ were 32% and 12% respectively.
+
+**Question 5**: 49% of respondents said that interest rates on things such as mortgages, bank loans and savings had risen over the past 12 months, up from 32% in February 2026. Meanwhile, 18% of respondents thought that interest rates had fallen over the past 12 months, down from 35% in February 2026.
+
+**Question 6**: When asked about the future path of interest rates, 53% of respondents expected rates to rise over the next 12 months, up from 30% in February 2026. 23% said they expected rates to stay about the same over the next twelve months, down from 26% in February 2026 and 11% said they expected rates to decline over the next twelve months, down from 29% in February 2026.
+
+**Question 7**: Asked what would be ‘best for the economy’ – higher interest rates, lower rates or no change – 12% thought rates should ‘go up’, up from 11% in February 2026. 38% of respondents thought that interest rates should ‘go down’, compared to 35% in February 2026. 26% thought interest rates should ‘stay where they are’, down from 27% in February 2026.
+
+**Question 8**: When asked what would be ‘best for you personally’, 23% of respondents said it would be better for them if interest rates were to ‘go up’, down from 27% in February 2026. 34% of respondents said it would be better for them if interest rates were to ‘go down’, up from 30% in February 2026.
+
+**Question 14:** Respondents were asked to assess the way the Bank of England is ‘doing its job to set interest rates to control inflation’. The net satisfaction balance, the proportion satisfied minus the proportion dissatisfied, was -2%, down from 2% in February 2026.
+
+[![](/assets/img/icon-xls.svg)Long-run summary results data](/-/media/boe/files/inflation-attitudes-survey/long-run.xlsx)
+
+[![](/assets/img/icon-xls.svg)Detailed summary responses](/-/media/boe/files/inflation-attitudes-survey/detailed-summary-results.xlsx)
+
+* [Methodology and notes - online survey (pdf)](/-/media/boe/files/inflation-attitudes-survey/ipsos-methodology-and-notes-online-survey.pdf)
+
+* [Methodology and notes – face-to-face survey (pdf)](/-/media/boe/files/inflation-attitudes-survey/methodology-and-notes-face-to-face.pdf)
+* [Individual survey responses (xlsx)](/-/media/boe/files/inflation-attitudes-survey/individual-responses.xlsx)
+
+## Other publications
+
+[Publication // Market Participants Survey
+
+31 July 2026
+
+### Market Participants Survey results - July...
+
+### Market Participants Survey results - July 2026](/markets/market-intelligence/survey-results/2026/market-participants-survey-results-july-2026)
+
+[Publication // Weekly report
+
+30 July 2026
+
+### Bank of England Weekly Report 29 July 2026
+
+### Bank of England Weekly Report 29 July 2026](/weekly-report/2026/29-july-2026)
+
+[Publication // Monetary Policy Report (MPR)
+
+30 July 2026
+
+### Monetary Policy Report - July 2026
+
+### Monetary Policy Report - July 2026](/monetary-policy-report/2026/july-2026)
+
+[Publication // Working Paper
+
+24 July 2026
+
+### The devil in the DeTail: assessing state-contingent...
+
+### The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital...](/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects)
+
+[View more Other publications](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

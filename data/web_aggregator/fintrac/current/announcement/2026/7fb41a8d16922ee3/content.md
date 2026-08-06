@@ -1,0 +1,42 @@
+# CANAFE impose une pénalité administrative pécuniaire à 9293-0809 Québec Inc.
+
+[**2022-05-10**]
+
+9293-0809 Québec Inc., courtier immobilier établi à Montréal, au Québec, faisant également affaire sous le nom de Groupe Sam's Globale, s'est vu imposer une pénalité de 101 227 $ le 19 octobre 2021 pour avoir commis six violations. Les violations ont été observées dans le cadre d'un examen de conformité réalisé en 2019. 9293-0809 Québec Inc. a interjeté appel devant la Cour fédérale.
+
+**Violation no 1 – Fait de ne pas nommer une personne chargée de la mise en oeuvre d'un programme de conformité – alinéa 71(1)a) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes.**
+
+9293-0809 Québec Inc. ne s'est pas assuré que la personne nommée est responsable de la mise en œuvre d'un programme de conformité.
+
+---
+
+**Violation no 2 – Fait de ne pas élaborer et de ne pas appliquer des principes et des mesures de conformité écrits qui sont mis à jour et, dans le cas d'une entité, approuvés par un de ses dirigeants – alinéa 71(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes.**
+
+9293-0809 Québec Inc. n'a pas élaboré ni appliqué de politiques et procédures en matière de conformité.
+
+---
+
+**Violation no 3 – Fait de ne pas évaluer les risques de blanchiment d'argent ou de financement des activités terroristes et de ne pas conserver les documents à l'appui en tenant compte des critères prévus par règlement – alinéa 71(1)c) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes.**
+
+9293-0809 Québec Inc. n'a pas évalué les risques en matière de blanchiment d'argent et de financement des activités terroristes en tenant compte de ses emplacements géographiques, ses produits et ses modes de prestation, et ses clients et ses relations d'affaires, et de ne pas conserver les documents à l'appui.
+
+---
+
+**Violation no 4 – Fait de ne pas élaborer et de ne pas mettre à jour un programme écrit de formation continue axé sur la conformité – alinéa 71(1)d) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes.**
+
+9293-0809 Québec Inc. n'a pas élaboré un programme écrit de formation continue axé sur la conformité.
+
+---
+
+**Violation no 5 – Fait de ne pas tenir les documents réglementaires – alinéa 39(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes.**
+
+9293-0809 Québec Inc. n'as pas conservé tous les renseignements réglementaires dans ses dossier-clients.
+
+---
+
+**Violation no 6 – Fait, pour une personne ou entité tenue de vérifier l'identité d'une personne, de ne pas conserver les renseignements réglementaires – alinéa 64.2 du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes.**
+
+9293-0809 Québec Inc. n'as pas conservé de dossier incluant tous les renseignements d'identification réglementaires.
+
+Date de modification :
+:   2022-05-10

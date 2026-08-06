@@ -1,0 +1,50 @@
+# Pillar 3 Disclosure Guidelines on Crypto-asset Exposures - letter
+
+Information
+
+Publication type
+
+Letter
+
+Category
+
+Accounting and Disclosure
+
+Date
+
+February 20, 2025
+
+Sector
+
+Banks,
+
+Trust and Loan Companies
+
+[Generate PDF](/en/print/pdf/node/2580)
+
+Table of contents
+
+Related documents
+
+* [What we heard: consultation on draft amendments to Pillar 3 Disclosure Guidelines on Crypto-asset Exposures](/en/consultations/consultation-summaries/what-we-heard-consultation-draft-amendments-pillar-3-disclosure-guidelines-crypto-asset-exposures)
+* [Pillar 3 Disclosure Guideline for Domestic Systemically Important Banks (D-SIBs) (2025)](/en/guidance/guidance-library/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025)
+* [Pillar 3 Disclosure Guideline for Small and Medium-Sized Deposit-Taking Institutions (SMSBs) (2025)](/en/guidance/guidance-library/pillar-3-disclosure-guideline-small-medium-sized-deposit-taking-institutions-smsbs-2025)
+
+[Federal Budget 2023](https://www.budget.canada.ca/2023/home-accueil-en.html) announced we would consult on guidelines for federally regulated financial institutions to publicly disclose their exposures to crypto-assets to protect Canadians’ savings and the security of our financial system. Public disclosures provide transparency and promote market discipline, thereby enhancing sound risk management.
+
+In August 2024, we consulted stakeholders on our draft guidelines that incorporated the Basel Committee on Banking Supervision final [Pillar 3 standard on crypto-asset exposure disclosures](https://www.bis.org/basel_framework/chapter/DIS/55.htm). We thank all respondents who submitted comments. Our [consultation summary](/en/consultations/consultation-summaries/what-we-heard-consultation-draft-amendments-pillar-3-disclosure-guidelines-crypto-asset-exposures "What we heard: consultation on draft amendments to Pillar 3 Disclosure Guidelines on Crypto-asset Exposures") reports on ‘What we heard’ from stakeholders.
+
+Today, we publish final amendments to the [Pillar 3 Disclosure Guidelines for domestic systemically important banks (D-SIBs)](/en/guidance/guidance-library/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025 "Pillar 3 Disclosure Guideline for Domestic Systemically Important Banks (D-SIBs) (2025)") and [small and medium-sized deposit-taking institutions (SMSBs)](/en/guidance/guidance-library/pillar-3-disclosure-guideline-small-medium-sized-deposit-taking-institutions-smsbs-2025 "Pillar 3 Disclosure Guideline for Small and Medium-Sized Deposit-Taking Institutions (SMSBs) (2025)"). The guidelines incorporate the crypto-asset disclosure requirements effective for the fiscal Q1 2026 reporting period.
+
+Our approach to disclosure expectations will be iterative and responsive to the evolving risk environment. In addition, we expect to publish crypto-asset exposures for all institutions beginning as early as 2026.
+
+Sincerely,
+
+Theresa Hinz  
+Executive Director  
+Regulatory Affairs Directorate
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-02-20

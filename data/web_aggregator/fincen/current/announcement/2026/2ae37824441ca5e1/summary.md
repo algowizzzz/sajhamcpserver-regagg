@@ -1,0 +1,1 @@
+Summary: # (Formerly known as 89-2) When a customer has established bank accounts for each of several establishments that it owns, and the bank has exempted one or more of those accounts, how does the bank aggregate the customer`s currency transactions?

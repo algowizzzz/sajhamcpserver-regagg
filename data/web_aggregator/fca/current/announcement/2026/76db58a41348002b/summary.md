@@ -1,0 +1,1 @@
+Summary: The FCA has decided to ban a father and son from UK financial services after the High Court found that they had engaged in fraud and misused client money.

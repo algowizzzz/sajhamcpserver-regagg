@@ -1,0 +1,1 @@
+Summary: # Informations sur les changements à venir concernant la DT SWIFT et la mise en œuvre d’ISO20022

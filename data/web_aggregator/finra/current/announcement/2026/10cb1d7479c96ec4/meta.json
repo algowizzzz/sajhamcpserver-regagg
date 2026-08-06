@@ -1,0 +1,27 @@
+{
+  "doc_id": "10cb1d7479c96ec4",
+  "regulator_id": "finra",
+  "doc_type": "announcement",
+  "title": "Watch for Red Flags | FINRA.org",
+  "language": "en",
+  "source_url": "https://www.finra.org/investors/protect-your-money/watch-red-flags",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4b588eb1fec4baf59131b7ae2bbd482ded3f4bfbf0bcc399c1bf3f962ad6c901",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_finra_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/finra/current/announcement/2026/10cb1d7479c96ec4",
+  "tags": [
+    "us",
+    "securities",
+    "broker_dealer"
+  ],
+  "final_url": "https://www.finra.org/investors/protect-your-money/watch-red-flags",
+  "fetch_method": "html_to_md"
+}

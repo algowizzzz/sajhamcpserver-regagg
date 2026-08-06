@@ -1,0 +1,25 @@
+{
+  "doc_id": "450c312b79c9679f",
+  "regulator_id": "bbc_business",
+  "doc_type": "news_story",
+  "title": "What happened to the internet?",
+  "language": "en",
+  "source_url": "https://www.bbc.co.uk/videos/cvgwvkn84ggo?at_medium=RSS&at_campaign=rss",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:15cb22f7a3f021b7c894475715a6e3a3a4a65207b0abb872373e8d7e54deb561",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_bbc_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bbc_business/current/news_story/2026/450c312b79c9679f",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.bbc.co.uk/videos/cvgwvkn84ggo?at_medium=RSS&at_campaign=rss",
+  "fetch_method": "feed_summary"
+}

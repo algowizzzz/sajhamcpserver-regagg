@@ -1,0 +1,479 @@
+Investor 
+Complaint 
+Program
+What to Do When Problems Arise
+
+FINRA & Investor Education
+FINRA, the Financial Industry Regulatory 
+Authority, is a not-for-profit organization 
+dedicated to investor protection and 
+market integrity. FINRA regulates one 
+critical part of the securities industry—
+member brokerage firms doing business 
+in the U.S. 
+FINRA believes that investor education 
+is often the best investor protection. We 
+are committed to being the preeminent 
+source of objective information for 
+individual investors. Through our website, 
+social media platforms, publications 
+and investor outreach, we provide 
+the comprehensive information, tools 
+and resources investors need to make 
+effective use of all that the securities 
+industry offers. 
+ 
+www.finra.org/investors
+
+3
+What to Do When Problems Arise
+Most business in the securities industry 
+is conducted fairly, efficiently and in a 
+manner that satisfies everyone involved. But 
+problems can arise.
+When should you complain?
+If you believe that you have been treated 
+unfairly by a FINRA member firm or one of its 
+financial professionals, FINRA wants to know 
+about it immediately. Often, violations of our 
+rules and the federal securities laws come to 
+light through the receipt and investigation of 
+investor complaints.
+The fact that your investment has decreased 
+in value or that you may have lost money 
+does not necessarily mean that the member 
+firm or financial professional has engaged in 
+misconduct. Investments in most securities 
+involve risks. Further, there is no guarantee 
+that investments will always be profitable, and 
+FINRA does not maintain a fund to compensate 
+investors for losses they may have suffered as a 
+result of a particular investment.
+What recourse do investors have if they feel 
+they have been treated unfairly?
+FINRA investigates complaints against member 
+firms and their employees. We are empowered 
+to take disciplinary actions against member 
+firms and their financial professionals. 
+Sanctions imposed by FINRA may include fines, 
+disgorgements, suspensions, bars from the 
+securities industry and/or other appropriate 
+sanctions. We also may refer complaints to the 
+Securities and Exchange Commission (SEC), 
+other federal or state enforcement agencies, or 
+another private securities regulator for further 
+action or possible criminal prosecution.
+
+4
+What if an investor is seeking damages?
+If your purpose in filing a complaint is to 
+recover money or securities, we suggest that 
+you also consider arbitration or mediation. 
+You may want to contact an attorney that 
+specializes in resolving securities complaints 
+to advise you.
+Later in this brochure, we’ll provide you with 
+information about FINRA’s Arbitration and 
+Mediation Programs.
+What if an investor wants to speak with 
+someone at FINRA before filing a complaint?
+Seniors and other investors who have 
+questions or concerns about their investment 
+accounts may call the FINRA Securities Helpline 
+for Seniors® at 844-57-HELPS (844-574-3577).
+Filing a Complaint
+If you believe that a member firm, financial 
+professional or other firm employee has 
+treated you, as a customer, unfairly:
+Contact the Member Firm First
+1. Immediately question your financial 
+professional about any transaction that you 
+do not understand or did not authorize. 
+2. If you are not satisfied with your financial 
+professional’s response, contact the 
+member firm’s branch manager or 
+compliance department. If you lost money 
+or there was an unauthorized trade made 
+in your account, you should complain to the 
+firm in writing. Retain copies of your letter 
+and of all other related correspondence 
+with the member firm.
+3. If you are not satisfied with the 
+firm’s response, you can submit a 
+complaint to FINRA.
+
+5
+How to Submit a Complaint to FINRA
+Investors and persons acting on behalf of 
+investors who feel they have been subjected 
+to improper business practices involving a 
+member firm and/or a financial professional 
+may file a complaint with FINRA.
+Through the filing of an investor complaint, 
+investors immediately alert us to any potentially 
+fraudulent or suspicious activities by member 
+firms and/or financial professionals. Use 
+FINRA’s BrokerCheck tool (https://brokercheck.
+finra.org) to determine whether an entity or 
+person is under FINRA’s jurisdiction.
+	X Submit a complaint online using our 
+Investor Complaint form: https://www.finra.
+org/investors/need-help
+	X FINRA prefers to receive complaints via 
+the online complaint form. However, if 
+necessary, you may mail your complaint to: 
+FINRA Investor Complaint Program 
+9509 Key West Avenue 
+Rockville, MD 20850-3329
+Your complaint should contain the following 
+information: 
+	X the name of the member firm and the 
+individuals at the firm with whom you dealt; 
+	X a detailed description of the practice 
+or behavior that is the subject of your 
+complaint, including the name of the 
+security or securities that are the subject of 
+your complaint;
+	X the date or dates of the problem activity or 
+transaction;
+	X a detailed description of the events and 
+circumstances surrounding the activity that 
+is the subject of your complaint;
+
+6
+	X the name on the account at issue; 
+	X a list of the documents you have available 
+in support of your complaint; and
+	X the complete address, phone number and 
+email address where you can be reached.
+If a determination is made to initiate 
+an investigation, a FINRA investigator 
+may contact you to obtain further 
+information or documentation about your 
+complaint if necessary
+Understand Our Limitations
+FINRA has jurisdiction over U.S.-based member 
+firms and their financial professionals and 
+employees. If you have a problem with an 
+investment adviser, transfer agent, mutual fund 
+or public company, you might want to file a 
+complaint with the SEC or your state securities 
+regulator. (See page 14 for contact information 
+for the SEC and state securities regulators.)
+
+7
+Prohibited Conduct
+Certain types of conduct in the securities 
+industry are prohibited, including the following: 
+1. Recommending to a retail customer 
+a securities transaction, investment 
+strategy or type of account that is not in 
+the best interest of that customer, given 
+the customer’s age, financial situation, 
+investment objective, risk tolerance, 
+liquidity needs and investment experience. 
+Investment in a particular type of security 
+might not be in the best interest of 
+the retail customer, or the amount or 
+frequency of transactions might be 
+excessive and therefore not be in the best 
+interest for a given retail customer.
+2. Purchasing or selling securities in a 
+customer’s account without first contacting 
+the customer and receiving the customer’s 
+authorization to make the sale or 
+purchase, unless the financial professional 
+has received from the customer 
+written discretionary authority to effect 
+transactions in the account or they were 
+given discretion as to price and time.
+3. Switching a customer from one mutual 
+fund, or other investment, to another when 
+there is no legitimate investment purpose 
+for the switch.
+4. Misrepresenting or failing to disclose 
+material facts concerning an investment. 
+Examples of information that may be 
+considered material and that should be 
+accurately presented to customers include: 
+the risks of investing in a particular security; 
+the charges or fees involved; company 
+financial information; and technical or 
+analytical information, such as bond ratings.
+
+8
+5. Removing funds or securities from a 
+customer’s account without the customer’s 
+prior authorization.
+6. Charging a customer excessive markups, 
+markdowns or commissions on the 
+purchase or sale of securities.
+7. Guaranteeing customers that they will 
+not lose money on a particular securities 
+transaction, making specific price 
+predictions or agreeing to share in any 
+losses in the customer’s account.
+8. Private securities transactions between a 
+financial professional and a customer that 
+might violate FINRA rules, particularly where 
+the transactions are done without the 
+knowledge and permission of the financial 
+professional’s firm.
+9. “Trading ahead,” which involves placing an 
+order for the member firm’s or financial 
+professional’s account before entering a 
+customer’s limit order, without having a 
+valid exception.
+10. Failure by a market maker to display a 
+customer limit order in its published 
+quotes, without a valid exception. 
+11. Failing to use reasonable diligence to see 
+that a customer’s order is executed at 
+the best possible price, given prevailing 
+market conditions.
+12. Purchasing or selling a security while 
+in possession of material, non-public 
+information about an issuer.
+13. Using manipulative, deceptive or other 
+fraudulent methods to effect transaction 
+in, or induce the purchase or sale 
+of, a security.
+
+9
+Reviewing and Investigating Complaints
+Reviewing and investigating complaints from 
+investors is a significant function of FINRA. 
+Following receipt of a complaint, FINRA staff 
+will evaluate the complaint and may send a 
+copy of it to the member firm and request that 
+it respond directly to you. If FINRA conducts 
+an investigation into your complaint, staff will 
+generally begin its investigation by requesting 
+information and documents from the member 
+firm and its employees to verify information 
+and obtain additional facts. FINRA does not 
+open investigations for all investor complaints. 
+However, conduct rules require member firms, 
+their financial professionals and employees to 
+cooperate fully with these investigations.
+FINRA, however, does not have general 
+subpoena power and cannot compel 
+cooperation of non-industry personnel, such as 
+issuers of securities or their executives.
+Without your cooperation, we might be unable 
+to take disciplinary action against a member 
+firm or its employees. A complaint, by itself, 
+without supporting evidence might not be 
+sufficient to prove a rule violation. That’s why 
+it is important that you be willing to speak with 
+FINRA staff, provide documentation or supply 
+a sworn statement of facts supporting your 
+complaint. It is also important that you be 
+willing to testify at a FINRA disciplinary hearing 
+if one is conducted. The fact that you entered 
+into a confidentiality agreement to settle a 
+problem with a member firm or its employees 
+does not prevent you from speaking with 
+FINRA staff or otherwise cooperating in a FINRA 
+investigation or disciplinary hearing.
+
+10
+If too much time has elapsed between a 
+financial professional’s conduct and the filing 
+of your complaint to FINRA, the investigation 
+might be hindered. In some circumstances, 
+it might be unrealistic to try to begin an 
+investigation.
+FINRA may close an investigation without taking 
+disciplinary action against a member firm or its 
+employees. This can result from many factors 
+unrelated to the merits of a complaint, such 
+as jurisdictional limitations or the existence of 
+an ongoing or completed enforcement action 
+by another law enforcement or regulatory 
+agency. FINRA considers that a determination 
+not to take action against a member firm or 
+its employees has no evidentiary weight in an 
+arbitration, mediation or other proceeding. As 
+such, FINRA considers it inconsistent with its 
+rules for a member firm or its employees to 
+attempt to introduce such a determination into 
+evidence in any of those proceedings.
+Because FINRA treats its reviews and 
+investigations as confidential, we may not be 
+able to provide you with certain details about 
+the status or results of your issue. Please 
+understand that we are not representing you 
+individually in this matter. Any actions taken 
+by FINRA against a member firm or financial 
+professional will be made available to the 
+general public via BrokerCheck.
+Cooperation with Other Regulators
+Certain types of complaints may be referred 
+to another securities regulator. For instance, 
+problems concerning commodities or futures 
+contracts would generally be referred to the 
+Commodity Futures Trading Commission 
+or the National Futures Association, and 
+complaints regarding insurance products would 
+generally be referred to your state insurance
+
+11
+regulator. FINRA may refer complaints to 
+the Securities and Exchange Commission or 
+other federal or state enforcement agencies 
+for further administrative action, or possible 
+criminal prosecution.
+Recovery of Losses
+Because the focus of a FINRA investigation 
+is regulatory in nature and is designed to 
+determine compliance with industry rules and 
+regulations, you are encouraged to consider 
+other means if you are seeking to recover 
+money or securities. Understand that FINRA 
+staff is investigating your complaint from a 
+regulatory perspective and with the protection 
+of all investors in mind.
+There can be no assurances that any action 
+taken by FINRA will result in a payment or 
+return of funds or securities to you even where 
+formal disciplinary actions are taken and 
+sanctions imposed. Relying on the outcome of 
+FINRA’s investigation may close other avenues 
+of redress if you wait too long to proceed.
+FINRA staff cannot provide legal advice to you 
+in connection with your complaint. Therefore, 
+you may want to consult with an attorney if you 
+are considering filing an arbitration, mediation 
+or a private civil action.
+Also, check to see if your new account 
+agreement contains an agreement to arbitrate. 
+If so, your access to the courts might be limited. 
+Caution! Be aware that certain state and 
+federal laws limit the time you may have for 
+filing a lawsuit or arbitration claim.
+
+12
+Dispute Resolution Offers Alternatives  
+to Courts
+FINRA operates the largest securities dispute 
+resolution forum in the U.S. and has extensive 
+experience in providing a fair, efficient and 
+effective venue to administer securities-related 
+disputes. The forum includes many convenient 
+features, such as: maintaining 69 hearing 
+locations—including one in each state and 
+Puerto Rico; an investor-friendly Discovery 
+Guide; limitations on motions to dismiss before 
+an investor presents their case; a transparent 
+and participatory rule making process with SEC 
+oversight; and hardship fee waivers for parties 
+that demonstrate financial hardship.
+The resolution of disputes is accomplished 
+through two non-judicial proceedings: 
+arbitration and mediation.
+Arbitration and Mediation 
+Arbitration is a dispute resolution mechanism 
+that determines liability and whether parties 
+are entitled to recover damages. In arbitration, 
+an impartial person or panel hears all sides 
+of the issues as presented by the parties, 
+studies the evidence and then decides how the 
+matter should be resolved. Arbitration is final 
+and binding, subject to court review in very 
+limited instances.
+Mediation is an informal, voluntary approach 
+in which a mediator facilitates negotiations 
+between parties, helping them to find their 
+own mutually acceptable resolution. Parties 
+can agree to mediate a claim at any time 
+before or during the arbitration process. What 
+distinguishes mediation from other forms of 
+dispute resolution is that the mediator does
+
+13
+not impose the solution, but rather helps 
+make it possible for the parties to craft and 
+accept the solution themselves, swiftly and 
+inexpensively.
+Generally, dispute resolution methods such 
+as mediation and arbitration are faster and 
+less expensive than a state or federal lawsuit. 
+They are also less formal than a court trial. In 
+arbitration cases brought by investors, whether 
+through settlements, decisions by arbitrators 
+or stipulated awards, investors receive some 
+compensation more than 70 percent of the 
+time. In mediation, the overall settlement rate 
+exceeds 80 percent.
+FINRA arbitrators are dedicated individuals 
+serving the investing public and the securities 
+industry by resolving securities-related 
+disputes. FINRA arbitrators and mediators 
+represent a diverse cross-section of individuals 
+with extensive business or professional 
+experience. They are neutral, well-qualified and 
+essential to maintaining a fair, impartial and 
+efficient dispute resolution forum.
+For more information about FINRA’s 
+arbitration or mediation programs, please visit 
+https://www.finra.org/arbitration-mediation.
+
+14
+FINRA Investor Complaints 
+9509 Key West Avenue 
+Rockville, MD 20850-3329
+Website: www.finra.org/complaint
+FINRA Securities Helpline for Seniors®
+Phone: 844-57-HELPS (844-574-3577) 
+Website: www.finra.org/seniorhelpline
+FINRA Dispute Resolution Services
+Website: www.finra.org/arbitration-mediation
+Securities and Exchange Commission  
+Tips, Complaints and Referrals (TCR)
+100 F Street, NE 
+Washington, DC 20549-5631
+Fax: (202) 772-9235 
+Website: www.sec.gov/tcr
+State Securities Regulators
+Find contact information for your state 
+securities regulator on the North American 
+Securities Administrators Association 
+(NASAA) website.
+Website: www.nasaa.org.
+FINRA Investor Information
+Invest smarter and safer using the investor-
+focused tools, Investor Insights and other 
+resources on FINRA’s website.
+Website: www.finra.org/investors
+
+15
+Thank You for Your Cooperation
+We appreciate your taking the time and 
+effort to assist FINRA and other regulators in 
+collecting the necessary evidence to enforce 
+securities rules and regulations, and ultimately, 
+protect investors. Regulators are far more 
+effective with your cooperation and assistance. 
+Every investor in America relies on fair 
+financial markets.
+While most business in the securities 
+industry is conducted fairly, efficiently and in 
+a manner that satisfies everyone involved, 
+problems do arise.
+With the help of investors like yourself, FINRA 
+can further protect investors and safeguard 
+market integrity in a manner that facilitates 
+vibrant capital markets.
+
+Investor protection. Market 
+integrity.
+1700 K Street, NW 
+Washington, DC 20006-1506
+www.finra.org
+© 2026 FINRA. All rights reserved.
+FINRA and other trademarks of  
+the Financial Industry Regulatory 
+Authority, Inc. may not be used 
+without permission.
+H59011–01/26

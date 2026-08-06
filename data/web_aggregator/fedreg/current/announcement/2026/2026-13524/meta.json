@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13524",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Review of Professional Orders",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/06/2026-13524/self-regulatory-organizations-box-exchange-llc-notice-of-filing-and-immediate-effectiveness-of-a",
+  "reference_number": "2026-13524",
+  "published_date": "2026-07-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:78f4e28c10bbcb74b0ed573a3565fb4b79536e6d4d3c7bbbd23713055b7df161",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13524",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

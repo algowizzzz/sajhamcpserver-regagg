@@ -1,0 +1,25 @@
+{
+  "doc_id": "69c5eadbef8a0db4",
+  "regulator_id": "fca",
+  "doc_type": "consultation",
+  "title": "CP26/26: Fund Reporting for Asset Management Entities (FRAME)",
+  "language": "en",
+  "source_url": "https://www.fca.org.uk/publications/consultation-papers/cp26-26-fund-reporting-asset-management-entities-frame",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1afc7ccf10329f2ee21c9b8ce4bfc1ade633cc1b97114a6d2b5408dc1f99782a",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fca_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fca/current/consultation/2026/69c5eadbef8a0db4",
+  "tags": [
+    "uk",
+    "conduct",
+    "securities"
+  ]
+}

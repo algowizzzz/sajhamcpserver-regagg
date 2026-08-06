@@ -1,0 +1,25 @@
+{
+  "doc_id": "fe0afe82a42a6ab1",
+  "regulator_id": "fca",
+  "doc_type": "announcement",
+  "title": "Outcomes monitoring: good practice and areas for improvement",
+  "language": "en",
+  "source_url": "https://www.fca.org.uk/publications/good-and-poor-practice/outcomes-monitoring-good-practice-and-areas-improvement",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fff1803428a258fe222ccdcc249ab053629abaf10aaa652ed2cd5ef919a836ac",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fca_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fca/current/announcement/2026/fe0afe82a42a6ab1",
+  "tags": [
+    "uk",
+    "conduct",
+    "securities"
+  ]
+}

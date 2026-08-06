@@ -1,0 +1,1109 @@
+# Examen du 31e Rapport actuariel du Régime de pensions du Canada
+
+**Type de publication:** Rapport actuariel
+
+Effectué par le groupe de l'examen actuariel du RPC
+
+Stephen Butterfield, FICA  
+Michel St-Germain, FICA, FSA  
+Jill Wagman, FICA, FSA
+
+## Table des matières
+
+## Sommaire
+
+### Auteurs
+
+Le présent rapport a été préparé par un groupe d’examen constitué de trois actuaires indépendants : Stephen Butterfield, Fellow de l’Institut canadien des actuaires, Michel St-Germain, Fellow de l’Institut canadien des actuaires et de la Society of Actuaries, et Jill Wagman, Fellow de l’Institut canadien des actuaires et de la Society of Actuaries.
+
+### Mandat
+
+Le groupe a procédé à l’examen du 31e Rapport actuariel du Régime de pensions du Canada conformément au mandat suivant :
+
+Les actuaires qui effectueront l’examen par les pairs examineront les travaux effectués par l’actuaire en chef dans le cadre du 31e Rapport actuariel du Régime de pensions du Canada au 31 décembre 2021. Après leur examen, ils présenteront un rapport à l’actuaire en chef et au Government Actuary’s Department (GAD) du Royaume-Uni. Ce dernier fournira ensuite son opinion à l’actuaire en chef au sujet de l’examen par les pairs.
+
+Le rapport d’examen doit contenir des opinions concernant les questions suivantes :
+
+1. L’expérience professionnelle de l’actuaire en chef et des collaborateurs qui ont participé à la préparation du rapport est-elle suffisante pour exécuter les travaux requis?
+2. Les travaux ont-ils été effectués en conformité avec les normes de pratique professionnelle et les exigences réglementaires pertinentes?
+3. L’actuaire en chef a-t-elle eu accès aux renseignements nécessaires pour exécuter l’évaluation et les tests et analyses pertinents ont-ils été exécutés sur les données comme l’on pourrait s’y attendre?
+4. Les méthodes et hypothèses actuarielles utilisées pour préparer le rapport sont-elles raisonnables?
+5. Le 31e Rapport actuariel communique-t-il fidèlement les résultats des travaux effectués par l’actuaire en chef et ses collaborateurs?
+
+Pour donner leur avis sur les questions susmentionnées, les actuaires qui effectueront l’examen par les pairs doivent également formuler les recommandations qu’ils jugent appropriées à l’égard des rapports actuariels futurs sur le Régime de pensions du Canada préparés par le Bureau de l’actuaire en chef.
+
+### 31e Rapport actuariel sur le Régime de pensions du Canada (RA31)
+
+Le RA31 a été préparé au 31 décembre 2021.
+
+Son objectif est d’informer les cotisants et les bénéficiaires de la situation financière actuelle et projetée du RPC de base et du RPC supplémentaire. Le rapport fournit des informations permettant d’évaluer la viabilité financière du RPC sur une longue période, en supposant qu’il n’y ait pas de changement à la législation. Ces informations permettent de mieux comprendre la situation financière du RPC ainsi que les facteurs qui influencent les coûts, contribuant ainsi à un débat public éclairé sur les questions liées aux finances du RPC.
+
+Les principaux résultats inclus dans le RA31 sont les suivants :
+
+* **RPC de base :** Le taux de cotisation minimal de 9,56 % pour les années 2025 à 2033 et de 9,54 % à compter de 2034, en baisse par rapport au taux de 9,9 % actuellement prévu par la loi.
+* **RPC supplémentaire :** Le premier taux de cotisation minimal supplémentaire est de 1,97 %, un taux légèrement inférieur au premier taux de cotisation supplémentaire prévu par la loi de 2,0 % et au deuxième taux de cotisation minimal supplémentaire de 7,88 %, légèrement inférieur au deuxième taux de cotisation supplémentaire prévu par la loi de 8,0 %.
+
+Ainsi, les taux de cotisation actuellement prévus par la loi permettent d’atteindre les taux de cotisation minimaux. Afin de répondre aux obligations de divulgation d’information ou de permettre aux lecteurs de comprendre la viabilité future du RPC, le RA31 a recours à d’autres mesures importantes.
+
+Le RA31 présente également plusieurs analyses de sensibilité démontrant l’évolution des résultats en cas de variation de certaines hypothèses ainsi que des analyses de scénarios démontrant les possibles résultats selon divers scénarios.
+
+À l’exception des analyses de sensibilité et de scénarios, tous les scénarios représentent la « meilleure estimation » de l’actuaire en chef, sans marge délibérée de prudence ou aucun autre biais.
+
+### Opinions
+
+En réponse aux cinq questions incluses dans le mandat, nous sommes d’avis que :
+
+1. l’expérience professionnelle de l’actuaire en chef et des collaborateurs qui ont participé à la préparation du RA31 est suffisante pour exécuter les travaux requis;
+2. les travaux relatifs au RA31 ont été effectués conformément à toutes les normes professionnelles et exigences législatives pertinentes;
+3. l’actuaire en chef a eu accès aux renseignements dont elle avait besoin aux fins de l’évaluation et elle a procédé aux tests et analyses pertinents sur les données, comme l’on pouvait s’y attendre;
+4. les méthodes actuarielles utilisées dans le cadre du RA31 sont raisonnables et les hypothèses utilisées sont, individuellement et dans leur ensemble, également raisonnables;
+5. le RA31 présente fidèlement les résultats des travaux effectués par l’actuaire en chef et ses collaborateurs qui ont participé à la préparation du rapport.
+
+Le reste du présent rapport énonce le fondement de ces opinions, y compris les observations et les recommandations correspondantes concernant les rapports actuariels futurs.
+
+### Recommandations
+
+Nous félicitons l’actuaire en chef et ses collaborateurs du Bureau de l’actuaire en chef (BAC) qui ont participé à l’élaboration du RA31 pour leur compétence, leur engagement et leur professionnalisme. Ils ont su répondre aux questions que nous avons soulevées, en plus de fournir des renseignements supplémentaires, ce qui nous a été d’une très grande aide. Dans le but d’aider l’actuaire en chef et ses collaborateurs à continuer d’améliorer leurs travaux, nous formulons les recommandations suivantes :
+
+**Recommandation 1**
+:   Le rapport énonce que toutes les hypothèses sont fondées sur la « meilleure estimation », un principe qui, selon nous, est de mise et cadre avec les dispositions du RPC. Toutefois, nous recommandons que la justification du recours aux hypothèses de « meilleure estimation » soit clarifiée dans le rapport.
+
+**Recommandation 2**
+:   Bien qu’il fasse état des tendances récentes et des conditions du marché actuel, le BAC est amené à s’appuyer largement sur des données antérieures dans la formulation de ses hypothèses actuarielles. À cet égard, nous recommandons au BAC d’adopter une approche plus prospective et de prendre davantage en considération les attentes du marché actuel envers les taux d’intérêt et d’inflation.
+
+**Recommandation 3**
+:   Nous recommandons au BAC d’utiliser davantage de renseignements de référence pour choisir ses hypothèses. Ces renseignements de référence peuvent provenir d’autres régimes de retraite, d’autres entités gouvernementales, de régimes de sécurité sociale d’autres pays, etc. Nous convenons que les renseignements de référence ne s’appliquent que rarement à la perspective à long terme propre à l’évaluation du RPC, mais ils peuvent tout de même être utiles pour les 20 à 30 premières années de projections.
+
+**Recommandation 4**
+:   En ce qui concerne l’élaboration d’hypothèses sur les taux de mortalité, compte tenu de la différence considérable dans la répartition des pensions de retraite, nous recommandons d’envisager l’adoption de tranches de niveaux de pension différentes pour les hommes et les femmes. Ainsi, l’analyse des tranches par niveaux de pension serait plus précise et les hypothèses de mortalité pourraient être améliorées. Bien qu’au terme de cette analyse, les projections de coûts pourraient être très semblables, nous recommandons l’étude de cette corrélation afin de confirmer son importance.
+
+**Recommandation 5**
+:   Bien que les politiques d’immigration soient d’ordre politique, et donc de nature volatile, nous recommandons au BAC de consacrer plus de temps et de ressources à la compréhension des tendances passées et des attentes futures en matière d’immigration afin de soutenir les hypothèses sur les taux d’immigration après 2024. L’ensemble des hypothèses pointent vers un ralentissement de la croissance de la population au fil du temps. Nous recommandons d’établir s’il est raisonnable de s’attendre à ce qu’une hausse de l’immigration soit une solution pour mettre fin à ce ralentissement de la croissance et relever les défis liés à la pénurie de main-d’œuvre.
+
+**Recommandation 6**
+:   Nous recommandons au BAC de consacrer plus de temps à l’étoffement de l’hypothèse sur les résidents non permanents. Avant la pandémie de COVID-19, le nombre de résidents non permanents connaissait une croissance considérable, et nous recommandons la tenue d’une analyse plus approfondie afin de soutenir l’hypothèse selon laquelle le nombre net de résidents non permanents demeurerait sensiblement le même dans l’avenir. Nous recommandons également que le BAC approfondisse sa compréhension des effets que pourraient avoir les résidents non permanents sur l’immigration future, y compris sur le nombre d’immigrants et les caractéristiques des futurs immigrants.
+
+**Recommandation 7**
+:   Nous recommandons au BAC de se pencher davantage sur les hypothèses relatives aux taux d’activité des travailleurs âgés. Les conditions socioéconomiques actuelles et futures pourraient faire en sorte que davantage de travailleurs âgés demeurent sur le marché du travail plus longtemps que prévu. Cette interprétation est corroborée par les tendances récentes dans les taux d’activité, par la comparaison des taux d’activité au Canada avec ceux de pays semblables, par la tendance à repousser l’âge de la retraite observée dans le monde et par l’effet des pénuries de main-d’œuvre.
+
+**Recommandation 8**
+:   Nous recommandons la clarification, dans le rapport, des raisons pour lesquelles les hypothèses de rendement des placements futurs sont basées sur la politique de placement stratégique plutôt que sur la politique de placement de référence, étant donné que, en théorie, deux politiques de placement comportant les mêmes niveaux de risque devraient prévoir les mêmes hypothèses de rendement.
+
+**Recommandation 9**
+:   Nous recommandons au BAC d’approfondir sa recherche d’information et d’examiner ce que font d’autres grands régimes de retraite pour formuler ses hypothèses relatives aux taux d’actualisation, y compris les hypothèses sur les rendements par catégorie d’actifs, en tenant compte des différences de marges pour écarts défavorables, des dépenses d’investissement et de la valeur ajoutée par la gestion active.
+
+**Recommandation 10**
+:   Nous recommandons d’étoffer la justification à l’égard de la diminution progressive des caractéristiques de risque liées au portefeuille de placements. Bien que nous soyons pour l’essentiel d’accord avec l’hypothèse d’élimination progressive des risques auxquels est exposé le portefeuille de placements, le calendrier et l’ampleur de l’élimination des risques sont peu clairs et ne sont pas suffisamment justifiés. Nous constatons également l’absence de politiques officielles en place pour aider l’actuaire en chef à mieux justifier cette hypothèse.
+
+**Recommandation 11**
+:   Nous observons que l’incidence de l’invalidité pour motif de santé mentale semble s’aggraver. Bien que la définition d’invalidité prévue au RPC puisse exclure certaines demandes liées à la santé mentale, nous recommandons, dans la foulée de la mise en œuvre du Plan d’action pour l’inclusion des personnes en situation de handicap du gouvernement du Canada et de son Pilier 1 – Sécurité financière, que cet enjeu soit surveillé de près afin d’établir si des changements conséquents aux hypothèses sur l’incidence de l’invalidité sont justifiés aux fins de l’évaluation du RPC.
+
+**Recommandation 12**
+:   Nous recommandons au BAC de prendre davantage en compte l’hypothèse de la répartition des gains autour de la moyenne, dont l’importance risque de croître avec l’accumulation des années de service au titre du RPC supplémentaire.
+
+**Recommandation 13**
+:   Nous recommandons que chaque analyse de sensibilité fasse état non seulement de l’effet sur le taux de cotisation minimum (TCM), le premier taux de cotisation minimal supplémentaire (PTCMS) et le deuxième taux de cotisation minimal supplémentaire (DTCMS), mais également de l’ampleur du changement nécessaire à une hypothèse pour que les taux susmentionnés viennent à dépasser les taux de cotisation prévus par la loi. Par exemple, quelle devrait être la croissance des salaires réels pour que le TCM dépasse le taux de cotisation prévu par la loi au titre du RPC de base?
+
+**Recommandation 14**
+:   Nous recommandons au BAC de communiquer, dans son rapport, plus d’informations sur la probabilité globale que les taux de cotisation prévus par la loi soient insuffisants pour couvrir le financement des prestations. Bien que l’information recueillie au moyen des analyses de sensibilité individuelles soit pertinente et utile, elle peut amener le lecteur à avoir un excès de confiance envers la situation financière du RPC, puisque la plupart de ces analyses ne concluent pas à l’insuffisance des taux de cotisation prévus par la loi. L’ajout de commentaires faisant état de la forte possibilité d’une combinaison de certains scénarios défavorables pour des hypothèses non liées qui, le cas échéant, aboutirait à une insuffisance des taux de cotisation prévus par la loi permettrait au lecteur de mieux mesurer le risque global. Le rapport pourrait donner des exemples de telles combinaisons se traduisant par des taux de cotisation insuffisants.
+
+**Recommandation 15**
+:   Nous recommandons au BAC d’examiner plus en détail la possibilité de futurs changements socioéconomiques importants. De tels changements pourraient être pris en compte dans les hypothèses actuelles ou les analyses de sensibilité. L’évaluation reflète un monde futur et un pays qui ne changeront pas de manière significative, mais la réalité pourrait être différente. Compte tenu de l’horizon à long terme de l’évaluation, nous recommandons de mieux définir les répercussions possibles sur le RPC des changements significatifs à l’environnement socioéconomique.
+
+**Recommandation 16**
+:   Nous recommandons au BAC de suivre l’évolution des scénarios de changements climatiques, notamment auprès de sources crédibles telles que l’Association actuarielle internationale (AAI), l’Institut canadien des actuaires (ICA), la Banque du Canada et le Bureau du surintendant des institutions financières Canada (BSIF). Les scénarios de changements climatiques présentés dans le RA31 sont des exemples parmi d’autres scénarios possibles. Nous recommandons au BAC de continuer à travailler sur les effets des changements climatiques sur les hypothèses pertinentes, telles que la diminution éventuelle des salaires réels, des cotisations futures, des taux d’intérêt et des rendements sur les actions et autres placements. Certains des effets sur les rendements futurs peuvent déjà avoir été reflétés dans les attentes du marché actuel et dans le prix des actifs. Le BAC devrait prendre en compte ces attentes du marché. Nous espérons que les travaux futurs seront suffisamment crédibles pour permettre au BAC d’intégrer ces effets aux hypothèses de meilleure estimation.
+
+**Recommandation 17**
+:   Nous recommandons au BAC de poursuivre ses efforts afin de rendre la présentation des résultats de l’évaluation plus conviviale, notamment en recourant plus souvent à des graphiques et à des illustrations.
+
+## Section 1 – Introduction
+
+Le présent rapport renferme les résultats de notre examen du 31e Rapport actuariel du Régime de pensions du Canada (RA31).
+
+### 1.1 Mandat
+
+Conformément au mandat qui nous a été confié, nous avons concentré notre examen sur les travaux actuariels. On ne nous a pas demandé d’évaluer la qualité de la structure, de l’administration ou des stratégies de placement actuelles du RPC, et nous ne l’avons pas fait. Notre examen de ces aspects portait **exclusivement** sur leurs liens avec l’examen actuariel et la façon dont ils s’y reflètent.
+
+Notre mandat était le suivant :
+
+Les actuaires qui effectueront l’examen par les pairs examineront les travaux effectués par l’actuaire en chef dans le cadre du 31e Rapport actuariel du Régime de pensions du Canada au 31 décembre 2021. Après leur examen, ils présenteront un rapport à l’actuaire en chef et au Government Actuary’s Department (GAD) du Royaume-Uni. Ce dernier fournira ensuite son opinion à l’actuaire en chef au sujet de l’examen par les pairs.
+
+Le rapport d’examen doit contenir des opinions concernant les questions suivantes :
+
+1. L’expérience professionnelle de l’actuaire en chef et des collaborateurs qui ont participé à la préparation du rapport est-elle suffisante pour exécuter les travaux requis?
+2. Les travaux ont-ils été effectués en conformité avec les normes de pratique professionnelle et les exigences réglementaires pertinentes?
+3. L’actuaire en chef a-t-elle eu accès aux renseignements nécessaires pour exécuter l’évaluation et les tests et analyses pertinents ont-ils été exécutés sur les données comme l’on pourrait s’y attendre?
+4. Les méthodes et hypothèses actuarielles utilisées pour préparer le rapport sont-elles raisonnables?
+5. Le 31e Rapport actuariel communique-t-il fidèlement les résultats des travaux effectués par l’actuaire en chef et ses collaborateurs?
+
+Pour donner leur avis sur les questions susmentionnées, les actuaires qui effectueront l’examen par les pairs doivent également formuler les recommandations qu’ils jugent appropriées à l’égard des rapports actuariels futurs sur le Régime de pensions du Canada préparés par le Bureau de l’actuaire en chef.
+
+### 1.2 Procédures suivies
+
+Les trois membres du groupe ont effectué le présent examen en étroite collaboration. L’examen s’est échelonné de novembre 2022 à avril 2023.
+
+Nous avons reçu le RA31 le 15 décembre 2022, soit le jour suivant son dépôt au Parlement. Nous avons reçu la première série de documents de travail étayant le rapport le 24 novembre 2022. Le BAC nous a par la suite transmis l’information supplémentaire demandée.
+
+En février 2023, sur une période de trois jours, nous avons rencontré l’actuaire en chef, des membres du BAC, des fonctionnaires de la Division de l’analyse et des prévisions économiques du ministère des Finances du Canada, des représentants de la Division de la démographie de Statistique Canada et des représentants de l’Office d’investissement du Régime de pensions du Canada (OIRPC). Avant les rencontres, nous avions soumis 65 questions/commentaires au BAC. De même, nous avons posé de nombreuses questions pendant les rencontres et certaines questions de suivi après les rencontres. Toutes les parties ont répondu rapidement et intégralement à chacune de nos demandes ou ont expliqué pourquoi il leur était impossible de fournir une réponse.
+
+Nous avons analysé les documents présentés lors du colloque sur les perspectives démographiques, économiques et d’investissement du RPC, qui s’est déroulé virtuellement le 21 septembre 2021.
+
+Nous avons également passé en revue les documents suivants :
+
+* Présentations PowerPoint préparées par le BAC et offrant de l’information sur :
+  + l’élaboration des méthodes et des hypothèses utilisées pour l’évaluation, y compris chacune des hypothèses démographiques et économiques,
+  + les projections des cotisations, des revenus de placement et des dépenses du Régime,
+  + les méthodes de financement examinées dans l’évaluation, y compris les principaux résultats et les principales conclusions de l’évaluation,
+  + le rapprochement des résultats de l’évaluation et de ceux de l’évaluation précédente,
+  + la justification du choix des analyses de scénarios et de sensibilité ainsi que leurs résultats;
+* le rapport annuel 2022 de l’OIRPC;
+* l’analyse actuarielle du Régime de rentes du Québec au 31 décembre 2021;
+* d’anciens documents publiés sur le site Web du BAC;
+* les Règles de déontologie et les Normes de pratique applicables de l’ICA, de même que les Normes internationales de pratique actuarielle (NIPA) de l’AAI;
+* les principales dispositions de la loi établissant le RPC.
+
+Nous avons organisé plusieurs rencontres par conférence téléphonique, et nous avons échangé par courriel.
+
+Nous nous sommes entendus sur toutes les opinions et recommandations formulées dans le présent rapport.
+
+Nos travaux se sont concentrés sur les éléments que nous jugions les plus importants – les données utilisées, les méthodes actuarielles employées, les hypothèses actuarielles adoptées, les analyses de scénarios et de sensibilité déployées, ainsi que les rapports produits. Nous avons passé en revue les sources des données et les processus utilisés par le BAC pour valider et analyser les données, mais notre mandat ne prévoyait pas un audit approfondi des données. De même, nous avons examiné les procédures utilisées par le BAC pour valider les modèles actuariels informatisés, mais nous n’avions pas pour mandat d’en vérifier l’exactitude.
+
+### 1.3 Exigences actuarielles prévues par la loi
+
+L’article 115 du Régime de pensions du Canada exige un examen actuariel triennal et la production d’un rapport donnant :
+
+* en ce qui concerne le RPC de base :
+  + les taux de cotisation par répartition projetés, c’est-à-dire les taux de cotisation applicables chaque année menant à des cotisations attendues équivalentes aux dépenses attendues pour l’année en question;
+  + les taux de cotisation suivants :
+    - un taux de cotisation, calculé de la manière prévue par la loi, permettant la capitalisation du taux de régime permanent du RPC de base et ne prenant pas en compte les bonifications après 1997.
+    - un taux de cotisation, calculé de la manière prévue par la loi, permettant la capitalisation intégrale des bonifications après 1997.
+* en ce qui concerne le RPC supplémentaire :
+  + un PTCMS, calculé de la manière prévue par la loi, permettant la capitalisation du RPC supplémentaire et s’appliquant aux gains en deçà du maximum des gains annuels ouvrant droit à pension (MGAP);
+  + un DTCMS, calculé de la manière prévue par la loi, permettant la capitalisation des prestations versées au titre du RPC supplémentaire et s’appliquant aux gains dépassant le maximum des gains annuels ouvrant droit à pension (MGAP).
+
+En vertu de l’article 113.1 du Régime de pensions du Canada, le ministre fédéral des Finances et ses homologues des provinces incluses sont tenus d’effectuer un examen financier triennal du RPC après 1997. Cet examen doit tenir compte du tout dernier rapport de l’actuaire en chef établi aux termes de l’article 115. L’article 115 prévoit que les projections doivent s’étendre sur une période d’au moins 75 ans.
+
+Des objectifs de capitalisation distincts sont établis pour le RPC de base et le RPC supplémentaire.
+
+Le taux de cotisation minimal s’obtient donc par la somme du taux de régime permanent et du taux de capitalisation intégrale.
+
+* L’objectif de capitalisation du RPC de base comprend :
+  + un taux de régime permanent, qui correspond au taux de cotisation constant le plus bas possible pour lequel le ratio projeté de l’actif aux dépenses dix ans après la fin de la période d’examen équivaut au ratio projeté correspondant 60 ans après la fin de la période d’examen;
+  + un taux de capitalisation intégrale pour les prestations bonifiées ou nouvelles dont le coût est égal ou supérieur à 0,02 % des gains cotisables (la « règle du seuil »).
+
+* L’objectif de capitalisation du RPC supplémentaire est énoncé en fonction des PTCMS et DTCMS qui doivent être déterminés avant et après la prise en compte de la capitalisation intégrale de toute prestation supplémentaire bonifiée ou nouvelle. Les PTCMS et DTCMS correspondent aux taux de cotisation nivelés les plus bas applicables après la fin de la période d’examen, de sorte que les conditions suivantes sont réunies :
+  + la valeur actualisée du passif supplémentaire projeté selon l’approche de groupe ouvert est au moins égale à l’actif supplémentaire projeté et à la valeur actualisée des cotisations supplémentaires projetées (actif de groupe ouvert);
+  + le ratio projeté de l’actif aux dépenses du RPC supplémentaire est le même pour la 50e année et la 60e année suivant la fin de la période d’examen, mais pas avant 2088 et 2098, respectivement;
+  + le DTCMS est égal à 4 fois le PTCMS.
+
+Le Règlement de 2021 sur le calcul des taux de cotisation décrit les deux objectifs de capitalisation du RPC de base. Il s’agit de la version actualisée du Règlement de 2007 sur le calcul des taux de cotisation.
+
+### 1.4 Recommandations du dernier groupe d’examen
+
+À la suite de son examen, le groupe chargé de l’examen actuariel du RA30 a formulé neuf recommandations, auxquelles se sont ajoutées de nombreuses autres observations ou suggestions d’amélioration. Notre mandat ne prévoit pas l’examen des recommandations antérieures et des mesures prises en conséquence. En revanche, un résumé des recommandations et des mesures prises a été fourni par le BAC et figure en annexe.
+
+### 1.5 Objectif des rapports actuariels du RPC
+
+Son objectif est d’informer les cotisants et les bénéficiaires de la situation financière actuelle et projetée du RPC de base et du RPC supplémentaire. Le rapport fournit des informations permettant d’évaluer la viabilité financière du RPC sur une longue période, en supposant qu’il n’y ait pas de changement à la législation. Ces informations permettent de mieux comprendre la situation financière du RPC ainsi que les facteurs qui influencent les coûts, contribuant ainsi à un débat public éclairé sur les questions liées aux finances du RPC.
+
+Dans le RA31, la situation financière du RPC est évalué à l’aide de plusieurs mesures clés, notamment :
+
+* les projections des taux de cotisation par répartition et des ratios de l’actif aux dépenses toutes les années jusqu’en 2055, puis tous les cinq ans jusqu’en 2100, en utilisant le taux de cotisation actuel prévu par la loi et le TCM;
+* le TCM du RPC de base ainsi que les PTCMS et DTCMS du Régime supplémentaire calculés à la date d’évaluation actuelle et leur évolution dans le cadre des quatre prochains rapports d’évaluation triennaux, en supposant que les hypothèses actuarielles se concrétisent;
+* certaines analyses de sensibilité et de scénarios, qui indiquent les résultats que l’on obtiendrait selon divers changements dans les résultats (l’expérience du régime) ou aux hypothèses actuarielles;
+* un bilan comportant des estimations de l’actif en pourcentage du passif selon l’approche de groupe ouvert au 31 décembre 2021 et au 31 décembre 2030.
+
+Les TCM, PTCMS et DCTMS courants sont les plus importants de ces résultats. Si le TCM du RPC de base est supérieur au taux de cotisation prévu par la loi et que le gouvernement fédéral et les provinces ne s’entendent pas sur les mesures à prendre, les dispositions de l’article 113.1 du Régime de pensions du Canada qui portent sur les taux insuffisants s’appliqueront pour automatiquement relever le taux de cotisation et geler les prestations. Des dispositions semblables s’appliquent si le PTCMS ou le DCTMS du RPC supplémentaire est supérieur aux taux de cotisation prévus par la loi.
+
+Les autres résultats sont également utiles parce qu’ils renferment de l’information sur la tendance à long terme des revenus et des dépenses du RPC et sur l’imprévisibilité et la variabilité des divers flux de trésorerie si les hypothèses devaient être modifiées ou ne pas se concrétiser. Ils permettent également d’établir des comparaisons avec les programmes de sécurité sociale d’autres pays.
+
+Il est essentiel de prendre conscience que tous les résultats sont des estimations. À l’exception des analyses de sensibilité et de scénarios, ils représentent la « meilleure estimation » de l’actuaire en chef, sans marge délibérée de prudence ni aucun autre biais intentionnel. Ils correspondent à ce que l’on obtiendrait si toutes les hypothèses actuarielles devaient se concrétiser. Les hypothèses s’appliquent sur une période de 75 ans et représentent des prévisions de conditions et d’événements futurs incertains; elles ne se prêtent donc pas à des prévisions exactes.
+
+Les estimations contenues dans le RA31 sont essentielles pour guider la capitalisation du RPC et exécuter d’autres tâches de planification et de gestion. Il reste qu’il s’agit toutefois d’estimations seulement, peu importe la prudence avec laquelle elles sont établies. C’est pourquoi il importe que les lecteurs des rapports actuariels examinent les analyses de sensibilité et de scénarios pour bien comprendre que l’éventail des résultats réels possibles est large et qu’il pourrait l’être davantage que ne l’indiquent les analyses de sensibilité et de scénarios.
+
+### 1.6 Principaux résultats du 31e Rapport actuariel
+
+Les principaux résultats inclus dans le RA31 sont les suivants :
+
+#### 1.6.1 RPC de base
+
+* Le taux de cotisation par répartition passe de 9,08 % des gains cotisables en 2022 à 13,04 % en 2075 et se maintient à un niveau semblable par la suite.
+* Le TCM de 9,56 % pour les années 2025 à 2033 et de 9,54 % à compter de 2034 est en baisse par rapport au taux de 9,72 % figurant dans le RA30.
+* Si l’on applique ces TCM, le ratio de l’actif aux dépenses devrait augmenter légèrement, pour passer de 8,1 en 2025 à 8,4 en 2034, et demeurer le même en 2084.
+* En supposant que le taux de cotisation existant prévu par la loi de 9,9 % soit maintenu, le ratio de l’actif aux dépenses devrait augmenter légèrement, pour passer de 8,1 en 2022 à 8,4 en 2030, et continuer à augmenter par la suite, pour atteindre 10,7 en 2050 et 13,2 en 2100.
+* Cette baisse du TCM entre les évaluations, qui s’explique principalement par des résultats de placement meilleurs que prévu, est en partie compensée par les changements à l’hypothèse de rendement réel pour 2022, essentiellement attribuables à l’événement subséquent reconnu dans l’évaluation.
+
+#### 1.6.2 RPC supplémentaire
+
+* Un PTCMS de 1,97 % et un DCTMS de 7,88 % à partir de 2025, soit une légère baisse par rapport aux taux de 1,98 % et de 7,92 % annoncés dans le RA31.
+* En vertu des premier et deuxième taux de cotisation supplémentaires prévus par la loi de 2,0 % à compter de 2023 et de 8,0 % à compter de 2024, le ratio de l’actif aux dépenses devrait augmenter rapidement jusqu’en 2026, puis reculer progressivement jusqu’à 26 en 2080 et se maintenir autour de ce ratio jusqu’en 2100.
+* Aucune raison significative ne vient expliquer la légère baisse du PTCMS et du DTCMS, qui serait plutôt le résultat de nombreux petits événements d’expérience et des changements aux hypothèses.
+
+Dans l’ensemble, le RA31 montre que les exigences de capitalisation actuelles du RPC devraient permettre de financer amplement les prestations futures du RPC. Bien entendu, les résultats réels différeront des hypothèses actuarielles et les prochaines évaluations détermineront si, en fonction des mises à jour des résultats, les exigences de capitalisation actuelles permettront de financer amplement les prestations du RPC.
+
+## Section 2 – Expérience professionnelle
+
+Dans cette section, nous répondons à la question suivante :
+
+L’expérience professionnelle de l’actuaire en chef et des collaborateurs qui ont participé à la préparation du rapport est-elle suffisante pour exécuter les travaux requis?
+
+### 2.1 Contexte
+
+Le RA31 tel que soumis au ministre des Finances par l’actuaire en chef a été déposé au Parlement le 14 décembre 2022. L’actuaire en chef est Mme Assia Billig, Fellow de la Society of Actuaries (2004) et de l’Institut canadien des actuaires (2005). Mme Billig a été nommée actuaire en chef du BSIF en avril 2019.
+
+Elle s’est jointe au BAC en 2008, où elle a participé à l’élaboration de rapports actuariels prévus par la loi pour le RPC et le Programme de la Sécurité de la vieillesse, ainsi que de diverses études actuarielles de portée nationales et internationales. Avant de se joindre au BAC, elle a travaillé comme experte-conseil en régimes de retraite privés.
+
+Mme Billig a été vice-présidente du Comité de la sécurité sociale de l’AAI pendant quelques années et préside actuellement la Commission technique des études statistiques, actuarielles et financières de l’Association internationale de la sécurité sociale. Elle a terminé ses études de premier cycle à l’Université d’État de Moscou et détient un doctorat en mathématiques de l’Université de l’Alberta.
+
+Les spécialistes qui ont travaillé le plus étroitement avec Mme Billig sur le RA31 sont Michel Montambeault et Christine Dunnigan, actuaires principaux du BAC, une unité indépendante du BSIF. M. Montambeault est Fellow de la Society of Actuaries (1992) et de l’Institut canadien des actuaires (1992). Il consacre son temps aux affaires du RPC et du programme de la Sécurité de la vieillesse. Ces 33 dernières années, il a participé aux évaluations actuarielles du RPC et du Programme de la Sécurité de la vieillesse. Mme Dunnigan est Fellow de la Society of Actuaries (2007) et de l’Institut canadien des actuaires (2008). Elle consacre son temps aux affaires du RPC. Ces huit dernières années, elle a participé aux évaluations actuarielles du RPC.
+
+Mme Billig, M. Montambeault et Mme Dunnigan ont cosigné le RA31. Ils ont bénéficié de l’aide d’une équipe d’actuaires, dont la liste des membres figure au tableau suivant.
+
+Les spécialistes suivants ont participé à la préparation du RA31 :
+
+Liste des spécialistes participants à la préparation du RA31
+
+| Noms des spécialistes participants | Titre actuariel | Années d’expérience en actuariat | Années d’expérience en sécurité sociale |
+| --- | --- | --- | --- |
+| Assia Billig | doctorat, FICA, FSA | 26 ans | 15 ans |
+| Michel Montambeault | FICA, FSA | 40 ans | 33 ans |
+| Patrick Dontigny | ASA | 27 ans | 27 ans |
+| Louis-Marie Pommainville | FICA, FSA | 43 ans | 23 ans |
+| Yu Cheng | ASA | 25 ans | 23 ans |
+| Sari Harrel | FICA, FSA | 22,5 ans | 19,5 ans |
+| Christine Dunnigan | FICA, FSA | 20 ans | 8 ans |
+| Maxime Delisle | FICA, FSA, CERA | 7,5 ans | 6,5 ans |
+| Shayne Barrow | ACIA, ASA | 7 ans | 7 ans |
+| Thierry Truong | FICA, FSA | 9 ans | 6,5 ans |
+| Bojan Dimitrijevic | 6 examens | 6 ans | 4 ans |
+| Jackie Ruan | FICA, FCAS | 11 ans | 2 ans |
+| Nicholas Landry | ACIA, ASA | 7 ans | <1 an |
+| Mathieu Désy | FICA, FSA, CFA | 16 ans | 8 ans |
+| François Boulé | FICA, FSA | 22,5 ans | 2,5 ans |
+| Laurence Frappier | FICA, FSA | 25 ans | 1 an |
+| Ali Jazzar | 2 examens | <1 an | <1 an |
+| Pascale Jomphe | ACIA, ASA | 4 ans | 4 ans |
+| Adam Kearney | 5 examens | 13 ans | <1 an |
+
+### 2.2 Observations
+
+Très peu d’actuaires actifs au Canada ont une expérience de l’évaluation des programmes de sécurité sociale tels que le RPC. Les sources de données, les modèles macroéconomiques et la gamme des hypothèses servant aux évaluations actuarielles de ces régimes sont plus complexes que ceux des régimes de retraite d’employeur. Par conséquent, une expérience professionnelle de ces derniers est certes utile, mais pas autant que l’expérience des régimes d’assurance sociale comme le RPC. Mme Billig et M. Montambeault ont une vaste expérience et une excellente compréhension des questions liées à l’évaluation du RPC. Mme Dunnigan apporte une expertise actuarielle supplémentaire pour traiter les questions liées à l’évaluation du RPC. De plus, M. Dontigny possède une solide connaissance du modèle actuariel du RPC (Actucan).
+
+Le BAC a établi une unité spécialisée en placement pour que l’équipe du RPC continue d’approfondir sa connaissance des questions touchant les placements et qu’elle la diffuse efficacement dans l’ensemble du Bureau. Un actuaire qui est également analyste financier agréé (CFA) et qui possède une vaste expérience en placements s’est récemment joint à l’équipe du RPC pour s’occuper de cette nouvelle unité. Un expert-conseil en placements a également été recruté pour aider le BAC à perfectionner ses méthodes d’élaboration d’hypothèses d’investissement à long terme. Certaines des recommandations du conseiller ont été appliquées par l’équipe du RPC afin d’établir les hypothèses de placement du RA31.
+
+Le nombre d’employés du BAC permet à ce dernier de consacrer le temps nécessaire à la résolution des questions touchant le RPC, comme l’amélioration des méthodes et des sources de données, la réalisation d’études entre les évaluations, l’amélioration de la documentation, l’évaluation du coût des nouvelles prestations et la liaison avec les autres ministères et d’autres actuaires de la sécurité sociale, autant d’aspects qui contribuent à la qualité des travaux et du rapport. Toutefois, compte tenu de l’importance de son travail, le BAC doit s’assurer qu’il dispose de suffisamment d’employés pour pouvoir donner suite aux recommandations du groupe d’examen, répondre au nombre croissant de demandes d’analyses approfondies qui lui sont adressées et suivre les nouvelles tendances économiques et démographiques.
+
+Nous constatons que le nombre d’employés a considérablement augmenté et on nous dit qu’il devrait encore augmenter au cours des prochaines années. À la lumière de nos discussions avec Mme Billig, nous croyons savoir qu’il existe un programme continu approprié de recrutement et de planification de la relève. Le personnel du BAC se compose d’employés chevronnés et d’employés relativement nouveaux. La rétention du personnel et la continuité des opérations ont été excellentes. Nous constatons également que les membres du personnel se déplacent entre les divers secteurs techniques dans le cadre de leur affectation principale et/ou de leurs travaux d’examen par les pairs. Ainsi, le personnel acquiert des connaissances approfondies sur tous les rouages du RPC et des modèles actuariels applicables.
+
+Nous sommes convaincus que Mme Billig et les collaborateurs qui ont participé à la préparation du RA31 possèdent l’expérience et les compétences voulues pour exécuter l’évaluation actuarielle.
+
+**Opinion sur l’expérience professionnelle :** L’expérience professionnelle de l’actuaire en chef et de ses collaborateurs qui ont participé à la préparation du RA31 est suffisante pour exécuter les travaux requis.
+
+## Section 3 – Exigences professionnelles et réglementaires
+
+Dans la présente section, nous répondons à la question suivante :
+
+Les travaux ont-ils été effectués en conformité avec les normes de pratique professionnelle et les exigences réglementaires pertinentes?
+
+### 3.1 Contexte
+
+Pour répondre à cette question, nous avons examiné ce qui suit :
+
+* **Règles de déontologie de l’Institut canadien des actuaires (ICA)** : L’actuaire en chef et les autres signataires sont des Fellows de l’ICA, l’organisme professionnel régissant la formation, la qualification, la conduite et le travail des actuaires au Canada. L’ICA établit les normes professionnelles et d’éthique auxquelles les membres doivent se conformer et ainsi servir l’intérêt public. Les Règles de déontologie sont les règles du plus haut niveau que l’ICA impose à ses membres. Un manquement à celles-ci peut donner lieu à des mesures disciplinaires.
+* **Normes de pratique de l’ICA** : Ces normes régissent le travail des actuaires au Canada. Elles se composent de normes générales couvrant tous les domaines de pratique et de normes particulières régissant les travaux effectués dans certains domaines. La Partie 1000 – Normes générales s’applique à tous les domaines de la pratique actuarielle. La Partie 7000 – Programmes de sécurité sociale s’applique à un actuaire lorsqu’il exécute ou examine des travaux liés aux programmes de sécurité sociale ou lorsqu’il donne des conseils ou formule des opinions à leur sujet.
+* **Normes internationales de pratique actuarielle (NIPA)** : Normes modèles élaborées par l’AAI, qui encourage ses associations membres à mettre en place des normes de pratique qui s’inspirent largement des siennes. Puisqu’il s’agit de normes modèles, elles ne sont pas exécutoires pour les actuaires. La NIPA 2 – Analyse financière des programmes de sécurité sociale a pour but de promouvoir le développement d’une pratique actuarielle cohérente pour les programmes de sécurité sociale dans le monde entier. Bien qu’elle ne soit pas exécutoire, il s’agit d’une référence utile.
+* **Régime de pensions du Canada :** Cette loi définit le cadre de référence de l’actuaire en chef pour la préparation des rapports actuariels sur le RPC. L’article 113.1 précise les renseignements actuariels dont les ministres fédéral et provinciaux des Finances ont besoin pour recommander des modifications touchant les prestations ou les taux de cotisation du RPC, ou les deux à la fois. L’article 115 indique le moment du dépôt, le contenu et certains autres aspects du rapport triennal de l’actuaire en chef.
+
+Chacun des éléments ci-après est pris en compte.
+
+### 3.2 Règles de déontologie de l’ICA
+
+Les Règles de déontologie suivantes de l’ICA s’appliquent particulièrement à notre examen :
+
+* Règle 1 : Le membre agit avec honnêteté, intégrité et compétence, et de manière à remplir les responsabilités de la profession envers le public et à maintenir la réputation de la profession actuarielle.
+* Règle 2 : Le membre ne rend des services professionnels que s’il est qualifié pour le faire et qu’il satisfait aux normes de qualification professionnelle continue applicables.
+* Règle 3 : Le membre veille à ce que les services professionnels rendus par lui ou sous sa direction répondent aux normes de pratique pertinentes.
+
+Nous sommes convaincus que l’actuaire en chef et ses collaborateurs ont respecté les Règles de déontologie de l’ICA.
+
+En ce qui concerne la Règle 2, la [section 2](#2.0) du présent rapport étoffe notre évaluation de l’expérience professionnelle du personnel du BAC. En vertu de la Règle 2, l’ICA a aussi établi des exigences de perfectionnement professionnel continu (PPC) qui s’appliquent aux actuaires actifs. Nous avons passé en revue les dossiers de PPC de l’actuaire en chef et des cosignataires du RA31, de même que ceux des spécialistes du BAC qui sont Fellows de l’ICA, et nous confirmons que tous répondent aux exigences de PPC de l’ICA.
+
+En ce qui concerne la Règle 3, les deux sous-sections qui suivent décrivent de façon détaillée notre évaluation de la mesure dans laquelle l’actuaire en chef a appliqué les normes de pratique.
+
+### 3.3 Normes de pratique de l’ICA
+
+#### 3.3.1 Normes générales de pratique – Partie 1000
+
+Les Normes générales de pratique de l’ICA sont exhaustives et détaillées. Elles couvrent de nombreux thèmes qui s’appliquent à l’évaluation du RPC. Nous commentons ci-dessous les aspects qui nous semblent pertinents.
+
+L’actuaire devrait tenir compte de tout événement subséquent, si l’événement subséquent :
+
+* fournit des renseignements au sujet de la situation de l’entité à la date de calcul;
+* fait rétroactivement de l’entité une entité différente à la date de calcul; ou
+* fait de l’entité une entité différente après la date de calcul et que l’un des buts du travail est de produire un rapport sur la situation future de l’entité découlant de l’événement en question.
+
+Les incidences continues et évolutives de la pandémie de COVID-19 ont été exacerbées par l’escalade du conflit en Ukraine au début de 2022. Aux fins du RA31, cette escalade fut considérée comme un événement subséquent, puisqu’elle a commencé après la date d’évaluation mais avant la date du rapport. Une grande incertitude plane sur l’évolution du conflit et ses effets potentiels sur la situation financière projetée du RPC, notamment en raison de l’évolution des niveaux d’inflation et de la volatilité des marchés. Cette incertitude a été prise en compte dans le RA31. L’actuaire en chef n’a constaté aucun autre événement subséquent.
+
+La norme de l’ICA sur la suffisance et la fiabilité des données exige que l’actuaire applique les mesures nécessaires pour lui permettre d’arriver à une conclusion à l’égard de la suffisance et la fiabilité des données. L’actuaire en chef s’appuie sur des données provenant de sources multiples et a tenu compte des qualifications, de la compétence, de l’intégrité et de l’objectivité des parties qui fournissent les données. Le rapport RA31 comprend un tableau où sont détaillés la source de chaque fichier de données, l’information fournie dans chaque fichier de données, les processus de validation et la tolérance d’erreur du BAC. En outre, le BAC a publié un rapport approfondi daté de février 2022 et intitulé « OCA External CPP Data Files Validation Process » (Processus de validation des fichiers de données externes sur le RPC du BAC).
+
+Selon la norme de l’ICA, lorsque le travail repose sur l’utilisation d’un modèle, l’actuaire devrait choisir un modèle approprié compte tenu du but et des exigences du travail et bien comprendre toute limite du modèle qui pourrait produire des résultats inappropriés compte tenu du but visé, ou des résultats erronés. L’actuaire en chef et ses collaborateurs sont convaincus que le modèle utilisé est approprié et fiable, et ont préparé des documents pour favoriser l’utilisation et l’évolution continues du modèle.
+
+La norme de l’ICA sur les hypothèses exige qu’individuellement et dans leur ensemble, les hypothèses soient appropriées. La plupart de nos recommandations visent à renforcer le processus d’élaboration des diverses hypothèses actuarielles. Néanmoins, nous pouvons affirmer que les hypothèses retenues pour le RA31, à la fois individuellement et dans leur ensemble, sont raisonnables, et donc appropriées.
+
+La norme de l’ICA sur la provision pour écarts défavorables indique qu’« un calcul ne devrait pas comprendre l’établissement d’une provision [pour écarts défavorables] si le travail qui s’y rapporte exige un calcul non biaisé ». L’article 113.1 du Régime de pensions du Canada exige que l’actuaire en chef calcule le plus bas taux constant de cotisation possible qui, maintenu pendant un avenir prévisible, se traduit par un rapport stable entre l’actif estimatif et les dépenses prévues. L’actuaire en chef interprète cette exigence comme nécessitant un calcul non biaisé. Ainsi, chaque hypothèse utilisée dans l’évaluation est considérée comme la « meilleure estimation ». Il s’ensuit que les résultats globaux de l’évaluation, à l’exception des analyses de sensibilité et de scénarios, correspondent aux « meilleures estimations » de l’actuaire en chef et ne comportent pas de provision pour écarts défavorables. Bien que nous sommes d’accord avec le recours, par l’actuaire en chef, aux hypothèses de « meilleure estimation », nous recommandons de mieux soutenir la justification du recours à ces hypothèses dans le rapport.
+
+À notre avis, les travaux relatifs au RA31 sont conformes aux sections pertinentes des Normes générales de pratique de l’ICA.
+
+#### 3.3.2 Normes de pratique des programmes de sécurité sociale – Partie 7000
+
+Les Normes de pratique applicables aux programmes de sécurité sociale de l’ICA s’appliquent à un actuaire lorsqu’il effectue ou examine du travail portant sur des programmes de sécurité sociale, ou lorsqu’il donne des conseils ou son opinion au sujet de ce travail. Les normes sont entrées en vigueur le 15 octobre 2017 et ont été révisées le 1er février 2018.
+
+Au début de l’année 2022, un groupe désigné a été constitué pour examiner et recommander, dans le cadre d’un examen quinquennal général, toute modification à la Partie 7000. François Boulé, actuaire principal et membre de l’équipe du BAC, préside ce groupe désigné et Jill Wagman en est également membre.
+
+Le 27 octobre 2022, le groupe désigné a publié un avis d’intention décrivant les modifications envisagées et demandant de la rétroaction sur les révisions dans le cadre de la procédure officielle de modification des normes de pratique actuarielles. Voici les modifications envisagées à la Partie 7000 :
+
+* Réviser la formulation des termes « méthode de financement » et « politique de financement », actuellement utilisés de façon interchangeable, afin qu’il soit possible de les distinguer;
+* Ajouter un ou plusieurs paragraphes sur les événements subséquents, puisqu’il n’y en a pas actuellement;
+* Permettre à l’actuaire de décider s’il est nécessaire d’établir une date limite pour la reconnaissance des événements subséquents et d’établir que des dates limites différentes peuvent être fixées selon l’hypothèse;
+* Modifier la sous-section 7330 sur les hypothèses économiques afin de la rendre plus détaillée.
+
+En outre, le groupe désigné suggérera probablement un certain nombre de modifications pour améliorer la clarté, la concision et le niveau de précision de la Partie 7000.
+
+Il convient de noter qu’aucune des modifications envisagées n’aurait une incidence importante sur les résultats présentés dans le RA31.
+
+À notre avis, les travaux relatifs au RA31 sont conformes aux parties pertinentes des Normes de pratique applicables aux programmes de sécurité sociale de l’ICA.
+
+### 3.4 NIPA 2 – Analyse financière des programmes de sécurité sociale (AAI)
+
+La NIPA 2 oriente les actuaires qui effectuent l’analyse financière des programmes de sécurité sociale, ou qui donnent des conseils ou des opinions à leur sujet, afin de donner aux utilisateurs prévus l’assurance que :
+
+* les services actuariels sont assurés avec professionnalisme et prudence;
+* les résultats répondent à leurs besoins, sont présentés de manière claire et compréhensible et sont complets;
+* Les hypothèses et les méthodes (y compris, les modèles et techniques de modélisation) utilisées sont communiquées de manière appropriée.
+
+À notre avis, les travaux relatifs au RA31 sont conformes aux parties pertinentes de la NIPA 2 – Analyse financière des programmes de sécurité sociale de l’AAI.
+
+### 3.5 Régime de pensions du Canada
+
+Le Régime de pensions du Canada indique la fréquence, le calendrier approximatif et certains éléments du contenu des rapports triennaux de l’actuaire en chef destinés aux ministres fédéral et provinciaux des Finances. Dans le RA31, l’actuaire en chef et ses collaborateurs ont respecté toutes les exigences prévues par la loi.
+
+**Recommandation 1**: Le rapport énonce que toutes les hypothèses sont fondées sur la « meilleure estimation », un principe qui, selon nous, est de mise et cadre avec les dispositions du RPC. Toutefois, nous recommandons que la justification du recours aux hypothèses de « meilleure estimation » soit clarifiée dans le rapport.
+
+**Opinion sur les exigences professionnelles et législatives :** À notre avis, les travaux relatifs au RA31 ont été effectués conformément aux normes de pratique professionnelle et aux exigences législatives applicables.
+
+## Section 4 – Données
+
+Dans la présente section, nous répondons à la question suivante :
+
+L’actuaire en chef a-t-elle eu accès aux renseignements nécessaires pour exécuter l’évaluation et les tests et analyses pertinents ont-ils été exécutés sur les données comme l’on pourrait s’y attendre?
+
+### 4.1 Contexte
+
+Des données pertinentes sont nécessaires à titre d’intrants pour établir la « situation actuelle » dans le modèle informatique, pour « valider » le modèle contrôle ex post (« back testing ») et pour élaborer des hypothèses actuarielles appropriées pour les années à venir. Les données d’Emploi et Développement social Canada (EDSC) et de l’Agence du revenu du Canada (ARC) sont normalement transmises au BAC par Service Canada. Le rapport détaille les sources des différentes données utilisées dans l’évaluation.
+
+Les données sur la situation actuelle et pour la validation, de même que les données historiques utilisées pour établir les hypothèses, semblent tous être dérivées objectivement, factuelles et à jour.
+
+Les données d’évaluation sur les prestations, les gains et les cotisations, fournies par EDSC, font l’objet de vérifications approfondies de la part du BAC afin d’en établir la cohérence interne et le caractère raisonnable. Les données provenant d’autres sources sont examinées par le BAC aux fins de cohérence interne et de cohérence avec les données antérieures. Les irrégularités sont analysées et validées avec la source des données et les erreurs sont corrigées.
+
+L’actuaire en chef nous a indiqué que ses collaborateurs ont eu accès à des données suffisantes et fiables pour effectuer leur travail et, dans le RA31, elle déclare qu’à son avis, « les données sur lesquelles l’évaluation s’appuie sont suffisantes et fiables ».
+
+### 4.2 Observations
+
+Nous formulons les observations suivantes :
+
+* L’actuaire en chef semble avoir eu accès aux données dont elle avait besoin.
+* Les données sont détaillées et semblent raisonnablement complètes et disponibles en temps opportun.
+* Le BAC s’assure du caractère raisonnable et de la cohérence interne des données et comble toutes les lacunes avant de les utiliser.
+* Le registre des gains de tous les travailleurs ayant cotisé au RPC semble suffisamment complet et précis.
+* Le fichier central des prestations de Service Canada semble suffisamment complet, quoique l’on entretienne certaines craintes en raison de l’incapacité de pouvoir s’assurer de la survie des personnes résidant à l’étranger.
+* L’OIRPC a un portefeuille de référence qui reflète sa politique de base en matière de composition de l’actif. La composition réelle de l’actif peut s’écarter du portefeuille de référence, et c’est effectivement le cas puisque l’OIRPC tente d’accroître son rendement moyennant un risque raisonnable. Lorsque l’OIRPC décide de s’écarter du portefeuille de référence, il procède à un exercice de budgétisation des risques afin de déterminer le bien-fondé de sa décision sur une base ajustée en fonction des risques attendus. L’actuaire en chef a formulé des hypothèses sur la composition future de l’actif fondée sur le portefeuille de référence, sur la politique de budgétisation des risques, sur la composition actuelle réelle de l’actif, sur la composition de l’actif d’autres grandes caisses de retraite canadiennes, et sur son jugement quant à la composition future possible de l’actif de l’OIRPC.
+* Les colloques sur le RPC et le RRQ ont permis de recueillir beaucoup de renseignements forts utiles, et leur pertinence s’est accrue au fil du temps (p. ex. passage à une vision à long terme). On devrait continuer d’y inviter des conférenciers dont les points de vue divergent, et encourager expressément les conférenciers à faire une synthèse des points de vue plausibles.
+* Le BAC entretient des liens avec d’autres ministères et organismes tels que l’OIRPC, EDSC, l’ARC, Statistique Canada, le ministère des Finances du Canada et la Banque du Canada, de même qu’avec des organismes de l’extérieur tels que Retraite Québec, le Conference Board du Canada, l’Institut C.D. Howe et l’Université de Toronto, par l’entremise de son Policy and Economic Analysis Program. Tous ces liens lui ont permis d’obtenir des renseignements utiles.
+* Le BAC a établi des priorités en matière d’amélioration des données qui pourraient lui permettre de produire une meilleure analyse.
+
+À la section 6, nous expliquons comment se déroule la projection des gains et, surtout, l’évolution de la répartition des gains des participants au RPC au fil du temps.
+
+**Opinion sur les données :** À notre avis, l’actuaire en chef a eu accès aux données dont elle avait besoin pour effectuer l’évaluation et elle a procédé aux tests et analyses pertinents sur les données, comme on pouvait s’y attendre.
+
+## Section 5 – Méthodes actuarielles
+
+Dans la présente section, nous répondons à la question suivante :
+
+Les méthodes actuarielles utilisées pour préparer le rapport sont-elles raisonnables?
+
+### 5.1 Contexte
+
+Les résultats présentés dans le RA31 sont des projections déterministes des cotisations, des revenus de placement et des dépenses du RPC de base et du RPC supplémentaire pour toutes les années jusqu’en 2100. Ils comprennent également les projections déterministes des taux de cotisation par répartition et des taux de cotisation minimaux pour le RPC de base et le RPC supplémentaire, conformément au Régime de pensions du Canada.
+
+### 5.2 Modèle de macrosimulation
+
+Les projections des cotisations, des revenus de placement et des dépenses sont basées sur le modèle de macrosimulation exclusif au BAC.
+
+Le modèle projette les flux de trésorerie futurs à partir de données sur le marché actuel et d’hypothèses démographiques, économiques et autres. Les hypothèses démographiques portent entre autres sur les indices de fécondité, les taux de mortalité et les taux de migration. Les hypothèses économiques portent entre autres sur les taux d’activité, l’inflation, la croissance réelle des salaires et les taux de rendement des placements. Les autres hypothèses portent entre autres sur les taux de retraite et les taux d’invalidité (et la cessation des prestations d’invalidité). À l’exception de celles sur les taux de rendement des placements, les mêmes hypothèses s’appliquent au RPC de base et au RPC supplémentaire. Les hypothèses sur les taux de rendement des placements des deux régimes sont différentes, car les portefeuilles de référence sont différents.
+
+Le modèle effectue des projections de la population à partir de données regroupées par âge et par sexe. Cette approche diffère de celle utilisée dans les évaluations de la grande majorité des régimes de retraite d’employeur, qui ont recours à un modèle individuel (participant par participant). Le modèle adopte également une approche de groupe ouvert où les nouveaux participants sont pris en compte. Pour la grande majorité des régimes de retraite d’employeur, les évaluations adoptent une approche de groupe fermé où seules les prestations et les cotisations des participants actuels sont prises en compte (certaines évaluations intègrent au coût du service courant des hypothèses relatives aux nouveaux participants). Nous sommes d’accord avec le recours à un modèle de groupe ouvert utilisant des données groupées par âge et par sexe.
+
+Le modèle est calibré au moyen d’une procédure de contrôle ex post (« back testing »). Le résultat du modèle applicable aux années antérieures à la date d’évaluation est comparé aux valeurs historiques. Les écarts sont analysés et résolus. La solution peut comprendre des facteurs d’ajustement modestes pour mieux calibrer le modèle en fonction des résultats historiques. Nous sommes d’avis que ces ajustements sont raisonnables.
+
+Le modèle est rédigé dans le langage de programmation Fortran. Fortran a été mis au point dans les années 1950 et convient particulièrement aux calculs numériques et scientifiques. Même si Fortran a été mis à jour au fil des ans, le langage de programmation est dépassé et n’est plus autant en usage que d’autres langages de programmation plus récents. Régulièrement, le BAC évalue si Fortran demeure optimal pour ses évaluations, en tenant compte à la fois de sa fonctionnalité et de la possibilité d’engager du personnel possédant suffisamment de connaissances pour programmer des changements au code. Après avoir discuté avec le BAC, nous sommes d’avis qu’il est approprié de continuer à utiliser Fortran.
+
+### 5.3 Forme des résultats
+
+Le modèle produit les résultats suivants :
+
+* Projections démographiques de la population visée et projections des cotisations, des revenus de placement et des dépenses;
+* Taux de cotisation par répartition et ratios de l’actif aux dépenses fondés sur le taux de cotisation actuellement prévu par la loi jusqu’en 2100;
+* TCM actuel du RPC de base, qui correspond à la somme du taux de régime permanent et du taux de capitalisation intégrale, et TCM projetés pour chacun des quatre prochains examens actuariels triennaux;
+* PTCMS et DTCMS du RPC supplémentaire;
+* Bilan comportant des estimations de l’actif en pourcentage du passif selon l’approche de groupe ouvert au 31 décembre 2021 et au 31 décembre 2030;
+* Rapprochement des résultats du RA31 avec ceux du RA30;
+* Analyses de sensibilité et de scénarios indiquant les résultats de l’utilisation d’autres hypothèses.
+
+### 5.4 Taux de cotisation – RPC de base
+
+#### 5.4.1 Taux de cotisation par répartition
+
+En vertu de l’article 115 du Régime de pensions du Canada, l’actuaire en chef doit présenter les taux de cotisation par répartition pour le RPC de base, c’est-à-dire les taux de cotisation applicables chaque année menant à des cotisations attendues équivalentes aux dépenses attendues pour l’année en question, pour chacune des 30 premières années et, par la suite, par tranches de cinq ans sur une période d’au moins 75 ans après la date d’évaluation.
+
+Le RA31 remplit cette exigence.
+
+#### 5.4.2 Taux de cotisation minimal
+
+En vertu de l’article 115 du Régime de pensions du Canada, le TCM devrait correspondre à la somme du taux de cotisation calculé selon la méthode de « capitalisation au taux de régime permanent » et du taux de cotisation calculé selon la méthode de « capitalisation intégrale », comme suit :
+
+* le taux de cotisation (méthode de capitalisation au taux de régime permanent), obtenu selon le calcul prescrit, permettant la capitalisation du taux de régime permanent du RPC, à l’exclusion des bonifications après 1997;
+* le taux de cotisation (méthode de capitalisation intégrale), obtenu selon le calcul prescrit, permettant la capitalisation intégrale des bonifications après 1997.
+
+La méthode de capitalisation au taux de régime permanent produit un taux de cotisation correspondant au taux constant le plus faible qui, s’il est maintenu dans un avenir prévisible, se traduira par des ratios projetés de l’actif aux dépenses qui sont généralement constants. Le ratio de l’actif aux dépenses au cours d’une année est le ratio de l’actif projeté à la fin de l’année aux dépenses projetées de l’année suivante. En pratique, le taux de cotisation de régime permanent représente le taux de cotisation le plus faible, à compter de la troisième année suivant la date d’examen (appelée la « période d’examen »), qui produit les mêmes ratios projetés de l’actif aux dépenses à la 10e et à la 60e année suivant la période d’examen. L’emploi de ces années est prescrit par le Règlement de 2021 sur le calcul des taux de cotisation. Les ratios de l’actif aux dépenses pour 2034 et 2084 sont utilisés à cette fin dans le RA31.
+
+Selon l’alinéa 113.1(4)e) du Régime de pensions du Canada, les bonifications de prestations après 1997 doivent être traitées séparément et capitalisées intégralement. Ainsi, le taux de cotisation de régime permanent doit être majoré pour tenir compte des bonifications de prestations qui sont réputées acquises à l’avenir. Il faut également prévoir une hausse temporaire du taux de cotisation pour éliminer tout déficit actuariel résultant de la bonification des prestations. La durée de cette hausse temporaire doit être conforme à la pratique actuarielle courante. L’actuaire en chef a choisi une période de 15 ans à cette fin, et nous convenons que cela respecte la pratique actuarielle courante au Canada.
+
+Le RA31 établit comme il se doit les taux de cotisation minimaux du RPC de base.
+
+### 5.5 Taux de cotisation – RPC supplémentaire
+
+Les méthodes de financement utilisées pour calculer les PTCMS et DTCMS sont définies dans le Règlement de 2021 sur le calcul des taux de cotisation comme étant les taux de cotisation minimaux, applicables après la fin 6de la période d’examen, de sorte que :
+
+* la valeur actualisée du passif supplémentaire projeté selon l’approche de groupe ouvert est au moins égale à l’actif supplémentaire projeté et à la valeur actualisée des cotisations supplémentaires projetées (actif de groupe ouvert);
+* le ratio projeté de l’actif aux dépenses du RPC supplémentaire est le même pour la 50e année et la 60e année suivant la fin de la période d’examen, mais pas avant 2088 et 2098, respectivement;
+* le DTCMS est égal au PTCMS multiplié par le ratio du taux de remplacement du revenu du deuxième palier du RPC supplémentaire au taux de remplacement du premier palier (33,33 %/8,33 %, ou 4).
+
+La première exigence est conforme au sous-alinéa 113.1(4)d)(ii) du Régime de pensions du Canada, qui stipule que les taux de cotisation ne doivent pas être inférieurs aux taux qui donnent lieu à des cotisations et à un revenu de placement projetés qui sont suffisants pour couvrir entièrement les dépenses projetées du RPC supplémentaire dans un avenir prévisible.
+
+La deuxième exigence respecte le sous-alinéa 113.1(4)d)(i) du Régime de pensions du Canada, qui prévoit qu’à compter de 2024, les taux de cotisation correspondent aux taux de cotisation constants les plus faibles qui peuvent être maintenus pendant un avenir prévisible.
+
+Nous sommes d’accord avec la manière dont le RA31 répond à ces exigences.
+
+### 5.6 Bilan actuariel
+
+Un bilan actuariel permet d’établir une comparaison entre l’actif et le passif actuariel au 31 décembre 2021 et au 31 décembre 2030 sur la base de groupe ouvert.
+
+Dans un bilan actuariel selon l’approche de groupe ouvert, on suppose la permanence du RPC, et le bilan prend également en compte les cotisations et prestations futures des participants actuels et futurs. Les prestations et cotisations sont actualisées, à la date d’évaluation, au taux de rendement des placements prévu.
+
+Nous sommes d’accord avec les méthodes utilisées pour établir le bilan actuariel.
+
+### 5.7 Rapprochement des résultats du RA31 avec ceux du RA30
+
+En application des normes de pratique actuarielle, l’évaluation doit prévoir un rapprochement des changements de situation financière du RPC depuis l’évaluation précédente. L’évaluation effectue le rapprochement du TCM du RPC de base ainsi que des PTCMS et DCTMS du RPC supplémentaire par rapport à ceux du RA30.
+
+Nous sommes d’accord avec les rapprochements présentés dans le rapport.
+
+### 5.8 Analyses de sensibilité et de scénarios
+
+Le RA31 contient plusieurs analyses de sensibilité et de scénarios. Celles-ci aident le lecteur à comprendre la variabilité potentielle de la capitalisation du RPC et les risques qui pèseront sur le RPC dans l’avenir.
+
+Bien que nous ayons quelques recommandations à formuler, nous sommes dans l’ensemble d’accord avec les analyses de sensibilité et de scénarios présentées dans le RA31.
+
+**Opinion sur les méthodes actuarielles :** À notre avis, les méthodes actuarielles adoptées dans le RA31 sont raisonnables.
+
+## Section 6 – Hypothèses
+
+Dans la présente section, nous répondons à la question suivante :
+
+Les hypothèses actuarielles utilisées pour préparer le rapport sont-elles raisonnables?
+
+### 6.1 Contexte
+
+Les hypothèses actuarielles reflètent les résultats futurs attendus du RPC. Lors de la sélection des hypothèses actuarielles, l’actuaire doit tenir compte d’un certain nombre de facteurs, notamment :
+
+* les données et tendances historiques à long terme;
+* les données et tendances historiques à court terme;
+* les preuves indiquant qu’il y a eu ou non un changement systémique ou un changement structurel;
+* les modifications récentes au RPC;
+* les changements aux politiques (p. ex. la politique de placement de l’OIRPC, les politiques administratives d’EDSC et les politiques du gouvernement en matière d’inflation et d’immigration);
+* la recherche universitaire et professionnelle spécialisée;
+* l’analyse comparative avec d’autres régimes semblables;
+* d’autres sources extérieures d’information pertinente.
+
+Toutes les hypothèses intégrées au RA31 sont fondées sur la « meilleure estimation », c’est-à-dire que, de l’avis de l’actuaire en chef, elles ont été élaborées de manière que leurs écarts, favorables ou défavorables, par rapport aux résultats observés soient à peu près équiprobables.
+
+Comme les hypothèses s’inscrivent normalement dans le long terme, une certaine importance devrait être accordée aux données historiques à long terme. Toutefois, lorsque l’actuaire juge que des données plus récentes au sujet d’une hypothèse particulière indiquent un changement systémique ou une tendance qui se maintiendra probablement à long terme, l’actuaire devrait en tenir compte dans le choix de l’hypothèse.
+
+Pour bien des hypothèses utilisées dans le modèle, l’actuaire en chef a adopté une méthode que les actuaires qualifient de « sélecte et ultime ». Selon cette méthode, l’hypothèse envisagée varie progressivement au cours d’un certain nombre d’années (la « période sélecte »), passant d’une valeur qui, au départ, est proche des derniers résultats observés à une valeur qui tient compte de la meilleure estimation de l’actuaire à long terme (l’hypothèse dite « ultime »). La durée de la période sélecte peut différer selon les hypothèses. Le choix repose sur le jugement de l’actuaire et il dépend de facteurs comme la nature de l’hypothèse envisagée et de l’importance de l’écart entre l’hypothèse ultime et les derniers résultats observés.
+
+Le choix de l’hypothèse de meilleure estimation ne repose pas sur une théorie ou une source scientifique unique, mais plutôt sur le jugement. L’actuaire en chef et ses collaborateurs recueillent l’avis d’experts de divers milieux au sujet des hypothèses clés et utilisent leur jugement pour élaborer les hypothèses de meilleure estimation. Au mieux, on peut dégager une estimation « raisonnable ». Les membres du groupe d’examen ont tenu compte de cette contrainte lorsqu’ils ont étudié les travaux de l’actuaire en chef.
+
+En raison de la vaste gamme et de la complexité des hypothèses et des méthodes utilisées dans les examens actuariels du RPC, il est souhaitable que l’actuaire en chef sollicite l’avis et les conseils d’experts, incluant des actuaires, des démographes et des économistes, afin qu’un large éventail d’analyses et d’opinions soit pris en compte, ce qui rehausse la crédibilité des examens actuariels.
+
+L’actuaire en chef a élaboré des processus rigoureux pour la sélection des hypothèses. Toutes les décisions relatives aux hypothèses sont prises de concert avec le personnel du BAC. L’actuaire en chef et ses collaborateurs font appel aux compétences de fonctionnaires d’autres ministères et organismes qui participent à des colloques interdisciplinaires. Ils maintiennent une communication bilatérale efficace avec l’OIRPC et consacrent beaucoup de temps à se tenir au fait des opinions d’experts sur les questions démographiques et économiques. De plus, ils prennent en compte les commentaires et avis contenus dans les rapports des groupes chargés des examens actuariels des rapports actuariels précédents.
+
+Ci-après figure des commentaires relatifs à notre examen de l’élaboration de chacune des hypothèses actuarielles clés. Nous pensons que, dans l’ensemble, les hypothèses ont été élaborées en tenant compte de tous les facteurs énumérés précédemment. Toutefois, à notre avis, il se peut qu’on accorde trop d’importance aux tendances antérieures et pas assez aux tendances prospectives. Prenons, par exemple, l’âge prévu de la retraite, où le passé n’est pas forcément un bon indicateur de l’avenir.
+
+**Recommandation 2 :** Bien qu’il fasse état des tendances récentes et des conditions du marché actuel, le BAC est amené à s’appuyer largement sur des données antérieures dans la formulation de ses hypothèses actuarielles. À cet égard, nous recommandons au BAC d’adopter une approche plus prospective et de prendre davantage en considération les attentes du marché actuel envers les taux d’intérêt et d’inflation.
+
+**Recommandation 3 :** Nous recommandons au BAC d’utiliser davantage de renseignements de référence pour choisir ses hypothèses. Ces renseignements de référence peuvent provenir d’autres régimes de retraite, d’autres entités gouvernementales, de régimes de sécurité sociale d’autres pays, etc. Nous convenons que les renseignements de référence ne s’appliquent que rarement à la perspective à long terme propre à l’évaluation du RPC, mais ils peuvent tout de même être utiles pour les 20 à 30 premières années de projections.
+
+Les principales hypothèses actuarielles du RA31 se divisent en trois groupes :
+
+* les hypothèses **démographiques**, qui reflètent l’évolution de la population visée et comprennent les indices de fécondité, les taux de mortalité et les taux de migration nette;
+* les hypothèses **économiques**, qui reflètent l’évolution de la population active, la hausse des prix, l’augmentation des salaires réels et les taux de rendement des placements;
+* les **autres** hypothèses, qui comprennent les taux de retraite et les taux d’invalidité (et les taux de rétablissement de ces invalidités).
+
+### 6.2 Hypothèses démographiques
+
+#### 6.2.1 Fécondité
+
+Les indices de fécondité servent à prévoir le nombre de naissances chaque année à venir. L’évaluation établit l’hypothèse du nombre de naissances futures en appliquant les indices de fécondité prévus par tranche d’âge de cinq ans, qui varient selon l’année civile, à la population féminine projetée.
+
+Les indices de fécondité ultimes attendus pour chaque tranche d’âge de cinq ans ont été établis en tenant compte des résultats passés et des attentes futures.
+
+En examinant les résultats passés, le BAC a constaté que les indices de fécondité ont considérablement baissé depuis les années 1960 et 1970, mais qu’ils se sont largement stabilisés au cours des 20 dernières années. Le BAC s’est montré prudent à ne pas donner trop d’importance aux résultats de 2019 et 2020, que la pandémie de COVID-19 a probablement faussés. Le BAC a émis l’hypothèse selon laquelle les tendances récentes à l’augmentation des indices de fécondité chez les femmes plus âgées et à la diminution des indices de fécondité chez les femmes plus jeunes se poursuivront dans l’avenir. Enfin, le BAC a pris en compte les indices de fécondité dans les autres pays du Groupe des Sept (G7).
+
+En examinant les attentes futures, le BAC a pris en compte la mise en place prévue de garderies publiques subventionnées dans les prochaines années. Pour tenir compte de ce changement de politique gouvernementale, le BAC a examiné les effets de l’adoption d’une réglementation similaire sur les indices de fécondité au Québec.
+
+Les indices de fécondité prévus par tranche d’âge de 5 ans ont été calculés à partir des niveaux actuels pour arriver à l’hypothèse ultime de 2029.
+
+La même analyse a été effectuée pour le Québec, et les taux pour le reste du Canada ont été obtenus en soustrayant le Québec de l’ensemble du Canada.
+
+Globalement, l’indice de fécondité prévu devrait augmenter légèrement au cours des huit prochaines années, mais ultimement demeurer semblable à celui d’avant la pandémie de COVID-19.
+
+Nous sommes d’accord avec l’approche adoptée par le BAC pour établir les indices de fécondité prévus. Nous pensons que l’approche utilisée et l’hypothèse qui en résulte sont raisonnables. Nous recommandons qu’à l’avenir, le BAC consacre plus de temps à l’examen des effets de l’immigration sur l’indice de fécondité. Il est difficile de savoir si l’indice de fécondité chez les immigrants est généralement plus élevé ou plus faible (les résultats récents pour l’Allemagne laissent croire qu’il pourrait être plus élevé), mais en tout état de cause, il serait utile de clarifier ce lien.
+
+**Opinion sur l’hypothèse de fécondité :** À notre avis, les hypothèses sur les indices de fécondité utilisées dans le cadre du RA31 sont raisonnables.
+
+#### 6.2.2 Mortalité
+
+L’hypothèse de mortalité a été établie en deux étapes : (1) la mortalité prévue de la population canadienne générale; (2) la mortalité prévue de plusieurs types de bénéficiaires (p. ex. retraités, invalides, personnes à charge et survivants). La deuxième étape vise à rajuster les taux de mortalité de la population générale pour tenir compte des résultats particuliers de la mortalité des bénéficiaires de prestations de retraite et de survivant du RPC. Les taux de mortalité appliqués aux bénéficiaires de prestations d’invalidité reposent sur les résultats réels de ce segment de la population.
+
+La mortalité de la population canadienne générale a été établie d’après les tables de mortalité canadiennes de la Base de données sur la longévité canadienne pour 1921-2011 et les tables de mortalité de Statistique Canada pour 2012-2020.
+
+Afin d’éviter que les données sur la mortalité en 2020 (pandémie de COVID-19) ne viennent fausser les hypothèses sur le taux d’amélioration de la mortalité au point de départ et pendant la période de transition, la projection des taux de mortalité et des taux d’amélioration de la mortalité (TAM) commence en 2019. Pour 2020, les taux de mortalité projetés ont été remplacés par les taux de mortalité réels de Statistique Canada, tandis que pour 2021 et 2022, des facteurs d’ajustement de la mortalité (COVID-19 et surconsommation d’opioïdes) ont été appliqués pour augmenter les taux de mortalité projetés.
+
+Les TAM annuels sont analysés selon l’âge, le sexe et la période. Aux fins de la projection des TAM, les taux de départ pour 2019 correspondant aux TAM annuels moyens enregistrés au Canada et au Québec pour les 15 années antérieures connues (2004-2019), calculés à partir des taux de mortalité de la Base de données sur la longévité canadienne et des tables de mortalité de Statistique Canada. Les TAM ultimes ont été obtenus à partir d’une combinaison d’approches rétrospectives et prospectives. L’analyse des résultats canadiens sur la période 1921-2019 a été combinée à une analyse des facteurs possibles d’amélioration future de la mortalité. Il convient de noter que l’accent a été mis principalement sur les participants de plus de 65 ans. Actuellement, les TAM des hommes à la plupart des âges sont plus élevés que ceux des femmes, mais devraient diminuer pour s’établir au même niveau que ceux des femmes à compter de 2039. Les hypothèses sur la mortalité utilisées dans le RA31 se traduisent par une espérance de vie un peu plus courte pour les hommes et les femmes que celles du RA30, surtout à cause du récent ralentissement du taux d’amélioration de la mortalité. L’écart d’espérance de vie entre les hommes et les femmes devrait continuer de se résorber, sans toutefois disparaître.
+
+Les TAM ultimes du RA31 sont les mêmes que ceux prévus dans le RA30 à tous les âges, pour les hommes et les femmes. Il s’agit d’une amélioration annuelle de 0,8 % jusqu’à l’âge de 89 ans, qui recule à 0,0 % à 110 ans. Les TAM ultimes des hommes et des femmes de moins de 65 ans utilisés dans le RA31 sont inférieurs à ceux utilisés dans le Rapport de 2021 des fiduciaires de l’Administration de la sécurité sociale aux É.-U. (OASDI), mais plus élevés pour les hommes et les femmes entre 65 et 89 ans. Les TAM prévus pour le RPC sont inférieurs à ceux prévus au Royaume-Uni, à tous les âges, tant pour les hommes que pour les femmes. En comparant les hypothèses sur les TAM avec celles d’autres pays, il est important de tenir compte des niveaux de départ des taux de mortalité. Les taux de mortalité du Canada sont inférieurs à ceux des États-Unis à tous les âges et inférieurs à ceux du Royaume-Uni pour les 40 ans et plus. Deuxième mise en garde importante sur la comparaison entre pays : ceux-ci sont différents à de nombreux égards (p. ex., soins de santé, mode de vie, inégalités, etc.), ce qui influence les taux de mortalité. Par conséquent, même si différents pays sont comparés, il convient d’interpréter ces informations avec prudence.
+
+Des études distinctes sur la mortalité des retraités, des personnes déclarées invalides et des survivants ont été réalisées. Une étude de la mortalité a été également réalisée pour quatre catégories de retraités, lesquelles correspondent à une tranche de niveau de pension.
+
+**Recommandation 4 :** En ce qui concerne l’élaboration d’hypothèses sur les taux de mortalité, compte tenu de la différence considérable dans la répartition des pensions de retraite, nous recommandons d’envisager l’adoption de tranches de niveaux de pension différentes pour les hommes et les femmes. Ainsi, l’analyse des tranches par niveaux de pension serait plus précise et les hypothèses de mortalité pourraient être améliorées. Bien qu’au terme de cette analyse, les projections de coûts pourraient être très semblables, nous recommandons l’étude de cette corrélation afin de confirmer son importance.
+
+**Opinion sur l’hypothèse de mortalité :** À notre avis, les hypothèses sur les taux de mortalité, y compris celles sur les TAM, utilisées dans le cadre du RA31 sont raisonnables.
+
+#### 6.2.3 Migration
+
+L’hypothèse du taux de migration est basée sur quatre composantes :
+
+* l’immigration;
+* l’émigration;
+* les changements relatifs aux résidents non permanents;
+* les mouvements de personnes entre le Québec et le reste du Canada.
+
+#### 6.2.3.1 Immigration
+
+Le taux d’immigration a considérablement varié dans le passé en raison de l’évolution des attitudes à l’égard de l’immigration, des conditions socioéconomiques différentes, de considérations politiques, d’événements mondiaux affectant les réfugiés et de nombreux autres facteurs. La pandémie de COVID-19 a significativement réduit l’immigration en 2020 et en 2021, mais cette dernière a repris en 2022 avec des chiffres supérieurs à la normale. Les cibles du gouvernement pour 2023 sont également plus élevées que d’habitude. En raison de la variation des taux historiques d’immigration, il est très difficile d’utiliser les tendances passées pour prédire l’avenir.
+
+Dans le RA31, on prévoit une baisse graduelle de l’immigration au cours de la prochaine décennie, jusqu’à l’atteinte d’un état stable en 2033. Cet état stable est basé sur la moyenne historique des dix dernières années avant la pandémie de COVID-19 (c.-à-d. de 2010 à 2019).
+
+Le BAC fournit plusieurs raisons qui pourraient expliquer des niveaux d’immigration plus élevés ou plus bas que les niveaux historiques. Nous croyons toutefois que quatre facteurs déterminants sont susceptibles de faire grimper les niveaux d’immigration futurs :
+
+1. Il faut de 20 à 30 ans avant qu’une baisse de l’indice de fécondité se manifeste par une réduction du nombre de Canadiens en âge de travailler. La baisse de l’indice de fécondité au cours des dernières décennies et la retraite imminente des baby-boomers signifient que l’immigration devra sans doute jouer un rôle plus important dans le maintien d’une population en âge de travailler suffisante.
+2. Selon les projections, le taux de croissance de la population totale, qui est d’environ 1,0 % par an, devrait diminuer pour atteindre un taux d’environ 0,5 % par an d’ici 2050. Il est raisonnable de supposer qu’un recours accru à l’immigration pourrait être utilisé pour maintenir le taux de croissance de la population autour de 1,0 % par année.
+3. Les prévisions relatives à la population indiquent que le ratio entre la population en âge de travailler (de 20 à 64 ans) et la population plus âgée (65 ans et plus) devrait passer de 3,3 en 2022 à 1,9 en 2100. On peut raisonnablement supposer qu’une augmentation de l’immigration pourrait atténuer cette importante diminution.
+4. Les récentes annonces du gouvernement concernant son plan d’immigration pour assurer la croissance de l’économie canadienne, avec ses cibles de 465 000 résidents permanents en 2023, 485 000 en 2024 et 500 000 en 2025, pourraient avoir une incidence considérable sur les niveaux d’immigration et le RPC.
+
+**Recommandation 5 :** Bien que les politiques d’immigration soient d’ordre politique, et donc de nature volatile, nous recommandons au BAC de consacrer plus de temps et de ressources à la compréhension des tendances passées et des attentes futures en matière d’immigration afin de soutenir les hypothèses sur les taux d’immigration après 2024. L’ensemble des hypothèses pointent vers un ralentissement de la croissance de la population au fil du temps. Nous recommandons d’établir s’il est raisonnable de s’attendre à ce qu’une hausse de l’immigration soit une solution pour mettre fin à ce ralentissement de la croissance et relever les défis liés à la pénurie de main-d’œuvre.
+
+#### 6.2.3.2 Émigration
+
+L’hypothèse relative aux taux d’émigration et la façon dont elle a été établie sont raisonnables.
+
+#### 6.2.3.3 Résidents non permanents
+
+De façon générale, le nombre de résidents non permanents a augmenté chaque année entre 1995 et 2019. Il a cependant diminué en temps de pandémie de COVID-19, puis a repris à la hausse une fois cette dernière terminée. Les deux plus importantes catégories de résidents non permanents sont les étudiants internationaux et les travailleurs temporaires (dans le cadre de différents programmes).
+
+Les mouvements de résidents non permanents ne sont pas bien compris et, par conséquent, difficiles à prévoir. Il n’y a pas de doute qu’il existe un lien entre les résidents non permanents et l’immigration, puisqu’un certain nombre de résidents non permanents finissent par devenir des immigrants. Étant en grande proportion des étudiants internationaux, les résidents non permanents sont susceptibles d’être plus jeunes et mieux éduqués que les immigrants qui entrent directement au pays. Il est donc important de comprendre la dynamique des résidents non permanents pour non seulement refléter correctement les cotisations et les dépenses qui leur sont associées, mais aussi pour comprendre les caractéristiques des futurs immigrants.
+
+**Recommandation 6 :** Nous recommandons que le BAC consacre plus de temps à l’élaboration de l’hypothèse relative aux résidents non permanents. Avant la pandémie de COVID-19, le nombre de résidents non permanents connaissait une croissance considérable, et nous recommandons la tenue d’une analyse plus approfondie afin de soutenir l’hypothèse selon laquelle le nombre net de résidents non permanents demeurerait sensiblement le même dans l’avenir. Nous recommandons également que le BAC approfondisse sa compréhension des effets que pourraient avoir les résidents non permanents sur l’immigration future, y compris sur le nombre d’immigrants et les caractéristiques des futurs immigrants.
+
+#### 6.2.3.4 Migration interprovinciale
+
+Les niveaux de migration interprovinciale anticipés ne sont pas substantiels, et nous les considérons comme étant raisonnables.
+
+**Opinion sur l’hypothèse de migration :** À notre avis, les taux de migration nette utilisés dans le cadre du RA31 sont raisonnables.
+
+### 6.3 Hypothèses économiques
+
+#### 6.3.1 Population active
+
+La population active est projetée de façon implicite par l’entremise des hypothèses relatives aux taux d’activité, aux taux de création d’emplois et aux taux de chômage. Les taux d’activité de la population active sont déterminés par tranches d’âge de cinq ans et par sexe.
+
+Le BAC a accordé une attention particulière à l’élaboration de taux d’activité appropriés pour chaque tranche d’âge de la population active, en fournissant son raisonnement et des données à l’appui. De manière générale, les taux d’activité devraient augmenter pour chaque groupe d’âge à mesure que les pénuries de main-d’œuvre s’aggravent, principalement en raison du vieillissement des baby-boomers. L’hypothèse par sexe prévoit une diminution graduelle de l’écart entre le taux d’activité des hommes et des femmes, tout en supposant qu’un écart persistera à l’avenir.
+
+L’hypothèse relative à la création nette d’emploi au Canada est établie de façon à ce que le taux de chômage prévu de 7,5 % en 2021 diminue pour atteindre 5,7 % en 2023 en raison de la reprise après la pandémie de COVID-19 avant de remonter graduellement pour atteindre la projection ultime de 6,1 % pour 2027 et les années subséquentes. Cela correspond à diverses prévisions économiques et reflète une croissance modérée de l’économie.
+
+Nous sommes en grande partie d’accord avec les hypothèses liées à la population active, y compris en ce qui a trait aux taux d’activité, aux taux de création d’emplois et aux taux de chômage. Le seul point qui soulève des préoccupations concerne les taux d’activité des travailleurs âgés.
+
+Nous sommes d’avis que les progrès réalisés en matière de santé et d’espérance de vie, la perspective d’un marché du travail plus restreint liée à la retraite des baby-boomers, les avancées technologiques qui facilitent l’accomplissement des tâches, ainsi que la tendance à repousser l’âge de la retraite observée dans d’autres pays pousseront les travailleurs à demeurer sur le marché du travail plus longtemps. Cette tendance commence déjà à se manifester au Canada et dans plusieurs autres pays. Nous prévoyons aussi que de nombreux Canadiens prendront graduellement leur retraite et continueront à travailler à temps partiel. Ces facteurs viendront changer les attentes sociales bien ancrées à l’égard de la retraite anticipée. Une combinaison de ces éléments risque de se traduire par une hausse considérable des taux d’activité des Canadiens de plus de 55 ans, en particulier de ceux de plus de 60 ans. Nous notons que le RA31 tient en effet compte de facteurs mentionnés plus haut et de la hausse des taux d’activité des travailleurs âgés qui en découlerait. Nous restons toutefois d’avis que l’hypothèse pourrait être étayée par des recherches et des analyses supplémentaires.
+
+**Recommandation 7 :** Nous recommandons au BAC de se pencher davantage sur les hypothèses relatives aux taux d’activité des travailleurs âgés. Les conditions socioéconomiques actuelles et futures pourraient faire en sorte que davantage de travailleurs âgés demeurent sur le marché du travail plus longtemps que prévu. Cette interprétation est corroborée par les tendances récentes dans les taux d’activité, par la comparaison des taux d’activité au Canada avec ceux de pays semblables, par la tendance à repousser l’âge de la retraite observée dans le monde et par l’effet des pénuries de main-d’œuvre.
+
+**Opinion sur les hypothèses relatives à la population active :** À notre avis, les taux d’activité, de création d’emplois et de chômage utilisés dans le cadre du RA31 sont raisonnables.
+
+#### 6.3.2 Augmentations des prix
+
+L’hypothèse du taux d’augmentation des prix est nécessaire dans le cadre de l’évaluation actuarielle du RPC, puisque les cotisations, le versement des prestations et le rendement des investissements sont tous influencés par l’inflation.
+
+Au cours du XXe siècle, l’inflation au Canada a été extrêmement volatile, avec de longues périodes d’inflation très élevée et de longues périodes d’inflation très faible. Au XXI siècle (ou, du moins, avant 2020 et la pandémie de COVID-19), le taux d’inflation annuel au Canada a été maintenu avec un succès remarquable dans une fourchette de ±1 % de la cible de 2 % de la Banque du Canada.
+
+Cependant, la pandémie de COVID-19 et la guerre en Ukraine ont fait augmenter de manière significative le taux d’inflation. C’est pourquoi le BAC fonde ses hypothèses sur des taux d’inflation nettement plus élevés pour 2022 (6,9 %) et légèrement plus élevés pour 2023 à 2025, en supposant que la Banque du Canada renouvellera son engagement en matière d’inflation cible (2 % par an, avec une fourchette de 1 % à 3 %). L’actuaire en chef a donc utilisé, dans le RA31, l’hypothèse d’un taux d’inflation de 2,0 % à compter de 2026.
+
+Nous notons que cette hypothèse concorde avec les prévisions de nombreux économistes et avec les taux d'inflation implicites des obligations à rendement réel. De plus, les renseignements obtenus nous portent à croire que le système actuel à l’égard des prix demeurera en place encore longtemps et qu’il n’y a aucune raison de s’attendre à ce que la cible actuelle de 2 % par année soit modifiée.
+
+**Opinion sur l’hypothèse d’augmentation des prix :** À notre avis, les taux d’inflation utilisés dans le cadre du RA31 sont raisonnables.
+
+#### 6.3.3 Augmentations des salaires réels
+
+L’augmentation des salaires a une incidence à la fois sur les cotisations et sur les prestations initiales au titre du RPC. L’inflation influe sur l’augmentation ultérieure des prestations. L’hypothèse d’augmentation des salaires est partagée en deux : l’hypothèse d’inflation (mentionnée plus haut) et l’hypothèse d’augmentation des salaires réels (c.-à-d. la part de l’augmentation des salaires qui est au-dessus de l’inflation).
+
+L’hypothèse d’augmentation des salaires réels repose sur cinq composantes de la croissance des salaires : la productivité, le ratio de rémunération; le ratio des gains, le nombre moyen d’heures de travail et l’écart de prix. Une analyse approfondie est effectuée pour déterminer l’hypothèse de meilleure estimation de chacune de ces composantes. La composante la plus importante est celle du taux de croissance de la productivité.
+
+Une croissance de la productivité du travail de 1,05 % est présumée à long terme dans le RA31. Cela correspond à peu près aux résultats des 20 à 30 dernières années et semble se situer au centre de la fourchette des prévisions des économistes et d’autres entités bien informées. Les autres composantes devraient être légèrement négatives, de sorte que la croissance des salaires réels à long terme devrait être de 0,9 % par an. L’hypothèse d’une augmentation annuelle de 0,9 % des salaires réels cadre avec l’opinion de nombreux économistes. Nous sommes cependant préoccupés par les effets des pénuries de main-d’œuvre actuelles et futures, et par la possibilité qu’elles fassent grimper les salaires.
+
+Le contexte actuel de forte inflation et un ralentissement économique imminent devraient exercer une pression à la baisse à court terme sur les salaires réels, d’autant plus que la hausse de l’inflation est en grande partie liée à des influences extérieures. Le RA31 reflète cette croissance plus faible que prévu de la productivité en présentant l’hypothèse d’une croissance des salaires réels de -2,4 % en 2022 et d’une hypothèse ultime à long terme de 0,9 % annuellement au cours des cinq prochaines années.
+
+**Opinion sur l’hypothèse d’augmentation des salaires réels :** À notre avis, les taux d’augmentation des salaires réels utilisés dans le cadre du RA31 sont raisonnables.
+
+#### 6.3.4 Taux de rendement réel des placements
+
+Comme un actif important est projeté pour le RPC de base et le RPC supplémentaire, le taux de rendement des placements devient un facteur important dans la détermination des taux de cotisation. En date du 31 décembre 2021, l’actif du RPC de base s’élevait à 544 milliards de dollars, alors que l’actif du RPC supplémentaire était de 11 milliards de dollars. L’actif des deux régimes devrait considérablement augmenter au cours des prochaines décennies.
+
+Comme dans le cas des hypothèses relatives à l’augmentation des revenus d’emploi et aux prestations, une partie du taux nominal prévu de rendement des placements est attribuable à l’inflation générale des prix. Dans la présente section, nous nous concentrons sur le taux de rendement réel, soit le taux de rendement au-delà de l’inflation.
+
+La stratégie de placement de l’OIRPC repose sur un portefeuille à deux catégories d’actifs, appelé « portefeuille de référence ». Le portefeuille de référence sert à déterminer le niveau de risque que l’OIRPC compte prendre; il se compose d’un indice de référence des actions mondiales et d’un indice de référence des obligations nominales du gouvernement du Canada.
+
+Le portefeuille de référence utilisé par l’OIRPC pour le RPC de base n’est pas le même que pour le RPC supplémentaire. Le portefeuille de référence du RPC de base est constitué à 85 % d’actions mondiales et à 15 % d’obligations à rendement nominal du gouvernement du Canada. Le portefeuille de référence du RPC supplémentaire est constitué à 55 % d’actions mondiales et à 45 % d’obligations à rendement nominal du gouvernement du Canada.
+
+Afin d’investir l’actif du RPC de base et du RPC supplémentaire selon leurs portefeuilles de référence respectifs, l’OIRPC a mis au point une structure à deux fonds de placement constituée d’un fonds de base et d’un fonds supplémentaire. Le fonds de base est un portefeuille diversifié d’actions, de titres à revenu fixe et d’actifs réels, tandis que le fonds supplémentaire est constitué de titres à revenu fixe. Le RPC de base est entièrement investi dans le fonds de base. Ainsi, le fonds de base présente les mêmes caractéristiques de risque que le portefeuille de référence utilisé pour le RPC de base. Le RPC supplémentaire est investi dans le fonds de base et le fonds supplémentaire, de sorte que le niveau de risque global est conforme à son portefeuille de référence.
+
+Au 31 décembre 2021, l’actif du RPC de base était composé à 55 % d’actions (29 % de sociétés ouvertes et 26 % de sociétés fermées), à 18 % de titres à revenu fixe (19 % d’obligations négociables, 4 % d’obligations non négociables, 16 % de crédit et -16 % de trésorerie) et à 22 % d’actifs réels. La trésorerie de -16 % constitue une créance utilisée à des fins d’effet de levier. Dans le RA31, pour le RPC de base, l’hypothèse de rendement réel de meilleure estimation, après les dépenses d’investissement, s’établit à -15,92 % en 2022, puis augmente de 2,91 % en 2023 pour atteindre une valeur ultime de 4,02 % à compter de 2040. C’est ainsi que le rendement réel moyen au cours de la période de projection de 75 ans devrait atteindre 3,69 % par année.
+
+En ce qui concerne le RPC supplémentaire, l’hypothèse de rendement réel de meilleure estimation, après les dépenses d’investissement, s’établit à -14,62 % en 2022, puis augmente à 1,87 % en 2023 pour atteindre une valeur ultime de 3,62 % à compter de 2040. C’est ainsi que le rendement réel moyen au cours de la période de projection de 75 ans devrait atteindre 3,27 % par année.
+
+Pour l’année 2022, l’hypothèse de meilleure estimation prend en compte l’événement subséquent reconnu en 2022, avec des rendements plus faibles étant établis en fonction des résultats réels jusqu’au 30 juin 2022. Nous appuyons la décision d’ajuster les taux de rendement pour 2022 en raison de cet événement subséquent.
+
+Les taux ultimes découlent d’une approche « modulaire » selon laquelle, en termes réels :
+
+* L’hypothèse de rendement des obligations à long terme du gouvernement du Canada est de 2,0 % par année à compter de 2033.
+* L’hypothèse de rendement réel des obligations négociables (fonds de base) est de 1,3 % par année à compter de 2035.
+* Le crédit, qui comprend les placements dans des obligations de sociétés, des titres de créance privés et des titres de créances immobilières privés, est réputé générer un rendement réel ultime de 2,2 % par année dans le fonds de base et de 2,9 % par année dans le fonds supplémentaire à compter de 2035.
+* Le taux de rendement réel total ultime des actions de sociétés ouvertes est de 4,2 % par année à compter de 2035.
+* Le taux de rendement réel total ultime des actions de sociétés fermées est de 5,1 % par année à compter de 2035.
+* L’hypothèse de rendement réel des actifs réels passe de 2,4 % en 2023 à une valeur ultime de 4,1 % à compter de 2035.
+
+Le BAC établit que l’actif du RPC de base au 31 décembre 2021 comporte 55 % d’actions, 23 % de titres à revenu fixe et 22 % d’actifs réels. Même si l’OIRPC n’a pas adopté de cibles à long terme pour la composition de l’actif, l’actuaire en chef suppose que la structure ultime sera la suivante : 50 % d’actions, 30 % de titres à revenu fixe et 20 % d’actifs réels. Dans le cadre de cette hypothèse, on présume que l’OIRPC choisira de réduire le risque associé à l’actif, puisque les revenus de placement représentent une part importante des produits.
+
+**Recommandation 8** **:** Nous recommandons la clarification, dans le rapport, des raisons pour lesquelles les hypothèses de rendement des placements futurs sont basées sur la politique de placement stratégique plutôt que sur la politique de placement de référence, étant donné que, en théorie, deux politiques de placement comportant les mêmes niveaux de risque devraient prévoir les mêmes hypothèses de rendement.
+
+**Recommandation 9 :** Nous recommandons au BAC d’approfondir sa recherche d’information et d’examiner ce que font d’autres grands régimes de retraite pour formuler ses hypothèses relatives aux taux d’actualisation, y compris les hypothèses sur les rendements par catégorie d’actifs, en tenant compte des différences de marges pour écarts défavorables, des dépenses d’investissement et de la valeur ajoutée par la gestion active.
+
+**Recommandation 10 :** Nous recommandons d’étoffer la justification fournie à l’égard de la diminution progressive des caractéristiques de risque liées au portefeuille de placements. Bien que nous soyons pour l’essentiel d’accord avec l’hypothèse d’élimination progressive des risques auxquels est exposé le portefeuille de placements, le calendrier et l’ampleur de l’élimination des risques sont peu clairs et ne sont pas suffisamment justifiés. Nous constatons également l’absence de politiques officielles en place pour aider l’actuaire en chef à mieux justifier cette hypothèse.
+
+**Opinion sur l’hypothèse de taux de rendement réel des placements :** À notre avis, les taux de rendement réel des placements utilisés dans le cadre du RA31 sont raisonnables.
+
+### 6.4 Autres hypothèses
+
+#### 6.4.1 Taux de retraite
+
+Les prestations du RPC (et, dans une moindre mesure, les cotisations versées au RPC) sont en fonction de l’âge auquel les participants commencent à recevoir leur pension du RPC. L’âge normal de la retraite en vertu du Régime est 65 ans, mais peut être devancé à 60 ans ou repoussé au plus à 70 ans.
+
+Les personnes qui choisissent de recevoir leur pension tout en continuant de travailler doivent continuer à cotiser au RPC (de même que leurs employeurs) jusqu’à l’âge de 65 ans, ce qui leur procurera des prestations proportionnellement plus élevées. Les retraités âgés de 65 ans à 70 ans qui travaillent peuvent choisir de cotiser au RPC; le cas échéant, leurs employeurs doivent en faire autant, ce qui augmentera leur prestation de façon proportionnelle.
+
+Le facteur d’ajustement mensuel à la baisse avant 65 ans est de 0,6 %, tandis que le facteur d’ajustement mensuel à la hausse après 65 ans est de 0,7 %. En vertu du paragraphe 115(1.11) du Régime de pensions du Canada, l’actuaire en chef doit recalculer ces facteurs d’ajustement et les présenter à tous les trois rapports actuariels triennaux. Ces taux ont paru pour la dernière fois dans l’Étude actuarielle no 18, Facteurs d’ajustement actuariel du Régime de pensions du Canada, publiée en avril 2017. D’après cette étude, les facteurs d’ajustement pour retraite anticipée (0,6 %) et pour retraite différée (0,7 %) ont été jugés appropriés à l’époque. Il n’est pas nécessaire que ces facteurs soient examinés dans le cadre du RA31.
+
+Bien que l’on s’attendait à ce que ces facteurs d’ajustement incitent les participants à demander leurs prestations à un âge plus avancé, l’élimination du critère de cessation d’emploi y a fait contrepoids dans une certaine mesure. Si les résultats concordent avec l’hypothèse sur les taux de retraite, nous estimons que plusieurs Canadiens commenceront à percevoir leurs prestations au titre du RPC tout en continuant à travailler. C’est probablement plus tôt que cela ne devrait l’être, compte tenu des répercussions fiscales d’une retraite anticipée.
+
+Nous croyons que les Canadiens et leurs planificateurs financiers saisiront progressivement mieux l’intérêt de reporter le début des prestations du RPC. Comme ils travailleront jusqu’à un âge plus avancé et qu’ils comprendront mieux les conséquences associées au fait de percevoir des prestations au titre du RPC tout en continuant à travailler, les Canadiens risquent, selon nous, de retarder le moment où ils toucheront leur pension du RPC. Bien que les effets financiers d’un tel changement de comportement ne soient pas considérables (les facteurs d’ajustement sont équivalents sur le plan actuariel), nous encourageons le BAC à se pencher davantage sur cette hypothèse et de, peut-être, prévoir un plus grand nombre de participants qui reporteront le début du versement des prestations.
+
+**Opinion sur les taux de retraite :** À notre avis, les taux de retraite utilisés dans le cadre du RA31 sont raisonnables.
+
+#### 6.4.2 Incidence de l’invalidité et de la cessation des prestations
+
+Les taux d’incidence de l’invalidité (c.-à-d. le nombre de nouveaux cas d’invalidité par rapport à la population admissible) sont utilisés pour calculer le nombre de nouveaux bénéficiaires de prestations d’invalidité pour chaque année de projection. Ils sont obtenus en multipliant la population par le taux d’admissibilité aux prestations d’invalidité et le taux d’incidence pour une année, un âge et un sexe donné. L’hypothèse relative au taux d’incidence de l’invalidité est la même pour le Régime de base et le Régime supplémentaire.
+
+Les taux d’incidence de l’invalidité ont été établis à partir de données extraites du fichier central des prestations de Service Canada en février 2022 et de statistiques tirées des bulletins statistiques mensuels d’Emploi et Développement social Canada (EDSC) sur le RPC et la SV.
+
+À l’exception des années les plus récentes (2019-2021), les taux d’incidence de l’invalidité sont relativement stables pour les deux sexes depuis la fin des années 1990. Une certaine volatilité des taux a cependant été observée pour la période de 2019 à 2021, mais elle est imputable à des facteurs administratifs et liés à la pandémie de COVID-19.
+
+En 2021, les taux d’incidence de l’invalidité correspondaient à 2,25 nouveaux cas par millier de travailleurs et à 2,98 nouveaux cas par millier de travailleuses. Le taux d’incidence de l’invalidité de 2021 pour les hommes représente une baisse substantielle par rapport aux résultats récents, et est l’un des plus bas taux historiques d’incidence de l’invalidité. Le taux d’incidence de l’invalidité de 2021 pour les femmes correspond aussi à une baisse substantielle par rapport aux résultats récents. Il n’a pas été aussi bas depuis 1999.
+
+Selon EDSC, le nombre de nouvelles demandes de prestations d’invalidité au titre du RPC soumises par les Canadiens a diminué d’environ 25 % en 2020 en raison de la pandémie de COVID-19. Cette baisse pourrait être attribuable à la disponibilité de la Prestation canadienne d’urgence (PCU), au nombre accru de Canadiens en télétravail et à la difficulté d’obtenir un rapport médical signé par un médecin (ce qui est exigé dans le cadre de ce processus de demande). Le volume réduit de nouvelles demandes s’est traduit par une baisse du nombre de cas d’invalidité au titre du RPC et de décisions prises en 2021. On suppose que la diminution du nombre de nouveaux cas d’invalidité était temporaire, car le nombre de demandes d’invalidité au titre du RPC est redevenu normal lorsque la pandémie de COVID-19 s’est résorbée.
+
+Dans le RA31, le taux global ultime d’incidence de l’invalidité a été établi à 2,90 pour les hommes et à 3,60 pour les femmes. Comme les valeurs globales en 2021 pour les hommes et pour les femmes étaient respectivement de 2,25 et de 2,98, on suppose que les valeurs ultimes de 2,90 et 3,60 seront progressivement atteintes cinq ans après 2021, soit en 2026. Dans le RA30, l’hypothèse pour les années à partir de 2020 était de 2,95 pour les hommes et de 3,65 pour les femmes, soit un peu plus que les taux d’incidence de l’invalidité présentés dans le RA31.
+
+Une autre hypothèse connexe de l’incidence de l’invalidité est la cessation de prestations des personnes qui touchaient des prestations d’invalidité. Les deux motifs de ces cessations sont le décès et le rétablissement. Dans le RA31, la mortalité des hommes qui reçoivent des prestations d’invalidité est légèrement plus élevée que dans le RA30 pour les moins de 40 ans, et les chiffres s’améliorent un peu après cet âge. Dans le RA31, la mortalité des femmes est légèrement plus élevée que dans le RA30 pour les jeunes et baisse un peu par la suite. Les hommes et les femmes se rétablissent un peu plus vite dans le RA31 que dans le RA30, mais la différence devient négligeable après l’âge de 47 ans.
+
+**Recommandation 11 :** Nous observons que l’incidence de l’invalidité pour le motif de santé mentale semble augmenter. Bien que la définition d’invalidité prévue au RPC puisse exclure certaines demandes liées à la santé mentale, nous recommandons, dans la foulée de la mise en œuvre du Plan d’action pour l’inclusion des personnes en situation de handicap du gouvernement du Canada et de son Pilier 1 – Sécurité financière, que cet enjeu soit surveillé de près afin d’établir si des changements conséquents aux hypothèses sur l’incidence de l’invalidité sont justifiés aux fins de l’évaluation du RPC.
+
+**Opinion sur l’incidence de l’invalidité et de la cessation des prestations :** À notre avis, les taux d’incidence de l’invalidité et de cessation des prestations utilisés dans le cadre du RA31 sont raisonnables.
+
+## 6.5 Autres facteurs à considérer
+
+### 6.5.1 Répartition des gains
+
+Des hypothèses démographiques sont utilisées pour projeter dans l’avenir la population actuelle et le nombre de travailleurs couverts. Cependant, l’évaluation repose en grande partie non sur le nombre de participants, mais plutôt sur le montant des gains couverts.
+
+Nous comprenons que le BAC a accès aux données sur les gains individuels, sauf que les gains sont plafonnés à 99 999 $. Ces données sont utilisées pour déterminer les moyennes par tranche d’âge de 5 ans et par sexe, mais elles tiennent seulement compte des gains allant jusqu’au MGAP (pour le RPC de base) et des gains allant jusqu’au MSGAP (pour le RPC supplémentaire). Le RA31 présente ces moyennes, mais l’évaluation réelle tient compte des distributions autour de ces moyennes. On suppose, en établissant les projections relatives aux gains futurs selon les hypothèses de meilleure estimation, que la distribution autour de ces moyennes reste constante.
+
+Les médias parlent beaucoup de l’inégalité des revenus et, en particulier, de l’écart grandissant entre les revenus les plus faibles et les plus élevés. Si cela est vrai pour les niveaux de revenus très élevés et très faibles, il est difficile de savoir si c’est aussi le cas pour les niveaux de revenus qui sont pertinents dans le cadre du RPC. Comme il s’agit d’un sujet très polarisant, l’ajout d’une hypothèse relative à l’élargissement ou à la réduction de l’écart entre les revenus les plus élevés et les plus faibles doit reposer sur des fondements solides.
+
+Dans le RA31, une des analyses de scénario tient compte d’un écart grandissant entre les revenus les plus élevés et les plus faibles. Cette analyse démontre que l’élargissement de l’écart pourrait avoir des effets négatifs sur le financement du RPC.
+
+**Recommandation 12 :** Nous recommandons au BAC de prendre davantage en compte l’hypothèse de la répartition des gains autour de la moyenne, dont l’importance risque de croître avec l’accumulation des années de service au titre du RPC supplémentaire.
+
+**Opinion sur la répartition des gains :** À notre avis, la méthode de projection de la répartition des gains utilisée dans le cadre du RA31 est raisonnable.
+
+#### 6.5.2 Charges d’exploitation du RPC
+
+Les charges d’exploitation du RPC comprennent les dépenses engagées par diverses entités gouvernementales pour gérer le RPC, mais excluent celles de l’OIRPC. Le RA31 comprend une projection des charges d’exploitation pour le RPC de base et le RPC supplémentaire, en dollars et en pourcentage de l’ensemble des gains.
+
+En se basant sur les données historiques et les prévisions d’EDSC, le BAC prévoit que les charges futures, exprimées en pourcentage du total des gains, seraient de 0,084 % pour le RPC de base (soit une légère diminution par rapport au récent niveau de charges), et de 0,031 % pour le RPC supplémentaire (soit une légère augmentation par rapport au niveau récent).
+
+**Opinion les charges d’exploitation du RPC :** À notre avis, l’hypothèse relative aux charges d’exploitation futures utilisée dans le cadre du RA31 est raisonnable.
+
+#### 6.5.3 Charges d’exploitation de l’OIRPC et valeur ajoutée attribuable à la gestion active
+
+Dans le RA31, les charges d’exploitation du RPC ne tiennent pas compte de celles de l’OIRPC, mais ces dernières sont déclarées comme affectées à l’actif de l’OIRPC et prises en compte séparément dans l’hypothèse des charges d’investissement. Nous appuyons cette façon de faire.
+
+Dans le RA31, on suppose que les charges annuelles de gestion des placements représenteront 0,95 % de l’actif de fonds de base. La gestion active compte pour 0,77 % de ces charges annuelles. Conformément à la pratique actuarielle au Canada, le RA31 reflète une hypothèse selon laquelle la valeur ajoutée par la gestion active correspondra exactement aux dépenses supplémentaires engagées pour appliquer cette stratégie de gestion active, c’est-à-dire qu’aucune valeur nette ajoutée n’est présumée gagnée ou perdue. Le rapport de l’examen par les pairs du RA30 présente une analyse détaillée des charges d’exploitation historiques de l’OIRPC et de la valeur ajoutée attribuable à la gestion active qui appuie cette hypothèse.
+
+Nous souscrivons à cette approche pour le moment et nous estimons qu’il est important de suivre de près la relation entre les rendements supplémentaires et les dépenses supplémentaires, de même que la répartition des dépenses entre le RPC de base et le RPC supplémentaire, dans le but d’améliorer cette hypothèse à l’avenir.
+
+**Opinion sur les charges d’exploitation de l’OIRPC et la valeur ajoutée attribuable à la gestion active :** L’hypothèse adoptée dans le RA31 selon laquelle la valeur ajoutée par la gestion active correspondra exactement aux dépenses supplémentaires encourues pour appliquer cette stratégie est, à notre avis, raisonnable.
+
+### 6.6 Hypothèses dans leur ensemble et opinion à leur sujet
+
+Les hypothèses actuarielles de l’actuaire en chef traduisent ses meilleures estimations et sont établies à la lumière des résultats antérieurs et de son jugement quant à l’orientation probable des résultats futurs. En ce qui concerne la plupart des hypothèses, il y a une grande marge de manœuvre pour le jugement de l’actuaire et la fourchette des valeurs pouvant être considérées comme raisonnables peut être très large. Nous concluons notre examen des principales hypothèses actuarielles en affirmant que chacune d’entre elles se situe dans une fourchette raisonnable.
+
+Malgré tout, nous mettons le lecteur en garde, car, vu l’ampleur de la fourchette des hypothèses raisonnables, il en va de même de celle des résultats d’évaluation raisonnables. Les analyses de sensibilité du RA31 présentent des plages de résultats plausibles, mais les résultats réels pourraient être en dehors des résultats projetés à coût plus bas et à coût plus élevé.
+
+**Opinion sur les hypothèses dans leur ensemble :** À notre avis, les hypothèses utilisées pour produire le RA31 sont raisonnables dans leur ensemble.
+
+## Section 7 – Analyses de sensibilité et de scénarios
+
+À la base, l’évaluation mesure la situation financière du RPC en utilisant les hypothèses les plus probables. L’annexe E comprend des renseignements sur l’incertitude des résultats. Cela comprend la sensibilité aux variations de résultats, la sensibilité aux changements dans les hypothèses actuarielles individuelles et les analyses de scénarios associés à des événements macroéconomiques qui pourraient se produire.
+
+**Recommandation 13 :** Nous recommandons que chaque analyse de sensibilité fasse état non seulement de l’effet sur le taux de cotisation minimum (TCM), le premier taux de cotisation minimal supplémentaire (PTCMS) et le deuxième taux de cotisation minimal supplémentaire (DTCMS), mais également de l’ampleur du changement nécessaire à une hypothèse pour que les taux susmentionnés viennent à dépasser les taux de cotisation prévus par la loi. Par exemple, quelle devrait être la croissance des salaires réels pour que le TCM dépasse le taux de cotisation prévu par la loi au titre du RPC de base?
+
+**Recommandation 14 :** Nous recommandons au BAC de communiquer, dans son rapport, plus d’informations sur la probabilité globale que les taux de cotisation prévus par la loi soient insuffisants pour couvrir le financement des prestations. Bien que l’information recueillie au moyen des analyses de sensibilité individuelles soit pertinente et utile, elle peut amener le lecteur à avoir un excès de confiance envers la situation financière du RPC, puisque la plupart de ces analyses ne concluent pas à l’insuffisance des taux de cotisation prévus par la loi. L’ajout de commentaires faisant état de la forte possibilité d’une combinaison de certains scénarios défavorables pour des hypothèses non liées qui, le cas échéant, aboutirait à une insuffisance des taux de cotisation prévus par la loi permettrait au lecteur de mieux mesurer le risque global. Le rapport pourrait donner des exemples de telles combinaisons se traduisant par des taux de cotisation insuffisants.
+
+### 7.1 Résultats de placement pour la période entre les évaluations
+
+#### 7.1.1 RPC de base
+
+Il y a deux analyses de sensibilité associées au rendement des placements :
+
+1. un choc ponctuel correspondant à une perte ou à un gain lié à l’investissement (de 10 % à 20 %);
+2. une prévision stochastique montrant les probabilités pour le TCM à la prochaine évaluation triennale si le seul élément de résultats qui diffère des prévisions est celui lié aux investissements.
+
+Les résultats de ces analyses de sensibilité sont utiles au lecteur. Il est notamment intéressant de savoir qu’une perte ponctuelle de 20 % au titre des placements rapprocherait fortement le TCM du taux de prévu par la loi et que la probabilité que le TCM dépasse le taux prévu par la loi lors de la prochaine évaluation est de 16 % (en supposant qu’il n’y a pas d’autres gains ou pertes au titre des placements et qu’il n’y a pas de changements en ce qui concerne les hypothèses actuarielles). Ces risques ne sont pas négligeables et constituent des renseignements précieux pour le lecteur.
+
+Nous nous demandons si le tableau 111 présente une valeur similaire, étant donné que les scénarios à coût plus élevé et à coût plus bas ne sont pas applicables à l’heure actuelle.
+
+#### 7.1.2 RPC supplémentaire
+
+L’information est basée sur une sensibilité similaire pour le RPC supplémentaire. Cependant, l’actif du RPC supplémentaire étant limité, les tests sont effectués sur 20 ans.
+
+Nous saluons la tentative du BAC de fournir des informations supplémentaires, mais nous nous interrogeons sur l’intérêt de présenter des informations sur la sensibilité en tenant compte de la variabilité dans 20 ans. L’information présentée ne fait qu’indiquer que le RPC supplémentaire présente actuellement peu de risques liés à l’investissement, mais qu’il devrait en présenter davantage à l’avenir. On ignore pour le moment ce que ce niveau de risque « plus élevé » représente.
+
+### 7.2 Analyse de sensibilité
+
+Le rapport présente des analyses de sensibilité pour les hypothèses clés. Nous estimons que les hypothèses retenues pour les analyses de sensibilité étaient appropriées. Des commentaires sur chacune des analyses de sensibilité sont fournis ci-dessous.
+
+#### 7.2.1 Fécondité
+
+En règle générale, plus l’indice de fécondité prévu est élevé, meilleure sera la situation financière du RPC de base, puisqu’il devrait y avoir plus de futurs cotisants pour financer le passif au titre de services passés du RPC de base. Le contraire est également vrai quand l’indice de fécondité prévu est moins élevé. L’effet de tels changements sur le RPC supplémentaire est minimal, puisqu’il n’y a pas vraiment de passif non capitalisé. Nous approuvons la décision d’entreprendre une analyse de sensibilité de l’indice de fécondité pour le RPC de base seulement.
+
+La fourchette choisie pour l’analyse de sensibilité est en grande partie basée sur la fourchette des valeurs récemment observées dans les pays du G7. Les analyses de sensibilité reposent sur un indice de fécondité ultime à coût plus bas de 1,84 pour le Canada et sur un taux ultime à coût plus élevé de 1,24 (par rapport à l’hypothèse d’indice synthétique de fécondité de 1,54). Bien que cette fourchette puisse être justifiée sur la base des résultats d’autres pays du G7, nous pensons qu’il s’agit d’un écart très important et qu’il est peu probable que les résultats réels diffèrent dans une telle mesure. Nous acceptons tout de même les scénarios présentés.
+
+#### 7.2.2 Mortalité
+
+Des échelles d’amélioration de la mortalité (une pour les hommes et une pour les femmes) sont utilisées pour projeter dans le futur l’hypothèse relative aux taux de mortalité. Si les taux de mortalité s’améliorent plus rapidement que prévu, les participants vivront plus longtemps et la situation financière du RPC de base et du RPC supplémentaire sera pire que ce qu’indique l’évaluation. Le contraire est également vrai si les taux de mortalité s’améliorent moins rapidement que prévu.
+
+La fourchette utilisée pour l’analyse de sensibilité relative à l’échelle d’amélioration de la mortalité consiste à supposer que les améliorations ne se matérialiseraient pas (les espérances de vie à 65 ans en 2050 seraient inférieures d’environ 2 ans) ou qu’elles seraient meilleures que prévu (les espérances de vie à 65 ans en 2050 seraient supérieures d’environ 2 ans). Cet écart se traduit par une diminution du TMC de 9,54 % à 9,17 % dans le scénario d’espérance de vie la plus faible et par une augmentation du TMC de 9,54 % à 9,86 % dans le scénario d’espérance de vie la plus élevée.
+
+Étant donné le degré élevé d’incertitude entourant l’hypothèse relative à la mortalité et, en particulier, les taux futurs d’amélioration des taux de mortalité, il est essentiel de comprendre la sensibilité des résultats et, dans la mesure du possible, de les étudier de manière plus approfondie. À mesure que de nouvelles données et tendances se dégagent au niveau mondial, y compris sur les progrès en matière de médecine et de traitements, il serait utile d’approfondir l’analyse pour mieux cerner les taux de mortalité et d’amélioration de la mortalité qui pourraient se traduire par une insuffisance des cotisations.
+
+#### 7.2.3 Migration
+
+L’analyse de sensibilité n’a été effectuée que pour le RPC de base. Comme l’hypothèse relative aux taux de migration n’est pas particulièrement significative, aucune analyse de sensibilité n’a été effectuée pour le RPC supplémentaire. Nous sommes d’accord avec cette approche. Nous pensons également que les fourchettes présentées pour le scénario à coût plus élevé et le scénario à coût plus bas sont appropriées.
+
+#### 7.2.4 Inflation
+
+Les analyses de sensibilité relatives à cette hypothèse prévoient un scénario à coût plus élevé, selon lequel le taux ultime d’augmentation des prix est de 1,0 %, et un scénario à coût plus bas, qui prévoit un taux ultime de 3,0 %. Il est courant de montrer la sensibilité aux conditions économiques en faisant varier les taux supposés de 1 %, c’est pourquoi nous estimons que l’analyse de sensibilité pour le taux d’inflation est appropriée.
+
+#### 7.2.5 Augmentations des salaires réels
+
+Les analyses de sensibilité pour cette hypothèse supposent une variation de 0,6 % du taux prévu de croissance des salaires réels, qui a été déterminé à partir des résultats globaux d’autres pays du G7. Nous pensons que cette fourchette est appropriée.
+
+Étant donné que les variations du taux d’augmentation des salaires réels se traduisent à la fois par une baisse des cotisations et une baisse des prestations, les résultats peuvent être contre-intuitifs et cette analyse de sensibilité est donc particulièrement utile.
+
+#### 7.2.6 Taux de rendement réel moyen des actifs sur 75 ans
+
+Les analyses de sensibilité pour cette hypothèse ont été réalisées avec une approche stochastique; le scénario à coût plus élevé étant celui qui se situe au 90e percentile et le scénario à coût plus bas étant celui qui se situe au 10e percentile. Comme le risque lié à l’investissement est moins élevé pour le RPC supplémentaire que pour le RPC de base, cette approche a fait varier les rendements plus fortement pour le Régime de base que pour le Régime supplémentaire.
+
+Il s’agit de loin de l’analyse de sensibilité la plus volatile. Dans le scénario à coût plus élevé, les taux de cotisation minimaux sont nettement supérieurs aux taux de cotisation prévus par la loi, tant pour le RPC de base que pour le RPC supplémentaire.
+
+Bien que nous soyons d’accord avec la manière dont cette analyse de sensibilité a été réalisée, nous notons que les 5e et 95e percentiles sont souvent considérés comme la fourchette des résultats probables dans le cadre des analyses de sensibilité stochastiques relatives à la volatilité des investissements. Il ressort de cette analyse de sensibilité que le risque d’investissement est le risque le plus important auquel fait face le RPC.
+
+#### 7.2.7 Invalidité
+
+L’analyse de sensibilité n’a été effectuée que pour le RPC de base et uniquement en ce qui a trait à l’incidence de l’invalidité avant la retraite. Aucune analyse de sensibilité n’a été effectuée pour le RPC supplémentaire, puisque l’hypothèse de l’incidence de l’invalidité avant la retraite n’est pas particulièrement significative. Aucune analyse de sensibilité n’a été effectuée pour la prestation d’invalidité après retraite, car il s’agit d’une prestation relativement nouvelle et il n’existe pas encore de résultats crédibles sur lesquels fonder l’hypothèse. Nous sommes d’accord avec la décision d’effectuer une analyse de sensibilité des taux d’incidence de l’invalidité uniquement pour les prestations d’invalidité avant la retraite et le RPC de base.
+
+Si les taux d’invalidité sont plus élevés que prévu, le coût du RPC sera plus important, car les prestations seront plus élevées et les cotisations plus faibles. Le contraire est également vrai si les taux d’invalidité sont plus bas que prévu.
+
+Les analyses de sensibilité relatives à cette hypothèse reposent sur un taux ultime de 1,90 nouveau cas d’invalidité par millier de travailleurs admissibles et de 2,60 nouveaux cas par millier de travailleuses admissibles selon le scénario à coût plus bas. Pour le scénario à coût plus élevé, on passe à un taux ultime de 3,90 pour les hommes et de 4,80 pour les femmes. L’hypothèse de meilleure estimation prévoit un taux ultime de 2,90 pour les hommes et de 3,60 pour les femmes. Selon le scénario à coût plus bas, le TCM diminue à 9,31 et, selon le scénario à coût plus élevé, il augmente à 9,76.
+
+Bien que la fourchette des taux d’incidence de l’invalidité utilisée semble appropriée, elle repose sur le maintien de la définition actuelle de l’invalidité dans le cadre du RPC. La hausse des taux d’invalidité liée à la santé mentale et le Plan d’action pour l’inclusion des personnes en situation de handicap pourraient conduire à une modification de la définition de l’invalidité. L’incidence de l’invalidité risque donc d’augmenter. Nous recommandons au BAC de faire preuve de diligence en passant en revue les causes associées à l’incidence de l’invalidité.
+
+### 7.3 Analyse de scénarios
+
+En plus des analyses de sensibilité relatives aux différentes hypothèses, le RA31 comprend des renseignements financiers pour quatre scénarios alternatifs.
+
+#### 7.3.1 Croissance économique plus forte et plus faible
+
+Le RA31 présente l’effet de deux scénarios déterministes de croissance économique future sur le TCM et le TCMS de meilleure estimation. Ces scénarios ne sont pas issus des prévisions économiques sur le PIB, mais plutôt de la modification des hypothèses de meilleure estimation relatives aux taux d’activité, aux taux de chômage, aux taux de départ à la retraite et à l’augmentation des salaires réels. Il aurait été utile d’illustrer l’incidence de la modification de ces hypothèses sur la croissance du PIB.
+
+Les hypothèses relatives à l’immigration n’ont pas changé, bien que l’on puisse s’attendre à ce que la croissance économique future affecte les décisions politiques en matière d’immigration. L’effet aurait été plus marqué si elles avaient été modifiées.
+
+L’analyse montre séparément l’effet de la modification des hypothèses pour l’augmentation du salaire réel, bien qu’il soit difficile de voir comment différents scénarios de croissance économique n’affecteraient pas l’augmentation du salaire réel.
+
+L’analyse présente une fourchette très plausible, tant pour le TCM (entre 9,11 % et 10,12 %) que pour le PTCMS (entre 1,73 % et 2,34 %) et le DTCMS (entre 6,92 % et 9,36 %).
+
+Nous trouvons cette analyse très utile, car elle montre qu’une augmentation des cotisations au-delà des taux prévus par la loi est tout à fait plausible et que les décideurs doivent être prudents avant de proposer des améliorations.
+
+#### 7.3.2 Modification des répartitions des gains et des personnes qui ont des gains d’emploi
+
+Dans le RA31, une des analyses de scénario tient compte d’un écart grandissant entre les revenus les plus élevés et les plus faibles. Le scénario basé sur la meilleure estimation suppose que la répartition par niveau des gains et des personnes qui ont des gains d’emploi demeurera stable avec le temps. Notamment, la même augmentation du salaire nominal est appliquée à toutes les personnes qui ont des gains d’emploi, indépendamment de leur niveau de gains.
+
+Dans l’avenir, le schéma d’augmentation des gains par niveau peut changer en fonction de l’évolution du profil de la population active. Les nouvelles technologies, l’automatisation, les pénuries de main-d’œuvre et l’évolution des compétences requises sont autant de facteurs susceptibles d’influencer la répartition des gains et des personnes qui ont des gains d’emploi. Ces facteurs pourraient entraîner l’augmentation de l’écart entre les revenus plus faibles et ceux plus élevés.
+
+Dans le scénario envisagé, au lieu d’avoir des augmentations salariales uniformes pour toutes les personnes qui ont des gains d’emploi sur la période de projection, il est présumé que des augmentations salariales différentes seront versées jusqu’en 2045 en fonction du niveau de gains. Après 2045, des augmentations salariales uniformes alignées sur l’hypothèse basée sur la meilleure estimation sont appliquées. Cette analyse démontre que l’élargissement de l’écart pourrait avoir des effets négatifs sur le financement du RPC, en faisant passer le TCM de 0,34 % à 9,88 %.
+
+Comme indiqué dans la [section 4](#4.0) du présent rapport, nous suggérons au BAC de procéder à une analyse plus détaillée de la répartition des gains des cotisants au RPC et de l’évolution de cette répartition dans le temps. Dans la [section 6.5.1](#6.5.1), nous recommandons au BAC de prendre davantage en compte l’hypothèse de la répartition des gains autour de la moyenne, dont l’importance risque de croître avec l’accumulation des années de service au titre du RPC supplémentaire.
+
+#### 7.3.3 Stagflation
+
+Nous félicitons le BAC d’avoir inclus un scénario relatif à la stagflation dans le RA31. Avant 2021, très peu de gens prédisaient le retour de la stagflation. Cependant, en raison des événements de 2020 et de 2021, un tel scénario est devenu une possibilité bien réelle.
+
+Nous pensons que la stagflation a été correctement modélisée. Nous sommes notamment d’accord avec l’hypothèse qu’elle mènerait à une période prolongée (jusqu’à 10 ans) d’augmentation du chômage, de ralentissement de la croissance du salaire réel et de baisse du rendement des investissements. Bien qu’une baisse du rendement des investissements puisse avoir des conséquences pour le RPC, les pénuries de main-d’œuvre et une croissance plus faible du salaire réel compenseraient largement cette baisse, de sorte que la période de stagflation n’aurait qu’un effet modéré sur le TCM. Cette information est rassurante pour le lecteur.
+
+Nous encourageons le BAC à sortir des sentiers battus à chaque évaluation en tenant compte de l’environnement économique actuel et en élaborant des scénarios plausibles aux fins d’analyse future.
+
+#### 7.3.4 Changements climatiques
+
+Les scénarios relatifs aux changements climatiques qui sont présentés dans le RA31 ne sont que des exemples parmi d’autres scénarios possibles. Nous recommandons au BAC de continuer à étudier l’incidence des changements climatiques sur les hypothèses pertinentes, comme une possible baisse des salaires réels, des cotisations futures, des taux d’intérêt et du rendement des actions et autres placements. Certains des effets sur les rendements futurs peuvent déjà avoir été reflétés dans les attentes du marché actuel et dans le prix des actifs. Le BAC devrait prendre en compte ces attentes du marché. Nous espérons que les travaux futurs seront suffisamment crédibles pour permettre au BAC d’intégrer ces effets aux hypothèses de meilleure estimation.
+
+Nous sommes heureux que le BAC ait inclus ces analyses de scénarios dans le rapport, car elles donnent une bonne indication de certains des risques qui pèsent sur le RPC.
+
+Nous estimons que l’illustration de scénarios alternatifs ajoute une valeur considérable à l’examen actuariel. C’est pourquoi nous recommandons au BAC d’envisager l’utilisation d’autres scénarios alternatifs, qui pourraient intégrer des éléments clés des hypothèses économiques et démographiques sur une base multivariable avec cohérence interne.
+
+Les événements récents en lien avec la pandémie de la COVID-19 montrent l’importance des analyses de sensibilité multifactorielles du RPC. Les bouleversements à ce jour illustrent les interrelations et la forte corrélation de certains des facteurs démographiques, économiques et d’investissement dans des conditions extrêmes. Bien que ces conditions soient impossibles à prévoir de façon exacte, leur utilisation dans l’élaboration de scénarios illustre la valeur de ces analyses pour évaluer la viabilité du RPC. Ces analyses peuvent également aider à établir les valeurs employées dans les analyses de sensibilité du programme.
+
+Nous estimons que les analyses de sensibilité et de scénarios sont très utiles lorsqu’elles sont utilisées de manière adéquate. Elles permettent au lecteur d’évaluer les répercussions financières de la modification d’une hypothèse basée sur la meilleure estimation. Elles soulignent également qu’en raison de l’incertitude entourant toute projection, les résultats fondés sur la meilleure estimation ne se transformeront pas en réalité, en plus de souligner l’importance des principales hypothèses utilisées.
+
+Cependant, le lecteur doit interpréter avec prudence l’information fournie sur les variations probables des hypothèses. Plus particulièrement, le lecteur doit savoir que les résultats réels peuvent varier davantage que ne le montrent les analyses de sensibilité et de scénarios, et que la probabilité d’obtenir des résultats en dehors de la fourchette indiquée pourrait même être supérieure à ce qui est présenté. Cette situation résulte de l’imprévisibilité et des interrelations entre certaines hypothèses clés plutôt que d’une lacune dans l’analyse de l’actuaire en chef.
+
+**Recommandation 15 :** Nous recommandons au BAC d’examiner plus en détail la possibilité de futurs changements socioéconomiques importants. De tels changements pourraient être pris en compte dans les hypothèses actuelles ou les analyses de sensibilité. L’évaluation reflète un monde futur et un pays qui ne changeront pas de manière significative, mais la réalité pourrait être différente. Compte tenu de l’horizon à long terme de l’évaluation, nous recommandons de mieux définir les répercussions possibles sur le RPC des changements significatifs à l’environnement socioéconomique.
+
+**Recommandation 16 :** Nous recommandons au BAC de suivre l’évolution des scénarios de changements climatiques, notamment auprès de sources crédibles telles que l’Association actuarielle internationale (AAI), l’Institut canadien des actuaires (ICA), la Banque du Canada et le Bureau du surintendant des institutions financières Canada (BSIF). Les scénarios de changements climatiques présentés dans le RA31 sont des exemples parmi d’autres scénarios possibles. Nous recommandons au BAC de continuer à travailler sur les effets des changements climatiques sur les hypothèses pertinentes, telles que la diminution éventuelle des salaires réels, des cotisations futures, des taux d’intérêt et des rendements sur les actions et autres placements. Certains des effets sur les rendements futurs peuvent déjà avoir été reflétés dans les attentes du marché actuel et dans le prix des actifs. Le BAC devrait prendre en compte ces attentes du marché. Nous espérons que les travaux futurs seront suffisamment crédibles pour permettre au BAC d’intégrer ces effets aux hypothèses de meilleure estimation.
+
+## Section 8 – Communication des résultats
+
+Dans la présente section, nous répondons à la question suivante :
+
+« Le 31e Rapport actuariel communique-t-il fidèlement les résultats des travaux effectués par l’actuaire en chef et ses collaborateurs? »
+
+### 8.1 Contexte
+
+Le RA31 est un rapport public. Divers renseignements à l’appui sont publiés sur le site Web du BSIF. Les documents de travail utilisés pour préparer le RA31, qui donnent un aperçu exhaustif de la méthodologie et des hypothèses ayant servi à établir les projections, sont fournis à tous les gouvernements provinciaux et offerts sur demande au public. Nous croyons que l’information contenue dans le RA31 et les autres documents à l’appui est suffisante pour qu’un lecteur comprenne l’analyse de façon complète.
+
+### 8.2 Observations
+
+Le RA31 renferme une foule de détails, un sommaire complet et de nombreux tableaux et graphiques utiles. Les conclusions générales y sont clairement énoncées.
+
+Le RA31 s’adresse au public en général et aussi à un auditoire plus technique. Le public s’intéresse principalement aux résultats généraux de l’évaluation actuarielle. L’auditoire plus technique, qui regroupe notamment des actuaires, des économistes, des démographes et des analystes des politiques, est intéressé aux détails plus précis sur les dispositions, les données, les méthodes, les hypothèses, les projections démographiques et les projections financières.
+
+L’actuaire en chef est consciente que l’auditoire se divise en deux groupes; elle a présenté les résultats généraux dans la partie principale, et elle a inséré le contenu plus technique dans les annexes. Par conséquent, la forme du rapport demeure un compromis : le rapport contient davantage de détails que n’en réclame le grand public, et moins que ne le souhaiterait un lecteur spécialisé.
+
+Nous nous attendons à ce que l’actuaire en chef continue d’améliorer la présentation du rapport d’évaluation actuarielle et son contenu en prévision des rapports futurs. Par exemple, d’autres graphiques pourraient être fournis pour illustrer plusieurs autres aspects de ce sujet complexe. L’actuaire en chef peut s’inspirer du rapport actuariel sur le Régime de rentes du Québec du 31 décembre 2021 et des rapports actuariels d’autres régimes de retraite importants pour améliorer la présentation visuelle du rapport.
+
+Nous croyons également qu’un certain nombre d’années de données historiques doivent être ajoutées dans plusieurs des tableaux contenus dans le rapport pour permettre au lecteur de mieux comprendre les tendances en cause. Parallèlement, certains tableaux, comme le tableau 7, pourraient être raccourcis en excluant les données de certaines années individuelles.
+
+**Recommandation 17 :** Nous recommandons au BAC de poursuivre ses efforts afin de rendre la présentation des résultats de l’évaluation plus conviviale, notamment en recourant plus souvent à des graphiques et à des illustrations.
+
+**Opinion sur la communication des résultats :** À notre avis, le RA31 communique fidèlement les résultats des travaux exécutés par l’actuaire en chef et ses collaborateurs.
+
+## Signatures
+
+Le présent rapport a été préparé conformément à la pratique actuarielle reconnue au Canada, et il est respectueusement soumis le 5 mai 2023 par :
+
+* Stephen Butterfield, FICA
+* Michel St. Germain, FCIA, FSA
+* Jill Wagman, FCIA, FSA, Président
+
+## Annexe A
+
+### **Réponses du Bureau de l’actuaire en chef aux recommandations du comité d’examen indépendant du RA30**
+
+Cette section présente les opinions et les recommandations du comité de pairs indépendants chargé d’examiner le RA30, de même quel les mesures correspondantes qui ont été prises ou qui seront prises par le BAC.
+
+### A.1. Expérience professionnelle
+
+Opinion et recommandation du comité d’examen par les pairs.
+
+**Opinion :** L’expérience professionnelle de l’actuaire en chef et de ses collaborateurs qui ont participé à la préparation du RA30 est suffisante pour exécuter les travaux requis.
+
+**Recommandation 1 :** Nous recommandons au BAC de consacrer de plus en plus de ses activités de perfectionnement professionnel continu aux questions liées aux investissements et à la modélisation.
+
+**Mesures prévues par le BAC en réponse à la recommandation 1 :** En réponse à cette recommandation et avant d’amorcer le RA31, le BAC a engagé un expert-conseil en placements pour l’aider à perfectionner ses méthodes d’élaboration d’hypothèses d’investissement à long terme aux fins d’établissement d’hypothèses de placements pour les rapports actuariels sur le RPC. L’expert-conseil est un Fellow de l’Institut canadien des actuaires, de même qu’un analyste financier agréé (CFA) avec plus de 40 ans d’expérience combinée dans les domaines de l’actuariat et de l’investissement. Il a rencontré des représentants de l’OIRPC et des membres de l’équipe du BAC pour acquérir une compréhension approfondie du cadre d’investissement de l’OIRPC et du processus d’établissement d’hypothèses du BAC. Son constat général : le processus d’établissement des hypothèses du BAC est rigoureux et le niveau de recherches effectuées va au-delà de ce qu’il a pu observer dans d’autres organisations semblables. L’expert-conseil a préparé un rapport comprenant des recommandations et des domaines de recherche qui pourrait permettre d’améliorer le processus d’établissement d’hypothèses du BAC. Certaines des recommandations ont été mises en œuvre dans le cadre du RA31 et d’autres le seront dans de futurs rapports. L’expert-conseil a travaillé en étroite collaboration avec des membres du BAC tout au long du projet. Ses recommandations sont basées sur des recherches menées en grande partie par des membres de l’équipe du BAC. L’expert-conseil a également rencontré des membres de l’équipe du BAC sur une base hebdomadaire pour discuter de divers sujets relatifs aux investissements.
+
+Entre le RA30 et le RA31, le BAC a recensé les employés qui avaient un intérêt pour la réalisation de travaux liés aux investissements ou de l’expérience en matière de travaux de ce type. Ces employés, tant du secteur de la sécurité sociale que du secteur des régimes de retraite du BAC, ont participé à divers projets d’investissement au cours des deux dernières années. Ils enrichissent leur expertise en matière d’investissement et travaillent en équipe. Un actuaire, détenant aussi le titre de CFA, a été engagé pour diriger ce groupe d’employés et agir en tant que spécialiste de l’investissement pour le bureau. L’objectif est d’établir une unité spécialisée en placement pour que le BAC continue d’approfondir sa connaissance des questions touchant les placements et qu’elle la diffuse efficacement dans l’ensemble du Bureau.
+
+Enfin, le personnel du BAC a assisté de façon régulière à des webémissions professionnelles portant sur des questions liées aux placements. Les membres de l’équipe sont invités à assister aux colloques de l’Institut canadien des actuaires sur les pensions et les placements, ainsi qu’à écouter toute webémission pertinente.
+
+### A.2. Exigences professionnelles et réglementaires
+
+Opinion et recommandation du comité d’examen par les pairs.
+
+**Opinion :** À notre avis, les travaux relatifs au RA30 ont été effectués conformément aux normes de pratique professionnelle et aux exigences réglementaires applicables.
+
+**Recommandation 2 :**  Nous recommandons que la gestion du modèle actuariel soit progressivement améliorée en documentant rigoureusement ce dernier et en préparant du matériel de formation approprié. En outre, à plus long terme, nous recommandons au BAC d’envisager de moderniser le modèle afin d’utiliser un langage de programmation plus actuel, ce qui non seulement renforcera sa capacité d’attirer des talents provenant d’un plus grand bassin de programmeurs et d’actuaires qualifiés, mais permettra également de mettre le modèle à jour plus facilement et de faire en sorte que celui-ci traite des ensembles de données plus vastes et plus complexes à mesure qu’ils seront disponibles.
+
+**Mesures prévues par le BAC en réponse à la recommandation 2 :** Le BAC a entrepris un projet de documentation rigoureuse de son modèle d’évaluation, y compris de ses programmes et processus pour effectuer les évaluations. Un expert-conseil a été embauché pour documenter le processus en détail. Le responsable de ce projet au sein du BAC a 27 ans d’expérience avec le système Actucan. La version définitive du projet de documentation est presque prête et devrait être terminée avant le prochain rapport triennal. La documentation produite servira de matériel de formation ou de référence pour le personnel du BAC.
+
+Le BAC ne compte pas remplacer son modèle d’évaluation (Actucan) par un autre logiciel, parce qu’il n’y a pas de logiciel disponible sur le marché qui remplacerait avantageusement Actucan. En outre, il existe des risques importants liés à l’adoption d’un nouveau logiciel. Même si un logiciel de remplacement adéquat était disponible sur le marché, il faudrait qu’il ait fait ses preuves, c’est-à-dire que son utilisation soit répandue, que sa fiabilité ait été démontrée et qu’il fasse l’objet de mises à jour régulières. Le logiciel à la base du système Actucan (Fortran) satisfait encore à tous ces critères. Le BAC aurait besoin de solides arguments pour démontrer l’utilité de remplacer Actucan par un autre logiciel.
+
+Même s’il n’a pas l’intention de remplacer Actucan, le BAC prévoit apporter des améliorations aux systèmes en périphérie d’Actucan, notamment en ce qui a trait à la préparation des données, à l’interface utilisateur et à l’automatisation de l’utilisation des résultats. En outre, le projet de documentation en cours comprendra des ressources sur Fortran, comme des guides et des vidéos.
+
+### A.3. Données
+
+Opinion et recommandation du comité d’examen par les pairs.
+
+**Opinion :** À notre avis, l’actuaire en chef a eu accès aux données dont elle avait besoin pour effectuer l’évaluation et elle a procédé aux analyses et aux tests pertinents sur les données, comme on pouvait s’y attendre.
+
+**Recommandation 3 :** Nous recommandons au BAC de poursuivre les travaux avec les fournisseurs de données afin de régler des points sur la liste des priorités d’amélioration des données.
+
+Plus précisément, nous recommandons :
+
+* d’éliminer le plafond de 99 999 $ au titre des gains d’emploi auprès d’un même employeur dans le registre des gains;
+* d’obtenir, le cas échéant, une confirmation d’audit concernant les données sous-jacentes utilisées comme intrants clés pour l’élaboration des hypothèses.
+
+**Mesures prévues par le BAC en réponse à la recommandation 3 :** Le BAC continue de travailler avec ses fournisseurs de données afin de régler des points sur la liste des priorités d’amélioration des données.
+
+1. Registre des gains fourni par Service Canada - Élimination du plafond de 99 999 $ au titre des gains d’emploi auprès d’un même employeur
+
+   Le BAC a poursuivi la discussion sur cette question avec Service Canada après le RA30. Service Canada a informé le BAC que sa capacité à traiter les demandes de changement était limitée; la priorité étant accordée aux grands projets relatifs au programme de transformation du RPC (y compris l’amélioration du RPC) et de la SV en cours jusqu’en 2024-2025. De plus, comme l’a déjà signalé Service Canada, l’augmentation du plafond de 99 999 $ dans le registre des gains serait une opération très complexe, puisqu’il y aurait des répercussions sur les transferts de données, les rapports et la correspondance. Service Canada déclare que les discussions se poursuivent avec ses partenaires afin de déterminer la meilleure approche et le meilleur moment pour augmenter le plafond des gains dans le fichier. Pour l’instant, cette question n’est donc pas résolue. → Non résolu
+2. Confirmation d’audit des données utilisées pour les évaluations
+
+   Le BAC a demandé à EDSC de lui transmettre ses documents annuels concernant l’attestation de la qualité des données dans le fichier du registre des gains et le fichier central des prestations, ce qu’EDSC fait depuis 2021.
+
+### A.4. Méthodologie
+
+Opinion et recommandations du comité d’examen par les pairs, et mesures prévues par le BAC.
+
+**Opinion :** À notre avis, les méthodes actuarielles utilisées dans le RA30 étaient raisonnables.
+
+**Recommandation 4 :** Compte tenu de l’incertitude liée aux résultats économiques et démographiques futurs, nous recommandons d’analyser deux autres scénarios : (1) un scénario d’investissement « à la japonaise », c’est-à-dire un scénario basé sur la poursuite à long terme de faibles taux d’intérêt réels des obligations fédérales à long terme et (2) un scénario tenant compte de facteurs démographiques, économiques et d’investissement, comme ceux caractérisant la pandémie de la COVID-19. D’autres scénarios pourraient également être étudiés.
+
+**Mesures prévues par le BAC en réponse à la recommandation 4 :** Le BAC a réfléchi longuement à la façon d’illustrer l’incidence de divers facteurs sur la viabilité du Régime. En plus des analyses de sensibilité fondées sur des hypothèses clés, le RA31 comprend des scénarios de croissance économique plus forte et plus faible. Ces scénarios, même s’ils ne se rapportent pas à des situations précises, mettent en évidence la multitude des facteurs pouvant justifier un écart entre la meilleure estimation et la croissance économique à long terme réelle au Canada. Les facteurs mentionnés sont de nature très variée et comprennent des conflits géopolitiques comme le conflit actuel en Ukraine, des crises sanitaires comme la pandémie de COVID-19, des événements météorologiques extrêmes attribuables aux changements climatiques, le calendrier et le rythme de transition vers une économie verte, le rythme des avancées technologiques et de l’innovation, l’application de politiques mondiales sur le protectionniste ou la mondialisation ainsi que les pressions démographiques causées par le vieillissement de la population.
+
+La section relative aux placements de l’annexe sur l’incertitude des résultats du RA31 a également été passée en revue. Cette section tente d’illustrer, de manière plus explicite que dans les rapports précédents, la sensibilité des taux de cotisation minimaux aux résultats de placement pour la période entre les évaluations.
+
+Le RA31 comprend aussi une section consacrée à l’évaluation et l’illustration des risques à la baisse dus à des tendances potentielles ou nouvelles (pour le Régime de base uniquement). Bien que les scénarios présentés à cet endroit ne fassent pas office de prévisions, ils sont tout de même utiles pour comprendre les risques auxquels le Régime pourrait être exposé. À cette fin, trois risques à la baisse ont été pris en considération : l’écart grandissant entre les revenus les plus faibles et les plus élevés, la stagflation et les changements climatiques.
+
+Le scénario de stagflation présenté dans le RA31 tient compte des conséquences sur l’économie et les placements d’une période de chômage élevé et d’inflation sans ancrage découlant des répercussions en constante évolution de la pandémie et de l’escalade du conflit en Ukraine. Pour les scénarios de changements climatiques dans le RA31, les effets sur le taux de croissance du PIB de trois transitions hypothétiques vers une économie faible en carbone sont analysés pour évaluer l’incidence potentielle sur le TCM du Régime de base.
+
+**Recommandation 5 :** Nous recommandons à l’actuaire en chef de continuer à faire davantage appel à la contribution de spécialistes pour l’aider à établir les hypothèses actuarielles basées sur la meilleure estimation et l’étendue de la variabilité examinée dans les analyses de sensibilité. Plus précisément, l’actuaire en chef devrait consulter des spécialistes en démographie, en économie et en placements au sujet des principales hypothèses et de l’étendue plausible de leur variabilité qui correspond à peu près à un intervalle de confiance de 80 %. L’actuaire en chef devrait tenir compte du point de vue de ces spécialistes, mais demeurer responsable des hypothèses finales retenues.
+
+**Mesures prévues par le BAC en réponse à la recommandation 5 :** Les représentants du BAC et de Statistique Canada se sont réunis pour discuter des hypothèses démographiques du BAC. Les observations générales de Statistique Canada indiquent que les hypothèses du BAC sont raisonnables. Le BAC consulte aussi, sur une base continue, des pairs de l’Administration américaine de la sécurité sociale et le Régime de rentes du Québec (RRQ) au sujet de divers sujets, y compris les tendances démographiques. Le BAC travaille en collaboration avec le RRQ pour élaborer l’enquête sur les hypothèses de l’Association internationale de la sécurité sociale, qui recueille des informations sur les hypothèses utilisées pour les programmes de sécurité sociale dans le monde entier.
+
+En ce qui concerne les hypothèses économiques, le BAC continue de tenir compte des prévisions économiques provenant de plusieurs sources, notamment le Conference Board du Canada, l’Université de Toronto, le ministère fédéral des Finances et les grandes banques canadiennes.
+
+Comme mentionné plus haut dans la réponse à la recommandation 1, le BAC a engagé un expert-conseil en placements pour l’aider à perfectionner ses méthodes d’élaboration d’hypothèses d’investissement à long terme aux fins d’établissement d’hypothèses de placements pour les rapports actuariels sur le RPC. Un actuaire, détenant le titre professionnel de CFA, s’est par la suite joint à l’équipe du BAC pour soutenir les efforts en cours et agir en tant que spécialiste permanent en matière de placements pour le bureau. Le BAC maintiendra le contact avec les experts en placement et continuera de discuter avec eux.
+
+Le BAC continuera aussi d’organiser ses colloques triennaux sur le RPC, dans le cadre desquels des experts en démographie, en économie et en placement sont invités à venir présenter leurs prévisions à long terme. Le dernier colloque du BAC sur le RPC a eu lieu virtuellement en septembre 2021. Le personnel du BAC continuera d’assister aux colloques de Retraite Québec sur les perspectives à long terme en ce qui a trait au RRQ. Le dernier colloque sur le RRQ auquel a assisté le personnel du BAC s’est déroulé virtuellement en octobre 2021. Les colloques sur le RRQ ont lieu régulièrement et sont utiles au BAC, puisque des projections pour le Québec sont requises dans le cadre des évaluations actuarielles du RPC. Du matériel de présentation des colloques du RPC et du RRQ est disponible sur le site web du BSIF à l’adresse : [Colloques interdisciplinaires](/fr/bac/seminaires-interdisciplinaires-du-bac "Séminaires interdisciplinaires du BAC") .
+
+Comme pour les rapports antérieurs, le BAC tiendra compte de toutes les sources d’information mentionnées précédemment lors de l’établissement des hypothèses de meilleure estimation, des hypothèses utilisées pour les analyses de sensibilité et des hypothèses associées aux scénarios à coût plus bas et à coût plus élevé dans le rapport actuariel du RPC.
+
+L’avis d’experts externes sera pris en considération, mais l’actuaire en chef demeura ultimement responsable des hypothèses et de la méthodologie.
+
+### A.5. Hypothèses dans leur ensemble
+
+Opinion et recommandation du comité d’examen par les pairs.
+
+**Opinion :** À notre avis, les hypothèses utilisées pour produire le RA30 sont raisonnables dans leur ensemble.
+
+**Recommandation 6 :** En ce qui concerne l’établissement de l’hypothèse du taux de rendement réel, nous recommandons à l’actuaire en chef :
+
+* de continuer d’améliorer le degré de sophistication de son modèle de placement pour qu’il corresponde davantage au portefeuille de placements de l’OIRPC;
+* d’examiner la rapidité et la période de transition vers le rendement ultime attendu dans le contexte des opinions des experts en placements;
+* de suivre de près la répartition des dépenses entre le RPC de base et le RPC supplémentaire dans le but d’affiner cette hypothèse à l’avenir;
+* d’examiner l’hypothèse du recours à l’effet de levier dans le contexte de l’orientation stratégique de l’OIRPC concernant le recours à l’effet de levier et le risque qui en découle.
+
+**Mesures prévues par le BAC en réponse à la recommandation 6 :** Comme mentionné précédemment, le BAC a engagé un expert-conseil en placements pour l’aider à perfectionner ses méthodes d’élaboration d’hypothèses d’investissement à long terme aux fins d’établissement d’hypothèses de placements pour les rapports actuariels sur le RPC. Pour le RA31, l’expert-conseil a étudié les méthodes actuellement utilisées par le BAC pour développer les hypothèses de placements et a proposé des changements. Dans le but d’accroître la finesse du modèle d’investissement du BAC pour le RPC et de mieux refléter la stratégie d’investissement de l’OIRPC, certaines de ces recommandations, y compris la mise à jour des modèles d’évaluation des obligations souveraines de marchés développés, du crédit et des actions des marchés développés, ont été adoptées.
+
+Le BAC a aussi retenu les services d’un analyste financier agréé (CFA). Cette personne est non seulement aussi actuaire, mais elle a une expérience appréciable des services-conseils en matière de placements et de retraite. En tant que responsable de l’unité interne de placement au sein du BAC, son objectif est d’aider le BAC à demeurer au fait des tendances et à améliorer continuellement son processus d’établissement des hypothèses.
+
+La répartition des charges entre le RPC de base et le Régime supplémentaire continuera à faire l’objet d’un suivi au fur et à mesure que de nouvelles informations seront disponibles. Enfin, reconnaissant l’importance de l’effet de levier dans le cadre de la stratégie d’investissement actuelle de l’OIRPC, le RA31 tient compte d’un certain effet de levier dans la composition finale supposée des actifs.
+
+### A.6. Communication des résultats
+
+Opinion et recommandation du comité d’examen par les pairs.
+
+**Opinion :** À notre avis, le RA30 communique fidèlement les résultats des travaux exécutés par l’actuaire en chef et ses collaborateurs.
+
+**Recommandation 7 :** Nous recommandons à l’actuaire en chef de continuer d’améliorer le contenu et l’accessibilité des rapports actuariels futurs. Par exemple, il conviendrait de publier un fichier distinct sur le site web pour fournir un sommaire à l’intention des personnes qui ne consultent pas l’ensemble du rapport, d’utiliser davantage de graphiques pour illustrer d’autres éléments afin d’améliorer la compréhension par le lecteur des principaux facteurs liés au rapport, et d’inclure un certain nombre d’années de données historiques pour aider le lecteur à comprendre les principales tendances en cause.
+
+**Mesures prévues par le BAC en réponse à la recommandation 7 :** Dans le RA31, la section Sommaire a été remplacée par la section Faits saillants du rapport (trois pages seulement) qui, sous la forme d’un tableau, présente les grandes lignes du rapport au lecteur. Un document infographique d’une page résumant les faits saillants du rapport a également été publié.
+
+Compte tenu de la taille des rapports actuariels sur le RPC, le BAC a choisi de ne pas inclure de graphiques supplémentaires dans le RA31. Par ailleurs, compte tenu du nombre et de la taille des tableaux dans le rapport, les années de données historiques qui figuraient avant les années de projection dans la plupart des tableaux ont été exclues. Pour les prochains rapports, le BAC réfléchira à la possibilité d’utiliser davantage de graphiques et d’ajouter des années de données historiques avant les années de projection dans les tableaux.
+
+Des informations supplémentaires concernant les rapports actuariels du RPC peuvent être mises à la disposition du public sur demande.
+
+### A.7. Autres questions liées au RA30
+
+Recommandations du comité d’examen par les pairs et mesures prévues par le BAC.
+
+**Recommandation 8 :** Nous recommandons à l’actuaire en chef de continuer d’analyser les charges d’investissement supplémentaires engagées au fil du temps pour exécuter la stratégie de gestion active de l’OIRPC, afin de déterminer si une valeur ajoutée est obtenue de façon constante et fiable à long terme.
+
+**Mesures prévues par le BAC en réponse à la recommandation 8 :** Conformément aux lignes directrices de l’Institut canadien des actuaires relatives à l’établissement du taux d’actualisation de meilleure estimation, on suppose dans le RA31 que les rendements supplémentaires obtenus grâce à la stratégie de gestion active de l’OIRPC (0,77 % pour le RPC de base et 0,52 % pour le RPC supplémentaire) seront égaux aux dépenses d’investissement engagées dans le cadre de cette stratégie. Cette hypothèse est émise pour le RA31 uniquement, car le BAC considère qu’il n’y a pas suffisamment de données probantes pour déterminer si la stratégie de gestion active de l’OIRPC génèrera de façon constante et fiable des rendements supplémentaires à long terme.
+
+Le BAC continuera d’analyser les charges d’investissement supplémentaires engagées à travers le temps pour l’implantation de la stratégie de gestion active de l’OIRPC, afin de déterminer si une valeur ajoutée est obtenue (ou non) de façon constante et fiable à long terme.
+
+**Recommandation 9 :** Nous recommandons à l’actuaire en chef de maintenir une communication efficace avec l’OIRPC et Statistique Canada dans le but d’améliorer continuellement le processus d’établissement d’hypothèses basées sur la meilleure estimation et de l’étendue de variabilité.
+
+**Mesures prévues par le BAC en réponse à la recommandation 9 :** Le BAC continue de communiquer efficacement avec l’OIRPC et Statistique Canada.
+
+Il est en contact régulier avec la Division de la démographie de Statistique Canada, et les deux bureaux connaissent bien les méthodes utilisées pour les projections démographiques respectives de chaque organisation.
+
+Les représentants du BAC et de l’OIRPC se sont réunis régulièrement au cours des trois dernières années pour discuter de la stratégie d’investissement de l’OIRPC et des perspectives d’investissement globales. La communication entre les deux organisations a permis d’améliorer l’échange d’information; le BAC a ainsi pu perfectionner le processus utilisé pour élaborer les hypothèses de placement et l’étendue de variabilité pour le RA31. L’OIRPC tire aussi avantage de cette relation. Il utilise les renseignements fournis par le BAC pour établir ses cibles de risque global et ses portefeuilles de référence. L’actuaire en chef et un directeur général de l’OIRPC ont fait une présentation devant un public international à deux occasions distinctes en 2022, soulignant l’importance d’une collaboration efficace entre les investisseurs et les actuaires et utilisant la relation entre le BAC et l’OIRPC comme exemple.
+
+## Liens utiles
+
+* [Communiqué](/fr/nouvelles/examen-independant-appuie-31e-rapport-actuariel-du-regime-pensions-du-canada-0 "Un examen indépendant appuie le 31e rapport actuariel du Régime de pensions du Canada")
+* [Opinion du Government Actuary's Department du Royaume-Uni](/fr/bac/examens-independants-pairs/opinion-du-government-actuarys-department-gad-du-royaume-uni-sur-revue-pairs-du-31e-rapport "Opinion du Government Actuary's Department (GAD) du Royaume-Uni sur la revue par les pairs du 31e rapport actuariel du RPC")
+
+Date de modification :
+:   2023-06-29
+
+Signaler un problème ou une erreur sur cette page

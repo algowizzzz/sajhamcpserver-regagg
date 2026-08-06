@@ -1,0 +1,1 @@
+Summary: # Politically exposed persons and heads of international organizations guidance for non-account-based reporting entity sectors : FINTRAC's compliance guidance

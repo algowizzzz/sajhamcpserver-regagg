@@ -1,0 +1,1 @@
+Summary: # Rapport annuel de 2026, conformément à la Loi sur la lutte contre le travail forcé et le travail des enfants dans les chaînes d’approvisionnement

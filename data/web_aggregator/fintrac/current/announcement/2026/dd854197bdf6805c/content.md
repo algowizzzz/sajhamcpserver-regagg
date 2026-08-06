@@ -1,0 +1,44 @@
+# Analyse comparative entre les sexes plus (ACS Plus) à CANAFE
+
+CANAFE reconnaît l’importance de l’analyse comparative entre les sexes Plus (ACS Plus) en tant que cadre essentiel pour favoriser l’inclusion et le traitement équitable de tous les intervenants. Bien que le mandat de CANAFE ne s’étende pas à l’élaboration de politiques ou de programmes publics destinés à la population en général, le Centre s’est engagé à intégrer les principes de l’ACS Plus dans ses activités opérationnelles.
+
+L’ACS Plus met l’accent sur la nécessité d’adopter une approche intersectionnelle pour promouvoir l’inclusion et réduire les obstacles au sein des systèmes, des programmes et des services du Centre. Par le passé, CANAFE a concentré ses efforts en matière d’ACS Plus sur les processus obligatoires, y compris l’évaluation des initiatives dans les présentations au Conseil du Trésor, ainsi que sur les activités liées à la diversité dans le plan d’action sur l’équité en matière d’emploi et le multiculturalisme du Centre.
+
+À la suite d’une évaluation des besoins et d’une analyse des lacunes, CANAFE a délimité l’ACS Plus du plan d’action sur l’équité en matière d’emploi et le multiculturalisme et a renforcé la capacité institutionnelle à mener et à mettre en œuvre des analyses intersectionnelles. Cette décision stratégique a non seulement renforcé l’importance de l’ACS Plus au sein du Centre, mais elle a également permis de mettre davantage l’accent sur l’analyse comparative entre les sexes et l’analyse intersectionnelle.
+
+## Gouvernance et renforcement des capacités institutionnelles en matière d’ACS Plus
+
+Pour promouvoir l’ACS Plus, CANAFE nomme un champion de l’ACS Plus au niveau de la direction, chargé d’accroître la sensibilisation et de souligner l’importance du cadre. Son rôle consiste à mener des campagnes, à faciliter les possibilités de formation et à mobiliser les réseaux interministériels. Le champion joue un rôle central au sein de l’organisation en promouvant l’ACS Plus et en soulignant tout particulièrement son applicabilité aux secteurs d’activité opérationnels.
+
+Conformément à son engagement de renforcer la capacité organisationnelle, CANAFE a désigné une nouvelle personne-ressource de l’ACS Plus au sein du secteur de la modernisation. Alors que le Centre poursuit son ambitieux projet de modernisation, le fait de placer la personne-ressource au sein de l’équipe responsable de la gestion du changement de l’organisation permet d’assurer que les considérations liées à l’ACS Plus sont intégrées dans le tissu organisationnel.
+
+La personne-ressource supervise l’intégration de l’ACS Plus au Centre, ce qui englobe le cadre ministériel, les directives, les outils, les ressources, les évaluations et les rapports. Elle participe activement aux réseaux interministériels et aux communautés de pratique.
+
+De manière à favoriser la sensibilisation et l’adoption dans l’ensemble de CANAFE, le champion et la personne-ressource de l’ACS Plus dirigent conjointement un groupe de travail composé de représentants de chaque secteur. Ce groupe contribue à l’élaboration d’outils et de ressources pour faciliter les analyses axées sur CANAFE, assure la liaison avec leurs secteurs respectifs et accroît la sensibilisation. Le groupe joue également un rôle dans le suivi continu des activités liées à l’ACS Plus et contribue à l’élaboration des rapports annuels et aux efforts d’évaluation.
+
+L’ACS Plus est intégrée à la structure de gouvernance plus large de CANAFE, avec des mises à jour régulières fournies au Comité consultatif de gestion et au Comité exécutif du Centre. Au cours de la période 2025-2026, le Centre prévoit d’officialiser l’intégration des considérations liées à l’ACS Plus dans ses processus de gouvernance.
+
+## Section 2 : Répercussions liées aux genres et à la diversité, par programme
+
+Responsabilité essentielle : Assurer la conformité à la législation et à la réglementation de lutte contre le blanchiment d’argent et le financement des activités terroristes
+
+Nom du programme : Conformité
+
+Objectifs du programme : CANAFE a pour responsabilité d’assurer la conformité avec la partie 1 et la partie 1.1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et les règlements connexes. Ce cadre juridique impose aux entités déclarantes l’obligation d’élaborer et de mettre en œuvre un programme de conformité afin de vérifier l’identité des clients, de contrôler les relations d’affaires, de tenir des documents et de déclarer certains types d’opérations financières. CANAFE exerce des mesures d’habilitation et d’application de la loi pour s’assurer que les entités déclarantes actives au sein du système financier canadien s’acquittent de leurs obligations en vertu de la Loi. Le programme de surveillance de CANAFE tient compte, dans une optique intersectionnelle, des impacts différenciés sur les entités réglementées qu’il examine.
+
+Plan de collecte de données ACS Plus : Les entités qui sont évaluées dans l’optique de l’ACS Plus s’appuient sur les données administratives des programmes, les statistiques du gouvernement du Canada et les renseignements de sources ouvertes, tous récupérés de façon ponctuelle et réactive. En 2025-2026, CANAFE cherchera à recueillir et à conserver un recueil de sources de données qui complètent le programme de conformité à l’appui de l’analyse intersectionnelle.
+
+Responsabilité essentielle : Production et communication de renseignements financiers
+
+Nom du programme : Renseignement financier
+
+Objectifs du programme : CANAFE est mandaté par la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) pour produire des renseignements financiers exploitables qui aident les services de police, les organismes d’application de la loi, les organismes de sécurité nationale et d’autres partenaires nationaux et internationaux du Canada à lutter contre le blanchiment d’argent, le financement du terrorisme et les menaces à la sécurité du Canada, tout en protégeant les renseignements personnels confiés à CANAFE. Le Centre produit également des renseignements financiers stratégiques à l’intention des décideurs et des responsables fédéraux, de la communauté de la sécurité et du renseignement, des entités déclarantes de tout le pays, des partenaires internationaux et d’autres intervenants.
+
+En élaborant des alertes opérationnelles pour informer les intervenants du contexte de certains crimes financiers, le programme de renseignements financiers de CANAFE tient compte de la façon dont certaines infractions sous-jacentes au blanchiment d’argent peuvent avoir des répercussions démesurées sur les victimes de groupes démographiques particuliers. De même, le programme de renseignements financiers tient compte des caractéristiques intersectorielles, telles que les attributs culturels et géographiques, lors de l’analyse et de la diffusion des renseignements stratégiques.
+
+Plan de collecte de données GBA Plus : Le cadre législatif et réglementaire de CANAFE précise les renseignements que CANAFE reçoit afin d’analyser, d’évaluer et de communiquer à l’appui des enquêtes sur le blanchiment d’argent et le financement des activités terroristes. Bien que les données administratives de ce programme puissent être utilisées pour établir des caractéristiques intersectionnelles, en particulier pour les produits de renseignements stratégiques, la portée des champs d’information est strictement limitée par la législation et la réglementation. Le programme ne dispose pas d’un programme actif de collecte de données et ne conserve pas suffisamment d’informations sur les microdonnées des bénéficiaires individuels. Pour compléter les sources de données existantes du programme, CANAFE cherchera plutôt d’autres sources de données accessibles au public, qui peuvent aider les évaluations à atteindre les objectifs du programme en matière d’ACS Plus.
+
+[Retour au Plan ministériel](dp-pm-fra#s5)
+
+Date de modification :
+:   2025-06-17

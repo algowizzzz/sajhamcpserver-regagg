@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="thumbnail" content="https://www.fsa.go.jp/images/fsa_thumbnail.png">
+<!--<PageMap>
+<DataObject type="thumbnail">
+	<Attribute name="src" value="https://www.fsa.go.jp/images/fsa_thumbnail.png"/>
+	<Attribute name="width" value="192"/>
+	<Attribute name="height" value="192"/>
+</DataObject>
+</PageMap>-->
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta data-navi="0">
+<title>Details of the Financial Se... : FSA</title>
+<link rel="stylesheet" href="/libs/css/reset.css">
+<link rel="stylesheet" href="/libs/css/format.css">
+<link rel="stylesheet" media="(max-width: 767px)" href="/libs/css/layout_sp.css?v=5">
+<link rel="stylesheet" media="(min-width: 768px)" href="/libs/css/layout_pc.css?v=5">
+<link rel="stylesheet" media="(max-width: 767px)" href="/libs/css/general_sp.css">
+<link rel="stylesheet" media="(min-width: 768px)" href="/libs/css/general_pc.css">
+<link rel="stylesheet" href="/libs/css/common.css?v=2">
+<link rel="stylesheet" href="/libs/css/ikou_fsa_en.css?v=3">
+<link rel="icon" type="image/png" href="/images/icon.png">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<!-- CMS006 -->
+<!-- 参照するjQueryのバージョンを変更 -->
+<script src="/libs/js/jquery-3.7.1.min.js"></script>
+<!-- CMS006 END -->
+<script src="/libs/js/navi_fsa_en.js?date=20191101"></script>
+<script src="/libs/js/navi_set.js?date=20170620"></script>
+<script src="https://cdn.cistate.io/frontend-translator/latest/fsa/translator.js" charset="UTF-8"></script>
+<!-- Google tag (gtag.js) START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JD08XY7G9K"></script>
+<script>
+if (location.pathname.indexOf("/preview/") != 0) {
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'G-JD08XY7G9K');
+}
+</script>
+<!-- Google tag (gtag.js) END -->
+</head>
+<body id="common" class="top en">
+
+<!-- noscript STRAT -->
+<noscript>
+<p id="noscript">For the complete experience, please enable JavaScript in your browser. </p>
+</noscript>
+<!-- noscript END -->
+
+<!-- header STRAT -->
+<header id="header" class="clearfix">
+<div class="inner">
+<p class="skiplinkbody"><a href="#main"><span>Link to Body</span></a></p>
+<span id="logo"><a href="/en/index.html"><img class="logo-fsa_e" src="/en/images/title_e.svg" width="341" height="47" alt="Financial Services Agency"/></a></span>
+<div id="sp_menu">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<button type="button" class="search" aria-expanded="false" aria-controls="spsearchPanel"><img src="/images/btn_search_sp.svg" alt=""/>Search</button>
+<button type="button" id="sp_sns_btn" class="sns-trigger" aria-expanded="false" aria-controls="snsMenu"><img src="/libs/images/sns.png" alt=""><span>SNS menu</span></button>
+<button type="button" id="sp_menu_btn" class="menu-trigger" aria-expanded="false" aria-controls="spMenu"><span>MENU</span></button>
+<!-- CMS006 END -->
+</div>
+<div id="header_menu">
+<div class="menu_box">
+<dl id="fontsize_box">
+<dt>Size</dt>
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dd id="fontChange">
+<button type="button" id="fontL" class="large">font Large</button>
+<button type="button" id="fontM" class="middle">font Middle</button>
+<button type="button" id="fontS" class="small">font Small</button>
+<!-- CMS006 END -->
+</dd>
+</dl>
+<button type="button" class="language_button" popovertarget="popover-from-ja-to-en" popovertargetaction="show" aria-controls="popover-from-ja-to-en"><img src="/libs/images/icon_lang_b.svg" alt=""><span>Language</span></button>
+<div id="popover-from-ja-to-en" popover="auto">
+    <div class="popover_window_body">
+        <ul>
+            <li>Global Site
+                <ul>
+                    <li><a href="/index.html" class="setLanguageJa">Japanese Site</a></li>
+                </ul>
+            </li>
+            <li><a href="/index.html" class="setLanguageEn">Machine translated English of Japanese Site</a></li>
+        </ul>
+    </div>
+    <div class="popover_window_header">
+        <button type="button" class="popover_window_button" popovertarget="popover-from-ja-to-en" popovertargetaction="hide">Close</button>
+    </div>
+</div>
+</div>
+<div class="search_sns_box">
+<!-- Google Search -->
+<div id="spsearchPanel" class="search_area" style="height:auto;">
+<form action="/en/search.html" id="cse-search-box" name="searchBox">
+<input type="hidden" name="cx" value="361aa989716c545fa">
+<input type="hidden" name="cof" value="FORID:9">
+<input type="hidden" name="ie" value="UTF-8">
+<label for="google" class="search_text_en">Site Search</label>
+<input type="text" name="q" class="ime-activ" id="google" >
+<input type="button" name="sa" id="sa" alt="Search" value="Search" onClick="submit();" style="font-size: 1em;">
+<input name="siteurl" type="hidden" value="www.fsa.go.jp/en/index.html"><input name="ref" type="hidden" value="www.fsa.go.jp/"><input name="ss" type="hidden" value="">
+</form>
+<img style="margin-left:90px" src="https://www.google.com/cse/static/images/1x/en/branding.png" alt="ENHANCED BY Google"/>
+</div>
+<!-- Google Search -->
+<div id="snsMenu" class="">
+<ul>
+<li><a href="https://x.com/JFSA_en" target="_blank"><img style="width:45px;" alt="Financial Services Agency official X(formely twitter) (open new window)" src="/libs/images/sns_btn_xb.png" /></a></li>
+<li><a href="https://www.youtube.com/channel/UCpIgZIDc-ptkZZTvzqlwGQg" target="_blank"><img style="width:45px;" alt="Financial Services Agency official YouTube (open new window)" src="/libs/images/sns_btn_youtube.png" /></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</header>
+<!-- header END -->
+
+<div id="conteinar">
+
+<!-- global_navi STRAT -->
+<nav id="global_navi" aria-label="global_navi">
+<ul>
+<li><a href="/en/index.html">HOME</a></li>
+<li><a href="/en/about/index.html">About FSA</a></li>
+<li><a href="/en/press_releases/index.html">Press Releases &amp; Public Relations</a></li>
+<li><a href="/en/policies_councils/index.html">Policies &amp; Councils</a></li>
+<li><a href="/en/laws_regulations/index.html">Laws &amp; Regulations</a></li>
+<li><a href="/en/regulated_institutions/index.html">Regulated Institutions</a></li>
+<li><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a></li>
+</ul>
+</nav>
+<!-- global_navi END -->
+
+<!-- content STRAT -->
+<article id="content">
+<div id="location">
+<ul>
+      <li class="home">
+      <a href="/en/index.html">HOME</a>
+    </li>
+  </ul>
+</div>
+
+<!-- main STRAT -->
+<div id="main">
+<p class="share-button"><a href="https://twitter.com/share" class="twitter-share-button" data-dnt="true" data-lang="en" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<div class="inner">
+<div class="navihidden">
+ <img width="1" height="1" alt="begin of the main contents" src="/en/images/common/space.gif">
+</div><a name="skip" id="skip"></a>
+<div align="right">
+ <table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse" bordercolor="#111111" width="320">
+  <tbody>
+   <tr>
+    <td><strong>Unofficial and Provisional Translation</strong><br>
+      Readers are advised to refer to the original Japanese text before quoting from this document.</td>
+   </tr>
+  </tbody>
+ </table>
+</div>
+<h1 class="a-center" style="margin-top:1.5em">Details of the Financial Services Agency<br>
+  No Action Letter System<sup><a name="01a" href="#01">*1</a></sup></h1>
+<p>The Financial Services Agency's ''no action letter'' system grew out of a March 27, 2001 Cabinet decision entitled ''Regarding the Introduction of Prior Confirmation Procedures on the Application of Laws and Regulations by Administrative Agencies,'' which stated that, ''With respect to fields experiencing the risk creation of new industries and new products and services, including information technology and finance, in order to increase a private enterprise's ability to predict whether a certain action would conflict with laws and regulations, administrative agencies will arrange so that a private-sector enterprise can inquire in advance as to the relationship between the action concerned and the provisions of certain laws and regulations. In addition, in order to ensure the fairness of administration and promote the increase of transparency, the contents of the inquiry concerned and the administrative agencies' responses will be made public.'' To this end, the Cabinet established guidelines with regard to the above fields, "...for procedures in which a private enterprise, etc. confirms in advance with the administrative agency having jurisdiction to enforce certain laws and regulations whether specific actions in connection with business activities that the enterprise, etc. seeks to realize are subject to the provisions of the regulations concerned, such agency responds, and the response is made public.''</p>
+<p>Based on this Cabinet decision, the Financial Services Agency (FSA) introduced a no action letter system on July 16, 2001. This system is detailed below.</p>
+<h2>1. Subject</h2>
+<p><strong>(1) Scope of Laws and Regulations Subject to the FSA No Action Letter System</strong></p>
+<p>The laws and regulations that are the subject of the FSA no action letter procedures are those laws over which the FSA has jurisdiction, and any regulations based on those laws. Inquiries regarding those laws and regulations should be in accordance with the March 27, 2001 Cabinet Decision (''Regarding the Introduction of Prior Confirmation Procedures on the Application of Laws and Regulations by Administrative Agencies''), meeting the aim of the Cabinet Decision, which was for agencies to have ''procedures in which a private enterprise, etc. confirms in advance with the administrative agency having jurisdiction to enforce certain laws and regulations whether specific actions in connection with business activities that the enterprise, etc. seeks to realize are subject to the provisions of the regulations concerned, such agency responds, and the response is made public.''</p>
+<table class="linenone" style="margin-left:1em">
+ <tbody>
+  <tr>
+   <td>i)</td>
+   <td>Cases where the provision concerned determines the basis for disposition of an application (this shall mean an application as defined in Article 2, Item 3 of the Administrative Procedures Law (Law No. 88, promulgated November 12, 1993)) and the act of violating the provision concerned is subject to penal provisions; or</td>
+  </tr>
+  <tr>
+   <td>ii)</td>
+   <td>Cases where the provision concerned determines the basis for identifying activities that require the notification of certain matters to administrative agencies and the act of violating the provision concerned is subject to penal provisions; or</td>
+  </tr>
+  <tr>
+   <td nowrap>iii)</td>
+   <td>Cases where the provision concerned determines the basis for unfavorable disposition (this shall mean an unfavorable disposition as defined in Article 2, Item 4 of the Administrative Procedures Law).</td>
+  </tr>
+  <tr>
+   <td nowrap>iv)</td>
+   <td>Cases where the provision concerned imposes obligations on private companies or restricts their rights directly, with or without unfavorable disposition, where the FSA finds it necessary.</td>
+  </tr>
+ </tbody>
+</table>
+<p><strong>(2) Publication of Subject Laws and Regulations -</strong> The FSA maintains on its website a list of its sections and the laws and regulations for which each section has jurisdiction. The FSA revises this list to reflect recent information.</p>
+<h2>2. Inquiries</h2>
+<p><strong>(1) Contact Point for Submission -</strong> Inquiries may be submitted to the Coordination Division of the Supervisory Bureau.<sup><a name="02a" href="#02">*2</a></sup>In cases when the inquiry is submitted to a local Finance Bureau, the Bureau will forward the inquiry to the Coordination Division of the Supervisory Bureau by fax immediately. The Coordination Division has to immediately accept the inquiry if it meets the requirements, and forward it to the section that has jurisdiction over the regulation in question.</p>
+<p style="margin-bottom:0"><strong>(2) Scope of Eligible Inquirers -</strong> The following individuals or entities may submit an inquiry to the FSA: the individual or legal entity (corporation or industry association/foundation) planning to introduce a new product or service and wishing to inquire about the applicability of the laws and regulations discussed in part 1.; a lawyer or other specialist representing the individual or entity planning to introduce a new product or service. In addition to submitting an inquiry that meets the requirements discussed in part 1.(3) below, an inquirer must also agree to the publication of the content of the inquiry, and the response thereto.</p>
+<p>(Caution)In cases when the inquirer is a legal entity, as a general rule the inquiry must be made in the name of an individual official of that entity. When an inquiry is submitted by a lawyer or other specialist on behalf of a client, the inquiry must also include the submission of a power of attorney letter. If that client is a corporation, the power of attorney must be in the name of an individual official of that entity. It is possible for specialists and corporation to submit a joint inquiry. In such a case, it is not necessary to submit a power of attorney letter.</p>
+<p>''Lawyer or other specialist'' refers to lawyers, CPAs, etc. or those possessing a high level of specialized knowledge with regard to the subject of the inquiry.</p>
+<p><strong>(3) Inquiry Content -</strong> All inquiries must be submitted in writing (including electronic means) and must meet the following requirements:</p>
+<table class="linenone" style="margin-left:1em">
+ <tbody>
+  <tr>
+   <td>i)</td>
+   <td>A description of the individual, specific facts relating to actions the enterprise seeks to take in the future;</td>
+  </tr>
+  <tr>
+   <td>ii)</td>
+   <td>Specific indication of the provisions of laws and regulations among those made public, per section 1.(2) above, on the FSA homepage, or government orders based on those laws and regulations, with respect to which the inquirer wishes to determine applicability to its prospective action;</td>
+  </tr>
+  <tr>
+   <td>iii)</td>
+   <td>A statement from the inquirer agreeing to the contents of its inquiry and the response thereto being made public.</td>
+  </tr>
+  <tr>
+   <td nowrap>iv)</td>
+   <td>The inquirer's clearly stated opinion concerning the applicability of the provisions of laws and regulations specified in 2.(3)(2) above, and the basis for this opinion.</td>
+  </tr>
+ </tbody>
+</table>
+<p><strong>(4) Submission of Additions and Corrections to Inquiries -</strong> The FSA may, if necessary, request that the inquirer submit additional or corrected documents in cases in which the content of a written inquiry is insufficient, or it is necessary to confirm the identity of the inquirer. The inquirer will only be asked for additional paper work that is demand essential to meet the requirements for the FSA.</p>
+<h2>3. Responses</h2>
+<p><strong>(1) Response Timeframe -</strong> In principle, the director of the section that receives the inquiry described in section 2. above will issue a response to an inquiry within 30 days of the arrival of a written inquiry from the inquirer at the contact point. However, in the following cases the timeframe for a response is set as follows. The FSA is required to ensure that the response time, including the period for submitting additional or corrected documents, is as short as possible.</p>
+<table class="linenone" style="margin-left:1em">
+ <tbody>
+  <tr>
+   <td>i)</td>
+   <td>In cases in which the inquiry involves advanced finance techniques or technology, and for which a response requires careful judgment, the FSA will issue a response within 60 days (in principle) of the initial receipt of the inquiry.</td>
+  </tr>
+  <tr>
+   <td>ii)</td>
+   <td>In cases in which the quantity of inquiries exceeds the specific section's capacity to issue timely responses, a response will be issued within a reasonable time period exceeding 30 days.</td>
+  </tr>
+  <tr>
+   <td nowrap>iii)</td>
+   <td>In cases in which the regulations/laws in question are jointly administered by the FSA and another government agency, a response will be issued within 60 days (in principle) of the initial receipt of the inquiry.</td>
+  </tr>
+ </tbody>
+</table>
+<p>In cases of above 2.(4), in which corrected or additional information was requested of the inquirer, the days involved in gathering this additional information will not be counted in the 30 day time period.</p>
+<p>If the FSA cannot issue a response to an inquiry within 30 days, the FSA shall notify the inquirer of the reason for the delay and the expected time of response.</p>
+<p><strong>(2) Respondent -</strong> The FSA response will be issued by the director of the section that has jurisdiction over the law or regulation in question.</p>
+<p><strong>(3) Method of Response -</strong> Responses to an inquiry shall be made in writing. However, the foregoing shall not apply in cases where the inquirer agrees to receive a verbal response.</p>
+<p>In Responses, both the opinion on whether or not the laws and regulations mentioned in the inquiry are applicable, and the basis for that opinion, are clearly stated, and the following cautions are attached.</p>
+<p>(Caution): A written response shall contain a clear statement to the effect that the response in question: is made from the position of having jurisdiction to enforce the laws and regulations (provisions) subject to the inquiry; is premised only on the facts as presented by the inquirer, is made only with respect to the relationship of the prospective business activities to the laws and regulations (provisions) subject to the inquiry; indicates the FSA's opinion as of that present time; may be different in cases in which: the facts differ from what was presented in the inquiry; related facts exist that were not presented in the inquiry; the related laws and regulations are changed; etc.; and as a matter of course, cannot bind the determination of any investigative agency or the finding of any court, including the application of penal provisions.</p>
+<p><strong>(4) Cases of No Response -</strong> In the following cases, the director of the FSA section receiving an inquiry may elect not to respond to the inquiry. In the event no response will be made to an inquiry for any of the reasons, the director of the relevant FSA section shall notify the inquirer without delay that no response will be made to the inquiry, and indicate the reason for the decision not to respond:</p>
+<table class="linenone" style="margin-left:1em">
+ <tbody>
+  <tr>
+   <td>i)</td>
+   <td>The inquiry contains insufficient or unclear factual information upon which to base a decision;</td>
+  </tr>
+  <tr>
+   <td>ii)</td>
+   <td>The inquiry concerns independent private sector rules or arrangements;</td>
+  </tr>
+  <tr>
+   <td nowrap>iii)</td>
+   <td>The inquiry involves cases on which the FSA has already publicly and clearly stated its opinion by announcement or detailed regulations;</td>
+  </tr>
+  <tr>
+   <td>iv)</td>
+   <td>The inquiry is substantively the same as a previous inquiry to which the FSA has already posted a public response on its homepage;</td>
+  </tr>
+  <tr>
+   <td>v)</td>
+   <td>The inquiry regards circumstances for which the inquirer is currently under legal investigation, etc., or in which a law actually is being enforced; and</td>
+  </tr>
+  <tr>
+   <td>vi)</td>
+   <td>The inquiry relates to a similar matter which is being contested legally (a lawsuit; a statement of complaint under the Administrative Complaint Investigation Law; or a statement of complaint under another law).</td>
+  </tr>
+ </tbody>
+</table>
+<p><strong>(5) Withdrawal of an Inquiry -</strong> The Director of the relevant FSA section will not respond to an inquiry, if, prior to the issuance of a response, the inquirer requests that the inquiry be withdrawn. In such a case, the guidelines below regarding publication are not applicable.</p>
+<h2>4. Method of Publication of Inquiries and Responses</h2>
+<p>As a general rule, the contents of its inquiry and the response thereto shall be posted on the FSA homepage in their entirety within 30 days of the issuance of the response.</p>
+<p>However, in cases in which the inquirer, in a supplementary note, requests a delay in publication of the inquiry and response within a certain period of time, offers reasonable grounds for such a delay, and specifies a time when publication will be possible, upon confirmation of the reason for the requested delay, the FSA may delay the publication of the inquiry and response. In such cases, the delay in publication may not necessarily last as long as the inquirer requests. The publication may be delayed only as long as the rationale provided by the inquirer for the delay continues to apply. The FSA may make the inquiry and response public provided it has given prior notification to the inquirer. In a case where an inquiry or the response thereto contains information that falls under the category of an event of non-disclosure as prescribed in the Law Concerning the Disclosure of Information Retained by Administrative Agencies (Law No. 42, promulgated May 14, 1999) the FSA may, as necessary, withhold such information from disclosure.</p>
+<h2>5. Effective Date</h2>
+<p>The FSA No Action Letter System took effect on July 16, 2001.</p>
+<p>Above section 4. revised and enforced July 4,2003.<br>
+  Above section 3.(3),(5) revised and enforced May 14,2004.<br>
+  Above sections 2.(3), and 3(1),(3),(4) revised and enforced October 7,2005.<br>
+  Above sections 1.(1), 2.(1),(2),(3),(4),3.(1) and 4 revised and enforced July 2, 2007.</p>
+<hr>
+<div class="indent-minus-wrap">
+ <p class="indent-minus" style="font-size:85%"><a name="01"></a>*1 Also referred to as ''Prior Confirmation Procedures on the Application of Laws and Regulations.'' <a href="#01a">return</a></p>
+ <p class="indent-minus" style="font-size:85%;margin-top:-0.5em"><a name="02"></a>*2 In the case of institutions under the supervision of a local Finance Bureau, they may contact a local Finance Bureau. <a href="#02a">return</a></p>
+</div>
+</div>
+</div>
+<!-- main END -->
+
+<!-- side STRAT -->
+<div id="side">
+</div>
+<!-- side END -->
+
+<section id="sitemap">
+<h2>Site Map</h2>
+<div class="inner">
+<dl>
+<div id="fsa_sitemap01">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/about/index.html">About FSA</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap01"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/about/index.html#Ministerial Team">Ministerial Team</a></dd>
+<dd><a href="/en/about/index.html#Organization">Organization</a></dd>
+<dd><a href="/en/about/about02_menu.html">Location</a></dd>
+<dd><a href="/en/about/index.html#Pamphlet">Pamphlet</a></dd>
+<dd><a href="/en/about/openpolicylab.html">Open Policy Lab</a></dd>
+</div>
+<div id="fsa_sitemap02">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/press_releases/index.html">Press Releases &amp; Public Relations</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap02"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/news/index.html">Press Releases</a></dd>
+<dd><a href="/en/conference/index.html">Press Conferences</a></dd>
+<dd><a href="/en/announce/state/index.html">Official Statements</a></dd>
+<dd><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a></dd>
+<dd><a href="/en/announce/state/index_speeches.html">Speeches</a></dd>
+<dd><a href="/en/press_releases/index.html#FinancialUsers">For Financial Users</a></dd>
+<dd><a href="/en/press_releases/index.html#Others">Others</a></dd>
+<dd><a href="/en/press_releases/index.html#Archives">Archives</a></dd>
+</div>
+<div id="fsa_sitemap03">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/policies_councils/index.html">Policies &amp; Councils</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap03"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/policies_councils/index.html#Policies">Policies</a></dd>
+<dd><a href="/en/policies_councils/index.html#Councils">Councils</a></dd>
+</div>
+<div id="fsa_sitemap04">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/laws_regulations/index.html">Laws &amp; Regulations</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap04"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/refer/legislation/legislation.pdf" target="_blank">Name of Laws and Regulations(PDF)<img src="/libs/images/icon_blank.png" alt="open new window" width="10" height="10" class="newwin"></a></dd>
+<dd><a href="/en/laws_regulations/index.html#recent_changes">Recent Changes (Legislation, Ordinances, Guidelines)</a></dd>
+<dd><a href="/en/laws_regulations/index.html#Guidelines">Guidelines</a></dd>
+<dd><a href="/en/policy/fiel/index.html">Financial Instruments and Exchange Act</a></dd>
+<dd><a href="/en/laws_regulations/index.html#Financial_Monitoring_Policy">Financial Monitoring Policy</a></dd>
+<dd><a href="/en/laws_regulations/index.html#Public_Comment">Public Comment</a></dd>
+<dd><a href="/en/refer/noact/index_menu.html">No-Action Letter System</a></dd>
+<dd><a href="/en/laws_regulations/fami/index.html">Procedures concerning Foreign Account Management Institutions</a></dd>
+</div>
+<div id="fsa_sitemap05">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/regulated_institutions/index.html">Regulated Institutions</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap05"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/regulated/licensed/index.html">List of Institutions</a></dd>
+<dd><a href="/en/regulated_institutions/index.html#Administrative_Action">Administrative Action</a></dd>
+<dd><a href="/en/regulated/statistics/index.html">Statistics</a></dd>
+<dd><a href="/en/regulated/hst/index.html">For those engaging in High Speed Trading</a></dd>
+<dd><a href="/en/news/2016/20160203-1.html">To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.</a></dd>
+<dd><a href="/en/regulated_institutions/arfp/index.html">Asia Region Funds Passport (ARFP)</a></dd>
+</div>
+<div id="fsa_sitemap06">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+<dt><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a><button type="button" class="more-links" aria-expanded="false" aria-controls="fsa_sitemap06"></button></dt>
+<!-- CMS006 END -->
+<dd><a href="/en/newsletter/2022a.html">Back Number (2022)</a></dd>
+<dd><a href="/en/newsletter/2021a.html">Back Number (2021)</a></dd>
+<dd><a href="/en/newsletter/2020a.html">Back Number (2020)</a></dd>
+</div>
+</dl>
+</div>
+</section>
+<!-- content END -->
+
+<p id="pagetop"><a href="#header"><img src="/libs/images/pagetop_btn_e.png" alt="" width="103" height="15"/><span>top of page</span></a></p>
+</article>
+<!-- content END -->
+
+
+<!-- footer STRAT -->
+<footer id="footer">
+<div class="inner">
+<nav id="footer_menu" aria-label="footer_menu">
+<ul>
+<li><a href="/en/sitemap/index.html">Site Map</a></li>
+<li><a href="/en/rules/index.html">Terms of Use of the FSA Website</a></li>
+<li><a href="/en/privacy/index.html">Privacy Policy</a></li>
+<li><a href="/en/about/about02_menu.html">Access</a></li>
+<li><a href="/en/contact.html">Contact us</a></li>
+<li><a href="/en/links/index.html">Other Links</a></li>
+</ul>
+</nav>
+<p id="corporate">Financial Services Agency, The Japanese Government (Corporate Number 6000012010023)</p>
+<p id="copyright">Copyright(C) 2017 Financial Services Agency All Rights Reserved.</p>
+<address>3-2-1 Kasumigaseki Chiyoda-ku Tokyo, 100-8967 Japan THE CENTRAL COMMON GOVERNMENT OFFICES No. 7</address>
+</div>
+</footer>
+<!-- footer END -->
+
+</div>
+
+<!-- spMenu -->
+<section id="spMenu">
+<div class="inner">
+<ul class="spMenu_function">
+<!-- /* JavaSctiptの動作に必要だったため、class="spMenu_language"を復活(aria-expandedの動作を同期させる処理) */ -->
+    <li class="spMenu_language">
+        <div class="title_of_menu_second-level">
+<!-- CMS006 -->
+<!-- 作業対象 -->
+            <button type="button" aria-controls="fsa_spmenu_function01" class="gmspmenu_language"><img src="/libs/images/icon_lang_w.svg" alt=""><span>Language</span></button><button type="button" aria-controls="fsa_spmenu_function01" class="gmspmenu"></button>
+<!-- CMS006 END -->
+        </div>
+        <ul lang="en" class="menu_second-level" id="fsa_spmenu_function01">
+            <li><a href="/index.html" class="setLanguageJa">Global Site<span class="sentence-space"></span>Japanese Site</a></li>
+            <li><a href="/index.html" class="setLanguageEn">Machine translated English of Japanese Site</a></li>
+        </ul>
+    </li>
+    <li id="sp_fontsize_box">
+        <p><img src="/libs/images/icon_font_w.svg" alt=""><span>Size</span></p>
+        <div id="sp_fontChange">
+            <button type="button" id="sp_fontL" class="large">font Large</button>
+            <button type="button" id="sp_fontM" class="middle">font Middle</button>
+            <button type="button" id="sp_fontS" class="small">font Small</button>
+        </div>
+    </li>
+</ul>
+<ul>
+<li><a href="/en/index.html">HOME</a></li>
+<li><a href="/en/about/index.html">About FSA</a></li>
+<li><a href="/en/press_releases/index.html">Press Releases &amp; Public Relations</a></li>
+<li><a href="/en/policies_councils/index.html">Policies &amp; Councils</a></li>
+<li><a href="/en/laws_regulations/index.html">Laws &amp; Regulations</a></li>
+<li><a href="/en/regulated_institutions/index.html">Regulated Institutions</a></li>
+<li><a href="/en/newsletter/index.html">FSA Weekly Review &amp; ACCESS FSA</a></li>
+</ul>
+</div>
+</section>
+<!-- //SPMENU -->
+
+<script src="/libs/js/jquery.easing.1.3.js"></script>
+<script src="/libs/js/jquery.responsiveTabs.js"></script>
+<script src="/libs/js/jquery.cookie.js"></script>
+<script src="/libs/js/common.js?date=20260316"></script>
+<script src="/libs/js/common_fsa.js?date=20260316"></script>
+</body>
+</html>
+

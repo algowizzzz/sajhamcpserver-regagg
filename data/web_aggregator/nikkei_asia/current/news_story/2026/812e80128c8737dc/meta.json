@@ -1,0 +1,25 @@
+{
+  "doc_id": "812e80128c8737dc",
+  "regulator_id": "nikkei_asia",
+  "doc_type": "news_story",
+  "title": "Elon Musk's space data center vision reshapes Asia's launch industry",
+  "language": "en",
+  "source_url": "https://asia.nikkei.com/business/technology/tech-asia/elon-musk-s-space-data-center-vision-reshapes-asia-s-launch-industry",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:de3471559db4c74aaeeb19fc651a29e9b3f2fc8bf1ac707a091916179e71bba8",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nikkei_asia_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nikkei_asia/current/news_story/2026/812e80128c8737dc",
+  "tags": [
+    "japan"
+  ],
+  "final_url": "https://asia.nikkei.com/business/technology/tech-asia/elon-musk-s-space-data-center-vision-reshapes-asia-s-launch-industry",
+  "fetch_method": "feed_summary"
+}

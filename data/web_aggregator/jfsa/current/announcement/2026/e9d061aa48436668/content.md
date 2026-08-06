@@ -1,0 +1,129 @@
+* [HOME](/en/index.html)
+* [FSA Weekly Review/ACCESS FSA](/en/newsletter/index.html)
+
+[Tweet](https://twitter.com/share)
+
+# Financial Services AgencyFSA Weekly Review No.677
+:   March 3, 2026
+
+**What’s New on the FSA Website**
+
+Week of February 24, 2026 - February 27, 2026
+
+This page contains the latest in events, developments, and updates to the FSA website.  
+  
+For files in HTML formats, when you click original press release links, and click the "Language" button on the upper right of the Japanese website, and select "Machine translation" displayed on the screen, the results of the translation by AI are displayed. Please note that machine translated pages are not necessarily correct.
+
+## Press Conferences
+
+|  |  |
+| --- | --- |
+| February 24, 2026 | [Press Conference by the Minister of State for Financial Services (February 13, 2026)](/en/conference/minister/2026/20260213.html) |
+| February 24, 2026 | [Press Conference by the Minister of State for Financial Services (February 10, 2026)](/en/conference/minister/2026/20260210.html) |
+
+## Public Comments
+
+|  |  |
+| --- | --- |
+| February 27, 2026 | Publication of the results of public consultation on the draft Cabinet Office Order Partially Amending the Regulation for Enforcement of the Act on Emergency Measures for the Revitalization of the Financial Function, etc.  In consideration of the fact that the content of the materials required to be submitted under the Banking Act (Act No. 59 of 1981), etc. overlaps with the content of the report on asset assessment, etc. required to be submitted under the Regulation for Enforcement of the Act on Emergency Measures for the Revitalization of the Financial Function, the draft Cabinet Office Order aims to amend the Appended Forms of the relevant Regulations for Enforcement and make it possible to replace the submission of a report on asset assessment, etc. with the submission of a similar report or materials. [The original press release is available in Japanese.open new window](/news/r7/ginkou/20260227/20260227.html) |
+| February 27, 2026 | Publication of information on public consultation on the draft Cabinet Office Order Partially Amending the Cabinet Office Order Specifying Measures Concerning Special Provisions of the Cabinet Office Order on Projects Pertaining to Regulations Prescribed by Cabinet Order, etc. Provided for in Article 26 of the FSA-related Act on National Strategic Special Zones  The amendment aims to exempt the application of the requirements regarding fund audits prescribed in the Cabinet Office Order on Financial Instruments Business for venture funds targeting professionals (engaging in the specially permitted services for qualified institutional investors, etc.) that satisfy a certain requirement, in a case where an entity specified in a zone plan as the responsible entity for a special fund asset management business in a national strategic special zone (an entity that has its major business office within the national strategic special zone) conducts a relevant project in its business office within the relevant zone. [The original press release is available in Japanese.open new window](/news/r7/shouken/20260227/20260227.html) |
+| February 27, 2026 | Publication of the results of public consultation on the draft partial amendment to the Comprehensive Guidelines for Supervision of Major Banks, etc. and others  The amendment aims to strengthen countermeasures against cyber risks that have been heightening in recent years. The amended Comprehensive Guidelines for Supervision becomes applicable from today (February 27, 2026). [The original press release is available in Japanese.open new window](/news/r7/sonota/20260227/20260227.html) |
+
+## Press Releases
+
+### Policies
+
+|  |  |
+| --- | --- |
+| February 27, 2026 | Publication of information on the submission of a draft of an FSA-related Act to the 221st session of the Diet  Submitted Act: Draft Act Partially Amending the Act on Special Measures for Strengthening Financial Functions, etc. [The original press release is available in Japanese.open new window](/common/diet/221/index.html) |
+| February 26, 2026 | Publication of an ex-ante valuation report based on regulatory impact analysis (RIA) in regard to the extension of the period and expansion of the scale, etc. of the capital participation system and the fund-grant system under the Act on Special Measures for Strengthening Financial Functions [The original press release is available in Japanese.open new window](/seisaku/r7ria.html) |
+
+### International
+
+|  |  |
+| --- | --- |
+| February 27, 2026 | [FSA, SEC Hold Spring Financial Regulatory Dialogue](/en/news/2026/20260227/20260227.html) |
+
+### Publication
+
+|  |  |
+| --- | --- |
+| February 27, 2026 | [Publication of "FSA Analytical Notes (2026.2): Analysis of Human Resource Support by Regional Banks and Shortages of Managerial Talent at Firms" in Japanese](/en/about/fsaanalyticalnotes/20260227/20260227.html) |
+
+### Councils
+
+|  |  |
+| --- | --- |
+| February 26, 2026 | Publication of the agenda and handouts of the 69th Meeting of the Financial Service ADR (Alternative Dispute Resolution) Liaison Group, which was held on February 26, 2026 [The original press release is available in Japanese.open new window](/singi/singi_trouble/siryou/20260226.html) |
+| February 25, 2026 | [The Expert Panel on the Revision of the Corporate Governance Code (2nd meeting) Material](/en/refer/councils/revision_corporategovernance/index.html#02meeting) |
+
+### Banks
+
+|  |  |
+| --- | --- |
+| February 27, 2026 | Publication of the promulgation of the Cabinet Office Order Partially Amending the Cabinet Office Order Specifying Measures Concerning Special Provisions of the Cabinet Office Order on Projects Pertaining to Regulations Prescribed by Cabinet Order, etc. Provided for in Article 26 of the FSA-related Act on National Strategic Special Zones  Accompanying the enforcement of the Act Partially Amending the Act on the Promotion of Smooth Transition to a Decarbonized Growth-Oriented Economic Structure and the Act on the Promotion of Effective Utilization of Resources (Act No. 52 of 2025), the Cabinet Office Order Partially Amending the Cabinet Office Order Specifying Measures Concerning Special Provisions of the Cabinet Office Order on Projects Pertaining to Regulations Prescribed by Cabinet Order, etc. Provided for in Article 26 of the FSA-related Act on National Strategic Special Zones was enacted and relevant provisions were developed as required. This Cabinet Office Order is promulgated today (February 27, 2026) and is to be put into effect on April 1, 2026. [The original press release is available in Japanese.open new window](/news/r7/ginkou/20260227-2/20260227-2.html) |
+| February 27, 2026 | [The FSA publishes the status of loans held by all banks as of the end of September 2025, based on the Financial Reconstruction Act](/en/regulated/npl/20260227.html) |
+
+### Securities
+
+|  |  |
+| --- | --- |
+| February 26, 2026 | The FSA published a decision concerning an administrative monetary penalty payment order for market manipulation regarding shares of PACIFIC METALS CO., LTD. and NORITSU KOKI Co., Ltd. by an individual investor residing overseas. [The original press release is available in Japanese.open new window](/news/r7/shouken/20260226-1.html) |
+| February 26, 2026 | The FSA published a decision concerning an administrative monetary penalty payment order for false statements made by Wellco Holdings Co. Ltd. in its annual securities reports, etc. [The original press release is available in Japanese.open new window](/news/r7/shouken/20260226-2.html) |
+
+### Others
+
+|  |  |
+| --- | --- |
+| February 27, 2026 | [Updated : Japan Weeks 2026](/en/financialcenter/japanweeks2026.html) |
+| February 27, 2026 | The FSA published an experiment project eligible for support for the FinTech PoC Hub. This time, experiment projects eligible for support for the thirteenth round were determined and publicized. [The original press release is available in Japanese.open new window](/news/r7/sonota/20260227-2/20260227-2.html) |
+| February 27, 2026 | The FSA published an overview of modifications to lending conditions (related to U.S. tariff measures) made by banks and cooperative financial institutions as of the end of January 2026. [The original press release is available in Japanese.open new window](/ordinary/tariff202504/kashitsuke/202506.html) |
+| February 25, 2026 | Updated lists of entities that are operating financial instruments businesses without proper registration [The original press release is available in Japanese.open new window](/ordinary/chuui/mutouroku.html) |
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

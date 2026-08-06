@@ -1,0 +1,73 @@
+# Amending an order to commence and carry on business to add or delete a class of insurance (Canadian company)
+
+Information
+
+Type of document
+
+Transaction instructions
+
+Category
+
+Non deemed approval
+
+Last updated
+
+April 2009
+
+Index A No
+
+1
+
+## Legislative authorities
+
+* section 59 of the [Insurance Companies Act](https://laws-lois.justice.gc.ca/eng/acts/i-11.8/)
+
+## Information Requirements
+
+A. For the *addition* of a class of insurance, the applicant is generally expected to provide:
+
+1. a description of the type of risk it wishes to insure, the class of insurance it wishes to add to its order, and the type of policy it wishes to underwrite;
+2. the reasons why the applicant believes it will be successful in underwriting the risks under the new class of insurance;
+3. a description of how the applicant will underwrite, sell, administer and service the new class of insurance, including:
+
+   1. an analysis of the proposed target market and competitors, showing both threats and opportunities and plans to address them, and
+   2. a description of the proposed distribution channel;
+4. a three-year analysis of the effect the new class of insurance will have on the financial condition and risk profile of the applicant, including:
+
+   1. financial information regarding the new class of insurance, including relevant assumptions relating to the pricing and underwriting of policies, expected claims, premium income, expenses, actuarial liabilities, related investment income, and persistency of policies,
+   2. a comparative pro forma balance sheet and assumptions:
+
+      1. as at or about the date of the application, and
+      2. for each of the next three financial year-ends, and
+   3. a comparative pro forma capital position, confirming compliance with OSFI’s capital requirements, as applicable to the applicant, and, in the case of:
+
+      1. a life insurance company or fraternal benefit society, a breakdown of all elements used to calculate the Minimum Continuing Capital and Surplus Requirements, including the Tier 1 capital and total capital required, or
+      2. a property and casualty insurance company, details of the Minimum Capital Test;
+5. an overview of the risk management and control processes for the new class of insurance, including those related to:
+
+   1. product design and pricing management,
+   2. underwriting and liability management, and
+   3. reinsurance arrangements and risks retention levels (refer to OSFI’s *Reinsurance (Canadian Companies) Regulations* and *Guideline B-3, Unregistered Reinsurance*, as applicable; and
+6. a confirmation that all relevant provincial insurance regulators have been notified.
+
+B. For the *deletion* of a class of insurance, the applicant is generally expected to provide:
+
+1. a letter signed by a senior officer stating that the company has discharged, or provided for the discharge of, unearned premiums, unpaid claims and any outstanding liabilities in respect of the policies underwritten under the class of insurance to be deleted, including a description of the manner in which it has obtained the surrender of the outstanding policies, or discharged, or provided for the discharge of, all of its liabilities under these policies; and
+2. a confirmation that all relevant provincial insurance regulators have been notified.
+
+## Administrative Guidance
+
+1. When assessing an application pursuant to the legislative authorities, OSFI will generally:
+
+   1. for the *addition* of a class of insurance:
+
+      1. take into account the impact of the addition of the class of insurance on the applicant’s liability mix, capital, income, liquidity position, and risk profile to ensure that the overall solvency of the applicant will not be unduly threatened, and
+      2. ensure that the applicant has adequate and appropriate risk management policies and practices in place to manage the new class of insurance;
+   2. for the *deletion* of a class of insurance, satisfy itself that the applicant has discharged, or provided for the discharge of, all of its policy liabilities in respect of the risk insured under the class of insurance to be deleted.
+
+*The information requirements and administrative guidance are intended to satisfy typical applications. They have been derived from OSFI’s experience in assessing applications. Applicants who provide all information and material requested can generally expect a more timely assessment of their applications. As appropriate to the circumstances, OSFI may request additional information, take into account other matters, impose terms and conditions, or require undertakings.*
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-01-17

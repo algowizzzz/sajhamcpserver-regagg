@@ -1,0 +1,25 @@
+{
+  "doc_id": "59426db56ad65622",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "Canada-U.S. trade drops almost $2-billion since early 2024, data show",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/canada/article-canada-us-trade-drops-trump-tariffs/",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5fb65eacf8101e19aacfd211a428c34d639c04d0ffc0c43c1bfafd4ed768e3d5",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/59426db56ad65622",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/canada/article-canada-us-trade-drops-trump-tariffs/",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "fd77f87ec081e18d",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "SAR Initiates Case that Leads to Guilty Pleas for Hiring Illegal Aliens | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/sar-initiates-case-leads-guilty-pleas-hiring-illegal-aliens",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c0ab57cafcb6ce0afa6508bcdf83a5b022f36cf58e27d6ea90a9d4dcbf7d7797",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/fd77f87ec081e18d",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

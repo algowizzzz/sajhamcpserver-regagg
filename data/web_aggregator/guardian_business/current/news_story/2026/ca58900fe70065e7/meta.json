@@ -1,0 +1,25 @@
+{
+  "doc_id": "ca58900fe70065e7",
+  "regulator_id": "guardian_business",
+  "doc_type": "news_story",
+  "title": "Film posters for The Mummy banned from public display in UK",
+  "language": "en",
+  "source_url": "https://www.theguardian.com/film/2026/aug/05/film-posters-for-the-mummy-banned-from-public-display-in-the-uk",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0a309f78bf717d8cbe20d56735c176ab86e510a1ace3335910419bda8df05070",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_guardian_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/guardian_business/current/news_story/2026/ca58900fe70065e7",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.theguardian.com/film/2026/aug/05/film-posters-for-the-mummy-banned-from-public-display-in-the-uk",
+  "fetch_method": "feed_summary"
+}

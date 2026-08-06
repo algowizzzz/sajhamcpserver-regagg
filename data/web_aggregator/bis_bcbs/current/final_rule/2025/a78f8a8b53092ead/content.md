@@ -1,0 +1,68 @@
+[![The Bank for International Settlements](/img/bis-logo-short.gif)](/)
+
+# Technical Amendment - Hedging of counterparty credit risk exposures
+
+### This version
+
+BCBS
+ | 
+
+Standards
+
+ | 
+
+28 October 2025
+
+ | 
+
+Status: 
+Consolidated
+
+[PDF full text
+
+(282kb)](/bcbs/publ/d600.pdf)
+ | 
+
+12
+pages
+
+Topics: 
+
+[Market risk](/bcbs/publications.htm?bcbspubls_topics=Market risk)
+,
+
+[Credit risk](/bcbs/publications.htm?bcbspubls_topics=Credit risk)
+
+### Note
+
+This standard has been integrated into the consolidated [Basel Framework](/basel_framework/).
+
+This document sets out a technical amendment to the Basel Framework. The amendment relates to the circumstance where a bank uses a guarantee or credit derivative to hedge the counterparty credit risk (CCR) of a derivative exposure subject to the standardised approach to counterparty credit risk or the internal models method.
+
+The technical amendment was published for consultation in November 2024 and has been finalised with some adjustments to reflect stakeholder feedback. Basel Committee members have agreed to implement this technical amendment as soon as practical and within three years at the latest.
+
+Technical amendments are defined as changes in standards that are not substantial in nature but that cannot be unambiguously resolved based on the current text.
+
+[Top](#0)
+
+* Share this page
+
+Stay connected
+
+* Follow us
+
+* Sign up to receive email alerts
+
+* About BIS
+* [Sitemap](/sitemap/index.htm)
+* [FAQ](/about/faq.htm)
+* [Contact](/about/contact.htm)
+* [Careers](/careers/index.htm)
+* [Translations](/translations/index.htm)
+
+* Legal information
+* [Terms and conditions](/terms_conditions.htm)
+* [Copyright and permissions](/terms_conditions.htm#Copyright_and_Permissions)
+* [Privacy notice](/privacy.htm)
+* [Cookies notice](/cookies.htm)
+* [Email scam warning](/about/warning0405.htm)

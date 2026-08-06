@@ -1,0 +1,28 @@
+The European Insurance and Occupational Pensions Authority (EIOPA) published today a Discussion Paper on Methodological Principles of Insurance Stress Testing.
+
+The Discussion Paper is setting out methodological principles and guidelines required for the conduct and assessment of a European Union-wide stress test exercise with the aim to enhance EIOPA's methodology for bottom-up supervisory stress testing. These principles and guidelines will be the toolbox to facilitate both the design and execution phase of future EIOPA stress test exercises. In developing its methodological stance, EIOPA addressed the following key elements:
+
+* Stress test process and objectives
+* Scope of stress tests
+* Scenario design of a stress test
+* Shocks and their application in a stress test
+* Data collection and validation
+
+EIOPA is seeking feedback from stakeholders to be considered in the final Discussion Paper. To this aim, it contains also a series of questions to collect feedback particularly on technical topics linked with insurance stress testing.
+
+The Discussion Paper is part of a broader process to enhance EIOPA's stress testing framework. In this context, EIOPA will work on other stress testing related issues such as the assessment of liquidity positions under adverse scenarios, assessment of the vulnerabilities towards climate-related risks and potential approaches to multi-period stress tests.
+
+Stakeholders are invited to submit their feedback until **Friday, 18 October 2019** via email by using the provided template to be downloaded below under related resources.
+
+Contributions should be sent to the following eiopa [dot] stress [dot] test![at](/modules/contrib/spamspan/image.gif)eiopa [dot] europa [dot] eu (email) address.
+
+Contributions either not provided via the template, sent to a different email address or sent after the deadline will not be considered. Unless requested otherwise, all contributions received will be published after the deadline for submission.
+
+Publication date
+:   22 July 2019
+
+## Related links
+
+[Discussion Paper on Methodological Principles of Insurance Stress Testing.](/document/download/ff4fd4f0-1600-4e59-af53-f1acc3c4b996_en?filename=Discussion%20Paper%20on%20Methodological%20Principles%20of%20Insurance%20Stress%20Testing..pdf)
+
+[Template for comments](/document/download/5f49094f-d563-4644-9e1d-f73ea151ca26_en?filename=Template%20for%20comments.docx)

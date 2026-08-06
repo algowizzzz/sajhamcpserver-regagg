@@ -1,0 +1,24 @@
+{
+  "doc_id": "e344e73b67f2782d",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Exceptive Relief for Casinos from Certain Customer Identity Verification Requirements | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/exceptive-relief-casinos-certain-customer",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1271c910736cddb0757e71547f5d14263fd801e63599c107a60faebf47e208ef",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/e344e73b67f2782d",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,58 @@
+# FinCEN Advisory - Issue 6
+
+## Advisory Information
+
+[advissu6.pdf](/system/files/advisory/advissu6.pdf "advissu6.pdf")
+(66 KB)
+
+Issued Date
+
+October 01, 1996
+
+Subject
+
+Mexican Bank Drafts and factored Third Party Checks
+
+FinCEN Advisory
+
+This Advisory is of special interest to banks at which Mexican institutions maintain correspondent accounts. However, the Advisory is being distributed to all banks.
+
+Mexican bank drafts have long been used to facilitate trade and commercewithin the United States/Mexican border region. These drafts areissued in U.S. dollars by Mexican banks and are payable from correspondentaccounts held at U.S. banks. The promise of payment by a U.S. bank makesthem easy to sell or deposit.  
+Correspondent banking relationships are a vital part of the bankingsystem, both domestically and internationally. However, like other aspects ofthe system, they are vulnerable to manipulation and misuse by money launderers.In this case, Mexican bank drafts have provided excellent tools forthe facilitation of money laundering activities.  
+Banks and other financial institutions should give enhanced scrutiny todeposits or the presentation for collection of U.S. dollar-denominated bankchecks or other drafts drawn by Mexican banks on their dollar accounts inU.S. banks. Enhanced scrutiny should also be given to the presentation forcollection at U.S. banks by Mexican currency exchange and other businessesof multiple third party checks or drafts endorsed to the order of thebusiness presenting the checks for payment.
+
+Recycling Funds
+
+A crucial part of the money laundering cycle is the re-entry into the United States of funds derived from criminal activity; the smuggling of those funds out of the country is intended to "launder" them for re-entry with anapparently foreign origin. Cross-border commerce between the United States and Mexico provides an especially attractive cover for attempts to reintegrate criminally-derived funds into the U.S. economy.  
+Two techniques for recycling funds along the border have been identifiedby law enforcement officials.
+
+Mexican Bank Drafts
+
+A crucial part of the money One technique is the use of smuggled currency in Mexico to purchase a"Mexican bank draft," that is, a dollar-denominated draft drawn by theMexican bank to the order of the bank draft's purchaser, on that own bank'sdollar account with a correspondent bank in the United States. The draftis then carried into the United States and negotiated, or perhaps endorsedto a third party who negotiates the draft at the United States correspondentinstitution. It may also be endorsed to a third party in Colombia, Panama, orelsewhere, as part of a more complicated scheme to purchase goods forconversion ultimately to laundered funds; in any event the draft ultimatelyfinds its way back to the U.S. banks on which it's drawn.
+
+Factored Third Party Checks
+
+---
+
+Factored Third Party Checks
+
+Unless examination of the facts underlying such transactions, in each case, reveals that the transactions possess an independent lawful business purpose and are the sort in which the customer involved would normally beexpected to engage, institutions subject to the suspicious activity reportingrules (31 CFR 103.21) should report such transactions as provided in thoserules. Institutions subject to the Bank Secrecy Act, but not yet subject tospecific suspicious activity reporting rules, should consider their obligationsto report such transactions either under other applicable law or on a voluntarybasis.The Treasury Department will consider any report relating to a transactiondescribed above to constitute a report of a suspicious transaction that may notbe disclosed by the reporting institution to the parties involved, and to whichthe statutory protections against liability for reporting apply. The prohibitionagainst disclosure and the protection against liability for reporting are contained,respectively, in 31 U.S.C. 5318(g)(2) and (g)(3).Stanley E. MorrisDirector
+
+FinCEN Advisory is a product of the Financial Crimes Enforcement Network, Department of the Treasury, Post Office Box 39, Vienna, Virginia 22183. For more information about FinCEN’s programs, visit the FinCEN web site at <https://www.fincen.gov>. General questions or comments regarding FinCEN publications should be addressed to the Office of Communications, FinCEN, (703) 905-3773. Information may also be faxed to (703) 905-3885.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

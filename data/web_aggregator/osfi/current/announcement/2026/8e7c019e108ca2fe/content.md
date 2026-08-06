@@ -1,0 +1,51 @@
+# Refining how we approach risk
+
+## Streamlined framework for new entrants
+
+Visit [Streamlined approvals framework for targeted new entrants](/en/data-forms/applications-approvals/streamlined-approvals-framework-targeted-new-entrants "Streamlined Approvals Framework for Targeted New Entrants ") to learn more about the requirements and process for entities seeking to enter Canada's federal financial system.
+
+The Office of the Superintendent of Financial Institutions (OSFI) recognizes that the risk environment in which we operate is dynamic and interconnected. It requires a refined approach to supervision, regulation and the management of our own operations. To outline this approach, we have implemented an enterprise-wide risk appetite statement.
+
+The purpose of the statement is to define the amount and type of risks we’re willing to accept to make sure we uphold Canadians’ confidence in our financial system, including the programs under the responsibility of the Office of the Chief Actuary. Our risk appetite statement:
+
+* lays the foundation for our decision-making
+* helps determine our activities and sets our priorities
+* supports our strategic and operational management
+* helps stakeholders better understand our priorities
+
+## High appetite for early intervention, low appetite for surprises
+
+We have a high appetite for early intervention to address risks that could jeopardize the public’s confidence in the soundness of the Canadian financial system. We recognize that it is not cost-effective or realistic for us to intervene on all risks facing regulated institutions and pension plans. As such, we’re willing to accept the orderly failure of a regulated institution, but we have a low-risk appetite for a surprise failure.
+
+## No appetite
+
+Although a “no appetite” approach is often impractical, we have no risk appetite for:
+
+* material breaches of confidentiality of sensitive information
+* real or perceived regulatory capture
+
+## Agility and efficiency over perfection in decision-making
+
+We have a higher appetite for agility and efficiency over perfection in how we ​make decisions. Guided by our risk appetite and analytics, our risk appetite statement recognizes tradeoffs and drives how we allocate finite resources to support our mandate. Employees are empowered to be proactive and make risk related decisions based on imperfect information.
+
+## Creating a workplace culture that fosters diversity
+
+We’re willing to assume more risk to create a workplace culture that is:
+
+* psychologically safe
+* inclusive
+* innovative
+* diverse in thought and background
+
+## Macro-responsive mindset
+
+Our risk appetite statement takes a macro-responsive risk management approach. This means assessing the amount and type of risk and recognizing the trade-offs that will come with its decision-making so that our finite resources and our supervisory and regulatory actions focus on work that matters the most. That risk perspective is then taken into consideration in the work we do at individual financial institutions and pension plans. In doing this, we proactively influence policymaking and supervision to strengthen public confidence and achieve long-term resilience in the Canadian financial system. Our macro-responsive mindset extends to our [Annual Risk Outlook](/Documents/WET5/ARO/eng/2023/aro.html). Our outlook report provides an overview of the most significant risks facing Canada’s financial system. It’s published once a year for better transparency about the actions we’ll take in response to these risks.
+
+## Ongoing assessment
+
+As announced in Budget 2023, the Government of Canada intends to introduce legislative amendments to modernize the federal framework to address emerging risks to Canada’s financial sector and to protect the integrity and security of federally regulated financial institutions. OSFI will be working with the Department of Finance and other financial safety net partners to implement the changes announced in Budget 2023. Implications for OSFI’s risk appetite will be assessed as required.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-05-11

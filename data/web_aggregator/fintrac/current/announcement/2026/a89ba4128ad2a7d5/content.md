@@ -1,0 +1,64 @@
+# Administrative monetary penalty on Metna General Trading Inc.
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2024-07-11**]
+
+Metna General Trading Inc., formerly known as Metna Financial Investment Inc. (“Metna”), a money services business in Thornhill, Ontario was imposed an administrative monetary penalty of $252,285 on November 7, 2023, for committing 7 violations. The violations were found during the course of a compliance examination in 2021. The case is closed.
+
+## Nature of violation
+
+Violation #1
+:   **Failure to develop and apply written compliance policies and procedures that are kept up to date and, in the case of an entity, are approved by a senior officer – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 71(1)(b)** 
+      
+      
+    FINTRAC determined that Metna General Trading Inc.’s compliance policies and procedures do not comply with the requirements of paragraph 71(1)(b) of the Regulations. Overall, Metna did not document and apply the necessary measures in its compliance policies and procedures to meet its obligations under the Act and Regulations. The money services business’ policies and procedures were not tailored to its operations; it was unclear which documented policies and procedures were considered operational, and which were non-applicable to the entity.
+      
+      
+    Notably, FINTRAC confirmed that the process for identifying suspicious transactions was not documented, and that Metna had incorrectly documented the timeframe by which Suspicious Transactions Reports (STRs) and attempted STRs must be submitted. Additionally, the policies and procedures did not indicate the specific steps taken by Metna to identify property that requires a Terrorist Property Report. Furthermore, Metna’s policies and procedures did not reflect measures to address the requirements under the Ministerial Directive on Financial Transactions Associated with the Islamic Republic of Iran published on July 25, 2020, specifically as it relates to increased measures on transactions originating from or bound for Iran.
+      
+      
+    Finally, FINTRAC determined that Metna lacked internal procedures for record keeping of foreign exchange transactions, the requirements to conduct ongoing monitoring of its clients and how to apply special measures for high-risk clients, as required under the Act and Regulations.
+
+Violation #2
+:   **Failure to assess and document the risk of a money laundering or terrorist financing offence, taking into consideration prescribed factors – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 71(1)(c)** 
+      
+      
+    Metna General Trading Inc.’s risk assessment did not contain any rational explaining how its clients and business relationships, products, delivery channels, and geographical locations impact its overall risk exposure. While the money services business maintained a documented process to rate the risk of business relationships, the money services business was not applying risk ratings to any business relationships in practice, including many clients with a nexus to or located in, Iran. The risk assessment also did not include a rationale to support risk levels determined for Metna’s product, services and delivery channels. Finally, the risk assessment did not reflect Metna’s geographical risks associated with its actual business activities, notably remittances originating from or bound for Iran.
+
+Violation #3
+:   **Failure to comply with a ministerial directive – Proceeds of Crime (Money Laundering) and Terrorist Financing Act, section 11.43**
+      
+      
+    Metna General Trading Inc. failed to comply with the Ministerial Directive on Financial Transactions Associated with the Islamic Republic of Iran. Specifically, the money services business failed to treat every financial transaction originating from or bound for Iran as a high-risk transaction. Of the 32 Electronic Funds Transfer (EFT) records reviewed that were determined to be directly impacted by this ministerial directive, Metna General Trading Inc. had rated 27 transactions as low risk, and five transactions as medium risk.
+
+Violation #4
+:   **Failure to keep prescribed records – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 30(f)**
+      
+      
+    FINTRAC examined 32 transaction tickets with respect to foreign currency exchange transactions. Metna General Trading Inc. failed to record the method by which payments were made or received for all 32 transaction tickets.
+
+Violation #5
+:   **Failure to keep prescribed records – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 30(e)**
+      
+      
+    FINTRAC reviewed 142 records of financial transactions where $1,000 or more was remitted or transmitted, to verify whether information about the transactions was recorded as prescribed by the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations. Metna General Trading Inc. failed to keep prescribed information for all 142 records. Two instances of outgoing EFTs were missing the name of the beneficiary and 140 instances of incoming EFTs were missing the name of the person who requested the transactions.
+
+Violation #6
+:   **Failure to have entered into a written agreement or arrangement with an agent or mandatary for the purposes of ascertaining a person’s identity – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, section 64.1(3)**
+      
+      
+    Metna General Trading Inc. did not have a written agreement with its agent, in Iran, to ensure that both parties understand their roles, responsibilities and obligations. In addition, Metna’s records were missing identification information due to the lack of proper procedures concerning the written agreement with its agent in Iran.
+
+Violation #7
+:   **Failure to submit notification of change to money services business registration – Proceeds of Crime (Money Laundering) and Terrorist Financing Registration Regulations, paragraph 4(b) and section 5** 
+      
+      
+    Metna General Trading Inc. failed to submit a notification of change request indicating that it had opened a new bank account with a different financial institution and had also changed its legal name from “Metna Financial Investment Inc.” to “Metna General Trading Inc.”
+
+## Related link
+
+* [News release: FINTRAC imposes an administrative monetary penalty on Metna General Trading Inc.](/new-neuf/nr/2024-07-11-eng)
+
+Date Modified:
+:   2024-07-11

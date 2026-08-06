@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14530",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 101 of Regulation M",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/20/2026-14530/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-101-of",
+  "reference_number": "2026-14530",
+  "published_date": "2026-07-20",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b5cf70fa15cb3841e71188d1d72551bebc73b9cc03af036acdb84c8b666643ed",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14530",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

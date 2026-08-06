@@ -1,0 +1,1 @@
+Summary: # BSIF-599 – Relevé relatif aux règlements administratifs

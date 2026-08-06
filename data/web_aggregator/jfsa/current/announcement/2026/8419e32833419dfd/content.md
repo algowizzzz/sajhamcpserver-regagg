@@ -1,0 +1,98 @@
+* [HOME](/en/index.html)
+
+[Tweet](https://twitter.com/share)
+
+[Japanese![open new window](/en/images/common/icon_newwin.gif)](/status/index.html)
+
+# Regulated Institutions
+
+## [List of Institutions](/en/regulated/licensed/index.html)
+
+* [Banks](/en/regulated/licensed/index.html#01)
+* [Agents of Banks, etc.](/en/regulated/licensed/index.html#08)
+* [Foreign Bank’s Agent Banks](/en/regulated/licensed/index.html#02)
+* [Electronic Payment Services Operators](/en/regulated/licensed/index.html#09)
+* [Financial Service Intermediary Businesses Operators](/en/regulated/licensed/index.html#12)
+* [Financial Instruments Business Operators, etc.](/en/regulated/licensed/index.html#03)
+* [Insurance Companies](/en/regulated/licensed/index.html#04)
+* [Trust Companies](/en/regulated/licensed/index.html#05)
+* [Nonbank Financial Companies](/en/regulated/licensed/index.html#10)
+* [Funds Transfer Transaction Analysis Service Providers](/en/regulated/licensed/index.html#13)
+* [Mutual Financing Business Providers](/en/regulated/licensed/index.html#11)
+* [Financial Market Infrastructures](/en/regulated/licensed/index.html#06)
+* [Audit Firms](/en/regulated/licensed/index.html#07)
+
+## Administrative Action
+
+* [Administrative Action in the Financial Sector](/en/refer/guide/action.html)
+* Collection of cases in which administrative action has been taken [(Available in Japanese)![open new window](/en/images/common/icon_newwin.gif)](/status/s_jirei/kouhyou.html)
+
+## Statistics
+
+* [Status of Non-Performing Loans](/en/regulated/npl/index.html)
+* [Exposures of subprime-related products, etc](/en/regulated/subprime/index.html)
+* [Overview of major banks’ financial results](/en/regulated/bank/index.html)
+* [Overview of regional banks’ financial results](/en/regulated/regional_bank/index.html)
+* [Overview of financial results of major insurance companies](/en/regulated/insurance/index.html)
+* [Trends in High-Speed Trading](/en/regulated/trends_hst/index.html)
+* Figures aggregating the OTC derivative transactions ([Available in Japanese![open new window](/en/images/common/icon_newwin.gif)](/status/otcreport/index.html))
+* [Financial Assistance by Deposit Insurance Corporation of Japan![open new window](/en/images/common/icon_newwin.gif)](https://www.dic.go.jp/english/e_katsudo/shikinenjo.html)
+* [Capital Injection/Capital Participation by Deposit Insurance Corporation of Japan![open new window](/en/images/common/icon_newwin.gif)](https://www.dic.go.jp/english/e_katsudo/page_000297.html)
+* [Bank of Japan Statistics![open new window](/en/images/common/icon_newwin.gif)](http://www.boj.or.jp/en/statistics/index.htm/)
+* [Fund Monitoring Survey Results Overview](/en/regulated/fund_monitoring/index.html)
+
+## [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+
+## [To Investment Management-Related Service Entrusted Business Operators](/en/regulated_institutions/im-rs/index.html)
+
+## [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+
+## [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

@@ -1,0 +1,93 @@
+Madrid, 22 July 2026 
+ 
+IOSCO announces t hemes of the 10 th edition of 
+World Investor Week 
+IOSCO’S global campaign dedicated to promoting investor education and protection will take place 
+from 5 to 11 October 2026 and focus on Investor Resilience and Scams Awareness 
+ 
+Celebrating a decade of promoting investor education , investor protection  and financial literacy 
+worldwide, World Investor Week (WIW) 2026 will bring together financial  regulators, industry 
+stakeholders, academic institutions and more to raise awareness around current and emerging topics 
+impacting investors around the world. Since its launch in 2017, World Investor Week has grown into 
+a global initiative reaching millions of individuals across more than 100 jurisdictions. 
+ 
+The primary themes for WIW 2026 are Investor Resilience, Digital Deception , and Scam Alert , 
+reflecting some of the most significant challenges facing investors today . Through the  week-long 
+campaign, IOSCO and participating organizations aim to encourage investors to make informed, fact-
+based decisions in changing market conditions, to critically assess investment-related content online 
+and to remain alert against fraud and scams. 
+ 
+These primary themes will be supported by complementary educational themes on Basics of Investing 
+and Young Investors & Next Generation. 
+ 
+WIW 2026 will be held under the campaign tagline: “Invest in Your Future. Protect It Today.” 
+ 
+Last year’s World Investor Week brought together 137 participants across 118 jurisdictions, with 
+activities reaching millions of individuals globally. These a ctivities were often supplemented at a 
+national level by a range of industry and educational organizations, including schools, universities, and 
+other local stakeholders. 
+ 
+As in previous years, WIW 2026 will be supported by a number of partner organizations, including the 
+Financial Planning Standards Board ’s (FPSB) bespoke World Financial Planning Day  on October 8, as 
+well as the World Federation of Exchanges’ (WFE) Ring the Bell for Financial Literacy event. 
+MEDIA RELEASE
+
+“Investor protection remains at the heart of IOSCO’s mission. As World Investor Week marks 
+its 10th edition, the campaign continues to address the issues that matter most to retail 
+investors. This year’s themes reflect the need for investors to remain resil ient in changing 
+market conditions, to question investment information they encounter online, and to stay 
+alert to increasingly sophisticated scams. I thank IOSCO member jurisdictions and regional 
+supporters for their continued commitment to this important global initiative.”  
+Jean-Paul Servais, IOSCO Board Chair 
+ 
+“World Investor Week has always been effective because it can be adapted to the realities of 
+each jurisdiction while carrying shared global messages. For WIW 2026, the focus is on helping 
+investors navigate today’s evolving financial environment through practical and relevant 
+initiatives that strengthen financial confidence and support informed decision -making in an 
+increasingly complex environment.”  
+Camille Beaudoin, Director, Financial Education Expertise and Partnerships, AMF Québec 
+and Chair of IOSCO’s Committee on Retail Investors 
+ 
+Additional information, list of participants and events, and ways to join can be found at 
+www.worldinvestorweek.org and on social media (Linkedin, Instagram and X). 
+ 
+Notes to Editors 
+1. IOSCO is the leading international policy forum for securities  and derivatives regulators and the global 
+standard setter for financial markets regulation. It develops, implements and promotes adherence to 
+internationally recognized standards for financial markets regulation and works closely with other international 
+organizations on the global regulatory reform agenda. 
+2. The Organization's membership regulates more than 99% of the world's financial markets in over 130 
+jurisdictions. By providing high quality technical assistance, education, and training, IOSCO supports its members 
+to come together to achieve the following three objectives:  
+• Enhance investor protection;  
+• Ensure markets are fair and efficient; and  
+• Promote financial stability by reducing systemic risk. 
+3. The IOSCO Board is the governing and standard- setting body of IOSCO and is made up of 35 securities 
+regulators. Mr. Jean-Paul Servais, the Chair of Belgium’s Financial Services and Markets Authority (FSMA), is the 
+Chair of the IOSCO Board. Dr. Islam Azzam, Executive Chairman, Financial Regulatory Authority, Egypt, Mr. 
+Toshiyuki Miyoshi, Vice Minister for International Affairs, Financial Services Agency, Japan , Mr. Mark T. Uyeda, 
+Commissioner, US Securities and Exchange Commission (SEC) and Mr. Grant Vingoe, Chief Executive Officer, 
+Ontario Securities Commission (OSC) are Vice-Chairs of the IOSCO Board.
+
+4. The Growth and Emerging Markets (GEM) Committee is the largest Committee within IOSCO, 
+representing more than 75% of the IOSCO membership, including ten of the G20 members. The Committee 
+unites members from growth and emerging markets and communicates thei r views at other global regulatory 
+discussions. It is chaired by Dr. Islam Azzam, Executive Chairman, Financial Regulatory Authority,  Egypt. 
+5. IOSCO counts four regional committees: (1) Africa / Middle -East (AMERC), chaired by H.E. Waleed 
+Saeed Al Awadhi, Chief Executive Officer, Securities and Commodities Authority,  United Arab Emirates; (2) Asia 
+& Pacific (APRC), chaired by Ms. Julia Leung, Chi ef Executive Officer of the Hong -Kong Securities and Futures 
+Commission; (3) European Regional Committee (ERC), chaired by Mr. Jean -Paul Servais; and (4) Inter -American 
+Regional Committee (IARC), chaired by Ms. Christina Rolle, Executive Director, Securiti es Commission of The 
+Bahamas. 
+6.  IOSCO’s General Secretariat is headquartered in Madrid, Spain. The Secretariat supports and 
+coordinates the work of IOSCO and is comprised of permanent staff and member secondees. It is led by Rodrigo 
+Buenaventura who was appointed IOSCO’s Secretary General in January 2025. 
+7.  IOSCO’s World Investor Week has two primary objectives, namely (i) to disseminate key messages that 
+support investor education, investor protection and financial literacy; and (ii) to foster learning opportunities 
+for investors. The campaign also aims to strengthen collaboration among IOSCO members on investor education 
+and protection initiatives. 
+ 
+Press Enquiries 
+Emilie Bernard 
+Communications Manager 
+e.bernard@iosco.org / www.iosco.org

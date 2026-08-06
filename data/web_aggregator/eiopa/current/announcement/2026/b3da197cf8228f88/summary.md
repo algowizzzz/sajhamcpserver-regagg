@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published four Opinions to assist National Competent Authorities (NCAs) in the implementation of the Institutions for Occupational Retirement Provisions - the IORP II Directive:

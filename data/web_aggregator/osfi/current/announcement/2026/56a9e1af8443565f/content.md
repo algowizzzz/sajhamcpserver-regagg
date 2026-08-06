@@ -1,0 +1,28 @@
+# Relations de presse
+
+Notre équipe de relations avec les médias répond seulement aux appels et aux courriels des médias. Pour les appels et les courriels reçus à l’extérieur des heures de service ou pendant les jours fériés, l’équipe répondra le jour ouvrable suivant.
+
+### Heures de service
+
+Du lundi au vendredi, de 9 h à (heure de l’Est)
+
+### Coordonnées
+
+Courriel : [Media-Medias@osfi-bsif.gc.ca](mailto:Media-Medias@osfi-bsif.gc.ca)   
+Téléphone : 343-550-9373
+
+### Demandes de renseignements du public
+
+Si vous n’êtes pas journaliste et que vous avez un commentaire ou une question, veuillez consulter notre page [Contactez-nous](/fr/contactez-nous "Contactez-nous").
+
+![](/sites/default/files/styles/responsive_tabled_medium/public/2023-06/kane-reinholdtsen-letdkk7whqk-unsplashop_1.jpg?itok=fHNjVwkE)
+
+* [Communiqué de presse](/fr/nouvelles?search=&type=5&year=&field_topics=All&field_speakers=&items_per_page=5)
+* [Avis aux médias](/fr/nouvelles?search=&type=10&year=&field_topics=All&field_speakers=&items_per_page=5)
+* [Discours](/fr/nouvelles?search=&type=4&year=&field_topics=All&field_speakers=&items_per_page=5)
+* [Déclaration](/fr/nouvelles?search=&type=9&year=&field_topics=All&field_speakers=&items_per_page=5)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-01-18

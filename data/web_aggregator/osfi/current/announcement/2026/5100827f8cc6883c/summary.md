@@ -1,0 +1,1 @@
+Summary: # Instructions pour remplir la version 2026 du gabarit de collecte de données de l’examen de la santé financière du BSIF (assurance vie)

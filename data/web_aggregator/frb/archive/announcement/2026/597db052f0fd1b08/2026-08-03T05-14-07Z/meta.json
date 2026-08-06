@@ -1,0 +1,26 @@
+{
+  "doc_id": "597db052f0fd1b08",
+  "regulator_id": "frb",
+  "doc_type": "announcement",
+  "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+  "language": "en",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+  "reference_number": null,
+  "published_date": "2026-07-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:afef67536d20a5145f2601826a1dbaa502b1da0f7f7b152c441b2097ca44fb99",
+  "version_ts": "2026-08-03T02-27-25Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:27:25.940758+00:00",
+  "run_id": "2026-08-02_frb_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/frb/current/announcement/2026/597db052f0fd1b08",
+  "tags": [
+    "us",
+    "central_bank",
+    "prudential",
+    "banking"
+  ]
+}

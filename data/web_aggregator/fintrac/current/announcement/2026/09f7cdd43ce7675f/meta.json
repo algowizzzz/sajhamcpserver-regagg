@@ -1,0 +1,24 @@
+{
+  "doc_id": "09f7cdd43ce7675f",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Changement apport\u00e9 aux avis publics concernant les p\u00e9nalit\u00e9s administratives p\u00e9cuniaires",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/pen/6-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a3327b891f4af554e1b1cc887f3079be0819b869076327b3386a7184c6b86f0c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/09f7cdd43ce7675f",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

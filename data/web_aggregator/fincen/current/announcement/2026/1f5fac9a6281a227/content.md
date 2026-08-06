@@ -1,0 +1,37 @@
+# Purported Charity Attempts to Evade Reporting Requirements
+
+[053.pdf](/system/files/case_example/053.pdf "053.pdf")
+(22.67 KB)
+
+Upon receipt of a Suspicious Activity Report from a bank, the Federal Bureau of Investigation initiated a bank and mail/wire fraud investigation involving a purported charity raising money for needy people in a Middle Eastern country. The Suspicious Activity Report identified a series of checks being deposited into an individual’s personal checking account, all of which were just under $10,000. While this activity was not a violation of the Currency Transaction Reporting requirements, the activity was suspicious in nature to the bank. After several years of investigation, evidence was obtained indicating that the individuals involved did in fact know they were avoiding Internal Revenue Service scrutiny by moving money using checks written under the amount of $10,000. Seven individuals were charged with a variety of federal felonies including Money Laundering, Tax Fraud, Visa Fraud, Mail Fraud, and Wire Fraud. Four individuals pled guilty and are cooperating with the investigation.
+
+(Source: Federal Bureau of Investigation)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 8, April 2005]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Depository Institutions
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

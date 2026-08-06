@@ -1,0 +1,92 @@
+1 
+Last update: 18 March 2021 
+Joint ESAs Q&As on exchange of collateral  
+ 
+The Joint Q&As were developed by the E uropean Supervisory Authorities (EBA, EIOPA and ESMA) 
+based on their joint mandate under Article 11(15) of EMIR1 to define bilateral margin requirements. 
+ 
+ 
+Contents 
+1. Intragroup transactions 2 
+1.1. Partial exemption 2 
+1.2. Application process for intragroup transactions between financial counterparties and 
+non-financial counterparties 2 
+2. Covered bonds exemption 2 
+2.2 Scope of the covered bonds exemption 2 
+ 
+ 
+  
+                                                                                                               
+1 European Market Infrastructure regulation (EMIR) 
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32012R0648&from=EN
+
+2 
+Last update: 18 March 2021 
+1. Intragroup transactions 
+ 
+1.1. Partial exemption  
+ 
+Question 1: [last update 18 March 2021] 
+Intragroup transactions can be exempt “totally or partially” from the requirement related to 
+the exchange of collateral for OTC derivatives contracts not cleared by a CCP. What is the 
+scope of this partial exemption? 
+ 
+Answer 1: 
+When making a decision on the exemption from the requirement to exchange collateral, the 
+relevant competent authorities shall assess whether the “the risk-management procedures 
+of the counterparties are adequately sound, robust and consistent with the level of 
+complexity of the derivative transaction.” Competent authorities can conclude that the risk-
+management procedures of the counterparties are consistent with an exemption from initial 
+margins, but not from variation margins. In this case, as it is foreseen in Article 32(4) of the 
+Commission Delegated Regulation 2016/2251, competent authorities could grant a partial 
+exemption, i.e. an exemption limited to the exchange of initial margins.  
+ 
+ 
+1.2. Application process for intragroup transactions between financial 
+counterparties and non-financial counterparties  
+ 
+Question 2: [last update 18 March 2021] 
+ 
+In the process related to the intragroup exemption from the exchange of collateral, where a 
+counterparty is a financial counterparty and the other counterparty is a non -financial 
+counterparty and they are established in different Member States. Which competent 
+authority should decide on the exemption? 
+ 
+Answer 2: 
+Only the financial counterparty should apply to its competent authority (as it is mentioned 
+in Article 11(10) of EMIR). According to Article 32(9) of the Commission Delegated 
+Regulation 2016/2251, the competent authority of the financial counterparty will make a 
+decision and will communicate it to the competent authority of the non -financial 
+counterparty. 
+ 
+2. Covered bonds exemption 
+ 
+2.2 Scope of the covered bonds exemption  
+ 
+Question 3: [last update 18 March 2021] 
+Does the exemption in Article 30 Commission Delegated Regulation (EU) 2016/2251 (RTS 
+2016/2251) of the margin rules concerning OTC derivatives concluded in connection with 
+covered bonds apply where the conditions in Article 30(2) RTS 2016/2251 are satisfied in
+
+3 
+Last update: 18 March 2021 
+respect of all such covered bonds or only to those covered bonds that are issued by credit 
+institutions that have their registered office in the European Union and which are subject to 
+special public supervision designed to protect bond holders? 
+ 
+Answer 3: 
+According to Article 30 of the Commiss ion Delegated Regulation (EU) 2016/2251 (RTS 
+2016/2251), each of the conditions set out in Article 30(2) RTS 2016/2251 must be fully 
+met. Article 30(2)(f) of RTS 2016/2251 also requires that the covered bond with which the 
+OTC derivative transaction is ass ociated with must meet the requirements in paragraphs 
+(1), (2), and (3) of Article 129 of the CRR Regulation (EU) No 575/2013.  
+ 
+Article 129(1) of the CRR provides preferential credit risk weighting treatment only for 
+“bonds as referred to in Article 52(4) of Directive 2009/65 (“UCITS Directive”)”. Article 52(4) 
+of the UCITS Directive in turn refers to bonds that are issued by a credit institution, which 
+has its registered office in a Member State and is subject by law to special public supervision 
+designed to protect bond-holders.  
+ 
+Hence, the exemption can only be applied to those covered bonds that are issued by EU 
+based credit institutions that have their registered office in the European Union and which 
+are subject to special public supervision designed to protect bond holders.

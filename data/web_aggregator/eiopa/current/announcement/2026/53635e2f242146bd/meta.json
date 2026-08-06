@@ -1,0 +1,27 @@
+{
+  "doc_id": "53635e2f242146bd",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "ESAs statement on securitisation disclosure and application of rules for credit institutions - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/esas-statement-securitisation-disclosure-and-application-rules-credit-institutions-2018-11-30_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:34995f01144d4470bdbf35cd10c366a142a386b6e3fd5944ccf1a7ae6356b810",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/53635e2f242146bd",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/esas-statement-securitisation-disclosure-and-application-rules-credit-institutions-2018-11-30_en",
+  "fetch_method": "html_to_md"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "7a425ac422df7e56",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FinCEN Advisory - Issue 12 | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/advisories/fincen-advisory-issue-12",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7ab6ad2cfbde54ab77a85d31bc2ec65678ff3c4a45289e3ca4be4b321c576a20",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/7a425ac422df7e56",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

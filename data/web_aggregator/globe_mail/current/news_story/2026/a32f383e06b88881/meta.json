@@ -1,0 +1,25 @@
+{
+  "doc_id": "a32f383e06b88881",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "Scientists now certain that a piece of a SpaceX rocket crashed into the moon",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/world/article-spacex-rocket-piece-crashed-into-moon/",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:788d65843955ee7d5e59e87f40f762e2be4748bf5778947c5fbc40b0e71bfe81",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/a32f383e06b88881",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/world/article-spacex-rocket-piece-crashed-into-moon/",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,62 @@
+* INTERVIEW
+
+# Interview with Liberal.gr
+
+## Interview with Sharon Donnery, member of the Supervisory Board of the ECB, conducted by Alexandros Velmachos
+
+28 July 2026
+
+**European banks have remained resilient despite a series of recent shocks. Looking ahead, which risks concern ECB Banking Supervision the most, particularly in light of the current geopolitical environment?**
+
+European banks are navigating this period of uncertainty from a position of strength. Capital, liquidity and profitability have all improved markedly over recent years. But resilience should never lead to complacency. Geopolitical tensions remain a key cross-cutting risk driver because they can affect the economy, financial markets, operational resilience and cyber security all at once. Having lived through the Irish banking crisis, I learned that resilience is something you should build before the storm, not during it. That is why our supervision is increasingly forward-looking: our job is to prepare banks for tomorrow's risks, not simply explain yesterday's. For example, in our reverse stress test exercise, we have been asking banks to assess how geopolitical shocks could affect their business and to strengthen their contingency planning wherever vulnerabilities come to light. We will publish the outcome in a few days.
+
+**The ECB has stressed that supervisory simplification should make supervision more efficient without lowering standards. What practical changes should banks expect over the next two years?**
+
+Simplification does not mean lighter supervision. It means smarter supervision, focusing more on the risks that matter most for each individual bank. This is already changing the way we supervise, from decision-making and internal models to reporting. We have also made our decisions easier for banks to understand, while making better use of digital tools and data to enhance efficiency. Good supervision should challenge banks’ risk management, prioritising key risks.
+
+**The European Banking Authority has launched a consultation on simplifying the 2027 EU-wide stress test while strengthening climate risk integration. How do you assess this initiative, and do you expect further changes before the 2027 exercise?**
+
+We welcome any initiatives that make stress testing more effective and proportionate while preserving its supervisory value. We need to make stress tests simpler without making them less rigorous, so that they remain an effective tool to help keep the financial system safe. Stress tests should also evolve alongside the risks banks face, including climate and nature-related risks, which increasingly have financial implications. At the same time, the ECB is complementing traditional stress tests with more tailored approaches. For example, as I mentioned earlier, our 2026 geopolitical stress test asks banks to identify a combination of geopolitical events that would seriously challenge their resilience and demonstrate how they would respond. Different tools serve different purposes, and together they give supervisors a more complete picture of banks’ resilience. The objective is simple: to devote less effort to collecting information and more to understanding risk.
+
+**Artificial intelligence (AI) is becoming a key priority for banks. What are your main supervisory expectations regarding AI governance and risk management?**
+
+AI opens up enormous opportunities for banks, from customer services to risk management. But innovation must go hand in hand with strong governance. Banks cannot outsource accountability to an algorithm. Boards and senior management remain responsible for AI-enabled decisions and must understand where AI is used, the risks it creates and how those risks are controlled. Innovation creates value only when it is accompanied by sound governance, robust operational resilience and effective risk management.
+
+At the same time, new AI models are transforming the cyber threat landscape, as recently flagged by the European Systemic Risk Board. These models can dramatically accelerate the discovery and exploitation of vulnerabilities, leaving banks far less time to detect threats, patch systems and respond to attacks. We also expect banks to strengthen their cyber resilience, incident response and oversight of critical third-party providers. That is why ECB Banking Supervision has asked banks to submit action plans by October in a recent letter to all CEOs.
+
+**Greek banks have significantly improved their profitability, capital position and asset quality in recent years. From the ECB’s perspective, how do you assess the Greek banking sector today, and what are the main supervisory challenges that remain?**
+
+The transformation of the Greek banking sector over the past decade is one of Europe’s most striking banking recovery stories. The country’s banks have significantly strengthened their capital positions and returned to sustainable profitability, achievements driven by their determination and decisive action from the authorities.
+
+Yet, challenges remain. As the global environment grows more complex, with geopolitical tensions and rapid advancements in AI, future success will hinge on resilient business models and robust risk management, rather than favourable market conditions. Like their counterparts across Europe, Greek banks should continue investing in resilience and prudent risk management. The next chapter is not just about sustaining profitability; it is about ensuring that banks remain trusted partners for Greek households and businesses, financing investment, supporting growth and serving their customers through good times and bad.
+
+**Many homeowners or small businesses still have outstanding debt to specialized credit servicing companies. Does that hamper the recovery?**
+
+In Greece, selling loan portfolios to specialised funds was one of the key channels through which banks reduced the volume of non-performing loans on their balance sheets. Consumer protection and the supervision of credit servicers fall outside the ECB’s mandate. This being said, it is true that these sales do not make the underlying debt disappear. This is why borrowers need strong consumer protection and an effective debt workout framework. At the same time, reducing non-performing loans on banks’ balance sheets helped rebuild trust by making Greek banks better able to absorb shocks, which supports financial stability and the broader economic recovery. And of course, this progress means the Greek banks can better serve the needs of businesses and households.
+
+**As interest rates gradually normalise, banks will increasingly need to rely on more diversified sources of income. How do you expect European banks’ business models to evolve over the medium term?**
+
+Higher interest rates have supported bank profitability in recent years. Interest rates can boost earnings for a while; they cannot replace a sustainable business model. It is not for supervisors to decide what banks’ business models should look like in the future – that is rightly a matter for banks’ management and boards. Our role is to ensure that, whatever strategy a bank chooses, it is supported by sound governance, effective risk management and sufficient operational resilience. Personally, I believe that banks that embrace innovation, improve efficiency and continue investing in high-quality customer services will be well placed to succeed over the medium term. Ultimately, the most successful banks will be those that combine innovation with resilience and prudent risk-taking.
+
+**The debate on European competitiveness increasingly includes the banking sector. Which reforms do you consider most important to strengthen Europe’s banking system, and how important is completing the banking union?**
+
+ECB Banking Supervision and the post-financial crisis regulatory reforms have made Europe’s banking sector much stronger and more resilient. The challenge today is different: fragmentation still limits banks’ ability to compete, grow and fully support Europe’s economy. Completing the banking union, together with deeper and more integrated European capital markets, is therefore not simply an institutional ambition; it is an economic necessity. It would enable banks to operate more efficiently, support cross-border investment and better finance Europe’s growth. Some argue that competitiveness requires lighter regulation. My experience suggest otherwise. Having witnessed the financial crisis at close quarters, I learned that resilience is the foundation of competitiveness, not its opposite. That is why ECB Banking Supervision has a clear mandate: to safeguard the safety and soundness of banks. That clarity is one of our greatest strengths. Competitive banks need resilient foundations because trust is the banking sector’s most valuable asset. Resilience and competitiveness are not mutually exclusive; they reinforce one another.
+
+**What do you think of the European Commission’s report on the competitiveness of the EU banking sector published on 17 July? What are its potential implications for banking supervision?**
+
+I welcome the report because it shifts the debate towards the real drivers of competitiveness: European banks are not held back by resilience. As I have already said, they are held back by fragmentation, complexity and the fact that Europe’s financial market is still not fully integrated. The ECB has actively contributed to this debate through two reports in December last year and through its response to the Commission’s public consultation in April, all of which highlighted the need to make banks better able to support the economy and to streamline the framework without weakening resilience. We look forward to contributing further to the discussions and legislative process ahead. The Commission report rightly recognises that completing the banking union, deepening the savings and investments union and reducing unnecessary complexity should all be priorities. From a supervisory perspective, this confirms the path we are already pursuing: making supervision more efficient, more proportionate and more focused on material risks, without lowering prudential standards. Having witnessed the consequences of the financial crisis at first hand, I am convinced that weakening resilience is not a route to competitiveness. Trust is the banking sector’s greatest competitive advantage, and resilience is what sustains that trust.
+
+CONTACT
+
+## European Central Bank
+
+### Directorate General Communications
+
+* Sonnemannstrasse 20
+* 60314 Frankfurt am Main, Germany
+* [+49 69 1344 7455](tel:+49 69 1344 7455)
+* [media@ecb.europa.eu](mailto:media@ecb.europa.eu)
+
+Reproduction is permitted provided that the source is acknowledged.
+
+[Media contacts](/press/contacts/html/index.en.html)

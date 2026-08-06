@@ -1,0 +1,1 @@
+Summary: # Third time’s a charm for CDC director as Senate finally confirms Erica Schwartz as new agency head

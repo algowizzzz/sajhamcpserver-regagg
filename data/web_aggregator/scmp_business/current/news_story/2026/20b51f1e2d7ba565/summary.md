@@ -1,0 +1,1 @@
+Summary: # Chinese biotech giant WuXi AppTec sees first-half earnings surge amid US scrutiny

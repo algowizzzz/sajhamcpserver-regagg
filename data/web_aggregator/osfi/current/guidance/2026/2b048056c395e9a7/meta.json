@@ -1,0 +1,27 @@
+{
+  "doc_id": "2b048056c395e9a7",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Capital Treatment of Crypto-asset Exposures (Insurance) \u2013 Guideline - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-treatment-crypto-asset-exposures-insurance-guideline",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1877414e4d27318b731ab91576f5f34f225fa23dd0740d5b035dcc7c72539125",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/2b048056c395e9a7",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-treatment-crypto-asset-exposures-insurance-guideline",
+  "fetch_method": "html_to_md"
+}

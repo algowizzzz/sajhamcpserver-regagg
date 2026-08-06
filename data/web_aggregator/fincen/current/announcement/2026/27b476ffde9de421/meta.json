@@ -1,0 +1,24 @@
+{
+  "doc_id": "27b476ffde9de421",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Application of FinCEN\u2019s Regulations to Virtual Currency Software Development and Certain Investment Activity | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/application-fincens-regulations-virtual",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:919b8cc540d242abe7357036068a6420707702d8935845b4a43a4d0ed1639e12",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/27b476ffde9de421",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,1 @@
+Summary: # Biggest Worker’s Compensation Scam in Southern California Totaling More Than $3 Million Dollars

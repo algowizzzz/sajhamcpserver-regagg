@@ -1,0 +1,21 @@
+# Priorité 4 : Gestion et analytique des données
+
+## Résultat attendu
+
+Nous disposons de capacités et de systèmes de gestion, de collecte et d’analyse des données à la pointe de la technologie.
+
+![](/sites/default/files/images/pr6-on.png)
+
+## Pourquoi est-ce une priorité
+
+Nous devons suivre l’évolution du paysage financier pour mieux comprendre et gérer les risques émergents. À cette fin, nous devons recourir à l’analytique des données et à des technologies de pointe pour évaluer l’incidence de nos mesures de réglementation et de surveillance sur les institutions financières, mais aussi pour améliorer nos politiques, nos consignes et nos interventions. La gestion et l’analytique des données ont été d’emblée définies comme une priorité de notre processus de transformation en 2022, et le demeureront parce que les initiatives dans ce domaine sont complexes et exigent énormément d’efforts.
+
+## Objectifs liés à cette priorité
+
+* Nous sommes un organisme de réglementation qui est reconnu pour être axé sur la gestion et l’analytique des données, prendre des décisions éclairées et exercer ses activités de surveillance et de réglementation en anticipant bien l’évolution du contexte de risque.
+* L’infrastructure technologique, la qualité et la gouvernance des données contribuent à des capacités de collecte et d’analyse très avancées qui nous permettent de nous acquitter de nos obligations législatives envers nos interlocuteurs du Comité de l’information financière.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-04-09

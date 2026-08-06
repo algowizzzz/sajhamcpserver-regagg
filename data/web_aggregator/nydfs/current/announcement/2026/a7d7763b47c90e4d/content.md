@@ -1,0 +1,821 @@
+![hands on a keyboard with a lock superimposed](/sites/default/files/styles/wide_lead/public/media/2023/11/Cyber-Lock-Keyboard.jpg?h=b5f6a62e&itok=Md4MbKim "Cybersecurity")
+
+[Information for Consumers](/consumers)
+
+## Scams, Fraud, and Cyber Crime
+
+Learn how to recognize and report scams and suspected fraud and what you can do to avoid becoming a victim.
+
+[TOP](#top)
+
+Scams, Fraud, and Cyber Crime
+
+SHARE
+
+* [See All](#)
+
+## Protect Yourself
+
+With the vast amount of sensitive personal information that many people keep and access online, from bank accounts to tax records to emails, it is important to take basic steps to make sure your online identity is secure from cyber criminals.
+
+The following are three steps you can take to protect yourself from fraud and cyber crime
+
+### Use Multi-Factor Authentication
+
+Multifactor authentication (MFA) is the best way to prevent your online accounts from being taken over by cybercriminals. MFA provides a two-step sign-in process, so if your password is compromised, there is a second step to the log-in process to protect you. It is free, easy to set up and widely available for many popular services.
+
+If the option is available, hardware-based or app-based are the most secure options for MFA. SMS text message is the least secure choice for MFA and should be used only as a last resort.
+
+On any services where you have sensitive information, just search “multifactor authentication” or “two-step verification” to find instructions on setting up MFA. Common services that have free MFA include [Google/Gmail](https://safety.google/authentication/), [Microsoft](https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4), social media like [Facebook](https://www.facebook.com/help/148233965247823) and [Twitter](https://help.twitter.com/en/managing-your-account/two-factor-authentication), and most bank accounts and financial services.
+
+### Don’t Reuse Passwords & Use Strong Passwords
+
+Don't reuse the same password for different accounts. Cyber criminals regularly hack into organizations and steal customer usernames and passwords. This has happened in well known cases like the hacks of LinkedIn and Yahoo.
+
+Cybercriminals know that people often reuse passwords, so once they have a stolen username and password, they will try to use it to access email accounts, bank accounts, etc. You should assume that any password you use will eventually fall into the hands of cyber criminals, so using a different password for each account is important.
+
+Consider using a password manager to generate random passwords and store them. If you do use a password manager, be sure to protect it with a strong, unique password and MFA.
+
+Above all, you should avoid using simple or common passwords. Cybercriminals know the passwords that are most commonly used and will try those first – such as passwords based on dates or seasons like "Winter2018”, common words “Password123”, and locations “NewYork2020”.
+
+### Install Updates Automatically
+
+Cybercriminals are constantly exploiting flaws in our technology, and defenders are constantly updating applications and operating systems to remove those flaws. All of our software and devices get regular security updates. In fact, phones, computers, tablets and software all have an option to update automatically, eliminating the need for you to do so manually. It only takes a few minutes to turn on automatic updates. You can get started with these instructions for [Apple iOS devices](https://support.apple.com/en-us/HT204204), [Windows computers](https://support.microsoft.com/en-us/windows/manage-updates-in-windows-643e9ea7-3cf6-7da6-a25c-95d4f7f099fe), and [Mac](https://support.apple.com/guide/mac-help/keep-your-mac-up-to-date-mchlpx1065/mac).
+
+Once an update is made available, the flaws that it fixes are also made public. Cybercriminals are often quick to try to exploit users who are slow to install the update right away.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Unauthorized Use of This Agency's Name
+
+The Department has learned of instances involving the unauthorized and unapproved use of the Department’s name, letterhead, email domain, and/or phone number to contact consumers and regulated entities. This outreach is not affiliated with DFS, and the people or companies using our name and information are not authorized to do so.
+
+Consumers and regulated entities should familiarize themselves with the following reports to the Department:
+
+* DFS is aware of a scam in which a consumer receives a call about a bank or credit union “case” being “prosecuted” by DFS against the consumer. The caller identifies himself as either being from DFS or the Inspector General’s office, and requests personal information from the consumer. **These calls are fraudulent.** The callers are trying to get your personal information to gain access to your money or for other fraudulent purposes. DFS is not making these calls and is not asking other agencies to make these calls.
+* DFS has been notified that scammers posing as money transmitters, lenders, consultants, and other providers of financial services have created counterfeit licenses and other documents on DFS letterhead which appear to be issued by DFS. DFS did not issue these documents.
+* DFS has become aware of a proposal by an entity called Brooklands New Media Ltd. soliciting advertisements for purported publication by the Department. DFS is in no way associated with this organization, the proposed publication, or the email solicitations.
+
+Consumers and regulated entities can protect themselves with the following tips:
+
+* Do not provide personal information in response to an unsolicited letter, email, or phone call that claims to be from or about DFS.
+* DFS does not make or sanction unsolicited calls or send unsolicited letters or emails to the public.
+* DFS does not prosecute court cases against consumers and does not represent banks or credit unions.
+
+To find out if a communication came from or is affiliated with DFS, call our Consumer Hotline at (800) 342-3736 or send us an email at [[email protected]](/cdn-cgi/l/email-protection#e784888994928a829594a7838194c9899ec9808891).
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Security Breaches
+
+### What is a Security Breach?
+
+A security breach is unauthorized access to your private information held electronically by a business or government institution or nonprofit organization. That private information can include your Social Security Number, medical records, bank account, or credit card number. Criminals can use this information to commit identity theft by making fraudulent purchases, and entering fraudulent transactions in your name. Security breaches can occur in different ways, including:
+
+* Loss or theft of electronics, for example a phone, flash drive or laptop, containing sensitive information
+* Hacking or malware
+* Unintended disclosure
+* Inadvertent access
+* Raiding discarded computers that have not been properly “wiped”
+
+### Security Breach Notification
+
+In New York, businesses or organizations that have experienced a security breach must notify consumers of the breach. Notification can be by letter, email, telephone, through the media, or by information placed on the business’s or organization’s website.
+
+#### What to Do
+
+If you are notified about a security breach, consider the following information:
+
+#### Is the notice legitimate?
+
+If you receive a security breach notice, take steps to confirm that the notice is legitimate and not a scam. Check online to make sure the notice contains verifiable contact information such as a valid website or customer service phone number that matches information on the company’s or organization’s official website.
+
+#### Get the facts.
+
+Take the time to read the notice. It should state when the breach occurred, what data was affected, and it should provide a contact number or consumer help line. If you have questions, call the company directly, or search online for the company’s official website, which should contain information for victims of the breach. Remember to take — and keep — notes from all conversations with company representatives and keep any written material you have about the security breach for your future reference.
+
+#### Find out what they will be doing to reduce your risk of ID theft.
+
+If the company or organization that has suffered a breach offers free credit monitoring (or other services) to assist victims of the breach, consider signing up. Credit monitoring will provide regular reviews of your credit report and pick up signs of identity theft and alert you so you can act early to stop theft of your identity.
+
+#### Be wary of contact by scammers.
+
+It’s NOT a good idea to provide information to anybody who calls or emails you claiming to be from the company or organization that has experienced a security breach. Don’t respond to emails, or click on any links in an email that looks like it came from the breaching entity. These emails could be fraudulent.
+
+#### Watch for signs of fraud.
+
+Not every security breach results in theft or fraud, but you should be vigilant. Check your credit card billing statements for charges you did not make, and monitor your bank and other financial statements. If you spot something suspicious or unusual, report it to your credit card or financial services company immediately.
+
+#### Review your credit reports.
+
+Whether or not you are a breach victim, check your credit reports regularly. By law, you are entitled to a free annual credit report from each of the three major credit reporting agencies (Experian, Equifax, TransUnion), so request a free report from one of the agencies every four months. Review the report carefully for signs of suspicious activity and check out errors and inconsistencies. Checking your credit report will not affect your credit rating. Request your credit reports from all three agencies at [www.annualcreditreport.com](https://www.annualcreditreport.com/index.action), or by calling (877) 322-8228.
+
+#### Consider a “security freeze” or “fraud alert.”
+
+##### Security Freeze
+
+A security freeze makes it harder or impossible for somebody to open an account or borrow money in your name using your information. A freeze prevents creditors from accessing your credit files to review your history, thus preventing any new credit from being opened for you, unless you authorize the credit reporting agencies to allow access. To request a freeze, you must contact each of the credit reporting agencies as their credit freeze procedures differ (see below).
+
+##### Fraud Alert
+
+A fraud alert notifies creditors to contact you before they open new accounts or change existing ones. You can have the three credit bureaus place a 90-day fraud alert, which can be renewed as often as necessary. A fraud alert does not lock down your credit; while creditors will get an alert message, there is no guarantee they will not issue credit.
+
+* Visit [Experian.com](https://www.experian.com/), [Equifax.com,](https://www.equifax.com/personal/) and [TransUnion.com](https://www.transunion.com/) to find out how to place a freeze or an alert.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Predatory Loans and Loan Scams
+
+### Cash-Advance Loan
+
+A cash advance loan is a small, short-term, high-interest loan that is offered in anticipation of the receipt of a future lump sum of cash or payment. Although a cash advance may be made in anticipation of future legal winnings, pensions, inheritances, insurance awards, alimony or real estate proceeds, the most common cash advance loans are Payday Loans and Tax Refund Anticipation Loans.
+
+### Payday Loan
+
+Payday loans are illegal in New York State
+
+It is a violation of New York State law to make payday loans in-person, by telephone, or over the Internet. It is also illegal for a debt collector to collect, or attempt to collect, on a payday loan in New York State.
+
+#### What is a Payday Loan?
+
+A payday loan is a relatively small, high-cost loan, typically due in two weeks and made with a borrower’s post-dated check or access to the borrower’s bank account as collateral.
+
+**Payday lending is illegal in New York for a number of reasons:**
+
+* Payday loans are designed to trap borrowers in debt. Due to the short term, most borrowers cannot afford to both repay the loan and pay their other important expenses.
+* If the loan cannot be paid back in full at the end of the term, it has to be renewed, extended, or another loan taken out to cover the first loan. Fees are charged for each transaction.
+* The annual percentage rates on payday loans are extremely high, typically around 400% or higher.
+* Lenders ask that borrowers agree to pre-authorized electronic withdrawals from a bank account, then make withdrawals that do not cover the full payment or that cover interest while leaving principal untouched.
+* If the lender deposits a repayment check and there are insufficient funds in the borrower’s account, the borrower is hit with even more fees for insufficient funds.
+
+#### Steer clear of payday loans
+
+If you are struggling to pay your bill, ask your creditors for more time. Find out what they charge for late payments, finance charges or interest rates since it may be lower than what you might end up paying for a payday loan.
+
+Work with a community development credit union or a non-profit financial cooperative, which may provide affordable small-dollar loans to eligible members.
+
+Ask for a salary advance from your employer, or borrow from family or friends.
+
+Consult social service agencies, they may have programs to help with food, housing and home heating costs.
+
+### Tax Refund Anticipation Loan
+
+Some tax return preparers offer what they may call ‘instant’, ‘express’ or ‘fast money’ refunds. These refunds are actually loans borrowed against the amount of your anticipated refund. These loans often include extremely high interest rates and high fees. They must be repaid even if you don’t get your refund or it is smaller than anticipated. To avoid the temptation of getting a Refund Anticipation Loan:
+
+File your tax return electronically and have your refund deposited directly into your bank account. This will speed up your refund. Some refunds will be deposited in as few as 10 days.
+
+If you don’t have a bank account, open one. All banks in New York State are required to offer low-cost [Basic Banking Accounts](/consumers/banking_money).
+
+Go to a Volunteer Income Tax Assistance (VITA) site at your local library or community center. The [IRS Volunteer Income Tax Assistance (VITA) and the Tax Counseling for the Elderly (TCE) programs](https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers) offer free tax help for taxpayers who qualify.
+
+[AARP Tax-Aide](https://www.aarp.org/money/taxes/aarp-taxaide/) helps people of low-to-middle income, with special attention to people who are 60 and older, with taxes and refunds. To locate the nearest AARP Tax-Aide site, call (888) 227-7669.
+
+### Advance Fee Loan Scam
+
+These scams involve a company claiming that they can guarantee you a loan if you pay them a processing fee, an application fee or pay for ‘insurance’ on the loan in advance. The company will advertise on the Internet, in the classified section of a newspaper or magazine, or in a locally posted flyer. They will sometimes use a legitimate company’s name or use a variant of a trusted name. They will sometimes ask you to call them at a "900" number, which will result in charges to your phone bill. They will usually ask to be paid via overnight or courier service or by wire, so that they can’t be traced. In order to avoid being taken in by this scam you should be aware that:
+
+It is against the law for anyone to ask you to pay in advance to receive a loan or credit card.
+
+A legitimate lender will never guarantee you a loan or a credit card before you apply, especially if you have bad credit, no credit, or a bankruptcy petition on your credit report.
+
+These scams should not be confused with:
+
+* pre-qualified offers, which mean you are selected to apply and must go through the normal application process.
+* pre-approved offers, which require only verbal or written acceptance.
+* Don’t ever give out personal information or agree to a loan over the phone or via the Internet.
+
+### Government Grant and Loan Scam
+
+This scam, like the advance fee loan scam, uses the internet, phone and newspaper to advertise. A company claims that they can guarantee a grant or loan from the government in exchange for a fee. Victims are instructed to send money to pay for ‘insurance’ on the promised grant or loan. They will usually ask that the money be sent via overnight or courier services or by wire, so that they don’t leave any trace of their identity or location. They then provide the victim with information that is available in any library or can be ordered directly from the government.
+
+### Bounce Protection Programs
+
+Traditional overdraft protection services allows you to avoid bouncing checks by linking your checking account to your savings account or to a line of credit or credit card that you have with the bank.
+
+With overdraft payment programs, also called ‘courtesy’ overdraft protection or bounce coverage, the bank pays any checks that you write, debit purchases or ATM withdrawals that are for more money than you have in your account. The decision to make this payment is at the sole discretion of the bank. The bank will charge a fee for each transaction and some banks will also charge a daily fee until the account has a positive balance. Some banks will charge loan fees, sometimes twice in a billing period. In order to avoid the imposition of additional charges, the customer must repay the bank the amount that it covered plus any accumulated fees.
+
+### High Cost Home Equity Loans
+
+Home equity is the value of your home minus the money you still owe on the home. You can sometimes borrow money from a lender by using the equity in your home as security on a loan. Home equity lending fraud occurs when someone talks a homeowner into taking out a loan that they don’t need or that is bigger than they need, or has higher interest rates and higher fees and larger monthly payments than they can afford. If the homeowner falls behind on payments, the lender can take the home.
+
+To avoid Home Equity Lending Fraud:
+
+* Don’t give out personal information or agree to a loan over the phone or via the Internet.
+* Don’t let anyone who may be working on your home, like a contractor, steer you to a particular lender.
+* Don’t borrow more than you can afford. Educate yourself. Know what the prevailing interest rates are. Remember that a low monthly payment isn't always a deal. Look at the TOTAL cost of the loan.
+* Learn the real value of your home by getting an independent appraisal.
+* Don't trust ads promising "No Credit? No Problem!" If it sounds too good to be true, it probably is.
+* Get your credit report and your credit score. See if you qualify for better rates than are being offered.
+* Never lie about your income, expenses or available cash to get a loan and avoid any broker or lender that encourages you to do so.
+* Avoid early repayment penalties and fees of more than 3% of the loan amount (4% for FHA or VA loans).
+* Be aware that credit insurance premiums (insurance that a borrower pays a lender) should never be financed into the loan up-front in a lump-sum payment.
+* Don’t ever sign a document that has blank spaces or pages in it that the lender promises to fill out later.
+* Ignore high-pressure sales tactics. Take your time and read everything thoroughly.
+* Be wary of a lender that promises to refinance the loan to a better rate in the future. A predatory lender will let you keep refinancing a bad loan and will charge fees every time.
+* Know that even if you have already signed the agreement you have three days to cancel it.
+
+Take your documents to a housing counselor near you and have them review the documents or refer you to someone who will.
+
+### Auto Title Loans
+
+These are small, high-interest loans given using a car as collateral. If you default on the loan, you lose your car.
+
+### Rent-to-Own
+
+When you rent furniture or appliances you will often end up paying much more than it would have cost you to buy that furniture all at once. If you miss a payment the company may repossess the items and you will forfeit any payments you may have already made.
+
+Don’t deal with unlicensed lenders.
+
+* [Make sure a lender is licensed by the State of New York](/who_we_supervise "Who We Supervise")
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Elder Financial Exploitation
+
+### What is Elder Financial Exploitation?
+
+Elder financial exploitation is the illegal or improper use of an elderly adult's funds, property, or resources by another individual. This exploitation can take many forms, including scams, abuse by trusted individuals such as family members or friends, and predatory products and services marketed specifically to the elderly.
+
+DFS has issued guidance to financial institutions on steps they can take to prevent elder financial exploitation. DFS has also conducted a survey of a number of state-chartered financial institutions asking about their practices regarding the prevention of elder financial exploitation.
+
+All New Yorkers can take proactive steps to prevent elder financial exploitation.
+
+The tips and resources below provide important information on identifying forms of elder financial exploitation and reporting suspected abuse to the proper authorities.
+
+* [Guidance for Financial Institutions on Preventing Elder Financial Exploitation](https://www.dfs.ny.gov/industry_guidance/industry_letters/il20150226_guidance_preventing_elder_financial_exploitation)
+
+### Who is at Risk of Elder Financial Exploitation?
+
+Elder financial exploitation schemes seek to take advantage of vulnerabilities common among the elderly. These are some risk factors in particular to consider:
+
+* Elders most vulnerable to abuse tend to be between the ages of 80 and 89.
+* The majority of abused elders are women.
+* A significant number of elderly individuals experience cognitive decline or cognitive incapacity.
+* Elders are at a higher risk of abuse if they live alone, are isolated from their communities, rely on others for care, or have limited social relationships.
+
+### Signs of Diminished Financial Capacity
+
+#### Facts About Cognitive Impairments
+
+* According to the Alzheimer's Association, 10-20% of elders 65 and older have some type of mild cognitive impairment. Mild cognitive impairment causes a slight deterioration of cognitive abilities, which may affect memory, thinking, and reasoning skills.
+* As of 2015, approximately 5.3 million Americans have Alzheimer's disease and, as a consequence, either a decline or susceptibility to a decline in financial capacity.
+* 11 percent of people age 65 and older have Alzheimer's disease and about one-third of people age 85 and older have it.
+
+According to the United States Department of Justice, the following are common signs of diminished financial capacity:
+
+* Forgetfulness: results in the failure to perform financial responsibilities.
+* Declines in Management Skills: less ability to use a checkbook and other financial tools to carry out everyday transactions.
+* Arithmetic Mistakes: deterioration of everyday math skills, such as when using change to pay for things or when calculating a tip in a restaurant.
+* Confusion: confusion and loss of understanding regarding elementary financial terms that you used.
+
+### Warning Signs of Financial Abuse
+
+No one single thing is proof of elder financial abuse – the following are only possible warning signs. Be on the lookout for:
+
+* Unpaid bills which the elder should have the means to pay;
+* Purchasing or spending behavior that appears to be out-of-character;
+* New "best friends" (people who have recently become close to the elder) who are not promoting the elder's best interests or are claiming a right to funds;
+* Sudden changes in an elder's will, trust, insurance or other financial documents;
+* Abrupt or unexplained transfers of assets;
+* Confusion about recent financial arrangements or changes.
+
+### General Prevention Tips
+
+* Talk about your finances: Those who talk about their finances to "third-party resources" such as friends, family, and financial professionals felt better equipped to prevent elder financial abuse than those who don't.
+* When possible, use checks and credit cards instead of cash.
+* Exercise caution when providing your financial or other personal information over the phone or Internet, and resist pressure to give someone financial information or access to your financial accounts.
+* Always ask for more information in writing and get a second opinion before changing your power of attorney, wills, trusts, or any of your personal financial information.
+
+### Common Types of Elder Abuse
+
+The following are some of the most common types of elder financial exploitation and how to protect yourself or an elder you know.
+
+#### Scams
+
+Scams have distinguishing factors that you should be aware of:
+
+* A "Hook": something to attract you and cause you to pay less attention to the details.
+* Manipulation: scammers manipulate people into trusting them.
+* A Deadline: if a solicitation has a strict deadline that gives you little time to make a decision, it is likely a scam.
+
+#### Sweepstakes Scams
+
+* Notifications that you've won a sweepstake are often scams. One way these notifications trick elders is by using a name which sounds like a government agency or official-sounding authority.
+* If, as the "winner" of a sweepstake, you are asked to pay taxes and fees by sending a check or wiring money, this is likely a scam.
+* A sweepstake may ask for your banking information to direct deposit your "winnings." This is an attempt to steal your identity and access the money in your bank account, not deposit money.
+
+##### Protective Measure:
+
+* Remember that legitimate sweepstakes do not ask for money upfront from winners!
+
+### Identity Theft
+
+* Identity Theft occurs when someone steals your personal information to gain access to your credit, bank accounts, medical care, or other aspects of your finances.
+* For information on preventing identity theft, see [Identity Theft: What You Need to Know](/consumers/fraud_cyber_protection "Guidance for Financial Institutions on Preventing Elder Financial Exploitation")
+
+### Home Improvement/Home Repair Scams
+
+* For information on avoiding home improvement and home repair scams, see [Beware of Home Repair Scams](/consumers/fraud_cyber_protection "Guidance for Financial Institutions on Preventing Elder Financial Exploitation")
+
+### Telephone Scams
+
+* Grandparent Scams: A caller claims to be the elder's grandchild by saying something like "Grandma, it's me...please don't tell my parents." This often prompts the elder to supply their actual grandchild's name. The caller will say that they are out of town and in desperate need of money either to make bail, pay for hospital bills, or to come home. The caller will ask the elder not to tell the parents and just to send the money. Scammers sometimes use actual relatives' names and information taken from social media and internet sites.
+* Charities: Scammers might slightly change the name of a well-known charity to trick or confuse elders and will pressure them to give on the spot.
+* For more information on charity scams, see [Charity Scams: What You Need to Know](/consumers/fraud_cyber_protection "Guidance for Financial Institutions on Preventing Elder Financial Exploitation")
+
+#### Protective Measures:
+
+* If you receive a phone call asking for help, speak to your family to find out if your grandchildren are actually out of town and in need of assistance.
+* Never give any personal information to strangers over the telephone. Always withhold your birth date, social security number (even the last four digits), bank account information, or anything that might be used as a password or other identifier.
+* Remember that legitimate charities will give you time to make a decision.
+
+### Healthcare and Prescription Drug Scams
+
+* Health Care Scams take a variety of forms. You might see an ad on TV telling you about a new law that requires you to get a new health care card. Maybe you get a call offering you discounts on health insurance or from someone claiming they work for the government and they need your Medicare number to issue you a new card.
+* Counterfeit Drug Scams mostly occur on the Internet, when elders research how to get better prices on their medications. Elders may end up paying for something that won't help their medical condition or may purchase unsafe drugs.
+
+#### Protective Measures:
+
+* Stop and do research before you share your health care information.
+* Do not sign blank insurance claim forms.
+* Give your insurance and Medicare information only to people who provided you with medical services.
+* Examine drug packaging and ask your pharmacist or physician to examine the drug if you are skeptical about the packaging.
+
+### "Trusted Person" Abuse
+
+"Trusted Person" Abuse occurs when friends, caregivers, family members or others in a position of trust with the elder abuse that trust.
+
+Because family members have a unique relationship with the elder and can often access the elder's financial information, family members commit a large portion of financial abuse.
+
+Trusted person abusers may threaten to put the elder in a nursing home if they don't comply with the person's wishes.
+
+A trusted person abuser will often isolate the elder from other friends and family, make important decisions for the elder, and try to leave the elder out of conversations.
+
+| POWER OF ATTORNEY ABUSE | FORGERY + CHANGING LEGAL / FINANCIAL DOCUMENTS |
+| --- | --- |
+| A power of attorney is a written authorization that gives someone legal authority to make financial and medical decisions on behalf on another. A friend, family member, or caregiver forges the elder's signature on financial documents to transfer ownership of property, assets, or other valuable resources. | A friend, family member, or caregiver forges the elder's signature on financial documents to transfer ownership of property, assets, or other valuable resources. |
+| When an elder is hospitalized or away from their home and unable to pay bills, they may sign power of attorney over to a relative or friend to take care of their finances. This person may then take the elder's property, close their bank accounts and investments, and steal their money. | Trusted people can also exploit elders by convincing them to change their wills, trusts, and sign over their homes and other assets.  They claim they have the elder's best interests in mind and will protect them when in reality they steal their assets. |
+| Abusers will try to use the fact that they were given power of attorney to show that the elder trusted them and justify major changes to the elder's affairs. | A trusted person may have access to an elder's bank account in order to pay their bills but they may spend the elder's money for themselves. |
+
+#### Protective Measures:
+
+Financial advisors can take certain measures to prevent against financial abuse by trusted people, including:
+
+* Looking out for changes in investment style, attitude, or caregiver activity.
+* Frequently asking questions and paying close attention to older clients.
+* Getting to know the family members and caregivers of your client.
+
+Elders and family members can take other measures to prevent exploitation by trusted people, including:
+
+* Have an objective third party look over financial statements.
+* If you feel pressured to give up information or sign documents, talk to another family member that you feel comfortable with or contact a financial advisor.
+* Be suspicious about anyone who has recently gained an interest in your life and/or finances.
+* When Hiring Caregivers, hire through a certified agency.
+* If you feel something isn't right about the relationship between the caregiver and the elder, be prepared to fire the caregiver.
+* Ask for and check references.
+
+### Harmful or Unsuitable Products
+
+#### Investments
+
+If the answer to any of the following is yes, it is likely an investment not in your best interest.
+
+* Is a broker or advisor pressuring you to make a decision right after some change in your life, such as death of a spouse?
+* Is the broker or advisor telling you the investment has no risk?
+* Is the broker or advisor telling you that the investment is too complex to explain to you?
+
+#### Protective Measures:
+
+* Do not invest in anything unless you understand it. If you don't understand, do research and don't be afraid to ask questions.
+* Get a written description of the investment.
+* Be wary of an investment that promises high yields.
+* Get background information on the salesperson (even if they are a friend).
+* Be cautious about investing in companies that you learn about through unsolicited information. Also be cautious about sending money abroad.
+* Get advice from an objective third party.
+* If you use the Internet or social media as a tool for investing, be careful to protect your personal information.
+* Do not let your financial advisor do all of the paperwork. Make sure you sign-off on everything and ask for copies of any final documents.
+
+#### Mortgages
+
+Scammers may also offer money or a free home to elders in exchange for the title to their property.
+
+* For more information on preventing homeowner and mortgage scams, see [Foreclosure Rescue Scams & Home Equity Theft: How they work and how to avoid them](/consumers/fraud_cyber_protection)
+
+#### Annuities
+
+* An annuity is a contract between an individual and an insurance company where the company makes periodic payments to the individual, sometimes for the rest of the individual's life. Annuities are often used as part of retirement plans – they allow one to put away a large amount of cash, defer paying taxes on that cash, and they provide recurring payments.
+* The amount of the payout for a variable annuity depends on the time period and investment option that the elder chooses. The options are usually mutual funds, which invest in stocks, bonds, money market instruments, or all three.
+* There are usually large penalties for withdrawing money before a certain date – which is often 10 or 15 years after the purchase of the annuity – and high annual expenses. Because of this, variable annuities are often not a smart choice for elders.
+
+##### Protective Measures:
+
+* Consider the financial capacity of the insurance company issuing the annuity. This may affect the company's ability to pay.
+* Ask for information regarding the mutual fund investment options.
+* Ask if you can get your money when you need it, if you will pay a fee to get your money, and how much the financial advisor makes if you buy the annuity.
+
+#### Pension Advance Schemes
+
+A pension advance is an arrangement where, in return for some or all of your monthly pension payments, you receive a lump-sum payment.
+
+* Although marketed as an "advance" instead of a loan, in reality these schemes bear a strong resemblance to illegal payday loans that often cause borrowers to get caught in a vicious cycle of debt.
+* Pension advances frequently charge expensive fees that amount to sky-high interest rates, often above 100%, and as a result significantly erode the value of a retiree's pension income.
+
+##### Protective Measures:
+
+* Avoid taking out a pension advance or other similar products, such as payday loans.
+* Talk to family and friends about your finances if you are having trouble making ends meet.
+
+### Report Abuse and Get Answers
+
+If you or someone you know has been or may be the victim of elder financial exploitation:
+
+* Contact New York Adult Protective Services (APS). APS is part of the New York State Office of Children and Family Services and their services are available to adults 18 and older. APS investigates and evaluates adults' needs and risks of harm, counsels victimized adults and their families, and provides case and financial management services. To find your local county Department of Social Services Adult Protective Services search [Office of Children and Family Services](https://ocfs.ny.gov/directories/localdss.php). To find specific telephone numbers for your local APS unit, call (800) 342-3009 (press 6).
+* To report potential criminal conduct, contact your district attorney or the Attorney General's Office. The New York State Attorney General's Office can be contact at (800) 771-7755.
+* For questions related to investments, FINRA has launched a toll-free FINRA Securities Helpline for Seniors, offering assistance from FINRA staff. FINRA staff are available to answer questions from 9:00 a.m. - 5:00 p.m. E.T., Monday through Friday. The FINRA Helpline number is (844) 57-HELPS or (844) 574-3577.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Insurance Fraud
+
+If you suspect that insurance fraud has been committed, you should [report it to the DFS](/contact_us/main) or call the Insurance Fraud Hotline: (888) FRAUDNY ((888) 372-8369) right away. The matter will be kept confidential.
+
+### What is Insurance Fraud?
+
+Insurance fraud is a crime. And far from being a victimless crime, insurance fraud victimizes every resident of New York State, costing consumers millions of dollars in the form of increased premiums and higher prices for goods and services. The exact cost of insurance fraud is difficult to estimate because much of it goes unreported. The public can help reduce fraud and minimize its impact by learning how to recognize fraud, by avoiding becoming a victim of fraud, and by reporting suspected fraud to the DFS.
+
+### Insurance Fraud takes many forms
+
+* A driver and a body shop worker agree to inflate the auto damage claim and share the "profit."
+* A homeowner falsely claims that his home was burglarized and valuable items stolen.
+* A doctor bills an insurer for services that were not provided.
+* A driver stages a fake accident, and unscrupulous doctors and lawyers help "handle" associated medical claims and lawsuits.
+* A worker collects workers' compensation benefits while employed.
+
+### Avoid Becoming a Victim
+
+As a consumer, there are several common-sense steps you can take to help reduce your risk of becoming a victim of fraud and minimize its impact.
+
+### Be an Informed Consumer
+
+Insurance premiums are a significant expense for most of us. The premiums you pay are based on your individual claims history and the degree of risk involved. Generally, the greater the risk, the higher the premium. For example, the theft premium for a Cadillac will be far higher than that of a Toyota because more Cadillacs are stolen each year. Similarly, a stock car racer will pay more for life insurance than a librarian, all else being equal.
+
+### Know Your Agent or Broker
+
+Consumers can sometimes be victimized by unscrupulous agents or brokers and discover only after they file a claim that they are without coverage. If an uninsured home is damaged by fire, the owner is solely responsible for restoring it and paying back any mortgage holders. If a driver is involved in an accident while driving an uninsured vehicle, any personal assets are subject to forfeiture if that driver is sued for damages. Deal only with licensed agents and brokers. They must maintain proof of being licensed. Ask to see it.
+
+### Get a Copy of Your Policy
+
+You should receive a copy of any type of insurance policy complete with endorsements and declarations specifically outlining your coverage and its limitations within a reasonable period after your purchase. If you do not receive it, question your insurer, agent or broker. If there is no satisfactory explanation for the delay, contact the Department of Financial Services at (800) 342-3736. You may not have the insurance coverage you paid for.
+
+### Pay Only for Services You Have Received
+
+If you have received medical or dental treatment that is covered by a health care provider, you will receive an "Explanation of Benefits" statement listing the services for which benefits have been paid. Review it thoroughly to ensure that you have not been billed for services that were not rendered or for dates on which you were not treated. Check carefully to confirm that you were not billed for more expensive procedures than were actually provided, a practice known as upcoding. Contact your insurer immediately if you feel there are discrepancies.
+
+Health care fraud translates into billions of dollars a year, resulting in higher premiums and increased costs for goods and services for all consumers. If you suspect fraud, contact the Department of Financial Services at (800) 342-3736. An investigator will contact you for details and the matter will be kept confidential.
+
+### What If You're Involved in an Automobile Accident?
+
+Report the incident to the police and obtain a copy of the Police Accident Report. Be suspicious if the driver of the other vehicle insists it is not necessary to contact the police. That driver’s car may be uninsured or his/her insurance identification card may be fraudulent. Be sure to make note of the other vehicle’s license plate number and obtain important insurance information. If possible, take a photo of the damages.
+
+### Common Scams
+
+Watch out for these common insurance scams:
+
+#### The staged accident
+
+A vehicle filled with people will stop suddenly in front of you, setting you up as the cause of a rear-end collision, while doctors and lawyers who are participants in the scheme “handle” the subsequent medical claims and lawsuits.
+
+#### Runners
+
+These individuals will solicit the injured or allegedly injured parties at the accident scene or shortly thereafter and direct them to medical facilities that are involved in the scam. If you are involved in an accident, be on the lookout for “runners” and don’t become a victim. In addition, be suspicious if, following an emergency room visit, you are contacted by someone claiming to be employed at the hospital who recommends a particular medical facility for follow-up treatment. Also be wary if a lawyer who is unknown to you recommends a specific law firm to discuss a possible lawsuit.
+
+#### Inflated claims
+
+At the accident scene, be sure you know the extent of the damages to your car and the other vehicle. Carefully review subsequent repair estimates and claims. Body shops may enhance existing damages or conspire with adjusters to inflate the repair estimate. Don't allow high-pressure salesmanship to persuade you to sign up for a type of policy or certain coverage that you are not sure you need. Take time to decide what's right for you. Read your policy carefully before you sign. If you have questions, ask your agent or broker, or your insurer.
+
+#### Fraud vs. Consumer Complaints
+
+Please do not confuse the crime of insurance fraud with a dispute that you may have with an insurance company, for example, delays in customer payment, monetary disputes, policy cancellations and non-renewals.
+
+**Do not confuse the crime of fraud** with a dispute that you may have with an institution or complaint you may want to file for example: complaints about delays in mortgage loan modifications, delayed customer payment, monetary disputes, policy cancellations and non-renewals.
+
+If you have a complaint or a question that is not about insurance fraud please [file a complaint with DFS.](/complaint)
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Charity Scams
+
+When giving money to charity, especially after a disaster or during the holiday season, make sure you are giving to a legitimate organization. Your money will not do any good if it is given to a fake charity.
+
+Fake charity scams make every attempt to look real. They may choose a name similar to a legitimate charity's name or create a fake ID in the name of an actual charity, complete with a copy of the logo. These scam artists may use standard methods to collect "donations" for their charity scams like setting up a table at a local mall or on the street, knocking on your door or making an e-mail or telephone request.
+
+### Tips for Avoiding Charity Scams
+
+Find out what the charity will do with the money. Find out how much of your money will actually be used for charitable programs. Ask charities to send you printed material by regular mail. If the material does not contain details on how the money will be used, do not contribute to the charity.
+
+* Ask questions. Get the name, address, and phone number of the charity and check them out before giving
+* Verify with the charity directly that they have authorized the group or person collecting money on their behalf.
+* Try not to donate cash to a charity. If you do write a check, make it out to the official charity name not to an individual person.
+* Never provide sensitive personal information, such as Social Security number or Driver's License number, over the phone, when writing a check or when making a donation.
+* Be very cautious about charity donation requests sent by email. Most legitimate charities do not use email for their first solicitation. (Some legitimate charities will email people who have donated before.)
+* Do not feel pressured into giving. Choose the charities that YOU want to support in advance each year, decide your giving budget in advance for the year and contact those groups directly.
+* If you do give to a charity, get a receipt with the name of the charity and the amount given. This helps you document the donation for your records and for your tax return.
+
+### Check Them Out!
+
+The Better Business Bureau's Wise Giving Alliance offers information about national charities. They publish standards for rating charities, and rate over 600 charities. Call them at (703) 276-0100 or visit their website [www.give.org](https://give.org/)
+
+The IRS provides a list of organizations that are eligible to receive tax-deductible charitable contributions. Search the list by going to the IRS website at [www.irs.gov](https://www.irs.gov/) or by calling the IRS toll-free at (877) 829-5500.
+
+### If You Think You've Been Scammed
+
+* Report the issue to the Department of State at [www.dos.ny.gov](https://dos.ny.gov/) or via their toll-free hotline at (800) 697-1220.
+* Contact the Federal Trade Commission via [www.ftc.gov](https://www.ftc.gov/) or call them toll-free at (877) FTC-HELP.
+* Contact the New York State Attorney General at (800) 771-7755 or on the Web at [www.charitiesnys.com](https://ag.ny.gov/resources/organizations/charities-nonprofits-fundraisers). You can also check out the amounts raised by charity telemarketers and the amounts actually received by the charities they raise money for in the Attorney General's annual publication, "[Pennies for Charities](https://www.charitiesnys.com/pfcmap/index.jsp)."
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Foreclosure Rescue Scams and Home Equity Theft
+
+If you have fallen behind on your mortgage payments and your home is in foreclosure or default, be aware that you and your home may become targets for home equity theft or foreclosure rescue fraud scams.
+
+The perpetrators of these scams claim they can solve your debt problems and stop your foreclosure.  They then use deceptive tactics to obtain ownership of your home for a fraction of its market value, and leave you homeless yet still the holder of the mortgage that is still in foreclosure.
+
+If you are having problems making your mortgage payments or are in default or foreclosure, contact your lender immediately.  Lenders generally prefer to work out a new payment plan, than actually go through the complex process of foreclosure. Be aware of the signs that someone is attempting to take advantage of you.
+
+* Read the [Residential Foreclosure Actions Consumer Bill of Rights](/consumers/help_for_homeowners/foreclosure_assistance/consumer_bill_of_rights).
+
+## You should also be aware of the The Home Equity Theft Protection Act and Your rights under that law
+
+The Home Equity Theft Prevention Act governs certain sales of homes that are in foreclosure or default. If you are planning to sell a home that is in foreclosure or default, you should be aware of your rights under the Act, and know what to expect from a legitimate buyer. If your sale is protected by the law, and your buyer fails to fulfill the requirements you may be able to void or legally cancel the contract you have with the buyer, even after it has been signed. Likewise, a sale may be declared void. You may also be able to sue the buyer to recover any damages.
+
+* Learn [more about the Home Equity Theft Protection Act](https://www.dfs.ny.gov/consumers/scams_schemes_frauds/home_equity_theft)
+
+### How the scammer finds you
+
+When your home enters foreclosure, your lender files a record of foreclosure—called a “lis pendens”—with the local county clerk’s office. The county clerk’s office publishes a list of all recorded foreclosures in the county, including the address, on a weekly basis in local newspapers.  Scammers obtain these lists to find vulnerable homeowners.
+
+The scammer will contact you by mail, by telephone or even by knocking on your door, and offer you some sort of financial solution to your foreclosure or default.  Sometimes these scammers will target entire neighborhoods or cities by posting advertisements and fliers marketing their services.  In these offers, they claim to be able to “stop foreclosure,” “save your home” or get you “quick cash for your home.”
+
+### How the scammer deceives you
+
+These predators try to convince you that they want to “rescue” you from foreclosure and offer you one of any number of fraudulent “solutions”, including:
+
+* Buying your home so that you can pay off your mortgage and then live in the house as a renter, at a low rent, until you can afford to buy back the home;
+* Paying your mortgage in exchange for temporarily holding the deed to the home, allowing you to live in the home as a renter, at a low rent, until you can afford the mortgage payments again;
+* Asking you to put the deed to your house in another person’s name (who allegedly has better credit than you do) so that the scammer can find you new and more affordable financing;
+* Making a low-cost loan to you so that you can pay off some or all of your mortgage, and then pay back the scammer, who holds the deed to the house as collateral; and
+* Offering to negotiate on your behalf with your lenders for reduced interest rates and debt forgiveness.
+
+Once you agree to one of these “solutions”, the scammer then steals your home or your equity by using deceiving practices such as:
+
+Convincing you to sign a contract that seems to be for the legitimate sale of your home to the scammer, but actually just gives over your home’s deed to the scammer with no requirement for any payment to you;
+
+* Convincing you to sign a contract with a buyback agreement that states you must pay an enormous fee when you buy your home from the scammer, or states you must buy back the home within an extremely short period of time, making it impossible for you to ever save enough money to do so;
+* Charging you extremely high interest rates and fees on what was promised to be a “low-cost” loan with which you could pay off your mortgage, and then taking the deed to your home when you default on that loan;
+* Actually buying your home from you, but then charging you huge hidden fees that suck up much or all of the proceeds of the sale;
+* Charging you huge fees for “negotiating work” with the lender that is either never done, or that you could have done;
+* Lying to you about the length of time you have before your house is put up for foreclosure auction, pressuring you to sign documents quickly and without reading them; and refusing to allow you to speak to your lender or lawyer.
+
+Ultimately, the scammer has either bought your home for a fraction of its legitimate price or has actually stolen the deed to your home without a penny of payment, leaving you homeless but still responsible for the mortgage, which is still in foreclosure!   In some cases you might keep ownership of your home, but pay so many fees or so much interest that you are broke and have no money for future payments.
+
+### How to avoid being scammed
+
+Never do business with anyone who calls you, mails you, or knocks on your door with offers to help fix your foreclosure or default. Do not respond to advertisements and fliers making similar offers.
+
+If you are having problems making your mortgage payments or are in default or foreclosure, contact your lender immediately. Lenders often prefer to work out a new payment plan, rather than go through the foreclosure process.
+
+If you are facing foreclosure, contact a certified housing counselor. Housing counselors can help you and, unlike scammers, they can give you advice on your options and resources, help you find free legal services, and help you negotiate better financing for your loan.
+
+Never sign any papers or contracts and never enter into any agreement without first **consulting your own lawyer**—not a lawyer provided by the individual offering to “help.”
+
+### Get Help!
+
+#### Contact a Not-for-Profit Housing Counselor
+
+Housing counselors that handle foreclosure-related issues can give you advice on your options and resources at little or no cost. They may also be able to negotiate with your lender for free and help you find free legal services in your area.
+
+Housing counseling resources for New Yorkers include:
+
+* New York’s Homeowner Protection Program (HOPP), which connects with housing counselors and legal services at no cost. Call the HOPP hotline at (855) 466-3456 or visit [homeownerhelpny.com](https://www.homeownerhelpny.com/).
+* You can find a list of [approved non-profit housing counselors by county](/consumers/homeowners/non-profit-housing-counselors "Non-Profit Housing Counselors") here, on the DFS website.
+* 24-Hour assistance is available toll-free on the HOPE NOW hotline at (888) 995-HOPE ((888) 995-4673). HOPE NOW is an alliance of HUD approved counseling agents, servicers, and investors that provide free assistance.
+* If you live in New York City, you can also call 311.
+
+If you are in a foreclosure court case, you should consult an attorney.
+
+#### Seek Legal Assistance
+
+Contact a lawyer and review your mortgage documents. Make sure your loan is not in violation of any laws. If you do not have an attorney, the New York State Bar Association may be able to refer you to an appropriate attorney for your situation.
+
+If you cannot afford a private attorney, resources for free or low-cost legal assistance include:
+
+* New York’s Homeowner Protection Program (HOPP), which connects with housing counselors and legal services at no cost. Call the HOPP hotline at (855) 466-3456 or visit [homeownerhelpny.com](https://www.homeownerhelpny.com/).
+* The New York State Bar Association’s [Lawyer Referral and Information Service](https://nysba.org/new-york-state-bar-association-lawyer-referral-service/).
+* The [Legal Service Corporation](https://www.lsc.gov/) website.
+* [LawHelp.org](https://www.lawhelp.org/), an online directory of free legal service providers in New York.
+
+If you are in a foreclosure court case, you should consult an attorney.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Home Repair Scams
+
+### Warning Signs
+
+Avoid a contractor who:
+
+* Knocks on your door or calls you on the phone offering to make repairs.
+* Tells you that you must make repairs immediately.
+* Talks very quickly to confuse you and pressures you to sign a contract immediately.
+* Tells you they are doing work in your neighborhood and have extra materials left from another job.
+* Offers a discounted price if you refer other people to them, but only if you buy today.
+* Tells you something that sounds too good to be true. If it sounds too good to be true, it probably is!
+* Is not an established local business, but has come to the area from somewhere else to “help.”
+
+#### Protect Yourself
+
+* Avoid unlicensed contractors in NYC, Nassau, Suffolk, Putnam, Rockland, Westchester – these are areas of the State where a license is required. Unlicensed contractors are operating illegally in those areas.
+* Avoid contractors who don't have references or whose references can't be reached.
+* Avoid contractors who tell you there's no need for a written contract. By law, all contracts for $500 or more must be in writing, but it's a good idea to get a written contract even for smaller projects.
+* Avoid contractors who only have a P.O. Box address or a only a cell phone number.
+* Avoid contractors who do not supply proof of insurance.
+* Avoid contractors who ask you to get required building permits. It could mean that the contractor is unlicensed or has a bad track record, and is therefore reluctant to deal with the local building inspector.
+* Verify with your local building department that the contractor has obtained all the necessary permits.
+* Be wary of contractors who ask for money to buy materials before starting the job. Reliable, established contractors can buy materials on credit.
+* Avoid contractors who demand payment in cash or want full payment up front, before work has begun. Instead, find a contractor who will agree to a payment schedule providing for an initial down payment and subsequent incremental payments until the work is completed.
+* Always withhold final payment until you have completed a final walk through, approved all the completed work, and all required inspections and certificates of occupancy have been delivered to you.
+
+#### Follow this Checklist to Find a Contractor:
+
+* Ask how long they have been in business
+* Ask for references and check the references!
+* Search online resources
+* Ask if they guarantee or warranty their work
+* Make sure they are licensed, bonded and insured
+* Ask to see their insurance policy, or certificate of insurance
+* Get at least two estimates and compare costs, materials and methods
+* Demand a written contract that includes:
+  + a detailed description of the work to be performed
+  + exactly what materials will be used and their quality
+  + starting date and estimated completion date
+  + price
+  + payment arrangements
+  + finance charges (if applicable)
+
+#### Before you sign a contract:
+
+* read the contract yourself (don’t rely on the salesperson to read it for you)
+* make sure you understand everything in the contract
+
+#### Do not sign a contract that:
+
+* is missing information or has blank pages
+* you don’t understand
+* is different from what you discussed with the contractor
+
+#### Retain copies of:
+
+* your signed contract
+* all other signed documents
+* guarantees or warranties on work or materials
+
+#### Upon project completion:
+
+* inspect the work to make sure it is done properly
+* do not make a final payment or sign completion certificate until the work is completed to your satisfaction
+
+Many companies give free inspections and written estimates - get two or three before choosing a contractor. The lowest price is not always the best deal. Compare costs, materials, and methods suggested by different companies to decide what materials and methods are best for your home.
+
+### If You Think You've Been Scammed
+
+If you think you have been the victim of a scam, contact a lawyer immediately. There are time limits to cancel sales and pursue legal claims.
+
+Contact the Department of Financial Services, your district attorney or the Attorney General’s Office.
+
+If you have a problem with a home improvement contractor and can't resolve it yourself, you can file a complaint with the New York Department of State online at [www.dos.ny.gov](https://dos.ny.gov/) or by calling (800) 697-1220.
+
+Contact your insurance company, agent or broker to get answers to specific questions about your policies or insurance claims.
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue
+
+## Identity Theft
+
+Identity theft cases surged in New York State in 2020, inflicting financial losses on individuals and threatening disruption to government programs as well as private financial institutions, according to Federal Trade Commission (FTC). Read the May 2021 New York State Comptroller's report [The Increasing Threat of Identity Theft](https://www.osc.ny.gov/reports/increasing-threat-identity-theft) to learn more
+
+Thieves with access to personal information – Social Security number, birth certificate, PIN or credit card numbers, even pre-approved credit card solicitations – can steal your identity and apply for credit in your name, racking up huge debts without you even knowing that it has happened…until it’s too late. Identity thieves also use individuals’ personally identifiable information for a variety of other purposes, including fraudulently obtaining medical services, unemployment insurance, prescription drugs or medical insurance coverage. To protect yourself, follow these suggestions:
+
+### Safeguard Your Personal Information
+
+* Request your free annual credit report from all three major agencies every year and check it carefully for suspicious activity. Order the reports online at [www.annualcreditreport.com](https://www.annualcreditreport.com/index.action). You will go through a simple verification process and your reports will be mailed or emailed to you.
+* Keep your Social Security card, birth certificate and any other important identification documentation in a secure place.
+* Be cautious about where you leave any documents. Think of your bills and bank and credit card statements as direct access to your cash and secure them accordingly. Consider shredding sensitive documents rather than simply throwing them away. (Some thieves will go through garbage to find personal information).
+* Make sure to lock up personal files at work and be aware of who has access to your workspace and employee information.
+* Do not give out personal information over the phone unless you initiated the call or are absolutely certain with whom you are speaking. Ask how any information that you provide will be used and secured.
+* Photocopy the contents of your wallet in case your wallet or purse is lost or stolen. Copy both sides of your license, credit cards, bank cards and all other pertinent information. Keep the copies in a secure place.
+* Don’t carry credit and debit cards that you absolutely don’t need. This will minimize the potential damage if your wallet is lost or stolen. Be aware that some health benefit medical and pharmacy cards have your Social Security number imprinted on the front. If you don’t need to carry these with you, don’t.
+* Memorize personal identification numbers (such as your ATM card PIN) and online passwords. Don’t keep those numbers or passwords in your wallet or purse. Never write them on the cards themselves! Avoid using easily available personal information like your own birthday, mother’s maiden name or consecutive numbers. If asked to provide your Social Security number, ask if another identifier can be used instead.
+* When using your credit card in restaurants or stores, keep a constant eye on your card and who is handling it. Be aware of “swipe and theft” scams using card skimmers. A skimmer is a machine that records the information from the magnetic stripe on a credit card to be downloaded onto a personal computer later. Your card can be swiped on a skimmer by a dishonest employee and that data can then be used to make duplicate copies of your credit card.
+* Be mindful of “shoulder surfers” when using ATMs and never use an ATM that looks like it has been tampered with or otherwise altered.
+
+Report lost or stolen credit, debit or ATM cards immediately.
+
+### Protect Your Bank Accounts and Mail
+
+* Whenever possible, place passwords on your accounts. Review your account statements on a regular basis and consider using online or phone balance and transaction review features. This will help you to quickly notice any discrepancies that could indicate fraudulent activity.
+* Shred documents that contain personal information before discarding them. Shred all unwanted balance transfer checks and pre-approved offers for credit cards or loans before disposing of them.
+* Be careful about information you provide on your personal checks. Never print your driver’s license or Social Security number on your checks.
+* When ordering new checks, pick them up at the bank rather than having them mailed to your home. If you have a post office box, use that address on your checks rather than a home address. Store new and cancelled checks in a secure place not accessible to others.
+* Do not write your account number on the outside of payment or deposit envelopes.
+* Pay attention to your billing cycles. If you don’t get your bills in the mail on time, be suspicious and call the company to make sure that no one has changed your billing address or diverted your mail.
+* Check your credit reports on a regular basis. Order a copy of your credit report from each of the three major credit-reporting agencies (Equifax, Experian and Trans Union) at least once a year. Confirm that the information they have about you is accurate and dispute anything that is not. Checking the facts will NOT affect your credit rating.
+* Consumers can remove their names from the marketing lists of the three credit reporting bureaus by calling (888) 5-OPT OUT. This will reduce the amount of solicitation mailings you receive (such as pre-approved credit card applications).
+* If you will be away from home for an extended period of time, call the U.S. Postal Service and ask that your mail be placed on “vacation hold.”
+
+### Protect Yourself on the Internet
+
+* Install a firewall on your home computer to prevent hackers from obtaining personal identification and financial data from your hard drive. This is especially important if you connect to the Internet by DSL, cable or high-speed modem. If you use a broadband or DSL connection, call the supplier to make sure your modem is equipped with a feature called NAT, or Network Address Translation. This makes it harder for criminals on the Internet to find your computer.
+* Install and regularly update virus protection software on your computer to prevent a worm or virus from causing your computer to send out files or other stored information.
+* Password-protect your computer, cell phone and/or PDA (e.g.: Blackberry). Use a password made up of a combination of non-sequential numbers and letters and don’t use obvious words or dates.
+* If your computer has a built-in encryption option for individual files or for your hard drives make sure that option is enabled or look into installing encryption software. Encryption will scramble your private information making it unreadable to unauthorized persons. Your computer’s standard log-on password protection won’t prevent a thief from accessing your hard drive if your computer is lost or stolen.
+* Before disposing of your computer, remove data by using a strong "wipe" utility program. Do not rely on the "delete" function to remove files containing sensitive information.
+* When shopping online, do business with companies that provide transaction security protection and carefully review privacy policies before making purchases.
+* Make sure that you are actually on the website you wish to be on - some online “phishers” create bogus sites that mimic real ones in order to capture unwary shoppers’ personal information.
+* Do not use your Social Security number on the Internet.
+* When you are finished with any secure online session (such as online banking) always remember to log off or close your browser window.
+* Do not invite trouble in by downloading files or clicking on hyperlinks or attachments that you are not expecting or that are sent from unfamiliar people or destinations. Even emails that appear to be from familiar and trusted sources can be fraudulent.
+* If you must use a public computer, confirm first that it is not running a desktop search engine and that the proprietor has denied users administrative privileges so they can't install any programs that might be used to capture your emails or passwords.
+
+### If You Are a Victim of Identity Theft
+
+File a police report at your local precinct; get your complaint number or a copy of your report.
+
+If your license is stolen, take your police report to your local DMV when you ask for a replacement. Ask them to attach a copy of the report to your records. If you have evidence another person got a license, registration or title certificate in your name ask for and file a Form FI-17 (Report of Unauthorized Use).
+
+Report lost or stolen checks, deposit tickets and/or bank statements immediately.
+
+Report suspicious activity and unauthorized charges immediately to all of your creditors by both phone and certified mail.
+
+* Equifax Fraud Assistance Department: (800) 525-6285 or [www.equifax.com](https://www.equifax.com/)
+* TransUnion Fraud Victim Assistance: (800) 680-7289 or [www.transunion.com](https://www.transunion.com/)
+* Experian: (888) EXPERIAN ((888)397-3742) or [www.experian.com](https://www.experian.com/)
+
+Have them place a fraud alert in your file. A fraud alert generally lasts for 90 days, although it can be extended.
+
+Contact the Federal Trade Commission to file a complaint and create an [Identity Theft Affidavit](https://consumer.gov/scams-identity-theft).
+
+If you are a victim of identity theft or think that you may be a victim, consider placing a "security freeze" in your file at each of the three major credit reporting agencies (Equifax, TransUnion, and Experian). It generally stops creditors from accessing your credit files to review your credit history, thus preventing any new credit from being opened for you, unless you authorize the agencies to allow access. The procedures for obtaining a security freeze are slightly different for each of the three credit reporting agencies, and for the security freeze to work it is necessary to obtain the freeze with each of the three agencies.
+
+Call the Social Security Administration’s fraud hotline at (800) 269-0271 or go to [oig.ssa.gov](https://oig.ssa.gov/). If you suspect that someone is using your Social Security number, you can check your earnings record by calling (800) 772-1213.
+
+If your bank account has been compromised at all, close the account completely and open a new one.
+
+If your checks have been lost or stolen contact a company called Scan (800) 262-7771 to find out if any bad checks have been passed in your name. Ask your bank to contact the major check verification companies and ask them to alert retailers not to accept your stolen checks or contact them directly at:
+
+* Certegy Inc.: (800) 437-5120  
+  TeleCheck: (800) 710-9898  
+  International Check Services: (800) 526-5380
+
+Keep copies and detailed records of all of your correspondence!
+
+[Back to Top ▲](#toc-sidebar)
+
+Next Section
+
+Continue

@@ -1,0 +1,27 @@
+{
+  "doc_id": "c106060b012c230b",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "Digital technologies continue to grow alongside cross-selling practices and the sale of add-on insurance - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/digital-technologies-continue-grow-alongside-cross-selling-practices-and-sale-add-insurance-2018-12-20_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:805c5b16a4100b6f40517f0afd267f3e39faf35cbda83262d475d5395a1b4ae5",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/c106060b012c230b",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/digital-technologies-continue-grow-alongside-cross-selling-practices-and-sale-add-insurance-2018-12-20_en",
+  "fetch_method": "html_to_md"
+}

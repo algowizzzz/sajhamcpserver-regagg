@@ -1,0 +1,114 @@
+Federal Deposit Insurance Corporation 
+National Credit Union Administration 
+Office of the Comptroller of the Currency 
+July 13, 2026 
+INTERAGENCY GUIDANCE ON LENDING TO INDIVIDUALS NOT LEGALLY 
+AUTHORIZED TO WORK IN THE UNITED STATES 
+On May 19, 2026, the President issued the Executive Order, “Restoring Integrity to America’s 
+Financial System,” to address risks to the financial system posed by the extension of credit or 
+financial services to the inadmissible and removable population.1 In accordance with the 
+Executive Order, the Office of the Comptroller of the Currency, Treasury (OCC), the Federal 
+Deposit Insurance Corporation (FDIC), and the National Credit Union Administration (NCUA) 
+(collectively, the agencies) are issuing this guidance to remind supervised financial institutions of 
+their existing obligations with respect to credit risk management, particularly as it relates to 
+borrowers who are not legally authorized to work in the United States (non-work authorized 
+borrowers). 
+Credit Risk and Underwriting Considerations 
+Lending to individuals who are not legally authorized to work in the United States may present 
+elevated credit risk because a borrower’s ability to generate income, maintain employment, and 
+remain financially stable may be subject to greater uncertainty.  As with all lending activities, 
+financial institutions2 should identify, measure, monitor, and control these risks through safe and 
+sound underwriting practices that assess a borrower’s willingness and capacity to repay 
+according to the terms of the credit obligation. 
+Safe and sound underwriting is a key risk-management tool that helps financial institutions 
+evaluate whether a borrower can repay a credit obligation according to its terms.  Such 
+underwriting includes assessing the source of repayment, the borrower’s repayment capacity, and 
+the borrower's overall financial condition, resources, and willingness to repay as agreed.3 When 
+lending to non-work authorized borrowers, financial institutions should consider whether 
+uncertainties related to employment authorization may affect the stability and sustainability of 
+income, repayment capacity, collateral recovery, or other factors relevant to credit risk. 
+1 Inadmissible and removable population generally refers to those individuals ineligible to receive visas and 
+ineligible to be admitted to the United States and subject to removal under the Immigration and Nationality Act. See, 
+e.g., 8 USC 1182.
+2 In this issuance, the term “financial institution” applies to all institutions supervised by the agencies.
+3 See “Interagency Guidelines Establishing Standards for Safety and Soundness,” parts II.C and D. 12 CFR 30,
+Appendix A (OCC); 12 CFR 364, Appendix A (FDIC). Additionally, the Underwriting Standards in the “Interagency
+Guidelines for Real Estate Lending” provide that prudently underwritten real estate loans should reflect the capacity
+of the borrower to adequately service the debt. 12 CFR 34, subpart D, Appendix A (OCC); 12 CFR 365, Appendix A 
+(FDIC); 12 USC 1786(b), (e), 12 CFR 741.3, and 12 CFR 723 (NCUA).
+
+The following sections discuss key underwriting considerations related to:  
+• Source of Repayment 
+• Collateral Considerations 
+• Documentation and Verification 
+• Portfolio and Concentration Considerations 
+• Consumer Compliance Risk 
+Source of Repayment 
+Underwriting standards typically consider the stability and sustainability of a borrower’s income 
+and the likelihood that the income will continue throughout the term of the credit obligation.  
+In retail lending, wages or self-employment income are often the primary source of repayment. 
+When a borrower’s income is derived from employment that is not legally authorized, the source 
+of repayment may be less reliable and may present increased credit risk for various reasons, 
+including:  
+• employment termination due to an employee not having legal work authorization; 
+• employment suspension or termination after discovering that an employee’s employment 
+authorization is expired; 
+• the borrower’s inability to become lawfully reemployed; or 
+• the borrower’s removal from the United States. 
+Financial institutions should consider whether projected repayment capacity remains adequate 
+under various scenarios including potential interruptions in employment or income resulting 
+from the borrower’s inability to maintain lawful employment.  
+Collateral Considerations 
+Financial institutions may face additional challenges enforcing security interests in collateralized 
+loans, as it may be more difficult to contact non-work authorized borrowers or locate and 
+repossess unaffixed collateral (e.g., automobiles, recreational vehicles, boats). 
+Documentation and Verification 
+Financial institutions might consider whether employment income is current, verifiable, stable, 
+and likely to continue.  Financial institutions might consider, as relevant, requiring and reviewing 
+paystubs, W-2s, tax returns, employer verifications, bank statements, or evidence of continuing 
+work authorization. Financial institutions may consider whether loans to non-work authorized 
+borrowers, individually or segments, exhibit signs of credit weakness regardless of delinquency 
+status for classification purposes and treatment in the allowance for credit losses.  
+Portfolio and Concentration Risk Considerations 
+Financial institutions with significant lending exposure to borrowers concentrated in specific 
+geographic markets, employers, or industries that may be disproportionately affected by changes 
+in immigration enforcement, employment verification practices, labor availability, or workforce 
+disruptions may face elevated concentration risk. These changes could adversely affect the 
+repayment capacity of multiple borrowers simultaneously.  As a result, financial institutions may
+
+experience correlated credit deterioration within affected segments of the portfolio rather than 
+isolated borrower-level stress. 
+Consumer Compliance Risk 
+On June 8, 2026, the Consumer Financial Protection Bureau (CFPB) issued the “Statement on 
+Ability To Repay and Immigration Status” to remind creditors of their obligations under the 
+Truth in Lending Act (TILA) as implemented by Regulation Z.4 As the CFPB observes, under 
+TILA and Regulation Z, before lending to consumers for dwelling secured transactions like 
+mortgages, creditors must make “a reasonable and good faith determination at or before 
+consummation that the consumer will have a reasonable ability to repay the loan according to its 
+terms.”5 Regulation Z sets forth parameters that lenders must follow to make such “reasonable 
+and good faith” determinations of a customer’s ability to repay applicable consumer credit 
+products. Further, the CFPB advises that credit card issuers must “consider [] the consumer’s 
+ability to make required minimum periodic payments.”6  
+The CFPB advises that, when determining repayment ability, creditors relying on an individual's 
+income derived from U.S.-based employment are permitted—and may, under certain facts and 
+circumstances, be obligated—to consider information that bears on the consumer's underlying 
+and continuing ability to earn income—when residency in the United States is a necessary 
+component of such employment. 
+With respect to the Equal Credit Opportunity Act (ECOA), as implemented by Regulation B, the 
+CFPB observes that ECOA expressly states that “[a] creditor may take the applicant’s 
+immigration status into account,”7 and that a creditor “may consider the applicant’s immigration 
+status or status as a permanent resident of the United States, and any additional information that 
+may be necessary to ascertain the creditor’s rights and remedies regarding repayment.”8 
+Consistent with applicable laws and regulations, financial institutions should consider the risks 
+associated with non-work authorized borrowers in underwriting and account management 
+policies and processes. Financial institutions are advised to review the CFPB’s June 8, 2026 
+“Statement on Ability To Repay and Immigration Status” in light of the compliance obligations 
+set forth in TILA and Regulation Z as well as ECOA and Regulation B. 
+ 
+ 
+ 
+4 91 FR 34607. 
+5 12 CFR 1026.43(c). 
+6 12 CFR 1026.51(a). 
+7 12 CFR 1002, supp. I, comment 2(z)-2. 
+8 12 CFR 1002.6(b)(7).

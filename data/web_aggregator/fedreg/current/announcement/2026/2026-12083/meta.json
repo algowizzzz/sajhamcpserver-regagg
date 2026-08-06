@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12083",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Announcement of Financial Sector Liabilities",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/16/2026-12083/announcement-of-financial-sector-liabilities",
+  "reference_number": "2026-12083",
+  "published_date": "2026-06-16",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:06d56034ff425438849e605d0d45f593a682d76aa28e50e9fb2bdc298d1d2553",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12083",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

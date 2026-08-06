@@ -1,0 +1,24 @@
+{
+  "doc_id": "1af765b86b64bbbb",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Instructions et sp\u00e9cifications pour la transmission en format XML de d\u00e9clarations par lots",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/reporting-declaration/XML/mod2XML-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:57fd49802ba62bcecc3fbf6796709ae4e5068333913a2d9db60e84f42dff7ae9",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/1af765b86b64bbbb",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

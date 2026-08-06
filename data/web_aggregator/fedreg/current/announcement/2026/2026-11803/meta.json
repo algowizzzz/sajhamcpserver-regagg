@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-11803",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; NYSE National, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Adopt New Rule 11.5310 (Best Execution)",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/12/2026-11803/self-regulatory-organizations-nyse-national-inc-notice-of-filing-and-immediate-effectiveness-of",
+  "reference_number": "2026-11803",
+  "published_date": "2026-06-12",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:009ec3bdaf0d23c741f28835df31613d303b203031a305fa8912151bae7af84b",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-11803",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

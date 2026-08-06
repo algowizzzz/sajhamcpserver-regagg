@@ -1,0 +1,1 @@
+Summary: # China’s stock market sees drop in new A-share, margin-trading accounts amid tech sell-off

@@ -1,0 +1,61 @@
+# Website Language Translations in Your Browser
+
+### **Disclaimer:**
+
+We are providing instructions on how to use your browser to assist you in reading FINRA’s website in languages other than English. These are general instructions on how to use a third-party provider (in this case, Chrome, Safari, Edge, or Firefox) to translate FINRA web pages into other languages. These browsers cannot translate all types of documents and may not provide an exact translation. Anyone relying on information obtained from their browser does so at his or her own risk. FINRA does not make any promises, assurances, or guarantees as to the accuracy of the translations provided. FINRA, its officers, employees, and/or agents shall not be liable for damages or losses of any kind arising out of, or in connection with, the use or performance of such information, including but not limited to, damages or losses caused by reliance upon the accuracy of any such information, or damages incurred from the viewing, distributing, or copying of such materials.
+
+**Chrome**
+
+1. While in Chrome, right click.
+2. From the pop-up menu, click Translate to English.
+3. This will open a menu in the top right of the page.
+4. Click the three dots, then Choose Another Language.
+5. Click the dropdown arrow and navigate through the list to find your preferred language.
+6. Select your language and click Translate.
+7. Your page should now be displayed in another language. If you do not see the changes reflected, restart your Chrome browser.
+8. When you navigate to another page, you will need to right click on the page again, and repeat steps 4-6.
+9. If you do not see the changes reflected, try restarting your browser.
+
+**Safari**
+
+1. From the browsers main menu , click View  Translation. If you see your preferred language skip to step 4. If you do not see your preferred language, select "Preferred Languages".
+2. In the settings menu, click the plus sign to add a new language. Scroll or search through the list to find your preferred language, then click Add.
+3. A pop-up dialogue box will ask if you’d like to use the language you selected as your primary language. If you want to always translate pages in this browser, click Use [language]. Otherwise select Use English and close the box.
+4. From the main menu click View  Translation  Translate to [language].
+5. Your page should now be displayed in your preferred language.
+6. If you do not see the changes reflected, try restarting your browser.
+
+**Google Translate in Any Browser (including Firefox)**
+
+1. Go to <https://translate.google.com> and click the Websites tab.
+2. Paste the link of the page you are trying to translate.
+3. A new tab will open with the website and a menu at the top of the page. Select your preferred language using the dropdown arrow.
+4. Every time you navigate to another page on the site, you will need to select your chosen language from the top menu.
+
+**Microsoft Edge**
+
+1. From inside the browser, right click.
+2. From the pop-up menu, select "Translate to English".
+3. An icon and the word Translated and a lowercase "a" will appear in the URL/address bar.
+4. Click on the icon and click on the dropdown arrow to display the full list of languages.
+5. Select your preferred language and click on the Translate button.
+6. When you navigate to another page, you will need to right click on the page again, but this time Edge will remember the language previously chosen and will give the option of Translate to [language].
+7. If you do not see the changes reflected, try restarting your browser.
+
+## In-Browser Translation Video Tutorials
+
+![](/sites/default/files/video_thumbnails/828425965.jpg)
+
+#### In-Browser Translation Tutorial: Any Browser
+
+![](/sites/default/files/video_thumbnails/828360801.jpg)
+
+#### In-Browser Translation Tutorial: Safari
+
+![](/sites/default/files/video_thumbnails/828443502.jpg)
+
+#### In-Browser Translation Tutorial: Microsoft Edge
+
+![](/sites/default/files/video_thumbnails/828360781.jpg)
+
+#### In-Browser Translation Tutorial: Chrome

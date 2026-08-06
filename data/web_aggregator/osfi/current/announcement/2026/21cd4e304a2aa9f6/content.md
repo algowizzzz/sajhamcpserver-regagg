@@ -1,0 +1,83 @@
+# Partie XII: Établissement d’une succursale d’une société coopérative de crédit, d’un courtier de valeurs mobilières ou d’un fournisseur de services de conseil en placement et de gestion
+
+Information
+
+Type de document
+
+Instructions relatives aux opérations
+
+Catégorie
+
+Opérations sans présomption d'agrément
+
+Dernière révision
+
+Octobre 2017
+
+Index A No
+
+7.3
+
+## Fondement législatif
+
+* Article 522.18 et alinéa 522.22(1)f) de la [Loi sur les banques](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/) (la Loi).
+
+## Exigences en matière d’information
+
+De façon générale, le demandeur doit fournir :
+
+1. le nom du demandeur, l’adresse de son siège et l’instance de sa constitution;
+2. une analyse à l’appui de la conclusion du demandeur qu’il est tenu de demander cet agrément, y compris une analyse appuyant la position du demandeur selon laquelle il est :
+
+   1. une entité visée par la partie XII[Note de bas de page 1](#fnb1) (une « entité visée »), et
+   2. une société coopérative de crédit étrangère[Note de bas de page 2](#fnb2), un courtier de valeurs mobilières étranger[Note de bas de page 3](#fnb3) ou une entité qui fournit à l’étranger des services de conseil en placement et de gestion de portefeuille;
+3. une confirmation indiquant si :
+
+   1. le demandeur a, ou est réputé avoir, un établissement financier au Canada (et si c’est le cas, détails à l’appui de la confirmation)[Note de bas de page 4](#fnb4), ou si
+   2. les activités commerciales proposées feront en sorte que le demandeur aura un établissement financier au Canada;
+4. une description détaillée des activités que le demandeur propose d’exercer au Canada, y compris le nom sous lequel elles seront exercées et le lieu des principaux établissements;
+5. les détails du cadre de réglementation qui s’appliquera aux activités proposées au Canada, notamment :
+
+   1. l’identité du ou des organismes de réglementation au Canada pour les activités proposées;
+   2. les agréments réglementaires, autres que celles prévues par la Loi, requises relativement aux activités proposées (et l’information relative à l’obtention de ces approbations).
+
+## Directives administratives
+
+1. Pour obtenir de plus amples renseignements sur le concept d’« établissement financier au Canada » et d’autres éléments de la partie XII de la Loi, se reporter au [préavis no 2006-01-R1, Cadre législatif des banques étrangères](/fr/consignes/repertoire-consignes/cadre-legislatif-banques-etrangeres "Cadre législatif des banques étrangères").
+2. Lorsqu’une entité visée exerce au Canada les activités commerciales d’une société coopérative de crédit, d’un courtier de valeurs mobilières ou d’un fournisseur de services de conseil en placement et de gestion de portefeuille, cela fait en sorte que cette entité et toutes les entités qui y sont associées ont un établissement financier au Canada (si ce n’est pas déjà le cas). Si le demandeur n’a pas déjà d’établissement financier au Canada, il doit obtenir l’[agrément](/fr/donnees-formulaires/demandes-approbations/instructions-relatives-operations/instructions-relatives-operations-partie-xii-agrement-relatif-etablissements-financiers-au-canada "Instructions relatives aux opérations – Partie XII: Agrément relatif aux établissements financiers au Canada") du ministre pour en avoir un avant d’exercer de telles activités au Canada.
+3. Cet agrément est assujetti à un droit à payer[Note de bas de page 5](#fnb5). Un virement électronique, un chèque ou une traite bancaire doit être fait à l’ordre du Receveur général du Canada.
+4. Les documents présentés initialement à l’appui d’une demande d’agrément dont il est question dans le présent document devraient être envoyés à l’adresse courriel suivante : [approvals-approbations@osfi-bsif.gc.ca](mailto:approvals-approbations@osfi-bsif.gc.ca). Après réception des documents, un chargé de dossier sera nommé, après quoi les documents et la correspondance portant sur la demande devraient lui être adressés.
+
+Les exigences en matière d’information et les directives administratives sont conçues en fonction des demandes types. Elles découlent de l’expérience du BSIF dans l’étude de telles demandes. Les demandes qui réunissent tous les renseignements et toutes les pièces nécessaires pourraient être traitées plus rapidement. Selon les circonstances, le BSIF peut demander des renseignements supplémentaires, prendre en compte d’autres questions, imposer des conditions ou exiger des engagements.
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   En vertu de l’article 508 de la Loi.
+
+    [Retour à la référence de la note de bas de page 1](#fnb1-ref)
+
+Note de bas de page 2
+:   Au sens du paragraphe 507(1) de la Loi.
+
+    [Retour à la référence de la note de bas de page 2](#fnb2-ref)
+
+Note de bas de page 3
+:   Au sens du paragraphe 507(1) de la Loi.
+
+    [Retour à la référence de la note de bas de page 3](#fnb3-ref)
+
+Note de bas de page 4
+:   Voir les paragraphes 507(15) et (16) de la Loi.
+
+    [Retour à la référence de la note de bas de page 4](#fnb4-ref)
+
+Note de bas de page 5
+:   Voir le [Règlement de 2002 sur les droits à payer pour les services du Bureau du surintendant des institutions financières](http://laws-lois.justice.gc.ca/fra/reglements/DORS-2002-337/index.html).
+
+    [Retour à la référence de la note de bas de page 5](#fnb5-ref)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-12-21

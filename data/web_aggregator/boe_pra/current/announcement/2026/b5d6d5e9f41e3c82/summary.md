@@ -1,0 +1,1 @@
+Summary: # Travel restrictions as border frictions: evidence from the Covid-19 pandemic

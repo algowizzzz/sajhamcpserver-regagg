@@ -1,0 +1,1 @@
+Summary: # Bank of England Climate Transition Plan – 2026 update

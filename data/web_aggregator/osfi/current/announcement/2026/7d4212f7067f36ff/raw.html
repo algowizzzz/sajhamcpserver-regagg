@@ -1,0 +1,1882 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="fr" dir="ltr" class="no-js"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="fr" dir="ltr" class="no-js">
+<!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="Relevés DC1 (BSIF 1000) - Gabarit de relevé (CSV, 3,67 Ko)" />
+<link rel="canonical" href="https://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/specifications-operationnelles-releves-sur-risques-climatiques-pour-institutions-depot" />
+<meta name="generator" content="OSFI_BSIF_WCMS" />
+<meta name="dcterms.title" content="Spécifications opérationnelles des relevés sur les risques climatiques pour les institutions de dépôt" />
+<meta name="dcterms.creator" content="Bureau du surintendant des institutions financières" />
+<meta name="dcterms.description" content="Relevés DC1 (BSIF 1000) - Gabarit de relevé (CSV, 3,67 Ko)" />
+<meta name="dcterms.language" content="fra" title="ISO639-2/T" />
+<meta name="dcterms.issued" content="2025-03-04" title="W3CDTF" />
+<meta name="dcterms.modified" content="2026-02-16" title="W3CDTF" />
+<meta name="dcterms.accessRights" content="2" />
+<meta name="dcterms.service" content="OSFI-BSIF_BSIF-OSFI" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<noscript><link rel="stylesheet" href="/libraries/wet-boew/css/noscript.min.css" />
+</noscript><script src="//assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-f7c3e6060667.min.js" type="text/javascript" async></script>
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<style media="all and (max-width: 767px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_xs/public/2023-06/Data-Forms_Bannerop.jpg?itok=TK7chxB5') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 768px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_sm/public/2023-06/Data-Forms_Bannerop.jpg?itok=w5bU0jh7') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 992px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_md/public/2023-06/Data-Forms_Bannerop.jpg?itok=tXTRo7Nu') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 1200px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_lg/public/2023-06/Data-Forms_Bannerop.jpg?itok=P120HHfB') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<link rel="icon" href="/themes/custom/osfi_wxt/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/business-specifications-climate-related-risk-returns-deposit-taking-institutions-dtis" />
+<link rel="alternate" hreflang="fr" href="https://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/specifications-operationnelles-releves-sur-risques-climatiques-pour-institutions-depot" />
+
+    <title>Spécifications opérationnelles des relevés sur les risques climatiques pour les institutions de dépôt | Bureau du surintendant des institutions financières</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_HrK5WvsUedegQjg-kio7gXkB8NcOKQKkFsNaR_HB2Io.css?delta=0&amp;language=fr&amp;theme=osfi_wxt&amp;include=eJx1UAFuwyAM_BCFJyEDDvECGGGnaX8_lnVapWwSYHN3ts6GphRYHXxHu_CoJkDcvPI83b3lniI3EzdMpDw8tYRNQ-G4ubfc1MmDW6goDhuhK80qloX88VA3743vOAYlFNNhQB7QV3Fp7B2K_UXs3voeCsmKychTFOt0I2juhIe487WV017QHBi-nLtXtPABjwsYuXYW0qscC9bp3yZUoCJWOec_uv7IKopA_p_nc2a58OdyXx8fmFV0TuouiJlL8oXCgPF0us6mtxyn6hNliKiN" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css__2dOEwOCqcIpvSQ2Lm6TZtfrq1jws1EjKBOGO3ZrvNk.css?delta=1&amp;language=fr&amp;theme=osfi_wxt&amp;include=eJx1UAFuwyAM_BCFJyEDDvECGGGnaX8_lnVapWwSYHN3ts6GphRYHXxHu_CoJkDcvPI83b3lniI3EzdMpDw8tYRNQ-G4ubfc1MmDW6goDhuhK80qloX88VA3743vOAYlFNNhQB7QV3Fp7B2K_UXs3voeCsmKychTFOt0I2juhIe487WV017QHBi-nLtXtPABjwsYuXYW0qscC9bp3yZUoCJWOec_uv7IKopA_p_nc2a58OdyXx8fmFV0TuouiJlL8oXCgPF0us6mtxyn6hNliKiN" />
+
+    <script src="/modules/contrib/adobe_launch/js/adobe_launch_dtm_init.js?til2gg"></script>
+
+  </head>
+  <body class="lang-fr node-1795 path-node page-node-type-data-and-forms has-glyphicons osfi-wxt theme-gcweb">
+    <nav>
+      <ul id="wb-tphp">
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-cont">
+            Passer au contenu principal
+          </a>
+        </li>
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-info">
+            Passer à « À propos de ce site »
+          </a>
+        </li>
+      </ul>
+    </nav>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    <header class="navbar navbar-default" id="navbar">
+    <div id="wb-bnr" class="container-fluid padded-sm">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <img class="canada-signature" src="/libraries/theme-gcweb/assets/sig-blk-fr.svg" alt="Gouvernement du Canada" height="30">
+        </div>
+        <div class="col-xs-12 col-sm-6 text-right">
+            <div class="region region-topbar">
+    
+<section id="block-osfi-wxt-customsearchblock" class="wb-srch block block-ngage-search block-ngage-search-block clearfix" data-block-plugin-id="ngage_search_block">
+  
+      <h2 class="wb-inv">Recherche</h2>
+    
+
+      <form action="/fr/node/648" method="get" class="search-form form-inline" role="search">
+  <div class="form-item form-group">
+    <label for="wb-srch-q" class="sr-only">Saisissez vos mots-clés</label>
+    <input type="search" placeholder="Recherchez le site Web" name="search-keys" id="wb-srch-q" class="search-input form-control" />
+  </div>
+  <button id="wb-srch-sub"><span class="sr-only">soumettre</span></button>
+</form>
+  </section>
+<section class="language-switcher-language-url wb-lng block block-wxt-library block-wxt-language-blocklanguage-interface clearfix" id="block-osfi-wxt-languageswitcher" data-block-plugin-id="wxt_language_block:language_interface">
+  
+      <h2 class="wb-inv">Sélection de la langue</h2>
+    
+
+      <ul class="links list-inline mrgn-bttm-0">                    <li><a href="/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/business-specifications-climate-related-risk-returns-deposit-taking-institutions-dtis" class="language-link" lang="en" hreflang="en" data-drupal-link-system-path="node/1795"><span class="hidden-xs">English</span><abbr title="English" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">en</abbr></a></li></ul>
+  </section>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+      <div class="region region-branding container-fluid">
+    <div class="row wb-eqht-grd grow">
+        <a class="main-site col-xs-12 col-sm-8 col-md-9 no-padding-x" href="/fr" title="Accueil" rel="home">
+    <span class="logo col-sm-2 padded-sm hght-inhrt">
+      <img src="/themes/custom/osfi_wxt/logo-fr.svg" alt="Accueil" />
+    </span>
+    <span class="name navbar-text padded-sm hght-inhrt col-sm-10">Bureau du surintendant des institutions financières</span>
+  </a>
+  <a class="cross-site-link navbar-btn col-sm-4 col-md-3 padded-sm hidden-xs" href="/fr/bac" title="Bureau de l&#039;actuaire en chef">Bureau de l&#039;actuaire en chef</a>
+  
+    </div>
+  </div>
+
+
+    <div class="clearfix navbar-header visible-xs">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse">
+        Menu
+        <span class="icon-wrapper">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </span>
+      </button>
+    </div>
+    <div class="clearfix navbar-collapse collapse" id="navbar-collapse">
+        <nav aria-labelledby="block-osfi-wxt-main-menumainmenu" id="block-osfi-wxt-main-menu" data-block-plugin-id="system_menu_block:main">
+            <h2 class="sr-only hidden" id="block-osfi-wxt-main-menumainmenu">Main navigation</h2>
+
+      
+              <ul role="menu" class="nav navbar-nav">
+                            
+              <li role="presentation">
+        <a href="/fr/risques" role="menuitem" title="Risques" data-drupal-link-system-path="node/750">Risques</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/consignes" role="menuitem" title="Consignes" data-drupal-link-system-path="node/379">Consignes</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/surveillance" role="menuitem" title="Surveillance" data-drupal-link-system-path="node/217">Surveillance</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/consultations" role="menuitem" title="Consultations" data-drupal-link-system-path="node/223">Consultations</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/donnees-formulaires" role="menuitem" title="Données et formulaires" data-drupal-link-system-path="node/752">Données et formulaires</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/carrieres" role="menuitem" title="Carrières" data-drupal-link-system-path="node/209">Carrières</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      <a class="cross-site-link navbar-btn padded-sm visible-xs" href="/fr/bac" title="Bureau de l&#039;actuaire en chef">Bureau de l&#039;actuaire en chef</a>
+    </div>
+  </header>
+
+  <div class="region region-banner clearfix">
+    
+<div class="views-element-container block block-views block-views-blocksite-section-block-1 clearfix" id="block-views-block-site-section-block-1" data-block-plugin-id="views_block:site_section-block_1">
+  
+    
+
+      <div class="form-group"><div class="bg-img parallax view view-site-section view-id-site_section view-display-id-block_1 js-view-dom-id-ac58cb8babfb64afbc058d721355373df8301db31a87d738ecd07b93412c0d39" id="site_section-block_1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="site-section banner vertical-padding">
+    <div class="container">
+        <div class="row">
+            
+              <div class="col-xs-12">
+                <p class="h1">Données et formulaires</p>
+              </div>
+            
+            
+            <div class="field field--name-field-image field--type-image field--label-hidden field--item"></div>
+      
+        </div>
+    </div>
+</div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+        <div class="region region-breadcrumb">
+            <nav id="wb-bc" property="breadcrumb" aria-labelledby="breadcrumbTitle">
+      <h2 id="breadcrumbTitle">Vous êtes ici</h2>
+      <ol class="breadcrumb">
+                              <li >
+                              <a href="/fr" title="Accueil">Accueil</a>
+                          </li>
+                      <li >
+                              <a href="/fr/donnees-formulaires" title="Données et formulaires">Données et formulaires</a>
+                          </li>
+                      <li >
+                              <a href="/fr/donnees-formulaires/rapports-releves" title="Rapports et relevés">Rapports et relevés</a>
+                          </li>
+                      <li >
+                              <a href="/fr/donnees-formulaires/rapports-releves/produire-releve-financier" title="Produire un relevé financier">Produire un relevé financier</a>
+                          </li>
+                      <li >
+                              <a href="/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers" title="Guides de production des relevés financiers">Guides de production des relevés financiers</a>
+                          </li>
+                      <li  class="active">
+                              Spécifications opérationnelles des relevés sur les risques climatiques pour les institutions de dépôt
+                          </li>
+                        </ol>
+    </nav>
+  
+
+  </div>
+
+  
+      <div class="highlighted clearfix"></div>
+  
+
+    <main property="mainContentOfPage"  class="full-width js-quickedit-main-content">
+
+                <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>  
+
+
+
+
+  <article class="data-and-forms full clearfix">
+
+        <div class="container">
+      
+      <h1 id="wb-cont" class="text-center clearfix">
+<span>Spécifications opérationnelles des relevés sur les risques climatiques pour les institutions de dépôt</span>
+</h1>
+      
+    </div>
+  
+    
+        <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="wb-tabs ignore-session">
+            <div class="tabpanels">
+                      
+<details  id="tab-information">
+  <summary>Information</summary>
+    
+<div  class="info-grid wb-eqht-grd grow clearfix">
+    
+<div  class="col-xs-12 col-sm-8 info-left">
+    
+  <div class="field field--name-field-publication-type field--type-entity-reference field--label-inline">
+    <div class="field--label">Type de document </div>
+              <div class="field--item">Instructions</div>
+          </div>
+
+  <div class="field field--name-field-industry field--type-entity-reference field--label-inline">
+    <div class="field--label">Secteur</div>
+              <div class="field--item">Institutions de dépôt</div>
+          </div>
+
+  <div class="field field--name-field-return field--type-entity-reference field--label-inline">
+    <div class="field--label">Relevé</div>
+              <div class="field--item">Relevés sur les risques climatiques</div>
+          </div>
+
+  <div class="field field--name-field-last-updated field--type-string field--label-inline">
+    <div class="field--label">Dernière révision</div>
+              <div class="field--item">Novembre 2025</div>
+          </div>
+
+      <div class="field field--name-field-custom-fields field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">
+      <div id="paragraph-2263" class="paragraph paragraph--type--custom-fields paragraph--view-mode--default field field--label-inline">
+              <div class="field--label">Numéro de relevé</div>
+        <div class="field--item">BSIF1000-BSIF1001</div>
+          </div>
+  
+</div>
+          </div>
+  
+  </div>
+  </div>
+  </details>
+      
+
+  
+          
+      <details id="field-toc" class="toc">
+          <summary>Table des matières</summary>
+
+                  <div class="details-wrapper">
+            <ul class="toc-list"></ul>
+          </div>
+        
+      </details>
+    
+  
+      
+      
+  <details class="field field--name-field-related-documents field--type-link field--label-above" id="field-related-documents">
+    <summary class="field--label">Documents connexes</summary>
+    <div class="details-wrapper">
+      			<ul>
+									<li class="field--item">
+						<a href="/fr/propos-du-bsif/rapports-publications/observations-tirees-releves-sur-risques-climatiques-2025">
+							Observations tirées des relevés sur les risques climatiques de 2025
+						</a>
+					</li>
+							</ul>
+		    </div>
+  </details>
+
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+          <div class="content">
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden container body-wrapper">
+    <div class="row">
+      <div class="col-xs-12"><section>
+<div class="bg-default padded-sm">
+<h2 class="mrgn-tp-0" id="fichiers">Relevés</h2>
+
+<div class="list-group"><a class="list-group-item" data-entity-substitution="file" data-entity-type="file" data-entity-uuid="9c01bffa-c5b9-414d-81ac-a1575f414112" href="/sites/default/files/documents/dc1-return-releve-2025-12-01-fr.csv" title="dc1-return-releve-2025-12-01-fr.csv">DC1 (BSIF 1000) - Gabarit de relevé&nbsp;(CSV, 3,67 Ko)</a> <a class="list-group-item" data-entity-substitution="file" data-entity-type="file" data-entity-uuid="c5f337f4-a1d7-4500-8010-195cd43dede6" href="/sites/default/files/documents/dc1-specifications-2025-11-fr.xlsx" title="dc1-specifications-2025-11-fr.xlsx">DC1 (BSIF 1000)&nbsp;- Spécifications techniques de relevé&nbsp;(XLSX, 34,45 Ko)</a> <a class="list-group-item" data-entity-substitution="file" data-entity-type="file" data-entity-uuid="2c8e14bd-3d0a-40c5-ac2e-9c7f4219663b" href="/sites/default/files/documents/dc2-return-releve-2025-11-26-fr.csv" title="dc2-return-releve-2025-11-26-fr.csv">DC2 (BSIF 1001)&nbsp;- Gabarit de relevé&nbsp;(CSV, 5,5 Ko)</a> <a class="list-group-item" data-entity-substitution="file" data-entity-type="file" data-entity-uuid="0f1884ed-befa-44cf-ba97-5381fb236f93" href="/sites/default/files/documents/dc2-specifications-2026-02-fr.xlsx" title="dc2-specifications-2026-02-fr.xlsx">DC2 (BSIF 1001)&nbsp;- Spécifications techniques du relevé&nbsp;(XLSX, 38,48 Ko)</a> <a class="list-group-item" data-entity-substitution="file" data-entity-type="file" data-entity-uuid="3d263590-e19f-4d8e-93f4-8731b2e9954a" href="/sites/default/files/documents/dc1-dc2-matrices-2025-12-23-fr.xlsx" title="dc1-dc2-matrices-2025-12-23-fr.xlsx">Matrices d’application des champs pour les institutions de dépôt&nbsp;(XLSX, 57,27 Ko)</a> <a class="list-group-item" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="f1626a9f-333a-4315-9c5d-7c2034cb3ac9" href="/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-changements-releves-sur-risques-climatiques" title="Relevé des changements (relevés sur les risques climatiques)">Relevé des changements</a></div>
+</div>
+</section>
+
+<h2>But</h2>
+
+<p>Les relevés sur les risques climatiques ont pour but de recueillir, directement auprès de l’ensemble des institutions, des données normalisées sur les émissions et les expositions climatiques. Le BSIF pourra ainsi fonder ses activités d’élaboration de politiques, de réglementation et de surveillance prudentielle sur des données probantes en ce qui a trait à la gestion des risques climatiques.</p>
+
+<p>Les données saisies dans ces relevés permettent de quantifier 1) les expositions potentielles et réelles au risque physique; et 2) les expositions potentielles au risque de transition des institutions de dépôt, à la fin de l’exercice.</p>
+
+<p>Plus précisément, les données recueillies dans ces relevés couvrent&nbsp;:</p>
+
+<ul>
+	<li>les expositions sur actifs soumis au risque physique, selon l’emplacement géophysique;</li>
+	<li>les émissions de gaz à effet de serre (GES) en termes absolus (portées [ou champs d’application]&nbsp;1, 2 et 3).</li>
+</ul>
+
+<p>Les données recueillies sont confidentielles et ne seront pas rendues publiques.</p>
+
+<h2>Champ d’application</h2>
+
+<p>Ces relevés s’appliquent à toutes les institutions de dépôt (ID), à l’exception des succursales de banques étrangères.</p>
+
+<h2>Fréquence</h2>
+
+<p>Annuelle.</p>
+
+<h2>Format de dépôt</h2>
+
+<p>Les relevés doivent être produits au moyen du Système de déclaration réglementaire (SDR) en format .csv.</p>
+
+<h2>Date de mise en œuvre</h2>
+
+<p>Ces relevés entrent en vigueur à compter du 31&nbsp;octobre, pour les exercices suivants&nbsp;:</p>
+
+<ul>
+	<li>2024, pour les banques d’importance systémique intérieure (BISi)</li>
+	<li>2025, pour les petites et moyennes banques (PMB)</li>
+</ul>
+
+<h2>Date de déclaration</h2>
+
+<p>Les relevés doivent être préparés à la fin de chaque exercice et être présentés dans les 180&nbsp;jours suivant la date de clôture.</p>
+
+<p>Par exemple, une BISi dont l’exercice se termine le 31&nbsp;octobre devra préparer son premier relevé pour l’exercice&nbsp;2024 (à l’aide des données au 31&nbsp;octobre 2024) et le présenter d’ici la fin du mois d’avril&nbsp;2025, tandis qu’une PMB dont l’exercice prend fin le 31&nbsp;décembre devra préparer son premier relevé pour l’exercice&nbsp;2025 (à l’aide des données au 31&nbsp;décembre 2025) et le produire d’ici la fin du mois de juin&nbsp;2026.</p>
+
+<h2>Organisme responsable</h2>
+
+<p>Bureau du surintendant des institutions financières (BSIF).</p>
+
+<h2>Personne-ressource</h2>
+
+<p>Pour toute question opérationnelle ou d’interprétation au sujet de la version finale du relevé, veuillez communiquer avec le BSIF à l’adresse suivante&nbsp;: <a href="mailto:ClimateRiskReturn-ReleveRisquesClimatiques@osfi-bsif.gc.ca">ClimateRiskReturn-ReleveRisquesClimatiques@osfi-bsif.gc.ca</a>.</p>
+
+<h2>Termes et définitions clés</h2>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<thead>
+		<tr>
+			<th scope="col">Terme clé</th>
+			<th scope="col">Définition</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Catégorie d’actifs</th>
+			<td>
+			<p>Groupe d’instruments financiers ayant des caractéristiques financières semblables.</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Chaîne de valeur</th>
+			<td>
+			<p>Gamme complète d’activités, de ressources et de relations associées au modèle d’affaires d’une ID et à l’environnement externe dans lequel elle exerce ses activités.</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Émissions de gaz à effet de serre (GES)</th>
+			<td>
+			<p>Émissions des sept gaz à effet de serre visés par le Protocole de Kyoto&nbsp;: le dioxyde de carbone (CO<sub>2</sub>); le méthane (CH<sub>4</sub>), l’oxyde nitreux (N<sub>2</sub>O), les hydrofluorocarbures (HFC), le trifluorure d’azote (NF<sub>3</sub>), les perfluorocarbures (PFC) et l’hexafluorure de soufre (SF<sub>6</sub>).</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Émissions de gaz à effet de serre (GES) de portée 1</th>
+			<td>
+			<p>Émissions directes de GES qui émanent de sources dont l’ID est propriétaire ou qu’elle contrôle, par exemple, les émissions de GES provenant de la combustion des chaudières, des fours ou des véhicules dont elle est propriétaire ou qu’elle contrôle.</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Émissions de gaz à effet de serre (GES) de portée 2</th>
+			<td>
+			<p>Émissions indirectes de GES attribuables à la production d’électricité, de vapeur, de chaleur ou de climatisation achetée ou acquise et consommée par l’ID.</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Émissions de gaz à effet de serre (GES) de portée 3</th>
+			<td>
+			<p>Toutes les autres émissions indirectes de GES (non comprises dans celles de la portée 2) issues de la chaîne de valeur de la société déclarante.</p>
+
+			<p>Aux fins du présent relevé, les émissions de portée 3 englobent les catégories suivantes (conformément au Protocole des GES)&nbsp;:</p>
+
+			<p><strong>1) à 14) – Émissions imputables à l’ID/émissions non financées</strong></p>
+
+			<p><strong>Les exigences en matière de déclaration pour ces catégories doivent être déterminées jusqu’à nouvel ordre.</strong></p>
+
+			<p>En amont&nbsp;:</p>
+
+			<ol>
+				<li>produits et services achetés;</li>
+				<li>biens d’équipement;</li>
+				<li>activités liées au carburant ou à l’énergie qui ne sont pas incluses dans les émissions de portée 1 ni dans les émissions de portée 2;</li>
+				<li>transport et distribution en amont;</li>
+				<li>déchets générés par les activités;</li>
+				<li>voyages d’affaires;</li>
+				<li>déplacement domicile‑travail du personnel.</li>
+			</ol>
+
+			<p>En aval&nbsp;:</p>
+
+			<ol start="8">
+				<li>actifs loués en amont;</li>
+				<li>transport et distribution en aval;</li>
+				<li>transformation des produits vendus;</li>
+				<li>utilisation des produits vendus;</li>
+				<li>traitement en fin de vie des produits vendus;</li>
+				<li>actifs loués en aval;</li>
+				<li>franchises;</li>
+				<li><strong>investissements</strong> (aussi appelés <strong>«&nbsp;émissions financées&nbsp;»</strong>)
+				<ol class="lst-lwr-alph">
+					<li>(portées 1 et 2) émissions des entités émettrices d’une ID;</li>
+					<li>(portées 1 et 2) émissions des emprunteurs d’une ID;</li>
+				</ol>
+				</li>
+			</ol>
+
+			<p>Voir la définition du terme «&nbsp;émissions financées&nbsp;» ci‑après.</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Émissions en termes absolus</th>
+			<td>
+			<p>Volume d’émissions de gaz à effet de serre (GES) exprimé en tonnes d’équivalent de dioxyde de carbone (éq.&nbsp;CO<sub>2</sub>). Aux fins du présent relevé, les «&nbsp;émissions en termes absolus&nbsp;» s’entendent des émissions générées, et non des valeurs liées aux émissions évitées ou retirées.</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Émissions financées</th>
+			<td>
+			<p>Émissions de GES en termes absolus que les ID et les investisseurs financent par l’entremise de leurs prêts et de leurs placements. Voir «&nbsp;émissions en termes absolus&nbsp;».</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Équivalent de dioxyde de carbone (éq.&nbsp;CO<sub>2</sub>)</th>
+			<td>
+			<p>Unité de mesure universelle du potentiel de réchauffement climatique (PRC) de chacun des sept gaz à effet de serre correspondant au PRC d’une unité de dioxyde de carbone pour une durée de 100 ans. Cette unité sert à évaluer la libération de différents gaz à effet de serre par rapport à une base commune.</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Exposition</th>
+			<td>
+			<p>Valeur comptable d’une facilité ou d’une position, ou d’une catégorie d’actifs de celle‑ci.</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Péril</th>
+			<td>
+			<p>Les quatre types de périls climatiques qui peuvent avoir une incidence sur les ID sont les suivants&nbsp;: 1)&nbsp;feux de forêt; 2)&nbsp;inondations; 3)&nbsp;orages convectifs violents; 4)&nbsp;ouragans.</p>
+
+			<ol>
+				<li>Feu de forêt&nbsp;: vaste incendie destructeur qui se propage rapidement (habituellement) dans les zones boisées ou broussailleuses.</li>
+				<li>
+				<p>Inondation&nbsp;: dommages causés par de fortes précipitations ou par le débordement d’un cours d’eau.</p>
+
+				<p>Les inondations peuvent comprendre&nbsp;:</p>
+
+				<ul>
+					<li>les déferlements côtiers ou les ondes de tempête;</li>
+					<li>les débordements riverains ou fluviaux;</li>
+					<li>les crues soudaines, de surface ou pluviales;</li>
+					<li>les refoulements d’égout.</li>
+				</ul>
+				</li>
+				<li>Orage convectif violent&nbsp;: vents forts causés par un phénomène météorologique convectif violent, ce qui inclut les orages générant des vents rectilignes, les tornades et la grêle. À noter que les orages convectifs violents et les ouragans sont deux phénomènes météorologiques différents.</li>
+				<li>Ouragan&nbsp;: dommages causés par les vents d’ouragan, les ondes de tempête et les inondations provoquées par les précipitations.</li>
+			</ol>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Risques de transition</th>
+			<td>
+			<p>Le passage à une économie à plus faibles émissions de carbone pourrait impliquer des changements sur le plan des politiques, du droit, des technologies et des marchés pour satisfaire aux besoins d’atténuation et d’adaptation liés aux changements climatiques. Selon la nature, le rythme et le point central de ces changements, les risques de transition peuvent entraîner divers niveaux de risque financier et de risque d’atteinte à la réputation pour les ID.</p>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row">Risques physiques</th>
+			<td>
+			<p>Risques découlant des changements climatiques qui peuvent être causés par un événement (risques aigus) ou résulter de l’évolution à long terme (risques chroniques) des tendances climatiques. Ces risques peuvent entraîner des conséquences financières pour les entités, par exemple des dommages directs touchant leurs actifs ou des conséquences indirectes découlant de la perturbation de leur chaîne d’approvisionnement. Les résultats financiers des ID peuvent également être touchés par des changements dans la disponibilité, les sources d’approvisionnement et la qualité des ressources en eau, ou encore, par les variations de température extrêmes qui ont des répercussions sur les établissements, les activités, la chaîne d’approvisionnement, les besoins en transport et la sécurité du personnel.</p>
+			</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h2>Unités de mesure pour la présentation de l’information</h2>
+
+<h3>Données financières</h3>
+
+<p>Sauf indication contraire, les données financières présentées, comme les soldes de prêts impayés ou la valeur des titres de placement, doivent être exprimées en dollars canadiens ou en équivalent de dollar canadien, sans décimale ni virgule.</p>
+
+<h3>Émissions de gaz à effet de serre (GES)</h3>
+
+<p>Toutes les émissions de GES en termes absolus, y compris les émissions de portée 1, de portée 2 et de portée 3, doivent être déclarées en tonnes métriques d’équivalent dioxyde de carbone (t&nbsp;éq.&nbsp;CO<sub>2</sub>).</p>
+
+<h3>Probabilités et pourcentages</h3>
+
+<p>Les probabilités et les pourcentages doivent être déclarés selon leur équivalent décimal. Par exemple, une probabilité de défaut (PD) de 1,09&nbsp;% doit être exprimée comme suit&nbsp;: 0,01090.</p>
+
+<h2>Comptabilisation des émissions de gaz à effet de serre</h2>
+
+<p>Pour calculer les émissions de GES, les ID doivent utiliser la plus récente version de la norme <span lang="en">GHG Protocol Corporate Accounting and Reporting Standard</span> et la plus récente version de la norme <span lang="en">GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard</span>.</p>
+
+<p>Pour calculer la part des émissions de GES de portée 3 se rapportant aux émissions financées ou à celles associées à l’assurance, les ID doivent utiliser la plus récente norme <span lang="en">Global GHG Accounting and Reporting Standard for the Financial Industry</span> du partenariat pour la comptabilisation du carbone dans le secteur financier (<span lang="en">Partnership for Carbon Accounting Financials</span>, ou PCAF).</p>
+
+<p>Le BSIF est conscient qu’il existe souvent un décalage entre le moment où doit être communiquée l’information financière et celui où les données requises sont disponibles, comme les données sur les émissions imputables aux contreparties d’une banque. Par conséquent, pour ce qui est des émissions de GES financées, les ID peuvent utiliser les données liées aux émissions les plus récentes dont elles disposent, provenant des entités faisant partie de leur chaîne de valeur, de pair avec les données financières de l’exercice en cours. Par exemple, dans le relevé relatif à l’exercice&nbsp;2024, utilisez les données financières de l’exercice&nbsp;2024 et les données sur les émissions de GES de l’exercice&nbsp;2023.</p>
+
+<p>Bien qu’il n’y ait pas de période de vérification rétroactive maximale définie, une durée de 2&nbsp;ans ou moins est recommandée. Les ID doivent indiquer dans leurs notes complémentaires si la période de vérification rétroactive dépasse 2&nbsp;ans.</p>
+
+<h2>Structure des relevés sur les risques climatiques pour les ID</h2>
+
+<h3>Structure tabulaire des gabarits des relevés de données climatiques</h3>
+
+<p>Chaque relevé est structuré de manière à comporter trois types de champs de données&nbsp;:</p>
+
+<ul>
+	<li>champ de sous‑tableau;</li>
+	<li>champs de données catégoriques;</li>
+	<li>champs de données calculées.</li>
+</ul>
+
+<p>Voici un exemple tiré de la structure du relevé DC1 (BSIF&nbsp;1000).</p>
+
+<figure class="mrgn-bttm-lg" id="fig1">
+
+  <div class="wxt-media-default">
+    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field--item">  <img loading="lazy" src="/sites/default/files/images/dc1-img-fr.PNG" width="1232" height="282" class="img-responsive" alt="Exemple tiré de la structure du relevé DC1. Une description texte suit.">
+
+</div>
+      
+  </div>
+</figure>
+
+<ol>
+	<li><strong>Champ de sous-tableau&nbsp;:</strong> Ce champ sert à remplir le sous‑tableau du relevé (<code>sous_tableau_relevé</code>). Voir la rubrique Sous‑tableaux des relevés ci‑après pour de plus amples renseignements.</li>
+	<li><strong>Champs de données catégoriques&nbsp;:</strong> Ces champs servent à présenter des données qualitatives mutuellement exclusives. Les champs catégoriques des relevés sur les risques climatiques pour les ID comportent les clés de déclaration suivantes&nbsp;: <code>catégorie_actifs</code>, <code>région</code>, <code>secteur</code>, <code>qualité_crédit</code> et <code>rta</code>.</li>
+	<li><strong>Champs de données calculées&nbsp;:</strong> Sauf indication contraire, les données présentées dans ces champs doivent être calculées pour refléter le niveau de granularité maximal établi par les champs de données catégoriques applicables. Pour reprendre l’exemple ci‑dessus, le nombre de prêts déclaré à la première ligne du champ <code>nombre_actifs</code> (1149) correspond au nombre d’actifs (prêts) dans la région de tri d’acheminement (<code>rta</code>)<sup id="fn1-rf"><a class="fn-lnk" href="#fn1"><span class="wb-inv">Note de bas de page </span>1</a></sup> A1A, dont le code de <code>catégorie_actifs</code> est «&nbsp;5&nbsp;» (ESP).</li>
+</ol>
+
+<h3>Format de référence</h3>
+
+<p>Les clés de déclaration associées à chacun des champs de données sont indiquées dans la première ligne de chaque gabarit. Pour faciliter la lecture du présent document, les clés sont présentées en minuscules avec des traits de soulignement à la place des espaces (par exemple, <code>sous_tableau_relevé</code>).</p>
+
+<p>Les champs catégoriques, les codes catégoriques et les valeurs connexes sont indiqués entre guillemets (par exemple, code «&nbsp;19&nbsp;» et «&nbsp;Immobilier commercial&nbsp;», respectivement).</p>
+
+<h3>Sélections possibles dans les champs catégoriques</h3>
+
+<p>Les tableaux présentant la liste exhaustive des codes (fourchette de valeurs attendues) applicables à chacun des champs catégoriques (sauf <code>rta</code>) figurent aux annexes suivantes&nbsp;:</p>
+
+<ul>
+	<li><a href="#annI">Annexe I – Catégories d’actifs</a></li>
+	<li><a href="#annII">Annexe II – Régions</a></li>
+	<li><a href="#annIII">Annexe III – Secteurs</a></li>
+	<li><a href="#annIV">Annexe IV – Notes de qualité de crédit</a></li>
+</ul>
+
+<p>Ces tableaux correspondent à ceux figurant dans les gabarits de saisie des relevés DC1 (BSIF&nbsp;1000) et DC2 (BSIF&nbsp;1001).</p>
+
+<h3>Sous‑tableaux des relevés</h3>
+
+<p>Aux fins de la présentation de l’information, chaque relevé se compose d’un seul tableau de données divisé en sous‑tableaux qui regroupent des éléments de données connexes à déclarer. Les sous‑tableaux de chaque relevé sont les suivants&nbsp;:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption>Relevé DC1 sur les risques physiques pour les ID (BSIF&nbsp;1000)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Nom du sous‑tableau du relevé</th>
+			<th scope="col">Code du sous‑tableau</th>
+			<th scope="col">ID visées</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Expositions et paramètres du risque de crédit&nbsp;– Au Canada, par RTA</th>
+			<td>DC1-A</td>
+			<td>BISi, PMB</td>
+		</tr>
+		<tr>
+			<th scope="row">Expositions et paramètres du risque de crédit&nbsp;– À l’extérieur du Canada, par région</th>
+			<td>DC1-B</td>
+			<td>BISi, PMB</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption>Relevé DC2 sur les risques de transition pour les ID (BSIF&nbsp;1001)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Nom du sous‑tableau du relevé</th>
+			<th scope="col">Code du sous‑tableau</th>
+			<th scope="col">ID visées</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Émissions de GES de l’ID à l’échelle de l’entité, selon la portée</th>
+			<td>DC2-A</td>
+			<td>BISi, PMB</td>
+		</tr>
+		<tr>
+			<th scope="row">Émissions de GES financées selon la catégorie d’actifs</th>
+			<td>DC2-B</td>
+			<td>BISi, PMB</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4>Application des champs par sous‑tableau</h4>
+
+<p>Les champs applicables à chaque sous‑tableau sont décrits dans le document <a data-entity-substitution="file" data-entity-type="file" data-entity-uuid="3d263590-e19f-4d8e-93f4-8731b2e9954a" href="/sites/default/files/documents/dc1-dc2-matrices-2025-12-23-fr.xlsx" title="dc1-dc2-matrices-2025-12-23-fr.xlsx">Matrices d’application des champs (XLSX, 57,27 Ko)</a>. Ainsi que l’indiquent ces matrices, les champs calculés doivent être remplis en fonction du sous‑tableau du relevé et de la valeur du champ <code>catégorie_actifs</code> pour les relevés DC1 (BSIF&nbsp;1000) et DC2 (BSIF&nbsp;1001). Les champs qui ne s’appliquent pas doivent être laissés vides sur chaque ligne.</p>
+
+<h2>Instructions pour le relevé DC1 sur les risques physiques (BSIF&nbsp;1000)</h2>
+
+<p>Ce relevé permet de recueillir auprès des ID des données essentielles sur les expositions au risque et certaines données sur le risque de crédit à l’égard des <strong>prêts</strong> et des <strong>titres</strong> au bilan qui pourraient être exposés à des risques physiques liés aux changements climatiques, à l’échelle de granularité géophysique de la région de tri d’acheminement (RTA) au Canada. Dans le cas des expositions à l’extérieur du Canada, les données sont recueillies à un niveau régional plus large. Les sous-tableaux du relevé DC1 sur les risques physiques (DC1-A et DC1-B) ne s’appliquent qu’aux instruments figurant au bilan, plus précisément aux prêts et aux titres. Les données ainsi recueillies seront combinées à d’autres données sur les périls climatiques pour évaluer l’exposition des ID aux risques physiques.</p>
+
+<h3>Vue d’ensemble des champs de données du relevé</h3>
+
+<p>Le gabarit du relevé DC1 (BSIF&nbsp;1000) comporte les champs suivants&nbsp;:</p>
+
+<h4>Champ de sous‑tableau</h4>
+
+<p><code>sous_tableau_relevé</code></p>
+
+<h4>Champs de données catégoriques</h4>
+
+<ul class="list-unstyled">
+	<li><code>catégorie_actifs</code></li>
+	<li><code>région</code></li>
+	<li><code>rta</code></li>
+	<li><code>approche_risque_de_crédit</code></li>
+</ul>
+
+<h4>Champs de données calculées</h4>
+
+<ul class="list-unstyled">
+	<li><code>nombre_actifs</code></li>
+	<li><code>solde_autorisé</code></li>
+	<li><code>solde_impayé</code></li>
+	<li><code>pd_moyenne_pondérée</code></li>
+	<li><code>pcd_moyenne_pondérée</code></li>
+</ul>
+
+<p>Pour déclarer les données demandées dans les champs qui précèdent, il faut remplir le gabarit figurant dans le document <a data-entity-substitution="file" data-entity-type="file" data-entity-uuid="c5f337f4-a1d7-4500-8010-195cd43dede6" href="/sites/default/files/documents/dc1-specifications-2025-11-fr.xlsx" title="dc1-specifications-2025-11-fr.xlsx">Spécifications techniques du relevé DC1 (BSIF&nbsp;1000) (XLSX, 34,45 Ko)</a>, conformément aux instructions ci‑après sur la déclaration des expositions sur prêts et des paramètres de crédit applicables au Canada et à l’extérieur du Canada.</p>
+
+<h4>Application des champs par sous‑tableau</h4>
+
+<p>Les champs applicables à chaque sous‑tableau sont décrits dans le document <a data-entity-substitution="file" data-entity-type="file" data-entity-uuid="3d263590-e19f-4d8e-93f4-8731b2e9954a" href="/sites/default/files/documents/dc1-dc2-matrices-2025-12-23-fr.xlsx" title="dc1-dc2-matrices-2025-12-23-fr.xlsx">Matrices d’application des champs (XLSX, 57,27 Ko)</a>.</p>
+
+<h3>Sous‑tableau DC1-A&nbsp;: Expositions et paramètres du risque de crédit&nbsp;– Au Canada</h3>
+
+<p>Remplir tous les champs du gabarit à l’égard des prêts et des titres d’emprunteurs et d’entités émettrices qui sont garantis par des actifs se trouvant au Canada sur chaque ligne selon les instructions pour chaque clé de déclaration ci-après.</p>
+
+<h4>Champ de sous‑tableau</h4>
+
+<ul>
+	<li><code>sous_tableau_relevé</code> – Inscrire «&nbsp;DC1-A&nbsp;».</li>
+</ul>
+
+<h4>Champs de données catégoriques</h4>
+
+<ul>
+	<li><code>catégorie_actifs</code> – Déclarer le code de <code>catégorie_actifs</code> applicable d’après le tableau de l’annexe I, Catégories d’actifs.</li>
+	<li><code>région</code> – Déclarer la province ou le territoire canadien correspondant à la <code>rta</code> présentée, le cas échéant.</li>
+	<li><code>rta</code> – Déclarer l’indicateur d’emplacement de la région de tri d’acheminement (RTA) à trois caractères des emprunteurs/actifs pour les adresses au Canada seulement. Si les actifs déclarés par l’ID, comme des emprunts qui sont liés à l’emplacement physique des actifs pour certains comptes importants, par exemple des entreprises, des banques ou des emprunteurs souverains (par exemple, le gouvernement du Canada), ne peuvent pas être répartis entre plusieurs RTA à l’aide des données disponibles auprès du client, l’ID doit inscrire le code «&nbsp;ZZZ&nbsp;» dans le champ <code>rta</code>.</li>
+	<li><code>approche_risque_de_crédit</code> – À l’aide du tableau C, déclarer les codes de l’approche utilisée à l’égard du risque de crédit (approche fondée sur les notations internes [approche NI] ou approche standard) pour chaque champ&nbsp;: nombre d’actifs, solde autorisé, solde impayé et PD et perte en cas de défaut (PCD) moyennes pondérées. Le code&nbsp;1 (approche&nbsp;NI) s’applique uniquement aux ID qui utilisent des modèles approuvés établis selon l’approche NI avancée. Les banques qui appliquent l’approche standard doivent toujours utiliser le code&nbsp;2.</li>
+</ul>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption>Tableau C&nbsp;: Approche utilisée à l’égard du risque de crédit</caption>
+	<thead>
+		<tr>
+			<th scope="col">Code</th>
+			<th scope="col">Approche à l’égard du risque de crédit</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">1</th>
+			<td>Approche fondée sur les notations internes</td>
+		</tr>
+		<tr>
+			<th scope="row">2</th>
+			<td>Approche standard</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4>Champs de données calculées</h4>
+
+<ul>
+	<li><code>nombre_actifs</code>&nbsp;– Déclarer le nombre d’actifs (par exemple, prêts hypothécaires non résidentiels) impayés pour une <code>catégorie_actifs</code> donnée dans chaque <code>rta</code> présentée. Le nombre d’actifs doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.</li>
+	<li><code>solde_autorisé</code>&nbsp;– Déclarer la somme des expositions brutes maximales autorisées pour une <code>catégorie_actifs</code> donnée dans chaque <code>rta</code> présentée. Le&nbsp;solde&nbsp;autorisé&nbsp;doit&nbsp;être&nbsp;déterminé&nbsp;d’après&nbsp;l’approche&nbsp;à&nbsp;l’égard&nbsp;du&nbsp;risque&nbsp;de&nbsp;crédit&nbsp;indiquée&nbsp;par&nbsp;l’institution&nbsp;financière.</li>
+	<li><code>solde_impayé</code> – Déclarer la somme des montants bruts de l’encours des expositions pour une <code>catégorie_actifs</code> donnée dans chaque <code>rta</code> présentée. Le&nbsp;solde&nbsp;impayé&nbsp;doit&nbsp;être&nbsp;déterminé&nbsp;d’après&nbsp;l’approche&nbsp;à&nbsp;l’égard&nbsp;du&nbsp;risque&nbsp;de&nbsp;crédit&nbsp;indiquée&nbsp;par&nbsp;l’institution&nbsp;financière.</li>
+	<li><code>pd_moyenne_pondérée</code> – Déclarer la probabilité de défaut (PD) moyenne pondérée (par le solde impayé) de l’exposition pour la <code>catégorie_actifs</code> dans chaque <code>rta</code> présentée, le cas échéant. Veuillez vous référer au tableau C et préciser l’approche utilisée à l’égard du risque de crédit pour calculer la PD.</li>
+	<li><code>pcd_moyenne_pondérée</code> – Déclarer la perte en cas de défaut (PCD) moyenne pondérée (par le solde impayé) de l’exposition pour la <code>catégorie_actifs</code> dans chaque <code>rta</code> présentée. Veuillez vous référer au tableau C et préciser l’approche utilisée à l’égard du risque de crédit pour calculer la PCD.</li>
+</ul>
+
+<p>Les montants déclarés dans les champs <code>solde_autorisé</code> et <code>solde_impayé</code> doivent correspondre à la somme de chaque type d’exposition au niveau de granularité approprié. Ceux déclarés dans les champs <code>pd_moyenne_pondérée</code> et <code>pcd_moyenne_pondérée</code> doivent correspondre à la moyenne pondérée&nbsp;(par le solde impayé) de l’exposition pour chaque <code>catégorie_actifs</code> de chaque <code>rta</code>.</p>
+
+<section class="panel panel-info">
+<header class="panel-heading">
+<h5 class="panel-title">Nota</h5>
+</header>
+
+<div class="panel-body">
+<p><strong>Consignes générales</strong></p>
+
+<ul>
+	<li>Les catégories d’actifs figurant dans les relevés sur les risques climatiques (RRC) sont celles du Relevé des normes de fonds propres de Bâle (RNFPB). Toutefois, les RRC n’ont pas été conçus pour servir d’exercice d’évaluation des fonds propres.</li>
+	<li>Pour les différentes catégories d’actifs, les soldes déclarés dans le relevé DC1 doivent correspondre aux soldes calculés avant application des ajustements requis par la ligne directrice Normes de fonds propres et cadrer avec les montants notionnels correspondants indiqués dans le RNFPB.</li>
+</ul>
+
+<p><strong>Catégories d’actifs n’entrant pas dans le champ d’application du relevé DC1 sur les risques physiques</strong></p>
+
+<ul>
+	<li>Les expositions liées aux <strong>garanties</strong> et aux <strong>lettres de crédit</strong>, les expositions liées au <strong>risque de crédit de contrepartie</strong>, notamment les <strong>dérivés</strong> et les <strong>cessions temporaires de titres</strong>, les <strong>expositions sur transactions assimilées à des pensions</strong> et les <strong>expositions au risque de rajustement de la valeur du crédit (RVC)</strong>, n’entrent pas dans le champ d’application du relevé DC1 sur les risques physiques.</li>
+</ul>
+
+<p><strong>Clarification de la source des codes pour la région de tri d’acheminement (RTA)&nbsp;:</strong></p>
+
+<ul>
+	<li>Les ID doivent utiliser la dernière version des codes RTA de Postes Canada.</li>
+</ul>
+
+<p><strong>Définition des catégories d’actifs «&nbsp;Placements en actions dans des fonds&nbsp;– Actions de sociétés ouvertes&nbsp;» et «&nbsp;Placements en actions dans des fonds&nbsp;– Capital‑investissement&nbsp;»</strong></p>
+
+<ul>
+	<li>Les catégories d’actifs «&nbsp;<strong>Placements en actions dans des fonds&nbsp;– Actions de sociétés ouvertes</strong>&nbsp;» et «&nbsp;<strong>Placements en actions dans des fonds&nbsp;– Capital‑investissement</strong>&nbsp;» dans le <strong>relevé DC1 sur les risques physiques</strong> et la catégorie d’actifs «&nbsp;<strong>Placements en actions dans des fonds&nbsp;– Actions de sociétés ouvertes</strong>&nbsp;» dans le <strong>relevé DC2 sur les risques de transition</strong> incluent seulement les <strong>placements au bilan</strong>.</li>
+</ul>
+
+<p><strong>Portée&nbsp;3 – Catégories d’émissions non financées (propres à l’ID) et financées&nbsp;:</strong></p>
+
+<ul>
+	<li><strong>Catégories&nbsp;1 à 14 (émissions propres à l’ID)</strong> retirées des RRC et des documents connexes.</li>
+	<li><strong>Catégorie&nbsp;15 (émissions financées)&nbsp;:</strong> ventilation des composantes selon les portées&nbsp;1 et&nbsp;2 est facultative.</li>
+</ul>
+</div>
+</section>
+
+<h3>Sous‑tableau DC1-B&nbsp;: Expositions et paramètres du risque de crédit&nbsp;– Extérieur du Canada (par région)</h3>
+
+<p>Remplir tous les champs du gabarit à l’égard des prêts et des placements d’emprunteurs et d’entités émettrices qui sont garantis par des actifs se trouvant à l’extérieur du Canada, selon les instructions pour chaque clé de déclaration ci‑après. Par contre, le champ <code>rta</code> doit être laissé vide sur chaque ligne remplie.</p>
+
+<h4>Champ de sous‑tableau</h4>
+
+<ul>
+	<li><code>sous_tableau_relevé</code> – Inscrire «&nbsp;DC1-B&nbsp;» sur chaque ligne remplie.</li>
+</ul>
+
+<h4>Champs de données catégoriques</h4>
+
+<ul>
+	<li><code>catégorie_actifs</code>&nbsp;– Déclarer le code de <code>catégorie_actifs</code> applicable d’après le tableau de l’annexe I, Catégories d’actifs.</li>
+	<li><code>région</code>&nbsp;– Déclarer le code applicable à chaque <code>région</code> des États‑Unis ou aux «&nbsp;Autres&nbsp;» régions selon le tableau de l’annexe II, Régions, sur chaque ligne remplie. Si les actifs déclarés par l’ID, comme des emprunts qui sont liés à l’emplacement physique des actifs pour certains comptes clients importants aux États-Unis, par exemple, des entreprises, des banques ou des emprunteurs souverains, ne peuvent pas être répartis entre plusieurs régions à l’aide des données disponibles auprès du client, l’ID doit utiliser «&nbsp;É.‑U.‑Autre&nbsp;» dans le champ <code>région</code>.</li>
+	<li><code>rta</code> – Laisser le champ vide (ce champ s’applique uniquement au Canada).</li>
+	<li><code>approche_risque_de_crédit</code> – À l’aide du tableau C, déclarer les codes de l’approche utilisée à l’égard du risque de crédit (approche NI ou approche standard) pour chaque champ&nbsp;: nombre d’actifs, solde autorisé, solde impayé et PD et PCD moyennes pondérées. Le code&nbsp;1 (approche NI) s’applique uniquement aux ID qui utilisent des modèles approuvés établis selon l’approche NI avancée. Les banques qui appliquent l’approche standard doivent toujours utiliser le code&nbsp;2.</li>
+</ul>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption>Tableau C&nbsp;: Approche utilisée à l’égard du risque de crédit</caption>
+	<thead>
+		<tr>
+			<th scope="col">Code</th>
+			<th scope="col">Approche à l’égard du risque de crédit</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">1</th>
+			<td>Approche fondée sur les notations internes</td>
+		</tr>
+		<tr>
+			<th scope="row">2</th>
+			<td>Approche standard</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h4>Champs de données calculées</h4>
+
+<ul>
+	<li><code>nombre_actifs</code> – Déclarer le nombre de prêts impayés ou de titres en circulation pour une <code>catégorie_actifs</code> donnée dans chaque <code>région</code> présentée. Le nombre d’actifs doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.</li>
+	<li><code>solde_autorisé</code> – Déclarer la somme des expositions brutes maximales autorisées pour une <code>catégorie_actifs</code> donnée dans chaque <code>région</code> présentée. Le solde autorisé doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.</li>
+	<li><code>solde_impayé</code> – Déclarer la somme des montants bruts de l’encours des expositions pour une <code>catégorie_actifs</code> donnée dans chaque <code>région</code> présentée. Le solde impayé doit être déterminé d’après l’approche à l’égard du risque de crédit indiquée par l’institution financière.</li>
+	<li><code>pd_moyenne_pondérée</code> – Déclarer la probabilité de défaut (PD) moyenne pondérée (par le solde impayé) de l’exposition pour la <code>catégorie_actifs</code> dans chaque <code>région</code> présentée. Veuillez vous référer au tableau&nbsp;C et préciser l’approche utilisée à l’égard du risque de crédit pour calculer la PD.</li>
+	<li><code>pcd_moyenne_pondérée</code> – Déclarer la perte en cas de défaut (PCD) moyenne pondérée (par le solde impayé) de l’exposition pour la <code>catégorie_actifs</code> dans chaque <code>région</code> présentée. Veuillez vous référer au tableau&nbsp;C et préciser l’approche du risque de crédit utilisée pour calculer la PCD.</li>
+</ul>
+
+<p>Les montants déclarés dans les champs <code>solde_autorisé</code> et <code>solde_impayé</code> doivent correspondre à la somme de chaque type d’exposition pour chaque <code>catégorie_actifs</code> et chaque <code>région</code> à l’extérieur du Canada. Ceux déclarés dans les champs <code>pd_moyenne_pondérée</code> et <code>pcd_moyenne_pondérée</code> doivent correspondre à la moyenne pondérée (par le solde impayé) de l’exposition pour chaque <code>catégorie_actifs</code> applicable et chaque <code>région</code> à l’extérieur du Canada.</p>
+
+<h3>Autres consignes</h3>
+
+<p>Le document de spécifications techniques du relevé DC1 (BSIF&nbsp;1000), qui comprend un gabarit, la définition des champs ainsi que des tableaux de référence, est accessible à partir de ce lien&nbsp;: <a data-entity-substitution="file" data-entity-type="file" data-entity-uuid="c5f337f4-a1d7-4500-8010-195cd43dede6" href="/sites/default/files/documents/dc1-specifications-2025-11-fr.xlsx" title="dc1-specifications-2025-11-fr.xlsx">Spécifications techniques du relevé DC1 (BSIF&nbsp;1000) (XLSX, 34,45 Ko)</a>. Pour consulter un exemple de gabarit rempli contenant une liste abrégée des lignes remplies selon les instructions ci‑dessus, voir le document <a data-entity-substitution="file" data-entity-type="file" data-entity-uuid="9c01bffa-c5b9-414d-81ac-a1575f414112" href="/sites/default/files/documents/dc1-return-releve-2025-12-01-fr.csv" title="dc1-return-releve-2025-12-01-fr.csv">Gabarit de relevé DC1 (BSIF&nbsp;1000) (CSV, 3,67 Ko)</a>.</p>
+
+<h2>Instructions pour le relevé DC2 sur les risques de transition (BSIF&nbsp;1001)</h2>
+
+<p>Ce relevé permet de recueillir des données sur les émissions de GES en termes absolus à l’échelle de l’entité selon la portée, y compris les émissions financées de portée&nbsp;3 associées aux prêts et aux placements au bilan. Par conséquent, les sous-tableaux du relevé DC2 sur les risques de transition (DC2-A et DC2-B) ne s’appliquent qu’aux instruments figurant au bilan, plus précisément aux prêts et aux placements.</p>
+
+<h3>Vue d’ensemble des champs de données du relevé</h3>
+
+<p>Le gabarit du relevé DC2 (BSIF&nbsp;1001) comporte les champs suivants&nbsp;:</p>
+
+<h4>Champ de sous‑tableau</h4>
+
+<p><code>sous_tableau_relevé</code></p>
+
+<h4>Champs de données catégoriques</h4>
+
+<ul class="list-unstyled">
+	<li><code>catégorie_actifs</code></li>
+	<li><code>secteur</code></li>
+	<li><code>région</code></li>
+	<li><code>qualité_crédit</code></li>
+</ul>
+
+<h4>Champs de données calculées</h4>
+
+<ul class="list-unstyled">
+	<li><code>émissions_portée_1_termes_absolus_id</code></li>
+	<li><code>émissions_portée_2_termes_absolus_id</code></li>
+	<li><code>émissions_portée_1_termes_absolus_contreparties</code></li>
+	<li><code>émissions_portée_2_termes_absolus_contreparties</code></li>
+	<li><code>émissions_portée_3_termes_absolus_contreparties</code></li>
+	<li><code>note_qualité_données_portée_1_contreparties_moyenne_pondérée</code></li>
+	<li><code>note_qualité_données_portée_2_contreparties_moyenne_pondérée</code></li>
+	<li><code>note_qualité_données_contreparties_moyenne_pondérée</code></li>
+	<li><code>note_qualité_données_portée_3_contreparties_moyenne_pondérée</code></li>
+	<li><code>solde_actif</code></li>
+	<li><code>échéance_moyenne_pondérée</code></li>
+	<li><code>échéance_solde_5</code></li>
+	<li><code>échéance_solde_10</code></li>
+</ul>
+
+<p>Pour déclarer les données demandées dans les champs qui précèdent, il faut remplir le gabarit figurant dans le document <a data-entity-substitution="file" data-entity-type="file" data-entity-uuid="0f1884ed-befa-44cf-ba97-5381fb236f93" href="/sites/default/files/documents/dc2-specifications-2026-02-fr.xlsx" title="dc2-specifications-2026-02-fr.xlsx">Spécifications techniques du relevé DC2 (BSIF&nbsp;1001) (XLSX, 38,48 Ko)</a>, conformément aux instructions ci‑après sur la déclaration des expositions sur prêts et des paramètres de crédit applicables au Canada et à l’extérieur du Canada.</p>
+
+<h4>Application des champs par sous‑tableau</h4>
+
+<p>Les champs applicables à chaque sous‑tableau sont décrits dans le document <a data-entity-substitution="file" data-entity-type="file" data-entity-uuid="3d263590-e19f-4d8e-93f4-8731b2e9954a" href="/sites/default/files/documents/dc1-dc2-matrices-2025-12-23-fr.xlsx" title="dc1-dc2-matrices-2025-12-23-fr.xlsx">Matrices d’application des champs (XLSX, 57,27 Ko)</a>.</p>
+
+<h3>Sous‑tableau DC2-A&nbsp;: Émissions de GES de l’ID à l’échelle de l’entité, selon la portée</h3>
+
+<p>Déclarer les émissions selon la portée pour chaque ligne d’après les instructions de chaque clé de déclaration ci‑après.</p>
+
+<h4>Champ de sous‑tableau</h4>
+
+<ul>
+	<li><code>sous_tableau_relevé</code> – Inscrire «&nbsp;DC2-A&nbsp;».</li>
+</ul>
+
+<h4>Champs de données catégoriques</h4>
+
+<ul>
+	<li><code>catégorie_actifs</code> – Inscrire le code «&nbsp;17&nbsp;» («&nbsp;Non attribuables - Émissions de GES ne pouvant être imputées à un actif en particulier&nbsp;») pour chaque ligne remplie. La déclaration des autres catégories d’actifs ne s’applique pas au sous‑tableau DC2-A (voir la rubrique «&nbsp;Application des champs par sous‑tableau&nbsp;» ci‑dessus).</li>
+	<li><code>secteur</code> – Sans objet; laisser le champ vide.</li>
+	<li><code>région</code> – Inscrire le code de <code>région</code> applicable selon la province ou le territoire au Canada ou la région des É.‑U., ou un code «&nbsp;Autre&nbsp;» selon le tableau de l’annexe II, Régions.</li>
+	<li><code>qualité_crédit</code> – Sans objet; laisser le champ vide.</li>
+</ul>
+
+<h4>Champs de données calculées</h4>
+
+<ul>
+	<li><code>émissions_portée_1_termes_absolus_id</code> – Déclarer les <strong>émissions de GES de portée 1 en termes absolus imputables à l'ID</strong> (en t&nbsp;éq.&nbsp;CO<sub>2</sub>), produites dans chaque <code>région</code> présentée.</li>
+	<li><code>émissions_portée_2_termes_absolus_id</code> – Déclarer les <strong>émissions de GES de portée 2 en termes absolus imputables à l'ID</strong> (en t&nbsp;éq.&nbsp;CO<sub>2</sub>), produites dans chaque <code>région</code> présentée.</li>
+	<li>Laisser les champs suivants vides sur chaque ligne&nbsp;:
+	<ul>
+		<li><code>solde_actif</code></li>
+		<li><code>échéance_moyenne_pondérée</code></li>
+		<li><code>échéance_solde_5</code></li>
+		<li><code>échéance_solde_10</code></li>
+	</ul>
+	</li>
+</ul>
+
+<h3>Sous‑tableau DC2-B&nbsp;: Émissions de GES financées selon la catégorie d’actifs</h3>
+
+<p>Pour déclarer les émissions financées de portée 3, remplir chaque ligne selon les instructions pour chaque clé de déclaration ci‑après.</p>
+
+<h4>Champ de sous‑tableau</h4>
+
+<ul>
+	<li><code>sous_tableau_relevé</code> – Inscrire «&nbsp;DC2-B&nbsp;».</li>
+</ul>
+
+<h4>Champs de données catégoriques</h4>
+
+<ul>
+	<li><code>catégorie_actifs</code> – Déclarer chacune des catégories d’actifs définies (voir le tableau de l’annexe I, Catégories d’actifs). Ne <strong>pas</strong> utiliser le code de <code>catégorie_actifs</code> «&nbsp;17&nbsp;» («&nbsp;Non attribuables - Émissions de GES ne pouvant être imputées à un actif en particulier&nbsp;») pour déclarer les émissions de GES financées. Pour chaque élément sélectionné sous <code>catégorie_actifs</code>, certains champs catégoriques peuvent s’appliquer (voir la rubrique «&nbsp;Application des champs par sous‑tableau&nbsp;» ci‑dessus). La catégorie d’actifs&nbsp;17 (émissions non attribuables) ne s’applique qu’aux émissions non financées (propres à l’ID).</li>
+	<li><code>secteur</code> – Le cas échéant, selon les matrices d’application des champs, déclarer le code de <code>secteur</code> applicable pour chaque <code>catégorie_actifs</code> conformément au tableau de l’annexe III, Secteurs; sinon, laisser le champ <code>secteur</code> vide pour chaque ligne sans objet.</li>
+	<li><code>région</code> – S’il y a un code <code>région</code> applicable à la <code>catégorie_actifs</code> pertinente d’après les matrices d’application des champs, déclarer la province ou le territoire applicable au Canada ou la région des É.‑U., ou inscrire un code «&nbsp;Autre&nbsp;» selon le tableau de l’annexe II, Régions. Si les actifs déclarés par l’ID, comme des emprunts qui sont liés à l’emplacement physique des actifs pour certains comptes importants, par exemple, des entreprises, des banques ou des emprunteurs souverains, ne peuvent pas être répartis entre plusieurs régions à l’aide des données disponibles auprès du client, l’ID qui produit le relevé doit inscrire «&nbsp;Canada‑Autre&nbsp;» ou «&nbsp;É.‑U.‑Autre&nbsp;» dans le champ <code>région</code>.</li>
+	<li><code>qualité_crédit</code> – S’il y a lieu pour la <code>catégorie_actifs</code> selon les matrices d’application des champs, déclarer le code de <code>qualité_crédit</code> applicable pour chaque ligne d’après le tableau de l’annexe IV, Notes de qualité de crédit; sinon, laisser le champ <code>qualité_crédit</code> vide pour les lignes sans objet.</li>
+</ul>
+
+<h4>Champs de données calculées</h4>
+
+<p>La ventilation de la catégorie&nbsp;15 de la portée&nbsp;3 (émissions financées) en composantes des portées&nbsp;1 et 2 est facultative.</p>
+
+<h5>Déclaration financière des émissions de GES</h5>
+
+<p>Ventilation facultative&nbsp;:</p>
+
+<ul>
+	<li><code>émissions_portée_1_termes_absolus_contreparties</code> – Déclarer le montant applicable des <strong>émissions de GES financées de portée&nbsp;1 en termes absolus imputables aux contreparties de l’ID</strong> pour chaque <code>catégorie_actifs</code> par <code>région</code> (le cas échéant), par <code>secteur</code> (le cas échéant) et par <code>qualité_crédit</code> (le cas échéant).</li>
+	<li><code>émissions_portée_2_termes_absolus_contreparties</code> – Déclarer le montant applicable des <strong>émissions de GES financées de portée&nbsp;2 en termes absolus imputables aux contreparties de l’ID</strong> pour chaque <code>catégorie_actifs</code> par <code>région</code> (le cas échéant), par <code>secteur</code> (le cas échéant) et par <code>qualité_crédit</code> (le cas échéant).</li>
+</ul>
+
+<p>Obligatoire (si la déclaration combinée de la portée&nbsp;3 est utilisée)&nbsp;:</p>
+
+<ul>
+	<li><code>émissions_portée_3_termes_absolus_contreparties</code> – Déclarer le montant applicable des <strong>émissions de GES financées de portée&nbsp;3 en termes absolus imputables aux contreparties de l’ID</strong> pour chaque <code>catégorie_actifs</code> par <code>région</code> (le cas échéant), par <code>secteur</code> (le cas échéant) et par <code>qualité_crédit</code> (le cas échéant).</li>
+</ul>
+
+<h5>Notes de qualité des données</h5>
+
+<p>Ventilation facultative&nbsp;:</p>
+
+<ul>
+	<li><code>note_qualité_données_portée_1_contreparties_moyenne_pondérée</code> – Déclarer la note de qualité des données du PCAF à l’égard du <strong>total des émissions de portée&nbsp;1 en termes absolus imputables aux contreparties de l’ID</strong>, pondérées par l’encours, pour chaque <code>catégorie_actifs</code> par <code>région</code> (le cas échéant), par <code>secteur</code> (le cas échéant) et par <code>qualité_crédit</code> (le cas échéant).</li>
+	<li><code>note_qualité_données_portée_2_contreparties_moyenne_pondérée</code> – Déclarer la note de qualité des données du PCAF à l’égard du <strong>total des émissions de portée&nbsp;2 en termes absolus imputables aux contreparties de l’ID</strong>, pondérées par l’encours, pour chaque <code>catégorie_actifs</code> par <code>région</code> (le cas échéant), par <code>secteur</code> (le cas échéant) et par <code>qualité_crédit</code> (le cas échéant).</li>
+	<li><code>note_qualité_données_contreparties_moyenne_pondérée</code> – Déclarer la note de qualité des données du PCAF à l’égard du <strong>total des émissions (portées&nbsp;1 et 2) en termes absolus imputables aux contreparties de l’ID</strong>, pondérées par l’encours, pour chaque <code>catégorie_actifs</code> par <code>région</code> (le cas échéant), par <code>secteur</code> (le cas échéant) et par <code>qualité_crédit</code> (le cas échéant).</li>
+</ul>
+
+<p>Obligatoire (si la déclaration combinée de la portée&nbsp;3 est utilisée)&nbsp;:</p>
+
+<ul>
+	<li><code>note_qualité_données_portée_3_contreparties_moyenne_pondérée</code> – Déclarer la note de qualité des données du PCAF à l’égard du <strong>total des émissions de portée&nbsp;3 en termes absolus imputables aux contreparties de l’ID</strong>, pondérées par l’encours, pour chaque <code>catégorie_actifs</code> par <code>région</code> (le cas échéant), par <code>secteur</code> (le cas échéant) et par <code>qualité_crédit</code> (le cas échéant).</li>
+</ul>
+
+<h5>Mesures de l’exposition et de l’échéance</h5>
+
+<ul>
+	<li><code>solde_actif</code> – Déclarer le montant de l’encours (au bilan) applicable en dollars pour chaque <code>catégorie_actifs</code> par <code>région</code> (le cas échéant), par <code>secteur</code> (le cas échéant) et par <code>qualité_crédit</code> (le cas échéant).</li>
+	<li><code>échéance_moyenne_pondérée</code> – Déclarer l’échéance résiduelle pondérée (par le solde impayé) du contrat pour l’exposition applicable (et non l’échéance effective utilisée dans le calcul des actifs pondérés en fonction du risque selon l’approche NI) en nombre d’années pour chaque <code>catégorie_actifs</code> par <code>région</code> (le cas échéant), par <code>secteur</code> (le cas échéant) et par <code>qualité_crédit</code> (le cas échéant).</li>
+	<li><code>échéance_solde_5</code> – Déclarer le montant en dollars du <code>solde_actif</code> dont l’échéance résiduelle est de 5&nbsp;ans tout juste ou comprise entre 5&nbsp;et 10&nbsp;ans.</li>
+	<li><code>échéance_solde_10</code> – Déclarer le montant en dollars du <code>solde_actif</code> dont l’échéance résiduelle est égale ou supérieure à 10&nbsp;ans.</li>
+</ul>
+
+<h3>Autres consignes</h3>
+
+<p>Le document de spécifications techniques du relevé DC2 (BSIF&nbsp;1001), qui comprend un gabarit, la définition des champs ainsi que des tableaux de référence, est accessible à partir de ce lien&nbsp;: <a data-entity-substitution="file" data-entity-type="file" data-entity-uuid="0f1884ed-befa-44cf-ba97-5381fb236f93" href="/sites/default/files/documents/dc2-specifications-2026-02-fr.xlsx" title="dc2-specifications-2026-02-fr.xlsx">Spécifications techniques du relevé DC2 (BSIF&nbsp;1001) (XLSX, 38,48 Ko)</a>. Pour consulter un exemple de gabarit rempli contenant une liste abrégée des lignes remplies selon les instructions ci‑dessus, voir le document <a data-entity-substitution="file" data-entity-type="file" data-entity-uuid="2c8e14bd-3d0a-40c5-ac2e-9c7f4219663b" href="/sites/default/files/documents/dc2-return-releve-2025-11-26-fr.csv" title="dc2-return-releve-2025-11-26-fr.csv">Gabarit de relevé DC2 (BSIF&nbsp;1001) (CSV, 5,5 Ko)</a>.</p>
+
+<h2 id="annI">Annexe I&nbsp;– Catégories d’actifs</h2>
+
+<ul>
+	<li>Les codes qui suivent correspondent aux catégories d’actifs aux termes de la ligne directrice Normes de fonds propres (NFP).</li>
+	<li>Le <strong>relevé DC1 sur les risques physiques (BSIF&nbsp;1000)</strong> ne vise que les instruments (prêts et titres) au bilan.</li>
+</ul>
+
+<h3>DC1 (BSIF 1000) – Relevé sur les risques physiques</h3>
+
+<p>Les codes figurant dans le tableau ci-après doivent être utilisés pour remplir le champ <code>catégorie_actifs</code> des relevés DC1 (BSIF&nbsp;1000) suivants&nbsp;:</p>
+
+<ul>
+	<li>Sous-tableau DC1-A&nbsp;: Expositions et paramètres du risque de crédit – Au Canada, par RTA</li>
+	<li>Sous-tableau DC1-B&nbsp;: Expositions et paramètres du risque de crédit – À l’extérieur du Canada</li>
+</ul>
+
+<p>Remplir le champ <code>catégorie_actifs</code> en utilisant les codes suivants&nbsp;:</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<thead>
+		<tr>
+			<th scope="col"><code>catégorie_actifs</code></th>
+			<th scope="col">Nom de la catégorie d’actifs</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">1</th>
+			<td>Emprunteurs souverains et banques centrales - Obligations</td>
+		</tr>
+		<tr>
+			<th scope="row">2</th>
+			<td>Emprunteurs souverains et banques centrales - Prêts</td>
+		</tr>
+		<tr>
+			<th scope="row">5</th>
+			<td>Entités du secteur public hors administration centrale (ESP)</td>
+		</tr>
+		<tr>
+			<th scope="row">7</th>
+			<td>Entreprises - Prêts</td>
+		</tr>
+		<tr>
+			<th scope="row">8</th>
+			<td>Clientèle de détail - Portefeuille réglementaire</td>
+		</tr>
+		<tr>
+			<th scope="row">9</th>
+			<td>Clientèle de détail - Autres - Prêts automobiles</td>
+		</tr>
+		<tr>
+			<th scope="row">10</th>
+			<td>Immobilier résidentiel - Prêts hypothécaires - Assurés par la SCHL</td>
+		</tr>
+		<tr>
+			<th scope="row">11</th>
+			<td>Immobilier résidentiel - Prêts hypothécaires - Autres prêts assurés</td>
+		</tr>
+		<tr>
+			<th scope="row">12</th>
+			<td>Immobilier résidentiel - Prêts hypothécaires - Non assurés</td>
+		</tr>
+		<tr>
+			<th scope="row">13</th>
+			<td>Immobilier résidentiel - Marges de crédit adossées à un bien immobilier (MCBI)</td>
+		</tr>
+		<tr>
+			<th scope="row">14</th>
+			<td>Immobilier commercial</td>
+		</tr>
+		<tr>
+			<th scope="row">15</th>
+			<td>Prêts hypothécaires inversés</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h3>DC2 (BSIF&nbsp;1001) – Relevé sur les risques de transition</h3>
+
+<ul>
+	<li>Le relevé DC2 sur les risques de transition (BSIF&nbsp;1001) ne vise que les instruments (prêts et placements) au bilan.</li>
+</ul>
+
+<h4>Sous-tableau DC2-A&nbsp;: Émissions de GES de l’ID à l’échelle de l’entité, selon la portée (Canada et extérieur du Canada)</h4>
+
+<p>La catégorie «&nbsp;Non attribuables – Émissions de GES ne pouvant être imputées à un actif en particulier&nbsp;» doit servir à déclarer uniquement les émissions à l’échelle de l’entité dans le sous‑tableau DC2-A du relevé DC2; elle ne doit pas être utilisée pour déclarer les émissions par catégorie d’actifs dans le sous-tableau DC2-B du relevé DC2.</p>
+
+<p>Les codes figurant dans le tableau ci-après doivent être utilisés pour remplir le champ <code>catégorie_actifs</code> des relevés DC2 (BSIF&nbsp;1001).</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<thead>
+		<tr>
+			<th scope="col"><code>catégorie_actifs</code></th>
+			<th scope="col">Nom de la catégorie d’actifs</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">17</th>
+			<td>Non attribuables - Émissions de GES ne pouvant être imputées à un actif en particulier</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<section class="panel panel-info">
+<header class="panel-heading">
+<p class="panel-title h5">Nota</p>
+</header>
+
+<div class="panel-body">
+<p>La catégorie d’actifs&nbsp;17 (émissions de GES non attribuables) ne s’applique qu’aux émissions non financées (propres à l’ID).</p>
+</div>
+</section>
+
+<h4>Sous-tableau DC2-B&nbsp;: Émissions de GES financées, selon la portée (Canada et extérieur du Canada)</h4>
+
+<p>Les codes qui suivent correspondent aux catégories d’actifs aux termes de la ligne directrice NFP, à l’exception des catégories suivantes&nbsp;:</p>
+
+<ul>
+	<li>La catégorie «&nbsp;Emprunteurs souverains et banques centrales - Obligations&nbsp;» exclut les entités sous-souveraines, les banques centrales et les institutions supranationales.</li>
+	<li>La catégorie «&nbsp;Emprunteurs souverains et banques centrales - Prêts&nbsp;» exclut les entités sous-souveraines, les banques centrales et les institutions supranationales.</li>
+</ul>
+
+<p>Le sous-tableau DC2-B doit être rempli au moyen des codes suivants.</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<thead>
+		<tr>
+			<th scope="col"><code>catégorie_actifs</code></th>
+			<th scope="col">Nom de la catégorie d’actifs</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">3</th>
+			<td>Emprunteurs souverains et banques centrales - Obligations (à l’exclusion des entités sous-souveraines, des banques centrales et des institutions supranationales)</td>
+		</tr>
+		<tr>
+			<th scope="row">4</th>
+			<td>Emprunteurs souverains et banques centrales - Prêts (à l’exclusion des entités sous-souveraines, des banques centrales et des institutions supranationales)</td>
+		</tr>
+		<tr>
+			<th scope="row">6</th>
+			<td>Entreprises - Valeurs mobilières</td>
+		</tr>
+		<tr>
+			<th scope="row">7</th>
+			<td>Entreprises - Prêts</td>
+		</tr>
+		<tr>
+			<th scope="row">9</th>
+			<td>Clientèle de détail - Autres - Prêts automobiles</td>
+		</tr>
+		<tr>
+			<th scope="row">10</th>
+			<td>Immobilier résidentiel - Prêts hypothécaires - Assurés par la SCHL</td>
+		</tr>
+		<tr>
+			<th scope="row">11</th>
+			<td>Immobilier résidentiel - Prêts hypothécaires - Autres prêts assurés</td>
+		</tr>
+		<tr>
+			<th scope="row">12</th>
+			<td>Immobilier résidentiel - Prêts hypothécaires - Non assurés</td>
+		</tr>
+		<tr>
+			<th scope="row">14</th>
+			<td>Immobilier commercial</td>
+		</tr>
+		<tr>
+			<th scope="row">15</th>
+			<td>Prêts hypothécaires inversés</td>
+		</tr>
+		<tr>
+			<th scope="row">16</th>
+			<td>Placements en actions dans des fonds - Actions de sociétés ouvertes</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h2 id="annII">Annexe II – Régions</h2>
+
+<p>Les codes catégoriques figurant dans le tableau ci‑après doivent être utilisés pour remplir le champ <code>région</code> des relevés DC1 (BSIF 1000) et DC2 (BSIF 1001). Le tableau indique également le nom de chaque région et une description qui énumère les régions associées à chaque code du champ <code>région</code>. Par exemple, le code de <code>région</code> «&nbsp;US2&nbsp;», qui correspond à «&nbsp;Midwest É.‑U.&nbsp;», englobe le groupe d’États américains suivant&nbsp;: IA, IL, IN, KS, MI, MN, MO, ND, NE, OH, SD et WI.</p>
+
+<p>Remplir le champ <code>région</code> à l’aide des codes indiqués ci‑après.</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<thead>
+		<tr>
+			<th scope="col"><code>région</code></th>
+			<th scope="col">Nom de la région</th>
+			<th scope="col">Description de la région</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">AB</th>
+			<td>Alberta, Canada</td>
+			<td>Alberta, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">BC</th>
+			<td>Colombie-Britannique, Canada</td>
+			<td>Colombie-Britannique, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">MB</th>
+			<td>Manitoba, Canada</td>
+			<td>Manitoba, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">NB</th>
+			<td>Nouveau-Brunswick, Canada</td>
+			<td>Nouveau-Brunswick, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">NL</th>
+			<td>Terre-Neuve-et-Labrador, Canada</td>
+			<td>Terre-Neuve-et-Labrador, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">NT</th>
+			<td>Territoires du Nord-Ouest, Canada</td>
+			<td>Territoires du Nord-Ouest, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">NS</th>
+			<td>Nouvelle-Écosse, Canada</td>
+			<td>Nouvelle-Écosse, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">NU</th>
+			<td>Nunavut, Canada</td>
+			<td>Nunavut, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">ON</th>
+			<td>Ontario, Canada</td>
+			<td>Ontario, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">PE</th>
+			<td>Île-du-Prince-Édouard, Canada</td>
+			<td>Île-du-Prince-Édouard, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">QC</th>
+			<td>Québec, Canada</td>
+			<td>Québec, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">SK</th>
+			<td>Saskatchewan, Canada</td>
+			<td>Saskatchewan, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">YK</th>
+			<td>Yukon, Canada</td>
+			<td>Yukon, Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">C1</th>
+			<td>Canada-Autre</td>
+			<td>Non attribuable à une seule région au Canada</td>
+		</tr>
+		<tr>
+			<th scope="row">U1</th>
+			<td>Ouest É.‑U.</td>
+			<td>Région des É.‑U. comprenant les États suivants&nbsp;: AK, CA, CO, HI, ID, MT, NV, OR, UT, WA, WY</td>
+		</tr>
+		<tr>
+			<th scope="row">U2</th>
+			<td>Midwest É.‑U.</td>
+			<td>Région des É.‑U. comprenant les États suivants&nbsp;: IA, IL, IN, KS, MI, MN, MO, ND, NE, OH, SD, WI</td>
+		</tr>
+		<tr>
+			<th scope="row">U3</th>
+			<td>Nord‑Est É.‑U.</td>
+			<td>Région des É.‑U. comprenant les États suivants&nbsp;: CT, MA, ME, NH, NJ, NY, PA, RI, VT</td>
+		</tr>
+		<tr>
+			<th scope="row">U4</th>
+			<td>Sud-Ouest É.‑U.</td>
+			<td>Région des É.‑U. comprenant les États suivants&nbsp;: AZ, NM, OK, TX</td>
+		</tr>
+		<tr>
+			<th scope="row">U5</th>
+			<td>Sud‑Est É.‑U.</td>
+			<td>Région des É.‑U. comprenant les États suivants&nbsp;: AL, AR, DE, FL, GA, KY, LA, MD, MS, NC, SC, TN, VA, WV, de même que DC</td>
+		</tr>
+		<tr>
+			<th scope="row">U6</th>
+			<td>É.‑U.‑Autre</td>
+			<td>Non attribuable à une seule région aux É.‑U.</td>
+		</tr>
+		<tr>
+			<th scope="row">ZZ</th>
+			<td>Autres</td>
+			<td>Toutes les autres régions du globe</td>
+		</tr>
+		<tr>
+			<th scope="row">ZZZ</th>
+			<td>Déclaration au niveau de la RTA</td>
+			<td>Non attribuable à une seule RTA au Canada aux fins de déclaration dans le sous-tableau DC1-A</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h2 id="annIII">Annexe III – Secteurs</h2>
+
+<p>Les codes figurant dans le tableau&nbsp;1 ci‑après doivent être utilisés pour remplir le champ <code>secteur</code> du relevé&nbsp;DC2.</p>
+
+<p>Le tableau&nbsp;1 dresse la liste de 17&nbsp;secteurs, dont la plupart sont sensibles au regard de la transition vers une économie à faibles émissions de carbone. La liste commence par les codes de secteur «&nbsp;1&nbsp;» («&nbsp;CHAR&nbsp;»&nbsp;- «&nbsp;Industrie du charbon et activités de soutien&nbsp;») et se termine par les codes «&nbsp;17&nbsp;» («&nbsp;AUTR&nbsp;» - «&nbsp;Autres industries&nbsp;»).</p>
+
+<p>Remplir le champ <code>secteur</code> à l’aide des codes indiqués ci-après (tableau 1).</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption>Tableau 1 – Secteurs désignés par le BSIF</caption>
+	<thead>
+		<tr>
+			<th scope="col">Code</th>
+			<th scope="col">Secteur</th>
+			<th scope="col">Description du secteur</th>
+			<th scope="col">Industrie</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">1</th>
+			<th scope="row">CHAR</th>
+			<td>Industrie du charbon et activités de soutien</td>
+			<td>Combustibles fossiles</td>
+		</tr>
+		<tr>
+			<th scope="row">2</th>
+			<th scope="row">CULT</th>
+			<td>Cultures agricoles et activités de soutien</td>
+			<td>Agriculture et foresterie</td>
+		</tr>
+		<tr>
+			<th scope="row">3</th>
+			<th scope="row">ÉGIV-FABR</th>
+			<td>Fabrication</td>
+			<td>Industries énergivores</td>
+		</tr>
+		<tr>
+			<th scope="row">4</th>
+			<th scope="row">ÉGIV-AUTR</th>
+			<td>Pâte et papier; Extraction minière; Aqueducs, égouts et gestion des déchets</td>
+			<td>Industries énergivores</td>
+		</tr>
+		<tr>
+			<th scope="row">5</th>
+			<th scope="row">ÉLEC-FOSS</th>
+			<td>Production d’électricité à partir de combustibles fossiles</td>
+			<td>Activités de soutien au secteur de l’électricité et distribution</td>
+		</tr>
+		<tr>
+			<th scope="row">6</th>
+			<th scope="row">ÉLEC-AUTR</th>
+			<td>Production d’électricité à partir d’énergies renouvelables et d’origine nucléaire; Activités de soutien au secteur de l’électricité et distribution; Production d’hydroélectricité</td>
+			<td>Activités de soutien au secteur de l’électricité et distribution</td>
+		</tr>
+		<tr>
+			<th scope="row">7</th>
+			<th scope="row">GAZ</th>
+			<td>Industrie du gaz naturel et activités de soutien</td>
+			<td>Combustibles fossiles</td>
+		</tr>
+		<tr>
+			<th scope="row">8</th>
+			<th scope="row">ÉLEV</th>
+			<td>Élevage et activités de soutien</td>
+			<td>Agriculture et foresterie</td>
+		</tr>
+		<tr>
+			<th scope="row">9</th>
+			<th scope="row">PÉTR-EXTR</th>
+			<td>Extraction de pétrole</td>
+			<td>Combustibles fossiles</td>
+		</tr>
+		<tr>
+			<th scope="row">10</th>
+			<th scope="row">PÉTR-AUTR</th>
+			<td>Activités de soutien à l’extraction pétrolière</td>
+			<td>Combustibles fossiles</td>
+		</tr>
+		<tr>
+			<th scope="row">11</th>
+			<th scope="row">PÉTR-SBIT</th>
+			<td>Extraction de sables bitumineux et activités de soutien</td>
+			<td>Combustibles fossiles</td>
+		</tr>
+		<tr>
+			<th scope="row">12</th>
+			<th scope="row">IMMO</th>
+			<td>Services immobiliers et services de location et de location à bail</td>
+			<td>Autres secteurs</td>
+		</tr>
+		<tr>
+			<th scope="row">13</th>
+			<th scope="row">RAFF</th>
+			<td>Raffinage de combustibles fossiles</td>
+			<td>Combustibles fossiles</td>
+		</tr>
+		<tr>
+			<th scope="row">14</th>
+			<th scope="row">TRNS-AÉRI</th>
+			<td>Transport aérien</td>
+			<td>Transport</td>
+		</tr>
+		<tr>
+			<th scope="row">15</th>
+			<th scope="row"><span class="nowrap">TRNS-AUTR</span></th>
+			<td>Autres modes de transport et activités de soutien</td>
+			<td>Transport</td>
+		</tr>
+		<tr>
+			<th scope="row">16</th>
+			<th scope="row">TRNS-FERR</th>
+			<td>Transport ferroviaire</td>
+			<td>Transport</td>
+		</tr>
+		<tr>
+			<th scope="row">17</th>
+			<th scope="row">AUTR</th>
+			<td>Tous les autres secteurs</td>
+			<td>Autres industries</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<h2 id="annIV">Annexe IV – Notes de qualité de crédit</h2>
+
+<p>Des notes externes de solvabilité à long terme de l’emprunteur sont attribuées aux émetteurs de titres de créance et aux emprunteurs de gros, y compris les entreprises, les banques et les emprunteurs souverains. Pour faciliter la comparaison, les notes émises par plusieurs agences de notation du crédit reconnues doivent être mises en correspondance avec les catégories de <code>qualité_crédit</code> que présente le tableau qui suit. Aux fins des renseignements fournis dans le relevé DC2&nbsp;(BSIF&nbsp;1001), les emprunteurs doivent être regroupés sous chaque catégorie de <code>qualité_crédit</code>; ils ne doivent <strong>pas</strong> être présentés séparément.</p>
+
+<p>Remplir le champ <code>qualité_crédit</code> à l’aide des codes indiqués ci‑après.</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<thead>
+		<tr>
+			<th scope="col"><code>qualité_crédit</code></th>
+			<th scope="col">S&amp;P</th>
+			<th scope="col">DBRS</th>
+			<th scope="col">Moody’s</th>
+			<th scope="col">Fitch</th>
+			<th scope="col">KBRA</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">1</th>
+			<td>AAA à AA−</td>
+			<td>AAA à AA (faible)</td>
+			<td>Aaa à Aa3</td>
+			<td>AAA à AA−</td>
+			<td>AAA à AA−</td>
+		</tr>
+		<tr>
+			<th scope="row">2</th>
+			<td>A+ à A−</td>
+			<td>A (élevée) à A (faible)</td>
+			<td>A1 à A3</td>
+			<td>A+ à A−</td>
+			<td>A+ à A−</td>
+		</tr>
+		<tr>
+			<th scope="row">3</th>
+			<td>BBB+ à BBB−</td>
+			<td>BBB (élevée) à BBB (faible)</td>
+			<td>Baa1 à Baa3</td>
+			<td>BBB+ à BBB−</td>
+			<td>BBB+ à BBB−</td>
+		</tr>
+		<tr>
+			<th scope="row">4</th>
+			<td>BB+ à BB−</td>
+			<td>BB (élevée) à BB (faible)</td>
+			<td>Ba1 à Ba3</td>
+			<td>BB+ à BB−</td>
+			<td>BB+ à BB−</td>
+		</tr>
+		<tr>
+			<th scope="row">5</th>
+			<td>B+ à B−</td>
+			<td>B (élevé) à B (faible)</td>
+			<td>B1 à B3</td>
+			<td>B+ à B−</td>
+			<td>B+ à B−</td>
+		</tr>
+		<tr>
+			<th scope="row">6</th>
+			<td>Inférieure à B−</td>
+			<td>CCC ou inférieure</td>
+			<td>Inférieure à B3</td>
+			<td>Inférieure à B−</td>
+			<td>Inférieure à B−</td>
+		</tr>
+		<tr>
+			<th scope="row">7</th>
+			<td>Non notée</td>
+			<td>Non notée</td>
+			<td>Non notée</td>
+			<td>Non notée</td>
+			<td>Non notée</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<aside class="wb-fnote" role="note">
+<h2 class="no-toc" id="fn">Notes de bas de page</h2>
+
+<dl>
+	<dt>Note de bas de page 1</dt>
+	<dd id="fn1">
+	<p>Les ID doivent utiliser la dernière version des codes RTA de Postes Canada.</p>
+
+	<p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Retour à la référence de la note de bas de page </span>1</a></p>
+	</dd>
+</dl>
+</aside>
+</div>
+    </div>
+  </div>
+
+      </div>
+    
+  </article>
+
+
+  </div>
+
+    
+                        <div class="pagedetails region region-content-footer">
+    <div class="row">
+      
+<div id="block-osfi-wxt-reportproblemblock" class="col-xs-12 col-sm-6 block block-wxt-ext-webform block-report-problem-block clearfix" data-block-plugin-id="report_problem_block">
+  
+    
+
+      <details class="brdr-0">
+  <summary class="btn btn-default text-center"> Signaler un problème ou une erreur sur cette page</summary>
+  <div class="well row">
+    <div class="gc-rprt-prblm">
+      <span id="webform-submission-gcweb-report-a-problem-node-1795-form-ajax-content"></span><div id="webform-submission-gcweb-report-a-problem-node-1795-form-ajax" class="webform-ajax-form-wrapper" data-effect="none" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-gcweb-report-a-problem-form webform-submission-gcweb-report-a-problem-add-form webform-submission-gcweb-report-a-problem-node-1795-form webform-submission-gcweb-report-a-problem-node-1795-add-form js-webform-details-toggle webform-details-toggle antibot" novalidate="novalidate" data-drupal-selector="webform-submission-gcweb-report-a-problem-node-1795-add-form" data-action="/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/specifications-operationnelles-releves-sur-risques-climatiques-pour-institutions-depot" action="/antibot" method="post" id="webform-submission-gcweb-report-a-problem-node-1795-add-form" accept-charset="UTF-8">
+	
+	<noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<fieldset data-drupal-selector="edit-report-issue-types" class="checkboxes--wrapper fieldgroup form-composite webform-composite-visible-title required js-webform-type-checkboxes webform-type-checkboxes js-form-item form-item js-form-wrapper form-wrapper" id="edit-report-issue-types--wrapper">
+      <legend class="fieldset-legend js-form-required required">
+    <span>Veuillez sélectionner toutes les cases qui s'appliquent :<strong class="required" aria-hidden="true"> (obligatoire)</strong></span>
+      </legend>
+  <div class="fieldset-wrapper">
+        
+        <div id="edit-report-issue-types" class="js-webform-checkboxes webform-options-display-one-column form-checkboxes"><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-a-link-button-or-video-is-not-working js-form-item-report-issue-types-a-link-button-or-video-is-not-working checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-a-link-button-or-video-is-not-working" class="control-label option"><input data-drupal-selector="edit-report-issue-types-a-link-button-or-video-is-not-working" class="form-checkbox" type="checkbox" id="edit-report-issue-types-a-link-button-or-video-is-not-working" name="report_issue_types[A link, button or video is not working]" value="A link, button or video is not working" />Un lien, un bouton ou une vidéo ne fonctionne pas</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-it-has-a-spelling-mistake js-form-item-report-issue-types-it-has-a-spelling-mistake checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-it-has-a-spelling-mistake" class="control-label option"><input data-drupal-selector="edit-report-issue-types-it-has-a-spelling-mistake" class="form-checkbox" type="checkbox" id="edit-report-issue-types-it-has-a-spelling-mistake" name="report_issue_types[It has a spelling mistake]" value="It has a spelling mistake" />Il y a une erreur d'orthographe ou de grammaire</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-missing js-form-item-report-issue-types-information-is-missing checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-missing" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-missing" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-missing" name="report_issue_types[Information is missing]" value="Information is missing" />Les renseignements sont incomplets</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-outdated-or-wrong js-form-item-report-issue-types-information-is-outdated-or-wrong checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-outdated-or-wrong" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-outdated-or-wrong" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-outdated-or-wrong" name="report_issue_types[Information is outdated or wrong]" value="Information is outdated or wrong" />L'information n'est plus à jour ou est erronée</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-i-cant-find-what-im-looking-for js-form-item-report-issue-types-i-cant-find-what-im-looking-for checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-i-cant-find-what-im-looking-for" class="control-label option"><input data-drupal-selector="edit-report-issue-types-i-cant-find-what-im-looking-for" class="form-checkbox" type="checkbox" id="edit-report-issue-types-i-cant-find-what-im-looking-for" name="report_issue_types[I can&#039;t find what I&#039;m looking for]" value="I can&#039;t find what I&#039;m looking for" />Je n'arrive pas à trouver ce que je cherche</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-other-issue-not-in-this-list js-form-item-report-issue-types-other-issue-not-in-this-list checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-other-issue-not-in-this-list" class="control-label option"><input data-drupal-selector="edit-report-issue-types-other-issue-not-in-this-list" class="form-checkbox" type="checkbox" id="edit-report-issue-types-other-issue-not-in-this-list" name="report_issue_types[Other issue not in this list]" value="Other issue not in this list" />Autre problème qui ne figure pas sur cette liste</label>
+  
+  
+
+  </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="form-item js-form-item form-type-textarea js-form-type-textarea form-item-additional-information js-form-item-additional-information form-group">
+    
+        <label for="edit-additional-information" class="control-label js-form-required required">    Information supplémentaire<strong class="required" aria-hidden="true"> (obligatoire)</strong>
+  </label>
+    
+  
+  <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-additional-information" class="form-textarea required form-control resize-vertical" id="edit-additional-information" name="additional_information" rows="5" cols="60" required="required" aria-required="true"></textarea>
+</div>
+
+
+  
+  
+
+  </div>
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" /><input data-drupal-selector="form-8hxnhyowtssjrzrz1b3hldcbffxupgq10htgrydospi" type="hidden" name="form_build_id" value="form-8hxNHYOWtSsJrzrz1b3hLdCbFfXUPgQ10HTgryDOspI" /><input data-drupal-selector="edit-webform-submission-gcweb-report-a-problem-node-1795-add-form" type="hidden" name="form_id" value="webform_submission_gcweb_report_a_problem_node_1795_add_form" /><div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><input class="webform-button--submit button button--primary js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit" name="op" value="Soumettre"/>
+</div>
+<div class="url-textfield form-group js-form-wrapper form-wrapper" style="display: none !important;"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-url js-form-item-url form-group">
+    
+      <label for="edit-url" class="control-label">Laisser ce champ vide</label>
+    
+  
+  <input autocomplete="off" data-drupal-selector="edit-url" class="form-text form-control" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" />
+
+  
+  
+
+  </div>
+</div>
+
+
+	
+</form>
+</div>
+    </div>
+   </div>
+</details>
+
+  </div>
+
+<div id="block-osfi-wxt-datemodifiedblock" class="col-xs-12 block block-wxt-library block-date-modified-block clearfix" data-block-plugin-id="date_modified_block">
+  
+    
+
+      <dl id="wb-dtmd">
+<dt>Date de modification :</dt>
+<dd><time property="dateModified">2025-11-20</time></dd></dl>
+  </div>
+
+<div id="block-osfi-wxt-sharewidgetblock" class="pull-right col-xs-12 col-sm-4 block block-wxt-library block-share-widget-block clearfix" data-block-plugin-id="share_widget_block">
+  
+    
+
+      <div class="wb-share mrgn-bttm-sm pull-right" data-wb-share='{"filter":["blogger","diigo","email","facebook","gmail","linkedin","myspace","pinterest","reddit","tinyurl","tumblr","twitter","whatsapp","yahoomail"],"pnlId":"pnl1","lnkClass":"btn btn-default"}'></div>
+  </div>
+
+    </div>
+  </div>
+
+          
+  </main>
+
+
+
+            <footer id="wb-info">
+        <div class="container">
+          <div class="row">
+                        <div class="col-xs-12">
+                <div class="region region-footer">
+    
+<nav aria-labelledby="aboutThisSite" id="block-footer" data-block-plugin-id="menu_block:footer" class="wb-eqht-grd row">
+  
+  <h2 id="aboutThisSite">À propos de ce site</h2>
+  
+      
+                          <section class="col-xs-12 col-sm-4">
+        <h3>Nouvelles</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/fr/nouvelles?type=5" role="menuitem" title="Communiqués de presse" data-drupal-link-query="{&quot;type&quot;:&quot;5&quot;}" data-drupal-link-system-path="node/23">Communiqués de presse</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/fr/nouvelles?type=4" role="menuitem" title="Discours" data-drupal-link-query="{&quot;type&quot;:&quot;4&quot;}" data-drupal-link-system-path="node/23">Discours</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/fr/relations-presse" role="menuitem" title="Relations de presse " data-drupal-link-system-path="node/26">Relations de presse </a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/fr/nouvelles/allocutions-venir" role="menuitem" title="Allocutions à venir" data-drupal-link-system-path="node/2976">Allocutions à venir</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/fr/fraude-tentatives-descroquerie" title="Scams and fraud" role="menuitem" data-drupal-link-system-path="node/1262">Fraude et tentatives d&#039;escroquerie</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>Qui nous sommes</h3>
+                                  <ul role="menu" class="nav menu">
+                                                  
+        <li role="presentation">
+        <a href="/fr/propos-du-bsif" title="Bureau du surintendant des institutions financières" role="menuitem" data-drupal-link-system-path="node/1291">BSIF</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/fr/bac/propos-du-bureau-lactuaire-en-chef" title="Bureau de l’actuaire en chef" role="menuitem" data-drupal-link-system-path="node/1362">BAC</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>Suivez-nous</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/fr/contactez-nous" role="menuitem" title="Contactez-nous" data-drupal-link-system-path="node/1689">Contactez-nous</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/fr/contactez-nous/avis-courriel" role="menuitem" title="Avis par courriel" data-drupal-link-system-path="node/1747">Avis par courriel</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://twitter.com/BSIFCanada" role="menuitem" title="X (anciennement Twitter)">X (anciennement Twitter)</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.youtube.com/user/OSFIBSIF" role="menuitem" title="YouTube">YouTube</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.linkedin.com/company/office-of-the-superintendent-of-financial-institutions-of-canada" role="menuitem" title="LinkedIn">LinkedIn</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                
+
+
+  </nav>
+  </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 col-sm-9">
+                <div class="region region-footer-legal">
+    <nav role="navigation" aria-labelledby="block-legal-menu" id="block-legal" class="block-legal" data-block-plugin-id="menu_block:legal">
+      
+  <h2 id="block-legal-menu">Organisation</h2>
+  
+
+        
+              <ul role="menu" class="menu nav nav-pills legal">
+                                              
+        <li role="presentation">
+        <a href="https://canada.ca" role="menuitem" title="Canada.ca">Canada.ca</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/index%2Ephp/fr/avis" role="menuitem" title="Avis" data-drupal-link-system-path="node/429">Avis</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/index%2Ephp/fr/transparence" role="menuitem" title="Transparence" data-drupal-link-system-path="node/1399">Transparence</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/index%2Ephp/fr/accessibilite" role="menuitem" title="Accessibilité" data-drupal-link-system-path="node/647">Accessibilité</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+            </div>
+            <div class="col-xs-12 col-sm-3 canada-logo">
+              <img height="40" src='/libraries/theme-gcweb/assets/wmms-blk.svg' alt='Symbole du gouvernement du Canada' />
+            </div>
+          </div>
+        </div>
+      </footer>
+      
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"fr\/","currentPath":"node\/1795","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1UQGSwyAI_JCnT3LQ0MRGxRPStL8_rm2mucllxhFYVlgQBgroMyw1Tg52gYEqKZC4t7UX6sUEiLMX0tPczvcpUj1NXtkEImHpoInN862jTzXJLtmo0Q37DhGiLKmZOOOQhLq-GLBKyBRnt_NNpI5u6EuDbCPlDI3xBaYq2KvC1-8F--M1SAGZrnB3jLI0U7Q4uEvKyrQRmiQdh_iS_HoX1RBNgw6jCpp4a_JB7FLbEnLiCQfDDxYsOr-2vyVc2T1vW2hYMpoVw29_97YWVMQBjFQacZIjHTMWHdnGCeMc6I58ShlQIGW2DLfzOhtJaBz_UbfRCjLDeJ6n58aOWp6rfgf-86kHxOiafU6hQ384mbTo1xiV9QdfUb4C4foD0vIPPA","theme":"osfi_wxt","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/fr\/donnees-formulaires\/rapports-releves\/produire-releve-financier\/guides-production-releves-financiers\/specifications-operationnelles-releves-sur-risques-climatiques-pour-institutions-depot?ajax_form=1":true},"back_to_top":{"back_to_top_button_trigger":400,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":false,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image","back_to_top_button_text":"Haut"},"mathjax":{"config_type":1,"config":{"tex2jax":{"inlineMath":[["$$$","$$$"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none"}},"bootstrap":{"forms_has_error_value_toggle":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover","modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click"},"antibot":{"forms":{"webform-submission-gcweb-report-a-problem-node-1795-add-form":{"id":"webform-submission-gcweb-report-a-problem-node-1795-add-form","key":"cBInYT1KmBigZu23p0EuLJkZDDKUzGivaHVixz6avn2"}}},"ajax":{"edit-submit":{"callback":"::submitAjaxForm","event":"click","effect":"none","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/fr\/donnees-formulaires\/rapports-releves\/produire-releve-financier\/guides-production-releves-financiers\/specifications-operationnelles-releves-sur-risques-climatiques-pour-institutions-depot?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Soumettre"}}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"col-xs-12 col-sm-8 info-left","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"user":{"uid":0,"permissionsHash":"948b17b44e21fbbdf33d5fd143628912a823ca4231d0e9e94c73388fbb69dc9d"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.7"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/sites/default/files/languages/fr_DiyocKTH0THFWjuqnNh9nWAeLqn9C4Oc99YTxjV-BAU.js?til2gg"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.2"></script>
+<script src="/core/misc/debounce.js?v=10.6.2"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0"></script>
+<script src="/libraries/wet-boew/js/wet-boew.min.js?til2gg"></script>
+<script src="/modules/contrib/antibot/js/antibot.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/back_to_top.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/bootstrap-pre-init.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/alert.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/collapse.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/dropdown.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/modal.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/tooltip.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/popover.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/drupal.wxt_bootstrap.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/popover.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/tooltip.js?til2gg"></script>
+<script src="/core/misc/form.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/form.js?til2gg"></script>
+<script src="/core/misc/details-summarized-content.js?v=10.6.2"></script>
+<script src="/core/misc/details-aria.js?v=10.6.2"></script>
+<script src="/core/misc/details.js?v=10.6.2"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0"></script>
+<script src="/modules/contrib/mathjax/js/config.js?v=10.6.2"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/modules/contrib/mathjax/js/setup.js?v=10.6.2"></script>
+<script src="/themes/custom/osfi_wxt/vendors/bootstrap/assets/javascripts/bootstrap/transition.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/scripts.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/adobe.analytics.footer.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/toc.behaviors.js?til2gg"></script>
+<script src="/core/misc/progress.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/progress.js?til2gg"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.6.2"></script>
+<script src="/core/misc/message.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/message.js?til2gg"></script>
+<script src="/core/misc/ajax.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/ajax.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.scroll.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.ajax.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.checkboxes.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.save.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.toggle.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.message.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.options.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.behaviors.js?v=10.6.2"></script>
+<script src="/core/misc/states.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/states.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.form.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/modules/webform_bootstrap/js/webform_bootstrap.states.js?v=10.6.2"></script>
+<script src="/libraries/theme-gcweb/js/theme.min.js?til2gg"></script>
+
+  </body>
+</html>

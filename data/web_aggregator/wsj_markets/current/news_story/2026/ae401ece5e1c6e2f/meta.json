@@ -1,0 +1,25 @@
+{
+  "doc_id": "ae401ece5e1c6e2f",
+  "regulator_id": "wsj_markets",
+  "doc_type": "news_story",
+  "title": "Energy & Utilities Roundup: Market Talk",
+  "language": "en",
+  "source_url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b0021b1a?mod=rss_markets_main",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:98a8ebd8827766ae974a7ba3942303ac22befc0d52e0c57de8aed21fbac50d05",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_wsj_markets_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/wsj_markets/current/news_story/2026/ae401ece5e1c6e2f",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b0021b1a?mod=rss_markets_main",
+  "fetch_method": "feed_summary"
+}

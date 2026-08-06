@@ -1,0 +1,25 @@
+{
+  "doc_id": "24d7657568335e08",
+  "regulator_id": "jfsa",
+  "doc_type": "announcement",
+  "title": "Joint session of the 56th general meeting of Financial System Council and the 44th meeting of Sectional Committee on Financial System : FSA",
+  "language": "en",
+  "source_url": "https://www.fsa.go.jp/en/news/2026/20260203.html",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2ec1eb6273ee161389601ccd76355000687949653a73c2297eea93c4b89b7f60",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_jfsa_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/jfsa/current/announcement/2026/24d7657568335e08",
+  "tags": [
+    "japan",
+    "banking",
+    "securities"
+  ]
+}

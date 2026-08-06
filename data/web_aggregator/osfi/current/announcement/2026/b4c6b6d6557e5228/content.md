@@ -1,0 +1,93 @@
+# Achat ou rachat d’actions ou de parts sociales
+
+Information
+
+Type de document
+
+Instructions relatives aux opérations
+
+Catégorie
+
+Opérations avec présomption d'agrément
+
+Dernière révision
+
+Août 2018
+
+Index PA no
+
+2
+
+## Fondement législatif
+
+* articles 71 et 715 de la [Loi sur les banques](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/) (LB)
+* article 74 de la [Loi sur les sociétés de fiducie et de prêt](https://laws-lois.justice.gc.ca/fra/lois/t-19.8/) (LSFP)
+* articles 75 et 754 de la [Loi sur les sociétés d’assurances](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/) (LSA)
+* article 79 de la [Loi sur les associations coopératives de crédit](https://laws-lois.justice.gc.ca/fra/lois/c-41.01/ ) (LACC)
+
+## Exigences en matière d'information
+
+De façon générale, le demandeur doit fournir :
+
+1. une description de l'opération ou des séries d'opérations (l'opération), y compris :
+
+   1. la justification de l'achat ou du rachat des actions ou des parts sociales,
+   2. le nombre et le type d'actions ou de parts sociales qui seraient achetées ou rachetées et la justification du prix d'achat ou de rachat de ces actions ou parts sociales,
+   3. la date d'achat ou de rachat proposée des actions ou parts sociales;
+2. une copie certifiée de la résolution du conseil autorisant l'achat ou le rachat[Note de bas de page 1](#fnb1);
+3. s'il y a lieu, une copie de tout projet de communication ou d'avis concernant l'opération préparé conformément aux exigences d'une bourse ou commission des valeurs mobilières ou de tout autre autorité de réglementation;
+4. une analyse de l'effet de l'achat ou du rachat sur la situation financière et le profil de risque du demandeur, notamment :
+
+   1. des précisions sur les changements prévus au bilan du demandeur – lorsque l'opération est importante pour le demandeur, ces précisions doivent prendre la forme d'un bilan *pro forma* comparatif (avant et après l'achat ou le rachat), y compris les hypothèses pertinentes,
+   2. des précisions sur les changements prévus au niveau des fonds propres et de la position de liquidité[Note de bas de page 2](#fnb2) du demandeur – lorsque l'opération est importante pour le demandeur, ces précisions doivent prendre la forme d'une analyse *pro forma* comparative des fonds propres et de la liquidité (avant et après l'achat ou le rachat) confirmant la conformité au niveau de la cible interne de capital du demandeur et aux exigences du BSIF applicables au demandeur, ainsi que les hypothèses pertinentes et une ventilation :
+
+      1. dans le cas d'une institution de dépôts, de tous les éléments utilisés pour calculer :
+
+         1. les ratios de fonds propres, conformément à la ligne directrice Normes de fonds propres,
+         2. le ratio de levier, conformément à la ligne directrice Exigences de levier,
+         3. le ratio de liquidité à court terme, conformément à la ligne directrice Normes de liquidité,
+      2. dans le cas d'une société d'assurance-vie, de tous les éléments utilisés pour calculer le Test de suffisance du capital des sociétés d'assurance-vie, ou
+      3. dans le cas d’une société d’assurances multirisques, tous les éléments du Test du capital minimal ou du Test de suffisance du capital des assureurs hypothécaires, selon le cas,
+   3. une confirmation qu'après l'achat ou le rachat, le demandeur sera en conformité avec ses politiques pertinentes, y compris celles portant sur les liquidités, la gestion des fonds propres, la gestion des risques et les placements;
+5. dans le cas d'un rachat d'actions ou de parts sociales, une confirmation que le prix du rachat est établi d'après la formule énoncée dans les règlements administratifs du demandeur ou d'après les conditions rattachées aux actions ou parts sociales.
+
+## Directives administratives
+
+1. On s'attend à ce que les entités fédérales réglementées maintiennent en tout temps des éléments de capital et des liquidités suffisants[Note de bas de page 3](#fnb3) et que les demandeurs s'assurent que l'achat ou le rachat prévu d'actions ou de parts sociales n'entrave pas leur capacité d'atteindre les cibles de capital et de liquidités exigés par le BSIF ou ses processus internes.[Note de bas de page 4](#fnb4)
+2. Aucune approbation n'est requise en vertu des fondements législatifs concernant l'achat d'actions ou de parts sociales quand ces actions ou parts sociales sont converties ou échangées pour des actions d'une catégorie d'actions distincte du demandeur.
+3. L'adresse courriel suivante doit être utilisée pour la présentation initiale de documents à l'appui d'une demande d'agrément visée par le présent document : [approvals-approbations@osfi-bsif.gc.ca](mailto:approvals-approbations@osfi-bsif.gc.ca). Une fois ces documents initiaux reçus, le dossier sera attribué à un agent des cas.  Par la suite, tous les documents et toute la correspondance relatifs au cas doivent être acheminés à l'agent responsable du cas.
+4. Les demandes d'agrément visées dans le présent document ne sont pas assujetties à des frais de service.[Note de bas de page 5](#fnb5)
+
+Les exigences en matière d’information et les directives administratives visent à satisfaire à tous les genres de demandes types. Elles ont été élaborées à partir de la vaste expérience du BSIF au chapitre de l’évaluation des demandes. Les demandeurs qui fournissent toute l’information et tous les documents nécessaires peuvent s’attendre à ce que leurs demandes soient évaluées plus rapidement. Selon les circonstances, le BSIF peut exiger des renseignements supplémentaires, prendre en compte d’autres questions, imposer des conditions ou exiger des engagements.
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   Pour les fins de cette exigence, le BSIF peut accepter une copie certifiée de la résolution du conseil approuvant un plan de fonds propres tant que le plan approuvé autorise le demandeur à procéder à l'achat ou au rachat.
+
+    [Retour à la référence de la note de bas de page 1](#fnb1-ref)
+
+Note de bas de page 2
+:   Le BSIF s'attend à ce qu'une position de liquidité ne soit fournie que si le demandeur est une institution de dépôts.
+
+    [Retour à la référence de la note de bas de page 2](#fnb2-ref)
+
+Note de bas de page 3
+:   Voir les paragraphes 485(1) de la LB, 473(1) de la LSFP, 515(1) de la LSA ou 409(1) de la LACC, selon le cas.
+
+    [Retour à la référence de la note de bas de page 3](#fnb3-ref)
+
+Note de bas de page 4
+:   Il est interdit aux entités fédérales réglementées d'acheter ou de racheter des actions ou des parts sociales si de telles mesures les amèneraient à contrevenir aux exigences en matière de capital et de liquidités ou à toute directive visant à augmenter ou à maintenir le capital et les liquidités. Voir les paragraphes 71(2) de la LB, 74(2) de la LSFP, 75(2) de la LSA ou 79(2) de la LACC, selon le cas.
+
+    [Retour à la référence de la note de bas de page 4](#fnb4-ref)
+
+Note de bas de page 5
+:   Voir le [Règlement de 2002 sur les droits à payer pour les services du Bureau du surintendant des institutions financières](http://laws-lois.justice.gc.ca/fra/reglements/DORS-2002-337/index.html).
+
+    [Retour à la référence de la note de bas de page 5](#fnb5-ref)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-12-21

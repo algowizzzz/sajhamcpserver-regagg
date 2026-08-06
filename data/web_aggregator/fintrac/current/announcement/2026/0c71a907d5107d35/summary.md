@@ -1,0 +1,1 @@
+Summary: # Pénalité administrative pécuniaire imposée à Vision Bank Ltd.

@@ -1,0 +1,58 @@
+# 2026 OSFI Life Financial Condition Testing Data Collection Template instructions
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Insurance companies
+
+Return
+
+Life Financial Condition Testing Data Collection Template (OSFI951)
+
+Return number
+
+OSFI951
+
+## Return file
+
+[OSFI951 - Life FCT Data Collection Template (XLSM, 182 KB)](/sites/default/files/documents/FCT_Life_2026_EN.xlsm "FCT_Life_2026_EN.xlsm")
+
+We created the Financial Condition Testing (FCT) Data Collection Template (FCT Template) to increase the efficiency, consistency, and effectiveness of data collection.
+
+## Application
+
+We expect all federally regulated life insurers (insurers) to complete and submit the FCT Template in accordance with the instructions provided in this document.
+
+## General instructions
+
+We expect each insurer to complete and submit the FCT Template at the same time as it submits its FCT report.
+
+* Please do not alter the FCT Template.
+* We have included details on the basis and format for input (for example, thousands, basis point change, and percentage change) in the FCT Template.
+* We expect entries for some input cells to be selected from a pre-defined list (for example, scenario type, percentile, and risk category). Drop down lists are provided for those input cells.
+* We expect values (either numbers or text) to be provided in other input cells.
+* Please enable macros when you open the FCT Template so that the built-in data validation rules will be enabled.
+* Please ensure all the items in the Data Validation tab are addressed before submission. We may require insurers who do not address items in the Data Validation tab to correct those items and resubmit the FCT Template.
+* The AA is responsible for ensuring the accuracy of the FCT Template.
+* Insurers must submit one electronic copy of the FCT Template by uploading it via the Regulatory Reporting System (RRS). For security reasons, insurers should not use email to submit their FCT Template.
+* Do not security protect the FCT Template.
+* The filing instructions may be obtained on the OSFI website under [File and submit a return](/en/data-forms/reporting-returns/file-submit-return "File and submit a return").
+* The return code is OSFI951 - Life FCT Data Collection Template.
+
+We may ask insurers who fail to follow these instructions or who do not address items in the Data Validation tab to correct and resubmit the FCT Template.
+
+Insurers who submit the FCT Template late will be subject to the Late and Erroneous Filing Penalty Framework.
+
+Please contact your OSFI Lead Supervisor for any questions on the FCT Template.
+
+Please submit questions concerning electronic filing of this data in RRS to Returns Administration at [RA-RRS.Support@osfi-bsif.gc.ca](mailto:RA-RRS.Support@osfi-bsif.gc.ca).
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-05-29

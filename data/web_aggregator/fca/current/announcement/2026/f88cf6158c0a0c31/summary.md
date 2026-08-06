@@ -1,0 +1,1 @@
+Summary: The FCA and Bank of England (Bank) have appointed members to their Transaction and Post-trade Reporting Harmonisation Taskforce.

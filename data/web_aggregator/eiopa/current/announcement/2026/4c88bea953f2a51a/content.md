@@ -1,0 +1,18 @@
+Page Content
+
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published technical information on the relevant risk free interest rate term structures (RFR) with reference to the end of October 2018 and an updated version of the source code used for the monthly risk-free interest rate term structures (RFR) calculation.
+
+Both the RFR information with reference to end of October 2018 and the RFR coding released today reflect the content of the Technical Documentation published on 1 February 2018.
+
+#### **Background**
+
+Technical information relating to risk-free interest rate (RFR) term structures is used for the calculation of the technical provisions for (re)insurance obligations.
+
+In line with the Solvency II Directive, EIOPA publishes technical information relating to RFR term structures on a monthly basis via a dedicated section on EIOPA's Website also containing the provisional release calendar for 2018, the RFR Technical Documentation, the RFR coding and Frequently Asked Questions.
+
+Publication date
+:   8 November 2018
+
+## Related links
+
+[Technical documentation of the methodology to derive EIOPA’s RFR term structures](/document/download/88e39df0-6beb-4197-9872-efa8ffb5a54b_en?filename=Technical%20documentation%20of%20the%20methodology%20to%20derive%20EIOPA%E2%80%99s%20RFR%20term%20structures.pdf)

@@ -1,0 +1,24 @@
+{
+  "doc_id": "6566f7a06a989cee",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FinCEN Advisory \u2013 FIN-2014-A004 | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2014-a004",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7782e3bdf984b7d58f6980f498272067a29c7e82816b598e538e5ca9549ecf03",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/6566f7a06a989cee",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

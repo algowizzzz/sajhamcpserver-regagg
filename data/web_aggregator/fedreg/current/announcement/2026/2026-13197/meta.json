@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13197",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Deregistration Under Section 8(f) of the Investment Company Act of 1940",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/30/2026-13197/deregistration-under-section-8f-of-the-investment-company-act-of-1940",
+  "reference_number": "2026-13197",
+  "published_date": "2026-06-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5ae664bc3d829780bccc68cb48b43843ff8432da9a751a529add29cad885cfe2",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13197",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

@@ -1,0 +1,1 @@
+Summary: # 2024 Test du capital minimal et Test de suffisance de l’actif des succursales des sociétés d’assurance multirisque (PC4)

@@ -1,0 +1,352 @@
+Exchange Act Rule 17a-4 Amendments—Chart of Significant Changes Page  1
+Exchange Act Rule 17a-4 Amendments—Chart of Significant Changes
+Exchange Act Rule 17a-4 Amendments
+Chart of Significant Changes
+Rule 17a-4(f)
+Prior Rule Current Rule
+Definitions Firms may use “electronic storage 
+media” to maintain and preserve 
+required records. 
+Electronic storage media is defined 
+as any digital storage medium or 
+system that meets the conditions set 
+forth in the rule.
+Firms may use an “electronic recordkeeping system” 
+to maintain and preserve required records.
+An electronic recordkeeping system is defined as a 
+system that preserves records in a digital format in 
+a manner that permits the records to be viewed and 
+downloaded.
+Notification Firms must notify their designated 
+examining authority (“DEA”) before 
+employing electronic storage media 
+(in some cases, at least 90 days in 
+advance).
+Firms are NOT required to notify their DEA before 
+employing an electronic recordkeeping system.
+Representation Firms must provide their DEA a 
+representation that the selected 
+electronic storage media meets 
+specified conditions.
+Firms are NOT required to provide a representation 
+to their DEA regarding whether the electronic 
+recordkeeping system meets specified conditions.
+Retention Format Firms that use an electronic storage 
+media to preserve required records 
+must preserve such records 
+exclusively in a non-rewriteable, 
+non-erasable format (also known as 
+a write once, read many (“WORM”) 
+format) (WORM Requirement).
+Firms that use an electronic recordkeeping system to 
+preserve required records have the following options:
+The records may be preserved consistent with the 
+WORM Requirement; or, alternatively
+The records may be preserved on an electronic 
+recordkeeping system that maintains a complete 
+time-stamped audit trail that includes: (1) all 
+modifications to and deletions of the record or 
+any part of it; (2) the date and time of actions that 
+create, modify or delete the record; (3) if applicable, 
+the identity of the individual creating, modifying or 
+deleting the record; and (4) any other information 
+needed to maintain an audit trail of each distinct 
+record in a way that maintains security, signatures 
+and data to ensure the authenticity and reliability of 
+the record and will permit recreation of the original 
+record (Audit-Trail Requirement).
+Note: The amended rule does not appear to 
+prohibit firms from choosing to adopt the Audit-
+Trail Requirement for certain electronic records 
+and continue to rely on the WORM Requirement for 
+their other electronic records.
+
+Exchange Act Rule 17a-4 Amendments—Chart of Significant Changes Page  2
+Books and Records Information
+Prior Rule Current Rule
+Verification An electronic storage media must 
+verify automatically the quality 
+and accuracy of the storage media 
+recording process.
+An electronic recordkeeping system must verify 
+automatically the completeness and accuracy of 
+the processes for storing and retaining records 
+electronically.
+Note: This is designed to ensure that when 
+an original record is added to the electronic 
+recordkeeping system it is completely and 
+accurately captured in the system.
+Serialization An electronic storage media 
+must serialize the original and, 
+if applicable, duplicate units of 
+storage media, and time-date for 
+the required period of retention 
+the information placed on such 
+electronic storage media.
+The requirement remains unchanged. The SEC, 
+however, clarified that this requirement only applies 
+to electronic recordkeeping systems that use  
+optical disks to meet the WORM Requirement.
+Download and 
+Transfer
+The electronic storage media 
+must have the capacity to readily 
+download indexes and records 
+preserved on the electronic storage 
+media to any medium acceptable 
+under Rule 17a-4(f).
+An electronic recordkeeping system must have the 
+capacity to readily download and transfer copies 
+of a record and its audit trail (if applicable) in both 
+a human readable format and in a reasonably 
+usable electronic format, and to readily download 
+and transfer the information needed to locate the 
+electronic record.
+Note: A reasonably usable electronic format is 
+a format that is common and compatible with 
+commonly used systems for accessing and reading 
+electronic records. This will allow regulators to 
+search and sort information on the records using a 
+computer.
+Backup System or 
+Redundancy
+Firms that use electronic storage 
+media to preserve required records 
+must store separately from the 
+original, on any medium acceptable 
+under Rule 17a-4, a duplicate copy 
+of the record for the requisite 
+time period. This requires firms 
+to preserve a second copy of each 
+record.
+Firms that use an electronic recordkeeping system to 
+preserve required records have the following options:
+Have a backup electronic recordkeeping system that 
+meets the requirements of Rule 17a-4(f) and that 
+retains the records in a manner that will serve as 
+a redundant set of records if the original electronic 
+recordkeeping system is temporarily or permanently 
+inaccessible; or
+Have other redundancy capabilities that are 
+designed to ensure access to the records (with a 
+level of redundancy that is at least equal to the level 
+that is achieved through using a backup electronic 
+recordkeeping system).
+
+Exchange Act Rule 17a-4 Amendments—Chart of Significant Changes Page  3
+Books and Records Information
+Prior Rule Current Rule
+Facilities Firms that use electronic storage 
+media to preserve required records 
+must have available facilities 
+for immediate, easily readable 
+projection or production of 
+electronic storage media images 
+and for producing easily readable 
+images.
+Firms that use an electronic recordkeeping system 
+to preserve required records must have facilities for 
+immediately producing the records preserved by 
+means of the electronic recordkeeping system and 
+for producing copies of those records.
+Providing Records Firms that use electronic storage 
+media to preserve required 
+records must provide facsimile 
+enlargements of such records upon 
+request.
+Firms that use an electronic recordkeeping system to 
+preserve required records must provide such records 
+upon request.
+Accessing and 
+Locating Records
+Firms that use electronic storage 
+media to preserve required records 
+must maintain, keep current, and 
+provide promptly upon request all 
+information necessary to access 
+records and indexes stored on 
+the electronic storage media; or 
+place in escrow and keep current 
+a copy of the physical and logical 
+file format of the electronic storage 
+media, the field format of all 
+different information types written 
+on the electronic storage media 
+and the source code, together with 
+the appropriate documentation 
+and information necessary to 
+access records and indexes  
+(Escrow Option).
+Firms that use an electronic recordkeeping system to 
+preserve required records must organize, maintain, 
+keep current, and provide promptly upon request 
+all information necessary to access and locate 
+records preserved by means of the electronic 
+recordkeeping system.
+The Escrow Option has been eliminated.
+
+Exchange Act Rule 17a-4 Amendments—Chart of Significant Changes Page  4
+Books and Records Information
+Prior Rule Current Rule
+Undertakings Firms that preserve required records 
+exclusively on electronic storage 
+media must file with their DEA an 
+undertaking by an independent 
+third party to furnish promptly to 
+regulators records stored on the 
+electronic storage media upon 
+request as well as to provide 
+access to such records if the firm 
+fails to do so (Third-Party Access 
+Undertaking).
+Firms that use an electronic recordkeeping system to 
+preserve required records have the following options:
+File a Third-Party Access Undertaking with their DEA; 
+or alternatively
+File an undertaking signed by a designated 
+executive officer representing that the officer has 
+access to and the ability to provide records preserved 
+on the firm’s electronic recordkeeping system 
+(Designated Executive Officer Undertaking).
+The designated executive officer can appoint in 
+writing up to two designated officers and three 
+designated specialists to assist the designated 
+executive officer in fulfilling the designated executive 
+officer’s obligations as set forth in the undertaking.
+The designated executive officer, however, remains 
+ultimately responsible for the obligations set forth in 
+the undertaking.
+The language of the Third-Party Access Undertaking 
+has also been revised (e.g., the undertaking uses 
+the term “electronic recordkeeping system” instead 
+of the term “electronic storage media” and adds a 
+requirement to produce a record and its audit trail (if 
+applicable) preserved on the electronic recordkeeping 
+system in a human readable format or a reasonably 
+usable electronic format).
+Note: Because the language of the Third-Party 
+Access Undertaking has been revised, firms electing 
+to continue using their current third-party access 
+arrangements to comply with Rule 17a-4(f) must 
+ensure that the third party files new undertakings 
+including the amended language with the broker-
+dealer’s DEA. These new undertakings must  
+be submitted to the broker-dealer’s DEA by  
+May 3, 2023.
+
+Exchange Act Rule 17a-4 Amendments—Chart of Significant Changes Page  5
+Books and Records Information
+Rule 17a-4(i)
+Prior Rule Current Rule
+Third-Party Service 
+Providers
+A third party who prepares or 
+maintains required records for 
+a broker-dealer (regardless of 
+whether the records are in paper 
+or electronic form) must file a 
+written undertaking with the SEC 
+signed by a duly authorized person 
+(Traditional Recordkeeping Service 
+Undertaking).
+The Traditional Recordkeeping 
+Service Undertaking must state 
+that the records are the property 
+of the broker-dealer and will be 
+surrendered promptly on request 
+of the broker-dealer. The third 
+party must also agree, among other 
+things, to permit examination of 
+the records by representatives or 
+designees of the SEC as well as to 
+promptly furnish to the SEC or its 
+designee true, correct, complete 
+and current hard copies of any or 
+all or any part of such records. An 
+agreement with the third party does 
+not relieve the broker-dealer from 
+the responsibility to prepare and 
+maintain required records.
+A third party that prepares or maintains required 
+records for a broker-dealer has the following options:
+File a Traditional Recordkeeping Service 
+Undertaking; or, alternatively
+If the third party prepares or maintains required 
+records by means of an electronic recordkeeping 
+system utilizing servers or other storage devices that 
+are owned or operated by the third party (including an 
+affiliate of the broker-dealer) and the broker-dealer 
+has independent access (i.e., without the need of 
+any intervention of the third party) to the records, 
+the third party is permitted to file a different 
+undertaking with the SEC (Alternative Undertaking 
+Designed for Cloud Service Providers).
+The Alternative Undertaking Designed for Cloud 
+Service Providers cannot be used if the required 
+records are in a non-electronic form, such as paper.
+The third party must acknowledge that the records 
+are the property of the broker-dealer. In addition, the 
+third party must acknowledge that the broker-dealer 
+has represented to the third party that the broker-
+dealer: (1) is subject to recordkeeping rules of the SEC; 
+(2) has independent access to the records; and (3) 
+consents to the third party fulfilling the obligations set 
+forth in the undertaking.
+The third party must also undertake to facilitate 
+within its ability, and not impede or prevent: (1) the 
+examination, access, download or transfer of the 
+records by a representative or designee of the SEC; or 
+(2) a trustee appointed under the Securities Investor 
+Protection Act to liquidate the broker-dealer in 
+accessing, downloading or transferring the records.
+Note: If the third party previously filed with the SEC 
+a Traditional Recordkeeping Service Undertaking, 
+it may elect to replace that undertaking with an 
+Alternative Undertaking Designed for Cloud Service 
+Providers that is tailored to how it maintains 
+records for the broker-dealer, subject to satisfying 
+the conditions under Rule 17a-4(i).
+Note: The SEC designated a broker-dealer’s 
+examining authority, which for most firms is FINRA, 
+as an SEC designee for the purposes of Rule 17a-4(i).
+
+Exchange Act Rule 17a-4 Amendments—Chart of Significant Changes Page  6
+Books and Records Information
+Rule 17a-4(j)
+Prior Rule Current Rule
+Record Production Broker-dealers are required to 
+furnish promptly to the SEC (upon 
+request) legible, true, complete  
+and current copies of required 
+records or any other record of the 
+firm that is subject to examination.
+The amended rule also requires broker-dealers to 
+furnish a record and its audit trail (if applicable) 
+preserved on an electronic recordkeeping system 
+in a reasonably usable electronic format  
+(if requested by the SEC).
+Effective Date: January 3, 2023.
+Compliance Date: May 3, 2023.
+FINRA Compliance Tool Disclaimer
+This optional tool is provided to assist member firms. This tool is provided as a starting point, and you must tailor 
+this tool to reflect the size and needs of your firm. Using this tool does not guarantee compliance with or create 
+any safe harbor with respect to FINRA rules, the federal securities laws or state laws, or other applicable federal or 
+state regulatory requirements. This tool does not create any new legal or regulatory obligations for firms or other 
+entities.
+Updates – This tool was last reviewed and updated, as needed, on February 20, 2026. This tool does not reflect 
+any regulatory changes since that date. FINRA periodically reviews and update these tools. FINRA reminds 
+member firms to stay apprised of new or amended laws, rules and regulations, and update their WSPs and 
+compliance programs on an ongoing basis.
+Member firms seeking additional guidance on certain regulatory obligations should review the relevant FINRA 
+Topic Pages.
+Staff Contact(s) – FINRA's Office of General Counsel (OGC) staff provides broker-dealers, attorneys, registered 
+representatives, investors and other interested parties with interpretative guidance relating to FINRA’s rules. 
+Please see Interpreting the Rules for more information.
+OGC staff contacts:
+Afshin Atabaki, Nicholas Vitalo and Carrie Jordan
+FINRA, OGC 
+1700 K Street, NW 
+Washington, DC 20006 
+(202) 728-8000 www.finra.org 
+© 2026 FINRA. All rights reserved. 
+CCSD-3799– 02/26

@@ -1,0 +1,1 @@
+Summary: In the context of the implementation of the IORP II Directive, the European Insurance and Occupational Pensions Authority (EIOPA) published today a second [Report on Other Information to be provided to Prospective and Current Members: Guidance and  Principles based on Current Pra

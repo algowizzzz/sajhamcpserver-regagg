@@ -1,0 +1,1 @@
+Summary: # P&C Minimum Capital Test and Branch Adequacy of Assets Test PC4 instructions

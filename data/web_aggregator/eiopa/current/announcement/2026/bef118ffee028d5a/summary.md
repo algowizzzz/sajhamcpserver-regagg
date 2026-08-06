@@ -1,0 +1,1 @@
+Summary: ![Adobestock_news_insurances_statistics](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_news_insurances_statistics.jpg?itok=6atSLr2x "Adobestock_news_insurances_statistics")

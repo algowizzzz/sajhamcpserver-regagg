@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13015",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Fee Structure Related to DJX and RUT FLEX Micro Orders and To Eliminate References to MSCI Index Products",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13015/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-and-immediate-effectiveness-of-a",
+  "reference_number": "2026-13015",
+  "published_date": "2026-06-29",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:80a6b9866987c58a26ab0dae2a26aab1eb80b0912f8a9ad1c383e25a80d3b829",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13015",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

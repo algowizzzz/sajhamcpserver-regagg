@@ -1,0 +1,1 @@
+Summary: # Deregistration Under Section 8(f) of the Investment Company Act of 1940

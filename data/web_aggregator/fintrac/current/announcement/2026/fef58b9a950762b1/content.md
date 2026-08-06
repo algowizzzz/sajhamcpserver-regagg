@@ -1,0 +1,74 @@
+# Life at FINTRAC
+
+As a separate employer in the Government of Canada, we embrace flexibility, value our talent, innovation and diversity!
+
+We offer the [same benefits](pa-eng) as the Federal Public Service – in addition to competitive compensation and performance pay for ALL positions.
+
+## Our workforce is small but mighty!
+
+FINTRAC consists of just over 500 employees with unique employment opportunities in the following fields: regulatory compliance, financial intelligence, policy development, international relations, and information management and technology – all with one goal in mind: to be a key leader in the fight against money laundering and terrorist activity financing.
+
+As a small organization, it is easy to get to know your new colleagues, both within your team and across the organization.
+
+## Flexible by design
+
+As an employer of choice, we are proud of our excellence-driven culture bolstered by our commitment to a respectful, healthy, diverse and inclusive workplace.
+
+At FINTRAC, we are inclusive by design, which means:
+
+* Commitment to cultivating a skilled, diverse workforce that allows employees to achieve their fullest potential.
+* Promotion of employee well-being by offering flexibility through work arrangements as part of our hybrid workplace, where operationally feasible. These options, which are subject to operational requirements, include telework, flexible work hours, compressed work weeks, and leave with income averaging.
+* Continuous learning to encourage employee innovation and growth, including in-house language training.
+
+## Location
+
+We pride ourselves on being an employer that maximizes and supports hybrid work, equipping our employees with the tools and devices they need to succeed and collaborate with colleagues and business partners across the country.
+
+**Headquarters**: FINTRAC headquarters are located in downtown Ottawa. Approximately 85% of our employees occupy positions at this location.
+
+**Regional offices**: Our three regional offices are located in Montréal, Toronto and Vancouver to facilitate our work with reporting entities across the country.
+
+## A place where values matter
+
+The sensitive nature of our mandate demands the highest ethical standards. These values are the foundation to how we do business, which are aligned with the [Values and Ethics Code for the Public Sector](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=25049).
+
+At FINTRAC, we have a strong workplace culture that is built on the following shared values:
+
+![graphic displaying fintrac values](images/values-valeurs.png)
+
+View text equivalent
+
+### Description of values:
+
+We Respect – with a passion for our people and our inclusivity and diversity
+
+We Create – with a desire to lean and the freedom to innovate
+
+We Care – with a focus on trust, results and the impact we have on each other
+
+We Protect – with a commitment to safeguard information
+
+We Deliver – with a drive to enhance the safety of Canadians and the security of the economy
+
+## Diversity and inclusion
+
+FINTRAC’s diversity and inclusion program goes beyond the requirements of the Employment Equity Act. We have a passionate Employment Equity, Diversity, and Inclusion Champion who raises employee awareness, recommends learning opportunities, and promotes participation in various events.
+
+Diversity is one of Canada's greatest strengths, and we are committed to celebrate the richness of our differences. We are also committed to maximize the unique contributions of our employees in an environment that is open and welcoming. We strive to ensure our workforce is reflective of the Canadian society. Diversity is a fact, inclusion is our priority.
+
+FINTRAC is a member of the [50-30 Challenge](https://ised-isde.canada.ca/site/ised/en/50-30-challenge-your-diversity-advantage), where organizations aspire to achieve gender parity (50% women and/or non-binary people) and significant representation (30% equity deserving groups – visible minorities, people with disabilities, members of the 2SLGBTQ+ community and/or gender and sexual minorities, and/or as a member of Indigenous Peoples) on boards and/or senior management positions. Other programs related to diversity that are currently implemented are featured in [FINTRAC’s letter on implementation](https://www.canada.ca/en/privy-council/corporate/clerk/call-to-action-anti-racism-equity-inclusion-federal-public-service/letters-implementation/2/financial-transactions-reports-analysis-centre-canada.html) of the Privy Council Clerk’s Call to Action. The Centre strives to increase the representation and inclusion of diverse groups within the workplace, while highlighting the benefits of giving all Canadians a seat at the table.
+
+At FINTRAC, we believe that success happens when we embrace the vast range of experiences and perspectives every individual brings to the table. Our [Employment Equity, Diversity and Inclusion Strategy](/emplo/eedi-eng), spanning from April 2023 to March 2026, includes a variety of commitments in order to move forward together. Diversity and inclusion is top of mind for our executive cadre, who have all elected to sign the [Pledge for Diversity and Inclusion](/emplo/divers-eng). We strive to continuously recruit a workforce composed of a variety of backgrounds, including race, cultures, ethnicities, genders, sexual orientation, age, and abilities.
+
+**Bilingualism**: We make it a priority to maintain a work environment where the use of both official languages is promoted and celebrated, under the leadership of our dedicated and passionate Official Languages Champion. Positions have a variety of language requirements, which are outlined in the job descriptions. We are pleased to offer programs that enable interested employees to develop their second language skills, such as part- and full-time language training, an informal language buddy program, and the development of our very own internal language school. Our strong bilingual capacity helps us interact more effectively with a broad range of partners, both nationally and internationally.
+
+## Canadian HR Reporter’s Innovative HR Teams 2023 Award
+
+Our very own People, Culture and Workplace Sector (PCW) is this year’s recipient of the [Canadian HR Reporter’s Innovative HR Teams 2023 Award](https://www.hrreporter.com/best-in-hr/best-hr-teams-in-canada-innovative-hr-teams-2023/375544#winnersListSection).
+
+They were recognized for breaking boundaries to move the HR profession forward by taking a progressive approach to recruitment! While there are many FINTRAC HR projects to be proud of, PCW was recognized for its excellent work with the Treasury Board of Canada Secretariat’s [Office of Public Service Accessibility](https://www.canada.ca/en/treasury-board-secretariat/corporate/organization.html#opsa) and a non-profit organization Specialisterne. As partners for this neurodiversity initiative, our work facilitated and propelled the recruitment and retention of individuals on the autism spectrum, or with similar neurodiversities (neurodivergent) in professional positions.
+
+Congratulations!
+
+Date Modified:
+:   2023-05-16

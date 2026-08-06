@@ -1,0 +1,388 @@
+Annex
+HONG KONG, CHINA
+DATA TEMPLATE ON INTERNATIONAL RESERVES /  FOREIGN CURRENCY LIQUIDITY 
+AS AT 30 June 2026
+(US$ million)
+I. Official reserve assets and other foreign currency assets (approximate market value)
+A. Official reserve assets (Note 1) 445,923
+(1) Foreign currency reserves (in convertible foreign currencies) 433,047
+(a) Securities (Note 2) 353,573
+of which: issuer headquartered in Hong Kong but located abroad 0
+(b) total currency and deposits with: 79,474
+(i) other national central banks, BIS and IMF (Note 3) 77,843
+(ii) banks headquartered in Hong Kong (Note 4)
+of which: located abroad
+(iii) banks headquartered outside Hong Kong (Note 4) 1,631
+of which: located in Hong Kong
+(2) IMF reserve position (Note 5) 0
+(3) SDRs
+(4) gold (including gold deposits and, if appropriate, gold swapped) 268
+—volume in fine troy ounces   (66,798 ounces at US$4,008.02) 0
+(5) other reserve assets (specify) 12,608
+financial derivatives (Note 6) 392
+loans to nonbank nonresidents 0
+other (Note 7) 12,216
+B. Other foreign currency assets (specify) (Note 8) 53,151
+securities not included in official reserve assets 976
+deposits not included in official reserve assets 41,646
+loans not included in official reserve assets
+financial derivatives not included in official reserve assets
+gold not included in official reserve assets
+other 10,529
+II. Predetermined short-term net drains on foreign currency assets (nominal value)
+1. Foreign currency loans, securities, and deposits
+Total -19,488
+Up to 1 month -6,577
+More than 1 and up to 3 months -3,250
+More than 3 months and up to 1 year -9,661
+outflows (-)
+Principal
+Total -18,542
+Up to 1 month -6,394
+More than 1 and up to 3 months -3,203
+More than 3 months and up to 1 year -8,945
+Interest
+Total -946
+Up to 1 month -183
+More than 1 and up to 3 months -47
+More than 3 months and up to 1 year -716
+inflows (+)
+Principal
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+Interest
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+
+2. Aggregate short and long positions in forwards and futures in foreign currencies vis-à-vis 
+the domestic currency (including the forward leg of currency swaps)
+(a) Short positions ( - )
+Total 0
+Up to 1 month 0
+More than 1 and up to 3 months 0
+More than 3 months and up to 1 year 0
+(b) Long positions (+)
+Total 0
+Up to 1 month 0
+More than 1 and up to 3 months 0
+More than 3 months and up to 1 year 0
+3. Other (specify)
+Total -2,586
+Up to 1 month -216
+More than 1 and up to 3 months -2,370
+More than 3 months and up to 1 year 0
+outflows related to repos (-)
+Total -2,370
+Up to 1 month 0
+More than 1 and up to 3 months -2,370
+More than 3 months and up to 1 year 0
+inflows related to reverse repos (+)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+trade credit (-)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+trade credit (+)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+other accounts payable (-)
+Total -216
+Up to 1 month -216
+More than 1 and up to 3 months 0
+More than 3 months and up to 1 year 0
+other accounts receivable (+)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+
+III. Contingent short-term net drains on foreign currency assets (nominal value)
+1. Contingent liabilities in foreign currency
+Total -1,379
+Up to 1 month -1,379
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(a) Collateral guarantees on debt falling due within 1 year
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) Other contingent liabilities (Note 9)
+Total -1,379
+Up to 1 month -1,379
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+2. Foreign currency securities issued with embedded options (puttable bonds)
+Total
+3. Undrawn, unconditional credit lines provided by:
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(a) other national monetary authorities, BIS, IMF, and other international organizations
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+other national monetary authorities (+)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+BIS (+)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+IMF (+)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+Other International Organizations (+)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) with banks and other financial institutions headquartered in Hong Kong (+)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(c) with banks and other financial institutions headquartered outside Hong Kong (+)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+4. Undrawn, unconditional credit lines provided to:
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+
+(a) other national monetary authorities, BIS, IMF, and other international organizations
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+other national monetary authorities (-)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+BIS (-)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+IMF (-)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+Other International Organizations (-)
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) banks and other financial institutions headquartered in Hong Kong (- )
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(c) banks and other financial institutions headquartered outside Hong Kong ( - )
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+5. Aggregate short and long positions of options in foreign currencies vis-à-vis the domestic 
+currency
+(a) Short positions
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(i) Bought puts
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(ii) Written calls
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) Long positions
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(i) Bought calls
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(ii) Written puts
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+
+PRO MEMORIA: In-the-money options
+(1) At current exchange rate
+(a) Short position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) Long position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(2) + 5 % (depreciation of 5%)
+(a) Short position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) Long position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(3) - 5 % (appreciation of 5%)
+(a) Short position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) Long position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(4) +10 % (depreciation of 10%)
+(a) Short position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) Long position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(5) - 10 % (appreciation of 10%)
+(a) Short position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) Long position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(6) Other (specify)
+(a) Short position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+(b) Long position
+Total
+Up to 1 month
+More than 1 and up to 3 months
+More than 3 months and up to 1 year
+
+IV. Memo items
+(1) To be reported with standard periodicity and timeliness: 
+(a) short-term domestic currency debt indexed to the exchange rate
+(b) financial instruments denominated in foreign currency and settled by other means (e.g., 
+in domestic currency)
+nondeliverable forwards
+   short positions
+   long positions
+other instruments
+(c) pledged assets 2,378
+included in reserve assets (Note 10) 2,378
+included in other foreign currency assets
+(d) securities lent and on repo 8,573
+lent or repoed and included in Section I (Note 11) -2,338
+lent or repoed but not included in Section I
+borrowed or acquired and included in Section I
+borrowed or acquired but not included in Section I (Note 12) 10,911
+(e) financial derivative assets (net, marked to market) (Note 13) 392
+forwards 125
+futures 113
+swaps 154
+options 0
+other
+(f) derivatives (forward, futures, or options contracts) that have a residual maturity greater 
+than one year, which are subject to margin calls. 0
+Aggregate short and long positions in forwards and futures in foreign currencies vis-à-vis the 
+domestic currency (including the forward leg of currency swaps)
+(a) short positions ( – ) 0
+(b) long positions (+) 0
+Aggregate short and long positions of options in foreign currencies  vis-à-vis the domestic 
+currency
+(a) short positions
+(i) bought puts
+(ii) written calls
+(b) long positions
+(i) bought calls
+(ii) written puts
+(2) To be disclosed less frequently:
+(a) currency composition of reserves (by groups of currencies) (Note 14)
+currencies in SDR basket
+Currency Composition of Reserves, Denominated in Euros
+Currency Composition of Reserves, Denominated in Japanese Yen
+Currency Composition of Reserves, Denominated in UK Pound Sterling
+Currency Composition of Reserves, Denominated in US Dollars
+currencies not in SDR basket
+Notes:
+3.  Item I.A(1)(b)(i) "Total currency and deposits with other national central banks, BIS and IMF" comprises deposits with 
+other national central banks, the Bank for International Settlements and the World Bank.
+4.  Item I.A(1)(b)(ii) and (iii) "Total currency and deposits with banks headquartered in and outside Hong Kong" comprise 
+deposit accounts with commercial banks.
+5. Item I.A(2) "IMF reserve position" comprises lending to the IMF under the New Arrangements to Borrow (NAB).
+6. Item I.A(5) "Financial Derivatives" comprises the net marked-to-market value of forward foreign exchange contracts, swap 
+contracts and options contracts, and the unsettled amounts of revaluation gains and losses for futures contracts. 
+1.  Item I.A "Official reserve assets" represents the data item "International Reserves" that has been disseminated in 
+accordance with the International Monetary Fund's (IMF) Special Data Dissemination Standard (SDDS).  The basis for 
+compilation of these statistics for Hong Kong is detailed in the IMF's Dissemination Standards Bulletin Board 
+(DSBB.IMF.ORG) under "Summary Methodology".
+2.  Item I.A(1)(a) "Securities" comprises highly liquid, marketable equity and debt securities.
+
+15. The figure "0" is used to designate zero or insignificant positions for the current month.  A blank cell indicates that the 
+item is not applicable at present.
+9. Item III.1(b) "Other contingent liabilities" comprises contingent liabilities with respect to the uncalled portion of shares 
+subscribed for the Bank for International Settlements, the Asian Development Bank and the Asian Infrastructure Investment 
+Bank.
+10. Item IV.(1)(c) "Pledged assets included in reserve assets" comprises cash/securities pledged as margins for financial 
+derivatives.
+11. Item IV.(1)(d) "Securities lent or repoed and included in Section I" comprises securities delivered on securities lending 
+and repo transactions.  These securities still remained as assets on the balance sheet.  In compliance with an Operational 
+Guideline update issued on 28 September 2000, "securities lent or repoed" are reported with a negative sign. 
+12. Item IV.(1)(d) "Securities borrowed or acquired but not included in Section I" comprises securities received from securities 
+lending and reverse repo transactions.  These securities are not recognised on the balance sheet of the reporting entity.
+13. Item IV.(1)(e) "Financial derivative assets" comprises the item "Financial Derivatives" reported under I.A(5).
+14. Item IV.(2)(a) "Currency composition of reserves" is disclosed annually.  Currency composition as at 31 December is 
+disseminated in the Template for March in the following year.
+7. Item I.A(5) "Other" comprises mainly reverse repurchase agreements (reverse repos), cash placed with brokers for 
+meeting the margin requirements of financial derivatives, net receivables/(payables) of unsettled transactions and 
+investments in Asian Bond Fund. 
+8. Item I.B "Other foreign currency assets", representing foreign currency assets not included in reserve assets, includes 
+foreign currency deposits placed with and certificates of deposit issued by banks in Hong Kong and foreign currency assets 
+held by the HKSAR Government.

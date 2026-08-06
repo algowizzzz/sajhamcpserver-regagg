@@ -1,0 +1,323 @@
+![Picture of people discussing things](/sites/default/files/styles/wide_lead/public/media/2019/01/istock-899023642_opinions_cropped.jpg?h=2cedd4b6&itok=LWPogD9n "DFS Opinions")
+
+# Industry Letters
+
+Letters to regulated entities and other industry featuring important guidance
+
+SHARE
+
+## Industry Letters
+
+To receive an email notification when this page is updated [sign up for Industry Letter Alerts](https://public.govdelivery.com/accounts/NYDFS/subscriber/new?topic_id=NYDFS_162). To update your subscriptions or modify your password or email address, visit [subscriber preferences](https://public.govdelivery.com/accounts/NYDFS/subscriber/edit).
+
+**Note:** Explanatory letters issued in connection with the proposal or adoption of regulations can be found in our [Regulatory and Legislative Activities](https://www.dfs.ny.gov/industry_guidance/regulations) section.
+
+| Date Published | Subject | Category |
+| --- | --- | --- |
+| 2026-05-21 | [Guidance on Measures Regulated Entities Should Consider in a Heightened Cybersecurity Threat Environment](/industry-guidance/industry-letters/20260521-guidance-on-measures-reg-entities-should-consider-in-a-hcte) | Cybersecurity |
+| 2026-05-21 | [Cybersecurity Advisory - Heightened Cybersecurity Risks Associated with Frontier AI Models](/industry-guidance/industry-letters/20260521-heightened-cybersecurity-risks-assoc-with-frontier-ai-models) | Cybersecurity |
+| 2026-04-22 | [New York State's Fair Lending Law](/industry-guidance/industry-letters/20260422-nys-fair-lending-law) | Banking |
+| 2026-03-03 | [Cybersecurity Advisory: Reminder to Financial Sector of Heightened Cyber Threats Due to Global Conflict](/industry-guidance/industry-letters/20260303-cybersecurity-advisory-heightened-cyber-threats-global-conflict) | Cybersecurity |
+| 2026-02-06 | [Cybersecurity Advisory - Targeted “Vishing” Attacks](/industry-guidance/industry-letters/20260206-cybersecurity-advisory-targeted-vishing-attacks) | Cybersecurity |
+| 2026-01-22 | [Cybersecurity Threat Alert - Phishing Scam Impersonating DFS](/industry_guidance/industry_letters/20260122_cybersecurity_threat_alert) | Cybersecurity |
+| 2025-10-21 | [Guidance on Managing Risks Related to Third-Party Service Providers](/industry-guidance/industry-letters/il20251021-guidance-managing-risks-third-party) | Cybersecurity |
+| 2025-09-30 | [Updated Guidance on Custodial Structures for Customer Protection in the Event of Insolvency](/industry-guidance/industry-letters/il20250930-updated-guidance-custodial-structures) | Virtual Currency |
+| 2025-09-26 | [Cybersecurity Threat Alert - Cisco Zero-Day Vulnerabilities](/industry-guidance/industry-letters/il20250926-cyber-threat-alert-cisco-zero-day) | Cybersecurity |
+| 2025-09-26 | [Community Reinvestment Act Credit for Investment in and Lending to Community Development Financial Institutions](/industry-guidance/industry-letters/il20250926-cra-credit-investment) | Banking, CRA |
+| 2025-09-17 | [Notice on Use of Blockchain Analytics for New York Banking Organizations](/industry-guidance/industry-letters/il20250917-blockchain) | Banking |
+| 2025-09-05 | [Request for Information on Consumer Accounts and Fees, Program and Regulatory Compliance Costs and Communications](/industry-guidance/industry-letters/il20250905-overdraft-rfi-question "Industry Letter - September 5, 2025: Request for Information on Consumer Accounts and Fees, Program and Regulatory Compliance Costs and Communications") | Banking |
+| 2025-08-01 | [Maximum Reserve Valuation and Maximum Life Policy Nonforfeiture Interest Rates](/industry-guidance/circular-letters/iil20250801 "Maximum Reserve Valuation and Maximum Life Policy Nonforfeiture Interest Rates") | Insurance |
+| 2025-07-31 | [Request for Information Regarding “Buy-Now-Pay-Later” Activities](/industry_guidance/industry_letters/il20250731-rfi-bnpl-activities) | Banking |
+| 2025-06-23 | [Impact to Financial Sector of Ongoing Global Conflicts](/industry_guidance/industry_letters/il20250623_impact-global-conflict) | All Entities |
+| 2025-01-16 | [Notice Regarding Rapidly Proliferating, Sentiment-Based Virtual Currencies](/industry-guidance/industry-letters/il20250114-rapidly-prolif-sentiment-based-vc ) | Virtual Currency |
+| 2024-11-01 | [Cybersecurity Advisory – Threats Posed by Remote Technology Workers with Ties to Democratic People’s Republic of Korea](/industry-guidance/indusry-letters/il20241101-cyber-advisory-remote-workers-nk) | Cybersecurity |
+| 2024-10-16 | [Cybersecurity Risks Arising from Artificial Intelligence and Strategies to Combat Related Risks](/industry-guidance/industry-letters/il20241016-cyber-risks-ai-and-strategies-combat-related-risks) | Cybersecurity |
+| 2024-09-27 | [Cybersecurity Threat Alert – Social Engineering of Institutions’ IT Help Desk Personnel](/industry-guidance/industry-letters/il20240927-cyber-alert-social-engineering) | Cybersecurity |
+| 2024-07-19 | [Guidance Letter - Notice Regarding Crowdstrike Global Outage](/industry-guidance/industry-letters/il202407193-notice-regarding-crowdstrike-global-outage) | Cybersecurity |
+| 2024-05-30 | [Guidance Regarding Customer Service Requests and Complaints](/industry-guidance/industry-letters/il20240530-cus-serv-req-and-complains) | Virtual Currency |
+| 2024-05-13 | [Resource to Assist Small Businesses with Development of Cybersecurity Program, Pursuant to DFS Cybersecurity Regulation](/industry-guidance/industry-letters/il20240513-resources-cyber-small-businesses-guidance) | Cybersecurity |
+| 2024-05-09 | [DFS Update Report - Analysis of New York Insurers’ NAIC Climate Risk Disclosure Survey Responses](/industry-guidance/industry-letters/il20240509-insurers-risk-climate-change-update) | Climate Change |
+| 2024-01-22 | [Guidance on Assessment of the Character and Fitness of Directors, Senior Officers, and Managers](/industry_guidance/industry_letters/il20240122_guidance_on_assessment) | Banking |
+| 2024-01-12 | [Cybersecurity Alert on Self-Service Password Reset](/industry_guidance/industry_letters/il20240112_cyber_alert_self_service_pw_reset) | Cybersecurity |
+| 2023-12-27 | [First American Financial & Email Vigilance](/industry_guidance/industry_letters/il20231227_first_amer_fin_and_email_vigilance) | Cybersecurity |
+| 2023-12-21 | [Letter Regarding Guidance on Management of Material Financial and Operational Risks from Climate Change](/industry_guidance/industry_letters/il20231221_guidance_on_management) | Banking, Mortgage |
+| 2023-12-21 | [Guidance for New York State Regulated Banking and Mortgage Institutions on Managing the Material Financial and Operational Risks from Climate Change](/industry_guidance/climate_change/guidance_banking_mortgage_orgs_202312) | Banking, Mortgage |
+| 2023-11-15 | [Guidance on One-Time Adjustment of Federal Student Loans](/industry_guidance/industry_letters/il20231115_one_time_adjustment_fed_student_loans) | Student Loans |
+| 2023-11-15 | [Guidance Regarding Listing of Virtual Currencies](/industry_guidance/industry_letters/il20231115_listing_virtual_currencies) | Virtual Currency |
+| 2023-11-14 | [Cybersecurity Threat Alert - Citrix Bleed Vulnerability](/industry_guidance/industry_letters/il20231114_cyber_alert_citrix) | Cybersecurity |
+| 2023-11-10 | [UPDATE: New York Pharmacy Benefit Manager (PBM) License Application](/industry_guidance/industry_letters/il20231110_update_pbm_licensing_app) | Pharmacy Benefit Manager |
+| 2023-10-31 | [New York Pharmacy Benefit Manager (“PBM”) License Application](/industry_guidance/industry_letters/il20231031_PBM-Licensing) | Pharmacy Benefit Manager |
+| 2023-09-18 | [Proposed Updates to Guidance Regarding Listing of Virtual Currencies](/industry_guidance/industry_letters/il20230918_guidance_vc_listing) | Virtual Currency |
+| 2023-09-18 | [General Framework for Greenlisted Coins](/industry_guidance/industry_letters/il20230918_gen_framework_greenlisted_coins) | Virtual Currency |
+| 2023-09-11 | [Notice on Promoting Basic Banking Accounts](/industry_guidance/industry_letters/il20230911_notice_promoting_basic_bank_accounts) | Banking |
+| 2023-07-18 | [Ensuring Auto Loan Borrowers Receive Pro-Rata Rebates for Cancelled Ancillary Products](/industry_guidance/industry_letters/il20230718_guidance_for_ancillary_products) | Insurance |
+| 2023-06-02 | [MOVEit Transfer Vulnerability](/industry_guidance/industry_letters/il20230602_moveit_vulnerability) | Cybersecurity |
+| 2023-05-09 | [Proposed Guidance on Assessment of the Character and Fitness of Directors, Senior Officers, and Managers](/industry_guidance/industry_letters/il20230309_guidance_assessment_fitness) | Banking |
+| 2023-04-03 | [2022 Volume of Operations Report (VOOR) Filings](/industry_guidance/industry_letters/il20230403_voor_filings) | Mortgage |
+| 2023-03-31 | [Extension of the Public Comment Period Relating to Request for Public Comments Regarding the Presumption of Control of a New York-Chartered or Licensed Depository or Non-Depository Institution](/industry_guidance/industry_letters/il20230331_ext_public_comment_period) | Banking |
+| 2023-03-09 | [Guidance on Holding Hybrid Meetings](/industry_guidance/industry_letters/il20230309_guidance_holding_hybrid_meetings) | Credit Unions |
+| 2023-01-30 | [Maximum Check Casher Fee](/industry_guidance/industry_letters/il20230130_max_check_casher_fee) | Check Cashers |
+| 2023-01-23 | [Guidance on Custodial Structures for Customer Protection in the Event of Insolvency](/industry_guidance/industry_letters/il20230123_guidance_custodial_structures). This guidance has been superseded by [Updated Guidance on Custodial Structures for Customer Protection in the Event of Insolvency issued on September 30, 2025](/industry-guidance/industry-letters/il20250930-updated-guidance-custodial-structures). | Virtual Currency |
+| 2022-12-27 | [Letter to New York State and Federally Chartered Banking Organizations Regarding the December 2022 Blizzard in Upstate New York](/industry_guidance/industry_letters/il202212271_blizzard_relief) | Banking |
+| 2022-12-21 | [Proposed Guidance to Banking and Mortgage Entities on Managing Risks of Climate Change](/industry_guidance/climate_change/proposed_guidance_banking_mortgage_202212) | Banking, Mortgage |
+| 2022-12-20 | [Request for Public Comments: Presumption of Control of a New York-Chartered or Licensed Depository or Non-Depository Institution](/industry_guidance/industry_letters/il20221220_req_public_comments_presumption_control) | Banking |
+| 2022-12-16 | [New York Subprime Law Requirement and Discontinued Publication of the Primary Mortgage Market Survey Rate for 5/1 Adjustable Rate Mortgage Loans](/industry_guidance/industry_letters/il202211216_subprime_discontinuance_pmms_arm) | Mortgage |
+| 2022-12-15 | [Prior Approval for Covered Institutions' Virtual Currency-Related Activity](/industry_guidance/industry_letters/il20221215/prior_approval) (PDF) | Banking |
+| 2022-11-30 | [Health Equity Programming and Collection of Race, Ethnicity, and Other Demographic Data](/industry_guidance/industry_letters/il20221130_health_equity_prog_collection_data) | Health |
+| 2022-11-15 | [Absence from the Office as an Internal Control Safeguard](/industry_guidance/industry_letters/il20221115_absence) | Banking |
+| 2022-11-14 | [Consideration of Proposed Fee Modifications for Licensed Budget Planners](/industry_guidance/industry_letters/il20221114_prop_fee_mod) | Budget Planners |
+| 2022-11-08 | [Request for Information Regarding Private Student Loan Refinancing in New York State](/industry_guidance/industry_letters/il20221108_rfi_private_student_loan_financing_nys) | Student Loans |
+| 2022-09-23 | [Guidance Letter to New York State Chartered Banking Organizations Regarding Hurricane Fiona in Puerto Rico](/industry_guidance/industry_letters/il20220923_hurricane_fiona) | Banking |
+| 2022-09-14 | [Notice Regarding Ethereum’s Upcoming Protocol Change](/industry_guidance/industry_letters/il20220914_ethereum) | Virtual Currency |
+| 2022-07-13 | [Best Practices for Promoting Public Service Loan Forgiveness](/industry_guidance/industry_letters/il20220713_pslf) | Student Loans |
+| 2022-07-12 | [Avoiding Improper Practices Related to Overdraft and Non-Sufficient Funds Fees](/industry_guidance/industry_letters/il20220712_overdraft_nsf_fees) | Banking |
+| 2022-06-08 | [Guidance on the Issuance of U.S. Dollar-Backed Stablecoins](/industry_guidance/industry_letters/il20220608_issuance_stablecoins) | Virtual Currency |
+| 2022-05-17 | [Reverse Mortgage Loans for Cooperative Apartment Units](/industry_guidance/industry_letters/il20220517_reverse_mortg_loans_coop_apts) | Mortgage |
+| 2022-05-05 | [Notice to Pharmacy Benefit Managers Regarding Mandatory Registration and First Annual Report With NYS Department of Financial Services Pursuant to Insurance Law §§ 2902-2904](/industry_guidance/industry_letters/il20220505_notice_pbm_2902_2904) | Pharmacy Benefit Managers |
+| 2022-04-28 | [Guidance on Use of Blockchain Analytics](/industry_guidance/industry_letters/il20220428_guidance_use_blockchain_analytics) | Virtual Currency |
+| 2022-04-15 | [Offering Bank On Accounts as an Alternative to New York Basic Banking Accounts](/industry_guidance/industry_letters/il20220415_offering_bank_on) | Banking |
+| 2022-04-07 | [Compliance with 23 N.Y.C.R.R. § 1.3(b) and the new Consumer Credit Fairness Act](/industry_guidance/industry_letters/il20220407_23nycrrpt1_and_ccfa) | Debt Collection |
+| 2022-02-25 | [Escalating Situation in Ukraine and Impact to Financial Sector](/industry_guidance/industry_letters/il20220225_ukraine_escalation_impact_financial) | General |
+| 2022-01-21 | [Extension of the Public Comment Period Relating to Vacation Policy as an Internal Control Safeguard RFI](/industry_guidance/industry_letters/il20220121_ext_public_comments_rfi) | Banking |
+| 2022-01-10 | [Application of Banking Law § 9-y to Credit Unions](/industry_guidance/industry_letters/il20220110_overdraft_protection) | Banking |
+| 2022-01-04 | [Request for Information Regarding Vacation Policy as an Internal Control Safeguard](/industry_guidance/industry_letters/il20220104_vacation_policy_internal_controls) | Banking |
+| 2021-12-28 | [New York State Department of Labor to Implement Change to Excluded Workers Fund Prepaid Cards](/industry_guidance/industry_letters/il20211228_nysdol) | Banking |
+| 2021-12-22 | [Fee Waiver for Holocaust Reparation Payments](/industry_guidance/industry_letters/il20211222_fee_waiver_holocaust_reparation_payments) | Banking |
+| 2021-12-17 | [Log4j Vulnerability](/industry_guidance/industry_letters/il20211217_cyber_log4j_vulnerability) | Cybersecurity |
+| 2021-12-07 | [Guidance on Multi-Factor Authentication](/industry_guidance/industry_letters/il20211207_mfa_guidance) | Cybersecurity |
+| 2021-11-15 | [Guidance for New York Domestic Insurers on Managing the Financial Risks from Climate Change](/industry_guidance/climate_change/DFS_Guidance_for_NY_Insurers_on_Managing_Climate_Risks_2021.pdf) | Insurance |
+| 2021-10-28 | [Loss Mitigation for Borrowers impacted by COVID-19](/industry_guidance/industry_letters/il20211028_loss_mitigation) | Mortgage |
+| 2021-10-22 | [Adoption of an Affiliate’s Cybersecurity Program](/industry_guidance/industry_letters/il20211022_affiliates_cybersecurity_program) | Cybersecurity |
+| 2021-08-31 | [Preventing Sexual Orientation Discrimination in Mortgage Lending](/industry_guidance/industry_letters/il20210831_preventing_sexual_orientation_discrimination) | Mortgage |
+| 2021-07-29 | [Diversity, Equity, and Inclusion and Corporate Governance](/industry_guidance/industry_letters/il20210729_diversity_equity_incl_corpgov) | Banking |
+| 2021-06-30 | [Ransomware Guidance](/industry_guidance/industry_letters/il20210630_ransomware_guidance) | Cybersecurity |
+| 2021-05-19 | [Tangible Net Worth Calculation](/industry_guidance/industry_letters/il20210519_tang_net_worth_calc) | Check Cashers |
+| 2021-04-26 | [Pulse Connect Secure Critical Vulnerability](/industry_guidance/industry_letters/il20210426_pulse_connect_secure) | Cybersecurity |
+| 2021-04-19 | [Cyber Fraud Alert Follow-Up: New York Insurance Identification (ID) Card Barcode Vulnerability](/industry_guidance/industry_letters/il20210419_cyber_fraud_alert_followup) | Cybersecurity |
+| 2021-04-14 | [Evidence of Future Possession of Location of Business](/industry_guidance/industry_letters/il20210414_evid_of_future_loc_of_busi) | Check Cashers |
+| 2021-03-25 | [Proposed Guidance for New York Domestic Insurers on Managing the Financial Risks from Climate Change](/industry_guidance/climate_change/guidance/ny_domestic_insurers_managing_fin_risk) | Insurance |
+| 2021-03-30 | [Cyber Fraud Alert Follow-Up](/industry_guidance/industry_letters/il20210330_cyber_alert_followup) | Cybersecurity |
+| 2021-03-09 | [Microsoft Reports Exploitation of Four Vulnerabilities in Microsoft Exchange Server](/industry_guidance/industry_letters/il20210309_microsoft_alert) | Cybersecurity |
+| 2021-02-16 | [Cyber Fraud Alert on Nonpublic Information (NPI)](/industry_guidance/industry_letters/il20210216_cyber_fraud_alert) | Cybersecurity |
+| 2021-02-12 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20210212_annual_max_check_casher_fee) | Check Cashers |
+| 2021-02-09 | [CRA Consideration for Activities that Contribute to Climate Mitigation and Adaptation](/industry_guidance/industry_letters/il20210209_cra_consideration) | General |
+| 2020-12-18 | [Supply Chain Compromise Alert](/industry_guidance/industry_letters/il20201218_supply_chain_compromise_alert) | Cybersecurity |
+| 2020-10-29 | [Climate Change and Financial Risks](/industry_guidance/industry_letters/il20201029_climate_change_financial_risks) | Climate Change |
+| 2020-09-01 | [Guidance to New York State Regulated Mortgage Lenders and Servicers Relating to Fees Paid to Register Mortgages in Default](/industry_guidance/mortgage_lenders_servicers/fees_paid_register_mortgages_in_default) | Mortgage Banking |
+| 2020-07-14 | [FinCEN Guidance to Financial Institutions with Respect to Hemp-Related Business Customers](/industry_guidance/industry_letters/il20200714_fincen_guidance) | General |
+| 2020-06-30 | [Alert Regarding Amendments to the New York Community Reinvestment Act](/industry_guidance/industry_letters/il20200630_alert_amends_nycra) | Banking, CRA |
+| 2020-06-30 | [CRA Consideration for Activities in Response to COVID-19](/industry_guidance/industry_letters/il20200630_cra_considerations_covid-19_activities) | Banking, CRA |
+| 2020-06-24 | [Notice of Virtual Currency Business Activity License Application Procedures](/industry_guidance/industry_letters/il20200624_notice_vc_busact_lic_app_procedure) | Virtual Currency |
+| 2020-06-24 | [Guidance Regarding Adoption or Listing of Virtual Currencies](/industry_guidance/industry_letters/il20200624_adoption_listing_vc) | Virtual Currency |
+| 2020-06-24 | [Request for Comments on a Proposed Framework for Conditional BitLicense](/industry_guidance/industry_letters/il20200624_req_comments_proposed_framework) | Virtual Currency |
+| 2020-06-17 | [Guidance to New York State-Regulated Financial Institutions Regarding Support for New York Consumers Impacted by the Novel Coronavirus (COVID-19)](/industry_guidance/industry_letters/il20200617_finanical_institutions_consumer_support_covid-19) | General |
+| 2020-06-17 | [Guidance to New York State-Regulated Consumer Credit Reporting Agencies Regarding Support for New York Consumers Impacted by COVID-19](/industry_guidance/industry_letters/il20200617_cra_consumer_support_covid-19) | General |
+| 2020-06-12 | [Compliance with 3 NYCRR Part 419, Servicing Mortgage Loans: Business Conduct Rules](/industry_guidance/industry_letters/il20200612_compliance_part419_mls) | Mortgage Banking |
+| 2020-05-22 | [Advisory on Medical Scams Related to COVID-19](/industry_guidance/industry_letters/il20200522_covid19_med_scams_advisory) | General |
+| 2020-04-13 | [Guidance to Regulated Entities Regarding Cybersecurity Awareness During COVID-19 Pandemic](/industry_guidance/industry_letters/il20200413_covid19_cybersecurity_awareness) | Cybersecurity |
+| 2020-04-07 | [Guidance to New York State-Regulated Student Loan Servicers Regarding Support for Borrowers Impacted by COVID-19](/industry_guidance/industry_letters/il20200407_student_loan_servicers) | General |
+| 2020-04-05 | [Community Development Financial Institutions (CDFIs)](/industry_guidance/industry_letters/il20200405_coronavirus_cdfi) | General |
+| 2020-04-03 | [Guidance to DFS Regulated Entities Regarding Cybersecurity Awareness During COVID-19 Pandemic](/industry_guidance/industry_letters/il20200413_covid19_cybersecurity_awareness) | Cybersecurity |
+| 2020-04-03 | [Paycheck Protection Loan Program](/industry_guidance/industry_letters/il20200403_paycheck_protection_loan_program) | General |
+| 2020-03-26 | [Guidance Regarding Electronic Signatures, Transactions, and Filings with DFS](/industry_guidance/electronic_signatures_transactions_filings) | Insurance |
+| 2020-03-19 | [Guidance to New York State Regulated Financial Institutions Regarding Support for Consumers and Businesses Impacted by COVID-19](/industry_guidance/industry_letters/il20200319_consumer_support_coronavirus) | General |
+| 2020-03-19 | [Guidance to New York State Regulated and Exempt Mortgage Servicers Regarding Support for Borrowers Impacted by COVID-19](/industry_guidance/industry_letters/il20200319_coronavirus_mortgage_relief) | Mortgage Banking |
+| 2020-03-10 | [Guidance to Regulated Institutions Engaged in Virtual Currency Business Activity and Request for Assurance Relating to Operational and Financial Risk Arising from the Outbreak of the Novel Coronavirus (COVID-19)](/industry_guidance/industry_letters/il20200310_coronavirus_vc_business_oper_fin_risk) | General |
+| 2020-03-10 | [Guidance to New York State Regulated Banks, Credit Unions and Licensed Lenders Regarding Support for Businesses Impacted by the Novel Coronavirus](/industry_guidance/industry_letters/il20200310_support_businesses) | General |
+| 2020-03-10 | [Guidance to New York State Regulated Institutions and Request for Assurance Relating to Potential Financial Risk Arising from the Outbreak of the Novel Coronavirus](/industry_guidance/industry_letters/il20200310_financial_risk_coronavirus) | General |
+| 2020-03-10 | [Guidance to New York State Regulated Institutions on Operational Risk Arising from the Outbreak of the Novel Coronavirus](/industry_guidance/industry_letters/il20200310_risk_coronavirus) | General |
+| 2020-02-28 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20200228_annual_max_check_casher_fee) | Check Cashers |
+| 2020-02-12 | [Compliance with Law Requiring Immediate Release of Liens Upon Clearance of Payment](/industry_guidance/industry_letters/il20200212_compliance_law_requiring_immed_release_liens_upon_clearance_paymt) | General |
+| 2020-02-05 | [Regulated Institutions May Receive CRA Consideration for Participation in New York Fed Investment Connection Program in Puerto Rico](/industry_guidance/industry_letters/il20200205_regulated_instiutions_cra_consideration_puerto_rico) | Banking, CRA |
+| 2020-02-05 | [Guidance to New York State Regulated Institutions Regarding the Earthquakes in Puerto Rico](/industry_guidance/industry_letters/il20200205_guidance_earthquakes_puerto_rico) | General |
+| 2020-01-23 | [Request for Assurance of Preparedness for LIBOR Transition (Update)](/industry_guidance/industry_letters/il20200123_request_assurance_preparedness_libor_transition_update) | General |
+| 2020-01-04 | [Cybersecurity Risk Alert](/industry_guidance/industry_letters/il20200104_cybersecurity_risk_alert) | Cybersecurity |
+| 2020-01-02 | [Increase in Maximum Check Casher Fee](/industry_guidance/industry_letters/il20200102_increase_max_check_casher_fee) | Check Cashers |
+| 2019-12-23 | [Request for Assurance of Preparedness for LIBOR Transition](/industry_guidance/industry_letters/il20191223_request_assurance_preparedness_libor_transition) | General |
+| 2019-12-11 | [Proposed Guidance Regarding Adoption or Listing of Virtual Currencies](/industry_guidance/industry_letters/il20191211_proposed_vc_guidance). Guidance is withdrawn and superseded by [Guidance Regarding Listing of Virtual Currencies](/industry_guidance/industry_letters/il20231115_listing_virtual_currencies). | Virtual Currency |
+| 2019-02-14 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20190214_annual_maximum_check_casher_fee) | Check Cashers |
+| 2019-01-17 | [Decision Regarding Implementation of the Market Stabilization Pool for 2017](/industry_guidance/decision-2017-NewYork-Market-Stabilization) | Insurance |
+| 2019-01-07 | [Guidance on Whistleblowing Programs](/industry_guidance/industry_letters/il20190107_whistleblowers) | All Entities |
+| 2018-12-21 | [Letter Regarding DFS Cybersecurity Regulation – First Two Years and Next Steps](/industry_guidance/industry_letters/il20181115_cyberreg_forsttwoyears) | Cybersecurity |
+| 2018-10-22 | [Guidance Regarding Federal Rules and New York Insurance Law on Whether Policy Changes Constitute a Product Discontinuance or a Uniform Modification](/industry_guidance/industry_letters/il20181022_Guidance-Policy-Changes) | Insurance |
+| 2018-09-25 | [Guidance on Permissible Lending Practices Regarding Rent-Stabilized Multi-Family Residential Buildings](/industry_guidance/industry_letters/il20180925_guidance_permissible_lending_practices_rent_stabilized_multi_fam_resident_bldg) | General |
+| 2018-08-23 | [Indirect Automobile Lending and Compliance with New York’s Fair Lending Statute](/industry_guidance/industry_letters/il20180823_indirect_auto_lending_and_compliance_ny_fair_lending_statute) | General |
+| 2018-07-03 | [Guidance on Provision of Financial Services to Medical Marijuana and Industrial Hemp-Related Businesses in New York State](/industry_guidance/industry_letters/il20180703_guidance_provision_fs_med_marijuana_industrial_hemp_related_businesses_nys) | General |
+| 2018-03-16 | [April 16, 2018 Transaction Monitoring Regulation Certification Filing Deadline](/industry_guidance/industry_letters/il20180316_20180416_trans_monitoring_reg_cert_filing_deadline) | General |
+| 2018-02-07 | [Guidance on Prevention of Market Manipulation and Other Wrongful Activity](/industry_guidance/industry_letters/il20180207_guidance_prevention_market_manipulation_and_other_wrongful_activity) | Virtual Currency |
+| 2018-02-05 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20180205_annual_max_check_casher_fee) | Check Cashers |
+| 2017-11-28 | [DFS Student Branches Credit Union Order](/industry_guidance/industry_letters/il20171128_order_sect12a_ny_banking_law) | General |
+| 2017-10-19 | [Low-Income Designation for New York State Chartered Credit Unions](/industry_guidance/industry_letters/il20171019_low_income_designation_nys_chartered_credit_unions) | General |
+| 2017-10-04 | [Guidance to New York State Chartered Banks Regarding Hurricanes Maria and Irma in Puerto Rico and the U.S. Virgin Islands](/industry_guidance/industry_letters/il20171004_guidance_nys_chartered_banks_hurricanes_maria_and_irma_puerto_rico_us_virgin_islands) | General |
+| 2017-09-18 | [Guidance Relating to Equifax Data Breach - Banking Industry](/industry_guidance/industry_letters/il20170918_guidance_equifax_data_breach_banking_industry) | Banking |
+| 2017-09-18 | [Guidance Relating to Equifax Data Breach - Insurance Industry](/industry_guidance/industry_letters/il20170918_guidance_equifax_data_breach_insurance_industry) | Insurance |
+| 2017-06-28 | [Use of Temporary Limited Service Units or Facilities by New York State Chartered Credit Unions](/industry_guidance/industry_letters/il20170628_use_temp_limited_service_units_or_facilities_nys_chartered_credit_unions) | Credit Unions |
+| 2017-05-22 | [Guidance on Acquisition of Control of Banking Institutions](/industry_guidance/industry_letters/il20170522_guidance_acquistion_control_banking_institutions) | Banking |
+| 2017-04-05 | [Wild Card Relief from Oaths of Office by Officers, Directors and Committee Members of New York State Chartered Credit Unions](/industry_guidance/industry_letters/il20170405_wild_card_relief) | Credit Unions |
+| 2017-04-04 | [The Exempt Income Protection Act](https://www.dfs.ny.gov/industry_guidance/industry_letters/il20170404_exempt_income_protection_act) | General |
+| 2017-02-13 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20170213_annual_max_check_casher_fee) | Check Cashers |
+| 2016-10-11 | [Guidance on Incentive Compensation Arrangements](/industry_guidance/industry_letters/il20161011_guidance_incentive_compensation_arrangements) | General |
+| 2016-02-15 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20160215_annual_max_check_casher_fee) | Check Cashers |
+| 2016-01-19 | [The Primary Mortgage Market Survey and Subprime Lending in New York](/industry_guidance/industry_letters/il20160119_primary_mortgage_mkt_survey_and_subprime_lending_ny) | Mortgage, Banking |
+| 2015-10-13 | [Requirements on Use of Symphony Communication Services](/industry_guidance/industry_letters/il20151013_requirements_use_symphony_services) | General |
+| 2015-08-07 | [Appearance Enhancement Facilities - Wage Payment Surety Bonds](/industry_guidance/industry_letters/il20150807_letter_perales_appearance_enhancement_facilities_wage_payment_surety_bonds) | Insurance |
+| 2015-02-26 | [Guidance for Financial Institutions on Preventing Elder Financial Exploitation](/industry_guidance/industry_letters/il20150226_guidance_preventing_elder_financial_exploitation) | General |
+| 2015-02-15 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20150215_annual_max_check_casher_fee) | Check Cashers |
+| 2014-12-10 | [New Cyber Security Examination Process](/industry_guidance/industry_letters/il20141210_new_cyber_security_exam_process) | Cybersecurity |
+| 2014-12-04 | [Updated Final Guidelines for Bank Lending to Multifamily Properties Under the Community Reinvestment Act](/industry_guidance/industry_letters/il20141204_guidelines_bank_lending_multifamily_properties_cra_updated) | Banking, CRA |
+| 2014-09-16 | [Elimination of Manual Submission of Quarterly Commitment Data by Mortgage Bankers](/industry_guidance/industry_letters/il20140916_elimination_manual_submission) | Mortgage Banking |
+| 2014-02-21 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20140221_annual_max_check_casher_fee) | Check Cashers |
+| 2014-02-06 | [FS-ISAC Participation Recommended For All NYS-Chartered Depository Institutions](/industry_guidance/industry_letters/il20140206_fs_isac_participation) | General |
+| 2013-10-25 | [Recent Amendments to New York General Business Law Affecting Consumer Credit Card Information and Related Notices on Statements](/industry_guidance/industry_letters/il20131025_recent_amend_nygbl_cc_info_notices) | General |
+| 2013-09-26 | [Changes and Clarifications to Pre-Foreclosure Filings with the Department of Financial Services](/industry_guidance/industry_letters/il20130926_changes_clarifications_pff_dfs) | Mortgage Banking |
+| 2013-09-05 | [Guidelines for Bank Lending to Multifamily Properties Under the Community Reinvestment Act](/industry_guidance/industry_letters/il20130905_guidelines_bank_lending_multifamily_properties_cra) | CRA |
+| 2013-07-31 | [CRA Credit in Designated Disaster Areas and the New York Rising Community Reconstruction Program](/industry_guidance/industry_letters/il20130731_cra_credit_disaster_designated_areas_ny_rising_comm_reconstruct_prog) | CRA |
+| 2013-07-03 | [Determination of Subprime Home Loans under Section 6-m of the New York Banking Law](/industry_guidance/industry_letters/il20130703_determination_subprime_home_loans); [Temporary Order](/industry_guidance/enforcement_discipline/ea20130703_determination_subprime_home_loans_temp_order) (PDF)  |  [Extension of Temporary Order](https://www.dfs.ny.gov/industry_guidance/enforcement_discipline/ea20130830_extension_temporary_order_from_20130703) (PDF) | Mortgage Banking |
+| 2013-04-05 | [Reforming Force-placed Insurance](/industry_guidance/industry_letters/il20130405_reforming_force-placed_insurance) | Insurance |
+| 2013-03-19 | [Executive Order #52 and Pre-Foreclosure Notices and Filings with the Department of Financial Services](/industry_guidance/industry_letters/il20130319_eo52_and_preforeclosure_notices_filings with_dfs) | Mortgage Banking |
+| 2013-02-12 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20130212_annual_max_check_casher_fee) | Check Cashers |
+| 2012-10-24 | [Contact Information for Notices Required by Real Property Actions and Proceedings Law § 1303](/industry_guidance/industry_letters/il20121024_contact_info_notices) | General |
+| 2012-02-06 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20120206_annual_max_check_casher_fee) | Check Cashers |
+| 2012-01-04 | [Adoption of amendments to Part 39 of the General Regulations of the Banking Board](/industry_guidance/industry_letters/il120120104_adoption_amendments_part39) | Banking |
+| 2011-12-19 | [Withholding Charges to Borrowers Due to Closing of the Baum Firm](/industry_guidance/industry_letters/il20111219_withholding_charges_to_borrowers_closing_of_baum_firm) | Mortgage Banking |
+| 2011-09-14 | [Notice to Persons First Required to Register as Mortgage Loan Servicers by August 24, 2011 Emergency Adoption of Part 418 of the Superintendent’s Regulations](/industry_guidance/industry_letters/il20110914_notice_to_persons_register_mls_20110824) | Mortgage Banking |
+| 2011-06-16 | [Addition of Statement to Introductory Paragraph of Written Mortgage Application and Part 38.3 of the General Regulations of the Banking Board](/industry_guidance/industry_letters/il20110616_addition_of_statement) | Mortgage Banking |
+| 2011-05-10 | [Deeds-in-Lieu of Foreclosure and § 265-a of the Real Property Law](/industry_guidance/industry_letters/il20110510_deeds_in_lieu_foreclosure_and_sect265a_real_property_law) | Mortgage Banking |
+| 2011-04-29 | [New Interim Federal Rule Regarding the Garnishment of Bank Accounts Containing Federal Benefit Payments](/industry_guidance/industry_letters/il20110429_new_interim_federal_rule) | General |
+| 2011-04-19 | [Foreign Exchange Dealers May be Required to be Licensed as Money Transmitters](/industry_guidance/industry_letters/il20110419_foreign_exchange_dealers) | General |
+| 2011-03-31 | [Money Transmitters with No Physical Presence in New York](/industry_guidance/industry_letters/il20110331_money_transmitters_with_no_physical_presence_ny) | General |
+| 2011-03-17 | [Filing of Quarterly Mortgage Call Report | Nationwide Mortgage Licensing System and Registry (NMLS)](/industry_guidance/industry_letters/il20110317_filing_quarterly_mortgage_call_report_nmls) | Mortgage Banking |
+| 2011-02-18 | [Corporate Credit Unions Update](/industry_guidance/industry_letters/il20110218_corporate_credit_unions_update) | General |
+| 2011-02-08 | [Annual Maximum Check Cashers Fee](/industry_guidance/industry_letters/il20110208_annual_max_check_casher_fee) | General |
+| 2011-02-04 | [Pursuant to New York Banking Law Article 12-E and Part 420 of the Superintendent’s Regulation](/industry_guidance/industry_letters/il20110204_pursuant_nybl_article12e_and_part420_regulation) | Mortgage Banking |
+| 2010-10-28 | [Corporate Credit Unions and the National Credit Union Administration](/industry_guidance/industry_letters/il20101028_corp_credit_unions_and_ncua) | General |
+| 2010-10-26 | [Supplemental Guidance on Procedures For Review and/or Approval of Certain New Products](/industry_guidance/industry_letters/il20101026_supp_guidance_procedures_certain_new_products) | General |
+| 2010-10-20 | [Obligation of Organizations Exempt from Licensing as Mortgage Loan Servicers to Comply with Mortgage Servicer Notice and Conduct of Business Rules](/industry_guidance/industry_letters/il20101020_obligation_orgs_exempt_licensing) | Mortgage Banking |
+| 2010-10-08 | [Request for Mortgage Servicer Review of Foreclosure Practices](/industry_guidance/industry_letters/il20101008_review_foreclosure_practices_incl_verifying_affidavits) | Mortgage Banking |
+| 2010-10-06 | [Industry Letter to Highlight Bank On Manhattan Initiative](/industry_guidance/industry_letters/il20101006_highlight_bank_on_manhattan_initiative) | General |
+| 2010-09-23 | [Alert to Increased Cyber Fraud Through Web-based Payment Services](/industry_guidance/industry_letters/il20100923_alert_increased_cyber_fraud) | Cybersecurity |
+| 2010-07-21 | [Mortgage Loan Originator Licensing](/industry_guidance/industry_letters/il20100721_mlo_licensing) | Mortgage Banking |
+| 2010-03-22 | [Potential CRA and Business Opportunities](/industry_guidance/industry_letters/il20100322_potential_cra_and_business_opps) | General |
+| 2010-02-16 | [Annual Maximum Check Cashers Fee](/industry_guidance/industry_letters/il20100216_annual_max_check_casher_fee) | Check Cashers |
+| 2010-01-08 | [New York Banking Law Article 12-E and Superintendent’s Regulation Part 420 revised draft](/industry_guidance/industry_letters/il20100108_nybl_article12e_and_regulation_part420_revised_draft) | Mortgage Banking |
+| 2009-12-17 | [Article 12-E of the New York Banking Law and Revised Part 420 of the Superintendent’s Regulation](/industry_guidance/industry_letters/il20091217_article_12e_nybl_and_revised_part420_regulations) | Mortgage Banking |
+| 2009-12-15 | [Mortgage Loan Servicers Proposed Business Conduct Rules -- Part 419 of the Superintendent’s Regulations](/industry_guidance/industry_letters/il20091215_mls_proposed_business_conduct_rules_part419_regulations) | Mortgage Banking |
+| 2009-12-15 | [Disclosure of Broker Compensation and Other Fees](/industry_guidance/industry_letters/il20091215_disclosure_broker_compensation_and_other_fees) | Mortgage Banking |
+| 2009-09-10 | [Updates Regarding Exempt Funds](/industry_guidance/industry_letters/il20090910_updates_exempt_funds) | Banking |
+| 2009-02-13 | [Annual Maximum Check Cashers Fee](/industry_guidance/industry_letters/il20090213_annual_max_check_casher_fee) | Check Cashers |
+| 2009-01-28 | [Federal Low Income Housing Tax Credit Program (LIHC)](/industry_guidance/industry_letters/il20090128_federal_lihc) | General |
+| 2009-01-20 | [Amendments Regarding Exempt Funds](/industry_guidance/industry_letters/il20090120_amendments_exempt_funds) | Banking |
+| 2009-01-07 | [Definition of “Spouse” for purposes of the Banking Law](/industry_guidance/industry_letters/il20090107_definition_of_spouse_banking_law) | Banking |
+| 2008-08-27 | [Subprime Lending Reform Bill](/industry_guidance/industry_letters/il20080728_subprime_lending_reform_bill) | Mortgage Banking |
+| 2008-07-10 | [Reporting of Malicious Software Intrusions, Suspicious Websites, Phishing Emails and Lost or Stolen Data (update)](/industry_guidance/industry_letters/il20080710_reporting_multiple_items) | General |
+| 2008-07-09 | [Statutory Prohibitions Against “Tying” Title Insurance to Mortgage Financing](/industry_guidance/industry_letters/il20080709_mlo_licensing) | Mortgage Banking |
+| 2008-06-26 | [Implementation of Community Deposit Program](/industry_guidance/industry_letters/il20080626_implementation_community_deposit_program) | General |
+| 2008-02-15 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20080215_annual_max_check_casher_fee) | Check Cashers |
+| 2008-01-25 | [Tax Preparation Firms Conducting Check Cashing Activity](/industry_guidance/industry_letters/il20080125_tax_preparation_firms_conducting_check_cashing_activity) | General |
+| 2007-12-19 | [Mortgage Loan Originator Authorization](/industry_guidance/industry_letters/il20071219_mlo_authorization) | Mortgage Banking |
+| 2007-12-17 | [VISA Inc. stock offering to members of Visa U.S.A.](/industry_guidance/industry_letters/il20071217_visa_inc_stock_offering_to_members_visa_usa) | General |
+| 2007-10-22 | [New Wildcard Authority Under New York State Banking Law](/industry_guidance/industry_letters/il20071022_new_wild_card_authority_under_nysbl) | General |
+| 2007-07-30 | [Statement on Subprime Mortgage Lending](/industry_guidance/industry_letters/il20070730_statement_subprime_mortgage_lending) | Mortgage Banking |
+| 2007-06-27 | [Sales Finance Companies: Licensing Requirements for Secondary Holders](/industry_guidance/industry_letters/il20070627_sfs_licensing_requirements_secondary_holders) | General |
+| 2007-05-25 | [Guidance Statements on Mortgage Lending Standards](/industry_guidance/industry_letters/il20070525_statement_subprime_mortgage_lending) | Mortgage Banking |
+| 2007-05-24 | [Changes in the billing process for the general assessment for all Mortgage Brokers](/industry_guidance/industry_letters/il20070524_changes_billing_process_gen_assess_mortg_brokers) | [Attachment to Letter to All Mortgage Brokers](/industry_guidance/industry_letters/il20070524_changes_billing_process_gen_assess_mortg_brokers_attach) (PDF) | Mortgage Banking |
+| 2007-02-12 | [Pledged Assets for Well-Rated Foreign Banking Organizations](/industry_guidance/industry_letters/il20070212_pledged_assets_well_rated_fbos) | [Asset Pledge Report for Well Rated Foreign Banking Organizations](/industry_guidance/industry_letters/il20070212_pledged_assets_report_well_rated_fbos) (PDF) | Foreign Banks |
+| 2007-02-12 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20070212_annual_max_check_casher_fee) | Check Cashers |
+| 2007-02-01 | [Home Equity Theft Prevention Act](/industry_guidance/industry_letters/il20070201_home_equity_theft_prevention_act) | Mortgage Banking |
+| 2007-01-10 | [All Institutions Letter Concerning Banking Department Procedures for Review and/or Approval of Certain New Products of Banking Organizations](/industry_guidance/industry_letters/il20070110_approval_certain_new_products_of_banking_orgs) | General |
+| 2006-09-18 | [New York State Department of Labor Issuance of Direct Payment Cards for Unemployment Insurance Benefits](/industry_guidance/industry_letters/il20060918_nysdol_issuance_direct_payment_cards_ui_benefits) | General |
+| 2006-09-13 | [Fair Lending Examinations of Mortgage Brokers](/industry_guidance/industry_letters/il20060913_mb_fair_lending_examinations) | Mortgage Banking |
+| 2006-08-30 | [CashPoint Legal Notice](/industry_guidance/industry_letters/il20060830_legal_notice_cashpoint_default) | General |
+| 2006-08-04 | [Changes in the Banking Law Pertaining to the General Assessment, Expiration and Suspension of a License and Annual Registration Fees](/industry_guidance/industry_letters/il20060804_changes_banking_law) | Mortgage Banking |
+| 2006-07-03 | [New York Flooding Disaster - Guidance Letter](/industry_guidance/industry_letters/il20060703_ serving_bank_customers_affected_by_flooding) | General |
+| 2006-05-00 | [Application Fee Schedule Change](/industry_guidance/industry_letters/il20060501_notice_revised_application_fees) | General |
+| 2006-04-06 | [Best Practices of Multi-Family Lenders](/industry_guidance/industry_letters/il20060406_best_practices_multi_family_lenders) | General |
+| 2006-03-17 | [Motor Vehicle Sales Finance Companies: Prompt Delivery of Certificate of Title](/industry_guidance/industry_letters/il20060317_mv_sfc_prompt_delivery_cert_title) | General |
+| 2006-02-10 | [2006 - Revised Maximum Check Cashing Fee](/industry_guidance/industry_letters/il20060210_annual_max_check_casher_fee) | Check Cashers |
+| 2005-11-30 | [Clarification on Disaster Assistance CRA Guidelines](/industry_guidance/industry_letters/il20051130_clarification_disaster_assistance_cra_guidelines) | General |
+| 2005-10-13 | [Assistance to Victims of the Pakistani Earthquake](/industry_guidance/industry_letters/il20051013_assistance_victims_pakistani_earthquake) | General |
+| 2005-09-02 | [Assistance for the Victims of Hurricane Katrina](/industry_guidance/industry_letters/il20050902_assistance_victims_hurricane_katrina) | General |
+| 2005-08-11 | [Overdraft Protection Programs](/industry_guidance/industry_letters/il20050811_overdraft_protection_programs) | General |
+| 2005-05-09 | [Regulation C - Home Mortgage Disclosure Act Reporting Revisions and NY State Part 41 Loans](/industry_guidance/industry_letters/il20050509_regulation_c) | Mortgage Banking |
+| 2005-05-04 | [Information on 2Q Assessments - Mortgage Bankers](/industry_guidance/industry_letters/il20050504_info_2q_assessments_mortgage_bankers) | Mortgage Banking |
+| 2005-05-04 | [Information on 2Q Assessments - Mortgage Brokers](/industry_guidance/industry_letters/il20050504_info_2q_assessments_mortgage_brokers) | Mortgage Banking |
+| 2005-03-24 | [Budget Planner Surety Bond/Pledge of Assets](/industry_guidance/industry_letters/il20050324_surety_bond_pledge_assets) | General |
+| 2005-03-18 | [2004 VOOR: Failure to File](/industry_guidance/industry_letters/il20050318_2004_voor_failure_to_file) | Mortgage Banking |
+| 2005-02-11 | [Check Clearing for the 21st Century Act and Section 9-m of the Banking Law](/industry_guidance/industry_letters/il20050211_check_clearing_21st_century) | General |
+| 2005-02-07 | [Annual Maximum Check Casher Fee](/industry_guidance/industry_letters/il20050207_annual_max_check_casher_fee) | Check Cashers |
+| 2004-10-29 | [Fair and Accurate Credit Transactions Act](/industry_guidance/industry_letters/il20041029_fair_accurate_credit_transactions_act) | Mortgage Banking |
+| 2004-06-25 | [Part 410 of the Superintendent’s Regulations Application Definition](/industry_guidance/industry_letters/il20040625_part410_application_definition) | Mortgage Banking |
+| 2004-07-01 | [Increased Bond Requirement Effective July 1, 2004](/industry_guidance/industry_letters/il20040608_incr_bond_require_eff_20040701) | Mortgage Banking |
+| 2004-06-30 | [Bank partnerships with supportive housing organizations and agencies](/industry_guidance/industry_letters/il20040630_bank_partnerships_supportive_housing_orgs_and_agencies) | General |
+| 2004-06-04 | [Examination of budget planner activities and fee structure](/industry_guidance/industry_letters/il20040604_exam_budget_planner_activities_and_fee_structure) | General |
+| 2004-04-02 | [Guidance on Debt Cancellation Contracts and Debt Suspension Agreements by State Chartered Banks, Trust Companies, Savings Banks, Savings and Loan Associations, Credit Unions and Licensed Foreign Branches and Agencies](/industry_guidance/industry_letters/il20040402_debt_cancellation_contracts_and_debt_suspension_agreements) | General |
+| 2004-02-13 | [The New York State Banking Department Has Consolidated its Toll Free Help and Complaint Lines into One Number: 1-877-BANK NYS](/industry_guidance/industry_letters/il20040213_consolidation_toll_free_help_and_complaint_lines) | General |
+| 2004-02-02 | [Revised Bond Form and Deposit Agreement - Mortgage Bankers](/industry_guidance/industry_letters/il20040202_revised_bond_form_and_deposit_agreement_mortg_bankers) | Mortgage Banking |
+| 2004-02-02 | [Revised Bond Form and Deposit Agreement - Mortgage Brokers](/industry_guidance/industry_letters/il20040202_revised_bond_form_and_deposit_agreement_mortg_brokers) | Mortgage Banking |
+| 2004-01-31 | [Best Practices for Issuers of Debit Cards-Reissue](/industry_guidance/industry_letters/il20040131_best_practices_issuers_debit_cards_reissue) | General |
+| 2004-01-20 | [Municipal Revenue Bond Underwriting by Banks and Trust Companies](/industry_guidance/industry_letters/il20040120_municipal_revenue_bond_underwriting _banks_trust_companies) | General |
+| 2003-12-29 | [Amendments to Part 410 of the Superintendent's Regulations Concerning New Surety Bond Requirement or Deposit of Assets and Consultants who are Felons.](/industry_guidance/industry_letters/il20031229_mb_amend_part410_concerning_multiple_factors_02) | Mortgage Banking |
+| 2003-12-29 | [Amendments to Part 410 of the Superintendent's Regulations Concerning New Surety Bond Requirement or Deposit of Assets, Documentation, Records and Reporting Requirements and Consultants who are Felons.](/industry_guidance/industry_letters/il20031229_mb_amend_part410_concerning_multiple_factors_01) | Mortgage Banking |
+| 2003-12-24 | [Revisions to New York’s Executive Law Section 296-a](/industry_guidance/industry_letters/il20031224_rev_ny_exec_law_section_296a) | General |
+| 2003-09-26 | [New York's Financial Planning and Awareness Week](/industry_guidance/industry_letters/il20030926_ny_financial_planning_and_awareness_week) | General |
+| 2003-09-18 | [Authority for Banks to Close Absent Governor’s Declaration of Bank Holiday](/industry_guidance/industry_letters/il20030918_authority_banks_to_close_absent_governor_declaration) | General |
+| 2003-09-08 | [Best Practices for the Prevention of Bank Robberies](/industry_guidance/industry_letters/il20030908_best_practices_prevention_bank_robberies) | General |
+| 2003-08-12 | [Employees with Felony Criminal Records, Hazard Insurance, Unlicensed Branch Offices, and Yield Spread Premiums](/industry_guidance/industry_letters/il20030812_mb_employees_multiple_factors) | Mortgage Banking |
+| 2003-07-23 | [ATM Video Retention](/industry_guidance/industry_letters/il20030723_atm_video_retention) | General |
+| 2003-06-16 | [Clarification of Part 14 Notifications and Filings](/industry_guidance/industry_letters/il20030616_clairfication_part14_notifications_filings) | General |
+| 2003-05-28 | [Reporting of Malicious Software Intrusions and Web Site Defacements](/industry_guidance/industry_letters/il20030528_reporting_malicious_software_intrusions_web_site_defacements) | General |
+| 2003-05-08 | [Banking Department Offers Guidance to the Industry Regarding Recent Bank Robberies](/industry_guidance/industry_letters/il20030508_guidance_recent_bank_robberies) | General |
+| 2003-03-24 | [Creditor Negotiations with Budget Planners](/industry_guidance/industry_letters/il20030324_creditor_negotiations_budget_planners) | General |
+| 2003-01-06 | [Guidance on Bank Owned Life Insurance (BOLI) Programs](/industry_guidance/industry_letters/il20030106_guidance_boli_programs) | General |
+| 2002-11-15 | [Examination Questionnaires and Office of the Ombudsman](/industry_guidance/industry_letters/il20021115_exam_questionnaires_office_ombudsman) | General |
+| 2002-03-22 | [Institutions that Engage Arthur Andersen and Contingency Plans for Vendors](/industry_guidance/industry_letters/il20020322_institutions_engage_arthur_andersen_contingency_plans_vendors) | General |
+| 2002-02-19 | [Bank Partnerships with Childcare/Community Development Intermediaries](/industry_guidance/industry_letters/il20020219_bank_partnerships) | General |
+| 2001-12-20 | [Best Practices for Issuers of Debit Cards](/industry_guidance/industry_letters/il20011220_best_practices_issuers_debit_cards) | General |
+| 2001-11-08 | [Check Imaging on Checking Accounts and Basic Banking Accounts](/industry_guidance/industry_letters/il20011108_check_imaging_checking_basic_banking_accts) | General |
+| 2001-11-07 | [Guidance for CRA Credit for Activities in Downtown Manhattan](/industry_guidance/industry_letters/il20011107_guidance_cra_credit_activities_downtown_manhattan) | General |
+| 2001-10-29 | [Compliance with Privacy of Consumer Financial Information](/industry_guidance/industry_letters/il20011029_compliance_privacy_consumer_financial_info) | General |
+| 2001-10-29 | [Update on President Bush's Executive Order Freezing Assets that Support Terrorism](/industry_guidance/industry_letters/il20011029_update_guidance_pres_bush_eo_freezing_assets) | General |
+| 2001-10-09 | [Further Guidance on President Bush's Executive Order Freezing Assets that Support Terrorism](/industry_guidance/industry_letters/il20011009_further_guidance_pres_bush_eo_freezing_assets) | General |
+| 2001-10-02 | [Guidance for Licensed Money Transmitters on President Bush's Executive Order Freezing Assets that Support Terrorism](/industry_guidance/industry_letters/il20011002_guidance_lic_money_transmitters_freezing_assets_pres_bush_eo) | General |
+| 2001-09-27 | [Guidance on President Bush's Executive Order Freezing Assets That Support Terrorism](/industry_guidance/industry_letters/il20010927_guidance_pres_bush_eo_freezing_assets) | General |
+| 2001-09-24 | [Bulletin from the Office of Foreign Assets Control](/industry_guidance/industry_letters/il20010924_bulletin_office_foreign_assets_control) | General |
+| 2001-09-24 | [New York Disaster Guidance Letter Two](/industry_guidance/industry_letters/il20010924_ny_disaster_guidance_letter_two) | General |
+| 2001-09-14 | [New York Disaster Guidance on Serving Customers Affected by the Terrorist Attacks](/industry_guidance/industry_letters/il20010914_ny_disaster_guidance_letter) | General |
+| 2001-07-26 | [Due Diligence Recommendations Concerning the Eligibility of Loan Purchases and Investments for Consideration under the Community Reinvestment Act](/industry_guidance/industry_letters/il20010726_recommend_elig_loan_purchases_investments_under_cra) | CRA |
+| 2001-06-25 | [Consideration under the Community Reinvestment Act of Activities by Limited Purpose Commercial Bank Affiliates of Savings Banks](/industry_guidance/industry_letters/il20010625_consideration_under_cra_activities_lpcb_affiliates_sb) | CRA |
+| 2001-06-04 | [Foreign Branches and Agencies Establishing Operating Subsidiaries - Guidance Letter](/industry_guidance/industry_letters/il20010604_foreign_branches_agencies_subsidiaries_guidance) | Foreign Banks |
+| 2001-04-30 | [Record Retention Requirements of the Federal Electronic Signatures in Global and National Commerce Act](/industry_guidance/industry_letters/il20010430_rec_ret_req_fed_elec_sig_global_national_commerce_act) | General |
+| 2001-02-16 | [Fair Lending Examinations](/industry_guidance/industry_letters/il20010216_mb_fair_lending_exams) | Mortgage Banking |
+| 2001-02-15 | [Indirect Automobile Lending, Advice for Sales Finance Companies](/industry_guidance/industry_letters/il20010215_indirect_auto_lending_advice_sales_finance_companies) | Sales Finance Companies |
+| 2001-02-15 | [Indirect Automobile Lending, Advice for Financial Institutions](/industry_guidance/industry_letters/il20010215_indirect_auto_lending_advice_fin_institutions) | Banking |
+| 2001-01-26 | [Superintendent Elizabeth McCaul issues All Institutions Letter on Internal Controls and Management Stewardship](/industry_guidance/industry_letters/il20010126_internal_controls_mgmt_stewardship) | General |
+| 2000-09-11 | [Letter Pertaining to ATM Video Tape Usage](https://www.dfs.ny.gov/industry_guidance/industry_letters/il20000911_letter_atm_video_tape_usage) | Banking |
+| 2000-08-07 | [Letter Reminding Financial Institutions of the Importance of Strict Compliance with Escheatment Obligations](/industry_guidance/industry_letters/il20000807_strict_compliance_escheatment_obligations) | Banking |
+| 2000-06-13 | [Payday Loans](/industry_guidance/industry_letters/il20000613_payday_loans) | General |
+| 2000-06-01 | [Recording Domain Names](/industry_guidance/industry_letters/il20000601_mb_recording_domain_names) | Mortgage Banking |
+| 2000-02-18 | [Fair Lending Plan-Guidance Letter](/industry_guidance/industry_letters/il20000218_fair_lending_plan_guidelines) | General |
+| 2000-01-31 | [Letter Urging Institutions to Partner with Youth Development Programs Serving Low and Moderate Income Populations](/industry_guidance/industry_letters/il20000131_institutions_partner_youth_devel_programs) | General |
+| 1999-12-21 | [Letter on Know Your Customer Procedures for Electronic Cash Management Services](/industry_guidance/industry_letters/il19991221_know_your_customer_procedures) | General |
+| 1999-07-19 | [Fair Lending Plan Requirements](/industry_guidance/industry_letters/il19990719_fair_lending_plan_requirement) | General |
+| 1999-07-01 | [Mortgage Banking Questionnaire](/industry_guidance/industry_letters/il19990701_mbq) (PDF) | Mortgage Banking |
+| 1999-06-14 | [Disclosing the Termination of Private Mortgage Insurance, Yield Spread Premiums, and Net Branching Guidelines](/industry_guidance/industry_letters/il19990614_disclosing_termination_pmi_et_al) | Mortgage Banking |
+| 1999-06-11 | [Fair Lending Plan Requirement](/industry_guidance/industry_letters/il19990611_fair_lending_plan_requirement) | Mortgage Banking |
+| 1999-02-23 | [Best Practices for ATM Video Tape Usage](/industry_guidance/industry_letters/il19990223_best_prac_atm_video_tape_usage) | Banking |
+| 1999-02-19 | [Streamlined Procedures for Additional Licensed Lender Locations](/industry_guidance/industry_letters/il19990219_streamlined_procedures) | Licensed Lenders |
+| 1998-12-17 | [Advisory Notice on Compliance with ATM Safety Act](/industry_guidance/industry_letters/il19981217_advisory_notice_atm_safety_act) | Banking |
+| 1998-09-18 | [Letter Urging Banks to Help Develop and Support Child Care Programs](/industry_guidance/industry_letters/il19980918_acting_supt_mccaul_urges_banks) | Banking |
+| 1998-08-27 | [Best Practices Letter on Foreclosure Prevention/Mitigation for Affordable Mortgage Lending](/industry_guidance/industry_letters/il19980827_best_practices_letter) and [Foreclosure Prevention/Mitigation for Affordable Mortgage Lending Guide](/industry_guidance/industry_letters/il19980827_foreclosure_prevention_guide) | Mortgage Banking |
+| 1998-08-27 | [Advertising Practices deemed fraudulent, deceitful or misleading](/industry_guidance/industry_letters/il19980827_mb_advertising) | Mortgage Banking |
+| 1998-08-26 | [Fair Lending Policies and Procedures](/industry_guidance/industry_letters/il19980826_mb_fair_lending) | Mortgage Banking |
+| 1998-06-10 | [Letter to Foreign Banks Clarifying Need for Branch, Agency or Representative Office Applications as a Result of a Merger or Consolidation](/industry_guidance/industry_letters/il19980610_foreign_bank_corp_letter) | General |
+| 1997-12-05 | [Mortgage Banker/Broker Branches](/industry_guidance/industry_letters/il19971205_mb_banker_broker_branches) | Mortgage Banking |
+| 1997-12-01 | [Year 2000 Survey](/industry_guidance/industry_letters/il19971201_mb_yr2000_survey) | Mortgage Banking |
+| 1997-03-11 | [Responsibilities of the Banking and Brokering Industry](/industry_guidance/industry_letters/il19970311_mb_responsibilities_banking_brokering) | Mortgage Banking |
+| 1996-09-30 | [Guidelines for New York State Chartered Banks and Trust Companies Engaging in Insurance Sales Activities](/industry_guidance/industry_letters/il19960930_guidance_insurance_sales_activities) | General |
+| 1996-09-25 | [The Year 2000 EDP Survey](/industry_guidance/industry_letters/il19960925_yr2000_edp_survey) | General |
+| 1996-09-25 | [Banking Law Section 351 - Licensed Lenders, Annual Fees on Open-End Loans](/industry_guidance/industry_letters/il19960925_bl_sect351) | General |
+| 1996-00-00 | [Securing Approval of the Superintendent to Use Certain Prohibited Names in a Proposed Business Title](/industry_guidance/industry_letters/il1996_word_approval) | General |
+| 1996-08-22 | [Vacation Policy](/industry_guidance/industry_letters/il19960822_vacation_policy) | General |
+| 1996-06-00 | [June 1996 Report on Foreign Banks in New York](/industry_guidance/industry_letters/il199606_foreign_banks_ny) | Foreign Banks |
+| 1996-05-28 | [Mortgage Fraud](/industry_guidance/industry_letters/il19960528_mb_mortgage_fraud) | Mortgage Banking |
+| 1996-01-23 | [Residential Mortgage Lending Fees](/industry_guidance/industry_letters/il19960123_mb_res_mort_lending_fees) | Mortgage Banking |

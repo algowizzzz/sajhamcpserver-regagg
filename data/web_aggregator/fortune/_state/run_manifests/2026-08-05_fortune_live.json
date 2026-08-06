@@ -1,0 +1,27 @@
+{
+  "run_id": "2026-08-05_fortune_live",
+  "regulator_id": "fortune",
+  "logical_date": "2026-08-05",
+  "trigger": "schedule",
+  "detected": 10,
+  "fetched": 10,
+  "ingested": 10,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://fortune.com/2026/08/03/electric-air-taxis-joby-aviation-evtols-archer-aviation/",
+    "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/",
+    "https://fortune.com/2026/08/05/spacex-created-a-new-class-of-ultrawealthy-heres-what-comes-next/",
+    "https://fortune.com/2026/08/05/ken-griffin-citadel-zohran-mamdani-new-york-tax/",
+    "https://fortune.com/2026/08/05/spacex-lockup-expiration-index-inclusion-bailout-luria/",
+    "https://fortune.com/2026/08/05/robot-mistakes-trust-brain-study/",
+    "https://fortune.com/2026/08/05/spacex-rockets-global-cargo-delivery/",
+    "https://fortune.com/2026/08/05/iran-hackers-water-systems-plc-breach/",
+    "https://fortune.com/2026/08/05/college-athlete-pay-coaches-salaries-nil/",
+    "https://fortune.com/2026/08/05/cdc-erica-schwartz-confirmation/"
+  ],
+  "duration_s": 0.211
+}

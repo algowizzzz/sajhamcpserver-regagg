@@ -1,0 +1,112 @@
+# Vérifiez si vous êtes visé par la Loi et ses règlements connexes
+
+Répondez aux questions ci-dessous pour déterminer si vos activités en tant qu'administrateur hypothécaire, courtier ou prêteur sont visées par la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et ses règlements connexes.
+
+**Remarque :** Les descriptions des activités ci-dessous peuvent différer d'autres définitions ou seuils établis dans une législation provinciale pour votre secteur d'activité. Par exemple, même si votre législation provinciale définit un seuil d'opérations ou des conditions vous dispensant de remplir certaines obligations provinciales, il est possible que vous répondiez « Oui » à certaines des questions ci-dessous et que vous ayez donc à respecter des obligations prévues par la Loi et ses règlements connexes.
+
+1. Recevez-vous des paiements liés à un prêt hypothécaire pour le compte d'un prêteur?
+
+* Oui
+* Non
+
+  2. Remettez-vous à un prêteur des paiements liés à un prêt hypothécaire?
+
+  + Oui
+  + Non
+
+    3. Veillez-vous à l'exécution de paiements effectués par un emprunteur dans le cadre d'un prêt hypothécaire?
+
+    - Oui
+    - Non
+
+      4. Traitez-vous des renouvellements hypothécaires?
+
+      * Oui
+      * Non
+
+        5. Produisez-vous des relevés hypothécaires?
+
+        + Oui
+        + Non
+
+          6. Effectuez-vous toutes autres activités de service pour un prêt hypothécaire sur immeubles ou biens réels pour le compte de prêteurs?
+
+          - Oui
+          - Non
+
+            7. Prêtez-vous des fonds garantis par hypothèques sur immeubles?
+
+            * Oui
+            * Non
+
+              8. Participez-vous à l'octroi de prêts résidentiels ou commerciaux garantis par des immeubles?
+
+              + Oui
+              + Non
+
+                9. Approuvez-vous ou refusez-vous des demandes de prêts hypothécaires?
+
+                - Oui
+                - Non
+
+                  10. Souscrivez-vous des prêts garantis par des immeubles?
+
+                  * Oui
+                  * Non
+
+                    11. Exercez-vous des activités semblables à l'octroi de prêts garantis par hypothèques sur immeubles ou biens réels?
+
+                    + Oui
+                    + Non
+
+                      12. Êtes-vous titulaire d'un permis délivré par une autorité provinciale vous autorisant à exercer des activités de courtier hypothécaire?
+
+                      - Oui
+                      - Non
+
+                        13. Demandez-vous à une autre personne ou entité de pouvoir emprunter ou prêter de l'argent garanti par des immeubles?
+
+                        * Oui
+                        * Non
+
+                          14. Fournissez-vous de l'information sur un emprunteur potentiel à un prêteur hypothécaire potentiel?
+
+                          + Oui
+                          + Non
+
+                            15. Évaluez-vous un emprunteur potentiel pour le compte d'un prêteur hypothécaire potentiel ou dans le but de remettre son dossier à au moins un prêteur hypothécaire?
+
+                            - Oui
+                            - Non
+
+                              16. Négociez-vous ou établissez-vous un prêt hypothécaire pour le compte d'une autre personne ou entité, ou tentez-vous de le faire?
+
+                              * Oui
+                              * Non
+
+                                17. Détenez-vous un permis ou une autorisation en vertu d'une législation provinciale pour exercer des activités pour lesquelles l'on pourrait considérer que vous agissez « en qualité d'intermédiaire entre un prêteur et un emprunteur à l'égard de prêts garantis par hypothèques sur immeubles ou biens réels »?
+
+                                + Oui
+                                + Non
+
+---
+
+## Résultat
+
+Selon vos réponses, nous concluons que vous **n'êtes pas** assujetti à la Loi. Dans le cadre de ses efforts de sensibilisation au sein de votre secteur d'activité, CANAFE pourrait vous envoyer une demande de renseignements ou une lettre vous informant de son intention de procéder à une activité de supervision afin de corroborer notre constat.
+
+Références juridiques
+
+* Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, L.C. 2000, ch. 17
+  + Article 63.1
+
+---
+
+## Résultat
+
+Selon vos réponses, vous êtes une entité (déclarante) visée par la Loi.
+
+Nous vous invitons à consulter les [directives de CANAFE pour le secteur des prêts hypothécaires](/re-ed/mortgage-hypotheque-fra) afin d'en savoir davantage sur vos obligations, notamment la mise en place d'un programme de conformité et la transmission de déclarations à CANAFE.
+
+Date de modification :
+:   2024-09-11

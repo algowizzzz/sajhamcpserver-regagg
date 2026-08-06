@@ -1,0 +1,26 @@
+{
+  "doc_id": "1a6800e34e9fe481",
+  "regulator_id": "apra",
+  "doc_type": "announcement",
+  "title": "Quarterly authorised deposit-taking institution statistics",
+  "language": "en",
+  "source_url": "https://www.apra.gov.au/news-and-publications/quarterly-authorised-deposit-taking-institution-statistics",
+  "reference_number": null,
+  "published_date": "2026-06-29",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:81bc9d06ef9de32323bb2a3744da8b5b2c920ea0a1550da362ccf2051662bf4f",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_apra_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/apra/current/announcement/2026/1a6800e34e9fe481",
+  "tags": [
+    "australia",
+    "prudential",
+    "banking",
+    "insurance"
+  ]
+}

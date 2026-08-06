@@ -1,0 +1,7 @@
+# Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion
+
+'Most people don’t want pervert glasses that can film us without our consent,' said a spokesperson from activist group Everyone Hates Elon. The group has launched a series of guerilla adverts deriding non-consensual filming by the glasses as well as an email campaign encouraging people to legally object to being filmed by Meta glasses under general data protection regulations, which over 20,000 people have signed. Rights groups have warned that the glasses threaten the right to privacy, while countries such as Germany are reportedly considering a ban. And while Meta’s safety guidelines say smart glasses should not be used for 'harassment, infringing on privacy rights, or capturing sensitive information', women have taken to social media to share their stories of being filmed by men without their consent. Watch as Guardian columnist and Opinion editor Kirsty Major dives into why fears of surveillance and 'creepy men' mean Meta can never convince her to love the glasses – and read more about the glasses via the link in the bio Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

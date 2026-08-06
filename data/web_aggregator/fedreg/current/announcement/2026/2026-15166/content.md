@@ -1,0 +1,5 @@
+# Agency Information Collection Activities: Notice of Intent To Extend Collection; 3038-0097; Process for Review of Swaps for Mandatory Clearing
+
+The Commodity Futures Trading Commission ("Commission" or "CFTC") is announcing an opportunity for public comment on the proposed renewal of a collection of certain information by the agency. Under the Paperwork Reduction Act ("PRA"), Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of an existing collection of information, and to allow 60 days for public comment. This notice solicits comments on reporting and recordkeeping requirements relating to information management requirements for derivatives clearing organizations.
+
+> Full text pending: source page is bot-gated; this is the official API abstract.

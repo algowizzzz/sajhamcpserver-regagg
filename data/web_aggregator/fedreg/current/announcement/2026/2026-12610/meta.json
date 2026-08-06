@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12610",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Alpha Summit Strategic Alternatives Fund and SteelPeak Wealth, LLC",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/23/2026-12610/alpha-summit-strategic-alternatives-fund-and-steelpeak-wealth-llc",
+  "reference_number": "2026-12610",
+  "published_date": "2026-06-23",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:529dc878d1d3cf1505ae0257f3c5cc29473ece83ff5b3766a316829f5de2022b",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12610",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

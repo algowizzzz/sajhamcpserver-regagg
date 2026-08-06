@@ -1,0 +1,1 @@
+Summary: ![Two businessmen review information on an tablet.](/sites/default/files/styles/blog_main_image_desktop/public/media/images/outcomes-monitoring-blog.jpg.jpg?itok=y5Jb80HR)

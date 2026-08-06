@@ -1,0 +1,1 @@
+Summary: Today, [the Central Bank of Ireland](https://www.centralbank.ie/news/article/statement-on-cbl-insurance-europe-dac) issued a direction to CBLIE instructing it to cease writing business with immediate effect, until further notice.

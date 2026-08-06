@@ -1,0 +1,33 @@
+# BSIF-657 – Relevé sur les coordonnées de l’organisation
+
+**Type de publication :** Instructions  
+**Date :** Version 2015
+
+## Lois habilitantes
+
+L’information fournie dans ce relevé est exigée en vertu de l’une ou l’autre des dispositions législatives suivantes, ou de plusieurs d’entre elles : articles 628 et 950 de la *Loi sur les banques*, article 495 de la *Loi sur les sociétés de fiducie et de prêt*, articles 664 et 993 de la *Loi sur les sociétés d’assurances*, article 431 de la *Loi sur les associations coopératives de crédit*.
+
+## Applicabilité
+
+Ce relevé s’applique sans exception aux institutions financières fédérales, aux bureaux de représentation étrangers et aux régimes de retraite privés.
+
+## Objet
+
+Ce relevé doit être utilisé pour signaler toute modification de l’adresse postale générale, du numéro de téléphone général et du numéro de télécopieur général et des adresses de courriel d’urgence de votre organisation. Il doit aussi être utilisé pour modifier votre préférence linguistique et l’adresse du site Web de votre organisation. **Tous les champs** de ce relevé sont **obligatoires**. Ce relevé exige également qu’une adresse courriel générale figure au profil de votre organisation.
+
+Toutes les institutions financières fédérales doivent aussi utiliser ce relevé pour fournir les autres renseignements généraux indiqués sous « Renseignements généraux (IFF) » du profil de l’organisation.
+
+Les bureaux de représentation étrangers doivent également utiliser ce relevé pour indiquer le nombre de leurs employés.
+
+Il n’est pas permis de soumettre une nouvelle version de ce type de relevé dans le SDR. Si vous constatez une erreur dans votre profil, notamment une date d’entrée en vigueur erronée, vous devez téléphoner à l’Administration des relevés pour la signaler.
+
+Ce rapport est assujetti au *Cadre de pénalité pour production tardive ou erronée* uniquement dans le cas des institutions financières fédérales.
+
+## Échéancier
+
+Ce relevé doit être produit dans le 30 jours suivant la date d’entrée en vigueur de la modification.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2015-07-07

@@ -1,0 +1,1 @@
+Summary: # China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs

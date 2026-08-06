@@ -1,0 +1,28 @@
+# Media contacts
+
+Our media relations team responds to calls and emails that come from the media only. They’ll answer calls or emails on the next working day if they’re sent outside of our hours of operation or on statutory holidays.
+
+### Hours of operation
+
+* Monday to Friday, 9 am to 5 pm (Eastern time)
+
+### Contact information
+
+* Email: [Media-Medias@osfi-bsif.gc.ca](mailto:Media-Medias@osfi-bsif.gc.ca)
+* Phone: 343-550-9373
+
+### Inquiries from the public
+
+If you’re not a journalist and have a comment or a question, please visit our [Contact us](/en/contact-us "Contact us") page.
+
+![](/sites/default/files/styles/responsive_tabled_medium/public/2023-06/kane-reinholdtsen-letdkk7whqk-unsplashop_1.jpg?itok=fHNjVwkE)
+
+* [News releases](/en/news?search=&type=5&date=&field_topics=All&items_per_page=5)
+* [Media advisory](/en/news?search=&type=10&year=&field_topics=All&field_speakers=&items_per_page=5)
+* [Speeches](/en/news?search=&type=4&year=&field_topics=All&field_speakers=&items_per_page=5)
+* [Statements](/en/news?search=&type=5&year=&field_topics=All&field_speakers=&items_per_page=5&page=1)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-01-18

@@ -1,0 +1,24 @@
+{
+  "doc_id": "3a8f2a5a30154f30",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "News | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/news",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:bbf7e2a31a7cae82b73d6d885c3302a7452d941c9cef52d96d5e1b4592bfe105",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/3a8f2a5a30154f30",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

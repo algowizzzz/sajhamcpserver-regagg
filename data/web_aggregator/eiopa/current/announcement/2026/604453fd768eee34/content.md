@@ -1,0 +1,20 @@
+Page Content
+
+The European Insurance and Occupational Pensions Authority (EIOPA) has published today a consultation paper on draft Regulatory Technical Standards adapting the base euro amounts for professional indemnity insurance (PII) and for financial capacity of intermediaries under the Insurance Distribution Directive (IDD).
+
+Holding the required level of PII is a key prudential and consumer protection safeguard. EIOPA is required under the IDD to develop draft Regulatory Technical Standards, which adapt the base euro amounts for PII and financial capacity of insurance intermediaries.
+
+Based on a review carried out by EIOPA, which takes account of changes in Eurostat's European index of consumer prices, the proposed new amounts are EUR 1 300 370 and EUR 1 924 550 for the PII and EUR 19 510 for the financial capacity. EIOPA has to submit the draft Regulatory Technical Standards to the European Commission by 30 June 2018.
+
+The aim of this consultation is to gather feedback on professional indemnity insurance and minimum financial capacity as well as the draft Regulatory Technical Standards.
+
+EIOIPA therefore welcomes comments to the consultation from all interested parties by 27 April 2018.
+
+Details on how to submit comments are included in the consultation paper. Comments must be sent using the template provided to the specified email address before the deadline. Any comments that are submitted without using the template, to a different email address or after the deadline will not be processed.
+
+The consultation paper and the template for comments can be viewed [here](/Pages/Consultations/Consultation-Paper--on--the-proposal-for--Regulatory-Technical-Standards-adapting-the-base-euro-amounts-for-professional-in.aspx?prefLang=en).
+
+Contributions received will be published on EIOPA's website following the end of the consultation period.
+
+Publication date
+:   1 February 2018

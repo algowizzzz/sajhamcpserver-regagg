@@ -1,0 +1,110 @@
+# The OSFI story
+
+The Office of the Superintendent of Financial Institutions is an independent agency of the Government of Canada. We regulate and supervise approximately 350 financial institutions and 1,200 pension plans.
+
+Federally regulated institutions include:
+
+* all banks in Canada
+* all federally incorporated trust and loan companies
+* insurance companies
+* fraternal benefit societies
+* private pension plans
+
+Check out [Who we regulate](https://open.canada.ca/data/en/dataset/b27ec3ef-7338-4e76-a6fd-128339a92df5) for the full list of institutions we're responsible for.
+
+For a list of important events in OSFI's history, see [our timeline](/en/our-timeline "Our timeline").
+
+## Our mandate
+
+Our purpose is to contribute to public confidence in the Canadian financial system by regulating and supervising approximately 350 federally regulated financial institutions (FRFIs) and 1200 federally regulated pension plans (FRPPs).
+
+Our mandate is to:
+
+* ensure FRFIs and FRPPs remain in sound financial condition
+* ensure FRFIs protect themselves against threats to their integrity and security, including foreign interference
+* act early when issues arise and require FRFIs and FRPPs to take necessary corrective measures without delay
+* monitor and evaluate risks and promote sound risk management by FRFIs and FRPPs
+
+In exercising our mandate:
+
+* for FRFIs, we strive to protect the rights and interests of depositors, policyholders and financial institution creditors while having due regard for the need to allow FRFIs to compete effectively and take reasonable risks
+* for FRPPs, we strive to protect the rights and interests of pension plan members, former members and entitled beneficiaries
+
+## How we regulate and supervise financial institutions and pension plans
+
+We are a principles-based regulator. We use our regulatory framework to guide the goals of safety and soundness. This allows federally regulated financial institutions to operate in a competitive marketplace.
+
+We regulate by:
+
+* developing guidance
+* interpreting legislation and regulations
+* providing regulatory approvals for certain types of transactions
+* contributing to new accounting, auditing and actuarial standards
+
+We supervise institutions by:
+
+* analyzing financial and economic trends to detect issues
+* assessing financial conditions, non-financial and material risks
+* evaluating quality of governance, risk management and compliance
+
+## Our role and benefits to Canada
+
+We play an important oversight role, but we don’t manage federally regulated financial institutions. Our goal is to balance both:
+
+* competitiveness with financial stability
+* international standards with Canadian market realities
+
+Our regulation and supervision activities contribute to public confidence in the Canadian financial system.
+
+We’re funded through fees paid by regulated entities, not by Canadian taxpayers’ money.
+
+## Our partners
+
+We report to Parliament through the Minister of Finance. There are many processes to ensure the effective execution of our mandate. The [Financial Institutions Supervisory Committee](/en/about-osfi/osfi-story/financial-institutions-supervisory-committee "Financial Institutions Supervisory Committee: Oversight of Canada’s Financial System") is one of them.
+
+Along with us, the other members of this committee are the:
+
+* Department of Finance
+* Bank of Canada
+* Financial Transactions and Reports Analysis Centre of Canada
+* Canada Deposit Insurance Corporation
+* Financial Consumer Agency of Canada
+
+We meet quarterly to share information about the supervision of federally regulated financial institutions.
+
+## Our values and critical success factors
+
+The [Values and Ethics Code for the Public Sector](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=25049) represent what we believe in, what we stand for, and what we expect of OSFI employees. These core principles guide our actions and decision-making processes in support of our priorities and overall success. By committing to these values and ethics and conducting ourselves in accordance with these expected behaviours, we strengthen our culture and contribute to the integrity of public institutions.
+
+To help us fulfil our mandate and uphold our values, we have 3 critical success factors that are the basis of our business model and how we approach our work. These success factors are at the heart of our organizational culture and enable us to thrive in uncertainty:
+
+* grit
+* urgency
+* integrity
+
+We foster a culture of resiliency and determination, and we are committed to embracing challenges with grit, integrity, and urgency. We are also deeply committed to diversity, equity and inclusion. Our [2024-2027 Strategic Plan](/en/about-osfi/reports-publications/strategic-plan-2024-2027/priority-3-culture "Priority 3: Culture") has more information about OSFI’s culture.
+
+## Our international context
+
+International organizations play a key role in the development of regulatory frameworks. They create a strong and stable global financial system. These organizations include:
+
+* the Financial Stability Board
+* the Basel Committee on Banking Supervision
+* the International Association of Insurance Supervisors
+
+We’ve earned a strong international reputation with our active participation with these organizations.
+
+## Office of the Chief Actuary
+
+The Office of the Chief Actuary is an independent unit within OSFI that provides actuarial valuation and advisory services to the federal government.
+
+See the [Office of the Chief Actuary’s website](/en/oca "Office of the Chief Actuary") for more information on their reports and role.
+
+## Related links
+
+* [About OSFI (video)](/en/about-osfi/multimedia-library/about-office-superintendent-financial-institutions "About the Office of the Superintendent of Financial Institutions")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2026-07-22

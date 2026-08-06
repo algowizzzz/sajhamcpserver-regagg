@@ -1,0 +1,1 @@
+Summary: # Joint Industry Plan; Order Approving the Second Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Amended by Amendment No. 1 and Modified by the Commission, To Adopt a Fee Schedule

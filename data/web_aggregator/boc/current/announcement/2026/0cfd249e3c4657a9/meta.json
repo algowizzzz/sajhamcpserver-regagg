@@ -1,0 +1,24 @@
+{
+  "doc_id": "0cfd249e3c4657a9",
+  "regulator_id": "boc",
+  "doc_type": "announcement",
+  "title": "Interest Rate Announcement",
+  "language": "en",
+  "source_url": "https://www.bankofcanada.ca/2026/12/interest-rate-announcement-december-9-2026/",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3c2bdb248a1a0b037ef71134bc208009154fce67c98ab9260c1675c3f3414f89",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_boc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/boc/current/announcement/2026/0cfd249e3c4657a9",
+  "tags": [
+    "canada",
+    "central_bank"
+  ]
+}

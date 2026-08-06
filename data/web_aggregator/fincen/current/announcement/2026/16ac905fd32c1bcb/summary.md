@@ -1,0 +1,1 @@
+Summary: # Whether a Company that Provides an Armored Car Coin and Currency Exchange Service is a Money Transmitter and Whether the Armored Car Service Exemption Would Apply to the Service

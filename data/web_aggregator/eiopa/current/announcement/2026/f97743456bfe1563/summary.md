@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published a consultation paper on a second set of Advice for the review of the Solvency Capital Requirement (SCR) of Solvency II as foreseen in the Directive and its Delegated Acts. This consultation focuse

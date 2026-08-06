@@ -1,0 +1,7 @@
+# Democracy is at stake when foolish humans bet on machines being intelligent | Rafael Behr
+
+We need an enlightened US president to make the case for global AI regulation. Donald Trump is the exact opposite of what is needed When I am woken by the sound of my dog whining, I understand that she is hungry and wants me to get up. When my alarm clock goes off, I don’t consider its needs. It is following an instruction to rouse me at a certain time but it doesn’t care if I stay in bed. It doesn’t try to get me up by other means. The dog, on the other hand, will go to plan B. She barks. This capacity for autonomous action was once a difference between animals and machines. AI has blurred the line . Advanced models devise their own strategies to reach a goal. The task might be defined by a human master, but the machine weighs its options for delivery. It can make its own choices. Given rules, it can break them. Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/commentisfree/2026/aug/05/ai-regulation-donald-trump-artificial-intelligence)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

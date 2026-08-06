@@ -1,0 +1,24 @@
+{
+  "doc_id": "29f8bbe3215c9ead",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Suspicious Activity Reports Identify Transactions Linked to Embezzlement of a Tribal Authority | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/suspicious-activity-reports-identify-transactions-linked",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e4ea08a8d53fb57d8b15877d728bc7b107411261688b73f82fd9f2e22ab59bdd",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/29f8bbe3215c9ead",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

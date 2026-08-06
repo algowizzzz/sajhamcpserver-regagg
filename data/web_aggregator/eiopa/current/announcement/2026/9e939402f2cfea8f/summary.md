@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its [Discussion Paper on Systemic Risk and Macroprudential Policy in Insurance](/document/download/25eb36d7-cef9-4f1c-8201-2ad944ed76ae_en?filename=Discussion%20Paper%20-%20Systemic%20Risk%20and%2

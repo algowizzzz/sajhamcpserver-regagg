@@ -1,0 +1,80 @@
+# Changement de dénomination — entité étrangère
+
+Information
+
+Type de document
+
+Instructions relatives aux opérations
+
+Catégorie
+
+Opérations sans présomption d'agrément
+
+Dernière révision
+
+Juillet 2017
+
+Index A No
+
+6
+
+## Fondement législatif
+
+* Paragraphe 528(1.1) de la [Loi sur les banques](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/) (LB)
+* Article 576 de la [Loi sur les sociétés d’assurances](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/) (LSA)
+
+## Exigences en matière d’information
+
+De façon générale, le requérant doit fournir :
+
+1. la dénomination sociale complète de l’entité étrangère (EE);[Note de bas de page 1](#fnb1)
+2. la dénomination que l’EE entend utiliser au Canada, en français, en anglais, ou dans les deux langues (le cas échéant), accompagnée d’un rapport de recherche de noms[Note de bas de page 2](#fnb2) et d’une analyse pour appuyer la conclusion à l’effet que la dénomination proposée :
+
+   1. est disponible aux fins d’utilisation au Canada;
+   2. n’est pas interdite aux termes de la LB ou de la LSA, selon le cas, et qu’elle est conforme aux exigences des autres lois canadiennes pertinentes, y compris les lois pertinentes régissant les institutions financières;
+3. quand la dénomination de l’EE proposée est en grande partie la même que celle d’une entité du même groupe :
+
+   1. le consentement écrit de cette entité ou de la société mère qui contrôle les entités du groupe, au nom de cette entité, pour utiliser la dénomination;[Note de bas de page 3](#fnb3)
+   2. une description des facteurs d’atténuation déjà en place, ou des mesures d’atténuation que l’EE a l’intention d’instaurer, pour éviter une éventuelle confusion sur le marché;
+4. quand la demande est faite suite au changement de dénomination de l’EE dans son territoire d’origine et que l’EE souhaite utiliser sa nouvelle dénomination sociale au Canada, une copie certifiée du document qui a donné effet au changement de nom, conformément aux lois du territoire de constitution ou de création de l’EE.
+
+## Consignes administratives
+
+1. Il convient de souligner que d’autres renseignements et(ou) agréments pourraient être exigés si une demande de changement de dénomination d’une EE est soumise en raison d’une fusion ou d’un regroupement. Dans ce cas, le requérant est fortement encouragé à communiquer avec la Division des affaires réglementaires du BSIF avant de présenter une demande.
+2. Lors de l’évaluation d’une demande en vertu du fondement législatif, le BSIF tiendra habituellement compte des facteurs énoncés dans le préavis 2002-01-R1 [Dénominations sociales, noms autorisés et noms commerciaux](/fr/consignes/repertoire-consignes/denominations-sociales-noms-autorises-noms-commerciaux "Dénominations sociales, noms autorisés et noms commerciaux") (le préavis).
+3. En ce qui a trait aux exigences en matière d’information décrites au point 2 des « Exigences en matière d’information » ci-dessus, il convient de souligner que le BSIF s’attend à ce que l’analyse du requérant :
+
+   1. démontre que la dénomination proposée est conforme à chacun des facteurs énoncés dans le préavis;
+   2. identifie toutes les dénominations apparaissant dans le rapport de recherche de dénominations soumis qui sont utilisées ou détenues à titre de propriétaire par une entité membre du groupe de sociétés du requérant;
+   3. identifie et décrive les autres noms commerciaux, marques de commerce ou leurs composantes, d’une autre entité du même groupe de sociétés que le requérant qui seront partagés avec la dénomination proposée de l’EE ou qui en feront partie.
+4. Veuillez prendre note que l’agrément ne confère pas en lui-même de droit à l’égard des dénominations sociales ou commerciales qui ont pu exister au moment où l’agrément a été accordé, mais qui ne figuraient pas dans le rapport de recherche de dénominations ou qui ne semblaient pas susceptibles d’engendrer de confusion au moment de l’étude de la demande. De même, l’agrément d’une dénomination ne protégera peut-être pas l’EE contre des marques de commerce antérieures ou subséquentes d’autres personnes ou entités. Pour obtenir de plus amples renseignements sur la protection des dénominations sociales, consulter le site Web d’Industrie Canada à l’adresse [http://www.strategis.ic.gc.ca](http://www.strategis.ic.gc.ca/).
+5. Les demandes d’agrément(s) visées dans le présent document ne sont pas assujetties à des frais de service.[Note de bas de page 4](#fnb4)
+
+*Les exigences en matière d’information et les directives administratives visent à satisfaire à tous les genres de demandes types. Elles ont été élaborées à partir de la vaste expérience du BSIF au chapitre de l’évaluation des demandes. Les requérants qui fournissent toute l’information et tous les documents nécessaires peuvent s’attendre à ce que leurs demandes soient évaluées plus rapidement. Selon les circonstances, le BSIF peut exiger des renseignements supplémentaires, prendre en compte d’autres questions, imposer des conditions ou exiger des engagements.*
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   Fournir la dénomination sociale complète telle qu’elle figure dans les documents constitutifs.
+
+    [Retour à la référence de la note de bas de page 1](#fnb1-ref)
+
+Note de bas de page 2
+:   Le BSIF acceptera un rapport Nuans de recherche de dénominations comportant une liste de noms d’entreprises et de marques de commerce qui ressemblent à la dénomination proposée. Si l’EE exerce des activités au Québec, l’EE doit également fournir une recherche dans la base de données des sociétés du Québec du Registraire des entreprises. Si l’EE propose d’utiliser une version bilingue française et anglaise de la dénomination sociale, un rapport de recherche de dénominations et une analyse correspondante doivent être fournis à l’égard des deux versions de la dénomination.
+
+    [Retour à la référence de la note de bas de page 2](#fnb2-ref)
+
+Note de bas de page 3
+:   Voir l’alinéa 530(1)*c*) de la LB et l’alinéa 575(1)*c*) et le paragraphe 575(2) de la LSA.
+
+    [Retour à la référence de la note de bas de page 3](#fnb3-ref)
+
+Note de bas de page 4
+:   Voir le  [*Règlement de 2002 sur les droits à payer pour les services du Bureau du surintendant des institutions financières*](http://laws-lois.justice.gc.ca/fra/reglements/DORS-2002-337/index.html).
+
+    [Retour à la référence de la note de bas de page 4](#fnb4-ref)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-01-17

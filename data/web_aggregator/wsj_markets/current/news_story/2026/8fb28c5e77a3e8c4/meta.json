@@ -1,0 +1,25 @@
+{
+  "doc_id": "8fb28c5e77a3e8c4",
+  "regulator_id": "wsj_markets",
+  "doc_type": "news_story",
+  "title": "The Dividend Mind Trick",
+  "language": "en",
+  "source_url": "https://www.wsj.com/finance/stocks/the-dividend-mind-trick-f330526f?mod=rss_markets_main",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5e245c60ec7860650f3d0cd28accd2399789daa060a2597a11e1a7e459644ede",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_wsj_markets_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/wsj_markets/current/news_story/2026/8fb28c5e77a3e8c4",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.wsj.com/finance/stocks/the-dividend-mind-trick-f330526f?mod=rss_markets_main",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,43 @@
+# Operation Cheque Mate
+
+[045.pdf](/system/files/case_example/045.pdf "045.pdf")
+(21.49 KB)
+
+Operation Cheque Mate was initiated in June 2002, after an Immigration and Customs Enforcement source provided information about a United Kingdom-based organization defrauding United States futures and securities firms. This source led to the discovery of many Suspicious Activity Reports which assisted the investigation. The two main United Kingdom operatives utilized stolen, altered or false identification to establish an online trading relationship with United States brokerage firms (small firms were preferred targets of the organization).
+
+As part of the scheme, a United States-based operative obtained legitimate cashier’s checks issued by banks in nominal amounts. Once the checks were obtained, the organization would alter or duplicate the checks, changing the amount, pay-to-order, and serial number information. The altered values of the checks ranged from $61,000 - $600,000. After the cashier’s checks were altered, the United States-based operatives submitted signed account applications and fraudulent checks to the targeted firm via the United States mail. Under normal circumstances, a firm would not allow the account holder to trade until the check cleared (normally a 10-day check clearing period). This organization chose smaller firms, who would waive the 10-day check-clearing period in order to entice the business of customers. With the trading account established and the fraudulent checks credited to their accounts, the United Kingdom-based organization would request trading to begin immediately.
+
+Before the end of the 10-day period, the United Kingdom-based organization would request a wire-transfer of profits to a foreign bank account in the United Kingdom, Spain and/or Argentina. Once a check was returned or identified as counterfeit, the brokerage firm incurred losses in trading fees, as well as any losses related to trading activity.
+
+Over 50 firms were affected by this scheme, with total losses estimated in excess of $250,000. Without early detection and the combined and coordinated efforts of law enforcement and the private sector, losses could have exceeded $15 million.
+
+Operation Cheque Mate involved the combined law enforcement and regulatory efforts of the Immigration and Customs Enforcement-led New York El Dorado Task Force, Immigration and Customs Enforcement Attachés in London and Paris, London Metropolitan Police (New Scotland Yard), Interpol, the Commodity Futures Trading Commission and the Securities and Exchange Commission. Private sector cooperation included: the Securities Industry Association, the National Futures Association, and over 50 additional private sector companies and associations.
+
+Twenty individuals have been implicated in this investigation, and thirteen individuals have been indicted on a combination of charges to include bank fraud, conspiracy, concealment and international money laundering and operating an illegal money services business. Four individuals plead guilty to a combination of the previously mentioned charges, and a fifth individual was convicted of bank fraud and conspiracy following the trial.
+
+(Source: Immigration and Customs Enforcement)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 9, October 2005]
+
+Tags
+
+Broker Dealers
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

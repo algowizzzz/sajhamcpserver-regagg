@@ -1,0 +1,1 @@
+Summary: # Life Insurance Capital Adequacy Test (LICAT) 2025 – Letter

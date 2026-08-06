@@ -1,0 +1,1060 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="fr" dir="ltr" class="no-js"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="fr" dir="ltr" class="no-js">
+<!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="1. Introduction Le BSIF a désigné un relevé aux fins de l’appel de données du Relevé des normes de fonds propres de Bâle (RNFPB). Ce relevé doit être soumis au BSIF au moyen du système de base de données tripartite, le Système de déclaration réglementaire (SDR). Le présent document met en évidence la disposition et le format du fichier technique de ce relevé. Bibliographie Veuillez noter que le « XX » dans l’année indique le début de la prochaine période de rapport financier. Vous pouvez télécharger ces fichiers à l’adresse suivante :" />
+<link rel="canonical" href="https://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-normes-fonds-propres-bale-rnfpb-faq-specifications-techniques" />
+<meta name="generator" content="OSFI_BSIF_WCMS" />
+<meta name="dcterms.title" content="Relevé des normes de fonds propres de Bâle (RNFPB) FAQ – Spécifications techniques" />
+<meta name="dcterms.creator" content="Bureau du surintendant des institutions financières" />
+<meta name="dcterms.description" content="1. Introduction Le BSIF a désigné un relevé aux fins de l’appel de données du Relevé des normes de fonds propres de Bâle (RNFPB). Ce relevé doit être soumis au BSIF au moyen du système de base de données tripartite, le Système de déclaration réglementaire (SDR). Le présent document met en évidence la disposition et le format du fichier technique de ce relevé. Bibliographie Veuillez noter que le « XX » dans l’année indique le début de la prochaine période de rapport financier. Vous pouvez télécharger ces fichiers à l’adresse suivante :" />
+<meta name="dcterms.language" content="fra" title="ISO639-2/T" />
+<meta name="dcterms.issued" content="2023-12-02" title="W3CDTF" />
+<meta name="dcterms.modified" content="2025-10-08" title="W3CDTF" />
+<meta name="dcterms.accessRights" content="2" />
+<meta name="dcterms.service" content="OSFI-BSIF_BSIF-OSFI" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<noscript><link rel="stylesheet" href="/libraries/wet-boew/css/noscript.min.css" />
+</noscript><script src="//assets.adobedtm.com/be5dfd287373/0127575cd23a/launch-f7c3e6060667.min.js" type="text/javascript" async></script>
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<style media="all and (max-width: 767px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_xs/public/2023-06/Data-Forms_Bannerop.jpg?itok=TK7chxB5') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 768px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_sm/public/2023-06/Data-Forms_Bannerop.jpg?itok=w5bU0jh7') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 992px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_md/public/2023-06/Data-Forms_Bannerop.jpg?itok=tXTRo7Nu') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<style media="all and (min-width: 1200px)">.site-section.banner {background-image:  url('/sites/default/files/styles/narrow_banner_lg/public/2023-06/Data-Forms_Bannerop.jpg?itok=P120HHfB') ;background-size: cover ;-webkit-background-size: cover ;-moz-background-size: cover ;-o-background-size: cover ;}</style>
+<link rel="icon" href="/themes/custom/osfi_wxt/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/basel-capital-adequacy-reporting-bcar-faq-technical-specification" />
+<link rel="alternate" hreflang="fr" href="https://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-normes-fonds-propres-bale-rnfpb-faq-specifications-techniques" />
+
+    <title>Relevé des normes de fonds propres de Bâle (RNFPB) FAQ – Spécifications techniques | Bureau du surintendant des institutions financières</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_lqv37ywceaZLCd63U-1TBcPsPKHRIazjAI7mU35Z1sU.css?delta=0&amp;language=fr&amp;theme=osfi_wxt&amp;include=eJx1UAsOwiAMvRCDI5EC3awDutDq9PbinMmSadJ_X14_UJUCq4OPtyO3YgLE2St3Wdwh9hS5mjhjIuXmqSasGjLH2R1iwzKSXx_qug58x9YooRh5imLpfILmTriK26wtnG4ZzYrhPdvt3sIVHqdi5LKwkJ7hmLH0DWxCBcpilafpB-sXVlAEpv99XpS4yqm_vWdPfGBW0QaLO1VMv91nCg3a0-mlkw5T7KgXpNOQXA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css__2dOEwOCqcIpvSQ2Lm6TZtfrq1jws1EjKBOGO3ZrvNk.css?delta=1&amp;language=fr&amp;theme=osfi_wxt&amp;include=eJx1UAsOwiAMvRCDI5EC3awDutDq9PbinMmSadJ_X14_UJUCq4OPtyO3YgLE2St3Wdwh9hS5mjhjIuXmqSasGjLH2R1iwzKSXx_qug58x9YooRh5imLpfILmTriK26wtnG4ZzYrhPdvt3sIVHqdi5LKwkJ7hmLH0DWxCBcpilafpB-sXVlAEpv99XpS4yqm_vWdPfGBW0QaLO1VMv91nCg3a0-mlkw5T7KgXpNOQXA" />
+
+    <script src="/modules/contrib/adobe_launch/js/adobe_launch_dtm_init.js?til2gg"></script>
+
+  </head>
+  <body class="lang-fr node-1912 path-node page-node-type-data-and-forms has-glyphicons osfi-wxt theme-gcweb">
+    <nav>
+      <ul id="wb-tphp">
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-cont">
+            Passer au contenu principal
+          </a>
+        </li>
+        <li class="wb-slc">
+          <a class="wb-sl" href="#wb-info">
+            Passer à « À propos de ce site »
+          </a>
+        </li>
+      </ul>
+    </nav>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    <header class="navbar navbar-default" id="navbar">
+    <div id="wb-bnr" class="container-fluid padded-sm">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <img class="canada-signature" src="/libraries/theme-gcweb/assets/sig-blk-fr.svg" alt="Gouvernement du Canada" height="30">
+        </div>
+        <div class="col-xs-12 col-sm-6 text-right">
+            <div class="region region-topbar">
+    
+<section id="block-osfi-wxt-customsearchblock" class="wb-srch block block-ngage-search block-ngage-search-block clearfix" data-block-plugin-id="ngage_search_block">
+  
+      <h2 class="wb-inv">Recherche</h2>
+    
+
+      <form action="/fr/node/648" method="get" class="search-form form-inline" role="search">
+  <div class="form-item form-group">
+    <label for="wb-srch-q" class="sr-only">Saisissez vos mots-clés</label>
+    <input type="search" placeholder="Recherchez le site Web" name="search-keys" id="wb-srch-q" class="search-input form-control" />
+  </div>
+  <button id="wb-srch-sub"><span class="sr-only">soumettre</span></button>
+</form>
+  </section>
+<section class="language-switcher-language-url wb-lng block block-wxt-library block-wxt-language-blocklanguage-interface clearfix" id="block-osfi-wxt-languageswitcher" data-block-plugin-id="wxt_language_block:language_interface">
+  
+      <h2 class="wb-inv">Sélection de la langue</h2>
+    
+
+      <ul class="links list-inline mrgn-bttm-0">                    <li><a href="/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/basel-capital-adequacy-reporting-bcar-faq-technical-specification" class="language-link" lang="en" hreflang="en" data-drupal-link-system-path="node/1912"><span class="hidden-xs">English</span><abbr title="English" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase">en</abbr></a></li></ul>
+  </section>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+      <div class="region region-branding container-fluid">
+    <div class="row wb-eqht-grd grow">
+        <a class="main-site col-xs-12 col-sm-8 col-md-9 no-padding-x" href="/fr" title="Accueil" rel="home">
+    <span class="logo col-sm-2 padded-sm hght-inhrt">
+      <img src="/themes/custom/osfi_wxt/logo-fr.svg" alt="Accueil" />
+    </span>
+    <span class="name navbar-text padded-sm hght-inhrt col-sm-10">Bureau du surintendant des institutions financières</span>
+  </a>
+  <a class="cross-site-link navbar-btn col-sm-4 col-md-3 padded-sm hidden-xs" href="/fr/bac" title="Bureau de l&#039;actuaire en chef">Bureau de l&#039;actuaire en chef</a>
+  
+    </div>
+  </div>
+
+
+    <div class="clearfix navbar-header visible-xs">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse">
+        Menu
+        <span class="icon-wrapper">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </span>
+      </button>
+    </div>
+    <div class="clearfix navbar-collapse collapse" id="navbar-collapse">
+        <nav aria-labelledby="block-osfi-wxt-main-menumainmenu" id="block-osfi-wxt-main-menu" data-block-plugin-id="system_menu_block:main">
+            <h2 class="sr-only hidden" id="block-osfi-wxt-main-menumainmenu">Main navigation</h2>
+
+      
+              <ul role="menu" class="nav navbar-nav">
+                            
+              <li role="presentation">
+        <a href="/fr/risques" role="menuitem" title="Risques" data-drupal-link-system-path="node/750">Risques</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/consignes" role="menuitem" title="Consignes" data-drupal-link-system-path="node/379">Consignes</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/surveillance" role="menuitem" title="Surveillance" data-drupal-link-system-path="node/217">Surveillance</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/consultations" role="menuitem" title="Consultations" data-drupal-link-system-path="node/223">Consultations</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/donnees-formulaires" role="menuitem" title="Données et formulaires" data-drupal-link-system-path="node/752">Données et formulaires</a>
+                  </li>
+                        
+              <li role="presentation">
+        <a href="/fr/carrieres" role="menuitem" title="Carrières" data-drupal-link-system-path="node/209">Carrières</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      <a class="cross-site-link navbar-btn padded-sm visible-xs" href="/fr/bac" title="Bureau de l&#039;actuaire en chef">Bureau de l&#039;actuaire en chef</a>
+    </div>
+  </header>
+
+  <div class="region region-banner clearfix">
+    
+<div class="views-element-container block block-views block-views-blocksite-section-block-1 clearfix" id="block-views-block-site-section-block-1" data-block-plugin-id="views_block:site_section-block_1">
+  
+    
+
+      <div class="form-group"><div class="bg-img parallax view view-site-section view-id-site_section view-display-id-block_1 js-view-dom-id-d06e8c09b01fa7ac6b2fb4ed858e03eb2ccfc77cd74d323b8b0238c0d5f8e4ec" id="site_section-block_1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="site-section banner vertical-padding">
+    <div class="container">
+        <div class="row">
+            
+              <div class="col-xs-12">
+                <p class="h1">Données et formulaires</p>
+              </div>
+            
+            
+            <div class="field field--name-field-image field--type-image field--label-hidden field--item"></div>
+      
+        </div>
+    </div>
+</div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+        <div class="region region-breadcrumb">
+            <nav id="wb-bc" property="breadcrumb" aria-labelledby="breadcrumbTitle">
+      <h2 id="breadcrumbTitle">Vous êtes ici</h2>
+      <ol class="breadcrumb">
+                              <li >
+                              <a href="/fr" title="Accueil">Accueil</a>
+                          </li>
+                      <li >
+                              <a href="/fr/donnees-formulaires" title="Données et formulaires">Données et formulaires</a>
+                          </li>
+                      <li >
+                              <a href="/fr/donnees-formulaires/rapports-releves" title="Rapports et relevés">Rapports et relevés</a>
+                          </li>
+                      <li >
+                              <a href="/fr/donnees-formulaires/rapports-releves/produire-releve-financier" title="Produire un relevé financier">Produire un relevé financier</a>
+                          </li>
+                      <li >
+                              <a href="/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers" title="Guides de production des relevés financiers">Guides de production des relevés financiers</a>
+                          </li>
+                      <li  class="active">
+                              Relevé des normes de fonds propres de Bâle (RNFPB) FAQ – Spécifications techniques
+                          </li>
+                        </ol>
+    </nav>
+  
+
+  </div>
+
+  
+      <div class="highlighted clearfix"></div>
+  
+
+    <main property="mainContentOfPage"  class="full-width js-quickedit-main-content">
+
+                <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>  
+
+
+
+
+  <article class="data-and-forms full clearfix">
+
+        <div class="container">
+      
+      <h1 id="wb-cont" class="text-center clearfix">
+<span>Relevé des normes de fonds propres de Bâle (RNFPB) FAQ – Spécifications techniques</span>
+</h1>
+      
+    </div>
+  
+    
+        <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="wb-tabs ignore-session">
+            <div class="tabpanels">
+                      
+<details  id="tab-information">
+  <summary>Information</summary>
+    
+<div  class="info-grid wb-eqht-grd grow clearfix">
+    
+<div  class="col-xs-12 col-sm-8 info-left">
+    
+  <div class="field field--name-field-publication-type field--type-entity-reference field--label-inline">
+    <div class="field--label">Type de document </div>
+              <div class="field--item">FAQ</div>
+          </div>
+
+  <div class="field field--name-field-industry field--type-entity-reference field--label-inline">
+    <div class="field--label">Secteur</div>
+              <div class="field--item">Institutions de dépôt</div>
+          </div>
+
+  <div class="field field--name-field-return field--type-entity-reference field--label-inline">
+    <div class="field--label">Relevé</div>
+              <div class="field--item">Relevé des normes de fonds propres de Bâle (RNFPB)</div>
+          </div>
+
+  <div class="field field--name-field-last-updated field--type-string field--label-inline">
+    <div class="field--label">Dernière révision</div>
+              <div class="field--item">26 février 2024</div>
+          </div>
+
+  </div>
+  </div>
+  </details>
+      
+
+  
+      
+      
+  <details class="field field--name-field-related-documents field--type-link field--label-above" id="field-related-documents">
+    <summary class="field--label">Documents connexes</summary>
+    <div class="details-wrapper">
+      			<ul>
+									<li class="field--item">
+						<a href="/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-normes-fonds-propres-bale-rnfpb-2026">
+							Relevé des normes de fonds propres de Bâle (RNFPB) 2026
+						</a>
+					</li>
+							</ul>
+		    </div>
+  </details>
+
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+          <div class="content">
+      
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden container body-wrapper">
+    <div class="row">
+      <div class="col-xs-12"><h2 id="toc1.0">1. Introduction</h2>
+
+<p>Le BSIF a désigné un relevé aux fins de l’appel de données du Relevé des normes de fonds propres de Bâle (RNFPB). Ce relevé doit être soumis au BSIF au moyen du système de base de données tripartite, le Système de déclaration réglementaire (SDR). Le présent document met en évidence la disposition et le format du fichier technique de ce relevé.</p>
+
+<h3>Bibliographie</h3>
+
+<p>Veuillez noter que le « XX » dans l’année indique le début de la prochaine période de rapport financier.</p>
+
+<p>Vous pouvez télécharger ces fichiers à l’adresse suivante&nbsp;:</p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="47106247-7e65-4bff-bd9e-c816aabb807d" href="/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-normes-fonds-propres-bale-rnfpb-2026" title="Relevé des normes de fonds propres de Bâle (RNFPB) 2026">Relevé des normes de fonds propres de Bâle (RNFPB) (BA)</a></p>
+
+<h2 id="toc2.0">2. Concepts et termes de base</h2>
+
+<p>Dans cette section, nous expliquons un certain nombre de concepts et de termes liés à la façon dont les données sont organisées dans un fichier de données du relevé. Nous décrivons d’abord la façon de lire le nouveau gabarit du RNFPB, puis nous passons aux enregistrements des dimensions et des mesures. Ensuite, ces concepts sont liés aux types d’enregistrements, qui spécifient un regroupement d’enregistrements dimensionnels que vous fournirez dans votre fichier de données du relevé.</p>
+
+<p>Le changement le plus important apporté au fichier de données du relevé est qu’il utilise le format XML plutôt que le format .dat existant. Le langage de balisage extensible (XML) vous permet de définir et de stocker des données de manière partageable. XML prend en charge l’échange d’information entre les systèmes informatiques comme les sites Web, les bases de données et les applications de tiers.</p>
+
+<h3 id="toc2.1">2.1. Comment lire les nouveaux gabarits du RNFPB</h3>
+
+<p>Le RNFPB peut être divisé en deux concepts&nbsp;: le format conventionnel de la collecte des données et le format dimensionnel de la collecte des données.</p>
+
+<p>Les cellules conventionnelles sont celles où doit figurer une valeur dans un seul emplacement ou une seule cellule.</p>
+
+<p>Il n’y a pas de dimensionnalité supplémentaire. Elles sont identifiées par des numéros d’adresse de point de données (APD) à quatre ou cinq chiffres.</p>
+
+<p>À titre d’exemple, citons l’APD&nbsp;1001, qui figure au tableau&nbsp;10.010 et désigne le ratio de fonds propres de catégorie&nbsp;1 (%). La représentation de ces APD de quatre ou cinq chiffres demeure la même dans la nouvelle définition du RNFPB.</p>
+
+<p>Les cellules dimensionnelles ne sont pas rattachées à un numéro unique. Ce sont celles où figurent une combinaison de codes de dimensions et une mesure. Les cellules ne sont pas numérotées individuellement.</p>
+
+<h2 id="toc3.0">3. Dimensions, mesures et catégories d’information (types d’enregistrements)</h2>
+
+<h3 id="toc3.1">3.1. Dimensions</h3>
+
+<p>Une dimension est une liste de catégories opérationnelles qui sont regroupées sous un seul concept opérationnel. Le RNFPB comporte huit dimensions, comme l’indique la liste ci-dessous. Il convient de noter que le cadre de double défaut (DD) constituait auparavant une dimension, mais qu’il n’est plus déclaré.</p>
+
+<p>Identifiant de dimension</p>
+
+<ul>
+	<li>Type d’approche (APPROACH_TYPE)</li>
+	<li>Catégorie d’exposition&nbsp; (EXP_CL)</li>
+	<li>Type de risque (RISK_TYPE)</li>
+	<li>Type d’actions (EQUITY_TYPE)</li>
+	<li>Type d’exposition (EXP_TYPE)</li>
+	<li>Tranche de PD (PD)</li>
+	<li>Coefficient de pondération du risque (RISK_WEIGHT)</li>
+	<li>Pays (COUNTRY)</li>
+</ul>
+
+<h3 id="toc3.2">3.2. Codes de dimension</h3>
+
+<p>Les codes de dimension correspondent aux valeurs spécifiques associées à chaque dimension. Chaque code de dimension est identifié par une étiquette et un identifiant de dimension.</p>
+
+<p>Par exemple, les codes de dimension suivants font partie de la catégorie d’exposition, mais sans s’y limiter.</p>
+
+<ul>
+	<li>Expositions sur les emprunteurs souverains (106)</li>
+	<li>Expositions sur les entités du secteur public (ESP) (120)</li>
+	<li>Expositions sur les banques multilatérales de développement (BMD) (121)</li>
+	<li>Expositions sur les banques (à l’exclusion des obligations sécurisées) (107)</li>
+</ul>
+
+<p>Le nombre de codes de dimension utilisés peut changer à chaque cycle de gestion interne.</p>
+
+<p>On trouvera la liste complète de tous les codes de dimension et de leur utilisation ici&nbsp;:</p>
+
+<p>BSIF, «&nbsp;Spécifications techniques – à compter du TX 20XX&nbsp;», feuille de calcul Microsoft Excel, publication non classifiée du BSIF.</p>
+
+<h3 id="toc3.3">3.3. Mesures</h3>
+
+<p>Les mesures sont des adresses ou des cellules précises qui représentent une valeur qui doit être déclarée.</p>
+
+<p>Habituellement, une mesure est une cellule unique comportant une combinaison valide de codes de dimension.</p>
+
+<p>On trouvera la liste complète de toutes les mesures et de leur utilisation ici&nbsp;:</p>
+
+<p>BSIF, «&nbsp;Spécifications techniques – à compter du TX 20XX&nbsp;», feuille de calcul Microsoft Excel, publication non classifiée du BSIF.</p>
+
+<h3 id="toc3.4">3.4. Catégories de renseignements (types d’enregistrement)</h3>
+
+<p>Le BSIF est chargé de recueillir et d’évaluer plusieurs catégories générales de renseignements. Chaque catégorie de renseignements est définie par un ensemble de dimensions et de mesures.</p>
+
+<p>Veuillez noter que l’enregistrement de type&nbsp;025 n’est plus recueilli.</p>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-invisible">Types d’enregistrement</caption>
+	<thead>
+		<tr>
+			<th class="align-left align-bottom" scope="col">Type d’enregistrement</th>
+			<th class="align-left align-bottom" scope="col">Description</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>005</td>
+			<td>Méthode standard de calcul des actifs pondérés en fonction du risque de crédit</td>
+		</tr>
+		<tr>
+			<td>010</td>
+			<td>Expositions déclarées selon l’approche générale NI</td>
+		</tr>
+		<tr>
+			<td>015</td>
+			<td>Le financement spécialisé est une sous catégorie des expositions sur entreprises à l’égard de laquelle l’institution déclarante ne satisfait pas aux exigences d’estimation de la PD et à laquelle elle ne peut appliquer les formules de pondération en fonction du risque. L’institution doit alors utiliser une approche de classement prudentiel pour calculer les actifs pondérés en fonction du risque.</td>
+		</tr>
+		<tr>
+			<td>030</td>
+			<td>Dans les catégories des expositions sur les entreprises et sur la clientèle de détail, les débiteurs rachetés admissibles font l’objet d’un traitement particulier selon lequel les actifs pondérés en fonction des risques sont calculés séparément pour le risque de défaut et le risque de dilution.</td>
+		</tr>
+		<tr>
+			<td>035</td>
+			<td>Les mesures relatives aux créances achetées admissibles à un traitement spécial sont saisies dans ce type d’enregistrement ainsi que dans les créances achetées.</td>
+		</tr>
+		<tr>
+			<td>040</td>
+			<td>Les prêts hypothécaires inversés font l’objet d’un régime spécial au regard des normes de fonds propres énoncé dans le préavis <cite>Régime de fonds propres visant les prêts hypothécaires inversés</cite>.</td>
+		</tr>
+		<tr>
+			<td>045</td>
+			<td>Prêts hypothécaires inversés à déduire des fonds propres, comme l’indique le préavis <cite>Régime de fonds propres visant les prêts hypothécaires inversés</cite></td>
+		</tr>
+		<tr>
+			<td>050</td>
+			<td>Exigence relative à la réserve contracyclique</td>
+		</tr>
+		<tr>
+			<td>055</td>
+			<td>Réserve contracyclique pour les PMB de catégorie III</td>
+		</tr>
+	</tbody>
+</table></div>
+
+<p>On trouvera la liste complète de toutes les mesures et de leur utilisation ici&nbsp;:</p>
+
+<p>BSIF, «&nbsp;Spécifications techniques – à compter du TX 20XX&nbsp;», feuille de calcul Microsoft Excel, publication non classifiée du BSIF.</p>
+
+<h3 id="toc3.5">3.5. Combinaisons non valides (trous)</h3>
+
+<p>Une combinaison non valide connue sous le nom de trou est un cas où une valeur n’est pas requise. Cela ne s’applique qu’au RNFPB pour le moment, mais pourrait être éventuellement étendu à d’autres relevés. Un trou est identifié par une cellule grise.</p>
+
+<p><strong>Trous de mesure&nbsp;</strong>– Un trou de mesure est une cellule unique où une valeur n’est pas requise.</p>
+
+<p><strong>Trous dimensionnels&nbsp;</strong>– Un trou dimensionnel est une série de trous de mesure pouvant apparaître ou non dans le tableau. Souvent, le trou dimensionnel n’apparaît pas. Dans l’exemple du tableau 40.050, le type d’enregistrement&nbsp;005 est défini comme regroupant plusieurs types d’expositions (EXP_TYPE), mais seulement trois sont affichés pour la saisie des données&nbsp;:</p>
+
+<ul>
+	<li>Types d’expositions (EXP_TYPE) = Engagements utilisés (501)</li>
+	<li>Types d’expositions (EXP_TYPE) = Engagements inutilisés (502)</li>
+	<li>Types d’expositions (EXP_TYPE) = Autres éléments hors bilan (505)</li>
+</ul>
+
+<p>Plusieurs types d’exposition ne sont pas requis pour ce tableau&nbsp;:</p>
+
+<p>À noter que Type d’exposition (EXP_TYPE)= Transaction assimilable à des pensions (503) est absent du tableau&nbsp;40.150&nbsp;– Type d’enregistrement&nbsp;005, bien qu’il figure sur la liste des valeurs permises.</p>
+
+<p>Étant donné qu’aucune valeur n’est requise pour toute la gamme de mesures pour ce type d’exposition, il ne figure tout simplement pas au tableau. S’il y figurait, toutes ses valeurs seraient en grisé. C’est un trou dimensionnel.</p>
+
+<p>Ne soumettez pas de données pour les trous de mesure ou les trous dimensionnels, sinon vous recevrez un message d’erreur de validation.</p>
+
+<h2 id="toc4.0">4. Exigences de présentation</h2>
+
+<p>Les sections suivantes décrivent la disposition du fichier d’extraction du RNFPB requise par le SDR.</p>
+
+<h3 id="toc4.1">4.1. Type de fichier et convention de désignation des fichiers</h3>
+
+<p>Le RNFPB soumis est recueilli en format XML.</p>
+
+<p>XML prend en charge l’échange d’information entre les systèmes informatiques comme les sites Web, les bases de données et les applications de tiers.&nbsp;</p>
+
+<p>Il n’y a aucune exigence quant au nom du fichier à soumettre.</p>
+
+<p>Un fichier XSD et un exemple de fichier XML sont disponibles sur le site Web du BSIF. Une définition de schéma XML (XSD) est un document-cadre qui définit les règles et les contraintes des documents XML.</p>
+
+<p>On trouvera ici la liste exacte de l’ensemble des types d’enregistrement, dimensions, codes de dimension et mesures&nbsp;:</p>
+
+<p>BSIF, «&nbsp;Spécifications techniques – à compter du TX 20XX&nbsp;», feuille de calcul Microsoft Excel, publication non classifiée du BSIF.</p>
+
+<h3 id="toc4.2">4.2. Structure des fichiers de présentation – Points de données conventionnels</h3>
+
+<p>Lorsque vous créez un fichier de présentation pour une APD classique à quatre ou cinq chiffres, veuillez noter ce qui suit&nbsp;:</p>
+
+<ol>
+	<li>
+	<p>Déterminez le point de données pour lequel vous souhaitez soumettre une valeur. Voir&nbsp;:</p>
+
+	<p>BSIF, «&nbsp;RNFPB de 20XX – à compter du TX 20XX&nbsp;», feuille de calcul Microsoft Excel, publication non classifiée du BSIF.</p>
+	</li>
+	<li>Par exemple, le point de données&nbsp;5615 se trouve dans le tableau&nbsp;10.050 (Cellule D27).</li>
+	<li>Dans le document «&nbsp;RNFPB en XML – à compter du TX 20XX&nbsp;», à des fins d’exemple seulement, la valeur représente le numéro du point de données.</li>
+	<li>Les balises autour de la valeur identifient le numéro du point de données par la formule&nbsp;«&nbsp;_x003&nbsp;» + premier chiffre du point de données + soulignement + 3 ou 4&nbsp;autres chiffres du point de données&nbsp;».</li>
+</ol>
+
+<pre>
+   <code>
+35 &lt;_x0035_615&gt;
+36   &lt;value&gt;5615&lt;/value&gt;
+37 &lt;/_x0035_615&gt;
+</code></pre>
+
+<div class="clear">&nbsp;</div>
+
+<ol start="5">
+	<li>Dans le document XSD RNFPB (RNFPB en XSD – à compter du TX 20XX), cette valeur de balise peut être liée au XSD pour trouver des détails comme le type de données et la hiérarchie des autres éléments parents.</li>
+</ol>
+
+<pre>
+   <code>
+82633 &lt;xs:element minOccurs="0" maxOccurs="1" name="BA-6"&gt;
+82634   &lt;xs:annotation&gt;
+82635    &lt;xs:documentation&gt;BA-6&lt;/xs:documentation&gt;
+82636  &lt;/xs:annotation&gt;
+82637  &lt;xs:complexType&gt;
+82638     &lt;xs:all&gt;
+82639      &lt;xs:element minOccurs="0" maxOccurs="1" name="_x0035_615"&gt;
+82640         &lt;xs:annotation&gt;
+...
+82642        &lt;/xs:annotation&gt;
+82643        &lt;xs:complexType&gt;
+82644          &lt;xs:complexContent mixed="false"&gt;
+82645            &lt;xs:extension base="Whole_x0020_Number"&gt;
+</code>
+</pre>
+
+<div class="clear">&nbsp;</div>
+
+<h3 id="toc4.3">4.3. Structure des fichiers de présentation – Points de données dimensionnels</h3>
+
+<p>La section de présentation dimensionnelle du XML peut être créée et définie en suivant la même logique que les présentations conventionnelles.</p>
+
+<ol>
+	<li>
+	<p>Déterminez la plage dimensionnelle pour laquelle vous souhaitez soumettre des données.</p>
+
+	<p>BSIF, «&nbsp;RNFPB de 20XX – à compter du TX 20XX&nbsp;», feuille de calcul Microsoft Excel, publication non classifiée du BSIF.</p>
+	</li>
+	<li>Dans le tableau 40.010, nous savons que nous souhaitons soumettre des données pour les codes dimensionnels suivants&nbsp;:
+	<ul>
+		<li>Type d’enregistrement&nbsp;= 005&nbsp;(Cellule de référence A4)</li>
+		<li>Catégorie d’exposition&nbsp;= Emprunteurs souverains (106) (Cellule de référence A3)</li>
+		<li>Type d’exposition&nbsp;= Engagements inutilisés (502) (Cellule de référence A20)</li>
+		<li>Coefficient de pondération du risque = 20&nbsp;% coté (804) (Cellule de référence A22) Mesure&nbsp;= Montant de principal notionnel (M12) (Cellule de référence B7)</li>
+	</ul>
+	</li>
+	<li>L’exemple de fichier XML du RNFPB en XML – à compter du TX 20XX peut être examiné pour voir comment les éléments sont présentés sur les lignes 18191, 18199, 18202.</li>
+</ol>
+
+<p>Exemple de fichier XML du RNFPB, indiquant les balises XML que voici&nbsp;: à la ligne 18191, balise d’une valeur autour de 106, à la ligne 18199, balise d’une valeur autour de 502, à la ligne 18202, balise d’une valeur autour de 804, et à la ligne 18205, balise d’une valeur autour de 120.</p>
+
+<pre>
+   <code>
+18187 &lt;BCAR&gt;
+18188   &lt;_x0030_05&gt;
+18189     &lt;_x0030_05_x0020_Repeat_x0020_Group&gt;
+18190       &lt;EXP_CL&gt;
+18191         &lt;value&gt;106&lt;/value&gt;
+18192       &lt;/EXP_CL&gt;
+18193       &lt;Standardized&gt;
+18194         &lt;StandardizedTable&gt;
+...
+18197        &lt;StandardizedTable_x0020_Repeat_x0020_Group&gt;
+18198              &lt;EXP_TYPE&gt;
+18199                &lt;value&gt;502&lt;/value&gt;
+18200      &lt;/EXP_TYPE&gt;
+18201               &lt;RISK_WEIGHT&gt;
+18202                 &lt;value&gt;804&lt;/value&gt;
+18203       &lt;/RISK_WEIGHT&gt;
+18204       &lt;M12&gt;
+18205                  &lt;value&gt;120&lt;/value&gt;
+18206       &lt;/M12&gt;
+18207       &lt;M13&gt;
+18208         &lt;value&gt;130&lt;/value&gt;
+18209       &lt;/M13&gt; 
+</code>
+</pre>
+
+<div class="clear">&nbsp;</div>
+
+<p>Dans le document XSD du RNFPB (RNFPB en XSD – à compter du TX 20XX), cette valeur de balise peut être liée au XSD pour trouver des détails comme le type de données et la hiérarchie des autres éléments parents. Par exemple, les lignes 154318 et 154324. La hiérarchie peut être différente pour chaque type d’enregistrement.</p>
+
+<p>RNFPB en XSD – à compter du TX 20XX</p>
+
+<p>Dans le document RNFPB XSD, indiquant les balises XML que voici &nbsp;: à la ligne 154318, &lt;xs:element minOccurs=“0” maxOccurs=“1” name=“EXP_CL”&gt;, et à la ligne 154324, &lt;xs:extension base=“EXP_CL”&gt;.</p>
+
+<pre>
+   <code>
+154311  &lt;xs:all&gt;
+154312    &lt;xs:element minOccurs="0" maxOccurs="1" name="_x0030_05"&gt;
+154313      &lt;xs:complexType&gt;
+154314        &lt;xs:sequence minOccurs="0" maxOccurs="unbounded"&gt;
+154315          &lt;xs:element minOccurs="1" maxOccurs="1" name="_x0030_05_x0020_Repeat_x0020_Group"&gt;
+154316        &lt;xs:complexType&gt;
+154317       &lt;xs:all&gt;
+154318         &lt;xs:element minOccurs="0" maxOccurs="1" name="EXP_CL"&gt;
+154319        &lt;xs:annotation&gt;
+154320          &lt;xs:documentation&gt;BCAR Exposure Classes / RNFPB - Catégories d'exposition&lt;/xs:documentation&gt;
+154321        &lt;/xs:annotation&gt;
+154322        &lt;xs:complexType&gt;
+154323          &lt;xs:complexContent mixed="false"&gt;
+154324         &lt;xs:extension base="EXP_CL"&gt;
+154325           &lt;xs:attribute default="item" name="type" /&gt;
+154326         &lt;/xs:extension&gt;
+154327       &lt;/xs:complexContent&gt;
+154328        &lt;/xs:complexType&gt;
+154329      &lt;/xs:element&gt;
+154330        &lt;xs:element minOccurs="0" maxOccurs="1" name="Standardized"&gt;
+154331          &lt;xs:annotation&gt;
+154332         &lt;xs:documentation&gt;Standardized&lt;/xs:documentation&gt;
+154333       &lt;/xs:annotation&gt;
+154334       &lt;xs:complexType&gt;
+154335         &lt;xs:all&gt;               
+</code>
+</pre>
+
+<div class="clear">&nbsp;</div>
+
+<h2 id="toc5.0">5. Foire aux questions</h2>
+
+<dl>
+	<dt><b>Q: Que faire si je n’ai rien à soumettre pour un point de données ou une mesure en particulier?</b></dt>
+	<dd>
+	<p>R : Si, par exemple, vous ne souhaitez pas soumettre de valeur pour le point de données 5615, il suffit d’omettre les balises d’élément et les balises de valeur. Ne soumettez pas de balises de valeur vides, car cela entraînera une erreur structurelle.</p>
+
+	<p>Non valide – affichera une erreur</p>
+
+	<pre>
+         <code>
+35 &lt;_x0035_615&gt;
+36   &lt;value&gt;|&lt;/value&gt;
+37 &lt;/_x0035_615&gt;
+</code>
+</pre>
+
+	<div class="clear">&nbsp;</div>
+
+	<p>Omettez plutôt complètement les balises d’éléments et les balises de valeur.</p>
+	</dd>
+	<dt><b>Q : Pour la présentation dimensionnelle, la structure de tous les types d’enregistrement est-elle la même?</b></dt>
+	<dd>
+	<p>R : La hiérarchie dans la présentation des éléments est la même pour les types d’enregistrement 005, 010, 030 et 035. Veuillez consulter l’exemple de fichier XML et le fichier XSD pour plus de détails.</p>
+
+	<p>BSIF, «&nbsp;RNFPB en XML – à compter du TX 20XX», Fichier XML, publication non classifiée du BSIF.</p>
+
+	<p>Fichier XML qui peut être utilisé comme exemple de relevé à produire.</p>
+
+	<p>BSIF, «RNFPB en XSD – à compter du TX 20XX», fichier XSD, publication non classifiée du BSIF.</p>
+
+	<p>Fichier XSD qui définit l’exemple de fichier de relevé à produire.</p>
+	</dd>
+	<dt><b>Q : Pourquoi certaines balises d’éléments XML semblent elles être mises en correspondance avec les calendriers de déclaration alors que d’autres semblent plus arbitraires?</b></dt>
+	<dd>
+	<p>R : À l’instar d’autres systèmes internes, le SDR est utilisé par les trois organismes – le BSIF, la Banque du Canada et la SADC. Les différents éléments XML sont utilisés pour assurer la compatibilité entre les systèmes internes des trois organismes. Veuillez consulter l’exemple de fichier XML et le fichier XSD pour connaître les bons éléments à utiliser.</p>
+	</dd>
+	<dt><b>Q : Que dois je faire si je reçois un message d’erreur de règle ou d’erreur structurelle que je ne comprends pas?</b></dt>
+	<dd>
+	<p>R : Veuillez faire parvenir un courriel à l’adresse <a href="mailto:RRSsupport-SDRsoutien@osfi-bsif.gc.ca">RRSsupport-SDRsoutien@osfi-bsif.gc.ca</a>.</p>
+	</dd>
+</dl>
+
+<h2 id="toc6.0">6. Suivi des versions</h2>
+
+<div class="table-responsive"><table class="table table-hover table-striped table-bordered">
+	<caption class="wb-invisible">Suivi des versions</caption>
+	<thead>
+		<tr>
+			<th scope="col">Version</th>
+			<th scope="col">Date</th>
+			<th scope="col">Auteur</th>
+			<th scope="col">Description</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1.0</td>
+			<td>14 juillet 2023</td>
+			<td>Deniz Berkin</td>
+			<td>Document créé</td>
+		</tr>
+		<tr>
+			<td>1.1</td>
+			<td>19 février 2024</td>
+			<td>Deniz Berkin</td>
+			<td>Modifié pour RNFPB 2024</td>
+		</tr>
+	</tbody>
+</table></div>
+</div>
+    </div>
+  </div>
+
+      </div>
+    
+  </article>
+
+
+  </div>
+
+    
+                        <div class="pagedetails region region-content-footer">
+    <div class="row">
+      
+<div id="block-osfi-wxt-reportproblemblock" class="col-xs-12 col-sm-6 block block-wxt-ext-webform block-report-problem-block clearfix" data-block-plugin-id="report_problem_block">
+  
+    
+
+      <details class="brdr-0">
+  <summary class="btn btn-default text-center"> Signaler un problème ou une erreur sur cette page</summary>
+  <div class="well row">
+    <div class="gc-rprt-prblm">
+      <span id="webform-submission-gcweb-report-a-problem-node-1912-form-ajax-content"></span><div id="webform-submission-gcweb-report-a-problem-node-1912-form-ajax" class="webform-ajax-form-wrapper" data-effect="none" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-gcweb-report-a-problem-form webform-submission-gcweb-report-a-problem-add-form webform-submission-gcweb-report-a-problem-node-1912-form webform-submission-gcweb-report-a-problem-node-1912-add-form js-webform-details-toggle webform-details-toggle antibot" novalidate="novalidate" data-drupal-selector="webform-submission-gcweb-report-a-problem-node-1912-add-form" data-action="/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-normes-fonds-propres-bale-rnfpb-faq-specifications-techniques" action="/antibot" method="post" id="webform-submission-gcweb-report-a-problem-node-1912-add-form" accept-charset="UTF-8">
+	
+	<noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<fieldset data-drupal-selector="edit-report-issue-types" class="checkboxes--wrapper fieldgroup form-composite webform-composite-visible-title required js-webform-type-checkboxes webform-type-checkboxes js-form-item form-item js-form-wrapper form-wrapper" id="edit-report-issue-types--wrapper">
+      <legend class="fieldset-legend js-form-required required">
+    <span>Veuillez sélectionner toutes les cases qui s'appliquent :<strong class="required" aria-hidden="true"> (obligatoire)</strong></span>
+      </legend>
+  <div class="fieldset-wrapper">
+        
+        <div id="edit-report-issue-types" class="js-webform-checkboxes webform-options-display-one-column form-checkboxes"><div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-a-link-button-or-video-is-not-working js-form-item-report-issue-types-a-link-button-or-video-is-not-working checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-a-link-button-or-video-is-not-working" class="control-label option"><input data-drupal-selector="edit-report-issue-types-a-link-button-or-video-is-not-working" class="form-checkbox" type="checkbox" id="edit-report-issue-types-a-link-button-or-video-is-not-working" name="report_issue_types[A link, button or video is not working]" value="A link, button or video is not working" />Un lien, un bouton ou une vidéo ne fonctionne pas</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-it-has-a-spelling-mistake js-form-item-report-issue-types-it-has-a-spelling-mistake checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-it-has-a-spelling-mistake" class="control-label option"><input data-drupal-selector="edit-report-issue-types-it-has-a-spelling-mistake" class="form-checkbox" type="checkbox" id="edit-report-issue-types-it-has-a-spelling-mistake" name="report_issue_types[It has a spelling mistake]" value="It has a spelling mistake" />Il y a une erreur d'orthographe ou de grammaire</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-missing js-form-item-report-issue-types-information-is-missing checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-missing" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-missing" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-missing" name="report_issue_types[Information is missing]" value="Information is missing" />Les renseignements sont incomplets</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-information-is-outdated-or-wrong js-form-item-report-issue-types-information-is-outdated-or-wrong checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-information-is-outdated-or-wrong" class="control-label option"><input data-drupal-selector="edit-report-issue-types-information-is-outdated-or-wrong" class="form-checkbox" type="checkbox" id="edit-report-issue-types-information-is-outdated-or-wrong" name="report_issue_types[Information is outdated or wrong]" value="Information is outdated or wrong" />L'information n'est plus à jour ou est erronée</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-i-cant-find-what-im-looking-for js-form-item-report-issue-types-i-cant-find-what-im-looking-for checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-i-cant-find-what-im-looking-for" class="control-label option"><input data-drupal-selector="edit-report-issue-types-i-cant-find-what-im-looking-for" class="form-checkbox" type="checkbox" id="edit-report-issue-types-i-cant-find-what-im-looking-for" name="report_issue_types[I can&#039;t find what I&#039;m looking for]" value="I can&#039;t find what I&#039;m looking for" />Je n'arrive pas à trouver ce que je cherche</label>
+  
+  
+
+  </div>
+<div class="form-item js-form-item form-type-checkbox js-form-type-checkbox form-item-report-issue-types-other-issue-not-in-this-list js-form-item-report-issue-types-other-issue-not-in-this-list checkbox">
+    
+    
+  
+  
+
+      <label for="edit-report-issue-types-other-issue-not-in-this-list" class="control-label option"><input data-drupal-selector="edit-report-issue-types-other-issue-not-in-this-list" class="form-checkbox" type="checkbox" id="edit-report-issue-types-other-issue-not-in-this-list" name="report_issue_types[Other issue not in this list]" value="Other issue not in this list" />Autre problème qui ne figure pas sur cette liste</label>
+  
+  
+
+  </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="form-item js-form-item form-type-textarea js-form-type-textarea form-item-additional-information js-form-item-additional-information form-group">
+    
+        <label for="edit-additional-information" class="control-label js-form-required required">    Information supplémentaire<strong class="required" aria-hidden="true"> (obligatoire)</strong>
+  </label>
+    
+  
+  <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-additional-information" class="form-textarea required form-control resize-vertical" id="edit-additional-information" name="additional_information" rows="5" cols="60" required="required" aria-required="true"></textarea>
+</div>
+
+
+  
+  
+
+  </div>
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" /><input data-drupal-selector="form-qqywsm4bwgaadmgmr32bo4-fufuafp5mpmks943bnta" type="hidden" name="form_build_id" value="form-qQywsm4BWgaAdmgmR32bo4-FUFUAFP5mpmKs943BNtA" /><input data-drupal-selector="edit-webform-submission-gcweb-report-a-problem-node-1912-add-form" type="hidden" name="form_id" value="webform_submission_gcweb_report_a_problem_node_1912_add_form" /><div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><input class="webform-button--submit button button--primary js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit" name="op" value="Soumettre"/>
+</div>
+<div class="url-textfield form-group js-form-wrapper form-wrapper" style="display: none !important;"><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-url js-form-item-url form-group">
+    
+      <label for="edit-url" class="control-label">Laisser ce champ vide</label>
+    
+  
+  <input autocomplete="off" data-drupal-selector="edit-url" class="form-text form-control" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" />
+
+  
+  
+
+  </div>
+</div>
+
+
+	
+</form>
+</div>
+    </div>
+   </div>
+</details>
+
+  </div>
+
+<div id="block-osfi-wxt-datemodifiedblock" class="col-xs-12 block block-wxt-library block-date-modified-block clearfix" data-block-plugin-id="date_modified_block">
+  
+    
+
+      <dl id="wb-dtmd">
+<dt>Date de modification :</dt>
+<dd><time property="dateModified">2024-02-26</time></dd></dl>
+  </div>
+
+<div id="block-osfi-wxt-sharewidgetblock" class="pull-right col-xs-12 col-sm-4 block block-wxt-library block-share-widget-block clearfix" data-block-plugin-id="share_widget_block">
+  
+    
+
+      <div class="wb-share mrgn-bttm-sm pull-right" data-wb-share='{"filter":["blogger","diigo","email","facebook","gmail","linkedin","myspace","pinterest","reddit","tinyurl","tumblr","twitter","whatsapp","yahoomail"],"pnlId":"pnl1","lnkClass":"btn btn-default"}'></div>
+  </div>
+
+    </div>
+  </div>
+
+          
+  </main>
+
+
+
+            <footer id="wb-info">
+        <div class="container">
+          <div class="row">
+                        <div class="col-xs-12">
+                <div class="region region-footer">
+    
+<nav aria-labelledby="aboutThisSite" id="block-footer" data-block-plugin-id="menu_block:footer" class="wb-eqht-grd row">
+  
+  <h2 id="aboutThisSite">À propos de ce site</h2>
+  
+      
+                          <section class="col-xs-12 col-sm-4">
+        <h3>Nouvelles</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/fr/nouvelles?type=5" role="menuitem" title="Communiqués de presse" data-drupal-link-query="{&quot;type&quot;:&quot;5&quot;}" data-drupal-link-system-path="node/23">Communiqués de presse</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/fr/nouvelles?type=4" role="menuitem" title="Discours" data-drupal-link-query="{&quot;type&quot;:&quot;4&quot;}" data-drupal-link-system-path="node/23">Discours</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/fr/relations-presse" role="menuitem" title="Relations de presse " data-drupal-link-system-path="node/26">Relations de presse </a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/fr/nouvelles/allocutions-venir" role="menuitem" title="Allocutions à venir" data-drupal-link-system-path="node/2976">Allocutions à venir</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/fr/fraude-tentatives-descroquerie" title="Scams and fraud" role="menuitem" data-drupal-link-system-path="node/1262">Fraude et tentatives d&#039;escroquerie</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>Qui nous sommes</h3>
+                                  <ul role="menu" class="nav menu">
+                                                  
+        <li role="presentation">
+        <a href="/fr/propos-du-bsif" title="Bureau du surintendant des institutions financières" role="menuitem" data-drupal-link-system-path="node/1291">BSIF</a>
+                          </li>
+                                                    
+        <li role="presentation">
+        <a href="/fr/bac/propos-du-bureau-lactuaire-en-chef" title="Bureau de l’actuaire en chef" role="menuitem" data-drupal-link-system-path="node/1362">BAC</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                        <section class="col-xs-12 col-sm-4">
+        <h3>Suivez-nous</h3>
+                                  <ul role="menu" class="nav menu">
+                                                
+        <li role="presentation">
+        <a href="/fr/contactez-nous" role="menuitem" title="Contactez-nous" data-drupal-link-system-path="node/1689">Contactez-nous</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="/fr/contactez-nous/avis-courriel" role="menuitem" title="Avis par courriel" data-drupal-link-system-path="node/1747">Avis par courriel</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://twitter.com/BSIFCanada" role="menuitem" title="X (anciennement Twitter)">X (anciennement Twitter)</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.youtube.com/user/OSFIBSIF" role="menuitem" title="YouTube">YouTube</a>
+                          </li>
+                                                  
+        <li role="presentation">
+        <a href="https://www.linkedin.com/company/office-of-the-superintendent-of-financial-institutions-of-canada" role="menuitem" title="LinkedIn">LinkedIn</a>
+                          </li>
+                    </ul>
+      
+                    </section>
+                
+
+
+  </nav>
+  </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 col-sm-9">
+                <div class="region region-footer-legal">
+    <nav role="navigation" aria-labelledby="block-legal-menu" id="block-legal" class="block-legal" data-block-plugin-id="menu_block:legal">
+      
+  <h2 id="block-legal-menu">Organisation</h2>
+  
+
+        
+              <ul role="menu" class="menu nav nav-pills legal">
+                                              
+        <li role="presentation">
+        <a href="https://canada.ca" role="menuitem" title="Canada.ca">Canada.ca</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/index%2Ephp/fr/avis" role="menuitem" title="Avis" data-drupal-link-system-path="node/429">Avis</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/index%2Ephp/fr/transparence" role="menuitem" title="Transparence" data-drupal-link-system-path="node/1399">Transparence</a>
+                  </li>
+                                          
+        <li role="presentation">
+        <a href="/index%2Ephp/fr/accessibilite" role="menuitem" title="Accessibilité" data-drupal-link-system-path="node/647">Accessibilité</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+            </div>
+            <div class="col-xs-12 col-sm-3 canada-logo">
+              <img height="40" src='/libraries/theme-gcweb/assets/wmms-blk.svg' alt='Symbole du gouvernement du Canada' />
+            </div>
+          </div>
+        </div>
+      </footer>
+      
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"fr\/","currentPath":"node\/1912","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1UQGSgyAM_BCVJzEBU00FwpGo7e-Pa3XOG88Zhmw2yxIC9OzRRZhzGC0cEgNZybPaLXZ3rsl4CJNTbqvYA3YUOBvPrKIVWmlHrlR0lEkPxcKFF6wHRpmjUjFhwp6UazvRY1YfOUz2gE3giravc4HYBY4RiuCHpKxYc6MfXzPW16fbBDo-4GkFdS6G5U5ufarVERPeJFQqKkZeopjaa5rVQriKfe9d4n6OaFb0P152ix00wxMZOBUW0rMcY7sraxdGDJPnJ8qlpEcFitIJLNc-u0h5GP7pbpclFIHhus5FifO5l_fYtsT9ftCJMW2OLpKvUF_bPIfQVH_4FfXmGddvDr7wXQ","theme":"osfi_wxt","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/fr\/donnees-formulaires\/rapports-releves\/produire-releve-financier\/guides-production-releves-financiers\/releve-normes-fonds-propres-bale-rnfpb-faq-specifications-techniques?ajax_form=1":true},"back_to_top":{"back_to_top_button_trigger":400,"back_to_top_speed":1200,"back_to_top_prevent_on_mobile":false,"back_to_top_prevent_in_admin":true,"back_to_top_button_type":"image","back_to_top_button_text":"Haut"},"mathjax":{"config_type":1,"config":{"tex2jax":{"inlineMath":[["$$$","$$$"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none"}},"bootstrap":{"forms_has_error_value_toggle":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover","modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click"},"antibot":{"forms":{"webform-submission-gcweb-report-a-problem-node-1912-add-form":{"id":"webform-submission-gcweb-report-a-problem-node-1912-add-form","key":"Qkj4LFnjdq9vC69cO7XXIr6ZCRjyz7f8SSqCbXZGo47"}}},"ajax":{"edit-submit":{"callback":"::submitAjaxForm","event":"click","effect":"none","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/fr\/donnees-formulaires\/rapports-releves\/produire-releve-financier\/guides-production-releves-financiers\/releve-normes-fonds-propres-bale-rnfpb-faq-specifications-techniques?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Soumettre"}}},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"col-xs-12 col-sm-8 info-left","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"user":{"uid":0,"permissionsHash":"948b17b44e21fbbdf33d5fd143628912a823ca4231d0e9e94c73388fbb69dc9d"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.7"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/sites/default/files/languages/fr_DiyocKTH0THFWjuqnNh9nWAeLqn9C4Oc99YTxjV-BAU.js?til2gg"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.js?v=10.6.2"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.2"></script>
+<script src="/core/misc/debounce.js?v=10.6.2"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.3.0"></script>
+<script src="/libraries/wet-boew/js/wet-boew.min.js?til2gg"></script>
+<script src="/modules/contrib/antibot/js/antibot.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/bootstrap-pre-init.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/alert.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/collapse.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/dropdown.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/modal.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/tooltip.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/bootstrap/popover.js?til2gg"></script>
+<script src="/themes/contrib/wxt_bootstrap/js/drupal.wxt_bootstrap.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/popover.js?til2gg"></script>
+<script src="/themes/contrib/bootstrap/js/tooltip.js?til2gg"></script>
+<script src="/core/misc/form.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/form.js?til2gg"></script>
+<script src="/core/misc/details-summarized-content.js?v=10.6.2"></script>
+<script src="/core/misc/details-aria.js?v=10.6.2"></script>
+<script src="/core/misc/details.js?v=10.6.2"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0"></script>
+<script src="/modules/contrib/mathjax/js/config.js?v=10.6.2"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/modules/contrib/mathjax/js/setup.js?v=10.6.2"></script>
+<script src="/themes/custom/osfi_wxt/vendors/bootstrap/assets/javascripts/bootstrap/transition.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/scripts.js?til2gg"></script>
+<script src="/themes/custom/osfi_wxt/js/adobe.analytics.footer.js?til2gg"></script>
+<script src="/core/misc/progress.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/progress.js?til2gg"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.6.2"></script>
+<script src="/core/misc/message.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/message.js?til2gg"></script>
+<script src="/core/misc/ajax.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/ajax.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.scroll.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.ajax.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.checkboxes.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.save.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.details.toggle.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.message.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.element.options.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.behaviors.js?v=10.6.2"></script>
+<script src="/core/misc/states.js?v=10.6.2"></script>
+<script src="/themes/contrib/bootstrap/js/misc/states.js?til2gg"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/js/webform.form.js?v=10.6.2"></script>
+<script src="/modules/contrib/webform/modules/webform_bootstrap/js/webform_bootstrap.states.js?v=10.6.2"></script>
+<script src="/libraries/theme-gcweb/js/theme.min.js?til2gg"></script>
+
+  </body>
+</html>

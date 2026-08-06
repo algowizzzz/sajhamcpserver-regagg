@@ -1,0 +1,58 @@
+# CANAFE publie son Rapport annuel de 2023-2024, Canadiens en sécurité, économie sûre
+
+**Communiqué de presse**
+
+**Le 26 novembre 2024 – ⁠Ottawa – [Centre d’analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)**
+
+CANAFE a publié aujourd'hui son rapport annuel de 2023-2024, Canadiens en sécurité, économie sûre, qui décrit l'incidence considérable que joue le Centre en aidant à protéger la sécurité des Canadiens, en particulier les citoyens et les communautés les plus vulnérables du Canada, et l'intégrité du système financier du Canada.
+
+Au cours de la dernière année, les renseignements financiers de CANAFE ont contribué à 266 enquêtes majeures exigeant beaucoup de ressources et à plusieurs centaines d'autres enquêtes individuelles aux niveaux municipal, provincial et fédéral partout au pays et à l'étranger. Les communications de renseignements financiers du Centre contenaient 297 733 déclarations d'opérations financières, regroupant 966 705 opérations financières. Quatre-vingt-douze pour cent des commentaires que nous avons reçus de la part des organismes d'application de la loi et de sécurité nationale du Canada indiquaient que nos renseignements financiers fournissaient de nouvelles pistes.
+
+En septembre 2023, la Gendarmerie royale du Canada (GRC), en collaboration avec la Sécurité intérieure des États-Unis à Buffalo, dans l'État de New York, a souligné la contribution de CANAFE à l'opération Heinze, une enquête de 16 mois qui a mené à l'arrestation d'une personne en possession de 433 kilogrammes de cocaïne qui étaient destinés au Canada. Considérée comme la plus grande saisie de cocaïne de l'histoire de l'ouest de l'État de New York, l'opération a mené à de multiples inculpations pour, entre autres, participation à une organisation criminelle et blanchiment d'argent.
+
+Au cours de l'exercice précédent, nous avons également contribué à protéger le système financier et l'économie du Canada en contribuant et en veillant à ce que les entreprises se conforment à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et aux règlements connexes. CANAFE a modernisé et fait évoluer son cadre de surveillance au-delà de la simple vérification de la « conformité technique » afin de sensibiliser aux risques et de promouvoir leur identification et leur atténuation efficace, en étroite adéquation avec la [Mise à jour de l'évaluation des risques inhérents au recyclage des produits de la criminalité et au financement des activités terroristes au Canada](https://www.canada.ca/fr/ministere-finances/programmes/politique-secteur-financier/mise-a-jour-evaluation-risques-inherents-recyclage-produits-criminalite-financement-activites-terroristes-canada.html). Grâce à ce changement, CANAFE adapte ses approches pour mieux répondre aux besoins des entreprises sous la forme de services, de soutien et d'outils qui leur permettent d'identifier et d'atténuer plus facilement les risques de blanchiment d'argent et de financement des activités terroristes et de remplir les exigences législatives.
+
+CANAFE a aussi veillé à ce que les entreprises contribuent à protéger le Canada et les Canadiens, et a pris des mesures résolues lorsque cela s'avérait nécessaire. Au cours de l'exercice précédent, nous avons imposé les plus importantes pénalités administratives pécuniaires de l'histoire du Centre. Au total, nous avons transmis 12 procès-verbaux pour un montant de plus de 26 millions de dollars, ce qui représente une augmentation considérable par rapport aux années précédentes. Nous avons aussi communiqué notre plus grand nombre de cas de non-conformité aux organismes d'application de la loi en vue d'une éventuelle enquête criminelle.
+
+En 2023-2024, CANAFE a collaboré avec les entreprises et ses partenaires fédéraux pour mettre en œuvre sa nouvelle vision de la modernisation, qui est axée sur la lutte contre le blanchiment d'argent et le financement des activités terroristes en temps réel. Grâce à sa stratégie numérique innovante, CANAFE fait progresser l'automatisation numérique, l'analytique et l'utilisation de l'intelligence artificielle à l'échelle du Centre pour faire un bond en avant sur les plans techniques, des processus et de la culture.
+
+## Citation
+
+> « Qu'il s'agisse de produire des renseignements financiers exploitables à l'appui des enquêtes sur le blanchiment d'argent et le financement des activités terroristes ou de veiller à ce que les entreprises s'acquittent de leurs responsabilités en vertu de la Loi, CANAFE joue un rôle essentiel en aidant à protéger le Canada et les Canadiens. En collaboration avec nos partenaires nationaux et internationaux, nous allons de l'avant avec notre vision de la modernisation en temps réel afin de pouvoir garder une avance sur les acteurs malveillants, trouver de nouvelles façons significatives de collaborer et de continuer à produire des résultats pour les Canadiens dans un monde en constante évolution. »
+
+## Faits en bref
+
+* En tant qu'unité du renseignement financier et superviseur de la lutte contre le blanchiment d'argent et le financement des activités terroristes du Canada, CANAFE veille à la conformité de plus de 24 000 entreprises assujetties à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et produit des renseignements financiers exploitables pour les organismes canadiens d'application de la loi et de la sécurité nationale et ses partenaires internationaux.
+* En 2023–2024, CANAFE a produit plus de 4 600 dossiers de communication de renseignements financiers, fondés sur 1 783 communications de renseignements financiers distinctes.
+* Les trois principales infractions sous-jacentes liées aux communications de renseignements financiers de CANAFE en 2023-2024 étaient les stupéfiants (23 %), la fraude (20 %) et l'évasion fiscale (10 %).
+* Les communications de renseignements financiers uniques du Centre contenaient 297 733 déclarations d'opérations financières, regroupant plus de 966 705 opérations financières. La valeur des opérations comprises dans les communications de CANAFE s'est élevée à plus de 43,5 milliards de dollars.
+* Les communications de renseignements financiers de CANAFE sont régulièrement transmises à plusieurs organismes simultanément, ce qui aide les organismes canadiens d'application de la loi et de la sécurité nationale à établir des liens entre les activités et les opérations criminelles dans un certain nombre de territoires nationaux et internationaux en suivant l'argent. Les communications uniques de CANAFE portaient sur un total de 6 572 personnes et entités.
+* Quatre-vingt-douze pour cent des commentaires reçus l'an dernier par le Centre de la part des organismes canadiens d'application de la loi et de sécurité nationale indiquaient que les renseignements financiers de CANAFE fournissaient de nouvelles informations sur des personnes et des entités connues.
+* Le Centre a également fourni 97 communications de renseignements uniques et 231 dossiers de renseignements à des unités du renseignement financier étrangères liés au blanchiment d'argent et au financement des activités terroristes. Quatre-vingt-neuf pour cent des commentaires reçus de ces unités du renseignement financier étrangères ont indiqué que les communications du Centre avaient permis d'identifier des informations jusque-là inconnues.
+* CANAFE a collaboré avec les partenaires du Groupe des cinq et ses alliés européens pour échanger des renseignements financiers dans le cadre du groupe de travail d'unités de renseignement financier sur le financement illicite et les sanctions liées à la Russie.
+* CANAFE a travaillé en étroite collaboration avec FinCEN et l'Unidad de Inteligencia Financiera du Mexique pour établir le groupe de travail sur le financement illicite du North American Drug Dialogue.
+* L'approche globale adoptée par CANAFE pour garantir la conformité des entreprises comprenait le contrôle des déclarations d'opérations, la tenue de réunions régulières avec les grandes banques canadiennes, la réalisation d'examens complets, ainsi que l'établissement et le suivi régulier de plans d'action en matière de conformité.
+* CANAFE a transmis 12 procès-verbaux pour un montant de plus de 26 millions de dollars.
+* CANAFE a communiqué 14 cas de non-conformité aux organismes d'application de la loi en vue d'une enquête criminelle.
+* En 2023-24, CANAFE a publié quatre produits de renseignement stratégique pour informer les entreprises, les partenaires et le public sur la nature et la portée du blanchiment d'argent et du financement des activités terroristes : [Bulletin spécial sur les activités de blanchiment d'argent liées à la Russie](/intel/bulletins/rlml-fra); [Indicateurs actualisés : Le recyclage des produits de la criminalité au moyen de stratagèmes bancaires clandestins](/intel/operation/ml-rec-fra); [Bulletin spécial sur le recyclage des produits de la criminalité au moyen de sites de jeu en ligne](/intel/bulletins/gambling-jeu-fra); et [Avis conjoint de renseignement financier : Acquisition illégale de marchandises à double usage par des utilisateurs russes](/notices-avis/avs/2024-02-20-fra)
+
+## Produit connexe
+
+* [Rapport annuel de 2023-2024, Canadiens en sécurité, économie sûre](/publications/ar/2024/1-fra)
+
+– 30 –
+
+## Personnes-ressources
+
+Relations avec les médias  
+Centre d'analyse des opérations et déclarations financières du Canada  
+613-716-9983  
+[media.medias@fintrac-canafe.gc.ca](mailto:media.medias@fintrac-canafe.gc.ca)
+
+Suivez-nous sur :  
+Twitter : [@CANAFE\_Canada](https://twitter.com/CANAFE_Canada)  
+LinkedIn : [CANAFE Canada|FINTRAC Canada](https://www.linkedin.com/company/18406872/)  
+YouTube : [CANAFE Canada](https://www.youtube.com/channel/UCTz3W5F0Orkfv9yzxLHuf3A)
+
+Date de modification :
+:   2023-11-26

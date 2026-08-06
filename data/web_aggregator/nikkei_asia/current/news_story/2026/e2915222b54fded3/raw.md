@@ -1,0 +1,7 @@
+# US imports more Asian goods during first half amid tariff uncertainty
+
+
+
+[Read the full story at the source](https://asia.nikkei.com/economy/trade/us-imports-more-asian-goods-during-first-half-amid-tariff-uncertainty)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

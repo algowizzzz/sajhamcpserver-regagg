@@ -1,0 +1,24 @@
+{
+  "doc_id": "40ccd050b4f8d96e",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Exceptive Relief from Beneficial Ownership Requirements for Legal Entity Customers of Rollovers, Renewals, Modifications, and Extensions of Certain Accounts | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/exceptive-relief-beneficial-ownership",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1b8ae56c0ac522c41b5718fdde26695e1e49f8523c5fb9c19944fe35a1fd4922",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/40ccd050b4f8d96e",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

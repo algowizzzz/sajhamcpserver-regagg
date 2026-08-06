@@ -1,0 +1,53 @@
+# Change Control Log (P3)
+
+Information
+
+Type of document
+
+Change control log
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Statement of Comprehensive Income, Retained Earnings and AOCI (P3)
+
+Last updated
+
+January 2023
+
+Return number
+
+P3
+
+Accompanying documents
+
+* [Statement of Comprehensive Income, Retained Earnings and AOCI (P3)](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/statement-comprehensive-income-retained-earnings-aoci-p3)
+
+| Amendment Number | Effective Reporting Date | Description |
+| --- | --- | --- |
+| 1 | Q1 1998 | **Add:**   * Line 20(e) "Income from Securitization of Assets" * To Items 3 and 4 a bullet on gains and losses on the transfer of financial assets with recourse   **Change:**   * As a result of adding a new line on 20(e), all existing line references have been changed |
+| 2 | Q1 1999 | **Add:**   * To items 3, 4 and 5 a bullet on interest income on the transfer of financial assets with recourse * Line 4 Other Non-Mortgage Loans - General Instructions * - reference to CICA Guideline ACG 4 on the reporting of fees   **Change:**   * Line 20(e) Income from Securitization of Assets. The first bullet was amended. |
+| 3 | Q1 2000 | **Add:**   * Section 600 of the Bank Act (applies to Foreign Bank Branches) * Additional information on disclosure * To item 5, the second bullet was expanded   **Change:**   * Section 523 of the Bank Act is now Section 628 |
+| 4 | Q1 2001 | **Add:**   * Line 26(l) "Amortization Expenses"   **Change:**   * Line 26(l) "Other Expenses" has been changed to 26(m) * The wording for "Deferred taxes" has been changed to "future taxes". (as per CICA Section 3465) * The consolidated statement of Retained Earnings is now Section III   **Delete:**   * Section III – "Average balances outstanding". This section is no longer required and has been deleted. |
+| 5 | Q1 2003 | **Change:**   * Ivation Data Systems Inc. to Beyond 20/20 Inc.   **Delete:**   * Bank of Canada from Where to Submit |
+| 6 | Q1 2004 | **Add:**   * Address for OSFI Website   **Delete:**   * Reference to Beyond 20/20   **Change:**   * Amortization Expenses has been changed to Amortization Expenses and Related Charges for Impairment * Definition of Goodwill amortization to impairment |
+| 7 | Q1 2005 | **Change:**   * (l) Amortization Expenses and Related Charges for Impairment has been changed to Charge for Impairment for (i) Goodwill and (ii) Intangibles with indefinite lives * Assets transferred with or without recourse has been changed to Assets sold * Instruction to CICA Handbook reference   **Add:**   * (m) Amortization Expenses with (i) Intangibles with definite lives and (ii) Other * Discontinued Operations to items 32, 34, 39, 40, 41 and 42 * Reference to OSFI Guidelines |
+| 8 | Q1 2007 | **Change:**   * Title from Consolidated Statement of Income to Consolidated Statement of Income, Retained Earnings and AOCI * Trading Account to Held for Trading for Income Expenses, item 18, Trading Income * Investment Account to Held for Trading for Income Expenses, item 19, Gains (Losses) on instruments held for other than trading purposes   **Add:**   * Section IV – Comprehensive Income * Schedule I – Comprehensive Income (Loss) * Schedule II – Accumulated Other Comprehensive Income (Loss), Net of Income Taxes * ‘Any hedge factor’ to Income Expenses, item 20 (p), Other Commissions and Fees and Non Interest Expenses, item 26 (n), Other Expenses |
+| 9 | Q1 2008 | **Add:**   * Dilution Gains * Other   **Change:**   * On- and off-balance sheet items to recognized and unrecognized items * Reclassification to Earnings of Gains/(Losses) to Impact of Hedging and related instructions |
+| 10 | Q1 2009 | Significant changes were made to these instructions due to Data Rationalization. Please note that the copy of the return template has been deleted from these instructions and has been posted as a separate item on OSFI's website.  **Change:**   * Updated Balance Sheet Asset references |
+| 11 | Q1 2010 | **Change:**   * Municipal and school corporations to Municipal or school corporations |
+| 12 | Q1 2011 | Multiple changes were made to the instructions to accommodate IFRS. |
+| 13 | Q1 2012 | **Change:**   * IFRS related instructions * Instructions changed under new line 31   **Deletion:**   * CGAAP specific instructions and references * 30. Non-controlling interests in subsidiaries (CGAAP) and related instructions * 31. Extraordinary items (net of taxes) and related instructions |
+| 14 | Q1 2013 | **Add:**   * (e) Interest Income on Impaired Non-mortgage Loans * (h) Interest Income on Impaired Other Non-mortgage Loans * (d) Interest Income on Impaired Mortgages * (b) Defined Benefit Pension Plan Expense * Instructions under 2. Add: Net Income (Loss) Attributable to Equity Holders   **Delete:**   * IFRS reference under (c) Pension Contributions and Other Staff Benefits (other than included in 23(a) and (b) above) * IFRS instructions and references under 3. Deduct   **Change/Add:**   * Instructions under Section IV – Comprehensive Income |
+| 15 | Q3 2014 | **Instructions:**  **Change:**   * (e) Share of other comprehensive income (loss) of associates and joint ventures moved from under "Items that will not be reclassified to Net Income" to "Items that may be reclassified subsequently to Net Income" as (d) Share of other comprehensive income (loss) of associates and joint ventures * Subsequent items renumbered accordingly   **Return template:**  **Add:**   * Section IV, Schedule 1, datapoint 5645 * Section IV, Schedule 2, datapoints 5991, 5992, 5993, 5994, 5995, 5996 and 5997   **Delete:**   * Section IV, Schedule 1, datapoint 1110 * Section IV, Schedule 2, datapoints 1114, 1129, 1147, 1156, 1173, 1174 and 1113 |
+| 16 | Q1 2018 | **Instructions:**  **Delete:**   * Instructions under 18. Gains(losses) on instruments held for other than trading purposes   **Add:**   * Instructions under Schedule 1 (2) Other Comprehensive Income (Loss) * Instructions under Schedule 2 (1) Accumulated Gains (Losses)   **Return template:**  **Change:**   * Wording change under Section IV, Schedule 1, lines 2(a) and 2(a)(i)(A) * Wording change under Section IV, Schedule 2, lines 1(a), 1(a)(i), 1(d)(i) and 1(d)(i)(A)   **Add:**   * Section IV, Schedule 1, datapoint 2100 * Section IV, Schedule 2, datapoint 2150 |
+| 17 | Q1 2020 | **Instructions:**  **Change:**   * Wording change under Section II (17) Trading Income * Wording change under Section II (18) Gains (losses) on instruments held for other than trading purposes   **Return template:**   * No changes made. |
+| 18 | Q1 2024 | **Instructions:**  **Delete:**   * (q) Insurance -Related Non-Interest Income and related instructions   **Add:**   * (q) Insurance Service Result and related instructions   **Return template:**  **Delete:**   * Section (q) Insurance -Related Non-Interest Income, datapoints 1247, 1248, 1250, 1254 and 1255   **Add:**   * Section (q) Insurance Service Result, datapoints 9310, 9311 and 9312 |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-01-17

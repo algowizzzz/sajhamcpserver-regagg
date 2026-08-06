@@ -1,0 +1,1 @@
+Summary: # Mazda's redesigned CX-5 lags in US market as gas prices favor hybrids

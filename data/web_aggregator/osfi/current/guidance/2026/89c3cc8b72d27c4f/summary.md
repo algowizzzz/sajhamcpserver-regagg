@@ -1,0 +1,1 @@
+Summary: # 2026 Memorandum - Earthquake Exposure Data

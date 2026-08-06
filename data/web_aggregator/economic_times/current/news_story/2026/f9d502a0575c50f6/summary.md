@@ -1,0 +1,1 @@
+Summary: # Sebi settles case against India Power Corp's Raghav Raj Kanoria for Rs 24.7 lakh

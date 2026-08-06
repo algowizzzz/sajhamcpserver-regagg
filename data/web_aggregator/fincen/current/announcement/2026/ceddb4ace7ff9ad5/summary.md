@@ -1,0 +1,1 @@
+Summary: # FinCEN Issues Ruling (FIN-2008-R012)on Whether a Money Services Business Must Establish and Maintain Separate Deposit Accounts for its Separate Check Cashing and Money Transmission Lines of Business

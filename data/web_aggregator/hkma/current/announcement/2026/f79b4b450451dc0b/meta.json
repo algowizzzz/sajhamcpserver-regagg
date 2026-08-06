@@ -1,0 +1,26 @@
+{
+  "doc_id": "f79b4b450451dc0b",
+  "regulator_id": "hkma",
+  "doc_type": "announcement",
+  "title": "Sectoral CoP for SVF Licensees Notice en 20260612",
+  "language": "en",
+  "source_url": "https://www.hkma.gov.hk/media/eng/doc/key-functions/financial-infrastructure/Sectoral_CoP_for_SVF_Licensees_Notice_en_20260612.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5230fb83ccb46f10520ee3b1db767924e2fdbe5932d6e18feddf8992cae23169",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_hkma_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/hkma/current/announcement/2026/f79b4b450451dc0b",
+  "tags": [
+    "hong_kong",
+    "banking"
+  ],
+  "final_url": "https://www.hkma.gov.hk/media/eng/doc/key-functions/financial-infrastructure/Sectoral_CoP_for_SVF_Licensees_Notice_en_20260612.pdf",
+  "fetch_method": "pdf_to_md"
+}

@@ -1,0 +1,1 @@
+Summary: # Third party determination requirements : FINTRAC's compliance guidance

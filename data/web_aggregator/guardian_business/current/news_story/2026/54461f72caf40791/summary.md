@@ -1,0 +1,1 @@
+Summary: # Palantir paid just £2m corporation tax in UK in 2024 despite lucrative public sector contracts

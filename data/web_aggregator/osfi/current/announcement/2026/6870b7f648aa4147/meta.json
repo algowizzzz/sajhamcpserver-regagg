@@ -1,0 +1,25 @@
+{
+  "doc_id": "6870b7f648aa4147",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Market Risk (OSFI-986) - Change Control Log - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/market-risk-osfi-986-change-control-log",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0d7fe49094384702c03e65df7767f8abe4c5a11a2c6a23add0aaec343404cec8",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/6870b7f648aa4147",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

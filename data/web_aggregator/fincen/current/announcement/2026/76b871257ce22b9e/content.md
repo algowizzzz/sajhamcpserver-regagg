@@ -1,0 +1,45 @@
+# Credit Union’s Suspicious Activity Reports Lead to Arrest of Corrupt Utilities Employees
+
+[Issue 19-story7.pdf](/system/files/case_example/Issue%2019-story7.pdf "Issue 19-story7.pdf")
+(97.17 KB)
+
+In a case that started with the discovery of structuring at a local credit union, investigators found corruption and kickbacks on the part of public transit and utilities officials. With some corrupt officials asking for a percentage in kickbacks on multi-million dollar contracts, the contractors and officials found themselves struggling to handle the currency that the scheme was generating. Multiple court documents describe conversations the defendants had about avoiding Bank Secrecy Act reporting requirements.
+
+The case began when a task force identified several SARs filed on an employee of a utility company. The employee conducted a number of transactions, namely structured cash withdrawals, at a local credit union. The subsequent investigation determined that the employee was receiving kickbacks from various contractors. Further investigation uncovered the kickbacks paid to other utility employees.
+
+The defendants in many instances approved payments for work that was never performed. In addition, the defendants often demanded as a kickback a percentage of the “extras,” or unearned payments made to the contractor. Certain defendants demanded monthly kickback payments in exchange for ensuring that the contractor’s invoices would be paid promptly, and that the payments requested in the invoices would not be cut. On other occasions, certain defendants agreed, in exchange for bribe payments, to direct additional work to the contractor that was not necessary or required.
+
+In all, more than 10 individuals have pleaded guilty to charges related to soliciting and accepting more than $1 million in kickbacks from a contractor in connection with construction projects.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues*, Issue 19, May 2011]
+
+Tags
+
+Involving SARs
+
+Schemes and Scams
+
+Depository Institutions
+
+BSA Violations
+
+Corruption
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

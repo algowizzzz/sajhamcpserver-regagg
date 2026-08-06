@@ -1,0 +1,25 @@
+{
+  "doc_id": "87793b9656ec364e",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Guide for the Demutualization of Mutual Property and Casualty Insurance Companies with Non-mutual Policyholders - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/guide-demutualization-mutual-property-casualty-insurance-companies-non-mutual-policyholders",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4c331c17616cff587a07c22668176159b69f9be3b097f7484e9c8db6e8677a2e",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/87793b9656ec364e",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

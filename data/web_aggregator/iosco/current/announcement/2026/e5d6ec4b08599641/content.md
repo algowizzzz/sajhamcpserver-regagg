@@ -1,0 +1,2652 @@
+CODE OF CONDUCT FUNDAMENTALS 
+FOR CREDIT RATING AGENCIES 
+ 
+ 
+Final Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE BOARD 
+OF THE 
+INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS 
+ 
+FR05/2015 MARCH 2015
+
+Copies of publications are available from: 
+The International Organization of Securities Commissions website www.iosco.org 
+ 
+© International Organization of Securities Commissions 2015. All rights reserved. Brief 
+excerpts may be reproduced or translated provided the source is stated. 
+ 
+Certain authorities may consider rule proposals or standards that relate to the substance of this 
+report.  These authorities provided information to IOSCO or otherwise participated in the 
+preparation of this report, but their participation should not be viewed as an expression of a 
+judgment by these authorities regarding their current or future regulatory proposals or of their 
+rulemaking or standards implementation work.  This report thus does not reflect a judgment by, 
+or limit the choices of, these authorities with regard to their proposed or final versions of their 
+rules or standards.
+
+Code of Conduct Fundamentals for Credit Rating Agencies – Final Report 
+Table of Contents 
+ 
+ 
+I. Introduction ............................................................................................................................ 1 
+II. Historical Background ........................................................................................................... 1 
+III. Revisions to the IOSCO CRA Code ...................................................................................... 5 
+Appendix A: New IOSCO CRA Code.......................................................................................... 39
+
+1 
+ 
+I. Introduction 
+ The IOSCO Code of Conduct Fundamentals for Credit Rating Agencies (the “IOSCO 
+CRA Code”) is intended to offer a set of robust, practical measures as a guide to and a 
+framework for CRAs with respect to protecting the integrity of the rating process, ensurin g that  
+investors  and  issuers  are  treated  fairly,  and  safeguarding  confidential  material information 
+provided them by issuers.  The IOSCO CRA Code was first published in 2004 when few 
+jurisdictions had laws governing activities of CRAs.  In recent  years, many IOSCO members 
+have implemented registration and oversight programs for CRAs and have exercised supervisory 
+authority over CRAs.  In light of these developments, IOSCO is adopting significant revisions 
+and updates to the IOSCO CRA Code.1  
+ 
+II. Historical Background 
+ In 2003, IOSCO published a set of principles with respect to CRAs (the “IOSCO CRA 
+Principles”).2  At the same time, IOSCO also published a report outlining the activities of CRAs, 
+the types of regulatory issues that arise relating to  these activities, and how the IOSCO CRA 
+Principles address the issues.3 The report highlighted the growing and sometimes controversial 
+importance placed on credit ratings,  and found that, in so me cases, CRAs’ activities are not 
+always well understood by investors and issuers alike.  Given this lack of understanding, and 
+because CRAs typically were subject to little  formal regulation or oversight in most 
+jurisdictions, concerns had been raised regarding the manner in which CRAs protect the 
+integrity of the rating process, ensure that  investors  and  issuers  are  treated  fairly,  and  
+safeguard  confidential  material infor mation provided to them by issuers.  Consequently, the 
+IOSCO CRA Principles were inten ded to be a useful tool for CRAs, regulators, and others 
+seeking to improve how CRAs operate and how credit ratings are used by market participants.  
+The IOSCO CRA Principles address four key objectives to promote informed, independent 
+analyses and opinions by CRAs: 
+ 
+ Quality and integrity of the rating process:   CRAs should endeavor to issue opinions 
+that help reduce the asymmetry of information among borrowers, lenders and other 
+market participants. 
+ 
+ Independence and conflicts of interest:   CRA ratings decisions should be independent 
+and free from political or economic pressures and from conflicts of interest arising due to 
+the CRA’s ownership structure, business or financial activities, or the financial interests 
+of the CRA’s employees.  CRAs should, as far as possible, avoid activities, procedures or 
+relationships that may compromise or appear to compromise the independence and 
+objectivity of the credit rating operations. 
+ 
+                                                 
+1  The new IOSCO CRA Code is attached to this report at Appendix A. 
+2  See IOSCO Technical Committee, Statement of Principles Regarding the Activities of Credit Rating 
+Agencies (Sept. 2003), available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD151.pdf. 
+3  See IOSCO Technical Committee, Report on the Activities of Credit Rating Agencies (Sept. 2003), 
+available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD153.pdf.
+
+2 
+ 
+ Transparency and timeliness of ratings disclosure:  CRAs should make disclosure and 
+transparency an objective in their ratings activities. 
+ 
+ Confidential information:   CRAs should maintain in confidence all non -public 
+information communicated to them by any issuer, or its agents, under the terms of a 
+confidentiality agreement or otherwise under a mutual understanding that the information 
+is shared confidentially. 
+Following publication of the IOSCO CRA Principles, some commenters, including a 
+number of CRAs, suggested that it would be useful if IOSCO were to develop a more specific 
+and  detailed  code  of  conduct  giving  guidance  on  how  the IOSCO CRA Principles  could  
+be implemented in practice.  IOSCO responded in 2004 with the publication of the first iteration 
+of the IOSCO CRA Code. 4  The IOSCO CRA Code was based on input from IOSCO member 
+jurisdictions, CRAs, the Basel Committee on Banking Supervision, and the International 
+Association of Insurance Supervisors. 5  The IOSCO CRA Code was intended to advance the 
+goals of investor protection, fairness, efficiency, and transparency in sec urities markets, and the 
+reduction of systemic risk.  More specifically, the IOSCO CRA Code was designed to provide 
+guidance to CRAs on how the IOSCO CRA Principles could be implemented to: help guard 
+against conflicts of interest; ensure credit rating meth odologies are used consistently by 
+employees; provide investors with sufficient information to judge the quality of the CRA’s credit 
+ratings; and generally ensure the integrity of the credit rating process. The IOSCO CRA Code 
+also was designed to be releva nt to all CRAs irrespective of their size, their business model, and 
+the market in which they operate. 
+ In the wake of the 2008 financial crisis, the IOSCO Chairman’s Task Force on Credit 
+Rating Agencies (the “CRA Task Force”) – the predecessor of the Committee on Credit Ratings 
+(“C6”) – undertook a study of the role of CRAs in the structured finance market. The study’s 
+findings were released in a report. 6  The report included several recommendations to revise the 
+IOSCO CRA Code, which were adopted concurre ntly with the publication of the report. 7  The 
+revisions were designed to address the concerns that emerged from the study, including questions 
+regarding the quality of information that CRAs relied on, suggestions that CRAs were too slow 
+to review existing  ratings and make downgrades as appropriate, and the possible conflict of 
+interest arising from CRAs advising issuers on how to design structured finance products. Based 
+on the recommendations, an updated IOSCO CRA Code was published in May 2008  (the “2008 
+Code”).  The revisions, among other things, added the following disclosure provisions to the 
+IOSCO CRA Code : (1)  whether any one issuer, originator, arranger, subscriber or other client 
+                                                 
+4   See IOSCO Technical Committee, Code of Conduct Fundamentals for Credit Rating Agencies (Dec. 2004), 
+available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD180.pdf.   
+5  See Chairman’s Task Force of the Technical Committee of IOSCO, Code of Conduct Fundamentals for 
+Credit Rating Agencies – Consultation Report (Oct. 2004), available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD173.pdf. 
+6  See IOSCO Technical Committee, The Role of Credit Rating Agencies in Structured Finance Markets 
+(May 2008), available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD270.pdf. 
+7  See IOSCO Technical Committee, Code of Conduct Fundamentals for Credit Rating Agencies (rev. May 
+2008), available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD271.pdf
+
+3 
+ 
+and its affiliates make up 10% or more of the CRA’s annual revenue; ( 2) whether the issuer of a 
+structured finance product has informed the CRA that it is publicly disclosing all relevant 
+information about the rated product so investors and other CRAs can conduct their own analyses 
+of these products independently of the con tracted CRA; (3) the attributes and limitations of each 
+credit opinion, and the extent to which the CRA verifies information provided to it by the issuer 
+or originator of a rated security; (4) the degree to which the CRA analyzes how sensitive a 
+structured finance product’s rating is to changes in the CRA’s underlying ratings assumptions; 
+(5) the principal methodology or methodology version in use whe n determining a rating; and 
+(6) the CRA’s internal code of conduct on its home webpage. 
+ 
+ In 2009, the CRA Task Force completed a review of the level of CRA implementation of 
+the IOSCO CRA Code and, in particular, the 2008 revisions. 8   The results of the review showed 
+that, among the CRAs reviewed, a number were found to have substantially implemented the 
+IOSCO CRA Code, including the three largest CRAs – Fitch Ratings, Inc. (“Fitch”), Moody’s 
+Investors Service, Inc. (“Moody’s”), and Standard & Poor’s Rating Services (“S&P”) .  In 
+addition, a large majority of the remaining CRAs had implemented the 2004 iteration  of the 
+IOSCO CRA Code but had not yet implemented the provisions added through the 2008 
+revisions.  Only a handful of the CRAs reviewed were found to have not implemented the 
+IOSCO CRA Code in any meaningful way. 
+ 
+In May 2009, IOSCO converted the CRA Task  Force into a permanent committee on 
+CRAs (C6), with a mandate to: 
+ Regularly discuss, evaluate, and consider regulatory and policy initiatives vis -à-vis CRA 
+activities and oversight in an effort to seek cross border regulatory consensus through 
+such means as the IOSCO CRA Code; and 
+ 
+ Facilitate regular dialogue between securities regulators and the credit rating industry. 
+Given the emergence of CRA registration and oversight programs in the 2006 -2010 
+timeframe, IOSCO published a report in 2010 containing the  results of C6’s evaluation of how 
+regional and national authorities were implementing CRA laws and regulations. 9  Among other 
+things, the report concluded that, while the structure and specific provisions of regulatory 
+programs may differ, the objectives of the four IOSCO CRA Principles are embedded into each 
+of the programs reviewed.  Indeed, the principles appear to be the building blocks on which CRA 
+regulatory programs have been constructed. 
+In 2012, IOSCO published a survey report prepared by C6, whic h provides a 
+comprehensive description of the key risk controls established by CRAs to promote the integrity 
+                                                 
+8  See IOSCO Technical Committee, A Review of Implementation of the IOSCO Code of Conduct 
+Fundamentals for Credit Rating Agencies (Mar. 2009), available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD286.pdf. 
+9  See IOSCO Technical Committee, Regulatory Implementation of the Statement of Principles Regarding the 
+Activities of Credit Rating Agencies (Feb. 2011), available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD346.pdf.
+
+4 
+ 
+of the credit rating process and the procedures established to manage conflicts of interest. 10  The 
+2012 report serves as a resource to increase pub lic understanding of the internal workings of 
+CRAs, and to allow CRAs to compare their internal controls and procedures with those of their 
+peers.  The report, in conjunction with disclosures that CRAs make about their controls and 
+procedures, also may hel p users of ratings draw their own conclusions about an individual 
+CRA’s controls and procedures and thereby help users make informed decisions with respect to 
+their use of credit ratings. 
+In July 2013, IOSCO published a final report recommending the creati on of supervisory 
+colleges for certain globally active CRAs. 11  Supervisory core colleges for Fitch, Moody’s, and 
+S&P held their inaugural meetings on November 5–6, 2013 in New York.  The colleges for S&P 
+and Moody’s are chaired by the U.S. Securities and E xchange Commission, and the college for 
+Fitch is chaired by the European Securities and Markets Authority.  IOSCO expects that these 
+supervisory colleges will operate as a forum for regulators to exchange information about these 
+internationally active CRAs, including the following: 
+ Compliance with local or regional laws and regulations,  
+ 
+ The CRA’s implementation and adherence to the IOSCO CRA Code, and  
+ 
+ The establishment and operation of rating models and methodologies, internal controls, 
+procedures to manage conflicts of interest, and procedures for handling material non -
+public information, with the goal of promoting a better understanding of the risks faced 
+or posed by the internationally active CRA and how relevant supervisors are addressing 
+these risks.  
+ 
+In February 2014, IOSCO published proposed revisions to the IOSCO CRA Code to take 
+into account the fact that CRAs are now supervised by regional and national authorities  (the 
+“Consultation Report”) .12  After considering public comments in response to  the Consultation 
+Report, the new IOSCO CRA Code  being adopted in this Final Report  (the “new IOSCO CRA 
+Code”) is intended to work  in harmony with CRA registration and oversight programs and to 
+continue operating as the international standard for CRA self -governance.  The revisions result, 
+in part, from the experience of IOSCO members in supervising CRAs.  They also are informed 
+by work undertaken by C6, including the survey report describing the key risk controls 
+established by CRAs to promote the integrit y of the credit rating process and the procedures 
+established to manage conflicts of interest.  Further, as part of the work stream to revise the 
+IOSCO CRA Code, C6 surveyed its member jurisdictions on whether the IOSCO CRA Code’s 
+provisions are the same, similar, or in conflict with member jurisdictions’ laws.  C6 also sent a 
+                                                 
+10   See IOSCO Board, Credit Rating Agencies: Internal Controls Designed to Ensure the Integrity of the Credit 
+Rating Process and Procedures to Manage Conflicts of Interest (Dec. 2012), available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD398.pdf. 
+11   See IOSCO Board, Supervisory Colleges for Credit Rating Agencies (July 2013), available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD416.pdf. 
+12  See IOSCO Board, Code of Conduct Fundamentals for Credit Rating Agencies – Consultation Report (Feb. 
+2014), available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD437.pdf.
+
+5 
+ 
+similar survey to 26 CRAs having principal offices in Argentina, Brazil, Canada, Chile, the 
+European Union, Japan, Mexico, or the United States.  These CRAs were asked to identify any  
+IOSCO CRA Code provisions that conflicted with the laws in their home jurisdiction, and also to 
+identify any IOSCO CRA Code provisions they found to be repetitive, ambiguous, outdated, or 
+that contained obsolete terminology.  Certain CRAs also presented a t C6 meetings in which they 
+discussed potential revisions to the IOSCO CRA Code provisions. The se survey responses and 
+presentations of the CRAs also informed the revisions to the IOSCO CRA Code.   
+III. New IOSCO CRA Code 
+The revisions to the IOSCO CRA Cod e are designed to achieve a number of objectives: 
+(1) to strengthen the IOSCO CRA Code by enhancing provisions regarding protecting the 
+integrity of the credit rating process, managing conflicts of interest, providing transparency, 13 
+and safeguarding non -public information; (2) to strengthen the IOSCO CRA Code by adding 
+measures regarding governance, training, and risk management; and (3) to improve the clarity of 
+the IOSCO CRA Code by adding definitions of key terms and revising existing definitions, 
+updating terminology, restructuring existing provisions to better group them thematically, and 
+eliminating extraneous text.  As noted above, the revisions are informed by the experience of 
+IOSCO members in exercising supervisory authority with respect to CRAs ( e.g., policy making, 
+examinations, inspections, and monitoring) and through the work of C6.  The new IOSCO CRA 
+Code is intended to work in harmony with existing CRA laws and regulations and to be the 
+international standard for CRA self-governance.14 
+ The first objective of the revisions is to strengthen the IOSCO CRA Code by enhancing 
+certain provisions.   New Provisions 1.1, 1.4, 1.9, 1. 10, 1.1 2–1.17, and 1.19 –1.23 in Section 1 
+(Quality and Integrity of the Credit Rating Process) of the IOSCO CRA Code modify current 
+provisions or add new provisions to enhance the IOSCO CRA Code’s measures that are designed 
+to protect the integrity of the credit rating process.  New Provisions 2.1, 2.2, and 2.5 –2.18 in 
+Section 2 (CRA Independence and Avoidance of Conflicts of Interest) of the IOSCO CRA Code 
+modify current provisions to enhance the IOSCO CRA Code’s measures designed to manage 
+conflicts of interest.  New Provisions 3.1, 3.3, 3.5 –3.11, and 3.13 –3.17 in Section 3A 
+(Transparency and Timeliness of Credit Ratings Disclosure) of the IOSCO CRA Code and new 
+Provisions 5.1–5.4 in Section 5 (Disclosure and Communication with Market Participants) of the 
+IOSCO CRA Code modify current provisions or add new provisions to enhance the IOSCO CRA 
+Code’s measures designed to enhance transparency.  New Provisions 3.19 –3.21 in Section 3B 
+(The Treatment of Confidential Information) of the IOSCO CRA Code modify existing 
+provisions or add ne w provisions to enhance the IOSCO CRA Code’s measures designed to 
+safeguard non-public information.  These modifications and additions are described below. 
+                                                 
+13  With respect to enhancing transparency, IOSCO notes that the communiqué resulting from the November 
+4-5, 2012 meeting of the G20 Finance Ministers and Central Bank Governors stated, in pertinent part, 
+“[w]e encourage further work to enhance transparency of and competition among credit rating agencies....”  
+See G20, Communiqué of Ministers of Finance and Central Bank Governors of the G20, Mexico City 
+(Nov. 4-5, 2012), available at http://www.treasury.gov/resource-center/international/g7-
+g20/Documents/G20%20Ministerial%20Communique%20November%204-5-2012-Mexico%20City.pdf.   
+14  The preamble to the IOSCO CRA Code continues to provide that laws and regulations in jurisdictions in 
+which a CRA operates take precedence over the IOSCO CRA Code.
+
+6 
+ 
+ The second objective of the revisions is to strengthen the IOSCO CRA Code by adding 
+measures regard ing governance, training, and risk management.  The revisions to the IOSCO 
+CRA Code meet this objective by adding new Provisions 4.1, 4.2, and 4.3 to new Section 4 
+(Governance, Risk Management, and Employee Training).  These three new provisions address 
+the responsibility of the CRA’s board with respect to the CRA’s code of conduct, the 
+establishment and maintenance of a risk management function, and employee training. 
+ The third objective of the revisions is to improve the clarity of the IOSCO CRA Code by 
+adding definitions of key terms and revising existing definitions, updating terminology, 
+restructuring existing provisions to better group them thematically, and eliminating extraneous 
+text.  Terminology and extraneous text have been revised as indicated i n the explanatory notes 
+below.  The IOSCO CRA Code revises the definitions of “analyst”, “CRA”, and “credit rating”, 
+and adds definitions for “credit rating action”, “credit rating methodology”, “credit rating 
+process”, “employee”, “entity”, “trading instr ument”, “obligation”, and “obligor”. The revisions 
+to the existing definitions and new definitions are designed to provide greater clarity as to what is 
+intended under the provisions of the IOSCO CRA Code.  
+ In addition, provisions have been restructured t o better group them thematically.  2008 
+Code Provision 1.10 is new Provision 3.17 (regarding discontinued ratings), to move the 
+provision from deleted Section 1B (Monitoring and Updating) to Section 3A (Transparency and 
+Timeliness of Credit Rating Disclosu re).  2008 Code Provision 3.15 is new  Provision 4.3 
+(regarding employee training) of the IOSCO CRA Code , due to the creation of new Section 4 
+(Governance, Risk Management, and Employee Training).  Finally, Section 3A (Transparency 
+and Timeliness of Credit Ratings Disclosure) of the IOSCO CRA Code has been re -ordered so 
+that more general disclosures are discussed at the beginning of the section ( new Provisions 3.1–
+3.8 of the IOSCO CRA Code ), before the disclosures related to specific credit rating actions 
+(new Provisions 3.9–3.17 of the IOSCO CRA Code). 
+The following explanatory notes provide a redline comparison  of the IOSCO CRA Code 
+as proposed in the Consultation Report and adopted in this Final Report and briefly explain the 
+differences between the IOSCO CRA Code in the 2008 Code, the Consultation Report, and the 
+Final Report. 
+ 
+Global changes 
+Certain non-substantive clarifying changes are made globally throughout the IOSCO CRA Code , which are not 
+discussed in the explanatory notes below.  These clarifying changes include the following: 
+ Replacing “The CRA” with “A CRA” the first time it appears in a provision; 
+ Replacing “assessment(s)” with “credit rating(s)”; 
+ Replacing “rating(s)” with “credit rating(s)” where “rating(s)” is used as a noun; 
+ Replacing “prospective assessment” with “preliminary indication”; and 
+ Occasionally replacing “any” with “a”. 
+  
+Affiliate 
+Redline Comparison between Consultation and Final Reports: “Affiliate” means an entity that directly or 
+indirectly controls, is controlled by, or is under common control with the CRAanother entity.
+
+7 
+ 
+Summary of Changes between 2008 Code and Final Report:  The term “affiliate” is not defined in the 2008 Code.   
+Summary of Changes between Consultation and Final Reports:  In response to comments that “affiliate” does not 
+always refer to a CRA’s affiliate  in the IOSCO CRA Code  (see new Provisions 2.4, 2.8, 2.14, and 2.18), t he 
+definition of “affiliate” is revised from the Consultation Report by replacing “the CRA” with “another entity”. 
+ 
+Analyst 
+Redline Comparison between Consultation and Final Reports: “ Analyst” means a CRA employee who performs 
+analytical functions that are necessary for the issuing or monitoring of a credit rating or participates in determining 
+credit ratings, including an employee involved in a credit rating committee. 
+Summary of Changes between 2008 Code and Final Report:  The term “ analyst” is defined in the 2008 Code  as 
+“[a] CRA employee who is primarily employed as a credit analyst” .  The definition of “ analyst” is revised to 
+improve clarity by providing greater detail on the responsibilities of a credit analyst. 
+Summary of Changes between Consultation and Final Reports:  The definition of “analyst” is adopted as proposed 
+in the Consultation Report.  
+ 
+Credit rating/Rating 
+Redline Comparison between Consultation and Final Reports: “Credit rating” or “rating” means an assessment 
+regarding the creditworthiness of an entity or obligation, expressed using an established and defined ranking 
+system. 
+Summary of Changes between 2008 Code and Final Report:  The term “credit rating” is defined in the 2008 Code  
+as “an opinion regarding the creditworthiness of an entity, a credit commitment, a debt or debt -like security or an 
+issuer of such obligations, expressed using an established and defined ranking system” .  The definition of “credit 
+rating” is revised to im prove clarity by replacing “entity, a credit commitment, a debt or debt -like security or an 
+issuer of such obligation s” with “entity or obligation”  (which are defined terms) .  In addition, t he definition of 
+“credit rating” is revised by replacing “opinion” with “assessment”.  This modification is intended to reflect the fact 
+that under the provisions of the IOSCO CRA Code, CRAs should strive to determine credit ratings: (1) using 
+methodologies that are rigorous, among other things; (2) that reflect all info rmation known, and believed to be 
+relevant at the time when the credit rating is determined; (3) using analysts that have appropriate knowledge and 
+expertise; and (4) that are free of bias and not influenced by conflicts.  The IOSCO CRA Code provisions cal l for 
+policies, procedures, and controls all designed to ensure the credit rating process achieves these objectives.  Thus, 
+while the determination of a credit rating frequently involves subjective judgment, CRAs should establish processes 
+that govern how credit ratings are determined.   
+Several CRA commenters argued that “opinion” rather than “assessment” better describes the nature of a credit 
+rating.  The use of the word “assessment” is not intended to reflect a changed view on the fundamental nature of a 
+credit rating.15  For example, certain CRA laws of IOSCO member jurisdictions define the term “credit rating,” with 
+some definitions using the word “opinion” and others using the word “assessment.”16   Moreover, at least one 
+authoritative source defines the word “assessment”  as, among other things, “the act of making a judgment about 
+something…an idea or opinion about something” 17  As indicated above, the use of the word “assessment” is 
+intended to focus the definition on the process that results in a cred it rating – a process that under the provision s of 
+the IOSCO CRA Code should be governed in a manner tha t is designed to result in the issuance of independent and 
+high quality credit ratings.  
+                                                 
+15  The IOSCO CRA Principles continue to refer to “opinions.”   
+16  See, e,g., Canadian securities legislation (using the word “assessment”); EU CRA  Regulation, Article 3.1 
+lett. a) (using the word “opinion”); Hong Kong Securities and Futur es Ordinance Schedule 5 (using the 
+word “opinions”); Israeli Law to Regulate the Activity of Credit Rating Companies – 5774-2014, Article 1 
+(using the word “assessment”);  Japanese Financial Instruments and Exchange Act, Article 2(34) ( using the 
+word “assessment”); United States 15 U.S.C. 78c(a)(60) (using the word “assessment”). 
+17  See merriam-webster.com (defining the word “assessment”), available at http://www.merriam-
+webster.com/dictionary/assessment.
+
+8 
+ 
+Summary of Changes between Consultation and Final Reports:  The definition of “ credit rating ” is adopted as 
+proposed in the Consultation Report. 
+ 
+Credit rating action 
+Redline Comparison between Consultation and Final Reports: “Credit rating action” means to determine an 
+initial credit rating, an upgrade of an existing  credit rating, a downgrade of an existing credit rating (including to a 
+default category), an affirmation (or confirmation) of an existing credit rating, or a withdrawal of a credit rating. 
+Summary of Changes between 2008 Code and Final Report:  The term “credit rating action” is not defined in the 
+2008 Code.   
+Summary of Changes between Consultation and Final Reports:  The definition of “credit rating action” is revised 
+from the Consultation Report by deleting “(or confirmation)” after “an affirmation” .  This change responds to a 
+CRA’s comment that confirmations should not be included in the definition of “credit rating action” because they 
+are typically the result of a request from the rated entity. 
+ 
+Credit rating agency 
+Redline Comparison between Consultation and Final Reports: “Credit rating agency” or “CRA” means an entity 
+that is in the business of issuing credit ratings. 
+Summary of Changes between 2008 Code and Final Report:  The term “ credit rating agency ” is defined in the 
+2008 Code as an entity “whose business is the issuance of credit ratings for the purposes of evaluating the credit risk 
+of issuers of debt and debt -like securities” .  The definition of “ credit rating agency ” is revised to improve the 
+provision’s scope by deleting the prior limitation to entities whose purpose is “evaluating the credit risk of issuers of 
+debt and debt-like securities”. 
+Summary of Changes between Consultation and Final Reports:  The definition of “ credit rating agency ” is 
+adopted as proposed in the Consultation Report. 
+ 
+Credit rating methodology 
+Redline Comparison between Consultation and Final Reports: “Credit rating methodology” means the procedure 
+by which a CRA determines credit ratings, including the information that must be considered or analyzed  to 
+determine a credit rating and the analytical process to be undertakenframework used to determine the credit rating, 
+including, as applicable, the models, financial metrics, assumptions, criteria, or other quantitative or qualitative 
+factors to be used to determine the credit rating. 
+Summary of Changes between 2008 Code and Final Report:  The term “credit rating methodology” is not defined 
+in the 2008 Code. 
+Summary of Changes between Consultation and Final Reports:  The definition of “ credit rating methodology” is 
+revised from the Consultation Report to improve clarity by replacing “process to be undertaken” with “framework 
+used”. 
+ 
+Credit rating process 
+Redline Comparison between Consultation and Final Reports: “Credit rating process” means all the s teps taken 
+with respect to a credit rating action including, but not limited to, the CRA’s selection and assignment of analysts to 
+work on the matter, application of the credit rating methodology, decision -making activities (e.g., the operation of a 
+rating committee), interaction with the rated entity, obligor, originator, underwriter, or arranger, and as applicable, 
+dissemination of the credit rating publicly or to subscribers. 
+Summary of Changes between 2008 Code and Final Report:  The term “credit rating process” is not defined in the 
+2008 Code.  
+Summary of Changes between Consultation and Final Reports:  A CRA commented on the definition of “credit 
+rating process” proposed in the Consultation Report, seeking changes to clarify the phrase “dissemination of the 
+credit rating publicly or to subscribers”.  Accordingly, t he definition of “ credit rating process ” is revised by adding
+
+9 
+ 
+“as applicable” before the clause to clarify that “dissemination of a credit rating publicly” applies to ratings 
+disseminated under an issuer-paid model and “dissemination…to subscribers” applies to ratings disseminated under 
+a subscriber-paid model.  The term “arranger” as used in the definition of “credit rating process” and elsewhere in 
+the IOSCO CRA Code is intended to refer to a third party (i.e., a person other than the rated entity or obligor) that 
+organizes and structures a transaction for which a credit rating is procured , including interacting with the CRA 
+producing the credit rating.  In some cases, an originator or underw riter may also act as the arranger.   It also may be 
+the case that an originator or underwriter will  interact with a CRA solely in the ir capacity as an originator or 
+underwriter (i.e., not as an arranger) .  Consequently, the definition of “credit rating pro cess” and certain provisions 
+of the IOSCO CRA Code refer to originators, underwriters, and arrangers, among other entities.  
+ 
+Employee 
+Redline Comparison between Consultation and Final Reports: “Employee” means any individual who works for 
+the CRA on a full-time, part -time, or temporary basis, including any individual working as a contractor  who, 
+provided that such contractor is involved in the credit rating process. 
+Summary of Changes between 2008 Code and Final Report:  The term “ employee” is not defin ed in the 2008 
+Code. 
+Summary of Changes between Consultation and Final Reports:  The definition of “employee” is revised from the 
+Consultation Report to improve clarity by replacing “who” with “provided that such contractor”.  
+ 
+Entity 
+Redline Comparison between Consultation and Final Reports: “Entity” means a government; political 
+subdivision, agency, or instrumentality of a government; or a company, corporation, partnership, trust, estate, or 
+association. 
+Summary of Changes between 2008 Code and Final Report:  The term “entity” is not defined in the 2008 Code.   
+Summary of Changes between Consultation and Final Reports:  The definition of “entity” is adopted as proposed 
+in the Consultation Report.  One commenter asked to change the defined term  from “entity” to “rated entity”, but 
+this change was not made because “entity” does not always refer to a rated entity in the IOSCO CRA Code (e.g., in 
+the definition of “obligor”). 
+ 
+Trading instrument 
+Redline Comparison between Consultation and Final Repo rts: “Trading instrument” means a security, money 
+market instrument, derivative, or other similar product. 
+Summary of Changes between 2008 Code and Final Report:  The term “ trading instrument” is not defined in the 
+2008 Code. 
+Summary of Changes between Consultation and Final Reports:  The definition of “trading instrument” is adopted 
+as proposed in the Consultation Report. 
+ 
+Obligation 
+Redline Comparison between Consultation and Final Reports: “Obligation” means a trading instrument, credit 
+commitment, loan, or other similar product or transaction that has inherent credit risk. 
+Summary of Changes between 2008 Code and Final Report:  The term “ obligation” is not defined in the 2008 
+Code.   
+Summary of Changes between Consultation and Final Reports:  The definit ion of “ obligation” is adopted as 
+proposed in the Consultation Report.   
+ 
+Obligor
+
+10 
+ 
+Redline Comparison between Consultation and Final Reports: “Obligor” means the entity that is legally or 
+contractually obliged to make payments on a rated obligation. 
+Summary of Changes between 2008 Code and Final Report:  The term “obligor” is not defined in the 2008 Code.   
+Summary of Changes between Consultation and Final Reports:  The definition of “ obligor” is adopted as 
+proposed in the Consultation Report.   
+ 
+New Provision 1.1 
+Redline Comparison between Consultation and Final Reports: A CRA should establish, maintain, document, and 
+enforce a credit rating methodology for each class of entity or obligation for which the CRA issues credit ratings.  
+Each credit rating  methodology should be rigorous, capable of being applied consistently, and , where possible,  
+result in credit ratings that can be subjected to some form of objective validation based on historical experience.  
+Summary of Changes between 2008 Code and Final Report:  The first sentence of n ew Provision 1.1 introduces a 
+new concept to the IOSCO CRA Code: having a credit rating methodology for all classes of entities and obligations 
+the CRA rates.  The second sentence of new Provision 1.1 is based on 2008 Code P rovision 1.2.  New Provision 1.1 
+is revised to improve clarity by replacing  “A CRA should use rating methodologies that are” with “Each credit 
+rating methodology should be”; and replacing “systematic” with “capable of being applied consistently”.   
+Summary of Changes between Consultation and Final Reports:  New Provision 1.1 was proposed as Provision 1.1 
+in the Consultation Report.  Although the Consultation Report proposed deleting “where possible”  from the 2008 
+text, new P rovision 1.1, as adopted, adds this phrase back in response to written comments and a roundtable 
+discussion with CRA industry members, in recognition that a CRA may not always be able to objectively validate a 
+methodology based on historical experience (e.g., for a new product). 
+ 
+New Provision 1.2 
+Redline Comparison between Consultation and Final Reports: Credit ratings should reflect all information known , 
+and believed to be relevant , to the CRA, consistent with the applicable credit rating methodology that is in effect.  
+Therefore, the CRA should establish, maintain, document, and enforce policies, procedures, and controls to ensure 
+that the credit ratings and analyticalrelated reports it disseminates are based on a thorough analysis of all such 
+information. 
+Summary of Changes between 2008 Code and Final Report:  The first sentence of new Provision 1.2 is based on 
+the second clause of 2008 Code Provision 1.4, and the second sentence of  new Provision 1.2 is based on 2008 Code 
+Provision 1.1.  New Provision 1.2 is revised to strengthen and clarify the provision by replacing “adopt, implement 
+and enforce” with “establish, maintain, document, and enforce”; and replacing “written procedures” with “policies, 
+procedures, and controls”.  New Provision 1.2 is revised to improve clarity by replacing “published methodology” 
+with “applicable credit rating methodology that is in effect” ; replacing “opinions” with “credi t ratings and related 
+reports”; and replacing “according to the CRA’s published rating methodology” with “of all such information”.   
+Summary of Changes between Consultation and Final Reports:   New Provision 1.2 was proposed as Provision 
+1.2 in the Consultation Report.  New Provision 1.2 is revised from the Consultation Report to improve 
+comprehensiveness by replacing “analytical reports” with “related reports”.  
+ 
+New Provision 1.3 
+Redline Comparison between Consultation and Final Reports : TheA CRA should adopt reasonable m easures 
+designed to ensure that  it has the appropriate knowledge and expertise, and that  the information it uses in 
+determining credit ratings is of sufficient quality and obtained from reliable sources to support a high quality credit 
+assessment and is obtained from reliable sources.rating. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.3 is largely based on the third 
+sentence of 2008 Code Provision 1.7.  New Provision 1.3 is revised to strengthen and clarify the provision by adding 
+“designed to ensure”  after “reasonable measures” ; adding “it has the appropriate knowledge and expertise” after 
+“designed to ensure”; replacing “credible rating” with “high quality credit rating”; and adding that the rating should 
+be based on information “obtained from reliable sources”.
+
+11 
+ 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.3 was proposed as Provision 1.3 
+in the Consultation Report.  New Provision 1.3 is revised from the Consultation Report to strengthen and clarify the 
+provision by adding “it has the appropriate knowledge and expertise, and that” after “designed to ensure that”.   New 
+Provision 1.3 is further revised to improve clarity by moving the location of “obtained from reliable sources”; and 
+replacing “high quality credit assessment” with “high quality credit rating”.   New Provision 1.3 retains the phrase 
+“high quality” as proposed in the Consultation Report, rather than reverting to “credible” as suggested by one of the 
+commenters, because “high qualit y” incorporates the concept of “credibility” ( i.e., to be of high quality the credit 
+rating must be credible) as well as other concepts s uch as the credit rating being the  product of a rigorous 
+methodology. 
+ 
+New Provision 1.4  
+Redline Comparison between Consultation and Final Reports : A CRA should avoid issuing credit ratings for 
+entities or obligations for which it does not have appropriate knowledge and expertise information, knowledge, and 
+expertise.  For example, where the complexity or structure of a new type of structured finance product of a security 
+or the structure of a type of security,  or the lack of robust data about the assets underlying the structured finance 
+productsecurity raise serious questions as to whether the CRA can de termine a crediblehigh quality credit rating for 
+the security, the CRA should refrain from issuing a credit rating. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.4 is based on the second sentence of 
+2008 Code Provision 1.7 -3.  New  Provision 1.4 is revised to broaden the provision’s scope  by adding  a general 
+principle that applies to all securities instead of being limited t o structured finance products; and by replacing 
+“credible credit rating” with “high quality credit rating”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.4 was proposed as the first 
+paragraph of Provision 1.11 in the Consultation Report.  This paragraph is moved from the Consultation Report’s 
+Provision 1.11 because it is more consis tent with the heading “Quality of the Credit Rating Process”  (where new 
+Provision 1.4 is located ) than with the heading “ Integrity of the Credit Rating Process ” (where the Consultation 
+Report’s Provision 1.11 was located ).  In response to a written comment , new Provision 1.4 is revised from the 
+Consultation Report to replace “knowledge and expertise” with “information, knowledge, and expertise.”   In 
+addition, for consistency with new Provision 1.3, new Provision 1.4 changes the standard from a “credible cre dit 
+rating” to a “high quality credit rating”. 
+ 
+New Provision 1.5  
+Redline Comparison between Consultation and Final Reports : In assessing creditworthiness, analysts involved in 
+the credit rating action should use the credit rating methodology established by the CRA for the type of entity or 
+obligation that is subject to the credit rating action.  The credit rating methodology should be applied in a manner 
+that is consistent across all entities or obligations for which that methodology is used . 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.5 is based on 2008 Code Provision 
+1.3.  New Provision 1.5 is revised to clarify the provision’s scope by replacing “In assessing an issuer’s 
+creditworthiness” with “In assessing creditworthiness”;  and replacing “analysts involved in the preparation or 
+review of any rating action” with “analysts involved in the credit ra ting action”.  New Provision 1.5 is revised to 
+improve clarity by replacing “methodologies established by the CRA” with “methodolog y established by the CRA 
+for the type of entity or obligation”; replacing “Analysts should apply a given methodology” with “The credit rating 
+methodology should be applied” ; and replacing “consistent manner” with “manner that is consistent across all 
+entities or obligations for which that methodology is used”.  New Provision 1.5 no longer specifies that the 
+methodology is “as determined by the CRA” (as stated in 2008 Code Provision 1.3), because this phrase is already 
+conceptually incorporated in new Provision 1.5’s phrase “methodology established by the CRA”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.5 is adopted as proposed in the 
+Consultation Report’s Provision 1.4 (except that the provision’s numbering shifted due to the  insertion of new 
+Provision 1.4). 
+ 
+New Provision 1.6
+
+12 
+ 
+Redline Comparison between Consultation and Final Reports : A CRA should define the meaning of each category 
+in its rating scales and apply those categories consistently across all classes of rated entities and obligations to 
+which a given rating scale applies. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.6 is based on the third sentence of 
+2008 Code Provision 3.5(b).  New Provision 1.6 is revised to improve clarity by repl acing “clearly define” with 
+“define”; replacing “given rating symbol” with “each category in its rating scales”; and replacing “all types of 
+securities” with “all classes of rated entities and obligations”. 
+Summary of Changes between Consultation and Final  Reports:  New Provision 1.6 is adopted as proposed in the 
+Consultation Report’s Provision 1.5 (except that the provision’s numbering is shifted due the insertion of new 
+Provision 1.4). 
+ 
+New Provision 1.7  
+Redline Comparison between Consultation and Final Reports: Credit ratings should be assigned by the CRA as an 
+entity (not by an analyst or other employee of the CRA). 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.7 is based on the first clause of 
+2008 Code Provision 1.4.  New Pro vision 1.7 is revised to improve clarity by adding “as an entity” after “ assigned 
+by the CRA”; and replacing “analyst” with “analyst or other employee”.  
+Summary of Changes between Consultation and Final Reports:  New Provision 1.7 is adopted as proposed in  the 
+Consultation Report’s Provision 1.6 (except that the provision’s numbering is shifted due the insertion of new 
+Provision 1.4). 
+ 
+New Provision 1.8  
+Redline Comparison between Consultation and Final Reports : TheA CRA should assign analysts who, individually 
+or collectively (particularly where credit rating committees are used), have appropriate knowledge and experience 
+for assessing the creditworthiness of the type of entity or obligation being rated . 
+Summary of C hanges between 2008 Code and Final Report:  New Provision 1.8 is based on the third clause of 
+2008 Code Provision 1.4.  New Provision 1.8 is revised to improve clarity by replacing “use people” with “assign 
+analysts”; replacing “in developing a rating opin ion” with “for assessing the creditworthiness”; and replacing “the 
+type of credit being applied” with “the type of entity or obligation being rated.”  
+Summary of Changes between Consultation and Final Reports:  New Provision 1.8 is adopted as proposed in th e 
+Consultation Report’s Provision 1.7 (except that  “The CRA” is replaced with “A CRA”, and  the provision’s 
+numbering is shifted due the insertion of new Provision 1.4).   
+ 
+New Provision 1.9  
+Redline Comparison between Consultation and Final Reports : A CRA should maintain internal records that are 
+accurate and sufficiently detailed and comprehensive to reconstruct the credit rating process for a given credit 
+rating action.  The records should be retained for as long as necessary to promote the integrity of t he CRA’s credit 
+rating process, including to permit internal audit, compliance, and quality control functions to review past credit 
+rating actions in order to carry out the responsibilities of those functions.  Further, a CRA should establish, 
+maintain, do cument, and enforce policies, procedures, and controls designed to ensure that its employees comply 
+with the CRA’s internal record maintenance, retention, and disposition requirements and with applicable laws and 
+regulations governing the maintenance, retention, and disposition of CRA records. 
+Summary of Changes between 2008 Code and Final Report:  The first sentence of n ew Provision 1.9 is based on 
+2008 Code Provision 1.5.  New Provision 1.9 is revised to improve clarity by  replacing “reasonable period of time” 
+with “for as long as necessary to promote the integrity of the CRA’s credit rating process…” ; and replacing “records 
+to support its credit opinions” with “ records that are accurate and sufficiently detailed and comprehensive to 
+reconstruct the credit rating process for a given credit rating action ”.  “[O]r in accordance with applicable law” was 
+removed, because the preamble to the IOSCO CRA Code already provides that laws and regulations in jurisdictions 
+in which a CRA operates ( e.g., record making an d retention requirements) take precedence over the IOSCO CRA
+
+13 
+ 
+Code.  The second sentence of n ew Provision 1.9 is a new concept  stating that a CRA should establish, maintain, 
+document, and enforce policies, procedures, and controls with respect to recordkeep ing. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.9 is adopted as proposed in the 
+Consultation Report’s Provision 1.8 (except that the provision’s numbering is shifted due the insertion of new 
+Provision 1.4).  A commenter raised concerns about the burden of implementing internal audit, compliance, and 
+quality control functions  because these functions are mentioned in Provision 1.8 of the Consultation Report.  
+However, this provision set s forth a principle relating to how long a CRA should maintain records – not the 
+establishment of these functions.  Moreover, as discussed below in the context of principles relating to internal 
+functions, the form of a given internal function is expected to be affected by the CRA’s size and complexity, and as 
+such, an internal function may not necessarily operate as a separate office within the CRA. 
+ 
+New Provision 1.10  
+Redline Comparison between Consultation and Final Reports : A CRA should establish, maintain, document, and 
+enforce policies, procedures, and controls designed to avoid issuing credit ratings, analyses, or reports that contain 
+misrepresentations or are otherwise misleading as to the general creditworthiness of a rated entity or obligation . 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.10 is based on 2008 Code Provision 
+1.6.  New Provision 1. 10 is revised to enhance the provision by replacing “credit analyses or reports” with “ credit 
+ratings, analyses, or reports ”; and replacing “issuer” with “rated entity”.  In addition, the standard in new Provision 
+1.10 is revised to improve clarity by replacing “should take steps” with “should establish, maintain, document, and 
+enforce policies, procedures, and controls”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.10 is adopted as proposed in the 
+Consultation Report’s Provision 1. 9 (except that the provision’s numbering is shifted due the insertion of new 
+Provision 1.4).   
+ 
+New Provision 1.11  
+Redline Comparison between Consultation  and Final Reports : A CRA should ensure that it has and devotes 
+sufficient resources to carry out and maintain high-quality credit assessments of the entities and obligations for 
+which it issues and maintains quality credit ratings.  
+When deciding whether to issue a credit rating for an entity or obligation, a CRA should assess whether it is able to 
+devote a sufficient number of analysts with the skill sets to make adetermine high quality credit assessmentratings, 
+and whether the analy sts will have access to sufficient information  needed in order to make the 
+assessmentdetermine a high quality credit rating. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.11 is based on the first two 
+sentences of 2008 Code Provision 1.7.  New Provision 1.11 is revised to clarify the provision’s scope by  replacing 
+“carry out high -quality credit assessments of all obligations and issuers it rates” with “carry out and maintain high 
+quality credit ratings”;  replacing “obligation or issuer” with “entity or obligation”; replacing “personnel” with 
+“analysts” throughout the provision ; removing “likely” before the phrase “will have access to sufficient 
+information”; replacing “rate or continue rating” with “issue ”; and replacing “sufficient skill sets  to make a proper 
+rating assessment” with “skill sets to make high quality credit ratings”.   
+Summary of Changes between Consultation and Final Reports:  New Provision 1.11 was proposed as Provision 
+1.10 in the Consultation Report (due to the insertion of new Provision 1.4).  New Provision 1.11 is revised from the 
+Consultation Report to improve clarity by replacing “make” with “determine”; and replacing “high quality credit 
+assessments of the entities and obligations f or which it issues and maintains credit ratings” with “high quality credit 
+ratings”.  New Provision 1.11  retains the phrase “high quality” as proposed in the Consultation Report, rather than 
+changing the standard to “credible” as suggested by one of the co mmenters, because “high quality” incorporates the 
+concept of “credibility” ( i.e., to be of high quality the credit rating must be credible) as well as other concepts such 
+as the credit rating being the product of a rigorous methodology. 
+ 
+New Provision 1.12
+
+14 
+ 
+Redline Comparison between Consultation and Final Reports : TheA CRA should establish and maintain a review 
+function made up of one or more senior managers with appropriate experience to review the feasibility of providing 
+a credit rating for a type of en tity or obligation that is materially different from the entities or obligations the CRA 
+currently rates. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.12 is based on 2008 Code Provision 
+1.7-1.  New Provision 1.12 is revised to strengthen the provision and broaden its scope by adding that a CRA should 
+maintain a review function (in addition to establishing it) , and by applying the provision to all securities instead of 
+being limited to structured finance products. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.12 was proposed in the second 
+paragraph of the Consultation Report’s Provision 1.11 .  The provision is adopted as proposed in th e Consultation 
+Report (except that “The CRA” is replaced with “A CR A”).  As discussed above, the first paragraph of the 
+Consultation Report’s Provision 1.11 is located in new Provision 1.4. 
+ 
+New Provision 1.13  
+Redline Comparison between Consultation and Final Reports : A CRA should establish and maintain a review 
+function made up of one or more senior managers responsible for conducting a rigorous, formal, and periodic 
+review, on a regular basis pursuant to an established timeframe, of all aspects of the CRA’s credit rating 
+methodologies (including models and key assumptio ns) and significant changes to the credit rating methodologies.  
+For example, a CRA should assess whether existing credit rating methodologies and models for determining credit 
+ratings of structured finance products are appropriate when the risk characteri stics of the assets underlying a 
+structured finance product change materially. 
+Where feasible and appropriate for the size and scope of its credit rating business, this function should be 
+independent of the employees who are principally responsible for determining credit ratings. 
+Summary of Changes between 2008 Code and Final Report:  The first sentence of new Provision 1.13 is based on 
+the first sentence of 2008 Code Provision 1.7 -2.  The first sentence of new Provision 1.13 is revised to strengthen 
+and cl arify the provision  by replacing “ establish and implement” with “establish and maintain”; adding that the 
+review function should be “made up of one or more senior managers”; and replacing “rigorous and formal review” 
+with “rigorous, formal, and periodic review, on a regular basis pursuant to an established timeframe” .  The first 
+sentence of new Provision 1.13 is revised to improve clarity by replacing  “methodologies and models  and 
+significant changes to the methodologies and models it uses” with “all aspe cts of the CRA’s credit rating 
+methodologies (including models and key assumptions) and significant changes to the credit rating methodologies”.  
+The second sentence of new Provision 1.13 is based on the first sentence of 2008 Code Provision 1.7 -3.  The second 
+sentence of new Provision 1.13 is revised to improve clarity by  using the provision as an example;  and replacing 
+“structured product(s)” with “structured finance product(s)” throughout the provision. 
+The third sentence of new Provision 1.13 is based on the second sentence of 2008 Code Provision 1.7 -2.  The third 
+sentence of new Provision 1.13 is revised to improve clarity by replacing “services” with “business”; and replacing 
+“business lines that are p rincipally responsible for  rating various  classes of issuers and obligations” with 
+“employees who are principally responsible for determining credit ratings”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.13 is adopted as prop osed in the 
+Consultation Report’s Provision 1.12 (except that the provision’s numbering is shifted due the insertion of new 
+Provision 1.4).  In response to a commenter’s request for clarification regarding the “review function”, the review 
+function described here (relating to reviewing existing credit rating methodologies) should be distinguished from the 
+review function referenced in new Provision 1.12 ( relating to reviewing the feasibility of providing credit ratings for 
+new types of entities or obligations). 
+ 
+New Provision 1.14  
+Redline Comparison between Consultation and Final Reports : A CRA, in selecting the analyst or analysts who 
+will participate in determining a credit rating, should seek to promote continuity but also to avoid bias in the credit 
+rating process.  For example, in seeking to balance the objectives of continuity and bias avoidance, a CRA could 
+assign a team of analysts to participate in determining the credit rating – some for whom the rated entity or
+
+15 
+ 
+obligation is within their area of primary analytical responsibility and some of whom have other areas of primary 
+analytical responsibility. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.14 is based on 2008 Code Provision 
+1.8.  New Pro vision 1. 14 is revised to improve clarity by changing the context from the CRA  “structur[ing] its 
+rating teams” to “selecting the analyst or analysts who will participate in determining a credit rating ”; and adding a 
+second sentence providing an example of how the provision could be applied. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.14 is adopted as proposed in the 
+Consultation Report’s Provision 1.13 (except that the provision’s numbering is shifted due the insertion of ne w 
+Provision 1.4). 
+ 
+New Provision 1.15  
+Redline Comparison between Consultation and Final Reports: A CRA should ensure that sufficient employees and 
+financial resources are allocated to monitoring and updating all its credit ratings.  Except for  credit ratings .  
+Except for a credit rating  that clearly indicate they do indicates it does  not entail ongoing surveillance, once a 
+credit rating is published, the CRA should monitor the credit rating on an ongoing basis by : 
+a. reviewing the creditworthiness of the rated entity or obligation regularly; 
+b. initiating a review of the status of the credit rating upon becoming aware of any information that might 
+reasonably be expected to result in a credit rating action (including withdrawal of a credit rating) , consistent 
+with the applicable credit rating methodology;  
+c. reviewing the impact of and applying the a change in the credit rating methodologies, models or key rating 
+assumptions on the affectedrelevant credit ratings within a reasonable period of time; and  
+d. updating on a timely basis the credit rating, as appropriate, based on the results of such review .; and 
+e. Monitoring of existing credit ratings should incorporate. incorporating all cumulative ex perience obtained.   
+Changes in credit rating methodologies should be applied to both initial credit ratings and subsequent credit 
+rating actions. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.15 is based on 2008 Code Provision 
+1.9.  New Provision 1.15 is revised to incorporate a new concept with respect to monitoring credit ratings by adding 
+paragraph (c) relating to reviewing the impact of an d applying changes in credit rating methodologies, models, or 
+key rating assumptions .  New Provision 1. 15 is revised to improve clarity by replacing “adequate personnel” with 
+“sufficient employees”.  New Provision 1.15 also contains grammatical and stylistic changes to improve clarity and 
+readability. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.15 was proposed as Provision 
+1.14 in the Consultation Report .  (The provision’s numbering is shifted due to the insertion of new Provision 1.4 .)  
+New Provision 1.15 is revised from the Consultation Report to strengthen the provision by replacing “reviewing the 
+impact of” with “reviewing the impact of and applying” in paragraph (c).  New Provision 1.15 is revised to improve 
+clarity by incorporating the penultimate sentence of the Consultation Report’s Provision 1.14 into paragraph (e).  In 
+addition, the last sentence of the Consultation Report’s Provision 1.14 is deleted, because the definition of credit 
+rating includes both initial and subsequent credit ratings. 
+ 
+New Provision 1.16  
+Redline Comparison between Consultation  and Final Reports : If a CRA uses separate analytical teams for 
+determining initial credit ratings and for subsequent monitoring of existing credit ratings, each team should have 
+the requisite level of expertise and resources to perform their respective functions in a timely manner.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.16 is based on 2008 Code Provision 
+1.9-1.  New Provision 1. 16 is revised to broaden its scope by applying the provision to all credit ratings instead of 
+limiting it to structured finance products.
+
+16 
+ 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.16 is adopt ed as proposed in the 
+Consultation Report’s Provision 1.15 (except that the provision’s numbering is shifted due the insertion of new 
+Provision 1.4). 
+ 
+New Provision 1.17  
+Redline Comparison between Consultation and Final Reports : A CRA should establish, maintain, document, and 
+enforce policies and procedures that clearly set forth guidelines for disseminating credit ratings that are the result 
+or subject of credit rating actions and the related reports, and for when a credit rating will be withdrawn. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.17 is a new provision in the IOSCO 
+CRA Code. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.17 was proposed as Provision 
+1.16 in the Co nsultation Report.  New Provision 1.17 is revised from the Consultation Report to improve clarity by 
+replacing “credit rating actions and reports” with “ credit ratings that are the result or subject of credit rating actions 
+and the related reports”.  
+ 
+New Provision 1.18  
+Redline Comparison between Consultation and Final Reports : A CRA and its employees should deal fairly and 
+honestly with rated entities, obligors, originators, underwriters, arrangers, and users of credit ratings. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.18 is based on 2008 Code Provision 
+1.12.  New Provision 1. 18 is revised to clarify the provision’s scope by replacing “ issuers, investors, other market 
+participants, and the public” wi th “rated entities, obligors, originators, underwriters, arrangers, and users of credit 
+ratings”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.18 was proposed as Provision 
+1.18 in the Consultation Report .  New Provision 1.18 is revised from the Consultation Report to broaden the 
+provision’s scope by adding “originators” and “underwriters” to the list of entities with whom a CRA should deal 
+fairly and honestly.  As discussed in the explanatory notes accompany ing new Provision 1.23 , Provision 1.17 in the 
+Consultation Report is deleted. 
+ 
+New Provision 1.19  
+Redline Comparison between Consultation and Final Reports : A CRA’s employees should be held to the highest 
+standards of integrity and ethical behavior, and t he CRA should not employhave policies and procedures in place 
+that are designed to ensure that individuals with demonstrably compromised integrity are not employed. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.19 is based on 2008 Code Provision 
+1.13.  New Provision 1.19 is revised to enhance the provision by replacing “analysts” with “employees”.  New 
+Provision 1.19 is revised to improve clarity by replacing “high standards of integrity” with “ the highest standards of 
+integrity and ethical behavior”; and by stating that “ the CRA should have policies and procedures in place that are 
+designed to ensure that individuals with demonstrably compromised integrity are not employed ” instead of stating 
+that “the CRA should not employ” such individuals. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.19 was proposed as Provision 
+1.19 in the Consultation Report.  New Provision 1.19 is revised from the Consultation Report to focus the provision 
+on policies and procedures designed to achieve the objective of the proposed provision by stating that “ the CRA  
+should have policies and procedures in place that are designed to ensure that individuals with demonstrably 
+compromised integrity are not employed” instead of stating that “the CRA should not employ” such individuals.  
+ 
+New Provision 1.20  
+Redline Comparison between Consultation and Final Reports : A CRA and its employees should not, either 
+implicitly or explicitly, give any assurance or guarantee to an entity  subject to a rating action, obligor, underwriter, 
+originator, orunderwriter, arranger, or user of the CRA’s credit ratings  about the outcome of a particular credit 
+rating action. This does not preclude the CRA from devel oping prospective assessments used in structured finance
+
+17 
+ 
+and similar transactions, provided that doing so does not impair the integrity of the credit rating process preliminary 
+indications in a manner that is consistent with Provisions 1.22 and 2.6(d) of th e IOSCO CRA Code. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.20 is based on 2008 Code Provision 
+1.14.  New Provision 1.20 is revised to clarify its scope by identifying the parties who should not receive an 
+assurance or guarantee (i.e., “an entity subject to a rating action, obligor, originator, underwriter, arranger, or user of 
+the CRA’s credit ratings”) ; and to broaden its scope by applying the provision to all credit ratings instead of being 
+limited to “structured finance and similar transactions”.  New Provision 1.20 is further revised to improve clarity by 
+replacing “particular rating prior to a rating assessment” with “ the outcome of a particular credit rating action ”; and 
+replacing “provided that doing so does not i mpair the integrity of the credit rating process ” with “in a manner that is 
+consistent with Provisions 1.22 and 2.6(d) of the IOSCO CRA Code”.   
+Summary of Changes between Consultation and Final Reports:  New Provision 1.20 was proposed as Provision 
+1.20 i n the Consultation Report.  New Provision 1.20 is revised from the Consultation Report to broaden the 
+provision’s scope by expanding the category of persons who should not receive an assurance or guarantee to include 
+“user[s] of the CRA’s credit ratings”.   In addition, New Provision 1.20 is revised from the Consultation Report to 
+improve clarity by adding “subject to a rating action” after “entity”; and replacing “provided that doing so does not 
+impair the integrity of the credit rating process ” with “in a manner that is consistent with Provisions 1.22 and 2.6(d) 
+of the IOSCO CRA Code”. 
+ 
+New Provision 1.21  
+Redline Comparison between Consultation and Final Reports: A CRA and its employees should not make promises 
+or threats about potential credit rating acti ons to influence rated entities, obligors, originators, underwriters, 
+arrangers, or users of the CRA’s credit ratings (e.g., subscribers) to pay for credit ratings or other services. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.21 is a new provision in the IOSCO 
+CRA Code. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.21 was proposed as Provision 
+1.21 in the Consultation Report .  New Provision 1.21 is revised from the Consultation Report to broaden the 
+provision’s scope by replacing “entities, obligors, underwriters, arrangers, or subscribers” with “rated entities, 
+obligors, originators, underwriters, arrangers, or users of the CRA’s credit ratings ( e.g., subscribers)”.   
+ 
+New Provision 1.22  
+Redline Comparison between Consultation and Final Reports : A CRA and its employees should not make 
+proposals or recommendations regarding the activities of rated entities or obligors that could impact a credit rating 
+of the rated entity or obligation, including but not limited to proposals or recommendations about corporate or legal 
+structure, assets and liabilities, business operations, investment plans, lines of financing, business combinations, 
+and the design of structured finance products. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.22 is based on 2008 Code Provision 
+1.14-1.  New Provision 1.22 is revised to broaden the provision’s scope by replacing “A CRA” with “A CRA and its 
+employees”; and expanding the covered activities from “the design of structured finance products that a CRA rates” 
+to “activities of rated entities or obligors that could impact a credit rating of the rated entity or obligation” and 
+providing seven examples of such activities. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.22 is adopted as proposed in the 
+Consultation Report’s Provision 1.22.  However, in response to comments received, it would not be inconsistent 
+with this provision for a CRA to explain the rationale for credit ratings it has issued. 
+ 
+New Provision 1.23  
+Redline Comparison between Consultation and Final Reports : AIn each jurisdiction in which a CRA operates, the 
+CRA should establish , and maintain, document, and enforce  policies, procedures, and controls designed to ensure 
+compliancethat the CRA and its employees comply  with the CRA’s code of conduct and applicable laws and 
+regulations.
+
+18 
+ 
+a. The CRA should establish a compliance function responsible for monitoring and reviewing the compliance of 
+the CRA and its employees with the provisions of the CRA’s code of conduct and with applicable laws  and 
+regulations. 
+b. The compliance function also should be responsible for reviewing the adequacy of the CRA’s policies, 
+procedures, and controls designed to ensure compliance with the CRA’s code of conduct and applicable laws 
+and regulations.   
+c. The CRA should assign a senior level employee with the requisite skill set to serve as the CRA’s compliance 
+officer in charge of the compliance function.  The compliance officer’s reporting lines and compensation 
+should be independent of the CRA’s credit rating operations. 
+Summary of Changes between 2008 Code and Final Report:  The introductory paragraph of new Provision 1.23 is 
+based on the first sentence of 2008 Code Provision 1.15 , but broadens the focus from the “policies and procedures 
+that clearly specif y a person responsible for a CRA’s and a CRA’s employees’ compliance” to “policies, 
+procedures, and controls designed to ensure that the CRA and its employees comply” .  The introductory paragraph 
+is also revised to strengthen and clarify the provision by r eplacing “institute” with “ establish, maintain, document, 
+and enforce”. 
+New Provision 1.23 (a)-(b) are new provisions in the IOSCO CRA Code.   In response to comments received, 
+Provision 1.17 in the Consultation Report is deleted, because new Provision 1.23 (a)-(b) already address a CRA’s 
+compliance with applicable laws and regulations. 
+New Provision 1.23(c) is based on 2008 Code Provision 1. 15.  Paragraph (c) is revised to strengthen the provision 
+by specifying that the responsible person should be the CRA’s compliance officer who is “a senior level employee 
+with the requisite skill set”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.23 was proposed as Provision 
+1.23 in the Consultation Report.  The introductory paragraph is revised from the Consultation Report to strengthen 
+and clarify the provision by replacing “establish and maintain” with “ establish, maintain, document, and enforce ”.  
+The introductory paragraph  is revised to further improve clarity by adding that the provision applies “[i]n each 
+jurisdiction in which a CRA operates” ; and by replacing “compliance” with “ that the CR A and its employees 
+comply”. 
+ 
+New Provision 1.24  
+Redline Comparison between Consultation and Final Reports : Upon becoming aware that another employee or an 
+affiliate of the CRA is or has engaged in conduct that is illegal, unethical, or contrary to the CRA’s code of conduct, 
+the CRA employee should report such information immediately to the compliance officer or another officer of the 
+CRA, as appropriat e, so proper action may be taken.  The CRA’s employees are not necessarily expected to be 
+experts in the law. Nonetheless, CRA employees are expected to report activities that a reasonable person would 
+question.  Upon receiving such a report from an employ ee, the CRA is obligated to take appropriate action, as 
+determined by the laws  and regulations  of the jurisdiction and the policies , procedures, and controls  established, 
+maintained, documented, and enforced by the CRA.  A CRA should prohibit retaliation b y the CRA or an employee 
+against any employees who, in good faith, make such reports. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 1.24 is based on 2008 Code Provision 
+1.16.  New Provision 1.24 is revised to strengthen the provision and clarify its  scope by replacing “ rules and  
+guidelines set forth” with “ policies, procedures, and controls  established, maintained, documented, and enforced ”.  
+New Provision 1. 24 is revised to further improve clarity by replacing “entity under common control” with 
+“affiliate”; replacing “individual in charge of compliance” with “compliance officer”; replacing “CRA management 
+should prohibit retaliation by other CRA staff or by the CRA  itself” with “CRA should prohibit retaliation by the 
+CRA or an employee”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 1.24 is adopted as proposed in the 
+Consultation Report’s Provision 1.24.   
+ 
+New Provision 2.1
+
+19 
+ 
+Redline Comparison between Consultation and Final Reports : A CRA should not delay or refrain from  or 
+unnecessarily delay taking a credit rating action based on the potential effect (economic, political, or otherwise) of 
+the action on the CRA, a rated entity, obligor, originator, underwriter, arranger, investor, or  other market 
+participant. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.1 is based on 2008 Code Provision 
+2.1.  New Provision 2.1 is revised to enhance the provision by replacing “issuer” with “rated entity” ; and adding 
+“obligor, underwriter, arranger” .  New Provision 2. 1 is revised to improve clarity by replacing “forbear” with 
+“delay”.  
+Summary of Changes between Consultation and Final Reports:  New Provision 2.1 was proposed as Provision 2.1 
+in the Consultation Report.  In response to a CRA’s comments, n ew Provision 2.1 is revised from the Consultation 
+Report to clarify the provision by replacing “unnecessarily delay” with “delay”.   In addition, the term “originator” is 
+added to the list of entities identified in the provision to improve its comprehensiveness. 
+ 
+New Provision 2.2  
+Redline Comparison between Consultation and Final Reports : A CRA and its employees should use care and 
+professional judgment to maintain both the substance and appearance of the CRA’s and its employees’ 
+independence and objectivity. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.2 is based on 2008 Code Provision 
+2.2.  New Provision 2.2 is revised to broaden the provision’s scope by replacing “analysts” with “ employees”.  New 
+Provision 2. 2 is revised to improve clarity by adding “ the CRA’s and its employees’ ” before “ independence and 
+objectivity”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.2 is adopted as proposed in the 
+Consultation Report’s Provision 2.2.  
+ 
+New Provision 2.3  
+Redline Comparison between Consultation and Final Reports : A CRA’s determination of a credit rating should be 
+influenced only by factors relevant to assessing the creditworthiness of the rated entity or obligation. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.3 is based on 2008 Code Provision 
+2.3.  New Provision 2. 3 is revised to improve clarity by replacing “the credit assessment” with “ assessing the 
+creditworthiness of the rated entity or obligation”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.3 is adopted as proposed in the 
+Consultation Report’s Provision 2.3.  
+ 
+New Provision 2.4  
+Redline Comparison betw een Consultation and Final Reports : The credit rating a CRA assigns to an entity or 
+obligation should not be affected by whether there is an existing or potential business relationship between the CRA 
+(or its affiliates) and the rated entity, obligor, originator, underwriter, or arranger (or any of their affiliates), or any 
+other party. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.4 is based on 2008 Code Provision 
+2.4.  New Provision 2.4 is revised to clarify the provision’s s cope by replacing “issuer or security” with “entity or 
+obligation” (which are defined terms) ; replacing “the existence of or potential for a business relationship” with 
+“whether there is an existing or potential business relationship ”; replacing “issuer (or its affiliates)” with “ rated 
+entity, obligor, underwriter, or arranger (or any of their affiliates) ”;  and deleting “or the non -existence of such a 
+relationship” at the end of the sentence. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.4 was proposed as Provision 2.4 
+in the Consultation Report . The provision is modified from the Consultation Report to add the term “originator” to 
+the list of entities identified in the provision to improve its comprehensiveness.
+
+20 
+ 
+New Provision 2.5  
+Redline Comparison between Consultation and Final Reports : A CRA should operationally, legally, and, if 
+practicable, physically separate its credit rating business and its analysts from any other businesses of the CRA that 
+may present a conflict of  interest.  For other businesses that do not necessarily present a conflict of interest, the 
+CRA should establish, maintain, document, and enforce policies, procedures, and controls designed to minimize the 
+likelihood that conflicts of interest will arise.   A CRA should disclose why it believes those other businesses do not 
+present a conflict of interest with its credit rating business. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.5 is based on 2008 Code Provision 
+2.5.  New Provision 2.5 is revised to strengthen and clarify the provision by replacing “separate, operationally and 
+legally” with “ operationally, legally, and, if practicable, physically separate ”; and deleting “including consulting 
+businesses”.   In addition, the second and third sentences of new Provision 2.5 are revised to improve clarity. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.5 is adopted as proposed in the 
+Consultation Report’s Provision 2.5.  
+ 
+New Provision 2.6  
+Redline Comparison between Consultation and Final Reports : A CRA should establish, maintain, document, and 
+enforce policies, procedures, and controls to identify and eliminate, or manage and disclose, as appropriate, any 
+actual or potential conflicts of interest t hat may influence the credit rating methodologies, credit rating actions, or 
+analyses of the CRA or the judgment and analyses of the CRA’s employees.  Among other things, the policies, 
+procedures, and controls should address (as applicable to the CRA’s bus iness model) how the following conflicts 
+can potentially influence the CRA’s credit rating methodologies or credit rating actions:  
+a. being paid to issue a credit rating by the rated entity or by the obligor, originator, underwriter, or arranger of 
+the rated obligation; 
+b. being paid by subscribers with a financial interest that could be affected by a credit rating action of the CRA;  
+c. being paid by rated entities, obligors, originators, underwriters, arrangers, or subscribers for services other 
+than issuing credit ratings or providing access to the CRA’s credit ratings;  
+d. being part of a pool of CRAs that each provides providing a preliminary indication or similar indication of a 
+credit ratingquality to an entity, obligor, originator, underwriter, or arranger prior to being hired to determine 
+the final credit rating for the entity, obligor, originator, underwriter, or arranger; and 
+e. having a direct or indirect ownership interest in a rated entity or obligor, or having a rated entity or obligor 
+have a direct or indirect ownership interest in the CRA. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.6 is based on 2008 C ode Provision 
+2.6.  New Provision 2.6 is revised to strengthen and clarify the provision by replacing “adopt written internal 
+procedures and mechanisms” with “ establish, maintain, document, and enforce policies, procedures, and controls ”; 
+replacing “opinions and analyses” with “ credit rating methodologies, credit rating actions, or analyses ”; replacing 
+“individuals a CRA employs who have an influence on ratings dec isions” with “CRA’s employees”; and adding the 
+paragraphs (a) through (e) to identify five types of potential CRA conflicts of interest that a CRA’s conflicts 
+policies, procedures, and controls should address (as applicable to  the CRA’s business model).   In addition, the 
+second sentence of 2008 Code Provision 2.6 was deleted because the provisio n already states that “actual or 
+potential conflicts of interest” should be “manage[d] and disclose[d], as appropriate”.  
+Summary of Changes between Consultation and Final Reports:  New Provision 2.6 was proposed as Provision 2.6 
+in the Consultation Report.  New Provisions 2.6(a), (c) and (d) are modified from the Consultation Report to add the 
+term “originator” to the list of entities identified in the provisions to improve their comprehensiveness.  . New 
+Provision 2.6(d) is revised from the Consultation Rep ort to clarify the provision’s scope  by replacing “preliminary 
+indication of a credit rating” with “preliminary indication or similar indication of credit quality”.  New Provision 
+2.6(d) is revised to further improve clarity by replacing “being part of a p ool of CRAs that each provides” with 
+“providing”; and replacing “credit rating” with “final credit rating”. 
+ 
+New Provision 2.7
+
+21 
+ 
+Redline Comparison between Consultation and Final Reports : A CRA should  publicly disclose actual and 
+potential conflicts of interest (including, but not limited to, those conflicts of interest identified in Principle 2.6 
+above) in a complete, timely, clear, concise, specific, and prominent manner.  When the actual or potential conflict 
+of interest is unique or specific to a credit rating action with respect  to a particular rated entity, obligor, originator, 
+lead underwriter, arranger, or obligation, thesuch conflict of interest should be disclosed in the same form and 
+through the same means as the relevant credit rating report or elsewhere, as appropriateaction. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.7 is based on 2008 Code Provision 
+2.7.  New Provision 2.7 is revised to strengthen the provision  by adding “ (including, but not limited to, those 
+conflicts of interest identified in Principle 2.6 above)” as examples of actual or potential conflicts of interest; and by 
+adding the second sentence as a new concept in the IOSCO CRA Code.  New Provision 2. 7 is revised to improve 
+clarity by replacing “A CRA’s disclosures of” with “A CRA should disclose”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.7 was proposed as Provision 2.7 
+in the Consultation Report.  New Provision 2.7 is r evised from the Consultation Report by replacing “publicly 
+disclose” with “disclose”, because new Provision 5.4 already provides that a CRA make publicly available on its 
+primary website any disclosures specified in the IOSCO CRA Code, as applicable given the CRA’s business model.  
+In response to written comments received, “underwriter” is replaced with “lead underwriter”, because a CRA may 
+not be aware of all underwriter s associated with an offering since it may not have direct contractual relationships 
+with each underwriter.  New Provision 2.7 is modified from the Consultation Report to add the term “originator” to 
+the list of entities identified in the provision to improve its comprehensiveness.  In  addition, new Provision 2. 7 is 
+revised to improve clarity by replacing “ conflict” with “actual or potential conflict of interest” ; replacing “unique” 
+with “unique or specific to a credit rating”; and replacing  “relevant credit rating report or elsewhere, as appropriate” 
+with “same form and through the same means as the relevant credit rating action”. 
+ 
+New Provision 2.8  
+Redline Comparison between Consultation and Final Reports : A CRA should publicly disclose the general nature 
+of its compensation arrangements with rated entities, obligors, lead underwriters, or arrangers. 
+a. When the CRA receives from a rated entity, obligor, originator, lead underwriter, or arranger compensation 
+unrelated to its credit rating services, the CRA should disclose such unrelated feescompensation as a 
+percentage of total feesannual compensation received from thesuch rated entity, obligor, lead underwriter, or 
+arranger in the relevant credit rating report or elsewhere, as appropriate. 
+b. A CRA should  publicly disclose in the relevant credit rating report or elsewhere, as appropriate, if it receives 
+10 percent or more of its annual revenue from a single client (e.g., a ra ted entity, obligor, originator, lead 
+underwriter, arranger, or subscriber, or any of their affiliates). 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.8 is based on 2008 Code Provision 
+2.8(a)-(b).  New Provision 2.8 is revised to broaden the provision’s scope by replacing “rated entity(ies)” with “rated 
+entity(ies), obligor(s), lead underwriter(s), or arranger(s)” throughout the provision ; replacing “ratings service, such 
+as compensation for consulting services” with “credit rating  services”; adding that the disclosure should occur “ in 
+the relevant credit rating report or elsewhere, as appropriate”; replacing “ the proportion such non-rating fees 
+constitute against the fees the CRA receives from the entity for ratings services” with “such unrelated compensation 
+as a percentage of total  annual compensation received from ” such entities; and replacing “ single issuer, originator, 
+arranger, client or subscriber (including  any affiliates of that issuer, originator, arranger, client or subscriber)” 
+with “single client (e.g., a rated entity, obligor, lead underwriter, arranger, or subscriber, or any of their affiliates)”.   
+Summary of Changes between Consultation and Final Reports:  New Provision 2.8 was proposed as Provision 2.8 
+in the Consultation Report.  In response to written comments received, new Provision 2.8 is revised from the 
+Consultation Report to replace “underwriter” with “lead underwriter” throughout the provision, because a CRA may 
+not be aware of all underwriter s associated with an offering since it may not have direct contractual relationships 
+with each underwriter.  New Provision 2.8 is modified from the Consultation Report to add the term “originator” to 
+the list of  entities identified in the provision to improve its comprehensiveness.  In addition, “publicly disclose” is 
+replaced with “disclose”, because new Provision 5.4 already provides that a CRA make publicly available on its 
+primary website any disclosures spec ified in the IOSCO CRA Code, as applicable given the CRA’s business model.   
+New Provision 2.8 is revised to improve clarity by replacing “fees” with “compensation” or “annual compensation”, 
+as applicable.
+
+22 
+ 
+Commenters raised concerns that new Provision 2.8  does not explicitly identify an exception for conflicting local 
+laws and regulations .  However, the preamble to the IOSCO CRA Code continues to provide that laws and 
+regulations in jurisdictions in which a CRA operates take precedence over the IOSCO CRA Code. 
+ 
+New Provision 2.9  
+Redline Comparison between Consultation and Final Reports : A CRA should publicly disclose in its credit rating 
+announcement whether the issuer of a structured finance product has informed the CRA that it is publicly disclosing 
+all relevant information about the obligation being rated or if the information remains non -public.  If the 
+information remains non-public, the CRA should encourage the issuer to publicly disclose the information.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.9 is based on the second sentence of 
+2008 Code Provision 2.8(c).  As discussed below, the first sentence of 2008 Code Provision 2.8 (c) is deleted.  New 
+Provision 2.9 is revised to improve clarity by replacing “product” with “obligation”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.9 was proposed as Provision 2.9 
+in the Consultation Report.  New Provision 2.9 is revised from the Consultation Report to replace “publicly 
+disclose” with “disclose”,  because new Provision 5.4 already provides that a CRA make publicly available on its 
+primary website any disclosures specified in the IOSCO CRA Code, as applicable given the CRA’s business model.  
+The second sentence of the Consultation Report’s Provision 2.9 is deleted in response to comments received that it is 
+outside the scope of a CRA Code of Conduct.  However, it should be noted that the deletion is not intended to 
+derogate Principle 16 of IOSCO’s Objectives and Principles of Securities Regulation, w hich provides that “[t]here 
+should be full, accurate and timely disclosure of financial results, risk and other information which is material to 
+investors’ decisions” 18 or Principle 3 of IOSCO’s Final Report on Principles for Ongoing Disclosure for Asset -
+Backed Securities, which provides that “[p]eriodic and event -based disclosure should contain sufficient information 
+in order to increase the transparency of information for investors and to allow investors to  independently perform 
+due diligence in their investment decisions regarding the specific ABS.”19 
+ 
+New Provision 2.10  
+Redline Comparison between Consultation and Final Reports : A CRA should not hold or transact in trading 
+instruments presenting a conflict of interest with the CRA’s credit rating activities. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.10 is based on 2008 Code Provision 
+2.9.  New Provision 2.10 no longer covers a CRA’s  employees, because new Provision 2.14 (a)-(f) already address 
+conflicts arising from a CRA employee  transacting in trading instruments .  Further, “engage in any securities or 
+derivatives trading” is replaced with “hold or transact in trading instruments” because “trading instrument” is now a 
+defined term.   
+Summary of Changes between Consultation and Final Reports:  New Provision 2.10 is adopted as proposed in the 
+Consultation Report’s Provision 2.10. In addition, although not explicitly stated in this provision, certain trading 
+instruments such as diversified collective investment schemes may not pose a conflict of interest. 
+ 
+New Provision 2.11  
+Redline Comparison between Consultation and Final Reports : In instances where rated entities or obligors (e.g., 
+sovereign nations or states) have, or are si multaneously pursuing, oversight functions related to the CRA, the 
+employees responsible for interacting with the officials of the rated entity or the obligor’s officials (e.g., government 
+regulators) regarding supervisory matters should be separate from t he employees that participate in taking credit 
+rating actions or developing or modifying credit rating methodologies that apply to such rated entity or obligor. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.11 is based on 2008 Code Provision 
+2.10.  New Provision 2. 11 is revised to enhance the provision by replacing “rated entities ( e.g., governments)” with 
+                                                 
+18  See IOSCO, Objectives and Principles of Securities Regulation (June 2010), available at  
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD323.pdf.   
+19  See IOSCO Technical Committee, Principles for Ongoing Disclosure for Asset-Backed Securities (Nov. 
+2012), available at http://www.iosco.org/library/pubdocs/pdf/IOSCOPD395.pdf.
+
+23 
+ 
+“rated entities or obligors ( e.g., sovereign nations or states )” and to broaden the scope of CRA employees  that 
+should not be responsible for interacting with supervisors regarding supervisory matters by including employees 
+involved in “developing or modifying credit rating methodologies” (not just employees involved in “credit rating 
+actions.  New Provision 2 .11 is revised to improve clarity by replacing “ the CRA should use different employees 
+to conduct its rating actions than those employees  involved in its oversig ht issues” with “ employees responsible 
+for interacting…that apply to such rated entity or obligor”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.11 was proposed as Provision 
+2.11 in the Consultation Report.  Provision 2.11 is revised from the Consultation Report to improve clarity by 
+replacing “rated entity or obligor’s officials” with “officials of the rated entity or the obligor”; and by adding “that 
+apply to such rated entity or obligor” at the end of the sentence. 
+ 
+New Provision 2.12  
+Redline Comparison betwee n Consultation and Final Reports : Reporting lines for CRA employees and their 
+compensation arrangements should be structured to eliminate or effectively manage actual and potential conflicts of 
+interest. 
+a. A CRA employee who participates in or who might othe rwise have an effect on a credit rating action with 
+respect to an entity or obligation should not be compensated or evaluated on the basis of the amount of revenue 
+that the CRA derives from thethat entity or obligor. 
+b. A CRA should conduct formal and periodic reviews of its compensation policies, procedures, and practices for 
+CRA employees who participate in or who might otherwise have an effect on a credit rating action to ensure 
+that these policies, procedures , and practices applied have not compromi sed and do not compromise the 
+objectivity of the CRA’s credit rating process. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.12 is based on 2008 Code Provision 
+2.11.  New Provision 2.12 is revised to broaden the provision’s scope b y replacing “analyst(s)” with “employee(s)”  
+throughout the provision ; replacing “policies and practices” with “policies, procedures, and practices”  throughout 
+the provision; replacing the standard “analyst [who] rates or…regularly interacts” with the new standard “employee 
+who participates in or who might otherwise have an effect on a credit rating action with respect to an entity or 
+obligation”; replacing “rating process” with “credit rating action”; and adding “have not compromised and” before 
+“do not compromise”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.1 2 was proposed as Provision 
+2.12 in the Consultation Report.  Provision 2.1 2 is revised to improve clarity by replacing  “the entity or obligor” 
+with “that entity or obligor”; adding “its” before “compensation policies”; and deleting “applied”. 
+ 
+New Provision 2.13  
+Redline Comparison between Consultation and Final Reports : A CRA’s employees who participate in or who 
+might otherwise have an effect on a credit rating action should not initiate or participate in discussions with rated 
+entities, obligors, arrangers, or subscribers regarding fees or payments charged to such rated entity , obligor, 
+arranger, or subscriber. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.13 is based on 2008 Code Provision 
+2.12.  New Provision 2.13 is revised to strengthen the provision  and broaden its scope by replacing “directly 
+involved in the rating process” with “ participate in or who might otherwise have an effect on a credit rating action”; 
+and replacing “any entity [employees] rate” with “rated entity, obligor, arranger, or subscriber”.  New Provision 2.13 
+is revised to improve clarity by replacing “A CRA should not have employees” with “A CRA’s employees” “should 
+not”; and replacing “fees or payments” with “ fees or payments charged to such rated entity, obligor, arranger, or 
+subscriber”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.13 is adopted as proposed in the 
+Consultation Report’s Provision 2.13 (except for a minor change replacing “CRA employees” with “A CRA’s 
+employees”).   
+ 
+New Provision 2.14
+
+24 
+ 
+Redline Comparison between Consultation and Final Reports : A CRA employee should not participate in or 
+otherwise influence a CRA’s credit rating action with respect to an entity or obligation if the employee, a close 
+relativean immediate family member  of the employee (e.g., spouse, domestic partner,  or dependent), or an entity 
+managed by the employee (e.g., a trust): 
+a. Holds or transacts in a trading instrument issued by the rated entity or obligor;  
+b. Holds or transacts in a trading instrument (other than a diversified collective investment scheme) that  itself 
+owns an interest in the rated entity or obligor, or is a derivative based on a trading instrument issued by the 
+rated entity or obligor; 
+c. Holds or transacts in a trading instrument issued by an affiliate of the rated entity or obligor, the ownership  of 
+which may cause or may be perceived as causing a conflict of interest with respect to the employee or the CRA;  
+d. Holds or transacts in a trading instrument issued by an arranger ora lead underwriter or arranger of the rated 
+obligation, the ownership of which may cause or may be perceived as causing a conflict of interest with respect 
+to the employee or the CRA; 
+e. HadIs currently employed by, or had  a recent employment or other significant business relationship with the 
+rated entity or obligor or an arranger ora lead underwriter or arranger of the rated obligation that may cause 
+or may be perceived as causing a conflict of interest; 
+f. Currently works for or isIs a director of the rated entity or obligor, or  lead underwriter or arranger of the rated 
+obligation; or 
+g. Has, or had, another relationship with  or interest in  the rated entity, obligor, or the lead underwriter or 
+arranger of the rated obligation (or any of their affiliates) that may cause or may be perceived as causing a 
+conflict of interest.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.14 is based on 2008 Code Provision 
+2.13.  New Provision 2. 14 is revised to broaden the provision’s scope  by replacing “employee” in the introductory 
+paragraph with “employee, an immediate family member of the employee ( e.g., spouse, domestic partner, or 
+dependent), or an entity managed by the employee ( e.g., a trust)”.  (Only 2008 Code Provision 2.13 (d) specifically 
+referenced “an immediate relation” as part of  the standard.)  New Provision 2.14 also replaces “[o]wns securities or 
+derivatives” with “[h]olds or transacts in a trading instrument”  throughout the provision , because “trading 
+instrument” is now a defined term.   
+New Provision 2.14 divides the sets of conflicts identified in 2008 Code Provision 2.13(a)-(b) (relating to direct and 
+indirect ownership of securities or derivatives of rated entities, or affiliates of rated entities) into three separately 
+identified sets of conflicts in new Provision 2.14 (a)-(c). This re -organization is intended to provide greater clarity 
+with respect to the nature of each type of conflict that should be addressed.  New Provision 2.14(a) addresses direct 
+ownership or a trading instrument issued by a rated entity or obligor, wh ereas new Provision 2.14 (b) addresses 
+indirect ownership of such a trading instrument by, for example, owning a security that holds a security issued by a 
+rated entity or obligor.  New Provision 2.14(b) also addresses holding or transacting in a derivative that is based on a 
+trading instrument issued by a rated entity or obligor.  New Provision 2.14 (b) also retains the exception for 
+diversified collective investment schemes ( e.g., a broad-based index mutual fund that holds a bond issued by a rated 
+entity).  New Provision 2.14 (c) addresses ownership of a trading instrument by an affiliate of a rated entity or 
+obligor. 
+New Provision 2.14(d) identifies a new type of conflict of interest  – holding or transact ing in a  trading instrument 
+issued by a lead underwriter or arranger of the obligation. 
+2008 Code Provision 2.13(c)-(e) are re-designated as new Provision 2.14(e)-(g).  The revisions modify 2008 Code 
+Provision 2.13 (c) (new Provision 2.14 (e)) – which identifies the potential conflict of a CRA employee having an 
+employment or business relationship with a rated entity – to expand the description of the potential conflict to 
+include current or recent employment or other significant business relationships with t he obligor, lead underwriter, 
+or arranger  of the obligation.  The revisions to 2008 Code  Provision 2.13 (d) (new Provision 2.14 (f)) – which 
+identifies the potential conflict of a CRA employee’s immediate relation working for a rated entity – expands the 
+description of the potential conflict to include acting as a director of an obligor, or lead underwriter or arranger of 
+the rated obligation.  The revisions modify 2008 Code Provision 2.13(e) (new Provision 2.14(g)) – which is a catch-
+
+25 
+ 
+all provision – to expan d the description of the potential conflict to include relationships with or interests in the 
+obligor, or the lead underwriter or arranger of the rated obligation. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.1 4 was proposed as Provision 
+2.14 in the Consultation Report.  Provision 2.1 4 is revised from the Consultation Report to clarify the provision’s 
+scope by replacing “obligation” with “rated obligation”  throughout the provision ; replacing “[h]ad a recent 
+employment” with “[i]s currently employed by, or had a recent employment”; replacing “[c]urrently works for or is 
+a director” with “[i]s a director”; and adding “or interest in” after “[h]as, or had, another relationship with”.  
+Although the Consultation Report  proposed replacing “an immediate relation ” with “a close relative” , the Final 
+Report settles on “an immediate family member”  in response to written comments  about the breadth and ambiguity 
+of “a close relative” .  In addition, “underwriter” is replaced wit h “lead underwriter”  throughout the provision , 
+because a CRA may not be aware of all  underwriters associated with an offering since it may not have direct 
+contractual relationships with each underwriter. 
+ 
+New Provision 2.15  
+Redline Comparison between Consultation and Final Reports : A CRA analyst should not hold or transact in a 
+trading instrument issued by a rated entity or obligor in the analyst’s area of primary analytical responsibility.  This 
+would not preclude an analyst from holding or trading a diversified collective investment scheme that owns a 
+trading instrument issued by a rated entity or obligor in the analyst’s area of primary analytical responsibility . 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.15 is based on 2008 Code Provision 
+2.14.  New Provision 2. 15 is revised to improve the provision’s clarity by replacing the exception in the first 
+sentence “other than holdings in diversified collective investment schemes” with the second sentence of new 
+Provision 2.15 .  In addition , it replaces “A CRA’s analysts and anyone involved in the rating process (or their 
+spouse, partner or minor children” with “A CRA analyst”, because concerns about improper trading by an analyst’s 
+family members are addressed by new Provisions 3 .19 and 3.21.   In addition, “buy or sell or engage in any 
+transaction in any security or derivative based on a security issued, guaranteed, or otherwise supported by any 
+entity” is replaced with “hold or transact in trading instruments” because “trading instrument” is now a defined term.   
+Summary of Changes between Consultation and Final Reports:  New Provision 2.15 is adopted as proposed in the 
+Consultation Report’s Provision 2.15. 
+ 
+New Provision 2.16  
+Redline Comparison between Consultation and Final Reports: A CRA employee should be prohibited from 
+soliciting money, gifts, or favors from anyone with whom the CRA does business and should be prohibited from 
+accepting gifts offered in the form of cash or cash equivalents or any gifts exceeding a minimal monetary value. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.16 is based on 2008 Code Provision 
+2.15.  New Provision 2. 16 is revised to broaden the provision’s scope by adding “cash equivalents” (in addition to 
+cash) as a form of gift that should be prohibited.  
+Summary of Changes between Consultation and Final Reports:  New Provision 2.16 is adopted as proposed in the 
+Consultation Report’s Provision 2.16. 
+ 
+New Provision 2.17  
+Redline Comparison between Consultation and Final Reports : A CRA employee who becomes involved in a 
+personal relationship that creates an actual or potential conflict of interest  (including, for example, a personal 
+relationship with an employee of a rated entity, obligor, or originator, or the lead underwriter or arranger of a 
+rated obligation), that creates an actual or potential conflict of interest should be required under the CRA’s policies, 
+procedures, and controls to disclose the relationship to the compliance officer or another officer of the CRA, as 
+appropriate. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.17 is based on 2008 Code Provision 
+2.16.  New Provision 2.17 is revised to broaden the provision’s scope by  replacing “[a]ny CRA analyst” with “[a] 
+CRA employee”; replacing and moving the location of “that creates the potential for any real or apparent conflict of 
+interest” to “that creates an actual or potential conflict of interest ”; replacing “agent of [a rated] entity within his or
+
+26 
+ 
+her area of analytic responsibility ” with “ obligor, or the lead underwriter or arranger of a rated obligation”; and 
+replacing “the CRA’s complia nce policies” with “the CRA’s policies, procedures, and controls”.   New Provision 
+2.17 is revised to improve clarity by replacing “appropriate manager or officer of the CRA” with “compliance 
+officer or another officer of the CRA”.   
+Summary of Changes between Consultation and Final Reports:  New Provision 2. 17 was proposed as Provision 
+2.17 in the Consultation Report.  In response to written comments received, “underwriter” is replaced with “lead 
+underwriter” throughout the provision , because a CRA may not be aware of all underwriter s associated with an 
+offering since it may not have direct contractual relationships with each underwriter.  New Provision 2.17 is 
+modified from the Consultation Report to add the term “originator” to the list of entities identif ied in the provision to 
+improve its comprehensiveness.  In addition, new Provision 2.17 is revised to improve clarity by moving the 
+location of the phrase “that creates an actual or potential conflict of interest”  to clarify that the parenthetical provides 
+examples of personal relationships rather than examples of conflicts of interests.   
+ 
+New Provision 2.18  
+Redline Comparison between Consultation and Final Reports : A CRA should establish, maintain, document, and 
+enforce policies, procedures, and controls  for reviewing without unnecessary delay the past work of an employee 
+who participated in the credit rating process analyst who leaves the employ of the CRA and joins an entity that the 
+employee participated in rating, an obligor whose obligation the employee participated in rating, an originator, 
+underwriter, or arranger with which the employee had significant dealings as par t of his or her duties at the CRA, 
+or any of their affiliates. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 2.18 is based on 2008 Code Provision 
+2.17.  New Provision 2.18 is revised to strengthen the provision  and broaden it s scope  by replacing “establish 
+policies and procedures” with “ establish, maintain, document, and enforce policies, procedures, and controls ”; 
+adding that the review should occur “without unnecessary delay”; and replacing “join an issuer that the CRA analyst 
+has had significant dealings” with “ joins an entity that the employee participated in rating, an obligor whose 
+obligation the employee participated in rating, an underwriter or arranger with which the employee had significant 
+dealings…, or any of their affiliates”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 2.18 was proposed as Provision 
+2.18 in the Consultation Report.  New Provision 2.18 is modified from the Consultation Report to add the term 
+“originator” to the list of entities identified in the provision to improve its comprehensiveness.  In addition, n ew 
+Provision 2.18 is revised to improve clarity by replacing “employee who participated in the credit rating process” 
+with “analyst” (which is a defined term). 
+ 
+New Provision 3.1  
+Redline Comparison between Consultation and Final Reports:  A CRA should assist investors and other users of 
+credit ratings in developing a greater understanding of credit ratings by  publicly disclosing in plain language, 
+among other things, the n ature and limitations of credit ratings and the risks of unduly relying on them to make 
+investment or other financial decisions.  A CRA that is subject to a CRA registration and oversight program 
+administered by a regional or national authority should not state or imply that the authority endorses its credit 
+ratings or use its registration status to advertise the quality of its credit ratings. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.1 is based on 2008 Code Provision 
+3.5(c).  New Provision 3. 1 is revised to enhance the provision by replacing “ investors” with “investors and other 
+users of credit ratings”; and replacing “limits to which credit ratings can be put to use...and the limits to which the 
+CRA verifies information provid ed to it by the issuer or originator of a rated security” with “ the nature and 
+limitations of credit ratings and the risks of unduly relying on them to make investment or other financial decisions ”.  
+New Provision 3.1 is revised to improve clarity by replacing “a greater understanding of what a credit rating is” with 
+“a greater understanding of credit ratings”; and replacing “clearly indicate” with “disclosing in plain language” .  In 
+addition, new Provision 3.1 introduces a new concept in its second sentenc e, which provides that a CRA should not 
+state or imply that a national or regional supervisor that oversees the CRA endorses the CRA’s credit ratings or use 
+the CRA’s registration status to advertise the quality of its credit ratings.
+
+27 
+ 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.1 was proposed as Provision 3.1 
+in the Consultation Report.  “[P]ublicly disclosing” is replaced with “disclosing”, because new Provision 5.4 already 
+provides that a CRA make publicly available on its primary website any disclosures specified in the IOSCO CRA 
+Code, as applicable given the CRA’s business model.   
+ 
+New Provision 3.2  
+Redline Comparison between Consultation and Final Reports:  A CRA should  publicly disclose sufficient 
+information about its credit rating process and its credit rating methodologies, so that investors and other users of 
+credit ratings can understand how a credit rating was determined by the CRA.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 3. 2 is based on parts of 2008 Code 
+Provision 3.5’s introductory paragraph.  New Provision 3. 2 is revised to clarify the provision’s scope by replacing 
+“procedures, methodologies and assumptions (including financial statement adjustments that deviate materially from 
+those contained in the issuer’s published financial  statements and a description of the rating committee process, if 
+applicable)” with “ credit rating process and its credit rating methodologies ” (which are defined terms).  The 
+language in 2008 Code Provision 3.5 regarding “financial statement adjustments” is now found in new Provision 
+3.16.  New Provision 3. 2 is revised to further improve clarity by replacing “outside parties” with “ investors and 
+other users of credit ratings”; and replacing “arrived at” with “determined”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.2 was proposed as Provision 3.2 
+in the Consultation Report.  “[P]ublicly disclos e” is replaced with “disclose”, because n ew Provision 5.4 already 
+provides that a CRA make publicly available on its primary website any disclosures specified in the IOSCO CRA 
+Code, as applicable given the CRA’s business model. 
+ 
+New Provision 3.3  
+Redline Comparison between Consultation and Final  Reports: A CRA should publicly disclose anya material 
+modification to a credit rating methodology .  Disclosure of the material modification should be made prior to the 
+modification taking effect unless doing so would negatively impact the integrity of a c redit rating by unduly delaying 
+the taking of a credit rating action.  The CRA should carefully consider the various uses of credit ratings before 
+modifying a credit rating methodology. In either case, the CRA should disclose the material modification in a non-
+selective manner. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.3 is based on 2008 Code Provision 
+3.10.  New Provision 3.3 is revised to improve the provision’s clarity by deleting “because users of credit ratings 
+rely on an existing awareness of CRA methodologies, practices, procedures and processes”; replacing “[w]here 
+feasible and appropriate” with “unless doing so would negatively impact the integrity of a credit rating by unduly 
+delaying the taking of a credit rating action” ; and replacing “A CRA should carefully consider the various uses of 
+credit ratings before modifying its methodologies, practices, procedures and processes” with “In either case, the 
+CRA should disclose the material modification in a non-selective manner”.  New Provision 3.3 is revised to improve 
+clarity by replacing “fully and publicly disclose” with “disclose”; and replacing “methodologies, practices, 
+procedures and processes” with “credit rating methodology”, which is a defined term in the new IOSCO CRA Code. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.3 was proposed as Provision 3.3  
+in the Consultation Report.  New Provision 3.3 is revised to strengthen the provision  and improve  its clarity by 
+deleting the sentence  “[t]he CRA should carefully consider the various uses of credit ratings before modifying a 
+credit rating methodology” because the relevance of such use to whether a credit rating methodology should be 
+modified was unclear and to address comments that CRAs may not know all the uses of their credit ratings; and by 
+adding the sentence with “[i]n either case, the CRA should disclose the material modification in a non -selective 
+manner”  to address a market participant’s comm ent that there may be information asymmetries between arrangers 
+and other market participants .  This addition is not intended to require disclosure of proprietary or confidential 
+information about the CRA or the rated entity.  New Provision 3.3 is revised to further improve clarity by combining 
+the first two sentences (as proposed in the Consultation Report) into a single sentence.  In addition, “publicly 
+disclose” is replaced with “disclose”, because new Provision 5.4 already provides that a CRA m ake publicly 
+available on its primary website any disclosures specified in the IOSCO CRA Code, as applicable given the CRA’s 
+business model.
+
+28 
+ 
+New Provision 3.4 
+Redline Comparison between Consultation and Final Reports:  A CRA should publicly disclose its policies, and 
+procedures, and controls that are unique toaddress the issuance of unsolicited credit ratings. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3. 4 is based on the third sentence of  
+2008 Code Provision 3. 9.  New Provision  3.4 is revised to improve clarity by replacing “regarding unsolicited 
+ratings” with “that address the issuance of unsolicited credit ratings”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.4 was proposed as Provision 3.4 
+in t he Consultation Report.  New Provision 3.4 is revised by replacing  “policies, procedures, and controls” with 
+“policies and procedures” to address comments that disclosing information about “policies and procedures” provides 
+users of credit ratings with cri tical information with which to assess the CRA’s governance of this activity and that 
+including in the disclosures information about individual controls could make the disclosure too long and less 
+helpful.  “[P]ublicly disclose” is replaced with “disclose” , because new Provision 5.4 already provides that a CRA 
+make publicly available on its primary website any disclosures specified in the  IOSCO CRA Code, as applicable 
+given the CRA’s business model.   In addition, new Provision 3.4 is revised to improve clar ity by replacing “are 
+unique to” with “address”. 
+ 
+New Provision 3.5 
+Redline Comparison between Consultation and Final Reports:  A CRA should publicly disclose its policies , and 
+procedures, and controls for distributing credit ratings and reports, and for when a credit rating will be withdrawn.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.5 is based on 2008 Code Provision 
+3.2.  New Provision 3. 5 is revised to broaden the provision’s scope by replacing “policies” with “policies and 
+procedures”.    In addition, “ratings, reports, and updates” is replaced with “credit ratings and reports, and for when a 
+credit rating will be withdrawn” , but this change is not intended to be substantive, because the definition of “credit 
+rating” includes credit rating updates. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.5 was proposed as Provision 3.5 
+in the Consultation Report.  New Provision 3. 5 is revised by  replacing “policies, procedures, and controls” with 
+“policies and procedures” to address comments that disclosing information about “policies and procedures” provides 
+users of credit ratings with critical information with which to assess the CRA’s governan ce of this activity and that 
+including in the disclosures information about individual controls could make the disclosure too long and less 
+helpful.  “[P]ublicly disclose” is replaced with “disclose”, because new Provision 5.4 already states that a CRA 
+make publicly available on its primary website any disclosures specified in the  IOSCO CRA Code, as applicable 
+given the CRA’s business model.  
+ 
+New Provision 3.6  
+Redline Comparison between Consultation and Final Reports:  A CRA should publicly disclose clear definitions of 
+the meaning of each category in its rating scales, including the definition of default.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.6 is based on the second sentence of 
+the introductory paragraph o f 2008 Code Provision 3. 5.  New Provision 3. 6 is revised to improve the provision’s 
+clarity by replacing “ the definition of default or recove ry, and the time horizon t he CRA used when making a 
+rating decision” with “ including the definition of default  and adding “clear definitions of” before “the meaning of”; 
+and replacing “each rating category” with “each category in its rating scale”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.6 was proposed as Provision 3.6 
+in the Consul tation Report.  “[P]ublicly disclose” is replaced with “disclose”, because new Provision 5.4 already 
+provides that a CRA make publicly available on its primary website any disclosures specified in the IOSCO CRA 
+Code, as applicable given the CRA’s business model.  In response to one CRA’s recommendation to delete the 
+reference to default because not all CRAs rate to default, a CRA that does not issue a default rating would define its 
+equivalent category.  In addition, CRAs have the option to explain the devi ation from the IOSCO CRA Code 
+pursuant to new Provision 5.2. 
+ 
+New Provision 3.7
+
+29 
+ 
+Redline Comparison between Consultation and Final Reports:  A CRA should differentiate credit ratings of 
+structured finance products from credit ratings of other types of entities or obligations, preferably through a 
+different credit rating identifier.  The CRA should also publicly disclose how this differentiation functions. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.7 is based on the first two sentences 
+of 2008 Code Provision 3. 5(b).  New Provision 3.7 is revised to improve clarity by replacing “traditional corporate 
+bond ratings” wit h “ credit ratings of other types of entities or obligations ”; and replacing “different rating 
+symbology” with “different credit rating identifier”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.7 was proposed as Provision 3.7 
+in the Consultation Report.  “[P]ublicly disclose” is replaced with “disclose”, because new Provision 5.4 already 
+provides that a CRA make publicly available on its primary website any disclosures specified in the IOSCO CRA 
+Code, as applicable given the CRA’s business model. 
+ 
+New Provision 3.8 
+Redline Comparison between Consultation and Final Reports:  A CRA should be transparent with investors, rated 
+entities, obligors, originators, underwriters, and arrangers about how the relevant entity or obligation is  rated. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.8 is a new provision in the IOSCO 
+CRA Code. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.8 was proposed Provision 3.8 in 
+the Consultation Report .  New Provision 3.8 is modified from the Consultation Report to add the term “originator” 
+to the list of entities identified in the provision to improve its comprehensiveness.  In response to a CRA’s comment 
+that new Provision 3.8 is redundant with new Pr ovision 3.2 , new Provision 3.2 is intended to address disclosures 
+regarding a CRA’s general processes, while new Provision 3.8 is intended to address disclosures regarding a specific 
+rated entity or obligation. 
+ 
+New Provision 3.9 
+Redline Comparison between  Consultation and Final Reports:  Where feasible and appropriate, a CRA should 
+inform the rated entity, or the obligor , underwriter,  or arranger of the rated obligation about the critical 
+information and principal considerations upon which a credit rating w ill be based prior to takingdisseminating a 
+credit rating that is the result or subject of the credit rating action and afford thesuch rated entity, obligor, 
+underwriter, or arranger an adequate opportunity to clarify any factual errors, factual omissions, or otherfactual 
+misperceptions that would have a material effect on the credit rating.  The CRA should duly evaluate any response 
+from thesuch rated entity, obligor, underwriter, or arranger.  Where in particular circumstances the CRA has not 
+informed thesuch rated entity, obligor, or arranger prior to takingdisseminating a credit rating action, the CRA 
+should inform thesuch rated entity, obligor, or arranger as soon as practical thereafter and, generally, should 
+explain why the CRA did not infor m thesuch rated entity, obligor, or arranger prior to takingdisseminating the 
+credit rating action. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.9 is based on 2008 Code Provision 
+3.7.  New Provision 3.9 is revised to strengthen the provision and improve its clarity by replacing “opportunity” with 
+“adequate opportunity”; replacing “likely factual misperceptions or other matters” with  “factual errors, factual 
+omissions, or factual misperceptions”; and replacing “that  the CRA would wish to be made aware of in order 
+to produce an accurate r ating” with “that would have a material effect on the credit rating”.  New Provision 3.9 is 
+revised to further improve clarity by replacing and moving the location of “prior to issuing or revising a rating” to 
+“prior to disseminating a credit rating that is the result or subject of the credit rating action”; replacing “issuing or 
+revising a rating” with  “taking a credit rating action”; and replacing “the reason for the delay” with “why the CRA 
+did not inform such rated entity, obligor, or arranger prior to taking the credit rating action”.  In addition, “issuer” is 
+replaced with “rated entity, or the obl igor or arranger of the rated obligation” or “rated entity, obligor, or arranger” 
+throughout the provision.  Although this global change is intended to expand the scope of communication recipients, 
+disclosures should continue to be restricted to the entity that pays for the credit rating (and their agents).  
+Summary of Changes between Consultation and Final Reports:  New Provision 3.9 was proposed as Provision 3.9 
+in the Consultation Report.  New Provision 3.9 is revised to improve clarity by replacing “taking” with 
+“disseminating” throughout the provision ; replacing “credit rating action” with “credit rating that is the result or
+
+30 
+ 
+subject of the credit rating action”; and replacing “factual errors, omissions, or o ther misperceptions” with “factual 
+errors, factual omissions, or factual misperceptions”.  “[U]nderwriter” is deleted throughout the provision because it 
+is overly broad to recommend that an underwriter (that is not also acting as an arranger) be informed about non-
+public information regarding a credit rating (and also for internal consistency with the last sentence of the provision  
+which does not reference underwriters).   
+ 
+New Provision 3.10 
+Redline Comparison between Consultation and Final Reports:  AWhen a CRA should publicly disclosediscloses or 
+distributedistributes to its subscribers (depending on the CRA’s business model) a credit rating actionthat is the 
+result or subject of the credit rating action, it should do so  as soon as practicable after reaching the rating 
+decisiontaking such action. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.10 is based on 2008 Code Provision 
+3.1.  New Provision 3.10  is revised to strengthen the provision by replacing “ in a timely manner” wit h “as soon as 
+practicable after taking such action”.  New Provision 3.10 is revised to improve clarity by replacing “distribute” with 
+“publicly discloses or distributes to its subscribers (depending on the CRA’s business model)”; and replacing 
+“ratings decisions” with “credit rating that is the result or subject of the credit rating action” . 
+Summary of Changes between Consultation and Final Reports:  New Provision 3. 10 was proposed as Provision 
+3.10 in the Consultation Report.  New Provision 3.10 is revised to improve clarity by replacing “credit rating action” 
+with “credit rating that is the result or subject of the credit rating action”; and replacing “reaching the rating 
+decision” with “taking such action”.   New Provision 3.10 is also revised to bette r take into account CRAs’ differing 
+business models (i.e., issuer-paid and subscriber-paid models).   
+Certain commenters requested that an exception be added to this provision for private ratings.  This comment was 
+not incorporated because the IOSCO CRA Co de applies to all types of credit ratings.  However, to the extent that a 
+CRA believes it would be appropriate to deviate from a provision of the IOSCO CRA Code because of the nature of 
+the credit rating, the CRA should explain the deviation from the IOSCO CRA Code pursuant to new Provision 5.2. 
+ 
+New Provision 3.11 
+Redline Comparison between Consultation and Final Reports:  AWhen a CRA should publicly disclosediscloses or 
+distributedistributes to its subscribers (depending on the CRA’s business model) a credit rating actionthat is the 
+result or subject of a credit rating action, it should do so on a non-selective basis. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.11 is based on 2008 Code Provision 
+3.4.  New Provision 3.11 is revised to broaden the provision’s scope and improve its clarity by deleting “[e]xcept for 
+‘private ratings’ provided only to the issuer”; deleting “free of charge”  as part of the edits to take into account 
+CRAs’ differing business models ( i.e., issuer -paid and subscriber -paid models) ; deleting “if the rating action is 
+based in whole or in part on material non -public information”; and replacing “any rating regarding publicly issued 
+securities, or public issuers themselves, as well as any subsequent decisions to discontinue such a rating” with 
+“a credit rating that is the result or subject of a credit rating action”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.11 was  proposed as Provision 
+3.11 in the Consultation Report.  New Provision 3.11 is revised to improve clarity by replacing “credit rating action” 
+with “credit rating that is the result or subject of a credit rating action”.   
+Certain commenters requested that an exception be added back to this provision for private ratings.  This comment 
+was not incorporated because the IOSCO CRA Code applies to all types of credit ratings.  However, to the extent 
+that a CRA believes it would be appropriate to deviate from a provision of the IOSCO CRA Code because of the 
+nature of the credit rating, the CRA should explain the  deviation from the IOSCO CRA Code pursuant to new 
+Provision 5.2. 
+ 
+New Provision 3.12 
+Redline Comparison between Consultation and Final Reports:  A CRA should disclose with a credit rating that is 
+the result or subject of a credit rating action whether the rated entity, or the obligor, or originator, or the  
+underwriter or arranger of the rated obligation participated in the credit rating process.  Each credit rating not
+
+31 
+ 
+initiated at the request of the rated entity, or the obligor, or originator, or the  underwriter, or arranger of the rated 
+obligation should be identified as such. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3. 12 is based on the first two 
+sentences of 2008 Code Provision 3.9.  New Provision 3.12 is revised to broaden the provision’s scope by replacing 
+“issuer” with “ rated entity, obligor,  or originator, or the underwriter  or arranger of the rated obligation ” throughout 
+the provision.  New Provision 3.12 is revised to improve clarity by replacing “[f]or each rating”  with “with a credit 
+rating that is the result or subject of a credit rating action”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3. 12 was proposed as Provision 
+3.12 in the Consultation Report.  New Provision 3.12 is modified from the Consultation Report to add the term 
+“originator” to the list of entities identified in the provision to i mprove its comprehensiveness.  I n addition, n ew 
+Provision 3.12 is revised to improve clarity by replacing “credit rating action” with “credit rating that is the result or 
+subject of a credit rating action”.   
+In response to a written comment, it should be noted that this provision is not intended to  prejudice the public 
+against unsolicited ratings, but to ensure that users of credit ratings are provided with relevant information. 
+ 
+New Provision 3.13 
+Redline Comparison between Consultation and Final Reports:  A CRA should clearly indicate the attributes and 
+limitations of each credit rating, and the extent to which the CRA verifies information provided to it by the rated 
+entity, or the obligor, or originator, or the  underwriter, or arranger of the rated obliga tion. For example, if the 
+credit rating involves a type of entity or obligation for which there is limited historical data, the CRA should 
+disclose this fact and how it may limit the credit rating. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.13 is based on the second sentence 
+of 2008 Code Provision 3.5(c).  New Provision 3.13 is revised to broaden the provision’s scope by replacing “ issuer 
+or originator of a rated security ” with “rated entity, obligor, or originator, or the underwriter  or arranger of the rated 
+obligation”.  New Provision 3. 13 is revised to improve clarity by replacing “credit opinion” with “credit rating”  
+(which is a defined term); and replacing “limits to which” with “extent to which” .  In addition, a second sentence is 
+added, which provides an example of a limitation that would warrant disclosure.  
+Summary of Changes between Consultation and Final Reports:  New Provision 3.13 was proposed as Provision 
+3.13 in the Consultation Report .  New Provision 3.12 is modified from the Consultation Report to add the term 
+“originator” to the list of entities identified in the provision to improve its comprehensiveness.   
+ 
+New Provision 3.14 
+Redline Comparison between Consultation and Final Reports : A CRA should indicate in the announcement of a 
+credit rating  that is the result or the subject of a credit rating  action when the credit rating was last updated or 
+reviewed.  The credit rating announcement should also indicate the principal credit rating  methodology or 
+methodology version that was used in determining the credit rating and where a description of that credit rating 
+methodology can be found.  Where the credit rating is based on more than one credit rating methodology, or where 
+a review of on ly the principal credit rating methodology might cause investors and other users of credit ratings to 
+overlook important aspects of the credit rating, the CRA should explain this fact in the credit rating announcement, 
+and indicate where to find a discussion of how the different credit rating methodologies and other important aspects 
+factored into the credit rating decision. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.14 is based on 2008 Code Provision 
+3.3.  New Provision 3.14 is revised to broaden the provision and improve its clarity by replacing “last updated” with 
+“last updated or reviewed”; and adding “and other users of credit ratings” after “investors” .  New Provision 3. 14 is 
+revised to further improve clarity by replacing “with each of its ratings” with “in the announcement of a credit rating 
+that is the result or the subject of a credit rating action”; deleting “other” before the first instance of “important 
+aspects of the credit rating”; and adding “to find” after “indicate where”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3. 14 was proposed as Provision 
+3.14 in the Consultation Report.  New Provision 3.14 is revised to improve clarity by replacing “credit rating action” 
+with “credit rating t hat is the result or the subject of a credit rating action”.   Although a CRA commented that
+
+32 
+ 
+“updated or reviewed” should be replaced with “reviewed”, the language proposed in the Consultation Report is 
+retained because “updated or reviewed” provides more clarity than “reviewed”. 
+ 
+New Provision 3.15 
+Redline Comparison between Consultation and Final Reports:  When rating a structured finance product, a CRA 
+should publicly disclose or distribute to its subscribers (depending on the CRA’s business model) sufficient 
+information about its loss and cash -flow analysis with the credit rating, so that investors  in the product, other users 
+of credit ratings, and/or subscribers can  easily understand the basis for the CRA’s credit rating.  The CRA should 
+also publicly disclose or distribute information about the degree to which it analyzes how sensitive a credit rating of  
+a structured finance product is to changes in the assumptions underlying the applicable credit rating methodology.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.15 is based on 2008 Code Provision 
+3.5(a).  New Provision 3.15  is revised to enhance the provision by replacing “an investor allowed to invest in the 
+product” with “investors in the product, other users of credit ratings, and/or subscribers”.  New Provision 3. 15 is 
+revised to improve clarity by replacing “[w]here” with “[w]hen” at the beginning of the provision; replacing 
+“provide investors and/or subscribers” with “publicly disclose or distribute to its subscribers”; adding “with the 
+credit rating” after “cash -flow analysis”; replacing “disclose” with “publicly di sclose or distribute”; and replacing 
+“CRA’s underlying rating assumptions” with “assumptions underlying the applicable credit rating methodology” . 
+Summary of Changes between Consultation and Final Reports:  New Provision 3. 15 was proposed as Provision 
+3.15 in the Consultation Report.  New Provision 3.15 is revised to improve the provision’s clarity by adding “in the 
+product” after “investors”.  Although “easily understand” is replaced with “understand” in response to comments 
+about the standard’s ambiguity,  new Provision 5.1 provides that disclosures be complete, fair, accurate, timely, and 
+understandable.  In the case of new Provision 3.15, the disclosure should  be consistent with new Provision 5.1 
+taking into account the level of sophistication of the inve stors in the product and others who may evaluate the 
+product. 
+ 
+New Provision 3.16 
+Redline Comparison between Consultation and Final Reports:  When issuing or revising a credit rating, a CRA 
+should explain in its announcement and/or report the key assumptions and data underlying the credit rating, 
+including financial statement adjustments that deviate materially from those contained in the rated entity, obligor, 
+or arranger’s published financial statements of the relevant rated entity or obligor. 
+Summary of Changes between 2008 Code and Final Report:  The first clause of new Provision 3.16  is based on 
+2008 Code Provision 3.6.  New Provision 3.16 is revised to improve clarity by replacing “press releases and reports” 
+with “announcement and/or report”; replacing “key elements” with “key assumptions and data”; and replacing 
+“credit opinion” with “credit rating” (which is a defined term). 
+The second clause of new Provision 3.16 is based on the parenthetical in the introductory paragraph of 2008 Code 
+Provision 3.5 (which addresses disclosures regarding a specific credit rating rather than a CRA’s general processes) .  
+New Provision 3.16 is revised to broaden the provision’s scope by replacing “issuer[]” with “relevant rated entity or 
+obligor”.  The language in 2008 Code Provision 3.5 regarding “the rating committee process” is now incorporated 
+into new Provision 3.2.   
+Summary of Changes between Consul tation and Final Reports:  New Provision 3. 16 was proposed as Provision 
+3.16 in the Consultation Report.  New Provision 3. 16 is revised by deleting the reference to “arranger” because an 
+arranger’s financial statements generally are not relevant to the rated entity or obligor’s credit rating.   
+ 
+New Provision 3.17 
+Redline Comparison between Consultation and Final Reports:  If a CRA discontinues monitoring a credit rating 
+for a rated entity or obligation , it should either withdraw the credit rating or disclose such discontinuation to the 
+public or to its subscribers (depending on the CRA’s business model) as soon as practicable.  A publication by the 
+CRA of a credit rating that is no longer being monitored  should indicate the date the credit rating was last updated 
+or reviewed, the reason the credit rating is no longer monitored, and the fact that the credit rating is no longer 
+being updated.
+
+33 
+ 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.17 is based on 2008 Code Provision 
+1.10.  New Provision 3. 17 is revised to broaden the provision’s scope by replacing “ issuer” with “rated entity”; 
+replacing “ last updated” with “ last updated or reviewed”; and adding “ the reason the credit rating is  no longer 
+monitored”.  New Provision 3. 17 is revised to improve clarity by combining the first  two sentences of 2008 Code 
+Provision 1.10 into a single sentence; replacing “discontinues rating” with “discontinues monitoring”; and replacing 
+“continuing publications by the CRA of the discontinued rating” with “ [a] publication by the CRA of a credit rating  
+that is no longer being monitored”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.17 is adopted as proposed in the 
+Consultation Report’s Provision 3.17 (except that a comma is deleted after the word “obligation” ).  Although a CRA 
+commented that an exemption from announcing discontinued ratings should be added for debt that has matured or 
+expired, the language proposed in the Consultation Report is retained because users may not always be aware when 
+a credit rating is discontin ued or expired , such that the public benefit is expected to outweigh the burden of 
+announcing a discontinued rating .  In addition, although a CRA commented that “updated or reviewed” should be 
+replaced with “reviewed”, the language proposed in the Consulta tion Report is retained because “updated or 
+reviewed” provides more clarity than “reviewed”.   As noted in the preamble to IOSCO CRA Code, regional and 
+national laws and regulations governing the activities of CRAs  take precedence over the IOSCO CRA Code , and 
+consequently, new Provision 3.17 is not intended to derogate from any applicable law requiring a CRA  to disclose 
+that it has decided to discontinue a credit rating and the reasons for the decision. 
+ 
+New Provision 3.18 
+Redline Comparison between Consultation and Final Reports:  To promote transparency and to enable investors 
+and other users of credit ratings to compare the performance of different CRAs, a CRA should disclose sufficient 
+information about the historical transition and default rates o f its credit rating categories with respect to the classes 
+of entities and obligations it rates.  This information should include verifiable, quantifiable historical information, 
+organized and structured over a rangeperiod of yearstime, and, where possible, standardized in such a way to assist 
+investors and other users of credit ratings in comparing different CRAs.  If the nature of the rated entity or 
+obligation or other circumstances make asuch historical transition or default raterates inappropriate, statistically 
+invalid, or otherwise likely to mislead investors or other users of credit ratings, the CRA should disclose why this is 
+the case. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.18 is based on 2008 Code Provision 
+3.8.  Ne w Provision 3. 18 is revised to strengthen the provision by deleting “where possible” in the first sentence 
+regarding disclosures of sufficient information .  New Provision 3. 18 is revised to improve clarity by replacing “the 
+market” with “investors and other users of credit ratings”; replacing “best judge” with “compare”; replacing 
+“performance of the ratings” with “performance of different CRAs” for internal consistency with the second 
+sentence of new Provision 3.18; rep lacing “publish” with “disclose”; replacing “ historical default rates…and 
+whether the default rates of these categories have changed over time” with “historical transition and default rates”; 
+adding “with respect to the classes of entities and obligations it rates” in the first sentence; replacing “organized and 
+structured” with “organized over a period of time”; and replacing “investors in drawing performance comparisons 
+between different CRAs” with “ investors or other users of credit ratings, the CRA shou ld disclose why this is the 
+case”.  In addition, the clause about the purpose of this provision being to allow “interested parties…to understand 
+the historical performance of each category” is deleted  because it is unnecessary text even though that is a p urpose 
+of the provision. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.18  was proposed as Provision 
+3.18 in the Consultation Report.  In response to a CRA’s comment, the phrase  “organized and structured over a 
+range of years” is replaced with “organized over a period of time” to clarify the provision.
+
+34 
+ 
+New Provision 3.19 
+Redline Comparison between Consultation and Final Reports:  A CRA should establish, maintain, document, and 
+enforce policies, procedures, and controls to protect confidential and/or material non -public information, including 
+confidential information received from a rated entity, or the obligor, or originator, or t he underwriter, or arranger 
+of a rated obligation, and non -public information about a credit rating action (e.g., information about a credit 
+rating action before the actioncredit rating is publicly disclosed or disseminated to subscribers). 
+a. The policies, procedures, and controls should prohibit the CRA and its employees from using or disclosing 
+confidential and/or material non -public information for any purpose unrelated to the CRA’s credit rating 
+activities, including disclosing such information to other employees where the disclosure is not necessary in 
+connection with the CRA’s credit rating activities, unless disclosure is required by applicable law or 
+regulation. 
+b. The policies, procedures, and controls should require the CRA and its employees to take re asonable steps to 
+protect confidential and/or material non-public information from fraud, theft, misuse, or inadvertent disclosure. 
+c. With respect to confidential information received from a rated entity, obligor, originator, underwriter, or 
+arranger, the po licies, procedures, and controls should prohibit the CRA and its employees from using or 
+disclosing such information in violation of the terms of any applicable agreement or mutual understanding with 
+the rated entity, obligor, underwriter, or arranger that the CRA will keep the information confidential , unless 
+disclosure is required by applicable law or regulation.   
+d. With respect to a pending credit rating action, the policies, procedures, and controls should prohibit the CRA 
+and its employees from selective ly disclosing information about the pending credit rating action , except to the 
+rated entity, obligor, underwriter, arranger, or their designated agents, or as required by applicable law or 
+regulation. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3. 19 is based on 2008 Code 
+Provisions 3.11, 3.12, 3.13, 3.16, and 3.17 .  The introductory paragraph of new Provision 3.19 is based on  the first 
+part of 2008 IOSCO Code Provision 3.11 .  New Provision 3.19’s introductory paragraph is revised to strengthen the 
+provision by replacing “ adopt procedures and mechanisms” with “establish, maintain, document, and enforce 
+policies, procedures, and controls”; and replacing “confidential nature of information …shared confidentially” with 
+“confidential and/or material non -public information…about a credit rating action ”.  New Provision 3.19 ’s 
+introductory paragraph  is revised to improve clarity by adding an example of confidential or material non -public 
+information.   
+New Provision 3.19(a) is based on 2008 IOSCO Code Provisions 3.12 and 3.17.  New Provision 3.19(a) is revised to 
+strengthen the provision by adding a focus on the CRA’s “policies, procedures, and controls”; replacing 
+“confidential information” with “confidential and/or material non-public information”; and replacing “in accordance 
+with any confidential agreements with the issuer” with “required by applicable law or regulation” (which is intended 
+to include confidential agreements through the application of contract law) .  New Pro vision 3.19 (a) is revised to 
+improve clarity by replacing “‘as needed’ basis” with “where the disclosure is not necessary in connection with the 
+CRA’s credit rating activities”. 
+New Provision 3.19 (b) is based on 2008 IOSCO Code Provision 3.13 .  New Provisi on 3.1 9(b) is revised to 
+strengthen the provision  by adding a focus on the CRA’s “policies, procedures, and controls”; adding that 
+confidential information should be protected from  “inadvertent disclosure” (in addition to fraud, theft, or misuse ); 
+and repl acing “property and records” with “confidential and/or material non -public information”  since relevant 
+property (i.e., intellectual property) and records are intended to be included within the terms “confidential and/or 
+material non -public information .”  New Provision 3.19( b) is revised to i mprove clarity by replacing “reasonable 
+steps” with “reasonable measures”. 
+New Provision 3.19(c) is based on 2008 IOSCO Code Provision 3.11.  New Provision 3.19(c) is revised to broaden 
+the provision’s scope by replacin g “ issuer” with “rated entity, obligor, originator, underwriter, or arranger”; and 
+replacing “procedures and mechanisms” with “policies, procedures, and controls ”.  New Provision 3.19(c) is revised 
+to improve clarity by replacing “a confidential agreement or otherwise under a mutual understanding that the 
+information is shared confidentially” with “any applicable agreement or mutual understanding that the CRA will 
+keep the information confidential, unless disclosure is required by applicable law or regulati on”.
+
+35 
+ 
+New Provision 3.19(d) is based on 2008 IOSCO Code Provision 3.16.  New Provision 3.19(d) is revised to improve 
+the provision’s scope by adding a focus on the CRA’s “policies, procedures, and controls”; replacing “issuer” with 
+“rated entity, obligor, a rranger”; and adding an exception “as required by applicable law or regulation” .  New 
+Provision 3.19(d) is revised to i mprove clarity by replacing “rating opinions or possible future rating actions” with 
+“pending credit rating action”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3. 19 was proposed as Provision 
+3.19 in the Consultation Report.  New Provision 3.19 is modified from the Consultation Report to add the term 
+“originator” to the list of entities identified in the prefat ory text and paragraph (c) to improve its comprehensiveness.  
+in addition, n ew Provision 3.19 is revised by deleting “underwriter” from paragraph (d) , as it does not seem 
+appropriate or necessary to provide information regarding a pending rating action to an underwriter.  New Provision 
+3.19 is revised to improve clarity by replacing “credit rating action before the action” with “credit rating action 
+before the credit rating”; and in response to a CRA’s written comment, replacing “understanding with the rate d 
+entity, obligor, underwriter, or arranger” with “mutual understanding that the CRA will keep the information 
+confidential”.  
+In response to written comments , paragraph (a)  is not intended to preclude a CRA from providing confidential 
+and/or material non -public information to its legal department as appropriate.  Further , regarding paragraph (b), 
+“inadvertent disclosure” is intended to include employee actions that result in  disclosures despite the employee’s 
+good faith intent.  Regarding paragraph (d), “law or regulation” is intended to include subpoenas issued by judicial 
+authorities. 
+ 
+New Provision 3.20 
+Redline Comparison between Consultation and Final Reports:  A CRA shoul d establish, maintain, document, and 
+enforce policies, procedures, and controls designed to prevent violations of applicable laws and regulations 
+governing the treatment and use of confidential and/or material non-public information. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.20 is a new provision in the IOSCO 
+CRA Code. 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.20 is adopted as proposed in the 
+Consultation Report’s Provision 3.20.    
+ 
+New Provision 3.21 
+Redline Comparison between Consultation and Final Reports:  A CRA should establish, maintain, document, and 
+enforce policies, procedures, and controls that prohibit employees that possess confidential and/or material non -
+public information co ncerning a trading instrument from engaging in a transaction in the trading instrument or 
+using the information to advise or otherwise advantage another person in transacting in the trading instrument.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 3.21  is based on 2008 Code 
+Provisions 3.14 and 3.18.  New Provision 3.21 is revised to strengthen the provision and broaden its scope by adding 
+a focus on the CRA’s “policies, procedures, and controls”; replacing “confidential information” with “confidential 
+and/or material non -public information”; replacing “securities” with “trading instrument”  throughout the provision ; 
+and adding “using the information to advise or otherwise advantage another person in transacting in the trading 
+instrument”.  In addition, 2008 Code Provision 3.18’s phrase regarding “the conduct of the CRA’s business” is now 
+addressed in new Provision 3.19(a). 
+Summary of Changes between Consultation and Final Reports:  New Provision 3.21 is adopted as proposed in the 
+Consultation Report’s Provision 3.21.   Although a CRA suggested that the policies, procedures, and controls should 
+be “designed to prohibit” instead of “prohibit” the misuse of confidential and/or material non -public information, the 
+language proposed in the Con sultation Report is retained because  the suggested language does not work in the 
+context of this provision (i.e., something is either prohibited or not prohibited).   
+ 
+New Provision 4.1
+
+36 
+ 
+Redline Comparison between Consultation and Final Reports: A CRA’s board (or similar body) should have 
+ultimate responsibility for ensuring that the CRA establishes, maintains, documents, and enforces a code of conduct 
+that gives full effect to the IOSCO Code of Conduct Fundamentals for Credit Rating Agencies . 
+Summary of Changes between 2008 Code and Final Report:  New Provision 4.1 is a new provision in the IOSCO 
+CRA Code. 
+Summary of Changes between Consultation and Final Reports:  New Provision 4.1 is adopted as proposed in the 
+Consultation Report’s Provision 4.1.  In response to a CRA’s request for clarification about the meaning of “ultimate 
+responsibility”, the phrase is intended to be interpreted consistently with a Board’s oversight responsibilities (rather 
+than management’s daily responsibilities).  
+ 
+New Provision 4.2 
+Redline Comparison between Consultation and Final Reports: A CRA should establish a risk management 
+function made up of one or more senior managers or employees with the appropriate level of experience responsible 
+for identifying, assessing, monitoring, and reporting the risks arising from its activities, including, but not limited to 
+legal risk, reputational risk, operational risk, and strategic risk.  The function should be independent of the internal 
+audit function (if practicable given the CRA’s size ) and make periodic reports to the board (or similar body) and 
+senior management to assist them in assessing the adequacy of the policies, procedures, and controls the CRA 
+establishes, maintains, documents, and enforces to manage risk, including the polici es, procedures, and controls 
+specified in the IOSCO Code of Conduct Fundamentals for Credit Rating Agencies.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 4.2 is a new provision in the IOSCO 
+CRA Code. 
+Summary of Changes between Consultation and Final Reports:  New Provision 4.2 is adopted as proposed in the 
+Consultation Report’s Provision 4.2. 
+ 
+New Provision 4.3 
+Redline Comparison between Consultation and Final Reports: A CRA should establish, maintain, document, and 
+enforce policies, procedures, and controls requiring employees to undergo formal ongoing training at reasonably 
+regular time intervals.  The subject matter covered by the training should be relevant to the em ployee’s 
+responsibilities and should cover, as applicable, the CRA’s code of conduct, the CRA’s credit rating methodologies, 
+the laws governing the CRA’s credit rating activities, the CRA’s policies, procedures, and controls for managing 
+conflicts of inter est and governing the holding and transacting in trading instruments, and the CRA’s policies and 
+procedures for handling confidential and/or material non -public information.  The policies, procedures, and 
+controls should include measures designed to verify that employees undergo required training. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 4. 3 is based, in part,  on 2008 Code 
+Provision 3.15, which stated that a CRA’s employees should be familiar with the CRA’s securities trading policies.  
+The revisions are intended to significantly expand 2008 Code Provision 3.15 to provide that the CRA should 
+establish policies, procedures, and controls requiring formal ongoing training at reasonably regular time intervals 
+(and to identify the subject matter of these trainings).  With respect to securities trading  policies (the focus of 2008 
+Code Provision 3.15) , new Provision 4.3 is revised to strengthen the provision and broaden its scope by replacing 
+“internal securities trading” with “the holding and transacting in trading instruments”; and replacing “periodically 
+certify their compliance as required by such policies” with “policies, procedures, and c ontrols should include 
+measures designed to verify that employees undergo required training”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 4.3 is adopted  as proposed in the 
+Consultation Report’s Provision 4.3.  In response to a  CRA’s comment, this provision is not intended to impose a 
+prescriptive “one size fits all” approach.   The training policies, procedures, and controls should be tailored to the 
+CRA’s size, the complexity of its activities, and its business model. 
+ 
+New Provision 5.1
+
+37 
+ 
+Redline Comparison between Consultation and Final Reports: A CRA’s disclosures, including those specified in 
+the provisions of the IOSCO CRA Code, should be complete, fair, accurate, timely, and understandable  to investors 
+and other users of credit ratings. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 5.1 is a new provision in the IOSCO 
+CRA Code.   
+Summary of Changes between Consultation and Final Reports:  New Provision 5.1 was proposed as Provision 5.1 
+in the Consultation Report.  In response to a CRA’s comment, n ew Provision 5. 1 is revised to improve the 
+standard’s clarity by adding “to investors and other users of credit ratings” after “complete, fair, accurate, timely, 
+and understan dable”.  Although another CRA recommended replacing “understandable” with “in plain language” 
+for consistency with new Provision 3.1, the language proposed in the Consultation Report is retained for consistency 
+with new Provision 3.15. 
+ 
+New Provision 5.2 
+Redline Comparison between Consultation and Final Reports: A CRA should publicly disclose with its code of 
+conduct and describe a description of how the provisions of its code of conduct fully implement the provisions of the 
+IOSCO Statement of Principles Regarding the Activities of Credit Rating Agencies and the IOSCO Code of Conduct 
+Fundamentals for Credit Rating Agencies (collectively, the “IOSCO provisions”).  If the CRA’s code of conduct 
+deviates from an IOSCO provision, the CRA should identify the rel evant IOSCO provision, explain the reason for 
+the deviation, and explain how the deviation nonetheless achieves the objectives contained in the IOSCO provisions.  
+The CRA should describe how it implements and enforces its code of conduct.  The CRA also sho uld disclose as 
+soon as practicable any changes to its code of conduct or changes to how it is being implemented or enforced.  
+Summary of Changes between 2008 Code and Final Report:  New Provision 5.2 is based on 2008 Code Provision 
+4.1.  New Provision 5.2 is revised to strengthen the provision by replacing “generally how it intends to enforce” with 
+“how it implements and enforces”.  New Provision 5.2 is revised to improve clarity by replacing “explain where and 
+why these deviations exist” with “ identify the relevant IOSCO provision, explain the reason for the deviation”; and 
+replacing “on a timely basis” with “as soon as practicable”. 
+Summary of Changes between Consultation and Final Reports:  New Provision 5.2 was proposed as Provision 5.2 
+in the Consultation Report . New Provision 5.2 is revised from the Consultation Report to delete the provision to 
+disclose the CRA’s code of conduct because new Provision 5.4 already requires the CRA to publicly disclose its 
+code of conduct.  In addition, with res pect to the other matters in new Provision 5.2 that should be  disclosed, 
+“publicly disclose” is replaced with “disclose” because new Provision 5.4 already provides that a CRA make 
+publicly available on its primary website any disclosures specified in the IOSCO CRA Code. 
+ 
+New Provision 5.3 
+Redline Comparison between Consultation and Final Reports: A CRA should establish and maintain a function 
+within its organization charged with receiving, retaining, and handling  questions, concerns or  complaints from 
+market participants and the public.  The function should establish, maintain, document, and enforce policies, 
+procedures, and controls for receiving, retaining, and handling  questions, concerns, and  complaints, including 
+those that are provided on a confidentia l basis.  The policies, procedures, and controls should specify the 
+circumstances under which a  question, concern, or  complaint must be reported to senior management and/or the 
+board (or similar body). 
+Summary of Changes between 2008 Code and Final Report:  New Provision 5.3 is based on 2008 Code Provision 
+4.2.  New Provision 5. 3 is revised to strengthen the provision and refine its scope by replacing “ establish” with 
+“establish and maintain”; replacing “questions, concerns or complaints” with “compl aints”; and adding the second 
+sentence regarding the function’s responsibility for policies, procedures, and controls .  New Provision 5.3 is revised 
+to improve clarity by replacing “communicating” with “receiving, retaining, and handling”; and replacing th e 
+second sentence of 2008 Code Provision 4.2 with the third sentence of new Provision 5.3.  
+Summary of Changes between Consultation and Final Reports:  New Provision 5.3 was proposed as Provision 5.3  
+in the Consultation Report.  New Provision 5. 3 is revised by r eplacing “questions, concerns  or complaints” with 
+“complaints” in response to a CRA’s comment that it would be impracticable to centralize the many questions and 
+concerns received on a daily basis.  In response to another CRA’s concerns about the prov ision’s impact on smaller
+
+38 
+ 
+CRAs, the form of the “function” is expected to be affected by the CRA’s size and complexity, and as such, 
+“function” does not necessarily refer to a separate office within the CRA. 
+ 
+New Provision 5.4 
+Redline Comparison between Consultation and Final Reports: A CRA should make readily accessiblepublicly and 
+prominently disclose free of charge on its publicprimary website: 
+a. the CRA’s code of conduct;  
+b. a description of the CRA’s credit rating methodologies;  
+c. information about the CRA’s historic performance data; and  
+d. any other disclosures specified in the provisions of the IOSCO CRA Code , as appropriate  as applicable given 
+the CRA’s business model. 
+Summary of Changes between 2008 Code and Final Report:  New Provision 5.4 is based on 2008 Code Provision 
+4.3.  New Provision 5. 4 is revised to strengthen the provision  and improve its clarity  by replacing “publish in a 
+prominent position on its home webpage links” with “publicly and prominently disclose free of charge on its 
+primary website”; and adding paragraph (d) regarding “any other disclosures specified in the provisions of the 
+IOSCO CRA Code, as applicable given the CRA’s business model.”  
+Summary of Changes between Consultation and Final Reports:  New Provision 5.4 was proposed as Provision 5.4  
+in the Consultation Report.  New Provision 5. 4 is revised to improve clarity by replacing “make readily accessible 
+on its public website” with “publicly and prominently disclose free of charge on its primary webs ite” (in response to 
+CRA comments regarding the ambiguity of “readily accessible”) ; and replacing “as appropriate” with “as applicable 
+given the CRA’s business model”.
+
+Appendix A: New IOSCO CRA Code
+
+A-1 
+ 
+CODE OF CONDUCT FUNDAMENTALS 
+FOR CREDIT RATING AGENCIES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE BOARD 
+OF THE 
+INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSIONS 
+ 
+ 
+ 
+REVISED MARCH 2015
+
+A-2 
+CODE OF CONDUCT FUNDAMENTALS 
+FOR CREDIT RATING AGENCIES 
+ 
+INTRODUCTION 
+In September 2003, IOSCO’s Technical Committee published a Statement of Principles 
+Regarding the Activities of Credit Rating Agencies (the “IOSCO CRA Principles”). 1  The 
+IOSCO CRA Principles were designed to be a useful tool for securities regulators, credit rating 
+agencies (“CRAs”), and others wishing to articulate the terms and conditions under which CRAs 
+operate and the manner in which opinions of CRAs should be used by market participants.  The 
+IOSCO CRA Principles address four key objectives that are desi gned to promote informed, 
+independent analyses and opinions by CRAs. 2  This, in turn, is designed to promote the three 
+core objectives of securities regulations identified by IOSCO: the protection of investors; 
+ensuring that markets are fair, efficient and transparent; and the reduction of systemic risk.3 
+The four objectives (collectively, the “Principles”) of the IOSCO CRA Principles are: 
+ Quality and integrity of the  credit rating process – CRAs should endeavour to issue 
+opinions that help reduce the asymm etry of information among borrowers, lenders and 
+other market participants;  
+ Independence and conflicts of interest – CRA rating decisions should be independent 
+and free from political or economic pressures and from conflicts of interest arising due to 
+the CRA’s ownership structure, business or financial activities, or the financial interests 
+of the CRA’s employees. CRAs should, as far as possible, avoid activities, procedures or 
+relationships that may compromise or appear to compromise the independence and  
+objectivity of credit rating operations;  
+ Transparency and timeliness of ratings disclosure – CRAs should make disclosure and 
+transparency an objective of their ratings activities; and  
+ Confidential information  – CRAs should maintain in confidence all non -public 
+information communicated to them by any issuer, or its agents, under the terms of a 
+confidentiality agreement or otherwise under a mutual understanding that the 
+information is shared confidentially. 
+The Principles are high -level objectives that CRAs, regulators, rated entities, obligors, 
+underwriters, arrangers, and other market participants should strive toward in order to improve 
+investor protection and the fairness, efficiency and transparency of secur ities markets, and 
+reduce systemic risk. The Principles apply to all types of CRAs operating in various 
+jurisdictions.  However, to take into account the different market, legal, and regulatory 
+circumstances in which CRAs operate, and the varying size and business models of CRAs, the 
+manner in which the Principles were to be implemented was left open.  The Principles 
+                                                 
+1  See IOSCO Technical Committee, Statement of Principles Regarding the Activities of 
+Credit Rating Agencies (Sept. 2003), available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD151.pdf. 
+2  See id. 
+3  See IOSCO, Objectives and Principles of Securities Regulation (rev. June 2010), available at 
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD323.pdf.
+
+A-3 
+contemplated that a variety of mechanisms could be used, including both market mechanisms 
+and regulation. 
+The following Code of Conduct Fundam entals for Credit Rating Agencies (the “IOSCO CRA 
+Code”) offers a set of robust, practical measures that serve as a guide to and a framework for 
+implementing the Principles’ objectives.4  These measures are the fundamentals which should be 
+included in indi vidual CRA codes of conduct, and the elements contained in the IOSCO CRA 
+Code should receive the full support of CRA management and be backed by thorough 
+compliance and enforcement mechanisms.  However, the measures set forth in the IOSCO CRA 
+Code are not intended to be all -inclusive:  CRAs and regulators should consider whether or not 
+additional measures may be necessary to properly implement the Principles in a specific 
+jurisdiction. Further, the IOSCO CRA Code is not designed to be rigid or formulistic.  It is 
+designed to offer CRAs a degree of flexibility in how these measures are incorporated into the 
+individual codes of conduct of the CRAs themselves, according to each CRA’s specific legal, 
+business, and market circumstances. 
+CRAs should give full effect to the IOSCO CRA Code subject to regional and national laws  and 
+regulations governing the activities of CRAs.  In order to promote transparency and improve the 
+ability of market participants and others to judge whether a CRA has satisfact orily implemented 
+the IOSCO CRA Code, CRAs should disclose how each provision of the IOSCO CRA Code is 
+addressed in the CRA’s own code of conduct.  CRAs should explain if and how their own codes 
+of conduct deviate from the IOSCO CRA Code and how such deviations nonetheless achieve the 
+objectives laid out in the IOSCO CRA Code and the IOSCO CRA Principles.  This will permit 
+market participants to draw their own conclusions about whether the CRA has implemented the 
+IOSCO CRA Code to their satisfaction, and to react accordingly.  In developing their own codes 
+of conduct, CRAs should keep in mind that the laws and regulations of the jurisdictions in which 
+they operate vary and take precedence over the IOSCO CRA Code.  These laws  and regulations 
+may include direct regulation of CRAs and may incorporate elements of the IOSCO CRA Code 
+itself. 
+Finally, the IOSCO CRA Code only addresses measures that CRAs should adopt to help ensure 
+that the Principles are properly implemented.  The IOSCO CRA Code does not address the  
+equally important obligations that rated entities, obligors, underwriters, and arrangers have of 
+cooperating with and providing accurate and complete information to the marketplace and the 
+CRAs they solicit to provide credit ratings.  While aspects of the  IOSCO CRA Code deal with a 
+CRA’s duties to these entities, the essential purpose of the IOSCO CRA Code is to promote 
+investor protection by safeguarding the integrity of the credit rating process.  IOSCO members 
+recognize that credit ratings, despite thei r numerous other uses, exist primarily to help investors 
+and other users of credit ratings assess credit risks.  Maintaining the independence of CRAs vis -
+à-vis the entities and obligations they rate is vital to achieving this goal.  Provisions of the 
+IOSCO CRA Code, dealing with CRA responsibilities  to rated entities, obligors, underwriters, 
+and arrangers are designed to improve the quality of credit ratings and their usefulness to 
+investors.  These provisions should not be interpreted in ways that undermin e the independence 
+of CRAs or their ability to issue timely credit ratings. 
+                                                 
+4  In 2004, following the publication of the IOSCO CRA Principles, IOSCO published the Code of Conduct 
+Fundamentals for CRAs.  The IOSCO CRA Code was revised in 2008 to address concerns about the role of 
+CRAs in the wake of the financial crisis, and again in 2015 to take into account the CRA registration and 
+oversight programs implemented by IOSCO members.
+
+A-4 
+Like the IOSCO CRA Principles, the IOSCO CRA Code is also intended to be useful to all types 
+of CRAs relying on a variety of different business models.  The IOSCO CRA Code does not  
+indicate a preference for one business model over another, nor are the measures described herein 
+designed to be used only by CRAs with large staffs and compliance functions.  Accordingly, the 
+types of mechanisms and procedures CRAs adopt to ensure that th e provisions of the IOSCO 
+CRA Code are followed will vary according to the market  and legal circumstances in which the 
+CRA operates. 
+Structurally, the IOSCO CRA Code is broken into five sections: 
+ The Quality and Integrity of the Credit Rating Process; 
+ CRA Independence and the Avoidance of Conflicts of Interest; 
+ CRA Responsibilities to the Investing Public, Rated Entities, Obligors, Underwriters, and 
+Arrangers; 
+ Governance, Risk Management, and Employee Training; and 
+ Disclosure and Communication with Market Participants. 
+TERMS 
+For the purposes of the IOSCO CRA Code:5 
+ “Affiliate” means an entity that directly or indirectly controls, is controlled by, or is 
+under common control with another entity. 
+ “Analyst” means a CRA employee who performs analytical functions that are necessary 
+for the issuing or monitoring of a credit rating or participates in determining credit 
+ratings, including an employee involved in a credit rating committee. 
+ “Credit rating” or “rating” means an assessment re garding the creditworthiness of an 
+entity or obligation, expressed using an established and defined ranking system.   
+ “Credit rating action” means  to determine  an initial credit rating, an upgrade of an 
+existing credit rating, a downgrade of an existing cr edit rating (including to a default 
+category), an affirmation of an existing credit rating, or a withdrawal of a credit rating.  
+ “Credit rating agency” or “CRA” means an entity that is in the business of issuing credit 
+ratings. 
+ “Credit rating methodology” means the procedure by which a CRA determines credit 
+ratings, including the information that must be considered or analyzed to determine a 
+credit rating and the analytical framework used to determine the credit rating, including, 
+as applicable, the models, financial metrics, assumptions, criteria, or other quantitative or 
+qualitative factors to be used to determine the credit rating. 
+ “Credit rating process” means all the steps taken with respect to a credit rating action 
+including, but not limited to, the CRA’s selection and assignment of analysts to work on 
+the matter, application of the credit rating methodology, decision -making activities (e.g., 
+the operation of a rating committee), interaction with the rated entity, obligor, originator, 
+underwriter, or arranger, and as applicable, dissemination of the credit rating publicly or 
+to subscribers. 
+                                                 
+5  These definitions are intended to facilitate an understanding of the IOSCO CRA Code.  These terms may 
+be defined differently under regional and national laws.  As noted above, laws and regulations of the 
+jurisdictions in which CRAs operate vary and take precedence over the IOSCO CRA Code.
+
+A-5 
+ “Employee” means any individual who works for the CRA on a full -time, part-time, or 
+temporary b asis, including any individual working as a contractor, provided that such 
+contractor is involved in the credit rating process. 
+ “Entity” means a government; political subdivision, agency, or instrumentality of a 
+government; or a company, corporation, partnership, trust, estate, or association. 
+ “Trading instrument” means a security, money market instrument, derivative, or other 
+similar product. 
+ “Obligation” means a trading instrument, credit commitment, loan, or other similar 
+product or transaction that has inherent credit risk. 
+ “Obligor” means the entity that is legally or contractually obliged to make payments on a 
+rated obligation. 
+THE IOSCO CODE OF CONDUCT FUNDAMENTALS FOR CREDIT RATING AGENCIES 
+As described in the IOSCO CRA Principles, CRAs should endeav or to issue credit ratings that 
+help reduce the asymmetry of information that exists between rated entities, obligors, 
+originators, underwriters, and arrangers , on one side, and users of credit ratings on the other.  
+Rating analyses of low quality or produced through a process of questionable integrity are either 
+of little use to or misleading for market participants. Stale credit ratings that fail to reflect 
+changes to the financial condition or prospects of a rated entity, obligor, originator, underwriter, 
+or arranger may mislead market participants.  Likewise, conflicts of interest or other undue 
+factors – internal and external – that might, or even appear to, impinge upon the independence of 
+a credit rating action can seriously undermine a CRA’s credibil ity. Where conflicts of interest or 
+a lack of independence is common at a CRA and hidden from investors, overall investor 
+confidence in the transparency and integrity of a market can be harmed.  CRAs also have 
+responsibilities to the investing public and t o rated entities, obligors, originators, underwriters, 
+and arrangers , including a responsibility to protect the confidentiality of some types of 
+information these entities share with them. 
+To help achieve the objectives outlined in the IOSCO CRA Principles , which should be read in 
+conjunction with the IOSCO CRA Code, CRAs should adopt, publish, and adhere to a Code of 
+Conduct containing the following measures: 
+1. QUALITY AND INTEGRITY OF THE CREDIT RATING PROCESS 
+A. Quality of the Credit Rating Process 
+1.1 A CRA should establish, maintain, document, and enforce a credit rating 
+methodology for each class of entity or obligation for which the CRA issues credit 
+ratings.  Each credit rating methodology should be  rigorous, capable of being 
+applied consistently, a nd, where possible,  result in credit ratings that can be 
+subjected to some form of objective validation based on historical experience. 
+1.2 Credit ratings should reflect all information known and believed to be relevant to the 
+CRA, consistent with the applicable credit rating methodology that is in effect.  
+Therefore, the CRA should establish, maintain, document, and enforce policies, 
+procedures, and controls to ensure that the credit ratings and related reports it 
+disseminates are based on a thorough analysis of all such information. 
+1.3 A CRA should adopt reasonable measures designed to ensure that it has the 
+appropriate knowledge and expertise, and that the information it uses in determining
+
+A-6 
+credit ratings is of sufficient quality and obtained from re liable sources to support a 
+high quality credit rating.   
+1.4 A CRA should avoid issuing credit ratings for entities or obligations for which it 
+does not have appropriate information, knowledge, and expertise.  For example, 
+where the complexity of a security or the structure of a type of security, or the lack of 
+robust data about the assets underlying the security raise serious questions as to 
+whether the CRA can determine a high quality credit rating for the security, the CRA 
+should refrain from issuing a credit rating. 
+1.5 In assessing creditworthiness, analysts involved in the credit rating action should use 
+the credit rating methodology established by the CRA for the type of entity or 
+obligation that is subject to the  credit rating action.  The credit ra ting methodology 
+should be applied in a manner that is consistent across all entities or obligations for 
+which that methodology is used. 
+1.6 A CRA should define the meaning of each category in its rating scales and apply 
+those categories consistently acros s all classes of rated entities and obligations to 
+which a given rating scale applies. 
+1.7 Credit ratings should be assigned by the CRA as an entity (not by an analyst or other 
+employee of the CRA).  
+1.8 A CRA should assign analysts who, individually or co llectively (particularly where 
+credit rating committees are used), have appropriate knowledge and experience for 
+assessing the creditworthiness of the type of entity or obligation being rated. 
+1.9 A CRA should maintain internal records that are accurate an d sufficiently detailed 
+and comprehensive to reconstruct the credit rating process for a given credit rating 
+action.  The records should be retained for as long as necessary to promote the 
+integrity of the CRA’s credit rating process, including to permit i nternal audit, 
+compliance, and quality control functions to review past credit rating actions in 
+order to carry out the responsibilities of those functions.  Further, a CRA should 
+establish, maintain, document, and enforce policies, procedures, and control s 
+designed to ensure that its employees comply with the CRA’s internal record 
+maintenance, retention, and disposition requirements and with applicable laws  and 
+regulations governing the maintenance, retention, and disposition of CRA records.   
+1.10 A CRA s hould establish, maintain, document, and enforce policies, procedures, and 
+controls designed to avoid issuing credit ratings, analyses, or reports that contain 
+misrepresentations or are otherwise misleading as to the general creditworthiness of 
+a rated entity or obligation. 
+1.11 A CRA should ensure that it has and devotes sufficient resources to carry out and 
+maintain high quality credit ratings.  
+ When deciding whether to issue a credit rating for an entity or obligation, a CRA 
+should assess whether it is able to devote a sufficient number of analysts with the 
+skill sets to determine high quality credit ratings, and whether the analysts will have 
+access to sufficient information in order to determine a high quality credit rating.
+
+A-7 
+1.12 A CRA should establish and maintain a review function made up of one or more 
+senior managers with appropriate experience to review the feasibility of providing a 
+credit rating for a type of entity or obligation that is materially different from the 
+entities or obligations the CRA currently rates.   
+1.13 A CRA should establish and maintain a review function made up of one or more 
+senior managers responsible for conducting a rigorous, formal, and periodic review, 
+on a regular basis pursuant to an established t imeframe, of all aspects of the CRA’s 
+credit rating methodologies (including models and key assumptions) and significant 
+changes to the credit rating methodologies.  For example, a CRA should assess 
+whether existing credit rating methodologies and models f or determining credit 
+ratings of structured finance products are appropriate when the risk characteristics 
+of the assets underlying a structured finance product change materially. 
+Where feasible and appropriate for the size and scope of its credit rating b usiness, 
+this function should be independent of the employees who are principally responsible 
+for determining credit ratings. 
+1.14 A CRA, in selecting the analyst or analysts who will participate in determining a 
+credit rating, should seek to promote conti nuity but also to avoid bias in the credit 
+rating process.  For example, in seeking to balance the objectives of continuity and 
+bias avoidance, a CRA could assign a team of analysts to participate in determining 
+the credit rating – some for whom the rated entity or obligation is within their area 
+of primary analytical responsibility and some of whom have other areas of primary 
+analytical responsibility. 
+1.15 A CRA should ensure that sufficient employees and financial resources are allocated 
+to monitoring an d updating all its credit ratings.  Except for a credit rating that 
+clearly indicates it does not entail ongoing surveillance, once a credit rating is 
+published, the CRA should monitor the credit rating on an ongoing basis by: 
+a. reviewing the creditworthiness of the rated entity or obligation regularly; 
+b. initiating a review of the status of the credit rating upon becoming aware of any 
+information that might reasonably be expected to result in a credit rating action 
+(including withdrawal of a credit ratin g), consistent with the applicable credit 
+rating methodology;  
+c. reviewing the impact of and applying a change in the credit rating 
+methodologies, models or key rating assumptions on the relevant credit ratings 
+within a reasonable period of time;  
+d. updating on a timely basis the credit rating, as appropriate, based on the results 
+of such review; and 
+e. incorporating all cumulative experience obtained. 
+1.16 If a CRA uses separate analytical teams for determining initial credit ratings and for 
+subsequent monitoring of existing credit ratings, each team should have the requisite 
+level of expertise and resources to perform their respective functions in a timely 
+manner.
+
+A-8 
+1.17 A CRA should establish, maintain, document, and enforce policies and procedures 
+that clearly set forth guidelines for disseminating credit ratings that are the result or 
+subject of credit rating actions and the related reports, and for when a credit rating 
+will be withdrawn. 
+B. Integrity of the Credit Rating Process 
+1.18 A CRA and its employees should deal fairly and honestly with rated entities, 
+obligors, originators, underwriters, arrangers, and users of credit ratings.   
+1.19 A CRA’s employees should be held to the highest standards of integrity and ethical 
+behavior, and the CRA  should have policies and procedures in place that are 
+designed to ensure that individuals with demonstrably compromised integrity are not 
+employed.    
+1.20 A CRA and its employees should not, either implicitly or explicitly, give any 
+assurance or guarantee to an entity subject to a rating action , obligor, originator, 
+underwriter, arranger, or user of the CRA’s credit ratings  about the outcome of a 
+particular credit rating action. This does not preclude the CRA from developing 
+preliminary indications in a manner that is consistent with Provisions 1.22 and 2.6(d) 
+of the IOSCO CRA Code. 
+1.21 A CRA and its employees should not make promises or threats about potential credit 
+rating actions to influence rated entities, obligors, originators, underwriters, 
+arrangers, or users of the CRA’s credit ratings (e.g., subscribers) to pay for credit 
+ratings or other services. 
+1.22 A CRA and its employees should not make proposals or recommendations regarding 
+the activities of rated entities or obligors that could impact a credit  rating of the 
+rated entity or obligation, including but not limited to proposals or recommendations 
+about corporate or legal structure, assets and liabilities, business operations, 
+investment plans, lines of financing, business combinations, and  the design of 
+structured finance products. 
+1.23 In each jurisdiction in which a CRA operates, the CRA should establish, maintain, 
+document, and enforce policies, procedures, and controls designed to ensure that the 
+CRA and its employees comply with the CRA’s c ode of conduct and applicable laws  
+and regulations.   
+a. The CRA should establish a compliance function responsible for monitoring and 
+reviewing the compliance of the CRA and its employees with the provisions of the 
+CRA’s code of conduct and with applicable laws and regulations. 
+b. The compliance function also should be responsible for reviewing the adequacy 
+of the CRA’s policies, procedures, and controls designed to ensure compliance 
+with the CRA’s code of conduct and applicable laws and regulations.   
+c. The CRA should assign a senior level employee with the requisite skill set to 
+serve as the CRA’s compliance officer in charge of the compliance function.  The 
+compliance officer’s reporting lines and compensation should be independent of 
+the CRA’s credit rating operations.
+
+A-9 
+1.24 Upon becoming aware that another employee or an affiliate of the CRA is or has 
+engaged in conduct that is illegal, unethical, or contrary to the CRA’s code of 
+conduct, the CRA employee should report such information immediately to the 
+compliance officer or another officer of the CRA, as appropriate, so proper action 
+may be taken.  The CRA’s employees are not necessarily expected to be experts in the 
+law. Nonetheless, CRA employees are expected to report activities that a reasonable 
+person would question.  Upon receiving such a report from an employee, the CRA is 
+obligated to take appropriate action, as determined by the laws  and regulations of 
+the jurisdiction and the policies , procedures, and controls  established, maintained, 
+documented, and enforced by the CRA.  A CRA should prohibit retaliation by the 
+CRA or an employee against any employees who, in good faith, make such reports. 
+2. CRA INDEPENDENCE AND AVOIDANCE OF CONFLICTS OF INTEREST 
+A. General 
+2.1 A CRA should not delay or refrain from taking a credit rating action based on the 
+potential effect (economic, political, or otherwise) of the action on the CRA, a rated 
+entity, obligor, originator, underwriter, arranger, investor, or other market 
+participant. 
+2.2 A CRA and its employees should use care and professional judgment to maintain 
+both the substance and appearance of the CRA’s and its employees’ independence 
+and objectivity. 
+2.3 A CRA’s determination of a credit rating should be influenced only by factors 
+relevant to assessing the creditworthiness of the rated entity or obligation. 
+2.4 The credit rating a CRA assigns to an entity or obligation should not be affected by 
+whether there is an existing or potential business relationship between the CRA ( or 
+its affiliates) and the rated entity, obligor, originator, underwriter, or arranger (or 
+any of their affiliates), or any other party. 
+2.5 A CRA should operationally, legally, and, if practicable, physically separate its 
+credit rating business and its analysts from any other businesses of the CRA that may 
+present a conflict of interest.  For other businesses that do not necessarily present a 
+conflict of interest, the CRA should establish, maintain, document, and enforce 
+policies, procedures, and controls designed to minimize the likelihood that conflicts 
+of interest will arise.  A CRA should disclose why it believes those other businesses 
+do not present a conflict of interest with its credit rating business.
+
+A-10 
+B. CRA Policies, Procedures, Controls and Disclosures 
+2.6 A CRA should establish, maintain, document, and enforce policies, procedures, and 
+controls to identify and eliminate, or manage and disclose, as appropriate, any actual 
+or potential conflicts of interest that may influence the credit r ating methodologies, 
+credit rating actions, or analyses of the CRA or the judgment and analyses of the 
+CRA’s employees.  Among other things, the policies, procedures, and controls should 
+address (as applicable to the CRA’s business model) how the following  conflicts can 
+potentially influence the CRA’s credit rating methodologies or credit rating actions: 
+a. being paid to issue a credit rating by the rated entity or by the obligor, originator, 
+underwriter, or arranger of the rated obligation; 
+b. being paid by subs cribers with a financial interest that could be affected by a 
+credit rating action of the CRA; 
+c. being paid by rated entities, obligors, originators, underwriters, arrangers, or 
+subscribers for services other than issuing credit ratings or providing access t o 
+the CRA’s credit ratings;  
+d. providing a preliminary indication or similar indication of credit quality to an 
+entity, obligor, originator, underwriter, or arranger prior to being hired to 
+determine the final credit rating for the entity, obligor, originator, underwriter, 
+or arranger; and 
+e. having a direct or indirect ownership interest in a rated entity or obligor, or 
+having a rated entity or obligor have a direct or indirect ownership interest in 
+the CRA. 
+2.7 A CRA should disclose actual and potenti al conflicts of interest (including, but not 
+limited to, those conflicts of interest identified in Principle 2.6 above) in a complete, 
+timely, clear, concise, specific, and prominent manner.  When the actual or potential 
+conflict of interest  is unique or specific to a credit rating action with respect to a 
+particular rated entity, obligor,  originator, lead underwriter, arranger, or 
+obligation, such conflict of interest should be disclosed in the same form and through 
+the same means as the relevant credit rating action. 
+2.8 A CRA should disclose the general nature of its compensation arrangements with 
+rated entities, obligors, lead underwriters, or arrangers. 
+a. When the CRA receives from a rated entity, obligor, originator, lead underwriter, 
+or arranger compensation unrelated to its credit rating services, the CRA should 
+disclose such unrelated compensation as a percentage of total annual 
+compensation received from such rated entity, obligor,  lead underwriter, or 
+arranger in the relevant credit rating report or elsewhere, as appropriate. 
+b. A CRA should disclose in the relevant credit rating report or elsewhere, as 
+appropriate, if it receives 10 percent or more of its annual revenue from a single 
+client (e.g., a rated entity, obligor, originator, lead underwriter, arranger, or 
+subscriber, or any of their affiliates). 
+2.9 A CRA should disclose in its credit rating announcement whether the issuer of a 
+structured finance product has informed the CRA that it is publicly disclosing all
+
+A-11 
+relevant information about the obligation being rated or if the information remains 
+non-public.     
+2.10 A CRA should not hold or transact in trading instruments presenting a conflict of 
+interest with the CRA’s credit rating activities. 
+2.11 In instances where rated entities or obligors (e.g., sovereign nations or states) have, 
+or are simultaneously pursuing, oversight functions related to the CRA, the 
+employees responsible for interacting with the officials of the rated entity  or the 
+obligor (e.g., government regulators) regarding supervisory matters should be 
+separate from the employees that participate in taking credit rating actions or 
+developing or modifying credit rating methodologies that apply to such rated entity 
+or obligor. 
+C. CRA Employee Independence 
+2.12 Reporting lines for CRA employees and their compensation arrangements should be 
+structured to eliminate or effectively manage actual and potential conflicts of interest. 
+a. A CRA employee who participates in or who migh t otherwise have an effect on a 
+credit rating action with respect to an entity or obligation should not be 
+compensated or evaluated on the basis of the amount of revenue that the CRA 
+derives from that entity or obligor. 
+b. A CRA should conduct formal and peri odic reviews of its compensation policies, 
+procedures, and practices for CRA employees who participate in or who might 
+otherwise have an effect on a credit rating action to ensure that these policies, 
+procedures, and practices have not compromised and do n ot compromise the 
+objectivity of the CRA’s credit rating process. 
+2.13 A CRA’s employees who participate in or who might otherwise have an effect on a 
+credit rating action should not initiate or participate in discussions with rated 
+entities, obligors, arrangers, or subscribers regarding fees or payments charged to 
+such rated entity, obligor, arranger, or subscriber.   
+2.14 A CRA employee should not participate in or otherwise influence a CRA’s credit 
+rating action with respect to an entity or obligation if the employee, an immediate 
+family member of the employee (e.g., spouse, domestic partner, or dependent), or an 
+entity managed by the employee (e.g., a trust): 
+a. Holds or transacts in a trading instrument issued by the rated entity or obligor;  
+b. Holds or transacts in a trading instrument (other than a diversified collective 
+investment scheme) that itself owns an interest in the rated entity or obligor, or is 
+a derivative based on a trading instrument issued by the rated entity or obligor; 
+c. Holds or transacts in a trading instrument issued by an affiliate of the rated entity 
+or obligor, the ownership of which may cause or may be perceived as causing a 
+conflict of interest with respect to the employee or the CRA; 
+d. Holds or transacts in a trading instrument issued by a lead underwriter or 
+arranger of the  rated obligation, the ownership of which may cause or may be
+
+A-12 
+perceived as causing a conflict of interest with respect to the employee or the 
+CRA; 
+e. Is currently employed by, or had a recent employment or other significant 
+business relationship with the rated entity or obligor or a  lead underwriter or 
+arranger of the rated obligation that may cause or may be perceived as causing a 
+conflict of interest; 
+f. Is a director of the rated entity or obligor, or  lead underwriter or arranger of the 
+rated obligation; or 
+g. Has, or had, another relationship with  or interest in  the rated entity, obligor, or 
+the lead underwriter or arranger of the rated obligation (or any of their affiliates) 
+that may cause or may be perceived as causing a conflict of interest.  
+2.15 A CRA analyst should not hold or transact in a trading instrument issued by a rated 
+entity or obligor in the analyst’s area of primary ana lytical responsibility.  This 
+would not preclude an analyst from holding or trading a diversified collective 
+investment scheme that owns a trading instrument issued by a rated entity or obligor 
+in the analyst’s area of primary analytical responsibility. 
+2.16 A CRA employee should be prohibited from soliciting money, gifts, or favors from 
+anyone with whom the CRA does business and should be prohibited from accepting 
+gifts offered in the form of cash or cash equivalents or any gifts exceeding a minimal 
+monetary value. 
+2.17 A CRA employee who becomes involved in a personal relationship (including, for 
+example, a personal relationship with an employee of a rated entity, obligor, or 
+originator, or the lead underwriter or arranger of a rated obligation) that creates an 
+actual or potential conflict of interest should be required under the CRA’s policies , 
+procedures, and controls  to disclose the relationship to the compliance officer or 
+another officer of the CRA, as appropriate. 
+2.18 A CRA should establish, maintain, document, and enforce policies, procedures, and 
+controls for reviewing without unnecessary delay the past work of an analyst who 
+leaves the employ of the CRA and joins an entity that th e employee participated in 
+rating, an obligor whose obligation the employee participated in rating, an 
+originator, underwriter, or arranger with which the employee had significant 
+dealings as part of his or her duties at the CRA, or any of their affiliates. 
+3. CRA RESPONSIBILITIES TO THE INVESTING PUBLIC, RATED ENTITIES, 
+OBLIGORS, ORIGINATORS, UNDERWRITERS, AND ARRANGERS 
+A. Transparency and Timeliness of Credit Ratings Disclosure 
+3.1 A CRA should assist investors and other users of credit ratings in develop ing a 
+greater understanding of credit ratings by disclosing in plain language, among other 
+things, the nature and limitations of credit ratings and the risks of unduly relying on 
+them to make investment or other financial decisions.  A CRA that is subject to a CRA 
+registration and oversight program administered by a regional or national authority 
+should not state or imply that the authority endorses its credit ratings or use its 
+registration status to advertise the quality of its credit ratings.
+
+A-13 
+3.2 A CRA s hould disclose sufficient information about its credit rating process and its 
+credit rating methodologies, so that investors and other users of credit ratings can 
+understand how a credit rating was determined by the CRA.   
+3.3 A CRA should disclose a mater ial modification to a credit rating methodology prior 
+to the modification taking effect unless doing so would negatively impact the integrity 
+of a credit rating by unduly delaying the taking of a credit rating action.  In either 
+case, the CRA should disclose the material modification in a non-selective manner.  
+3.4 A CRA should disclose its policies and procedures that address the issuance of 
+unsolicited credit ratings. 
+3.5 A CRA should disclose its policies and procedures for distributing credit rating s and 
+reports, and for when a credit rating will be withdrawn.  
+3.6 A CRA should disclose clear definitions of the meaning of each category in its rating 
+scales, including the definition of default.   
+3.7 A CRA should differentiate credit ratings of structu red finance products from credit 
+ratings of other types of entities or obligations, preferably through a different credit 
+rating identifier.  The CRA should also disclose how this differentiation functions.   
+3.8 A CRA should be transparent with investors,  rated entities, obligors, originators, 
+underwriters, and arrangers about how the relevant entity or obligation is rated. 
+3.9 Where feasible and appropriate, a CRA should inform the rated entity, or the obligor 
+or arranger of the rated obligation about the  critical information and principal 
+considerations upon which a credit rating will be based prior to disseminating a 
+credit rating that is the result or subject of the credit rating action and afford such 
+rated entity, obligor, or arranger an adequate oppo rtunity to clarify any factual 
+errors, factual omissions, or factual misperceptions that would have a material effect 
+on the credit rating.  The CRA should duly evaluate any response from such rated 
+entity, obligor, or arranger.  Where in particular circum stances the CRA has not 
+informed such rated entity, obligor, or arranger prior to disseminating a credit rating 
+action, the CRA should inform such rated entity, obligor, or arranger as soon as 
+practical thereafter and, generally, should explain why the CRA  did not inform such 
+rated entity, obligor, or arranger prior to disseminating the credit rating action. 
+3.10 When a CRA publicly discloses or distributes to its subscribers (depending on the 
+CRA’s business model) a credit rating that is the result or subj ect of the credit rating 
+action, it should do so as soon as practicable after taking such action. 
+3.11 When a CRA publicly discloses or distributes to its subscribers (depending on the 
+CRA’s business model) a credit rating that is the result or subject of a credit rating 
+action, it should do so on a non-selective basis. 
+3.12 A CRA should disclose with a credit rating that is the result or subject of a credit 
+rating action whether the rated entity, obligor, or originator, or the underwriter or 
+arranger of the rated obligation participated in the credit rating process.  Each credit 
+rating not initiated at the request of the rated entity, obligor, or originator, or the 
+underwriter or arranger of the rated obligation should be identified as such.
+
+A-14 
+3.13 A CRA should clearly indicate the attributes and limitations of each credit rating, and 
+the extent to which the CRA verifies information provided to it by the rated entity, 
+obligor, or originator, or the underwriter or arranger of the ra ted obligation.  For 
+example, if the credit rating involves a type of entity or obligation for which there is 
+limited historical data, the CRA should disclose this fact and how it may limit the 
+credit rating. 
+3.14 A CRA should indicate in the announcement o f a credit rating that is the result or the 
+subject of a credit rating action when the credit rating was last updated or reviewed.  
+The credit rating announcement should also indicate the principal credit rating 
+methodology or methodology version that was used in determining the credit rating 
+and where a description of that credit rating methodology can be found.  Where the 
+credit rating is based on more than one credit rating methodology, or where a review 
+of only the principal credit rating methodology mi ght cause investors and other users 
+of credit ratings to overlook important aspects of the credit rating, the CRA should 
+explain this fact in the credit rating announcement, and indicate where to find a 
+discussion of how the different credit rating methodo logies and other important 
+aspects factored into the credit rating decision. 
+3.15 When rating a structured finance product, a CRA should publicly disclose or 
+distribute to its subscribers (depending on the CRA’s business model) sufficient 
+information about  its loss and cash -flow analysis with the credit rating, so that 
+investors in the product, other users of credit ratings, and/or subscribers can 
+understand the basis for the CRA’s credit rating.  The CRA should also publicly 
+disclose or distribute information about the degree to which it analyzes how sensitive 
+a credit rating of a structured finance product is to changes in the assumptions 
+underlying the applicable credit rating methodology. 
+3.16 When issuing or revising a credit rating, a CRA should explai n in its announcement 
+and/or report the key assumptions and data underlying the credit rating, including 
+financial statement adjustments that deviate materially from those contained in the 
+published financial statements of the relevant rated entity or obligor.  
+3.17 If a CRA discontinues monitoring a credit rating for a rated entity or obligation it 
+should either withdraw the credit rating or disclose such discontinuation to the 
+public or to its subscribers (depending on the CRA’s business model) as soon as  
+practicable.  A publication by the CRA of a credit rating that is no longer being 
+monitored should indicate the date the credit rating was last updated or reviewed, 
+the reason the credit rating is no longer monitored, and the fact that the credit rating 
+is no longer being updated.   
+3.18 To promote transparency and to enable investors and other users of credit ratings to 
+compare the performance of different CRAs, a CRA should disclose sufficient 
+information about the historical transition and default rates  of its credit rating 
+categories with respect to the classes of entities and obligations it rates.  This 
+information should include verifiable, quantifiable historical information, organized 
+over a period of time, and, where possible, standardized in such a way to assist 
+investors and other users of credit ratings in comparing different CRAs.  If the nature 
+of the rated entity or obligation or other circumstances make such historical
+
+A-15 
+transition or default rate s inappropriate, statistically invalid, or other wise likely to 
+mislead investors or other users of credit ratings, the CRA should disclose why this is 
+the case.  
+B. The Treatment of Confidential Information 
+3.19 A CRA should establish, maintain, document, and enforce policies, procedures, and 
+controls to protect confidential and/or material non -public information, including 
+confidential information received from a rated entity, obligor, or originator, or the 
+underwriter or arranger of a rated obligation, and non -public information about a 
+credit rating action (e.g., information about a credit rating action before the credit 
+rating is publicly disclosed or disseminated to subscribers).   
+a. The policies, procedures, and controls should prohibit the CRA and its employees 
+from using or disclosing confidential and/or material non -public information for 
+any purpose unrelated to the CRA’s credit rating activities, including disclosing 
+such information to other employees wher e the disclosure is not necessary in 
+connection with the CRA’s credit rating activities, unless disclosure is required 
+by applicable law or regulation. 
+b. The policies, procedures, and controls should require the CRA and its employees 
+to take reasonable steps  to protect confidential and/or material non -public 
+information from fraud, theft, misuse, or inadvertent disclosure. 
+c. With respect to confidential information received from a rated entity, obligor, 
+originator, underwriter, or arranger, the policies, procedures, and controls 
+should prohibit the CRA and its employees from using or disclosing such 
+information in violation of the terms of any applicable agreement or mutual 
+understanding that the CRA will keep the in formation confidential, unless 
+disclosure is required by applicable law or regulation.   
+d. With respect to a pending  credit rating action, the policies, procedures, and 
+controls should prohibit the CRA and its employees from selectively disclosing 
+information about the pending  credit rating action, except to the rated entity, 
+obligor, arranger, or their designated agents, or as required by applicable law or 
+regulation. 
+3.20 A CRA should establish, maintain, document, and enforce policies, procedures, and 
+controls designed to prevent violations of applicable laws  and regulations governing 
+the treatment and use of confidential and/or material non-public information. 
+3.21 A CRA should establish, maintain, document, and enforce policies, procedures, and 
+controls that prohibit employees that possess confidential and/or material non -public 
+information concerning a trading instrument from engaging in a transaction in the 
+trading instrument or using the information to advise or otherwise advantage another 
+person in transacting in the trading instrument. 
+4.  GOVERNANCE, RISK MANAGEMENT, AND EMPLOYEE TRAINING 
+4.1 A CRA’s board (or similar body) should have ultimate responsibility for ensuring that 
+the CRA establishes, maintains, documents, and enforces a code of conduct t hat gives 
+full effect to the IOSCO Code of Conduct Fundamentals for Credit Rating Agencies.
+
+A-16 
+4.2 A CRA should establish a risk management function made up of one or more senior 
+managers or employees with the appropriate level of experience responsible for 
+identifying, assessing, monitoring, and reporting the risks arising from its activities, 
+including, but not limited to legal risk, reputational risk, operational risk, and 
+strategic risk.  The function should be independent of the internal audit function ( if 
+practicable given the CRA’s size) and make periodic reports to the board (or similar 
+body) and senior management to assist them in assessing the adequacy of the 
+policies, procedures, and controls the CRA establishes, maintains, documents, and 
+enforces to manage risk, including the policies, procedures, and controls specified in 
+the IOSCO Code of Conduct Fundamentals for Credit Rating Agencies. 
+4.3 A CRA should establish, maintain, document, and enforce policies, procedures, and 
+controls requiring employe es to undergo formal ongoing training at reasonably 
+regular time intervals.  The subject matter covered by the training should be relevant 
+to the employee’s responsibilities and should cover, as applicable, the CRA’s code of 
+conduct, the CRA’s credit ratin g methodologies, the laws governing the CRA’s credit 
+rating activities, the CRA’s policies, procedures, and controls for managing conflicts 
+of interest and governing the holding and transacting in trading instruments, and the 
+CRA’s policies and procedures for handling confidential and/or material non -public 
+information.  The policies, procedures, and controls should include measures 
+designed to verify that employees undergo required training. 
+5. DISCLOSURE AND COMMUNICATION WITH MARKET PARTICIPANTS 
+5.1 A CRA’s disclosures, including those specified in the provisions of the IOSCO CRA 
+Code, should be complete, fair, accurate, timely, and understandable to investors 
+and other users of credit ratings.   
+5.2 A CRA should disclose with its code of conduct a description of how the provisions of 
+its code of conduct fully implement the provisions of the IOSCO Statement of 
+Principles Regarding the Activities of Credit Rating Agencies and the IOSCO Code 
+of Conduct Fundamentals for Credit Rating Agencies (collectively, t he “IOSCO 
+provisions”).  If the CRA’s code of conduct deviates from an IOSCO provision, the 
+CRA should identify the relevant IOSCO provision, explain the reason for the 
+deviation, and explain how the deviation nonetheless achieves the objectives 
+contained in the IOSCO provisions.  The CRA should describe how it implements and 
+enforces its code of conduct.  The CRA also should disclose as soon as practicable 
+any changes to its code of conduct or changes to how it is being implemented or 
+enforced. 
+5.3 A CRA should establish and maintain a function within its organization charged with 
+receiving, retaining, and handling complaints from market participants and the 
+public.  The function should establish, maintain, document, and enforce policies, 
+procedures, and c ontrols for receiving, retaining, and handling complaints, 
+including those that are provided on a confidential basis.  The policies, procedures, 
+and controls should specify the circumstances under which a complaint must be 
+reported to senior management and/or the board (or similar body).
+
+A-17 
+5.4 A CRA should  publicly and prominently disclose free of charge on its primary 
+website:  
+a. the CRA’s code of conduct;  
+b. a description of the CRA’s credit rating methodologies;  
+c. information about the CRA’s historic performance data; and  
+d. any other disclosures specified in the provisions of the IOSCO CRA Code  as 
+applicable given the CRA’s business model.

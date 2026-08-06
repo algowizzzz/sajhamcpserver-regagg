@@ -1,0 +1,1 @@
+Summary: # Canada Goose Announces Agreement to Sell Baffin to Royer

@@ -1,0 +1,1 @@
+Summary: # Revised Life Insurance Capital Framework - Standard Approach

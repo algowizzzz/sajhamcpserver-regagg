@@ -1,0 +1,79 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+## The Monitoring Board
+
+* [Monitoring Board Members](?subSection=monitoring_board&subSection1=members)
+* [Monitoring Board Meetings](?subSection=monitoring_board&subSection1=meetings)
+* [Press Releases Relating to the Monitoring Board](?subSection=monitoring_board&subSection1=press_releases)
+* [Press Contacts](?subSection=monitoring_board&subSection1=press_contacts)
+
+## Consultation Reports
+
+* [Governance Review of the IFRS Foundation](?subSection=monitoring_board&subSection1=consultations&subSection2=governance_review_of_the_ifrs_foundation)
+
+## Related Documents
+
+* [Monitoring Board Charter May 2023](/about/monitoring_board/pdf/Charter-of-the-IFRSF-Monitoring-Board-2023.pdf)
+* [Memorandum of Understanding between the Monitoring Board and the IFRS Foundation Trustees](/about/monitoring_board/pdf/Press20230531-1-Attachment-1.pdf)
+* [Constitution of the IFRS Foundation](https://www.ifrs.org/content/dam/ifrs/about-us/legal-and-governance/constitution-docs/ifrs-foundation-constitution-2021.pdf)
+* [IFRS Foundation Monitoring Board Work Plan](?subSection=monitoring_board&subSection1=ifrs_foundation_monitoring_board_work_plan)
+* [Report of the Chair of the Monitoring Board](?subSection=monitoring_board&subSection1=report_of_the_chair_of_the_monitoring_board)
+* [Letters to the Chair of the Trustees](?subSection=monitoring_board&subSection1=letters_to_the_chair_of_the_trustees)
+
+## Progress on G20 Recommendations
+
+* *View an exchange of letters reporting progress on G20 recommendations:*
+* [Letter from the IFRS Foundation Chairman to the Monitoring Board detailing the IASB's response to the G20](/about/monitoring_board/pdf/GerritZalmG20followup.pdf)
+    
+  [9 April 2009]
+* [Letter from Chairman of the IFRS Foundation Trustees, Gerrit Zalm, to the G20 reporting progress on G20 recommendations](/about/monitoring_board/pdf/Gerritg2o.pdf)
+    
+  [23 January 2009]
+* [Letter from G20 to IASB Chairman Sir David Tweedie](/about/monitoring_board/pdf/G20Tweedie.pdf)
+    
+  [12 January 2009]
+
+# Monitoring Board of the International Financial Reporting Standards Foundation
+
+---
+
+At the meeting of the Trustees of the International Financial Reporting Standards Foundation (IFRS) in New Delhi, India, on 15 and 16 January 2009 the decision was made to enhance the organisation’s public accountability by establishing a link to a Monitoring Board of public authorities.
+
+The members of the Monitoring Board include, at this moment, representatives of the Financial Services Agency of Japan (JFSA) (MB Chair), Board and the Growth and Emerging Markets Committee of the International Organization of Securities Commissions (IOSCO), the European Commission (EC), US Securities and Exchange Commission (SEC), Brazilian Securities Commission (CVM), Financial Services Commission of Korea (FSC), Ministry of Finance of the People’s Republic of China (China MOF) and the Financial Conduct Authority of the United Kingdom (FCA).
+
+The Basel Committee on Banking Supervision (BCBS) is an observer.
+
+Through the Monitoring Board, capital markets authorities that allow or require the use of IFRS in their jurisdictions will be able to more effectively carry out their mandates regarding investor protection, market integrity, and capital formation.
+
+The Monitoring Board’s main responsibilities are to ensure that the Trustees continue to discharge their duties as defined by the IFRS Foundation Constitution, as well as approving the appointment or reappointment of Trustees. It is envisaged that the Monitoring Board will meet the Trustees at least once a year, or more often if appropriate.
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

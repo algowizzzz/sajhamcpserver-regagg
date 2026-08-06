@@ -1,0 +1,24 @@
+{
+  "doc_id": "56a523afce55df93",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Le 20 mars 2023 \u2013 Avis de CANAFE : Op\u00e9rations financi\u00e8res li\u00e9es aux pays d\u00e9sign\u00e9s par le Groupe d\u2019action financi\u00e8re (GAFI)",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/notices-avis/avs/2023-03-20-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6fe546c0756e40dfa53887053e019552fdd064d6c4e98ae53d24fca9a04f2417",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/56a523afce55df93",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

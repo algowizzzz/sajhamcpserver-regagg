@@ -1,0 +1,184 @@
+# Securities Holdings Return
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Securities Holdings Return
+
+Last updated
+
+August 2025
+
+Related documents
+
+* [Collateral and Pledging Report (H4)](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/collateral-pledging-report-h4)
+
+## Return files
+
+[Reporting template (XLSX, 24.17 KB)](/sites/default/files/documents/shr-tmp-frm-2025-en.xlsx "shr-tmp-frm-2025-en.xlsx") [Reporting examples (XLSX, 18.17 KB)](/sites/default/files/documents/shr-ex-2025-en.xlsx "shr-ex-2025-en.xlsx") [File layout example (XLSX, 19.33 KB)](/sites/default/files/documents/shr-file-layout-exmaple-03-25-en.xlsx "shr-file-layout-exmaple-03-25-en.xlsx") [Memo items for reporting of aggregate values (XLSX, 13.54 KB)](/sites/default/files/documents/shr-memo-2025-en.xlsx "shr-memo-2025-en.xlsx") [H4 highlighted cells for securities data collection (XLSX, 348.37 KB)](/sites/default/files/documents/shr-h4-securities-data-collection-03-25-en.xlsx "shr-h4-securities-data-collection-03-25-en.xlsx")[Detailed validation rules](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/securities-holdings-return-detailed-validation-rules "Securities Holdings Return - Detailed validation rules")[Change control log](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/change-control-log-securities-holdings-return "Change Control Log (Securities Holdings Return)")
+
+## Purpose
+
+This return provides the Bank of Canada with data on securities holdings and related collateral activity. This return helps support the following broad analytical and research priorities of the Bank of Canada.
+
+### A. Well-functioning financial markets (market structure, market liquidity)
+
+Detailed security inventories enrich our understanding of demand for safe assets and collateral movements within banks, with counterparties, and across activities. More specifically, how demand for specific collateral can impact pricing (trade “on special”), premiums between on-the-run vs off-the-run securities, and general substitutability of financial assets. These insights help inform the Bank of Canada’s design, terms, and conditions of its market operations (e.g. securities lending, repurchase agreements, term liquidity facilities etc.)
+
+### B. Financial stability assessment
+
+This return supports the role of the Bank of Canada in fostering a stable and efficient financial system. It provides a more nuanced view of banks’ liquidity, credit and market risk exposures and it helps systemic risk assessment by highlighting where stress could propagate across asset classes, currencies, and jurisdictions. It also gives insights on dealers’ ability and willingness to provide liquidity under different market conditions.
+
+### C. Domestic debt distribution
+
+As the fiscal agent of the federal government, the Bank of Canada provides advice related to the federal government debt management strategy and its debt distribution framework. Granular security holdings data would allow research into the optimal design, terms, and conditions of government debt auctions. It also allows policy makers to be aware of trends and current market practices that may impact how its debt could be distributed in the future.
+
+## Statutory
+
+Section 24 of the Bank of Canada Act, sections 628 and 600 of the Bank Act.
+
+## Application
+
+This return applies to all institutions that file the H4.
+
+The portion of this return that refers to H4 part B ‘collateral pledged by counterparty’ is only required from institutions that file H4 part B.
+
+## Frequency
+
+This return is to be completed at the business day frequency for DSIBs and Laurentian Bank with smaller banks only required to report the last day of the month. Business days are defined to include all weekdays except federal and provincial statutory holidays.
+
+## Reporting dates
+
+All of the returns for a calendar month are to be completed and submitted within 35 days of the last day of that month.
+
+Test data submissions will begin September 5th 2025 for the reference month of July 2025. Test data submissions will only include the last day of the reference month and will continue each month until official reporting starts.
+
+Official reporting will begin March 7th 2026 for the reference month of January 2026, at which point banks with a daily reporting requirement are to begin reporting for every business day of the reference month.
+
+## Contact agency
+
+Bank of Canada
+
+## General instructions
+
+This return is to provide a detailed breakdown of the securities holdings and collateral activities reported on the H4. Select cells on the H4 are to be broken down at the security level and reported by ISIN or CUSIP. The result is that this return is structured as a list of securities as reported in different cells in the H4. The reporting template indicates the fields to be reported for each security, other sections of this document include references to reporting examples, validation rules and date structure.
+
+* The scope of the return is identical to that of the H4, and as is the case with the H4 internal transactions, client holdings and insurance subsidiary positions are not reported.
+* Netting, currency conversions, and definitions are all to be the same as the H4.
+* The select H4 cells for detailed reporting on this return are identified with yellow highlighting in the attached file titled: ‘H4 Highlighted Cells for Securities Data Collection’.
+* There is a reporting materiality threshold that for H4 cells with values over $5 million, reporting must cover 98% of the cells balance.
+* It is understood that there will be cases of missing values amongst entries for: legal names, ISIN’s, CUSIP’s and LEI’s. However, these are expected to be reported in a fulsome manner. In general our expectation is that 95%+ of securities will have either an ISIN or CUSIP, 99%+ of securities will have a legal name, and 50%+ of securities will have a LEI.
+* All amounts are to be expressed in thousands of Canadian dollar equivalents.
+
+### Scope and Reporting Accommodations
+
+Reporting accommodations may be requested from the Bank of Canada if an institution finds an aspect of this return exceptionally burdensome. In particular, institutions experiencing difficulties with the Legal Entity Identifier (LEI) reporting are invited to reach out to the Bank to request a delayed implementation for that field.
+
+### Reporting Examples
+
+The attached spread sheet contains a collection of reporting examples for common transactions.
+
+### Reporting Rules
+
+The reporting template for the securities holding return includes a listing of exact validation rules. The majority of the validation rules are to ensure general data integrity. With respect to validation rules vis-à-vis other returns the only requirements is that reporting is consistent with the H4
+
+### Data Formatting
+
+* Initially the data will be submitted in CSV format, then transition to a more machine-readable format (previously XML) at a later time (e.g. 2026-2027). There will be a determination if this format is to be a JSON or XML.
+* Attached in an example of a file layout.
+* In situations where there is no value to report in a particular cell, the cell is to be left empty and not populated with a zero etc.
+
+### Definitions of Reporting Template Fields
+
+The reporting template fields listed below are for the reporting of individual securities positions.
+
+Netting of long and short positions is to be consistent with the H4. Much of the security reporting on the H4 is gross before netting; however, there are several exceptions to this where some degree of netting is applied.
+
+Complex situations will often need to be reported using multiple entries. For instance if a particular security is both held by a parent bank and the broker dealer subsidiary, this is to be reported using two entries. Similarly, reporting is to be split into multiple entries, if holdings of a security are partially used to back a total return swap, or partially used in a collateral transaction vis-à-vis a prime broker client.
+
+ISIN
+:   This is the ISIN of the security.
+
+CUSIP
+:   This is the CUSIP of the security.
+
+Market Value (Long and short positions reported as per the H4)
+:   * Total market value of units held in thousands of Canadian dollar equivalents, with the same conventions on +/− sign as the H4. The H4 follows a sign convention that collateral in is positive and collateral out is negative.
+    * The sum of market values reported for a particular H4 cell must reconcile +/− 2% to the cell value on the H4 report, unless the cell value is under 5 million.
+
+Legal name of entity issuing security
+:   This is the company's legal name. It is the name used in legal proceedings, tax filings, etc.
+
+LEI of Security Issuer
+:   This is the Legal Entity Identifier (LEI) of the security issuer.
+
+Security classification if no ISIN or CUSIP
+:   If the security has no ISIN or CUSIP report the number in Table A corresponding to its classification, otherwise the field is to be left blank. Table A can be found on the reporting template. There is an expectation that the vast majority of securities will have an ISIN or CUSIP and that this field will only be required in rare circumstances.
+
+Indicator if security is held by a CIRO integrated broker dealer subsidiary
+:   * If the security is held by the filers CIRO broker dealer subsidiary, then report the corresponding number from Table B, otherwise the field is to be left blank. Table B can be found on the reporting template.
+    * Reporting is only required for CIRO broker dealer subsidiaries listed in Table B. Positions with broker dealer subsidiaries not listed in Table B is to follow the reporting methodology of the H4.
+    * Please note entries for a CIRO broker dealer may only be used by that broker dealer’s parent bank, (e.g. only BMO may use code 1 for BMO Nesbitt Burns, only RBC may use code 6 for RBC Dominion Securities, etc.)
+
+Indicator if collateral position is vis-à-vis a prime broker client
+:   * If the collateral position is vis-à-vis a prime broker client report "1", otherwise the field is to be left blank.
+    * This indicator is to be applied to all collateral in and out from prime broker clients, and includes: margin loans, repo, reverse repo, sec borrow, sec lend, collateral swaps, derivative collateral, securities loans for short sales, and other collateral exchanges.
+    * The indicator applies to all collateral in and out from all prime broker clients, not just prime broker clients at the CIRO broker dealer subsidiary.
+
+H4 cell or memo item number
+:   This field indicates which H4 cell or memo item number a security is being reported under.
+
+### Memo Items for Reporting of Aggregate Values
+
+As part of the return there is an attached template of memo items for the reporting of aggregate values. These memo items for reporting of aggregate values, are to be submitted in accordance with the reporting frequency. Daily frequency reporters are to complete the memo items at the daily frequency, monthly frequency reporters are to complete the memo items at the monthly frequency.
+
+#### Memos Items 1 & 2: Margin loans to prime broker clients
+
+Reported within the H4
+:   This is defined as reporting through the detailed portion of the H4, and not reporting through adjustment cells (columns c48, c49, c50, c51, and rows a102, a103, a104, a105).
+
+Total cash amount of margin loans to prime broker clients
+:   This is an aggregate value for the total outstanding cash amount of all margin loans extended to all prime broker clients.
+
+Total market value of securities reference portfolios
+:   This is the total market value of securities portfolios of prime broker clients that are available for supporting margin loans.
+
+#### Memo Item 3: Delta 1 Equity Hedges
+
+3. Total market value of H4 equity securities (equals 3(a)+3(b))
+:   This total value is to sum to 3(a) and 3(b).
+
+3(a) Total market value (previously notional - see change log) of delta 1 equity hedging portfolios (includes TRS and index futures positions but not options positions)\*\*
+:   This is a total market value (previously notional - see change log) of delta 1 equity hedging portfolios with the context that it is to include delta 1 hedging portfolios of Total Return Swaps (TRS), index futures and any similar products but not include delta 1 hedging portfolios of options positions. Additionally, reporting institutions may aggregate and net the market value (previously notional - see change log) of all delta 1 equity hedging assuming perfect correlation with underlying equity indexes.
+
+3(b) Market value of equity securities after delta 1 portfolio hedges
+:   This is the value of equity securities that are not associated with delta 1 hedges as defined above.
+
+### Memo Items for Reporting of Supplemental Securities
+
+The Bank of Canada may request institutions to include specific memo items when submitting their return. This would be done in cases where there is an important materiality gap with what is reported on the H4. The mechanism for including a memo item in the context of this return is that the Bank of Canada would request for the reporting of a supplemental list of securities. A memo item number would then be provided for this supplemental list of securities, and the corresponding code (e.g. memo1) would be treated in lieu of an H4 cell reference number in the data submission. An anticipated set of possible memo items is identified below, additional ones may be added in the future.
+
+* Memo Item 1 (code memo1): Securities collateral in not reported in H4 – from margin loans to prime broker clients
+* Memo Item 2 (code memo2): Securities collateral in not reported in H4 – from reverse repo with prime broker clients
+* Memo Item 3 (code memo3): Securities collateral in not reported in H4 – from sec borrow with prime broker clients
+* Memo Item 4 (code memo4): Securities collateral in not reported in H4 – from collateral swap with prime broker clients
+* Memo Item 5 (code memo5): Securities collateral in not reported in H4 – from derivative collateral with prime broker clients
+* Memo Item 6 (code memo6): Securities collateral out not reported in H4 – from repo with prime broker clients
+* Memo Item 7 (code memo7): Securities collateral out not reported in H4 – from sec lend with prime broker clients
+* Memo Item 8 (code memo8): Securities collateral out not reported in H4 – from collateral swap with prime broker clients
+* Memo Item 9 (code memo9): Securities collateral out not reported in H4 – from derivative collateral with prime broker clients
+* Memo Item 10 (code memo10): Securities collateral out not reported in H4 – from securities sold short with prime broker clients
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-09-18

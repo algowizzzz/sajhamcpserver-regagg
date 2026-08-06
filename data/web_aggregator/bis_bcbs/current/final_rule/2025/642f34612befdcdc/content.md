@@ -1,0 +1,73 @@
+[![The Bank for International Settlements](/img/bis-logo-short.gif)](/)
+
+# Supervisory newsletter on supervisory issues
+
+### This version
+
+BCBS
+ | 
+
+Newsletters
+
+ | 
+
+15 December 2025
+
+ | 
+
+Status: 
+Current
+
+Topics: 
+
+[Supervisory cooperation](/bcbs/publications.htm?bcbspubls_topics=Supervisory cooperation)
+
+This newsletter provides information on the Committee's work on strengthening supervisory effectiveness after the 2023 banking turmoil by establishing a common understanding of effective supervisory practices. The Committee believes the information may be useful for supervisors in their day-to-day activities. **This document is for informational purposes only and does not constitute new supervisory guidance or expectations.**
+
+* Since the banking turmoil of 2023, the Committee has worked to strengthen supervisory effectiveness in relation to material risks that could result in financial losses, impacting the safety and soundness of financial institutions.
+* This work covers the supervision of liquidity risk and interest rate risk in the banking book (IRRBB), banks' business models, and the exercise of effective supervisory judgment.
+* The Committee has facilitated information sharing on a range of supervisory practices to support supervisors toward supervising these risks in the banks that they oversee, including tailoring their requirements to align with each financial institution's size, complexity and risk profile.
+
+The Committee has been actively facilitating roundtable discussions and workshops to support supervisors in their day-to-day work in relation to the material risks that impact the safety and soundness of financial institutions. Areas of focus included: (i) interest rate risk and liquidity risk, along with various forms of concentration risk; (ii) the build-up and interrelated nature of various individual risks and how they can compound one another; (iii) ensuring a bank's risk management aligns with its business model; (iv) effectiveness of senior management and board oversight; and (v) banks' responsiveness to supervisory feedback and recommendations.
+
+Supporting supervisory decision-making and effectiveness will contribute to global financial stability.  This can be advanced by fostering a better understanding of diverse supervisory approaches and practices worldwide, benefiting both supervisors and banks. The Committee has developed practical supervisory tools and published a working paper on supervisory effectiveness to support supervisors in their day-to-day work that supplement but do not change or replace existing Basel standards or guidelines.
+
+### Supervision of liquidity risk
+
+The *[Principles for Sound Liquidity Risk Management and Supervision](/publ/bcbs144.htm)* provide a strong basis for the supervision of liquidity risk taking into consideration the size, complexity and risk profile of a bank.  Information sharing on supervisory approaches covered supervisory practices relating to liquidity monitoring indicators in areas such as contractual maturity mismatch, concentration of funding, monetisation of assets, intraday liquidity, funding costs, and liquidity risk in crises, as well as current supervisory practices related to banks' contingency funding plans.
+
+### Supervision of IRRBB
+
+The [IRRBB standards](/basel_framework/chapter/SRP/31.htm) lay out the Committee's expectations for banks' identification, measurement, monitoring and control of IRRBB, taking into account the size, complexity and risk profile of the bank, as well as its supervision. Information sharing include the supervision of banks' modelling assumptions, such as general considerations, the adequacy of non-behavioural and behavioural assumptions, scenario selection, the treatment of non-maturity deposits, and the supervision of embedded gains and losses.
+
+### Business model analysis
+
+The Committee's work has focused on sharing information on existing supervisory approaches to a variety of banks' business models ranging from universal banks to those with more concentrated activities. It also considers topics such as entity-level versus activity-based supervision.
+
+### Effective supervisory judgment
+
+Effective supervisory judgment depends on supervisors' ability and willingness to actively identify weaknesses in banks and to take and enforce prompt supervisory actions.  The Committee's work has focused on sharing information on how supervisors approach the application of supervisory judgment in day-to-day supervision, as well as broader observations on effectiveness related to the organisation of the broader supervisory authority. Additional focus areas for detailed information sharing include the powers and tools that supervisors have at their disposal, the role of supervisory risk appetite, and the allocation of supervisory resources based on the size and complexity of a bank. The Committee published a working paper on *[Lessons on supervisory effectiveness – a literature review](/bcbs/publ/wp45.htm)* in July that provides insights from academic and policy work on supervisory effectiveness.
+
+[Top](#0)
+
+* Share this page
+
+Stay connected
+
+* Follow us
+
+* Sign up to receive email alerts
+
+* About BIS
+* [Sitemap](/sitemap/index.htm)
+* [FAQ](/about/faq.htm)
+* [Contact](/about/contact.htm)
+* [Careers](/careers/index.htm)
+* [Translations](/translations/index.htm)
+
+* Legal information
+* [Terms and conditions](/terms_conditions.htm)
+* [Copyright and permissions](/terms_conditions.htm#Copyright_and_Permissions)
+* [Privacy notice](/privacy.htm)
+* [Cookies notice](/cookies.htm)
+* [Email scam warning](/about/warning0405.htm)

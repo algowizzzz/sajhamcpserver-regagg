@@ -1,0 +1,25 @@
+{
+  "doc_id": "2f1f76cde90a511b",
+  "regulator_id": "nikkei_asia",
+  "doc_type": "news_story",
+  "title": "Yen stuck at 157 as markets weigh limits of US-Japan intervention",
+  "language": "en",
+  "source_url": "https://asia.nikkei.com/business/markets/currencies/yen-stuck-at-157-as-markets-weigh-limits-of-us-japan-intervention",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f4dc9c0e064918416c242709c5479bd34ba650961e156a6c904c345d8468b8ca",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nikkei_asia_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nikkei_asia/current/news_story/2026/2f1f76cde90a511b",
+  "tags": [
+    "japan"
+  ],
+  "final_url": "https://asia.nikkei.com/business/markets/currencies/yen-stuck-at-157-as-markets-weigh-limits-of-us-japan-intervention",
+  "fetch_method": "feed_summary"
+}

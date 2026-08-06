@@ -1,0 +1,25 @@
+{
+  "doc_id": "09952c920b7963c6",
+  "regulator_id": "cnbc",
+  "doc_type": "news_story",
+  "title": "Kalshi strikes partnership with compliance tech firm to help companies police insider trading",
+  "language": "en",
+  "source_url": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:02ce8a9a8f827665d498a681a37a6de4b72a724b5ab5db8c2190b34077ff1ce6",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_cnbc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cnbc/current/news_story/2026/09952c920b7963c6",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html",
+  "fetch_method": "feed_summary"
+}

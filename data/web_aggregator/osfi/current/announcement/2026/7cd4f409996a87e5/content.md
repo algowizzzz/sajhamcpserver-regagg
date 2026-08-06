@@ -1,0 +1,22 @@
+# Priority 5: Critical functions
+
+## Intended outcome
+
+We respond to uncertainty and emerging risks to ensure federally regulated financial institutions are in sound financial condition and federally regulated pension plans are meeting minimum funding and other requirements, and we help to ensure that social security programs and public sector pension and insurance arrangements remain sound and sustainable for Canadians.
+
+![](/sites/default/files/images/pr2-on.png)
+
+## Why this is a priority
+
+When financial institutions, federally regulated pension plans, or the financial system faces acute stress, we must be ready to respond quickly and effectively. We will allocate resources to areas that have the greatest impact or represent the highest risk, and identify and address risks and vulnerabilities. Our work in this area will directly contribute to maintaining public confidence in the financial sector.
+
+## Goals for our critical functions priority
+
+* We carry out effective supervisory actions on financial institutions and pensions plans, while leveraging effective tools in response to an evolving risk environment and trends.
+* We provide timely legislative and approvals advice as well as effective regulatory guidance and response to disclose and mitigate current and emerging risk.
+* The Office of the Chief Actuary provides high-quality actuarial services to the Government of Canada.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-04-09

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13182",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Joint Request for Comment on Further Implementation of Portfolio Margining and Cross-Margining of Securities and Derivatives",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/30/2026-13182/joint-request-for-comment-on-further-implementation-of-portfolio-margining-and-cross-margining-of",
+  "reference_number": "2026-13182",
+  "published_date": "2026-06-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e8242af356ff184424e131e8d0ce00c28b2f00c82eccecdbbb8c272acbe44e2d",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13182",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

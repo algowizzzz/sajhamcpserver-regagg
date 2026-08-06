@@ -1,0 +1,24 @@
+{
+  "doc_id": "17530fcccdaf5ab2",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Check Cashing Worker Convicted of Money Laundering | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/check-cashing-worker-convicted-money-laundering",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:29cc9184bc153110ab0ea088df0b3e5206441bce54d372435a985b8283bc8d10",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/17530fcccdaf5ab2",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

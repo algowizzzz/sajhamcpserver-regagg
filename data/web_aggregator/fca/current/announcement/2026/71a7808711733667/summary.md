@@ -1,0 +1,1 @@
+Summary: We report our performance for 2025/26 against 50 operating service metrics. These show how we perform over time in key operational areas. This includes supporting firms through authorisation processes and responding to consumer queries through our Supervision Hub.

@@ -1,0 +1,1 @@
+Summary: The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA - ESAs) published today a report on the cross-border supervision of retail financial services. In this report, the ESAs identified the main issues that national competent authorities (NCAs) face when

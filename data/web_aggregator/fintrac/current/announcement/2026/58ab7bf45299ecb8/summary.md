@@ -1,0 +1,1 @@
+Summary: # 2024–25 annual report on the administration of the Access to Information Act

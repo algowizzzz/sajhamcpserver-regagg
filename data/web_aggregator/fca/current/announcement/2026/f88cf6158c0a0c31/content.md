@@ -1,0 +1,68 @@
+The FCA and Bank of England (Bank) have appointed members to their Transaction and Post-trade Reporting Harmonisation Taskforce.
+
+The taskforce will inform our long-term approach to harmonising transaction and post-trade reporting requirements across UK Markets in Financial Instruments Regulation (UK MiFIR), UK European Market Infrastructure Regulation (UK EMIR) and UK Securities Financing Transactions Regulation (UK SFTR).
+
+The taskforce comprises 3 separate working groups: a main Policy working group, supported by a Strategy working group and an Architecture working group. The objectives of the working groups were set out in the [terms of reference](https://www.fca.org.uk/publication/corporate/terms-reference-transaction-post-trade-reporting-harmonsiation-taskforce.pdf).
+
+The Policy working group is chaired by Helen Packard (head of market oversight data & intelligence at FCA) and Julia Giese (head of financial markets infrastructure analytics at the Bank). The members of the Policy working group are:
+
+* Giulia Pecce (head of secondary capital markets & wholesale investor protection at AFME)
+* Adam Jacobs-Dean (managing director, global head of markets, governance and innovation at AIMA)
+* Andy Leonard (regulatory reporting lead SME at Barclays Bank PLC)
+* Hussain Abdullah (director, data & regulatory operations at Citigroup)
+* Karen Stretch (partner at Dechert LLP)
+* Emma Kalliomaki (managing director at ANNA & DSB)
+* Paul Sedgwick (head of DDRL at DTCC)
+* John Graham (senior director of regulation at Futures Industry Association)
+* Greg Stevens (reporting operations director at ICE Futures Europe)
+* Andrew Bayley (senior director, regulatory reporting transformation at ISDA)
+* Tony Holland (director of market practice & regulatory reporting at ISLA)
+* Stuart Cosgrave (operations director at J.P. Morgan Chase)
+* Tim Hartley (global head of SME team & director, EMIR reporting at Kaizen Reporting Ltd)
+* Zach Johnson (director at Kroll)
+* Mark Burnal (managing director, head of fund regulatory reporting and infrastructure at Man Group)
+* Ayo Fashina (executive director, shared services compliance at Morgan Stanley)
+* Rav Saidha (director at Retail Derivative Forum)
+* Will Williams (director, regulatory services at RBC Capital Markets)
+* Rajan Mawkin (senior manager, compliance advisory, credit & equities at TP ICAP Group)
+* James Southwick (trade & transaction reporting senior specialist at Vanguard Asset Management Ltd)
+* Richard Young (industry affairs, regulation and symbology strategist at Bloomberg LP)
+
+The Strategy working group is chaired by Dominic Holland (director, enforcement & market oversight and wholesale sell side at FCA) and Nicholas Butt (head of market based finance at the Bank). The members of the Strategy working group are:
+
+* Adam Conn (director, head of trading at Baillie Gifford Overseas Ltd)
+* Alison Vickers (global head of trade and transaction reporting at BlackRock)
+* Michelle Bedwin (group chief compliance officer at Capula Investment Management)
+* Tanuja Sharma (chief compliance officer, EMEA at Citadel & Citadel Securities)
+* Dawd Haque (market initiatives, regulatory transformation and strategy at Deutsche Bank)
+* Mike Hsu (advisor, speaker, former acting comptroller of the currency at Independent)
+* Luke Taylor (managing director, global banking and markets head of regulatory reporting at Goldman Sachs International)
+* Suzanne Calcagno (global head of regulatory response and oversight, MSS operations at HSBC Bank Plc)
+* Jonathan Armitage (head of regulatory reporting at LCH)
+* Susan Heinrich (EMEA head of non-financial regulatory reporting at Macquarie Group Ltd)
+* Gary Chia-Hsing Li (head of regulatory affairs, EMEA & APAC at MarketAxess)
+* Sana Houari (head of UK compliance, technology and operations at Societe Generale)
+* Dan Chambers (head of regulatory operations at Standard Chartered)
+* Uwe Hillnhütter (regulatory affairs at Tradeweb Europe)
+* Karen Miles (head of non-core legacy regulatory services at UBS)
+
+The Architecture working group is chaired by Richard Cutress (manager, data engineering & technology at FCA), Khalid Ledgister (manager, regulatory, business, enterprise & technical architecture team at FCA) and John Aveson (senior data scientist, financial market infrastructure data team at Bank). The members of the Architecture working group are:
+
+* Andy Hughes (head of technical services at Derivatives Service Bureau)
+* Mihir Trivedi (head of global regulatory change at Deutsche Bank)
+* Alexander McDonald (CEO at EVIA)
+* Eric Odotei (group head of regulatory reporting at Finalto Group)
+* Stephen Mogie (director, business intelligence & regulatory reporting at ICE Clear Europe)
+* Zeynep Shields (global regulatory reporting product owner at J.P. Morgan Asset Management)
+* Michelle Zak (founder & CEO at Qomply)
+* Christopher Hall (head of operations, technology AI strategy at Morgan Stanley)
+* Miguel Munoz Royo (domain architect at SIX Group)
+* Ashish Karandikar (director, regulatory change management at CIBC Capital Markets)
+* Sumeet Agarwal (global lead of trade and transaction reporting technology at Citadel Securities)
+* Pierre Khemdoudi (CEO & co-founder at Gentek AI)
+* Catherine Ahnoff (product director, LSEG regulatory reporting at London Stock Exchange Group)
+* Leo Labeis (founder & CEO at REGnosys)
+
+The working groups are supported by the Transaction & Position Reporting Team at the FCA and the Financial Market Infrastructure Data Team at the Bank.
+
+Members have been appointed in a personal capacity. Some of the firms listed above are authorised and/or regulated by the Bank, the Prudential Regulation Authority (PRA) and/or the FCA. Please see the [Financial Services Register](https://www.fca.org.uk/firms/financial-services-register) for further details.

@@ -1,0 +1,239 @@
+# Net Stable Funding Ratio Disclosure Requirements – Guideline (2019)
+
+Information
+
+Publication type
+
+Guideline
+
+Category
+
+Accounting and Disclosure
+
+Date
+
+April 30, 2019
+
+Sector
+
+Banks
+
+Effective Date
+
+January 2021
+
+[Generate PDF](/en/print/pdf/node/633)
+
+Table of contents
+
+Accompanying documents
+
+* [Net Stable Funding Ratio Disclosure Requirements – Guideline impact analysis statement (2019)](/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-guideline-impact-analysis-statement-2019)
+* [Net Stable Funding Ratio Disclosure Requirements – Letter (2019)](/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-letter-2019)
+
+In March 2017, the Basel Committee on Banking Supervision (BCBS) issued its final standard on information that internationally active banks must publically disclose on the Net Stable Funding Ratio (NSFR), entitled *Pillar 3 Disclosure Requirements – Consolidated and Enhanced Framework*.[Footnote 1](#fnb1) The requirements include a NSFR disclosure template and related qualitative disclosures to help users understand the NSFR data.
+
+This guideline establishes OSFI's expectations on NSFR public disclosure requirements for **Domestic Systemically Important Banks** (D-SIBs).[Footnote 2](#fnb2)
+
+## 1. Scope of application
+
+The NSFR disclosure requirements apply to Canadian D-SIBs.[Footnote 3](#fnb3)
+
+## 2. Implementation date and frequency of reporting
+
+The NSFR disclosure requirements commence with the quarterly reporting for the period ending January 31, 2021.
+
+As liquidity positions can be subject to rapid change, disclosures are most relevant and useful if published frequently. As such, D-SIBs should provide NSFR disclosures quarterly and at the same time as the publication of the financial statements.
+
+## 3. Location of disclosures
+
+Disclosures should be easily located, such as in a standalone document, or may be appended to or be a part of the financial reports. D-SIBs may choose where to provide the disclosures in their financial reports (e.g. Management Discussion and Analysis, financial statement notes, supplemental information or Pillar 3 report). Institutions should publish the NSFR and LCR disclosure templates in the same location.
+
+D-SIBs must also make available on their websites an archive of disclosures for a minimum of 12 months; where investor information is available for longer periods, the same archive period should also be used for disclosures.
+
+## 4. Disclosure requirements
+
+D-SIBs should provide the following disclosures:
+
+1. **NSFR disclosure template:** The template captures key quantitative information about the NSFR and is calculated on a regulatory consolidated basis and presented in Canadian dollars. D-SIBs are required to disclose their NSFR data based on quarter-end positions. Refer to the Appendix for the NSFR disclosure template and general instructions on the completion of the template.
+2. **NSFR qualitative disclosures:** D-SIBs should provide sufficient qualitative disclosures on the NSFR to facilitate understanding of the results and data disclosed. This information should be provided on a quarterly basis to supplement the NSFR disclosure template. Specifically, where significant to the NSFR, D-SIBs could discuss:
+   1. the drivers of their NSFR results and the reasons for intra-period changes as well as the changes over time (e.g. changes in strategies, funding structure, circumstances); and
+   2. the composition of interdependent assets and liabilities and to what extent these transactions are interrelated.
+
+## Appendix
+
+NSFR disclosure template[Footnote 4](#fnb4)
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| (In Canadian Dollars) | | a | b | c | d | e |
+| UNWEIGHTED VALUE BY RESIDUAL MATURITY | | | | WEIGHTED VALUE |
+| NO MATURITY[Footnote 5](#fnb5) | < 6 MONTHS | 6 MONTHS to < 1 YEAR | ≥ 1 YEAR |
+| Available Stable Funding (ASF) Item | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Capital: |  |  |  |  |  |
+| 2 | * Regulatory capital |  |  |  |  |  |
+| 3 | * Other capital instruments |  |  |  |  |  |
+| 4 | Retail deposits and deposits from small business customers: |  |  |  |  |  |
+| 5 | * Stable deposits |  |  |  |  |  |
+| 6 | * Less stable deposits |  |  |  |  |  |
+| 7 | Wholesale funding: |  |  |  |  |  |
+| 8 | * Operational deposits |  |  |  |  |  |
+| 9 | * Other wholesale funding |  |  |  |  |  |
+| 10 | Liabilities with matching interdependent assets |  |  |  |  |  |
+| 11 | Other liabilities: |  |  | | |  |
+| 12 | * NSFR derivative liabilities |  |  | | |  |
+| 13 | * All other liabilities and equity not included in the above categories |  |  |  |  |  |
+| **14** | **Total ASF** |  |  |  |  |  |
+| Required Stable Funding (RSF) Item | | | | | | |
+| 15 | Total NSFR high-quality liquid assets (HQLA) |  |  |  |  |  |
+| 16 | Deposits held at other financial institutions for operational purposes |  |  |  |  |  |
+| 17 | Performing loans and securities: |  |  |  |  |  |
+| 18 | * Performing loans to financial institutions secured by Level 1 HQLA |  |  |  |  |  |
+| 19 | * Performing loans to financial institutions secured by non-Level 1 HQLA and unsecured performing loans to financial institutions |  |  |  |  |  |
+| 20 | * Performing loans to non-financial corporate clients, loans to retail and small business customers, and loans to sovereigns, central banks and PSEs, of which: |  |  |  |  |  |
+| 21 | * With a risk weight of less than or equal to 35% under the Basel II standardised approach for credit risk |  |  |  |  |  |
+| 22 | * Performing residential mortgages, of which: |  |  |  |  |  |
+| 23 | * With a risk weight of less than or equal to 35% under the Basel II standardised approach for credit risk |  |  |  |  |  |
+| 24 | * Securities that are not in default and do not qualify as HQLA, including exchange-traded equities |  |  |  |  |  |
+| 25 | Assets with matching interdependent liabilities |  |  |  |  |  |
+| 26 | Other assets: |  |  | | |  |
+| 27 | * Physical traded commodities, including gold |  |  |  |  |  |
+| 28 | * Assets posted as initial margin for derivative contracts and contributions to default funds of CCPs |  |  | | |  |
+| 29 | * NSFR derivative assets |  |  | | |  |
+| 30 | * NSFR derivative liabilities before deduction of variation margin posted |  |  | | |  |
+| 31 | * All other assets not included in the above categories |  |  |  |  |  |
+| 32 | Off-balance sheet items |  |  |  |  |  |
+| **33** | **Total RSF** |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **34** | **Net Stable Funding Ratio (%)** |  |  |  |  |  |
+
+### General instructions for completion of the NSFR disclosure template
+
+* Instructions have been extracted from and should be read in conjunction with the Basel Pillar 3 Disclosures.[Footnote 6](#fnb6)
+* The rows in the template are fixed and compulsory for D-SIBs to populate and publically disclose. The categories in the rows and columns in the template should not be altered. More specifically:
+  + Each dark grey row is the major heading of each section (e.g. ASF item, RSF item) and does not require any value to be reported.
+  + Each light grey row represents major categories of the NSFR and requires total values to be reported.
+  + Each unshaded row represents subcomponents of major categories under ASF and RSF items and requires values to be reported.[Footnote 7](#fnb7)
+  + No data should be entered in the cross-hatched cells.
+* Values entered in the template must be based on quarter-end positions of individual line items.
+* Values entered for each RSF line item should include both unencumbered and encumbered amounts.
+* Values entered in unweighted columns are to be assigned on the basis of residual maturity.[Footnote 8](#fnb8)
+* The following table provides an explanation of each row of the disclosure template with references to relevant paragraphs from the BCBS's *Basel III: The Net Stable Funding Ratio*[Footnote 9](#fnb9) and has been further supplemented with references to relevant paragraphs from OSFI's *Revised Liquidity Adequacy Requirements Guideline* (LAR Guideline).[Footnote 10](#fnb10)
+
+Table explaining each row of the NSFR disclosure template[Footnote 11](#fnb11)
+
+| Row Number | Explanation | Relevant paragraph(s) of Basel NSFR standards[Footnote 12](#fnb12) | Relevant paragraph(s) of OSFI's LAR Guideline[Footnote 13](#fnb13) |
+| --- | --- | --- | --- |
+| 1 | Capital is the sum of rows 2 and 3. |  |  |
+| 2 | Regulatory capital before the application of capital deductions, as defined in paragraph 49 of the Basel III text.[Footnote 14](#fnb14) | 21(a), 24(d) and 25(a) | 16(a), 21(d) and 23(a) |
+| 3 | Total amount of any capital instruments not included in row 2. | 21(b), 24(d) and 25(a) | 16(b), 21(d) and 23(a) |
+| 4 | Retail deposits and deposits from small business customers, as defined in the LCR paragraphs 73–84 and 89–92, are the sum of row 5 and 6. |  |  |
+| 5 | Stable deposits comprise "stable" (as defined in the LCR in paragraphs 75–8) non-maturity (demand) deposits and/or term deposits provided by retail and small business customers. | 21(c) and 22 | 16(c) and 17 |
+| 6 | Less stable deposits comprise "less stable" (as defined in the LCR in paragraphs 79–81) non-maturity (demand) deposits and/or term deposits provided by retail and small business customers. | 21(c) and 23 | 16(c) and 19 |
+| 7 | Wholesale funding is the sum of rows 8 and 9. |  |  |
+| 8 | Operational deposits: as defined in LCR paragraphs 93–104, including deposits in institutional networks of cooperative banks. | 21(c), 24(b) and 25(a), including footnote 10. | 16(c), 21(b) and 23(a) |
+| 9 | Other wholesale funding include funding (secured and unsecured) provided by non-financial corporate customer, sovereigns, public sector entities (PSEs), multilateral and national development banks, central banks and financial institutions. | 21(c), 24(a), (c), and (d) and 25(a) | 16(c), 21(a), (c) and (d), 22 and 23(a) |
+| 10 | Liabilities with matching interdependent assets. | 45 | 53 |
+| 11 | Other liabilities are the sum of rows 12 and 13. |  |  |
+| 12 | In the unweighted cells, report NSFR derivatives liabilities as calculated according to NSFR paragraphs 19 and 20. There is no need to differentiate by maturities.  [The weighted value under NSFR derivative liabilities is cross-hatched given that it will be zero after the 0% ASF is applied.] | 19, 20, 25(c) | 13, 14 and 23(c) |
+| 13 | All other liabilities and equity not included in above categories. | 25(a), (b) and (d) | 23(a), (b) and (d) and 39 |
+| 14 | Total ASF is the sum of all weighted values in rows 1, 4, 7, 10 and 11. |  |  |
+| 15 | Total HQLA as defined in the LCR paragraphs 49–68 (encumbered and unencumbered), without regard to LCR operational requirements and LCR caps on Level 2 and Level 2B assets that might otherwise limit the ability of some HQLA to be included as eligible in calculation of the LCR:   1. Encumbered assets including assets backing securities or covered bonds. 2. Unencumbered means free of legal, regulatory, contractual or other restrictions on the ability of the bank to liquidate, sell, transfer or assign the asset. | Footnote 12, 36(a) and (b), 37, 39(a), 40(a) and (b), 42(a) and 43(a) | Footnote 14, 44(a), (b) and (c), 47(a), 48(a) and (b), 50(a) and 51(a) |
+| 16 | Deposits held at other financial institutions for operational purposes as defined in the LCR paragraphs 93–104. | 40(d) | 48(d) |
+| 17 | Performing loans and securities are the sum of rows 18, 19, 20, 22 and 24. |  |  |
+| 18 | Performing loans to financial institutions secured by Level 1 HQLA, as defined in the LCR paragraphs 50(c), (d) and (e). | 38, 40(c) and 43(c) | 39, 45, 48(c) and 51(c) |
+| 19 | Performing loans to financial institutions secured by non-Level 1 HQLA and unsecured performing loans to financial institutions. | 39(b), 40(c) and 43(c) | 39, 46, 47(b) and 51(c) |
+| 20 | Performing loans to non-financial corporate clients, loans to retail and small business customers, and loans to sovereigns, central banks and PSEs. | 36(c), 40(e), 41(b), 42(b) and 43(a) | 39, 44(d), 48(e), 49(b), 50(b) and (c) and 51(a) |
+| 21 | Performing loans to non-financial corporate clients, loans to retail and small business customers, and loans to sovereigns, central banks and PSEs with risk weight of less than or equal to 35% under the Standardised Approach. | 36(c), 40(e), 41(b) and 43(a) | 44(d), 48(e), 49(b) and 51(a) |
+| 22 | Performing residential mortgages. | 40(e), 41(a), 42(b) and 43(a) | 48(e), 49(a) and (c) and 51(a) |
+| 23 | Performing residential mortgages with risk weight of less than or equal to 35% under the Standardised Approach. | 40(e), 41(a) and 43(a) | 48(e), 49(a) and (c) and 51(a) |
+| 24 | Securities that are not in default and do not qualify as HQLA including exchange-traded equities. | 40(e), 42(c) and 43(a) | 48(e), 50(d) and 51(a) |
+| 25 | Assets with matching interdependent liabilities. | 45 | 53 |
+| 26 | Other assets are the sum of rows 27 to 31. |  |  |
+| 27 | Physical traded commodities, including gold. | 42(d) | 50(e) |
+| 28 | Cash, securities or other assets posted as initial margin for derivative contracts and contributions to default funds of CCPs. | 42(a) | 50(a) |
+| 29 | In the unweighted cell, report NSFR derivative assets, as calculated according to NSFR paragraphs 34 and 35. There is no need to differentiate by maturities.  In the weighted cell, if NSFR derivative assets are greater than NSFR derivative liabilities, (as calculated according to NSFR paragraphs 19 and 20), report the positive difference between NSFR derivative assets and NSFR derivative liabilities. | 34, 35 and 43(b) | 40, 41 and 51(b) |
+| 30 | In the unweighted cell, report derivative liabilities as calculated according to NSFR paragraph 19, ie before deducting variation margin posted. There is no need to differentiate by maturities. In the weighted cell, report 5% of derivatives liabilities' unweighted value (subject to 100% RSF). | 19 and 43(d) | 13 and 51(d) |
+| 31 | All other assets not included in the above categories. | 36(d) and 43(c) | 44(e) and 51(c) |
+| 32 | Off-balance sheet items. | 46 and 47 | 54-55 |
+| 33 | Total RSF is the sum of all weighted value in rows 15, 16, 17, 25, 26 and 32. |  |  |
+| 34 | Net stable funding ratio (%), as stated in paragraph 12 of this document. | 9 | 4 |
+
+## Footnotes
+
+Footnote 1
+:   BCBS, March 2017: <https://www.bis.org/bcbs/publ/d400.htm>.
+
+    [Return to footnote 1](#fnb1-ref)
+
+Footnote 2
+:   OSFI has designated six institutions as D-SIBs: Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank of Canada.
+
+    [Return to footnote 2](#fnb2-ref)
+
+Footnote 3
+:   The NSFR disclosure requirements are not mandatory for non D-SIBs.
+
+    [Return to footnote 3](#fnb3-ref)
+
+Footnote 4
+:   Source: Template LIQ2: NSFR, Basel Pillar 3 Disclosure Requirements – Consolidated and Enhanced Framework, March 2017.
+
+    [Return to footnote 4](#fnb4-ref)
+
+Footnote 5
+:   Items to be reported in the "no maturity" time bucket do not have a stated maturity. These may include, but are not limited to, items such as capital with perpetual maturity, non-maturity deposits, short positions, open maturity positions, non-HQLA equities, and physical traded commodities.
+
+    [Return to footnote 5](#fnb5-ref)
+
+Footnote 6
+:   Source: Template LIQ2: NSFR, Basel Pillar 3 Disclosure Requirements – Consolidated and Enhanced Framework, March 2017.
+
+    [Return to footnote 6](#fnb6-ref)
+
+Footnote 7
+:   As an exception, rows 21 and 23 are subcomponents of rows 20 and 22, respectively. Row 17 is the sum of rows 18, 19, 20, 22 and 24.
+
+    [Return to footnote 7](#fnb7-ref)
+
+Footnote 8
+:   In accordance with paragraphs 18 and 29, Basel III: The Net Stable Funding Ratio, October 2014: <http://www.bis.org/bcbs/publ/d295.pdf>
+
+    [Return to footnote 8](#fnb8-ref)
+
+Footnote 9
+:   BCBS, Basel III: The Net Stable Funding Ratio
+
+    [Return to footnote 9](#fnb9-ref)
+
+Footnote 10
+:   OSFI, LAR Guideline – REVISED, November 2014: http://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/LAR\_rev\_let.aspx
+
+    [Return to footnote 10](#fnb10-ref)
+
+Footnote 11
+:   Source: Template LIQ2: NSFR, Basel Pillar 3 Disclosure Requirements – Consolidated and Enhanced Framework, March 2017.
+
+    [Return to footnote 11](#fnb11-ref)
+
+Footnote 12
+:   BCBS, Basel III: The Net Stable Funding Ratio
+
+    [Return to footnote 12](#fnb12-ref)
+
+Footnote 13
+:   OSFI, LAR Guideline, Chapter 3
+
+    [Return to footnote 13](#fnb13-ref)
+
+Footnote 14
+:   Capital instruments reported should meet all requirements outlined in BCBS, *Basel III: A Global Regulatory Framework for More Resilient Banks and Banking Systems*, June 2011: <http://www.bis.org/publ/bcbs189.pdf> and should only include amounts after transitional arrangements have expired under fully implemented Basel III standards (i.e. as in 2022).
+
+    [Return to footnote 14](#fnb14-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2020-11-26

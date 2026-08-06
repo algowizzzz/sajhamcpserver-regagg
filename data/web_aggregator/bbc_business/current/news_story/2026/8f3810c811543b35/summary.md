@@ -1,0 +1,1 @@
+Summary: # New clothing saved from waste by sewing charity

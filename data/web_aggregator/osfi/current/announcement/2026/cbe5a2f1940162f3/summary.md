@@ -1,0 +1,1 @@
+Summary: # IRB Credit Data Wholesale Transaction Defaulted and Fully Resolved (BG)

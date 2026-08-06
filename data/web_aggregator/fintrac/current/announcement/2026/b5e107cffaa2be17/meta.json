@@ -1,0 +1,24 @@
+{
+  "doc_id": "b5e107cffaa2be17",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "CANAFE signe un protocole d'entente avec la Society of Notaries Public of British Columbia",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/new-neuf/nr/2021-05-20-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:cb09aa13891af4abdffaa3f47f49ef02c7d5d8b48cdb87fdf2ef5fc2d3cbac19",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/b5e107cffaa2be17",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

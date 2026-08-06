@@ -1,0 +1,26 @@
+{
+  "doc_id": "7b930df378f7893a",
+  "regulator_id": "nydfs",
+  "doc_type": "announcement",
+  "title": "Internet Privacy Policy | Department of Financial Services",
+  "language": "en",
+  "source_url": "https://www.dfs.ny.gov/privacy",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:594a992ba387de0b4e0c6ec2e02aad5cf39a0e6cd905445a31ea451260da280c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_nydfs_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nydfs/current/announcement/2026/7b930df378f7893a",
+  "tags": [
+    "us",
+    "state_regulator",
+    "banking",
+    "insurance"
+  ]
+}

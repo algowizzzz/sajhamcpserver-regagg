@@ -1,0 +1,77 @@
+1 
+ 
+ 
+ 
+ Board of Governors of the Federal Reserve System 
+Federal Deposit Insurance Corporation 
+Office of the Comptroller of the Currency 
+ 
+ 
+Statement regarding Coordinated Federal Banking Agency Approach for the Handling     
+of Highly Sensitive Information During Examinations 
+ 
+ 
+The Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, 
+and Office of the Comptroller of the Currency (collectively, “the federal banking agencies” 
+(FBA)) are instituting a coordinated approach for the handling of highly sensitive information 
+during examinations of supervised banks. This communication provides information to 
+supervised banks on this coordinated approach, how it is being rolled out across the FBAs and 
+their supervisory personnel, and the role that supervised banks may play in implementation. 
+ 
+The FBAs recognize the sensitivity of supervised banks’ data handled during the examination 
+process. The FBAs are committed to protecting and handling sensitive data in accordance with 
+applicable confidentiality laws and regulations and data security standards. Additionally, the 
+FBAs have committed to notify affected banks of a potential or confirmed material compromise 
+of confidential supervisory information as soon as practicable and within no more than 72 hours, 
+once the agency impacted has a reasonable basis to believe a compromise has occurred and 
+determines the banks affected, subject to applicable legal considerations. 
+ 
+The FBAs acknowledge that certain categories of data and documents have additional levels of 
+sensitivity and heightened risks from disclosure (referenced as highly sensitive information). 
+These may include, but are not limited to, documents and data that contain detailed information 
+on  
+• technology/network diagrams and schematics;  
+• detailed penetration test results;  
+• technical details of specific information technology control weaknesses; and  
+• succession planning.  
+The FBAs have used various methods for handling such highly sensitive information in a manner 
+that balances the requirements of effective examination with the need to minimize the risk of 
+exposure. This coordinated approach provides greater alignment of these practices across the 
+FBAs and examination teams. 
+ 
+Under this approach, the FBAs will rely on bank management to identify data and documents 
+requested for an examination that they believe should be considered highly sensitive information. 
+This will allow the FBAs to evaluate whether additional protocols should be invoked in the 
+review of that information during examinations.  
+ 
+For highly sensitive information, the FBAs will consider a range of potential options to minimize 
+collection and storage by the FBAs, including on-site review, direct digital review from the 
+systems of the supervised bank, redacted or summarized versions of documents, and additional
+
+2 
+ 
+ 
+measures related to transmission of, and access to, sensitive information. Banks that have 
+information they believe could be highly sensitive in nature should discuss their concerns with 
+their examiners or primary agency contact. Examiners or primary agency contacts will then 
+discuss with bank management whether the information falls into the highly sensitive category 
+and, if so, which method(s) they will employ to protect such information. 
+ 
+Following the review of materials through any alternative methods and after approval through 
+their appropriate supervisory chain, examiners may determine there is a supervisory need to 
+obtain the information for the supervisory record. To preserve the confidentiality of highly 
+sensitive information, in some circumstances, redacted or summary documents may be accepted 
+for the supervisory record if legal requirements are satisfied.  
+ 
+The FBAs will provide their examiners with written guidance and training on this approach. 
+Following this guidance, the FBA examiners will notify supervised banks upon the beginning of 
+examination activities that bank management may identify to examiners any information that 
+bank management considers highly sensitive. Examiners will also notify supervised banks of the 
+specific processes through which they may escalate any concerns to their primary federal 
+regulator regarding examiner determinations of how to appropriately identify and handle highly 
+sensitive information. 
+ 
+This memorandum is not intended to, and does not, create any right or benefit, substantive or 
+procedural, enforceable at law or in equity by any party against the FBAs or their officers, 
+employees, or agents. The FBAs look forward to working with supervised banks to implement 
+this new approach.

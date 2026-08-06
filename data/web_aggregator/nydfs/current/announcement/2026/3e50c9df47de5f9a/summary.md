@@ -1,0 +1,1 @@
+Summary: ![person in business suit touching a digital checklist](/sites/default/files/styles/wide_lead/public/media/2024/03/Hero-Procurement.png?h=b5f6a62e&itok=dgNO-glG "Checklist")

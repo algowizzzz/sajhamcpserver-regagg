@@ -1,0 +1,1 @@
+Summary: # Japan cabinet approves move to cut consumption tax on food to 1%

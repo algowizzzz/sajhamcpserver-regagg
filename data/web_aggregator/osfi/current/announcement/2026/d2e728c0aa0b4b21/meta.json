@@ -1,0 +1,25 @@
+{
+  "doc_id": "d2e728c0aa0b4b21",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Appel de donn\u00e9es transactionnelles sur les pr\u00eats aux entreprises \u2013 Phase 3 (BSIF 988) | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/appel-donnees-transactionnelles-sur-prets-entreprises-phase-3-bsif-988",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:941261c9bd13157ecd16d563bd52f71a9c8d0c7020bfb0e9167131d480c21247",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/d2e728c0aa0b4b21",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

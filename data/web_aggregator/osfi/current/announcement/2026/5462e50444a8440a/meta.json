@@ -1,0 +1,25 @@
+{
+  "doc_id": "5462e50444a8440a",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Ratio de liquidit\u00e9 \u00e0 long terme (DT1) \u2014 Relev\u00e9 des modifications | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/ratio-liquidite-long-terme-dt1-releve-modifications",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fc08abb3faf0101be85703afa666061ccb2ce3067e49e1a506d05abd26fd48b3",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/5462e50444a8440a",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

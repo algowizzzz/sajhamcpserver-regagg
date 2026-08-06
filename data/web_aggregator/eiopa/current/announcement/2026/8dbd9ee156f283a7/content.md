@@ -1,0 +1,40 @@
+Page Content
+
+The European Insurance and Occupational Pensions Authority (EIOPA) is launching today a call for expression of interest to select new members of the Insurance and Reinsurance Stakeholder Group (IRSG) and the Occupational Pensions Stakeholder Group (OPSG).
+
+The Stakeholder Groups (SHGs) are set up according to Article 37 of the EIOPA Regulation1, to facilitate consultation with stakeholders in areas relevant to the tasks of EIOPA. Members serve for a period of 2.5 years with the possibility to renew their mandate once. More information on the activities of the SHGs is available on the EIOPA website.
+
+Each group comprises 30 members. Members are appointed to represent, in balanced proportions, the following groups:
+
+• For both Stakeholder Groups: representatives of
+
+* Employees
+* Independent top-ranking academics
+* Relevant professional associations
+* Small and Medium Enterprises (SMEs)
+
+• For IRSG: representatives of
+
+* + Consumers
+  + Users of insurance and reinsurance services
+  + Insurance and reinsurance undertakings and intermediaries operating in the Union
+
+• For OPSG: representatives of
+
+* + Beneficiaries
+  + IORPs - Institutions for occupational retirement provision operating in the Union
+
+The Stakeholder Groups meet separately at least four times a year in Frankfurt, Germany. In addition, there is one joint meeting per year, organised with EIOPA's Board of Supervisors.
+
+EIOPA covers accommodation and travel costs for the following categories: consumers, academics, beneficiaries, employee representatives and users of insurance and reinsurance services.
+
+EIOPA expects to complete the selection process by July 2018. The first meeting in the new composition is foreseen for 19 September 2018 (IRSG) and 17 October 2018 (OPSG).
+
+Detailed information regarding the call (in all languages) and the application form (in English only) can be found here: <http://bit.ly/1KA5nQy>
+
+EIOPA strives to ensure appropriate geographical and gender balance in its Stakeholder Groups.
+
+The deadline for application is **26 April 2018**.
+
+Publication date
+:   1 March 2018

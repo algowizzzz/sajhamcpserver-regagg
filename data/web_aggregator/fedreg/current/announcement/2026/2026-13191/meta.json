@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13191",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Resolution Submissions Required for Covered Insured Depository Institutions",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/30/2026-13191/resolution-submissions-required-for-covered-insured-depository-institutions",
+  "reference_number": "2026-13191",
+  "published_date": "2026-06-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:18f92fd4d0280e63604071dbc64bbecfdeaebb4e8dd98de6d0296f21eb43f1fd",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13191",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

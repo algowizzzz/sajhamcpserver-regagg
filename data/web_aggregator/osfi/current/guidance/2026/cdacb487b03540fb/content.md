@@ -1,0 +1,710 @@
+# Capital and Liquidity Treatment of Crypto-asset Exposures (Banking) – Guideline (2026)
+
+Information
+
+Publication type
+
+Guideline
+
+Category
+
+Capital Adequacy Requirements, Liquidity Adequacy Requirements
+
+Date
+
+February 20, 2025
+
+Sector
+
+Banks,
+
+Foreign Bank Branches,
+
+Trust and Loan Companies
+
+Effective date
+
+November 2025 / January 2026
+
+Revised date
+
+October 29, 2025
+
+Table of contents
+
+Related documents
+
+* [Letter to industry – Changes to treatment of crypto-assets exposures](/en/guidance/guidance-library/letter-industry-changes-treatment-crypto-assets-exposures)
+* [Frequently asked questions - Crypto assets](/en/guidance/guidance-library/frequently-asked-questions-crypto-assets)
+* [Capital and Liquidity Treatment of Crypto-asset Exposures Guidelines – Letter](/en/guidance/guidance-library/capital-liquidity-treatment-crypto-asset-exposures-guidelines-letter)
+* [Capital Treatment of Crypto-asset Exposures (Insurance) – Guideline](/en/guidance/guidance-library/capital-treatment-crypto-asset-exposures-insurance-guideline)
+* [OSFI’s response to the consultation feedback on the capital and liquidity treatment of crypto-asset exposures guidelines (banking and insurance)](/en/consultations/consultation-summaries/osfis-response-consultation-feedback-capital-liquidity-treatment-crypto-asset-exposures-guidelines)
+
+## Consultation status: Open
+
+A [draft version of this guideline](/en/guidance/guidance-library/capital-liquidity-treatment-crypto-asset-exposures-banking-guideline-2027 "Capital and Liquidity Treatment of Crypto-asset Exposures (Banking) – Guideline (2027)") is available for consultation. Please provide your feedback by July 20, 2026 to [Consultations@osfi-bsif.gc.ca](mailto:Consultations@osfi-bsif.gc.ca).
+
+For institutions with a fiscal year ending October 31 or December 31, respectively.
+
+## I. Introduction
+
+1. This guideline sets out the regulatory capital and liquidity treatment of exposures to crypto-assets for banks (including federal credit unions), bank holding companies, federally regulated trust companies, and federally regulated loan companies, collectively referred to as 'institutions'.
+2. The guideline does not address other issues, including whether an institution is permitted under the Bank Act, or Trust and Loan Companies Act, to issue any particular crypto-asset, or to acquire or hold a controlling or substantial investment in entities that engage in this activity. This guideline also sets out expectations as to when institutions should notify OSFI regarding their crypto-asset exposures.
+3. OSFI, as a member of the Basel Committee on Banking Supervision (BCBS), participated in the development of the BCBS prudential treatment of crypto-asset exposures on which this guideline is based. Where applicable, this guideline references the Basel Framework in square brackets at the end of each paragraph.
+4. Dematerialized securities (securities that have been moved from physical certificates to electronic book-keeping) that are issued through distributed ledger technology (DLT) or similar technologies are considered to be within the scope of this guideline and are referred to as **tokenized traditional assets**, whereas those dematerialized securities that use electronic versions of traditional registers and databases, which are centrally administered, are not within scope. [SCO60.2 Crypto-asset exposures]
+5. The regulatory capital and liquidity treatment of central bank digital currencies is also not within the scope of this guideline. [SCO60.3 Crypto-asset exposures]
+
+## II. Definitions
+
+6. Crypto-assets are defined as private digital assets that depend on cryptography and DLT or similar technologies. Digital assets are a digital representation of value, which can be used for payment or investment purposes or to access a good or service. [SCO60.1 Crypto-asset exposures]
+7. In this guideline, the term exposure includes on or off-balance sheet amounts that give rise to credit, market, operational and/or liquidity risks. Minimum capital requirements for operational risk and institutions' risk management sections are also applicable to institutions' crypto-asset activities, such as custodial services involving the safekeeping or administration of client crypto-assets on a segregated basis, that do not generally give rise to credit, market, or liquidity requirements. [SCO60.4 Crypto-asset exposures]
+8. Crypto-asset exposures include direct exposures to crypto-assets, as well as any indirect exposures whose value or risk is significantly determined by the value of one or more crypto-assets. These indirect exposures include all instruments referencing crypto-assets, such as (but not limited to) derivatives, mutual funds, exchange traded funds (ETFs), units of trusts and partnerships, or shares in a corporation. OSFI expects institutions to take a prudent approach to the interpretation of what constitutes a crypto-asset exposure.
+
+## III. Simplified and comprehensive regulatory treatment options
+
+9. **Simplified approach** - A simplified capital and liquidity treatment is available to institutions with limited crypto-asset exposures, or to institutions wishing to streamline or bypass classification determination detailed in the section that follows. These institutions should apply a deduction to common equity tier 1 (CET1) capital for all their crypto-asset exposures (i.e., treat all their crypto-asset exposures as Group 2b exposures).[Footnote 1](#fn1) For liquidity purposes, institutions should apply the same treatment as other non high-quality liquid assets (HQLA) applicable assets in the liquidity coverage ratio (LCR) and net stable funding ratio (NSFR) standards.[Footnote 2](#fn2)
+10. **Comprehensive approach** - Institutions that do not use the simplified approach should categorize their crypto-asset exposures into one of four categories (i.e., Group 1a, 1b, 2a or 2b) introduced in the next section of this guideline and detailed thereafter (including in Annex 1 and Annex 3).
+11. **Additional risk considerations (simplified and comprehensive approaches)** - All institutions, whether applying the simplified or comprehensive approach, should consider credit valuation adjustment (CVA) risk, counterparty credit risk (CCR), operational risk, leverage, and large exposure risk. Dedicated sections in this guideline provide guidance to institutions on each of these areas with respect to their crypto-asset exposures. Institutions should notify OSFI should they opt for the comprehensive approach, or if they switch approaches.
+12. Table 1 below summarizes the simplified and comprehensive approaches to the treatment of crypto-asset exposures.
+
+    Table 1: Simplified and comprehensive treatment for crypto-asset exposures
+
+    | Simplified approach | Comprehensive approach |
+    | --- | --- |
+    | * Deduct all crypto-asset exposures from CET1 capital * Crypto-assets are considered non-HQLA in the LCR and NSFR standards | Capital and liquidity treatments vary depending on crypto-asset classification (i.e. Group 1a, 1b, 2a or 2b) |
+    |  |  |
+    | --- | --- |
+    | Other considerations include CVA, CCR, operational, leverage, and large exposure risks | |
+
+## IV. Categorization of crypto-assets
+
+13. For the purposes of credit, market, and liquidity risk, the capital and liquidity treatment of an institution's crypto-asset exposures varies according to the classification of the crypto-assets. To determine the classification, crypto-assets should be assessed on an ongoing basis and first classified into two broad groups:
+
+    1. **Group 1 crypto-assets** are those crypto-assets that meet the classification conditions set out in Annex 1. Group 1 crypto-assets consist of:
+
+       1. Group 1a (**Tokenized Traditional Assets**): Tokenized traditional assets that meet the classification conditions in Annex 1.
+       2. Group 1b (**Value-referenced Crypto-assets**): Crypto-assets with effective stabilization mechanisms that meet the classification conditions. This includes stablecoins, which are crypto-assets that aim to maintain a stable value relative to a specified asset, or a pool or basket of assets, as measured by the criteria in this guideline.[Footnote 3](#fn3)
+    2. **Group 2 crypto-assets** are those crypto-assets that fail to meet the classification conditions set out in Annex 1. Group 2 crypto-assets consist of:
+
+       1. Group 2a (**Hedging-eligible Crypto-assets**): Crypto-assets (including tokenized traditional assets, stablecoins, and unbacked crypto-assets) that fail to meet the classification conditions set out in Annex 1 but pass the Group 2a hedging recognition criteria in Annex 3.
+       2. Group 2b (**Other Crypto-assets**): All other crypto-assets (i.e., tokenized traditional assets, stablecoins, and unbacked crypto-assets) that fail to meet the classification conditions set out in Annex 1 and fail the Group 2a hedging recognition criteria in Annex 3.
+
+    [SCO60.6 Crypto-asset exposures]
+14. Figure 1 below summarizes the categorization of crypto-assets and their regulatory treatment. The capital and liquidity requirements for crypto-asset exposures should be consistent with the requirements in the Capital Adequacy Requirements (CAR) guideline and the Liquidity Adequacy Requirements (LAR) guideline, unless stated otherwise in this guideline.
+
+    Figure 1: Different categorizations of crypto-assets
+
+    * **1a: Tokenized Traditional Assets**
+      + Consistent with the CAR and LAR treatment of the related asset
+    * **1b: Value-referenced Crypto-assets** 
+      + Similar to 1a, but with additional criteria on the effectiveness of an asset's stabilization mechanism in Annex 1
+
+    * **2a: Hedging-eligible Crypto-assets**
+      + Fails the classification conditions for Group 1, but satisfies the hedging recognition criteria in Annex 3
+    * **2b: Other Crypto-assets**
+      + Exposures will be fully deducted from CET1 capital
+15. Institutions, on an ongoing basis, are responsible for assessing whether the crypto-assets to which they are exposed are compliant with the classification conditions set out in Annexes 1 and 3. Institutions should fully document the information used in determining adherence with the classification conditions. This information should be made available to OSFI upon request. OSFI may override institutions' classification decisions if it does not agree with the assessments undertaken by institutions. These assessments will determine whether the crypto-assets are classified as Group 1a, Group 1b, Group 2a or Group 2b. To this end, institutions should have in place the appropriate risk management policies, procedures, governance, human and IT capacities to evaluate the risks of engaging in crypto-assets and implement these accordingly on an ongoing basis. [SCO60.20 Crypto-asset exposures]
+
+## V. Banking/trading book boundary, use of internal models and accounting classification
+
+16. Chapter 9 of the CAR guideline should be used to determine the allocation of crypto-assets between the banking book and trading book, subject to the following specifications and exceptions:
+
+    1. Group 1a crypto-assets should be assigned to the banking book or trading book based on the application of the boundary criteria to the non-tokenized equivalent traditional assets.
+    2. Group 1b crypto-assets should be assigned to the banking book or trading book based on the application of the boundary criteria to the reference asset(s).
+    3. Group 2a crypto-assets should be treated according to the proposed market risk requirements, independent of whether they stem from trading or banking book instruments (i.e., similar to FX and commodities risk). As such, if an institution is not subject to the market risk framework in Chapter 9 of the CAR guideline, its crypto-asset exposures are not eligible for this categorization.
+    4. Group 2b crypto-assets should be treated according to the standardized conservative prudential treatment outlined in paragraphs 56-59.
+
+    [SCO60.23 Crypto-asset exposures]
+17. The CAR guideline determines whether Group 1 crypto-asset exposures are treated according to the standardized approach (SA) or internal ratings-based (IRB) approach to credit risk or the standardized approach (SA) or internal models approach (IMA) to market risk. The IMA approach cannot be applied to Group 2 crypto-assets. [SCO60.24 Crypto-asset exposures]
+18. Crypto-asset exposures are not subject to the deduction requirement that applies to intangible assets set out in Chapter 2 of the CAR guideline including in cases where the crypto-asset is classified as an intangible asset under international financial reporting standards. [SCO60.25 Crypto-asset exposures]
+
+## VI. Minimum capital requirements for credit risk of Group 1 crypto-assets
+
+19. This section describes how the minimum risk-based capital requirements for credit risk are to be applied to Group 1 crypto-asset exposures, subject to an add-on for Group 1 crypto-assets set out in the **add-on for infrastructure risk of Group 1 crypto-assets** section below. [SCO60.26 Crypto-asset exposures]
+
+### (i) Group 1a crypto-assets: tokenized traditional assets
+
+20. Group 1a crypto-assets held in the banking book will generally be subject to the same requirements to determine credit risk-weighted assets (RWA) as non-tokenized traditional assets. For example, a tokenized corporate bond held in the banking book will be subject to the same risk weight as the non-tokenized corporate bond held in the banking book. [SCO60.27 Crypto-asset exposures]
+21. The treatment outlined in paragraph 20 is based on the assumption that if two exposures confer the same level of legal rights (to cash flows, claims in insolvency, ownership of assets, etc.) and the same likelihood of paying the owner all amounts due on time (including amounts due in case of default), they will likely have very similar values and pose a similar risk of credit losses. However, there are areas of the credit risk framework that aim to capture risks that are not directly related to the legal rights of an asset held by an institution or likelihood of timely payment. Institutions should separately assess the tokenized traditional asset against these requirements, and not assume qualification for a given treatment simply because the traditional (non-tokenized) asset qualifies. For example, a tokenized asset may have different market liquidity characteristics than the traditional (non-tokenized) asset. This could arise because the pool of potential investors that are able to hold tokenized assets might be different than for non-tokenized assets. [SCO60.28 Crypto-asset exposures]
+22. Chapter 4 of the CAR guideline sets out the list of eligible forms of financial collateral for the purposes of recognition as a credit risk mitigant under the SA to credit risk. The list is also the basis of eligible financial collateral under the IRB approach. Only Group 1a crypto-assets that are tokenized versions of the instruments included in the list of eligible financial collateral set out in the CAR guideline may qualify for recognition as eligible collateral (subject to also meeting the requirements described above). [SCO60.30 Crypto-asset exposures]
+23. The potential for market liquidity characteristics and market values of tokenized assets to differ from non-tokenized assets is important in considering whether Group 1a crypto-assets meet the requirements for the purposes of credit risk mitigation within the credit risk framework. Also, the speed with which a secured creditor could take possession of crypto-asset collateral may be different than for a traditional asset. Therefore, before such assets are recognized as collateral for the purposes of credit risk mitigation, institutions should separately assess whether they comply with the relevant eligibility requirements for collateral recognition, such as whether the collateral can be liquidated in a timely manner and meet legal certainty requirements. In addition to assessing whether tokenized assets held as collateral are eligible to be recognized as credit risk mitigation, institutions should analyze the period over which they can be liquidated and the depth of market liquidity during a period of downturn. Crypto-assets should only be recognized as collateral when volatility in values and holding periods under distressed market conditions can be confirmed to not be materially increased compared with the traditional asset or pool of traditional assets. Otherwise, the crypto-asset should not be eligible for recognition of credit risk mitigation unless an institution has received permission from OSFI to reflect any material increase in relevant parameters as part of the institution's own LGD estimates under the IRB approach. [SCO60.29 Crypto-asset exposures]
+
+### (ii) Group 1b crypto-assets: value-referenced crypto-assets
+
+24. As a result of the classification conditions, Group 1b crypto-assets should be redeemable for a predefined amount of a reference asset or assets, or cash equal to the value of the reference asset(s). In addition, the crypto-asset arrangement should include a sufficient pool of reserve assets to ensure the redemption claims of crypto-asset holders can be met. Aside from these common elements, Group 1b crypto-assets may be structured in a variety of different ways. Institutions that have banking book exposures to Group 1b crypto-assets should analyze their specific structures and identify all risks that could result in a loss. Each credit risk exposure should be separately capitalized by institutions using the credit risk standards set out in the CAR guideline. For examples of this treatment, please refer to [Annex 2](#Annex2). The list in Annex 2 is not exhaustive, and it is the responsibility of institutions to comprehensively assess and document the full range of risks arising from each of their exposures. [SCO60.31 Crypto-asset exposures]
+25. For crypto-assets that are classified as Group 1b, institutions should perform additional due diligence to ensure that they have an adequate understanding, at acquisition and thereafter on a regular quarterly basis, of the stabilization mechanism of the crypto-asset and of its effectiveness. As part of this due diligence, institutions are expected to conduct statistical or other tests demonstrating that the crypto-asset maintains a stable relationship in comparison to its reference asset. The results of such tests should be made available to OSFI upon request. [SCO60.20 Crypto-asset exposures]
+
+## VII. Minimum capital requirements for market risk of Group 1 crypto-assets
+
+26. This section describes how the minimum risk-based capital requirements for market risk are to be applied to Group 1 crypto-asset exposures under the SA and the IMA (Chapter 9 of the CAR guideline). [SCO60.40 Crypto-asset exposures]
+
+### (i) Application of the SA to Group 1 crypto-assets
+
+27. Group 1 crypto-assets should be mapped to the current risk classes set out in the sensitivities-based method. Specifically:
+
+    1. Each tokenized instrument in Group 1 should be decomposed into the same risk factors as the traditional asset it digitally represents. For the tokenized asset, its sensitivity to the traditional risk factors should be identical to those of the traditional asset it digitally represents within the respective current risk classes.
+    2. Each stablecoin instrument in Group 1 should be decomposed into the same risk factors as the traditional asset(s) that it references. Its sensitivity to the traditional risk factors should be identical to those of the traditional asset(s) that it references within the current risk classes.
+
+    [SCO60.43 Crypto-asset exposures]
+28. For the default risk capital (DRC) requirement, Group 1 crypto-assets should have their gross jump-to-default (JTD) considered as equivalent to those from the traditional asset it digitally represents or references. [SCO60.44 Crypto-asset exposures]
+29. If present in a Group 1b crypto-asset, the risk of default of the redeemer and the risks arising when intermediaries perform the redemption function should be treated in line with the minimum risk-based capital requirements for credit risk. [SCO60.45 Crypto-asset exposures]
+
+### (ii) Application of the IMA approach to Group 1 crypto-assets
+
+30. When calculating market risk capital requirements for Group 1 crypto-assets under the market risk framework, as defined in the CAR guideline, institutions should apply the specifications set out in paragraphs 31 to 35. [SCO60.46 Crypto-asset exposures]
+31. To determine the aggregate capital requirement under the IMA, institutions need to calculate a DRC requirement and an aggregate non-DRC requirement accordingly. For the latter, the institution will need to determine an aggregate stressed expected shortfall (SES) capital measure for the non-modellable risk factors and an aggregate capital requirement for modellable risk factors (IMCC). [SCO60.47 Crypto-asset exposures]
+32. The use of IMA for instruments referencing Group 2 crypto-assets is not permitted. [SCO60.48 Crypto-asset exposures]
+33. The capital treatment prescribed for the non-DRC requirement allows mapping of exposures to risk factors as follows:
+
+    1. Each tokenized instrument in Group 1 must be decomposed into the same risk factors as the traditional asset it digitally represents within the respective current risk classes.
+    2. Each stablecoin instrument in Group 1 must be decomposed into the same risk factors as the traditional asset(s) that they reference within the respective current risk classes.
+
+    [SCO60.49 Crypto-asset exposures]
+34. For the DRC requirement, tokenized assets and non-tokenized assets are regarded as different instruments to the same obligor. Similarly, traditional assets referenced by stablecoins and the assets themselves are regarded as different instruments to the same obligor. The DRC requirement should account for different losses in the different instruments. Differences in instruments should be reflected in LGD estimates. Maturity mismatches between tokenized and non-tokenized assets, and between stablecoins and the traditional assets they reference, need to be captured based on the market risk framework. [SCO60.50 Crypto-asset exposures]
+35. If present in a Group 1b crypto-asset, the risk of default of the redeemer and the risks arising when intermediaries perform the redemption function should be treated in line with the minimum risk-based capital requirements for credit risk. [SCO60.51 Crypto-asset exposures]
+
+## VIII. Add-on for infrastructure risk of Group 1 crypto-assets
+
+36. The technological infrastructure that underlies crypto-assets, such as DLT, is integral to the asset itself, relatively new, and may pose various additional risks even in cases where the crypto-assets meet the classification conditions of Group 1. [SCO60.52 Crypto-asset exposures]
+37. The add-on for infrastructure risk of Group 1 crypto-assets will be set at zero. OSFI may increase the infrastructure risk add-on based on any observed weakness in the infrastructure used by Group 1 crypto-assets. [SCO60.53 Crypto-asset exposures]
+
+## IX. Minimum capital requirements for credit and market risk of Group 2 crypto-assets
+
+38. Group 2 crypto-assets are divided into:
+
+    1. Group 2a (**Hedging-eligible crypto-assets**): crypto-assets that meet the hedging recognition criteria set out in [Annex 3](#Annex3) below. Group 2a crypto-assets are subject to a modified version of the Standardised Approach (SA) to market risk set out in paragraphs 39 to 55 below. The treatment permits some recognition of hedging. The Internal Models Approach (IMA) is not applicable to Group 2a crypto-assets.
+    2. Group 2b (**Other crypto-assets**): crypto-assets that do not meet the hedging recognition criteria. Group 2b crypto-assets are subject to a new conservative treatment set out in paragraphs 56 to 59 below, which does not permit institutions to recognise hedging. A Group 2 crypto-asset must be classified as Group 2b, unless an institution demonstrates to OSFI that the crypto-asset meets hedging recognition criteria.
+
+### (i) Group 2a crypto-assets: hedging-eligible crypto-assets
+
+39. For Group 2a crypto-assets the SA will include a separate risk class with its capital requirement determined based on the specifications set out in paragraphs 40 to 55 below. [SCO60.66 Crypto-asset exposures]
+40. All risk factors, including those related to derivatives and off-balance sheets positions that are affected by changes in Group 2a crypto-asset prices should be included. [SCO60.67 Crypto-asset exposures]
+41. Institutions should first express each Group 2a crypto-asset position in terms of its quantity, and then convert it at the current spot price into the institution's reporting currency. [SCO60.68 Crypto-asset exposures]
+42. When consolidated, sensitivities for each Group 2a crypto-asset in different markets or exchanges must not be completely offset, meaning those sensitivities will be calculated as separate long and short gross consolidated sensitivities. Some hedging and diversification benefits are allowed between instruments referencing the same crypto-asset, including those in different markets or exchanges. Basis risk resulting from different forms of the same crypto-asset being referenced in a hedging relationship (e.g., crypto ETF positions hedged with futures referencing the underlying exposure) should be captured, tracked, and capitalized by institutions. Additionally, only the products that meet the criteria in [Annex 3](#Annex3) may be used for the purposes of offsetting, hedging, and for calculating the net capital set out in paragraphs 44 to 55 below. Other products that reference Group 2a crypto-assets are subject to the capital requirements that apply to Group 2b crypto-assets. [SCO60.69 Crypto-asset exposures]
+43. The computation of the sensitivities-based method for Group 2a crypto-assets includes new specifications of delta, vega, and curvature risk factors. The sensitivity definitions are also extended to include that of Group 2a crypto-assets. Finally, a new bucket structure is introduced, composed of multiple buckets, one for each Group 2a crypto-asset, containing only its respective sensitivities. [SCO60.70 Crypto-asset exposures]
+44. **Group 2a crypto-asset delta spot specification**: the sensitivity is measured by changing the Group 2a crypto-asset spot price by 1 percentage point (i.e., 0.01 in relative terms) and dividing the resulting change in the market value of the instrument Vi by 0.01 (i.e., 1%) as follows, where:
+
+    1. k is a given Group 2a crypto-asset;
+    2. CRYPTO(G2a)k is the market value of the Group 2a crypto-asset k; and
+    3. Vi is the market value of instrument i as a function of the price of the Group 2a crypto-asset k.
+
+    S k  =     V i  ( 1.01 × CRYPTO   ( G2a )  k  )  −   V i  ( CRYPTO   ( G2a )  k  )   0.01
+
+    [SCO60.71 Crypto-asset exposures]
+45. **Group 2a crypto-asset vega specification**: the option-level vega risk sensitivity to a given Group 2a crypto-asset should be determined as prescribed by Chapter 9 of the CAR guideline. [SCO60.72 Crypto-asset exposures]
+46. **Bucket structure**: the new risk class will comprise "n" buckets, where each bucket corresponds to the aggregate positions in a specific Group 2a crypto-asset.
+
+    Table 2: Structure of Delta and Vega Risk Weight Buckets
+
+    Delta crypto-asset buckets and risk weights
+
+    | Bucket number | Group 2a crypto-asset | Risk weight |
+    | --- | --- | --- |
+    | 1 | Crypto-asset X1 | 100% |
+    | … | … | … |
+    | N | Crypto-asset Xn | 100% |
+
+    Vega crypto-asset buckets and risk weights
+
+    | Bucket number | Group 2a crypto-asset | Risk weight |
+    | --- | --- | --- |
+    | 1 | Crypto-asset X1 | 100% |
+    | … | … | … |
+    | N | Crypto-asset Xn | 100% |
+
+    [SCO60.73 Crypto-asset exposures]
+47. **Delta capital requirements**: Delta sensitivities should be determined based on a risk factor structure considering two dimensions:[Footnote 4](#fn4)
+
+    1. Exchange; and
+    2. time to maturity, at the following tenors: 0 years, 0.25 years, 0.5 years, 1 year, 2 years, 3 years, 5 years, 10 years, 15 years, 20 years and 30 years.
+
+    [SCO60.74 Crypto-asset exposures]
+48. **Vega capital requirements:** For vega sensitivities, no differentiation by exchange or underlying maturity is considered. Group 2a crypto-asset vega risk factors are defined along one dimension, the maturity of the option, mapped to one or more of the following tenors: 0.5 years, 1 year, 3 years, 5 years and 10 years. [SCO60.75 Crypto-asset exposures]
+49. In order to calculate the delta (or vega) capital requirements for a single bucket   b  ρ  k l   = 94%   [SCO60.76 Crypto-asset exposures]
+50. The delta capital requirement, Kb, for a single bucket b is calculated as follows:
+
+    K b  =  Max ⁡ ( 0 ,   ∑ k     W S   k   2   +   ∑ k     ∑  k ≠ 1      p   k l     W S   k     W S   l         )
+
+    [SCO60.77 Crypto-asset exposures]
+51. The delta capital requirement for the Group 2a crypto-asset risk class is   ∑ b    K b    , taking into account that there is no recognition of diversification benefits between different Group 2a crypto-assets. [SCO60.78 Crypto-asset exposures]
+52. **Curvature capital requirements**: for the curvature risk capital requirement, the delta buckets specified above should be used. The curvature sensitivities should be calculated by shifting all tenors in parallel (i.e., no term structure decomposition is required). For calculating the net curvature risk capital requirement CVRk for the risk factor k for the Group 2a crypto-asset, the curvature risk weight, which is the size of a shock to the given risk factor, is a relative shift equal to the delta risk weight. [SCO60.79 Crypto-asset exposures]
+53. For aggregating curvature risk positions within a bucket, the following formula should be used:
+
+    K b  =  max ⁡  (  K b −  ,  K b +  )
+
+    K b −  =   ∑ k   max ⁡  (   0 , CVR   K   −   )
+
+    K b +  =   ∑ k   max ⁡  (   0 , CVR   K   +   )
+
+    [SCO60.80 Crypto-asset exposures]
+54. Curvature risk cannot be diversified across buckets. The total curvature risk capital across the entire portfolio is   ∑ b    K b    . [SCO60.81 Crypto-asset exposures]
+55. Group 2a crypto-assets are not subject to the DRC capital requirement. In case of a stablecoin included in Group 2a, the risk of default of the redeemer and the risks arising when intermediaries perform the redemption function should be treated in line with the minimum risk-based capital requirements for credit risk in Chapters 4 and 5 of the CAR Guideline. [SCO60.82 Crypto-asset exposures]
+
+### (ii) Group 2b crypto-assets: other crypto-assets
+
+56. There is no separate trading book and banking book treatment for Group 2b crypto-assets. This treatment is intended to capture both credit and market risk, including CVA risk. In addition to direct exposures, the prudential treatment set out below also applies to:
+
+    1. Funds of Group 2b crypto-assets (e.g., Group 2b crypto-asset ETFs) and other entities, the material value of which is primarily derived from the value of Group 2b crypto-assets.
+    2. Equity investments, derivatives or short positions in the above funds or entities.
+
+    [SCO60.83 Crypto-asset exposures]
+57. For each separate Group 2b crypto-asset to which they are exposed, institutions must apply a CET1 capital deduction equal to the greater of the absolute value of the aggregate long positions and the absolute value of the aggregate short positions in the crypto-asset. That is, the capital deduction for each separate crypto-asset to which the institution is exposed is calculated as follows:
+
+    CET1 capital deduction = Max [ abs ( long exposure ) , abs ( short exposure ) ]
+
+    [SCO60.84 Crypto-asset exposures]
+58. For each crypto-asset derivative (i.e., a derivative with a Group 2b crypto-asset as the underlying asset), the exposure value used in the above formula is the value of its underlying crypto-assets. For leveraged derivatives (i.e., a derivative that returns a multiple of the value of the underlying), the exposure value of the underlying position should be adjusted upward to take account of the leverage. The exposure value calculated according to this paragraph can be capped at the maximum possible loss on the crypto-asset derivative. [SCO60.85 Crypto-asset exposures]
+59. The formula also applies a CET1 capital deduction to short positions. Institutions will be responsible for demonstrating the materiality of these risks and whether risks are materially underestimated. In those cases, the capital add-on will be calibrated by requiring institutions to calculate aggregate capital requirements under the market risk framework (applying a 100% risk weight for delta, vega, and curvature) and CVA risk framework and to use this amount if the result is higher than the CET1 capital deduction above. [SCO60.86 Crypto-asset exposures]
+
+## X. Minimum capital requirements for credit valuation adjustment risk
+
+60. This section describes how the minimum risk-based capital requirements for CVA risk are to be applied to crypto-asset derivatives exposures and material and fair-valued securities financing transactions (SFTs) referencing crypto-assets, as described in Chapter 8 of the CAR guideline. [SCO60.87 Crypto-asset exposures]
+
+### (i) Group 1a crypto-assets: tokenized traditional assets
+
+61. Derivatives and SFTs on Group 1a crypto-assets will generally be subject to the same requirements to determine CVA RWA as non-tokenized traditional assets (i.e., the requirements set out in Chapter 8 of the CAR guideline). In other words, if an institution holds a derivative or an SFT on a tokenized asset having a price close to the traditional asset and being subject to CVA risk as set out in Chapter 8 of the CAR guideline, it will be reflected in the CVA risk charge in the same way as a derivative or SFT on the non- tokenized traditional asset. [SCO60.88 Crypto-asset exposures]
+62. Institutions should assess the tokenized traditional asset itself against the current requirements set out in Chapter 8 of the CAR guideline. Qualification for a given treatment cannot be derived from the respective traditional (non-tokenized) asset. This requirement of individual assessment includes, but is not limited to, the liquidity characteristics. Different liquidity characteristics between the traditional (non-tokenized) asset and the tokenized asset could result in a higher basis risk between the two. In case of insufficient data availability to model the impact of these different liquidity characteristics on their market values, especially of the exposure underlying CVA, the SA-CVA cannot be applied for calculating CVA risk, (i.e., such tokenized assets are subject to the BA-CVA). [SCO60.89 Crypto-asset exposures]
+
+### (ii) Group 1b crypto-assets: value-referenced crypto-assets
+
+63. Derivatives of Group 1b crypto-assets will be subject to the same requirements to determine CVA RWA as non-tokenized traditional assets (i.e., the requirements set out in Chapter 8 of the CAR guideline). [SCO60.90 Crypto-asset exposures]
+
+### (iii) Group 2a crypto-assets: hedging-eligible crypto-assets
+
+64. Group 2a crypto-assets will be only subject to the requirements set out in Chapter 8 of the CAR guideline. The use of SA-CVA is not permitted for derivatives and SFTs referencing Group 2a crypto-assets. [SCO60.91 Crypto-asset exposures]
+
+### (iv) Group 2b crypto-assets: other crypto-assets
+
+65. The treatment of CVA risk for Group 2b crypto-assets is covered above in paragraphs 56-59 above. [SCO60.92 Crypto-asset exposures]
+
+## XI. Minimum capital requirements for counterparty credit risk
+
+66. This section describes how the minimum risk-based capital requirements for counterparty credit risk (CCR) are to be applied to derivatives referencing crypto-assets. [SCO60.93 Crypto-asset exposures]
+67. For SFTs, institutions should apply the comprehensive approach formula set out in the credit risk mitigation section of the SA to credit risk in Chapter 4 of the CAR guideline. As noted in paragraph 22, only Group 1a crypto-assets that are tokenized versions of the instruments included on the list of eligible financial collateral may qualify for recognition as eligible collateral. Group 1b, Group 2a, and Group 2b crypto-assets are not eligible forms of collateral in the comprehensive approach, and when received by an institution they cannot be recognized under the net exposure calculation for the counterparty collateral. As with all non-eligible collateral, institutions that lend Group 1b, Group 2a, or Group 2b crypto-assets as part of an SFT must apply the same haircut that is used for equities that are not traded on a recognized exchange (i.e., a haircut of 30%).[Footnote 5](#fn5) [SCO60.94 Crypto-asset exposures]
+
+### (i) Group 1a crypto-assets: tokenized traditional assets
+
+68. Derivatives of Group 1a crypto-assets will generally be subject to the same requirements to determine CCR as non-tokenized traditional assets (i.e., the requirements set out in Chapter 7 of the CAR guideline), which includes the Internal Models Method (IMM), where the same requirements apply for tokenized assets as for traditional assets. [SCO60.95 Crypto-asset exposures]
+69. For the cases described in the CVA risk section of this guideline, especially in the presence of significant valuation differences between the traditional and the tokenized asset and in the presence of significant basis risk, there could be limitations to apply the IMM in case of missing data or too short history or in the presence of data quality problems. This would then require institutions to apply the SA-CCR as described below for Group 2a crypto-assets. [SCO60.96 Crypto-asset exposures]
+
+### (ii) Group 1b crypto-assets: value-referenced crypto-assets
+
+70. Derivatives of Group 1b crypto-assets will be subject to the same requirements to determine CCR RWA as non-tokenized traditional assets (i.e., the requirements set out in Chapter 7 of the CAR guideline). [SCO60.97 Crypto-asset exposures]
+
+### (iii) Group 2a crypto-assets: hedging-eligible crypto-assets
+
+71. Derivatives of Group 2a crypto-assets will be subject to the SA-CCR (i.e., the requirements set out in Chapter 7 of the CAR guideline), amended by the following:
+
+    1. The replacement cost (RC) takes legally enforceable netting of all transaction types in the netting set into account, which may include derivatives of Group 2a crypto-assets.
+    2. In order to calculate the potential future exposure (PFE) add-on, a new asset class "crypto-asset" will be created in the SA-CCR.
+
+       1. The mathematical structure for calculating the PFE add-on for this asset class will be in line with the structure used in the foreign exchange asset class, but with different parameters.
+       2. There are separate hedging sets for each crypto-asset priced in applicable fiat currencies or in another Group 2a crypto-asset.
+       3. The supervisory factor calibrated in line with those for traditional assets in SA-CCR will be 32% for all crypto-asset–fiat currency and crypto-asset–crypto-asset pairs, and the supervisory option volatilities will equal 120%.
+       4. The calculation of the adjusted notional will be set to the crypto-asset's notional expressed in the domestic fiat currency of each institution. For the case of a crypto-asset priced in another crypto-asset, the larger of the two adjusted notionals will apply.[Footnote 6](#fn6)
+       5. The calculation of the supervisory delta adjustment and the maturity factor will be the same as for the other asset classes.
+       6. The aggregation of the hedging sets PFE add-ons of class "crypto-asset" will be the same as for the other asset classes by summing up.
+
+    [SCO60.98 Crypto-asset exposures]
+
+### (iv) Group 2b crypto-assets: other crypto-assets
+
+72. For the purpose of calculating counterparty credit risk for derivative exposures that have Group 2b crypto-assets as the underlying or that are priced in units of a Group 2b crypto-asset, the exposure will be the Replacement Cost (RC) plus the Potential Future Exposure (PFE), both multiplied by the alpha factor specified in Chapter 7 of the CAR guideline, where the PFE is to be calculated as 50% of the gross notional amount. The RC should be calculated using the requirements specified in the SA-CCR framework (i.e., the requirements set out in Chapter 7 of the CAR guideline), with the exception that netting is permitted within eligible and enforceable netting sets only between exposures to the same Group 2b crypto-assets.[Footnote 7](#fn7) Netting sets containing both derivatives related to Group 2b crypto-assets and other asset transactions, should be split into two: one containing the derivatives related to crypto-assets; and one containing derivatives related to the other asset transactions. When calculating the PFE for Group 2b crypto-assets, the 50% of the gross notional amount should be applied per transaction. Group 2b crypto-assets should not form part of any hedging set. [SCO60.99 Crypto-asset exposures]
+
+## XII. Minimum capital requirements for operational risk
+
+73. The operational risk resulting from crypto-asset activities should generally be captured by the operational risk simplified standardized approach through **Adjusted Gross Income**, or by the standardized approach through the **Business Indicator** (Chapter 3 of the CAR guideline). These values should include income and expenses resulting from activities relating to crypto-assets. The standardized approach will also capture operational risk through the **Internal Loss Multiplier**, which accounts for operational losses resulting from crypto-asset activities. To the extent that operational risks relating to crypto-assets are insufficiently captured by the minimum capital requirements for operational risk and by the internal risk management process of the institution, institutions should take appropriate steps to ensure capital adequacy and sufficient resilience. [SCO60.100 Crypto-asset exposures]
+
+## XIII. Group 2 exposure limit
+
+74. Institutions' exposures to Group 2 crypto-assets are subject to an exposure limit. Institutions should apply the exposure limit to their aggregate exposures to Group 2 crypto-assets, including both direct holdings (cash and derivatives) and indirect holdings (e.g., those via investment funds, ETF/ETN, or any legal arrangements designed to provide exposures to crypto-assets). [SCO60.116 Crypto-asset exposures]
+75. An institution's total gross exposure to Group 2 crypto-assets should not exceed 5% of the institution's Net Tier 1 capital. [SCO60.117 Crypto-asset exposures]
+76. Institutions should notify OSFI if their net short positions of Group 2 crypto-assets approach 1% of Net Tier 1 capital.
+77. Breaches of the Group 2 exposure limit should not generally occur and institutions should have arrangements in place to ensure adherence with the limit. Any breach that does occur should be communicated immediately to OSFI and should be rapidly rectified. If an institution's gross exposures exceed 5% of its Net Tier 1 capital, all Group 2 crypto-asset exposures will be subject to the capital requirements that apply to Group 2b crypto-asset exposures. [SCO60.118 Crypto-asset exposures]
+78. For the purposes of assessing adherence with the Group 2 exposure limit threshold:
+
+    1. Exposures should be measured using the same methodology that applies for determining the Group 2b capital treatment outlined in this guideline. That is, exposures to all Group 2 crypto-assets (both Group 2a and Group 2b) must be measured using the higher of the absolute value of the long and short exposures in each separate crypto-asset to which the institution is exposed. Derivative exposures should be measured using a delta-equivalent methodology.
+    2. Net Tier 1 capital is defined in Chapter 2 of the CAR guideline.
+
+    [SCO60.119 Crypto-asset exposures]
+
+## XIV. Liquidity risk requirements
+
+79. For the LCR and NSFR requirements, crypto-asset exposures, including assets, liabilities, and contingent exposures, should generally follow a treatment that is consistent with existing approaches for traditional exposures with economically equivalent risks. At the same time, the treatment should also appropriately reflect the additional risks that may be present with these assets in comparison to traditional assets, and the relative lack of historical data. Accordingly, the treatment of crypto-assets largely relies on the principles and calibrations set forth in the LCR and NSFR chapters of the LAR guideline (Chapter 2 and Chapter 3, respectively). However, this guidance requires additional clarification and elaboration to address the novel and unique risks associated with crypto-assets. [SCO60.101 Crypto-asset exposures]
+
+### (i) Treatment as high-quality liquid assets (HQLA)
+
+80. Group 1a crypto-assets that are a tokenized version of HQLA as defined in Chapter 2 of the LAR Guideline may only be considered as HQLA to the extent both the underlying assets in their traditional form and the tokenized form of the assets satisfy the characteristics of HQLA in the LCR.[Footnote 8](#fn8) An example of such a Group 1a crypto-asset could be a tokenized bond that meets these HQLA eligibility criteria and temporarily resides on a distributed ledger to facilitate transfer. [SCO60.102 Crypto-asset exposures]
+81. Group 1b and Group 2 crypto-assets, by contrast, should not be considered HQLA. [SCO60.103 Crypto-asset exposures]
+
+### (ii) General considerations for the application of the LCR and NSFR frameworks
+
+82. The appropriate classification and calibration of LCR outflow and inflow rates and NSFR available stable funding (ASF) and required stable funding (RSF) factors of crypto-assets and crypto-liabilities depend on factors such as the structure of the crypto-asset or crypto-liability, its commercial function in practice and the nature of an institution's exposure to the crypto-asset or crypto-liability. [SCO60.104 Crypto-asset exposures]
+83. In general, exposures involving Group 1a crypto-assets and crypto-liabilities should be treated the same as exposures involving their equivalent non-tokenized traditional assets and liabilities, including the assignment of inflows, outflows, RSF factors and ASF factors. [SCO60.105 Crypto-asset exposures]
+84. As set out below, the LCR and NSFR treatment of exposures involving crypto-assets and crypto-liabilities varies according to whether they are:
+
+    1. tokenized claims on a bank
+    2. stablecoins
+    3. other crypto-assets
+
+    [SCO60.106 Crypto-asset exposures]
+85. **Tokenized claims on a bank**. Group 1a tokenized claims on a bank should be treated as an unsecured funding instrument when they are: (i) issued by a regulated and supervised bank; (ii) represent a legally binding claim on the bank; (iii) redeemable in fiat currency at par value; and (iv) have a stable value supported by the creditworthiness and asset-liability profile of the issuing bank rather than a segregated pool of assets. The treatment as an unsecured funding instrument is subject to the following considerations:
+
+    1. The maturity of the claim on a bank should be determined based upon the contractual redemption rights available to the holder.
+    2. For liabilities from own-issued tokenized claims on a bank:
+
+       1. The bank should assign LCR outflow rates and NSFR ASF factors based on the earliest date upon which the liability could be redeemed and the counterparty type of the holder, in accordance with the treatment of retail funding and unsecured wholesale funding in the LAR guideline.
+       2. To the extent the issuing bank can identify, at all times, the holder of the crypto-asset, then the bank should apply the applicable outflow rate and ASF factor based on the counterparty classification of the funds provider. However, the issuing bank should not treat the liabilities associated with their crypto-assets as stable retail deposits. If the issuing bank is unable to identify, at all times, the holder of the crypto-asset, it should treat the liability as unsecured wholesale funding provided by **other legal entity customers**.
+       3. Tokenized claims on a bank that are used primarily as a means of payment and created as part of an operational relationship between the issuing bank and its wholesale customers should follow the categorization methodology in paragraph 73-83 of Chapter 2 of the LAR guideline. These liabilities are not eligible for the lower outflow rate specified in paragraph 84 of Chapter 2 of the LAR guideline.
+    3. When an institution holds another bank's issuance of such a tokenized liability:
+
+       1. The holder should not recognize inflows in the LCR if the crypto-asset is not redeemable within 30 days.
+       2. The holder should not recognize inflows in the LCR and should assign a minimum RSF factor of 50% in the NSFR if the crypto-asset is held for operational purposes, in alignment with the LAR guideline. The holder may recognize inflows in the LCR and an RSF factor of 15% in the NSFR if the crypto-asset is not held for operational purposes.
+    4. Notwithstanding the clarifications above, OSFI may apply more stringent LCR and NSFR treatment if, having considered the features and liquidity risk profiles of a tokenized claim on the bank, it concludes that there may be additional liquidity risk inherent in a given liability (e.g., if some characteristics of the crypto-asset may increase the propensity of a holder to seek redemption during a period of stress, or alternatively constrain a holder from redeeming its funds, etc.). For example, this conclusion may be based upon factors including, but not limited to, the technical design of the liability (e.g., reliance on non-regulated entities as wallet providers or third-party blockchain operators and usage characteristics of stablecoins, etc.) and the local circumstances of the banking sector.
+
+    [SCO60.107 Crypto-asset exposures]
+86. **Value-referenced crypto-assets and other stablecoins**. Group 1b crypto-assets, and certain Group 2 crypto-assets[Footnote 9](#fn9) that are fully collateralized by a segregated pool of underlying assets that do not count toward the institution's stock of HQLA, should be treated similar to securities, subject to the following considerations:
+
+    1. When an institution is an issuer of a stablecoin and the asset issuance represents a legally binding claim on the institution:
+
+       1. The issuing institution should recognize 100% outflows in the LCR if the stablecoin crypto-asset is redeemable within 30 days. The issuing institution should assign an ASF factor in accordance with Chapter 3 of the LAR guideline based upon the earliest date upon which the asset could be redeemed.
+       2. The issuing institution may recognize reduced outflows in the LCR to the extent the stablecoin crypto-asset is backed by HQLA that is not included in its eligible HQLA amount, but would be unencumbered and freely available to be liquidated upon a redemption of the asset. The reduction in outflows should incorporate the haircuts specified in Chapter 2 of the LAR guideline and should not result in net inflows.
+       3. The assets segregated to support the value of the stablecoin should be assigned a minimum RSF factor for encumbered assets as specified in Chapter 3 of the LAR guideline based upon the earliest date upon which the asset could be redeemed.
+    2. When an institution holds a stablecoin on its balance sheet:
+
+       1. As non-HQLA these assets should be subject to at least an 85% RSF in the NSFR and not result in inflows under the LCR.
+       2. However, the holder of the stablecoin may recognize inflows in the LCR or a reduced RSF factor in the NSFR to the extent that, similar to a debt security, the asset has a final contractual maturity and the maturity of the asset would result in an inflow of fiat currency within the 30-day or 1-year time horizon. An institution should not assume it exercises an option to redeem the stablecoin prior to any final contractual maturity.
+    3. Funding received from crypto-asset issuers, or any other exposures associated with the reserve assets of a stablecoin, should be treated as an exposure to a financial institution (and so do not contribute any stable funding credit in the NSFR, and should be subject to 100% run-off factors in the LCR and NCCF).
+
+    [SCO60.108 Crypto-asset exposures]
+87. **Other crypto-assets**. The treatment of Group 2 crypto-assets that do not qualify for the treatment outlined in paragraphs 85 and 86 should be aligned with the treatment of other non-HQLA applicable in the LCR and NSFR frameworks, subject to the following considerations:
+
+    1. An institution that holds other Group 2 crypto-assets or loans denominated in these assets on its balance sheet should assign 100% RSF to the carrying value of these assets in the NSFR and should not recognize any inflows associated with the liquidation, redemption, or maturity of these assets.
+    2. An institution that has borrowed other Group 2 crypto-assets on an unsecured basis and has an obligation to return these assets within 30 days should apply a 100% outflow rate against the market value of the asset that should be returned to the institution's customer or counterparty, unless the obligation can be settled with certainty from the institution's own unencumbered inventory of the same Group 2 crypto-asset. Similarly, borrowings denominated in other Group 2 crypto-assets should be assigned 0% ASF in the NSFR.
+
+    [SCO60.109 Crypto-asset exposures]
+88. OSFI may also consider adjusting outflow rates and stable funding requirements to account for contingent risks that may arise due to an institution's role in issuing or transacting in crypto-assets, such as the risk that an institution may provide non-contractual liquidity support for the redemption of certain stablecoins where it is the issuer or a material service provider to protect its franchise or otherwise avoid negative signaling effects. [SCO60.110 Crypto-asset exposures]
+89. These treatments outlined in paragraphs 86 to 88 are not intended to modify the application of the LCR and NSFR frameworks where the types of exposures are not explicitly mentioned. These types of transactions include the following:
+
+    1. Derivatives where the reference asset is a crypto-asset
+    2. Secured funding and lending of fiat currency with crypto-assets as collateral
+    3. Collateral swaps involving crypto-assets
+    4. Commitments to lend crypto-assets
+
+    [SCO60.111 Crypto-asset exposures]
+90. For the transactions listed in paragraph 89, the treatment should align with the existing LCR and NSFR frameworks, which generally applies consistently for all non-HQLA instruments. [SCO60.112 Crypto-asset exposures]
+
+## XV. Leverage ratio requirements
+
+91. Consistent with the Leverage Requirements Guideline, crypto-assets are included in the leverage ratio exposure measure according to their value for financial reporting purposes, based on applicable accounting treatment for exposures that have similar characteristics. For the cases where the crypto-asset exposure is an off-balance sheet item, the relevant credit conversion factor set out in the Leverage Requirements Guideline will apply in calculating the exposure measure (see paragraphs 61-75 of the Leverage Requirements Guideline). Exposures for crypto-asset derivatives should follow the treatment prescribed in the derivative exposures section of the Leverage Requirements Guideline. [SCO60.113 Crypto-asset exposures]
+92. For Group 1b crypto-assets, if the institution is involved in the crypto-asset network as a member who is able to deal directly with the redeemer and has promised to purchase crypto-assets from non-member holders, the member also needs to include the total current value of all the off-balance sheet crypto-assets that the institution could be obliged to purchase from holders (as set out in section 2.6 of [Annex 2](#Annex2)). [SCO60.114 Crypto-asset exposures]
+
+## XVI. Large exposures requirements
+
+93. For large exposures purposes, the treatment for crypto-assets will follow the same principles as for other exposures as set out in the B-2 Large Exposure Limits guidelines. Consistent with those requirements, crypto-asset exposures that give rise to a credit risk exposure are included in the large exposure measure according to their accounting value. The institution should identify and apply the large exposure limits to each specific counterparty or group of connected counterparties to which it is exposed under the risk-based capital framework. Where the crypto-asset exposes the institution to the risk of default of more than one counterparty, the institution should compute for each counterparty the respective amount to which it is exposed to default risk for large exposure purposes. When the crypto-asset also entails a default risk of reference assets, these will be considered for the purpose of the large exposures framework and the institution must follow the existing large exposures requirements applicable to transactions with underlying assets. Crypto-assets that do not expose institutions to default risk (such as certain physical exposures to gold, other commodities or currencies, and potentially exposures to certain crypto-assets with no issuer) do not give rise to a large exposures requirement; however, the counterparty credit risk exposures arising from derivative contracts that reference crypto-assets with no issuer will fall in the scope of the large exposure requirement. [SCO60.115 Crypto-asset exposures].
+
+## XVII. Foreign bank branch deposit requirement
+
+94. Crypto-asset exposures are not considered qualifying assets under Guideline A-10, and therefore cannot be included in the calculation of the foreign bank branch deposit.
+
+## XVIII. Risk management
+
+95. Crypto-asset exposures and activities introduce novel risks and increase certain traditional risks. [Annex 4](#Annex4) sets out risk management guidance with respect to crypto-asset exposures.
+
+## Annex 1: Classification conditions
+
+* 1.1 To be classified as Group 1a or Group 1b, crypto-assets must meet, on an ongoing basis, the classification conditions in 1.2 to 1.13 below:
+
+  [SCO60.7 Crypto-asset exposures]
+
+### (i) Classification condition 1
+
+* 1.2 **Classification condition 1:** The crypto-asset is either: (i) a tokenized traditional asset; or (ii) has a stabilization mechanism that is effective at all times in linking its value to a traditional asset or a pool of traditional assets (i.e., reference assets). [SCO60.8 Crypto-asset exposures]
+* 1.3 Tokenized traditional assets will only meet classification condition 1 if they satisfy all of the following requirements:
+
+  1. They are digital representations of traditional assets using cryptography and DLT, or similar technology to record ownership.
+  2. They pose the same level of credit and market risk as the traditional (non-tokenized) form of the asset. In practice, this means the following for tokenized traditional assets:
+
+     1. **Bonds, loans, claims on banks (including in the form of deposits, equities and derivatives)**.[Footnote 10](#fn10) The crypto-asset must confer the same level of legal rights as ownership of these traditional forms of financing (e.g., rights to cash flows, claims in insolvency). In addition, there should be no feature of the crypto-asset that could prevent obligations to the institution being paid in full when due as compared with a traditional (non-tokenized) version of the asset.
+     2. **Commodities**. The crypto-asset must confer the same level of legal rights as traditional account-based records of ownership of a physical commodity.
+     3. **Cash held in custody**. The crypto-assets should confer the same level of legal rights as cash held in custody.
+
+  [SCO60.9 Crypto-asset exposures]
+* 1.4 Crypto-assets do not meet the condition set out in section 1.3(ii) if they:
+
+  1. first need to be redeemed or converted into traditional assets before they receive the same legal rights as direct ownership of traditional assets; or
+  2. through their specific construction, they involve additional counterparty credit risks relative to traditional assets.
+
+  [SCO60.10 Crypto-asset exposures]
+* 1.5 Crypto-assets that have a stabilization mechanism will only meet classification condition 1 if they satisfy all of the following requirements:
+
+  1. The crypto-asset is designed to be redeemable for a predefined amount of a reference asset or assets (e.g., 1 USD, 1 oz gold) or cash equal to the current market value of the reference asset(s) (e.g., USD value of 1 oz gold). The value of the reference asset(s) to which one unit of the crypto-asset is designed to be redeemable is referred to as the "peg value".
+  2. The stabilization mechanism is designed to minimize fluctuations in the market value of the crypto-assets relative to the peg value. In order to satisfy the "effective at all times" condition, institutions should have a monitoring framework in place verifying that the stabilization mechanism is functioning as intended.
+  3. The stabilization mechanism enables risk management similar to the risk management of traditional assets, based on sufficient data or experience. For newly established crypto-assets, there may be insufficient data and/or practical experience to perform a detailed assessment of the stabilization mechanism. Institutions must document the assessment they conducted, and the evidence used to determine the effectiveness of the stabilization mechanism, including the composition, valuation and frequency of valuation of the reserve asset(s) and the quality of available data. This information must be made available to OSFI on request.
+  4. There exists sufficient information that institutions use to verify the ownership rights of the reserve assets upon which the stable value of the crypto-asset is dependent. In the case of underlying physical assets, institutions should verify that these assets are stored and managed appropriately. This monitoring framework should function regardless of the crypto-asset issuer. Institutions may use the assessments of independent third parties for the purposes of verification of ownership rights only if they are satisfied that the assessments are reliable.
+  5. The crypto-asset passes the redemption risk test set out in section 1.6 and the issuer is supervised and regulated by a supervisor that applies prudential requirements to the issuer that are comparable to OSFI's capital and liquidity requirements.
+
+  [SCO60.11 Crypto-asset exposures]
+* 1.6 **Redemption risk test.** The objective of this test is to ensure that the reserve assets are sufficient to enable the crypto-assets to be redeemable at all times for the peg value, including during periods of extreme stress. To pass the redemption risk test, the institution should ensure that the crypto-asset arrangement meets the following conditions:
+
+  1. **Value and composition of reserve assets**. The value of the reserve assets (net all non-crypto-asset claims on these assets) should at all times, including during periods of extreme stress, equal or exceed the aggregate peg value of all outstanding crypto-assets. If the reserve assets expose the holder to risk in addition to the risks arising from the reference assets, the value of the reserve assets should sufficiently overcollateralize the redemption rights of all outstanding crypto-assets.[Footnote 11](#fn11) The level of overcollateralization should be sufficient to ensure that even after stressed losses are incurred on the reserve assets, their value exceeds the aggregate value of the peg of all outstanding crypto-assets.
+  2. **Asset quality criteria for reserve assets of crypto-assets pegged to currencies.** For crypto-assets that are pegged to one or more currencies, the following requirements must be met:
+
+     1. The reserve assets must be comprised of assets with minimal market and credit risk where:
+
+        1. the reserve assets should mainly consist of assets with short-term maturities[Footnote 12](#fn12) and high credit quality[Footnote 13](#fn13), and
+        2. the reserve assets should have a proven record of relative stability in market terms (e.g., low volatility of traded prices and spreads) even during stressed periods.
+     2. The assets must be capable of being liquidated rapidly with minimal adverse price effect where:
+
+        1. each reserve asset has a proven record as a reliable source of liquidity in the markets even during stressed market conditions, and those that are marketable securities are traded in large, deep, and active markets;
+        2. if the price of a reserve asset is determined by a pricing formula, the formula must be easy to calculate and not depend on improbable assumptions. The inputs into the pricing formula must also be publicly available;
+        3. the reserve assets provide sufficient daily liquidity to meet "instant" redemption requests from the crypto-asset holders; and
+        4. the reserve assets are placed in structures that are bankruptcy remote from any party that issues, manages or is involved in the stablecoin operation, or has custody of the reserve assets[Footnote 14](#fn14).
+     3. Eligible examples of reserve assets include, but are not limited to:
+
+        1. central bank reserves to the extent that the stablecoin issuer is eligible and the central bank policies allow them to be drawn down in times of stress;
+        2. marketable securities representing claims on or guaranteed by sovereigns and central banks with high credit quality[Footnote 15](#fn15) and cash receivable from very short-term reverse repurchase agreements on the basis that they are overcollateralized by these marketable securities[Footnote 16](#fn16); and
+        3. deposits at high credit quality banks with safeguards, such as: a concentration limit applied at group level that include entities with close links; bankruptcy remoteness of the deposits from any party that issues, manages or is involved in the stablecoin operation; and the banks apply a liquidity coverage ratio comparable to that referenced in OSFI's LAR Guideline.
+     4. The reserve assets must be denominated in the same currency or currencies in the same ratios as the currencies used for the peg value. A de minimis portion of the reserve assets may be held in a currency other than the currencies used for the peg value, provided that the holding of such currency is necessary for the operation of the crypto-asset arrangement and all currency mismatch risk between the reserve assets and peg value has been appropriately hedged.[Footnote 17](#fn17)
+  3. **Asset quality criteria for reserve assets for crypto-assets not pegged to currencies.** For crypto-assets that are not pegged to currencies, the reserve assets must largely include assets presenting the same risk profile as the reference assets. That means, the reserve assets should only include the reference assets, except for a de minimis portion of the reserve assets which may be held in cash or bank deposit, provided that the holding is necessary for the operation of the crypto-asset arrangement.
+  4. **Management of reserve assets**. The governance arrangements relating to the management of reserve assets should be comprehensive and transparent. They must ensure that:
+
+     1. The reserve assets are managed and invested with an explicit legally enforceable objective of ensuring that all crypto-assets can be redeemed promptly at the peg value, including under periods of extreme stress.
+     2. A robust operational risk and resilience framework exists to ensure the availability and safe custody of the reserve assets.
+     3. A mandate that describes the types of assets that may be included in the reserve should be publicly disclosed and kept up to date.
+     4. An appropriate risk management framework exists to assess and monitor the risks of reserve assets, including but not limited to market risk, credit risk, concentration risk, and liquidity risk. Examples include on-going monitoring of deposit counterparties and custodians, daily valuation of reserve assets, and stress testing.
+     5. The composition and value of the reserve assets are publicly disclosed on a regular basis. The value and the outstanding amount of crypto-assets in circulation must be disclosed at least once every trade day and the composition must be disclosed at least weekly. This disclosed information should be verified by an independent third party at least semi-annually to confirm its completeness, fairness of valuation, and accuracy.
+     6. The composition and value of the reserve assets and the outstanding amount of crypto-assets in circulation are subject to an independent external audit at least annually to confirm they match the disclosed reserves and are consistent with the mandate.
+
+  [SCO60.12 Crypto-asset exposures]
+* 1.7 Stabilization mechanisms that: (i) reference other crypto-assets as underlying assets (including those that reference other crypto-assets that have traditional assets as underlying); or (ii) use protocols to increase or decrease the supply of the crypto-asset do not meet classification condition 1.[Footnote 18](#fn18) [SCO60.13 Crypto-asset exposures]
+
+### (ii) Classification condition 2
+
+* 1.8 **Classification condition 2**: All rights, obligations and interests arising from the crypto-asset arrangement are clearly defined and legally enforceable in all the jurisdictions where the asset is issued and redeemed. In addition, the applicable legal framework(s) ensure(s) settlement finality in both primary and secondary markets. Institutions are required to conduct a legal review of the crypto-asset arrangement to ensure this condition is met. The results of the review should be made available to OSFI upon request. [SCO60.14 Crypto-asset exposures]
+* 1.9 To meet classification condition 2, the following requirements must be met:
+
+  1. At all times the crypto-asset arrangements should ensure full transferability and settlement finality. In addition, crypto-assets with stabilization mechanisms should provide a robust legal claim against the issuer and/or underlying reserve assets and should ensure full redeemability (i.e., the ability to exchange crypto-assets for amounts of pre-defined assets such as cash, bonds, commodities, equities or other traditional assets) at all times and at their peg value. In order for a crypto-asset arrangement to be considered as having full redeemability, it should allow for the redemption to be completed within 5 calendar days of the redemption request at all times.
+  2. At all times the crypto-asset arrangements are properly documented. For crypto-assets with stabilization mechanisms, crypto-asset arrangements should clearly define which parties have the right to redeem; the obligation of the redeemer to fulfil the arrangement; the timeframe for this redemption to take place; the traditional assets in the exchange; and how the redemption value is determined. These arrangements should also be valid in instances where parties involved in these arrangements may not be located in the same jurisdiction where the crypto-asset is issued and redeemed. At all times, settlement finality in crypto-asset arrangements should be properly documented such that it is clear when the crypto-asset has become irrevocably and unconditionally transferred, transferring key financial risks from one party to another. The documentation described in this paragraph should be publicly disclosed by the crypto-asset issuer. If the offering of the crypto-asset to the public has been approved by the relevant regulator on the basis of this public disclosure, this condition will be considered fulfilled. Otherwise, an independent legal opinion would be needed to confirm this condition has been met.
+
+  [SCO60.15 Crypto-asset exposures]
+
+### (iii) Classification condition 3
+
+* 1.10 **Classification condition 3**: The functions of the crypto-asset and the network on which it operates, including the distributed ledger or similar technology on which it is based, are designed and operated to sufficiently mitigate and manage any material risks. [SCO60.16 Crypto-asset exposures]
+* 1.11 To meet classification condition 3, the following requirements must be met:
+
+  1. The functions of the crypto-asset, such as issuance, validation, redemption and transfer of the crypto-assets, and the network on which it runs, do not pose any material risks that could impair the transferability, settlement finality or, where applicable, redeemability of the crypto-asset. To this end, entities performing activities associated with these functions should follow robust risk governance and risk control policies and practices to address risks including, but not limited to: credit, market and liquidity risks; operational risk (including outsourcing, fraud, and cyber risk) and risk of loss of data; various non-financial risks, such as data integrity; operational resilience (i.e., operational reliability and capacity); third-party risk management; and Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT).[Footnote 19](#fn19)
+  2. All key elements of the network should be well-defined such that all transactions and participants are traceable. Key elements include: (i) the operational structure (i.e., whether there is one or multiple entities that perform core function(s) of the network); (ii) degree of access (i.e., whether the network is restricted or unrestricted); (iii) technical roles of the nodes (including whether there is a differential role and responsibility among nodes); and (iv) the validation and consensus mechanism of the network (i.e., whether validation of a transaction is conducted with single or multiple entities).
+
+  [SCO60.17 Crypto-asset exposures]
+
+### (iv) Classification condition 4
+
+* 1.12 **Classification condition 4**: All entities that execute redemptions, transfers, storage or settlement of the crypto-asset, or manage or invest reserve assets, must: (i) be regulated and supervised, or subject to appropriate risk management standards; and (ii) have in place and disclose a comprehensive governance framework. [SCO60.18 Crypto-asset exposures]
+* 1.13 Entities subject to condition 4 include operators of the transfer and settlement systems for the crypto-asset, wallet providers and, for crypto-assets with stabilization mechanisms, administrators of the stabilization mechanism and custodians of the reserve assets. Node validators may be subject to appropriate risk management standards as an alternative to being regulated and supervised. [SCO60.19 Crypto-asset exposures]
+
+## Annex 2: Examples of credit risk and minimum capital requirements associated with Group 1b crypto-assets
+
+* 2.1 **Risk from reference asset**: If the reference asset for a Group 1b crypto-asset gives rise to credit risk (e.g., a bond), institutions may suffer a loss from the default of the reference asset's issuer. Institutions should therefore include in credit RWA the RWA that would apply under Chapter 4 or 5 of the CAR guideline to a direct holding of the reference asset. If the reference asset gives rise to foreign exchange or commodities risk (e.g., foreign currency denominated financial assets or physical commodities), institutions must calculate market RWA for the exposure equal to the market RWA that would apply under Chapter 9 of the CAR guideline to a direct holding of the underlying traditional asset. [SCO60.32 Crypto-asset exposures]
+* 2.2 For Group 1b crypto-assets that reference a pool of traditional assets, institutions should apply the requirements applicable to equity investments in funds to determine the RWA applicable for a direct holding of the referenced pool of traditional assets, as required above. The look-through approach and the mandate-based approach of the CAR guideline are available for crypto-assets that fulfil all the requirements for these approaches. Otherwise, the simplified approach (i.e., a CET1 capital deduction) should be applied. [SCO60.33 Crypto-asset exposures]
+* 2.3 **Risk of default of the redeemer**. Group 1b crypto-assets must be redeemable and if the entity that performs the redemption function (the "redeemer") fails, the crypto-assets may become worthless. The capital treatment of institutions' exposures to the redeemer depends on the nature of the exposures:[Footnote 20](#fn20)
+
+  1. If the institution holding the crypto-asset has an unsecured claim on the redeemer in case of default, the institution should calculate credit RWA for its exposure to the redeemer. The credit RWA in this case should be equal to the RWA that would apply to a direct unsecured loan to the redeemer. For this purpose, the loan amount should equal the redemption claim (i.e., peg value) of the crypto-asset.
+  2. If the institution holding the crypto-asset has a secured claim on the redeemer in case of default, the institution should calculate credit RWA for its exposure to the redeemer. The credit RWA in this case should equal to the RWA that would apply to a direct secured loan to the redeemer. For this purpose, the loan amount, before any recognition of credit risk mitigation, should equal the redemption claim (i.e., peg value) of the crypto-asset. All conditions on the eligibility of collateral for the purposes of recognizing credit risk mitigation set out in the CAR guideline apply.
+
+     [SCO60.34 Crypto-asset exposures]
+* 2.4 Certain Group 1b crypto-assets may be structured to avoid the crypto-asset holders being exposed to the credit risk (either directly or indirectly) of the redeemer. Institutions are not required to calculate credit RWA in respect of the risk outlined in section 2.3 if the following conditions are met:
+
+  1. The underlying reserve assets are held in a bankruptcy remote special purpose vehicle (SPV) on behalf of the holders of crypto-assets who have direct claims on the underlying reserve asset(s).
+  2. The institution has obtained an independent legal opinion for all laws relevant to involved parties, including the redeemer, the SPV and custodian, affirming that relevant courts would recognize underlying assets held in a bankruptcy remote manner as those of the crypto-asset holder.
+
+     [SCO60.35 Crypto-asset exposures]
+* 2.5 **Risks arising when intermediaries perform the redemption function**. Group 1b crypto-assets may be structured such that only a subset of holders ("members") are allowed to transact directly with the redeemer to redeem the crypto-asset. Holders that cannot transact directly with the redeemer ("non-member holders") are therefore reliant on the members for the crypto-assets to maintain their value relative to the reference asset. This type of structure itself may include variants, for example:
+
+  1. The members may issue a legally binding commitment to buy crypto-assets from non-member holders at a price equal to the reference asset(s).
+  2. The members may not make a commitment, but may be incentivized to purchase the crypto-assets from non-member holders because they know they can exchange them with the redeemer for cash/assets (as long as the redeemer does not fail).
+
+     [SCO60.36 Crypto-asset exposures]
+* 2.6 Institutions that are members of crypto-asset arrangements, as describe in section 2.5 above, must calculate RWA for their own crypto-asset holdings in the same way as required for holders in crypto-assets arrangements in which all holders can deal directly with the redeemer (i.e., as set out in sections 2.3 and 2.4 above). In addition, member institutions may be exposed to the risk that the redeemer fails and they are committed to purchase crypto-assets from non-member holders. In such cases, a member institution should also include the RWA that would apply if the institution held all of the crypto-assets that it could be obliged to purchase. Even if there is no legal obligation for a member institution to purchase crypto-assets from non-member holders, institutions should consider whether in practice the member institution would be obliged to step-in and purchase them in order to satisfy the expectations of non-member holders and protect the institution's reputation. Where such step-in risk exists, institutions should include within RWA the amount that would apply if legally binding commitments have been made. Exceptions would only be made if the institution can demonstrate to OSFI that such step-in risk does not exist. [SCO60.37 Crypto-asset exposures]
+* 2.7 The risks to institution holders of crypto-assets that cannot deal directly with the redeemer (i.e., non-member holders) depend on whether the members have committed to purchase crypto-assets from all non-member holders in unlimited amounts (i.e., they have made a standing and irrevocable offer to purchase all outstanding crypto-assets from non-member holders):
+
+  1. If members have committed to buy crypto-assets in unlimited amounts, the non-member holders are exposed to:
+
+     1. the risk arising from the changing value or potential default of the reference asset; and
+     2. the risk that all members default, leaving non-member holders with no way to redeem their crypto-assets. When institutions are non-member holders they must sum the RWA calculated for the two risks. The first risk should be calculated as the RWA that would arise from a direct exposure to the underlying (see section 2.1). The calculation of the RWA for the default of the members is more complex given that there may potentially be multiple members that have made commitments to purchase the crypto-assets (i.e., the holder can choose whether to sell the crypto-asset to any one of a number of members). If there is just one member, the RWA should be calculated as the crypto-asset holding multiplied by the risk weight applicable to an unsecured loan to the member. If there are multiple members, the risk weight to be used should be the risk weight that would be applicable to an unsecured loan to the member with the highest credit rating (i.e., lowest risk weight).[Footnote 21](#fn21)
+  2. If members have not committed to purchase crypto-assets in unlimited amounts from all non-member holders, the latter are exposed to:
+
+     1. the risk arising from the changing value or potential default of the reference asset;
+     2. the risk that all the members default, leaving non-member holders with no way to redeem their crypto-assets; and
+     3. the risk that the redeemer defaults (because if it failed, the members would no longer have the incentive to purchase the crypto-assets from the non-member holders). In such cases, the non-member institution holder should include in RWA the sum of RWA for all three separate exposures. The RWA for the first two risks must be calculated in the same way as described in (i) above. The RWA for the third risk should be calculated as the RWA that would arise from a direct loan to the redeemer.
+
+  [SCO60.38 Crypto-asset exposures]
+* 2.8 Group 1b crypto-assets, including those that can be redeemed for traditional instruments that are included on the list of eligible financial collateral, are not eligible forms of collateral in themselves for the purposes of recognition as credit risk mitigation. This is because, as outlined above, the process of redemption may add counterparty risk that is not present in a direct exposure to a traditional asset. [SCO60.39 Crypto-asset exposures]
+
+## Annex 3: Group 2a hedging recognition criteria
+
+* 3.1 Institutions which are not subject to the market risk framework in Chapter 9 of the CAR guideline should categorize all Group 2 crypto-asset exposures as Group 2b.
+* 3.2 Group 2 crypto-assets that meet all three of the following hedging recognition criteria and where the institution adheres to the market risk framework in Chapter 9 of the CAR guideline, may be classified as Group 2a:
+
+  1. The institution's crypto-asset exposure is one of the following:
+
+     1. A direct holding of a spot Group 2 crypto-asset where there exists a derivative or exchange-traded fund (ETF)/exchange-traded note (ETN) that solely references the crypto-asset and that is traded on a regulated exchange and, in the case of a derivative, is cleared through a qualifying central counterparty (QCCP).
+     2. A derivative or ETF/ETN that references a Group 2 crypto-asset, where the derivative or ETF/ETN has been explicitly approved by a jurisdiction's markets regulators for trading or the derivative is cleared by a QCCP.[Footnote 22](#fn22)
+     3. A derivative or ETF/ETN that references a derivative or ETF/ETN that meets criterion (b) above.
+     4. A derivative or ETF/ETN that references a crypto-asset-related reference rate published by a regulated exchange that clears trades using this reference rate through a QCCP.
+  2. The institution's crypto-asset exposure, or the crypto-asset referenced by the derivative or ETF/ETN, is highly liquid. Specifically, both of the following must apply:
+
+     1. The average market capitalization was at least $10 billion USD over the previous year.
+     2. The 10% trimmed mean of daily trading volume with major fiat currencies is at least $50 million USD over the previous year.
+  3. Sufficient data is available over the previous year. Specifically, both of the following must apply:
+
+     1. There are at least 100 price observations over the previous year. The price observations should be "real" as defined in the criteria of Chapter 9 of the CAR guideline.
+     2. There are sufficient data on trading volumes and market capitalization.
+
+     [SCO60.55 Crypto-asset exposures]
+* 3.3 The capital requirements for Group 2a crypto-assets can be calculated according to a modified version of the SA in the market risk framework set out in paragraphs 39 to 55 of this guideline. [SCO60.56 Crypto-asset exposures]
+
+## Annex 4: Risk management
+
+* 4.1 Crypto-asset exposures and activities introduce new kinds of risk and increase certain traditional risks. Institutions with direct or indirect exposures or that provide related services to any form of crypto-asset should establish policies and procedures to identify, assess and mitigate the risks (including operational risks, credit risks, liquidity risks including funding concentration risk, and market risks) related to crypto-assets or related activities on an ongoing basis. The policies and procedures followed by institutions for crypto-asset activities should be informed by existing OSFI guidance on operational risk. In accordance with these policies and procedures, institutions' operational risk management practices should include, but are not limited to, conducting assessments of these risks (i.e., how material these risks are, and how they are managed) and taking relevant mitigation measures to improve their operational resilience capabilities (specifically regarding information, communication, and technology (ICT) and cyber risks). The decision to hold crypto-assets (either under trading or banking book) and provide services to crypto-asset operators should be fully consistent with the institution's risk appetite and strategic objectives as set down and approved by the board, as well as with senior management's assessment of the institution's risk management capabilities, in particular for market and counterparty risk (including CVA), liquidity risk (including funding concentration risk) and operational risk. [SCO60.121 Crypto-asset exposures]
+* 4.2 Considering the particular features of crypto-assets and their markets as well as the potential difficulties in adopting standard arrangements for managing related market risk and counterparty risk including credit valuation adjustment risk, institutions should conduct ex-ante a prudent assessment of any crypto-asset exposures they intend to take on and verify the adequateness of existing processes and procedures. The institution should have a sound risk management approach for managing the risks of crypto-assets, including limits and hedging strategies, together with clearly assigned responsibilities for the management of these risks. [SCO60.122 Crypto-asset exposures]
+* 4.3 Institutions should also inform OSFI of their policies and procedures, assessment results, as well as their actual and planned crypto-asset exposures or activities in a timely manner and to demonstrate that they have fully assessed the permissibility of such activities, the associated risks and how they have mitigated such risks. [SCO60.123 Crypto-asset exposures]
+* 4.4 The mapping of risks relating to crypto-asset activities to the risk categories in the CAR guideline (credit risk, market risk, and operational risk, in particular) depends on how these risks manifest. Many of the risks introduced or increased by crypto-asset activities are covered by the operational risk framework. A mapping of the technological risks of crypto-assets to the CAR guideline risk categories would depend on the circumstances. If the triggering event leading to a loss is due to processes or systems outside of the institution's control and the loss to the institution manifests through the value of the institution position in crypto-assets, such losses would be covered by the credit risk framework (for banking book positions) or the market risk framework (for trading book positions). When losses result from inadequate or failed processes, people or systems of the institution (e.g., loss of a private cryptographic key by the institution), such losses would be operational losses. [SCO60.124 Crypto-asset exposures]
+* 4.5 Risks that institutions need to consider in their risk management of crypto-assets activities include, but are not limited to, the following:
+
+  1. **Crypto-asset technology risk**: Institutions should closely monitor the risks inherent to the supporting technology, whether crypto-asset activities are conducted directly or through third parties, including but not limited to:
+
+     1. **Stability of the DLT or similar technology network**: The reliability of the source code, governance around protocols and integrity of the technology are among key factors related to stability of the network. Key considerations include capacity constraints, whether self-imposed or due to insufficient computing resources; digital storage considerations; scalability of the underlying ledger technology; whether the underlying technology has been tested and had time to mature in a market environment; and robust governance around changes to the terms and conditions of the distributed ledger or crypto-assets (e.g., so-called "forks" that change the underlying "rules" of a protocol). In addition, the type of consensus mechanism (i.e., for a transaction to be processed and validated) is an important consideration as it relates to the security of the network and whether it is safe to accept a transaction as "final."
+     2. **Validating design of the DLT, permissionless or permissioned**: Crypto-assets may rely on a public ("permissionless") ledger, whereby the validation of transactions can be done by any participating agent, or distributed among several agents or intermediaries, which could be unknown to the users. In contrast, a private ("permissioned") ledger restricts and pre-defines the scope of validators, with the validating entities known to the users. On a permissionless ledger, there may be less control of technology and on a permissioned ledger there may be a small group of validators with greater control. Risks related to the validating design of the DLT include the accuracy of the transaction records, settlement failure, security vulnerabilities, privacy/confidentiality, and the speed and cost of transaction processing.
+     3. **Service accessibility**: One of the distinguishing features of crypto-assets is its accessibility to holders of these assets. A holder of crypto-assets is assigned a set of unique cryptographic keys, which allow that party to transfer the crypto-assets to another party. If those keys are lost, a holder will generally be unable to access the crypto-assets. This increases the possibility of fraudulent activities such as a third-party gaining access to cryptographic keys and using the keys to transfer the crypto-asset to themselves or another unauthorized entity. Furthermore, the risk of a large-scale cyber-attack could leave institutions' customers unable to access or recover crypto-asset funds.
+     4. **Trustworthiness of node operators and operator diversity**: Since the underlying technology and node operators facilitate the transfer of crypto-assets and keep records of transactions that take place across the network, their role is essential in designating and sizing the amounts that are held by the holder. Whether nodes are run by a single operator or are distributed among many operators and whether the operators are trustworthy (e.g., whether the nodes are run by public/private institutions or individuals) are relevant considerations in third-party risk management.
+  2. **General information, communication, and technology (ICT) and cyber risks**: An institution holding crypto-assets may be exposed to additional ICT and cyber risks that include but are not limited to cryptographic key theft, compromise of login credentials, and distributed denial-of-service (DDoS) attacks. The results of ICT failure and cyber threats may lead to consequences such as unrecoverable loss or unauthorized transfers of crypto-assets.
+  3. **Legal risks:** Crypto-asset activities are still recent and quickly evolving. Thus, their legal framework remains uncertain and institutions' legal exposure is heightened, especially in the following dimensions:
+
+     1. **Accounting:** There may be legal risk arising from a lack of accounting standards for crypto-assets, which could result in fines due to the underpayment of taxes or failure to comply with tax reporting obligations.
+     2. **Taking control/ownership:** There is substantial legal uncertainty around crypto-assets, which could raise questions as to whether institutions that take crypto-assets as collateral can take possession in the event of default/margin call.
+     3. **Disclosure and consumer protection:** Institutions that issue/redeem or provide dealer or advisor services for crypto-assets can face legal risk around the disclosures they provide for the crypto-assets (including crypto-assets that are considered to be securities), particularly as regulations and laws continue to evolve (e.g., those around data privacy and data retention).
+     4. **Uncertain legal status:** Jurisdictions can decide (and have decided) to ban crypto-asset mining for a variety of reasons, including its environmental impact. Such developments could reduce the amount of computing power available to secure a network.
+  4. **Money laundering and financing of terrorism:** Institutions in their role of providing banking services to Virtual Asset Service Providers (VASP) or to customers involved in Virtual Asset activities, or through engaging in VASP activities themselves need to apply the risk-based approach as set out by the Financial Action Task Force (FATF) for the purposes of Anti-Money Laundering (AML) and Countering the Financing of Terrorism (CFT). Inadequate compliance with AML or CFT laws (including sanctions) and best practices could result in operational losses and reputational damages for institutions.
+  5. **Valuation:** Many crypto-assets pose valuation challenges, due (among other things) to their volatility and variable pricing on different exchanges, particularly given that most of the crypto-assets are currently traded on unregulated marketplaces. These challenges can result in losses for institutions in a variety of contexts tied to mispricing due to inadequate operational processes.
+
+  [SCO60.125 Crypto-asset exposures]
+* 4.6 OSFI may impose additional capital charges on individual institutions for risks not sufficiently captured under the minimum capital requirements for operational risk, credit risk, or market risk. Also, add-ons may be needed in cases where the institution's risk management of crypto-assets is considered inadequate. OSFI may request institutions to provision for losses related to crypto-assets where such losses are foreseeable and estimable. Finally, OSFI may impose mitigation or other measures on institutions, such as requiring an institution to establish an internal limit to contain the risks not adequately identified or assessed in the institution's risk management framework. [SCO60.127 Crypto-asset exposures]
+
+## Footnotes
+
+Footnote 1
+:   See the **Capital treatment for Group 2 crypto-assets** section of this guideline.
+
+    [Return to footnote 1  referrer](#fn1-rf)
+
+Footnote 2
+:   See the **Liquidity risk requirements** section of this guideline for applicable liquidity treatment.
+
+    [Return to footnote 2  referrer](#fn2-rf)
+
+Footnote 3
+:   Based on the [Financial Stability Board's](https://www.fsb.org/work-of-the-fsb/financial-innovation-and-structural-change/crypto-assets-and-global-stablecoins/) definition of a stablecoin.
+
+    [Return to footnote 3  referrer](#fn3-rf)
+
+Footnote 4
+:   That is, distinct risk factors need to be considered for identical contracts traded on different exchanges or at different tenors, so that no perfect offsetting is permitted between risk factors arising from different exchanges or different tenors.
+
+    [Return to footnote 4  referrer](#fn4-rf)
+
+Footnote 5
+:   Paragraph 239 of Chapter 4 of the CAR guideline
+
+    [Return to footnote 5  referrer](#fn5-rf)
+
+Footnote 6
+:   If pairs to the domestic currency are not actively traded, the most liquid fiat currency needs to be taken with foreign exchange spot rates against the domestic fiat currency.
+
+    [Return to footnote 6  referrer](#fn6-rf)
+
+Footnote 7
+:   The replacement cost is subject to a floor of zero.
+
+    [Return to footnote 7  referrer](#fn7-rf)
+
+Footnote 8
+:   Note that to be considered in the LCR's stock of HQLA, these assets should also satisfy the operational requirements in LAR Chapter 2.
+
+    [Return to footnote 8  referrer](#fn8-rf)
+
+Footnote 9
+:   Value-referenced crypto-assets that do not qualify as Group 1b crypto-assets due to redemption restrictions outlined in Annex 1, section 1.6 (i.e., minimum notice periods) will be included in Group 2. They will, however, be eligible for the treatment outlined in this paragraph provided they satisfy all criteria for classification under Group 1b except the requirement to be redeemable at all times.
+
+    [Return to footnote 9  referrer](#fn9-rf)
+
+Footnote 10
+:   Bank-issued tokenized payment assets that are backed by the general assets of the bank and not by a pool of reserve assets may be referred to as stablecoins. These assets may be included in Group 1a provided they meet all the requisite conditions and would not be assigned to Group 1b based solely on their commonly used name.
+
+    [Return to footnote 10  referrer](#fn10-rf)
+
+Footnote 11
+:   For example, consider a crypto-asset that is redeemable for a given currency amount (i.e., the currency amount is the reference asset) but is backed by bonds denominated in the same currency (i.e., the bonds are the reserve asset). The reserve assets will give rise to credit, market and liquidity risks that may result in losses relative to the value of the reference asset.
+
+    [Return to footnote 11  referrer](#fn11-rf)
+
+Footnote 12
+:   OSFI may specify: (i) a maximum maturity limit for individual reserve assets; and/or (ii) a portfolio weighted average maturity limit for a pool of reserve assets. In case OSFI allows longer-term assets as reserve assets, the level of overcollateralization should be sufficient to cover potential declines in those asset values so that the crypto-assets remain redeemable at all times for the peg value, including during stressed periods and periods of volatile markets.
+
+    [Return to footnote 12  referrer](#fn12-rf)
+
+Footnote 13
+:   These include: (i) marketable securities representing claims on or guaranteed by sovereigns or central banks with a low risk of default (e.g., subject to a 0% risk weight under the standardized approach to credit risk or equivalent; or subject to a non-0% risk weight to the extent that the crypto-asset is pegged to the domestic currency of the sovereign or central bank); and (ii) deposits at highly-rated banks with a low risk of default.
+
+    [Return to footnote 13  referrer](#fn13-rf)
+
+Footnote 14
+:   In the case of cash deposits in a bank that only provides custody services to the stablecoin, such cash deposits are not required to be bankruptcy remote from that bank, subject to it being a prudentially regulated bank that meets the conditions set out in section 1.6(ii)(c)(3).
+
+    [Return to footnote 14  referrer](#fn14-rf)
+
+Footnote 15
+:   For example, securities referred to in paragraph 43(c) of Chapter 2 of the LAR guideline can be considered, as well as securities representing claims on or guaranteed by sovereign or central bank with a non-0% risk weight under the standardized approach to credit risk, to the extent that the crypto-asset is pegged to the domestic currency of that sovereign or central bank.
+
+    [Return to footnote 15  referrer](#fn15-rf)
+
+Footnote 16
+:   The following are excluded from the calculation of eligible reserve assets: (i) cash received from repurchase agreements and similar securities financing transactions, which expand the balance sheet and, thus, increase leverage at the stablecoin issuer; and (ii) securities received from collateral swaps, which can allow lower quality or less liquid securities to be temporarily swapped for higher quality or more liquid securities. At national discretion, the cash or securities received from these transactions may still be permitted provided that sufficient regulatory safeguards, such as unwind mechanisms in the short-term horizon, are in place and the cash or securities lent or posted are not included in the eligible reserve assets calculation to avoid these outcomes.
+
+    [Return to footnote 16  referrer](#fn16-rf)
+
+Footnote 17
+:   In case of hedging, the collateral used in credit support annex agreements should be encumbered and be subtracted from what is considered reserve asset funds.
+
+    [Return to footnote 17  referrer](#fn17-rf)
+
+Footnote 18
+:   Crypto-assets that use protocols to maintain their value are in some cases referred to as "algorithm-based stablecoins".
+
+    [Return to footnote 18  referrer](#fn18-rf)
+
+Footnote 19
+:   Example of these entities include, but are not limited to: issuers, operators of the transfer and settlement systems for the crypto-asset; administrators of the crypto-asset stabilization mechanism and custodians of any underlying assets supporting the stabilization mechanism.
+
+    [Return to footnote 19  referrer](#fn19-rf)
+
+Footnote 20
+:   The capital requirements outlined in this section relate to the calculation of credit RWA. The sections relating to market risk RWA note that credit RWA should be calculated for instruments in the trading book that give rise to credit risk as a result of potential default of the redeemer.
+
+    [Return to footnote 20  referrer](#fn20-rf)
+
+Footnote 21
+:   For example, consider the situation in which there is only one member and it has a high credit rating (and therefore a low risk weight). Its low risk weight should be used to determine the credit risk of non-member holders. Now consider an additional member is added that has a low credit rating (and therefore a high risk weight). The addition of this new member does not increase the risk to non-member holders (in fact it decreases it by giving them more options for redeeming their assets). Thus, the low risk weight of the first member can continue to be used to determine the credit risk to non-member holders.
+
+    [Return to footnote 21  referrer](#fn21-rf)
+
+Footnote 22
+:   For derivatives or ETF/ETN that reference multiple crypto-assets, the portfolio allocation must consist of at least 75% crypto-assets that meet the hedging criteria described in this annex.
+
+    [Return to footnote 22  referrer](#fn22-rf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-10-29

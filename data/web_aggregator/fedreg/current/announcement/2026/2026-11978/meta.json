@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-11978",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/15/2026-11978/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company",
+  "reference_number": "2026-11978",
+  "published_date": "2026-06-15",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:094f2cf2c21dc1bfe58c24953a11d44fd56a5084db57657c4c1592d71771a3bd",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-11978",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

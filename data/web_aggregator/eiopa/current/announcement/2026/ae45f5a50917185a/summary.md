@@ -1,0 +1,1 @@
+Summary: The Joint Committee also undertakes work related to other cross-sectoral issues, such as the regulation of benchmarks, structured financial products (securitisation), credit rating agencies and others.

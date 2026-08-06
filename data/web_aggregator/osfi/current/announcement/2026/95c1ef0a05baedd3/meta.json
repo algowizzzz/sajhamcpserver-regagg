@@ -1,0 +1,25 @@
+{
+  "doc_id": "95c1ef0a05baedd3",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Rapport sur les principaux param\u00e8tres d\u2019\u00e9valuation \u2013 Soci\u00e9t\u00e9s d\u2019assurances multirisques | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/rapport-sur-principaux-parametres-devaluation-societes-dassurances-multirisques-0",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:702cbefa4f746e25854236b84b9a92f5cde0277a975d56db014aa72ea7ec14a4",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/95c1ef0a05baedd3",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

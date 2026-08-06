@@ -1,0 +1,376 @@
+# Deposit Liabilities (K4)
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Deposit Liabilities (K4)
+
+Last updated
+
+July 2019
+
+Return number
+
+K4
+
+## Return files
+
+[K4 - Sample return (XLS, 104 KB)](/sites/default/files/import-media/data_and_forms/sample-return/2023-06/en/K4_2020.xls "K4_2020.xls") [K4 - Validation rules (XLSX, 62.70 KB)](/sites/default/files/documents/k4-validation-en.xlsx "k4-validation-en.xlsx") [Change control log](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/change-control-log-k4 "Change Control Log (K4)")
+
+## Deposit liabilities classified by institutional sector
+
+### Purpose
+
+This return provides a detailed breakdown of the deposit liabilities of deposit-taking institutions.
+
+### Statutory
+
+Sections 628 and 600 of the Bank Act and Section 495 of the Trust and Loans Companies Act.
+
+### Application
+
+This return applies to all institutions.
+
+### Publication
+
+Information from this return is published in the Bank of Canada Banking and Financial Statistics on a total-for-all- institutions basis.
+
+### Frequency
+
+Monthly.
+
+### Contact person
+
+Provide name and phone number of person to contact regarding any questions about this return.
+
+### Reporting dates
+
+This return is to be completed within 30 days of the calendar month .
+
+### Contact agency
+
+OSFI.
+
+## General instructions
+
+This return classifies deposit liabilities as reported in Liability Items 1 and 2 on the balance sheet.
+
+Accrued interest on deposits is **not** to be included in this return.
+
+Deposit liabilities booked both in and out of Canada are to be included. All deposits of non-residents are to be reported separately on this return.
+
+The concept of institutional sectors used in this return conforms with the definitions of financial flow sector accounts detailed in the attached Definition of Financial Flow Sectors. This concept is also used in the Non-Mortgage Loans Report and the Return of Securities Classified by Institutional Sector.
+
+Please ensure that the figures in this return reconcile with the institution's balance sheet.
+
+Note that deposits with Acquired Securities Subsidiaries are reported separately on line 5.
+
+## Deposit liabilities
+
+### 1. Canadian Governments
+
+#### (a) Federal
+
+**Include:**
+
+all emanations of the federal government that do not have their own borrowing authority.
+
+**Exclude:**
+
+deposits of government boards, corporations and commissions that are separately constituted and carry on business enterprises.
+
+#### (b) Provincial
+
+**Include:**
+
+all emanations of the provincial governments that do not have their own borrowing authority.
+
+**Exclude:**
+
+deposits of government boards, corporations and commissions that are separately constituted and carry on business enterprises.
+
+#### (c) Municipal and School Corporations
+
+**Include:**
+
+all emanations of municipal governments and school corporations that do not have their own borrowing authority.
+
+**Other Instructions:**
+
+the total of foreign currency and Canadian currency for demand, notice and term deposits must agree with the amounts reported as deposits by municipalities on the balance sheet on lines 1(b) and 2(b).
+
+### 2. Other residents
+
+#### (a) Financial institutions
+
+##### (i) Deposit-taking institutions
+
+**Include:**
+
+chartered banks that are in Schedule I or II of the Bank Act (see SIC, Division K, Class 7021) and credit unions and caisses populaires, trust companies and mortgage loan companies (see SIC, Division K, Classes 7031, 7041, 7042, 7051, 7052 and 7099).
+
+##### (ii) Public financial institutions
+
+**Include:**
+
+the Canada Deposit Insurance Corporation, Canada Mortgage and Housing Corporation, Export Development Canada, Farm Credit Canada, Business Development Bank of Canada and ATB Financial (see SIC, Division K, Class 7029 and see conceptual overview in the Definitions of Financial Flow Sectors).
+
+##### (iii) Other financial institutions
+
+**Include:**
+
+* life insurance companies, fraternal benefit societies, property and casualty insurance companies and trusteed and other pension plans (see SIC, Division K, Class 7291, 7299 and Groups 731, 732 (non-government) and 733).
+* investment dealers (see SIC, Division K, Group 741) and mutual funds, closed-end funds, mortgage investment companies, real estate investment trusts, sales finance and consumer loan companies and other private financial institutions (such as financial leasing and venture capital companies)(see SIC, Division K, Groups 71, 72, (except class 7291 and 7299 included above) and Groups 742, 743 and 749).
+
+#### (b) Non-financial corporations
+
+##### (i) Non-financial private corporations
+
+**Include:**
+
+* all corporations and unincorporated branches of foreign corporations operating in Canada, except financial institutions and government enterprises. See SIC, Division A, Major Groups 01 and 02; Division B, Major Group 03; Division C, Major Groups 04 and 05; Division D, Major Groups 06 to 09 inclusive; Division E, Major Groups 10 to 39 inclusive; Division F, Major Groups 40 to 44 inclusive; Division G, Major Groups 45, 46 and 47; Division H, Major Groups 48 and 49; Division I, Major Groups 50 to 59 inclusive; Division J, Major Groups 60 to 69 inclusive; Division L, Major Groups 75 and 76; Division M, Major Groups 77; Division Q, Major Groups 91 to 92; and Division R, Major Groups 96, 97 and 99;
+* multiproduct conglomerates, i.e., corporations that have no one business, as cited in the codes above, that constitutes more than 50 per cent of the corporation's total activity.
+
+##### (ii) Non-financial government enterprises
+
+**Include:**
+
+* all Canadian corporations in which federal, provincial or municipal government holds at least 50 per cent of the voting stock, and any subsidiaries of those companies;
+* all separately constituted boards and commissions of government that carry on a business and have their own borrowing authority (see conceptual treatment in Definitions of Financial Flow Sectors). A list of federal and provincial enterprises and their subsidiaries compiled by Statistics Canada is included in the appendix, Definitions of Financial Flow Sectors.
+
+**Exclude:**
+
+Canada Deposit Insurance Corporation, Canada Mortgage and Housing Corporation, Export Development Canada, Farm Credit Canada, Business Development Bank of Canada and ATB Financial. These are to be reported under 2(a)(ii).
+
+#### (c) Individuals
+
+**Include:**
+
+all deposits from individuals where such deposits are of a personal nature; i.e., non-business- related.
+
+**Other Instructions:**
+
+demand deposits are to represent only personal chequing accounts; all current accounts held by individuals are to be classified as deposits of unincorporated businesses.
+
+#### (d) Unincorporated businesses and private not for profit institutions
+
+**Include:**
+
+* all deposits from individuals which are for business purposes;
+* charitable organizations, universities, clubs, etc. (including: see Division O, Groups 852, 853, 854, 855 and 859; Division P, Major Group 86 and Division R, Major Group 98).
+
+### 3. Non-residents
+
+**General Instructions**
+
+Non-residents are individuals, corporations or other organizations (including international and other extra- territorial agencies) not ordinarily resident in Canada. Residential status is to be determined by reference to the recorded address of the individual, corporation or other organization, unless the institution knows that the residential status is different from the recorded address.
+
+#### (a) Individuals
+
+**Include:**
+
+all deposits from individual non-residents where such deposits are of a personal nature; i.e., non-business-related.
+
+**Other Instructions:**
+
+demand deposits are to represent only personal chequing accounts; all current accounts held by individuals are to be classified as deposits of unincorporated business and reported as other deposits on line 3(b)(iii).
+
+#### (b) Other
+
+##### (i) Deposit-Taking Institutions
+
+**Include:**
+
+deposits of non-resident deposit-taking institutions and official monetary institutions.
+
+##### (ii) Foreign Governments
+
+**Include:**
+
+all emanations of national, state, district or municipal level governments, outside Canada, that do not have their own borrowing authority.
+
+**Exclude:**
+
+deposits of government boards, corporations and commissions that are separately constituted and carry on business enterprises. Deposits from this latter group are to be reported in 3(b)(iii) - other.
+
+##### (iii) Other
+
+**Include:**
+
+all non-residents deposits that have not been included in the aforementioned categories (individuals, deposit-taking institutions and governments).
+
+### 4. Other
+
+Bearer deposit notes and other negotiable fixed-term notes
+
+**Include:**
+
+* all bearer deposit notes; by definition, short, medium and long-term, fixed and floating deposit notes. The instrument may not be allocated to Sections 1, 2 or 3;
+* other negotiable deposit notes including covered bonds that could be transferred to third parties without the institution being informed of the new holder of the note. Such negotiable notes should not be allocated to Sections 1, 2 or 3 in the first instance;
+
+**Exclude:**
+
+* trust subordinated notes;
+* preferred shares;
+* fixed/floating debentures.
+
+### 5. Deposits with Securities Subsidiary
+
+The amounts reported here are for deposits made with Canadian securities subsidiaries that were established business concerns acquired by banks subsequent to changes in the Bank Act in 1987 (Acquired Securities Subsidiaries).
+
+### 6. Total
+
+These are the totals of all items (1) through (5) above.
+
+## Memo items
+
+### Deposits obtained through brokers/agents
+
+Deposits obtained through brokers/agents are any deposits (payable in Canadian Dollars and Foreign Currency) sourced through a third-party or through the FRFI's own wealth management/discount brokerage platforms. Year-to-date numbers should be reported for the fiscal year-to-date. Net new deposits sourced during the month and fiscal year-to-date should be reported.
+
+**Include:**
+
+* Highlighted text\*DSIB\* Owned (e.g. the wealth management platforms and full service and discount brokerages of the Highlighted text\*DSIBs\* (include all channels, including branches)), and;
+* Non-Highlighted text\*DSIB\* Owned (independent deposit brokers (e.g. financial planning firms, MFDA or IIROC members, independent brokers) or agents (e.g. insurance agents), Highlighted text\*life insurance company or other company owned brokers or agents).\*
+
+### Sources of Brokered Deposit Funding
+
+The amounts reported here are as at reporting date balances by deposit type for deposits obtained from brokers/agents.
+
+#### Demand and Notice
+
+**Include:**
+
+all demand and notice deposits (e.g. Highlighted text\*chequing, savings\*, High Interest Savings Accounts, Highlighted text\*etc\*.)
+
+#### Pre-Encashable
+
+**Include:**
+
+all pre-encashable deposits (e.g. term deposits that allow account holders to withdraw funds prior to the maturity date without penalty)
+
+#### Fixed-term
+
+**Include:**
+
+the value of brokered/agent deposits with remaining maturities within each time band as at the reporting date
+
+**Exclude:**
+
+all pre-encashable term deposits
+
+#### Highlighted text\*DSIB Owned Concentration\*
+
+**Highlighted text\*Include:\***
+
+* Highlighted text\*Total for each DSIB: total balance of deposits sourced from each DSIB (this amount should be equal to the sum of advisory and non-advisory deposits sourced from each DSIB except for in the case of NBC where the total should be equal to the sum of advisory, non-advisory and NBIN balances)\*
+* Highlighted text\*Advisory: deposits directly managed by a DSIB broker, or through the DSIB's own wealth management platform, and where the broker is acting on behalf of the retail client in an advisory role (e.g. ability to direct or influence the institution where the funds are placed).\*
+* Highlighted text\*NBIN: deposits sourced from National Bank Independent Network (NBIN)\*
+* Highlighted text\*Non-Advisory: deposits sourced from all other DSIB broker channels (e.g. discount brokerages) where the DSIB broker is not acting on behalf of the retail client in an advisory role (e.g. does not have the ability to direct or influence the institution where the funds are placed).\*
+
+#### Highlighted text\*Non-DSIB Owned Concentration\*
+
+**Highlighted text\*Include:\***
+
+* Highlighted text\*1-10: the brokered/agent deposit balances sourced from the individual top ten (or complete list of brokers/agents if ten or less) Non-DSIB Owned brokers/agents\*
+* Highlighted text\*1-10: the name of the broker/agent corresponding to the rank (1-10) of Non-DSIB owned concentrations. The name should be entered into the blank cells two columns to the right of the rank (i.e. Column F)\*
+
+#### Highlighted text\*Other\*
+
+**Highlighted text\*Include:\***
+
+* Highlighted text\*Other: the remaining balance of broker/agent deposits not included in top ten Non-DSIB owned concentration. This will be equal to zero for each deposit type if the institution has 10 or fewer brokers/agents.\*
+
+#### Highlighted text\*Total (Row)\*
+
+**Highlighted text\*Include:\***
+
+* Highlighted text\*sum of all brokered/agent deposit balances (DSIB Owned and Non-DSIB Owned) for each deposit type (demand and notice, pre-encashable, Fixed Term (0-30 days, etc.))\*
+
+#### Highlighted text\*Total (Column)\*
+
+**Highlighted text\*Include:\***
+
+* Highlighted text\*sum of all deposit type balances (demand and notice, pre-encashable, Fixed Term (0-30 days, etc.) for each DSIB entry (Total, Advisory, Non-Advisory and NBIN in the case of NBC) and each Non-DSIB entry (Top ten and Other)\*
+
+#### Highlighted text\*Total (Row and Column – One entry)\*
+
+**Highlighted text\*Include:\***
+
+* Highlighted text\*Total broker concentration of DSIB and Non-DSIB owned deposits (demand and notice, pre-encashable, Fixed Term (0-30 days, etc.).\*
+
+### Number of Deposit Brokers/Agents/Agreements
+
+Include the number of active brokers/agents (those that are currently providing deposits) and the number of agreements in place with deposit brokers/agents (currently or not currently actively providing deposits), as at the reporting date.
+
+## Definitions of Financial Flow Sectors
+
+Note that the conceptual framework of Financial Flow Sectors set out below speaks only to the Canadian situation.
+
+For three returns (*Non-Mortgage Loans Assets Classified by Institutional Sector; Securities Report; and Deposit Liabilities Classified by Institutional Sector*), the concept of institutional sectors is used. These sectors and a brief explanation of them are:
+
+### I. Provincial and/or Municipal Government
+
+Include transactions with social insurance programs operated by governments (e.g., Workmen's Compensation Board), non-trusteed public service pension plans operated outside the governmental budgetary framework (e.g., Public Service Superannuation Fund (Ontario)) and public hospitals.
+
+### II. Public Financial and Non-Financial Institutions
+
+These are defined as enterprises which are of a commercial nature and charge a price for their goods and services related to their costs of production. Typically, these institutions are engaged in manufacturing, lending, insurance, transportation, communication, the provision of electric power, and the distribution of liquor through provincial liquor boards.
+
+Institutions included in this category typically are characterized by the following:
+
+(a) the institution must have a statutory basis which directs it to produce a good or a service for sale on the market at a price related cost,
+
+(b) the institution maintains financial accounts separate from those of the government which established it and charges costs of production against revenue,
+
+(c) management of the institution is relatively autonomous.
+
+Not included are organizations which:
+
+(a) are wholly or primarily engaged in the business of effective intergovernmental flows of funds (e.g., Alberta Capital Finance Authority), or
+
+(b) wholly or primarily engaged in the business of selling their output to the government which established them. Such organizations are included in their respective government sectors.
+
+#### A. Public Financial Institutions
+
+Include the Canada Deposit Insurance Corporation, Canada Mortgage and Housing Corporation, Export Development Canada, Farm Credit Canada, Business Development Bank of Canada and ATB Financial.
+
+#### B. Public Non-Financial Enterprises
+
+A list of organizations at the federal and provincial levels is provided in the manual. There is, no corresponding list at the municipal level.
+
+The determination for using the municipal category is left at the discretion of the institution.
+
+### III. Non-Financial Private Corporations
+
+Includes all corporations and unincorporated branches of foreign corporations operating in Canada, except financial institutions and government enterprises.
+
+### IV. Private Financial Institutions
+
+(a) chartered banks - self-explanatory;
+
+(b) other deposit-taking institutions - includes credit unions and caisses populaires, trust companies and mortgage loan companies;
+
+(c) other private financial institutions - includes life insurance companies, fraternal benefit societies, fire and casualty insurance companies, trusteed pension plans, investment dealers, mutual funds, closed-ends funds, mortgage investment trusts, sales finance and consumer loan companies, and other private financial institutions (such as holding companies, financial leasing companies, venture capital companies and other business finance companies).
+
+### V. Unincorporated Business
+
+Includes all businesses which are not incorporated under the law of Canada or a province and which are not unincorporated branches of foreign corporations (see III above).
+
+## Government Business Enterprises
+
+The complete list of Federal and Provincial Government Enterprises can now be found under a new section entitled Government Business Enterprises (GBE).
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-02-23

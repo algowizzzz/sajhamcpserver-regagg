@@ -1,0 +1,42 @@
+# Liquidity Coverage Ratio (LCR) Reporting (LA) — Change Control Log
+
+Information
+
+Type of document
+
+Change control log
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Liquidity Coverage Ratio (LCR) Reporting (LA)
+
+Last updated
+
+February 2026
+
+Return number
+
+LA
+
+Related documents
+
+* [Liquidity Coverage Ratio (LCR) Reporting (LA)](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/liquidity-coverage-ratio-lcr-reporting)
+
+Change control log
+
+| Amendment number | Effective reporting date | Description |
+| --- | --- | --- |
+| 1 | January 2015 | New |
+| 2 | January 2019 | **Change:**   * Instructions under Contact Person |
+| 3 | January 2020 | **Change:**   * Instructions under Contact Person |
+| 4 | April 2023 | **Change:**   * Instructions under Contact Person |
+| 5 | May 2026 | **Template:**   * Added descriptions and changed weights of placeholder DPAs 21501, 21502, and 21503. * Changed calculation weights of DPAs 71501 and 71502 * Added description of the three placeholder DPAs 21501, 21502, and 21503. * Modified the description of DPA 21117 to include ETNs and Less stable partnership deposits. * Modified paragraph references to align with LAR 2026 numbering. |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2026-02-27

@@ -1,0 +1,25 @@
+{
+  "doc_id": "53f60ef25d668330",
+  "regulator_id": "fca",
+  "doc_type": "announcement",
+  "title": "Anthropic to support FCA\u2019s Supercharged Sandbox",
+  "language": "en",
+  "source_url": "https://www.fca.org.uk/news/press-releases/anthropic-supercharged-sandbox",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9312814dc93155878d05e61d55d6560b263d5de1ed9b8b5a1e86a254810cdb8e",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fca_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fca/current/announcement/2026/53f60ef25d668330",
+  "tags": [
+    "uk",
+    "conduct",
+    "securities"
+  ]
+}

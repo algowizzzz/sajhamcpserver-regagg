@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12640",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Nasdaq Texas, LLC; Order Granting Approval of a Proposed Rule Change To Adopt Rules To Permit the Listing and Trading of Certain Exchange-Traded Products",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/24/2026-12640/self-regulatory-organizations-nasdaq-texas-llc-order-granting-approval-of-a-proposed-rule-change-to",
+  "reference_number": "2026-12640",
+  "published_date": "2026-06-24",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:645623827c353a09f38cd7de711be7672649a65d15906cf34120db240e58f326",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12640",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

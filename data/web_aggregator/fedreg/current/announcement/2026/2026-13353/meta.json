@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13353",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; NYSE National, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 7.31, Orders and Modifiers",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/02/2026-13353/self-regulatory-organizations-nyse-national-inc-notice-of-filing-and-immediate-effectiveness-of",
+  "reference_number": "2026-13353",
+  "published_date": "2026-07-02",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5c72410cf67de62a5d3aad635b999ad9a2b06e2f9ef927d7a9ce652a0317b1d6",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13353",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

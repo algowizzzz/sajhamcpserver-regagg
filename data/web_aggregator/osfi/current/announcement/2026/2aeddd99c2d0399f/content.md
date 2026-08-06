@@ -1,0 +1,214 @@
+# Earthquake Exposure Data Form Instructions
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Insurance companies
+
+Return
+
+Earthquake Exposure Data
+
+Last updated
+
+March 2026
+
+Return number
+
+OSFI659
+
+Table of contents
+
+Related documents
+
+* [2026 Memorandum - Earthquake Exposure Data](/en/guidance/guidance-library/2026-memorandum-earthquake-exposure-data)
+
+## Return files
+
+[OSFI659 - Form (sample) (XLSX, 98.82 KB)](/sites/default/files/documents/OSFI659-sample-earthquake-exposure-return-donnees-tremblements-terre-mar-2025-en.xlsx "OSFI659-sample-earthquake-exposure-return-donnees-tremblements-terre-mar-2025-en.xlsx") [OSFI659 - Form (tracked changes) (XLSX, 98.97 KB)](/sites/default/files/documents/OSFI659-earthquake-exposure-return_donnees-tremblements-terre-mar-2025-en.xlsx "OSFI659-earthquake-exposure-return_donnees-tremblements-terre-mar-2025-en.xlsx") [OSFI659 - Validation rules (XLSX, 24.38 KB)](/sites/default/files/documents/osfi659-validation-en.xlsx "osfi659-validation-en.xlsx") [OSFI659 - Sample XML (XML, 19.23 KB)](/sites/default/files/documents/osfi659-bsif659-xml-bil.xml "osfi659-bsif659-xml-bil.xml") [OSFI659 - Sample XSD (XSD, 118.19 MB)](/sites/default/files/documents/osfi659-bsif659-xsd-bil.xsd "osfi659-bsif659-xsd-bil.xsd")
+
+## Application
+
+This form applies to ALL federally regulated property and casualty insurance companies that are not mortgage insurance companies (insurers) regardless of whether the company has earthquake exposure or not. The form can be either completed on an individual company level or on a group level. Currency amounts should be in Canadian dollars or the Canadian dollar equivalent.
+
+OSFI's earthquake form is forward looking, a company needs to confirm it will have sufficient financial resources to cover its earthquake losses during the "exposure period being assessed" for the reporting year.
+
+OSFI will send an annual Memorandum – Earthquake Exposure Data, at the beginning of each year to remind companies to file for the current reporting year (i.e. current calendar year).
+
+## General instructions
+
+The following instructions are provided to assist insurers with filling in selected fields; hence instructions are not provided for every page or field in the Earthquake Exposure Data Form.
+
+### Contact person
+
+Please address questions concerning the Earthquake Exposure Data Form to your lead supervisor and to Abdoulaye Traore, Catastrophic Risk Division, by email at [Abdoulaye.Traore@osfi-bsif.gc.ca](mailto:Abdoulaye.Traore@osfi-bsif.gc.ca). For questions concerning electronic filing of this data in RRS, please email Returns Administration at [RRSsupport-SDRsoutien@osfi-bsif.gc.ca](mailto:rrssupport-sdrsoutien@osfi-bsif.gc.ca).
+
+### Group filing
+
+#### FRFI Code
+
+If the filing is done on a group level, one insurer is responsible for filing the group's earthquake exposure data. Other companies in the group are only required to provide contact information and the FRFI code of the company making the group filing in their forms.
+
+#### List and rationale
+
+If the filing is done on a group level, the company that is submitting on behalf of the group must provide the rationale to support why a group level filing is appropriate and list all federally (with FRFI code) and non-federally regulated companies included in the filing. The formally incorporated names should be used (e.g., FRFI names).
+
+### Category describing the company's[Footnote 1](#fnb1) Exposure to Earthquake Risk
+
+Some sections of the form do not apply to all companies. Refer to options A, B and C to determine which category best describes the company's exposure to earthquake risk and complete applicable sections only as instructed. Section 6 only applies to primary insurers and section 7 only applies to reinsurers. Companies with both direct and assumed business should complete section 6.
+
+### Section 2 – Elements of the reserving formula
+
+The purpose of section 2 is to provide information to demonstrate that OSFI's MCT requirements are met. To meet the MCT capital test, the following must hold: Net earthquake risk exposure ≤ (Capital and surplus + Capital market financing + Earthquake reserves). Refer to the current MCT Guideline for further details.
+
+#### Countrywide PML (PML500)
+
+Countrywide PML refers to a dollar amount that includes adjustments for data quality, non-modelled exposures and model uncertainty as outlined in Guideline B-9 Earthquake Exposure Sound Practices.
+
+#### Capital and surplus
+
+Capital and surplus corresponds to a maximum of 10% of total equity for Canadian insurers or worldwide capital and surplus in Canadian dollars for Canadian branches. Refer to the current MCT Guideline for further details.
+
+#### Section 2.1
+
+Provide an explanation if the change to PML from prior year is outside of +/- 5%.
+
+##### Renewal date for the catastrophe program
+
+The entered date must be the date of the first day from which the reinsurance program in force will no longer be applicable when completing the EQ form.
+
+#### Section 2.2
+
+##### Total reinsurance collectable
+
+Total reinsurance collectable should reconcile with the sum of catastrophe treaty collectable and other reinsurance collectable in section 2.1.
+
+### Section 3 – Model selection
+
+If one or more external models are used, specify the names and versions of the models used in section 3.1 and select Y (Yes) to indicate whether the models are operated by internal staff, reinsurance broker and/or others. If an internal model is used, provide a brief description of the company's internal estimation technique or model approach in section 3.2.
+
+### Section 4 – Non-modeled perils and model operations
+
+#### Section 4.1
+
+For each of the perils listed,
+
+* If the peril is included in the model output without post-model adjustment(s), then select Y and summarize the underlying assumptions;
+* If post-model adjustment(s) is made to the model output, then select Y, provide the dollar amount for each peril included in the model and describe your assumptions or explain why the dollar amount cannot be quantified in description fields; and
+* If the peril is not deemed necessary, then select N and provide an explanation.
+
+Refer to the [GLOSSARY OF NON-MODELLED PERILS](#glossary) at the end of the document for definitions of the non-modeled perils.
+
+Many insurers use more than one model and understand the differences in their model's results, we ask insurers to provide the data on a best efforts basis.
+
+#### Section 4.3
+
+If adjustments for data quality or model deficiencies are made to the model output, provide the dollar amount change to the PML estimate that results from these adjustments. If the Other adjustment space is used, provide a brief description in the space provided.
+
+### Section 6 – Model results for primary insurer
+
+#### Section 6.1
+
+If data in this section includes post-model adjustments in section 4, the PMLs are expected to reconcile with those reported in section 2.
+
+In general, fire property total insured value (PTIV) is expected to be greater than or equal to shake PTIV; if shake PTIV is greater than fire PTIV provide a brief explanation.
+
+For subscription policies, the reported PTIV should be the pro-rated share of the total insured value of the property being insured. If participating on an excess layer, the reported PTIV should be excess of the attachment point.
+
+#### Section 6.3
+
+Sum of PML500 from risks from insurance contracts issued (primary risks) and risks from reinsurance contracts issued (assumed risks) is expected to reconcile with section 6.1 if data are recorded on the same basis for both sections.
+
+#### Section 6.4
+
+Provide the distribution of the level of geographic location detail that best describes how original PTIV data are recorded in the company's system. When more than one level of geographic location detail is applicable, the highest level of detail should be reported (i.e., each column should sum up to 100%).
+
+#### Section 6.5
+
+Provide the number of risk locations insured by region, property category, shake and fire following (either in the basic policy or by an endorsement).
+
+Personal Property other than homeowners includes but not limited to tenants, rental dwelling, condominium, etc.
+
+There are many ways to define and count risk locations. Regardless of the method used to count risk locations, once the insurer decides upon a methodology to count risk locations, ideally the insurer would continue to use the same counting methodology when completing future earthquake forms.
+
+### Section 7 – Model results for reinsurer
+
+In Section 7.1, if data in this section includes post-model adjustments in section 4, the PMLs are expected to reconcile with those reported in section 2.
+
+## Glossary of non-modelled perils
+
+### Exposure growth
+
+Exposure growth that could arise between the date on which the data were coded in the insurer's systems and the end of the relevant exposure period being assessed.
+
+### Business interruption
+
+Coverage that pays for losses suffered by a company during the reconstruction of facilities following the interruption of business operations. These losses could be significant in the event of a major catastrophe.
+
+### Claims handling expenses
+
+Expenses related to internal or external claims handling such as the costs for claims adjusters which could increase substantially in the event of a major catastrophe.
+
+### Adequacy of insurance to value
+
+Possible underestimation of the insurer's exposure related to the inadequacy of the insured values compared to amounts payable, for instance, due to the undervalued rebuilding cost from insurers.
+
+### Guaranteed replacement cost
+
+Coverage available through an endorsement that indemnifies according to the effective repair or rebuilding costs without considering the applicable amount of coverage. Generally, some conditions must be met for this coverage to be applicable. For instance, the amount of coverage must be 80% or 100% of the replacement value recognized by the insurer as well as the rebuilding must be made at the same location with materials of similar quality and within reasonable delays after the loss.
+
+### Debris removal
+
+Coverage extension that compensates for the costs incurred for the debris removal and the site clean-up before the rebuilding in the event of a major catastrophe.
+
+### Increased seismicity after a large event
+
+Increase in the risk of having subsequent seismic tremors following a major earthquake.
+
+### Blanket coverage
+
+Coverage providing a unique and overall amount corresponding to the sum of the coverage amount for the building, detached private structure (outbuildings), contents and the additional living expenses. Some coverage may be limited or excluded in the event of an earthquake requiring the division of coverage amounts and some adjustments.
+
+### Countrywide/ World-Wide PML (Earthquake Exposure Sound Practices B-9)
+
+Earthquake PMLs should be estimated and reported to senior management and the form based on Canada wide exposure for foreign insurers or worldwide exposure for Canadian insurers, as well as any regulatory capital requirements. Therefore, insurers are expected to take account of risk which may result from exposures to more than one region.
+
+Canada wide for foreign insurers should include business reported on a company's P&C-2 by virtue of the application of Part XIII.
+
+### Coverage extensions (excluding debris removal)
+
+Extensions providing coverage for specific additional risks in the event of an earthquake. They may encompass several coverages. Here are some examples:
+
+* Repair or replacement cost for certain part of the property or the undamaged insured premises that must be removed or pulled out in order to repair the damage caused by an insured risk.
+* Loss or damage caused to trees, shreds, outdoor plants and grass on the insured premises.
+* Fees charged for the fire department intervention aiming to save and protect the insured goods against loss or damage.
+* Loss or damage to food in a fridge or a freezer located on the insured premises.
+
+### Demand surge
+
+Increase in the cost of repairs and services following the strong demand for construction materials and labor in the event of a major catastrophe.
+
+### Secondary uncertainty
+
+Uncertainty associated with the conversion from the location specific estimate of ground motion to damage levels for the PML calculation. In general, it is automatically recognized in the model outputs.
+
+### Time dependency
+
+Model parameter enabling the earthquake probability to depend upon the elapsed time after an historical event.
+
+## Footnotes
+
+Footnote 1
+:   If the filing is done on a group level, the company refers to the group for the remainder of the form.
+
+    [Return to footnote 1](#fnb1-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2026-03-20

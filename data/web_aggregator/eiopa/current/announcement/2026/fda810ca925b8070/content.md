@@ -1,0 +1,22 @@
+Page Content
+
+* *Total assets of the IORPs market equal to EUR 3.8 trillion of which 76 % can be attributed to the Netherlands and United Kingdom*
+* *On average 15 % of the working population in the European Economic Area are active members of IORPs pension scheme arrangements*
+* *Number of active cross-border IORPs unchanged but an increase in cross- border activities and multi-employer IORPs*
+
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its 2017 Market Development Report of the occupational pensions market and cross-border activities of Institutions for Occupational Retirement Provisions (IORPs) in the European Economic Area.
+
+The total assets of the market equal EUR 3.8 trillion, with the Netherlands and the United Kingdom accounting for 76 % of the IORPs total assets. The participation in occupational pensions schemes provided by IORPs continuously increased over the past years. On average, currently around 15 % of the working population in the European Economic Area, excluding France and the United Kingdom, are active members of pension scheme arrangements covered by the IORP Directive (Directive 2003/41/EC). However, there are significant differences in the coverage across the European Economic Area due to diverse national pension frameworks.
+
+The report shows a continuous shift from Defined Benefit to Defined Contribution schemes in the vast majority of Member States, triggering a transfer of financial risks and costs from employers and IORPs to scheme members.
+
+While the number of active cross-border IORPs has remained at the level of the previous years (73 at the end of 2016), more IORPs are expanding their cross-border activities in additional host countries. Furthermore, the number of cross-border IORPs established by service providers to attract multiple unconnected employers is rising.
+
+The new IORP II Directive coming into force in January 2019 and EIOPA's future processes of cooperation and exchange of information between National Competent Authorities, currently being revised, may further facilitate multi-employer and multi-country cross-border IORPs.
+
+Publication date
+:   30 January 2018
+
+## Related links
+
+[2017 Market development report on occupational pensions and cross-border IORPs](/document/download/db8c5e75-13b1-44cb-8d06-6bc7611dfd2c_en?filename=2017%20Market%20development%20report%20on%20occupational%20pensions%20and%20cross-border%20IORPs.pdf)

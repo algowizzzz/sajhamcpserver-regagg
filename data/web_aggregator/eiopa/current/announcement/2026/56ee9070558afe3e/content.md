@@ -1,0 +1,20 @@
+Page Content
+
+The three European Supervisory Authorities (ESAs) – EBA, EIOPA and ESMA – today published the results of their monitoring exercise on automation in financial advice. The Report shows that while the phenomenon of automation in financial advice seems to be slowly growing, the overall number of firms and customers involved is still quite limited. As the identified risks have not materialised and considering the limited growth of the phenomenon, the ESAs believe that no immediate action is necessary.
+
+Through this Report, the risks and benefits of this phenomenon, which had previously been identified by the ESAs have largely been confirmed by national competent authorities (NCAs) and remain valid.
+
+In examining emerging business models, the ESAs found that automated services are being offered, through partnerships, by established financial intermediaries, rather than by pure FinTech firms. Additionally, some new trends are emerging such as the use of Big Data, chatbots and a broader range of products.
+
+The ESAs concluded that given the overall importance of the topic, and the emergence of some ongoing changes to business models, a new monitoring exercise will be conducted if and when the development of the market and market risks warrant this work.
+
+**Background**
+
+Following the publication of the Report on Automation in Financial Advice in 2016, this new analysis has been carried out through a survey involving NCAs, on the evolution of 'automation in financial advice' in the securities, banking and insurance sectors over the past two years
+
+Publication date
+:   5 September 2018
+
+## Related links
+
+[Joint Committee Report on the results of the monitoring exercise on automation in financial advice](/document/download/33220942-6e8c-425e-991c-7049f3110d2f_en?filename=Joint%20Committee%20Report%20on%20the%20results%20of%20the%20monitoring%20exercise%20on%20automation%20in%20financial%20%20advice.pdf)

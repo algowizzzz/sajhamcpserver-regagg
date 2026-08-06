@@ -1,0 +1,1 @@
+Summary: # Instructions et spécifications pour la transmission par lots de déclarations relatives aux télévirements, selon le format SWIFT®[Note de bas de page 1](#fn1)

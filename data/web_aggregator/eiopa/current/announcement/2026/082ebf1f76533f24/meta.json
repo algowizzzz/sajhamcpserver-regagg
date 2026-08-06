@@ -1,0 +1,27 @@
+{
+  "doc_id": "082ebf1f76533f24",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "\"Gabriel Bernardino: Solvency II is a success\", interview with Gabriel Bernardino, Chairman of EIOPA - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/gabriel-bernardino-solvency-ii-success-interview-gabriel-bernardino-chairman-eiopa-2018-06-08_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2decbe61f6f88dbd56d048ab6390b7a8bf1fbc9dd2cf36906ab23453f579f090",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/082ebf1f76533f24",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/gabriel-bernardino-solvency-ii-success-interview-gabriel-bernardino-chairman-eiopa-2018-06-08_en",
+  "fetch_method": "html_to_md"
+}

@@ -1,0 +1,131 @@
+# Rapport annuel de 2026, conformément à la Loi sur la lutte contre le travail forcé et le travail des enfants dans les chaînes d’approvisionnement
+
+## Introduction
+
+Le présent rapport est soumis au nom du Centre d’analyse des opérations et déclarations financières du Canada (CANAFE) et concerne les activités allant du 1er avril 2025 au 31 mars 2026, la période de référence de 2026.
+
+Le projet de loi d’intérêt public S-211 du Sénat, la [Loi édictant la Loi sur la lutte contre le travail forcé et le travail des enfants dans les chaines d’approvisionnement et modifiant le Tarif des douanes](https://www.parl.ca/documentviewer/fr/44-1/projet-loi/S-211/sanction-royal), est entré en vigueur le 1er janvier 2024.
+
+La Loi exige que le responsable de toute institution gouvernementale, dont les activités comprennent la production, l’achat ou la distribution de marchandises au Canada ou à l’étranger, soumette un rapport annuel au ministre de la Sécurité publique au plus tard le 31 mai de chaque année.
+
+Le présent rapport inclut un résumé des mesures prises par CANAFE pour prévenir ou réduire les risques de recours au travail forcé ou au travail des enfants dans les chaînes d’approvisionnement au cours de l’exercice financier 2025-2026.
+
+## Structure, activités et chaînes d’approvisionnement
+
+CANAFE est un organisme fédéral agissant à titre d’unité du renseignement financier et d’organisme de réglementation en matière de la lutte contre le blanchiment d’argent et le financement des activités terroristes du Canada. Son mandat est de faciliter la détection, la prévention et la dissuasion du blanchiment d’argent et du financement des activités terroristes, tout en assurant la protection des renseignements personnels qu’il détient.
+
+Au cours de l’exercice financier 2025-2026, CANAFE comptait environ 535 équivalents temps plein (ETP) situés au Canada et suivait une structure organisationnelle dans laquelle toutes les activités ou fonctions connexes sont réparties par secteur et aident la directrice et PDG à réaliser le mandat de CANAFE.
+
+CANAFE recherche et analyse des données provenant de diverses sources d’information qui mettent en lumière les tendances et les modèles de blanchiment d’argent et de financement des activités terroristes permettant d’identifier directement et indirectement le recours au travail forcé et au travail des enfants dans un contexte général. CANAFE collabore avec des institutions financières et des organismes d’application de la loi dans le cadre du projet Protect afin de détecter le travail forcé au Canada. D’ailleurs, l’analyse des diverses sources d’information qu’effectuent les analystes de CANAFE peut aussi mener à la découverte de travail forcé et de travail des enfants au Canada. L’analyse de telles communications de renseignements forme une partie du mandat de CANAFE et n’est pas directement liée à l’enquête sur les chaînes d’approvisionnement canadiennes en réponse à la Loi.
+
+Au cours de l’exercice financier 2025-2026, les dépenses totales de CANAFE en marchandises s’élevaient à 5 087 170 $, marchandises dont certaines provenaient du Canada et des États-Unis et étaient associées aux numéros UNSPSC et aux descriptions connexes qui suivent :
+
+| UNSPSC (L3) | Description des biens |
+| --- | --- |
+| 43202200 | Sous-ensembles pour appareils électroniques |
+| 43211500 | Ordinateurs |
+| 43211600 | Accessoires informatiques |
+| 43212100 | Imprimantes |
+| 43222500 | Équipement de sécurité réseau |
+| 43230000 | Logiciels |
+| 43231500 | Logiciels spécifiques aux fonctions de gestion |
+| 43231600 | Progiciels de gestion intégré ERP et logiciels de comptabilité générale |
+| 43232100 | Logiciels d'édition et de création de contenu |
+| 43232300 | Logiciels de gestion de requêtes et de gestion des données |
+| 43232400 | Logiciels de développement |
+| 43232500 | Didacticiels ou logiciels de référence |
+| 43232600 | Logiciels spécifiques à une branche de l'industrie |
+| 43233200 | Logiciels de sécurité et de protection |
+| 52161500 | Équipements audiovisuels |
+| 56101700 | Mobilier de bureau |
+
+À CANAFE, environ 86 % de la valeur annuelle des achats de marchandises ont été effectués en recourant à des outils de Services publics et Approvisionnement Canada (SPAC), par exemple des offres à commandes et des arrangements en matière d’approvisionnement, en utilisant notre propre pouvoir d’achat ou celui de SPAC.
+
+Depuis novembre 2021, SPAC applique les clauses de lutte contre le travail forcé à tous ses contrats de marchandises afin de pouvoir résilier les contrats si des renseignements crédibles permettent de croire que des marchandises ont été produites, en tout ou en partie, en recourant au travail forcé ou à la traite de personnes.
+
+En outre, depuis novembre 2023, l’ensemble des offres à commandes et des arrangements en matière d’approvisionnement de SPAC qui concernent des marchandises qui sont émis, modifiés ou actualisés, prévoient des clauses de lutte contre le travail forcé. À ce titre, tous les contrats de marchandises de CANAFE découlant de l’utilisation de ces outils comportent des clauses concernant le travail forcé qui définissent, entre autres, les exigences en matière de droits de la personne et de droits du travail. Ces clauses figurent dans l’avis relatif aux politiques 150 – Exigences contre le travail forcé.
+
+À CANAFE, environ 9 % de la valeur annuelle des achats de marchandises ont été effectués en recourant à des outils de Services partagés Canada (SPC), par exemple des offres à commandes et des arrangements en matière d’approvisionnement, en utilisant notre propre pouvoir d’achat ou celui de SPC.
+
+Depuis novembre 2021, SPC applique les clauses de lutte contre le travail forcé à tous ses contrats de marchandises afin de pouvoir résilier les contrats si des renseignements crédibles permettent de croire que des marchandises ont été produites, en tout ou en partie, en ayant recours au travail forcé ou à la traite de personnes. En outre, depuis novembre 2023, l’ensemble des offres à commandes et des arrangements en matière d’approvisionnement de SPC qui sont émis, modifiés ou actualisés prévoient des clauses de lutte contre le travail forcé à même les modalités applicables aux marchandises. Ainsi, tous les contrats de marchandises de CANAFE conclus grâce aux outils de SPC intègrent les clauses de SPAC relatives au travail forcé, qui décrivent, entre autres, les exigences en matière de droits de la personne et de droits du travail.
+
+Au cours de la période de référence, CANAFE a acheté des marchandises en utilisant son propre pouvoir d’achat (sans recourir aux outils d’approvisionnement de SPAC et de SPC), ce qui représente environ 5 % de la valeur annuelle de ses achats de marchandises.
+
+## Mesures prises pour prévenir ou réduire les risques de recours au travail forcé ou au travail des enfants
+
+Au cours de l’exercice financier 2025-2026, les agents d’approvisionnement de CANAFE ont participé à diverses séances de formation et de sensibilisation axées sur le travail forcé et le travail des enfants. Les séances comprenaient des documents préparés par des organisations canadiennes et internationales.
+
+CANAFE a intégré les clauses contractuelles types de SPAC, y compris le Code de conduite pour l’approvisionnement (le « Code ») de SPAC et les clauses de lutte contre le travail forcé, dans ses activités d’achat.
+
+En outre, pour prévenir et réduire les risques de recours au travail forcé ou au travail des enfants dans ses acquisitions, CANAFE a utilisé les outils de SPAC suivants :
+
+* Offres à commandes
+* Arrangements en matière d’approvisionnement
+* Clauses contractuelles de lutte contre le travail forcé
+
+SPAC a élaboré des documents d’orientation destinés à sensibiliser les fournisseurs (y compris des stratégies d’atténuation des risques), centrés sur les secteurs à haut risque. Ces documents sont mis progressivement en ligne sur le site Web canada.ca.
+
+À la suite des modifications apportées le 1er avril 2023 à la Directive sur la gestion de l’approvisionnement du Conseil du Trésor, plusieurs autorités contractantes sont maintenant tenues d’intégrer le Code à leurs acquisitions. Conformément à ces modifications, SPC a intégré le Code à ses processus d’approvisionnement.
+
+Pour prévenir et réduire les risques de recours au travail forcé ou au travail des enfants dans ses acquisitions, CANAFE a utilisé les outils suivants de SPC auxquels le Code s’applique :
+
+* Offres à commandes
+* Arrangements en matière d’approvisionnement
+
+À titre de fournisseur de services communs, SPC doit veiller à ce que les ministères aient accès à une infrastructure et à des solutions de TI fiables, sûres et rentables, notamment des services partagés liés aux réseaux et à la sécurité des réseaux, aux centres de données et aux offres de produits infonuagiques, aux communications numériques et aux outils de TI.
+
+CANAFE entreprend également des activités en vertu de son propre pouvoir d’achat, indépendamment des outils de SPC et de SPAC susmentionnés. Au cours du dernier exercice financier, CANAFE a acquis des marchandises par son propre pouvoir d’achat conformément la liste fournie précédemment.
+
+## Politiques et processus de diligence raisonnable
+
+Au cours de l’exercice financier 2025-2026, CANAFE a mobilisé d’autres ministères dans le cadre de réunions interministérielles sur la question de la lutte contre le travail forcé et le travail des enfants dans les chaînes d’approvisionnement. CANAFE poursuit son travail actif de révision des politiques, directives et orientations liées à la Loi auprès de la Sécurité publique, de SPAC et de SPC.
+
+À la suite des modifications apportées le 1er avril 2023 à la Directive sur la gestion de l’approvisionnement du Conseil du Trésor, les autorités contractantes de tous les ministères énumérés aux annexes I, I.1 et II de la Loi sur la gestion des finances publiques (LGFP) (à l’exception de l’Agence du revenu du Canada) et de toutes les commissions établies conformément à la Loi sur les enquêtes et portant la désignation de « ministère » aux fins de la LGFP, sont tenues d’intégrer le Code à leurs processus d’approvisionnement.
+
+Le Code exige des fournisseurs de marchandises du gouvernement du Canada et de leurs sous-traitants qu’ils observent l’ensemble des lois et règlements applicables. Il exige également des fournisseurs et de leurs sous-traitants qu’ils respectent l’interdiction canadienne d’importer des marchandises produites, en tout ou en partie, par le travail forcé ou obligatoire, ce qui comprend le travail forcé ou obligatoire des enfants et s’applique à toutes les marchandises, quel que soit leur pays d’origine.
+
+Bien que CANAFE figure parmi les organisations à l’annexe V de la LGFP, nous continuons d’intégrer le Code à nos processus d’approvisionnement, conformément aux modifications susmentionnées, afin de protéger les chaînes d’approvisionnement fédérales contre le travail forcé et le travail des enfants. Les contrats attribués par notre organisme intègrent le Code par l’intermédiaire des modalités applicables aux marchandises.
+
+L’interdiction d’importer des marchandises produites, en tout ou en partie, en recourant au travail forcé est entrée en vigueur en vertu du Tarif des douanes le 1er juillet 2020.
+
+## Activités et chaînes d’approvisionnement présentant un risque de travail forcé ou de travail des enfants
+
+Après le lancement des activités initiales au cours des exercice financier 2023-2024 et 2024-2025, afin d’entamer le processus d’identification des activités et des chaînes d’approvisionnement à risque, CANAFE a poursuivi ses évaluations et ses examens au cours de l’exercice financier 2025-2026. Grâce à ces examens et à ces analyses, CANAFE a cerné des risques associés aux secteurs et aux industries ci-dessous, auprès desquels les acquisitions sont réalisées au moyen des outils d’approvisionnement de SPAC et de SPC, et de la délégation de notre pouvoir d’achat :
+
+* Mines, carrières et extraction de pétrole et de gaz
+* Industrie manufacturière, y compris les fournitures et appareils de bureau, les appareils d’éclairage et les lampes, les systèmes de détection de sécurité et les composants d’équipements électroniques
+* Industrie de l’information et industrie culturelle
+* Technologies de l’information
+
+En mai 2021, une analyse des risques associés aux chaînes d’approvisionnement de SPAC a été réalisée par Rights Lab, de l’Université de Nottingham (Royaume-Uni), afin de déterminer quelles marchandises présentaient le plus grand risque d’être liées à la traite des personnes, au travail forcé et au travail des enfants. L’analyse, et le rapport subséquent, ont permis d’élaborer des stratégies clés pour que SPAC puisse utiliser son pouvoir de dépenser des fonds publics afin de faire de la sensibilisation au sujet du travail forcé dans les chaînes d’approvisionnement.
+
+SPAC a pris note des constatations et des recommandations de l’analyse des risques, et surveille les mesures prises par la suite, notamment la mise en œuvre de la Politique d’approvisionnement éthique et l’élaboration d’un cadre de diligence raisonnable en matière de droits de la personne.
+
+SPC s’engage à cerner les risques de manière continue, à promouvoir et à élaborer des pratiques d’atténuation des risques, ainsi qu’à poursuivre les activités pour sensibiliser sa communauté de l’approvisionnement et mobiliser l’industrie et les partenaires stratégiques.
+
+## Mesures correctives
+
+Au cours de l’exercice financier 2025-2026, CANAFE n’a identifié aucun cas de travail forcé ou de travail des enfants dans ses activités et ses chaînes d’approvisionnement. Étant donné que CANAFE a uniquement mis en évidence des secteurs et industries possiblement à risque sans exercices de validation supplémentaires, aucune autre mesure n’a été prise pour évaluer ou réduire les risques, ou pour remédier au travail forcé ou au travail des enfants dans les activités et chaînes d’approvisionnement.
+
+## Remédiation à la perte de revenus
+
+Au cours de l’exercice financier 2025-2026, CANAFE n’a pas identifié de perte de revenus pour les familles vulnérables résultant des mesures prises pour éliminer le recours au travail forcé ou au travail des enfants dans ses activités et ses chaînes d’approvisionnement. Par conséquent, aucune mesure n’a été prise pour remédier à la perte de revenus pour les familles les plus vulnérables.
+
+## Formation
+
+CANAFE n’a élaboré aucun document de formation ou de sensibilisation; toutefois, nous avons tiré parti de formations nationales et internationales. Au cours de l’exercice 2025‑2026, les agents d’approvisionnement du CANAFE ont suivi le cours de l’École de la fonction publique du Canada intitulé Introduction à l’approvisionnement éthique.
+
+En tant que fournisseur de services communs, SPC s’engage à cerner les risques de manière continue, à promouvoir et à élaborer des pratiques d’atténuation des risques, ainsi qu’à poursuivre les activités pour sensibiliser sa communauté de l’approvisionnement et mobiliser l’industrie et les partenaires stratégiques.
+
+## Évaluation de l’efficacité
+
+Au cours de l’exercice financier 2025-2026, CANAFE a mis l’accent sur la formation afin de sensibiliser à la prévalence et à l’incidence du travail forcé et du travail des enfants dans la chaîne d’approvisionnement. Aucune mesure n’a été prise pour évaluer l’efficacité des mesures visant à prévenir et à réduire les risques de travail forcé et de travail des enfants dans nos activités et nos chaînes d’approvisionnement.
+
+CANAFE s’engage à mobiliser d’autres ministères et des experts en approvisionnement, comme SPAC et SPC, afin de renforcer et d’améliorer son efficacité à cerner et à réduire le travail forcé et le travail des enfants dans ses activités et ses chaînes d’approvisionnement.
+
+© Sa Majesté le Roi du chef du Canada, 2026.  
+ISSN : 2818-3975  
+No de catalogue : FD2-12F-PDF
+
+Date de modification :
+:   2026-06-23

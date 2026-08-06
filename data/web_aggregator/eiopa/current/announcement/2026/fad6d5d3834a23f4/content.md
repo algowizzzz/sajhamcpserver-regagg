@@ -1,0 +1,22 @@
+The European Insurance and Occupational Pensions Authority (EIOPA) published today its advice to the European Commission on sustainability in the areas of risk management, investment strategy, stewardship and product oversight.
+
+For EIOPA, sustainability is an area of significant strategic importance. Consequently, EIOPA strongly supports the European Commission's Sustainable Finance Action Plan including the aim to integrate sustainability considerations into the prudential and conduct framework for insurers, reinsurers and insurance distributors.
+
+In doing so, EIOPA advises to embed carefully sustainability in the delegated regulations under Solvency II and the Insurance Distribution Directive.
+
+A key aspect of the advice is the integration of sustainability in the prudent person principle for investments under Solvency II. In particular, insurers should reflect the impact of their investments on sustainability, promoting a stewardship approach by insurers and reinsurers. At the same time, EIOPA emphasises the relevance of integrating sustainability risks in the investment decisions and underwriting practices.
+
+In respect of product design and distribution, EIOPA calls for the introduction of a clear reference to ESG considerations in the implementing rules of the Insurance Distribution Directive on product oversight and governance as well as on conflicts of interest. Furthermore, EIOPA proposes an explicit link between the prudent person principle and the target market assessment in the product oversight and governance arrangements to ensure the delivery of ESG characteristics of a product, if promoted as such.
+
+EIOPA conducted a consultation with stakeholders and held a roundtable on 23 January 2019, to provide further valuable insight.
+
+To ensure consistency, EIOPA developed its final report in cooperation with the European Securities and Markets Authority (ESMA), which has received a similar mandate regarding the Markets in Financial Instruments Directive II (MiFID II) (investment services), the Alternative Investment Fund Managers Directive (AIFMD) and the Undertakings in Collective Investment in Transferable Securities (UCITS) Directive (investment funds).
+
+Publication date
+:   3 May 2019
+
+## Related links
+
+[EIOPA’s Technical Advice on the integration of sustainability risks and factors in the delegated acts under Solvency II and IDD](/document/download/043b459f-5c4e-431c-b645-003150069aae_en?filename=EIOPA%E2%80%99s%20Technical%20Advice%20on%20the%20integration%20of%20sustainability%20risks%20and%20factors%20in%20the%20delegated%20acts%20under%20Solvency%20II%20and%20IDD.pdf)
+
+[2nd Roundtable on sustainable finance](/document/download/065b7b52-3131-4ac4-bbf1-dd0307f08cb1_en?filename=2nd%20Roundtable%20on%20sustainable%20finance.pdf)

@@ -1,0 +1,27 @@
+{
+  "doc_id": "f5192e19afba4092",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA publishes a new set of Solvency II statistics on the European insurance sector - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-publishes-new-set-solvency-ii-statistics-european-insurance-sector-2017-11-13_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d01a96473b8cb2dc1240ad938c99e5c3379c894695dc0349f8048eaaafc5952f",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/f5192e19afba4092",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-publishes-new-set-solvency-ii-statistics-european-insurance-sector-2017-11-13_en",
+  "fetch_method": "html_to_md"
+}

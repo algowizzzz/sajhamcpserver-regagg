@@ -1,0 +1,60 @@
+# PRA consults on updated guidance for friendly society amalgamations and transfers
+
+The proposals would provide more detail on the PRA’s approach to Part VIII transactions, helping firms plan amalgamations and transfers more efficiently.
+
+Published on
+22 July 2026
+
+## News release
+
+Financial mutuals play an important role in the UK financial services sector, and the PRA is committed to supporting their long-term, sustainable growth and ability to compete effectively alongside other firms.   
+  
+In the [PRA/FCA Mutuals Landscape Report](/prudential-regulation/publication/2025/december/mutuals-landscape-report), the PRA highlighted its plan to provide guidance on the Part VIII transfer process. The proposed changes to Statement of Policy 3/15, which have been informed by firms and advisers with experience of Part VIII transactions, help deliver on that commitment.   
+  
+The proposals are intended to provide more detail and transparency for firms navigating the existing legislative framework, supporting the efficient execution of Part VIII transfers.
+
+### The key features of the proposal include:
+
+set out a sequence that firms would typically follow when undertaking a Part VIII transfer;
+
+* provide greater transparency on the PRA’s decision-making considerations, including when the PRA may waive the requirement for a member vote by the transferee and when it may require an independent actuary’s report;
+* set out the scope of applicability of the process for firms that are friendly societies and firms that are not friendly societies.
+* The consultation closes on 22 October 2026. Subject to consultation responses, the proposals would take effect on publication of the final Policy Statement.
+
+## Other news
+
+[News
+
+30 July 2026
+
+### Minutes of the Meeting of the Court of Directors...
+
+### Minutes of the Meeting of the Court of Directors held on 4 June 2026](/minutes/2026/july/court-minutes-4-june-2026)
+
+[News // Monetary Policy Committee (MPC)
+
+30 July 2026
+
+### Bank Rate maintained at 3.75% - July 2026...
+
+### Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes](/monetary-policy-summary-and-minutes/2026/july-2026)
+
+[News // Letter
+
+23 July 2026
+
+### Letter from the Governor to the Daily Mail
+
+### Letter from the Governor to the Daily Mail](/letter/2026/letter-from-the-governor-to-the-daily-mail)
+
+[News // News release
+
+22 July 2026
+
+### PRA consults on updated guidance for friendly...
+
+### PRA consults on updated guidance for friendly society amalgamations and transfers](/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers)
+
+[View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

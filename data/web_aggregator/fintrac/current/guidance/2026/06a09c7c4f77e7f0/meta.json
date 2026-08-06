@@ -1,0 +1,24 @@
+{
+  "doc_id": "06a09c7c4f77e7f0",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Risk assessment guidance",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/compliance-conformite/rba/rba-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3407a5162a6975b9b6f30ae79af6ade72826c69391ff742108cdbc4a73273da2",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/06a09c7c4f77e7f0",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

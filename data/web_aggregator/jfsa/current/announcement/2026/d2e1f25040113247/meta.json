@@ -1,0 +1,25 @@
+{
+  "doc_id": "d2e1f25040113247",
+  "regulator_id": "jfsa",
+  "doc_type": "announcement",
+  "title": "Press Releases (2026) : Financial Services Agency",
+  "language": "en",
+  "source_url": "https://www.fsa.go.jp/en/news/index.html",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:afa71ee3f61b8f585c9c29343ce58e7a9664b128ec351229fe17cf330255a1eb",
+  "version_ts": "2026-08-03T02-27-25Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:27:25.940758+00:00",
+  "run_id": "2026-08-02_jfsa_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/jfsa/current/announcement/2026/d2e1f25040113247",
+  "tags": [
+    "japan",
+    "banking",
+    "securities"
+  ]
+}

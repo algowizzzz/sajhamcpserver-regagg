@@ -1,0 +1,26 @@
+{
+  "doc_id": "6772101f34758dd0",
+  "regulator_id": "cftc",
+  "doc_type": "announcement",
+  "title": "CFTC Sunsets Routine Large Trader Reporting Requirements for Physical Commodity Swaps",
+  "language": "en",
+  "source_url": "https://www.cftc.gov/PressRoom/PressReleases/9269-26",
+  "reference_number": null,
+  "published_date": "2026-07-17",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6d95ab22d2d873301ab5d1dab3441efe8f680a9df5f4482d7e3522f187ae85aa",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_cftc_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cftc/current/announcement/2026/6772101f34758dd0",
+  "tags": [
+    "us",
+    "derivatives",
+    "clearing",
+    "margin"
+  ]
+}

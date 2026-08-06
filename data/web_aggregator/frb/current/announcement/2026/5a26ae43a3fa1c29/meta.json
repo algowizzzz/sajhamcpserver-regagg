@@ -1,0 +1,26 @@
+{
+  "doc_id": "5a26ae43a3fa1c29",
+  "regulator_id": "frb",
+  "doc_type": "announcement",
+  "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+  "language": "en",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+  "reference_number": null,
+  "published_date": "2026-07-14",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1650b4dd346ea29725dfd1b2fbc51f0ef8274b34d04ea077778f27c7f3b22bdc",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_frb_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/frb/current/announcement/2026/5a26ae43a3fa1c29",
+  "tags": [
+    "us",
+    "central_bank",
+    "prudential",
+    "banking"
+  ]
+}

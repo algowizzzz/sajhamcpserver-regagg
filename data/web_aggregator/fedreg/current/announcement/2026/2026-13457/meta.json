@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13457",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 147(f)(1)(iii) Written Representation as to Purchaser Residency",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/02/2026-13457/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
+  "reference_number": "2026-13457",
+  "published_date": "2026-07-02",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fe1c6a4e720b8d84f68a8883b34f58d5dfd7082d68ea20a450155ad71c2807d1",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13457",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

@@ -1,0 +1,1 @@
+Summary: The Bank of England (the Bank), the Prudential Regulation Authority (PRA) and the FCA will start overseeing the first critical third parties (CTPs) on Monday 13 July 2026, following designation by the Treasury.

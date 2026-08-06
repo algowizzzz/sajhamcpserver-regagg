@@ -1,0 +1,1 @@
+Summary: # Quebec meal-kit company Goodfood seeks creditor protection, sale process

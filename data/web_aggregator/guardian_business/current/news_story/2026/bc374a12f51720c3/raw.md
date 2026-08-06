@@ -1,0 +1,7 @@
+# US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs
+
+More than half of tariff income refunded after supreme court ruled Trump’s levies were illegal Business live – latest updates The Trump administration has refunded about $100bn from the tariffs it collected before the US supreme court ruled them illegal, according to reports. The $100bn (£74bn) figure, which represents 60% of the total $165bn collected from Donald Trump’s “liberation day” tariffs, was reported by customs officials to the US court of international trade (CIT) on Tuesday, according to the Financial Times. Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

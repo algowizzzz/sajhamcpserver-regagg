@@ -1,0 +1,1 @@
+Summary: # Cessation des opérations d’assurance au Canada des sociétés d’assurances étrangères

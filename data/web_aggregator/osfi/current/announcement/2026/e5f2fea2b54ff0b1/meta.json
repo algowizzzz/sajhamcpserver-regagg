@@ -1,0 +1,25 @@
+{
+  "doc_id": "e5f2fea2b54ff0b1",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "OSFI \u2013 Summaries of Privacy Impact Assessments - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/transparency/access-information-privacy/access-information-privacy-annual-reports-assessments/osfi-summaries-privacy-impact-assessments",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8a084ee48f4827ce8497b3d0bf4ef48f6f96e1141acdfad965dc8d382e71b627",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/e5f2fea2b54ff0b1",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

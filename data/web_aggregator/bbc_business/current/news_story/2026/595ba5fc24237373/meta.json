@@ -1,0 +1,25 @@
+{
+  "doc_id": "595ba5fc24237373",
+  "regulator_id": "bbc_business",
+  "doc_type": "news_story",
+  "title": "What's causing record high US beef prices?",
+  "language": "en",
+  "source_url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:349569759eda674f5cabcd8d78a850ecc88907463cb8450187a412e15095e7f6",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_bbc_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bbc_business/current/news_story/2026/595ba5fc24237373",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
+  "fetch_method": "feed_summary"
+}

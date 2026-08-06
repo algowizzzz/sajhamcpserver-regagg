@@ -1,0 +1,61 @@
+# Financial Industry Investor Resources
+
+The financial industry is vast, with many types of products, accounts and professionals—and numerous entities responsible for regulation and oversight of those different sectors. Here's an overview of some of the organizations tasked with regulating various segments of the financial industry and protecting and educating retail investors like you, along with examples of free resources they provide.
+
+## U.S. Securities and Exchange Commission (SEC)
+
+The [SEC](https://www.sec.gov/) is an independent federal regulatory agency and serves as the primary regulator for protecting investors in the U.S. securities markets. The SEC enforces securities laws, sets rules for fair and orderly markets, facilitates capital formation, and oversees securities exchanges, brokerage firms and investment advisers. The SEC also requires public companies to disclose financial and other information, establishes disclosure requirements for investment products, including mutual funds and ETFs, and reviews registration statements for new securities offerings. You can file a [tip or complaint](https://www.sec.gov/submit-tip-or-complaint) with the SEC about a brokerage account or an advisory account, or if you suspect you've been a target of investment fraud.
+
+### Investor Resources
+
+Research public companies and investment products using the [SEC's EDGAR system](https://www.sec.gov/search-filings). [Investor.gov](https://www.investor.gov/), the SEC's website for investors, provides investors with tools and information to make informed investment decisions and avoid fraud. Use the ["Check Out Your Investment Professional" tool](https://www.investor.gov/CRS) to research the background of investment professionals, brokerage firms or investment adviser firms. Find more educational resources, including Investor Alert Bulletins, financial calculators and investing quizzes at [www.investor.gov](https://www.investor.gov/).
+
+## Financial Industry Regulatory Authority (FINRA)
+
+[FINRA](/) is a not-for-profit organization dedicated to investor protection and market integrity. Overseen by the SEC, FINRA regulates member brokerage firms doing business in the U.S.; writes rules; examines for and enforces compliance with FINRA rules and federal securities laws; registers broker-dealer personnel and offers them education and training; and informs the investing public. In addition, FINRA provides surveillance and other regulatory services, as well as trade reporting and other industry utilities. FINRA also administers dispute resolution for investors, brokerage firms and their registered employees. You can turn to FINRA if you have a [question or complaint](/investors/need-help) about your brokerage account, or if you suspect you've been a target of investment fraud.
+
+### Investor Resources
+
+Use FINRA's [BrokerCheck](https://brokercheck.finra.org/) tool to research the background of investment professionals, brokerage firms and investment adviser firms. Research investment products using [FINRA's Fund Analyzer](https://tools.finra.org/fund_analyzer/) and [FINRA Data](/finra-data). You can also find many additional educational resources to help you make informed decisions, including articles, tools and investing quizzes, at [www.finra.org/investors](/investors#/).
+
+## North American Securities Administrators Association (NASAA)
+
+NASAA members are the state and provincial securities regulators across the U.S., Canada and Mexico. These regulators are often your closest resource if you have concerns about an investment or financial professional. NASAA members investigate investment fraud in their jurisdictions, issue licenses for certain investment firms and professionals, and register certain securities offerings available to their region's investors. NASAA provides information to contact [your local regulator](https://www.nasaa.org/contact-your-regulator/) if you have a complaint about an investment account or if you suspect you've been a target of investment fraud.
+
+### Investor Resources
+
+Browse investor advisories and multimedia content, along with links to local outreach programs and information about special initiatives like Serve our Seniors and Young Adult Money Mission, at [www.nasaa.org/investor-education](https://www.nasaa.org/investor-education/).
+
+## Commodity Futures Trading Commission (CFTC)
+
+The [CFTC](https://www.cftc.gov/) is a government agency tasked with regulating the U.S. derivatives market, which encompasses financial contracts like futures, swaps and certain options. The CFTC oversees trading of agricultural products, precious metals and currencies, for example.
+
+The CFTC registers designated contract markets, swap execution facilities, derivatives clearing organizations and swap data repositories. It provides surveillance of the futures, options and swaps markets and enforces rules under the Commodity Exchange Act. You can [submit a tip or file a complaint](https://www.cftc.gov/complaint) if you suspect commodities-related fraud or wrongdoing by an entity under the CFTC's jurisdiction.
+
+### Investor Resources
+
+Search [industry filings](https://www.cftc.gov/IndustryOversight/IndustryFilings/index.htm) to find information about entities and products registered with the CFTC. You'll also find educational materials about various types of investment scams and ways to protect yourself at [www.cftc.gov/learnandprotect](https://www.cftc.gov/LearnAndProtect).
+
+## National Futures Association (NFA)
+
+NFA is the self-regulatory organization for the derivatives industry, designated and overseen by the CFTC. NFA is responsible for vetting firms and individuals seeking to conduct derivatives business and, if appropriate, approving them as CFTC registrants and NFA members. NFA also establishes comprehensive rules and monitors its members for compliance. When necessary, NFA takes disciplinary action against members to enforce its rules. You can [file a complaint](https://www.nfa.futures.org/complaintnet/FileAComplaint.aspx) with NFA if you believe one of its members has treated you unfairly.
+
+### Investor Resources
+
+Use NFA's [BASIC tool](https://www.nfa.futures.org/basicnet/) to research registration and disciplinary history, membership details and contact information for derivatives industry firms and individuals. NFA provides additional investor resources, including an overview of best practices for investors, answers to FAQs and a quarterly newsletter, at [www.nfa.futures.org/investors](https://www.nfa.futures.org/investors/index.html).
+
+## Conference of State Bank Supervisors (CSBS)
+
+[CSBS](https://www.csbs.org/) is the nationwide professional organization of state banking regulators from all 50 states, the District of Columbia and U.S. territories. CSBS provides state regulators with a forum to address shared challenges and coordinate supervision, along with the infrastructure needed to oversee a modern financial services marketplace. On behalf of state regulators, CSBS owns and operates the Nationwide Multistate Licensing System & Registry® (NMLS), a common platform for licensing and supervising nonbank financial services companies and mortgage loan originators.
+
+### Consumer Resources
+
+Use the [NMLS Consumer Access Database](https://www.nmlsconsumeraccess.org/) to verify a financial services provider, such as a mortgage loan originator. You can also find [contact information](https://www.csbs.org/contact-your-state-bank-agency) for your state banking agency, and browse educational information for [homebuyers](https://www.csbs.org/homebuyers).
+
+## National Association of Insurance Commissioners (NAIC)
+
+As part of the state-based system of insurance regulation in the U.S., the NAIC provides expertise, data and analysis for insurance commissioners to effectively regulate the industry and protect consumers. The U.S. standard-setting organization is governed by the chief insurance regulators from the 50 states, the District of Columbia and five U.S. territories. Through the NAIC, state insurance regulators establish standards and best practices, conduct peer reviews, and coordinate regulatory oversight. You can use the NAIC's website to find your state insurance department and [file a complaint](https://content.naic.org/consumer#:~:text=Learn%20more-,File%20a%20Complaint,-Having%20a%20problem) if you have a problem with an insurance company or suspect insurance-related fraud.
+
+### Consumer Resources
+
+Look up an insurance company using the NAIC's [Consumer Insurance Search](https://content.naic.org/cis_consumer_information.htm) database, or search for a loved one's unclaimed life insurance policy using the [Life Insurance Policy Locator](https://eapps.naic.org/life-policy-locator/). You'll also find additional educational information, from a glossary of common insurance terms to interactive courses, at [www.naic.org/consumer](https://content.naic.org/consumer).

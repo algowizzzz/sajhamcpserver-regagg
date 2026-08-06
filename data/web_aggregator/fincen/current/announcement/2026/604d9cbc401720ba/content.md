@@ -1,0 +1,67 @@
+# The Egmont Group of Financial Intelligence Units
+
+The Egmont Group of Financial Intelligence Units (FIUs) is an international network of FIUs. The Egmont Group is designed to improve communication, information sharing, and training coordination amongst its FIU members. Its goal is to provide a forum for member FIUs to improve support to their respective governments in the fight against money laundering, terrorist financing, and other financial crimes. The Egmont Group supports its FIU members by helping them to expand and systematize the exchange of financial intelligence and information, improve expertise and capabilities of personnel, and enable secure communication with one another. The Egmont Group also supports the efforts of other international stakeholders on anti-money laundering and combating the financing of terrorism (AML/CFT), including the United Nations Security Council, the Financial Action Task Force, and the G20 Finance Ministers.
+
+FinCEN is a founding member of the Egmont Group, and continues to work as a member of the Egmont Group to promote effective information sharing and collaboration for AML/CFT purposes. FinCEN serves in leadership roles throughout the organization. In addition to having sponsored new FIUs for membership, FinCEN has also played a key role in leading Egmont Group initiatives relating to the misuse of virtual assets to commit financial crime; countering terrorist financing; countering illicit finance associated with human trafficking; anti-corruption efforts; cross-border and enterprise-wide suspicious transaction information sharing within the financial sector; compiling best practices relating to FIU security; and Egmont Group governance.
+
+The Egmont Group began in 1995 as a small number of national agencies, then referred to as “financial disclosure units,” seeking to explore ways to cooperate amongst themselves. To meet the requirements of Egmont Group membership, an FIU must be a centralized unit within a nation or jurisdiction to detect suspected criminal financial activity and share financial intelligence and information with national and foreign government entities to ensure adherence to laws against terrorist financing, money laundering and other financial crimes. Since its inception, the Egmont Group has grown dramatically from a small group to more than 160 FIUs.
+
+The Egmont Group is structured to meet the AML/CFT challenges of its members, the volume and diversity of membership, and the organization’s workload.
+
+* The Heads of FIU comprise the directors of all of the Egmont Group member FIUs. They set the goals and objectives of the Egmont Group and make many of the decisions for the organization.
+* The Egmont Committee implements the mandate of the Heads of FIU. The Egmont Committee serves as a consultative and coordination body for the Heads of FIU, the Working Groups, and the Regional Groups within the Egmont Group. The Egmont Committee comprises, among others, the Egmont Group Chair, the two Egmont Group Vice Chairs, the Chairs of the Egmont Working Groups, the Regional Representatives, and the Executive Secretary of the Secretariat.
+* The Egmont Group has eight Regional Groups for member FIUs. The Regional Groups provide an opportunity for FIUs to coordinate on regional issues and communicate with the Egmont Group.  
+  There are four Egmont Working Groups: Information Exchange; Membership, Support, and Compliance; Policy and Procedures; and Technical Assistance and Training.
+* In 2018, the Egmont Group established the Egmont Centre of FIU Excellence & Leadership (ECOFEL) to provide specialized training, mentoring, coaching and other support to FIUs. ECOFEL is funded by the U.S. Department of State/Bureau of International Narcotics and Law Enforcement Affairs, among other donors.
+* The Egmont Secretariat provides strategic, technical and administrative support to the Egmont Group and is located in Canada.
+
+The Egmont Group meets at least twice a year either in person or virtually for the Egmont Committee and working groups, including the annual plenary session for the Heads of FIU, member FIUs, and observer organizations.
+
+* [Archive](/egmont-archive)
+
+[FIUs of the world](https://egmontgroup.org/members-by-region/)
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+  + [Egmont Group of FIUs](/resources/international/egmont-group-financial-intelligence-units)
+  + [Financial Action Task Force](/resources/international/financial-action-task-force)
+  + [International AMLCFT Events](/resources/international/significant-international-amlcft-events)
+  + [Transnational Organized Crime](/resources/international/combating-transnational-organized-crime)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)
+
+Header
+
+Quick Links
+
+* [Significant International AML/CFT Events](/significant-international-amlcft-events)
+* [2014-2015 Egmont Group Annual Report](https://egmontgroup.org/en/filedepot_download/1660/22)
+* [FinCEN Statement Noting the Release of the Egmont Group’s White Paper on Enterprise-wide STR Sharing](/fincen-statement-noting-release-egmont-groups-white-paper-enterprise-wide-str-sharing-issues-and)
+* [Section 311](/resources/statutes-regulations/311-special-measures)
+* [Egmont Group](http://www.egmontgroup.org/)
+* [FATF](http://www.fatf-gafi.org/pages/0,2987,en_32250379_32235720_1_1_1_1_1,00.html)
+* [APG](http://www.apgml.org/)
+* [CFATF](http://www.cfatf.org/)
+* [MONEYVAL](http://www.coe.int/t/dghl/monitoring/moneyval/)
+* [EAG](http://www.eurasiangroup.org/)
+* [ESAAMLG](http://www.esaamlg.org/)
+* [GIABA](http://www.giaba.org/)
+* [GAFILAT](http://www.gafilat.org/)
+* [MENAFATF](http://www.menafatf.org/)
+* [OFAC](http://www.treas.gov/offices/enforcement/ofac/)
+* [UN Office on Drugs and Crime](http://www.unodc.org/unodc/en/money-laundering/index.html)
+* [IMF](http://www.imf.org/external/np/exr/facts/aml.htm)
+* [World Bank](http://www.worldbank.org)
+* [International Narcotics Control Strategy Report](http://www.state.gov/j/inl/rls/nrcrpt/index.htm)

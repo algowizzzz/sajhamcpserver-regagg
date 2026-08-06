@@ -1,0 +1,27 @@
+{
+  "doc_id": "c1-2026-10036",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Real Estate Lending Escrow Accounts",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/29/C1-2026-10036/real-estate-lending-escrow-accounts",
+  "reference_number": "C1-2026-10036",
+  "published_date": "2026-06-29",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3ed2ea04b6740825333c8fed08a13631df61f18a09145663d752f82278ca1997",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/c1-2026-10036",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

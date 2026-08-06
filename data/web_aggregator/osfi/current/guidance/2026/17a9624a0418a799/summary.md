@@ -1,0 +1,1 @@
+Summary: # Participating account management and disclosure to participating policyholders and adjustable policyholders – Guideline (2023)

@@ -1,0 +1,27 @@
+## More in this Section
+
+Press Release
+
+# SEC Appoints John Moses as Director of the Office of Investor Education and Assistance
+
+For Immediate Release
+
+2026-55
+
+Washington D.C., June 12, 2026 —
+
+The Securities and Exchange Commission has appointed John Moses as Director of the agency’s Office of Investor Education and Assistance, which provides services and resources to help investors build their financial futures and protect against investment fraud.
+
+Mr. Moses joined the SEC staff in 2016 and has served in a variety of positions, including as Managing Executive in the Office of the Chairman before becoming a Deputy Director in the SEC’s Office of Investor Education and Assistance in 2020. He was Acting Director of the office prior to his appointment to the permanent role.
+
+“John is an effective communicator who demonstrates a sincere passion for investor outreach and brings as much enthusiasm as he does wisdom to this position,” said SEC Chairman Paul S. Atkins. “Investor education is fundamental to our mission of protecting investors, and John possesses the exact skills and experience necessary to ensure our Office of Investor Education and Assistance – and our agency as a whole – are serving Americans as they participate in our dynamic capital markets.”
+
+Mr. Moses said, “My colleagues in the Office of Investor Education and Assistance have consistently proven their dedication to serving the tens of thousands of investors who contact our agency each year with investment-related questions and concerns. We are constantly evolving to find additional avenues to reach even more investors and give them useful tools and information to make informed investment decisions. It is a genuine honor to help lead these initiatives.”
+
+Before joining the SEC staff, Mr. Moses gained private sector experience in real estate and operations leadership. He is a veteran of the U.S. Navy and served as a surface warfare officer and security team leader during Operation Iraqi Freedom.
+
+Mr. Moses earned undergraduate and graduate degrees from Stanford University and an MBA from Harvard Business School.
+
+###
+
+Last Reviewed or Updated: June 12, 2026

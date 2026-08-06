@@ -1,0 +1,1 @@
+Summary: # Letter to industry - Revision of OSFI’s approach regarding Administrative Monetary Penalties

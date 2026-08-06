@@ -1,0 +1,25 @@
+{
+  "doc_id": "99c6b29a3f819423",
+  "regulator_id": "nyt_business",
+  "doc_type": "news_story",
+  "title": "Disney+ Cracks Open the Door to TikTok Creator Videos",
+  "language": "en",
+  "source_url": "https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ef02c406fd4af4349b6ac8f6810f58bf4370a8c959ce199bc0b76b4b06912ad6",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nyt_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nyt_business/current/news_story/2026/99c6b29a3f819423",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html",
+  "fetch_method": "feed_summary"
+}

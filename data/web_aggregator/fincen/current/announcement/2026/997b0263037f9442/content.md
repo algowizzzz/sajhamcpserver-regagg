@@ -1,0 +1,55 @@
+# Proactive Suspicious Activity Report Review Leads to Guilty Pleas in “Cash Back” Mortgage Fraud Scheme
+
+[Issue15-story7.pdf](/system/files/case_example/Issue15-story7.pdf "Issue15-story7.pdf")
+(7.93 KB)
+
+In a case that started from a proactive review of Suspicious Activity Reports, a specialized mortgage fraud task force launched an investigation that led to charges against two individuals. Bank Secrecy Act records captured many of the scheme’s intricate details, including a SAR filed on one of the defendants who was described as being “very upset” when he learned that a CTR would be filed as a result of a series of transactions.
+
+According to the assistant United States attorney who prosecuted the case, the indictment charged that over an 18 month period the defendants engaged in a scheme to defraud mortgage lenders in connection with residential real property purchases. The leader of the scheme recruited various individuals, including straw and nominal purchasers, to purchase more than a dozen real properties. In addition, the leader orchestrated the transactions and conspired with a mortgage broker to complete the fraud.
+
+The indictment charged that the transactions involved fraudulent or false representations in obtaining 100 percent mortgage financing, including misstatements about the purchasers’ monthly income, intent to occupy the property, and existing liabilities. In addition, the indictment alleged that in each transaction the purchase price was above the true market price of the property. An amount approximately equal to the difference between the purchase price and the true market price was diverted as “cash back” at the close of each escrow into the bank account of an out-of-state corporation. As part of the scheme, the defendant caused these credits to be concealed from the mortgage lenders. The indictment charged that the defendant in fact exercised control over the out-of-state corporation bank account and used the fraudulently obtained funds for various purposes, including extensive cash withdrawals.
+
+The case originated after a SAR review team identified a SAR filed on one of the straw buyers, an associate of the defendant. Because the SAR listed mortgage loan fraud as the suspected violation type, the team referred the SAR to a mortgage fraud task force. The SAR filer noted that the subject (the aforementioned straw buyer) apparently misrepresented information on a loan application for a mortgage that was in default. The co-conspirator and mortgage broker acted as the loan agent and broker of record on the loan. Through research, the filing institution found that the subject had purchased four additional properties for which each mortgage loan totaled at least $490,000. All properties were closed by the same title company.
+
+Investigators identified several additional related SARs, including one with a lengthy narrative describing activity on 18 individuals and businesses associated with the scheme. Investigators included many of the details described in the SARs in a criminal complaint and as evidence in the indictment charging the defendant and coconspirator. One SAR noted that a co-conspirator became irate when he learned that a CTR filing was required following a series of transactions.
+
+The original criminal complaint described in detail the defendant’s efforts to defraud lenders through straw buyers. While the defendant approached the buyers to invest in properties and open bank accounts, he actually controlled all aspects of the purchases and the accounts. Although the buyers provided the defendant with truthful personal information, the defendant made false representations on the loan applications in regard to income, employment, and intent to occupy the residences.
+
+In late 2008, the leader of the mortgage fraud scheme pled guilty to mail fraud and structuring currency transactions at a financial institution to evade the reporting of the transactions. The total losses in the fraud exceeded $2.5 million.
+
+Investigating agencies include Federal, State agencies and Local Police Departments.
+
+---
+
+[Published in The SAR Activity Review - Trends, Tips & Issues, Issue 15, May 2009]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Involving CTRs
+
+Schemes and Scams
+
+Depository Institutions
+
+BSA Violations
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

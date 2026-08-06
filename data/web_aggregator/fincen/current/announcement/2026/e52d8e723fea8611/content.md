@@ -1,0 +1,69 @@
+# FinCEN Advisory - Issue 22
+
+## Advisory Information
+
+n/a
+
+[advis22.pdf](/system/files/advisory/advis22.pdf "advis22.pdf")
+(215.7 KB)
+
+Issued Date
+
+July 01, 2000
+
+Subject
+
+Transactions Involving Niue
+
+FinCEN Advisory
+
+Banks and other financial institutions operating in the United States are advised to give enhanced scrutiny to all financial transactions originating in or routed to or through Niue, or involving entities organized or domiciled, or persons maintaining accounts, in Niue. The need for such enhanced scrutiny is discussed in the remainder of this Advisory.
+
+Niue is a small, self-governing island in the South Pacific Ocean that relies on New Zealand to manage its external affairs. The population of Niue is approximately 2,000.
+
+The Niuean government enacted a series of laws in 1994 aimed at establishing itself as an offshore financial center. Niue’s financial sector consists of one domestic bank, one offshore bank, and approximately 3,000 International Business Companies (.IBCs.) registered in Niue.
+
+The counter-money laundering regime embodied in the legal, supervisory, and regulatory systems of Niue suffers from serious systemic problems.
+
+* Due to a lack of resources, the government of Niue has delegated some of its financial supervisory and regulatory responsibilities over financial institutions and IBCs to foreign private sector interests whose effectiveness is unclear.
+* There is no ongoing Niuean supervision of licensed offshore banks.
+* Financial institutions are not prohibited from issuing anonymous accounts.
+* Financial institutions are not required to report suspicious transactions.
+* IBCs operate under strict secrecy laws. Unless compelled by the courts, the IBCs are not required to disclose the names of their beneficial owners, directors, or managers.
+* The laws concerning financial institutions and IBCs allow the Niuean Cabinet to exempt an institution from any or all requirements of those laws, and such exemption decisions can not be challenged through any other procedure.
+
+These deficiencies, among others, have caused Niue to be identified by the Financial Action Task Force on Money Laundering (the .FATF.) as non-cooperative .in the fight against money laundering.. The FATF, created at the 1989 G-7 Economic Summit, is a 29 member international group that works to combat money laundering.
+
+The Niuean authorities have decided to take steps to strengthen Niue’s counter-money laundering program. Nonetheless, the legal, supervisory, and regulatory systems of Niue at present create significant opportunities and tools for the laundering and protection of the proceeds of crime, and allow criminals who make use of those systems to increase significantly their chances to evade effective investigation or punishment. Niue’s commitment to secrecy in the regulation of banks and IBCs and the absence of effective Niuean supervisory or enforcement mechanisms aimed at preventing and detecting money laundering increase the possibility that transactions involving Niuean entities and accounts will be used for illegal purposes.
+
+Thus, banks and other financial institutions operating in the United States should give enhanced scrutiny to any transaction originating in or routed to or through Niue, or involving entities organized or domiciled, or persons maintaining accounts, in Niue. A financial institution subject to the suspicious transaction reporting rules contained in 31 C.F.R. 103.18 (formerly 31 C.F.R. 103.21) (effective April 1, 1996), and in corresponding rules of the federal financial institution supervisory agencies, should carefully examine the available facts relating to any such transaction to determine if such transaction (of $5,000 or more, U.S. dollar equivalent) requires reporting in accordance with those rules. Institutions subject to the Bank Secrecy Act but not yet subject to specific suspicious transaction reporting rules should consider such a transaction with relation to their reporting obligations under other applicable law.
+
+It should be emphasized that the issuance of this Advisory and the need for enhanced scrutiny does not mean that U.S. financial institutions should curtail legitimate business with Niue.
+
+To dispel any doubt about application of the "safe harbor" to transactions within the ambit of this Advisory, the Treasury Department will consider any report relating to a transaction described in this Advisory to constitute a report of a suspicious transaction relevant to a possible violation of law or regulation, for purposes of the prohibitions against disclosure and the protection from liability for reporting of suspicious transactions contained in 31 U.S.C. 5318(g)(2) and (g)(3).
+
+United States officials stand ready to provide appropriate technical assistance to Niuean officials as they work to remedy the deficiencies in Niue’s counter-money laundering systems that are the subject of this Advisory.
+
+James F. Sloan  
+Director
+
+---
+
+FinCEN Advisory is a product of the Financial Crimes Enforcement Network, Department of the Treasury, Post Office Box 39, Vienna, Virginia 22183. For more information about FinCEN’s programs, visit the FinCEN web site at <https://www.fincen.gov>. General questions or comments regarding FinCEN publications should be addressed to the Office of Communications, FinCEN, (703) 905-3773. Information may also be faxed to (703) 905-3885.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

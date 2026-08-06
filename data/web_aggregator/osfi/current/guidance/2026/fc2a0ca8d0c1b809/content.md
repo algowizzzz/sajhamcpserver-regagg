@@ -1,0 +1,189 @@
+# Property and Casualty Large Insurance Exposures and Investment Concentration
+
+Information
+
+Publication type
+
+Guideline
+
+Category
+
+Prudential Limits and Restrictions
+
+Date
+
+January 1, 2025
+
+Sector
+
+Property and Casualty Companies
+
+No
+
+B-2
+
+[Generate PDF](/en/print/pdf/node/573)
+
+Table of contents
+
+Related documents
+
+* [Update on implementation timeline for Guideline B-2 title insurance provisions](/en/guidance/guidance-library/update-implementation-timeline-guideline-b-2-title-insurance-provisions)
+* [Final Guideline B-2 and Guideline B-3](/en/guidance/guidance-library/final-guideline-b-2-guideline-b-3)
+
+## I. Purpose and Scope of the Guideline
+
+This Guideline applies to all federally regulated property and casualty insurers (P&C FRIs). It applies to insurance companies on an individual and consolidated basis[Footnote 1](#fn1) and to individual foreign branches.[Footnote 2](#fn2)
+
+The Guideline sets out OSFI's expectations related to large insurance exposures; that is, losses a P&C FRI could suffer from a single large insurance exposure and the sudden failure of an individual unregistered insurance counterparty. It also sets out OSFI's expectations related to investment concentration.
+
+This Guideline complements OSFI's [Supervisory Framework](/en/supervision/supervisory-practices/supervisory-framework "Supervisory Framework") and Assessment Criteria. Excluding hyperlinks, terms that are capitalized and underlined in this Guideline are defined in **Annex 1**.
+
+Please refer to OSFI's [Corporate Governance Guideline](/en/guidance/guidance-library/corporate-governance-guideline-2018 "Corporate Governance – Guideline (2018)") for OSFI's expectations of institution Boards of Directors in regards to operational, business, risk and crisis management policies.
+
+## II. Large Insurance Exposures
+
+### Gross Underwriting Limit Policy
+
+P&C FRIs should have a comprehensive Gross Underwriting Limit Policy (GUWP)[Footnote 3](#fn3) that is consistent with the P&C FRI's Risk Appetite Framework.[Footnote 4](#fn4)
+
+1. The GUWP should:
+   1. Define what constitutes a **Single Insurance Exposure** by class of insurance, as appropriate. A P&C FRI could aggregate insurance exposures across multiple coverages and/or classes of insurance;
+   2. Establish limits by class of insurance regarding the level of gross insurance risk that the P&C FRI is willing to accept in respect of a maximum loss related to a Single Insurance Exposure; and
+   3. Be reviewed by Senior Management of the P&C FRI, at a minimum, annually.
+2. Using relevant, reasonable and supportable information, P&C FRIs should measure and determine the maximum loss on a Single Insurance Exposure. They should make such a determination without regard to the probability of the loss event occurring, and using forward-looking approaches (i.e., not solely based on past losses).
+3. With respect to the certain classes of insurance set out below, P&C FRIs should consider the following in respect of determining a Single Insurance Exposure:
+
+   |  |  |
+   | --- | --- |
+   | Property | The aggregated insurance exposures on in-force policies at a single location, including any exposures subject to the location. |
+   | Credit | The aggregated insurance exposures on in-force policies to any one single buyer or group of connected buyers. |
+   | Surety | The aggregated insurance exposures on in-force bonds to any one single contractor or group of connected contractors. |
+   | Title | The aggregated insurance exposures on in-force policies related to the legal title for a single location. |
+4. P&C FRIs should have adequate systems to identify and actively manage insurance exposures.
+5. P&C FRIs should have effective monitoring and internal reporting procedures to ensure ongoing operational compliance with the GUWP.
+
+OSFI expects FRIs to develop and establish their own criteria and approach for determining and measuring the maximum loss on a Single Insurance Exposure.
+
+6. P&C FRIs are expected to provide, at OSFI's request, all information with respect to their large Single Insurance Exposures. OSFI may, at its discretion, advise a P&C FRI to use specific criteria or an approach to determine and measure its maximum loss on a Single Insurance Exposure.
+
+### Insurance Exposure Limit
+
+7. This section applies to the direct business of P&C FRIs. It also applies to a P&C FRI's assumed business from an **Affiliated Company**, where that Affiliated Company is a P&C FRI and is a direct writer of that business.
+8. At no time should any P&C FRI's **Net Retention**, plus its **Largest Net Counterparty Unregistered Reinsurance Exposure**, due to the occurrence of a maximum loss on a Single Insurance Exposure, exceed the following limits:
+
+   |  |  |
+   | --- | --- |
+   | Insurance Companies | 1. 100 per cent of **Total Capital Available** where any entity in the P&C FRI's control chain is:    1. a widely held company[Footnote 5](#fn5), and/or    2. a regulated financial institution; 2. 25 per cent of Total Capital Available otherwise. |
+   | Foreign Branches | 100 per cent of **Net Assets Available** of the foreign branch. |
+9. With respect to the Largest Net Counterparty Unregistered Reinsurance Exposure, P&C FRIs should measure their ceded unregistered reinsurance exposures to a given counterparty, or group of Affiliated Company counterparties, on both a gross and a net basis. That is, it should be measured before and after the recognition of any eligible Counterparty Risk Mitigation (CRM) technique. Only the aggregate net counterparty exposures for unregistered reinsurance are subject to the limits in Paragraph 8 above.
+10. Eligible CRM techniques may include, as applicable:
+
+    1. Excess collateral;
+    2. Letters of Credit[Footnote 6](#fn6);
+    3. Other CRM techniques deemed acceptable by OSFI.[Footnote 7](#fn7)
+
+## III. Investment Concentration
+
+P&C FRIs should have policies with respect to the management of investment concentration, which include internal limits. The policies should be consistent with the P&C FRIs' Risk Appetite Framework.
+
+11. A P&C FRI's aggregate market value of **Investments** in any one **Entity** or group of Affiliated Companies should not exceed the following limit:
+
+    |  |  |
+    | --- | --- |
+    | Insurance Companies | 5 per cent of the company's **Assets** |
+    | Foreign Branches | 5 per cent of the company's **Assets in Canada** |
+12. P&C FRIs should consider other Investments or commitments not shown on the balance sheet; for example, options, futures, forward contracts and unfunded portions of committed loans.
+
+## IV. Guideline Administration
+
+13. Where a P&C FRI is in non-compliance of this Guideline, OSFI may, on a case-by-case basis, take or require the P&C FRI to take corrective measures. OSFI measures may include, but would not be limited to, heightened supervisory activity and/or the discretionary authority to adjust the P&C FRI's capital requirements commensurate with the risks being undertaken by the P&C FRI.
+
+## Annex 1 - Definitions
+
+### Single Insurance Exposure
+
+14. P&C FRIs can define what constitutes a Single Insurance Exposure within their GUWP.
+
+### Affiliated Companies
+
+15. One entity is affiliated with another entity if one of them is controlled by the other or both are controlled by the same person or entity.
+
+### Net Retention
+
+16. The amount of insurance exposure which a P&C FRI retains net for its own account and does not pass on to another insurer (or reinsurer)[Footnote 8](#fn8). Any reinstatement premiums should be included in the Net Retention value.
+
+### Largest Net Counterparty Unregistered Reinsurance Exposure
+
+17. The largest amount of ceded unregistered reinsurance on an insurance exposure provided by a (re)insurance group (e.g., Affiliated Company counterparties that are part of a (re)insurance group). This amount should be on a net basis; that is, after recognition of any eligible CRM technique.
+
+### Total Capital Available
+
+18. For a P&C FRI that is a company, the consolidated total available capital of a company as defined for the purpose of calculating the Minimum Capital Test (MCT) / Mortgage Insurer Capital Adequacy Test (MICAT).
+
+### Net Assets Available
+
+19. For a P&C FRI that is a foreign branch, the net assets available as defined for the purposes of calculating the Branch Adequacy of Assets Test (BAAT).
+
+### Investments
+
+20. An asset or item acquired with the goal of generating income or appreciation, excluding loans to, and loans guaranteed or securities issued or guaranteed by the Government of Canada, a Canadian province or a member jurisdiction of the Organisation for Economic Co-operation and Development (OECD).
+
+### Entity
+
+21. As defined in the Insurance Companies Act, a natural person, a body corporate, trust, partnership, fund, unincorporated association or organization, an agency of the Crown in right of Canada or of a province, and any agency of a foreign government.
+
+### Assets
+
+22. For a P&C FRI that is a company, the total value of assets reported on the balance sheet of the regulatory return filed with OSFI.
+
+### Assets in Canada
+
+23. For a P&C FRI that is a foreign branch, the total value of assets under the control of the Minister (vested in trust in Canada), as reported on the balance sheet of the regulatory return filed with OSFI.
+
+## Footnotes
+
+Footnote 1
+:   Where a federally regulated P&C insurance company is a subsidiary of another federally regulated P&C insurance company, this Guideline applies to both companies individually and on a consolidated basis.
+
+    [Return to footnote 1  referrer](#fn1-rf)
+
+Footnote 2
+:   A foreign branch is a foreign property and casualty company as defined in the Insurance Companies Act.
+
+    [Return to footnote 2  referrer](#fn2-rf)
+
+Footnote 3
+:   The GUWP can be one consolidated document or a set of policy documents.
+
+    [Return to footnote 3  referrer](#fn3-rf)
+
+Footnote 4
+:   The requirements for the Risk Appetite Framework are outlined in OSFI's [Corporate Governance Guideline](/en/guidance/guidance-library/corporate-governance-guideline-2018 "Corporate Governance – Guideline (2018)").
+
+    [Return to footnote 4  referrer](#fn4-rf)
+
+Footnote 5
+:   With shares that are publicly traded on a recognized stock exchange.
+
+    [Return to footnote 5  referrer](#fn5-rf)
+
+Footnote 6
+:   The limit on the use of letters of credit for unregistered reinsurance with a given counterparty, or group of Affiliated Company counterparties, including any letters of credit that are part of excess collateral, is 30% and is measured against the value of the insurance exposure.
+
+    [Return to footnote 6  referrer](#fn6-rf)
+
+Footnote 7
+:   A P&C FRI may reduce its required Net Counterparty Unregistered Reinsurance Exposure if the CRM techniques meet the requirements of Guideline A "[Minimum Capital Test](/en/guidance/guidance-library/minimum-capital-test-guideline-2024 "Minimum Capital Test - Guideline (2024)")" and Guideline B-3 "[Sound Reinsurance Practices and Procedures](/en/guidance/guidance-library/sound-reinsurance-practices-procedures-guideline-2025 "Sound Reinsurance Practices and Procedures – Guideline (2025)")".
+
+    [Return to footnote 7  referrer](#fn7-rf)
+
+Footnote 8
+:   A P&C FRI may reduce its required capital (or "assets" in the case of foreign branches) for ceded reinsurance if it meets the requirements of Guideline B-3 "[Sound Reinsurance Practices and Procedures](/en/guidance/guidance-library/sound-reinsurance-practices-procedures-guideline-2025 "Sound Reinsurance Practices and Procedures – Guideline (2025)")".
+
+    [Return to footnote 8  referrer](#fn8-rf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2024-12-11

@@ -1,0 +1,1 @@
+Summary: # Capital Adequacy Requirements (CAR) – Guideline (2027)

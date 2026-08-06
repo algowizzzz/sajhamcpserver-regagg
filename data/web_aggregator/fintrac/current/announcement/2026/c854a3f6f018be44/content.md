@@ -1,0 +1,215 @@
+# Sommaires des évaluations des facteurs relatifs à la vie privée
+
+Tel qu'il est indiqué dans [Politique de protection des renseignements personnels](2011-pp-fra), CANAFE doit tenir compte des principes en matière de protection des renseignements personnels dans les propositions de mise en œuvre et d'évaluation de programmes et de services qui soulèvent des questions relatives à la vie privée et lors de la conception de ceux-ci, ce qui pourrait comprendre la réalisation d'une évaluation des facteurs relatifs à la vie privée. Cela signifie que l'ensemble des projets et activités ayant un volet de collecte et d'utilisation de renseignements personnels, y compris les modifications quant à leur utilisation dans le cadre de quelconque programme, activité ou service, font l'objet d'une évaluation pour déterminer leur incidence sur la vie privée. Parmi ces incidences on compte les changements opérationnels aux processus d'évaluation (dans la prise de décision), d'utilisation et de communication des renseignements personnels.
+
+Consultez la [Politique de protection des renseignements personnels de CANAFE](2011-pp-fra) pour en savoir davantage sur la façon dont il évalue les facteurs relatifs à la vie privée de ses programmes et services.
+
+Sommaires des Évaluations des facteurs relatifs à la vie privée :
+
+## Programme de déclaration et d'analyse de CANAFE Les activités de CANAFE comprennent la cueillette, l'utilisation et la communication de renseignements personnels à des fins de détection du blanchiment d'argent, du financement d'activités terroristes et des menaces à la sécurité du Canada.
+
+### Évaluation des facteurs relatifs à la vie privée
+
+#### Introduction
+
+Le Centre d'analyse des opérations et déclarations financières du Canada (CANAFE) a procédé à une évaluation des déclarations reçues et des renseignements recueillis stockés dans ses systèmes conformément à la Politique d'évaluation des facteurs relatifs à la vie privée (EFRVP) du Secrétariat du Conseil du Trésor (SCT). Le rapport de cette évaluation a été transmis au Commissariat à la protection de la vie privée du Canada en octobre 2007.
+
+Les activités de CANAFE comprennent la collecte, l'utilisation et la communication de renseignements personnels. Le Centre a donc procédé à une EFRVP des processus opérationnels et des flux de données de base de renseignements personnels liés à ses activités dans le cadre de la collecte et de l'analyse des déclarations qu'il effectue conformément à son mandat statuaire.
+
+Bien que CANAFE cherche toujours à assurer, dans tous les aspects de ses activités, y compris les processus associés à la réception de déclarations, la confidentialité et la sécurité des renseignements, qu'il considère comme des éléments essentiels et fondamentaux, cinq risques à la vie privée ont été relevés dans l'EFRVP. CANAFE pourrait donc mieux se conformer à la Loi sur la protection des renseignements personnels et aux politiques connexes.
+
+#### Objectif
+
+Aux termes de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi), CANAFE est tenu de recevoir, de recueillir, d'analyser, d'utiliser et de communiquer des renseignements financiers personnels concernant le blanchiment d'argent, le financement des activités terroristes et d'autres menaces à la sécurité du Canada.
+
+Ce sont les modifications législatives apportées à la Loi qui ont suscité la mise en œuvre de l'actuel processus d'EFRVP. En raison de ces modifications, CANAFE doit effectuer d'autres activités et produire de nouveaux types de déclarations. C'est pourquoi il a dû procéder à cette évaluation. Puisque les activités liées aux processus de déclarations exigent le traitement de renseignements personnels, CANAFE a entrepris une EFRVP dans le but de cibler les risques associés à la gestion de ces renseignements dans le cadre du présent programme. Ce rapport présente les conclusions du processus d'EFRVP.
+
+#### Description
+
+Les renseignements financiers contenus dans les déclarations, de même que tous les renseignements fournis sur une base volontaire à CANAFE et les autres renseignements recueillis ou reçus par CANAFE ayant trait aux activités de blanchiment d'argent et de financement des activités terroristes sont recueillis, évalués et analysés dans une optique de recherche d'indices de cas présumés de blanchiment d'argent, de financement des activités terroristes ou d'autres menaces à la sécurité du Canada. Si CANAFE, suivant cette analyse, conclut qu'il existe des motifs raisonnables de croire que les renseignements « désignés » fournis pourraient être utiles dans le cadre d'une enquête ou de poursuites pour blanchiment d'argent ou financement d'activités terroristes, il doit les communiquer aux organismes compétents d'application de la loi.
+
+#### Conclusion
+
+CANAFE a adopté une approche proactive de correction ou d'atténuation des risques dans chacune des catégories ciblées nécessitant des modifications à divers degrés :
+
+1. Il a été suggéré que CANAFE mette en œuvre un processus interne de gestion des cas d'atteintes à la vie privée (considéré comme un risque modéré).
+
+   CANAFE a pris des mesures visant à intégrer un processus de gestion des éventuels incidents d'atteinte à la vie privée qui concernent des renseignements personnels dans ses procédures en cas d'atteinte à la sécurité. Ce guide détaillé destiné aux employés apporte des précisions concernant les mesures à prendre en cas d'atteinte à la sécurité. Le Centre travaille également à l'élaboration et à la mise en œuvre de lignes directrices relatives aux enquêtes et à la gestion des infractions à la vie privée.
+2. Il a été suggéré que CANAFE mette en œuvre un processus interne d'évaluation de la conformité des employés à l'égard des obligations en matière de protection des renseignements personnels (considéré comme un risque modéré).
+
+   Bien qu'il ne s'agisse pas d'une procédure documentée, les gestionnaires surveillent continuellement les pratiques de protection de la vie privée adoptées par les employés de CANAFE au niveau opérationnel. Puisque CANAFE a pour mandat de protéger les renseignements personnels qui lui sont confiés, l'ensemble de son personnel, y compris les agents de conformité, reçoit une formation et des rappels concernant la nécessité d'utiliser et de protéger convenablement les renseignements personnels. Les séances de formation se font de différentes manières :
+
+   * Présentation sur la sécurité obligatoire pour tous les nouveaux employés de CANAFE : Cette séance comprend une partie précise sur la protection de la vie privée et des renseignements personnels.
+   * Vidéo sur la sensibilisation aux renseignements personnels à consulter sur le site Web de CANAFE.
+   * Examen bisannuel par le Commissariat à la protection de la vie privée du Canada dans le cadre d'une évaluation élargie, à l'échelle organisationnelle des pratiques en matière de vie privée de CANAFE.
+
+   En ce qui concerne particulièrement l'équipe du programme d'assurance de la conformité, on assure le renforcement et la sensibilisation au moyen d'une rigoureuse formation pour l'autorisation des agents de conformité, axée sur la collecte de renseignements conformément à la Loi. De plus, des politiques et des procédures ont été élaborées. Elles sont précisément intégrées à la fonction de conformité, puisque les employés traitent des renseignements personnels au quotidien.
+3. Il a été suggéré que CANAFE envisage d'intégrer des dispositions visant à améliorer la protection de la vie privée dans le but de renforcer ses protocoles d'entente avec les unités du renseignement financier (URF) étrangères avec lesquelles il échange des renseignements (considéré comme un risque modéré).
+
+   Les protocoles d'entente de CANAFE ont toujours renfermé des dispositions claires visant à garantir la protection des renseignements communiqués aux diverses URF, qui reflètent ses pratiques en matière de sécurité. En tant que membre du Groupe Egmont, CANAFE bénéficie également d'outils conçus pour assurer la protection des renseignements échangés entre les membres du Groupe. CANAFE s'est en outre engagé à continuer de surveiller ses échanges avec ses partenaires internationaux afin de trouver des moyens novateurs d'atténuer les risques à la vie privée.
+4. Il a été noté, au moment de cette évaluation, que les énoncés relatifs à la protection des renseignements personnels de CANAFE n'étaient pas entièrement conformes aux exigences du SCT (considéré comme un risque faible).
+
+   Afin de maîtriser ce risque, CANAFE met à jour continuellement ses avis de confidentialité sur son site Web et dans ses rapports imprimés. De plus, il évalue actuellement les exigences de normalisation de son site Internet et modifie ses avis et énoncés de confidentialité en conséquence.
+5. Il a été suggéré de mettre à jour les fichiers de renseignements personnels (FRP) liés aux déclarations de CANAFE se trouvant sur Info Source afin d'intégrer les changements découlant des modifications législatives à la Loi (considéré comme un risque faible).
+
+   CANAFE a présenté au SCT un nouveau FRP mis à jour en vue de son inscription. Ce nouveau FRP comprend maintenant des renseignements sur les nouvelles exigences de conservation et d'élimination liées aux déclarations, ainsi que de nouveaux renseignements sur de nouveaux usages principaux ou « compatibles » de renseignements personnels.
+
+## Inscription des entreprises de services monétaires Suite à la promulgation du projet de loi C-25, une des modifications apportées à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes portait sur l'élaboration et la mise en œuvre par CANAFE d'une application sur le Web pour l'inscription des entreprises de services monétaires exploitées au Canada.
+
+### Évaluation des facteurs relatifs à la vie privée
+
+#### Introduction
+
+Le Centre d'analyse des opérations et déclarations financières du Canada (CANAFE) a procédé à une analyse des ses activités relatives aux entreprises de services monétaires (ESM), conformément à la Politique d'évaluation des facteurs relatifs à la vie privée (EFRVP) du Secrétariat du Conseil du Trésor (SCT). Le rapport de cette évaluation a été transmis au Commissariat à la protection de la vie privée du Canada en décembre 2007.
+
+L'analyse des facteurs relatifs à la vie privée a permis de recenser trois risques pour la vie privée où CANAFE pourrait mieux se conformer à la Loi sur la protection des renseignements personnels et aux politiques connexes, et ce, même s'il continue à considérer la confidentialité et la sécurité de l'information comme des valeurs générales et fondamentales de chaque aspect de ses opérations (y compris le programme d'inscription des ESM).
+
+#### Objectif
+
+Aux termes de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi), CANAFE a pour mandat de recevoir, de recueillir, d'analyser, d'utiliser et de communiquer des renseignements financiers personnels relatifs au recyclage des produits de la criminalité, au financement des activités terroristes et aux menaces à la sécurité du Canada.
+
+En vertu d'une modification apportée à la Loi au moyen du projet de loi C-25, CANAFE est tenu d'élaborer et de mettre en œuvre une nouvelle fonction, celle de l'inscription des entreprises de services monétaires. Par conséquent, CANAFE a créé un registre des ESM qui exercent leurs activités au Canada.
+
+Il continuera à apporter des améliorations à l'application relative aux ESM pour satisfaire aux exigences opérationnelles grâce à diverses mises à jour. CANAFE s'est engagé à se conformer à la Loi sur la protection des renseignements personnels et continuera d'évaluer à l'avenir la conformité à l'inscription des ESM à l'égard de cette loi et de ses règlements en plus de mettre à jour périodiquement l'EFRVP connexe.
+
+#### Description
+
+En vue d'établir et de gérer cette nouvelle fonction législative, CANAFE a élaboré une application Web spécialement conçue pour faciliter l'inscription des ESM.
+
+Le but de cette application est de permettre à CANAFE de satisfaire à l'exigence imposée par la loi concernant la collecte de renseignements sur les ESM et de permettre à ces dernières de s'acquitter de leurs obligations d'enregistrement et d'actualisation de leurs propres renseignements, conformément à la loi.
+
+#### Conclusion
+
+CANAFE a adopté une approche proactive pour corriger ou atténuer tout risque éventuel à la vie privée pour chacun des domaines recensés.
+
+1. Il n'existe aucun fichier de renseignements personnels (FRP) relatif aux renseignements personnels recueillis auprès des ESM et des utilisateurs du système d'inscription.
+
+   Bien que la plupart des renseignements recueillis aux fins d'inscription puissent constituer des coordonnées d'affaires, certains d'entre eux (p. ex. la date de naissance) sont des renseignements personnels concernant des agents ou des mandataires des ESM. Par conséquent, CANAFE a présenté au SCT un FRP aux fins d'inscription.
+2. Une évaluation de la menace et des risques (EMR) du système d'inscription des EMS n'a pas encore été effectuée.
+
+   Une EMR du registre des ESM a été effectuée avant la mise en service de celui-ci en juin 2008.
+3. Aucune procédure n'a été établie relativement à l'enregistrement et à l'examen de la nature, de la fréquence et de la résolution des plaintes.
+
+   CANAFE compte une procédure concernant les plaintes relatives à la Loi sur la protection des renseignements personnels qu'il a mise à jour et y a intégré des activités de gestion et d'examen périodique des plaintes afin de s'assurer que toutes les plaintes ont été traitées.
+
+## Direction des opérations régionales et de la conformité Pour s'assurer que les entités déclarantes respectent leurs obligations en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, CANAFE a mis sur pied un programme de conformité. Ce programme comprend un système de pénalités administratives pécuniaires qui est entré en vigueur le 30 décembre 2008 dans le cadre duquel des sanctions civiles peuvent être imposées aux entités déclarantes dans les cas de non-conformité.
+
+### Évaluation des facteurs relatifs à la vie privée
+
+#### Introduction
+
+Le Centre d'analyse des opérations et déclarations financières du Canada (CANAFE) est l'unité du renseignement financier du Canada. Le Centre a été créé afin de recueillir, d'analyser et de communiquer des renseignements financiers sur des activités présumées de blanchiment d'argent, de financement d'activités terroristes et sur des soupçons de menace à la sécurité du Canada. Créé en vertu de la Loi sur le recyclage des produits de la criminalité en juillet 2000, le Centre fait partie intégrante de l'engagement qu'a pris le Canada envers la lutte mondiale contre le blanchiment d'argent et le financement des activités terroristes.
+
+La Loi sur le recyclage des produits de la criminalité a ensuite été modifiée par la Loi antiterroriste, qui a été proclamée en vigueur le 24 décembre 2001. Les modifications permettaient d'élargir le mandat de CANAFE afin qu'il comprenne la détection et la dissuasion du financement des activités terroristes et les questions en lien avec la sécurité du Canada. Cette loi est alors devenue la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi).
+
+D'autres modifications ont été apportées à la Loi par l'entremise du projet de loi C-25 qui a reçu la sanction royale le 14 décembre 2006. Certaines de ces modifications amélioraient la capacité de CANAFE de respecter son mandat en matière de conformité, comme l'inscription des entreprises de services monétaires (ESM) et le programme de pénalités administratives pécuniaires (PAP) qui sont maintenant en vigueur depuis le 30 décembre 2008.
+
+En vertu de la Loi, CANAFE a pour mandat de recevoir, de recueillir, d'analyser, d'utiliser et de communiquer des renseignements financiers personnels ayant trait au blanchiment d'argent, au financement d'activités terroristes et à des menaces à la sécurité du Canada. Pour s'assurer que les entités qui sont tenues de déclarer des opérations financières en vertu de la Loi respectent leurs obligations, CANAFE dispose d'un programme de conformité.
+
+#### Objectif
+
+Puisque les activités en lien avec le programme de conformité nécessitent des renseignements personnels sensibles, CANAFE a entrepris une évaluation des facteurs relatifs à la vie privée (EFRVP). Le but de ce rapport est de présenter les résultats de cette évaluation.
+
+#### Description
+
+Avant décembre 2006, la Loi prévoyait de lourdes sanctions pénales en cas de contravention. Les modifications qui y ont été apportées par l'entremise du projet de loi C-25 permettent maintenant à CANAFE d'imposer des pénalités administratives pour régler les cas moins graves de non-conformité, ce qui lui permet d'adopter une approche plus équilibrée et graduelle pour assurer la conformité. En vertu de ces modifications, CANAFE a mis sur pied le programme de pénalités administratives pécuniaires (PAP), qui permet d'imposer aux entités déclarantes qui ne s'acquittent pas de leurs obligations aux termes de la Loi des amendes administratives.
+
+#### Conclusion
+
+Les lignes directrices sur l'évaluation des facteurs relatifs à la vie privée du Secrétariat du Conseil du Trésor ont servi d'assises à cette EFRVP qui compte trois éléments :
+
+* une analyse des données sur le traitement des renseignements personnels;
+* une analyse des renseignements personnels afin d'assurer le respect des principes en la matière;
+* une étude des enjeux en matière de renseignements personnels et la présentation de recommandations et de mesures à adopter pour atténuer les risques ciblés.
+
+L'analyse a porté sur le respect des dix principes relatifs à l'équité dans le traitement des renseignements et a établi que, même si CANAFE continue d'accorder la plus haute importance à la sécurité et à la protection des renseignements personnels dans tous les aspects de ses activités, dont le programme de conformité qui comprend le programme de PAP, il existe trois risques dont l'atténuation permettrait à CANAFE de mieux respecter la Loi sur la protection des renseignements personnels et ses politiques connexes.
+
+CANAFE a adopté une approche proactive pour régler et/ou atténuer chacun des risques ciblés et nécessitant l'apport de modifications, dans une mesure ou dans une autre :
+
+1. CANAFE n'a pas encore élaboré et mis en œuvre un processus d'évaluation périodique du rendement des employés en ce qui a trait au respect des normes internes pour la protection des renseignements personnels.
+
+   Compte tenu de la nature modérée de ce risque, on a suggéré que CANAFE élabore et mette en œuvre des processus de supervision à l'interne pour évaluer le respect, par les employés, des obligations en matière de protection des renseignements personnels.
+
+   Puisque CANAFE a pour mandat de protéger les renseignements personnels qui lui sont confiés, tous les employés du Centre, y compris les agents de conformité, reçoivent de la formation et des rappels sur les exigences en lien avec l'utilisation et la protection de ces renseignements par l'entremise :
+
+   * de politiques et procédures qui servent d'assises à la fonction de conformité;
+   * de séances de formation rigoureuse pour les agents de conformité et qui portent sur la collecte, l'utilisation et la protection des renseignements personnels;
+   * d'examens bisannuels effectués par le Commissariat à la protection de la vie privée dans le cadre d'une évaluation plus vaste des pratiques en lien avec la protection des renseignements personnels de CANAFE.
+2. CANAFE n'a pas terminé le processus nécessaire pour obtenir du bibliothécaire et archiviste du Canada l'autorisation de détruire des documents comprenant des renseignements personnels liés à la conformité.
+
+   Compte tenu de la nature modérée de ce risque, on a suggéré que CANAFE termine les discussions nécessaires pour obtenir du bibliothécaire et archiviste du Canada l'autorisation de détruire des documents comprenant des renseignements personnels liés à la conformité.
+
+   * Les représentants de la gestion de l'information de CANAFE ont rencontré le personnel de Bibliothèque et Archives Canada pour discuter de l'obtention de l'autorisation de détruire tous les documents du Centre, y compris ceux comprenant des renseignements liés à la conformité. Les discussions sur le sujet se poursuivent.
+3. La documentation de CANAFE concernant la conformité ne respecte pas pleinement les normes sur la Normalisation des sites Internet et la Politique sur la protection de la vie privée du Conseil du Trésor.
+
+   Compte tenu de la nature modérée de ce risque, on a suggéré que CANAFE ajoute les avis appropriés sur ses formulaires électroniques et papiers et sur ses écrans Web afin d'assurer le respect des normes sur la Normalisation des sites Internet et de la Politique sur la protection de la vie privée du Conseil du Trésor.
+
+   * CANAFE télécharge continuellement ses déclarations de confidentialité sur son site Web et les ajoute à ses rapports papier. Le Centre étudiera également toutes les exigences en lien avec la Normalisation des sites Internet et modifiera ses déclarations et ses énoncés de confidentialité en conséquence.
+
+## Outil de recherche intégré – Accès au Portail d'informations policières L'outil de recherche intégré fourni aux partenaires du Système national intégré d'information interorganismes permet à CANAFE d'interroger les bases de données des services de police canadiens qui sont accessibles par le Portail d'informations policières.
+
+### Introduction
+
+CANAFE est régi par la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi). Cette loi autorise le Centre à recueillir des renseignements qu'il considère pertinents en ce qui a trait au blanchiment d'argent ou au financement d'activités terroristes, et qui sont stockés dans des bases de données mises à jour par les gouvernements fédéral et provinciaux aux fins d'application de la loi ou de sécurité nationale. Compte tenu du pouvoir que la loi confère à CANAFE d'accéder à ces bases de données, le Centre est un partenaire dans le Système national intégré d'information interorganismes (N-III), qui reposera sur une méthode progressive afin que les ministères et les organismes fédéraux puissent avoir accès aux renseignements compris dans les bases de données des services de police canadiens.
+
+CANAFE a rédigé un rapport d'évaluation des facteurs relatifs à la vie privée (ÉFVP) concernant son accès à des renseignements indexés du Portail d'informations policières (PIP) par l'Outil de recherche intégré (ORI) du système N-III. Bien que le rapport ait été rédigé à titre d'annexe de l'Évaluation globale, à l'échelle intergouvernementale, des facteurs relatifs à la vie privée par rapport à l'échange d'information (EI) - Rapport sur l'utilisation de l'ORI, et coordonné par Sécurité publique Canada, il est directement lié à [l'ÉFVP de base sur la déclaration et l'analyse](#s1) de CANAFE.
+
+### Objectif
+
+L'outil sert à faire état des résultats de l'évaluation relative à la vie privée propre aux processus opérationnels de CANAFE et de l'analyse des données sur le flux de renseignements personnels découlant de l'accès du Centre à des renseignements indexés particuliers dans la base de données du PIP par l'ORI.
+
+### Description
+
+L'ORI permet maintenant à CANAFE d'interroger les bases de données des services de police
+canadiens qui seront accessibles par le PIP et d'en extraire les données indexées. L'accès de CANAFE au PIP élargira le volume d'informations de police mises à la disposition des analystes, ce qui permettra d'effectuer des analyses de renseignements plus détaillées et plus complètes. L'accès aux renseignements du PIP dans l'ORI améliorera également l'efficacité dans la génération de dossiers du Centre, puisque les analystes seront en mesure de mener des enquêtes et d'obtenir des renseignements indexés de divers systèmes d'enregistrement de manière simultanée.
+
+### Conclusion
+
+Les Lignes directrices sur l'évaluation des facteurs relatifs à la vie privée du SCT ont servi de base à cette PIA, qui comporte trois volets :
+
+* Analyse des données sur le flux de renseignements personnels
+* Analyse de la protection des renseignements afin de déterminer la conformité avec les principes du droit à la vie privée
+* Enjeux relatifs à la vie privée et recommandations, y compris les mesures de suivi à l'égard des risques isolés
+
+L'analyse de la protection des renseignements portait notamment sur l'observation du Centre des dix principes relatifs à l'équité dans le traitement de l'information. Selon l'analyse, CANAFE continue de considérer le respect de la vie privée et la sécurité des renseignements comme un facteur très important et fondamental dans toutes ses sphères d'activité. Trois risques d'entrave à la vie privée à incidence limitée inhérents à la conformité de CANAFE à la Loi sur la protection des renseignements personnels et aux politiques connexes ont été cernés.
+
+CANAFE a adopté une approche proactive en vue d'éliminer ou de réduire les risques à l'égard de chaque domaine ayant été ciblé comme nécessitant divers niveaux de modification :
+
+1. CANAFE n'a pas achevé le processus visant à obtenir une autorisation de disposition des dossiers contenant des renseignements personnels acquis par l'ORI du bibliothécaire et archiviste du Canada
+   * En novembre 2009, un PE a été conclu entre la gestion de l'information de CANAFE et Bibliothèque et Archives Canada. En 2010, CANAFE a entrepris toutes les discussions officielles afin d'obtenir une autorisation de disposition des documents (ADD) pour tous ses dossiers, y compris ceux contenant des renseignements personnels, du bibliothécaire et archiviste du Canada.
+   * La gestion des renseignements de CANAFE définit l'architecture complète de ses renseignements afin de s'assurer que tous les renseignements pour lesquels le BAC devra octroyer des ADD seront prêts aux fins d'examen.
+   * L'AIPRP de CANAFE mettra son fichier de renseignements personnels à jour avec l'information nécessaire concernant la conservation et la disposition des dossiers contenant des renseignements personnels tirés des bases de données du gouvernement (comme le PIP).
+2. Le fichier de renseignements personnels (FRP) de CANAFE no PPU 220 sur l'analyse financière et la divulgation ne contient pas de référence à son accès à l'outil de recherche intégré.
+   * Compte tenu de son mandat de service de renseignements, CANAFE doit faire très attention avant de divulguer ses sources de renseignement. Afin d'assurer la confidentialité de certaines bases de données du gouvernement auxquelles CANAFE n'a pas accès, celui-ci ne peut pas inclure, dans son FRP, une liste complète de ces bases de données auxquelles il n'a pas accès.
+   * On peut raisonnablement s'attendre au maintien d'une telle confidentialité, compte tenu du mandat de CANAFE conféré par la loi et de son rôle à titre d'organisme de services de renseignement.
+3. CANAFE a demandé une exemption de la clause de la politique de l'ORI nécessitant la validation des renseignements qu'il reçoit en réponse à une demande.
+   * Sans l'exemption, la validation requise donnerait lieu à une divulgation contraire à l'interdiction prévue par la loi relative à la divulgation illégale des renseignements aux termes du paragraphe 55(1) de la Loi.
+   * CANAFE ne mène pas d'enquêtes, mais fournit plutôt aux organismes d'application de la loi des indices pour les aider dans le cadre de leurs enquêtes. Les organismes d'application de la loi assurent l'exactitude et la validité des renseignements dans leurs bases de données et dans leurs dossiers d'enquêtes avant que des mesures ne soient prises à l'encontre d'un particulier.
+
+## Système de gestion des ressources humaines de CANAFE – Workday En 2023, CANAFE a mis en œuvre la suite de solutions de gestion de capital humain Workday pour gérer ses activités de ressources humaines.
+
+### Introduction
+
+En 2023, le Centre d'analyse des opérations et déclarations financières du Canada (CANAFE) a mis en œuvre un nouveau système pour gérer ses activités de ressources humaines (RH). Le nouveau système a remplacé ses anciennes applications de RH par des outils de travail plus modernes qui s'alignent sur les initiatives de transformation numérique du gouvernement du Canada. Les outils de type « Software as a service (SaaS) » (logiciel en tant que service) sont l'avenir des produits de gestion du capital humain, et Workday, qui est l'un d'entre eux, s'aligne sur la stratégie de GI/TI du gouvernement du Canada. Le nouveau système de RH fournit un moyen efficace et sécurisé pour le personnel des RH de traiter les opérations de recrutement, l'apprentissage, la rémunération, le suivi des absences et du temps, la gestion des talents et du rendement, ainsi que l'analytique. Il réduit aussi considérablement la charge administrative, notamment en supprimant les processus manuels, et améliore la gestion, l'intégrité, la confidentialité et la sécurité des données.
+
+CANAFE a réalisé une évaluation des facteurs relatifs à la vie privée (EFVP) concernant sa nouvelle solution de gestion des ressources humaines, conformément à la Directive sur les évaluations des facteurs relatifs à la vie privée. CANAFE a partagé le rapport d'EFVP avec le Commissariat à la protection de la vie privée en 2023.
+
+### Objectif
+
+CANAFE a acheté la suite de solutions de gestion du capital humain Workday, qui fournit à sa Direction des ressources humaines (Personnes, culture et milieu de travail) une solution commune unique pour les fonctionnalités de base, de nouveaux flux de travail efficaces et des fonctions libre-service, ainsi qu'une capacité améliorée de production de rapports automatisés.
+
+En plus de satisfaire aux besoins opérationnels immédiats, les principaux facteurs de mise à niveau vers la solution Workday sont les suivants :
+
+* la facilité d'utilisation pour les prestataires de services en RH, les utilisateurs finaux et les dirigeants;
+* des fonctions de sécurité et de protection de la vie privée avancées.
+
+### Sommaire des risques pour la vie privée
+
+Un aspect important du mandat de CANAFE en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) est l'obligation légale explicite pour CANAFE d'assurer la protection des renseignements personnels qu'il détient. Pour s'acquitter de cette obligation, l'engagement de CANAFE à l'égard de la protection de la vie privée est une considération primordiale dans toutes ses activités, qu'il s'agisse de ses opérations de renseignement et de conformité ou de l'exécution de ses programmes organisationnels. En plus des mesures de protection établies pour les organisations à sécurité élevée dans leur entente avec Workday, la mise en œuvre de la solution par CANAFE a fait l'objet d'évaluations de sécurité à plusieurs niveaux afin de s'assurer qu'au moment de son déploiement, tous les risques de sécurité ont été cernés et atténués et que les renseignements des employés de CANAFE sont bien protégés. Outre les exigences de sécurité et de protection, il existe une entente de non-divulgation entre CANAFE et Workday Inc. ainsi que des plans détaillés pour garantir l'identification et la réponse opportune aux incidents de sécurité. Ces plans comprennent des procédures décrivant les rôles et les responsabilités, l'analyse des risques, la communication et la documentation des incidents.
+
+Workday modernise la façon dont Personnes, culture et milieu de travail mène son travail et soutient ses employés. L'utilisation de Workday n'entraîne pas de nouvelles collectes ou utilisations des renseignements personnels des employés; elle modifie simplement la façon dont les opérations des RH sont gérées et y apporte une plus grande transparence. Le système Workday permet d'améliorer l'efficacité des programmes grâce à l'intégration des processus de RH établis et donne aux employés de CANAFE un meilleur accès à leurs propres renseignements et un meilleur contrôle de ceux-ci, tout en leur donnant l'assurance que leurs renseignements sont protégés contre tout accès et utilisation non autorisés. Workday intègre des configurations de sécurité et de protection de la vie privée qui empêchent les utilisateurs d'accéder à des informations qui ne leur appartiennent pas ou auxquelles ils n'ont pas besoin d'accéder pour des raisons professionnelles. De plus, contrairement aux anciens processus de RH de CANAFE, les employés contrôlent leurs renseignements personnels et peuvent consulter l'ensemble de leurs données et de leurs dossiers, ce qui leur permet de s'assurer que leurs renseignements sont exacts et à jour.
+
+Par conséquent, CANAFE a évalué que les risques mineurs inhérents à l'utilisation d'une solution tierce sont largement compensés par les avantages que l'adoption de Workday apporte aux employés et à leur vie privée.
+
+Date de modification :
+:   2024-09-17

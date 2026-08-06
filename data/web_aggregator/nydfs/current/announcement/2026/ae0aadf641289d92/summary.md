@@ -1,0 +1,1 @@
+Summary: ![two people sharing an application form](/sites/default/files/styles/wide_lead/public/media/2024/03/Hero-Application-Licensing.png?h=4ceba23e&itok=4yM25GfF "two people sharing an application form")

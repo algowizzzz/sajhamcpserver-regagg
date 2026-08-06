@@ -1,0 +1,8 @@
+# Directives du surintendant conformément à la Loi sur les régimes de pension agréés collectifs (en vigueur : 25 février 2021)
+
+En complément de ce qui est prévu au paragraphe 58(4), tout document devant être déposé aux termes de l'article 58 de la *Loi sur les régimes de pension agréés collectifs* doit l'être dans les quatre mois suivant la fin de l'exercice auquel il se rapporte.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2021-02-25

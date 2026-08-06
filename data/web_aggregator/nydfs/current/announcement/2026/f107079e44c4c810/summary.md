@@ -1,0 +1,1 @@
+Summary: *Individuals are considered LEP if they do not speak English as their preferred language and have limited ability to read, speak, write, or understand spoken

@@ -1,0 +1,27 @@
+{
+  "doc_id": "60363e1d920e5e3b",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:35ff1fe2e6aabc06027fe18152838c371f63fbb704066e17fdd489a6cdebcbc7",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/60363e1d920e5e3b",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025",
+  "fetch_method": "html_to_md"
+}

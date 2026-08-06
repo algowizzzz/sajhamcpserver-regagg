@@ -1,0 +1,2720 @@
+1
+WORLD INVESTOR WEEK 2025 & RELATIONSHIP 
+INVESTMENT SCAMS ANTI-FRAUD CAMPAIGN
+PUBLIC REPORT
+INTERNATIONAL ORGANIZATION 
+OF SECURITIES COMMISSIONS
+IOSCO
+
+2
+TABLE OF CONTENTS
+WORLD INVESTOR WEEK 2025
+ 05
+INTRODUCTION
+ 06
+THE IOSCO WORLD INVESTOR WEEK
+ 07
+WIW 2025 RESULTS
+ 09
+SUPPORTERS
+ 11
+HOW TO PARTICIPATE
+ 12
+ABOUT IOSCO
+ 12
+CONTACT US
+ 12
+RELATIONSHIP INVESTMENT SCAMS ANTI-FRAUD CAMPAIGN
+ 13
+INTRODUCTION
+ 14
+THE RELATIONSHIP INVESTMENT SCAMS ANTI-FRAUD CAMPAIGN
+ 14
+RIS CAMPAIGN 2025 RESULTS
+ 15
+REPORTS OF THE WIW AND RIS PARTICIPATING JURISDICTIONS
+ 18
+ANGOLA
+ 19
+ARGENTINA
+ 21
+BAHAMAS
+ 23
+BELGIUM
+ 26
+BELIZE
+ 30
+BRAZIL
+ 33
+BRUNEI
+ 37
+CABO VERDE
+ 40
+CANADA
+ 48
+CANADA (ONTARIO)
+ 42
+CANADA (QUEBEC)
+ 45
+CHILE
+ 50
+CHINA
+ 52
+CHINESE TAIPEI
+ 54
+COLOMBIA
+ 59
+CROATIA
+ 61
+DOMINICAN REPUBLIC
+ 63
+EGYPT
+ 68
+EL SALVADOR
+ 71
+
+3
+GERMANY
+ 76
+GIBRALTAR
+ 78
+GREECE
+ 80
+HONG KONG, CHINA
+ 82
+INDIA
+ 86
+INDONESIA
+ 89
+ISRAEL
+ 94
+ITALY
+ 96
+JAPAN
+ 98
+KINGDOM OF SAUDI ARABIA
+ 100
+LITHUANIA
+ 103
+LUXEMBOURG
+ 108
+MALAYSIA
+ 110
+MAURITIUS
+ 115
+MOROCCO
+ 119
+NEW ZEALAND
+ 124
+PANAMA
+ 127
+PERU
+  130
+POLAND
+ 133
+PORTUGAL
+ 136
+QATAR
+ 139
+REPUBLIC OF KOREA
+ 142
+ROMANIA
+ 145
+SINGAPORE
+ 147
+SOUTH AFRICA
+ 152
+SPAIN
+ 156
+TANZANIA
+ 159
+THAILAND
+ 161
+TUNISIA
+ 166
+UNITED ARAB EMIRATES
+ 168
+UNITED STATES OF AMERICA
+ 170
+ZIMBABWE
+ 174
+Financial Planning Standards Board Ltd. (FPSB)
+ 176
+FRANCE
+ 73
+
+4
+International Federation of Accountants (IFAC)
+ 182
+Annex 1 – WIW 2025 Global and Regional Events
+ 185
+Annex 2 – IOSCO Committee on Retail Investors (Committee 8 members)
+ 189
+Annex 3 – List of WIW RIS Working Group Members
+ 192
+IOSCO Asia Pacific Hub
+ 179
+
+5
+WORLD INVESTOR 
+WEEK 2025
+
+6
+INTRODUCTION
+Investor protection is one of the key priorities of the International Organization of Securities Commissions 
+(IOSCO). The World Investor Week (WIW) is an initiative of IOSCO1 to raise awareness about the importance 
+of investor education and protection. The WIW is conducted in the week that covers the first Monday of 
+October of each year, although the participating jurisdictions are allowed to conduct WIW-related activities in 
+any other week of October or November. During the WIW, a diversity of outreach activities is carried out by 
+participating IOSCO member jurisdictions.
+By using the IOSCO network to facilitate a coordinated and, therefore, more powerful approach, the IOSCO 
+WIW also provides a framework for individual jurisdictions to publicize their investor education and protection 
+initiatives and to deliver more tailored messaging within their jurisdictions.
+In October 2025, IOSCO, with the support of other organizations, carried out the ninth edition of WIW and 
+achieved outstanding results. This edition took place against a backdrop of significant market developments, 
+including increased digitalization, the emergence of new products and services, and greater participation of 
+retail investors in capital markets worldwide.
+In this context, the 2025 campaign focused on three main themes: Technology and Digital Finance, Artificial 
+Intelligence (AI), and Fraud & Scam Prevention, which the IOSCO Board has identified as particularly relevant 
+given current and expected global market conditions. Other themes covered were Crypto Assets and the 
+Basics of Investing.
+This report compiles the information provided by the participants in the 2025 campaign. It presents real 
+examples of the wide range of initiatives organized and conducted by participating jurisdictions, illustrating 
+the types of activities that could be undertaken in future WIW campaigns. Additionally, these examples can 
+serve as a valuable resource for current and future financial education and investor protection initiatives.
+IOSCO members and interested stakeholders are invited to participate in the WIW and the forthcoming WIW 
+2026 campaign.
+contact us at: worldinvestorweek@iosco.org
+For more information
+1 The International Organization of Securities Commissions (IOSCO) is the international body that brings together the world’s securities 
+regulators and is recognized as the global standard setter for the securities sector.  IOSCO develops, implements, and promotes adherence 
+to internationally recognized standards for securities regulation.
+website: www.worldinvestorweek.org
+
+7
+THE IOSCO WORLD INVESTOR WEEK 
+The IOSCO World Investor Week is a global, week-long campaign dedicated to raising awareness about the 
+importance of investor education and protection. It also aims to highlight the various initiatives undertaken by 
+securities regulators in these two crucial areas. 
+The IOSCO WIW has two primary objectives, namely (i) to disseminate key messages that support investor 
+education, investor protection, and financial literacy; and (ii) to foster learning opportunities for investors. 
+The campaign also strives to strengthen collaboration among IOSCO members on investor education and 
+protection initiatives while raising IOSCO’s visibility among key international stakeholders. 
+The 9th edition of the WIW campaign took place from 6 to 12 October 2025. Its key messages centered 
+around three main themes: 1) Technology and Digital Finance, 2) Artificial Intelligence, and 3) Fraud & Scam 
+Prevention, which were further supported by two additional themes focusing on Crypto Assets and the Basics 
+of Investing. 
+IOSCO securities regulators and other IOSCO members from six continents engaged in a wide array of 
+activities during WIW 2025, including podcasts, webinars, conferences, and broad-reaching initiatives 
+aimed at diverse groups. Notably, initiatives targeting young people, students, and professors are growing in 
+relevance, leveraging innovative tools to promote financial awareness from an early age. 
+It was also observed that participating jurisdictions are increasingly adopting digital and virtual tools and 
+expanding their social media presence when promoting WIW initiatives. The campaign was actively promoted 
+through major social media platforms (LinkedIn, Facebook, X, Instagram). 
+On the other hand, some jurisdictions have made a concerted effort to maintain direct, in-person interactions 
+with their audience, as these interactions create a more engaging and immersive experience for attendees. 
+The enhanced website for WIW www.worldinvestorweek.org , launched in 2024, was further improved in 
+2025 to surface more content on the homepage, drawing users’ attention and helping them find what they 
+were looking for more easily and quickly. An interactive “contact us” form enabled users to get in touch with 
+the IOSCO WIW team quickly and seamlessly. 
+In this way, greater prominence was given to the supporting organizations and to the jurisdictions running the 
+WIW campaign. Additionally, impactful graphics helped to tell the story of WIW. 
+There is a clear perception that the continuous introduction of richer content, more colour, and greater 
+interactivity and dynamism — all under IOSCO’s new brand identity — plays an important role in fostering 
+strong relationships for future collaboration.
+
+8
+A total of 118 member jurisdictions and an additional 19 organizations that prioritise investor education 
+participated in the WIW 2025 campaign. At the national level, in addition to the securities regulators, the 2025 
+WIW campaign was supported by a broad set of participants, such as self-regulatory organizations, industry 
+associations, market participants, other financial authorities, and various stakeholders (e.g., universities and 
+schools). 
+A summary of Global and Regional events held in WIW 2025 is presented in Annex 1 of this report. 
+In 2025, IOSCO Committee 8 (C8) revised the WIW Governance, setting up a dedicated WIW Multi-
+Coordination Group to oversee WIW and coordinate activities. Members of the Multi-Coordination Group 
+must be C8 members who volunteer for the role and must have expertise in financial regulation, particularly 
+in the areas of financial and investor education.
+The Multi-Coordination Group is responsible for 
+Ensuring that all activities and projects required for the preparation, execution, and evaluation of the campaign 
+are carried out. To accomplish this, they will make necessary decisions in consultation with the WIW Working 
+Group and coordinate relevant matters with the C8 Chair and the IOSCO General Secretariat.
+Reaching out to other institutions, whether they are members of IOSCO or not. In this situation, the Multi-
+Coordination Group should adhere to the specific guidelines outlined in the campaign implementation plan to 
+promote the involvement of new entities and the creation of new initiatives.
+Drafting key messages, creating a social media plan, designing communications, graphics, and the website. 
+The WIW website is hosted on a domain administered by IOSCO. In coordination with the IOSCO General 
+Secretariat, new domains can be established in the future. The Multi-Coordination Group will select a 
+‘Facilitator’ from among its members to ensure that the campaign progresses on time and that the tasks 
+allocated within the Multi-Coordination Group are duly completed.
+Ensure that there is media coverage of WIW to enhance the impact of the campaign worldwide. This work 
+will be coordinated with IOSCO’s communication team. An example of seeking media coverage is arranging 
+a specially designed Google Doodle for the WIW.
+The WIW Multi-Coordination Group is responsible for coordinating the campaign internationally. This involves 
+reaching out to other organizations to discuss the possibility of obtaining their support for WIW. Such support 
+would include endorsing the campaign and helping to spread the WIW key messages among their members or 
+globally. Cooperation could also involve promoting events and activities in line with the Campaign Guidelines 
+for IOSCO Members. 
+The Multi-Coordination Group has been established, comprising representatives from four C8 members: CVM 
+(Brazil), CONSOB (Italy), CMA (Saudi Arabia), and FSA (Romania), with the support of the C8 Chair and Vice-Chair. 
+Maintaining the campaign, facilitating new member participation, and delegating or finding volunteers for 
+tasks as needed.
+
+9
+WIW 2025 RESULTS
+The overall results of WIW 2025, presented in this section, are derived from survey responses collected 
+via the online form provided by IOSCO on the WIW website. The post-campaign survey is a valuable tool 
+for assessing WIW impact, with the understanding that participating jurisdictions and global organizations 
+voluntarily submit their responses.
+Among the 137 participants in WIW 2025 (jurisdictions and supporters), 55 responded to the survey and 
+submitted a short report on their local initiatives using the same online form. These materials are included as 
+part of this comprehensive Public Report. 
+The map below shows the WIW 2025 participating jurisdictions in blue 
+The infographics that follow present a consolidated set of figures that highlight the reach and diversity of 
+activities carried out by participants during the WIW 2025 campaign. 
+Participating jurisdictions of WIW 2025. Source: www.worldinvestorweek.org
+
+10
+8,560
+Number of 
+Events Promoted
+918 Million
+Broadcast 
+Media
+People reached:
+Interviews, TV shows, and radio programs
+Events
+Format
+The organization of in-person events surpassed that of 
+online events. However, online events reached a 
+significantly larger audience.
+24% Online
+76% In-person
+Number
+of Attendees
+Online In-person
+15,181,069
+1,204,276
+Number of Participants
+2020 2021 2022 2023 2024 2025
+Jurisdictions Global and Regional Organizations
+0
+20
+40
+60
+80
+100
+120
+118
+19
+WIW 2025 IN NUMBERS
+
+11
+Post-Level Reach
+86% Paid Advertising
+14% Organic
+3,726
+Number of Posts
+343 Million
+Total Post-Level Reach
+People reached on WIW posts only
+72 Million
+Pageviews
+WIW 2025 continued attracting more supporters. As in the previous editions, Global and Regional 
+organizations supported and endorsed WIW 2025, as follows:
+SUPPORTERS
+CFA Institute
+European Fund and Asset Management Association (EFAMA)
+European Securities and Markets Authority (ESMA)
+Financial Planning Standards Board Ltd (FPSB)
+G20 (Presidency of South Africa)
+Global Financial Literacy Excellence Center (GFLEC)
+IFIE Americas Caribbean Working Group
+International Auditing and Assurance Standards Board (IAASB)
+International Ethics Standards Board for Accountants (IESBA)
+International Federation of Accountants (IFAC)
+International Financial Reporting Standards Foundation (the IFRS Foundation)
+International Network of Financial Services Ombudsman Schemes (the INFO Network)
+Investment Company Institute (ICI)
+IOSCO Asia Pacific Hub
+Organization for Economic Cooperation and Development (OECD)
+Sustainable Stock Exchange Initiative (the SSE Initiative)
+Union of Arab Securities Authorities (UASA)
+World Bank Group
+World Federation of Exchanges (WFE)
+SOCIAL MEDIA
+
+12
+HOW TO PARTICIPATE
+WIW 2025 took place from 6 to 12 October, with participating jurisdictions having the flexibility to organize 
+their activities around this week or any other week in October and November, to accommodate any conflict 
+with dates in a particular jurisdiction (e.g., national holidays). Organizations interested in joining WIW are 
+invited to contact the national coordinator in their jurisdiction or the IOSCO C8 WIW Multi-Coordination 
+Group at  worldinvestorweek@iosco.org
+The WIW website www.worldinvestorweek.org contains useful information for participating jurisdictions and 
+supporting organizations, including press releases and the WIW Implementation Guide.
+ABOUT IOSCO
+The International Organization of Securities Commissions (IOSCO) is the international body that brings 
+together the world’s securities regulators and is recognized as the global standard setter for the securities 
+sector. IOSCO develops, implements, and promotes adherence to internationally recognized standards for 
+securities regulation. It works intensively with the G20 and the Financial Stability Board (FSB) on the global 
+regulatory reform agenda.
+IOSCO members have resolved
+to cooperate in developing, implementing, and promoting adherence to internationally recognized and 
+consistent standards of regulation, oversight, and enforcement in order to protect investors, maintain fair, 
+efficient, and transparent markets, and seek to address systemic risks;
+to enhance investor protection and promote investor confidence in the integrity of securities markets, through 
+strengthened information exchange and cooperation in enforcement against misconduct and in the supervision 
+of markets and market intermediaries; and
+to exchange information at both global and regional levels on their respective experiences in order to assist 
+the development of markets, strengthen market infrastructure, and implement appropriate regulation.
+IOSCO believes the need for investor education and financial literacy has never been greater than today. As 
+the financial marketplace continues to evolve and innovate, investment products are becoming increasingly 
+complex and financial services increasingly diverse. Retail investors require a greater understanding of key 
+financial concepts to comprehend and evaluate the choices available to them and to avoid financial fraud. 
+Strengthening investor education and financial literacy programs is also essential at a time when responsibility 
+for saving and investing for retirement is shifting from the employer to the individual in many jurisdictions.
+CONTACT US
+www.worldinvestorweek.org
+Click here to view the list of participating jurisdictions and the respective leading organization.
+
+13
+RELATIONSHIP 
+INVESTMENT SCAMS 
+ANTI-FRAUD CAMPAIGN
+
+14
+INTRODUCTION
+Relationship Investment Scams (RIS) are a sophisticated form of online confidence scams (also referred to 
+as “pig butchering” by the international criminal syndicates that operate them). Perpetrators contact targets 
+through various communication channels, including misdirected or wrong number texts, dating apps, social 
+media, and other digital platforms. The scammers increasingly use artificial intelligence (AI), including Large 
+Language Models and deepfakes, to improve the believability of their fake personas. Typically, perpetrators 
+build trust with targets, convincing them they are in a caring or a mentor-protegee relationship. In many, but 
+not all instances, the emphasis eventually migrates towards investing together and both parties taking risks.
+A key strategy in these scams is psychological manipulation, where scammers exploit the emotional vulnerability 
+of the victims. Instead of making a direct request for money, perpetrators tend to direct targets to set up their 
+own accounts on a specified platform and transfer money via various methods, including cryptocurrency, 
+to those accounts. However, the accounts are on a fraudulent trading platform. Initially, victims are led to 
+believe they are making a significant return on their investments to encourage them to invest more. Once 
+the victims have nothing left to invest, refuse to continue investing, or seek to withdraw funds, the perpetrator 
+stops communicating and the victims lose access to their funds. Often, “recovery room” scams follow – where 
+individuals approach the victim claiming to be able to get their money back for a significant fee, which also 
+quickly disappears.
+Victims are both men and women and are often younger individuals, due to their engagement on 
+dating or social media platforms and their increased willingness to invest in crypto assets. However, 
+these scams are increasingly affecting older adults, likely because they have accumulated more 
+wealth over time. Older individuals also may be more vulnerable due to recent widowhood, social 
+isolation, cognitive decline, or a serious medical condition. 
+Total actual loss figures are unknown; however, estimates are as high as $75 billion globally.  The 
+United Nations reports that the scams are spreading throughout the world and that human trafficking 
+victims are often used to conduct the fraud. Due to the transnational nature of this crime and difficulty 
+recovering stolen funds, anti-victimization messaging through investor education remains a critical 
+defense.
+THE RELATIONSHIP INVESTMENT SCAMS ANTI-FRAUD CAMPAIGN
+C8 proposed the Relationship Investment Scams Anti-Fraud Campaign (RIS Campaign) to address the scams 
+through a coordinated communication and education campaign. The RIS Campaign was a sub-campaign 
+to the main WIW initiative, and it aimed to raise public awareness, reduce victimization, and enhance 
+communication and coordination among C8 members and other investor education professionals. 
+The C8 RIS Working Group developed a suite of educational materials for participants to customize for their 
+jurisdictions. The materials were made available in the members-only section of IOSCO.org. In addition, a 
+public RIS web page was launched to educate investors about the scams. The RIS Campaign launched in 
+October 2025 as part of WIW.
+
+15
+Similar to the main WIW initiative, RIS Campaign participants carried out educational outreach activities that 
+supported the campaign’s goals. Participants from 16 jurisdictions across five continents executed activities. 
+Online events such as podcasts and webinars were a highlight for many jurisdictions, with some engaging 
+in these activities for the first time. In-person events that allowed financial education professionals to inform 
+investors and the media were also a part of outreach efforts for the RIS Campaign. These events also provided 
+opportunities for the financial education professionals to hear first-hand scam experiences of investors. 
+Significant resources were dedicated to digital outreach for the campaign, including short-format educational 
+capsules, videos, and infographics. Social media and microsites were often used as the distribution channels 
+for these materials. 
+RIS CAMPAIGN 2025 RESULTS
+The overall results of the RIS Campaign are derived from voluntary post-campaign survey responses collected 
+via an online form provided by IOSCO. 
+The map below shows the 16 participating jurisdictions in blue:
+
+16
+358
+Number of Events Promoted
+1.4 Million
+Broadcast Media
+People reached via Interviews, TV shows, and radio programs
+In-person events accounted for over four times the 
+number of events compared to online events. However, 
+the online events generated more than five times the 
+attendance of in-person events.
+Events Format
+20% Online
+80% In-person
+Online In-person
+723,895
+143,462
+Number of Attendees
+Post-Level Reach
+93% Paid Advertising
+7% Organic
+211
+Number of Posts
+2.7 Million
+Total Post-Level Reach
+People reached on RIS posts only
+85  Thousand
+Pageviews
+SOCIAL MEDIA
+INFOGRAPHICS: RIS CAMPAIGN IN NUMBERS
+358
+Number of Events Promoted
+1.4 Million
+Broadcast Media
+People reached via Interviews, TV shows, and radio programs
+In-person events accounted for over four times the 
+number of events compared to online events. However, 
+the online events generated more than five times the 
+attendance of in-person events.
+Events Format
+20% Online
+80% In-person
+Online In-person
+723,895
+143,462
+Number of Attendees
+Post-Level Reach
+93% Paid Advertising
+7% Organic
+211
+Number of Posts
+2.7 Million
+Total Post-Level Reach
+People reached on RIS posts only
+85  Thousand
+Pageviews
+
+17
+As with the main WIW initiative, the RIS Campaign took place during the week of October 6th, with participating 
+jurisdictions having the flexibility to organize their activities around this week or any other week in October 
+and November, to accommodate any conflict with dates in a particular jurisdiction (e.g., national holidays).
+Click here to view the list of participating jurisdictions and the respective leading organization.
+
+18
+REPORTS OF THE
+PARTICIPATING
+JURISDICTIONS
+
+19
+ANGOLA
+
+20
+Lead Organization
+Comissão do Mercado de Capitais (CMC).
+Other Participants
+BNA (Central Bank), Ministry of Finance, ARSEG (Insurance and Pension Fund Regulator), TPA (state-owned television 
+channel), RNA (state-owned radio channel).
+The Capital Markets Commission of Angola (CMC) promoted 7 radio and 2 television programs. Additionally, 
+5 lectures were held at universities, and a kick-off event marked the start of WIW in Africa. To promote WIW, 
+the CMC communication strategy involved sharing flyers on social media, distributing SMI (Semana Mundial 
+do Investidor - WIW) content across digital platforms, and adding the event signature to its institutional email.
+The campaign reached over 4,090 people in 2025, a 23% increase from 2024, which significantly enhanced 
+the impact of our initiatives.
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+
+21
+ARGENTINA
+
+22
+Lead Organization
+Comisión Nacional de Valores (CNV).
+Other Participants
+N/A
+In this edition, the Comisión Nacional de Valores focused on recent developments and the opportunities 
+offered by the evolution of the Argentine capital market, with strategic axes centered on Technology and digital 
+finance; Cryptoassets and tokenization; Financial education and Modernization, and new opportunities in the 
+Argentine capital market.
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch
+
+23
+BAHAMAS
+
+24
+Lead Organization
+Securities Commission of The Bahamas (SCB).
+Other Participants
+Bahamas International Securities Exchange (BISX), RF Bank and Trust, as well as Royal Fidelity Bank - all recognized 
+WIW and conducted independent WIW activities.
+The Securities Commission of The Bahamas (SCB) marked World Investor Week 2025 with several key 
+initiatives, beginning with a proclamation by Prime Minister the Hon. Philip Edward Davis, KC, declaring 
+October as “Investor Education Month.” The announcement was shared via local newspapers, SCB’s website, 
+and social media channels.
+A major highlight was the #ScamProofMe242 Social Media Challenge, which encouraged the public to submit 
+short videos showing how they spot and avoid scams. Seventeen entries were received. Prizes were awarded to 
+the top three. The Commission also released a downloadable #ScamProofMe242 Starter Pack with practical 
+anti-scam tips.
+The “AI or A Lie?” campaign expanded digital outreach by showing how AI can create realistic scam content. 
+College students viewed scam scenarios and were asked whether they were real or AI-generated, reinforcing 
+digital literacy and critical thinking.
+A media tour further amplified key messages on fraud prevention and informed investing, while the release of 
+the second set of “Take 5 With The SCB” videos offered simple explanations of financial concepts.
+SCB volunteers also visited high schools to present on “Preparing to be an Investor,” covering investment basics 
+and fraud red flags. Public feedback was collected through an Investor Education Survey intended to guide 
+future initiatives. 
+The month closed with the annual “Are You A Smart Investor?” T-shirt Day, promoting awareness through QR-
+linked resources.
+
+25
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+Take 5 With The SCB
+Frauds and Scams Red Flags – Featuring Ilsha McPhee
+AI or A Lie
+ Featuring Nia Bethel Sears
+
+26
+BELGIUM
+
+27
+Lead Organization
+Financial Services and Markets Authority (FSMA).
+Other Participants
+Centre for Cybersecurity Belgium/Safeonweb.be (Campaign Lead), Belgian Federal Public Service Economy, Belgian 
+Federal Police, Febelfin (Federation of the Belgian Financial Sector), Belgian Cyber Security Coalition.
+The Centre for Cybersecurity Belgium, together with the FSMA, Febelfin, the FPS Economy, the Cyber Security 
+Coalition, and the police prevention services, launched a large-scale awareness campaign via Safeonweb.
+be, the first on this scale in Belgium. The campaign is intended to raise public awareness of fake online 
+investment offers and fraudulent providers. This fraudulent technique has burdened Belgians in the first half 
+of the year with losses totalling 15 million euros. The new campaign coincided with both World Investor Week 
+and European Cybersecurity Month and emphasizes the importance of digital vigilance. 
+The campaign ran for four weeks, over the course of which it successfully reached more than 13 million 
+impressions across various platforms such as television, social media, cinema, online video, television-on-
+demand, print, and search.
+The launch of the anti-fraud campaign also saw great interest from the Belgian press. The campaign featured 
+in nearly 42 newspapers, online news articles, and television and radio newscasts.
+Acting in his capacity as IOSCO Chair, FSMA Chairman Jean-Paul Servais took part in the “Ring-the-Bell for 
+Financial Literacy” ceremony at Euronext Brussels, alongside Belgium’s Minister of Finance, Jan Jambon.
+In addition to the campaign, the FSMA (and Wikifin) also posted organic posts on its LinkedIn and Facebook 
+accounts, drawing investors’ attention to investment fraud and the basic principles of investing without taking 
+undue risks.
+
+28
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+29
+Lead Organization
+Financial Services and Markets Authority (FSMA).
+Other Participants
+Centre for Cybersecurity Belgium/Safeonweb.be (Campaign Lead), Belgian Federal Public Service Economy, Belgian 
+Federal Police, Febelfin (Federation of the Belgian Financial Sector), Belgian Cyber Security Coalition.
+During WIW, the FSMA published a new warning regarding relationship investment scams:
+www.fsma.be/en/warnings/have-you-made-match-beware-fraud. 
+This warning was distributed through an organic post on the FSMA LinkedIn account. FSMA also held an online 
+webinar that attracted 85 attendees.
+RIS CAMPAIGN 2025
+
+30
+BELIZE
+
+31
+Lead Organization
+Financial Services Commission (FSC).
+Other Participants
+Central Bank of Belize and Finance Belize.
+The FSC Belize announced the official launch of its 2025 WIW program through a Press Release with details 
+of planned activities, which included: local morning show appearances to generate interest and public 
+engagement; social media campaigns around the thematic areas; Smart Investor Tour to host in-person 
+sessions at four high schools and one tertiary school countrywide; and an online webinar as its signature event.
+The social media campaign included a total of 27 posts on each platform. The Facebook campaign successfully 
+amplified awareness, while LinkedIn served as a platform for professional engagement. 
+The Smart Investor Tour comprised visiting five districts across Belize over four days and reached 542 students. 
+The webinar titled “Empowering Investors: Navigating Opportunities & Managing Risks” aimed to facilitate 
+meaningful discussion on investment opportunities and strategies to manage risk. 
+This year, the FSC partnered with the Central Bank of Belize, Finance Belize, and a private practitioner to 
+provide regulator and private sector perspectives. The FSC also created a dedicated webpage for the 2025 
+WIW to include updates and resources such as the approved thematic areas, the schedule for Smart Investor 
+Tour, “Test your Financial Fitness” quiz, and webinar links.
+The FSC remains committed to advancing its public education efforts and looks forward to building on this 
+momentum for future WIW campaigns.
+
+32
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+33
+BRAZIL
+
+34
+Lead Organization
+Comissão de Valores Mobiliários (CVM).
+Other Participants
+B3 (Brasil, Bolsa e Balcão), Banco Central do Brasil, Banco do Nordeste do Brasil S.A., Cresol, IBRI, Planejar, Sicoob, 
+and Sicredi.
+The Securities and Exchange Commission of Brazil (CVM) coordinated the 9th edition of the World Investor 
+Week in Brazil, opening the national agenda with the traditional Ring-the-Bell ceremony at the B3 stock 
+exchange. The event included the presence of high-school students and was broadcast live on the CVM 
+Educacional channel.
+The campaign mobilized a broad network of public and private sector organizations, increasing the reach 
+and technical quality of the content. With the support of credit union systems, the initiatives reached all regions 
+of the country, including cities outside major urban centers, through in-person activities and individualized 
+guidance on finance and investments. 
+Behavioral finance researchers at the CVM produced articles, and Federal Examiners participated in podcasts 
+dedicated to the campaign’s themes, leveraging the regulator’s technical expertise. On new initiatives, the 
+CVM incorporated artificial intelligence into the campaign. Using video generation models, short videos 
+were produced with alerts about scams, fraudulent investment offers, and the distinction between betting and 
+investing. This cost-effective alternative strengthened digital strategy: social media posts began directing the 
+public to more in-depth content—guides, articles, livestreams, podcasts, and courses.
+Finally, the CVM launched a centralized schedule on the WIW Brazil website, gathering all open events and 
+functioning as a “menu” of initiatives for investors to choose from.
+
+35
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+
+36
+Lead Organization
+Comissão de Valores Mobiliários (CVM).
+Other Participants
+B3 (Brasil, Bolsa e Balcão), Banco Central do Brasil, Banco do Nordeste do Brasil S.A., Cresol, IBRI, Planejar, Sicoob, 
+and Sicredi.
+The Securities and Exchange Commission of Brazil (CVM) mobilized its team of researchers specializing in 
+behavioral economics to develop an analysis of Relationship Investment Scams (RIS). This work involved the 
+analysis of Brazilian statistics, the identification of sub-reporting patterns to the authorities, the examination of 
+international data, and the mapping of successful initiatives in other jurisdictions.
+The effort resulted in the production of four articles and a podcast episode inspired by the findings and 
+reflections presented in the articles. In addition, a text was produced with practical guidelines on how to 
+identify and avoid this type of scam.
+In parallel, the CVM launched a series of short videos, produced using artificial intelligence, addressing 
+different types of scams, including relationship scams. These videos humorously showed the warning signs to 
+the investor.
+Finally, the knowledge generated by the research allowed the CVM to alert WIW partner organizations about 
+the growth of this type of fraud in the country. Many were unaware of the volume of cases. As a result, the 
+partners developed their own initiatives and content related to the RIS campaign, significantly expanding the 
+reach of the messages.
+RIS CAMPAIGN 2025
+EVENTS
+Video of RIS Campaign-related activities 
+Click here to watch
+
+37
+BRUNEI
+
+38
+Lead Organization
+Brunei Darussalam Central Bank (BDCB).
+Other Participants
+BIBD Securities, Baiduri Capital, Standard Chartered Securities, Bursa Brunei Darussalam Sdn Bhd (BNX), and Brunei 
+Capital Market Association (BCMA).
+World Investor Week (WIW) 2025 in Brunei Darussalam was coordinated by the Brunei Darussalam Central Bank 
+(BDCB) and was targeted primarily at young people and students or educators, with online outreach intended 
+to also reach the general public. The campaign was implemented mainly through in-person engagements and 
+social media outreach, supported by structured investor education activities and thought-leadership content.
+For in-person events, BDCB and BCMA promoted four (4) activities with a total recorded attendance of 110 
+participants. These engagements were designed to reach young people and students, as well as educators, 
+reflecting the campaign’s focus on higher-education audiences and first-time investors.
+For online events, the intended audience included the public, young people, and students or educators. 
+While the extract focuses on target audience categories rather than online event counts, it shows that digital 
+outreach was positioned as a supporting channel alongside physical engagement. Social media served as a 
+key amplifier for WIW 2025 messaging. Across the WIW campaign window, there were six posts, achieving 
+organic reach of 24,347 (without paid promotion). 
+WIW-related activities in Brunei Darussalam were centred on practical, student-oriented formats and stronger 
+collaboration with capital market stakeholders and universities. Key initiatives included the UBD Investment 
+Challenge 2025, which combined an investment simulation, introduction to financial tools, and an industry 
+lecture; a Banking and Capital Markets Career Mentoring Session for university students; and capital market 
+awareness visits for Universiti Islam Sultan Sharif Ali (UNISSA) and Universiti Teknologi Brunei (UTB) students 
+hosted by licensed intermediaries. For the wider public, Baiduri Capital’s 10th Anniversary video featured 
+licensed representatives discussing investing basics on YouTube in conjunction with WIW 2025. 
+The campaign also implemented a multi-platform social media campaign on Facebook, Instagram, and 
+TikTok, using short, accessible messages to promote smart investing, supported by strong engagement metrics.
+Compared to previous years, WIW 2025 saw a more structured use of competitions and mentoring to deepen 
+student engagement, strengthened collaboration between BDCB, capital market licensees, and universities, 
+and placed greater emphasis on digital outreach and thought leadership. Two co-authored articles—“Building 
+Financial Confidence” and “Fintech, AI, and the Future of Investing in Brunei”—further reinforced WIW themes 
+by linking investor education to innovation, technology, and financial resilience.
+
+39
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+40
+CABO VERDE
+
+41
+Lead Organization
+Auditoria Geral do Mercado de Valores Mobiliários (AGMVM).
+Other Participants
+Bolsa de Valores de Cabo Verde.
+As part of the celebrations of World Investor Week, the General Audit of the Securities Market (AGMVM):
+1. Participated in a webinar on October 7, organized by the Angolan Securities Market Commission, to debate 
+financial education as an instrument for the prevention of scams and fraud;
+2. During the week, disseminated advice to investors on technology and digital finance, artificial intelligence, 
+fraud prevention, and investment basics in employees’ email signatures, on the website, and on Facebook;
+3. Promoted the broadcast of a radio micro-program on risk and investment at the Rádio Nacional de Cabo 
+Verde, in two daily sessions, during the week;
+4. Disseminated throughout the Televisão Nacional de Cabo Verde and TV Record, the most watched channels 
+in the country, in prime time, during the week, a video about fraud and scams; and 
+5. On World Savings Day, October 31st, organized a financial games session with 8th-grade students from 
+8 secondary schools in the city of Praia, the country’s capital. The action with the students aimed to promote 
+knowledge and appropriate financial practices. 
+In turn, the Cape Verde Stock Exchange (BVC) received, on October 6th, a group of students from the 11th 
+and 12th grades of the Economic and Social Sciences course, for an educational session on the functioning 
+of the capital market. The event also included a guided tour of the Exchange’s facilities and culminated with 
+a bell-ringing ceremony.
+EVENTS
+Pictures of WIW 2025 related activities
+
+42
+CANADA
+(ONTARIO)
+
+43
+Lead Organization
+Ontario Securities Commission (OSC).
+Other Participants
+N/A
+During World Investor Week, the OSC’s Investor Office took an active approach to highlighting the week’s key 
+themes through organic and paid distribution channels. 
+The lead story of October’s Investor News newsletter amplified the global effort to break up with relationship 
+investment scams. The issue included tips on avoiding relationship investment scams.
+GetSmarterAboutMoney.ca promoted the theme of Relationship Investment Scam awareness across social 
+channels to inform the public on how to spot and avoid them. Theresa Ebden, VP of the Investor Office, 
+was featured in a two-part social media interview via Instagram promoting the topic, as well as a video for 
+LinkedIn. The videos were viewed over 3,200 times and received over 260 engagements, which at the time 
+was our top-performing video. 
+We also continued to post about WIW themes throughout the month, including highlighting resources for 
+investors around technology and digital finance, AI, fraud and scam prevention, crypto assets, and the basics 
+of Investing. 
+Overall, posts with WIW themes across social platforms had over 8,000 impressions and 350 engagements 
+just on the organic side. 
+The Investor Office ran a digital marketing campaign through October to complement the organic offering, 
+with a focus on the basics of investing. Highlights included a new video, “What is Compound Interest?”
+The paid campaign also included key areas of interest, such as: What are your investing goals? How can you 
+research your investments? and Top Tips for New Investors. This campaign reached 11.1 million users and 54k 
+clicks, leading to our resources.
+
+44
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+45
+CANADA
+(QUEBEC)
+
+46
+Lead Organization
+Quebec Autorité des Marchés Financiers (QAMF).
+Other Participants
+N/A
+Our campaign was mainly on social media (Facebook and LinkedIn). We have focused our efforts on key 
+elements of self-directed investing, which is experiencing strong growth in Quebec. We thus promoted our 
+interactive educational tool on risk profile and our section dedicated to self-directed investing on our website.
+Quebec AMF also promoted the IOSCO WIW on LinkedIn to raise the campaign’s notoriety among its financial 
+industry and stakeholders. As the Quebec AMF is chairing the IOSCO Committee on Retail Investors (C8), its 
+representative was invited to the Financial Planning Standards Board (FPSB) annual conference for a Ring-the-
+Bell celebration in honor of World Financial Planning Day.
+EVENTS
+Pictures of WIW 2025 related activities
+
+47
+Lead Organization
+Quebec Autorité des Marchés Financiers (QAMF).
+Other Participants
+N/A
+QAMF supported the relationship investment scams campaign with a related social media post that generated 
+1,688 impressions and 28 interactions.
+They also have a web page that provides users with tailored information based on their answers to questions 
+about the type of relationship scam they may be in. 
+RIS CAMPAIGN 2025
+EVENTS
+Picture of RIS-related activities
+
+48
+CANADA
+
+49
+Lead Organizations
+Ontario Securities Commission (OSC), Quebec Autorité des Marchés Financiers (QAMF).
+Other Participants
+Canadian Investment Regulatory Organization (CIRO).
+The Canadian Investment Regulatory Organization (CIRO) supported WIW 2025 with social media posts, 
+speaking engagements, and videos. CIRO’s Office of the Investor also led the WIW communications through 
+a multi-pronged campaign that aimed to drive traffic to their online content. 
+Investor protection is central to our role as a regulator. CIRO’s Office of the Investor helps Canadian investors 
+understand the ins and outs of investing through investor education initiatives.
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+FinfluencersRomance Scams
+
+50
+CHILE
+
+51
+Lead Organization
+Comisión para el Mercado Financiero (CMF).
+Other Participants
+N/A
+During the 2025 WIW (6–12 October), the CMF leveraged its global participation to emphasize targeted 
+communications on preventing investment scams, including alerts on unregulated platforms and fraudulent 
+schemes. 
+The CMF issued public warnings about multiple entities not registered with the regulator, such as SUNFLOWER.
+cl, Northern Trust / North Trust Company, Robo 4000 Mentax, XMR Market, FX Novus, Invesa Capital, Cripto 
+Intercambio, Trade 24 Seven, HCTX, among others. In at least one case (Northern Trust SpA), the CMF filed a 
+criminal complaint with the public prosecutor’s office, citing suspected fraud, false representation of regulatory 
+supervision, and document falsification. 
+In parallel with these alerts, the CMF promoted educational content on its institutional website and its financial-
+education portal (“CMF Educa”), providing tools such as the “Fraud Alerts” section, investor guidance materials, 
+and advice for using online financial platforms responsibly.
+No publicly documented activities appear radically new compared with previous years; rather, the 2025 effort 
+reflects an intensified focus on public alerts and preventive messaging around digital-investment and scam 
+risks, consistent with the nature of the RIS-themed sub-campaign. 
+EVENTS
+Pictures of WIW 2025 related activities
+
+52
+CHINA
+
+53
+Lead Organization
+China Securities Regulatory Commission (CSRC).
+Other Participants
+N/A
+World Investor Week (WIW), led by IOSCO, promotes investor education and protection. In 2025, the CSRC 
+aligned with IOSCO’s themes—Technology & Digital Finance, Artificial Intelligence, and Fraud Prevention—
+to run a nationwide campaign combining policy communication, risk alerts, and targeted outreach. The 
+program used lectures, forums, company visits, multimedia content, and dispute -resolution improvements to 
+build prudent investing habits and strengthen rights protection.
+I. Technology and Digital Finance
+CSRC warned about risks from financial influencers, robo-advisors, and speculative “tech concepts.” Lectures, 
+forums, and visits to listed firms clarified the interplay of technology-industry-finance. Scenario-based outreach 
+reached immigrants, students, and frontline workers; materials (comics, infographics, videos) amplified risk 
+alerts and promoted careful tool suitability assessment.
+II. Artificial Intelligence
+In line with IOSCO’s AI initiative, CSRC explained AI trends, industry chains, and regulatory practices, stressing 
+both the potential and limitations of AI tools. Education addressed AI scams (fraudulent apps, impersonation, 
+algorithmic trading claims) and guided rational AI-themed investing through case studies, site visits, and Q&As 
+to distinguish genuine innovation from hype.
+III. Fraud Prevention and Rights Protection
+Channels expanded via micro -dramas, games, livestreams, and offline events linked to cultural and sports 
+activities. Targeted programs helped seniors avoid illegal stock tips and taught youth to spot campus and 
+AI-related scams. Dispute -resolution mechanisms were strengthened (arbitration, complaint handling), 
+promoting legal, rational protection of investor rights.
+
+54
+CHINESE TAIPEI
+
+55
+Lead Organization
+Financial Supervisory Commission (FSC).
+Other Participants
+Taiwan Stock Exchange, Taipei Exchange, Taiwan Futures Exchange, Taiwan Depository & Clearing Corporation, Tai-
+wan Securities Association, Securities Investment Trust & Consulting Association, Chinese National Futures Association, 
+Securities & Futures Investors Protection Center.
+To promote financial education, enhance investor resilience, and support the “World Investor Week” and 
+“Ring the Bell for Financial Literacy” campaigns advocated by the International Organization of Securities 
+Commissions and the World Federation of Exchanges, we held the “2025 WIW Forum in Taiwan” from October 
+8 to 9, 2025.
+This year’s forum centered on the theme: “Digital Innovation × Professional Collaboration: Building a New 
+Trust Framework for Asset Management.” It focused on four key areas: AI applications, regulatory architecture, 
+professional advancement, and policy alignment.
+The event brought distinguished speakers from financial institutions, regulators, academia, and the private 
+sector—both domestic and international—to share their insights and strategies.
+
+56
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+57
+In 2025, the FSC incorporated RIS as one of the key focus areas of its anti-fraud public awareness initiatives. 
+In view of RIS being a significant form of financial fraud, the FSC included concrete RIS-related cases in 
+relevant seminars and investor education materials. This effectively communicated RIS information to the 
+public alongside other common investment fraud schemes.
+Combating fraud is one of the key policies in Taiwan. The FSC enhances its anti-fraud measures through five 
+key dimensions—identifying, preventing, combating, intercepting, and punishing fraud. The FSC collaborates 
+with the banking and securities sectors to implement strict anti-fraud measures. Relevant measures include 
+intercepting fraud at the frontline, stopping suspicious transactions at an early stage, as well as other measures. 
+These efforts position the financial sector as the first line of defense against fraud.
+RIS CAMPAIGN 2025
+Lead Organization
+Financial Supervisory Commission (FSC).
+Other Participants
+Taiwan Stock Exchange, Taipei Exchange, Taiwan Futures Exchange, Taiwan Depository & Clearing Corporation, Tai-
+wan Securities Association, Securities Investment Trust & Consulting Association, Chinese National Futures Association, 
+Securities & Futures Investors Protection Center.
+
+58
+EVENTS
+Pictures of RIS Campaign-related activities 
+Videos and Audio Recording of RIS Campaign-related activities 
+Click here to watch Click here to watch
+
+59
+COLOMBIA
+
+60
+Lead Organization
+Superintendencia Financiera de Colombia (SFC).
+During World Investor Week (WIW) 2025, the Financial Superintendence of Colombia led a national strategy 
+to promote investor education and protection. The initiative included in-person and virtual activities aimed at 
+strengthening the financial capabilities of consumers regarding investment risks, fraud prevention, and the 
+opportunities offered by capital markets.
+The activities were carried out through coordination among the public sector, the private sector, and academia, 
+consolidating a collaborative effort that broadened territorial reach and encouraged participation from diverse 
+investor profiles. Conferences, workshops, and digital campaigns were conducted to promote informed and 
+responsible decision-making.
+Compared with previous years, the 2025 edition was characterized by stronger institutional coordination, a 
+wider range of educational formats, and a more inclusive approach toward young and regional audiences. 
+These efforts reaffirmed the leadership of the Financial Superintendence of Colombia in fostering an 
+investor-oriented culture and strengthening financial education in the country.
+Other Participants
+AMV, Asobolsa, Asofondos, Asofiduciarias, nuam, Bancolombia, Corredores Davivienda, Fundación Ábacos, Universi-
+dad del Quindío, Universidad Externado, Universidad Javeriana, Uniminuto, Banca de Oportunidades.
+EVENTS
+Pictures of WIW 2025 related activities
+
+61
+CROATIA
+
+62
+Lead Organization
+Croatian Financial Services Supervisory Agency (Hanfa).
+As part of IOSCO World Investor Week, the Croatian Financial Services Supervisory Agency (Hanfa) carried 
+out several activities aimed at promoting financial literacy and encouraging informed participation in financial 
+markets.
+Hanfa delivered one online lecture for the general public on Technology, Artificial Intelligence, and the New 
+World of Investing. The session provided an accessible overview of how technological advancements are 
+reshaping investment processes and the ways in which individuals engage with financial products. In addition, 
+Hanfa held educational sessions for students focused on saving, investing, and recognizing financial fraud. 
+These workshops aimed to strengthen young people’s understanding of key financial concepts and help them 
+develop responsible financial habits.
+Hanfa also participated in the radio show” Financijska abeceda”, contributing a segment on digital tools and 
+investment services. This collaboration ensured that important messages on digital financial literacy reached 
+a broad audience.
+Through these initiatives, Hanfa supported the mission of IOSCO World Investor Week by fostering awareness, 
+responsibility, and confidence among current and future investors.
+Other Participants
+Croatian Chamber of Economy (CCE).
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+EVENTS
+
+63
+DOMINICAN
+REPUBLIC
+
+64
+Lead Organization
+: Superintendencia del Mercado de Valores (SIMV).
+As part of the World Investor Week initiative, the Superintendency of Securities Market of the Dominican 
+Republic (SIMV) participated in the traditional “Ring the Bell” ceremony together with the Bolsa y Mercado de 
+Valores de la República Dominicana (Dominican Stock Exchange).
+Educational outreach included in-person talks delivered in schools and universities on key topics related to the 
+securities market and investment funds. In parallel, SIMV organized a public webinar on cognitive bias and 
+behavioral excesses in investment decisions.
+Additionally, SIMV held a dedicated meeting with investors to listen to their perspectives, gather input, identify 
+areas of concern, and discuss issues that may contribute to the continuous improvement of investor protection 
+and investor education.
+These initiatives, together with other educational efforts, including the launch of educational capsules and a 
+nationwide antifraud awareness campaign, reached 800 people and reflect strengthened outreach capacity 
+aligned with international best practices in investor protection and investor education.
+Other Participants
+Bolsa y Mercado de Valores de la República Dominicana.
+
+65
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+66
+The Superintendence of the Securities Market of the Dominican Republic (SIMV) structured its WIW strategy 
+around an intensive digital education campaign designed to effectively engage a relatively young and 
+digitally active audience. This approach was anchored in the development and dissemination of short-format 
+educational capsules, specifically tailored for social media platforms, with the objective of delivering concise, 
+accessible, and high-impact investor education content.
+A key new initiative introduced this year was a webinar on cognitive biases and financial decision-making, 
+delivered for the first time in a fully digital format. This initiative was conceived as a foundational educational 
+tool, serving both as a preparatory stage for individuals who have not yet entered the securities market and 
+as a means of strengthening decision-making frameworks for participants who are already active in the 
+financial system. This activity registered strong participation across a broad spectrum of investors, including 
+individuals at different stages of market involvement, reflecting both its relevance and its capacity to engage 
+diverse audiences. The focus on behavioral aspects of investing reflects SIMV’s commitment to incorporating 
+principles of behavioral finance into its investor education and protection strategy, in line with international 
+best practices. 
+In parallel, SIMV organized an in-person engagement with investors, which provided a valuable forum for direct 
+dialogue and feedback. This session brought together 18 investors, whose contributions offered meaningful 
+insights into their educational needs, content preferences, and expectations regarding investor protection 
+services. The feedback collected during this encounter has been particularly valuable in identifying priority 
+topics for future educational initiatives and in refining SIMV’s approach to investor protection, especially in 
+relation to communication, guidance, and regulatory support.
+Overall, these activities underscore SIMV’s evolving approach to investor education and protection, 
+emphasizing digital outreach, behavioral finance, and direct stakeholder engagement. The initiatives carried 
+out during WIW strengthened SIMV’s capacity to deliver targeted, relevant, and forward-looking educational 
+interventions, while reinforcing its role as a proactive regulator committed to empowering investors and 
+enhancing confidence in the securities market.
+RIS CAMPAIGN 2025
+Lead Organization
+Superintendencia del Mercado de Valores (SIMV).
+Other Participants
+Bolsa y Mercado de Valores de la República Dominicana.
+
+67
+EVENTS
+Picture of RIS Campaign-related activities 
+Video of RIS Campaign-related activities 
+Click here to watch
+
+68
+EGYPT
+
+69
+Lead Organization
+Financial Regulatory Authority (FRA)
+The Financial Regulatory Authority (FRA) organized a wide range of initiatives from October 26 to November 6, 
+2025, to promote financial literacy and investor protection in the non-banking financial sector. Activities targeted 
+university students, youth, and the general public.
+FRA hosted awareness sessions at its premises for students from several universities, addressing its regulatory 
+role, non-banking financial instruments, and the distinction between legitimate activities and fraudulent 
+schemes.
+Public lectures and webinars covered key topics such as how to read trading screens, the impact of artificial 
+intelligence on capital markets, and the risks and benefits of investment funds.
+Digital outreach included the “Mahfazti” podcast series, which focused on the importance of investing, common 
+mistakes, and how to identify and respond to fraud.
+Internal initiatives included a regulatory sandbox session and a concluding award ceremony for the “Y Champions” 
+competition, encouraging youth to produce content promoting financial awareness.
+The campaign was further amplified through FRA’s social media platforms, ensuring broad dissemination of 
+key messages.
+Other Participants
+N/A
+
+70
+EVENTS
+Pictures of WIW 2025 related activities
+
+71
+EL SALVADOR
+
+72
+Lead Organization
+Superintendencia del Sistema Financiero (SSF).
+The Superintendency of the Financial System of El Salvador, as a member of the National Council for Financial 
+Inclusion and Education (CNIEF), is responsible for coordinating and promoting the activities carried out 
+during Investor Week by creating spaces that strengthen knowledge about the securities market.
+Within this framework, a series of conferences was held in the auditorium of the University of El Salvador, to 
+enable students and faculty to broaden their knowledge on the topics Crypto-assets and Blockchain: beyond 
+Bitcoin, Prevention of financial fraud in the digital era, and Green finance. This activity benefited 102 women 
+and 59 men. Participants had the opportunity to clarify their doubts and questions regarding the topics 
+discussed.
+Likewise, in coordination with the Ministry of Foreign Affairs, a webinar on Prevention of financial fraud in the 
+digital era was delivered, aimed at Salvadorans residing abroad, with the participation of 48 women and 92 
+men.
+Other Participants
+N/A
+EVENTS
+Pictures of WIW 2025 related activities
+
+73
+FRANCE
+
+74
+Lead Organization
+Autorité des Marchés Financiers (AMF).
+Other Participants
+AFG, AMAFI, ANACOFI, Boursorama, Better Finance, Bourse Direct, CFA Society France, la Compagnie des CGP, 
+CNCEF, CNCGP, Easy Bourse, la Finance pour tous, Institut National de la Consommation, Nextwise, Orange, Tout sur 
+mes finances.
+The Autorité des Marchés Financiers’ main action was the launch of an educational campaign addressing 
+new retail investors. The campaign lasted until mid-November, so most of its impact is not included in the 
+data shared in the survey. It is a follow-up to an initial campaign conducted in 2024, as part of our financial 
+education strategy for new investors.
+The campaign “Investipolis Mysteries 2” immersed new retail investors in a fictional world with a cyberpunk 
+atmosphere inspired by video games. They followed the adventures of a hero, guided by a mentor, meeting 
+with characters being victim of their behavioral biases while investing. This campaign aimed to help young 
+investors be aware of these biases and the emotions/reactions that can mislead their investment decisions. For 
+this campaign, we designed a variety of educational materials, including animated videos and comic strips. 
+This campaign was held on Instagram and TikTok, as its target is mostly young investors.During the whole 
+campaign, the assets generated more than 43 million impressions. More than 10 million people on Instagram 
+and 15 million people on TikTok were reached.
+The campaign also led to the landing page: nouveauxinvestisseurs.amf-france.org.
+Among our other actions: a webinar to learn about crowdfunding and a Facebook live about the basics before 
+investing. As every year, we intensified our presence on Facebook by publishing two posts a day.
+
+75
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+76
+GERMANY
+
+77
+Lead Organization
+Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin).
+During the October and November 2025 campaign, experts of the Federal Financial Supervisory Authority 
+(Bundesanstalt für Finanzdienstleistungsaufsicht - BaFin) participated in two digital webinars to inform 
+consumers about how to protect themselves from fraud and scams on the financial market and why it is 
+worthwhile to regularly take a critical look at one’s own insurance policies.
+Furthermore, BaFin published an article regarding “Memecoins” on its website. In this article, BaFin warns 
+against memecoin scams.
+During the week of campaigning, BaFin was also represented with a stand at the “FinKom Info-Börse 2025” 
+organized by “Präventionsnetzwerk Finanzkompetenz e.V .” on November 20th.
+The activities were published on BaFin’s social media channels - including LinkedIn.
+Other Participants
+N/A
+
+78
+GIBRALTAR
+
+79
+Lead Organization
+Gibraltar Financial Services Commission (GFSC).
+During the week commencing 10 November, the Gibraltar Financial Services Commission (GFSC) collaborated 
+with the Gibraltar Financial Intelligence Unit to deliver a successful World Investor Week campaign that focused 
+on fraud and scam prevention. 
+As part of the campaign, the team delivered six interactive presentations to Year 13 students at local schools 
+and students at the University of Gibraltar. Topics discussed were money muling, fraud, scams in relation to 
+romance, investment, and delivery, and red flags to look out for when considering investment opportunities. 
+The team also liaised with local press - Interviews were broadcast on GBC news and GBC radio, and an article 
+based on an interview with members of the GFSC was published in the Gibraltar Chronicle
+Other Participants
+The Gibraltar Financial Intelligence Unit.
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+
+80
+GREECE
+
+81
+Lead Organization
+Hellenic Capital Market Commission (HCMC). 
+As part of WIW 2025, HCMC participated in several significant initiatives aimed at systematically enhancing 
+financial literacy in Greece:
+• Publication of a book for children aged 10 and above, designed to build basic financial literacy skills from 
+an early age.
+• Development of a glossary of key financial terms, which will be available to the public in both print and 
+digital formats.
+• Collaboration with the National and Kapodistrian University of Athens, through the Investment Applications 
+Laboratory (IAL) for the creation of investment simulators.
+• Partnerships with universities, through Memorandum of Understanding, to develop additional educational 
+initiatives and research activities.
+• Production of a video series titled “Investment Scams – Real Stories” to raise public awareness.
+• Signing of a cooperation agreement with Banque de France, to enhance financial literacy in Greece by 
+adapting and leveraging the educational materials (leaflets and videos) of the “ABC de l’économie platform” 
+for the Greek public.
+At the same time, HCMC continues to promote financial literacy and strengthen investor security through 
+conference speeches, interviews, articles, and targeted posts on its official communication channels.
+Other Participants
+N/A
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch
+EVENTS
+
+82
+HONG KONG, 
+CHINA
+
+83
+Lead Organization
+Investor and Financial Education Council.
+The Investor and Financial Education Council (IFEC) provided a range of resources and activities supporting 
+the World Investor Week 2025 theme of “Technology and Digital Finance”, raising public awareness of the 
+importance of understanding financial products and market trends before making investment decisions.
+Key activities included:
+• “Strike the Gong for Financial Literacy”, an event co-organised with Hong Kong Exchanges and Clearing 
+Limited (HKEX), the CFA Institute, and the CFA Society Hong Kong, was held on 9 October 2025 at the HKEX 
+Connect Hall. Mr Victor Dawes, the IFEC Chairman, and Mr Gregory Yu, Head of Markets, HKEX, called 
+on investors to embrace the opportunities of investing in a digital era while remaining vigilant to navigate 
+potential challenges.
+• The ceremony was followed by a panel discussion titled “Investing in Emerging Technology – A Guide for 
+Retail Investors”.  Ms Clara Chan, Director, Intermediaries, Securities and Futures Commission (SFC), and 
+representatives from HKEX, The Hong Kong Association of Banks, and the CFA Society Hong Kong as the 
+panel speakers.  Highlights of the key investor education messages, including the opportunities and risks 
+arising from advancements in financial technology, applications of artificial intelligence in financial services, 
+and their implications for investors, were promoted through YouTube to reach a broader audience. Over 1.8 
+million video views were recorded (main sources of figures: YouTube, Facebook and Instagram).
+Other Participants
+Securities and Futures Commission of Hong Kong, Hong Kong Exchanges and Clearing Limited, The CFA Institute, The 
+CFA Society Hong Kong, The Hong Kong Association of Banks.
+
+84
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch Click here to watch
+
+85
+The Investor and Financial Education Council (IFEC) adapted the Relationship Investment Scam Anti-Fraud 
+Campaign’s key messages into social media posts and related website article, calling the public to stay vigilant 
+against potential romance scams. Specifically, IFEC supported the campaign during WIW by publishing social 
+media posts and online article titled “Finding Love Online: 10 Signs of Romance Scam”. The resources were 
+promoted via online and social media to raise awareness, with social posts attracting over 123,000 reach and 
+260,000 impressions (main sources of figures: Facebook and Instagram).
+RIS CAMPAIGN 2025
+Lead Organization
+Investor and Financial Education Council.
+Other Participants
+N/A
+EVENTS
+Pictures of RIS Campaign-related activities
+
+86
+INDIA
+
+87
+Lead Organization
+Securities and Exchange Board of India (SEBI).
+Other Participants
+National Stock Exchange of India Limited, Bombay Stock Exchange Limited, Multi-Commodity Exchange of India Limit-
+ed, National Securities Depository Limited, Central Depository Services Limited, Metropolitan Stock Exchange of India 
+Limited, National Commodity & Derivatives Exchange Limited, Association of Mutual Funds in India, Association of 
+National Exchanges Members of India, BSE Brokers Forum of India, AMC Repo Clearing Limited, National Institute of 
+Securities Markets, Investor Associations, Securities Market Trainers.
+IOSCO WIW 2025 observed in India during the week of October 6th – 12th, 2025, themed on “Fraud and 
+Scam Prevention” and “Basics of Investing”. The key message for WIW 2025 is “A smart investor relies on 
+verified sources while investing and ignores unsolicited offers on social media.” Following innovative activities 
+were carried out during WIW 2025: 
+1. Nivesh ka Hasyamanch – A Unique Stand-Up Comedy Show where well-known Bollywood Comedians / 
+Stand-Up Artists shared their personal experiences related to investments in a humorous manner and shared 
+responsible investing habits through this act.
+2. A rap song educating investors on different online scams in the securities markets was launched.
+3. Radio Vox Pop – A live Radio Jockey posed Scam Busting questions, and participants actively responded on 
+the spot.
+4. A panel discussion on “Bridging the gender gap in finance for women” was organised, where prominent 
+women from the finance sector encouraged women to take informed investment decisions.
+5. Interactive digital activities: Finance Learning Game and Scambush – where players are asked to outsmart 
+various types of scams to become a certified scambuster.
+6. Canvas Painting Competition on Financial Literacy.
+7. Other notable events include:
+• Krishi Rath – Agriculture Chariot outreach initiative to spread awareness among farmers across the country.
+• Bharat Nivesh Run – A marathon run on financial awareness.
+• Release of Novel titled “The Final Quest”, simplifying and presenting personal finance concepts in an 
+engaging and accessible storytelling format.
+
+88
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch Click here to watch
+Rap Song on SEBI vs SCAM Video on stand-up comedy show 
+“Nivesh ka Hasyamanch” Human Chain Formation Rangoli Art by Shikha Sharma
+
+89
+INDONESIA
+
+90
+Lead Organization
+Indonesia Financial Services Authority (OJK).
+Other Participants
+Several organizations participated in WIW 2025 activities in Indonesia, including the Indonesia Stock Exchange (IDX), 
+Indonesia SIPF (Securities Investor Protection Fund), various industry associations such as AB Capital Market Associa -
+tions, financial institutions, securities companies, and universities.
+During WIW 2025, the Indonesia Financial Services Authority (Otoritas Jasa Keuangan – OJK), in collaboration 
+with the Indonesia Stock Exchange (IDX) and capital market institutions, organized a nationwide series of 
+educational activities between 6 and 12 October 2025.
+A total of 280 activities were held, including 254 capital market education events, 19 Instagram Live sessions, 
+5 expos, and 1 national competition, reaching more than 132,000 participants. OJK also released 18 digital 
+educational materials on investor protection and the sharia capital market, reaching over 192,000 views 
+through social media channels and the official mini-site.
+A key new initiative in 2025 was the International Webinar on Investor Empowerment and Protection, conducted 
+in collaboration with regulators from other jurisdictions, IDX, and capital market associations. The webinar 
+was honored by the participation of the IOSCO Chair, who shared insights on global efforts to strengthen 
+investor protection and financial resilience. This event reinforced cross-border dialogue and cooperation 
+among regulators.
+WIW 2025 also featured enhanced digital engagement through interactive campaigns and national hashtags 
+(#IOSCOWIW, #WIW2025, #WorldInvestorWeek2025), amplifying outreach and promoting informed and 
+responsible investing across Indonesia.
+
+91
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+92
+Lead Organization
+Indonesia Financial Services Authority (OJK).
+Other Participants
+Indonesia Stock Exchange (IDX), Indonesia SIPF (Securities Investor Protection Fund), various industry associations, 
+such as AB Capital Market Associations, financial institutions, securities companies, and universities.
+During WIW, the Indonesia Financial Services Authority (Otoritas Jasa Keuangan – OJK), in collaboration 
+with the Indonesia Stock Exchange (IDX) and capital market institutions, organized a nationwide series of 
+educational activities from 6-12 October. A total of 280 activities were conducted, comprising 254 capital 
+market education events, 19 Instagram Live sessions, five expos, and one national competition, reaching more 
+than 132,000 participants. Of these, 246 activities focused on scam-related education, involving 130,669 
+participants.
+In addition, OJK released four social media posts on investment scams and anti-fraud awareness through its 
+official consumer protection account, @kontak157, generating over 20,136 engagements.
+A key new initiative in 2025 was the International Webinar titled “Empowering Investors: Invest Wisely and Stay 
+Safe from Fraud and Scams,” conducted in collaboration with regulators from other jurisdictions, IDX, and 
+capital market associations. The webinar was honored by the participation of the IOSCO Chair, who shared 
+insights on global initiatives to strengthen investor protection and financial resilience. This event significantly 
+reinforced cross-border dialogue and cooperation among regulators.
+WIW also featured enhanced digital engagement through interactive campaigns and national hashtags 
+amplifying outreach and promoting informed and responsible investing across Indonesia.
+RIS CAMPAIGN 2025
+
+93
+EVENTS
+Click here to watch
+Picture of RIS Campaign-related activities 
+Video of RIS Campaign-related activities
+
+94
+ISRAEL
+
+95
+Lead Organization
+ Israel Securities Authority (ISA).
+Other Participants
+In 2025, the Israel Securities Authority conducted three in-person events focused on younger investor audiences, 
+including high-school students and university students. In addition, the Israel Securities Authority launched a 
+new media initiative through a collaboration with a well-known national radio show.
+This initiative introduced a dedicated segment titled “Hon’a Tzerufa,” a Hebrew wordplay meaning “Pure 
+Fraud” (which in Hebrew also sounds like “Pure Joy”), which used a humorous approach to educate a broader 
+adult audience about real cases of investment fraud in the Israeli capital market, common red flags, and 
+practical guidelines for avoiding scams.
+The segment aired live on national radio and was also distributed on major podcast platforms, achieving 
+significant listener engagement.
+Other Participants
+Coller Capital Markets Club - Tel Aviv University.
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch Click here to watch
+EVENTS
+
+96
+ITALY
+
+97
+Lead Organization
+Commissione Nazionale per le Società e la Borsa (CONSOB).
+Other Participants
+CONSOB’s main objective was to enhance the training of trainers (university lecturers and students in peer-
+to-peer projects) and to consolidate the network with institutional partners (including many Italian universities).
+During WIW 2025, CONSOB coordinated a broad programme of educational initiatives carried out in 
+collaboration with universities and key national stakeholders active in financial education. Particular attention 
+was devoted to the training of trainers, including university lecturers, school teachers and students involved in 
+peer-to-peer projects. Activities addressed topics such as investor protection, financial planning, sustainable 
+finance, digital innovation and crypto-assets, while further strengthening the national network supporting 
+financial education initiatives, including those organised within Italy’s Financial Education Month under the 
+coordination of the Financial Education Committee.
+Other Participants
+FEduF, Global Thinking Foundation, Museo del Risparmio, EURONEXT, Comitato per la programmazione e il coordina-
+mento delle attività di educazione finanziaria.
+EVENTS
+Pictures of WIW 2025 related activities
+
+98
+JAPAN
+
+99
+Lead Organization
+Financial Services Agency (FSA).
+Other Participants
+One of the characteristics of Japan’s initiatives during the WIW 2025 is the active participation of three 
+institutions, namely Japan Securities Dealers Association (JSDA), Japan Exchange Group (JPX), and Japan 
+Financial Literacy and Education Corporation (J-FLEC).
+FSA
+The FSA contributed to the WIW 2025 as a national coordinator, closely communicating with relevant domestic 
+and global parties.
+JSDA
+The JSDA has undertaken initiatives such as promotional activities to expand the investor base, support for and 
+collaboration with the J-FLEC, and activities related to preventing individuals from falling victim to investment 
+scams. This year, the JSDA actively participated and cooperated in the WIW campaign through activities 
+related to Securities Investment Day (designated October 4th), creation of a special website and logo for WIW, 
+educational activities for individual investors regarding NISA, and public awareness campaigns to prevent 
+unauthorized access to securities accounts and investment scams.
+JPX
+JPX is focusing its promotional efforts through its original media, “TSE Money-bu!”. During the WIW period, a 
+total of 16 articles were published.
+J-FLEC
+The J-FLEC provided general financial and economic education for a wide range of age groups, not limited to 
+investor education. It held a total of 22 events in October. This is the first time participating in WIW, but moving 
+forward, it aims to focus not only on in-person events but also on strengthening its online offerings.
+Other Participants
+Japan Securities Dealers Association (JSDA), Japan Exchange Group (JPX), Japan Financial Literacy and Education 
+Corporation (J-FLEC).
+EVENTS
+Pictures of WIW 2025 related activities
+
+100
+KINGDOM OF 
+SAUDI ARABIA
+
+101
+Lead Organization
+Capital Market Authority (CMA).
+The Capital Market Authority (CMA) organized a series of World Investor Week (WIW) 2025 activities focused on 
+enhancing financial literacy and investor awareness across the Kingdom of Saudi Arabia. The CMA expanded 
+outreach to educational institutions through multiple university visits and workshops that introduced students 
+to capital market fundamentals, investor rights, and fraud prevention practices.
+The CMA implemented a targeted digital awareness campaign aligned with IOSCO’s 2025 main themes, 
+delivering informative content through official social media channels to reach broader audiences nationwide.
+Other ParticipantsOther Participants
+The Financial Academy, Academic institutions, and student financial clubs.
+17.2+ Million
+Engagements
+Impressions
+36+ Million
+
+102
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch
+Click here to watch Click here to watch
+
+103
+LITHUANIA
+
+104
+Lead Organization
+Lietuvos Bankas (Central Bank of Lithuania).
+Lietuvos bankas (LB) gathered a record number of participants (28) this year and introduced a new educational 
+initiative, “Investing ABC: Understand and Start” (hereinafter, the Course).
+This is a unique, free-of-charge course in Lithuania - 10 short video lectures. The objective is to encourage 
+Lithuanian residents to gain knowledge about investing and to learn from reliable sources that provide objective 
+and unbiased information. The total number of Course views is almost 5,000 overall (as of 2 December 2025).
+The Course was officially presented during a live discussion, “Investing ABC: A Deposit is nothing like Tinder” 
+(1,500 views on LB YT).
+The WIW opening was exceptional this year, as LB, together with Nasdaq Vilnius and one of the most-watched 
+Lithuanian national television shows, opened the WIW with a symbolic ceremony called “Ring the Bell for 
+Financial Literacy” (the audience reached during this show was more than 250,000 people). The message 
+“Lithuania rings the Bell for Financial Literacy < >From Vilnius to Wall Street” was displayed on the Nasdaq 
+Tower in Times Square, New York.
+LB and 28 partners (financial market participants, associations, universities, colleges, training centres, and 
+training companies) organised as many as 56 events (live and online) across Lithuania. The most exciting 
+events – open door days, orienteering competitions, investment simulations, and car orienteering (finance 
+rally). Online events reached over 7.6 million via social media.
+Other ParticipantsOther Participants
+AB Nasdaq Vilnius, Investavimas: a project dedicated to educating Lithuanian investors, AB SEB bankas, UAB Urbo 
+bankas, LKU Credit Union Group, Crowdfunding platform Profitus, Investing and funding platform SAVY, Crowdfunding 
+platform Röntgen, Co-investing platform Letsinvest, Investment services undertaking Orion Securities, INVL Family Office, 
+Lithuanian Association of Investment and Pension Funds, Money Museum of Lietuvos bankas, Center of Excellence in An-
+ti-Money Laundering, VšĮ Indėlių ir investicijų draudimas, Green Finance Institute, UAB Investicijų ir verslo garantijos (ILTE), 
+MB Financial freedom forum, Vytautas Magnus University, Faculty of Economics and Management, Vilnius Tech (Faculty 
+of Business Management, Department of Financial Engineering), Vilnius University (Faculty of Economics and Business 
+Administration), Vilnius University (Business School), Mykolas Romeris University (Institute of Business and Economics), 
+Vilnius University of Applied Sciences, TECHIN: Vocational Training Centre for Technology and IT, Inspira Life, UAB Star-
+fish Academy, MB Finansų gidė.
+
+105
+EVENTS
+Pictures of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch
+Videos and Audio Recordings of WIW 2025 related activities
+The financial literacy and investment message on 
+the Nasdaq Tower in Times Square, New York
+Lithuanian national television shows “Good 
+morning, Lithuania”:
+Presentation of the educational initiative “Investing ABC: 
+Understand and Start” during the discussion “Investing 
+ABC: A Deposit is nothing like Tinder”
+Click here to watch Click here to watch Click here to watch
+The investment course “Investing ABC: Under-
+stand and Start” Podcast “Money Talks”: The investavimas.lt podcast, “Women Invest”:
+
+106
+RIS CAMPAIGN 2025
+Lead Organization
+Lietuvos Bankas (Central Bank of Lithuania).
+Other ParticipantsOther Participants
+AB Nasdaq Vilnius, Investavimas: a project dedicated to educating Lithuanian investors, AB SEB bankas, UAB Urbo 
+bankas, LKU Credit Union Group, Crowdfunding platform Profitus, Investing and funding platform SAVY, Crowdfunding 
+platform Röntgen, Co-investing platform Letsinvest, Investment services undertaking Orion Securities, INVL Family Office, 
+Lithuanian Association of Investment and Pension Funds, Money Museum of Lietuvos bankas, Center of Excellence in An-
+ti-Money Laundering, VšĮ Indėlių ir investicijų draudimas, Green Finance Institute, UAB Investicijų ir verslo garantijos (ILTE), 
+MB Financial freedom forum, Vytautas Magnus University, Faculty of Economics and Management, Vilnius Tech (Faculty 
+of Business Management, Department of Financial Engineering), Vilnius University (Faculty of Economics and Business 
+Administration), Vilnius University (Business School), Mykolas Romeris University (Institute of Business and Economics), 
+Vilnius University of Applied Sciences, TECHIN: Vocational Training Centre for Technology and IT, Inspira Life, UAB Star-
+fish Academy, MB Finansų gidė.
+The Bank of Lithuania developed new information resources regarding the fraudulent scheme known as “pig 
+butchering” (relationship investment scams). During WIW, a targeted social media campaign was conducted 
+to inform the public about the red flags associated with “pig butchering” and provide actionable advice on 
+how to avoid becoming a victim of such fraud.
+Furthermore, the Bank of Lithuania integrated this information into its educational lectures on fraud prevention. 
+These sessions are delivered by experts from the Bank of Lithuania to diverse audiences across the country.
+Emerging fraudulent schemes consistently capture public attention. The Bank of Lithuania’s information 
+campaign regarding the “pig butchering” scam proved successful, particularly through its execution on social 
+media platforms. Observations indicate that the public is highly receptive to learning about new fraud trends. 
+A key insight from this campaign is that information must be presented in a creative and engaging manner to 
+resonate with a modern audience.
+To achieve this, the Bank of Lithuania developed two distinct creative directions:
+1. Creative Analogy: using a creative parallel to the Brothers Grimm fairy tale “Hansel and Gretel,” the 
+campaign illustrated the connection between the character Hansel, a piglet, and fraud victims. The analogy 
+highlighted the “fattening up” process used by scammers—building trust and providing false gains before 
+ultimately “consuming” the victim’s assets.
+2. Visual Storytelling via “Chat Bubbles”: recognizing that these scams typically originate through 
+messaging apps, the Bank of Lithuania utilized “chat bubble” visuals. This approach showcased real-world 
+examples of how scammers send “accidental” messages to initiate contact, how they build rapport, and 
+how they eventually vanish with the invested funds as abruptly as they appeared after offering “profitable 
+investments.”
+
+107
+EVENTS
+Pictures of RIS Campaign-related activities
+
+108
+LUXEMBOURG
+
+109
+Lead Organization
+Commission de Surveillance du Secteur Financier (CSSF).
+As part of the Artificial Intelligence theme, the CSSF published an animated video in French and German on 
+the topic: “Can I trust AI regarding my personal finances?”.
+On its website dedicated to financial education (www.letzfin.lu), the CSSF published key messages of the WIW 
+and disseminated them on social media.
+ALFI (Association of the Luxembourg Fund Industry) launched the fourth series of “Money Talks” podcasts 
+in cooperation with ARA City Radio. Furthermore, ALFI organised the ALFI Personal Investing Day, an event 
+entirely dedicated to young retail investors.
+Other ParticipantsOther Participants
+ALFI (Association of the Luxembourg Fund Industry).
+EVENTS
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+Can I trust AI regarding my personal finances? Money Talks
+
+110
+MALAYSIA
+
+111
+Lead Organization
+Securities Commission Malaysia.
+The Securities Commission Malaysia, in collaboration with Bursa Malaysia Berhad and the Bursa Young Investor 
+Club (BYIC), executed a focused student outreach program comprising four distinct webinars delivered to 
+participants from 33 universities between 6 and 10 October 2025. The webinar series, which engaged a total 
+of 1,027 students, covered critical topics including: the transition from savings to sustainable financial habits; 
+introductory steps into investment analysis, valuation, and spotting opportunities; advanced stock trading 
+strategies; and the role of investment psychology and behavioral finance. 
+Separately, in conjunction with the Ring the Bell event, Bursa Malaysia Berhad hosted a half-day public event 
+featuring two expert panel discussions designed to promote financial literacy and informed investing. The first 
+panel, “Navigating the Market with Financial Tools,” included representatives from Bursa Malaysia Berhad 
+and the industry. The second panel, titled “Too Good to be True? Spotting Financial Scams before They Spot 
+You,” featured the Securities Commission Malaysia as a panelist, alongside the Royal Malaysian Police and a 
+representative from the National Anti-Financial Crime Centre. This half-day event attracted over 180 members 
+of the general public and retail investors.  
+Other ParticipantsOther Participants
+Bursa Malaysia Berhad.
+
+112
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+113
+RIS CAMPAIGN 2025
+Lead Organization
+Securities Commission Malaysia.
+Other ParticipantsOther Participants
+Bursa Malaysia Berhad.
+The Securities Commission Malaysia created a microsite dedicated to the topic of relationship investment 
+scams. This resource is hosted on the organization’s investor education initiative website, InvestSmart®, at 
+the following URL: investsmartsc.my/relationship-investment-scams  Additionally, the Securities Commission 
+Malaysia prominently featured a banner on its official website, providing the public with direct redirection to 
+the relationship investment scams microsite.
+The Securities Commission Malaysia found video reels were superior to static content on its social channels. 
+This approach boosted both organic reach and total impressions, proving that video is currently the most 
+efficient way to capture attention on platforms such as Meta and TikTok. The algorithms clearly prioritize short-
+form video.
+Moving forward, the Securities Commission Malaysia recommends more video content creation to sustain and 
+elevate public awareness goals.
+
+114
+EVENTS
+Pictures of RIS Campaign-related activities
+
+115
+MAURITIUS
+
+116
+Lead Organization
+The Financial Services Fund (FSF) operating under the aegis of the Financial Services Commission, Mauritius 
+(FSC Mauritius).
+The Financial Services Commission (FSC) of Mauritius, through the Financial Services Fund (FSF), participated 
+for the second time in the IOSCO World Investor Week in 2025.
+In line with this year’s topic, some initiatives were organised. Four in-person events were held in the communities 
+of Bel Air (East), at the Floreal Women Empowerment centre (Centre), Mahebourg (South), and St Pierre 
+(Centre). Awareness was raised on Relationship Investment Scams during these sessions.
+Broadcast Media was also used to educate the population on the said topics through interviews broadcast on 
+National Television and radio during peak hours. The social media pages of the FSF on Facebook & Instagram 
+(Harmoney by FSF), digital and print media were also used to disseminate relevant information on the topic.  
+Other ParticipantsOther Participants
+N/A
+
+117
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch
+Click here to watch Click here to watch
+
+118
+RIS CAMPAIGN 2025
+The FSC Mauritius invited the media to cover four scheduled events in different localities. This strategy assisted 
+in obtaining a wider reach and helped in disseminating relevant information to audiences through different 
+media (TV , radio, print, and online). The FSC also leveraged its financial literacy website (www.harmoney.mu) 
+and social media pages to disseminate relevant information.
+Lead Organization
+The Financial Services Fund (FSF) operating under the aegis of the Financial Services Commission, Mauritius 
+(FSC Mauritius).
+Other ParticipantsOther Participants
+N/A
+EVENTS
+Video of RIS Campaign-related activities 
+Click here to watch Click here to watch Click here to watch
+Click here to watch Click here to watchClick here to watch
+
+119
+MOROCCO
+
+120
+Lead Organization
+Moroccan Capital Market Authority (AMMC).
+In line with its 2024-2028 strategic plan, the Moroccan Capital Market Authority (AMMC) positions financial 
+literacy as a key lever for capital market development. As part of its ongoing commitment to promoting 
+financial education and strengthening investor awareness, the AMMC participated for the 9th consecutive year 
+in World Investor Week through targeted initiatives:
+• Social media campaign: Key financial education messages in Arabic, English, and French were disseminated 
+across LinkedIn and X platforms.
+•  “Quiz Finance” mobile app: New quizzes covering savings, essential information documents, and general 
+meetings were integrated.
+•  World Savings Day: On October 31st, a carousel post highlighted best practices to enhance investment 
+protection.
+• University conferences: Two conferences in Guelmim and Dakhla focused on the Moroccan capital market 
+ecosystem for students.
+•  AMMC-UM6P Hackathon: The final was held at UM6P Rabat Campus under the theme “Innovation for 
+financial literacy and market access”.
+•  Comic strip competition: Two regional high school winners were celebrated for demonstrating financial 
+understanding through creative expression.
+•  Investment protection booklet: A guide on budgeting, saving, and investing was developed for informed 
+decision-making.
+• Educational game booklet: The first Arabic edition was released with quizzes, puzzles, and crosswords for 
+interactive learning. 
+For more information, please visit this website: education.ammc.ma 
+Other ParticipantsOther Participants
+N/A
+
+121
+EVENTS
+Pictures of WIW 2025 related activities
+
+122
+RIS CAMPAIGN 2025
+The Moroccan Capital Market Authority designed and published a short awareness-raising video on its social 
+media platforms (LinkedIn and Twitter) to highlight the importance of remaining vigilant against investment 
+scams.
+Through this video, the AMMC outlined the main warning signs that can help detect investment and trading 
+scams. It also briefly explained the schemes commonly used by fraudulent trading platforms to mislead 
+investors. Furthermore, the video provided practical tips to help the public protect their savings and financial 
+assets from investment scams.
+In addition to social media outreach, the Moroccan Capital Market Authority published an official public 
+warning calling for vigilance against unauthorized investment advice and fraudulent trading platforms. This 
+publication aimed to reinforce prevention messages and provide clear guidance to the public regarding the 
+risks associated with unregulated entities and misleading investment offers.
+The AMMC campaign demonstrated that short, targeted awareness content published on social media is an 
+effective way to reach a wide audience and raise awareness about investment scams. Both scam and fraud 
+key messages and the short-video format encouraged engagement and facilitated the transmission of key 
+prevention messages.
+The initiative also highlighted the importance of addressing investment scams through accessible and 
+understandable content. This approach is essential to enhancing the impact of Moroccan investor education 
+campaigns, especially given the rapid evolution of digital tools and artificial intelligence. The primary AMMC 
+challenge remains reaching vulnerable audiences who are less active on social media. 
+Lead Organization
+The Financial Services Fund (FSF) operating under the aegis of the Financial Services Commission, Mauritius 
+(FSC Mauritius).
+Other ParticipantsOther Participants
+N/A
+
+123
+EVENTS
+Pictures of RIS Campaign-related activities
+
+124
+NEW ZEALAND
+
+125
+Lead Organization
+Financial Markets Authority (FMA). 
+World Investor Week (WIW) 2025 in New Zealand was led by the Financial Markets Authority (FMA) and 
+focused on empowering investors to make informed decisions in a rapidly evolving financial landscape. The 
+campaign ran from 6–12 October and spotlighted key themes: Technology and Digital Finance, Artificial 
+Intelligence, and Fraud and Scam Prevention.
+Activities included a digital-first strategy with daily videos, graphics, and interactive content shared across 
+FMA’s social media channels and website. The “Jess Learns to Invest” podcast delivered practical tips to help 
+investors identify scams, understand emerging tools, and build confidence. A highlight was the opening bell 
+ceremony at NZX Limited to mark the start of WIW, reinforcing collaboration within the financial sector.
+Compared to previous years, WIW 2025 introduced a fully in-house approach prioritising organic engagement 
+and educational storytelling. New initiatives included short-form video content tailored for social platforms and 
+interactive quizzes designed to boost participation. These efforts positioned FMA as a trusted source of investor 
+education while addressing emerging risks in digital finance.
+Other ParticipantsOther Participants
+NZX Limited.
+
+126
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+
+127
+PANAMA
+
+128
+Lead Organization
+Superintendencia de Mercado de Valores de Panamá (SMV).
+The Superintendency of the Securities Market (SMV) held the seventeenth edition of Investor Day (“Día del 
+Inversionista”) during the World Investor Week 2025. The event provided a valuable opportunity to exchange 
+knowledge, experiences, and best practices through presentations by prominent national and international 
+specialists.
+This edition featured three keynote lectures: Ricardo Bernal (McKinsey & Co.) presented “Managing Uncertainty 
+in the Securities Market”; Sergio Tertusio (IFADESA) discussed “Digital Transformation in the Securities Market: 
+Opportunities and Challenges”; and Marco Flores (Deloitte Mexico) delivered the talk “IFRS S1 and S2: 
+Challenges and Opportunities for the Financial Sector.”
+The event was attended by strategic partners of the Panamanian securities market, representatives of the 
+national government, members of the academic sector, special guests, and media outlets.
+The SMV conducted the session “A More Sustainable and Transparent Securities Market,” which addressed 
+aspects related to the impact of sustainable finance on Panama’s financial institutions in the face of technological 
+challenges. The session was aimed at students and faculty of FAECO at the University of Panama.
+The SMV also carried out a social media campaign featuring educational capsules focused on investor 
+protection, and participated in radio and television programs.
+Other ParticipantsOther Participants
+Bolsa Latinoamericana de Valores (Latinex).
+
+129
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+
+130
+PERU
+
+131
+Lead Organization
+Superintendencia del Mercado de Valores del Perú (SMV).
+The Superintendence of Securities Market (SMV) led World Investor Week 2025 (WIW 2025) in Peru, developing 
+a series of educational events that addressed topics related to the stock market and crowdfunding as investment 
+alternatives or financing sources, as well as SMV’s role in these markets.
+The target audience was primarily economics, business, accounting, and law university students, among 
+others. Additionally, SMV held events for 4th and 5th-grade high school students, business people, and the 
+general public (investors).
+This year, we prioritized in-person talks and tripled the number of events. In addition, events were held outside 
+Lima, reaching eight (8) departments across Peru.
+Most events were supported by speakers from institutions such as Brokerage Firms Association, Peruvian Fund 
+Managers Association, Lima Stock Exchange, BNB Valores Perú S.A., and Syrus Distribution Perú SAC. In the 
+same way, we had institutions’ support, which facilitated the use of spaces and contributed to the dissemination 
+of different events.
+We directly reached 3,389 people. Additionally, through publications on our website and social media, we 
+reached almost 140,000 more people, conveying WIW’s key messages.
+Other ParticipantsOther Participants
+Bolsa de Valores de Lima - nuam, Asociación de Sociedades Agentes de Bolsa, Asociación de Administradoras de Fondos 
+Mutuos, BNB Valores S.A., Syrus Distribution Perú SAC, Universidad Nacional de Ingeniería – UNI, Colegio San Antonio 
+Marianistas, Universidad Nacional de San Agustín, Universidad Católica de Santa María, Colegio de Alto Rendimiento 
+– COAR Arequipa, Cámara de Comercio e Industria de Arequipa – CCIA, Universidad de Piura, Oficina Previsional de 
+las Fuerzas Armadas, Cámara de Comercio Americana del Perú – AmCham Perú, Pontificia Universidad Católica del 
+Perú – PUCP, Cámara de Comercio de Lima – CCL, Universidad Nacional del Centro del Perú, Universidad Continental, 
+Universidad Católica Santo Toribio de Mogrovejo, Universidad Nacional de San Antonio Abad del Cusco, Cámara de 
+Comercio de Cusco, Universidad Nacional Federico Villarreal – UNFV, Universidad San Ignacio de Loyola – USIL, Univer-
+sidad Nacional Mayor de San Marcos – UNMSM, Universidad La Salle, Cámara de Comercio de Arequipa, Universidad 
+Peruana de Ciencias Aplicadas – UPC, Universidad del Pacífico – UP, Universidad Nacional San Luis Gonzaga, Instituto 
+Superior Fibonacci – Sede Tingo María, Universidad Privada del Norte – Sede Los Olivos – UPN, Universidad Nacional 
+José María Arguedas.
+
+132
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+133
+POLAND
+
+134
+Lead Organization
+The Polish Financial Supervision Authority (UKNF).
+The WIW in Poland was inaugurated by the “Ring the Bell for Financial Literacy” event, organised on 6 October 
+2025 on the initiative of the Warsaw Stock Exchange (GPW) and the GPW Foundation in cooperation with the 
+Polish Financial Supervision Authority (UKNF) and the Central Securities Depository (KDPW S.A.).
+In addition to attending the pre-talks delivered by the organisers, the attendees had the opportunity to learn 
+five rules of a well-informed consumer and gain “consumer’s superpowers” during an interactive lecture given 
+by the Office of Competition and Consumer Protection. Those who wanted to test their cybersecurity knowledge 
+could join a quiz prepared by Think! Foundation. 110 people attended the event at the GPW trading hall, and 
+nearly 12,500 students and teachers watched the live stream.
+The WIW 2025 programme included webinars for schoolchildren and teachers prepared by the UKNF as part 
+of the Education Centre for Market Participants (CEDUR) project. The Office of Competition and Consumer 
+Protection prepared an introductory webinar on open-source intelligence: “Fact-checking. Things to look at in 
+online investment opportunities”.
+The Polish WIW programme also included the 5th edition of the Financial Education Day organised on 22 
+October 2025 by the GPW Foundation and the GPW. The event attracted a total of more than 6,000 participants 
+who attended the event on site and online, which confirms the growing interest in investments and conscious 
+finance management. 
+Other ParticipantsOther Participants
+Warsaw Stock Exchange (GPW), GPW Foundation, Central Securities Depository (KDPW S.A.), Office of Competition 
+and Consumer Protection (UOKiK), Think! Foundation.
+
+135
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+Ring the Bell for Financial Literacy
+ – event video report
+Financial Education Day 2025 
+– event video report
+
+136
+PORTUGAL
+
+137
+Lead Organization
+Comissão do Mercado de Valores Mobiliários (CMVM).
+In 2025, the CMVM organized two main initiatives, a Financial Literacy Course – with five sessions from 6 to 
+10 October, with the following themes: (1) Capital Markets, (2) The Banking Sector, (3) The Insurance Sector, 
+(4) Technology and Innovation in Financial Services, and (5) Digital Fraud. The sessions had a duration of 1:30 
+hours, one hour of presentation and debate, and half an hour of questions and answers.
+In the different sessions/classes, all the partners participated – except the General Directorate of Education 
+(DGE) – that help us with the other main event, and in some cases more than once. The sessions were held 
+in a hybrid model; people could sit in our auditorium or connect digitally (mostly connected digitally). The 
+CMVM is quite pleased with the results from this course, considering attendance, questions from the audience, 
+comments on the YouTube channel, and demand for similar initiatives.
+The second large initiative organized was targeted at children and young people, in a school context, and 
+was named “The Hour of Financial Literacy”, in coordination with the Ministry of Education and its General 
+Directorate of Education. The CMVM organized a similar event with the same name in 2024, but only for high 
+school teenagers. In 2025, the CMVM decided to be more ambitious and felt that it was important to expand 
+the range and cover children and young people.
+Other ParticipantsOther Participants
+anco de Portugal (BdP), Insurance and Pension Funds Supervisory Authority (ASF), Euronext Lisbon (Lisbon Stock Ex-
+change), AEM (Listed Companies Association) APB (Portuguese Banking Association), APIFPP (Investment and Pension 
+Funds Association), APAF (Portuguese Association of Financial Analysts) and APS (Portuguese Insurance Association), 
+CFA Society Portugal, the Portuguese Association for Consumers Protection (DECO), the General Directorate of Education 
+(DGE)  and the Tax Authority (AT).
+
+138
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+
+139
+QATAR
+
+140
+Lead Organization
+Qatar Financial Markets Authority (QFMA).
+Participation of the Qatar Financial Markets Authority in IOSCO’s World Investor Week:
+Introduction
+The Qatar Financial Markets Authority (QFMA) places strong emphasis on investor protection, financial 
+awareness, and the promotion of fair, transparent, and orderly financial markets in the State of Qatar. In 
+line with its regulatory mandate and commitment to international best practices, QFMA actively participates 
+in global initiatives led by the International Organization of Securities Commissions (IOSCO), including the 
+annual World Investor Week (WIW).
+World Investor Week is a global awareness campaign established by IOSCO to promote investor education, 
+protection, and financial literacy. It aims to enhance public understanding of financial markets, highlight 
+investors’ rights and responsibilities, and emphasize the role of securities regulators in safeguarding market 
+integrity and investor confidence.
+Objectives of Participation
+QFMA’s participation aimed to raise awareness of financial inclusion, enhance financial literacy, educate 
+investors on social media risks, promote responsible investment decisions, reinforce trust in regulated markets, 
+strengthen domestic regulatory cooperation, and contribute to IOSCO’s global investor protection goals. 
+Other ParticipantsOther Participants
+Qatar Financial Centre Regulatory Authority (QFCRA).
+
+141
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch
+
+142
+REPUBLIC OF
+KOREA
+
+143
+Lead Organization
+Financial Supervisory Service (FSS).
+The Financial Supervisory Service of Korea hosted the World Investor Week in coordination with relevant bodies 
+from November 24 to 28, 2025, with a primary focus on fraud and scam prevention, while also addressing 
+topics related to digital finance.
+During the WIW, the Financial Supervisory Service created and uploaded a YouTube video about preventing 
+fraud and scams associated with the so-called “stock trading signal chat rooms” - online chat rooms where 
+operators provide real-time stock trading signals and recommendations to chat room members. At the end 
+of November, the cumulative views reached over 2K, with 1,044 people participating in the related comment 
+event.
+The Financial Supervisory Service also utilized a webpage with educational content on fraud and scam 
+prevention and digital finance, as well as information on various WIW events in 2025. A 15-step quiz was 
+carried out to enable participants to gauge their level of knowledge in digital finance, and an online program 
+for self-assessment on fraud vulnerability was provided to raise awareness on fraud and scams and help 
+prevent investors from falling victim to malicious schemes.
+Financial education outreach programs for elementary and high school students were designed to foster 
+financial literacy from a young age. In addition, a session on “Preventing financial scams for the elderly” was 
+provided to offer tailored education for elderly participants who have limited access to information about 
+investments.
+Other ParticipantsOther Participants
+Korea Financial Consumers Protection Foundation, Korea Council for Investor Education.
+
+144
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+145
+ROMANIA
+
+146
+Lead Organization
+Romanian Financial Supervisory Authority (ASF).
+WIW 2025 kicked off with Ring the Bell at Bucharest Stock Exchange event, over 100 youngsters participating 
+at the site, and more than 2,200 watching online. They attended an interactive workshop on investments.
+As part of WIW, FSA carried out a wide range of educational activities, including sessions dedicated to children 
+from disadvantaged backgrounds, through a partnership with DGASPC Ilfov, as well as activities in several 
+universities, high schools, and schools. The programs dedicated to young people - Academic Laboratory for 
+universities and SmartFin (with Financial Studies Institute) for high schools – were present in several different 
+cities all over the country. Also, FSA workshops were addressed to students from the Republic of Moldavia.
+A major event was organized in collaboration with the Romanian Olympic and Sports Committee, with the 
+aim of developing and strengthening financial education among athletes from the Romanian Olympic Team.
+Also addressing adults, actions dedicated to members of The Body of Certified Public Accountants and 
+Authorized Accountants of Romania took place, in the form of technical workshops on the capital market 
+topics. Moreover, FSA organized workshops addressed to Internal Affairs Ministry employees, the Investment 
+Academy for students started, and train-the-trainer workshops for lecturers were held. More than 5,497 
+solicitors addressed the free-of-charge Central Depository offer of the service of obtaining a summary of 
+account positions.
+Other ParticipantsOther Participants
+Bucharest Stock Exchange, Central Depository, Romanian Olympic and Sports Committee, The Body of Certified Public 
+Accountants and Authorized Accountants of Romania, Romanian Fund Administrators Association, Internal Affairs Ministry, 
+DGASPC Ilfov, The Institute of Financial Studies, Universities, high schools, and schools.
+EVENTS
+Pictures of WIW 2025 related activities
+
+147
+SINGAPORE
+
+148
+Lead Organization
+Monetary Authority of Singapore (MAS).
+The Monetary Authority of Singapore (MAS) organised the following events for WIW under MoneySense, 
+Singapore’s national financial education programme: “Ready for Life” Festival and “Ring the Bell for Financial 
+Literacy”.
+“Ready for Life” Festival“
+The “Ready for Life” Festival is a one-day public outreach event that aims to help Singaporeans take charge 
+of their retirement planning and financial well-being. 
+MAS organised a talk by financial practitioners, covering the market outlook, how investors could build resilient 
+portfolios, and what to watch out for when they are consuming financial content online. MAS organised 
+another panel discussion covering scams. 
+In addition, MAS set up an interactive booth on investment scams that aimed to foster healthy skepticism 
+towards investment opportunities. The Festival was co-organised with the Central Provident Fund Board, a 
+statutory board that administers Singapore’s social security system. 
+“Ring the Bell for Financial Literacy”
+The Singapore Exchange Limited, Securities Investors Association Singapore, and MAS marked the start of 
+WIW 2025 with a “Ring the Bell for Financial Literacy” ceremony.
+Other ParticipantsOther Participants
+N/A
+
+149
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+150
+RIS CAMPAIGN 2025
+For WIW, the Monetary Authority of Singapore (MAS) engaged Mothership, a prominent local digital media 
+company, to create an engaging short-form video targeting relationship investment scams. This collaboration 
+was a 2000s-style parody video of Carly Rae Jepsen’s hit song “Call Me Maybe,” with a spin on the lyrics to 
+“Hey, I just met you, and this is crazy. So here’s my number, and please don’t scam me!” 
+The video highlighted the importance of having a healthy skepticism towards investment opportunities, especially 
+from relationships that were formed online. The call to action was to verify if institutions and representatives 
+were regulated using MAS’ directories. 
+The video was optimized for multiple platforms, including TikTok, Instagram, and Telegram.
+Lead Organization
+Monetary Authority of Singapore (MAS).
+Other ParticipantsOther Participants
+The Central Provident Fund Board (CPFB), The Association of Banks in Singapore (ABS), The Singapore Exchange Limited 
+(SGX), Institute for Financial Literacy (IFL), Securities Investors Association - Singapore (SIAS), Financial Industry Disputes 
+Resolution Centre Ltd (FIDReC), Investment Management Association of Singapore (IMAS), and The Singapore Police Force 
+(SPF).
+
+151
+EVENTS
+Picture of RIS Campaign-related activities 
+Video of RIS Campaign-related activities 
+Click here to watch
+
+152
+SOUTH AFRICA
+
+153
+Lead Organization
+Financial Sector Conduct Authority (FSCA).
+In October 2025, the Financial Sector Conduct Authority (FSCA) led a nationwide investor education and 
+protection programme to strengthen financial capability and reduce vulnerability to fraud.
+Key Highlights: 
+In-Person Engagements: Four workshops in Johannesburg, Pretoria, Hammanskraal, and greater Gauteng 
+reached 478 participants from SMMEs, community groups, and emerging retail investors. Topics included 
+investment basics, crypto assets, and fraud prevention, supported by partners such as the National Credit 
+Regulator, the Small Enterprise Development and Funding Agency, American Spaces (American Embassy), 
+the Johannesburg Stock Exchange, National Business Solutions, and the Gauteng Department of Economic 
+Development – Office of Consumer Education.
+Digital Outreach: A national webinar with the Gauteng Provincial Government attracted 310 participants, 
+expanding access to investor-protection messaging.
+Media Amplification: A Mahikeng FM interview extended awareness to a 2.97 million weekly listenership.
+Enhanced Digital Presence: A campaign on Relationship Investment Scams (RIS) across X, Facebook, Instagram, 
+and LinkedIn generated 23,387 organic impressions, marking a significant increase in engagement.
+Industry Collaboration: The FSCA delivered a keynote at the Johannesburg Stock Exchange’s “Ring the Bell 
+for Financial Literacy” event, spotlighting RIS and reinforcing multi-stakeholder collaboration. FSCA advanced 
+investor education, fraud prevention, & digital engagement.
+Other ParticipantsOther Participants
+Johannesburg Stock Exchange (JSE), National Business Solutions (NBS), Small Enterprise Development and Funding Agen-
+cy (SEDFA), National Credit Regulator (NCR), Gauteng Department of Economic Development (GDED) – Office of Con-
+sumer Education, American Spaces (American Embassy), SMMEs and entrepreneurs across provinces. These partners 
+contributed to logistics, mobilisation, co-facilitation, and content delivery.
+
+154
+EVENTS
+Pictures of WIW 2025 related activities
+
+155
+RIS CAMPAIGN 2025
+During WIW, the Financial Sector Conduct Authority (FSCA) launched a targeted social media campaign 
+to combat the rise of relationship investment scams, which increasingly exploit artificial intelligence and 
+psychological manipulation. The initiative aimed to help consumers identify warning signs, understand 
+emotional grooming tactics, and take proactive steps against fraudulent investment behaviour. Content was 
+deployed across Facebook, Instagram, LinkedIn, and X, using static posts, videos, and infographics. LinkedIn 
+achieved the strongest professional engagement, while Facebook extended community reach. Video content 
+and red-flag messaging performed consistently across platforms, reflecting strong demand for practical, 
+scenario-based guidance. 
+Overall, the campaign strengthened awareness, encouraged information-seeking behaviour, and reinforced 
+FSCA’s role as a trusted authority on investor protection. The initiative demonstrates how national regulators 
+can contribute to a coordinated global response, reinforcing the importance of consumer education and trust-
+building as first lines of defense against sophisticated investment scams.
+ 
+Lead Organization
+Financial Sector Conduct Authority (FSCA).
+Other ParticipantsOther Participants
+Johannesburg Stock Exchange (JSE), National Business Solutions (NBS), Small Enterprise Development and Funding Agen-
+cy (SEDFA), National Credit Regulator (NCR), Gauteng Department of Economic Development (GDED) – Office of Con-
+sumer Education, American Spaces (American Embassy), SMMEs and entrepreneurs across provinces.
+EVENTS
+Picture of RIS Campaign-related activities
+
+156
+SPAIN
+
+157
+Lead Organization
+Comisión Nacional del Mercado de Valores (CNMV).
+In 2025, the CNMV’s efforts focused on the romance scams campaign. The CNMV posted several alerts on 
+social media and produced a video warning about love and romance scams.
+In addition, the CNMV organized an open event at its headquarters (CNMV Open Day) aimed at the general 
+public, to raise awareness about investment opportunities and to increase awareness of scams and fraud.
+Other ParticipantsOther Participants
+Instituto BME (Bolsas y Mercados Españoles), Bolsa de Barcelona.
+EVENTS
+Pictures of WIW 2025 related activities
+
+158
+RIS CAMPAIGN 2025
+Lead Organization
+Comisión Nacional Del Mercado de Valores (CNMV).
+Other ParticipantsOther Participants
+Instituto BME (Bolsas y Mercados Españoles), Bolsa de Barcelona.
+EVENTS
+Pictures of RIS Campaign-related activities 
+Videos of RIS Campaign-related activities 
+Click here to watch Click here to watch
+
+159
+TANZANIA
+
+160
+Lead Organization
+Capital Markets and Securities Authority (CMSA).
+The Capital Markets and Securities Authority (CMSA) successfully participated in the 2025 World Investor Week 
+(WIW) campaign by organizing various activities aiming at creating public awareness on capital market issues. 
+This year’s campaign focused on youths (Students) and women’s groups. The campaign helped the public:
+(i) to distinguish between legitimate investment opportunities and high-risk or fraudulent schemes, and 
+encouraged long-term financial planning and informed decision-making.
+(ii) to build confidence among retail investors, thereby expanding the base of knowledgeable market 
+participants; and 
+(iii) Enhanced public trust in the financial system by demonstrating the regulator’s commitment to safeguarding 
+investor interests.
+Other ParticipantsOther Participants
+UTT – AMIS, Dar es Salaam Stock Exchange (DSE).
+EVENTS
+Pictures of WIW 2025 related activities
+Click here to watch Click here to watch
+Videos and Audio Recordings of WIW 2025 related activities
+
+161
+THAILAND
+
+162
+Lead Organization
+The Securities and Exchange Commission, Thailand (SEC).
+• Online activities:  25 business operators, namely: 
+1. Avenger Planner Investment Advisory Securities Co., Ltd.
+2. Bitkub Online Co., Ltd.
+3. Bualuang Securities  Plc.
+4. CGS International Securities (Thailand) Co., Ltd.
+5. CIMB Thai Bank Plc.
+6. Deepscope Investment Advisory Securities Co., Ltd. 
+7. Finnomena Mutual Fund Brokerage Securities Co., Ltd.
+8. Globlex Securities Co., Ltd.
+9. Government Savings Bank
+10. Kasikorn Asset Management Co., Ltd.
+11. Kasikorn Securities Plc.
+12. Kiatnakin Phatra Securities Plc.
+13. Krungsri Asset Management Co.,Ltd.
+•On-ground activities:
+1. Sripatum University.
+The SEC Thailand successfully organized World Investor Week (WIW) 2025 under the theme “Financial Well-
+Being Journey: Informed Decisions, Empowered Choices in the New Era of Finance.” The campaign featured 
+a mix of online and on-ground activities to promote financial literacy nationwide. 
+For the online initiative, WIW 2025 introduced the concept “7 Days, 7 Topics,” covering investment fraud 
+prevention, financial health checks, debt management, capital market and foreign investment products, tax 
+planning, and retirement planning.
+In addition to the SEC Thailand’s own series of 7 infographics and 7 short clips based on SEC E-Learning 
+content, the SEC collaborated with 25 business operators to share their education materials under the specified 
+topics. This resulted in a total of 67 pieces of content disseminated via the SEC’s Facebook: Start-To-Invest and 
+TikTok: ThaiSEC Official—significantly expanding public outreach.
+Furthermore, a dedicated WIW webpage was launched on smarttoinvest.com as a centralized hub for financial 
+literacy resources.
+For on-ground activity, the SEC Thailand organized the Campaign on Campus program, which engaged more 
+than 200 university students through interactive learning sessions designed to strengthen money management 
+skills.
+Note: For reference, see the SEC Thailand’s Press Release on WIW 2025 at www.sec.or.
+Other ParticipantsOther Participants
+The SEC Thailand collaborated with securities and digital asset business operators to jointly disseminate financial and 
+investment knowledge to the public through the SEC’s Facebook: Start-to-Invest. In total, 26 organizations participated, 
+categorized as follows:
+14. Krungsri Securities Plc.
+15. Maybank Securities (Thailand) Plc.
+16. Merkle Capital Co.,Ltd.
+17. Ocean Life Insurance Plc.
+18. SCB Asset Management Co., Ltd.
+19. Thai Credit Bank
+20. Tisco Asset Management Co., Ltd.
+21. Treasurist Securities Group
+22. Trinity Securities Co., Ltd.
+23. Wealth Magic Securities Co., Ltd.  
+24. XSpring Asset Management Co., Ltd.
+25. Yuanta Securities (Thailand) Co., Ltd.
+
+163
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch Click here to watch
+Click here to watch Click here to watch Click here to watch Click here to watch
+
+164
+RIS CAMPAIGN 2025
+Lead Organization
+The Securities and Exchange Commission, Thailand (SEC).
+• Online activities:  25 business operators, namely: 
+1. Avenger Planner Investment Advisory Securities Co., Ltd.
+2. Bitkub Online Co., Ltd.
+3. Bualuang Securities  Plc.
+4. CGS International Securities (Thailand) Co., Ltd.
+5. CIMB Thai Bank Plc.
+6. Deepscope Investment Advisory Securities Co., Ltd. 
+7. Finnomena Mutual Fund Brokerage Securities Co., Ltd.
+8. Globlex Securities Co., Ltd.
+9. Government Savings Bank
+10. Kasikorn Asset Management Co., Ltd.
+11. Kasikorn Securities Plc.
+12. Kiatnakin Phatra Securities Plc.
+13. Krungsri Asset Management Co.,Ltd.
+•On-ground activities:
+1. Sripatum University.
+The SEC Thailand actively supported the RIS campaign by posting five pieces of content (clips and infographics) 
+on the opening day of WIW under the theme of investment frauds and scams. These posts featured RIS-related 
+content, including the Secretary-General’s opening remarks clip, an infographic with the Secretary-General’s 
+quote, an infographic developed using RIS Working Group materials, a digital asset business operator’s clip 
+on pig butchering scams, and a podcast showcasing RIS experiences from a celebrity perspective.
+In Thailand, investment scams rank first among online cybercrimes, accounting for about 55%, followed by job 
+advertisements and call-center fraud. Recognizing this critical issue, the SEC Thailand placed fraud and scams 
+at the forefront of WIW from day one.
+Other ParticipantsOther Participants
+The SEC Thailand collaborated with securities and digital asset business operators to jointly disseminate financial and 
+investment knowledge to the public through the SEC’s Facebook: Start-to-Invest. In total, 26 organizations participated, 
+categorized as follows:
+14. Krungsri Securities Plc.
+15. Maybank Securities (Thailand) Plc.
+16. Merkle Capital Co.,Ltd.
+17. Ocean Life Insurance Plc.
+18. SCB Asset Management Co., Ltd.
+19. Thai Credit Bank
+20. Tisco Asset Management Co., Ltd.
+21. Treasurist Securities Group
+22. Trinity Securities Co., Ltd.
+23. Wealth Magic Securities Co., Ltd.  
+24. XSpring Asset Management Co., Ltd.
+25. Yuanta Securities (Thailand) Co., Ltd.
+
+165
+EVENTS
+Pictures of RIS Campaign-related activities 
+Videos of RIS Campaign-related activities 
+Click here to watch
+
+166
+TUNISIA
+
+167
+Lead Organization
+Conseil du Marché Financier (CMF).
+The Conseil du Marché Financier (CMF) proudly participated, for the sixth consecutive year, in the “World 
+Investor Week”, organizing national activities from October 20 to 24, 2025. A key component of this year’s 
+campaign was the publication of innovative digital educational content highlighting the fruitful cooperation 
+between the CMF and the Banque de France’s Financial Education Department (EDUCFI). This partnership 
+resulted in two comprehensive educational briefs: one dedicated to blockchain technology and its implications 
+for financial markets, and another exploring securitization mechanisms.
+Additionally, in collaboration with the Union of Arab Securities Authorities (UASA), the CMF published the 
+“Smart Investor Guide”, a practical resource developed to strengthen investor awareness and protection across 
+the region.
+The CMF organized three impactful seminars targeting diverse audiences. University students and higher 
+education attendees received detailed presentations on the CMF’s regulatory missions and the Tunisian 
+financial market’s opportunities, aiming to inspire the next generation of informed investors. The CMF also 
+hosted a professional delegation from Burundi’s financial market sector, facilitating knowledge exchange and 
+reinforcing regional cooperation.
+To maximize public engagement, the CMF participated in a prime-time radio program on the national radio 
+station, promoting World Investor Week activities and raising awareness about financial fraud risks.
+Other ParticipantsOther Participants
+Bourse des valeurs mobilières de Tunis (Tunis Stock Exchange).
+EVENTS
+Pictures of WIW 2025 related activities
+
+168
+UNITED ARAB 
+EMIRATES
+
+169
+Lead Organization
+Securities and Commodities Authority (SCA).
+We have introduced a new AI-based video awareness, quizzes for viewers on social media accounts, and a 
+webinar based on the theme of WIW.
+Other ParticipantsOther Participants
+Dubai Financial Market (DFM), Abu Dhabi Stock Exchange (ADX), Dubai Financial Services Authority (DFSA).
+EVENTS
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch
+
+170
+UNITED STATES 
+OF AMERICA
+
+171
+Lead Organization
+U. S. Securities and Exchange Commission (SEC).
+Execution of planned activities in the United States was hindered in part by the government shutdown, which 
+came into effect on October 1, 2025. In recognition of World Investor Week 2025, the Securities and Exchange 
+Commission’s Office of Investor Education & Assistance pre-recorded an instructional program for employees 
+who are considering retiring or leaving the federal government or military  
+FINRA, the North American Securities Administrators Association (NASAA), the National Futures Association 
+(NFA), and the Securities Investor Protection Corporation (SIPC) collaborated to issue Investor Bulletin. The 
+Investor Bulletin discussed the risks and opportunities of digital investment tools and Artificial Intelligence (AI), 
+reminded investors of the key fundamentals to investing, and shared information on spotting and avoiding 
+relationship investment scams and other prevalent schemes. 
+NFA, FINRA, and the Commodity Futures Exchange Commission’s Office of Customer Education and Outreach 
+held a free webinar on how AI is used by relationship scammers entitled “Deconstructing to Disrupt Fraud—A 
+Live Webinar Featuring Professor Arda Akartuna.” The FINRA Foundation also released early findings of the 
+National Financial Capability Study Investor Survey, which found that half of U.S. investors do not recognize 
+warning signs of fraud.  
+Other ParticipantsOther Participants
+SEC’s Office of Investor Education & Assistance (limited participation due to government shutdown), Commodity Futures 
+Trading Commission (CFTC) (limited participation due to government shutdown), Financial Industry Regulatory Authority 
+(FINRA), National Futures Association (NFA), Securities Investor Protection Corporation (SIPC), North American Securities 
+Administrators Association (NASAA).
+Click here to watch Click here to watch
+Videos and Audio Recordings of WIW 2025 related activities
+EVENTS
+
+172
+RIS CAMPAIGN 2025
+Lead Organization
+U. S. Securities and Exchange Commission (SEC).
+Other ParticipantsOther Participants
+SEC’s Office of Investor Education & Assistance (limited participation due to government shutdown), Commodity Futures 
+Trading Commission (CFTC) (limited participation due to government shutdown), Financial Industry Regulatory Authority 
+(FINRA), National Futures Association (NFA), Securities Investor Protection Corporation (SIPC), North American Securities 
+Administrators Association (NASAA).
+In recognition of WIW, FINRA, the North American Securities Administrators Association (NASAA), the National 
+Futures Association (NFA), and the Securities Investor Protection Corporation (SIPC) collaborated to issue an 
+Investor Bulletin. The Bulletin discussed the risks and opportunities of digital investment tools and Artificial 
+Intelligence (AI), reminded investors of the key fundamentals to investing, and shared information on spotting 
+and avoiding relationship investment scams and other prevalent schemes. NFA, FINRA, and the Commodity 
+Futures Exchange Commission (CFTC) held a free webinar on how AI is used by relationship scammers entitled 
+“Deconstructing to Disrupt Fraud—A Live Webinar Featuring Professor Arda Akartuna.”
+The FINRA Foundation also released early findings of the NFCS Investor Survey, which found that half of U.S. 
+investors do not recognize warning signs of fraud. FINRA’s WIW social media posts on Facebook, Instagram, 
+and LinkedIn garnered more than 4,700 engagements. FINRA’s LinkedIn post on “The Lifecycle of a Relationship 
+Investment Scam” garnered significantly higher engagement than all others for the period (136 Reactions and 
+34 reposts). FINRA also released a podcast featuring Gerri Walsh, President of the FINRA Investor Education 
+Foundation and Senior Vice President of FINRA Investor Education, sharing trends and tips for investors.
+Additionally, the CFTC educated Maine Credit Union employees about relationship investment scams and 
+government imposter scams via a webinar. The presentation helped the employees understand the scams, 
+so they can recognize when customers are being victimized. The CFTC also participated in a train-the-trainer 
+webinar for United States Navy Command Financial Specialists. The session focused on scams impacting 
+military members. Last, the CFTC joined representatives from the Federal Bureau of Investigation for a panel 
+discussion about investment scams, hosted by Florida AARP .
+
+173
+EVENTS
+Pictures of RIS Campaign-related activities 
+Videos of RIS Campaign-related activities 
+Click here to watch
+
+174
+ZIMBABWE
+
+175
+Lead Organization
+Securities and Exchange Commission of Zimbabwe (SECZ).
+The Securities and Exchange Commission of Zimbabwe (SECZ) actively participated in World Investor Week 
+(WIW) 2025, held from October 6 to 12, focusing on investor empowerment and protection. Following 
+IOSCO’s global guidelines, the commission centered its activities on technology and digital finance, artificial 
+intelligence, and fraud prevention.
+Key activities included:
+Media Capacity Building: On October 14, 2025, SECZ hosted a workshop for media professionals to 
+deepen their understanding of the capital markets ecosystem and improve the quality of financial reporting in 
+Zimbabwe.
+Educational Outreach: Through partnerships with the Ministry of Education, SECZ conducted “Train-the-
+Trainer” workshops to integrate capital market concepts into school curricula across various provinces.  SECZim 
+exhibited and presented at the 15th edition of the SMEs International Expo running under the theme “Resilience 
+and Agility: Navigating change for SMEs futureproofing in a climate-conscious world.” The Commission’s 
+participation was to raise capital market awareness and fact-find around funding gaps faced by SMEs.  The 
+expo presented an opportunity for entrepreneurs, business leaders, policymakers, and changemakers to come 
+up with strategic growth, innovation, and global relevance. The Commission also presented and exhibited at 
+the National Youth Empowerment Symposium, which attracted over 120 exhibitors.  The Commission had the 
+opportunity to connect with the next generation and educate the youth about the capital market, explain the 
+role of a regulator, and highlight the diverse opportunities within the financial sector. University public lectures 
+were held to enhance the students’ understanding of the Commission’s operations and provide insights into 
+the functioning of the capital market.  The lectures focused on the Commission’s regulatory role, investor 
+protection, and the opportunities available to young people in the capital market.
+Digital Campaign: Leveraging social media, the commission promoted the global slogan “Stay Informed, 
+Stay Protected,” sharing alerts about online investment scams and guidance on the safe use of digital platforms.
+Educational Webinars: In collaboration with professional institutes, SECZ held online sessions to demystify 
+investing and showcase practical platforms like C-Trade and ZSE Direct.
+These initiatives reinforced SECZ’s 2021-2025 Strategic Plan to increase market awareness and financial 
+inclusion.
+Other ParticipantsOther Participants
+N/A
+
+176
+Financial Planning 
+Standards Board 
+Ltd.(FPSB)
+
+177
+Lead Organization
+U. S. Securities and Exchange Commission (SEC).
+Other ParticipantsOther Participants
+The names of organizations in our global network that participated in the World Investor Week / World Financial Planning 
+Day campaign include:
+Financial Advice Association Australia (FAAA)
+• Österreichischer Verband Financial Planners (OVFP)
+• Planejar – Associação Brasileira de Planejamento Financeiro (Brazil)
+• FP Canada
+• Financial Planning Association of Taiwan (FPAT)
+• Financial Planning Standards Board Deutschland (FPSB Deutschland)
+• Institute of Financial Planners of Hong Kong Ltd. (IFPHK)
+• FPSB India
+• Financial Planning Standards Board Indonesia (FPSB Indonesia)
+• FPSB Ireland Ltd.
+• FPSB Italia
+• Financial Planners Association in Israel (FPAI)
+• Japan Association for Financial Planners (JAFP)
+• Financial Planning Association of Malaysia (FPAM)
+• Financial Advice New Zealand
+• Financial Planning Standards Board China Ltd. (FPSB China)
+• Financial Planning Association of Singapore (FPAS)
+• Financial Planning Institute of Southern Africa (FPI)
+• Thai Financial Planners Association (TFPA)
+• Federatie Financieel Planners (Federation of Financial Planners)
+• Chartered Institute for Securities & Investment (CISI) (UK)
+• CFP Board (U.S.)
+Financial Planning Standards Board Ltd. (FPSB), along with its global network of organizations administering 
+CERTIFIED FINANCIAL PLANNER certification, was pleased to host the 9th annual World Financial Planning 
+Day (WFPD) as part of IOSCO’s World Investor Week on 8 October 2025.
+WFPD 2025 kicked off with a variety of activities, including campaign video featuring CFP professionals from 
+around the world, the IOSCO Acting Secretary General, and FPSB CEO; territory-specific online and in-person 
+events hosted by FPSB’s global network of organizations; territory-specific consumer research findings, pro 
+bono financial planning consultations, video ‘street’ interviews, media and social media campaigns; and 
+more.
+Topics ranged from smart financial decision-making, debt and financial recovery, how to protect yourself from 
+financial fraud, building an emergency fund, estate planning, and more.
+
+178
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch
+
+179
+IOSCO Asia
+Pacific Hub
+
+180
+Lead Organization
+IOSCO Asia Pacific Hub.
+In support of World Investor Week 2025, the IOSCO Asia Pacific Hub participated by promoting the recording 
+of its June 2025 webinar, “Staying Ahead of Scams: Smarter Tools, Stronger Coordination”. Originally 
+delivered under IOSCO’s NextGEN capacity-building program, the webinar examined emerging fraud trends 
+and innovative regulatory responses across the region. 
+The webinar attracted 352 participants from 38 jurisdictions, reflecting strong global interest in strengthening 
+collective defences against scams. Speakers represented by: 
+• Australian Securities and Investments Commission (ASIC)*,
+• Financial Markets Authority of New Zealand (FMA)*,
+• Hong Kong Securities and Futures Commission (SFC),
+• Securities and Exchange Board of India (SEBI),
+• Securities Commission Malaysia (SC),
+• Monetary Authority of Singapore (MAS).
+* ASIC and FMA also joined in their capacity as co-chairs of the IOSCO APRC (Asia-Pacific Regional Committee) 
+Working Group on Scams and Online Harms.
+The session highlighted how fraudsters are rapidly evolving their methods, and how regulators are responding 
+through enhanced technological tools, cross-border coordination, and more proactive disruption strategies. 
+Key highlights are summarised in the attached webinar flyer distributed during WIW. 
+The IOSCO Asia Pacific Hub remains committed to supporting and contributing to these important efforts in 
+the region.
+Other ParticipantsOther Participants
+N/A
+
+181
+EVENTS
+Pictures of WIW 2025 related activities
+Video of RIS Campaign-related activities 
+Click here to watch
+IOSCO Webcasts:
+Open for IOSCO members only.
+
+182
+International 
+Federation of 
+Accountants (IFAC)
+
+183
+Lead Organization
+International Federation of Accountants (IFAC).
+This year, IFAC worked with three members of the IFAC Young Leaders Collective to produce videos for World 
+Investor Week. The videos communicated to investors around the world how emerging technology creates 
+more efficient auditing and assurance for financial information, and that efficiency can benefit investors.
+The purpose of these videos is to make emerging and technical concepts in accountancy accessible to audiences 
+with different professional and cultural backgrounds. IFAC released four videos total (three videos with the 
+Young Leaders Collective and one with IFAC CEO Lee White) at the beginning of World Investor Week, and 
+engaged in a week-long social media campaign across LinkedIn, Instagram, Facebook, and X to promote the 
+videos.
+With a combined reach of over 10,000 views, we feel this was a successful World Investor Week.
+Other ParticipantsOther Participants
+N/A
+EVENTS
+Pictures of WIW 2025 related activities
+Videos and Audio Recordings of WIW 2025 related activities
+Click here to watch Click here to watch Click here to watch Click here to watch
+
+184
+Annex
+
+185
+Annex 1 – WIW 2025 Global and Regional Events
+Ring the Bell for Financial Literacy (World Federation of Exchanges – WFE)
+As part of World Investor Week 2025 (6–12 October), stock exchanges around the world were invited to 
+participate in the World Federation of Exchanges’ Ring the Bell for Financial Literacy event. This was the sixth 
+annual event, which promotes awareness of the vital role investor education and protection play in global 
+markets.
+This Ring the Bell ceremony counted on the participation of 57 organizations worldwide, representing 80% 
+of all WFE Full Members.
+Jean-Paul Servais, Chair of IOSCO and FSMA, with Jan Jambon, Vice Prime Minister and Minister of Finance 
+and Pensions of Belgium, and Benoît van den Hove, CEO Euronext Brussels, rang the bell at Euronext Brussels 
+to open the World Investor Week.
+In his speech, the Chair highlighted the important role that stock markets play in financing the real economy 
+and IOSCO’s efforts, alongside its members, to promote a culture of informed investors.
+List of participants, articles, and photo gallery:
+www.world-exchanges.org
+available on the WFE website at
+
+186
+World Financial Planning Day (Financial Planning Standards Board Ltd. – FPSB)
+Since 2017, FPSB has celebrated World Financial Planning Day on the Wednesday of World Investor Week. 
+Each year, the global financial planning profession comes together for World Financial Planning Day to help 
+raise awareness of the value of financial planning, having a financial plan, and working with a financial 
+planner who has committed to standards of competency and ethics and putting clients’ interests first. 
+worldfpday.org
+For further information
+WIW 2025 Webinars
+IOSCO used the WIW 2025 homepage carousel to promote related campaign events. A new Events module 
+highlighted some webinars, among other activities:
+U.S. Commodity Futures Trading Commission (CFTC) / Federal Bureau of Investigation (FBI) / American 
+Association of Retired Persons (AARP)
+Webinar: Discussion about investment and other financial scams.
+.
+
+187
+National Futures Association (NFA) / Financial Industry Regulatory Authority (FINRA) / Commodity Futures 
+Trading Commission (CFTC)
+Webinar: Deconstructing to Disrupt Fraud.
+European Fund and Asset Management Association (EFAMA)
+Webinar: Launch of the European Commission’s new Financial Literacy Strategy, a key element of the 
+Savings and Investment Union
+
+188
+Financial Services Authority (OJK), Indonesia / IOSCO Committee on Retail Investors (C8)
+Webinar: Empowering Investors: Invest Wisely and Stay Safe from Fraud and Scams.
+A panel of speakers, including Friderica Widyasari Dewi, Chief Executive of Market Conduct Supervision, 
+Financial Education, and Consumer Protection of Financial Services Authority (OJK), Indonesia, and Camille 
+Beaudoin, Chair of IOSCO Committee on Retail Investors (C8), Canada.
+IOSCO Promotional Videos
+The Global Webinars previously organized by IOSCO were replaced with some promotional videos, building 
+on the successful WIW 2024 experience with this media type. This 2024 initiative included a short in-house 
+video produced by IOSCO, which was shared on social media and received an excellent response, surpassing 
+1,000 views.
+This way, IOSCO gradually launched promotional videos during the WIW 2025 campaign:
+
+189
+Annex 2 – IOSCO Committee on Retail Investors (Committee 8 members) 
+Chairman
+Mr. Camille Beaudoin, Director, Financial Education Expertise and Partnerships, Autorité des marchés 
+financiers, Quebec - Canada
+Vice-Chairman
+Ms. Ana Teresa de Secca Reis Antunes Frasquilho, Senior Associate at the Department of Conduct Supervision 
+and Investor Protection, Comissão do Mercado de Valores Mobiliários, Portugal
+Members
+Comissão do Mercado de Capitais, Angola
+(Mr. Dalvim Pipa, Director of the Department of Studies, Strategy, Development, and Communication / Mr. 
+Vasco Januário, Executive Director) 
+Comisión Nacional de Valores, Argentina
+(Ms. Nadia Montenegro, Gerente, Gerencia de Gobierno Corporativo y Protección al Inversor / Sonia F . 
+Salvatierra, Director) 
+Australian Securities and Investments Commission, Australia
+(Mr. Gerard Fitzpatrick, Senior Executive, International) 
+Securities Commission of The Bahamas, Bahamas
+(Mr. Stewart Miller, Manager, Investor Education and Communications)
+Financial Services and Markets Authority, Belgium
+(Mr. Jim Lannoo, Head of Communications and Financial Education) 
+Comissão de Valores Mobiliários, Brazil
+(Ms. Nathalie Vidual, Director, Office of Investor Support and Sustainable Finance - 2025)
+(Mr. José Alexandre Vasco, Director, Office of Investor Support and Sustainable Finance - 2026) 
+British Columbia Securities Commission, British Columbia
+(Ms. Pamela McDonald, Director, Communications and Education)
+China Securities Regulatory Commission, China
+(Mr. Zhongchao Fan, Deputy Director-General, Department of Legal Affairs (Office of Chief Counsel) / Ms. 
+Zhiyu Zhao, Division Head, Department of Legal Affairs (Office of Chief Counsel))
+Autorité des marchés financiers, France
+(Ms. Florence Corne, Deputy Director, Retail Investor Relations and Protection) 
+Securities and Futures Commission, Hong Kong SAR - Special Administrative Region of the PRC
+(Ms. Dora Li, General Manager, SFC Investor and Financial Education Council)
+
+190
+Securities and Exchange Board of India, India
+(Mr. Sunil Jayawant Kadam, Executive Director, Office of Investor Assistance and Education)
+Indonesia Financial Services Authority, Indonesia
+(Mrs. Friderica Widyasari Dewi, Member of the Board Commisioners, Consumer Education and Protection / 
+Mr. Cecep Setiawan, Deputy Director, Financial Literacy and Consumer Protection) 
+Israel Securities Authority, Israel
+(Ms. Sivan Carmon, VP , Communications, External Relations & Investor Education / Gal Shahaf, Senior 
+Manager, Digital and Strategic Partnerships)
+Commissione Nazionale per le Società e la Borsa, Italy
+(Mr. Pasquale Munafò, Senior Officer) 
+Financial Services Agency, Japan
+(Mr. Kaneko Jutaro, Deputy Commissioner for International Affairs / Mr. Eisuke Otake, Deputy Director for 
+International Capital Markets Regulation)
+Jersey Financial Services Commission, Jersey
+(Ms. Diane Maxwell, Executive Director of Policy and Risk) 
+Financial Services Commission/Financial Supervisory Service, Korea, Republic of
+(Ms. Hyunji Kim, Manager, International Affairs Department)
+Commission de Surveillance du Secteur Financier, Luxembourg
+(Mr. Matthias Schmidt, Deputy head, Secrétariat Général)
+Securities Commission, Malaysia
+(Mr. Jawahar Ali Ameer Ali, General Manager, Consumer & Investor Office Department) 
+Comisión Nacional Bancaria y de Valores, Mexico
+(Ms. Valeria Garcia, General Director for Supervision of Market Participants’ Conduct / Ms. Mariana Gonzalez) 
+Securities and Exchange Commission, Nigeria
+(Mr. Habib Abubakar Mohammed, Deputy Director / Mr. Abubakar A. Salihu, Senior Manager)
+Ontario Securities Commission, Ontario
+(Ms. Theresa Ebden, Vice President, Investor Office) 
+Comissão do Mercado de Valores Mobiliários, Portugal
+(Ms. Ana Teresa de Secca Reis Antunes Frasquilho, Senior Associate at the Department of Conduct Supervision 
+and Investor Protection)
+Autorité des marchés financiers, Quebec
+(Mr. Camille Beaudoin, Director, Financial Education Expertise and Partnerships) 
+Financial Supervisory Authority, Romania
+(Ms. Alexandra Bontas, Financial Education Officer)
+
+191
+The Bank of Russia, Russia
+(Ms. Daria Bezmenova, Head of International Best Practice Analysis Unit, Service for Consumer Protection 
+and Financial Inclusion) 
+Capital Market Authority, Saudi Arabia
+(Mr. Ali Aldakheel, General Director, Communication & Investor Protection Division / Mr. Mohammad 
+Alsogaeh, Director, Investor Protection Department / Mr. Mamdouh Aloqaili, Director, Awareness Department) 
+Monetary Authority of Singapore, Singapore
+(Ms. Rebecca Chua, Director & Head (Consumer Issues))
+Financial Sector Conduct Authority, South Africa
+(Mr. Lyndwill Clarke, Head of Department, Consumer Education Department / Ms. Alicia Moses, Manager, 
+Consumer Education Department)
+Comisión Nacional del Mercado de Valores, Spain
+(Ms. Gloria Caballero Núñez, Deputy Director Financial Education (Investor Protection, Fraud Prevention and 
+Financial Education Department) 
+Securities and Exchange Commission of Sri Lanka, Sri Lanka
+(Mr. Tushara Jayaratne, Director External Relations and Capital Market Education)
+Finansinspektionen, Sweden
+(Ms. Moa Langemark, Consumer Protection Economist) 
+Financial Supervisory Commission, Chinese Taipei
+(Mr. Joey Cheng, Director) 
+Securities and Exchange Commission, Thailand
+(Ms. Sarica Apiwatthakakul, Director, Capital Market Education Department) 
+Capital Markets Board, Türkiye
+(Ms. Gül Ertan İlal, Senior Expert at the Strategy Development Department / Mr. Şeref Özer, Deputy Head at 
+the Legal Affairs Department)
+Financial Conduct Authority, United Kingdom
+(Ms.Lucy Castledine, Director of Consumer Investments)
+Commodity Futures Trading Commission, United States of America
+(Ms. Bianca Gomez, Special Counsel, Office of International Affairs) 
+Securities and Exchange Commission, United States of America
+(Mr. Rahman Harrison, Acting Chief Counsel, Office of Investor Education and Assistance) 
+Financial Industry Regulatory Authority, United States of America
+(Ms. Gloria Dalton, Vice President, Office of International Affairs) 
+Observers (2)
+European Securities and Markets Authority, European Union
+(Mr. Matteo Rava,Team Leader, Protection Retail Investors) 
+Japan Securities Dealers Association, Japan
+(Mr. Yuya Nakase, Senior General Manager, Global Regulation Office)
+
+192
+Annex 3 – List of WIW RIS Working Group Membersmembers) 
+Financial Industry Regulatory Authority (U.S.)
+ Financial Sector Conduct Authority*
+ Ontario Securities Commission
+ Securities Commission Malaysia
+ U.S. Commodity Futures Trading Commission*
+ U.S. Securities and Exchange Commission
+* RIS Working Group Leadership
+The C8 and the WIW Multi-Coordination Group would like to thank the teams at CVM (Brazil), CMA 
+(Kingdom of Saudi Arabia), CFTC (USA), and the IOSCO General Secretariat for their support in the 
+preparation of this Report.
+
+193
+Thank you

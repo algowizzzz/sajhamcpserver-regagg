@@ -1,0 +1,1 @@
+Summary: # Résultats de la consultation sur les modifications corrélatives des lignes directrices du BSIF du fait de l’IFRS 17

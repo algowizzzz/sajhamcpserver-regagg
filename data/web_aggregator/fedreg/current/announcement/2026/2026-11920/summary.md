@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule Change To Amend Certain Parts of Its Opening and Closing Auctions

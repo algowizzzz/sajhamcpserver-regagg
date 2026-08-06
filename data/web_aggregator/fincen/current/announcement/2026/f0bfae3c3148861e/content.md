@@ -1,0 +1,67 @@
+# Currency Transaction Reporting: Completing a CTR and Aggregation
+
+[fincenruling2001-1.pdf](/system/files/administrative_ruling/fincenruling2001-1.pdf "fincenruling2001-1.pdf")
+(11.66 KB)
+
+FinCEN Ruling 2001-1
+
+Currency Transaction Reporting: Completing a CTR and Aggregation
+
+Issued Date
+
+July 26, 2001
+
+Dear [ ]:  
+This responds to your letter dated February 25, 2000, on behalf [ ] (the “Bank”), to theFinancial Crimes Enforcement Network (“FinCEN”). In that letter, you requested a ruling on theapplication of the rules relating to the filing of a currency transaction report (“CTR”), asauthorized under the Bank Secrecy Act and its implementing regulations, to the facts outlinedbelow.
+
+FACTS  
+Bank A and Bank B are subsidiaries of the same bank holding company. A customermaintains an account at Bank A, but not at Bank B. The customer makes a cash deposit of$12,000 at Bank B for credit to his account at Bank A. Pursuant to an agency agreementbetween the banks, Bank B processes the cash deposit and sends the appropriate transactioninformation to Bank A. Bank A credits the customer’s account in the amount of the cashdeposit. The two banks settle through an internal account procedure without any physicaltransfer of cash between the banks.  
+QUESTIONS  
+Your letter correctly acknowledges that the cash deposit of $12,000 by Customer X mustbe reported on a CTR. You then ask the following two questions:  
+1. Which bank is responsible for filing the CTR, the bank receiving the cash, the bank thatmaintains the account and receives the cash deposit slip, or both banks?  
+2. If the bank that holds the customer’s account is responsible for filing the CTR, must the bankalso aggregate the customer’s transactions made through its agent bank even though thetransactions made through the agent are done manually and not through the bank holding theaccount electronic system in conformity with § 103.22(c)(2) aggregation rules?  
+ANALYSIS  
+A financial institution’s obligation to file a CTR is described in 31 CFR 103.22(b), whichprovides that:
+
+Each financial institution other than a casino shall file a report of each deposit,withdrawal, exchange of currency or other payment or transfer, by, through, or to suchfinancial institution which involves a transaction in currency of more than $10,000 . . . .
+
+For purposes of the CTR requirement, a “financial institution” includes a bank, as well as anyagent of a bank. 31 CFR 103.11(n).  
+According to the facts outlined above, the customer’s cash deposit occurs “by, through,or to” Bank B, because Bank B is the financial institution that physically receives the cash.Thus, Bank B has an obligation to file a CTR. The customer’s cash deposit also can be said tooccur “by, through, or to” Bank A, because the cash deposit is conducted at one of its agents.Thus, both Bank A and Bank B are technically required to file a CTR;1 however, to avoidunnecessary duplicative reporting, FinCEN would require that only one report actually be filed(in the manner set forth in the following paragraph) with respect to the same transaction. Thus,for example, Bank A would not need to file a CTR with respect to the customer’s $12,000 cashdeposit so long as it knows for a fact that Bank B filed a CTR with respect to that transaction,and vice-versa.2  
+If Bank A files a CTR with respect to the customer’s $12,000 deposit, then Bank Ashould fill out Part III of the CTR form with its own information. In addition, the accountsaffected by the deposit should be listed below Box 35 (“Account Number(s) Affected (if any):”)and the phrase “Affiliate Transaction(s)” should be written in below Box 36 (“Other (specify):”).Conversely, if Bank B chooses to file a CTR with respect to the $12,000 deposit, then Bank Bshould fill out Part III of the CTR form with its own information. Further, the accounts affectedby the deposit (even if those accounts are not held at Bank B) should be listed below Box 35 andthe phrase “Affiliate transaction(s)” should be written in below Box 36. Completing the CTR inthis fashion will serve to notify law enforcement that the reported transaction may not have beenphysically conducted at the filing financial institution and/or that the account affected by thetransaction is not held at the filing institution.  
+With respect to aggregation, Bank A would need to aggregate multiple cash transactionsconducted at Bank B, acting as Bank A’s agent with respect to those transactions, to the extentthat Bank A “has knowledge that [the transactions] are by or on behalf of any person and resultin either cash in or cash out totaling more than $10,000 during any one business day …” 31 CFR103.22(c)(2). Knowledge, in this context, means knowledge on the part of a partner, director, officer or employee of Bank A or on the part of any existing computer or manual system at BankA that permits it to aggregate transactions. If Bank A does not have knowledge that multiplecash transactions have been conducted by or on behalf of the same person on the same businessday at Bank B, then Bank A is not required to aggregate those transactions. It should be notedthat Bank B also would have an obligation to aggregate multiple cash transactions conductedthrough it (although only one report must be filed with respect to the same transactions), to theextent that Bank B has knowledge that the transactions are conducted by or on behalf of the sameperson on the same business day.  
+We appreciate your willingness to comply with the requirements of the Bank Secrecy Actto the fullest extent, and apologize for the delay in responding to your request. Should you haveany questions about this letter, please contact David K. Gilles at (202) 354-6400.  
+Sincerely,  
+Christine E. Carnavos  
+Executive Associate Director  
+Office of Compliance and Regulatory Enforcement
+
+---
+
+1 The terms of Administrative Ruling 88-5 (August 2, 1988), 31 CFR Part 103 Appendix, are not inapposite to this conclusion. In that ruling, Treasury held that a financial institution has an obligation to file a CTR to the extent that it uses an armored car service as its agent to collect, transport and process a customer’s cash deposits. The ruling did not discuss whether, under those circumstances, the agent itself also has an obligation to file a CTR.
+
+2 A bank that relies on its affiliate to file a CTR should retain in its own files a copy of the filed CTR for examination purposes.
+
+Financial Institution
+
+Casinos
+
+Depository Institutions
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

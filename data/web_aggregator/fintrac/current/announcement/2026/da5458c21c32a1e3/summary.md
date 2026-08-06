@@ -1,0 +1,1 @@
+Summary: # FINTRAC guidance related to the Ministerial Directive on Financial Transactions Associated with Russia issued on February 24, 2024

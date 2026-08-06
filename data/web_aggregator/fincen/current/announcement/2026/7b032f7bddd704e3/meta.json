@@ -1,0 +1,24 @@
+{
+  "doc_id": "7b032f7bddd704e3",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "SARs Result in Sentencing of Family Members in Bankruptcy Fraud Case | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/sars-result-sentencing-family-members-bankruptcy-fraud-case",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:cf823cb5a5ccbc25758dacf804971d423a6fa84d28d434522c0766d6a28db0a4",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/7b032f7bddd704e3",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

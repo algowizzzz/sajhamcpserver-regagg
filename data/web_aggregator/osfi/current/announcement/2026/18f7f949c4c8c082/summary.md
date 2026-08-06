@@ -1,0 +1,1 @@
+Summary: # Purchase or redemption of shares or membership shares

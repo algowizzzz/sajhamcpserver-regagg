@@ -1,0 +1,25 @@
+Page Content
+
+​The European Supervisory Authorities (ESAs) today published their [final recommendations](/document/download/5a2bd439-528a-41fc-ad63-040364f629e1_en?filename=Final%20recommendations%20on%20changes%20to%20the%20PRIIPs%20Key%20Information%20Document.pdf)following a [consultation](/document/download/eb414c79-2087-4d0a-8c40-cea1d6c2df4f_en?filename=Joint%20consultation%20paper%20concerning%20amendments%20to%20the%20PRIIPs%20KID.pdf) on targeted amendments to the Delegated Regulation covering the rules for the Key Information Document (KID) for Packaged Retail and Insurance-based Investment Products (PRIIPs).
+
+Having taken into account the feedback received and considering in particular the implications of a possible decision by the European Co-legislators to defer the application of the KID by certain types of investment funds beyond 2020, the ESAs decided the following:
+
+* To not propose targeted amendments at this stage
+* To initiate a more comprehensive revision of the PRIIPs Delegated Regulation to be undertaken in the course of 2019, including to launch a consultation on the draft Regulatory Technical Standards
+
+Furthermore, the ESAs issued a [Supervisory Statement](/document/download/5788343f-c212-498c-af65-a32db7b2dc23_en?filename=Joint%20ESA%20supervisory%20statement%20concerning%20the%20performance%20scenarios%20in%20the%20PRIIPs%20KID.pdf) regarding the performance scenarios to promote consistent approaches and improve the protection of retail investors prior to the conclusion of the review. The ESAs consider that there is a risk that retail investors are provided with inappropriate expectations about the possible returns they may receive. Therefore, the ESAs recommend PRIIP manufacturers to include a warning in the KID to ensure that retail investors are fully aware of the limitations of the figures provided in the performance scenarios.
+
+**Disclaimer:** This Supervisory Statement mentioned in the press release concerns requirements that are no longer applicable from 1 January 2023.
+
+Publication date
+:   8 February 2019
+
+## Related links
+
+[Final recommendations on changes to the PRIIPs Key Information Document](/document/download/5a2bd439-528a-41fc-ad63-040364f629e1_en?filename=Final%20recommendations%20on%20changes%20to%20the%20PRIIPs%20Key%20Information%20Document.pdf)
+
+[Joint consultation paper concerning amendments to the PRIIPs KID](/document/download/eb414c79-2087-4d0a-8c40-cea1d6c2df4f_en?filename=Joint%20consultation%20paper%20concerning%20amendments%20to%20the%20PRIIPs%20KID.pdf)
+
+[Joint letter to EC on PRIIPs](/document/download/4f320e72-85da-4285-87c2-a8c606aa97d3_en?filename=Joint%20letter%20to%20EC%20on%20PRIIPs.pdf)
+
+[Joint ESA supervisory statement concerning the performance scenarios in the PRIIPs KID.pdf](/document/download/b077595d-9588-4592-b482-85feb54d4ec2_en?filename=Joint%20ESA%20supervisory%20statement%20concerning%20the%20performance%20scenarios%20in%20the%20PRIIPs%20KID.pdf)

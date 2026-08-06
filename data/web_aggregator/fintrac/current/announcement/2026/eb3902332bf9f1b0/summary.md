@@ -1,0 +1,1 @@
+Summary: # Obligation des plateformes de sociofinancement et de certains fournisseurs de services de paiement de s'inscrire auprès de CANAFE et modification de la définition de « télévirement »

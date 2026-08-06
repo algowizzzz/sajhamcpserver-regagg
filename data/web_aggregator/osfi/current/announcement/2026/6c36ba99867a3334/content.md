@@ -1,0 +1,72 @@
+# Ratio de liquidité à long terme (DT1)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé sur le ratio de liquidité à long terme (NSFR) (DT1)
+
+Dernière révision
+
+Février 2026
+
+Numéro de relevé
+
+DT1
+
+## Relevés
+
+[DT1 - Exemple de relevé (XLSX, 1,32 Mo)](/sites/default/files/documents/nsfr-dt1-return-releve-02-03-2026-fr.xlsx "nsfr-dt1-return-releve-02-03-2026-fr.xlsx") [DT1 - Règles de validation (XLSX, 98,41 Ko)](/sites/default/files/documents/nsfr-dt1-val-2025-10-22-fr_0.xlsx "nsfr-dt1-val-2025-10-22-fr_0.xlsx") [DT1 - Fichier XML (exemple) (XML, 86,01 Ko)](/sites/default/files/documents/nsfr-dt1-xml-2026-03.xml "nsfr-dt1-xml-2026-03.xml") [DT1 - Fichier XSD (XSD, 391,5 Ko)](/sites/default/files/documents/nsfr-dt1-xsd-2026-03.xsd "nsfr-dt1-xsd-2026-03.xsd") [Relevé des modifications](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/ratio-liquidite-long-terme-dt1-releve-modifications "Ratio de liquidité à long terme (DT1) — Relevé des modifications")
+
+## Objet
+
+Ce relevé rend compte du ratio de liquidité à long terme de l'institution déclarante, ainsi que de la méthode de calcul utilisée.
+
+## Fondement législatif
+
+Articles 628 de la Loi sur les banques.
+
+## Institutions visées
+
+Ce relevé s'applique aux banques d'importance systémique intérieure (BISi).
+
+## Fréquence
+
+Trimestrielle
+
+## Personne ressource
+
+Pour les questions opérationnelles et/ou d’interprétation, veuillez communiquer avec Louis Bélisle ([Louis.Belisle@osfi-bsif.gc.ca](mailto:Louis.Belisle@osfi-bsif.gc.ca)), Division des normes de fonds propres et de liquidité. Veuillez adresser toutes les questions de nature technique à l’unité de l’Administration des relevés ([RA-RRS.Support@osfi-bsif.gc.ca](mailto:RA-RRS.Support@osfi-bsif.gc.ca)).
+
+## Échéance
+
+Ce relevé doit être produit dans les 30 jours suivant la fin du trimestre.
+
+## Destinataire
+
+BSIF
+
+## Instructions générales
+
+Le relevé NSFR doit être établi selon les méthodologies et les calculs décrits au chapitre 3 de la ligne directrice du BSIF sur les normes de liquidité (LAR). On trouvera des instructions pour chaque point de donnée à produire (identifiant de classification NSFR) dans le chiffrier Classification\_NSFR du relevé NSFR. Pour faciliter la production du relevé NSFR, les instructions renvoient aux paragraphes pertinents de la ligne directrice (p. ex., par. 43 (d)).
+
+Le relevé NSFR doit être produit sur une base consolidée (les montants en devises doivent être convertis en dollars canadiens) par les (BISi).
+
+Tous les montants doivent être déclarés en milliers de dollars canadiens.
+
+## Note technique
+
+On peut produire le relevé NSFR au moyen du Système de déclaration réglementaire (SDR) en téléversant un fichier XML. Bien qu'il soit possible de produire ce relevé à partir du formulaire qui se trouve dans le SDR, il est préférable d'utiliser la fonction de téléversement du fichier XML en raison du nombre considérable de champs de données à remplir. Pour bien comprendre la structure des fichiers XML à produire, nous vous recommandons de consulter le fichier XSD qui se trouve à la section Documents du portail du SDR.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2026-02-27

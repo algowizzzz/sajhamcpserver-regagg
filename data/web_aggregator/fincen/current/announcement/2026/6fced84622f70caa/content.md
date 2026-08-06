@@ -1,0 +1,41 @@
+# Innovation
+
+FinCEN seeks to promote responsible financial services innovation that furthers the purposes of the Bank Secrecy Act (BSA), as amended by the [Anti-Money Laundering Act of 2020](https://www.fincen.gov/anti-money-laundering-act-2020).
+
+Responsible innovation is an important part of safeguarding the U.S. financial system against new and evolving threats to the nation’s security and the financial system related to money laundering, terrorist financing, and other serious financial crimes, particularly those FinCEN has identified as national [priorities](/system/files/shared/AML_CFT Priorities (June 30%2C 2021).pdf). Private sector innovation, either by using existing tools or by adopting new technologies, can provide efficient financial services to consumers and businesses, help financial institutions enhance their anti-money laundering (AML) compliance programs, and contribute to more effective and efficient record keeping and reporting under the BSA framework.
+
+[Exceptive Relief](/news/news-releases/treasurys-fincen-and-federal-banking-agencies-issue-joint-statement-encouraging)
+
+[TechSprints](/resources/techsprints)
+
+---
+
+### [TechSprints](/resources/techsprints) and Events
+
+### [U.S.-UK Privacy Enhancing Technologies (PET) Prize Challenges](https://petsprizechallenges.com/) July 2022-March 2023
+
+[*FinCEN Acting Director’s Statement*](/news/news-releases/fincen-acting-directors-statement-regarding-us-uk-collaboration-prize-challenges) *(June 13, 2022)*
+
+The U.S.-U.K. PETs Prize Challenges, first announced at the Summit for Democracy in December 2021, is a transatlantic TechSprint to spur innovation in the use of privacy-enhancing technologies. The Prize Challenges are led by the White House Office of Science and Technology Policy, the U.S. National Institute of Standards and Technology, and the U.S. National Science Foundation along with the U.K.’s Center for Data Ethics and Innovation and Innovate U.K.. As part of the Prize Challenge focused on illicit finance, innovators will be able to engage with regulators, including FinCEN and the U.K.’s Financial Conduct Authority and Information Commissioner’s Office. For more information about the U.S.-UK PET Prize Challenge focused on Financial Crime, see [here](https://petsprizechallenges.com/).
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+  + [FinCEN-FBA Innovation Statement (Dec 2018)](/news/news-releases/treasurys-fincen-and-federal-banking-agencies-issue-joint-statement-encouraging)
+  + [Innovation Hours Program Public Report](/system/files?file=2021-03/FinCEN%20IH%20Prgm%20Public%20Report%20508C.pdf)
+  + [FinCEN Statement on Financial Crimes Tech Symposium](/news/news-releases/fincen-statement-financial-crimes-tech-symposium)
+  + [TechSprints and Events](/resources/techsprints)
+  + [Frequently Asked Questions](/resources/fincens-innovation-hours-program/faq)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

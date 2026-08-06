@@ -1,0 +1,25 @@
+{
+  "doc_id": "876dd8159af10d6d",
+  "regulator_id": "bnn_bloomberg",
+  "doc_type": "news_story",
+  "title": "Reflex Advanced Announces Private Placement of up to C$1,500,000 of Unsecured Convertible Debentures",
+  "language": "en",
+  "source_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/05/reflex-advanced-announces-private-placement-of-up-to-c1500000-of-unsecured-convertible-debentures/",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:cccf2c0318f22313f83fd02c89fe949562c4280575b644087fc583823f933952",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_bnn_bloomberg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bnn_bloomberg/current/news_story/2026/876dd8159af10d6d",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/05/reflex-advanced-announces-private-placement-of-up-to-c1500000-of-unsecured-convertible-debentures/",
+  "fetch_method": "feed_summary"
+}

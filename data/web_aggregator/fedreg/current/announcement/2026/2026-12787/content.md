@@ -1,0 +1,5 @@
+# Financial Data Transparency Act Joint Data Standards
+
+The OCC, Board, FDIC, NCUA, CFPB, FHFA, CFTC, SEC, and Treasury are publishing a final joint rule to establish data standards to promote interoperability of financial regulatory data across these agencies. The standards established pursuant to this joint rule will later be considered for potential incorporation (to the extent feasible) into data standards to be adopted for certain collections of information in separate rulemakings by the agencies or through other actions taken by the agencies. At the effective date, the joint rule will not change any reporting requirements without further action by the agencies. The agencies are publishing this joint rule as required by the Financial Data Transparency Act of 2022.
+
+> Full text pending: source page is bot-gated; this is the official API abstract.

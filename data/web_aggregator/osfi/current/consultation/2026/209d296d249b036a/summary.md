@@ -1,0 +1,1 @@
+Summary: # Public consultation on guideline B-20: Residential Mortgage Underwriting

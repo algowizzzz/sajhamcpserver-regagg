@@ -1,0 +1,125 @@
+* [HOME](/en/index.html)
+* [FSA Weekly Review/ACCESS FSA](/en/newsletter/index.html)
+
+[Tweet](https://twitter.com/share)
+
+# Financial Services AgencyFSA Weekly Review No.669
+:   January 7, 2026
+
+**What’s New on the FSA Website**
+
+Week of December 22, 2025 - December 26, 2025
+
+This page contains the latest in events, developments, and updates to the FSA website.  
+  
+For files in HTML formats, when you click original press release links, and click the "Language" button on the upper right of the Japanese website, and select "Machine translation" displayed on the screen, the results of the translation by AI are displayed. Please note that machine translated pages are not necessarily correct.
+
+## Press Conferences
+
+|  |  |
+| --- | --- |
+| December 26, 2025 | [Press Conference by the Minister of State for Financial Services (December 19, 2025)](/en/conference/minister/2025/20251219.html) |
+| December 23, 2025 | [Press Conference by the Minister of State for Financial Services (December 16, 2025)](/en/conference/minister/2025/20251216.html) |
+
+## Public Comments
+
+|  |  |
+| --- | --- |
+| December 26, 2025 | The FSA compiled and published the draft Cabinet Order Partially Amending the Order for Enforcement of the Financial Instruments and Exchange Act, etc. as follows: 1. the expansion of the scope of the specified beneficial interests in a trust that are not deemed as negotiable instruments; and 2. the review of the definition of "parent companies" under insider trading regulations. After the public consultation process, the FSA will undergo required procedures and promulgate and enforce the Cabinet Order. Public comments will be accepted until no later than 5:00 p.m. (JST), January 30 (Fri.), 2026.  T[he original press release is available in Japanese.open new window](/news/r7/shouken/20251226/20251226.html) |
+| December 25, 2025 | The FSA published draft partial amendments to the Comprehensive Guidelines for Supervision of Major Banks, etc. and other Guidelines, etc.  The FSA compiled and published draft partial amendments to the Comprehensive Guidelines for Supervision of Major Banks, etc. and other Guidelines, etc. for the purpose of further clarifying measures to be taken by financial institutions in relation to a Nankai Trough earthquake. [The original press release is available in Japanese.open new window](/news/r7/sonota/20251225/20251225.html) |
+| December 25, 2025 | Publication of the FY2025 Case Book on Good Practices on Corporate Disclosure of Narrative Information Based on the Principles Regarding the Disclosure of Narrative Information (disclosure of sustainability-related financial information) [The original press release is available in Japanese.open new window](/news/r7/singi/20251225.html) |
+| December 23, 2025 | The FSA published a draft partial amendment to the Public Notice on the Economic Value-based Solvency Regulations.  Public comments will be accepted until no later than 5:00 p.m. (JST), January 21 (Wed.), 2026. [The original press release is available in Japanese.open new window](/news/r7/hoken/20251223/20251223.html) |
+
+## Press Releases
+
+### Policies
+
+|  |  |
+| --- | --- |
+| December 26, 2025 | Publication of an ex-ante valuation report based on regulatory impact analysis (RIA) in regard to a review of the scope of parent companies under insider trading regulations [The original press release is available in Japanese.open new window](/seisaku/r7ria.html) |
+| December 26, 2025 | Publication of the "Key FSA-Related Items in the Outline for the FY 2026 Tax Reform" [The original press release is available in Japanese.open new window](/news/r7/sonota/20251226-2.html) |
+| December 26, 2025 | Publication of the request for budget, organization, and staff for FY 2026 (draft) [The original press release is available in Japanese.open new window](/common/budget/yosan/8youkyuu-4.html) |
+| December 25, 2025 | [FSA publishes "FSA Strategic Priorities: July 2025 - June 2026"](/en/news/2025/20250829/20250829.html) |
+| December 25, 2025 | [Updated Japan Fintech Week 2026 official website](/policy/japanfintechweek/2026/index_en.html) |
+| December 23, 2025 | [Japan Weeks 2026](/en/financialcenter/japanweeks2026.html) |
+
+### Councils
+
+|  |  |
+| --- | --- |
+| December 26, 2025 | The Working Group on Corporate Disclosure of the Financial System Council compiled and published a report. The compilation and publication of the report will be explained at the general meeting of the Financial System Council and the meeting of the Sectional Committee on Financial System. [The original press release is available in Japanese.open new window](/singi/singi_kinyu/tosin/20251226.html) |
+| December 26, 2025 | The Working Group on Capital Market Regulations of the Financial System Council compiled and published a report. The compilation and publication of the report will be explained at the general meeting of the Financial System Council and the meeting of the Sectional Committee on Financial System. [The original press release is available in Japanese.open new window](/singi/singi_kinyu/tosin/20251226-2.html) |
+| December 22, 2025 | Publication of the agenda and handouts of the fourth meeting of the FSA's AI Public-Private Forum to be held on December 23, 2025 [The original press release is available in Japanese.open new window](/singi/ai_forum/siryou/20251218.html) |
+
+### Banks
+
+|  |  |
+| --- | --- |
+| December 26, 2025 | Publication of statistics regarding damage due to illegal remittances of deposits (as of the end of September 2025)  \* The data were published as statistics regarding unlawful reimbursement of deposits (caused by counterfeit and stolen cash cards, stolen deposit books, unlawful Internet banking activities and linked services) until the previous publication. [The original press release is available in Japanese.open new window](/news/r7/ginkou/20251226.html) |
+| December 26, 2025 | [The FSA publishes the status of loans held by all banks as of the end of March 2025, based on the Financial Reconstruction Act](/en/regulated/npl/20251226.html) |
+| December 25, 2025 | Publication of information on authorization for a merger of the Hachijuni Bank, Ltd. and the Naganobank, Ltd.  The FSA granted authorization for the merger of the two banks based on the provisions of Article 30, paragraph (1) of the Banking Act. [The original press release is available in Japanese.open new window](/news/r7/ginkou/20251225/20251225.html) |
+
+### Securities
+
+|  |  |
+| --- | --- |
+| December 23, 2025 | The FSA published an overview of the results of the second Fund Monitoring Survey.  The FSA has been conducting the Fund Monitoring Survey in response to a request from the International Organization of Securities Commissions (IOSCO) encouraging the financial authorities of respective countries to collect data on funds of at least a certain scale from the perspective of financial stability, and based on the FSA's monitoring viewpoint. The FSA compiled and published the overview of the results of the second round of the survey. [The original press release is available in Japanese.open new window](/news/r7/shouken/20251223/20251223.html) |
+| December 23, 2025 | Publication of information on administrative measures against a notifier of specially-permitted services for qualified institutional investors, etc. (CENOTE CAPITAL Co., LTD.) [The original press release is available in Japanese.open new window](/news/r7/shouken/20251223-2.html) |
+
+### Others
+
+|  |  |
+| --- | --- |
+| December 26, 2025 | Publication of the main issues raised by the FSA at opinion exchange meetings held in November 2025 with relevant associations in the financial sector [The original press release is available in Japanese.open new window](/common/ronten/index.html) |
+| December 26, 2025 | Publication of information on the commencement of the J-FLEC Online Seminar by the Japan Financial Literacy and Education Corporation (J-FLEC) [The original press release is available in Japanese.open new window](/news/r7/sonota/20251226-3/20251226-3.html) |
+| December 26, 2025 | The FSA published an overview of modifications to lending conditions (related to U.S. tariff measures) made by banks as of the end of November 2025. [The original press release is available in Japanese.open new window](/ordinary/tariff202504/kashitsuke/202506.html) |
+| December 26, 2025 | [The Dialogue between the Financial Services Agency (FSA) and the Center for Financial Industry Information Systems (FISC)](/en/news/2025/20251226.html) |
+| December 23, 2025 | Publication of information on tactics employed in investment fraud using SNS, etc. [The original press release is available in Japanese.open new window](/receipt/toushisagi_koukoku/shuhou.html) |
+
+## Site Map
+
+[About FSA](/en/about/index.html)
+:   [Ministerial Team](/en/about/index.html#Ministerial Team)
+:   [Organization](/en/about/index.html#Organization)
+:   [Location](/en/about/about02_menu.html)
+:   [Pamphlet](/en/about/index.html#Pamphlet)
+:   [Open Policy Lab](/en/about/openpolicylab.html)
+
+[Press Releases & Public Relations](/en/press_releases/index.html)
+:   [Press Releases](/en/news/index.html)
+:   [Press Conferences](/en/conference/index.html)
+:   [Official Statements](/en/announce/state/index.html)
+:   [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Speeches](/en/announce/state/index_speeches.html)
+:   [For Financial Users](/en/press_releases/index.html#FinancialUsers)
+:   [Others](/en/press_releases/index.html#Others)
+:   [Archives](/en/press_releases/index.html#Archives)
+
+[Policies & Councils](/en/policies_councils/index.html)
+:   [Policies](/en/policies_councils/index.html#Policies)
+:   [Councils](/en/policies_councils/index.html#Councils)
+
+[Laws & Regulations](/en/laws_regulations/index.html)
+:   [Name of Laws and Regulations(PDF)![open new window](/libs/images/icon_blank.png)](/en/refer/legislation/legislation.pdf)
+:   [Recent Changes (Legislation, Ordinances, Guidelines)](/en/laws_regulations/index.html#recent_changes)
+:   [Guidelines](/en/laws_regulations/index.html#Guidelines)
+:   [Financial Instruments and Exchange Act](/en/policy/fiel/index.html)
+:   [Financial Monitoring Policy](/en/laws_regulations/index.html#Financial_Monitoring_Policy)
+:   [Public Comment](/en/laws_regulations/index.html#Public_Comment)
+:   [No-Action Letter System](/en/refer/noact/index_menu.html)
+:   [Procedures concerning Foreign Account Management Institutions](/en/laws_regulations/fami/index.html)
+
+[Regulated Institutions](/en/regulated_institutions/index.html)
+:   [List of Institutions](/en/regulated/licensed/index.html)
+:   [Administrative Action](/en/regulated_institutions/index.html#Administrative_Action)
+:   [Statistics](/en/regulated/statistics/index.html)
+:   [For those engaging in High Speed Trading](/en/regulated/hst/index.html)
+:   [To Operators of Specially Permitted Businesses for Qualified Institutional Investors, etc.](/en/news/2016/20160203-1.html)
+:   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
+
+[FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
+:   [Back Number (2022)](/en/newsletter/2022a.html)
+:   [Back Number (2021)](/en/newsletter/2021a.html)
+:   [Back Number (2020)](/en/newsletter/2020a.html)
+
+[![](/libs/images/pagetop_btn_e.png)top of page](#header)

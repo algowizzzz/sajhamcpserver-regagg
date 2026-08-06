@@ -1,0 +1,1 @@
+Summary: The Final Report on Consultation Paper No. 16/003 on the methodology to derive the Ultimate Forward Rate and its implementation with example calculation of expected real rate can be viewed [here](http://eiopa.europa.eu/Pages/Consultations/EIOPA-CP-16-003-Consultation-Paper-on-the

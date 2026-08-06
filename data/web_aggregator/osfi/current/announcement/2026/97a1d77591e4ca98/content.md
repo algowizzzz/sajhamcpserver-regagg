@@ -1,0 +1,121 @@
+# Cadre conceptuel de la réserve pour stabilité intérieure
+
+La réserve pour stabilité intérieure (RSI) est une réserve de fonds propres que les plus grandes banques canadiennes doivent se constituer. Comme nous le verrons ci‑dessous, elle repose sur un ensemble de principes de base, et le BSIF prend en compte plusieurs facteurs et indicateurs pour en déterminer le taux.
+
+## Principes qui sous-tendent la RSI
+
+* **Contracyclicité** : Le BSIF exige des plus grandes banques canadiennes ou banques d’importance systémique intérieure (BISi) qu’elles se constituent des réserves de fonds propres en période de croissance et de stabilité. En revanche, en période difficile caractérisée par une incertitude accrue, le BSIF débloque ces réserves, autrement dit, il abaisse le taux de la RSI. Ainsi, les réserves de fonds propres augmentent ou diminuent pour compenser la volatilité du système financier et de l’économie dans son ensemble.
+* **Possibilité d’utilisation** : Le BSIF s’attend à ce que les BISi puisent dans leurs réserves de fonds propres en période de tensions. Étant donné qu’il utilise la RSI comme un coussin qui dépasse nettement son exigence minimale sur le plan de la suffisance des fonds propres, la RSI sert d’« amortisseur de chocs » économiques et financiers. Lorsque le BSIF réduit la RSI, il s’attend à ce que les ratios de fonds propres des BISi diminuent, de sorte qu’elles puissent continuer à consentir des prêts aux entreprises et aux ménages, tout en épongeant les pertes.
+* **Approche équilibrée** : Les décisions concernant la RSI reposent sur une analyse de données d’entrée quantitatives et qualitatives. Elles font aussi appel au jugement des surveillants. Le BSIF appuie donc ses décisions sur l’expérience et le savoir‑faire qu’il a acquis à titre d’organisme de réglementation du secteur bancaire. La fourchette de la RSI va de 0 % à 4 %. Le BSIF a établi cette fourchette en prenant en compte la capacité d’absorption des pertes que les banques doivent avoir pour résister à des événements générateurs de risque graves, mais vraisemblables. Cette fourchette est donc appelée à changer, mais moins souvent que la RSI elle‑même.
+* **Anticipation** : En période d’incertitude ou de tensions économiques, le BSIF se montrera proactif quant à l’utilisation de la RSI. Par exemple, il pourrait diminuer la réserve par suite d’un grand choc économique ou d’une série d’événements qui le porteraient à croire que les banques essuieront de fortes pertes.
+
+## Indicateurs servant à établir le taux de la RSI
+
+Dans son processus de prise de décision concernant la RSI, le BSIF examine divers indicateurs en se fondant sur les recherches en la matière, sur les pratiques en usage ailleurs dans le monde pour des réserves semblables et sur le jugement de ses surveillants. Ces indicateurs peuvent être regroupés en deux catégories :
+
+* Les **indicateurs de vulnérabilité**, qui portent sur les vulnérabilités pouvant nuire au système financier canadien, car elles sont susceptibles d’amplifier les chocs (voir la figure 1), ce qui justifie la constitution de réserves de fonds propres.
+* Les **indicateurs de risque à court terme**, qui englobent des indicateurs récents et avancés du rendement financier des BISi et les conditions économiques et des marchés financiers. Ces indicateurs sont utilisés pour détecter des signes de matérialisation des risques systémiques (voir la figure 2), ce qui pourrait nécessiter un abaissement du taux de la réserve.
+
+**Figure 1 : Indicateurs de vulnérabilité systémique utilisés pour éclairer l’établissement du taux de la RSI**
+
+**Endettement des ménages canadiens**
+
+* Niveaux d’endettement et capacité de remboursement de la dette des ménages
+
+**Déséquilibre des actifs canadiens**
+
+* Niveaux et évaluations des prix de l’habitation et de l’immobilier commercial
+
+**Endettement des entreprises canadiennes**
+
+* Niveaux d’endettement et capacité de remboursement de la dette des entreprises
+* Niveaux d'endettement des emprunteurs souverains
+
+**Vulnérabilités systémiques externes**
+
+* Niveaux d’endettement à l'échelle mondiale
+* Incertitude de la politique économique
+* Incertitude géopolitique
+
+**Figure 2 : Indicateurs de risque systémique à court terme utilisés pour éclairer l’établissement du taux de la RSI**
+
+**Tendances récentes du rendement financier des BISi**
+
+* Ratios de fonds propres et rentabilité
+* Pertes de crédit et prêts douteux
+
+**Indicateurs avancés du rendement financier des BISi :**
+
+* Perspectives à court terme et provisionnement
+* Indicateurs de risque fondés sur le marché
+* Coûts de financement
+
+**Risques macroéconomiques**
+
+* Indicateurs du marché du travail
+* Tendances en matière d'insolvabilité
+* Perspectives économiques
+
+**Conditions des marchés financiers**
+
+* Tensions exercées sur le marché, le financement et les contreparties
+* Prix des actions et des obligations
+* Indices de volatilité
+
+On trouvera plus de précisions sur les catégories de vulnérabilités et leurs conséquences éventuelles sur les BISi à la page [Examen de la RSI – Note sommaire (décembre 2022)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/examen-reserve-pour-stabilite-interieure-note-sommaire-decembre-2022 "Examen de la réserve pour stabilité intérieure - Note sommaire - Décembre 2022").
+
+Outre ces indicateurs, à chaque examen semestriel, le BSIF prend aussi en compte les points de vue du [Comité de surveillance des institutions financières (CSIF)](/fr/propos-du-bsif/notre-histoire/comite-surveillance-institutions-financieres "Comité de surveillance des institutions financières : Encadrement du système financier au Canada").
+
+## Facteurs incitant le BSIF à augmenter la RSI
+
+Le BSIF pourrait envisager de hausser la RSI si les risques et vulnérabilités à l’échelle du système sont continuellement élevés ou croissent rapidement, alors que les risques à court terme pour les banques sont bas. Le BSIF pourrait augmenter la RSI dans l’un ou l’autre des cas suivants :
+
+* l’économie et le système financier sont en période de croissance et de stabilité relative;
+* il ne fait nul doute que les taux d’endettement des ménages et des entreprises sont à la hausse et élevés par rapport aux mesures de revenu connexes;
+* les prix des habitations ou de l’immobilier commercial sont en hausse bien qu’ils soient déjà à des niveaux élevés par rapport aux revenus;
+* des facteurs externes pourraient nuire au bon fonctionnement du système financier canadien.
+
+## Facteurs incitant le BSIF à diminuer la RSI
+
+Le BSIF abaissera la RSI quand les vulnérabilités systémiques se matérialisent en tensions financières ou menacent de le faire. Dans ces cas, il réduira la RSI afin :
+
+* de permettre aux BISi d’éponger les pertes prévues lors de simulations de crise;
+* d’ajuster les attentes des BISi en matière de fonds propres pour pouvoir faire face à un choc soudain ou à des événements générateurs de risques importants;
+* d’atténuer l’amplification des chocs défavorables sur le système financier.
+
+Entre autres facteurs importants influant sur la décision de réduire la RSI, citons la gravité de l’incidence qu’un événement générateur de risque aura sur les banques, la vitesse à laquelle les risques à l’échelle du système pourraient se matérialiser ainsi que la durée de ces risques.
+
+Dans certains cas, le BSIF pourrait intervenir rapidement et diminuer la RSI à la suite d’un événement grave et soudain (par exemple, pendant la pandémie). Dans d’autres cas, le BSIF peut juger que les vulnérabilités se sont suffisamment dissipées pour justifier une diminution de la RSI, traduisant ainsi un besoin réduit pour les banques de maintenir des fonds propres en réserve.
+
+L’ampleur de la diminution serait fonction de la probabilité estimée et de la gravité des pertes que les banques pourraient subir si elles devaient réduire leur activité de prêt.
+
+## Transparence de la RSI
+
+Ces dernières années, le BSIF a fait preuve d’une plus grande transparence quant aux motifs de ses décisions relatives à la RSI, comme en témoigne :
+
+* les annonces qu’il fait deux fois par année;
+* les séances d’information technique offertes aux médias et aux analystes financiers;
+* la publication d’une note sommaire sur la justification de la décision.
+
+En accroissant la transparence, le BSIF veille à ce que les marchés financiers, les institutions financières et le grand public comprennent bien ses décisions relatives à la RSI, contribuant ainsi à renforcer la confiance envers le système financier canadien.
+
+Compte tenu de la nature dynamique de notre environnement de risque et des incertitudes inhérentes, le BSIF demeure résolu à évaluer régulièrement la pertinence de ce cadre et à le modifier au besoin.
+
+## Liens utiles
+
+* [Réserve pour stabilité intérieure – Résumé de la décision (juin 2026)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-juin-2026 "Réserve pour stabilité intérieure – Résumé de la décision – Juin 2026")
+* [Réserve pour stabilité intérieure – Résumé de la décision (décembre 2025)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-decembre-2025 "Réserve pour stabilité intérieure – Résumé de la décision – Décembre 2025")
+* [Réserve pour stabilité intérieure – Résumé de la décision (juin 2025)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-juin-2025 "Réserve pour stabilité intérieure – Résumé de la décision – Juin 2025")
+* [Réserve pour stabilité intérieure – Résumé de la décision (décembre 2024)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-decembre-2024 "Réserve pour stabilité intérieure - Résumé de la décision - Décembre 2024 ")
+* [Réserve pour stabilité intérieure – Résumé de la décision (juin 2024)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/taux-reserve-pour-stabilite-interieure-resume-decision-juin-2024 "Taux de la réserve pour stabilité intérieure - Résumé de la décision - Juin 2024")
+* [Réserve pour stabilité intérieure – Résumé de la décision (décembre 2023)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-decembre-2023 "Réserve pour stabilité intérieure - Résumé de la décision - Décembre 2023")
+* [Réserve pour stabilité intérieure – Résumé de la décision (juin 2023)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/reserve-pour-stabilite-interieure-resume-decision-juin-2023 "Réserve pour stabilité intérieure - Résumé de la décision - Juin 2023")
+* [Examen de la réserve pour stabilité intérieure – Note sommaire (décembre 2022)](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure/examen-reserve-pour-stabilite-interieure-note-sommaire-decembre-2022 "Examen de la réserve pour stabilité intérieure - Note sommaire - Décembre 2022")
+* [Page d’accueil – Réserve pour stabilité intérieure](/fr/surveillance/institutions-financieres/banques/reserve-pour-stabilite-interieure "Réserve pour stabilité intérieure")
+* [Communiqué au sujet de la réserve pour stabilité intérieure](/fr/nouvelles/bsif-ramene-taux-reserve-pour-stabilite-interieure-3-pour-que-grandes-banques-canadiennes-puissent "Le BSIF ramène le taux de la réserve pour stabilité intérieure à 3 % pour que les grandes banques canadiennes puissent utiliser davantage de fonds propres ")
+* [Qu'est-ce que la réserve pour stabilité intérieure? (vidéo)](/fr/propos-du-bsif/mediatheque/quest-ce-que-reserve-pour-stabilite-interieure "Qu'est-ce que la réserve pour stabilité intérieure?")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2026-06-19

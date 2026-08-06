@@ -1,0 +1,1 @@
+Summary: # FINTRAC imposes an administrative monetary penalty on RE/MAX All-Stars Realty Inc.

@@ -1,0 +1,24 @@
+{
+  "doc_id": "1d781ed40d14601b",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "SAR Reports Structuring by Unlicensed Msb | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/sar-reports-structuring-unlicensed-msb",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1ebbbeb24bb64828e0f57859ffccfa5283dd24495e855d419967bd629e99bf37",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/1d781ed40d14601b",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

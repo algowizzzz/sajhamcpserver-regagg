@@ -1,0 +1,51 @@
+# SARs Help Investigators Stop Fraudsters in Elder Financial Exploitation Case
+
+[Issue 23-story4.pdf](/system/files/case_example/Issue%2023-story4.pdf "Issue 23-story4.pdf")
+(67.54 KB)
+
+Investigators opened a case after receiving a call from a family friend of a wealthy elderly woman who suspected the woman was being taken advantage of financially. With this information the law enforcement officials proceeded to research BSA documents and found SARs describing structuring on the part of the subjects acquainted with the woman.
+
+One subject was sentenced to more than 1 year in prison, followed by multiple years of supervised release, for illegally structuring cash withdrawals to evade reporting income on his Federal tax returns. Another defendant pleaded guilty to a similar charge and was given probation.
+
+Investigators said that the defendants were both involved in a scheme which consisted of taking advantage of a wealthy elderly woman. The subjects used many tactics in order to receive money from her. One subject misrepresented himself as a former employee of the Federal government and convinced the woman that she needed protection from terrorists that were in the area. He proceeded to build a wall around the victim’s property, convinced her to have a security system installed, and charged the woman tens of thousands of dollars for installation when the actual system cost a fraction of what she was charged. The men took care of her property, doing odd jobs, and ran errands for the woman. The elderly woman considered one defendant a trusted friend and included him in her will. She also continually loaned money to both subjects.
+
+One defendant withdrew $2 million from the victim’s account in cash and cashier’s checks through 200 transactions, and pleaded guilty to trying to avoid triggering a CTR required by Federal law. The defendant also failed to file his taxes for several years. He claimed his preparer made a mistake and did not file the taxes.
+
+Investigators opened the case when a friend of the elderly woman’s family came to visit and discovered many checks written to the two men. When the friend questioned the woman about the checks she said the men did work for her around the property. The family friend notified officials who in turn spoke to the woman. At first she denied that they were committing any kind of crime but eventually investigators were able to convince her to some extent of the continuing crime taking place.
+
+Investigators stated that BSA records were essential to the investigation. A SAR filed by a local financial institution noted that transactions appeared to be structured to avoid the filing of a CTR, while also describing the suspicious movement of funds. One defendant made large withdrawals in cash at various branches and also made multiple purchases of cashier’s checks and cash withdrawals in the same transaction. A subsequent SAR noted similar activity.
+
+Another SAR stated that 3 months of account history on the joint account of one defendant and his wife had been reviewed to determine that some activity is consistent with previous account history, but large cash deposits at various locations prompted the SAR. The source of the funds was unknown.
+
+A third SAR stated that account history was reviewed to determine a change in the pattern of activity due to dramatic increases in cash deposits. That activity appeared to be structured to avoid the filing of a CTR. The customer deposited large amounts of cash at multiple branches, over a period of several days.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* Issue 23, May 2013]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+BSA Violations
+
+Tax Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

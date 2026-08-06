@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12160",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Order Granting Approval of a Proposed Rule Change, as Modified by Amendment No. 2 Thereto, To List and Trade Shares of the T. Rowe Price Active Crypto ETF under NYSE Arca Rule 8.201-E (Generic) Commodity-Based Trust Shares",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12160/self-regulatory-organizations-nyse-arca-inc-order-granting-approval-of-a-proposed-rule-change-as",
+  "reference_number": "2026-12160",
+  "published_date": "2026-06-17",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a1a079a9c81ab0eff943931429e42e0aac87400f6499ce408e5e64c2c574ef26",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12160",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

@@ -1,0 +1,58 @@
+# Crowdfunding platforms and certain payment service providers must register with FINTRAC and the definition of "EFT" has been amended
+
+We wish to inform all reporting entities subject to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) that [amendments](https://www.gazette.gc.ca/rp-pr/p2/2022/2022-04-27/html/sor-dors76-eng.html) to the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations (PCMLTFR) and the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties (PCMLTFAMP) Regulations were registered and are now in force. Further to these amendments, FINTRAC is retracting its positions with respect to merchant servicing and payment processing (PI-7670).
+
+These changes mean that crowdfunding platforms and certain payment service providers are now covered as money services businesses (MSBs) or foreign money services businesses (FMSBs) under the PCMLTFA, and have the following obligations:
+
+* Register with FINTRAC
+* Develop and maintain a compliance program
+* Carry out know your client requirements, including verifying the identity of persons and entities for certain activities and transactions
+* Keep certain records, including records related to transactions and client identification
+* Report certain transactions to FINTRAC
+
+For more information about these obligations, see [information about MSBs and FMSBs](/msb-esm/msb-eng).
+
+## EFT definition amendment and what it means for registered MSBs and FMSBs
+
+Registered MSBs and FMSBs may be affected by the amended EFT definition, specifically those that remit/transmit funds.
+
+MSBs and FMSBs that carry out transactions by means of a credit/debit card (where the beneficiary has an agreement with the payment service provider), which permits the payment of goods and services, now have to comply with EFT obligations, including client identification, reporting and record keeping requirements.
+
+## Registering with FINTRAC as an MSB or FMSB
+
+Crowdfunding platforms that provide services to raise funds or virtual currency and certain payment service providers must register as MSBs or FMSBs.
+
+MSBs and FMSBs that are already registered with FINTRAC, and which offer services now subject to the Act, must update their registration information to reflect this.
+
+They will now have obligations relating to these services, including updating their compliance program to reflect this additional service, identifying clients, keeping records and reporting certain types of financial transactions to FINTRAC, including suspicious transactions.
+
+For information on how to register as an MSB/FMSB, please visit the following pages on our website:
+
+* [Check to see if you need to register with FINTRAC](/msb-esm/questions/2-eng)
+* [Register your MSB or FMSB with FINTRAC](/msb-esm/register-inscrire/reg-ins-eng)
+* [Guidance glossary](/guidance-directives/glossary-glossaire/1-eng) (NOTE: Amended definition of an EFT and newly added definitions for crowdfunding platforms and crowdfunding platform services)
+
+FINTRAC will work with businesses to register crowdfunding platforms and certain payment service providers over the next several weeks. The regulatory amendments and FINTRAC's retraction of its previous positions may also affect MSBs and FMSBs already registered with FINTRAC. Thus, we invite all businesses to continue to monitor our website for updates or additional guidance.
+
+## Guidance updates
+
+We have updated the following guidance on the FINTRAC website to include MSB and FMSB obligations for crowdfunding platforms under the PCMLTFA and its Regulations, including:
+
+* Client identification requirements for **MSBs and FMSBs**
+* Record keeping requirements for **MSBs and FMSBs**
+
+We have also updated the following guidance to include references to the exceptions under s.150.1 of the PCMLTFR:
+
+* Client identification requirements for **financial entities**
+* Record keeping requirements for **financial entities** and **casinos**
+* Politically exposed persons (PEP) and heads of international organizations (HIO) determination requirements for **account-based reporting entity sectors**
+* **Guideline 8A**: Submitting Non-SWIFT Electronic Funds Transfer Reports to FINTRAC Electronically
+* **Guideline 8B**: Submitting SWIFT Electronic Funds Transfer Reports to FINTRAC
+* **Guideline 8C**: Submitting Non-SWIFT Electronic Funds Transfer Reports to FINTRAC by Paper
+
+We understand that there will be challenges in meeting certain obligations. FINTRAC will be reasonable in its assessment and enforcement approach, and is committed to working with reporting entities subject to the PCMLTFA and its Regulations in order to increase their awareness, understanding and compliance with their obligations.
+
+For questions, please contact us by telephone at 1-866-346-8722 (toll free) or by email at [guidelines-lignesdirectrices@fintrac-canafe.gc.ca](mailto:guidelines-lignesdirectrices@fintrac-canafe.gc.ca).
+
+Date Modified:
+:   2022-04-27

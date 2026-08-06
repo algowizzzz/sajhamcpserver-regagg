@@ -1,0 +1,73 @@
+# FinCEN Advisory - Issue 13
+
+## Advisory Information
+
+n/a
+
+[advis13.pdf](/system/files/advisory/advis13.pdf "advis13.pdf")
+(219.9 KB)
+
+Issued Date
+
+July 01, 2000
+
+Subject
+
+Transactions Involving The Bahamas
+
+FinCEN Advisory
+
+This Advisory is being issued to inform banks and other financial institutions operating in the United States of serious deficiencies in the counter-money laundering systems of The Commonwealth of The Bahamas. The impact of such deficiencies on the scrutiny that should be given to certain transactions or banking relationships involving The Bahamas, in light of the suspicious transaction reporting obligations of financial institutions operating in the United States, is discussed below.
+
+The Bahamas is an archipelago whose nearest point is about 50 miles east of the United States. Its population is approximately 280,000.
+
+The Bahamas is home to a well-developed offshore financial center. More than 400 banks and trust companies, 580 mutual funds, and 60 insurance companies operate in, or out of, The Bahamas, and The Bahamas has registered approximately 100,000 International Business Companies, most for non-residents of The Bahamas.
+
+The counter-money laundering regime embodied in the legal, supervisory, and regulatory systems of The Bahamas suffers from serious systemic problems.
+
+* The Bahamas supervisory system does not include rules for the reporting of suspicious transactions by financial institutions. Reliance is placed on a provision making it a crime for any person who knows or reasonably suspects that another is engaged in money laundering, to fail to report that suspicion to supervisory or police authorities.
+* Banks in The Bahamas are not required to verify the identity of bank customers for whom Bahamian lawyers or certain other intermediaries open accounts. Although the latter classes of persons are themselves subject to the criminal law relating to suspicious transactions, it is unclear whether any obligation under that law is overridden by the professional secrecy obligations of such persons. Moreover, the failure of banks to possess meaningful identity information about many of their customers limits their ability to recognize or avoid money laundering transactions.
+* Bahamian supervisory officials can obtain access to customer information held by Bahamian banks and trust companies only by court order.
+* The Bahamas financial sector primarily serves residents and citizens of other countries, but Bahamian authorities can share information to assist in criminal investigations by officials of other countries only through a cumbersome judicial process. It has proven difficult in practice to obtain information even through the limited channel the law permits.
+
+Other weaknesses in The Bahamas. counter-money laundering programs result from the interaction of particular rules in a way that can vitiate formal counter-money laundering requirements.
+
+* The Bahamas remains committed to strict bank secrecy, outside of a limited suspicious transaction reporting and international cooperation regime.
+* Regulatory procedures for identification of customers and account opening procedures for financial institutions in The Bahamas are limited.
+* Bahamian international business companies may issue bearer shares.
+
+These deficiencies, among others, in The Bahamas. counter-money laundering system have caused The Bahamas to be identified by the Financial Action Task Force on Money Laundering (the ’FATF’) as ’non-cooperative in the fight against money laundering’. The FATF, created at the 1989 G-7 Economic Summit, is a 29 member international group that works to combat money laundering.
+
+Other aspects of The Bahamas. counter-money laundering system provide some counter-balance to the deficiencies described above. The Bahamas has criminalized money laundering, and, as noted, failure to report suspicious transactions related to money laundering is subject to criminal penalty. The Central Bank of The Bahamas has published non-binding Guidance Notes for banks regarding Bahamian counter-money laundering legislation; courts may, but are not required to, take notice of the Guidance Notes. The Bahamas is considering legislative changes that could remedy at least some of the structural deficiencies described above, as well as administrative changes to strengthen its counter-money laundering and international assistance programs. The Bahamas has also signed a mutual legal assistance treaty with the United States. Nonetheless, the legal, supervisory, and regulatory systems of The Bahamas at present increase the possibility that transactions involving The Bahamas will be used for illegal purposes.
+
+Thus, banks and other financial institutions operating in the United States should carefully consider, when dealing with transactions originating in or routed to or through The Bahamas, or involving entities organized, or domiciled or persons maintaining accounts, in The Bahamas, how the deficiencies in the counter-money laundering controls of The Bahamas affect the possibility that those transactions are being used for illegal purposes. A financial institution subject to the suspicious transaction reporting rules contained in 31 C.F.R. 103.18 (formerly 31 C.F.R. 103.21) (effective April 1, 1996), and in corresponding rules of the federal financial institution supervisory agencies, should carefully examine the available facts relating to any such transaction to determine if such transaction (of $5,000 or more, U.S. dollar equivalent) requires reporting in accordance with those rules. Institutions subject to the Bank Secrecy Act but not yet subject to specific suspicious transaction reporting rules should consider such a transaction with relation to their reporting obligations under other applicable law. All institutions are particularly advised to give enhanced scrutiny to transactions or banking relationships that do not involve established, and adequately identified and understood, commercial or investment enterprises.
+
+It should be emphasized that the issuance of this Advisory, and the need for enhanced scrutiny, does not mean that U.S. financial institutions should curtail legitimate business involving The Bahamas.
+
+To dispel any doubt about application of the .safe harbor. to transactions within the ambit of this Advisory, the Treasury Department will consider any report relating to a transaction described in this Advisory to constitute a report of a suspicious transaction relevant to a possible violation of law or regulation, for purposes of the prohibitions against disclosure and the protection from liability for reporting of suspicious transactions contained in 31 U.S.C. 5318(g)(2) and (g)(3).
+
+United States officials stand ready to provide appropriate technical assistance to Bahamian officials as they work to remedy the deficiencies in The Bahamas. counter-money laundering systems that are the subject of this Advisory.
+
+James F. Sloan  
+Director
+
+---
+
+FinCEN Advisory is a product of the Financial Crimes Enforcement Network, Department of the Treasury, Post Office Box 39, Vienna, Virginia 22183. For more information about FinCEN’s programs, visit the FinCEN web site at <https://www.fincen.gov>. General questions or comments regarding FinCEN publications should be addressed to the Office of Communications, FinCEN, (703) 905-3773. Information may also be faxed to (703) 905-3885.
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

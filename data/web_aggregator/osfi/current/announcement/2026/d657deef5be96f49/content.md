@@ -1,0 +1,41 @@
+# Progress on our initiatives
+
+The [Blueprint](/Eng/osfi-bsif/rep-rap/Pages/bl-pd.aspx) and the [2022-2025 Strategic Plan](/Documents/WET5/SP/eng/2022/index.html) guide our overall priorities and activities during our multi-year transformation. In these plans, we outline 6 pillars that support our transformation:
+
+* Risk, strategy and governance
+* Data management and analytics
+* Policy innovation
+* Supervision renewal
+* Strategic stakeholder and partner engagement
+* Culture and enablers
+
+We are transforming OSFI to ensure that we thrive in intensifying uncertainty so that the public’s confidence in a sound financial system remains unwavering. We’ve made good progress on a number of initiatives under these six pillars that will continue to move OSFI into the future.
+
+## [Refining how we approach risk](/en/about-osfi/progress-our-initiatives/refining-we-approach-risk "Refining how we approach risk")
+
+Risk, strategy and governance: Our Risk Appetite Statement is the foundation for our decision making, operations, and infrastructure that meets a dynamic financial risk environment.
+
+## [Modernizing how we collect data](/en/about-osfi/progress-our-initiatives/modernizing-we-collect-data-institutions "Modernizing how we collect data")
+
+Data management and analytics: Data is the foundation that guides our decisions.
+
+## [Modernizing policies, guidance, and supervision for regulatory efficiency](/en/about-osfi/progress-our-initiatives/modernizing-policies-guidance-supervision-regulatory-efficiency "Modernizing policies, guidance, and supervision for regulatory efficiency")
+
+Policy innovation: The Policy Architecture Renewal allows us to rethink how we develop and apply our policies and guidelines.
+
+## [Renewing our Supervisory Framework](/en/about-osfi/progress-our-initiatives/supervisory-approach-fit-future "Renewing our Supervisory Framework")
+
+Supervision renewal: We’re enhancing our supervisory practices by building tools to help with evolving risks.
+
+## [Engaging our partners and stakeholders](/en/about-osfi/progress-our-initiatives/strengthening-our-partner-stakeholder-engagement "Engaging our partners and stakeholders")
+
+Strategic stakeholder and partner engagement: Engagement with our stakeholders is critical to our effectiveness as an organization.
+
+## [Building a diverse workplace](/en/about-osfi/progress-our-initiatives/building-diverse-workplace "Building a diverse workplace")
+
+Culture and enablers: We want a workplace where we embrace differences, celebrate curiosity, and innovation.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-06-13

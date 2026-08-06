@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12871",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Form N-PX",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/26/2026-12871/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-form",
+  "reference_number": "2026-12871",
+  "published_date": "2026-06-26",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:07d2e0b87ada04b9049c18460b2f4b18ae59454ca6b068423efad8f0e4e6762c",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12871",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

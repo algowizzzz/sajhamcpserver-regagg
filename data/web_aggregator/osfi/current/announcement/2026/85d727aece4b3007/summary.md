@@ -1,0 +1,1 @@
+Summary: # Données de crédit selon l'approche NI du portefeuille de la clientèle de détail – Partie 1 (BD)

@@ -1,0 +1,34 @@
+# Administrative monetary penalty imposed on Binance Holdings Limited
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2024-05-09**]
+
+Binance Holdings Limited, also operating as Binance Holdings (IE) Ltd., Binance.com, Binance Global, and Binance, is determined to be a foreign money services business. Binance Holdings Limited was imposed an administrative monetary penalty of $6,002,000 on May 7, 2024, for committing 2 violations. The violations were found during the course of a compliance activity in 2023. Binance Holdings Limited has appealed the decision to the Federal Court.
+
+## Nature of violation
+
+Violation #1
+:   **Failure to register with the Centre – Proceeds of Crime (Money Laundering) and Terrorist Financing Act, paragraph 11.1**
+      
+      
+    Binance Holdings Limited failed to register as a foreign money services business (FMSB) with the Centre.
+      
+      
+    Binance Holdings Limited was provided with several opportunities to register with FINTRAC as an FMSB, however, they had not completed their registration by the deadlines provided. It should be noted that Binance Holdings Limited was deemed to be an FMSB and was required to be registered with FINTRAC up until September 25th, 2023, when it officially ceased all operations in Canada. Up until that day, Binance Holdings Limited was in violation of its registration requirements.
+
+Violation #2
+:   **Failure to report a large virtual currency transaction of $10,000 or more in the course of a single transaction, together with the prescribed information – paragraph 30(1)(f) of the PCMLTF Regulations**
+      
+      
+    Binance Holdings Limited failed to submit large virtual currency transaction reports with prescribed information.
+      
+      
+    Using blockchain analytics, FINTRAC identified that Binance Holdings Limited failed to report the receipt from a client, of an amount in virtual currency of $10,000 or more in the course of a single transaction, together with the prescribed information that occurred on 5,902 separate occasions during the period of June 1, 2021 until July 19, 2023, which is contrary to section 9(1) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and section 30(1)(f) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations.
+
+## Related link
+
+* [News release: FINTRAC imposes an administrative monetary penalty on Binance Holdings Limited](/new-neuf/nr/2024-05-09-eng)
+
+Date Modified:
+:   2024-05-09

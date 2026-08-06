@@ -1,0 +1,1 @@
+Summary: # Japan weighs use of Palantir, Anduril AI systems for defense forces

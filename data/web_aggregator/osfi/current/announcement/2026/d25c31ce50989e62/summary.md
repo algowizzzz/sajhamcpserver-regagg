@@ -1,0 +1,1 @@
+Summary: # Réduction du capital déclaré

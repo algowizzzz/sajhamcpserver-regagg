@@ -1,0 +1,25 @@
+{
+  "doc_id": "bc6ee9f29d6a6b8e",
+  "regulator_id": "osfi",
+  "doc_type": "consultation",
+  "title": "R\u00e9sultats de la consultation sur les modifications corr\u00e9latives des lignes directrices du BSIF du fait de l\u2019IFRS 17 | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/consultations/resume-consultations/resultats-consultation-sur-modifications-correlatives-lignes-directrices-du-bsif-du-fait-lifrs-17",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3a316ae4ea692e481da51afe0bacb045c7e14a0d89fbbeabcd27f4ea63bad3d8",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/consultation/2026/bc6ee9f29d6a6b8e",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

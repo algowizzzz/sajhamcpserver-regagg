@@ -1,0 +1,1 @@
+Summary: # Pénalité administrative pécuniaire imposée à Global West Realty Limited

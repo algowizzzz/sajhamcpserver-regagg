@@ -1,0 +1,1 @@
+Summary: # Guide for Applications under Section 2 of the Information Technology Activities Regulations

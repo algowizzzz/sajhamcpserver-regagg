@@ -1,0 +1,37 @@
+# Réponses du BSIF aux commentaires reçus au sujet de la version à l'étude de la ligne directrice Risques liés à la culture et au comportement
+
+## Clarification de la terminologie et des concepts clés
+
+Commentaire : Il faudrait supprimer les mentions de « risque lié au comportement », car ce terme porte à confusion, et les attentes qui s'y rattachent sont trop normatives.
+
+Réponse : Les mentions de « risque lié au comportement » ont été supprimées. L'avis relatif à la réglementation s'articule autour d'attentes en matière de gestion du risque lié à la culture qui sont exprimées sous forme de principes.
+
+Commentaire : Il faudrait préciser que chaque institution a une culture qui lui est propre, et que le BSIF n'entend pas imposer une culture spécifique.
+
+Réponse : Le BSIF a précisé que chaque institution a une culture qui lui est propre, laquelle doit être définie, dictée et gérée en fonction de la taille, de la nature et de la complexité de l'institution.
+
+Commentaire : Il faudrait clarifier le texte de la ligne directrice et ajouter la définition de concepts importants, comme ceux de « dirigeant » et de « risque lié à la culture ».
+
+Réponse : Le texte de l'avis a été simplifié, et une section « termes clés » contenant des définitions révisées a été ajoutée.
+
+## Liens avec d'autres lignes directrices
+
+Commentaire : Nous sommes d'accord avec les principes énoncés dans la version à l'étude de la ligne directrice. Or, bon nombre de ces principes sont déjà pratiques courantes dans le secteur ou sont abordés dans d'autres lignes directrices. Il n'est donc pas nécessaire d'énoncer de nouvelles attentes relatives à la culture.
+
+Réponse : Le BSIF se réjouit du fait que de nombreuses institutions respectent déjà ces attentes, mais estime que des éléments d'orientation supplémentaires sont requis pour faire face au paysage du risque actuel. En effet, la culture peut tout aussi bien favoriser ou compromettre la résilience, l'intégrité et la solidité d'une institution. L'avis énonce des attentes précises concernant la culture et la gestion du risque lié à la culture qui ne figurent pas dans d'autres lignes directrices.
+
+## Mise en œuvre
+
+Commentaire : Le BSIF devrait différer la publication de la version finale de la ligne directrice sur les risques liés à la culture et au comportement pour se concentrer sur d'autres risques, ou bien prévoir une longue période de mise en œuvre.
+
+Réponse : La version finale des consignes sur la culture tient compte de l'élargissement récent du mandat du BSIF (entré en vigueur le 1er janvier 2024) en lien avec l'intégrité et la sécurité. Le cadre stratégique de l'organisme évolue, et le BSIF continuera d'évaluer quelles sont les réponses stratégiques qui conviennent le mieux au regard des attentes relatives à la culture.
+
+## Liens utiles
+
+* [Lettre afférente à l'avis relatif à la réglementation sur la gestion du risque lié à la culture](/fr/consignes/repertoire-consignes/lettre-afferente-lavis-relatif-reglementation-sur-gestion-du-risque-lie-culture "Lettre afférente à l'avis relatif à la réglementation sur la gestion du risque lié à la culture")
+* [Avis relatif à la réglementation - Gestion du risque lié à la culture](/fr/consignes/repertoire-consignes/avis-relatif-reglementation-gestion-du-risque-lie-culture "Avis relatif à la réglementation")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-11-21

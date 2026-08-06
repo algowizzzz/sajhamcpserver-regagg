@@ -1,0 +1,7 @@
+# BP boss is unsentimental in pruning portfolio and clear on North Sea advice to Burnham | Nils Pratley
+
+Meg O’Neill is overseeing rapid clearing of the decks at BP after strategic muddle of recent years, with ‘message’ for new PM BP boss urges Burnham to prioritise UK oil and gas Revealed: major oil firms make $93bn profits amid war and climate crisis BP will ignore “sentiment” and “history” in pruning its portfolio of assets, says its new-ish boss, Meg O’Neill . She demonstrated as much last week when putting the company’s 60-year-old North Sea oil and gas business up for sale , explaining on Tuesday that “it just doesn’t compete” in the internal battle for capital. Now comes a disposal that sends an equally unsentimental message about priorities. The US biogas business, Archaea, which was a prized acquisition in the brief green-tinged era of Bernard Looney, is on the block less than four years after BP bought it for $4bn (£2.98bn). Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/04/bp-boss-unsentimental-pruning-portfolio-north-sea-advice-burnham)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

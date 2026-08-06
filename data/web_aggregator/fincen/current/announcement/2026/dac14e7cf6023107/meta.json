@@ -1,0 +1,24 @@
+{
+  "doc_id": "dac14e7cf6023107",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Request for Administrative Ruling on the Application of FinCEN\u2019s Regulations to a Virtual Currency Payment System | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/request-administrative-ruling-application",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:460dd7ca41bc15dd9c88d1c2026969358aa707c644a7891bda4be86a1a905d46",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/dac14e7cf6023107",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

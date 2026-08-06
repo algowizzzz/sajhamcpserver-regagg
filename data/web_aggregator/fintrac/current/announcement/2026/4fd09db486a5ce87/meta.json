@@ -1,0 +1,24 @@
+{
+  "doc_id": "4fd09db486a5ce87",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "November 28, 2022 \u2013 FINTRAC Advisory: Financial transactions related to countries identified by the Financial Action Task Force (FATF)",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/notices-avis/avs/2022-11-28-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6c0088f5de8e5b75f502a1e2f1a981b186ce04712cbd0786316e220407ab04ce",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/4fd09db486a5ce87",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

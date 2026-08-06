@@ -1,0 +1,48 @@
+# Alternative Liquidity Facility Annual Report 2025/26
+
+Our Alternative Liquidity Facility offers a non-interest based deposit facility backed by the Bank to commercial banks that cannot pay or receive interest.
+
+Published on
+25 June 2026
+
+## 1 March 2025 - 28 February 2026
+
+[![](/assets/img/icon-pdf.svg)Alternative Liquidity Facility Annual Report 2025/26](/-/media/boe/files/alternative-liquidity-facility/alf-annual-report-2025-26.pdf)
+
+## Other annual reports
+
+[Publication // Annual Report
+
+25 June 2026
+
+### The Bank of England's climate-related financial...
+
+### The Bank of England's climate-related financial disclosure 2026](/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026)
+
+[Publication // Annual Report
+
+25 June 2026
+
+### Report on the Bank’s official market operations...
+
+### Report on the Bank’s official market operations March 2025–February 2026](/sterling-monetary-framework/report-2025-26)
+
+[Publication // Annual Report
+
+25 June 2026
+
+### Asset Purchase Facility Annual Report 2025/26
+
+### Asset Purchase Facility Annual Report 2025/26](/asset-purchase-facility/2026/2025-26)
+
+[Publication // Annual Report
+
+25 June 2026
+
+### Annual Reports 2026
+
+### Annual Reports 2026](/annual-report/annual-reports-2026)
+
+[View more Other annual reports](/news?NewsTypes=ce90163e489841e0b66d06243d35d5cb&Taxonomies=a9c39560d3c7449f8105d4b86ecc8b1b&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

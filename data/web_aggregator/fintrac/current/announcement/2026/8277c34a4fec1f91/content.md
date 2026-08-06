@@ -1,0 +1,191 @@
+# Alerte opérationnelle : Financement d’activités terroristes
+
+Numéro de référence : CANAFE-2022-OA001   
+ Décembre 2022
+
+[![](/images/download.png)
+
+Alerte opérationnelle : Financement d’activités terroristes (Version PDF, 594 ko)](taf-fra.pdf)
+
+## Objectif
+
+Cette alerte opérationnelle a pour but d’aider les entités déclarantes à reconnaître les opérations financières suspectées d’être liées au financement d’activités terroristes. Grâce aux déclarations d’opérations financières, CANAFE est en mesure de faciliter la détection, la prévention et la dissuasion de toutes les étapes du blanchiment d’argent (placement, dispersion et intégration) et de celles du financement des activités terroristes, en communiquant des renseignements financiers exploitables aux organismes d’application de la loi et de sécurité nationale. Cette alerte opérationnelle présente les indicateurs de financement des activités terroristes découlant de l’analyse des renseignements sur le financement d’activités terroristes communiqués par CANAFE.
+
+## Contexte
+
+Le financement des activités terroristes consiste à réunir des fonds pour la réalisation d’activités terroristes. Les terroristes emploient des techniques semblables à celles utilisées pour le blanchiment d’argent (par exemple, le fractionnement ou l’utilisation de prête-noms) afin d’éviter d’attirer l’attention des autorités et de protéger l’identité des parties qui les appuient et, ultimement, celle des bénéficiaires des fonds. À l’instar de ceux destinés au blanchiment d’argent, les fonds affectés aux activités terroristes peuvent provenir de sources criminelles (par exemple, le commerce de la drogue, le trafic d’armes et d’autres biens, la fraude, les enlèvements et l’extorsion). Cependant, contrairement aux sommes allouées au blanchiment d’argent, ces fonds peuvent également provenir de sources légitimes (par exemple, les dons personnels et les profits générés par les entreprises et les organismes de bienfaisance), ce qui complique la détection et le suivi de ces fonds. Les fonds servant à financer les activités terroristes ont également tendance à représenter des montants moindres que ceux étant destinés au blanchiment d’argent.
+
+Le [gouvernement du Canada](https://www.canada.ca/fr/service-renseignement-securite/organisation/publications/rapport-public-2020.html) regroupe les menaces terroristes avec lesquelles le Canada compose en trois grands types d’extrémisme violent : l’extrémisme violent à caractère religieux (EVCR), l’extrémisme violent à caractère politique (EVCP) et l’extrémisme violent à caractère idéologique (EVCI).
+
+À ce jour, 77 entités terroristes sont inscrites en vertu du Code criminel. Cette liste peut être consultée sur le [site Web de Sécurité publique Canada](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-fr.aspx). L’établissement de ces listes d’entités terroristes contribue à éviter que le système financier canadien ne favorise l’activité terroriste en fournissant les moyens de saisir, d’immobiliser ou d’obtenir la confiscation des biens appartenant à une entité inscrite. Parmi les plus récentes entités terroristes inscrites depuis 2019, on trouve des groupes adeptes de l’EVCI (c’est la première fois que de tels groupes sont inscrits sur la liste au Canada).
+
+Le [gouvernement du Canada](https://www.canada.ca/fr/service-renseignement-securite/organisation/publications/rapport-public-2020.html) déclare que les actes liés à l’EVCR, l’EVCP et l’EVCI représentent tous une menace pour la sécurité du Canada, sans compter que la présence de gestes relevant de l’EVCI s’est intensifiée au Canada ces dernières années. Depuis 2014, le [gouvernement du Canada](https://www.canada.ca/fr/service-renseignement-securite/organisation/publications/rapport-public-2020.html) constate que les personnes canadiennes motivées entièrement ou en partie par des opinions relevant de l’EVCI ont tué et blessé davantage de gens en sol canadien que celles dont les actes s’inspirent de l’EVCR ou de l’EVCP.
+
+**Le gouvernement du Canada explique les types d’extrémisme violent :**
+
+* L’EVCR incite au recours à la violence dans le cadre d’une lutte spirituelle contre un système perçu comme immoral. Les adeptes croient que la violence est le seul moyen d’atteindre le salut.
+* L’EVCP incite au recours à la violence pour instaurer de nouveaux régimes politiques ou pour modifier les structures et les normes des régimes existants.
+* L’EVCI est souvent mu par une série de récriminations et d’idées qui couvrent le spectre idéologique traditionnel. La vision du monde qui en découle s’articule autour d’un discours personnalisé, axé sur la volonté de l’extrémiste de mobiliser les personnes, de les inciter à perpétrer des actes de violence et de leur donner les moyens de passer à l’action. Les adeptes de l’extrémisme sont influencés par une multitude de sources, dont des livres, des images, des exposés, des pièces musicales, des discussions en ligne, des vidéos et des conversations. Ces personnes et ces cellules agissent souvent sans démontrer de manière évidente une appartenance à un groupe organisé précis ou l’action d’une influence externe. Elles sont néanmoins façonnées par des voix et des messages haineux en ligne qui normalisent et préconisent le recours à la violence.
+
+Source : [Rapport public du SCRS 2020](https://www.canada.ca/fr/service-renseignement-securite/organisation/publications/rapport-public-2020.html)
+
+## Aperçu des résultats de l’analyse des communications de CANAFE relatives au financement d’activités terroristes
+
+CANAFE a analysé un échantillon de communications datées de janvier 2019 à octobre 2022 liées au financement d’activités terroristes. Selon l’analyse de CANAFE, les opérations communiquées s’inscrivaient dans trois grands thèmes : le terrorisme national, le financement de groupes terroristes internationaux et les voyageurs extrémistes canadiens (VEC). Les trois types d’extrémisme violent, tels que les a définis le gouvernement du Canada, ont été constatés dans les communications de l’échantillon de CANAFE, les actes liés à l’EVCI et l’EVCR étant les plus fréquents.
+
+CANAFE a analysé ses communications des deux dernières années sur les menaces terroristes survenues au Canada en particulier. Autrement dit, la cible des actes terroristes se trouvait au Canada (peu importe si un attentat terroriste s’est réellement produit). Cette situation correspond à ce que [Sécurité publique Canada qualifie de menaces et d’incidents liés au terrorisme national dans le Plan fédéral d’intervention en cas d’acte terroriste](https://www.securitepublique.gc.ca/cnt/rsrcs/pblctns/fdrl-trrrsm-rspns-pln/index-fr.aspx). La plupart de ces communications de CANAFE traitaient d’EVCI. D’après l’analyse du Centre, les auteurs d’actes d’EVCI au Canada étaient groupés en trois sous-catégories : les personnes agissant seules, les réseaux transfrontaliers et les groupes organisés. Les personnes agissant seules ont tendance à financer leurs propres attaques, souvent par les payes, les dépôts de montant provenant de l’aide gouvernementale ou les dépôts en espèces. Les réseaux transfrontaliers utilisaient principalement de grandes entreprises de services monétaires (ESM) pour transférer des fonds, ainsi que les télévirements. Ils ont été principalement envoyés à des tiers, souvent dans des endroits où les activités liées à l’EVCI sont des sources de préoccupation[Note de bas de page 1](#fn1). Les groupes organisés ont collecté des fonds par le biais d’une gamme de méthodes, notamment les télévirements, la vente de marchandises et les dépôts en espèces fréquents. La section de référence des télévirements comportait souvent des mots, des phrases ou des chiffres particuliers (par exemple, les années ayant une signification spéciale dans l’idéologie des adeptes, ou des chiffres correspondant au nom du groupe) qui reliaient l’opération à un groupe d’EVCI précis. Les résultats de l’analyse de CANAFE ont révélé que des auteurs situés au Canada et y opérant étaient mêlés à l’activité de financement des actes d’EVCI. Des fonds ont été envoyés à l’étranger à des auteurs présumés d’actes d’EVCI, mais l’analyse des opérations financières ciblées a permis de démontrer que certaines opérations ou activités liées à l’EVCI ont aussi été organisées au Canada.
+
+CANAFE a constaté que les opérations effectuées par les groupes terroristes internationaux en matière de financement consistaient principalement en des transferts de fonds vers un autre pays (surtout vers des pays ou territoires où le financement d’activités terroristes était source de préoccupation)[Note de bas de page 2](#fn2). Les pays ou territoires sources de préoccupation les plus fréquemment mentionnés dans les communications de CANAFE sont les suivants : l’Irak, le Liban, le Pakistan, la Syrie, la Turquie, les Émirats arabes unis et le Yémen. Ces transferts de fonds internationaux vers d’autres pays, souvent financés par le biais de dépôts en espèces, étaient exécutés par des personnes au Canada et ils supposaient principalement l’utilisation d’ESM.
+
+Dans les communications analysées, l’entité terroriste internationale la plus fréquemment indiquée était Daech, suivi du Hezbollah. Une grande partie des fonds soupçonnés de soutenir Daech ont été envoyés en Turquie, souvent dans les régions ou les villes proches de la frontière turco-syrienne, une zone particulièrement à haut risque en ce qui a trait au financement d’activités terroristes.
+
+La majorité des fonds suspectés de servir au financement du Hezbollah ont été envoyés au Liban. Les fonds soupçonnés d’être utilisés pour financer ce groupe étaient fréquemment envoyés ou reçus par des personnes ou des entités mentionnant la vente de voitures ou répertoriés dans l’industrie automobile.
+
+CANAFE continue de recevoir les déclarations d’opérations financières douteuses liées à la menace que représentent les VEC. Les cinq étapes du processus suivi par les voyageurs qui est présenté dans l’[Évaluation des risques de financement des activités terroristes 2018 de CANAFE](/intel/assess/tfa-2018-fra) restent pertinentes et ont été constatées dans les opérations financières analysées. Voici les cinq étapes : préparation au départ; déplacement; activités sur place; retour; et voyage interrompu. CANAFE a observé que les VEC se préparant en prévision du départ épuisaient souvent leur compte avant d’entreprendre leur voyage au moyen de retraits d’espèces. Un changement important par rapport à l’historique des mouvements sur les comptes des VEC était également observé avant le départ de ceux-ci du Canada. L’activité financière qu’affichaient les personnes à l’étape du déplacement comportait l’utilisation de cartes de débit ou de crédit s’inscrivant dans une zone de déplacement connue d’accès à une zone de conflit ou à un lieu qui s’avérait une source de préoccupations. Souvent, les comptes étaient inactifs pendant que le VEC menait ses activités sur place. Leur utilisation reprenait ensuite à son retour au Canada. De plus, les VEC rentrant au Canada envoyaient ou recevaient fréquemment des virements de l’étranger, sans compter qu’ils recevaient des dépôts en espèces de la part de tiers sans but évident. Le déplacement de VEC potentiels était parfois interrompu avant que ceux-ci ne puissent quitter le Canada. Selon les renseignements accessibles au public, cette situation découlait de l’intervention des forces de l’ordre. Dans les communications de CANAFE faisant partie de l’échantillon, on a constaté que les remboursements liés aux voyages, comme les billets d’avion, étaient souvent versés dans les comptes de ces voyageurs dont le déplacement avait été interrompu.
+
+## Motifs raisonnables de soupçonner et utilisation des indicateurs
+
+La façon dont les entités déclarantes décident si elles doivent déclarer des opérations douteuses à CANAFE (qu’elles soient réalisées ou tentées) nécessite plus qu’une « intuition » ou qu’un « pressentiment », bien que la preuve du financement d’activités terroristes ne soit pas exigée. Les entités déclarantes doivent tenir compte des faits, du contexte et des indicateurs de financement des activités terroristes entourant une opération. En considérant ces éléments ensemble, il est possible de créer une image essentielle à la distinction d’une opération douteuse d’une opération raisonnable dans le cadre d’un scénario donné. Les entités déclarantes doivent avoir des motifs raisonnables de soupçonner qu’une opération, réelle ou tentée, est liée au financement d’activités terroristes avant de pouvoir soumettre une déclaration d’opération douteuse à CANAFE.
+
+Les indicateurs de financement des activités terroristes peuvent être considérés comme des signaux d’alarme indiquant que quelque chose semble très louche. Les signaux d’alerte tirent généralement leur origine d’une ou plusieurs caractéristiques, ou d’un ou plusieurs comportements, schémas et autres facteurs contextuels relatifs aux opérations financières qui les font paraître incohérentes par rapport aux attentes ou à la normalité. En soi, un indicateur peut ne pas sembler suspect au départ. Il pourrait toutefois amener les entités déclarantes à mettre en doute la légitimité d’une opération, les incitant ainsi à l’évaluer pour établir si d’autres faits, éléments contextuels ou indicateurs de blanchiment d’argent ou de financement d’activités terroristes qui renforceraient leurs soupçons au point de devoir soumettre une déclaration d’opération douteuse (DOD) à CANAFE (voir les [directives de CANAFE sur les déclarations d’opérations douteuses](/guidance-directives/guidance-directives-fra)).
+
+## Déclaration de biens appartenant à un groupe terroriste à CANAFE
+
+Les entités déclarantes doivent transmettre une déclaration de biens appartenant à un groupe terroriste (DBGT) à CANAFE conformément à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et les règlements connexes lorsqu’elles sont tenues de faire une déclaration selon l’article 83.1 du Code criminel ou l’article 8 du Règlement d’application des résolutions des Nations Unies sur la lutte contre le terrorisme. Une communication de renseignements doit être faite dans les situations suivantes : a) lorsqu’une entité déclarante sait qu’un bien en sa possession ou à sa disposition appartient à un terroriste ou à un groupe terroriste, ou est à sa disposition, directement ou non; b) lorsqu’une entité déclarante détient de l’information sur une opération, réelle ou projetée, visant un bien appartenant à un terroriste ou à un groupe terroriste, ou étant à sa disposition, directement ou non.
+
+Pour une communication de renseignements telle que décrite précédemment, un bien est tout ce qui est possédé par une personne ou une entité ou tout ce qui est à sa disposition, qu’il soit matériel ou immatériel. Cela comprend les biens immobiliers et personnels, ainsi que tout acte ou instrument accordant un titre ou un droit à un bien ou donnant droit de recevoir de l’argent ou des marchandises. Cela comprend également tout bien qui a été converti ou échangé, ou acquis à la suite d’une conversion ou d’un échange. Voici des exemples de biens : les espèces, les instruments monétaires, les produits et jetons de casino, la monnaie virtuelle, les comptes bancaires, les produits de paiement prépayés et les comptes de produits de paiement prépayés, les valeurs mobilières, les bijoux, les métaux précieux ou les pierres précieuses, les biens immobiliers et les polices d’assurance. Ainsi, lorsqu’un tel bien appartient à un terroriste ou à un groupe terroriste, ou est à sa disposition, directement ou non, et qu’il est en la possession ou à la disposition d’une entité déclarante, ou si une entité déclarante détient de l’information sur une opération, réelle ou projetée, visant un tel bien, l’entité déclarante doit transmettre une communication de renseignements à la GRC ou au SCRS et une DBGT à CANAFE.
+
+Les DBGT diffèrent des autres déclarations qui sont soumises à CANAFE parce qu’il n’est pas nécessaire qu’une opération ou une tentative d’opération ait lieu pour que les entités déclarantes soumettent une DBGT. C’est plutôt la simple existence de biens appartenant à un groupe terroriste ou à une personne inscrite, ou à leur disposition, directement ou non, qui oblige les entités déclarantes à en informer la GRC ou le SCRS et à soumettre une DBGT à CANAFE. Si l’on a effectué ou tenté d’effectuer une opération visant un bien que l’entité déclarante sait appartenir à un terroriste ou à un groupe terroriste, ou être à sa disposition, directement ou non, alors l’entité déclarante doit aussi transmettre une DOD à CANAFE. Par ailleurs, si une entité déclarante ne sait pas avec certitude, mais suspecte qu’un bien en sa possession ou à sa disposition appartient à un terroriste ou à un groupe terroriste, ou est à sa disposition, directement ou non, elle doit transmettre une DOD à CANAFE si l’on a effectué ou tenté d’effectuer une opération associée au bien en question.
+
+Les entités déclarantes doivent soumettre une DBGT à CANAFE [immédiatement](/guidance-directives/glossary-glossaire/1-fra#immediatement) lorsqu’elles doivent faire une communication en vertu du [Code criminel](/guidance-directives/transaction-operation/Guide5/5-fra#s5) ou du [Règlement d’application des résolutions des Nations Unies sur la lutte contre le terrorisme](/guidance-directives/transaction-operation/Guide5/5-fra). Pour de plus amples renseignements sur la façon de soumettre une DBGT, veuillez consulter les [Directives sur la déclaration de biens appartenant à un groupe terroriste à CANAFE](/guidance-directives/transaction-operation/Guide5/5-fra).
+
+## Indicateurs de financement d’activités terroristes
+
+Vous trouverez ci-dessous des indicateurs de financement d’activités terroristes tirés de l’analyse de CANAFE. Ils représentent les types d’opérations et leurs tendances, ainsi que les facteurs contextuels, d’où l’importance de connaître son client. Les indicateurs de la page [Indicateurs de blanchiment d’argent et de financement du terrorisme – Entités financières](/guidance-directives/transaction-operation/indicators-indicateurs/fin_mltf-fra#s11) et de l’[Évaluation des risques de financement d’activités terroristes 2018 de CANAFE](/intel/assess/tfa-2018-fra) sont inclus ci-dessous, car ils demeurent pertinents et doivent être examinés tous ensemble.
+
+Ces indicateurs ne devraient pas être traités séparément, car pris isolément, ils ne constituent pas nécessairement un signe de financement du terrorisme ou d’une autre activité douteuse. Les entités déclarantes devraient donc les évaluer en combinaison avec les renseignements dont elles disposent sur le client et avec d’autres facteurs se rapportant aux opérations avant d’établir des motifs raisonnables de soupçonner qu’une opération ou une tentative d’opération est liée à la perpétration ou à la tentative de perpétration d’une infraction de financement du terrorisme. La prise en compte de plusieurs indicateurs s’avère parfois la seule façon de mettre au jour des liens, qui mis ensemble, peuvent mener à des motifs raisonnables de soupçonner qu’une opération ou une tentative d’opération est liée au financement d’activités associées à la perpétration ou à la tentative de perpétration d’une infraction de financement du terrorisme. C’est donc le regroupement de différents facteurs qui peut corroborer la détermination de soupçons. Les indicateurs suivants ont été établis pour aider les entités déclarantes dans leur analyse et leur évaluation des transactions financières douteuses.
+
+## Indicateurs de financement d’activités terroristes liées au terrorisme national
+
+Les indicateurs suivants sont applicables à différents types d’extrémisme violent (p. ex., EVCI, EVCR et EVCP). Certaines caractéristiques propres à l’EVCI sont conformes à celles mentionnées dans le [Bulletin spécial de CANAFE sur le mode de financement des activités terroristes des adeptes de l’extrémisme violent à caractère idéologique](/intel/bulletins/imve-fra).
+
+* Des informations provenant des médias ou des organismes d’application de la loi établissent un lien entre une personne et un ou plusieurs groupes, des sentiments ou des activités extrémistes violents.
+* L’activité en ligne d’une personne démontre des sentiments d’extrémisme violent à caractère idéologique (EVCI) ou un soutien à un groupe d’EVCI précis.
+* L’activité en ligne d’une personne indique son intention de participer à une activité extrémiste violente (p. ex., publication sur les médias sociaux, gazouillis, mot-clic ou manifeste).
+* Les personnes participent à des opérations avec des personnes, des groupes, des clubs, des entreprises ou des organismes de bienfaisance identifiés par les médias ou des organismes d’application de la loi comme étant liés à des groupes extrémistes violents.
+* Les détails de l’opération (p. ex., nom de la personne-ressource, adresse électronique, total des fonds ou renseignements sur les versements) contiennent des mots, des phrases ou des chiffres liés à des acteurs, des groupes, des activités ou une iconographie extrémistes violents.
+* Des paiements/transferts sans lien clair entre l’expéditeur et le destinataire sont effectués vers des pays considérés à haut risque ou suspectés d’activités d’EVCI.
+* Transferts d’argent excessifs par courriel suivis de prélèvements par des tiers ou des retraits d’espèces.
+* Des achats, des frais de voyage ou des mouvements irréguliers sur un compte menant à ou dans des zones où des activités extrémistes violentes ont eu lieu.
+* Le client effectue des achats auprès de vendeurs d’armes à feu, de trousses de fabrication d’armes à feu, de munitions, d’explosifs ou d’équipements tactiques.
+* Paiements à des détaillants en ligne, à des organismes de bienfaisance, à des particuliers ou à des entreprises connus pour vendre des équipements, de la littérature ou des marchandises extrémistes violents ou soupçonnés de le faire.
+* Paiements à des plateformes de jeux en ligne, en particulier des plateformes comportant des salons de discussion connus pour être fréquentés par des groupes extrémistes violents.
+* Des paiements mensuels ou ponctuels sont effectués en faveur de médias extrémistes, de sites Web de propagande ou les deux.
+* Personne/entité qui vend des marchandises, des billets ou des dons qui peuvent être liés à des groupes extrémistes violents ou en encourage la vente.
+* Transferts d’argent par courriel, dépôts de chèques, dépôts dans des services de paiement en ligne ou dépôts d’espèces transférés sur une base mensuelle sans but commercial ou économique explicite, souvent pour des montants peu élevés, dans le but présumé de payer des cotisations.
+* Les détails de l’opération mentionnent des frais d’adhésion ou des frais de maison-club.
+* Utilisation du financement participatif, des plateformes FinTech ou de cryptomonnaies pour financer des personnes ou des groupes associés à l’extrémisme violent.
+* Opérations impliquant une personne ou une entité liée à un ou des crimes haineux ou à un discours haineux.
+* Une personne reçoit des paiements/dépôts directs de plateformes de diffusion en direct qui acceptent les dons.
+
+## Indicateurs de financement d’activités terroristes liées au soutien de groupes terroristes internationaux
+
+Certains des indicateurs suivants sont également inclus dans les [Directives de CANAFE sur les indicateurs de blanchiment d’argent et de financement des activités terroristes – entités financières](/guidance-directives/transaction-operation/indicators-indicateurs/fin_mltf-fra#s11). Ces indicateurs sont encore observés fréquemment par CANAFE dans les opérations douteuses de financement d’activités terroristes.
+
+* Les opérations concernant certains territoires à risque élevé tels que des lieux situés au milieu ou à proximité d’un conflit armé où opèrent des groupes terroristes ou des lieux qui sont soumis à des contrôles plus faibles du blanchiment d’argent et du financement du terrorisme.
+* Le client reçoit un nombre excessif de transferts d’argent par courriel ou de dépôts en espèces, qui ne correspondent pas à la profession déclarée, et qui sont utilisés en partie pour effectuer des virements vers un pays à haut risque ou des retraits d’espèces dans un court laps de temps.
+* L’envoi ou la réception de transferts internationaux vers ou à partir de lieux suscitant des préoccupations particulières.
+* Un compte ouvert au nom d’une entité, d’une fondation ou d’une association, qui peut être liée ou impliquée à une organisation terroriste présumée.
+* L’utilisation des fonds par un organisme sans but lucratif n’est pas conforme à l’objet pour lequel il a été établi.
+* Une collecte de fonds se fait de façon non officielle ou sans licence.
+* Les opérations concernent des personnes ou des entités identifiées par les médias ou des listes de sanctions comme étant liées à une organisation terroriste ou à des activités terroristes.
+* Les renseignements fournis par les organismes d’application de la loi identifient des personnes ou des entités potentiellement liées à une organisation terroriste ou à des activités terroristes.
+* La présence en ligne d’une personne ou entité démontrant son appui à un extrémiste violent ou à la radicalisation.
+* La personne fait un don à une cause qui fait l’objet de renseignements dérogatoires accessibles au public (p. ex., initiative de financement participatif, organisme de bienfaisance, organisations à but non lucratif ou organismes non gouvernementaux).
+* Opérations avec des entreprises impliquées dans la vente ou l’expédition d’automobiles dans une zone préoccupante, envois de fonds à des types d’entreprises similaires ou à des personnes lorsque l’achat de voitures est mentionné.
+* Des organismes à but non lucratif ou caritatif effectuent des opérations financières (par exemple, d’importants dépôts en espèces ou des virements bancaires vers un lieu de préoccupation) qui ne semblent pas correspondre à l’activité déclarée de l’organisme.
+* La personne envoie ou reçoit des virements électroniques vers/depuis un certain nombre de particuliers dans différents pays sans but apparent.
+
+## Indicateurs de financement d’activités terroristes liées aux voyageurs extrémistes canadiens
+
+Certains des indicateurs suivants sont également inclus dans l’[Évaluation des risques de financement d’activités terroristes 2018 de CANAFE](/intel/assess/tfa-2018-fra). Ces indicateurs sont encore observés fréquemment par CANAFE dans les opérations douteuses de financement d’activités terroristes.
+
+**Préparation au départ**
+
+* Personne faisant part d’une date prévue de fin des activités du compte.
+* Personne ou activité du compte évoquant la vente d’effets personnels.
+* Achat d’un billet d’avion à destination d’un pays voisin d’une zone de conflit.
+* Autres achats liés aux voyages (p. ex., achat au bureau des passeports).
+* Dons à des organisations à but non lucratif associées au financement des activités terroristes.
+* Utilisation de fonds provenant de prestations d’assistance sociale, de prêts étudiants ou d’autres produits de crédit (financement par emprunt).
+* Abus des produits de crédit accessibles (utilisation de la limite maximale des cartes de crédit [souvent par avance de fonds], omission d’effectuer les paiements, transfert de soldes vers le compte bancaire personnel).
+* Épuisement du compte par des retraits d’espèces.
+* Mouvement de compte montrant un changement significatif par rapport à l’historique du compte.
+
+**Déplacement**
+
+* Client avisant l’entité déclarante qu’il voyagera vers un pays tiers en transitant par une zone de conflit, alors que selon les activités financières le reste du déplacement n’a pas été effectué.
+* Activité financière (p. ex., utilisation de la carte de débit ou de crédit) s’inscrivant dans un corridor connu d’accès à une zone de conflit.
+* Client accédant ou tentant d’accéder à sa banque en ligne depuis une zone de conflit ou une zone limitrophe.
+* Réception de virements dans une zone de conflit ou des zones limitrophes.
+* Achats de cartes SIM prépayées ou de plans de données prépayés.
+
+**Activités sur place**
+
+* Personne recevant des virements de parents ou d’amis dans une zone de conflit ou dans ses environs.
+* Informations accessibles au public et couverture médiatique indiquant qu’une personne s’est rendue dans une zone de conflit.
+* Suspension des activités des comptes du client.
+
+**Retour**
+
+* Reprise des activités dans un compte inactif.
+* Apparition de nouvelles sources de revenus (emploi, assistance sociale).
+* Envoi ou réception de virements intérieurs ou internationaux inhabituels.
+
+**Voyage interrompu**
+
+* Remboursement de dépenses liées à un déplacement (billets d’avion, visas).
+* Client prévenant d’un voyage à l’étranger qui ne semble pas s’être réalisé selon l’activité au compte.
+* Renseignements publics selon lesquels le client a été empêché de voyager pour des raisons de sécurité.
+
+## Communiquer avec CANAFE
+
+* **Courriel :**  [guidelines-lignesdirectrices@fintrac-canafe.gc.ca](mailto:guidelines-lignesdirectrices@fintrac-canafe.gc.ca)
+* **Téléphone :** 1-866-346-8722 (sans frais)
+* **Par la poste :** CANAFE, 234, avenue Laurier Ouest, 24e étage, Ottawa (Ontario) K1P 1H7
+
+© Sa Majesté le Roi du chef du Canada, 2022.  
+No de cat. FD4-27/2022F-PDF  
+ISBN 978-0-660-41874-2
+
+## Ressources
+
+Pour en savoir plus sur le financement des activités terroristes, l'extrémisme violent ainsi que les renseignements financiers associés, veuillez consulter les ressources suivantes :
+
+Canada
+
+* SCRS : [Rapport public du SCRS 2020](https://www.canada.ca/fr/service-renseignement-securite/organisation/publications/rapport-public-2020.html)
+* CANAFE : [Module d'apprentissage en ligne sur la lutte contre le financement des activités terroristes](https://egmontgroup.org/news/ecofel-countering-terrorist-financing-elearning-training/#googtrans(fr)) (développé en partenariat avec le Egmont Centre of FIU Leadership and Excellence)
+* CANAFE : [Bulletin spécial sur le mode de financement des activités terroristes des adeptes de l'extrémisme violent à caractère idéologique](/intel/bulletins/imve-fra)
+* CANAFE : [Évaluation des risques de financement d'activités terroristes 2018](/intel/assess/tfa-2018-fra)
+* Sécurité publique Canada : [Entités inscrites actuellement](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-fr.aspx)
+
+International
+
+* Groupe de travail sur l'échange d'informations (GTEI) du Groupe Egmont : [Counter Terrorist Financing Project-Lone Actors and Small Cells](https://www.comsuregroup.com/news/egmont-counter-terrorist-financing-project-lone-actors-and-small-cells-public-summary/) (en anglais seulement)
+* Federal Bureau of Investigation/National Counterterrorism Center, et le département de la Sécurité intérieure (États-Unis) : [Homegrown Violent Extremist Mobilization Indicators (2019 Edition)](https://www.dni.gov/files/NCTC/documents/news_documents/NCTC-FBI-DHS-HVE-Mobilization-Indicators-Booklet-2019.pdf) (en anglais seulement)
+* Groupe d'action financière : [Ethnically or Racially Motivated Violent Terrorist Financing](https://www.fatf-gafi.org/en/publications/methodsandtrends/documents/ethnically-racially-motivated-terrorism-financing.html) (en anglais seulement)
+* Groupe d'action financière : [Risk Assessment Guidance on Terrorist Financing](https://www.fatf-gafi.org/publications/methodsandtrends/documents/terrorist-financing-risk-assessment-guidance.html) (en anglais seulement)
+
+Note de bas de page 1
+:   Dans ce contexte, le territoire à risque élevé peut englober l'Europe de l'Est ou toute autre région géographique où il est connu que le groupe d'EVCI en question mène ses activités.
+
+    [Retour à la référence de la note de bas de page 1](#fn1-rf)
+
+Note de bas de page 2
+:   Plusieurs facteurs définissent les pays ou territoires qui sont sources de préoccupations, notamment si l'on sait que les entités terroristes y mènent des activités, ou si l'on a cerné des défaillances en matière de mise en œuvre ou d'application de mesures de lutte contre le financement des activités terroristes. Reportez-vous à l'Évaluation des risques de financement d'activités terroristes 2018 de CANAFE pour obtenir des précisions sur les pays ou territoires sources de préoccupation en matière de financement des activités terroristes.
+
+    [Retour à la référence de la note de bas de page 2](#fn2-rf)
+
+Date de modification :
+:   2022-12-15

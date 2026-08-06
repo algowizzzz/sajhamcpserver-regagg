@@ -1,0 +1,1 @@
+Summary: Four people have been arrested and search warrants executed in Hackney, Beckenham and Slough as part of a FCA and police investigation into fraud and money laundering.

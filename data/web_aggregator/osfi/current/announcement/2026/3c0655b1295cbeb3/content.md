@@ -1,0 +1,31 @@
+# OSFI-598 – Report of the Conduct Review Committee
+
+**Type of Publication:** Instructions  
+**Date:** 2015 Revision
+
+## Authority
+
+The information provided in the Return is required pursuant to one or more of the following provisions: section 195 of the *Bank Act*, section 199 of the *Trust and Loan Companies Act,* section 204 of the *Insurance Companies Act*, or section 200 of the *Cooperative Credit Associations Act*.
+
+## Applicability
+
+This return only applies to Canadian Domestic Banks and Foreign Bank Subsidiaries, Canadian Life and Property & Casualty Insurance Companies, Credit Union Centrals, Trust and Loan Companies, and Co-operative Retail Associations.
+
+## General
+
+This return is a return that will be scheduled by OSFI on a yearly basis. At the beginning of your organization’s fiscal year, this return will appear in your Draft Returns folder.
+
+Pursuant to paragraph 195(4) of the *Bank Act*, paragraph 199(4) of the *Trust and Loan Companies Act*, paragraph 204(4) of the *Insurance Companies Act* or paragraph 200(4) of the *Cooperative Credit Associations Act*, a FRFI shall report to the Superintendent on the mandate and responsibilities of the conduct review committee, and on the procedures referred to in paragraph (3)(a) of that same Act, which require the management of the bank or company to establish procedures for complying with Part XI of the Act.
+
+RRS resubmissions are permitted for this return type.
+
+This return is subject to the Late and Erroneous Filing Penalty (LEFP) Framework.
+
+## Filing Deadlines
+
+This return is based on your fiscal year end date and is due within 90 days after the fiscal year end.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2015-07-07

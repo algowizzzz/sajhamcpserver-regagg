@@ -1,0 +1,17 @@
+# Anti-Money Laundering (AML) Template for Small Firms
+
+FINRA provides a template for small firms to assist them in fulfilling their responsibilities to establish the [Anti-Money Laundering (AML)](/rules-guidance/key-topics/anti-money-laundering-aml) compliance program required by the Bank Secrecy Act (BSA) and its implementing regulations and [FINRA Rule 3310](/finramanual/rules/r3310). The template provides text examples, instructions, relevant rules and websites and other resources that are useful for developing an AML plan for a small firm.
+
+Firms should also note that they may access all of the guidance FINRA has provided regarding FINRA Rule 3310 at the [Anti-Money Laundering](/rules-guidance/key-topics/anti-money-laundering-aml) main page.
+
+**Changes to the AML Template Updated July 18, 2018**
+
+The template has been updated to reflect member firms’ obligations under FINRA Rule 3310 in light of the Financial Crimes Enforcement Network’s (FinCEN) final rule on Customer Due Diligence Requirements for Financial Institutions (CDD Rule).
+
+Additional changes include updated rule cites and resources, with hyperlinks directly to the cited material and additional guidance issued since the template was last updated.
+
+**Changes to the AML Template Updated September 8, 2020**
+
+The template has been updated to reflect recent guidance, including the red flags described in [Regulatory Notice 19-18](/rules-guidance/notices/19-18) (May 2019).
+
+Download AML Template

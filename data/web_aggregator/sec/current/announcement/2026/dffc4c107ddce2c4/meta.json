@@ -1,0 +1,24 @@
+{
+  "doc_id": "dffc4c107ddce2c4",
+  "regulator_id": "sec",
+  "doc_type": "announcement",
+  "title": "SEC, CFTC Seek Public Comment to Further Clarify and Harmonize Derivatives Product Definitions",
+  "language": "en",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-57-sec-cftc-seek-public-comment-further-clarify-harmonize-derivatives-product-definitions",
+  "reference_number": null,
+  "published_date": "2026-06-18",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:055f433e34125a72fc956da6a083f4c9ae282a540c54da74b2a57c8319b26d87",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_sec_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/sec/current/announcement/2026/dffc4c107ddce2c4",
+  "tags": [
+    "us",
+    "securities"
+  ]
+}

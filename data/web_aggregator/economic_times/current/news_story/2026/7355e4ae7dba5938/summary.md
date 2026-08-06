@@ -1,0 +1,1 @@
+Summary: # US stocks: Alphabet shares fall 4% as DeepMind chief shifts role in Google’s AI shakeup

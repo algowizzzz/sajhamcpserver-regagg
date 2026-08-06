@@ -1,0 +1,69 @@
+# Self Insured Retention (Canadian and Foreign Insurance Companies)
+
+Please use the following template and replace the [placeholders] with your applicable information.
+
+[Applicant]   
+[Date]
+
+Irrevocable Standby Letter of Credit No.
+
+Beneficiary
+
+[Insert name of Canadian Insurance Company or name of Trustee in trust for Federally Registered Foreign Insurance Company - C/O The Superintendent of Financial Institutions Canada]
+
+[Address of Company or of OSFI - if for a foreign insurance company]
+
+We have established this irrevocable standby letter of credit in your favour for drawings up to Canadian $ [amount[Footnote 1](#fnb1)] effective immediately and expiring at our [bank address] with our close of business on or any automatically extended date.
+
+We hereby undertake to promptly honour your sight draft(s) drawn on us for all or any part of this letter of credit, where the sight draft(s) is presented at [bank address[Footnote 2](#fnb2)] on or before the expiry date or any automatically extended date and is accompanied by:
+
+* (i) a certificate of [name of Insurance Company]
+  + (A) stating that
+    - [name of insured] has defaulted under the Indemnity Agreement made as of
+    - [date], among
+    - [name of the insured] and
+    - [name of Insurance Company] relative to
+    - [name of Insurance Company]'s insurance policy number
+    - wrap-none">[policy No.] dated
+    - [date of policy] or a renewal or replacement thereof, and
+  + (B) setting out the amount in default and owing to
+    - [name of Insurance Company] under the said Agreement, and
+* (ii) the written approval of the Superintendent of Financial Institutions (Canada) to the drawing indicating our letter of credit [No.]
+
+Except as stated herein, this undertaking is not subject to any condition or qualification. The obligation of the bank under this standby letter of credit shall be the individual obligation of the bank and is in no way contingent upon reimbursement with respect thereto.
+
+It is a condition of this standby letter of credit that it shall be deemed automatically extended without amendment for one year, from the expiry date hereof, or any future expiration date, unless 90 days prior to any expiration date we shall notify you and the Superintendent of Financial Institutions Canada, 255 Albert Street, 12th Floor, Ottawa, Ontario K1A 0H2, by Registered Mail or courier that we elect not to consider this standby letter of credit renewed for any such additional period.
+
+This standby letter of credit is issued subject to International Standby Practices (ISP98).
+
+Except as otherwise provided in this standby letter of credit, this standby letter of credit is subject to and governed by the laws of the Province of [province where issued].
+
+Should you have occasion to communicate with us regarding this standby letter of credit, kindly direct your communication to the attention of [bank address[Footnote 3](#fnb3)] making specific reference to our standby letter of credit [No.]
+
+[Authorized signature(s)]
+
+## Footnotes
+
+Footnote 1
+:   In order for the Insurance Company to obtain a capital credit for this LOC, the LOC must be approved by the Superintendent.  Any change in the amount of this LOC must be approved by the Superintendent.
+
+    [Return to footnote 1](#fnb1-ref)
+
+Footnote 2
+:   LOCs from foreign banks MUST have a separate confirming letter from a Canadian bank. If LOC issued by a foreign bank, bank address can be either that of issuing bank or of the Canadian confirming bank (in practice, the Canadian bank’s address is usually used).
+
+    [Return to footnote 2](#fnb2-ref)
+
+Footnote 3
+:   Must be same address as used in (2) above.
+
+    [Return to footnote 3](#fnb3-ref)
+
+## Related links
+
+* [General Guidelines for Use of Letters of Credit](/en/data-forms/applications-approvals/general-guidelines-use-letters-credit-locs "General Guidelines for Use of Letters of Credit (LOC’s)")
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-11-08

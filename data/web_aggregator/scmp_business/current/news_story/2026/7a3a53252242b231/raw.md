@@ -1,0 +1,10 @@
+# BYD’s first humanoid robots; Brazil named biggest buyer of Chinese cars: 7 EV reads
+
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing.
+1. BYD to debut first humanoid robots in August as rivalry with Tesla intensifies
+Electric vehicle (EV) giant BYD plans to unveil its first humanoid robots within the next few weeks, as China’s electric car makers accelerate their push into the embodied artificial intelligence market.
+2....
+
+[Read the full story at the source](https://www.scmp.com/business/china-evs/article/3362896/byds-first-humanoid-robots-brazil-named-biggest-buyer-chinese-cars-7-ev-reads?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

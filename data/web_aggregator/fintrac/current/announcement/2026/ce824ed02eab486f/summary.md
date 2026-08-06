@@ -1,0 +1,1 @@
+Summary: # FINTRAC guidance related to the Ministerial Directive on the Democratic People’s Republic of Korea issued on December 9, 2017

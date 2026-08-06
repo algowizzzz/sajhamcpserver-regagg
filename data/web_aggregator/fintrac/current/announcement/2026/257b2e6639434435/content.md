@@ -1,0 +1,40 @@
+# Administrative monetary penalty imposed on Wealth One Bank of Canada
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2023-03-06**]
+
+Wealth One Bank of Canada, a bank in Toronto, Ontario, was imposed an administrative monetary penalty of $676,500 on February 15, 2023, for committing 4 administrative violations. These administrative deficiencies are not related to money laundering or terrorist financing offences and were found during the course of a compliance examination in 2022. The administrative monetary penalty has been paid in full by Wealth One Bank of Canada and the case is closed.
+
+## Nature of violation
+
+Violation #1
+:   **Failure to develop and apply written compliance policies and procedures that are kept up to date and, in the case of an entity, are approved by a senior officer – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 156(1)(b)** 
+      
+      
+    Wealth One Bank of Canada’s policies and procedures did not sufficiently cover the requirements related to ministerial directives and ongoing monitoring of business relationships, and record-keeping requirements were not applied in practice consistently.
+
+Violation #2
+:   **Failure to assess and document the risk of a money laundering or terrorist financing offence, taking into consideration prescribed factors – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 156(1)(c)** 
+      
+      
+    Wealth One Bank of Canada’s risk assessment did not fully take into consideration the money laundering or terrorist activity financing risk of its products and delivery channels and geographic locations.
+
+Violation #3
+:   **Failure to institute and document the prescribed review – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 156(1)(f)** 
+      
+      
+    Wealth One Bank of Canada’s prescribed review did not assess the effectiveness of some requirements relating to record-keeping.
+
+Violation #4
+:   **Failure to report suspicious transactions – Proceeds of Crime (Money Laundering) and Terrorist Financing Act, section 7**
+      
+      
+    Wealth One Bank of Canada failed to submit suspicious transaction reports where there were reasonable grounds to suspect that transactions were related to a money laundering offence.
+
+## Related link
+
+* [News release: FINTRAC imposes an administrative monetary penalty on Wealth One Bank of Canada](/new-neuf/nr/2023-03-06-eng)
+
+Date Modified:
+:   2023-03-06

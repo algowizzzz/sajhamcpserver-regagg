@@ -1,0 +1,1 @@
+Summary: # Kaplan Fox Alerts Investors of ZoomInfo Technologies Inc. (GTM) to a Pending Securities Class Action - Deadline is August 24, 2026

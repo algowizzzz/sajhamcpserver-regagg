@@ -1,0 +1,72 @@
+# Se prononcer sur l'accessibilité au BSIF
+
+Vous pouvez aider le BSIF à cerner et à éliminer les obstacles à l’accessibilité. Prononcez-vous sur le [plan sur l’accessibilité](/fr/propos-du-bsif/rapports-publications/plan-sur-laccessibilite-2026-2028-du-bureau-du-surintendant-institutions-financieres "Plan sur l’accessibilité de 2026-2028 du Bureau du surintendant des institutions financières") du BSIF, faites-nous part de vos impressions sur l’accessibilité ou sur toute autre question liée à l’accessibilité. Nous accuserons réception des commentaires par le même moyen par lequel nous les avons obtenus, à moins qu’ils aient été produits de façon anonyme. Découvrez comment nous utilisons vos commentaires.
+
+## Sur cette page
+
+## Se prononcer
+
+Courriel : [accessible@osfi-bsif.gc.ca](mailto:accessible@osfi-bsif.gc.ca)
+
+Vous pouvez également communiquer avec notre conseiller en culture, diversité, équité et inclusion :
+
+Courrier :  
+255, rue Albert, 12e étage  
+Ottawa, K1A 0H2  
+Canada  
+Téléphone : 1-800-385-8647  
+Télécopieur : 613-990-5591
+
+Les personnes sourdes, malentendantes ou ayant un trouble de la parole peuvent s’inscrire au service gratuit de SRV Canada pour recevoir et faire des appels téléphoniques. Les appelants SRV entrent en contact avec un interprète qui assure l’interprétation des échanges téléphoniques en temps réel (langue des signes québécoise ou américaine).
+
+ATS : 1-800-465-7735
+
+## Se prononcer de façon anonyme
+
+Pour nous faire part de vos commentaires dans l’anonymat :
+
+* ne fournissez pas votre nom ni de renseignement sur votre identité (par exemple, votre adresse de courriel ou votre numéro de téléphone);
+* n’indiquez pas votre adresse de retour sur l’enveloppe si vous envoyez vos commentaires par la poste.
+
+## Pour obtenir une réponse
+
+Si vous demandez une réponse, nous répondrons par la même voie de communication que vous avez utilisée.
+
+Trouver des réponses à des questions complexes peut prendre du temps. Si tel est le cas pour votre demande, nous vous informerons de nos démarches.
+
+### Rétroaction par courriel
+
+Nous vous répondrons par courriel dans les 15 jours ouvrables.
+
+### Rétroaction par téléphone
+
+Nous vous répondrons par téléphone dans les 15 jours ouvrables.
+
+### Rétroaction par courrier
+
+Nous vous répondrons par courrier dans les 15 jours ouvrables plus le délai d’envoi.
+
+## Ce que nous faisons de la rétroaction
+
+Nous analysons les commentaires pour en dégager les tendances. Nous n’identifions pas les personnes dans nos rapports.
+
+Vos commentaires vous seront attribués seulement si vous demandez une réponse personnelle du conseiller en culture, diversité, équité et inclusion.
+
+Nous publions des rapports d’étape annuels entre les plans sur l’accessibilité. Dans ces rapports d’étape, nous rendons compte des commentaires que nous recevons et de nos démarches pour en tenir compte.
+
+## Demander un document dans un autre format
+
+Vous pouvez demander à recevoir les informations sur notre processus de rétroaction, le plan sur l’accessibilité ou les rapports d’étape dans un autre format, par courriel à l’adresse [accessible@osfi-bsif.gc.ca](mailto:accessible@osfi-bsif.gc.ca) ou par téléphone au 1-800-385-8647.
+
+Les formats disponibles sont :
+
+* impression;
+* impression en gros caractères (police plus grande et plus claire);
+* braille (système de points en relief que les personnes aveugles ou malvoyantes peuvent lire avec leurs doigts);
+* format audio (enregistrement de quelqu’un qui lit le texte à voix haute);
+* formats électroniques compatibles avec la technologie adaptée
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2025-12-19

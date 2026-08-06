@@ -1,0 +1,38 @@
+Page Content
+
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) submitted to the European Parliament, the Council of the European Union and the European Commission, its 2018 and third Annual Report on Long-Term Guarantees Measures (LTG) and Measures on Equity Risk.
+
+Compared to the 2017 annual report, this year's annual report includes also an analysis on risk management aspects in view of the specific requirements for LTG measures set out in Article 44 and 45 of the Directive as well as an analysis of detailed features and types of guarantees of products with long-term guarantees.
+
+Similar to previous years' analysis, this year's results show that most of the measures are widely used. 737 (re)insurance undertakings in 23 countries with a European market share of 74 % use at least one of the following voluntary measures:
+
+* The matching adjustment
+* The volatility adjustment
+* The transitional measures on the risk-free interest rates
+* The transitional measures on technical provisions
+* The duration-based equity risk sub-module
+
+The volatility adjustment and the transitional measure on technical provisions are particularly widely used. The volatility adjustment is applied by 696 undertakings in 23 countries to mitigate the effect of exaggerations of bonds spreads. The transitional measure on technical provisions is applied by 162 undertakings in 11 countries with respect to contracts concluded before the start of Solvency II in order to ensure a smooth transition to the new regime.
+
+The average Solvency Capital Requirement (SCR) ratio of undertakings using the voluntary measures is  
+231 % and would drop to 172 % if the measures were not applied. This confirms the importance of these measures for the financial position of (re)insurance undertakings.
+
+The vast majority of products with long-term guarantees occur in life insurance. For a more in-depth analysis the undertakings were requested to provide information on product features, on types of present guarantees and any changes that have been made to their products as well as the reasons for these changes. The proportion of products with guarantees differs by country. In 16 countries, products with at least one guarantee make up over 95 % of the life insurance market. In other countries, the proportion of products with guarantees is much lower. In general, the countries with a low proportion of products with guarantees have significant volumes of unit-linked life insurance. When the data is split between products that are in run-off and those still commercialised, it can be seen that fewer products that are still commercialised contain guarantees than products in run-off. This trend for fewer guarantees in commercialised products can be seen for all types of guarantee except guaranteed annuity benefits.
+
+As regards the thematic focus an analysis on risk management aspects in relation to the regulatory reporting by undertakings of the LTG measures was conducted. Such requirements include:
+
+* The liquidity plan for undertakings applying the matching or the volatility adjustment
+* The assessment of sensitivity of technical provisions regarding the assumptions underlying the extrapolation, the matching and volatility adjustments
+* The assessment of compliance with capital requirements with and without the measures
+* Potential measures to restore compliance and analysis of LTG measures in the own risk and solvency assessment
+
+National supervisory authorities identified room for improvement in relation to the level of detail of the regular supervisory reporting. In addition, they performed case studies to further explore how insurers build-in the results of the assessments on asset-liability management (ALM) into their overall ALM and risk management system. Practices observed vary across countries and measures.
+
+The analysis carried out by EIOPA in the annual reports on long-term guarantees measures and measures on equity risk will serve as a basis for the opinion on the application of the measures to be provided to the European Commission during 2020.
+
+Publication date
+:   18 December 2018
+
+## Related links
+
+[Report on long-term guarantees measures and measures on equity risk 2018](/document/download/0da1f0b7-57ad-4e9f-96b4-d3a6f056a560_en?filename=Report%20on%20long-term%20guarantees%20measures%20and%20measures%20on%20equity%20risk%202018.pdf)

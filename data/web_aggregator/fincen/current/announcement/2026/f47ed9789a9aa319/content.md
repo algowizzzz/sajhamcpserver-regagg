@@ -1,0 +1,45 @@
+# Proactive SAR Review Leads to Guilty Pleas in Structuring, Bank Fraud Case
+
+[Issue 21-story5.pdf](/system/files/case_example/Issue%2021-story5.pdf "Issue 21-story5.pdf")
+(22.41 KB)
+
+A proactive SAR review task force identified a record that described structuring in an account of an individual who was subsequently found to not be involved in the suspected criminal activity. The investigators began focusing on the subject who caused the structured transaction noted in the SAR. Investigators executed a search warrant within a few months of the time the financial institution filed the record, and were able to obtain a confession shortly thereafter.
+
+Investigators soon learned that the account holder was the parent of an associate of the defendant. Through searches of FinCEN records, investigators uncovered numerous links to the financial activity of the defendant, including several SARs. One SAR, covering transactions that occurred over a 12-month period, described a series of transactions indicative of attempts to evade FinCEN’s reporting requirements. For example, the defendant attempted to make a withdrawal of approx $20,000 and when the bank informed him of the CTR requirement he changed the transaction amount to less than $10,000.
+
+According to court documents, the defendant used credit cards belonging to another entity as well his own business’s merchant accounts to force transactions well over the cards’ credit limits. The defendant attempted transactions totaling over $1 million and was successful in fraudulently obtaining over $350,000 from various banks that issued the credit cards. He then proceeded to transfer the money among various accounts, invested some of the funds in multiple homes, and engaged in several cash transactions less than $10,000 in an attempt to avoid CTR filings. Additionally, he admitted that his actions resulted in losses to Federally insured financial institutions of several hundred thousand dollars.
+
+Investigators spent several months examining FinCEN records and other financial data, leading to the execution of a search warrant on the defendant and several businesses. Investigators also seized nearly $100,000.
+
+The defendant confessed to his actions in this case and was sentenced to more than three years in prison followed by five years of supervised release for structuring financial transactions and committing bank fraud. The lead investigator in the case noted how important FinCEN records were to making the case as not only did the case start from a SAR, but virtually every important lead was generated through FinCEN data.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues,* 21, May 2012]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Depository Institutions
+
+BSA Violations
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

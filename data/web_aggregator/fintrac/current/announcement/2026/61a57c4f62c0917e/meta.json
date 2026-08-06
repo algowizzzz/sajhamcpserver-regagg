@@ -1,0 +1,24 @@
+{
+  "doc_id": "61a57c4f62c0917e",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Module 1: General specifications",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/reporting-declaration/batch-lots/mod1-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:33cd9daf0f36cd8e5a24ccfdc1a669c55e2acc99b94c3096f1be11b75638987c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/61a57c4f62c0917e",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

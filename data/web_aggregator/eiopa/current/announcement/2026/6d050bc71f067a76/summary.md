@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) launched a consultation paper on its first set of advice to the [European Commission](/document/download/be1f5605-cd75-497d-aff2-15c93d34873e_en?filename=cfa_annex.pdf) on the Solvency II review. The main g

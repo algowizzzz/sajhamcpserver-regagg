@@ -1,0 +1,25 @@
+{
+  "doc_id": "1b81a07ec6ae2acf",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "Nervousness ripples through Alberta housing market as referendum on separation looms",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/investing/personal-finance/article-nervousness-ripples-through-alberta-housing-market-as-referendum-on/",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:54dcd640382be6dc18ea6175cc523cb356871063d74b2072ead3ad6dd3e73c39",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/1b81a07ec6ae2acf",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/investing/personal-finance/article-nervousness-ripples-through-alberta-housing-market-as-referendum-on/",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,1 @@
+Summary: # State Jury Convicts Defendant of Structuring to Avoid BSAReporting Requirements

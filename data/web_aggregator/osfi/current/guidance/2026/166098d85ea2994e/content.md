@@ -1,0 +1,55 @@
+# Amendments to the minimum qualifying rate for uninsured mortgages - Letter (2021)
+
+Information
+
+Publication type
+
+Letter
+
+Date
+
+May 20, 2021
+
+Sector
+
+Banks
+
+[Generate PDF](/en/print/pdf/node/320)
+
+Table of contents
+
+Related documents
+
+* [Residential mortgage underwriting practices and procedures - Guideline (2017)](/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017)
+
+**To:** Federally Regulated Lenders
+
+On April 8, 2021, OSFI published a letter proposing a new qualifying rate for uninsured mortgages (i.e., loan-to-value less than 80 percent) and reinforcing the principles of sound mortgage underwriting in [Guideline B‑20 — Residential Mortgage Underwriting Practices and Procedures](/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017 "Residential mortgage underwriting practices and procedures – Guideline (2017)") in light of the current economic environment.
+
+OSFI received over 170 stakeholder submissions in response to its proposal to replace the current benchmark rate with a fixed floor. OSFI thanks those who provided comments. The Annex summarizes the key input from these submissions and OSFI’s response.
+
+Today, OSFI confirms that it is moving forward with its proposal. Effective June 1, 2021, the qualifying rate for all uninsured mortgages should be the greater of the mortgage contractual rate plus 200 basis points or 5.25 percent. OSFI has updated [Guideline B-20 - Residential Mortgage Underwriting Practices and Procedures](/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017 "Residential mortgage underwriting practices and procedures – Guideline (2017)").
+
+Following implementation, OSFI will closely monitor federally regulated financial institution (FRFI) lenders as part of its supervisory activity to ensure that they do not weaken their underwriting criteria, such as extending amortization periods or increasing debt service limits, in order to circumvent the revised qualifying rate for borrowers.
+
+OSFI will review and communicate the qualifying rate at a minimum annually, every December, well in advance of the high-volume housing spring season. OSFI will make a decision based on data from its ongoing monitoring of FRFIs and analytical work on system-wide and sectoral developments. As well, OSFI will consult its federal financial regulatory partners, notably the Department of Finance Canada and the Bank of Canada.
+
+Ben Gully  
+Assistant Superintendent  
+Regulation Sector
+
+## Annex – Summary of Public Consultation Comments and OSFI Responses
+
+| Stakeholder Comments | OSFI’s response |
+| --- | --- |
+| Several respondents indicated their support for OSFI’s proposal, including the commitment to review the calibration periodically.  Conversely, numerous respondents felt the qualifying rate was high enough. The potential impact on first-time homebuyers was a common concern. | The minimum qualifying rate of Guideline B-20 applies to mortgages with a down payment of 20 percent or more.  OSFI will initially set the floor at 5.25 percent to ensure that the financial system is adequately prepared for the possibility of a return to pre-pandemic economic conditions. OSFI will revisit the calibration of the qualifying rate at least annually to ensure it remains appropriate for the risks in the environment. |
+| Some respondents indicated their preference to align the qualifying rate for insured mortgages, as it would be simpler to understand and operationalize. Industry also requested a delayed implementation if the qualifying rates differed.  Other respondents advocated against a corresponding change to the insured qualifying rate given that insured mortgages are more restricted. | The Minister of Finance sets the qualification rules for insured mortgages. Nonetheless, OSFI works closely with its federal regulatory partners, including the Department of Finance Canada.  OSFI is acting expeditiously to address growing vulnerabilities and risks by setting an effective date of June 1, 2021. |
+| Some respondents expressed concern related to new home purchases that close after the effective date of June 1, 2021. | Approved mortgage loans or legal commitments provided before June 1, 2021 and that fund after the effective date would be honoured or funded, as legally required (i.e., using the prior qualification rate).  In some cases, borrowers may have received mortgage eligibility commitments or “pre-approvals” from their FRFI prior to the effective date of June 1, 2021. FRFI lenders have the discretion to underwrite these loans using the prior qualification rate. |
+| A few respondents questioned whether the proposal applied to uninsured mortgages or uninsurable mortgages. | OSFI’s qualifying rate applies to uninsured mortgages. Access to portfolio insurance is subject to mortgage insurers’ requirements and approvals. |
+| Some respondents advocated for a regional approach to the minimum qualifying rate. | Sound underwriting is important across Canada. Changing circumstances (e.g., income reduction, rise in interest rates, additional expenses) can happen to borrowers in any region. |
+| Several respondents suggested alternative approaches to address rapidly rising house prices and growing household indebtedness. These approaches include policy tools such as taxation, eliminating blind bidding, and increasing housing supply. | The policy issues (e.g., house prices, household indebtedness) and tools proposed fall outside the mandate and powers of OSFI.  OSFI focuses on the safety and soundness of federal financial institutions and the stability of the financial system as a whole. The current Canadian housing market conditions create vulnerabilities and risks for FRFI lenders. OSFI is acting within its mandate to mitigate those risks. |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2021-05-20

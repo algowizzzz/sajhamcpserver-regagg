@@ -1,0 +1,49 @@
+# Exemption from requirements for solicitation of proxies by dissidents
+
+Information
+
+Type of document
+
+Transaction instructions
+
+Category
+
+Deemed approval
+
+Last updated
+
+April 2009
+
+Index DA No
+
+7
+
+## Legislative authorities
+
+* sections 156.05 and 746 of the [Bank Act](https://laws-lois.justice.gc.ca/eng/acts/b-1.01/)
+* section 160.05 of the [Trust and Loan Companies Act](https://laws-lois.justice.gc.ca/eng/acts/t-19.8/)
+* sections 164.04 and 789 of the [Insurance Companies Act](https://laws-lois.justice.gc.ca/eng/acts/i-11.8/)
+* section 166.05 of the [Cooperative Credit Associations Act](https://laws-lois.justice.gc.ca/eng/acts/c-41.01/)
+
+## Information Requirements
+
+The applicant is generally expected to provide:
+
+1. rationale for seeking the exemption;
+2. details that would otherwise be required to be included in the dissident’s proxy circular; and
+3. a copy of the form of proxy and any other documents for use in connection with the meeting of shareholders of the Federally Regulated Entity (FRE).
+
+## Administrative Guidance
+
+An application under any of the legislative authorities
+
+1. must comply with the [Form of Proxy Regulations (Banks and Bank Holding Companies)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2001-390/page-1.html);
+2. must not adversely affect the rights of shareholders eligible to vote at the meeting; and
+3. would likely be granted on the condition that the applicant publish in a newspaper of general circulation, in advance of the shareholders’ meeting, information that would substantially conform to the requirements for a dissident’s proxy circular.
+
+*The information requirements and administrative guidance are intended to satisfy typical applications. They have been derived from OSFI’s experience in assessing applications. Applicants who provide all information and material requested can generally expect a more timely assessment of their applications. As appropriate to the circumstances, OSFI may request additional information, take into account other matters, impose terms and conditions, or require undertakings.*
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-01-17

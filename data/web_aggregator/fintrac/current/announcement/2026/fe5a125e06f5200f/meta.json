@@ -1,0 +1,24 @@
+{
+  "doc_id": "fe5a125e06f5200f",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Engagement de la direction en mati\u00e8re de diversit\u00e9 et d\u2019inclusion \u00e0 CANAFE",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/emplo/divers-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7292a9b88800cc146f8609816fbcc8af3fb054c44444b528a768aeca815f372f",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/fe5a125e06f5200f",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

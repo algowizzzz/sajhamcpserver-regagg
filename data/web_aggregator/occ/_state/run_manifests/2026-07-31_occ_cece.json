@@ -1,0 +1,17 @@
+{
+  "run_id": "2026-07-31_occ_cece",
+  "regulator_id": "occ",
+  "logical_date": "2026-07-31",
+  "trigger": "schedule",
+  "detected": 1,
+  "fetched": 1,
+  "ingested": 1,
+  "archived": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://www.occ.gov/news/bulletin-2026-18"
+  ],
+  "duration_s": 0.006
+}

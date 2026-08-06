@@ -1,0 +1,1 @@
+Summary: # Why is Anthropic destroying books? | Kathryn James

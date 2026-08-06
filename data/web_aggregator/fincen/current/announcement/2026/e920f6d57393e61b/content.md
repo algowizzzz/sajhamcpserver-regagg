@@ -1,0 +1,43 @@
+# SARs Identify Money Laundering of Proceeds from the Sale of Marijuana
+
+[090.pdf](/system/files/case_example/090.pdf "090.pdf")
+(23.26 KB)
+
+Four individuals involved in the distribution and sale of marijuana were sentenced to prison terms ranging 12 to 21 months followed by up to 36 months probation. These sentences resulted from guilty pleas by the targets on one count each of money laundering for the manner in which they handled between $350,000 and $600,000 in funds traceable to marijuana trafficking. According to court papers filed, two of the defendants structured cash derived from the sale of marijuana into various accounts and then transferred the funds by check, wire transfer, or cash to the other two targets, operators of a concert promotion and nightclub business. These individuals subsequently used this business as a way to launder the money from the marijuana distribution business, disguising the money as legitimate business receipts and mixing it with proceeds from promotions and concerts.
+
+This investigation was initiated from the analysis of two SARs filed by two separate financial institutions, regarding the deposits of cash to the target’s bank accounts. Many of the deposits were for amounts under $10,000 and structured to avoid the currency reporting requirements. The structured transactions were conducted by depositing cash on consecutive days, making several deposits on the same day, and spreading the deposits among bank accounts at different institutions.
+
+Agencies participating in this investigation include the IRS-Criminal Investigation, the FBI and a local police department.
+
+(Source: IRS-Criminal Investigation)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 6, November 2003]
+
+Tags
+
+Narcotics Trafficking
+
+Involving SARs
+
+Depository Institutions
+
+BSA Violations
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

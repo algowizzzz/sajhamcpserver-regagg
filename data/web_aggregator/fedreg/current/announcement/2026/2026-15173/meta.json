@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-15173",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Cboe BYX Exchange, Inc.; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Amend Rule 11.9(d) Regarding Intermarket Sweep Orders",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/28/2026-15173/self-regulatory-organizations-cboe-byx-exchange-inc-notice-of-designation-of-a-longer-period-for",
+  "reference_number": "2026-15173",
+  "published_date": "2026-07-28",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6a61824388c76f3d197e3858986f6f189be5a635dc8430a5c915cd3a4e9a791e",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-15173",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

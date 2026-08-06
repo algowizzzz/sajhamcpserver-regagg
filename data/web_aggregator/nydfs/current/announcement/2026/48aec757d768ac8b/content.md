@@ -1,0 +1,63 @@
+![Auto Insurance](/sites/default/files/styles/wide_lead/public/media/2026/02/auto-insurance-5.jpg?h=b5f6a62e&itok=VgpRgqmS "Auto Insurance")
+
+[Back To Newsroom](/node/241971)
+
+## Governor Hochul Secures Reforms to Lower Auto Insurance Premiums for New Yorkers
+
+SHARE
+
+### Governor Hochul Secures Reforms to Lower Auto Insurance Premiums for New Yorkers
+
+Governor’s Initiative Will Battle Fraud, Limit Damages Paid Out to Bad Actors and Ensure Consumers, Not Insurance Companies, Are Prioritized  
+  
+New Law Will Cap Excess Insurance Profits And Return Savings To Consumers  
+  
+Reforms Build on Governor’s Ongoing Efforts To Make New York State More Affordable and Put Money Back Into Pockets of Hardworking New Yorkers
+
+**May 27, 2026**
+
+Governor Kathy Hochul today announced reforms to bring down costs of auto insurance rates and tackle fraudulent claims across New York State as part of her FY27 Enacted Budget. The Governor secured common-sense steps to battle fraud, limit damages paid out to bad actors and ensure that consumers, not insurance companies, are prioritized. These reforms build on Governor Hochul’s ongoing efforts to make the state more affordable and put money back into the pockets of hardworking New Yorkers.
+
+“Outdated laws, special interest loopholes and jackpot insurance payouts to bad actors have long forced New Yorkers to pay some of the highest car insurance rates in the nation,” **Governor Hochul said.** “These hardfought reforms are a win for every New Yorker who depends on a car to go to work or drop their kids at school. But it’s bigger than that – I’ve heard from farmers who say these reforms will lower the cost of getting their goods to market and from construction supply companies who say this will lower the cost of building. This is how we are delivering on the promise to tackle the affordability crisis head on.”
+
+New Yorkers’ insurance rates total an average of slightly more than $4,000 annually, nearly $1,500 above the national average. Car insurance rates are driven up by a combination of fraud, litigation, legal loopholes and enforcement gaps. Staged crashes and associated insurance fraud inflate premiums up to $300 a year, according to some estimates. New York’s broken insurance system is not just hurting those who rely on a car to get around, but local businesses that rely on trucking to make ends meet.
+
+The FY27 Enacted Budget includes sweeping reforms designed to help drive down New York’s exorbitantly high auto insurance rates, addressing the root causes by targeting fraud and tackling runaway litigation. No other Governor in a generation has taken on tort reform and walked away with a deal that will result in significant savings for New York consumers and businesses. The Budget also includes provisions that enable prosecutors to seek criminal penalties against any individual responsible for organizing a staged accident, not just the particular individual behind the wheel.
+
+The state of Florida’s Office of Insurance Regulation has issued an analysis demonstrating how its 2023 tort reform package has resulted in a 5.6 percent decrease in the average auto insurance rates across the majority of its market. For example, in 2025, Florida’s largest carrier returned nearly $1 billion in excess profits to 2.7 million policyholders. Florida’s analysis of its declining rates offers a stark contrast with New York’s experience in the same timeframe. Following the implementation of tort reform, Florida reversed its double-digit growth of auto insurance rates in 2023 into a 7.4 percent reduction in the average rates by 2025, showcasing savings for consumers.
+
+**State Senator Jamaal T. Bailey said,** “We cannot ignore the heavy burden that skyrocketing automobile insurance costs are having on New York families all across this state. These high costs impose a significant financial strain on families, often times forcing New Yorkers to make impossible choices at the kitchen table. A car is often times a necessity for parents trying to get to work or to help raise their family. With these automobile insurance reforms we are delivering fairness, relief and financial stability that working families deserve and have needed for far too long. I thank Governor Hochul and my colleagues in government for standing with New Yorkers to help make automobile insurance more affordable.”
+
+**Assemblymember David Weprin said,** “I applaud Governor Kathy Hochul for advancing meaningful reforms in this year’s budget to address rising insurance costs and strengthen protections against fraud and abuse while maintaining important safeguards to ensure that innocent New Yorkers who are legitimately injured can still access the coverage and compensation they deserve.”
+
+**Limiting Damages for Individuals Engaging in Unlawful Behavior at the Time of an Accident**
+
+Caps damages for drivers engaging in criminal behavior at the time of the incident, to ensure drivers flouting the law — including uninsured motorists, drunk drivers, and drivers in the act of committing a felony — don’t walk away with a jackpot payday at the expense of everyone else.
+
+**Tightening the Serious Injury Threshold**
+
+Improves statutory definitions to clarify what actually constitutes a ‘serious injury’ so that damages for pain and suffering or emotional distress are reserved for those able to objectively demonstrate that they have suffered a serious injury.
+
+**Limiting Damages for Individuals Who Are “Mostly” At Fault in Causing an Accident**
+
+Ensures that if a driver is found to be mostly at fault for causing an accident, they cannot sue their victims for outsized payments for damages. This change will put New York in line with most other states.
+
+**Applying stringent oversight on insurance companies rates, preventing excess profits, and returning savings to consumers**
+
+Puts consumers first by preventing insurance companies from exorbitantly raising rates by setting a legal threshold that prevents excess profits and returns savings to consumers. Additionally, the Budget creates new regulatory safeguards to prevent insurance companies from raising rates without seeking express approval from the Department of Financial Services.
+
+**Ensuring Fair Rates for Drivers**
+
+Protects consumers by prohibiting insurance companies from setting rates based on extraneous, personal factors like homeownership status, occupation, education level or zip code.
+
+**###**
+
+### Contact the Press Office
+
+Contact us by phone:
+
+(212) 709-1691
+
+Contact us by email:
+
+[[email protected]](/cdn-cgi/l/email-protection#a5d5d0c7c9ccc688c4c3c3c4ccd7d6e5c1c3d68bcbdc8bc2cad3)

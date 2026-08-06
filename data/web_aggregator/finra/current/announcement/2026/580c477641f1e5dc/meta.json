@@ -1,0 +1,27 @@
+{
+  "doc_id": "580c477641f1e5dc",
+  "regulator_id": "finra",
+  "doc_type": "announcement",
+  "title": "id me StepByStep SelfService",
+  "language": "en",
+  "source_url": "https://www.finra.org/sites/default/files/2025-11/id-me-StepByStep-SelfService.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:872f2cd9f5db76ce8d9583e579eef2c22b567c5d598633ca15167554210d0b2c",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_finra_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/finra/current/announcement/2026/580c477641f1e5dc",
+  "tags": [
+    "us",
+    "securities",
+    "broker_dealer"
+  ],
+  "final_url": "https://www.finra.org/sites/default/files/2025-11/id-me-StepByStep-SelfService.pdf",
+  "fetch_method": "pdf_to_md"
+}

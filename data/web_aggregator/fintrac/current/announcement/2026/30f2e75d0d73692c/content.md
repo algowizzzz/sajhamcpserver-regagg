@@ -1,0 +1,46 @@
+# Administrative monetary penalty imposed on 857132 Ontario Limited
+
+**From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)
+
+[**2023-08-24**]
+
+857132 Ontario Limited, also operating as Diamonds For Less, a dealer in precious metals and precious stones in Toronto, Ontario was imposed an administrative monetary penalty of $99,314 on June 1, 2023, for committing 5 violations. The violations were found during the course of a compliance examination in 2021. The case is closed.
+
+## Nature of violation
+
+Violation #1
+:   **Failure to submit a large cash transaction record in respect of every amount in cash of $10,000 or more that is received from a client in the course of a single transaction – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 39(2)**
+      
+      
+    857132 Ontario Limited failed to submit a large cash transaction report for the receipt of $10,000 or more in cash.
+
+Violation #2
+:   **Failure to appoint a person to be responsible for the implementation of a compliance program – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 71(1)(a)**
+      
+      
+    857132 Ontario Limited did not ensure that the appointed person was responsible for implementing a compliance program.
+
+Violation #3
+:   **Failure to develop and apply written compliance policies and procedures that are kept up to date and, in the case of an entity, are approved by a senior officer – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 71(1)(b)**
+      
+      
+    857132 Ontario Limited failed to develop written compliance policies and procedures.
+
+Violation #4
+:   **Failure to assess and document the risk of a money laundering or terrorist financing offence, taking into consideration prescribed factors – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 71(1)(c)**
+      
+      
+    857132 Ontario Limited failed to assess and document the money laundering or terrorist activity financing risks.
+
+Violation #5
+:   **Failure to develop and maintain a written ongoing compliance training program – Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, paragraph 71(1)(d)**
+      
+      
+    857132 Ontario Limited failed to develop and maintain a written ongoing compliance training program.
+
+## Related link
+
+* [News release: FINTRAC imposes an administrative monetary penalty on 857132 Ontario Limited](/new-neuf/nr/2023-08-24-eng)
+
+Date Modified:
+:   2023-08-24

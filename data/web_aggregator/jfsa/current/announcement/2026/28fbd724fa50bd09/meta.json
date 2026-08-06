@@ -1,0 +1,25 @@
+{
+  "doc_id": "28fbd724fa50bd09",
+  "regulator_id": "jfsa",
+  "doc_type": "announcement",
+  "title": "Policies & Councils: FSA",
+  "language": "en",
+  "source_url": "https://www.fsa.go.jp/en/policies_councils/index.html",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:20e68dc072bc454ee9180cb2dadf63be0684e20b8d5130c927c7e614d0d64b97",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_jfsa_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/jfsa/current/announcement/2026/28fbd724fa50bd09",
+  "tags": [
+    "japan",
+    "banking",
+    "securities"
+  ]
+}

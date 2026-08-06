@@ -1,0 +1,27 @@
+{
+  "doc_id": "7e3083e55634c69d",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA and the Bermuda Monetary Authority sign a Memorandum of Understanding - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-and-bermuda-monetary-authority-sign-memorandum-understanding-2017-01-17_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:202fdc16d930326a0da81b8683035b9b4c9b30c9619a5e53465ebdf9b47bfe72",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/7e3083e55634c69d",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-and-bermuda-monetary-authority-sign-memorandum-understanding-2017-01-17_en",
+  "fetch_method": "html_to_md"
+}

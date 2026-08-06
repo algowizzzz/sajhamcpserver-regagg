@@ -1,0 +1,30 @@
+## More in this Section
+
+Press Release
+
+# SEC Announces Four New Members of Investor Advisory Committee
+
+For Immediate Release
+
+2026-50
+
+Washington D.C., June 1, 2026 —
+
+The Securities and Exchange Commission today announced four new members to fill vacancies on its Investor Advisory Committee. Three of the four new members will serve four-year terms, while the fourth new member will serve as the designated representative of the interests of senior citizens.
+
+These four new members join nine current committee members. The committee, established pursuant to Section 39 of the Securities Exchange Act of 1934, advises the Commission on regulatory priorities and initiatives to protect investors and promote the integrity of the U.S. securities markets.
+
+"I thank each of the new members for their willingness to serve on the Investor Advisory Committee,” said SEC Chairman Paul S. Atkins. “Their perspectives and expertise will be vital to the Committee’s work and I look forward to their contributions to the public dialogue on the important issues facing investors.”
+
+The newest members of the Investor Advisory Committee are:
+
+* Patrick Daugherty, a Partner at the law firm of Foley & Lardner
+* John Liu, a senior citizen investor and former Managing Director at Accenture and co-founder of Agile Partners, who will serve as the representative of the interests of senior citizens
+* Sheldon L. Ray Jr., former Senior Vice President, Investments, Portfolio Manager, at Raymond James & Associates
+* Adriana Z. Robertson, Professor of Business Law at the University of Chicago Law School
+
+The Commission appreciates all the candidates who expressed an interest in serving as a member of the Investor Advisory Committee in response to the invitation of interest announced earlier this year and expects that a similar announcement seeking additional candidates to serve as members will be issued in late 2026 or early 2027.
+
+###
+
+Last Reviewed or Updated: June 1, 2026

@@ -1,0 +1,1 @@
+Summary: # Reporting electronic funds transfers to FINTRAC : FINTRAC’s compliance guidance

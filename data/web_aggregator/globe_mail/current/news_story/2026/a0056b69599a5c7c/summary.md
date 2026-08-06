@@ -1,0 +1,1 @@
+Summary: # For farmers, data is the hottest new commodity as digital agriculture hits Canadian fields

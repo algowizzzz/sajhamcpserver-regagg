@@ -1,0 +1,24 @@
+{
+  "doc_id": "9f7ab79a9c5730a8",
+  "regulator_id": "sec",
+  "doc_type": "announcement",
+  "title": "SEC Proposes Rescission of Regulation NMS Rules 611 and 610(e)",
+  "language": "en",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-54-sec-proposes-rescission-regulation-nms-rules-611-610e",
+  "reference_number": null,
+  "published_date": "2026-06-11",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8d4e9c11e4c2cb95c4d921b164a92447d3f33622a32eb18de51ba62365bef48f",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_sec_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/sec/current/announcement/2026/9f7ab79a9c5730a8",
+  "tags": [
+    "us",
+    "securities"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "31fa1a0a998a4feb",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Currency Transaction Reporting: Aggregation by Casinos at Slot Machines | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/currency-transaction-reporting-aggregation",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:dee260fdf7b2d0367629f09d9378cd6e8cda1e87dedb25d352cf3e752a52979b",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/31fa1a0a998a4feb",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

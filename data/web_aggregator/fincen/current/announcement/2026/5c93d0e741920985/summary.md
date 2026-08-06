@@ -1,0 +1,1 @@
+Summary: # FinCEN Issues Ruling (FIN-2008-R010) on Whether a Company that Engages in Certain Operations as an Authorized Agent for Collection of Social Security and Veteran Benefits is a Money Services Business

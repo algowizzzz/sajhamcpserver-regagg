@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published the third in a series of papers with the aim of contributing to the debate on systemic risk and macroprudential policy. Until now, the debate has mainly focused on the banking sector due to its pr

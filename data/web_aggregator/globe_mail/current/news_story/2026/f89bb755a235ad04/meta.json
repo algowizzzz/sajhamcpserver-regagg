@@ -1,0 +1,25 @@
+{
+  "doc_id": "f89bb755a235ad04",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "Business Brief: Five ideas for a stronger Canada",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/business/article-business-brief-five-ideas-for-a-stronger-canada/",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ae44306e89bd237fd1d101f73a9b6aae177d82abb130b155fdb99131a22e9f21",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/f89bb755a235ad04",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/business/article-business-brief-five-ideas-for-a-stronger-canada/",
+  "fetch_method": "feed_summary"
+}

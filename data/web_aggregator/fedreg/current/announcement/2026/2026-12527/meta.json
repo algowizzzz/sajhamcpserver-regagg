@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12527",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Rules 2627 And 2628 To Integrate Several Definitions and Concepts From the Amended CTA/CQ Plan, Reorganize Rule 2622, and Make Conforming Changes to Related Rules",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/23/2026-12527/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-and-immediate-effectiveness-of-a",
+  "reference_number": "2026-12527",
+  "published_date": "2026-06-23",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:dab16ccfe841a95d9f55fa6f3b3a7dffa2878b603b75ee36f5fd0c61a9fd2f85",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12527",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

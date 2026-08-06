@@ -1,0 +1,1 @@
+Summary: # Relevés d’assurance hypothécaire – Section III – Définitions

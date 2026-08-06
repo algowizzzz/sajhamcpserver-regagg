@@ -1,0 +1,24 @@
+{
+  "doc_id": "02c33c9eceec2a97",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "CANAFE impose une p\u00e9nalit\u00e9 administrative p\u00e9cuniaire \u00e0 la Banque Laurentienne du Canada",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/new-neuf/nr/2022-04-29-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:aa17c6dbc7bb36b782d81002f805da4c39697216b19d6a78c282d22781e14806",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/02c33c9eceec2a97",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

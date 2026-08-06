@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published the findings of its peer review examining how national competent authorities (NCAs) assess the propriety of administrative, management or supervisory body (AMSB) members and qualifying shareholder

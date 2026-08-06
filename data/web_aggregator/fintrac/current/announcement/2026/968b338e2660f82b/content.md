@@ -1,0 +1,314 @@
+# Guide on harm done assessment for suspicious transaction reports violations
+
+## On this page
+
+1. [Introduction](#s1) 
+   * 1.1 [Purpose of the guide](#s1-1)
+   * 1.2 [Definition of harm](#s1-2)
+   * 1.3 [Considering harm in AMP calculations](#s1-3)
+2. [Reporting suspicious transactions and prescribed information](#s2)
+   * 2.1 [Violation related to reporting suspicious transactions and prescribed information](#s2-1)
+   * 2.2 [Harm done in the case of a violation related to reporting suspicious transactions and prescribed information](#s2-2)
+   * 2.3 [Penalty determination for a violation related to reporting suspicious transactions and prescribed information](#s2-3)
+   * 2.4 [Penalty determination for a violation related to reporting prescribed information—STRs with missing, incomplete, inaccurate or insufficiently detailed information (data quality)](#s2-4)
+   * 2.5 [Non-compliance in the case of information that serves more than one purpose](#s2-5)
+3. [Violation related to STR reporting timeline](#s3) 
+   * 3.1 [Harm done in the case of a violation related to STR reporting timeline](#s3-1)
+   * 3.2 [Penalty determination for a violation related to STR reporting timeline](#s3-2)
+4. [Violations related to submitting STRs in accordance with FINTRAC's guidelines](#s4) 
+   * 4.1 [Harm done in the case of violations related to submitting STRs in accordance with the guidelines](#s4-1)
+   * 4.2 [Penalty determination for violations related to submitting STRs in accordance with the guidelines](#s4-2)
+5. [Violations related to keeping a copy of an STR](#s5)
+6. [Repeated instances of a given violation](#s6)
+
+## 1. Introduction
+
+This page presents how we assess the harm done and calculate the base penalty amount applied to suspicious transaction reporting violations.
+
+### 1.1 Purpose of the guide
+
+This guide presents how FINTRAC approaches the harm done criterion and the base penalty amount for violations under the *Proceeds of Crime (Money Laundering) and Terrorist Financing Act* (the Act) and its regulations. According to section 73.11 of the Act, FINTRAC must consider the harm done by a violation, that the purpose of an administrative monetary penalty (AMP) is to encourage compliance rather than to punish, and all other criteria in the regulations, including a reporting entity's (RE) history of compliance, when determining the amount of a penalty. Considerations for the non-punitive nature of an AMP and an REs compliance history are assessed in another step in the penalty calculation and are outlined separately in FINTRAC's [AMP policy](/pen/2-eng).
+
+### 1.2 Definition of harm
+
+FINTRAC defines "harm" as the degree to which a violation interferes with achieving the objectives of the Act[Footnote 1](#fn1) or with FINTRAC’s ability to carry out its mandate[Footnote 2](#fn2). Therefore, the consequences of non-compliance, when an AMP is imposed, are linked to its effects on Canada's efforts to combat money laundering and terrorist activity financing (ML/TF).
+
+Compliance enforcement activities are undertaken to prevent and correct the harm that comes from non-compliance with the Act and regulations. REs' adherence to requirements such as record keeping and verifying client identity assists in the deterrence of ML/TF and supports police investigations and criminal prosecutions. The requirements related to reporting ensure that FINTRAC is supplied with the high-quality, timely financial transaction reports it needs to produce the financial intelligence that also helps with the investigation and prosecution of ML/TF offences.
+
+### 1.3 Considering harm in AMP calculations
+
+When determining a penalty, FINTRAC considers the harm caused, that is, the degree to which the non-compliance interferes with the purpose of the Act and/or with FINTRAC's mandate. Non-compliance and harm are measured using the standards described in this guide, which outline the benchmark amounts for the corresponding levels of harm for a specific violation. FINTRAC considers the specific circumstances of each case, including the extent of the non-compliance and mitigating factors, which may further reduce the actual amounts applied.
+
+## 2. Reporting suspicious transactions and prescribed information
+
+Suspicious Transactions Reports (STRs) must be submitted to FINTRAC as they are critical for our analysis work, our ability to produce financial intelligence, and when appropriate, our ability to assist in the investigation and prosecution of ML/TF offences. We use these reports to create a picture of the financial relations between individuals and businesses; and to identify high-risk transactions and ML/TF trends, which in turn help us identify vulnerabilities in Canada's financial system. The information can also improve public awareness of ML and TF matters.
+
+The information contained in STRs allows FINTRAC to reach the required disclosure thresholds. As such, reports not submitted to FINTRAC, or submitted with missing, incomplete or inadequate information harm FINTRAC's ability to analyze, assess and disclose financial intelligence.
+
+Therefore, failing to report a suspicious transaction will directly impact FINTRAC's ability to carry out its mandate, and may interfere with the purpose of the Act as set out in subparagraph 3 (a) (ii). When STRs are not submitted, FINTRAC's ability to perform analysis is obstructed. As a result, FINTRAC's ability to disclose financial intelligence to assist with investigating and prosecuting ML and TF offences may be reduced. Additionally, the failure to submit an STR also obstructs FINTRAC's ability to identify risks and vulnerabilities related to ML/TF in the financial system, and to enhance public awareness and understanding of ML/TF-related matters as set out in paragraphs 40(b) and 40(d) of the Act.
+
+### 2.1 Violation related to reporting suspicious transactions and prescribed information
+
+This section outlines FINTRAC's approach to the violation related to the requirement to submit suspicious transactions, including the harm assessment and penalty calculation.
+
+Table 1—Violation related to reporting suspicious transactions and prescribed information
+
+| Provision of the Act | Provision of the STR Regulations | Description | Classification of violation |
+| **7** | 9 (1) | Failure of a person or entity to include prescribed information in a report | Very Serious   $1—$500,000 |
+
+### 2.2 Harm done in the case of a violation related to reporting suspicious transactions and prescribed information
+
+Unreported transactions have a different impact than submitted reports with data quality issues. This section explains the harm done by failing to report a suspicious transaction and by failing to provide prescribed information in a report submitted.
+
+#### 2.2.1 Unreported suspicious transactions
+
+STRs provide critical information for FINTRAC's analysis and for disclosures to law enforcement, such as names, account numbers, locations and important relationships. STRs also alert FINTRAC to particular transactions or attempted transactions that should be assessed since an RE has concluded that there are reasonable grounds to suspect that a transaction or an attempted transaction is related to the commission or attempted commission of an ML or TF offence.
+
+Failing to report a suspicious transaction has a direct and significant impact on FINTRAC's ability to carry out its mandate. It prevents FINTRAC from using the information to analyze, assess, and disclose to police and law enforcement if certain thresholds are met. This results in a loss of intelligence which can obstruct the purpose set out in paragraph 3 (a) of the Act, which is to assist in the investigation and prosecution of ML and TF offences.
+
+STRs include information such as an RE's grounds for the suspicion that the transaction or attempted transaction is related to the commission or attempted commission of an ML/TF offence, and the actions it has taken. These details allow FINTRAC to prioritize its work to assist law enforcement in their investigations, as well as to assess risk and vulnerabilities in Canada's financial system. STRs are critical to FINTRAC's production of financial intelligence, assist in the detection, prevention and deterrence of ML/TF, and improve public awareness and understanding of ML/TF-related matters, as per paragraphs 40 (b) and 40 (d) of the Act.
+
+#### 2.2.2 STRs with missing, incomplete, inaccurate or insufficiently detailed information (data quality)
+
+The information prescribed in Schedule 1 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Suspicious Transaction Reporting Regulations (STR Regulations) is meant to collect the financial information that is needed to achieve FINTRAC's mandate and the purposes of the Act. The information in an STR is used to identify the individuals and entities involved in the transactions, follow the flow of funds, identify relationships between individuals and entities, uncover related individuals and entities for analysis, identify high-risk transactions, identify risk and vulnerabilities in Canada's financial system, and to enhance the efficiency of FINTRAC's analysis.
+
+When STRs are submitted to FINTRAC with data quality deficiencies, the determination of the penalty considers which of the above purposes would be obstructed and the extent of that obstruction.
+
+### 2.3 Penalty determination for a violation related to reporting suspicious transactions and prescribed information
+
+The Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations (AMP Regulations) allow a penalty ranging from $1 to $500,000 for a violation of the requirement to submit STRs. FINTRAC has identified three types of non-compliance that have an impact on its ability to assess and analyze the information in the reports in order to produce financial intelligence, which are described below.
+
+#### 2.3.1 Levels of harm and penalties for a violation related to reporting suspicious transactions and prescribed information
+
+FINTRAC has identified six levels of harm for different types of non-compliance.
+
+Table 2—Levels of harm and penalties for a violation related to reporting suspicious transactions and prescribed information
+
+| Level of harm | Type of non-compliance | | Description of harm | Penalty (not considering mitigating factors) |
+| Level 1 | STR not submitted | Failure to report suspicious transactions (no previous STR) | Complete loss of financial intelligence—report is not available and cannot be used for analysis | $500,000 |
+| Level 2 | Failure to report additional suspicious transactions (previous STR) | Loss of additional intelligence—additional information is not available for analysis | $250,000 |
+| Level 3 | STR submitted with data quality issues | Failure to provide the names of all parties (individuals and entities) to the transactions | Prevents FINTRAC from performing analysis on all parties to a transaction | $100,000 |
+| Level 4 | Information that identifies all parties (individuals and entities) to the transactions is non-compliant | Prevents FINTRAC from identifying all parties to a transaction | $75,000 |
+| Level 5 | Information that identifies relationships, describes the flow of funds/transactions, or describes the actions taken is non-compliant | Prevents FINTRAC from identifying relationships , following the flow of funds, or identifying the actions taken | $50,000 |
+| Level 6 | Information that enhances the efficiency of FINTRAC’s analysis is non-compliant | Reduces FINTRAC’s ability to perform analysis in a timely, efficient and effective manner; and to identify high-risk transactions and vulnerabilities to Canada’s financial system | $25,000 |
+
+FINTRAC understands that the circumstances resulting in the failure to submit an STR can be very different from one case to another. However, the impact on the achievement of the purposes of the Act and FINTRAC's mandate can be immediate as reports not submitted result in a loss of intelligence. For this reason, the penalties for unreported suspicious transactions are at the upper end of the prescribed range of $1—$500,000.
+
+The highest levels of harm, levels 1 and 2, are applicable to unreported suspicious transactions. They incur the maximum penalties, $500,000 and $250,000 respectively, as they would have the greatest harm on FINTRAC's ability to carry out its mandate, or on the purposes of the Act.
+
+The other levels of harm, levels 3 to 6, are applicable to STRs submitted with data quality issues. They incur penalties of $100,000, $75,000, $50,000 and $25,000 respectively to reflect the lesser degree of harm they pose compared to unreported suspicious transactions, yet must be sufficient to encourage a change in behaviour, which is the purpose of an AMP.
+
+In all situations, relevant mitigating factors will be considered and could reduce the penalty as much as is appropriate. Examples of relevant mitigating factors are provided below.
+
+#### 2.3.2 Penalty amount for an unreported suspicious transaction
+
+To determine the penalty for an unreported suspicious transaction (see levels 1 and 2 in [Table 2](#tb2)), FINTRAC will consider the factors described below to determine the penalty.
+
+#### 2.3.3 Level 1 harm—Failure to report suspicious transactions (no previous STR submitted)
+
+When an STR is not submitted to FINTRAC, the first consideration for the harm done is the loss of intelligence. Therefore, the most important factor to consider is whether an STR has previously been submitted about that same client, for a similar transaction and suspicion. When STRs have not previously been submitted about a given client for similar transactions and suspicions, we believe that this poses significantly more harm to the achievement of the objectives set out in paragraphs 3 (a) and 40 (b) of the Act, because missing reports lead to a total loss of intelligence for FINTRAC, and does not alert us to the high-risk transactions which have a direct impact on our mandate. The maximum penalty (up to $500,000 per instance) will be considered for these cases.
+
+The maximum penalty of $500,000 is applied when a suspicious transaction is not reported and:
+
+1. No previous STR has been submitted to FINTRAC about suspicious transactions conducted or attempted by the person or entity in question;
+2. There are no factors mitigating the risk of ML/TF.
+
+This situation is the worst scenario and poses the highest level of harm because FINTRAC does not have the information it needs to produce financial intelligence, achieve its mandate and contribute to the objectives of the Act. As there are no factors mitigating the risk of ML/TF, the unreported suspicious transactions, and risks and vulnerabilities to the financial system remain undetected.
+
+However, in cases where an STR has not been submitted to FINTRAC but there were mitigating factors, the $500,000 penalty will be lowered as described in the section [Mitigating factors for unreported suspicious transactions](#s2-3-5).
+
+#### 2.3.4 Level 2 harm—Failure to report additional suspicious transactions (previous STR submitted)
+
+When an RE does not submit a report about a suspicious transaction but had previously submitted reports about that client's suspicious transactions, FINTRAC has already been alerted. Consequently, a lower penalty ($250,000) is applied.
+
+A penalty $250,000 is applied when a suspicious transaction is not reported and:
+
+1. At least one STR has been submitted previously about a similar transaction raising a similar suspicion that it is related to the commission or attempted commission of an ML/TF offence and was conducted by the same client, and;
+2. There are no other factors mitigating the risk of ML/TF.
+
+Although an STR was not submitted to FINTRAC, the RE had previously submitted STRs about the client for similar transactions and suspicions. Therefore, FINTRAC has already been alerted to similar high-risk transactions conducted by this client.
+
+In situations where there are mitigating factors, the penalty of $250,000 will be lowered as described in the section [Mitigating factors for unreported suspicious transactions](#s2-3-5).
+
+#### 2.3.5 Mitigating factors for unreported suspicious transactions
+
+This section describes mitigating factors that should be taken into account in the penalty calculation. Discretion and reasonability must be exercised, as each situation will be unique.
+
+There are two types of mitigating factors, those:
+
+1. Present as a result of actions or measures taken by the RE
+2. Present due to circumstances, the transaction and/or the client.
+
+The determined penalty amount must consider the facts of each case. FINTRAC will consider all relevant factors and determine a penalty that is in line with the extent of the mitigation. The presence of multiple mitigating factors may significantly reduce the level of harm caused by a violation; therefore the penalty could potentially be reduced to the prescribed minimum amount, $1.
+
+Aggravating factors are not considered in the calculation of the penalty as they are already considered in the decision to apply an administrative monetary penalty (AMP).
+
+##### Mitigating factors and penalty reductions
+
+Since mitigating factors could reduce the harm to the achievement of the purposes of the Act and FINTRAC's mandate, penalties for not submitting STRs can be reduced. The reductions that can be applied to penalties are of $75,000 for major mitigating factor, and $25,000 for minor mitigating factor. These amounts represent 15% and 5% respectively of the maximum penalty ($500,000) for unreported suspicious transactions, as major mitigating factors would reduce the harm to the achievement of the purposes of the Act and FINTRAC's mandate more greatly than minor mitigating factors.
+
+As stated above, the greater the number of mitigating factors present, the greater the reduction in the harm to the achievement of the purposes of the Act and FINTRAC's mandate. Multiple mitigating factors could significantly reduce the harm caused by the failure to report a suspicious transaction; therefore, the penalty would be reduced cumulatively with each mitigating factor.
+
+Table 3—Examples of mitigating factors in the case of a violation related to an unreported STR
+
+| Major factors—$75,000 reduction each | Minor factors—$25,000 reduction each |
+| All transactions reported in Large Cash Transaction Reports (LCTR) / Electronic Funds Transfer Reports (EFTR) / Casino Disbursement Reports (CDR) | Enhanced ongoing monitoring conducted |
+| Information provided to law enforcement | Client information was updated |
+| Transaction cancelled/reversed/rejected | Source of funds was identified/confirmed |
+| STR submitted after FINTRAC's discovery |
+| Individuals already convicted of ML/TF offences for same period |
+
+##### Major mitigating factors
+
+Major mitigating factors are measures or actions taken by an RE that significantly reduce the harm to the achievement of the purposes of the Act and FINTRAC's mandate. Each major mitigating factor reduces a penalty by $75,000. FINTRAC will consider all the factors that mitigate harm to the same degree as the factors listed below, which are given as examples but do not constitute a complete list.
+
+**All transactions were reported in prescribed reports (LCTRs/CDRs/EFTRs)**
+
+When an RE fails to submit an STR where there are reasonable grounds to suspect that a transaction was related to the commission or attempted commission of an ML/TF offence, but has reported the transaction in a different prescribed report, FINTRAC's ability to analyze and disclose information to police and law enforcement is significantly less affected, because the transactional information is available to FINTRAC for analysis and the production of financial intelligence. However, there is still harm to Canada's AML/ATF regime because important information provided in STRs is not provided to FINTRAC (for example, a detailed description of the grounds to suspect that the transaction or attempted transaction is related to the commission of an ML/TF offence, which has high analytical value). As a result, we would not be alerted to the suspicion and the additional risks posed by the transaction that was reported in an LCTR, EFTR or CDR.
+
+**Information was provided directly to law enforcement**
+
+Providing important information directly to law enforcement reduces the harm to the achievement of the purposes of the Act because they may be able to act upon the information in support of Canada's AML/ATF regime. However, there is still harm to the regime and to FINTRAC's mandate as the information was not made available to FINTRAC. FINTRAC, as a Financial Intelligence Unit, is able to see specific transactions from a broader, coordinated perspective. We look at specific transactions that are flagged as suspicious in conjunction with financial transaction reports from other REs, and voluntary information received from law enforcement and the public. These additional sources of information can add significant value by allowing us to identify domestic and international links and to provide a better picture of the circumstances surrounding suspicious transactions, which can better support investigations and prosecutions of ML/TF offences.
+
+**Transaction cancelled/reversed/rejected**
+
+When an RE cancels, reverses or rejects a suspicious transaction, it participates in the achievement of some purposes of the Act by detecting and preventing potential proceeds of crime or funds destined to finance terrorist activity, from entering Canada's financial system. However, there is still harm to the achievement of the other purposes of the Act and to FINTRAC's mandate because the client that made the transaction may use other financial institutions. If FINTRAC is not made aware of a particular transaction, related suspicions and the parties involved, FINTRAC cannot assess and disclose the information to police in a timely manner.
+
+##### Minor mitigating factors
+
+Minor mitigating factors are factors that are specific to the circumstances of a suspicious transaction and that mitigate harm, although they do so less significantly than major mitigating factors. Each minor mitigating factor reduces a penalty by $25,000. FINTRAC will consider all the factors that mitigate harm to the same degree as the factors listed below, which are given as examples but do not constitute a complete list.
+
+**Enhanced ongoing monitoring was conducted**
+
+When an RE performs enhanced ongoing monitoring on a business relationship, it is evaluating the client, transactions and activities more closely and more frequently, including keeping information on the business relationship up to date, reassessing risk levels, determining if activities are consistent with the information obtained, and detecting suspicious transactions that are required to be reported.  While this could reduce harm by helping in the detection of ML/TF and make any up-to-date information on the business relationship available to law enforcement or in future reports to FINTRAC, there is still considerable harm done as FINTRAC cannot analyze and disclose the information to police and law enforcement.
+
+**Client information was updated**
+
+When an RE updates a client's information, it gathers current, relevant or additional information that might be used by law enforcement; it may also deter criminals from abusing the financial system, thereby reducing some of the harm done to the achievement of the purposes of the Act. The updated client information can also be used in future reports to FINTRAC. However, there is still considerable harm to the achievement of the purposes of the Act and FINTRAC's mandate, as FINTRAC cannot analyze and disclose the information to police and law enforcement, nor can it analyze the information to enhance public awareness and understanding of ML/TF-related matters.
+
+**Source of funds was identified or confirmed**
+
+When an RE identifies or confirms the source of the funds used by a client, such as for politically-exposed foreign persons or as part of special measures implemented by the RE for high risks, it gathers information that might be used by law enforcement, thereby reducing some of the harm done to the achievement of the purposes of the Act. The information may also be provided to FINTRAC in future reports. However, there is still considerable harm to the achievement of the purposes of the Act and FINTRAC's mandate, as FINTRAC cannot analyze and disclose the information to police and law enforcement.
+
+**The suspicious transaction was reported after it was discovered by FINTRAC**
+
+Harm could be reduced in situations where an STR is submitted after the non-compliance was flagged by FINTRAC, since with the information FINTRAC can conduct its analysis work. However, there could still be considerable harm to the achievement of the purposes of the Act and FINTRAC's mandate, as FINTRAC cannot assess and analyze information until it comes into its possession. As well, had FINTRAC not detected the suspicious transaction, the information may have never been sent.
+
+**The client involved in the suspicious transaction has already been convicted of ML/TF offences over the same period**
+
+When a client has already been convicted of a ML/TF offence involving the unreported suspicious transaction in question, the harm done could be reduced. Reporting the transaction to FINTRAC would not support the already concluded investigation and prosecution. However, there continues to be potential harm to the achievement of the purposes of the Act and FINTRAC's mandate, as FINTRAC cannot analyze the information to discover other potential links and relationships.
+
+### 2.4 Penalty determination for a violation related to reporting prescribed information—STRs with missing, incomplete, inaccurate or insufficiently detailed information (data quality)
+
+When FINTRAC receives STRS with missing, incomplete, incorrect, or inadequately detailed information, it considers the report in its entirety. We determine how the non-compliance prevents us from performing the analysis that leads to the fulfillment of our mandate, or how the non-compliance obstructs the achievement of the purposes of the Act.
+
+As explained above, the upper end of the prescribed penalty range of $1 - $500,000 is used to determine the penalty amount for failing to report a suspicious transaction because this violation harms greatly the achievement of the purposes of the Act and of FINTRAC's mandate. With respect to non-compliance in reporting the information prescribed in Schedule 1 of the STR Regulations, which are cases when STRs are submitted with missing, incorrect, inadequate or incomplete information, the harm to the achievement of the purposes of the Act and FINTRAC's mandate is less than the harm that comes from the failure to report an STR. Therefore, the lower end of the prescribed penalty range is applied and scale used for violations related to STR data quality ranges from $1 to $100,000. This scale is in line with that which is prescribed for serious violations because next to receiving the STR, the accuracy and completeness of the information provided in an STR is of utmost importance for FINTRAC's analysis. To meet the purpose of the Act and its mandate, FINTRAC is authorized to receive all of the information prescribed in Schedule 1 of the STR Regulations. We use this information to create a picture of financial relations between individuals and entities that have been alerted to be at a higher risk of being related to an ML/TF offence, which in turn help us produce valuable financial intelligence that assists police, security agencies and other law enforcement. When prescribed information is not included, complete, accurate, or sufficiently detailed, we will consider which of these purposes would be hindered and to which extent, in our determination of the penalty amount.
+
+For a STR data quality violation, FINTRAC has identified four levels of harm based on the effect of the non-compliance on its ability to assess and analyze the report to produce financial intelligence. Accordingly, the $1 to $100,000 range is divided into four to represent the different levels of harm. The highest amount within this range, $100,000, is assigned for a data quality violation that has the highest impact on FINTRAC's ability to assess and analyze an STR. The amount for the lowest level for a penalty determination in this range is $25,000, before mitigating factors. The penalty amount may be reduced based on mitigating factors, but the reduced penalty amount must still be sufficient to encourage compliance and a change in behaviour, which is the purpose of an AMP.
+
+[Table 2](#tb2) details the levels of harm, the types of non-compliance and their corresponding penalties. They are listed in order of importance to the achievement of the purposes of the Act and FINTRAC's mandate. When an instance of non-compliance can be applied to more than one level of harm, the penalty will be based on the highest level of harm. Relevant mitigating factors will be considered and could reduce the penalty to as little as $1, as prescribed in the AMP Regulations.
+
+FINTRAC will apply the criteria presented below to determine an amount in keeping with the harm done to the achievement of the purposes of the Act and FINTRAC's mandate when determining the penalty for STRs that are non-compliant with the information prescribed under Schedule 1 of the STR Regulations (see levels 3 to 6 in [Table 2](#tb2)).
+
+**Note**: STRs that do not contain the full name of at least one individual or entity (except for attempted transactions), at least one completed or attempted transaction, a completed G section (reasonable grounds to suspect) and the RE's information cannot be used by FINTRAC for analytical purposes, therefore they are treated as unreported and incur the penalty scale described in [Table 2](#tb2). However, FINTRAC will take into consideration instances where an RE is unable to obtain required information because it may "tip off" the individual that a suspicious transaction report may be filed.
+
+#### 2.4.1 Level 3 harm—Failure to provide the names of all parties to the transactions
+
+For a STR data quality violation, failing to provide the names of all the parties to a transaction, if it possesses the information, has the greatest impact on FINTRAC's ability to fulfill its mandate, to analyze reports and to disclose financial intelligence information. At a minimum, the name of one individual or entity that is party to the transaction alerts FINTRAC to a potential high-risk situation and warrants scrutinizing the transactions of individuals or entities of that name. Without the names of the individuals and entities involved in a suspicious transaction, FINTRAC is not alerted to the risk and is unable to perform the required analysis. As such, the penalty is the highest assigned to a STR quality violation, $100,000. This amount reflects the significant impact of the non-compliance on FINTRAC's ability to fulfill its mandate.
+
+#### 2.4.2 Level 4 harm—Information that identifies all parties to the transactions is non-compliant
+
+The second most harmful data quality violation is the failure to provide information that confirms the identity of all the parties to the transaction. This type of non-compliance may prevent FINTRAC from determining whether a person or an entity involved in the transaction is the subject of its analysis, therefore limiting its ability to disclose the information to the police. While having some information is less harmful than not having any names reported, because FINTRAC cannot fully use the information to fulfill its mandate, the penalty for this violation is the second highest of the data quality deficiency penalties, $75,000.
+
+#### 2.4.3 Level 5 harm—Information that identifies relationships, describes the flow of funds and transactions or describes the action taken is non-compliant
+
+FINTRAC uses this information to understand the transactions that took place, follow the flow of funds and uncover new relationships that may be relevant to ML/TF investigations. Not providing this information may prevent FINTRAC from assisting in the detection, prevention and deterrence of ML and TF because the information can uncover new leads and help us better understand the transactions and relationships. However, because FINTRAC can still use the report to identify the transactions and individuals involved, the penalty for this violation is of $50,000, the third-highest amount. This amount reflects the importance of the information for FINTRAC's analysis while also recognizing it is relatively less harmful to the achievement of the purposes of the Act and FINTRAC's mandate than the two preceding categories.
+
+#### 2.4.4 Level 6 harm—Information that enhances the efficiency of FINTRAC's analysis is non-compliant
+
+Failing to provide complete, accurate and detailed information other than the information presented in the previous levels of harm affects FINTRAC's efficiency and effectiveness in the identification of high-risk transactions, and vulnerabilities in Canada's financial system. For example, we can assess whether the type, frequency, quantity and value of a client's transactions are consistent with their occupation when the fields describing the client's occupation or business type are complete, accurate and sufficiently detailed. FINTRAC's analytical system relies on information being reported in a structured manner in order to flag high-risk transactions and STRs for prioritization, to identify trends and to identify individuals who appear in multiple reports. If those fields contain errors analysts must manually use other means or sources to verify the information for correctness. While the absence of this information does not entirely prevent FINTRAC from performing analysis, it does have an impact on its ability to carry out its mandate efficiently and effectively. Therefore, this type of non-compliance incurs the lowest penalty of a data quality violation, $25,000.
+
+### 2.5 Non-compliance in the case of information that serves more than one purpose
+
+Most of the information required in a report can be used for more than one of the purposes described above. For this reason, when determining the penalty for a non-compliant report that results in more than one level of harm, the penalty is determined at the amount corresponding to the highest level of harm.
+
+When assessing the level of harm and determining a penalty, FINTRAC takes the entire report into consideration. For example, if a report does not include the conductor's date of birth, but the address, telephone number and identification information for that individual are provided, FINTRAC may be able to confirm the identity of this individual by performing additional analysis with other information in the same report. In this case, although the missing information was related to identifying the parties to the transactions (Level 3), by viewing the report in its entirety, it was determined that the harm is at the level of Information that enhances the efficiency of FINTRAC's analysis is non-compliant (Level 6). This is because the missing information diminished the efficiency FINTRAC's analysis, because FINTRAC's analytical systems could not perform without manual intervention. In such a case, the presumptive penalty amount would be $25,000.
+
+## 3. Violation related to STR reporting timeline
+
+This section outlines FINTRAC's approach to the reporting timeline violation for STRs, including the harm assessment and penalty calculation.
+
+Table 4—Violation related to STR reporting timeline
+
+| Provision of the Act | Provision of the STR Regulations | Description | Classification of violation |
+| **7** | 9 (2) | Failure of a person or entity to send a report within the prescribed period | Serious $1—$100,000 |
+
+### 3.1 Harm done in the case of a violation related to STR reporting timeline
+
+When a report is not submitted within the prescribed period, FINTRAC is unable to analyze and disclose that information in a timely manner or the information may not be available at the time that FINTRAC requires it.
+
+FINTRAC reviews and assesses STRs within days of their submission. When necessary, for example, when an STR is related to national security, FINTRAC rushes a disclosure of financial intelligence to police and law enforcement agencies within a day. Therefore, a delay in the submission of an STR may impact FINTRAC's effectiveness in achieving its mandate.
+
+### 3.2 Penalty determination for a violation related to STR reporting timeline
+
+The maximum prescribed penalty amount of $100,000 is considered for late STRs that are related to terrorist financing, national security or an ongoing investigation known to the RE. For all other cases, FINTRAC has chosen a benchmark range of $1 to $10,000 which is in line with subsection 4 (2) of the AMP Regulations which states that a series of minor violations that total $10,000 or more are equal to a serious violation.
+
+If reports are not received in a timely manner, FINTRAC cannot produce financial intelligence that is timely and helps police and law enforcement in their investigations. The longer the delay, the higher the likelihood that FINTRAC may have needed a report that was not submitted. As a result, the penalty increases with the number of days that a report is late. The penalty range is divided into four even intervals to create a scale based on levels of harm. The lowest penalty is $2,500, and may be reduced if there are mitigating factors, while remaining sufficient to encourage a change in compliance behaviour, which is the purpose of an AMP.
+
+Table 5—Levels of harm and penalties for a violation related to STR reporting timeline
+
+| Harm level | Number of days late | Penalty (not considering mitigating factors) |
+| Level 1 | 30 + days | $10,000 |
+| Level 2 | 15 - 29 days | $7,500 |
+| Level 3 | 7 - 14 days | $5,000 |
+| Level 4 | 1 - 7 days | $2,500 |
+
+## 4. Violations related to submitting STRs in accordance with FINTRAC's guidelines
+
+This section outlines FINTRAC's approach to the violations related to submitting STRs in the form and manner specified, including the harm assessment and penalty calculation.
+
+Table 6—Violations related to submitting STRs in accordance with FINTRAC's guidelines
+
+| Provision of the Act | Provision of the STR Regulations | Description | Classification of violation |
+| **7** | 12 (1) | Failure to send report electronically, if the sender has the technical capabilities, in accordance with the guidelines prepared by the Centre | Serious $1-$100,000 |
+| **7** | 12 (2) | Failure to send report in paper format, if the sender does not have the technical capabilities to send electronically, in accordance with the guidelines prepared by the Centre | Serious $1-$100,000 |
+| **7** | 12 (3) | Failure to submit a report in paper format in accordance with the guidelines prepared by the Centre | Serious $1-$100,000 |
+
+### 4.1 Harm done in the case of violations related to submitting STRs in accordance with the guidelines
+
+FINTRAC specifies the form and manner in which prescribed information must be reported so that its systems can validate whether the reports are complete and available immediately for analysis, identify individuals and entities for analysis and flag high-risk transactions and STRs. Failing to submit reports in accordance with the guidelines prepared by the Centre may prevent us from efficiently analyzing information and may even render the information unusable for analysis.
+
+### 4.2 Penalty determination for violations related to submitting STRs in accordance with the guidelines
+
+When an RE fails to submit an STR in the form and manner specified in FINTRAC's guidelines, the penalty amount for the violation is based on the types of non-compliance for STR quality violations (see levels 3 to 6 in [Table 2](#tb2)).
+
+## 5. Violations related to keeping a copy of an STR
+
+This section outlines FINTRAC's approach to the violations related to the requirement to keep a copy of submitted STRs.
+
+Table 7—Violations related to keeping a copy of an STR
+
+| Provision of the Act | Provision of the STR Regulations | Description | Classification of violation |
+| **6** | 12.1 | Failure of a person or entity to keep a copy of a report submitted to the Centre | Minor $1-$1,000 |
+| **6** | 12.3 (1) | Failure of a person or entity to keep a copy of a prescribed report for the prescribed period | Minor $1-$1,000 |
+
+See the [Guide on harm done assessment for record keeping violations](rk-eng) page to find out more about the harm rationale and penalty calculation.
+
+## 6. Repeated instances of a given violation
+
+When a particular violation occurs multiple times, FINTRAC will consider its underlying cause, its type and other relevant facts to assess whether the level of harm should be reduced for the subsequent instances of that violation. For example, should multiple STRs about one person not include that person's occupation, and should this only affect the efficiency of FINTRAC's analysis, it may be appropriate to assess each instance at a nominal 5% of the maximum prescribed penalty amount, regardless of the level of harm of the first occurrence.
+
+## Footnotes
+
+Footnote 1
+:   See section 3 of the Act.
+
+    [Return to footnote 1 referrer](#fn1-rf)
+
+Footnote 2
+:   See section 40 of the Act.
+
+    [Return to footnote 2 referrer](#fn2-rf)
+
+Date Modified:
+:   2019-08-26

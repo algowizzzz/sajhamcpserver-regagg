@@ -1,0 +1,1 @@
+Summary: # Minutes of the Meeting of the Court of Directors held on 23 April 2026

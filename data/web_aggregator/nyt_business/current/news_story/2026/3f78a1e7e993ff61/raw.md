@@ -1,0 +1,7 @@
+# S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease
+
+The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.
+
+[Read the full story at the source](https://www.nytimes.com/2026/08/04/business/stock-market-record.html)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

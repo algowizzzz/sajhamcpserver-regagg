@@ -1,0 +1,24 @@
+{
+  "doc_id": "c5a4b8a2652c503f",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "FinCEN Advisory \u2013 FIN-2010-A001 | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2010-a001",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:94da128ff983c2ef9442a909f3c8184f01b5d84123d818a9d66b62cc60819a28",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/c5a4b8a2652c503f",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "dad84b3dff669385",
+  "regulator_id": "jfsa",
+  "doc_type": "announcement",
+  "title": "FinTech Support Desk : FSA",
+  "language": "en",
+  "source_url": "https://www.fsa.go.jp/en/news/2018/20180717.html",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:0ca2d6214396ebacc4ce1b12f7e154f446b73da4964e097f476b3ad2c5053432",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_jfsa_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/jfsa/current/announcement/2026/dad84b3dff669385",
+  "tags": [
+    "japan",
+    "banking",
+    "securities"
+  ]
+}

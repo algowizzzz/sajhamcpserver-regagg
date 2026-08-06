@@ -1,0 +1,41 @@
+News Release 2026-60
+|
+July 16, 2026
+
+# Agencies Issue Joint Statement on Handling of Highly Sensitive Information During Bank Examinations
+
+Share This Page:
+
+### Joint Release
+
+Federal Deposit Insurance Corporation  
+Federal Reserve Board  
+Office of the Comptroller of the Currency
+
+The federal bank regulatory agencies today issued a joint statement describing enhanced security procedures for review of highly sensitive information in connection with examinations of supervised banks, such as reviewing materials on-site rather than transferring them onto agency systems.
+
+The statement discusses a coordinated approach to identifying highly sensitive data and documents and discusses enhanced procedures for the review of such information to reduce any cybersecurity risks while ensuring that the agencies have access to such information at all times during an examination.
+
+The agencies recognize the importance of keeping a bank’s highly sensitive information confidential and protecting it against disclosure to or from access by unauthorized persons as a result of cybersecurity vulnerabilities. The agencies have committed to notify affected banks of any potential or confirmed material data breach involving confidential supervisory information. They will do so as soon as practicable, and no later than 72 hours after discovery, unless legal restrictions apply.
+
+## Related Link
+
+* [Attachment](/news-issuances/news-releases/2026/nr-ia-2026-60a.pdf "Statement regarding Coordinated Federal Banking Agency Approach for the Handling of Highly Sensitive Information During Examinations") (PDF)
+
+### Media Contacts
+
+FDIC  
+Brian Sullivan  
+(202) 412-1436  
+  
+FRB  
+Darren Gersh  
+ (202) 452-2955  
+  
+OCC  
+Stephanie Collins  
+(202) 649-6870
+
+#### Topic(s):
+
+* [Examination Process](/news-events/newsroom/?topic=Examination%20Process)

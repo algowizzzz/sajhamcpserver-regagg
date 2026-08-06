@@ -1,0 +1,51 @@
+# Case for Mortgage Fraud Involving Straw Buyers Supported by SARs
+
+[Issue15-story6.pdf](/system/files/case_example/Issue15-story6.pdf "Issue15-story6.pdf")
+(9.52 KB)
+
+BSA records helped identify co-conspirators, accounts, and elements of a mortgage fraud scheme that may total as much as $7 million dollars in losses. SAR filings described transactions related to the fraud in both personal and business accounts belonging to the defendant in the case, and CTRs filed by a bank and a money services business identified currency transactions that were consistent with fraudulent activity.
+
+In a scheme that lasted for approximately three years, the defendant and his coconspirators profited by selling residential real estate in the Mid-Atlantic area to individuals acting as straw buyers. The defendant and his co-conspirators, through a business the defendant established, helped the straw buyers obtain 100 percent mortgage financing to purchase the properties. To obtain the mortgage financing, the conspirators produced fraudulent loan applications that included materially false statements related to the buyers’ employment, income, immigration status, and intent to occupy the properties as primary residences. The straw buyers frequently defaulted on these mortgages, causing losses to banks and commercial lenders in excess of $2,500,000.
+
+During the period that the fraud was being perpetrated, several banks filed SARs noting unusual patterns of activity. SARs filed on the defendant’s business note that the applicants for the loans may have overstated employment and inflated salaries, lied about the use of the home as a primary residence, or provided other information that created discrepancies indicative of mortgage fraud. SARs filed on the defendant’s personal accounts highlighted patterns of structured withdrawals as well as cashier’s checks that were cashed in a manner consistent with fraudulent behavior.
+
+Investigators who reviewed the SARs reached out to the respective banks for more information on the defendant and his co-conspirators. The banks continued to monitor the accounts closely, filed additional SARs, and simultaneously notified the lead investigator. A bank noted in one SAR that certain suspect transactions involving official checks did not appear to serve any logical business or personal reason. The bank also noted as unusual the receipt of wires and checks from title companies into a personal account by an individual who has a mortgage lending business.
+
+A federal judge sentenced the defendant to more than five years in prison, followed by supervised release, and ordered him to pay several million dollars in restitution.
+
+---
+
+[Published in The SAR Activity Review - Trends, Tips & Issues, Issue 15, May 2009]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Involving CTRs
+
+Depository Institutions
+
+BSA Violations
+
+Money Services Businesses
+
+Check Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

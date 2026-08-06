@@ -1,0 +1,31 @@
+# Pay and benefits
+
+The Office of the Superintendent of Financial Institutions is a federal government department. We offer competitive salaries and benefits.
+
+## Our collective agreement
+
+As part of the federal public service, we have a collective agreement with the government through the Professional Institute of the Public Service of Canada union.
+
+## Salaries and bonuses
+
+We offer competitive salaries for all levels of employees, based on:
+
+* qualification
+* experience
+* knowledge
+
+With our performance management process, we offer employees performance pay. As an employee, you may be eligible for an annual bonus, a pay raise, or both, depending on your yearly goals and achievements. See Appendix D of our collective agreement for more information on performance pay.
+
+## Employee benefits
+
+As part of the Canadian federal public service, our employees receive a wide range of benefits, including:
+
+* Vacation and other leave
+* Flexible work arrangements
+* [Public service pension plan](https://www.canada.ca/en/treasury-board-secretariat/topics/pension-plan.html)
+* Public service [dental plan](https://www.canada.ca/en/treasury-board-secretariat/topics/benefit-plans/plans/dental-care-plan.html) and [health care plan](https://www.canada.ca/en/treasury-board-secretariat/topics/benefit-plans/plans/health-care-plan.html)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-04-05

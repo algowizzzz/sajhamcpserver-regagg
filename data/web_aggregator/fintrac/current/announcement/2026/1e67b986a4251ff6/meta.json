@@ -1,0 +1,24 @@
+{
+  "doc_id": "1e67b986a4251ff6",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "La Loi sur le recyclage des produits de la criminalit\u00e9 et la v\u00e9rification de l'identit\u00e9 des clients",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/individuals-individus/05-2003/3-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8a2050b51b99a68021a91aad4397467c8fa167983fbe6ec559e58a2c288eb729",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/1e67b986a4251ff6",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

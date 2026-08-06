@@ -1,0 +1,27 @@
+{
+  "doc_id": "dc84accd9324a983",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Updates to the Administrative Procedures for Late and Erroneous Filing Penalty Framework - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/updates-administrative-procedures-late-erroneous-filing-penalty-framework",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b2acfded3e445e641fb56ed89f6d62f7cc7100ec56c70746c9799903e7fea49b",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/dc84accd9324a983",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/updates-administrative-procedures-late-erroneous-filing-penalty-framework",
+  "fetch_method": "html_to_md"
+}

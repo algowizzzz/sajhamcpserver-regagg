@@ -1,0 +1,8 @@
+# Global institutional investors eager to trade Chinese bond futures in Hong Kong, HKEX says
+
+International asset managers, pension funds and insurance companies have shown strong interest in offshore China government bond futures, which are set to start trading in Hong Kong for the first time on Monday, according to senior stock exchange executives.
+The new 5-year China government bond futures contracts will have a size of 500,000 yuan (US$74,051). Bourse operator Hong Kong Exchanges and Clearing (HKEX) has set a low minimum margin ratio so that investors only need to invest 7,980 yuan...
+
+[Read the full story at the source](https://www.scmp.com/business/markets/article/3362586/global-institutional-investors-eager-trade-chinese-bond-futures-hong-kong-hkex-says?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

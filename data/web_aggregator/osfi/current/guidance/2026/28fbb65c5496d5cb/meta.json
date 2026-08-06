@@ -1,0 +1,27 @@
+{
+  "doc_id": "28fbb65c5496d5cb",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Regulatory notice - Culture Risk Management - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-culture-risk-management",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:182322ad55a0559ee9ea0458442b71efda432d8c3297ab173ea6b150dcd85723",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/28fbb65c5496d5cb",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-culture-risk-management",
+  "fetch_method": "html_to_md"
+}

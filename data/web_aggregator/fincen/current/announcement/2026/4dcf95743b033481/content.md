@@ -1,0 +1,45 @@
+# SARs Lead to Discovery of $1.8 Million Hidden in House
+
+[Issue16-story3.pdf](/system/files/case_example/Issue16-story3.pdf "Issue16-story3.pdf")
+(27.22 KB)
+
+In a case started from SARs, investigators executing a search warrant found $1.8 million of unreported income stashed in a closet. Although the defendants legally earned the funds, they established a system to convert business revenues to cash with the explicit purpose of evading taxes. SARs indicated that one of the defendants repeatedly cashed checks, always under $10,000, which it was believed were intended to avoid reporting requirements.
+
+The case started after law enforcement agents gathered evidence to support a search warrant for the defendants’ residence and business. The majority of the proceeds of the tax evasion scheme, nearly $2 million in cash, were seized from the residence and business during the search.
+
+A majority of the gross income for the defendants’ business came from a client business. One of the defendants cashed the majority of the checks from the client business, as well as other checks they received, in increments under $10,000. The cashed business checks were never documented on any bank statements for the business. One of the defendants went to the bank several times a week to cash checks that were written to the defendant personally, rather than in the name of the business. In one three-month period, the defendant cashed almost $500,000 in checks, structuring multiple checks in each day. A review of check cashing transactions revealed that the defendant cashed checks totaling more than $3 million during a 3-year period.
+
+The defendants concealed their actual income by only providing a handwritten summary of their business activity and oral statements to their tax preparer for the completion of their tax returns, neither of which revealed the actual income for their business. The summary only listed the bank deposits as the gross receipts for the business, excluding all the checks cashed by the defendant from the client business.
+
+The defendants pleaded guilty to tax offenses, admitting that they evaded the majority of their income tax liability for several years by understating the gross income during each respective year for their business, resulting in more than $500,000 in lost revenue for the government.
+
+---
+
+[Published in *The SAR Activity Review - Trends, Tips & Issues*, Issue 16, October 2009]
+
+Tags
+
+Involving SARs
+
+Depository Institutions
+
+BSA Violations
+
+Tax Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

@@ -1,0 +1,1 @@
+Summary: # Chorus Aviation reports lower second-quarter profit of $13.8M

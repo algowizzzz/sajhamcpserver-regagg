@@ -1,0 +1,1 @@
+Summary: # Bitcoin and ethereum prices today, Tuesday, August 4, 2026: Investors closely monitoring Clarity Act progress

@@ -1,0 +1,1 @@
+Summary: # Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Monthly Fees for Its Proprietary Market Data Feeds

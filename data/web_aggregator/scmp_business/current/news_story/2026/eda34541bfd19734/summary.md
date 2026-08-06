@@ -1,0 +1,1 @@
+Summary: # Amid slowing hotpot growth in China, Haidilao takes on biggest American burger brands

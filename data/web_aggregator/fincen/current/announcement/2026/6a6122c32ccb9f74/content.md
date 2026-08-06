@@ -1,0 +1,26 @@
+# SAR Technical Bulletins
+
+SAR Stats (formerly By the Numbers) is a compilation of numerical data gathered from the FinCEN Suspicious Activity Reports (Form 111) filed by financial institutions. SAR Stats is published as a full report once a year.
+
+| Title | Date |
+| --- | --- |
+| [SAR Stats Issue 3](/system/files?file=sar_report/2019-10-30/SAR_Stats_3.pdf) | 03/09/2017 |
+| [SAR Stats Issue 2](/system/files?file=sar_report/SAR_Stats_2_FINAL.pdf) | 09/30/2015 |
+| [SAR Stats Issue 1](/system/files?file=sar_report/SAR_Stats_proof_2.pdf) | 06/30/2014 |
+| [By The Numbers Issue 18](/system/files?file=sar_report/sar_by_numb_18.pdf) | 04/30/2013 |
+| [SAR Activity Review Issue 23](/system/files?file=sar_report/sar_tti_23.pdf) | 04/30/2013 |
+| [SAR Activity Review Issue 22](/system/files?file=sar_report/sar_tti_22.pdf) | 09/30/2012 |
+| [By The Numbers Issue 17](/system/files?file=sar_report/sar_by_numb_17.pdf) | 04/30/2012 |
+| [SAR Activity Review Issue 21](/system/files?file=sar_report/sar_tti_21.pdf) | 04/30/2012 |
+| [SAR Activity Review Issue 20](/system/files?file=sar_report/sar_tti_20.pdf) | 09/30/2011 |
+| [By The Numbers Issue 16](/system/files?file=sar_report/sar_by_numb_16.pdf) | 04/30/2011 |
+
+* [News](/news)
+* [Press Releases](/news/press-releases)
+* [Readouts](/news/readouts)
+* [Remarks and Statements](/news/remarks-statements)
+* [Enforcement Actions](/news/enforcement-actions)
+* [Press Contacts](/news/contacts-members-media)
+* [SAR Technical Bulletins](/news/sar-technical-bulletins)
+
+[![paper airplane icon](/themes/custom/fincen/img/paper-airplane-icon.svg)Subscribe to FinCEN News Updates](https://service.govdelivery.com/accounts/USFINCEN/subscriber/new "(opens in a new window)")

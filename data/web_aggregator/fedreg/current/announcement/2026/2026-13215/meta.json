@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-13215",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Joint Industry Plan; Order Approving the Second Amendment to the National Market System Plan Regarding Consolidated Equity Market Data, as Amended by Amendment No. 1 and Modified by the Commission, To Adopt a Fee Schedule",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/01/2026-13215/joint-industry-plan-order-approving-the-second-amendment-to-the-national-market-system-plan",
+  "reference_number": "2026-13215",
+  "published_date": "2026-07-01",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c9cd2252c5d18f2d31691b39a047651355d5cc4458c6a574971d2e6c8bbc0ba7",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-13215",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

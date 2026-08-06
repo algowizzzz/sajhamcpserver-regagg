@@ -1,0 +1,1 @@
+Summary: En décembre 2015, lors d’une conférence sur la lutte contre le blanchiment 

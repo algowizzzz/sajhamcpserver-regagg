@@ -1,0 +1,127 @@
+# Lois et règlements
+
+Nous sommes responsables de l’application des lois et règlements régissant les institutions financières fédérales et les régimes de retraite.
+
+## Sur cette page
+
+## Lois et règlements applicables aux institutions financières fédérales
+
+| **Lois** | **Règlements** |
+| --- | --- |
+| [*Loi sur le Bureau du surintendant des institutions financières*](https://laws-lois.justice.gc.ca/fra/lois/o-2.7/index.html) | [Règlements pris en vertu de la *Loi sur le Bureau du surintendant des institutions financières*](https://laws-lois.justice.gc.ca/fra/lois/O-2.7/index.html#r3lR3g) |
+| [*Loi sur les banques*](https://laws-lois.justice.gc.ca/fra/lois/b-1.01/index.html) | [Règlements pris en vertu de la *Loi sur les banques*](https://laws-lois.justice.gc.ca/fra/lois/B-1.01/index.html#r3lR3g) |
+| [*Loi sur les sociétés de fiducie et de prêt*](https://laws-lois.justice.gc.ca/fra/lois/t-19.8/index.html) | [Règlements pris en vertu de la *Loi sur les sociétés de fiducie et de prêt*](https://laws-lois.justice.gc.ca/fra/lois/T-19.8/index.html#r3lR3g) |
+| [*Loi sur les associations coopératives de crédit*](https://laws-lois.justice.gc.ca/fra/lois/c-41.01/index.html) | [Règlements pris en vertu de la *Loi sur les associations coopératives de crédit*](https://laws-lois.justice.gc.ca/fra/lois/C-41.01/index.html#r3lR3g) |
+| [*Loi sur les sociétés d’assurances*](https://laws-lois.justice.gc.ca/fra/lois/i-11.8/index.html) | [Règlements pris en vertu de la *Loi sur les sociétés d’assurances*](https://laws-lois.justice.gc.ca/fra/lois/I-11.8/index.html#r3lR3g) |
+
+## Lois, règlements et directives applicables aux régimes de retraite fédéraux
+
+La *Loi de 1985 sur les normes de prestation de pension* et le *Règlement de 1985 sur les normes de prestation de pension* s’appliquent aux régimes de retraite privés fédéraux. La Loi sur les régimes de pension agréés collectifs et le *Règlement sur les régimes de pension agréés collectifs* s’appliquent aux régimes de pension agréés collectifs.
+
+| **Lois** | **Règlements** |
+| --- | --- |
+| [*Loi sur le Bureau du surintendant des institutions financières*](https://laws-lois.justice.gc.ca/fra/lois/o-2.7/index.html) | *[Règlements pris en vertu de la Loi sur le Bureau du surintendant des institutions financières](https://laws-lois.justice.gc.ca/fra/lois/O-2.7/index.html#r3lR3g)* |
+| [*Loi de 1985 sur les normes de prestation de pension*](https://laws-lois.justice.gc.ca/fra/lois/p-7.01/index.html) | *[Règlements pris en vertu de la Loi de 1985 sur les normes de prestation de pension](https://laws-lois.justice.gc.ca/fra/lois/P-7.01/index.html#r3lR3g)* |
+| [*Loi sur les régimes de pension agréés collectifs*](https://laws-lois.justice.gc.ca/fra/lois/p-15.3/index.html) | *[Règlements pris en vertu de la Loi sur les régimes de pension agréés collectifs](https://laws-lois.justice.gc.ca/fra/lois/P-15.3/index.html#r3lR3g)* |
+
+### Modifications apportées aux règlements régissant les régimes de retraite
+
+Voir la liste des [modifications apportées aux règlements régissant les régimes de retraite](https://canadagazette.gc.ca/rp-pr/p2/2017/2017-07-12/html/sor-dors145-fra.html) dans la Gazette du Canada.
+
+#### Directives et instructions pour les régimes de retraite et les régimes de pension agréés collectifs fédéraux
+
+Le surintendant des institutions financières peut publier des directives et des instructions portant sur certaines obligations prescrites par la *Loi de 1985 sur les normes de prestation de pension*, le *Règlement de 1985 sur les normes de prestation de pension* et la *Loi sur les régimes de pension agréés collectifs*.
+
+* [*Directives du surintendant conformément à la Loi de 1985 sur les normes de prestation de pension*](/fr/consignes/lois-reglements/directives-du-surintendant-conformement-loi-1985-sur-normes-prestation-pension-en-vigueur-25-fevrier "Directives du surintendant conformément à la Loi de 1985 sur les normes de prestation de pension - En vigueur le 25 février 2021")
+* [*Directives du surintendant conformément à la Loi sur les régimes de pension agréés collectifs*](/fr/consignes/lois-reglements/directives-du-surintendant-conformement-loi-sur-regimes-pension-agrees-collectifs-en-vigueur-25 "Directives du surintendant conformément à la Loi sur les régimes de pension agréés collectifs (en vigueur : 25 février 2021)")
+
+## Politique d’interprétation
+
+Une politique d’interprétation est un document général qui décrit les engagements, les pratiques d’un ministère ou d’un organisme et les outils utilisés lorsqu’il fournit des informations et des consignes à la population et aux entreprises canadiennes sur leurs obligations réglementaires. La politique précise également les conditions à respecter dans les réponses écrites.
+
+Cette politique s’applique aux interprétations fournies aux intervenants au sujet des règlements qu’administre le BSIF et qui sont pris conformément aux lois régissant les institutions financières fédérales et les régimes de retraite fédéraux.
+
+### Prévisibilité
+
+#### Engagement envers le langage clair et simple
+
+Le BSIF s’engage à fournir des interprétations réglementaires claires, pertinentes et sans ambiguïté. Il fournira des réponses aux questions réglementaires dans la langue officielle dans laquelle la question a été posée.
+
+#### Orientation et sensibilisation
+
+Le BSIF encourage la participation des intervenants de diverses façons afin de les sensibiliser et d’assurer une communication interne et externe des exigences de conformité à la réglementation qui soit cohérente. Ces mesures comprennent :
+
+* la publication de divers documents d’orientation sur le site Web du BSIF, comme les préavis réglementaires et législatifs et les décisions ayant valeur de précédent (fondées sur les décisions qui ont été modifiées pour garantir la protection des renseignements personnels de chaque intervenant);
+* la publication de questions et réponses relatives aux règlements qui font régulièrement l’objet de demandes de renseignements de la part des intervenants;
+* un service d’avis aux abonnés qui sert à informer les intervenants de dossiers qui pourraient les intéresser, comme les consultations relatives à l’élaboration de règlements;
+* la publication d’un bulletin électronique semestriel (*InfoPensions*) sur les questions touchant les régimes de retraite, comme la façon dont le BSIF applique certaines dispositions législatives et réglementaires.
+
+#### Réponses aux questions
+
+Le BSIF répond à deux types de demandes d’interprétation réglementaire, décrites ci-après.
+
+##### Questions réglementaires générales
+
+Les intervenants qui ont des questions de nature générale sur un règlement administré par le BSIF peuvent communiquer avec nous par téléphone, par la poste ou par courriel.
+
+Le BSIF répond aux questions par le même mode de communication que celui qu’a utilisé l’intervenant, sauf si ce dernier a demandé de recevoir sa réponse par un autre moyen (par écrit, par exemple). Avant de répondre aux demandes de renseignements, le BSIF pourrait demander des informations supplémentaires à l’intervenant.
+
+##### Demandes de décisions ayant valeur de précédent
+
+Les intervenants peuvent demander une interprétation plus officielle sous forme de décision ayant valeur de précédent pour obtenir par écrit le point de vue du BSIF sur l’application ou l’interprétation de dispositions réglementaires, en particulier en vertu des lois fédérales qui s’appliquent aux institutions fédérales.
+
+Les demandes de décisions ayant valeur de précédent sont assujetties à des frais et sont traitées conformément à nos normes de service. Veuillez consulter nos [normes et frais de service](/fr/donnees-formulaires/demandes-approbations/normes-frais-service "Normes et frais de service").
+
+Les demandes de décisions ayant valeur de précédent doivent être soumises par écrit à l’adresse :   
+Division des affaires législatives, Direction des affaires réglementaires   
+255, rue Albert   
+Ottawa (Ontario)  
+K1A 0H2
+
+### Service
+
+#### Engagement en matière de service
+
+Le BSIF applique la Politique de communication du gouvernement du Canada, en s’engageant notamment à assurer un service empressé, courtois et réceptif qui tient compte des besoins du public, répond à ses préoccupations et respecte les droits des particuliers.
+
+#### Responsabilisation en matière de service
+
+Le BSIF s’engage à fournir un niveau de service correspondant aux attentes des intervenants. Il offre un service de demande de renseignements (par téléphone, par courriel et par la poste) qui reçoit les demandes des intervenants et répond à leurs questions et préoccupations. Le service de demande de renseignements utilise une base de données pour faire le suivi des échanges avec ses intervenants et veiller à donner suite à l’ensemble des questions et commentaires s’il y a lieu. Si le service de demande de renseignements ne peut répondre en raison de la nature du sujet, il consulte les experts de l’organisme pour s’assurer de prendre les mesures nécessaires ou de fournir une réponse.
+
+#### Formation du personnel
+
+Le BSIF veille à ce que les membres du personnel possèdent les compétences et les connaissances techniques nécessaires pour répondre aux questions réglementaires de façon précise et uniforme. Des procédures internes et des documents de référence ont été mis au point à cette fin.
+
+#### Mobilisation des intervenants
+
+#### Engagement à mobiliser les intervenants
+
+Le BSIF s’engage à mobiliser les intervenants, selon les besoins, lorsqu’il élabore, examine ou améliore ses pratiques et documents se rapportant aux consignes réglementaires. Il consulte régulièrement les instances sectorielles au sujet de ces consignes réglementaires.
+
+#### Pratiques de mobilisation des intervenants
+
+Le BSIF mobilise les intervenants de diverses façons, notamment au moyen :
+
+* de consultations officielles au sujet des règlements et des consignes du BSIF – grâce à ces consultations, le BSIF tient compte du point de vue et des préoccupations du secteur dans l’élaboration de ses consignes;  
+  d’enquêtes sectorielles, dont les résultats, qui sont rendus publics, informent sur la qualité de l’intervention du BSIF à titre d’organisme de réglementation en général et sur de nombreuses facettes du régime de réglementation, y compris les exigences réglementaires;
+* de rencontres de réglementation régulières avec des associations sectorielles, comme l’Association des banquiers canadiens, l’Association des compagnies de fiducie du Canada, l’Association des compagnies canadiennes d’assurances de personnes, le Bureau d’assurance du Canada, l’Association canadienne des administrateurs de régimes de retraite. Ces rencontres offrent une tribune au BSIF et aux associations sectorielles et leur permettent d’échanger de l’information, notamment sur les consignes à venir et sur les dossiers qui préoccupent le BSIF et le secteur;
+* d’allocutions sectorielles, qui permettent au BSIF de discuter de questions d’intérêt ou de préoccupations en particulier et de préciser les mesures prises par les organismes de réglementation pour y donner suite.
+
+## Base de référence du fardeau administratif
+
+Comme les autres ministères et organismes dont émanent des règlements assortis d’un fardeau administratif ou qui les administrent, le BSIF est tenu de publier les résultats de la base de données de référence du fardeau administratif.
+
+Vous trouverez plus d’informations et les résultats de la base de données de référence du BSIF sur le site Web du ministère des Finances.
+
+[Base de référence du fardeau administratif : Mise à jour 2022](https://www.canada.ca/fr/ministere-finances/organisation/lois-reglements/base-references-fardeau-administratif/2022.html)
+
+## Plan prospectif de la réglementation
+
+Le plan prospectif de la réglementation se présente sous la forme d’une liste ou d’une description, accessible au public, qui répertorie les modifications réglementaires qu’un ministère ou un organisme entend apporter dans un délai établi. Il a pour objet de donner aux consommateurs, aux entreprises ainsi qu’aux autres intervenants et partenaires commerciaux la possibilité d’intervenir au niveau de l’élaboration des règlements et de planifier l’avenir. Le BSIF modifie et met à jour son plan prospectif de la réglementation selon l’évolution de son contexte opérationnel.
+
+Voir [Plans prospectifs de la réglementation à l’échelle du gouvernement](https://www.canada.ca/fr/gouvernement/systeme/lois/developpement-amelioration-reglementation-federale/planification-reglementation/plans-prospectif-reglementation-echelle-gouvernement.html)
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2024-01-18

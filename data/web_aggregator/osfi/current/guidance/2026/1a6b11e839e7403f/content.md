@@ -1,0 +1,68 @@
+# Consultation: Internal Liquidity Adequacy Assessment Process (ILAAP) Discussion Paper
+
+Information
+
+Publication type
+
+Consultation
+
+Category
+
+Capital Adequacy Requirements
+
+Date
+
+May 22, 2025
+
+Sector
+
+Banks,
+
+Trust and Loan Companies
+
+Table of contents
+
+## Consultation status: Closed
+
+This is a 90-day public consultation on an [Internal Liquidity Adequacy Assessment Process (ILAAP) discussion paper](/en/guidance/guidance-library/pillar-2-liquidity-funding-risks-designing-internal-liquidity-adequacy-assessment-process-canadian "Pillar 2 Liquidity and Funding Risks: Designing an Internal Liquidity Adequacy Assessment Process for Canadian Deposit-Taking Institutions").
+
+The ILAAP discussion paper aims to start a conversation and share ideas and opinions on strengthening the supervisory review process (Pillar 2 liquidity) in Canada by examining the role of a potential ILAAP in Canada’s regulatory framework.
+
+Consultation closed August 22, 2025.
+
+In our [Annual Risk Outlook,](/en/about-osfi/reports-publications/osfis-annual-risk-outlook-fiscal-year-2025-2026 "OSFI’s Annual Risk Outlook – Fiscal Year 2025-2026") the Office of the Superintendent of Financial Institutions (OSFI) has identified funding and liquidity as one of the top risks for 2025-2026. Heightened geopolitical risk, uncertain financial markets, rapid cash outflows through digitization, and a changing and evolving risk environment are contributing factors.
+
+Canada’s liquidity regime is strong, and we want to further enhance it by fostering a dialogue on liquidity adequacy with institutions and other stakeholders.
+
+This discussion paper explores key Pillar 2 liquidity risks such as:
+
+* intraday liquidity risk
+* pledging risk and adequacy of unencumbered assets
+* foreign currency liquidity risk
+* solo and intragroup liquidity risk
+* franchise viability risk
+* short-term liquidity risk
+* product liquidity risk
+
+The discussion paper also seeks views on proportionality (bank’s size, risk profile and complexity) in implementing an ILAAP, including reporting requirements.
+
+## Why it’s important
+
+As prudential supervisors, OSFI works to protect the rights and interests of depositors and other creditors while respecting federally regulated financial institutions’ need to compete and take reasonable risks. Institutions require strong internal liquidity management to navigate emerging risks and maintain stability in times of stress as financial markets continue to evolve. Liquid asset shortfalls causing an inability to meet short-term financial obligations would pose a significant risk and can undermine an institution’s ability to survive a stress event.
+
+This consultation will help refine our approach to Pillar 2 liquidity supervision, so it meets international best practices while reflecting the financial sector in Canada.
+
+## Way forward
+
+Perspectives and opinions from institutions and other stakeholders during this consultation will help determine the potential need for guidance relating to Pillar 2 risks.
+
+Please provide your feedback to [Consultations@osfi-bsif.gc.ca](mailto:Consultations@osfi-bsif.gc.ca) by August 22, 2025.
+
+## Contact us
+
+For more information or for help submitting your feedback, please contact [Consultations@osfi-bsif.gc.ca](mailto:Consultations@osfi-bsif.gc.ca).
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-05-22

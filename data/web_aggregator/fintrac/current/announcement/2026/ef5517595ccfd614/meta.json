@@ -1,0 +1,24 @@
+{
+  "doc_id": "ef5517595ccfd614",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Reporting on Green Procurement",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/publications/drr-rrm/2022-2023/rgp-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:825b0068d5decf835b0d73dd39983282a92d708884e104e2ffaee192443bca0c",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/ef5517595ccfd614",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

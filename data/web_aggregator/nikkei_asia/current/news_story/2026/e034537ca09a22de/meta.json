@@ -1,0 +1,25 @@
+{
+  "doc_id": "e034537ca09a22de",
+  "regulator_id": "nikkei_asia",
+  "doc_type": "news_story",
+  "title": "Toyota aims for 2027 global output of 10.5m vehicles on hybrid demand",
+  "language": "en",
+  "source_url": "https://asia.nikkei.com/business/automobiles/toyota-aims-for-2027-global-output-of-10.5m-vehicles-on-hybrid-demand",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e6d0e990280e3119d02f988525200f4e1a4a5cc4293460f72bee9a6631b0f834",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nikkei_asia_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nikkei_asia/current/news_story/2026/e034537ca09a22de",
+  "tags": [
+    "japan"
+  ],
+  "final_url": "https://asia.nikkei.com/business/automobiles/toyota-aims-for-2027-global-output-of-10.5m-vehicles-on-hybrid-demand",
+  "fetch_method": "feed_summary"
+}

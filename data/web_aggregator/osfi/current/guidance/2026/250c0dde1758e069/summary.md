@@ -1,0 +1,1 @@
+Summary: # Draft Liquidity Adequacy Requirements Guideline (2027) – Letter

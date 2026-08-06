@@ -1,0 +1,25 @@
+{
+  "doc_id": "aa254877dbff13be",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Lois et r\u00e8glements | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/consignes/lois-reglements",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d87bd7801ed6ae0f81ae549c315ae7d4d5b87d93546dd4c5aa7862d1026844e7",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/aa254877dbff13be",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

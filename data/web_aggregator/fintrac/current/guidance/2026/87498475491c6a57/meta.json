@@ -1,0 +1,24 @@
+{
+  "doc_id": "87498475491c6a57",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Obligations and guidance",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/guidance-directives-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:f6a7193ebedb7b5411879e00a6dafb0abb0320f281a1e13f10e91f59b20aaf53",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/87498475491c6a57",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "d7ceb273dd59e109",
+  "regulator_id": "eiopa",
+  "doc_type": "announcement",
+  "title": "EIOPA calls for consistent supervisory practices on internal models - European Insurance and Occupational Pensions Authority",
+  "language": "en",
+  "source_url": "https://www.eiopa.europa.eu/eiopa-calls-consistent-supervisory-practices-internal-models-2017-12-21_en",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e4a982f7794e3db7e7916507f6e237b397448e3e9d4a73a06a0af83e7336a407",
+  "version_ts": "2026-08-03T07-49-00Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:49:00.390789+00:00",
+  "run_id": "2026-08-03_eiopa_ui074900",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/eiopa/current/announcement/2026/d7ceb273dd59e109",
+  "tags": [
+    "eu",
+    "insurance",
+    "pensions"
+  ],
+  "final_url": "https://www.eiopa.europa.eu/eiopa-calls-consistent-supervisory-practices-internal-models-2017-12-21_en",
+  "fetch_method": "html_to_md"
+}

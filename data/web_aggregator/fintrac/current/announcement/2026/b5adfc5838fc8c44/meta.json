@@ -1,0 +1,24 @@
+{
+  "doc_id": "b5adfc5838fc8c44",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Bulletin sp\u00e9cial sur l\u2019activit\u00e9 financi\u00e8re associ\u00e9e au contournement soup\u00e7onn\u00e9 des sanctions",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/intel/bulletins/proliferation-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d802593b4b57a1311f686534a8d5f25581ba321b330a73ae6a3d0354bd0a6d99",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/b5adfc5838fc8c44",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

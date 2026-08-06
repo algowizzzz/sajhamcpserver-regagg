@@ -1,0 +1,25 @@
+{
+  "doc_id": "67dabd66c3e1d87e",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Relev\u00e9s d\u2019assurance vie \u2013 Section II \u2013 Normes de production | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-dassurance-vie-section-ii-normes-production",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3b14d81889a92ed74ce848c8f61283f6be7de8ec4c01b1a06f9fe9a57f94ceff",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/67dabd66c3e1d87e",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

@@ -1,0 +1,158 @@
+# Press Releases
+
+**Members of the media** may email inquiries or [interview requests](/information-members-media) to [**press@fincen.gov**](mailto:press@fincen.gov).
+
+**If you are not a member of the media**, please visit the [**FinCEN contact page**](/contact).
+
+![fincen-seal-320x220.jpg](/system/files/styles/media_library/private/2026-06/fincen-seal-320x220.jpg.webp?itok=ILHNZYTb)
+
+07/27/2026
+| News
+
+[FinCEN Issues Statement of Enforcement Policy in Support of Venezuela’s Economic Recovery and Earthquake Relief Efforts](/news/news-releases/fincen-issues-statement-enforcement-policy-support-venezuelas-economic-recovery)
+
+Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a statement of enforcement policy in support of economic recovery and earthquake relief efforts in Venezuela.
+
+**Resources**
+
+…
+
+![](/system/files/styles/media_library/private/images/news-releases/Alert_Image_320x211.png.webp?itok=eNWVlURI)
+
+07/24/2026
+| News
+
+[FinCEN Issues Alert on Fraud Schemes Targeting Federal Student Aid](/news/news-releases/fincen-issues-alert-fraud-schemes-targeting-federal-student-aid)
+
+Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Alert urging financial institutions to detect, prevent, and report suspicious activity connected to fraud schemes targeting student aid programs administered by the Federal government. …
+
+07/22/2026
+| News
+
+[FinCEN Extends Comment Period for Proposed Rule To Amend the Definition of Huione Group](/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group)
+
+Due to a technological issue that prevented the public from electronically filing comments for several days, the Financial Crimes Enforcement Network (FinCEN) is extending the comment period for the notice of proposed rulemaking (NPRM) it published in June to amend the existing definition of…
+
+![](/system/files/styles/media_library/private/images/news-releases/Alert_Image_320x211.png.webp?itok=eNWVlURI)
+
+06/30/2026
+| News
+
+[FinCEN Issues Supplemental Alert on Fuel Smuggling and Tax Evasion Schemes on the Southern Border Associated with Mexico-Based Cartels](/news/news-releases/fincen-issues-supplemental-alert-fuel-smuggling-and-tax-evasion-schemes-southern)
+
+Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a supplemental Alert to advise financial institutions to be vigilant in detecting, identifying, and reporting suspicious activity connected to Cartel de Jalisco Nueva Generacion (CJNG) and other…
+
+![fincen-seal-320x220.jpg](/system/files/styles/media_library/private/2026-06/fincen-seal-320x220.jpg.webp?itok=ILHNZYTb)
+
+06/23/2026
+| News
+
+[FinCEN Proposes to Sever H-Pay Service PLC and Other Huione Group Successor Entities from the U.S. Financial System](/news/news-releases/fincen-proposes-sever-h-pay-service-plc-and-other-huione-group-successor)
+
+Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a proposed rule amending [FinCEN’s October 2025 Huione Group…](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-severing-huione-group-us-financial-system)
+
+![fincen-seal-320x220.jpg](/system/files/styles/media_library/private/2026-06/fincen-seal-320x220.jpg.webp?itok=ILHNZYTb)
+
+06/22/2026
+| News
+
+[FinCEN Announces Recipients of Its 11th Law Enforcement Awards Program](/news/news-releases/fincen-announces-recipients-its-11th-law-enforcement-awards-program)
+
+**WASHINGTON**—Last week, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) recognized seven cases during its Law Enforcement Awards Program for effectively using Bank Secrecy Act (BSA) data to support criminal prosecutions and…
+
+![fincen-seal-320x220.jpg](/system/files/styles/media_library/private/2026-06/fincen-seal-320x220.jpg.webp?itok=ILHNZYTb)
+
+06/18/2026
+| News
+
+[FinCEN, Agencies Propose Rule to Implement GENIUS Act Customer Identification Program Requirement](/news/news-releases/fincen-agencies-propose-rule-implement-genius-act-customer-identification)
+
+**WASHINGTON**—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and the National…
+
+![](/system/files/styles/media_library/private/images/news-releases/insignia%20320%20x%20213_81.jpg.webp?itok=Xj5Azk0a)
+
+06/12/2026
+| News
+
+[FinCEN Issues Guidance to Help Financial Institutions Eliminate Fraud Through Information Sharing](/news/news-releases/fincen-issues-guidance-help-financial-institutions-eliminate-fraud-through)
+
+Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued updated guidance to clarify how financial institutions can share information with each other about suspected fraud under section 314(b) of the USA PATRIOT Act.          …
+
+![Advisory Image](/system/files/styles/media_library/private/2026-06/AdvisoryImage_Updated.png.webp?itok=E-kGVHXs)
+
+06/05/2026
+| News
+
+[FinCEN Issues Joint Advisory on Non-Work Authorized Populations and Their Employers and Risks to the Integrity of the U.S. Financial System](/news/news-releases/fincen-issues-joint-advisory-non-work-authorized-populations-and-their-employers)
+
+Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an Advisory urging financial institutions to be vigilant against risks presented by the unlawful employment of illegal aliens.
+
+**Treasury Press Release**
+
+…
+
+![Notice Image 320x213 white](/system/files/styles/media_library/private/Notice_Image_320x213-white.png.webp?itok=hU1KRIWx)
+
+05/11/2026
+| News
+
+[FinCEN Issues Notice on the Threat of Human Trafficking During the 2026 FIFA World Cup](/news/news-releases/fincen-issues-notice-threat-human-trafficking-during-2026-fifa-world-cup)
+
+**WASHINGTON**—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a [Notice](/system/files/2026-05/FinCEN-WCHT-Notice.pdf) urging increased vigilance by financial institutions located in and around cities hosting the 2026…
+
+![](/system/files/styles/media_library/private/images/news-releases/Alert_Image_320x211.png.webp?itok=eNWVlURI)
+
+05/11/2026
+| News
+
+[FinCEN Issues Alert to Stop Money Laundering by Iranian Revolutionary Guard Corps](/news/news-releases/fincen-issues-alert-stop-money-laundering-iranian-revolutionary-guard-corps)
+
+**WASHINGTON**—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued an [Alert](/system/files/2026-05/FinCEN-Alert-IRGC.pdf) to help financial institutions identify and stop funding streams and procurement networks supporting…
+
+![](/system/files/styles/media_library/private/images/news-releases/insignia%20320%20x%20213_81.jpg.webp?itok=Xj5Azk0a)
+
+04/15/2026
+| News
+
+[FinCEN’s Rapid Response Program Interdicts Nearly $2 Billion on Behalf of U.S. Cyber-Enabled Fraud Victims](/news/news-releases/fincens-rapid-response-program-interdicts-nearly-2-billion-behalf-us-cyber)
+
+WASHINGTON—Since President Trump resumed office, the Financial Crimes Enforcement Network’s (FinCEN) Rapid Response Program (RRP) has facilitated the interdiction of over $268 million in stolen funds on behalf of U.S. victims, bringing the total to more than $1.8 billion since the program’s…
+
+![](/system/files/styles/media_library/private/images/news-releases/insignia%20320%20x%20213_81.jpg.webp?itok=Xj5Azk0a)
+
+04/08/2026
+| News
+
+[Treasury Proposes Rule to Implement the GENIUS Act’s Requirements to Counter Illicit Finance](/news/news-releases/treasury-proposes-rule-implement-genius-acts-requirements-counter-illicit)
+
+Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) and the Office of Foreign Assets Control issued a joint proposed rule to implement provisions of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). The proposed…
+
+![](/system/files/styles/media_library/private/images/news-releases/insignia%20320%20x%20213_81.jpg.webp?itok=Xj5Azk0a)
+
+04/07/2026
+| News
+
+[FinCEN Proposes Rule to Fundamentally Reform Financial Institution Programs Designed to Fight Illicit Finance](/news/news-releases/fincen-proposes-rule-fundamentally-reform-financial-institution-programs)
+
+**WASHINGTON**—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued a proposed rule intended to fundamentally reform financial institutions’ anti-money laundering and countering the financing of terrorism (AML/CFT) programs…
+
+![](/system/files/styles/media_library/private/images/news-releases/insignia%20320%20x%20213_81.jpg.webp?itok=Xj5Azk0a)
+
+03/30/2026
+| News
+
+[FinCEN Proposes Rule to Pay Whistleblowers](/news/news-releases/fincen-proposes-rule-pay-whistleblowers)
+
+*Major Milestone in Implementing Whistleblower Program to Fight Illicit Finance*
+
+WASHINGTON—Today, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) submitted to the Federal Register a…
+
+* [News](/news)
+* [Press Releases](/news/press-releases)
+* [Readouts](/news/readouts)
+* [Remarks and Statements](/news/remarks-statements)
+* [Enforcement Actions](/news/enforcement-actions)
+* [Press Contacts](/news/contacts-members-media)
+* [SAR Technical Bulletins](/news/sar-technical-bulletins)
+
+[![paper airplane icon](/themes/custom/fincen/img/paper-airplane-icon.svg)Subscribe to FinCEN News Updates](https://service.govdelivery.com/accounts/USFINCEN/subscriber/new "(opens in a new window)")

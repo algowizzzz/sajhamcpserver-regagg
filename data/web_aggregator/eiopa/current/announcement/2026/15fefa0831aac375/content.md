@@ -1,0 +1,26 @@
+Page Content
+
+Today, the European Insurance and Occupational Pensions Authority (EIOPA) published a supervisory statement based on an analysis of Solvency and Financial Condition Reports (SFCRs) of (re)insurance undertakings and insurance groups. The aim of the statement is to improve future disclosure of these reports.
+
+The analysis is based on a sample of publicly disclosed 2016 SFCRs published by (re)insurance undertakings and insurance groups in the European Economic Area.
+
+EIOPA's analysis shows that the majority of reports were published on time and in general complied with the Solvency II requirements. Most of the reports were easily accessible on undertakings' websites.
+
+However, EIOPA identified the areas where further improvement as regards the quality of the content of future reports is needed, such as:
+
+* A more fit-for-purpose Summary
+* Undertaking/group specific information about the own-risk and solvency assessment
+* Better structured and more comprehensive information on risk-sensitivity to different scenarios or stresses
+* More relevant information on bases, methods and main assumptions used for the valuation of assets, liabilities and technical provisions and addressing the uncertainties around valuation
+* More comprehensive information of eligible own funds
+
+EIOPA encourages (re)insurance undertakings and insurance groups to take into account the recommendations outlined in the supervisory statement, considering the principle of proportionality, in the preparation of future reports.
+
+For the first time next year's (2018) reports require the provision of the comparative information. Therefore, EIOPA outlined its expectations for the mandatory areas and how this information should be presented in the reports.
+
+**Background**
+
+According to Articles 51, 53, 54 and 256 of the Solvency II Directive, (re)insurance undertakings and insurance groups are required to produce and publicly disclose the **Solvency and Financial Condition Reports**. This year (2017), these reports were publicly disclosed by (re)insurance and insurance groups for the first time.
+
+Publication date
+:   18 December 2017

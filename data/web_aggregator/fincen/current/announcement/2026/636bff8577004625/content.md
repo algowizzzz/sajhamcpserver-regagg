@@ -1,0 +1,41 @@
+# Bank Secrecy Act Reports Instrumental in Investigation and Conviction of Attorney and Three Accomplices in Multi-Million Dollar Real Estate Fraud
+
+[017.pdf](/system/files/case_example/017.pdf "017.pdf")
+(25.16 KB)
+
+In 2003, four individuals, previously convicted of charges related to a multi-million dollar real estate scheme, were ordered to pay over $1 million in restitution to reimburse victims of their crimes. According to court documents, a real estate investor and an attorney arranged for the proceeds of fraudulent real estate transactions to be deposited into the attorney’s trust account. The attorney subsequently withdrew funds from this trust account for personal use and the use of the coconspirators.
+
+This complex real estate fraud investigation was enhanced through the state law enforcement agency’s proactive review using FinCEN’s Gateway Program to search the Currency and Banking Retrieval System database for Bank Secrecy Act reports relating to the four subjects. This search identified 100 Currency Transaction Reports, 11 Currency Transaction Reports by Casinos, 2 Reports of International Transportation of Currency or Monetary Instruments, and 5 Suspicious Activity Reports. According to the investigator, this proactive review resulted in the initiation of the investigation. The search also identified reports of additional transactions conducted at a local check cashing company. One of the Suspicious Activity Reports provided information that one subject was cashing checks at the check cashing company for an attorney. The investigator found all of the Bank Secrecy Act documents very useful in this investigation.
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 7, August 2004]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Involving CTRs
+
+Casinos and Card Clubs
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

@@ -1,0 +1,1 @@
+Summary: # SARs Lead to Conviction of Former Investment Firm CEO

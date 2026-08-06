@@ -1,0 +1,25 @@
+{
+  "doc_id": "843546fcf24f6f24",
+  "regulator_id": "yahoo_finance",
+  "doc_type": "news_story",
+  "title": "Social Security is becoming the primary retirement plan for many Americans. But it's rarely enough money.",
+  "language": "en",
+  "source_url": "https://finance.yahoo.com/economy/article/social-security-is-becoming-the-primary-retirement-plan-for-many-americans-but-its-rarely-enough-money-161429269.html",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e71bef43d9abb95929a4e2a2481faf36a1433aaf78d07e8d2edffd75d404854a",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_yahoo_finance_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/yahoo_finance/current/news_story/2026/843546fcf24f6f24",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://finance.yahoo.com/economy/article/social-security-is-becoming-the-primary-retirement-plan-for-many-americans-but-its-rarely-enough-money-161429269.html",
+  "fetch_method": "feed_summary"
+}

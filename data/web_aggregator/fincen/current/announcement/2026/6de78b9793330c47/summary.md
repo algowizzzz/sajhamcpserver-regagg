@@ -1,0 +1,1 @@
+Summary: # Whether an Authorized Agent for the Receipt of Utility Payments is a Money Transmitter

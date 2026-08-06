@@ -1,0 +1,1 @@
+Summary: # Purported Charity Attempts to Evade Reporting Requirements

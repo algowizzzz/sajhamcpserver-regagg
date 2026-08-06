@@ -1,0 +1,53 @@
+# Suspicious Activity Report Leads to the Investigation and Conviction of Elected Official
+
+[110.pdf](/system/files/case_example/110.pdf "110.pdf")
+(24.16 KB)
+
+A bank filed a SAR on an elected official from a suburban locality who structured transactions totaling hundreds of thousands of dollars. The SAR triggered an investigation that confirmed the structuring and identified evidence that the elected official committed perjury while filing a bankruptcy petition. Additional SARs filed on the defendant detail structuring at the bank as well as at a money services business.
+
+A federal jury found the official guilty of 32 counts of bankruptcy fraud and illegal structuring of cash. State law required the defendant to resign because of the conviction. The defendant had previously filed for bankruptcy, which prosecutors said was an effort to eliminate credit card debts. Prosecutors charged him with lying to his bankruptcy lawyer and concealing the ownership of his home that he and family members purchased. In addition, prosecutors said that the defendant concealed his private business and bank accounts from the bankruptcy court. During those proceedings, he claimed only his official salary as income.
+
+Even though the defendant claimed he was bankrupt, in an 18-month period he made over 1,000 deposits at several different bank locations into his accounts totaling more than $500,000. His defense attorney stated that his business dealings took place throughout a large area, making cash transactions at different locations a necessity and not a means of attempting to avoid reporting requirements.
+
+However, his bank thought differently. After reviewing the transactions that occurred over an extended period of time, the institution filed a SAR and simultaneously notified the Internal Revenue Service (IRS). Within the next month, the bank filed two additional SARs, and a check casher filed another.
+
+The SARs detail transactions taking place at several different locations in amounts less than $10,000 and, in one instance, five transactions occurring in one business day. The defendant was making cash deposits totaling up to $30,000 monthly and writing numerous $2,000 checks to himself and family members.
+
+Because of the defendant’s use of both a bank and a check casher, investigators believe that he may have been undertaking an elaborate check-kiting scheme. In fact, his complex practices resulted in more than $90,000 in check cashing fees. A lengthy indictment details 24 separate counts of structuring. The indictment details both currency deposited at the bank and checks cashed at a currency exchange business. The transactions range from $11,000 to nearly $30,000.
+
+(Investigating Agency: Internal Revenue Service)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 12, October 2007]
+
+Tags
+
+Involving SARs
+
+Fraud
+
+Depository Institutions
+
+BSA Violations
+
+Money Services Businesses
+
+Check Crimes
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

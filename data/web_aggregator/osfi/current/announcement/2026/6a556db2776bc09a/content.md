@@ -1,0 +1,94 @@
+# Opinion du Government Actuary's Department (GAD) du Royaume-Uni sur la revue par les pairs du 31e rapport actuariel du RPC
+
+Madame Assia Billig  
+Actuaire en chef, Bureau de l’actuaire en chef  
+255, rue Albert, 10e étage  
+Ottawa (Ontario)  
+K1A 0H2  
+Canada
+
+Government Actuary’s Department  
+10 South Colonnade  
+London  
+E14 5EA  
++44 77813 002474  
+[Joanna.Howlett@gad.gov.uk](mailto:Joanna.Howlett@gad.gov.uk)  
+[www.gov.uk/gad](https://www.gov.uk/gad/)
+
+8 juin 2023
+
+**Objet : Revue de l’examen par les pairs du 31e Rapport actuariel du RPC**
+
+Madame,
+
+Le Bureau du surintendant des institutions financières (BSIF) a demandé un examen externe par les pairs de son 31e Rapport actuariel du Régime de pensions du Canada au 31 décembre 2021 (RA31). L’examen par les pairs vise à obtenir l’assurance que le Bureau de l’actuaire en chef (BAC) fournit une opinion actuarielle pertinente et de qualité aux membres du Parlement canadien et à la population canadienne.
+
+Aux termes du contrat daté du 2 mai 2022, le BSIF a demandé au Government Actuary’s Department (GAD) du Royaume‑Uni de :
+
+1. l’assister dans la sélection des actuaires indépendants qui formeront le groupe d’examen en fournissant un classement des candidats basé sur des qualifications comparables;
+2. fournir une opinion sur le travail effectué par le groupe d’examen une fois l’examen par les pairs terminé.
+
+Le rôle confié au GAD vise à assurer l’impartialité et à rehausser la crédibilité de l’examen par les pairs.
+
+## 1. Rôle du GAD
+
+* 1.1 Le GAD a rempli la première partie de la demande formulée par le BSIF en faisant une recommandation en août 2022 sur la sélection des actuaires indépendants. Le GAD a reçu 10 candidatures directement de personnes souhaitant être nommées à titre d’examinateurs et les a évaluées en utilisant des critères de sélection pondérés. Ces critères incluaient le niveau d’expérience des candidats dans les domaines de l’assurance sociale, des pensions et de la gestion des placements et des risques, ainsi que leurs qualifications, leur statut au sein de la profession actuarielle et leur expérience antérieure à l’examen par les pairs du RPC. Le GAD a soumis à l’actuaire en chef un document indiquant les résultats de son évaluation et le classement des six principaux candidats. L’actuaire en chef a ensuite conclu une entente avec trois des candidats pour réaliser l’examen par les pairs.
+* 1.2 La présente lettre donne suite au second volet de la demande faite par le BSIF et contient nos commentaires et opinions sur le travail effectué par le groupe d’examen externe selon le rapport intitulé Examen du 31e Rapport actuariel du Régime de pensions du Canada (l’« examen par les pairs ») daté du 5 mai 2023 et préparé par M. Stephen Butterfield, FICA, M. Michel St‑Germain, FICA, FSA et Mme Jill Wagman, FICA, FSA.
+
+## 2. Mandat de l’examen par les pairs
+
+* 2.1 Le mandat de l’examen par les pairs était le suivant :
+
+  « Les actuaires qui effectueront l’examen par les pairs examineront les travaux effectués par l’actuaire en chef dans le cadre du 31e Rapport actuariel du Régime de pensions du Canada au 31 décembre 2021. Après leur examen, ils présenteront un rapport à l’actuaire en chef et au Government Actuary’s Department (GAD) du Royaume‑Uni. Ce dernier fournira ensuite son opinion à l’actuaire en chef au sujet de l’examen par les pairs.
+
+  Le rapport d’examen doit contenir des opinions concernant les questions suivantes :
+
+  1. L’expérience professionnelle de l’actuaire en chef et des collaborateurs qui ont participé à la préparation du rapport est-elle suffisante pour exécuter les travaux requis?
+  2. Les travaux ont-ils été effectués en conformité avec les normes de pratique professionnelle et les exigences réglementaires pertinentes?
+  3. L’actuaire en chef a-t-elle eu accès aux renseignements nécessaires pour exécuter l’évaluation et les tests et analyses pertinents ont-ils été exécutés sur les données comme l’on pourrait s’y attendre?
+  4. Les méthodes et hypothèses actuarielles utilisées pour préparer le rapport sont‑elles raisonnables?
+  5. Le 31e Rapport actuariel communique-t-il fidèlement les résultats des travaux effectués par l’actuaire en chef et ses collaborateurs?
+
+  Pour donner leur avis sur les questions susmentionnées, les actuaires qui effectuent l’examen par les pairs doivent également formuler les recommandations qu’ils jugent appropriées à l’égard des rapports actuariels futurs sur le Régime de pensions du Canada préparés par le Bureau de l’actuaire en chef. »
+
+## 3. Résumé de l’examen par les pairs
+
+* 3.1 La démarche de l’examen par les pairs semble appropriée et suffisamment détaillée compte tenu de son mandat.
+* 3.2 L’examen par les pairs traite de toutes les questions mentionnées dans le mandat, et les examinateurs ont réussi à répondre aux cinq questions dans l’affirmative. Nous constatons que les trois examinateurs s’entendent sur toutes les opinions et recommandations formulées dans le rapport.
+* 3.3 Le rapport énonce très clairement le mandat du groupe d’examen par les pairs, soulignant que ce dernier s’est penché sur les travaux actuariels effectués en accordant une attention particulière aux données utilisées, aux principales méthodes employées, aux principales hypothèses actuarielles et à la qualité du rapport. On y souligne que l’examen par les pairs ne fournit pas un audit détaillé des données ni ne vérifie l’exactitude des modèles. De même, les examinateurs n’ont pas évalué de façon détaillée la justesse de la réponse de l’actuaire en chef aux résultats de l’examen par les pairs précédent, qui portait sur le 30e Rapport actuariel du RPC.
+* 3.4 Dans le rapport, les examinateurs reconnaissent la difficulté de déterminer les hypothèses de meilleure estimation puisque plusieurs hypothèses ne peuvent être prédites de façon précise, ce qui donne lieu à des points de vue divergents. Les examinateurs soulignent qu’il existe une gamme d’hypothèses qui seraient considérées comme raisonnables. Ils font également remarquer que la gamme des hypothèses raisonnables est vaste, ce qui signifie qu’il existe également un large éventail de résultats d’évaluation raisonnables. L’utilisation de tests de sensibilité et d’analyses de scénarios dans le rapport en fait la démonstration.
+* 3.5 Dans le sommaire, les examinateurs font l’éloge de l’actuaire en chef et de ses collaborateurs à propos de leurs compétences, de leur engagement et de leur professionnalisme, en mentionnant qu’ils ont été très serviables quand il s’agissait de clarifier certains points soulevés par le comité d’examen et de fournir de l’information supplémentaire. Les examinateurs ont formulé 17 recommandations qui, selon eux, contribueraient à améliorer les rapports actuariels futurs, et ce, dans un esprit d’amélioration continue du travail de l’actuaire en chef et de ses collaborateurs.
+
+## 4. Opinion du GAD à propos du travail effectué par les examinateurs et de leur rapport
+
+* 4.1 Nous n’avons relevé dans l’examen par les pairs aucun élément inquiétant ou indiquant que le travail des examinateurs n’a pas été suffisamment exhaustif lors de la revue du RA31. À notre avis, les opinions des examinateurs couvrent adéquatement toutes les grandes questions et, vu la teneur de leur rapport, il était raisonnable qu’ils répondent par l’affirmative aux cinq questions soulevées dans le mandat.
+* 4.2 Le GAD estime que le mandat de l’examen par les pairs permettait aux examinateurs d’aborder toutes les questions pertinentes à traiter pour examiner en détail les travaux actuariels qui soutiennent le RA31 et le contenu de ce dernier.
+
+## 5. Commentaires sur les recommandations formulées
+
+* 5.1 Les examinateurs ont formulé 17 recommandations, soit huit de plus que lors du dernier examen. Dans l’ensemble, la nature et la portée de leurs recommandations semblent raisonnables et viser l’amélioration continue des travaux de l’actuaire en chef. Nous n’avons pas évalué à titre indépendant les recommandations formulées par les examinateurs.
+* 5.2 Plusieurs des recommandations reprennent celles qui avaient été formulées à l’égard du 30e Rapport actuariel du RPC. En voici quelques exemples :
+
+  1. Suggestions concernant la façon d’améliorer la cueillette et l’analyse des données. Dans la recommandation 12, on suggère d’examiner la répartition des gains autour de la moyenne;
+  2. Accessibilité et présentation des rapports. Dans la recommandation 17, on suggère à l’actuaire en chef d’envisager une présentation plus visuelle des résultats à l’intention du grand public;
+  3. Recours à une expertise et à des données de référence appropriées dans le but d’établir les hypothèses d’évaluation. Les examinateurs se sont penchés plus particulièrement sur cette question. Leurs sept premières recommandations mettent de l’avant plusieurs façons d’améliorer le processus d’établissement des hypothèses. Il existe de nombreuses suggestions valables que l’actuaire devrait examiner pour déterminer les améliorations susceptibles d’ajouter de la valeur dans le cadre de la prochaine évaluation, et qui offriraient des avantages proportionnels au travail supplémentaire requis.
+* 5.3 Les examinateurs mettent l’accent sur la nécessité de se tourner davantage vers l'avenir dans l’établissement des hypothèses, compte tenu de la possibilité que les résultats futurs diffèrent des résultats antérieurs et de la probabilité que les tendances actuelles se maintiennent ou non. Les recommandations 2, 5, 6, 7 et 15 portent directement sur la nécessité de se tourner davantage vers l'avenir, mais il s’agit d’un élément mentionné fréquemment tout au long de leur examen.
+* 5.4 Dans les recommandations 13, 14 et 16, on demande à l’actuaire en chef d’envisager d’autres façons d’illustrer la sensibilité des résultats, et en particulier de les soumettre à une simulation de crise pour tenir compte des circonstances qui pourraient entraîner des difficultés pour le Régime.
+
+J’espère que les observations qui précèdent vous seront utiles. Si vous souhaitez en discuter plus en détail, n’hésitez pas à communiquer avec moi.
+
+Veuillez agréer, Madame, mes sincères salutations.
+
+**Joanna Howlett**  
+Actuaire  
+Government Actuary’s Department, Royaume-Uni
+
+## Liens utiles
+
+* [Communiqué de presse](/fr/nouvelles/examen-independant-appuie-31e-rapport-actuariel-du-regime-pensions-du-canada-0 "Un examen indépendant appuie le 31e rapport actuariel du Régime de pensions du Canada")
+* [Examen du 31e Rapport actuariel du Régime de pensions du Canada](/fr/bac/examens-independants-pairs/examen-du-31e-rapport-actuariel-du-regime-pensions-du-canada "Examen du 31e Rapport actuariel du Régime de pensions du Canada")
+
+Date de modification :
+:   2023-06-29
+
+Signaler un problème ou une erreur sur cette page

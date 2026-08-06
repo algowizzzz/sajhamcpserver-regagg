@@ -1,0 +1,1 @@
+Summary: # Record keeping requirements for mortgage administrators, brokers and lenders : FINTRAC's compliance guidance

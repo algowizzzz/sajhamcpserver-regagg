@@ -1,0 +1,189 @@
+# Solo Total Loss Absorbing Capacity (Solo TLAC) Return
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Solo Total Loss Absorbing Capacity (Solo TLAC) Return
+
+Last updated
+
+November 2023
+
+Return number
+
+OSFI969
+
+Table of contents
+
+Accompanying documents
+
+* [OSFI finalizes its Solo Capital guideline and Solo Total Loss Absorbing Capacity (TLAC) guideline - Letter](/en/guidance/guidance-library/osfi-finalizes-its-solo-capital-guideline-solo-total-loss-absorbing-capacity-tlac-guideline)
+* [OSFI releases draft Solo frameworks for public consultation - News release](/en/news/osfi-releases-draft-solo-frameworks-public-consultation)
+* [Parental Stand-Alone (Solo) TLAC Framework for Domestic Systemically Important Banks (D-SIBs) - Guideline](/en/guidance/guidance-library/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs)
+
+## Return file
+
+[OSFI969 - D-SIB Parental Solo TLAC Return (XLSX, 209.45 KB)](/sites/default/files/documents/osfi969-bsif969-dsib-tlac-tape-bisi-en.xlsx "osfi969-bsif969-dsib-tlac-tape-bisi-en.xlsx")
+
+## Purpose
+
+The Solo TLAC return (“the return”) collects the data to calculate the Solo TLAC ratio of the reporting institution, as well as details of the calculation.
+
+## Statutory
+
+Subsection 485(1.1) of the Bank Act.
+
+## Application
+
+This return applies to all banks designated by the Superintendent as domestic systemically important banks (D-SIBs) pursuant to subsection 484.1(1) of the Bank Act. The domestic parent bank is the Canadian legal entity incorporated or continued under the Bank Act that is both an operating entity and the ultimate parent of the consolidated banking group.
+
+## Frequency
+
+Institutions with fiscal year-ends of October – Quarterly – January, April, July, and October.
+
+## Contact person
+
+For business and/or interpretation questions, contact Muhammad Abid ([Muhammad.Abid@osfi-bsif.gc.ca](mailto:Muhammad.Abid@osfi-bsif.gc.ca)), Capital Division.
+
+For all technical questions, contact Returns Admin ([RA-RRS.Support@osfi-bsif.gc.ca](mailto:RA-RRS.Support@osfi-bsif.gc.ca)).
+
+## Reporting dates
+
+The return must be completed on a quarterly fiscal basis and filed within 45 days of the quarter-end date.
+
+## Where to submit
+
+The completed Solo TLAC return should be submitted in Excel format via the Regulatory Reporting System (RRS) to OSFI.
+
+## General instructions
+
+The Solo TLAC return is to be completed using the methodologies and calculations described in OSFI’s Parental Stand-Alone TLAC (the Solo TLAC) Guideline, OSFI’s Capital Adequacy Requirements (CAR) Guideline and OSFI’s Total Loss Absorbing Capacity (TLAC) Guideline.
+
+The purpose of these instructions is to ease completion of the return by referencing its components to the applicable section(s) of the relevant guideline. In addition to guideline references, these instructions provide supplementary explanations for selected sections or cells in the return.
+
+## 1. Introduction
+
+### 1.0 Introduction
+
+These instructions have been drafted as a supplement to OSFI’s Solo TLAC Guideline for D-SIBs. The Solo TLAC Guideline sets out the scope of consolidation, definitions, requirements, and risk weights which are referenced in these instructions.
+
+### 1.1 Reporting format
+
+D-SIBs will report their Solo TLAC ratios using the OSFI-supplied excel reporting template.
+
+### 1.2 General instructions
+
+* Unless specifically instructed otherwise, D-SIBs should report on a Canadian currency basis with figures reported in thousands of dollars.
+* Filers should enter data only in those cells highlighted yellow.
+* Filers should not alter the structure of the worksheets or the formulas in the workbook without prior consent from OSFI.
+* If reporting requirements cannot be met due to system limitations, reporting FIs are to discuss with OSFI bilaterally to determine remediating action plans and alternative interim reporting solutions.
+
+### 1.3 Filing instructions
+
+* D-SIBs must submit the return via the Regulatory Reporting System (RRS). For security reasons, institutions should not file the return through e-mail. The return is an Excel file, and the Excel file should not be security protected.
+* The filing instructions may be obtained on the OSFI website under [Filing Financial Returns](/en/data-forms/reporting-returns/file-submit-return "File and submit a return") – Regulatory Reporting System (RRS) – Manage Financial Returns User Guide (PDF).
+* The return code is OSFI969
+
+## 2. Return completion
+
+### 2.0 Summary calculations (Schedule 1)
+
+D-SIBs should report Group consolidated TLAC Measure (per BCAR DPA 1735) and Group consolidated RWA (per BCAR DPA 1472) in the relevant cells. The amounts reported for these items should be consistent with reporting in the BCAR return.
+
+### 2.1 Consolidated domestic non-OSFI regulated subsidiaries (Schedule 2)
+
+This schedule pertains to investments in consolidated provincially regulated subsidiaries. Provincially regulated subsidiaries or domestic non-OSFI regulated subsidiaries include entities regulated in Canada by provincial supervisory authorities, Investment Industry Regulatory Organization of Canada (IIROC), the Mutual Fund Dealers Association of Canada (MFDA), and any provincial or territorial securities commissions.
+
+D-SIBs must deduct from the numerator of the solo ratio any CET1 capital issued by consolidated subsidiaries to third parties, i.e., minority/third-party interests (paragraph 6). Other capital instruments (e.g., Additional Tier 1 and Tier 2) do not need to be deducted as they are already deducted from the Group consolidated TLAC Measure.
+
+### 2.2 Consolidated foreign regulated subsidiaries (Schedule 3)
+
+This schedule pertains to investments in consolidated foreign regulated subsidiaries.
+
+D-SIBs must report on all foreign regulated subsidiaries on a sub-consolidated basis except where the subsidiaries are in the same jurisdiction. In cases where an unregulated foreign subsidiary lies at the top of the organizational hierarchy, D-SIBs should look through to the first regulated subsidiary in this hierarchy and treat it and its own subsidiaries as a regulated sub-group.
+
+As in Schedule 2, D-SIBs must deduct from the numerator of the solo metric any CET1 capital issued by subsidiaries to third parties (paragraph 6).
+
+D-SIBs must apply the equity method of accounting in determining the value of the subsidiary (paragraph 12).
+
+For each foreign regulated subsidiary, D-SIBs must add any Contractual Service Margins (CSM) that have been included in the group consolidated TLAC Measure for the purpose of calculating the D-SIB’s exposure to these subsidiaries.
+
+D-SIBs may deduct from this value any amounts that have already been deducted from the TLAC Measure (e.g., goodwill) pursuant to the CAR Guideline or the TLAC Guideline. This is done to avoid applying a double capital charge.
+
+In addition, D-SIBs must add to the value as calculated under the equity method of accounting, any parental holdings of subsidiaries’ subordinated debt and equivalents, as well as any senior debt or claims issued by the subsidiary to the parent and which is recognized as internal TLAC, internal Minimum Requirements for Own Funds and Eligible Liabilities (MREL) or equivalent.
+
+D-SIBs must report RWA arising from their consolidated foreign regulated subsidiaries (per the CAR Guideline) since these amounts will be deducted from consolidated RWA as part of the solo RWA calculation.
+
+### 2.3 Deconsolidated regulated and non-regulated subsidiaries (Schedule 4)
+
+This schedule pertains to investments in subsidiaries that are deconsolidated and regulated by a foreign authority; it also reports items for domestic and foreign non-regulated subsidiaries, i.e., those not subject to prudential regulation.
+
+Under section 2.3 of the CAR Guideline, the D-SIB’s investments in deconsolidated subsidiaries regulated by a foreign authority are subject to certain deductions. These deductions are reversed in the calculation of solo TLAC and must be reported separately for each such subsidiary (see paragraph 7).
+
+CET1 capital issued by non-regulated subsidiaries to third parties (per paragraph 6) must be reported and may be aggregated separately for domestic and foreign subsidiaries.
+
+Non-regulated subsidiaries may have committed capital requirements, i.e., a requirement to maintain capital for non-regulatory purposes (per paragraph 9). These must be reported and may be aggregated separately for domestic and foreign subsidiaries.
+
+If a non-regulated subsidiary is a part of a regulated sub-group, this subsidiary should be reported on an aggregated basis as part of the regulated sub-group.
+
+### 2.4 Foreign branches (Schedule 5)
+
+This schedule pertains to items related to foreign branches of the solo parent.
+
+D-SIBs must compare the quantum of vested asset requirements for each branch with the branch’s third-party liabilities and deduct from the Group consolidated TLAC Measure any excess of vested assets over such liabilities (see paragraph 8). As such, vested assets and third-party liabilities must be reported for each foreign branch.
+
+The following items are used to compute the exposure arising from foreign branches and must be reported separately for each branch (see paragraph 13):
+
+* Third-party assets of the foreign branch as reported on its stand-alone balance sheet; this does not include assets that are eliminated upon accounting consolidation and are inclusive of vested assets.
+* Deductions from the Group consolidated TLAC Measure arising from the foreign branch and applied under the CAR Guideline.
+* Third party liabilities, i.e., liabilities to unrelated counterparties that are not eliminated upon accounting consolidation.
+
+The net Third-party assets are calculated as Third-party assets, adjusted for items described above, less third-party liabilities.
+
+Where the net Third-party assets is a negative number, institutions should adjust the value of the exposure by adding amounts remitted to the Canadian Branch and remaining available to the Canadian branch of the D-SIB net of amounts transferred by the Canadian branch to its foreign regulated branches. The adjustment above must not exceed the absolute value of the net Third-Party assets.
+
+Institutions should apply the 300% risk-weight to the absolute value of the exposure resulting from the above adjustments.
+
+### 2.5 Parental guarantees (Schedule 6)
+
+This schedule pertains to parental capital guarantees and non-capital guarantees (see paragraphs 16 to 22) benefitting foreign regulated subsidiaries.
+
+A capital guarantee from the parent to a subsidiary is treated as a direct capital investment and as such receives the same risk weight as parental equity investments. As such, the RWA for a capital guarantee is the product of the outstanding exposure (per paragraph 16) and the relevant risk weight.
+
+D-SIBs must provide additional information about the capital guarantee, including the type of capital guarantee, the name of the entity benefitting from the guarantee, the currency of exposure, etc.
+
+The risk weight associated with a non-capital guarantee for a given subsidiary depends on the stand-alone credit rating of that subsidiary (i.e., the credit rating excluding any parental uplift); this approach is consistent with the risk charges applied under the CAR Guideline. A fixed risk charge is applied in the case of unrated subsidiaries. The solo RWA is calculated as the product of the risk charge and the outstanding parental exposure to the subsidiary (see paragraphs 17-20).
+
+Column H refers to the risk rating of the ultimate parent in Canada and needs to be input only once if a risk rating is being input in Column G.
+
+As with capital guarantees, D-SIBs must provide additional information about their parental non-capital guarantee exposures.
+
+### 2.6 Commentary on material changes and drivers of solo TLAC (Schedule 7)
+
+Schedule 7 reports quantitatively and qualitatively on material (past and expected) changes in solo TLAC and the key drivers of such changes.
+
+D-SIBs must report the following quantitative information for the relevant quarter for different categories of subsidiaries in Section A of Schedule 7:
+
+* Remittances from subsidiaries to the parent.
+* Capital/TLAC injections from the parent to subsidiaries.
+
+D-SIBs must likewise provide commentary on material movements in the solo TLAC ratio and its components. This includes but is not limited to:
+
+* Changes to the solo TLAC ratio (including analyses of Q/Q and Y/Y movements where relevant).
+* Expected changes to solo TLAC or components of solo TLAC.
+* Capital issuances by the parent.
+* Parental capital distributions to third-party investors. Distributions include but are not limited to dividends, buy-backs, interest payments on capital/TLAC instruments.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-09-08

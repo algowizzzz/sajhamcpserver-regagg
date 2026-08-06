@@ -1,0 +1,1 @@
+Summary: # Draft Capital and Liquidity Treatment of Crypto-asset Exposures (Banking) Guideline (2027) – Letter

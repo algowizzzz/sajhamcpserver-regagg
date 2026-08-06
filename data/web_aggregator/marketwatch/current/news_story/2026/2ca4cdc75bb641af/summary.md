@@ -1,0 +1,1 @@
+Summary: # Figma’s stock falls as the company’s AI push requires steep investments

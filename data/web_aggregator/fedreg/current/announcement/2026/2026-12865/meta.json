@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-12865",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Nilsine Partners NP1X Fund and Nilsine Partners, LLC",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/26/2026-12865/nilsine-partners-np1x-fund-and-nilsine-partners-llc",
+  "reference_number": "2026-12865",
+  "published_date": "2026-06-26",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:cccfc567737abaf48547ce727a9a2ac966ed1d5bccf152ef3307aa2370212be8",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12865",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

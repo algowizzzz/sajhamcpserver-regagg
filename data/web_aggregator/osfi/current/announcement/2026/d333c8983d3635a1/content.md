@@ -1,0 +1,26 @@
+# Version finale du guide d’instructions – Transfert d’éléments d’actif liés aux dispositions à cotisations déterminées de régimes de retraite
+
+**Type du publication :** Lettre  
+**Date :** Le 27 mars 2023  
+**Destinataires :** Administrateurs de régimes de retraite fédéraux à cotisations déterminées aux termes de la Loi de 1985 sur les normes de prestation de pension et leurs consultants
+
+Le Bureau du surintendant des institutions financières (BSIF) publie la version finale du guide d’instructions intitulé [Transfert d’éléments d’actif liés aux dispositions à cotisations déterminées de régimes de retraite](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/transfert-delements-dactif-lies-dispositions-cotisations-determinees-regimes-retraite "Transfert d’éléments d’actif liés aux dispositions à cotisations déterminées de régimes de retraite") (le « guide d’instructions ») et le [formulaire qui l’accompagne](/sites/default/files/2023-07/dcppp23_form%20%281%29.pdf), soit la demande d’approbation de transfert d’éléments d’actif liés aux dispositions à cotisations déterminées de régimes de retraite (le « formulaire de demande »).
+
+Le 29 septembre 2022, le BSIF a diffusé une version à l’étude révisée du guide d’instructions et du formulaire de demande aux fins de consultation, mais aucun commentaire n’a été reçu à leur égard.
+
+Vous êtes invité à faire parvenir vos questions et commentaires concernant les exigences ou les attentes du BSIF énoncées dans le guide d’instructions à l’adresse [pensions@osfi-bsif.gc.ca](mailto:pensions@osfi-bsif.gc.ca).
+
+Cordialement,
+
+Theresa Hinz  
+Directrice principale  
+Division des affaires réglementaires et des politiques stratégiques
+
+## Liens utiles
+
+* [Guide d’instructions](/fr/surveillance/retraites/administrer-regime-retraite/consignes-sujet/transfert-delements-dactif-lies-dispositions-cotisations-determinees-regimes-retraite "Transfert d’éléments d’actif liés aux dispositions à cotisations déterminées de régimes de retraite")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-03-27

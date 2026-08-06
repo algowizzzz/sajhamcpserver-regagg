@@ -1,0 +1,24 @@
+{
+  "doc_id": "dd854197bdf6805c",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Analyse comparative entre les sexes plus",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/publications/dp/2025-2026/gba-acs-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:44faca7722e961482274d9ac0386829dd984b3eaf200c449681381c71a99f944",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/dd854197bdf6805c",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,1 @@
+Summary: # US stocks: Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq

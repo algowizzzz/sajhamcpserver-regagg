@@ -1,0 +1,36 @@
+# Change Control Log (Securities Holdings Return)
+
+Information
+
+Type of document
+
+Change control log
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Securities Holdings Return
+
+Last updated
+
+August 2025
+
+Related documents
+
+* [Securities Holdings Return](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/securities-holdings-return)
+
+Change control log
+
+| Amendment Number | Effective Reporting Date | Description |
+| --- | --- | --- |
+| 1 | September 2025 | May 5th 2025: Initial postings of material for securities holdings return.  Files include:   * Securities Holdings Return * Securities Holdings Instructions * Memo Items for Reporting Aggregate Values * H4 Highlighted Cells for Securities Data Collection * Reporting Examples * File Layout Example |
+| 2 | September 2025 | May 12th 2025: Update to remove an incorrect validation rule comparing memo item 3 with H4 cell a5c53.  Edit made to ‘Memo Items for Reporting Aggregate Values’ and ‘Securities Holdings Instructions’. |
+| 3 | Fall 2025 | August 2025: Collection of updates and edits   1. Instructions updated to state that the file format will transition to more machine-readable format at a later date, and a determination will be made as to whether this format will be JSON or XML.  Previously it was stated that file format will transition to XML at a later date. 2. Update to the wording of memo item 3, this appears in the ‘Memo Items for Aggregate Values’ and ‘Securities Holdings Instructions’. 3. ‘Change Control Log’ provided as an additional file. 4. ‘Securities Holdings Return’ updated with a footnote in the validation rules section clarifying how the validation rules function in some special cases where cash amounts are included in select H4 reporting cells. 5. Addition of a detailed validation rule file.  Note this not a change and is only an alternate representation of what is stated in the validation rules section of the ‘Securities Holdings Return’. 6. Typo correction in ‘Reporting Examples’ file.  This corrected a few instances where an H4 cell referenced c41 instead of c31. |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-09-18

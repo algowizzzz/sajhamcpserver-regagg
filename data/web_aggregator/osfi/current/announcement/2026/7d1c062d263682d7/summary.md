@@ -1,0 +1,1 @@
+Summary: # Opérations sur l’actif avec un apparenté dans le cadre d’une restructuration

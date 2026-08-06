@@ -1,0 +1,1 @@
+Summary: # Capital Adequacy Requirements (CAR) (2027) – Chapter 4 – Credit Risk – Standardized Approach

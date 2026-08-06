@@ -1,0 +1,1 @@
+Summary: ​​​​​​In January 2020, EIOPA received a new mandate to coordinate mystery shopping activities. Hence, EIOPA and its members have been taking a gradual approach towards this coordination mandate.

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14426",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Update to Notice of Financial Institutions for Which the Federal Deposit Insurance Corporation Has Been Appointed Either Receiver, Liquidator, or Manager",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/17/2026-14426/update-to-notice-of-financial-institutions-for-which-the-federal-deposit-insurance-corporation-has",
+  "reference_number": "2026-14426",
+  "published_date": "2026-07-17",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a9c3b738f957dd95470fbb82aa0195bf5aa88f415febda988e2f3f09230410bb",
+  "version_ts": "2026-08-04T16-06-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:06:07.343628+00:00",
+  "run_id": "2026-08-04_fedreg_ui160607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14426",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "api_abstract"
+}

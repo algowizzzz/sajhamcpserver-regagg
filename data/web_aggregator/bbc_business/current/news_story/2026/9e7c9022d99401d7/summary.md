@@ -1,0 +1,1 @@
+Summary: # Vegetables to get smaller and more expensive due to hot weather, farmers warn

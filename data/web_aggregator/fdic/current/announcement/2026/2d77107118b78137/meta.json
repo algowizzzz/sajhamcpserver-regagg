@@ -1,0 +1,24 @@
+{
+  "doc_id": "2d77107118b78137",
+  "regulator_id": "fdic",
+  "doc_type": "announcement",
+  "title": "https://www.fdic.gov/board/board-memorandum-npr-community-reinvestment-act.pdf",
+  "language": "en",
+  "source_url": "https://www.fdic.gov/board/board-memorandum-npr-community-reinvestment-act.pdf",
+  "reference_number": null,
+  "published_date": "2026-07-31",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:5663aa203513a24e9ec76607edff07c17f64dbb100e36b2079467069e605be15",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fdic_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fdic/current/announcement/2026/2d77107118b78137",
+  "tags": [
+    "us",
+    "banking"
+  ]
+}

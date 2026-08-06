@@ -1,0 +1,1 @@
+Summary: # À quel moment vérifier l’identité des personnes et des entités – Courtiers ou agents immobiliers et promoteurs immobiliers : Directive de conformité de CANAFE

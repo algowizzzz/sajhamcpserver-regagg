@@ -1,0 +1,27 @@
+## More in this Section
+
+Press Release
+
+# SEC Small Business Advisory Committee to Explore Modernizing Market Access
+
+For Immediate Release
+
+2026-64
+
+Washington D.C., July 8, 2026 —
+
+The Securities and Exchange Commission’s [Small Business Capital Formation Advisory Committee](https://www.sec.gov/page/small-business-capital-formation-advisory-committee) announced that it will hold a meeting on Tuesday, July 21, 2026 at 10 a.m. to explore ways to modernize public market access and encourage IPOs and small public company capital formation.
+
+The meeting will be open to the public and held at the SEC’s headquarters at 100 F Street, NE, Washington D.C. The discussion will be streamed live on SEC.gov.
+
+Building upon ideas generated during the prior committee meeting, members will continue exploring ways to encourage more companies to go and stay public. The committee will consider ways to modernize the IPO process and potential regulatory reforms, including certain recently proposed SEC rulemakings aimed at reducing regulatory friction and facilitating capital formation in the public securities markets.
+
+To facilitate discussion and deepen the committee’s understanding of the regulatory landscape, members will hear from SEC staff in the Division of Corporation Finance who will provide an overview of recent relevant rulemakings. Members will also hear from Daniel Zinn, General Counsel and Chief of Staff, OTC Markets Group, and Sue Washer, biotechnology consultant and former CEO of Applied Genetic Technologies Corporation, who will share their experiences and views on ways to further support small public company capital formation.
+
+The Small Business Capital Formation Advisory Committee provides advice and recommendations to the SEC on rules, regulations, and policy matters relating to small businesses.
+
+For more information about the committee and the full agenda for the meeting, visit the [committee webpage](https://www.sec.gov/page/small-business-capital-formation-advisory-committee).
+
+###
+
+Last Reviewed or Updated: July 8, 2026

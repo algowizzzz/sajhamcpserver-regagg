@@ -1,0 +1,1 @@
+Summary: The European Insurance and Occupational Pensions Authority (EIOPA) published today a Report analysing national General Good rules in the context of the proper functioning of the Insurance Distribution Directive (IDD) and the internal market.

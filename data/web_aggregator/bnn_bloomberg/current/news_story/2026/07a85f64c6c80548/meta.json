@@ -1,0 +1,25 @@
+{
+  "doc_id": "07a85f64c6c80548",
+  "regulator_id": "bnn_bloomberg",
+  "doc_type": "news_story",
+  "title": "Gordie Howe International Bridge Opens to Pedestrians and Cyclists, Completing First International Trail Crossing on the Trans Canada Trail",
+  "language": "en",
+  "source_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/05/gordie-howe-international-bridge-opens-to-pedestrians-and-cyclists-completing-first-international-trail-crossing-on-the-trans-canada-trail/",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b5111f4f5428f33524051ee343d5ae75e89576aab38e2961b50463bba1d13925",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_bnn_bloomberg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bnn_bloomberg/current/news_story/2026/07a85f64c6c80548",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/05/gordie-howe-international-bridge-opens-to-pedestrians-and-cyclists-completing-first-international-trail-crossing-on-the-trans-canada-trail/",
+  "fetch_method": "feed_summary"
+}

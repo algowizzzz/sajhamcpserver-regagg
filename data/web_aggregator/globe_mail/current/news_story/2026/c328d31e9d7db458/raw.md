@@ -1,0 +1,7 @@
+# Félix Auger-Aliassime withdraws from National Bank Open owing to back injury
+
+The fourth-ranked player in the ATP, the Montrealer is the third Canadian to leave men’s side with an injury
+
+[Read the full story at the source](https://www.theglobeandmail.com/sports/tennis/article-auger-aliassime-withdraws-from-national-bank-open-due-to-back-injury/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

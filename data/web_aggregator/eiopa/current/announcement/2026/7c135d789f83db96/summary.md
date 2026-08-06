@@ -1,0 +1,1 @@
+Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its updated Risk Dashboard based on the second quarter 2019 Solvency II data.

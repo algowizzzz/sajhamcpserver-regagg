@@ -1,0 +1,25 @@
+{
+  "doc_id": "e9a61c57314ddd10",
+  "regulator_id": "wsj_markets",
+  "doc_type": "news_story",
+  "title": "JGBs Rise, Tracking Gains in U.S. Treasurys",
+  "language": "en",
+  "source_url": "https://www.wsj.com/finance/investing/jgbs-rise-tracking-gains-in-u-s-treasurys-297e6f42?mod=rss_markets_main",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e21b145b78a6519d6a0f23179eb28d1584f32b6013a7e065721ab137360de60b",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_wsj_markets_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/wsj_markets/current/news_story/2026/e9a61c57314ddd10",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.wsj.com/finance/investing/jgbs-rise-tracking-gains-in-u-s-treasurys-297e6f42?mod=rss_markets_main",
+  "fetch_method": "feed_summary"
+}

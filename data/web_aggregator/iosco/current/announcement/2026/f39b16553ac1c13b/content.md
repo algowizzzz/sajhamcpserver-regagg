@@ -1,0 +1,156 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+# Committee on Regulation of Market Intermediaries (Committee 3)
+
+Committee 3 seeks to promote investor protection and market efficiency through its recommendations on issues relating to market intermediaries. Recent work includes publication of suitability requirements for the distribution of complex financial products, final guidance for regulators on how to enhance their supervision of intermediaries holding client assets, and contributions to the FSB roadmap on reducing the reliance of financial intermediaries on the ratings of credit rating agencies.
+
+## Members of Committee 3
+
+### Chair
+
+Mr. James Andronis, Head of Markets Portfolio and Intelligence, Markets Group, Australian Securities and Investments Commission, **Australia**
+
+### Vice Chair
+
+Mr. Jiro Masuda, Deputy Director for International Capital Market Regulation, Financial Services Agency, **Japan**
+
+### Members (36)
+
+Financial Services Regulatory Authority, **Abu Dhabi**  
+*(Ms. Nadya Al Hadrami / Ms. Azza Abdel Bari)*
+
+Australian Securities and Investments Commission, **Australia**  
+*(Mr. James Andronis, Head of Markets Portfolio and Intelligence, Markets Group)*
+
+Securities Commission of The Bahamas, **Bahamas**  
+*(Ms. Christina Rolle, Executive Director / Ms. Sherinn Munnings, Manager, Office of the Executive Director)*
+
+Comissão de Valores Mobiliários, **Brazil**  
+*(Mr. Wagner Neustaedter, Market Surveillance Department)*
+
+Canadian Investment Regulatory Organization, **Canada**  
+*(Mr. Richard J. Corner, Vice President and Chief Policy Advisor, Member Regulation)*
+
+China Securities Regulatory Commission, **China**  
+*(Mr. Shaoxiong Ren, Deputy Director for Department of Fund and Intermediary Supervision / Ms. Xiaoting Jiang)*
+
+Autorité des marchés financiers, **France**  
+*(Mr. Florian Vallée)*
+
+Bundesanstalt für Finanzdienstleistungsaufsicht, **Germany**  
+*(Scherwin Johannsen, Senior Advisor / Ms. Andrea Löhr, Senior Advisor)*
+
+Securities and Futures Commission, **Hong Kong**  
+*(Ms. Iris Chow, Director / Mr. Francisco Ferreira, Associate Director, Intermediaries Supervision, Intermediaries)*
+
+Securities and Exchange Board of India, **India**  
+*(Mr. Govindayapalli Ram Mohan Rao, Executive Director)*
+
+Indonesia Financial Services Authority, **Indonesia**  
+*(Mr. Khoirul Muttaqien, Executive Director, Department of Capital Market Supervision 2A / Mrs. Prihatin Agustyatun Muji Rahayu, Deputy Director)*
+
+Israel Securities Authority, **Israel**  
+*(Ms. Noam Shklar, Legal Counsel at the Investment Department)*
+
+Commissione Nazionale per le Società e la Borsa, **Italy**  
+*(Ms. Daniela Gariboldi, Senior officer - International relations / Mr. Francesco Adria)*
+
+Financial Services Agency, **Japan**  
+*(Mr. Jiro Masuda, Deputy Director for International Capital Market Regulation)*
+
+Financial Services Commission/Financial Supervisory Service, **Korea, Republic of**  
+*(Mr. Noh Yoon Chung, Senior Manager, Capital Market System Team, Capital Market Supervision Department / Mr. Min Seok Kim, Associate, Capital Market System Team, Capital Market Supervision Department)*
+
+Capital Markets Authority, **Kuwait**  
+*(Mr. Nawaf Al-Saleh, Strategies Office Director)*
+
+Comisión Nacional Bancaria y de Valores, **Mexico**  
+*(Mr. Rodrigo Hernández, General Director of Securities Supervision / Mr. Otto Torres)*
+
+Autorité Marocaine du Marché des Capitaux, **Morocco**  
+*(Mr. Badre Labiad, Senior Analyst Intermediaries & Custodians Unit / Ms. Hasnaâ Barzali, Head of Market Intermediaries Supervision)*
+
+The Dutch Authority for the Financial Markets, **The Netherlands**  
+*(Paschtun Steltenpohl, Manager Retail (Investor Protection))*
+
+Securities and Exchange Commission, **Nigeria**  
+*(Ms. Imeobong Victoria Ekong, Deputy Director / Ms. Ojiugo C. Eze, Senior Manager)*
+
+Ontario Securities Commission, **Ontario**  
+*(Mr. Joseph Della Manna, Associate Vice President, SRO/IPF and Dealer Policy)*
+
+Polish Financial Supervision Authority, **Poland**  
+*(Mr. Grzegorz Markiewicz, Expert in the Investment Firms Department)*
+
+Autorité des marchés financiers, **Quebec**  
+*(Ms. Louise Gauthier, Senior Director, Distribution Policies / Ms. Pascale Toupin, Director of Market Structures and Derivatives Oversight and International Affairs)*
+
+Financial Supervisory Authority, **Romania**  
+*(Ms. Florentina Boboc, Head of the Licensing Division)*
+
+The Bank of Russia, **Russia**  
+*(Mr. Alexey Orlov, Advisor - Financial Market Development Department / Mr. Arseniy Romanov, Advisor on Economic Issues, Department for Countering Misconduct / Mr. Gleb Mararenko)*
+
+Capital Market Authority, **Saudi Arabia**  
+*(Mr. Hamad Alhusaini, Authorization Department, Director)*
+
+Monetary Authority of Singapore, **Singapore**  
+*(Mr. Ian Chung, Executive Director, Markets, Infrastructures & Intermediaries Department / Ms. Yolanda Constantine, Director & Specialist Leader (Derivatives Regulation) (Markets, Infrastructures & Intermediaries Department))*
+
+Comisión Nacional del Mercado de Valores, **Spain**  
+*(Ms. Sonia Martinez, Coordinator, Authorisation and registry of Investment Services firms / Ms. Susana Martínez Blanco, Senior Supervisor)*
+
+Swiss Financial Market Supervisory Authority, **Switzerland**  
+*(Ms. Denise Jud, Senior Legal & Policy Specialist, Asset Management and Market Division)*
+
+Financial Supervisory Commission, **Chinese Taipei**  
+*(Mr. Joey Cheng, Director)*
+
+Capital Markets Board, **Türkiye**  
+*(Mr. Özge KAHRAMAN MOĞULKOÇ, Senior Expert, Market Intermediaries Dept. / Caner YAMAN, Expert, Market Intermediaries Dept.)*
+
+Capital Market Authority, **United Arab Emirates**  
+*(Khaled Ghaith Al Zaabi, Director of Supervision Department, Capital Market Authority)*
+
+Financial Conduct Authority, **United Kingdom**  
+*(Ms. Caroline Halstead-Smith, Manager, Consumer Investments Distribution Policy Team, Consumer Investments MAP, Supervision, Policy & Competition)*
+
+Commodity Futures Trading Commission, **United States of America**  
+*(Mr. Mauricio Melara, Acting Director, Office of International Affairs)*
+
+Securities and Exchange Commission, **United States of America**  
+*(Mr. Devin Ryan, Assistant Director, Division of Trading and Markets / Ms. Kyra Grundeman, Special Counsel, Division of Trading and Markets)*
+
+Financial Industry Regulatory Authority, **United States of America**  
+*(Ms. Angelica Shuldiner, Director, Office of International Affairs)*
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

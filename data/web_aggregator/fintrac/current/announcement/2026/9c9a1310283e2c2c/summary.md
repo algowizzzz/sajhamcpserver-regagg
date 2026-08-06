@@ -1,0 +1,1 @@
+Summary: # Administrative monetary penalty on Gestion de Patrimoine Blue Bridge Inc.

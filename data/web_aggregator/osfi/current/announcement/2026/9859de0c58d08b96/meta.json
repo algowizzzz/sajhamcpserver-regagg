@@ -1,0 +1,25 @@
+{
+  "doc_id": "9859de0c58d08b96",
+  "regulator_id": "osfi",
+  "doc_type": "announcement",
+  "title": "Pr\u00eats hypoth\u00e9caires (E2) | Bureau du surintendant des institutions financi\u00e8res",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/prets-hypothecaires-e2",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c5fe8d98daef8ebd0d0a7d3e6e8306af4c61acf10c9caf3f2cb59199e55eed8a",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_osfi_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/announcement/2026/9859de0c58d08b96",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ]
+}

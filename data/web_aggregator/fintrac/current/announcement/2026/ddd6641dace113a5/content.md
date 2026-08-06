@@ -1,0 +1,42 @@
+# FINTRAC imposes an administrative monetary penalty on Pacific Place – Arc Realty Ltd.
+
+[**2021-11-04**]
+
+Pacific Place – Arc Realty Ltd., a real estate broker in Vancouver, British Columbia, was imposed an administrative monetary penalty of $255,750 on July 27, 2021, for committing six violations. The violations were found during the course of a compliance examination in 2019. The case is closed.
+
+**Violation #1 – Failure of a person or entity to appoint a person to be responsible for the implementation of a compliance program – PCMLTF Regulations 71(1)(a)**
+
+Pacific Place – Arc Realty Ltd. did not ensure that the appointed person is responsible for implementing a compliance program.
+
+---
+
+**Violation #2 – Failure to develop and apply written compliance policies and procedures that are kept up to date and, in the case of an entity, are approved by a senior officer – PCMLTF Regulations 71(1)(b)**
+
+Pacific Place – Arc Realty Ltd.’s compliance policies and procedures did not sufficiently cover the requirements for verifying client identity, determining third parties, record-keeping of business relationships and receipt of funds, and conducting ongoing monitoring of business relationships.
+
+---
+
+**Violation #3 – Failure to assess and document the risk of a money laundering or terrorist financing offence, taking into consideration prescribed factors – PCMLTF Regulations 71(1)(c)**
+
+Pacific Place – Arc Realty Ltd.’s risk assessment did not fully consider the money laundering or terrorist activity financing risk of its geographic locations, products and delivery channels, clients and business relationships, and other relevant factors affecting its business.
+
+---
+
+**Violation #4 – Failure to develop and maintain a written ongoing compliance training program – PCMLTF Regulations 71(1)(d)**
+
+Pacific Place – Arc Realty Ltd.’s ongoing training program was not fully documented or delivered in practice to all of its staff and salespersons.
+
+---
+
+**Violation #5 – Failure to institute and document the prescribed review – PCMLTF Regulations 71(1)(e)**
+
+Pacific Place – Arc Realty Ltd.’s prescribed review did not assess the effectiveness of its policies and procedures, risk assessment and training program.
+
+---
+
+**Violation #6 – Failure to report suspicious transactions – PCMLTFA 7**
+
+Pacific Place – Arc Realty Ltd. failed to submit a suspicious transaction report where there were reasonable grounds to suspect that transactions were related to a money laundering offence.
+
+Date Modified:
+:   2021-11-04

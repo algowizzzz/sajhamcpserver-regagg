@@ -1,0 +1,26 @@
+{
+  "doc_id": "2026-11922",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Green Impact Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 11.240 (Trade Reporting and Dissemination of Quotations) To Conform With Amendments to Rules 600 and 603 of Regulation NMS Approved by the Commission That Concern the Reporting and Dissemination of Odd-Lot Information, and an Additional Ministerial Change to Rule 11.220 To Correct a Typographical Error",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/15/2026-11922/self-regulatory-organizations-green-impact-exchange-llc-notice-of-filing-and-immediate-effectiveness",
+  "reference_number": "2026-11922",
+  "published_date": "2026-06-15",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:13754a7ea0696c88e690827ff8a6df532de385b739ffb00fccdf2bc3fe14de00",
+  "version_ts": "2026-08-04T01-11-54Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-04T01:11:54.868965+00:00",
+  "run_id": "2026-08-03_fedreg_ui011154",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-11922",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md"
+}

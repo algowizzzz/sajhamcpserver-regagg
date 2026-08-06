@@ -1,0 +1,1 @@
+Summary: # Changes to collateral eligibility in the Sterling Monetary Framework - Market Notice 11 June 2026

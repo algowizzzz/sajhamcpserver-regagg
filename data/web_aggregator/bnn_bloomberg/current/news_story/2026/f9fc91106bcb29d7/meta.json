@@ -1,0 +1,25 @@
+{
+  "doc_id": "f9fc91106bcb29d7",
+  "regulator_id": "bnn_bloomberg",
+  "doc_type": "news_story",
+  "title": "Colombia\u2019s gold moment arrives, and Tiger Gold is drilling at the centre of it",
+  "language": "en",
+  "source_url": "https://www.bnnbloomberg.ca/investment-trends/2026/08/04/colombias-gold-moment-arrives-and-tiger-gold-is-drilling-at-the-centre-of-it/",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b49d0d556063f7fbf29af2954520de4d41204f2810057c8f87929c07ff83e170",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_bnn_bloomberg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bnn_bloomberg/current/news_story/2026/f9fc91106bcb29d7",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.bnnbloomberg.ca/investment-trends/2026/08/04/colombias-gold-moment-arrives-and-tiger-gold-is-drilling-at-the-centre-of-it/",
+  "fetch_method": "feed_summary"
+}

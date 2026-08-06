@@ -1,0 +1,26 @@
+{
+  "doc_id": "6ce2ad5c39b7d83d",
+  "regulator_id": "frb",
+  "doc_type": "announcement",
+  "title": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260617.pdf",
+  "language": "en",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260617.pdf",
+  "reference_number": null,
+  "published_date": "2026-07-08",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:82b1226b7fa46ada9d324807c051aa28f9ee933266abd87b4602c1a9afb6f3fd",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_frb_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/frb/current/announcement/2026/6ce2ad5c39b7d83d",
+  "tags": [
+    "us",
+    "central_bank",
+    "prudential",
+    "banking"
+  ]
+}

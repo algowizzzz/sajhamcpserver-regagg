@@ -1,0 +1,1 @@
+Summary: # Gold touches seven-week high on Strait of Hormuz reopening hopes

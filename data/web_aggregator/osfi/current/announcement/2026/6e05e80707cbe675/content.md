@@ -1,0 +1,667 @@
+# Business Specifications for the Climate-Related Risk Returns for Insurers
+
+Information
+
+Type of document
+
+Instructions
+
+Industry
+
+Insurance companies
+
+Return
+
+Climate-related risk returns
+
+Last updated
+
+November 2025
+
+Return number
+
+OSFI1002-OSFI1003
+
+Table of contents
+
+Related documents
+
+* [Insights from the 2025 Climate Risk Returns](/en/about-osfi/reports-publications/insights-2025-climate-risk-returns)
+
+## Return files
+
+[IC1 (OSFI 1002) - Sample return (CSV, 13.37 KB)](/sites/default/files/documents/ic1-return-releve-2025-11-en.csv "ic1-return-releve-2025-11-en.csv") [IC1 (OSFI 1002) - Technical specifications (XLSX, 39.29 KB)](/sites/default/files/documents/ic1-specifications-2025-12-01-en.xlsx "ic1-specifications-2025-12-01-en.xlsx") [IC2 (OSFI 1003) - Sample return (CSV, 4.94 KB)](/sites/default/files/documents/ic2-return-releve-2025-12-01-en.csv "ic2-return-releve-2025-12-01-en.csv") [IC2 (OSFI 1003) - Technical specifications (XLSX, 36.77 KB)](/sites/default/files/documents/ic2-specifications-2025-12-19-en.xlsx "ic2-specifications-2025-12-19-en.xlsx") [Field applicability matrices for Insurers (XLSX, 57.12 KB)](/sites/default/files/documents/ic1-ic2-matrices-2025-12-19-en.xlsx "ic1-ic2-matrices-2025-12-19-en.xlsx") [Change control log](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/change-control-log-climate-risk-returns "Change Control Log (Climate Risk Returns)")
+
+## Purpose
+
+The purpose of the Climate Risk Returns is to collect standardized climate-related emissions and exposure data, directly from all institutions to enable OSFI to carry out evidence-based policy development, regulation, and prudential supervision as it pertains to climate risk management.
+
+These returns capture data to enable quantification of Insurers’ 1) potential and realized physical risk exposures; and 2) potential transition risk exposures, as at fiscal year-end.
+
+More specifically, these returns collect data on:
+
+* underwritten physical risk exposures (claims, insurance revenue and PML) for select lines of business, by geophysical location
+* absolute greenhouse gas (GHG) emissions (Scopes 1, 2 and 3)
+
+The data collection is confidential and will not be released publicly.
+
+## Application
+
+These returns apply to all Insurers.
+
+## Frequency
+
+Annual.
+
+## Filing Format
+
+Returns are to be filed through RRS in .CSV format.
+
+## Implementation Date
+
+The Returns are effective on or after October 31 for the following fiscal year-ends:
+
+* 2024, for IAIGs[Footnote 1](#fn1)
+* 2025, for Non-IAIGs
+
+## Reporting Date
+
+The returns must be completed on a fiscal year-end basis and filed within 180 days of the insurer’s fiscal year-end date.
+
+For example, an IAIG with a December 31 fiscal year-end would complete its first return for the 2024 fiscal year, using data as at December 31, 2024 and file it by the end of June 2025. A non-IAIG with a December 31 fiscal year-end would complete its first return for the 2025 fiscal year, using data as at December 31, 2025 and file it by the end of June 2026.
+
+## Contact Agency
+
+Office of the Superintendent of Financial Institutions (OSFI).
+
+## Contact Person
+
+For business and/or interpretation questions on the final version of the return, contact us through the Climate Risk Return email address: [ClimateRiskReturn-ReleveRisquesClimatiques@osfi-bsif.gc.ca](mailto:ClimateRiskReturn-ReleveRisquesClimatiques@osfi-bsif.gc.ca).
+
+## Key Terms and Definitions
+
+| Key Term | Definition |
+| --- | --- |
+| Absolute Emissions | Volume of greenhouse gas (GHG) emissions expressed in tonnes of carbon dioxide-equivalent (CO2-e). For the purposes of this return, "absolute emissions" refers to generated emissions and not values relating to avoided emissions or emission removals. |
+| Asset Class | A group of financial instruments that have similar financial characteristics. |
+| Carbon Dioxide-equivalent (CO2-e) | The universal unit of measurement to show the global warming potential (GWP) of each of the seven greenhouse gases, expressed in terms of the GWP of one unit of carbon dioxide for 100 years. This unit is used to evaluate releasing different greenhouse gases against a common basis. |
+| Claims Paid | The dollar amount of insured claims paid during the reporting period.  Claims Paid include loss (i.e., indemnity) and allocated loss adjustment expenses paid during the reporting period. Claims paid should be net of insureds’ deductibles and gross of Reinsurance Recoveries. Claims Paid include only amounts that were paid as a result of physical damage caused by climate-related perils[Footnote 2](#fn2). Payments due to non-natural causes, such as burst pipes or arson, as well as payments for liability-related and warranty-related claims are **excluded**.  See the definition of Peril below for further details on climate change-related perils. |
+| Financed Emissions | Absolute greenhouse gas (GHG) emissions that insurers and investors finance through their loans and investments. See Absolute Emissions. |
+| Greenhouse gas (GHG) emissions | Emissions of the seven greenhouse gases listed in the Kyoto Protocol–carbon dioxide (CO2); methane (CH4); nitrous oxide (N2O); hydrofluorocarbons (HFCs); nitrogen trifluoride (NF3); perfluorocarbons (PFCs); and sulphur hexafluoride (SF6). |
+| Insurance Revenue | The dollar amount of Revenue from insurance contracts for the reporting period calculated in accordance with IFRS 17 Insurance Contracts. |
+| Insurance Classes | Insurance Classes are grouped as follows:   1. Personal Automobile 2. Commercial Property 3. Other Commercial Lines 4. Personal Property 5. Other Personal (physical damage coverages only; liability and warranted-related exposures are excluded)   Commercial insurance classes refer to insurance offered to commercial clients (e.g., businesses and associations). Personal insurance classes refer to insurance offered to individuals.  With respect to Commercial Automobile insurance,   * For IC1 (OSFI 1002) purposes, any commercial automobile policies should be reported under the Other commercial insurance class. * For IC2 (OSFI 1003) purposes, commercial automobile policies should not be reported within the insurance classes as associated GHG emissions are already subsumed in the Personal Automobile insurance classes. |
+| Insurance-Associated Emissions | Greenhouse gas (GHG) emissions which are associated with specific re/insurance policies aggregated in the re/insurance portfolios of an insurer. Reporting of Insurance-Associated Emissions is to be determined (TBD) until further notice. |
+| Peril | For purposes of the IC1 (OSFI 1002) Return, reportable perils are climate-related events that result in physical damage losses. The four types of perils used for the IC1 (OSFI 1002) Return are: 1) wildfire, 2) flood, 3) severe convective storms, and 4) hurricanes.  The definitions listed below are consistent with those of commonly available modeled perils provided by third-party catastrophe model vendors.   1. Wildfire: A wide-area destructive fire that spreads quickly over (typically) woodland or brush. 2. Flood: Damage caused by precipitation and/or water flows over land.  Floods can include:     * coastal or storm surges,    * riverine or fluvial floods,    * flash, surface, or pluvial floods, and    * sewer backup 3. Severe convective storms: Severe wind caused by severe convective weather activity including straight-line wind thunderstorms, tornadoes and hail. Severe convective storms are separate weather events from hurricanes 4. Hurricane: damage caused by hurricane winds, storm surge, and precipitation-induced flooding. |
+| Physical risks | Risks resulting from climate change that can be event-driven (acute) or from longer-term shifts (chronic) in climate patterns. These risks may carry financial implications for entities, such as direct damage to assets and indirect effects of supply-chain disruption. Insurers’ financial performance may also be affected by changes in water availability, sourcing, and quality; and extreme temperature changes affecting entities’ premises, operations, supply chain, transportation needs, and employee safety. |
+| Gross Probable maximum loss (PML) | The maximum ground-up loss that could result from a peril, reported on an occurrence basis, including policyholder deductibles and coinsurance, and before applying any reinsurance arrangements. To avoid double counting in shared-risk arrangements, insurers and reinsurers should calculate Gross PML based on the portion of the underlying exposure that represents their own insured interest. Where applicable, Gross PML should incorporate adjustments for data quality, non-modelled exposures, and model uncertainty. Gross PML should be expressed in Canadian Dollars or Canadian Dollar Equivalent. Gross PML is applicable to P&C insurers only. |
+| Net Probable maximum loss (PML) | The value of the maximum loss that could result from a peril, reported on an occurrence basis, net of all applicable reinsurance, deductibles and co-insurance expressed in CAD Dollars or CAD Equivalent. |
+| Reinsurance Recoveries | Dollar amounts collected from the reinsurer by a ceding insurer during the reporting period related to Claims Paid. See above for the definition of Claims Paid. |
+| Scope 1 Greenhouse Gas (GHG) Emissions | Direct GHG emissions that occur from sources owned or controlled by the insurer — i.e., GHG emissions from combustion in owned or controlled boilers, furnaces, vehicles, etc. |
+| Scope 2 Greenhouse Gas (GHG) Emissions | Indirect greenhouse gas (GHG) emissions from the generation of purchased or acquired electricity, steam, heating, or cooling consumed by the insurer. |
+| Scope 3 Greenhouse Gas (GHG) Emissions | All other indirect GHG emissions (not included in Scope 2) that occur in the value chain of the reporting company.  For the purposes of this return, Scope 3 emissions include the following categories (consistent with the GHG Protocol):  **(1) to (14) – Insurer’s Own Emission/Non-Financed Emissions**  Reporting requirements of these categories are to be determined (TBD) until further notice.  Upstream:   1. purchased goods and services; 2. capital goods; 3. fuel- and energy-related activities not included in Scope 1 emissions or Scope 2 emissions; 4. upstream transportation and distribution; 5. waste generated in operations; 6. business travel; 7. employee commuting;   Downstream:   8. upstream leased assets; 9. downstream transportation and distribution; 10. processing of sold products; 11. use of sold products; 12. end-of-life treatment of sold products; 13. downstream leased assets; 14. franchises; 15. **Investments (a.k.a “Financed” Emissions)**     1. (scope 1 and 2) emissions of an insurer’s investees     2. (scope 1 and 2) emissions of an insurer’s borrowers 16. **Insurance-Associated (IAE) emissions**   Reporting requirements for IAE are to be determined (TBD) until further notice. |
+| Transition risks | Moving to a lower-carbon economy may entail extensive policy, legal, technology and market changes to address mitigation and adaptation requirements relating to climate change. Depending on the nature, speed and focus of these changes, transition risks may pose varying levels of financial and reputational risk to insurers. |
+| Total-Insured-Value | The dollar amount of total insured value of assets under insurance coverage. |
+| Value Chain | The full range of activities, resources and relationships related to an insurer’s business model and the external environment in which it operates. |
+
+## Units of Measurement for Reporting
+
+### Financial Figures
+
+Reported financial figures, Insurance Revenue, Claims Paid, Reinsurance Recoveries, outstanding loan balances or investment security values, should be expressed in Canadian Dollars or Canadian Dollar Equivalent with no decimals and no commas, unless otherwise specified. Note, policy count is not expressed in Canadian Dollars or Canadian Dollar Equivalent.
+
+### Greenhouse gas (GHG) Emissions
+
+All reporting on Absolute GHG Emissions, including Scope 1, Scope 2 and Scope 3 emissions should be reported in metric tons of carbon dioxide-equivalent (tCO2-e).
+
+### Probabilities and Percentages
+
+All probabilities and percentages should be reported as their decimal equivalents. For example, a figure of 1.09% should be reported as 0.01090.
+
+## Greenhouse gas emissions accounting
+
+Regarding calculation of GHG emissions, the insurer is expected to use the latest GHG Protocol Corporate Accounting and Reporting Standard and the latest GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard.
+
+Regarding calculation of the portion(s) of Scope 3 GHG emissions, pertaining to the Insurer’s Financed, and/or Insurance-Associated GHG Emissions, the insurer is expected to use the latest Partnership for Carbon Accounting Financials’ (PCAF’s) Global GHG Accounting and Reporting Standard for the Financial Industry (PCAF Standard).
+
+OSFI recognizes that there is often a lag between financial reporting and required data becoming available, such as emissions data for an insured client. Accordingly, for Financed and Insurance-Associated GHG Emissions, the insurer may use the most recently available emissions-related data from entities within its value chain alongside its own current year financial data. For example, when filing for fiscal year 2024, use financial data for fiscal year 2024 and GHG emissions data for fiscal year 2023.
+
+While there is no defined maximum lookback period, a duration of two years or less is recommended. Insurers should indicate in their supplemental notes if the lookback period exceeds two years.
+
+## Structure of the Climate-Related Risk Returns for Insurers
+
+### Tabular Structure of the Climate-Related Data Return Templates
+
+Each data return is structured to contain three types of data fields:
+
+* Sub-Table Field
+* Categorical Data Fields
+* Calculated Data Fields
+
+An illustration, using an example from the structure of the IC1 (OSFI 1002) return, is shown below.
+
+![Example from the structure of the IC1 return. Text description follows.](/sites/default/files/images/ic1-img-en.png)
+
+1. **Sub-Table Field:** This data field is used to report the Sub-Table of the return (`return_subtable`). See the section Return Sub-Tables below for further details.
+2. **Categorical Data Fields:** These data fields are used to report qualitative data that are mutually exclusive. Categorical fields used in the Climate-Related Risk Returns for Insurers are as follows: `asset_class`, `insurance_class`, `region`, `sector` and, `credit_quality` `region` (N.B. `asset_class`, `sector`, and `credit_quality` are not fields included in the IC1 (OSFI 1002) return, consistent with the illustration above).
+3. **Calculated Data Fields:** The data reported in these fields are to be calculated to reflect the maximum granularity established by the applicable Categorical Data Fields, unless otherwise noted. Referencing the illustration above, the policy count reported as 5924 in the first row in the field `policy_count` represents (is calculated as) the number of policies in the `region` (i.e. province or territory in Canada) that are of the `insurance_class` code ‘1’ (‘Personal Automobile’).
+
+### Reference Format
+
+Submission keys that identify each data field being collected are included in the first row of each template. For ease of identification within this document, submission keys are formatted in lower case with underscored spacing font, such as `return_subtable`.
+
+For categorical fields, categorical codes and their related values are listed in single quotes, such as code ‘1’ and ‘Personal Automobile’ respectively.
+
+### Categorical Field Selections
+
+Tables containing the comprehensive list of the selections available for each of the categorical fields, other than `region`, are provided in the appendices to this document as follows:
+
+* [Appendix I – Asset Classes](#appI)
+* [Appendix II – Insurance Classes](#appII)
+* [Appendix III – Regions](#appIII)
+* [Appendix IV – Sectors](#appIV)
+* [Appendix V – Credit Quality Ratings](#appV)
+
+These tables correspond to those included in the input templates for the IC1 (OSFI 1002) and IC2 (OSFI 1003) returns.
+
+### Return Sub-Tables
+
+For reporting purposes, each return consists of a single data table that are divided into sub-tables that group related reporting data elements. The sub-tables for each of the returns are as follows:
+
+Insurance Physical Risk Return IC1 (OSFI 1002)
+
+| Return Sub-Table Name | Return Sub-Table Code | Applicable Insurers |
+| --- | --- | --- |
+| Insurance Claim and Revenue Metrics – In Canada and outside of Canada by Region | IC1-A | * P&C Insurers * Reinsurers (Optional) |
+| Probable Maximum Loss (PML) by Region | IC1-B | P&C Insurers |
+
+The return template Insurance Physical Risk Return IC1 (OSFI 1002) is not applicable to Surety Insurers, Title Insurers, Credit Insurers, Mortgage insurers or Life and Health Insurers.
+
+Insurance Transition Risk Return IC2 (OSFI 1003)
+
+| Return Sub-Table Name | Return Sub-Table Code | Applicable Insurers |
+| --- | --- | --- |
+| Entity-level Insurer’s Own GHG Emissions by Scope | IC2-A | All[Footnote 3](#fn3) |
+| Financed GHG Emissions by Asset Class | IC2-B | All |
+
+The return template Insurance Transition Risk Return IC2 (OSFI 1003) is applicable to all in scope Insurers – see footnote 3.
+
+#### Field Applicability by Sub-Table
+
+The fields applicable for each Sub-Table are outlined in the [Field Applicability Matrices document (XLSX, 57.12 KB)](/sites/default/files/documents/ic1-ic2-matrices-2025-12-19-en.xlsx "ic1-ic2-matrices-2025-12-19-en.xlsx"). Reported fields are based upon the `insurance_class` for the IC1 Return, by `asset_class` for Sub-Table IC1-A and IC1-B of the IC2 (OSFI 1003) Return. Non-applicable fields should be reported as blank on each row.
+
+## Instructions for the Physical Risk Return IC1 (OSFI 1002)
+
+This return collects data on insurance revenues and paid claims losses to assess Insurers’ historical loss experience due to Physical Risk from climate-related perils for select climate-exposed insurance classes. This return also collects Probable Maximum Loss (PML) data at a regional granularity to assess Insurers’ forward-looking loss exposures due to physical risk from climate-related perils.
+
+### Overview of Return Data Fields
+
+The following fields are included in the IC1 (OSFI 1002) Return template:
+
+#### Sub-Table Field
+
+`return_subtable`
+
+#### Categorical Data Fields
+
+* `insurance_class`
+* `region`
+
+#### Calculated Fields
+
+* `insurance_revenue`
+* `policy_count`
+* `claims_paid_flood`
+* `claims_paid_wildfire`
+* `claims_paid_sev_convec_storm`
+* `claims_paid_hurricane`
+* `reinsur_claims_paid`
+* `count_claims_paid_flood`
+* `count_claims_paid_wildfire`
+* `count_claims_paid_sev_convec_storm`
+* `count_claims_paid_hurricane`
+* `reinsur_count_paid`
+* `reinsur_recov_wildfire`
+* `reinsur_recov_flood`
+* `reinsur_recov_sev_convec_storm`
+* `reinsur_recov_hurricane`
+* `reinsur_recov`
+* `total_insured_value`
+* `gross_pml_flood_1_100`
+* `gross_pml_wildfires_1_100`
+* `gross_pml_sev_convec_storm_1_100`
+* `gross_pml_hurricane_1_100`
+* `gross_pml_flood_1_250`
+* `gross_pml_wildfires_1_250`
+* `gross_pml_sev_convec_storm_1_250`
+* `gross_pml_hurricane_1_250`
+* `net_pml_flood_1_100`
+* `net_pml_wildfires_1_100`
+* `net_pml_sev_convec_storm_1_100`
+* `net_pml_hurricane_1_100`
+* `net_pml_flood_1_250`
+* `net_pml_wildfires_1_250`
+* `net_pml_sev_convec_storm_1_250`
+* `net_pml_hurricane_1_250`
+
+The above fields are to be completed using the [reporting template (XLSX, 39.29 KB)](/sites/default/files/documents/ic1-specifications-2025-12-01-en.xlsx "ic1-specifications-2025-12-01-en.xlsx"), following the instructions below for reporting claims losses and premiums applicable in Canada and outside of Canada, as well as PML data.
+
+#### Field Applicability by Sub-Table
+
+The fields applicable for each Sub-Table are outlined in the Field Applicability Matrices (See Link: [Field Applicability Matrices document (XLSX, 57.12 KB)](/sites/default/files/documents/ic1-ic2-matrices-2025-12-19-en.xlsx "ic1-ic2-matrices-2025-12-19-en.xlsx")).
+
+### Sub-Table IC1-A: Insurance Claims and Revenue Metrics by Region (Canada and outside of Canada)
+
+Report on all fields in the template for business written in Canada and outside of Canada, per the instructions below. References below to Claims Paid, Counts of Claims Paid and Reinsurance Recoveries should include only amounts that were paid/received as a result of physical damage caused by climate-related perils, and exclude claims paid due to non-natural causes such as burst pipes or arson, as well as liability-related and warranty-related claims.
+
+Future versions of the Returns will include reporting requirements at an FSA-level of granularity for certain Insurance Classes, underwritten exposures and metrics.
+
+#### Sub-Table Field
+
+* `return_subtable` – Set field value to ‘IC1-A’ on each row reported
+
+#### Categorical Data Fields
+
+* `insurance_class` – Report the applicable Insurance Classes per table in Appendix II – Insurance Classes for each row reported. For multi-peril policies, include insurance written for commercial clients under “Other Commercial Lines”, otherwise use “Other Personal”.
+
+  Reinsurance companies should use code “6” (“RE Aggregated Data”, i.e., data not available by `insurance_class`) as per Appendix II – Insurance Classes to report on the applicable data fields. Code “6” (“RE Aggregated Data”) is applicable only to Reinsurance companies.
+* `region` – Report the applicable `region`, i.e., the location of the insured risk (not the location of the insurance policy) in Canada and/or outside of Canada per the table in Appendix III – Regions on each row reported
+
+#### Calculated Data Fields
+
+* `insurance_revenue` – Report the dollar amount of Insurance Revenue for the `insurance_class` in the reported `region` for the fiscal year
+* `policy_count` – Report the number of active policies written for the `insurance_class` in the reported `region`.
+
+  + For the purpose of the IC1 (OSFI 1002) returns, multi-perils policies are considered as one policy.
+  + For reinsurers “policy count" should be interpreted as "treaty" coverage which should be considered as one policy.
+  + For multi-location policies such as large commercial policies that cannot be specifically attributed to a single physical location using the available insured data, insurers should report using the code ‘C1’ ‘Canada-Other’ for the `region` data field as per Appendix III – Regions.
+* `claims_paid_flood` – Report the dollar amount of flood-related claims paid under coverage offered in the `insurance_class` in the reported in the region, net of deductible and gross of Reinsurance Recoveries for the fiscal year
+* `claims_paid_wildfire` – Report the dollar amount of wildfire-related claims paid under coverage offered in the `insurance_class` in the reported `region`, net of deductible and gross of Reinsurance Recoveries for the fiscal year
+* `claims_paid_sev_convec_storm` – Report the dollar amount of Severe convective storms-related claims paid (excluding flooding related losses) under coverage offered in the `insurance_class` in the reported `region`, net of deductible and gross of Reinsurance Recoveries for the fiscal year
+* `claims_paid_hurricane` – Report the dollar amount of hurricane related-claims paid under coverage offered in the `insurance_class` in the reported `region`, net of deductible and gross of Reinsurance Recoveries for the fiscal year
+* `reinsur_claims_paid` – Report the dollar amount of climate-related claims paid for by the Reinsurer in the corresponding `insurance_class` field in the reported `region` for the fiscal year. Reinsurance companies should use code “6” (“Aggregated LOB”, i.e., data not available by `insurance_class`) as per Appendix II – Insurance Classes to report the aggregated dollar amount of climate-related claims paid. This field is applicable only to Reinsurance companies.
+* `count_claims_paid_flood` – Report the number of flood-related claims paid under coverage offered in the `insurance_class` in the reported `region` for the fiscal year
+* `count_claims_paid_wildfire` – Report the number of wildfire-related claims paid under coverage offered in the `insurance_class` in the reported `region` for the fiscal year
+* `count_claims_paid_sev_convec_storm` – Report the number of Severe convective storms-related claims paid (excluding flooding related losses) under coverage offered in the `insurance_class` in the reported `region` for the fiscal year
+* `count_claims_paid_hurricane` – Report the number of Hurricane claims paid under coverage offered in the `insurance_class` in the reported `region` for the fiscal year
+* `reinsur_count_paid` – Report the number of climate-related claims paid for by the reinsurer in the corresponding `insurance_class` in the reported `region` for the fiscal year. Reinsurance companies should use code “6” (“Aggregated LOB”, i.e., data not available by `insurance_class`) as per Appendix II – Insurance Classes to report the aggregated count of climate-related claims paid. This field is applicable only to Reinsurance companies.
+* `reinsur_recov_flood` – Report the dollar amount of Reinsurance Recoveries pertaining to flood-related claims for the `insurance_class` in the reported `region`, for the fiscal year
+* `reinsur_recov_wildfire` – Report the dollar amount of Reinsurance Recoveries pertaining to wildfire-related claims for the `insurance_class` in the reported `region`, for the fiscal year
+* `reinsur_recov_sev_convec_storm` – Report the dollar amount of Reinsurance Recoveries pertaining to Severe convective storms-related claims for the `insurance_class` in the reported `region`, for the fiscal year
+* `reinsur_recov_hurricane` – Report the dollar amount of Reinsurance Recoveries pertaining to Hurricanes claims for the `insurance_class` in the reported `region`, for the fiscal year
+* `reinsur_recov` – Report the dollar amount of Reinsurance Recoveries for climate-related claims paid for by the reinsurer for the `insurance_class` in the reported `region`, for the fiscal year. Reinsurance companies should use code “6” (“Aggregated LOB”, i.e., data not available by `insurance_class`) as per Appendix II – Insurance Classes to report the aggregated dollar amount of Reinsurance Recoveries for climate-related claims paid data.This field is applicable only to Reinsurance companies.
+* `total_insured_value` – Report the sum of the dollar amounts of Total Insured Values on assets under coverage to insureds in the `insurance_class` in the reported `region`, net of deductible. This field should be completed by P&C insurance companies only.
+
+  Clarification of the definition of Total Insured Value (TIV)
+
+  + A breakdown of Total Insured Value (TIV) by category (e.g., building, contents, or business interruption) is not required.
+  + For commercial property: report the total TIV, including Building, Content, and Business Interruption.
+  + For personal property: Property & Casualty (P&C) insurers may report either the total TIV figure or only the Building TIV, depending on data availability.
+* Report the following fields as blank on each row:
+  + `gross_pml_flood_1_100`
+  + `gross_pml_wildfires_1_100`
+  + `gross_pml_wind_1_100`
+  + `gross_pml_hurricane_1_100`
+  + `gross_pml_flood_1_250`
+  + `gross_pml_wildfire_1_250`
+  + `gross_pml_sev_convec_storm_1_250`
+  + `gross_pml_hurricane_1_250`
+  + `net_pml_flood_1_100`
+  + `net_pml_wildfire_1_100`
+  + `net_pml_sev_convec_storm_1_100`
+  + `net_pml_hurricane_1_100`
+  + `net_pml_flood_1_250`
+  + `net_pml_wildfires_1_250`
+  + `net_pml_sev_convec_storm_1_250`
+  + `net_pml_hurricane_1_250`
+
+### Sub-Table IC1-B: Probable Maximum Loss (PML) By Region (Canada and outside Canada)
+
+Report on all data fields in the template per the instructions by submission key below for each row reported.
+
+#### Sub-Table Field
+
+* `return_subtable` – Set field value to ‘IC1-B’
+
+#### Categorical Data Fields
+
+* `insurance_class` – Report the defined insurance classification per table in Appendix II – Insurance Classes
+* `region` – Report the applicable province or territory of Canada, Region of the USA and ‘Other’ geographic region per the table in Appendix III – Regions
+
+#### Calculated Data Fields
+
+* Report the following fields as blank on each row:
+  + `insurance_revenue`
+  + `policy_count`
+  + `claims_paid_flood`
+  + `claims_paid_wildfire`
+  + `claims_paid_hurricane`
+  + `claims_paid_sev_convec_storm`
+  + `reinsur_claims_paid`
+  + `count_claims_paid_wildfire`
+  + `count_claims_paid_flood`
+  + `count_claims_paid_hurricane`
+  + `count_claims_paid_sev_convec_storm`
+  + `reinsur_count_paid`
+  + `reinsur_recov_flood`
+  + `reinsur_recov_wildfire`
+  + `reinsur_recov_hurricane`
+  + `reinsur_recov_sev_convec_storm`
+  + `reinsur_recov`
+  + `total_insured_value`
+
+Gross PML must be reported net of insurer-specific layers and participation shares.
+
+* `gross_pml_flood_1_100` – Report the Gross Probable Maximum Loss (PML) on an occurrence basis for a 100-year return period on Flood (i.e., PML100) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML100 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML100 for Flood.
+* `gross_pml_wildfires_1_100` – Report the Gross Probable Maximum Loss (PML) on an occurrence basis for a 100-year return period on Wildfire (i.e., PML100) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML100 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML100 for Wildfire.
+* `gross_pml_sev_convec_storm_1_100` – Report the Gross Probable Maximum Loss (PML) on an occurrence basis for a 100-year return period on Severe convective storms (i.e., PML100) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML100 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML100 for Severe convective storms.
+* `gross_pml_hurricane_1_100` – Report the Gross Probable Maximum Loss (PML) on an occurrence basis for a 100-year return period for Hurricanes (i.e., PML100) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML100 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML100 for hurricanes.
+* `gross_pml_flood_1_250` – Report the Gross Probable Maximum Loss (PML) on an occurrence basis for a 250-year return period on Flood (i.e., PML250) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML250 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML250 for Flood.
+* `gross_pml_wildfires_1_250` – Report the Gross Probable Maximum Loss (PML) on an occurrence basis for a 250-year return period on Wildfire (i.e., PML250) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML250 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML250 for Wildfire.
+* `gross_pml_sev_convec_storm_1_250` – Report the Gross Probable Maximum Loss (PML) on an occurrence basis for a 250-year return period on Severe convective storms (i.e., PML250) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML250 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML250 for Severe convective storms.
+* `gross_pml_hurricane_1_250` – Report the Gross Probable Maximum Loss (PML) on an occurrence basis for a 250-year return period on Hurricanes (i.e., PML250) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML250 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML250 for hurricanes.
+* `net_pml_flood_1_100` – Report the Net Probable Maximum Loss (PML) on an occurrence basis, net of all applicable reinsurance, deductibles and co-insurance for a 100-year return period on Flood (i.e., PML100) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML100 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML100 for Flood.
+* `net_pml_wildfires_1_100` – Report the Net Probable Maximum Loss (PML) on an occurrence basis, net of all applicable reinsurance, deductibles and co-insurance for a 100-year return period on Wildfire (i.e., PML100) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML100 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML100 for Wildfire.
+* `net_pml_sev_convec_storm_1_100` – Report the Net Probable Maximum Loss (PML) on an occurrence basis, net of all applicable reinsurance, deductibles and co-insurance for a 100-year return period on Severe convective storms (i.e., PML100) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML100 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML100 for Severe convective storms.
+* `net_pml_hurricane_1_100` – Report the Net Probable Maximum Loss (PML) on an occurrence basis, net of all applicable reinsurance, deductibles and co-insurance for a 100-year return period on Hurricanes (i.e., PML100) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML100 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML100 for Hurricanes.
+* `net_pml_flood_1_250` – Report the Net Probable Maximum Loss (PML) on an occurrence basis, net of all applicable reinsurance, deductibles and co-insurance for a 250-year return period on Flood (i.e., PML250) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML250 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML250 for Flood.
+* `net_pml_wildfires_1_250` – Report the Net Probable Maximum Loss (PML) on an occurrence basis, net of all applicable reinsurance, deductibles and co-insurance for a 250-year return period on Wildfire (i.e., PML250) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML250 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML250 for Wildfire.
+* `net_pml_sev_convec_storm_1_250` – Report the Net Probable Maximum Loss (PML) on an occurrence basis, net of all applicable reinsurance, deductibles and co-insurance for a 250-year return period on Severe convective storms (i.e., PML250) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML250 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML250 for Severe convective storms.
+* `net_pml_hurricane_1_250` – Report the Net Probable Maximum Loss (PML) on an occurrence basis, net of all applicable reinsurance, deductibles and co-insurance for a 250-year return period on Hurricanes (i.e., PML250) for each `region` by `insurance_class`. Optionally, if available, reporting on PML pertaining to `region` code ‘C1’ (‘Canada-Other’) should reflect Canada-Wide PML250 and `region` code ‘U6’ (‘USA-Other’) should address US-wide PML250 for Hurricanes.
+
+### Additional Reporting Guidance
+
+The [technical specifications document for the IC1 (OSFI 1002) return (XLSX, 39.29 KB)](/sites/default/files/documents/ic1-specifications-2025-12-01-en.xlsx "ic1-specifications-2025-12-01-en.xlsx") that includes a template sheet, field definitions and reference tables is available. For a reference example of a completed template that contains an abbreviated listing of completed rows following the above template instructions, see the [sample IC1 (OSFI 1002) Return template (CSV, 13.37 KB)](/sites/default/files/documents/ic1-return-releve-2025-11-en.csv "ic1-return-releve-2025-11-en.csv").
+
+## Instructions for the Transition Risk Return IC2 (OSFI 1003)
+
+This return collects GHG Absolute Emissions assigned on Investments and other Balance Sheet Assets and entity-wide (unattributable) from insurers. It also collects Insurance-Associated GHG Emissions to assess the emissions footprint enabled by insurers' underwritten insurance businesses.
+
+### Overview of Return Data Fields
+
+The following fields are included in the IC2 (OSFI 1003) Return templates:
+
+#### Sub-Table Field
+
+`return_subtable`
+
+#### Categorical Data Fields
+
+* `asset_class`
+* `insurance_class`
+* `sector`
+* `region`
+* `credit_quality`
+
+#### Calculated Fields
+
+* `scope_1_insurer_own_absolute_emissions`
+* `scope_2_insurer_own_absolute_emissions`
+* `scope_1_counterparty_absolute_emissions`
+* `scope_2_counterparty_absolute_emissions`
+* `scope_3_counterparty_absolute_emissions`
+* `weighted_avg_scope_1_counterparty_data_quality_score`
+* `weighted_avg_scope_2_counterparty_data_quality_score`
+* `weighted_avg_data_counterparty_quality_score`
+* `weighted_avg_scope_3_counterparty_data_quality_score`
+* `asset_balance`
+* `weighted_average _maturity`
+* `balance_5_maturity`
+* `balance_10_ maturity`
+
+The above template fields are to be reported by completing the template contained in the [technical specifications (XLSX, 36.77 KB)](/sites/default/files/documents/ic2-specifications-2025-12-19-en.xlsx "ic2-specifications-2025-12-19-en.xlsx") provided, following the instructions below for reporting Absolute GHG emissions and other related metrics on transition risk in Canada and outside of Canada.
+
+#### Field Applicability by Sub-Table
+
+The fields applicable for each Sub-Table are outlined in the Field Applicability Matrices (See Link: [Field Applicability Matrices document (XLSX, 57.12 KB)](/sites/default/files/documents/ic1-ic2-matrices-2025-12-19-en.xlsx "ic1-ic2-matrices-2025-12-19-en.xlsx")).
+
+### Sub-Table IC2-A: Entity-level Insurer’s Own GHG Emissions by Scope
+
+Report emissions by scope, excluding Financed Emissions for Scope 3, using the instructions by submission key below.
+
+#### Sub-Table Field
+
+* `return_subtable` – Set field value to ‘IC2-A’ on each row reported
+
+#### Categorical Data Fields
+
+* `asset_class` – Set field value to code ‘8’ (‘Unattributable – GHG emissions unattributable to a specific asset’) for each row reported; reporting on other asset classes is not applicable for Sub-Table IC2-A (see Field Applicability by Sub-Table section above for details)
+* `insurance_class` – Report as blank
+* `sector` – Not applicable; Report as blank
+* `region` – Report the applicable province or territory of Canada, Region of USA or ‘Other’ geographic region per the table in Appendix III – Regions
+* `credit_quality` – Not applicable; Report as blank
+
+#### Calculated Data Fields
+
+* `scope_1_insurer_own_absolute_emissions` – Report the **Insurer’s Own Absolute Scope 1 GHG Emissions** (in tCO2-Equivalent) produced within each reported `region`
+* `scope_2_insurer_own_absolute_emissions` – Report the **Insurer’s Own Absolute Scope 2 GHG Emissions** (in tCO2-Equivalent) within each reported `region`
+* `asset_balance` – Report as blank
+* `weighted_average_maturity` – Report as blank
+* `balance_5_maturity` – Report as blank
+* `balance_10_maturity` – Report as blank
+
+The **insurer’s** own absolute emissions could alternatively be termed as “non-financed GHG emissions”, as per the “Key Terms and Definitions” above.
+
+### Sub-Table IC2-B: Financed GHG Emissions – Scope 3 by Asset Class
+
+For purposes of reporting Scope 3 (Financed) Emissions, report on each row using the instructions by submission key below.
+
+#### Sub-Table Field
+
+* `return_subtable` – Set field value to ‘IC2-B’
+
+#### Categorical Data Fields
+
+* `asset_class` – Report on each of the defined asset classes (see the table in Appendix I - Asset Classes for reference). Do **not** report using the ‘Unattributable’ classification of the `asset_class` for reporting on Financed GHG Emissions. For each selection within the `asset_class`, certain categorical fields may be applicable (see Field Applicability by Sub-Table section above for reference).
+* `insurance_class` – Report as blank
+* `sector` – If applicable per the Field Applicability Matrices, report the applicable `sector` code for each assets per the table in Appendix I - Asset Classes; otherwise report the `sector` field as blank
+* `region` – If applicable region code for the applicable `asset_class` per the Field Applicability Matrices, report the applicable province or territory of Canada, Region of USA or ‘Other’ geographic region per the table in Appendix III – Regions; otherwise report the `region` field as blank.
+
+  To determine the region:
+
+  + Use the location where emissions occur, if known.
+  + If that’s not available, use the location of the asset issuer’s headquarters as a proxy.
+* `credit_quality` – If applicable for the `asset_class` per the Field Applicability Matrices, report the applicable `credit_quality` code per the table in Appendix V – Credit Quality Ratings; otherwise, report the `credit_quality` field for the non-applicable rows as blank
+
+  If an insurer has multiple assessments from multiple rating agencies, the insurer should disclose the credit ratings using guidance from OSFI’s MCT (see [Chapter 6](/en/guidance/guidance-library/minimum-capital-test-guideline-2026#Toc-6 "Minimum Capital Test – Guideline (2026)") section “6.1.1 - Use of ratings”) and LICAT (see [Chapter 3](/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-3-credit-risk-balance-sheet-items "Life Insurance Capital Adequacy Test (2025) – Chapter 3 Credit Risk – On-Balance Sheet Items") section “3.1.1 - Use of ratings”) guidelines.
+
+#### Calculated Fields
+
+The disaggregation of Scope 3 Category 15 (financed emissions) into Scope 1 and 2 components is optional.
+
+##### Finance GHG Emissions Reporting
+
+Optional disaggregation:
+
+* `scope_1_counterparty_absolute_emissions` – Report the applicable amount of the **Insurer’s Counterparty Scope 1 Absolute GHG Financed emissions** for each `asset_class` by each `region` category (if applicable) by each `sector` category (if applicable) by each `credit_quality` category (if applicable).
+* `scope_2_counterparty_absolute_emissions` – Report the applicable amount of the **Insurer’s Counterparty Scope 2 Absolute GHG Financed emissions** for each `asset_class` by each `region` category (if applicable) by each `sector` category (if applicable) by each `credit_quality` category (if applicable).
+
+Mandatory (if combined Scope 3 reporting is used):
+
+* `scope_3_counterparty_absolute_emissions` – Report the applicable amount of the **Insurer’s Counterparty Scope 3 Absolute GHG Financed emissions** for each `asset_class` by each `region` category (if applicable) by each `sector` category (if applicable) by each `credit_quality` category (if applicable).
+
+##### Data Quality Scores
+
+Optional disaggregation:
+
+* `weighted_avg_scope_1_counterparty_data_quality_score` – Report the PCAF Data quality score for the **Insurer's Counterparty Total Absolute Emissions (Scope 1)** weighted by outstanding amount for each `asset_class` by each `region` category (if applicable) by each `sector` category (if applicable) by each `credit_quality` category (if applicable).
+* `weighted_avg_scope_2_counterparty_data_quality_score` – Report the PCAF Data quality score for the **Insurer's Counterparty Total Absolute Emissions (Scope 2)** weighted by outstanding amount for each `asset_class` by each `region` category (if applicable) by each `sector` category (if applicable) by each `credit_quality` category (if applicable).
+* `weighted_avg_counterparty_data_quality_score` – Report the PCAF Data quality score for the **Insurer's Counterparty Total Absolute Emissions (Scope 1) and (Scope 2)** weighted by outstanding amount for each `asset_class` by each `region` category (if applicable) by each `sector` category (if applicable) by each `credit_quality` category (if applicable).
+
+Mandatory (if combined Scope 3 reporting is used):
+
+* `weighted_avg_scope 3_counterparty_data_quality_score` – Report the PCAF Data quality score for the **Insurer's Counterparty Total Absolute Emissions (Scope 3)** weighted by outstanding amount for each `asset_class` by each `region` category (if applicable) by each `sector` category (if applicable) by each `credit_quality` category (if applicable).
+
+##### Exposure and Maturity Metrics
+
+* `asset_balance` – Report the market value in dollars of the applicable financial balance for each `asset_class` by each `region` category (if applicable) split by each `sector` category (if applicable) by each `credit_quality` category (if applicable).
+* `weighted_average_maturity` – Report the applicable exposure weighted maturity, measured in years, for each `asset_class` split by each `region` category by each `sector` category (if applicable) by each `credit_quality` category (if applicable).
+* `balance_5_maturity` – Report the dollar amount of the `asset_balance` with a remaining maturity of either exactly 5 years or between 5 and 10 years.
+* `balance_10_maturity` – Report the dollar amount of the `asset_balance` with a remaining maturity greater or equal to10 years.
+
+### Additional Reporting Guidance
+
+The [technical specifications document for the IC2 (OSFI 1003) return (XLSX, 36.77 KB)](/sites/default/files/documents/ic2-specifications-2025-12-19-en.xlsx "ic2-specifications-2025-12-19-en.xlsx"), that includes a template sheet, field definitions and reference tables is available. For a reference example of a completed template that contains an abbreviated listing of completed rows following the above IC2 (OSFI 1003) template instructions, see the [sample IC2 (OSFI 1003) Return template (CSV, 4.94 KB)](/sites/default/files/documents/ic2-return-releve-2025-12-01-en.csv "ic2-return-releve-2025-12-01-en.csv").
+
+## Appendix I – Asset Classes
+
+The coding selections for the Returns listed below reflect the investment security classifications on the Supervisory Quarterly Returns as follows:
+
+* Life Insurance (LF2): Exhibit 21.012
+* Mortgage Insurance (MI4): Exhibit 40.08
+* Property & Casualty Insurance (PC2): Exhibit 40.08
+
+### Sub-Table IC2-A: Entity-level Insurer’s Own GHG Emissions by Scope
+
+The following category is to be used for the `asset_class` field when completing the IC2-A Return.
+
+The “Unattributable (i.e., GHG emissions unattributable to a specific asset)” asset class is to be used for reporting on entity-wide emissions in IC2 return sub-table 'IC2-A' only, and it is not intended to be used in lieu of reporting emissions by specific asset classes in IC2 return sub-table 'IC2-B'.
+
+Report in the `asset_class` field using the codes shown below.
+
+| `asset_class` | Asset Class Name |
+| --- | --- |
+| 8 | Unattributable - GHG emissions unattributable to a specific asset |
+
+Asset Classes 8 (Unattributable GHG Emissions) is applicable only to non-financed emissions (Insurer’s own).
+
+### Sub-Table IC2-B: Financed GHG Emissions – Scope 3 by Asset Class (Canada and outside Canada)
+
+The following asset classes are to be used for the `asset_class` field when completing the IC2-B Return.
+
+| `asset_class` | Asset Class Name |
+| --- | --- |
+| 1 | Bonds and Debentures – Government – Federal |
+| 2 | Bonds and Debentures – Corporate – Public |
+| 3 | Mortgage Loans |
+| 4 | Preferred Shares – Fixed Term |
+| 5 | Preferred Shares – Equity Preferred |
+| 6 | Total Common Shares |
+| 7 | Investment in Subsidiaries |
+
+Note regarding asset classes "Code 1 - Bonds and Debentures – Government – Federal)" and "Code 2 - Bonds and Debentures – Corporate – Public)":
+
+For calculating financed emissions, Insurers should exclude sub-sovereigns, central banks and supranationals exposures from the “Sovereign and central bank” asset classes as these exposures are not explicitly covered under the PCAF Standard Part A.
+
+## Appendix II – Insurance Classes
+
+### IC1 (OSFI 1002) - Physical Risk Returns
+
+The classes of insurance presented in the table below are to be used for purposes of reporting in the `insurance_class` categorical field for the following IC1 returns:
+
+* Sub-Table IC1-A: Insurance Claim and Revenue Metrics by Region (Canada and outside Canada)
+* Sub-Table IC1-B: Probable Maximum Loss (PML) by Region (Canada and outside Canada)
+
+Report in the `insurance_class` field using the codes shown below.
+
+| `insurance_class` | Insurance Class Names |
+| --- | --- |
+| 1 | Personal Automobile |
+| 2 | Commercial Property |
+| 3 | Other Commercial Lines |
+| 4 | Personal Property |
+| 5 | Other Personal |
+| 6 | RE Aggregated Data - data not available by `insurance_class` |
+
+`insurance_class` code ‘6’ ‘RE Aggregated Data - data not available by `insurance_class`’ is applicable only to Reinsurance companies.
+
+## Appendix III – Regions
+
+The categorical codes shown in the table below are to be used for the `region` field when completing the IC1 (OSFI 1002) Return and the IC2 (OSFI 1003) Return. The name for each region, along with a Region Description that lists the constituent region(s) associated to each Region code are also listed in the table below. For example, the `region` code ‘US2’, described as ‘USA Midwest’ is constituted of a grouping of states of the USA including: ‘IA’, ‘IL’, ‘IN’, ‘KS’, ‘MI’, ‘MN’, ‘MO’, ‘ND’, ‘NE’, ‘OH’, ‘SD’, and ‘WI’.
+
+Report in the `region` field using the codes shown below.
+
+| `region` | Region Name | Region Description |
+| --- | --- | --- |
+| AB | Alberta, Canada | Alberta, Canada |
+| BC | British Columbia, Canada | British Columbia, Canada |
+| MB | Manitoba, Canada | Manitoba, Canada |
+| NB | New Brunswick, Canada | New Brunswick, Canada |
+| NL | Newfoundland and Labrador, Canada | Newfoundland and Labrador, Canada |
+| NT | Northwest Territories, Canada | Northwest Territories, Canada |
+| NS | Nova Scotia, Canada | Nova Scotia, Canada |
+| NU | Nunavut, Canada | Nunavut, Canada |
+| ON | Ontario, Canada | Ontario, Canada |
+| PE | Prince Edward Island, Canada | Prince Edward Island, Canada |
+| QC | Quebec, Canada | Quebec, Canada |
+| SK | Saskatchewan, Canada | Saskatchewan, Canada |
+| YK | Yukon, Canada | Yukon, Canada |
+| C1 | Canada-Other | Unattributable to a single location in Canada; for IC1-B reporting of Canada-Wide PML |
+| U1 | USA West | Region of USA that includes the following US States: AK, CA, CO, HI, ID, MT, NV, OR, UT, WA, WY |
+| U2 | USA Midwest | Region of USA that includes the following US States: IA, IL, IN, KS, MI, MN, MO, ND, NE, OH, SD, WI |
+| U3 | USA Northeast | Region of USA that includes the following US States: CT, MA, ME, NH, NJ, NY, PA, RI, VT |
+| U4 | USA Southwest | Region of USA that includes the following US States: AZ, NM, OK, TX |
+| U5 | USA Southeast | Region of USA that includes the following US States: AL, AR, DE, FL, GA, KY, LA, MD, MS, NC, SC, TN, VA, WV as well as DC |
+| U6 | USA-Other | Unattributable to a single location in the USA; for IC1-B reporting of USA-Wide PML |
+| ZZ | Other | All other regions worldwide |
+
+## Appendix IV – Sectors
+
+The coding selections shown in Table 1 below are to be used for the `sector` field when completing the IC2 Return.
+
+Table 1 lists 17 Sectors, most of which are sensitive to the transition toward a low-carbon economy, starting with Sector codes ‘1’ (‘COAL – Coal Industry and Support’) and ending with codes ‘17’ (‘OTHR’- ‘Other Industries).
+
+Report the `sector` field using the codes shown below (Table 1).
+
+Table 1 – OSFI designated Sectors
+
+| Code | Sector | Sector description | Industry |
+| --- | --- | --- | --- |
+| 1 | COAL | Coal Industry and Support | Fossil Fuels |
+| 2 | CROP | Crop Production and Support | Agriculture and Forestry |
+| 3 | EINT-MANF | Manufacturing | Energy Intensive Industries |
+| 4 | EINT-OTHR | Paper and Pulp; Mining; Water and Sewage System and Waste Management | Energy Intensive Industries |
+| 5 | ELEC-FOSS | Fossil Fuel Electricity Production | Electricity Support and Distribution |
+| 6 | ELEC-OTHR | Electricity Production from Renewable Sources and Nuclear; Electricity Support and Distribution; Hydro Electricity Production; | Electricity Support and Distribution |
+| 7 | GAS | Natural Gas Industry and Support | Fossil Fuels |
+| 8 | LIVE | Livestock Production and Support | Agriculture and Forestry |
+| 9 | OIL-EXTR | Oil Extraction | Fossil Fuels |
+| 10 | OIL-OTHR | Oil Extraction Support | Fossil Fuels |
+| 11 | OIL-SAND | Sand Oil Extraction and Support | Fossil Fuels |
+| 12 | REST | Real Estate and Rental and Leasing | Other Sectors |
+| 13 | RFND | Fossil Fuel Refinery | Fossil Fuels |
+| 14 | TRNS-AIR | Air Transportation | Transportation |
+| 15 | TRNS-OTHR | Other Transportation | Transportation |
+| 16 | TRNS-RAIL | Rail Transportation | Transportation |
+| 17 | OTHR | All other sectors | Other Industries |
+
+## Appendix V – Credit Quality Ratings
+
+Externally assigned ratings of long-term borrower creditworthiness are assigned on debt security issuers and wholesale borrowers including corporates, banks and sovereigns. To facilitate comparison, ratings from several recognized credit rating organizations should be mapped into the `credit_quality` categories shown in the table below.
+
+For reporting purposes on the IC2 (OSFI 1003) return, investments should be grouped within each `credit_quality` category; borrowers are **not** to be reported on an individual name basis.
+
+Report in the `credit_quality` field using the codes shown below.
+
+| `credit_quality` | S&P | DBRS | Moody’s | Fitch | KBRA |
+| --- | --- | --- | --- | --- | --- |
+| 1 | AAA to AA− | AAA to AA (low) | Aaa to Aa3 | AAA to AA− | AAA to AA− |
+| 2 | A+ to A− | A (high) to A (low) | A1 to A3 | A+ to A− | A+ to A− |
+| 3 | BBB+ to BBB− | BBB (high) to BBB (low) | Baa1 to Baa3 | BBB+ to BBB− | BBB+ to BBB− |
+| 4 | BB+ to BB− | BB (high) to BB (low) | Ba1 to Ba3 | BB+ to BB− | BB+ to BB− |
+| 5 | B+ to B− | B (high) to B (low) | B1 to B3 | B+ to B− | B+ to B− |
+| 6 | Below B− | CCC or lower | Below B3 | Below B− | Below B− |
+| 7 | Not Rated | Not Rated | Not Rated | Not Rated | Not Rated |
+
+## Footnotes
+
+Footnote 1
+:   The term "IAIGs" refers to Internationally Active Insurance Groups. "IAIGs headquartered in Canada" refers to Sun Life Assurance Company of Canada, Manufacturers Life Insurance Company, Canada Life Assurance Company, and Intact Financial Corporation.
+
+    [Return to footnote 1  referrer](#fn1-rf)
+
+Footnote 2
+:   Claims paid on peril events pertaining to wildfire, flood, severe convective storms and hurricanes coded as relating to natural catastrophic events within many insurers’ claim management systems, potentially facilitating insurers’ gathering and summarization of such data.
+
+    OSFI is using the term “climate-related perils” to refer to the type of weather-related events (such as wildfires, floods, hurricanes, etc.).
+
+    [Return to footnote 2  referrer](#fn2-rf)
+
+Footnote 3
+:   P&C insurers, Surety Bond Insurers, Title Insurers, Credit Insurers, Mortgage Insurers, Reinsurers, Life and Health Insurers.
+
+    [Return to footnote 3  referrer](#fn3-rf)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2025-11-20

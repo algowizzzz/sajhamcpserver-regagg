@@ -1,0 +1,1 @@
+Summary: # CRÉATION OU CESSATION D'UNE FIDUCIE DANS LAQUELLE UNE SOCIÉTÉ ÉTRANGÈRE (y compris une société de secours mutuel étrangère) EST TENUE DE MAINTENIR DES ÉLÉMENTS D'ACTIF AU CANADA

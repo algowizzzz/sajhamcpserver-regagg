@@ -1,0 +1,1 @@
+Summary: # The Sims and EA FC maker Electronic Arts sells for $55bn to Saudi-led group

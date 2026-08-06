@@ -1,0 +1,1 @@
+Summary: # Liquidity Adequacy Requirements (LAR) (2027) Chapter 6 – Liquidity Monitoring Tools

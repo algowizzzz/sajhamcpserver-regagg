@@ -1,0 +1,1 @@
+Summary: # Most Canadians unaware that travel insurance could be voided because of federal advisories

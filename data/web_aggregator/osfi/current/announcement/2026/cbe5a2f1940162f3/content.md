@@ -1,0 +1,545 @@
+# IRB Credit Data Wholesale Transaction Defaulted and Fully Resolved (BG)
+
+Information
+
+Type of document
+
+Technical specification
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+IRB Credit Data Wholesale Transaction Defaulted and Fully Resolved (BG)
+
+Last updated
+
+July 2008
+
+Version
+
+5.0
+
+Table of contents
+
+## Return files
+
+[BG - Data definitions (XLSX, 409.91 KB)](/sites/default/files/documents/bg-rapid2-dd-en.xlsx "bg-rapid2-dd-en.xlsx") [BG - Validation rules (XLSX, 56.88 KB)](/sites/default/files/documents/bg-validation-en.xlsx "bg-validation-en.xlsx")
+
+## Technical specification
+
+For Data Submissions after Feb 29, 2008 (Q1/08)
+
+### 1. Introduction
+
+Two returns have been specified for the IRB Wholesale Transaction data call, also known as Rapid2: Wholesale Transaction return (BF) and the Wholesale Transaction – Defaulted and Fully Resolved return (BG). This document describes the file layout of the BG return.
+
+In the Wholesale Transaction return, 96 data elements will be reported for each loan that is greater than or equal to $10 million CAD (Common Risk Authorized Amount). If a loan has also defaulted and been fully resolved, five additional data fields (that are not part of the Wholesale Transaction return) must be reported. These five data fields are reported as 'Path B' records in the Wholesale Transaction – Defaulted and Fully Resolved return (see section 2 for an explanation of Path A and Path B records). Please note that a specific loan is either reported in BF (not yet fully resolved) or in BG (fully resolved), but never in both.
+
+For loans that are not reported via the Wholesale Transaction return (i.e., those less than $10mm), but (1) have defaulted, (2) are fully resolved and (3) have a Common Risk Authorized Amount greater than $1 million CAD, OSFI requires that 31 data points be reported as 'Path A' records in the Wholesale Transaction – Defaulted and Fully Resolved return. (If in case of Fully Resolved loans the Authorized Amount is zero, the latest, non-zero Authorized Amount need to be used to calculate the Common Risk Authorized Amount for the BG return.) Path A need to be followed as well if the loan was previously reported in the Wholesale Transaction return, but for some reason the Default date was not submitted. (E.g. the Common Risk Authorized value dropped below $10 Million before the loan default, etc.)
+
+Data elements should not be reported for loans that do not meet the conditions described above (i.e., loans between $1 million and $10 million that are not defaulted and fully resolved and all loans less than or equal to $1 million).
+
+Note that data for a given defaulted and fully resolved loan is reported only once. The corresponding record refers to a specific resolution of the loan and should be reported for the Period in which the loan was resolved. Once submitted data cannot be recalled - loans that are subsequently returned to Performing status cannot be removed from OSFI's database.
+
+The following diagram illustrates the selection criteria's for the loans in order to help identify which return and path should be used and how defaulted and fully resolved loans are treated.
+
+Where applicable, different data records will be provided for Path A and Path B within the same return.
+
+![Diagram of loan selection criteria](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2023-06/en/ws_trn_dft_cdts_dgm1.gif)
+
+#### 1.1. IRB Credit Data documents
+
+This document describes the layout and file format of the Wholesale Transaction Defaulted and Fully Resolved return. Data validation rules, errors and warnings are also described. The data definitions for the fields in the return are found in the [1]. It also provides examples, and background information about the data collected to populate the NCR Transactional database.
+
+#### 1.2. Bibliography
+
+[1] OSFI, "IRB Defaulted and Fully Resolved Credit Data Definitions document.", Microsoft Excel Spreadsheet, March 2007, Unclassified OSFI Publication.
+
+[2] OSFI, "IRB Credit Data, Defaulted and Fully Resolved - Technical Specification: File Layout & Data Validation Rules", Microsoft Word Document, March 2007, Unclassified OSFI Publication.
+
+### 2. Extract File Requirements
+
+The following sections describe the extract file layout for the IRB Wholesale Transaction – Defaulted and Fully Resolved return. Throughout the extract file layout documentation, all primary key fields are printed in bold type and listed in the order in which they appear in the key.
+
+Within the record layout in each section (sections 2.5 to 2.9), the first column refers to the Field ID, which should be used to link to the corresponding field definition in [1]. The second and third columns refer to the start and end positions of that field within the record. The following columns are the lengths of the field, field name, "M" which refers to mandatory fields, and finally the "Notes" column provides extra information to assist with the planning of extracts and describes what field format/mask should be used.
+
+#### 2.1. File Type and Naming Convention
+
+Data destined for the NCR Transactional database will be a fixed width text file, 680 bytes per line including an ASCII carriage return character (CR) and line feed character (LF) as record delimiters. Empty fields (i.e., fields that have no value) must be indicated by blank spaces if the data type is alphanumeric or zeros if the data type is numeric. Mandatory fields must be populated as indicated in [1].
+
+The fixed width text file will have the naming convention of FI\_BG\_MMYYYY.DAT, where FI represents the Institution ID (provided by OSFI), and [BG] is a fixed string, MM represents the month and YYYY represents the year of the reporting date of information.
+
+#### 2.2. Record Type
+
+The first field in each row must be the record type or row identifier. Valid values are:
+
+Record types for Wholesale Transaction – Defaulted and Fully Resolved return (BG)
+
+| Record Type | Description |
+| --- | --- |
+| 00 | Header record |
+| 20 | Borrower header record - Path A |
+| 25 | Borrower header record - Path B |
+| 30 | Facility detail record - Path A |
+| 35 | Facility detail record - Path B |
+| 21 | Borrower footer record |
+| 99 | Footer record |
+
+#### 2.3. File Structure
+
+The first row of the extract file must be a header record ("00") and the last one must be a footer record ("99"), and they must be the only "00" and "99" records in the file.
+
+Apart from the header and footer, all the other (data) records may be in any order. Referential integrity is established by checking for the existence of parent records by using the primary keys (Common Risk Number, Borrower Number and Facility Number).
+
+For example, every Facility record must have a Borrower record and each Borrower record must have a Common Risk record. The order of the records is irrelevant, as long as the logical data hierarchy structure is maintained. Also note that every Common Risk record must have a Common Risk footer. The same rule applies for Borrower, in that every Borrower record needs a Borrower footer record.
+
+OSFI suggests the following file structure:
+
+![Diagram of a file structure](/sites/default/files/import-media/data_and_forms/deposit-taking-institutions/2023-06/en/ws_trn_dft_cdts_dgm2.gif)
+
+#### 2.4. Record Field Order
+
+The order of the fields in a record must be the same as the order they are specified in the following record layouts (sections 2.5 to 2.9). Field values must be formatted as specified in the record layouts.
+
+#### 2.5. Header Record (00)
+
+The header record is a quality control mechanism that uniquely identifies each file sent to OSFI (i.e. who sent the file, the reporting date, the file name, etc). The information contained in the header field is checked against the file name and the actual details of the file to ensure that the file received by OSFI has not been corrupted.
+
+The record layout of the data fields in the Header Record is detailed below. The Header record is common for Path A and Path B.
+
+Record layout of the data fields in the Header Record (00)
+
+| Field ID | Start | End | Length | Field Name | M | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Record Type | ✓mandatory | pic(9) – Fixed string "00" |
+| 1 | 3 | 6 | 4 | Institution ID | ✓mandatory | pic(X) - Right-padded with spaces |
+| 2 | 7 | 14 | 8 | Reporting Date Of Information | ✓mandatory | pic(9) - Format: YYYYMMDD |
+| - | 15 | 21 | 7 | File Type | ✓mandatory | pic(X) - Fixed string "BG" Right-padded with  spaces |
+| - | 22 | 27 | 6 | File Layout Version | ✓mandatory | pic(X) - Fixed string "04.0.0" |
+| - | 28 | 670 | 643 | Filler | ✓mandatory | pic(X) – Blank spaces |
+| - | 671 | 678 | 8 | Sequential Row Counter | ✓mandatory | pic(9) - Left padded with zeros |
+| - | 679 | 680 | 2 | Cr + Lf | ✓mandatory | pix(X) - Hexadecimal: 0D + 0A |
+
+#### 2.6. Borrower Record
+
+For Path A (20), the record layout of the data fields in the Borrower Level is as follows.
+
+Record layout of the data fields in the Borrower Level for Path A (20)
+
+| Field ID | Start | End | Length | Field Name | M | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Record Type | ✓mandatory | pic(9) – Fixed string "20" |
+| 3 | 3 | 17 | 15 | Borrower Number | ✓mandatory | pic(X) - Right-padded with spaces |
+| 4 | 18 | 117 | 100 | Borrower Name |  | pic(X) - Right-padded with spaces |
+| 5 | 118 | 118 | 1 | Secondary Industry Classification System  Code |  | pic(9) - 1, 2, or 3 |
+| 6 | 119 | 124 | 6 | Primary Industry Classification Code | ✓mandatory | pic(X) - Right-padded with spaces |
+| 7 | 125 | 130 | 6 | Secondary Industry Classification Code | ✓mandatory | pic(X) - Right-padded with spaces |
+| - | 131 | 670 | 540 | FILLER | ✓mandatory | pic(X) - Blank spaces |
+| - | 671 | 678 | 8 | SEQUENTIAL ROW COUNTER | ✓mandatory | pic(9) - Left-padded with zeros |
+| - | 679 | 680 | 2 | Cr + Lf | ✓mandatory | pix(X) - Hexadecimal: 0D + 0A |
+
+For Path B (25), the record layout of the data fields in the Borrower Level is as follows.
+
+Record layout of the data fields in the Borrower Level for Path B (25)
+
+| Field ID | Start | End | Length | Field Name | M | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Record Type | ✓mandatory | pic(9) - Fixed string "25" |
+| 3 | 3 | 17 | 15 | Borrower Number | ✓mandatory | pic(X) - Right-padded with spaces |
+| - | 18 | 670 | 653 | Filler | ✓mandatory | pic(X) - Blank spaces |
+| - | 671 | 678 | 8 | Sequential Row Counter | ✓mandatory | pic(9) – Left-padded with zeros |
+| - | 679 | 680 | 2 | Cr + Lf | ✓mandatory | pix(X) - Hexadecimal: 0D + 0A |
+
+#### 2.7. Facility Records
+
+For Path A (30), the record layout of the data fields in the Facility and Product Levels are detailed below:
+
+Record layout of the data fields in the Facility and Product Levels for Path A (30)
+
+| Field ID | Start | End | Length | Field Name | M | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Record Type | ✓mandatory | pic(9) - Fixed string "30" |
+| 3 | 3 | 17 | 15 | Borrower Number | ✓mandatory | pic(X) - Right-padded with spaces |
+| 8 | 18 | 42 | 25 | Facility Number | ✓mandatory | pic(X) - Right-padded with spaces |
+| 15 | 43 | 48 | 6 | Realized LGD | ✓mandatory | pic(9) - No commas, left-padded with zeros |
+| 9 | 49 | 56 | 8 | Primary Facility Type | ✓mandatory | pic(X) – Right-padded with spaces, See Table A  in data definitions document [1] |
+| 13 | 57 | 58 | 2 | Seniority Profile | ✓mandatory | pic(X) – See Table 2 in data definitions document  [1] |
+| 14 | 59 | 59 | 1 | Whether The Facility Is Secured Or  Unsecured | ✓mandatory | pic(9) - 1, 2, [Facility and Product Levels for Path A (30) table note \*](#t30n*) |
+| 16 | 60 | 74 | 15 | Realized IRB EAD | ✓mandatory | pic(9) - No commas/dots, left-padded with zeros |
+| 17 | 75 | 80 | 6 | Realized IRB EADF | ✓mandatory | pic(X) - Right-padded with spaces |
+| 12 | 81 | 83 | 3 | Hedging Percentage |  | pic(9) - No commas/dots, left-padded with zeros |
+| 10 | 84 | 85 | 2 | Facility Country Of Risk | ✓mandatory | pic(X) - Right-padded with spaces |
+| 11 | 86 | 93 | 8 | Date Of Default | ✓mandatory | pic(9) - Format: YYYYMMDD |
+| 30 | 94 | 101 | 8 | Date Of Resolution | ✓mandatory | pic(9) - Format: YYYYMMDD |
+| 18 | 102 | 105 | 4 | Historical Ratings – 12 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 19 | 106 | 109 | 4 | Historical Ratings – 11 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 20 | 110 | 113 | 4 | Historical Ratings – 10 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 21 | 114 | 117 | 4 | Historical Ratings – 9 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 22 | 118 | 121 | 4 | Historical Ratings – 8 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 23 | 122 | 125 | 4 | Historical Ratings – 7 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 24 | 126 | 129 | 4 | Historical Ratings – 6 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 25 | 130 | 133 | 4 | Historical Ratings – 5 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 26 | 134 | 137 | 4 | Historical Ratings – 4 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 27 | 138 | 141 | 4 | Historical Ratings – 3 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 28 | 142 | 145 | 4 | Historical Ratings – 2 Quarters Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 29 | 146 | 149 | 4 | Historical Ratings – 1 Quarter Prior |  | pic(9) - In-line with Wholesale Portfolio returns |
+| 31 | 150 | 153 | 4 | Risk Rating System |  | pic(9) - In-line with Wholesale Portfolio returns |
+| - | 154 | 670 | 517 | Filler | ✓mandatory | pic(X) - Blank spaces |
+| - | 671 | 678 | 8 | Sequential Row Counter | ✓mandatory | pic(9) - Left-padded with zeros |
+| - | 679 | 680 | 2 | Cr + Lf | ✓mandatory | pic(X) - Hexadecimal: 0D + 0A |
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Facility and Product Levels for Path A (30) table notes Facility and Product Levels for Path A (30) table note \*  Option '9' ('Other') used to be available for these fields and submitting that during Q1/08 and Q2/08 will not trigger rejection. From Q3/08, however, that option is not available any more.  [Return to Facility and Product Levels for Path A (30) table note \* referrer](#t30n*-rf) | | | | | | |
+
+For Path B (35), the record layout of the data fields in the Facility and Product Levels are detailed below:
+
+Record layout of the data fields in the Facility and Product Levels for Path B (35)
+
+| Field ID | Start | End | Length | Field Name | M | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Record Type | ✓mandatory | pic(9) – Fixed string "35" |
+| 3 | 3 | 17 | 15 | Borrower Number | ✓mandatory | pic(X) - Right-padded with spaces |
+| 8 | 18 | 42 | 25 | Facility Number | ✓mandatory | pic(X) - Right-padded with spaces |
+| 15 | 43 | 48 | 6 | Realized LGD | ✓mandatory | pic(9) - No commas, left-padded with zeros |
+| 14 | 49 | 49 | 1 | Whether The Facility Is Secured Or  Unsecured | ✓mandatory | pic(9) - 1, 2, [Facility and Product Levels for Path B (35) table note \*](#t35n*) |
+| 16 | 50 | 64 | 15 | Realized EAD | ✓mandatory | pic(9) - No commas/dots, left-padded with zeros |
+| 17 | 65 | 70 | 6 | Realized EADF | ✓mandatory | pic(9) - No commas, left-padded with zeros |
+| 30 | 71 | 78 | 8 | Date Of Resolution | ✓mandatory | pic(9) - Format: YYYYMMDD |
+| - | 79 | 670 | 592 | Filler | ✓mandatory | pic(X) – Blank spaces |
+| - | 671 | 678 | 8 | Sequential Row Counter | ✓mandatory | pic(9) - Left-padded with zeros |
+| - | 679 | 680 | 2 | Cr + Lf | ✓mandatory | pix(X) - Hexadecimal: 0D + 0A |
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Facility and Product Levels for Path B (35) table notes Facility and Product Levels for Path B (35) table note \*  Option '9' ('Other') used to be available for these fields and submitting that during Q1/08 and Q2/08 will not trigger rejection. From Q3/08, however, that option is not available any more.  [Return to Facility and Product Levels for Path B (35) table note \* referrer](#t35n*-rf) | | | | | | |
+
+#### 2.8. Borrower Footer Record (21)
+
+For Paths A and B, the record layout of the data fields in the Borrower Level is detailed below:
+
+Record layout of the data fields in the Borrower Footer Record (21) for Paths A and B
+
+| Field ID | Start | End | Length | Field Name | M | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Record Type | ✓mandatory | pic(9) – Fixed string "21" |
+| 3 | 3 | 17 | 15 | Borrower Number | ✓mandatory | pic(X) - Right-padded with spaces |
+| - | 18 | 670 | 653 | Filler | ✓mandatory | pic(X) - Blank spaces |
+| - | 671 | 678 | 8 | Sequential Row Counter | ✓mandatory | pic(9) - Left-padded with zeros |
+| - | 679 | 680 | 2 | Cr + Lf | ✓mandatory | pic(X) - Hexadecimal: 0D + 0A |
+
+#### 2.9. Footer Records (99)
+
+For Paths A and B, the record layout of the data fields in the Facility and Product Levels are detailed below:
+
+Record layout of the data fields in the Footer Recoreds (99) for paths A and B
+
+| Field ID | Start | End | Length | Field Name | M | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| - | 1 | 2 | 2 | Record Type | ✓mandatory | pic(9) - Fixed string "99" |
+| 1 | 3 | 6 | 4 | nstitution ID | ✓mandatory | pic(X) - Right-padded with spaces |
+| 2 | 7 | 14 | 8 | Reporting Date Of Information | ✓mandatory | pic(9) - Format: YYYYMMDD |
+| - | 15 | 21 | 7 | File Type | ✓mandatory | pic(X) - Fixed string "BG" Right-padded with  spaces |
+| - | 22 | 27 | 6 | File Layout Version | ✓mandatory | pic(X) – Fixed string "04.0.0" |
+| - | 28 | 670 | 643 | Filler | ✓mandatory | pic(X) - Blank spaces |
+| - | 671 | 678 | 8 | Sequential Row Counter | ✓mandatory | pic(9) - Left-padded with zeros |
+| - | 679 | 680 | 2 | Cr + Lf | ✓mandatory | pic(X) - Hexadecimal: 0D + 0A |
+
+### 3. Data Validation Rules
+
+#### 3.1. Error Handling
+
+The error handling philosophy is to identify and contain the maximum number of possible errors and warnings. The file will be entirely rejected if errors are detected and no data will be uploaded to the database. Warnings are minor discrepancies in data that financial institutions are encouraged to correct but will not prevent the database from accepting the file.
+
+Processing of the file will proceed as detailed below:
+
+##### 3.1.1. Pre processing Checks
+
+Pre processing is performed to ensure that the extract files received are formatted correctly, and that the header and footer records match the actual contents of the file. A program checks extract files for header and formatting errors. The following pre processing checks are made:
+
+* Each record in the file has a valid record type (00, 20, 25, 30, 35, 21, 99).
+* Each record in the file is 678 bytes long plus 2 ASCII characters (Carriage return and Line feed).
+* Each record has the correct number of fields for its record type.
+* Each record has a sequential counter that starts at 00000001 at the header record and is incremented by 1 in each record in the file.
+* The type of return exactly matches the information in the header and footer record
+* The extension of the file is \*.DAT
+* The institution ID in the file name, header and footer records is a valid Bank of Canada code (provided by OSFI).
+* Every submitted field value should be formatted according to the specifications. (E.g. left-padded with spaces is not acceptable if 'leftpadded with zeros' was specified, even if the 'meaningful' part of the field is identical.)
+
+##### 3.1.2. Data Hierarchy Checks
+
+* Each facility record must have a borrower record.
+* Each borrower must have a unique combination of Record type, and borrower number as highlighted in sections 2.6 and 2.8 of this document.
+* Each facility must have a unique combination of record type ("30"), borrower number and facility number as highlighted in section 2.7 of this document.
+
+##### 3.1.3. Field Value Checking
+
+Field value checking ensures that a field has valid values as specified in [1].
+
+##### 3.1.4. Field Value Rules
+
+Field value rules ensure that the data given in each field conforms to the data types described in [1]. The following general rules shall be applied to the return data file. Other field value rules may also be given in the aforementioned data definitions document.
+
+###### 3.1.4.1. Dollar Amount Rules
+
+All dollar amounts are reported and validated according to the following rules:
+
+1. All dollar amounts shall be reported in units of "thousands of dollars".
+2. All dollar amounts shall be rounded to the nearest thousand dollars.
+3. Dollar amounts shall only contain numeric digits (with the exception of the negative sign). No commas, or decimal separators shall be used.
+4. Negative dollar amounts should be reported with the hyphen sign before the first 'meaningful' digit, in other words report the negative number left-padded with zeros (see example below).
+5. All dollar amounts shall be reported in a 15-character field that is left padded with zeros.
+
+For example, $2,183,624.68 will be reported as the string 000000000002184, and -$34,892.45 will be reported as the string 000000000000-35
+
+###### 3.1.4.2. Probability and Percentage Rules
+
+All percentages are reported and validated according to the following rules:
+
+1. All probabilities between 0 and 1 shall be reported as percentages between 0% and 100%.
+2. All percentages shall be reported with two significant digits after the decimal place. (With the following exception: zero significant digits for Field ID 12 <Hedging Percentage>.)
+3. All percentages shall be rounded to the nearest hundredth of a percent. (With the above mentioned exception: to whole percent for Field ID 12 <Hedging Percentage>.)
+4. Percentages shall only contain numeric digits, a decimal character and in the case of negative values a hyphen character. No comma shall be used.
+5. All percentages shall be reported in a 6-character field that is left padded  
+   with zeros. (With the exception of Field ID 12, which is a 3-character field.)
+
+For example, 98.738543% will be reported as the string 098.74
+
+Example for Field ID 12: 98.738543% will be reported as the string 099
+
+Example for negative values (other than Field ID 12): -6.1234% will be reported as string 0-6.12
+
+Example for negative values (for Field ID 12): -6.1234% will be reported as string 0-6
+
+###### 3.1.4.3. Other Numeric Value Rules
+
+All other numeric values are reported and validated according to the following rules:
+
+1. The number of digits is determined by the data definition document in [1].
+2. Numeric values shall only contain numeric digits and in the case of negative values a hyphen character.
+3. Numeric values (other than dollar amounts and percentages as described above) shall be Integers rounded to the 1's position with no significant digits after the decimal place.
+4. Negative values should be reported with the hyphen sign before the first 'meaningful' digit, in other words report the negative number left-padded with zeros.
+5. All numeric values shall be left padded with zeros.
+
+For example, 000073654 and 000000-79 are valid 9 character numeric values representing 73,654 and -79.22, respectively. The following are not valid:
+
+* 0073654
+* 00073,654
+* 0073654.5
+* 73654
+* -00000079
+
+###### 3.1.4.4. Date Value Rules
+
+Date values are reported and validated according to the following rules:
+
+1. The width of a date field is 8 characters.
+2. Dates shall only contain numeric digits (e.g., alphabetic month names, special characters and spaces are not allowed).
+3. Dates shall follow the format YYYYMMDD, where YYYY is the year, MM is the month and DD is the day.
+
+For example, the string 20100608 represents June 8th, 2010.
+
+##### 3.1.5. Additional Important Notes
+
+* The sequential row counter field that appears in every record must start at "00000001" in the header record and be incremented by 1 in every row. Therefore, the footer will show the total number of records in the file.
+* Aggregate values for percentages, ratios and probabilities must be calculated from pre-aggregated totals in the numerator and the denominator.
+
+#### 3.2. Business Rules
+
+The term "business rules" usually refers to a set of conditions that can be used to determine the validity of data. Each rule specifies criteria that a certain data element (or a number of elements) has to meet in order to be valid. Business rules are used to identity data that may have been entered incorrectly. Sending these records back to the Financial Institutions for correction will lead to greater integrity of information in Risk Asset Portfolios.
+
+Many of the business rules for these technical specifications require data from different data records to reconcile. That is, sums of data within different data records should be equal to one another. As such, the "business rules" are listed numerically.
+
+##### 3.2.1. Qualifying Data
+
+Report all transactions (loans that are defaulted and fully resolved) where the Common Risk Total Authorized – CAD Equivalent amount is greater than $1 Million.
+
+##### 3.2.2. Industry Classification Codes
+
+Primary Industry Classification Code (ID #6) should be a valid 6-digit NAIC Code. OSFI will validate the submitted NAIC codes against Industry Classification lookup tables provided by Statistics Canada. The submitted code will be rejected if it does not exist in the appropriate table.
+
+Secondary Industry Classification Code (ID #7) could come from any of the following three Industry Classification Systems. The selected Industry Classification System (1, 2 or 3) is identified in the Secondary Industry Classification System Code field (ID #5):
+
+1. Canadian SIC Codes = 4 Characters
+2. US SIC Codes = 4 Characters
+3. NAIC Codes = 6 Characters
+
+Regardless of the industry classification system the financial institution is using, OSFI will require the full number that identifies the lowest level of granularity of an industry.
+
+Once the length of the SIC code has been checked. OSFI will validate Canadian SIC and NAIC codes against Industry Classification lookup tables provided by Statistics Canada. US SIC codes will be validated against lookup tables provided by the U.S. Department of Labour. If the code does not exist in the appropriate table, a Warning will be generated.
+
+Field ID 5 and 7 both should be declared or none of them, otherwise a Warning will be generated.
+
+##### 3.2.3. Historical Ratings Profiles
+
+Historical Ratings Profiles (ID #18 to #29) one through twelve, record the credit rating movements (BIRR) of all defaulted and fully resolved loans before the date of default. Twelve profiles exist, one for each reporting quarter for the past three years. Note that the reporting of the quarterly historical ratings should be 'gapless', in other words if a quarter has a reported value, then the following quarters are not 'optional' anymore. All the reported BIRR codes should exist within the selected Risk Rating System (ID #31), in other words the reported RRS/BIRR combination should be declared in the BB and BC return. Otherwise, the data will be rejected.
+
+##### 3.2.4. Countries
+
+Country codes (ID #10) will be validated against ISO standards (ISO# 3166). The submitted code will be rejected if it does not exist in the appropriate table.
+
+##### 3.2.5. Date Fields
+
+The following date fields should be less than or equal to the Reporting Date otherwise the data will be rejected: Date of Default (ID #11), Date of Resolution (ID #30).
+
+##### 3.2.6. Negative Values
+
+Submitting negative values in the return will cause rejection, with the following exceptions: Realized LGD (ID #15), Realized IRB EAD (ID #16) and Realized IRB EADF (ID #17), where negative values are considered acceptable under certain circumstances. (Negative values for Realized IRB EAD and EADF will generate a Warning.)
+
+##### 3.2.7. Percentage Values
+
+The following percentage fields must not contain values greater than 100%: Hedging Percentage (ID #12) and Realized IRB EADF (ID #17), however a submitted value outside of the range will not cause rejection, only a Warning will be generated.
+
+##### 3.2.8. Other Business Validation Rules
+
+The submitted value for certain fields must come from a set of pre-defined options specified in [1]. The submission of a value outside of the pre-defined set will cause rejection of the data file.
+
+Document [1] specifies options for the following fields:
+
+* Secondary Industry Classification System Code (ID #5)
+* Primary Facility Type (ID #9)\*
+* Whether The Facility is Secured Or Unsecured (ID #14)
+* Seniority Profile (ID #13)\*
+
+\*Note that the marked fields used to have an 'Unknown' option and as a transition providing 'Unknown' value during Q1/08 and Q2/08 will not cause rejection of the data.
+
+##### 3.2.9. Matching Path B Records
+
+Every defaulted and fully resolved loan reported via Path B in the Wholesale Transaction – Defaulted and Fully Resolved return must match previously reported Wholesale Transactions loans using "Borrower Number" and "Facility Number". Records that cannot be matched will fail validation.
+
+##### 3.2.10. Matching Path A Records
+
+For those FI's not able to track previously submitted data, we will accept the 30 field record (Path A) for all defaulted and fully resolved loans over $1 million dollars, but we will require that FI's report these items using the same Borrower Number and Facility Number identifiers as previously reported in the Wholesale Transactions return.
+
+#### 3.3. Optional Versus Mandatory Data Elements
+
+Where data points are cited as "optional", this is to accommodate instances where the data point may not exist for all Financial Institutions. If, however, a Financial Institution has the data for an "optional" field, the data **must** be reported in the return.
+
+Mandatory fields are data points that **must** be reported by **all** Financial Institutions. Otherwise, the data will be rejected.
+
+#### 3.4. Error Reporting
+
+If any of these validation checks fail an Error Report will be created and the input file will be rejected. The contents of the error report will vary depending upon the types of errors found in the input file. This report will have enough information to help troubleshoot and correct the inconsistencies. However, if the Error Report contains only Warnings, the input file will be accepted by OSFI. Please, note that you still required correcting the erroneous/ inconsistent data (in other words to eliminate the 'warnings') for the following data  
+submission.
+
+This report will be e-mailed to the Financial Institution in question indicating whether or not the file was successfully uploaded in the database. If problems were detected, the error report will be attached to this e-mail including both 'errors' and 'warnings'.
+
+### Change Control Log
+
+#### Changes in version 2.0
+
+These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 1.0 of this document on hand when reviewing this change log.
+
+Those not already working with Version 1.0 of this Technical Specification Document do not need to use this change log.
+
+1. Section 1 - Introduction: Replaced the term "EAD" in the third paragraph with  
+   "Authorized amount".
+2. Section 1 - Introduction: The chart on Page 2 has been updated. The first box was changed from "Has the Loan been Fully Defaulted and Resolved" to "Has the Defaulted Loan been Resolved?" Also, the subscript was changed to "All Qualifying Loans will need to be reported until Fully Resolved".
+3. Section 1 - Introduction: Clarified that Defaulted and Fully Resolved Loans are recorded and submitted only once. Once submitted they cannot be recalled.
+4. Section 2.1 - File Type and Naming Convention, Section 2.5 - File Header Record (00) and Section 2.9 - Footer Records: Updated Return name reference from "IRBDFRL" to "BG".
+5. Section 2.5 - File Header Record (00), and Section 2.9 - Footer Records: Field <File layout version> value was changed to "01.0.0" - now fits inside of 6 char limit.
+6. Section 2.6 - Borrower Record: Updated Start/End positions of fields in Records Structures 20 and 25
+7. Section 2.6 - Borrower Record: Corrected the labelling of Path A and Path B options in this section. The labels had been reversed in the previous release of this document
+8. Section 2.7 - Facility Records: Corrected the labelling of Path A and Path B options in this section. The labels had been reversed in the previous release of this document.
+9. Section 2.7 - Facility Records: Field ID 17 <Realized IRB EADF> has been changed to Length = 6 and is now consistent with the data definition in the Business Spec.
+10. Section 2.7 - Facility Records: Updated Start/End positions of fields in Records Structures 30 and 35.
+11. Section 3 - Data Validation Rules: Added Section 3.1.4 – "Field Value Rules". This new section provides clarification on rounding and precision for reporting of dollar amounts, percentages and dates. This section has been harmonized with the Field Value Rules indicated for the Portfolio Returns.
+12. Section 3.1 - Error Handling: Reorganized the contents of this section to be the consistent with the Wholesale Transaction Return.
+
+#### Changes in version 3.0
+
+These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 2.0 of this document on hand when reviewing this change log.
+
+Those not already working with Version 2.0 of this Technical Specification Document do not need to use this change log.
+
+1. Section 1 - Introduction: Paragraph 3, "Authorized Amount" was replaced with "original Authorized Amount", since the Authorized Amount is zero for a defaulted loan. It also includes explanation of the original Authorized Amount.
+2. Section 1 - Introduction: Paragraph 4 was rephrased to clarify the how and why Path B should be used.
+3. Section 1 - Introduction: Comment below the Diagram was updated.
+4. Section 2.5 - File Header Record (00): Notes added for <File Type>: "Right padded with spaces"
+5. Section 2.4 - Record Field Order Section references are corrected to 2.5 and 2.9 (vs. the original 4.6, 4.10).
+6. Section 2.6 - Borrower Record: Path A (20) - Notes for <Record Type> modified to pic(9) – Fixed string "20" reflecting the correct record structure number.
+7. Section 2.6 - Borrower Record: Path B (25) - Notes for <Record Type> modified to pic(9) – Fixed string "25" reflecting the correct record structure number.
+8. Section 2.7 - Facility Records: Path A (30) - Notes for <Record Type> modified to pic(9) – Fixed string "30" reflecting the correct record structure number.
+9. Section 2.7 - Facility Records: Path B (35) - Notes for <Record Type> modified to pic(9) – Fixed string "35" reflecting the correct record structure number.
+10. Section 2.7 - Facility Records: Path A (30) Field ID 8 <Facility Number> field length was modified to 25 (vs. the original 15).
+11. Section 2.7 - Facility Records: Path A (30) Field ID 9 <Primary Facility Type> field length was corrected to 8 (from the original 2).
+12. Section 2.7 - Facility Records: Path A (30) Field ID 18 to 29 <Historical Ratings - X Quarters Prior> the checkmark was removed from the Mandatory indicator column making this field optional.
+13. Section 2.7 - Facility Records: Path A (30) The Start & End positions for fields <Sequential Row Counter> and <Cr + Lf> was corrected to reflect the record length.
+14. Section 2.7 - Facility Records: Path B (35) Field ID 8 <Facility Number> field length was modified to 25 (vs. the original 15).
+15. Section 2.7 - Facility Records (both RS030 & RS035): Field ID 15 & 17 (<Realized LGD> and Realized IRB EADF>) Notes changed, '/dots' part has been removed as decimal point is required for percentage values.
+16. Section 3.1.2 - Data Hierarchy Checks Section references are corrected to 2.6, 2.7 and 2.8 (vs. the original 4.6, 4.7, 4.8).
+17. Section 3.1.4.2 - Probability and Percentage Rules: Point 2&3: Field ID 12 is added as exception as it is required to be rounded to and reported less than 2 digits. Example has been added.
+18. Section 3.1.4.2 - Probability and Percentage Rules: Point 4. Comment added: "No comma shell be used"
+
+#### Changes in version 3.5
+
+These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 3.0 of this document on hand when reviewing this change log. Note, that there might be a number of small, "cosmetic-type" corrections in the document that are not listed here. (They should not have an impact on development.)
+
+Those not already working with Version 3.0 of this Technical Specification Document do not need to use this change log.
+
+1. Section 1 - Introduction: Comment added about the two returns.
+2. Section 1 - Introduction: Diagram updated about the return/path selection criteria also the thresholds ($1MM and $10MM) were clarified and number of data points updated.
+3. Section 2.3 - File Structure: Comment added about matching Borrower footer.
+4. Section 2.5 - File Header Record (00): Field "File layout version" Notes changed to "pic(X) – Fixed String "03.5.0"
+5. Section 2.5 to 2.9 – Record Type descriptions: In the Mandatory indicator column, the checkmark was removed – making some Mandatory fields Optional. (Field ID #5, 7, 12)
+6. Section 2.5 to 2.9 – Record Type descriptions: Notes changed; the term "Left justified" was replaced by "Right-padded with spaces" for more clarity.
+7. Section 2.7: Data Definitions document [1] Table references were added to the Notes section of two fields. (ID #9, 13)
+8. Section 2.9 - Footer Records: Field "File layout version" Notes changed to "pic(X) – Fixed String "03.5.0"
+9. Section 3.1.1 - Pre Processing Checks: Missing Record Types were added (25, 35).
+10. Section 3.1.1 - Pre Processing Checks: File length was corrected (to 678 from 668).
+11. Section 3.1.1 - Pre Processing Checks: Comments about return type checking was added.
+12. Section 3.1.1 - Pre Processing Checks: Comments about formatting was added.
+13. Section 3.1.1 - Pre Processing Checks: Last comment about file type was removed.
+14. Section 3.1.4.1 - Dollar Amount Rules: Comments #3 and #4 were modified/added to incorporate the option of negative value submission. Also an example was added.
+15. Section 3.1.4.2 - Probability and Percentage Rules: Comments #2, #4 and #5 were modified/added to incorporate the option of negative value submission. Also an example was added.
+16. Section 3.1.4.3 - Other Numeric Value Rules: Comments #2 and #4 were modified/added to incorporate the option of negative value submission. Also an example was added.
+17. Section 3.2 - Business Rules: The consequences of validation rule failures are added/clarified for every business rule.
+18. Section 3.2.1 - Qualifying Data: Data Qualification added for submission.
+19. Section 3.2.2 - Industry Classification Codes: Describes the modified Industry Classification Code validation rules (Field ID 5, 6, 7).
+20. Section 3.2.3 - Historical Ratings Profiles: Field ID references corrected.
+21. Section 3.2.4 - Countries: Field ID references corrected.
+22. Section 3.2.5 - Date Fields: Validation of Date fields added.
+23. Section 3.2.6 - Negative Values: Negative value business validation rules added.
+24. Section 3.2.7 - Percentage Values: Percentage value business validation rules added.
+25. Section 3.2.8 - Other Business Validation Rules: Section was added to incorporate other field value checking.
+26. Section 3.2.9 - Matching Path B Records: Explanation clarified.
+27. Section 3.2.10 - Matching Path A Records: Loan description corrected, also reference to Path A was added.
+28. Section 3.3 - Optional Versus Mandatory Data Elements: Section was added to clarify the expectations re Mandatory and Optional fields.
+29. Section 3.4 - Error Reporting: Comment added about error reporting and tolerance period.
+
+#### Changes in version 4.0
+
+These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 3.5 of this document on hand when reviewing this change log. Note, that there might be a number of small, 'cosmetic-type' corrections in the document that are not listed here. (They should not have an impact on development.)
+
+Those not already working with Version 3.5 of this Technical Specification Document do not need to use this change log.
+
+1. Section 2.5 - File Header Record (00): Field "File layout version" Notes changed to "pic(X) – Fixed String "04.0.0"
+2. Section 2.7 - Facility Records: Field ID 18 to 29 <Historical Ratings – X Quarters Prior> field length changed to 4 and in Notes section data type changed to pic(9). Also reference was added to Portfolio returns.
+3. Section 2.7 - Facility Records: Field ID 31 <Risk Rating System> was added.
+4. Section 2.9 - Footer Records: Field "File layout version" Notes changed to "pic(X) – Fixed String "04.0.0"
+5. Section 3.2.3 - Historical Ratings Profiles: A business validation rule was specified about the RRS/BIRR combination.
+6. Section 3.2.8 - Other Business Validation Rules: Comment has been added about the 'Unknown' options.
+
+#### Changes in version 4.0 Release 2
+
+These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 4.0 of this document on hand when reviewing this change log. Note, that there might be a number of small, 'cosmetic-type' corrections in the document that are not listed here. (They should not have an impact on development.)
+
+Those not already working with Version 4.0 of this Technical Specification Document do not need to use this change log.
+
+1. Section 1 - Introduction: Some clarification was added regarding Path A and Path B submission.
+2. Section 3.4 - "Tolerance Period" paragraph was removed as it is not applicable for Data submissions after Dec 1st, 2007.
+
+#### Changes in version 5.0
+
+These entries highlight changes made since the last release of this document. This log has been written for the technical audience who is already familiar with the previous release of this document and needs to know what changes have been made to it. Readers should have Version 4.0 (Release 2) of this document on hand when reviewing this change log. Note, that there might be a number of small, "cosmetic-type" corrections in the document that are not listed here. (They should not have an impact on development.)
+
+Those not already working with Version 4.0 (Release 2) of this Technical Specification Document do not need to use this change log.
+
+1. Section 2.7 - Facility Records: 'Other' ('9') option has been removed for Field ID 14 in both Path A and Path B record. Also a comment has been added about the 2 quarters transition.
+2. Section 3.2.8 - Other Business Validation Rules: Fields have been flagged where 'Unknown' option had been removed. Also comment changed, mentioning the 2 quarters transition period.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2023-06-26

@@ -1,0 +1,25 @@
+{
+  "doc_id": "f05e9537cba5b74f",
+  "regulator_id": "ft",
+  "doc_type": "news_story",
+  "title": "Citadel\u2019s flagship fund surges 6% after Situational Awareness swoop",
+  "language": "en",
+  "source_url": "https://www.ft.com/content/ae7acfa8-32d6-496a-a1df-28206fa1661d?syn-25a6b1a6=1",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:24c9cc8e9aa70ff3d57d3c8f9aa7d21a992ab850c256bbcf54f6c79887019b0c",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_ft_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/ft/current/news_story/2026/f05e9537cba5b74f",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.ft.com/content/ae7acfa8-32d6-496a-a1df-28206fa1661d?syn-25a6b1a6=1",
+  "fetch_method": "feed_summary"
+}

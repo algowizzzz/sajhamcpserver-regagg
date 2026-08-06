@@ -1,0 +1,1 @@
+Summary: Stratégie sur l’équité en matière

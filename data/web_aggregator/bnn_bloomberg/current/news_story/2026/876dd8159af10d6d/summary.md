@@ -1,0 +1,1 @@
+Summary: # Reflex Advanced Announces Private Placement of up to C$1,500,000 of Unsecured Convertible Debentures

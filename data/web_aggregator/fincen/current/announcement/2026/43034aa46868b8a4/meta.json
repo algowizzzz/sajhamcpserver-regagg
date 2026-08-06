@@ -1,0 +1,24 @@
+{
+  "doc_id": "43034aa46868b8a4",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Treasury\u2019s FinCEN and Federal Banking Agencies Issue Joint Statement Encouraging Innovative Industry Approaches to AML Compliance | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/news/news-releases/treasurys-fincen-and-federal-banking-agencies-issue-joint-statement-encouraging",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4aad6c16453b5ea7e99096f319abd36b315f0b84a95c51501ba7bcc2a85f69b2",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/43034aa46868b8a4",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

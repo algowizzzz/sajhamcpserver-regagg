@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14956",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Apogem Capital LLC, et al.",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/23/2026-14956/apogem-capital-llc-et-al",
+  "reference_number": "2026-14956",
+  "published_date": "2026-07-23",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ed57b3b10a6e50ac7bddcb9078c0ccbf233be6c3475e6778e1270bee076c42be",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14956",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14088",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "VALIC Company I and The Variable Annuity Life Insurance Company",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14088/valic-company-i-and-the-variable-annuity-life-insurance-company",
+  "reference_number": "2026-14088",
+  "published_date": "2026-07-14",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9f8583ec2fd64f9c67cebfa28b6b2907b32ca6b0b7cc427057984d44482874d8",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14088",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

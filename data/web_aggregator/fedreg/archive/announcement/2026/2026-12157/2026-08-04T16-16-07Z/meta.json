@@ -1,0 +1,26 @@
+{
+  "doc_id": "2026-12157",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Order Approving a Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the S&P 500 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other Than the Third Friday-of-the-Month or Days That Coincide With an End-of-Month Expiration) and Expire on the Last Trading Day of the Month",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/17/2026-12157/self-regulatory-organizations-cboe-exchange-inc-order-approving-a-proposed-rule-change-to-permit-the",
+  "reference_number": "2026-12157",
+  "published_date": "2026-06-17",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:13754a7ea0696c88e690827ff8a6df532de385b739ffb00fccdf2bc3fe14de00",
+  "version_ts": "2026-08-04T01-11-54Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-04T01:11:54.868965+00:00",
+  "run_id": "2026-08-03_fedreg_ui011154",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-12157",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md"
+}

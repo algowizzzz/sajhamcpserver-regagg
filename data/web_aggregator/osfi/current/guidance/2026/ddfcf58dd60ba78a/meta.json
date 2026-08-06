@@ -1,0 +1,27 @@
+{
+  "doc_id": "ddfcf58dd60ba78a",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "Asset Securitization - Guideline (2018) - Office of the Superintendent of Financial Institutions",
+  "language": "en",
+  "source_url": "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/asset-securitization-guideline-2018",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:38879fc8f1bef8d7e6225e8621afa22715ed96397e2bea370a784b0535842ef8",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/ddfcf58dd60ba78a",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/asset-securitization-guideline-2018",
+  "fetch_method": "html_to_md"
+}

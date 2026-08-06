@@ -1,0 +1,24 @@
+{
+  "doc_id": "892ce699ba598878",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Travel Agent Convicted | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/travel-agent-convicted",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8d8447761330cc94a504998197213fbcc686f6b8342138035c45ef16f7413b0b",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/892ce699ba598878",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

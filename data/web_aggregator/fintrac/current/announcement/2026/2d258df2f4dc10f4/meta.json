@@ -1,0 +1,24 @@
+{
+  "doc_id": "2d258df2f4dc10f4",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "Financial Transactions and Reports Analysis Centre of Canada\u2019s 2023\u201324 Departmental results report",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/publications/drr-rrm/2023-2024/drr-rrm-eng.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:b73e1179c7fce0dc8ff1f37933d96678b08e398aa6445fb6960b43268f5b7440",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/2d258df2f4dc10f4",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

@@ -1,0 +1,1 @@
+Summary: # FINTRAC imposes an administrative monetary penalty on Cheetah Consulting Ltd.

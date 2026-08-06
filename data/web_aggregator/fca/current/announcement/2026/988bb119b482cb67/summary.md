@@ -1,0 +1,1 @@
+Summary: This page provides our interactive dashboard of the intermediary sector, based on the 2025 data drawn from the Retail Mediation Activities Return (RMAR).

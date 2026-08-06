@@ -1,0 +1,237 @@
+# Sale of all or Substantially all Assets by Deposit-taking Institutions
+
+Information
+
+Type of document
+
+Transaction instructions
+
+Category
+
+Non deemed approval
+
+Last updated
+
+September 2017
+
+Index A No
+
+10
+
+## Legislative authorities
+
+* Section 236 of the [Bank Act](https://laws-lois.justice.gc.ca/eng/acts/b-1.01/) (“BA”)
+* Section 241 of the [Trust and Loan Companies Act](https://laws-lois.justice.gc.ca/eng/acts/t-19.8/)(“TLCA”)
+* Section 233.5 of the [Cooperative Credit Associations Act](https://laws-lois.justice.gc.ca/eng/acts/c-41.01/)(“CCAA”)
+
+## Information Requirements
+
+The statutes listed above (collectively, the “Statutes”) provide two regulatory steps for a bank or a federally-regulated trust or loan company or association (i.e., an applicant) to sell all or substantially all of its assets.  The first requires the applicant to send to the Superintendent the sale agreement before it is submitted for approval by special resolution of the applicant’s shareholder(s) (and/or members, in the case of a federal credit union or an association). The second requires obtaining the Minister’s approval of the sale agreement, after it has been approved by the applicant’s shareholder(s) and/or members.  The information requirements that follow are set out accordingly.
+
+In addition, the information requirements that follow assume (a) a small or medium-sized deposit-taking institution as the applicant, (b) a deposit-taking institution as the purchaser, and (c) the applicant entering into the transaction with a view to eventually exit OSFI’s oversight. This assumption is merely for convenience, in that it aligns the information requirements with the circumstances underlying the vast majority of requests for approval that have been made under the Legislative Authorities above.
+
+### 1. Information in Support of the Superintendent’s Review of the Sale Agreement and the  Subsequent Application for the Minister’s Approval
+
+#### Applicant-focused Information Requirements
+
+All applicants are generally expected to provide:
+
+1. the rationale for the transaction from the perspective of the applicant, and where the transaction does not involve all of the applicant’s assets and liabilities, details regarding its plans for its remaining assets and liabilities;
+2. a description of the transaction, including:
+   1. the name of the Purchaser,
+   2. a description of the nature of the applicant’s affiliation with the Purchaser, if any,
+   3. the types of assets that are the subject of the transaction (“Assets”),
+   4. the types of liabilities that are the subject of the transaction (“Liabilities”),
+   5. the value of the Assets, and the percentage that this value represents with regard to the total value of all of the applicant’s assets,
+   6. the value of the Liabilities, and the percentage that this value represents with regard to the total value of all of the applicant’s liabilities,
+   7. whether any of the agreements from which any of the Liabilities arise contain “non-transfer” or “non-assignment” clauses,[Footnote 1](#fnb1)
+   8. a description of the consideration for the transaction, including the terms of payments, and the applicant’s proposed use of the proceeds, and
+   9. where the applicant and the Purchaser are not affiliated, a description of the process leading to the agreed upon consideration for the transaction (e.g., bidding process and valuation methodology used, where applicable);
+3. a copy of the executed version of the sale agreement that will be submitted for approval by the applicant’s shareholder(s) (and/or members, in the case of a federal credit union or an association);
+4. a copy of any other agreement that relates to the implementation of the transaction;
+5. where applicable, a description of the transactions involving the applicant that are proposed to be carried out in connection with the sale agreement both prior to and following the taking effect of the sale agreement (the “Connected Transactions”), together with the rationale for the Connected Transactions and flow-charts depicting them;
+6. with regard to the applicant and any of its affiliates, details regarding whether the transaction is subject to, or will trigger, any regulatory approval or notification requirement other than under the Statutes (“Other Regulatory Requirements”)[Footnote 2](#fnb2);
+7. an analysis of the effect the transaction will have on the financial position and risk profile of the applicant, including:
+   1. a comparative *pro forma* balance sheet (immediately pre- and post-transaction) including relevant assumptions, and
+   2. where the transaction does not involve all of the applicant’s assets and liabilities,
+      1. a comparative *pro forma* capital and liquidity position (immediately pre- and post-transaction) that confirms compliance with the applicant’s internal targets[Footnote 3](#fnb3) and with OSFI’s requirements applicable to the applicant, together with relevant assumptions and a breakdown of all elements used to calculate:
+         1. the capital ratios, in accordance with the Capital Adequacy Requirements Guideline,
+         2. the leverage ratio, in accordance with the Leverage Requirements Guideline, and
+         3. the liquidity coverage ratio, in accordance with the Liquidity Adequacy Requirements Guideline,
+      2. three years of financial projections with regard to the applicant, including income statement, balance sheet, capital, leverage and liquidity coverage ratios, and key assumptions,
+      3. a description of any material changes the applicant proposes to make to its policies and procedures, and
+      4. a confirmation that, following the transaction, the applicant will be in compliance with its relevant policies, including those related to liquidity, capital management, risk management and investments.
+
+#### Purchaser-focused Information Requirements
+
+The applicant is generally expected to provide, or arrange for the Purchaser to provide OSFI with:
+
+8. the rationale for the transaction from the perspective of the Purchaser, including details regarding the benefits that are expected to accrue to it;
+9. details regarding the due diligence that the Purchaser has carried out with regard to the Assets and Liabilities, and the views of the Purchaser regarding the results of the due diligence;
+10. details regarding the level of internal approval required with regard to the transaction (e.g., board of directors, board committee or senior management), based on the Purchaser’s policies and procedures, as well as evidence that the transaction was approved at the appropriate level (e.g., relevant excerpts from the minutes of the meeting during which the transaction was approved);
+11. with regard to the Purchaser and any of its affiliates, details regarding whether the transaction is subject to, or will trigger, any Other Regulatory Requirements;
+12. an analysis of the effect the transaction will have on the financial position and risk profile of the Purchaser[Footnote 4](#fnb4), including:
+    1. a comparative *pro forma* balance sheet (immediately pre- and post- transaction) including relevant assumptions,
+    2. where the Purchaser is a Canadian deposit-taking institution, a comparative *pro forma* capital and liquidity position (immediately pre- and post-transaction) that confirms compliance with the Purchaser’s internal targets[Footnote 5](#fnb5) and with OSFI’s requirements applicable to the Purchaser, together with relevant assumptions and, if the transaction is material to the Purchaser, a breakdown of all elements used to calculate:
+       1. the capital ratios, in accordance with the Capital Adequacy Requirements Guideline,
+       2. the leverage ratio, in accordance with the Leverage Requirements Guideline, and
+       3. the liquidity coverage ratio, in accordance with the Liquidity Adequacy Requirements Guideline,
+    3. where the Purchaser is an authorized foreign bank, a comparative *pro forma* capital equivalency deposit (CED) ratio (immediately pre- and post-transaction) that confirms compliance with the Purchaser’s internal target and the BA requirement[Footnote 6](#fnb6), and the elements used to calculate the CED ratio, in accordance with the Capital Equivalency Deposit Guideline;
+    4. if the transaction is material to the Purchaser or will present a material change to the business strategy of the Purchaser:
+       1. where the Purchaser is a Canadian deposit-taking institution, a revised internal solvency assessment process document (e.g., Internal Capital Adequacy Assessment Process),
+       2. an integration plan for the assumed business, including any material changes the Purchaser proposes to make to its policies and procedures,
+       3. where the Purchaser has a recovery plan, a description of any material revisions that it will make to the plan as a result of the transaction, including the timelines outlining when the revisions will be made,
+       4. where applicable, a revised business plan for the Purchaser, and
+       5. three years of financial projections with regard to the Purchaser, including income statement, balance sheet, capital or CED ratio(s), and key assumptions – and in the case of a Canadian deposit-taking institution, the leverage and liquidity coverage ratios,[Footnote 7](#fnb7) and
+    5. a confirmation that, following the transaction, the Purchaser will be in compliance with its relevant policies including those related to liquidity, capital management, risk management and investments; and
+13. where the Purchaser is a related party of the applicant, the applicant is generally expected to provide the information required in [Transaction Instruction DA No. 22 – Related-party asset transactions as part of a restructuring](/en/data-forms/applications-approvals/transaction-instructions/related-party-asset-transactions-part-restructuring "Related-party asset transactions as part of a restructuring"), to the extent such information is not already provided under the information requirements referred to above.[Footnote 8](#fnb8)
+
+### 2. Information in Support of the Application for the Minister’s Approval
+
+On or after the date specified in the statutory notice[Footnote 9](#fnb9) (“Notice”) regarding when the applicant intends to make an application to the Minister, and assuming the applicant proceeds with such application, the applicant is generally expected to provide the following information:
+
+14. proof of publication of the Notice;
+15. a confirmation from the applicant that it has not received any objections related to the Notice or otherwise with regard to the proposed transaction, or has addressed any objection received (together with a description of the manner in which each objection has been addressed);
+16. where applicable, a copy of the materials sent to the applicant’s shareholders and/or members in connection with the meeting to approve the sale agreement by special resolution (the “Voting Package”), together with the date on which the Voting Package was sent;
+17. a certified copy of the special resolution approving the sale agreement;
+18. where applicable, a confirmation that the meeting during which the special resolution was passed took place in accordance with the requirements of the applicant’s by-laws and the statute governing the applicant;
+19. where any Other Regulatory Requirements apply, a confirmation that they have been met together with the details of the related regulatory response, if any; and
+20. where the applicant is a trust company, a description of the arrangements it proposes to make:
+    1. for the transfer of money or other assets held in trust (other than assets held in respect of guaranteed trust money)[Footnote 10](#fnb10), and
+    2. otherwise for the protection of persons in relation to whom it is acting in a fiduciary capacity.[Footnote 11](#fnb11)
+
+## Administrative Guidance
+
+### Purchasers
+
+1. OSFI is of the view that only federally-regulated financial institutions, including authorized foreign banks in respect of their business in Canada, may be Purchasers.[Footnote 12](#fnb12)
+
+### “Substantially All” Assets or Liabilities
+
+2. OSFI generally considers an applicant to be selling substantially all of its assets where the percentage referred to in item 2(e) of the Information Requirements is 75% or more. Likewise, OSFI generally considers an applicant to cause substantially all of its liabilities to be assumed by the Purchaser where the percentage referred to in item 2(f) of the Information Requirements is 75% or more.
+
+### Liabilities – Other Matters
+
+3. The assumption of Liabilities may be construed by creditors as offending “non-transfer” or “non-assignment” clauses contained in agreements from which the Liabilities arise (“Agreements”).  Creditors may interpret such clauses as a commitment by the applicant that it will remain the creditors’ interface for, or sole debtor under, the Agreement.  As a result, where Agreements contain such clauses, OSFI generally expects the applicant to obtain the creditors’ consent to (a) delete or amend these clauses or (b) proceed with the transaction despite these clauses.  In the case where the applicant demonstrates that obtaining such consent is not commercially reasonable in the circumstances, OSFI expects the applicant to be transparent about these clauses in the Notice.
+
+### Timing of Special Resolution
+
+4. OSFI generally expects that an applicant submit the sale agreement for approval by special resolution only after consulting with OSFI on the agreement.
+
+### Notice
+
+5. OSFI generally expects the Notice to set out, among other things:
+   1. the names of the applicant and the Purchaser;
+   2. the city and province or territory in which the applicant’s and the Purchaser’ head offices are situated (or the Purchaser’s principal office, where it is an authorized foreign bank);
+   3. the date on or after which the applicant intends to apply to the Minister for approval of the sale agreement (note: the date on which the application is made cannot be more than three months after the date the sale agreement has been approved by special resolution[Footnote 13](#fnb13)); and
+   4. the Statute and related provision under which the Notice is given.
+6. An applicant may publish the Notice at any time prior to making its application to the Minister (e.g., an applicant may publish the Notice prior to submitting the sale agreement to the Superintendent).
+
+### Drafts
+
+7. An applicant is encouraged to provide OSFI with a draft version of the Notice, sale agreement and, where the applicant is an association or a federal credit union, the Voting Package, with a view to obtain OSFI’s comments regarding these documents. Where an applicant provides OSFI with a draft version of the sale agreement, the applicant is also generally expected to concurrently provide OSFI with items 1, 2, 4, 7(a), 7(b)(i), 8 and 12(a) to (c) of the Information Requirements above.
+
+### Self-dealing and Certain Other Rules
+
+8. While the sale of assets to a related party as part of a transaction that is the subject of these transaction instructions is not subject to an approval under the self-dealing rules,[Footnote 14](#fnb14) such a transaction with a related party is nonetheless subject to the “market terms and conditions” requirement[Footnote 15](#fnb15).
+9. Assets sold as part of a transaction that is the subject of these transaction instructions are exempted from the calculation and application of the 10% threshold for purposes of transactions addressed in [Transaction Instruction DA No. 18. – Asset Transaction Greater than 10% of Assets](/en/data-forms/applications-approvals/transaction-instructions/asset-transaction-greater-10-assets "Asset transaction greater than 10% of assets").[Footnote 16](#fnb16)
+
+### Other Matters
+
+10. The Minister or the Superintendent may consider whether the transaction would hinder the effective implementation of corrective measures in the future, and may request information to that effect.
+11. The following email address should be used for the initial submission of documents in support of requests for approval(s) that are addressed in this document : [approvals-approbations@osfi-bsif.gc.ca​](mailto:approvals-approbations@osfi-bsif.gc.ca). Once the initial submission has been received, a case officer will be assigned to the matter. Thereafter, all case-related documents and correspondence should be directed to the case officer.
+12. Requests for approval(s) that are addressed in this document are not subject to a service charge.[Footnote 17](#fnb17)
+
+The information requirements and administrative guidance are intended to satisfy typical applications. They have been derived from OSFI’s experience in assessing applications. Applicants who provide all information and material requested can generally expect a more timely assessment of their applications. As appropriate to the circumstances, OSFI may request additional information, take into account other matters, impose terms and conditions, or require undertakings
+
+## Footnotes
+
+Footnote 1
+:   See item 3 of the Administrative Guidance below for more information.
+
+    [Return to footnote 1](#fnb1-ref)
+
+Footnote 2
+:   For example, a transaction may be subject to a review under the Competition Act.
+
+    [Return to footnote 2](#fnb2-ref)
+
+Footnote 3
+:   Where the applicant’s internal targets will be revised as a result of the transaction, the reference to “internal targets” above, in the immediately post-transaction context, is to the revised targets.
+
+    [Return to footnote 3](#fnb3-ref)
+
+Footnote 4
+:   Where the Purchaser is an authorized foreign bank, this information requirement is with regard to the Purchaser’s business in Canada.
+
+    [Return to footnote 4](#fnb4-ref)
+
+Footnote 5
+:   Where the Purchaser’s internal target will be revised as a result of the transaction, the reference to “internal target” above, in the immediately post-transaction context, is to the revised target.
+
+    [Return to footnote 5](#fnb5-ref)
+
+Footnote 6
+:   See subsection 582(1) of the BA.
+
+    [Return to footnote 6](#fnb6-ref)
+
+Footnote 7
+:   To the extent this item 12(d)(v) information is not already provided under item 12(d)(i) above.
+
+    [Return to footnote 7](#fnb7-ref)
+
+Footnote 8
+:   See item 8 of the Administrative Guidance below for more information.
+
+    [Return to footnote 8](#fnb8-ref)
+
+Footnote 9
+:   The Notice referred to in paragraphs 236(2)(a) of the BA, 241(2)(a) of the TLCA and 233.5(2)(a) of the CCAA. See also items 5 and 6 of the Administrative Guidance below for more information.
+
+    [Return to footnote 9](#fnb9-ref)
+
+Footnote 10
+:   This is in support of the requirement set out in paragraph 241(2)(c) of the TLCA.
+
+    [Return to footnote 10](#fnb10-ref)
+
+Footnote 11
+:   This is in support of the requirement set out in subsection 241(5) of the TLCA.
+
+    [Return to footnote 11](#fnb11-ref)
+
+Footnote 12
+:   This is based on the wording of the following subsections: 232(1) of the BA, 237(1) of the TLCA and 233.1(1) of the CCAA.
+
+    [Return to footnote 12](#fnb12-ref)
+
+Footnote 13
+:   See subsections 236(1) of the BA, 241(1) of the TLCA and 233.5(1) of the CCAA.
+
+    [Return to footnote 13](#fnb13-ref)
+
+Footnote 14
+:   See subsections 494(6) of the BA, 482(6) of the TLCA and 418(5) of the CCAA. Where assets are purchased and sold among banks, among trust or loan companies, or among associations, these subsections also exempt the purchaser from an approval under the self-dealing rules.
+
+    [Return to footnote 14](#fnb14-ref)
+
+Footnote 15
+:   See section 501 of the BA, 489 of the TLCA and 425 of the CCAA.
+
+    [Return to footnote 15](#fnb15-ref)
+
+Footnote 16
+:   See paragraphs 482(2)(g) of the BA, 470(2)(c) of the TLCA and 406(3)(c) of the CCAA. Where assets are purchased and sold among banks, among trust or loan companies, or among associations, these paragraphs also exempt the assets purchased from the calculation and application of the 10% threshold.
+
+    [Return to footnote 16](#fnb16-ref)
+
+Footnote 17
+:   Please see [Charges for Services Provided by the Office of the Superintendent of Financial Institutions Regulations 2002](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-337/index.html).
+
+    [Return to footnote 17](#fnb17-ref)
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2022-12-21

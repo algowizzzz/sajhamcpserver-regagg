@@ -1,0 +1,75 @@
+# [ESMA authorises EuroCTP as the Consolidated Tape Provider for shares and exchange-traded funds](/press-news/esma-news/esma-authorises-euroctp-consolidated-tape-provider-shares-and-exchange-traded)
+
+Market data
+
+Press Releases
+
+Trading
+
+27/07/2026
+
+The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has authorised EuroCTP B.V. (EuroCTP) to operate as the [Consolidated Tape Provider (CTP)](/esmas-activities/markets-and-infrastructure/consolidated-tape-providers) for shares and exchange-traded funds (ETFs).
+
+Natasha Cazenave, ESMA’s Executive Director, said: 
+
+###### *“This authorisation marks a key step in the implementation of the consolidated tape framework, strengthening the transparency and efficiency of EU equity capital markets.*
+
+###### *By bringing pre-trade and post-trade data from multiple data contributors into a single stream, the CTP for shares and ETFs will give market participants a comprehensive view of trading activity.*
+
+###### *It will thus support better price discovery and facilitate more informed investment decisions for EU and international investors, contributing to the objectives of the Savings and Investments Union.”*
+
+Retail investors, academics, civil society organisations and regulators will be able to benefit from the data free of charge. Other users will have access to the data for a reasonable fee and will be able to use it for internal purposes and with clients.
+
+ESMA has granted EuroCTP a transition period until 30 September 2026, to allow for the finalisation of operational and technical arrangements required for the start of the service.
+
+After the transition period, EuroCTP will be responsible for operating the consolidated tape for shares and ETFs for a period of five years under ESMA’s direct supervision, in line with the MiFIR framework. The five-year period will begin on the date EuroCTP starts its operations.
+
+ESMA encourages data contributors and other market participants to maintain a high level of engagement with EuroCTP to ensure a smooth and timely launch of the consolidated tape activities.
+
+Further information:
+
+###### **Tayfun Yilmaz**
+
+Communications Officer  
+[press@esma.europa.eu](mailto:press@esma.europa.eu)
+
+##### Related Documents
+
+Download All Files
+Download Selected Files
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Date | Reference | Title | Download | Select |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 27/07/2026 | ESMA71-545613100-2975 | [ESMA authorises EuroCTP as the Consolidated Tape Provider for shares and exchange-traded funds - Press release](/document/esma-authorises-euroctp-consolidated-tape-provider-shares-and-exchange-traded-funds-press) |  |  |
+
+More on the same topic
+
+[ESMA launches data collection under the first phase of ESAP](/press-news/esma-news/esma-launches-data-collection-under-first-phase-esap)
+
+10/07/2026
+
+The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has launched the collection of information from Officially Appointed Mechanisms (OA
+
+[New Q&As available](/press-news/esma-news/new-qas-available-July-2026)
+
+10/07/2026
+
+The European Securities and Markets Authority (ESMA), the EU's securities markets regulator, has published the following question and answer:
+
+[ESMA publishes first market capitalisation data for EU Member States](/press-news/esma-news/esma-publishes-first-market-capitalisation-data-eu-member-states)
+
+10/07/2026
+
+The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published today the annual
+
+[Financial firms keep EU carbon markets moving](/press-news/esma-news/financial-firms-keep-eu-carbon-markets-moving)
+
+09/07/2026
+
+The European Securities and Markets Authority (ESMA), the EU financial market regulator and supervisor, has published its t
+
+[More](/press-news/esma-news?tid%5B0%5D=6206&tid%5B1%5D=10&tid%5B2%5D=1657)

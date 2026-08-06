@@ -1,0 +1,9 @@
+# China’s X Square Robot submits confidential filing for Hong Kong IPO, sources say
+
+Chinese start-up X Square Robot has filed confidentially for an initial public offering (IPO) in Hong Kong, according to two sources familiar with the matter, joining a growing wave of domestic robot makers flocking to capital markets, despite new US trade restrictions.
+The Shenzhen-based firm has tapped Huatai Securities and Morgan Stanley as sponsors for the prospective float, one of the sources said.
+Besides X Square, AgiBot and Galbot have also filed confidentially for Hong Kong IPOs, the...
+
+[Read the full story at the source](https://www.scmp.com/tech/tech-war/article/3363028/chinas-x-square-robot-submits-confidential-filing-hong-kong-ipo-sources-say?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

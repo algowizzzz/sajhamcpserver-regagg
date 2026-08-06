@@ -1,0 +1,7 @@
+# Zinc dresses and ice creams - how to survive a heatwave wedding
+
+The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.
+
+[Read the full story at the source](https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

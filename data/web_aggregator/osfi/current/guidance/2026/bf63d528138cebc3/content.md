@@ -1,0 +1,40 @@
+# Unwinding of certain temporary exclusions in leverage ratio exposure measures
+
+Information
+
+Publication type
+
+Letter
+
+Date
+
+August 12, 2021
+
+Sector
+
+Banks,
+
+Foreign Bank Branches,
+
+Trust and Loan Companies
+
+[Generate PDF](/en/print/pdf/node/440)
+
+Table of contents
+
+**To:** Deposit Taking Institutions (DTIs)
+
+In its April 9, 2020 letter, OSFI announced that on a temporary basis, DTIs can exclude central bank reserves and sovereign-issued securities that qualify as High Quality Liquid Assets (HQLA) under the Liquidity Adequacy Requirements Guideline from their leverage ratio exposure measures.
+
+On November 5, 2020, OSFI further announced an eight-month extension that allowed DTIs to continue to exclude these exposures from their leverage ratios until December 31, 2021.
+
+Through its ongoing monitoring efforts, OSFI has concluded that the level of uncertainty in the outlook for economic and financial conditions has reduced from when the leverage ratio exclusions were both originally announced and subsequently extended. This means that, starting January 1, 2022, DTIs will be required to include sovereign-issued securities qualifying as HQLA in their leverage ratio exposure measures. DTIs should continue to exclude central bank reserves from their leverage ratio exposure measures until otherwise notified.
+
+This change aligns with OSFI’s assessment of the leverage ratio exclusions against the four criteria for regulatory and supervisory adjustments communicated by the Superintendent on April 3, 2020, specifically that any adjustments would need to remain credible, consistent, necessary and fit-for-purpose.
+
+OSFI continues to closely monitor conditions and remains prepared to adjust its guidance and temporary measures if necessary.
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2021-08-12

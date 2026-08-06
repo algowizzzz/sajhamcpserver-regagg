@@ -1,0 +1,24 @@
+{
+  "doc_id": "2026-15320",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Notice of an Application of the Securities Industry and Financial Markets Association for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 From Certain Conditions of Note H to Exchange Act Rule 15c3-3a",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/30/2026-15320/notice-of-an-application-of-the-securities-industry-and-financial-markets-association-for-an",
+  "reference_number": "2026-15320",
+  "published_date": "2026-07-30",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:13754a7ea0696c88e690827ff8a6df532de385b739ffb00fccdf2bc3fe14de00",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fedreg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-15320",
+  "tags": [
+    "us",
+    "rulemaking"
+  ]
+}

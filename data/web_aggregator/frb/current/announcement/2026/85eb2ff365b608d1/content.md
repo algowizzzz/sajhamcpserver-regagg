@@ -1,0 +1,83 @@
+[Skip to main content](#content)
+
+![US Flag](/images/icon-us-flag.svg)
+
+An official website of the United States Government
+
+Here's how you know![Expand More](/images/expand_more.svg)
+
+![.gov icon](https://designsystem.digital.gov/assets/img/icon-dot-gov.svg)
+
+**Official websites use .gov**  
+A **.gov** website belongs to an official government organization in the United States.
+
+![HTTPS icon](https://designsystem.digital.gov/assets/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**  
+A **lock** (LockLocked padlock icon) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[Back to Home](/default.htm)
+[Board of Governors of the Federal Reserve System](/default.htm "Link to Home Page")
+
+* Stay Connected
+  + [Federal Reserve Facebook Page](https://www.facebook.com/federalreserve)
+  + [Federal Reserve Instagram Page](https://www.instagram.com/federalreserveboard/)
+  + [Federal Reserve YouTube Page](https://www.youtube.com/federalreserve)
+  + [Federal Reserve Flickr Page](https://www.flickr.com/photos/federalreserve/)
+  + [Federal Reserve LinkedIn Page](https://www.linkedin.com/company/federal-reserve-board)
+  + [Federal Reserve Threads Page](https://www.threads.net/@federalreserveboard)
+  + [Federal Reserve X Page](https://x.com/federalreserve)
+  + [Federal Reserve Bluesky Page](https://bsky.app/profile/federalreserve.gov)
+  + [Subscribe to RSS](/feeds/feeds.htm)
+  + [Subscribe to Email](/subscribe.htm)
+* [Recent Postings](/recentpostings.htm)
+* [Calendar](/newsevents/calendar.htm)
+* [Publications](/publications.htm)
+* [Site Map](/sitemap.htm)
+* [A-Z index](/azindex.htm)
+* [Careers](/careers.htm)
+* [FAQs](/faqs.htm)
+* [Videos](/videos.htm)
+* [Contact](/aboutthefed/contact-us-topics.htm)
+
+Toggle Dropdown Menu
+
+Main Menu Toggle Button
+Sections
+
+Search Toggle Button
+
+1. [Home](/default.htm)
+2. [News & Events](/newsevents.htm)
+3. [Press Releases](/newsevents/pressreleases.htm)
+
+## Press Release
+
+July 07, 2026
+
+### Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs
+
+For release at 3:00 p.m. EDT
+
+* [Share](# "Share")
+
+The Federal Reserve Board on Tuesday requested comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs. The amendments are intended to align with changes to anti-money laundering program requirements separately proposed by four other agencies.
+
+Among other changes, the proposal would require banks to focus their anti-money laundering resources based on risk, with more attention given to higher-risk customers and activities. The proposed amendments would also require banks to incorporate the Financial Crimes Enforcement Network's anti-money laundering priorities into their risk assessment processes. Under the proposal, once a bank has established an anti-money laundering program, the Federal Reserve would focus supervision and enforcement activities on significant failures to implement the program.
+
+Comments on the proposal are due 60 days after publication in the *Federal Register*.
+
+For media inquiries, please email [[email protected]](/cdn-cgi/l/email-protection#214c44454840614753430f464e57) or call 202-452-2955.
+
+[*Federal Register* notice: Anti-Money Laundering and Countering the Financing of Terrorism Programs](https://www.federalregister.gov/documents/2026/07/09/2026-13919/anti-money-laundering-and-countering-the-financing-of-terrorism-programs)
+
+**Comments:** [Submit](https://www.federalreserve.gov/apps/proposals/FR-0000-0133-02/details "Submit") | [View](https://www.federalreserve.gov/apps/proposals/FR-0000-0133-02/comments "View")
+
+[Statement by Governor Barr](/newsevents/pressreleases/barr-statement-20260707.htm)
+
+##### Related Content
+
+* [Board Votes](/aboutthefed/boardvotes.htm)
+
+Last Update:
+July 09, 2026

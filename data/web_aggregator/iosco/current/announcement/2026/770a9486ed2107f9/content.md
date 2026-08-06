@@ -1,0 +1,109 @@
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+##### Modal title
+
+Modal body text goes here.
+
+Close
+
+# Committee on Credit Rating Agencies (Committee 6)
+
+Recent work includes the publication of the revised [Code of Conduct Fundamentals for Credit Rating Agencies](/library/pubdocs/pdf/IOSCOPD482.pdf).
+
+## Members of Committee 6
+
+### Chair
+
+Ms. Elisabeth Van Laere, Head of the CRA Unit, European Securities and Markets Authority, **European Union**
+
+### Members (19)
+
+Australian Securities and Investments Commission, **Australia**  
+*(Mr. Oliver Harvey, Senior Executive Leader – Market Infrastructure / Anna Zajkowski, Senior Analyst – Market Infrastructure / Mr. Adam Judd, Senior Manager – Securities Unit, Market Infrastructure)*
+
+Comissão de Valores Mobiliários, **Brazil**  
+*(Mr. Bruno Gomes, Head of Securitization Department / Mr. Daniel Walter Maeda Bernardo, Director of the Office of Institutional Investor Supervision)*
+
+China Securities Regulatory Commission, **China**  
+*(Mr. Fei Chen, Director General, Department of Corporate Bond Supervision / Ms. Jie Jiang, Deputy Director, Department of Corporate Bond Supervision)*
+
+European Securities and Markets Authority, **European Union**  
+*(Ms. Elisabeth Van Laere, Head of the CRA Unit)*
+
+Bundesanstalt für Finanzdienstleistungsaufsicht, **Germany**  
+*(Mr. Henning Schultetus, Senior Supervision Officer / Investment Recommendations - Users of Ratings and CRA Policy)*
+
+Securities and Futures Commission, **Hong Kong**  
+*(Ms. Irene Tsao, Director, Intermediaries Supervision / Mr. Wilson Lo, Senior Director, Head of Licensing)*
+
+Securities and Exchange Board of India, **India**  
+*(Ms. Harini Balaji, Chief General Manager)*
+
+Israel Securities Authority, **Israel**  
+*(Mr. Tom Goldreich, Head of Financial Technologies, International Affairs and Markets Development Department)*
+
+Financial Services Agency, **Japan**  
+*(Mr. Jiro Masuda, Deputy Director for International Capital Market Regulation)*
+
+Financial Services Commission/Financial Supervisory Service, **Korea, Republic of**  
+*(Mr. Jinhyuk Choi, Lead Manager, Capital Market Infrastructure Team, Capital Market Supervision Department / Ms. Yeseom Yu, Associate, Capital Market Infrastructure Team, Capital Market Supervision Department)*
+
+Comisión Nacional Bancaria y de Valores, **Mexico**  
+*(Mr. Rodrigo Hernández, General Director of Securities Supervision / Mr. Otto Torres)*
+
+The Dutch Authority for the Financial Markets, **The Netherlands**  
+*(Mr. Niels Huijpen)*
+
+Ontario Securities Commission, **Ontario**  
+*(Mr. Michael Bennett, Senior Legal Counsel, Corporate Finance)*
+
+The Bank of Russia, **Russia**  
+*(Ms. Zoya Pilipenko)*
+
+Comisión Nacional del Mercado de Valores, **Spain**  
+*(Maria José Ausejo, Secondary Markets Deputy Director)*
+
+Financial Supervisory Commission, **Chinese Taipei**  
+*(Ms. Yuan-Ping Tsai, Deputy Director, Corporate Finance Division, Securities and Futures Bureau)*
+
+Capital Markets Board, **Türkiye**  
+*(Ms. İnci Esen Kılıçkaya, Senior Expert, Department of Accounting and Auditing Standards)*
+
+Financial Conduct Authority, **United Kingdom**  
+*(Ms. Irene Ho-Moore, Head of CRA Supervision Department)*
+
+Securities and Exchange Commission, **United States of America**  
+*(David Teicher, Branch Chief, Office of Credit Ratings)*
+
+### Observers (2)
+
+European Commission, **European Union**  
+*(Mr. Rogier Wezenbeek, DG FISMA, Unit B4 Audit and credit rating agencies / Mr. Santiago Rafael MARTINEZ-IGLESIAS)*
+
+European Securities and Markets Authority, **European Union**  
+*(Mr. Eduardo-Javier Moral-Prieto, Senior Policy Officer - Issuers and Investors Department)*
+
+[By Laws](/v2/about/?subsection=by-laws)  
+[Resolutions](/v2/about/?subsection=resolutions)  
+[Annual Reports](/v2/publications/?subsection=annual_reports)  
+[Careers](/v2/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
+[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/v2/about/?subsection=tendering)  
+[IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
+
+C/ Oquendo 12  
+28006 Madrid  
+Spain  
+Tel: +34 91 417 5549
+
+[Contact Us](/v2/about/?subsection=contact)  
+[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+
+Join Us
+
+[![IOSCO Logo](/v2/img/logo-bk.svg)](/v2/)

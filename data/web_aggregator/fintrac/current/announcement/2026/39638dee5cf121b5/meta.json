@@ -1,0 +1,24 @@
+{
+  "doc_id": "39638dee5cf121b5",
+  "regulator_id": "fintrac",
+  "doc_type": "announcement",
+  "title": "P\u00e9nalit\u00e9 administrative p\u00e9cuniaire impos\u00e9e \u00e0 Metna General Trading Inc.",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/pen/amps/pen-2024-07-11-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:79216d2abb296eb12f7bb4fff2c56011125daa733c68828023525d32bac58d5f",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/announcement/2026/39638dee5cf121b5",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

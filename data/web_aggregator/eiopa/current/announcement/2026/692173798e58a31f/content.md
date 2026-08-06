@@ -1,0 +1,24 @@
+Page Content
+
+**T****he Joint Committee of the three European Supervisory Authorities (EBA, EIOPA and ESMA - ESAs) launched today a public consultation to amend the Implementing Regulations on the mapping of credit assessments of External Credit Assessment Institutions (ECAIs) for credit risk to reflect the outcomes of a monitoring exercise on the adequacy of existing mappings, namely changes to the Credit Quality Steps (CQS) allocation for two ECAIs and the introduction of new credit rating scales for ten ECAIs. The Implementing Regulations are part of the EU Single Rulebook for banking and insurance aimed at creating a safe and sound regulatory framework consistently applicable across the European Union (EU). The consultation runs until 31 December 2018.**
+
+**In the Implementing Regulations on the mapping of ECAIs, adopted by the European Commission on 11 October 2016, the three ESAs specified an approach that establishes the correspondence between credit ratings and the credit quality steps defined in the Capital Requirements Regulation (CRR) and in the Solvency II Directive.**
+
+**The ESAs are now consulting on an amendment to the Implementing Regulation to reflect the outcome of a monitoring exercise on the adequacy of the mappings, based on a quantitative and qualitative assessment. In particular, the ESAs are proposing to change the CQS allocation for two ECAIs, together with the introduction of new credit rating scales for ten ECAIs.**
+
+**The ESAs also published individual draft mapping reports illustrating how the methodology was applied to produce the amended mappings in line with the CRR mandate.**
+
+#### **Consultation process**
+
+**Comments to the Consultation Paper on the mapping under Article 136 of the CRR can be sent by clicking on the "send your comments" button on the EBA's consultation page. Comments to the Consultation Paper on the mapping under Article 109 (a) of the Solvency II Directive can be provided using the template for comments downloadable [here](https://www.eiopa.europa.eu/content/joint-revised-draft-its-mapping-icais-credit-assessments). Please note that the deadline for the submission of comments is 31 December 2018.**
+
+**All contributions received will be published following the close of the consultation, unless requested otherwise.**
+
+#### **Legal basis**
+
+**The proposed revised draft ITSs have been developed according to Article 136 (1) and (3) of Regulation 575/2013 (Capital Requirements Regulation) and of Article 109 (a) of Directive 2009/138/EC (Solvency II Directive), which state that revised draft ITS shall be submitted by the ESAs, where necessary.**
+
+**This change follows a first amendment to the Implementing Regulations, which was proposed by the ESAs in 2017 and adopted by the European Commission on 24 April 2018. The first change reflected the withdrawal of the registration of one CRA and the recognition of five additional CRAs since the adoption of the Implementing Regulations in October 2016.Two ECAIs, Credit reform and Spread Research, have not consented to the publication of their mapping reports. In the absence of a consent, the ESAs published only the outcome of the revision, i.e. the relevant mappings in Annex III of the draft amended ITS ("Mapping tables") together with two documents listing the applicable credit rating scales and credit rating types for each of the concerned ECAI.**
+
+Publication date
+:   26 October 2018

@@ -1,0 +1,70 @@
+# Change Control Log (E3)
+
+Information
+
+Type of document
+
+Change control log
+
+Industry
+
+Deposit-taking institutions
+
+Return
+
+Allowances for Expected Credit Losses (E3)
+
+Last updated
+
+September 2018
+
+Return number
+
+E3
+
+Accompanying documents
+
+* [Allowances for Expected Credit Losses (E3)](/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/allowances-expected-credit-losses-e3)
+
+Amendment control log
+
+| Amendment Number | Effective Reporting Date | Page Number | Description |
+| --- | --- | --- | --- |
+| 1 | Q1 1998 | 2 | **Delete:**  * Memo Item: Assets not included in Impaired Assets on which allowances have been established on a group basis.  **Change:**  * Report the Allowance for Impairment in three separate columns. Report individual allowance for each applicable line and in total only for the Group Allowance, Other and Country-Risk. |
+| 5 | **Add:**  * A paragraph to the General Instructions. |
+| 2 | Q1 1999 | 5 | **Change:**  * "Impaired Loans" changed to "Impaired Assets" |
+| 3 | Q1 2000 | 1 | **Add:**  * Section 600 of the Bank Act (applies to Foreign Bank Branches) * Additional information on disclosure  **Change:**  * Section 523 of the Bank Act is now Section 628 |
+| 4 | Q1 2001 | 2 | **Change:**  * Heading on the last column Impaired Loans changed to Impaired Assets. |
+| 5 | Q4 2003 | 1 | **Change:**  * Ivation Data Systems Inc. to Beyond 20/20 Inc. |
+| 2, 4 | **Delete:**  * Total Claims on Designated Countries table * Memo Item - Impaired Claims on Designated Countries table * Appendix I – Exposures to Designated Countries |
+| 5, 6, 7 | **Delete:**  * Instructions relating to Total Claims on Designated Countries * Instructions relating to Memo Item - Impaired Claims on Designated Countries * Instructions relating to Appendix I |
+| 6 | Q1 2004 | 1 | **Add:**  * Address for OSFI Website  **Delete**  * Reference to Beyond 20/20 |
+| 2 | **Delete:**  * 'Impaired Assets Net of All Allowances' column. |
+| 3 | **Delete:**  * Reference to 'Impaired Assets Net of All Allowances' column. |
+| 7 | Q1 2005 | 2, 4 | **Delete:**  * Memo items on Foreclosed Assets Held for Sale * Group Allowance, Country Risk |
+| 8 | Q1 2008 | 2, 3 | **Change:**  * On-balance sheet to recognized assets * Off-balance sheet to unrecognized |
+| 9 | Q1 2009 | 2 | **Delete:**  * The return template copy has been deleted from these instructions and has been posted as a separate item on OSFI's website |
+| 10 | Q1 2010 | 2 | **Add:**  * Numbering of each line item * " \* " and additional instructions under (b)(i) Residential |
+| 3 | **Add:**  * Numbering of each line item * 1. Mortgage loans – Residential\* - Of which: Reverse mortgages and related instructions |
+| 11 | Q3 2014 | Instructions: | |
+| 3 | **Add:**  * 1. a) Reverse Mortgages: Principal * 1. b) Reverse Mortgages: Accrued Interest * 1. c) Reverse Mortgages: Accrued Fees * 1. d) Reverse Mortgages: Other Accrued Items * 2. Reverse mortgages – Residential * 2. a) Reverse Mortgages: Unpaid Taxes * 2. b) Reverse Mortgages: Unpaid Insurance |
+| Return template: | |
+| 1 | **Add:**  * Column Collective Allowance for Individually Insignificant Impaired Assets * Memo items lines 1(a) to (d) and 2(a)-(b)   **Change:**   * Carrying Amount to Net Impaired Amount * Collective Allowance to Collective Allowance for Incurred but not Identified Credit Losses |
+| 12 | Q1 2018 | Instructions: | |
+| 1 | **Change:**   * Return of Impaired Assets to Return of Allowances for Expected Credit Losses |
+| 2 | **Change:**   * Impaired assets to allowances for expected credit losses * Instructions under General Instructions   **Add:**   * Instructions under 3. Loans |
+| 3 | **Add:**  * Instructions under 5. Other Recognized Assets * Instructions under 6. Total * Instructions under Memo Items |
+| 4 | **Change:**  * Allowance for impairment to allowance for expected credit losses |
+| Return template: | |
+| 1 | **Change:**  * Impaired Assets to Allowances for Expected Credit Losses  **Delete:**  * Column Recorded Investment * Column Individual Allowance * Column Collective Allowance for Individually Insignificant Impaired Assets * Column Collective Allowance for Incurred but not Identified Credit Losses * Column Allowance for Impairment  **Add:**  * Column Recorded Investment under Stage I, II and III * Column Individually Assessed Allowance under Stage I, II and III * Column Collectively Assessed Allowance under Stage I, II and III * Lines 2a) and b) * Lines 3(i)(A), (B), (B)(I), (C), (C)(I)-(II), (D) and 3b)(i)(A) * Columns Stage I, II and III Allowance under Memo Items * Column Allowance for Expected Credit Losses under Memo Item 3 |
+| 13 | Q1 2019 | Instructions: | |
+| 1 | **Add:**  * Instructions under Purpose |
+| 2 | **Change:**  * Instructions under Allowances for Expected Credit Losses |
+| 3 | **Delete:**  * Wording (individually and collectively assessed) under 6. Total |
+| Return template: | |
+| 1 | **Delete:**  * Column Individually Assessed Allowance under Stage I, II and III * Column Collectively Assessed Allowance under Stage I, II and III   **Add:**   * Column Expected Credit Losses under Stage I, II and III   **Change:**   * Stage I/II/III Allowance to Stage I/II/III Expected Credit Losses |
+
+Report a problem or mistake on this page
+
+Date modified:
+:   2019-11-27

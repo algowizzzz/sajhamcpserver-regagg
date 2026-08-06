@@ -1,0 +1,1 @@
+Summary: # FinCEN Issues Ruling (FIN-2009-R001) on Whether Certain Operations of a Service Provider to Prepaid Stored Value Program Participants is a Money Services Business

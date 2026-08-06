@@ -1,0 +1,67 @@
+# Franchise auto-assurée (Sociétés d'assurances canadiennes et étrangères)
+
+Veuillez utiliser le gabarit suivant et remplacer les segments entre [parenthèses] par les renseignements applicables.
+
+[Date]  
+[Demandeur]
+
+Lettre de crédit de soutien irrévocable no 
+
+Bénéficiaire
+
+[Inscrire la raison sociale de la société d’assurances canadienne ou le nom du fiduciaire en fiducie au profit de la société d’assurances étrangère fédérale – a/s Bureau du surintendant des institutions financières Canada de la société ou du BSIF, dans le cas d'une société d'assurances étrangère]
+
+La présente est une lettre de crédit de soutien irrévocable émise en votre nom pour des retraits à concurrence de  [montant  [Note de bas de page 1](#fnb1)] $ CAN, applicable dès maintenant et venant à échéance à la fermeture de notre succursale du [adresse de la banque[Note de bas de page 2](#fnb2)] le [date] ou à toute autre date d’échéance ultérieure applicable suite à la reconduction automatique de la présente lettre de crédit.
+
+Nous nous engageons par les présentes à honorer rapidement vos traites à vue pour le paiement de la totalité ou d’une partie du montant de la présente lettre de crédit dans la mesure où les traites sont présentées à notre succursale du [adresse de la banque[Note de bas de page 2](#fnb2)] au plus tard à la date d'échéance indiquée ci-dessus ou à toute autre date d’échéance ultérieure et qu'elles soient assorties de ce qui suit:
+
+* (i) un certificat de la [raison sociale de la société d’assurances]
+  + (A) précisant que
+    - [nom de l’assuré] a manqué à ses obligations en vertu de la convention d’indemnisation conclue le
+    - [date] entre
+    - [nom de l’assuré] et
+    - [raison sociale de la société d’assurances] relativement à la police d’assurance no
+    - [no de la police] de
+    - [raison sociale de la société d’assurances] datée du
+    - [date de la police] ou à son renouvellement ou remplacement, et
+  + (B) énonçant le montant dû à
+    - [raison sociale de la société d’assurances] en vertu de ladite convention, et
+* (ii) le consentement écrit du surintendant des institutions financières du Canada portant indication de notre lettre de crédit [no].
+
+Exception faite des éléments susmentionnés, le présent engagement ne fait l'objet d'aucune condition ou réserve. L'obligation de la banque aux termes des présentes constitue une obligation individuelle et ne dépend aucunement du remboursement du montant en cause.
+
+Sauf avis contraire, la présente lettre de crédit sera automatiquement reconduite sans modification pour une période d’un an à compter de la date d'échéance indiquée ci-dessus, ou de toute autre date d’échéance ultérieure, à moins que nous vous avisions du contraire au moins 90 jours précédant l’échéance par avis signifié à vous et au surintendant des institutions financières du Canada, au 255, rue Albert, 12e étage, Ottawa (Ontario) K1A 0H2, par courrier recommandé ou service de messagerie.
+
+La présente est assujettie aux Règles et pratiques internationales relatives aux Standby (RPIS98).
+
+Sauf disposition contraire, la présente est régie par les lois de la province [province d’émission].
+
+Prière d’adresser les questions au sujet de la présente à [adresse de la banque[Note de bas de page 3](#fnb3)] et préciser le numéro de la lettre de crédit [no].
+
+[Signataire(s) autorisé(s)]
+
+## Notes de bas de page
+
+Note de bas de page 1
+:   Pour que la société d’assurances obtienne un crédit réduisant les fonds propres exigés suivant cette lettre de crédit, celle‑ci doit être approuvée par le Surintendant. Si le montant de la présente lettre de crédit est modifié, le surintendant doit l’approuver.
+
+    [Retour à la référence de la note de bas de page 1](#fnb1-ref)
+
+Note de bas de page 2
+:   Les lettres de crédit provenant des banques étrangères DOIVENT être accompagnées d’une lettre de confirmation distincte émise par une banque canadienne. Si la lettre de crédit est émise par une banque étrangère, l’adresse de la banque peut être celle soit de la banque émettrice soit de la banque canadienne qui confirme (en pratique, l’adresse de la banque canadienne est habituellement utilisée).
+
+    [Retour à la référence de la note de bas de page 2](#fnb2-ref)
+
+Note de bas de page 3
+:   L’adresse doit être la même que celle utilisée en (2) ci‑haut.
+
+    [Retour à la référence de la note de bas de page 3](#fnb3-ref)
+
+## Liens utiles
+
+* [Lignes directrices générales sur l’utilisation de lettres de crédit](/fr/donnees-formulaires/demandes-approbations/lignes-directrices-generales-sur-lutilisation-lettres-credit "Lignes directrices générales sur l’utilisation de lettres de crédit")
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2023-11-08

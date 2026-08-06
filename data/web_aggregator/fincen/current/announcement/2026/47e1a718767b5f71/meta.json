@@ -1,0 +1,24 @@
+{
+  "doc_id": "47e1a718767b5f71",
+  "regulator_id": "fincen",
+  "doc_type": "announcement",
+  "title": "Application of Section 311 Special measures to Payments under a Stand-By Letter of Credit | FinCEN.gov",
+  "language": "en",
+  "source_url": "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/application-section-311-special-measures-0",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:1e77d0442020a14bbea441f84751c8b7d388dc828c2b7976c9ef0b375ba10e4d",
+  "version_ts": "2026-08-03T02-44-10Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T02:44:10.168289+00:00",
+  "run_id": "2026-08-02_fincen_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fincen/current/announcement/2026/47e1a718767b5f71",
+  "tags": [
+    "us",
+    "aml_cft"
+  ]
+}

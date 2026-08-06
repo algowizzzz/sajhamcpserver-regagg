@@ -1,0 +1,89 @@
+# Determination of Money Services Business Status and Obligations Under the Funds Transfer Recordkeeping Rule, and Request for Regulatory Relief
+
+[fin-2009-r004.pdf](/system/files/administrative_ruling/fin-2009-r004.pdf "fin-2009-r004.pdf")
+(124.85 KB)
+
+FIN-2009-R004
+
+Determination of Money Services Business Status and Obligations Under the Funds Transfer Recordkeeping Rule, and Request for Regulatory Relief
+
+Issued Date
+
+January 19, 2010
+
+**Financial Crimes Enforcement Network**
+
+**Ruling**
+
+FIN-2009-R004  
+Issued: November 20, 2009  
+Subject: Determination of Money Services Business Status and Obligations Under the Funds Transfer Recordkeeping Rule, and Request for Regulatory Relief
+
+Dear []:
+
+This responds to your letter dated August 19, 2008 on behalf of , a wholly owned subsidiary of , and ’s wholly owned subsidiaries, and (collectively, the "Companies"), to the Financial Crimes Enforcement Network ("FinCEN"), requesting an administrative ruling on the Companies’ obligations under the Bank Secrecy Act ("BSA"). Specifically, you request FinCEN’s determination on (a) whether the bill payment activities in which the Companies engages make them money services businesses ("MSBs")1 under the BSA; (b) whether such transactions processed through automated clearinghouse systems ("ACH") are subject to the Funds Transfer Rule and the Travel Rule2 ; and (c) if both questions were answered in the affirmative, whether FinCEN would consider granting the Companies regulatory relief under the Funds Transfer Rule and the Travel Rule.
+
+You represent that the Companies offer domestic bill payment services for payments due and owing to established corporate entities. An individual may instruct the Companies to make payment to a limited universe of corporate recipients in the United States with which the individual has an established service account. The Companies do not allow international payments. The vast majority of bill payments are for bills due to domestic public utilities, such as electric, telecommunications, gas and water companies; the average bill payment processed by the Companies is approximately $100.00.
+
+The Companies have pre-existing contractual relationships with most of the corporate recipients ("Contract Clients") to accept and process such payments from their customers; payments to Contract Clients represent approximately 86% of the Companies’ businesses. The remaining 14% of business is transacted with corporate recipients who do not have pre-existing contracts with the Companies ("Billers"). In all instances the Companies accept payments only where the customer making payment has a pre-existing relationship with the corporate payee. The individual initiating the bill payment may pay for such payment by cash or, where the recipient is a Contract Client, the individual may also pay by check made payable to the Contract Client, money order, or in some cases gift certificates. Pursuant to the Companies’ agreements with Contract Clients, such payments are often considered by the corporate recipients to be paid at the time the individuals making payment are provided with their receipt-in other words, immediate credit is given for the payment. Where the recipient is a Biller, the payment is completed by the Companies, in most cases, in less than three business days. The concentration of payments received by the Companies’ agents, and the actual payments effected to the Companies’ Contract Clients and Billers, are made via ACH.
+
+Money services businesses are a type of financial institution for purposes of regulations implementing the Bank Secrecy Act.3 The category is defined to include money transmitters.4 Whether a person is a money transmitter is a matter of facts and circumstances. Our regulations define the term "money transmitter" to include "[a]ny person… who engages as a business in accepting currency, or funds denominated in currency, and transmits the currency or funds, or the value of the currency or funds, by any means through a financial agency or institution… or… [a]ny other person engaged as a business in the transfer of funds."5 The regulations also provide that "the acceptance and transmission of funds as an integral part of the execution and settlement of a transaction other than the funds transmission itself… will not cause a person to be a money transmitter."6
+
+FinCEN has concluded that a merchant payment processor, processing payments from consumers as an agent of the merchant to whom the consumers owe money - rather than on behalf of the consumers themselves - is not a money transmitter by virtue of such activities.7 Furthermore, FinCEN has already determined that the services offered by a company that limits itself to accepting payments only on behalf of the billers with whom it has contracted as an agent, and declines to accept and transmit funds for any other purpose, are sufficiently similar to the services provided to merchants by merchant payment processors for the same conclusion to apply.8 Based on these earlier rulings, and under the facts and circumstances you represented in your letter, FinCEN does not deem the Companies money transmitters for purposes of 31 C.F.R. § 103.11(uu)(5) for services rendered to their Contract Clients, as defined above.
+
+FinCEN does not, however, reach the same conclusion with respect to the services rendered by the Companies to bill payers, in order to discharge their obligations to the Companies’ Billers. We acknowledge that the Companies typically accept currency or funds denominated in currency only from bill payers who have pre-existing relationships with Billers, and that the Billers to whom the Companies transmit payments are well-known, reputable businesses. While these facts may have consequences for the ease with which a payment can be processed or determined to be bona fide, they do not alter the fact that, when the Companies transmit any given payment from a bill payer to a Biller, there is no transaction "other than a money transmission itself" -albeit a circumscribed and very efficient one - from the Companies’ perspective. Moreover, because the Companies do not have an ongoing contractual relationship with the Billers comparable to that between a merchant payment processor and the merchant for which it works, that exception does not apply to the Companies’ transmission of payments from bill payers to Billers. To the extent that they transmit such payments, therefore, the Companies qualify as money transmitters under FinCEN regulations.
+
+Your letter further requests that, in the event that FinCEN determines that the Companies are money transmitters and thus covered MSBs, the Companies be given administrative relief from any Funds Transfer Rule or Travel Rule9 obligations. For purposes of the Funds Transfer Rule and the Travel Rule, our regulations define a transmittal of funds as "a series of transactions beginning with the transmitter’s transmittal order, made for the purpose of making payment to the recipient of the order …" The regulations go on to say that "… The term transmittal of funds includes a funds transfer …" and "… Funds transfers governed by the Electronic Fund Transfer Act of 1978 (Title XX, Pub. L. 95-630, 92 Stat. 3728, 15 U.S.C. 1693, et seq.) as well as any other funds transfers that are made through an automated clearing-house, an automated teller machine, or a point-of-sale system, are excluded from this definition."10 As per your own representation, the Companies conduct all their internal (concentration) and external (disbursement to the Billers) transmittals of funds via ACH, and to that extent such transactions are excepted from the definition of transmittal of funds for purposes of the Funds Transfer Rule and/or the Travel Rule.
+
+This ruling is provided in accordance with the procedures set forth at 31 C.F.R. § 103.81. In arriving at the conclusions in this letter, we have relied upon the accuracy and completeness of the representations made in your letters. Nothing precludes us from reaching a different conclusion or taking further action if circumstances change or any of the information provided is inaccurate or incomplete. We reserve the right, after redacting your name, and your company’s name and address, to publish this letter as guidance to financial institutions in accordance with our regulations. You have fourteen days from the date of this letter to identify any other information you believe should be redacted and the legal basis for redaction.
+
+If you have questions regarding this letter, please contact [FinCEN’s regulatory helpline at (800) 949-2732.]
+
+Sincerely,  
+/signed/  
+Jamal El-Hindi  
+Associate Director  
+Regulatory Policy and Programs Division
+
+---
+
+1 31 C.F.R. 103.11(uu)
+
+2 31 C.F.R. 103.33(f) and (g)
+
+3 See *supra* footnote 1.
+
+4 31 C.F.R. 103.11(uu)(5).
+
+5 31 C.F.R. 103.11(uu)(5)(i)(A) and (B).
+
+6 31 C.F.R. 103.11(uu)(5(ii).
+
+7 See FinCEN Ruling 2003-8 "Definition of Money Transmitter (Merchant Payment Processor)" dated November 19, 2003.
+
+8 See FinCEN Ruling 2008-R006 "Whether an Authorized Agent for the Receipt of Utility Payments is a Money Transmitter", dated June 11, 2008.
+
+9 31 C.F.R. 103.33(g).
+
+10  See 31 C.F.R. 103.11(jj).
+
+Financial Institution
+
+Money Services Businesses
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

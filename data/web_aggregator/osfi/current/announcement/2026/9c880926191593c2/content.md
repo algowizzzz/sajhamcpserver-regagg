@@ -1,0 +1,367 @@
+255 Albert Street 
+Ottawa, Canada 
+K1A 0H2 
+255, rue Albert 
+Ottawa, Canada 
+K1A 0H2 
+ 
+  
+  
+ 
+  
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+Unclassified / Non classifié 
+OSFI  SECURITY  INFORMATION  FORM  
+PROTECTED  B  
+once  completed  
+OFFICE  USE  ONLY  
+File  Number  
+Privacy Notice:  
+T
+he personal information collected through OSFI’s Security Information Form is collected pursuant to the authorities 
+of the Superintendent and the Minister of Finance related to federally regulated financial institutions as outlined in 
+the Bank Act; Cooperative Credit Associations Act; the Insurance Companies Act  and the Trust  and Loan Companies  
+Act. For certain transactions and some business activities, financial institutions need regulatory approval from the 
+Superintendent of Financial Institutions and/or the Minister of Fi nance based on the advice of OSFI. 
+Each applicant, as well as individuals associated with an approval application, must fill out the OS F I Security 
+Information Form in order for the appl ication to be processed. Personal information collected through the form will 
+be used by OSFI to assess the character and integrity of individuals associated with a financial institution. 
+In the course of conducting the assessment, the information will be shared with applicable law enforcement and 
+intelligence agencies, including, but not limited to, the Royal Canadian Mounted Police, the Ca nadian Security 
+Intelligence Service and the Financial Transactions and Reports Ana lysi s Centre of Cana da . In response, these 
+agencies may release personal inf ormation t o  OSFI related to the approval and the assessment of the character and 
+i
+ntegrity of affiliated individuals. Given the ongoing nature of the Superintendent’s and the Minister's approvals 
+authorities in the financial institution statutes, OSFI may use the infor mation  in the form at a later time to conduc t 
+another security check  with the se agencies. 
+Failure to provide the requested personal information will prevent OSFI from completing the security background 
+check required for the approval process. This may af fect O SFI’s ability to process the application. Depending on the 
+results of OSFI’s  assessment, it may have implic ations  for the individual’s role, position, relationship with or 
+investment in the financial institution(s) as sociated w ith the application(s), or fo r the  financial institution(s) itself. 
+OSFI will use the information received from this form and from these agencies to conduct analysis (including 
+validation of information using publicly available information and commercially available databases) and generate 
+advice as part of the  administrative decision -making process for the approval. As part of the decision-making process 
+your information may also be shared with the Department of Finance, the Minister of Finance, and the applicant 
+entity on whose behalf you are submitting your personal information (if you are not the applicant).  
+The information may also be disclosed internally within OSFI for the purpose of fulfilling any of its regulatory 
+functions, such as the supervision of financial institutions. 
+In addition to sharing with the above-noted departments and agencies, where relevant and necessary, the information 
+may also be shared with any agency or body listed under subsections 18(5) and 22(2) of the OSFI Act. 
+P
+ersonal information will be protected under the provisions of the Privacy Act and will be used and stored as 
+described in OSFI’s Approvals  – Fi nancial Institutions Personal Information Bank #OSFI PPU 015. 
+Under the Privacy Act, you ha ve the right to access your personal information and request correction of your 
+information. You have the right to file a complaint with the Office of the Privacy Commissioner of Ca nada regarding 
+the handling of your personal information (File a for mal privacy c om plaint - Office of the Privacy Commissioner of  
+Canada). Should you wish to exercise your rights under the Privacy Ac t , or have any questions, pleas e contact O S FI ’s 
+ATIP Office (ATIP-A IPRP@osfi -bsif.gc.ca). 
+OSFI 580 Page 1 of 9
+
+Unclassified / Non classifié 
+Please typewrite. With the original signed and dated form, you must also provide an 
+electronic version (Excel format on a CD or by e-mail) to OSFI. 
+PART A - GENERAL INFORMATION 
+1. N ame of Financial Institution / Organization 2. R elationship with Financial Institution (Select all that apply) 
+Director Officer Other (specify) 
+PART B - BIOGRAPHICAL INFORMATION 
+      
+ 
+ 
+ 
+          
+           
+     
+             
+    
+     
+        
+   
+         
+ 
+ 
+     
+    
+        
+    
+                
+    
+     
+    
+      
+    
+       
+  
+           
+1. S urname (Last name) 2. Fu ll given nam
+es (no initials)
+If
+ applicable, list all commonly used names or nicknames 
+3. Family name at birth / Maiden name 4. All ot
+her names used (include name changes and nicknames as well as
+n
+ames in other languages where applicable)
+5. Se x 
+Male Female Other / Non-Binary 
+6. D ate of birth (YYYY-MM-DD) 
+7. P
+lace of birth (City) P
+rovince / State Country 
+8. Residency (Select what applies)
+Canadian Permanent
+R
+esident 
+Canadian Temporary 
+Resident 
+Non-Resident 
+9. Citizenship (list all that apply) 
+10. P roof of 
+Citizenship (Select what applies)
+P
+assport National Identity Card Other (specify) 
+11. Date of Issue (YYYY-MM-DD) 
+12. Do yo u maintain dual or multiple citizenship? 
+Yes No 
+If so, please indicate countries of citizenship, certificate type, and number. 
+OSFI 580 Page 2 of 9
+
+Unclassified / Non classifié 
+PART C - MARITAL STATUS / COMMON-LAW PARTNERSHIP 
+1. Current Status 
+Married Common-Law Partnership Separated 
+Widowed Divorced Single 
+2. Curren
+t spouse / co mmon-law partner 
+Surname Given N ames 
+Maiden name (if applicable) Date of birt
+h 
+3. Former spouse / c ommon-law partner 
+Surname Given Nam
+es 
+Maiden name (if app licable) Date of birth 
+PART D - IMMEDIATE RELATIVES (including those living outside Canada) 
+1 
+Full name (surname and all given names, including maiden name) Relationship Date of birth 
+Apt # Street # Street Name Civic number 
+City Province or State Country Telephone number 
+2 
+Full name (surname and all given names, including maiden name) Relationship Date of birth 
+Apt # Street # Street Name Civic number 
+City Province or State Country Telephone number 
+3 
+Full name (surname and all given names, including maiden name) Relationship Date of birth 
+Apt # Street # Street Name Civic number 
+City Province or State Country Telephone number 
+4 
+Full name (surname and all given names, including maiden name) Relationship Date of birth 
+Apt # Street # Street Name Civic number 
+City Province or State Country Telephone number 
+OSFI 580 Page 3 of 9
+
+Unclassified / Non classifié 
+5 
+Full name (surname and all given names, including maiden name) Relationship Date  of  birth  
+Apt  #  Street  #  Street  Name  Civic  number  
+City Province  or  State  Country Telephone  number  
+PART E - CRIMINAL CONVICTIONS IN AND OUTSIDE OF CANADA 
+1. Have you ever been charged and / or convicted of a criminal
+offence under the law of any Province, State, or Country?
+Yes No 
+If yes, give details (charge(s), name of police force, city, 
+province  /  state, country, and date of conviction) by completing 
+the following sections  
+2. Charge(s) 
+3. Name  of  Police  Force  /  Law  Enforcement  Agency  4. City  5. Province  /  State  
+6. Country 7. Date  of  Conviction  (YYYY-MM-DD)  
+8. Have you ever been non-criminally disciplined or sanctioned in connection with financial or business misconduct, fraud or
+mismanagement  of an entity?  
+Yes No 
+If yes, give details (nature of charges, reason for sanctions or disciplinary actions, city, province / state, country, and date) 
+OSFI 580 Page 4 of 9
+
+Unclassified / Non classifié 
+PART F - RESIDENCE (List addresses where you have lived during the last 10 years, starting with the most 
+current.  All spaces must be completed; there should be no  gaps)  
+1 
+Apt.  #  Street  #  Street  Name  From  (YYYY-MM)  
+To present 
+City Province  or  State  Country Telephone  number  
+2 
+Apt.  #  Street  #  Street  Name  From  (YYYY-MM)  To  (YYYY-MM)  
+City Province  or  State  Country Telephone  number  
+3 
+Apt.  #  Street  #  Street  Name  From  (YYYY-MM)  To  (YYYY-MM)  
+City Province  or  State  Country Telephone  number  
+4 
+Apt.  #  Street  #  Street  Name  From  (YYYY-MM)  To  (YYYY-MM)  
+City Province  or  State  Country Telephone  number  
+5 
+Apt.  #  Street  #  Street  Name  From  (YYYY-MM)  To  (YYYY-MM)  
+City Province  or  State  Country Telephone  number  
+PART G - EMPLOYMENT- List all employment for the last 10 years, specify if there are any gaps in 
+employment.  
+1 
+Name of employer - do not use initials (department / organization / agency, if applicable) 
+Suite  /  
+Office # 
+Street  #  Street  Name  From  (YYYY-MM)  To  (YYYY-MM)  
+City Province  or  State  Country Telephone  number  
+Job Description 
+OSFI 580 Page 5 of 9
+
+Unclassified / Non classifié 
+2 
+Name of employer - do not use initials (department / organization / agency, if applicable) 
+Suite / 
+Office # 
+Street # Street Name From (YYYY-MM) To (YYYY-MM) 
+City Province or State Country Telephone number 
+Job Description 
+3 
+Name of employer - do not use initials (department / organization / agency, if applicable) 
+Suite / 
+Office # 
+Street # Street Name From (YYYY-MM) To (YYYY-MM) 
+City Province or State Country Telephone number 
+Job Description 
+4 
+Name of employer - do not use initials (department / organization / agency, if applicable) 
+Suite / 
+Office # 
+Street # Street Name From (YYYY-MM) To (YYYY-MM) 
+City Province or State Country Telephone number 
+Job Description 
+5 
+Name of employer - do not use initials (department / organization / agency, if applicable) 
+Suite / 
+Office # 
+Street # Street Name From (YYYY-MM) To (YYYY-MM) 
+City Province or State Country Telephone number 
+Job Description 
+OSFI 580 Page 6 of 9
+
+Unclassified / Non classifié 
+PART H - FOREIGN EMPLOYMENT AND / OR AFFILIATION 
+1. Are  yo u  now  or  have  you  ever  been  employed  by,  served  as  a  director,  or  acted  as  a  consultant or  agent for  a  foreign  (non-
+Canadian) government, political party, firm, or  agency, including any independent  agency of  a foreign government, crown 
+c
+orporation, or state-owned enterprise? 
+Ye
+s No 
+If yes, give details (country, organization, nature of work and dates), include military (including cadets), law enforcement, 
+security, and intelligence employment. 
+2. A
+re you affiliated with any foreign (non-Can adian) government or  political party, or have you had communications  with any  foreign
+gov
+ernment  or political party, its officials  or known proxies?  
+Yes No 
+If yes, give 
+details (country, nature of affiliation, how that affiliation or those communications could influence your decision-
+making with respect to the financial institution which is the subject of the application.) 
+3. A
+re you a member of any professional association in Canada or any other country?
+Yes No 
+If
+ yes
+, give details (country, position within the association, mandate of the association, and duration of membership.) 
+PART I - FOREIGN ASSETS 
+1. Do you have any business, financial or personal assets outside Canada?
+Ye
+s No 
+If yes
+, give details, including a list of countries (exclude stocks and mutual funds purchased in Canada)
+OSFI 580 Page 7 of 9
+
+Unclassified / Non classifié 
+PART J – EDUCATION 
+Name all  post-secondary institutions you have attended; if you have  not  attended any post-secondary institutions, name the last  
+school you attended full-time  
+1 
+Name of Institution 
+Address From (YYYY-MM) To (YYYY-MM) 
+City Province or State Country Field of Study (Diploma or degree 
+obtained) 
+2 
+Name of Institution 
+Address From (YYYY-MM) To (YYYY-MM) 
+City Province or State Country Field of Study (Diploma or degree 
+obtained) 
+3 
+Name of Institution 
+Address From (YYYY-MM) To (YYYY-MM) 
+City Province or State Country Field of Study (Diploma or degree 
+obtained) 
+4 
+Name of Institution 
+Address From (YYYY-MM) To (YYYY-MM) 
+City Province or State Country Field of Study (Diploma or degree 
+obtained) 
+PART K - CERTIFICATION 
+I hereby certify that the information set out by me in this document is true and correct to the best of my knowledge. I also hereby consent to 
+the release of my personal information as described in the privacy notice. 
+Signature Date 
+PART L - REVIEW (To be completed by the OSFI Official responsible for ensuring the completion of sections A, 
+B, C, D, E, F, G, H, I, J, AND K) 
+Name and Title Telephone Number 
+Signature Date 
+OSFI 580 Page 8 of 9
+
+Unclassified / Non classifié 
+INSTRUCTIONS FOR COMPLETION OF THE OSFI SECURITY INFORMATION FORM 
+• Once completed this form shall be safeguarded and handled at the level of PROTECTED B. 
+• This form is to be completed digitally or if not available printing in block letter format in black or blue ink. 
+• Please read and follow these instructions carefully. 
+• All names are to be in full (no initials). 
+• If information is not known or is unavailable, please indicate this on the form and on a separate sheet of paper 
+explain the cause or circumstance. 
+• All dates are to be entered in order of YEAR, MONTH, and DAY as applicable. 
+• If space allotted in any portion is insufficient, please use a separate sheet and continue using the same format. 
+• All fields are mandatory and any field that is not applicable must be identified using N/A. 
+Detailed Instructions: 
+PART A - GENERAL INFORMATION - Complete as requested. 
+• To include the name of proposed Financial Institutions not yet incorporated. 
+PART B - BIOGRAPHICAL INFORMATION -Complete as requested. 
+PART C - MARITAL STATUS / COMMON-LAW PARTNERSHIP 
+• “common-law partner” – in relation to an individual, means a person who is cohabitating with the individual in a 
+conjugal relationship, having so cohabitated for a period of at least one year. This includes persons of the same sex. 
+PART D - IMMEDIATE RELATIVES (including those living outside Canada) 
+• To include parents, siblings, spouse, and children. Additionally, this would include others connected by adoption, 
+marriage and civil partnership, such as stepsiblings, children and parents and adopted siblings, children and parents. 
+PART E - CRIMINAL CONVICTIONS IN AND OUTSIDE OF CANADA 
+• List only criminal convictions for which a pardon has NOT been granted. Include on a separate attached sheet of 
+paper if more than one conviction. Individual must include those charges outside Canada. 
+PART F – RESIDENCE 
+• As set forth, ensuring current address is recorded first. 
+• For rural area, include civic number or lot, concession and township number. 
+PART G – EMPLOYMENT 
+• Record your present employment first. 
+• Job site address is the address where your work is performed and may be different from your employer’s address. 
+PART H - FOREIGN EMPLOYMENT AND / OR AFFILIATION- Complete as requested. 
+• “Influence” includes situations where a person or entity engages in actions, behaviours, or the use of power to 
+impact others’ actions, decisions, or behaviours in their own or another’s interests. 
+• “Professional association” includes any professional body, organization, society or institute which seeks to promote 
+the profession, advance the careers of members and represent the profession’s interests to government or the public. 
+PART I - FOREIGN ASSETS - Complete as requested. 
+PART J - EDUCATION - Complete as requested. 
+PART K - CERTIFICATION - Complete as requested. 
+OSFI 580 Page 9 of 9

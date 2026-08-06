@@ -1,0 +1,153 @@
+# Charge de créances douteuses (C1)
+
+Information
+
+Type de document
+
+Instructions
+
+Secteur
+
+Institutions de dépôt
+
+Relevé
+
+Relevé de la charge de créances douteuses (C1)
+
+Dernière révision
+
+Juillet 2017
+
+Numéro de relevé
+
+C1
+
+## Relevés
+
+[C1 - Exemple de relevé (XLS, 40,5 Ko)](/sites/default/files/import-media/data_and_forms/sample-return/2023-06/fr/C1.xls "C1.xls") [C1 - Règles de validation (XLSX, 51,18 Ko)](/sites/default/files/documents/c1-validation-fr.xlsx "c1-validation-fr.xlsx") [Relevé des changements](/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-changements-c1 "Relevé des changements (C1)")
+
+## Charge de créances douteuses
+
+### Objet
+
+Le présent relevé fournit au BSIF des renseignements sur le montant de la charge de créances douteuses selon les principales catégories de créances.
+
+### Fondement législatif
+
+Les articles 628 et 600 de la *Loi sur les banques* et l'article 495 de la *Loi sur les sociétés de fiducie et de prêt*.
+
+### Institutions visées
+
+Toutes les institutions sont tenues d'établir le relevé.
+
+### Publication
+
+Les renseignements figurant dans le relevé ne sont pas publiés.
+
+### Fréquence
+
+* Les institutions dont l'exercice se termine en octobre - annuel - octobre.
+* Les institutions dont l'exercice se termine en décembre - annuel - décembre.
+
+### Personne ressource
+
+Fournir le nom et le numéro de téléphone de la personne à joindre pour obtenir des renseignements au sujet du présent relevé.
+
+### Échéance
+
+Le relevé est établi la dernière journée de l'exercice et présenté dans les 45 jours qui suivent la date de déclaration.
+
+* Les institutions dont l'exercice se termine en octobre - octobre
+* Les institutions dont l'exercice se termine en décembre - décembre
+
+### Organisme à contacter
+
+BSIF
+
+### Instructions générales
+
+Les postes de l'actif du relevé sont conformes à ceux du bilan, sauf indications contraire.
+
+Des renseignements détaillés ne sont requis que pour les provisions individuelles Highlighted text\*(stage 3)\*. Les provisions collectives Highlighted text\*(stages 1 et 2)\* sont déclarées sur une ligne séparée.
+
+En ce qui concerne la déclaration des provisions individuelles pour les prêts non hypothécaires à des particuliers et à d'autres à des fins commerciales, au poste 3 e), veuillez utiliser la Classification type des industries (CTI) - 1980 publiée par Statistique Canada pour l'identification des emprunteurs.
+
+Le relevé est réparti selon les prêts consentis aux « résidents » et aux « non-résidents ».
+
+« Non-résidents » s'entend des particuliers, sociétés et autres organismes (y compris les agences internationales et autres organismes extraterritoriaux) ne résidant pas ordinairement au Canada. Le lieu de résidence doit être établi d'après l'adresse inscrite du particulier, de la société ou de l'organisme, à moins que la banque ne sache que le lieu de résidence diffère de cette adresse.
+
+Les données du « Relevé de la charge de créances douteuses » doivent être conformes aux données trimestrielles du « Relevé de la provision pour Highlighted text\*pertes de crédit attendues\* ».
+
+Exprimer tous les montants en milliers de dollars.
+
+#### 1. Dépôts auprès d'institutions financières réglementées
+
+**Déclarer**
+
+les provisions individuelles ayant trait au poste 1(b) de l'actif.
+
+#### 2. Valeurs mobilières
+
+**Déclarer**
+
+les provisions individuelles ayant trait au poste 2(b) de l'actif.
+
+#### 3. Prêts non hypothécaires
+
+1. **Institutions financières**
+2. **Administrations publiques étrangères**
+3. **Sur créances de crédit-bail**
+
+**Déclarer**
+
+les provisions individuelles ayant trait aux postes 3(a)(ii), (iv) et (v) de l'actif.
+
+##### (d) À des particuliers à des fins non commerciales
+
+**Déclarer**
+
+séparément les provisions individuelles relatives aux prêts sur carte de crédit et aux prêts personnels. Le total des deux postes doit être conforme au poste 3(a)(vi) de l'actif.
+
+##### (e) À des particuliers et à d'autres à des fins commerciales
+
+**Déclarer**
+
+les provisions individuelles pour chaque poste. Le total de tous les postes est conforme au poste 3(a)(viii) de l'actif. Les postes (i) et (ii)(A) à (L) sont conformes aux postes du « Relevé des prêts non hypothécaires ».
+
+##### (f) Accords de prise en pension
+
+**Déclarer**
+
+les provisions individuelles relatives au poste 3(a)(vii) de l'actif.
+
+#### 4. Prêts hypothécaires
+
+##### (a) Résidentiels
+
+* Amortissement/traditionnel
+* Hypothèques inversées
+
+##### (b) Non résidentiels
+
+**Déclarer**
+
+les provisions individuelles relatives aux postes 3(b)(i) et (ii) de l'actif.
+
+#### 5. Autres éléments d'actif réalisés
+
+**Déclarer**
+
+les provisions individuelles relatives aux postes 4 et 6 de l'actif.
+
+#### 6. Éléments d'actif non comptabilisés
+
+**Déclarer**
+
+les provisions individuelles relatives à tous les éléments d'actif non comptabilisés.
+
+Aucune autre explication n'est jugée nécessaire.
+
+Signaler un problème ou une erreur sur cette page
+
+Date de modification :
+:   2022-11-16

@@ -1,0 +1,37 @@
+# Analysis of SAR Filings and CTRs Leads to Indictments of Criminal Organization
+
+[002.pdf](/system/files/case_example/002.pdf "002.pdf")
+(22.56 KB)
+
+A U.S. Customs Service investigation in Houston of a criminal organization involved in the repackaging and exportation of stolen commercial baby formula was aided by an analysis of SAR filings and CTRs. The criminal network, which operated in several states, laundered their illicit profits through financial institutions to the Middle East. An analysis of CTRs monitored the movement of these funds. Subsequently, SAR filings were discovered which highlighted the suspected transactions. An analysis of the SAR filings and CTRs, coupled with a combination of various investigative techniques, led to multiple indictments on numerous federal offenses, including money laundering, and the identification and seizure of several bank accounts.
+
+(Source: U.S. Customs Service)
+
+---
+
+[Published in The SAR Activity Review – Trends, Tips & Issues, Issue 1, October 2000]
+
+Tags
+
+Money Laundering
+
+Involving SARs
+
+Involving CTRs
+
+* [Resources](/resources)
+* [Alerts/Advisories/Notices/ Bulletins/Fact Sheets](/resources/advisoriesbulletinsfact-sheets)
+* [Bank Secrecy Act Filing Information](/resources/filing-information)
+* [Beneficial Ownership Information Reporting](/boi)
+* [Financial Trend Analyses](/resources/financial-trend-analyses)
+* [Financial Institutions](/resources/financial-institutions)
+* [FinCEN Exchange](/resources/fincen-exchange)
+* [Innovation](/resources/innovation)
+* [International](/resources/international-programs)
+* [Law Enforcement](/resources/law-enforcement)
+* [Ransomware](/resources/fincen-combats-ransomware)
+* [Residential Real Estate Reporting](/rre)
+* [Suspicious Activity Report (SAR)](/resources/suspicious-activity-report-sar-advisory-key-terms)
+* [Scams](/resources/scams)
+* [Statutes and Regulations](/resources/fincens-legal-authorities)
+* [Whistleblower Program](/whistleblower-program)

@@ -1,0 +1,68 @@
+# Bank of Canada maintains policy rate at 2¼%
+
+FOR IMMEDIATE RELEASE
+
+[Media Relations](https://www.bankofcanada.ca/press/contacts/)
+
+[Ottawa, Ontario](https://www.bankofcanada.ca/location/ottawa_ontario/)
+
+April 29, 2026
+
+[Share this page on Facebook
+
+ Share this page on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F04%2Ffad-press-release-2026-04-29%2F "Share this page on Facebook")
+[Share this page on X
+
+ Share this page on X](https://twitter.com/intent/tweet?text=Currently+reading%3A&url=https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F04%2Ffad-press-release-2026-04-29%2F "Share this page on X")
+[Share this page on LinkedIn
+
+ Share this page on LinkedIn](https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F04%2Ffad-press-release-2026-04-29%2F "Share this page on LinkedIn")
+[Share this page by email
+
+ Share this page by email](mailto:?Subject=Bank of Canada maintains policy rate at 2%C2%BC%25&body=Currently reading%3A https%3A%2F%2Fwww.bankofcanada.ca%2F2026%2F04%2Ffad-press-release-2026-04-29%2F "Share this page by email")
+
+The Bank of Canada today held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.
+
+The evolving conflict in the Middle East is causing heightened volatility and US trade policy continues to reshape global trade patterns. Both are ongoing sources of uncertainty. The Bank’s April outlook assumes tariffs remain unchanged and the global benchmark price of oil declines to US$75 per barrel by mid 2027.
+
+The Iran war has led to sharply higher energy prices and transportation disruptions, diminishing growth prospects in oil-importing countries and boosting inflation worldwide. In the United States, growth is still expected to be solid over the projection horizon, boosted by AI-related investment and consumption growth. China’s economy is being supported by robust exports. In the euro area, higher prices for oil and natural gas will weigh on economic activity.
+
+Financial conditions have been volatile, reflecting daily developments in the Middle East and shifting market expectations for inflation and interest rates. Bond yields are modestly higher since January while equity markets, which weakened sharply at the outset of the war, have recovered. Since the start of the war, the US dollar has appreciated against most major currencies. The Canada-US exchange rate has been relatively stable.
+
+Overall, the global economy is expected to grow by about 3% in 2026, 2027 and 2028. Projections for inflation over the next year are revised up because of the jump in energy prices.
+
+The outlook for economic growth in Canada is little changed from the January *Monetary Policy Report* (MPR) projection. After a contraction in the fourth quarter of 2025, growth is forecast to have resumed in early 2026. Consumer and government spending are supporting economic activity, while tariffs and trade uncertainty are weighing on exports and business investment. Housing activity declined in the fourth quarter and is being held back by slow population growth, economic uncertainty and ongoing affordability issues. The labour market is soft, with subdued employment growth over the past year and job losses in sectors targeted by US tariffs. The unemployment rate remains in the 6½%‑7% range, reflecting both weak hiring and fewer job seekers.
+
+The Bank’s April forecast projects GDP growth of 1.2% in 2026, rising to 1.6% in 2027 and 1.7% in 2028 as growth in exports and business investment resumes along a lower trajectory. With GDP growing slightly above potential, the current excess supply in the economy is gradually absorbed. While the war in Iran may alter its composition, overall GDP growth is little changed in the updated forecast: Since Canada is a large net exporter of oil, higher oil prices increase national income even as consumers are squeezed by higher gasoline prices.
+
+CPI inflation climbed to 2.4% in March because of sharply higher gasoline prices. The March increase follows several months of slowing inflation data. Core inflation has been easing and held steady at just above 2% in the most recent inflation report. The proportion of components of the CPI basket rising above 3% has also declined in recent months. As expected, so far there is little evidence that oil prices have fed through more broadly to goods and services prices, but this warrants close attention in the months ahead. Near-term inflation expectations have moved up with higher gasoline prices and still-elevated food price inflation, but longer-term inflation expectations have remained anchored.
+
+CPI inflation will likely rise further in April to about 3%. Based on the assumption that oil prices will ease, inflation is forecast to come down to the 2% target early next year and remain around 2% over the projection horizon.
+
+Against this backdrop and taking into account the current projection, Governing Council decided to maintain the policy rate at 2.25%. We are closely monitoring the impact of the conflict in the Middle East and how the economy is responding to US tariffs and trade policy uncertainty. Governing Council is looking through the war’s immediate impact on inflation but will not let higher energy prices become persistent inflation. As the outlook evolves, we stand ready to respond as needed. The Bank is committed to maintaining Canadians’ confidence in price stability through this period of global upheaval.
+
+## Information note
+
+The next scheduled date for announcing the overnight rate target is June 10, 2026. The Bank’s next MPR will be released on July 15, 2026.
+
+Content Type(s):
+[Press](https://www.bankofcanada.ca/search/?content_type[]=press),
+[Press releases](https://www.bankofcanada.ca/search/?content_type[]=press-releases)
+
+![](https://www.bankofcanada.ca/wp-content/uploads/2025/03/MPR-thumbnail_April-500x250-1741824908.jpg)
+
+[## Monetary Policy Report—April 2026](https://www.bankofcanada.ca/publications/mpr/mpr-2026-04-29/ "Monetary Policy Report—April 2026")
+
+The Canadian economy is expected to grow at a moderate pace as it continues to adjust to US tariffs. Inflation has moved up due to higher oil prices linked to the war in the Middle East. It is projected to then ease back to the 2% target in 2027.
+
+[## Press Conference: Monetary Policy Report – April 2026](https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-report-april-2026/ "Press Conference: Monetary Policy Report – April 2026")
+
+*Release of the Monetary Policy Report* – Press conference by Governor Tiff Macklem and Senior Deputy Governor Carolyn Rogers (10:30 (ET) approx.).
+
+[## Monetary Policy Report Press Conference Opening Statement](https://www.bankofcanada.ca/2026/04/opening-statement-2026-04-29/ "Monetary Policy Report Press Conference Opening Statement")
+
+Governor Tiff Macklem discusses the *Monetary Policy Report* and the key issues involved in the Governing Council’s deliberations about the monetary policy decision.
+
+[## Summary of Governing Council deliberations: Fixed announcement date of April 29, 2026](https://www.bankofcanada.ca/2026/05/summary-of-governing-council-deliberations-fixed-announcement-date-of-april-29-2026/ "Summary of Governing Council deliberations: Fixed announcement date of April 29, 2026")
+
+This is an account of the deliberations of the Bank of Canada’s Governing Council leading to the monetary policy decision on April 29, 2026.

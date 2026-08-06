@@ -1,0 +1,24 @@
+{
+  "doc_id": "9b79c09bd351c818",
+  "regulator_id": "fintrac",
+  "doc_type": "guidance",
+  "title": "Indicateurs de blanchiment d'argent et de financement du terrorisme - N\u00e9gociants en m\u00e9taux pr\u00e9cieux et pierres pr\u00e9cieuses",
+  "language": "en",
+  "source_url": "https://fintrac-canafe.canada.ca/guidance-directives/transaction-operation/indicators-indicateurs/dpms_mltf-fra.php",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e5ccd144a9a9f6d1a830f3bc3036c05867064c45911ca15be2a558e58ac1fd9a",
+  "version_ts": "2026-08-03T05-14-07Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T05:14:07.935572+00:00",
+  "run_id": "2026-08-03_fintrac_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fintrac/current/guidance/2026/9b79c09bd351c818",
+  "tags": [
+    "canada",
+    "aml_cft"
+  ]
+}

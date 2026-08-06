@@ -1,0 +1,27 @@
+{
+  "doc_id": "2026-14621",
+  "regulator_id": "fedreg",
+  "doc_type": "announcement",
+  "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rule 4515.01 (Allocations of Orders Made by Investment Advisers)",
+  "language": "en",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/21/2026-14621/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+  "reference_number": "2026-14621",
+  "published_date": "2026-07-21",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:3acab155a46620a168c0bd080456311a303c9e70c85c48734ee60cf177a1b169",
+  "version_ts": "2026-08-04T16-16-07Z",
+  "version_n": 2,
+  "ingested_at": "2026-08-04T16:16:07.326574+00:00",
+  "run_id": "2026-08-04_fedreg_ui161607",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/fedreg/current/announcement/2026/2026-14621",
+  "tags": [
+    "us",
+    "rulemaking"
+  ],
+  "final_url": "https://unblock.federalregister.gov",
+  "fetch_method": "html_to_md",
+  "content_source": "metadata_stub"
+}

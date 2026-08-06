@@ -1,0 +1,67 @@
+# [Joint Board of Appeal dismisses appeal against the EBA](/press-news/esma-news/joint-board-appeal-dismisses-appeal-against-eba)
+
+Board of Appeal
+
+16/07/2026
+
+The Joint Board of Appeal of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) has issued a [decision](/sites/default/files/2026-07/BoA-D-2026-01_Decision_by_the_Board_of_Appeal_on_D_v_EBA.pdf) stating that an appeal brought by an individual against the European Banking Authority (EBA) is inadmissible.
+
+The appeal concerned a response by the EBA to a complaint regarding the closure of a bank account by a credit institution and the handling of the matter by the Finnish National Competent Authority (FIN-FSA). The appellant had requested that the EBA investigate a possible breach of Union law by FIN-FSA.
+
+Following its assessment, the EBA decided against initiating an investigation. The appellant subsequently challenged that decision before the Board of Appeal.
+
+The Board of Appeal concluded that, under established EU case law, any decision to initiate an investigation is at the EBA’s discretion. The Board added that a decision not to open such an investigation is not subject to review by the Board of Appeal.
+
+Furthermore, the Board examined whether the circumstances of the case differed from previous decisions and relevant EU case law in a way that could justify a different conclusion. It found no such distinguishing circumstances.
+
+#### **Background**
+
+The [Board of Appeal](/about-esma/governance-structure/board-appeal) is a joint body of the European Supervisory Authorities composed of independent members. It reviews appeals against certain decisions taken by the European Banking Authority (EBA), the European Securities and Markets Authority (ESMA) and the European Insurance and Occupational Pensions Authority (EIOPA), in accordance with the relevant ESA Regulations.
+
+Further information:
+
+###### **Tayfun Yilmaz**
+
+Communications Officer  
+[press@esma.europa.eu](mailto:press@esma.europa.eu)
+
+##### Related Documents
+
+Download All Files
+Download Selected Files
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Date | Reference | Title | Download | Select |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 16/07/2026 | BoA-D-2026-01 | [Decision by the Board of Appeal on D v EBA](/document/decision-board-appeal-d-v-eba) |  |  |
+
+More on the same topic
+
+[European Commission launches call for candidates for the ESAs’ Board of Appeal](/press-news/esma-news/european-commission-launches-call-candidates-esas-board-appeal)
+
+12 May 2026
+
+The European Commission has launched a call for expression of interest for the appointment of members to the [Board](/about-esma/governance-structure/board-appeal)
+
+[ESAs’ Joint Board of Appeal rules on reimbursement of costs in an appeal brought by NOVIS Insurance Company against the European Insurance and Occupational Pensions Authority (EIOPA)](/press-news/esma-news/esas-joint-board-appeal-rules-reimbursement-costs-appeal-brought-novis)
+
+05 Jan 2026
+
+The Joint Board of Appeal (“The Board”) of the European Supervisory Authorities (ESAs) – the EBA, ESMA, EIOPA – has issued its
+
+[ESAs’ Joint Board of Appeal allows the appeal lodged by NOVIS and remits the case to EIOPA](/press-news/esma-news/esas-joint-board-appeal-allows-appeal-lodged-novis-and-remits-case-eiopa)
+
+13 Aug 2024
+
+The Joint Board of Appeal (“The Board”) of the European Supervisory Authorities (ESAs) (the EBA, ESMA and EIOPA) unanimously
+
+[ESAs’ Joint Board of Appeal dismisses appeal by Euroins Insurance Group AD against the European Insurance and Occupational Pensions Authority](/press-news/esma-news/esas-joint-board-appeal-dismisses-appeal-euroins-insurance-group-ad-against-0)
+
+07/08/2024
+
+The Joint Board of Appeal (“The Board”) of the European Supervisory Authorities (ESAs) (the EBA, ESMA, EIOPA), unanimously
+
+[More](/press-news/esma-news?tid%5B0%5D=355)

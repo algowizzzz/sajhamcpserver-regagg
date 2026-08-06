@@ -1,0 +1,77 @@
+# Statistical Notice 2026/06 - Form PL - updates to definitions
+
+Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder
+
+Published on
+30 June 2026
+
+## Statistical Notice 2026/06
+
+### Overview
+
+The Bank of England will be updating the [Form PL (Profit and Loss)](/statistics/data-collection/statistical-reporting/form-pl) [definitions](/-/media/boe/files/statistics/data-collection/pl/def_pl2016.pdf) to improve consistency and alignment with the ONS UK National Accounts requirements.
+
+Form PL collects data on reporting institutions’ income and expenditure and is a key input into the compilation of the UK National Accounts and Balance of Payments.
+
+These updates reflect feedback received from reporting institutions and internal review of the existing definitions.
+
+### Timing of implementation
+
+The updated Form PL definitions will be:
+
+* Published on Friday 31 July 2026.
+* Effective from Q1 2027 reporting period, to be submitted in May 2027.
+
+### Key changes
+
+The most significant change relates to the treatment of tax (PL16 / PL.01.01.01 C0010 R1600). The definition and reporting guidance for tax has been updated to provide clarity on treatment of items classified as taxes on production and related charges.
+
+### Action required by firms
+
+Firms should review the updated Form PL definitions in full once published, update internal systems and reporting processes where required and ensure their relevant teams are aware of the changes ahead of Q1 2027 reporting.
+
+### Further information
+
+We do not anticipate major changes in reporting. However, if you think this would significantly change your reporting or have any questions regarding these changes, please contact the PL team at: [DSDPLTeam@bankofengland.co.uk](mailto:DSDPLTeam@bankofengland.co.uk).
+
+### Footnote
+
+A summary of all Statistical Notice items that are yet to come into effect are also available to view on the [Statistical notices page](https://www.bankofengland.co.uk/statistics/data-collection/statistical-notices). Statistical Notices should be received by all those responsible for the completion of Bank of England returns. To amend the circulation list please [subscribe](https://www.bankofengland.co.uk/subscribe-to-emails).
+
+## Other news
+
+[News
+
+30 July 2026
+
+### Minutes of the Meeting of the Court of Directors...
+
+### Minutes of the Meeting of the Court of Directors held on 4 June 2026](/minutes/2026/july/court-minutes-4-june-2026)
+
+[News // Monetary Policy Committee (MPC)
+
+30 July 2026
+
+### Bank Rate maintained at 3.75% - July 2026...
+
+### Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes](/monetary-policy-summary-and-minutes/2026/july-2026)
+
+[News // Letter
+
+23 July 2026
+
+### Letter from the Governor to the Daily Mail
+
+### Letter from the Governor to the Daily Mail](/letter/2026/letter-from-the-governor-to-the-daily-mail)
+
+[News // News release
+
+22 July 2026
+
+### PRA consults on updated guidance for friendly...
+
+### PRA consults on updated guidance for friendly society amalgamations and transfers](/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers)
+
+[View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
+
+[Back to top](#)

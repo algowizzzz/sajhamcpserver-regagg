@@ -1,0 +1,27 @@
+{
+  "doc_id": "73455f1c68f430aa",
+  "regulator_id": "osfi",
+  "doc_type": "guidance",
+  "title": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/b2-2028-en.pdf",
+  "language": "en",
+  "source_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/b2-2028-en.pdf",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:46d2679e7945f722e6a81d2da9470b8f71048b3e6183b68bc2d35a323e225670",
+  "version_ts": "2026-08-03T07-37-53Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-03T07:37:53.502557+00:00",
+  "run_id": "2026-08-03_osfi_ui073753",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/osfi/current/guidance/2026/73455f1c68f430aa",
+  "tags": [
+    "canada",
+    "prudential",
+    "banking"
+  ],
+  "final_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/b2-2028-en.pdf",
+  "fetch_method": "pdf_to_md"
+}

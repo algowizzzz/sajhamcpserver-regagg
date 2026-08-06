@@ -1,0 +1,25 @@
+{
+  "doc_id": "0f02059c85197eca",
+  "regulator_id": "nyt_business",
+  "doc_type": "news_story",
+  "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
+  "language": "en",
+  "source_url": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
+  "reference_number": null,
+  "published_date": "2026-08-03",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:bc6252513e12a9e2dd56e6475083a20634a6c88409f5ee368a39000562a15de5",
+  "version_ts": "2026-08-06T04-00-02Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T04:00:02.938743+00:00",
+  "run_id": "2026-08-05_nyt_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nyt_business/current/news_story/2026/0f02059c85197eca",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
+  "fetch_method": "feed_summary"
+}

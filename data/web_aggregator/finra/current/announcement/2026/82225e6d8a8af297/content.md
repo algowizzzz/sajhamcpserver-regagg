@@ -1,0 +1,111 @@
+# Media Center
+
+## Latest News
+
+**News Release**
+
+[FINRA Foundation Research Reveals Gaps in Fraud Awareness That May Leave Americans Vulnerable](/media-center/newsreleases/2026/finra-foundation-research-reveals-gaps-fraud-awareness-may-leave)
+
+Jul 22, 2026
+
+**Blog Post**
+
+[Strengthening Our Exam Program Through Innovation and Transparency](/media-center/blog/strengthening-our-exam-program-through-innovation-transparency-20260720)
+
+Jul 20, 2026
+
+**News Release**
+
+[FINRA Announces Results of Board of Governors Elections](/media-center/newsreleases/2026/finra-announces-results-board-governors-elections)
+
+Jul 17, 2026
+
+**News Release**
+
+[FINRA Taps Christine Kieffer to Lead Investor Education Efforts](/media-center/newsreleases/2026/finra-taps-christine-kieffer-lead-investor-education-efforts)
+
+Jul 14, 2026
+
+**Blog Post**
+
+[Report from External Review of FINRA’s Enforcement Program](/media-center/blog/report-from-external-review-of-finras-enforcement-program-20260630)
+
+Jun 30, 2026
+
+**News Release**
+
+[FINRA Expels Reid & Rudiger, Bars Cofounders](/media-center/newsreleases/2026/finra-expels-reid-rudiger-bars-cofounders)
+
+Jun 17, 2026
+
+## Latest Podcasts
+
+[![](/sites/default/files/2026-07/Member%20Feedback%20Pod%20Image.jpg)](/media-center/finra-unscripted/how-finra-turns-member-feedback-into-action)
+
+###### [How FINRA Turns Member Feedback Into Action](/media-center/finra-unscripted/how-finra-turns-member-feedback-into-action)
+
+Jul 07, 2026
+
+[![](/sites/default/files/2026-06/AC%20POD%20EP%20stock%20photo.jpg)](/media-center/finra-unscripted/inside-finra-forward-a-conversation-with-finra-board-chair-scott-curtis)
+
+###### [Inside FINRA Forward: A Conversation with FINRA Board Chair Scott Curtis](/media-center/finra-unscripted/inside-finra-forward-a-conversation-with-finra-board-chair-scott-curtis)
+
+Jun 02, 2026
+
+[![](/sites/default/files/2026-05/Exam%20changes%20pod%20image_0.jpg)](/media-center/finra-unscripted/how-finra-is-enhancing-member-firm-examinations)
+
+###### [How FINRA Is Enhancing Member Firm Examinations](/media-center/finra-unscripted/how-finra-is-enhancing-member-firm-examinations)
+
+May 05, 2026
+
+![Stats](/sites/default/files/2023-02/stats_1.jpeg)
+
+### Statistics
+
+Select FINRA and securities industry data.
+
+[Statistics Page](/media-center/statistics)
+
+## Resource Center
+
+[How FINRA Serves Investors and Members](/about/how-finra-serves-investors-and-members)
+
+[What It Means to Be Regulated by FINRA](https://www.finra.org/investors/insights/regulated-by-FINRA)
+
+Learn about what it means to be regulated by FINRA and the safeguards the self-regulatory organization provides investors
+
+[Disciplinary Actions Online](https://www.finra.org/rules-guidance/oversight-enforcement/finra-disciplinary-actions-online)
+
+Search the FINRA Disciplinary Actions Online database
+
+[Arbitration Awards Online](https://www.finra.org/arbitration-mediation/arbitration-awards)
+
+FINRA Arbitration Awards database
+
+[Rule Filing Status Report](https://tools.finra.org/rule_filings/)
+
+List, status and details of FINRA rule filings
+
+[Monthly Disciplinary Actions](https://www.finra.org/rules-guidance/oversight-enforcement/disciplinary-actions)
+
+Disciplinary actions against firms and individuals for violations of FINRA rules; federal securities laws, rules, and regulations; and the rules of the MSRB
+
+[FINRA Annual Financial Report](https://www.finra.org/about/annual-reports)
+
+Annual report on how FINRA manages our finances to support our mission of protecting investors and promoting market integrity.
+
+[FINRA Industry Snapshot](https://www.finra.org/media-center/reports-studies/2026-industry-snapshot)
+
+Annual statistical report on registered representatives, brokerage firms, and market activity
+
+[Annual Regulatory Oversight Report](https://www.finra.org/rules-guidance/guidance/reports/2024-finra-annual-regulatory-oversight-report)
+
+Insights and observations from recent activities of FINRA’s regulatory operations
+
+![Finra Foundation](/sites/default/files/2023-02/iStock-1365031712-Get-On-Board-Insight-640x302.jpg)
+
+### FINRA Foundation
+
+The FINRA Foundation helps Americans build financial stability, invest for life goals and guard against fraud
+
+[Visit FINRA Foundation](https://finrafoundation.org)

@@ -1,0 +1,18 @@
+# FINTRAC imposes an administrative monetary penalty on Libro Credit Union Limited
+
+[**2022-01-13**]
+
+Libro Credit Union Limited, also operating as Libro Credit Union, a credit union in London, Ontario, was imposed an administrative monetary penalty of $156,750 on October 12, 2021, for committing two violations. The violations were found during the course of a compliance examination in 2019. The case is closed.
+
+**Violation #1 – Failure to report suspicious transactions – PCMLTFA 7**
+
+Libro Credit Union Limited failed to submit suspicious transaction reports where there were reasonable grounds to suspect that transactions were related to a money laundering or a terrorist financing offence.
+
+---
+
+**Violation #2 – Failure to take prescribed special measures – PCMLTF Regulations 71.1**
+
+Libro Credit Union Limited failed to take some prescribed special measures to mitigate its high risks.
+
+Date Modified:
+:   2022-01-13

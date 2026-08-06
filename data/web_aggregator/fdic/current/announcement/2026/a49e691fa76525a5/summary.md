@@ -1,0 +1,1 @@
+Summary: Pursuant to the provisions of the “Government in the Sunshine Act” (5 U.S.C. § 552b), notice was given that the Federal Deposit Insurance Corporation's Board of Directors would meet in open session to consider the matters.

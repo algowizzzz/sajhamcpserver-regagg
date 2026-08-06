@@ -1,0 +1,48 @@
+# Pénalité administrative pécuniaire imposée à la Banque Royale du Canada
+
+**Du :** [Centre d'analyse des opérations et déclarations financières du
+Canada](/intro-fra) (CANAFE)
+
+[**2023-12-05**]
+
+La Banque Royale du Canada (RBC) s’est vu imposer une pénalité administrative pécuniaire de 7 475 000 $ le 3 novembre 2023 pour la commission de 3 violations. Les violations ont été constatées durant un examen de conformité en 2022. Cette pénalité a été imposée pour des violations administratives commises par RBC en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et des règlements connexes, et non pour des infractions criminelles liées au recyclage des produits de la criminalité ou au financement des activités terroristes. La pénalité administrative pécuniaire a été payée au complet par RBC et les procédures ont pris fin.
+
+## Nature de la violation
+
+Violation no 1
+:   **Fait pour une personne ou une entité de ne pas déclarer des opérations financières effectuées dans le cadre de ses activités et à l’égard desquelles il y a des motifs raisonnables de soupçonner qu’elles sont liées à la perpétration, réelle ou tentée, d’une infraction de recyclage des produits de la criminalité ou de financement des activités terroristes, ce qui est contraire à l’article 7 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et au paragraphe 9(1) du Règlement sur la déclaration des opérations douteuses – recyclage des produits de la criminalité et financement des activités terroristes**
+      
+      
+    Banque Royale du Canada a omis de transmettre 16 déclarations d’opérations douteuses (DOD) à l’égard des 130 dossiers examinés pour lesquelles la banque avait des motifs raisonnables de soupçonner que les opérations étaient liées à la perpétration, réelle ou tentée, d’une infraction de recyclage des produits de la criminalité (communément appelé blanchiment d’argent [BA]) ou de financement des activités terroristes (FAT). Ces 16 cas d’opérations douteuses comprennent notamment ce qui suit :
+
+    * Cas où la banque a reçu des ordonnances de communication visant des clients et a omis de transférer les dossiers afin de déterminer si une DOD devait être transmise à CANAFE;
+    * Cas liés à de la fraude pour lesquels aucune DOD n’a été transmise à CANAFE malgré la présence d’indicateurs de BA et de FAT permettant d’établir des motifs raisonnables de soupçonner que les opérations étaient liées à la perpétration, réelle ou tentée, d’une infraction de BA ou de FAT;
+    * Cas où des enquêtes sur des cas ont mené à la conclusion qu’aucune DOD n’était requise sans qu’il y ait eu un examen adéquat des activités des clients par rapport aux indicateurs de BA et de FAT pertinents.
+
+Violation no 2
+:   **Fait pour une personne ou entité de ne pas déclarer au Centre, selon les modalités réglementaires, des opérations douteuses, ce qui est contraire à l’article 7 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et au paragraphe 9(1) du Règlement sur la déclaration des opérations douteuses – recyclage des produits de la criminalité et financement des activités terroristes**
+      
+      
+    L’examen de CANAFE a permis de constater qu’avant 2021, la banque ne préparait pas de DOD distinctes pour les différents emplacements de ses succursales.
+      
+      
+    CANAFE a réalisé l’examen de DOD transmises au cours d’une période de deux mois utilisée comme échantillon et a observé que 29 des 34 déclarations comprenaient des opérations associées à plusieurs emplacements qui ne faisaient pas l’objet de DOD distinctes, ce qui est contraire à l’annexe sur la déclaration des opérations ou tentatives d’opération douteuses et à la directive publiée par CANAFE. Par conséquent, l’emplacement des opérations déclarées dans la partie A était incorrect, dans la mesure où les informations supplémentaires ont été déclarées dans la partie G.
+
+Violation no 3
+:   **Fait de ne pas établir et mettre en œuvre des principes et des mesures de conformité écrits qui sont mis à jour et, dans le cas d’une entité, approuvés par un de ses dirigeants, ce qui est contraire au paragraphe 9.6(1) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes et de l’alinéa 71(1)b) du Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes**
+      
+      
+    CANAFE a déterminé que la banque n’avait pas les documents de gouvernance appropriés pour l’élaboration, la mise à jour et la mise en œuvre efficaces à l’échelle de l’organisation de politiques et procédures de lutte contre le BA et le FAT. De plus, l’on a constaté que plusieurs procédures liées à l’identification et la transmission de DOD étaient incomplètes, inadéquates et, dans certains cas, non applicables.
+      
+      
+    Plus précisément, les politiques et procédures de la banque présentaient des directives incohérentes sur les circonstances lors desquelles il faut transmettre une DOD à CANAFE, y compris une référence au seuil des motifs raisonnables de croire (MRC) qui était supérieur à celui des motifs raisonnables de soupçonner (MRS) établi dans la Loi et les règlements connexes. Notons comme exemple des documents qui précisent le besoin de faire enquête pour déterminer si des éléments d’une infraction sont présents ou si les opérations sont liées à une infraction sous-jacente.
+      
+      
+    D’ailleurs, la banque n’avait pas de procédures claires et complètes concernant la réception et la transmission de dossiers lorsque la banque reçoit des ordonnances de communication afin de déterminer si une DOD doit être transmise ou non à CANAFE.
+
+## Lien connexe
+
+* [Communiqué de presse : CANAFE impose une pénalité administrative pécuniaire à la Banque Royale du Canada](/new-neuf/nr/2023-12-05-fra)
+
+Date de modification :
+:   2023-12-17
